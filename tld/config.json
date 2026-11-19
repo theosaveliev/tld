@@ -1,0 +1,25 @@
+{
+    "api": "https://thelongdark.fandom.com/api.php",
+    "api_chunksize": 50,
+    "curonly": true,
+    "date": "20261117",
+    "delay": 1.0,
+    "exnamespaces": [],
+    "export": "",
+    "failfast": true,
+    "http_method": "POST",
+    "images": true,
+    "index": "https://thelongdark.fandom.com/index.php",
+    "logs": false,
+    "namespaces": [
+        "all"
+    ],
+    "path": "tld",
+    "redirects": true,
+    "retries": 1,
+    "templates": false,
+    "xml": true,
+    "xmlapiexport": false,
+    "xmlrevisions": false,
+    "xmlrevisions_page": false
+}

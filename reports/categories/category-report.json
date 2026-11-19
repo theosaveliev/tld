@@ -1,0 +1,3655 @@
+{
+  "summary": {
+    "article_pages_scanned": 1819,
+    "category_pages_scanned": 148,
+    "categories_found": 170,
+    "categorized_articles": 547,
+    "uncategorized_articles": 1272
+  },
+  "categories": {
+    "Category:Accessories slot item images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Equipment images"
+      ],
+      "subcategories": []
+    },
+    "Category:Achievements": {
+      "article_count": 19,
+      "pages": [
+        "Beneath a Starry Sky",
+        "Centurion",
+        "Deep Forest",
+        "Desolation Point (Achievement)",
+        "Exploration Game",
+        "Face the Impossible",
+        "Happy Harvester",
+        "It was THIS Big!",
+        "Living Off the Land",
+        "Natural Healer",
+        "Night Walker",
+        "Pacifist",
+        "Ready for when the SHTF!",
+        "Silent Hunter",
+        "The First of Many",
+        "The Long Dark/Achievements",
+        "Waste Not, Want Not",
+        "Wrapped in Furs",
+        "You Made It!"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Content"
+      ],
+      "subcategories": [
+        "Category:Achievements images"
+      ]
+    },
+    "Category:Achievements images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Achievements"
+      ],
+      "subcategories": []
+    },
+    "Category:Active Talk Pages": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Afflictions": {
+      "article_count": 2,
+      "pages": [
+        "Afflictions",
+        "Insomnia"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark"
+      ],
+      "subcategories": []
+    },
+    "Category:Article management templates": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Templates"
+      ],
+      "subcategories": []
+    },
+    "Category:Article stubs": {
+      "article_count": 1,
+      "pages": [
+        "Waterfall"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Content",
+        "Category:Site maintenance"
+      ],
+      "subcategories": []
+    },
+    "Category:Articles in need of images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Site maintenance"
+      ],
+      "subcategories": []
+    },
+    "Category:Bedrolls": {
+      "article_count": 3,
+      "pages": [
+        "Bear Skin Bedroll",
+        "Bedroll",
+        "Improvised Down Bedroll"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Beds": {
+      "article_count": 4,
+      "pages": [
+        "Bear Skin Bedroll",
+        "Bed",
+        "Bedroll",
+        "Improvised Down Bedroll"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Blackrock": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Regions"
+      ],
+      "subcategories": [
+        "Category:Blackrock images",
+        "Category:Locations in Blackrock"
+      ]
+    },
+    "Category:Blackrock images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Blackrock",
+        "Category:The Long Dark images"
+      ],
+      "subcategories": [
+        "Category:Locations in Blackrock images"
+      ]
+    },
+    "Category:Blog posts": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Community"
+      ],
+      "subcategories": [
+        "Category:News"
+      ]
+    },
+    "Category:BlogListingPage": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Candidates for deletion": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Site maintenance"
+      ],
+      "subcategories": []
+    },
+    "Category:Candidates for renaming": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Site maintenance"
+      ],
+      "subcategories": []
+    },
+    "Category:Candidates for speedy deletion": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Site maintenance"
+      ],
+      "subcategories": []
+    },
+    "Category:Category templates": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Templates"
+      ],
+      "subcategories": []
+    },
+    "Category:Caves": {
+      "article_count": 1,
+      "pages": [
+        "Pensive Vista"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Challenges": {
+      "article_count": 9,
+      "pages": [
+        "Almanac",
+        "As the Dead Sleep",
+        "Challenge",
+        "Escape the Darkwalker",
+        "Hopeless Rescue",
+        "Nomad",
+        "The Hunted, Part One",
+        "The Hunted, Part Two",
+        "Whiteout"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark"
+      ],
+      "subcategories": [
+        "Category:Challenges images"
+      ]
+    },
+    "Category:Challenges images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Challenges"
+      ],
+      "subcategories": []
+    },
+    "Category:Characters": {
+      "article_count": 21,
+      "pages": [
+        "Astrid Greenwood",
+        "Atwood",
+        "Crash Survivor",
+        "Donner",
+        "Father Thomas",
+        "Franklin",
+        "Grey Mother",
+        "Heller",
+        "Hobbs",
+        "Jace",
+        "Jane Yang",
+        "Jeremiah",
+        "Lilith Barker",
+        "Martin Barker",
+        "Mathis",
+        "Methuselah",
+        "Molly",
+        "Molly's Husband",
+        "Old Bear",
+        "Vachon",
+        "Will Mackenzie"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark"
+      ],
+      "subcategories": [
+        "Category:Characters images"
+      ]
+    },
+    "Category:Characters images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Characters"
+      ],
+      "subcategories": []
+    },
+    "Category:Clothing": {
+      "article_count": 4,
+      "pages": [
+        "Clothing",
+        "Crampons",
+        "Improvised Hand Wraps",
+        "Moose-Hide Satchel"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Items"
+      ],
+      "subcategories": [
+        "Category:Clothing images",
+        "Category:Craftable clothing"
+      ]
+    },
+    "Category:Clothing images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Clothing"
+      ],
+      "subcategories": []
+    },
+    "Category:Collectibles": {
+      "article_count": 8,
+      "pages": [
+        "Buffer Memories",
+        "Cairns",
+        "Climber's Journal Page",
+        "Collectibles",
+        "Mementos",
+        "Notes",
+        "Polaroids",
+        "Recipe Cards"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Items"
+      ],
+      "subcategories": [
+        "Category:Collectibles images"
+      ]
+    },
+    "Category:Collectibles images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Collectibles"
+      ],
+      "subcategories": []
+    },
+    "Category:Community": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Organization"
+      ],
+      "subcategories": [
+        "Category:Blog posts"
+      ]
+    },
+    "Category:Content": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark Wiki"
+      ],
+      "subcategories": [
+        "Category:Achievements",
+        "Category:Article stubs",
+        "Category:Feats",
+        "Category:Mechanics",
+        "Category:The Long Dark"
+      ]
+    },
+    "Category:Copyright": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Organization"
+      ],
+      "subcategories": []
+    },
+    "Category:Craftable clothing": {
+      "article_count": 15,
+      "pages": [
+        "Bearskin Coat",
+        "Cougar Hide Wrap",
+        "Deerskin Boots",
+        "Deerskin Pants",
+        "Improvised Crampons",
+        "Improvised Hand Wraps",
+        "Improvised Head Wrap",
+        "Improvised Insulation",
+        "Moose-Hide Cloak",
+        "Moose-Hide Satchel",
+        "Rabbitskin Hat",
+        "Rabbitskin Mitts",
+        "Wolfskin Coat",
+        "Wolfskin Hat",
+        "Wolfskin Pants"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Clothing"
+      ],
+      "subcategories": []
+    },
+    "Category:Craftable tools": {
+      "article_count": 8,
+      "pages": [
+        "Fishing Tackle",
+        "Hook",
+        "Improvised Hatchet",
+        "Improvised Knife",
+        "Line",
+        "Snare",
+        "Survival Bow",
+        "Torch"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Tools"
+      ],
+      "subcategories": []
+    },
+    "Category:DLC Content": {
+      "article_count": 55,
+      "pages": [
+        "Aviator Cap",
+        "Barb's Rifle",
+        "Broth",
+        "Buried Echoes",
+        "Canned Corn",
+        "Canned Ham",
+        "Carrot",
+        "Chemical Boots",
+        "Chemical Hazard",
+        "Chemical Poisoning",
+        "Cooking Oil",
+        "Cougar Hide Wrap",
+        "Curator's Rifle",
+        "Far Range Branch Line",
+        "Flight Jacket",
+        "Foreman's Tool Belt",
+        "Forester's Revolver",
+        "Forsaken Airfield",
+        "Glimmer Fog",
+        "Gold Nugget",
+        "Handheld Shortwave Radio",
+        "Hockey Jersey",
+        "Hunter's Revolver",
+        "Improvised Down Bedroll",
+        "Improvised Insulation",
+        "Insomnia",
+        "Miner's Flashlight",
+        "Miner's Jacket",
+        "Miner's Pants",
+        "Old Mill Flour",
+        "Poisoned Wolf",
+        "Ptarmigan",
+        "Ptarmigan (Cooked)",
+        "Ptarmigan (Raw)",
+        "Ptarmigan Down",
+        "Replacement Fuse",
+        "Running River Oats",
+        "Salt",
+        "Security Chief's Rifle Holster",
+        "Signal Void",
+        "Spelunker's Lantern",
+        "Sport Bow",
+        "Supply Cache",
+        "Tales",
+        "Tales from the Far Territory",
+        "Technical Balaclava",
+        "Transfer Pass",
+        "Transmitters",
+        "Vaughn's Rifle",
+        "Warden's Revolver",
+        "Wires",
+        "Wolfskin Hat",
+        "Wolfskin Pants",
+        "Woodwright's Bow",
+        "Zone of Contamination"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Disambiguations": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Site maintenance"
+      ],
+      "subcategories": []
+    },
+    "Category:Environment": {
+      "article_count": 2,
+      "pages": [
+        "Aurora",
+        "Weather"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark"
+      ],
+      "subcategories": [
+        "Category:Environment images"
+      ]
+    },
+    "Category:Environment images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Environment"
+      ],
+      "subcategories": []
+    },
+    "Category:Episode 1": {
+      "article_count": 3,
+      "pages": [
+        "Episode 1: Do Not Go Gentle",
+        "Paradise Lost",
+        "The Grey Mother"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Episode 2": {
+      "article_count": 5,
+      "pages": [
+        "Episode 2: Luminance Fugue",
+        "Mystery Lake Supply Caches",
+        "Risk of Infection",
+        "Survival School",
+        "You Fix My Rifle?"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Episode 3": {
+      "article_count": 2,
+      "pages": [
+        "Episode 3: Crossroads Elegy",
+        "Ghost Stag"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Episode 4": {
+      "article_count": 6,
+      "pages": [
+        "Blackrock Blues",
+        "Donner (mission)",
+        "Episode 4: Fury, Then Silence",
+        "Prologue",
+        "The Detonators",
+        "The Power Plant"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Episode 5": {
+      "article_count": 1,
+      "pages": [
+        "Episode 5: The Light At The End Of All Things"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Episodes": {
+      "article_count": 5,
+      "pages": [
+        "Episode 1: Do Not Go Gentle",
+        "Episode 2: Luminance Fugue",
+        "Episode 3: Crossroads Elegy",
+        "Episode 4: Fury, Then Silence",
+        "Episode 5: The Light At The End Of All Things"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Episodes"
+      ],
+      "subcategories": [
+        "Category:Episodes"
+      ]
+    },
+    "Category:Equipment images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Icons"
+      ],
+      "subcategories": [
+        "Category:Accessories slot item images",
+        "Category:Feet slot item images",
+        "Category:Hands slot item images",
+        "Category:Head slot item images",
+        "Category:Legs slot item images",
+        "Category:Torso slot item images"
+      ]
+    },
+    "Category:Event": {
+      "article_count": 1,
+      "pages": [
+        "Escape the Darkwalker"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Events": {
+      "article_count": 3,
+      "pages": [
+        "4 Days of Night Event",
+        "Escape the Darkwalker",
+        "Winter's Embrace"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Gameplay"
+      ],
+      "subcategories": []
+    },
+    "Category:Feats": {
+      "article_count": 2,
+      "pages": [
+        "Big Cat Killer",
+        "Feats"
+      ],
+      "sort_keys": {
+        "Feats": "*"
+      },
+      "parents": [
+        "Category:Content"
+      ],
+      "subcategories": []
+    },
+    "Category:Feet slot item images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Equipment images"
+      ],
+      "subcategories": []
+    },
+    "Category:Files": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark Wiki"
+      ],
+      "subcategories": [
+        "Category:Images",
+        "Category:Videos"
+      ]
+    },
+    "Category:Fire Starting": {
+      "article_count": 2,
+      "pages": [
+        "Jerry Can",
+        "Rim Grill"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Tools"
+      ],
+      "subcategories": []
+    },
+    "Category:First Aid": {
+      "article_count": 4,
+      "pages": [
+        "Antibiotics",
+        "Painkillers",
+        "Rose Hip Tea",
+        "Water Purification Tablets"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:First Aid images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Fish": {
+      "article_count": 9,
+      "pages": [
+        "Big Bass (Raw)",
+        "Burbot (Raw)",
+        "Coho Salmon (Raw)",
+        "Goldeye (Raw)",
+        "Lake Whitefish (Raw)",
+        "Rainbow Trout (Raw)",
+        "Red Irish Lord (Raw)",
+        "Rockfish (Raw)",
+        "Smallmouth Bass (Raw)"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Food And Drink": {
+      "article_count": 20,
+      "pages": [
+        "Acorn Grounds",
+        "Acorns",
+        "Birch Bark",
+        "Birch Bark Tea",
+        "Burdock Root",
+        "Burdock Tea",
+        "Caffeine Pills",
+        "Food And Drink",
+        "Go! Energy Drink",
+        "Prepared Acorns",
+        "Prepared Acorns (Large Portion)",
+        "Prepared Birch Bark",
+        "Prepared Burdock",
+        "Prepared Reishi Mushrooms",
+        "Prepared Rose Hips",
+        "Reishi Mushroom",
+        "Reishi Tea",
+        "Rose Hip",
+        "Rose Hip Tea",
+        "Vitamin-C Pills"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Forums": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Organization"
+      ],
+      "subcategories": [
+        "Category:Help desk"
+      ]
+    },
+    "Category:Gameplay": {
+      "article_count": 35,
+      "pages": [
+        "Afflictions",
+        "Badges",
+        "Beachcombing",
+        "Collectibles",
+        "Condition",
+        "Curing",
+        "Daisy Chaining",
+        "Decay",
+        "Encumbrance",
+        "Environmental Hazard",
+        "Fatigue",
+        "Feats",
+        "Feels Like",
+        "Fire",
+        "Glimmer Fog",
+        "Harvesting",
+        "Hibernation",
+        "Hunger",
+        "Hunting",
+        "Map",
+        "Mountain Goating",
+        "Needs",
+        "Radial Menu",
+        "Rope Climbing",
+        "Scent",
+        "Sleep",
+        "Stamina",
+        "Struggle",
+        "Survival Menu",
+        "Survival Overlay",
+        "Thirst",
+        "Transmitters",
+        "Trapping",
+        "Warmth",
+        "Weak Ice"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark"
+      ],
+      "subcategories": [
+        "Category:Events",
+        "Category:Gameplay images"
+      ]
+    },
+    "Category:Gameplay images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Gameplay"
+      ],
+      "subcategories": []
+    },
+    "Category:General wiki templates": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Templates"
+      ],
+      "subcategories": []
+    },
+    "Category:Hands slot item images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Equipment images"
+      ],
+      "subcategories": []
+    },
+    "Category:Head slot item images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Equipment images"
+      ],
+      "subcategories": []
+    },
+    "Category:Help": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Organization"
+      ],
+      "subcategories": [
+        "Category:Help desk"
+      ]
+    },
+    "Category:Help desk": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Forums",
+        "Category:Help"
+      ],
+      "subcategories": []
+    },
+    "Category:Hidden categories": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Organization"
+      ],
+      "subcategories": []
+    },
+    "Category:Ice Fishing": {
+      "article_count": 7,
+      "pages": [
+        "Fishing Lure (Acorns)",
+        "Fishing Lure (Revolver Shell Casing)",
+        "Fishing Lure (Wire Bundle)",
+        "Fishing Tackle",
+        "Fishing Tip-Up",
+        "Simple Fishing Lure",
+        "The Frozen Angler"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Icons": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark images"
+      ],
+      "subcategories": [
+        "Category:Equipment images"
+      ]
+    },
+    "Category:Image wiki templates": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Templates"
+      ],
+      "subcategories": []
+    },
+    "Category:Images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Files"
+      ],
+      "subcategories": [
+        "Category:The Long Dark images"
+      ]
+    },
+    "Category:Indoor locations": {
+      "article_count": 2,
+      "pages": [
+        "Justy's Hovel",
+        "Warm Cave"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Industrial locations": {
+      "article_count": 1,
+      "pages": [
+        "Last Resort Cannery"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Infobox templates": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Templates"
+      ],
+      "subcategories": []
+    },
+    "Category:Interactable Objects": {
+      "article_count": 1,
+      "pages": [
+        "Forge"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark"
+      ],
+      "subcategories": []
+    },
+    "Category:Interactable objects": {
+      "article_count": 19,
+      "pages": [
+        "Ammunition Work Bench",
+        "Bed",
+        "Burdock",
+        "Car",
+        "Cargo Container",
+        "Computer",
+        "File Cabinet",
+        "Fire Barrel",
+        "Frozen Corpse",
+        "Harvesting",
+        "Milling Machine",
+        "Oak Tree",
+        "Rim Grill",
+        "Rock Cache",
+        "Safe",
+        "Supply Cache",
+        "Toilet",
+        "Truck",
+        "Visor"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": [
+        "Category:Interactable objects images"
+      ]
+    },
+    "Category:Interactable objects images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Interactable objects"
+      ],
+      "subcategories": []
+    },
+    "Category:Islands": {
+      "article_count": 9,
+      "pages": [
+        "Angler's Den",
+        "Drift Island",
+        "Fallen Lighthouse",
+        "Island Cave",
+        "Jackrabbit Island",
+        "Little Island",
+        "Lonely Lighthouse",
+        "Misanthrope's Homestead",
+        "Rocky Refuge"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Items": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark"
+      ],
+      "subcategories": [
+        "Category:Clothing",
+        "Category:Collectibles",
+        "Category:Items images",
+        "Category:Tools"
+      ]
+    },
+    "Category:Items images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Items"
+      ],
+      "subcategories": []
+    },
+    "Category:Lakes": {
+      "article_count": 14,
+      "pages": [
+        "Ambler's Lake",
+        "Bitter Marsh",
+        "Crystal Lake",
+        "Giant's Thumbprint",
+        "Milton Basin",
+        "Monolith Lake",
+        "Mystery Lake (location)",
+        "Overladen Pond",
+        "Pensive Pond",
+        "Seedling Spring",
+        "Shoulder Lake",
+        "Stairsteps Lake",
+        "Unnamed Pond",
+        "Unquenched Extraction"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Landmarks": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Legacy clothing": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Legacy screenshots"
+      ],
+      "subcategories": []
+    },
+    "Category:Legacy food and drink": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Legacy screenshots"
+      ],
+      "subcategories": []
+    },
+    "Category:Legacy screenshots": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": [
+        "Category:Legacy clothing",
+        "Category:Legacy food and drink"
+      ]
+    },
+    "Category:Legs slot item images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Equipment images"
+      ],
+      "subcategories": []
+    },
+    "Category:Locations": {
+      "article_count": 25,
+      "pages": [
+        "Archie's Crawlspace",
+        "Brittle Cave",
+        "Cannery Pier",
+        "Cargomaster's Trailer",
+        "Control Tower",
+        "Drift Island",
+        "Final Approach",
+        "Great Bear Island",
+        "Ice Cave",
+        "Island Cottage",
+        "Jackrabbit Hangar",
+        "Justy's Hovel",
+        "Last Resort Cannery",
+        "Main Hangar",
+        "Mindful Cabin",
+        "Perseverance Mills",
+        "Prepper Cache",
+        "Safehouse",
+        "Shoulder Lake",
+        "Spotter's Blind",
+        "Stony Passage",
+        "Surveyor's Memory",
+        "Terminal",
+        "Trans-Island Railway Line",
+        "Watchful Falls"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark"
+      ],
+      "subcategories": [
+        "Category:Caves",
+        "Category:Indoor locations",
+        "Category:Industrial locations",
+        "Category:Lakes",
+        "Category:Landmarks",
+        "Category:Locations in Blackrock",
+        "Category:Locations in Broken Railroad",
+        "Category:Locations in Coastal Highway",
+        "Category:Locations in Crumbling Highway",
+        "Category:Locations in Desolation Point",
+        "Category:Locations in Forlorn Muskeg",
+        "Category:Locations in Mountain Town",
+        "Category:Locations in Mystery Lake",
+        "Category:Locations in Pleasant Valley",
+        "Category:Locations in Timberwolf Mountain",
+        "Category:Locations with a forge",
+        "Category:Locations with a workbench",
+        "Category:Lookout towers",
+        "Category:Military/Sporting locations",
+        "Category:Outdoor locations",
+        "Category:Residential locations",
+        "Category:Sheltered locations",
+        "Category:Store locations",
+        "Category:Transition zones",
+        "Category:Waterfalls"
+      ]
+    },
+    "Category:Locations in Blackrock": {
+      "article_count": 23,
+      "pages": [
+        "Bear's Bend",
+        "Blackrock Prison",
+        "Blocked Bridge",
+        "Bricklayer's Retreat",
+        "Cliff Cave",
+        "Cook's Farm",
+        "Creek Bed Cave",
+        "Cutty's Cave",
+        "Fool's Corner",
+        "Forager's Remnant",
+        "Foreman's Clearcut",
+        "Grand Meadow",
+        "Jailer's Residence",
+        "Last Prospect",
+        "Lineworker's Hideout",
+        "Mule Bridge",
+        "Narrow Bridge",
+        "No Road Cave",
+        "Old Substation",
+        "Power Plant",
+        "Steam Tunnels",
+        "Wedge Cave",
+        "Whistling Perch"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Blackrock",
+        "Category:Locations"
+      ],
+      "subcategories": [
+        "Category:Locations in Blackrock images"
+      ]
+    },
+    "Category:Locations in Blackrock images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Blackrock images",
+        "Category:Locations in Blackrock"
+      ],
+      "subcategories": []
+    },
+    "Category:Locations in Bleak Inlet": {
+      "article_count": 2,
+      "pages": [
+        "Cannery Pier",
+        "Last Resort Cannery"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Locations in Broken Railroad": {
+      "article_count": 6,
+      "pages": [
+        "Broken Bridge (Broken Railroad location)",
+        "Hunter's Blind",
+        "Hunting Lodge",
+        "Landslide",
+        "Maintenance Yard",
+        "Rickety Foot Bridge"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Locations in Coastal Highway": {
+      "article_count": 18,
+      "pages": [
+        "Abandoned Lookout",
+        "Bear Creek Campground",
+        "Cinder Hills Coal Mine",
+        "Coastal Townsite",
+        "Commuter's Lament",
+        "Fishing Camp",
+        "Fishing Hut",
+        "Great Bear Highway",
+        "Jackrabbit Island",
+        "Log Sort",
+        "Misanthrope's Homestead",
+        "Quonset Garage",
+        "Rabbit Grove",
+        "Rockfall",
+        "Silent Clearing",
+        "The Tooth",
+        "Train Unloading",
+        "Waterfront Cottages"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": [
+        "Category:Locations in Coastal Highway images"
+      ]
+    },
+    "Category:Locations in Coastal Highway images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations in Coastal Highway"
+      ],
+      "subcategories": []
+    },
+    "Category:Locations in Crumbling Highway": {
+      "article_count": 5,
+      "pages": [
+        "Abandoned Harris Home",
+        "Great Bear Highway",
+        "No. 3 Coal Mine",
+        "Road Collapse",
+        "The Arch (Old Island Connector location)"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": [
+        "Category:Locations in Crumbling Highway images"
+      ]
+    },
+    "Category:Locations in Crumbling Highway images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations in Crumbling Highway"
+      ],
+      "subcategories": []
+    },
+    "Category:Locations in Desolation Point": {
+      "article_count": 14,
+      "pages": [
+        "Abandoned Mine No. 5",
+        "Blocked Highway",
+        "Broken Bridge (Desolation Point location)",
+        "Cave (Desolation Point location)",
+        "Great Bear Highway",
+        "Hibernia Processing",
+        "Katie's Secluded Corner",
+        "Little Island",
+        "Lonely Lighthouse",
+        "Matt's Truck",
+        "No. 3 Coal Mine",
+        "Stone Church",
+        "The Riken",
+        "Waterfall"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": [
+        "Category:Locations in Desolation Point images"
+      ]
+    },
+    "Category:Locations in Desolation Point images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations in Desolation Point"
+      ],
+      "subcategories": []
+    },
+    "Category:Locations in Far Range Branch Line": {
+      "article_count": 1,
+      "pages": [
+        "Oddment Falls"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Locations in Forlorn Muskeg": {
+      "article_count": 10,
+      "pages": [
+        "Bunkhouses",
+        "Hat Creek",
+        "High Blind",
+        "Low Blind",
+        "Marsh Ridge",
+        "Muskeg Overlook",
+        "Old Spence Family Homestead",
+        "Poacher's Camp",
+        "Shortwave Tower",
+        "Waterfall (Forlorn Muskeg)"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Locations in Forsaken Airfield": {
+      "article_count": 15,
+      "pages": [
+        "Archie's Crawlspace",
+        "Brittle Cave",
+        "Cargomaster's Trailer",
+        "Control Tower",
+        "Drift Island",
+        "Field 31",
+        "Final Approach",
+        "Island Cottage",
+        "Justy's Hovel",
+        "Main Hangar",
+        "Mindful Cabin",
+        "Shoulder Lake",
+        "Spotter's Blind",
+        "Stony Passage",
+        "Surveyor's Memory"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Regions"
+      ],
+      "subcategories": []
+    },
+    "Category:Locations in Hushed River Valley": {
+      "article_count": 4,
+      "pages": [
+        "Cloudtop Falls",
+        "Ice Cave",
+        "Mysterious Signal Fire",
+        "Valley View Point"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Locations in Keeper's Pass North": {
+      "article_count": 2,
+      "pages": [
+        "Builder's Bridge",
+        "Forester's Hermitage"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Locations in Keeper's Pass South": {
+      "article_count": 2,
+      "pages": [
+        "Mirthless Fork",
+        "The Toe"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Locations in Mountain Town": {
+      "article_count": 20,
+      "pages": [
+        "Bank Manager's House",
+        "Crashed Prison Transport Bus",
+        "Hermit's Cabin",
+        "Mackenzie's Crashed Plane",
+        "Milton",
+        "Milton House (Grey Mother's)",
+        "Milton Park",
+        "Milton Post Office",
+        "Milton Water Tower",
+        "Old Schoolhouse",
+        "Orca Gas Station",
+        "Paradise Meadows Farm",
+        "Picnic Area",
+        "Radio Tower",
+        "Rocky Refuge",
+        "Spruce Falls Bridge",
+        "St. Christopher's Church",
+        "The Arch (Mountain Town location)",
+        "Trailer (Mountain Town Region)",
+        "Wood Lot"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": [
+        "Category:Locations in Mountain Town images"
+      ]
+    },
+    "Category:Locations in Mountain Town images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations in Mountain Town"
+      ],
+      "subcategories": []
+    },
+    "Category:Locations in Mystery Lake": {
+      "article_count": 25,
+      "pages": [
+        "Alan's Cave",
+        "Camp Office",
+        "Carter Hydro Dam",
+        "Clearcut",
+        "Dave's Quiet Clearing",
+        "Deadfall Area",
+        "Derailment",
+        "Destroyed Lookout",
+        "Fishing Hut",
+        "Forestry Lookout",
+        "Frozen Creek",
+        "Lake Cabins",
+        "Lake Overlook",
+        "Lake Trail",
+        "Logging Camp",
+        "Lone Lake Cabin",
+        "Lookout (Mystery Lake location)",
+        "Max's Last Stand",
+        "Mystery Lake (disambiguation)",
+        "Mystery Lake (location)",
+        "Rail Tunnel",
+        "Train Bridge",
+        "Train Loading Area",
+        "Trapper's Homestead",
+        "Unnamed Pond"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": [
+        "Category:Locations in Mystery Lake images"
+      ]
+    },
+    "Category:Locations in Mystery Lake images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations in Mystery Lake"
+      ],
+      "subcategories": []
+    },
+    "Category:Locations in Perserverance Mills": {
+      "article_count": 1,
+      "pages": [
+        "Terry's Radio Shack"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Locations in Pleasant Valley": {
+      "article_count": 24,
+      "pages": [
+        "Cascading Falls",
+        "Cinder Hills Coal Mine",
+        "Contemplation Bridge",
+        "Derelict Cabins",
+        "Draft Dodger's Cabin",
+        "End of the Road",
+        "Forest Cave (Pleasant Valley location)",
+        "Heartbreak Bridge",
+        "Hilltop Cave",
+        "Lonely Homestead",
+        "Long Curve",
+        "Lower Falls",
+        "Misty Falls Picnic Area",
+        "Pensive Pond",
+        "Picnic Spot",
+        "Pleasant Valley Farmstead",
+        "Pleasant Valley Outbuildings",
+        "Point of Disagreement",
+        "Prepper's Abandoned Cache",
+        "Signal Hill",
+        "Skeeter's Ridge",
+        "Thomson's Crossing",
+        "Three Strikes Farmstead",
+        "Upper Falls"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": [
+        "Category:Locations in Pleasant Valley images"
+      ]
+    },
+    "Category:Locations in Pleasant Valley images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations in Pleasant Valley"
+      ],
+      "subcategories": []
+    },
+    "Category:Locations in The Ravine": {
+      "article_count": 2,
+      "pages": [
+        "Raven Falls Trestle",
+        "Ravine Basin"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Locations in Timberwolf Mountain": {
+      "article_count": 19,
+      "pages": [
+        "Andre's Peak",
+        "Cave (Timberwolf Mountain location 1)",
+        "Cave (Timberwolf Mountain location 2)",
+        "Chasm Cave",
+        "Crystal Lake",
+        "Deer Clearing",
+        "Echo Peak East",
+        "Echo Peak West",
+        "Echo Ravine",
+        "Engine (East)",
+        "Eric's Falls",
+        "Forest Cave (Timberwolf Mountain location)",
+        "Landing Gear",
+        "Mountaineer's Hut",
+        "Secluded Shelf",
+        "Summit",
+        "Tail Section",
+        "Waterfall Cave",
+        "Wing"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": [
+        "Category:Locations in Timberwolf Mountain images"
+      ]
+    },
+    "Category:Locations in Timberwolf Mountain images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations in Timberwolf Mountain"
+      ],
+      "subcategories": []
+    },
+    "Category:Locations with a forge": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Locations with a workbench": {
+      "article_count": 1,
+      "pages": [
+        "Last Resort Cannery"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Lookout towers": {
+      "article_count": 4,
+      "pages": [
+        "Abandoned Lookout",
+        "Destroyed Lookout",
+        "Forestry Lookout",
+        "Pensive Lookout"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Map images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark images"
+      ],
+      "subcategories": []
+    },
+    "Category:Materials": {
+      "article_count": 8,
+      "pages": [
+        "Arrow Shaft",
+        "Arrowhead",
+        "Cedar Firewood",
+        "Cloth",
+        "Crow Feather",
+        "Cured Black Bear Hide",
+        "Fir Firewood",
+        "Scrap Metal"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": [
+        "Category:Materials images"
+      ]
+    },
+    "Category:Materials images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Materials"
+      ],
+      "subcategories": []
+    },
+    "Category:Mechanics": {
+      "article_count": 1,
+      "pages": [
+        "Skills"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Content"
+      ],
+      "subcategories": []
+    },
+    "Category:Military/Sporting locations": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Music": {
+      "article_count": 1,
+      "pages": [
+        "The Long Dark Original Soundtrack"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Navigation templates": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Templates"
+      ],
+      "subcategories": []
+    },
+    "Category:Navigational templates": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Templates"
+      ],
+      "subcategories": []
+    },
+    "Category:New pages": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Site maintenance"
+      ],
+      "subcategories": []
+    },
+    "Category:News": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Blog posts"
+      ],
+      "subcategories": []
+    },
+    "Category:Organization": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark Wiki"
+      ],
+      "subcategories": [
+        "Category:Community",
+        "Category:Copyright",
+        "Category:Forums",
+        "Category:Help",
+        "Category:Hidden categories",
+        "Category:Policy",
+        "Category:Site administration",
+        "Category:Site maintenance",
+        "Category:Templates"
+      ]
+    },
+    "Category:Outdated": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Outdoor locations": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Pages proposed for deletion": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Site administration"
+      ],
+      "subcategories": []
+    },
+    "Category:Pages using DynamicPageList dplvar parser function": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Pages using DynamicPageList parser function": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Pages using DynamicPageList3 dplvar parser function": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Pages using DynamicPageList3 parser function": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Pages using DynamicPageList3 parser tag": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Pages with broken file link": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Pages with broken file links": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Pages with update history": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Parent Page templates": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Templates"
+      ],
+      "subcategories": []
+    },
+    "Category:Plants": {
+      "article_count": 7,
+      "pages": [
+        "Burdock",
+        "Cat Tail",
+        "Green Birch Sapling",
+        "Green Maple Sapling",
+        "Old Man's Beard Lichen",
+        "Reishi Mushroom",
+        "Rose Hip"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark"
+      ],
+      "subcategories": []
+    },
+    "Category:Policy": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Organization"
+      ],
+      "subcategories": []
+    },
+    "Category:Regions": {
+      "article_count": 17,
+      "pages": [
+        "Ash Canyon",
+        "Blackrock",
+        "Bleak Inlet",
+        "Broken Railroad",
+        "Coastal Highway",
+        "Desolation Point",
+        "Far Range Branch Line",
+        "Forlorn Muskeg",
+        "Forsaken Airfield",
+        "Hushed River Valley",
+        "Mountain Town",
+        "Mystery Lake (region)",
+        "Pleasant Valley",
+        "Region",
+        "Sundered Pass",
+        "Timberwolf Mountain",
+        "Transfer Pass"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark"
+      ],
+      "subcategories": [
+        "Category:Blackrock",
+        "Category:Locations in Forsaken Airfield",
+        "Category:Regions images"
+      ]
+    },
+    "Category:Regions images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Regions"
+      ],
+      "subcategories": []
+    },
+    "Category:Residential locations": {
+      "article_count": 1,
+      "pages": [
+        "Justy's Hovel"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Safe Houses": {
+      "article_count": 2,
+      "pages": [
+        "Paradise Meadows Farm",
+        "Trapper's Homestead"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Settlements": {
+      "article_count": 4,
+      "pages": [
+        "Coastal Townsite",
+        "Milton",
+        "Perseverance Mills",
+        "Thomson's Crossing"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Sheltered locations": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Side mission": {
+      "article_count": 2,
+      "pages": [
+        "Forest Talkers (side mission)",
+        "Mystery Lake Supply Caches"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Site administration": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Organization"
+      ],
+      "subcategories": [
+        "Category:Pages proposed for deletion"
+      ]
+    },
+    "Category:Site maintenance": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Organization"
+      ],
+      "subcategories": [
+        "Category:Article stubs",
+        "Category:Articles in need of images",
+        "Category:Candidates for deletion",
+        "Category:Candidates for renaming",
+        "Category:Candidates for speedy deletion",
+        "Category:Disambiguations",
+        "Category:New pages"
+      ]
+    },
+    "Category:Skill icons": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Skills images"
+      ],
+      "subcategories": []
+    },
+    "Category:Skill images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Skills": {
+      "article_count": 1,
+      "pages": [
+        "Skills"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark"
+      ],
+      "subcategories": [
+        "Category:Skills images"
+      ]
+    },
+    "Category:Skills images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Skills"
+      ],
+      "subcategories": [
+        "Category:Skill icons"
+      ]
+    },
+    "Category:Soundtrack": {
+      "article_count": 1,
+      "pages": [
+        "The Long Dark Original Soundtrack"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Store locations": {
+      "article_count": 1,
+      "pages": [
+        "Rural Store"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Story": {
+      "article_count": 12,
+      "pages": [
+        "Atwood",
+        "Breyerhouse",
+        "Collectibles",
+        "Convicts",
+        "Crash Survivor",
+        "First Flare",
+        "Forest Talkers",
+        "Grey Mother",
+        "Jackrabbit Hangar",
+        "Old Bear",
+        "Perseverance Mills",
+        "The Collapse"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark"
+      ],
+      "subcategories": [
+        "Category:Story images"
+      ]
+    },
+    "Category:Story images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Story"
+      ],
+      "subcategories": []
+    },
+    "Category:Tales": {
+      "article_count": 2,
+      "pages": [
+        "Signal Void",
+        "Tales"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Template documentation": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Templates"
+      ],
+      "subcategories": []
+    },
+    "Category:Templates": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Organization"
+      ],
+      "subcategories": [
+        "Category:Article management templates",
+        "Category:Category templates",
+        "Category:General wiki templates",
+        "Category:Image wiki templates",
+        "Category:Infobox templates",
+        "Category:Navigation templates",
+        "Category:Navigational templates",
+        "Category:Parent Page templates",
+        "Category:Template documentation"
+      ]
+    },
+    "Category:The Long Dark": {
+      "article_count": 8,
+      "pages": [
+        "Hinterland Studio Inc.",
+        "Mystery Lake (disambiguation)",
+        "Survival Mode",
+        "The Long Dark",
+        "The Long Dark/Changelog",
+        "The Long Dark/Early Access Changelog",
+        "The Long Dark/Gallery",
+        "Wintermute"
+      ],
+      "sort_keys": {
+        "Mystery Lake (disambiguation)": "Mr Chad"
+      },
+      "parents": [
+        "Category:Content"
+      ],
+      "subcategories": [
+        "Category:Afflictions",
+        "Category:Challenges",
+        "Category:Characters",
+        "Category:Environment",
+        "Category:Gameplay",
+        "Category:Interactable Objects",
+        "Category:Items",
+        "Category:Locations",
+        "Category:Plants",
+        "Category:Regions",
+        "Category:Skills",
+        "Category:Story",
+        "Category:The Long Dark images",
+        "Category:Wildlife"
+      ]
+    },
+    "Category:The Long Dark Wiki": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": [
+        "Category:Content",
+        "Category:Files",
+        "Category:Organization"
+      ]
+    },
+    "Category:The Long Dark images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Images",
+        "Category:The Long Dark"
+      ],
+      "subcategories": [
+        "Category:Blackrock images",
+        "Category:Icons",
+        "Category:Map images"
+      ]
+    },
+    "Category:Tools": {
+      "article_count": 25,
+      "pages": [
+        "Charcoal",
+        "Fishing Tackle",
+        "Fishing Tip-Up",
+        "Flashlight",
+        "Hacksaw",
+        "Hatchet",
+        "Heavy Hammer",
+        "Hook",
+        "Hunting Knife",
+        "Improvised Hatchet",
+        "Improvised Knife",
+        "Line",
+        "Prybar",
+        "Quality Tools",
+        "Revolver Ammunition",
+        "Rifle Ammunition",
+        "Sewing Kit",
+        "Simple Fishing Lure",
+        "Simple Tools",
+        "Snare",
+        "Spray Paint",
+        "Storm Lantern",
+        "Survival Bow",
+        "Tools",
+        "Whetstone"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Items"
+      ],
+      "subcategories": [
+        "Category:Craftable tools",
+        "Category:Fire Starting",
+        "Category:Tools images"
+      ]
+    },
+    "Category:Tools images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Tools"
+      ],
+      "subcategories": []
+    },
+    "Category:Torso slot item images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Equipment images"
+      ],
+      "subcategories": []
+    },
+    "Category:Transition zones": {
+      "article_count": 9,
+      "pages": [
+        "Cave (Transition Zone)",
+        "Cinder Hills Coal Mine",
+        "Crumbling Highway",
+        "Far Range Branch Line",
+        "Keeper's Pass North",
+        "Keeper's Pass South",
+        "No. 3 Coal Mine",
+        "The Ravine",
+        "Winding River"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Unofficial locations": {
+      "article_count": 5,
+      "pages": [
+        "Crash Site (Pleasant Valley)",
+        "Island Cave",
+        "Misty Falls Cave",
+        "Shortwave Tower West",
+        "Trailers west of the Cannery"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Videos": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Files"
+      ],
+      "subcategories": []
+    },
+    "Category:Watefalls": {
+      "article_count": 1,
+      "pages": [
+        "Cascading Falls"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    },
+    "Category:Waterfalls": {
+      "article_count": 22,
+      "pages": [
+        "Banner Falls",
+        "Broad Falls",
+        "Cloudtop Falls",
+        "Eric's Falls",
+        "Little Bear and Cub Falls",
+        "Long Falls",
+        "Long Shot Falls",
+        "Lower Falls",
+        "Lower Raven Falls",
+        "Mammoth Falls",
+        "Misty Falls Picnic Area",
+        "Narrow Falls Cave",
+        "Offset Falls",
+        "Quarrelling Falls",
+        "Ravine's End Waterfall",
+        "Reclusive Falls",
+        "Spruce Falls Bridge",
+        "Twin Sisters Falls",
+        "Upper Falls",
+        "Watchful Falls",
+        "Waterfall",
+        "Waterfall (Forlorn Muskeg)"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:Locations"
+      ],
+      "subcategories": []
+    },
+    "Category:Wildlife": {
+      "article_count": 15,
+      "pages": [
+        "Bear",
+        "Cougar",
+        "Crow",
+        "Deer",
+        "Hunting",
+        "Moose",
+        "Old Bear",
+        "Poisoned Wolf",
+        "Ptarmigan",
+        "Rabbit",
+        "Struggle",
+        "Timberwolf",
+        "Trapping",
+        "Wildlife",
+        "Wolf"
+      ],
+      "sort_keys": {},
+      "parents": [
+        "Category:The Long Dark"
+      ],
+      "subcategories": [
+        "Category:Wildlife images"
+      ]
+    },
+    "Category:Wildlife images": {
+      "article_count": 0,
+      "pages": [],
+      "sort_keys": {},
+      "parents": [
+        "Category:Wildlife"
+      ],
+      "subcategories": []
+    },
+    "Category:Wintermute": {
+      "article_count": 1,
+      "pages": [
+        "Wintermute"
+      ],
+      "sort_keys": {},
+      "parents": [],
+      "subcategories": []
+    }
+  },
+  "uncategorized": [
+    "A Cry For Help",
+    "A Handwritten Letter",
+    "A Handwritten Note",
+    "A Note Left Behind",
+    "A Page From A Journal",
+    "A Riddle Among the Shadows",
+    "A Sewing Primer",
+    "A Sewing Primer (The Basics of Survival)",
+    "A Skeleton And Note",
+    "A page from an old newsletter.",
+    "Abandoned Camp",
+    "Abandoned Mine",
+    "Accelerant",
+    "Acorn Bannock",
+    "Acorn Pancakes",
+    "Acorns (Cooked - Large Portion)",
+    "Acorns (Cooked)",
+    "Admin Office Key",
+    "Adrift",
+    "Advanced Guns Guns Guns!",
+    "Advanced Guns Guns Guns! (Survival School)",
+    "Aftermath",
+    "Aftermath/Transcript",
+    "Aid Station Medical Locker Key",
+    "Airline Food - Chicken",
+    "Airline Food - Vegetarian",
+    "Airplane",
+    "Alice McLeod's Journal 01",
+    "Ammunition Forge",
+    "An Old House Key",
+    "An Old Logbook",
+    "Animal Fat",
+    "Anna Island -- Track Section 1",
+    "Anna Island -- Track Section 2",
+    "Anna Island -- Track Section 3",
+    "Anna Island -- Track Section 4",
+    "Anna Island -- Track Section 5",
+    "Anna Island -- Track Section 6",
+    "Antiseptic",
+    "Anxiety",
+    "Archery",
+    "Archival Report",
+    "Archivist",
+    "Armoured",
+    "As the Dead Sleep Challenge Walkthrough",
+    "Astrid's Backpack",
+    "Astrid's Boots",
+    "Astrid's Gloves",
+    "Astrid's Hardcase",
+    "Astrid's Jacket",
+    "Astrid's Jeans",
+    "Astrid's Sweater",
+    "Astrid's Toque",
+    "Aurora Hatch",
+    "Aurora Hatch Door Entry Code",
+    "Aurora Observations",
+    "BLACKFROST: The Long Dark II",
+    "Backpack",
+    "Balaclava",
+    "Ballistic Vest",
+    "Bandage",
+    "Baneful Bridge",
+    "Bank Deposit Box Key 13",
+    "Bank Deposit Box Key 15",
+    "Bank Deposit Box Key 20",
+    "Bank Deposit Box Key 7",
+    "Bank Manager's House Key",
+    "Bank Vault Code",
+    "Bannock",
+    "Barn (Molly's)",
+    "Barrel",
+    "Baseball Cap",
+    "Basement (Crumbling Highway)",
+    "Basement (Sundered Pass)",
+    "Basement Key",
+    "Basin",
+    "Bear Hide Bed",
+    "Bear Hide Rug",
+    "Bear Meat (Cooked)",
+    "Bear Meat (Raw)",
+    "Bear Quarter",
+    "Bear Spear",
+    "Beef Jerky",
+    "Bench",
+    "Bending The Rail",
+    "Betrayal",
+    "Big Bass (Cooked)",
+    "Bin",
+    "Black Bear Carcass",
+    "Black Black Heart",
+    "Blackrock (mission)",
+    "Blackrock Blues/Transcript",
+    "Blackrock Foothills",
+    "Blackrock Foothills Map",
+    "Blackrock Gate Key",
+    "Blackrock Infirmary Medication",
+    "Blackrock Locker Key 2",
+    "Blackrock Locker Key 3",
+    "Blackrock Locker Key 8",
+    "Blackrock Lockers",
+    "Blackrock Memo",
+    "Blackrock Memo - Highly Aggressive Wolf",
+    "Blackrock Memo - Late Employee",
+    "Blackrock Memo - Suspicious Person",
+    "Blackrock Mountain",
+    "Blackrock Penitentiary Memo",
+    "Blackrock Prisoner Release Record",
+    "Blackrock Rumours",
+    "Blood Loss",
+    "Blood Soaked Forest Talker Documents",
+    "Blood Soaked Note",
+    "Blood Stained-Convict Note",
+    "Bloody note",
+    "Bolt Chopper's Haven",
+    "Bolt Cutters",
+    "Book",
+    "Boss's Settlement",
+    "Bountiful Overlook",
+    "Brake Shoe",
+    "Branch",
+    "Brand",
+    "Brass Key",
+    "Brass Key (2)",
+    "Breyerhouse Crew Winter Warning",
+    "Breyerhouse Pie",
+    "Bridge",
+    "Briefcase",
+    "Broad Aerie",
+    "Broken Arrow",
+    "Broken Bear Spear",
+    "Broken Body",
+    "Broken Body (Achievement)",
+    "Broken Bridge (disambiguation)",
+    "Broken Fire Hardened Arrow",
+    "Broken Hatch Wheel",
+    "Broken Manufactured Arrow",
+    "Broken Metal Bed Frame",
+    "Broken Metal Control Box",
+    "Broken Metal Door",
+    "Broken Metal Light Fixture",
+    "Broken Ribs",
+    "Broken Shoreline",
+    "Broom",
+    "Building Blackrock",
+    "Bullet",
+    "Bunker Alpha",
+    "Bunker Beta",
+    "Bunker Gamma",
+    "Bunker Omega",
+    "Bunker Rifle",
+    "Bunker Schematic Fragment 1",
+    "Bunker Schematic Fragment 2",
+    "Bunker Schematic Fragment 3",
+    "Burbot (Cooked)",
+    "Burdened",
+    "Burned Out Fuse",
+    "Burned Ridge Cave",
+    "Burns",
+    "Bus",
+    "Bushcraft Bow",
+    "Bushcraft Bow Blueprint Card",
+    "Cabin",
+    "Cabin (Sundered Pass)",
+    "Cabin Fever",
+    "Cabin Fever Risk",
+    "Cabinet",
+    "Cabinet Door",
+    "Cache Mastery",
+    "Camber Flight Porridge",
+    "Camera",
+    "Campfire",
+    "Can",
+    "Can Opener",
+    "Can of Gunpowder",
+    "Canister",
+    "Canned Pineapple",
+    "Cannery Memo",
+    "Cannery Worker Residences",
+    "Canyon",
+    "Car Battery",
+    "Car Trunk",
+    "Carcass Harvesting",
+    "Cardboard Box",
+    "Cardboard Matches",
+    "Cargo Pants",
+    "Carter Hydro Dam (Collectible)",
+    "Carter Hydro Dam -- Safety & Shutdown Notice",
+    "Carter Hydro Medical Supplies",
+    "Carter Hydro Staging Area Gate Key",
+    "Carved Bear Figurine",
+    "Carved Cougar Figurine",
+    "Carved Wolf Figurine",
+    "Cascading Gap",
+    "Cash",
+    "Cat Tail Head",
+    "Cat Tail Stalk",
+    "Cauldron Island",
+    "Cave (Ash Canyon location)",
+    "Cave (Mountain Town location)",
+    "Cave (Track Section 5)",
+    "Cave (disambiguation)",
+    "Cave Hidden Cache Note",
+    "Cedar Limb",
+    "Cereal",
+    "Chair",
+    "Challenge Mastery",
+    "Characters",
+    "Charcoal Note",
+    "Cheat Death",
+    "Cheated Death Penalty",
+    "Chemical Poisoning Risk",
+    "Chocolate Bar",
+    "Chocolate Bar (4 Days of Night)",
+    "Church Artifact",
+    "Church Artifact (mission)",
+    "Church Flyer",
+    "Cleaning",
+    "Climber's Cave",
+    "Climbing Socks",
+    "Clipboard With Medical Documents",
+    "Cloth (Object)",
+    "Co-op",
+    "Coal",
+    "Coal Bin",
+    "Coast Mountain Road",
+    "Coastal Cave",
+    "Coastal Fishcakes",
+    "Coastal Highway Terminus",
+    "Coastal House",
+    "Coffee Table",
+    "Coho Salmon (Cooked)",
+    "Combat Boots",
+    "Combat Pants",
+    "Coming Storm",
+    "Coming Storm/Transcript",
+    "Communication Report",
+    "Community Hall",
+    "Community Hall Flyer",
+    "Community Service",
+    "Concentrator",
+    "Concussion",
+    "Condensed Milk",
+    "Conductor's Dropoff",
+    "Conflagration",
+    "Conspiracy Theories",
+    "Constable's Office",
+    "Contraband Storage",
+    "Convenience Store",
+    "Conveyor Room",
+    "Convict Cache Directions",
+    "Convict Caches",
+    "Convict Journal Entry",
+    "Convict Note",
+    "Cooked Potato",
+    "Cooking",
+    "Cooking Pot",
+    "Cooking Skillet",
+    "Cooler",
+    "Cooper",
+    "Cooper's Blind",
+    "Corpse",
+    "Cotton Scarf",
+    "Cotton Toque",
+    "Cougar Carcass",
+    "Cougar Claw",
+    "Cougar Claw Knife",
+    "Cougar Meat (Cooked)",
+    "Cougar Meat (Raw)",
+    "Cougar Quarter",
+    "Cougar Warning Flyer",
+    "Cougar Warning Flyer (2)",
+    "Cove",
+    "Cove (Track Section 3)",
+    "Cowichan Sweater",
+    "Crafting",
+    "Craggy Passage",
+    "Crane Key",
+    "Crank Light",
+    "Crate",
+    "Criss Cross",
+    "Crossroads House",
+    "Crouch",
+    "Crumpled Note",
+    "Crumpled Note (2)",
+    "Cup of Acorn Coffee",
+    "Cup of Coffee",
+    "Cup of Herbal Tea",
+    "Cupboard",
+    "Cured Birch Sapling",
+    "Cured Cougar Hide",
+    "Cured Deer Hide",
+    "Cured Fish",
+    "Cured Gut",
+    "Cured Leather",
+    "Cured Maple Sapling",
+    "Cured Meat",
+    "Cured Moose Hide",
+    "Cured Rabbit Pelt",
+    "Cured Wolf Pelt",
+    "Curtain",
+    "Custom",
+    "Cut/Discontinued Content",
+    "Dam Control Room Code",
+    "Damaged Track",
+    "Dark Star",
+    "Dead Prison Guard",
+    "Dead Wake",
+    "Decorations",
+    "Decorative Art",
+    "Decorative Art (2)",
+    "Decorative End Table",
+    "Deer Carcass",
+    "Deer Quarter",
+    "Dehydrated",
+    "Dehydration Risk",
+    "Departure's Memory",
+    "Deposit Box",
+    "Desecrated Church",
+    "Desperate Elevation",
+    "Desperation Bay",
+    "Detonators",
+    "Diary",
+    "Diary Page",
+    "Diary Page (Darkwalker)",
+    "Diminished Form",
+    "Diocese Report",
+    "Display Shelf",
+    "Distempered Flatcars",
+    "Distress Pistol",
+    "Distress Pistol Kit",
+    "Dockworker's Pie",
+    "Document Stash 1",
+    "Document Stash 2",
+    "Document Stash 3",
+    "Document Stash 4",
+    "Dog Food",
+    "Don't Starve",
+    "Donner (mission)/Transcript",
+    "Door",
+    "Doubter's Retreat",
+    "Down Below",
+    "Down Vest",
+    "Dr Larsen's Clipboard",
+    "Dr. Rüdiger",
+    "Drawer",
+    "Dress Shirt",
+    "Dresser",
+    "Dried Apples",
+    "Driving Gloves",
+    "Dryer",
+    "Dubious Overlook",
+    "Dusting Sulfur",
+    "Dusty Paper",
+    "Dysentery",
+    "Easter Eggs",
+    "Echo One Radio Tower",
+    "Echoes Of Astrid",
+    "Echoes Of Astrid/Transcript",
+    "Elevator Crank",
+    "Elevator Maintenance Note",
+    "Emergency Food",
+    "Emergency Kit",
+    "Emergency Kit Note",
+    "Emergency Stim",
+    "Ends of the Earth",
+    "Enduring Waterfall",
+    "Enemy For Life",
+    "Energy Bar",
+    "Energy Boost",
+    "Engine (West)",
+    "Every Last One",
+    "Expedition Parka",
+    "Expert Angler",
+    "Exposure",
+    "Extra Supplies",
+    "Faded Notebook Paper",
+    "Faded Paper",
+    "Faded Paper (2)",
+    "Faded Photograph",
+    "Faithful Cartographer",
+    "Fallen Star",
+    "Fallen Star/Transcript",
+    "Fallow Dugout",
+    "Fallow Field",
+    "FastFilm-500",
+    "FastFilm-500BW",
+    "FastFilm-500SPA",
+    "Fatigue Reduced",
+    "Fear",
+    "Feedwater Cave",
+    "Festive Sweater",
+    "Field 31 Operation Memo",
+    "Field Dressing Your Kill, Vol. I",
+    "Field Dressing Your Kill, Vol. I (The Basics of Survival)",
+    "Final Refuge",
+    "Finely Tuned",
+    "Fir Limb",
+    "Fire Hardened Arrow",
+    "Fire Overlook",
+    "Fire Starting",
+    "Firearm Cleaning Kit",
+    "Firelog",
+    "Fireplace",
+    "Firestriker",
+    "Firewood Bin",
+    "First Aid",
+    "First Aid Kit",
+    "First Aid Kit (tool)",
+    "Fisherman's Sweater",
+    "Fishing Bait",
+    "Fishing Lure (disambiguation)",
+    "Flagman's Gap",
+    "Flare",
+    "Flare Shell",
+    "Fleece Cowl",
+    "Fleece Mittens",
+    "Food Poisoning",
+    "Foraging",
+    "Foreman's Key",
+    "Foreman's Polaroid 1",
+    "Foreman's Polaroid 2",
+    "Foreman's Polaroid 3",
+    "Foreman's Polaroid 4",
+    "Foreman's Polaroid 5",
+    "Foreman's Refuge",
+    "Foreman's Retreat",
+    "Foreman's Site Report Day (illegible)",
+    "Foreman's Site Report Day 38",
+    "Foreman's Site Report Day 45",
+    "Foreman's Site Report Day 64",
+    "Foreman's Technical Log 1",
+    "Foreman's Technical Log 2",
+    "Foreman's Technical Log 3",
+    "Foreman's Technical Log 4",
+    "Forest Talker Bunker Memo",
+    "Forest Talker Collectible, Part One",
+    "Forest Talker Collectible, Part Three",
+    "Forest Talker Collectible, Part Two",
+    "Forest Talker Dam Note",
+    "Forest Talker Documents",
+    "Forest Talker Flyer",
+    "Forest Talker Letter",
+    "Forest Talker Map Note",
+    "Forest Talker Memo",
+    "Forest Talker Note",
+    "Forest Talker Supplies",
+    "Forest Talker Supply Caches",
+    "Forge Blueprints",
+    "Forge Blueprints (mission)",
+    "Forgotten Exploration",
+    "Forgotten Trestle",
+    "Forsaken Shore",
+    "Foundered Track",
+    "Framed Hockey Jersey",
+    "Framed Photo",
+    "Freezer",
+    "Freight-Train of Hate & Hunger",
+    "Freighthopper's Rockfall",
+    "Fresh Black Bear Hide",
+    "Fresh Cougar Hide",
+    "Fresh Deer Hide",
+    "Fresh Gut",
+    "Fresh Leather",
+    "Fresh Moose Hide",
+    "Fresh Rabbit Pelt",
+    "Fresh Wolf Pelt",
+    "Fridge",
+    "Frigid Bones",
+    "Frontier Shooting Guide",
+    "Frontier Shooting Guide (Survival School)",
+    "Frost Cave",
+    "Frostbite",
+    "Frostbite Risk",
+    "Frozen Delta",
+    "Fuel Cover",
+    "Fukkatsu Maru",
+    "Fulmar Autopilot Boat",
+    "Furnace",
+    "Furniture Workbench",
+    "Fuse Box",
+    "Garage Key",
+    "Gauntlets",
+    "Glove Box",
+    "Gold Mine",
+    "Goldeye (Cooked)",
+    "Goods and Services",
+    "Gorged",
+    "Graduation Day",
+    "Granola Bar",
+    "Grate",
+    "Graveyard",
+    "Great Bear Wolf Behaviour Study",
+    "Grey Mother's Pearls",
+    "Grey Mother's Safety Deposit Box",
+    "Grip's Cave",
+    "Gunsmithing",
+    "Hand Cart",
+    "Hand-Powered Milling Tool",
+    "Handwritten Note",
+    "Handwritten Note (2)",
+    "Handwritten Note (3)",
+    "Handwritten Note (Survival)",
+    "Handwritten Prescription",
+    "Hangar Basement",
+    "Hank's Hatch",
+    "Hank's Journal - Part One",
+    "Hank's Journal - Part Two",
+    "Hank's Lock Box Key",
+    "Hank's Prepper Cache Code",
+    "Hard Times",
+    "Hardhat",
+    "Harrowed Residence",
+    "Hatch",
+    "Haul Truck",
+    "Haunted Mind",
+    "He Lives",
+    "Headache",
+    "Headframe Building",
+    "Heat Pack",
+    "Heat Pack (Affliction)",
+    "Helicopter",
+    "Herbal Tea",
+    "Hidden Cache",
+    "Hide Chair",
+    "Hide Couch",
+    "High Energy",
+    "High Meadow",
+    "High Peak Plateau",
+    "Highway Robbery",
+    "Highway Robbery (mission)",
+    "Hippocratic Oath",
+    "History of The Collapse",
+    "Home-made Soup",
+    "Homesteader's Respite",
+    "Hoodie",
+    "Hot Shot",
+    "Hunter's Blind (disambiguation)",
+    "Hunter's Blinds",
+    "Hunting Lodge Rifle",
+    "Hunting Rifle",
+    "Hushed River",
+    "Huts",
+    "Hymnal",
+    "Hyperglycemic Risk",
+    "Hypothermia",
+    "Hypothermia Risk",
+    "ID - A. Lewis",
+    "ID - D. Belanger",
+    "ID - F. Leblanc",
+    "ID - G. Russell",
+    "ID - K. Morrison",
+    "ID - O. Gould",
+    "ID - R. Tan",
+    "ID - S. Gagne",
+    "ID - T. Chan",
+    "ID - V. Singh",
+    "ID Card",
+    "ID Naomi Moore",
+    "Ice Fishing",
+    "Ice Fishing Huts",
+    "Idle Camp",
+    "Idle Hideout",
+    "Illegible Note",
+    "Immutable Hesitation",
+    "Improved Rest",
+    "Indolent Hoppers",
+    "Industrial Toilet",
+    "Infection",
+    "Infection Risk",
+    "Insomnia Risk",
+    "Insulated Boots",
+    "Insulated Flask",
+    "Insulin",
+    "Interloper",
+    "Interview Transcript 12",
+    "Interview Transcript 14",
+    "Interview Transcript 17",
+    "Interview Transcript 4",
+    "Intestinal Parasites",
+    "Iron Road",
+    "It's Getting Cold Out There",
+    "Jack-o-Lantern",
+    "Jeans",
+    "Jeremiah's Bearskin Coat",
+    "Jeremiah's Broken Rifle",
+    "Jeremiah's Folly",
+    "Jeremiah's Folly/Transcript",
+    "Jeremiah's Hideout",
+    "Jeremiah's Knife",
+    "Jeremiah's Papers",
+    "Jeremiah's Repaired Rifle",
+    "Joplin's Bunker Raid",
+    "Joplin's Journal, Part One",
+    "Joplin's Journal, Part Two",
+    "Journal",
+    "Journal Page",
+    "Juniper Runoff",
+    "Junker's Paddock",
+    "Just Like New",
+    "Kerosene",
+    "Ketchup Chips",
+    "Key To Lake Cabin 1",
+    "Key To Lake Cabin 2",
+    "Key To Lake Cabin 3",
+    "Keypad",
+    "Laceration",
+    "Ladder",
+    "Lake Cave",
+    "Lake Gunshots",
+    "Lake Whitefish (Cooked)",
+    "Landslide (Bleak Inlet)",
+    "Landslide (Hushed River Valley)",
+    "Langston Mine",
+    "Langston Mine Memo",
+    "Lantern",
+    "Lantern Fuel",
+    "Last Horizon",
+    "Last Lonely House",
+    "Last Quarrel",
+    "Last Resort Soup",
+    "Leap of Faith",
+    "Leather Shoes",
+    "Leaving the Old World Behind",
+    "Letter",
+    "Letter (Car)",
+    "Letter for Hank's Niece",
+    "Light Shell",
+    "Light Up The Night",
+    "Lighthouse (Port Remnant)",
+    "Lighthouse Keeper's Cabin",
+    "Lights in the Sky",
+    "Lily's Map",
+    "Lily's Pancakes",
+    "Lily's Trunk Key",
+    "Load Screen",
+    "Local Legends - Ghost Stag",
+    "Local Legends - Sasquatch",
+    "Local Legends - The Big One",
+    "Local Legends - The Lost Cave",
+    "Locations",
+    "Lock Box",
+    "Lock Box Key",
+    "Lock Box Key (Predux)",
+    "Locker",
+    "Locker Key",
+    "Locomotive Engine",
+    "Logging Camp Trailer Key",
+    "Loitering Marsh",
+    "Lonely Cave",
+    "Long Bridge",
+    "Long Wool Scarf",
+    "Lookout (disambiguation)",
+    "Loose Boards",
+    "Loose Bricks Stash",
+    "Loose Tile",
+    "Loose Tree Bark",
+    "Loot Table",
+    "Looted Grotto",
+    "Losing a Child is Like...",
+    "Lost Power Workers",
+    "Lost Worker's Note",
+    "Lost and Found",
+    "Lost in the Storm",
+    "Lotte's Rest",
+    "Mackenzie's Boots",
+    "Mackenzie's Pants",
+    "Mackenzie's Parka",
+    "Mackenzie's Shirt",
+    "Mackenzie's Sweater",
+    "Mackenzie's Toque",
+    "Mackinaw Jacket",
+    "Magnifying Lens",
+    "Mailbox",
+    "Major Bruising",
+    "Manufactured Arrow",
+    "Many Falls Vista",
+    "Map (Church)",
+    "Map (Train)",
+    "Map of Pleasant Valley",
+    "Maple Syrup",
+    "Marine Flare",
+    "Mariner's Pea Coat",
+    "Master Survivor",
+    "Matches (disambiguation)",
+    "Materials",
+    "McLeod Ultra-Efficiency Whale Oil Heater",
+    "Meat Curing Box",
+    "Medical Clinic",
+    "Medical Locker",
+    "Medical Log",
+    "Medicinal Plants of Great Bear",
+    "Medicinal Plants of Great Bear (Note)",
+    "Medicine Shelf",
+    "Medicine in my backyard",
+    "Memento Mori 1",
+    "Memento Mori 2",
+    "Memento Mori 3",
+    "Memento Mori 4",
+    "Memento Mori 5",
+    "Memo",
+    "Memo (Survival)",
+    "Memories",
+    "Memories/Transcript",
+    "Mending",
+    "Metal Chair",
+    "Metal Container",
+    "Metal Lamp",
+    "Metal Pail",
+    "Metal Pan",
+    "Metal Pot",
+    "Metal Shelf",
+    "Metal Table",
+    "Microwave",
+    "Military Coat",
+    "Military Stim",
+    "Military-Grade MRE",
+    "Milton Credit Union",
+    "Milton Credit Union Letter",
+    "Milton Hidden Cache Note",
+    "Milton House",
+    "Milton Post Office Note",
+    "Milton Safety Deposit Box Keys",
+    "Milton Supply Caches",
+    "Mine Gate Key",
+    "Mine Lockbox Key",
+    "Mine Office Key",
+    "Mine Safety Notice",
+    "Miner's Folly",
+    "Miner's Footpath",
+    "Mining Camp",
+    "Mining Log Page",
+    "Mining Newsletter",
+    "Minor Bruising",
+    "Miserable Haunt",
+    "Misery",
+    "Molly's Gift",
+    "Moose Carcass",
+    "Moose Meat (Cooked)",
+    "Moose Meat (Raw)",
+    "Moose Overlook",
+    "Moose Quarter",
+    "Mountain Pass",
+    "Mountaineering Boots",
+    "Mountaineering Rope",
+    "Mounted Burbot",
+    "Mounted Coho Salmon",
+    "Mounted Goldeye",
+    "Mounted Lake Whitefish",
+    "Mounted Rainbow Trout",
+    "Mounted Red Irish Lord",
+    "Mounted Rockfish",
+    "Mounted Smallmouth Bass",
+    "Mukluks",
+    "My Testament",
+    "Mysterious Note",
+    "Mystery Lake & Area",
+    "Mystery Lake (Western Access)",
+    "Naturalist Notebook 1",
+    "Naturalist Notebook 2",
+    "Neighbour's Note",
+    "Newspaper Clipping",
+    "Newspaper Clipping 2",
+    "Newsprint",
+    "Newsprint Roll",
+    "No Half-Measures",
+    "Noisemaker",
+    "Note",
+    "Note (EP4)",
+    "Note (Forsaken Airfield)",
+    "Note (Sundered Pass)",
+    "Note (Survival 2)",
+    "Note (Survival)",
+    "Note From Dr Larsen",
+    "Notebook Page",
+    "Notebook Page (Survival 2)",
+    "Notebook Page (Survival)",
+    "Notebook Paper",
+    "Nourished",
+    "Obstructed Transit",
+    "Off Season Fun",
+    "Office Memo",
+    "Ogre's Teardrop",
+    "Oil Tank",
+    "Old Bear's Den",
+    "Old Bedroll",
+    "Old Corral",
+    "Old Fashioned Parka",
+    "Old Man's Beard Wound Dressing",
+    "Old Settlement",
+    "Old Substation Work Memo",
+    "On the Lookout",
+    "On the Nature of Darkwalkers",
+    "One Last Thing",
+    "One With Nature",
+    "Orange Soda",
+    "Orca Gas Store Notice",
+    "Oven",
+    "Overhead Locker",
+    "Paddle",
+    "Page",
+    "Page (2)",
+    "Pain",
+    "Pallet",
+    "Pallets",
+    "Pancakes",
+    "Paper",
+    "Paper Fragment",
+    "Paradise Lost (Achievement)",
+    "Paradise Lost (Predux)",
+    "Paradise Lost (Predux)/Transcript",
+    "Paradise Lost/Transcript",
+    "Paradise Meadows Farm Key",
+    "Park Notice",
+    "Park Warning Notice",
+    "Passenger Manifest",
+    "Pastor's Note",
+    "Path (Track Section 5)",
+    "Patient 7",
+    "Patterned Wool Mittens (Blue)",
+    "Patterned Wool Mittens (Brown)",
+    "Patterned Wool Mittens (Burgundy)",
+    "Patterned Wool Socks (Dots)",
+    "Patterned Wool Socks (Moose)",
+    "Patterned Wool Socks (Plaid)",
+    "Peach Pie",
+    "Peak Cave",
+    "Peanut Butter",
+    "Pemmican Bar",
+    "Penitent Scholar",
+    "Perilous Crossing",
+    "Perseverance",
+    "Perseverance Wilds",
+    "Phone Box",
+    "Pickles",
+    "Piece Of Paper",
+    "Piece of Paper",
+    "Pilgrim",
+    "Pillar's Footrest",
+    "Pillow",
+    "Pinnacle Peaches",
+    "Pinned Note",
+    "Placid Notch",
+    "Plaid Shirt",
+    "Plane Crash Injuries",
+    "Plane Crashes",
+    "Plank",
+    "Planks",
+    "Plastic Container",
+    "Platelayer's Shortcut",
+    "Play Me",
+    "Pleasant Valley Church",
+    "Pleasant Valley Collectible, Part One",
+    "Pleasant Valley Collectible, Part Three",
+    "Pleasant Valley Collectible, Part Two",
+    "Pleasant Valley History",
+    "Poisoned Wolf Carcass",
+    "Pond (Track Section 3)",
+    "Pond (Track Section 4)",
+    "Pork and Beans",
+    "Porridge",
+    "Port Remnant",
+    "Porter's Soup",
+    "Pot Belly Stove",
+    "Potato",
+    "Potato Sack",
+    "Power Company ID",
+    "Practical Gunsmithing",
+    "Prayerful Window",
+    "Precarious Causeway",
+    "Prepper Hatch Location",
+    "Prepper's Pie",
+    "Prison Transport Manifest",
+    "Project Medical Officer",
+    "Prologue/Transcript",
+    "Prototype Train",
+    "Ptarmigan Carcass",
+    "Ptarmigan Pie",
+    "Ptarmigan Stew",
+    "Public Notice",
+    "Pump House",
+    "Pumpkin Pie",
+    "Quarantine",
+    "Quick Draw",
+    "Quilted Bed",
+    "Rabbit (Cooked)",
+    "Rabbit (Raw)",
+    "Rabbit Carcass",
+    "Rabbit Pie",
+    "Rabbit Stew",
+    "Radio",
+    "Radio Control Hut",
+    "Radio Parts",
+    "Railway",
+    "Railyard (Track Section 1)",
+    "Railyard (Track Section 2)",
+    "Railyard (Track Section 3)",
+    "Railyard (Track Section 4)",
+    "Railyard (Track Section 5)",
+    "Rainbow Trout (Cooked)",
+    "Ranger Stew",
+    "Ravaged Deer Remains",
+    "Raven Crossing",
+    "Realism",
+    "Receiver",
+    "Reclaimed Wood",
+    "Recovery Backpack",
+    "Recycled Can",
+    "Red Irish Lord (Cooked)",
+    "Register",
+    "Reluctant Shortcut",
+    "Remnant Cave",
+    "Renewed Hope",
+    "Renewed Hope (Predux)",
+    "Renewed Hope (Predux)/Transcript",
+    "Renewed Hope/Transcript",
+    "Repair",
+    "Repair Depot",
+    "Research Book",
+    "Resolute Outfitter",
+    "Respirator",
+    "Restore Condition",
+    "Revolver",
+    "Revolver Firearm",
+    "Revolver Shell Casing",
+    "Rheumatic Joints",
+    "Rifle Firearm",
+    "Rifle Shell Casing",
+    "Risk of Infection/Transcript",
+    "Risk of Intestinal Parasites",
+    "River (Northern Access)",
+    "River (Southern Access)",
+    "Roads",
+    "Roamer's Cave",
+    "Rock Cache (Mementos)",
+    "Rock Climb",
+    "Rockfish (Cooked)",
+    "Rocky Thoroughfare",
+    "Rosary",
+    "Rose Hip Pie",
+    "Round Table",
+    "Route One Waterfall",
+    "Runaway Bridge",
+    "Running Shoes",
+    "Rustic Bed",
+    "Rustic Bench",
+    "Rustic Chair",
+    "Rustic Closet",
+    "Rustic Cupboard",
+    "Rustic Display Shelf",
+    "Rustic End Table",
+    "Rustic Shelf",
+    "Rustic Stool",
+    "Rustic Storage Box",
+    "Rustic Storage Trunk",
+    "Rustic Table",
+    "Rusty Key",
+    "Rüdiger's Diary 1",
+    "Rüdiger's Diary 2",
+    "Rüdiger's Diary 3",
+    "Rüdiger's Dream",
+    "Rüdiger's Machine",
+    "Rüdiger's Watch",
+    "Safehouse Customization",
+    "Safehouse Decoration Box",
+    "Salt (Bag)",
+    "Salt Deposit",
+    "Salty Crackers",
+    "Save Our Souls",
+    "Scaffolder's Hideout",
+    "Scrap Lead",
+    "Scrap Metal Shard",
+    "Scrub Brush",
+    "Scurvy",
+    "Scurvy Risk",
+    "Sea Charts",
+    "Search Party",
+    "Second Pillar",
+    "Secret Mountain Path",
+    "Security Chief's ID Badge",
+    "Security Chief's Log (illegible)",
+    "Security Chief's Log 14",
+    "Security Chief's Log 23",
+    "Security Chief's Log 29",
+    "Security Chief's Log 31",
+    "Security Chief's Log 32",
+    "Security Chief's Log 33",
+    "Security Chief's Log 6",
+    "Severe Lacerations",
+    "Sharpening",
+    "Shattered Cove",
+    "Shattered Marsh",
+    "Shelf",
+    "Sheltered Access",
+    "Shopping List",
+    "Shortwave Tower East",
+    "Shotgun",
+    "Shotgun Ammunition",
+    "Shotgun Shell Casing",
+    "Shutterbug",
+    "Signal to Noise",
+    "Signal to Noise/Transcript",
+    "Simple Arrow",
+    "Simple Note",
+    "Simple Parka",
+    "Ski Boots",
+    "Ski Gloves",
+    "Ski Jacket",
+    "Skilled Survivor",
+    "Small Arms Handbook",
+    "Smallmouth Bass (Cooked)",
+    "Smoker's Cave",
+    "Snow Pants",
+    "Snow Shelter",
+    "Soda (disambiguation)",
+    "Soggy Note",
+    "Something Stinks",
+    "Something Warm to Drink",
+    "Something Wicked",
+    "Song of the Earth",
+    "Sounds Like Some Kind of Indie Band",
+    "Sour Stomach",
+    "Spear Head",
+    "Sport Vest",
+    "Sports Socks",
+    "Sprain Risk",
+    "Sprained Ankle",
+    "Sprained Wrist",
+    "Spray Paint - Glyph",
+    "Square Table",
+    "Stack of Papers",
+    "Stacy's Grape Soda",
+    "Stained Paper",
+    "Stalker",
+    "Stalker's Pie",
+    "Station Bunkhouse",
+    "Stay on Target",
+    "Steam Train",
+    "Steely Chasm",
+    "Stick",
+    "Stone",
+    "Stone Shelf Cave",
+    "Stone-Age Sniper",
+    "Storage Cupboard",
+    "Stored Water",
+    "Stove",
+    "Stump Remover",
+    "Sudden Washout",
+    "Suffocation",
+    "Suffocation Risk",
+    "Suitcase",
+    "Suitcase belonging to Dimitri S.",
+    "Summit Soda",
+    "Summit at Ravine's End",
+    "Supply Bin",
+    "Supply Room Key",
+    "Sure Footing",
+    "Surfeit Trestle",
+    "Surveyed Locations",
+    "Survival Knife",
+    "Survival Mode/Interloper Tips",
+    "Survival Of The Fittest",
+    "Survival Of The Fittest/Transcript",
+    "Survival School (Predux)",
+    "Survival School (Predux)/Transcript",
+    "Survive the Outdoors!",
+    "Survive the Quiet Apocalypse",
+    "Survivor Monologue",
+    "Sutherland's Note",
+    "Sutherland's Tale",
+    "Suzuki Environs",
+    "Suzuki Geothermal Region",
+    "Suzuki Radio Telescope",
+    "Sweatshirt",
+    "Switch Box",
+    "T-Shirt",
+    "T-Shirt (CM)",
+    "T-Shirt (GBI)",
+    "T-Shirt (Snappy)",
+    "Table",
+    "Tackle Box",
+    "Tactical Gloves",
+    "Tactical Jacket",
+    "Tall Rustic Closet",
+    "Tall Rustic Shelf",
+    "Tall Tales",
+    "Tall Tales (Achievement)",
+    "Tasting Menu",
+    "Tearful Letter",
+    "Technical Backpack",
+    "Terry",
+    "Thanks for the Memories",
+    "Thankyou Letter",
+    "The Basics of Survival",
+    "The Best Defense",
+    "The Best Defense/Transcript",
+    "The Cold, Broken Road",
+    "The Crash",
+    "The Crash/Transcript",
+    "The Crossroads Elegy",
+    "The Detonators/Transcript",
+    "The Foreman",
+    "The Frozen Angler (Survival School)",
+    "The Grey Mother (Predux)",
+    "The Grey Mother (Predux)/Transcript",
+    "The Grey Mother/Transcript",
+    "The Hard Sciences",
+    "The Hunted, Part Three",
+    "The Last Light",
+    "The Long Dark Wiki",
+    "The Long Dark/Changelog/Archive 1",
+    "The Long Dark/Changelog/Archive 2",
+    "The Long Development",
+    "The Long Winter",
+    "The New World",
+    "The Old Bear's Ear",
+    "The Old Trapper",
+    "The Power Plant/Transcript",
+    "The Security Chief",
+    "The Security Chief's Remains",
+    "The Technician's Notebook",
+    "The Will to Live",
+    "The Wounded Trapper",
+    "The Wounded Trapper/Transcript",
+    "There Will Be Blood",
+    "Thermal Underwear",
+    "Thick Wool Sweater",
+    "Thin Wool Sweater",
+    "Thomson Family Stew",
+    "Timberwolf Carcass",
+    "Timberwolf Mountain (Achievement)",
+    "Time Capsule",
+    "Timeline of The Long Dark",
+    "Tin of Coffee",
+    "Tin of Sardines",
+    "Tinder Plug",
+    "To SAR And Back",
+    "To The Bone",
+    "To Those Who Are Missing",
+    "To the Teeth",
+    "Toaster",
+    "Tomato Soup",
+    "Too Big to Fail",
+    "Too Greedily, too Deep",
+    "Torn Clothing",
+    "Torn Page",
+    "Torn Paper",
+    "Tough Enough",
+    "Tough as Nails",
+    "Towel",
+    "Town of Milton",
+    "Toxic Fog",
+    "Track Switch",
+    "Tractor",
+    "Trade Drop Box",
+    "Trader",
+    "Trail Boots",
+    "Trailer (Blackrock Region)",
+    "Train Key",
+    "Train Lever",
+    "Train Shelter",
+    "Train Shuttle",
+    "Transcript (disambiguation)",
+    "Transponder Parts",
+    "Trash Can",
+    "Trash Can Letter",
+    "Trauma",
+    "Trauma Kit",
+    "Trauma/Transcript",
+    "Travois",
+    "Trout Stew",
+    "Trunk",
+    "Tunnel",
+    "Turbulent Pasture",
+    "Two for Two",
+    "Unburdened",
+    "Undelivered Letter",
+    "Unyielding Inundation",
+    "Urban Parka",
+    "Urn",
+    "Utilities Bill",
+    "Vacant Depot",
+    "Vagabond Soup",
+    "Valley Cave",
+    "Valve Socket Handle",
+    "Vase",
+    "Vegetable Rack",
+    "Vehicle",
+    "Venison (Cooked)",
+    "Venison (Raw)",
+    "Venison Pie",
+    "Venison Stew",
+    "Voyageur",
+    "Warming Up",
+    "Washed Out Trailers",
+    "Washer",
+    "Water (Potable)",
+    "Water (Unsafe)",
+    "Water Stained Paper",
+    "Water Tower",
+    "Wax Cylinder 1",
+    "Wax Cylinder 10",
+    "Wax Cylinder 11",
+    "Wax Cylinder 12",
+    "Wax Cylinder 13",
+    "Wax Cylinder 14",
+    "Wax Cylinder 15",
+    "Wax Cylinder 16",
+    "Wax Cylinder 2",
+    "Wax Cylinder 3",
+    "Wax Cylinder 4",
+    "Wax Cylinder 5",
+    "Wax Cylinder 6",
+    "Wax Cylinder 7",
+    "Wax Cylinder 8",
+    "Wax Cylinder 9",
+    "Wax Cylinder Player",
+    "Wax Cylinders",
+    "Weakened State",
+    "Weapon Locker",
+    "Weather Station",
+    "Welcome to the S**t Show",
+    "Welkin's Window",
+    "Well Fed",
+    "Wet Paper",
+    "Whale Bone Shrine",
+    "Whale Oil Can",
+    "What I Know",
+    "What One Man Can Do",
+    "What One Man Can Do/Transcript",
+    "Whealy's Turn",
+    "Wheel",
+    "Wide Display Shelf",
+    "Wide Dresser",
+    "Wild At Heart",
+    "Wilderness Kitchen",
+    "Windbreaker",
+    "Wing (Summit)",
+    "Winter Forecast",
+    "Wolf Carcass",
+    "Wolf Meat (Cooked)",
+    "Wolf Meat (Raw)",
+    "Wolf Quarter",
+    "Wolf's Jaw Overlook",
+    "Wolfbait",
+    "Wolfskin Hat Blueprint Card",
+    "Wolfskin Pants Blueprint Card",
+    "Wood Matches",
+    "Wood Stove",
+    "Woodworking Tools",
+    "Wool Ear Wrap",
+    "Wool Longjohns",
+    "Wool Mittens",
+    "Wool Scarf",
+    "Wool Shirt",
+    "Wool Socks",
+    "Wool Toque",
+    "Work Bench",
+    "Work Boots",
+    "Work Gloves",
+    "Work Order",
+    "Work Pants",
+    "Workbench Vice",
+    "Workshop",
+    "Worn Logbook",
+    "Wyatt's Lost Papers 1",
+    "Wyatt's Lost Papers 2",
+    "Wyatt's Lost Papers 3",
+    "Wyatt's Skeleton",
+    "You Fix My Rifle?/Transcript",
+    "You Prep the Preppers",
+    "You'll Be With Her Soon",
+    "Your Journey Begins"
+  ]
+}

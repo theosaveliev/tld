@@ -1,17 +1,20 @@
 # pyright: reportAny=false
 import json
-from typing import TYPE_CHECKING, Literal
+from pathlib import Path
+from typing import Literal
 
 import click
 import defusedxml.ElementTree as ET
 
 from pipeline.bfs import bfs, depth_histogram, render_json, render_text
+from pipeline.categories import build_category_report, write_category_report
 from pipeline.click_types import IN_PATH, OUT_PATH
 from pipeline.links import LinkExtractor
+from pipeline.templates import (
+    build_template_category_report,
+    write_template_category_report,
+)
 from pipeline.wiki import load_wiki
-
-if TYPE_CHECKING:
-    from pathlib import Path
 
 __all__ = ["cli"]
 
@@ -104,3 +107,53 @@ def bfs_tree(
     click.echo(f"red links: {len(extractor.dangling)}", err=True)
     for depth, count in depth_histogram(tree).items():
         click.echo(f"  depth {depth}: {count}", err=True)
+
+
+@cli.command()
+@click.argument("wiki_dump", type=IN_PATH)
+@click.option(
+    "--output-dir",
+    type=click.Path(path_type=Path, file_okay=False),
+    default=Path("reports/categories"),
+    show_default=True,
+)
+def categories(wiki_dump: Path, output_dir: Path) -> None:
+    """Extract explicit category assignments from the wiki dump."""
+    click.echo("Loading wiki...", err=True)
+    wiki = load_wiki(wiki_dump)
+
+    click.echo(f"Loaded {len(wiki.pages)} pages.", err=True)
+    click.echo("Extracting categories...", err=True)
+
+    report = build_category_report(wiki)
+    write_category_report(report, output_dir)
+
+    for name, value in report["summary"].items():
+        click.echo(f"{name}: {value}", err=True)
+
+    click.echo(f"Reports written to {output_dir}", err=True)
+
+
+@cli.command("template-categories")
+@click.argument("wiki_dump", type=IN_PATH)
+@click.option(
+    "--output-dir",
+    type=click.Path(path_type=Path, file_okay=False),
+    default=Path("reports/categories/templates"),
+    show_default=True,
+)
+def template_categories(wiki_dump: Path, output_dir: Path) -> None:
+    """Find potential categories introduced through template transclusion."""
+    click.echo("Loading wiki...", err=True)
+    wiki = load_wiki(wiki_dump)
+
+    click.echo(f"Loaded {len(wiki.pages)} pages.", err=True)
+    click.echo("Analyzing template transclusions...", err=True)
+
+    report = build_template_category_report(wiki)
+    write_template_category_report(report, output_dir)
+
+    for name, value in report["summary"].items():
+        click.echo(f"{name}: {value}", err=True)
+
+    click.echo(f"Reports written to {output_dir}", err=True)

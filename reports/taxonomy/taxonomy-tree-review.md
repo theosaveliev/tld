@@ -39,6 +39,7 @@
 - [Keeper's Pass South](https://thelongdark.fandom.com/wiki/Keeper's_Pass_South) — transition-zone property
 - [Mountain Town](https://thelongdark.fandom.com/wiki/Mountain_Town)
 - [Mystery Lake (region)](https://thelongdark.fandom.com/wiki/Mystery_Lake_(region))
+- [Perseverance Mills](https://thelongdark.fandom.com/wiki/Perseverance_Mills)
 - [Pleasant Valley](https://thelongdark.fandom.com/wiki/Pleasant_Valley)
 - [Region](https://thelongdark.fandom.com/wiki/Region)
 - [Sundered Pass](https://thelongdark.fandom.com/wiki/Sundered_Pass)
@@ -47,16 +48,15 @@
 - [Trans-Island Railway Line](https://thelongdark.fandom.com/wiki/Trans-Island_Railway_Line)
 - [Transfer Pass](https://thelongdark.fandom.com/wiki/Transfer_Pass)
 - [Winding River](https://thelongdark.fandom.com/wiki/Winding_River) — transition-zone property
+- [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination)
 
-### Named transition sites
+### Places in Ash Canyon
 
-- [Cinder Hills Coal Mine](https://thelongdark.fandom.com/wiki/Cinder_Hills_Coal_Mine) — transition-zone property
-- [No. 3 Coal Mine](https://thelongdark.fandom.com/wiki/No._3_Coal_Mine) — transition-zone property
-
-### Cross-map places
-
-- [Fishing Hut](https://thelongdark.fandom.com/wiki/Fishing_Hut)
-- [Great Bear Highway](https://thelongdark.fandom.com/wiki/Great_Bear_Highway)
+- [Angler's Den](https://thelongdark.fandom.com/wiki/Angler's_Den)
+- [Bitter Marsh](https://thelongdark.fandom.com/wiki/Bitter_Marsh)
+- [Broad Falls](https://thelongdark.fandom.com/wiki/Broad_Falls)
+- [Long Falls](https://thelongdark.fandom.com/wiki/Long_Falls)
+- [Narrow Falls Cave](https://thelongdark.fandom.com/wiki/Narrow_Falls_Cave)
 
 ### Places in Blackrock
 
@@ -81,13 +81,20 @@
 - [Old Substation](https://thelongdark.fandom.com/wiki/Old_Substation)
 - [Power Plant](https://thelongdark.fandom.com/wiki/Power_Plant)
 - [Steam Tunnels](https://thelongdark.fandom.com/wiki/Steam_Tunnels)
+- [The Power Plant](https://thelongdark.fandom.com/wiki/The_Power_Plant)
 - [Wedge Cave](https://thelongdark.fandom.com/wiki/Wedge_Cave)
 - [Whistling Perch](https://thelongdark.fandom.com/wiki/Whistling_Perch)
 
 ### Places in Bleak Inlet
 
 - [Cannery Pier](https://thelongdark.fandom.com/wiki/Cannery_Pier)
+- [Fallen Lighthouse](https://thelongdark.fandom.com/wiki/Fallen_Lighthouse)
+- [Island Cave](https://thelongdark.fandom.com/wiki/Island_Cave)
 - [Last Resort Cannery](https://thelongdark.fandom.com/wiki/Last_Resort_Cannery)
+- [Lower Raven Falls](https://thelongdark.fandom.com/wiki/Lower_Raven_Falls)
+- [Pensive Lookout](https://thelongdark.fandom.com/wiki/Pensive_Lookout)
+- [Ravine's End Waterfall](https://thelongdark.fandom.com/wiki/Ravine's_End_Waterfall)
+- [Trailers west of the Cannery](https://thelongdark.fandom.com/wiki/Trailers_west_of_the_Cannery)
 
 ### Places in Broken Railroad
 
@@ -102,12 +109,14 @@
 
 - [Abandoned Lookout](https://thelongdark.fandom.com/wiki/Abandoned_Lookout)
 - [Bear Creek Campground](https://thelongdark.fandom.com/wiki/Bear_Creek_Campground)
+- [Cinder Hills Coal Mine](https://thelongdark.fandom.com/wiki/Cinder_Hills_Coal_Mine) — transition-zone property
 - [Coastal Townsite](https://thelongdark.fandom.com/wiki/Coastal_Townsite)
 - [Commuter's Lament](https://thelongdark.fandom.com/wiki/Commuter's_Lament)
 - [Fishing Camp](https://thelongdark.fandom.com/wiki/Fishing_Camp)
 - [Jackrabbit Island](https://thelongdark.fandom.com/wiki/Jackrabbit_Island)
 - [Log Sort](https://thelongdark.fandom.com/wiki/Log_Sort)
 - [Misanthrope's Homestead](https://thelongdark.fandom.com/wiki/Misanthrope's_Homestead)
+- [No. 3 Coal Mine](https://thelongdark.fandom.com/wiki/No._3_Coal_Mine) — transition-zone property
 - [Quonset Garage](https://thelongdark.fandom.com/wiki/Quonset_Garage)
 - [Rabbit Grove](https://thelongdark.fandom.com/wiki/Rabbit_Grove)
 - [Rockfall](https://thelongdark.fandom.com/wiki/Rockfall)
@@ -151,6 +160,7 @@
 - [Muskeg Overlook](https://thelongdark.fandom.com/wiki/Muskeg_Overlook)
 - [Old Spence Family Homestead](https://thelongdark.fandom.com/wiki/Old_Spence_Family_Homestead)
 - [Poacher's Camp](https://thelongdark.fandom.com/wiki/Poacher's_Camp)
+- [Shortwave Tower West](https://thelongdark.fandom.com/wiki/Shortwave_Tower_West)
 - [Shortwave Tower](https://thelongdark.fandom.com/wiki/Shortwave_Tower)
 - [Waterfall (Forlorn Muskeg)](https://thelongdark.fandom.com/wiki/Waterfall_(Forlorn_Muskeg))
 
@@ -171,13 +181,26 @@
 - [Spotter's Blind](https://thelongdark.fandom.com/wiki/Spotter's_Blind)
 - [Stony Passage](https://thelongdark.fandom.com/wiki/Stony_Passage)
 - [Surveyor's Memory](https://thelongdark.fandom.com/wiki/Surveyor's_Memory)
+- [Terminal](https://thelongdark.fandom.com/wiki/Terminal)
 
 ### Places in Hushed River Valley
 
+- [Banner Falls](https://thelongdark.fandom.com/wiki/Banner_Falls)
 - [Cloudtop Falls](https://thelongdark.fandom.com/wiki/Cloudtop_Falls)
 - [Ice Cave](https://thelongdark.fandom.com/wiki/Ice_Cave)
+- [Little Bear and Cub Falls](https://thelongdark.fandom.com/wiki/Little_Bear_and_Cub_Falls)
+- [Long Shot Falls](https://thelongdark.fandom.com/wiki/Long_Shot_Falls)
+- [Mammoth Falls](https://thelongdark.fandom.com/wiki/Mammoth_Falls)
+- [Monolith Lake](https://thelongdark.fandom.com/wiki/Monolith_Lake)
 - [Mysterious Signal Fire](https://thelongdark.fandom.com/wiki/Mysterious_Signal_Fire)
+- [Offset Falls](https://thelongdark.fandom.com/wiki/Offset_Falls)
+- [Pensive Vista](https://thelongdark.fandom.com/wiki/Pensive_Vista)
+- [Quarrelling Falls](https://thelongdark.fandom.com/wiki/Quarrelling_Falls)
+- [Reclusive Falls](https://thelongdark.fandom.com/wiki/Reclusive_Falls)
+- [Stairsteps Lake](https://thelongdark.fandom.com/wiki/Stairsteps_Lake)
+- [Twin Sisters Falls](https://thelongdark.fandom.com/wiki/Twin_Sisters_Falls)
 - [Valley View Point](https://thelongdark.fandom.com/wiki/Valley_View_Point)
+- [Watchful Falls](https://thelongdark.fandom.com/wiki/Watchful_Falls)
 
 ### Places in Keeper's Pass North
 
@@ -195,11 +218,12 @@
 - [Crashed Prison Transport Bus](https://thelongdark.fandom.com/wiki/Crashed_Prison_Transport_Bus)
 - [Hermit's Cabin](https://thelongdark.fandom.com/wiki/Hermit's_Cabin)
 - [Mackenzie's Crashed Plane](https://thelongdark.fandom.com/wiki/Mackenzie's_Crashed_Plane)
-- [Milton](https://thelongdark.fandom.com/wiki/Milton)
+- [Milton Basin](https://thelongdark.fandom.com/wiki/Milton_Basin)
 - [Milton House (Grey Mother's)](https://thelongdark.fandom.com/wiki/Milton_House_(Grey_Mother's))
 - [Milton Park](https://thelongdark.fandom.com/wiki/Milton_Park)
 - [Milton Post Office](https://thelongdark.fandom.com/wiki/Milton_Post_Office)
 - [Milton Water Tower](https://thelongdark.fandom.com/wiki/Milton_Water_Tower)
+- [Milton](https://thelongdark.fandom.com/wiki/Milton)
 - [Old Schoolhouse](https://thelongdark.fandom.com/wiki/Old_Schoolhouse)
 - [Orca Gas Station](https://thelongdark.fandom.com/wiki/Orca_Gas_Station)
 - [Paradise Meadows Farm](https://thelongdark.fandom.com/wiki/Paradise_Meadows_Farm)
@@ -247,6 +271,7 @@
 
 - [Cascading Falls](https://thelongdark.fandom.com/wiki/Cascading_Falls)
 - [Contemplation Bridge](https://thelongdark.fandom.com/wiki/Contemplation_Bridge)
+- [Crash Site (Pleasant Valley)](https://thelongdark.fandom.com/wiki/Crash_Site_(Pleasant_Valley))
 - [Derelict Cabins](https://thelongdark.fandom.com/wiki/Derelict_Cabins)
 - [Draft Dodger's Cabin](https://thelongdark.fandom.com/wiki/Draft_Dodger's_Cabin)
 - [End of the Road](https://thelongdark.fandom.com/wiki/End_of_the_Road)
@@ -256,6 +281,7 @@
 - [Lonely Homestead](https://thelongdark.fandom.com/wiki/Lonely_Homestead)
 - [Long Curve](https://thelongdark.fandom.com/wiki/Long_Curve)
 - [Lower Falls](https://thelongdark.fandom.com/wiki/Lower_Falls)
+- [Misty Falls Cave](https://thelongdark.fandom.com/wiki/Misty_Falls_Cave)
 - [Misty Falls Picnic Area](https://thelongdark.fandom.com/wiki/Misty_Falls_Picnic_Area)
 - [Pensive Pond](https://thelongdark.fandom.com/wiki/Pensive_Pond)
 - [Picnic Spot](https://thelongdark.fandom.com/wiki/Picnic_Spot)
@@ -263,11 +289,18 @@
 - [Pleasant Valley Outbuildings](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Outbuildings)
 - [Point of Disagreement](https://thelongdark.fandom.com/wiki/Point_of_Disagreement)
 - [Prepper's Abandoned Cache](https://thelongdark.fandom.com/wiki/Prepper's_Abandoned_Cache)
+- [Rural Store](https://thelongdark.fandom.com/wiki/Rural_Store)
 - [Signal Hill](https://thelongdark.fandom.com/wiki/Signal_Hill)
 - [Skeeter's Ridge](https://thelongdark.fandom.com/wiki/Skeeter's_Ridge)
 - [Thomson's Crossing](https://thelongdark.fandom.com/wiki/Thomson's_Crossing)
 - [Three Strikes Farmstead](https://thelongdark.fandom.com/wiki/Three_Strikes_Farmstead)
 - [Upper Falls](https://thelongdark.fandom.com/wiki/Upper_Falls)
+
+### Places in Sundered Pass
+
+- [Ambler's Lake](https://thelongdark.fandom.com/wiki/Ambler's_Lake)
+- [Giant's Thumbprint](https://thelongdark.fandom.com/wiki/Giant's_Thumbprint)
+- [Seedling Spring](https://thelongdark.fandom.com/wiki/Seedling_Spring)
 
 ### Places in The Ravine
 
@@ -296,48 +329,18 @@
 - [Waterfall Cave](https://thelongdark.fandom.com/wiki/Waterfall_Cave)
 - [Wing](https://thelongdark.fandom.com/wiki/Wing)
 
+### Places in Zone of Contamination
+
+- [Overladen Pond](https://thelongdark.fandom.com/wiki/Overladen_Pond)
+- [Unquenched Extraction](https://thelongdark.fandom.com/wiki/Unquenched_Extraction)
+
 ### Named places — map not resolved
 
-- [Ambler's Lake](https://thelongdark.fandom.com/wiki/Ambler's_Lake)
-- [Angler's Den](https://thelongdark.fandom.com/wiki/Angler's_Den)
-- [Banner Falls](https://thelongdark.fandom.com/wiki/Banner_Falls)
-- [Bitter Marsh](https://thelongdark.fandom.com/wiki/Bitter_Marsh)
-- [Broad Falls](https://thelongdark.fandom.com/wiki/Broad_Falls)
-- [Crash Site (Pleasant Valley)](https://thelongdark.fandom.com/wiki/Crash_Site_(Pleasant_Valley))
-- [Fallen Lighthouse](https://thelongdark.fandom.com/wiki/Fallen_Lighthouse)
-- [Giant's Thumbprint](https://thelongdark.fandom.com/wiki/Giant's_Thumbprint)
-- [Island Cave](https://thelongdark.fandom.com/wiki/Island_Cave)
+- [Fishing Hut](https://thelongdark.fandom.com/wiki/Fishing_Hut)
+- [Great Bear Highway](https://thelongdark.fandom.com/wiki/Great_Bear_Highway)
 - [Jackrabbit Hangar](https://thelongdark.fandom.com/wiki/Jackrabbit_Hangar)
-- [Little Bear and Cub Falls](https://thelongdark.fandom.com/wiki/Little_Bear_and_Cub_Falls)
-- [Long Falls](https://thelongdark.fandom.com/wiki/Long_Falls)
-- [Long Shot Falls](https://thelongdark.fandom.com/wiki/Long_Shot_Falls)
-- [Lower Raven Falls](https://thelongdark.fandom.com/wiki/Lower_Raven_Falls)
-- [Mammoth Falls](https://thelongdark.fandom.com/wiki/Mammoth_Falls)
-- [Milton Basin](https://thelongdark.fandom.com/wiki/Milton_Basin)
-- [Misty Falls Cave](https://thelongdark.fandom.com/wiki/Misty_Falls_Cave)
-- [Monolith Lake](https://thelongdark.fandom.com/wiki/Monolith_Lake)
-- [Narrow Falls Cave](https://thelongdark.fandom.com/wiki/Narrow_Falls_Cave)
-- [Offset Falls](https://thelongdark.fandom.com/wiki/Offset_Falls)
-- [Overladen Pond](https://thelongdark.fandom.com/wiki/Overladen_Pond)
-- [Pensive Lookout](https://thelongdark.fandom.com/wiki/Pensive_Lookout)
-- [Pensive Vista](https://thelongdark.fandom.com/wiki/Pensive_Vista)
-- [Perseverance Mills](https://thelongdark.fandom.com/wiki/Perseverance_Mills)
 - [Prepper Cache](https://thelongdark.fandom.com/wiki/Prepper_Cache)
-- [Quarrelling Falls](https://thelongdark.fandom.com/wiki/Quarrelling_Falls)
-- [Ravine's End Waterfall](https://thelongdark.fandom.com/wiki/Ravine's_End_Waterfall)
-- [Reclusive Falls](https://thelongdark.fandom.com/wiki/Reclusive_Falls)
-- [Rural Store](https://thelongdark.fandom.com/wiki/Rural_Store)
-- [Seedling Spring](https://thelongdark.fandom.com/wiki/Seedling_Spring)
-- [Shortwave Tower West](https://thelongdark.fandom.com/wiki/Shortwave_Tower_West)
-- [Stairsteps Lake](https://thelongdark.fandom.com/wiki/Stairsteps_Lake)
-- [Terminal](https://thelongdark.fandom.com/wiki/Terminal)
-- [The Power Plant](https://thelongdark.fandom.com/wiki/The_Power_Plant)
-- [Trailers west of the Cannery](https://thelongdark.fandom.com/wiki/Trailers_west_of_the_Cannery)
-- [Twin Sisters Falls](https://thelongdark.fandom.com/wiki/Twin_Sisters_Falls)
-- [Unquenched Extraction](https://thelongdark.fandom.com/wiki/Unquenched_Extraction)
 - [Warm Cave](https://thelongdark.fandom.com/wiki/Warm_Cave)
-- [Watchful Falls](https://thelongdark.fandom.com/wiki/Watchful_Falls)
-- [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination)
 
 ## 2. Wildlife
 

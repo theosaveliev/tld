@@ -34,6 +34,9 @@ dev = [
     "types-lxml>=2026.2.16",
 ]
 
+[tool.uv]
+no-binary-package = ["mwparserfromhell"]
+extra-build-variables = { mwparserfromhell = { WITH_EXTENSION = "0" } }
 
 
 [tool.poe.executor]

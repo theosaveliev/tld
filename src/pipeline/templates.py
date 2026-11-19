@@ -280,16 +280,21 @@ def _template_category_links(
         if raw_title.startswith(":"):
             continue
 
+        # Only links explicitly using the Category namespace are category
+        # memberships. Unlike _normalise_namespace_title(), wiki.normalize()
+        # does not add a namespace to unqualified article titles.
+        normalized = wiki.normalize(raw_title)
+        if normalized is None:
+            continue
+
+        prefix, separator, _ = normalized.partition(":")
+        if not separator or wiki.ns_lookup.get(prefix.lower()) != CATEGORY_NS:
+            continue
+
         # A template/parser function in the category title needs parameter or
         # parser-function expansion, which this static pass does not perform.
         if "{{" in raw_title or "}}" in raw_title:
             dynamic_titles.add(raw_title)
-            continue
-
-        normalized = _normalise_namespace_title(
-            raw_title, "Category", CATEGORY_NS, wiki
-        )
-        if normalized is None:
             continue
 
         sort_key = str(link.text).strip() if link.text is not None else None

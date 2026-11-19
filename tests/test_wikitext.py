@@ -79,3 +79,30 @@ def test_template_category_scanner_ignores_parameter_categories() -> None:
 
     assert links == {("Category:Direct", None)}
     assert dynamic_titles == set()
+
+
+def test_template_category_scanner_does_not_promote_article_links() -> None:
+    text = "[[Scurvy|Vitamin C]]"
+
+    links, dynamic_titles = _template_category_links(text, make_wiki())
+
+    assert links == set()
+    assert dynamic_titles == set()
+
+
+def test_template_category_scanner_preserves_category_sort_key() -> None:
+    text = "[[Category:Scurvy|Vitamin C]]"
+
+    links, dynamic_titles = _template_category_links(text, make_wiki())
+
+    assert links == {("Category:Scurvy", "Vitamin C")}
+    assert dynamic_titles == set()
+
+
+def test_template_category_scanner_tracks_only_dynamic_category_links() -> None:
+    text = "[[Category:{{{category}}}]] [[{{{target}}}]]"
+
+    links, dynamic_titles = _template_category_links(text, make_wiki())
+
+    assert links == set()
+    assert dynamic_titles == {"Category:{{{category}}}"}

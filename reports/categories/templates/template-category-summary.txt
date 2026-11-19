@@ -7,47 +7,27 @@ unique_templates_encountered: 155
 templates_found: 145
 missing_templates: 1
 redirect_templates_not_expanded: 9
-templates_with_category_links: 25
-articles_with_potential_template_categories: 1441
-potential_template_category_memberships: 3101
-articles_without_categories_after_scan: 3
+templates_with_category_links: 18
+articles_with_potential_template_categories: 1371
+potential_template_category_memberships: 2111
+articles_without_categories_after_scan: 280
 articles_using_missing_templates: 1
 
 Potential categories introduced by templates:
   837  Category:Pages with update history
-  612  Category:Scurvy
-  389  Category:Locations
+  388  Category:Locations
   388  Category:Outdoor locations
   222  Category:DLC Content
-  153  Category:Tales from the Far Territory
-   81  Category:Story
-   69  Category:Iron Road
-   64  Category:Afflictions
+   63  Category:Afflictions
    60  Category:Interactable Objects
    43  Category:Wintermute
-   35  Category:Great Bear Island
    25  Category:Blackrock
    19  Category:Article stubs
    13  Category:Challenges
    13  Category:Skills
-   13  Category:The Long Dark
    10  Category:Disambiguations
     8  Category:Fire Starting
     7  Category:Articles in need of images
-    7  Category:Cauldron Island
     7  Category:Unofficially named content
-    6  Category:Hinterland Studio Inc.
     6  Category:Perseverance Mills
     2  Category:Perseverance Wilds
-    1  Category:Characters
-    1  Category:Clothing
-    1  Category:Fatigue
-    1  Category:First aid
-    1  Category:Food and drink
-    1  Category:Hunger
-    1  Category:Materials
-    1  Category:Region
-    1  Category:Thirst
-    1  Category:Tools
-    1  Category:Warmth
-    1  Category:Wildlife

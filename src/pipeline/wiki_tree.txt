@@ -1,0 +1,1821 @@
+The Long Dark Wiki [1760]
+├── The Long Dark [559]
+│   ├── Hinterland Studio Inc. [4]
+│   │   ├── Andre's Peak
+│   │   ├── Max's Last Stand
+│   │   ├── Matt's Truck
+│   │   └── Alan's Cave
+│   ├── First Flare [1]
+│   │   └── Mackenzie's Crashed Plane
+│   ├── Aurora [9]
+│   │   ├── Research Book [1]
+│   │   │   └── Field Dressing Your Kill, Vol. I (The Basics of Survival)
+│   │   ├── Trade Drop Box
+│   │   ├── Archivist
+│   │   ├── Computer
+│   │   ├── Car
+│   │   ├── Log Sort
+│   │   ├── Keypad
+│   │   └── Milling Machine
+│   ├── Wintermute [3]
+│   │   ├── Pilgrim
+│   │   ├── Voyageur
+│   │   └── Stalker
+│   ├── Will Mackenzie [2]
+│   │   ├── Cutty's Cave
+│   │   └── Detonators
+│   ├── Astrid Greenwood [2]
+│   │   └── Steam Train [1]
+│   │       └── Train Lever
+│   ├── Survival Mode [9]
+│   │   ├── Custom
+│   │   ├── A Note Left Behind
+│   │   ├── Mysterious Signal Fire
+│   │   ├── Map
+│   │   ├── Curing
+│   │   ├── Survivor Monologue
+│   │   ├── Warm Cave
+│   │   ├── Hibernation
+│   │   └── Mountain Goating
+│   ├── Challenge [15]
+│   │   ├── Hopeless Rescue
+│   │   ├── The Hunted, Part One
+│   │   ├── The Hunted, Part Two
+│   │   ├── The Hunted, Part Three
+│   │   ├── Whiteout
+│   │   ├── Nomad
+│   │   ├── As the Dead Sleep [6]
+│   │   │   ├── Memento Mori 1
+│   │   │   ├── Memento Mori 2
+│   │   │   ├── Memento Mori 3
+│   │   │   ├── Memento Mori 4
+│   │   │   ├── Memento Mori 5
+│   │   │   └── As the Dead Sleep Challenge Walkthrough
+│   │   ├── Winter's Embrace
+│   │   └── The Long Dark/Early Access Changelog
+│   ├── Tales
+│   ├── Iron Road [12]
+│   │   ├── Prototype Train [2]
+│   │   │   ├── Wax Cylinder 7
+│   │   │   └── Train Key
+│   │   ├── Oil Tank
+│   │   ├── Water Tower
+│   │   ├── Track Switch
+│   │   ├── Damaged Track
+│   │   ├── Brake Shoe
+│   │   ├── Whale Oil Can
+│   │   ├── McLeod Ultra-Efficiency Whale Oil Heater [1]
+│   │   │   └── Wax Cylinder 12
+│   │   └── Wax Cylinder Player
+│   ├── The Long Dark Original Soundtrack [1]
+│   │   └── First Aid Kit
+│   ├── Episode 1: Do Not Go Gentle [2]
+│   │   ├── Medicinal Plants of Great Bear
+│   │   └── Tinder Plug
+│   ├── Episode 2: Luminance Fugue [1]
+│   │   └── High Blind
+│   ├── Episode 3: Crossroads Elegy
+│   ├── Episode 5: The Light At The End Of All Things
+│   ├── Condition [1]
+│   │   └── Raven Falls Trestle
+│   ├── Warmth
+│   ├── Fatigue
+│   ├── Thirst
+│   ├── Hunger
+│   ├── Survival Overlay [3]
+│   │   ├── Fishing Hut
+│   │   ├── Chemical Poisoning Risk
+│   │   └── Sprain Risk
+│   ├── Weather [3]
+│   │   ├── Matches (disambiguation)
+│   │   ├── Wood Stove
+│   │   └── Branch
+│   ├── Safehouse [60]
+│   │   ├── Bed
+│   │   ├── Work Bench
+│   │   ├── Furnace
+│   │   ├── Arrowhead
+│   │   ├── Pot Belly Stove
+│   │   ├── Stove
+│   │   ├── Furniture Workbench
+│   │   ├── Rustic Bed
+│   │   ├── Quilted Bed
+│   │   ├── Bear Hide Bed
+│   │   ├── Little Island
+│   │   ├── Jackrabbit Island
+│   │   ├── Misanthrope's Homestead
+│   │   ├── Pensive Lookout
+│   │   ├── Cannery Worker Residences
+│   │   ├── Fireplace
+│   │   ├── Hunter's Blind
+│   │   ├── Mirthless Fork
+│   │   ├── Forester's Hermitage
+│   │   ├── Steam Tunnels
+│   │   ├── Old Substation
+│   │   ├── Foreman's Clearcut
+│   │   ├── Cook's Farm
+│   │   ├── Waterfall Cave
+│   │   ├── Eric's Falls
+│   │   ├── Crystal Lake
+│   │   ├── Angler's Den
+│   │   ├── Bitter Marsh
+│   │   ├── Foreman's Retreat
+│   │   ├── Miner's Folly [1]
+│   │   │   └── Mining Log Page
+│   │   ├── Homesteader's Respite
+│   │   ├── Derailment
+│   │   ├── Lake Overlook
+│   │   ├── Poacher's Camp
+│   │   ├── Fire Barrel
+│   │   ├── Milton Basin
+│   │   ├── Bunker Gamma
+│   │   ├── Reclusive Falls
+│   │   ├── Mammoth Falls
+│   │   ├── Hushed River
+│   │   ├── Valley View Point
+│   │   ├── Long Shot Falls
+│   │   ├── Lonely Cave
+│   │   ├── Peak Cave
+│   │   ├── Monolith Lake
+│   │   ├── Pensive Vista
+│   │   ├── Valley Cave
+│   │   ├── Little Bear and Cub Falls
+│   │   ├── Cove
+│   │   ├── Idle Camp
+│   │   ├── Train Shuttle
+│   │   ├── Last Lonely House
+│   │   ├── Seedling Spring
+│   │   ├── Giant's Thumbprint
+│   │   ├── Miserable Haunt
+│   │   ├── Idle Hideout
+│   │   ├── Weather Station [1]
+│   │   │   └── Bloody note
+│   │   └── An Old House Key
+│   ├── Needs
+│   ├── Time Capsule
+│   ├── The Long Development [6]
+│   │   ├── Precarious Causeway
+│   │   ├── Rocky Thoroughfare
+│   │   ├── Shattered Marsh
+│   │   ├── Forsaken Shore
+│   │   ├── Mountain Pass
+│   │   └── Truck
+│   ├── Decorations [181]
+│   │   ├── Medicine Shelf
+│   │   ├── Safehouse Decoration Box
+│   │   ├── Bear Hide Rug
+│   │   ├── Backpack
+│   │   ├── Metal Lamp
+│   │   ├── Stained Paper
+│   │   ├── Basin
+│   │   ├── Convenience Store
+│   │   ├── Basement (Sundered Pass)
+│   │   ├── Cardboard Box
+│   │   ├── Broom
+│   │   ├── Metal Pail
+│   │   ├── Crate
+│   │   ├── Milton House
+│   │   ├── Radio Tower
+│   │   ├── Concentrator
+│   │   ├── Control Tower
+│   │   ├── Lake Cabins
+│   │   ├── Abandoned Lookout
+│   │   ├── Hangar Basement
+│   │   ├── Bunker Alpha
+│   │   ├── Station Bunkhouse
+│   │   ├── Conveyor Room
+│   │   ├── Justy's Hovel
+│   │   ├── Bunker Beta
+│   │   ├── Bunker Omega
+│   │   ├── Toaster
+│   │   ├── Microwave
+│   │   ├── Forestry Lookout
+│   │   ├── Note (Survival 2)
+│   │   ├── Radio
+│   │   ├── Terminal
+│   │   ├── Headframe Building
+│   │   ├── Placid Notch
+│   │   ├── Final Refuge
+│   │   ├── Lotte's Rest
+│   │   ├── Cabin (Sundered Pass)
+│   │   ├── Corpse
+│   │   ├── Milton Park
+│   │   ├── Black Bear Carcass
+│   │   ├── Cougar Carcass
+│   │   ├── Deer Carcass
+│   │   ├── Ravaged Deer Remains
+│   │   ├── Moose Carcass
+│   │   ├── Timberwolf Carcass
+│   │   ├── Wolf Carcass
+│   │   ├── Poisoned Wolf Carcass
+│   │   ├── Cloth (Object)
+│   │   ├── Curtain
+│   │   ├── Old Bedroll
+│   │   ├── Pillow
+│   │   ├── Towel
+│   │   ├── Fir Limb
+│   │   ├── Cedar Limb
+│   │   ├── Barrel
+│   │   ├── Bench
+│   │   ├── Cabinet Door
+│   │   ├── Chair
+│   │   ├── Door
+│   │   ├── Ladder
+│   │   ├── Paddle
+│   │   ├── Pallet
+│   │   ├── Pallets
+│   │   ├── Plank
+│   │   ├── Planks
+│   │   ├── Shelf
+│   │   ├── Table
+│   │   ├── Wheel
+│   │   ├── Metal Chair
+│   │   ├── Metal Shelf
+│   │   ├── Metal Table
+│   │   ├── Broken Metal Bed Frame
+│   │   ├── Broken Metal Control Box
+│   │   ├── Broken Metal Door
+│   │   ├── Broken Metal Light Fixture
+│   │   ├── Hand Cart
+│   │   ├── Switch Box
+│   │   ├── Can
+│   │   ├── Briefcase
+│   │   ├── Cabinet
+│   │   ├── Coal Bin
+│   │   ├── Contraband Storage
+│   │   ├── Cooler
+│   │   ├── Cupboard
+│   │   ├── Deposit Box
+│   │   ├── Drawer
+│   │   ├── Dryer
+│   │   ├── File Cabinet
+│   │   ├── Firewood Bin
+│   │   ├── Freezer
+│   │   ├── Fridge
+│   │   ├── Glove Box
+│   │   ├── Hatch
+│   │   ├── Locker
+│   │   ├── Loose Bricks Stash
+│   │   ├── Medical Locker
+│   │   ├── Metal Container
+│   │   ├── Oven
+│   │   ├── Overhead Locker
+│   │   ├── Plastic Container
+│   │   ├── Potato Sack
+│   │   ├── Recovery Backpack
+│   │   ├── Register
+│   │   ├── Safe
+│   │   ├── Storage Cupboard
+│   │   ├── Supply Bin
+│   │   ├── Trash Can
+│   │   ├── Trunk
+│   │   ├── Vegetable Rack
+│   │   ├── Washer
+│   │   ├── Lock Box
+│   │   ├── Loose Boards
+│   │   ├── Loose Tree Bark
+│   │   ├── Rock Cache (Mementos)
+│   │   ├── Bin
+│   │   ├── Fuse Box
+│   │   ├── Loose Tile
+│   │   ├── Vase [1]
+│   │   │   └── Basement Key
+│   │   ├── Ammunition Forge
+│   │   ├── Rim Grill
+│   │   ├── Carved Cougar Figurine
+│   │   ├── Carved Bear Figurine
+│   │   ├── Carved Wolf Figurine
+│   │   ├── Decorative Art
+│   │   ├── Decorative Art (2)
+│   │   ├── Decorative End Table
+│   │   ├── Coffee Table
+│   │   ├── Dresser
+│   │   ├── Framed Hockey Jersey
+│   │   ├── Framed Photo
+│   │   ├── Hide Chair
+│   │   ├── Hide Couch
+│   │   ├── Mounted Burbot
+│   │   ├── Mounted Coho Salmon
+│   │   ├── Mounted Goldeye
+│   │   ├── Mounted Lake Whitefish
+│   │   ├── Mounted Rainbow Trout
+│   │   ├── Mounted Red Irish Lord
+│   │   ├── Mounted Rockfish
+│   │   ├── Mounted Smallmouth Bass
+│   │   ├── Round Table
+│   │   ├── Rustic Bench
+│   │   ├── Rustic Chair
+│   │   ├── Rustic Closet
+│   │   ├── Rustic Cupboard
+│   │   ├── Rustic Display Shelf
+│   │   ├── Rustic End Table
+│   │   ├── Rustic Stool
+│   │   ├── Rustic Storage Box
+│   │   ├── Rustic Storage Trunk
+│   │   ├── Rustic Shelf
+│   │   ├── Rustic Table
+│   │   ├── Square Table
+│   │   ├── Tall Rustic Closet
+│   │   ├── Tall Rustic Shelf
+│   │   ├── Wide Display Shelf
+│   │   ├── Wide Dresser
+│   │   ├── Airplane
+│   │   ├── Bus
+│   │   ├── Haul Truck
+│   │   ├── Helicopter
+│   │   ├── Tractor
+│   │   ├── Stored Water
+│   │   ├── Industrial Toilet
+│   │   ├── Toilet
+│   │   ├── Emergency Kit
+│   │   ├── Fuel Cover
+│   │   ├── Grate
+│   │   ├── Lantern
+│   │   ├── Mailbox
+│   │   ├── Phone Box
+│   │   ├── Receiver
+│   │   ├── Visor
+│   │   ├── Weapon Locker
+│   │   ├── Jack-o-Lantern
+│   │   ├── Hand-Powered Milling Tool
+│   │   ├── Lost and Found
+│   │   ├── Metal Pan
+│   │   ├── Metal Pot
+│   │   └── Urn
+│   ├── Collectibles [15]
+│   │   ├── Journal
+│   │   ├── Notes [9]
+│   │   │   ├── Diary Page
+│   │   │   ├── Blackrock Memo
+│   │   │   ├── Note (Survival)
+│   │   │   ├── Page
+│   │   │   ├── Handwritten Note (Survival)
+│   │   │   ├── Journal Page
+│   │   │   ├── Langston Mine Memo
+│   │   │   ├── Mining Newsletter
+│   │   │   └── Note (Sundered Pass)
+│   │   ├── Cairns
+│   │   ├── Polaroids
+│   │   ├── Faithful Cartographer
+│   │   └── Forest Talker Supplies
+│   ├── Cut/Discontinued Content [15]
+│   │   ├── Fukkatsu Maru
+│   │   ├── Forge Blueprints
+│   │   ├── Carter Hydro Dam (Collectible)
+│   │   ├── Jeremiah's Broken Rifle
+│   │   ├── Lock Box Key (Predux)
+│   │   ├── Cash
+│   │   ├── Jeremiah's Repaired Rifle
+│   │   ├── Jeremiah's Papers
+│   │   ├── Two for Two
+│   │   ├── Wolfbait
+│   │   ├── It's Getting Cold Out There
+│   │   ├── Tough as Nails
+│   │   ├── You Prep the Preppers
+│   │   ├── Master Survivor
+│   │   └── One With Nature
+│   ├── Easter Eggs [8]
+│   │   ├── Secret Mountain Path
+│   │   ├── Echo One Radio Tower
+│   │   ├── Misty Falls Picnic Area
+│   │   ├── Dave's Quiet Clearing
+│   │   ├── Coastal House
+│   │   ├── Crossroads House
+│   │   ├── Too Greedily, too Deep
+│   │   └── Something Wicked
+│   ├── Great Bear Island [1]
+│   │   └── Risk of Infection/Transcript
+│   ├── Timeline of The Long Dark [87]
+│   │   ├── The Grey Mother (Predux)/Transcript
+│   │   ├── Blackrock Blues/Transcript
+│   │   ├── Trauma/Transcript
+│   │   ├── The Power Plant/Transcript
+│   │   ├── Bunkhouses
+│   │   ├── The Wounded Trapper/Transcript
+│   │   ├── The Detonators/Transcript
+│   │   ├── Letter (Car)
+│   │   ├── Winter Forecast
+│   │   ├── A page from an old newsletter.
+│   │   ├── Unquenched Extraction
+│   │   ├── Overladen Pond
+│   │   ├── Pump House
+│   │   ├── Grey Mother's Pearls
+│   │   ├── Paradise Lost/Transcript
+│   │   ├── Lily's Map
+│   │   ├── Survival School (Predux)/Transcript
+│   │   ├── A Page From A Journal
+│   │   ├── Boss's Settlement
+│   │   ├── Stone Church
+│   │   ├── Orca Gas Store Notice
+│   │   ├── The Grey Mother/Transcript
+│   │   ├── Cave Hidden Cache Note
+│   │   ├── Memories/Transcript
+│   │   ├── Jailer's Residence
+│   │   ├── Notebook Page (Survival)
+│   │   ├── Notebook Page (Survival 2)
+│   │   ├── Milton Water Tower
+│   │   ├── Milton Credit Union Letter
+│   │   ├── Climber's Journal Page
+│   │   ├── Landslide (Hushed River Valley)
+│   │   ├── Landslide (Bleak Inlet)
+│   │   ├── Landslide
+│   │   ├── Commuter's Lament
+│   │   ├── Unyielding Inundation
+│   │   ├── End of the Road
+│   │   ├── Road Collapse
+│   │   ├── Point of Disagreement
+│   │   ├── Rüdiger's Machine
+│   │   ├── High Peak Plateau
+│   │   ├── Security Chief's Log 6
+│   │   ├── Memo (Survival)
+│   │   ├── Paper
+│   │   ├── Page (2)
+│   │   ├── Security Chief's Log 14
+│   │   ├── Foreman's Site Report Day 38
+│   │   ├── Foreman's Site Report Day 45
+│   │   ├── Security Chief's Log 23
+│   │   ├── Note (Forsaken Airfield)
+│   │   ├── Interview Transcript 17
+│   │   ├── Interview Transcript 12
+│   │   ├── Security Chief's Log 32
+│   │   ├── Faded Photograph
+│   │   ├── Enduring Waterfall
+│   │   ├── Security Chief's Log (illegible)
+│   │   ├── Rüdiger's Diary 2
+│   │   ├── Foreman's Site Report Day (illegible)
+│   │   ├── Security Chief's Log 29
+│   │   ├── Security Chief's Log 33
+│   │   ├── Foreman's Key
+│   │   ├── Old Corral
+│   │   ├── Foreman's Technical Log 4
+│   │   ├── Foreman's Technical Log 2
+│   │   ├── Foreman's Technical Log 1
+│   │   ├── Foreman's Technical Log 3
+│   │   ├── Old Settlement
+│   │   ├── Rüdiger's Watch
+│   │   ├── Faded Paper
+│   │   ├── Grey Mother's Safety Deposit Box
+│   │   ├── Carter Hydro Medical Supplies
+│   │   ├── Radio Parts
+│   │   ├── Transponder Parts
+│   │   ├── Old Bear's Den
+│   │   ├── Community Hall Flyer
+│   │   ├── Map of Pleasant Valley
+│   │   ├── Blackrock Infirmary Medication
+│   │   ├── Logging Camp
+│   │   ├── Newspaper Clipping
+│   │   ├── Local Legends - The Big One
+│   │   ├── Pensive Pond
+│   │   ├── Local Legends - Sasquatch
+│   │   ├── Local Legends - The Lost Cave
+│   │   ├── Local Legends - Ghost Stag
+│   │   ├── Three Strikes Farmstead
+│   │   ├── Blackrock Memo - Suspicious Person
+│   │   ├── Communication Report
+│   │   └── The Technician's Notebook
+│   └── The Long Dark/Achievements [85]
+│       ├── Survive the Quiet Apocalypse
+│       ├── The First of Many
+│       ├── You Made It!
+│       ├── Ready for when the SHTF!
+│       ├── Centurion
+│       ├── The Will to Live
+│       ├── Exploration Game
+│       ├── Waste Not, Want Not
+│       ├── Night Walker
+│       ├── Beneath a Starry Sky
+│       ├── Silent Hunter
+│       ├── Pacifist
+│       ├── Wrapped in Furs
+│       ├── It was THIS Big!
+│       ├── Living Off the Land
+│       ├── Natural Healer
+│       ├── Happy Harvester
+│       ├── Stone-Age Sniper
+│       ├── Skilled Survivor
+│       ├── Face the Impossible
+│       ├── Don't Starve
+│       ├── Resolute Outfitter
+│       ├── Penitent Scholar
+│       ├── Timberwolf Mountain (Achievement)
+│       ├── Desolation Point (Achievement)
+│       ├── Deep Forest
+│       ├── Challenge Mastery
+│       ├── Expert Angler
+│       ├── Broken Body (Achievement)
+│       ├── Tackle Box
+│       ├── Thanks for the Memories
+│       ├── Hot Shot
+│       ├── Down Below
+│       ├── To the Teeth
+│       ├── Tasting Menu
+│       ├── Rüdiger's Dream
+│       ├── Something Warm to Drink
+│       ├── Quick Draw
+│       ├── Exposure
+│       ├── Shutterbug
+│       ├── On the Lookout
+│       ├── Ends of the Earth
+│       ├── Goods and Services
+│       ├── Tough Enough
+│       ├── Your Journey Begins
+│       ├── Paradise Lost (Achievement)
+│       ├── The Long Winter
+│       ├── Losing a Child is Like...
+│       ├── Leaving the Old World Behind
+│       ├── The Old Trapper
+│       ├── Lights in the Sky
+│       ├── Graduation Day
+│       ├── Freight-Train of Hate & Hunger
+│       ├── You'll Be With Her Soon
+│       ├── Too Big to Fail
+│       ├── Sounds Like Some Kind of Indie Band
+│       ├── Cache Mastery
+│       ├── Community Service
+│       ├── Save Our Souls
+│       ├── Hippocratic Oath
+│       ├── He Lives
+│       ├── The Crossroads Elegy
+│       ├── Tall Tales (Achievement)
+│       ├── Every Last One
+│       ├── There Will Be Blood
+│       ├── Welcome to the S**t Show
+│       ├── Just Like New
+│       ├── Something Stinks
+│       ├── Enemy For Life
+│       ├── Leap of Faith
+│       ├── Black Black Heart
+│       ├── Hard Times
+│       ├── No Half-Measures
+│       ├── Quarantine
+│       ├── Search Party
+│       ├── To The Bone
+│       ├── Adrift
+│       ├── Dead Wake
+│       ├── The Hard Sciences
+│       ├── Song of the Earth
+│       ├── Wild At Heart
+│       ├── Finely Tuned
+│       ├── Bending The Rail
+│       ├── The Last Light
+│       └── The New World
+├── BLACKFROST: The Long Dark II
+├── Tales from the Far Territory [345]
+│   ├── Forsaken Airfield [13]
+│   │   ├── Fallow Dugout
+│   │   ├── Junker's Paddock
+│   │   ├── Whealy's Turn
+│   │   ├── Archie's Crawlspace
+│   │   ├── Brittle Cave
+│   │   ├── Cargomaster's Trailer
+│   │   ├── Frost Cave
+│   │   ├── Grip's Cave
+│   │   ├── Spotter's Blind
+│   │   ├── Sudden Washout
+│   │   ├── Surveyor's Memory
+│   │   ├── Stony Passage
+│   │   └── Hunter's Blinds
+│   ├── Far Range Branch Line [7]
+│   │   ├── Foundered Track
+│   │   ├── Freighthopper's Rockfall
+│   │   ├── Oddment Falls
+│   │   ├── Platelayer's Shortcut
+│   │   ├── Remnant Cave
+│   │   ├── Steely Chasm
+│   │   └── Surfeit Trestle
+│   ├── Transfer Pass [3]
+│   │   ├── Immutable Hesitation
+│   │   ├── Broad Aerie
+│   │   └── Conductor's Dropoff
+│   ├── Vaughn's Rifle
+│   ├── Barb's Rifle [2]
+│   │   ├── Train Unloading
+│   │   └── Rockfall
+│   ├── Curator's Rifle [3]
+│   │   ├── High Meadow
+│   │   ├── Wolf's Jaw Overlook
+│   │   └── Runaway Bridge
+│   ├── Woodwright's Bow [2]
+│   │   ├── Offset Falls
+│   │   └── Moose Overlook
+│   ├── Spelunker's Lantern [6]
+│   │   ├── Loot Table
+│   │   ├── Echo Ravine
+│   │   ├── Engine (East)
+│   │   ├── Echo Peak East
+│   │   ├── Cave (Timberwolf Mountain location 1)
+│   │   └── Secluded Shelf
+│   ├── Glimmer Fog
+│   ├── Insomnia [1]
+│   │   └── Insomnia Risk
+│   ├── Mementos [20]
+│   │   ├── Mine Lockbox Key
+│   │   ├── Mine Office Key
+│   │   ├── Mine Gate Key
+│   │   ├── Shattered Cove
+│   │   ├── Forager's Remnant
+│   │   ├── Bricklayer's Retreat
+│   │   ├── Fool's Corner
+│   │   ├── Coastal Highway Terminus
+│   │   ├── Long Bridge
+│   │   ├── Rickety Foot Bridge
+│   │   ├── Broken Bridge (Broken Railroad location)
+│   │   ├── Broken Bridge (Desolation Point location)
+│   │   ├── Muskeg Overlook
+│   │   ├── Shortwave Tower West
+│   │   ├── Marsh Ridge
+│   │   ├── Many Falls Vista
+│   │   ├── Lone Lake Cabin
+│   │   ├── Destroyed Lookout
+│   │   ├── Long Curve
+│   │   └── Deer Clearing
+│   ├── Improvised Crampons
+│   ├── Deer [1]
+│   │   └── Venison (Raw)
+│   ├── Signal Void [1]
+│   │   └── Interview Transcript 14
+│   ├── Badges
+│   ├── Handheld Shortwave Radio
+│   ├── Supply Cache [6]
+│   │   ├── Desperate Elevation
+│   │   ├── Harrowed Residence
+│   │   ├── Turbulent Pasture
+│   │   ├── Perilous Crossing
+│   │   ├── Cascading Gap
+│   │   └── Roamer's Cave
+│   ├── Transmitters
+│   ├── Replacement Fuse
+│   ├── Wires
+│   ├── Canned Corn
+│   ├── Canned Ham
+│   ├── Hockey Jersey
+│   ├── Flight Jacket
+│   ├── Aviator Cap
+│   ├── Technical Balaclava
+│   ├── Security Chief's Rifle Holster
+│   ├── Fire Hardened Arrow
+│   ├── Prepper Cache [6]
+│   │   ├── Firelog
+│   │   ├── Soda (disambiguation)
+│   │   ├── Book
+│   │   ├── Cave (Mountain Town location)
+│   │   ├── Mystery Lake (Western Access)
+│   │   └── Echo Peak West
+│   ├── Beachcombing [3]
+│   │   ├── Newsprint
+│   │   ├── Newsprint Roll
+│   │   └── Stack of Papers
+│   ├── Plane Crashes
+│   ├── Acorns [2]
+│   │   ├── Picnic Area
+│   │   └── Frozen Creek
+│   ├── Oak Tree [1]
+│   │   └── Silent Clearing
+│   ├── Acorn Grounds
+│   ├── Cup of Acorn Coffee
+│   ├── Weak Ice
+│   ├── Ptarmigan [6]
+│   │   ├── Mining Camp
+│   │   ├── Climber's Cave
+│   │   ├── Whistling Perch
+│   │   ├── Derelict Cabins
+│   │   ├── Miner's Footpath
+│   │   └── Indolent Hoppers
+│   ├── Ptarmigan (Raw)
+│   ├── Ptarmigan Down
+│   ├── Improvised Insulation
+│   ├── Hunter's Revolver
+│   ├── Forester's Revolver
+│   ├── Warden's Revolver
+│   ├── Sport Bow
+│   ├── Miner's Flashlight
+│   ├── Improvised Down Bedroll
+│   ├── Gold Nugget
+│   ├── Cooking [1]
+│   │   └── Bear Meat (Cooked)
+│   ├── Cooking Skillet
+│   ├── Recipe Cards
+│   ├── Broth
+│   ├── Carrot
+│   ├── Cooking Oil
+│   ├── Old Mill Flour
+│   ├── Potato
+│   ├── Running River Oats
+│   ├── Salt
+│   ├── Burdened
+│   ├── Unburdened
+│   ├── Nourished
+│   ├── Gorged
+│   ├── Burdock [12]
+│   │   ├── Narrow Bridge
+│   │   ├── Bear's Bend
+│   │   ├── Blocked Bridge
+│   │   ├── Train Loading Area
+│   │   ├── Low Blind
+│   │   ├── Lake Cave
+│   │   ├── Stairsteps Lake
+│   │   ├── Draft Dodger's Cabin
+│   │   ├── Lonely Homestead
+│   │   ├── Ogre's Teardrop
+│   │   ├── Ambler's Lake
+│   │   └── Smoker's Cave
+│   ├── Burdock Root
+│   ├── Prepared Burdock
+│   ├── Burdock Tea
+│   ├── Ice Fishing [2]
+│   │   ├── Long Falls
+│   │   └── Broad Falls
+│   ├── Fishing Tip-Up
+│   ├── Snare
+│   ├── Fishing Bait
+│   ├── Fishing Lure (disambiguation)
+│   ├── Fishing Lure (Acorns)
+│   ├── Fishing Lure (Wire Bundle)
+│   ├── Fishing Lure (Revolver Shell Casing)
+│   ├── Simple Fishing Lure
+│   ├── Burbot (Raw)
+│   ├── Goldeye (Raw)
+│   ├── Red Irish Lord (Raw)
+│   ├── Rockfish (Raw)
+│   ├── Zone of Contamination [7]
+│   │   ├── Welkin's Window
+│   │   ├── Bountiful Overlook
+│   │   ├── Craggy Passage
+│   │   ├── Dubious Overlook
+│   │   ├── Flagman's Gap
+│   │   ├── Forgotten Exploration
+│   │   └── Scaffolder's Hideout
+│   ├── Buried Echoes [1]
+│   │   └── My Testament
+│   ├── Poisoned Wolf
+│   ├── Chemical Hazard
+│   ├── Chemical Poisoning
+│   ├── Hardhat
+│   ├── Miner's Jacket
+│   ├── Miner's Pants
+│   ├── Chemical Boots
+│   ├── Foreman's Tool Belt
+│   ├── Travois
+│   ├── Respirator
+│   ├── Suffocation
+│   ├── Canister
+│   ├── Scurvy
+│   ├── Insulated Flask [1]
+│   │   └── Car Trunk
+│   ├── Warming Up
+│   ├── Mackenzie's Shirt
+│   ├── Mackenzie's Sweater
+│   ├── Astrid's Sweater
+│   ├── Sundered Pass [8]
+│   │   ├── Juniper Runoff
+│   │   ├── Reluctant Shortcut
+│   │   ├── Abandoned Mine
+│   │   ├── Baneful Bridge
+│   │   ├── Bolt Chopper's Haven
+│   │   ├── Prayerful Window
+│   │   ├── Route One Waterfall
+│   │   └── Second Pillar
+│   ├── Last Horizon [8]
+│   │   ├── Foreman's Refuge
+│   │   ├── Foreman's Polaroid 1
+│   │   ├── Foreman's Polaroid 2
+│   │   ├── Rüdiger's Diary 1
+│   │   ├── Foreman's Polaroid 5
+│   │   ├── Foreman's Polaroid 3
+│   │   ├── Rüdiger's Diary 3
+│   │   └── Foreman's Polaroid 4
+│   ├── Cougar [18]
+│   │   ├── Stone Shelf Cave
+│   │   ├── No Road Cave
+│   │   ├── Grand Meadow
+│   │   ├── Washed Out Trailers
+│   │   ├── Bear Creek Campground
+│   │   ├── Quarrelling Falls
+│   │   ├── Trailer (Mountain Town Region)
+│   │   ├── Clearcut
+│   │   ├── Deadfall Area
+│   │   ├── Picnic Spot
+│   │   ├── Contemplation Bridge
+│   │   ├── Forest Cave (Timberwolf Mountain location)
+│   │   ├── Engine (West)
+│   │   ├── Landing Gear
+│   │   ├── Cougar Warning Flyer
+│   │   ├── Cougar Warning Flyer (2)
+│   │   ├── Naturalist Notebook 1
+│   │   └── Naturalist Notebook 2
+│   ├── Severe Lacerations
+│   ├── Struggle
+│   ├── Cougar Claw Knife
+│   ├── Cougar Meat (Raw)
+│   ├── Cougar Meat (Cooked)
+│   ├── Cougar Quarter
+│   ├── Cougar Claw
+│   ├── Fresh Cougar Hide
+│   ├── Cured Cougar Hide
+│   ├── Tactical Jacket
+│   ├── Tactical Gloves
+│   ├── Cougar Hide Wrap
+│   ├── Feats [2]
+│   │   ├── Cabin Fever Risk
+│   │   └── Big Cat Killer
+│   ├── Misery
+│   ├── Interloper [2]
+│   │   ├── Survival Mode/Interloper Tips
+│   │   └── Waterfront Cottages
+│   ├── Diminished Form
+│   ├── Sour Stomach
+│   ├── Frigid Bones
+│   ├── Rheumatic Joints
+│   ├── Haunted Mind
+│   ├── Broken Body
+│   ├── Cheat Death [3]
+│   │   ├── Surveyed Locations
+│   │   ├── Trailer (Blackrock Region)
+│   │   └── Cloudtop Falls
+│   ├── Cheated Death Penalty
+│   ├── Weakened State
+│   ├── Camera
+│   ├── FastFilm-500
+│   ├── FastFilm-500BW
+│   ├── FastFilm-500SPA
+│   ├── Survival Menu [1]
+│   │   └── Almanac
+│   ├── Sutherland's Tale [7]
+│   │   ├── Wyatt's Lost Papers 1
+│   │   ├── Bunker Schematic Fragment 1
+│   │   ├── Wyatt's Lost Papers 2
+│   │   ├── Bunker Schematic Fragment 2
+│   │   ├── Wyatt's Lost Papers 3
+│   │   ├── Bunker Schematic Fragment 3
+│   │   └── Sutherland's Note
+│   ├── Trader [2]
+│   │   ├── Wolfskin Hat Blueprint Card
+│   │   └── Wolfskin Pants Blueprint Card
+│   ├── Survival Knife
+│   ├── Bunker Rifle
+│   ├── Bushcraft Bow
+│   ├── Manufactured Arrow
+│   ├── Broken Manufactured Arrow
+│   ├── Caffeine Pills
+│   ├── Vitamin-C Pills
+│   ├── Heat Pack
+│   ├── T-Shirt (GBI)
+│   ├── T-Shirt (CM)
+│   ├── T-Shirt (Snappy)
+│   ├── Patterned Wool Socks (Moose)
+│   ├── Patterned Wool Socks (Plaid)
+│   ├── Patterned Wool Socks (Dots)
+│   ├── Patterned Wool Mittens (Brown)
+│   ├── Patterned Wool Mittens (Burgundy)
+│   ├── Patterned Wool Mittens (Blue)
+│   ├── Wolfskin Hat
+│   ├── Wolfskin Pants
+│   ├── Cereal
+│   ├── Dried Apples
+│   ├── Canned Pineapple
+│   ├── Pickles
+│   ├── Pemmican Bar
+│   ├── Porter's Soup
+│   ├── Vagabond Soup
+│   ├── Last Resort Soup
+│   ├── Meat Curing Box
+│   ├── Salt Deposit
+│   ├── Cured Meat
+│   ├── Animal Fat
+│   ├── Safehouse Customization [15]
+│   │   ├── Trailers west of the Cannery
+│   │   ├── Train Bridge
+│   │   ├── Abandoned Harris Home
+│   │   ├── Lighthouse Keeper's Cabin
+│   │   ├── Departure's Memory
+│   │   ├── Looted Grotto
+│   │   ├── Whale Bone Shrine [3]
+│   │   │   ├── Wax Cylinder 3
+│   │   │   ├── Wax Cylinder 5
+│   │   │   └── Wax Cylinder 6
+│   │   ├── Huts
+│   │   ├── Repair Depot
+│   │   ├── Railyard (Track Section 2)
+│   │   ├── Cove (Track Section 3)
+│   │   └── Hermit's Cabin
+│   ├── Woodworking Tools
+│   ├── Camp Office [5]
+│   │   ├── Ice Fishing Huts
+│   │   ├── Lake Trail
+│   │   ├── Rail Tunnel
+│   │   ├── River (Northern Access)
+│   │   └── River (Southern Access)
+│   └── Final Approach
+├── The Long Dark/Changelog
+├── Episode 4: Fury, Then Silence [154]
+│   ├── Blackrock Mountain [4]
+│   │   ├── Cliff Cave
+│   │   ├── Creek Bed Cave
+│   │   ├── Lineworker's Hideout
+│   │   └── Wedge Cave
+│   ├── Mathis
+│   ├── Franklin
+│   ├── Jace
+│   ├── Donner [1]
+│   │   └── Trauma Kit
+│   ├── Vachon
+│   ├── Heller
+│   ├── Jane Yang
+│   ├── Atwood
+│   ├── Convicts
+│   ├── Well Fed
+│   ├── Fatigue Reduced
+│   ├── Restore Condition
+│   ├── Improved Rest
+│   ├── Energy Boost
+│   ├── Torn Clothing
+│   ├── Minor Bruising
+│   ├── Major Bruising
+│   ├── Laceration
+│   ├── Blood Loss
+│   ├── Infection
+│   ├── Food Poisoning
+│   ├── Headache
+│   ├── Burns
+│   ├── Dysentery
+│   ├── Broken Ribs
+│   ├── Intestinal Parasites
+│   ├── Hypothermia [1]
+│   │   └── Hypothermia Risk
+│   ├── Frostbite [1]
+│   │   └── Frostbite Risk
+│   ├── Sprained Ankle
+│   ├── Sprained Wrist
+│   ├── Pain
+│   ├── Memories
+│   ├── The Crash [1]
+│   │   └── The Crash/Transcript
+│   ├── The Grey Mother [1]
+│   │   └── Bank Manager's House
+│   ├── Paradise Lost
+│   ├── The Basics of Survival
+│   ├── Extra Supplies
+│   ├── Milton Safety Deposit Box Keys [4]
+│   │   ├── Bank Deposit Box Key 7
+│   │   ├── Bank Deposit Box Key 13
+│   │   ├── Bank Deposit Box Key 20
+│   │   └── Bank Deposit Box Key 15
+│   ├── Milton Supply Caches
+│   ├── Highway Robbery (mission)
+│   ├── One Last Thing
+│   ├── Survival Of The Fittest [1]
+│   │   └── Survival Of The Fittest/Transcript
+│   ├── Echoes Of Astrid [2]
+│   │   ├── Hymnal
+│   │   └── Echoes Of Astrid/Transcript
+│   ├── The Grey Mother (Predux)
+│   ├── Paradise Lost (Predux) [1]
+│   │   └── Paradise Lost (Predux)/Transcript
+│   ├── Light Up The Night
+│   ├── The Wounded Trapper
+│   ├── The Best Defense [2]
+│   │   ├── Locomotive Engine
+│   │   └── The Best Defense/Transcript
+│   ├── Signal to Noise [2]
+│   │   ├── Shortwave Tower East
+│   │   └── Signal to Noise/Transcript
+│   ├── What One Man Can Do [1]
+│   │   └── What One Man Can Do/Transcript
+│   ├── Renewed Hope [1]
+│   │   └── Renewed Hope/Transcript
+│   ├── Forest Talker Supply Caches
+│   ├── Mystery Lake Supply Caches
+│   ├── Aurora Hatch [1]
+│   │   └── Hat Creek
+│   ├── Hank's Hatch [2]
+│   │   ├── Hank's Lock Box Key
+│   │   └── Hank's Prepper Cache Code
+│   ├── Lake Gunshots [3]
+│   │   ├── Logging Camp Trailer Key
+│   │   ├── Blood Soaked Forest Talker Documents
+│   │   └── Forest Talker Note
+│   ├── Survival School [2]
+│   │   ├── Advanced Guns Guns Guns! (Survival School)
+│   │   └── Frontier Shooting Guide (Survival School)
+│   ├── Risk of Infection [3]
+│   │   ├── Carter Hydro Staging Area Gate Key
+│   │   ├── Admin Office Key
+│   │   └── Aid Station Medical Locker Key
+│   ├── You Fix My Rifle? [1]
+│   │   └── You Fix My Rifle?/Transcript
+│   ├── Survival School (Predux) [2]
+│   │   ├── The Frozen Angler (Survival School)
+│   │   └── A Sewing Primer (The Basics of Survival)
+│   ├── Jeremiah's Folly [2]
+│   │   ├── The Old Bear's Ear
+│   │   └── Jeremiah's Folly/Transcript
+│   ├── Renewed Hope (Predux) [1]
+│   │   └── Renewed Hope (Predux)/Transcript
+│   ├── Forge Blueprints (mission)
+│   ├── Jeremiah's Hideout
+│   ├── Trauma
+│   ├── Fallen Star [11]
+│   │   ├── ID - G. Russell
+│   │   ├── ID - D. Belanger
+│   │   ├── ID - F. Leblanc
+│   │   ├── ID - K. Morrison
+│   │   ├── ID - R. Tan
+│   │   ├── ID - T. Chan
+│   │   ├── ID - A. Lewis
+│   │   ├── ID - S. Gagne
+│   │   ├── ID - V. Singh
+│   │   ├── ID - O. Gould
+│   │   └── Fallen Star/Transcript
+│   ├── Coming Storm [2]
+│   │   ├── Kerosene
+│   │   └── Coming Storm/Transcript
+│   ├── Aftermath [1]
+│   │   └── Aftermath/Transcript
+│   ├── Blackrock (mission) [2]
+│   │   ├── Forest Cave (Pleasant Valley location)
+│   │   └── Hilltop Cave
+│   ├── Forest Talkers (side mission)
+│   ├── Tall Tales
+│   ├── Molly's Gift
+│   ├── Joplin's Bunker Raid [2]
+│   │   ├── Forest Talker Bunker Memo
+│   │   └── Upper Falls
+│   ├── Church Artifact (mission) [1]
+│   │   └── Thankyou Letter
+│   ├── Prologue [1]
+│   │   └── Prologue/Transcript
+│   ├── Blackrock Blues
+│   ├── The Power Plant
+│   ├── The Detonators
+│   ├── Donner (mission) [1]
+│   │   └── Donner (mission)/Transcript
+│   ├── Blackrock Lockers
+│   ├── Blackrock Rumours
+│   ├── Convict Caches
+│   ├── Dark Star
+│   ├── Lost Power Workers
+│   ├── A Riddle Among the Shadows
+│   ├── Perseverance
+│   ├── To Those Who Are Missing
+│   ├── A Cry For Help
+│   ├── The Cold, Broken Road
+│   ├── High Energy
+│   ├── To SAR And Back
+│   └── Conflagration
+├── Region [177]
+│   ├── Cauldron Island
+│   ├── The Collapse
+│   ├── Mountain Town [2]
+│   │   ├── Rocky Refuge
+│   │   └── The Arch (Mountain Town location)
+│   ├── Mystery Lake (disambiguation)
+│   ├── Forlorn Muskeg [2]
+│   │   ├── Abandoned Camp
+│   │   └── Waterfall (Forlorn Muskeg)
+│   ├── Broken Railroad
+│   ├── Pleasant Valley [3]
+│   │   ├── Cascading Falls
+│   │   ├── Burned Ridge Cave
+│   │   └── Lower Falls
+│   ├── Cinder Hills Coal Mine [1]
+│   │   └── The Tooth
+│   ├── Coastal Highway
+│   ├── Blackrock
+│   ├── Keeper's Pass North [1]
+│   │   └── Builder's Bridge
+│   ├── Mystery Lake (region)
+│   ├── Desolation Point [3]
+│   │   ├── Blocked Highway
+│   │   ├── Waterfall
+│   │   └── Broken Bridge (disambiguation)
+│   ├── Timberwolf Mountain [4]
+│   │   ├── Pillar's Footrest
+│   │   ├── Cave (Timberwolf Mountain location 2)
+│   │   ├── Wing
+│   │   └── Wing (Summit)
+│   ├── Hushed River Valley [5]
+│   │   ├── The Long Dark/Changelog/Archive 1
+│   │   ├── Twin Sisters Falls
+│   │   ├── Banner Falls
+│   │   ├── Watchful Falls
+│   │   └── Ravine Basin
+│   ├── Bleak Inlet [7]
+│   │   ├── Coast Mountain Road
+│   │   ├── Lower Raven Falls
+│   │   ├── Raven Crossing
+│   │   ├── Ravine's End Waterfall
+│   │   ├── Summit at Ravine's End
+│   │   ├── Radio Control Hut
+│   │   └── Island Cave
+│   ├── Ash Canyon [3]
+│   │   ├── Cave (Ash Canyon location)
+│   │   ├── Fire Overlook
+│   │   └── Narrow Falls Cave
+│   ├── Perseverance Mills [4]
+│   │   ├── Medical Clinic
+│   │   ├── Constable's Office
+│   │   ├── Terry's Radio Shack
+│   │   └── Co-op
+│   ├── Perseverance Wilds [1]
+│   │   └── Doubter's Retreat
+│   ├── Desperation Bay
+│   ├── Blackrock Foothills [2]
+│   │   ├── Blackrock Foothills Map
+│   │   └── Crank Light
+│   ├── Suzuki Environs [1]
+│   │   └── Shopping List
+│   ├── Suzuki Geothermal Region [3]
+│   │   ├── Shotgun [1]
+│   │   │   └── Shotgun Shell Casing
+│   │   └── Shotgun Ammunition
+│   ├── Railway [1]
+│   │   └── Piece of Paper
+│   ├── Fulmar Autopilot Boat [2]
+│   │   ├── Play Me
+│   │   └── Wax Cylinder 1
+│   ├── Port Remnant [12]
+│   │   ├── Wax Cylinder 2
+│   │   ├── Map (Church)
+│   │   ├── Obstructed Transit [1]
+│   │   │   └── Wax Cylinder 16
+│   │   ├── Broken Shoreline [1]
+│   │   │   └── Wax Cylinder 11
+│   │   ├── Desecrated Church
+│   │   ├── Forgotten Trestle
+│   │   ├── Fallow Field
+│   │   ├── Last Quarrel
+│   │   ├── Sheltered Access
+│   │   └── Lighthouse (Port Remnant)
+│   ├── Anna Island -- Track Section 1 [2]
+│   │   ├── Railyard (Track Section 1)
+│   │   └── Bridge
+│   ├── Anna Island -- Track Section 2 [2]
+│   │   ├── Tunnel
+│   │   └── Criss Cross
+│   ├── Anna Island -- Track Section 3 [2]
+│   │   ├── Railyard (Track Section 3)
+│   │   └── Pond (Track Section 3)
+│   ├── Anna Island -- Track Section 4 [3]
+│   │   ├── Railyard (Track Section 4)
+│   │   ├── Pond (Track Section 4)
+│   │   └── Canyon
+│   ├── Anna Island -- Track Section 5 [4]
+│   │   ├── Map (Train)
+│   │   ├── Path (Track Section 5)
+│   │   ├── Cave (Track Section 5)
+│   │   └── Railyard (Track Section 5)
+│   ├── Anna Island -- Track Section 6 [2]
+│   │   ├── Alice McLeod's Journal 01
+│   │   └── Train Shelter
+│   ├── Mystery Lake (location)
+│   ├── Coastal Townsite
+│   ├── Fishing Camp
+│   ├── Wolf
+│   ├── Pleasant Valley Farmstead
+│   ├── Pleasant Valley Outbuildings
+│   ├── Barn (Molly's)
+│   ├── Thomson's Crossing
+│   ├── Signal Hill
+│   ├── Crash Site (Pleasant Valley)
+│   ├── Lonely Lighthouse
+│   ├── The Riken
+│   ├── Hibernia Processing
+│   ├── Cave (Desolation Point location)
+│   ├── Forge
+│   ├── Scrap Metal
+│   ├── Coal
+│   ├── No. 3 Coal Mine [2]
+│   │   ├── The Arch (Old Island Connector location)
+│   │   └── Basement (Crumbling Highway)
+│   ├── Abandoned Mine No. 5
+│   ├── Summit
+│   ├── Tail Section
+│   ├── Distress Pistol
+│   ├── Bear
+│   ├── Mountaineer's Hut
+│   ├── Rope Climbing
+│   ├── Trans-Island Railway Line
+│   ├── Old Spence Family Homestead
+│   ├── Maintenance Yard
+│   ├── Hunting Lodge
+│   ├── Milton
+│   ├── Wood Lot
+│   ├── Paradise Meadows Farm
+│   ├── Snow Shelter
+│   ├── Frozen Corpse
+│   ├── Hidden Cache
+│   ├── Timberwolf
+│   ├── Cannery Pier [1]
+│   │   └── Cannery Memo
+│   ├── Hunting Rifle
+│   ├── Revolver
+│   ├── Fallen Lighthouse
+│   ├── Cabin
+│   ├── Moose
+│   ├── Frozen Delta
+│   ├── Gold Mine
+│   ├── Technical Backpack
+│   ├── Blackrock Prison
+│   ├── Ballistic Vest
+│   ├── Feedwater Cave
+│   ├── Distempered Flatcars
+│   ├── Vacant Depot
+│   ├── Loitering Marsh
+│   ├── Field 31
+│   ├── Main Hangar
+│   ├── Shoulder Lake
+│   ├── Drift Island
+│   ├── Island Cottage
+│   ├── Mindful Cabin
+│   ├── Langston Mine
+│   ├── Charcoal
+│   ├── The Ravine [1]
+│   │   └── Cave (disambiguation)
+│   ├── Winding River
+│   ├── Crumbling Highway
+│   ├── Keeper's Pass South [1]
+│   │   └── The Toe
+│   ├── Carter Hydro Dam
+│   ├── Cave (Transition Zone)
+│   ├── Katie's Secluded Corner
+│   ├── Suzuki Radio Telescope
+│   └── Great Bear Highway
+├── Locations [2]
+│   ├── Misty Falls Cave
+│   └── Last Resort Cannery
+├── Afflictions [36]
+│   ├── Armoured
+│   ├── Stamina
+│   ├── Heat Pack (Affliction)
+│   ├── Sleep
+│   ├── Sure Footing
+│   ├── Pumpkin Pie
+│   ├── 4 Days of Night Event
+│   ├── Water (Unsafe)
+│   ├── Campfire
+│   ├── Infection Risk
+│   ├── Encumbrance
+│   ├── Rock Climb
+│   ├── Survival Bow
+│   ├── Stone
+│   ├── Last Prospect
+│   ├── Cabin Fever
+│   ├── Skills
+│   ├── Bear Meat (Raw)
+│   ├── Wolf Meat (Raw)
+│   ├── Escape the Darkwalker [2]
+│   │   ├── On the Nature of Darkwalkers
+│   │   └── Diary Page (Darkwalker)
+│   ├── Anxiety
+│   ├── Fear
+│   ├── Toxic Fog
+│   ├── Risk of Intestinal Parasites
+│   ├── Feels Like
+│   ├── Emergency Stim
+│   ├── Crash Survivor
+│   ├── Concussion
+│   ├── Dehydration Risk
+│   ├── Water (Potable)
+│   ├── Dehydrated
+│   ├── Hyperglycemic Risk
+│   ├── Insulin
+│   └── Plane Crash Injuries
+├── Characters [147]
+│   ├── Jackrabbit Hangar
+│   ├── Astrid's Hardcase
+│   ├── Grey Mother
+│   ├── Milton House (Grey Mother's)
+│   ├── Crashed Prison Transport Bus
+│   ├── Old Schoolhouse
+│   ├── Methuselah
+│   ├── Hobbs
+│   ├── Jeremiah
+│   ├── Trapper's Homestead
+│   ├── Old Bear
+│   ├── Molly
+│   ├── Father Thomas [1]
+│   │   └── Rosary
+│   ├── Community Hall
+│   ├── Martin Barker
+│   ├── Paradise Meadows Farm Key
+│   ├── Lilith Barker [1]
+│   │   └── Lily's Trunk Key
+│   ├── St. Christopher's Church
+│   ├── Deerskin Pants
+│   ├── Lookout (Mystery Lake location)
+│   ├── Molly's Husband
+│   ├── Work Boots
+│   ├── Jeans
+│   ├── Thin Wool Sweater
+│   ├── Suitcase
+│   ├── Suitcase belonging to Dimitri S.
+│   ├── Cooper's Blind
+│   ├── Buffer Memories
+│   ├── Dr. Rüdiger
+│   ├── The Security Chief
+│   ├── The Security Chief's Remains
+│   ├── Security Chief's Log 31
+│   ├── Security Chief's ID Badge
+│   ├── The Foreman
+│   ├── Project Medical Officer
+│   ├── Milton Credit Union
+│   ├── Bank Manager's House Key
+│   ├── Bank Vault Code
+│   ├── Betrayal
+│   ├── Neighbour's Note
+│   ├── Lost in the Storm
+│   ├── Spruce Falls Bridge
+│   ├── Milton Post Office Note
+│   ├── Park Warning Notice
+│   ├── Pastor's Note
+│   ├── Prison Transport Manifest
+│   ├── Tearful Letter
+│   ├── Medicine in my backyard
+│   ├── Highway Robbery
+│   ├── Milton Hidden Cache Note
+│   ├── Orca Gas Station
+│   ├── Public Notice
+│   ├── Aurora Observations
+│   ├── Breyerhouse Crew Winter Warning
+│   ├── Mystery Lake & Area
+│   ├── Carter Hydro Dam -- Safety & Shutdown Notice
+│   ├── Convict Journal Entry
+│   ├── Elevator Maintenance Note
+│   ├── Forest Talker Dam Note
+│   ├── Trash Can Letter
+│   ├── Forest Talker Flyer
+│   ├── Park Notice
+│   ├── Off Season Fun
+│   ├── Torn Paper
+│   ├── Blood Soaked Note
+│   ├── Charcoal Note
+│   ├── Crumpled Note
+│   ├── Simple Note
+│   ├── Handwritten Note
+│   ├── Forest Talker Map Note
+│   ├── Crumpled Note (2)
+│   ├── Forest Talker Documents
+│   ├── Aurora Hatch Door Entry Code
+│   ├── Letter for Hank's Niece
+│   ├── Hank's Journal - Part One
+│   ├── Hank's Journal - Part Two
+│   ├── Unnamed Pond
+│   ├── Passenger Manifest
+│   ├── Dead Prison Guard
+│   ├── Heartbreak Bridge
+│   ├── Improvised Knife
+│   ├── Blackrock Penitentiary Memo
+│   ├── Blood Stained-Convict Note
+│   ├── Convict Note
+│   ├── Convict Cache Directions
+│   ├── Forest Talker Collectible, Part One
+│   ├── Forest Talker Collectible, Part Two
+│   ├── Forest Talker Collectible, Part Three
+│   ├── Pleasant Valley Collectible, Part Two
+│   ├── Pleasant Valley Collectible, Part One
+│   ├── Pleasant Valley Collectible, Part Three
+│   ├── Forest Talker Memo
+│   ├── Joplin's Journal, Part One
+│   ├── Joplin's Journal, Part Two
+│   ├── Church Flyer
+│   ├── Pleasant Valley Church
+│   ├── Diocese Report
+│   ├── Undelivered Letter
+│   ├── Church Artifact
+│   ├── Archival Report
+│   ├── Building Blackrock
+│   ├── Conspiracy Theories [1]
+│   │   └── Blackrock Prisoner Release Record
+│   ├── Prepper Hatch Location
+│   ├── Forest Talker Letter
+│   ├── Letter
+│   ├── Mysterious Note
+│   ├── Memo [1]
+│   │   └── Blackrock Gate Key
+│   ├── Blackrock Memo - Late Employee
+│   ├── Mine Safety Notice
+│   ├── Note (EP4)
+│   ├── Notebook Page
+│   ├── Lock Box Key
+│   ├── Office Memo
+│   ├── Work Order
+│   ├── Blackrock Memo - Highly Aggressive Wolf
+│   ├── Old Substation Work Memo
+│   ├── Lost Worker's Note
+│   ├── Power Company ID
+│   ├── Newspaper Clipping 2
+│   ├── Great Bear Wolf Behaviour Study
+│   ├── Graveyard
+│   ├── Field 31 Operation Memo
+│   ├── Interview Transcript 4
+│   ├── Foreman's Site Report Day 64
+│   ├── Emergency Kit Note
+│   ├── Town of Milton
+│   ├── History of The Collapse
+│   ├── Pleasant Valley History
+│   ├── Utilities Bill
+│   ├── Breyerhouse
+│   ├── Forest Talkers
+│   ├── Power Plant
+│   ├── Milton Post Office
+│   ├── Chasm Cave
+│   ├── Rabbit Grove
+│   ├── Quonset Garage
+│   ├── Shortwave Tower
+│   ├── Rural Store
+│   ├── Skeeter's Ridge
+│   ├── Terry
+│   ├── Cooper [1]
+│   │   └── Brass Key
+│   └── Patient 7
+├── Wildlife [38]
+│   ├── Rabbit
+│   ├── Trapping
+│   ├── Hunting
+│   ├── Fire
+│   ├── Flashlight
+│   ├── Flare
+│   ├── Marine Flare
+│   ├── Crow
+│   ├── Crow Feather
+│   ├── Coho Salmon (Raw)
+│   ├── Rainbow Trout (Raw)
+│   ├── Smallmouth Bass (Raw)
+│   ├── Lake Whitefish (Raw)
+│   ├── Big Bass (Raw)
+│   ├── Ghost Stag
+│   ├── Load Screen
+│   ├── Mule Bridge
+│   ├── Birch Bark
+│   ├── Green Birch Sapling
+│   ├── Arrow Shaft
+│   ├── Green Maple Sapling
+│   ├── Stick
+│   ├── Cedar Firewood
+│   ├── Fir Firewood
+│   ├── Rose Hip
+│   ├── Cat Tail [1]
+│   │   └── Hunter's Blind (disambiguation)
+│   ├── Cat Tail Head
+│   ├── Cat Tail Stalk
+│   ├── Scrub Brush
+│   ├── Reishi Mushroom
+│   ├── Reishi Tea
+│   ├── Old Man's Beard Lichen
+│   ├── Ice Cave
+│   ├── Workshop
+│   ├── Scent
+│   ├── Carcass Harvesting
+│   └── Foraging
+├── Food And Drink [82]
+│   ├── Decay
+│   ├── Radial Menu
+│   ├── Acorns (Cooked)
+│   ├── Acorns (Cooked - Large Portion)
+│   ├── Airline Food - Chicken
+│   ├── Airline Food - Vegetarian
+│   ├── Beef Jerky
+│   ├── Burbot (Cooked)
+│   ├── Chocolate Bar
+│   ├── Coho Salmon (Cooked)
+│   ├── Condensed Milk
+│   ├── Dog Food
+│   ├── Energy Bar
+│   ├── Granola Bar
+│   ├── Goldeye (Cooked)
+│   ├── Ketchup Chips
+│   ├── Lake Whitefish (Cooked)
+│   ├── Maple Syrup
+│   ├── Military-Grade MRE
+│   ├── Moose Meat (Cooked)
+│   ├── Moose Meat (Raw)
+│   ├── Peanut Butter
+│   ├── Pinnacle Peaches
+│   ├── Pork and Beans
+│   ├── Rabbit (Cooked)
+│   ├── Rabbit (Raw)
+│   ├── Rainbow Trout (Cooked)
+│   ├── Red Irish Lord (Cooked)
+│   ├── Rockfish (Cooked)
+│   ├── Salty Crackers
+│   ├── Smallmouth Bass (Cooked)
+│   ├── Tin of Sardines
+│   ├── Tomato Soup
+│   ├── Venison (Cooked)
+│   ├── Wolf Meat (Cooked)
+│   ├── Cup of Coffee
+│   ├── Cup of Herbal Tea
+│   ├── Orange Soda
+│   ├── Stacy's Grape Soda
+│   ├── Summit Soda
+│   ├── Tin of Coffee
+│   ├── Herbal Tea
+│   ├── Bear Quarter
+│   ├── Deer Quarter
+│   ├── Moose Quarter
+│   ├── Rabbit Carcass
+│   ├── Wolf Quarter
+│   ├── Birch Bark Tea
+│   ├── Go! Energy Drink
+│   ├── Rose Hip Tea
+│   ├── Cured Fish
+│   ├── Cooked Potato
+│   ├── Ptarmigan (Cooked)
+│   ├── Cooking Pot
+│   ├── Acorn Bannock
+│   ├── Acorn Pancakes
+│   ├── Bannock
+│   ├── Breyerhouse Pie
+│   ├── Camber Flight Porridge
+│   ├── Coastal Fishcakes
+│   ├── Dockworker's Pie
+│   ├── Lily's Pancakes
+│   ├── Pancakes
+│   ├── Peach Pie
+│   ├── Porridge
+│   ├── Ptarmigan Pie
+│   ├── Ptarmigan Stew
+│   ├── Prepper's Pie
+│   ├── Rabbit Pie
+│   ├── Rabbit Stew
+│   ├── Ranger Stew
+│   ├── Rose Hip Pie
+│   ├── Stalker's Pie
+│   ├── Thomson Family Stew
+│   ├── Trout Stew
+│   ├── Venison Pie
+│   ├── Venison Stew
+│   ├── Salt (Bag)
+│   ├── Ptarmigan Carcass
+│   ├── Big Bass (Cooked)
+│   ├── Home-made Soup
+│   └── Chocolate Bar (4 Days of Night)
+├── Clothing [81]
+│   ├── What I Know
+│   ├── Cargo Container
+│   ├── Hacksaw
+│   ├── Balaclava
+│   ├── Wool Toque
+│   ├── Bearskin Coat [1]
+│   │   └── The Long Dark/Changelog/Archive 2
+│   ├── Cowichan Sweater
+│   ├── Wool Longjohns
+│   ├── Gauntlets
+│   ├── Rabbitskin Mitts
+│   ├── Climbing Socks
+│   ├── Insulated Boots
+│   ├── Ski Boots
+│   ├── Expedition Parka
+│   ├── Snow Pants
+│   ├── Vehicle
+│   ├── Environmental Hazard
+│   ├── Crampons
+│   ├── Wool Ear Wrap
+│   ├── Moose-Hide Cloak
+│   ├── Combat Boots
+│   ├── Wool Socks
+│   ├── Deerskin Boots
+│   ├── Harvesting
+│   ├── Astrid's Toque
+│   ├── Baseball Cap
+│   ├── Cotton Scarf
+│   ├── Cotton Toque
+│   ├── Fleece Cowl
+│   ├── Improvised Head Wrap
+│   ├── Long Wool Scarf
+│   ├── Mackenzie's Toque
+│   ├── Rabbitskin Hat
+│   ├── Wool Scarf
+│   ├── Astrid's Jacket
+│   ├── Down Vest
+│   ├── Light Shell
+│   ├── Mackenzie's Parka
+│   ├── Mackinaw Jacket
+│   ├── Mariner's Pea Coat
+│   ├── Military Coat
+│   ├── Old Fashioned Parka
+│   ├── Simple Parka
+│   ├── Ski Jacket
+│   ├── Sport Vest
+│   ├── Urban Parka
+│   ├── Windbreaker
+│   ├── Wolfskin Coat
+│   ├── Dress Shirt
+│   ├── Festive Sweater
+│   ├── Fisherman's Sweater
+│   ├── Hoodie
+│   ├── Plaid Shirt
+│   ├── Sweatshirt
+│   ├── Thick Wool Sweater
+│   ├── T-Shirt
+│   ├── Wool Shirt
+│   ├── Astrid's Gloves
+│   ├── Driving Gloves
+│   ├── Fleece Mittens
+│   ├── Improvised Hand Wraps
+│   ├── Ski Gloves
+│   ├── Wool Mittens
+│   ├── Work Gloves
+│   ├── Astrid's Jeans
+│   ├── Cargo Pants
+│   ├── Combat Pants
+│   ├── Mackenzie's Pants
+│   ├── Work Pants
+│   ├── Thermal Underwear
+│   ├── Sports Socks
+│   ├── Astrid's Boots
+│   ├── Leather Shoes
+│   ├── Mackenzie's Boots
+│   ├── Mountaineering Boots
+│   ├── Mukluks
+│   ├── Running Shoes
+│   ├── Trail Boots
+│   ├── Moose-Hide Satchel
+│   └── Jeremiah's Bearskin Coat
+├── First Aid [12]
+│   ├── Antiseptic
+│   ├── Old Man's Beard Wound Dressing
+│   ├── Scurvy Risk
+│   ├── Water Purification Tablets
+│   ├── Prepared Birch Bark
+│   ├── Prepared Reishi Mushrooms
+│   ├── Prepared Rose Hips
+│   ├── Antibiotics
+│   ├── Bandage
+│   ├── Military Stim [1]
+│   │   └── Supply Room Key
+│   └── Painkillers
+├── Tools [88]
+│   ├── Recycled Can
+│   ├── Can Opener
+│   ├── Storm Lantern
+│   ├── Lantern Fuel
+│   ├── Jerry Can
+│   ├── Torch
+│   ├── Cardboard Matches
+│   ├── Wood Matches
+│   ├── Accelerant
+│   ├── Can of Gunpowder
+│   ├── Firestriker
+│   ├── Magnifying Lens
+│   ├── Daisy Chaining
+│   ├── Fishing Tackle
+│   ├── Hook
+│   ├── Line
+│   ├── Cured Gut
+│   ├── Hatchet
+│   ├── Improvised Hatchet
+│   ├── Hunting Knife
+│   ├── Heavy Hammer
+│   ├── Prybar
+│   ├── Flare Shell
+│   ├── Rifle Ammunition
+│   ├── Ammunition Work Bench
+│   ├── Revolver Ammunition
+│   ├── Bushcraft Bow Blueprint Card
+│   ├── Simple Arrow
+│   ├── Reclaimed Wood
+│   ├── Rock Cache
+│   ├── Noisemaker
+│   ├── Sewing Kit
+│   ├── Mending
+│   ├── Firearm Cleaning Kit
+│   ├── Cleaning
+│   ├── Whetstone
+│   ├── Sharpening
+│   ├── Simple Tools
+│   ├── Repair
+│   ├── Quality Tools
+│   ├── Bedroll
+│   ├── Bear Skin Bedroll
+│   ├── Prepper's Abandoned Cache
+│   ├── Car Battery
+│   ├── Scrap Lead
+│   ├── Bullet
+│   ├── Stay on Target
+│   ├── Archery
+│   ├── Field Dressing Your Kill, Vol. I
+│   ├── Wilderness Kitchen
+│   ├── Survive the Outdoors!
+│   ├── Fire Starting
+│   ├── The Frozen Angler
+│   ├── A Sewing Primer
+│   ├── Frontier Shooting Guide
+│   ├── Rifle Firearm
+│   ├── Advanced Guns Guns Guns!
+│   ├── Small Arms Handbook
+│   ├── Revolver Firearm
+│   ├── Practical Gunsmithing
+│   ├── Gunsmithing
+│   ├── Broken Arrow
+│   ├── Broken Fire Hardened Arrow
+│   ├── Elevator Crank
+│   ├── Mountaineering Rope
+│   ├── Spray Paint
+│   ├── Spray Paint - Glyph
+│   ├── Document Stash 1
+│   ├── Document Stash 2
+│   ├── Document Stash 3
+│   ├── Document Stash 4
+│   ├── A Skeleton And Note
+│   ├── Wyatt's Skeleton
+│   ├── Broken Hatch Wheel
+│   ├── Astrid's Backpack
+│   ├── Broken Bear Spear
+│   ├── Spear Head
+│   ├── Bear Spear
+│   ├── Bolt Cutters
+│   ├── Burned Out Fuse
+│   ├── Distress Pistol Kit
+│   ├── Emergency Food
+│   ├── First Aid Kit (tool)
+│   ├── Scrap Metal Shard
+│   ├── Valve Socket Handle
+│   ├── Jeremiah's Knife
+│   ├── Brand
+│   └── Hunting Lodge Rifle
+└── Materials [24]
+    ├── Crafting
+    ├── Fresh Gut
+    ├── Fresh Black Bear Hide
+    ├── Fresh Deer Hide
+    ├── Fresh Moose Hide
+    ├── Fresh Rabbit Pelt
+    ├── Fresh Wolf Pelt
+    ├── Cured Black Bear Hide
+    ├── Cured Deer Hide
+    ├── Cured Moose Hide
+    ├── Cured Rabbit Pelt
+    ├── Cured Wolf Pelt
+    ├── Prepared Acorns
+    ├── Prepared Acorns (Large Portion)
+    ├── Cured Birch Sapling
+    ├── Cured Maple Sapling
+    ├── Dusting Sulfur
+    ├── Revolver Shell Casing
+    ├── Rifle Shell Casing
+    ├── Stump Remover
+    ├── Cloth
+    ├── Cured Leather
+    ├── Workbench Vice
+    └── Fresh Leather
+
+Not reachable from The Long Dark Wiki (58):
+- A Handwritten Letter
+- A Handwritten Note
+- An Old Logbook
+- Blackrock Locker Key 2
+- Blackrock Locker Key 3
+- Blackrock Locker Key 8
+- Brass Key (2)
+- Clipboard With Medical Documents
+- Coastal Cave
+- Crane Key
+- Crouch
+- Dam Control Room Code
+- Diary
+- Display Shelf
+- Dr Larsen's Clipboard
+- Dusty Paper
+- Faded Notebook Paper
+- Faded Paper (2)
+- Garage Key
+- Handwritten Note (2)
+- Handwritten Note (3)
+- Handwritten Prescription
+- ID Card
+- ID Naomi Moore
+- Illegible Note
+- Key To Lake Cabin 1
+- Key To Lake Cabin 2
+- Key To Lake Cabin 3
+- Locker Key
+- Lookout (disambiguation)
+- Medical Log
+- Medicinal Plants of Great Bear (Note)
+- Note
+- Note From Dr Larsen
+- Notebook Paper
+- Paper Fragment
+- Piece Of Paper
+- Pinned Note
+- Realism
+- Roads
+- Rusty Key
+- Sea Charts
+- Soggy Note
+- Suffocation Risk
+- The Long Dark/Gallery
+- Torn Page
+- Transcript (disambiguation)
+- Water Stained Paper
+- Wax Cylinder 10
+- Wax Cylinder 13
+- Wax Cylinder 14
+- Wax Cylinder 15
+- Wax Cylinder 4
+- Wax Cylinder 8
+- Wax Cylinder 9
+- Wax Cylinders
+- Wet Paper
+- Worn Logbook

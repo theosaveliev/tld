@@ -6,7 +6,7 @@ import click
 if TYPE_CHECKING:
     from click import ParamType
 
-__all__ = ["IN_PATH"]
+__all__ = ["IN_PATH", "OUT_PATH"]
 
 IN_PATH: ParamType[Path] = click.Path(
     exists=True,
@@ -15,4 +15,8 @@ IN_PATH: ParamType[Path] = click.Path(
     readable=True,
     allow_dash=True,
     path_type=Path,
+)
+
+OUT_PATH: ParamType[Path] = click.Path(
+    file_okay=True, dir_okay=False, writable=True, path_type=Path
 )

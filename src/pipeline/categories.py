@@ -39,10 +39,12 @@ class CategoryReport(TypedDict):
 
 
 def category_links(text: str, wiki: Wiki) -> list[tuple[str, str | None]]:
-    """Return direct category links, preserving optional category sort keys.
+    """Return direct, static category links and their optional sort keys.
 
     Links inside template calls or template-argument defaults are excluded:
     their presence in the source does not prove that the page emits them.
+    Dynamic category titles are also excluded because their final target
+    depends on template-parameter or parser-function expansion.
     """
     code = mwp.parse(text)
     result: list[tuple[str, str | None]] = []
@@ -58,6 +60,10 @@ def category_links(text: str, wiki: Wiki) -> list[tuple[str, str | None]]:
 
         # A leading colon makes this an ordinary link, not categorisation.
         if raw.startswith(":"):
+            continue
+
+        # Do not count a title whose target requires wikitext expansion.
+        if "{{" in raw or "}}" in raw:
             continue
 
         normalized = wiki.normalize(raw)

@@ -136,6 +136,7 @@ class ArticleInfo(TypedDict):
 
 class TemplateReportSummary(TypedDict):
     article_pages_scanned: int
+    explicitly_categorized_articles: int
     template_pages_found_in_dump: int
     articles_with_template_invocations: int
     unique_templates_encountered: int
@@ -424,6 +425,7 @@ def build_template_category_report(wiki: Wiki) -> TemplateCategoryReport:
     uncategorized: list[str] = []
     article_count = 0
     articles_with_templates: set[str] = set()
+    articles_with_explicit_categories: set[str] = set()
     articles_with_template_categories: set[str] = set()
     articles_with_missing_templates: set[str] = set()
 
@@ -434,6 +436,8 @@ def build_template_category_report(wiki: Wiki) -> TemplateCategoryReport:
         article_count += 1
         explicit_links, _ = _template_category_links(page.text, wiki)
         explicit_categories = {category for category, _ in explicit_links}
+        if explicit_categories:
+            articles_with_explicit_categories.add(page.title)
 
         referenced, used, template_sources = _scan_article_templates(
             page.title, page.text, wiki, template_pages, state
@@ -495,6 +499,7 @@ def build_template_category_report(wiki: Wiki) -> TemplateCategoryReport:
 
     summary: TemplateReportSummary = {
         "article_pages_scanned": article_count,
+        "explicitly_categorized_articles": len(articles_with_explicit_categories),
         "template_pages_found_in_dump": len(template_pages),
         "articles_with_template_invocations": len(articles_with_templates),
         "unique_templates_encountered": len(templates),

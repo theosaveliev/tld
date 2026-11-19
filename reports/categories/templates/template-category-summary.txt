@@ -1,6 +1,7 @@
 Template category analysis
 
 article_pages_scanned: 1819
+explicitly_categorized_articles: 547
 template_pages_found_in_dump: 308
 articles_with_template_invocations: 1810
 unique_templates_encountered: 155

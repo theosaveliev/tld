@@ -4,8 +4,9 @@ from pipeline.categories import category_links
 from pipeline.templates import (
     _template_category_links,  # pyright: ignore[reportPrivateUsage]
     _template_titles,  # pyright: ignore[reportPrivateUsage]
+    build_template_category_report,
 )
-from pipeline.wiki import Wiki
+from pipeline.wiki import Page, Wiki
 from pipeline.wikitext import is_nested_in_template_or_argument
 
 
@@ -106,3 +107,43 @@ def test_template_category_scanner_tracks_only_dynamic_category_links() -> None:
 
     assert links == set()
     assert dynamic_titles == {"Category:{{{category}}}"}
+
+
+def test_direct_category_extractor_ignores_dynamic_category_titles() -> None:
+    text = "[[Category:{{{category}}}]] [[Category:Static]]"
+
+    assert category_links(text, make_wiki()) == [("Category:Static", None)]
+
+
+def test_both_extractors_agree_on_static_category_links() -> None:
+    text = "[[Related article]] [[Category:Direct]] [[Category:Another|Sort key]]"
+    wiki = make_wiki()
+
+    direct_links = set(category_links(text, wiki))
+    template_links, dynamic_titles = _template_category_links(text, wiki)
+
+    assert direct_links == template_links
+    assert dynamic_titles == set()
+
+
+def test_template_summary_counts_explicitly_categorized_articles() -> None:
+    wiki = make_wiki()
+    wiki.pages = {
+        "Static article": Page(
+            title="Static article", ns=0, text="[[Category:Direct]]"
+        ),
+        "Dynamic article": Page(
+            title="Dynamic article", ns=0, text="[[Category:{{{category}}}]]"
+        ),
+        "Uncategorized article": Page(
+            title="Uncategorized article", ns=0, text="No category link here."
+        ),
+    }
+
+    report = build_template_category_report(wiki)
+
+    assert report["summary"]["explicitly_categorized_articles"] == 1
+    assert report["articles"]["Static article"]["explicit_categories"] == [
+        "Category:Direct"
+    ]
+    assert report["articles"]["Dynamic article"]["explicit_categories"] == []

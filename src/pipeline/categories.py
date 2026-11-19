@@ -5,6 +5,8 @@ from typing import TYPE_CHECKING, TypedDict
 
 import mwparserfromhell as mwp
 
+from pipeline.wikitext import is_nested_in_template_or_argument
+
 if TYPE_CHECKING:
     from pipeline.wiki import Wiki
 
@@ -37,7 +39,11 @@ class CategoryReport(TypedDict):
 
 
 def category_links(text: str, wiki: Wiki) -> list[tuple[str, str | None]]:
-    """Return category links, preserving optional category sort keys."""
+    """Return direct category links, preserving optional category sort keys.
+
+    Links inside template calls or template-argument defaults are excluded:
+    their presence in the source does not prove that the page emits them.
+    """
     code = mwp.parse(text)
     result: list[tuple[str, str | None]] = []
 
@@ -45,6 +51,9 @@ def category_links(text: str, wiki: Wiki) -> list[tuple[str, str | None]]:
         recursive=True
     )
     for link in wikilinks:
+        if is_nested_in_template_or_argument(code, link):
+            continue
+
         raw = str(link.title).strip()
 
         # A leading colon makes this an ordinary link, not categorisation.

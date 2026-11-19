@@ -1,8 +1,12 @@
 """Analyze categories that may be introduced through template transclusion.
 
-This is a static wikitext analysis, not a full MediaWiki expansion engine.
-Results are potential template-generated memberships: parser functions,
-conditional branches, and parameter substitution are not evaluated.
+This is a conservative static wikitext analysis, not a full MediaWiki
+expansion engine. It follows top-level template invocations and direct
+category links in template bodies. Nodes nested inside another template call
+or a template argument are not attributed to the containing page/template,
+because a parameter may never be emitted. Parser functions, conditional
+branches, parameter substitution, and argument-passed template calls are not
+evaluated.
 """
 
 from __future__ import annotations
@@ -15,6 +19,8 @@ from pathlib import Path  # noqa: TC003
 from typing import TYPE_CHECKING, Literal, TypedDict
 
 import mwparserfromhell as mwp
+
+from pipeline.wikitext import is_nested_in_template_or_argument
 
 if TYPE_CHECKING:
     from pipeline.wiki import Page, Wiki
@@ -212,17 +218,25 @@ def _transcluded_wikitext(text: str) -> str:
 
 
 def _template_titles(text: str, wiki: Wiki, *, transcluded: bool = False) -> set[str]:
-    """Find syntactic invocations of pages in the Template namespace."""
+    """Find top-level syntactic invocations of Template-namespace pages.
+
+    A template call nested inside another template's parameters is omitted.
+    It may be passed through and expanded by the outer template, but proving
+    that requires parameter substitution, which this analyzer does not do.
+    """
     source = _transcluded_wikitext(text) if transcluded else text
     code = mwp.parse(source)
     # mwparserfromhell's third-party stubs leave part of this method signature
-    # unknown; the returned Wikilink/Template nodes are otherwise typed.
+    # unknown; the returned Template nodes are otherwise typed.
     templates = code.filter_templates(  # pyright: ignore[reportUnknownMemberType]
         recursive=True
     )
 
     result: set[str] = set()
     for template in templates:
+        if is_nested_in_template_or_argument(code, template):
+            continue
+
         raw_name = str(template.name).strip()
         magic_word_name = raw_name.split(":", maxsplit=1)[0].upper()
         if "{{" in raw_name or "}}" in raw_name:
@@ -243,7 +257,12 @@ def _template_titles(text: str, wiki: Wiki, *, transcluded: bool = False) -> set
 def _template_category_links(
     text: str, wiki: Wiki, *, transcluded: bool = False
 ) -> tuple[set[tuple[str, str | None]], set[str]]:
-    """Find static category links and separately retain dynamic category titles."""
+    """Find direct static category links and retain dynamic category titles.
+
+    Category links nested inside template calls or argument defaults are
+    excluded because their presence in the source does not prove that they
+    become part of the transcluded output.
+    """
     source = _transcluded_wikitext(text) if transcluded else text
     code = mwp.parse(source)
     wikilinks = code.filter_wikilinks(  # pyright: ignore[reportUnknownMemberType]
@@ -254,6 +273,9 @@ def _template_category_links(
     dynamic_titles: set[str] = set()
 
     for link in wikilinks:
+        if is_nested_in_template_or_argument(code, link):
+            continue
+
         raw_title = str(link.title).strip()
         if raw_title.startswith(":"):
             continue
@@ -299,7 +321,13 @@ def _scan_article_templates(
     template_pages: dict[str, Page],
     state: _TemplateState,
 ) -> tuple[set[str], set[str], dict[str, set[str]]]:
-    """Walk an article's template dependency graph and collect candidate categories."""
+    """Walk an article's top-level template dependency graph.
+
+    Nested invocations are discovered while inspecting each template body.
+    Template calls supplied as arguments to another template are not followed,
+    because the analyzer cannot determine whether the receiving template uses
+    those arguments.
+    """
     referenced_templates = _template_titles(article_text, wiki)
     pending = list(referenced_templates)
     visited: set[str] = set()
@@ -381,7 +409,7 @@ def _build_public_template_data(
 
 
 def build_template_category_report(wiki: Wiki) -> TemplateCategoryReport:
-    """Find candidate article categories introduced by direct or nested templates."""
+    """Find candidate article categories introduced by direct/nested templates."""
     template_pages = _build_template_index(wiki)
     state = _TemplateState()
 

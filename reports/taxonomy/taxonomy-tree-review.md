@@ -1,57 +1,72 @@
 # The Long Dark — Taxonomy Review Tree
 
-> A working Markdown tree for reviewing primary page placement. Every page link opens its current Fandom article.
-> **How to edit:** cut a page bullet from one leaf and paste it under another. Keep each page in one primary group. The DLC section is a secondary cross-index and intentionally repeats links.
-> **Source:** `reports/categories/category-report.json` on branch `pipeline`; 1,819 article pages scanned. The category report only assigns 547 pages directly. Pages without a direct category are collected in the review queue rather than guessed.
-
-## Primary navigation
-
-- Locations — 252
-- Wildlife — 22
-- Flora — 7
-- Items — 83
-- Gameplay — 102 (Skills is a sub-index)
-- Challenges — 9
-- Achievements — 21
-- DLC — 5 primary entries; see cross-index below
-- Archive — 46
-- Needs review — 1271
-
 ## 1. Locations
-
-> Unified geography: major regions, modded regions, transition maps, and named places all belong here. DLC origin is not a separate location type.
 
 ### Maps and named regions
 
+- [Anna Island - Track Section 1](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_1)
+- [Anna Island - Track Section 2](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_2)
+- [Anna Island - Track Section 3](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_3)
+- [Anna Island - Track Section 4](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_4)
+- [Anna Island - Track Section 5](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_5)
+- [Anna Island - Track Section 6](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_6)
 - [Ash Canyon](https://thelongdark.fandom.com/wiki/Ash_Canyon)
 - [Blackrock](https://thelongdark.fandom.com/wiki/Blackrock)
 - [Bleak Inlet](https://thelongdark.fandom.com/wiki/Bleak_Inlet)
 - [Broken Railroad](https://thelongdark.fandom.com/wiki/Broken_Railroad)
 - [Coastal Highway](https://thelongdark.fandom.com/wiki/Coastal_Highway)
-- [Crumbling Highway](https://thelongdark.fandom.com/wiki/Crumbling_Highway) — transition-zone property
+- [Crumbling Highway](https://thelongdark.fandom.com/wiki/Crumbling_Highway)
 - [Desolation Point](https://thelongdark.fandom.com/wiki/Desolation_Point)
-- [Far Range Branch Line](https://thelongdark.fandom.com/wiki/Far_Range_Branch_Line) — transition-zone property
+- [Desperation Bay](https://thelongdark.fandom.com/wiki/Desperation_Bay)
+- [Far Range Branch Line](https://thelongdark.fandom.com/wiki/Far_Range_Branch_Line)
 - [Forlorn Muskeg](https://thelongdark.fandom.com/wiki/Forlorn_Muskeg)
 - [Forsaken Airfield](https://thelongdark.fandom.com/wiki/Forsaken_Airfield)
 - [Great Bear Island](https://thelongdark.fandom.com/wiki/Great_Bear_Island)
 - [Hushed River Valley](https://thelongdark.fandom.com/wiki/Hushed_River_Valley)
-- [Keeper's Pass North](https://thelongdark.fandom.com/wiki/Keeper's_Pass_North) — transition-zone property
-- [Keeper's Pass South](https://thelongdark.fandom.com/wiki/Keeper's_Pass_South) — transition-zone property
+- [Keeper's Pass North](https://thelongdark.fandom.com/wiki/Keeper's_Pass_North)
+- [Keeper's Pass South](https://thelongdark.fandom.com/wiki/Keeper's_Pass_South)
 - [Mountain Town](https://thelongdark.fandom.com/wiki/Mountain_Town)
 - [Mystery Lake (region)](https://thelongdark.fandom.com/wiki/Mystery_Lake_(region))
 - [Perseverance Mills](https://thelongdark.fandom.com/wiki/Perseverance_Mills)
+- [Perseverance Wilds](https://thelongdark.fandom.com/wiki/Perseverance_Wilds)
 - [Pleasant Valley](https://thelongdark.fandom.com/wiki/Pleasant_Valley)
+- [Port Remnant](https://thelongdark.fandom.com/wiki/Port_Remnant)
 - [Region](https://thelongdark.fandom.com/wiki/Region)
 - [Sundered Pass](https://thelongdark.fandom.com/wiki/Sundered_Pass)
-- [The Ravine](https://thelongdark.fandom.com/wiki/The_Ravine) — transition-zone property
+- [The Ravine](https://thelongdark.fandom.com/wiki/The_Ravine)
 - [Timberwolf Mountain](https://thelongdark.fandom.com/wiki/Timberwolf_Mountain)
 - [Trans-Island Railway Line](https://thelongdark.fandom.com/wiki/Trans-Island_Railway_Line)
 - [Transfer Pass](https://thelongdark.fandom.com/wiki/Transfer_Pass)
-- [Winding River](https://thelongdark.fandom.com/wiki/Winding_River) — transition-zone property
+- [Winding River](https://thelongdark.fandom.com/wiki/Winding_River)
 - [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination)
+
+### Places in Anna Island - Track Section 1
+
+- [Bridge](https://thelongdark.fandom.com/wiki/Bridge)
+
+### Places in Anna Island - Track Section 2
+
+- [Criss Cross](https://thelongdark.fandom.com/wiki/Criss_Cross)
+
+### Places in Anna Island - Track Section 3
+
+- [Cove (Track Section 3)](https://thelongdark.fandom.com/wiki/Cove_(Track_Section_3))
+
+### Places in Anna Island - Track Section 4
+
+- [Canyon](https://thelongdark.fandom.com/wiki/Canyon)
+
+### Places in Anna Island - Track Section 5
+
+- [Cave (Track Section 5)](https://thelongdark.fandom.com/wiki/Cave_(Track_Section_5))
 
 ### Places in Ash Canyon
 
+- [Gold Mine](https://thelongdark.fandom.com/wiki/Gold_Mine)
+- [Foreman's Retreat](https://thelongdark.fandom.com/wiki/Foreman's_Retreat)
+- [Fire Overlook](https://thelongdark.fandom.com/wiki/Fire_Overlook)
+- [Climber's Cave](https://thelongdark.fandom.com/wiki/Climber's_Cave)
+- [Cave (Ash Canyon location)](https://thelongdark.fandom.com/wiki/Cave_(Ash_Canyon_location))
 - [Angler's Den](https://thelongdark.fandom.com/wiki/Angler's_Den)
 - [Bitter Marsh](https://thelongdark.fandom.com/wiki/Bitter_Marsh)
 - [Broad Falls](https://thelongdark.fandom.com/wiki/Broad_Falls)
@@ -60,6 +75,7 @@
 
 ### Places in Blackrock
 
+- [Blackrock Mountain](https://thelongdark.fandom.com/wiki/Blackrock_Mountain)
 - [Bear's Bend](https://thelongdark.fandom.com/wiki/Bear's_Bend)
 - [Blackrock Prison](https://thelongdark.fandom.com/wiki/Blackrock_Prison)
 - [Blocked Bridge](https://thelongdark.fandom.com/wiki/Blocked_Bridge)
@@ -87,6 +103,13 @@
 
 ### Places in Bleak Inlet
 
+- [Frozen Delta](https://thelongdark.fandom.com/wiki/Frozen_Delta)
+- [Echo One Radio Tower](https://thelongdark.fandom.com/wiki/Echo_One_Radio_Tower)
+- [Coastal Highway Terminus](https://thelongdark.fandom.com/wiki/Coastal_Highway_Terminus)
+- [Coast Mountain Road](https://thelongdark.fandom.com/wiki/Coast_Mountain_Road)
+- [Cannery Worker Residences](https://thelongdark.fandom.com/wiki/Cannery_Worker_Residences)
+- [Cabin](https://thelongdark.fandom.com/wiki/Cabin)
+- [Bunker Alpha](https://thelongdark.fandom.com/wiki/Bunker_Alpha)
 - [Cannery Pier](https://thelongdark.fandom.com/wiki/Cannery_Pier)
 - [Fallen Lighthouse](https://thelongdark.fandom.com/wiki/Fallen_Lighthouse)
 - [Island Cave](https://thelongdark.fandom.com/wiki/Island_Cave)
@@ -107,16 +130,17 @@
 
 ### Places in Coastal Highway
 
+- [Coastal House](https://thelongdark.fandom.com/wiki/Coastal_House)
 - [Abandoned Lookout](https://thelongdark.fandom.com/wiki/Abandoned_Lookout)
 - [Bear Creek Campground](https://thelongdark.fandom.com/wiki/Bear_Creek_Campground)
-- [Cinder Hills Coal Mine](https://thelongdark.fandom.com/wiki/Cinder_Hills_Coal_Mine) — transition-zone property
+- [Cinder Hills Coal Mine](https://thelongdark.fandom.com/wiki/Cinder_Hills_Coal_Mine)
 - [Coastal Townsite](https://thelongdark.fandom.com/wiki/Coastal_Townsite)
 - [Commuter's Lament](https://thelongdark.fandom.com/wiki/Commuter's_Lament)
 - [Fishing Camp](https://thelongdark.fandom.com/wiki/Fishing_Camp)
 - [Jackrabbit Island](https://thelongdark.fandom.com/wiki/Jackrabbit_Island)
 - [Log Sort](https://thelongdark.fandom.com/wiki/Log_Sort)
 - [Misanthrope's Homestead](https://thelongdark.fandom.com/wiki/Misanthrope's_Homestead)
-- [No. 3 Coal Mine](https://thelongdark.fandom.com/wiki/No._3_Coal_Mine) — transition-zone property
+- [No. 3 Coal Mine](https://thelongdark.fandom.com/wiki/No._3_Coal_Mine)
 - [Quonset Garage](https://thelongdark.fandom.com/wiki/Quonset_Garage)
 - [Rabbit Grove](https://thelongdark.fandom.com/wiki/Rabbit_Grove)
 - [Rockfall](https://thelongdark.fandom.com/wiki/Rockfall)
@@ -127,12 +151,14 @@
 
 ### Places in Crumbling Highway
 
+- [Basement (Crumbling Highway)](https://thelongdark.fandom.com/wiki/Basement_(Crumbling_Highway))
 - [Abandoned Harris Home](https://thelongdark.fandom.com/wiki/Abandoned_Harris_Home)
 - [Road Collapse](https://thelongdark.fandom.com/wiki/Road_Collapse)
 - [The Arch (Old Island Connector location)](https://thelongdark.fandom.com/wiki/The_Arch_(Old_Island_Connector_location))
 
 ### Places in Desolation Point
 
+- [Fulmar Autopilot Boat](https://thelongdark.fandom.com/wiki/Fulmar_Autopilot_Boat)
 - [Abandoned Mine No. 5](https://thelongdark.fandom.com/wiki/Abandoned_Mine_No._5)
 - [Blocked Highway](https://thelongdark.fandom.com/wiki/Blocked_Highway)
 - [Broken Bridge (Desolation Point location)](https://thelongdark.fandom.com/wiki/Broken_Bridge_(Desolation_Point_location))
@@ -146,12 +172,19 @@
 - [The Riken](https://thelongdark.fandom.com/wiki/The_Riken)
 - [Waterfall](https://thelongdark.fandom.com/wiki/Waterfall)
 
+### Places in Desperation Bay
+
+- [Fukkatsu Maru](https://thelongdark.fandom.com/wiki/Fukkatsu_Maru)
+
 ### Places in Far Range Branch Line
 
+- [Freighthopper's Rockfall](https://thelongdark.fandom.com/wiki/Freighthopper's_Rockfall)
 - [Oddment Falls](https://thelongdark.fandom.com/wiki/Oddment_Falls)
+- [Foundered Track](https://thelongdark.fandom.com/wiki/Foundered_Track)
 
 ### Places in Forlorn Muskeg
 
+- [Abandoned Camp](https://thelongdark.fandom.com/wiki/Abandoned_Camp)
 - [Bunkhouses](https://thelongdark.fandom.com/wiki/Bunkhouses)
 - [Hat Creek](https://thelongdark.fandom.com/wiki/Hat_Creek)
 - [High Blind](https://thelongdark.fandom.com/wiki/High_Blind)
@@ -166,6 +199,10 @@
 
 ### Places in Forsaken Airfield
 
+- [Frost Cave](https://thelongdark.fandom.com/wiki/Frost_Cave)
+- [Fallow Dugout](https://thelongdark.fandom.com/wiki/Fallow_Dugout)
+- [Cove](https://thelongdark.fandom.com/wiki/Cove)
+- [Bunker Omega](https://thelongdark.fandom.com/wiki/Bunker_Omega)
 - [Archie's Crawlspace](https://thelongdark.fandom.com/wiki/Archie's_Crawlspace)
 - [Brittle Cave](https://thelongdark.fandom.com/wiki/Brittle_Cave)
 - [Cargomaster's Trailer](https://thelongdark.fandom.com/wiki/Cargomaster's_Trailer)
@@ -185,6 +222,7 @@
 
 ### Places in Hushed River Valley
 
+- [Bunker Gamma](https://thelongdark.fandom.com/wiki/Bunker_Gamma)
 - [Banner Falls](https://thelongdark.fandom.com/wiki/Banner_Falls)
 - [Cloudtop Falls](https://thelongdark.fandom.com/wiki/Cloudtop_Falls)
 - [Ice Cave](https://thelongdark.fandom.com/wiki/Ice_Cave)
@@ -214,6 +252,9 @@
 
 ### Places in Mountain Town
 
+- [Graveyard](https://thelongdark.fandom.com/wiki/Graveyard)
+- [Convenience Store](https://thelongdark.fandom.com/wiki/Convenience_Store)
+- [Cave (Mountain Town location)](https://thelongdark.fandom.com/wiki/Cave_(Mountain_Town_location))
 - [Bank Manager's House](https://thelongdark.fandom.com/wiki/Bank_Manager's_House)
 - [Crashed Prison Transport Bus](https://thelongdark.fandom.com/wiki/Crashed_Prison_Transport_Bus)
 - [Hermit's Cabin](https://thelongdark.fandom.com/wiki/Hermit's_Cabin)
@@ -263,12 +304,24 @@
 - [Trapper's Homestead](https://thelongdark.fandom.com/wiki/Trapper's_Homestead)
 - [Unnamed Pond](https://thelongdark.fandom.com/wiki/Unnamed_Pond)
 
-### Places in Perserverance Mills
+### Places in Perseverance Mills
 
+- [Cooper's Blind](https://thelongdark.fandom.com/wiki/Cooper's_Blind)
+- [Constable's Office](https://thelongdark.fandom.com/wiki/Constable's_Office)
 - [Terry's Radio Shack](https://thelongdark.fandom.com/wiki/Terry's_Radio_Shack)
+- [Co-op](https://thelongdark.fandom.com/wiki/Co-op)
+
+### Places in Perseverance Wilds
+
+- [Doubter's Retreat](https://thelongdark.fandom.com/wiki/Doubter's_Retreat)
 
 ### Places in Pleasant Valley
 
+- [Crossroads House](https://thelongdark.fandom.com/wiki/Crossroads_House)
+- [Community Hall](https://thelongdark.fandom.com/wiki/Community_Hall)
+- [Burned Ridge Cave](https://thelongdark.fandom.com/wiki/Burned_Ridge_Cave)
+- [Bunker Beta](https://thelongdark.fandom.com/wiki/Bunker_Beta)
+- [Barn (Molly's)](https://thelongdark.fandom.com/wiki/Barn_(Molly's))
 - [Cascading Falls](https://thelongdark.fandom.com/wiki/Cascading_Falls)
 - [Contemplation Bridge](https://thelongdark.fandom.com/wiki/Contemplation_Bridge)
 - [Crash Site (Pleasant Valley)](https://thelongdark.fandom.com/wiki/Crash_Site_(Pleasant_Valley))
@@ -296,11 +349,26 @@
 - [Three Strikes Farmstead](https://thelongdark.fandom.com/wiki/Three_Strikes_Farmstead)
 - [Upper Falls](https://thelongdark.fandom.com/wiki/Upper_Falls)
 
+### Places in Port Remnant
+
+- [Forgotten Trestle](https://thelongdark.fandom.com/wiki/Forgotten_Trestle)
+- [Fallow Field](https://thelongdark.fandom.com/wiki/Fallow_Field)
+- [Broken Shoreline](https://thelongdark.fandom.com/wiki/Broken_Shoreline)
+- [Departure's Memory](https://thelongdark.fandom.com/wiki/Departure's_Memory)
+- [Desecrated Church](https://thelongdark.fandom.com/wiki/Desecrated_Church)
+
 ### Places in Sundered Pass
 
+- [Final Refuge](https://thelongdark.fandom.com/wiki/Final_Refuge)
+- [Cascading Gap](https://thelongdark.fandom.com/wiki/Cascading_Gap)
+- [Cabin (Sundered Pass)](https://thelongdark.fandom.com/wiki/Cabin_(Sundered_Pass))
+- [Basement (Sundered Pass)](https://thelongdark.fandom.com/wiki/Basement_(Sundered_Pass))
+- [Abandoned Mine](https://thelongdark.fandom.com/wiki/Abandoned_Mine) 
+- [Baneful Bridge](https://thelongdark.fandom.com/wiki/Baneful_Bridge)
 - [Ambler's Lake](https://thelongdark.fandom.com/wiki/Ambler's_Lake)
 - [Giant's Thumbprint](https://thelongdark.fandom.com/wiki/Giant's_Thumbprint)
 - [Seedling Spring](https://thelongdark.fandom.com/wiki/Seedling_Spring)
+- [Bolt Chopper's Haven](https://thelongdark.fandom.com/wiki/Bolt_Chopper's_Haven)
 
 ### Places in The Ravine
 
@@ -309,6 +377,7 @@
 
 ### Places in Timberwolf Mountain
 
+- [Engine (West)](https://thelongdark.fandom.com/wiki/Engine_(West))
 - [Andre's Peak](https://thelongdark.fandom.com/wiki/Andre's_Peak)
 - [Cave (Timberwolf Mountain location 1)](https://thelongdark.fandom.com/wiki/Cave_(Timberwolf_Mountain_location_1))
 - [Cave (Timberwolf Mountain location 2)](https://thelongdark.fandom.com/wiki/Cave_(Timberwolf_Mountain_location_2))
@@ -329,8 +398,25 @@
 - [Waterfall Cave](https://thelongdark.fandom.com/wiki/Waterfall_Cave)
 - [Wing](https://thelongdark.fandom.com/wiki/Wing)
 
+### Places in Transfer Pass
+
+- [Feedwater Cave](https://thelongdark.fandom.com/wiki/Feedwater_Cave)
+- [Distempered Flatcars](https://thelongdark.fandom.com/wiki/Distempered_Flatcars)
+- [Conductor's Dropoff](https://thelongdark.fandom.com/wiki/Conductor's_Dropoff)
+- [Broad Aerie](https://thelongdark.fandom.com/wiki/Broad_Aerie)
+
 ### Places in Zone of Contamination
 
+- [Forgotten Exploration](https://thelongdark.fandom.com/wiki/Forgotten_Exploration)
+- [Flagman's Gap](https://thelongdark.fandom.com/wiki/Flagman's_Gap)
+- [Enduring Waterfall](https://thelongdark.fandom.com/wiki/Enduring_Waterfall)
+- [Dubious Overlook](https://thelongdark.fandom.com/wiki/Dubious_Overlook)
+- [Desperate Elevation](https://thelongdark.fandom.com/wiki/Desperate_Elevation)
+- [Craggy Passage](https://thelongdark.fandom.com/wiki/Craggy_Passage)
+- [Conveyor Room](https://thelongdark.fandom.com/wiki/Conveyor_Room)
+- [Concentrator](https://thelongdark.fandom.com/wiki/Concentrator)
+- [Bountiful Overlook](https://thelongdark.fandom.com/wiki/Bountiful_Overlook)
+- [Boss's Settlement](https://thelongdark.fandom.com/wiki/Boss's_Settlement)
 - [Overladen Pond](https://thelongdark.fandom.com/wiki/Overladen_Pond)
 - [Unquenched Extraction](https://thelongdark.fandom.com/wiki/Unquenched_Extraction)
 
@@ -341,81 +427,10 @@
 - [Jackrabbit Hangar](https://thelongdark.fandom.com/wiki/Jackrabbit_Hangar)
 - [Prepper Cache](https://thelongdark.fandom.com/wiki/Prepper_Cache)
 - [Warm Cave](https://thelongdark.fandom.com/wiki/Warm_Cave)
+- [Coastal Cave](https://thelongdark.fandom.com/wiki/Coastal_Cave) fixme
+
 
 ### Additional location candidates — from `Template:Infobox/Location`
-
-> These 169 pages are tagged by the location infobox in the dump but were not present in the manually verified list above. They are added as candidates only; review and move them into the appropriate map subsection. Existing verified entries above are unchanged.
-
-- [Abandoned Camp](https://thelongdark.fandom.com/wiki/Abandoned_Camp)
-- [Abandoned Mine](https://thelongdark.fandom.com/wiki/Abandoned_Mine) — review: generic title; confirm this is a distinct in-game place
-- [Baneful Bridge](https://thelongdark.fandom.com/wiki/Baneful_Bridge)
-- [Barn (Molly's)](https://thelongdark.fandom.com/wiki/Barn_(Molly's))
-- [Basement (Crumbling Highway)](https://thelongdark.fandom.com/wiki/Basement_(Crumbling_Highway))
-- [Basement (Sundered Pass)](https://thelongdark.fandom.com/wiki/Basement_(Sundered_Pass))
-- [Blackrock Mountain](https://thelongdark.fandom.com/wiki/Blackrock_Mountain)
-- [Bolt Chopper's Haven](https://thelongdark.fandom.com/wiki/Bolt_Chopper's_Haven)
-- [Boss's Settlement](https://thelongdark.fandom.com/wiki/Boss's_Settlement)
-- [Bountiful Overlook](https://thelongdark.fandom.com/wiki/Bountiful_Overlook)
-- [Bridge](https://thelongdark.fandom.com/wiki/Bridge) — review: generic title; confirm this is a distinct in-game place
-- [Broad Aerie](https://thelongdark.fandom.com/wiki/Broad_Aerie)
-- [Broken Shoreline](https://thelongdark.fandom.com/wiki/Broken_Shoreline)
-- [Bunker Alpha](https://thelongdark.fandom.com/wiki/Bunker_Alpha)
-- [Bunker Beta](https://thelongdark.fandom.com/wiki/Bunker_Beta)
-- [Bunker Gamma](https://thelongdark.fandom.com/wiki/Bunker_Gamma)
-- [Bunker Omega](https://thelongdark.fandom.com/wiki/Bunker_Omega)
-- [Burned Ridge Cave](https://thelongdark.fandom.com/wiki/Burned_Ridge_Cave)
-- [Cabin](https://thelongdark.fandom.com/wiki/Cabin) — review: generic title; confirm this is a distinct in-game place
-- [Cabin (Sundered Pass)](https://thelongdark.fandom.com/wiki/Cabin_(Sundered_Pass))
-- [Cannery Worker Residences](https://thelongdark.fandom.com/wiki/Cannery_Worker_Residences)
-- [Canyon](https://thelongdark.fandom.com/wiki/Canyon) — review: generic title; confirm this is a distinct in-game place
-- [Cascading Gap](https://thelongdark.fandom.com/wiki/Cascading_Gap)
-- [Cave (Ash Canyon location)](https://thelongdark.fandom.com/wiki/Cave_(Ash_Canyon_location)) — review: generic title; confirm this is a distinct in-game place
-- [Cave (Mountain Town location)](https://thelongdark.fandom.com/wiki/Cave_(Mountain_Town_location)) — review: generic title; confirm this is a distinct in-game place
-- [Cave (Track Section 5)](https://thelongdark.fandom.com/wiki/Cave_(Track_Section_5)) — review: generic title; confirm this is a distinct in-game place
-- [Climber's Cave](https://thelongdark.fandom.com/wiki/Climber's_Cave)
-- [Co-op](https://thelongdark.fandom.com/wiki/Co-op) — review: generic title; confirm this is a distinct in-game place
-- [Coast Mountain Road](https://thelongdark.fandom.com/wiki/Coast_Mountain_Road)
-- [Coastal Cave](https://thelongdark.fandom.com/wiki/Coastal_Cave)
-- [Coastal Highway Terminus](https://thelongdark.fandom.com/wiki/Coastal_Highway_Terminus)
-- [Coastal House](https://thelongdark.fandom.com/wiki/Coastal_House)
-- [Community Hall](https://thelongdark.fandom.com/wiki/Community_Hall)
-- [Concentrator](https://thelongdark.fandom.com/wiki/Concentrator)
-- [Conductor's Dropoff](https://thelongdark.fandom.com/wiki/Conductor's_Dropoff)
-- [Constable's Office](https://thelongdark.fandom.com/wiki/Constable's_Office)
-- [Convenience Store](https://thelongdark.fandom.com/wiki/Convenience_Store)
-- [Conveyor Room](https://thelongdark.fandom.com/wiki/Conveyor_Room)
-- [Cooper's Blind](https://thelongdark.fandom.com/wiki/Cooper's_Blind)
-- [Cove](https://thelongdark.fandom.com/wiki/Cove) — review: generic title; confirm this is a distinct in-game place
-- [Cove (Track Section 3)](https://thelongdark.fandom.com/wiki/Cove_(Track_Section_3)) — review: generic title; confirm this is a distinct in-game place
-- [Craggy Passage](https://thelongdark.fandom.com/wiki/Craggy_Passage)
-- [Criss Cross](https://thelongdark.fandom.com/wiki/Criss_Cross)
-- [Crossroads House](https://thelongdark.fandom.com/wiki/Crossroads_House)
-- [Departure's Memory](https://thelongdark.fandom.com/wiki/Departure's_Memory)
-- [Desecrated Church](https://thelongdark.fandom.com/wiki/Desecrated_Church)
-- [Desperate Elevation](https://thelongdark.fandom.com/wiki/Desperate_Elevation)
-- [Distempered Flatcars](https://thelongdark.fandom.com/wiki/Distempered_Flatcars)
-- [Doubter's Retreat](https://thelongdark.fandom.com/wiki/Doubter's_Retreat)
-- [Dubious Overlook](https://thelongdark.fandom.com/wiki/Dubious_Overlook)
-- [Echo One Radio Tower](https://thelongdark.fandom.com/wiki/Echo_One_Radio_Tower)
-- [Enduring Waterfall](https://thelongdark.fandom.com/wiki/Enduring_Waterfall)
-- [Engine (West)](https://thelongdark.fandom.com/wiki/Engine_(West))
-- [Fallow Dugout](https://thelongdark.fandom.com/wiki/Fallow_Dugout)
-- [Fallow Field](https://thelongdark.fandom.com/wiki/Fallow_Field)
-- [Feedwater Cave](https://thelongdark.fandom.com/wiki/Feedwater_Cave)
-- [Final Refuge](https://thelongdark.fandom.com/wiki/Final_Refuge)
-- [Fire Overlook](https://thelongdark.fandom.com/wiki/Fire_Overlook)
-- [Flagman's Gap](https://thelongdark.fandom.com/wiki/Flagman's_Gap)
-- [Foreman's Retreat](https://thelongdark.fandom.com/wiki/Foreman's_Retreat)
-- [Forgotten Exploration](https://thelongdark.fandom.com/wiki/Forgotten_Exploration)
-- [Forgotten Trestle](https://thelongdark.fandom.com/wiki/Forgotten_Trestle)
-- [Foundered Track](https://thelongdark.fandom.com/wiki/Foundered_Track)
-- [Freighthopper's Rockfall](https://thelongdark.fandom.com/wiki/Freighthopper's_Rockfall)
-- [Frost Cave](https://thelongdark.fandom.com/wiki/Frost_Cave)
-- [Frozen Delta](https://thelongdark.fandom.com/wiki/Frozen_Delta)
-- [Fukkatsu Maru](https://thelongdark.fandom.com/wiki/Fukkatsu_Maru)
-- [Fulmar Autopilot Boat](https://thelongdark.fandom.com/wiki/Fulmar_Autopilot_Boat)
-- [Gold Mine](https://thelongdark.fandom.com/wiki/Gold_Mine)
-- [Graveyard](https://thelongdark.fandom.com/wiki/Graveyard)
 - [Grip's Cave](https://thelongdark.fandom.com/wiki/Grip's_Cave)
 - [Hangar Basement](https://thelongdark.fandom.com/wiki/Hangar_Basement)
 - [Harrowed Residence](https://thelongdark.fandom.com/wiki/Harrowed_Residence)
@@ -945,12 +960,6 @@
 - [An Old House Key](https://thelongdark.fandom.com/wiki/An_Old_House_Key)
 - [An Old Logbook](https://thelongdark.fandom.com/wiki/An_Old_Logbook)
 - [Animal Fat](https://thelongdark.fandom.com/wiki/Animal_Fat)
-- [Anna Island -- Track Section 1](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_1)
-- [Anna Island -- Track Section 2](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_2)
-- [Anna Island -- Track Section 3](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_3)
-- [Anna Island -- Track Section 4](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_4)
-- [Anna Island -- Track Section 5](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_5)
-- [Anna Island -- Track Section 6](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_6)
 - [Antiseptic](https://thelongdark.fandom.com/wiki/Antiseptic)
 - [Anxiety](https://thelongdark.fandom.com/wiki/Anxiety)
 - [Archery](https://thelongdark.fandom.com/wiki/Archery)
@@ -1232,7 +1241,6 @@
 - [Deposit Box](https://thelongdark.fandom.com/wiki/Deposit_Box)
 - [Desecrated Church](https://thelongdark.fandom.com/wiki/Desecrated_Church)
 - [Desperate Elevation](https://thelongdark.fandom.com/wiki/Desperate_Elevation)
-- [Desperation Bay](https://thelongdark.fandom.com/wiki/Desperation_Bay)
 - [Detonators](https://thelongdark.fandom.com/wiki/Detonators)
 - [Diary](https://thelongdark.fandom.com/wiki/Diary)
 - [Diary Page](https://thelongdark.fandom.com/wiki/Diary_Page)
@@ -1743,7 +1751,6 @@
 - [Penitent Scholar](https://thelongdark.fandom.com/wiki/Penitent_Scholar)
 - [Perilous Crossing](https://thelongdark.fandom.com/wiki/Perilous_Crossing)
 - [Perseverance](https://thelongdark.fandom.com/wiki/Perseverance)
-- [Perseverance Wilds](https://thelongdark.fandom.com/wiki/Perseverance_Wilds)
 - [Phone Box](https://thelongdark.fandom.com/wiki/Phone_Box)
 - [Pickles](https://thelongdark.fandom.com/wiki/Pickles)
 - [Piece of Paper](https://thelongdark.fandom.com/wiki/Piece_of_Paper)
@@ -1772,7 +1779,6 @@
 - [Pond (Track Section 4)](https://thelongdark.fandom.com/wiki/Pond_(Track_Section_4))
 - [Pork and Beans](https://thelongdark.fandom.com/wiki/Pork_and_Beans)
 - [Porridge](https://thelongdark.fandom.com/wiki/Porridge)
-- [Port Remnant](https://thelongdark.fandom.com/wiki/Port_Remnant)
 - [Porter's Soup](https://thelongdark.fandom.com/wiki/Porter's_Soup)
 - [Pot Belly Stove](https://thelongdark.fandom.com/wiki/Pot_Belly_Stove)
 - [Potato](https://thelongdark.fandom.com/wiki/Potato)

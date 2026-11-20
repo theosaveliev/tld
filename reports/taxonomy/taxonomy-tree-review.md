@@ -2,7 +2,11 @@
 
 ## 1. Locations
 
+> A Location is a named point of interest in the game world. When the player discovers one for the first time, the game displays the message “New location discovered.” This section lists named regions and discoverable points of interest that have their own wiki pages.
+
 ### Maps and named regions
+
+> Regional maps and named areas provide the geographic framework for the location index. Individual discoverable points of interest are grouped under the region where they are found.
 
 - [Anna Island -- Track Section 1](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_1)
 - [Anna Island -- Track Section 2](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_2)
@@ -533,6 +537,8 @@
 
 ### Cross-region and shared locations
 
+> Locations that span more than one region, sit at a transition, or are shared across regional boundaries are listed here so that each article has one primary entry.
+
 - [Cave (Transition Zone)](https://thelongdark.fandom.com/wiki/Cave_(Transition_Zone))
 - [Cave (disambiguation)](https://thelongdark.fandom.com/wiki/Cave_(disambiguation))
 - [Coastal Cave](https://thelongdark.fandom.com/wiki/Coastal_Cave)
@@ -546,7 +552,11 @@
 
 ## 2. Nature
 
+> Nature covers the living world of Great Bear Island and the Far Territory. Fauna contains animals and fish; Flora contains plants, trees, lichen, and mushrooms.
+
 ### Fauna
+
+> Animals and fish encountered in the world. This includes wildlife species, special story animals, and the fish species documented by the wiki.
 
 - [Bear](https://thelongdark.fandom.com/wiki/Bear)
 - [Big Bass (Raw)](https://thelongdark.fandom.com/wiki/Big_Bass_(Raw))
@@ -573,6 +583,8 @@
 
 ### Flora
 
+> Plants and other harvestable vegetation, including trees and saplings, shrubs, mushrooms, and lichen.
+
 - [Burdock](https://thelongdark.fandom.com/wiki/Burdock)
 - [Cat Tail](https://thelongdark.fandom.com/wiki/Cat_Tail)
 - [Green Birch Sapling](https://thelongdark.fandom.com/wiki/Green_Birch_Sapling)
@@ -585,9 +597,11 @@
 
 ## 3. Items
 
-> Item articles are grouped by their primary in-game function. Each article has one primary home.
+> This section contains articles about inventory items and equipment: things the player can carry, use, consume, wear, craft, or collect as gear. Pages are grouped by their in-game function. Fixed environmental objects and stationary work areas are classified under Gameplay instead.
 
 ### Clothing & Wearables
+
+> Wearable clothing, protective equipment, and accessories that occupy clothing slots or provide a wearable benefit. This includes special garments and wearable carry-weight or climbing equipment.
 
 - [Astrid's Boots](https://thelongdark.fandom.com/wiki/Astrid's_Boots)
 - [Astrid's Gloves](https://thelongdark.fandom.com/wiki/Astrid's_Gloves)
@@ -700,11 +714,12 @@
 
 ### Food & Drink
 
-> Organized using the wiki's Food And Drink inventory. Includes edible foods, drinks, recipes, ingredients, medicinal consumables, and special-mode or event foods. Raw fish pages remain under Nature → Fauna; non-edible carcasses and animal quarters are excluded.
-
+> Edible and drinkable inventory items, prepared meals, recipes, and cooking ingredients. Raw fish species pages remain under Nature → Fauna; their cooked food versions are listed here.
 > Overview: [Food And Drink](https://thelongdark.fandom.com/wiki/Food_And_Drink)
 
 #### Food
+
+> Food that can be eaten directly, including raw and cooked meat, fish products, and packaged or gathered foods.
 
 - [Acorns (Cooked - Large Portion)](https://thelongdark.fandom.com/wiki/Acorns_(Cooked_-_Large_Portion))
 - [Acorns (Cooked)](https://thelongdark.fandom.com/wiki/Acorns_(Cooked))
@@ -761,6 +776,8 @@
 
 #### Drinks
 
+> Beverages and potable or unsafe water that can be consumed by the survivor.
+
 - [Cup of Acorn Coffee](https://thelongdark.fandom.com/wiki/Cup_of_Acorn_Coffee)
 - [Cup of Coffee](https://thelongdark.fandom.com/wiki/Cup_of_Coffee)
 - [Cup of Herbal Tea](https://thelongdark.fandom.com/wiki/Cup_of_Herbal_Tea)
@@ -771,6 +788,8 @@
 - [Water (Unsafe)](https://thelongdark.fandom.com/wiki/Water_(Unsafe))
 
 #### Recipes
+
+> Prepared meals and dishes made using cooking ingredients and recipes.
 
 - [Acorn Bannock](https://thelongdark.fandom.com/wiki/Acorn_Bannock)
 - [Acorn Pancakes](https://thelongdark.fandom.com/wiki/Acorn_Pancakes)
@@ -803,6 +822,8 @@
 
 #### Cooking & Brewing Ingredients
 
+> Ingredients and supplies used to prepare meals, coffee, and herbal drinks.
+
 - [Acorn Grounds](https://thelongdark.fandom.com/wiki/Acorn_Grounds)
 - [Acorns](https://thelongdark.fandom.com/wiki/Acorns)
 - [Cooking Oil](https://thelongdark.fandom.com/wiki/Cooking_Oil)
@@ -818,13 +839,17 @@
 
 #### Seasonal & Wintermute Foods
 
+> Food pages tied to seasonal events or specific Wintermute content.
+
 - [Big Bass (Cooked)](https://thelongdark.fandom.com/wiki/Big_Bass_(Cooked))
 - [Chocolate Bar (4 Days of Night)](https://thelongdark.fandom.com/wiki/Chocolate_Bar_(4_Days_of_Night))
 - [Home-made Soup](https://thelongdark.fandom.com/wiki/Home-made_Soup)
 - [Pumpkin Pie](https://thelongdark.fandom.com/wiki/Pumpkin_Pie)
 
 ### First Aid & Medicine
-> First Aid treatments, medicinal plant preparations, respiratory protection, and story-specific medical kits and supplies.
+
+> Items used to prevent, treat, or recover from injuries, afflictions, and other medical effects. The First Aid overview page is included here with the medical inventory references.
+
 - [Antibiotics](https://thelongdark.fandom.com/wiki/Antibiotics)
 - [Antiseptic](https://thelongdark.fandom.com/wiki/Antiseptic)
 - [Bandage](https://thelongdark.fandom.com/wiki/Bandage)
@@ -856,6 +881,8 @@
 - [Water Purification Tablets](https://thelongdark.fandom.com/wiki/Water_Purification_Tablets)
 
 ### Weapons & Ammunition
+
+> Weapons used for hunting or defence, their ammunition, and projectile components. Individual weapon variants are listed alongside the weapon type they belong to.
 
 #### Firearms
 
@@ -903,13 +930,19 @@
 
 ### Tools & Equipment
 
+> Portable tools and practical equipment carried in the inventory. Stationary crafting stations and fixed interactable objects are listed under Gameplay.
+
 #### Bedrolls & Sleeping Gear
+
+> Portable bedrolls that can be carried and deployed to sleep. Fixed or unusable bedroll props remain world objects.
 
 - [Bear Skin Bedroll](https://thelongdark.fandom.com/wiki/Bear_Skin_Bedroll)
 - [Bedroll](https://thelongdark.fandom.com/wiki/Bedroll)
 - [Improvised Down Bedroll](https://thelongdark.fandom.com/wiki/Improvised_Down_Bedroll)
 
 #### Cooking & Containers
+
+> Portable vessels and simple tools used to prepare, store, or access food and drink.
 
 - [Can Opener](https://thelongdark.fandom.com/wiki/Can_Opener)
 - [Cooking Pot](https://thelongdark.fandom.com/wiki/Cooking_Pot)
@@ -918,6 +951,8 @@
 - [Recycled Can](https://thelongdark.fandom.com/wiki/Recycled_Can)
 
 #### Fishing & Trapping Gear
+
+> Portable equipment, bait, and components used for fishing and trapping activities.
 
 - [Fishing Bait](https://thelongdark.fandom.com/wiki/Fishing_Bait)
 - [Fishing Lure (Acorns)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(Acorns))
@@ -932,6 +967,8 @@
 
 #### Hand Tools
 
+> Handheld tools used to harvest resources, open containers, cut materials, or perform other practical tasks.
+
 - [Cougar Claw Knife](https://thelongdark.fandom.com/wiki/Cougar_Claw_Knife)
 - [Hacksaw](https://thelongdark.fandom.com/wiki/Hacksaw)
 - [Hatchet](https://thelongdark.fandom.com/wiki/Hatchet)
@@ -944,6 +981,8 @@
 
 #### Repair & Crafting Equipment
 
+> Portable tools used to repair, maintain, sharpen, or craft equipment. Stationary workbenches are listed separately under Gameplay.
+
 - [Firearm Cleaning Kit](https://thelongdark.fandom.com/wiki/Firearm_Cleaning_Kit)
 - [Quality Tools](https://thelongdark.fandom.com/wiki/Quality_Tools)
 - [Sewing Kit](https://thelongdark.fandom.com/wiki/Sewing_Kit)
@@ -952,6 +991,8 @@
 - [Woodworking Tools](https://thelongdark.fandom.com/wiki/Woodworking_Tools)
 
 #### Field & Utility Equipment
+
+> Portable equipment used for exploration, navigation, access, photography, and other field tasks.
 
 - [Bolt Cutters](https://thelongdark.fandom.com/wiki/Bolt_Cutters)
 - [Camera](https://thelongdark.fandom.com/wiki/Camera)
@@ -966,10 +1007,15 @@
 
 #### Other & Reference
 
+> General tool references and tool-related pages that do not fit a more specific equipment group.
+
 - [The Detonators](https://thelongdark.fandom.com/wiki/The_Detonators)
 - [Tools](https://thelongdark.fandom.com/wiki/Tools)
 
 ### Fire, Light & Fuel
+
+> Items classified by their in-game role as fire-starting supplies, fuel, or light sources. Books are grouped here because the game treats burnable books and Research Books as fuel; Research Books also remain referenced under Skills.
+
 - [A Sewing Primer](https://thelongdark.fandom.com/wiki/A_Sewing_Primer)
 - [Advanced Guns Guns Guns!](https://thelongdark.fandom.com/wiki/Advanced_Guns_Guns_Guns!)
 - [Book](https://thelongdark.fandom.com/wiki/Book)
@@ -993,6 +1039,9 @@
 - [Wilderness Kitchen](https://thelongdark.fandom.com/wiki/Wilderness_Kitchen)
 
 ### Materials & Crafting Components
+
+> Raw materials, recovered resources, and components used to craft, repair, or maintain other items. A component can belong here even when it is used to construct a workstation.
+
 - [Birch Bark](https://thelongdark.fandom.com/wiki/Birch_Bark)
 - [Charcoal](https://thelongdark.fandom.com/wiki/Charcoal)
 - [Cloth](https://thelongdark.fandom.com/wiki/Cloth)
@@ -1005,18 +1054,92 @@
 - [Wires](https://thelongdark.fandom.com/wiki/Wires)
 - [Workbench Vice](https://thelongdark.fandom.com/wiki/Workbench_Vice)
 
+### Item Attributes
+
+> Reference pages describing properties of inventory items, rather than needs or conditions experienced by the survivor.
+
+- [Decay](https://thelongdark.fandom.com/wiki/Decay)
+
 ### Decorations & Safehouse Items
 
+> Decorative inventory objects and craftable furniture used to personalize Safehouses. This is distinct from Gameplay → World Objects, which covers fixed environmental objects that the player encounters and interacts with.
+
+#### Craftable Decorations
+
+> Furniture and display pieces made for a Safehouse, including mounted fish, decorative art, and storage furniture.
+- [Bear Hide Bed](https://thelongdark.fandom.com/wiki/Bear_Hide_Bed)
+- [Bear Hide Rug](https://thelongdark.fandom.com/wiki/Bear_Hide_Rug)
+- [Carved Bear Figurine](https://thelongdark.fandom.com/wiki/Carved_Bear_Figurine)
+- [Carved Cougar Figurine](https://thelongdark.fandom.com/wiki/Carved_Cougar_Figurine)
+- [Carved Wolf Figurine](https://thelongdark.fandom.com/wiki/Carved_Wolf_Figurine)
+- [Coffee Table](https://thelongdark.fandom.com/wiki/Coffee_Table)
+- [Decorative Art](https://thelongdark.fandom.com/wiki/Decorative_Art)
+- [Decorative Art (2)](https://thelongdark.fandom.com/wiki/Decorative_Art_(2))
+- [Decorative End Table](https://thelongdark.fandom.com/wiki/Decorative_End_Table)
+- [Dresser](https://thelongdark.fandom.com/wiki/Dresser)
+- [Framed Hockey Jersey](https://thelongdark.fandom.com/wiki/Framed_Hockey_Jersey)
+- [Framed Photo](https://thelongdark.fandom.com/wiki/Framed_Photo)
+- [Hide Chair](https://thelongdark.fandom.com/wiki/Hide_Chair)
+- [Hide Couch](https://thelongdark.fandom.com/wiki/Hide_Couch)
 - [Meat Curing Box](https://thelongdark.fandom.com/wiki/Meat_Curing_Box)
+- [Mounted Burbot](https://thelongdark.fandom.com/wiki/Mounted_Burbot)
+- [Mounted Coho Salmon](https://thelongdark.fandom.com/wiki/Mounted_Coho_Salmon)
+- [Mounted Goldeye](https://thelongdark.fandom.com/wiki/Mounted_Goldeye)
+- [Mounted Lake Whitefish](https://thelongdark.fandom.com/wiki/Mounted_Lake_Whitefish)
+- [Mounted Rainbow Trout](https://thelongdark.fandom.com/wiki/Mounted_Rainbow_Trout)
+- [Mounted Red Irish Lord](https://thelongdark.fandom.com/wiki/Mounted_Red_Irish_Lord)
+- [Mounted Rockfish](https://thelongdark.fandom.com/wiki/Mounted_Rockfish)
+- [Mounted Smallmouth Bass](https://thelongdark.fandom.com/wiki/Mounted_Smallmouth_Bass)
+- [Quilted Bed](https://thelongdark.fandom.com/wiki/Quilted_Bed)
+- [Round Table](https://thelongdark.fandom.com/wiki/Round_Table)
+- [Rustic Bed](https://thelongdark.fandom.com/wiki/Rustic_Bed)
+- [Rustic Bench](https://thelongdark.fandom.com/wiki/Rustic_Bench)
+- [Rustic Chair](https://thelongdark.fandom.com/wiki/Rustic_Chair)
+- [Rustic Closet](https://thelongdark.fandom.com/wiki/Rustic_Closet)
+- [Rustic Cupboard](https://thelongdark.fandom.com/wiki/Rustic_Cupboard)
+- [Rustic Display Shelf](https://thelongdark.fandom.com/wiki/Rustic_Display_Shelf)
+- [Rustic End Table](https://thelongdark.fandom.com/wiki/Rustic_End_Table)
+- [Rustic Shelf](https://thelongdark.fandom.com/wiki/Rustic_Shelf)
+- [Rustic Stool](https://thelongdark.fandom.com/wiki/Rustic_Stool)
+- [Rustic Storage Box](https://thelongdark.fandom.com/wiki/Rustic_Storage_Box)
+- [Rustic Storage Trunk](https://thelongdark.fandom.com/wiki/Rustic_Storage_Trunk)
+- [Rustic Table](https://thelongdark.fandom.com/wiki/Rustic_Table)
+- [Square Table](https://thelongdark.fandom.com/wiki/Square_Table)
+- [Tall Rustic Closet](https://thelongdark.fandom.com/wiki/Tall_Rustic_Closet)
+- [Tall Rustic Shelf](https://thelongdark.fandom.com/wiki/Tall_Rustic_Shelf)
+- [Wide Display Shelf](https://thelongdark.fandom.com/wiki/Wide_Display_Shelf)
+- [Wide Dresser](https://thelongdark.fandom.com/wiki/Wide_Dresser)
+
+#### Portable Decorations
+
+> Existing decorative objects that can be picked up and placed elsewhere in a customizable interior.
+- [Basin](https://thelongdark.fandom.com/wiki/Basin)
+- [Bench](https://thelongdark.fandom.com/wiki/Bench)
+- [Broom](https://thelongdark.fandom.com/wiki/Broom)
+- [Chair](https://thelongdark.fandom.com/wiki/Chair)
+- [Display Shelf](https://thelongdark.fandom.com/wiki/Display_Shelf)
+- [Metal Chair](https://thelongdark.fandom.com/wiki/Metal_Chair)
+- [Metal Lamp](https://thelongdark.fandom.com/wiki/Metal_Lamp)
+- [Metal Shelf](https://thelongdark.fandom.com/wiki/Metal_Shelf)
+- [Metal Table](https://thelongdark.fandom.com/wiki/Metal_Table)
+- [Pillow](https://thelongdark.fandom.com/wiki/Pillow)
+- [Table](https://thelongdark.fandom.com/wiki/Table)
+- [Vase](https://thelongdark.fandom.com/wiki/Vase)
+
+#### Decoration Overview
+
+> The wiki's overview of the Decorations backpack category and its broader catalogue of placeable objects.
+- [Decorations](https://thelongdark.fandom.com/wiki/Decorations)
 
 ## 4. Gameplay
 
-> Survival systems, afflictions, skills, activities, exploration, collectibles, and world objects.
+> This section covers the systems, mechanics, activities, and interactions that shape play. Portable inventory items belong under Items; fixed objects encountered in the environment belong under World Objects; challenges and achievements have their own top-level sections.
 
 ### Needs & Conditions
 
+> Core survivor needs and status measures, including hunger, thirst, fatigue, sleep, warmth, stamina, and overall condition. Item deterioration is not a survivor need or condition and is classified under Items → Item Attributes.
+
 - [Condition](https://thelongdark.fandom.com/wiki/Condition)
-- [Decay](https://thelongdark.fandom.com/wiki/Decay)
 - [Encumbrance](https://thelongdark.fandom.com/wiki/Encumbrance)
 - [Fatigue](https://thelongdark.fandom.com/wiki/Fatigue)
 - [Fatigue Reduced](https://thelongdark.fandom.com/wiki/Fatigue_Reduced)
@@ -1030,6 +1153,8 @@
 - [Well Fed](https://thelongdark.fandom.com/wiki/Well_Fed)
 
 ### Afflictions
+
+> Injuries, illnesses, and other harmful survivor states, including their risk stages and treatment-related effects.
 
 - [Afflictions](https://thelongdark.fandom.com/wiki/Afflictions)
 - [Cabin Fever](https://thelongdark.fandom.com/wiki/Cabin_Fever)
@@ -1054,6 +1179,8 @@
 
 ### Environmental Hazards
 
+> External conditions and environmental effects that create danger or change how the world can be traversed, such as weather, auroras, toxic environments, and weak ice.
+
 - [Aurora](https://thelongdark.fandom.com/wiki/Aurora)
 - [Chemical Hazard](https://thelongdark.fandom.com/wiki/Chemical_Hazard)
 - [Environmental Hazard](https://thelongdark.fandom.com/wiki/Environmental_Hazard)
@@ -1062,6 +1189,9 @@
 - [Weather](https://thelongdark.fandom.com/wiki/Weather)
 
 ### Skills
+
+> The primary skills shown in the in-game Journal are listed first in the Journal's displayed order. The Skills and Research Book overview pages follow as supporting references.
+
 - [Carcass Harvesting](https://thelongdark.fandom.com/wiki/Carcass_Harvesting)
 - [Cooking](https://thelongdark.fandom.com/wiki/Cooking)
 - [Fire Starting](https://thelongdark.fandom.com/wiki/Fire_Starting)
@@ -1076,11 +1206,15 @@
 
 ### Secondary Skills
 
+> Related skill and proficiency topics that are not part of the primary Skills list in the Journal.
+
 - [Cleaning](https://thelongdark.fandom.com/wiki/Cleaning)
 - [Repair](https://thelongdark.fandom.com/wiki/Repair)
 - [Sharpening](https://thelongdark.fandom.com/wiki/Sharpening)
 
 ### Survival Mechanics & Activities
+
+> General survival systems and repeatable activities that are not better classified as a primary skill, affliction, crafting process, or dedicated questline.
 
 - [Beachcombing](https://thelongdark.fandom.com/wiki/Beachcombing)
 - [Cheat Death](https://thelongdark.fandom.com/wiki/Cheat_Death)
@@ -1094,14 +1228,16 @@
 - [Snow Shelter](https://thelongdark.fandom.com/wiki/Snow_Shelter)
 - [Struggle](https://thelongdark.fandom.com/wiki/Struggle)
 - [Survivor Monologue](https://thelongdark.fandom.com/wiki/Survivor_Monologue)
-- [Trader](https://thelongdark.fandom.com/wiki/Trader)
 - [Trapping](https://thelongdark.fandom.com/wiki/Trapping)
 
 ### Crafting, Fire & Processing
 
+> Systems and stationary facilities used to craft, process, repair, or prepare items in the world.
+
 #### Workbenches
 
-> Stationary crafting workbenches and their dedicated forging equipment.
+> Stationary work areas and specialized crafting stations. These are interactable world facilities, not portable inventory tools.
+
 - [Ammunition Forge](https://thelongdark.fandom.com/wiki/Ammunition_Forge)
 - [Ammunition Work Bench](https://thelongdark.fandom.com/wiki/Ammunition_Work_Bench)
 - [Forge](https://thelongdark.fandom.com/wiki/Forge)
@@ -1110,6 +1246,8 @@
 - [Work Bench](https://thelongdark.fandom.com/wiki/Work_Bench)
 
 #### Other Crafting & Fire Systems
+
+> Fire sources, cooking facilities, and other processing systems that support crafting or survival activities but are not workbenches.
 
 - [Campfire](https://thelongdark.fandom.com/wiki/Campfire)
 - [Crafting](https://thelongdark.fandom.com/wiki/Crafting)
@@ -1122,9 +1260,9 @@
 - [Rim Grill](https://thelongdark.fandom.com/wiki/Rim_Grill)
 
 ### Collectibles
-> Additional story documents, cache clues, and Wintermute versions of Research Books are listed here as Collectibles.
 
-> Additional story documents, cache clues, and Wintermute versions of Research Books are listed here as Collectibles.
+> Documents, mementos, notes, photographs, recordings, and other discoverable collectibles. Story-specific versions of books and quest clues are kept here when their purpose is collection or narrative discovery.
+
 - [A Sewing Primer (The Basics of Survival)](https://thelongdark.fandom.com/wiki/A_Sewing_Primer_(The_Basics_of_Survival))
 - [Advanced Guns Guns Guns! (Survival School)](https://thelongdark.fandom.com/wiki/Advanced_Guns_Guns_Guns!_(Survival_School))
 - [Aurora Hatch Door Entry Code](https://thelongdark.fandom.com/wiki/Aurora_Hatch_Door_Entry_Code)
@@ -1182,14 +1320,14 @@
 
 ### Exploration & Caches
 
-> Cache systems, cache containers, and cache-focused story missions. Individual named cache locations remain under Locations.
+> Cache systems, stash mechanics, and cache-focused discoveries. Named physical cache locations remain under Locations, while Trader quest documents and quest objects are grouped under Trader Quests.
+
 - [Aurora Hatch](https://thelongdark.fandom.com/wiki/Aurora_Hatch)
 - [Blackrock Rumours](https://thelongdark.fandom.com/wiki/Blackrock_Rumours)
 - [Convict Caches](https://thelongdark.fandom.com/wiki/Convict_Caches)
 - [Forest Talker Supply Caches](https://thelongdark.fandom.com/wiki/Forest_Talker_Supply_Caches)
 - [Hank's Hatch](https://thelongdark.fandom.com/wiki/Hank's_Hatch)
 - [Hidden Cache](https://thelongdark.fandom.com/wiki/Hidden_Cache)
-- [Joplin's Bunker Raid](https://thelongdark.fandom.com/wiki/Joplin's_Bunker_Raid)
 - [Loose Bricks Stash](https://thelongdark.fandom.com/wiki/Loose_Bricks_Stash)
 - [Milton Supply Caches](https://thelongdark.fandom.com/wiki/Milton_Supply_Caches)
 - [Mystery Lake Supply Caches](https://thelongdark.fandom.com/wiki/Mystery_Lake_Supply_Caches)
@@ -1198,6 +1336,8 @@
 - [Supply Cache](https://thelongdark.fandom.com/wiki/Supply_Cache)
 
 ### World Objects
+
+> Fixed or stationary objects found in the environment, including containers, furniture, appliances, vehicles, and miscellaneous fixtures. These describe what the player encounters in the world; they are not portable inventory items or wearable gear.
 
 - [Bed](https://thelongdark.fandom.com/wiki/Bed)
 - [Car](https://thelongdark.fandom.com/wiki/Car)
@@ -1215,11 +1355,15 @@
 
 ### Safehouse Systems
 
+> Systems and reference pages for making interiors into Safehouses and customizing them. Individual decorative inventory items and craftable furniture are listed under Items → Decorations & Safehouse Items.
+
 - [Safehouse](https://thelongdark.fandom.com/wiki/Safehouse)
 - [Safehouse Customization](https://thelongdark.fandom.com/wiki/Safehouse_Customization)
 - [Safehouse Decoration Box](https://thelongdark.fandom.com/wiki/Safehouse_Decoration_Box)
 
 ### Carcasses & Remains
+
+> Animal remains as world entities that can be harvested or otherwise interacted with. The living animal species themselves are listed under Nature → Fauna.
 
 - [Black Bear Carcass](https://thelongdark.fandom.com/wiki/Black_Bear_Carcass)
 - [Cougar Carcass](https://thelongdark.fandom.com/wiki/Cougar_Carcass)
@@ -1231,7 +1375,28 @@
 - [Timberwolf Carcass](https://thelongdark.fandom.com/wiki/Timberwolf_Carcass)
 - [Wolf Carcass](https://thelongdark.fandom.com/wiki/Wolf_Carcass)
 
+### Trader Quests
+
+> Sutherland's Special Requests and their associated quest pages and quest-only items. This group keeps the Trader storyline together, including the Document Stashes and Broken Hatch Wheel.
+
+- [A Skeleton And Note](https://thelongdark.fandom.com/wiki/A_Skeleton_And_Note)
+- [Broken Hatch Wheel](https://thelongdark.fandom.com/wiki/Broken_Hatch_Wheel)
+- [Document Stash 1](https://thelongdark.fandom.com/wiki/Document_Stash_1)
+- [Document Stash 2](https://thelongdark.fandom.com/wiki/Document_Stash_2)
+- [Document Stash 3](https://thelongdark.fandom.com/wiki/Document_Stash_3)
+- [Document Stash 4](https://thelongdark.fandom.com/wiki/Document_Stash_4)
+- [Joplin's Bunker Raid](https://thelongdark.fandom.com/wiki/Joplin's_Bunker_Raid)
+- [Sutherland's Tale](https://thelongdark.fandom.com/wiki/Sutherland's_Tale)
+- [Trade Drop Box](https://thelongdark.fandom.com/wiki/Trade_Drop_Box)
+- [Trader](https://thelongdark.fandom.com/wiki/Trader)
+- [Wyatt's Lost Papers 1](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_1)
+- [Wyatt's Lost Papers 2](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_2)
+- [Wyatt's Lost Papers 3](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_3)
+- [Wyatt's Skeleton](https://thelongdark.fandom.com/wiki/Wyatt's_Skeleton)
+
 ### Modes & Interface
+
+> Game modes, menus, overlays, and interface-specific pages. This is retained as a reference group at the bottom of Gameplay.
 
 - [4 Days of Night Event](https://thelongdark.fandom.com/wiki/4_Days_of_Night_Event)
 - [Interloper](https://thelongdark.fandom.com/wiki/Interloper)
@@ -1245,7 +1410,8 @@
 
 ## 5. Challenges
 
-> The predefined in-game challenge list and its guides.
+> This section contains the game's standalone challenge modes and the pages that explain or document their objectives and completion.
+
 - [Almanac](https://thelongdark.fandom.com/wiki/Almanac)
 - [As the Dead Sleep](https://thelongdark.fandom.com/wiki/As_the_Dead_Sleep)
 - [Challenge](https://thelongdark.fandom.com/wiki/Challenge)
@@ -1258,7 +1424,8 @@
 
 ## 6. Achievements
 
-> Achievements and Feats are kept together as a dedicated top-level index.
+> Achievements, Feats, and related progress records are grouped here. These pages describe milestone-based goals rather than the moment-to-moment survival systems in Gameplay.
+
 - [Badges](https://thelongdark.fandom.com/wiki/Badges)
 - [Beneath a Starry Sky](https://thelongdark.fandom.com/wiki/Beneath_a_Starry_Sky)
 - [Big Cat Killer](https://thelongdark.fandom.com/wiki/Big_Cat_Killer)
@@ -1288,7 +1455,8 @@
 
 ## 7. DLC
 
-> **Secondary cross-index.** Entries are also listed in their primary group above when they are Locations, Items, Gameplay, Wildlife, or Archive pages. The direct Category:DLC Content membership is available; template-derived page-level assignments remain approximate and are not expanded here.
+> A cross-index of pages associated with downloadable content. A page listed here retains its primary home in Locations, Nature, Items, Gameplay, Challenges, Achievements, or Archive; this section does not replace those classifications.
+
 - [Aviator Cap](https://thelongdark.fandom.com/wiki/Aviator_Cap)
 - [Barb's Rifle](https://thelongdark.fandom.com/wiki/Barb's_Rifle)
 - [Broth](https://thelongdark.fandom.com/wiki/Broth)
@@ -1348,9 +1516,11 @@
 
 ## 8. Archive
 
-> Preserved but intentionally de-emphasized. Archive is a top-level group, not deletion.
+> Pages retained for historical, legacy, or story-reference purposes that are not part of the main navigational taxonomy. Archived pages remain linked and are not deleted.
 
 ### Characters
+
+> Character profiles and story figures retained as reference pages rather than as navigational gameplay systems.
 
 - [Astrid Greenwood](https://thelongdark.fandom.com/wiki/Astrid_Greenwood)
 - [Atwood](https://thelongdark.fandom.com/wiki/Atwood)
@@ -1378,6 +1548,8 @@
 
 ### Story and episodes
 
+> Story, episode, and narrative reference pages retained for completeness where they do not fit a current primary gameplay group.
+
 - [Blackrock Blues](https://thelongdark.fandom.com/wiki/Blackrock_Blues)
 - [Breyerhouse](https://thelongdark.fandom.com/wiki/Breyerhouse)
 - [Episode 1: Do Not Go Gentle](https://thelongdark.fandom.com/wiki/Episode_1%3A_Do_Not_Go_Gentle)
@@ -1396,6 +1568,8 @@
 
 ### Other retained reference
 
+> Legacy and miscellaneous reference pages preserved for historical context or future review.
+
 - [Hinterland Studio Inc.](https://thelongdark.fandom.com/wiki/Hinterland_Studio_Inc.)
 - [The Long Dark](https://thelongdark.fandom.com/wiki/The_Long_Dark)
 - [The Long Dark Original Soundtrack](https://thelongdark.fandom.com/wiki/The_Long_Dark_Original_Soundtrack)
@@ -1406,7 +1580,7 @@
 
 ## Needs review
 
-> 726 pages have no confirmed primary placement from the direct category report, or belong to source categories not yet mapped to the agreed taxonomy. These are retained here for manual review; they are not being discarded.
+> 660 pages have no confirmed primary placement from the direct category report, or belong to source categories not yet mapped to the agreed taxonomy. These are retained here for manual review; they are not being discarded.
 - [A Cry For Help](https://thelongdark.fandom.com/wiki/A_Cry_For_Help)
 - [A Handwritten Letter](https://thelongdark.fandom.com/wiki/A_Handwritten_Letter)
 - [A Handwritten Note](https://thelongdark.fandom.com/wiki/A_Handwritten_Note)
@@ -1414,7 +1588,6 @@
 - [A Page From A Journal](https://thelongdark.fandom.com/wiki/A_Page_From_A_Journal)
 - [A page from an old newsletter.](https://thelongdark.fandom.com/wiki/A_page_from_an_old_newsletter.)
 - [A Riddle Among the Shadows](https://thelongdark.fandom.com/wiki/A_Riddle_Among_the_Shadows)
-- [A Skeleton And Note](https://thelongdark.fandom.com/wiki/A_Skeleton_And_Note)
 - [Accelerant](https://thelongdark.fandom.com/wiki/Accelerant)
 - [Admin Office Key](https://thelongdark.fandom.com/wiki/Admin_Office_Key)
 - [Adrift](https://thelongdark.fandom.com/wiki/Adrift)
@@ -1441,11 +1614,7 @@
 - [Bank Vault Code](https://thelongdark.fandom.com/wiki/Bank_Vault_Code)
 - [Barrel](https://thelongdark.fandom.com/wiki/Barrel)
 - [Basement Key](https://thelongdark.fandom.com/wiki/Basement_Key)
-- [Basin](https://thelongdark.fandom.com/wiki/Basin)
-- [Bear Hide Bed](https://thelongdark.fandom.com/wiki/Bear_Hide_Bed)
-- [Bear Hide Rug](https://thelongdark.fandom.com/wiki/Bear_Hide_Rug)
 - [Bear Quarter](https://thelongdark.fandom.com/wiki/Bear_Quarter)
-- [Bench](https://thelongdark.fandom.com/wiki/Bench)
 - [Bending The Rail](https://thelongdark.fandom.com/wiki/Bending_The_Rail)
 - [Betrayal](https://thelongdark.fandom.com/wiki/Betrayal)
 - [Bin](https://thelongdark.fandom.com/wiki/Bin)
@@ -1479,13 +1648,11 @@
 - [Broken Body](https://thelongdark.fandom.com/wiki/Broken_Body)
 - [Broken Body (Achievement)](https://thelongdark.fandom.com/wiki/Broken_Body_(Achievement))
 - [Broken Bridge (disambiguation)](https://thelongdark.fandom.com/wiki/Broken_Bridge_(disambiguation))
-- [Broken Hatch Wheel](https://thelongdark.fandom.com/wiki/Broken_Hatch_Wheel)
 - [Broken Metal Bed Frame](https://thelongdark.fandom.com/wiki/Broken_Metal_Bed_Frame)
 - [Broken Metal Control Box](https://thelongdark.fandom.com/wiki/Broken_Metal_Control_Box)
 - [Broken Metal Door](https://thelongdark.fandom.com/wiki/Broken_Metal_Door)
 - [Broken Metal Light Fixture](https://thelongdark.fandom.com/wiki/Broken_Metal_Light_Fixture)
 - [Broken Ribs](https://thelongdark.fandom.com/wiki/Broken_Ribs)
-- [Broom](https://thelongdark.fandom.com/wiki/Broom)
 - [Building Blackrock](https://thelongdark.fandom.com/wiki/Building_Blackrock)
 - [Bullet](https://thelongdark.fandom.com/wiki/Bullet)
 - [Bunker Schematic Fragment 1](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_1)
@@ -1508,13 +1675,9 @@
 - [Carter Hydro Dam -- Safety & Shutdown Notice](https://thelongdark.fandom.com/wiki/Carter_Hydro_Dam_--_Safety_%26_Shutdown_Notice)
 - [Carter Hydro Dam (Collectible)](https://thelongdark.fandom.com/wiki/Carter_Hydro_Dam_(Collectible))
 - [Carter Hydro Staging Area Gate Key](https://thelongdark.fandom.com/wiki/Carter_Hydro_Staging_Area_Gate_Key)
-- [Carved Bear Figurine](https://thelongdark.fandom.com/wiki/Carved_Bear_Figurine)
-- [Carved Cougar Figurine](https://thelongdark.fandom.com/wiki/Carved_Cougar_Figurine)
-- [Carved Wolf Figurine](https://thelongdark.fandom.com/wiki/Carved_Wolf_Figurine)
 - [Cash](https://thelongdark.fandom.com/wiki/Cash)
 - [Cat Tail Head](https://thelongdark.fandom.com/wiki/Cat_Tail_Head)
 - [Cedar Limb](https://thelongdark.fandom.com/wiki/Cedar_Limb)
-- [Chair](https://thelongdark.fandom.com/wiki/Chair)
 - [Challenge Mastery](https://thelongdark.fandom.com/wiki/Challenge_Mastery)
 - [Characters](https://thelongdark.fandom.com/wiki/Characters)
 - [Charcoal Note](https://thelongdark.fandom.com/wiki/Charcoal_Note)
@@ -1527,7 +1690,6 @@
 - [Cloth (Object)](https://thelongdark.fandom.com/wiki/Cloth_(Object))
 - [Coal](https://thelongdark.fandom.com/wiki/Coal)
 - [Coal Bin](https://thelongdark.fandom.com/wiki/Coal_Bin)
-- [Coffee Table](https://thelongdark.fandom.com/wiki/Coffee_Table)
 - [Coming Storm](https://thelongdark.fandom.com/wiki/Coming_Storm)
 - [Coming Storm/Transcript](https://thelongdark.fandom.com/wiki/Coming_Storm/Transcript)
 - [Communication Report](https://thelongdark.fandom.com/wiki/Communication_Report)
@@ -1570,10 +1732,6 @@
 - [Dark Star](https://thelongdark.fandom.com/wiki/Dark_Star)
 - [Dead Prison Guard](https://thelongdark.fandom.com/wiki/Dead_Prison_Guard)
 - [Dead Wake](https://thelongdark.fandom.com/wiki/Dead_Wake)
-- [Decorations](https://thelongdark.fandom.com/wiki/Decorations)
-- [Decorative Art](https://thelongdark.fandom.com/wiki/Decorative_Art)
-- [Decorative Art (2)](https://thelongdark.fandom.com/wiki/Decorative_Art_(2))
-- [Decorative End Table](https://thelongdark.fandom.com/wiki/Decorative_End_Table)
 - [Deer Quarter](https://thelongdark.fandom.com/wiki/Deer_Quarter)
 - [Dehydrated](https://thelongdark.fandom.com/wiki/Dehydrated)
 - [Dehydration Risk](https://thelongdark.fandom.com/wiki/Dehydration_Risk)
@@ -1584,19 +1742,13 @@
 - [Diary Page (Darkwalker)](https://thelongdark.fandom.com/wiki/Diary_Page_(Darkwalker))
 - [Diminished Form](https://thelongdark.fandom.com/wiki/Diminished_Form)
 - [Diocese Report](https://thelongdark.fandom.com/wiki/Diocese_Report)
-- [Display Shelf](https://thelongdark.fandom.com/wiki/Display_Shelf)
 - [Distress Pistol Kit](https://thelongdark.fandom.com/wiki/Distress_Pistol_Kit)
-- [Document Stash 1](https://thelongdark.fandom.com/wiki/Document_Stash_1)
-- [Document Stash 2](https://thelongdark.fandom.com/wiki/Document_Stash_2)
-- [Document Stash 3](https://thelongdark.fandom.com/wiki/Document_Stash_3)
-- [Document Stash 4](https://thelongdark.fandom.com/wiki/Document_Stash_4)
 - [Don't Starve](https://thelongdark.fandom.com/wiki/Don't_Starve)
 - [Donner (mission)/Transcript](https://thelongdark.fandom.com/wiki/Donner_(mission)/Transcript)
 - [Door](https://thelongdark.fandom.com/wiki/Door)
 - [Dr Larsen's Clipboard](https://thelongdark.fandom.com/wiki/Dr_Larsen's_Clipboard)
 - [Dr. Rüdiger](https://thelongdark.fandom.com/wiki/Dr._R%C3%BCdiger)
 - [Drawer](https://thelongdark.fandom.com/wiki/Drawer)
-- [Dresser](https://thelongdark.fandom.com/wiki/Dresser)
 - [Dryer](https://thelongdark.fandom.com/wiki/Dryer)
 - [Dusting Sulfur](https://thelongdark.fandom.com/wiki/Dusting_Sulfur)
 - [Dusty Paper](https://thelongdark.fandom.com/wiki/Dusty_Paper)
@@ -1654,8 +1806,6 @@
 - [Forest Talker Supplies](https://thelongdark.fandom.com/wiki/Forest_Talker_Supplies)
 - [Forge Blueprints](https://thelongdark.fandom.com/wiki/Forge_Blueprints)
 - [Forge Blueprints (mission)](https://thelongdark.fandom.com/wiki/Forge_Blueprints_(mission))
-- [Framed Hockey Jersey](https://thelongdark.fandom.com/wiki/Framed_Hockey_Jersey)
-- [Framed Photo](https://thelongdark.fandom.com/wiki/Framed_Photo)
 - [Freezer](https://thelongdark.fandom.com/wiki/Freezer)
 - [Freight-Train of Hate & Hunger](https://thelongdark.fandom.com/wiki/Freight-Train_of_Hate_%26_Hunger)
 - [Fresh Black Bear Hide](https://thelongdark.fandom.com/wiki/Fresh_Black_Bear_Hide)
@@ -1694,8 +1844,6 @@
 - [He Lives](https://thelongdark.fandom.com/wiki/He_Lives)
 - [Headache](https://thelongdark.fandom.com/wiki/Headache)
 - [Helicopter](https://thelongdark.fandom.com/wiki/Helicopter)
-- [Hide Chair](https://thelongdark.fandom.com/wiki/Hide_Chair)
-- [Hide Couch](https://thelongdark.fandom.com/wiki/Hide_Couch)
 - [High Energy](https://thelongdark.fandom.com/wiki/High_Energy)
 - [Highway Robbery](https://thelongdark.fandom.com/wiki/Highway_Robbery)
 - [Highway Robbery (mission)](https://thelongdark.fandom.com/wiki/Highway_Robbery_(mission))
@@ -1792,14 +1940,10 @@
 - [Memo (Survival)](https://thelongdark.fandom.com/wiki/Memo_(Survival))
 - [Memories](https://thelongdark.fandom.com/wiki/Memories)
 - [Memories/Transcript](https://thelongdark.fandom.com/wiki/Memories/Transcript)
-- [Metal Chair](https://thelongdark.fandom.com/wiki/Metal_Chair)
 - [Metal Container](https://thelongdark.fandom.com/wiki/Metal_Container)
-- [Metal Lamp](https://thelongdark.fandom.com/wiki/Metal_Lamp)
 - [Metal Pail](https://thelongdark.fandom.com/wiki/Metal_Pail)
 - [Metal Pan](https://thelongdark.fandom.com/wiki/Metal_Pan)
 - [Metal Pot](https://thelongdark.fandom.com/wiki/Metal_Pot)
-- [Metal Shelf](https://thelongdark.fandom.com/wiki/Metal_Shelf)
-- [Metal Table](https://thelongdark.fandom.com/wiki/Metal_Table)
 - [Microwave](https://thelongdark.fandom.com/wiki/Microwave)
 - [Milton Credit Union Letter](https://thelongdark.fandom.com/wiki/Milton_Credit_Union_Letter)
 - [Milton Post Office Note](https://thelongdark.fandom.com/wiki/Milton_Post_Office_Note)
@@ -1814,14 +1958,6 @@
 - [Misery](https://thelongdark.fandom.com/wiki/Misery)
 - [Molly's Gift](https://thelongdark.fandom.com/wiki/Molly's_Gift)
 - [Moose Quarter](https://thelongdark.fandom.com/wiki/Moose_Quarter)
-- [Mounted Burbot](https://thelongdark.fandom.com/wiki/Mounted_Burbot)
-- [Mounted Coho Salmon](https://thelongdark.fandom.com/wiki/Mounted_Coho_Salmon)
-- [Mounted Goldeye](https://thelongdark.fandom.com/wiki/Mounted_Goldeye)
-- [Mounted Lake Whitefish](https://thelongdark.fandom.com/wiki/Mounted_Lake_Whitefish)
-- [Mounted Rainbow Trout](https://thelongdark.fandom.com/wiki/Mounted_Rainbow_Trout)
-- [Mounted Red Irish Lord](https://thelongdark.fandom.com/wiki/Mounted_Red_Irish_Lord)
-- [Mounted Rockfish](https://thelongdark.fandom.com/wiki/Mounted_Rockfish)
-- [Mounted Smallmouth Bass](https://thelongdark.fandom.com/wiki/Mounted_Smallmouth_Bass)
 - [My Testament](https://thelongdark.fandom.com/wiki/My_Testament)
 - [Mysterious Note](https://thelongdark.fandom.com/wiki/Mysterious_Note)
 - [Mystery Lake & Area](https://thelongdark.fandom.com/wiki/Mystery_Lake_%26_Area)
@@ -1880,7 +2016,6 @@
 - [Piece of Paper](https://thelongdark.fandom.com/wiki/Piece_of_Paper)
 - [Piece Of Paper](https://thelongdark.fandom.com/wiki/Piece_Of_Paper)
 - [Pilgrim](https://thelongdark.fandom.com/wiki/Pilgrim)
-- [Pillow](https://thelongdark.fandom.com/wiki/Pillow)
 - [Pinned Note](https://thelongdark.fandom.com/wiki/Pinned_Note)
 - [Plane Crash Injuries](https://thelongdark.fandom.com/wiki/Plane_Crash_Injuries)
 - [Plane Crashes](https://thelongdark.fandom.com/wiki/Plane_Crashes)
@@ -1902,7 +2037,6 @@
 - [Public Notice](https://thelongdark.fandom.com/wiki/Public_Notice)
 - [Quarantine](https://thelongdark.fandom.com/wiki/Quarantine)
 - [Quick Draw](https://thelongdark.fandom.com/wiki/Quick_Draw)
-- [Quilted Bed](https://thelongdark.fandom.com/wiki/Quilted_Bed)
 - [Ravaged Deer Remains](https://thelongdark.fandom.com/wiki/Ravaged_Deer_Remains)
 - [Realism](https://thelongdark.fandom.com/wiki/Realism)
 - [Receiver](https://thelongdark.fandom.com/wiki/Receiver)
@@ -1922,24 +2056,11 @@
 - [Roads](https://thelongdark.fandom.com/wiki/Roads)
 - [Rock Climb](https://thelongdark.fandom.com/wiki/Rock_Climb)
 - [Rosary](https://thelongdark.fandom.com/wiki/Rosary)
-- [Round Table](https://thelongdark.fandom.com/wiki/Round_Table)
 - [Rüdiger's Diary 1](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_1)
 - [Rüdiger's Diary 2](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_2)
 - [Rüdiger's Diary 3](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_3)
 - [Rüdiger's Dream](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Dream)
 - [Rüdiger's Watch](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Watch)
-- [Rustic Bed](https://thelongdark.fandom.com/wiki/Rustic_Bed)
-- [Rustic Bench](https://thelongdark.fandom.com/wiki/Rustic_Bench)
-- [Rustic Chair](https://thelongdark.fandom.com/wiki/Rustic_Chair)
-- [Rustic Closet](https://thelongdark.fandom.com/wiki/Rustic_Closet)
-- [Rustic Cupboard](https://thelongdark.fandom.com/wiki/Rustic_Cupboard)
-- [Rustic Display Shelf](https://thelongdark.fandom.com/wiki/Rustic_Display_Shelf)
-- [Rustic End Table](https://thelongdark.fandom.com/wiki/Rustic_End_Table)
-- [Rustic Shelf](https://thelongdark.fandom.com/wiki/Rustic_Shelf)
-- [Rustic Stool](https://thelongdark.fandom.com/wiki/Rustic_Stool)
-- [Rustic Storage Box](https://thelongdark.fandom.com/wiki/Rustic_Storage_Box)
-- [Rustic Storage Trunk](https://thelongdark.fandom.com/wiki/Rustic_Storage_Trunk)
-- [Rustic Table](https://thelongdark.fandom.com/wiki/Rustic_Table)
 - [Rusty Key](https://thelongdark.fandom.com/wiki/Rusty_Key)
 - [Salt Deposit](https://thelongdark.fandom.com/wiki/Salt_Deposit)
 - [Save Our Souls](https://thelongdark.fandom.com/wiki/Save_Our_Souls)
@@ -1972,7 +2093,6 @@
 - [Something Wicked](https://thelongdark.fandom.com/wiki/Something_Wicked)
 - [Song of the Earth](https://thelongdark.fandom.com/wiki/Song_of_the_Earth)
 - [Sour Stomach](https://thelongdark.fandom.com/wiki/Sour_Stomach)
-- [Square Table](https://thelongdark.fandom.com/wiki/Square_Table)
 - [Stack of Papers](https://thelongdark.fandom.com/wiki/Stack_of_Papers)
 - [Stained Paper](https://thelongdark.fandom.com/wiki/Stained_Paper)
 - [Stalker](https://thelongdark.fandom.com/wiki/Stalker)
@@ -1996,12 +2116,8 @@
 - [Survival School (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Survival_School_(Predux)/Transcript)
 - [Survive the Quiet Apocalypse](https://thelongdark.fandom.com/wiki/Survive_the_Quiet_Apocalypse)
 - [Sutherland's Note](https://thelongdark.fandom.com/wiki/Sutherland's_Note)
-- [Sutherland's Tale](https://thelongdark.fandom.com/wiki/Sutherland's_Tale)
 - [Switch Box](https://thelongdark.fandom.com/wiki/Switch_Box)
-- [Table](https://thelongdark.fandom.com/wiki/Table)
 - [Tackle Box](https://thelongdark.fandom.com/wiki/Tackle_Box)
-- [Tall Rustic Closet](https://thelongdark.fandom.com/wiki/Tall_Rustic_Closet)
-- [Tall Rustic Shelf](https://thelongdark.fandom.com/wiki/Tall_Rustic_Shelf)
 - [Tall Tales](https://thelongdark.fandom.com/wiki/Tall_Tales)
 - [Tall Tales (Achievement)](https://thelongdark.fandom.com/wiki/Tall_Tales_(Achievement))
 - [Tasting Menu](https://thelongdark.fandom.com/wiki/Tasting_Menu)
@@ -2063,7 +2179,6 @@
 - [Toxic Fog](https://thelongdark.fandom.com/wiki/Toxic_Fog)
 - [Track Switch](https://thelongdark.fandom.com/wiki/Track_Switch)
 - [Tractor](https://thelongdark.fandom.com/wiki/Tractor)
-- [Trade Drop Box](https://thelongdark.fandom.com/wiki/Trade_Drop_Box)
 - [Train Key](https://thelongdark.fandom.com/wiki/Train_Key)
 - [Train Lever](https://thelongdark.fandom.com/wiki/Train_Lever)
 - [Train Shuttle](https://thelongdark.fandom.com/wiki/Train_Shuttle)
@@ -2080,7 +2195,6 @@
 - [Urn](https://thelongdark.fandom.com/wiki/Urn)
 - [Utilities Bill](https://thelongdark.fandom.com/wiki/Utilities_Bill)
 - [Valve Socket Handle](https://thelongdark.fandom.com/wiki/Valve_Socket_Handle)
-- [Vase](https://thelongdark.fandom.com/wiki/Vase)
 - [Vegetable Rack](https://thelongdark.fandom.com/wiki/Vegetable_Rack)
 - [Vehicle](https://thelongdark.fandom.com/wiki/Vehicle)
 - [Voyageur](https://thelongdark.fandom.com/wiki/Voyageur)
@@ -2114,8 +2228,6 @@
 - [What One Man Can Do](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do)
 - [What One Man Can Do/Transcript](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do/Transcript)
 - [Wheel](https://thelongdark.fandom.com/wiki/Wheel)
-- [Wide Display Shelf](https://thelongdark.fandom.com/wiki/Wide_Display_Shelf)
-- [Wide Dresser](https://thelongdark.fandom.com/wiki/Wide_Dresser)
 - [Wild At Heart](https://thelongdark.fandom.com/wiki/Wild_At_Heart)
 - [Winter Forecast](https://thelongdark.fandom.com/wiki/Winter_Forecast)
 - [Wolf Quarter](https://thelongdark.fandom.com/wiki/Wolf_Quarter)
@@ -2126,10 +2238,6 @@
 - [Wood Stove](https://thelongdark.fandom.com/wiki/Wood_Stove)
 - [Work Order](https://thelongdark.fandom.com/wiki/Work_Order)
 - [Worn Logbook](https://thelongdark.fandom.com/wiki/Worn_Logbook)
-- [Wyatt's Lost Papers 1](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_1)
-- [Wyatt's Lost Papers 2](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_2)
-- [Wyatt's Lost Papers 3](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_3)
-- [Wyatt's Skeleton](https://thelongdark.fandom.com/wiki/Wyatt's_Skeleton)
 - [You Fix My Rifle?/Transcript](https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F/Transcript)
 - [You'll Be With Her Soon](https://thelongdark.fandom.com/wiki/You'll_Be_With_Her_Soon)
 - [Your Journey Begins](https://thelongdark.fandom.com/wiki/Your_Journey_Begins)
@@ -2142,3 +2250,10 @@
 - The template analyzer reports potential transcluded memberships, but does not yet provide a fully evaluated MediaWiki expansion. Those memberships are not used to guess primary placement here.
 - Page names are preserved exactly as in the source report. URL spaces are converted to underscores and special characters are URL-encoded.
 - Wiki article titles are never renamed in taxonomy links; categories and section headings may classify pages, but link labels preserve the exact wiki page title.
+
+- A Location is a named, discoverable point of interest; the in-game first-discovery message is “New location discovered.”
+- Fixed environmental objects and fixtures belong under Gameplay → World Objects; portable inventory gear belongs under Items.
+- Items in the Decorations inventory, and furniture crafted for Safehouses, belong under Items → Decorations & Safehouse Items. This is distinct from the wider set of fixed objects affected by Safehouse Customization.
+- Trader Special Request pages and their quest-only items belong under Gameplay → Trader Quests.
+- Item properties such as Decay belong under Items → Item Attributes, not under survivor Needs & Conditions.
+- Link labels always preserve the exact wiki article title. Taxonomy headings classify pages but never rename them.

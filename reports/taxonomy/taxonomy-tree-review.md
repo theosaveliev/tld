@@ -562,28 +562,24 @@
 - [Warm Cave](https://thelongdark.fandom.com/wiki/Warm_Cave)
 ## 2. Nature
 
-> Nature covers the living world of Great Bear Island and the Far Territory. Fauna contains animals and fish; Flora contains plants, trees, lichen, and mushrooms.
+> Flora and fauna of the Great Bear.
 
 ### Fauna
 
-> Animals and fish encountered in the world. This includes wildlife species, special story animals, and the fish species documented by the wiki.
+> Animals and fish encountered in the world.
 
 
 - [Bear](https://thelongdark.fandom.com/wiki/Bear)
-- [Bear Quarter](https://thelongdark.fandom.com/wiki/Bear_Quarter)
 - [Big Bass (Raw)](https://thelongdark.fandom.com/wiki/Big_Bass_(Raw))
 - [Burbot (Raw)](https://thelongdark.fandom.com/wiki/Burbot_(Raw))
 - [Coho Salmon (Raw)](https://thelongdark.fandom.com/wiki/Coho_Salmon_(Raw))
 - [Cougar](https://thelongdark.fandom.com/wiki/Cougar)
-- [Cougar Quarter](https://thelongdark.fandom.com/wiki/Cougar_Quarter)
 - [Crow](https://thelongdark.fandom.com/wiki/Crow)
 - [Deer](https://thelongdark.fandom.com/wiki/Deer)
-- [Deer Quarter](https://thelongdark.fandom.com/wiki/Deer_Quarter)
 - [Ghost Stag](https://thelongdark.fandom.com/wiki/Ghost_Stag)
 - [Goldeye (Raw)](https://thelongdark.fandom.com/wiki/Goldeye_(Raw))
 - [Lake Whitefish (Raw)](https://thelongdark.fandom.com/wiki/Lake_Whitefish_(Raw))
 - [Moose](https://thelongdark.fandom.com/wiki/Moose)
-- [Moose Quarter](https://thelongdark.fandom.com/wiki/Moose_Quarter)
 - [Old Bear](https://thelongdark.fandom.com/wiki/Old_Bear)
 - [Poisoned Wolf](https://thelongdark.fandom.com/wiki/Poisoned_Wolf)
 - [Ptarmigan](https://thelongdark.fandom.com/wiki/Ptarmigan)
@@ -595,10 +591,9 @@
 - [Timberwolf](https://thelongdark.fandom.com/wiki/Timberwolf)
 - [Wildlife](https://thelongdark.fandom.com/wiki/Wildlife)
 - [Wolf](https://thelongdark.fandom.com/wiki/Wolf)
-- [Wolf Quarter](https://thelongdark.fandom.com/wiki/Wolf_Quarter)
 ### Flora
 
-> Plants and other harvestable vegetation, including trees and saplings, shrubs, mushrooms, and lichen.
+> Plant and fungal life found across Great Bear, including trees, shrubs and grasses.
 
 - [Burdock](https://thelongdark.fandom.com/wiki/Burdock)
 - [Cat Tail](https://thelongdark.fandom.com/wiki/Cat_Tail)
@@ -747,6 +742,7 @@
 - [Animal Fat](https://thelongdark.fandom.com/wiki/Animal_Fat)
 - [Bear Meat (Cooked)](https://thelongdark.fandom.com/wiki/Bear_Meat_(Cooked))
 - [Bear Meat (Raw)](https://thelongdark.fandom.com/wiki/Bear_Meat_(Raw))
+- [Bear Quarter](https://thelongdark.fandom.com/wiki/Bear_Quarter)
 - [Beef Jerky](https://thelongdark.fandom.com/wiki/Beef_Jerky)
 - [Burbot (Cooked)](https://thelongdark.fandom.com/wiki/Burbot_(Cooked))
 - [Canned Corn](https://thelongdark.fandom.com/wiki/Canned_Corn)
@@ -762,8 +758,10 @@
 - [Cooked Potato](https://thelongdark.fandom.com/wiki/Cooked_Potato)
 - [Cougar Meat (Cooked)](https://thelongdark.fandom.com/wiki/Cougar_Meat_(Cooked))
 - [Cougar Meat (Raw)](https://thelongdark.fandom.com/wiki/Cougar_Meat_(Raw))
+- [Cougar Quarter](https://thelongdark.fandom.com/wiki/Cougar_Quarter)
 - [Cured Fish](https://thelongdark.fandom.com/wiki/Cured_Fish)
 - [Cured Meat](https://thelongdark.fandom.com/wiki/Cured_Meat)
+- [Deer Quarter](https://thelongdark.fandom.com/wiki/Deer_Quarter)
 - [Dog Food](https://thelongdark.fandom.com/wiki/Dog_Food)
 - [Dried Apples](https://thelongdark.fandom.com/wiki/Dried_Apples)
 - [Emergency Food](https://thelongdark.fandom.com/wiki/Emergency_Food)
@@ -776,6 +774,7 @@
 - [Military-Grade MRE](https://thelongdark.fandom.com/wiki/Military-Grade_MRE)
 - [Moose Meat (Cooked)](https://thelongdark.fandom.com/wiki/Moose_Meat_(Cooked))
 - [Moose Meat (Raw)](https://thelongdark.fandom.com/wiki/Moose_Meat_(Raw))
+- [Moose Quarter](https://thelongdark.fandom.com/wiki/Moose_Quarter)
 - [Peanut Butter](https://thelongdark.fandom.com/wiki/Peanut_Butter)
 - [Pickles](https://thelongdark.fandom.com/wiki/Pickles)
 - [Pinnacle Peaches](https://thelongdark.fandom.com/wiki/Pinnacle_Peaches)
@@ -796,6 +795,7 @@
 - [Venison (Raw)](https://thelongdark.fandom.com/wiki/Venison_(Raw))
 - [Wolf Meat (Cooked)](https://thelongdark.fandom.com/wiki/Wolf_Meat_(Cooked))
 - [Wolf Meat (Raw)](https://thelongdark.fandom.com/wiki/Wolf_Meat_(Raw))
+- [Wolf Quarter](https://thelongdark.fandom.com/wiki/Wolf_Quarter)
 #### Drinks
 
 > Beverages and potable or unsafe water that can be consumed by the survivor.

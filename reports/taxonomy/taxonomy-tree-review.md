@@ -546,11 +546,10 @@
 - [Repair Depot](https://thelongdark.fandom.com/wiki/Repair_Depot)
 - [Warm Cave](https://thelongdark.fandom.com/wiki/Warm_Cave)
 
-
-
 ## 2. Wildlife
 
-> Animal species and practical species guides. The source Fish category is included here as requested; raw/cooked fish pages remain linked as part of the source classification.
+### Fauna
+
 - [Bear](https://thelongdark.fandom.com/wiki/Bear)
 - [Big Bass (Raw)](https://thelongdark.fandom.com/wiki/Big_Bass_(Raw))
 - [Burbot (Raw)](https://thelongdark.fandom.com/wiki/Burbot_(Raw))
@@ -574,30 +573,31 @@
 - [Wildlife](https://thelongdark.fandom.com/wiki/Wildlife)
 - [Wolf](https://thelongdark.fandom.com/wiki/Wolf)
 
-## 3. Flora
+### Flora
 
-> Plant and fungi pages. Flora is a separate top-level subject group.
 - [Burdock](https://thelongdark.fandom.com/wiki/Burdock)
 - [Cat Tail](https://thelongdark.fandom.com/wiki/Cat_Tail)
 - [Green Birch Sapling](https://thelongdark.fandom.com/wiki/Green_Birch_Sapling)
 - [Green Maple Sapling](https://thelongdark.fandom.com/wiki/Green_Maple_Sapling)
+- [Oak Tree](https://thelongdark.fandom.com/wiki/Oak_Tree)
 - [Old Man's Beard Lichen](https://thelongdark.fandom.com/wiki/Old_Man's_Beard_Lichen)
 - [Reishi Mushroom](https://thelongdark.fandom.com/wiki/Reishi_Mushroom)
 - [Rose Hip](https://thelongdark.fandom.com/wiki/Rose_Hip)
+- [Scrub Brush](https://thelongdark.fandom.com/wiki/Scrub_Brush)
 
 ## 4. Items
 
 > Flat list. Source subcategories such as Tools, Materials, Food and Drink, and the DLC-specific item names are not reproduced as nested folders.
+- [Birch Bark](https://thelongdark.fandom.com/wiki/Birch_Bark)
 - [Acorn Grounds](https://thelongdark.fandom.com/wiki/Acorn_Grounds)
 - [Acorns](https://thelongdark.fandom.com/wiki/Acorns)
+- [Burdock Root](https://thelongdark.fandom.com/wiki/Burdock_Root)
 - [Arrow Shaft](https://thelongdark.fandom.com/wiki/Arrow_Shaft)
 - [Arrowhead](https://thelongdark.fandom.com/wiki/Arrowhead)
 - [Aviator Cap](https://thelongdark.fandom.com/wiki/Aviator_Cap)
 - [Barb's Rifle](https://thelongdark.fandom.com/wiki/Barb's_Rifle)
-- [Birch Bark](https://thelongdark.fandom.com/wiki/Birch_Bark)
 - [Birch Bark Tea](https://thelongdark.fandom.com/wiki/Birch_Bark_Tea)
 - [Broth](https://thelongdark.fandom.com/wiki/Broth)
-- [Burdock Root](https://thelongdark.fandom.com/wiki/Burdock_Root)
 - [Burdock Tea](https://thelongdark.fandom.com/wiki/Burdock_Tea)
 - [Caffeine Pills](https://thelongdark.fandom.com/wiki/Caffeine_Pills)
 - [Canned Corn](https://thelongdark.fandom.com/wiki/Canned_Corn)
@@ -752,7 +752,6 @@
 - [Mountain Goating](https://thelongdark.fandom.com/wiki/Mountain_Goating)
 - [Needs](https://thelongdark.fandom.com/wiki/Needs) — display this entry point as **Gameplay**
 - [Notes](https://thelongdark.fandom.com/wiki/Notes)
-- [Oak Tree](https://thelongdark.fandom.com/wiki/Oak_Tree)
 - [Polaroids](https://thelongdark.fandom.com/wiki/Polaroids)
 - [Rabbitskin Hat](https://thelongdark.fandom.com/wiki/Rabbitskin_Hat)
 - [Rabbitskin Mitts](https://thelongdark.fandom.com/wiki/Rabbitskin_Mitts)
@@ -1754,7 +1753,6 @@
 - [Save Our Souls](https://thelongdark.fandom.com/wiki/Save_Our_Souls)
 - [Scrap Lead](https://thelongdark.fandom.com/wiki/Scrap_Lead)
 - [Scrap Metal Shard](https://thelongdark.fandom.com/wiki/Scrap_Metal_Shard)
-- [Scrub Brush](https://thelongdark.fandom.com/wiki/Scrub_Brush)
 - [Scurvy](https://thelongdark.fandom.com/wiki/Scurvy)
 - [Scurvy Risk](https://thelongdark.fandom.com/wiki/Scurvy_Risk)
 - [Sea Charts](https://thelongdark.fandom.com/wiki/Sea_Charts)

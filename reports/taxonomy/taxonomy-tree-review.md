@@ -817,9 +817,6 @@
 - [Salt (Bag)](https://thelongdark.fandom.com/wiki/Salt_(Bag))
 - [Tin of Coffee](https://thelongdark.fandom.com/wiki/Tin_of_Coffee)
 
-#### Medicinal Consumables
-
-
 #### Seasonal & Wintermute Foods
 
 - [Big Bass (Cooked)](https://thelongdark.fandom.com/wiki/Big_Bass_(Cooked))
@@ -862,19 +859,49 @@
 
 ### Weapons & Ammunition
 
-- [Arrow Shaft](https://thelongdark.fandom.com/wiki/Arrow_Shaft)
-- [Arrowhead](https://thelongdark.fandom.com/wiki/Arrowhead)
+#### Firearms
+
 - [Barb's Rifle](https://thelongdark.fandom.com/wiki/Barb's_Rifle)
+- [Bunker Rifle](https://thelongdark.fandom.com/wiki/Bunker_Rifle)
 - [Curator's Rifle](https://thelongdark.fandom.com/wiki/Curator's_Rifle)
+- [Distress Pistol](https://thelongdark.fandom.com/wiki/Distress_Pistol)
 - [Forester's Revolver](https://thelongdark.fandom.com/wiki/Forester's_Revolver)
 - [Hunter's Revolver](https://thelongdark.fandom.com/wiki/Hunter's_Revolver)
-- [Revolver Ammunition](https://thelongdark.fandom.com/wiki/Revolver_Ammunition)
-- [Rifle Ammunition](https://thelongdark.fandom.com/wiki/Rifle_Ammunition)
-- [Sport Bow](https://thelongdark.fandom.com/wiki/Sport_Bow)
-- [Survival Bow](https://thelongdark.fandom.com/wiki/Survival_Bow)
+- [Hunting Rifle](https://thelongdark.fandom.com/wiki/Hunting_Rifle)
+- [Revolver](https://thelongdark.fandom.com/wiki/Revolver)
+- [Shotgun](https://thelongdark.fandom.com/wiki/Shotgun)
 - [Vaughn's Rifle](https://thelongdark.fandom.com/wiki/Vaughn's_Rifle)
 - [Warden's Revolver](https://thelongdark.fandom.com/wiki/Warden's_Revolver)
+
+#### Bows & Arrows
+
+- [Arrow Shaft](https://thelongdark.fandom.com/wiki/Arrow_Shaft)
+- [Arrowhead](https://thelongdark.fandom.com/wiki/Arrowhead)
+- [Broken Arrow](https://thelongdark.fandom.com/wiki/Broken_Arrow)
+- [Broken Fire Hardened Arrow](https://thelongdark.fandom.com/wiki/Broken_Fire_Hardened_Arrow)
+- [Broken Manufactured Arrow](https://thelongdark.fandom.com/wiki/Broken_Manufactured_Arrow)
+- [Bushcraft Bow](https://thelongdark.fandom.com/wiki/Bushcraft_Bow)
+- [Fire Hardened Arrow](https://thelongdark.fandom.com/wiki/Fire_Hardened_Arrow)
+- [Manufactured Arrow](https://thelongdark.fandom.com/wiki/Manufactured_Arrow)
+- [Simple Arrow](https://thelongdark.fandom.com/wiki/Simple_Arrow)
+- [Sport Bow](https://thelongdark.fandom.com/wiki/Sport_Bow)
+- [Survival Bow](https://thelongdark.fandom.com/wiki/Survival_Bow)
 - [Woodwright's Bow](https://thelongdark.fandom.com/wiki/Woodwright's_Bow)
+
+#### Other Weapons
+
+- [Bear Spear](https://thelongdark.fandom.com/wiki/Bear_Spear)
+- [Broken Bear Spear](https://thelongdark.fandom.com/wiki/Broken_Bear_Spear)
+- [Noisemaker](https://thelongdark.fandom.com/wiki/Noisemaker)
+- [Spear Head](https://thelongdark.fandom.com/wiki/Spear_Head)
+- [Stone](https://thelongdark.fandom.com/wiki/Stone)
+
+#### Ammunition
+
+- [Flare Shell](https://thelongdark.fandom.com/wiki/Flare_Shell)
+- [Revolver Ammunition](https://thelongdark.fandom.com/wiki/Revolver_Ammunition)
+- [Rifle Ammunition](https://thelongdark.fandom.com/wiki/Rifle_Ammunition)
+- [Shotgun Ammunition](https://thelongdark.fandom.com/wiki/Shotgun_Ammunition)
 
 ### Tools & Equipment
 
@@ -919,10 +946,6 @@
 - [Replacement Fuse](https://thelongdark.fandom.com/wiki/Replacement_Fuse)
 - [Scrap Metal](https://thelongdark.fandom.com/wiki/Scrap_Metal)
 - [Wires](https://thelongdark.fandom.com/wiki/Wires)
-
-### Decorations & Safehouse Items
-
-> Dedicated decoration and safehouse-customisation pages remain in Needs review pending a separate placement pass.
 
 ## 5. Gameplay
 
@@ -1175,7 +1198,7 @@
 
 ## Needs review
 
-> 893 pages have no confirmed primary placement from the direct category report, or belong to source categories not yet mapped to the agreed taxonomy. These are retained here for manual review; they are not being discarded.
+> 874 pages have no confirmed primary placement from the direct category report, or belong to source categories not yet mapped to the agreed taxonomy. These are retained here for manual review; they are not being discarded.
 - [A Cry For Help](https://thelongdark.fandom.com/wiki/A_Cry_For_Help)
 - [A Handwritten Letter](https://thelongdark.fandom.com/wiki/A_Handwritten_Letter)
 - [A Handwritten Note](https://thelongdark.fandom.com/wiki/A_Handwritten_Note)
@@ -1223,7 +1246,6 @@
 - [Bear Hide Bed](https://thelongdark.fandom.com/wiki/Bear_Hide_Bed)
 - [Bear Hide Rug](https://thelongdark.fandom.com/wiki/Bear_Hide_Rug)
 - [Bear Quarter](https://thelongdark.fandom.com/wiki/Bear_Quarter)
-- [Bear Spear](https://thelongdark.fandom.com/wiki/Bear_Spear)
 - [Bench](https://thelongdark.fandom.com/wiki/Bench)
 - [Bending The Rail](https://thelongdark.fandom.com/wiki/Bending_The_Rail)
 - [Betrayal](https://thelongdark.fandom.com/wiki/Betrayal)
@@ -1260,14 +1282,10 @@
 - [Brass Key (2)](https://thelongdark.fandom.com/wiki/Brass_Key_(2))
 - [Breyerhouse Crew Winter Warning](https://thelongdark.fandom.com/wiki/Breyerhouse_Crew_Winter_Warning)
 - [Briefcase](https://thelongdark.fandom.com/wiki/Briefcase)
-- [Broken Arrow](https://thelongdark.fandom.com/wiki/Broken_Arrow)
-- [Broken Bear Spear](https://thelongdark.fandom.com/wiki/Broken_Bear_Spear)
 - [Broken Body](https://thelongdark.fandom.com/wiki/Broken_Body)
 - [Broken Body (Achievement)](https://thelongdark.fandom.com/wiki/Broken_Body_(Achievement))
 - [Broken Bridge (disambiguation)](https://thelongdark.fandom.com/wiki/Broken_Bridge_(disambiguation))
-- [Broken Fire Hardened Arrow](https://thelongdark.fandom.com/wiki/Broken_Fire_Hardened_Arrow)
 - [Broken Hatch Wheel](https://thelongdark.fandom.com/wiki/Broken_Hatch_Wheel)
-- [Broken Manufactured Arrow](https://thelongdark.fandom.com/wiki/Broken_Manufactured_Arrow)
 - [Broken Metal Bed Frame](https://thelongdark.fandom.com/wiki/Broken_Metal_Bed_Frame)
 - [Broken Metal Control Box](https://thelongdark.fandom.com/wiki/Broken_Metal_Control_Box)
 - [Broken Metal Door](https://thelongdark.fandom.com/wiki/Broken_Metal_Door)
@@ -1276,7 +1294,6 @@
 - [Broom](https://thelongdark.fandom.com/wiki/Broom)
 - [Building Blackrock](https://thelongdark.fandom.com/wiki/Building_Blackrock)
 - [Bullet](https://thelongdark.fandom.com/wiki/Bullet)
-- [Bunker Rifle](https://thelongdark.fandom.com/wiki/Bunker_Rifle)
 - [Bunker Schematic Fragment 1](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_1)
 - [Bunker Schematic Fragment 2](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_2)
 - [Bunker Schematic Fragment 3](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_3)
@@ -1284,7 +1301,6 @@
 - [Burned Out Fuse](https://thelongdark.fandom.com/wiki/Burned_Out_Fuse)
 - [Burns](https://thelongdark.fandom.com/wiki/Burns)
 - [Bus](https://thelongdark.fandom.com/wiki/Bus)
-- [Bushcraft Bow](https://thelongdark.fandom.com/wiki/Bushcraft_Bow)
 - [Bushcraft Bow Blueprint Card](https://thelongdark.fandom.com/wiki/Bushcraft_Bow_Blueprint_Card)
 - [Cabin Fever](https://thelongdark.fandom.com/wiki/Cabin_Fever)
 - [Cabin Fever Risk](https://thelongdark.fandom.com/wiki/Cabin_Fever_Risk)
@@ -1394,7 +1410,6 @@
 - [Diminished Form](https://thelongdark.fandom.com/wiki/Diminished_Form)
 - [Diocese Report](https://thelongdark.fandom.com/wiki/Diocese_Report)
 - [Display Shelf](https://thelongdark.fandom.com/wiki/Display_Shelf)
-- [Distress Pistol](https://thelongdark.fandom.com/wiki/Distress_Pistol)
 - [Distress Pistol Kit](https://thelongdark.fandom.com/wiki/Distress_Pistol_Kit)
 - [Document Stash 1](https://thelongdark.fandom.com/wiki/Document_Stash_1)
 - [Document Stash 2](https://thelongdark.fandom.com/wiki/Document_Stash_2)
@@ -1444,7 +1459,6 @@
 - [Field Dressing Your Kill, Vol. I (The Basics of Survival)](https://thelongdark.fandom.com/wiki/Field_Dressing_Your_Kill%2C_Vol._I_(The_Basics_of_Survival))
 - [Finely Tuned](https://thelongdark.fandom.com/wiki/Finely_Tuned)
 - [Fir Limb](https://thelongdark.fandom.com/wiki/Fir_Limb)
-- [Fire Hardened Arrow](https://thelongdark.fandom.com/wiki/Fire_Hardened_Arrow)
 - [Fire Starting](https://thelongdark.fandom.com/wiki/Fire_Starting)
 - [Firearm Cleaning Kit](https://thelongdark.fandom.com/wiki/Firearm_Cleaning_Kit)
 - [Firelog](https://thelongdark.fandom.com/wiki/Firelog)
@@ -1456,7 +1470,6 @@
 - [Fishing Bait](https://thelongdark.fandom.com/wiki/Fishing_Bait)
 - [Fishing Lure (disambiguation)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(disambiguation))
 - [Flare](https://thelongdark.fandom.com/wiki/Flare)
-- [Flare Shell](https://thelongdark.fandom.com/wiki/Flare_Shell)
 - [Food Poisoning](https://thelongdark.fandom.com/wiki/Food_Poisoning)
 - [Foraging](https://thelongdark.fandom.com/wiki/Foraging)
 - [Foreman's Key](https://thelongdark.fandom.com/wiki/Foreman's_Key)
@@ -1553,7 +1566,6 @@
 - [Hunter's Blind (disambiguation)](https://thelongdark.fandom.com/wiki/Hunter's_Blind_(disambiguation))
 - [Hunter's Blinds](https://thelongdark.fandom.com/wiki/Hunter's_Blinds)
 - [Hunting Lodge Rifle](https://thelongdark.fandom.com/wiki/Hunting_Lodge_Rifle)
-- [Hunting Rifle](https://thelongdark.fandom.com/wiki/Hunting_Rifle)
 - [Hymnal](https://thelongdark.fandom.com/wiki/Hymnal)
 - [Hyperglycemic Risk](https://thelongdark.fandom.com/wiki/Hyperglycemic_Risk)
 - [Hypothermia](https://thelongdark.fandom.com/wiki/Hypothermia)
@@ -1646,7 +1658,6 @@
 - [Magnifying Lens](https://thelongdark.fandom.com/wiki/Magnifying_Lens)
 - [Mailbox](https://thelongdark.fandom.com/wiki/Mailbox)
 - [Major Bruising](https://thelongdark.fandom.com/wiki/Major_Bruising)
-- [Manufactured Arrow](https://thelongdark.fandom.com/wiki/Manufactured_Arrow)
 - [Map (Church)](https://thelongdark.fandom.com/wiki/Map_(Church))
 - [Map (Train)](https://thelongdark.fandom.com/wiki/Map_(Train))
 - [Map of Pleasant Valley](https://thelongdark.fandom.com/wiki/Map_of_Pleasant_Valley)
@@ -1717,7 +1728,6 @@
 - [Newsprint](https://thelongdark.fandom.com/wiki/Newsprint)
 - [Newsprint Roll](https://thelongdark.fandom.com/wiki/Newsprint_Roll)
 - [No Half-Measures](https://thelongdark.fandom.com/wiki/No_Half-Measures)
-- [Noisemaker](https://thelongdark.fandom.com/wiki/Noisemaker)
 - [Note](https://thelongdark.fandom.com/wiki/Note)
 - [Note (EP4)](https://thelongdark.fandom.com/wiki/Note_(EP4))
 - [Note (Forsaken Airfield)](https://thelongdark.fandom.com/wiki/Note_(Forsaken_Airfield))
@@ -1811,7 +1821,6 @@
 - [Research Book](https://thelongdark.fandom.com/wiki/Research_Book)
 - [Resolute Outfitter](https://thelongdark.fandom.com/wiki/Resolute_Outfitter)
 - [Restore Condition](https://thelongdark.fandom.com/wiki/Restore_Condition)
-- [Revolver](https://thelongdark.fandom.com/wiki/Revolver)
 - [Revolver Firearm](https://thelongdark.fandom.com/wiki/Revolver_Firearm)
 - [Revolver Shell Casing](https://thelongdark.fandom.com/wiki/Revolver_Shell_Casing)
 - [Rheumatic Joints](https://thelongdark.fandom.com/wiki/Rheumatic_Joints)
@@ -1865,13 +1874,10 @@
 - [Sharpening](https://thelongdark.fandom.com/wiki/Sharpening)
 - [Shelf](https://thelongdark.fandom.com/wiki/Shelf)
 - [Shopping List](https://thelongdark.fandom.com/wiki/Shopping_List)
-- [Shotgun](https://thelongdark.fandom.com/wiki/Shotgun)
-- [Shotgun Ammunition](https://thelongdark.fandom.com/wiki/Shotgun_Ammunition)
 - [Shotgun Shell Casing](https://thelongdark.fandom.com/wiki/Shotgun_Shell_Casing)
 - [Shutterbug](https://thelongdark.fandom.com/wiki/Shutterbug)
 - [Signal to Noise](https://thelongdark.fandom.com/wiki/Signal_to_Noise)
 - [Signal to Noise/Transcript](https://thelongdark.fandom.com/wiki/Signal_to_Noise/Transcript)
-- [Simple Arrow](https://thelongdark.fandom.com/wiki/Simple_Arrow)
 - [Simple Note](https://thelongdark.fandom.com/wiki/Simple_Note)
 - [Skilled Survivor](https://thelongdark.fandom.com/wiki/Skilled_Survivor)
 - [Small Arms Handbook](https://thelongdark.fandom.com/wiki/Small_Arms_Handbook)
@@ -1884,7 +1890,6 @@
 - [Song of the Earth](https://thelongdark.fandom.com/wiki/Song_of_the_Earth)
 - [Sounds Like Some Kind of Indie Band](https://thelongdark.fandom.com/wiki/Sounds_Like_Some_Kind_of_Indie_Band)
 - [Sour Stomach](https://thelongdark.fandom.com/wiki/Sour_Stomach)
-- [Spear Head](https://thelongdark.fandom.com/wiki/Spear_Head)
 - [Sprain Risk](https://thelongdark.fandom.com/wiki/Sprain_Risk)
 - [Sprained Ankle](https://thelongdark.fandom.com/wiki/Sprained_Ankle)
 - [Sprained Wrist](https://thelongdark.fandom.com/wiki/Sprained_Wrist)
@@ -1896,7 +1901,6 @@
 - [Stay on Target](https://thelongdark.fandom.com/wiki/Stay_on_Target)
 - [Steam Train](https://thelongdark.fandom.com/wiki/Steam_Train)
 - [Stick](https://thelongdark.fandom.com/wiki/Stick)
-- [Stone](https://thelongdark.fandom.com/wiki/Stone)
 - [Stone-Age Sniper](https://thelongdark.fandom.com/wiki/Stone-Age_Sniper)
 - [Storage Cupboard](https://thelongdark.fandom.com/wiki/Storage_Cupboard)
 - [Stored Water](https://thelongdark.fandom.com/wiki/Stored_Water)

@@ -723,6 +723,7 @@
 
 ### Backpack
 
+- [Canister](https://thelongdark.fandom.com/wiki/Canister)
 - [Respirator](https://thelongdark.fandom.com/wiki/Respirator)
 
 ### Climbing Aids
@@ -871,7 +872,7 @@
 
 ## 5. First Aid & Medicine
 
-> Items used to prevent, treat, or recover from injuries, afflictions, and other medical effects. The First Aid overview page is included here with the medical inventory references.
+> Items used to prevent, treat, or recover from injuries, afflictions, and other medical effects.
 
 - [First Aid](https://thelongdark.fandom.com/wiki/First_Aid)
 
@@ -912,11 +913,6 @@
 - [Reishi Tea](https://thelongdark.fandom.com/wiki/Reishi_Tea)
 - [Rose Hip Tea](https://thelongdark.fandom.com/wiki/Rose_Hip_Tea)
 
-### Equipment
-
-> Equipment used to protect the survivor from environmental hazards or support First Aid use.
-
-- [Canister](https://thelongdark.fandom.com/wiki/Canister)
 
 ## 6. Weapons & Ammunition
 

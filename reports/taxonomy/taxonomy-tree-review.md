@@ -5,7 +5,6 @@
 > A Location is a named place in the game world. When the player discovers one, the game displays the message “New location discovered: [location name]”.
 
 ### Regions
-
 > A Region is a large, explorable area of the game world containing multiple Locations.
 
 - [Anna Island -- Track Section 1](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_1)
@@ -17,7 +16,6 @@
 - [Ash Canyon](https://thelongdark.fandom.com/wiki/Ash_Canyon)
 - [Blackrock](https://thelongdark.fandom.com/wiki/Blackrock)
 - [Blackrock Foothills](https://thelongdark.fandom.com/wiki/Blackrock_Foothills)
-- [Blackrock Foothills Map](https://thelongdark.fandom.com/wiki/Blackrock_Foothills_Map)
 - [Bleak Inlet](https://thelongdark.fandom.com/wiki/Bleak_Inlet)
 - [Broken Railroad](https://thelongdark.fandom.com/wiki/Broken_Railroad)
 - [Cauldron Island](https://thelongdark.fandom.com/wiki/Cauldron_Island)
@@ -33,31 +31,24 @@
 - [Hushed River Valley](https://thelongdark.fandom.com/wiki/Hushed_River_Valley)
 - [Keeper's Pass North](https://thelongdark.fandom.com/wiki/Keeper's_Pass_North)
 - [Keeper's Pass South](https://thelongdark.fandom.com/wiki/Keeper's_Pass_South)
-- [Mountain Pass](https://thelongdark.fandom.com/wiki/Mountain_Pass)
 - [Mountain Town](https://thelongdark.fandom.com/wiki/Mountain_Town)
 - [Mystery Lake (region)](https://thelongdark.fandom.com/wiki/Mystery_Lake_(region))
-- [Mystery Lake & Area](https://thelongdark.fandom.com/wiki/Mystery_Lake_%26_Area)
 - [Perseverance Mills](https://thelongdark.fandom.com/wiki/Perseverance_Mills)
 - [Perseverance Wilds](https://thelongdark.fandom.com/wiki/Perseverance_Wilds)
 - [Pleasant Valley](https://thelongdark.fandom.com/wiki/Pleasant_Valley)
 - [Port Remnant](https://thelongdark.fandom.com/wiki/Port_Remnant)
 - [Precarious Causeway](https://thelongdark.fandom.com/wiki/Precarious_Causeway)
 - [Railway](https://thelongdark.fandom.com/wiki/Railway)
-- [Region](https://thelongdark.fandom.com/wiki/Region)
-- [Roads](https://thelongdark.fandom.com/wiki/Roads)
 - [Rocky Thoroughfare](https://thelongdark.fandom.com/wiki/Rocky_Thoroughfare)
 - [Shattered Marsh](https://thelongdark.fandom.com/wiki/Shattered_Marsh)
 - [Sundered Pass](https://thelongdark.fandom.com/wiki/Sundered_Pass)
 - [Suzuki Environs](https://thelongdark.fandom.com/wiki/Suzuki_Environs)
 - [Suzuki Geothermal Region](https://thelongdark.fandom.com/wiki/Suzuki_Geothermal_Region)
-- [Suzuki Radio Telescope](https://thelongdark.fandom.com/wiki/Suzuki_Radio_Telescope)
 - [The Ravine](https://thelongdark.fandom.com/wiki/The_Ravine)
 - [Timberwolf Mountain](https://thelongdark.fandom.com/wiki/Timberwolf_Mountain)
-- [Trans-Island Railway Line](https://thelongdark.fandom.com/wiki/Trans-Island_Railway_Line)
 - [Transfer Pass](https://thelongdark.fandom.com/wiki/Transfer_Pass)
 - [Winding River](https://thelongdark.fandom.com/wiki/Winding_River)
 - [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination)
-
 ### Places in Anna Island -- Track Section 1
 
 - [Bridge](https://thelongdark.fandom.com/wiki/Bridge)
@@ -182,7 +173,6 @@
 
 - [Abandoned Lookout](https://thelongdark.fandom.com/wiki/Abandoned_Lookout)
 - [Bear Creek Campground](https://thelongdark.fandom.com/wiki/Bear_Creek_Campground)
-- [Cinder Hills Coal Mine](https://thelongdark.fandom.com/wiki/Cinder_Hills_Coal_Mine)
 - [Coastal House](https://thelongdark.fandom.com/wiki/Coastal_House)
 - [Coastal Townsite](https://thelongdark.fandom.com/wiki/Coastal_Townsite)
 - [Commuter's Lament](https://thelongdark.fandom.com/wiki/Commuter's_Lament)
@@ -190,7 +180,6 @@
 - [Jackrabbit Island](https://thelongdark.fandom.com/wiki/Jackrabbit_Island)
 - [Log Sort](https://thelongdark.fandom.com/wiki/Log_Sort)
 - [Misanthrope's Homestead](https://thelongdark.fandom.com/wiki/Misanthrope's_Homestead)
-- [No. 3 Coal Mine](https://thelongdark.fandom.com/wiki/No._3_Coal_Mine)
 - [Quonset Garage](https://thelongdark.fandom.com/wiki/Quonset_Garage)
 - [Rabbit Grove](https://thelongdark.fandom.com/wiki/Rabbit_Grove)
 - [Rockfall](https://thelongdark.fandom.com/wiki/Rockfall)
@@ -198,7 +187,6 @@
 - [The Tooth](https://thelongdark.fandom.com/wiki/The_Tooth)
 - [Train Unloading](https://thelongdark.fandom.com/wiki/Train_Unloading)
 - [Waterfront Cottages](https://thelongdark.fandom.com/wiki/Waterfront_Cottages)
-
 ### Places in Crumbling Highway
 
 - [Abandoned Harris Home](https://thelongdark.fandom.com/wiki/Abandoned_Harris_Home)
@@ -368,7 +356,6 @@
 - [Lone Lake Cabin](https://thelongdark.fandom.com/wiki/Lone_Lake_Cabin)
 - [Lookout (Mystery Lake location)](https://thelongdark.fandom.com/wiki/Lookout_(Mystery_Lake_location))
 - [Max's Last Stand](https://thelongdark.fandom.com/wiki/Max's_Last_Stand)
-- [Mystery Lake (disambiguation)](https://thelongdark.fandom.com/wiki/Mystery_Lake_(disambiguation))
 - [Mystery Lake (location)](https://thelongdark.fandom.com/wiki/Mystery_Lake_(location))
 - [Mystery Lake (Western Access)](https://thelongdark.fandom.com/wiki/Mystery_Lake_(Western_Access))
 - [Rail Tunnel](https://thelongdark.fandom.com/wiki/Rail_Tunnel)
@@ -451,6 +438,7 @@
 - [Cabin (Sundered Pass)](https://thelongdark.fandom.com/wiki/Cabin_(Sundered_Pass))
 - [Cascading Gap](https://thelongdark.fandom.com/wiki/Cascading_Gap)
 - [Final Refuge](https://thelongdark.fandom.com/wiki/Final_Refuge)
+- [Foreman's Refuge](https://thelongdark.fandom.com/wiki/Foreman's_Refuge)
 - [Giant's Thumbprint](https://thelongdark.fandom.com/wiki/Giant's_Thumbprint)
 - [High Peak Plateau](https://thelongdark.fandom.com/wiki/High_Peak_Plateau)
 - [Idle Hideout](https://thelongdark.fandom.com/wiki/Idle_Hideout)
@@ -471,6 +459,10 @@
 - [Station Bunkhouse](https://thelongdark.fandom.com/wiki/Station_Bunkhouse)
 - [Unyielding Inundation](https://thelongdark.fandom.com/wiki/Unyielding_Inundation)
 - [Weather Station](https://thelongdark.fandom.com/wiki/Weather_Station)
+
+### Places in Suzuki Environs
+
+- [Suzuki Radio Telescope](https://thelongdark.fandom.com/wiki/Suzuki_Radio_Telescope)
 
 ### Places in The Ravine
 
@@ -540,20 +532,22 @@
 - [Welkin's Window](https://thelongdark.fandom.com/wiki/Welkin's_Window)
 
 ### Other locations
-
 > This group collects notable structures and features that do not belong to a single region.
 
+- [Cinder Hills Coal Mine](https://thelongdark.fandom.com/wiki/Cinder_Hills_Coal_Mine)
 - [Coastal Cave](https://thelongdark.fandom.com/wiki/Coastal_Cave)
 - [Fishing Hut](https://thelongdark.fandom.com/wiki/Fishing_Hut)
-- [Foreman's Refuge](https://thelongdark.fandom.com/wiki/Foreman's_Refuge)
 - [Great Bear Highway](https://thelongdark.fandom.com/wiki/Great_Bear_Highway)
 - [Ice Cave](https://thelongdark.fandom.com/wiki/Ice_Cave)
 - [Jackrabbit Hangar](https://thelongdark.fandom.com/wiki/Jackrabbit_Hangar)
+- [No. 3 Coal Mine](https://thelongdark.fandom.com/wiki/No._3_Coal_Mine)
 - [Repair Depot](https://thelongdark.fandom.com/wiki/Repair_Depot)
-
+- [Trans-Island Railway Line](https://thelongdark.fandom.com/wiki/Trans-Island_Railway_Line)
 ## 2. Nature
 
 > Flora and fauna of the Great Bear.
+
+- [Wildlife](https://thelongdark.fandom.com/wiki/Wildlife)
 
 ### Fauna
 
@@ -579,10 +573,9 @@
 - [Rockfish (Raw)](https://thelongdark.fandom.com/wiki/Rockfish_(Raw))
 - [Smallmouth Bass (Raw)](https://thelongdark.fandom.com/wiki/Smallmouth_Bass_(Raw))
 - [Timberwolf](https://thelongdark.fandom.com/wiki/Timberwolf)
-- [Wildlife](https://thelongdark.fandom.com/wiki/Wildlife)
 - [Wolf](https://thelongdark.fandom.com/wiki/Wolf)
 
-### Flora
+### Flora & Fungi
 
 > Plant and fungal life found across Great Bear, including trees, shrubs and grasses.
 
@@ -1446,7 +1439,6 @@
 - [Rim Grill](https://thelongdark.fandom.com/wiki/Rim_Grill)
 
 ### Collectibles
-
 > Documents, mementos, notes, photographs, recordings, and other discoverable collectibles. Story-specific versions of books and quest clues are kept here when their purpose is collection or narrative discovery.
 
 - [A Cry For Help](https://thelongdark.fandom.com/wiki/A_Cry_For_Help)
@@ -1463,6 +1455,7 @@
 - [Archival Report](https://thelongdark.fandom.com/wiki/Archival_Report)
 - [Aurora Hatch Door Entry Code](https://thelongdark.fandom.com/wiki/Aurora_Hatch_Door_Entry_Code)
 - [Aurora Observations](https://thelongdark.fandom.com/wiki/Aurora_Observations)
+- [Blackrock Foothills Map](https://thelongdark.fandom.com/wiki/Blackrock_Foothills_Map)
 - [Blackrock Memo](https://thelongdark.fandom.com/wiki/Blackrock_Memo)
 - [Blackrock Memo - Highly Aggressive Wolf](https://thelongdark.fandom.com/wiki/Blackrock_Memo_-_Highly_Aggressive_Wolf)
 - [Blackrock Memo - Late Employee](https://thelongdark.fandom.com/wiki/Blackrock_Memo_-_Late_Employee)
@@ -1606,6 +1599,7 @@
 - [Mining Newsletter](https://thelongdark.fandom.com/wiki/Mining_Newsletter)
 - [My Testament](https://thelongdark.fandom.com/wiki/My_Testament)
 - [Mysterious Note](https://thelongdark.fandom.com/wiki/Mysterious_Note)
+- [Mystery Lake & Area](https://thelongdark.fandom.com/wiki/Mystery_Lake_%26_Area)
 - [Naturalist Notebook 1](https://thelongdark.fandom.com/wiki/Naturalist_Notebook_1)
 - [Naturalist Notebook 2](https://thelongdark.fandom.com/wiki/Naturalist_Notebook_2)
 - [Neighbour's Note](https://thelongdark.fandom.com/wiki/Neighbour's_Note)
@@ -1713,7 +1707,6 @@
 - [Wolfskin Pants Blueprint Card](https://thelongdark.fandom.com/wiki/Wolfskin_Pants_Blueprint_Card)
 - [Work Order](https://thelongdark.fandom.com/wiki/Work_Order)
 - [Worn Logbook](https://thelongdark.fandom.com/wiki/Worn_Logbook)
-
 ### Exploration & Caches
 
 > Cache systems, stash mechanics, and cache-focused discoveries. Named physical cache locations remain under Locations, while Trader quest documents and quest objects are grouped under Trader Quests.
@@ -2214,7 +2207,6 @@
 - [You Fix My Rifle?/Transcript](https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F/Transcript)
 
 ### Other retained reference
-
 > Legacy and miscellaneous reference pages preserved for historical context or future review.
 
 - [Broken Bridge (disambiguation)](https://thelongdark.fandom.com/wiki/Broken_Bridge_(disambiguation))
@@ -2229,6 +2221,10 @@
 - [Locations](https://thelongdark.fandom.com/wiki/Locations)
 - [Lookout (disambiguation)](https://thelongdark.fandom.com/wiki/Lookout_(disambiguation))
 - [Materials](https://thelongdark.fandom.com/wiki/Materials)
+- [Mountain Pass](https://thelongdark.fandom.com/wiki/Mountain_Pass)
+- [Mystery Lake (disambiguation)](https://thelongdark.fandom.com/wiki/Mystery_Lake_(disambiguation))
+- [Region](https://thelongdark.fandom.com/wiki/Region)
+- [Roads](https://thelongdark.fandom.com/wiki/Roads)
 - [Soda (disambiguation)](https://thelongdark.fandom.com/wiki/Soda_(disambiguation))
 - [The Long Dark](https://thelongdark.fandom.com/wiki/The_Long_Dark)
 - [The Long Dark Original Soundtrack](https://thelongdark.fandom.com/wiki/The_Long_Dark_Original_Soundtrack)

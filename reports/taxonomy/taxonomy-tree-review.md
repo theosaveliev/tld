@@ -1109,6 +1109,8 @@
 - [Milling Machine](https://thelongdark.fandom.com/wiki/Milling_Machine)
 - [Work Bench](https://thelongdark.fandom.com/wiki/Work_Bench)
 
+#### Other Crafting & Fire Systems
+
 - [Campfire](https://thelongdark.fandom.com/wiki/Campfire)
 - [Crafting](https://thelongdark.fandom.com/wiki/Crafting)
 - [Curing](https://thelongdark.fandom.com/wiki/Curing)

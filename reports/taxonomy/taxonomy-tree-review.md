@@ -5,6 +5,7 @@
 > A Location is a named place in the game world. When the player discovers one, the game displays the message “New location discovered: [location name]”.
 
 ### Regions
+
 > A Region is a large, explorable area of the game world containing multiple Locations.
 
 - [Anna Island -- Track Section 1](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_1)
@@ -49,6 +50,7 @@
 - [Transfer Pass](https://thelongdark.fandom.com/wiki/Transfer_Pass)
 - [Winding River](https://thelongdark.fandom.com/wiki/Winding_River)
 - [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination)
+
 ### Places in Anna Island -- Track Section 1
 
 - [Bridge](https://thelongdark.fandom.com/wiki/Bridge)
@@ -187,6 +189,7 @@
 - [The Tooth](https://thelongdark.fandom.com/wiki/The_Tooth)
 - [Train Unloading](https://thelongdark.fandom.com/wiki/Train_Unloading)
 - [Waterfront Cottages](https://thelongdark.fandom.com/wiki/Waterfront_Cottages)
+
 ### Places in Crumbling Highway
 
 - [Abandoned Harris Home](https://thelongdark.fandom.com/wiki/Abandoned_Harris_Home)
@@ -532,6 +535,7 @@
 - [Welkin's Window](https://thelongdark.fandom.com/wiki/Welkin's_Window)
 
 ### Other locations
+
 > This group collects notable structures and features that do not belong to a single region.
 
 - [Cinder Hills Coal Mine](https://thelongdark.fandom.com/wiki/Cinder_Hills_Coal_Mine)
@@ -543,6 +547,7 @@
 - [No. 3 Coal Mine](https://thelongdark.fandom.com/wiki/No._3_Coal_Mine)
 - [Repair Depot](https://thelongdark.fandom.com/wiki/Repair_Depot)
 - [Trans-Island Railway Line](https://thelongdark.fandom.com/wiki/Trans-Island_Railway_Line)
+
 ## 2. Nature
 
 > Flora and fauna of the Great Bear.
@@ -1201,6 +1206,7 @@
 #### Craftable Decorations
 
 > Furniture and display pieces made for a Safehouse, including mounted fish, decorative art, and storage furniture.
+
 - [Bear Hide Bed](https://thelongdark.fandom.com/wiki/Bear_Hide_Bed)
 - [Bear Hide Rug](https://thelongdark.fandom.com/wiki/Bear_Hide_Rug)
 - [Carved Bear Figurine](https://thelongdark.fandom.com/wiki/Carved_Bear_Figurine)
@@ -1247,6 +1253,7 @@
 #### Portable Decorations
 
 > Existing decorative objects that can be picked up and placed elsewhere in a customizable interior.
+
 - [Basin](https://thelongdark.fandom.com/wiki/Basin)
 - [Bench](https://thelongdark.fandom.com/wiki/Bench)
 - [Broom](https://thelongdark.fandom.com/wiki/Broom)
@@ -1263,6 +1270,7 @@
 #### Decoration Overview
 
 > The wiki's overview of the Decorations backpack category and its broader catalogue of placeable objects.
+
 - [Decorations](https://thelongdark.fandom.com/wiki/Decorations)
 
 ## 4. Gameplay
@@ -1439,6 +1447,7 @@
 - [Rim Grill](https://thelongdark.fandom.com/wiki/Rim_Grill)
 
 ### Collectibles
+
 > Documents, mementos, notes, photographs, recordings, and other discoverable collectibles. Story-specific versions of books and quest clues are kept here when their purpose is collection or narrative discovery.
 
 - [A Cry For Help](https://thelongdark.fandom.com/wiki/A_Cry_For_Help)
@@ -1707,6 +1716,7 @@
 - [Wolfskin Pants Blueprint Card](https://thelongdark.fandom.com/wiki/Wolfskin_Pants_Blueprint_Card)
 - [Work Order](https://thelongdark.fandom.com/wiki/Work_Order)
 - [Worn Logbook](https://thelongdark.fandom.com/wiki/Worn_Logbook)
+
 ### Exploration & Caches
 
 > Cache systems, stash mechanics, and cache-focused discoveries. Named physical cache locations remain under Locations, while Trader quest documents and quest objects are grouped under Trader Quests.
@@ -2207,6 +2217,7 @@
 - [You Fix My Rifle?/Transcript](https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F/Transcript)
 
 ### Other retained reference
+
 > Legacy and miscellaneous reference pages preserved for historical context or future review.
 
 - [Broken Bridge (disambiguation)](https://thelongdark.fandom.com/wiki/Broken_Bridge_(disambiguation))
@@ -2237,6 +2248,7 @@
 - [Transcript (disambiguation)](https://thelongdark.fandom.com/wiki/Transcript_(disambiguation))
 - [Warm Cave](https://thelongdark.fandom.com/wiki/Warm_Cave)
 - [Wintermute](https://thelongdark.fandom.com/wiki/Wintermute)
+
 ## Notes on this draft
 
 - This is a review tree, not an automatic conversion plan. Source categories remain provenance metadata.

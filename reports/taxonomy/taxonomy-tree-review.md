@@ -2,7 +2,7 @@
 
 ## 1. Locations
 
-> A Location is a named point of interest in the game world. When the player discovers one for the first time, the game displays the message “New location discovered.” This section lists named regions and discoverable points of interest that have their own wiki pages.
+> A Location is a named point of interest in the game world. When the player first enters it, the game displays the message “New location discovered.” This section lists named regions and discoverable points of interest that have their own wiki pages.
 
 ### Maps and named regions
 
@@ -1062,7 +1062,7 @@
 
 ### Decorations & Safehouse Items
 
-> Decorative inventory objects and craftable furniture used to personalize Safehouses. This is distinct from Gameplay → World Objects, which covers fixed environmental objects that the player encounters and interacts with.
+> The in-game Decorations inventory contains carryable objects that can be placed inside customizable interiors, while this list covers dedicated decoration articles and furniture craftable for Safehouses. The wider Safehouse Customization system affects more than 800 movable, breakable, or craftable objects; fixed containers, appliances, and other environmental fixtures remain under Gameplay → World Objects.
 
 #### Craftable Decorations
 

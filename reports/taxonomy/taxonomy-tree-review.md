@@ -732,17 +732,12 @@
 - [Mountaineering Rope](https://thelongdark.fandom.com/wiki/Mountaineering_Rope)
 - [Technical Backpack](https://thelongdark.fandom.com/wiki/Technical_Backpack)
 
-## 4. Items
-
-> This section contains articles about inventory items and equipment that the player can carry, use, consume, craft, or collect. Wearable clothing and equipment, including climbing gear, are grouped under Clothing & Climbing Gear. Fixed environmental objects and stationary work areas are classified under Gameplay instead.
-
-
-### Food & Drink
+## 4. Food & Drink
 
 > Edible and drinkable inventory items, prepared meals, recipes, and cooking ingredients. Raw fish species pages remain under Nature → Fauna; their cooked food versions are listed here.
 > Overview: [Food And Drink](https://thelongdark.fandom.com/wiki/Food_And_Drink)
 
-#### Food
+### Food
 
 > Food that can be eaten directly, including raw and cooked meat, fish products, and packaged or gathered foods.
 
@@ -808,7 +803,7 @@
 - [Wolf Meat (Raw)](https://thelongdark.fandom.com/wiki/Wolf_Meat_(Raw))
 - [Wolf Quarter](https://thelongdark.fandom.com/wiki/Wolf_Quarter)
 
-#### Drinks
+### Drinks
 
 > Beverages and potable or unsafe water that can be consumed by the survivor.
 
@@ -821,7 +816,7 @@
 - [Water (Potable)](https://thelongdark.fandom.com/wiki/Water_(Potable))
 - [Water (Unsafe)](https://thelongdark.fandom.com/wiki/Water_(Unsafe))
 
-#### Recipes
+### Recipes
 
 > Prepared meals and dishes made using cooking ingredients and recipes.
 
@@ -854,7 +849,7 @@
 - [Venison Pie](https://thelongdark.fandom.com/wiki/Venison_Pie)
 - [Venison Stew](https://thelongdark.fandom.com/wiki/Venison_Stew)
 
-#### Cooking & Brewing Ingredients
+### Cooking & Brewing Ingredients
 
 > Ingredients and supplies used to prepare meals, coffee, and herbal drinks.
 
@@ -871,7 +866,7 @@
 - [Salt (Bag)](https://thelongdark.fandom.com/wiki/Salt_(Bag))
 - [Tin of Coffee](https://thelongdark.fandom.com/wiki/Tin_of_Coffee)
 
-#### Seasonal & Wintermute Foods
+### Seasonal & Wintermute Foods
 
 > Food pages tied to seasonal events or specific Wintermute content.
 
@@ -880,7 +875,7 @@
 - [Home-made Soup](https://thelongdark.fandom.com/wiki/Home-made_Soup)
 - [Pumpkin Pie](https://thelongdark.fandom.com/wiki/Pumpkin_Pie)
 
-### First Aid & Medicine
+## 5. First Aid & Medicine
 
 > Items used to prevent, treat, or recover from injuries, afflictions, and other medical effects. The First Aid overview page is included here with the medical inventory references.
 
@@ -918,11 +913,11 @@
 - [Vitamin-C Pills](https://thelongdark.fandom.com/wiki/Vitamin-C_Pills)
 - [Water Purification Tablets](https://thelongdark.fandom.com/wiki/Water_Purification_Tablets)
 
-### Weapons & Ammunition
+## 6. Weapons & Ammunition
 
 > Weapons used for hunting or defence, their ammunition, and projectile components. Individual weapon variants are listed alongside the weapon type they belong to.
 
-#### Firearms
+### Firearms
 
 - [Barb's Rifle](https://thelongdark.fandom.com/wiki/Barb's_Rifle)
 - [Bunker Rifle](https://thelongdark.fandom.com/wiki/Bunker_Rifle)
@@ -941,7 +936,7 @@
 - [Vaughn's Rifle](https://thelongdark.fandom.com/wiki/Vaughn's_Rifle)
 - [Warden's Revolver](https://thelongdark.fandom.com/wiki/Warden's_Revolver)
 
-#### Bows & Arrows
+### Bows & Arrows
 
 - [Arrow Shaft](https://thelongdark.fandom.com/wiki/Arrow_Shaft)
 - [Arrowhead](https://thelongdark.fandom.com/wiki/Arrowhead)
@@ -956,7 +951,7 @@
 - [Survival Bow](https://thelongdark.fandom.com/wiki/Survival_Bow)
 - [Woodwright's Bow](https://thelongdark.fandom.com/wiki/Woodwright's_Bow)
 
-#### Other Weapons
+### Other Weapons
 
 - [Bear Spear](https://thelongdark.fandom.com/wiki/Bear_Spear)
 - [Broken Bear Spear](https://thelongdark.fandom.com/wiki/Broken_Bear_Spear)
@@ -964,7 +959,7 @@
 - [Spear Head](https://thelongdark.fandom.com/wiki/Spear_Head)
 - [Stone](https://thelongdark.fandom.com/wiki/Stone)
 
-#### Ammunition
+### Ammunition
 
 - [Bullet](https://thelongdark.fandom.com/wiki/Bullet)
 - [Flare Shell](https://thelongdark.fandom.com/wiki/Flare_Shell)
@@ -972,11 +967,11 @@
 - [Rifle Ammunition](https://thelongdark.fandom.com/wiki/Rifle_Ammunition)
 - [Shotgun Ammunition](https://thelongdark.fandom.com/wiki/Shotgun_Ammunition)
 
-### Tools & Equipment
+## 7. Tools & Equipment
 
 > Portable tools and practical equipment carried in the inventory. Stationary crafting stations and fixed interactable objects are listed under Gameplay.
 
-#### Bedrolls & Sleeping Gear
+### Bedrolls & Sleeping Gear
 
 > Portable bedrolls that can be carried and deployed to sleep. Fixed or unusable bedroll props remain world objects.
 
@@ -984,7 +979,7 @@
 - [Bedroll](https://thelongdark.fandom.com/wiki/Bedroll)
 - [Improvised Down Bedroll](https://thelongdark.fandom.com/wiki/Improvised_Down_Bedroll)
 
-#### Cooking & Containers
+### Cooking & Containers
 
 > Portable vessels and simple tools used to prepare, store, or access food and drink.
 
@@ -996,7 +991,7 @@
 - [Potato Sack](https://thelongdark.fandom.com/wiki/Potato_Sack)
 - [Recycled Can](https://thelongdark.fandom.com/wiki/Recycled_Can)
 
-#### Fishing & Trapping Gear
+### Fishing & Trapping Gear
 
 > Portable equipment, bait, and components used for fishing and trapping activities.
 
@@ -1012,7 +1007,7 @@
 - [Simple Fishing Lure](https://thelongdark.fandom.com/wiki/Simple_Fishing_Lure)
 - [Snare](https://thelongdark.fandom.com/wiki/Snare)
 
-#### Hand Tools
+### Hand Tools
 
 > Handheld tools used to harvest resources, open containers, cut materials, or perform other practical tasks.
 
@@ -1029,7 +1024,7 @@
 - [Survival Knife](https://thelongdark.fandom.com/wiki/Survival_Knife)
 - [Valve Socket Handle](https://thelongdark.fandom.com/wiki/Valve_Socket_Handle)
 
-#### Repair & Crafting Equipment
+### Repair & Crafting Equipment
 
 > Portable tools used to repair, maintain, sharpen, or craft equipment. Stationary workbenches are listed separately under Gameplay.
 
@@ -1040,7 +1035,7 @@
 - [Whetstone](https://thelongdark.fandom.com/wiki/Whetstone)
 - [Woodworking Tools](https://thelongdark.fandom.com/wiki/Woodworking_Tools)
 
-#### Keys & Access Items
+### Keys & Access Items
 
 > Keys, codes and credentials used to open locked containers, doors and restricted areas.
 
@@ -1082,7 +1077,7 @@
 - [Supply Room Key](https://thelongdark.fandom.com/wiki/Supply_Room_Key)
 - [Train Key](https://thelongdark.fandom.com/wiki/Train_Key)
 
-#### Field & Utility Equipment
+### Field & Utility Equipment
 
 > Portable equipment used for exploration, navigation, access, photography, and other field tasks.
 
@@ -1104,14 +1099,14 @@
 - [Spray Paint - Glyph](https://thelongdark.fandom.com/wiki/Spray_Paint_-_Glyph)
 - [Travois](https://thelongdark.fandom.com/wiki/Travois)
 
-#### Other & Reference
+### Other & Reference
 
 > General tool references and tool-related pages that do not fit a more specific equipment group.
 
 - [The Detonators](https://thelongdark.fandom.com/wiki/The_Detonators)
 - [Tools](https://thelongdark.fandom.com/wiki/Tools)
 
-### Fire, Light & Fuel
+## 8. Fire, Light & Fuel
 
 > Items classified by their in-game role as fire-starting supplies, fuel, or light sources. Books are grouped here because the game treats burnable books and Research Books as fuel; Research Books also remain referenced under Skills.
 
@@ -1151,7 +1146,7 @@
 - [Wilderness Kitchen](https://thelongdark.fandom.com/wiki/Wilderness_Kitchen)
 - [Wood Matches](https://thelongdark.fandom.com/wiki/Wood_Matches)
 
-### Materials & Crafting Components
+## 9. Materials & Crafting Components
 
 > Raw materials, recovered resources, and components used to craft, repair, or maintain other items. A component can belong here even when it is used to construct a workstation.
 
@@ -1211,20 +1206,20 @@
 - [Wires](https://thelongdark.fandom.com/wiki/Wires)
 - [Workbench Vice](https://thelongdark.fandom.com/wiki/Workbench_Vice)
 
-### Item Attributes
+## 10. Item Attributes
 
 > Reference pages describing properties of inventory items, rather than needs or conditions experienced by the survivor.
 
 - [Decay](https://thelongdark.fandom.com/wiki/Decay)
 
-### Decorations & Safehouse Items
+## 11. Decorations & Safehouse Items
 
 > The in-game Decorations inventory contains carryable objects that can be placed inside customizable interiors, while this list covers dedicated decoration articles and furniture craftable for Safehouses. The wider Safehouse Customization system affects more than 800 movable, breakable, or craftable objects; fixed containers, appliances, and other environmental fixtures remain under Gameplay → World Objects.
 
 - [Jack-o-Lantern](https://thelongdark.fandom.com/wiki/Jack-o-Lantern)
 - [McLeod Ultra-Efficiency Whale Oil Heater](https://thelongdark.fandom.com/wiki/McLeod_Ultra-Efficiency_Whale_Oil_Heater)
 
-#### Craftable Decorations
+### Craftable Decorations
 
 > Furniture and display pieces made for a Safehouse, including mounted fish, decorative art, and storage furniture.
 
@@ -1271,7 +1266,7 @@
 - [Wide Display Shelf](https://thelongdark.fandom.com/wiki/Wide_Display_Shelf)
 - [Wide Dresser](https://thelongdark.fandom.com/wiki/Wide_Dresser)
 
-#### Portable Decorations
+### Portable Decorations
 
 > Existing decorative objects that can be picked up and placed elsewhere in a customizable interior.
 
@@ -1288,19 +1283,19 @@
 - [Table](https://thelongdark.fandom.com/wiki/Table)
 - [Vase](https://thelongdark.fandom.com/wiki/Vase)
 
-#### Decoration Overview
+### Decoration Overview
 
 > The wiki's overview of the Decorations backpack category and its broader catalogue of placeable objects.
 
 - [Decorations](https://thelongdark.fandom.com/wiki/Decorations)
 
-## 5. Gameplay
+## 12. Gameplay
 
-> This section covers the systems, mechanics, activities, and interactions that shape play. Portable inventory items belong under Items; fixed objects encountered in the environment belong under World Objects; challenges and achievements have their own top-level sections.
+> This section covers the systems, mechanics, activities, and interactions that shape play. Portable inventory items are classified in their relevant functional groups; fixed objects encountered in the environment belong under World Objects; challenges and achievements have their own top-level sections.
 
 ### Needs & Conditions
 
-> Core survivor needs and status measures, including hunger, thirst, fatigue, sleep, warmth, stamina, and overall condition. Item deterioration is not a survivor need or condition and is classified under Items → Item Attributes.
+> Core survivor needs and status measures, including hunger, thirst, fatigue, sleep, warmth, stamina, and overall condition. Item deterioration is not a survivor need or condition and is classified under Item Attributes.
 
 - [Condition](https://thelongdark.fandom.com/wiki/Condition)
 - [Encumbrance](https://thelongdark.fandom.com/wiki/Encumbrance)
@@ -1381,6 +1376,7 @@
 - [Trauma](https://thelongdark.fandom.com/wiki/Trauma)
 - [Unburdened](https://thelongdark.fandom.com/wiki/Unburdened)
 - [Weakened State](https://thelongdark.fandom.com/wiki/Weakened_State)
+
 ### Environmental Hazards
 
 > External conditions and environmental effects that create danger or change how the world can be traversed, such as weather, auroras, toxic environments, and weak ice.
@@ -1862,9 +1858,10 @@
 - [Weapon Locker](https://thelongdark.fandom.com/wiki/Weapon_Locker)
 - [Wheel](https://thelongdark.fandom.com/wiki/Wheel)
 - [Wood Stove](https://thelongdark.fandom.com/wiki/Wood_Stove)
+
 ### Safehouse Systems
 
-> Systems and reference pages for making interiors into Safehouses and customizing them. Individual decorative inventory items and craftable furniture are listed under Items → Decorations & Safehouse Items.
+> Systems and reference pages for making interiors into Safehouses and customizing them. Individual decorative inventory items and craftable furniture are listed under Decorations & Safehouse Items.
 
 - [Safehouse](https://thelongdark.fandom.com/wiki/Safehouse)
 - [Safehouse Customization](https://thelongdark.fandom.com/wiki/Safehouse_Customization)
@@ -1933,7 +1930,7 @@
 - [Voyageur](https://thelongdark.fandom.com/wiki/Voyageur)
 - [Winter's Embrace](https://thelongdark.fandom.com/wiki/Winter's_Embrace)
 
-## 6. Challenges
+## 13. Challenges
 
 > This section contains the game's standalone challenge modes and the pages that explain or document their objectives and completion.
 
@@ -1951,7 +1948,7 @@
 - [The Hunted, Part Two](https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_Two)
 - [Whiteout](https://thelongdark.fandom.com/wiki/Whiteout)
 
-## 7. Achievements
+## 14. Achievements
 
 > Achievements, Feats, and related progress records are grouped here. These pages describe milestone-based goals rather than the moment-to-moment survival systems in Gameplay.
 
@@ -2063,9 +2060,9 @@
 - [You'll Be With Her Soon](https://thelongdark.fandom.com/wiki/You'll_Be_With_Her_Soon)
 - [Your Journey Begins](https://thelongdark.fandom.com/wiki/Your_Journey_Begins)
 
-## 8. DLC
+## 15. DLC
 
-> A cross-index of pages associated with downloadable content. A page listed here retains its primary home in Locations, Nature, Items, Gameplay, Challenges, Achievements, or Archive; this section does not replace those classifications.
+> A cross-index of pages associated with downloadable content. A page listed here retains its primary home elsewhere in the taxonomy under Locations, Nature, Clothing & Climbing Gear, an inventory group, Gameplay, Challenges, Achievements, or Archive; this section does not replace those classifications.
 
 - [Aviator Cap](https://thelongdark.fandom.com/wiki/Aviator_Cap)
 - [Barb's Rifle](https://thelongdark.fandom.com/wiki/Barb's_Rifle)
@@ -2124,7 +2121,7 @@
 - [Woodwright's Bow](https://thelongdark.fandom.com/wiki/Woodwright's_Bow)
 - [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination)
 
-## 9. Archive
+## 16. Archive
 
 > Pages retained for historical, legacy, or story-reference purposes that are not part of the main navigational taxonomy. Archived pages remain linked and are not deleted.
 
@@ -2273,6 +2270,7 @@
 - [Transcript (disambiguation)](https://thelongdark.fandom.com/wiki/Transcript_(disambiguation))
 - [Warm Cave](https://thelongdark.fandom.com/wiki/Warm_Cave)
 - [Wintermute](https://thelongdark.fandom.com/wiki/Wintermute)
+
 ## Notes on this draft
 
 - This is a review tree, not an automatic conversion plan. Source categories remain provenance metadata.
@@ -2284,7 +2282,7 @@
 
 - A Location is a named, discoverable point of interest; the in-game first-discovery message is “New location discovered.”
 - Fixed environmental objects and fixtures belong under Gameplay → World Objects; wearable gear and climbing aids belong under Clothing & Climbing Gear.
-- Items in the Decorations inventory, and furniture crafted for Safehouses, belong under Items → Decorations & Safehouse Items. This is distinct from the wider set of fixed objects affected by Safehouse Customization.
+- Items in the Decorations inventory, and furniture crafted for Safehouses, belong under Decorations & Safehouse Items. This is distinct from the wider set of fixed objects affected by Safehouse Customization.
 - Trader Special Request pages and their quest-only items belong under Gameplay → Trader Quests.
-- Item properties such as Decay belong under Items → Item Attributes, not under survivor Needs & Conditions.
+- Item properties such as Decay belong under Item Attributes, not under survivor Needs & Conditions.
 - Link labels always preserve the exact wiki article title. Taxonomy headings classify pages but never rename them.

@@ -1005,7 +1005,7 @@
 
 - [4 Days of Night Event](https://thelongdark.fandom.com/wiki/4_Days_of_Night_Event)
 - [Badges](https://thelongdark.fandom.com/wiki/Badges)
-- [Gameplay](https://thelongdark.fandom.com/wiki/Needs)
+- [Needs](https://thelongdark.fandom.com/wiki/Needs)
 - [Interloper](https://thelongdark.fandom.com/wiki/Interloper)
 - [Radial Menu](https://thelongdark.fandom.com/wiki/Radial_Menu)
 - [Survival Menu](https://thelongdark.fandom.com/wiki/Survival_Menu)
@@ -2125,3 +2125,4 @@
 - Location subheadings use the existing `Locations in …` memberships as a suggestion. Pages spanning multiple map categories are listed once under Cross-region and shared locations.
 - The template analyzer reports potential transcluded memberships, but does not yet provide a fully evaluated MediaWiki expansion. Those memberships are not used to guess primary placement here.
 - Page names are preserved exactly as in the source report. URL spaces are converted to underscores and special characters are URL-encoded.
+- Wiki article titles are never renamed in taxonomy links; categories and section headings may classify pages, but link labels preserve the exact wiki page title.

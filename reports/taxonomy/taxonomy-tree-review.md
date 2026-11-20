@@ -969,7 +969,7 @@
 - [Rifle Ammunition](https://thelongdark.fandom.com/wiki/Rifle_Ammunition)
 - [Rifle Shell Casing](https://thelongdark.fandom.com/wiki/Rifle_Shell_Casing)
 - [Shotgun Ammunition](https://thelongdark.fandom.com/wiki/Shotgun_Ammunition)
-- [Shotgun Shell Casing](https://thelongdark.fandom.com/wiki/Shotgun_Shell_Casing)(https://thelongdark.fandom.com/wiki/Shotgun_Ammunition)
+- [Shotgun Shell Casing](https://thelongdark.fandom.com/wiki/Shotgun_Shell_Casing)
 
 ## 7. Tools & Equipment
 

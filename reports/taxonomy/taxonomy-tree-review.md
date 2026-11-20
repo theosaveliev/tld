@@ -546,7 +546,7 @@
 - [Repair Depot](https://thelongdark.fandom.com/wiki/Repair_Depot)
 - [Warm Cave](https://thelongdark.fandom.com/wiki/Warm_Cave)
 
-## 2. Wildlife
+## 2. Nature
 
 ### Fauna
 
@@ -585,9 +585,8 @@
 - [Rose Hip](https://thelongdark.fandom.com/wiki/Rose_Hip)
 - [Scrub Brush](https://thelongdark.fandom.com/wiki/Scrub_Brush)
 
-## 4. Items
+## 3. Items
 
-> Flat list. Source subcategories such as Tools, Materials, Food and Drink, and the DLC-specific item names are not reproduced as nested folders.
 - [Birch Bark](https://thelongdark.fandom.com/wiki/Birch_Bark)
 - [Acorn Grounds](https://thelongdark.fandom.com/wiki/Acorn_Grounds)
 - [Acorns](https://thelongdark.fandom.com/wiki/Acorns)

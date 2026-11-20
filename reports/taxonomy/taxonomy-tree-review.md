@@ -997,7 +997,7 @@
 
 - [Meat Curing Box](https://thelongdark.fandom.com/wiki/Meat_Curing_Box)
 
-## 5. Gameplay
+## 4. Gameplay
 
 > Survival modes, player systems, skills, world mechanics, exploration, collectibles, and interactable objects.
 
@@ -1180,7 +1180,7 @@
 - [Timberwolf Carcass](https://thelongdark.fandom.com/wiki/Timberwolf_Carcass)
 - [Wolf Carcass](https://thelongdark.fandom.com/wiki/Wolf_Carcass)
 
-## 6. Challenges
+## 5. Challenges
 
 > The predefined in-game challenge list and its guides.
 - [Almanac](https://thelongdark.fandom.com/wiki/Almanac)
@@ -1193,7 +1193,7 @@
 - [The Hunted, Part Two](https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_Two)
 - [Whiteout](https://thelongdark.fandom.com/wiki/Whiteout)
 
-## 7. Achievements
+## 6. Achievements
 
 > Achievements and Feats are kept together as a dedicated top-level index.
 - [Beneath a Starry Sky](https://thelongdark.fandom.com/wiki/Beneath_a_Starry_Sky)
@@ -1218,7 +1218,7 @@
 - [Wrapped in Furs](https://thelongdark.fandom.com/wiki/Wrapped_in_Furs)
 - [You Made It!](https://thelongdark.fandom.com/wiki/You_Made_It!)
 
-## 8. DLC
+## 7. DLC
 
 > **Secondary cross-index.** Entries are also listed in their primary group above when they are Locations, Items, Gameplay, Wildlife, or Archive pages. The direct Category:DLC Content membership is available; template-derived page-level assignments remain approximate and are not expanded here.
 - [Aviator Cap](https://thelongdark.fandom.com/wiki/Aviator_Cap) — primary home: Items
@@ -1278,7 +1278,7 @@
 - [Woodwright's Bow](https://thelongdark.fandom.com/wiki/Woodwright's_Bow) — primary home: Items
 - [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination) — primary home: Locations
 
-## 9. Archive
+## 8. Archive
 
 > Preserved but intentionally de-emphasized. Archive is a top-level group, not deletion.
 

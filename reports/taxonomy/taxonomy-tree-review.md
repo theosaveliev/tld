@@ -734,8 +734,9 @@
 
 ## 4. Food & Drink
 
-> Edible and drinkable inventory items, prepared meals, recipes, and cooking ingredients. Raw fish species pages remain under Nature → Fauna; their cooked food versions are listed here.
-> Overview: [Food And Drink](https://thelongdark.fandom.com/wiki/Food_And_Drink)
+> Consumable food and drink, prepared meals, recipes, and cooking ingredients.
+
+- [Food And Drink](https://thelongdark.fandom.com/wiki/Food_And_Drink)
 
 ### Food
 

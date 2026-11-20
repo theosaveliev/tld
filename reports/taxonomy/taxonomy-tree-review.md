@@ -605,6 +605,7 @@
 - [Cargo Pants](https://thelongdark.fandom.com/wiki/Cargo_Pants)
 - [Chemical Boots](https://thelongdark.fandom.com/wiki/Chemical_Boots)
 - [Climbing Socks](https://thelongdark.fandom.com/wiki/Climbing_Socks)
+- [Clothing](https://thelongdark.fandom.com/wiki/Clothing)
 - [Combat Boots](https://thelongdark.fandom.com/wiki/Combat_Boots)
 - [Combat Pants](https://thelongdark.fandom.com/wiki/Combat_Pants)
 - [Cotton Scarf](https://thelongdark.fandom.com/wiki/Cotton_Scarf)
@@ -905,6 +906,12 @@
 
 ### Tools & Equipment
 
+#### Bedrolls & Sleeping Gear
+
+- [Bear Skin Bedroll](https://thelongdark.fandom.com/wiki/Bear_Skin_Bedroll)
+- [Bedroll](https://thelongdark.fandom.com/wiki/Bedroll)
+- [Improvised Down Bedroll](https://thelongdark.fandom.com/wiki/Improvised_Down_Bedroll)
+
 #### Cooking & Containers
 
 - [Can Opener](https://thelongdark.fandom.com/wiki/Can_Opener)
@@ -941,7 +948,6 @@
 #### Repair & Crafting Equipment
 
 - [Firearm Cleaning Kit](https://thelongdark.fandom.com/wiki/Firearm_Cleaning_Kit)
-- [Forge](https://thelongdark.fandom.com/wiki/Forge)
 - [Quality Tools](https://thelongdark.fandom.com/wiki/Quality_Tools)
 - [Sewing Kit](https://thelongdark.fandom.com/wiki/Sewing_Kit)
 - [Simple Tools](https://thelongdark.fandom.com/wiki/Simple_Tools)
@@ -999,22 +1005,9 @@
 
 ## 4. Gameplay
 
-> Survival modes, player systems, skills, world mechanics, exploration, collectibles, and interactable objects.
+> Survival systems, afflictions, skills, activities, exploration, collectibles, and world objects.
 
-### Modes & Interface
-
-- [4 Days of Night Event](https://thelongdark.fandom.com/wiki/4_Days_of_Night_Event)
-- [Badges](https://thelongdark.fandom.com/wiki/Badges)
-- [Needs](https://thelongdark.fandom.com/wiki/Needs)
-- [Interloper](https://thelongdark.fandom.com/wiki/Interloper)
-- [Radial Menu](https://thelongdark.fandom.com/wiki/Radial_Menu)
-- [Survival Menu](https://thelongdark.fandom.com/wiki/Survival_Menu)
-- [Survival Mode](https://thelongdark.fandom.com/wiki/Survival_Mode)
-- [Survival Mode/Interloper Tips](https://thelongdark.fandom.com/wiki/Survival_Mode/Interloper_Tips)
-- [Survival Overlay](https://thelongdark.fandom.com/wiki/Survival_Overlay)
-- [Winter's Embrace](https://thelongdark.fandom.com/wiki/Winter's_Embrace)
-
-### Needs & Condition
+### Needs & Conditions
 
 - [Condition](https://thelongdark.fandom.com/wiki/Condition)
 - [Decay](https://thelongdark.fandom.com/wiki/Decay)
@@ -1023,30 +1016,27 @@
 - [Fatigue Reduced](https://thelongdark.fandom.com/wiki/Fatigue_Reduced)
 - [Feels Like](https://thelongdark.fandom.com/wiki/Feels_Like)
 - [Hunger](https://thelongdark.fandom.com/wiki/Hunger)
+- [Needs](https://thelongdark.fandom.com/wiki/Needs)
 - [Sleep](https://thelongdark.fandom.com/wiki/Sleep)
 - [Stamina](https://thelongdark.fandom.com/wiki/Stamina)
 - [Thirst](https://thelongdark.fandom.com/wiki/Thirst)
 - [Warmth](https://thelongdark.fandom.com/wiki/Warmth)
 - [Well Fed](https://thelongdark.fandom.com/wiki/Well_Fed)
 
-### Afflictions & Hazards
+### Afflictions
 
 - [Afflictions](https://thelongdark.fandom.com/wiki/Afflictions)
-- [Aurora](https://thelongdark.fandom.com/wiki/Aurora)
 - [Cabin Fever](https://thelongdark.fandom.com/wiki/Cabin_Fever)
 - [Cabin Fever Risk](https://thelongdark.fandom.com/wiki/Cabin_Fever_Risk)
-- [Chemical Hazard](https://thelongdark.fandom.com/wiki/Chemical_Hazard) — primary home: Gameplay
-- [Chemical Poisoning](https://thelongdark.fandom.com/wiki/Chemical_Poisoning) — primary home: Gameplay
-- [Environmental Hazard](https://thelongdark.fandom.com/wiki/Environmental_Hazard)
+- [Chemical Poisoning](https://thelongdark.fandom.com/wiki/Chemical_Poisoning)
 - [Frostbite](https://thelongdark.fandom.com/wiki/Frostbite)
 - [Frostbite Risk](https://thelongdark.fandom.com/wiki/Frostbite_Risk)
-- [Glimmer Fog](https://thelongdark.fandom.com/wiki/Glimmer_Fog) — primary home: Gameplay
 - [Heat Pack (Affliction)](https://thelongdark.fandom.com/wiki/Heat_Pack_(Affliction))
 - [Hypothermia](https://thelongdark.fandom.com/wiki/Hypothermia)
 - [Hypothermia Risk](https://thelongdark.fandom.com/wiki/Hypothermia_Risk)
 - [Infection](https://thelongdark.fandom.com/wiki/Infection)
 - [Infection Risk](https://thelongdark.fandom.com/wiki/Infection_Risk)
-- [Insomnia](https://thelongdark.fandom.com/wiki/Insomnia) — primary home: Gameplay
+- [Insomnia](https://thelongdark.fandom.com/wiki/Insomnia)
 - [Intestinal Parasites](https://thelongdark.fandom.com/wiki/Intestinal_Parasites)
 - [Risk of Infection](https://thelongdark.fandom.com/wiki/Risk_of_Infection)
 - [Risk of Intestinal Parasites](https://thelongdark.fandom.com/wiki/Risk_of_Intestinal_Parasites)
@@ -1055,37 +1045,52 @@
 - [Sprain Risk](https://thelongdark.fandom.com/wiki/Sprain_Risk)
 - [Sprained Ankle](https://thelongdark.fandom.com/wiki/Sprained_Ankle)
 - [Sprained Wrist](https://thelongdark.fandom.com/wiki/Sprained_Wrist)
+
+### Environmental Hazards
+
+- [Aurora](https://thelongdark.fandom.com/wiki/Aurora)
+- [Chemical Hazard](https://thelongdark.fandom.com/wiki/Chemical_Hazard)
+- [Environmental Hazard](https://thelongdark.fandom.com/wiki/Environmental_Hazard)
+- [Glimmer Fog](https://thelongdark.fandom.com/wiki/Glimmer_Fog)
 - [Weak Ice](https://thelongdark.fandom.com/wiki/Weak_Ice)
 - [Weather](https://thelongdark.fandom.com/wiki/Weather)
 
-### Skills & Activities
+### Health & Treatment
 
-- [Archery](https://thelongdark.fandom.com/wiki/Archery)
+- [First Aid](https://thelongdark.fandom.com/wiki/First_Aid)
+
+### Skills
+
 - [Carcass Harvesting](https://thelongdark.fandom.com/wiki/Carcass_Harvesting)
-- [Cleaning](https://thelongdark.fandom.com/wiki/Cleaning)
 - [Cooking](https://thelongdark.fandom.com/wiki/Cooking)
 - [Fire Starting](https://thelongdark.fandom.com/wiki/Fire_Starting)
-- [First Aid](https://thelongdark.fandom.com/wiki/First_Aid)
-- [Gunsmithing](https://thelongdark.fandom.com/wiki/Gunsmithing)
-- [Hunting](https://thelongdark.fandom.com/wiki/Hunting)
 - [Ice Fishing](https://thelongdark.fandom.com/wiki/Ice_Fishing)
-- [Mending](https://thelongdark.fandom.com/wiki/Mending)
-- [Repair](https://thelongdark.fandom.com/wiki/Repair)
-- [Research Book](https://thelongdark.fandom.com/wiki/Research_Book)
-- [Revolver Firearm](https://thelongdark.fandom.com/wiki/Revolver_Firearm)
 - [Rifle Firearm](https://thelongdark.fandom.com/wiki/Rifle_Firearm)
+- [Archery](https://thelongdark.fandom.com/wiki/Archery)
+- [Mending](https://thelongdark.fandom.com/wiki/Mending)
+- [Revolver Firearm](https://thelongdark.fandom.com/wiki/Revolver_Firearm)
+- [Gunsmithing](https://thelongdark.fandom.com/wiki/Gunsmithing)
+
+### Secondary Skills
+
+- [Cleaning](https://thelongdark.fandom.com/wiki/Cleaning)
+- [Repair](https://thelongdark.fandom.com/wiki/Repair)
 - [Sharpening](https://thelongdark.fandom.com/wiki/Sharpening)
+
+### Skill References
+
+- [Research Book](https://thelongdark.fandom.com/wiki/Research_Book)
 - [Skills](https://thelongdark.fandom.com/wiki/Skills)
 - [The Frozen Angler](https://thelongdark.fandom.com/wiki/The_Frozen_Angler)
-- [Trapping](https://thelongdark.fandom.com/wiki/Trapping)
 
-### Survival Mechanics & Traversal
+### Survival Mechanics & Activities
 
 - [Beachcombing](https://thelongdark.fandom.com/wiki/Beachcombing)
 - [Cheat Death](https://thelongdark.fandom.com/wiki/Cheat_Death)
 - [Daisy Chaining](https://thelongdark.fandom.com/wiki/Daisy_Chaining)
 - [Foraging](https://thelongdark.fandom.com/wiki/Foraging)
 - [Hibernation](https://thelongdark.fandom.com/wiki/Hibernation)
+- [Hunting](https://thelongdark.fandom.com/wiki/Hunting)
 - [Mountain Goating](https://thelongdark.fandom.com/wiki/Mountain_Goating)
 - [Rope Climbing](https://thelongdark.fandom.com/wiki/Rope_Climbing)
 - [Scent](https://thelongdark.fandom.com/wiki/Scent)
@@ -1093,6 +1098,7 @@
 - [Struggle](https://thelongdark.fandom.com/wiki/Struggle)
 - [Survivor Monologue](https://thelongdark.fandom.com/wiki/Survivor_Monologue)
 - [Trader](https://thelongdark.fandom.com/wiki/Trader)
+- [Trapping](https://thelongdark.fandom.com/wiki/Trapping)
 
 ### Crafting, Fire & Processing
 
@@ -1104,27 +1110,28 @@
 - [Fire Barrel](https://thelongdark.fandom.com/wiki/Fire_Barrel)
 - [Fireplace](https://thelongdark.fandom.com/wiki/Fireplace)
 - [Firewood Bin](https://thelongdark.fandom.com/wiki/Firewood_Bin)
+- [Forge](https://thelongdark.fandom.com/wiki/Forge)
 - [Harvesting](https://thelongdark.fandom.com/wiki/Harvesting)
 - [Milling Machine](https://thelongdark.fandom.com/wiki/Milling_Machine)
 - [Rim Grill](https://thelongdark.fandom.com/wiki/Rim_Grill)
 
-### Exploration & Collectibles
+### Collectibles
 
-- [Aurora Observations](https://thelongdark.fandom.com/wiki/Aurora_Observations)
-- [Buffer Memories](https://thelongdark.fandom.com/wiki/Buffer_Memories)
-- [Cairns](https://thelongdark.fandom.com/wiki/Cairns)
-- [Climber's Journal Page](https://thelongdark.fandom.com/wiki/Climber's_Journal_Page)
-- [Clothing](https://thelongdark.fandom.com/wiki/Clothing)
 - [Collectibles](https://thelongdark.fandom.com/wiki/Collectibles)
+- [Notes](https://thelongdark.fandom.com/wiki/Notes)
+- [Climber's Journal Page](https://thelongdark.fandom.com/wiki/Climber's_Journal_Page)
+- [Forest Talker Map Note](https://thelongdark.fandom.com/wiki/Forest_Talker_Map_Note)
+- [Water Stained Paper](https://thelongdark.fandom.com/wiki/Water_Stained_Paper)
+- [Transmitters](https://thelongdark.fandom.com/wiki/Transmitters)
+- [Recipe Cards](https://thelongdark.fandom.com/wiki/Recipe_Cards)
+- [Polaroids](https://thelongdark.fandom.com/wiki/Polaroids)
 - [Foreman's Polaroid 1](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_1)
 - [Foreman's Polaroid 2](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_2)
 - [Foreman's Polaroid 3](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_3)
 - [Foreman's Polaroid 4](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_4)
 - [Foreman's Polaroid 5](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_5)
-- [Forest Talker Map Note](https://thelongdark.fandom.com/wiki/Forest_Talker_Map_Note)
-- [Forest Talker Supply Caches](https://thelongdark.fandom.com/wiki/Forest_Talker_Supply_Caches)
+- [Mementos](https://thelongdark.fandom.com/wiki/Mementos)
 - [Lily's Map](https://thelongdark.fandom.com/wiki/Lily's_Map)
-- [Map](https://thelongdark.fandom.com/wiki/Map)
 - [Map (Church)](https://thelongdark.fandom.com/wiki/Map_(Church))
 - [Map (Train)](https://thelongdark.fandom.com/wiki/Map_(Train))
 - [Map of Pleasant Valley](https://thelongdark.fandom.com/wiki/Map_of_Pleasant_Valley)
@@ -1133,40 +1140,41 @@
 - [Memento Mori 3](https://thelongdark.fandom.com/wiki/Memento_Mori_3)
 - [Memento Mori 4](https://thelongdark.fandom.com/wiki/Memento_Mori_4)
 - [Memento Mori 5](https://thelongdark.fandom.com/wiki/Memento_Mori_5)
-- [Mementos](https://thelongdark.fandom.com/wiki/Mementos)
-- [Milton Supply Caches](https://thelongdark.fandom.com/wiki/Milton_Supply_Caches)
-- [Notes](https://thelongdark.fandom.com/wiki/Notes)
-- [Polaroids](https://thelongdark.fandom.com/wiki/Polaroids)
-- [Radio Parts](https://thelongdark.fandom.com/wiki/Radio_Parts)
-- [Recipe Cards](https://thelongdark.fandom.com/wiki/Recipe_Cards)
-- [Rock Cache](https://thelongdark.fandom.com/wiki/Rock_Cache)
 - [Rock Cache (Mementos)](https://thelongdark.fandom.com/wiki/Rock_Cache_(Mementos))
-- [Supply Cache](https://thelongdark.fandom.com/wiki/Supply_Cache) — primary home: Gameplay
+- [Cairns](https://thelongdark.fandom.com/wiki/Cairns)
+- [Buffer Memories](https://thelongdark.fandom.com/wiki/Buffer_Memories)
 - [Surveyed Locations](https://thelongdark.fandom.com/wiki/Surveyed_Locations)
-- [Transmitters](https://thelongdark.fandom.com/wiki/Transmitters) — primary home: Gameplay
-- [Water Stained Paper](https://thelongdark.fandom.com/wiki/Water_Stained_Paper)
+- [Aurora Observations](https://thelongdark.fandom.com/wiki/Aurora_Observations)
 
-### World Objects & Safehouse Interactions
+### Exploration & Caches
 
-- [Bear Skin Bedroll](https://thelongdark.fandom.com/wiki/Bear_Skin_Bedroll)
+- [Forest Talker Supply Caches](https://thelongdark.fandom.com/wiki/Forest_Talker_Supply_Caches)
+- [Milton Supply Caches](https://thelongdark.fandom.com/wiki/Milton_Supply_Caches)
+- [Radio Parts](https://thelongdark.fandom.com/wiki/Radio_Parts)
+- [Rock Cache](https://thelongdark.fandom.com/wiki/Rock_Cache)
+- [Supply Cache](https://thelongdark.fandom.com/wiki/Supply_Cache)
+
+### World Objects
+
 - [Bed](https://thelongdark.fandom.com/wiki/Bed)
-- [Bedroll](https://thelongdark.fandom.com/wiki/Bedroll)
 - [Car](https://thelongdark.fandom.com/wiki/Car)
 - [Cargo Container](https://thelongdark.fandom.com/wiki/Cargo_Container)
 - [Computer](https://thelongdark.fandom.com/wiki/Computer)
 - [File Cabinet](https://thelongdark.fandom.com/wiki/File_Cabinet)
 - [First Aid Kit](https://thelongdark.fandom.com/wiki/First_Aid_Kit)
 - [Frozen Corpse](https://thelongdark.fandom.com/wiki/Frozen_Corpse)
-- [Improvised Down Bedroll](https://thelongdark.fandom.com/wiki/Improvised_Down_Bedroll) — primary home: Gameplay
 - [Old Bedroll](https://thelongdark.fandom.com/wiki/Old_Bedroll)
 - [Radio](https://thelongdark.fandom.com/wiki/Radio)
 - [Safe](https://thelongdark.fandom.com/wiki/Safe)
-- [Safehouse](https://thelongdark.fandom.com/wiki/Safehouse)
-- [Safehouse Customization](https://thelongdark.fandom.com/wiki/Safehouse_Customization)
-- [Safehouse Decoration Box](https://thelongdark.fandom.com/wiki/Safehouse_Decoration_Box)
 - [Toilet](https://thelongdark.fandom.com/wiki/Toilet)
 - [Truck](https://thelongdark.fandom.com/wiki/Truck)
 - [Visor](https://thelongdark.fandom.com/wiki/Visor)
+
+### Safehouse Systems
+
+- [Safehouse](https://thelongdark.fandom.com/wiki/Safehouse)
+- [Safehouse Customization](https://thelongdark.fandom.com/wiki/Safehouse_Customization)
+- [Safehouse Decoration Box](https://thelongdark.fandom.com/wiki/Safehouse_Decoration_Box)
 
 ### Carcasses & Remains
 
@@ -1179,6 +1187,18 @@
 - [Rabbit Carcass](https://thelongdark.fandom.com/wiki/Rabbit_Carcass)
 - [Timberwolf Carcass](https://thelongdark.fandom.com/wiki/Timberwolf_Carcass)
 - [Wolf Carcass](https://thelongdark.fandom.com/wiki/Wolf_Carcass)
+
+### Modes & Interface
+
+- [4 Days of Night Event](https://thelongdark.fandom.com/wiki/4_Days_of_Night_Event)
+- [Interloper](https://thelongdark.fandom.com/wiki/Interloper)
+- [Map](https://thelongdark.fandom.com/wiki/Map)
+- [Radial Menu](https://thelongdark.fandom.com/wiki/Radial_Menu)
+- [Survival Menu](https://thelongdark.fandom.com/wiki/Survival_Menu)
+- [Survival Mode](https://thelongdark.fandom.com/wiki/Survival_Mode)
+- [Survival Mode/Interloper Tips](https://thelongdark.fandom.com/wiki/Survival_Mode/Interloper_Tips)
+- [Survival Overlay](https://thelongdark.fandom.com/wiki/Survival_Overlay)
+- [Winter's Embrace](https://thelongdark.fandom.com/wiki/Winter's_Embrace)
 
 ## 5. Challenges
 
@@ -1195,7 +1215,9 @@
 
 ## 6. Achievements
 
+## 6. Achievements
 > Achievements and Feats are kept together as a dedicated top-level index.
+- [Badges](https://thelongdark.fandom.com/wiki/Badges)
 - [Beneath a Starry Sky](https://thelongdark.fandom.com/wiki/Beneath_a_Starry_Sky)
 - [Big Cat Killer](https://thelongdark.fandom.com/wiki/Big_Cat_Killer)
 - [Centurion](https://thelongdark.fandom.com/wiki/Centurion)
@@ -1221,62 +1243,62 @@
 ## 7. DLC
 
 > **Secondary cross-index.** Entries are also listed in their primary group above when they are Locations, Items, Gameplay, Wildlife, or Archive pages. The direct Category:DLC Content membership is available; template-derived page-level assignments remain approximate and are not expanded here.
-- [Aviator Cap](https://thelongdark.fandom.com/wiki/Aviator_Cap) — primary home: Items
-- [Barb's Rifle](https://thelongdark.fandom.com/wiki/Barb's_Rifle) — primary home: Items
-- [Broth](https://thelongdark.fandom.com/wiki/Broth) — primary home: Items
-- [Buried Echoes](https://thelongdark.fandom.com/wiki/Buried_Echoes) — primary home: DLC
-- [Canned Corn](https://thelongdark.fandom.com/wiki/Canned_Corn) — primary home: Items
-- [Canned Ham](https://thelongdark.fandom.com/wiki/Canned_Ham) — primary home: Items
-- [Carrot](https://thelongdark.fandom.com/wiki/Carrot) — primary home: Items
-- [Chemical Boots](https://thelongdark.fandom.com/wiki/Chemical_Boots) — primary home: Items
-- [Chemical Hazard](https://thelongdark.fandom.com/wiki/Chemical_Hazard) — primary home: Gameplay
-- [Chemical Poisoning](https://thelongdark.fandom.com/wiki/Chemical_Poisoning) — primary home: Gameplay
-- [Cooking Oil](https://thelongdark.fandom.com/wiki/Cooking_Oil) — primary home: Items
-- [Cougar Hide Wrap](https://thelongdark.fandom.com/wiki/Cougar_Hide_Wrap) — primary home: Gameplay
-- [Curator's Rifle](https://thelongdark.fandom.com/wiki/Curator's_Rifle) — primary home: Items
-- [Far Range Branch Line](https://thelongdark.fandom.com/wiki/Far_Range_Branch_Line) — primary home: Locations
-- [Flight Jacket](https://thelongdark.fandom.com/wiki/Flight_Jacket) — primary home: Items
-- [Foreman's Tool Belt](https://thelongdark.fandom.com/wiki/Foreman's_Tool_Belt) — primary home: Items
-- [Forester's Revolver](https://thelongdark.fandom.com/wiki/Forester's_Revolver) — primary home: Items
-- [Forsaken Airfield](https://thelongdark.fandom.com/wiki/Forsaken_Airfield) — primary home: Locations
-- [Glimmer Fog](https://thelongdark.fandom.com/wiki/Glimmer_Fog) — primary home: Gameplay
-- [Gold Nugget](https://thelongdark.fandom.com/wiki/Gold_Nugget) — primary home: Items
-- [Handheld Shortwave Radio](https://thelongdark.fandom.com/wiki/Handheld_Shortwave_Radio) — primary home: Items
-- [Hockey Jersey](https://thelongdark.fandom.com/wiki/Hockey_Jersey) — primary home: Items
-- [Hunter's Revolver](https://thelongdark.fandom.com/wiki/Hunter's_Revolver) — primary home: Items
-- [Improvised Down Bedroll](https://thelongdark.fandom.com/wiki/Improvised_Down_Bedroll) — primary home: Gameplay
-- [Improvised Insulation](https://thelongdark.fandom.com/wiki/Improvised_Insulation) — primary home: Gameplay
-- [Insomnia](https://thelongdark.fandom.com/wiki/Insomnia) — primary home: Gameplay
-- [Iron Road](https://thelongdark.fandom.com/wiki/Iron_Road) — primary home: DLC
-- [Miner's Flashlight](https://thelongdark.fandom.com/wiki/Miner's_Flashlight) — primary home: Items
-- [Miner's Jacket](https://thelongdark.fandom.com/wiki/Miner's_Jacket) — primary home: Items
-- [Miner's Pants](https://thelongdark.fandom.com/wiki/Miner's_Pants) — primary home: Items
-- [Old Mill Flour](https://thelongdark.fandom.com/wiki/Old_Mill_Flour) — primary home: Items
-- [Poisoned Wolf](https://thelongdark.fandom.com/wiki/Poisoned_Wolf) — primary home: Wildlife
-- [Ptarmigan](https://thelongdark.fandom.com/wiki/Ptarmigan) — primary home: Wildlife
-- [Ptarmigan (Cooked)](https://thelongdark.fandom.com/wiki/Ptarmigan_(Cooked)) — primary home: Items
-- [Ptarmigan (Raw)](https://thelongdark.fandom.com/wiki/Ptarmigan_(Raw)) — primary home: Items
-- [Ptarmigan Down](https://thelongdark.fandom.com/wiki/Ptarmigan_Down) — primary home: Items
-- [Replacement Fuse](https://thelongdark.fandom.com/wiki/Replacement_Fuse) — primary home: Items
-- [Running River Oats](https://thelongdark.fandom.com/wiki/Running_River_Oats) — primary home: Items
-- [Salt](https://thelongdark.fandom.com/wiki/Salt) — primary home: Items
-- [Security Chief's Rifle Holster](https://thelongdark.fandom.com/wiki/Security_Chief's_Rifle_Holster) — primary home: Items
-- [Signal Void](https://thelongdark.fandom.com/wiki/Signal_Void) — primary home: DLC
-- [Spelunker's Lantern](https://thelongdark.fandom.com/wiki/Spelunker's_Lantern) — primary home: Items
-- [Sport Bow](https://thelongdark.fandom.com/wiki/Sport_Bow) — primary home: Items
-- [Supply Cache](https://thelongdark.fandom.com/wiki/Supply_Cache) — primary home: Gameplay
-- [Tales](https://thelongdark.fandom.com/wiki/Tales) — primary home: DLC
-- [Tales from the Far Territory](https://thelongdark.fandom.com/wiki/Tales_from_the_Far_Territory) — primary home: DLC
-- [Technical Balaclava](https://thelongdark.fandom.com/wiki/Technical_Balaclava) — primary home: Items
-- [Transfer Pass](https://thelongdark.fandom.com/wiki/Transfer_Pass) — primary home: Locations
-- [Transmitters](https://thelongdark.fandom.com/wiki/Transmitters) — primary home: Gameplay
-- [Vaughn's Rifle](https://thelongdark.fandom.com/wiki/Vaughn's_Rifle) — primary home: Items
-- [Warden's Revolver](https://thelongdark.fandom.com/wiki/Warden's_Revolver) — primary home: Items
-- [Wires](https://thelongdark.fandom.com/wiki/Wires) — primary home: Items
-- [Wolfskin Hat](https://thelongdark.fandom.com/wiki/Wolfskin_Hat) — primary home: Gameplay
-- [Wolfskin Pants](https://thelongdark.fandom.com/wiki/Wolfskin_Pants) — primary home: Gameplay
-- [Woodwright's Bow](https://thelongdark.fandom.com/wiki/Woodwright's_Bow) — primary home: Items
-- [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination) — primary home: Locations
+- [Aviator Cap](https://thelongdark.fandom.com/wiki/Aviator_Cap)
+- [Barb's Rifle](https://thelongdark.fandom.com/wiki/Barb's_Rifle)
+- [Broth](https://thelongdark.fandom.com/wiki/Broth)
+- [Buried Echoes](https://thelongdark.fandom.com/wiki/Buried_Echoes)
+- [Canned Corn](https://thelongdark.fandom.com/wiki/Canned_Corn)
+- [Canned Ham](https://thelongdark.fandom.com/wiki/Canned_Ham)
+- [Carrot](https://thelongdark.fandom.com/wiki/Carrot)
+- [Chemical Boots](https://thelongdark.fandom.com/wiki/Chemical_Boots)
+- [Chemical Hazard](https://thelongdark.fandom.com/wiki/Chemical_Hazard)
+- [Chemical Poisoning](https://thelongdark.fandom.com/wiki/Chemical_Poisoning)
+- [Cooking Oil](https://thelongdark.fandom.com/wiki/Cooking_Oil)
+- [Cougar Hide Wrap](https://thelongdark.fandom.com/wiki/Cougar_Hide_Wrap)
+- [Curator's Rifle](https://thelongdark.fandom.com/wiki/Curator's_Rifle)
+- [Far Range Branch Line](https://thelongdark.fandom.com/wiki/Far_Range_Branch_Line)
+- [Flight Jacket](https://thelongdark.fandom.com/wiki/Flight_Jacket)
+- [Foreman's Tool Belt](https://thelongdark.fandom.com/wiki/Foreman's_Tool_Belt)
+- [Forester's Revolver](https://thelongdark.fandom.com/wiki/Forester's_Revolver)
+- [Forsaken Airfield](https://thelongdark.fandom.com/wiki/Forsaken_Airfield)
+- [Glimmer Fog](https://thelongdark.fandom.com/wiki/Glimmer_Fog)
+- [Gold Nugget](https://thelongdark.fandom.com/wiki/Gold_Nugget)
+- [Handheld Shortwave Radio](https://thelongdark.fandom.com/wiki/Handheld_Shortwave_Radio)
+- [Hockey Jersey](https://thelongdark.fandom.com/wiki/Hockey_Jersey)
+- [Hunter's Revolver](https://thelongdark.fandom.com/wiki/Hunter's_Revolver)
+- [Improvised Down Bedroll](https://thelongdark.fandom.com/wiki/Improvised_Down_Bedroll)
+- [Improvised Insulation](https://thelongdark.fandom.com/wiki/Improvised_Insulation)
+- [Insomnia](https://thelongdark.fandom.com/wiki/Insomnia)
+- [Iron Road](https://thelongdark.fandom.com/wiki/Iron_Road)
+- [Miner's Flashlight](https://thelongdark.fandom.com/wiki/Miner's_Flashlight)
+- [Miner's Jacket](https://thelongdark.fandom.com/wiki/Miner's_Jacket)
+- [Miner's Pants](https://thelongdark.fandom.com/wiki/Miner's_Pants)
+- [Old Mill Flour](https://thelongdark.fandom.com/wiki/Old_Mill_Flour)
+- [Poisoned Wolf](https://thelongdark.fandom.com/wiki/Poisoned_Wolf)
+- [Ptarmigan](https://thelongdark.fandom.com/wiki/Ptarmigan)
+- [Ptarmigan (Cooked)](https://thelongdark.fandom.com/wiki/Ptarmigan_(Cooked))
+- [Ptarmigan (Raw)](https://thelongdark.fandom.com/wiki/Ptarmigan_(Raw))
+- [Ptarmigan Down](https://thelongdark.fandom.com/wiki/Ptarmigan_Down)
+- [Replacement Fuse](https://thelongdark.fandom.com/wiki/Replacement_Fuse)
+- [Running River Oats](https://thelongdark.fandom.com/wiki/Running_River_Oats)
+- [Salt](https://thelongdark.fandom.com/wiki/Salt)
+- [Security Chief's Rifle Holster](https://thelongdark.fandom.com/wiki/Security_Chief's_Rifle_Holster)
+- [Signal Void](https://thelongdark.fandom.com/wiki/Signal_Void)
+- [Spelunker's Lantern](https://thelongdark.fandom.com/wiki/Spelunker's_Lantern)
+- [Sport Bow](https://thelongdark.fandom.com/wiki/Sport_Bow)
+- [Supply Cache](https://thelongdark.fandom.com/wiki/Supply_Cache)
+- [Tales](https://thelongdark.fandom.com/wiki/Tales)
+- [Tales from the Far Territory](https://thelongdark.fandom.com/wiki/Tales_from_the_Far_Territory)
+- [Technical Balaclava](https://thelongdark.fandom.com/wiki/Technical_Balaclava)
+- [Transfer Pass](https://thelongdark.fandom.com/wiki/Transfer_Pass)
+- [Transmitters](https://thelongdark.fandom.com/wiki/Transmitters)
+- [Vaughn's Rifle](https://thelongdark.fandom.com/wiki/Vaughn's_Rifle)
+- [Warden's Revolver](https://thelongdark.fandom.com/wiki/Warden's_Revolver)
+- [Wires](https://thelongdark.fandom.com/wiki/Wires)
+- [Wolfskin Hat](https://thelongdark.fandom.com/wiki/Wolfskin_Hat)
+- [Wolfskin Pants](https://thelongdark.fandom.com/wiki/Wolfskin_Pants)
+- [Woodwright's Bow](https://thelongdark.fandom.com/wiki/Woodwright's_Bow)
+- [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination)
 
 ## 8. Archive
 

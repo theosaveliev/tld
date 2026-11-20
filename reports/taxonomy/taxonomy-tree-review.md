@@ -594,13 +594,9 @@
 - [Rose Hip](https://thelongdark.fandom.com/wiki/Rose_Hip)
 - [Scrub Brush](https://thelongdark.fandom.com/wiki/Scrub_Brush)
 
-## 3. Items
+## 3. Clothing & Climbing Gear
 
-> This section contains articles about inventory items and equipment: things the player can carry, use, consume, wear, craft, or collect as gear. Pages are grouped by their in-game function. Fixed environmental objects and stationary work areas are classified under Gameplay instead.
-
-### Clothing & Wearables
-
-> Wearable clothing, protective equipment, and accessories that occupy clothing slots or provide a wearable benefit. This includes special garments and wearable carry-weight or climbing equipment.
+> Clothing, protective equipment, and accessories worn by the player, along with equipment used for climbing.
 
 - [Astrid's Boots](https://thelongdark.fandom.com/wiki/Astrid's_Boots)
 - [Astrid's Gloves](https://thelongdark.fandom.com/wiki/Astrid's_Gloves)
@@ -713,6 +709,11 @@
 - [Work Boots](https://thelongdark.fandom.com/wiki/Work_Boots)
 - [Work Gloves](https://thelongdark.fandom.com/wiki/Work_Gloves)
 - [Work Pants](https://thelongdark.fandom.com/wiki/Work_Pants)
+
+## 4. Items
+
+> This section contains articles about inventory items and equipment that the player can carry, use, consume, craft, or collect. Wearable clothing and equipment, including climbing gear, are grouped under Clothing & Climbing Gear. Fixed environmental objects and stationary work areas are classified under Gameplay instead.
+
 
 ### Food & Drink
 
@@ -1273,7 +1274,7 @@
 
 - [Decorations](https://thelongdark.fandom.com/wiki/Decorations)
 
-## 4. Gameplay
+## 5. Gameplay
 
 > This section covers the systems, mechanics, activities, and interactions that shape play. Portable inventory items belong under Items; fixed objects encountered in the environment belong under World Objects; challenges and achievements have their own top-level sections.
 
@@ -1910,7 +1911,7 @@
 - [Voyageur](https://thelongdark.fandom.com/wiki/Voyageur)
 - [Winter's Embrace](https://thelongdark.fandom.com/wiki/Winter's_Embrace)
 
-## 5. Challenges
+## 6. Challenges
 
 > This section contains the game's standalone challenge modes and the pages that explain or document their objectives and completion.
 
@@ -1928,7 +1929,7 @@
 - [The Hunted, Part Two](https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_Two)
 - [Whiteout](https://thelongdark.fandom.com/wiki/Whiteout)
 
-## 6. Achievements
+## 7. Achievements
 
 > Achievements, Feats, and related progress records are grouped here. These pages describe milestone-based goals rather than the moment-to-moment survival systems in Gameplay.
 
@@ -2040,7 +2041,7 @@
 - [You'll Be With Her Soon](https://thelongdark.fandom.com/wiki/You'll_Be_With_Her_Soon)
 - [Your Journey Begins](https://thelongdark.fandom.com/wiki/Your_Journey_Begins)
 
-## 7. DLC
+## 8. DLC
 
 > A cross-index of pages associated with downloadable content. A page listed here retains its primary home in Locations, Nature, Items, Gameplay, Challenges, Achievements, or Archive; this section does not replace those classifications.
 
@@ -2101,7 +2102,7 @@
 - [Woodwright's Bow](https://thelongdark.fandom.com/wiki/Woodwright's_Bow)
 - [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination)
 
-## 8. Archive
+## 9. Archive
 
 > Pages retained for historical, legacy, or story-reference purposes that are not part of the main navigational taxonomy. Archived pages remain linked and are not deleted.
 

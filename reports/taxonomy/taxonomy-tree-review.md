@@ -242,6 +242,7 @@
 - [Bunkhouses](https://thelongdark.fandom.com/wiki/Bunkhouses)
 - [Hat Creek](https://thelongdark.fandom.com/wiki/Hat_Creek)
 - [High Blind](https://thelongdark.fandom.com/wiki/High_Blind)
+- [Jeremiah's Hideout](https://thelongdark.fandom.com/wiki/Jeremiah's_Hideout)
 - [Low Blind](https://thelongdark.fandom.com/wiki/Low_Blind)
 - [Marsh Ridge](https://thelongdark.fandom.com/wiki/Marsh_Ridge)
 - [Muskeg Overlook](https://thelongdark.fandom.com/wiki/Muskeg_Overlook)
@@ -540,19 +541,15 @@
 
 ### Other locations
 
-> This group collects notable structures and features that do not belong to a single region. It includes cross-region features and recurring structure types, such as fishing huts, which appear in several regions as small, useful shelters rather than as one named location.
+> This group collects notable structures and features that do not belong to a single region.
 
-- [Building Blackrock](https://thelongdark.fandom.com/wiki/Building_Blackrock)
 - [Coastal Cave](https://thelongdark.fandom.com/wiki/Coastal_Cave)
 - [Fishing Hut](https://thelongdark.fandom.com/wiki/Fishing_Hut)
 - [Foreman's Refuge](https://thelongdark.fandom.com/wiki/Foreman's_Refuge)
 - [Great Bear Highway](https://thelongdark.fandom.com/wiki/Great_Bear_Highway)
 - [Ice Cave](https://thelongdark.fandom.com/wiki/Ice_Cave)
 - [Jackrabbit Hangar](https://thelongdark.fandom.com/wiki/Jackrabbit_Hangar)
-- [Jeremiah's Hideout](https://thelongdark.fandom.com/wiki/Jeremiah's_Hideout)
-- [Perseverance](https://thelongdark.fandom.com/wiki/Perseverance)
 - [Repair Depot](https://thelongdark.fandom.com/wiki/Repair_Depot)
-- [Town of Milton](https://thelongdark.fandom.com/wiki/Town_of_Milton)
 
 ## 2. Nature
 
@@ -1478,6 +1475,7 @@
 - [Bloody note](https://thelongdark.fandom.com/wiki/Bloody_note)
 - [Breyerhouse Crew Winter Warning](https://thelongdark.fandom.com/wiki/Breyerhouse_Crew_Winter_Warning)
 - [Buffer Memories](https://thelongdark.fandom.com/wiki/Buffer_Memories)
+- [Building Blackrock](https://thelongdark.fandom.com/wiki/Building_Blackrock)
 - [Bunker Schematic Fragment 1](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_1)
 - [Bunker Schematic Fragment 2](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_2)
 - [Bunker Schematic Fragment 3](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_3)
@@ -1685,6 +1683,7 @@
 - [Time Capsule](https://thelongdark.fandom.com/wiki/Time_Capsule)
 - [Torn Page](https://thelongdark.fandom.com/wiki/Torn_Page)
 - [Torn Paper](https://thelongdark.fandom.com/wiki/Torn_Paper)
+- [Town of Milton](https://thelongdark.fandom.com/wiki/Town_of_Milton)
 - [Transmitters](https://thelongdark.fandom.com/wiki/Transmitters)
 - [Trash Can Letter](https://thelongdark.fandom.com/wiki/Trash_Can_Letter)
 - [Undelivered Letter](https://thelongdark.fandom.com/wiki/Undelivered_Letter)
@@ -2176,6 +2175,7 @@
 - [Paradise Lost (Predux)](https://thelongdark.fandom.com/wiki/Paradise_Lost_(Predux))
 - [Paradise Lost (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Paradise_Lost_(Predux)/Transcript)
 - [Paradise Lost/Transcript](https://thelongdark.fandom.com/wiki/Paradise_Lost/Transcript)
+- [Perseverance](https://thelongdark.fandom.com/wiki/Perseverance)
 - [Prologue](https://thelongdark.fandom.com/wiki/Prologue)
 - [Prologue/Transcript](https://thelongdark.fandom.com/wiki/Prologue/Transcript)
 - [Renewed Hope](https://thelongdark.fandom.com/wiki/Renewed_Hope)

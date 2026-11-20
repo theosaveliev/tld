@@ -913,10 +913,9 @@
 - [Reishi Tea](https://thelongdark.fandom.com/wiki/Reishi_Tea)
 - [Rose Hip Tea](https://thelongdark.fandom.com/wiki/Rose_Hip_Tea)
 
-
 ## 6. Weapons & Ammunition
 
-> Weapons used for hunting or defence, their ammunition, and projectile components. Individual weapon variants are listed alongside the weapon type they belong to.
+> Weapons used for hunting or defence, their ammunition, and projectile components.
 
 ### Firearms
 
@@ -963,10 +962,14 @@
 ### Ammunition
 
 - [Bullet](https://thelongdark.fandom.com/wiki/Bullet)
+- [Can of Gunpowder](https://thelongdark.fandom.com/wiki/Can_of_Gunpowder)
 - [Flare Shell](https://thelongdark.fandom.com/wiki/Flare_Shell)
 - [Revolver Ammunition](https://thelongdark.fandom.com/wiki/Revolver_Ammunition)
+- [Revolver Shell Casing](https://thelongdark.fandom.com/wiki/Revolver_Shell_Casing)
 - [Rifle Ammunition](https://thelongdark.fandom.com/wiki/Rifle_Ammunition)
+- [Rifle Shell Casing](https://thelongdark.fandom.com/wiki/Rifle_Shell_Casing)
 - [Shotgun Ammunition](https://thelongdark.fandom.com/wiki/Shotgun_Ammunition)
+- [Shotgun Shell Casing](https://thelongdark.fandom.com/wiki/Shotgun_Shell_Casing)(https://thelongdark.fandom.com/wiki/Shotgun_Ammunition)
 
 ## 7. Tools & Equipment
 
@@ -1157,7 +1160,6 @@
 - [Brake Shoe](https://thelongdark.fandom.com/wiki/Brake_Shoe)
 - [Branch](https://thelongdark.fandom.com/wiki/Branch)
 - [Burned Out Fuse](https://thelongdark.fandom.com/wiki/Burned_Out_Fuse)
-- [Can of Gunpowder](https://thelongdark.fandom.com/wiki/Can_of_Gunpowder)
 - [Car Battery](https://thelongdark.fandom.com/wiki/Car_Battery)
 - [Cedar Limb](https://thelongdark.fandom.com/wiki/Cedar_Limb)
 - [Charcoal](https://thelongdark.fandom.com/wiki/Charcoal)
@@ -1196,13 +1198,10 @@
 - [Ptarmigan Down](https://thelongdark.fandom.com/wiki/Ptarmigan_Down)
 - [Reclaimed Wood](https://thelongdark.fandom.com/wiki/Reclaimed_Wood)
 - [Replacement Fuse](https://thelongdark.fandom.com/wiki/Replacement_Fuse)
-- [Revolver Shell Casing](https://thelongdark.fandom.com/wiki/Revolver_Shell_Casing)
-- [Rifle Shell Casing](https://thelongdark.fandom.com/wiki/Rifle_Shell_Casing)
 - [Salt Deposit](https://thelongdark.fandom.com/wiki/Salt_Deposit)
 - [Scrap Lead](https://thelongdark.fandom.com/wiki/Scrap_Lead)
 - [Scrap Metal](https://thelongdark.fandom.com/wiki/Scrap_Metal)
 - [Scrap Metal Shard](https://thelongdark.fandom.com/wiki/Scrap_Metal_Shard)
-- [Shotgun Shell Casing](https://thelongdark.fandom.com/wiki/Shotgun_Shell_Casing)
 - [Stick](https://thelongdark.fandom.com/wiki/Stick)
 - [Stump Remover](https://thelongdark.fandom.com/wiki/Stump_Remover)
 - [Transponder Parts](https://thelongdark.fandom.com/wiki/Transponder_Parts)

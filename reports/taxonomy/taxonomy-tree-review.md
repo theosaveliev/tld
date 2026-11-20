@@ -762,15 +762,10 @@
 
 #### Drinks
 
-- [Birch Bark Tea](https://thelongdark.fandom.com/wiki/Birch_Bark_Tea)
-- [Burdock Tea](https://thelongdark.fandom.com/wiki/Burdock_Tea)
 - [Cup of Acorn Coffee](https://thelongdark.fandom.com/wiki/Cup_of_Acorn_Coffee)
 - [Cup of Coffee](https://thelongdark.fandom.com/wiki/Cup_of_Coffee)
 - [Cup of Herbal Tea](https://thelongdark.fandom.com/wiki/Cup_of_Herbal_Tea)
-- [Go! Energy Drink](https://thelongdark.fandom.com/wiki/Go!_Energy_Drink)
 - [Orange Soda](https://thelongdark.fandom.com/wiki/Orange_Soda)
-- [Reishi Tea](https://thelongdark.fandom.com/wiki/Reishi_Tea)
-- [Rose Hip Tea](https://thelongdark.fandom.com/wiki/Rose_Hip_Tea)
 - [Stacy's Grape Soda](https://thelongdark.fandom.com/wiki/Stacy's_Grape_Soda)
 - [Summit Soda](https://thelongdark.fandom.com/wiki/Summit_Soda)
 - [Water (Potable)](https://thelongdark.fandom.com/wiki/Water_(Potable))
@@ -824,9 +819,6 @@
 
 #### Medicinal Consumables
 
-- [Caffeine Pills](https://thelongdark.fandom.com/wiki/Caffeine_Pills)
-- [Prepared Burdock](https://thelongdark.fandom.com/wiki/Prepared_Burdock)
-- [Vitamin-C Pills](https://thelongdark.fandom.com/wiki/Vitamin-C_Pills)
 
 #### Seasonal & Wintermute Foods
 
@@ -837,10 +829,36 @@
 
 ### First Aid & Medicine
 
+> First Aid treatments, medicinal plant preparations, respiratory protection, and story-specific medical kits and supplies.
+
+- [Antibiotics](https://thelongdark.fandom.com/wiki/Antibiotics)
+- [Antiseptic](https://thelongdark.fandom.com/wiki/Antiseptic)
+- [Bandage](https://thelongdark.fandom.com/wiki/Bandage)
+- [Birch Bark Tea](https://thelongdark.fandom.com/wiki/Birch_Bark_Tea)
+- [Blackrock Infirmary Medication](https://thelongdark.fandom.com/wiki/Blackrock_Infirmary_Medication)
 - [Burdock Root](https://thelongdark.fandom.com/wiki/Burdock_Root)
+- [Burdock Tea](https://thelongdark.fandom.com/wiki/Burdock_Tea)
+- [Caffeine Pills](https://thelongdark.fandom.com/wiki/Caffeine_Pills)
+- [Canister](https://thelongdark.fandom.com/wiki/Canister)
+- [Carter Hydro Medical Supplies](https://thelongdark.fandom.com/wiki/Carter_Hydro_Medical_Supplies)
+- [Emergency Stim](https://thelongdark.fandom.com/wiki/Emergency_Stim)
+- [First Aid Kit (tool)](https://thelongdark.fandom.com/wiki/First_Aid_Kit_(tool))
+- [Go! Energy Drink](https://thelongdark.fandom.com/wiki/Go!_Energy_Drink)
+- [Heat Pack](https://thelongdark.fandom.com/wiki/Heat_Pack)
+- [Insulin](https://thelongdark.fandom.com/wiki/Insulin)
+- [Military Stim](https://thelongdark.fandom.com/wiki/Military_Stim)
+- [Old Man's Beard Wound Dressing](https://thelongdark.fandom.com/wiki/Old_Man's_Beard_Wound_Dressing)
+- [Painkillers](https://thelongdark.fandom.com/wiki/Painkillers)
 - [Prepared Birch Bark](https://thelongdark.fandom.com/wiki/Prepared_Birch_Bark)
+- [Prepared Burdock](https://thelongdark.fandom.com/wiki/Prepared_Burdock)
 - [Prepared Reishi Mushrooms](https://thelongdark.fandom.com/wiki/Prepared_Reishi_Mushrooms)
 - [Prepared Rose Hips](https://thelongdark.fandom.com/wiki/Prepared_Rose_Hips)
+- [Reishi Tea](https://thelongdark.fandom.com/wiki/Reishi_Tea)
+- [Respirator](https://thelongdark.fandom.com/wiki/Respirator)
+- [Rose Hip Tea](https://thelongdark.fandom.com/wiki/Rose_Hip_Tea)
+- [Trauma Kit](https://thelongdark.fandom.com/wiki/Trauma_Kit)
+- [Vitamin-C Pills](https://thelongdark.fandom.com/wiki/Vitamin-C_Pills)
+- [Water Purification Tablets](https://thelongdark.fandom.com/wiki/Water_Purification_Tablets)
 
 ### Weapons & Ammunition
 
@@ -913,7 +931,6 @@
 ### Skills
 
 > Sub-index under Gameplay. Includes Hunting, Trapping, and pages classified by the source First Aid, Fire Starting, and Ice Fishing categories.
-- [Antibiotics](https://thelongdark.fandom.com/wiki/Antibiotics)
 - [Fishing Lure (Acorns)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(Acorns))
 - [Fishing Lure (Revolver Shell Casing)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(Revolver_Shell_Casing))
 - [Fishing Lure (Wire Bundle)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(Wire_Bundle))
@@ -921,13 +938,11 @@
 - [Fishing Tip-Up](https://thelongdark.fandom.com/wiki/Fishing_Tip-Up)
 - [Hunting](https://thelongdark.fandom.com/wiki/Hunting)
 - [Jerry Can](https://thelongdark.fandom.com/wiki/Jerry_Can)
-- [Painkillers](https://thelongdark.fandom.com/wiki/Painkillers)
 - [Rim Grill](https://thelongdark.fandom.com/wiki/Rim_Grill)
 - [Simple Fishing Lure](https://thelongdark.fandom.com/wiki/Simple_Fishing_Lure)
 - [Skills](https://thelongdark.fandom.com/wiki/Skills)
 - [The Frozen Angler](https://thelongdark.fandom.com/wiki/The_Frozen_Angler)
 - [Trapping](https://thelongdark.fandom.com/wiki/Trapping)
-- [Water Purification Tablets](https://thelongdark.fandom.com/wiki/Water_Purification_Tablets)
 
 ### Other gameplay topics
 
@@ -1160,7 +1175,7 @@
 
 ## Needs review
 
-> 1271 pages have no confirmed primary placement from the direct category report, or belong to source categories not yet mapped to the agreed taxonomy. These are retained here for manual review; they are not being discarded.
+> 893 pages have no confirmed primary placement from the direct category report, or belong to source categories not yet mapped to the agreed taxonomy. These are retained here for manual review; they are not being discarded.
 - [A Cry For Help](https://thelongdark.fandom.com/wiki/A_Cry_For_Help)
 - [A Handwritten Letter](https://thelongdark.fandom.com/wiki/A_Handwritten_Letter)
 - [A Handwritten Note](https://thelongdark.fandom.com/wiki/A_Handwritten_Note)
@@ -1184,7 +1199,6 @@
 - [Ammunition Forge](https://thelongdark.fandom.com/wiki/Ammunition_Forge)
 - [An Old House Key](https://thelongdark.fandom.com/wiki/An_Old_House_Key)
 - [An Old Logbook](https://thelongdark.fandom.com/wiki/An_Old_Logbook)
-- [Antiseptic](https://thelongdark.fandom.com/wiki/Antiseptic)
 - [Anxiety](https://thelongdark.fandom.com/wiki/Anxiety)
 - [Archery](https://thelongdark.fandom.com/wiki/Archery)
 - [Archival Report](https://thelongdark.fandom.com/wiki/Archival_Report)
@@ -1197,7 +1211,6 @@
 - [Aurora Hatch Door Entry Code](https://thelongdark.fandom.com/wiki/Aurora_Hatch_Door_Entry_Code)
 - [Aurora Observations](https://thelongdark.fandom.com/wiki/Aurora_Observations)
 - [Backpack](https://thelongdark.fandom.com/wiki/Backpack)
-- [Bandage](https://thelongdark.fandom.com/wiki/Bandage)
 - [Bank Deposit Box Key 13](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_13)
 - [Bank Deposit Box Key 15](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_15)
 - [Bank Deposit Box Key 20](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_20)
@@ -1222,7 +1235,6 @@
 - [Blackrock Blues/Transcript](https://thelongdark.fandom.com/wiki/Blackrock_Blues/Transcript)
 - [Blackrock Foothills Map](https://thelongdark.fandom.com/wiki/Blackrock_Foothills_Map)
 - [Blackrock Gate Key](https://thelongdark.fandom.com/wiki/Blackrock_Gate_Key)
-- [Blackrock Infirmary Medication](https://thelongdark.fandom.com/wiki/Blackrock_Infirmary_Medication)
 - [Blackrock Locker Key 2](https://thelongdark.fandom.com/wiki/Blackrock_Locker_Key_2)
 - [Blackrock Locker Key 3](https://thelongdark.fandom.com/wiki/Blackrock_Locker_Key_3)
 - [Blackrock Locker Key 8](https://thelongdark.fandom.com/wiki/Blackrock_Locker_Key_8)
@@ -1284,7 +1296,6 @@
 - [Can](https://thelongdark.fandom.com/wiki/Can)
 - [Can of Gunpowder](https://thelongdark.fandom.com/wiki/Can_of_Gunpowder)
 - [Can Opener](https://thelongdark.fandom.com/wiki/Can_Opener)
-- [Canister](https://thelongdark.fandom.com/wiki/Canister)
 - [Cannery Memo](https://thelongdark.fandom.com/wiki/Cannery_Memo)
 - [Car Battery](https://thelongdark.fandom.com/wiki/Car_Battery)
 - [Car Trunk](https://thelongdark.fandom.com/wiki/Car_Trunk)
@@ -1293,7 +1304,6 @@
 - [Cardboard Matches](https://thelongdark.fandom.com/wiki/Cardboard_Matches)
 - [Carter Hydro Dam -- Safety & Shutdown Notice](https://thelongdark.fandom.com/wiki/Carter_Hydro_Dam_--_Safety_%26_Shutdown_Notice)
 - [Carter Hydro Dam (Collectible)](https://thelongdark.fandom.com/wiki/Carter_Hydro_Dam_(Collectible))
-- [Carter Hydro Medical Supplies](https://thelongdark.fandom.com/wiki/Carter_Hydro_Medical_Supplies)
 - [Carter Hydro Staging Area Gate Key](https://thelongdark.fandom.com/wiki/Carter_Hydro_Staging_Area_Gate_Key)
 - [Carved Bear Figurine](https://thelongdark.fandom.com/wiki/Carved_Bear_Figurine)
 - [Carved Cougar Figurine](https://thelongdark.fandom.com/wiki/Carved_Cougar_Figurine)
@@ -1410,7 +1420,6 @@
 - [Emergency Food](https://thelongdark.fandom.com/wiki/Emergency_Food)
 - [Emergency Kit](https://thelongdark.fandom.com/wiki/Emergency_Kit)
 - [Emergency Kit Note](https://thelongdark.fandom.com/wiki/Emergency_Kit_Note)
-- [Emergency Stim](https://thelongdark.fandom.com/wiki/Emergency_Stim)
 - [Ends of the Earth](https://thelongdark.fandom.com/wiki/Ends_of_the_Earth)
 - [Enemy For Life](https://thelongdark.fandom.com/wiki/Enemy_For_Life)
 - [Energy Boost](https://thelongdark.fandom.com/wiki/Energy_Boost)
@@ -1444,7 +1453,6 @@
 - [Firewood Bin](https://thelongdark.fandom.com/wiki/Firewood_Bin)
 - [First Aid](https://thelongdark.fandom.com/wiki/First_Aid)
 - [First Aid Kit](https://thelongdark.fandom.com/wiki/First_Aid_Kit)
-- [First Aid Kit (tool)](https://thelongdark.fandom.com/wiki/First_Aid_Kit_(tool))
 - [Fishing Bait](https://thelongdark.fandom.com/wiki/Fishing_Bait)
 - [Fishing Lure (disambiguation)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(disambiguation))
 - [Flare](https://thelongdark.fandom.com/wiki/Flare)
@@ -1531,7 +1539,6 @@
 - [Haunted Mind](https://thelongdark.fandom.com/wiki/Haunted_Mind)
 - [He Lives](https://thelongdark.fandom.com/wiki/He_Lives)
 - [Headache](https://thelongdark.fandom.com/wiki/Headache)
-- [Heat Pack](https://thelongdark.fandom.com/wiki/Heat_Pack)
 - [Heat Pack (Affliction)](https://thelongdark.fandom.com/wiki/Heat_Pack_(Affliction))
 - [Helicopter](https://thelongdark.fandom.com/wiki/Helicopter)
 - [Hidden Cache](https://thelongdark.fandom.com/wiki/Hidden_Cache)
@@ -1571,7 +1578,6 @@
 - [Infection Risk](https://thelongdark.fandom.com/wiki/Infection_Risk)
 - [Insomnia Risk](https://thelongdark.fandom.com/wiki/Insomnia_Risk)
 - [Insulated Flask](https://thelongdark.fandom.com/wiki/Insulated_Flask)
-- [Insulin](https://thelongdark.fandom.com/wiki/Insulin)
 - [Interloper](https://thelongdark.fandom.com/wiki/Interloper)
 - [Interview Transcript 12](https://thelongdark.fandom.com/wiki/Interview_Transcript_12)
 - [Interview Transcript 14](https://thelongdark.fandom.com/wiki/Interview_Transcript_14)
@@ -1675,7 +1681,6 @@
 - [Metal Shelf](https://thelongdark.fandom.com/wiki/Metal_Shelf)
 - [Metal Table](https://thelongdark.fandom.com/wiki/Metal_Table)
 - [Microwave](https://thelongdark.fandom.com/wiki/Microwave)
-- [Military Stim](https://thelongdark.fandom.com/wiki/Military_Stim)
 - [Milton Credit Union Letter](https://thelongdark.fandom.com/wiki/Milton_Credit_Union_Letter)
 - [Milton Hidden Cache Note](https://thelongdark.fandom.com/wiki/Milton_Hidden_Cache_Note)
 - [Milton Post Office Note](https://thelongdark.fandom.com/wiki/Milton_Post_Office_Note)
@@ -1729,7 +1734,6 @@
 - [Office Memo](https://thelongdark.fandom.com/wiki/Office_Memo)
 - [Oil Tank](https://thelongdark.fandom.com/wiki/Oil_Tank)
 - [Old Bedroll](https://thelongdark.fandom.com/wiki/Old_Bedroll)
-- [Old Man's Beard Wound Dressing](https://thelongdark.fandom.com/wiki/Old_Man's_Beard_Wound_Dressing)
 - [Old Substation Work Memo](https://thelongdark.fandom.com/wiki/Old_Substation_Work_Memo)
 - [On the Lookout](https://thelongdark.fandom.com/wiki/On_the_Lookout)
 - [On the Nature of Darkwalkers](https://thelongdark.fandom.com/wiki/On_the_Nature_of_Darkwalkers)
@@ -1806,7 +1810,6 @@
 - [Repair](https://thelongdark.fandom.com/wiki/Repair)
 - [Research Book](https://thelongdark.fandom.com/wiki/Research_Book)
 - [Resolute Outfitter](https://thelongdark.fandom.com/wiki/Resolute_Outfitter)
-- [Respirator](https://thelongdark.fandom.com/wiki/Respirator)
 - [Restore Condition](https://thelongdark.fandom.com/wiki/Restore_Condition)
 - [Revolver](https://thelongdark.fandom.com/wiki/Revolver)
 - [Revolver Firearm](https://thelongdark.fandom.com/wiki/Revolver_Firearm)
@@ -1996,7 +1999,6 @@
 - [Trash Can](https://thelongdark.fandom.com/wiki/Trash_Can)
 - [Trash Can Letter](https://thelongdark.fandom.com/wiki/Trash_Can_Letter)
 - [Trauma](https://thelongdark.fandom.com/wiki/Trauma)
-- [Trauma Kit](https://thelongdark.fandom.com/wiki/Trauma_Kit)
 - [Trauma/Transcript](https://thelongdark.fandom.com/wiki/Trauma/Transcript)
 - [Travois](https://thelongdark.fandom.com/wiki/Travois)
 - [Trunk](https://thelongdark.fandom.com/wiki/Trunk)

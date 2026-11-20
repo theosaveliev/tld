@@ -905,31 +905,73 @@
 
 ### Tools & Equipment
 
-- [Forge](https://thelongdark.fandom.com/wiki/Forge)
+#### Cooking & Containers
+
+- [Can Opener](https://thelongdark.fandom.com/wiki/Can_Opener)
+- [Cooking Pot](https://thelongdark.fandom.com/wiki/Cooking_Pot)
+- [Cooking Skillet](https://thelongdark.fandom.com/wiki/Cooking_Skillet)
+- [Insulated Flask](https://thelongdark.fandom.com/wiki/Insulated_Flask)
+- [Recycled Can](https://thelongdark.fandom.com/wiki/Recycled_Can)
+
+#### Fishing & Trapping Gear
+
+- [Fishing Bait](https://thelongdark.fandom.com/wiki/Fishing_Bait)
+- [Fishing Lure (Acorns)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(Acorns))
+- [Fishing Lure (Revolver Shell Casing)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(Revolver_Shell_Casing))
+- [Fishing Lure (Wire Bundle)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(Wire_Bundle))
+- [Fishing Tackle](https://thelongdark.fandom.com/wiki/Fishing_Tackle)
+- [Fishing Tip-Up](https://thelongdark.fandom.com/wiki/Fishing_Tip-Up)
+- [Hook](https://thelongdark.fandom.com/wiki/Hook)
+- [Line](https://thelongdark.fandom.com/wiki/Line)
+- [Simple Fishing Lure](https://thelongdark.fandom.com/wiki/Simple_Fishing_Lure)
+- [Snare](https://thelongdark.fandom.com/wiki/Snare)
+
+#### Hand Tools
+
+- [Cougar Claw Knife](https://thelongdark.fandom.com/wiki/Cougar_Claw_Knife)
 - [Hacksaw](https://thelongdark.fandom.com/wiki/Hacksaw)
-- [Handheld Shortwave Radio](https://thelongdark.fandom.com/wiki/Handheld_Shortwave_Radio)
 - [Hatchet](https://thelongdark.fandom.com/wiki/Hatchet)
 - [Heavy Hammer](https://thelongdark.fandom.com/wiki/Heavy_Hammer)
-- [Hook](https://thelongdark.fandom.com/wiki/Hook)
 - [Hunting Knife](https://thelongdark.fandom.com/wiki/Hunting_Knife)
 - [Improvised Hatchet](https://thelongdark.fandom.com/wiki/Improvised_Hatchet)
 - [Improvised Knife](https://thelongdark.fandom.com/wiki/Improvised_Knife)
-- [Line](https://thelongdark.fandom.com/wiki/Line)
 - [Prybar](https://thelongdark.fandom.com/wiki/Prybar)
+- [Survival Knife](https://thelongdark.fandom.com/wiki/Survival_Knife)
+
+#### Repair & Crafting Equipment
+
+- [Firearm Cleaning Kit](https://thelongdark.fandom.com/wiki/Firearm_Cleaning_Kit)
+- [Forge](https://thelongdark.fandom.com/wiki/Forge)
 - [Quality Tools](https://thelongdark.fandom.com/wiki/Quality_Tools)
 - [Sewing Kit](https://thelongdark.fandom.com/wiki/Sewing_Kit)
 - [Simple Tools](https://thelongdark.fandom.com/wiki/Simple_Tools)
-- [Snare](https://thelongdark.fandom.com/wiki/Snare)
+- [Whetstone](https://thelongdark.fandom.com/wiki/Whetstone)
+- [Woodworking Tools](https://thelongdark.fandom.com/wiki/Woodworking_Tools)
+
+#### Field & Utility Equipment
+
+- [Bolt Cutters](https://thelongdark.fandom.com/wiki/Bolt_Cutters)
+- [Camera](https://thelongdark.fandom.com/wiki/Camera)
+- [FastFilm-500](https://thelongdark.fandom.com/wiki/FastFilm-500)
+- [FastFilm-500BW](https://thelongdark.fandom.com/wiki/FastFilm-500BW)
+- [FastFilm-500SPA](https://thelongdark.fandom.com/wiki/FastFilm-500SPA)
+- [Handheld Shortwave Radio](https://thelongdark.fandom.com/wiki/Handheld_Shortwave_Radio)
+- [Mountaineering Rope](https://thelongdark.fandom.com/wiki/Mountaineering_Rope)
 - [Spray Paint](https://thelongdark.fandom.com/wiki/Spray_Paint)
+- [Spray Paint - Glyph](https://thelongdark.fandom.com/wiki/Spray_Paint_-_Glyph)
+- [Travois](https://thelongdark.fandom.com/wiki/Travois)
+
+#### Other & Reference
+
 - [The Detonators](https://thelongdark.fandom.com/wiki/The_Detonators)
 - [Tools](https://thelongdark.fandom.com/wiki/Tools)
-- [Whetstone](https://thelongdark.fandom.com/wiki/Whetstone)
 
 ### Fire, Light & Fuel
 
 - [Cedar Firewood](https://thelongdark.fandom.com/wiki/Cedar_Firewood)
 - [Fir Firewood](https://thelongdark.fandom.com/wiki/Fir_Firewood)
 - [Flashlight](https://thelongdark.fandom.com/wiki/Flashlight)
+- [Jerry Can](https://thelongdark.fandom.com/wiki/Jerry_Can)
 - [Miner's Flashlight](https://thelongdark.fandom.com/wiki/Miner's_Flashlight)
 - [Spelunker's Lantern](https://thelongdark.fandom.com/wiki/Spelunker's_Lantern)
 - [Storm Lantern](https://thelongdark.fandom.com/wiki/Storm_Lantern)
@@ -953,16 +995,9 @@
 
 ### Skills
 
-> Sub-index under Gameplay. Includes Hunting, Trapping, and pages classified by the source First Aid, Fire Starting, and Ice Fishing categories.
-- [Fishing Lure (Acorns)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(Acorns))
-- [Fishing Lure (Revolver Shell Casing)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(Revolver_Shell_Casing))
-- [Fishing Lure (Wire Bundle)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(Wire_Bundle))
-- [Fishing Tackle](https://thelongdark.fandom.com/wiki/Fishing_Tackle)
-- [Fishing Tip-Up](https://thelongdark.fandom.com/wiki/Fishing_Tip-Up)
+> Sub-index under Gameplay for skill systems, activities, and skill-related reference pages.
 - [Hunting](https://thelongdark.fandom.com/wiki/Hunting)
-- [Jerry Can](https://thelongdark.fandom.com/wiki/Jerry_Can)
 - [Rim Grill](https://thelongdark.fandom.com/wiki/Rim_Grill)
-- [Simple Fishing Lure](https://thelongdark.fandom.com/wiki/Simple_Fishing_Lure)
 - [Skills](https://thelongdark.fandom.com/wiki/Skills)
 - [The Frozen Angler](https://thelongdark.fandom.com/wiki/The_Frozen_Angler)
 - [Trapping](https://thelongdark.fandom.com/wiki/Trapping)
@@ -1198,7 +1233,7 @@
 
 ## Needs review
 
-> 874 pages have no confirmed primary placement from the direct category report, or belong to source categories not yet mapped to the agreed taxonomy. These are retained here for manual review; they are not being discarded.
+> 856 pages have no confirmed primary placement from the direct category report, or belong to source categories not yet mapped to the agreed taxonomy. These are retained here for manual review; they are not being discarded.
 - [A Cry For Help](https://thelongdark.fandom.com/wiki/A_Cry_For_Help)
 - [A Handwritten Letter](https://thelongdark.fandom.com/wiki/A_Handwritten_Letter)
 - [A Handwritten Note](https://thelongdark.fandom.com/wiki/A_Handwritten_Note)
@@ -1273,7 +1308,6 @@
 - [Blood Soaked Note](https://thelongdark.fandom.com/wiki/Blood_Soaked_Note)
 - [Blood Stained-Convict Note](https://thelongdark.fandom.com/wiki/Blood_Stained-Convict_Note)
 - [Bloody note](https://thelongdark.fandom.com/wiki/Bloody_note)
-- [Bolt Cutters](https://thelongdark.fandom.com/wiki/Bolt_Cutters)
 - [Book](https://thelongdark.fandom.com/wiki/Book)
 - [Brake Shoe](https://thelongdark.fandom.com/wiki/Brake_Shoe)
 - [Branch](https://thelongdark.fandom.com/wiki/Branch)
@@ -1307,11 +1341,9 @@
 - [Cabinet](https://thelongdark.fandom.com/wiki/Cabinet)
 - [Cabinet Door](https://thelongdark.fandom.com/wiki/Cabinet_Door)
 - [Cache Mastery](https://thelongdark.fandom.com/wiki/Cache_Mastery)
-- [Camera](https://thelongdark.fandom.com/wiki/Camera)
 - [Campfire](https://thelongdark.fandom.com/wiki/Campfire)
 - [Can](https://thelongdark.fandom.com/wiki/Can)
 - [Can of Gunpowder](https://thelongdark.fandom.com/wiki/Can_of_Gunpowder)
-- [Can Opener](https://thelongdark.fandom.com/wiki/Can_Opener)
 - [Cannery Memo](https://thelongdark.fandom.com/wiki/Cannery_Memo)
 - [Car Battery](https://thelongdark.fandom.com/wiki/Car_Battery)
 - [Car Trunk](https://thelongdark.fandom.com/wiki/Car_Trunk)
@@ -1358,14 +1390,11 @@
 - [Convict Journal Entry](https://thelongdark.fandom.com/wiki/Convict_Journal_Entry)
 - [Convict Note](https://thelongdark.fandom.com/wiki/Convict_Note)
 - [Cooking](https://thelongdark.fandom.com/wiki/Cooking)
-- [Cooking Pot](https://thelongdark.fandom.com/wiki/Cooking_Pot)
-- [Cooking Skillet](https://thelongdark.fandom.com/wiki/Cooking_Skillet)
 - [Cooler](https://thelongdark.fandom.com/wiki/Cooler)
 - [Cooper](https://thelongdark.fandom.com/wiki/Cooper)
 - [Corpse](https://thelongdark.fandom.com/wiki/Corpse)
 - [Cougar Carcass](https://thelongdark.fandom.com/wiki/Cougar_Carcass)
 - [Cougar Claw](https://thelongdark.fandom.com/wiki/Cougar_Claw)
-- [Cougar Claw Knife](https://thelongdark.fandom.com/wiki/Cougar_Claw_Knife)
 - [Cougar Quarter](https://thelongdark.fandom.com/wiki/Cougar_Quarter)
 - [Cougar Warning Flyer](https://thelongdark.fandom.com/wiki/Cougar_Warning_Flyer)
 - [Cougar Warning Flyer (2)](https://thelongdark.fandom.com/wiki/Cougar_Warning_Flyer_(2))
@@ -1449,9 +1478,6 @@
 - [Faithful Cartographer](https://thelongdark.fandom.com/wiki/Faithful_Cartographer)
 - [Fallen Star](https://thelongdark.fandom.com/wiki/Fallen_Star)
 - [Fallen Star/Transcript](https://thelongdark.fandom.com/wiki/Fallen_Star/Transcript)
-- [FastFilm-500](https://thelongdark.fandom.com/wiki/FastFilm-500)
-- [FastFilm-500BW](https://thelongdark.fandom.com/wiki/FastFilm-500BW)
-- [FastFilm-500SPA](https://thelongdark.fandom.com/wiki/FastFilm-500SPA)
 - [Fatigue Reduced](https://thelongdark.fandom.com/wiki/Fatigue_Reduced)
 - [Fear](https://thelongdark.fandom.com/wiki/Fear)
 - [Field 31 Operation Memo](https://thelongdark.fandom.com/wiki/Field_31_Operation_Memo)
@@ -1460,14 +1486,12 @@
 - [Finely Tuned](https://thelongdark.fandom.com/wiki/Finely_Tuned)
 - [Fir Limb](https://thelongdark.fandom.com/wiki/Fir_Limb)
 - [Fire Starting](https://thelongdark.fandom.com/wiki/Fire_Starting)
-- [Firearm Cleaning Kit](https://thelongdark.fandom.com/wiki/Firearm_Cleaning_Kit)
 - [Firelog](https://thelongdark.fandom.com/wiki/Firelog)
 - [Fireplace](https://thelongdark.fandom.com/wiki/Fireplace)
 - [Firestriker](https://thelongdark.fandom.com/wiki/Firestriker)
 - [Firewood Bin](https://thelongdark.fandom.com/wiki/Firewood_Bin)
 - [First Aid](https://thelongdark.fandom.com/wiki/First_Aid)
 - [First Aid Kit](https://thelongdark.fandom.com/wiki/First_Aid_Kit)
-- [Fishing Bait](https://thelongdark.fandom.com/wiki/Fishing_Bait)
 - [Fishing Lure (disambiguation)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(disambiguation))
 - [Flare](https://thelongdark.fandom.com/wiki/Flare)
 - [Food Poisoning](https://thelongdark.fandom.com/wiki/Food_Poisoning)
@@ -1589,7 +1613,6 @@
 - [Infection](https://thelongdark.fandom.com/wiki/Infection)
 - [Infection Risk](https://thelongdark.fandom.com/wiki/Infection_Risk)
 - [Insomnia Risk](https://thelongdark.fandom.com/wiki/Insomnia_Risk)
-- [Insulated Flask](https://thelongdark.fandom.com/wiki/Insulated_Flask)
 - [Interloper](https://thelongdark.fandom.com/wiki/Interloper)
 - [Interview Transcript 12](https://thelongdark.fandom.com/wiki/Interview_Transcript_12)
 - [Interview Transcript 14](https://thelongdark.fandom.com/wiki/Interview_Transcript_14)
@@ -1708,7 +1731,6 @@
 - [Molly's Gift](https://thelongdark.fandom.com/wiki/Molly's_Gift)
 - [Moose Carcass](https://thelongdark.fandom.com/wiki/Moose_Carcass)
 - [Moose Quarter](https://thelongdark.fandom.com/wiki/Moose_Quarter)
-- [Mountaineering Rope](https://thelongdark.fandom.com/wiki/Mountaineering_Rope)
 - [Mounted Burbot](https://thelongdark.fandom.com/wiki/Mounted_Burbot)
 - [Mounted Coho Salmon](https://thelongdark.fandom.com/wiki/Mounted_Coho_Salmon)
 - [Mounted Goldeye](https://thelongdark.fandom.com/wiki/Mounted_Goldeye)
@@ -1811,7 +1833,6 @@
 - [Receiver](https://thelongdark.fandom.com/wiki/Receiver)
 - [Reclaimed Wood](https://thelongdark.fandom.com/wiki/Reclaimed_Wood)
 - [Recovery Backpack](https://thelongdark.fandom.com/wiki/Recovery_Backpack)
-- [Recycled Can](https://thelongdark.fandom.com/wiki/Recycled_Can)
 - [Register](https://thelongdark.fandom.com/wiki/Register)
 - [Renewed Hope](https://thelongdark.fandom.com/wiki/Renewed_Hope)
 - [Renewed Hope (Predux)](https://thelongdark.fandom.com/wiki/Renewed_Hope_(Predux))
@@ -1893,7 +1914,6 @@
 - [Sprain Risk](https://thelongdark.fandom.com/wiki/Sprain_Risk)
 - [Sprained Ankle](https://thelongdark.fandom.com/wiki/Sprained_Ankle)
 - [Sprained Wrist](https://thelongdark.fandom.com/wiki/Sprained_Wrist)
-- [Spray Paint - Glyph](https://thelongdark.fandom.com/wiki/Spray_Paint_-_Glyph)
 - [Square Table](https://thelongdark.fandom.com/wiki/Square_Table)
 - [Stack of Papers](https://thelongdark.fandom.com/wiki/Stack_of_Papers)
 - [Stained Paper](https://thelongdark.fandom.com/wiki/Stained_Paper)
@@ -1914,7 +1934,6 @@
 - [Supply Room Key](https://thelongdark.fandom.com/wiki/Supply_Room_Key)
 - [Sure Footing](https://thelongdark.fandom.com/wiki/Sure_Footing)
 - [Surveyed Locations](https://thelongdark.fandom.com/wiki/Surveyed_Locations)
-- [Survival Knife](https://thelongdark.fandom.com/wiki/Survival_Knife)
 - [Survival Mode/Interloper Tips](https://thelongdark.fandom.com/wiki/Survival_Mode/Interloper_Tips)
 - [Survival Of The Fittest](https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest)
 - [Survival Of The Fittest/Transcript](https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest/Transcript)
@@ -2004,7 +2023,6 @@
 - [Trash Can Letter](https://thelongdark.fandom.com/wiki/Trash_Can_Letter)
 - [Trauma](https://thelongdark.fandom.com/wiki/Trauma)
 - [Trauma/Transcript](https://thelongdark.fandom.com/wiki/Trauma/Transcript)
-- [Travois](https://thelongdark.fandom.com/wiki/Travois)
 - [Trunk](https://thelongdark.fandom.com/wiki/Trunk)
 - [Two for Two](https://thelongdark.fandom.com/wiki/Two_for_Two)
 - [Unburdened](https://thelongdark.fandom.com/wiki/Unburdened)
@@ -2060,7 +2078,6 @@
 - [Wolfskin Pants Blueprint Card](https://thelongdark.fandom.com/wiki/Wolfskin_Pants_Blueprint_Card)
 - [Wood Matches](https://thelongdark.fandom.com/wiki/Wood_Matches)
 - [Wood Stove](https://thelongdark.fandom.com/wiki/Wood_Stove)
-- [Woodworking Tools](https://thelongdark.fandom.com/wiki/Woodworking_Tools)
 - [Work Bench](https://thelongdark.fandom.com/wiki/Work_Bench)
 - [Work Order](https://thelongdark.fandom.com/wiki/Work_Order)
 - [Workbench Vice](https://thelongdark.fandom.com/wiki/Workbench_Vice)

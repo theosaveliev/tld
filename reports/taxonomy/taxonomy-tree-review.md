@@ -2,11 +2,11 @@
 
 ## 1. Locations
 
-> A Location is a named point of interest in the game world. When the player first enters it, the game displays the message “New location discovered.” This section lists named regions and discoverable points of interest that have their own wiki pages.
+> A Location is a named place in the game world. When the player discovers one, the game displays the message “New location discovered: [location name]”.
 
-### Maps and named regions
+### Regions
 
-> Regional maps and named areas provide the geographic framework for the location index. Individual discoverable points of interest are grouped under the region where they are found.
+> A Region is a large, explorable area of the game world containing multiple Locations.
 
 
 - [Anna Island -- Track Section 1](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_1)

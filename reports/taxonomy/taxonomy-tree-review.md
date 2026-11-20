@@ -1735,6 +1735,7 @@
 - [Loose Bricks Stash](https://thelongdark.fandom.com/wiki/Loose_Bricks_Stash)
 - [Milton Supply Caches](https://thelongdark.fandom.com/wiki/Milton_Supply_Caches)
 - [Mystery Lake Supply Caches](https://thelongdark.fandom.com/wiki/Mystery_Lake_Supply_Caches)
+- [Plane Crashes](https://thelongdark.fandom.com/wiki/Plane_Crashes)
 - [Prepper Cache](https://thelongdark.fandom.com/wiki/Prepper_Cache)
 - [Rock Cache](https://thelongdark.fandom.com/wiki/Rock_Cache)
 - [Supply Cache](https://thelongdark.fandom.com/wiki/Supply_Cache)
@@ -2193,6 +2194,7 @@
 - [Survival School](https://thelongdark.fandom.com/wiki/Survival_School)
 - [Survival School (Predux)](https://thelongdark.fandom.com/wiki/Survival_School_(Predux))
 - [Survival School (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Survival_School_(Predux)/Transcript)
+- [Tall Tales](https://thelongdark.fandom.com/wiki/Tall_Tales)
 - [The Best Defense/Transcript](https://thelongdark.fandom.com/wiki/The_Best_Defense/Transcript)
 - [The Cold, Broken Road](https://thelongdark.fandom.com/wiki/The_Cold%2C_Broken_Road)
 - [The Collapse](https://thelongdark.fandom.com/wiki/The_Collapse)
@@ -2239,15 +2241,10 @@
 - [Timeline of The Long Dark](https://thelongdark.fandom.com/wiki/Timeline_of_The_Long_Dark)
 - [Transcript (disambiguation)](https://thelongdark.fandom.com/wiki/Transcript_(disambiguation))
 - [Wintermute](https://thelongdark.fandom.com/wiki/Wintermute)
-## Needs review
-> 2 pages remain without a sufficiently reliable primary placement. Clear matches have been assigned to their likely groups; uncertain or context-dependent pages remain here for review.
-- [Plane Crashes](https://thelongdark.fandom.com/wiki/Plane_Crashes)
-- [Tall Tales](https://thelongdark.fandom.com/wiki/Tall_Tales)
-
 ## Notes on this draft
 
 - This is a review tree, not an automatic conversion plan. Source categories remain provenance metadata.
-- Each article appears once in the primary groups or the review queue. The DLC cross-index intentionally repeats pages.
+- Each article appears once in the primary groups. The DLC cross-index intentionally repeats pages.
 - Location subheadings use the existing `Locations in …` memberships as a suggestion. Pages spanning multiple map categories are listed once under Cross-region and shared locations.
 - The template analyzer reports potential transcluded memberships, but does not yet provide a fully evaluated MediaWiki expansion. Those memberships are not used to guess primary placement here.
 - Page names are preserved exactly as in the source report. URL spaces are converted to underscores and special characters are URL-encoded.

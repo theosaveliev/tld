@@ -2030,6 +2030,6 @@
 
 - This is a review tree, not an automatic conversion plan. Source categories remain provenance metadata.
 - Each article appears once in the primary groups or the review queue. The DLC cross-index intentionally repeats pages.
-- Location subheadings use the existing `Locations in …` memberships as a suggestion. Pages spanning multiple map categories are listed once under Cross-map places.
+- Location subheadings use the existing `Locations in …` memberships as a suggestion. Pages spanning multiple map categories are listed once under Cross-region and shared locations.
 - The template analyzer reports potential transcluded memberships, but does not yet provide a fully evaluated MediaWiki expansion. Those memberships are not used to guess primary placement here.
 - Page names are preserved exactly as in the source report. URL spaces are converted to underscores and special characters are URL-encoded.

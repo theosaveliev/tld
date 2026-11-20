@@ -596,119 +596,138 @@
 
 ## 3. Clothing & Climbing Gear
 
-> Clothing, protective equipment, and accessories worn by the player, along with equipment used for climbing.
+> Wearable clothing and protective equipment, accessories, and climbing aids, including specialized equipment carried in the backpack rather than worn in a clothing slot.
 
-- [Astrid's Boots](https://thelongdark.fandom.com/wiki/Astrid's_Boots)
-- [Astrid's Gloves](https://thelongdark.fandom.com/wiki/Astrid's_Gloves)
-- [Astrid's Jacket](https://thelongdark.fandom.com/wiki/Astrid's_Jacket)
-- [Astrid's Jeans](https://thelongdark.fandom.com/wiki/Astrid's_Jeans)
-- [Astrid's Sweater](https://thelongdark.fandom.com/wiki/Astrid's_Sweater)
+### Head
+
 - [Astrid's Toque](https://thelongdark.fandom.com/wiki/Astrid's_Toque)
 - [Aviator Cap](https://thelongdark.fandom.com/wiki/Aviator_Cap)
 - [Balaclava](https://thelongdark.fandom.com/wiki/Balaclava)
-- [Ballistic Vest](https://thelongdark.fandom.com/wiki/Ballistic_Vest)
 - [Baseball Cap](https://thelongdark.fandom.com/wiki/Baseball_Cap)
-- [Bearskin Coat](https://thelongdark.fandom.com/wiki/Bearskin_Coat)
-- [Cargo Pants](https://thelongdark.fandom.com/wiki/Cargo_Pants)
-- [Chemical Boots](https://thelongdark.fandom.com/wiki/Chemical_Boots)
-- [Climbing Socks](https://thelongdark.fandom.com/wiki/Climbing_Socks)
-- [Clothing](https://thelongdark.fandom.com/wiki/Clothing)
-- [Combat Boots](https://thelongdark.fandom.com/wiki/Combat_Boots)
-- [Combat Pants](https://thelongdark.fandom.com/wiki/Combat_Pants)
 - [Cotton Scarf](https://thelongdark.fandom.com/wiki/Cotton_Scarf)
 - [Cotton Toque](https://thelongdark.fandom.com/wiki/Cotton_Toque)
 - [Cougar Hide Wrap](https://thelongdark.fandom.com/wiki/Cougar_Hide_Wrap)
-- [Cowichan Sweater](https://thelongdark.fandom.com/wiki/Cowichan_Sweater)
+- [Fleece Cowl](https://thelongdark.fandom.com/wiki/Fleece_Cowl)
+- [Hardhat](https://thelongdark.fandom.com/wiki/Hardhat)
+- [Improvised Head Wrap](https://thelongdark.fandom.com/wiki/Improvised_Head_Wrap)
+- [Long Wool Scarf](https://thelongdark.fandom.com/wiki/Long_Wool_Scarf)
+- [Mackenzie's Toque](https://thelongdark.fandom.com/wiki/Mackenzie's_Toque)
+- [Rabbitskin Hat](https://thelongdark.fandom.com/wiki/Rabbitskin_Hat)
+- [Technical Balaclava](https://thelongdark.fandom.com/wiki/Technical_Balaclava)
+- [Wolfskin Hat](https://thelongdark.fandom.com/wiki/Wolfskin_Hat)
+- [Wool Scarf](https://thelongdark.fandom.com/wiki/Wool_Scarf)
+- [Wool Toque](https://thelongdark.fandom.com/wiki/Wool_Toque)
+
+### Accessories
+
+- [Astrid's Gloves](https://thelongdark.fandom.com/wiki/Astrid's_Gloves)
+- [Ballistic Vest](https://thelongdark.fandom.com/wiki/Ballistic_Vest)
 - [Crampons](https://thelongdark.fandom.com/wiki/Crampons)
-- [Deerskin Boots](https://thelongdark.fandom.com/wiki/Deerskin_Boots)
-- [Deerskin Pants](https://thelongdark.fandom.com/wiki/Deerskin_Pants)
+- [Driving Gloves](https://thelongdark.fandom.com/wiki/Driving_Gloves)
+- [Fleece Mittens](https://thelongdark.fandom.com/wiki/Fleece_Mittens)
+- [Foreman's Tool Belt](https://thelongdark.fandom.com/wiki/Foreman's_Tool_Belt)
+- [Gauntlets](https://thelongdark.fandom.com/wiki/Gauntlets)
+- [Improvised Crampons](https://thelongdark.fandom.com/wiki/Improvised_Crampons)
+- [Improvised Hand Wraps](https://thelongdark.fandom.com/wiki/Improvised_Hand_Wraps)
+- [Improvised Insulation](https://thelongdark.fandom.com/wiki/Improvised_Insulation)
+- [Moose-Hide Satchel](https://thelongdark.fandom.com/wiki/Moose-Hide_Satchel)
+- [Patterned Wool Mittens (Blue)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_(Blue))
+- [Patterned Wool Mittens (Brown)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_(Brown))
+- [Patterned Wool Mittens (Burgundy)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_(Burgundy))
+- [Rabbitskin Mitts](https://thelongdark.fandom.com/wiki/Rabbitskin_Mitts)
+- [Security Chief's Rifle Holster](https://thelongdark.fandom.com/wiki/Security_Chief's_Rifle_Holster)
+- [Ski Gloves](https://thelongdark.fandom.com/wiki/Ski_Gloves)
+- [Tactical Gloves](https://thelongdark.fandom.com/wiki/Tactical_Gloves)
+- [Wool Ear Wrap](https://thelongdark.fandom.com/wiki/Wool_Ear_Wrap)
+- [Wool Mittens](https://thelongdark.fandom.com/wiki/Wool_Mittens)
+- [Work Gloves](https://thelongdark.fandom.com/wiki/Work_Gloves)
+
+### Torso
+
+- [Astrid's Jacket](https://thelongdark.fandom.com/wiki/Astrid's_Jacket)
+- [Astrid's Sweater](https://thelongdark.fandom.com/wiki/Astrid's_Sweater)
+- [Bearskin Coat](https://thelongdark.fandom.com/wiki/Bearskin_Coat)
+- [Cowichan Sweater](https://thelongdark.fandom.com/wiki/Cowichan_Sweater)
 - [Down Vest](https://thelongdark.fandom.com/wiki/Down_Vest)
 - [Dress Shirt](https://thelongdark.fandom.com/wiki/Dress_Shirt)
-- [Driving Gloves](https://thelongdark.fandom.com/wiki/Driving_Gloves)
 - [Expedition Parka](https://thelongdark.fandom.com/wiki/Expedition_Parka)
 - [Festive Sweater](https://thelongdark.fandom.com/wiki/Festive_Sweater)
 - [Fisherman's Sweater](https://thelongdark.fandom.com/wiki/Fisherman's_Sweater)
-- [Fleece Cowl](https://thelongdark.fandom.com/wiki/Fleece_Cowl)
-- [Fleece Mittens](https://thelongdark.fandom.com/wiki/Fleece_Mittens)
 - [Flight Jacket](https://thelongdark.fandom.com/wiki/Flight_Jacket)
-- [Foreman's Tool Belt](https://thelongdark.fandom.com/wiki/Foreman's_Tool_Belt)
-- [Gauntlets](https://thelongdark.fandom.com/wiki/Gauntlets)
-- [Hardhat](https://thelongdark.fandom.com/wiki/Hardhat)
 - [Hockey Jersey](https://thelongdark.fandom.com/wiki/Hockey_Jersey)
 - [Hoodie](https://thelongdark.fandom.com/wiki/Hoodie)
-- [Improvised Crampons](https://thelongdark.fandom.com/wiki/Improvised_Crampons)
-- [Improvised Hand Wraps](https://thelongdark.fandom.com/wiki/Improvised_Hand_Wraps)
-- [Improvised Head Wrap](https://thelongdark.fandom.com/wiki/Improvised_Head_Wrap)
-- [Improvised Insulation](https://thelongdark.fandom.com/wiki/Improvised_Insulation)
-- [Insulated Boots](https://thelongdark.fandom.com/wiki/Insulated_Boots)
-- [Jeans](https://thelongdark.fandom.com/wiki/Jeans)
-- [Leather Shoes](https://thelongdark.fandom.com/wiki/Leather_Shoes)
 - [Light Shell](https://thelongdark.fandom.com/wiki/Light_Shell)
-- [Long Wool Scarf](https://thelongdark.fandom.com/wiki/Long_Wool_Scarf)
-- [Mackenzie's Boots](https://thelongdark.fandom.com/wiki/Mackenzie's_Boots)
-- [Mackenzie's Pants](https://thelongdark.fandom.com/wiki/Mackenzie's_Pants)
 - [Mackenzie's Parka](https://thelongdark.fandom.com/wiki/Mackenzie's_Parka)
 - [Mackenzie's Shirt](https://thelongdark.fandom.com/wiki/Mackenzie's_Shirt)
 - [Mackenzie's Sweater](https://thelongdark.fandom.com/wiki/Mackenzie's_Sweater)
-- [Mackenzie's Toque](https://thelongdark.fandom.com/wiki/Mackenzie's_Toque)
 - [Mackinaw Jacket](https://thelongdark.fandom.com/wiki/Mackinaw_Jacket)
 - [Mariner's Pea Coat](https://thelongdark.fandom.com/wiki/Mariner's_Pea_Coat)
 - [Military Coat](https://thelongdark.fandom.com/wiki/Military_Coat)
 - [Miner's Jacket](https://thelongdark.fandom.com/wiki/Miner's_Jacket)
-- [Miner's Pants](https://thelongdark.fandom.com/wiki/Miner's_Pants)
 - [Moose-Hide Cloak](https://thelongdark.fandom.com/wiki/Moose-Hide_Cloak)
-- [Moose-Hide Satchel](https://thelongdark.fandom.com/wiki/Moose-Hide_Satchel)
-- [Mountaineering Boots](https://thelongdark.fandom.com/wiki/Mountaineering_Boots)
-- [Mukluks](https://thelongdark.fandom.com/wiki/Mukluks)
 - [Old Fashioned Parka](https://thelongdark.fandom.com/wiki/Old_Fashioned_Parka)
-- [Patterned Wool Mittens (Blue)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_(Blue))
-- [Patterned Wool Mittens (Brown)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_(Brown))
-- [Patterned Wool Mittens (Burgundy)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_(Burgundy))
-- [Patterned Wool Socks (Dots)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Socks_(Dots))
-- [Patterned Wool Socks (Moose)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Socks_(Moose))
-- [Patterned Wool Socks (Plaid)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Socks_(Plaid))
 - [Plaid Shirt](https://thelongdark.fandom.com/wiki/Plaid_Shirt)
-- [Rabbitskin Hat](https://thelongdark.fandom.com/wiki/Rabbitskin_Hat)
-- [Rabbitskin Mitts](https://thelongdark.fandom.com/wiki/Rabbitskin_Mitts)
-- [Running Shoes](https://thelongdark.fandom.com/wiki/Running_Shoes)
-- [Security Chief's Rifle Holster](https://thelongdark.fandom.com/wiki/Security_Chief's_Rifle_Holster)
 - [Simple Parka](https://thelongdark.fandom.com/wiki/Simple_Parka)
-- [Ski Boots](https://thelongdark.fandom.com/wiki/Ski_Boots)
-- [Ski Gloves](https://thelongdark.fandom.com/wiki/Ski_Gloves)
 - [Ski Jacket](https://thelongdark.fandom.com/wiki/Ski_Jacket)
-- [Snow Pants](https://thelongdark.fandom.com/wiki/Snow_Pants)
 - [Sport Vest](https://thelongdark.fandom.com/wiki/Sport_Vest)
-- [Sports Socks](https://thelongdark.fandom.com/wiki/Sports_Socks)
 - [Sweatshirt](https://thelongdark.fandom.com/wiki/Sweatshirt)
 - [T-Shirt](https://thelongdark.fandom.com/wiki/T-Shirt)
 - [T-Shirt (CM)](https://thelongdark.fandom.com/wiki/T-Shirt_(CM))
 - [T-Shirt (GBI)](https://thelongdark.fandom.com/wiki/T-Shirt_(GBI))
 - [T-Shirt (Snappy)](https://thelongdark.fandom.com/wiki/T-Shirt_(Snappy))
-- [Tactical Gloves](https://thelongdark.fandom.com/wiki/Tactical_Gloves)
 - [Tactical Jacket](https://thelongdark.fandom.com/wiki/Tactical_Jacket)
-- [Technical Backpack](https://thelongdark.fandom.com/wiki/Technical_Backpack)
-- [Technical Balaclava](https://thelongdark.fandom.com/wiki/Technical_Balaclava)
-- [Thermal Underwear](https://thelongdark.fandom.com/wiki/Thermal_Underwear)
 - [Thick Wool Sweater](https://thelongdark.fandom.com/wiki/Thick_Wool_Sweater)
 - [Thin Wool Sweater](https://thelongdark.fandom.com/wiki/Thin_Wool_Sweater)
-- [Torn Clothing](https://thelongdark.fandom.com/wiki/Torn_Clothing)
-- [Towel](https://thelongdark.fandom.com/wiki/Towel)
-- [Trail Boots](https://thelongdark.fandom.com/wiki/Trail_Boots)
 - [Urban Parka](https://thelongdark.fandom.com/wiki/Urban_Parka)
 - [Windbreaker](https://thelongdark.fandom.com/wiki/Windbreaker)
 - [Wolfskin Coat](https://thelongdark.fandom.com/wiki/Wolfskin_Coat)
-- [Wolfskin Hat](https://thelongdark.fandom.com/wiki/Wolfskin_Hat)
-- [Wolfskin Pants](https://thelongdark.fandom.com/wiki/Wolfskin_Pants)
-- [Wool Ear Wrap](https://thelongdark.fandom.com/wiki/Wool_Ear_Wrap)
-- [Wool Longjohns](https://thelongdark.fandom.com/wiki/Wool_Longjohns)
-- [Wool Mittens](https://thelongdark.fandom.com/wiki/Wool_Mittens)
-- [Wool Scarf](https://thelongdark.fandom.com/wiki/Wool_Scarf)
 - [Wool Shirt](https://thelongdark.fandom.com/wiki/Wool_Shirt)
-- [Wool Socks](https://thelongdark.fandom.com/wiki/Wool_Socks)
-- [Wool Toque](https://thelongdark.fandom.com/wiki/Wool_Toque)
-- [Work Boots](https://thelongdark.fandom.com/wiki/Work_Boots)
-- [Work Gloves](https://thelongdark.fandom.com/wiki/Work_Gloves)
+
+### Legs
+
+- [Astrid's Jeans](https://thelongdark.fandom.com/wiki/Astrid's_Jeans)
+- [Cargo Pants](https://thelongdark.fandom.com/wiki/Cargo_Pants)
+- [Combat Pants](https://thelongdark.fandom.com/wiki/Combat_Pants)
+- [Deerskin Pants](https://thelongdark.fandom.com/wiki/Deerskin_Pants)
+- [Jeans](https://thelongdark.fandom.com/wiki/Jeans)
+- [Mackenzie's Pants](https://thelongdark.fandom.com/wiki/Mackenzie's_Pants)
+- [Miner's Pants](https://thelongdark.fandom.com/wiki/Miner's_Pants)
+- [Snow Pants](https://thelongdark.fandom.com/wiki/Snow_Pants)
+- [Thermal Underwear](https://thelongdark.fandom.com/wiki/Thermal_Underwear)
+- [Wolfskin Pants](https://thelongdark.fandom.com/wiki/Wolfskin_Pants)
+- [Wool Longjohns](https://thelongdark.fandom.com/wiki/Wool_Longjohns)
 - [Work Pants](https://thelongdark.fandom.com/wiki/Work_Pants)
+
+### Boots
+
+- [Astrid's Boots](https://thelongdark.fandom.com/wiki/Astrid's_Boots)
+- [Chemical Boots](https://thelongdark.fandom.com/wiki/Chemical_Boots)
+- [Climbing Socks](https://thelongdark.fandom.com/wiki/Climbing_Socks)
+- [Combat Boots](https://thelongdark.fandom.com/wiki/Combat_Boots)
+- [Deerskin Boots](https://thelongdark.fandom.com/wiki/Deerskin_Boots)
+- [Insulated Boots](https://thelongdark.fandom.com/wiki/Insulated_Boots)
+- [Leather Shoes](https://thelongdark.fandom.com/wiki/Leather_Shoes)
+- [Mackenzie's Boots](https://thelongdark.fandom.com/wiki/Mackenzie's_Boots)
+- [Mountaineering Boots](https://thelongdark.fandom.com/wiki/Mountaineering_Boots)
+- [Mukluks](https://thelongdark.fandom.com/wiki/Mukluks)
+- [Patterned Wool Socks (Dots)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Socks_(Dots))
+- [Patterned Wool Socks (Moose)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Socks_(Moose))
+- [Patterned Wool Socks (Plaid)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Socks_(Plaid))
+- [Running Shoes](https://thelongdark.fandom.com/wiki/Running_Shoes)
+- [Ski Boots](https://thelongdark.fandom.com/wiki/Ski_Boots)
+- [Sports Socks](https://thelongdark.fandom.com/wiki/Sports_Socks)
+- [Trail Boots](https://thelongdark.fandom.com/wiki/Trail_Boots)
+- [Wool Socks](https://thelongdark.fandom.com/wiki/Wool_Socks)
+- [Work Boots](https://thelongdark.fandom.com/wiki/Work_Boots)
+
+### Backpack
+
+- [Respirator](https://thelongdark.fandom.com/wiki/Respirator)
+- [Technical Backpack](https://thelongdark.fandom.com/wiki/Technical_Backpack)
+
+### Climbing Aids
+
+- [Mountaineering Rope](https://thelongdark.fandom.com/wiki/Mountaineering_Rope)
 
 ## 4. Items
 
@@ -891,7 +910,6 @@
 - [Prepared Rose Hips](https://thelongdark.fandom.com/wiki/Prepared_Rose_Hips)
 - [Project Medical Officer](https://thelongdark.fandom.com/wiki/Project_Medical_Officer)
 - [Reishi Tea](https://thelongdark.fandom.com/wiki/Reishi_Tea)
-- [Respirator](https://thelongdark.fandom.com/wiki/Respirator)
 - [Rose Hip Tea](https://thelongdark.fandom.com/wiki/Rose_Hip_Tea)
 - [Trauma Kit](https://thelongdark.fandom.com/wiki/Trauma_Kit)
 - [Vitamin-C Pills](https://thelongdark.fandom.com/wiki/Vitamin-C_Pills)
@@ -1076,7 +1094,6 @@
 - [FastFilm-500SPA](https://thelongdark.fandom.com/wiki/FastFilm-500SPA)
 - [Hand-Powered Milling Tool](https://thelongdark.fandom.com/wiki/Hand-Powered_Milling_Tool)
 - [Handheld Shortwave Radio](https://thelongdark.fandom.com/wiki/Handheld_Shortwave_Radio)
-- [Mountaineering Rope](https://thelongdark.fandom.com/wiki/Mountaineering_Rope)
 - [Paddle](https://thelongdark.fandom.com/wiki/Paddle)
 - [Receiver](https://thelongdark.fandom.com/wiki/Receiver)
 - [Recovery Backpack](https://thelongdark.fandom.com/wiki/Recovery_Backpack)
@@ -1304,6 +1321,7 @@
 
 > Injuries, illnesses, and other harmful survivor states, including their risk stages and treatment-related effects.
 
+
 - [Afflictions](https://thelongdark.fandom.com/wiki/Afflictions)
 - [Anxiety](https://thelongdark.fandom.com/wiki/Anxiety)
 - [Armoured](https://thelongdark.fandom.com/wiki/Armoured)
@@ -1356,10 +1374,10 @@
 - [Sprained Wrist](https://thelongdark.fandom.com/wiki/Sprained_Wrist)
 - [Suffocation](https://thelongdark.fandom.com/wiki/Suffocation)
 - [Suffocation Risk](https://thelongdark.fandom.com/wiki/Suffocation_Risk)
+- [Torn Clothing](https://thelongdark.fandom.com/wiki/Torn_Clothing)
 - [Trauma](https://thelongdark.fandom.com/wiki/Trauma)
 - [Unburdened](https://thelongdark.fandom.com/wiki/Unburdened)
 - [Weakened State](https://thelongdark.fandom.com/wiki/Weakened_State)
-
 ### Environmental Hazards
 
 > External conditions and environmental effects that create danger or change how the world can be traversed, such as weather, auroras, toxic environments, and weak ice.
@@ -1741,6 +1759,7 @@
 
 > Fixed or stationary objects found in the environment, including containers, furniture, appliances, vehicles, and miscellaneous fixtures. These describe what the player encounters in the world; they are not portable inventory items or wearable gear.
 
+
 - [Airplane](https://thelongdark.fandom.com/wiki/Airplane)
 - [Barrel](https://thelongdark.fandom.com/wiki/Barrel)
 - [Bed](https://thelongdark.fandom.com/wiki/Bed)
@@ -1823,6 +1842,7 @@
 - [Switch Box](https://thelongdark.fandom.com/wiki/Switch_Box)
 - [Toaster](https://thelongdark.fandom.com/wiki/Toaster)
 - [Toilet](https://thelongdark.fandom.com/wiki/Toilet)
+- [Towel](https://thelongdark.fandom.com/wiki/Towel)
 - [Track Switch](https://thelongdark.fandom.com/wiki/Track_Switch)
 - [Tractor](https://thelongdark.fandom.com/wiki/Tractor)
 - [Train Lever](https://thelongdark.fandom.com/wiki/Train_Lever)
@@ -1839,7 +1859,6 @@
 - [Weapon Locker](https://thelongdark.fandom.com/wiki/Weapon_Locker)
 - [Wheel](https://thelongdark.fandom.com/wiki/Wheel)
 - [Wood Stove](https://thelongdark.fandom.com/wiki/Wood_Stove)
-
 ### Safehouse Systems
 
 > Systems and reference pages for making interiors into Safehouses and customizing them. Individual decorative inventory items and craftable furniture are listed under Items → Decorations & Safehouse Items.
@@ -2221,10 +2240,12 @@
 
 > Legacy and miscellaneous reference pages preserved for historical context or future review.
 
+
 - [Broken Bridge (disambiguation)](https://thelongdark.fandom.com/wiki/Broken_Bridge_(disambiguation))
 - [Cave (disambiguation)](https://thelongdark.fandom.com/wiki/Cave_(disambiguation))
 - [Cave (Transition Zone)](https://thelongdark.fandom.com/wiki/Cave_(Transition_Zone))
 - [Characters](https://thelongdark.fandom.com/wiki/Characters)
+- [Clothing](https://thelongdark.fandom.com/wiki/Clothing)
 - [Cut/Discontinued Content](https://thelongdark.fandom.com/wiki/Cut/Discontinued_Content)
 - [Easter Eggs](https://thelongdark.fandom.com/wiki/Easter_Eggs)
 - [Hinterland Studio Inc.](https://thelongdark.fandom.com/wiki/Hinterland_Studio_Inc.)
@@ -2249,7 +2270,6 @@
 - [Transcript (disambiguation)](https://thelongdark.fandom.com/wiki/Transcript_(disambiguation))
 - [Warm Cave](https://thelongdark.fandom.com/wiki/Warm_Cave)
 - [Wintermute](https://thelongdark.fandom.com/wiki/Wintermute)
-
 ## Notes on this draft
 
 - This is a review tree, not an automatic conversion plan. Source categories remain provenance metadata.
@@ -2260,7 +2280,7 @@
 - Wiki article titles are never renamed in taxonomy links; categories and section headings may classify pages, but link labels preserve the exact wiki page title.
 
 - A Location is a named, discoverable point of interest; the in-game first-discovery message is “New location discovered.”
-- Fixed environmental objects and fixtures belong under Gameplay → World Objects; portable inventory gear belongs under Items.
+- Fixed environmental objects and fixtures belong under Gameplay → World Objects; wearable gear and climbing aids belong under Clothing & Climbing Gear.
 - Items in the Decorations inventory, and furniture crafted for Safehouses, belong under Items → Decorations & Safehouse Items. This is distinct from the wider set of fixed objects affected by Safehouse Customization.
 - Trader Special Request pages and their quest-only items belong under Gameplay → Trader Quests.
 - Item properties such as Decay belong under Items → Item Attributes, not under survivor Needs & Conditions.

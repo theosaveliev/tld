@@ -538,27 +538,21 @@
 - [Unquenched Extraction](https://thelongdark.fandom.com/wiki/Unquenched_Extraction)
 - [Welkin's Window](https://thelongdark.fandom.com/wiki/Welkin's_Window)
 
-### Cross-region and shared locations
+### Other locations
 
-> Locations that span more than one region, sit at a transition, or are shared across regional boundaries are listed here so that each article has one primary entry.
+> This group collects notable structures and features that do not belong to a single region. It includes cross-region features and recurring structure types, such as fishing huts, which appear in several regions as small, useful shelters rather than as one named location.
 
-- [Broken Bridge (disambiguation)](https://thelongdark.fandom.com/wiki/Broken_Bridge_(disambiguation))
 - [Building Blackrock](https://thelongdark.fandom.com/wiki/Building_Blackrock)
-- [Cave (disambiguation)](https://thelongdark.fandom.com/wiki/Cave_(disambiguation))
-- [Cave (Transition Zone)](https://thelongdark.fandom.com/wiki/Cave_(Transition_Zone))
 - [Coastal Cave](https://thelongdark.fandom.com/wiki/Coastal_Cave)
 - [Fishing Hut](https://thelongdark.fandom.com/wiki/Fishing_Hut)
 - [Foreman's Refuge](https://thelongdark.fandom.com/wiki/Foreman's_Refuge)
 - [Great Bear Highway](https://thelongdark.fandom.com/wiki/Great_Bear_Highway)
-- [Hunter's Blind (disambiguation)](https://thelongdark.fandom.com/wiki/Hunter's_Blind_(disambiguation))
 - [Ice Cave](https://thelongdark.fandom.com/wiki/Ice_Cave)
 - [Jackrabbit Hangar](https://thelongdark.fandom.com/wiki/Jackrabbit_Hangar)
 - [Jeremiah's Hideout](https://thelongdark.fandom.com/wiki/Jeremiah's_Hideout)
-- [Lookout (disambiguation)](https://thelongdark.fandom.com/wiki/Lookout_(disambiguation))
 - [Perseverance](https://thelongdark.fandom.com/wiki/Perseverance)
 - [Repair Depot](https://thelongdark.fandom.com/wiki/Repair_Depot)
 - [Town of Milton](https://thelongdark.fandom.com/wiki/Town_of_Milton)
-- [Warm Cave](https://thelongdark.fandom.com/wiki/Warm_Cave)
 
 ## 2. Nature
 
@@ -2223,12 +2217,17 @@
 
 > Legacy and miscellaneous reference pages preserved for historical context or future review.
 
+- [Broken Bridge (disambiguation)](https://thelongdark.fandom.com/wiki/Broken_Bridge_(disambiguation))
+- [Cave (disambiguation)](https://thelongdark.fandom.com/wiki/Cave_(disambiguation))
+- [Cave (Transition Zone)](https://thelongdark.fandom.com/wiki/Cave_(Transition_Zone))
 - [Characters](https://thelongdark.fandom.com/wiki/Characters)
 - [Cut/Discontinued Content](https://thelongdark.fandom.com/wiki/Cut/Discontinued_Content)
 - [Easter Eggs](https://thelongdark.fandom.com/wiki/Easter_Eggs)
 - [Hinterland Studio Inc.](https://thelongdark.fandom.com/wiki/Hinterland_Studio_Inc.)
+- [Hunter's Blind (disambiguation)](https://thelongdark.fandom.com/wiki/Hunter's_Blind_(disambiguation))
 - [Jeremiah's Bearskin Coat](https://thelongdark.fandom.com/wiki/Jeremiah's_Bearskin_Coat)
 - [Locations](https://thelongdark.fandom.com/wiki/Locations)
+- [Lookout (disambiguation)](https://thelongdark.fandom.com/wiki/Lookout_(disambiguation))
 - [Materials](https://thelongdark.fandom.com/wiki/Materials)
 - [Soda (disambiguation)](https://thelongdark.fandom.com/wiki/Soda_(disambiguation))
 - [The Long Dark](https://thelongdark.fandom.com/wiki/The_Long_Dark)
@@ -2240,13 +2239,13 @@
 - [The Long Development](https://thelongdark.fandom.com/wiki/The_Long_Development)
 - [Timeline of The Long Dark](https://thelongdark.fandom.com/wiki/Timeline_of_The_Long_Dark)
 - [Transcript (disambiguation)](https://thelongdark.fandom.com/wiki/Transcript_(disambiguation))
+- [Warm Cave](https://thelongdark.fandom.com/wiki/Warm_Cave)
 - [Wintermute](https://thelongdark.fandom.com/wiki/Wintermute)
-
 ## Notes on this draft
 
 - This is a review tree, not an automatic conversion plan. Source categories remain provenance metadata.
 - Each article appears once in the primary groups. The DLC cross-index intentionally repeats pages.
-- Location subheadings use the existing `Locations in …` memberships as a suggestion. Pages spanning multiple map categories are listed once under Cross-region and shared locations.
+- Location subheadings use the existing `Locations in …` memberships as a suggestion. Pages that do not belong to a single region, including recurring structure types, are listed once under Other locations.
 - The template analyzer reports potential transcluded memberships, but does not yet provide a fully evaluated MediaWiki expansion. Those memberships are not used to guess primary placement here.
 - Page names are preserved exactly as in the source report. URL spaces are converted to underscores and special characters are URL-encoded.
 - Wiki article titles are never renamed in taxonomy links; categories and section headings may classify pages, but link labels preserve the exact wiki page title.

@@ -1215,7 +1215,6 @@
 
 ## 6. Achievements
 
-## 6. Achievements
 > Achievements and Feats are kept together as a dedicated top-level index.
 - [Badges](https://thelongdark.fandom.com/wiki/Badges)
 - [Beneath a Starry Sky](https://thelongdark.fandom.com/wiki/Beneath_a_Starry_Sky)

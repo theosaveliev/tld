@@ -533,7 +533,6 @@
 
 ### Cross-region and shared locations
 
-
 - [Cave (Transition Zone)](https://thelongdark.fandom.com/wiki/Cave_(Transition_Zone))
 - [Cave (disambiguation)](https://thelongdark.fandom.com/wiki/Cave_(disambiguation))
 - [Coastal Cave](https://thelongdark.fandom.com/wiki/Coastal_Cave)
@@ -542,7 +541,6 @@
 - [Ice Cave](https://thelongdark.fandom.com/wiki/Ice_Cave)
 - [Jackrabbit Hangar](https://thelongdark.fandom.com/wiki/Jackrabbit_Hangar)
 - [Lookout (disambiguation)](https://thelongdark.fandom.com/wiki/Lookout_(disambiguation))
-- [Prepper Cache](https://thelongdark.fandom.com/wiki/Prepper_Cache)
 - [Repair Depot](https://thelongdark.fandom.com/wiki/Repair_Depot)
 - [Warm Cave](https://thelongdark.fandom.com/wiki/Warm_Cave)
 
@@ -826,9 +824,7 @@
 - [Pumpkin Pie](https://thelongdark.fandom.com/wiki/Pumpkin_Pie)
 
 ### First Aid & Medicine
-
 > First Aid treatments, medicinal plant preparations, respiratory protection, and story-specific medical kits and supplies.
-
 - [Antibiotics](https://thelongdark.fandom.com/wiki/Antibiotics)
 - [Antiseptic](https://thelongdark.fandom.com/wiki/Antiseptic)
 - [Bandage](https://thelongdark.fandom.com/wiki/Bandage)
@@ -840,6 +836,7 @@
 - [Canister](https://thelongdark.fandom.com/wiki/Canister)
 - [Carter Hydro Medical Supplies](https://thelongdark.fandom.com/wiki/Carter_Hydro_Medical_Supplies)
 - [Emergency Stim](https://thelongdark.fandom.com/wiki/Emergency_Stim)
+- [First Aid](https://thelongdark.fandom.com/wiki/First_Aid)
 - [First Aid Kit (tool)](https://thelongdark.fandom.com/wiki/First_Aid_Kit_(tool))
 - [Go! Energy Drink](https://thelongdark.fandom.com/wiki/Go!_Energy_Drink)
 - [Heat Pack](https://thelongdark.fandom.com/wiki/Heat_Pack)
@@ -973,20 +970,29 @@
 - [Tools](https://thelongdark.fandom.com/wiki/Tools)
 
 ### Fire, Light & Fuel
-
+- [A Sewing Primer](https://thelongdark.fandom.com/wiki/A_Sewing_Primer)
+- [Advanced Guns Guns Guns!](https://thelongdark.fandom.com/wiki/Advanced_Guns_Guns_Guns!)
+- [Book](https://thelongdark.fandom.com/wiki/Book)
 - [Cedar Firewood](https://thelongdark.fandom.com/wiki/Cedar_Firewood)
+- [Field Dressing Your Kill, Vol. I](https://thelongdark.fandom.com/wiki/Field_Dressing_Your_Kill%2C_Vol._I)
 - [Fir Firewood](https://thelongdark.fandom.com/wiki/Fir_Firewood)
 - [Firelog](https://thelongdark.fandom.com/wiki/Firelog)
 - [Firestriker](https://thelongdark.fandom.com/wiki/Firestriker)
 - [Flashlight](https://thelongdark.fandom.com/wiki/Flashlight)
+- [Frontier Shooting Guide](https://thelongdark.fandom.com/wiki/Frontier_Shooting_Guide)
 - [Jerry Can](https://thelongdark.fandom.com/wiki/Jerry_Can)
 - [Miner's Flashlight](https://thelongdark.fandom.com/wiki/Miner's_Flashlight)
+- [Practical Gunsmithing](https://thelongdark.fandom.com/wiki/Practical_Gunsmithing)
+- [Small Arms Handbook](https://thelongdark.fandom.com/wiki/Small_Arms_Handbook)
 - [Spelunker's Lantern](https://thelongdark.fandom.com/wiki/Spelunker's_Lantern)
+- [Stay on Target](https://thelongdark.fandom.com/wiki/Stay_on_Target)
 - [Storm Lantern](https://thelongdark.fandom.com/wiki/Storm_Lantern)
+- [Survive the Outdoors!](https://thelongdark.fandom.com/wiki/Survive_the_Outdoors!)
+- [The Frozen Angler](https://thelongdark.fandom.com/wiki/The_Frozen_Angler)
 - [Torch](https://thelongdark.fandom.com/wiki/Torch)
+- [Wilderness Kitchen](https://thelongdark.fandom.com/wiki/Wilderness_Kitchen)
 
 ### Materials & Crafting Components
-
 - [Birch Bark](https://thelongdark.fandom.com/wiki/Birch_Bark)
 - [Charcoal](https://thelongdark.fandom.com/wiki/Charcoal)
 - [Cloth](https://thelongdark.fandom.com/wiki/Cloth)
@@ -997,7 +1003,7 @@
 - [Replacement Fuse](https://thelongdark.fandom.com/wiki/Replacement_Fuse)
 - [Scrap Metal](https://thelongdark.fandom.com/wiki/Scrap_Metal)
 - [Wires](https://thelongdark.fandom.com/wiki/Wires)
-
+- [Workbench Vice](https://thelongdark.fandom.com/wiki/Workbench_Vice)
 
 ### Decorations & Safehouse Items
 
@@ -1055,12 +1061,7 @@
 - [Weak Ice](https://thelongdark.fandom.com/wiki/Weak_Ice)
 - [Weather](https://thelongdark.fandom.com/wiki/Weather)
 
-### Health & Treatment
-
-- [First Aid](https://thelongdark.fandom.com/wiki/First_Aid)
-
 ### Skills
-
 - [Carcass Harvesting](https://thelongdark.fandom.com/wiki/Carcass_Harvesting)
 - [Cooking](https://thelongdark.fandom.com/wiki/Cooking)
 - [Fire Starting](https://thelongdark.fandom.com/wiki/Fire_Starting)
@@ -1070,18 +1071,14 @@
 - [Mending](https://thelongdark.fandom.com/wiki/Mending)
 - [Revolver Firearm](https://thelongdark.fandom.com/wiki/Revolver_Firearm)
 - [Gunsmithing](https://thelongdark.fandom.com/wiki/Gunsmithing)
+- [Research Book](https://thelongdark.fandom.com/wiki/Research_Book)
+- [Skills](https://thelongdark.fandom.com/wiki/Skills)
 
 ### Secondary Skills
 
 - [Cleaning](https://thelongdark.fandom.com/wiki/Cleaning)
 - [Repair](https://thelongdark.fandom.com/wiki/Repair)
 - [Sharpening](https://thelongdark.fandom.com/wiki/Sharpening)
-
-### Skill References
-
-- [Research Book](https://thelongdark.fandom.com/wiki/Research_Book)
-- [Skills](https://thelongdark.fandom.com/wiki/Skills)
-- [The Frozen Angler](https://thelongdark.fandom.com/wiki/The_Frozen_Angler)
 
 ### Survival Mechanics & Activities
 
@@ -1102,7 +1099,16 @@
 
 ### Crafting, Fire & Processing
 
+#### Workbenches
+
+> Stationary crafting workbenches and their dedicated forging equipment.
+- [Ammunition Forge](https://thelongdark.fandom.com/wiki/Ammunition_Forge)
 - [Ammunition Work Bench](https://thelongdark.fandom.com/wiki/Ammunition_Work_Bench)
+- [Forge](https://thelongdark.fandom.com/wiki/Forge)
+- [Furniture Workbench](https://thelongdark.fandom.com/wiki/Furniture_Workbench)
+- [Milling Machine](https://thelongdark.fandom.com/wiki/Milling_Machine)
+- [Work Bench](https://thelongdark.fandom.com/wiki/Work_Bench)
+
 - [Campfire](https://thelongdark.fandom.com/wiki/Campfire)
 - [Crafting](https://thelongdark.fandom.com/wiki/Crafting)
 - [Curing](https://thelongdark.fandom.com/wiki/Curing)
@@ -1110,13 +1116,10 @@
 - [Fire Barrel](https://thelongdark.fandom.com/wiki/Fire_Barrel)
 - [Fireplace](https://thelongdark.fandom.com/wiki/Fireplace)
 - [Firewood Bin](https://thelongdark.fandom.com/wiki/Firewood_Bin)
-- [Forge](https://thelongdark.fandom.com/wiki/Forge)
 - [Harvesting](https://thelongdark.fandom.com/wiki/Harvesting)
-- [Milling Machine](https://thelongdark.fandom.com/wiki/Milling_Machine)
 - [Rim Grill](https://thelongdark.fandom.com/wiki/Rim_Grill)
 
 ### Collectibles
-
 - [Collectibles](https://thelongdark.fandom.com/wiki/Collectibles)
 - [Notes](https://thelongdark.fandom.com/wiki/Notes)
 - [Climber's Journal Page](https://thelongdark.fandom.com/wiki/Climber's_Journal_Page)
@@ -1146,11 +1149,44 @@
 - [Surveyed Locations](https://thelongdark.fandom.com/wiki/Surveyed_Locations)
 - [Aurora Observations](https://thelongdark.fandom.com/wiki/Aurora_Observations)
 
+> Additional story documents, cache clues, and Wintermute versions of Research Books are listed here as Collectibles.
+- [A Sewing Primer (The Basics of Survival)](https://thelongdark.fandom.com/wiki/A_Sewing_Primer_(The_Basics_of_Survival))
+- [Advanced Guns Guns Guns! (Survival School)](https://thelongdark.fandom.com/wiki/Advanced_Guns_Guns_Guns!_(Survival_School))
+- [Aurora Hatch Door Entry Code](https://thelongdark.fandom.com/wiki/Aurora_Hatch_Door_Entry_Code)
+- [Blackrock Memo - Suspicious Person](https://thelongdark.fandom.com/wiki/Blackrock_Memo_-_Suspicious_Person)
+- [Cave Hidden Cache Note](https://thelongdark.fandom.com/wiki/Cave_Hidden_Cache_Note)
+- [Convict Cache Directions](https://thelongdark.fandom.com/wiki/Convict_Cache_Directions)
+- [Field Dressing Your Kill, Vol. I (The Basics of Survival)](https://thelongdark.fandom.com/wiki/Field_Dressing_Your_Kill%2C_Vol._I_(The_Basics_of_Survival))
+- [Forest Talker Bunker Memo](https://thelongdark.fandom.com/wiki/Forest_Talker_Bunker_Memo)
+- [Frontier Shooting Guide (Survival School)](https://thelongdark.fandom.com/wiki/Frontier_Shooting_Guide_(Survival_School))
+- [Hank's Journal - Part One](https://thelongdark.fandom.com/wiki/Hank's_Journal_-_Part_One)
+- [Hank's Journal - Part Two](https://thelongdark.fandom.com/wiki/Hank's_Journal_-_Part_Two)
+- [Hank's Lock Box Key](https://thelongdark.fandom.com/wiki/Hank's_Lock_Box_Key)
+- [Hank's Prepper Cache Code](https://thelongdark.fandom.com/wiki/Hank's_Prepper_Cache_Code)
+- [Joplin's Journal, Part One](https://thelongdark.fandom.com/wiki/Joplin's_Journal%2C_Part_One)
+- [Joplin's Journal, Part Two](https://thelongdark.fandom.com/wiki/Joplin's_Journal%2C_Part_Two)
+- [Letter for Hank's Niece](https://thelongdark.fandom.com/wiki/Letter_for_Hank's_Niece)
+- [Medicinal Plants of Great Bear](https://thelongdark.fandom.com/wiki/Medicinal_Plants_of_Great_Bear)
+- [Medicine in my backyard](https://thelongdark.fandom.com/wiki/Medicine_in_my_backyard)
+- [Milton Hidden Cache Note](https://thelongdark.fandom.com/wiki/Milton_Hidden_Cache_Note)
+- [Prepper Hatch Location](https://thelongdark.fandom.com/wiki/Prepper_Hatch_Location)
+- [Radio Parts](https://thelongdark.fandom.com/wiki/Radio_Parts)
+- [The Frozen Angler (Survival School)](https://thelongdark.fandom.com/wiki/The_Frozen_Angler_(Survival_School))
+
 ### Exploration & Caches
 
+> Cache systems, cache containers, and cache-focused story missions. Individual named cache locations remain under Locations.
+- [Aurora Hatch](https://thelongdark.fandom.com/wiki/Aurora_Hatch)
+- [Blackrock Rumours](https://thelongdark.fandom.com/wiki/Blackrock_Rumours)
+- [Convict Caches](https://thelongdark.fandom.com/wiki/Convict_Caches)
 - [Forest Talker Supply Caches](https://thelongdark.fandom.com/wiki/Forest_Talker_Supply_Caches)
+- [Hank's Hatch](https://thelongdark.fandom.com/wiki/Hank's_Hatch)
+- [Hidden Cache](https://thelongdark.fandom.com/wiki/Hidden_Cache)
+- [Joplin's Bunker Raid](https://thelongdark.fandom.com/wiki/Joplin's_Bunker_Raid)
+- [Loose Bricks Stash](https://thelongdark.fandom.com/wiki/Loose_Bricks_Stash)
 - [Milton Supply Caches](https://thelongdark.fandom.com/wiki/Milton_Supply_Caches)
-- [Radio Parts](https://thelongdark.fandom.com/wiki/Radio_Parts)
+- [Mystery Lake Supply Caches](https://thelongdark.fandom.com/wiki/Mystery_Lake_Supply_Caches)
+- [Prepper Cache](https://thelongdark.fandom.com/wiki/Prepper_Cache)
 - [Rock Cache](https://thelongdark.fandom.com/wiki/Rock_Cache)
 - [Supply Cache](https://thelongdark.fandom.com/wiki/Supply_Cache)
 
@@ -1219,9 +1255,11 @@
 - [Badges](https://thelongdark.fandom.com/wiki/Badges)
 - [Beneath a Starry Sky](https://thelongdark.fandom.com/wiki/Beneath_a_Starry_Sky)
 - [Big Cat Killer](https://thelongdark.fandom.com/wiki/Big_Cat_Killer)
+- [Cache Mastery](https://thelongdark.fandom.com/wiki/Cache_Mastery)
 - [Centurion](https://thelongdark.fandom.com/wiki/Centurion)
 - [Deep Forest](https://thelongdark.fandom.com/wiki/Deep_Forest)
 - [Desolation Point (Achievement)](https://thelongdark.fandom.com/wiki/Desolation_Point_(Achievement))
+- [Down Below](https://thelongdark.fandom.com/wiki/Down_Below)
 - [Exploration Game](https://thelongdark.fandom.com/wiki/Exploration_Game)
 - [Face the Impossible](https://thelongdark.fandom.com/wiki/Face_the_Impossible)
 - [Feats](https://thelongdark.fandom.com/wiki/Feats)
@@ -1233,11 +1271,13 @@
 - [Pacifist](https://thelongdark.fandom.com/wiki/Pacifist)
 - [Ready for when the SHTF!](https://thelongdark.fandom.com/wiki/Ready_for_when_the_SHTF!)
 - [Silent Hunter](https://thelongdark.fandom.com/wiki/Silent_Hunter)
+- [Sounds Like Some Kind of Indie Band](https://thelongdark.fandom.com/wiki/Sounds_Like_Some_Kind_of_Indie_Band)
 - [The First of Many](https://thelongdark.fandom.com/wiki/The_First_of_Many)
 - [The Long Dark/Achievements](https://thelongdark.fandom.com/wiki/The_Long_Dark/Achievements)
 - [Waste Not, Want Not](https://thelongdark.fandom.com/wiki/Waste_Not%2C_Want_Not)
 - [Wrapped in Furs](https://thelongdark.fandom.com/wiki/Wrapped_in_Furs)
 - [You Made It!](https://thelongdark.fandom.com/wiki/You_Made_It!)
+- [You Prep the Preppers](https://thelongdark.fandom.com/wiki/You_Prep_the_Preppers)
 
 ## 7. DLC
 
@@ -1340,7 +1380,6 @@
 - [Episode 5: The Light At The End Of All Things](https://thelongdark.fandom.com/wiki/Episode_5%3A_The_Light_At_The_End_Of_All_Things)
 - [First Flare](https://thelongdark.fandom.com/wiki/First_Flare)
 - [Forest Talkers (side mission)](https://thelongdark.fandom.com/wiki/Forest_Talkers_(side_mission))
-- [Mystery Lake Supply Caches](https://thelongdark.fandom.com/wiki/Mystery_Lake_Supply_Caches)
 - [Paradise Lost](https://thelongdark.fandom.com/wiki/Paradise_Lost)
 - [Prologue](https://thelongdark.fandom.com/wiki/Prologue)
 - [Survival School](https://thelongdark.fandom.com/wiki/Survival_School)
@@ -1360,7 +1399,7 @@
 
 ## Needs review
 
-> 776 pages have no confirmed primary placement from the direct category report, or belong to source categories not yet mapped to the agreed taxonomy. These are retained here for manual review; they are not being discarded.
+> 730 pages have no confirmed primary placement from the direct category report, or belong to source categories not yet mapped to the agreed taxonomy. These are retained here for manual review; they are not being discarded.
 - [A Cry For Help](https://thelongdark.fandom.com/wiki/A_Cry_For_Help)
 - [A Handwritten Letter](https://thelongdark.fandom.com/wiki/A_Handwritten_Letter)
 - [A Handwritten Note](https://thelongdark.fandom.com/wiki/A_Handwritten_Note)
@@ -1368,20 +1407,15 @@
 - [A Page From A Journal](https://thelongdark.fandom.com/wiki/A_Page_From_A_Journal)
 - [A page from an old newsletter.](https://thelongdark.fandom.com/wiki/A_page_from_an_old_newsletter.)
 - [A Riddle Among the Shadows](https://thelongdark.fandom.com/wiki/A_Riddle_Among_the_Shadows)
-- [A Sewing Primer](https://thelongdark.fandom.com/wiki/A_Sewing_Primer)
-- [A Sewing Primer (The Basics of Survival)](https://thelongdark.fandom.com/wiki/A_Sewing_Primer_(The_Basics_of_Survival))
 - [A Skeleton And Note](https://thelongdark.fandom.com/wiki/A_Skeleton_And_Note)
 - [Accelerant](https://thelongdark.fandom.com/wiki/Accelerant)
 - [Admin Office Key](https://thelongdark.fandom.com/wiki/Admin_Office_Key)
 - [Adrift](https://thelongdark.fandom.com/wiki/Adrift)
-- [Advanced Guns Guns Guns!](https://thelongdark.fandom.com/wiki/Advanced_Guns_Guns_Guns!)
-- [Advanced Guns Guns Guns! (Survival School)](https://thelongdark.fandom.com/wiki/Advanced_Guns_Guns_Guns!_(Survival_School))
 - [Aftermath](https://thelongdark.fandom.com/wiki/Aftermath)
 - [Aftermath/Transcript](https://thelongdark.fandom.com/wiki/Aftermath/Transcript)
 - [Aid Station Medical Locker Key](https://thelongdark.fandom.com/wiki/Aid_Station_Medical_Locker_Key)
 - [Airplane](https://thelongdark.fandom.com/wiki/Airplane)
 - [Alice McLeod's Journal 01](https://thelongdark.fandom.com/wiki/Alice_McLeod's_Journal_01)
-- [Ammunition Forge](https://thelongdark.fandom.com/wiki/Ammunition_Forge)
 - [An Old House Key](https://thelongdark.fandom.com/wiki/An_Old_House_Key)
 - [An Old Logbook](https://thelongdark.fandom.com/wiki/An_Old_Logbook)
 - [Anxiety](https://thelongdark.fandom.com/wiki/Anxiety)
@@ -1391,8 +1425,6 @@
 - [As the Dead Sleep Challenge Walkthrough](https://thelongdark.fandom.com/wiki/As_the_Dead_Sleep_Challenge_Walkthrough)
 - [Astrid's Backpack](https://thelongdark.fandom.com/wiki/Astrid's_Backpack)
 - [Astrid's Hardcase](https://thelongdark.fandom.com/wiki/Astrid's_Hardcase)
-- [Aurora Hatch](https://thelongdark.fandom.com/wiki/Aurora_Hatch)
-- [Aurora Hatch Door Entry Code](https://thelongdark.fandom.com/wiki/Aurora_Hatch_Door_Entry_Code)
 - [Backpack](https://thelongdark.fandom.com/wiki/Backpack)
 - [Bank Deposit Box Key 13](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_13)
 - [Bank Deposit Box Key 15](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_15)
@@ -1423,16 +1455,13 @@
 - [Blackrock Memo](https://thelongdark.fandom.com/wiki/Blackrock_Memo)
 - [Blackrock Memo - Highly Aggressive Wolf](https://thelongdark.fandom.com/wiki/Blackrock_Memo_-_Highly_Aggressive_Wolf)
 - [Blackrock Memo - Late Employee](https://thelongdark.fandom.com/wiki/Blackrock_Memo_-_Late_Employee)
-- [Blackrock Memo - Suspicious Person](https://thelongdark.fandom.com/wiki/Blackrock_Memo_-_Suspicious_Person)
 - [Blackrock Penitentiary Memo](https://thelongdark.fandom.com/wiki/Blackrock_Penitentiary_Memo)
 - [Blackrock Prisoner Release Record](https://thelongdark.fandom.com/wiki/Blackrock_Prisoner_Release_Record)
-- [Blackrock Rumours](https://thelongdark.fandom.com/wiki/Blackrock_Rumours)
 - [Blood Loss](https://thelongdark.fandom.com/wiki/Blood_Loss)
 - [Blood Soaked Forest Talker Documents](https://thelongdark.fandom.com/wiki/Blood_Soaked_Forest_Talker_Documents)
 - [Blood Soaked Note](https://thelongdark.fandom.com/wiki/Blood_Soaked_Note)
 - [Blood Stained-Convict Note](https://thelongdark.fandom.com/wiki/Blood_Stained-Convict_Note)
 - [Bloody note](https://thelongdark.fandom.com/wiki/Bloody_note)
-- [Book](https://thelongdark.fandom.com/wiki/Book)
 - [Brake Shoe](https://thelongdark.fandom.com/wiki/Brake_Shoe)
 - [Branch](https://thelongdark.fandom.com/wiki/Branch)
 - [Brand](https://thelongdark.fandom.com/wiki/Brand)
@@ -1462,7 +1491,6 @@
 - [Bushcraft Bow Blueprint Card](https://thelongdark.fandom.com/wiki/Bushcraft_Bow_Blueprint_Card)
 - [Cabinet](https://thelongdark.fandom.com/wiki/Cabinet)
 - [Cabinet Door](https://thelongdark.fandom.com/wiki/Cabinet_Door)
-- [Cache Mastery](https://thelongdark.fandom.com/wiki/Cache_Mastery)
 - [Can](https://thelongdark.fandom.com/wiki/Can)
 - [Can of Gunpowder](https://thelongdark.fandom.com/wiki/Can_of_Gunpowder)
 - [Cannery Memo](https://thelongdark.fandom.com/wiki/Cannery_Memo)
@@ -1478,7 +1506,6 @@
 - [Carved Wolf Figurine](https://thelongdark.fandom.com/wiki/Carved_Wolf_Figurine)
 - [Cash](https://thelongdark.fandom.com/wiki/Cash)
 - [Cat Tail Head](https://thelongdark.fandom.com/wiki/Cat_Tail_Head)
-- [Cave Hidden Cache Note](https://thelongdark.fandom.com/wiki/Cave_Hidden_Cache_Note)
 - [Cedar Limb](https://thelongdark.fandom.com/wiki/Cedar_Limb)
 - [Chair](https://thelongdark.fandom.com/wiki/Chair)
 - [Challenge Mastery](https://thelongdark.fandom.com/wiki/Challenge_Mastery)
@@ -1503,8 +1530,6 @@
 - [Conflagration](https://thelongdark.fandom.com/wiki/Conflagration)
 - [Conspiracy Theories](https://thelongdark.fandom.com/wiki/Conspiracy_Theories)
 - [Contraband Storage](https://thelongdark.fandom.com/wiki/Contraband_Storage)
-- [Convict Cache Directions](https://thelongdark.fandom.com/wiki/Convict_Cache_Directions)
-- [Convict Caches](https://thelongdark.fandom.com/wiki/Convict_Caches)
 - [Convict Journal Entry](https://thelongdark.fandom.com/wiki/Convict_Journal_Entry)
 - [Convict Note](https://thelongdark.fandom.com/wiki/Convict_Note)
 - [Cooler](https://thelongdark.fandom.com/wiki/Cooler)
@@ -1561,7 +1586,6 @@
 - [Don't Starve](https://thelongdark.fandom.com/wiki/Don't_Starve)
 - [Donner (mission)/Transcript](https://thelongdark.fandom.com/wiki/Donner_(mission)/Transcript)
 - [Door](https://thelongdark.fandom.com/wiki/Door)
-- [Down Below](https://thelongdark.fandom.com/wiki/Down_Below)
 - [Dr Larsen's Clipboard](https://thelongdark.fandom.com/wiki/Dr_Larsen's_Clipboard)
 - [Dr. Rüdiger](https://thelongdark.fandom.com/wiki/Dr._R%C3%BCdiger)
 - [Drawer](https://thelongdark.fandom.com/wiki/Drawer)
@@ -1594,8 +1618,6 @@
 - [Fallen Star/Transcript](https://thelongdark.fandom.com/wiki/Fallen_Star/Transcript)
 - [Fear](https://thelongdark.fandom.com/wiki/Fear)
 - [Field 31 Operation Memo](https://thelongdark.fandom.com/wiki/Field_31_Operation_Memo)
-- [Field Dressing Your Kill, Vol. I](https://thelongdark.fandom.com/wiki/Field_Dressing_Your_Kill%2C_Vol._I)
-- [Field Dressing Your Kill, Vol. I (The Basics of Survival)](https://thelongdark.fandom.com/wiki/Field_Dressing_Your_Kill%2C_Vol._I_(The_Basics_of_Survival))
 - [Finely Tuned](https://thelongdark.fandom.com/wiki/Finely_Tuned)
 - [Fir Limb](https://thelongdark.fandom.com/wiki/Fir_Limb)
 - [Firelog](https://thelongdark.fandom.com/wiki/Firelog)
@@ -1613,7 +1635,6 @@
 - [Foreman's Technical Log 2](https://thelongdark.fandom.com/wiki/Foreman's_Technical_Log_2)
 - [Foreman's Technical Log 3](https://thelongdark.fandom.com/wiki/Foreman's_Technical_Log_3)
 - [Foreman's Technical Log 4](https://thelongdark.fandom.com/wiki/Foreman's_Technical_Log_4)
-- [Forest Talker Bunker Memo](https://thelongdark.fandom.com/wiki/Forest_Talker_Bunker_Memo)
 - [Forest Talker Collectible, Part One](https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_One)
 - [Forest Talker Collectible, Part Three](https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_Three)
 - [Forest Talker Collectible, Part Two](https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_Two)
@@ -1640,11 +1661,8 @@
 - [Fresh Wolf Pelt](https://thelongdark.fandom.com/wiki/Fresh_Wolf_Pelt)
 - [Fridge](https://thelongdark.fandom.com/wiki/Fridge)
 - [Frigid Bones](https://thelongdark.fandom.com/wiki/Frigid_Bones)
-- [Frontier Shooting Guide](https://thelongdark.fandom.com/wiki/Frontier_Shooting_Guide)
-- [Frontier Shooting Guide (Survival School)](https://thelongdark.fandom.com/wiki/Frontier_Shooting_Guide_(Survival_School))
 - [Fuel Cover](https://thelongdark.fandom.com/wiki/Fuel_Cover)
 - [Furnace](https://thelongdark.fandom.com/wiki/Furnace)
-- [Furniture Workbench](https://thelongdark.fandom.com/wiki/Furniture_Workbench)
 - [Fuse Box](https://thelongdark.fandom.com/wiki/Fuse_Box)
 - [Garage Key](https://thelongdark.fandom.com/wiki/Garage_Key)
 - [Glove Box](https://thelongdark.fandom.com/wiki/Glove_Box)
@@ -1662,11 +1680,6 @@
 - [Handwritten Note (3)](https://thelongdark.fandom.com/wiki/Handwritten_Note_(3))
 - [Handwritten Note (Survival)](https://thelongdark.fandom.com/wiki/Handwritten_Note_(Survival))
 - [Handwritten Prescription](https://thelongdark.fandom.com/wiki/Handwritten_Prescription)
-- [Hank's Hatch](https://thelongdark.fandom.com/wiki/Hank's_Hatch)
-- [Hank's Journal - Part One](https://thelongdark.fandom.com/wiki/Hank's_Journal_-_Part_One)
-- [Hank's Journal - Part Two](https://thelongdark.fandom.com/wiki/Hank's_Journal_-_Part_Two)
-- [Hank's Lock Box Key](https://thelongdark.fandom.com/wiki/Hank's_Lock_Box_Key)
-- [Hank's Prepper Cache Code](https://thelongdark.fandom.com/wiki/Hank's_Prepper_Cache_Code)
 - [Hard Times](https://thelongdark.fandom.com/wiki/Hard_Times)
 - [Hatch](https://thelongdark.fandom.com/wiki/Hatch)
 - [Haul Truck](https://thelongdark.fandom.com/wiki/Haul_Truck)
@@ -1674,7 +1687,6 @@
 - [He Lives](https://thelongdark.fandom.com/wiki/He_Lives)
 - [Headache](https://thelongdark.fandom.com/wiki/Headache)
 - [Helicopter](https://thelongdark.fandom.com/wiki/Helicopter)
-- [Hidden Cache](https://thelongdark.fandom.com/wiki/Hidden_Cache)
 - [Hide Chair](https://thelongdark.fandom.com/wiki/Hide_Chair)
 - [Hide Couch](https://thelongdark.fandom.com/wiki/Hide_Couch)
 - [High Energy](https://thelongdark.fandom.com/wiki/High_Energy)
@@ -1718,9 +1730,6 @@
 - [Jeremiah's Knife](https://thelongdark.fandom.com/wiki/Jeremiah's_Knife)
 - [Jeremiah's Papers](https://thelongdark.fandom.com/wiki/Jeremiah's_Papers)
 - [Jeremiah's Repaired Rifle](https://thelongdark.fandom.com/wiki/Jeremiah's_Repaired_Rifle)
-- [Joplin's Bunker Raid](https://thelongdark.fandom.com/wiki/Joplin's_Bunker_Raid)
-- [Joplin's Journal, Part One](https://thelongdark.fandom.com/wiki/Joplin's_Journal%2C_Part_One)
-- [Joplin's Journal, Part Two](https://thelongdark.fandom.com/wiki/Joplin's_Journal%2C_Part_Two)
 - [Journal](https://thelongdark.fandom.com/wiki/Journal)
 - [Journal Page](https://thelongdark.fandom.com/wiki/Journal_Page)
 - [Just Like New](https://thelongdark.fandom.com/wiki/Just_Like_New)
@@ -1740,7 +1749,6 @@
 - [Leaving the Old World Behind](https://thelongdark.fandom.com/wiki/Leaving_the_Old_World_Behind)
 - [Letter](https://thelongdark.fandom.com/wiki/Letter)
 - [Letter (Car)](https://thelongdark.fandom.com/wiki/Letter_(Car))
-- [Letter for Hank's Niece](https://thelongdark.fandom.com/wiki/Letter_for_Hank's_Niece)
 - [Light Up The Night](https://thelongdark.fandom.com/wiki/Light_Up_The_Night)
 - [Lights in the Sky](https://thelongdark.fandom.com/wiki/Lights_in_the_Sky)
 - [Lily's Trunk Key](https://thelongdark.fandom.com/wiki/Lily's_Trunk_Key)
@@ -1757,7 +1765,6 @@
 - [Locker Key](https://thelongdark.fandom.com/wiki/Locker_Key)
 - [Logging Camp Trailer Key](https://thelongdark.fandom.com/wiki/Logging_Camp_Trailer_Key)
 - [Loose Boards](https://thelongdark.fandom.com/wiki/Loose_Boards)
-- [Loose Bricks Stash](https://thelongdark.fandom.com/wiki/Loose_Bricks_Stash)
 - [Loose Tile](https://thelongdark.fandom.com/wiki/Loose_Tile)
 - [Loose Tree Bark](https://thelongdark.fandom.com/wiki/Loose_Tree_Bark)
 - [Loot Table](https://thelongdark.fandom.com/wiki/Loot_Table)
@@ -1776,9 +1783,7 @@
 - [McLeod Ultra-Efficiency Whale Oil Heater](https://thelongdark.fandom.com/wiki/McLeod_Ultra-Efficiency_Whale_Oil_Heater)
 - [Medical Locker](https://thelongdark.fandom.com/wiki/Medical_Locker)
 - [Medical Log](https://thelongdark.fandom.com/wiki/Medical_Log)
-- [Medicinal Plants of Great Bear](https://thelongdark.fandom.com/wiki/Medicinal_Plants_of_Great_Bear)
 - [Medicinal Plants of Great Bear (Note)](https://thelongdark.fandom.com/wiki/Medicinal_Plants_of_Great_Bear_(Note))
-- [Medicine in my backyard](https://thelongdark.fandom.com/wiki/Medicine_in_my_backyard)
 - [Medicine Shelf](https://thelongdark.fandom.com/wiki/Medicine_Shelf)
 - [Memo](https://thelongdark.fandom.com/wiki/Memo)
 - [Memo (Survival)](https://thelongdark.fandom.com/wiki/Memo_(Survival))
@@ -1794,7 +1799,6 @@
 - [Metal Table](https://thelongdark.fandom.com/wiki/Metal_Table)
 - [Microwave](https://thelongdark.fandom.com/wiki/Microwave)
 - [Milton Credit Union Letter](https://thelongdark.fandom.com/wiki/Milton_Credit_Union_Letter)
-- [Milton Hidden Cache Note](https://thelongdark.fandom.com/wiki/Milton_Hidden_Cache_Note)
 - [Milton Post Office Note](https://thelongdark.fandom.com/wiki/Milton_Post_Office_Note)
 - [Milton Safety Deposit Box Keys](https://thelongdark.fandom.com/wiki/Milton_Safety_Deposit_Box_Keys)
 - [Mine Gate Key](https://thelongdark.fandom.com/wiki/Mine_Gate_Key)
@@ -1888,8 +1892,6 @@
 - [Pot Belly Stove](https://thelongdark.fandom.com/wiki/Pot_Belly_Stove)
 - [Potato Sack](https://thelongdark.fandom.com/wiki/Potato_Sack)
 - [Power Company ID](https://thelongdark.fandom.com/wiki/Power_Company_ID)
-- [Practical Gunsmithing](https://thelongdark.fandom.com/wiki/Practical_Gunsmithing)
-- [Prepper Hatch Location](https://thelongdark.fandom.com/wiki/Prepper_Hatch_Location)
 - [Prison Transport Manifest](https://thelongdark.fandom.com/wiki/Prison_Transport_Manifest)
 - [Project Medical Officer](https://thelongdark.fandom.com/wiki/Project_Medical_Officer)
 - [Prologue/Transcript](https://thelongdark.fandom.com/wiki/Prologue/Transcript)
@@ -1960,20 +1962,17 @@
 - [Signal to Noise/Transcript](https://thelongdark.fandom.com/wiki/Signal_to_Noise/Transcript)
 - [Simple Note](https://thelongdark.fandom.com/wiki/Simple_Note)
 - [Skilled Survivor](https://thelongdark.fandom.com/wiki/Skilled_Survivor)
-- [Small Arms Handbook](https://thelongdark.fandom.com/wiki/Small_Arms_Handbook)
 - [Soda (disambiguation)](https://thelongdark.fandom.com/wiki/Soda_(disambiguation))
 - [Soggy Note](https://thelongdark.fandom.com/wiki/Soggy_Note)
 - [Something Stinks](https://thelongdark.fandom.com/wiki/Something_Stinks)
 - [Something Warm to Drink](https://thelongdark.fandom.com/wiki/Something_Warm_to_Drink)
 - [Something Wicked](https://thelongdark.fandom.com/wiki/Something_Wicked)
 - [Song of the Earth](https://thelongdark.fandom.com/wiki/Song_of_the_Earth)
-- [Sounds Like Some Kind of Indie Band](https://thelongdark.fandom.com/wiki/Sounds_Like_Some_Kind_of_Indie_Band)
 - [Sour Stomach](https://thelongdark.fandom.com/wiki/Sour_Stomach)
 - [Square Table](https://thelongdark.fandom.com/wiki/Square_Table)
 - [Stack of Papers](https://thelongdark.fandom.com/wiki/Stack_of_Papers)
 - [Stained Paper](https://thelongdark.fandom.com/wiki/Stained_Paper)
 - [Stalker](https://thelongdark.fandom.com/wiki/Stalker)
-- [Stay on Target](https://thelongdark.fandom.com/wiki/Stay_on_Target)
 - [Steam Train](https://thelongdark.fandom.com/wiki/Steam_Train)
 - [Stick](https://thelongdark.fandom.com/wiki/Stick)
 - [Stone-Age Sniper](https://thelongdark.fandom.com/wiki/Stone-Age_Sniper)
@@ -1992,7 +1991,6 @@
 - [Survival Of The Fittest/Transcript](https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest/Transcript)
 - [Survival School (Predux)](https://thelongdark.fandom.com/wiki/Survival_School_(Predux))
 - [Survival School (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Survival_School_(Predux)/Transcript)
-- [Survive the Outdoors!](https://thelongdark.fandom.com/wiki/Survive_the_Outdoors!)
 - [Survive the Quiet Apocalypse](https://thelongdark.fandom.com/wiki/Survive_the_Quiet_Apocalypse)
 - [Sutherland's Note](https://thelongdark.fandom.com/wiki/Sutherland's_Note)
 - [Sutherland's Tale](https://thelongdark.fandom.com/wiki/Sutherland's_Tale)
@@ -2018,7 +2016,6 @@
 - [The Crossroads Elegy](https://thelongdark.fandom.com/wiki/The_Crossroads_Elegy)
 - [The Detonators/Transcript](https://thelongdark.fandom.com/wiki/The_Detonators/Transcript)
 - [The Foreman](https://thelongdark.fandom.com/wiki/The_Foreman)
-- [The Frozen Angler (Survival School)](https://thelongdark.fandom.com/wiki/The_Frozen_Angler_(Survival_School))
 - [The Grey Mother (Predux)](https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux))
 - [The Grey Mother (Predux)/Transcript](https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux)/Transcript)
 - [The Grey Mother/Transcript](https://thelongdark.fandom.com/wiki/The_Grey_Mother/Transcript)
@@ -2117,7 +2114,6 @@
 - [Wide Display Shelf](https://thelongdark.fandom.com/wiki/Wide_Display_Shelf)
 - [Wide Dresser](https://thelongdark.fandom.com/wiki/Wide_Dresser)
 - [Wild At Heart](https://thelongdark.fandom.com/wiki/Wild_At_Heart)
-- [Wilderness Kitchen](https://thelongdark.fandom.com/wiki/Wilderness_Kitchen)
 - [Winter Forecast](https://thelongdark.fandom.com/wiki/Winter_Forecast)
 - [Wolf Quarter](https://thelongdark.fandom.com/wiki/Wolf_Quarter)
 - [Wolfbait](https://thelongdark.fandom.com/wiki/Wolfbait)
@@ -2125,19 +2121,15 @@
 - [Wolfskin Pants Blueprint Card](https://thelongdark.fandom.com/wiki/Wolfskin_Pants_Blueprint_Card)
 - [Wood Matches](https://thelongdark.fandom.com/wiki/Wood_Matches)
 - [Wood Stove](https://thelongdark.fandom.com/wiki/Wood_Stove)
-- [Work Bench](https://thelongdark.fandom.com/wiki/Work_Bench)
 - [Work Order](https://thelongdark.fandom.com/wiki/Work_Order)
-- [Workbench Vice](https://thelongdark.fandom.com/wiki/Workbench_Vice)
 - [Worn Logbook](https://thelongdark.fandom.com/wiki/Worn_Logbook)
 - [Wyatt's Lost Papers 1](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_1)
 - [Wyatt's Lost Papers 2](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_2)
 - [Wyatt's Lost Papers 3](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_3)
 - [Wyatt's Skeleton](https://thelongdark.fandom.com/wiki/Wyatt's_Skeleton)
 - [You Fix My Rifle?/Transcript](https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F/Transcript)
-- [You Prep the Preppers](https://thelongdark.fandom.com/wiki/You_Prep_the_Preppers)
 - [You'll Be With Her Soon](https://thelongdark.fandom.com/wiki/You'll_Be_With_Her_Soon)
 - [Your Journey Begins](https://thelongdark.fandom.com/wiki/Your_Journey_Begins)
-
 
 ## Notes on this draft
 

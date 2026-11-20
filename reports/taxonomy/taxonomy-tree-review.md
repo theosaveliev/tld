@@ -973,7 +973,6 @@
 
 ## 7. Tools & Equipment
 
-
 ### Bedrolls & Sleeping Gear
 
 > Bedrolls and deployable shelters used for sleeping and taking shelter.
@@ -1027,7 +1026,7 @@
 
 ### Repair & Crafting Equipment
 
-> Portable tools used to repair, maintain, sharpen, or craft equipment. Stationary workbenches are listed separately under Gameplay.
+> Portable tools used to repair, maintain, sharpen, or craft equipment. Fixed workstations are grouped separately under Workbenches.
 
 - [Firearm Cleaning Kit](https://thelongdark.fandom.com/wiki/Firearm_Cleaning_Kit)
 - [Quality Tools](https://thelongdark.fandom.com/wiki/Quality_Tools)
@@ -1440,17 +1439,6 @@
 ### Crafting, Fire & Processing
 
 > Systems and processes used to craft, process, repair, or prepare items in the world.
-
-### Workbenches
-
-> Dedicated work areas and specialized stations for crafting, ammunition production, furniture making, and milling.
-
-- [Ammunition Forge](https://thelongdark.fandom.com/wiki/Ammunition_Forge)
-- [Ammunition Work Bench](https://thelongdark.fandom.com/wiki/Ammunition_Work_Bench)
-- [Forge](https://thelongdark.fandom.com/wiki/Forge)
-- [Furniture Workbench](https://thelongdark.fandom.com/wiki/Furniture_Workbench)
-- [Milling Machine](https://thelongdark.fandom.com/wiki/Milling_Machine)
-- [Work Bench](https://thelongdark.fandom.com/wiki/Work_Bench)
 
 #### Other Crafting & Fire Systems
 

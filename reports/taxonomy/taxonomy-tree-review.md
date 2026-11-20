@@ -848,6 +848,7 @@
 
 - [Acorn Grounds](https://thelongdark.fandom.com/wiki/Acorn_Grounds)
 - [Acorns](https://thelongdark.fandom.com/wiki/Acorns)
+- [Burdock Root](https://thelongdark.fandom.com/wiki/Burdock_Root)
 - [Cooking Oil](https://thelongdark.fandom.com/wiki/Cooking_Oil)
 - [Herbal Tea](https://thelongdark.fandom.com/wiki/Herbal_Tea)
 - [Old Mill Flour](https://thelongdark.fandom.com/wiki/Old_Mill_Flour)
@@ -872,39 +873,50 @@
 
 > Items used to prevent, treat, or recover from injuries, afflictions, and other medical effects. The First Aid overview page is included here with the medical inventory references.
 
-- [Antibiotics](https://thelongdark.fandom.com/wiki/Antibiotics)
-- [Antiseptic](https://thelongdark.fandom.com/wiki/Antiseptic)
-- [Bandage](https://thelongdark.fandom.com/wiki/Bandage)
-- [Birch Bark Tea](https://thelongdark.fandom.com/wiki/Birch_Bark_Tea)
-- [Blackrock Infirmary Medication](https://thelongdark.fandom.com/wiki/Blackrock_Infirmary_Medication)
-- [Burdock Root](https://thelongdark.fandom.com/wiki/Burdock_Root)
-- [Burdock Tea](https://thelongdark.fandom.com/wiki/Burdock_Tea)
-- [Caffeine Pills](https://thelongdark.fandom.com/wiki/Caffeine_Pills)
-- [Canister](https://thelongdark.fandom.com/wiki/Canister)
-- [Carter Hydro Medical Supplies](https://thelongdark.fandom.com/wiki/Carter_Hydro_Medical_Supplies)
-- [Clipboard With Medical Documents](https://thelongdark.fandom.com/wiki/Clipboard_With_Medical_Documents)
-- [Dr Larsen's Clipboard](https://thelongdark.fandom.com/wiki/Dr_Larsen's_Clipboard)
-- [Emergency Stim](https://thelongdark.fandom.com/wiki/Emergency_Stim)
 - [First Aid](https://thelongdark.fandom.com/wiki/First_Aid)
-- [First Aid Kit (tool)](https://thelongdark.fandom.com/wiki/First_Aid_Kit_(tool))
-- [Go! Energy Drink](https://thelongdark.fandom.com/wiki/Go!_Energy_Drink)
-- [Handwritten Prescription](https://thelongdark.fandom.com/wiki/Handwritten_Prescription)
+
+### Preventative
+
+> Items that reduce the risk of injuries or illnesses, prevent specific afflictions, or provide temporary protective effects.
+
+- [Antiseptic](https://thelongdark.fandom.com/wiki/Antiseptic)
+- [Caffeine Pills](https://thelongdark.fandom.com/wiki/Caffeine_Pills)
 - [Heat Pack](https://thelongdark.fandom.com/wiki/Heat_Pack)
-- [Insulin](https://thelongdark.fandom.com/wiki/Insulin)
-- [Military Stim](https://thelongdark.fandom.com/wiki/Military_Stim)
 - [Old Man's Beard Wound Dressing](https://thelongdark.fandom.com/wiki/Old_Man's_Beard_Wound_Dressing)
-- [Painkillers](https://thelongdark.fandom.com/wiki/Painkillers)
-- [Patient 7](https://thelongdark.fandom.com/wiki/Patient_7)
+- [Vitamin-C Pills](https://thelongdark.fandom.com/wiki/Vitamin-C_Pills)
+- [Water Purification Tablets](https://thelongdark.fandom.com/wiki/Water_Purification_Tablets)
+
+### Prepared Plants
+
+> Natural materials prepared for use as First Aid, either consumed directly or brewed into medicinal teas.
+
 - [Prepared Birch Bark](https://thelongdark.fandom.com/wiki/Prepared_Birch_Bark)
 - [Prepared Burdock](https://thelongdark.fandom.com/wiki/Prepared_Burdock)
 - [Prepared Reishi Mushrooms](https://thelongdark.fandom.com/wiki/Prepared_Reishi_Mushrooms)
 - [Prepared Rose Hips](https://thelongdark.fandom.com/wiki/Prepared_Rose_Hips)
-- [Project Medical Officer](https://thelongdark.fandom.com/wiki/Project_Medical_Officer)
+
+### Treatment
+
+> Items used to treat injuries and illnesses, or restore condition and other depleted survivor needs.
+
+- [Antibiotics](https://thelongdark.fandom.com/wiki/Antibiotics)
+- [Bandage](https://thelongdark.fandom.com/wiki/Bandage)
+- [Birch Bark Tea](https://thelongdark.fandom.com/wiki/Birch_Bark_Tea)
+- [Blackrock Infirmary Medication](https://thelongdark.fandom.com/wiki/Blackrock_Infirmary_Medication)
+- [Burdock Tea](https://thelongdark.fandom.com/wiki/Burdock_Tea)
+- [Emergency Stim](https://thelongdark.fandom.com/wiki/Emergency_Stim)
+- [Go! Energy Drink](https://thelongdark.fandom.com/wiki/Go!_Energy_Drink)
+- [Insulin](https://thelongdark.fandom.com/wiki/Insulin)
+- [Military Stim](https://thelongdark.fandom.com/wiki/Military_Stim)
+- [Painkillers](https://thelongdark.fandom.com/wiki/Painkillers)
 - [Reishi Tea](https://thelongdark.fandom.com/wiki/Reishi_Tea)
 - [Rose Hip Tea](https://thelongdark.fandom.com/wiki/Rose_Hip_Tea)
-- [Trauma Kit](https://thelongdark.fandom.com/wiki/Trauma_Kit)
-- [Vitamin-C Pills](https://thelongdark.fandom.com/wiki/Vitamin-C_Pills)
-- [Water Purification Tablets](https://thelongdark.fandom.com/wiki/Water_Purification_Tablets)
+
+### Equipment
+
+> Equipment used to protect the survivor from environmental hazards or support First Aid use.
+
+- [Canister](https://thelongdark.fandom.com/wiki/Canister)
 
 ## 6. Weapons & Ammunition
 
@@ -1083,6 +1095,7 @@
 - [FastFilm-500](https://thelongdark.fandom.com/wiki/FastFilm-500)
 - [FastFilm-500BW](https://thelongdark.fandom.com/wiki/FastFilm-500BW)
 - [FastFilm-500SPA](https://thelongdark.fandom.com/wiki/FastFilm-500SPA)
+- [First Aid Kit (tool)](https://thelongdark.fandom.com/wiki/First_Aid_Kit_(tool))
 - [Hand-Powered Milling Tool](https://thelongdark.fandom.com/wiki/Hand-Powered_Milling_Tool)
 - [Handheld Shortwave Radio](https://thelongdark.fandom.com/wiki/Handheld_Shortwave_Radio)
 - [Paddle](https://thelongdark.fandom.com/wiki/Paddle)
@@ -1498,11 +1511,13 @@
 - [Cannery Memo](https://thelongdark.fandom.com/wiki/Cannery_Memo)
 - [Carter Hydro Dam -- Safety & Shutdown Notice](https://thelongdark.fandom.com/wiki/Carter_Hydro_Dam_--_Safety_%26_Shutdown_Notice)
 - [Carter Hydro Dam (Collectible)](https://thelongdark.fandom.com/wiki/Carter_Hydro_Dam_(Collectible))
+- [Carter Hydro Medical Supplies](https://thelongdark.fandom.com/wiki/Carter_Hydro_Medical_Supplies)
 - [Cave Hidden Cache Note](https://thelongdark.fandom.com/wiki/Cave_Hidden_Cache_Note)
 - [Charcoal Note](https://thelongdark.fandom.com/wiki/Charcoal_Note)
 - [Church Artifact](https://thelongdark.fandom.com/wiki/Church_Artifact)
 - [Church Flyer](https://thelongdark.fandom.com/wiki/Church_Flyer)
 - [Climber's Journal Page](https://thelongdark.fandom.com/wiki/Climber's_Journal_Page)
+- [Clipboard With Medical Documents](https://thelongdark.fandom.com/wiki/Clipboard_With_Medical_Documents)
 - [Collectibles](https://thelongdark.fandom.com/wiki/Collectibles)
 - [Communication Report](https://thelongdark.fandom.com/wiki/Communication_Report)
 - [Community Hall Flyer](https://thelongdark.fandom.com/wiki/Community_Hall_Flyer)
@@ -1518,6 +1533,7 @@
 - [Diary Page](https://thelongdark.fandom.com/wiki/Diary_Page)
 - [Diary Page (Darkwalker)](https://thelongdark.fandom.com/wiki/Diary_Page_(Darkwalker))
 - [Diocese Report](https://thelongdark.fandom.com/wiki/Diocese_Report)
+- [Dr Larsen's Clipboard](https://thelongdark.fandom.com/wiki/Dr_Larsen's_Clipboard)
 - [Dusty Paper](https://thelongdark.fandom.com/wiki/Dusty_Paper)
 - [Elevator Maintenance Note](https://thelongdark.fandom.com/wiki/Elevator_Maintenance_Note)
 - [Emergency Kit Note](https://thelongdark.fandom.com/wiki/Emergency_Kit_Note)
@@ -1560,6 +1576,7 @@
 - [Handwritten Note (2)](https://thelongdark.fandom.com/wiki/Handwritten_Note_(2))
 - [Handwritten Note (3)](https://thelongdark.fandom.com/wiki/Handwritten_Note_(3))
 - [Handwritten Note (Survival)](https://thelongdark.fandom.com/wiki/Handwritten_Note_(Survival))
+- [Handwritten Prescription](https://thelongdark.fandom.com/wiki/Handwritten_Prescription)
 - [Hank's Journal - Part One](https://thelongdark.fandom.com/wiki/Hank's_Journal_-_Part_One)
 - [Hank's Journal - Part Two](https://thelongdark.fandom.com/wiki/Hank's_Journal_-_Part_Two)
 - [Hank's Lock Box Key](https://thelongdark.fandom.com/wiki/Hank's_Lock_Box_Key)
@@ -1701,6 +1718,7 @@
 - [Town of Milton](https://thelongdark.fandom.com/wiki/Town_of_Milton)
 - [Transmitters](https://thelongdark.fandom.com/wiki/Transmitters)
 - [Trash Can Letter](https://thelongdark.fandom.com/wiki/Trash_Can_Letter)
+- [Trauma Kit](https://thelongdark.fandom.com/wiki/Trauma_Kit)
 - [Undelivered Letter](https://thelongdark.fandom.com/wiki/Undelivered_Letter)
 - [Utilities Bill](https://thelongdark.fandom.com/wiki/Utilities_Bill)
 - [Water Stained Paper](https://thelongdark.fandom.com/wiki/Water_Stained_Paper)
@@ -2154,6 +2172,8 @@
 - [Methuselah](https://thelongdark.fandom.com/wiki/Methuselah)
 - [Molly](https://thelongdark.fandom.com/wiki/Molly)
 - [Molly's Husband](https://thelongdark.fandom.com/wiki/Molly's_Husband)
+- [Patient 7](https://thelongdark.fandom.com/wiki/Patient_7)
+- [Project Medical Officer](https://thelongdark.fandom.com/wiki/Project_Medical_Officer)
 - [Terry](https://thelongdark.fandom.com/wiki/Terry)
 - [Vachon](https://thelongdark.fandom.com/wiki/Vachon)
 - [Will Mackenzie](https://thelongdark.fandom.com/wiki/Will_Mackenzie)

@@ -596,7 +596,7 @@
 
 ## 3. Clothing & Climbing Gear
 
-> Wearable clothing and protective equipment, accessories, and climbing aids, including specialized equipment carried in the backpack rather than worn in a clothing slot.
+> Clothing, protective equipment, and accessories worn by the player, including climbing gear.
 
 ### Head
 
@@ -620,27 +620,12 @@
 
 ### Accessories
 
-- [Astrid's Gloves](https://thelongdark.fandom.com/wiki/Astrid's_Gloves)
 - [Ballistic Vest](https://thelongdark.fandom.com/wiki/Ballistic_Vest)
-- [Crampons](https://thelongdark.fandom.com/wiki/Crampons)
-- [Driving Gloves](https://thelongdark.fandom.com/wiki/Driving_Gloves)
-- [Fleece Mittens](https://thelongdark.fandom.com/wiki/Fleece_Mittens)
 - [Foreman's Tool Belt](https://thelongdark.fandom.com/wiki/Foreman's_Tool_Belt)
-- [Gauntlets](https://thelongdark.fandom.com/wiki/Gauntlets)
-- [Improvised Crampons](https://thelongdark.fandom.com/wiki/Improvised_Crampons)
-- [Improvised Hand Wraps](https://thelongdark.fandom.com/wiki/Improvised_Hand_Wraps)
 - [Improvised Insulation](https://thelongdark.fandom.com/wiki/Improvised_Insulation)
 - [Moose-Hide Satchel](https://thelongdark.fandom.com/wiki/Moose-Hide_Satchel)
-- [Patterned Wool Mittens (Blue)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_(Blue))
-- [Patterned Wool Mittens (Brown)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_(Brown))
-- [Patterned Wool Mittens (Burgundy)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_(Burgundy))
-- [Rabbitskin Mitts](https://thelongdark.fandom.com/wiki/Rabbitskin_Mitts)
 - [Security Chief's Rifle Holster](https://thelongdark.fandom.com/wiki/Security_Chief's_Rifle_Holster)
-- [Ski Gloves](https://thelongdark.fandom.com/wiki/Ski_Gloves)
-- [Tactical Gloves](https://thelongdark.fandom.com/wiki/Tactical_Gloves)
 - [Wool Ear Wrap](https://thelongdark.fandom.com/wiki/Wool_Ear_Wrap)
-- [Wool Mittens](https://thelongdark.fandom.com/wiki/Wool_Mittens)
-- [Work Gloves](https://thelongdark.fandom.com/wiki/Work_Gloves)
 
 ### Torso
 
@@ -683,6 +668,22 @@
 - [Wolfskin Coat](https://thelongdark.fandom.com/wiki/Wolfskin_Coat)
 - [Wool Shirt](https://thelongdark.fandom.com/wiki/Wool_Shirt)
 
+### Hands
+
+- [Astrid's Gloves](https://thelongdark.fandom.com/wiki/Astrid's_Gloves)
+- [Driving Gloves](https://thelongdark.fandom.com/wiki/Driving_Gloves)
+- [Fleece Mittens](https://thelongdark.fandom.com/wiki/Fleece_Mittens)
+- [Gauntlets](https://thelongdark.fandom.com/wiki/Gauntlets)
+- [Improvised Hand Wraps](https://thelongdark.fandom.com/wiki/Improvised_Hand_Wraps)
+- [Patterned Wool Mittens (Blue)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_(Blue))
+- [Patterned Wool Mittens (Brown)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_(Brown))
+- [Patterned Wool Mittens (Burgundy)](https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_(Burgundy))
+- [Rabbitskin Mitts](https://thelongdark.fandom.com/wiki/Rabbitskin_Mitts)
+- [Ski Gloves](https://thelongdark.fandom.com/wiki/Ski_Gloves)
+- [Tactical Gloves](https://thelongdark.fandom.com/wiki/Tactical_Gloves)
+- [Wool Mittens](https://thelongdark.fandom.com/wiki/Wool_Mittens)
+- [Work Gloves](https://thelongdark.fandom.com/wiki/Work_Gloves)
+
 ### Legs
 
 - [Astrid's Jeans](https://thelongdark.fandom.com/wiki/Astrid's_Jeans)
@@ -698,7 +699,7 @@
 - [Wool Longjohns](https://thelongdark.fandom.com/wiki/Wool_Longjohns)
 - [Work Pants](https://thelongdark.fandom.com/wiki/Work_Pants)
 
-### Boots
+### Feet
 
 - [Astrid's Boots](https://thelongdark.fandom.com/wiki/Astrid's_Boots)
 - [Chemical Boots](https://thelongdark.fandom.com/wiki/Chemical_Boots)
@@ -723,11 +724,13 @@
 ### Backpack
 
 - [Respirator](https://thelongdark.fandom.com/wiki/Respirator)
-- [Technical Backpack](https://thelongdark.fandom.com/wiki/Technical_Backpack)
 
 ### Climbing Aids
 
+- [Crampons](https://thelongdark.fandom.com/wiki/Crampons)
+- [Improvised Crampons](https://thelongdark.fandom.com/wiki/Improvised_Crampons)
 - [Mountaineering Rope](https://thelongdark.fandom.com/wiki/Mountaineering_Rope)
+- [Technical Backpack](https://thelongdark.fandom.com/wiki/Technical_Backpack)
 
 ## 4. Items
 

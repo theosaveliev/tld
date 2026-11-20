@@ -973,26 +973,24 @@
 
 ## 7. Tools & Equipment
 
-> Portable tools and practical equipment carried in the inventory. Stationary crafting stations and fixed interactable objects are listed under Gameplay.
 
 ### Bedrolls & Sleeping Gear
 
-> Portable bedrolls that can be carried and deployed to sleep. Fixed or unusable bedroll props remain world objects.
+> Bedrolls and deployable shelters used for sleeping and taking shelter.
 
 - [Bear Skin Bedroll](https://thelongdark.fandom.com/wiki/Bear_Skin_Bedroll)
 - [Bedroll](https://thelongdark.fandom.com/wiki/Bedroll)
 - [Improvised Down Bedroll](https://thelongdark.fandom.com/wiki/Improvised_Down_Bedroll)
+- [Snow Shelter](https://thelongdark.fandom.com/wiki/Snow_Shelter)
 
 ### Cooking & Containers
 
 > Portable vessels and simple tools used to prepare, store, or access food and drink.
 
 - [Can](https://thelongdark.fandom.com/wiki/Can)
-- [Can Opener](https://thelongdark.fandom.com/wiki/Can_Opener)
 - [Cooking Pot](https://thelongdark.fandom.com/wiki/Cooking_Pot)
 - [Cooking Skillet](https://thelongdark.fandom.com/wiki/Cooking_Skillet)
 - [Insulated Flask](https://thelongdark.fandom.com/wiki/Insulated_Flask)
-- [Potato Sack](https://thelongdark.fandom.com/wiki/Potato_Sack)
 - [Recycled Can](https://thelongdark.fandom.com/wiki/Recycled_Can)
 
 ### Fishing & Trapping Gear
@@ -1001,7 +999,6 @@
 
 - [Fishing Bait](https://thelongdark.fandom.com/wiki/Fishing_Bait)
 - [Fishing Lure (Acorns)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(Acorns))
-- [Fishing Lure (disambiguation)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(disambiguation))
 - [Fishing Lure (Revolver Shell Casing)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(Revolver_Shell_Casing))
 - [Fishing Lure (Wire Bundle)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(Wire_Bundle))
 - [Fishing Tackle](https://thelongdark.fandom.com/wiki/Fishing_Tackle)
@@ -1015,8 +1012,8 @@
 
 > Handheld tools used to harvest resources, open containers, cut materials, or perform other practical tasks.
 
+- [Can Opener](https://thelongdark.fandom.com/wiki/Can_Opener)
 - [Cougar Claw Knife](https://thelongdark.fandom.com/wiki/Cougar_Claw_Knife)
-- [Detonators](https://thelongdark.fandom.com/wiki/Detonators)
 - [Elevator Crank](https://thelongdark.fandom.com/wiki/Elevator_Crank)
 - [Hacksaw](https://thelongdark.fandom.com/wiki/Hacksaw)
 - [Hatchet](https://thelongdark.fandom.com/wiki/Hatchet)
@@ -1086,23 +1083,27 @@
 > Portable equipment used for exploration, navigation, access, photography, and other field tasks.
 
 - [Astrid's Backpack](https://thelongdark.fandom.com/wiki/Astrid's_Backpack)
-- [Astrid's Hardcase](https://thelongdark.fandom.com/wiki/Astrid's_Hardcase)
-- [Backpack](https://thelongdark.fandom.com/wiki/Backpack)
 - [Bolt Cutters](https://thelongdark.fandom.com/wiki/Bolt_Cutters)
 - [Camera](https://thelongdark.fandom.com/wiki/Camera)
-- [Emergency Kit](https://thelongdark.fandom.com/wiki/Emergency_Kit)
 - [FastFilm-500](https://thelongdark.fandom.com/wiki/FastFilm-500)
 - [FastFilm-500BW](https://thelongdark.fandom.com/wiki/FastFilm-500BW)
 - [FastFilm-500SPA](https://thelongdark.fandom.com/wiki/FastFilm-500SPA)
 - [First Aid Kit (tool)](https://thelongdark.fandom.com/wiki/First_Aid_Kit_(tool))
-- [Hand-Powered Milling Tool](https://thelongdark.fandom.com/wiki/Hand-Powered_Milling_Tool)
 - [Handheld Shortwave Radio](https://thelongdark.fandom.com/wiki/Handheld_Shortwave_Radio)
-- [Paddle](https://thelongdark.fandom.com/wiki/Paddle)
-- [Receiver](https://thelongdark.fandom.com/wiki/Receiver)
-- [Recovery Backpack](https://thelongdark.fandom.com/wiki/Recovery_Backpack)
 - [Spray Paint](https://thelongdark.fandom.com/wiki/Spray_Paint)
 - [Spray Paint - Glyph](https://thelongdark.fandom.com/wiki/Spray_Paint_-_Glyph)
 - [Travois](https://thelongdark.fandom.com/wiki/Travois)
+
+### Workbenches
+
+> Dedicated work areas and specialized stations for crafting, ammunition production, furniture making, and milling.
+
+- [Ammunition Forge](https://thelongdark.fandom.com/wiki/Ammunition_Forge)
+- [Ammunition Work Bench](https://thelongdark.fandom.com/wiki/Ammunition_Work_Bench)
+- [Forge](https://thelongdark.fandom.com/wiki/Forge)
+- [Furniture Workbench](https://thelongdark.fandom.com/wiki/Furniture_Workbench)
+- [Milling Machine](https://thelongdark.fandom.com/wiki/Milling_Machine)
+- [Work Bench](https://thelongdark.fandom.com/wiki/Work_Bench)
 
 ### Other & Reference
 
@@ -1293,7 +1294,7 @@
 
 ## 12. Gameplay
 
-> This section covers the systems, mechanics, activities, and interactions that shape play. Portable inventory items are classified in their relevant functional groups; fixed objects encountered in the environment belong under World Objects; challenges and achievements have their own top-level sections.
+> This section covers the systems, mechanics, activities, and interactions that shape play. Portable inventory items are classified in their relevant functional groups; most fixed objects encountered in the environment belong under World Objects, while crafting workbenches and stations are grouped under Tools & Equipment.
 
 ### Needs & Conditions
 
@@ -1431,7 +1432,6 @@
 - [Rock Climb](https://thelongdark.fandom.com/wiki/Rock_Climb)
 - [Rope Climbing](https://thelongdark.fandom.com/wiki/Rope_Climbing)
 - [Scent](https://thelongdark.fandom.com/wiki/Scent)
-- [Snow Shelter](https://thelongdark.fandom.com/wiki/Snow_Shelter)
 - [Struggle](https://thelongdark.fandom.com/wiki/Struggle)
 - [Survivor Monologue](https://thelongdark.fandom.com/wiki/Survivor_Monologue)
 - [Trapping](https://thelongdark.fandom.com/wiki/Trapping)
@@ -1439,11 +1439,11 @@
 
 ### Crafting, Fire & Processing
 
-> Systems and stationary facilities used to craft, process, repair, or prepare items in the world.
+> Systems and processes used to craft, process, repair, or prepare items in the world.
 
-#### Workbenches
+### Workbenches
 
-> Stationary work areas and specialized crafting stations. These are interactable world facilities, not portable inventory tools.
+> Dedicated work areas and specialized stations for crafting, ammunition production, furniture making, and milling.
 
 - [Ammunition Forge](https://thelongdark.fandom.com/wiki/Ammunition_Forge)
 - [Ammunition Work Bench](https://thelongdark.fandom.com/wiki/Ammunition_Work_Bench)
@@ -1482,6 +1482,7 @@
 - [Alice McLeod's Journal 01](https://thelongdark.fandom.com/wiki/Alice_McLeod's_Journal_01)
 - [An Old Logbook](https://thelongdark.fandom.com/wiki/An_Old_Logbook)
 - [Archival Report](https://thelongdark.fandom.com/wiki/Archival_Report)
+- [Astrid's Hardcase](https://thelongdark.fandom.com/wiki/Astrid's_Hardcase)
 - [Aurora Hatch Door Entry Code](https://thelongdark.fandom.com/wiki/Aurora_Hatch_Door_Entry_Code)
 - [Aurora Observations](https://thelongdark.fandom.com/wiki/Aurora_Observations)
 - [Blackrock Foothills Map](https://thelongdark.fandom.com/wiki/Blackrock_Foothills_Map)
@@ -1524,6 +1525,7 @@
 - [Cougar Warning Flyer (2)](https://thelongdark.fandom.com/wiki/Cougar_Warning_Flyer_(2))
 - [Crumpled Note](https://thelongdark.fandom.com/wiki/Crumpled_Note)
 - [Crumpled Note (2)](https://thelongdark.fandom.com/wiki/Crumpled_Note_(2))
+- [Detonators](https://thelongdark.fandom.com/wiki/Detonators)
 - [Diary](https://thelongdark.fandom.com/wiki/Diary)
 - [Diary Page](https://thelongdark.fandom.com/wiki/Diary_Page)
 - [Diary Page (Darkwalker)](https://thelongdark.fandom.com/wiki/Diary_Page_(Darkwalker))
@@ -1767,6 +1769,7 @@
 
 
 - [Airplane](https://thelongdark.fandom.com/wiki/Airplane)
+- [Backpack](https://thelongdark.fandom.com/wiki/Backpack)
 - [Barrel](https://thelongdark.fandom.com/wiki/Barrel)
 - [Bed](https://thelongdark.fandom.com/wiki/Bed)
 - [Bin](https://thelongdark.fandom.com/wiki/Bin)
@@ -1795,6 +1798,7 @@
 - [Door](https://thelongdark.fandom.com/wiki/Door)
 - [Drawer](https://thelongdark.fandom.com/wiki/Drawer)
 - [Dryer](https://thelongdark.fandom.com/wiki/Dryer)
+- [Emergency Kit](https://thelongdark.fandom.com/wiki/Emergency_Kit)
 - [File Cabinet](https://thelongdark.fandom.com/wiki/File_Cabinet)
 - [First Aid Kit](https://thelongdark.fandom.com/wiki/First_Aid_Kit)
 - [Freezer](https://thelongdark.fandom.com/wiki/Freezer)
@@ -1829,13 +1833,17 @@
 - [Old Bedroll](https://thelongdark.fandom.com/wiki/Old_Bedroll)
 - [Oven](https://thelongdark.fandom.com/wiki/Oven)
 - [Overhead Locker](https://thelongdark.fandom.com/wiki/Overhead_Locker)
+- [Paddle](https://thelongdark.fandom.com/wiki/Paddle)
 - [Pallet](https://thelongdark.fandom.com/wiki/Pallet)
 - [Pallets](https://thelongdark.fandom.com/wiki/Pallets)
 - [Phone Box](https://thelongdark.fandom.com/wiki/Phone_Box)
 - [Plastic Container](https://thelongdark.fandom.com/wiki/Plastic_Container)
 - [Pot Belly Stove](https://thelongdark.fandom.com/wiki/Pot_Belly_Stove)
+- [Potato Sack](https://thelongdark.fandom.com/wiki/Potato_Sack)
 - [Prototype Train](https://thelongdark.fandom.com/wiki/Prototype_Train)
 - [Radio](https://thelongdark.fandom.com/wiki/Radio)
+- [Receiver](https://thelongdark.fandom.com/wiki/Receiver)
+- [Recovery Backpack](https://thelongdark.fandom.com/wiki/Recovery_Backpack)
 - [Register](https://thelongdark.fandom.com/wiki/Register)
 - [Safe](https://thelongdark.fandom.com/wiki/Safe)
 - [Shelf](https://thelongdark.fandom.com/wiki/Shelf)
@@ -2264,6 +2272,8 @@
 - [Cut/Discontinued Content](https://thelongdark.fandom.com/wiki/Cut/Discontinued_Content)
 - [Easter Eggs](https://thelongdark.fandom.com/wiki/Easter_Eggs)
 - [Emergency Food](https://thelongdark.fandom.com/wiki/Emergency_Food)
+- [Fishing Lure (disambiguation)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(disambiguation))
+- [Hand-Powered Milling Tool](https://thelongdark.fandom.com/wiki/Hand-Powered_Milling_Tool)
 - [Hinterland Studio Inc.](https://thelongdark.fandom.com/wiki/Hinterland_Studio_Inc.)
 - [Hunter's Blind (disambiguation)](https://thelongdark.fandom.com/wiki/Hunter's_Blind_(disambiguation))
 - [Jeremiah's Bearskin Coat](https://thelongdark.fandom.com/wiki/Jeremiah's_Bearskin_Coat)

@@ -12,6 +12,8 @@ from pipeline.markdown_export import (
     RenderStats,
     WikiContext,
     _build_image_index,  # pyright: ignore[reportPrivateUsage]
+    _build_material_usage_index,  # pyright: ignore[reportPrivateUsage]
+    _expand_page,  # pyright: ignore[reportPrivateUsage]
     _convert_html_to_markdown,  # pyright: ignore[reportPrivateUsage]
     _copy_image,  # pyright: ignore[reportPrivateUsage]
     _export_one_page,  # pyright: ignore[reportPrivateUsage]
@@ -463,7 +465,7 @@ def test_material_usage_index_reads_recipe_infoboxes() -> None:
         ),
     ]
 
-    usage = markdown_export_module._build_material_usage_index(pages)
+    usage = _build_material_usage_index(pages)
 
     assert len(usage["fir firewood"]) == 2
     assert usage["fir firewood"][0][0] == "Coffee Table"
@@ -489,9 +491,9 @@ def test_uses_material_list_template_is_replaced_with_recipe_table() -> None:
             None,
         )
     ]
-    usage = markdown_export_module._build_material_usage_index(pages)
+    usage = _build_material_usage_index(pages)
 
-    expanded, error, count = markdown_export_module._expand_page(
+    expanded, error, count = _expand_page(
         DumpPage("Fir Firewood", 0, "wikitext", "{{Uses material list}}", None),
         FakeContext(),
         identity_preprocess,
@@ -511,7 +513,7 @@ def test_uses_material_list_template_is_replaced_with_recipe_table() -> None:
     assert count == 0
     assert 'class="wikitable uses-material-list"' in expanded
     assert "Meat Curing Box" in expanded
-    assert "8.00 kg × Salt" in expanded
+    assert "8.00 kg \u00d7 Salt" in expanded
 
 
 def test_wide_sparse_table_keeps_product_rows_and_compacts_columns(

@@ -4,9 +4,9 @@ from typing import TYPE_CHECKING
 import pytest
 
 from pipeline.markdown_export import (
+    _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
     DumpPage,
     load_filename_mapping,
-    _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
     normalize_image_name,
     normalize_title,
     resolve_internal_href,

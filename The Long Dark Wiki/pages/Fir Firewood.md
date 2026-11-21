@@ -13,20 +13,31 @@
 
 **Fir Firewood**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Fir_Firewood_icon.png) / _Fir\_Firewood\_icon.png_ |
-| Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)\|- |
-| Stackable | yes |
-| Examine | While not technically a hardwood, fir burns like one. |
-| **Values** |  |
-| Weight | 1.00 kg (2.2 lbs) |
-| **Advanced data** |  |
-| Item key | gear\_hardwood |
+![Fir Firewood](../assets/Fir_Firewood_icon.png)
+
+_Fir\\_Firewood\\_icon.png_
+
+**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Fire Starting](./Fire%20Starting.md)
+
+**Stackable:** Yes
+
+**Examine:** While not technically a hardwood, fir burns like one.
+
+**Values**
+
+**Weight:** 1.00 kg (2.2 lbs)
+
+**Advanced data**
+
+**Item key:** `gear_hardwood`
 
 **Fir Firewood** is a fuel for fires in _[The Long Dark](./The%20Long%20Dark.md)_, it also is a material for repairing the [Heavy Hammer](./Heavy%20Hammer.md).
 
@@ -38,14 +49,19 @@ Fir Firewood can be harvested from downed Fir Limbs found outdoors with a [tool]
 
 **Fir Firewood**
 
-| Property | Details |
-| --- | --- |
-| Type | Fuel |
-| **Statistics** |  |
-| Duration | ![Fire\_Starting.png](../assets/Fire_Starting.png) 90 minutes |
-| Start Chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) 0% |
-| Heat | ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +8°C (+14.4°F) |
-| Burn Density | 1.5 hr/kg (0.68 hr/lb) |
+**Fir Firewood**
+
+**Type:** Fuel
+
+**Statistics**
+
+**Duration:** ![Fire\\_Starting.png](../assets/Fire_Starting.png) 90 minutes
+
+**Start Chance:** ![firestart\\_mod\\_icon.png](../assets/Firestart_mod_icon.png) 0%
+
+**Heat:** ![fire\\_heat\\_icon.png](../assets/Fire_heat_icon.png) +8°C (+14.4°F)
+
+**Burn Density:** 1.5 hr/kg (0.68 hr/lb)
 
 ## Obtaining
 

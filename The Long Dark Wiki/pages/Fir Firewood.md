@@ -79,7 +79,7 @@ Since a single piece of Fir Firewood has a fire duration of 1 hour and 30 minute
 | [Bear Hide Bed](./Bear%20Hide%20Bed.md) | None | 18 × Fir Firewood; 4 × Cured Gut; 1 × Cured Black Bear Hide; 16 × Ptarmigan Down |
 | [Coffee Table](./Coffee%20Table.md) | None | 6 × Fir Firewood |
 | [Decorative Art](./Decorative%20Art.md) | None | 2 × Fir Firewood; 1 × Cedar Firewood; 1 × Reclaimed Wood |
-| [Decorative Art (2)](./Decorative%20Art%20(2).md) | None | 2 × Fir Firewood; 1 × Cedar Firewood; 1 × Reclaimed Wood |
+| [Decorative Art (2)](./Decorative%20Art%20%282%29.md) | None | 2 × Fir Firewood; 1 × Cedar Firewood; 1 × Reclaimed Wood |
 | [Display Shelf](./Display%20Shelf.md) | None | 12 × Fir Firewood; 4 × Reclaimed Wood |
 | [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | None | 2 × Fir Firewood; 1 × Scrap Metal; 1 × Hockey Jersey |
 | [Framed Photo](./Framed%20Photo.md) | None | 1 × Fir Firewood; 1 × Camera |

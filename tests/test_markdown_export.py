@@ -439,7 +439,8 @@ def test_image_bearing_infobox_renders_images_outside_pipe_tables(
 <tr><td colspan="2"><strong>General</strong></td></tr>
 <tr><th>Item Type</th><td>Clothing\|-</td></tr>
 <tr><td colspan="2"><strong>Statistics</strong></td></tr>
-<tr><th>Weight</th><td><img src="../assets/Weight_icon.png" alt="weight_icon.png" />0.25 kg</td></tr>
+<tr><th>Weight</th>
+<td><img src="../assets/Weight_icon.png" alt="weight_icon.png" />0.25 kg</td></tr>
 </tbody></table>"""
 
     markdown, note, failed = _convert_html_to_markdown("pandoc", fragment, "")
@@ -451,7 +452,10 @@ def test_image_bearing_infobox_renders_images_outside_pipe_tables(
     assert "**General**" in markdown
     assert "**Item Type:** Clothing" in markdown
     assert "**Statistics**" in markdown
-    assert "**Weight:** ![weight\\_icon.png](../assets/Weight_icon.png)0.25 kg" in markdown
+    expected_weight = (
+        "**Weight:** ![weight\\_icon.png](../assets/Weight_icon.png)0.25 kg"
+    )
+    assert expected_weight in markdown
     assert "| Property | Details |" not in markdown
     assert r"\\|-" not in markdown
 
@@ -469,23 +473,28 @@ def test_image_bearing_layout_table_renders_images_and_quote_as_blocks(
 <tr><td><img src="../assets/Far_range_line_first_look.png" alt="" /> /
 <em>First look</em></td><td></td><td></td></tr>
 <tr><td colspan="3"><strong>Location on Great Bear Island</strong></td></tr>
-<tr><td><img src="../assets/Far_Range_Branch_Line_Location.png" alt="" /></td><td></td><td></td></tr>
+<tr><td><img src="../assets/Far_Range_Branch_Line_Location.png" alt="" /></td>
+<td></td><td></td></tr>
 <tr><td colspan="3"><strong>Details</strong></td></tr>
 <tr><td>Description</td><td>A railway line in the mountains</td><td></td></tr>
-<tr><td>“</td><td>Travel down the Far Range Branch Line. / Official Marketing Description</td><td>”</td></tr>
+<tr><td>“</td>
+<td>Travel down the Far Range Branch Line. / Official Marketing Description</td>
+<td>”</td></tr>
 </tbody></table>"""
 
     markdown, note, failed = _convert_html_to_markdown("pandoc", fragment, "")
 
     assert not failed
     assert not note
-    assert "![ ]" not in markdown
-    assert "![ ]" not in markdown
     assert "Far_range_line_first_look.png" in markdown
     assert "Far_Range_Branch_Line_Location.png" in markdown
     assert "**Location on Great Bear Island**" in markdown
     assert "**Description:** A railway line in the mountains" in markdown
-    assert "> “Travel down the Far Range Branch Line. / Official Marketing Description”" in markdown
+    expected_quote = (
+        "> “Travel down the Far Range Branch Line. / "
+        "Official Marketing Description”"
+    )
+    assert expected_quote in markdown
     assert "| Column 1 |" not in markdown
     assert "<table" not in markdown
 

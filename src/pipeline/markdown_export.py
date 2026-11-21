@@ -1038,7 +1038,9 @@ HTML_BLOCK_TAGS = frozenset(
 HTML_TAG_RE = re.compile(r"</?[A-Za-z][A-Za-z0-9._:-]*(?=\s|/?>)[^>]*>")
 HTML_COMMENT_RE = re.compile(r"<!--.*?(?:-->|$)", re.DOTALL)
 HTML_DECLARATION_RE = re.compile(r"<![A-Za-z][^>]*>")
-HTML_HIDDEN_TAGS = frozenset({"base", "head", "link", "meta", "script", "style", "template"})
+HTML_HIDDEN_TAGS = frozenset(
+    {"base", "head", "link", "meta", "script", "style", "template"}
+)
 
 
 def _contains_html_markup(value: str) -> bool:
@@ -1347,6 +1349,8 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
 
 def _is_html_block_element(node: lhtml.HtmlElement) -> bool:
     """Recognize standard and custom elements that contain block layout."""
+    if _html_tag(node) in HTML_HIDDEN_TAGS:
+        return False
     if _html_tag(node) in HTML_BLOCK_TAGS:
         return True
     style = (node.get("style") or "").casefold().replace(" ", "")
@@ -1560,10 +1564,14 @@ def _source_html_markdown_fallback(
     page: DumpPage, pandoc: str, resources: PageExportResources
 ) -> str:
     """Render original source as HTML and normalize it to Markdown."""
-    html_fragment = _run_pandoc(pandoc, page.text, "mediawiki", "html")
+    try:
+        html_fragment = _run_pandoc(pandoc, page.text, "mediawiki", "html")
+    except Exception:
+        if not _contains_html_markup(page.text):
+            raise
+        html_fragment = page.text
     rewritten_html, _, _ = _rewrite_page_html(html_fragment, page, resources, "")
     return _html_fragment_to_markdown(rewritten_html)
-
 
 def _source_markdown_fallback(
     page: DumpPage,
@@ -1580,24 +1588,17 @@ def _source_markdown_fallback(
         try:
             markdown_body = _source_html_markdown_fallback(page, pandoc, resources)
         except Exception as html_error:
-            try:
-                if not _contains_html_markup(page.text):
-                    raise ValueError("Source contains no recoverable HTML markup.")
-                markdown_body = _html_fragment_to_markdown(page.text)
-            except Exception:
-                safe_source = _strip_html_markup(page.text)
-                markdown_body = "\n".join(
-                    "> " + line for line in safe_source.splitlines()
-                )
-                return PageConversion(
-                    markdown_body=markdown_body,
-                    status="conversion_failed",
-                    note=(
-                        f"{conversion_stage_error}; source fallback failed: "
-                        f"{fallback_error}; HTML fallback failed: {html_error}"
-                    ),
-                    conversion_errors=1,
-                )
+            safe_source = _strip_html_markup(page.text)
+            markdown_body = "\n".join("> " + line for line in safe_source.splitlines())
+            return PageConversion(
+                markdown_body=markdown_body,
+                status="conversion_failed",
+                note=(
+                    f"{conversion_stage_error}; source fallback failed: "
+                    f"{fallback_error}; HTML fallback failed: {html_error}"
+                ),
+                conversion_errors=1,
+            )
         return PageConversion(
             markdown_body=markdown_body,
             status="raw_fallback",
@@ -1611,22 +1612,24 @@ def _source_markdown_fallback(
         try:
             markdown_body = _source_html_markdown_fallback(page, pandoc, resources)
         except Exception as html_error:
-            try:
-                if _contains_html_markup(page.text):
-                    markdown_body = _html_fragment_to_markdown(page.text)
-                else:
-                    markdown_body = _strip_html_markup(markdown_body)
-            except Exception:
-                markdown_body = _strip_html_markup(page.text)
-            note = (
-                f"{conversion_stage_error} Pandoc retained HTML; normalized it "
-                f"to Markdown after: {html_error}"
-            )
+            markdown_body = _strip_html_markup(markdown_body)
             return PageConversion(
                 markdown_body=markdown_body,
-                status="raw_fallback",
-                note=note,
+                status="conversion_failed",
+                note=(
+                    f"{conversion_stage_error} Pandoc retained HTML and the "
+                    f"Markdown normalization fallback failed: {html_error}"
+                ),
+                conversion_errors=1,
             )
+        return PageConversion(
+            markdown_body=markdown_body,
+            status="raw_fallback",
+            note=(
+                f"{conversion_stage_error} Pandoc retained HTML; converted the "
+                "original source into Markdown instead."
+            ),
+        )
 
     return PageConversion(
         markdown_body=markdown_body,

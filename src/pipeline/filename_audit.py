@@ -23,6 +23,7 @@ MARKDOWN_SUFFIX = ".md"
 
 class FilenameMapping(TypedDict):
     title: str
+    original_filename: str
     filename: str
 
 
@@ -53,6 +54,65 @@ def filename_for_title(title: str) -> str:
     stem = stem.replace("/", " — ")
     stem = " - ".join(part.strip() for part in stem.split(":"))
     return f"{stem}{MARKDOWN_SUFFIX}"
+
+
+def _filename_with_suffix(filename: str, number: int) -> str:
+    """Add a numeric suffix while keeping the filename within byte limits."""
+    suffix = f" ({number}){MARKDOWN_SUFFIX}"
+    stem = filename[: -len(MARKDOWN_SUFFIX)]
+    available_bytes = MAX_FILENAME_BYTES - len(suffix.encode("utf-8"))
+    kept: list[str] = []
+    used_bytes = 0
+
+    for char in stem:
+        char_bytes = len(char.encode("utf-8"))
+        if used_bytes + char_bytes > available_bytes:
+            break
+        kept.append(char)
+        used_bytes += char_bytes
+
+    while kept and unicodedata.combining(kept[-1]):
+        kept.pop()
+
+    shortened_stem = unicodedata.normalize("NFC", "".join(kept).rstrip())
+    return f"{shortened_stem}{suffix}"
+
+
+def _allocate_filenames(titles: list[str]) -> list[FilenameMapping]:
+    """Allocate deterministic, case-insensitively unique Markdown filenames."""
+    proposed = {title: filename_for_title(title) for title in titles}
+    ordered_titles = sorted(
+        proposed,
+        key=lambda title: (proposed[title].casefold(), title),
+    )
+    reserved = {filename.casefold() for filename in proposed.values()}
+    allocated: set[str] = set()
+    mappings: list[FilenameMapping] = []
+
+    for title in ordered_titles:
+        original_filename = proposed[title]
+        filename = original_filename
+        number = 2
+
+        while filename.casefold() in allocated:
+            filename = _filename_with_suffix(original_filename, number)
+            number += 1
+
+        # Reserve original names so generated suffixes cannot steal a real title.
+        while filename.casefold() in reserved and filename != original_filename:
+            filename = _filename_with_suffix(original_filename, number)
+            number += 1
+
+        allocated.add(filename.casefold())
+        mappings.append(
+            {
+                "title": title,
+                "original_filename": original_filename,
+                "filename": filename,
+            }
+        )
+
+    return mappings
 
 
 def extract_page_titles(
@@ -198,12 +258,9 @@ def audit_titles(
 ) -> FilenameAuditReport:
     """Build filename mappings and report portability or collision issues."""
     counts = Counter(titles)
-    unique_titles = list(dict.fromkeys(titles))
+    unique_titles = sorted(set(titles))
     duplicate_titles = sorted(title for title, count in counts.items() if count > 1)
-    mappings: list[FilenameMapping] = [
-        {"title": title, "filename": filename_for_title(title)}
-        for title in unique_titles
-    ]
+    mappings = _allocate_filenames(unique_titles)
     issues: list[FilenameIssue] = []
 
     _check_filename_limits(mappings, issues)

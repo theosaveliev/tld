@@ -1029,11 +1029,44 @@ def _rewrite_page_html(
 
 HTML_BLOCK_TAGS = frozenset(
     {
-        "address", "article", "aside", "blockquote", "body", "canvas", "center",
-        "dd", "details", "dialog", "div", "dl", "dt", "fieldset", "figcaption",
-        "figure", "footer", "form", "h1", "h2", "h3", "h4", "h5", "h6",
-        "header", "hgroup", "hr", "main", "menu", "nav", "ol", "p", "pre",
-        "search", "section", "summary", "table", "ul",
+        "address",
+        "article",
+        "aside",
+        "blockquote",
+        "body",
+        "canvas",
+        "center",
+        "dd",
+        "details",
+        "dialog",
+        "div",
+        "dl",
+        "dt",
+        "fieldset",
+        "figcaption",
+        "figure",
+        "footer",
+        "form",
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+        "header",
+        "hgroup",
+        "hr",
+        "main",
+        "menu",
+        "nav",
+        "ol",
+        "p",
+        "pre",
+        "search",
+        "section",
+        "summary",
+        "table",
+        "ul",
     }
 )
 HTML_TAG_RE = re.compile(
@@ -1119,6 +1152,7 @@ def _inline_markdown(node: lhtml.HtmlElement) -> str:
         pieces.append(_markdown_text(child.tail or ""))
     return "".join(pieces)
 
+
 def _inline_span_markdown(node: lhtml.HtmlElement, content: str) -> str | None:
     """Translate visual span styling into nearby Markdown emphasis."""
     style = (node.get("style") or "").casefold().replace(" ", "")
@@ -1151,6 +1185,7 @@ def _inline_markdown_emphasis(tag: str, content: str) -> str | None:
     if tag in {"del", "s", "strike"}:
         return f"~~{content}~~" if content else ""
     return None
+
 
 def _inline_markdown_special_semantics(
     node: lhtml.HtmlElement, tag: str, content: str
@@ -1186,6 +1221,7 @@ def _inline_markdown_semantics(
         return styled
     return _inline_markdown_special_semantics(node, tag, content)
 
+
 def _inline_markdown_formatting(
     node: lhtml.HtmlElement, tag: str, content: str
 ) -> str | None:
@@ -1215,9 +1251,7 @@ def _inline_markdown_svg(node: lhtml.HtmlElement) -> str:
     return _markdown_text(label or "")
 
 
-def _inline_markdown_embedded_media(
-    node: lhtml.HtmlElement, content: str
-) -> str:
+def _inline_markdown_embedded_media(node: lhtml.HtmlElement, content: str) -> str:
     """Represent embedded media as a Markdown link when a source is available."""
     source = node.get("src") or node.get("data")
     source_node = node.find(".//source")
@@ -1253,6 +1287,7 @@ def _inline_markdown_media(
         result = _inline_markdown_embedded_media(node, content)
     return result
 
+
 def _unicode_superscript(value: str) -> str:
     """Use Unicode superscript glyphs where Markdown has no superscript syntax."""
     table = str.maketrans("0123456789+-=()", "⁰¹²³⁴⁵⁶⁷⁸⁹⁺⁻⁼⁽⁾")
@@ -1276,8 +1311,6 @@ def _inline_markdown_element(node: lhtml.HtmlElement) -> str:
         return formatted
     media = _inline_markdown_media(node, tag, content)
     return media if media is not None else content
-
-
 
 
 def _markdown_table_cell(cell: lhtml.HtmlElement) -> str:
@@ -1331,6 +1364,7 @@ def _render_quote_table(cells: list[lhtml.HtmlElement]) -> str | None:
     attribution = " ".join(paragraphs[1:])
     return f"{quote}\n>\n> — {attribution}"
 
+
 def _render_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     """Convert a Fandom infobox into a readable two-column Markdown table."""
     body: list[list[str]] = []
@@ -1340,13 +1374,10 @@ def _render_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
             cell = cells[0]
             value = values[0]
             is_image_row = any(_html_tag(child) == "img" for child in cell.iter())
-            is_section = (
-                "section" in (cell.get("class") or "").split()
-                or (
-                    int(cell.get("colspan", "1")) > 1
-                    and not is_image_row
-                    and bool(cell.find(".//strong"))
-                )
+            is_section = "section" in (cell.get("class") or "").split() or (
+                int(cell.get("colspan", "1")) > 1
+                and not is_image_row
+                and bool(cell.find(".//strong"))
             )
             if is_section:
                 body.append([f"**{value.strip('* ')}**", ""])
@@ -1496,6 +1527,7 @@ def _render_html_special_block(node: lhtml.HtmlElement) -> str | None:
         )
     return rendered
 
+
 def _render_html_block(node: lhtml.HtmlElement) -> str:
     """Convert one HTML block element into Markdown."""
     tag = _html_tag(node)
@@ -1514,10 +1546,9 @@ def _render_html_block(node: lhtml.HtmlElement) -> str:
             rendered = f"*{caption}*" if caption else ""
         else:
             content = _styled_markdown_content(node, _render_html_children(node))
-            if (
-                "footnotes" in (node.get("class") or "").split()
-                and not content.startswith("## Notes")
-            ):
+            if "footnotes" in (
+                node.get("class") or ""
+            ).split() and not content.startswith("## Notes"):
                 content = f"## Notes\n\n{content}" if content else "## Notes"
             if tag == "summary":
                 rendered = f"**{_inline_markdown(node).strip()}**"
@@ -1530,6 +1561,7 @@ def _render_html_block(node: lhtml.HtmlElement) -> str:
             else:
                 rendered = content
     return rendered
+
 
 def _render_html_children(node: lhtml.HtmlElement) -> str:
     """Render mixed block and inline descendants, discarding all wrapper tags."""
@@ -1554,6 +1586,7 @@ def _render_html_children(node: lhtml.HtmlElement) -> str:
     if current:
         blocks.append(current)
     return "\n\n".join(blocks)
+
 
 def _markdown_heading_slug(label: str) -> str:
     """Approximate the heading anchor generated by common Markdown readers."""
@@ -1630,6 +1663,7 @@ def _source_html_markdown_fallback(
     rewritten_html, _, _ = _rewrite_page_html(html_fragment, page, resources, "")
     return _html_fragment_to_markdown(rewritten_html)
 
+
 def _source_markdown_fallback(
     page: DumpPage,
     pandoc: str,
@@ -1694,6 +1728,7 @@ def _source_markdown_fallback(
         note=f"{conversion_stage_error} Direct source-to-Markdown fallback used.",
     )
 
+
 def _convert_page_body(
     page: DumpPage,
     expanded: str,
@@ -1733,9 +1768,7 @@ def _convert_page_body(
             status = "expand_failed"
         return PageConversion(markdown_body, status, note)
     except Exception as exc:
-        return _source_markdown_fallback(
-            page, pandoc, conversion_stage, exc, resources
-        )
+        return _source_markdown_fallback(page, pandoc, conversion_stage, exc, resources)
 
 
 def _export_one_page(

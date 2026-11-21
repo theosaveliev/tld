@@ -365,9 +365,7 @@ def test_html_fragment_to_markdown_handles_custom_tags() -> None:
 
 def test_html_markup_detection_preserves_markdown_url_autolinks() -> None:
     assert not markdown_export_module.HTML_TAG_RE.search("<https://example.com>")
-    assert markdown_export_module.HTML_TAG_RE.search(
-        "<mw:widget>visible</mw:widget>"
-    )
+    assert markdown_export_module.HTML_TAG_RE.search("<mw:widget>visible</mw:widget>")
 
 
 def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
@@ -581,9 +579,7 @@ def test_export_normalizes_html_in_direct_source_fallback(
             return "<p><strong>Source fallback</strong> text</p>"
         raise AssertionError("Unexpected Pandoc conversion")
 
-    def fail_postprocess(
-        text: str, categories: list[str], stats: RenderStats
-    ) -> str:
+    def fail_postprocess(text: str, categories: list[str], stats: RenderStats) -> str:
         _ = (text, categories, stats)
         raise RuntimeError("simulated postprocess failure")
 
@@ -635,9 +631,7 @@ def test_export_uses_html_to_markdown_when_direct_source_conversion_fails(
             return opening + paragraph
         raise AssertionError("Unexpected Pandoc conversion")
 
-    def fail_postprocess(
-        text: str, categories: list[str], stats: RenderStats
-    ) -> str:
+    def fail_postprocess(text: str, categories: list[str], stats: RenderStats) -> str:
         _ = (text, categories, stats)
         raise RuntimeError("simulated postprocess failure")
 
@@ -684,9 +678,7 @@ def test_export_strips_html_when_all_pandoc_fallbacks_fail(
     ) -> str:
         raise RuntimeError("simulated Pandoc failure")
 
-    def fail_postprocess(
-        text: str, categories: list[str], stats: RenderStats
-    ) -> str:
+    def fail_postprocess(text: str, categories: list[str], stats: RenderStats) -> str:
         _ = (text, categories, stats)
         raise RuntimeError("simulated postprocess failure")
 

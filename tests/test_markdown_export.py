@@ -4,7 +4,9 @@ from typing import TYPE_CHECKING
 import pytest
 
 from pipeline.markdown_export import (
+    DumpPage,
     load_filename_mapping,
+    _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
     normalize_image_name,
     normalize_title,
     resolve_internal_href,
@@ -121,3 +123,30 @@ def test_filename_mapping_rejects_path_traversal(tmp_path: Path) -> None:
 
     with pytest.raises(ValueError, match="Unsafe Markdown filename"):
         load_filename_mapping(mapping_file)
+
+def test_iter_dump_pages_extracts_page_text_and_redirects(tmp_path: Path) -> None:
+    dump_file = tmp_path / "dump.xml"
+    dump_file.write_text(
+        """<?xml version="1.0"?>
+<mediawiki>
+  <page>
+    <title>Bear</title><ns>0</ns>
+    <revision><model>wikitext</model><text>Bear article</text></revision>
+  </page>
+  <page>
+    <title>Bear alias</title><ns>0</ns><redirect title="Bear" />
+    <revision><text>#REDIRECT [[Bear]]</text></revision>
+  </page>
+</mediawiki>
+""",
+        encoding="utf-8",
+    )
+
+    pages = list(_iter_dump_pages(dump_file))
+
+    assert pages == [
+        DumpPage("Bear", 0, "wikitext", "Bear article", None),
+        DumpPage("Bear alias", 0, "wikitext", "#REDIRECT [[Bear]]", "Bear"),
+    ]
+
+

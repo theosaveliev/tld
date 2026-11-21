@@ -1494,6 +1494,7 @@
 - [Key To Lake Cabin 3](https://thelongdark.fandom.com/wiki/Key_To_Lake_Cabin_3)
 - [Lily's Trunk Key](https://thelongdark.fandom.com/wiki/Lily's_Trunk_Key)
 - [Lock Box Key](https://thelongdark.fandom.com/wiki/Lock_Box_Key)
+- [Lock Box Key (Predux)](https://thelongdark.fandom.com/wiki/Lock_Box_Key_(Predux))
 - [Locker Key](https://thelongdark.fandom.com/wiki/Locker_Key)
 - [Milton Safety Deposit Box Keys](https://thelongdark.fandom.com/wiki/Milton_Safety_Deposit_Box_Keys)
 - [Mine Lockbox Key](https://thelongdark.fandom.com/wiki/Mine_Lockbox_Key)
@@ -1508,6 +1509,7 @@
 
 - [Aurora Hatch Door Entry Code](https://thelongdark.fandom.com/wiki/Aurora_Hatch_Door_Entry_Code)
 - [Bank Vault Code](https://thelongdark.fandom.com/wiki/Bank_Vault_Code)
+- [Dam Control Room Code](https://thelongdark.fandom.com/wiki/Dam_Control_Room_Code)
 - [Hank's Prepper Cache Code](https://thelongdark.fandom.com/wiki/Hank's_Prepper_Cache_Code)
 
 ### General Notes
@@ -1842,6 +1844,7 @@
 - [Burned Out Fuse](https://thelongdark.fandom.com/wiki/Burned_Out_Fuse)
 - [Carter Hydro Medical Supplies](https://thelongdark.fandom.com/wiki/Carter_Hydro_Medical_Supplies)
 - [Detonators](https://thelongdark.fandom.com/wiki/Detonators)
+- [Emergency Food](https://thelongdark.fandom.com/wiki/Emergency_Food)
 - [Forest Talker Supplies](https://thelongdark.fandom.com/wiki/Forest_Talker_Supplies)
 - [Radio Parts](https://thelongdark.fandom.com/wiki/Radio_Parts)
 - [Transmitters](https://thelongdark.fandom.com/wiki/Transmitters)
@@ -2273,9 +2276,7 @@
 
 > Pages retained for historical, legacy, or story-reference purposes that are not part of the main navigational taxonomy. Archived pages remain linked and are not deleted.
 
-### Characters
-
-> Character profiles and story figures retained as reference pages rather than as navigational gameplay systems.
+### Characters & Factions
 
 - [Archivist](https://thelongdark.fandom.com/wiki/Archivist)
 - [Astrid Greenwood](https://thelongdark.fandom.com/wiki/Astrid_Greenwood)
@@ -2305,146 +2306,154 @@
 - [Patient 7](https://thelongdark.fandom.com/wiki/Patient_7)
 - [Project Medical Officer](https://thelongdark.fandom.com/wiki/Project_Medical_Officer)
 - [Terry](https://thelongdark.fandom.com/wiki/Terry)
+- [The Foreman](https://thelongdark.fandom.com/wiki/The_Foreman)
+- [The Security Chief](https://thelongdark.fandom.com/wiki/The_Security_Chief)
+- [The Wounded Trapper](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper)
 - [Vachon](https://thelongdark.fandom.com/wiki/Vachon)
 - [Will Mackenzie](https://thelongdark.fandom.com/wiki/Will_Mackenzie)
 
-### Story and episodes
-
-> Story, episode, and narrative reference pages retained for completeness where they do not fit a current primary gameplay group.
+### Episodes & Chapter Overviews
 
 - [Aftermath](https://thelongdark.fandom.com/wiki/Aftermath)
-- [Aftermath/Transcript](https://thelongdark.fandom.com/wiki/Aftermath/Transcript)
-- [Betrayal](https://thelongdark.fandom.com/wiki/Betrayal)
-- [BLACKFROST: The Long Dark II](https://thelongdark.fandom.com/wiki/BLACKFROST%3A_The_Long_Dark_II)
-- [Blackrock Blues](https://thelongdark.fandom.com/wiki/Blackrock_Blues)
-- [Blackrock Blues/Transcript](https://thelongdark.fandom.com/wiki/Blackrock_Blues/Transcript)
-- [Breyerhouse](https://thelongdark.fandom.com/wiki/Breyerhouse)
-- [Coming Storm](https://thelongdark.fandom.com/wiki/Coming_Storm)
-- [Coming Storm/Transcript](https://thelongdark.fandom.com/wiki/Coming_Storm/Transcript)
-- [Conflagration](https://thelongdark.fandom.com/wiki/Conflagration)
-- [Donner (mission)/Transcript](https://thelongdark.fandom.com/wiki/Donner_(mission)/Transcript)
-- [Echoes Of Astrid](https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid)
-- [Echoes Of Astrid/Transcript](https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid/Transcript)
 - [Episode 1: Do Not Go Gentle](https://thelongdark.fandom.com/wiki/Episode_1%3A_Do_Not_Go_Gentle)
 - [Episode 2: Luminance Fugue](https://thelongdark.fandom.com/wiki/Episode_2%3A_Luminance_Fugue)
 - [Episode 3: Crossroads Elegy](https://thelongdark.fandom.com/wiki/Episode_3%3A_Crossroads_Elegy)
 - [Episode 4: Fury, Then Silence](https://thelongdark.fandom.com/wiki/Episode_4%3A_Fury%2C_Then_Silence)
 - [Episode 5: The Light At The End Of All Things](https://thelongdark.fandom.com/wiki/Episode_5%3A_The_Light_At_The_End_Of_All_Things)
+- [Prologue](https://thelongdark.fandom.com/wiki/Prologue)
+
+### Story Missions & Narratives
+
+- [Betrayal](https://thelongdark.fandom.com/wiki/Betrayal)
+- [Blackrock Blues](https://thelongdark.fandom.com/wiki/Blackrock_Blues)
+- [Breyerhouse](https://thelongdark.fandom.com/wiki/Breyerhouse)
+- [Coming Storm](https://thelongdark.fandom.com/wiki/Coming_Storm)
+- [Conflagration](https://thelongdark.fandom.com/wiki/Conflagration)
+- [Echoes Of Astrid](https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid)
 - [Fallen Star](https://thelongdark.fandom.com/wiki/Fallen_Star)
-- [Fallen Star/Transcript](https://thelongdark.fandom.com/wiki/Fallen_Star/Transcript)
 - [First Flare](https://thelongdark.fandom.com/wiki/First_Flare)
 - [Forest Talkers (side mission)](https://thelongdark.fandom.com/wiki/Forest_Talkers_(side_mission))
 - [Forge Blueprints (mission)](https://thelongdark.fandom.com/wiki/Forge_Blueprints_(mission))
 - [High Energy](https://thelongdark.fandom.com/wiki/High_Energy)
-- [Interview Transcript 4](https://thelongdark.fandom.com/wiki/Interview_Transcript_4)
-- [Interview Transcript 12](https://thelongdark.fandom.com/wiki/Interview_Transcript_12)
-- [Interview Transcript 14](https://thelongdark.fandom.com/wiki/Interview_Transcript_14)
-- [Interview Transcript 17](https://thelongdark.fandom.com/wiki/Interview_Transcript_17)
 - [Jeremiah's Folly](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly)
-- [Jeremiah's Folly/Transcript](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly/Transcript)
 - [Light Up The Night](https://thelongdark.fandom.com/wiki/Light_Up_The_Night)
 - [Lost in the Storm](https://thelongdark.fandom.com/wiki/Lost_in_the_Storm)
 - [Molly's Gift](https://thelongdark.fandom.com/wiki/Molly's_Gift)
 - [On the Nature of Darkwalkers](https://thelongdark.fandom.com/wiki/On_the_Nature_of_Darkwalkers)
 - [One Last Thing](https://thelongdark.fandom.com/wiki/One_Last_Thing)
 - [Paradise Lost](https://thelongdark.fandom.com/wiki/Paradise_Lost)
-- [Paradise Lost (Predux)](https://thelongdark.fandom.com/wiki/Paradise_Lost_(Predux))
-- [Paradise Lost (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Paradise_Lost_(Predux)/Transcript)
-- [Paradise Lost/Transcript](https://thelongdark.fandom.com/wiki/Paradise_Lost/Transcript)
 - [Perseverance](https://thelongdark.fandom.com/wiki/Perseverance)
-- [Prologue](https://thelongdark.fandom.com/wiki/Prologue)
-- [Prologue/Transcript](https://thelongdark.fandom.com/wiki/Prologue/Transcript)
 - [Renewed Hope](https://thelongdark.fandom.com/wiki/Renewed_Hope)
-- [Renewed Hope (Predux)](https://thelongdark.fandom.com/wiki/Renewed_Hope_(Predux))
-- [Renewed Hope (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Renewed_Hope_(Predux)/Transcript)
-- [Renewed Hope/Transcript](https://thelongdark.fandom.com/wiki/Renewed_Hope/Transcript)
 - [Signal to Noise](https://thelongdark.fandom.com/wiki/Signal_to_Noise)
-- [Signal to Noise/Transcript](https://thelongdark.fandom.com/wiki/Signal_to_Noise/Transcript)
-- [Survival Of The Fittest/Transcript](https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest/Transcript)
 - [Survival School](https://thelongdark.fandom.com/wiki/Survival_School)
-- [Survival School (Predux)](https://thelongdark.fandom.com/wiki/Survival_School_(Predux))
-- [Survival School (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Survival_School_(Predux)/Transcript)
 - [Tall Tales](https://thelongdark.fandom.com/wiki/Tall_Tales)
-- [The Best Defense/Transcript](https://thelongdark.fandom.com/wiki/The_Best_Defense/Transcript)
 - [The Cold, Broken Road](https://thelongdark.fandom.com/wiki/The_Cold%2C_Broken_Road)
 - [The Collapse](https://thelongdark.fandom.com/wiki/The_Collapse)
 - [The Crash](https://thelongdark.fandom.com/wiki/The_Crash)
-- [The Crash/Transcript](https://thelongdark.fandom.com/wiki/The_Crash/Transcript)
 - [The Detonators](https://thelongdark.fandom.com/wiki/The_Detonators)
-- [The Detonators/Transcript](https://thelongdark.fandom.com/wiki/The_Detonators/Transcript)
-- [The Foreman](https://thelongdark.fandom.com/wiki/The_Foreman)
 - [The Grey Mother](https://thelongdark.fandom.com/wiki/The_Grey_Mother)
-- [The Grey Mother (Predux)](https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux))
-- [The Grey Mother (Predux)/Transcript](https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux)/Transcript)
-- [The Grey Mother/Transcript](https://thelongdark.fandom.com/wiki/The_Grey_Mother/Transcript)
-- [The Power Plant/Transcript](https://thelongdark.fandom.com/wiki/The_Power_Plant/Transcript)
-- [The Security Chief](https://thelongdark.fandom.com/wiki/The_Security_Chief)
-- [The Wounded Trapper](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper)
-- [The Wounded Trapper/Transcript](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper/Transcript)
 - [To SAR And Back](https://thelongdark.fandom.com/wiki/To_SAR_And_Back)
 - [To Those Who Are Missing](https://thelongdark.fandom.com/wiki/To_Those_Who_Are_Missing)
 - [Trauma](https://thelongdark.fandom.com/wiki/Trauma)
-- [Trauma/Transcript](https://thelongdark.fandom.com/wiki/Trauma/Transcript)
 - [What I Know](https://thelongdark.fandom.com/wiki/What_I_Know)
 - [What One Man Can Do](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do)
-- [What One Man Can Do/Transcript](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do/Transcript)
 - [You Fix My Rifle?](https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F)
+
+### Story Transcripts & Interviews
+
+- [Aftermath/Transcript](https://thelongdark.fandom.com/wiki/Aftermath/Transcript)
+- [Blackrock Blues/Transcript](https://thelongdark.fandom.com/wiki/Blackrock_Blues/Transcript)
+- [Coming Storm/Transcript](https://thelongdark.fandom.com/wiki/Coming_Storm/Transcript)
+- [Donner (mission)/Transcript](https://thelongdark.fandom.com/wiki/Donner_(mission)/Transcript)
+- [Echoes Of Astrid/Transcript](https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid/Transcript)
+- [Fallen Star/Transcript](https://thelongdark.fandom.com/wiki/Fallen_Star/Transcript)
+- [Interview Transcript 4](https://thelongdark.fandom.com/wiki/Interview_Transcript_4)
+- [Interview Transcript 12](https://thelongdark.fandom.com/wiki/Interview_Transcript_12)
+- [Interview Transcript 14](https://thelongdark.fandom.com/wiki/Interview_Transcript_14)
+- [Interview Transcript 17](https://thelongdark.fandom.com/wiki/Interview_Transcript_17)
+- [Jeremiah's Folly/Transcript](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly/Transcript)
+- [Paradise Lost/Transcript](https://thelongdark.fandom.com/wiki/Paradise_Lost/Transcript)
+- [Prologue/Transcript](https://thelongdark.fandom.com/wiki/Prologue/Transcript)
+- [Renewed Hope/Transcript](https://thelongdark.fandom.com/wiki/Renewed_Hope/Transcript)
+- [Signal to Noise/Transcript](https://thelongdark.fandom.com/wiki/Signal_to_Noise/Transcript)
+- [Survival Of The Fittest/Transcript](https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest/Transcript)
+- [The Best Defense/Transcript](https://thelongdark.fandom.com/wiki/The_Best_Defense/Transcript)
+- [The Crash/Transcript](https://thelongdark.fandom.com/wiki/The_Crash/Transcript)
+- [The Detonators/Transcript](https://thelongdark.fandom.com/wiki/The_Detonators/Transcript)
+- [The Grey Mother/Transcript](https://thelongdark.fandom.com/wiki/The_Grey_Mother/Transcript)
+- [The Power Plant/Transcript](https://thelongdark.fandom.com/wiki/The_Power_Plant/Transcript)
+- [The Wounded Trapper/Transcript](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper/Transcript)
+- [Trauma/Transcript](https://thelongdark.fandom.com/wiki/Trauma/Transcript)
+- [What One Man Can Do/Transcript](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do/Transcript)
 - [You Fix My Rifle?/Transcript](https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F/Transcript)
 
-### Other retained reference
+### Predux Story Versions
 
-> Legacy and miscellaneous reference pages preserved for historical context or future review.
+- [Paradise Lost (Predux)](https://thelongdark.fandom.com/wiki/Paradise_Lost_(Predux))
+- [Paradise Lost (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Paradise_Lost_(Predux)/Transcript)
+- [Renewed Hope (Predux)](https://thelongdark.fandom.com/wiki/Renewed_Hope_(Predux))
+- [Renewed Hope (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Renewed_Hope_(Predux)/Transcript)
+- [Survival School (Predux)](https://thelongdark.fandom.com/wiki/Survival_School_(Predux))
+- [Survival School (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Survival_School_(Predux)/Transcript)
+- [The Grey Mother (Predux)](https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux))
+- [The Grey Mother (Predux)/Transcript](https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux)/Transcript)
+
+### Cut & Discontinued Content
+
+- [Cut/Discontinued Content](https://thelongdark.fandom.com/wiki/Cut/Discontinued_Content)
+- [Hand-Powered Milling Tool](https://thelongdark.fandom.com/wiki/Hand-Powered_Milling_Tool)
+- [Jeremiah's Bearskin Coat](https://thelongdark.fandom.com/wiki/Jeremiah's_Bearskin_Coat)
+
+### Disambiguation Pages
 
 - [Broken Bridge (disambiguation)](https://thelongdark.fandom.com/wiki/Broken_Bridge_(disambiguation))
 - [Cave (disambiguation)](https://thelongdark.fandom.com/wiki/Cave_(disambiguation))
-- [Cave (Transition Zone)](https://thelongdark.fandom.com/wiki/Cave_(Transition_Zone))
-- [Characters](https://thelongdark.fandom.com/wiki/Characters)
-- [Clothing](https://thelongdark.fandom.com/wiki/Clothing)
-- [Cut/Discontinued Content](https://thelongdark.fandom.com/wiki/Cut/Discontinued_Content)
-- [Dam Control Room Code](https://thelongdark.fandom.com/wiki/Dam_Control_Room_Code)
-- [Easter Eggs](https://thelongdark.fandom.com/wiki/Easter_Eggs)
-- [Emergency Food](https://thelongdark.fandom.com/wiki/Emergency_Food)
 - [Fishing Lure (disambiguation)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(disambiguation))
-- [Hand-Powered Milling Tool](https://thelongdark.fandom.com/wiki/Hand-Powered_Milling_Tool)
-- [Hinterland Studio Inc.](https://thelongdark.fandom.com/wiki/Hinterland_Studio_Inc.)
 - [Hunter's Blind (disambiguation)](https://thelongdark.fandom.com/wiki/Hunter's_Blind_(disambiguation))
-- [Iron Road](https://thelongdark.fandom.com/wiki/Iron_Road)
-- [Jeremiah's Bearskin Coat](https://thelongdark.fandom.com/wiki/Jeremiah's_Bearskin_Coat)
 - [Kerosene](https://thelongdark.fandom.com/wiki/Kerosene)
-- [Locations](https://thelongdark.fandom.com/wiki/Locations)
-- [Lock Box Key (Predux)](https://thelongdark.fandom.com/wiki/Lock_Box_Key_(Predux))
 - [Lookout (disambiguation)](https://thelongdark.fandom.com/wiki/Lookout_(disambiguation))
 - [Matches (disambiguation)](https://thelongdark.fandom.com/wiki/Matches_(disambiguation))
-- [Materials](https://thelongdark.fandom.com/wiki/Materials)
-- [Mountain Pass](https://thelongdark.fandom.com/wiki/Mountain_Pass)
 - [Mystery Lake (disambiguation)](https://thelongdark.fandom.com/wiki/Mystery_Lake_(disambiguation))
-- [Region](https://thelongdark.fandom.com/wiki/Region)
-- [Roads](https://thelongdark.fandom.com/wiki/Roads)
 - [Soda (disambiguation)](https://thelongdark.fandom.com/wiki/Soda_(disambiguation))
+- [Transcript (disambiguation)](https://thelongdark.fandom.com/wiki/Transcript_(disambiguation))
+
+### Games & Expansions
+
+- [BLACKFROST: The Long Dark II](https://thelongdark.fandom.com/wiki/BLACKFROST%3A_The_Long_Dark_II)
+- [Iron Road](https://thelongdark.fandom.com/wiki/Iron_Road)
 - [Tales from the Far Territory](https://thelongdark.fandom.com/wiki/Tales_from_the_Far_Territory)
 - [The Long Dark](https://thelongdark.fandom.com/wiki/The_Long_Dark)
-- [The Long Dark Original Soundtrack](https://thelongdark.fandom.com/wiki/The_Long_Dark_Original_Soundtrack)
-- [The Long Dark Wiki](https://thelongdark.fandom.com/wiki/The_Long_Dark_Wiki)
-- [The Long Dark/Changelog](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog)
-- [The Long Dark/Early Access Changelog](https://thelongdark.fandom.com/wiki/The_Long_Dark/Early_Access_Changelog)
-- [The Long Dark/Gallery](https://thelongdark.fandom.com/wiki/The_Long_Dark/Gallery)
-- [The Long Development](https://thelongdark.fandom.com/wiki/The_Long_Development)
-- [Timeline of The Long Dark](https://thelongdark.fandom.com/wiki/Timeline_of_The_Long_Dark)
-- [Transcript (disambiguation)](https://thelongdark.fandom.com/wiki/Transcript_(disambiguation))
-- [Warm Cave](https://thelongdark.fandom.com/wiki/Warm_Cave)
 - [Wintermute](https://thelongdark.fandom.com/wiki/Wintermute)
 
-## Notes on this draft
+### World & Location Reference
 
-- This is a review tree, not an automatic conversion plan. Source categories remain provenance metadata.
-- Each article appears once in the primary groups.
-- Location subheadings use the existing `Locations in …` memberships as a suggestion. Pages that do not belong to a single region, including recurring structure types, are listed once under Other locations.
-- The template analyzer reports potential transcluded memberships, but does not yet provide a fully evaluated MediaWiki expansion. Those memberships are not used to guess primary placement here.
-- Page names are preserved exactly as in the source report. URL spaces are converted to underscores and special characters are URL-encoded.
-- Wiki article titles are never renamed in taxonomy links; categories and section headings may classify pages, but link labels preserve the exact wiki page title.
+- [Cave (Transition Zone)](https://thelongdark.fandom.com/wiki/Cave_(Transition_Zone))
+- [Roads](https://thelongdark.fandom.com/wiki/Roads)
+- [Warm Cave](https://thelongdark.fandom.com/wiki/Warm_Cave)
 
-- A Location is a named, discoverable point of interest; the in-game first-discovery message is “New location discovered.”
-- Fixed environmental objects and fixtures belong under Gameplay → World Objects; wearable gear and climbing aids belong under Clothing & Climbing Gear.
-- Craftable Safehouse furniture and decorative pieces belong under Decorations & Safehouse Items; existing environmental objects remain under Gameplay → World Objects.
-- Trader Special Request pages and their quest-only items belong under Gameplay → Trader Quests.
-- Link labels always preserve the exact wiki article title. Taxonomy headings classify pages but never rename them.
+### Wiki & Category Indexes
+
+- [Characters](https://thelongdark.fandom.com/wiki/Characters)
+- [Clothing](https://thelongdark.fandom.com/wiki/Clothing)
+- [Locations](https://thelongdark.fandom.com/wiki/Locations)
+- [Materials](https://thelongdark.fandom.com/wiki/Materials)
+- [Region](https://thelongdark.fandom.com/wiki/Region)
+- [The Long Dark Wiki](https://thelongdark.fandom.com/wiki/The_Long_Dark_Wiki)
+
+### Development & Studio History
+
+- [Hinterland Studio Inc.](https://thelongdark.fandom.com/wiki/Hinterland_Studio_Inc.)
+- [The Long Dark/Changelog](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog)
+- [The Long Dark/Early Access Changelog](https://thelongdark.fandom.com/wiki/The_Long_Dark/Early_Access_Changelog)
+- [Timeline of The Long Dark](https://thelongdark.fandom.com/wiki/Timeline_of_The_Long_Dark)
+
+### Community Mods & Unofficial Content
+
+- [Mountain Pass](https://thelongdark.fandom.com/wiki/Mountain_Pass)
+- [The Long Development](https://thelongdark.fandom.com/wiki/The_Long_Development)
+
+### Media & Easter Eggs
+
+- [Easter Eggs](https://thelongdark.fandom.com/wiki/Easter_Eggs)
+- [The Long Dark Original Soundtrack](https://thelongdark.fandom.com/wiki/The_Long_Dark_Original_Soundtrack)
+- [The Long Dark/Gallery](https://thelongdark.fandom.com/wiki/The_Long_Dark/Gallery)

@@ -6,7 +6,7 @@
 
 ![Blackrock Memo](../assets/Blackrock_Memo_icon.png)
 
-_Blackrock\\_Memo\\_icon.png_
+_Blackrock\_Memo\_icon.png_
 
 **Release:** [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98)
 

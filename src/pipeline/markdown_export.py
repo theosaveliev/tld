@@ -132,10 +132,23 @@ def resolve_internal_href(
         return href
 
     parsed = urllib.parse.urlsplit(href)
-    if parsed.scheme in {"http", "https", "mailto", "ftp", "tel"}:
+    scheme = parsed.scheme.casefold()
+    local_namespaces = {
+        "category",
+        "file",
+        "image",
+        "media",
+        "module",
+        "special",
+        "template",
+    }
+    is_interwiki = len(scheme) in {2, 3} or scheme in {"w", "c", "wikipedia", "wikia"}
+    if scheme in {"http", "https", "mailto", "ftp", "tel"} or (
+        scheme and scheme not in local_namespaces and is_interwiki
+    ):
         return href
 
-    raw_path = parsed.path if not parsed.scheme else href
+    raw_path = parsed.path if not scheme else href
     raw_target = urllib.parse.unquote(raw_path).strip()
     raw_target = raw_target.removeprefix("./").removeprefix("/")
     if not raw_target:

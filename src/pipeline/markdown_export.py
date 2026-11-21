@@ -1036,7 +1036,7 @@ HTML_BLOCK_TAGS = frozenset(
     }
 )
 HTML_TAG_RE = re.compile(r"</?[A-Za-z][A-Za-z0-9._:-]*(?=\s|/?>)[^>]*>")
-HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
+HTML_COMMENT_RE = re.compile(r"<!--.*?(?:-->|$)", re.DOTALL)
 HTML_DECLARATION_RE = re.compile(r"<![A-Za-z][^>]*>")
 
 
@@ -1368,6 +1368,9 @@ def _render_html_list(node: lhtml.HtmlElement, depth: int = 0) -> str:
         content = [_markdown_text(item.text or "")]
         nested: list[str] = []
         for child in item:
+            if not isinstance(child.tag, str):
+                content.append(_markdown_text(child.tail or ""))
+                continue
             if _html_tag(child) in {"ul", "ol"}:
                 nested.append(_render_html_list(child, depth + 2))
             elif _is_html_block_element(child):
@@ -1401,6 +1404,8 @@ def _render_html_definition_list(node: lhtml.HtmlElement) -> str:
     lines: list[str] = []
     term = ""
     for child in node:
+        if not isinstance(child.tag, str):
+            continue
         tag = _html_tag(child)
         content = _inline_markdown(child).strip()
         if tag == "dt":
@@ -1535,7 +1540,7 @@ def _convert_html_to_markdown(
         ).strip()
         return markdown_body, note, True
 
-    if HTML_TAG_RE.search(markdown_body):
+    if _contains_html_markup(markdown_body):
         markdown_body = _html_fragment_to_markdown(rewritten_html)
         note = (
             f"{note} Converted HTML elements retained by Pandoc into Markdown."
@@ -1574,7 +1579,9 @@ def _source_markdown_fallback(
                 markdown_body = _html_fragment_to_markdown(page.text)
             except Exception:
                 safe_source = _strip_html_markup(page.text)
-                markdown_body = "\n".join("> " + line for line in safe_source.splitlines())
+                markdown_body = "\n".join(
+                    "> " + line for line in safe_source.splitlines()
+                )
                 return PageConversion(
                     markdown_body=markdown_body,
                     status="conversion_failed",
@@ -1597,10 +1604,13 @@ def _source_markdown_fallback(
         try:
             markdown_body = _source_html_markdown_fallback(page, pandoc, resources)
         except Exception as html_error:
-            if _contains_html_markup(page.text):
-                markdown_body = _html_fragment_to_markdown(page.text)
-            else:
-                markdown_body = _strip_html_markup(markdown_body)
+            try:
+                if _contains_html_markup(page.text):
+                    markdown_body = _html_fragment_to_markdown(page.text)
+                else:
+                    markdown_body = _strip_html_markup(markdown_body)
+            except Exception:
+                markdown_body = _strip_html_markup(page.text)
             note = (
                 f"{conversion_stage_error} Pandoc retained HTML; normalized it "
                 f"to Markdown after: {html_error}"

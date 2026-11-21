@@ -43,9 +43,10 @@ URL are retained as a readable Markdown metadata line. Article links are
 rewritten to the allocated local Markdown filenames, redirects resolve to
 their destination articles, and referenced images are copied into `assets/`.
 Fandom galleries are converted to standalone Markdown images with captions
-because Markdown has no portable native gallery layout. Images without
-filename extensions are given one based on their file signatures when
-recognized.
+because Markdown has no portable native gallery layout. Other image-bearing
+tables are converted to ordinary Markdown blocks so images do not depend on
+table-cell rendering. Images without filename extensions are given one based
+on their file signatures when recognized.
 
 Alongside the primary `--image-dir`, the exporter searches a sibling directory
 named `<image-dir-name>_mismatch` for images not found in the primary directory;

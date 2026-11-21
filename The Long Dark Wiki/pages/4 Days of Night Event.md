@@ -1,11 +1,6 @@
----
-title: "4 Days of Night Event"
-wiki_namespace: 0
-categories: ["Challenges", "Events"]
-source: "https://thelongdark.fandom.com/wiki/4_Days_of_Night_Event"
----
-
 # 4 Days of Night Event
+
+**Categories:** Challenges, Events · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/4_Days_of_Night_Event)
 
 **Contents**
 
@@ -22,15 +17,15 @@ source: "https://thelongdark.fandom.com/wiki/4_Days_of_Night_Event"
 
 ![The main menu background during the event](../assets/4DON_menu_background.jpg)
 
-*The main menu background during the event*
+_The main menu background during the event_
 
 > “**An endless night has arrived on Great Bear Island. Use your wits, and whatever you can find, to survive.**”
 >
 > — In-game description
 
-**4 Days of Night**, abbreviated as **4DON**, was an annual Halloween-themed event in *[The Long Dark](./The%20Long%20Dark.md)*.
+**4 Days of Night**, abbreviated as **4DON**, was an annual Halloween-themed event in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-It was discontinued in 2020 after being replaced by *[Escape the Darkwalker](./Escape%20the%20Darkwalker.md)*, a 2 week event that was shortly turned into a standalone challenge.
+It was discontinued in 2020 after being replaced by _[Escape the Darkwalker](./Escape%20the%20Darkwalker.md)_, a 2 week event that was shortly turned into a standalone challenge.
 
 ## Dates
 
@@ -66,25 +61,25 @@ Since the event is essentially a new game, all stats and settings are reset for 
 
 ### Day 1: The Quiet Dark
 
-"*Wildlife have vanished. Use this time to explore and gather supplies for the long nights ahead. Survive at least two real-time hours to make progress towards 4DON Rewards.*"
+"_Wildlife have vanished. Use this time to explore and gather supplies for the long nights ahead. Survive at least two real-time hours to make progress towards 4DON Rewards._"
 
 — In-game description
 
 ### Day 2: Howl
 
-"*Wolves have returned to Great Bear Island, watch out! Survive at least two real-time hours to make progress towards 4DON Rewards.*"
+"_Wolves have returned to Great Bear Island, watch out! Survive at least two real-time hours to make progress towards 4DON Rewards._"
 
 — In-game description
 
 ### Day 3: A Green Fire
 
-"*With the Aurora in the sky, wolves are even more dangerous. Beware! Survive at least two real-time hours to make progress towards 4DON Rewards.*"
+"_With the Aurora in the sky, wolves are even more dangerous. Beware! Survive at least two real-time hours to make progress towards 4DON Rewards._"
 
 — In-game description
 
 ### Day 4: A Cold Embrace
 
-"*A monster blizzard has arrived. Don't stray too far from your fire, or else! Survive at least two real-time hours to make progress towards 4DON Rewards.*"
+"_A monster blizzard has arrived. Don't stray too far from your fire, or else! Survive at least two real-time hours to make progress towards 4DON Rewards._"
 
 — In-game description
 
@@ -107,17 +102,68 @@ The in game clock in the top right on the HUD does not move from midnight during
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Midnight Badge.](../assets/Badge_challenge_FourDaysOfNightFull.png) / *Midnight Badge.* | ![Twilight Badge.](../assets/Badge_challenge_FourDaysOfNightHalf.png) / *Twilight Badge.* | ![2019 version](../assets/Badge_challenge_FourDaysOfNight2019Full.png) / *2019 version* | ![2019 version](../assets/Badge_challenge_FourDaysOfNight2019Half.png) / *2019 version* |
-| ![](../assets/The_Long_Dark_--_4_Days_of_Night_2018_%28Halloween_Event%29) / *The\_Long\_Dark\_--\_4\_Days\_of\_Night\_2018\_(Halloween\_Event)* | ![](../assets/The_Long_Dark_-_4_Days_of_Night_%28Halloween_Event%29) / *The\_Long\_Dark\_-\_4\_Days\_of\_Night\_(Halloween\_Event)* | ![Pumpkin Cache from Coastal Highway.](../assets/4DON_pumpkin_cache.png) / *Pumpkin Cache from Coastal Highway.* | ![A skull in a Fishing Hut from Coastal Highway.](../assets/4DON_skull_fishing_hut.png) / *A skull in a Fishing Hut from Coastal Highway.* |
-| ![Candy bowl outside Pleasant Valley Barn.](../assets/CandyBowl.jpg) / *Candy bowl outside Pleasant Valley Barn.* | ![The Candy Bar provides 10x the amount of calories during the event.](../assets/Nutsnstuff.jpg) / *The Candy Bar provides 10x the amount of calories during the event.* | ![Pumpkin pie, one of the unique items available during the event](../assets/Pumpkin_pie.png) / *Pumpkin pie, one of the unique items available during the event* | ![Pumpkin Pie spawn inside Pleasant Valley Farmstead.](../assets/PVPumpkin.jpg) / *Pumpkin Pie spawn inside Pleasant Valley Farmstead.* |
-| ![A 'Demon' wolf approaching.](../assets/Wolf_demon2.jpg) / *A 'Demon' wolf approaching.* | ![](../assets/4DON_titlecard.jpg) / *4DON\_titlecard.jpg* | ![](../assets/Four_Days_Of_Night_2018.png) / *Four\_Days\_Of\_Night\_2018.png* |  |
+![Midnight Badge.](../assets/Badge_challenge_FourDaysOfNightFull.png)
+
+_Midnight Badge._
+
+![Twilight Badge.](../assets/Badge_challenge_FourDaysOfNightHalf.png)
+
+_Twilight Badge._
+
+![2019 version](../assets/Badge_challenge_FourDaysOfNight2019Full.png)
+
+_2019 version._
+
+![2019 version](../assets/Badge_challenge_FourDaysOfNight2019Half.png)
+
+_2019 version._
+
+![The Long Dark — 4 Days of Night 2018 Halloween event title card](../assets/The_Long_Dark_--_4_Days_of_Night_2018_%28Halloween_Event%29.jpg)
+
+_The Long Dark — 4 Days of Night 2018 (Halloween Event)._
+
+![The Long Dark — 4 Days of Night Halloween event title card](../assets/The_Long_Dark_-_4_Days_of_Night_%28Halloween_Event%29.jpg)
+
+_The Long Dark — 4 Days of Night (Halloween Event)._
+
+![Pumpkin Cache from Coastal Highway.](../assets/4DON_pumpkin_cache.png)
+
+_Pumpkin Cache from Coastal Highway._
+
+![A skull in a Fishing Hut from Coastal Highway.](../assets/4DON_skull_fishing_hut.png)
+
+_A skull in a Fishing Hut from Coastal Highway._
+
+![Candy bowl outside Pleasant Valley Barn.](../assets/CandyBowl.jpg)
+
+_Candy bowl outside Pleasant Valley Barn._
+
+![The Candy Bar provides 10x the amount of calories during the event.](../assets/Nutsnstuff.jpg)
+
+_The Candy Bar provides 10x the amount of calories during the event._
+
+![Pumpkin pie, one of the unique items available during the event](../assets/Pumpkin_pie.png)
+
+_Pumpkin pie, one of the unique items available during the event._
+
+![Pumpkin Pie spawn inside Pleasant Valley Farmstead.](../assets/PVPumpkin.jpg)
+
+_Pumpkin Pie spawn inside Pleasant Valley Farmstead._
+
+![A 'Demon' wolf approaching.](../assets/Wolf_demon2.jpg)
+
+_A 'Demon' wolf approaching._
+
+![4 Days of Night title card](../assets/4DON_titlecard.jpg)
+
+_4DON titlecard._
+
+![Four Days of Night 2018 artwork](../assets/Four_Days_Of_Night_2018.png)
+
+_Four Days Of Night 2018._
 
 ## External links
 
 - [2016 4 Days of Night announcement](http://www.hinterlandforums.com/forums/topic/13145-the-long-dark-event-%E2%80%94-4-days-of-night/?tab=comments#comment-84904)
 - [2017 4 Days of Night announcement](http://www.thelongdark.com/news/four-days-of-night-in-the-long-dark-a-halloween-event/)
 - [2018 4 Days of Night announcement](http://www.thelongdark.com/news/4-days-of-night-2018/)
-
-**Lua execution error in Module:Navbox function navbox**[ru:4 Days fo Night](ru:4_Days_fo_Night)

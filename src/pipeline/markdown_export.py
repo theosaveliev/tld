@@ -1182,7 +1182,7 @@ def _restore_deferred_material_tables_in_html(
             re.IGNORECASE,
         )
         html_fragment, replacements = paragraph.subn(
-            lambda _match: table, html_fragment
+            lambda _match, replacement=table: replacement, html_fragment
         )
         if not replacements:
             html_fragment = html_fragment.replace(token, table)

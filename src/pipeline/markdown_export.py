@@ -6,16 +6,12 @@ from __future__ import annotations
 import hashlib
 import html
 import importlib
-import importlib.util
 import json
 import re
 import shutil
 import subprocess
-import sys
-import types
 import unicodedata
 import urllib.parse
-import warnings
 from dataclasses import dataclass
 from pathlib import Path
 from typing import TYPE_CHECKING, Any, TypedDict, cast
@@ -325,52 +321,11 @@ def _iter_dump_pages(path: Path) -> Iterator[DumpPage]:
             yield page
 
 
-def _create_wtp() -> Any:
-    """Create Wtp with compatibility shims required by current Python."""
-    warnings.filterwarnings(
-        "ignore", message=".*global interpreter lock.*", category=RuntimeWarning
-    )
-    warnings.filterwarnings("ignore", category=SyntaxWarning)
-
-    try:
-        importlib.import_module("pkg_resources")
-    except ImportError:
-        package_resources = types.ModuleType("pkg_resources")
-
-        def resource_filename(package: str, resource: str) -> str:
-            spec = importlib.util.find_spec(package)
-            if spec is None or spec.origin is None:
-                raise ModuleNotFoundError(package)
-            return str(Path(spec.origin).parent / resource)
-
-        setattr(package_resources, "resource_filename", resource_filename)
-        sys.modules["pkg_resources"] = package_resources
-
-    regex_module = re
-    luaexec = importlib.import_module("wikitextprocessor.luaexec")
-
-    class RegexShim:
-        def __getattr__(self, name: str) -> Any:
-            return getattr(regex_module, name)
-
-        def match(self, pattern: Any, string: str, flags: int = 0) -> Any:
-            if isinstance(pattern, str):
-                pattern = pattern.replace("^(?s)", "(?s)^")
-            return regex_module.match(pattern, string, flags)
-
-    if sys.version_info >= WTP_RE_SHIM_MIN_PYTHON_VERSION:
-        setattr(luaexec, "re", RegexShim())
-
-    processor = importlib.import_module("wikitextprocessor")
-    wtp_factory = getattr(processor, "Wtp")
-    return wtp_factory(quiet=True, num_threads=1)
-
-
 def _load_wiki_context(
-    dump_path: Path,
+    dump_path: Path, wtp_factory: Any
 ) -> tuple[Any, list[DumpPage], dict[str, str]]:
     """Load templates/modules and retain main-namespace article records."""
-    context = _create_wtp()
+    context = wtp_factory(quiet=True, num_threads=1)
     articles: list[DumpPage] = []
     redirects: dict[str, str] = {}
 
@@ -769,8 +724,9 @@ def _prepare_export(
     preprocess = getattr(renderer, "prepass")
     postprocess = getattr(renderer, "postexpand")
     load_infobox_defs = getattr(renderer, "load_infobox_defs")
+    wtp_factory = getattr(renderer, "Wtp")
     pandoc_selftest = getattr(renderer, "pandoc_selftest")
-    context, articles, redirects = _load_wiki_context(dump_path)
+    context, articles, redirects = _load_wiki_context(dump_path, wtp_factory)
     infobox_defs = load_infobox_defs(context)
 
     article_titles = {normalize_title(page.title) for page in articles}

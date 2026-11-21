@@ -1515,6 +1515,7 @@
 ### General Notes
 
 - [A Note Left Behind](https://thelongdark.fandom.com/wiki/A_Note_Left_Behind)
+- [Betrayal](https://thelongdark.fandom.com/wiki/Betrayal)
 - [Crumpled Note](https://thelongdark.fandom.com/wiki/Crumpled_Note)
 - [Crumpled Note (2)](https://thelongdark.fandom.com/wiki/Crumpled_Note_(2))
 - [Illegible Note](https://thelongdark.fandom.com/wiki/Illegible_Note)
@@ -1529,6 +1530,7 @@
 - [Note (Survival)](https://thelongdark.fandom.com/wiki/Note_(Survival))
 - [Note From Dr Larsen](https://thelongdark.fandom.com/wiki/Note_From_Dr_Larsen)
 - [Notes](https://thelongdark.fandom.com/wiki/Notes)
+- [On the Nature of Darkwalkers](https://thelongdark.fandom.com/wiki/On_the_Nature_of_Darkwalkers)
 - [Pinned Note](https://thelongdark.fandom.com/wiki/Pinned_Note)
 - [Simple Note](https://thelongdark.fandom.com/wiki/Simple_Note)
 - [Soggy Note](https://thelongdark.fandom.com/wiki/Soggy_Note)
@@ -1571,6 +1573,7 @@
 - [Letter](https://thelongdark.fandom.com/wiki/Letter)
 - [Letter (Car)](https://thelongdark.fandom.com/wiki/Letter_(Car))
 - [Letter for Hank's Niece](https://thelongdark.fandom.com/wiki/Letter_for_Hank's_Niece)
+- [Lost in the Storm](https://thelongdark.fandom.com/wiki/Lost_in_the_Storm)
 - [Milton Credit Union Letter](https://thelongdark.fandom.com/wiki/Milton_Credit_Union_Letter)
 - [Off Season Fun](https://thelongdark.fandom.com/wiki/Off_Season_Fun)
 - [Tearful Letter](https://thelongdark.fandom.com/wiki/Tearful_Letter)
@@ -1851,13 +1854,6 @@
 - [Transponder Parts](https://thelongdark.fandom.com/wiki/Transponder_Parts)
 - [Trauma Kit](https://thelongdark.fandom.com/wiki/Trauma_Kit)
 
-### Story Missions
-
-- [A Cry For Help](https://thelongdark.fandom.com/wiki/A_Cry_For_Help)
-- [A Riddle Among the Shadows](https://thelongdark.fandom.com/wiki/A_Riddle_Among_the_Shadows)
-- [Lake Gunshots](https://thelongdark.fandom.com/wiki/Lake_Gunshots)
-- [Memories](https://thelongdark.fandom.com/wiki/Memories)
-
 ### Reference Pages
 
 - [Collectibles](https://thelongdark.fandom.com/wiki/Collectibles)
@@ -2112,6 +2108,7 @@
 - [Survival Mode/Interloper Tips](https://thelongdark.fandom.com/wiki/Survival_Mode/Interloper_Tips)
 - [Survival Overlay](https://thelongdark.fandom.com/wiki/Survival_Overlay)
 - [Voyageur](https://thelongdark.fandom.com/wiki/Voyageur)
+- [What I Know](https://thelongdark.fandom.com/wiki/What_I_Know)
 - [Winter's Embrace](https://thelongdark.fandom.com/wiki/Winter's_Embrace)
 
 ## 23. Challenges
@@ -2119,6 +2116,7 @@
 > This section contains the game's standalone challenge modes and the pages that explain or document their objectives and completion.
 
 - [Almanac](https://thelongdark.fandom.com/wiki/Almanac)
+- [Archivist](https://thelongdark.fandom.com/wiki/Archivist)
 - [As the Dead Sleep](https://thelongdark.fandom.com/wiki/As_the_Dead_Sleep)
 - [As the Dead Sleep Challenge Walkthrough](https://thelongdark.fandom.com/wiki/As_the_Dead_Sleep_Challenge_Walkthrough)
 - [Challenge](https://thelongdark.fandom.com/wiki/Challenge)
@@ -2276,88 +2274,135 @@
 
 > Pages retained for historical, legacy, or story-reference purposes that are not part of the main navigational taxonomy. Archived pages remain linked and are not deleted.
 
-### Characters & Factions
+### Playable Characters
 
-- [Archivist](https://thelongdark.fandom.com/wiki/Archivist)
 - [Astrid Greenwood](https://thelongdark.fandom.com/wiki/Astrid_Greenwood)
+- [Will Mackenzie](https://thelongdark.fandom.com/wiki/Will_Mackenzie)
+
+### Major Wintermute Characters
+
 - [Atwood](https://thelongdark.fandom.com/wiki/Atwood)
-- [Convicts](https://thelongdark.fandom.com/wiki/Convicts)
-- [Cooper](https://thelongdark.fandom.com/wiki/Cooper)
-- [Crash Survivor](https://thelongdark.fandom.com/wiki/Crash_Survivor)
 - [Donner](https://thelongdark.fandom.com/wiki/Donner)
-- [Donner (mission)](https://thelongdark.fandom.com/wiki/Donner_(mission))
-- [Dr. Rüdiger](https://thelongdark.fandom.com/wiki/Dr._R%C3%BCdiger)
 - [Father Thomas](https://thelongdark.fandom.com/wiki/Father_Thomas)
-- [Forest Talkers](https://thelongdark.fandom.com/wiki/Forest_Talkers)
 - [Franklin](https://thelongdark.fandom.com/wiki/Franklin)
 - [Grey Mother](https://thelongdark.fandom.com/wiki/Grey_Mother)
-- [Heller](https://thelongdark.fandom.com/wiki/Heller)
 - [Hobbs](https://thelongdark.fandom.com/wiki/Hobbs)
 - [Jace](https://thelongdark.fandom.com/wiki/Jace)
 - [Jane Yang](https://thelongdark.fandom.com/wiki/Jane_Yang)
 - [Jeremiah](https://thelongdark.fandom.com/wiki/Jeremiah)
-- [Lilith Barker](https://thelongdark.fandom.com/wiki/Lilith_Barker)
-- [Lost Power Workers](https://thelongdark.fandom.com/wiki/Lost_Power_Workers)
-- [Martin Barker](https://thelongdark.fandom.com/wiki/Martin_Barker)
 - [Mathis](https://thelongdark.fandom.com/wiki/Mathis)
 - [Methuselah](https://thelongdark.fandom.com/wiki/Methuselah)
 - [Molly](https://thelongdark.fandom.com/wiki/Molly)
+
+### Supporting Wintermute Characters
+
+- [Cooper](https://thelongdark.fandom.com/wiki/Cooper)
+- [Heller](https://thelongdark.fandom.com/wiki/Heller)
+- [Terry](https://thelongdark.fandom.com/wiki/Terry)
+- [Vachon](https://thelongdark.fandom.com/wiki/Vachon)
+
+### Historical & Referenced Individuals
+
+- [Lilith Barker](https://thelongdark.fandom.com/wiki/Lilith_Barker)
+- [Martin Barker](https://thelongdark.fandom.com/wiki/Martin_Barker)
 - [Molly's Husband](https://thelongdark.fandom.com/wiki/Molly's_Husband)
+
+### Tales from the Far Territory Characters
+
+- [Dr. Rüdiger](https://thelongdark.fandom.com/wiki/Dr._R%C3%BCdiger)
 - [Patient 7](https://thelongdark.fandom.com/wiki/Patient_7)
 - [Project Medical Officer](https://thelongdark.fandom.com/wiki/Project_Medical_Officer)
-- [Terry](https://thelongdark.fandom.com/wiki/Terry)
 - [The Foreman](https://thelongdark.fandom.com/wiki/The_Foreman)
 - [The Security Chief](https://thelongdark.fandom.com/wiki/The_Security_Chief)
-- [The Wounded Trapper](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper)
-- [Vachon](https://thelongdark.fandom.com/wiki/Vachon)
-- [Will Mackenzie](https://thelongdark.fandom.com/wiki/Will_Mackenzie)
 
-### Episodes & Chapter Overviews
+### Groups & Factions
 
-- [Aftermath](https://thelongdark.fandom.com/wiki/Aftermath)
+- [Convicts](https://thelongdark.fandom.com/wiki/Convicts)
+- [Crash Survivor](https://thelongdark.fandom.com/wiki/Crash_Survivor)
+- [Forest Talkers](https://thelongdark.fandom.com/wiki/Forest_Talkers)
+
+### Episode Overviews
+
 - [Episode 1: Do Not Go Gentle](https://thelongdark.fandom.com/wiki/Episode_1%3A_Do_Not_Go_Gentle)
 - [Episode 2: Luminance Fugue](https://thelongdark.fandom.com/wiki/Episode_2%3A_Luminance_Fugue)
 - [Episode 3: Crossroads Elegy](https://thelongdark.fandom.com/wiki/Episode_3%3A_Crossroads_Elegy)
 - [Episode 4: Fury, Then Silence](https://thelongdark.fandom.com/wiki/Episode_4%3A_Fury%2C_Then_Silence)
 - [Episode 5: The Light At The End Of All Things](https://thelongdark.fandom.com/wiki/Episode_5%3A_The_Light_At_The_End_Of_All_Things)
-- [Prologue](https://thelongdark.fandom.com/wiki/Prologue)
 
-### Story Missions & Narratives
+### Wintermute — Episode 1: Main Missions
 
-- [Betrayal](https://thelongdark.fandom.com/wiki/Betrayal)
-- [Blackrock Blues](https://thelongdark.fandom.com/wiki/Blackrock_Blues)
-- [Breyerhouse](https://thelongdark.fandom.com/wiki/Breyerhouse)
-- [Coming Storm](https://thelongdark.fandom.com/wiki/Coming_Storm)
-- [Conflagration](https://thelongdark.fandom.com/wiki/Conflagration)
-- [Echoes Of Astrid](https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid)
-- [Fallen Star](https://thelongdark.fandom.com/wiki/Fallen_Star)
-- [First Flare](https://thelongdark.fandom.com/wiki/First_Flare)
-- [Forest Talkers (side mission)](https://thelongdark.fandom.com/wiki/Forest_Talkers_(side_mission))
-- [Forge Blueprints (mission)](https://thelongdark.fandom.com/wiki/Forge_Blueprints_(mission))
-- [High Energy](https://thelongdark.fandom.com/wiki/High_Energy)
-- [Jeremiah's Folly](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly)
-- [Light Up The Night](https://thelongdark.fandom.com/wiki/Light_Up_The_Night)
-- [Lost in the Storm](https://thelongdark.fandom.com/wiki/Lost_in_the_Storm)
-- [Molly's Gift](https://thelongdark.fandom.com/wiki/Molly's_Gift)
-- [On the Nature of Darkwalkers](https://thelongdark.fandom.com/wiki/On_the_Nature_of_Darkwalkers)
-- [One Last Thing](https://thelongdark.fandom.com/wiki/One_Last_Thing)
+- [Memories](https://thelongdark.fandom.com/wiki/Memories)
 - [Paradise Lost](https://thelongdark.fandom.com/wiki/Paradise_Lost)
-- [Perseverance](https://thelongdark.fandom.com/wiki/Perseverance)
+- [The Crash](https://thelongdark.fandom.com/wiki/The_Crash)
+- [The Grey Mother](https://thelongdark.fandom.com/wiki/The_Grey_Mother)
+
+### Wintermute — Episode 1: Side Missions
+
+- [One Last Thing](https://thelongdark.fandom.com/wiki/One_Last_Thing)
+
+### Wintermute — Episode 2: Main Missions
+
 - [Renewed Hope](https://thelongdark.fandom.com/wiki/Renewed_Hope)
 - [Signal to Noise](https://thelongdark.fandom.com/wiki/Signal_to_Noise)
+- [The Wounded Trapper](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper)
+- [What One Man Can Do](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do)
+
+### Wintermute — Episode 2: Side Missions
+
+- [Lake Gunshots](https://thelongdark.fandom.com/wiki/Lake_Gunshots)
 - [Survival School](https://thelongdark.fandom.com/wiki/Survival_School)
+
+### Wintermute — Episode 3: Main Missions
+
+- [Aftermath](https://thelongdark.fandom.com/wiki/Aftermath)
+- [Coming Storm](https://thelongdark.fandom.com/wiki/Coming_Storm)
+- [Fallen Star](https://thelongdark.fandom.com/wiki/Fallen_Star)
+- [Trauma](https://thelongdark.fandom.com/wiki/Trauma)
+
+### Wintermute — Episode 3: Side Missions
+
+- [Forest Talkers (side mission)](https://thelongdark.fandom.com/wiki/Forest_Talkers_(side_mission))
+- [Molly's Gift](https://thelongdark.fandom.com/wiki/Molly's_Gift)
 - [Tall Tales](https://thelongdark.fandom.com/wiki/Tall_Tales)
-- [The Cold, Broken Road](https://thelongdark.fandom.com/wiki/The_Cold%2C_Broken_Road)
-- [The Collapse](https://thelongdark.fandom.com/wiki/The_Collapse)
-- [The Crash](https://thelongdark.fandom.com/wiki/The_Crash)
+
+### Wintermute — Episode 4: Main Missions
+
+- [Blackrock Blues](https://thelongdark.fandom.com/wiki/Blackrock_Blues)
+- [Donner (mission)](https://thelongdark.fandom.com/wiki/Donner_(mission))
+- [Prologue](https://thelongdark.fandom.com/wiki/Prologue)
 - [The Detonators](https://thelongdark.fandom.com/wiki/The_Detonators)
-- [The Grey Mother](https://thelongdark.fandom.com/wiki/The_Grey_Mother)
+
+### Wintermute — Episode 4: Side Missions
+
+- [A Riddle Among the Shadows](https://thelongdark.fandom.com/wiki/A_Riddle_Among_the_Shadows)
+- [Lost Power Workers](https://thelongdark.fandom.com/wiki/Lost_Power_Workers)
+
+### Wintermute — Episode 5: Main Missions
+
+- [A Cry For Help](https://thelongdark.fandom.com/wiki/A_Cry_For_Help)
+- [Conflagration](https://thelongdark.fandom.com/wiki/Conflagration)
+- [High Energy](https://thelongdark.fandom.com/wiki/High_Energy)
+- [Perseverance](https://thelongdark.fandom.com/wiki/Perseverance)
+- [The Cold, Broken Road](https://thelongdark.fandom.com/wiki/The_Cold%2C_Broken_Road)
 - [To SAR And Back](https://thelongdark.fandom.com/wiki/To_SAR_And_Back)
 - [To Those Who Are Missing](https://thelongdark.fandom.com/wiki/To_Those_Who_Are_Missing)
-- [Trauma](https://thelongdark.fandom.com/wiki/Trauma)
-- [What I Know](https://thelongdark.fandom.com/wiki/What_I_Know)
-- [What One Man Can Do](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do)
+
+### Predux — Episode 1 Missions
+
+- [Echoes Of Astrid](https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid)
+- [Light Up The Night](https://thelongdark.fandom.com/wiki/Light_Up_The_Night)
+
+### Predux — Episode 2 Missions
+
+- [Forge Blueprints (mission)](https://thelongdark.fandom.com/wiki/Forge_Blueprints_(mission))
+- [Jeremiah's Folly](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly)
 - [You Fix My Rifle?](https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F)
+
+### World History & Lore
+
+- [Breyerhouse](https://thelongdark.fandom.com/wiki/Breyerhouse)
+- [First Flare](https://thelongdark.fandom.com/wiki/First_Flare)
+- [The Collapse](https://thelongdark.fandom.com/wiki/The_Collapse)
 
 ### Story Transcripts & Interviews
 

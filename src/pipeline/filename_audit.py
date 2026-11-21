@@ -8,10 +8,12 @@ from __future__ import annotations
 
 import unicodedata
 from collections import Counter, defaultdict
-from pathlib import Path
-from typing import TypedDict
+from typing import TYPE_CHECKING, TypedDict
 
 import defusedxml.ElementTree as ET
+
+if TYPE_CHECKING:
+    from pathlib import Path
 
 MAX_FILENAME_BYTES = 255
 MARKDOWN_SUFFIX = ".md"
@@ -72,9 +74,7 @@ def extract_page_titles(
         if event != "end" or element.tag.rsplit("}", 1)[-1] != "page":
             continue
 
-        fields = {
-            child.tag.rsplit("}", 1)[-1]: child for child in element
-        }
+        fields = {child.tag.rsplit("}", 1)[-1]: child for child in element}
         title_element = fields.get("title")
         namespace_element = fields.get("ns")
         redirect_element = fields.get("redirect")
@@ -98,6 +98,103 @@ def extract_page_titles(
     return titles, redirects_seen
 
 
+def _append_issue(
+    issues: list[FilenameIssue],
+    kind: str,
+    affected: list[FilenameMapping],
+    detail: str,
+) -> None:
+    """Append one normalized filename audit issue."""
+    issues.append(
+        {
+            "kind": kind,
+            "titles": sorted(item["title"] for item in affected),
+            "filenames": sorted({item["filename"] for item in affected}),
+            "detail": detail,
+        }
+    )
+
+
+def _check_filename_limits(
+    mappings: list[FilenameMapping], issues: list[FilenameIssue]
+) -> None:
+    """Check filename byte lengths and control characters."""
+    for mapping in mappings:
+        filename = mapping["filename"]
+        encoded_length = len(filename.encode("utf-8"))
+        if encoded_length > MAX_FILENAME_BYTES:
+            _append_issue(
+                issues,
+                "filename_too_long",
+                [mapping],
+                f"Filename is {encoded_length} UTF-8 bytes; "
+                f"the portability limit is {MAX_FILENAME_BYTES} bytes.",
+            )
+
+        controls = [
+            f"U+{ord(char):04X}"
+            for char in filename
+            if unicodedata.category(char) == "Cc"
+        ]
+        if controls:
+            _append_issue(
+                issues,
+                "control_character",
+                [mapping],
+                "Filename contains control character(s): "
+                + ", ".join(sorted(set(controls))),
+            )
+
+
+def _check_filename_collisions(
+    mappings: list[FilenameMapping], issues: list[FilenameIssue]
+) -> None:
+    """Find exact and case-insensitive filename collisions."""
+    exact_groups: dict[str, list[FilenameMapping]] = defaultdict(list)
+    folded_groups: dict[str, list[FilenameMapping]] = defaultdict(list)
+    for mapping in mappings:
+        filename = mapping["filename"]
+        exact_groups[filename].append(mapping)
+        folded_groups[filename.casefold()].append(mapping)
+
+    for group in exact_groups.values():
+        if len(group) > 1:
+            _append_issue(
+                issues,
+                "filename_collision",
+                group,
+                "Different wiki titles produce the same filename after "
+                "slash/colon replacement and Unicode NFC normalization.",
+            )
+
+    for group in folded_groups.values():
+        distinct_filenames = {item["filename"] for item in group}
+        if len(distinct_filenames) > 1:
+            _append_issue(
+                issues,
+                "case_insensitive_collision",
+                group,
+                "These filenames differ by case only and can collide on "
+                "the default case-insensitive macOS APFS configuration.",
+            )
+
+
+def _check_duplicate_source_titles(
+    mappings: list[FilenameMapping],
+    duplicate_titles: list[str],
+    issues: list[FilenameIssue],
+) -> None:
+    """Report duplicate non-redirect article titles in the source dump."""
+    mappings_by_title = {item["title"]: item for item in mappings}
+    for title in duplicate_titles:
+        _append_issue(
+            issues,
+            "duplicate_source_title",
+            [mappings_by_title[title]],
+            "The same non-redirect page title appears more than once in the dump.",
+        )
+
+
 def audit_titles(
     titles: list[str], *, redirects_seen: int = 0, include_redirects: bool = False
 ) -> FilenameAuditReport:
@@ -113,75 +210,9 @@ def audit_titles(
     ]
     issues: list[FilenameIssue] = []
 
-    def add_issue(
-        kind: str, affected: list[FilenameMapping], detail: str
-    ) -> None:
-        issues.append(
-            {
-                "kind": kind,
-                "titles": sorted(item["title"] for item in affected),
-                "filenames": sorted({item["filename"] for item in affected}),
-                "detail": detail,
-            }
-        )
-
-    for mapping in mappings:
-        filename = mapping["filename"]
-        encoded_length = len(filename.encode("utf-8"))
-        if encoded_length > MAX_FILENAME_BYTES:
-            add_issue(
-                "filename_too_long",
-                [mapping],
-                f"Filename is {encoded_length} UTF-8 bytes; "
-                f"the portability limit is {MAX_FILENAME_BYTES} bytes.",
-            )
-
-        controls = [
-            f"U+{ord(char):04X}"
-            for char in filename
-            if unicodedata.category(char) == "Cc"
-        ]
-        if controls:
-            add_issue(
-                "control_character",
-                [mapping],
-                "Filename contains control character(s): "
-                + ", ".join(sorted(set(controls))),
-            )
-
-    exact_groups: dict[str, list[FilenameMapping]] = defaultdict(list)
-    folded_groups: dict[str, list[FilenameMapping]] = defaultdict(list)
-    for mapping in mappings:
-        filename = mapping["filename"]
-        exact_groups[filename].append(mapping)
-        folded_groups[filename.casefold()].append(mapping)
-
-    for filename, group in sorted(exact_groups.items()):
-        if len(group) > 1:
-            add_issue(
-                "filename_collision",
-                group,
-                "Different wiki titles produce the same filename after "
-                "slash/colon replacement and Unicode NFC normalization.",
-            )
-
-    for _, group in sorted(folded_groups.items()):
-        distinct_filenames = {item["filename"] for item in group}
-        if len(distinct_filenames) > 1:
-            add_issue(
-                "case_insensitive_collision",
-                group,
-                "These filenames differ by case only and can collide on "
-                "the default case-insensitive macOS APFS configuration.",
-            )
-
-    for title in duplicate_titles:
-        duplicate_mapping = next(item for item in mappings if item["title"] == title)
-        add_issue(
-            "duplicate_source_title",
-            [duplicate_mapping],
-            "The same non-redirect page title appears more than once in the dump.",
-        )
+    _check_filename_limits(mappings, issues)
+    _check_filename_collisions(mappings, issues)
+    _check_duplicate_source_titles(mappings, duplicate_titles, issues)
 
     return {
         "article_pages": len(titles),

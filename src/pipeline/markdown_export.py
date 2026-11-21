@@ -592,14 +592,18 @@ def _repair_unclosed_mediawiki_tables(text: str) -> tuple[str, int]:
 
 
 def _build_image_index(image_dir: Path | None) -> dict[str, Path]:
-    """Index image assets by normalized basename."""
-    if image_dir is None or not image_dir.is_dir():
+    """Index primary images and their mismatch-folder fallbacks by basename."""
+    if image_dir is None:
         return {}
 
     index: dict[str, Path] = {}
-    for path in sorted(image_dir.rglob("*")):
-        if path.is_file() and not path.name.endswith(".desc"):
-            index.setdefault(normalize_image_name(path.name), path)
+    image_dirs = (image_dir, image_dir.with_name(f"{image_dir.name}_mismatch"))
+    for directory in image_dirs:
+        if not directory.is_dir():
+            continue
+        for path in sorted(directory.rglob("*")):
+            if path.is_file() and not path.name.endswith(".desc"):
+                index.setdefault(normalize_image_name(path.name), path)
     return index
 
 
@@ -622,7 +626,10 @@ def _copy_image(
     key = unicodedata.normalize("NFC", output_name).casefold()
     previous = used_names.get(key)
     if previous is not None and previous != source:
-        relative_source = str(source.relative_to(image_dir))
+        try:
+            relative_source = str(source.relative_to(image_dir))
+        except ValueError:
+            relative_source = str(Path(source.parent.name, source.name))
         digest = hashlib.sha256(relative_source.encode()).hexdigest()[:8]
         output_name = _portable_asset_name(f"{source.stem}-{digest}{source.suffix}")
         key = unicodedata.normalize("NFC", output_name).casefold()
@@ -1377,7 +1384,7 @@ def _render_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
             is_section = "section" in (cell.get("class") or "").split() or (
                 int(cell.get("colspan", "1")) > 1
                 and not is_image_row
-                and bool(cell.find(".//strong"))
+                and cell.find(".//strong") is not None
             )
             if is_section:
                 body.append([f"**{value.strip('* ')}**", ""])

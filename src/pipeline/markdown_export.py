@@ -567,7 +567,7 @@ def _restore_generated_tables(root: lhtml.HtmlElement) -> None:
             continue
         table.set("class", table_class)
         caption.text = caption_text
-        if not caption.text.strip() and len(caption) == 0:
+        if not (caption.text or "").strip() and len(caption) == 0:
             table.remove(caption)
         if table_class == "infobox":
             _restore_infobox_headers(table)

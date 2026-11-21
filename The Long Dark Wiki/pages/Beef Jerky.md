@@ -1,17 +1,12 @@
----
-title: "Beef Jerky"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Beef_Jerky"
----
-
 # Beef Jerky
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Beef_Jerky)
 
 **Beef Jerky**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Beef_Jerky_icon.png) / *Beef\_Jerky\_icon.png* |
+|  | ![](../assets/Beef_Jerky_icon.png) / _Beef\_Jerky\_icon.png_ |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
@@ -26,7 +21,7 @@ source: "https://thelongdark.fandom.com/wiki/Beef_Jerky"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_BeefJerky |
 
-**Beef Jerky** is a packaged [food](./Food%20And%20Drink.md) item in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Beef Jerky** is a packaged [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 Beef Jerky features a high energy density, making it a valuable food item. Additionally, Beef Jerky can never cause [Food Poisoning](./Food%20Poisoning.md), and [decay](./Decay.md) extremely slowly especially outdoors (100 days per 1% Condition).
 
@@ -37,13 +32,11 @@ Beef Jerky features a high energy density, making it a valuable food item. Addit
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model](../assets/Beef_Jerky.png) / *Old model* |
+![Old model](../assets/Beef_Jerky.png)
+
+_Old model_
 
 ## Update history
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Вяленая\_говядина](ru:%D0%92%D1%8F%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D0%B0) [fr:Bœuf séché](fr:B%C5%93uf_s%C3%A9ch%C3%A9) [es:Cecina de ternera](es:Cecina_de_ternera)

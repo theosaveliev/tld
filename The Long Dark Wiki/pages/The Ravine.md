@@ -1,11 +1,6 @@
----
-title: "The Ravine"
-wiki_namespace: 0
-categories: ["Transition zones"]
-source: "https://thelongdark.fandom.com/wiki/The_Ravine"
----
-
 # The Ravine
+
+**Categories:** Transition zones · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Ravine)
 
 **Contents**
 
@@ -22,17 +17,17 @@ source: "https://thelongdark.fandom.com/wiki/The_Ravine"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/RegionAtlas-resources.assets-562_%281%29.png) / *RegionAtlas-resources.assets-562\_(1).png* |
+|  | ![](../assets/RegionAtlas-resources.assets-562_%281%29.png) / _RegionAtlas-resources.assets-562\_(1).png_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/The_Ravine_Location.png) / *The\_Ravine\_Location.png* |
-|  | ![](../assets/The_Ravine_map.png) / *The\_Ravine\_map.png* |
+|  | ![](../assets/The_Ravine_Location.png) / _The\_Ravine\_Location.png_ |
+|  | ![](../assets/The_Ravine_map.png) / _The\_Ravine\_map.png_ |
 | **Details** |  |
 | Description | A small valley containing a railway trestle passing through the mountains. |
 | Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Coastal Highway](./Coastal%20Highway.md), [Bleak Inlet](./Bleak%20Inlet.md) |
 | Difficulty | Beginner |
 | Locations | 5 |
 
-**The Ravine**, also known as **The Raven Falls Railway Line** or **Raven Falls,** is a Transition Zone [Region](./Region.md) connecting [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Coastal Highway](./Coastal%20Highway.md), and [Bleak Inlet](./Bleak%20Inlet.md). It was the 1st Transition Zone released in *[The Long Dark](./The%20Long%20Dark.md)*.
+**The Ravine**, also known as **The Raven Falls Railway Line** or **Raven Falls,** is a Transition Zone [Region](./Region.md) connecting [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Coastal Highway](./Coastal%20Highway.md), and [Bleak Inlet](./Bleak%20Inlet.md). It was the 1st Transition Zone released in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -83,17 +78,42 @@ At the Ravine Basin inside a rail-car is a [distress pistol case](./Distress%20P
 
 ## Maps
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![A detailed map of Ravine v2.35](../assets/Ravine_map.png) / *A detailed map of Ravine v2.35* | ![A detailed map of Ravine v2.35 (Interloper/Misery edition, contains spoilers)](../assets/Ravine_map_loper.png) / *A detailed map of Ravine v2.35 (Interloper/Misery edition, contains spoilers)* |
+![A detailed map of Ravine v2.35](../assets/Ravine_map.png)
+
+_A detailed map of Ravine v2.35_
+
+![A detailed map of Ravine v2.35 (Interloper/Misery edition, contains spoilers)](../assets/Ravine_map_loper.png)
+
+_A detailed map of Ravine v2.35 (Interloper/Misery edition, contains spoilers)_
 
 ## Outdated Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Map of Ravine v1.83](../assets/Map-RV-spoil-Fixv167.png) / *Map of Ravine v1.83* | ![Several rail carriages derailed from their tracks.](../assets/The_Ravine_-_rail_carriages.jpg) / *Several rail carriages derailed from their tracks.* | ![A fallen tree trunk serves as a makeshift bridge.](../assets/The_Ravine_-_crossing.jpg) / *A fallen tree trunk serves as a makeshift bridge.* | ![Several rail carriages and their cargo lost at the bottom of the ravine. old version](../assets/The_Ravine_-_fallen_rail_carriages.jpg) / *Several rail carriages and their cargo lost at the bottom of the ravine. old version* |
-| ![A short train bridge runs over the ravine.](../assets/The_Ravine_-_train_bridge.jpg) / *A short train bridge runs over the ravine.* | ![The long, rickety train bridge in dire need of maintenance.](../assets/The_Ravine_-_long_train_bridge.jpg) / *The long, rickety train bridge in dire need of maintenance.* | ![Train tunnel at The Ravine.](../assets/The_Ravine_-_tunnel.jpg) / *Train tunnel at The Ravine.* |  |
+![Map of Ravine v1.83](../assets/Map-RV-spoil-Fixv167.png)
 
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**
+_Map of Ravine v1.83_
+
+![Several rail carriages derailed from their tracks.](../assets/The_Ravine_-_rail_carriages.jpg)
+
+_Several rail carriages derailed from their tracks._
+
+![A fallen tree trunk serves as a makeshift bridge.](../assets/The_Ravine_-_crossing.jpg)
+
+_A fallen tree trunk serves as a makeshift bridge._
+
+![Several rail carriages and their cargo lost at the bottom of the ravine. old version](../assets/The_Ravine_-_fallen_rail_carriages.jpg)
+
+_Several rail carriages and their cargo lost at the bottom of the ravine. old version_
+
+![A short train bridge runs over the ravine.](../assets/The_Ravine_-_train_bridge.jpg)
+
+_A short train bridge runs over the ravine._
+
+![The long, rickety train bridge in dire need of maintenance.](../assets/The_Ravine_-_long_train_bridge.jpg)
+
+_The long, rickety train bridge in dire need of maintenance._
+
+![Train tunnel at The Ravine.](../assets/The_Ravine_-_tunnel.jpg)
+
+_Train tunnel at The Ravine._
 
 [es:Desfiladero](es:Desfiladero) [fr:Ravin](fr:Ravin) [ru:Железнодорожная ветка "Водопады ворона"](ru:%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%BA%D0%B0_"%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B0") © Please note that all contributions to the The Long Dark Wiki are considered to be released under the CC-BY-SA Unwatch My Tools Customize Admin Reported Shortcuts

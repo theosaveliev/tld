@@ -1,17 +1,12 @@
----
-title: "Leather Shoes"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Leather_Shoes"
----
-
 # Leather Shoes
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Leather_Shoes)
 
 **Leather Shoes**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Leather_Shoes_icon.png) / *Leather\_Shoes\_icon.png* |
+|  | ![](../assets/Leather_Shoes_icon.png) / _Leather\_Shoes\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
@@ -26,23 +21,25 @@ source: "https://thelongdark.fandom.com/wiki/Leather_Shoes"
 | Harvest | 2 × [Cured leather](./Cured%20Leather.md) / 75 minutes |
 | Repair | 1 × [Cured leather](./Cured%20Leather.md), 1 × [Cloth](./Cloth.md) / 90 minutes / 20% condition |
 
-> “**Simple leather shoes that look good on Bay Street but will probably get you killed out here. Hope you have some warm socks!**”
+> “__Simple leather shoes that look good on Bay Street but will probably get you killed out here. Hope you have some warm socks!__”
 >
 > — In-game description
 
-**Leather Shoes** are a type of [footwear](./Clothing.md) in *The Long Dark*.
+**Leather Shoes** are a type of [footwear](./Clothing.md) in _The Long Dark_.
 
 ## Overview
 
 Low tier shoes and a common starting item. They offer more protection and waterproofing than [Running Shoes](./Running%20Shoes.md), but also have a 3% movement penalty. typically not worth repairing, but harvesting them yields 2 [Leather](./Cured%20Leather.md).
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Leather_Shoes_Model_icon.png) / *Clothing model icon* | ![Clothing model icon](../assets/Leather_Shoes_Model_Damaged_icon.png) / *Clothing model icon* |
+![Clothing model icon](../assets/Leather_Shoes_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon](../assets/Leather_Shoes_Model_Damaged_icon.png)
+
+_Clothing model icon_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Кожаные\_туфли](ru:%D0%9A%D0%BE%D0%B6%D0%B0%D0%BD%D1%8B%D0%B5_%D1%82%D1%83%D1%84%D0%BB%D0%B8)

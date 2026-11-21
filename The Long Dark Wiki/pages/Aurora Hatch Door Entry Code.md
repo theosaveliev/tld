@@ -1,17 +1,12 @@
----
-title: "Aurora Hatch Door Entry Code"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Aurora_Hatch_Door_Entry_Code"
----
-
 # Aurora Hatch Door Entry Code
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Aurora_Hatch_Door_Entry_Code)
 
 **Aurora Hatch Door Entry Code**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Aurora_Hatch_Door_Entry_Code_icon.png) / *Aurora\_Hatch\_Door\_Entry\_Code\_icon.png* |
+|  | ![](../assets/Aurora_Hatch_Door_Entry_Code_icon.png) / _Aurora\_Hatch\_Door\_Entry\_Code\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Aurora Hatch](./Aurora%20Hatch.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Aurora_Hatch_Door_Entry_Code"
 
 ## Transcript
 
-*The following text is transcribed from **Aurora Hatch Door Entry Code***
+_The following text is transcribed from **Aurora Hatch Door Entry Code**_
 
 **Deb,
 
@@ -46,5 +41,3 @@ Remember that, and this number -- 0794. That will let you in.
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

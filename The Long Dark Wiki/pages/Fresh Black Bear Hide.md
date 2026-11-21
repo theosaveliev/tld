@@ -1,11 +1,6 @@
----
-title: "Fresh Black Bear Hide"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Fresh_Black_Bear_Hide"
----
-
 # Fresh Black Bear Hide
+
+**Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fresh_Black_Bear_Hide)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Fresh_Black_Bear_Hide"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fresh_Black_Bear_Hide_icon.png) / *Fresh\_Black\_Bear\_Hide\_icon.png* |
+|  | ![](../assets/Fresh_Black_Bear_Hide_icon.png) / _Fresh\_Black\_Bear\_Hide\_icon.png_ |
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192) |
 | Wintermute | No |
 | **Properties** |  |
@@ -48,15 +43,13 @@ One Cured Black Bear Hide can be found in a [Memento Cache](./Mementos.md) insid
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Fresh_Black_Bear_Hide.png) / *Old model.* |
+![Old model.](../assets/Fresh_Black_Bear_Hide.png)
+
+_Old model._
 
 ## Update history
 
 - UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Свежая шкура черного медведя](ru:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B0%D1%8F_%D1%88%D0%BA%D1%83%D1%80%D0%B0_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8F)

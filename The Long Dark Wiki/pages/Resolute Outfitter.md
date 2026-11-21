@@ -1,20 +1,15 @@
----
-title: "Resolute Outfitter"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Resolute_Outfitter"
----
-
 # Resolute Outfitter
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Resolute_Outfitter)
 
 **Resolute Outfitter**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Resolute_Outfitter_icon.png) / *Resolute\_Outfitter\_icon.png* |
+|  | ![](../assets/Resolute_Outfitter_icon.png) / _Resolute\_Outfitter\_icon.png_ |
 | Description | Fill all clothing slots with 100% condition gear. |
 
-**Resolute Outfitter** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Resolute Outfitter** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -25,5 +20,3 @@ This achievement is obtained after filling every [Clothing](./Clothing.md) slot 
 This achievement was introduced on 1 April 2015 in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212).
 
 ## Trivia
-
-This achievement's name is a reference to the V0.386 update Resolute Outfitter.**Lua execution error in Module:Navbox function navbox**

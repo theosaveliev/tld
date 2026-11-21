@@ -1,17 +1,12 @@
----
-title: "Forest Talker Letter"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Letter"
----
-
 # Forest Talker Letter
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Talker_Letter)
 
 **Forest Talker Letter**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Forest_Talker_Letter_icon.png) / *Forest\_Talker\_Letter\_icon.png* |
+|  | ![](../assets/Forest_Talker_Letter_icon.png) / _Forest\_Talker\_Letter\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md) |
 | **Properties** |  |
@@ -28,9 +23,9 @@ source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Letter"
 
 ## Transcript
 
-*The first is found on the barrel with the [Elevator Crank](./Elevator%20Crank.md). The letter reads:*
+_The first is found on the barrel with the [Elevator Crank](./Elevator%20Crank.md). The letter reads:_
 
-*The following text is transcribed from **Forest Talker Letter***
+_The following text is transcribed from **Forest Talker Letter**_
 
 **We finally reached the mine and found the supply cache. If that last transmission was right, this could be what I've been looking for all along.
 
@@ -38,9 +33,9 @@ We know that 18 was the last number in the padlock combination, now I just have 
 
 There's a creeping darkness in here. I hate it. But I have to go deeper.**
 
-*The second letter is found on a corpse holding the [Mine Gate Key](./Mine%20Gate%20Key.md). The letter reads:*
+_The second letter is found on a corpse holding the [Mine Gate Key](./Mine%20Gate%20Key.md). The letter reads:_
 
-*The following text is transcribed from **Forest Talker Letter***
+_The following text is transcribed from **Forest Talker Letter**_
 
 **The gas, my god.
 
@@ -48,9 +43,9 @@ There's some kind (Sic) light system rigged up to deliver one of the numbers for
 
 I have to find a way to reach the right spot on the second floor so I can see it and decipher the number from the flashing light. The others went on without me. Just need to rest here a while.**
 
-*The third letter is found on a corpse below the [Detonators](./Detonators.md). The letter is soaked in blood and reads:*
+_The third letter is found on a corpse below the [Detonators](./Detonators.md). The letter is soaked in blood and reads:_
 
-*The following text is transcribed from **Forest Talker Letter***
+_The following text is transcribed from **Forest Talker Letter**_
 
 **High explosives. Toxic gas. Bottomless pits.
 
@@ -58,9 +53,9 @@ A fool's errand, but we did decipher the final part of the padlock combination -
 
 Now to get the hell out of here.**
 
-*Once all 3 notes are found, the examine text for the **Forest Talker Letter** note reads:*
+_Once all 3 notes are found, the examine text for the **Forest Talker Letter** note reads:_
 
-*The following text is transcribed from **Forest Talker Letter***
+_The following text is transcribed from **Forest Talker Letter**_
 
 **Notes on a dark riddle:
 
@@ -74,5 +69,3 @@ Now to get the hell out of here.**
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

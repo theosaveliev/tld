@@ -1,11 +1,6 @@
----
-title: "Fishing Tip-Up"
-wiki_namespace: 0
-categories: ["Ice Fishing", "Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Fishing_Tip-Up"
----
-
 # Fishing Tip\-Up
+
+**Categories:** Ice Fishing, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fishing_Tip-Up)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Fishing_Tip-Up"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fishing_Tip-Up_icon.png) / *Fishing\_Tip-Up\_icon.png* |
+|  | ![](../assets/Fishing_Tip-Up_icon.png) / _Fishing\_Tip-Up\_icon.png_ |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
 | Wintermute | No |
 | **Properties** |  |
@@ -122,16 +117,29 @@ Tip-Ups can be crafted at a [Workbench](./Work%20Bench.md), requiring no extra t
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A Tip-Up with a caught fish](../assets/Fishing_Tip-Up_Triggered.png) / *A Tip-Up with a caught fish* | ![A Deployed Tip-Up](../assets/Fishing_Tip-Up_Deployed.png) / *A Deployed Tip-Up* | ![Tip-Up inspect description](../assets/Fishing_Tip-Up_Inspect.png) / *Tip-Up inspect description* | ![Tip-Up ground model](../assets/Fishing_Tip-Up_Ground_Model.png) / *Tip-Up ground model* |
-| ![Max 4 holes reachable from snow shelter entrance with the following setup. Example located in the Milton Basin across the shore from hermits cabin.](../assets/Fishing_Tip-Up_Snow_Shelter.png) / *Max 4 holes reachable from snow shelter entrance with the following setup. Example located in the [Milton Basin](./Milton%20Basin.md) across the shore from [hermits cabin](./Hermit%27s%20Cabin.md).* |  |  |  |
+![A Tip-Up with a caught fish](../assets/Fishing_Tip-Up_Triggered.png)
+
+_A Tip-Up with a caught fish_
+
+![A Deployed Tip-Up](../assets/Fishing_Tip-Up_Deployed.png)
+
+_A Deployed Tip-Up_
+
+![Tip-Up inspect description](../assets/Fishing_Tip-Up_Inspect.png)
+
+_Tip-Up inspect description_
+
+![Tip-Up ground model](../assets/Fishing_Tip-Up_Ground_Model.png)
+
+_Tip-Up ground model_
+
+![Max 4 holes reachable from snow shelter entrance with the following setup. Example located in the Milton Basin across the shore from hermits cabin.](../assets/Fishing_Tip-Up_Snow_Shelter.png)
+
+_Max 4 holes reachable from snow shelter entrance with the following setup. Example located in the [Milton Basin](./Milton%20Basin.md) across the shore from [hermits cabin](./Hermit%27s%20Cabin.md)._
 
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Жерлица](ru:%D0%96%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D0%B0)

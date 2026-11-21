@@ -1,11 +1,6 @@
----
-title: "Episode 2: Luminance Fugue"
-wiki_namespace: 0
-categories: ["Episode 2", "Episodes"]
-source: "https://thelongdark.fandom.com/wiki/Episode_2%3A_Luminance_Fugue"
----
-
 # Episode 2: Luminance Fugue
+
+**Categories:** Episode 2, Episodes · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Episode_2%3A_Luminance_Fugue)
 
 **Contents**
 
@@ -39,11 +34,11 @@ source: "https://thelongdark.fandom.com/wiki/Episode_2%3A_Luminance_Fugue"
 
 ![](../assets/Episode_2.png)**Template:spoiler**
 
-> “**Mackenzie's search for Astrid takes him deeper into the savage wilderness. A mysterious trapper may be the key to finding Astrid. But can he be trusted?**”
+> “__Mackenzie's search for Astrid takes him deeper into the savage wilderness. A mysterious trapper may be the key to finding Astrid. But can he be trusted?__”
 
 ## Overview
 
-***Luminance Fugue*** is the second episode in the [story](./Wintermute.md) of [The Long Dark](./The%20Long%20Dark.md). It is preceded by [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and is followed by [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
+**_Luminance Fugue_** is the second episode in the [story](./Wintermute.md) of [The Long Dark](./The%20Long%20Dark.md). It is preceded by [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and is followed by [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
 ## Main missions
 
@@ -51,11 +46,11 @@ source: "https://thelongdark.fandom.com/wiki/Episode_2%3A_Luminance_Fugue"
 
 ![](../assets/Missions_story_ep2_The_Wounded_Trapper.png)
 
-*Missions\_story\_ep2\_The\_Wounded\_Trapper.png*
+_Missions\_story\_ep2\_The\_Wounded\_Trapper.png_
 
-*Main article: [The Wounded Trapper](./The%20Wounded%20Trapper.md)*
+_Main article: [The Wounded Trapper](./The%20Wounded%20Trapper.md)_
 
-"*Mackenzie rescues an Old Trapper, whose knowledge of Great Bear Island, as well his shortwave radio, might be the key to finding Astrid.*"
+"_Mackenzie rescues an Old Trapper, whose knowledge of Great Bear Island, as well his shortwave radio, might be the key to finding Astrid._"
 
 — In-game description
 
@@ -63,11 +58,11 @@ source: "https://thelongdark.fandom.com/wiki/Episode_2%3A_Luminance_Fugue"
 
 ![](../assets/Missions_story_ep2_The_Best_Defense.png)
 
-*Missions\_story\_ep2\_The\_Best\_Defense.png*
+_Missions\_story\_ep2\_The\_Best\_Defense.png_
 
-*Main article: [The Best Defense](./The%20Best%20Defense.md)*
+_Main article: [The Best Defense](./The%20Best%20Defense.md)_
 
-"*A man-killing bear is on the prowl, risking Mackenzie's mission to find Astrid. But an old Voyageur legend might hold the answer to overcoming the massive predator.*"
+"_A man-killing bear is on the prowl, risking Mackenzie's mission to find Astrid. But an old Voyageur legend might hold the answer to overcoming the massive predator._"
 
 — In-game description
 
@@ -75,11 +70,11 @@ source: "https://thelongdark.fandom.com/wiki/Episode_2%3A_Luminance_Fugue"
 
 ![](../assets/Missions_story_ep2_Signal_to_Noise.png)
 
-*Missions\_story\_ep2\_Signal\_to\_Noise.png*
+_Missions\_story\_ep2\_Signal\_to\_Noise.png_
 
-*Main article: [Signal to Noise](./Signal%20to%20Noise.md)*
+_Main article: [Signal to Noise](./Signal%20to%20Noise.md)_
 
-"*Jeremiah has a plan for how Mackenzie can reach Perseverance Mills, but carrying it out may put the pilot on a collision course with the Old Bear.*"
+"_Jeremiah has a plan for how Mackenzie can reach Perseverance Mills, but carrying it out may put the pilot on a collision course with the Old Bear._"
 
 — In-game description
 
@@ -87,11 +82,11 @@ source: "https://thelongdark.fandom.com/wiki/Episode_2%3A_Luminance_Fugue"
 
 ![](../assets/Missions_story_ep2_What_One_Man_Can_Do.png)
 
-*Missions\_story\_ep2\_What\_One\_Man\_Can\_Do.png*
+_Missions\_story\_ep2\_What\_One\_Man\_Can\_Do.png_
 
-*Main article: [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)*
+_Main article: [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)_
 
-"*The Old Bear has dragged Mackenzie to its lair. Will he put the legendary bear's story to an end?*"
+"_The Old Bear has dragged Mackenzie to its lair. Will he put the legendary bear's story to an end?_"
 
 — In-game description
 
@@ -99,11 +94,11 @@ source: "https://thelongdark.fandom.com/wiki/Episode_2%3A_Luminance_Fugue"
 
 ![](../assets/Missions_story_ep2_Renewed_Hope.png)
 
-*Missions\_story\_ep2\_Renewed\_Hope.png*
+_Missions\_story\_ep2\_Renewed\_Hope.png_
 
-*Main article: [Renewed Hope](./Renewed%20Hope.md)*
+_Main article: [Renewed Hope](./Renewed%20Hope.md)_
 
-"*With the Old Bear no longer a risk, Jeremiah plots a course leading Mackenzie out of Mystery Lake with the means to contact Perseverance Mills, and one step closer to finding Astrid.*"
+"_With the Old Bear no longer a risk, Jeremiah plots a course leading Mackenzie out of Mystery Lake with the means to contact Perseverance Mills, and one step closer to finding Astrid._"
 
 — In-game description
 
@@ -113,51 +108,51 @@ source: "https://thelongdark.fandom.com/wiki/Episode_2%3A_Luminance_Fugue"
 
 ![](../assets/Missions_story_ep2_Side.png)
 
-*Missions\_story\_ep2\_Side.png*
+_Missions\_story\_ep2\_Side.png_
 
-*Main article: [Forest Talker Supply Caches](./Forest%20Talker%20Supply%20Caches.md)*
+_Main article: [Forest Talker Supply Caches](./Forest%20Talker%20Supply%20Caches.md)_
 
-"*The Forest Talkers, an eco-activist group, have left supply caches hidden in different regions around Great Bear Island. They could prove useful if found.*"
+"_The Forest Talkers, an eco-activist group, have left supply caches hidden in different regions around Great Bear Island. They could prove useful if found._"
 
 — In-game description
 
 ### Mystery Lake Supply Caches
 
-*Main article: [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md)*
+_Main article: [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md)_
 
-"*There are several supply caches hidden around Mystery Lake. Most are left by hunters or campers. Some are left by off-grid "preppers" waiting for the government to fall, or the end of the world, or some such nonsense.*"
+"_There are several supply caches hidden around Mystery Lake. Most are left by hunters or campers. Some are left by off-grid "preppers" waiting for the government to fall, or the end of the world, or some such nonsense._"
 
 — In-game description
 
 ### Aurora Hatch
 
-*Main article: [Aurora Hatch](./Aurora%20Hatch.md)*
+_Main article: [Aurora Hatch](./Aurora%20Hatch.md)_
 
-"*There's a hidden bunker in Forlorn Muskeg that can only be opened when the aurora is active.*"
+"_There's a hidden bunker in Forlorn Muskeg that can only be opened when the aurora is active._"
 
 — In-game description
 
 ### Hank's Hatch
 
-*Main article: [Hank's Hatch](./Hank%27s%20Hatch.md)*
+_Main article: [Hank's Hatch](./Hank%27s%20Hatch.md)_
 
-"*Hank, a long-time prepper and denizen of Great Bear Island, has a secret supply cache. Find it and take what you need.*"
+"_Hank, a long-time prepper and denizen of Great Bear Island, has a secret supply cache. Find it and take what you need._"
 
 — In-game description
 
 ### Lake Gunshots
 
-*Main article: [Lake Gunshots](./Lake%20Gunshots.md)*
+_Main article: [Lake Gunshots](./Lake%20Gunshots.md)_
 
-"*You found a note with some details on possible Forest Talker activity around Mystery Lake.*"
+"_You found a note with some details on possible Forest Talker activity around Mystery Lake._"
 
 — In-game description
 
 ### Survival School
 
-*Main article: [Survival School](./Survival%20School.md)*
+_Main article: [Survival School](./Survival%20School.md)_
 
-"*Enduring the Quiet Apocalypse will require survival skills. Find the collectibles that teach you important survival lessons.*"
+"_Enduring the Quiet Apocalypse will require survival skills. Find the collectibles that teach you important survival lessons._"
 
 — In-game description
 
@@ -256,13 +251,11 @@ In addition to the side missions, the player can also find three keys to the loc
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![The Episode 2 Menu Background](../assets/Episode_2_Menu_Background.png) / *The Episode 2 Menu Background* |
+![The Episode 2 Menu Background](../assets/Episode_2_Menu_Background.png)
+
+_The Episode 2 Menu Background_
 
 ## Trivia
 
 - Of all the episodes of Wintermute, Episode 2 is the most similar to [Survival Mode](./Survival%20Mode.md).
   - It provides full open-world access to three regions and has almost all survival mechanics enabled, aside from [skills](./Skills.md).
-
-**Lua execution error in Module:Navbox function navbox** [ru:Режим истории: эпизод 2](ru:%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8:_%D1%8D%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4_2)

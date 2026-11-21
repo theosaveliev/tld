@@ -1,17 +1,12 @@
----
-title: "Interview Transcript 4"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Interview_Transcript_4"
----
-
 # Interview Transcript 4
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Interview_Transcript_4)
 
 **Interview Transcript 4**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Interview_Transcript_4_icon.png) / *Interview\_Transcript\_4\_icon.png* |
+|  | ![](../assets/Interview_Transcript_4_icon.png) / _Interview\_Transcript\_4\_icon.png_ |
 | Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
 | Wintermute | No |
 | **Properties** |  |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Interview_Transcript_4"
 
 ## Transcript
 
-*The following text is transcribed from **Interview Transcript 4***
+_The following text is transcribed from **Interview Transcript 4**_
 
 **Q: Session 5, Project Medical Officer interviewing Patient 7.
 
@@ -59,7 +54,5 @@ Q: Keep hold of that image. It’s OK if it fades a little. Breathe. Try going a
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Расшифровка беседы №4](ru:%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D1%8B_%E2%84%964)

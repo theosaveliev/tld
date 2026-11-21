@@ -1,20 +1,14 @@
----
-title: "Railyard (Track Section 5)"
-wiki_namespace: 0
-categories: ["DLC Content", "Locations", "Locations in Anna Island -- Track Section 5", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Railyard_(Track_Section_5)"
----
-
 # Railyard \(Track Section 5\)
+
+**Categories:** DLC Content, Locations, Locations in Anna Island -- Track Section 5, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Railyard_%28Track_Section_5%29)
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| ![](../assets/Seal_icon.png) / *Seal\_icon.png* | **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / **Railyard** / \| Property \| Details \| / \| --- \| --- \| / \| \[\[File: / \\| ![East](../assets/Railyard_%28Track_Section_5_East%29.jpg) / *East* \\| ![West](../assets/Railyard_%28Track_Section_5_West%29.jpg) / *West* \\| / \\| --- \\| --- \\| \| 250px\]\] \| / \| ![East](../assets/Railyard_%28Track_Section_5_East%29.jpg) / *East* \| ![West](../assets/Railyard_%28Track_Section_5_West%29.jpg) / *West* \| / \| **Location** \|  \| / \| ![](../assets/Railyard_Track_Section_5_Location.png) / *Railyard\_Track\_Section\_5\_Location.png* \|  \| / \| Region \| [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)\\|- / Location \| / \| Description \| 2 railyards in the region \| / \| **General** \|  \| / \|  \| Has no shelter\\|} **Railyard** is a set of 2 locations in [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md). / ## Overview / ### Railyard East / The beginning section of the region to the east of the region has a [Water Tower](./Water%20Tower.md) and a rather large pond nearby filled with [Cat Tail](./Cat%20Tail.md) and several natural plants. Further east is the transition to [Port Remnant](./Port%20Remnant.md). / ### Railyard West / To the west is another railyard in the region. This area has an [Oil Tank](./Oil%20Tank.md) and continues to Further east is the transition to [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md), but a gate blocks the passage there. Another large pond with more Cat Tail and natural plants as well as 2 waterfalls is located to the north. / A section of mountain leading to a [Rope Climbing](./Rope%20Climbing.md) section is nearby, transitioning to the hidden [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) (hinted by the [Map (Train)](./Map%20%28Train%29.md)).**Lua execution error in Module:Navbox function navbox** \| |
-| \[\[File: / \| ![East](../assets/Railyard_%28Track_Section_5_East%29.jpg) / *East* \| ![West](../assets/Railyard_%28Track_Section_5_West%29.jpg) / *West* \| / \| --- \| --- \| | 250px\]\] |  |
-| ![East](../assets/Railyard_%28Track_Section_5_East%29.jpg) / *East* | ![West](../assets/Railyard_%28Track_Section_5_West%29.jpg) / *West* |  |
+
+| \[\[File: / ![East](../assets/Railyard_%28Track_Section_5_East%29.jpg) / _East_ / ![West](../assets/Railyard_%28Track_Section_5_West%29.jpg) / _West_ | 250px\]\] |  |
+| ![East](../assets/Railyard_%28Track_Section_5_East%29.jpg) / _East_ | ![West](../assets/Railyard_%28Track_Section_5_West%29.jpg) / _West_ |  |
 | **Location** |  |  |
-| ![](../assets/Railyard_Track_Section_5_Location.png) / *Railyard\_Track\_Section\_5\_Location.png* |  |  |
+| ![](../assets/Railyard_Track_Section_5_Location.png) / _Railyard\_Track\_Section\_5\_Location.png_ |  |  |
 | Region | [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)\|- | Location |
 | Description | 2 railyards in the region |  |
 | **General** |  |  |
-|  | Has no shelter\|} **Railyard** is a set of 2 locations in [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md). / ## Overview / ### Railyard East / The beginning section of the region to the east of the region has a [Water Tower](./Water%20Tower.md) and a rather large pond nearby filled with [Cat Tail](./Cat%20Tail.md) and several natural plants. Further east is the transition to [Port Remnant](./Port%20Remnant.md). / ### Railyard West / To the west is another railyard in the region. This area has an [Oil Tank](./Oil%20Tank.md) and continues to Further east is the transition to [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md), but a gate blocks the passage there. Another large pond with more Cat Tail and natural plants as well as 2 waterfalls is located to the north. / A section of mountain leading to a [Rope Climbing](./Rope%20Climbing.md) section is nearby, transitioning to the hidden [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) (hinted by the [Map (Train)](./Map%20%28Train%29.md)).**Lua execution error in Module:Navbox function navbox** |  |

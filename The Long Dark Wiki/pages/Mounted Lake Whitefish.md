@@ -1,17 +1,12 @@
----
-title: "Mounted Lake Whitefish"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Mounted_Lake_Whitefish"
----
-
 # Mounted Lake Whitefish
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mounted_Lake_Whitefish)
 
 **Mounted Lake Whitefish**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mounted_Lake_Whitefish_icon.png) / *Mounted\_Lake\_Whitefish\_icon.png* |
+|  | ![](../assets/Mounted_Lake_Whitefish_icon.png) / _Mounted\_Lake\_Whitefish\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 0.50 kg (1.1 lbs) |
@@ -47,5 +42,3 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 |  | 1 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**

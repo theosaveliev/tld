@@ -1,30 +1,25 @@
----
-title: "Spray Paint"
-wiki_namespace: 0
-categories: ["Tools"]
-source: "https://thelongdark.fandom.com/wiki/Spray_Paint"
----
-
 # Spray Paint
+
+**Categories:** Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Spray_Paint)
 
 **Spray Paint**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Spray_Paint_icon.png) / *Spray\_Paint\_icon.png* |
+|  | ![](../assets/Spray_Paint_icon.png) / _Spray\_Paint\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.54 kg(1.19 lbs) |
 
-> “**A can of Spray Paint. Can be used to leave signs and markers in the environment. **”
+> “__A can of Spray Paint. Can be used to leave signs and markers in the environment. __”
 >
 > — In-game description
 
-*For the version found in [Escape the Darkwalker](./Escape%20the%20Darkwalker.md), see [Spray Paint - Glyph](./Spray%20Paint%20-%20Glyph.md).*
+_For the version found in [Escape the Darkwalker](./Escape%20the%20Darkwalker.md), see [Spray Paint - Glyph](./Spray%20Paint%20-%20Glyph.md)._
 
-**Spray Paint** is a mapping and information tool in *The Long Dark*.
+**Spray Paint** is a mapping and information tool in _The Long Dark_.
 
 ## Overview
 
@@ -50,11 +45,58 @@ There is a limit of 249 markers one can have in a region (approximately 25 spray
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Pre release Spray Paint with a Blue cap](../assets/Spray-can-comp.jpg) / *Pre release Spray Paint with a Blue cap* | ![Spray Paint Markers](../assets/Spray_Paint_Markers-0.png) / *Spray Paint Markers* | ![Avoid marker](../assets/Avoid-icon-comp.png) / *Avoid marker* | ![Clothing marker](../assets/Clothing-icon-comp.png) / *Clothing marker* |
-| ![Danger marker](../assets/Danger-icon-comp.png) / *Danger marker* | ![Searched marker](../assets/Dead-end-icon-comp.png) / *Searched marker* | ![Direction marker](../assets/Direction-icon-comp.png) / *Direction marker* | ![Fire starting marker](../assets/Fire-starting-icon-comp.png) / *Fire starting marker* |
-| ![First aid marker](../assets/First-aid-icon-comp.png) / *First aid marker* | ![Food and/or drink marker](../assets/Food-drink-icon-comp.png) / *Food and/or drink marker* | ![Hunting area marker](../assets/Hunting-icon-comp.png) / *Hunting area marker* | ![Materials marker](../assets/Materials-icon-comp.png) / *Materials marker* |
-| ![Storage marker](../assets/Storage-icon-comp.png) / *Storage marker* | ![Tools marker](../assets/Tools-icon-comp.png) / *Tools marker* |  |  |
+![Pre release Spray Paint with a Blue cap](../assets/Spray-can-comp.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Баллончик с краской](ru:%D0%91%D0%B0%D0%BB%D0%BB%D0%BE%D0%BD%D1%87%D0%B8%D0%BA_%D1%81_%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%BE%D0%B9)
+_Pre release Spray Paint with a Blue cap_
+
+![Spray Paint Markers](../assets/Spray_Paint_Markers-0.png)
+
+_Spray Paint Markers_
+
+![Avoid marker](../assets/Avoid-icon-comp.png)
+
+_Avoid marker_
+
+![Clothing marker](../assets/Clothing-icon-comp.png)
+
+_Clothing marker_
+
+![Danger marker](../assets/Danger-icon-comp.png)
+
+_Danger marker_
+
+![Searched marker](../assets/Dead-end-icon-comp.png)
+
+_Searched marker_
+
+![Direction marker](../assets/Direction-icon-comp.png)
+
+_Direction marker_
+
+![Fire starting marker](../assets/Fire-starting-icon-comp.png)
+
+_Fire starting marker_
+
+![First aid marker](../assets/First-aid-icon-comp.png)
+
+_First aid marker_
+
+![Food and/or drink marker](../assets/Food-drink-icon-comp.png)
+
+_Food and/or drink marker_
+
+![Hunting area marker](../assets/Hunting-icon-comp.png)
+
+_Hunting area marker_
+
+![Materials marker](../assets/Materials-icon-comp.png)
+
+_Materials marker_
+
+![Storage marker](../assets/Storage-icon-comp.png)
+
+_Storage marker_
+
+![Tools marker](../assets/Tools-icon-comp.png)
+
+_Tools marker_

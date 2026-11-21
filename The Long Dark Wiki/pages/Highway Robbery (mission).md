@@ -1,11 +1,6 @@
----
-title: "Highway Robbery (mission)"
-wiki_namespace: 0
-categories: ["Episode 1", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Highway_Robbery_(mission)"
----
-
 # Highway Robbery \(mission\)
+
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Highway_Robbery_%28mission%29)
 
 **Contents**
 
@@ -20,20 +15,20 @@ source: "https://thelongdark.fandom.com/wiki/Highway_Robbery_(mission)"
 
 | Property | Details |
 | --- | --- |
-|  | ![One of the rewards for this mission is a Distress Pistol](../assets/Distress_Pistol_icon.png) / *One of the rewards for this mission is a [Distress Pistol](./Distress%20Pistol.md)* |
+|  | ![One of the rewards for this mission is a Distress Pistol](../assets/Distress_Pistol_icon.png) / _One of the rewards for this mission is a [Distress Pistol](./Distress%20Pistol.md)_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Current | Highway Robbery (mission) |
 | Region | [Mountain Town](./Mountain%20Town.md) |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
-*For the [collectible](./Collectibles.md) note that starts the side mission, see [Highway Robbery](./Highway%20Robbery.md).*
+_For the [collectible](./Collectibles.md) note that starts the side mission, see [Highway Robbery](./Highway%20Robbery.md)._
 
 **Highway Robbery** is a side mission started in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [story](./Wintermute.md). In the mission, the survivor investigates an abandoned truck on [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) after finding a [note](./Highway%20Robbery.md) describing a rich Mainlander abandoning a truck on the bridge. The mission can only be completed in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), prior to the survivor [leaving Milton](./Paradise%20Lost.md).
 
 ## Official description
 
-> “**You found a note describing the possible location of emergency supplies near a bridge outside of Milton.**”
+> “__You found a note describing the possible location of emergency supplies near a bridge outside of Milton.__”
 
 ## Overview
 
@@ -63,11 +58,11 @@ The first pickup truck has a trunk located in its bed. Search the trunk, taking 
 
 ## Transcript
 
-*Mackenzie makes his way to the bridge after finding the note.*
+_Mackenzie makes his way to the bridge after finding the note._
 
 Mackenzie: "Now to find that secret stash."
 
-*Upon finding the chest*
+_Upon finding the chest_
 
 Mackenzie: "A ha...here it is."
 
@@ -76,5 +71,3 @@ Mackenzie: "A ha...here it is."
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
 
 - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,17 +1,12 @@
----
-title: "Wool Ear Wrap"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Wool_Ear_Wrap"
----
-
 # Wool Ear Wrap
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wool_Ear_Wrap)
 
 **Wool Ear Wrap**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Wool_Ear_Wrap_icon.png) / *Wool\_Ear\_Wrap\_icon.png* |
+|  | ![](../assets/Wool_Ear_Wrap_icon.png) / _Wool\_Ear\_Wrap\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Accessory |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Wool_Ear_Wrap"
 | Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 75% condition |
 
-> “**Covers your ears with an extra layer of Wool.**”
+> “__Covers your ears with an extra layer of Wool.__”
 >
 > — In-game description
 
-**Wool Ear Wrap** is a type of accessory [Clothing](./Clothing.md) in *The Long Dark*.
+**Wool Ear Wrap** is a type of accessory [Clothing](./Clothing.md) in _The Long Dark_.
 
 ## Overview
 
@@ -45,13 +40,15 @@ Considering how rare they are, and as they offer only minimal protection but can
 - Due to their rarity, fragility and the lack of crafting options for Accessory Slots, spare Wool Ear Wraps should be saved as possible replacements.
 - If a player can't find Wool Ear Wraps, [Improvised Insulation](./Improvised%20Insulation.md) is a craftable alternative that provides even more warmth.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Wool_Ear_Wrap_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Wool_Ear_Wrap_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Clothing model icon](../assets/Wool_Ear_Wrap_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Wool_Ear_Wrap_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Шерстяная повязка](ru:%D0%A8%D0%B5%D1%80%D1%81%D1%82%D1%8F%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B2%D1%8F%D0%B7%D0%BA%D0%B0)

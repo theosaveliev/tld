@@ -1,11 +1,6 @@
----
-title: "Hibernation"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Hibernation"
----
-
 # Hibernation
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hibernation)
 
 **Hibernation** is a community term (similar to [Mountain Goating](./Mountain%20Goating.md) and [Daisy Chaining](./Daisy%20Chaining.md)) used to describe any course of actions that combine benefits taken from [condition](./Condition.md) drain when [needs](./Needs.md) are not met with restoring condition by satisfying needs briefly while [sleeping](./Sleep.md). Primarily, it is a method to conserve limited resources.
 
@@ -26,5 +21,3 @@ source: "https://thelongdark.fandom.com/wiki/Hibernation"
 ## Origins
 
 The name 'hibernation' comes from this tactic's most common early use: to extend survival time to earn high placement on community leaderboards. Players would stock pile [food](./Food%20And%20Drink.md) and [water](./Water%20%28Potable%29.md) and then procedurally starve then replenish themselves. Sleeping until condition reached as low as they dared, they would eat just enough to then sleep 12 hours, recover back to 100% condition, and repeat the cycle until all food and water was exhausted. Eating little staying in one place and sleeping lots, along with the game's winter setting and inclusion of bears, granted rapid acceptance of referring to this practice as 'hibernation'. The term is now used for any tactics that similarly use condition loss and sleep to replace satisfaction of needs.
-
-**Lua execution error in Module:Navbox function navbox**

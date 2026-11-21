@@ -1,17 +1,12 @@
----
-title: "Ski Boots"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Ski_Boots"
----
-
 # Ski Boots
+
+**Categories:** Clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ski_Boots)
 
 **Ski Boots**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Ski_Boots_icon.png) / *Ski\_Boots\_icon.png* |
+|  | ![](../assets/Ski_Boots_icon.png) / _Ski\_Boots\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -24,11 +19,11 @@ source: "https://thelongdark.fandom.com/wiki/Ski_Boots"
 | Harvest | 1 × [Cured leather](./Cured%20Leather.md) / 90 minutes |
 | Repair | 1 × [Cured leather](./Cured%20Leather.md), / 1 × [Cloth](./Cloth.md) / 90 minutes / 30% condition |
 
-> “**Hard plastic boots with high-tech synthetic insulation. Will keep your feet very warm at the expense of mobility.**”
+> “__Hard plastic boots with high-tech synthetic insulation. Will keep your feet very warm at the expense of mobility.__”
 >
 > — In-game description
 
-**Ski Boots** are a type of [footwear](./Clothing.md) in *The Long Dark*.
+**Ski Boots** are a type of [footwear](./Clothing.md) in _The Long Dark_.
 
 ## Overview
 
@@ -36,13 +31,15 @@ Ski boots are extremely rare and high tier footwear. They offer the best warmth,
 
 Not available on Interloper.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Ski_Boots_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Ski_Boots_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Clothing model icon](../assets/Ski_Boots_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Ski_Boots_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Лыжные ботинки](ru:%D0%9B%D1%8B%D0%B6%D0%BD%D1%8B%D0%B5_%D0%B1%D0%BE%D1%82%D0%B8%D0%BD%D0%BA%D0%B8)

@@ -1,12 +1,8 @@
----
-title: "Hunter's Blinds"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Hunter's_Blinds"
----
-
 # Hunter's Blinds
 
-**Hunter's blinds** are a type of small structure used for hunting. ![A Hunter's Blind near Hilltop Cave, Pleasant Valley.](../assets/Hunter%27s_Blind_Hilltop.jpg)*A Hunter's Blind near Hilltop Cave, Pleasant Valley.*
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunter's_Blinds)
+
+**Hunter's blinds** are a type of small structure used for hunting. ![A Hunter's Blind near Hilltop Cave, Pleasant Valley.](../assets/Hunter%27s_Blind_Hilltop.jpg)_A Hunter's Blind near Hilltop Cave, Pleasant Valley._
 
 ## Overview
 
@@ -18,7 +14,7 @@ Blinds may also contain a small amount of useful loot, such as [food](./Food%20A
 
 ![Another Hunter's Blind in Pleasant Valley.](../assets/Screen_Shot_2017-03-06_at_9.26.08_am.png)
 
-*Another Hunter's Blind in Pleasant Valley.*
+_Another Hunter's Blind in Pleasant Valley._
 
 ## Locations
 

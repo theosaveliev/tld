@@ -1,11 +1,6 @@
----
-title: "Car Battery"
-wiki_namespace: 0
-categories: ["Story items", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Car_Battery"
----
-
 # Car Battery
+
+**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Car_Battery)
 
 **Contents**
 
@@ -22,7 +17,7 @@ source: "https://thelongdark.fandom.com/wiki/Car_Battery"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Car_Battery_icon.png) / *Car\_Battery\_icon.png* |
+|  | ![](../assets/Car_Battery_icon.png) / _Car\_Battery\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | **Statistics** |  |
@@ -31,7 +26,7 @@ source: "https://thelongdark.fandom.com/wiki/Car_Battery"
 
 **Template:quote**
 
-**Car Batteries** are a crafting item in ***The Long Dark***.
+**Car Batteries** are a crafting item in **_The Long Dark_**.
 
 ## Overview
 
@@ -82,5 +77,3 @@ Eventually all [Hunting Rifle](./Hunting%20Rifle.md) and [Revolver](./Revolver.m
 - The Errant Pilgrim update introduced [Gunsmithing](./Gunsmithing.md).
 - 12-Volt Lead-acid car batteries have 6 cells inside (2 volts per cell), which is why a Car Battery can be harvested for 6 pieces of Scrap Lead (one per cell).
 - The car battery bears the logo of the in-game company "ZAP." The same logo can be found on the [energy bar](./Energy%20Bar.md).
-
-**Lua execution error in Module:Navbox function navbox** [ru:Аккумулятор](ru:%D0%90%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80)

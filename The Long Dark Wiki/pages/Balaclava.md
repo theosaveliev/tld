@@ -1,17 +1,12 @@
----
-title: "Balaclava"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Balaclava"
----
-
 # Balaclava
+
+**Categories:** Clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Balaclava)
 
 **Balaclava**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Balaclava_icon.png) / *Balaclava\_icon.png* |
+|  | ![](../assets/Balaclava_icon.png) / _Balaclava\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -24,11 +19,11 @@ source: "https://thelongdark.fandom.com/wiki/Balaclava"
 | Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 75% condition |
 
-> “**Full wool head covering with holes for the eyes and mouth. Warm, even if a bit sinister looking.**”
+> “__Full wool head covering with holes for the eyes and mouth. Warm, even if a bit sinister looking.__”
 >
 > — In-game description
 
-The Balaclava is a type of headgear in *[The Long Dark](./The%20Long%20Dark.md)*. It is a rare item and additionally cannot be found on Interloper difficulty.
+The Balaclava is a type of headgear in _[The Long Dark](./The%20Long%20Dark.md)_. It is a rare item and additionally cannot be found on Interloper difficulty.
 
 Only 1 Balaclava can be worn at a time, specifically in the inner head slot.
 
@@ -38,13 +33,23 @@ Despite this, the balaclava is just as good as the [Wool Toque](./Wool%20Toque.m
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Clothing model](../assets/Balaclava_Model_icon.png) / *Clothing model* | ![Clothing model damaged](../assets/Balaclava_Model_Damaged_icon.png) / *Clothing model damaged* | ![Balaclava v1.92](../assets/Balaclava-full.jpg) / *Balaclava v1.92* | ![Balaclava in the clothing interface. (click to enlarge)](../assets/Clothing_interface_old.png) / *Balaclava in the clothing interface. *(click to enlarge)** |
+![Clothing model](../assets/Balaclava_Model_icon.png)
+
+_Clothing model_
+
+![Clothing model damaged](../assets/Balaclava_Model_Damaged_icon.png)
+
+_Clothing model damaged_
+
+![Balaclava v1.92](../assets/Balaclava-full.jpg)
+
+_Balaclava v1.92_
+
+![Balaclava in the clothing interface. (click to enlarge)](../assets/Clothing_interface_old.png)
+
+_Balaclava in the clothing interface. _(click to enlarge)__
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Балаклава](ru:%D0%91%D0%B0%D0%BB%D0%B0%D0%BA%D0%BB%D0%B0%D0%B2%D0%B0)

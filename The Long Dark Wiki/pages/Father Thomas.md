@@ -1,11 +1,6 @@
----
-title: "Father Thomas"
-wiki_namespace: 0
-categories: ["Characters", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Father_Thomas"
----
-
 # Father Thomas
+
+**Categories:** Characters, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Father_Thomas)
 
 **Contents**
 
@@ -24,7 +19,7 @@ source: "https://thelongdark.fandom.com/wiki/Father_Thomas"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Father_thomas.jpg) / *Father\_thomas.jpg* |
+|  | ![](../assets/Father_thomas.jpg) / _Father\_thomas.jpg_ |
 | Release | [Crossroads Elegy (v1.60)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Date | 22 October 2019 |
 | Wintermute | [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) |
@@ -37,13 +32,13 @@ source: "https://thelongdark.fandom.com/wiki/Father_Thomas"
 | **Game Information** |  |
 | Voiced by | Alec Willows |
 
-> “**Affable and quick to laugh, even in crisis Father Thomas is lifted by his faith rather than weighed down by it. While erudite when he needs to be, he treasures the immediate, pragmatic spiritual needs of life on remote Great Bear Island -- births, baptisms, and funerals, mostly.  
+> “__Affable and quick to laugh, even in crisis Father Thomas is lifted by his faith rather than weighed down by it. While erudite when he needs to be, he treasures the immediate, pragmatic spiritual needs of life on remote Great Bear Island -- births, baptisms, and funerals, mostly.  
    
- Just how and why Father Thomas came to find himself in Pleasant Valley remains a mystery. But it’s clear his devotion to the tiny parish in Thomson’s Crossing has helped bind the community together.**”
+ Just how and why Father Thomas came to find himself in Pleasant Valley remains a mystery. But it’s clear his devotion to the tiny parish in Thomson’s Crossing has helped bind the community together.__”
 >
 > — In-game description
 
-> “**Yes, you're a doctor so you understand the fragility of human life. The fragility of the human spirit is more my domain. **”
+> “__Yes, you're a doctor so you understand the fragility of human life. The fragility of the human spirit is more my domain. __”
 >
 > — Father Thomas to Astrid
 
@@ -91,15 +86,17 @@ Astrid can return a stolen [Church Artifact](./Church%20Artifact.md) to the near
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![](../assets/Community_hall_interior_2.jpg) / *Community\_hall\_interior\_2.jpg* | ![](../assets/Missions_story_ep3_Triage.png) / *Missions\_story\_ep3\_Triage.png* |
+![](../assets/Community_hall_interior_2.jpg)
+
+_Community\_hall\_interior\_2.jpg_
+
+![](../assets/Missions_story_ep3_Triage.png)
+
+_Missions\_story\_ep3\_Triage.png_
 
 ## Update History
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [fr:Père\_Thomas](fr:P%C3%A8re_Thomas) [ru:Отец\_Томас](ru:%D0%9E%D1%82%D0%B5%D1%86_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81)

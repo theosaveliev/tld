@@ -1,11 +1,6 @@
----
-title: "Arrow Shaft"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Arrow_Shaft"
----
-
 # Arrow Shaft
+
+**Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Arrow_Shaft)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Arrow_Shaft"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Arrow_Shaft_icon.png) / *Arrow\_Shaft\_icon.png* |
+|  | ![](../assets/Arrow_Shaft_icon.png) / _Arrow\_Shaft\_icon.png_ |
 | Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -35,7 +30,7 @@ source: "https://thelongdark.fandom.com/wiki/Arrow_Shaft"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_FeatheredArrowShaft |
 
-An **Arrow Shaft** is a material used in crafting [Simple Arrows](./Simple%20Arrow.md) in *[The Long Dark](./The%20Long%20Dark.md).*
+An **Arrow Shaft** is a material used in crafting [Simple Arrows](./Simple%20Arrow.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
 Arrow shafts are primarily used in the making of arrows. Arrow Shafts can be cut from a [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) at a [Work Bench](./Work%20Bench.md) with the use of a knife. Three [Crow Feathers](./Crow%20Feather.md) along with one [Arrowhead](./Arrowhead.md) can be used with an Arrow Shaft to create one Simple Arrow.
 
@@ -64,13 +59,11 @@ Arrow shafts are primarily used in the making of arrows. Arrow Shafts can be cut
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Arrow_Shaft.png) / *Old model.* |
+![Old model.](../assets/Arrow_Shaft.png)
+
+_Old model._
 
 ## Update history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.223)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Древко стрелы](ru:%D0%94%D1%80%D0%B5%D0%B2%D0%BA%D0%BE_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D1%8B)

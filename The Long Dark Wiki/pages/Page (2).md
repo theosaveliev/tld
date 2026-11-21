@@ -1,17 +1,12 @@
----
-title: "Page (2)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Page_(2)"
----
-
 # Page \(2\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Page_%282%29)
 
 **Page (2)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Page_%282%29_icon.png) / *Page\_(2)\_icon.png* |
+|  | ![](../assets/Page_%282%29_icon.png) / _Page\_(2)\_icon.png_ |
 | Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Page_(2)"
 
 ## Transcript
 
-*The following text is transcribed from **Page***
+_The following text is transcribed from **Page**_
 
 **Seeing the helicopters come over the mountains again this year. I counted three last month, and two already this month. Always as the weather turns colder. I know they can't all be tourists. Not anymore and not for a long while anyway.**
 
@@ -37,7 +32,5 @@ source: "https://thelongdark.fandom.com/wiki/Page_(2)"
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Страница (Хибара Джасти)](ru:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%28%D0%A5%D0%B8%D0%B1%D0%B0%D1%80%D0%B0_%D0%94%D0%B6%D0%B0%D1%81%D1%82%D0%B8%29)

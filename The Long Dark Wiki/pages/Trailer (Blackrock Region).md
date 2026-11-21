@@ -1,11 +1,6 @@
----
-title: "Trailer (Blackrock Region)"
-wiki_namespace: 0
-categories: ["Blackrock"]
-source: "https://thelongdark.fandom.com/wiki/Trailer_(Blackrock_Region)"
----
-
 # Trailer \(Blackrock Region\)
+
+**Categories:** Blackrock · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trailer_%28Blackrock_Region%29)
 
 The Trailer is a location found in the western area of [Blackrock](./Blackrock.md), on the western bank of the flowing river on the road to the [Power Plant](./Power%20Plant.md).
 
@@ -18,5 +13,3 @@ This trailer is the only guaranteed indoors location in this area; the only othe
 - The trailer contains 2 lockers, one of which is usually locked (requires pry bar).
 - 2 revolver rounds usually spawn near/under the lockers.
 - Small amount of miscellaneous food and first aid supplies in containers, as well as a few pieces of [Reclaimed Wood](./Reclaimed%20Wood.md).
-
-**Lua execution error in Module:Navbox function navbox** [ru:Прицеп (Чёрный камень)](ru:%D0%9F%D1%80%D0%B8%D1%86%D0%B5%D0%BF_%28%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C%29)

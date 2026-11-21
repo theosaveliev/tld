@@ -1,11 +1,6 @@
----
-title: "Firestriker"
-wiki_namespace: 0
-categories: ["Fire Starting", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Firestriker"
----
-
 # Firestriker
+
+**Categories:** Fire Starting, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Firestriker)
 
 **Contents**
 
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/Firestriker"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Firestriker_icon.png) / *firestriker\_icon.png* |
+|  | ![](../assets/Firestriker_icon.png) / _firestriker\_icon.png_ |
 | **General** |  |
 | Item Type | Fire Starting\|- |
 | Renewable | Yes ([Trader](./Trader.md) only) |
@@ -32,7 +27,7 @@ source: "https://thelongdark.fandom.com/wiki/Firestriker"
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Bonus chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+15% |
 
-> “**Metal tool designed to help start fires in the wilderness.**”
+> “__Metal tool designed to help start fires in the wilderness.__”
 >
 > — In-game description
 
@@ -89,7 +84,5 @@ Rarely spawns on shelves or tables in place of more common [Lantern Fuel](./Lant
 
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
   - Reduce per-use decay on the Firestriker Tool.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Огниво](ru:%D0%9E%D0%B3%D0%BD%D0%B8%D0%B2%D0%BE)

@@ -1,11 +1,6 @@
----
-title: "Daisy Chaining"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Daisy_Chaining"
----
-
 # Daisy Chaining
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Daisy_Chaining)
 
 **Daisy Chaining** is a fan made gameplay term (similar to [Mountain Goating](./Mountain%20Goating.md), and [Hibernation](./Hibernation.md)) that refers to the practice of using [Torches](./Torch.md) to move a fire from one location to another, and to keep warm along the way, whilst using the least [Fire Starting](./Fire%20Starting.md) resources as possible. This practice helps conserve [Wood Matches](./Wood%20Matches.md), [Cardboard Matches](./Cardboard%20Matches.md), and [Firestrikers](./Firestriker.md) that may already be in short supply, deters wolves from attacking you, as well as to preserve resources for late game runs.
 
@@ -26,5 +21,3 @@ When the overall Condition of the Torch begins to reach its end point, the playe
 This practice of chaining fires can continue until the player runs out of spare Torches to pass on the flame, or finds a suitable location to warm up. It is then advised to create a Fire with the currently lit Torch with any spare Fuel found along the way, to either create more Torches or to make use of the dying flame in order to cook Food/Drinks or boil Water.
 
 The chain will end at some point, either by the player's hands or by the environment, but can be started again once enough Fuel is present to procure more Torches, but the player must use another match to start a new chain.
-
-**Lua execution error in Module:Navbox function navbox**

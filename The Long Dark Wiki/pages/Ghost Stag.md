@@ -1,17 +1,12 @@
----
-title: "Ghost Stag"
-wiki_namespace: 0
-categories: ["Episode 3"]
-source: "https://thelongdark.fandom.com/wiki/Ghost_Stag"
----
-
 # Ghost Stag
+
+**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ghost_Stag)
 
 **Ghost Stag**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Ghost_Stag.png) / *Ghost\_Stag.png* |
+|  | ![](../assets/Ghost_Stag.png) / _Ghost\_Stag.png_ |
 | **Basic Information** |  |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Role | Prey |
@@ -20,10 +15,10 @@ source: "https://thelongdark.fandom.com/wiki/Ghost_Stag"
 | Size | Medium |
 | Eyes | Red |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
-> “**Long battered by harsh winters and isolation, Pleasant Valley residents often sought refuge and comfort in nature. A favourite pastime was standing watch for a legendary stag, which the older locals claimed could bring about a special insight.  
- That is if you could ever find the wild creature. Whether it was the mysterious animal itself, or the very act of peaceful observation which brought this new awareness to light, no one rightly knows any more.**”
+> “__Long battered by harsh winters and isolation, Pleasant Valley residents often sought refuge and comfort in nature. A favourite pastime was standing watch for a legendary stag, which the older locals claimed could bring about a special insight.  
+ That is if you could ever find the wild creature. Whether it was the mysterious animal itself, or the very act of peaceful observation which brought this new awareness to light, no one rightly knows any more.__”
 >
 > — [Local Legends - Ghost Stag](./Local%20Legends%20-%20Ghost%20Stag.md)
 
@@ -39,8 +34,6 @@ Once the player leaves the Snow Shelter, the Ghost Stag will run away upon spott
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![The Ghost Stag](../assets/Ghost_stag.jpg) / *The Ghost Stag* |
+![The Ghost Stag](../assets/Ghost_stag.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_The Ghost Stag_

@@ -1,11 +1,6 @@
----
-title: "Fishing Tackle"
-wiki_namespace: 0
-categories: ["Craftable tools", "Ice Fishing", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Fishing_Tackle"
----
-
 # Fishing Tackle
+
+**Categories:** Craftable tools, Ice Fishing, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fishing_Tackle)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Fishing_Tackle"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fishing_Tackle_icon.png) / *Fishing\_Tackle\_icon.png* |
+|  | ![](../assets/Fishing_Tackle_icon.png) / _Fishing\_Tackle\_icon.png_ |
 | Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -63,5 +58,3 @@ A Fishing Tackle cannot be repaired or harvested. It can be used as an ingredien
 ## Update history
 
 **Template:update history**
-
-**Lua execution error in Module:Navbox function navbox** [ru:Удочка](ru:%D0%A3%D0%B4%D0%BE%D1%87%D0%BA%D0%B0)

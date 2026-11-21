@@ -1,11 +1,6 @@
----
-title: "Episode 3: Crossroads Elegy"
-wiki_namespace: 0
-categories: ["Episode 3", "Episodes"]
-source: "https://thelongdark.fandom.com/wiki/Episode_3%3A_Crossroads_Elegy"
----
-
 # Episode 3: Crossroads Elegy
+
+**Categories:** Episode 3, Episodes · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Episode_3%3A_Crossroads_Elegy)
 
 **Contents**
 
@@ -34,11 +29,11 @@ source: "https://thelongdark.fandom.com/wiki/Episode_3%3A_Crossroads_Elegy"
 
 ![](../assets/Episode_3.png)**Template:spoiler**
 
-*"In the aftermath of events in Milton, an enigmatic stranger rescues Dr. Astrid Greenwood from near-death. Facing the blizzards of Pleasant Valley, Astrid must bring all of her skills as a doctor to bear on the survivors she encounters. Will she find Mackenzie, and get closer to the mystery that's taking them to Perseverance Mills?"*
+_"In the aftermath of events in Milton, an enigmatic stranger rescues Dr. Astrid Greenwood from near-death. Facing the blizzards of Pleasant Valley, Astrid must bring all of her skills as a doctor to bear on the survivors she encounters. Will she find Mackenzie, and get closer to the mystery that's taking them to Perseverance Mills?"_
 
 ## Overview
 
-***Crossroads Elegy*** is the third episode in the [story](./Wintermute.md) of [The Long Dark](./The%20Long%20Dark.md). It is preceded by [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) and is followed by [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
+**_Crossroads Elegy_** is the third episode in the [story](./Wintermute.md) of [The Long Dark](./The%20Long%20Dark.md). It is preceded by [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) and is followed by [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
 The episode takes place entirely within the [Pleasant Valley](./Pleasant%20Valley.md) region.
 
@@ -48,11 +43,11 @@ The episode takes place entirely within the [Pleasant Valley](./Pleasant%20Valle
 
 ![](../assets/Missions_story_ep3_Trauma.png)
 
-*Missions\_story\_ep3\_Trauma.png*
+_Missions\_story\_ep3\_Trauma.png_
 
-*Main article: [Trauma](./Trauma.md)*
+_Main article: [Trauma](./Trauma.md)_
 
-"*Molly rescued you from near death. As a local with deep knowledge of the Region, she might be key to surviving long enough to find a way to Perseverance Mills.*"
+"_Molly rescued you from near death. As a local with deep knowledge of the Region, she might be key to surviving long enough to find a way to Perseverance Mills._"
 
 — In-game description
 
@@ -60,11 +55,11 @@ The episode takes place entirely within the [Pleasant Valley](./Pleasant%20Valle
 
 ![](../assets/Missions_story_ep3_Triage.png)
 
-*Missions\_story\_ep3\_Triage.png*
+_Missions\_story\_ep3\_Triage.png_
 
-*Main article: [Fallen Star](./Fallen%20Star.md)*
+_Main article: [Fallen Star](./Fallen%20Star.md)_
 
-"*Survivors of an airline crash in the mountains have found their way to the Community Hall in Thomson's Crossing. There might be others out there in need of help. Can you save them?*"
+"_Survivors of an airline crash in the mountains have found their way to the Community Hall in Thomson's Crossing. There might be others out there in need of help. Can you save them?_"
 
 — In-game description
 
@@ -72,11 +67,11 @@ The episode takes place entirely within the [Pleasant Valley](./Pleasant%20Valle
 
 ![](../assets/Missions_story_ep3_Coming_Storm.png)
 
-*Missions\_story\_ep3\_Coming\_Storm.png*
+_Missions\_story\_ep3\_Coming\_Storm.png_
 
-*Main article: [Coming Storm](./Coming%20Storm.md)*
+_Main article: [Coming Storm](./Coming%20Storm.md)_
 
-"*A whiteout blizzard is on the way. Find the three missing Survivors and collect enough supplies in the Hall kitchen to keep everyone alive until the storm passes.*"
+"_A whiteout blizzard is on the way. Find the three missing Survivors and collect enough supplies in the Hall kitchen to keep everyone alive until the storm passes._"
 
 — In-game description
 
@@ -84,11 +79,11 @@ The episode takes place entirely within the [Pleasant Valley](./Pleasant%20Valle
 
 ![](../assets/Missions_story_ep3_Aftermath.png)
 
-*Missions\_story\_ep3\_Aftermath.png*
+_Missions\_story\_ep3\_Aftermath.png_
 
-*Main article: [Aftermath](./Aftermath.md)*
+_Main article: [Aftermath](./Aftermath.md)_
 
-"*You've brought healing and respite to the people at Thomson's Crossing. Your work at the Community Hall is complete. Do what you need to do before leaving Pleasant Valley.*"
+"_You've brought healing and respite to the people at Thomson's Crossing. Your work at the Community Hall is complete. Do what you need to do before leaving Pleasant Valley._"
 
 — In-game description
 
@@ -98,11 +93,11 @@ The episode takes place entirely within the [Pleasant Valley](./Pleasant%20Valle
 
 ![](../assets/Missions_story_ep3_Side.png)
 
-*Missions\_story\_ep3\_Side.png*
+_Missions\_story\_ep3\_Side.png_
 
-*Main article: [Blackrock (mission)](./Blackrock%20%28mission%29.md)*
+_Main article: [Blackrock (mission)](./Blackrock%20%28mission%29.md)_
 
-"*Investigate the Black Rock Penitentiary guards and their abandoned road block.*"
+"_Investigate the Black Rock Penitentiary guards and their abandoned road block._"
 
 — In-game description
 
@@ -110,43 +105,43 @@ The episode takes place entirely within the [Pleasant Valley](./Pleasant%20Valle
 
 ![](../assets/Missions_story_ep3_Fallen_Star.png)
 
-*Missions\_story\_ep3\_Fallen\_Star.png*
+_Missions\_story\_ep3\_Fallen\_Star.png_
 
-*Main article: [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mission%29.md)*
+_Main article: [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mission%29.md)_
 
-"*The Forest Talkers seem to be wrapped up in the local politics and history of Pleasant Valley. Search for more information about their activity in the Region.*"
+"_The Forest Talkers seem to be wrapped up in the local politics and history of Pleasant Valley. Search for more information about their activity in the Region._"
 
 — In-game description
 
 ### Tall Tales
 
-*Main article: [Tall Tales](./Tall%20Tales.md)*
+_Main article: [Tall Tales](./Tall%20Tales.md)_
 
-"*Books describing odd or mysterious events in Pleasant Valley. Investigate to find out more about the life and character of people in the Region.*"
+"_Books describing odd or mysterious events in Pleasant Valley. Investigate to find out more about the life and character of people in the Region._"
 
 — In-game description
 
 ### Molly's Gift
 
-*Main article: [Molly's Gift](./Molly%27s%20Gift.md)*
+_Main article: [Molly's Gift](./Molly%27s%20Gift.md)_
 
-"*More help from Astrid's mysterious rescuer. As a local, Molly's help could be vital to surviving the harsh wilderness in Pleasant Valley.*"
+"_More help from Astrid's mysterious rescuer. As a local, Molly's help could be vital to surviving the harsh wilderness in Pleasant Valley._"
 
 — In-game description
 
 ### Joplin's Bunker Raid
 
-*Main article: [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md)*
+_Main article: [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md)_
 
-"*The Forest Talkers have been raiding Joplin's prepper caches. Whatever supplies remain could help you survive Pleasant Valley long enough to find a way out. Search the caches to see what's left.*"
+"_The Forest Talkers have been raiding Joplin's prepper caches. Whatever supplies remain could help you survive Pleasant Valley long enough to find a way out. Search the caches to see what's left._"
 
 — In-game description
 
 ### Church Artifact
 
-*Main article: [Church Artifact](./Church%20Artifact.md)*
+_Main article: [Church Artifact](./Church%20Artifact.md)_
 
-"*A thief has stolen an Artifact from the Church at Thomson's Crossing. In a remote town, it's likely the Artifact has great value to the residents. See what you can do to locate the item and return it home.*"
+"_A thief has stolen an Artifact from the Church at Thomson's Crossing. In a remote town, it's likely the Artifact has great value to the residents. See what you can do to locate the item and return it home._"
 
 — In-game description
 
@@ -200,9 +195,22 @@ The episode takes place entirely within the [Pleasant Valley](./Pleasant%20Valle
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![The Episode 3 Menu Background](../assets/Episode_3_Menu_Background.png) / *The Episode 3 Menu Background* | ![As of 1.92. The in-game map is this map but rotated 90 degrees clockwise](../assets/1901570789_preview_Map-PleasantValley-EP3-spoil-Fixv162-05.png) / *As of 1.92. The in-game map is this map but rotated 90 degrees clockwise* | ![](../assets/Elegy_poster.png) / *Elegy\_poster.png* | ![Crossroads Elegy Poster](../assets/Elegy_poster_cropped.png) / *Crossroads Elegy Poster* |
-| ![](../assets/The_Long_Dark_--_Episode_Three_CROSSROADS_ELEGY_--_Launch_Trailer) / *The\_Long\_Dark\_--\_Episode\_Three\_CROSSROADS\_ELEGY\_--\_Launch\_Trailer* |  |  |  |
+![The Episode 3 Menu Background](../assets/Episode_3_Menu_Background.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Режим истории: эпизод 3](ru:%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8:_%D1%8D%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4_3)
+_The Episode 3 Menu Background_
+
+![As of 1.92. The in-game map is this map but rotated 90 degrees clockwise](../assets/1901570789_preview_Map-PleasantValley-EP3-spoil-Fixv162-05.png)
+
+_As of 1.92. The in-game map is this map but rotated 90 degrees clockwise_
+
+![](../assets/Elegy_poster.png)
+
+_Elegy\_poster.png_
+
+![Crossroads Elegy Poster](../assets/Elegy_poster_cropped.png)
+
+_Crossroads Elegy Poster_
+
+![](../assets/The_Long_Dark_--_Episode_Three_CROSSROADS_ELEGY_--_Launch_Trailer.jpg)
+
+_The\_Long\_Dark\_--\_Episode\_Three\_CROSSROADS\_ELEGY\_--\_Launch\_Trailer_

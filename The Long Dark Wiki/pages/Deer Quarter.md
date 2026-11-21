@@ -1,17 +1,12 @@
----
-title: "Deer Quarter"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Deer_Quarter"
----
-
 # Deer Quarter
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Deer_Quarter)
 
 **Deer Quarter**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Deer_Quarter_icon.png) / *Deer\_Quarter\_icon.png* |
+|  | ![](../assets/Deer_Quarter_icon.png) / _Deer\_Quarter\_icon.png_ |
 | Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423) |
 | **Properties** |  |
 | Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
@@ -37,5 +32,3 @@ Also, only 50% of a quarters weight will be useable meat, more than likely as a 
 
 - UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Четверть туши лося](ru:%D0%A7%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D1%8C_%D1%82%D1%83%D1%88%D0%B8_%D0%BB%D0%BE%D1%81%D1%8F)

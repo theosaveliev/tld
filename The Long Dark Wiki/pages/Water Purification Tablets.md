@@ -1,17 +1,12 @@
----
-title: "Water Purification Tablets"
-wiki_namespace: 0
-categories: ["First Aid"]
-source: "https://thelongdark.fandom.com/wiki/Water_Purification_Tablets"
----
-
 # Water Purification Tablets
+
+**Categories:** First Aid · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Water_Purification_Tablets)
 
 **Water Purification Tablets**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Water_Purification_Tablets_icon.png) / *Water\_Purification\_Tablets\_icon.png* |
+|  | ![](../assets/Water_Purification_Tablets_icon.png) / _Water\_Purification\_Tablets\_icon.png_ |
 | **General** |  |
 | Item Type | [First Aid](./First%20Aid.md) |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Water_Purification_Tablets"
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
 | Unit count | ![unit\_count\_icon.png](../assets/Unit_count_icon.png)4 tablets |
 
-> “**A packet of water purification tablets. Can help prevent dysentery. One tablet treats 1L/0.26 gallon of non-potable water.**”
+> “__A packet of water purification tablets. Can help prevent dysentery. One tablet treats 1L/0.26 gallon of non-potable water.__”
 >
 > — In-game description
 
@@ -40,15 +35,13 @@ Water Purification Tablets are a consumable item which can be used to convert up
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Water_purification_tablets.png) / *old model* |
+![old model](../assets/Water_purification_tablets.png)
+
+_old model_
 
 ## Trivia
 
-- Water purification tablets are packaged with the branding "*Aqua Pur"*.
+- Water purification tablets are packaged with the branding "_Aqua Pur"_.
 - The description on the back list: "Works Fast! 1 Tablet Treats 1 Litre!"
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Таблетки\_для\_очистки\_воды](ru:%D0%A2%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B8_%D0%B2%D0%BE%D0%B4%D1%8B)

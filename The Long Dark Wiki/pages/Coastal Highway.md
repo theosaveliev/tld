@@ -1,11 +1,6 @@
----
-title: "Coastal Highway"
-wiki_namespace: 0
-categories: ["Regions"]
-source: "https://thelongdark.fandom.com/wiki/Coastal_Highway"
----
-
 # Coastal Highway
+
+**Categories:** Regions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coastal_Highway)
 
 **Contents**
 
@@ -29,10 +24,10 @@ source: "https://thelongdark.fandom.com/wiki/Coastal_Highway"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Coastal_Highway_title_card.png) / *Coastal\_Highway\_title\_card.png* |
+|  | ![](../assets/Coastal_Highway_title_card.png) / _Coastal\_Highway\_title\_card.png_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Coastal_Highway_Location.png) / *Coastal\_Highway\_Location.png* |
-|  | ![](../assets/Coastal_Highway_Region_Map.png) / *Coastal\_Highway\_Region\_Map.png* |
+|  | ![](../assets/Coastal_Highway_Location.png) / _Coastal\_Highway\_Location.png_ |
+|  | ![](../assets/Coastal_Highway_Region_Map.png) / _Coastal\_Highway\_Region\_Map.png_ |
 | **Details** |  |
 | Description | A large frozen bay and coastline with a ruined highway crossing around it. |
 | Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) (via [The Ravine](./The%20Ravine.md)) / [Bleak Inlet](./Bleak%20Inlet.md) (via [The Ravine](./The%20Ravine.md)) / [Pleasant Valley](./Pleasant%20Valley.md) (via [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md)) / [Desolation Point](./Desolation%20Point.md) (via [Old Island Connector](./Crumbling%20Highway.md)) |
@@ -42,11 +37,11 @@ source: "https://thelongdark.fandom.com/wiki/Coastal_Highway"
 | Hazards and Survivability | The region has plentiful resources, but there is also a high concentration of [Wolves](./Wolf.md) and three [Bear](./Bear.md)-patrolled locations. |
 | Date Added | Oct 2014 |
 
-> “**For intermediate players. A weather-battered coastline rich in shelters and resources. Watch out for wildlife.**”
+> “__For intermediate players. A weather-battered coastline rich in shelters and resources. Watch out for wildlife.__”
 >
 > — - In game description
 
-**Coastal Highway** is the 2nd [Region](./Region.md) released in *[The Long Dark](./The%20Long%20Dark.md)*. The region is named after a section of the [Great Bear Highway](./Great%20Bear%20Highway.md) that wraps itself around a local lagoon, giving the region a C shape.
+**Coastal Highway** is the 2nd [Region](./Region.md) released in _[The Long Dark](./The%20Long%20Dark.md)_. The region is named after a section of the [Great Bear Highway](./Great%20Bear%20Highway.md) that wraps itself around a local lagoon, giving the region a C shape.
 
 ## Overview
 
@@ -155,19 +150,87 @@ There are several locations for [Safehouses](./Safehouse.md) in the Coastal High
 
 ### Maps
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A detailed map of Coastal Highway v2.35 (spoilers)](../assets/Coastal_Highway_%28Pilgrim-Stalker%29.jpg) / *A detailed map of Coastal Highway v2.35 (spoilers)* | ![Map of Coastal Highway v2.35 (Interloper/Misery edition, contains spoilers)](../assets/CH_map_loper.jpg) / *Map of Coastal Highway v2.35 (Interloper/Misery edition, contains spoilers)* | ![](../assets/Coastal_highway_map.png) / *Coastal\_highway\_map.png* | ![](../assets/MAP-ingame-CH-v162-Eng.jpg) / *MAP-ingame-CH-v162-Eng.jpg* |
-| ![](../assets/Coastal_Highway_map_by_Sniper_Bob.jpg) / *Coastal\_Highway\_map\_by\_Sniper\_Bob.jpg* |  |  |  |
+![A detailed map of Coastal Highway v2.35 (spoilers)](../assets/Coastal_Highway_%28Pilgrim-Stalker%29.jpg)
+
+_A detailed map of Coastal Highway v2.35 (spoilers)_
+
+![Map of Coastal Highway v2.35 (Interloper/Misery edition, contains spoilers)](../assets/CH_map_loper.jpg)
+
+_Map of Coastal Highway v2.35 (Interloper/Misery edition, contains spoilers)_
+
+![](../assets/Coastal_highway_map.png)
+
+_Coastal\_highway\_map.png_
+
+![](../assets/MAP-ingame-CH-v162-Eng.jpg)
+
+_MAP-ingame-CH-v162-Eng.jpg_
+
+![](../assets/Coastal_Highway_map_by_Sniper_Bob.jpg)
+
+_Coastal\_Highway\_map\_by\_Sniper\_Bob.jpg_
 
 ### Locations (Old)
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Abandoned Lookout](../assets/Abandoned_Lookout.jpg) / *Abandoned Lookout* | ![Bear Creek Campground](../assets/Bear_Creek_Campground_02.jpg) / *Bear Creek Campground* | ![Coastal Townsite](../assets/Coastal_townsite_1.jpg) / *Coastal Townsite* | ![Commuter's Lament](../assets/Commuter%27s_Lament.jpg) / *Commuter's Lament* |
-| ![Jackrabbit Island](../assets/Jackrabbit_Island.jpg) / *Jackrabbit Island* | ![Fishing Camp](../assets/Fishing_Camp_-_fishing_cabins.jpg) / *Fishing Camp* | ![Log Sort](../assets/Log_Sort_-_trailer.jpg) / *Log Sort* | ![Misanthrope's Homestead](../assets/Misanthrope%27s_Homestead.jpg) / *Misanthrope's Homestead* |
-| \[Missing image: Quonset\_Gas\_Station\_exterior.jpg\] / *Quonset Gas Station* | ![Rabbit Grove](../assets/Rabbit_Grove.jpg) / *Rabbit Grove* | ![Rockfall](../assets/Rockfall.jpg) / *Rockfall* | ![Silent Clearing](../assets/Silent_Clearing.jpg) / *Silent Clearing* |
-| ![The Tooth](../assets/The_Tooth.jpg) / *The Tooth* | ![Train Unloading](../assets/Train_Unloading.jpg) / *Train Unloading* | ![Waterfront Cottages](../assets/Waterfront_Cottages.jpg) / *Waterfront Cottages* |  |
+![Abandoned Lookout](../assets/Abandoned_Lookout.jpg)
+
+_Abandoned Lookout_
+
+![Bear Creek Campground](../assets/Bear_Creek_Campground_02.jpg)
+
+_Bear Creek Campground_
+
+![Coastal Townsite](../assets/Coastal_townsite_1.jpg)
+
+_Coastal Townsite_
+
+![Commuter's Lament](../assets/Commuter%27s_Lament.jpg)
+
+_Commuter's Lament_
+
+![Jackrabbit Island](../assets/Jackrabbit_Island.jpg)
+
+_Jackrabbit Island_
+
+![Fishing Camp](../assets/Fishing_Camp_-_fishing_cabins.jpg)
+
+_Fishing Camp_
+
+![Log Sort](../assets/Log_Sort_-_trailer.jpg)
+
+_Log Sort_
+
+![Misanthrope's Homestead](../assets/Misanthrope%27s_Homestead.jpg)
+
+_Misanthrope's Homestead_
+
+\[Missing image: Quonset\_Gas\_Station\_exterior.jpg\]
+
+_Quonset Gas Station_
+
+![Rabbit Grove](../assets/Rabbit_Grove.jpg)
+
+_Rabbit Grove_
+
+![Rockfall](../assets/Rockfall.jpg)
+
+_Rockfall_
+
+![Silent Clearing](../assets/Silent_Clearing.jpg)
+
+_Silent Clearing_
+
+![The Tooth](../assets/The_Tooth.jpg)
+
+_The Tooth_
+
+![Train Unloading](../assets/Train_Unloading.jpg)
+
+_Train Unloading_
+
+![Waterfront Cottages](../assets/Waterfront_Cottages.jpg)
+
+_Waterfront Cottages_
 
 [fr:Autoroute Côtière](fr:Autoroute_C%C3%B4ti%C3%A8re) [es:Autovía litoral](es:Autov%C3%ADa_litoral)
 
@@ -175,8 +238,6 @@ There are several locations for [Safehouses](./Safehouse.md) in the Coastal High
 
 ### Miscellaneous
 
-| Column 1 |
-| --- |
-| ![A poster of Coastal Highway](../assets/Coastal_highway_poster.png) / *A poster of Coastal Highway* |
+![A poster of Coastal Highway](../assets/Coastal_highway_poster.png)
 
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**
+_A poster of Coastal Highway_

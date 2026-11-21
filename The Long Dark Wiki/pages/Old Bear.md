@@ -1,11 +1,6 @@
----
-title: "Old Bear"
-wiki_namespace: 0
-categories: ["Characters", "Story", "Wildlife"]
-source: "https://thelongdark.fandom.com/wiki/Old_Bear"
----
-
 # Old Bear
+
+**Categories:** Characters, Story, Wildlife · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Bear)
 
 **Contents**
 
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Old_Bear"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Old_Bear.png) / *Old\_Bear.png* |
+|  | ![](../assets/Old_Bear.png) / _Old\_Bear.png_ |
 | **Basic Information** |  |
 | Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321) |
 | Role | Predator |
@@ -39,10 +34,10 @@ source: "https://thelongdark.fandom.com/wiki/Old_Bear"
 | Size | Large |
 | Eyes | Brown |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
-> “**M - What's the story with this bear?  
- J - Story's real simple. That bear and me, we have unfinished business...Yeah. You could call it a trade in kind. Every time we meet, we each leave with a little of the other's blood.**”
+> “__M - What's the story with this bear?  
+ J - Story's real simple. That bear and me, we have unfinished business...Yeah. You could call it a trade in kind. Every time we meet, we each leave with a little of the other's blood.__”
 >
 > — [Mackenzie](./Will%20Mackenzie.md) and [Jeremiah](./Jeremiah.md) discussing the Old Bear.
 
@@ -98,23 +93,85 @@ The Old Bear is slated to appear in a third challenge.
 
 ### Redux Episode 2
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Steam Trading Card](../assets/Old_Bear_Steam_Card_Preview.png) / *Steam Trading Card* | ![Ditto, full screen](../assets/Old_Bear_Steam_Card.jpg) / *Ditto, full screen* | ![Demon Bear / Old Bear](../assets/Demonbear.jpg) / *Demon Bear / Old Bear* | ![The Spear Used To Kill The Bear](../assets/20190222163731_1.jpg) / *The Spear Used To Kill The Bear* |
-| ![The Bear Knocking Down The Train Car You're In.](../assets/Bear_attack_2.jpg) / *The Bear Knocking Down The Train Car You're In.* | ![The Bear Backing Off After Getting The Spear.](../assets/Bear_attack.jpg) / *The Bear Backing Off After Getting The Spear.* | ![The Old Bear attacking the player](../assets/The_Long_Dark_-_episode_two_-_jeremiahs_bear.png) / *The Old Bear attacking the player* | ![The 2 scars on his right side](../assets/Old_Bear_Scars.jpg) / *The 2 scars on his right side* |
+![Steam Trading Card](../assets/Old_Bear_Steam_Card_Preview.png)
+
+_Steam Trading Card_
+
+![Ditto, full screen](../assets/Old_Bear_Steam_Card.jpg)
+
+_Ditto, full screen_
+
+![Demon Bear
+
+Old Bear](../assets/Demonbear.jpg) / _Demon Bear / Old Bear_
+
+![The Spear Used To Kill The Bear](../assets/20190222163731_1.jpg)
+
+_The Spear Used To Kill The Bear_
+
+![The Bear Knocking Down The Train Car You're In.](../assets/Bear_attack_2.jpg)
+
+_The Bear Knocking Down The Train Car You're In._
+
+![The Bear Backing Off After Getting The Spear.](../assets/Bear_attack.jpg)
+
+_The Bear Backing Off After Getting The Spear._
+
+![The Old Bear attacking the player](../assets/The_Long_Dark_-_episode_two_-_jeremiahs_bear.png)
+
+_The Old Bear attacking the player_
+
+![The 2 scars on his right side](../assets/Old_Bear_Scars.jpg)
+
+_The 2 scars on his right side_
 
 ### Predux Episode 2
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![The Old Bear attacking Mackenzie (Predux)](../assets/Jeremiah%27s_Folly.jpg) / *The Old Bear attacking Mackenzie (Predux)* | ![The Old Bear slain in Jeremiah's Folly (Predux)](../assets/The_Old_Bear_dead.jpg) / *The Old Bear slain in [Jeremiah's Folly](./Jeremiah%27s%20Folly.md) (Predux)* | ![The arrows stuck in the Old Bear (Predux)](../assets/Dead_Old_Bear_Arrows.jpg) / *The arrows stuck in the Old Bear (Predux)* | ![The Old Bear's Ear (Predux)](../assets/The_Old_Bear%27s_Ear_icon.png) / *[The Old Bear's Ear](./The%20Old%20Bear%27s%20Ear.md) (Predux)* |
+![The Old Bear attacking Mackenzie (Predux)](../assets/Jeremiah%27s_Folly.jpg)
+
+_The Old Bear attacking Mackenzie (Predux)_
+
+![The Old Bear slain in Jeremiah's Folly (Predux)](../assets/The_Old_Bear_dead.jpg)
+
+_The Old Bear slain in [Jeremiah's Folly](./Jeremiah%27s%20Folly.md) (Predux)_
+
+![The arrows stuck in the Old Bear (Predux)](../assets/Dead_Old_Bear_Arrows.jpg)
+
+_The arrows stuck in the Old Bear (Predux)_
+
+![The Old Bear's Ear (Predux)](../assets/The_Old_Bear%27s_Ear_icon.png)
+
+_[The Old Bear's Ear](./The%20Old%20Bear%27s%20Ear.md) (Predux)_
 
 ### The Hunted Challenges
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![The Hunted, Part One](../assets/Challenge_Hunted.png) / *[The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md)* | ![Ditto, old icon](../assets/The_Hunted%2C_Part_One.png) / *Ditto, old icon* | ![The Hunted, Part One Badge](../assets/Badge_challenge_huntedPart2.png) / *The Hunted, Part One Badge* | ![The Hunted, Part One fanart](../assets/Hunted_1.jpg) / *The Hunted, Part One fanart* |
-| ![The Hunted, Part Two](../assets/Challenge_Hunted2.png) / *[The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md)* | ![The Badge awarded from The Hunted, Part Two](../assets/The_Hunted_Part_One_icon.png) / *The Badge awarded from The Hunted, Part Two* | ![The Hunted, Part Two fanart](../assets/Hunted_2.jpg) / *The Hunted, Part Two fanart* |  |
+![The Hunted, Part One](../assets/Challenge_Hunted.png)
+
+_[The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md)_
+
+![Ditto, old icon](../assets/The_Hunted%2C_Part_One.png)
+
+_Ditto, old icon_
+
+![The Hunted, Part One Badge](../assets/Badge_challenge_huntedPart2.png)
+
+_The Hunted, Part One Badge_
+
+![The Hunted, Part One fanart](../assets/Hunted_1.jpg)
+
+_The Hunted, Part One fanart_
+
+![The Hunted, Part Two](../assets/Challenge_Hunted2.png)
+
+_[The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md)_
+
+![The Badge awarded from The Hunted, Part Two](../assets/The_Hunted_Part_One_icon.png)
+
+_The Badge awarded from The Hunted, Part Two_
+
+![The Hunted, Part Two fanart](../assets/Hunted_2.jpg)
+
+_The Hunted, Part Two fanart_
 
 ## Trivia
 
@@ -125,5 +182,3 @@ The Old Bear is slated to appear in a third challenge.
 - In The Hunted, Part Two, the bear follows a very specific path as it runs across Mystery Lake. If the player doesn't see the old bear, they might need to walk along a certain path to get it to spawn.
 - In Episode 2, unlike normal bears The Old Bear when charging at the Mackenzie is unaffected by the [distress pistol](./Distress%20Pistol.md), although in the [Challenge: The Hunted](./The%20Hunted%2C%20Part%20One.md) it is deterred by distress pistol shots.
 - Old Bear especially by its other names ("Demon Bear" or "Evil Spirit") and the [The Bear Spear](./Bear%20Spear.md) and [Old Spence's](./Old%20Spence%20Family%20Homestead.md) story are references to the fantasy manga ["Ushio &amp; Tora" (うしおととら)](https://en.wikipedia.org/wiki/Ushio_%26_Tora) written and illustrated by Kazuhiro Fujita. Both stories feature a supernatural spear with red cloth around its neck forged by a character driven mad for revenge to kill "evil spirits".
-
-**Lua execution error in Module:Navbox function navbox** [ru:Старина Медведь](ru:%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C)

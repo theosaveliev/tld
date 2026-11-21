@@ -1,11 +1,6 @@
----
-title: "Jeremiah"
-wiki_namespace: 0
-categories: ["Characters"]
-source: "https://thelongdark.fandom.com/wiki/Jeremiah"
----
-
 # Jeremiah
+
+**Categories:** Characters · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah)
 
 **Contents**
 
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Jeremiah"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Jeremiah.png) / *Jeremiah.png* |
+|  | ![](../assets/Jeremiah.png) / _Jeremiah.png_ |
 | Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00) |
 | Date | 1 August 2017 |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
@@ -41,7 +36,7 @@ source: "https://thelongdark.fandom.com/wiki/Jeremiah"
 | **Game Information** |  |
 | Voiced by | [David Hayter](wikipedia:David_Hayter) |
 
-> “**A tough old trapper and hermit. Lives alone in the wilderness of Mystery Lake. Doesn't seem to like people much.**”
+> “__A tough old trapper and hermit. Lives alone in the wilderness of Mystery Lake. Doesn't seem to like people much.__”
 >
 > — In-game description
 
@@ -124,25 +119,88 @@ It is eventually revealed in Episode 5 that Jeremiah served in the Canadian Mili
 
 ### Predux Episode 2
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Jeremiah opening the hidden floorboard](../assets/Jeremiah_Floor_Hatch_Opening.jpg) / *Jeremiah opening the hidden floorboard* | ![The hidden shortwave](../assets/Trapper%27s_Cabin_Hidden_Ham_Radio.jpg) / *The hidden shortwave* | ![Jeremiah teaching Mackenzie his Survival School skills](../assets/The_Long_Dark_-_episode_two_-_survival_school.png) / *Jeremiah teaching Mackenzie his Survival School skills* | ![Mackenzie Tending to the wounded Trapper](../assets/The_Long_Dark_-_episode_2_trappers_cabin.png) / *Mackenzie Tending to the wounded Trapper* |
-| ![What I Know icon](../assets/People_Jeremiah.png) / *What I Know icon* | ![Jeremiah's Knife](../assets/Jeremiah%27s_Knife_icon.png) / *[Jeremiah's Knife](./Jeremiah%27s%20Knife.md)* | ![Jeremiah's Bearskin Coat](../assets/Jeremiah%27s_Bearskin_Coat_icon.png) / *[Jeremiah's Bearskin Coat](./Jeremiah%27s%20Bearskin%20Coat.md)* | ![Jeremiah's Papers](../assets/Jeremiah%27s_Papers_icon.png) / *[Jeremiah's Papers](./Jeremiah%27s%20Papers.md)* |
-| ![The cut Trust menu](../assets/Jeremiah_Trust_Menu.jpg) / *The cut Trust menu* | ![Jeremiah at the start of Risk of Infection](../assets/Risk_of_Infection.jpg) / *Jeremiah at the start of [Risk of Infection](./Risk%20of%20Infection.md)* |  |  |
+![Jeremiah opening the hidden floorboard](../assets/Jeremiah_Floor_Hatch_Opening.jpg)
+
+_Jeremiah opening the hidden floorboard_
+
+![The hidden shortwave](../assets/Trapper%27s_Cabin_Hidden_Ham_Radio.jpg)
+
+_The hidden shortwave_
+
+![Jeremiah teaching Mackenzie his Survival School skills](../assets/The_Long_Dark_-_episode_two_-_survival_school.png)
+
+_Jeremiah teaching Mackenzie his Survival School skills_
+
+![Mackenzie Tending to the wounded Trapper](../assets/The_Long_Dark_-_episode_2_trappers_cabin.png)
+
+_Mackenzie Tending to the wounded Trapper_
+
+![What I Know icon](../assets/People_Jeremiah.png)
+
+_What I Know icon_
+
+![Jeremiah's Knife](../assets/Jeremiah%27s_Knife_icon.png)
+
+_[Jeremiah's Knife](./Jeremiah%27s%20Knife.md)_
+
+![Jeremiah's Bearskin Coat](../assets/Jeremiah%27s_Bearskin_Coat_icon.png)
+
+_[Jeremiah's Bearskin Coat](./Jeremiah%27s%20Bearskin%20Coat.md)_
+
+![Jeremiah's Papers](../assets/Jeremiah%27s_Papers_icon.png)
+
+_[Jeremiah's Papers](./Jeremiah%27s%20Papers.md)_
+
+![The cut Trust menu](../assets/Jeremiah_Trust_Menu.jpg)
+
+_The cut Trust menu_
+
+![Jeremiah at the start of Risk of Infection](../assets/Risk_of_Infection.jpg)
+
+_Jeremiah at the start of [Risk of Infection](./Risk%20of%20Infection.md)_
 
 ### Redux Episode 1
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Jeremiah being attacked by the Old Bear](../assets/Jeremiah_and_the_Old_Bear.jpg) / *Jeremiah being attacked by the Old Bear* | ![Ditto](../assets/Jeremiah_and_the_Old_Bear_2.jpg) / *Ditto* |
+![Jeremiah being attacked by the Old Bear](../assets/Jeremiah_and_the_Old_Bear.jpg)
+
+_Jeremiah being attacked by the Old Bear_
+
+![Ditto](../assets/Jeremiah_and_the_Old_Bear_2.jpg)
+
+_Ditto_
 
 ### Redux Episode 2
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Steam Trading Card](../assets/Jeremiah_Steam_Card_Preview.png) / *Steam Trading Card* | ![Ditto, full screen](../assets/Jeremiah_Steam_Card.jpg) / *Ditto, full screen* | ![Jeremiah resting in bed.](../assets/Jeremiah_in_bed.jpg) / *Jeremiah resting in bed.* | ![ditto](../assets/Jeremiah_injured.jpg) / *ditto* |
-| ![Jeremiah unconscious on the bed.](../assets/The_Long_Dark_20170812233655.jpg) / *Jeremiah unconscious on the bed.* | ![Jeremiah recounting the tale of the "Demon Bear"](../assets/Demon_bear_legend_fire.jpg) / *Jeremiah recounting the tale of the "Demon Bear"* | ![Jeremiah with the military cartography map](../assets/Jeremiah_Military_Map.jpg) / *Jeremiah with the military cartography map* | ![Jeremiah's Shortwave Radio and Hunting Rifle.](../assets/Episode_2_radio.jpg) / *Jeremiah's Shortwave Radio and Hunting Rifle.* |
+![Steam Trading Card](../assets/Jeremiah_Steam_Card_Preview.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Steam Trading Card_
+
+![Ditto, full screen](../assets/Jeremiah_Steam_Card.jpg)
+
+_Ditto, full screen_
+
+![Jeremiah resting in bed.](../assets/Jeremiah_in_bed.jpg)
+
+_Jeremiah resting in bed._
+
+![ditto](../assets/Jeremiah_injured.jpg)
+
+_ditto_
+
+![Jeremiah unconscious on the bed.](../assets/The_Long_Dark_20170812233655.jpg)
+
+_Jeremiah unconscious on the bed._
+
+![Jeremiah recounting the tale of the "Demon Bear"](../assets/Demon_bear_legend_fire.jpg)
+
+_Jeremiah recounting the tale of the "Demon Bear"_
+
+![Jeremiah with the military cartography map](../assets/Jeremiah_Military_Map.jpg)
+
+_Jeremiah with the military cartography map_
+
+![Jeremiah's Shortwave Radio and Hunting Rifle.](../assets/Episode_2_radio.jpg)
+
+_Jeremiah's Shortwave Radio and Hunting Rifle._
 
 [fr:Jeremiah](fr:Jeremiah) [ru:Джереми](ru:%D0%94%D0%B6%D0%B5%D1%80%D0%B5%D0%BC%D0%B8)

@@ -1,11 +1,6 @@
----
-title: "Bearskin Coat"
-wiki_namespace: 0
-categories: ["Clothing", "Craftable clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Bearskin_Coat"
----
-
 # Bearskin Coat
+
+**Categories:** Clothing, Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bearskin_Coat)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Bearskin_Coat"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bearskin_Coat_icon.png) / *Bearskin\_Coat\_icon.png* |
+|  | ![](../assets/Bearskin_Coat_icon.png) / _Bearskin\_Coat\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Outer torso |
@@ -33,11 +28,11 @@ source: "https://thelongdark.fandom.com/wiki/Bearskin_Coat"
 | Harvest | 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / 120 minutes |
 | Repair | 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md), / 2 × [Cured Gut](./Cured%20Gut.md) / 120 minutes / 40% condition |
 
-> “**If it's good enough for the Bear, it's good enough for you. Heavy, bulky, but very warm and one of the toughest things around. You may not run from much, but you may not need to either.**”
+> “__If it's good enough for the Bear, it's good enough for you. Heavy, bulky, but very warm and one of the toughest things around. You may not run from much, but you may not need to either.__”
 >
 > — In-game description
 
-The **Bearskin Coat** is a type of craftable clothing in *The Long Dark*.
+The **Bearskin Coat** is a type of craftable clothing in _The Long Dark_.
 
 ## Overview
 
@@ -71,13 +66,15 @@ As of the [Hesitant Prospect Update](./The%20Long%20Dark%20%E2%80%94%20Changelog
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model](../assets/Bearskin_Coat_Model_icon.png) / *Clothing model* | ![Clothing model damaged](../assets/Bearskin_Coat_Model_Damaged_icon.png) / *Clothing model damaged* |
+![Clothing model](../assets/Bearskin_Coat_Model_icon.png)
+
+_Clothing model_
+
+![Clothing model damaged](../assets/Bearskin_Coat_Model_Damaged_icon.png)
+
+_Clothing model damaged_
 
 ## Update history
 
 - UPDATE **26 September 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.23)):**
   - Fixed an issue where Bearskin Coats only required 1 hide to craft instead of the intended 2.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Медвежья шуба](ru:%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B6%D1%8C%D1%8F_%D1%88%D1%83%D0%B1%D0%B0)

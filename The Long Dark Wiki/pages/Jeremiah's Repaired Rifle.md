@@ -1,17 +1,12 @@
----
-title: "Jeremiah's Repaired Rifle"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Repaired_Rifle"
----
-
 # Jeremiah's Repaired Rifle
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Repaired_Rifle)
 
 **Jeremiah's Repaired Rifle**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Jeremiah%27s_Repaired_Rifle_icon.png) / *Jeremiah's\_Repaired\_Rifle\_icon.png* |
+|  | ![](../assets/Jeremiah%27s_Repaired_Rifle_icon.png) / _Jeremiah's\_Repaired\_Rifle\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - You Fix My Rifle? |
 | **Properties** |  |
@@ -24,7 +19,7 @@ source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Repaired_Rifle"
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 
-> “**Damn...not bad for a pilot. You're full of surprises. Maybe he can make it after all.**”
+> “__Damn...not bad for a pilot. You're full of surprises. Maybe he can make it after all.__”
 >
 > — [Jeremiah](./Jeremiah.md) looking over his repaired rifle.
 
@@ -42,5 +37,3 @@ Even after being repaired, it cannot be fired, and the player would have to find
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from the game as part of the Redux edition.
-
-**Lua execution error in Module:Navbox function navbox**

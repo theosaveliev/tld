@@ -1,17 +1,12 @@
----
-title: "Rustic Closet"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Rustic_Closet"
----
-
 # Rustic Closet
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rustic_Closet)
 
 **Rustic Closet**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rustic_Closet_icon.png) / *Rustic\_Closet\_icon.png* |
+|  | ![](../assets/Rustic_Closet_icon.png) / _Rustic\_Closet\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 15.00 kg (33 lbs) |
@@ -58,5 +53,3 @@ Despite having a Backpack carry weight value, the closet cannot be picked up and
 | **Template:iconlink plain** |  |
 |  | [Scrap Metal](./Scrap%20Metal.md) |
 |  | 2 |
-
-**Lua execution error in Module:Navbox function navbox** [ru:Шкаф в деревенском стиле](ru:%D0%A8%D0%BA%D0%B0%D1%84_%D0%B2_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D1%81%D1%82%D0%B8%D0%BB%D0%B5)

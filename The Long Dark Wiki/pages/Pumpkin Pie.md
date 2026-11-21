@@ -1,11 +1,6 @@
----
-title: "Pumpkin Pie"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Pumpkin_Pie"
----
-
 # Pumpkin Pie
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pumpkin_Pie)
 
 **Contents**
 
@@ -22,7 +17,7 @@ source: "https://thelongdark.fandom.com/wiki/Pumpkin_Pie"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Pumpkin_Pie_icon.png) / *Pumpkin\_Pie\_icon.png* |
+|  | ![](../assets/Pumpkin_Pie_icon.png) / _Pumpkin\_Pie\_icon.png_ |
 | Release | [30 October 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.373) |
 | Wintermute | No |
 | **Properties** |  |
@@ -36,11 +31,11 @@ source: "https://thelongdark.fandom.com/wiki/Pumpkin_Pie"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_PumpkinPie |
 
-> “**A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Wildlife are known to be turned off by the scent of pumpkin.**”
+> “__A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Wildlife are known to be turned off by the scent of pumpkin.__”
 >
 > — 4DON description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Has been known to confuse pursuing entities.**
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Has been known to confuse pursuing entities.__
 
 Escape the Darkwalker description
 
@@ -88,13 +83,19 @@ Pumpkin Pies spawn inside major structures such as the [Camp Office](./Camp%20Of
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![A pumpkin pie on the stove in the Pleasant Valley Farmstead](../assets/PVPumpkin.jpg) / *A pumpkin pie on the stove in the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md)* | ![Item description in 4DON](../assets/Pumpkin_pie.png) / *Item description in 4DON* | ![Item description in Escape the Darkwalker](../assets/Pumpkin_Pie_Darkwalker.png) / *Item description in Escape the Darkwalker* |
+![A pumpkin pie on the stove in the Pleasant Valley Farmstead](../assets/PVPumpkin.jpg)
+
+_A pumpkin pie on the stove in the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md)_
+
+![Item description in 4DON](../assets/Pumpkin_pie.png)
+
+_Item description in 4DON_
+
+![Item description in Escape the Darkwalker](../assets/Pumpkin_Pie_Darkwalker.png)
+
+_Item description in Escape the Darkwalker_
 
 ## Update history
 
 - UPDATE **30 October 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.373)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Тыквенный пирог](ru:%D0%A2%D1%8B%D0%BA%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B8%D1%80%D0%BE%D0%B3)

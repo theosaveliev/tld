@@ -1,17 +1,12 @@
----
-title: "Plane Crash Injuries"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Plane_Crash_Injuries"
----
-
 # Plane Crash Injuries
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Plane_Crash_Injuries)
 
 **Plane Crash Injuries**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Plane_Crash_Injuries_icon.png) / *Plane\_Crash\_Injuries\_icon.png* |
+|  | ![](../assets/Plane_Crash_Injuries_icon.png) / _Plane\_Crash\_Injuries\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Update | 1.00 |
 | Story | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Survival Of The Fittest](./Survival%20Of%20The%20Fittest.md) |
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Plane_Crash_Injuries"
 | **Treatment** |  |
 | Recovery Time | Complete the Tutorial until Day 5 |
 
-> “**After the plane crash you are concussed, badly briused(sic) and feeling weak. Your hand was wounded during the crash. You will not be able to climb or hold weapons until it heals through rest.**”
+> “__After the plane crash you are concussed, badly briused(sic) and feeling weak. Your hand was wounded during the crash. You will not be able to climb or hold weapons until it heals through rest.__”
 >
 > — In-game description
 
@@ -49,5 +44,3 @@ In the Redux, Mackenzie instead wakes up with [Blood Loss](./Blood%20Loss.md), a
   - Removed from the game.
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

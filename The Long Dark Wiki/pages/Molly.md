@@ -1,11 +1,6 @@
----
-title: "Molly"
-wiki_namespace: 0
-categories: ["Characters", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Molly"
----
-
 # Molly
+
+**Categories:** Characters, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Molly)
 
 **Contents**
 
@@ -24,7 +19,7 @@ source: "https://thelongdark.fandom.com/wiki/Molly"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Molly.png) / *Molly.png* |
+|  | ![](../assets/Molly.png) / _Molly.png_ |
 | Release | [Crossroads Elegy (v1.60)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Date | 22 October 2019 |
 | Wintermute | [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) |
@@ -42,13 +37,13 @@ source: "https://thelongdark.fandom.com/wiki/Molly"
 | Equipment | **•** [Hunting rifle](./Hunting%20Rifle.md) / **•** [Survival bow](./Survival%20Bow.md) |
 | Voiced by | Jennifer Kitchen |
 
-> “**Years on a working farm in a remote corner of Great Bear Island have left their mark on Molly. She’s plain-spoken, often blunt -- she sees the world for what it is. There are no illusions inhabiting Molly’s life and she likes it that way.  
+> “__Years on a working farm in a remote corner of Great Bear Island have left their mark on Molly. She’s plain-spoken, often blunt -- she sees the world for what it is. There are no illusions inhabiting Molly’s life and she likes it that way.  
    
- Other than the farm and regular subsistence hunting, simple pleasures -- tea and the wanderings of her own imagination -- keep Molly occupied.**”
+ Other than the farm and regular subsistence hunting, simple pleasures -- tea and the wanderings of her own imagination -- keep Molly occupied.__”
 >
 > — In-game description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **"There's different ways to hurt someone. Some ways heals. Other ways never do."**
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __"There's different ways to hurt someone. Some ways heals. Other ways never do."__
 
 Molly speaking to [Astrid](./Astrid%20Greenwood.md) about her past
 
@@ -94,16 +89,29 @@ Molly and Astrid's phone calls may have briefly connected to the [Hunting Lodge'
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Molly finding Astrid in the snow](../assets/Astrid_in_snow.jpg) / *Molly finding Astrid in the snow* | ![Molly introduces herself to Astrid](../assets/Molly_cinematic.jpg) / *Molly introduces herself to Astrid* | ![Molly's dead husband in the basement](../assets/Molly%27s_Husband.jpg) / *Molly's dead husband in the basement* | ![A photo of Molly and her husband](../assets/Molly%27s_Husband_Picture.png) / *A photo of Molly and her husband* |
-| ![](../assets/Missions_story_ep3_Trauma.png) / *Missions\_story\_ep3\_Trauma.png* |  |  |  |
+![Molly finding Astrid in the snow](../assets/Astrid_in_snow.jpg)
+
+_Molly finding Astrid in the snow_
+
+![Molly introduces herself to Astrid](../assets/Molly_cinematic.jpg)
+
+_Molly introduces herself to Astrid_
+
+![Molly's dead husband in the basement](../assets/Molly%27s_Husband.jpg)
+
+_Molly's dead husband in the basement_
+
+![A photo of Molly and her husband](../assets/Molly%27s_Husband_Picture.png)
+
+_A photo of Molly and her husband_
+
+![](../assets/Missions_story_ep3_Trauma.png)
+
+_Missions\_story\_ep3\_Trauma.png_
 
 ## Update History
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [fr:Molly](fr:Molly) [ru:Молли](ru:%D0%9C%D0%BE%D0%BB%D0%BB%D0%B8)

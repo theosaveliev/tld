@@ -1,17 +1,12 @@
----
-title: "Broken Body"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Broken_Body"
----
-
 # Broken Body
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Broken_Body)
 
 **Broken Body**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Broken_Body_icon.png) / *Broken\_Body\_icon.png* |
+|  | ![](../assets/Broken_Body_icon.png) / _Broken\_Body\_icon.png_ |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Update | 2.28 |
 | **Properties** |  |
@@ -24,13 +19,13 @@ source: "https://thelongdark.fandom.com/wiki/Broken_Body"
 | **Treatment** |  |
 | Recovery Time | No Treatment |
 
-**Broken Body** is an [Affliction](./Afflictions.md) found within *[The Long Dark](./The%20Long%20Dark.md)*. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
+**Broken Body** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
 
 ## Overview
 
-> “**Your body carries the weight of a dying world.  
+> “__Your body carries the weight of a dying world.  
    
- You have lost the ability to recover Condition and are twice as vulnerable to physical damage.**”
+ You have lost the ability to recover Condition and are twice as vulnerable to physical damage.__”
 >
 > — In-game Description
 
@@ -50,5 +45,3 @@ Broken Body is a permanent Affliction unique to [Misery Mode](./Misery.md) which
 - Has synergy with the Misery affliction "[Sour Stomach](./Sour%20Stomach.md)", which disables the benefit from [Cooking Skill](./Cooking.md) level 5 preventing [Food Poisoning](./Food%20Poisoning.md) risk when eating cooked or [artificial food](./Tin%20of%20Sardines.md).
 - Has synergy with the Misery affliction "[Frigid Bones](./Frigid%20Bones.md)", which reduces the survivor's [Feels Like](./Feels%20Like.md) temperature and the rate which [Warmth](./Warmth.md) refills.
 - Has negative synergy with the Misery affliction "[Haunted Mind](./Haunted%20Mind.md)", which reduces Condition recovery from [Sleep](./Sleep.md) by 50%, while Broken Body disables all forms of Condition recovery completely.
-
-**Lua execution error in Module:Navbox function navbox**[ru:Сломленное тело](ru:%D0%A1%D0%BB%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D0%BB%D0%BE)

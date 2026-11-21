@@ -1,17 +1,12 @@
----
-title: "Paddle"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Paddle"
----
-
 # Paddle
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paddle)
 
 **Paddle**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Paddle.jpg) / *Paddle.jpg* |
+|  | ![](../assets/Paddle.jpg) / _Paddle.jpg_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | No |
@@ -29,5 +24,3 @@ A **Paddle** is a rare harvestable item found inside the [Orca Gas Station](./Or
 | 2 | 6 minutes | 20 | -2% Hatchet |
 | 2 |  |  | -3% Improvised Hatchet |
 | 2 |  |  | -0.5% Heavy Hammer |
-
-**Lua execution error in Module:Navbox function navbox**

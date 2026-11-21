@@ -1,17 +1,12 @@
----
-title: "Cured Moose Hide"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cured_Moose_Hide"
----
-
 # Cured Moose Hide
+
+**Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cured_Moose_Hide)
 
 **Cured Moose Hide**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cured_Moose_Hide_icon.png) / *Cured\_Moose\_Hide\_icon.png* |
+|  | ![](../assets/Cured_Moose_Hide_icon.png) / _Cured\_Moose\_Hide\_icon.png_ |
 | Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16) |
 | Wintermute | No |
 | **Properties** |  |
@@ -35,5 +30,3 @@ Fresh Moose Hides are a very rare resource to obtain, since they require first f
 
 - UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)):**
   - Added to the game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Высушенная лосиная шкура](ru:%D0%92%D1%8B%D1%81%D1%83%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BB%D0%BE%D1%81%D0%B8%D0%BD%D0%B0%D1%8F_%D1%88%D0%BA%D1%83%D1%80%D0%B0)

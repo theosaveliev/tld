@@ -1,16 +1,12 @@
----
-title: "Conflagration"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Conflagration"
----
-
 # Conflagration
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Conflagration)
 
 **Conflagration**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Missions_story_ep5_Conflagration.png) / *Missions\_story\_ep5\_Conflagration.png* |
+|  | ![](../assets/Missions_story_ep5_Conflagration.png) / _Missions\_story\_ep5\_Conflagration.png_ |
 | Episode |  |
 | **Missions** |  |
 | Previous | [To SAR And Back](./To%20SAR%20And%20Back.md) |
@@ -18,9 +14,9 @@ source: "https://thelongdark.fandom.com/wiki/Conflagration"
 | Region | [Perseverance Mills](./Perseverance%20Mills.md) |
 | Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) / [Mathis](./Mathis.md) / [Jane Yang](./Jane%20Yang.md) / [Donner](./Donner.md) / [Heller](./Heller.md) / [Vachon](./Vachon.md) / [Jeremiah](./Jeremiah.md) / [Molly](./Molly.md) / [Methuselah](./Methuselah.md) / [Convicts](./Convicts.md) |
 
-> “**Prepare for the Quiet Apocalypse.**”
+> “__Prepare for the Quiet Apocalypse.__”
 
-**Conflagration** is the only mission of Part Four: Terminus in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [*The Long Dark*](./The%20Long%20Dark.md). It is the last mission in the Episode, and the last mission of the Wintermute story.
+**Conflagration** is the only mission of Part Four: Terminus in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md). It is the last mission in the Episode, and the last mission of the Wintermute story.
 
 ## Objectives
 
@@ -32,5 +28,3 @@ source: "https://thelongdark.fandom.com/wiki/Conflagration"
 ## Walkthrough
 
 ## Trivia
-
-**Lua execution error in Module:Navbox function navbox**

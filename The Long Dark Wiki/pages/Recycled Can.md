@@ -1,11 +1,6 @@
----
-title: "Recycled Can"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Recycled_Can"
----
-
 # Recycled Can
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Recycled_Can)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Recycled_Can"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Recycled_Can_icon.png) / *Recycled\_Can\_icon.png* |
+|  | ![](../assets/Recycled_Can_icon.png) / _Recycled\_Can\_icon.png_ |
 | Release | [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -77,5 +72,3 @@ A [Can](./Can.md) can also be harvested for a Recycled Can.
   - \[All\] Fixed players being able to use a Recycled Can/Cooking Pot to cook when the item was at 0% Condition.
 - UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Пустая банка](ru:%D0%9F%D1%83%D1%81%D1%82%D0%B0%D1%8F_%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0)

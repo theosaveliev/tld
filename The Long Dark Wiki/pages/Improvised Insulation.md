@@ -1,17 +1,12 @@
----
-title: "Improvised Insulation"
-wiki_namespace: 0
-categories: ["Clothing", "Craftable clothing", "DLC Content", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Improvised_Insulation"
----
-
 # Improvised Insulation
+
+**Categories:** Clothing, Craftable clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Insulation)
 
 **Improvised Insulation**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Improvised_Insulation_icon.png) / *Improvised\_Insulation\_icon.png* |
+|  | ![](../assets/Improvised_Insulation_icon.png) / _Improvised\_Insulation\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -26,7 +21,7 @@ source: "https://thelongdark.fandom.com/wiki/Improvised_Insulation"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | **A simple base layer made from down feathers. Warms the core when equipped.** | ” |
+| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __A simple base layer made from down feathers. Warms the core when equipped.__ | ” |
 
 **Improvised Insulation** is an insulated base layer [Clothing](./Clothing.md) accessory added to the paid update of Part 3: Frontier Comforts for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion. It is made from [Cloth](./Cloth.md) and [Ptarmigan Down](./Ptarmigan%20Down.md) feathers harvested from hunted [Ptarmigans](./Ptarmigan.md).
 
@@ -52,13 +47,15 @@ source: "https://thelongdark.fandom.com/wiki/Improvised_Insulation"
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Improvised_Insulation_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Improvised_Insulation_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Clothing model icon](../assets/Improvised_Insulation_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Improvised_Insulation_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Утеплённая подкладка](ru:%D0%A3%D1%82%D0%B5%D0%BF%D0%BB%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0)

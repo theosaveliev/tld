@@ -1,11 +1,6 @@
----
-title: "Survival School (Predux)/Transcript"
-wiki_namespace: 0
-categories: ["Episode 2"]
-source: "https://thelongdark.fandom.com/wiki/Survival_School_(Predux)%2FTranscript"
----
-
 # Survival School \(Predux\)/Transcript
+
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survival_School_%28Predux%29%2FTranscript)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Survival_School_(Predux)%2FTranscri
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Long_Dark_-_episode_two_-_survival_school.png) / *The\_Long\_Dark\_-\_episode\_two\_-\_survival\_school.png* |
+|  | ![](../assets/The_Long_Dark_-_episode_two_-_survival_school.png) / _The\_Long\_Dark\_-\_episode\_two\_-\_survival\_school.png_ |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
 | Previous | You Fix My Rifle?/Transcript |
 | Current | Survival School (Predux)/Transcript |
@@ -36,7 +31,7 @@ CHAPTER THREE
 
 SURVIVAL SCHOOL
 
-*The cutscene from the previous mission ends, and a dialogue compass appears.*
+_The cutscene from the previous mission ends, and a dialogue compass appears._
 
 - SURVIVAL SCHOOL?
 
@@ -192,7 +187,7 @@ Jeremiah **(Text)**: "The old ways are the new ways again."
 
 Mackenzie **(Text)**: "I'd better get going."
 
-*Once the player is done asking Jeremiah questions, picking the next option begins the main mission*
+_Once the player is done asking Jeremiah questions, picking the next option begins the main mission_
 
 - SURVIVAL LESSIONS
 
@@ -200,15 +195,15 @@ Mackenzie **(Text)**: "Let's talk about some survival skills."
 
 Jeremiah **(Text)**: "What do you want to tackle?"
 
-*If the player choses NOTHING*
+_If the player choses NOTHING_
 
 - NOTHING
 
 Mackenzie **(Text)**: "Nothing right now. I'll be back."
 
-*The player is presented with 4 options. They can be chosen and completed in any order desired, but must be completed at some point*
+_The player is presented with 4 options. They can be chosen and completed in any order desired, but must be completed at some point_
 
-*If the player accepts a lesson, talks to Jeremiah, and selects SURVIVAL LESSIONS again*
+_If the player accepts a lesson, talks to Jeremiah, and selects SURVIVAL LESSIONS again_
 
 Mackenzie **(Text)**: "Let's talk about some survival skills."
 
@@ -242,7 +237,7 @@ Mackenzie **(Text)**: "I'll be back with the fish."
 
 Jeremiah **(Text)**: "I can smell it already."
 
-*Mackenzie heads to the [Camp Office](./Camp%20Office.md) and crafts a Fishing Tackle, the Ice Fishes at Mystery Lake. He returns to the Homestead, and then places the raw fish in the nearby Supply Bin. If the player asks about this lesson again after completing it*
+_Mackenzie heads to the [Camp Office](./Camp%20Office.md) and crafts a Fishing Tackle, the Ice Fishes at Mystery Lake. He returns to the Homestead, and then places the raw fish in the nearby Supply Bin. If the player asks about this lesson again after completing it_
 
 Jeremiah **(Text)**: "You know what you need to know about Ice Fishing now. Not much more that I can tell you."
 
@@ -280,7 +275,7 @@ Mackenzie **(Text)**: "Yeah, I'll give it a shot."
 
 Jeremiah **(Text)**: "Then good luck. Come back to me when you've bagged one."
 
-*Mackenzie heads to the [Unnamed Pond](./Unnamed%20Pond.md), kills a [Deer](./Deer.md) or two, then places the raw meat in the nearby Supply Bin outside the Homestead. If the player asks about this lesson again after completing it*
+_Mackenzie heads to the [Unnamed Pond](./Unnamed%20Pond.md), kills a [Deer](./Deer.md) or two, then places the raw meat in the nearby Supply Bin outside the Homestead. If the player asks about this lesson again after completing it_
 
 Jeremiah **(Text)**: "I think you've shot enough deer for one day. You're done with that."
 
@@ -328,13 +323,13 @@ Mackenzie **(Text)**: "Alright, I'll be back with your damn coat. Good as new."
 
 Jeremiah **(Text)**: "That's the spirit."
 
-*Mackenzie heads to the [Forestry Lookout](./Forestry%20Lookout.md), repairs [Jeremiah's Bearskin Coat](./Jeremiah%27s%20Bearskin%20Coat.md) with a [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) lying up there, and then returns to the Homestead to give it to Jeremiah.*
+_Mackenzie heads to the [Forestry Lookout](./Forestry%20Lookout.md), repairs [Jeremiah's Bearskin Coat](./Jeremiah%27s%20Bearskin%20Coat.md) with a [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) lying up there, and then returns to the Homestead to give it to Jeremiah._
 
 Mackenzie **(Text)**: "I've got your coat. Good as new."
 
 Jeremiah **(Text)**: "Good enough, anyways."
 
-*If the player asks about this lesson again after completing it*
+_If the player asks about this lesson again after completing it_
 
 Jeremiah **(Text)**: "Thanks for fixing my coat. That'll do, as far as mending lessons."
 
@@ -366,13 +361,13 @@ Mackenzie **(Text)**: "Yeah, I'm ready."
 
 Jeremiah **(Text)**: "Then go to it, oh mighty killer of fuzzy animals."
 
-*Mackenzie leaves the Trapper's Homestead, finding the necessary amount of plants and fungi, and deposits them in the nearby Supply Bin outside the Homestead. If the player asks about this lesson again after completing it*
+_Mackenzie leaves the Trapper's Homestead, finding the necessary amount of plants and fungi, and deposits them in the nearby Supply Bin outside the Homestead. If the player asks about this lesson again after completing it_
 
 Jeremiah **(Text)**: "I suspect you know how to find the plants you need now. Next subject."
 
 ## Return to Jeremiah.
 
-*After completing all 4 tasks requested of him, Mackenzie returns to Jeremiah. A 3rd person cutscene begins with Mackenzie walking to Jeremiah*
+_After completing all 4 tasks requested of him, Mackenzie returns to Jeremiah. A 3rd person cutscene begins with Mackenzie walking to Jeremiah_
 
 Jeremiah: "Hmph. Not bad for a pilot."
 
@@ -380,13 +375,13 @@ Mackenzie: "Yeah, well...thanks for the help. I think I'm ready to get out of he
 
 Jeremiah: "I have a little graduation present for you."
 
-*Jeremiah reaches behind him and produces [his personal Knife](./Jeremiah%27s%20Knife.md)*
+_Jeremiah reaches behind him and produces [his personal Knife](./Jeremiah%27s%20Knife.md)_
 
 Mackenzie: "Oh yeah?"
 
 Jeremiah: "Here."
 
-*He tosses the knife to Mackenzie, who catches and studies the rather large knife*
+_He tosses the knife to Mackenzie, who catches and studies the rather large knife_
 
 Mackenzie: "Well...thanks."
 
@@ -394,13 +389,13 @@ Jeremiah: "You've earned it. And I have a feeling that you're going to be needin
 
 Mackenzie: "I have a feeling you might be right."
 
-*The cutscene ends as the player stands over Jeremiah. The message "JEREMIAH NOW TRUSTS YOU MORE NOW. (+15)" appears. Talking to him triggers another 3rd person cutscene*
+_The cutscene ends as the player stands over Jeremiah. The message "JEREMIAH NOW TRUSTS YOU MORE NOW. (+15)" appears. Talking to him triggers another 3rd person cutscene_
 
-*Mackenzie is sitting on the bench with his Rifle next to him. Jeremiah is sitting on the cot nearby*
+_Mackenzie is sitting on the bench with his Rifle next to him. Jeremiah is sitting on the cot nearby_
 
 Mackenzie: "Look...I appreciate your help in learning how to survive out here. I really do. But...my friend is still out there, and they may need my help. It's time I got going."
 
-*Mackenzie gets up as Jeremiah speaks*
+_Mackenzie gets up as Jeremiah speaks_
 
 Jeremiah: "Like I said before, Mackenzie. There's only one way out of here - - through that Dam."
 
@@ -454,12 +449,12 @@ Jeremiah: "Oh yeah?"
 
 Mackenzie: "Yeah. Or I'll be sending the Old Bear back for you."
 
-Jeremiah: *He chuckles* "Remember, Mackenzie. Wait till you see the whites of his eyes. Then squeeze the trigger."
+Jeremiah: _He chuckles_ "Remember, Mackenzie. Wait till you see the whites of his eyes. Then squeeze the trigger."
 
 Mackenzie: "I understand."
 
-Jeremiah: "It's not something you can understand with your head, Mackenzie. No man can know if he has what it takes to face the bear until he's faced it. And then...it's not about what's in here," *He points to his head "*it's about what you got in here." *he beats his chest* "You aren't going to kill the bear with your head. You're going to kill him with your heart."
+Jeremiah: "It's not something you can understand with your head, Mackenzie. No man can know if he has what it takes to face the bear until he's faced it. And then...it's not about what's in here," _He points to his head "_it's about what you got in here." _he beats his chest_ "You aren't going to kill the bear with your head. You're going to kill him with your heart."
 
-*Mackenzie nods, then turns to pick up his Rifle at the bench. He walks off with the Rifle on his back, turning around and pulling out Jeremiah's Knife, and then cutting his left palm and showing it to the Trapper. He is now the bait. Mackenzie walks off and the cutscene ends*
+_Mackenzie nods, then turns to pick up his Rifle at the bench. He walks off with the Rifle on his back, turning around and pulling out Jeremiah's Knife, and then cutting his left palm and showing it to the Trapper. He is now the bait. Mackenzie walks off and the cutscene ends_
 
 The story continues in [Jeremiah's Folly/Transcript](./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md). \[Survival School (Predux)\]

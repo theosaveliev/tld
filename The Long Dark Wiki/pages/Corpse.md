@@ -1,17 +1,12 @@
----
-title: "Corpse"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Corpse"
----
-
 # Corpse
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Corpse)
 
 **Corpse**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Frozen_Corpse.jpg) / *Frozen\_Corpse.jpg* |
+|  | ![](../assets/Frozen_Corpse.jpg) / _Frozen\_Corpse.jpg_ |
 | Story item | Yes |
 | **Container** |  |
 | Capacity | 10.00 kg(22 lbs) |
@@ -26,10 +21,46 @@ Occasionally in [Wintermute](./Wintermute.md), a [Dead Prison Guard](./Dead%20Pr
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A corpse inside a Hunting Blind with a hatchet](../assets/Corpse_in_blind.jpg) / *A corpse inside a [Hunting Blind](./Hunter%27s%20Blinds.md) with a [hatchet](./Hatchet.md)* | ![A Frozen Corpse labeled just "Corpse"](../assets/Corpse.jpg) / *A Frozen Corpse labeled just "Corpse"* | ![A corpse at the Destroyed Lookout with a rifle lying nearby](../assets/Destroyed_lookout6.jpg) / *A corpse at the [Destroyed Lookout](./Destroyed%20Lookout.md) with a [rifle](./Hunting%20Rifle.md) lying nearby* | ![Dead pilot model](../assets/V._Singh_location.jpg) / *Dead pilot model* |
-| ![](../assets/R._Tan_location.jpg) / *R.\_Tan\_location.jpg* | ![Dead Prison Guard](../assets/Dead_Prison_Guard.jpg) / *[Dead Prison Guard](./Dead%20Prison%20Guard.md)* | ![One of many dead Convicts in Wintermute](../assets/Blackrock_prisoner_body_1.jpg) / *One of many dead [Convicts](./Convicts.md) in Wintermute* | ![Several executed prison guards and civilians outside of Blackrock Prison in Episode 4](../assets/Blackrock_Prison_Guards.jpg) / *Several executed prison guards and civilians outside of [Blackrock Prison](./Blackrock%20Prison.md) in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)* |
-| ![very old version](../assets/Frozen_corpse.png) / *very old version* | ![A corpse in Ash Canyon](../assets/Frozen_Corpse_Ash_Canyon.jpg) / *A corpse in [Ash Canyon](./Ash%20Canyon.md)* | ![A dead Convict](../assets/Convict_Episode_2.jpg) / *A dead Convict* |  |
+![A corpse inside a Hunting Blind with a hatchet](../assets/Corpse_in_blind.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_A corpse inside a [Hunting Blind](./Hunter%27s%20Blinds.md) with a [hatchet](./Hatchet.md)_
+
+![A Frozen Corpse labeled just "Corpse"](../assets/Corpse.jpg)
+
+_A Frozen Corpse labeled just "Corpse"_
+
+![A corpse at the Destroyed Lookout with a rifle lying nearby](../assets/Destroyed_lookout6.jpg)
+
+_A corpse at the [Destroyed Lookout](./Destroyed%20Lookout.md) with a [rifle](./Hunting%20Rifle.md) lying nearby_
+
+![Dead pilot model](../assets/V._Singh_location.jpg)
+
+_Dead pilot model_
+
+![](../assets/R._Tan_location.jpg)
+
+_R.\_Tan\_location.jpg_
+
+![Dead Prison Guard](../assets/Dead_Prison_Guard.jpg)
+
+_[Dead Prison Guard](./Dead%20Prison%20Guard.md)_
+
+![One of many dead Convicts in Wintermute](../assets/Blackrock_prisoner_body_1.jpg)
+
+_One of many dead [Convicts](./Convicts.md) in Wintermute_
+
+![Several executed prison guards and civilians outside of Blackrock Prison in Episode 4](../assets/Blackrock_Prison_Guards.jpg)
+
+_Several executed prison guards and civilians outside of [Blackrock Prison](./Blackrock%20Prison.md) in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)_
+
+![very old version](../assets/Frozen_corpse.png)
+
+_very old version_
+
+![A corpse in Ash Canyon](../assets/Frozen_Corpse_Ash_Canyon.jpg)
+
+_A corpse in [Ash Canyon](./Ash%20Canyon.md)_
+
+![A dead Convict](../assets/Convict_Episode_2.jpg)
+
+_A dead Convict_

@@ -1,17 +1,12 @@
----
-title: "Wool Scarf"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Wool_Scarf"
----
-
 # Wool Scarf
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wool_Scarf)
 
 **Wool Scarf**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Wool_Scarf_icon.png) / *Wool\_Scarf\_icon.png* |
+|  | ![](../assets/Wool_Scarf_icon.png) / _Wool\_Scarf\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Head |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Wool_Scarf"
 | Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 60% condition |
 
-> “**A hand-knit thick wool scarf. Nice and warm.**”
+> “__A hand-knit thick wool scarf. Nice and warm.__”
 >
 > — In-game description
 
-The **Wool Scarf** is a type of headgear in *[The Long Dark](./The%20Long%20Dark.md)*.
+The **Wool Scarf** is a type of headgear in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -41,13 +36,19 @@ As of the [Resolute Outfitter](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Model icon](../assets/Wool_Scarf_Model_icon.png) / *Model icon* | ![Model icon damaged](../assets/Wool_Scarf_Model_Damaged_icon.png) / *Model icon damaged* | ![Old model.](../assets/Basic_wool_scarf_%28historical%29.png) / *Old model.* |
+![Model icon](../assets/Wool_Scarf_Model_icon.png)
+
+_Model icon_
+
+![Model icon damaged](../assets/Wool_Scarf_Model_Damaged_icon.png)
+
+_Model icon damaged_
+
+![Old model.](../assets/Basic_wool_scarf_%28historical%29.png)
+
+_Old model._
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
-  - Renamed from *Basic Wool Scarf* to *Wool Scarf*
-
-**Lua execution error in Module:Navbox function navbox** [ru:Шерстяной шарф](ru:%D0%A8%D0%B5%D1%80%D1%81%D1%82%D1%8F%D0%BD%D0%BE%D0%B9_%D1%88%D0%B0%D1%80%D1%84)
+  - Renamed from _Basic Wool Scarf_ to _Wool Scarf_

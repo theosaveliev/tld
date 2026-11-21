@@ -1,23 +1,18 @@
----
-title: "Revolver Firearm"
-wiki_namespace: 0
-categories: ["Skills"]
-source: "https://thelongdark.fandom.com/wiki/Revolver_Firearm"
----
-
 # Revolver Firearm
+
+**Categories:** Skills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Revolver_Firearm)
 
 **Revolver Firearm**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Revolver_Firearm_background.png) / *Revolver\_Firearm\_background.png* |
+|  | ![](../assets/Revolver_Firearm_background.png) / _Revolver\_Firearm\_background.png_ |
 | Release | [Steadfast Ranger (v1.48)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48) |
 | Date | 6 May 2019 |
 
 ![](../assets/Revolver_Firearm.png)
 
-*Revolver\_Firearm.png*
+_Revolver\_Firearm.png_
 
 **Revolver Firearm** is a [survival skill](./Skills.md) that involves the use of a [revolver](./Revolver.md) to defend oneself from hostile [wildlife](./Wildlife.md), or as a sub-optimal hunting tool.
 
@@ -31,13 +26,13 @@ Shots from the Revolver which hit an animal's head or torso (indicated by a bloo
 
 ## Revolver Firearm Skill
 
-Revolver skill is increased by scoring hits on live [wildlife](./Wildlife.md) with the Revolver, or by fully reading the research book *[Small Arms Handbook](./Small%20Arms%20Handbook.md)*. Multiple copies of the book can be read, each granting skill points when fully read.
+Revolver skill is increased by scoring hits on live [wildlife](./Wildlife.md) with the Revolver, or by fully reading the research book _[Small Arms Handbook](./Small%20Arms%20Handbook.md)_. Multiple copies of the book can be read, each granting skill points when fully read.
 
 - A Revolver round striking a live animal (except [crows](./Crow.md)) grants 1 skill point.
 - Selecting a loaded Revolver for self-defense during a Wolf struggle, and firing it during the struggle grants 1 skill point.
-- *[Small Arms Handbook](./Small%20Arms%20Handbook.md)* grants 10 skill points (5 hours of reading).
+- _[Small Arms Handbook](./Small%20Arms%20Handbook.md)_ grants 10 skill points (5 hours of reading).
 
-Note: *Revolver skill is not increased by selecting to use a carried Revolver during a Wolf struggle (bludgeoning the Wolf with the revolver), but instead having it loaded, selecting it, and choosing the "Take Shot" option during the struggle (if it appears). However, increased "Struggle Effectiveness" from the Revolver Skill does affect struggle success regardless of the weapon being loaded or not.*
+Note: _Revolver skill is not increased by selecting to use a carried Revolver during a Wolf struggle (bludgeoning the Wolf with the revolver), but instead having it loaded, selecting it, and choosing the "Take Shot" option during the struggle (if it appears). However, increased "Struggle Effectiveness" from the Revolver Skill does affect struggle success regardless of the weapon being loaded or not._
 
 Once players have reached a new skill level, they unlock a new bonus/bonuses get better. &lt;table-progress-tracking table-id="1" unique-column-index="1"&gt;
 
@@ -50,5 +45,3 @@ Once players have reached a new skill level, they unlock a new bonus/bonuses get
 | 5 | 100 | Max level | - Per-use degradation reduced by 50% / - Aim assist: Moderate / - Recoil compensation increased by 70% / - Struggle effectiveness increased by 30% / - +5 condition per repair action | There's little stopping you with a Revolver in your hands. Your stance is strong, your eyes sharp, and your targets always in sight. More than a tool, it's become an extension of your will to survive. |
 
 &lt;/table-progress-tracking&gt;
-
-**Lua execution error in Module:Navbox function navbox**[ru:Навыки#Револьвер](ru:%D0%9D%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8#%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%8C%D0%B2%D0%B5%D1%80) [fr:Armes à feu: Revolver](fr:Armes_%C3%A0_feu:_Revolver)

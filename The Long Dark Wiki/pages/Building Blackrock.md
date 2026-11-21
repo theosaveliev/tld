@@ -1,11 +1,6 @@
----
-title: "Building Blackrock"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Building_Blackrock"
----
-
 # Building Blackrock
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Building_Blackrock)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Building_Blackrock"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Building_Blackrock_icon.png) / *Building\_Blackrock\_icon.png* |
+|  | ![](../assets/Building_Blackrock_icon.png) / _Building\_Blackrock\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
 | **Properties** |  |
@@ -42,7 +37,7 @@ source: "https://thelongdark.fandom.com/wiki/Building_Blackrock"
 
 ### Part One:
 
-*The following text is transcribed from **Building Blackrock, Part One***
+_The following text is transcribed from **Building Blackrock, Part One**_
 
 **Blackrock’s establishment as a maximum-security incarceration complex is a mixture of truth, legend, and good old-fashioned hyperbole. But its founding is without question bound up with the history of Great Bear Island.
 
@@ -52,7 +47,7 @@ There are still others who claim that nothing can match the harshness of winter 
 
 ### Part Two:
 
-*The following text is transcribed from **Building Blackrock, Part Two***
+_The following text is transcribed from **Building Blackrock, Part Two**_
 
 **Little is known about Blackrock Penitentiary's original architect, G.W. Jahnn. A pipe organ builder and designer by trade, he switched to institutional design after emigrating to Canada in the late 19th Century.
 
@@ -62,7 +57,7 @@ All in all, his work, and the prison itself, make for a remarkable and unusual c
 
 ### Part Three:
 
-*The following text is transcribed from **Building Blackrock, Part Three***
+_The following text is transcribed from **Building Blackrock, Part Three**_
 
 **Nothing in Blackrock's design could outweigh the influence of the surrounding landscape on the mission of the Penitentiary. The rugged valley surrounding the prison grounds has always been itself a secondary deterrent.
 
@@ -74,5 +69,3 @@ Still, it's said the many streams and rivers that surround the prison grounds st
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

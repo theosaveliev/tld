@@ -1,11 +1,6 @@
----
-title: "The Power Plant"
-wiki_namespace: 0
-categories: ["Episode 4"]
-source: "https://thelongdark.fandom.com/wiki/The_Power_Plant"
----
-
 # The Power Plant
+
+**Categories:** Episode 4 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Power_Plant)
 
 **The Power Plant** is the third mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of [Wintermute](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) is ordered by [Mathis](./Mathis.md) to travel to the Power Plant and find a way to restore power to solitary.
 

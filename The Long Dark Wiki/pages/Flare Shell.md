@@ -1,11 +1,6 @@
----
-title: "Flare Shell"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Flare_Shell"
----
-
 # Flare Shell
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Flare_Shell)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Flare_Shell"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Flare_Shell_icon.png) / *Flare\_Shell\_icon.png* |
+|  | ![](../assets/Flare_Shell_icon.png) / _Flare\_Shell\_icon.png_ |
 | Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) or [Beachcombing](./Beachcombing.md)) |
@@ -52,13 +47,11 @@ Flare shells always appear as a 12-Gauge Flare shells.
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![An example of a flare shell being pickup and reusable after sticking a bear.](../assets/Reuseable_flare_shell.png) / *An example of a flare shell being pickup and reusable after sticking a bear.* |
+![An example of a flare shell being pickup and reusable after sticking a bear.](../assets/Reuseable_flare_shell.png)
+
+_An example of a flare shell being pickup and reusable after sticking a bear._
 
 ## Update history
 
 - UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Факельная ракета](ru:%D0%A4%D0%B0%D0%BA%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0)

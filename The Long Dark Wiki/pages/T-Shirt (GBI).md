@@ -1,17 +1,12 @@
----
-title: "T-Shirt (GBI)"
-wiki_namespace: 0
-categories: ["Clothing", "DLC Content"]
-source: "https://thelongdark.fandom.com/wiki/T-Shirt_(GBI)"
----
-
 # T\-Shirt \(GBI\)
+
+**Categories:** Clothing, DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/T-Shirt_%28GBI%29)
 
 **T-Shirt (GBI)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/T-Shirt_%28GBI%29_icon.png) / *T-Shirt\_(GBI)\_icon.png* |
+|  | ![](../assets/T-Shirt_%28GBI%29_icon.png) / _T-Shirt\_(GBI)\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Inner torso |
@@ -27,6 +22,6 @@ source: "https://thelongdark.fandom.com/wiki/T-Shirt_(GBI)"
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / > “**Short-sleeved cotton t-shirt. Not very warm, but better than nothing.**” / > / > — In-game description / The **T-Shirt (GBI)** is the name given to this unique variation of the [T-Shirt](./T-Shirt.md) that can be acquired from the [Trader](./Trader.md), and is a type of [Clothing](./Clothing.md) item in *[The Long Dark](./The%20Long%20Dark.md)*. / ## Overview / The T-shirt is the worst inner torso clothing in the game. This is more rare than the regular [T-Shirt](./T-Shirt.md), due to how it is acquired from the Trader. It offers a small amount of warmth, and nothing else. / \| Column 1 \| Column 2 \| / \| --- \| --- \| / \| ![Clothing model](../assets/T-Shirt_%28GBI%29_model.png) / *Clothing model* \| ![Clothing model damaged](../assets/T-Shirt_%28GBI%29_model_damaged.png) / *Clothing model damaged* \| / ## Update history / **Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Футболка (вариации)](ru:%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%BA%D0%B0_%28%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D1%86%D0%B8%D0%B8%29) |
-| “ | **Short-sleeved cotton t-shirt. Not very warm, but better than nothing.** / In-game description | ” |
-| ![Clothing model](../assets/T-Shirt_%28GBI%29_model.png) / *Clothing model* | ![Clothing model damaged](../assets/T-Shirt_%28GBI%29_model_damaged.png) / *Clothing model damaged* |  |
+
+| “ | __Short-sleeved cotton t-shirt. Not very warm, but better than nothing.__ / In-game description | ” |
+| ![Clothing model](../assets/T-Shirt_%28GBI%29_model.png) / _Clothing model_ | ![Clothing model damaged](../assets/T-Shirt_%28GBI%29_model_damaged.png) / _Clothing model damaged_ |  |

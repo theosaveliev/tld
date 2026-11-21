@@ -1,11 +1,6 @@
----
-title: "Food Poisoning"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Food_Poisoning"
----
-
 # Food Poisoning
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Food_Poisoning)
 
 **Contents**
 
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/Food_Poisoning"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Food_Poisoning_icon.png) / *Food\_Poisoning\_icon.png* |
+|  | ![](../assets/Food_Poisoning_icon.png) / _Food\_Poisoning\_icon.png_ |
 | Release | [14 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01) |
 | Update | 0.01 |
 | **Properties** |  |
@@ -67,131 +62,135 @@ Instances of Food Poisoning do not stack, but a second instance will reset the d
 
 The food poisoning chance depends on both the type of food and the condition of that food item:
 
-| ![](../assets/Cooking.png) / *Cooking.png* | Item | Above 75% | Between 20 - 75% | Below 20% | Ruined (0%) |
+| ![](../assets/Cooking.png) / _Cooking.png_ | Item | Above 75% | Between 20 - 75% | Below 20% | Ruined (0%) |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Acorns_%28Cooked%29_icon.png) / *Acorns\_(Cooked)\_icon.png* | [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) | 0% | 0% | 0% | 10% |
-| ![](../assets/Acorns_%28Cooked_-_Large_Portion%29_icon.png) / *Acorns\_(Cooked\_-\_Large\_Portion)\_icon.png* | [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md) | 0% | 0% | 0% | 10% |
-| ![](../assets/Airline_Food_-_Chicken_icon.png) / *Airline\_Food\_-\_Chicken\_icon.png* | [Airline Food - Chicken](./Airline%20Food%20-%20Chicken.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Airline_Food_-_Vegetarian_icon.png) / *Airline\_Food\_-\_Vegetarian\_icon.png* | [Airline Food - Vegetarian](./Airline%20Food%20-%20Vegetarian.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Beef_Jerky_icon.png) / *Beef\_Jerky\_icon.png* | [Beef Jerky](./Beef%20Jerky.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Birch_Bark_Tea_icon.png) / *Birch\_Bark\_Tea\_icon.png* | [Birch Bark Tea](./Birch%20Bark%20Tea.md) | 0% | 0% | 0% | 0% |
-| ![](../assets/Bear_Meat_%28Cooked%29_icon.png) / *Bear\_Meat\_(Cooked)\_icon.png* | [Bear Meat (Cooked)](./Bear%20Meat%20%28Raw%29.md) | 0% | 3% | 30% | 60% |
-| ![](../assets/Bear_Meat_%28Raw%29_icon.png) / *Bear\_Meat\_(Raw)\_icon.png* | [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) | 70% | 70% | 95% | 95% |
-| ![](../assets/Burbot_%28Cooked%29_icon.png) / *Burbot\_(Cooked)\_icon.png* | [Burbot (Cooked)](./Burbot%20%28Cooked%29.md) | 0% | 3% | 50% | 50% |
-| ![](../assets/Burbot_%28Raw%29_icon.png) / *Burbot\_(Raw)\_icon.png* | [Burbot (Raw)](./Burbot%20%28Raw%29.md) | 50% | 50% | 95% | 95% |
-| ![](../assets/Burdock_Tea_icon.png) / *Burdock\_Tea\_icon.png* | [Burdock Tea](./Burdock%20Tea.md) | 0% | 0% | 0% | 0% |
-| ![](../assets/Chocolate_Bar_icon.png) / *Chocolate\_Bar\_icon.png* | [Chocolate Bar](./Chocolate%20Bar.md) | 0% | 1% | 5% | 10% |
-| ![](../assets/Cat_Tail_Stalk_icon.png) / *Cat\_Tail\_Stalk\_icon.png* | [Cat Tail Stalk](./Cat%20Tail%20Stalk.md) | 0% | 1% | 5% | 10% |
-| ![](../assets/Coho_Salmon_%28Cooked%29_icon.png) / *Coho\_Salmon\_(Cooked)\_icon.png* | [Coho Salmon (Cooked)](./Coho%20Salmon%20%28Cooked%29.md) | 0% | 3% | 25% | 50% |
-| ![](../assets/Coho_Salmon_%28Raw%29_icon.png) / *Coho\_Salmon\_(Raw)\_icon.png* | [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) | 50% | 50% | 95% | 95% |
-| ![](../assets/Condensed_Milk_icon.png) / *Condensed\_Milk\_icon.png* | [Condensed Milk](./Condensed%20Milk.md) | 0% | 0% | 20% | 40% |
-| ![](../assets/Cup_of_Coffee_icon.png) / *Cup\_of\_Coffee\_icon.png* | [Cup of Coffee](./Cup%20of%20Coffee.md) | 0% | 0% | 0% | 0% |
-| ![](../assets/Cup_of_Herbal_Tea_icon.png) / *Cup\_of\_Herbal\_Tea\_icon.png* | [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | 0% | 0% | 0% | 0% |
-| ![](../assets/Cured_Fish_icon.png) / *Cured\_Fish\_icon.png* | [Cured Fish](./Cured%20Fish.md) | 0% | 1% | 10% | 50% |
-| ![](../assets/Cured_Meat_icon.png) / *Cured\_Meat\_icon.png* | [Cured Meat](./Cured%20Meat.md) | 0% | 1% | 10% | 50% |
-| ![](../assets/Dog_Food_icon.png) / *Dog\_Food\_icon.png* | [Dog Food](./Dog%20Food.md) | 0% | 0% | 30% | 60% |
-| ![](../assets/Energy_Bar_icon.png) / *Energy\_Bar\_icon.png* | [Energy Bar](./Energy%20Bar.md) | 0% | 0% | 10% | 20% |
-| ![](../assets/Goldeye_%28Cooked%29_icon.png) / *Goldeye\_(Cooked)\_icon.png* | [Goldeye (Cooked)](./Goldeye%20%28Cooked%29.md) | 0% | 3% | 50% | 50% |
-| ![](../assets/Goldeye_%28Raw%29_icon.png) / *Goldeye\_(Raw)\_icon.png* | [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) | 50% | 50% | 95% | 95% |
-| ![](../assets/Go!_Energy_Drink_icon.png) / *Go!\_Energy\_Drink\_icon.png* | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 0% | 0% | 0% | 0% |
-| ![](../assets/Granola_Bar_icon.png) / *Granola\_Bar\_icon.png* | [Granola Bar](./Granola%20Bar.md) | 0% | 1% | 10% | 20% |
-| ![](../assets/Ketchup_Chips_icon.png) / *Ketchup\_Chips\_icon.png* | [Ketchup Chips](./Ketchup%20Chips.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Lake_Whitefish_%28Cooked%29_icon.png) / *Lake\_Whitefish\_(Cooked)\_icon.png* | [Lake Whitefish (Cooked)](./Lake%20Whitefish%20%28Cooked%29.md) | 0% | 3% | 50% | 95% |
-| ![](../assets/Lake_Whitefish_%28Raw%29_icon.png) / *Lake\_Whitefish\_(Raw)\_icon.png* | [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) | 50% | 50% | 95% | 95% |
-| ![](../assets/Maple_Syrup_icon.png) / *Maple\_Syrup\_icon.png* | [Maple Syrup](./Maple%20Syrup.md) | 0% | 0% | 20% | 40% |
-| ![](../assets/Military-Grade_MRE_icon.png) / *Military-Grade\_MRE\_icon.png* | [Military-Grade MRE](./Military-Grade%20MRE.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Moose_Meat_%28Cooked%29_icon.png) / *Moose\_Meat\_(Cooked)\_icon.png* | [Moose Meat (Cooked)](./Moose%20Meat%20%28Cooked%29.md) | 0% | 3% | 30% | 60% |
-| ![](../assets/Moose_Meat_%28Raw%29_icon.png) / *Moose\_Meat\_(Raw)\_icon.png* | [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) | 75% | 75% | 90% | 90% |
-| ![](../assets/Orange_Soda_icon.png) / *Orange\_Soda\_icon.png* | [Orange Soda](./Orange%20Soda.md) | 0% | 0% | 0% | 0% |
-| ![](../assets/Peanut_Butter_icon.png) / *Peanut\_Butter\_icon.png* | [Peanut Butter](./Peanut%20Butter.md) | 0% | 1% | 25% | 50% |
-| ![](../assets/Pinnacle_Peaches_icon.png) / *Pinnacle\_Peaches\_icon.png* | [Pinnacle Peaches](./Pinnacle%20Peaches.md) | 0% | 0% | 20% | 40% |
-| ![](../assets/Pork_and_Beans_icon.png) / *Pork\_and\_Beans\_icon.png* | [Pork and Beans](./Pork%20and%20Beans.md) | 0% | 0% | 20% | 40% |
-| ![](../assets/Prepared_Burdock_icon.png) / *Prepared\_Burdock\_icon.png* | [Prepared Burdock](./Prepared%20Burdock.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Rabbit_%28Cooked%29_icon.png) / *Rabbit\_(Cooked)\_icon.png* | [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md) | 0% | 3% | 25% | 50% |
-| ![](../assets/Rabbit_%28Raw%29_icon.png) / *Rabbit\_(Raw)\_icon.png* | [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) | 60% | 60% | 90% | 90% |
-| ![](../assets/Rainbow_Trout_%28Cooked%29_icon.png) / *Rainbow\_Trout\_(Cooked)\_icon.png* | [Rainbow Trout](./Rainbow%20Trout%20%28Cooked%29.md) | 0% | 3% | 50% | 50% |
-| ![](../assets/Rainbow_Trout_%28Raw%29_icon.png) / *Rainbow\_Trout\_(Raw)\_icon.png* | [Rainbow Trout](./Rainbow%20Trout%20%28Cooked%29.md) | 50% | 50% | 95% | 95% |
-| ![](../assets/Red_Irish_Lord_%28Cooked%29_icon.png) / *Red\_Irish\_Lord\_(Cooked)\_icon.png* | [Red Irish Lord (Cooked)](./Red%20Irish%20Lord%20%28Cooked%29.md) | 0% | 3% | 50% | 50% |
-| ![](../assets/Red_Irish_Lord_%28Raw%29_icon.png) / *Red\_Irish\_Lord\_(Raw)\_icon.png* | [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) | 50% | 50% | 95% | 95% |
-| ![](../assets/Reishi_Tea_icon.png) / *Reishi\_Tea\_icon.png* | [Reishi Tea](./Reishi%20Tea.md) | 0% | 0% | 0% | 0% |
-| ![](../assets/Rockfish_%28Cooked%29_icon.png) / *Rockfish\_(Cooked)\_icon.png* | [Rockfish (Cooked)](./Rockfish%20%28Cooked%29.md) | 0% | 3% | 50% | 50% |
-| ![](../assets/Rockfish_%28Raw%29_icon.png) / *Rockfish\_(Raw)\_icon.png* | [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) | 50% | 50% | 95% | 95% |
-| ![](../assets/Rose_Hip_Tea_icon.png) / *Rose\_Hip\_Tea\_icon.png* | [Rose Hip Tea](./Rose%20Hip%20Tea.md) | 0% | 0% | 0% | 0% |
-| ![](../assets/Salty_Crackers_icon.png) / *Salty\_Crackers\_icon.png* | [Salty Crackers](./Salty%20Crackers.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Smallmouth_Bass_%28Cooked%29_icon.png) / *Smallmouth\_Bass\_(Cooked)\_icon.png* | [Smallmouth Bass (Cooked)](./Smallmouth%20Bass%20%28Cooked%29.md) | 0% | 3% | 25% | 50% |
-| ![](../assets/Smallmouth_Bass_%28Raw%29_icon.png) / *Smallmouth\_Bass\_(Raw)\_icon.png* | [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) | 50% | 50% | 95% | 95% |
-| ![](../assets/Stacy%27s_Grape_Soda_icon.png) / *Stacy's\_Grape\_Soda\_icon.png* | [Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md) | 0% | 0% | 0% | 0% |
-| ![](../assets/Summit_Soda_icon.png) / *Summit\_Soda\_icon.png* | [Summit Soda](./Summit%20Soda.md) | 0% | 0% | 0% | 0% |
-| ![](../assets/Tin_of_Sardines_icon.png) / *Tin\_of\_Sardines\_icon.png* | [Tin of Sardines](./Tin%20of%20Sardines.md) | 0% | 3% | 20% | 40% |
-| ![](../assets/Tomato_Soup_icon.png) / *Tomato\_Soup\_icon.png* | [Tomato Soup](./Tomato%20Soup.md) | 0% | 0% | 20% | 40% |
-| ![](../assets/Venison_%28Cooked%29_icon.png) / *Venison\_(Cooked)\_icon.png* | [Venison (Cooked)](./Venison%20%28Cooked%29.md) | 0% | 3% | 30% | 60% |
-| ![](../assets/Venison_%28Raw%29_icon.png) / *Venison\_(Raw)\_icon.png* | [Venison (Raw)](./Venison%20%28Raw%29.md) | 75% | 75% | 90% | 90% |
-| ![](../assets/Wolf_Meat_%28Cooked%29_icon.png) / *Wolf\_Meat\_(Cooked)\_icon.png* | [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md) | 0% | 3% | 30% | 60% |
-| ![](../assets/Wolf_Meat_%28Raw%29_icon.png) / *Wolf\_Meat\_(Raw)\_icon.png* | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 55% | 55% | 95% | 95% |
+| ![](../assets/Acorns_%28Cooked%29_icon.png) / _Acorns\_(Cooked)\_icon.png_ | [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) | 0% | 0% | 0% | 10% |
+| ![](../assets/Acorns_%28Cooked_-_Large_Portion%29_icon.png) / _Acorns\_(Cooked\_-\_Large\_Portion)\_icon.png_ | [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md) | 0% | 0% | 0% | 10% |
+| ![](../assets/Airline_Food_-_Chicken_icon.png) / _Airline\_Food\_-\_Chicken\_icon.png_ | [Airline Food - Chicken](./Airline%20Food%20-%20Chicken.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Airline_Food_-_Vegetarian_icon.png) / _Airline\_Food\_-\_Vegetarian\_icon.png_ | [Airline Food - Vegetarian](./Airline%20Food%20-%20Vegetarian.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Beef_Jerky_icon.png) / _Beef\_Jerky\_icon.png_ | [Beef Jerky](./Beef%20Jerky.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Birch_Bark_Tea_icon.png) / _Birch\_Bark\_Tea\_icon.png_ | [Birch Bark Tea](./Birch%20Bark%20Tea.md) | 0% | 0% | 0% | 0% |
+| ![](../assets/Bear_Meat_%28Cooked%29_icon.png) / _Bear\_Meat\_(Cooked)\_icon.png_ | [Bear Meat (Cooked)](./Bear%20Meat%20%28Raw%29.md) | 0% | 3% | 30% | 60% |
+| ![](../assets/Bear_Meat_%28Raw%29_icon.png) / _Bear\_Meat\_(Raw)\_icon.png_ | [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) | 70% | 70% | 95% | 95% |
+| ![](../assets/Burbot_%28Cooked%29_icon.png) / _Burbot\_(Cooked)\_icon.png_ | [Burbot (Cooked)](./Burbot%20%28Cooked%29.md) | 0% | 3% | 50% | 50% |
+| ![](../assets/Burbot_%28Raw%29_icon.png) / _Burbot\_(Raw)\_icon.png_ | [Burbot (Raw)](./Burbot%20%28Raw%29.md) | 50% | 50% | 95% | 95% |
+| ![](../assets/Burdock_Tea_icon.png) / _Burdock\_Tea\_icon.png_ | [Burdock Tea](./Burdock%20Tea.md) | 0% | 0% | 0% | 0% |
+| ![](../assets/Chocolate_Bar_icon.png) / _Chocolate\_Bar\_icon.png_ | [Chocolate Bar](./Chocolate%20Bar.md) | 0% | 1% | 5% | 10% |
+| ![](../assets/Cat_Tail_Stalk_icon.png) / _Cat\_Tail\_Stalk\_icon.png_ | [Cat Tail Stalk](./Cat%20Tail%20Stalk.md) | 0% | 1% | 5% | 10% |
+| ![](../assets/Coho_Salmon_%28Cooked%29_icon.png) / _Coho\_Salmon\_(Cooked)\_icon.png_ | [Coho Salmon (Cooked)](./Coho%20Salmon%20%28Cooked%29.md) | 0% | 3% | 25% | 50% |
+| ![](../assets/Coho_Salmon_%28Raw%29_icon.png) / _Coho\_Salmon\_(Raw)\_icon.png_ | [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) | 50% | 50% | 95% | 95% |
+| ![](../assets/Condensed_Milk_icon.png) / _Condensed\_Milk\_icon.png_ | [Condensed Milk](./Condensed%20Milk.md) | 0% | 0% | 20% | 40% |
+| ![](../assets/Cup_of_Coffee_icon.png) / _Cup\_of\_Coffee\_icon.png_ | [Cup of Coffee](./Cup%20of%20Coffee.md) | 0% | 0% | 0% | 0% |
+| ![](../assets/Cup_of_Herbal_Tea_icon.png) / _Cup\_of\_Herbal\_Tea\_icon.png_ | [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | 0% | 0% | 0% | 0% |
+| ![](../assets/Cured_Fish_icon.png) / _Cured\_Fish\_icon.png_ | [Cured Fish](./Cured%20Fish.md) | 0% | 1% | 10% | 50% |
+| ![](../assets/Cured_Meat_icon.png) / _Cured\_Meat\_icon.png_ | [Cured Meat](./Cured%20Meat.md) | 0% | 1% | 10% | 50% |
+| ![](../assets/Dog_Food_icon.png) / _Dog\_Food\_icon.png_ | [Dog Food](./Dog%20Food.md) | 0% | 0% | 30% | 60% |
+| ![](../assets/Energy_Bar_icon.png) / _Energy\_Bar\_icon.png_ | [Energy Bar](./Energy%20Bar.md) | 0% | 0% | 10% | 20% |
+| ![](../assets/Goldeye_%28Cooked%29_icon.png) / _Goldeye\_(Cooked)\_icon.png_ | [Goldeye (Cooked)](./Goldeye%20%28Cooked%29.md) | 0% | 3% | 50% | 50% |
+| ![](../assets/Goldeye_%28Raw%29_icon.png) / _Goldeye\_(Raw)\_icon.png_ | [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) | 50% | 50% | 95% | 95% |
+| ![](../assets/Go!_Energy_Drink_icon.png) / _Go!\_Energy\_Drink\_icon.png_ | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 0% | 0% | 0% | 0% |
+| ![](../assets/Granola_Bar_icon.png) / _Granola\_Bar\_icon.png_ | [Granola Bar](./Granola%20Bar.md) | 0% | 1% | 10% | 20% |
+| ![](../assets/Ketchup_Chips_icon.png) / _Ketchup\_Chips\_icon.png_ | [Ketchup Chips](./Ketchup%20Chips.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Lake_Whitefish_%28Cooked%29_icon.png) / _Lake\_Whitefish\_(Cooked)\_icon.png_ | [Lake Whitefish (Cooked)](./Lake%20Whitefish%20%28Cooked%29.md) | 0% | 3% | 50% | 95% |
+| ![](../assets/Lake_Whitefish_%28Raw%29_icon.png) / _Lake\_Whitefish\_(Raw)\_icon.png_ | [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) | 50% | 50% | 95% | 95% |
+| ![](../assets/Maple_Syrup_icon.png) / _Maple\_Syrup\_icon.png_ | [Maple Syrup](./Maple%20Syrup.md) | 0% | 0% | 20% | 40% |
+| ![](../assets/Military-Grade_MRE_icon.png) / _Military-Grade\_MRE\_icon.png_ | [Military-Grade MRE](./Military-Grade%20MRE.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Moose_Meat_%28Cooked%29_icon.png) / _Moose\_Meat\_(Cooked)\_icon.png_ | [Moose Meat (Cooked)](./Moose%20Meat%20%28Cooked%29.md) | 0% | 3% | 30% | 60% |
+| ![](../assets/Moose_Meat_%28Raw%29_icon.png) / _Moose\_Meat\_(Raw)\_icon.png_ | [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) | 75% | 75% | 90% | 90% |
+| ![](../assets/Orange_Soda_icon.png) / _Orange\_Soda\_icon.png_ | [Orange Soda](./Orange%20Soda.md) | 0% | 0% | 0% | 0% |
+| ![](../assets/Peanut_Butter_icon.png) / _Peanut\_Butter\_icon.png_ | [Peanut Butter](./Peanut%20Butter.md) | 0% | 1% | 25% | 50% |
+| ![](../assets/Pinnacle_Peaches_icon.png) / _Pinnacle\_Peaches\_icon.png_ | [Pinnacle Peaches](./Pinnacle%20Peaches.md) | 0% | 0% | 20% | 40% |
+| ![](../assets/Pork_and_Beans_icon.png) / _Pork\_and\_Beans\_icon.png_ | [Pork and Beans](./Pork%20and%20Beans.md) | 0% | 0% | 20% | 40% |
+| ![](../assets/Prepared_Burdock_icon.png) / _Prepared\_Burdock\_icon.png_ | [Prepared Burdock](./Prepared%20Burdock.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Rabbit_%28Cooked%29_icon.png) / _Rabbit\_(Cooked)\_icon.png_ | [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md) | 0% | 3% | 25% | 50% |
+| ![](../assets/Rabbit_%28Raw%29_icon.png) / _Rabbit\_(Raw)\_icon.png_ | [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) | 60% | 60% | 90% | 90% |
+| ![](../assets/Rainbow_Trout_%28Cooked%29_icon.png) / _Rainbow\_Trout\_(Cooked)\_icon.png_ | [Rainbow Trout](./Rainbow%20Trout%20%28Cooked%29.md) | 0% | 3% | 50% | 50% |
+| ![](../assets/Rainbow_Trout_%28Raw%29_icon.png) / _Rainbow\_Trout\_(Raw)\_icon.png_ | [Rainbow Trout](./Rainbow%20Trout%20%28Cooked%29.md) | 50% | 50% | 95% | 95% |
+| ![](../assets/Red_Irish_Lord_%28Cooked%29_icon.png) / _Red\_Irish\_Lord\_(Cooked)\_icon.png_ | [Red Irish Lord (Cooked)](./Red%20Irish%20Lord%20%28Cooked%29.md) | 0% | 3% | 50% | 50% |
+| ![](../assets/Red_Irish_Lord_%28Raw%29_icon.png) / _Red\_Irish\_Lord\_(Raw)\_icon.png_ | [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) | 50% | 50% | 95% | 95% |
+| ![](../assets/Reishi_Tea_icon.png) / _Reishi\_Tea\_icon.png_ | [Reishi Tea](./Reishi%20Tea.md) | 0% | 0% | 0% | 0% |
+| ![](../assets/Rockfish_%28Cooked%29_icon.png) / _Rockfish\_(Cooked)\_icon.png_ | [Rockfish (Cooked)](./Rockfish%20%28Cooked%29.md) | 0% | 3% | 50% | 50% |
+| ![](../assets/Rockfish_%28Raw%29_icon.png) / _Rockfish\_(Raw)\_icon.png_ | [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) | 50% | 50% | 95% | 95% |
+| ![](../assets/Rose_Hip_Tea_icon.png) / _Rose\_Hip\_Tea\_icon.png_ | [Rose Hip Tea](./Rose%20Hip%20Tea.md) | 0% | 0% | 0% | 0% |
+| ![](../assets/Salty_Crackers_icon.png) / _Salty\_Crackers\_icon.png_ | [Salty Crackers](./Salty%20Crackers.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Smallmouth_Bass_%28Cooked%29_icon.png) / _Smallmouth\_Bass\_(Cooked)\_icon.png_ | [Smallmouth Bass (Cooked)](./Smallmouth%20Bass%20%28Cooked%29.md) | 0% | 3% | 25% | 50% |
+| ![](../assets/Smallmouth_Bass_%28Raw%29_icon.png) / _Smallmouth\_Bass\_(Raw)\_icon.png_ | [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) | 50% | 50% | 95% | 95% |
+| ![](../assets/Stacy%27s_Grape_Soda_icon.png) / _Stacy's\_Grape\_Soda\_icon.png_ | [Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md) | 0% | 0% | 0% | 0% |
+| ![](../assets/Summit_Soda_icon.png) / _Summit\_Soda\_icon.png_ | [Summit Soda](./Summit%20Soda.md) | 0% | 0% | 0% | 0% |
+| ![](../assets/Tin_of_Sardines_icon.png) / _Tin\_of\_Sardines\_icon.png_ | [Tin of Sardines](./Tin%20of%20Sardines.md) | 0% | 3% | 20% | 40% |
+| ![](../assets/Tomato_Soup_icon.png) / _Tomato\_Soup\_icon.png_ | [Tomato Soup](./Tomato%20Soup.md) | 0% | 0% | 20% | 40% |
+| ![](../assets/Venison_%28Cooked%29_icon.png) / _Venison\_(Cooked)\_icon.png_ | [Venison (Cooked)](./Venison%20%28Cooked%29.md) | 0% | 3% | 30% | 60% |
+| ![](../assets/Venison_%28Raw%29_icon.png) / _Venison\_(Raw)\_icon.png_ | [Venison (Raw)](./Venison%20%28Raw%29.md) | 75% | 75% | 90% | 90% |
+| ![](../assets/Wolf_Meat_%28Cooked%29_icon.png) / _Wolf\_Meat\_(Cooked)\_icon.png_ | [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md) | 0% | 3% | 30% | 60% |
+| ![](../assets/Wolf_Meat_%28Raw%29_icon.png) / _Wolf\_Meat\_(Raw)\_icon.png_ | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 55% | 55% | 95% | 95% |
 
 ### Tales from the Far Territory Food
 
-| ![](../assets/Cooking.png) / *Cooking.png* | Item | Above 75% | Between 20 - 75% | Below 20% | Ruined (0%) |
+| ![](../assets/Cooking.png) / _Cooking.png_ | Item | Above 75% | Between 20 - 75% | Below 20% | Ruined (0%) |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Acorn_Bannock_icon.png) / *Acorn\_Bannock\_icon.png* | [Acorn Bannock](./Acorn%20Bannock.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Acorn_Pancakes_icon.png) / *Acorn\_Pancakes\_icon.png* | [Acorn Pancakes](./Acorn%20Pancakes.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Bannock_icon.png) / *Bannock\_icon.png* | [Bannock](./Bannock.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Breyerhouse_Pie_icon.png) / *Breyerhouse\_Pie\_icon.png* | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Broth_icon.png) / *Broth\_icon.png* | [Broth](./Broth.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Camber_Flight_Porridge_icon.png) / *Camber\_Flight\_Porridge\_icon.png* | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Canned_Corn_icon.png) / *Canned\_Corn\_icon.png* | [Canned Corn](./Canned%20Corn.md) | 0% | 0% | 20% | 40% |
-| ![](../assets/Canned_Ham_icon.png) / *Canned\_Ham\_icon.png* | [Canned Ham](./Canned%20Ham.md) | 0% | 0% | 30% | 50% |
-| ![](../assets/Canned_Pineapple_icon.png) / *Canned\_Pineapple\_icon.png* | [Canned Pineapple](./Canned%20Pineapple.md) | 0% | 0% | 20% | 40% |
-| ![](../assets/Carrot_icon.png) / *Carrot\_icon.png* | [Carrot](./Carrot.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Cereal_icon.png) / *Cereal\_icon.png* | [Cereal](./Cereal.md) | 0% | 0% | 2% | 10% |
-| ![](../assets/Coastal_Fishcakes_icon.png) / *Coastal\_Fishcakes\_icon.png* | [Coastal Fishcakes](./Coastal%20Fishcakes.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Cooked_Potato_icon.png) / *Cooked\_Potato\_icon.png* | [Cooked Potato](./Cooked%20Potato.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Dockworker%27s_Pie_icon.png) / *Dockworker's\_Pie\_icon.png* | [Dockworker's Pie](./Dockworker%27s%20Pie.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Dried_Apples_icon.png) / *Dried\_Apples\_icon.png* | [Dried Apples](./Dried%20Apples.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Last_Resort_Soup_icon.png) / *Last\_Resort\_Soup\_icon.png* | [Last Resort Soup](./Last%20Resort%20Soup.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Lily%27s_Pancakes_icon.png) / *Lily's\_Pancakes\_icon.png* | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Pancakes_icon.png) / *Pancakes\_icon.png* | [Pancakes](./Pancakes.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Peach_Pie_icon.png) / *Peach\_Pie\_icon.png* | [Peach Pie](./Peach%20Pie.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Pemmican_Bar_icon.png) / *Pemmican\_Bar\_icon.png* | [Pemmican Bar](./Pemmican%20Bar.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Pickles_icon.png) / *Pickles\_icon.png* | [Pickles](./Pickles.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Porridge_icon.png) / *Porridge\_icon.png* | [Porridge](./Porridge.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Porter%27s_Soup_icon.png) / *Porter's\_Soup\_icon.png* | [Porter's Soup](./Porter%27s%20Soup.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Ptarmigan_%28Cooked%29_icon.png) / *Ptarmigan\_(Cooked)\_icon.png* | [Ptarmigan (Cooked)](./Ptarmigan%20%28Cooked%29.md) | 0% | 3% | 25% | 50% |
-| ![](../assets/Ptarmigan_%28Raw%29_icon.png) / *Ptarmigan\_(Raw)\_icon.png* | [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) | 60% | 60% | 90% | 90% |
-| ![](../assets/Ptarmigan_Pie_icon.png) / *Ptarmigan\_Pie\_icon.png* | [Ptarmigan Pie](./Ptarmigan%20Pie.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Ptarmigan_Stew_icon.png) / *Ptarmigan\_Stew\_icon.png* | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Prepper%27s_Pie_icon.png) / *Prepper's\_Pie\_icon.png* | [Prepper's Pie](./Prepper%27s%20Pie.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Rabbit_Pie_icon.png) / *Rabbit\_Pie\_icon.png* | [Rabbit Pie](./Rabbit%20Pie.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Rabbit_Stew_icon.png) / *Rabbit\_Stew\_icon.png* | [Rabbit Stew](./Rabbit%20Stew.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Ranger_Stew_icon.png) / *Ranger\_Stew\_icon.png* | [Ranger Stew](./Ranger%20Stew.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Rose_Hip_Pie_icon.png) / *Rose\_Hip\_Pie\_icon.png* | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Stalker%27s_Pie_icon.png) / *Stalker's\_Pie\_icon.png* | [Stalker's Pie](./Stalker%27s%20Pie.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Thomson_Family_Stew_icon.png) / *Thomson\_Family\_Stew\_icon.png* | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Trout_Stew_icon.png) / *Trout\_Stew\_icon.png* | [Trout Stew](./Trout%20Stew.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Vagabond_Soup_icon.png) / *Vagabond\_Soup\_icon.png* | [Vagabond Soup](./Vagabond%20Soup.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Venison_Pie_icon.png) / *Venison\_Pie\_icon.png* | [Venison Pie](./Venison%20Pie.md) | 0% | 0% | 5% | 10% |
-| ![](../assets/Venison_Stew_icon.png) / *Venison\_Stew\_icon.png* | [Venison Stew](./Venison%20Stew.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Acorn_Bannock_icon.png) / _Acorn\_Bannock\_icon.png_ | [Acorn Bannock](./Acorn%20Bannock.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Acorn_Pancakes_icon.png) / _Acorn\_Pancakes\_icon.png_ | [Acorn Pancakes](./Acorn%20Pancakes.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Bannock_icon.png) / _Bannock\_icon.png_ | [Bannock](./Bannock.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Breyerhouse_Pie_icon.png) / _Breyerhouse\_Pie\_icon.png_ | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Broth_icon.png) / _Broth\_icon.png_ | [Broth](./Broth.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Camber_Flight_Porridge_icon.png) / _Camber\_Flight\_Porridge\_icon.png_ | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Canned_Corn_icon.png) / _Canned\_Corn\_icon.png_ | [Canned Corn](./Canned%20Corn.md) | 0% | 0% | 20% | 40% |
+| ![](../assets/Canned_Ham_icon.png) / _Canned\_Ham\_icon.png_ | [Canned Ham](./Canned%20Ham.md) | 0% | 0% | 30% | 50% |
+| ![](../assets/Canned_Pineapple_icon.png) / _Canned\_Pineapple\_icon.png_ | [Canned Pineapple](./Canned%20Pineapple.md) | 0% | 0% | 20% | 40% |
+| ![](../assets/Carrot_icon.png) / _Carrot\_icon.png_ | [Carrot](./Carrot.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Cereal_icon.png) / _Cereal\_icon.png_ | [Cereal](./Cereal.md) | 0% | 0% | 2% | 10% |
+| ![](../assets/Coastal_Fishcakes_icon.png) / _Coastal\_Fishcakes\_icon.png_ | [Coastal Fishcakes](./Coastal%20Fishcakes.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Cooked_Potato_icon.png) / _Cooked\_Potato\_icon.png_ | [Cooked Potato](./Cooked%20Potato.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Dockworker%27s_Pie_icon.png) / _Dockworker's\_Pie\_icon.png_ | [Dockworker's Pie](./Dockworker%27s%20Pie.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Dried_Apples_icon.png) / _Dried\_Apples\_icon.png_ | [Dried Apples](./Dried%20Apples.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Last_Resort_Soup_icon.png) / _Last\_Resort\_Soup\_icon.png_ | [Last Resort Soup](./Last%20Resort%20Soup.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Lily%27s_Pancakes_icon.png) / _Lily's\_Pancakes\_icon.png_ | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Pancakes_icon.png) / _Pancakes\_icon.png_ | [Pancakes](./Pancakes.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Peach_Pie_icon.png) / _Peach\_Pie\_icon.png_ | [Peach Pie](./Peach%20Pie.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Pemmican_Bar_icon.png) / _Pemmican\_Bar\_icon.png_ | [Pemmican Bar](./Pemmican%20Bar.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Pickles_icon.png) / _Pickles\_icon.png_ | [Pickles](./Pickles.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Porridge_icon.png) / _Porridge\_icon.png_ | [Porridge](./Porridge.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Porter%27s_Soup_icon.png) / _Porter's\_Soup\_icon.png_ | [Porter's Soup](./Porter%27s%20Soup.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Ptarmigan_%28Cooked%29_icon.png) / _Ptarmigan\_(Cooked)\_icon.png_ | [Ptarmigan (Cooked)](./Ptarmigan%20%28Cooked%29.md) | 0% | 3% | 25% | 50% |
+| ![](../assets/Ptarmigan_%28Raw%29_icon.png) / _Ptarmigan\_(Raw)\_icon.png_ | [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) | 60% | 60% | 90% | 90% |
+| ![](../assets/Ptarmigan_Pie_icon.png) / _Ptarmigan\_Pie\_icon.png_ | [Ptarmigan Pie](./Ptarmigan%20Pie.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Ptarmigan_Stew_icon.png) / _Ptarmigan\_Stew\_icon.png_ | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Prepper%27s_Pie_icon.png) / _Prepper's\_Pie\_icon.png_ | [Prepper's Pie](./Prepper%27s%20Pie.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Rabbit_Pie_icon.png) / _Rabbit\_Pie\_icon.png_ | [Rabbit Pie](./Rabbit%20Pie.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Rabbit_Stew_icon.png) / _Rabbit\_Stew\_icon.png_ | [Rabbit Stew](./Rabbit%20Stew.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Ranger_Stew_icon.png) / _Ranger\_Stew\_icon.png_ | [Ranger Stew](./Ranger%20Stew.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Rose_Hip_Pie_icon.png) / _Rose\_Hip\_Pie\_icon.png_ | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Stalker%27s_Pie_icon.png) / _Stalker's\_Pie\_icon.png_ | [Stalker's Pie](./Stalker%27s%20Pie.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Thomson_Family_Stew_icon.png) / _Thomson\_Family\_Stew\_icon.png_ | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Trout_Stew_icon.png) / _Trout\_Stew\_icon.png_ | [Trout Stew](./Trout%20Stew.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Vagabond_Soup_icon.png) / _Vagabond\_Soup\_icon.png_ | [Vagabond Soup](./Vagabond%20Soup.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Venison_Pie_icon.png) / _Venison\_Pie\_icon.png_ | [Venison Pie](./Venison%20Pie.md) | 0% | 0% | 5% | 10% |
+| ![](../assets/Venison_Stew_icon.png) / _Venison\_Stew\_icon.png_ | [Venison Stew](./Venison%20Stew.md) | 0% | 0% | 5% | 10% |
 
 ### Wintermute Foods
 
-| ![](../assets/Cooking.png) / *Cooking.png* | Item | Above 75% | Between 20 - 75% | Below 20% | Ruined (0%) |
+| ![](../assets/Cooking.png) / _Cooking.png_ | Item | Above 75% | Between 20 - 75% | Below 20% | Ruined (0%) |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Big_Bass_%28Cooked%29_icon.png) / *Big\_Bass\_(Cooked)\_icon.png* | [Big Bass (Cooked)](./Big%20Bass%20%28Cooked%29.md) |  |  |  |  |
-| ![](../assets/Big_Bass_%28Raw%29_icon.png) / *Big\_Bass\_(Raw)\_icon.png* | [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md) |  |  |  |  |
-| ![](../assets/Home-Made_Soup_icon.png) / *Home-made\_Soup\_icon.png* | [Home-Made Soup](./Home-made%20Soup.md) |  |  |  |  |
+| ![](../assets/Big_Bass_%28Cooked%29_icon.png) / _Big\_Bass\_(Cooked)\_icon.png_ | [Big Bass (Cooked)](./Big%20Bass%20%28Cooked%29.md) |  |  |  |  |
+| ![](../assets/Big_Bass_%28Raw%29_icon.png) / _Big\_Bass\_(Raw)\_icon.png_ | [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md) |  |  |  |  |
+| ![](../assets/Home-Made_Soup_icon.png) / _Home-made\_Soup\_icon.png_ | [Home-Made Soup](./Home-made%20Soup.md) |  |  |  |  |
 
 ### Seasonal Foods
 
-| ![](../assets/Cooking.png) / *Cooking.png* | Item | Above 75% | Between 20 - 75% | Below 20% | Ruined (0%) |
+| ![](../assets/Cooking.png) / _Cooking.png_ | Item | Above 75% | Between 20 - 75% | Below 20% | Ruined (0%) |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Pumpkin_Pie_icon.png) / *Pumpkin\_Pie\_icon.png* | [Pumpkin Pie](./Pumpkin%20Pie.md) | 0% | 0% | 25% | 50% |
-| ![](../assets/Chocolate_Bar_icon.png) / *Chocolate\_Bar\_icon.png* | [Candy Bar](./Chocolate%20Bar%20%284%20Days%20of%20Night%29.md) | 0% | 1% | 5% | 10% |
+| ![](../assets/Pumpkin_Pie_icon.png) / _Pumpkin\_Pie\_icon.png_ | [Pumpkin Pie](./Pumpkin%20Pie.md) | 0% | 0% | 25% | 50% |
+| ![](../assets/Chocolate_Bar_icon.png) / _Chocolate\_Bar\_icon.png_ | [Candy Bar](./Chocolate%20Bar%20%284%20Days%20of%20Night%29.md) | 0% | 1% | 5% | 10% |
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Food poisoning and Decay (outdated)](../assets/Food_poisoning_and_Decay_-2b.png) / *Food poisoning and Decay (outdated)* | ![Old icon.](../assets/Food_poisoning.png) / *Old icon.* |
+![Food poisoning and Decay (outdated)](../assets/Food_poisoning_and_Decay_-2b.png)
+
+_Food poisoning and Decay (outdated)_
+
+![Old icon.](../assets/Food_poisoning.png)
+
+_Old icon._
 
 ## Update history
 
@@ -218,5 +217,3 @@ The food poisoning chance depends on both the type of food and the condition of 
   - Fixed issue with food poisoning continuing to degrade stats when resting (after antibiotics taken).
 - UPDATE **14 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.01)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**[ru:Пищевое отравление](ru:%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%BE%D0%B5_%D0%BE%D1%82%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)

@@ -1,19 +1,14 @@
----
-title: "Raven Falls Trestle"
-wiki_namespace: 0
-categories: ["Industrial locations", "Locations", "Locations in The Ravine", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Raven_Falls_Trestle"
----
-
 # Raven Falls Trestle
+
+**Categories:** Industrial locations, Locations, Locations in The Ravine, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Raven_Falls_Trestle)
 
 **Raven Falls Trestle**
 
 | Property | Details |
 | --- | --- |
-|  | ![Trestle at Ravine's End](../assets/The_Ravine_-_long_train_bridge.jpg) / *Trestle at Ravine's End* |
+|  | ![Trestle at Ravine's End](../assets/The_Ravine_-_long_train_bridge.jpg) / _Trestle at Ravine's End_ |
 | **Location** |  |
-|  | ![](../assets/Raven_Falls_Trestle_Location.png) / *Raven\_Falls\_Trestle\_Location.png* |
+|  | ![](../assets/Raven_Falls_Trestle_Location.png) / _Raven\_Falls\_Trestle\_Location.png_ |
 | Region | [The Ravine](./The%20Ravine.md)\|- |
 | Description | A partially damaged wooden train trestle. |
 | **General** |  |

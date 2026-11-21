@@ -1,19 +1,14 @@
----
-title: "Landing Gear"
-wiki_namespace: 0
-categories: ["Landmarks", "Locations", "Locations in Timberwolf Mountain", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Landing_Gear"
----
-
 # Landing Gear
+
+**Categories:** Landmarks, Locations, Locations in Timberwolf Mountain, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Landing_Gear)
 
 **Landing Gear**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Landing_Gear.png) / *Landing\_Gear.png* |
+|  | ![](../assets/Landing_Gear.png) / _Landing\_Gear.png_ |
 | **Location** |  |
-|  | ![](../assets/Landing_Gear_Location.png) / *Landing\_Gear\_Location.png* |
+|  | ![](../assets/Landing_Gear_Location.png) / _Landing\_Gear\_Location.png_ |
 | Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
 | **General** |  |
 | Type | Landmark\|- |

@@ -1,11 +1,6 @@
----
-title: "Sprained Ankle"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Sprained_Ankle"
----
-
 # Sprained Ankle
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sprained_Ankle)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Sprained_Ankle"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Sprained_Ankle_icon.png) / *Sprained\_Ankle\_icon.png* |
+|  | ![](../assets/Sprained_Ankle_icon.png) / _Sprained\_Ankle\_icon.png_ |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | You have twisted your ankle and are now suffering a sprain. Your mobility will be reduced until you treat it, or it heals over time. |
@@ -34,13 +29,13 @@ A **Sprained Ankle** can be caused by a fall, being exhausted or encumbered whil
 
 ## Risk
 
-> “**You are Exhausted or Encumbered, and at a higher risk for a Sprain when traversing sloped ground.**”
+> “__You are Exhausted or Encumbered, and at a higher risk for a Sprain when traversing sloped ground.__”
 
 Carrying too much weight beyond carrying capacity or becoming too tired to carry your heavy load will warn the player that they are at [risk](./Sprain%20Risk.md) of acquiring a sprain. Walking off road onto uneven ground (icon shown in the photo) may have a chance of a [Sprained Wrist](./Sprained%20Wrist.md) or Ankle occurring. Consider either resting or lightening your load in order to eliminate the risk, or consume a [Go! Energy Drink](./Go!%20Energy%20Drink.md) or [Emergency Stim](./Emergency%20Stim.md).
 
 ## Affliction
 
-> “**You have twisted your ankle and are now suffering a sprain. Your mobility will be reduced until you treat it, or it heals over time.**”
+> “__You have twisted your ankle and are now suffering a sprain. Your mobility will be reduced until you treat it, or it heals over time.__”
 >
 > — In-game description
 
@@ -57,8 +52,10 @@ If a player fails to heed a sprain risk or is attacked by hostile wildlife, they
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| \[Missing image: Pente.jpg\] / *This symbol appears on the player interface when they move or stand on uneven slopes.* | ![Old icon.](../assets/Sprained_Ankle.png) / *Old icon.* |
+\[Missing image: Pente.jpg\]
 
-**Lua execution error in Module:Navbox function navbox**[ru:Вывих лодыжки](ru:%D0%92%D1%8B%D0%B2%D0%B8%D1%85_%D0%BB%D0%BE%D0%B4%D1%8B%D0%B6%D0%BA%D0%B8)
+_This symbol appears on the player interface when they move or stand on uneven slopes._
+
+![Old icon.](../assets/Sprained_Ankle.png)
+
+_Old icon._

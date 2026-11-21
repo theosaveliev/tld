@@ -1,11 +1,6 @@
----
-title: "Survival School (Predux)"
-wiki_namespace: 0
-categories: ["Episode 2", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Survival_School_(Predux)"
----
-
 # Survival School \(Predux\)
+
+**Categories:** Episode 2, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survival_School_%28Predux%29)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Survival_School_(Predux)"
 - [Plot Points and Gameplay Changes](#plot-points-and-gameplay-changes)
 - [Game History](#game-history)
 
-**Survival School** was the third mission of the Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of *[The Long Dark](./The%20Long%20Dark.md)* by using the [Time Capsule](./Time%20Capsule.md).
+**Survival School** was the third mission of the Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 Due to its overwhelmingly negative impact on breaking the pace of the game (especially for players already familiar with Ice Fishing, Hunting, Mending, and Foraging/players whom have already played Episode 2 before) and being able to do only one task at a time, this mission has since been replaced by the optional side missions [Survival School](./Survival%20School.md) and [The Basics of Survival](./The%20Basics%20of%20Survival.md). The main mission that filled this spot of the story was instead replaced by [Signal to Noise](./Signal%20to%20Noise.md).
 

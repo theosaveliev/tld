@@ -1,20 +1,15 @@
----
-title: "Lights in the Sky"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Lights_in_the_Sky"
----
-
 # Lights in the Sky
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lights_in_the_Sky)
 
 **Lights in the Sky**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Lights_in_the_Sky_icon.png) / *Lights\_in\_the\_Sky\_icon.png* |
+|  | ![](../assets/Lights_in_the_Sky_icon.png) / _Lights\_in\_the\_Sky\_icon.png_ |
 | Description | Survive the first Aurora event. |
 
-**Lights in the Sky** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Lights in the Sky** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -28,5 +23,3 @@ The achievement's name is a reference to a quote from [Methuselah](./Methuselah.
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

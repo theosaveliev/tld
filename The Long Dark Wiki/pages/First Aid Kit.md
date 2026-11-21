@@ -1,11 +1,6 @@
----
-title: "First Aid Kit"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/First_Aid_Kit"
----
-
 # First Aid Kit
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/First_Aid_Kit)
 
 **Template:for**
 
@@ -13,7 +8,7 @@ source: "https://thelongdark.fandom.com/wiki/First_Aid_Kit"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/First_Aid_Kit.png) / *First\_Aid\_Kit.png* |
+|  | ![](../assets/First_Aid_Kit.png) / _First\_Aid\_Kit.png_ |
 | Story item | No |
 | **Container** |  |
 | Capacity | 5.00 kg(11 lbs) |
@@ -30,19 +25,17 @@ A first aid kit is a common type of container which can be found in most buildin
 
 |  | Item | Rarity |
 | --- | --- | --- |
-| ![](../assets/Bandage_icon.png) / *Bandage\_icon.png* | [Bandage](./Bandage.md) | 22.73% |
-| ![](../assets/Antiseptic_icon.png) / *Antiseptic\_icon.png* | [Antiseptic](./Antiseptic.md) | 15.91% |
-| ![](../assets/Antibiotics_icon.png) / *Antibiotics\_icon.png* | [Antibiotics](./Antibiotics.md) | 11.36% |
-| ![](../assets/Painkillers_icon.png) / *Painkillers\_icon.png* | [Painkillers](./Painkillers.md) | 11.36% |
-| ![](../assets/Energy_Bar_icon.png) / *Energy\_Bar\_icon.png* | [Energy Bar](./Energy%20Bar.md) | 11.36% |
-| ![](../assets/Sewing_Kit_icon.png) / *Sewing\_Kit\_icon.png* | [Sewing Kit](./Sewing%20Kit.md) | 9.09% |
-| ![](../assets/Water_Purification_Tablets_icon.png) / *Water\_Purification\_Tablets\_icon.png* | [Water Purification Tablets](./Water%20Purification%20Tablets.md) | 9.09% |
-| ![](../assets/Emergency_Stim_icon.png) / *Emergency\_Stim\_icon.png* | [Emergency Stim](./Emergency%20Stim.md) | 9.09% |
+| ![](../assets/Bandage_icon.png) / _Bandage\_icon.png_ | [Bandage](./Bandage.md) | 22.73% |
+| ![](../assets/Antiseptic_icon.png) / _Antiseptic\_icon.png_ | [Antiseptic](./Antiseptic.md) | 15.91% |
+| ![](../assets/Antibiotics_icon.png) / _Antibiotics\_icon.png_ | [Antibiotics](./Antibiotics.md) | 11.36% |
+| ![](../assets/Painkillers_icon.png) / _Painkillers\_icon.png_ | [Painkillers](./Painkillers.md) | 11.36% |
+| ![](../assets/Energy_Bar_icon.png) / _Energy\_Bar\_icon.png_ | [Energy Bar](./Energy%20Bar.md) | 11.36% |
+| ![](../assets/Sewing_Kit_icon.png) / _Sewing\_Kit\_icon.png_ | [Sewing Kit](./Sewing%20Kit.md) | 9.09% |
+| ![](../assets/Water_Purification_Tablets_icon.png) / _Water\_Purification\_Tablets\_icon.png_ | [Water Purification Tablets](./Water%20Purification%20Tablets.md) | 9.09% |
+| ![](../assets/Emergency_Stim_icon.png) / _Emergency\_Stim\_icon.png_ | [Emergency Stim](./Emergency%20Stim.md) | 9.09% |
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![A first aid kit on the wall of Trapper's Homestead](../assets/First_aid_kit_on_wall.jpg) / *A first aid kit on the wall of [Trapper's Homestead](./Trapper%27s%20Homestead.md)* |
+![A first aid kit on the wall of Trapper's Homestead](../assets/First_aid_kit_on_wall.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Аптечка](ru:%D0%90%D0%BF%D1%82%D0%B5%D1%87%D0%BA%D0%B0)
+_A first aid kit on the wall of [Trapper's Homestead](./Trapper%27s%20Homestead.md)_

@@ -1,17 +1,12 @@
----
-title: "Bunker Schematic Fragment 3"
-wiki_namespace: 0
-categories: ["Collectibles"]
-source: "https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_3"
----
-
 # Bunker Schematic Fragment 3
+
+**Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_3)
 
 **Bunker Schematic Fragment 3**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bunker_Schematic_Fragment_3_icon.png) / *Bunker\_Schematic\_Fragment\_3\_icon.png* |
+|  | ![](../assets/Bunker_Schematic_Fragment_3_icon.png) / _Bunker\_Schematic\_Fragment\_3\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_3"
 
 ## Transcript
 
-*The following text is transcribed from **Bunker Schematic Fragment 3***
+_The following text is transcribed from **Bunker Schematic Fragment 3**_
 
 **\[faded handwriting in the margins of a technical drawing\] ...just a single piece of wiring will be enough to close the mechanical circuit. It'll fire the charges on its own with a stored charge from the back up battery.
 
@@ -40,5 +35,3 @@ And as for Wyatt, we're going to sort out our business next week. The four of us
 MAKE HIM UNDERSTAND**
 
 ## Game history
-
-**Template:update history** **Lua execution error in Module:Navbox function navbox** [ru:Фрагмент чертежа бункера 3](ru:%D0%A4%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82_%D1%87%D0%B5%D1%80%D1%82%D0%B5%D0%B6%D0%B0_%D0%B1%D1%83%D0%BD%D0%BA%D0%B5%D1%80%D0%B0_3)

@@ -1,17 +1,12 @@
----
-title: "Well Fed"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Well_Fed"
----
-
 # Well Fed
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Well_Fed)
 
 **Well Fed**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Well_Fed_icon.png) / *Well\_Fed\_icon.png* |
+|  | ![](../assets/Well_Fed_icon.png) / _Well\_Fed\_icon.png_ |
 | Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41) |
 | Update | 1.41 |
 | **Properties** |  |
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Well_Fed"
 | Type | Benefit |
 | Benefit Duration | Until Calorie Store becomes 0 Acquiring [Chemical Poisoning](./Chemical%20Poisoning.md) |
 
-> “**You've managed to prevent starvation for 72 consecutive hours. You're full of energy and can carry more gear. You're also better able to face the physical trials ahead -- your Condition is increased as a result.**”
+> “__You've managed to prevent starvation for 72 consecutive hours. You're full of energy and can carry more gear. You're also better able to face the physical trials ahead -- your Condition is increased as a result.__”
 >
 > — In-game description
 
@@ -42,5 +37,3 @@ If Well Fed is not already active, then achieving 0 calorie store/Chemical Poiso
 ## Trivia
 
 This affliction was added in the [2018 December Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41) and is the fourth positive affliction added to the game at the time (the other three being [Warming Up](./Warming%20Up.md), [Improved Rest](./Improved%20Rest.md), and [Fatigue Reduced](./Fatigue%20Reduced.md)) being the only one not requiring the consumption of specific food items to activate as well as the only one not having a set effect duration.
-
-**Lua execution error in Module:Navbox function navbox**[ru:Сытость](ru:%D0%A1%D1%8B%D1%82%D0%BE%D1%81%D1%82%D1%8C)

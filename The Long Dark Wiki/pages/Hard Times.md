@@ -1,11 +1,6 @@
----
-title: "Hard Times"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Hard_Times"
----
-
 # Hard Times
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hard_Times)
 
 **Contents**
 
@@ -18,10 +13,10 @@ source: "https://thelongdark.fandom.com/wiki/Hard_Times"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hard_Times_icon.png) / *Hard\_Times\_icon.png* |
+|  | ![](../assets/Hard_Times_icon.png) / _Hard\_Times\_icon.png_ |
 | Description | Learn the truth behind all three Blackrock rumours. |
 
-**Hard Times** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Hard Times** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -56,5 +51,3 @@ This is a side mission achievement achieved after completing the side mission [B
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

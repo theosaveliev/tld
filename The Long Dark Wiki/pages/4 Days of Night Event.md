@@ -19,7 +19,7 @@
 
 _The main menu background during the event_
 
-> “**An endless night has arrived on Great Bear Island. Use your wits, and whatever you can find, to survive.**”
+> “__An endless night has arrived on Great Bear Island. Use your wits, and whatever you can find, to survive.__”
 >
 > — In-game description
 
@@ -112,19 +112,19 @@ _Twilight Badge._
 
 ![2019 version](../assets/Badge_challenge_FourDaysOfNight2019Full.png)
 
-_2019 version._
+_2019 version_
 
 ![2019 version](../assets/Badge_challenge_FourDaysOfNight2019Half.png)
 
-_2019 version._
+_2019 version_
 
-![The Long Dark — 4 Days of Night 2018 Halloween event title card](../assets/The_Long_Dark_--_4_Days_of_Night_2018_%28Halloween_Event%29.jpg)
+![](../assets/The_Long_Dark_--_4_Days_of_Night_2018_%28Halloween_Event%29.jpg)
 
-_The Long Dark — 4 Days of Night 2018 (Halloween Event)._
+_The\_Long\_Dark\_--\_4\_Days\_of\_Night\_2018\_(Halloween\_Event)_
 
-![The Long Dark — 4 Days of Night Halloween event title card](../assets/The_Long_Dark_-_4_Days_of_Night_%28Halloween_Event%29.jpg)
+![](../assets/The_Long_Dark_-_4_Days_of_Night_%28Halloween_Event%29.jpg)
 
-_The Long Dark — 4 Days of Night (Halloween Event)._
+_The\_Long\_Dark\_-\_4\_Days\_of\_Night\_(Halloween\_Event)_
 
 ![Pumpkin Cache from Coastal Highway.](../assets/4DON_pumpkin_cache.png)
 
@@ -144,7 +144,7 @@ _The Candy Bar provides 10x the amount of calories during the event._
 
 ![Pumpkin pie, one of the unique items available during the event](../assets/Pumpkin_pie.png)
 
-_Pumpkin pie, one of the unique items available during the event._
+_Pumpkin pie, one of the unique items available during the event_
 
 ![Pumpkin Pie spawn inside Pleasant Valley Farmstead.](../assets/PVPumpkin.jpg)
 
@@ -154,13 +154,13 @@ _Pumpkin Pie spawn inside Pleasant Valley Farmstead._
 
 _A 'Demon' wolf approaching._
 
-![4 Days of Night title card](../assets/4DON_titlecard.jpg)
+![](../assets/4DON_titlecard.jpg)
 
-_4DON titlecard._
+_4DON\_titlecard.jpg_
 
-![Four Days of Night 2018 artwork](../assets/Four_Days_Of_Night_2018.png)
+![](../assets/Four_Days_Of_Night_2018.png)
 
-_Four Days Of Night 2018._
+_Four\_Days\_Of\_Night\_2018.png_
 
 ## External links
 

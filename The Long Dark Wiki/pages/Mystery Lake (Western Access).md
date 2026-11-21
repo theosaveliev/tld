@@ -1,19 +1,14 @@
----
-title: "Mystery Lake (Western Access)"
-wiki_namespace: 0
-categories: ["Locations", "Locations in Mystery Lake", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Mystery_Lake_(Western_Access)"
----
-
 # Mystery Lake \(Western Access\)
+
+**Categories:** Locations, Locations in Mystery Lake, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mystery_Lake_%28Western_Access%29)
 
 **Mystery Lake (Western Access)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mystery_Lake_%28Western_Access%29_photo.jpg) / *Mystery\_Lake\_(Western\_Access)\_photo.jpg* |
+|  | ![](../assets/Mystery_Lake_%28Western_Access%29_photo.jpg) / _Mystery\_Lake\_(Western\_Access)\_photo.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Mystery_Lake_%28Western_Access%29_Location.png) / *Mystery\_Lake\_(Western\_Access)\_Location.png* |
+|  | ![](../assets/Mystery_Lake_%28Western_Access%29_Location.png) / _Mystery\_Lake\_(Western\_Access)\_Location.png_ |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
 | **General** |  |
 | Type | Outdoors\|- |

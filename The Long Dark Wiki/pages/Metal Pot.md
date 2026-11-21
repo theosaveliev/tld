@@ -1,17 +1,12 @@
----
-title: "Metal Pot"
-wiki_namespace: 0
-categories: ["Interactable Objects", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Metal_Pot"
----
-
 # Metal Pot
+
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Metal_Pot)
 
 **Metal Pot**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Metal_Pot.jpg) / *Metal\_Pot.jpg* |
+|  | ![](../assets/Metal_Pot.jpg) / _Metal\_Pot.jpg_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | Yes\|- |
@@ -23,8 +18,6 @@ A **Metal Pot** was an interactable object that could be harvested for [Scrap Me
 | --- | --- | --- | --- | --- |
 | Metal Pot | 1 | 15 minutes | 31 | -5% |
 
-| Column 1 |
-| --- |
-| ![A Metal Pan and Metal Pot together](../assets/PVPumpkin.jpg) / *A Metal Pan and Metal Pot together* |
+![A Metal Pan and Metal Pot together](../assets/PVPumpkin.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_A Metal Pan and Metal Pot together_

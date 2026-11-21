@@ -1,11 +1,6 @@
----
-title: "Archival Report"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Archival_Report"
----
-
 # Archival Report
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Archival_Report)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Archival_Report"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Archival_Report_icon.png) / *Archival\_Report\_icon.png* |
+|  | ![](../assets/Archival_Report_icon.png) / _Archival\_Report\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Dark Star](./Dark%20Star.md) |
 | **Properties** |  |
@@ -37,13 +32,13 @@ source: "https://thelongdark.fandom.com/wiki/Archival_Report"
 
 **Archival Report** are 4 [Collectible](./Collectibles.md) items found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story mode during the [Dark Star](./Dark%20Star.md) side mission.
 
-During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) finds the four volumes of the note *Archival Report* within the [Blackrock](./Blackrock.md) region.
+During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) finds the four volumes of the note _Archival Report_ within the [Blackrock](./Blackrock.md) region.
 
 ## Transcript
 
 ### Volume A
 
-*The following text is transcribed from **Archival Report Volume A***
+_The following text is transcribed from **Archival Report Volume A**_
 
 **\[Blackrock -- An Oral History, Vol. A\]
 
@@ -55,7 +50,7 @@ Nice enough place in the summer months, Great Bear, but those winters were evil 
 
 ### Volume B
 
-*The following text is transcribed from **Archival Report Volume B***
+_The following text is transcribed from **Archival Report Volume B**_
 
 **\[Blackrock -- An Oral History, Vol. B\]
 
@@ -69,7 +64,7 @@ I tended a garden and wrote endless letters to my sisters. That’s how I rememb
 
 ### Volume C
 
-*The following text is transcribed from **Archival Report Volume C***
+_The following text is transcribed from **Archival Report Volume C**_
 
 **\[Blackrock -- An Oral History, Vol. C\]
 
@@ -81,7 +76,7 @@ He had a good head on his shoulders. Good enough for those kinds of men anyway. 
 
 ### Volume D
 
-*The following text is transcribed from **Archival Report Volume D***
+_The following text is transcribed from **Archival Report Volume D**_
 
 **\[Blackrock -- An Oral History, Vol. D\]
 
@@ -95,7 +90,5 @@ After a few years, I did my bit, shook their hands, and left. That was the last 
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Архивный отчёт](ru:%D0%90%D1%80%D1%85%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BE%D1%82%D1%87%D1%91%D1%82)

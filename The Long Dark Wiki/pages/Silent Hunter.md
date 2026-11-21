@@ -1,20 +1,15 @@
----
-title: "Silent Hunter"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Silent_Hunter"
----
-
 # Silent Hunter
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Silent_Hunter)
 
 **Silent Hunter**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Silent_Hunter_icon.png) / *Silent\_Hunter\_icon.png* |
+|  | ![](../assets/Silent_Hunter_icon.png) / _Silent\_Hunter\_icon.png_ |
 | Description | Survive the first 50 days without firing any firearms (single game). |
 
-**Silent Hunter** is an [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Silent Hunter** is an [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -27,5 +22,3 @@ This achievement can be earned on Interloper since the rifle is not required for
 ## Game History
 
 Changed game description after the inclusion of the [Revolver](./Revolver.md) to the game. Previous description was "Survive the first 50 days without firing any firearm - including flare gun (single game)."
-
-**Lua execution error in Module:Navbox function navbox**[ru:Достижения Steam](ru:%D0%94%D0%BE%D1%81%D1%82%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_Steam)

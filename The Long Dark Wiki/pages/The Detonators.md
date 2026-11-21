@@ -1,11 +1,6 @@
----
-title: "The Detonators"
-wiki_namespace: 0
-categories: ["Episode 4"]
-source: "https://thelongdark.fandom.com/wiki/The_Detonators"
----
-
 # The Detonators
+
+**Categories:** Episode 4 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Detonators)
 
 **The Detonators** is the fourth mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of [Wintermute](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) offers to help [Mathis](./Mathis.md) find [Detonators](./Detonators.md) in the old mine, in order to hopefully appease Mathis sufficiently that he avoids killing [Franklin](./Franklin.md).
 

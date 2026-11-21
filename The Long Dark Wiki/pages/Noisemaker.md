@@ -1,11 +1,6 @@
----
-title: "Noisemaker"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Noisemaker"
----
-
 # Noisemaker
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Noisemaker)
 
 **Contents**
 
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Noisemaker"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Noisemaker_icon.png) / *Noisemaker\_icon.png* |
+|  | ![](../assets/Noisemaker_icon.png) / _Noisemaker\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
 | **Properties** |  |
@@ -44,11 +39,11 @@ source: "https://thelongdark.fandom.com/wiki/Noisemaker"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_NoiseMaker |
 
-> “**Improvised explosives have been a notorious problem for officers and staff at Blackrock. Some of the more enterprising inmates have used the devices as a kind of currency.**”
+> “__Improvised explosives have been a notorious problem for officers and staff at Blackrock. Some of the more enterprising inmates have used the devices as a kind of currency.__”
 >
 > — [Load Screen](./Load%20Screen.md) Description
 
-**Noisemakers** (also nicknamed **Pipebombs**), are a tool in *[The Long Dark](./The%20Long%20Dark.md)*. They are primarily used for frightening [Wildlife](./Wildlife.md), but can be used to offensively kill animals.
+**Noisemakers** (also nicknamed **Pipebombs**), are a tool in _[The Long Dark](./The%20Long%20Dark.md)_. They are primarily used for frightening [Wildlife](./Wildlife.md), but can be used to offensively kill animals.
 
 ## Overview
 
@@ -155,5 +150,3 @@ UPDATE **7 Dec 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):*
 UPDATE **6 Oct 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
 
 - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Хлопушка](ru:%D0%A5%D0%BB%D0%BE%D0%BF%D1%83%D1%88%D0%BA%D0%B0)

@@ -1,11 +1,6 @@
----
-title: "As the Dead Sleep"
-wiki_namespace: 0
-categories: ["Challenges"]
-source: "https://thelongdark.fandom.com/wiki/As_the_Dead_Sleep"
----
-
 # As the Dead Sleep
+
+**Categories:** Challenges · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/As_the_Dead_Sleep)
 
 **Contents**
 
@@ -20,14 +15,14 @@ source: "https://thelongdark.fandom.com/wiki/As_the_Dead_Sleep"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/As_the_dead_sleep.png) / *as\_the\_dead\_sleep.png* |
+|  | ![](../assets/As_the_dead_sleep.png) / _as\_the\_dead\_sleep.png_ |
 | **Details** |  |
 | Regions | [Broken Railroad](./Broken%20Railroad.md), [Hushed River Valley](./Hushed%20River%20Valley.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md), [The Ravine](./The%20Ravine.md), [Desolation Point](./Desolation%20Point.md) |
 | Difficulty | 6 |
 | Date Added | 10 December 2019 |
 
-> “**The world has changed. But there's a chance for one last journey before the cold sets in. Walk the path, visit the graves, and make things right before the end.  
- Visit all the grave sites listed on your map. There is no time limit. As your life ebbs, death is the only barrier.**”
+> “__The world has changed. But there's a chance for one last journey before the cold sets in. Walk the path, visit the graves, and make things right before the end.  
+ Visit all the grave sites listed on your map. There is no time limit. As your life ebbs, death is the only barrier.__”
 >
 > — Main Menu description
 
@@ -35,7 +30,7 @@ source: "https://thelongdark.fandom.com/wiki/As_the_Dead_Sleep"
 
 ## Gameplay
 
-> “**Visit all the grave sites listed on your map. There is no time limit. As your life ebbs, death is the only barrier.**”
+> “__Visit all the grave sites listed on your map. There is no time limit. As your life ebbs, death is the only barrier.__”
 >
 > — Journal Entry
 
@@ -90,5 +85,3 @@ Interloper difficulty means that you will not be able to loot warm manufactured 
 ## Trivia
 
 A grave headstone similar to the ones in this challenge is found outside of the [Community Hall](./Community%20Hall.md).
-
-Despite the lack of guns and general lack of Stalker loot, obsolete [firearm cleaning kits](./Firearm%20Cleaning%20Kit.md) can still be found throughout the world. **Lua execution error in Module:Navbox function navbox**[es:Mientras los muertos duermen](es:Mientras_los_muertos_duermen) [ru:Пока мертвые спят](ru:%D0%9F%D0%BE%D0%BA%D0%B0_%D0%BC%D0%B5%D1%80%D1%82%D0%B2%D1%8B%D0%B5_%D1%81%D0%BF%D1%8F%D1%82)

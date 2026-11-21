@@ -1,17 +1,12 @@
----
-title: "Bear Quarter"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Bear_Quarter"
----
-
 # Bear Quarter
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bear_Quarter)
 
 **Bear Quarter**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bear_Quarter_icon.png) / *Bear\_Quarter\_icon.png* |
+|  | ![](../assets/Bear_Quarter_icon.png) / _Bear\_Quarter\_icon.png_ |
 | Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423) |
 | **Properties** |  |
 | Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Bear_Quarter"
 
 ## Overview
 
-A **Bear Quarter** is a section harvested from a *[bear](./Bear.md)*. You can obtain bear quarters by *quartering* a bear carcass. To quarter an animal, you have to go into the harvest menu, then select the quartering action. For a bear, this will always take 2 hours. You can only quarter a bear if its less than 50% frozen.
+A **Bear Quarter** is a section harvested from a _[bear](./Bear.md)_. You can obtain bear quarters by _quartering_ a bear carcass. To quarter an animal, you have to go into the harvest menu, then select the quartering action. For a bear, this will always take 2 hours. You can only quarter a bear if its less than 50% frozen.
 
 After quartering, the carcass will despawn, leaving behind 5-8 quarters, as well as its [Fresh Gut](./Fresh%20Gut.md) and [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md). It will also leave behind the bears legs and blood, but this cannot be picked up, and it will soon despawn. As quartering only takes 2 hours for bears, vs. the hours taken to harvest all the meat, guts, and hide by hand, and quartering still gives you all necessary parts, it makes transport and harvesting easier, especially if a blizzard is coming or if it will soon be night.
 
@@ -35,5 +30,3 @@ Unlike directly harvesting a fresh carcass' meat, you will still need to harvest
 
 - UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Четверть туши медведя](ru:%D0%A7%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D1%8C_%D1%82%D1%83%D1%88%D0%B8_%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8F)

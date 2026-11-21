@@ -1,11 +1,6 @@
----
-title: "Water (Potable)"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Water_(Potable)"
----
-
 # Water \(Potable\)
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Water_%28Potable%29)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Water_(Potable)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Water_%28Potable%29_icon.png) / *Water\_(Potable)\_icon.png* |
+|  | ![](../assets/Water_%28Potable%29_icon.png) / _Water\_(Potable)\_icon.png_ |
 | Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -33,7 +28,7 @@ source: "https://thelongdark.fandom.com/wiki/Water_(Potable)"
 | **Actions** |  |
 | Radial | Drink, Place |
 
-**Water (Potable)** is purified water that is safe to drink in [*The Long Dark*](./The%20Long%20Dark.md).
+**Water (Potable)** is purified water that is safe to drink in [_The Long Dark_](./The%20Long%20Dark.md).
 
 Consuming Potable Water restores [Thirst](./Thirst.md) and carries no risk of disease ([Dysentery](./Dysentery.md)) since it has been properly sterilized. Potable Water will never revert back into [Water (Unsafe)](./Water%20%28Unsafe%29.md).
 
@@ -80,13 +75,23 @@ Note: Unsafe and Potable water bottles are identical in appearance, and similar 
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Water bottles.](../assets/Water_bottles.jpg) / *Water bottles.* | ![Old model.](../assets/Water_potable.png) / *Old model.* | ![old icon 500ml](../assets/Water500ml.png) / *old icon 500ml* | ![old icon 1000ml](../assets/Water1000ml.png) / *old icon 1000ml* |
+![Water bottles.](../assets/Water_bottles.jpg)
+
+_Water bottles._
+
+![Old model.](../assets/Water_potable.png)
+
+_Old model._
+
+![old icon 500ml](../assets/Water500ml.png)
+
+_old icon 500ml_
+
+![old icon 1000ml](../assets/Water1000ml.png)
+
+_old icon 1000ml_
 
 ## Update history
 
 - UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.01)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

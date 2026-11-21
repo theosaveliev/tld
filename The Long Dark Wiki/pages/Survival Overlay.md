@@ -1,11 +1,6 @@
----
-title: "Survival Overlay"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Survival_Overlay"
----
-
 # Survival Overlay
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survival_Overlay)
 
 **Contents**
 
@@ -39,9 +34,9 @@ source: "https://thelongdark.fandom.com/wiki/Survival_Overlay"
 
 ![The central hub of the survival Overlay, with all icon sections explained.](../assets/Survival_Overlay_Breakdown.png)
 
-*The central hub of the survival Overlay, with all icon sections explained.*
+_The central hub of the survival Overlay, with all icon sections explained._
 
-*For the more detailed backpack menus, see [Survival Menu](./Survival%20Menu.md).*
+_For the more detailed backpack menus, see [Survival Menu](./Survival%20Menu.md)._
 
 The **Survival Overlay** is an interface that allows the player to quickly judge their situation with. It shows a copious amount of essential information in its entirety through the use of symbol and bars rather than using text to overly explain stats. This includes things like [Needs](./Needs.md), [Condition](./Condition.md), Wind Shield, temperature, Time of Day, and the player's current [Stamina](./Stamina.md).
 
@@ -61,13 +56,13 @@ Affliction Risks and Afflictions will appear on the right side of the screen. Th
 
 ## Needs and Condition
 
-![The 4 Needs and the Condition Bar](../assets/Needs_Current.png)*The 4 Needs and the Condition Bar* The bottom left side of the screen is where the center hub is visible. These, unlike the central hub, are always visible (unless changed in the options menu), and exist as a warning to the player. The NEEDS section can be set to be ALWAYS ON, or CONTEXTUAL in the Options menu in the HUD option, and the icon size can also be set to be small, medium, or large. If turned to CONTEXTUAL, Needs will not appear until when one of the player's Needs is nearly or entirely empty, in which the icon will appear on the screen as red until satisfied and then will disappear again.
+![The 4 Needs and the Condition Bar](../assets/Needs_Current.png)_The 4 Needs and the Condition Bar_ The bottom left side of the screen is where the center hub is visible. These, unlike the central hub, are always visible (unless changed in the options menu), and exist as a warning to the player. The NEEDS section can be set to be ALWAYS ON, or CONTEXTUAL in the Options menu in the HUD option, and the icon size can also be set to be small, medium, or large. If turned to CONTEXTUAL, Needs will not appear until when one of the player's Needs is nearly or entirely empty, in which the icon will appear on the screen as red until satisfied and then will disappear again.
 
 From top to bottom, the information included is as follows:
 
 ### Warmth, Fatigue, Thirst, and Hunger
 
-![The Fatigue bar when suffering from extreme hunger over long periods of time or Intestinal Parasites](../assets/UI_Long-Hunger.jpg)*The Fatigue bar when suffering from extreme hunger over long periods of time or Intestinal Parasites* Here, the player can view their four major [Needs](./Needs.md) ([Warmth](./Warmth.md), [Fatigue](./Fatigue.md), [Thirst](./Thirst.md), [Hunger](./Hunger.md)). The survival of each need is indicated by the size and color of the respective need bar; the smaller and more red the bar is (and more drained the circle), the more severe the need. Fully diminished Needs begin to drain Condition.
+![The Fatigue bar when suffering from extreme hunger over long periods of time or Intestinal Parasites](../assets/UI_Long-Hunger.jpg)_The Fatigue bar when suffering from extreme hunger over long periods of time or Intestinal Parasites_ Here, the player can view their four major [Needs](./Needs.md) ([Warmth](./Warmth.md), [Fatigue](./Fatigue.md), [Thirst](./Thirst.md), [Hunger](./Hunger.md)). The survival of each need is indicated by the size and color of the respective need bar; the smaller and more red the bar is (and more drained the circle), the more severe the need. Fully diminished Needs begin to drain Condition.
 
 ### Condition
 
@@ -93,7 +88,7 @@ When shielded from the wind, the windchill effect of high winds on the player ch
 
 ![](../assets/ScentMeter.png)
 
-*ScentMeter.png*
+_ScentMeter.png_
 
 [Scent](./Scent.md) is a mechanic which increases the distance which [predators](./Wildlife.md) can detect the survivor by smell. Scent is increased when the survivor is carrying meat and fresh guts, and is affected by wind speed and wind direction. There are 3 meters that increase as the player carries more odorous items. Being Windshielded will prevent the smell from spreading downstream.
 
@@ -105,7 +100,7 @@ Several icons, typically appearing in the bottom center of the screen, will appe
 
 ![](../assets/Weak_Ice_icon.png)
 
-*Weak\_Ice\_icon.png*
+_Weak\_Ice\_icon.png_
 
 [Weak Ice](./Weak%20Ice.md) will trigger the above icon as a danger warning to back away from the area. Failing to heed this warning will result in the player falling through the ice and taking Condition damage, wetting their clothes, and gaining [Hypothermia](./Hypothermia.md).
 
@@ -113,7 +108,7 @@ Several icons, typically appearing in the bottom center of the screen, will appe
 
 ![](../assets/Timberwolf_Morale_Bar.jpg)
 
-*Timberwolf\_Morale\_Bar.jpg*
+_Timberwolf\_Morale\_Bar.jpg_
 
 When a [Timberwolf](./Timberwolf.md) pack has been alerted to the presence of the player, a special Morale meter appears in the bottom middle of the screen. Attacking the pack will cause the bar to gradually empty until the pack is entirely killed or scatters, in which it will dissapear.
 
@@ -121,7 +116,7 @@ When a [Timberwolf](./Timberwolf.md) pack has been alerted to the presence of th
 
 ![The corners of the screen appear yellow when suffering from Chemical Poisoning Risk](../assets/Chemical_Hazard_Hud.jpg)
 
-*The corners of the screen appear yellow when suffering from [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md)*
+_The corners of the screen appear yellow when suffering from [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md)_
 
 [Chemical Hazards](./Chemical%20Hazard.md) are areas of land contaminated by toxic spilled chemicals that appear in the [Zone of Contamination](./Zone%20of%20Contamination.md). When not wearing a [Respirator](./Respirator.md) with a functional [Canister](./Canister.md), the 4 corners of the screen will gradually begin to fill up with a yellow overlay. Leaving a Chemical Hazard or equipping a Respirator will make the yellow film gradually dissipate.
 
@@ -129,7 +124,7 @@ When a [Timberwolf](./Timberwolf.md) pack has been alerted to the presence of th
 
 ![The bloody screen and distance meter](../assets/Darkwalker_Very_Bloody_Screen.jpg)
 
-*The bloody screen and distance meter*
+_The bloody screen and distance meter_
 
 Getting close to the Darkwalker in the [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) [Challenge](./Challenge.md) will cause a distance meter to appear when near the creature, displaying the current distance the monster is to the player.
 
@@ -143,7 +138,7 @@ These icons appear in the bottom right corner of the screen, and are related to 
 
 ![](../assets/Sprint_icon.png)
 
-*Sprint\_icon.png*
+_Sprint\_icon.png_
 
 [Stamina](./Stamina.md) represents the player's ability to undertake several physically demanding tasks, and appears inside a draining circle similar to Needs. The image inside the bar changes depending on what physical task is being performed:
 
@@ -172,7 +167,7 @@ An icon of a man crouching appears when the player is currently crouching. Stand
 
 ![](../assets/Burdened_icon.png)
 
-*Burdened\_icon.png*
+_Burdened\_icon.png_
 
 An icon appears when carrying a [Crash Survivor](./Crash%20Survivor.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). When this icon appears, the player cannot Sprint, use weapons, or enter vehicles.
 
@@ -180,7 +175,7 @@ An icon appears when carrying a [Crash Survivor](./Crash%20Survivor.md) in [Epis
 
 ![](../assets/Weight_icon.png)
 
-*Weight\_icon.png*
+_Weight\_icon.png_
 
 A weight icon related to the player's current [Encumbrance](./Encumbrance.md) level will appear in the bottom right. If the player is currently under their Carry Weight, the weight will appear green. If they are Over Encumbered, a red weight icon will appear instead, and will not disappear until the player's Encumbrance goes below their max Carry Weight again.
 
@@ -188,13 +183,13 @@ A weight icon related to the player's current [Encumbrance](./Encumbrance.md) le
 
 \[Missing image: Pente.jpg\]
 
-*Pente.jpg*
+_Pente.jpg_
 
 Occasionally, the player will see a red slope when traveling the world. This is the Steep Slope Warning, and warns the player that walking over this area can result in a Sprain, such as a steep hill or rocky mountainside slope. If the player's Carry Weight is Over Encumbered and they are suffering from a [Sprain Risk](./Sprain%20Risk.md), they are more likely to acquire a [Sprained Wrist](./Sprained%20Wrist.md) or [Sprained Ankle](./Sprained%20Ankle.md) when walking through these areas.
 
 ## Time of Day
 
-![Midnight and Noon, the middle of night and the middle of day respectively](../assets/Nighttime_daytime_midnight_noon.jpg)*Midnight and Noon, the middle of night and the middle of day respectively* The top right corner will show the Time of Day, represented by a sun and moon which rotates to give a rough idea as to the hour.
+![Midnight and Noon, the middle of night and the middle of day respectively](../assets/Nighttime_daytime_midnight_noon.jpg)_Midnight and Noon, the middle of night and the middle of day respectively_ The top right corner will show the Time of Day, represented by a sun and moon which rotates to give a rough idea as to the hour.
 
 One day in '**The Long Dark**' is 24 hours long, split between 14.5 hours of daylight and 9.5 hours of darkness. [¹](#fn1)
 
@@ -208,23 +203,29 @@ One in game minute is 3 seconds irl, 3x60(minutes)=180(seconds), 180x24(hours)= 
 
 ### Day vs. Night
 
-![8:30 PM - Daytime ends, Nighttime begins](../assets/Nighttime_start_10pm.jpg)*8:30 PM - Daytime ends, Nighttime begins* The coldest temperatures are usually early in the morning, just before dawn. As the day progresses, temperatures usually start to warm; how warm it gets depends on the region and the weather. **Example of temperature in °c in interloper J8: AM 6h -24/-17. 8h -22/-16. 11h -17/13 PM 1h:-10/6. 2h: -9/1 3h: -8/5. 4h -7/9. 5h -8/9. 0h: -20 AM 5h -26 8h -24.**
+![8:30 PM - Daytime ends, Nighttime begins](../assets/Nighttime_start_10pm.jpg)_8:30 PM - Daytime ends, Nighttime begins_ The coldest temperatures are usually early in the morning, just before dawn. As the day progresses, temperatures usually start to warm; how warm it gets depends on the region and the weather. __Example of temperature in °c in interloper J8: AM 6h -24/-17. 8h -22/-16. 11h -17/13 PM 1h:-10/6. 2h: -9/1 3h: -8/5. 4h -7/9. 5h -8/9. 0h: -20 AM 5h -26 8h -24.__
 
 In general, it's best to explore the outdoors during the day because it offers better visibility and wolves are less aggressive. However, bears also wake up and patrol. Auroras, which make predators even more aggressive, never occur during the day.
 
 #### Light
 
-To study, mend, craft items at workbenches, or recycle with tools indoor, most of the time light is needed. Daylight lasts from dawn (6:00 AM) through sundown (8:30 PM) both indoors and outdoors. If the sky isn't overcast, use of the [Magnifying lens](./Magnifying%20Lens.md) is permitted as soon as the first ray of the sun appear at 6:00 AM, as is any other activity that requires light. ![6:00 AM - Nighttime ends, Daytime starts](../assets/Nighttime_end_6am.jpg)*6:00 AM - Nighttime ends, Daytime starts* As evening falls, outdoor temperatures start to drop and wolves are more active and alert, making it difficult to be outside as they will immediately attack instead of stalking the player. However, bears usually return to their dens and sleep. You’ll probably want to find shelter before it gets dark. Night time strips shelters of any natural interior light (except for [ice caves](./Ice%20Cave.md) in the [Hushed River Valley](./Hushed%20River%20Valley.md)), making navigation a challenge.
+To study, mend, craft items at workbenches, or recycle with tools indoor, most of the time light is needed. Daylight lasts from dawn (6:00 AM) through sundown (8:30 PM) both indoors and outdoors. If the sky isn't overcast, use of the [Magnifying lens](./Magnifying%20Lens.md) is permitted as soon as the first ray of the sun appear at 6:00 AM, as is any other activity that requires light. ![6:00 AM - Nighttime ends, Daytime starts](../assets/Nighttime_end_6am.jpg)_6:00 AM - Nighttime ends, Daytime starts_ As evening falls, outdoor temperatures start to drop and wolves are more active and alert, making it difficult to be outside as they will immediately attack instead of stalking the player. However, bears usually return to their dens and sleep. You’ll probably want to find shelter before it gets dark. Night time strips shelters of any natural interior light (except for [ice caves](./Ice%20Cave.md) in the [Hushed River Valley](./Hushed%20River%20Valley.md)), making navigation a challenge.
 
 Being lost in heavy snow on a dark night can be extremely challenging. When traveling in the dark, light sources are a must as it's otherwise very difficult to navigate. Night travel comes at the risk of wolf attacks, as they can detect a player from longer distances before a player may notice them. There is also a small chance for the Aurora to occur if the weather is clear.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![The first Survival Overlay in the Alpha game versions was inside the Survival Menu](../assets/Alpha_main_menu.jpg) / *The first Survival Overlay in the Alpha game versions was inside the [Survival Menu](./Survival%20Menu.md)* | ![0.264 (Desolation Point Update)](../assets/Survival_Overlay_old.png) / *0.264 (Desolation Point Update)* | ![V1.00 overlay (Needs are in the middle of the screen)](../assets/The_Long_Dark_updated_Radial_Menu.png) / *V1.00 overlay (Needs are in the middle of the screen)* |
+![The first Survival Overlay in the Alpha game versions was inside the Survival Menu](../assets/Alpha_main_menu.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_The first Survival Overlay in the Alpha game versions was inside the [Survival Menu](./Survival%20Menu.md)_
+
+![0.264 (Desolation Point Update)](../assets/Survival_Overlay_old.png)
+
+_0.264 (Desolation Point Update)_
+
+![V1.00 overlay (Needs are in the middle of the screen)](../assets/The_Long_Dark_updated_Radial_Menu.png)
+
+_V1.00 overlay (Needs are in the middle of the screen)_
 
 ## Notes
 

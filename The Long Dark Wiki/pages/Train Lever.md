@@ -1,17 +1,12 @@
----
-title: "Train Lever"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Train_Lever"
----
-
 # Train Lever
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Train_Lever)
 
 **Train Lever**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Train_Lever_icon.png) / *Train\_Lever\_icon.png* |
+|  | ![](../assets/Train_Lever_icon.png) / _Train\_Lever\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -32,5 +27,3 @@ source: "https://thelongdark.fandom.com/wiki/Train_Lever"
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

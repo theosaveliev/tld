@@ -1,11 +1,6 @@
----
-title: "Signal to Noise"
-wiki_namespace: 0
-categories: ["Episode 2"]
-source: "https://thelongdark.fandom.com/wiki/Signal_to_Noise"
----
-
 # Signal to Noise
+
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Signal_to_Noise)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Signal_to_Noise"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Missions_story_ep2_Signal_to_Noise.png) / *Missions\_story\_ep2\_Signal\_to\_Noise.png* |
+|  | ![](../assets/Missions_story_ep2_Signal_to_Noise.png) / _Missions\_story\_ep2\_Signal\_to\_Noise.png_ |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
 | Previous | [The Best Defense](./The%20Best%20Defense.md) |
 | Current | Signal to Noise |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Signal_to_Noise"
 
 **Template:spoiler**
 
-> “**Jeremiah has a plan for how Mackenzie can reach Perseverance Mills, but carrying it out may put the pilot on a collision course with the Old Bear.**”
+> “__Jeremiah has a plan for how Mackenzie can reach Perseverance Mills, but carrying it out may put the pilot on a collision course with the Old Bear.__”
 >
 > — In-game description
 
@@ -52,12 +47,8 @@ Timing is essential, as setting the spear is not instantaneous and the stamina m
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![The location of the transponder parts on the towers](../assets/Transponder.jpg) / *The location of the transponder parts on the towers* |
+![The location of the transponder parts on the towers](../assets/Transponder.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_The location of the transponder parts on the towers_
 
-1. 
-
-**Lua execution error in Module:Navbox function navbox**
+1.

@@ -1,17 +1,12 @@
----
-title: "T-Shirt"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/T-Shirt"
----
-
 # T\-Shirt
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/T-Shirt)
 
 **T-Shirt**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/T-Shirt_icon.png) / *T-Shirt\_icon.png* |
+|  | ![](../assets/T-Shirt_icon.png) / _T-Shirt\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
@@ -26,23 +21,25 @@ source: "https://thelongdark.fandom.com/wiki/T-Shirt"
 | Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 35% condition |
 
-> “**Short-sleeved cotton t-shirt. Doesn't offer much warmth, particularly when wet.**”
+> “__Short-sleeved cotton t-shirt. Doesn't offer much warmth, particularly when wet.__”
 >
 > — In-game description
 
-The **T-Shirt** is a type of [clothing](./Clothing.md) item in *[The Long Dark](./The%20Long%20Dark.md)*.
+The **T-Shirt** is a type of [clothing](./Clothing.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
 The shirt is the worst inner torso clothing in the game. It offers a small amount of warmth, and nothing else. It should be replaced and harvested for [Cloth](./Cloth.md) as soon as possible, as every other inner torso clothing outclasses it in some way.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/T-Shirt_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/T-Shirt_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Clothing model icon](../assets/T-Shirt_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/T-Shirt_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Футболка](ru:%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%BA%D0%B0)

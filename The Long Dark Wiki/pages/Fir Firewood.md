@@ -1,11 +1,6 @@
----
-title: "Fir Firewood"
-wiki_namespace: 0
-categories: ["Fire Starting", "Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Fir_Firewood"
----
-
 # Fir Firewood
+
+**Categories:** Fire Starting, Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fir_Firewood)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Fir_Firewood"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fir_Firewood_icon.png) / *Fir\_Firewood\_icon.png* |
+|  | ![](../assets/Fir_Firewood_icon.png) / _Fir\_Firewood\_icon.png_ |
 | Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -33,7 +28,7 @@ source: "https://thelongdark.fandom.com/wiki/Fir_Firewood"
 | **Advanced data** |  |
 | Item key | gear\_hardwood |
 
-**Fir Firewood** is a fuel for fires in *[The Long Dark](./The%20Long%20Dark.md)*, it also is a material for repairing the [Heavy Hammer](./Heavy%20Hammer.md).
+**Fir Firewood** is a fuel for fires in _[The Long Dark](./The%20Long%20Dark.md)_, it also is a material for repairing the [Heavy Hammer](./Heavy%20Hammer.md).
 
 ## Overview
 
@@ -72,5 +67,3 @@ Since a single piece of Fir Firewood has a fire duration of 1 hour and 30 minute
   - Tuned all Fuel sources. Hardwood, Softwood, and Reclaimed wood all now have reduced burn times, but are also lighter to carry. Wood Foraging has been tuned to be more generous. Net result is Fuel is easier to find and carry, but you need more of it.
 - UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.01)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Еловые дрова](ru:%D0%95%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B4%D1%80%D0%BE%D0%B2%D0%B0)

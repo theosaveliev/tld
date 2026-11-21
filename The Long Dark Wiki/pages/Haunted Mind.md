@@ -1,17 +1,12 @@
----
-title: "Haunted Mind"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Haunted_Mind"
----
-
 # Haunted Mind
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Haunted_Mind)
 
 **Haunted Mind**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Haunted_Mind_icon.png) / *Haunted\_Mind\_icon.png* |
+|  | ![](../assets/Haunted_Mind_icon.png) / _Haunted\_Mind\_icon.png_ |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Update | 2.28 |
 | **Properties** |  |
@@ -24,13 +19,13 @@ source: "https://thelongdark.fandom.com/wiki/Haunted_Mind"
 | **Treatment** |  |
 | Recovery Time | No Treatment |
 
-**Haunted Mind** is an [Affliction](./Afflictions.md) found within *[The Long Dark](./The%20Long%20Dark.md)*. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
+**Haunted Mind** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
 
 ## Overview
 
-> “**You experience an endless inner turmoil.  
+> “__You experience an endless inner turmoil.  
    
- Your maximum Sleep time is reduced, and you recover 50% less Condition from Resting.**”
+ Your maximum Sleep time is reduced, and you recover 50% less Condition from Resting.__”
 >
 > — In-game Description
 
@@ -40,5 +35,3 @@ Haunted Mind is a permanent Affliction unique to [Misery Mode](./Misery.md) whic
 
 - Maximum consecutive [Sleep](./Sleep.md) hours capped at 7 (normally 12)
 - -50% [Condition](./Condition.md) recovered by Sleep
-
-**Lua execution error in Module:Navbox function navbox**

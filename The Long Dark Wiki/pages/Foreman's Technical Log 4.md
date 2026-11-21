@@ -1,17 +1,12 @@
----
-title: "Foreman's Technical Log 4"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Foreman's_Technical_Log_4"
----
-
 # Foreman's Technical Log 4
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Foreman's_Technical_Log_4)
 
 **Foreman's Technical Log 4**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Foreman%27s_Technical_Log_4_icon.png) / *Foreman's\_Technical\_Log\_4\_icon.png* |
+|  | ![](../assets/Foreman%27s_Technical_Log_4_icon.png) / _Foreman's\_Technical\_Log\_4\_icon.png_ |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Wintermute | No |
 | **Properties** |  |
@@ -27,7 +22,7 @@ The voice acting of this Collectible doesn't match the on-screen text and is mis
 
 ## Transcript
 
-*The following text is transcribed from **Foreman's Technical Log 4***
+_The following text is transcribed from **Foreman's Technical Log 4**_
 
 **\[barely legible handwriting...\]
 
@@ -91,7 +86,5 @@ But...maybe I shouldn't make it?**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Технический журнал бригадира 4](ru:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB_%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B8%D1%80%D0%B0_4)

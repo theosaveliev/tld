@@ -1,17 +1,12 @@
----
-title: "Miner's Jacket"
-wiki_namespace: 0
-categories: ["Clothing", "DLC Content", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Miner's_Jacket"
----
-
 # Miner's Jacket
+
+**Categories:** Clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Miner's_Jacket)
 
 **Miner's Jacket**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Miner%27s_Jacket_icon.png) / *Miner's\_Jacket\_icon.png* |
+|  | ![](../assets/Miner%27s_Jacket_icon.png) / _Miner's\_Jacket\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot |  |
@@ -27,13 +22,21 @@ source: "https://thelongdark.fandom.com/wiki/Miner's_Jacket"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | **A durable, high-quality waterproof jacket. Its average warmth allows for flexible operations underground or on the surface. Layer appropriately.** / In-game description | ” |
+| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __A durable, high-quality waterproof jacket. Its average warmth allows for flexible operations underground or on the surface. Layer appropriately.__ / In-game description | ” |
 
 The **Miner's Jacket** is a unique [Clothing](./Clothing.md) jacket found in various locations across the [Zone of Contamination](./Zone%20of%20Contamination.md). It most often spawns somewhere inside the [Langston Mine](./Langston%20Mine.md), [Concentrator](./Concentrator.md), [Conveyor Room](./Conveyor%20Room.md), [Headframe Building](./Headframe%20Building.md), or [Idle Camp](./Idle%20Camp.md).
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Model icon](../assets/Miner%27s_Jacket_Model_icon.png) / *Model icon* | ![Model icon damaged](../assets/Miner%27s_Jacket_Model_Damaged_icon.png) / *Model icon damaged* | ![Old gear icon](../assets/Miner%27s_Jacket_icon_old.png) / *Old gear icon* |
+![Model icon](../assets/Miner%27s_Jacket_Model_icon.png)
+
+_Model icon_
+
+![Model icon damaged](../assets/Miner%27s_Jacket_Model_Damaged_icon.png)
+
+_Model icon damaged_
+
+![Old gear icon](../assets/Miner%27s_Jacket_icon_old.png)
+
+_Old gear icon_
 
 ## Update history
 
@@ -43,7 +46,5 @@ The **Miner's Jacket** is a unique [Clothing](./Clothing.md) jacket found in var
   - Added to game.
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added new icon.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Куртка шахтёра](ru:%D0%9A%D1%83%D1%80%D1%82%D0%BA%D0%B0_%D1%88%D0%B0%D1%85%D1%82%D1%91%D1%80%D0%B0)

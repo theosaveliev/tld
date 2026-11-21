@@ -1,17 +1,12 @@
----
-title: "Torn Paper"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Torn_Paper"
----
-
 # Torn Paper
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Torn_Paper)
 
 **Torn Paper**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Torn_Paper_icon.png) / *Torn\_Paper\_icon.png* |
+|  | ![](../assets/Torn_Paper_icon.png) / _Torn\_Paper\_icon.png_ |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Torn_Paper"
 
 ## Transcript
 
-*The following text is transcribed from **Torn Paper***
+_The following text is transcribed from **Torn Paper**_
 
 **Papa,
 
@@ -41,5 +36,3 @@ Eliza**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

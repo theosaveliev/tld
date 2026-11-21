@@ -1,11 +1,6 @@
----
-title: "Coho Salmon (Raw)"
-wiki_namespace: 0
-categories: ["Fish", "Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Coho_Salmon_(Raw)"
----
-
 # Coho Salmon \(Raw\)
+
+**Categories:** Fish, Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coho_Salmon_%28Raw%29)
 
 **Contents**
 
@@ -19,8 +14,8 @@ source: "https://thelongdark.fandom.com/wiki/Coho_Salmon_(Raw)"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Raw](../assets/Coho_Salmon_%28Raw%29_icon.png) / *Raw* \| ![Opened](../assets/Coho_Salmon_%28Raw%29_Open_icon.png) / *Opened* \| / \| --- \| --- \| | 250px\]\] |
-| ![Raw](../assets/Coho_Salmon_%28Raw%29_icon.png) / *Raw* | ![Opened](../assets/Coho_Salmon_%28Raw%29_Open_icon.png) / *Opened* |
+| \[\[File: / ![Raw](../assets/Coho_Salmon_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Coho_Salmon_%28Raw%29_Open_icon.png) / _Opened_ | 250px\]\] |
+| ![Raw](../assets/Coho_Salmon_%28Raw%29_icon.png) / _Raw_ | ![Opened](../assets/Coho_Salmon_%28Raw%29_Open_icon.png) / _Opened_ |
 | Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -37,9 +32,9 @@ source: "https://thelongdark.fandom.com/wiki/Coho_Salmon_(Raw)"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_RawCohoSalmon |
 
-*For the cooked version, see [Coho Salmon (Cooked)](./Coho%20Salmon%20%28Cooked%29.md).*
+_For the cooked version, see [Coho Salmon (Cooked)](./Coho%20Salmon%20%28Cooked%29.md)._
 
-**Coho Salmon (Raw)** is a raw [food](./Food%20And%20Drink.md) item in *The Long Dark*.
+**Coho Salmon (Raw)** is a raw [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
 ## Overview
 
@@ -57,13 +52,15 @@ Cooking Salmon improves the [cooking skill](./Skills.md#Cooking) and requires a 
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Old model.](../assets/Coho_salmon.png) / *Old model.* | ![Steam Badge](../assets/Steam_Salmon_Badge.png) / *Steam Badge* |
+![Old model.](../assets/Coho_salmon.png)
+
+_Old model._
+
+![Steam Badge](../assets/Steam_Salmon_Badge.png)
+
+_Steam Badge_
 
 ## Update history
 
 - UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Кижуч (сырой)](ru:%D0%9A%D0%B8%D0%B6%D1%83%D1%87_%28%D1%81%D1%8B%D1%80%D0%BE%D0%B9%29)

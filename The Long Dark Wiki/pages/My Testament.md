@@ -1,17 +1,12 @@
----
-title: "My Testament"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/My_Testament"
----
-
 # My Testament
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/My_Testament)
 
 **My Testament**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/My_Testament_icon.png) / *My\_Testament\_icon.png* |
+|  | ![](../assets/My_Testament_icon.png) / _My\_Testament\_icon.png_ |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | Wintermute | No |
 | **Properties** |  |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/My_Testament"
 
 ## Transcript
 
-*The following text is transcribed from **My Testament***
+_The following text is transcribed from **My Testament**_
 
 **In every man’s journey there is a moment of total clarity. When a blue sky or an empty road shows the way forward.
 
@@ -53,7 +48,5 @@ I have seen the new horizon.**
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Мой завет](ru:%D0%9C%D0%BE%D0%B9_%D0%B7%D0%B0%D0%B2%D0%B5%D1%82)

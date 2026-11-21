@@ -1,17 +1,12 @@
----
-title: "Workbench Vice"
-wiki_namespace: 0
-categories: ["Materials"]
-source: "https://thelongdark.fandom.com/wiki/Workbench_Vice"
----
-
 # Workbench Vice
+
+**Categories:** Materials · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Workbench_Vice)
 
 **Workbench Vice**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Workbench_Vice_icon.png) / *Workbench\_Vice\_icon.png* |
+|  | ![](../assets/Workbench_Vice_icon.png) / _Workbench\_Vice\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Properties** |  |
 | Item type | [Materials](./Materials.md)\|- |
@@ -31,10 +26,8 @@ A **Workbench Vice** is a [Materials](./Materials.md) obtained from [Harvesting]
 
 There are currently 50 Work Benches found in the game, producing a limited amount of Vices to prevent the player from easily making infinite Work Benches.
 
-*For a full list of locations with a Work Bench, see :Category:Locations with a workbench.*
+_For a full list of locations with a Work Bench, see :Category:Locations with a workbench._
 
 ## Products
 
 ## Game History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**

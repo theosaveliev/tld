@@ -1,11 +1,6 @@
----
-title: "Ptarmigan"
-wiki_namespace: 0
-categories: ["DLC Content", "Wildlife"]
-source: "https://thelongdark.fandom.com/wiki/Ptarmigan"
----
-
 # Ptarmigan
+
+**Categories:** DLC Content, Wildlife · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ptarmigan)
 
 **Contents**
 
@@ -35,7 +30,7 @@ source: "https://thelongdark.fandom.com/wiki/Ptarmigan"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Ptarmigan.png) / *Ptarmigan.png* |
+|  | ![](../assets/Ptarmigan.png) / _Ptarmigan.png_ |
 | **Basic Information** |  |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
 | Role | Prey |
@@ -46,7 +41,7 @@ source: "https://thelongdark.fandom.com/wiki/Ptarmigan"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | **A small winter bird that gathers in flocks. Can be a source of food, and its Feathers become a useful crafting material.** / Official Hinterland Description | ” |
+| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __A small winter bird that gathers in flocks. Can be a source of food, and its Feathers become a useful crafting material.__ / Official Hinterland Description | ” |
 
 **Ptarmigan** are an avian species of prey wildlife found on [Great Bear Island](./Great%20Bear%20Island.md). They were introduced in the Part 3: Frontier Comforts update of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md), and can only be encountered by players who have bought the expansion pass.
 
@@ -62,8 +57,8 @@ When killed, a [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) can be butchered on
 
 |  | Item | Quanity | Rarity |
 | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_%28Raw%29_icon.png) / *Ptarmigan\_(Raw)\_icon.png* | [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) | 0.8-1.5 Kg (1.8-3.3 lbs) | Always |
-| ![](../assets/Ptarmigan_Down_icon.png) / *Ptarmigan\_Down\_icon.png* | [Ptarmigan Down](./Ptarmigan%20Down.md) | 4 Bundles | Always |
+| ![](../assets/Ptarmigan_%28Raw%29_icon.png) / _Ptarmigan\_(Raw)\_icon.png_ | [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) | 0.8-1.5 Kg (1.8-3.3 lbs) | Always |
+| ![](../assets/Ptarmigan_Down_icon.png) / _Ptarmigan\_Down\_icon.png_ | [Ptarmigan Down](./Ptarmigan%20Down.md) | 4 Bundles | Always |
 
 Ptarmigan meat is a necessary ingredient in making all stews, as it is the only reliable way of obtaining [Broth](./Broth.md).
 
@@ -196,14 +191,24 @@ Ptarmigan Nests are locations that Ptarmigans will always loiter around. They ar
 
 ## Trivia
 
-- Ptarmigan appears to be based on the winter plumage of the [Willow Ptarmigan](https://en.wikipedia.org/wiki/Willow_ptarmigan) (***Lagopus lagopus***), a species of Galliformes identifiable by its red crest above the eye and changing feather colors that match the seasons.
+- Ptarmigan appears to be based on the winter plumage of the [Willow Ptarmigan](https://en.wikipedia.org/wiki/Willow_ptarmigan) (**_Lagopus lagopus_**), a species of Galliformes identifiable by its red crest above the eye and changing feather colors that match the seasons.
 - The correct plural pronounciation of Ptarmigan is either Ptarmigan or Ptarmigans (similar to Fish or Fishes).
 - Ptarmigan are also the Nunavut’s official bird, one of symbol for the territorial heritage of north-east Canada. ([official source here](https://www.canada.ca/en/canadian-heritage/services/provincial-territorial-symbols-canada/nunavut.html))
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Ptarmigan icon used in the Far Territory marketing](../assets/Ptarmigan_icon.png) / *Ptarmigan icon used in the Far Territory marketing* | ![](../assets/Ptarmigan-768x432.png) / *Ptarmigan-768x432.png* | ![A Ptarmigan up close](../assets/Ptarmigan_Up_Close.jpg) / *A Ptarmigan up close* | ![A Wolf feeding on a Ptarmigan](../assets/Wolf_eating_Ptarmigan.png) / *A Wolf feeding on a Ptarmigan* |
+![Ptarmigan icon used in the Far Territory marketing](../assets/Ptarmigan_icon.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Куропатка](ru:%D0%9A%D1%83%D1%80%D0%BE%D0%BF%D0%B0%D1%82%D0%BA%D0%B0)
+_Ptarmigan icon used in the Far Territory marketing_
+
+![](../assets/Ptarmigan-768x432.png)
+
+_Ptarmigan-768x432.png_
+
+![A Ptarmigan up close](../assets/Ptarmigan_Up_Close.jpg)
+
+_A Ptarmigan up close_
+
+![A Wolf feeding on a Ptarmigan](../assets/Wolf_eating_Ptarmigan.png)
+
+_A Wolf feeding on a Ptarmigan_

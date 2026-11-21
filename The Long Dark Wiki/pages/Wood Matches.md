@@ -1,11 +1,6 @@
----
-title: "Wood Matches"
-wiki_namespace: 0
-categories: ["Fire Starting"]
-source: "https://thelongdark.fandom.com/wiki/Wood_Matches"
----
-
 # Wood Matches
+
+**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wood_Matches)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Wood_Matches"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Wood_Matches_icon.png) / *Wood\_Matches\_icon.png* |
+|  | ![](../assets/Wood_Matches_icon.png) / _Wood\_Matches\_icon.png_ |
 | **General** |  |
 | Item Type | Fire Starting\|- |
 | Renewable | Yes |
@@ -28,11 +23,11 @@ source: "https://thelongdark.fandom.com/wiki/Wood_Matches"
 | Bonus chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+5% |
 | Unit count | ![unit\_count\_icon.png](../assets/Unit_count_icon.png)12match |
 
-> “**Wooden strike-anywhere matches.**”
+> “__Wooden strike-anywhere matches.__”
 >
 > — In-game description
 
-**Wood Matches** are a [Fire Starting](./Fire%20Starting.md) Tools and a small light source in *The Long Dark*.
+**Wood Matches** are a [Fire Starting](./Fire%20Starting.md) Tools and a small light source in _The Long Dark_.
 
 ## Overview
 
@@ -52,15 +47,21 @@ Pressing H with a lit match will cause the survivor to flick the match into the 
 
 ## Trivia
 
-- Wood Matches are branded as the product "*Trusty Matches"*.
+- Wood Matches are branded as the product "_Trusty Matches"_.
 - Despite being contained inside a cardboard box, no tinder is given or harvestable when wooden matches are used up unlike cardboard boxes present across [Great Bear Island](./Great%20Bear%20Island.md).
 - If a player lights a match and holds onto it for too long, the match will burn their fingers, but will not result in any condition loss
 - When dropped on the ground, the box appears upside-down, obscuring the logo.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Wood matches' viewmodel](../assets/Matches_viewmodel.jpg) / *Wood matches' viewmodel* | ![old model](../assets/Wood_matches.png) / *old model* | ![Pre Alpha model](../assets/Pre_Alpha_Wood_Matches.jpg) / *Pre Alpha model* |
+![Wood matches' viewmodel](../assets/Matches_viewmodel.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Деревянные спички](ru:%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%87%D0%BA%D0%B8)
+_Wood matches' viewmodel_
+
+![old model](../assets/Wood_matches.png)
+
+_old model_
+
+![Pre Alpha model](../assets/Pre_Alpha_Wood_Matches.jpg)
+
+_Pre Alpha model_

@@ -1,11 +1,6 @@
----
-title: "Safe"
-wiki_namespace: 0
-categories: ["Interactable objects", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Safe"
----
-
 # Safe
+
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Safe)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Safe"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Safe.png) / *Safe.png* |
+|  | ![](../assets/Safe.png) / _Safe.png_ |
 | Release | TBD |
 | Update | [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00) |
 | Story item | No |
@@ -40,28 +35,28 @@ A safe can hold 10kg.
 |  | Item | Rarity |
 | --- | --- | --- |
 |  |  |  |
-| ![](../assets/Cash_icon.png) / *Cash\_icon.png* | [Cash](./Cash.md) | 13.04% |
-| ![](../assets/Military-Grade_MRE_icon.png) / *Military-Grade\_MRE\_icon.png* | [Military-Grade MRE](./Military-Grade%20MRE.md) | 10.87% |
-| ![](../assets/Rifle_Cartridge_icon.png) / *Rifle\_Cartridge\_icon.png* | [Rifle Cartridge](./Rifle%20Ammunition.md) | 10.87% |
-| ![](../assets/Maple_Syrup_icon.png) / *Maple\_Syrup\_icon.png* | [Maple Syrup](./Maple%20Syrup.md) | 5.43% |
-| ![](../assets/Emergency_Stim_icon.png) / *Emergency\_Stim\_icon.png* | [Emergency Stim](./Emergency%20Stim.md) | 5.43% |
-| ![](../assets/Flare_icon.png) / *Flare\_icon.png* | [Flare](./Flare.md) | 5.43% |
-| ![](../assets/Flare_Shell_icon.png) / *Flare\_Shell\_icon.png* | [Flare Shell](./Flare%20Shell.md) | 5.43% |
-| ![](../assets/Insulated_Boots_icon.png) / *Insulated\_Boots\_icon.png* | [Insulated Boots](./Insulated%20Boots.md) | 5.43% |
-| ![](../assets/Mukluks_icon.png) / *Mukluks\_icon.png* | [Mukluks](./Mukluks.md) | 5.43% |
-| ![](../assets/Book_icon.png) / *Book\_icon.png* | [Book](./Book.md) | 5.43% |
-| ![](../assets/Revolver_Ammunition_icon.png) / *Revolver\_Ammunition\_icon.png* | [Revolver Ammunition](./Revolver%20Ammunition.md) | 5.43% |
-| ![](../assets/Wool_Ear_Wrap_icon.png) / *Wool\_Ear\_Wrap\_icon.png* | [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) | 3.26% |
-| ![](../assets/Can_of_Gunpowder_icon.png) / *Can\_of\_Gunpowder\_icon.png* | [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 2.17% |
-| ![](../assets/Magnifying_Lens_icon.png) / *Magnifying\_Lens\_icon.png* | [Magnifying Lens](./Magnifying%20Lens.md) | 2.17% |
-| ![](../assets/Flashlight_icon.png) / *Flashlight\_icon.png* | [Flashlight](./Flashlight.md) | 2.17% |
-| ![](../assets/Expedition_Parka_icon.png) / *Expedition\_Parka\_icon.png* | [Expedition Parka](./Expedition%20Parka.md) | 2.17% |
-| ![](../assets/Rifle_Ammunition_icon.png) / *Rifle\_Ammunition\_icon.png* | [Rifle Ammunition](./Rifle%20Ammunition.md) | 2.17% |
-| ![](../assets/Simple_Arrow_icon.png) / *Simple\_Arrow\_icon.png* | [Simple Arrow](./Simple%20Arrow.md) | 2.17% |
-| ![](../assets/Cowichan_Sweater_icon.png) / *Cowichan\_Sweater\_icon.png* | [Cowichan Sweater](./Cowichan%20Sweater.md) | 2.17% |
-| ![](../assets/Revolver_icon.png) / *Revolver\_icon.png* | [Revolver](./Revolver.md) | 1.09% |
-| ![](../assets/Distress_Pistol_icon.png) / *Distress\_Pistol\_icon.png* | [Distress Pistol](./Distress%20Pistol.md) | 1.09% |
-| ![](../assets/Cured_Wolf_Pelt_icon.png) / *Cured\_Wolf\_Pelt\_icon.png* | [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) | 1.09% |
+| ![](../assets/Cash_icon.png) / _Cash\_icon.png_ | [Cash](./Cash.md) | 13.04% |
+| ![](../assets/Military-Grade_MRE_icon.png) / _Military-Grade\_MRE\_icon.png_ | [Military-Grade MRE](./Military-Grade%20MRE.md) | 10.87% |
+| ![](../assets/Rifle_Cartridge_icon.png) / _Rifle\_Cartridge\_icon.png_ | [Rifle Cartridge](./Rifle%20Ammunition.md) | 10.87% |
+| ![](../assets/Maple_Syrup_icon.png) / _Maple\_Syrup\_icon.png_ | [Maple Syrup](./Maple%20Syrup.md) | 5.43% |
+| ![](../assets/Emergency_Stim_icon.png) / _Emergency\_Stim\_icon.png_ | [Emergency Stim](./Emergency%20Stim.md) | 5.43% |
+| ![](../assets/Flare_icon.png) / _Flare\_icon.png_ | [Flare](./Flare.md) | 5.43% |
+| ![](../assets/Flare_Shell_icon.png) / _Flare\_Shell\_icon.png_ | [Flare Shell](./Flare%20Shell.md) | 5.43% |
+| ![](../assets/Insulated_Boots_icon.png) / _Insulated\_Boots\_icon.png_ | [Insulated Boots](./Insulated%20Boots.md) | 5.43% |
+| ![](../assets/Mukluks_icon.png) / _Mukluks\_icon.png_ | [Mukluks](./Mukluks.md) | 5.43% |
+| ![](../assets/Book_icon.png) / _Book\_icon.png_ | [Book](./Book.md) | 5.43% |
+| ![](../assets/Revolver_Ammunition_icon.png) / _Revolver\_Ammunition\_icon.png_ | [Revolver Ammunition](./Revolver%20Ammunition.md) | 5.43% |
+| ![](../assets/Wool_Ear_Wrap_icon.png) / _Wool\_Ear\_Wrap\_icon.png_ | [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) | 3.26% |
+| ![](../assets/Can_of_Gunpowder_icon.png) / _Can\_of\_Gunpowder\_icon.png_ | [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 2.17% |
+| ![](../assets/Magnifying_Lens_icon.png) / _Magnifying\_Lens\_icon.png_ | [Magnifying Lens](./Magnifying%20Lens.md) | 2.17% |
+| ![](../assets/Flashlight_icon.png) / _Flashlight\_icon.png_ | [Flashlight](./Flashlight.md) | 2.17% |
+| ![](../assets/Expedition_Parka_icon.png) / _Expedition\_Parka\_icon.png_ | [Expedition Parka](./Expedition%20Parka.md) | 2.17% |
+| ![](../assets/Rifle_Ammunition_icon.png) / _Rifle\_Ammunition\_icon.png_ | [Rifle Ammunition](./Rifle%20Ammunition.md) | 2.17% |
+| ![](../assets/Simple_Arrow_icon.png) / _Simple\_Arrow\_icon.png_ | [Simple Arrow](./Simple%20Arrow.md) | 2.17% |
+| ![](../assets/Cowichan_Sweater_icon.png) / _Cowichan\_Sweater\_icon.png_ | [Cowichan Sweater](./Cowichan%20Sweater.md) | 2.17% |
+| ![](../assets/Revolver_icon.png) / _Revolver\_icon.png_ | [Revolver](./Revolver.md) | 1.09% |
+| ![](../assets/Distress_Pistol_icon.png) / _Distress\_Pistol\_icon.png_ | [Distress Pistol](./Distress%20Pistol.md) | 1.09% |
+| ![](../assets/Cured_Wolf_Pelt_icon.png) / _Cured\_Wolf\_Pelt\_icon.png_ | [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) | 1.09% |
 
 ## Locations
 
@@ -92,8 +87,10 @@ Opening a safe requires neither resources, nor luck, but can be somewhat time-co
 
 If the correct number is missed, cracking the safe can be started again by rotating the dial counterclockwise. Since safes can be cracked in the dark, it can be a good task to save for early mornings or late nights. After a safe is opened, it won't require cracking anymore.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Part of an animation. Usually the safe stays closed whether it is locked or not.](../assets/Safe_Opened.png) / *Part of an animation. Usually the safe stays closed whether it is locked or not.* | ![Unlocking a safe](../assets/Safecracking.png) / *Unlocking a safe* |
+![Part of an animation. Usually the safe stays closed whether it is locked or not.](../assets/Safe_Opened.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Сейф](ru:%D0%A1%D0%B5%D0%B9%D1%84)
+_Part of an animation. Usually the safe stays closed whether it is locked or not._
+
+![Unlocking a safe](../assets/Safecracking.png)
+
+_Unlocking a safe_

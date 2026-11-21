@@ -1,10 +1,6 @@
----
-title: "Suzuki Geothermal Region"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Suzuki_Geothermal_Region"
----
-
 # Suzuki Geothermal Region
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Suzuki_Geothermal_Region)
 
 **Contents**
 
@@ -23,10 +19,10 @@ source: "https://thelongdark.fandom.com/wiki/Suzuki_Geothermal_Region"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/No_picture.png) / *No\_picture.png* |
+|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/No_picture.png) / *No\_picture.png* |
-|  | ![](../assets/Suzuki_Geothermal_Region_In-Game_Map.png) / *Suzuki\_Geothermal\_Region\_In-Game\_Map.png* |
+|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
+|  | ![](../assets/Suzuki_Geothermal_Region_In-Game_Map.png) / _Suzuki\_Geothermal\_Region\_In-Game\_Map.png_ |
 | **Details** |  |
 | Description | A mountain region with several Geothermal Substations that deliver power to the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) facility. |
 | Date Added | 31 March 2026 |
@@ -67,5 +63,3 @@ Despite it being marked as Broken, this bridge can still be crossed by walking a
 
 - Mackenzie will make a direct reference to H.P Lovecraft's 1931 novella [At the Mountains of Madness](https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness) after crossing the second bridge.
 - It is suggested, due to the comically bad accuracy of the shotgun, that you crouch down and wait for the wolves to get within a short range before firing. This will hopefully kill them, if not, resort to the revolver found in Substation One.
-
-**Lua execution error in Module:Navbox function navbox**

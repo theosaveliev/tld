@@ -1,17 +1,12 @@
----
-title: "Chocolate Bar (4 Days of Night)"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Chocolate_Bar_(4_Days_of_Night)"
----
-
 # Chocolate Bar \(4 Days of Night\)
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Chocolate_Bar_%284_Days_of_Night%29)
 
 **Chocolate Bar**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Chocolate_Bar_icon.png) / *Chocolate\_Bar\_icon.png* |
+|  | ![](../assets/Chocolate_Bar_icon.png) / _Chocolate\_Bar\_icon.png_ |
 | Release | [28 October 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.372) |
 | Wintermute | No |
 | **Properties** |  |
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Chocolate_Bar_(4_Days_of_Night)"
 | **Actions** |  |
 | On ground | Take It, Leave It |
 
-*For the version encountered outside the event [4 Days of Night](./4%20Days%20of%20Night%20Event.md), see [Chocolate Bar](./Chocolate%20Bar.md).*
+_For the version encountered outside the event [4 Days of Night](./4%20Days%20of%20Night%20Event.md), see [Chocolate Bar](./Chocolate%20Bar.md)._
 
 **Chocolate Bars** were temporarily available during the [4 Days of Night Events](./4%20Days%20of%20Night%20Event.md) that occurred from 2016 - 2020. They are considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md), since they cannot be encountered anymore.
 
@@ -42,13 +37,15 @@ These bars in the Halloween Event "[4 Days of Night](./4%20Days%20of%20Night%20E
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The Halloween variant](../assets/Nutsnstuff.jpg) / *The Halloween variant* | ![Candy Bars found outside houses in the 4DoN event](../assets/CandyBowl.jpg) / *Candy Bars found outside houses in the 4DoN event* |
+![The Halloween variant](../assets/Nutsnstuff.jpg)
+
+_The Halloween variant_
+
+![Candy Bars found outside houses in the 4DoN event](../assets/CandyBowl.jpg)
+
+_Candy Bars found outside houses in the 4DoN event_
 
 ## Update history
 
 - UPDATE **28 October 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.372)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

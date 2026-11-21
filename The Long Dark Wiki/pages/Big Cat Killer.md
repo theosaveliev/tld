@@ -1,17 +1,12 @@
----
-title: "Big Cat Killer"
-wiki_namespace: 0
-categories: ["Feats"]
-source: "https://thelongdark.fandom.com/wiki/Big_Cat_Killer"
----
-
 # Big Cat Killer
+
+**Categories:** Feats · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Big_Cat_Killer)
 
 **Big Cat Killer**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Master_Hunter_icon.png) / *Master\_Hunter\_icon.png* |
+|  | ![](../assets/Master_Hunter_icon.png) / _Master\_Hunter\_icon.png_ |
 | Description | You've successfully killed 3 Cougars in a single game. |
 | Benefit | Wildlife are less aware of your presence. |
 | Effect | Halves detection range from all animals (sight, hearing, and smell) |

@@ -1,17 +1,12 @@
----
-title: "Basement Key"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Basement_Key"
----
-
 # Basement Key
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Basement_Key)
 
 **Basement Key**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Basement_Key_icon.png) / *Basement\_Key\_icon.png* |
+|  | ![](../assets/Basement_Key_icon.png) / _Basement\_Key\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Trauma](./Trauma.md) |
 | **Properties** |  |
@@ -34,5 +29,3 @@ During the course of the mission, Astrid finds the key within the Flower [Vase](
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

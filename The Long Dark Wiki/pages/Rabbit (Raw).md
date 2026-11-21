@@ -1,11 +1,6 @@
----
-title: "Rabbit (Raw)"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Rabbit_(Raw)"
----
-
 # Rabbit \(Raw\)
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rabbit_%28Raw%29)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Rabbit_(Raw)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rabbit_%28Raw%29_icon.png) / *Rabbit\_(Raw)\_icon.png* |
+|  | ![](../assets/Rabbit_%28Raw%29_icon.png) / _Rabbit\_(Raw)\_icon.png_ |
 | Release | [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.152) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -33,9 +28,9 @@ source: "https://thelongdark.fandom.com/wiki/Rabbit_(Raw)"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_RabbitRaw |
 
-*For the cooked version, see [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md).*
+_For the cooked version, see [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md)._
 
-**Rabbit Meat (Raw)** is a raw food item in *The Long Dark*.
+**Rabbit Meat (Raw)** is a raw food item in _The Long Dark_.
 
 ## Overview
 
@@ -50,16 +45,33 @@ Carcasses of rabbits slain by [wolves](./Wolf.md) will have reduced yields (incl
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Fresh](../assets/Rabbit_%28Raw%29_icon.png) / *Fresh* | ![Gamey](../assets/Rabbit_%28Raw%29_Gamey_icon.png) / *Gamey* | ![Mouldy](../assets/Rabbit_%28Raw%29_Mouldy_icon.png) / *Mouldy* | ![Rancid](../assets/Rabbit_%28Raw%29_Rancid_icon.png) / *Rancid* |
-| ![Ruined](../assets/Rabbit_%28Raw%29_Ruined_icon.png) / *Ruined* | ![Old model](../assets/Rabbit_raw.png) / *Old model* |  |  |
+![Fresh](../assets/Rabbit_%28Raw%29_icon.png)
+
+_Fresh_
+
+![Gamey](../assets/Rabbit_%28Raw%29_Gamey_icon.png)
+
+_Gamey_
+
+![Mouldy](../assets/Rabbit_%28Raw%29_Mouldy_icon.png)
+
+_Mouldy_
+
+![Rancid](../assets/Rabbit_%28Raw%29_Rancid_icon.png)
+
+_Rancid_
+
+![Ruined](../assets/Rabbit_%28Raw%29_Ruined_icon.png)
+
+_Ruined_
+
+![Old model](../assets/Rabbit_raw.png)
+
+_Old model_
 
 ## Update history
 
 - UPDATE **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Крольчатина (сырая)](ru:%D0%9A%D1%80%D0%BE%D0%BB%D1%8C%D1%87%D0%B0%D1%82%D0%B8%D0%BD%D0%B0_%28%D1%81%D1%8B%D1%80%D0%B0%D1%8F%29)

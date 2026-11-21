@@ -1,11 +1,6 @@
----
-title: "Cup of Herbal Tea"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cup_of_Herbal_Tea"
----
-
 # Cup of Herbal Tea
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cup_of_Herbal_Tea)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Cup_of_Herbal_Tea"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cup_of_Herbal_Tea_icon.png) / *Cup\_of\_Herbal\_Tea\_icon.png* |
+|  | ![](../assets/Cup_of_Herbal_Tea_icon.png) / _Cup\_of\_Herbal\_Tea\_icon.png_ |
 | Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -35,7 +30,7 @@ source: "https://thelongdark.fandom.com/wiki/Cup_of_Herbal_Tea"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_GreenTeaCup |
 
-**Cup of Herbal Tea**is a [drink](./Food%20And%20Drink.md) item in *The Long Dark.*
+**Cup of Herbal Tea**is a [drink](./Food%20And%20Drink.md) item in _The Long Dark._
 
 ## Overview
 
@@ -73,9 +68,13 @@ The benefit of Herbal Tea is similar to that of [Birch Bark Tea](./Birch%20Bark%
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![old model](../assets/Herbal_tea_cup.png) / *old model* | ![Old icon](../assets/Cup_of_herbal_tea_icon_old.png) / *Old icon* |
+![old model](../assets/Herbal_tea_cup.png)
+
+_old model_
+
+![Old icon](../assets/Cup_of_herbal_tea_icon_old.png)
+
+_Old icon_
 
 ## Update history
 
@@ -83,5 +82,3 @@ The benefit of Herbal Tea is similar to that of [Birch Bark Tea](./Birch%20Bark%
   - \[Wintermute\] Fixed issue where Water in inventory was incorrectly counted, preventing Coffee and Tea brewing.
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [fr:Cup of Herbal Tea](fr:Cup_of_Herbal_Tea) [ru:Чашка травяного чая](ru:%D0%A7%D0%B0%D1%88%D0%BA%D0%B0_%D1%82%D1%80%D0%B0%D0%B2%D1%8F%D0%BD%D0%BE%D0%B3%D0%BE_%D1%87%D0%B0%D1%8F)

@@ -1,10 +1,6 @@
----
-title: "Loot Table"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Loot_Table"
----
-
 # Loot Table
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Loot_Table)
 
 **Contents**
 

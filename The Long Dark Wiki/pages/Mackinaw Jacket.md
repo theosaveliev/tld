@@ -1,17 +1,12 @@
----
-title: "Mackinaw Jacket"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Mackinaw_Jacket"
----
-
 # Mackinaw Jacket
+
+**Categories:** Clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mackinaw_Jacket)
 
 **Mackinaw Jacket**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mackinaw_Jacket_icon.png) / *Mackinaw\_Jacket\_icon.png* |
+|  | ![](../assets/Mackinaw_Jacket_icon.png) / _Mackinaw\_Jacket\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -24,11 +19,11 @@ source: "https://thelongdark.fandom.com/wiki/Mackinaw_Jacket"
 | Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
 | Repair | 2 × [Cloth](./Cloth.md) / 60 minutes / 35% condition |
 
-> “**Heavy wool jacket with a decidedly Canadian flavour. Beloved by hunters and lumberjacks alike.**”
+> “__Heavy wool jacket with a decidedly Canadian flavour. Beloved by hunters and lumberjacks alike.__”
 >
 > — In-game description
 
-The **Mackinaw Jacket** is a type of [clothing](./Clothing.md) in *The Long Dark*.
+The **Mackinaw Jacket** is a type of [clothing](./Clothing.md) in _The Long Dark_.
 
 ## Overview
 
@@ -44,13 +39,15 @@ In [Wintermute](./Wintermute.md), the jacket will be rewarded to the player in [
 - Inside the backpack at the [Mysterious Signal Fire](./Mysterious%20Signal%20Fire.md)
 - In the [Train Shuttle](./Train%20Shuttle.md) at [Surfeit Trestle](./Surfeit%20Trestle.md) in [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Mackinaw_Jacket_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Mackinaw_Jacket_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Clothing model icon](../assets/Mackinaw_Jacket_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Mackinaw_Jacket_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Куртка дровосека](ru:%D0%9A%D1%83%D1%80%D1%82%D0%BA%D0%B0_%D0%B4%D1%80%D0%BE%D0%B2%D0%BE%D1%81%D0%B5%D0%BA%D0%B0)

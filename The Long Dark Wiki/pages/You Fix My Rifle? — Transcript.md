@@ -1,11 +1,6 @@
----
-title: "You Fix My Rifle?/Transcript"
-wiki_namespace: 0
-categories: ["Episode 2"]
-source: "https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F%2FTranscript"
----
-
 # You Fix My Rifle?/Transcript
+
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F%2FTranscript)
 
 **Contents**
 
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F%2FTranscript"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) / *The\_Long\_Dark\_-\_episode\_two\_milling\_machine\_for\_rifle.png* |
+|  | ![](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) / _The\_Long\_Dark\_-\_episode\_two\_milling\_machine\_for\_rifle.png_ |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
 | Previous | [Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md) |
 | Current | You Fix My Rifle?/Transcript |
@@ -39,115 +34,115 @@ CHAPTER TWO
 
 YOU FIX MY RIFLE?
 
-*After leaving the [Trapper's Homestead](./Trapper%27s%20Homestead.md), if the player attempts to enter [The Ravine](./The%20Ravine.md) by the Carter Staging Area or re-enter [Mountain Town](./Mountain%20Town.md) by Trapper's Cabin, Mackenzie will say:*
+_After leaving the [Trapper's Homestead](./Trapper%27s%20Homestead.md), if the player attempts to enter [The Ravine](./The%20Ravine.md) by the Carter Staging Area or re-enter [Mountain Town](./Mountain%20Town.md) by Trapper's Cabin, Mackenzie will say:_
 
 - Mackenzie: "I'd better stay focused."
 - Mackenzie: "I can't afford to get distracted."
 - Mackenzie: "That's not the right way."
 
-*Mackenzie leaves the [Trapper's Homestead](./Trapper%27s%20Homestead.md) and heads south, entering [Forlorn Muskeg](./Forlorn%20Muskeg.md). He passes through the region without any eventful encounters, aside from a scripted Wolf feeding on a Deer Carcass in the middle of the tracks. He passes through the region into [Broken Railroad](./Broken%20Railroad.md), and navigates around a [Landslide](./Landslide.md), before passing a [Locomotive Engine](./Locomotive%20Engine.md). He walks past it, entering the [Maintenance Yard](./Maintenance%20Yard.md) and the Shed.*
+_Mackenzie leaves the [Trapper's Homestead](./Trapper%27s%20Homestead.md) and heads south, entering [Forlorn Muskeg](./Forlorn%20Muskeg.md). He passes through the region without any eventful encounters, aside from a scripted Wolf feeding on a Deer Carcass in the middle of the tracks. He passes through the region into [Broken Railroad](./Broken%20Railroad.md), and navigates around a [Landslide](./Landslide.md), before passing a [Locomotive Engine](./Locomotive%20Engine.md). He walks past it, entering the [Maintenance Yard](./Maintenance%20Yard.md) and the Shed._
 
 ## Use the hand-driven milling machine to repair Jeremiah's rifle.
 
-*Inside, he spots the [Hand-Powered Milling Tool](./Hand-Powered%20Milling%20Tool.md) and walks to it as a cutscene plays*
+_Inside, he spots the [Hand-Powered Milling Tool](./Hand-Powered%20Milling%20Tool.md) and walks to it as a cutscene plays_
 
-*Mackenzie trips on a corpse and hits his head into the corner of the metal table, staggering on the floor and holding his head with his hand*
+_Mackenzie trips on a corpse and hits his head into the corner of the metal table, staggering on the floor and holding his head with his hand_
 
 Mackenzie: "Holy... that smarts."
 
-*He gets up on his feet, shaking his head to wake himself up, before looking over the body*
+_He gets up on his feet, shaking his head to wake himself up, before looking over the body_
 
 Mackenzie: "He doesn't look so good. Hmmm...what's that on the floor beside him..."
 
-*Mackenzie picks up a scrap of paper and reads it*
+_Mackenzie picks up a scrap of paper and reads it_
 
 Mackenzie: "Forest Talkers? Sounds like some kind of indie band. Maybe this guy was one of them. I guess I should check out this Lodge."
 
-*The cutscene ends*
+_The cutscene ends_
 
 Mackenzie: "I have to stay focused on the task at hand."
 
-*Mackenzie walks over to the Hand-Powered Milling Tool*
+_Mackenzie walks over to the Hand-Powered Milling Tool_
 
 Mackenzie: "This is what I'm looking for."
 
-*He picks up a pair of [Bolt Cutters](./Bolt%20Cutters.md) lying nearby and then starts repairing [Jeremiah's Broken Rifle](./Jeremiah%27s%20Broken%20Rifle.md). After some time passes, Mackenzie [repairs the Rifle](./Jeremiah%27s%20Repaired%20Rifle.md) and leaves the shed, preparing to go to the Lodge mentioned in the note*
+_He picks up a pair of [Bolt Cutters](./Bolt%20Cutters.md) lying nearby and then starts repairing [Jeremiah's Broken Rifle](./Jeremiah%27s%20Broken%20Rifle.md). After some time passes, Mackenzie [repairs the Rifle](./Jeremiah%27s%20Repaired%20Rifle.md) and leaves the shed, preparing to go to the Lodge mentioned in the note_
 
 ## Look for more info about the Forest Talkers at the old Hunting Lodge.
 
-*As he leaves the Shed, another cutscene begins. Mackenzie grabs his head in pain and stops walking forward*
+_As he leaves the Shed, another cutscene begins. Mackenzie grabs his head in pain and stops walking forward_
 
 Mackenzie: "Ahh....Damn...I must have hit my head harder than I thought."
 
-*He staggers forwards and faints, and awakens at night.*
+_He staggers forwards and faints, and awakens at night._
 
 Mackenzie: "How long was I out for?"
 
-*The artificial lights in the building around him are all turned on, along with a pc monitor*
+_The artificial lights in the building around him are all turned on, along with a pc monitor_
 
 Mackenzie: "...the lights..."
 
-*Mackenzie walks out of the building into floodlights, seeing Wolves all around him bathed in an unnaturally green hue. The Aurora hums in the sky. Three Wolves close in on him, stopped by the artificial flood lights*
+_Mackenzie walks out of the building into floodlights, seeing Wolves all around him bathed in an unnaturally green hue. The Aurora hums in the sky. Three Wolves close in on him, stopped by the artificial flood lights_
 
 Mackenzie: "Oh shit... What the hell? They...hate...the light."
 
-*The Wolves growl in place, eventually running away in fear of the light. Mackenzie follows the lamps to protect himself from the Wolves, following a path of them behind the Maintenance Yard, eventually using the Bolt Cutters he found earlier to cut open a gate. As he continues to follow the lights into the mountain, he eventually finds the Hunting Lodge the Forest Talkers note mentioned*
+_The Wolves growl in place, eventually running away in fear of the light. Mackenzie follows the lamps to protect himself from the Wolves, following a path of them behind the Maintenance Yard, eventually using the Bolt Cutters he found earlier to cut open a gate. As he continues to follow the lights into the mountain, he eventually finds the Hunting Lodge the Forest Talkers note mentioned_
 
 Mackenzie: "Wow...this must have been really nice, once upon a time."
 
-*He enters the Lodge*
+_He enters the Lodge_
 
 ## Search the Lodge for supplies. Something here could save your life.
 
 Mackenzie: "Hmm...looks like this might be where those eco-terrorists were hiding out. Let's see if they left anything useful."
 
-*Mackenzie heads downstairs and finds a [Flashlight](./Flashlight.md) and a cutscene plays. He picks it up, shaking it and slowly smacking the head, but it does not work*
+_Mackenzie heads downstairs and finds a [Flashlight](./Flashlight.md) and a cutscene plays. He picks it up, shaking it and slowly smacking the head, but it does not work_
 
 Mackenzie: "Battery's probably dead. Still...might come in handy at night."
 
-*He puts it in his back pocket and the cutscene ends. A tutorial message pops up*
+_He puts it in his back pocket and the cutscene ends. A tutorial message pops up_
 
-Flashlight{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **They Hate the Light  
- As you explore the world, you may discover that some electrical tools that have been inert since the First Flare, like Flashlights, are brought to life by the strange aurora lights in the night sky. The Flashlight can help you find your way in the darkness. It may also have unexpected effects on wildlife.**
+Flashlight{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __They Hate the Light  
+ As you explore the world, you may discover that some electrical tools that have been inert since the First Flare, like Flashlights, are brought to life by the strange aurora lights in the night sky. The Flashlight can help you find your way in the darkness. It may also have unexpected effects on wildlife.__
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}*A phone begins ringing upstairs. If the player heads back downstairs and check the table at the end of the basement, Mackenzie will find the [Forest Talker Map Note](./Forest%20Talker%20Map%20Note.md)*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}_A phone begins ringing upstairs. If the player heads back downstairs and check the table at the end of the basement, Mackenzie will find the [Forest Talker Map Note](./Forest%20Talker%20Map%20Note.md)_
 
 Mackenzie: "Well well...what do we have here?"
 
-*Mackenzie eventually goes up to check on the ringing, and finds a [Phone Box](./Phone%20Box.md) near the front door, but the call goes silent the moment he leaves the basement. His attention instead turns to the [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) over the nearby fireplace, and a cutscene begins*
+_Mackenzie eventually goes up to check on the ringing, and finds a [Phone Box](./Phone%20Box.md) near the front door, but the call goes silent the moment he leaves the basement. His attention instead turns to the [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) over the nearby fireplace, and a cutscene begins_
 
-*He takes it off the gun rack and looks it over, blowing dust off it. Mackenzie then aims it and looks down the iron sites*
+_He takes it off the gun rack and looks it over, blowing dust off it. Mackenzie then aims it and looks down the iron sites_
 
 Mackenzie: "Not much for guns, but...after what I've been through lately - - better to be safe than sorry."
 
-*The cutscene ends and a tutorial message pops up once the player leaves the Lodge*
+_The cutscene ends and a tutorial message pops up once the player leaves the Lodge_
 
-Rifle{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Use Guns Wisely  
- Rifle condition affects its reliability. Use a Rifle Cleaning Kit to keep it in good-working order. Take care of your rifle, and it'll take care of you. You wouldn't want it to jam when you need it most.**
+Rifle{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Use Guns Wisely  
+ Rifle condition affects its reliability. Use a Rifle Cleaning Kit to keep it in good-working order. Take care of your rifle, and it'll take care of you. You wouldn't want it to jam when you need it most.__
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}*Mackenzie prepares to return to Jeremiah with his repaired Rifle, and a few other goodies he found at the Lodge.*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}_Mackenzie prepares to return to Jeremiah with his repaired Rifle, and a few other goodies he found at the Lodge._
 
 ## Get back to Jeremiah.
 
-*The walk back to Jeremiah is largely an uneventful one, but once Mackenzie enters Forlorn Muskeg and walks past the timber rail cars, he sees the Old Bear. Doing what Jeremiah said, he avoids the beast, and makes his way back to Mystery Lake and eventually the Trapper's Homestead. A cutscene begins as Mackenzie walks inside*
+_The walk back to Jeremiah is largely an uneventful one, but once Mackenzie enters Forlorn Muskeg and walks past the timber rail cars, he sees the Old Bear. Doing what Jeremiah said, he avoids the beast, and makes his way back to Mystery Lake and eventually the Trapper's Homestead. A cutscene begins as Mackenzie walks inside_
 
-*Jeremiah is sitting on his cot, looking much better. Empty cans of [Pork and Beans](./Pork%20and%20Beans.md) and [Pinnacle Peaches](./Pinnacle%20Peaches.md) lie at his feet and all over his Work Bench, as well as a bonus Cariboo alcohol bottle. He laughs as he sees Mackenzie walk in*
+_Jeremiah is sitting on his cot, looking much better. Empty cans of [Pork and Beans](./Pork%20and%20Beans.md) and [Pinnacle Peaches](./Pinnacle%20Peaches.md) lie at his feet and all over his Work Bench, as well as a bonus Cariboo alcohol bottle. He laughs as he sees Mackenzie walk in_
 
 Jeremiah: "Ha. Well... You look like hell, Mackenzie."
 
-Mackenzie: "Thanks." *He looks over the mess that Jeremiah has made of his cabin* "I love what you've done with the place."
+Mackenzie: "Thanks." _He looks over the mess that Jeremiah has made of his cabin_ "I love what you've done with the place."
 
 Jeremiah: "Ha! I see you're an interior design critic now. You fix my rifle?"
 
-*Mackenzie tosses the repaired rifle into his hands*
+_Mackenzie tosses the repaired rifle into his hands_
 
 Mackenzie: "Yup. Found one of my own, too."
 
-*Jeremiah looks over the work done to his restored rifle and admires the craftsmanship. Mackenzie sits on the bench next to him*
+_Jeremiah looks over the work done to his restored rifle and admires the craftsmanship. Mackenzie sits on the bench next to him_
 
 Jeremiah: "Damn...not bad for a pilot. You're full of surprises. Maybe he can make it after all."
 
@@ -161,11 +156,11 @@ Jeremiah: "Ha! Smart ass. No. What I suggest is Jeremiah's Survival School. Stud
 
 Mackenzie: "Hmph."
 
-*The cutscene ends as the player stands over Jeremiah. The message "JEREMIAH NOW TRUSTS YOU MORE NOW. (+10)" appears*
+_The cutscene ends as the player stands over Jeremiah. The message "JEREMIAH NOW TRUSTS YOU MORE NOW. (+10)" appears_
 
 ## Jeremiah's Trust
 
-*At any point in the mission or the ones after this one, the player has the option to raise Jeremiah's Trust. The following dialogue options are unlocked once sufficient Trust is earned.*
+_At any point in the mission or the ones after this one, the player has the option to raise Jeremiah's Trust. The following dialogue options are unlocked once sufficient Trust is earned._
 
 #### Items That Increase Trust
 
@@ -308,5 +303,3 @@ Jeremiah **(Text)**: "Old supply cache of mine. More like a bunker, I guess."
 Mackenzie **(Text)**: "What do you need a bunker for out here?"
 
 Jeremiah **(Text)**: "I have my reasons. Burn those letters. And take whatever else you need from there."
-
-The story continues in [Survival School (Predux)/Transcript](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**

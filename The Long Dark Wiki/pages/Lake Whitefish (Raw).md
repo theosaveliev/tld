@@ -1,18 +1,13 @@
----
-title: "Lake Whitefish (Raw)"
-wiki_namespace: 0
-categories: ["Fish", "Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Lake_Whitefish_(Raw)"
----
-
 # Lake Whitefish \(Raw\)
+
+**Categories:** Fish, Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lake_Whitefish_%28Raw%29)
 
 **Lake Whitefish (Raw)**
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Raw](../assets/Lake_Whitefish_%28Raw%29_icon.png) / *Raw* \| ![Opened](../assets/Lake_Whitefish_%28Raw%29_Open_icon.png) / *Opened* \| / \| --- \| --- \| | 250px\]\] |
-| ![Raw](../assets/Lake_Whitefish_%28Raw%29_icon.png) / *Raw* | ![Opened](../assets/Lake_Whitefish_%28Raw%29_Open_icon.png) / *Opened* |
+| \[\[File: / ![Raw](../assets/Lake_Whitefish_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Lake_Whitefish_%28Raw%29_Open_icon.png) / _Opened_ | 250px\]\] |
+| ![Raw](../assets/Lake_Whitefish_%28Raw%29_icon.png) / _Raw_ | ![Opened](../assets/Lake_Whitefish_%28Raw%29_Open_icon.png) / _Opened_ |
 | Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -29,9 +24,9 @@ source: "https://thelongdark.fandom.com/wiki/Lake_Whitefish_(Raw)"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_RawLakeWhiteFish |
 
-*For the cooked version, see [Lake Whitefish (Cooked)](./Lake%20Whitefish%20%28Cooked%29.md).*
+_For the cooked version, see [Lake Whitefish (Cooked)](./Lake%20Whitefish%20%28Cooked%29.md)._
 
-**Lake Whitefish (Raw)** is a raw [food](./Food%20And%20Drink.md) item in *The Long Dark*.
+**Lake Whitefish (Raw)** is a raw [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
 ## Overview
 
@@ -43,13 +38,11 @@ Cooking whitefish improves the [cooking skill](./Skills.md#Cooking).
 
 ## Products
 
-| Column 1 |
-| --- |
-| ![Old model](../assets/Lake_whitefish_%28raw%29.png) / *Old model* |
+![Old model](../assets/Lake_whitefish_%28raw%29.png)
+
+_Old model_
 
 ## Update history
 
 - UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Сельдевидный сиг (сырой)](ru:%D0%A1%D0%B5%D0%BB%D1%8C%D0%B4%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D0%B8%D0%B3_%28%D1%81%D1%8B%D1%80%D0%BE%D0%B9%29)

@@ -1,17 +1,12 @@
----
-title: "Mine Safety Notice"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Mine_Safety_Notice"
----
-
 # Mine Safety Notice
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mine_Safety_Notice)
 
 **Mine Safety Notice**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mine_Safety_Notice_icon.png) / *Mine\_Safety\_Notice\_icon.png* |
+|  | ![](../assets/Mine_Safety_Notice_icon.png) / _Mine\_Safety\_Notice\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Mine_Safety_Notice"
 
 ## Transcript
 
-*The following text is transcribed from **Mine Safety Notice***
+_The following text is transcribed from **Mine Safety Notice**_
 
 **WARNING!
 
@@ -42,5 +37,3 @@ We only ask that you follow posted guidelines when working in areas of the facil
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

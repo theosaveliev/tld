@@ -1,11 +1,6 @@
----
-title: "Episode 1: Do Not Go Gentle"
-wiki_namespace: 0
-categories: ["Episode 1", "Episodes"]
-source: "https://thelongdark.fandom.com/wiki/Episode_1%3A_Do_Not_Go_Gentle"
----
-
 # Episode 1: Do Not Go Gentle
+
+**Categories:** Episode 1, Episodes · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Episode_1%3A_Do_Not_Go_Gentle)
 
 **Contents**
 
@@ -35,9 +30,9 @@ source: "https://thelongdark.fandom.com/wiki/Episode_1%3A_Do_Not_Go_Gentle"
 
 **Template:spoiler**![](../assets/Episode_1.png)
 
-*"Mackenzie and Dr. Greenwood are separated after their plane crashes deep in the Northern Canadian Wilderness. Struggling to survive, Mackenzie explores the small town of Milton, where he begins to understand the scope of this quiet apocalypse."*
+_"Mackenzie and Dr. Greenwood are separated after their plane crashes deep in the Northern Canadian Wilderness. Struggling to survive, Mackenzie explores the small town of Milton, where he begins to understand the scope of this quiet apocalypse."_
 
-***Do Not Go Gentle*** is the first episode in the [Wintermute](./Wintermute.md) story mode. It is followed by [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
+**_Do Not Go Gentle_** is the first episode in the [Wintermute](./Wintermute.md) story mode. It is followed by [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
 ## Overview
 
@@ -51,11 +46,11 @@ During the trip, a [geomagnetic event](./Aurora.md) occurs, depriving the plane 
 
 ![](../assets/Memories.png)
 
-*Memories.png*
+_Memories.png_
 
-*Main article: [Memories](./Memories.md)*
+_Main article: [Memories](./Memories.md)_
 
-"*Mackenzie hangs around the Jackrabbit Transport hangar, waiting for something to happen.*"
+"_Mackenzie hangs around the Jackrabbit Transport hangar, waiting for something to happen._"
 
 — In-game description
 
@@ -63,11 +58,11 @@ During the trip, a [geomagnetic event](./Aurora.md) occurs, depriving the plane 
 
 ![](../assets/The_Crash.png)
 
-*The\_Crash.png*
+_The\_Crash.png_
 
-*Main article: [The Crash](./The%20Crash.md)*
+_Main article: [The Crash](./The%20Crash.md)_
 
-"*Mackenzie fights to stay alive while searching for signs of Astrid. What happened to her?*"
+"_Mackenzie fights to stay alive while searching for signs of Astrid. What happened to her?_"
 
 — In-game description
 
@@ -75,11 +70,11 @@ During the trip, a [geomagnetic event](./Aurora.md) occurs, depriving the plane 
 
 ![](../assets/The_Grey_Mother.png)
 
-*The\_Grey\_Mother.png*
+_The\_Grey\_Mother.png_
 
-*Main article: [The Grey Mother](./The%20Grey%20Mother.md)*
+_Main article: [The Grey Mother](./The%20Grey%20Mother.md)_
 
-"*An old blind woman might be the last survivor in Milton. She might be the key to understanding what happened to Astrid.*"
+"_An old blind woman might be the last survivor in Milton. She might be the key to understanding what happened to Astrid._"
 
 — In-game description
 
@@ -87,11 +82,11 @@ During the trip, a [geomagnetic event](./Aurora.md) occurs, depriving the plane 
 
 ![](../assets/Paradise_Lost.png)
 
-*Paradise\_Lost.png*
+_Paradise\_Lost.png_
 
-*Main article: [Paradise Lost](./Paradise%20Lost.md)*
+_Main article: [Paradise Lost](./Paradise%20Lost.md)_
 
-"*It looks like Astrid made it out of Milton. Continue your search beyond the town's borders.*"
+"_It looks like Astrid made it out of Milton. Continue your search beyond the town's borders._"
 
 — In-game description
 
@@ -99,53 +94,53 @@ During the trip, a [geomagnetic event](./Aurora.md) occurs, depriving the plane 
 
 ![](../assets/Missions_story_ep1_Side.png)
 
-*Missions\_story\_ep1\_Side.png*
+_Missions\_story\_ep1\_Side.png_
 
 ### The Basics of Survival
 
-*Main article: [The Basics of Survival](./The%20Basics%20of%20Survival.md)*
+_Main article: [The Basics of Survival](./The%20Basics%20of%20Survival.md)_
 
-"*Enduring the Quiet Apocalypse will require survival skills. Find the collectibles that can teach you important survival lessons.*"
+"_Enduring the Quiet Apocalypse will require survival skills. Find the collectibles that can teach you important survival lessons._"
 
 — In-game description
 
 ### Extra Supplies
 
-*Main article: [Extra Supplies](./Extra%20Supplies.md)*
+_Main article: [Extra Supplies](./Extra%20Supplies.md)_
 
-"*Grey Mother will need extra food and fuel if she is to survive alone for much longer.*"
+"_Grey Mother will need extra food and fuel if she is to survive alone for much longer._"
 
 — In-game description
 
 ### Milton Safety Deposit Box Keys
 
-*Main article: [Milton Safety Deposit Box Keys](./Milton%20Safety%20Deposit%20Box%20Keys.md)*
+_Main article: [Milton Safety Deposit Box Keys](./Milton%20Safety%20Deposit%20Box%20Keys.md)_
 
-"*Locate and use the keys that unlock various Safety Deposit boxes at the Milton Credit Union.*"
+"_Locate and use the keys that unlock various Safety Deposit boxes at the Milton Credit Union._"
 
 — In-game description
 
 ### Milton Supply Caches
 
-*Main article: [Milton Supply Caches](./Milton%20Supply%20Caches.md)*
+_Main article: [Milton Supply Caches](./Milton%20Supply%20Caches.md)_
 
-"*The Collapse taught Milton residents to be ready for the worst. Find the collectibles that point you to cache locations.*"
+"_The Collapse taught Milton residents to be ready for the worst. Find the collectibles that point you to cache locations._"
 
 — In-game description
 
 ### Highway Robbery
 
-*Main article: [Highway Robbery (mission)](./Highway%20Robbery%20%28mission%29.md)*
+_Main article: [Highway Robbery (mission)](./Highway%20Robbery%20%28mission%29.md)_
 
-"*You found a note describing the possible location of emergency supplies near a bridge outside of Milton.*"
+"_You found a note describing the possible location of emergency supplies near a bridge outside of Milton._"
 
 — In-game description
 
 ### One Last Thing
 
-*Main article: [One Last Thing](./One%20Last%20Thing.md)*
+_Main article: [One Last Thing](./One%20Last%20Thing.md)_
 
-"*Grey Mother has one final request from you.*"
+"_Grey Mother has one final request from you._"
 
 — In-game description
 
@@ -214,14 +209,12 @@ During the trip, a [geomagnetic event](./Aurora.md) occurs, depriving the plane 
 ## Trivia
 
 - "[Do not go gentle into that good night](https://en.wikipedia.org/wiki/Do_not_go_gentle_into_that_good_night) " is the most famous poem of Welsh poet Dylan Thomas, referenced alongside The Long Dark in multiple works of popular culture. The phrase and the refrain occur throughout the poem and perfectly characterize the beginning of Episode 1:  
- *"Do not go gentle into that good night.*  
- *Rage, rage against the dying of the light."*
-- The town of Milton and the mission “Paradise Lost” are allusions to 17th century English poet John Milton’s *[Paradise Lost](https://en.m.wikipedia.org/wiki/Paradise_Lost)*, an epic poem about the fall of man and the subsequent expulsion from paradise.
+ _"Do not go gentle into that good night._  
+ _Rage, rage against the dying of the light."_
+- The town of Milton and the mission “Paradise Lost” are allusions to 17th century English poet John Milton’s _[Paradise Lost](https://en.m.wikipedia.org/wiki/Paradise_Lost)_, an epic poem about the fall of man and the subsequent expulsion from paradise.
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![The Episode 1 Menu Background](../assets/Episode_1_Menu_Background.png) / *The Episode 1 Menu Background* |
+![The Episode 1 Menu Background](../assets/Episode_1_Menu_Background.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Режим истории: эпизод 1](ru:%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8:_%D1%8D%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4_1)
+_The Episode 1 Menu Background_

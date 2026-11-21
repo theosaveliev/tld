@@ -1,17 +1,12 @@
----
-title: "Rheumatic Joints"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Rheumatic_Joints"
----
-
 # Rheumatic Joints
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rheumatic_Joints)
 
 **Rheumatic Joints**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rheumatic_Joints_icon.png) / *Rheumatic\_Joints\_icon.png* |
+|  | ![](../assets/Rheumatic_Joints_icon.png) / _Rheumatic\_Joints\_icon.png_ |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Update | 2.28 |
 | **Properties** |  |
@@ -24,13 +19,13 @@ source: "https://thelongdark.fandom.com/wiki/Rheumatic_Joints"
 | **Treatment** |  |
 | Recovery Time | No Treatment |
 
-**Rheumatic Joints** is an [Affliction](./Afflictions.md) found within *[The Long Dark](./The%20Long%20Dark.md)*. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
+**Rheumatic Joints** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
 
 ## Overview
 
-> “**A painful inflammation has taken hold.  
+> “__A painful inflammation has taken hold.  
    
- You cannot Sprint as quickly, nor Aim a weapon for long before having to lower it. Sprains are more likely.**”
+ You cannot Sprint as quickly, nor Aim a weapon for long before having to lower it. Sprains are more likely.__”
 >
 > — In-game Description
 
@@ -44,8 +39,6 @@ Rheumatic Joints is a permanent Affliction unique to [Misery](./Misery.md) which
 - 2% [Condition](./Condition.md) damage upon receiving a Sprained Wrist or Sprained Ankle (Do note that the damage is doubled, i.e. 4%, when you also have Broken Body.)
 
 ## References
-
-**Lua execution error in Module:Navbox function navbox**
 
 ## Notes
 

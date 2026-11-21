@@ -1,17 +1,12 @@
----
-title: "Receiver"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Receiver"
----
-
 # Receiver
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Receiver)
 
 **Receiver**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Receiver.jpg) / *Receiver.jpg* |
+|  | ![](../assets/Receiver.jpg) / _Receiver.jpg_ |
 | Release | 1.60 |
 | Story item | Yes |
 
@@ -39,5 +34,3 @@ Molly calls Astrid several times via phone Receivers in:
 - The Warden's Office at Blackrock Prison
 
 ## Trivia
-
-Mathis may have been listening in on the phone calls between Jace and Mackenzie during Episode 4, explaining how he knew where to find the spy messing with his operations.**Lua execution error in Module:Navbox function navbox**

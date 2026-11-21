@@ -1,17 +1,12 @@
----
-title: "Great Bear Wolf Behaviour Study"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Great_Bear_Wolf_Behaviour_Study"
----
-
 # Great Bear Wolf Behaviour Study
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Great_Bear_Wolf_Behaviour_Study)
 
 **Great Bear Wolf Behaviour Study**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Great_Bear_Wolf_Behaviour_Study_icon.png) / *Great\_Bear\_Wolf\_Behaviour\_Study\_icon.png* |
+|  | ![](../assets/Great_Bear_Wolf_Behaviour_Study_icon.png) / _Great\_Bear\_Wolf\_Behaviour\_Study\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Rumours](./Blackrock%20Rumours.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Great_Bear_Wolf_Behaviour_Study"
 
 ## Transcript
 
-*The following text is transcribed from **Great Bear Wolf Behaviour Study***
+_The following text is transcribed from **Great Bear Wolf Behaviour Study**_
 
 **\[a journal page, partially torn and soaked with blood\]
 
@@ -44,5 +39,3 @@ There's an unusual...**
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

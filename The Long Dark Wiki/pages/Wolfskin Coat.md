@@ -1,11 +1,6 @@
----
-title: "Wolfskin Coat"
-wiki_namespace: 0
-categories: ["Clothing", "Craftable clothing", "Pages with update history", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Wolfskin_Coat"
----
-
 # Wolfskin Coat
+
+**Categories:** Clothing, Craftable clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wolfskin_Coat)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Wolfskin_Coat"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Wolfskin_Coat_icon.png) / *Wolfskin\_Coat\_icon.png* |
+|  | ![](../assets/Wolfskin_Coat_icon.png) / _Wolfskin\_Coat\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -31,11 +26,11 @@ source: "https://thelongdark.fandom.com/wiki/Wolfskin_Coat"
 | Harvest | 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / 90 minutes |
 | Repair | 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 120 minutes / 30% condition |
 
-> “**Handcrafted fur and skin outer layer will keep you warm and remind Wolves that they should keep their distance. Not the way the Wolf expected to end up.**”
+> “__Handcrafted fur and skin outer layer will keep you warm and remind Wolves that they should keep their distance. Not the way the Wolf expected to end up.__”
 >
 > — In-game description
 
-The **Wolfskin Coat** is a type of craftable clothing in *The Long Dark*.
+The **Wolfskin Coat** is a type of craftable clothing in _The Long Dark_.
 
 ## Overview
 
@@ -71,13 +66,19 @@ In [Wintermute](./Wintermute.md), its blueprint is unlocked by preserving nature
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Clothing model icon](../assets/Wolfskin_Coat_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Wolfskin_Coat_Model_Damaged_icon.png) / *Clothing model icon damaged* | ![Old model.](../assets/Wolfskin_Coat_-_back.png) / *Old model.* |
+![Clothing model icon](../assets/Wolfskin_Coat_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Wolfskin_Coat_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
+
+![Old model.](../assets/Wolfskin_Coat_-_back.png)
+
+_Old model._
 
 ## Update history
 
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Волчья шуба](ru:%D0%92%D0%BE%D0%BB%D1%87%D1%8C%D1%8F_%D1%88%D1%83%D0%B1%D0%B0)

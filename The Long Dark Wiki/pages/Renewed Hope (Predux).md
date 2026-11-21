@@ -1,11 +1,6 @@
----
-title: "Renewed Hope (Predux)"
-wiki_namespace: 0
-categories: ["Episode 2", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Renewed_Hope_(Predux)"
----
-
 # Renewed Hope \(Predux\)
+
+**Categories:** Episode 2, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Renewed_Hope_%28Predux%29)
 
 **Contents**
 
@@ -17,7 +12,7 @@ source: "https://thelongdark.fandom.com/wiki/Renewed_Hope_(Predux)"
 - [Plot Points and Gameplay Changes](#plot-points-and-gameplay-changes)
 - [Game History](#game-history)
 
-**Renewed Hope (Predux)** was the fifth and final mission of the Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story and the last mission in the Predux storyline. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of *[The Long Dark](./The%20Long%20Dark.md)* by using the [Time Capsule](./Time%20Capsule.md).
+**Renewed Hope (Predux)** was the fifth and final mission of the Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story and the last mission in the Predux storyline. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 This mission has since been replaced by the current version of [Renewed Hope](./Renewed%20Hope.md).
 

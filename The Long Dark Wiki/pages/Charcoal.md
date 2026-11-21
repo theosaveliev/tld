@@ -1,11 +1,6 @@
----
-title: "Charcoal"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Charcoal"
----
-
 # Charcoal
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Charcoal)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Charcoal"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Charcoal_icon.png) / *Charcoal\_icon.png* |
+|  | ![](../assets/Charcoal_icon.png) / _Charcoal\_icon.png_ |
 | Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423) |
 | Wintermute | No |
 | **Properties** |  |
@@ -33,7 +28,7 @@ source: "https://thelongdark.fandom.com/wiki/Charcoal"
 | **Actions** |  |
 | On ground | Take It, Leave It |
 
-**Charcoal** is a tool in *[The Long Dark](./The%20Long%20Dark.md).*
+**Charcoal** is a tool in _[The Long Dark](./The%20Long%20Dark.md)._
 
 ## Overview
 
@@ -63,9 +58,9 @@ If the player finds a [Polaroid](./Polaroids.md) and travels to the survey spot 
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Charcoal's viewmodel](../assets/Charcoal_viewmodel.jpg) / *Charcoal's viewmodel* |
+![Charcoal's viewmodel](../assets/Charcoal_viewmodel.jpg)
+
+_Charcoal's viewmodel_
 
 ## Trivia
 
@@ -77,5 +72,3 @@ If the player finds a [Polaroid](./Polaroids.md) and travels to the survey spot 
   - Inventory icon updated.
 - UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Древесный уголь](ru:%D0%94%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B9_%D1%83%D0%B3%D0%BE%D0%BB%D1%8C)

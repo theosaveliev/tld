@@ -1,17 +1,12 @@
----
-title: "Fresh Gut"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Fresh_Gut"
----
-
 # Fresh Gut
+
+**Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fresh_Gut)
 
 **Fresh Gut**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fresh_Gut_icon.png) / *Fresh\_Gut\_icon.png* |
+|  | ![](../assets/Fresh_Gut_icon.png) / _Fresh\_Gut\_icon.png_ |
 | Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -57,5 +52,3 @@ Fresh Gut contributes to a survivor's overall [Scent](./Scent.md). This can eith
   - Gut can now be Harvested from Wolf carcasses.
 - UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.01)):**
   - Added to the game.
-
-**Lua execution error in Module:Navbox function navbox**

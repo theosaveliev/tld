@@ -1,17 +1,12 @@
----
-title: "Toaster"
-wiki_namespace: 0
-categories: ["Interactable Objects", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Toaster"
----
-
 # Toaster
+
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Toaster)
 
 **Toaster**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Toaster.jpg) / *Toaster.jpg* |
+|  | ![](../assets/Toaster.jpg) / _Toaster.jpg_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | Yes\|- |
@@ -22,5 +17,3 @@ A **Toaster** is a harvestable item found in the homes of many kitchen counterto
 | Object | Scrap Metal | Time | Calories | Condition (of Hacksaw) |
 | --- | --- | --- | --- | --- |
 | Toaster | 1 | 15 minutes | 45 | -5% |
-
-**Lua execution error in Module:Navbox function navbox**

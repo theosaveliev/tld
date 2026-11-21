@@ -1,11 +1,6 @@
----
-title: "Paradise Lost (Predux)"
-wiki_namespace: 0
-categories: ["Episode 1", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Paradise_Lost_(Predux)"
----
-
 # Paradise Lost \(Predux\)
+
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paradise_Lost_%28Predux%29)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Paradise_Lost_(Predux)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Paradise_Lost_%28Predux%29.jpg) / *Paradise\_Lost\_(Predux).jpg* |
+|  | ![](../assets/Paradise_Lost_%28Predux%29.jpg) / _Paradise\_Lost\_(Predux).jpg_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Previous | [The Grey Mother (Predux)](./The%20Grey%20Mother%20%28Predux%29.md) |
 | Current | Paradise Lost (Predux) |
@@ -28,11 +23,11 @@ source: "https://thelongdark.fandom.com/wiki/Paradise_Lost_(Predux)"
 | Region | [Mountain Town](./Mountain%20Town.md) |
 | Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **It looks like Astrid made it out of Milton. Follow Lily's path to continue your search beyond the town's borders.**
+**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __It looks like Astrid made it out of Milton. Follow Lily's path to continue your search beyond the town's borders.__
 
 In-game description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}**Paradise Lost (Predux)** was the fourth and last mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of *[The Long Dark](./The%20Long%20Dark.md)* by using the [Time Capsule](./Time%20Capsule.md).
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}**Paradise Lost (Predux)** was the fourth and last mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 This episode has since been replaced by the current version of [Paradise Lost](./Paradise%20Lost.md).
 
@@ -75,6 +70,4 @@ Several plot points and locations have been replaced/altered since the Redux re-
 
 \[Paradise Lost (Predux)\]
 
-- 
-
-**Lua execution error in Module:Navbox function navbox**
+-

@@ -1,11 +1,6 @@
----
-title: "Birch Bark Tea"
-wiki_namespace: 0
-categories: ["First Aid", "Food And Drink"]
-source: "https://thelongdark.fandom.com/wiki/Birch_Bark_Tea"
----
-
 # Birch Bark Tea
+
+**Categories:** First Aid, Food And Drink · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Birch_Bark_Tea)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Birch_Bark_Tea"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Birch_Bark_Tea_icon.png) / *Birch\_Bark\_Tea\_icon.png* |
+|  | ![](../assets/Birch_Bark_Tea_icon.png) / _Birch\_Bark\_Tea\_icon.png_ |
 | Renewable | Yes |
 | **Properties** |  |
 | Item type | [First Aid](./First%20Aid.md)\|- |
@@ -29,7 +24,7 @@ source: "https://thelongdark.fandom.com/wiki/Birch_Bark_Tea"
 | [Vitamin C](./Scurvy.md) | Minor (6%) |
 | Weight | 0.10 kg (0.22 lbs) |
 
-**Birch Bark Tea** is a natural medical and food item in *The Long Dark*.
+**Birch Bark Tea** is a natural medical and food item in _The Long Dark_.
 
 ## Overview
 
@@ -78,5 +73,3 @@ No form of Birch Bark/Birch Bark Tea [decays](./Decay.md).
 - It is possible to survive exclusively on Birch Bark Tea, especially on easier difficulties or by using the [starvation strategy](./Hibernation.md) (only eating just before sleep).
 - Birch Bark Tea is disabled during the [Challenge](./Challenge.md): [As the Dead Sleep](./As%20the%20Dead%20Sleep.md), but Birch Bark may still be collected and used as Tinder.
 - [Cup of Coffee](./Cup%20of%20Coffee.md) is the only item which can restore all 4 [Needs](./Needs.md) (if consumed while hot), but Birch Bark Tea functions similarly with its Benefit "Restore Condition", since this heals Condition (2.5% hourly) faster than Fatigue damages it (1% hourly), so it is possible to survive indefinitely without Sleep by drinking 1 cup of Birch Bark Tea every 3 hours (albeit at 0% Fatigue, moving slowly and unable to climb/sprint).
-
-**Template:first aid****Lua execution error in Module:Navbox function navbox** [ru:Березовый чай](ru:%D0%91%D0%B5%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9_%D1%87%D0%B0%D0%B9)

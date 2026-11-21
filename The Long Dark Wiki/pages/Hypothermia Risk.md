@@ -1,17 +1,12 @@
----
-title: "Hypothermia Risk"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Hypothermia_Risk"
----
-
 # Hypothermia Risk
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hypothermia_Risk)
 
 **Hypothermia Risk**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hypothermia_Risk_icon.png) / *Hypothermia\_Risk\_icon.png* |
+|  | ![](../assets/Hypothermia_Risk_icon.png) / _Hypothermia\_Risk\_icon.png_ |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | Your body temperature is very low. If it remains low, you'll get Hypothermia. |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Hypothermia_Risk"
 | **Advanced Data** |  |
 | Item Key | GAMEPLAY\_CabinFeverRisk |
 
-**Hypothermia Risk** is an [Affliction](./Afflictions.md) in *The Long Dark*, caused by exposure to the cold.
+**Hypothermia Risk** is an [Affliction](./Afflictions.md) in _The Long Dark_, caused by exposure to the cold.
 
 ## Overview
 
-> “**Your body temperature is very low. If it remains low, you'll get Hypothermia.**”
+> “__Your body temperature is very low. If it remains low, you'll get Hypothermia.__”
 >
 > — In-game description
 
@@ -41,5 +36,3 @@ If the player stays out in the freezing cold for too long, and their [Clothing](
 - The time to recover from Hypothermia is based on the experience mode: 6 hours for Pilgrim, 12 for Voyageur, 18 for Stalker and 24 for Interloper. Remaining recovery time is shown on the Status menu.
 - [Hot](./Warming%20Up.md) food or drinks and [campfires](./Campfire.md) can help stay above freezing, even when outdoors.
 - Freezing, even without Hypothermia, is by far the deadliest Need (Freezing: 20% Condition loss per hour (40% with Hypothermia), Thirst: 2% per hour, Hunger/Fatigue 1% per hour).
-
-**Lua execution error in Module:Navbox function navbox**

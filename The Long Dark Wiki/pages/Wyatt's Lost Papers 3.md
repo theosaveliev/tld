@@ -1,17 +1,12 @@
----
-title: "Wyatt's Lost Papers 3"
-wiki_namespace: 0
-categories: ["Collectibles"]
-source: "https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_3"
----
-
 # Wyatt's Lost Papers 3
+
+**Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_3)
 
 **Wyatt's Lost Papers 3**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Wyatt%27s_Lost_Papers_3_icon.png) / *Wyatt's\_Lost\_Papers\_3\_icon.png* |
+|  | ![](../assets/Wyatt%27s_Lost_Papers_3_icon.png) / _Wyatt's\_Lost\_Papers\_3\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_3"
 
 ## Transcript
 
-*The following text is transcribed from **Wyatt's Lost Papers 3***
+_The following text is transcribed from **Wyatt's Lost Papers 3**_
 
 **\[top portion of the page is torn off\]
 
@@ -38,5 +33,3 @@ But loyalty matters. And has to keep mattering when everything else falls apart.
 - Wyatt**
 
 ## Game history
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**

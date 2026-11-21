@@ -1,11 +1,6 @@
----
-title: "Dog Food"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Dog_Food"
----
-
 # Dog Food
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dog_Food)
 
 **Contents**
 
@@ -18,8 +13,8 @@ source: "https://thelongdark.fandom.com/wiki/Dog_Food"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Sealed](../assets/Dog_Food_icon.png) / *Sealed* \| ![Opened](../assets/Dog_Food_%28Opened%29_icon.png) / *Opened* \| / \| --- \| --- \| | 250px\]\] |
-| ![Sealed](../assets/Dog_Food_icon.png) / *Sealed* | ![Opened](../assets/Dog_Food_%28Opened%29_icon.png) / *Opened* |
+| \[\[File: / ![Sealed](../assets/Dog_Food_icon.png) / _Sealed_ / ![Opened](../assets/Dog_Food_%28Opened%29_icon.png) / _Opened_ | 250px\]\] |
+| ![Sealed](../assets/Dog_Food_icon.png) / _Sealed_ | ![Opened](../assets/Dog_Food_%28Opened%29_icon.png) / _Opened_ |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
@@ -37,11 +32,11 @@ source: "https://thelongdark.fandom.com/wiki/Dog_Food"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_DogFood |
 
-**Dog Food** is a packaged [food](./Food%20And%20Drink.md) item in *The Long Dark*.
+**Dog Food** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
 ## Overview
 
-Consuming Dog Food restores a moderate amount of calories and small amount of hydration. *It cannot be warmed by a [fire](./Fire.md).*
+Consuming Dog Food restores a moderate amount of calories and small amount of hydration. _It cannot be warmed by a [fire](./Fire.md)._
 
 Like other canned foods, Dog Food may be opened with a [Can Opener](./Can%20Opener.md) or [bladed tool](./Tools.md), or smashed open (with no tool) but spilling some of it's contents. If opened with a tool a [Recycled Can](./Recycled%20Can.md) is received after consuming the contents.
 
@@ -52,19 +47,17 @@ It has relatively high chance of causing [Food Poisoning](./Food%20Poisoning.md)
 ## Trivia
 
 - A possible explanation for Dog Food having such a high food poisoning chance, is the variance between animal grade and human grade foods.
-- The dog food is packaged as the product *Dog's Best Friend*.
+- The dog food is packaged as the product _Dog's Best Friend_.
 - The side of the can lists "Ingredients: Turkey, Beef, Chicken, Water, Calcium, Vitamin A, Vitamin D, Vitamin K."
 - Dog houses are occasionally found on the Island (like in [Coastal Townsite](./Coastal%20Townsite.md)), but dogs are never found.
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Dog_food.png) / *old model* |
+![old model](../assets/Dog_food.png)
+
+_old model_
 
 ## Update history
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Банка корма для собак](ru:%D0%91%D0%B0%D0%BD%D0%BA%D0%B0_%D0%BA%D0%BE%D1%80%D0%BC%D0%B0_%D0%B4%D0%BB%D1%8F_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA) [fr:Nourriture pour chien](fr:Nourriture_pour_chien)

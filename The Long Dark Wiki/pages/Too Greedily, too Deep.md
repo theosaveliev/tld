@@ -1,20 +1,15 @@
----
-title: "Too Greedily, too Deep"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Too_Greedily%2C_too_Deep"
----
-
 # Too Greedily, too Deep
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Too_Greedily%2C_too_Deep)
 
 **Too Greedily, too Deep**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Too_Greedily%2C_too_Deep_icon.png) / *Too\_Greedily,\_too\_Deep\_icon.png* |
+|  | ![](../assets/Too_Greedily%2C_too_Deep_icon.png) / _Too\_Greedily,\_too\_Deep\_icon.png_ |
 | Description | Survive 25 consecutive days inside the Langston Mine. |
 
-**Too Greedily, too Deep** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Too Greedily, too Deep** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -31,5 +26,3 @@ This achievement is much harder (though not impossible) to unlock on [Stalker](.
 - This achievement's name is a reference to the lore surrounding the Langston Mining Corporation and [Rüdiger's Machine](./R%C3%BCdiger%27s%20Machine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md).
   - It is also an [Easter Egg](./Easter%20Eggs.md) reference to the Lord of the Rings (another being the [Spelunker's Lantern](./Spelunker%27s%20Lantern.md) description).
   - The achievement name is derived from this quote: **Saruman: "**Moria... You fear to go into those mines. The dwarves delved too greedily and too deep. You know what they awoke in the darkness of Khazad-dum... shadow and flame."
-
-**Lua execution error in Module:Navbox function navbox**

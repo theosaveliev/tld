@@ -1,11 +1,6 @@
----
-title: "Mountain Town"
-wiki_namespace: 0
-categories: ["Regions"]
-source: "https://thelongdark.fandom.com/wiki/Mountain_Town"
----
-
 # Mountain Town
+
+**Categories:** Regions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mountain_Town)
 
 **Contents**
 
@@ -21,10 +16,10 @@ source: "https://thelongdark.fandom.com/wiki/Mountain_Town"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mountain_town_titlecard.png) / *Mountain\_town\_titlecard.png* |
+|  | ![](../assets/Mountain_town_titlecard.png) / _Mountain\_town\_titlecard.png_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Mountain_Town_Location.png) / *Mountain\_Town\_Location.png* |
-|  | ![](../assets/Mountain_Town_map.png) / *Mountain\_Town\_map.png* |
+|  | ![](../assets/Mountain_Town_Location.png) / _Mountain\_Town\_Location.png_ |
+|  | ![](../assets/Mountain_Town_map.png) / _Mountain\_Town\_map.png_ |
 | **Details** |  |
 | Description | A small abandoned town nestled in the mountains. |
 | Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md), [Hushed River Valley](./Hushed%20River%20Valley.md) |
@@ -34,11 +29,11 @@ source: "https://thelongdark.fandom.com/wiki/Mountain_Town"
 | Locations | 27 |
 | Date Added | Story mode: Aug 2017 Survival mode: Dec 2017 |
 
-> “**For new players. Although deep in decline, Milton still offers many sturdy shelters and plentiful wildlife. But if you leave town for the surrounding hills and fields, beware!**”
+> “__For new players. Although deep in decline, Milton still offers many sturdy shelters and plentiful wildlife. But if you leave town for the surrounding hills and fields, beware!__”
 >
 > — - In game description
 
-**Mountain Town** is 8th [Region](./Region.md) released in *[The Long Dark](./The%20Long%20Dark.md)* on [Great Bear Island](./Great%20Bear%20Island.md), and is centered around the small, recently abandoned town of [Milton](./Milton.md).
+**Mountain Town** is 8th [Region](./Region.md) released in _[The Long Dark](./The%20Long%20Dark.md)_ on [Great Bear Island](./Great%20Bear%20Island.md), and is centered around the small, recently abandoned town of [Milton](./Milton.md).
 
 It is the setting for [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md), as well as the 8th region added to [Survival Mode](./Survival%20Mode.md). Milton is accessible via [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) (through a cave near the [Trapper's Homestead](./Trapper%27s%20Homestead.md)), [Forlorn Muskeg](./Forlorn%20Muskeg.md) (at [Marsh Ridge ](./Marsh%20Ridge.md)through a Rose Bush climb to [Milton Basin](./Milton%20Basin.md)), and to [Hushed River Valley](./Hushed%20River%20Valley.md) (through a cave between the [Trailer](./Trailer%20%28Mountain%20Town%20Region%29.md) and [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md)).
 
@@ -76,16 +71,39 @@ A few other locations can be found in the region:
 
 ## Notes
 
-- According to the game's developer, the name *Mountain Town* was intended to be an "internal name only" for the Milton area;[¹](#fn1) however the name appears on both the Great Bear Island map and the region map of the area.
-- In Survival Mode, 'returning' to the original plane crash site (the starting area in [Wintermute](./Wintermute.md)) is actually worthwhile, as the site itself (or rarely, a car leading to the site) may yield a copy of "[*Advanced Guns, Guns, Guns!*](./Skills.md)" and a number of [Rose Hips](./Rose%20Hip.md). Also, the green crates at the site can be broken down, potentially revealing loot inside. In addition, the [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) holds numerous lootable cars, of which one single trunk/frozen corpse will contain a mid-to-high tier coat or parka (randomly placed).
-- The region has an unusually high number of [Wolves](./Wolf.md) in Survival Mode, even on lower difficulties. In Story mode, [Grey Mother](./Grey%20Mother.md) and [Will](./Will%20Mackenzie.md) discuss the inordinately large number of wolves in the area, with Grey Mother commenting that *"wolves are quick to move in when the people go"*.
+- According to the game's developer, the name _Mountain Town_ was intended to be an "internal name only" for the Milton area;[¹](#fn1) however the name appears on both the Great Bear Island map and the region map of the area.
+- In Survival Mode, 'returning' to the original plane crash site (the starting area in [Wintermute](./Wintermute.md)) is actually worthwhile, as the site itself (or rarely, a car leading to the site) may yield a copy of "[_Advanced Guns, Guns, Guns!_](./Skills.md)" and a number of [Rose Hips](./Rose%20Hip.md). Also, the green crates at the site can be broken down, potentially revealing loot inside. In addition, the [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) holds numerous lootable cars, of which one single trunk/frozen corpse will contain a mid-to-high tier coat or parka (randomly placed).
+- The region has an unusually high number of [Wolves](./Wolf.md) in Survival Mode, even on lower difficulties. In Story mode, [Grey Mother](./Grey%20Mother.md) and [Will](./Will%20Mackenzie.md) discuss the inordinately large number of wolves in the area, with Grey Mother commenting that _"wolves are quick to move in when the people go"_.
 
 ## Maps
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A detailed map of Mountain Town v2.35 (spoilers)](../assets/MT_map_default.png) / *A detailed map of Mountain Town v2.35 (spoilers)* | ![Map of Mountain Town v2.35 (Interloper/Misery edition, contains spoilers)](../assets/MT_map_loper.png) / *Map of Mountain Town v2.35 (Interloper/Misery edition, contains spoilers)* | ![In-game map](../assets/Mountain_Town_map.png) / *In-game map* | ![Detailed map. Updated for v1.81](../assets/Map-MT-lv3-v180.png) / *Detailed map. Updated for v1.81* |
-| ![No spoiler map for v1.73](../assets/Map-MT-lv1-v173.png) / *No spoiler map for v1.73* | ![Map Updated for v.1.56](../assets/Mountain-town-map-the-long-dark-scaled.jpg) / *Map Updated for v.1.56* | ![The map found in Episode 1 is different from Survival Mode](../assets/Mountain_Town_Map_full.jpg) / *The map found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) is different from Survival Mode* |  |
+![A detailed map of Mountain Town v2.35 (spoilers)](../assets/MT_map_default.png)
+
+_A detailed map of Mountain Town v2.35 (spoilers)_
+
+![Map of Mountain Town v2.35 (Interloper/Misery edition, contains spoilers)](../assets/MT_map_loper.png)
+
+_Map of Mountain Town v2.35 (Interloper/Misery edition, contains spoilers)_
+
+![In-game map](../assets/Mountain_Town_map.png)
+
+_In-game map_
+
+![Detailed map. Updated for v1.81](../assets/Map-MT-lv3-v180.png)
+
+_Detailed map. Updated for v1.81_
+
+![No spoiler map for v1.73](../assets/Map-MT-lv1-v173.png)
+
+_No spoiler map for v1.73_
+
+![Map Updated for v.1.56](../assets/Mountain-town-map-the-long-dark-scaled.jpg)
+
+_Map Updated for v.1.56_
+
+![The map found in Episode 1 is different from Survival Mode](../assets/Mountain_Town_Map_full.jpg)
+
+_The map found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) is different from Survival Mode_
 
 ## Game History
 
@@ -95,8 +113,6 @@ A few other locations can be found in the region:
 
 ## References
 
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**
-
 [ru:Милтон](ru:%D0%9C%D0%B8%D0%BB%D1%82%D0%BE%D0%BD)
 
 [es:Pueblo de montaña](es:Pueblo_de_monta%C3%B1a) [fr:Milton](fr:Milton)
@@ -105,4 +121,4 @@ A few other locations can be found in the region:
 
 ---
 
-1. Raphael van Lierop‏, *Twitter*, 5 August 2017 [https://twitter.com/RaphLife/status/893702535973752832](https://twitter.com/RaphLife/status/893702535973752832)[↩︎](#fnref1)
+1. Raphael van Lierop‏, _Twitter_, 5 August 2017 [https://twitter.com/RaphLife/status/893702535973752832](https://twitter.com/RaphLife/status/893702535973752832)[↩︎](#fnref1)

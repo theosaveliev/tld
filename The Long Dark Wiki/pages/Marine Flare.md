@@ -1,11 +1,6 @@
----
-title: "Marine Flare"
-wiki_namespace: 0
-categories: ["Story items", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Marine_Flare"
----
-
 # Marine Flare
+
+**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Marine_Flare)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Marine_Flare"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Marine_Flare_icon.png) / *Marine\_Flare\_icon.png* |
+|  | ![](../assets/Marine_Flare_icon.png) / _Marine\_Flare\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | Firestarting Slot | Starter |
@@ -31,7 +26,7 @@ source: "https://thelongdark.fandom.com/wiki/Marine_Flare"
 
 **Template:quote2**
 
-**Marine Flares** are a multi-purpose tool in *The Long Dark*. They can be used as a light source, [firestarter](./Fire%20Starting.md), or frightening [Wildlife](./Wildlife.md).
+**Marine Flares** are a multi-purpose tool in _The Long Dark_. They can be used as a light source, [firestarter](./Fire%20Starting.md), or frightening [Wildlife](./Wildlife.md).
 
 ## Overview
 
@@ -80,5 +75,3 @@ In the [Wintermute](./Wintermute.md) [Episode 3: Crossroads Elegy](./Episode%203
 
 - Ignited flares most likely are red from burning strontium salts.
 - Marine Flares are used by real-world military and civilian naval craft, but these real-world flares do not burn blue. In pyrotechnics copper chloride or copper sulfate are the most likely ingredients to achieve a blue color.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Морской фальшфейер](ru:%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D1%84%D0%B0%D0%BB%D1%8C%D1%88%D1%84%D0%B5%D0%B9%D0%B5%D1%80)

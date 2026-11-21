@@ -1,17 +1,12 @@
----
-title: "Handwritten Note (Survival)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Handwritten_Note_(Survival)"
----
-
 # Handwritten Note \(Survival\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Handwritten_Note_%28Survival%29)
 
 **Handwritten Note (Survival)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Handwritten_Note_%28Survival%29_icon.png) / *Handwritten\_Note\_(Survival)\_icon.png* |
+|  | ![](../assets/Handwritten_Note_%28Survival%29_icon.png) / _Handwritten\_Note\_(Survival)\_icon.png_ |
 | Release | [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Handwritten_Note_(Survival)"
 
 ## Transcript
 
-*The following text is transcribed from **Handwritten Note***
+_The following text is transcribed from **Handwritten Note**_
 
 **Found the backpack I was looking for. I expect you'll be along soon to read this. The workshop code's gotta be 3445. I'll meet you back down at the gate so we can crack open that shop when the lights show up again.  
    
@@ -40,7 +35,5 @@ source: "https://thelongdark.fandom.com/wiki/Handwritten_Note_(Survival)"
 UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Added to game
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Записка от руки (Заброшенная шахта)](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D0%BE%D1%82_%D1%80%D1%83%D0%BA%D0%B8_%28%D0%97%D0%B0%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%88%D0%B0%D1%85%D1%82%D0%B0%29)

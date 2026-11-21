@@ -1,10 +1,6 @@
----
-title: "Blackrock Lockers"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Blackrock_Lockers"
----
-
 # Blackrock Lockers
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_Lockers)
 
 **Contents**
 
@@ -17,13 +13,13 @@ source: "https://thelongdark.fandom.com/wiki/Blackrock_Lockers"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Blackrock_Lockers.jpg) / *Blackrock\_Lockers.jpg* |
+|  | ![](../assets/Blackrock_Lockers.jpg) / _Blackrock\_Lockers.jpg_ |
 | Episode |  |
 | **Missions** |  |
 | Current | Blackrock Lockers |
 | Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Locate and use the keys that unlock Lockers found at the Blackrock Penitentiary.**
+**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Locate and use the keys that unlock Lockers found at the Blackrock Penitentiary.__
 
 In-game description
 
@@ -48,5 +44,3 @@ To start the mission, the player must find any of three locker keys scattered ar
 ## Tips
 
 - After the first time, it is impossible to crawl through the infirmary window again, but with a bit of wiggling it is possible to step up the tiny ridge (on the left side, near two "chimney" pipes) which separates you from being able to jump down to the doors of the infirmary. Thus saving you the return trip around the wolves.
-
-**Lua execution error in Module:Navbox function navbox**

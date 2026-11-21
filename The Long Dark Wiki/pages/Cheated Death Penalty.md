@@ -1,11 +1,6 @@
----
-title: "Cheated Death Penalty"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cheated_Death_Penalty"
----
-
 # Cheated Death Penalty
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cheated_Death_Penalty)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Cheated_Death_Penalty"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cheated_Death_Penalty_icon.png) / *Cheated\_Death\_Penalty\_icon.png* |
+|  | ![](../assets/Cheated_Death_Penalty_icon.png) / _Cheated\_Death\_Penalty\_icon.png_ |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Update | 2.28 |
 | **Properties** |  |
@@ -35,7 +30,7 @@ source: "https://thelongdark.fandom.com/wiki/Cheated_Death_Penalty"
 
 ## Overview
 
-> “**You have Cheated Death. Your maximum Condition is reduced each time you respawn.**”
+> “__You have Cheated Death. Your maximum Condition is reduced each time you respawn.__”
 
 ![Cheat\_Death\_Penalty.jpg](../assets/Cheat_Death_Penalty.jpg) The punishment for cheating death and continuing your save file always involves choosing between a great penalty that is temporary, or a smaller penalty that is permanent. The player can choose a mix of the two choices and their consequences as they die. Both penalties impact the [Condition](./Condition.md) bar, and will always be paired with the [Weakened State](./Weakened%20State.md) Affliction upon awakening after cheating death.
 
@@ -69,8 +64,6 @@ Choosing "Permanent Penalty" removes the lengthy Recovery Time, but will add a p
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**[ru:Штраф за обман смерти](ru:%D0%A8%D1%82%D1%80%D0%B0%D1%84_%D0%B7%D0%B0_%D0%BE%D0%B1%D0%BC%D0%B0%D0%BD_%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8)
 
 ## Notes
 

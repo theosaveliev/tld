@@ -1,17 +1,12 @@
----
-title: "Security Chief's ID Badge"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Security_Chief's_ID_Badge"
----
-
 # Security Chief's ID Badge
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Security_Chief's_ID_Badge)
 
 **Security Chief's ID Badge**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Security_Chief%27s_ID_Badge_icon.png) / *Security\_Chief's\_ID\_Badge\_icon.png* |
+|  | ![](../assets/Security_Chief%27s_ID_Badge_icon.png) / _Security\_Chief's\_ID\_Badge\_icon.png_ |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Wintermute | No |
 | **Properties** |  |
@@ -27,13 +22,13 @@ Obtaining the ID Badge unlocks the Settled Mind and Celestial Navigator [Feats](
 
 ## Transcript
 
-*The following text is transcribed from **Security Chief's ID Badge***
+_The following text is transcribed from **Security Chief's ID Badge**_
 
 **A piece of corporate identification. Scratched by use and faded by time.**
 
-| Column 1 |
-| --- |
-| ![Front and back of the card](../assets/OBJ_PictureIDSecurityChief.png) / *Front and back of the card* |
+![Front and back of the card](../assets/OBJ_PictureIDSecurityChief.png)
+
+_Front and back of the card_
 
 ## Update history
 
@@ -41,7 +36,5 @@ Obtaining the ID Badge unlocks the Settled Mind and Celestial Navigator [Feats](
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Бейджик начальника охраны](ru:%D0%91%D0%B5%D0%B9%D0%B4%D0%B6%D0%B8%D0%BA_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%8B)

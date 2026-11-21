@@ -1,17 +1,12 @@
----
-title: "Combat Pants"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Combat_Pants"
----
-
 # Combat Pants
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Combat_Pants)
 
 **Combat Pants**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Combat_Pants_icon.png) / *Combat\_Pants\_icon.png* |
+|  | ![](../assets/Combat_Pants_icon.png) / _Combat\_Pants\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Outer legs |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Combat_Pants"
 | Harvest | 1 × [Cloth](./Cloth.md) / 30 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 30% condition |
 
-> “**Heavy duty military pants, with reinforced knees and articulated for good mobility. Designed to take a beating.**”
+> “__Heavy duty military pants, with reinforced knees and articulated for good mobility. Designed to take a beating.__”
 >
 > — In-game description
 
-**Combat Pants** are a type of [clothing](./Clothing.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Combat Pants** are a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 While somewhat rare, they provide minimal weight and much better stats than the [Cargo Pants](./Cargo%20Pants.md) and [Jeans](./Jeans.md), though they only provide minimal Windproofing. All pants that have better stats are heavier.
 
@@ -39,13 +34,15 @@ Can be found in [Wintermute: Episode 2](./Episode%202%20-%20Luminance%20Fugue.md
 
 Possible spawns: [Signal Hill](./Signal%20Hill.md), [Crash Site](./Crash%20Site%20%28Pleasant%20Valley%29.md), [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), [Miner's Folly](./Miner%27s%20Folly.md) cabin (under the bed), [Gold Mine](./Gold%20Mine.md) (on the bed, low chance), [Hidden Cache](./Hidden%20Cache.md) inside [Reclusive Falls](./Reclusive%20Falls.md), [Homesteader's Respite](./Homesteader%27s%20Respite.md). [Forsaken Airfield](./Forsaken%20Airfield.md) ([Cargomaster's Trailer](./Cargomaster%27s%20Trailer.md), [Main Hangar](./Main%20Hangar.md), suitcases and lockers)
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Combat_Pants_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Combat_Pants_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Clothing model icon](../assets/Combat_Pants_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Combat_Pants_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Армейские штаны](ru:%D0%90%D1%80%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D1%88%D1%82%D0%B0%D0%BD%D1%8B)

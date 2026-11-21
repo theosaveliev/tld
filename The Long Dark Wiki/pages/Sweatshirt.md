@@ -1,17 +1,12 @@
----
-title: "Sweatshirt"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Sweatshirt"
----
-
 # Sweatshirt
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sweatshirt)
 
 **Sweatshirt**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Sweatshirt_icon.png) / *Sweatshirt\_icon.png* |
+|  | ![](../assets/Sweatshirt_icon.png) / _Sweatshirt\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Inner torso |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Sweatshirt"
 | Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 35% condition |
 
-> “**Crew-neck sweater made of heavy cotton. Will take the edge off on a windy day, but not very warm.**”
+> “__Crew-neck sweater made of heavy cotton. Will take the edge off on a windy day, but not very warm.__”
 >
 > — In-game description
 
-The **Sweatshirt** is a type of [clothing](./Clothing.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+The **Sweatshirt** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -40,11 +35,58 @@ A common starting item, the **sweatshirt** has similar, but slightly better stat
 
 == Gallery ==
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Clothing model](../assets/Sweatshirt_Model_icon.png) / *Clothing model* | ![Clothing model damaged](../assets/Sweatshirt_Model_Damaged_icon.png) / *Clothing model damaged* | ![The front of a sweatshirt at 100% condition.](../assets/Sweatshirt_Front.jpg) / *The front of a sweatshirt at 100% condition.* | ![The front of a sweatshirt at 1% condition.](../assets/Sweatshirt1%25_Front.jpg) / *The front of a sweatshirt at 1% condition.* |
-| ![The back of a sweatshirt at 1% condition.](../assets/Sweatshirt1%25_Back.jpg) / *The back of a sweatshirt at 1% condition.* | ![The back of a sweatshirt at 100% condition.](../assets/Sweatshirt_Back.jpg) / *The back of a sweatshirt at 100% condition.* | ![The sweatshirt at 1% condition on the male paper doll model.](../assets/Sweatshirt1%25_PaperDoll_Male.jpg) / *The sweatshirt at 1% condition on the male paper doll model.* | ![The sweatshirt at 100% condition on the male paper doll model.](../assets/Sweatshirt_PaperDoll_Male.jpg) / *The sweatshirt at 100% condition on the male paper doll model.* |
-| ![The male in-game model wearing a 1% condition sweatshirt, aiming a rock.](../assets/Sweatshirt1%25_RockThrow_Male.jpg) / *The male in-game model wearing a 1% condition sweatshirt, aiming a rock.* | ![The male in-game model wearing a sweatshirt, aiming a rock](../assets/Sweatshirt_RockThrow_Male.jpg) / *The male in-game model wearing a sweatshirt, aiming a rock* | ![The male in-game model wearing a 1% condition sweatshirt, aiming a revolver.](../assets/Sweatshirt1%25_Revolver_Male.jpg) / *The male in-game model wearing a 1% condition sweatshirt, aiming a revolver.* | ![The male in-game model wearing a sweatshirt, aiming a revolver.](../assets/Sweatshirt_Revolver_Male.jpg) / *The male in-game model wearing a sweatshirt, aiming a revolver.* |
-| ![The male in-game model wearing a 1% condition sweatshirt, holding a rifle.](../assets/Sweatshirt1%25_Rifle_Male.jpg) / *The male in-game model wearing a 1% condition sweatshirt, holding a rifle.* | ![The male in-game model wearing a sweatshirt, holding a rifle.](../assets/Sweatshirt_Rifle_Male.jpg) / *The male in-game model wearing a sweatshirt, holding a rifle.* |  |  |
+![Clothing model](../assets/Sweatshirt_Model_icon.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Свитшот](ru:%D0%A1%D0%B2%D0%B8%D1%82%D1%88%D0%BE%D1%82)
+_Clothing model_
+
+![Clothing model damaged](../assets/Sweatshirt_Model_Damaged_icon.png)
+
+_Clothing model damaged_
+
+![The front of a sweatshirt at 100% condition.](../assets/Sweatshirt_Front.jpg)
+
+_The front of a sweatshirt at 100% condition._
+
+![The front of a sweatshirt at 1% condition.](../assets/Sweatshirt1%25_Front.jpg)
+
+_The front of a sweatshirt at 1% condition._
+
+![The back of a sweatshirt at 1% condition.](../assets/Sweatshirt1%25_Back.jpg)
+
+_The back of a sweatshirt at 1% condition._
+
+![The back of a sweatshirt at 100% condition.](../assets/Sweatshirt_Back.jpg)
+
+_The back of a sweatshirt at 100% condition._
+
+![The sweatshirt at 1% condition on the male paper doll model.](../assets/Sweatshirt1%25_PaperDoll_Male.jpg)
+
+_The sweatshirt at 1% condition on the male paper doll model._
+
+![The sweatshirt at 100% condition on the male paper doll model.](../assets/Sweatshirt_PaperDoll_Male.jpg)
+
+_The sweatshirt at 100% condition on the male paper doll model._
+
+![The male in-game model wearing a 1% condition sweatshirt, aiming a rock.](../assets/Sweatshirt1%25_RockThrow_Male.jpg)
+
+_The male in-game model wearing a 1% condition sweatshirt, aiming a rock._
+
+![The male in-game model wearing a sweatshirt, aiming a rock](../assets/Sweatshirt_RockThrow_Male.jpg)
+
+_The male in-game model wearing a sweatshirt, aiming a rock_
+
+![The male in-game model wearing a 1% condition sweatshirt, aiming a revolver.](../assets/Sweatshirt1%25_Revolver_Male.jpg)
+
+_The male in-game model wearing a 1% condition sweatshirt, aiming a revolver._
+
+![The male in-game model wearing a sweatshirt, aiming a revolver.](../assets/Sweatshirt_Revolver_Male.jpg)
+
+_The male in-game model wearing a sweatshirt, aiming a revolver._
+
+![The male in-game model wearing a 1% condition sweatshirt, holding a rifle.](../assets/Sweatshirt1%25_Rifle_Male.jpg)
+
+_The male in-game model wearing a 1% condition sweatshirt, holding a rifle._
+
+![The male in-game model wearing a sweatshirt, holding a rifle.](../assets/Sweatshirt_Rifle_Male.jpg)
+
+_The male in-game model wearing a sweatshirt, holding a rifle._

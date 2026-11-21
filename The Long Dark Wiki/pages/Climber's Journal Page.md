@@ -1,17 +1,12 @@
----
-title: "Climber's Journal Page"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Climber's_Journal_Page"
----
-
 # Climber's Journal Page
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Climber's_Journal_Page)
 
 **Climber's Journal Page**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Climber%27s_Journal_Page_icon.png) / *Climber's\_Journal\_Page\_icon.png* |
+|  | ![](../assets/Climber%27s_Journal_Page_icon.png) / _Climber's\_Journal\_Page\_icon.png_ |
 | Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298) |
 | Wintermute | No |
 | **Properties** |  |
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Climber's_Journal_Page"
 
 ## Transcript
 
-*The following text is transcribed from **Climber's Journal Page***
+_The following text is transcribed from **Climber's Journal Page**_
 
 **Sept 5th
 
@@ -46,13 +41,11 @@ Clear day. I went out again. Found some metal cargo crates. They look like they 
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Map on the back of the journal page.](../assets/Climber%27s_journal_page_-_map.jpg) / *Map on the back of the journal page.* |
+![Map on the back of the journal page.](../assets/Climber%27s_journal_page_-_map.jpg)
+
+_Map on the back of the journal page._
 
 ## Update history
 
 - UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [es:Página del diario del alpinista](es:P%C3%A1gina_del_diario_del_alpinista) [ru:Страница журнала альпиниста](ru:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B0_%D0%B0%D0%BB%D1%8C%D0%BF%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0)

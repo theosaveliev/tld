@@ -1,11 +1,6 @@
----
-title: "Atwood"
-wiki_namespace: 0
-categories: ["Characters", "Story"]
-source: "https://thelongdark.fandom.com/wiki/Atwood"
----
-
 # Atwood
+
+**Categories:** Characters, Story · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Atwood)
 
 **Contents**
 
@@ -15,13 +10,13 @@ source: "https://thelongdark.fandom.com/wiki/Atwood"
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
 **Dr. Atwood**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Dr_Atwood.jpg) / *Dr\_Atwood.jpg* |
+|  | ![](../assets/Dr_Atwood.jpg) / _Dr\_Atwood.jpg_ |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Biographical Information** |  |
 | Status | Alive |
@@ -32,11 +27,11 @@ source: "https://thelongdark.fandom.com/wiki/Atwood"
 | **Game Information** |  |
 | Voiced by | Mayumi Yoshida |
 
-> “**An old friend of mine, lives alone in a cabin in the hills near [Perseverance](./Perseverance%20Mills.md). Goes by the name Atwood. People in town will know how to find them. You need to get them this message as soon as possible.**”
+> “__An old friend of mine, lives alone in a cabin in the hills near [Perseverance](./Perseverance%20Mills.md). Goes by the name Atwood. People in town will know how to find them. You need to get them this message as soon as possible.__”
 >
 > — - [Jeremiah](./Jeremiah.md)
 
-**Dr. Janet Atwood** is a woman who lives at the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) facility, near [Perseverance Mills](./Perseverance%20Mills.md). In the final chapter of [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md), [Will Mackenzie](./Will%20Mackenzie.md) promises [Jeremiah](./Jeremiah.md) that he will take a message ("*Wintermute*") to Atwood.
+**Dr. Janet Atwood** is a woman who lives at the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) facility, near [Perseverance Mills](./Perseverance%20Mills.md). In the final chapter of [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md), [Will Mackenzie](./Will%20Mackenzie.md) promises [Jeremiah](./Jeremiah.md) that he will take a message ("_Wintermute_") to Atwood.
 
 ## Episode 2
 
@@ -63,8 +58,14 @@ Atwood is slated to appear in the upcoming [Episode 5: The Light At The End Of A
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![](../assets/Dr_Atwood.jpg) / *Dr\_Atwood.jpg* | ![Dr. Atwood and Jace reuniting.](../assets/Dr_Atwood_and_Jace_hugging.jpg) / *Dr. Atwood and Jace reuniting.* | ![Dr. Atwood wearing a coat while waiting for Mackenzie.](../assets/Atwood_Coat.png) / *Dr. Atwood wearing a coat while waiting for Mackenzie.* |
+![](../assets/Dr_Atwood.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Этвуд](ru:%D0%AD%D1%82%D0%B2%D1%83%D0%B4)
+_Dr\_Atwood.jpg_
+
+![Dr. Atwood and Jace reuniting.](../assets/Dr_Atwood_and_Jace_hugging.jpg)
+
+_Dr. Atwood and Jace reuniting._
+
+![Dr. Atwood wearing a coat while waiting for Mackenzie.](../assets/Atwood_Coat.png)
+
+_Dr. Atwood wearing a coat while waiting for Mackenzie._

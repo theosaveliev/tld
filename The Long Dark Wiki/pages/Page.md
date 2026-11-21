@@ -1,17 +1,12 @@
----
-title: "Page"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Page"
----
-
 # Page
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Page)
 
 **Page**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Page_icon.png) / *Page\_icon.png* |
+|  | ![](../assets/Page_icon.png) / _Page\_icon.png_ |
 | Release | [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Page"
 
 ## Transcript
 
-*The following text is transcribed from **Page***
+_The following text is transcribed from **Page**_
 
 **Hard to believe we're getting more inmates this week. And in winter, besides. The talk is that the warden's going to open on C Block again. And guess who's going to have to requisition all we need to stock those cells? Yours truly. Should have never come out here. Debts or no debts this isn't living. It's just counting days.  
    
@@ -38,7 +33,5 @@ source: "https://thelongdark.fandom.com/wiki/Page"
 UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Added to game
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Страница](ru:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)

@@ -1,20 +1,15 @@
----
-title: "He Lives"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/He_Lives"
----
-
 # He Lives
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/He_Lives)
 
 **He Lives**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/He_Lives_icon.png) / *He\_Lives\_icon.png* |
+|  | ![](../assets/He_Lives_icon.png) / _He\_Lives\_icon.png_ |
 | Description | Intercept the Radio transmission. |
 
-**He Lives** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**He Lives** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -26,5 +21,3 @@ After [Astrid Greenwood](./Astrid%20Greenwood.md) interacts with the radio and f
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**==References==

@@ -1,24 +1,19 @@
----
-title: "Cedar Limb"
-wiki_namespace: 0
-categories: ["Interactable Objects", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Cedar_Limb"
----
-
 # Cedar Limb
+
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cedar_Limb)
 
 **Cedar Limb**
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Small](../assets/CedarLimb.jpg) / *Small* \| ![Large](../assets/CedarLimbLarge.jpg) / *Large* \| / \| --- \| --- \| | 250px\]\] |
-| ![Small](../assets/CedarLimb.jpg) / *Small* | ![Large](../assets/CedarLimbLarge.jpg) / *Large* |
+| \[\[File: / ![Small](../assets/CedarLimb.jpg) / _Small_ / ![Large](../assets/CedarLimbLarge.jpg) / _Large_ | 250px\]\] |
+| ![Small](../assets/CedarLimb.jpg) / _Small_ | ![Large](../assets/CedarLimbLarge.jpg) / _Large_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | Yes\|- / **Statistics** |
 | Harvest | 45-60 Minutes / Yields 3-4 [Cedar Firewood](./Cedar%20Firewood.md), 1 [Tinder Plug](./Tinder%20Plug.md) |
 
-A **Cedar Limb** is one of the many stationary interactable objects found in *The Long Dark*. They respawn randomly in the world over time under trees, making them a renewable [material](./Materials.md).
+A **Cedar Limb** is one of the many stationary interactable objects found in _The Long Dark_. They respawn randomly in the world over time under trees, making them a renewable [material](./Materials.md).
 
 ## Overview
 
@@ -49,5 +44,3 @@ Large limbs cannot be cut up with a Hacksaw, and take 60 min to harvest with a n
 | --- | --- | --- | --- |
 | 5/2 | 60 minutes |  | -2% Hatchet |
 | 5/2 | 78 minutes | 325 | -2% Improvised Hatchet |
-
-Compared to the [Fir Limb](./Fir%20Limb.md), the Cedar Limb provides much less burn time per unit of harvesting time. Both limbs take equally long to harvest (15 minutes per unit of firewood), but the [Cedar Firewood](./Cedar%20Firewood.md) burns for only 60 minutes, compared to Fir's 90. The major advantages of Cedar over Fir are that it is easier to light and that it has a higher burn density. Thus, Cedar is superior for travelling, where weight and ease of starting are most important.**Lua execution error in Module:Navbox function navbox** [ru:Кедровая ветвь](ru:%D0%9A%D0%B5%D0%B4%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B2%D1%8C)

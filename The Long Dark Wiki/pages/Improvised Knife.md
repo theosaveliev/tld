@@ -1,11 +1,6 @@
----
-title: "Improvised Knife"
-wiki_namespace: 0
-categories: ["Craftable tools", "Story items", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Improvised_Knife"
----
-
 # Improvised Knife
+
+**Categories:** Craftable tools, Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Knife)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Improvised_Knife"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Improvised_Knife_icon.png) / *Improvised\_Knife\_icon.png* |
+|  | ![](../assets/Improvised_Knife_icon.png) / _Improvised\_Knife\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | **Statistics** |  |
@@ -26,11 +21,11 @@ source: "https://thelongdark.fandom.com/wiki/Improvised_Knife"
 | Harvest | 1 × [Scrap Metal](./Scrap%20Metal.md) 45 minutes |
 | Repair | [Whetstone](./Whetstone.md) 12-5 minutes / 3%-5% |
 
-> “**An improvised knife made of scrap metal with a cloth-wrapped handle. Not as robust or nice to look at as one made by professional, but it'll do the trick.**”
+> “__An improvised knife made of scrap metal with a cloth-wrapped handle. Not as robust or nice to look at as one made by professional, but it'll do the trick.__”
 >
 > — In-game description
 
-The **Improvised Knife** is a tool in *The Long Dark* for butchering, crafting and self defense.
+The **Improvised Knife** is a tool in _The Long Dark_ for butchering, crafting and self defense.
 
 ## Overview
 
@@ -86,5 +81,3 @@ A [Milling Machine](./Milling%20Machine.md) may repair a non-ruined hunting knif
 ## Trivia
 
 - Like the [Improvised Hatchet](./Improvised%20Hatchet.md), the Improvised Knife is a flattened metal pipe with cloth for a grip.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Самодельный нож](ru:%D0%A1%D0%B0%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%B6)

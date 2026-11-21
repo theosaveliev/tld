@@ -1,17 +1,12 @@
----
-title: "Storage Cupboard"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Storage_Cupboard"
----
-
 # Storage Cupboard
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Storage_Cupboard)
 
 **Storage Cupboard**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Storage_Cupboard.jpg) / *Storage\_Cupboard.jpg* |
+|  | ![](../assets/Storage_Cupboard.jpg) / _Storage\_Cupboard.jpg_ |
 | Release | 1.60 |
 | **Container** |  |
 | Capacity | 200.00 kg(440 lbs) |
@@ -35,5 +30,3 @@ A large amount of supplies must be stored in this container as part of the [Comi
   - (x8) Antibiotics/Prepared reishi
   - (x1) Distress pistol
   - (x4) Distress pistol shells
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Old Man's Beard Lichen"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history", "Plants"]
-source: "https://thelongdark.fandom.com/wiki/Old_Man's_Beard_Lichen"
----
-
 # Old Man's Beard Lichen
+
+**Categories:** Materials, Pages with update history, Plants · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Man's_Beard_Lichen)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Old_Man's_Beard_Lichen"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Old_Man%27s_Beard_Lichen_icon.png) / *Old\_Man's\_Beard\_Lichen\_icon.png* |
+|  | ![](../assets/Old_Man%27s_Beard_Lichen_icon.png) / _Old\_Man's\_Beard\_Lichen\_icon.png_ |
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192) |
 | Wintermute | Yes |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
@@ -54,13 +49,11 @@ Old Man's Beard Lichen can be found hanging from low tree branches in all region
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Old_man%27s_beard_lichen.png) / *Old model.* |
+![Old model.](../assets/Old_man%27s_beard_lichen.png)
+
+_Old model._
 
 ## Update history
 
 - UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Старый висящий мох](ru:%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D0%B2%D0%B8%D1%81%D1%8F%D1%89%D0%B8%D0%B9_%D0%BC%D0%BE%D1%85)

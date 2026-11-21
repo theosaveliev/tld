@@ -1,17 +1,12 @@
----
-title: "Coastal Cave"
-wiki_namespace: 0
-categories: ["Caves", "Indoor locations", "Locations"]
-source: "https://thelongdark.fandom.com/wiki/Coastal_Cave"
----
-
 # Coastal Cave
+
+**Categories:** Caves, Indoor locations, Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coastal_Cave)
 
 **Coastal Cave**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/No_picture.png) / *No\_picture.png* |
+|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
 | **Location** |  |
 | Region |  |
 | Location | Connects [Forsaken Shore](./Forsaken%20Shore.md) and [Mountain Pass](./Mountain%20Pass.md) |

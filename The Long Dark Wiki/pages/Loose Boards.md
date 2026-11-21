@@ -1,17 +1,12 @@
----
-title: "Loose Boards"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Loose_Boards"
----
-
 # Loose Boards
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Loose_Boards)
 
 **Loose Boards**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Loose_Boards.jpg) / *Loose\_Boards.jpg* |
+|  | ![](../assets/Loose_Boards.jpg) / _Loose\_Boards.jpg_ |
 | Release | Part 1 TFTFT |
 | Update | [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00) |
 | Story item | [Church Artifact (mission)](./Church%20Artifact%20%28mission%29.md) |
@@ -27,5 +22,3 @@ A Loose Boards is found in an organ in [St. Christopher's Church](./St.%20Christ
 ## Non-Mementos
 
 A special version can be found inside the [Mindful Cabin](./Mindful%20Cabin.md) in [Forsaken Airfield](./Forsaken%20Airfield.md). It is found under the stairs behind the potted plant, and holds a [Note](./Notes.md) inside and often a [Revolver](./Revolver.md).
-
-Another can be found in [Skeeter's Ridge](./Skeeter%27s%20Ridge.md) during the mission [Church Artifact (mission)](./Church%20Artifact%20%28mission%29.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).**Lua execution error in Module:Navbox function navbox**

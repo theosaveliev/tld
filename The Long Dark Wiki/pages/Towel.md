@@ -1,17 +1,12 @@
----
-title: "Towel"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Towel"
----
-
 # Towel
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Towel)
 
 **Towel**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Towel.png) / *Towel.png* |
+|  | ![](../assets/Towel.png) / _Towel.png_ |
 | Release | 18 September 2015 |
 | Update | [0.264](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.264) |
 | Story item | No |
@@ -25,5 +20,3 @@ A **Towel** is an interactable item that can be harvested for [Cloth](./Cloth.md
 | 2 | 10 minutes | 31 | -0% by Hand |
 | 2 | 6 minutes | 18 | -2% Hunting Knife |
 | 2 | 8 minutes | 23 | -3% Improvised Knife |
-
-**Lua execution error in Module:Navbox function navbox**

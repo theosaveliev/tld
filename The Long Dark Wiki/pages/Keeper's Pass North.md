@@ -1,11 +1,6 @@
----
-title: "Keeper's Pass North"
-wiki_namespace: 0
-categories: ["Pages with update history", "Transition zones"]
-source: "https://thelongdark.fandom.com/wiki/Keeper's_Pass_North"
----
-
 # Keeper's Pass North
+
+**Categories:** Pages with update history, Transition zones · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Keeper's_Pass_North)
 
 **Contents**
 
@@ -20,17 +15,17 @@ source: "https://thelongdark.fandom.com/wiki/Keeper's_Pass_North"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Buildersbridge1.png) / *Buildersbridge1.png* |
+|  | ![](../assets/Buildersbridge1.png) / _Buildersbridge1.png_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Keeper%27s_Pass_North_Location.png) / *Keeper's\_Pass\_North\_Location.png* |
-|  | ![](../assets/Keeper%27s_Pass_North_Region_Map.png) / *Keeper's\_Pass\_North\_Region\_Map.png* |
+|  | ![](../assets/Keeper%27s_Pass_North_Location.png) / _Keeper's\_Pass\_North\_Location.png_ |
+|  | ![](../assets/Keeper%27s_Pass_North_Region_Map.png) / _Keeper's\_Pass\_North\_Region\_Map.png_ |
 | **Details** |  |
 | Description | A large crevice situated in the middle of nowhere, eventually giving way to the road to [Blackrock](./Blackrock.md) |
 | Connecting Regions | [Pleasant Valley](./Pleasant%20Valley.md) (via [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) ) [Blackrock](./Blackrock.md) |
 | Locations | 4 |
 | Date Added | December 2021 |
 
-**Keeper's Pass North** is the 5th Transition Zone [Region](./Region.md) introduced into *[The Long Dark](./The%20Long%20Dark.md)*. It connects to [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) via a cave system (which in turn connects to [Pleasant Valley](./Pleasant%20Valley.md)) and to [Blackrock](./Blackrock.md) to the north.
+**Keeper's Pass North** is the 5th Transition Zone [Region](./Region.md) introduced into _[The Long Dark](./The%20Long%20Dark.md)_. It connects to [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) via a cave system (which in turn connects to [Pleasant Valley](./Pleasant%20Valley.md)) and to [Blackrock](./Blackrock.md) to the north.
 
 ## Overview
 
@@ -65,14 +60,27 @@ The section from the transitional cave system to Forester's Hermitage is the sec
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A detailed map of Keeper's Pass v2.35 (includes spoilers)](../assets/Keeper%27s_Pass_map_.png) / *A detailed map of Keeper's Pass v2.35 (includes spoilers)* | ![A detailed map of Keeper's Pass v2.35 (Interloper/Misery edition, includes spoilers)](../assets/Keeper%27s_Pass_map_loper.png) / *A detailed map of Keeper's Pass v2.35 (Interloper/Misery edition, includes spoilers)* | ![](../assets/Buildersbridge.png) / *Buildersbridge.png* | ![](../assets/Buildersbridge1.png) / *Buildersbridge1.png* |
-| ![](../assets/Screen_95557cf2-d17d-4f57-8d39-6e33db538551_hi.png) / *Screen\_95557cf2-d17d-4f57-8d39-6e33db538551\_hi.png* |  |  |  |
+![A detailed map of Keeper's Pass v2.35 (includes spoilers)](../assets/Keeper%27s_Pass_map_.png)
+
+_A detailed map of Keeper's Pass v2.35 (includes spoilers)_
+
+![A detailed map of Keeper's Pass v2.35 (Interloper/Misery edition, includes spoilers)](../assets/Keeper%27s_Pass_map_loper.png)
+
+_A detailed map of Keeper's Pass v2.35 (Interloper/Misery edition, includes spoilers)_
+
+![](../assets/Buildersbridge.png)
+
+_Buildersbridge.png_
+
+![](../assets/Buildersbridge1.png)
+
+_Buildersbridge1.png_
+
+![](../assets/Screen_95557cf2-d17d-4f57-8d39-6e33db538551_hi.png)
+
+_Screen\_95557cf2-d17d-4f57-8d39-6e33db538551\_hi.png_
 
 ## Update history
 
 - UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Перевал смотрителя (север)](ru:%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB_%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8F_%28%D1%81%D0%B5%D0%B2%D0%B5%D1%80%29)

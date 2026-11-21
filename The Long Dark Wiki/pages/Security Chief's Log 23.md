@@ -1,17 +1,12 @@
----
-title: "Security Chief's Log 23"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Security_Chief's_Log_23"
----
-
 # Security Chief's Log 23
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_23)
 
 **Security Chief's Log 23**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Security_Chief%27s_Log_23_icon.png) / *Security\_Chief's\_Log\_23\_icon.png* |
+|  | ![](../assets/Security_Chief%27s_Log_23_icon.png) / _Security\_Chief's\_Log\_23\_icon.png_ |
 | Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
 | Wintermute | No |
 | **Properties** |  |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Security_Chief's_Log_23"
 
 ## Transcript
 
-*The following text is transcribed from **Security Chief's Log 23***
+_The following text is transcribed from **Security Chief's Log 23**_
 
 **We ran power to Rüdiger's machine for the first time yesterday. It was nothing like what they predicted, even at half-energy.
 
@@ -41,7 +36,5 @@ But afterwards? Impossible to say.**
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Запись №23 начальника охраны](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C_%E2%84%9623_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%8B)

@@ -1,11 +1,6 @@
----
-title: "Cash"
-wiki_namespace: 0
-categories: ["Fire Starting", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cash"
----
-
 # Cash
+
+**Categories:** Fire Starting, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cash)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Cash"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cash_icon.png) / *Cash\_icon.png* |
+|  | ![](../assets/Cash_icon.png) / _Cash\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | **Properties** |  |
 | Item type | [Fire Starting](./Fire%20Starting.md)\|- |
@@ -47,9 +42,9 @@ Cash fills the role of tinder, which is used for Fire Starting. Cash is the ligh
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![3d model](../assets/Cash_item.png) / *3d model* |
+![3d model](../assets/Cash_item.png)
+
+_3d model_
 
 ## Update history
 
@@ -59,5 +54,3 @@ Cash fills the role of tinder, which is used for Fire Starting. Cash is the ligh
 ==Trivia==
 
 - Since 2011-2013, Canadian banknotes are no longer printed on paper, but on polypropylene plastic instead. These banknotes would tend to melt before starting to burn, making them considerably less useful than their paper counterparts for fire starting.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Банкноты](ru:%D0%91%D0%B0%D0%BD%D0%BA%D0%BD%D0%BE%D1%82%D1%8B)

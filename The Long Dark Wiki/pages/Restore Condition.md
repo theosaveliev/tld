@@ -1,17 +1,12 @@
----
-title: "Restore Condition"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Restore_Condition"
----
-
 # Restore Condition
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Restore_Condition)
 
 **Restore Condition**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Restore_Condition_icon.png) / *Restore\_Condition\_icon.png* |
+|  | ![](../assets/Restore_Condition_icon.png) / _Restore\_Condition\_icon.png_ |
 | Release | [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98) |
 | Update | 1.98 |
 | **Properties** |  |
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Restore_Condition"
 | Type | Benefit |
 | Benefit Duration | 2 Hours |
 
-> “**You'll gradually recover lost Condition over time.**”
+> “__You'll gradually recover lost Condition over time.__”
 >
 > — In-game Description
 
@@ -47,8 +42,6 @@ This affliction causes the following effects:
 
 - UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox**
 
 ## Notes
 

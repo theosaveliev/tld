@@ -1,11 +1,6 @@
----
-title: "Fire Barrel"
-wiki_namespace: 0
-categories: ["Fire Starting", "Interactable objects", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Fire_Barrel"
----
-
 # Fire Barrel
+
+**Categories:** Fire Starting, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fire_Barrel)
 
 **Contents**
 
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Fire_Barrel"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fire_barrel.png) / *Fire\_barrel.png* |
+|  | ![](../assets/Fire_barrel.png) / _Fire\_barrel.png_ |
 | **General** |  |
 | Type | Fire Starting\|- |
 | Cooking slots | 2 |
@@ -93,5 +88,3 @@ Fire barrels have fixed locations that do not change between games. They are fou
 
 - [High Peak Plateau](./High%20Peak%20Plateau.md) (Outdoors)
 - Behind [Last Lonely House](./Last%20Lonely%20House.md), near Work Bench (Outdoors)
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Бочка](ru:%D0%91%D0%BE%D1%87%D0%BA%D0%B0) [es:Barril para fuego](es:Barril_para_fuego)

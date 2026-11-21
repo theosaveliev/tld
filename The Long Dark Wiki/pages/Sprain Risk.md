@@ -1,17 +1,12 @@
----
-title: "Sprain Risk"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Sprain_Risk"
----
-
 # Sprain Risk
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sprain_Risk)
 
 **Sprain Risk**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Sprain_Risk_icon.png) / *Sprain\_Risk\_icon.png* |
+|  | ![](../assets/Sprain_Risk_icon.png) / _Sprain\_Risk\_icon.png_ |
 | Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48) |
 | Update | 1.48 |
 | **Properties** |  |
@@ -27,10 +22,8 @@ A **Sprain Risk** is caused by a survivor's [Encumbrance](./Encumbrance.md) bein
 
 ## Risk
 
-> “**You are Exhausted or Encumbered, and at a higher risk for a Sprain when traversing sloped ground.**”
+> “__You are Exhausted or Encumbered, and at a higher risk for a Sprain when traversing sloped ground.__”
 
 Carrying too much weight beyond carrying capacity or becoming too tired to carry your heavy load will warn the player that they are at risk of acquiring a sprain. Walking off road onto uneven ground (icon shown in the photo) may have a chance of a [Sprained Wrist](./Sprained%20Wrist.md) or [Sprained Ankle](./Sprained%20Ankle.md) ooccurring.
 
 The exact mechanics that result in a sprain are simple: if the player walks across uneven terrain for more than 10 seconds (and the steep slopes icon doesn't disappear), the player will aquire a sprain. [Mountain Goating](./Mountain%20Goating.md) is not advised when the player has a Sprain Risk, as they will almost certainly sprain themselves when going down sharp terrain.
-
-Consider either resting or lightening your load in order to eliminate the risk, or consume a [Go! Energy Drink](./Go!%20Energy%20Drink.md) or an [Emergency Stim](./Emergency%20Stim.md).\[Missing image: Pente.jpg\] This symbol appears on the player interface when there uneven slopes**Lua execution error in Module:Navbox function navbox**

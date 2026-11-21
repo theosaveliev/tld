@@ -1,18 +1,13 @@
----
-title: "Wheel"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Wheel"
----
-
 # Wheel
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wheel)
 
 **Wheel**
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Full](../assets/Wheel.png) / *Full* \| ![Broken](../assets/Wheel_%28broken%29.png) / *Broken* \| / \| --- \| --- \| | 250px\]\] |
-| ![Full](../assets/Wheel.png) / *Full* | ![Broken](../assets/Wheel_%28broken%29.png) / *Broken* |
+| \[\[File: / ![Full](../assets/Wheel.png) / _Full_ / ![Broken](../assets/Wheel_%28broken%29.png) / _Broken_ | 250px\]\] |
+| ![Full](../assets/Wheel.png) / _Full_ | ![Broken](../assets/Wheel_%28broken%29.png) / _Broken_ |
 | Release | 1 August 2017 |
 | Update | [1.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Story item | No |
@@ -37,8 +32,10 @@ Harvesting either form with a [Hatchet](./Hatchet.md) yields 3 [Reclaimed Wood](
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The Wheel in the Camp Office](../assets/Wooden_Wheel_Undamaged.jpg) / *The Wheel in the Camp Office* | ![Ditto, broken](../assets/Wooden_Wheel_Damaged.jpg) / *Ditto, broken* |
+![The Wheel in the Camp Office](../assets/Wooden_Wheel_Undamaged.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_The Wheel in the Camp Office_
+
+![Ditto, broken](../assets/Wooden_Wheel_Damaged.jpg)
+
+_Ditto, broken_

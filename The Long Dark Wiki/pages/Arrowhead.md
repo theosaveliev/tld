@@ -1,11 +1,6 @@
----
-title: "Arrowhead"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Arrowhead"
----
-
 # Arrowhead
+
+**Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Arrowhead)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Arrowhead"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Arrowhead_icon.png) / *Arrowhead\_icon.png* |
+|  | ![](../assets/Arrowhead_icon.png) / _Arrowhead\_icon.png_ |
 | Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -36,7 +31,7 @@ source: "https://thelongdark.fandom.com/wiki/Arrowhead"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_ArrowHead |
 
-An **Arrowhead** is a crafting Material in *The Long Dark.*
+An **Arrowhead** is a crafting Material in _The Long Dark._
 
 ## Overview
 
@@ -72,9 +67,9 @@ Broken Arrows sometimes spawn on or near animal carcasses, [frozen corpses](./Fr
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Arrowhead.png) / *Old model.* |
+![Old model.](../assets/Arrowhead.png)
+
+_Old model._
 
 ## Update history
 
@@ -86,5 +81,3 @@ Broken Arrows sometimes spawn on or near animal carcasses, [frozen corpses](./Fr
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.223)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Наконечник стрелы](ru:%D0%9D%D0%B0%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B8%D0%BA_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D1%8B) [es:Punta de flecha](es:Punta_de_flecha)

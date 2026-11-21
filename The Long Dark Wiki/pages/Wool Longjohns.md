@@ -1,11 +1,6 @@
----
-title: "Wool Longjohns"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Wool_Longjohns"
----
-
 # Wool Longjohns
+
+**Categories:** Clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wool_Longjohns)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Wool_Longjohns"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Wool_Longjohns_icon.png) / *Wool\_Longjohns\_icon.png* |
+|  | ![](../assets/Wool_Longjohns_icon.png) / _Wool\_Longjohns\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Inner legs |
@@ -32,7 +27,7 @@ source: "https://thelongdark.fandom.com/wiki/Wool_Longjohns"
 | Harvest | 1 × [Cloth](./Cloth.md) / 20 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 45 minutes / 50% condition |
 
-> “**Wool longjohns make a great underlayer for your legs. Warm but not very sturdy.**”
+> “__Wool longjohns make a great underlayer for your legs. Warm but not very sturdy.__”
 >
 > — In-game description
 
@@ -50,13 +45,19 @@ Longjohns are not available on [Interloper mode](./Survival%20Mode.md).
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Old model.](../assets/Wool_long_underwear_%28historical%29.png) / *Old model.* | ![Clothing model icon](../assets/Wool_Longjohns_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Wool_Longjohns_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Old model.](../assets/Wool_long_underwear_%28historical%29.png)
+
+_Old model._
+
+![Clothing model icon](../assets/Wool_Longjohns_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Wool_Longjohns_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
-  - Renamed from *Wool Long Underwear* to *Wool Longjohns*
-
-**Lua execution error in Module:Navbox function navbox** [ru:Шерстяные\_кальсоны](ru:%D0%A8%D0%B5%D1%80%D1%81%D1%82%D1%8F%D0%BD%D1%8B%D0%B5_%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BE%D0%BD%D1%8B)
+  - Renamed from _Wool Long Underwear_ to _Wool Longjohns_

@@ -1,11 +1,6 @@
----
-title: "Blackrock (mission)"
-wiki_namespace: 0
-categories: ["Episode 3", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Blackrock_(mission)"
----
-
 # Blackrock \(mission\)
+
+**Categories:** Episode 3, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_%28mission%29)
 
 **Contents**
 

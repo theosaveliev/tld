@@ -1,11 +1,6 @@
----
-title: "Archivist"
-wiki_namespace: 0
-categories: ["Challenges"]
-source: "https://thelongdark.fandom.com/wiki/Archivist"
----
-
 # Archivist
+
+**Categories:** Challenges · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Archivist)
 
 **Contents**
 
@@ -19,22 +14,22 @@ source: "https://thelongdark.fandom.com/wiki/Archivist"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Challenge_Archivist.png) / *Challenge\_Archivist.png* |
+|  | ![](../assets/Challenge_Archivist.png) / _Challenge\_Archivist.png_ |
 | **Details** |  |
 | Regions | [Mountain Town](./Mountain%20Town.md), [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md), [Coastal Highway](./Coastal%20Highway.md), [Pleasant Valley](./Pleasant%20Valley.md), [Broken Railroad](./Broken%20Railroad.md), [Desolation Point](./Desolation%20Point.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
 | Difficulty | 3 |
 | Date Added | December 2018 |
 
-> “**In the Quiet Apocalypse, fragments of the old world are few and far between. Collect all the Buffer Memories you find, to preserve their echoes.  
- During the aurora, collect Buffer Memories from across Great Bear Island at the locations listed in your Journal.**”
+> “__In the Quiet Apocalypse, fragments of the old world are few and far between. Collect all the Buffer Memories you find, to preserve their echoes.  
+ During the aurora, collect Buffer Memories from across Great Bear Island at the locations listed in your Journal.__”
 >
 > — Main Menu description
 
-**Archivist** is one of eight [challenges](./Challenge.md) in [*The Long Dark*](./The%20Long%20Dark.md).
+**Archivist** is one of eight [challenges](./Challenge.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
-> “**Collect a Buffer Memory from every location on the list.**”
+> “__Collect a Buffer Memory from every location on the list.__”
 >
 > — Journal Objective
 
@@ -52,7 +47,7 @@ The player starts out in the [Milton House (Grey Mother's)](./Milton%20House%20%
 
 ![](../assets/Archivist_Journal.jpg)
 
-*Archivist\_Journal.jpg*
+_Archivist\_Journal.jpg_
 
 | Region | Location |
 | --- | --- |
@@ -81,8 +76,6 @@ The North Tower and Chasm Cave buffer memories are outdoors. You should be prepa
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![The badge awarded upon completing the challenge](../assets/Badge_challenge_archivist.png) / *The badge awarded upon completing the challenge* |
+![The badge awarded upon completing the challenge](../assets/Badge_challenge_archivist.png)
 
-**Lua execution error in Module:Navbox function navbox**[ru:Архивариус](ru:%D0%90%D1%80%D1%85%D0%B8%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D1%81) [es:Archivista](es:Archivista)
+_The badge awarded upon completing the challenge_

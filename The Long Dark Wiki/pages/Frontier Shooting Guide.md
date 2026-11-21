@@ -1,11 +1,6 @@
----
-title: "Frontier Shooting Guide"
-wiki_namespace: 0
-categories: ["Fire Starting", "Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Frontier_Shooting_Guide"
----
-
 # Frontier Shooting Guide
+
+**Categories:** Fire Starting, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frontier_Shooting_Guide)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Frontier_Shooting_Guide"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Frontier_Shooting_Guide_icon.png) / *Frontier\_Shooting\_Guide\_icon.png* |
+|  | ![](../assets/Frontier_Shooting_Guide_icon.png) / _Frontier\_Shooting\_Guide\_icon.png_ |
 | Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.346) |
 | Wintermute | No |
 | **Properties** |  |
@@ -31,13 +26,13 @@ source: "https://thelongdark.fandom.com/wiki/Frontier_Shooting_Guide"
 | **Actions** |  |
 | Backpack | Research, Drop |
 
-*For the version encountered in [Wintermute](./Wintermute.md), see [Frontier Shooting Guide (Survival School)](./Frontier%20Shooting%20Guide%20%28Survival%20School%29.md).*
+_For the version encountered in [Wintermute](./Wintermute.md), see [Frontier Shooting Guide (Survival School)](./Frontier%20Shooting%20Guide%20%28Survival%20School%29.md)._
 
 **Frontier Shooting Guide** is a [Research Book](./Research%20Book.md) used to improve the [Rifle Firearm](./Rifle%20Firearm.md) skill. It can also be used as Fuel when starting a [Fire](./Fire.md).
 
 ## Research info
 
-*Frontier Shooting Guide* can be researched for 4 hours, which can be broken into multiple research sessions. 5 [Rifle Firearm skill points](./Rifle%20Firearm.md#Skill_levels) are awarded on completing the research. This [Research Book](./Research%20Book.md) can only be used to increase the skill level to a maximum of 4.
+_Frontier Shooting Guide_ can be researched for 4 hours, which can be broken into multiple research sessions. 5 [Rifle Firearm skill points](./Rifle%20Firearm.md#Skill_levels) are awarded on completing the research. This [Research Book](./Research%20Book.md) can only be used to increase the skill level to a maximum of 4.
 
 Research can only be performed under the following conditions:
 
@@ -61,18 +56,20 @@ Research can only be performed under the following conditions:
 ## Trivia
 
 - Reaching 0% in any Needs while researching will immediately end the research session and negate any progress for that research attempt.
-- Attempting to burn a copy of *Rifle Firearm* when it has not been fully read will give a confirmation warning before it can be burned.
-- Once a copy of *Rifle Firearm* is fully researched, it will no longer appear in the Tools section of the Backpack.
+- Attempting to burn a copy of _Rifle Firearm_ when it has not been fully read will give a confirmation warning before it can be burned.
+- Once a copy of _Rifle Firearm_ is fully researched, it will no longer appear in the Tools section of the Backpack.
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![3D Model](../assets/Frontier_shooting_guide.png) / *3D Model* | ![Old model](../assets/Frontier_Shooting_Guide_Old.png) / *Old model* |
+![3D Model](../assets/Frontier_shooting_guide.png)
+
+_3D Model_
+
+![Old model](../assets/Frontier_Shooting_Guide_Old.png)
+
+_Old model_
 
 ## Update history
 
 - UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#.346)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**

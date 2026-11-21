@@ -1,11 +1,6 @@
----
-title: "Bunker Beta"
-wiki_namespace: 0
-categories: ["Indoor locations", "Locations", "Locations in Pleasant Valley"]
-source: "https://thelongdark.fandom.com/wiki/Bunker_Beta"
----
-
 # Bunker Beta
+
+**Categories:** Indoor locations, Locations, Locations in Pleasant Valley · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bunker_Beta)
 
 **Contents**
 
@@ -22,13 +17,13 @@ source: "https://thelongdark.fandom.com/wiki/Bunker_Beta"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bunker_Beta.jpg) / *Bunker\_Beta.jpg* |
+|  | ![](../assets/Bunker_Beta.jpg) / _Bunker\_Beta.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Bunker_Beta_Location.png) / *Bunker\_Beta\_Location.png* |
+|  | ![](../assets/Bunker_Beta_Location.png) / _Bunker\_Beta\_Location.png_ |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
 | Description | A reinforced underground shelter. |
 | **General** |  |
-| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
-|  | Has an interior\|} **Bunker** **Beta** is one of the bunkers that can be found as part of the [Signal Void](./Signal%20Void.md) Tale in [Pleasant Valley](./Pleasant%20Valley.md). / ## Unlocking / This bunker can only be found after having fixed the [Transmitter](./Transmitters.md) at the [Radio Tower](./Radio%20Tower.md) near [Signal Hill](./Signal%20Hill.md), then traveling northwest with the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) when the [Aurora](./Aurora.md) is active, at the west end of the map, due south close to [Three Strikes Farmstead](./Three%20Strikes%20Farmstead.md)/due north of [Long Curve](./Long%20Curve.md) and past a Bear Cave (beware the potential Aurora [Bear](./Bear.md) when traveling to uncover the bunker). Prior to this, the entrance is completely covered by snow and cannot be uncovered. / ## Overview / The bunker is very + shaped, and is the most compact of the 4 bunkers. / ### Storage / The room behind the front entrance is a small storage room with 2 [Metal Containers](./Metal%20Container.md), [Work Boots](./Work%20Boots.md), and 2 [Flares](./Flare.md), with a hallway just ahead. / ### Bathroom / Moving forwards across the hallway leads to a bathroom with an [Industrial Toilet](./Industrial%20Toilet.md) and a [Towel](./Towel.md), but not much else. / ### Kitchen / Turning left of the hallway leads to a kitchen with [Stored Water](./Stored%20Water.md), 3 [Canned Corn](./Canned%20Corn.md), 1 [Canned Ham](./Canned%20Ham.md), 1 [Pinnacle Peaches](./Pinnacle%20Peaches.md), 2 [Beds](./Bed.md), a [Trash Can](./Trash%20Can.md), a [First Aid Kit](./First%20Aid%20Kit.md), 1 [Can Opener](./Can%20Opener.md), 2 [Recycled Cans](./Recycled%20Can.md), 1 [Hunting Knife](./Hunting%20Knife.md), and [Security Chief's Log 23](./Security%20Chief%27s%20Log%2023.md). / ### Machine Storage / Turning right of the hallway leads to a machine storage room, with 1 [Car Battery](./Car%20Battery.md), 1 [Replacement Fuse](./Replacement%20Fuse.md), 1 [Heavy Hammer](./Heavy%20Hammer.md), 1 [Wire Bundle](./Wires.md), and [Interview Transcript 12](./Interview%20Transcript%2012.md). / ### Use as a [safehouse](./Safehouse.md) / As with most of the other bunkers unlocked during [Signal Void](./Signal%20Void.md), the bunker does not a particularly practical safe house, despite its plentiful loot. In addition to being isolated, it is very dark inside, requiring a light to navigate, and lacks a fireplace. While it may be useful for providing emergency shelter if caught in a blizzard, there are much better locations to turn into a safehouse in the region. / ## Gallery / \| Column 1 \| Column 2 \| Column 3 \| Column 4 \| / \| --- \| --- \| --- \| --- \| / \| ![Bunker Beta room](../assets/Bunker_Beta_Storage.png) / *Bunker Beta room* \| ![Bunker Beta Beds and Kitchen](../assets/Kitchen_Bunker_Beta.png) / *Bunker Beta Beds and Kitchen* \| ![The entrance](../assets/Bunker_Beta_Entrance.jpg) / *The entrance* \| ![Machine Room](../assets/Bunker_Beta_Machine_Room.jpg) / *Machine Room* \| / \| ![Bunker Beta before it is uncovered](../assets/Bunker_Beta_Snow.jpg) / *Bunker Beta before it is uncovered* \|  \|  \|  \| / **Lua execution error in Module:Navbox function navbox** [ru:Бункер Бета](ru:%D0%91%D1%83%D0%BD%D0%BA%D0%B5%D1%80_%D0%91%D0%B5%D1%82%D0%B0) |
-| ![Bunker Beta room](../assets/Bunker_Beta_Storage.png) / *Bunker Beta room* | ![Bunker Beta Beds and Kitchen](../assets/Kitchen_Bunker_Beta.png) / *Bunker Beta Beds and Kitchen* / ![The entrance](../assets/Bunker_Beta_Entrance.jpg) / *The entrance* / ![Machine Room](../assets/Bunker_Beta_Machine_Room.jpg) / *Machine Room* |
-| ![Bunker Beta before it is uncovered](../assets/Bunker_Beta_Snow.jpg) / *Bunker Beta before it is uncovered* |  |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
+
+| ![Bunker Beta room](../assets/Bunker_Beta_Storage.png) / _Bunker Beta room_ | ![Bunker Beta Beds and Kitchen](../assets/Kitchen_Bunker_Beta.png) / _Bunker Beta Beds and Kitchen_ / ![The entrance](../assets/Bunker_Beta_Entrance.jpg) / _The entrance_ / ![Machine Room](../assets/Bunker_Beta_Machine_Room.jpg) / _Machine Room_ |
+| ![Bunker Beta before it is uncovered](../assets/Bunker_Beta_Snow.jpg) / _Bunker Beta before it is uncovered_ |  |

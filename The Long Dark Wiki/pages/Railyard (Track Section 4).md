@@ -1,18 +1,12 @@
----
-title: "Railyard (Track Section 4)"
-wiki_namespace: 0
-categories: ["DLC Content", "Indoor locations", "Locations", "Locations in Anna Island -- Track Section 4"]
-source: "https://thelongdark.fandom.com/wiki/Railyard_(Track_Section_4)"
----
-
 # Railyard \(Track Section 4\)
+
+**Categories:** DLC Content, Indoor locations, Locations, Locations in Anna Island -- Track Section 4 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Railyard_%28Track_Section_4%29)
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| ![](../assets/Seal_icon.png) / *Seal\_icon.png* | **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / **Railyard (Track Section 4)** / \| Property \| Details \| / \| --- \| --- \| / \| \[\[File: / \\| ![Eastern Railway](../assets/Railyard_%28Track_Section_4_East%29.jpg) / *Eastern Railway* \\| ![Western Railway](../assets/Railyard_%28Track_Section_4_West%29.jpg) / *Western Railway* \\| / \\| --- \\| --- \\| \| 250px\]\] \| / \| ![Eastern Railway](../assets/Railyard_%28Track_Section_4_East%29.jpg) / *Eastern Railway* \| ![Western Railway](../assets/Railyard_%28Track_Section_4_West%29.jpg) / *Western Railway* \| / \| **Location** \|  \| / \| Region \| [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md)\\|- / Location \| / \| **General** \|  \| / \|  \| Has an interior\\|} **Railyard** is a set of 2 locations in [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md). / ## Overview / ### Railyard East / A mostly empty set of land with some tracks that lead into a smashed in tunnel leading to [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md). Further east leads to [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md). / ### Railyard West / To the west of the map lies the first [Repair Depots](./Repair%20Depot.md) the player will find after acquiring the [Prototype Train](./Prototype%20Train.md). This Railyard has a [Water Tower](./Water%20Tower.md) and [Oil Tank](./Oil%20Tank.md) for refueling the train. / Heading further West will take the player to [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md). An Aurora gate and a bridge block access to the next island over, and must be opened during the [Aurora](./Aurora.md).**Lua execution error in Module:Navbox function navbox** \| |
-| \[\[File: / \| ![Eastern Railway](../assets/Railyard_%28Track_Section_4_East%29.jpg) / *Eastern Railway* \| ![Western Railway](../assets/Railyard_%28Track_Section_4_West%29.jpg) / *Western Railway* \| / \| --- \| --- \| | 250px\]\] |  |
-| ![Eastern Railway](../assets/Railyard_%28Track_Section_4_East%29.jpg) / *Eastern Railway* | ![Western Railway](../assets/Railyard_%28Track_Section_4_West%29.jpg) / *Western Railway* |  |
+
+| \[\[File: / ![Eastern Railway](../assets/Railyard_%28Track_Section_4_East%29.jpg) / _Eastern Railway_ / ![Western Railway](../assets/Railyard_%28Track_Section_4_West%29.jpg) / _Western Railway_ | 250px\]\] |  |
+| ![Eastern Railway](../assets/Railyard_%28Track_Section_4_East%29.jpg) / _Eastern Railway_ | ![Western Railway](../assets/Railyard_%28Track_Section_4_West%29.jpg) / _Western Railway_ |  |
 | **Location** |  |  |
 | Region | [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md)\|- | Location |
 | **General** |  |  |
-|  | Has an interior\|} **Railyard** is a set of 2 locations in [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md). / ## Overview / ### Railyard East / A mostly empty set of land with some tracks that lead into a smashed in tunnel leading to [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md). Further east leads to [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md). / ### Railyard West / To the west of the map lies the first [Repair Depots](./Repair%20Depot.md) the player will find after acquiring the [Prototype Train](./Prototype%20Train.md). This Railyard has a [Water Tower](./Water%20Tower.md) and [Oil Tank](./Oil%20Tank.md) for refueling the train. / Heading further West will take the player to [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md). An Aurora gate and a bridge block access to the next island over, and must be opened during the [Aurora](./Aurora.md).**Lua execution error in Module:Navbox function navbox** |  |

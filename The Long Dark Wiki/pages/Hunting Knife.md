@@ -1,11 +1,6 @@
----
-title: "Hunting Knife"
-wiki_namespace: 0
-categories: ["Story items", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Hunting_Knife"
----
-
 # Hunting Knife
+
+**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunting_Knife)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Hunting_Knife"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hunting_Knife_icon.png) / *Hunting\_Knife\_icon.png* |
+|  | ![](../assets/Hunting_Knife_icon.png) / _Hunting\_Knife\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | **Statistics** |  |
@@ -26,11 +21,11 @@ source: "https://thelongdark.fandom.com/wiki/Hunting_Knife"
 | Harvest | 1 × [Scrap Metal](./Scrap%20Metal.md) 45 minutes |
 | Repair | [Whetstone](./Whetstone.md) 12-5 minutes / 3%-5% |
 
-> “**Good quality knife with a stainless steel blade and wooden handle.**”
+> “__Good quality knife with a stainless steel blade and wooden handle.__”
 >
 > — In-game description
 
-The **Hunting Knife** is a tool in *The Long Dark* for butchering, crafting and self defense.
+The **Hunting Knife** is a tool in _The Long Dark_ for butchering, crafting and self defense.
 
 ## Overview
 
@@ -66,7 +61,5 @@ The [Milling Machine](./Milling%20Machine.md) in [Bleak Inlet](./Bleak%20Inlet.m
 ### Game history
 
 - [Version 0.136](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.136) on 2 October 2014 introduced the ability to harvest using the hunting knife and [Hatchet](./Hatchet.md), among other changes.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Охотничий\_нож](ru:%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D1%87%D0%B8%D0%B9_%D0%BD%D0%BE%D0%B6) [es:Cuchillo de caza](es:Cuchillo_de_caza)

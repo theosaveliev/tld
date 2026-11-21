@@ -1,17 +1,12 @@
----
-title: "Quilted Bed"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Quilted_Bed"
----
-
 # Quilted Bed
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Quilted_Bed)
 
 **Quilted Bed**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Quilted_Bed_icon.png) / *Quilted\_Bed\_icon.png* |
+|  | ![](../assets/Quilted_Bed_icon.png) / _Quilted\_Bed\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 10.00 kg (22 lbs) |
@@ -60,5 +55,3 @@ Despite having a Backpack carry weight value, the bed cannot be picked up and pl
 |  | 16 |
 
 ## Update History
-
-**Template:update history** **Lua execution error in Module:Navbox function navbox** [ru:Кровать со стеганым одеялом](ru:%D0%9A%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C_%D1%81%D0%BE_%D1%81%D1%82%D0%B5%D0%B3%D0%B0%D0%BD%D1%8B%D0%BC_%D0%BE%D0%B4%D0%B5%D1%8F%D0%BB%D0%BE%D0%BC)

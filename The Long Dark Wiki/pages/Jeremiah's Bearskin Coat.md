@@ -1,11 +1,6 @@
----
-title: "Jeremiah's Bearskin Coat"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Bearskin_Coat"
----
-
 # Jeremiah's Bearskin Coat
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Bearskin_Coat)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Bearskin_Coat"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Jeremiah%27s_Bearskin_Coat_icon.png) / *Jeremiah's\_Bearskin\_Coat\_icon.png* |
+|  | ![](../assets/Jeremiah%27s_Bearskin_Coat_icon.png) / _Jeremiah's\_Bearskin\_Coat\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -26,11 +21,11 @@ source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Bearskin_Coat"
 | Harvest | Cannot Harvest |
 | Repair | 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) |
 
-> “**A bearskin coat that's seen better days.**”
+> “__A bearskin coat that's seen better days.__”
 >
 > — In-game description
 
-**Jeremiah's Bearskin Coat** is a cut [Clothing](./Clothing.md) item in *[The Long Dark](./The%20Long%20Dark.md)*. It can still be experienced by playing older versions of [Wintermute](./Wintermute.md) by using the [Time Capsule](./Time%20Capsule.md). It is still in the Wintermute game files.
+**Jeremiah's Bearskin Coat** is a cut [Clothing](./Clothing.md) item in _[The Long Dark](./The%20Long%20Dark.md)_. It can still be experienced by playing older versions of [Wintermute](./Wintermute.md) by using the [Time Capsule](./Time%20Capsule.md). It is still in the Wintermute game files.
 
 ## Overview
 
@@ -45,9 +40,9 @@ The item is not a collectible, and can be found in the Clothing section of the B
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![The coat in the Clothing screen](../assets/Jeremiah%27s_Bearskin_Coat.jpg) / *The coat in the Clothing screen* |
+![The coat in the Clothing screen](../assets/Jeremiah%27s_Bearskin_Coat.jpg)
+
+_The coat in the Clothing screen_
 
 ## Update history
 
@@ -55,5 +50,3 @@ The item is not a collectible, and can be found in the Clothing section of the B
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from the game as part of the Redux edition.
-
-**Lua execution error in Module:Navbox function navbox**

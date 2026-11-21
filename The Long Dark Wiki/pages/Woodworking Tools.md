@@ -1,11 +1,6 @@
----
-title: "Woodworking Tools"
-wiki_namespace: 0
-categories: ["Tools"]
-source: "https://thelongdark.fandom.com/wiki/Woodworking_Tools"
----
-
 # Woodworking Tools
+
+**Categories:** Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Woodworking_Tools)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Woodworking_Tools"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Woodworking_Tools_icon.png) / *Woodworking\_Tools\_icon.png* |
+|  | ![](../assets/Woodworking_Tools_icon.png) / _Woodworking\_Tools\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md)\|- |
@@ -61,12 +56,22 @@ These tools are a very rare find, with only 4 appearing on the whole island in t
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Zone of Contamination, fifth floor of Concentrator building.](../assets/Image_2025-02-20_033354685.png) / *Zone of Contamination, fifth floor of Concentrator building.* | ![Zone of Contamination, inside the mountainside mine passage](../assets/Woodworking_Tools_Zone.jpg) / *Zone of Contamination, inside the mountainside mine passage* | ![Bleak Inlet](../assets/Woodworking_Tools_Bleak_Inlet.jpg) / *Bleak Inlet* | ![Ash Canyon](../assets/Woodworking_Tools_Ash.jpg) / *Ash Canyon* |
+![Zone of Contamination, fifth floor of Concentrator building.](../assets/Image_2025-02-20_033354685.png)
+
+_Zone of Contamination, fifth floor of Concentrator building._
+
+![Zone of Contamination, inside the mountainside mine passage](../assets/Woodworking_Tools_Zone.jpg)
+
+_Zone of Contamination, inside the mountainside mine passage_
+
+![Bleak Inlet](../assets/Woodworking_Tools_Bleak_Inlet.jpg)
+
+_Bleak Inlet_
+
+![Ash Canyon](../assets/Woodworking_Tools_Ash.jpg)
+
+_Ash Canyon_
 
 ## Game History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**
 
 [ru:Столярные инструменты](ru:%D0%A1%D1%82%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)

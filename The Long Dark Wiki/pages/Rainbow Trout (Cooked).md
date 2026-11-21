@@ -1,11 +1,6 @@
----
-title: "Rainbow Trout (Cooked)"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Rainbow_Trout_(Cooked)"
----
-
 # Rainbow Trout \(Cooked\)
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rainbow_Trout_%28Cooked%29)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Rainbow_Trout_(Cooked)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rainbow_Trout_%28Cooked%29_icon.png) / *Rainbow\_Trout\_(Cooked)\_icon.png* |
+|  | ![](../assets/Rainbow_Trout_%28Cooked%29_icon.png) / _Rainbow\_Trout\_(Cooked)\_icon.png_ |
 | Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163) |
 | Wintermute | No |
 | **Properties** |  |
@@ -29,7 +24,7 @@ source: "https://thelongdark.fandom.com/wiki/Rainbow_Trout_(Cooked)"
 | [Vitamin C](./Scurvy.md) | Minor (15%) |
 | Weight | 1.5 kg (3.3 lbs) |
 
-**Rainbow Trout (Cooked)** is a [food](./Food%20And%20Drink.md) item in *The Long Dark*.
+**Rainbow Trout (Cooked)** is a [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
 ## Overview
 
@@ -59,14 +54,31 @@ Cooking trout improves the [Cooking Skill](./Skills.md#Cooking). Using a [Cookin
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Prepared Raw](../assets/Rainbow_Trout_%28Cooked%29_icon.png) / *Prepared Raw* | ![Fresh](../assets/Rainbow_Trout_%28Cooked%29_Fresh_icon.png) / *Fresh* | ![Gamey](../assets/Rainbow_Trout_%28Cooked%29_Gamey_icon.png) / *Gamey* | ![Mouldy](../assets/Rainbow_Trout_%28Cooked%29_Mouldy_icon.png) / *Mouldy* |
-| ![Rancid](../assets/Rainbow_Trout_%28Cooked%29_Rancid_icon.png) / *Rancid* | ![Ruined](../assets/Rainbow_Trout_%28Cooked%29_Ruined_icon.png) / *Ruined* |  |  |
+![Prepared Raw](../assets/Rainbow_Trout_%28Cooked%29_icon.png)
+
+_Prepared Raw_
+
+![Fresh](../assets/Rainbow_Trout_%28Cooked%29_Fresh_icon.png)
+
+_Fresh_
+
+![Gamey](../assets/Rainbow_Trout_%28Cooked%29_Gamey_icon.png)
+
+_Gamey_
+
+![Mouldy](../assets/Rainbow_Trout_%28Cooked%29_Mouldy_icon.png)
+
+_Mouldy_
+
+![Rancid](../assets/Rainbow_Trout_%28Cooked%29_Rancid_icon.png)
+
+_Rancid_
+
+![Ruined](../assets/Rainbow_Trout_%28Cooked%29_Ruined_icon.png)
+
+_Ruined_
 
 ## Update history
 
 - UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Радужная форель (приготовленная)](ru:%D0%A0%D0%B0%D0%B4%D1%83%D0%B6%D0%BD%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%B5%D0%BB%D1%8C_%28%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%29)

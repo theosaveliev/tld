@@ -1,19 +1,14 @@
----
-title: "Frontier Shooting Guide (Survival School)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Frontier_Shooting_Guide_(Survival_School)"
----
-
 # Frontier Shooting Guide \(Survival School\)
 
-*For the version encountered in [Survival Mode](./Survival%20Mode.md), see [Frontier Shooting Guide](./Frontier%20Shooting%20Guide.md).*
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frontier_Shooting_Guide_%28Survival_School%29)
+
+_For the version encountered in [Survival Mode](./Survival%20Mode.md), see [Frontier Shooting Guide](./Frontier%20Shooting%20Guide.md)._
 
 **Frontier Shooting Guide**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Frontier_Shooting_Guide_icon.png) / *Frontier\_Shooting\_Guide\_icon.png* |
+|  | ![](../assets/Frontier_Shooting_Guide_icon.png) / _Frontier\_Shooting\_Guide\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Survival School](./Survival%20School.md) |
 | **Properties** |  |
@@ -31,5 +26,3 @@ source: "https://thelongdark.fandom.com/wiki/Frontier_Shooting_Guide_(Survival_S
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

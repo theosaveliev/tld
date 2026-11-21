@@ -1,11 +1,6 @@
----
-title: "Badges"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Badges"
----
-
 # Badges
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Badges)
 
 **Contents**
 
@@ -16,7 +11,7 @@ source: "https://thelongdark.fandom.com/wiki/Badges"
 
 ## Overview
 
-Badges are unique unlockable challenge based achievements (not to be confused with regular [achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md)) that can be acquired from playing [*The Long Dark*](./The%20Long%20Dark.md).
+Badges are unique unlockable challenge based achievements (not to be confused with regular [achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md)) that can be acquired from playing [_The Long Dark_](./The%20Long%20Dark.md).
 
 As their name implies, Badges are awarded as commemorative status symbols, and are earned after accomplishing certain in game tasks. They do not, however, provide any active gameplay benefits, unlike [Feats](./Feats.md). Most Badges are acquired from simply completing [Survival Mode](./Survival%20Mode.md) [Challenge](./Challenge.md) scenarios, whereas others require the player to perform specific tasks to unlock them, similar to Feats. Some Badges are acquired through exclusive timed events, and are thus impossible to unlock once the event passes.
 
@@ -68,8 +63,18 @@ Survival Feats
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Old version of the Whiteout Badge](../assets/Whiteout_badge.png) / *Old version of the Whiteout Badge* | ![Old version of the Nomad Badge](../assets/Nomad_badge.png) / *Old version of the Nomad Badge* | ![The image displayed for a locked Badge](../assets/Badge_challenge_locked.png) / *The image displayed for a locked Badge* | ![A small selection of unlocked badges](../assets/20221224110525_1.jpg) / *A small selection of unlocked badges* |
+![Old version of the Whiteout Badge](../assets/Whiteout_badge.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Old version of the Whiteout Badge_
+
+![Old version of the Nomad Badge](../assets/Nomad_badge.png)
+
+_Old version of the Nomad Badge_
+
+![The image displayed for a locked Badge](../assets/Badge_challenge_locked.png)
+
+_The image displayed for a locked Badge_
+
+![A small selection of unlocked badges](../assets/20221224110525_1.jpg)
+
+_A small selection of unlocked badges_

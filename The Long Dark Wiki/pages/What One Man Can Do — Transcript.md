@@ -1,17 +1,12 @@
----
-title: "What One Man Can Do/Transcript"
-wiki_namespace: 0
-categories: ["Episode 2"]
-source: "https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do%2FTranscript"
----
-
 # What One Man Can Do/Transcript
+
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do%2FTranscript)
 
 **What One Man Can Do/Transcript**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Missions_story_ep2_What_One_Man_Can_Do.png) / *Missions\_story\_ep2\_What\_One\_Man\_Can\_Do.png* |
+|  | ![](../assets/Missions_story_ep2_What_One_Man_Can_Do.png) / _Missions\_story\_ep2\_What\_One\_Man\_Can\_Do.png_ |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
 | Previous | [Signal to Noise/Transcript](./Signal%20to%20Noise%20%E2%80%94%20Transcript.md) |
 | Current | What One Man Can Do/Transcript |
@@ -23,7 +18,7 @@ This is the mission transcript for mission 4 [What One Man Can Do](./What%20One%
 
 ## Transcript
 
-*Mackenzie pushes himself off of a cave floor.*
+_Mackenzie pushes himself off of a cave floor._
 
 Mackenzie: "Whe...where am I? Holy shit. The [bear](./Old%20Bear.md). It's...right...there."
 
@@ -33,39 +28,39 @@ WHAT ONE MAN CAN DO
 
 Mackenzie: "Damn. Where the hell's that spear?"
 
-*Mackenzie realizes all of his belongings, aside from the torn clothes on his back, are all gone. He begins walking away from the bear, as it feasts on a [Wolf Carcass](./Wolf%20Carcass.md). As he slowly walks to a nearby [Rock Climb](./Rock%20Climb.md) past the bear, he says:*
+_Mackenzie realizes all of his belongings, aside from the torn clothes on his back, are all gone. He begins walking away from the bear, as it feasts on a [Wolf Carcass](./Wolf%20Carcass.md). As he slowly walks to a nearby [Rock Climb](./Rock%20Climb.md) past the bear, he says:_
 
 Mackenzie: "Way too close."
 
-*Mackenzie climbs the wall, finding a narrow tunnel to crouch through as he wanders through the cave. After walking awhile, he sees a hole in the floor, with the Old Bear below as it begins following him. Mackenzie comes to a large chamber with a waterfall.*
+_Mackenzie climbs the wall, finding a narrow tunnel to crouch through as he wanders through the cave. After walking awhile, he sees a hole in the floor, with the Old Bear below as it begins following him. Mackenzie comes to a large chamber with a waterfall._
 
 Mackenzie: "If I don't keep my distance, I'm done for. Got to find that spear."
 
-*Weaving through rocky passages too small for the bear to reach, Mackenzie eventually passes through a waterfall chamber as the bear feasts on a [Frozen Corpse](./Frozen%20Corpse.md). No matter what path lies ahead, the Old Bear follows through the tunnels. Eventually the Pilot finds a body with a [Torn Paper](./Torn%20Paper.md) on it and some medical supplies, and moves on to not join the doomed man and finds another large cavern.*
+_Weaving through rocky passages too small for the bear to reach, Mackenzie eventually passes through a waterfall chamber as the bear feasts on a [Frozen Corpse](./Frozen%20Corpse.md). No matter what path lies ahead, the Old Bear follows through the tunnels. Eventually the Pilot finds a body with a [Torn Paper](./Torn%20Paper.md) on it and some medical supplies, and moves on to not join the doomed man and finds another large cavern._
 
 Mackenzie: "Have to stay back."
 
-*Mackenzie bobs and weaves through more small passages that the bear cannot follow. The next chamber is* *a large room with an open ceiling, and* *he* *spots the red ribbon tied to his Spear* *sitting on a rock.*
+_Mackenzie bobs and weaves through more small passages that the bear cannot follow. The next chamber is_ _a large room with an open ceiling, and_ _he_ _spots the red ribbon tied to his Spear_ _sitting on a rock._
 
 Mackenzie: "There it is! The spear. Somehow, I gotta grab it. That'll even the odds."
 
-*The Old Bear enters the chamber, continuing its pursuit of the pilot. Mackenzie squeezes through more small passages, patiently moving through the room until it is safe to grab the spear. He eventually makes a run for it, and grabs it.*
+_The Old Bear enters the chamber, continuing its pursuit of the pilot. Mackenzie squeezes through more small passages, patiently moving through the room until it is safe to grab the spear. He eventually makes a run for it, and grabs it._
 
 Mackenzie: "Gotcha!"
 
-*Mackenzie then goes on the offense, attacking the bear 3 times in a "Bear Spear Struggle" by plunging the spear into the overgrown mankiller's stomach. On the last attempt he finally kills the bear, getting the upper hand and repeatedly plunging the spear into the beast's neck. Mackenzie catches his breath as he looks over the lifeless body of the bear.*
+_Mackenzie then goes on the offense, attacking the bear 3 times in a "Bear Spear Struggle" by plunging the spear into the overgrown mankiller's stomach. On the last attempt he finally kills the bear, getting the upper hand and repeatedly plunging the spear into the beast's neck. Mackenzie catches his breath as he looks over the lifeless body of the bear._
 
 Mackenzie: "I'm...I'm sorry. Such a majestic creature. I didn't want to kill you. But this world will make murders of us all."
 
-*The screen fades to black, and fades in with Mackenzie staggering into the Trapper's Homestead and falling on the floor.*
+_The screen fades to black, and fades in with Mackenzie staggering into the Trapper's Homestead and falling on the floor._
 
 Jeremiah: "Mackenzie?"
 
-*The Trapper's [Deerskin Boots](./Deerskin%20Boots.md) appear as Jeremiah walks over to the exhausted pilot and picks him up.*
+_The Trapper's [Deerskin Boots](./Deerskin%20Boots.md) appear as Jeremiah walks over to the exhausted pilot and picks him up._
 
 Mackenzie: "The bear...is dead."
 
-*Mackenzie falls to the floor and passes out. When he wakes up, time has passed and he finds himself in the Trapper's bed, the lights of the Aurora flickering outside the cabin. He starts getting out of bed as Jeremiah sees him.*
+_Mackenzie falls to the floor and passes out. When he wakes up, time has passed and he finds himself in the Trapper's bed, the lights of the Aurora flickering outside the cabin. He starts getting out of bed as Jeremiah sees him._
 
 Jeremiah: "Good! You're up. And just in time."
 
@@ -75,11 +70,11 @@ Jeremiah: "You passed out. I let you rest, since I needed time to fix the radio.
 
 Mackenzie: "Ok...so can we call Perseverance Mills?"
 
-*Jeremiah gets off his stool and gestures the shortwave*
+_Jeremiah gets off his stool and gestures the shortwave_
 
 Jeremiah: "I've already set the frequency. Just toggle the CALL button and cross your fingers."
 
-*Mackenzie gets out of bed and sits on the stool, then flips the shortwave's CALL button on.*
+_Mackenzie gets out of bed and sits on the stool, then flips the shortwave's CALL button on._
 
 Mackenzie: "Here goes nothing."
 
@@ -89,23 +84,23 @@ Mackenzie: "Hello? Is this the radio station at Perseverance Mills?"
 
 Radio Voice Man: "We need help...Some kind of...quarantine..."
 
-*Mackenzie fiddles with a radio dial, trying to fix the signal*
+_Mackenzie fiddles with a radio dial, trying to fix the signal_
 
 Mackenzie: "Hello? What do you mean, quarantine? Is there a doctor with you?"
 
 Radio Voice Man: "We need a...doctor...or medical assistance. Anything."
 
-*The radio begins sparking as Mackenzie fiddles with the dial more.*
+_The radio begins sparking as Mackenzie fiddles with the dial more._
 
 Mackenzie: "Can you..."
 
-*The radio complexly shorts out*
+_The radio complexly shorts out_
 
 Mackenzie: "Damn it!!"
 
 Jeremiah: "NO!!! Damn it!!!"
 
-*Jeremiah bangs the Work Bench in sheer frustration as the radio dies and loses power. He sits down, head in his hands in defeat.*
+_Jeremiah bangs the Work Bench in sheer frustration as the radio dies and loses power. He sits down, head in his hands in defeat._
 
 Mackenzie: "I...I'm sorry, Jeremiah."
 
@@ -169,6 +164,4 @@ Jeremiah: "Don't forget about Atwood."
 
 Mackenzie: "Take care of yourself, Jeremiah."
 
-*The screen fades to black.*
-
-The story continues in [Renewed Hope/Transcript](./Renewed%20Hope%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**
+_The screen fades to black._

@@ -1,17 +1,12 @@
----
-title: "An Old House Key"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/An_Old_House_Key"
----
-
 # An Old House Key
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/An_Old_House_Key)
 
 **An Old House Key**
 
 | Property | Details |
 | --- | --- |
-|  | \[Missing image: An\_Old\_House\_Key\_icon.png\] / *An\_Old\_House\_Key\_icon.png* |
+|  | \[Missing image: An\_Old\_House\_Key\_icon.png\] / _An\_Old\_House\_Key\_icon.png_ |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Wintermute | No |
 | **Properties** |  |
@@ -27,7 +22,5 @@ source: "https://thelongdark.fandom.com/wiki/An_Old_House_Key"
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Ключ от старого дома](ru:%D0%9A%D0%BB%D1%8E%D1%87_%D0%BE%D1%82_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B3%D0%BE_%D0%B4%D0%BE%D0%BC%D0%B0)

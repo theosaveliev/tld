@@ -1,17 +1,12 @@
----
-title: "Church Artifact"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Church_Artifact"
----
-
 # Church Artifact
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Church_Artifact)
 
 **Church Artifact**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Church_Artifact_icon.png) / *Church\_Artifact\_icon.png* |
+|  | ![](../assets/Church_Artifact_icon.png) / _Church\_Artifact\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Church Artifact](./Church%20Artifact%20%28mission%29.md) |
 | **Properties** |  |
@@ -34,5 +29,3 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

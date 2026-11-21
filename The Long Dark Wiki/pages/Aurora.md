@@ -1,11 +1,6 @@
----
-title: "Aurora"
-wiki_namespace: 0
-categories: ["Environment"]
-source: "https://thelongdark.fandom.com/wiki/Aurora"
----
-
 # Aurora
+
+**Categories:** Environment · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Aurora)
 
 **Contents**
 
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/Aurora"
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 
-![Story mode concept art of aurora affecting the electronics in street lights and vehicles.](../assets/Aurora_-_art.jpg)*Story mode concept art of aurora affecting the electronics in street lights and vehicles.*{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Mackenzie: "So...this is some kind of reoccurring aurora borealis?"**
+![Story mode concept art of aurora affecting the electronics in street lights and vehicles.](../assets/Aurora_-_art.jpg)_Story mode concept art of aurora affecting the electronics in street lights and vehicles._{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Mackenzie: "So...this is some kind of reoccurring aurora borealis?"__
 
 Methuselah: "Possibly."
 
@@ -37,7 +32,7 @@ Methuselah: "No. But it was only a mater of time. This has all happened before."
 
 [Methuselah](./Methuselah.md) explaining the Aurora to [Mackenzie](./Will%20Mackenzie.md)
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} The **Aurora** is a type of weather in *[The Long Dark](./The%20Long%20Dark.md)*. They are a reoccurring phenomenon that is the result of a [geo-magnetic storm](./First%20Flare.md) which ended civilization on Earth. Auroras create bright, colorful lights in the night sky, make predators more dangerous, and temporarily power electronics like the [Flashlight](./Flashlight.md).
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} The **Aurora** is a type of weather in _[The Long Dark](./The%20Long%20Dark.md)_. They are a reoccurring phenomenon that is the result of a [geo-magnetic storm](./First%20Flare.md) which ended civilization on Earth. Auroras create bright, colorful lights in the night sky, make predators more dangerous, and temporarily power electronics like the [Flashlight](./Flashlight.md).
 
 ## Overview
 
@@ -105,7 +100,7 @@ Bulkhead-style doors in [Last Resort Cannery](./Last%20Resort%20Cannery.md) ([Bl
 
 ### Milling Machine
 
-[Milling Machines](./Milling%20Machine.md) are electrically powered devices used to repair damaged [tools](./Tools.md) and [firearms](./Hunting%20Rifle.md). They may only be found in the [Last Resort Cannery](./Last%20Resort%20Cannery.md) ([Bleak Inlet](./Bleak%20Inlet.md)) and [Blackrock Prison](./Blackrock%20Prison.md) ([Blackrock](./Blackrock.md)), and require an active aurora and [scrap metal](./Scrap%20Metal.md) to operate. ![A bear during an aurora](../assets/Aurora_Bear.jpg)*A bear during an aurora*
+[Milling Machines](./Milling%20Machine.md) are electrically powered devices used to repair damaged [tools](./Tools.md) and [firearms](./Hunting%20Rifle.md). They may only be found in the [Last Resort Cannery](./Last%20Resort%20Cannery.md) ([Bleak Inlet](./Bleak%20Inlet.md)) and [Blackrock Prison](./Blackrock%20Prison.md) ([Blackrock](./Blackrock.md)), and require an active aurora and [scrap metal](./Scrap%20Metal.md) to operate. ![A bear during an aurora](../assets/Aurora_Bear.jpg)_A bear during an aurora_
 
 ## Hazards
 
@@ -152,21 +147,74 @@ The [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) features an elec
 
 ![The aurora borealis in Nova Scotia, October 2024.](../assets/Aurora_in_Nova_Scotia_October_2024_View_NW.jpg)
 
-*The aurora borealis in Nova Scotia, October 2024.*
+_The aurora borealis in Nova Scotia, October 2024._
 
-- [The Carrington Event](https://en.wikipedia.org/wiki/Carrington_Event) may be an inspiration for *The Long Dark*. Like "The First Flare", it was a geo-magnetic storm during the 1–2 of September 1859. It resulted in widespread auras at low latitudes: Hawaii, Cuba, Queensland, Japan and Colombia. It caused telegraph pylons to throw sparks, shocked operators, powered telegraphs (even when turned off), and was bright enough to allow reading at night.
+- [The Carrington Event](https://en.wikipedia.org/wiki/Carrington_Event) may be an inspiration for _The Long Dark_. Like "The First Flare", it was a geo-magnetic storm during the 1–2 of September 1859. It resulted in widespread auras at low latitudes: Hawaii, Cuba, Queensland, Japan and Colombia. It caused telegraph pylons to throw sparks, shocked operators, powered telegraphs (even when turned off), and was bright enough to allow reading at night.
 
 - Radios found in buildings or inside vehicle consoles can be turned on/off through interaction. If "on" during an aurora, they will play "Glenn Gould performing Bach: Goldberg Variations, BWV988 - Variation 6 Canon"
 - Desktop and Laptop Computers found in many locations can be interacted with during an aurora to receive a collectible "Buffer Memory", a short textual note or email from various characters.
-- "Buffer Memory" in computer science are a region of a memory used to temporarily store data while being moved. This may suggest that auroras not only damage and power electronics, but move or manipulate data. ![Another shot of the real-world aurora in Nova Scotia, October 2024.](../assets/Aurora_Oct_2024_Nova_Scotia.jpeg)*Another shot of the real-world aurora in Nova Scotia, October 2024.*
+- "Buffer Memory" in computer science are a region of a memory used to temporarily store data while being moved. This may suggest that auroras not only damage and power electronics, but move or manipulate data. ![Another shot of the real-world aurora in Nova Scotia, October 2024.](../assets/Aurora_Oct_2024_Nova_Scotia.jpeg)_Another shot of the real-world aurora in Nova Scotia, October 2024._
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Aurora behind Trapper's Homestead (early alpha)](../assets/In_game_cabin.jpg) / *Aurora behind [Trapper's Homestead](./Trapper%27s%20Homestead.md) *(early alpha)** | ![Aurora (early alpha)](../assets/In_game_barn.jpg) / *Aurora *(early alpha)** | ![Aurora on the sky (Full version)](../assets/The_Long_Dark_20170813115027.jpg) / *Aurora on the sky (Full version)* | ![Aurora's Horizon](../assets/The_Long_Dark_20170818004814.jpg) / *Aurora's Horizon* |
-| ![Electronics turned on due to Aurora](../assets/The_Long_Dark_20170813232937.jpg) / *Electronics turned on due to Aurora* | ![TV set and computer monitor turned on due to Aurora](../assets/The_Long_Dark_20170813233306.jpg) / *TV set and computer monitor turned on due to Aurora* | ![Wolves afraid of a street light turned on by Aurora](../assets/The_Long_Dark_20170813114638.jpg) / *Wolves afraid of a street light turned on by Aurora* | ![Cabin lights flickering](../assets/The_Long_Dark_20170818004943.jpg) / *Cabin lights flickering* |
-| ![The Carter Hydro Dam during an aurora](../assets/Carter_Hydro_Dam_Aurora.jpg) / *The [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) during an aurora* | ![Mystery Lake's Camp Office during an Aurora.](../assets/Aurora.jpg) / *Mystery Lake's Camp Office during an Aurora.* | ![Car's lights flickering with a wolf waiting in distance, afraid of the lights during the Aurora](../assets/Cars_during_aurora.jpg) / *Car's lights flickering with a wolf waiting in distance, afraid of the lights during the Aurora* | ![The elevator powered by Aurora.](../assets/SS-AM-Aurora-2F.jpg) / *The elevator powered by Aurora.* |
-| ![Electronics turned on due to Aurora](../assets/20191114055253_1.jpg) / *Electronics turned on due to Aurora* | ![Lighthouse turned on due to Aurora](../assets/Aurora-lighthouse.jpg) / *Lighthouse turned on due to Aurora* | ![Another shot of Mystery Lake's Camp Office during an Aurora.](../assets/Camp_Office_-_Aurora.jpg) / *Another shot of Mystery Lake's Camp Office during an Aurora.* |  |
+![Aurora behind Trapper's Homestead (early alpha)](../assets/In_game_cabin.jpg)
+
+_Aurora behind [Trapper's Homestead](./Trapper%27s%20Homestead.md) _(early alpha)__
+
+![Aurora (early alpha)](../assets/In_game_barn.jpg)
+
+_Aurora _(early alpha)__
+
+![Aurora on the sky (Full version)](../assets/The_Long_Dark_20170813115027.jpg)
+
+_Aurora on the sky (Full version)_
+
+![Aurora's Horizon](../assets/The_Long_Dark_20170818004814.jpg)
+
+_Aurora's Horizon_
+
+![Electronics turned on due to Aurora](../assets/The_Long_Dark_20170813232937.jpg)
+
+_Electronics turned on due to Aurora_
+
+![TV set and computer monitor turned on due to Aurora](../assets/The_Long_Dark_20170813233306.jpg)
+
+_TV set and computer monitor turned on due to Aurora_
+
+![Wolves afraid of a street light turned on by Aurora](../assets/The_Long_Dark_20170813114638.jpg)
+
+_Wolves afraid of a street light turned on by Aurora_
+
+![Cabin lights flickering](../assets/The_Long_Dark_20170818004943.jpg)
+
+_Cabin lights flickering_
+
+![The Carter Hydro Dam during an aurora](../assets/Carter_Hydro_Dam_Aurora.jpg)
+
+_The [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) during an aurora_
+
+![Mystery Lake's Camp Office during an Aurora.](../assets/Aurora.jpg)
+
+_Mystery Lake's Camp Office during an Aurora._
+
+![Car's lights flickering with a wolf waiting in distance, afraid of the lights during the Aurora](../assets/Cars_during_aurora.jpg)
+
+_Car's lights flickering with a wolf waiting in distance, afraid of the lights during the Aurora_
+
+![The elevator powered by Aurora.](../assets/SS-AM-Aurora-2F.jpg)
+
+_The elevator powered by Aurora._
+
+![Electronics turned on due to Aurora](../assets/20191114055253_1.jpg)
+
+_Electronics turned on due to Aurora_
+
+![Lighthouse turned on due to Aurora](../assets/Aurora-lighthouse.jpg)
+
+_Lighthouse turned on due to Aurora_
+
+![Another shot of Mystery Lake's Camp Office during an Aurora.](../assets/Camp_Office_-_Aurora.jpg)
+
+_Another shot of Mystery Lake's Camp Office during an Aurora._
 
 [es:Aurora Boreal](es:Aurora_Boreal) [ru:Полярное сияние](ru:%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D0%B5_%D1%81%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5) [fr:Aurore Boréale](fr:Aurore_Bor%C3%A9ale)

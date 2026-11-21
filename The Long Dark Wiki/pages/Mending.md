@@ -1,11 +1,6 @@
----
-title: "Mending"
-wiki_namespace: 0
-categories: ["Skills"]
-source: "https://thelongdark.fandom.com/wiki/Mending"
----
-
 # Mending
+
+**Categories:** Skills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mending)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Mending"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mending_background.png) / *Mending\_background.png* |
+|  | ![](../assets/Mending_background.png) / _Mending\_background.png_ |
 | Release | [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364) |
 | Date | 23 September 2016 |
 
@@ -37,7 +32,7 @@ Ruined Clothing cannot be repaired, only harvested for materials. The Mending sk
 
 ## How to repair clothing
 
-Mending is the skill used to repair Clothing and Bedrolls in *[The Long Dark](./The%20Long%20Dark.md); a*s the player successfully repairs items, their skill in mending increases. Clothing requires a [Sewing Kit](./Sewing%20Kit.md) or [Fishing Tackle](./Fishing%20Tackle.md), resources the item is made out of (e.g. [Cloth](./Cloth.md) or [Cured Leather](./Cured%20Leather.md)), and sufficient light in order to begin repairs (daylight, full moonlight, [artificial lighting](./Aurora.md) or an active [Fire](./Fire.md)/[Storm Lantern](./Storm%20Lantern.md)).
+Mending is the skill used to repair Clothing and Bedrolls in _[The Long Dark](./The%20Long%20Dark.md); a_s the player successfully repairs items, their skill in mending increases. Clothing requires a [Sewing Kit](./Sewing%20Kit.md) or [Fishing Tackle](./Fishing%20Tackle.md), resources the item is made out of (e.g. [Cloth](./Cloth.md) or [Cured Leather](./Cured%20Leather.md)), and sufficient light in order to begin repairs (daylight, full moonlight, [artificial lighting](./Aurora.md) or an active [Fire](./Fire.md)/[Storm Lantern](./Storm%20Lantern.md)).
 
 To repair a piece of clothing select the item the backpack or the worn clothing menu. Then select "Actions" and "Repair"; the required resources, time required and amount repaired if successful will be displayed. Higher Mending skill decreases the time required to mend and increases the condition restored as well as the successful repair rate.
 
@@ -58,23 +53,23 @@ A tool is required to repairing Clothing. Sewing Kits can be found by looting. F
 
 | Image | Item | Method |
 | --- | --- | --- |
-| ![](../assets/Cloth_icon.png) / *Cloth\_icon.png* | [Cloth](./Cloth.md) | Cloth is found by looting, harvesting cloth items (clothing, bedrolls, pillows, curtains), breaking down certain furniture (e.g comfy chair) and [Beachcombing](./Beachcombing.md). |
-| ![](../assets/Cured_Leather_icon.png) / *Cured\_Leather\_icon.png* | [Cured Leather](./Cured%20Leather.md) | Cured Leather is found by looting, harvesting leather clothing, and beachcombing. |
-| ![](../assets/Scrap_Metal_icon.png) / *Scrap\_Metal\_icon.png* | [Scrap Metal](./Scrap%20Metal.md) | Scrap Metal is harvested from metal objects and tools, or by looting. |
-| ![](../assets/Cured_Gut_icon.png) / *Cured\_Gut\_icon.png* | [Cured Gut](./Cured%20Gut.md) | Gut are [harvested or quartered](./Carcass%20Harvesting.md) from [animal](./Wildlife.md) carcasses (except Ptarmigan). |
-| ![](../assets/Ptarmigan_Down_icon.png) / *Ptarmigan\_Down\_icon.png* | [Ptarmigan Down](./Ptarmigan%20Down.md) | Ptarmigan Down is harvested from [Ptarmigan](./Ptarmigan.md) carcasses |
-| ![](../assets/Cured_Rabbit_Pelt_icon.png) / *Cured\_Rabbit\_Pelt\_icon.png* | [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) | Rabbit Pelts are harvested from [Rabbit](./Rabbit.md) carcasses. |
-| ![](../assets/Cured_Deer_Hide_icon.png) / *Cured\_Deer\_Hide\_icon.png* | [Cured Deer Hide](./Cured%20Deer%20Hide.md) | Deer Hides are harvested from [Deer](./Deer.md) carcasses. |
-| ![](../assets/Cured_Wolf_Pelt_icon.png) / *Cured\_Wolf\_Pelt\_icon.png* | [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) | Wolf Pelts are harvested from [Wolf](./Wolf.md) or [Timberwolf](./Timberwolf.md) carcasses. |
-| ![](../assets/Cured_Black_Bear_Hide_icon.png) / *Cured\_Black\_Bear\_Hide\_icon.png* | [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) | Black Bear Hides are harvested from [Bear](./Bear.md) carcasses. |
-| ![](../assets/Cured_Moose_Hide_icon.png) / *Cured\_Moose\_Hide\_icon.png* | [Cured Moose Hide](./Cured%20Moose%20Hide.md) | Moose Hides are harvested from [Moose](./Moose.md) carcasses. |
-| ![](../assets/Cured_Cougar_Hide_icon.png) / *Cured\_Cougar\_Hide\_icon.png* | [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) | Cougar Hides are harvested from [Cougar](./Cougar.md) carcasses. |
+| ![](../assets/Cloth_icon.png) / _Cloth\_icon.png_ | [Cloth](./Cloth.md) | Cloth is found by looting, harvesting cloth items (clothing, bedrolls, pillows, curtains), breaking down certain furniture (e.g comfy chair) and [Beachcombing](./Beachcombing.md). |
+| ![](../assets/Cured_Leather_icon.png) / _Cured\_Leather\_icon.png_ | [Cured Leather](./Cured%20Leather.md) | Cured Leather is found by looting, harvesting leather clothing, and beachcombing. |
+| ![](../assets/Scrap_Metal_icon.png) / _Scrap\_Metal\_icon.png_ | [Scrap Metal](./Scrap%20Metal.md) | Scrap Metal is harvested from metal objects and tools, or by looting. |
+| ![](../assets/Cured_Gut_icon.png) / _Cured\_Gut\_icon.png_ | [Cured Gut](./Cured%20Gut.md) | Gut are [harvested or quartered](./Carcass%20Harvesting.md) from [animal](./Wildlife.md) carcasses (except Ptarmigan). |
+| ![](../assets/Ptarmigan_Down_icon.png) / _Ptarmigan\_Down\_icon.png_ | [Ptarmigan Down](./Ptarmigan%20Down.md) | Ptarmigan Down is harvested from [Ptarmigan](./Ptarmigan.md) carcasses |
+| ![](../assets/Cured_Rabbit_Pelt_icon.png) / _Cured\_Rabbit\_Pelt\_icon.png_ | [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) | Rabbit Pelts are harvested from [Rabbit](./Rabbit.md) carcasses. |
+| ![](../assets/Cured_Deer_Hide_icon.png) / _Cured\_Deer\_Hide\_icon.png_ | [Cured Deer Hide](./Cured%20Deer%20Hide.md) | Deer Hides are harvested from [Deer](./Deer.md) carcasses. |
+| ![](../assets/Cured_Wolf_Pelt_icon.png) / _Cured\_Wolf\_Pelt\_icon.png_ | [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) | Wolf Pelts are harvested from [Wolf](./Wolf.md) or [Timberwolf](./Timberwolf.md) carcasses. |
+| ![](../assets/Cured_Black_Bear_Hide_icon.png) / _Cured\_Black\_Bear\_Hide\_icon.png_ | [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) | Black Bear Hides are harvested from [Bear](./Bear.md) carcasses. |
+| ![](../assets/Cured_Moose_Hide_icon.png) / _Cured\_Moose\_Hide\_icon.png_ | [Cured Moose Hide](./Cured%20Moose%20Hide.md) | Moose Hides are harvested from [Moose](./Moose.md) carcasses. |
+| ![](../assets/Cured_Cougar_Hide_icon.png) / _Cured\_Cougar\_Hide\_icon.png_ | [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) | Cougar Hides are harvested from [Cougar](./Cougar.md) carcasses. |
 
-*Note*: Fresh Animal hides must be [cured](./Curing.md) before they can be used in crafting/repair. Hides are cured by dropping/placing them indoors (e.g. inside of a house) or sufficiently deep [Warm Cave](./Warm%20Cave.md). If a hide is curing, it will display "X% cured", which will increase over time. Hides do not cure inside of containers or in the player's inventory.
+_Note_: Fresh Animal hides must be [cured](./Curing.md) before they can be used in crafting/repair. Hides are cured by dropping/placing them indoors (e.g. inside of a house) or sufficiently deep [Warm Cave](./Warm%20Cave.md). If a hide is curing, it will display "X% cured", which will increase over time. Hides do not cure inside of containers or in the player's inventory.
 
 ## Skill levels
 
-Mending skill is increased by successfully repairing an article of Clothing (1 point), a Bedroll (1 point), or finishing a [Research Book](./Research%20Book.md) "*[A Sewing Primer](./A%20Sewing%20Primer.md)"* (10 points, for 5 hours of reading).
+Mending skill is increased by successfully repairing an article of Clothing (1 point), a Bedroll (1 point), or finishing a [Research Book](./Research%20Book.md) "_[A Sewing Primer](./A%20Sewing%20Primer.md)"_ (10 points, for 5 hours of reading).
 
 Once enough skill points are achieved, a new skill level is reached.
 
@@ -89,5 +84,3 @@ Once enough skill points are achieved, a new skill level is reached.
 | 5 | 350 | Max level | - 100% chance of successful repair / - Repair time decreased by 40% / - 25% greater item condition increase / - 35% reduction of Sewing kit wear | You have mastered the use of a needle and thread. You are fast, efficient and repair cloth items with ease. |
 
 &lt;/table-progress-tracking&gt;
-
-**Lua execution error in Module:Navbox function navbox**[fr:couture](fr:couture)

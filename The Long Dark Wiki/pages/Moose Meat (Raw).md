@@ -1,11 +1,6 @@
----
-title: "Moose Meat (Raw)"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Moose_Meat_(Raw)"
----
-
 # Moose Meat \(Raw\)
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Moose_Meat_%28Raw%29)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Moose_Meat_(Raw)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Moose_Meat_%28Raw%29_icon.png) / *Moose\_Meat\_(Raw)\_icon.png* |
+|  | ![](../assets/Moose_Meat_%28Raw%29_icon.png) / _Moose\_Meat\_(Raw)\_icon.png_ |
 | Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16) |
 | Wintermute | No |
 | **Properties** |  |
@@ -32,9 +27,9 @@ source: "https://thelongdark.fandom.com/wiki/Moose_Meat_(Raw)"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_RawMeatMoose |
 
-*For the cooked version, see [Moose Meat (Cooked)](./Moose%20Meat%20%28Cooked%29.md).*
+_For the cooked version, see [Moose Meat (Cooked)](./Moose%20Meat%20%28Cooked%29.md)._
 
-**Moose Meat** is a raw [food](./Food%20And%20Drink.md) item in *The Long Dark*.
+**Moose Meat** is a raw [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
 ## Overview
 
@@ -44,20 +39,37 @@ Moose Meat is harvested from [Moose](./Moose.md) carcasses, which contain betwee
 - Meat decays slower outdoors than indoors.
 - Moose Meat is very energy dense for its weight.
 
-Often considered the best meat in *The Long Dark*, moose meat carries no risk of [Intestinal Parasites](./Intestinal%20Parasites.md), has the highest energy density (900 cal/kg) of all meat (along with [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)), and the slowest [Decay](./Decay.md) of all meat items but is much harder to obtain in general.
+Often considered the best meat in _The Long Dark_, moose meat carries no risk of [Intestinal Parasites](./Intestinal%20Parasites.md), has the highest energy density (900 cal/kg) of all meat (along with [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)), and the slowest [Decay](./Decay.md) of all meat items but is much harder to obtain in general.
 
 ## Products
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Fresh](../assets/Moose_Meat_%28Raw%29_icon.png) / *Fresh* | ![Gamey](../assets/Moose_Meat_%28Raw%29_Gamey_icon.png) / *Gamey* | ![Mouldy](../assets/Moose_Meat_%28Raw%29_Mouldy_icon.png) / *Mouldy* | ![Rancid](../assets/Moose_Meat_%28Raw%29_Rancid_icon.png) / *Rancid* |
-| ![Ruined](../assets/Moose_Meat_%28Raw%29_Ruined_icon.png) / *Ruined* | ![old model](../assets/Raw_moose_meat_icon_old.webp) / *old model* |  |  |
+![Fresh](../assets/Moose_Meat_%28Raw%29_icon.png)
+
+_Fresh_
+
+![Gamey](../assets/Moose_Meat_%28Raw%29_Gamey_icon.png)
+
+_Gamey_
+
+![Mouldy](../assets/Moose_Meat_%28Raw%29_Mouldy_icon.png)
+
+_Mouldy_
+
+![Rancid](../assets/Moose_Meat_%28Raw%29_Rancid_icon.png)
+
+_Rancid_
+
+![Ruined](../assets/Moose_Meat_%28Raw%29_Ruined_icon.png)
+
+_Ruined_
+
+![old model](../assets/Raw_moose_meat_icon_old.webp)
+
+_old model_
 
 ## Update history
 
 - UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Мясо лося (сырое)](ru:%D0%9C%D1%8F%D1%81%D0%BE_%D0%BB%D0%BE%D1%81%D1%8F_%28%D1%81%D1%8B%D1%80%D0%BE%D0%B5%29)

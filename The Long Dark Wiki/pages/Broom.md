@@ -1,17 +1,12 @@
----
-title: "Broom"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Broom"
----
-
 # Broom
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Broom)
 
 **Broom**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Broom.jpg) / *Broom.jpg* |
+|  | ![](../assets/Broom.jpg) / _Broom.jpg_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | No |
@@ -29,5 +24,3 @@ A Broom yields 1 piece of [Reclaimed Wood](./Reclaimed%20Wood.md) and requires a
 | Broom | 1 | 8 minutes | 22 | -2% Hatchet |
 | Broom | 1 | 10 minutes | 29 | -3% Improvised Hatchet |
 | Broom | 1 | 11 minutes | 34 | -0.5% Heavy Hammer |
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,17 +1,12 @@
----
-title: "Airline Food - Chicken"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Airline_Food_-_Chicken"
----
-
 # Airline Food \- Chicken
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Airline_Food_-_Chicken)
 
 **Airline Food - Chicken**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Airline_Food_-_Chicken_icon.png) / *Airline\_Food\_-\_Chicken\_icon.png* |
+|  | ![](../assets/Airline_Food_-_Chicken_icon.png) / _Airline\_Food\_-\_Chicken\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | Yes |
 | Renewable | No |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Airline_Food_-_Chicken"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_AirlineFoodChick |
 
-**Airline Food - Chicken** is a packaged [food](./Food%20And%20Drink.md) item in [*The Long Dark*](./The%20Long%20Dark.md).
+**Airline Food - Chicken** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
@@ -45,5 +40,3 @@ Airline Food - Chicken can cause [Food Poisoning](./Food%20Poisoning.md), and [d
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Еда из самолёта — цыплёнок](ru:%D0%95%D0%B4%D0%B0_%D0%B8%D0%B7_%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82%D0%B0_%E2%80%94_%D1%86%D1%8B%D0%BF%D0%BB%D1%91%D0%BD%D0%BE%D0%BA)

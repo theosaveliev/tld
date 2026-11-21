@@ -1,10 +1,6 @@
----
-title: "Realism"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Realism"
----
-
 # Realism
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Realism)
 
 **Contents**
 
@@ -15,11 +11,11 @@ source: "https://thelongdark.fandom.com/wiki/Realism"
 - [Specificity](#specificity)
 - [Player skills](#player-skills)
 
-> “**We're more interested in making the game compelling, than we are in making it realistic. When the two are compatible, we embrace both.**”
+> “__We're more interested in making the game compelling, than we are in making it realistic. When the two are compatible, we embrace both.__”
 >
 > — Hinterland, 2015
 
-In *[The Long Dark](./The%20Long%20Dark.md)*, besides the core survival [mechanics](./Needs.md) there are also anomalies created by [geomagnetic disaster](./First%20Flare.md) which immerse the player to alternate reality. The game stays true to this fiction and therefore is realistic in the merit of it. Some other aspects of the game can also be considered realistic because the game communicates realism to the player through computer interface and so most of the game mechanics has to be specific - like the [Condition Bar](./Condition.md) that represents player's health from 0 to 100%.
+In _[The Long Dark](./The%20Long%20Dark.md)_, besides the core survival [mechanics](./Needs.md) there are also anomalies created by [geomagnetic disaster](./First%20Flare.md) which immerse the player to alternate reality. The game stays true to this fiction and therefore is realistic in the merit of it. Some other aspects of the game can also be considered realistic because the game communicates realism to the player through computer interface and so most of the game mechanics has to be specific - like the [Condition Bar](./Condition.md) that represents player's health from 0 to 100%.
 
 **Minor SPOILER ALERT**
 
@@ -27,7 +23,7 @@ This game is constantly tuned to create interesting gameplay and not to conform 
 
 ## Basic human needs
 
-The core gameplay in *[The Long Dark](./The%20Long%20Dark.md)* can be said to be based on the lowest level of Maslow's hierarchy of needs - food, water, warmth and rest. Other needs, such as [safety](./Safehouse.md) and love needs (only [story](./Wintermute.md) mode), are not directly measured in the game's interface (with exception of somewhat related to love - trust in the story mode) but instead meant for the player to experience individually. The deprivation of the measured needs leads to the player loosing overall Condition and ultimately death. Both the basic 4 needs as well as condition directly can be affected by many [Afflictions](./Afflictions.md).
+The core gameplay in _[The Long Dark](./The%20Long%20Dark.md)_ can be said to be based on the lowest level of Maslow's hierarchy of needs - food, water, warmth and rest. Other needs, such as [safety](./Safehouse.md) and love needs (only [story](./Wintermute.md) mode), are not directly measured in the game's interface (with exception of somewhat related to love - trust in the story mode) but instead meant for the player to experience individually. The deprivation of the measured needs leads to the player loosing overall Condition and ultimately death. Both the basic 4 needs as well as condition directly can be affected by many [Afflictions](./Afflictions.md).
 
 Things worth noting:
 
@@ -54,7 +50,7 @@ The Long Dark is set in a universe after huge [geomagnetic disaster](./Aurora.md
 
 ## Time
 
-![Normal flare. It lasts for 5 real-time minutes](../assets/Flare.jpeg)*Normal flare. It lasts for 5 real-time minutes* The time in game runs 12 times faster than real time. The game developers were therefore at liberty to decide if some actions should run in real-time, game-time or somewhere in between (because it does not break immersion either way).
+![Normal flare. It lasts for 5 real-time minutes](../assets/Flare.jpeg)_Normal flare. It lasts for 5 real-time minutes_ The time in game runs 12 times faster than real time. The game developers were therefore at liberty to decide if some actions should run in real-time, game-time or somewhere in between (because it does not break immersion either way).
 
 - Time of day changes according to game-time (and is one of the biggest selling points of the game)
 - [Cooking](./Cooking.md) times adhere to game-time.

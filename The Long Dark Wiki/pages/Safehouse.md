@@ -1,11 +1,6 @@
----
-title: "Safehouse"
-wiki_namespace: 0
-categories: ["Locations"]
-source: "https://thelongdark.fandom.com/wiki/Safehouse"
----
-
 # Safehouse
+
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Safehouse)
 
 **Contents**
 
@@ -92,7 +87,7 @@ source: "https://thelongdark.fandom.com/wiki/Safehouse"
 - [Sundered Pass](#sundered-pass)
 - [Last Lonely House](#last-lonely-house)
 
-![Safe\_House.jpg](../assets/Safe_House.jpg) In an open-world experience like *[The Long Dark](./The%20Long%20Dark.md)*, the player needs a safe, sheltered location to return to in order to recover their mind and body from the hazards of a nomadic lifestyle. A deliberate mechanic that separates *The Long Dark* from other survival games is that it does not provide the player any means to create a customized shelter from scratch. As such, the player will need to find a pre-existing location to call their temporary home as they explore the island. In a world as unforgiving and hostile as [Great Bear Island](./Great%20Bear%20Island.md), **Safe Houses** are indoor sanctuaries that allow a player to survive and thrive through the permanent winter of the Quiet Apocalypse.
+![Safe\_House.jpg](../assets/Safe_House.jpg) In an open-world experience like _[The Long Dark](./The%20Long%20Dark.md)_, the player needs a safe, sheltered location to return to in order to recover their mind and body from the hazards of a nomadic lifestyle. A deliberate mechanic that separates _The Long Dark_ from other survival games is that it does not provide the player any means to create a customized shelter from scratch. As such, the player will need to find a pre-existing location to call their temporary home as they explore the island. In a world as unforgiving and hostile as [Great Bear Island](./Great%20Bear%20Island.md), **Safe Houses** are indoor sanctuaries that allow a player to survive and thrive through the permanent winter of the Quiet Apocalypse.
 
 Safe Houses sometimes acts as a "gate" for narrative progression — I.E. events that advance the story or change the world state may only occur when the player returns to the safe house, as they often act as out of harm's way for interacting with story NPCs.
 
@@ -197,7 +192,7 @@ Dangerous wildlife is just as the name implies: the average predator density in 
 
 ## Safe House Customization
 
-> “**Move furniture and decorative props around your favourite locations in the game. Repair broken items and clean up the mess. Craft items from an entirely new series of hand-made furniture and decorative props. Collect and move every framed pancake photo in the game to one place. Make pretty much any valid interior in the game your personal Safehouse with this powerful system.**”
+> “__Move furniture and decorative props around your favourite locations in the game. Repair broken items and clean up the mess. Craft items from an entirely new series of hand-made furniture and decorative props. Collect and move every framed pancake photo in the game to one place. Make pretty much any valid interior in the game your personal Safehouse with this powerful system.__”
 >
 > — Hinterland Description
 
@@ -205,9 +200,17 @@ With the release of [Tales from the Far Territory](./Tales%20from%20the%20Far%20
 
 Due to the sheer amount of information that would otherwise further clutter this page, see the [Safehouse Customization](./Safehouse%20Customization.md) page for more info.
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![The Trapper's Homestead before being customized](../assets/Safehouse-custom-before-comp.jpg) / *The [Trapper's Homestead](./Trapper%27s%20Homestead.md) before being customized* | ![The Homestead after being customized](../assets/Safehouse_after-comp.jpg) / *The Homestead after being customized* | ![Safe House furniture Concept Art](../assets/Safe_House_Customization_Concept_Art.jpg) / *Safe House furniture Concept Art* |
+![The Trapper's Homestead before being customized](../assets/Safehouse-custom-before-comp.jpg)
+
+_The [Trapper's Homestead](./Trapper%27s%20Homestead.md) before being customized_
+
+![The Homestead after being customized](../assets/Safehouse_after-comp.jpg)
+
+_The Homestead after being customized_
+
+![Safe House furniture Concept Art](../assets/Safe_House_Customization_Concept_Art.jpg)
+
+_Safe House furniture Concept Art_
 
 ## Coastal Regions
 
@@ -235,7 +238,7 @@ This place has, again, a lot. All the storage and floor space you could ever wan
 
 #### [The Riken](./The%20Riken.md)
 
-*This location cannot be modified using [Safehouse Customization](./Safehouse%20Customization.md).*  
+_This location cannot be modified using [Safehouse Customization](./Safehouse%20Customization.md)._  
  This is one of the more popular bases in the game, and for good reason. Both the forge and the furnace make this place a place you’ll likely be familiar with by late game, and a bed on the second floor, a somewhat remote location away from predators, and protected outdoor space on the top deck contribute additional value. Little Island is also close by for hunting. Overall, this is a good spot to live in. The one weakness of this location is that the interior tends to be extremely dark, even in daytime, making it very difficult to navigate without the use of a [Storm Lantern](./Storm%20Lantern.md) or [Torch](./Torch.md).
 
 | Type | Cooking slots | Bed | Workbench | Storage | Harvestable | Doors | Forge | Danger wildlife | Notes |
@@ -304,7 +307,7 @@ This is all the regions in Lower Great Bear which require traveling through Plea
 
 ### [Pleasant Valley](./Pleasant%20Valley.md)
 
-This region might be "advanced" according to its official description, but, especially since the Crossroads Elegy update, it's really of more of a moderate difficulty region. While it *is* a large region with changeable weather (resulting in a considerable risk of getting [Cabin Fever](./Cabin%20Fever.md) on Interloper), there are quite a few bears and wolves, and it's easy to get disoriented in the featureless fields, you should be fine as long as you don't wander off the roads and you pay attention. There's plenty of food and clothing to start you off in [Thomson's Crossing](./Thomson%27s%20Crossing.md), and the [Crash Site](./Crash%20Site%20%28Pleasant%20Valley%29.md) is loaded full of food and clothing too. Hunting opportunities are plentiful, and you're highly likely to find some excellent loot in [Misty Falls Cave](./Misty%20Falls%20Cave.md). Don't forget [Signal Hill](./Signal%20Hill.md) either, which often has an [Expedition Parka](./Expedition%20Parka.md).
+This region might be "advanced" according to its official description, but, especially since the Crossroads Elegy update, it's really of more of a moderate difficulty region. While it _is_ a large region with changeable weather (resulting in a considerable risk of getting [Cabin Fever](./Cabin%20Fever.md) on Interloper), there are quite a few bears and wolves, and it's easy to get disoriented in the featureless fields, you should be fine as long as you don't wander off the roads and you pay attention. There's plenty of food and clothing to start you off in [Thomson's Crossing](./Thomson%27s%20Crossing.md), and the [Crash Site](./Crash%20Site%20%28Pleasant%20Valley%29.md) is loaded full of food and clothing too. Hunting opportunities are plentiful, and you're highly likely to find some excellent loot in [Misty Falls Cave](./Misty%20Falls%20Cave.md). Don't forget [Signal Hill](./Signal%20Hill.md) either, which often has an [Expedition Parka](./Expedition%20Parka.md).
 
 #### [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md)
 
@@ -496,7 +499,7 @@ This is one of the few man-made structures in the region, but it doesn't have an
 
 ### [Broken Railroad](./Broken%20Railroad.md)
 
-The ease or difficulty of living in Broken Railroad depends a lot on the game's difficulty setting and what gear you have/don't have. Although you do have a [forge](./Forge.md) nearby and a [giant lodge](./Hunting%20Lodge.md), along with decent weather, one of the biggest issues you'll face is [wolves](./Wolf.md)... *all the time*. Especially in Stalker. If you have a [bow](./Survival%20Bow.md) and [arrows](./Simple%20Arrow.md) and are proficient with them, (or you have lots of ammo for your firearm) they, along with the [bear](./Bear.md) near the foot of the cliff, can provide a great source of food... however, if [Intestinal Parasites](./Intestinal%20Parasites.md) are enabled and you're not a level 5 cook, the meat's not really all that useful. [Deer](./Deer.md) aren't all that common, so you'll be eating a lot of wolf and bear meat. To summarize: Broken Railroad is fairly easy to survive in in Voyageur or if you're a level 5 cook, but quite challenging in higher difficulties.
+The ease or difficulty of living in Broken Railroad depends a lot on the game's difficulty setting and what gear you have/don't have. Although you do have a [forge](./Forge.md) nearby and a [giant lodge](./Hunting%20Lodge.md), along with decent weather, one of the biggest issues you'll face is [wolves](./Wolf.md)... _all the time_. Especially in Stalker. If you have a [bow](./Survival%20Bow.md) and [arrows](./Simple%20Arrow.md) and are proficient with them, (or you have lots of ammo for your firearm) they, along with the [bear](./Bear.md) near the foot of the cliff, can provide a great source of food... however, if [Intestinal Parasites](./Intestinal%20Parasites.md) are enabled and you're not a level 5 cook, the meat's not really all that useful. [Deer](./Deer.md) aren't all that common, so you'll be eating a lot of wolf and bear meat. To summarize: Broken Railroad is fairly easy to survive in in Voyageur or if you're a level 5 cook, but quite challenging in higher difficulties.
 
 #### [Maintenance Yard](./Maintenance%20Yard.md)
 
@@ -632,5 +635,3 @@ The house itself has a Fire Barrel outback next to a Work Bench, and the indoor 
 | Type | Cooking slots | Bed | Workbench | Storage | Harvestable | Doors | Forge | Danger wildlife | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Camp | 6 | Yes | Yes | Large | Moderate | 2 | 1/2 regions away in Main Hangar | high | Ice fishing possible nearby |
-
-**Lua execution error in Module:Navbox function navbox**

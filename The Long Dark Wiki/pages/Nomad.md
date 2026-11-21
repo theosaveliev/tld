@@ -1,11 +1,6 @@
----
-title: "Nomad"
-wiki_namespace: 0
-categories: ["Challenges"]
-source: "https://thelongdark.fandom.com/wiki/Nomad"
----
-
 # Nomad
+
+**Categories:** Challenges · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Nomad)
 
 **Contents**
 
@@ -19,22 +14,22 @@ source: "https://thelongdark.fandom.com/wiki/Nomad"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Challenge_Nomad.png) / *Challenge\_Nomad.png* |
+|  | ![](../assets/Challenge_Nomad.png) / _Challenge\_Nomad.png_ |
 | **Details** |  |
 | Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Pleasant Valley](./Pleasant%20Valley.md), [Coastal Highway](./Coastal%20Highway.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md), [Desolation Point](./Desolation%20Point.md) |
 | Difficulty | 3 |
 | Date Added | June 2016 |
 
-> “**The world has changed. The only way to survive is to keep moving.  
- Survive for 3 days each in 15 specific locations across the game world.**”
+> “__The world has changed. The only way to survive is to keep moving.  
+ Survive for 3 days each in 15 specific locations across the game world.__”
 >
 > — Main Menu description
 
-**Nomad** is one of eight [challenges](./Challenge.md) in [*The Long Dark*](./The%20Long%20Dark.md).
+**Nomad** is one of eight [challenges](./Challenge.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
-> “**Spend 3 days each location in your journal.**”
+> “__Spend 3 days each location in your journal.__”
 >
 > — Journal Objective
 
@@ -59,7 +54,7 @@ The journal automatically tracks how long the player has been at each location i
 
 ## Locations
 
-![](../assets/Nomad.png) ![Current (Crossroads Elegy) journal entry](../assets/20191118161857_1.jpg)*Current (Crossroads Elegy) journal entry* The locations you need to spend 3 days in are listed in your journal. They are:
+![](../assets/Nomad.png) ![Current (Crossroads Elegy) journal entry](../assets/20191118161857_1.jpg)_Current (Crossroads Elegy) journal entry_ The locations you need to spend 3 days in are listed in your journal. They are:
 
 | Region | Location | Mission Title |
 | --- | --- | --- |
@@ -81,8 +76,14 @@ The journal automatically tracks how long the player has been at each location i
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![The screen displayed at the completion of the challenge](../assets/Nomad_endscreen.jpg) / *The screen displayed at the completion of the challenge* | ![The badge awarded upon completing the challenge](../assets/Badge_challenge_nomad.png) / *The badge awarded upon completing the challenge* | ![Fan art](../assets/Nomad_Art.jpg) / *Fan art* |
+![The screen displayed at the completion of the challenge](../assets/Nomad_endscreen.jpg)
 
-**Lua execution error in Module:Navbox function navbox**[ru:Кочевник](ru:%D0%9A%D0%BE%D1%87%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA) [es:Nomada](es:Nomada)
+_The screen displayed at the completion of the challenge_
+
+![The badge awarded upon completing the challenge](../assets/Badge_challenge_nomad.png)
+
+_The badge awarded upon completing the challenge_
+
+![Fan art](../assets/Nomad_Art.jpg)
+
+_Fan art_

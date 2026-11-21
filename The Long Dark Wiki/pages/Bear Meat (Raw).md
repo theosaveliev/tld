@@ -1,11 +1,6 @@
----
-title: "Bear Meat (Raw)"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Bear_Meat_(Raw)"
----
-
 # Bear Meat \(Raw\)
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bear_Meat_%28Raw%29)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Bear_Meat_(Raw)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bear_Meat_%28Raw%29_icon.png) / *Bear\_Meat\_(Raw)\_icon.png* |
+|  | ![](../assets/Bear_Meat_%28Raw%29_icon.png) / _Bear\_Meat\_(Raw)\_icon.png_ |
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -33,9 +28,9 @@ source: "https://thelongdark.fandom.com/wiki/Bear_Meat_(Raw)"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_BearMeatRaw |
 
-*For the cooked version, see [Bear Meat (Cooked)](./Bear%20Meat%20%28Cooked%29.md).*
+_For the cooked version, see [Bear Meat (Cooked)](./Bear%20Meat%20%28Cooked%29.md)._
 
-**Bear Meat** is a raw [food](./Food%20And%20Drink.md) item in *The Long Dark*.
+**Bear Meat** is a raw [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
 ## Overview
 
@@ -51,14 +46,31 @@ Bear Meat is harvested from [Bear](./Bear.md) carcasses, which contain between 2
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Fresh](../assets/Bear_Meat_%28Raw%29_icon.png) / *Fresh* | ![Gamey](../assets/Bear_Meat_%28Raw%29_Gamey_icon.png) / *Gamey* | ![Mouldy](../assets/Bear_Meat_%28Raw%29_Mouldy_icon.png) / *Mouldy* | ![Rancid](../assets/Bear_Meat_%28Raw%29_Rancid_icon.png) / *Rancid* |
-| ![Ruined](../assets/Bear_Meat_%28Raw%29_Ruined_icon.png) / *Ruined* | ![Old model.](../assets/Black_bear_meat.png) / *Old model.* |  |  |
+![Fresh](../assets/Bear_Meat_%28Raw%29_icon.png)
+
+_Fresh_
+
+![Gamey](../assets/Bear_Meat_%28Raw%29_Gamey_icon.png)
+
+_Gamey_
+
+![Mouldy](../assets/Bear_Meat_%28Raw%29_Mouldy_icon.png)
+
+_Mouldy_
+
+![Rancid](../assets/Bear_Meat_%28Raw%29_Rancid_icon.png)
+
+_Rancid_
+
+![Ruined](../assets/Bear_Meat_%28Raw%29_Ruined_icon.png)
+
+_Ruined_
+
+![Old model.](../assets/Black_bear_meat.png)
+
+_Old model._
 
 ## Update history
 
 - UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [es:Carne de oso negro](es:Carne_de_oso_negro) [ru:Медвежатина](ru:%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B6%D0%B0%D1%82%D0%B8%D0%BD%D0%B0)

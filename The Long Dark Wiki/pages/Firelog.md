@@ -1,11 +1,6 @@
----
-title: "Firelog"
-wiki_namespace: 0
-categories: ["Fire Starting", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Firelog"
----
-
 # Firelog
+
+**Categories:** Fire Starting, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Firelog)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Firelog"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Firelog_icon.png) / *Firelog\_icon.png* |
+|  | ![](../assets/Firelog_icon.png) / _Firelog\_icon.png_ |
 | Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01) |
 | Wintermute | No |
 | Renewable | No |
@@ -55,13 +50,11 @@ Firelogs can be uncommonly found across Great Bear, usually near fireboxes in bu
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Firelog.png) / *Old model.* |
+![Old model.](../assets/Firelog.png)
+
+_Old model._
 
 ## Update history
 
 - UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.01)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Полено](ru:%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE)

@@ -1,10 +1,6 @@
----
-title: "Lost Power Workers"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Lost_Power_Workers"
----
-
 # Lost Power Workers
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lost_Power_Workers)
 
 **Contents**
 
@@ -24,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Lost_Power_Workers"
 | Current | Lost Power Workers |
 | Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 
-> “**Find out what happened to the lost power workers. Search their last noted work locations.**”
+> “__Find out what happened to the lost power workers. Search their last noted work locations.__”
 
 **Lost Power Workers** is a side mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
@@ -56,5 +52,3 @@ To start the mission, the player must find the [Old Substation Work Memo](./Old%
   - ~69% Condition [Revolver](./Revolver.md) + 3x [Revolver Ammunition](./Revolver%20Ammunition.md) loaded inside
   - 2x [Revolver Ammunition](./Revolver%20Ammunition.md) beneath the lockers
   - Trailer loot, including a locked (requires prybar) locker, mine was empty though.
-
-**Lua execution error in Module:Navbox function navbox**

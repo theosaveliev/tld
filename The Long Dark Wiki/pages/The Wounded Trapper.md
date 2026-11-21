@@ -1,11 +1,6 @@
----
-title: "The Wounded Trapper"
-wiki_namespace: 0
-categories: ["Episode 2"]
-source: "https://thelongdark.fandom.com/wiki/The_Wounded_Trapper"
----
-
 # The Wounded Trapper
+
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper)
 
 **The Wounded Trapper** is the first mission in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) must help find medical supplies and radio parts for [Jeremiah](./Jeremiah.md) following his encounter with the [Old Bear](./Old%20Bear.md).
 

@@ -1,11 +1,6 @@
----
-title: "Acorns"
-wiki_namespace: 0
-categories: ["Food And Drink", "Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Acorns"
----
-
 # Acorns
+
+**Categories:** Food And Drink, Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Acorns)
 
 **Contents**
 
@@ -24,7 +19,7 @@ source: "https://thelongdark.fandom.com/wiki/Acorns"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Acorns_icon.png) / *Acorns\_icon.png* |
+|  | ![](../assets/Acorns_icon.png) / _Acorns\_icon.png_ |
 | Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
 | Wintermute | No |
 | Renewable | No |
@@ -107,7 +102,5 @@ The [Transfer Pass](./Transfer%20Pass.md) is densely populated by Oak trees, as 
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Жёлуди](ru:%D0%96%D1%91%D0%BB%D1%83%D0%B4%D0%B8)

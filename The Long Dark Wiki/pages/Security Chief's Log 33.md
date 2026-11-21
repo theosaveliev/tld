@@ -1,17 +1,12 @@
----
-title: "Security Chief's Log 33"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Security_Chief's_Log_33"
----
-
 # Security Chief's Log 33
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_33)
 
 **Security Chief's Log 33**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Security_Chief%27s_Log_33_icon.png) / *Security\_Chief's\_Log\_33\_icon.png* |
+|  | ![](../assets/Security_Chief%27s_Log_33_icon.png) / _Security\_Chief's\_Log\_33\_icon.png_ |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | Wintermute | No |
 | **Properties** |  |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Security_Chief's_Log_33"
 
 ## Transcript
 
-*The following text is transcribed from **Security Chief's Log 33***
+_The following text is transcribed from **Security Chief's Log 33**_
 
 **…I’m never leaving this place. I see that now. I tried to reason with him, to get him to see what this had all cost us. Rüdiger had other plans. The transmission site over the mountains. He’s always had a way out, always. He risked nothing.
 
@@ -41,7 +36,5 @@ I think I’ll just close my eyes for a little while.**
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Запись №33 начальника охраны](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C_%E2%84%9633_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%8B)

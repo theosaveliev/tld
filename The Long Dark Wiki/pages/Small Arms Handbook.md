@@ -1,11 +1,6 @@
----
-title: "Small Arms Handbook"
-wiki_namespace: 0
-categories: ["Fire Starting", "Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Small_Arms_Handbook"
----
-
 # Small Arms Handbook
+
+**Categories:** Fire Starting, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Small_Arms_Handbook)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Small_Arms_Handbook"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Small_Arms_Handbook_icon.png) / *Small\_Arms\_Handbook\_icon.png* |
+|  | ![](../assets/Small_Arms_Handbook_icon.png) / _Small\_Arms\_Handbook\_icon.png_ |
 | Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48) |
 | Wintermute | No |
 | **Properties** |  |
@@ -34,7 +29,7 @@ source: "https://thelongdark.fandom.com/wiki/Small_Arms_Handbook"
 
 ## Research info
 
-*Small Arms Handbook* can be researched for 5 hours, which can be broken into multiple research sessions. 10 [Revolver Firearm skill points](./Revolver%20Firearm.md#Skill_levels) are awarded on completing the research.
+_Small Arms Handbook_ can be researched for 5 hours, which can be broken into multiple research sessions. 10 [Revolver Firearm skill points](./Revolver%20Firearm.md#Skill_levels) are awarded on completing the research.
 
 Research can only be performed under the following conditions:
 
@@ -58,12 +53,10 @@ Research can only be performed under the following conditions:
 ## Trivia
 
 - Reaching 0% in any Needs while researching will immediately end the research session and negate any progress for that research attempt.
-- Attempting to burn a copy of *Small Arms Handbook* when it has not been fully read will give a confirmation warning before it can be burned.
-- Once a copy of *Small Arms Handbook* is fully researched, it will no longer appear in the Tools section of the Backpack.
+- Attempting to burn a copy of _Small Arms Handbook_ when it has not been fully read will give a confirmation warning before it can be burned.
+- Once a copy of _Small Arms Handbook_ is fully researched, it will no longer appear in the Tools section of the Backpack.
 
 ## Update history
 
 - UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**

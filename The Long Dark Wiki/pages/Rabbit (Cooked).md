@@ -1,11 +1,6 @@
----
-title: "Rabbit (Cooked)"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Rabbit_(Cooked)"
----
-
 # Rabbit \(Cooked\)
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rabbit_%28Cooked%29)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Rabbit_(Cooked)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rabbit_%28Cooked%29_icon.png) / *Rabbit\_(Cooked)\_icon.png* |
+|  | ![](../assets/Rabbit_%28Cooked%29_icon.png) / _Rabbit\_(Cooked)\_icon.png_ |
 | Release | [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.152) |
 | Wintermute | No |
 | **Properties** |  |
@@ -32,9 +27,9 @@ source: "https://thelongdark.fandom.com/wiki/Rabbit_(Cooked)"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_RabbitCooked |
 
-*For the raw version, see [Rabbit (Raw)](./Rabbit%20%28Raw%29.md).*
+_For the raw version, see [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)._
 
-**Rabbit Meat (Cooked)** is a cooked food item in *The Long Dark*.
+**Rabbit Meat (Cooked)** is a cooked food item in _The Long Dark_.
 
 ## Overview
 
@@ -60,14 +55,31 @@ Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked fo
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Fresh](../assets/Rabbit_%28Cooked%29_icon.png) / *Fresh* | ![Gamey](../assets/Rabbit_%28Cooked%29_Gamey_icon.png) / *Gamey* | ![Mouldy](../assets/Rabbit_%28Cooked%29_Mouldy_icon.png) / *Mouldy* | ![Rancid](../assets/Rabbit_%28Cooked%29_Rancid_icon.png) / *Rancid* |
-| ![Ruined](../assets/Rabbit_%28Cooked%29_Ruined_icon.png) / *Ruined* | ![Old Model](../assets/Rabbit_cooked.png) / *Old Model* |  |  |
+![Fresh](../assets/Rabbit_%28Cooked%29_icon.png)
+
+_Fresh_
+
+![Gamey](../assets/Rabbit_%28Cooked%29_Gamey_icon.png)
+
+_Gamey_
+
+![Mouldy](../assets/Rabbit_%28Cooked%29_Mouldy_icon.png)
+
+_Mouldy_
+
+![Rancid](../assets/Rabbit_%28Cooked%29_Rancid_icon.png)
+
+_Rancid_
+
+![Ruined](../assets/Rabbit_%28Cooked%29_Ruined_icon.png)
+
+_Ruined_
+
+![Old Model](../assets/Rabbit_cooked.png)
+
+_Old Model_
 
 ## Update history
 
 - UPDATE **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Крольчатина (приготовленная)](ru:%D0%9A%D1%80%D0%BE%D0%BB%D1%8C%D1%87%D0%B0%D1%82%D0%B8%D0%BD%D0%B0_%28%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%29)

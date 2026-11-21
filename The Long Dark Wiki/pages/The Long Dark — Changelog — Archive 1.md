@@ -1,10 +1,6 @@
----
-title: "The Long Dark/Changelog/Archive 1"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/The_Long_Dark%2FChangelog%2FArchive_1"
----
-
 # The Long Dark/Changelog/Archive 1
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Long_Dark%2FChangelog%2FArchive_1)
 
 **Contents**
 
@@ -43,13 +39,13 @@ source: "https://thelongdark.fandom.com/wiki/The_Long_Dark%2FChangelog%2FArchive
 - [1.01](#101)
 - [1.00 (Wintermute 1.0 Launch Update(Predux release))](#100-wintermute-10-launch-updatepredux-release)
 
-This is a changelog for full-release versions of *[The Long Dark](./The%20Long%20Dark.md)* from 1.00 to 1.49.
+This is a changelog for full-release versions of _[The Long Dark](./The%20Long%20Dark.md)_ from 1.00 to 1.49.
 
-*For the latest changelog, see [The Long Dark/Changelog](./The%20Long%20Dark%20%E2%80%94%20Changelog.md).*
+_For the latest changelog, see [The Long Dark/Changelog](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)._
 
-*For Archive 2 changelog with versions 1.50 to 1.99, see [The\_Long\_Dark/Changelog/Archive\_2](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md).*
+_For Archive 2 changelog with versions 1.50 to 1.99, see [The\_Long\_Dark/Changelog/Archive\_2](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md)._
 
-*For Early Access changelog (pre-v1.00), see [The\_Long\_Dark/Early\_Access\_Changelog](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md).*
+_For Early Access changelog (pre-v1.00), see [The\_Long\_Dark/Early\_Access\_Changelog](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)._
 
 ### 1.49
 
@@ -998,9 +994,9 @@ Released 21 December 2017
 - \[Both\] Fixed issue where displaced arm animations could appear for certain harvesting actions.
 - \[Wintermute\] Updated Green Survivor description text; Predators are less deadly in this Experience, but will still attack you when unprovoked. (i.e. Green Survivor does not match Pilgrim settings.)
 - \[Survival Mode\] Fixed issue where items could disappear from the Milton House after breaking down the blanket.
-- \[Survival Mode\] Fixed issue where stored items would be duplicated and could appear in more than one location at once. This affects the following locations: Lake Cabins, Fishing Huts, Jackrabbit House and PV Crossroads House. *Please note this fix only applies to games created using Version 1.21 and onward.*
+- \[Survival Mode\] Fixed issue where stored items would be duplicated and could appear in more than one location at once. This affects the following locations: Lake Cabins, Fishing Huts, Jackrabbit House and PV Crossroads House. _Please note this fix only applies to games created using Version 1.21 and onward._
 - \[Survival Mode\] Fixed issue where a map icon may automatically appear for specific locations when they are entered (ex. Stone Church in Desolation Point) rather than through Charcoal Mapping, which would result in them not counting towards the Faithful Cartographer achievement.
-- \[Survival Mode\] Fixed issue with the items placed in one location could appear in a different location instead (i.e. we created a teleportation device!). This affects the following locations: Farmhouse, Farmhouse Basement, Dam, Dam Trailers. *Note that this fix applies to existing games.*
+- \[Survival Mode\] Fixed issue with the items placed in one location could appear in a different location instead (i.e. we created a teleportation device!). This affects the following locations: Farmhouse, Farmhouse Basement, Dam, Dam Trailers. _Note that this fix applies to existing games._
 
 **External Links**
 
@@ -1127,7 +1123,7 @@ GENERAL FIXES
 
 Size 318.4 MB
 
-*May include spoilers*
+_May include spoilers_
 
 - Fixed issue with not being able to ascend rope in Broken Railroad region
 - Fixed collision issue in Dam that could cause player to fall out of the world.
@@ -1144,7 +1140,7 @@ Size 318.4 MB
 
 Size 318.4 MB
 
-*May include spoilers*
+_May include spoilers_
 
 - Improved screen flow leading to Episode Two once Episode One credits are complete or skipped.
 - Episode Two: Fixed issue preventing Jeremiah's Flare Trust mission from triggering correctly.
@@ -1174,7 +1170,7 @@ Size 318.4 MB
 
 Size 274.1 MB
 
-*May include spoilers*
+_May include spoilers_
 
 - Fixed issue preventing "Lake Gunshots" mission from completing correctly.
 - General cinematics polish.
@@ -1197,7 +1193,7 @@ Size 274.1 MB
 
 Size 261.9 MB
 
-*May include spoilers*
+_May include spoilers_
 
 **Linux Specific**
 
@@ -1228,7 +1224,7 @@ Size 261.9 MB
 
 Size 414.7 MB
 
-*May include spoilers*
+_May include spoilers_
 
 - Memory and performance optimizations.
 - Fixed issue where Methuselah may not trigger correctly in certain circumstances in Episode Two.
@@ -1256,7 +1252,7 @@ Size 414.7 MB
 
 Size 261.0 MB
 
-*May include spoilers*
+_May include spoilers_
 
 - Fixed issue with Rope Fall section of Episode One, where players could get stuck due to a scripting bug.
 - Improved cover flow UI for Episode Selection to make it more obvious that there are two available episodes.
@@ -1281,7 +1277,7 @@ Size 261.0 MB
 
 Size 219.6 MB
 
-*May include spoilers*
+_May include spoilers_
 
 - Fixed blocking issue where the Aurora would not appear in Episode Two, between completing the Bear Hunt mission and awaiting the aurora's return to get through the Dam. This fix is compatible with current in-progress games so you should not have to restart to benefit from it.
 
@@ -1309,7 +1305,7 @@ Size 219.6 MB
 
 **Patch 2** - Released 3 August 2017
 
-*May include spoilers*
+_May include spoilers_
 
 - Fixed save/restore issue that could result in missing loot in scenes when reloading from a checkpoint. This bug was preventing some quests from being completable after reload.
 - Fixed the Bear struggle.
@@ -1342,7 +1338,7 @@ Size 219.6 MB
 
 Size: 267.4 MB
 
-*May include spoilers*
+_May include spoilers_
 
 - Added missing translations for Trust dialogue
 - Fixed startup issues for some systems using DirectX 9
@@ -1373,7 +1369,7 @@ Released 1 August 2017
 
 Size: 2.7 GB
 
-*An official changelog was not released for the 1.00 version of the game. The following changelog is unofficial.*
+_An official changelog was not released for the 1.00 version of the game. The following changelog is unofficial._
 
 - Added episodes 1 and 2.
 - Added the new region: Broken Railroad

@@ -1,11 +1,6 @@
----
-title: "Astrid Greenwood"
-wiki_namespace: 0
-categories: ["Characters"]
-source: "https://thelongdark.fandom.com/wiki/Astrid_Greenwood"
----
-
 # Astrid Greenwood
+
+**Categories:** Characters · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Astrid_Greenwood)
 
 **Contents**
 
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Astrid_Greenwood"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Astrid.png) / *Astrid.png* |
+|  | ![](../assets/Astrid.png) / _Astrid.png_ |
 | Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00) |
 | Date | 1 August 2017 |
 | Wintermute | **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **•** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) / **•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
@@ -41,9 +36,9 @@ source: "https://thelongdark.fandom.com/wiki/Astrid_Greenwood"
 | **Game Information** |  |
 | Voiced by | [Jennifer Hale](wikipedia:Jennifer_Hale) |
 
-> “**I may not be able to stop this darkness from coming. But I'll be damned if I'm going to let it happen without a fight. **”
+> “__I may not be able to stop this darkness from coming. But I'll be damned if I'm going to let it happen without a fight. __”
 
-**Doctor Astrid Greenwood** is one of two playable protagonists in *[The Long Dark](./The%20Long%20Dark.md)*. She is playable in Episode 3 and Episode 5.
+**Doctor Astrid Greenwood** is one of two playable protagonists in _[The Long Dark](./The%20Long%20Dark.md)_. She is playable in Episode 3 and Episode 5.
 
 ## Overview
 
@@ -123,19 +118,66 @@ In [Story](./Wintermute.md) mode each survivor has slightly different skills, th
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Steam Trading Card](../assets/Dr._Astrid_Greenwood_Steam_Card_Preview.png) / *Steam Trading Card* | ![Ditto, full screen](../assets/Dr._Astrid_Greenwood_Steam_Card.jpg) / *Ditto, full screen* | ![Astrid in Wintermute](../assets/The_Long_Dark_-_Story_Mode_image3.png) / *Astrid in Wintermute* | ![From the February 2018 dev diary.](../assets/Astrid-_Dev_Diary_2018.jpg) / *From the February 2018 dev diary.* |
-| ![From the August 2018 dev diary.](../assets/Desolation-Point.jpg) / *From the August 2018 dev diary.* | ![From the March 2019 dev diary.](../assets/ASTRID_in_snow_ep3-2-corrected-comp.jpg) / *From the March 2019 dev diary.* | ![ditto, at the start of Episode 3](../assets/Astrid_in_the_snow_Episode_3.jpg) / *ditto, at the start of Episode 3* | ![ditto](../assets/Astrid_in_snow.jpg) / *ditto* |
-| ![Astrid concept art.](../assets/Astrid_Greenwood_-_concept_art.jpg) / *Astrid concept art.* | ![Astrid concept art](../assets/Astrid_Greenwood_-_concept_art_-_close.jpg) / *Astrid concept art* | ![A smashed photo of Astrid and Will](../assets/Astrid_and_Will_photo.jpg) / *A smashed photo of Astrid and Will* | ![A photo of Will and Astrid in the Jackrabbit Remote Transport](../assets/Jackrabbit_Remote_Transport_Office_board.jpg) / *A photo of Will and Astrid in the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md)* |
-| ![A painting of Astrid in the game](../assets/Astrid_painting.png) / *A painting of Astrid in the game* | ![Astrid's magnetic stripe card](../assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_%283%29.png) / *Astrid's magnetic stripe card* |  |  |
+![Steam Trading Card](../assets/Dr._Astrid_Greenwood_Steam_Card_Preview.png)
+
+_Steam Trading Card_
+
+![Ditto, full screen](../assets/Dr._Astrid_Greenwood_Steam_Card.jpg)
+
+_Ditto, full screen_
+
+![Astrid in Wintermute](../assets/The_Long_Dark_-_Story_Mode_image3.png)
+
+_Astrid in Wintermute_
+
+![From the February 2018 dev diary.](../assets/Astrid-_Dev_Diary_2018.jpg)
+
+_From the February 2018 dev diary._
+
+![From the August 2018 dev diary.](../assets/Desolation-Point.jpg)
+
+_From the August 2018 dev diary._
+
+![From the March 2019 dev diary.](../assets/ASTRID_in_snow_ep3-2-corrected-comp.jpg)
+
+_From the March 2019 dev diary._
+
+![ditto, at the start of Episode 3](../assets/Astrid_in_the_snow_Episode_3.jpg)
+
+_ditto, at the start of Episode 3_
+
+![ditto](../assets/Astrid_in_snow.jpg)
+
+_ditto_
+
+![Astrid concept art.](../assets/Astrid_Greenwood_-_concept_art.jpg)
+
+_Astrid concept art._
+
+![Astrid concept art](../assets/Astrid_Greenwood_-_concept_art_-_close.jpg)
+
+_Astrid concept art_
+
+![A smashed photo of Astrid and Will](../assets/Astrid_and_Will_photo.jpg)
+
+_A smashed photo of Astrid and Will_
+
+![A photo of Will and Astrid in the Jackrabbit Remote Transport](../assets/Jackrabbit_Remote_Transport_Office_board.jpg)
+
+_A photo of Will and Astrid in the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md)_
+
+![A painting of Astrid in the game](../assets/Astrid_painting.png)
+
+_A painting of Astrid in the game_
+
+![Astrid's magnetic stripe card](../assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_%283%29.png)
+
+_Astrid's magnetic stripe card_
 
 ## Trivia
 
-- Astrid Greenwood is voiced by [Jennifer Hale](Wikipedia:Jennifer_Hale). Hale's other notable works include [Commander Shepard](W:c:masseffect:Commander_Shepard) (female) in the *[Mass Effect](W:c:masseffect:Category:Games)* series, [Jennifer Mui](W:c:mercenaries:Jennifer_Mui) in the *[Mercenaries](W:c:mercenaries:Category:Games)* series, and [Naomi Hunter](W:c:metalgear:Naomi_Hunter) in the *[Metal Gear Solid](W:c:metalgear:Category:Games)* series, among many others.
+- Astrid Greenwood is voiced by [Jennifer Hale](Wikipedia:Jennifer_Hale). Hale's other notable works include [Commander Shepard](W:c:masseffect:Commander_Shepard) (female) in the _[Mass Effect](W:c:masseffect:Category:Games)_ series, [Jennifer Mui](W:c:mercenaries:Jennifer_Mui) in the _[Mercenaries](W:c:mercenaries:Category:Games)_ series, and [Naomi Hunter](W:c:metalgear:Naomi_Hunter) in the _[Metal Gear Solid](W:c:metalgear:Category:Games)_ series, among many others.
 - Astrid evidently enjoys driving [steam locomotives](./Steam%20Train.md), as this is the only time she laughs in the entire game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [fr:Astrid\_Greenwood](fr:Astrid_Greenwood) [ru:Астрид Гринвуд](ru:%D0%90%D1%81%D1%82%D1%80%D0%B8%D0%B4_%D0%93%D1%80%D0%B8%D0%BD%D0%B2%D1%83%D0%B4)
 

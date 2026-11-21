@@ -1,11 +1,6 @@
----
-title: "Salty Crackers"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Salty_Crackers"
----
-
 # Salty Crackers
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Salty_Crackers)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Salty_Crackers"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Salty_Crackers_icon.png) / *Salty\_Crackers\_icon.png* |
+|  | ![](../assets/Salty_Crackers_icon.png) / _Salty\_Crackers\_icon.png_ |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
@@ -33,7 +28,7 @@ source: "https://thelongdark.fandom.com/wiki/Salty_Crackers"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_SaltyCrackers |
 
-**Salty Crackers** are a packaged [food](./Food%20And%20Drink.md) item in [*The Long Dark*](./The%20Long%20Dark.md).
+**Salty Crackers** are a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
@@ -45,19 +40,17 @@ Salty Crackers never [decay](./Decay.md), but are unique in that they can still 
 
 ## Trivia
 
-- Salty Crackers are packaged as a product called "*Standard Fare"*, possibly a play on the real-life saltine cracker brand "Premium."
+- Salty Crackers are packaged as a product called "_Standard Fare"_, possibly a play on the real-life saltine cracker brand "Premium."
 - The back of the box lists "Ingredients: Wheat Flour, Soybean Oil, Sugar, Baking Soda, Salt, Natural Flavours."
 - Despite being packaged in a cardboard box, no [Tinder Plug](./Tinder%20Plug.md) is produced by consuming Salty Crackers and the item cannot be harvested.
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Salty_crackers.png) / *old model* |
+![old model](../assets/Salty_crackers.png)
+
+_old model_
 
 ## Update history
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Солёный крекер](ru:%D0%A1%D0%BE%D0%BB%D1%91%D0%BD%D1%8B%D0%B9_%D0%BA%D1%80%D0%B5%D0%BA%D0%B5%D1%80)

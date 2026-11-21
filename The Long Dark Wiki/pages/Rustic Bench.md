@@ -1,11 +1,6 @@
----
-title: "Rustic Bench"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Rustic_Bench"
----
-
 # Rustic Bench
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rustic_Bench)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Rustic_Bench"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rustic_Bench_icon.png) / *Rustic\_Bench\_icon.png* |
+|  | ![](../assets/Rustic_Bench_icon.png) / _Rustic\_Bench\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 2.00 kg (4.4 lbs) |
@@ -60,5 +55,3 @@ The Rustic Bench can be harvested with a [Hatchet](./Hatchet.md) in 1 hour 30 mi
 |  | 2 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Скамья в деревенском стиле](ru:%D0%A1%D0%BA%D0%B0%D0%BC%D1%8C%D1%8F_%D0%B2_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D1%81%D1%82%D0%B8%D0%BB%D0%B5)

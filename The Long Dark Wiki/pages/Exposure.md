@@ -1,11 +1,6 @@
----
-title: "Exposure"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Exposure"
----
-
 # Exposure
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Exposure)
 
 **Contents**
 
@@ -18,10 +13,10 @@ source: "https://thelongdark.fandom.com/wiki/Exposure"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Exposure_icon.png) / *Exposure\_icon.png* |
+|  | ![](../assets/Exposure_icon.png) / _Exposure\_icon.png_ |
 | Description | Take a photo in each Great Bear Island Region for a total of 16 (single game). |
 
-**Exposure** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Exposure** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -52,5 +47,3 @@ Since these are 16 regions to cover, targeting this could be combined with achie
 - [Sundered Pass](./Sundered%20Pass.md)
 
 ## Trivia
-
-The name of this achievement is pun on how the player has to be exposed to almost every region of the Island to get this achievement.**Lua execution error in Module:Navbox function navbox**

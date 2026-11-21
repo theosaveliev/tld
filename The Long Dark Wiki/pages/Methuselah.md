@@ -1,11 +1,6 @@
----
-title: "Methuselah"
-wiki_namespace: 0
-categories: ["Characters"]
-source: "https://thelongdark.fandom.com/wiki/Methuselah"
----
-
 # Methuselah
+
+**Categories:** Characters · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Methuselah)
 
 **Contents**
 
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Methuselah"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Methuselah.png) / *Methuselah.png* |
+|  | ![](../assets/Methuselah.png) / _Methuselah.png_ |
 | Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00) |
 | Date | 1 August 2017 |
 | Wintermute | **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **•** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
@@ -39,17 +34,17 @@ source: "https://thelongdark.fandom.com/wiki/Methuselah"
 | **Game Information** |  |
 | Voiced by | [Richard Newman](wikipedia:Richard_Newman_%28actor%29) (Redux EP 1,2) Gord Marriott (Predux EP 2) |
 
-> “**Ancient in appearance, Methuselah’s clear eyes suggest a deep wisdom and he radiates strength rather than frailty. He has the calm, knowing authority of someone who’s seen a few things in his time.  
+> “__Ancient in appearance, Methuselah’s clear eyes suggest a deep wisdom and he radiates strength rather than frailty. He has the calm, knowing authority of someone who’s seen a few things in his time.  
    
- Methuselah appears to know more than he’s letting on about the events on Great Bear Island. **”
+ Methuselah appears to know more than he’s letting on about the events on Great Bear Island. __”
 >
 > — In-game description
 
-> “**These are confusing times. Let me see if I can help you make sense of them. I'm an old man. I've seen many things. Some would say, too many. I've seen this happen before. We've sinned, now we're paying the price. **”
+> “__These are confusing times. Let me see if I can help you make sense of them. I'm an old man. I've seen many things. Some would say, too many. I've seen this happen before. We've sinned, now we're paying the price. __”
 >
 > — Methuselah
 
-**Methuselah** is a mysterious character that appears in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) and [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) in [*The Long Dark*](./The%20Long%20Dark.md).
+**Methuselah** is a mysterious character that appears in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) and [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Background
 
@@ -89,7 +84,7 @@ Methuselah will remain outside the Carter Staging Area for the rest of the episo
 
 ## Voice acting
 
-In the original version of Wintermute, Methuselah was voiced by Gord Marriott (who also provided the voice for [Mathis](./Mathis.md)) As of the *Redux* version of Episode 1 and 2, he is voiced by Richard Newman.
+In the original version of Wintermute, Methuselah was voiced by Gord Marriott (who also provided the voice for [Mathis](./Mathis.md)) As of the _Redux_ version of Episode 1 and 2, he is voiced by Richard Newman.
 
 ## Notable Quotes
 
@@ -112,17 +107,42 @@ In the original version of Wintermute, Methuselah was voiced by Gord Marriott (w
 
 ### Redux
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Concept art of Methuselah](../assets/Methuselah_Art.jpg) / *Concept art of Methuselah* | ![Methuselah in the Orca Gas Station](../assets/Methuselah.jpg) / *Methuselah in the [Orca Gas Station](./Orca%20Gas%20Station.md)* | ![Methuselah at the Carter Hydro Dam](../assets/Methuselah_paradise_lost.jpg) / *Methuselah at the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md)* | ![Methuselah's revised apperance in the Blackrock Foothills](../assets/Methuselah_ep5.png) / *Methuselah's revised apperance in the [Blackrock Foothills](./Blackrock%20Foothills.md)* |
+![Concept art of Methuselah](../assets/Methuselah_Art.jpg)
+
+_Concept art of Methuselah_
+
+![Methuselah in the Orca Gas Station](../assets/Methuselah.jpg)
+
+_Methuselah in the [Orca Gas Station](./Orca%20Gas%20Station.md)_
+
+![Methuselah at the Carter Hydro Dam](../assets/Methuselah_paradise_lost.jpg)
+
+_Methuselah at the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md)_
+
+![Methuselah's revised apperance in the Blackrock Foothills](../assets/Methuselah_ep5.png)
+
+_Methuselah's revised apperance in the [Blackrock Foothills](./Blackrock%20Foothills.md)_
 
 ### Predux
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Steam Trading Card](../assets/Methuselah_Steam_Card_Preview.png) / *Steam Trading Card* | ![Ditto, full screen](../assets/Methuselah_Steam_Card.jpg) / *Ditto, full screen* | ![Methuselah outside the dam Predux](../assets/Methuselah2.jpg) / *Methuselah outside the dam Predux* | ![ditto](../assets/The_Long_Dark_-_episode_two_-_Methuselah.png) / *ditto* |
-| ![Ditto](../assets/Methuselah_Predux.jpg) / *Ditto* |  |  |  |
+![Steam Trading Card](../assets/Methuselah_Steam_Card_Preview.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Steam Trading Card_
+
+![Ditto, full screen](../assets/Methuselah_Steam_Card.jpg)
+
+_Ditto, full screen_
+
+![Methuselah outside the dam Predux](../assets/Methuselah2.jpg)
+
+_Methuselah outside the dam Predux_
+
+![ditto](../assets/The_Long_Dark_-_episode_two_-_Methuselah.png)
+
+_ditto_
+
+![Ditto](../assets/Methuselah_Predux.jpg)
+
+_Ditto_
 
 [fr:Mathusalem](fr:Mathusalem) [ru:Мафусаил](ru:%D0%9C%D0%B0%D1%84%D1%83%D1%81%D0%B0%D0%B8%D0%BB)

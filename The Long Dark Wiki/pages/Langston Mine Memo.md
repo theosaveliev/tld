@@ -1,17 +1,12 @@
----
-title: "Langston Mine Memo"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Langston_Mine_Memo"
----
-
 # Langston Mine Memo
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Langston_Mine_Memo)
 
 **Langston Mine Memo**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Langston_Mine_Memo_icon.png) / *Langston\_Mine\_Memo\_icon.png* |
+|  | ![](../assets/Langston_Mine_Memo_icon.png) / _Langston\_Mine\_Memo\_icon.png_ |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | Wintermute | No |
 | **Properties** |  |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Langston_Mine_Memo"
 
 ## Transcript
 
-*The following text is transcribed from **Langston Mine Memo***
+_The following text is transcribed from **Langston Mine Memo**_
 
 **You tell him the valves were never designed to take this kind of abuse. It’s just too corrosive.
 
@@ -41,7 +36,5 @@ It’s a dirty business.**
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Записка шахты Лэнгстон](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D1%88%D0%B0%D1%85%D1%82%D1%8B_%D0%9B%D1%8D%D0%BD%D0%B3%D1%81%D1%82%D0%BE%D0%BD)

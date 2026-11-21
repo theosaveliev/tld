@@ -1,11 +1,6 @@
----
-title: "Cleaning"
-wiki_namespace: 0
-categories: ["Skills"]
-source: "https://thelongdark.fandom.com/wiki/Cleaning"
----
-
 # Cleaning
+
+**Categories:** Skills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cleaning)
 
 **Contents**
 
@@ -46,16 +41,16 @@ The player is able to clean the following firearms to improve their condition:
 
 | Image | Name |
 | --- | --- |
-| ![](../assets/Hunting_Rifle_icon.png) / *Hunting\_Rifle\_icon.png* | [Hunting Rifle](./Hunting%20Rifle.md) |
-| ![](../assets/Barb%27s_Rifle_icon.png) / *Barb's\_Rifle\_icon.png* | [Barb's Rifle](./Barb%27s%20Rifle.md) |
-| ![](../assets/Bunker_Rifle_icon.png) / *Bunker\_Rifle\_icon.png* | [Bunker Rifle](./Bunker%20Rifle.md) |
-| ![](../assets/Curator%27s_Rifle_icon.png) / *Curator's\_Rifle\_icon.png* | [Curator's Rifle](./Curator%27s%20Rifle.md) |
-| ![](../assets/Vaughn%27s_Rifle_icon.png) / *Vaughn's\_Rifle\_icon.png* | [Vaughn's Rifle](./Vaughn%27s%20Rifle.md) |
-| ![](../assets/Hunting_Lodge_Rifle_icon.png) / *Hunting\_Lodge\_Rifle\_icon.png* | [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) |
-| ![](../assets/Revolver_icon.png) / *Revolver\_icon.png* | [Revolver](./Revolver.md) |
-| ![](../assets/Forester%27s_Revolver_icon.png) / *Forester's\_Revolver\_icon.png* | [Forester's Revolver](./Forester%27s%20Revolver.md) |
-| ![](../assets/Hunter%27s_Revolver_icon.png) / *Hunter's\_Revolver\_icon.png* | [Hunter's Revolver](./Hunter%27s%20Revolver.md) |
-| ![](../assets/Warden%27s_Revolver_icon.png) / *Warden's\_Revolver\_icon.png* | [Warden's Revolver](./Warden%27s%20Revolver.md) |
+| ![](../assets/Hunting_Rifle_icon.png) / _Hunting\_Rifle\_icon.png_ | [Hunting Rifle](./Hunting%20Rifle.md) |
+| ![](../assets/Barb%27s_Rifle_icon.png) / _Barb's\_Rifle\_icon.png_ | [Barb's Rifle](./Barb%27s%20Rifle.md) |
+| ![](../assets/Bunker_Rifle_icon.png) / _Bunker\_Rifle\_icon.png_ | [Bunker Rifle](./Bunker%20Rifle.md) |
+| ![](../assets/Curator%27s_Rifle_icon.png) / _Curator's\_Rifle\_icon.png_ | [Curator's Rifle](./Curator%27s%20Rifle.md) |
+| ![](../assets/Vaughn%27s_Rifle_icon.png) / _Vaughn's\_Rifle\_icon.png_ | [Vaughn's Rifle](./Vaughn%27s%20Rifle.md) |
+| ![](../assets/Hunting_Lodge_Rifle_icon.png) / _Hunting\_Lodge\_Rifle\_icon.png_ | [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) |
+| ![](../assets/Revolver_icon.png) / _Revolver\_icon.png_ | [Revolver](./Revolver.md) |
+| ![](../assets/Forester%27s_Revolver_icon.png) / _Forester's\_Revolver\_icon.png_ | [Forester's Revolver](./Forester%27s%20Revolver.md) |
+| ![](../assets/Hunter%27s_Revolver_icon.png) / _Hunter's\_Revolver\_icon.png_ | [Hunter's Revolver](./Hunter%27s%20Revolver.md) |
+| ![](../assets/Warden%27s_Revolver_icon.png) / _Warden's\_Revolver\_icon.png_ | [Warden's Revolver](./Warden%27s%20Revolver.md) |
 
 The player is not currently able to clean the [Distress Pistol](./Distress%20Pistol.md) to improve its condition.
 
@@ -82,7 +77,7 @@ The cleaning skill does not unlock any perks, but gives a gradual reduction to t
 
 ### Rifle Firearms
 
-*Main article: [Rifle Firearm](./Rifle%20Firearm.md)*
+_Main article: [Rifle Firearm](./Rifle%20Firearm.md)_
 
 Proficiency in the primary survival skill Rifle Firearm can affect the amount of condition restored while cleaning rifles. These perks are additive to the table listed above:
 
@@ -95,7 +90,7 @@ Proficiency in the primary survival skill Rifle Firearm can affect the amount of
 
 ### Revolver Firearms
 
-*Main article: [Revolver Firearm](./Revolver%20Firearm.md)*
+_Main article: [Revolver Firearm](./Revolver%20Firearm.md)_
 
 Proficiency in the primary survival skill Revolver Firearm can affect the amount of condition restored while cleaning revolvers. These perks are additive to the table listed above:
 
@@ -109,5 +104,3 @@ Proficiency in the primary survival skill Revolver Firearm can affect the amount
 ## Trivia
 
 - The rifle cleaning mechanic was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298), also known as the Timberwolf Mountain update.
-
-**Lua execution error in Module:Navbox function navbox**

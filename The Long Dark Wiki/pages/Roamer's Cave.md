@@ -1,19 +1,14 @@
----
-title: "Roamer's Cave"
-wiki_namespace: 0
-categories: ["Caves", "Locations", "Locations in Sundered Pass", "Sheltered locations"]
-source: "https://thelongdark.fandom.com/wiki/Roamer's_Cave"
----
-
 # Roamer's Cave
+
+**Categories:** Caves, Locations, Locations in Sundered Pass, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Roamer's_Cave)
 
 **Roamer's Cave**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Roamer%27s_Cave.jpg) / *Roamer's\_Cave.jpg* |
+|  | ![](../assets/Roamer%27s_Cave.jpg) / _Roamer's\_Cave.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Roamer%27s_Cave_Location.png) / *Roamer's\_Cave\_Location.png* |
+|  | ![](../assets/Roamer%27s_Cave_Location.png) / _Roamer's\_Cave\_Location.png_ |
 | Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
 | **General** |  |
 | Type | Cave\|- |

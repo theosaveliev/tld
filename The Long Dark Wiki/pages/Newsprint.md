@@ -1,24 +1,19 @@
----
-title: "Newsprint"
-wiki_namespace: 0
-categories: ["Fire Starting"]
-source: "https://thelongdark.fandom.com/wiki/Newsprint"
----
-
 # Newsprint
+
+**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Newsprint)
 
 **Newsprint**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Newsprint_icon.png) / *newsprint\_icon.png* |
+|  | ![](../assets/Newsprint_icon.png) / _newsprint\_icon.png_ |
 | **General** |  |
 | Item Type | Fire Starting\|- |
 | Firestarting Slot | Tinder |
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 
-> “**Newsprint. Can be used as tinder.**”
+> “__Newsprint. Can be used as tinder.__”
 >
 > — In-game description
 
@@ -32,10 +27,8 @@ Newsprints fill the role of tinder, which is used for [fire starting](./Fire%20S
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Newsprint.png) / *Old model.* |
+![Old model.](../assets/Newsprint.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Old model._
 
 [ru:Газета](ru:%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0)

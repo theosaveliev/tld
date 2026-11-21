@@ -1,17 +1,12 @@
----
-title: "Notebook Page (Survival 2)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Notebook_Page_(Survival_2)"
----
-
 # Notebook Page \(Survival 2\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Notebook_Page_%28Survival_2%29)
 
 **Notebook Page (Survival 2)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Notebook_Page_%28Survival%29_icon.png) / *Notebook\_Page\_(Survival)\_icon.png* |
+|  | ![](../assets/Notebook_Page_%28Survival%29_icon.png) / _Notebook\_Page\_(Survival)\_icon.png_ |
 | Release | [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Notebook_Page_(Survival_2)"
 
 ## Transcript
 
-*The following text is transcribed from **Notebook Page***
+_The following text is transcribed from **Notebook Page**_
 
 **Glad I had my good pack with me on this trip. Some chest pain on the trek past the high falls, but I expected that after the last surgery.
 
@@ -37,7 +32,5 @@ Just going to hunker down in here until the storm passes. Tomorrow — high poin
 
 - UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Страница блокнота (Золотая шахта)](ru:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D0%B1%D0%BB%D0%BE%D0%BA%D0%BD%D0%BE%D1%82%D0%B0_%28%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F_%D1%88%D0%B0%D1%85%D1%82%D0%B0%29)

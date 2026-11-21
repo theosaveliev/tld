@@ -1,11 +1,6 @@
----
-title: "Trapping"
-wiki_namespace: 0
-categories: ["Gameplay", "Wildlife"]
-source: "https://thelongdark.fandom.com/wiki/Trapping"
----
-
 # Trapping
+
+**Categories:** Gameplay, Wildlife · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trapping)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Trapping"
 - [Broken Tip-Ups](#broken-tip-ups)
 - [Additional Tips](#additional-tips)
 
-"*You can use your energy chasing Rabbits and trying to stun them with stones, or you can use a more long-term strategy, Snares. Look for areas of high Rabbit activity, and place a Snare nearby. Check on it daily. You may get lucky and catch a Rabbit. You can set up multiple snares to increase your chances. A well maintained Trapline can be an excellent long-term source of food. Just remember, it may attract other wildlife!*"
+"_You can use your energy chasing Rabbits and trying to stun them with stones, or you can use a more long-term strategy, Snares. Look for areas of high Rabbit activity, and place a Snare nearby. Check on it daily. You may get lucky and catch a Rabbit. You can set up multiple snares to increase your chances. A well maintained Trapline can be an excellent long-term source of food. Just remember, it may attract other wildlife!_"
 
 — In-game description
 
@@ -77,12 +72,18 @@ Blizzards and general use will decay the Condition of a Tip-Up, and they can be 
 - Actively observing a trap when the snare is ready to check for rabbits will prevent them from appearing. However, this is easily remedied by briefly breaking line of sight and allowing the trap to check for rabbits. It is not necessary to leave the area, pass time, or sleep for traps to work. However, it can still be useful to transition between areas. If the player is not in the area when snares are ready to check for rabbits, they will wait until the player enters the area. This will force all snares to check simultaneously, potentially resulting in larger yields (remember, traps that have already caught rabbits reduce the chances of further catches).
 - When trapping in an area with few interior spaces (e.g. Timberwolf Mountain), it may help to set up traps with a delay between each setting and check multiple times during the course of a day for very high yields.
 - Moving a trap before it has caught a rabbit will reset the timer. It is best to leave set traps alone, provided you are confident they are placed accurately within a spawn point. Traps seem to check for rabbits once every 12 hours after being set (provided the player is in the area, otherwise they will wait to check until the player returns).
-- The Expert Trapper [feat](./Feats.md) will significantly increase the chances of any given snare producing a rabbit. (The mechanics for this are unclear, but may involve each snare checking for rabbits twice and taking the better result. The feat does *not* ensure that every placed trap will snare a rabbit)
+- The Expert Trapper [feat](./Feats.md) will significantly increase the chances of any given snare producing a rabbit. (The mechanics for this are unclear, but may involve each snare checking for rabbits twice and taking the better result. The feat does _not_ ensure that every placed trap will snare a rabbit)
 - The sheer quantity of rabbits that a dense cluster of well-placed traps will produce can make it difficult to fully harvest their carcasses. It may become a more efficient use of time to harvest only the meat, a modest number guts to replace broken traps, and hides strictly as needed for crafting/repairs. Allowing some hides/guts to go to waste can also save resources, since meat can be harvested by hand reasonably quickly, sparing use of a knife/whetstone.
 - When selecting an area for trapping, it's a good idea to consider how easy it is to find the area again to claim your catch, distance to your preferred shelter, and proximity of hostile wildlife that might smell your freshly caught rabbits. Transporting rabbits one at a time can reduce the risk of wolf encounters, as can cooking and eating them on the spot (only rabbits/meat/fresh guts in your inventory count for stinkiness).
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Setting many traps...](../assets/Placedtraps.png) / *Setting many traps...* | ![...will catch many rabbits.](../assets/Caughtrabbits.png) / *...will catch many rabbits.* | ![lining traps can help show the extents of the rabbit area.](../assets/Trapline.jpg) / *lining traps can help show the extents of the rabbit area.* |
+![Setting many traps...](../assets/Placedtraps.png)
 
-**Lua execution error in Module:Navbox function navbox** [es:Trampear](es:Trampear)
+_Setting many traps..._
+
+![...will catch many rabbits.](../assets/Caughtrabbits.png)
+
+_...will catch many rabbits._
+
+![lining traps can help show the extents of the rabbit area.](../assets/Trapline.jpg)
+
+_lining traps can help show the extents of the rabbit area._

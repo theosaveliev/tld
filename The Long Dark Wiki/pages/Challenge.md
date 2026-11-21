@@ -1,34 +1,29 @@
----
-title: "Challenge"
-wiki_namespace: 0
-categories: ["Challenges"]
-source: "https://thelongdark.fandom.com/wiki/Challenge"
----
-
 # Challenge
 
-**Challenges** are special survival scenarios within [*The Long Dark's*](./The%20Long%20Dark.md) [Survival Mode](./Survival%20Mode.md) sandbox. In addition to the normal survival mechanics, Challenges contain narrative-based objectives, unique gameplay and enemies not normally found in normal survival mode, and in some cases, a time limited objective. Challenges can be found within the Survival main menu as their own separate game mode.
+**Categories:** Challenges · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Challenge)
 
-There are currently eight challenges in the *[The Long Dark](./The%20Long%20Dark.md)*. Completing a Challenge will unlock a [Badge](./Badges.md) as proof of completion and allows the player to compare their completion time with other players. Completing all of them (excluding difficulty 6 challenges) yields the *Challenge Mastery* [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md).
+**Challenges** are special survival scenarios within [_The Long Dark's_](./The%20Long%20Dark.md) [Survival Mode](./Survival%20Mode.md) sandbox. In addition to the normal survival mechanics, Challenges contain narrative-based objectives, unique gameplay and enemies not normally found in normal survival mode, and in some cases, a time limited objective. Challenges can be found within the Survival main menu as their own separate game mode.
 
-| ![](../assets/Challenge_icon.png) / *Challenge\_icon.png* | Challenge | Description | Difficulty |
+There are currently eight challenges in the _[The Long Dark](./The%20Long%20Dark.md)_. Completing a Challenge will unlock a [Badge](./Badges.md) as proof of completion and allows the player to compare their completion time with other players. Completing all of them (excluding difficulty 6 challenges) yields the _Challenge Mastery_ [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md).
+
+| ![](../assets/Challenge_icon.png) / _Challenge\_icon.png_ | Challenge | Description | Difficulty |
 | --- | --- | --- | --- |
-| ![](../assets/Badge_challenge_hopelessRescue.png) / *Badge\_challenge\_hopelessRescue.png* | [Hopeless Rescue](./Hopeless%20Rescue.md) | Recover the Distress Pistol from the summit of Timberwolf Mountain. Fire it from the top of the Desolation Point Lighthouse. | 4 |
-| ![](../assets/The_Hunted_Part_One_icon.png) / *The\_Hunted\_Part\_One\_icon.png* | [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) | Avoid the Bear. Get to Trapper's Cabin in Mystery Lake. | 5 |
-| ![](../assets/Badge_challenge_huntedPart2.png) / *Badge\_challenge\_huntedPart2.png* | [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md) | Take the rifle and go face the Old Bear. | 5 |
+| ![](../assets/Badge_challenge_hopelessRescue.png) / _Badge\_challenge\_hopelessRescue.png_ | [Hopeless Rescue](./Hopeless%20Rescue.md) | Recover the Distress Pistol from the summit of Timberwolf Mountain. Fire it from the top of the Desolation Point Lighthouse. | 4 |
+| ![](../assets/The_Hunted_Part_One_icon.png) / _The\_Hunted\_Part\_One\_icon.png_ | [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) | Avoid the Bear. Get to Trapper's Cabin in Mystery Lake. | 5 |
+| ![](../assets/Badge_challenge_huntedPart2.png) / _Badge\_challenge\_huntedPart2.png_ | [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md) | Take the rifle and go face the Old Bear. | 5 |
 |  | [The Hunted, Part Three](./The%20Hunted%2C%20Part%20Three.md) | TBA | TBA |
-| ![](../assets/Badge_challenge_whiteout.png) / *Badge\_challenge\_whiteout.png* | [Whiteout](./Whiteout.md) | The storm arrives in 30 days. Stockpile enough food, water, and supplies in the Coastal Highway Quonset Garage before it hits. | 4 |
-| ![](../assets/Badge_challenge_nomad.png) / *Badge\_challenge\_nomad.png* | [Nomad](./Nomad.md) | Survive for 3 days each in 15 specific locations across the game world. | 3 |
-| ![](../assets/Badge_challenge_archivist.png) / *Badge\_challenge\_archivist.png* | [Archivist](./Archivist.md) | During the aurora, collect Buffer Memories from across Great Bear Island at the locations listed in your journal. | 3 |
-| ![](../assets/Badge_challenge_Deadman.png) / *Badge\_challenge\_Deadman.png* | [As the Dead Sleep](./As%20the%20Dead%20Sleep.md) | Visit all the grave sites marked on your map. There is no time limit. As your life ebbs, death is the only barrier. | 6 |
-| ![](../assets/Badge_Umbra.png) / *Badge\_Umbra.png* | [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) | Search for the Green Fires. Learn all you can about the Darkwalker. Knowledge will help you find a way to defeat the enemy. | 6 |
+| ![](../assets/Badge_challenge_whiteout.png) / _Badge\_challenge\_whiteout.png_ | [Whiteout](./Whiteout.md) | The storm arrives in 30 days. Stockpile enough food, water, and supplies in the Coastal Highway Quonset Garage before it hits. | 4 |
+| ![](../assets/Badge_challenge_nomad.png) / _Badge\_challenge\_nomad.png_ | [Nomad](./Nomad.md) | Survive for 3 days each in 15 specific locations across the game world. | 3 |
+| ![](../assets/Badge_challenge_archivist.png) / _Badge\_challenge\_archivist.png_ | [Archivist](./Archivist.md) | During the aurora, collect Buffer Memories from across Great Bear Island at the locations listed in your journal. | 3 |
+| ![](../assets/Badge_challenge_Deadman.png) / _Badge\_challenge\_Deadman.png_ | [As the Dead Sleep](./As%20the%20Dead%20Sleep.md) | Visit all the grave sites marked on your map. There is no time limit. As your life ebbs, death is the only barrier. | 6 |
+| ![](../assets/Badge_Umbra.png) / _Badge\_Umbra.png_ | [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) | Search for the Green Fires. Learn all you can about the Darkwalker. Knowledge will help you find a way to defeat the enemy. | 6 |
 
 The following 2 challenges were timed Events that are currently unavailable to be played within the game.
 
-| ![](../assets/Challenge_icon.png) / *Challenge\_icon.png* | Challenge | Description |
+| ![](../assets/Challenge_icon.png) / _Challenge\_icon.png_ | Challenge | Description |
 | --- | --- | --- |
-| ![](../assets/Badge_challenge_FourDaysOfNightFull.png) / *Badge\_challenge\_FourDaysOfNightFull.png* | [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md) | An endless night has arrived on Great Bear Island. Survive across 4 real world days as the island changes each day. Survive for 2 hours each day to accumulate progress. |
-| ![](../assets/Badge_WinterInJuly.png) / *Badge\_WinterInJuly.png* | [Winter's Embrace](./Winter%27s%20Embrace.md) | Survive an ever increasingly cold world as you hunt for 2 brand new food items. Average world temperatures are -10° C indoors and outdoors. |
+| ![](../assets/Badge_challenge_FourDaysOfNightFull.png) / _Badge\_challenge\_FourDaysOfNightFull.png_ | [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md) | An endless night has arrived on Great Bear Island. Survive across 4 real world days as the island changes each day. Survive for 2 hours each day to accumulate progress. |
+| ![](../assets/Badge_WinterInJuly.png) / _Badge\_WinterInJuly.png_ | [Winter's Embrace](./Winter%27s%20Embrace.md) | Survive an ever increasingly cold world as you hunt for 2 brand new food items. Average world temperatures are -10° C indoors and outdoors. |
 
 ## History
 
@@ -41,10 +36,8 @@ The following 2 challenges were timed Events that are currently unavailable to b
 
 ## Pause Menu icons
 
-| Column 1 |
-| --- |
-| ![4DON](../assets/Halloween_icon.png) / *4DON* |
+![4DON](../assets/Halloween_icon.png)
 
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Категория:Испытания](ru:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D1%8F)
+_4DON_
 
 [fr:Défis](fr:D%C3%A9fis)

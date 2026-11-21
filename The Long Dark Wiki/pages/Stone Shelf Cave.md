@@ -1,18 +1,13 @@
----
-title: "Stone Shelf Cave"
-wiki_namespace: 0
-categories: ["Caves", "Locations", "Locations in Ash Canyon", "Sheltered locations"]
-source: "https://thelongdark.fandom.com/wiki/Stone_Shelf_Cave"
----
-
 # Stone Shelf Cave
+
+**Categories:** Caves, Locations, Locations in Ash Canyon, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stone_Shelf_Cave)
 
 **Stone Shelf Cave**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/20201212003001_1.jpg) / *20201212003001\_1.jpg* |
+|  | ![](../assets/20201212003001_1.jpg) / _20201212003001\_1.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Stone_Shelf_Cave_Location.png) / *Stone\_Shelf\_Cave\_Location.png* |
+|  | ![](../assets/Stone_Shelf_Cave_Location.png) / _Stone\_Shelf\_Cave\_Location.png_ |
 | Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
 | Type | Cave\|- |

@@ -1,11 +1,6 @@
----
-title: "Book"
-wiki_namespace: 0
-categories: ["Fire Starting", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Book"
----
-
 # Book
+
+**Categories:** Fire Starting, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Book)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Book"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Book_icon.png) / *Book\_icon.png* |
+|  | ![](../assets/Book_icon.png) / _Book\_icon.png_ |
 | Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212) |
 | Wintermute | No |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Book"
 | **Values** |  |
 | Weight | 0.50 kg (1.1 lbs) |
 
-A **Book** is a material item in *[The Long Dark](./The%20Long%20Dark.md)*.
+A **Book** is a material item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 Books are a fuel source for fires. Using a book when starting a fire increases the probability of success by 35%, but books do not provide much heat or burn time. Books are commonly inside houses, especially larger homes and cabins.
 
@@ -53,20 +48,56 @@ Although books are the worst fuel in terms of burn time to weight, they have the
 
 - Non-Research Books cannot be read.
 - The player is implied to start with and carry a book at all times (their Journal).
-- Books are unique among all items in *The Long Dark* for having multiple models. There are 12 in total with unique cover art, with 3 open variants.
+- Books are unique among all items in _The Long Dark_ for having multiple models. There are 12 in total with unique cover art, with 3 open variants.
 - Different types of (non-Research Books) will stack together in the player's inventory or if placed in containers;. This irreversibly changes their model into that of the generic book when removed (featured above).
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Old model.](../assets/Book.png) / *Old model.* | ![Ditto, orange variant](../assets/Book_Old.jpg) / *Ditto, orange variant* | ![All Book variants. The open versions are the same as the ones below them.](../assets/Book_Variants.jpg) / *All Book variants. The open versions are the same as the ones below them.* | ![Backpack icon](../assets/Ico_GearItem_BookA.png) / *Backpack icon* |
-| ![Unused Backpack icon](../assets/Ico_GearItem_BookB.png) / *Unused Backpack icon* | ![Ditto](../assets/Ico_GearItem_BookCOpen.png) / *Ditto* | ![Ditto](../assets/Ico_GearItem_BookD.png) / *Ditto* | ![Ditto](../assets/Ico_GearItem_BookDOpen.png) / *Ditto* |
-| ![Ditto](../assets/Ico_GearItem_BookE.png) / *Ditto* | ![Ditto](../assets/Ico_GearItem_BookEOpen.png) / *Ditto* | ![Ditto](../assets/Ico_GearItem_BookF.png) / *Ditto* |  |
+![Old model.](../assets/Book.png)
+
+_Old model._
+
+![Ditto, orange variant](../assets/Book_Old.jpg)
+
+_Ditto, orange variant_
+
+![All Book variants. The open versions are the same as the ones below them.](../assets/Book_Variants.jpg)
+
+_All Book variants. The open versions are the same as the ones below them._
+
+![Backpack icon](../assets/Ico_GearItem_BookA.png)
+
+_Backpack icon_
+
+![Unused Backpack icon](../assets/Ico_GearItem_BookB.png)
+
+_Unused Backpack icon_
+
+![Ditto](../assets/Ico_GearItem_BookCOpen.png)
+
+_Ditto_
+
+![Ditto](../assets/Ico_GearItem_BookD.png)
+
+_Ditto_
+
+![Ditto](../assets/Ico_GearItem_BookDOpen.png)
+
+_Ditto_
+
+![Ditto](../assets/Ico_GearItem_BookE.png)
+
+_Ditto_
+
+![Ditto](../assets/Ico_GearItem_BookEOpen.png)
+
+_Ditto_
+
+![Ditto](../assets/Ico_GearItem_BookF.png)
+
+_Ditto_
 
 ## Update history
 
 - UPDATE **1 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.212)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Книга](ru:%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0)

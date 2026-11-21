@@ -1,11 +1,6 @@
----
-title: "The Frozen Angler"
-wiki_namespace: 0
-categories: ["Fire Starting", "Ice Fishing", "Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/The_Frozen_Angler"
----
-
 # The Frozen Angler
+
+**Categories:** Fire Starting, Ice Fishing, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Frozen_Angler)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Frozen_Angler"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Frozen_Angler_icon.png) / *The\_Frozen\_Angler\_icon.png* |
+|  | ![](../assets/The_Frozen_Angler_icon.png) / _The\_Frozen\_Angler\_icon.png_ |
 | Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.346) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -32,13 +27,13 @@ source: "https://thelongdark.fandom.com/wiki/The_Frozen_Angler"
 | **Actions** |  |
 | Backpack | Research, Drop |
 
-*For the version encountered in [Wintermute](./Wintermute.md), see [The Frozen Angler (Survival School)](./The%20Frozen%20Angler%20%28Survival%20School%29.md).*
+_For the version encountered in [Wintermute](./Wintermute.md), see [The Frozen Angler (Survival School)](./The%20Frozen%20Angler%20%28Survival%20School%29.md)._
 
 **The Frozen Angler** is a [Research Book](./Research%20Book.md) used to improve the [Ice Fishing](./Ice%20Fishing.md) skill. It can also be used as Fuel when starting a [Fire](./Fire.md).
 
 ## Research info
 
-*The Frozen Angler* can be researched for 5 hours, which can be broken into multiple research sessions. 10 [Ice Fishing skill points](./Ice%20Fishing.md#Skill_levels) are awarded on completing the research.
+_The Frozen Angler_ can be researched for 5 hours, which can be broken into multiple research sessions. 10 [Ice Fishing skill points](./Ice%20Fishing.md#Skill_levels) are awarded on completing the research.
 
 Research can only be performed under the following conditions:
 
@@ -62,18 +57,20 @@ Research can only be performed under the following conditions:
 ## Trivia
 
 - Reaching 0% in any Needs while researching will immediately end the research session and negate any progress for that research attempt.
-- Attempting to burn a copy of *The Frozen Angler* when it has not been fully read will give a confirmation warning before it can be burned.
-- Once a copy of *The Frozen Angler* is fully researched, it will no longer appear in the Tools section of the Backpack.
+- Attempting to burn a copy of _The Frozen Angler_ when it has not been fully read will give a confirmation warning before it can be burned.
+- Once a copy of _The Frozen Angler_ is fully researched, it will no longer appear in the Tools section of the Backpack.
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![3D Model](../assets/The_frozen_angler.png) / *3D Model* | ![Old model](../assets/Frozen_Angler_Old.png) / *Old model* |
+![3D Model](../assets/The_frozen_angler.png)
+
+_3D Model_
+
+![Old model](../assets/Frozen_Angler_Old.png)
+
+_Old model_
 
 ## Update history
 
 - UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#.346)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**

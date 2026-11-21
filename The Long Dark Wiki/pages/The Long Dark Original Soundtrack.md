@@ -1,11 +1,6 @@
----
-title: "The Long Dark Original Soundtrack"
-wiki_namespace: 0
-categories: ["Music", "Soundtrack"]
-source: "https://thelongdark.fandom.com/wiki/The_Long_Dark_Original_Soundtrack"
----
-
 # The Long Dark Original Soundtrack
+
+**Categories:** Music, Soundtrack · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Long_Dark_Original_Soundtrack)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Long_Dark_Original_Soundtrack"
 - [Notes](#notes)
 - [External Links](#external-links)
 
-**The Long Dark Original Soundtrack** is the soundtrack to *[The Long Dark](./The%20Long%20Dark.md)*, composed by Cris Velasco (Story Mode) and Sascha Dikiciyan (Survival Mode), and published by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md). Three volumes have been released with a total of 176 tracks and over 288 minutes (4 hours, 48 minutes) of music.
+**The Long Dark Original Soundtrack** is the soundtrack to _[The Long Dark](./The%20Long%20Dark.md)_, composed by Cris Velasco (Story Mode) and Sascha Dikiciyan (Survival Mode), and published by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md). Three volumes have been released with a total of 176 tracks and over 288 minutes (4 hours, 48 minutes) of music.
 
 Volume One was released on Steam as DLC on August 28, 2017 and later on Bandcamp on June 22, 2018. Volume Two was released on Steam on May 19, 2020 and on Bandcamp in mid-June 2020. Volume Three was released on Steam and Bandcamp on May 5, 2026.
 
@@ -121,7 +116,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 
 ### Volume Two
 
-![Original 2020 cover](../assets/Cover.png)*Original 2020 cover* ![Updated 2026 cover](../assets/Coverv2.png)*Updated 2026 cover*
+![Original 2020 cover](../assets/Cover.png)_Original 2020 cover_ ![Updated 2026 cover](../assets/Coverv2.png)_Updated 2026 cover_
 
 | No. | Title | Length | Appearance |
 | --- | --- | --- | --- |
@@ -295,5 +290,3 @@ Working titles sourced from the composers' websites and SoundCloud: \[b\]–\[e\
 - [Soundtrack on Bandcamp](https://hinterlandstudio.bandcamp.com/)
 - [Cris Velasco's website](http://crisvelasco.com/)
 - [Sascha Dikiciyan's website](https://www.sonicmayhem.com/)
-
-**Lua execution error in Module:Navbox function navbox**

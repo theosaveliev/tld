@@ -1,17 +1,12 @@
----
-title: "Mine Gate Key"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Mine_Gate_Key"
----
-
 # Mine Gate Key
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mine_Gate_Key)
 
 **Mine Gate Key**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mine_Gate_Key_icon.png) / *Mine\_Gate\_Key\_icon.png* |
+|  | ![](../assets/Mine_Gate_Key_icon.png) / _Mine\_Gate\_Key\_icon.png_ |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -38,7 +33,5 @@ It is also the name of a key found at the bottom of the [Langston Mine](./Langst
   - Added to game in Episode 4.
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to Survival Mode.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**
 
 [ru:Ключ от главных ворот](ru:%D0%9A%D0%BB%D1%8E%D1%87_%D0%BE%D1%82_%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D1%85_%D0%B2%D0%BE%D1%80%D0%BE%D1%82)

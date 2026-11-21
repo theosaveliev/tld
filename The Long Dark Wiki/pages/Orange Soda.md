@@ -1,11 +1,6 @@
----
-title: "Orange Soda"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Orange_Soda"
----
-
 # Orange Soda
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Orange_Soda)
 
 **Contents**
 
@@ -14,13 +9,13 @@ source: "https://thelongdark.fandom.com/wiki/Orange_Soda"
 - [Gallery](#gallery)
 - [Update history](#update-history)
 
-*For other sodas, see [Soda (disambiguation)](./Soda%20%28disambiguation%29.md).*
+_For other sodas, see [Soda (disambiguation)](./Soda%20%28disambiguation%29.md)._
 
 **Orange Soda**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Orange_Soda_icon.png) / *Orange\_Soda\_icon.png* |
+|  | ![](../assets/Orange_Soda_icon.png) / _Orange\_Soda\_icon.png_ |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
 | Wintermute | No |
 | **Properties** |  |
@@ -34,7 +29,7 @@ source: "https://thelongdark.fandom.com/wiki/Orange_Soda"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_OrangeSoda |
 
-**Orange Soda** is a packaged [food](./Food%20And%20Drink.md) item in [*The Long Dark*](./The%20Long%20Dark.md).
+**Orange Soda** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
@@ -46,19 +41,17 @@ Orange Soda never causes [Food Poisoning](./Food%20Poisoning.md).
 
 ## Trivia
 
-- Orange Soda is packaged as a product named "*Snappy Orange Pop",* possibly a reference to the real-world soda company "Fanta."
+- Orange Soda is packaged as a product named "_Snappy Orange Pop",_ possibly a reference to the real-world soda company "Fanta."
 - "Pop" is a dialectical term for soda in some parts of English-speaking North America.
 - The back of an Orange Soda lists "Ingredients: Carbonated Water, High Fructose Corn Syrup, Natural Flavours, Citric Acid, Yellow 6, Red 40."
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Orange_soda.png) / *old model* |
+![old model](../assets/Orange_soda.png)
+
+_old model_
 
 ## Update history
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Апельсиновая содовая вода](ru:%D0%90%D0%BF%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%BE%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B4%D0%B0)

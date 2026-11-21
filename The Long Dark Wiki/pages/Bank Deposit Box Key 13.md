@@ -1,17 +1,12 @@
----
-title: "Bank Deposit Box Key 13"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_13"
----
-
 # Bank Deposit Box Key 13
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_13)
 
 **Bank Deposit Box Key (#13)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bank_Deposit_Box_Key_13_icon.png) / *Bank\_Deposit\_Box\_Key\_13\_icon.png* |
+|  | ![](../assets/Bank_Deposit_Box_Key_13_icon.png) / _Bank\_Deposit\_Box\_Key\_13\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Safety Deposit Box Keys](./Milton%20Safety%20Deposit%20Box%20Keys.md) |
 | **Properties** |  |
@@ -29,11 +24,9 @@ It is located on a corpse near the frozen river between [Orca Gas Station](./Orc
 
 ![Key is located here.](../assets/Location.Key.13.png)
 
-*Key is located here.*
+_Key is located here._
 
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

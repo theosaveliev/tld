@@ -1,11 +1,6 @@
----
-title: "Stump Remover"
-wiki_namespace: 0
-categories: ["Materials"]
-source: "https://thelongdark.fandom.com/wiki/Stump_Remover"
----
-
 # Stump Remover
+
+**Categories:** Materials · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stump_Remover)
 
 **Contents**
 
@@ -18,18 +13,18 @@ source: "https://thelongdark.fandom.com/wiki/Stump_Remover"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Stump_Remover_icon.png) / *Stump\_Remover\_icon.png* |
+|  | ![](../assets/Stump_Remover_icon.png) / _Stump\_Remover\_icon.png_ |
 | **General** |  |
 | Item Type | Material\|- |
 | Renewable | Yes (very rare [Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
 
-> “**An herbicide, this chemical can also be used to Craft Gunpowder.**”
+> “__An herbicide, this chemical can also be used to Craft Gunpowder.__”
 >
 > — In-game descripton
 
-**Stump Remover** is a crafting material for [Gunsmithing](./Gunsmithing.md) in *The Long Dark*.
+**Stump Remover** is a crafting material for [Gunsmithing](./Gunsmithing.md) in _The Long Dark_.
 
 ## Overview
 
@@ -89,5 +84,3 @@ Some observed spawn points include:
 - Stump Remover is branded as the product "Stump Buster", with potassium nitrate as an active ingredient.
 - Potassium Nitrate is used to accelerate the decomposition of wood, and is used to rot stumps to ease removal.
 - The Errant Pilgrim update introduced [Gunsmithing](./Gunsmithing.md).
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Can of Gunpowder"
-wiki_namespace: 0
-categories: ["Tools"]
-source: "https://thelongdark.fandom.com/wiki/Can_of_Gunpowder"
----
-
 # Can of Gunpowder
+
+**Categories:** Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Can_of_Gunpowder)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Can_of_Gunpowder"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Can_of_Gunpowder_icon.png) / *Can\_of\_Gunpowder\_icon.png* |
+|  | ![](../assets/Can_of_Gunpowder_icon.png) / _Can\_of\_Gunpowder\_icon.png_ |
 | Release | [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64) |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md) the crafting ingredients or ammuition that can be harvested, [Trader](./Trader.md) for ammunition that can be harvested) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Can_of_Gunpowder"
 | **Values** |  |
 | Weight | 0.50 kg (1.1 lbs) |
 
-**Can of Gunpowder** is an item in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Can of Gunpowder** is an item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -76,5 +71,3 @@ At least 1 Gunpowder can will be located inside [Last Prospect](./Last%20Prospec
 - The in-game recipe actually creates black powder (considering ingredients), which in real life would be almost useless to reload any modern rounds due to much slower combustion and therefore lesser kinetic energy of bullets. Using ammunition crafted in that way could result in jamming of the barrel. Black powder also leaves a lot more residue in the firearm, causing the need to clean it more often.
 - In previous versions, a glitch was present where reloading save files or exiting/entering buildings would refill dropped cans of gunpowder to their maximum of 0.5kg.
 - The Errant Pilgrim update introduced [Gunsmithing](./Gunsmithing.md).
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Банка с порохом](ru:%D0%91%D0%B0%D0%BD%D0%BA%D0%B0_%D1%81_%D0%BF%D0%BE%D1%80%D0%BE%D1%85%D0%BE%D0%BC)

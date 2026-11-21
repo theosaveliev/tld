@@ -1,17 +1,12 @@
----
-title: "Molly's Husband"
-wiki_namespace: 0
-categories: ["Characters"]
-source: "https://thelongdark.fandom.com/wiki/Molly's_Husband"
----
-
 # Molly's Husband
+
+**Categories:** Characters · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Molly's_Husband)
 
 **Molly's Husband**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Molly%27s_Husband_Picture.png) / *Molly's\_Husband\_Picture.png* |
+|  | ![](../assets/Molly%27s_Husband_Picture.png) / _Molly's\_Husband\_Picture.png_ |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
 | Mission | [Trauma](./Trauma.md) |
 | Location(s) | [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) |
@@ -24,7 +19,7 @@ source: "https://thelongdark.fandom.com/wiki/Molly's_Husband"
 | **Physical Information** |  |
 | Hair | Black |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
 **Molly's Husband** is the deceased former husband of [Molly](./Molly.md) found by [Astrid Greenwood](./Astrid%20Greenwood.md) at the start of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). He is found as a corpse near the start of the Episode.
 
@@ -42,8 +37,14 @@ Though Molly feels more liberated than ever, Molly's has developed an unhealthy 
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Molly's Husband once the cloth is pulled back.](../assets/Molly%27s_Husband.jpg) / *Molly's Husband once the cloth is pulled back.* | ![Astrid finding a body on a table with a cloth covering it.](../assets/Molly%27s_Husband_Table.jpg) / *Astrid finding a body on a table with a cloth covering it.* | ![The exploded rifle.](../assets/Molly%27s_Broken_Rifle.jpg) / *The exploded rifle.* |
+![Molly's Husband once the cloth is pulled back.](../assets/Molly%27s_Husband.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Муж Молли](ru:%D0%9C%D1%83%D0%B6_%D0%9C%D0%BE%D0%BB%D0%BB%D0%B8)
+_Molly's Husband once the cloth is pulled back._
+
+![Astrid finding a body on a table with a cloth covering it.](../assets/Molly%27s_Husband_Table.jpg)
+
+_Astrid finding a body on a table with a cloth covering it._
+
+![The exploded rifle.](../assets/Molly%27s_Broken_Rifle.jpg)
+
+_The exploded rifle._

@@ -1,11 +1,6 @@
----
-title: "Airplane"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Airplane"
----
-
 # Airplane
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Airplane)
 
 **Contents**
 
@@ -14,7 +9,7 @@ source: "https://thelongdark.fandom.com/wiki/Airplane"
 - [Destroyed Planes](#destroyed-planes)
 - [Gallery](#gallery)
 
-![Airplane.jpg](../assets/Airplane.jpg) An **Airplane** is a rare stationary [Vehicle](./Vehicle.md) found in *The Long Dark*.
+![Airplane.jpg](../assets/Airplane.jpg) An **Airplane** is a rare stationary [Vehicle](./Vehicle.md) found in _The Long Dark_.
 
 ## Overview
 
@@ -30,8 +25,14 @@ Other crashed planes are rarely found on the Island, and are almost always destr
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![](../assets/Airplane_Yellow.jpg) / *Airplane\_Yellow.jpg* | ![](../assets/Float_Airplane.jpg) / *Float\_Airplane.jpg* | ![](../assets/Airplane_Cockpit_Aurora.jpg) / *Airplane\_Cockpit\_Aurora.jpg* |
+![](../assets/Airplane_Yellow.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_Airplane\_Yellow.jpg_
+
+![](../assets/Float_Airplane.jpg)
+
+_Float\_Airplane.jpg_
+
+![](../assets/Airplane_Cockpit_Aurora.jpg)
+
+_Airplane\_Cockpit\_Aurora.jpg_

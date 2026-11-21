@@ -1,19 +1,14 @@
----
-title: "Grand Meadow"
-wiki_namespace: 0
-categories: ["Blackrock", "Landmarks", "Locations", "Locations in Blackrock", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Grand_Meadow"
----
-
 # Grand Meadow
+
+**Categories:** Blackrock, Landmarks, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Grand_Meadow)
 
 **Grand Meadow**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Grand_Meadow.jpg) / *Grand\_Meadow.jpg* |
+|  | ![](../assets/Grand_Meadow.jpg) / _Grand\_Meadow.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Grand_Meadow_Location.png) / *Grand\_Meadow\_Location.png* |
+|  | ![](../assets/Grand_Meadow_Location.png) / _Grand\_Meadow\_Location.png_ |
 | Region |  |
 | Location | Between Power Plant and Forager's Remnant |
 | **General** |  |

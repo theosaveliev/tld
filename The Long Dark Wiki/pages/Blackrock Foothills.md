@@ -1,10 +1,6 @@
----
-title: "Blackrock Foothills"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Blackrock_Foothills"
----
-
 # Blackrock Foothills
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_Foothills)
 
 **Contents**
 
@@ -21,10 +17,10 @@ source: "https://thelongdark.fandom.com/wiki/Blackrock_Foothills"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/No_picture.png) / *No\_picture.png* |
+|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/No_picture.png) / *No\_picture.png* |
-|  | ![](../assets/Blackrock_Foothills_In-Game_Map.png) / *Blackrock\_Foothills\_In-Game\_Map.png* |
+|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
+|  | ![](../assets/Blackrock_Foothills_In-Game_Map.png) / _Blackrock\_Foothills\_In-Game\_Map.png_ |
 | **Details** |  |
 | Description | A mountainous region with a large mine bisecting it. |
 | Connecting Regions | [Suzuki Environs](./Suzuki%20Environs.md) |
@@ -68,8 +64,6 @@ Almost every floor of the mine has at least one area full of posionous chemical 
 - Jace does the "Uhm, Actually" pose during a cutscene. I'm serious.[¹](#fn1)
 - There is a paved segment of road in the clearing where the Logging Camp is situated, and according to the [Blackrock Foothills Map](./Blackrock%20Foothills%20Map.md), it seems the road leading to it most likely led out of the region. It is unknown when the road became inaccessible, though it may be implied this alternative path is the one that the Convicts take to find Jace and Mackenzie.
 - While the Player doesn't physically walk to the Unstable Mine's entrance, it may have been planned for them to walk to it based on the out-of-bounds space in the region, among other things.[²](#fn2)
-
-**Lua execution error in Module:Navbox function navbox**
 
 ## Notes
 

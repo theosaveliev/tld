@@ -1,11 +1,6 @@
----
-title: "The Hunted, Part Two"
-wiki_namespace: 0
-categories: ["Challenges"]
-source: "https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_Two"
----
-
 # The Hunted, Part Two
+
+**Categories:** Challenges · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_Two)
 
 **Contents**
 
@@ -22,26 +17,26 @@ source: "https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_Two"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Challenge_Hunted2.png) / *Challenge\_Hunted2.png* |
+|  | ![](../assets/Challenge_Hunted2.png) / _Challenge\_Hunted2.png_ |
 | **Details** |  |
 | Regions | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) |
 | Difficulty | 5 |
 | Date Added | September 2016 |
 
-> “**Now you're the Hunter. With the Bearkiller Rifle in hand, track the Old Bear to its Den.**”
+> “__Now you're the Hunter. With the Bearkiller Rifle in hand, track the Old Bear to its Den.__”
 >
 > — Main Menu description
 
-> “**Now you're the Hunter. With the Bearkiller Rifle in hand, track the Old Bear to its Den.  
- Take the rifle and go face the Old Bear.**”
+> “__Now you're the Hunter. With the Bearkiller Rifle in hand, track the Old Bear to its Den.  
+ Take the rifle and go face the Old Bear.__”
 >
 > — Opening description
 
-**The Hunted, Part Two** is one of eight [challenges](./Challenge.md) in [*The Long Dark*](./The%20Long%20Dark.md), and is the sequel to [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) and can only be played when finishing the first challenge. Completing Part Two unlocks [The Hunted, Part Three](./The%20Hunted%2C%20Part%20Three.md).
+**The Hunted, Part Two** is one of eight [challenges](./Challenge.md) in [_The Long Dark_](./The%20Long%20Dark.md), and is the sequel to [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) and can only be played when finishing the first challenge. Completing Part Two unlocks [The Hunted, Part Three](./The%20Hunted%2C%20Part%20Three.md).
 
 ## Overview
 
-> “**Track the Old Bear and kill it.**”
+> “__Track the Old Bear and kill it.__”
 >
 > — Journal Objective
 
@@ -101,8 +96,10 @@ This Challenge is quite similar to the mission [Jeremiah's Folly](./Jeremiah%27s
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The badge awarded upon completing the challenge](../assets/Badge_challenge_huntedPart2.png) / *The badge awarded upon completing the challenge* | ![Fan art](../assets/Hunted_2.jpg) / *Fan art* |
+![The badge awarded upon completing the challenge](../assets/Badge_challenge_huntedPart2.png)
 
-**Lua execution error in Module:Navbox function navbox**[ru:Добыча: Часть 2](ru:%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B0:_%D0%A7%D0%B0%D1%81%D1%82%D1%8C_2) [es:La presa, Parte dos](es:La_presa,_Parte_dos)
+_The badge awarded upon completing the challenge_
+
+![Fan art](../assets/Hunted_2.jpg)
+
+_Fan art_

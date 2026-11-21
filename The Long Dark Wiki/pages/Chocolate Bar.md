@@ -1,11 +1,6 @@
----
-title: "Chocolate Bar"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Chocolate_Bar"
----
-
 # Chocolate Bar
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Chocolate_Bar)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Chocolate_Bar"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Chocolate_Bar_icon.png) / *Chocolate\_Bar\_icon.png* |
+|  | ![](../assets/Chocolate_Bar_icon.png) / _Chocolate\_Bar\_icon.png_ |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
@@ -33,9 +28,9 @@ source: "https://thelongdark.fandom.com/wiki/Chocolate_Bar"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_CandyBar |
 
-*For the version encountered during the event [4 Days of Night](./4%20Days%20of%20Night%20Event.md), see [Chocolate Bar (4 Days of Night)](./Chocolate%20Bar%20%284%20Days%20of%20Night%29.md).*
+_For the version encountered during the event [4 Days of Night](./4%20Days%20of%20Night%20Event.md), see [Chocolate Bar (4 Days of Night)](./Chocolate%20Bar%20%284%20Days%20of%20Night%29.md)._
 
-**Chocolate Bar**, sometimes labeled in game as **Candy Bar**, is a packaged [food](./Food%20And%20Drink.md) item in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Chocolate Bar**, sometimes labeled in game as **Candy Bar**, is a packaged [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -49,9 +44,13 @@ The back of a Candy Bar lists "Ingredients: Chocolate, Almonds, Sugar, Salt, Nat
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Old model called "Candy Bar"](../assets/Candy_bar.png) / *Old model called "Candy Bar"* | ![Chocolate bar labeled as "Candy Bar" in game](../assets/Candy_Bar.jpg) / *Chocolate bar labeled as "Candy Bar" in game* |
+![Old model called "Candy Bar"](../assets/Candy_bar.png)
+
+_Old model called "Candy Bar"_
+
+![Chocolate bar labeled as "Candy Bar" in game](../assets/Candy_Bar.jpg)
+
+_Chocolate bar labeled as "Candy Bar" in game_
 
 ## Update history
 
@@ -60,5 +59,3 @@ The back of a Candy Bar lists "Ingredients: Chocolate, Almonds, Sugar, Salt, Nat
   - Item name changed from 'Candy Bar' to 'Chocolate Bar'.
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [fr:Barre chocolatée](fr:Barre_chocolat%C3%A9e) [es:Chocolatina](es:Chocolatina) [ru:Шоколадная плитка](ru:%D0%A8%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%B8%D1%82%D0%BA%D0%B0)

@@ -1,17 +1,12 @@
----
-title: "Rustic Storage Trunk"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Rustic_Storage_Trunk"
----
-
 # Rustic Storage Trunk
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rustic_Storage_Trunk)
 
 **Rustic Storage Trunk**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rustic_Storage_Trunk_icon.png) / *Rustic\_Storage\_Trunk\_icon.png* |
+|  | ![](../assets/Rustic_Storage_Trunk_icon.png) / _Rustic\_Storage\_Trunk\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 5.00 kg (11 lbs) |
@@ -50,5 +45,3 @@ Despite having a Backpack carry weight value, the trunk cannot be picked up and 
 | Quantity | 9 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Сундук в деревенском стиле](ru:%D0%A1%D1%83%D0%BD%D0%B4%D1%83%D0%BA_%D0%B2_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D1%81%D1%82%D0%B8%D0%BB%D0%B5)

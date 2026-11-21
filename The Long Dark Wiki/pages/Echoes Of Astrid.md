@@ -1,11 +1,6 @@
----
-title: "Echoes Of Astrid"
-wiki_namespace: 0
-categories: ["Episode 1", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid"
----
-
 # Echoes Of Astrid
+
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Echoes_Of_Astrid.jpg) / *Echoes\_Of\_Astrid.jpg* |
+|  | ![](../assets/Echoes_Of_Astrid.jpg) / _Echoes\_Of\_Astrid.jpg_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Previous | [Survival Of The Fittest](./Survival%20Of%20The%20Fittest.md) |
 | Current | Echoes Of Astrid |
@@ -28,11 +23,11 @@ source: "https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid"
 | Region | [Mountain Town](./Mountain%20Town.md) |
 | Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Grey Mother](./Grey%20Mother.md) |
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Did Astrid survive the crash? Keep your eyes open for signs of her passing, while you explore the wilderness around you.**
+**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Did Astrid survive the crash? Keep your eyes open for signs of her passing, while you explore the wilderness around you.__
 
 In-game description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}**Echoes of Astrid** was the second mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of *[The Long Dark](./The%20Long%20Dark.md)* by using the [Time Capsule](./Time%20Capsule.md).
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}**Echoes of Astrid** was the second mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 This episode has since been replaced by [The Crash](./The%20Crash.md).
 
@@ -85,5 +80,3 @@ Several plot points and locations have been replaced/altered since the Redux re-
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from the game as part of the Redux edition.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**

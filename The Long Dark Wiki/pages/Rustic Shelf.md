@@ -1,11 +1,6 @@
----
-title: "Rustic Shelf"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Rustic_Shelf"
----
-
 # Rustic Shelf
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rustic_Shelf)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Rustic_Shelf"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rustic_Shelf_icon.png) / *Rustic\_Shelf\_icon.png* |
+|  | ![](../assets/Rustic_Shelf_icon.png) / _Rustic\_Shelf\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 6.00 kg (13.2 lbs) |
@@ -57,5 +52,3 @@ The Rustic Shelf can be harvested with a [Hatchet](./Hatchet.md) in 1 hour 15 mi
 | Quantity | 8 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Полка в деревенском стиле](ru:%D0%9F%D0%BE%D0%BB%D0%BA%D0%B0_%D0%B2_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D1%81%D1%82%D0%B8%D0%BB%D0%B5)

@@ -1,11 +1,6 @@
----
-title: "Birch Bark"
-wiki_namespace: 0
-categories: ["Fire Starting", "Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Birch_Bark"
----
-
 # Birch Bark
+
+**Categories:** Fire Starting, Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Birch_Bark)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Birch_Bark"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Birch_Bark_icon.png) / *Birch\_Bark\_icon.png* |
+|  | ![](../assets/Birch_Bark_icon.png) / _Birch\_Bark\_icon.png_ |
 | Release | [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256) |
 | Wintermute | Yes (bug?) |
 | Renewable | Yes |
@@ -34,7 +29,7 @@ source: "https://thelongdark.fandom.com/wiki/Birch_Bark"
 | Backpack | Drop |
 | On ground | Take It, Leave It |
 
-**Birch Bark** is a natural medical, food and firestarting item in *The Long Dark*.
+**Birch Bark** is a natural medical, food and firestarting item in _The Long Dark_.
 
 ## Overview
 
@@ -78,7 +73,7 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 - It is possible to survive exclusively on Birch Bark Tea, especially on easier difficulties or by using the starvation strategy (only eating just before sleep).
 - [Birch Bark Tea](./Birch%20Bark%20Tea.md) is disabled during the [Challenge](./Challenge.md): [As the Dead Sleep](./As%20the%20Dead%20Sleep.md), but Birch Bark may still be collected and used as [Tinder](./Tinder%20Plug.md).
 - [Cup of Coffee](./Cup%20of%20Coffee.md) is the only item which can restore all 4 [Needs](./Needs.md) (if consumed while hot), but [Birch Bark Tea](./Birch%20Bark%20Tea.md) functions similarly with its benefit [Restore Condition](./Restore%20Condition.md), since this heals Condition (2.5% hourly) faster than [Fatigue](./Fatigue.md) damages it (1% hourly), so it is possible to survive indefinitely without sleep by drinking 1 cup of [Birch Bark Tea](./Birch%20Bark%20Tea.md) every 5 hours (albeit at 0% [Fatigue](./Fatigue.md), moving slowly and unable to climb/sprint).
-- Birch Bark is a real-world item acquired from Birch trees of the genus *[Betula](https://en.wikipedia.org/wiki/Birch_bark)*, found across Eurasia and North America. It has a consistency and workability similar to that of cardboard, and has been used in a number of industries for hundreds of years including the making of paper, storage containers, canoes, shoes and roofing.
+- Birch Bark is a real-world item acquired from Birch trees of the genus _[Betula](https://en.wikipedia.org/wiki/Birch_bark)_, found across Eurasia and North America. It has a consistency and workability similar to that of cardboard, and has been used in a number of industries for hundreds of years including the making of paper, storage containers, canoes, shoes and roofing.
 - Consumption of Birch Bark or Birch Tea has no significant documental medical benefits, though it is commonly drunk ("[Birch Beer](https://en.wikipedia.org/wiki/Birch_beer)") in North-Eastern United States and Newfoundland (Canada).
 - Real-World Birch Bark is typically harvested directly from the trunks of dead trees (removing bark from live trees is hazardous to their health), which is partially supported in-game where only loose pieces from the ground are acquired. However in survival situations (rather than in luxury industries), removal of birch bark from live trees (injuring/killing them in the process) is more common.
 
@@ -88,5 +83,3 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
   - Description updated from: Birch tree bark. Lightweight and flamable, this bark can be used as tinder
 - UPDATE **1 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Березовая кора](ru:%D0%91%D0%B5%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%BE%D1%80%D0%B0)

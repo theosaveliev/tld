@@ -1,19 +1,14 @@
----
-title: "Lineworker's Hideout"
-wiki_namespace: 0
-categories: ["Blackrock", "Caves", "Locations", "Locations in Blackrock", "Sheltered locations"]
-source: "https://thelongdark.fandom.com/wiki/Lineworker's_Hideout"
----
-
 # Lineworker's Hideout
+
+**Categories:** Blackrock, Caves, Locations, Locations in Blackrock, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lineworker's_Hideout)
 
 **Lineworker's Hideout**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Lineworker%27s_Hideout.jpg) / *Lineworker's\_Hideout.jpg* |
+|  | ![](../assets/Lineworker%27s_Hideout.jpg) / _Lineworker's\_Hideout.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Lineworker%27s_Hideout_Location.png) / *Lineworker's\_Hideout\_Location.png* |
+|  | ![](../assets/Lineworker%27s_Hideout_Location.png) / _Lineworker's\_Hideout\_Location.png_ |
 | Region |  |
 | Location | Between the Old Substation and Narrow Bridge |
 | **General** |  |

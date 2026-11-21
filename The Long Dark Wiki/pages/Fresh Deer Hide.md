@@ -1,11 +1,6 @@
----
-title: "Fresh Deer Hide"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Fresh_Deer_Hide"
----
-
 # Fresh Deer Hide
+
+**Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fresh_Deer_Hide)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Fresh_Deer_Hide"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fresh_Deer_Hide_icon.png) / *Fresh\_Deer\_Hide\_icon.png* |
+|  | ![](../assets/Fresh_Deer_Hide_icon.png) / _Fresh\_Deer\_Hide\_icon.png_ |
 | Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233) |
 | Wintermute | No |
 | **Properties** |  |
@@ -44,9 +39,13 @@ Deer are quite common and can often be found in pairs of 2 or 3. Occasionally, a
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Old model.](../assets/Fresh_deer_hide.png) / *Old model.* | ![old model](../assets/Deer_Hide_old_icon.png) / *old model* |
+![Old model.](../assets/Fresh_deer_hide.png)
+
+_Old model._
+
+![old model](../assets/Deer_Hide_old_icon.png)
+
+_old model_
 
 ## Update history
 
@@ -58,7 +57,5 @@ Deer are quite common and can often be found in pairs of 2 or 3. Occasionally, a
   - Fixed issue where some containers could be inactive when containing hides.
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Свежая оленья шкура](ru:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B5%D0%BD%D1%8C%D1%8F_%D1%88%D0%BA%D1%83%D1%80%D0%B0)

@@ -1,11 +1,6 @@
----
-title: "Perseverance Mills"
-wiki_namespace: 0
-categories: ["Locations", "Perseverance Mills", "Settlements", "Story", "Wintermute"]
-source: "https://thelongdark.fandom.com/wiki/Perseverance_Mills"
----
-
 # Perseverance Mills
+
+**Categories:** Locations, Perseverance Mills, Settlements, Story, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Perseverance_Mills)
 
 **Contents**
 
@@ -24,10 +19,10 @@ source: "https://thelongdark.fandom.com/wiki/Perseverance_Mills"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Perseverance_Mills.jpg) / *Perseverance\_Mills.jpg* |
+|  | ![](../assets/Perseverance_Mills.jpg) / _Perseverance\_Mills.jpg_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/No_picture.png) / *No\_picture.png* |
-|  | ![](../assets/Perseverance_Mills_in-game_map.png) / *Perseverance\_Mills\_in-game\_map.png* |
+|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
+|  | ![](../assets/Perseverance_Mills_in-game_map.png) / _Perseverance\_Mills\_in-game\_map.png_ |
 | **Details** |  |
 | Description | An old, inhabited logging and milling town suffering from a quarantine |
 | Connecting Regions | [Desperation Bay](./Desperation%20Bay.md) / [Perseverance Wilds](./Perseverance%20Wilds.md) / [Railway](./Railway.md) (unused) |
@@ -36,15 +31,15 @@ source: "https://thelongdark.fandom.com/wiki/Perseverance_Mills"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / *2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png* | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | **Shit-nothing town, north part of the island? Yeah...I know it.** / [Jeremiah](./Jeremiah.md) | ” |
+| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_ | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | __Shit-nothing town, north part of the island? Yeah...I know it.__ / [Jeremiah](./Jeremiah.md) | ” |
 
-**Perseverance Mills**is a town and Wintermute exclusive [Region](./Region.md) in *[The Long Dark](./The%20Long%20Dark.md)*. It is mentioned several times throughout [Wintermute](./Wintermute.md) and is the initial centerpiece of [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md).
+**Perseverance Mills**is a town and Wintermute exclusive [Region](./Region.md) in _[The Long Dark](./The%20Long%20Dark.md)_. It is mentioned several times throughout [Wintermute](./Wintermute.md) and is the initial centerpiece of [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md).
 
 The region connects to the nearby regions of [Desperation Bay](./Desperation%20Bay.md) and [Perseverance Wilds](./Perseverance%20Wilds.md). The region is currently Wintermute exclusive, and does not appear in [Survival Mode](./Survival%20Mode.md).
 
 ## Overview
 
-> “**I seem to recall...a town somewhere up north. Far. What was it called...That's it -- Perseverance Mills**”
+> “__I seem to recall...a town somewhere up north. Far. What was it called...That's it -- Perseverance Mills__”
 >
 > — [Grey Mother](./Grey%20Mother.md)
 
@@ -110,10 +105,42 @@ No spoilers.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![The docks at the end of Episode 4.](../assets/Perseverance_Mills.png) / *The docks at the end of Episode 4.* | ![An aerial view of the docks](../assets/Perseverance_Mills_docks.jpg) / *An aerial view of the docks* | ![another view of the docks](../assets/Perseverance_Mills_docks_2.jpg) / *another view of the docks* | ![The word "Perseverance" written in blood by Astrid in the Prison Bus](../assets/Perseverance.jpg) / *The word "Perseverance" written in blood by Astrid in the Prison Bus* |
-| ![](../assets/Perseverence_logo.png) / *Perseverence\_logo.png* | ![The possible location along the coast (top right) of the Mills, according to an old Hinterland map](../assets/Global_map_Published_by_development_team.jpg) / *The possible location along the coast (top right) of the Mills, according to an old Hinterland map* | ![2 inhabitants of the town known only as "Townsperson One" and "Townsperson Two."](../assets/Townsperson_1_and_2.jpg) / *2 inhabitants of the town known only as "Townsperson One" and "Townsperson Two."* | ![Concept Art of the Mills](../assets/Perseverance_Mills_Concept_Art.jpg) / *Concept Art of the Mills* |
-| ![Concept art of Cooper's Blind](../assets/Tld-april-dev-diary-bar-counter-view.jpg) / *Concept art of Cooper's Blind* | ![Ditto](../assets/Tld-april-dev-diary-balcony-view-res-resized.jpg) / *Ditto* |  |  |
+![The docks at the end of Episode 4.](../assets/Perseverance_Mills.png)
 
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**
+_The docks at the end of Episode 4._
+
+![An aerial view of the docks](../assets/Perseverance_Mills_docks.jpg)
+
+_An aerial view of the docks_
+
+![another view of the docks](../assets/Perseverance_Mills_docks_2.jpg)
+
+_another view of the docks_
+
+![The word "Perseverance" written in blood by Astrid in the Prison Bus](../assets/Perseverance.jpg)
+
+_The word "Perseverance" written in blood by Astrid in the Prison Bus_
+
+![](../assets/Perseverence_logo.png)
+
+_Perseverence\_logo.png_
+
+![The possible location along the coast (top right) of the Mills, according to an old Hinterland map](../assets/Global_map_Published_by_development_team.jpg)
+
+_The possible location along the coast (top right) of the Mills, according to an old Hinterland map_
+
+![2 inhabitants of the town known only as "Townsperson One" and "Townsperson Two."](../assets/Townsperson_1_and_2.jpg)
+
+_2 inhabitants of the town known only as "Townsperson One" and "Townsperson Two."_
+
+![Concept Art of the Mills](../assets/Perseverance_Mills_Concept_Art.jpg)
+
+_Concept Art of the Mills_
+
+![Concept art of Cooper's Blind](../assets/Tld-april-dev-diary-bar-counter-view.jpg)
+
+_Concept art of Cooper's Blind_
+
+![Ditto](../assets/Tld-april-dev-diary-balcony-view-res-resized.jpg)
+
+_Ditto_

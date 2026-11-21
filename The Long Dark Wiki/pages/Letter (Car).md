@@ -1,17 +1,12 @@
----
-title: "Letter (Car)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Letter_(Car)"
----
-
 # Letter \(Car\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Letter_%28Car%29)
 
 **Letter**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Letter_%28Car%29_icon.png) / *Letter\_(Car)\_icon.png* |
+|  | ![](../assets/Letter_%28Car%29_icon.png) / _Letter\_(Car)\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Letter_(Car)"
 
 ## Transcript
 
-*The following text is transcribed from **Letter***
+_The following text is transcribed from **Letter**_
 
 **\[heading on the letter is smudged and unreadable\]
 
@@ -46,5 +41,3 @@ Editor-in-Chief**
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

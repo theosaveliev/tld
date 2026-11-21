@@ -1,16 +1,12 @@
----
-title: "Prologue/Transcript"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Prologue%2FTranscript"
----
-
 # Prologue/Transcript
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Prologue%2FTranscript)
 
 **Prologue/Transcript**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Prologue.png) / *Prologue.png* |
+|  | ![](../assets/Prologue.png) / _Prologue.png_ |
 | Episode |  |
 | **Missions** |  |
 | Previous | [Aftermath/Transcript](./Aftermath%20%E2%80%94%20Transcript.md) |
@@ -23,15 +19,15 @@ This is the mission transcript for the opening [Prologue](./Prologue.md) of [Epi
 
 ## Recap
 
-*A story recap begins as the opening cutscene*
+_A story recap begins as the opening cutscene_
 
-*A shot of the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) in [Milton](./Milton.md) appears*
+_A shot of the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) in [Milton](./Milton.md) appears_
 
 PREVIOUSLY ON THE LONG DARK
 
 [Hobbs](./Hobbs.md): "You think they put me on that bus for my good behaviour?"
 
-*The scene shifts to a dying Hobbs on the couch in the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) farmhouse*
+_The scene shifts to a dying Hobbs on the couch in the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) farmhouse_
 
 Hobbs: "That's the bus to Blackrock."
 
@@ -39,19 +35,19 @@ Hobbs: "That's the bus to Blackrock."
 
 Hobbs: "Yeah, you know. Blackrock Federal Pen. Ha ha."
 
-*Scene shifts to a [Dead Prison Guard](./Dead%20Prison%20Guard.md) from [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md)*
+_Scene shifts to a [Dead Prison Guard](./Dead%20Prison%20Guard.md) from [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md)_
 
 Hobbs: "Where they put the worst of the bad people..."
 
-*Scene shifts to a dead [Convict](./Convicts.md) in a shed*
+_Scene shifts to a dead [Convict](./Convicts.md) in a shed_
 
 Hobbs: "People too bad for the Mainland."
 
-*Scene shifts to Mackenzie turning on the radio in [Trapper's Homestead](./Trapper%27s%20Homestead.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md)*
+_Scene shifts to Mackenzie turning on the radio in [Trapper's Homestead](./Trapper%27s%20Homestead.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md)_
 
 Mackenzie: "Hello? Is this the radio station at [Perseverance Mills](./Perseverance%20Mills.md)? Is there a doctor with you?"
 
-*Scene shifts to the broken [Shortwave Tower West](./Shortwave%20Tower%20West.md) at night during a full moon*
+_Scene shifts to the broken [Shortwave Tower West](./Shortwave%20Tower%20West.md) at night during a full moon_
 
 [Radio Voice Man](./Characters.md#Radio_Voice_Man): "We need a doctor...or...medical assistance. Anything"
 
@@ -61,11 +57,11 @@ Mackenzie: "Atwood. Got it. What's the message?"
 
 Jeremiah: " "Wintermute." "
 
-*Scene changes to the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) Staging Area at night during the aurora*
+_Scene changes to the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) Staging Area at night during the aurora_
 
 Jeremiah: "Just that. Atwood will know what it means."
 
-*Scene changes to Mackenzie waking up, after being tied up in the Dam*
+_Scene changes to Mackenzie waking up, after being tied up in the Dam_
 
 Mackenzie: "Ah...ah..."
 
@@ -79,23 +75,23 @@ Mackenzie: "She?"
 
 Mathis: "Don't worry, pilot. You'll be with her soon."
 
-*The man strikes Mackenzie with the back of the axe, and the scene ends.*
+_The man strikes Mackenzie with the back of the axe, and the scene ends._
 
 ## Prologue
 
-*The sound of a wolf howl echoes across a black screen before the sounds of footsteps join in.*
+_The sound of a wolf howl echoes across a black screen before the sounds of footsteps join in._
 
 [Vachon](./Vachon.md): "Why do we have to carry this sack of shit? He's heavy as hell."
 
-*Mackenzie opens his eyes. The sky is moving, as if he is on his back being carried*
+_Mackenzie opens his eyes. The sky is moving, as if he is on his back being carried_
 
 [Heller](./Heller.md): "Shut the fuck up. Mathis says carry the asshole, we carry him."
 
-*Mackenzie closes his eyes again, with more wolves howling in the background. The sound of crows circling overhead can also be heard*
+_Mackenzie closes his eyes again, with more wolves howling in the background. The sound of crows circling overhead can also be heard_
 
 Vachon: "They're getting closer. You hear about what happened to Leclerc?"
 
-*A [Crow](./Crow.md) begins circling overhead*
+_A [Crow](./Crow.md) begins circling overhead_
 
 EPISODE FOUR
 
@@ -107,7 +103,7 @@ Heller: "Really. Wolves don't use bows. You figure that all out by yourself?"
 
 Vachon: "Piss off. Something is hunting us out here and it ain't just wolves."
 
-*Mackenzie raises his hands, only to see them bound. He struggles to break free*
+_Mackenzie raises his hands, only to see them bound. He struggles to break free_
 
 Heller: "Mathis'll figure it out."
 
@@ -119,17 +115,17 @@ Vachon: "Donner. That crazy fucker...this is bullshi..."
 
 Heller: "Shh...he's coming back here."
 
-*Mackenzie looks up to see Heller's back and mutters*
+_Mackenzie looks up to see Heller's back and mutters_
 
 [Will Mackenzie](./Will%20Mackenzie.md): "Wa...water."
 
 Vachon: "Hey...hey Mathis."
 
-*Mackenzie looks forward and sees Vachon, carrying him*
+_Mackenzie looks forward and sees Vachon, carrying him_
 
 Vachon: "He's finally awake."
 
-*Mackenzie is put down on the snow, and Mathis walks over. A sign near him reads "FEDERAL PENITENTIARY/*PÉNITÉNCIÈR FÉDÉRAL. No Trespassing/Passagé Interdit"
+_Mackenzie is put down on the snow, and Mathis walks over. A sign near him reads "FEDERAL PENITENTIARY/_PÉNITÉNCIÈR FÉDÉRAL. No Trespassing/Passagé Interdit"
 
 Mathis: "Well well...he lives."
 
@@ -139,7 +135,7 @@ Mathis: "Turns out you have a damn hard head, pilot."
 
 Mackenzie: "I told you I was stubborn. The...w...woman?"
 
-*Mathis thinks for a moment*
+_Mathis thinks for a moment_
 
 Mathis: "Oh, you mean the one you asked about in the dam?"
 
@@ -147,7 +143,7 @@ Mackenzie: "Yeah."
 
 Mathis: "She's still there. Won't be going anywhere soon."
 
-*Mathis gives a devilish grin*
+_Mathis gives a devilish grin_
 
 Mackenzie: "You bastard."
 
@@ -157,7 +153,7 @@ Mackenzie: "How do you..."
 
 Mathis: "Just some...old lady lost in the woods. Wandered into the dam when I was there. She saw me and wouldn't stop screaming so...I shut her up."
 
-*Mathis gives another devilish grin*
+_Mathis gives another devilish grin_
 
 Mackenzie: "Monster."
 
@@ -167,25 +163,25 @@ Mackenzie: "I...it doesn't matter."
 
 Mathis: "Could it have anything to do with this?"
 
-*Mathis produces [Astrid's Hardcase](./Astrid%27s%20Hardcase.md)*
+_Mathis produces [Astrid's Hardcase](./Astrid%27s%20Hardcase.md)_
 
 Mackenzie: "I told you, I don't know what that is."
 
 Mathis: "Well...it's ok, pilot. We'll find a way to open it, very soon. And then we'll both know what's inside."
 
-*Mathis gets up and Mackenzie closes his eyes*
+_Mathis gets up and Mackenzie closes his eyes_
 
 Mathis: "Hey uh, Mackenzie?"
 
-*Mackenzie opens his eyes to see Mathis in his face*
+_Mackenzie opens his eyes to see Mathis in his face_
 
 Mackenzie: "...Y...yeah?"
 
-*Mathis smiles like he is almost unable to contain his laughter*
+_Mathis smiles like he is almost unable to contain his laughter_
 
 Mathis: "You look like shit."
 
-*Mathis gets up and Mackenzie closes his eyes again*
+_Mathis gets up and Mackenzie closes his eyes again_
 
 Vachon: "Shit, Mathis...how long we have to carry this heavy bastard for?"
 
@@ -193,15 +189,15 @@ Heller: "Shut up, man."
 
 Mathis: "That heavy bastard may be our ticket off this rock. So carry him. And like the man says -- shut the fuck up."
 
-*A [Timberwolf](./Timberwolf.md) pack begins howling in the distance, likely lead to the 4 by the circling crow, hurried footsteps ring out*
+_A [Timberwolf](./Timberwolf.md) pack begins howling in the distance, likely lead to the 4 by the circling crow, hurried footsteps ring out_
 
 Vachon: "They found us!"
 
-*Mackenzie opens his eyes*
+_Mackenzie opens his eyes_
 
 Heller: "AAARGH..."
 
-*A Timberwolf nips at Vachon's hand and he lets go of the stretcher carrying Mackenzie before grabbing it again. Then the Timberwolf bites his back and Vachon lets go of the stretcher, sending Mackenzie tumbling through the snow, falling off just as the stretcher goes over a cliff*
+_A Timberwolf nips at Vachon's hand and he lets go of the stretcher carrying Mackenzie before grabbing it again. Then the Timberwolf bites his back and Vachon lets go of the stretcher, sending Mackenzie tumbling through the snow, falling off just as the stretcher goes over a cliff_
 
 Vachon: "HELLER!! Get it off me!!'
 
@@ -209,25 +205,25 @@ Heller: "Damn it...I need a weapon."
 
 Mathis: "COME AND GET SOME YOU FUCKERS!!!!!"
 
-*Mackenzie turns around to see Mathis kick a Timberwolf and it flinches with a yelp. Vachon is overwhelmed in a [Struggle](./Struggle.md) with a Timberwolf, while Heller stands around panicking without a weapon. Mackenzie then turns his attention back to the cliff*
+_Mackenzie turns around to see Mathis kick a Timberwolf and it flinches with a yelp. Vachon is overwhelmed in a [Struggle](./Struggle.md) with a Timberwolf, while Heller stands around panicking without a weapon. Mackenzie then turns his attention back to the cliff_
 
 Mackenzie: "Got to move."
 
-*Mackenzie throws himself off the cliff, sliding down the snowy slope until the screen turns black as he goes flying and hits the bottom of the ravine. He awakes shortly afterwards and looks back up to see Vachon and Heller*
+_Mackenzie throws himself off the cliff, sliding down the snowy slope until the screen turns black as he goes flying and hits the bottom of the ravine. He awakes shortly afterwards and looks back up to see Vachon and Heller_
 
 Heller: "Where's the pilot???"
 
-*Mackenzie turns his focus to a path ahead of him in the ravine*
+_Mackenzie turns his focus to a path ahead of him in the ravine_
 
-Mackenzie: "Can't let them find me." *He looks at the bindings on his wrists* "need my hands free."
+Mackenzie: "Can't let them find me." _He looks at the bindings on his wrists_ "need my hands free."
 
 ## Escape the Convicts.
 
-*The player has control at this point and Mackenzie starts walking.*
+_The player has control at this point and Mackenzie starts walking._
 
 Mathis: "Where'd he go?"
 
-*If the player waits around, they can hear the trio struggling to find Mackenzie after they fended off the Timberwolf attack, with random lines playing. The voice lines switch between Mathis, Vachon, and Heller depend on how much progress they make through the ravine*
+_If the player waits around, they can hear the trio struggling to find Mackenzie after they fended off the Timberwolf attack, with random lines playing. The voice lines switch between Mathis, Vachon, and Heller depend on how much progress they make through the ravine_
 
 - Mathis: "I don't see him."
 - Mathis: "Where'd he go?"
@@ -264,39 +260,39 @@ Mathis: "Where'd he go?"
 - Vachon: "See anything?"
 - Vachon: "Wolves out there?"
 
-*After proceeding down the ravine far enough*
+_After proceeding down the ravine far enough_
 
 Mathis: "Move your ass. Gotta be around here somewhere."
 
-*After proceeding far enough away, Mackenzie begins finding a rocky tunnel in the ravine*
+_After proceeding far enough away, Mackenzie begins finding a rocky tunnel in the ravine_
 
 Mackenzie: "Have to stay out of sight."
 
-*Mackenzie begins inside the tunnel*
+_Mackenzie begins inside the tunnel_
 
 Vachon: "Where did he go?"
 
 Mathis: "You'd better get him or there'll be hell to pay..."
 
-*At this point, the voices go silent, until Mackenzie finds a rocky slit in the wall and hears a voice*
+_At this point, the voices go silent, until Mackenzie finds a rocky slit in the wall and hears a voice_
 
 Heller: "Any sign of him?"
 
-*Mackenzie panics and dives down to below the rocky opening*
+_Mackenzie panics and dives down to below the rocky opening_
 
 Vachon: "No. Nothing. But those fucking wolves..."
 
-*Mackenzie peers up and sees Vachon and Heller jump down, both oblivious to his presence*
+_Mackenzie peers up and sees Vachon and Heller jump down, both oblivious to his presence_
 
 Vachon: "I need a smoke."
 
-*Vachon lights up a ciggerete with his lighter*
+_Vachon lights up a ciggerete with his lighter_
 
 Heller: "Nevermind the wolves, we gotta find him fast."
 
 Vachon: "What the hell. Let him run. He won't get far with those wolves hunting him."
 
-*Mackenzie rubs his bound hands to warm them*
+_Mackenzie rubs his bound hands to warm them_
 
 Heller: "Look, you dumbass. Mathis says the pilot's our ticket off this damn island. Don't you want to get back to the Mainland?"
 
@@ -306,32 +302,30 @@ Heller: "Let's go find this guy, before Mathis loses his temper again. You know 
 
 Vachon: "Let's go. Between Mathis and the wolves...I have a bad feeling about this place."
 
-*Vachon throws his ciggerete in the snow. It sizzles out and falls near Mackenzie, then the duo walk away without seeing him*
+_Vachon throws his ciggerete in the snow. It sizzles out and falls near Mackenzie, then the duo walk away without seeing him_
 
 Mackenzie: "Better keep going."
 
-*Mackenzie keeps going, until he finds [Forester's Hermitage](./Forester%27s%20Hermitage.md) and a rusty two man saw stuck in a tree stump*
+_Mackenzie keeps going, until he finds [Forester's Hermitage](./Forester%27s%20Hermitage.md) and a rusty two man saw stuck in a tree stump_
 
 Mackenzie: "Rusty saw blade. Might be sharp enough to cut this rope."
 
-*If the player tries to use the [Rock Climb](./Rock%20Climb.md) across the pond before cutting your bindings, Mackenzie will say*
+_If the player tries to use the [Rock Climb](./Rock%20Climb.md) across the pond before cutting your bindings, Mackenzie will say_
 
 Mackenzie: "I need to get my hands free."
 
-*If the player idles:*
+_If the player idles:_
 
 Mackenzie: "I need something to cut this rope."
 
-*Mackenzie cuts himself free and removes the bindings. Then climbs out of the ravine. Just as he climbs to the top, Mathis appears waiting for him, striking Mackeznie on the head with the Hardcase before he can react. Mathis stands grinning*
+_Mackenzie cuts himself free and removes the bindings. Then climbs out of the ravine. Just as he climbs to the top, Mathis appears waiting for him, striking Mackeznie on the head with the Hardcase before he can react. Mathis stands grinning_
 
 Mathis: "Looks like I finally found a use for your metal case."
 
-*Mathis holds the Hardcase up before leaning closer*
+_Mathis holds the Hardcase up before leaning closer_
 
 Mathis: "We have unfinished business, pilot. Stick around."
 
-*Mackenzie blacks out*
+_Mackenzie blacks out_
 
 The story continues in [Blackrock Blues/Transcript](./Blackrock%20Blues%20%E2%80%94%20Transcript.md).
-
-**Lua execution error in Module:Navbox function navbox**

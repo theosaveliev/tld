@@ -1,11 +1,6 @@
----
-title: "Notes"
-wiki_namespace: 0
-categories: ["Collectibles"]
-source: "https://thelongdark.fandom.com/wiki/Notes"
----
-
 # Notes
+
+**Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Notes)
 
 **Contents**
 
@@ -207,12 +202,10 @@ There are currently 102 notes in total to find.
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![](../assets/A_Note_Left_Behind.jpg) / *A\_Note\_Left\_Behind.jpg* |
+![](../assets/A_Note_Left_Behind.jpg)
+
+_A\_Note\_Left\_Behind.jpg_
 
 ## References
 
 &lt;div class="references-small" ;"&gt;
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [es:Nota dejada atras](es:Nota_dejada_atras) [ru:Записки](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8)

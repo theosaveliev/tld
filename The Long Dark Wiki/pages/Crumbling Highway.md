@@ -1,26 +1,21 @@
----
-title: "Crumbling Highway"
-wiki_namespace: 0
-categories: ["Transition zones"]
-source: "https://thelongdark.fandom.com/wiki/Crumbling_Highway"
----
-
 # Crumbling Highway
+
+**Categories:** Transition zones · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crumbling_Highway)
 
 **Crumbling Highway**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/RegionAtlas-resources.assets-562_%283%29.png) / *RegionAtlas-resources.assets-562\_(3).png* |
+|  | ![](../assets/RegionAtlas-resources.assets-562_%283%29.png) / _RegionAtlas-resources.assets-562\_(3).png_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Crumbling_Highway_Location.png) / *Crumbling\_Highway\_Location.png* |
-|  | ![](../assets/Old_Island_Connector_map.png) / *Old\_Island\_Connector\_map.png* |
+|  | ![](../assets/Crumbling_Highway_Location.png) / _Crumbling\_Highway\_Location.png_ |
+|  | ![](../assets/Old_Island_Connector_map.png) / _Old\_Island\_Connector\_map.png_ |
 | **Details** |  |
 | Description | A transition zone between [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md) featuring the ruins of the [Great Bear Highway](./Great%20Bear%20Highway.md). |
 | Connecting Regions | [Coastal Highway](./Coastal%20Highway.md), / [Desolation Point](./Desolation%20Point.md) |
 | Locations | 5 |
 
-**Crumbling Highway** (also known as the **Old Island Connector**) is the 3rd Transition Zone [Region](./Region.md) released for *[The Long Dark](./The%20Long%20Dark.md)*. It connects [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md). It is the smallest outdoor map in the game.
+**Crumbling Highway** (also known as the **Old Island Connector**) is the 3rd Transition Zone [Region](./Region.md) released for _[The Long Dark](./The%20Long%20Dark.md)_. It connects [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md). It is the smallest outdoor map in the game.
 
 The eastern end of the area sits [No. 3 Coal Mine](./No.%203%20Coal%20Mine.md), which leads to Desolation Point. On the western side of the region lies an entrance to Coastal Highway. A frozen coastline curves along the south side of the road.
 
@@ -51,12 +46,44 @@ There are also 2 unmarked locations in the region.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A detailed map of Crumbling Highway (all difficulties) v2.35](../assets/CRH_map.png) / *A detailed map of Crumbling Highway (all difficulties) v2.35* | ![An outdated map of Crumbling Highway v1.93](../assets/Map-OICCrH-Lv3-v193-110.png) / *An outdated map of Crumbling Highway v1.93* | ![An outdated map of Crumbling Highway](../assets/Crumbling_Highway_map_by_whiteberry-toarda.png) / *An outdated map of Crumbling Highway* | ![Road Collapse.](../assets/Road_Collapse.jpg) / *Road Collapse.* |
-| ![An alternative view of Road Collapse.](../assets/Road_Collapse_02.jpg) / *An alternative view of Road Collapse.* | ![Abandoned Harris Home.](../assets/Abandoned_Harris_Home.jpg) / *Abandoned Harris Home.* | ![An alternative view of Abandoned Harris Home.](../assets/Abandoned_Harris_Home_02.jpg) / *An alternative view of Abandoned Harris Home.* | ![A view of Crumbling Highway from Coastal Highway entrance.](../assets/Crumbling_Highway.jpg) / *A view of Crumbling Highway from Coastal Highway entrance.* |
-| ![An alternative view of Crumbling Highway from Coastal Highway entrance.](../assets/Crumbling_Highway_02.jpg) / *An alternative view of Crumbling Highway from Coastal Highway entrance.* | ![A view of the entrance to Abandoned Mine No.3 (West).](../assets/Abandoned_Mine_No.3_%28West%29.jpg) / *A view of the entrance to Abandoned Mine No.3 (West).* |  |  |
+![A detailed map of Crumbling Highway (all difficulties) v2.35](../assets/CRH_map.png)
 
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**
+_A detailed map of Crumbling Highway (all difficulties) v2.35_
+
+![An outdated map of Crumbling Highway v1.93](../assets/Map-OICCrH-Lv3-v193-110.png)
+
+_An outdated map of Crumbling Highway v1.93_
+
+![An outdated map of Crumbling Highway](../assets/Crumbling_Highway_map_by_whiteberry-toarda.png)
+
+_An outdated map of Crumbling Highway_
+
+![Road Collapse.](../assets/Road_Collapse.jpg)
+
+_Road Collapse._
+
+![An alternative view of Road Collapse.](../assets/Road_Collapse_02.jpg)
+
+_An alternative view of Road Collapse._
+
+![Abandoned Harris Home.](../assets/Abandoned_Harris_Home.jpg)
+
+_Abandoned Harris Home._
+
+![An alternative view of Abandoned Harris Home.](../assets/Abandoned_Harris_Home_02.jpg)
+
+_An alternative view of Abandoned Harris Home._
+
+![A view of Crumbling Highway from Coastal Highway entrance.](../assets/Crumbling_Highway.jpg)
+
+_A view of Crumbling Highway from Coastal Highway entrance._
+
+![An alternative view of Crumbling Highway from Coastal Highway entrance.](../assets/Crumbling_Highway_02.jpg)
+
+_An alternative view of Crumbling Highway from Coastal Highway entrance._
+
+![A view of the entrance to Abandoned Mine No.3 (West).](../assets/Abandoned_Mine_No.3_%28West%29.jpg)
+
+_A view of the entrance to Abandoned Mine No.3 (West)._
 
 [es:Autovía derruida](es:Autov%C3%ADa_derruida) [ru:Старый остров между зонами](ru:%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83_%D0%B7%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8)

@@ -1,17 +1,12 @@
----
-title: "Old Substation Work Memo"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Old_Substation_Work_Memo"
----
-
 # Old Substation Work Memo
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Substation_Work_Memo)
 
 **Old Substation Work Memo**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Old_Substation_Work_Memo_icon.png) / *Old\_Substation\_Work\_Memo\_icon.png* |
+|  | ![](../assets/Old_Substation_Work_Memo_icon.png) / _Old\_Substation\_Work\_Memo\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Old_Substation_Work_Memo"
 
 ## Transcript
 
-*The following text is transcribed from **Old Substation Work Memo***
+_The following text is transcribed from **Old Substation Work Memo**_
 
 **\[letterhead from a prison support company sub-contractor\]
 
@@ -40,5 +35,3 @@ We're doing our best down here in Central to get you guys some more help this ye
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

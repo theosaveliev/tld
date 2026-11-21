@@ -1,11 +1,6 @@
----
-title: "Survival Bow"
-wiki_namespace: 0
-categories: ["Craftable tools", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Survival_Bow"
----
-
 # Survival Bow
+
+**Categories:** Craftable tools, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survival_Bow)
 
 **Contents**
 
@@ -28,21 +23,21 @@ source: "https://thelongdark.fandom.com/wiki/Survival_Bow"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Survival_Bow_icon.png) / *Survival\_Bow\_icon.png* |
+|  | ![](../assets/Survival_Bow_icon.png) / _Survival\_Bow\_icon.png_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | No |
 | Renewable | Yes |
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
-| Harvest | *Unharvestable* |
-| Repair | *Unrepairable* |
+| Harvest | _Unharvestable_ |
+| Repair | _Unrepairable_ |
 
-> “**A simple, improvised bow, suitable for hunting small game.**”
+> “__A simple, improvised bow, suitable for hunting small game.__”
 >
 > — In-game description
 
-*This article is about the normal Bow. For variants, see [Woodwright's Bow](./Woodwright%27s%20Bow.md), [Sport Bow](./Sport%20Bow.md) and [Bushcraft Bow](./Bushcraft%20Bow.md).*
+_This article is about the normal Bow. For variants, see [Woodwright's Bow](./Woodwright%27s%20Bow.md), [Sport Bow](./Sport%20Bow.md) and [Bushcraft Bow](./Bushcraft%20Bow.md)._
 
 The **Survival Bow** is a maple self-backed longbow that shoots [Simple Arrows](./Simple%20Arrow.md), [Fire Hardened Arrows](./Fire%20Hardened%20Arrow.md), and [Manufactured Arrows](./Manufactured%20Arrow.md) at targets such as [Wildlife](./Wildlife.md). Hitting a living target with a fired arrow provides experience to the [Archery](./Archery.md) skill.
 
@@ -66,12 +61,12 @@ To fire a Survival Bow, it must first be carried and wielded (1) with at least 1
 
 The bow requires practice to use effectively, but also becomes easier to handle at higher levels of Archery:
 
-- *Draw speed:* It's slower than aiming the rifle.
-- *Horizontal sway:* When drawn, the bow will sway from left to right affecting the arrow's flight accordingly. When it tilts to the right or left, the arrow will fly a bit to the right or left of the center of your aim. The sway increases if the player is tired.
-- *Vertical targeting:* Arrow flight trajectory forms an arc, following in-game physics, similar to the real world. Farther targets will require aiming higher.
-- *Arrow flight speed:* Arrows fly much slower than bullets, so take a target's movement into consideration.
-- *Usability:* The bow, unlike the rifle, cannot be fired while crouched unless one's Archery skill is Level 5.
-- *Ammo Type:* Unlike other weapons, the Survival Bow's arrows can be switched between 3 types of Arrows by pressing the Reload key:
+- _Draw speed:_ It's slower than aiming the rifle.
+- _Horizontal sway:_ When drawn, the bow will sway from left to right affecting the arrow's flight accordingly. When it tilts to the right or left, the arrow will fly a bit to the right or left of the center of your aim. The sway increases if the player is tired.
+- _Vertical targeting:_ Arrow flight trajectory forms an arc, following in-game physics, similar to the real world. Farther targets will require aiming higher.
+- _Arrow flight speed:_ Arrows fly much slower than bullets, so take a target's movement into consideration.
+- _Usability:_ The bow, unlike the rifle, cannot be fired while crouched unless one's Archery skill is Level 5.
+- _Ammo Type:_ Unlike other weapons, the Survival Bow's arrows can be switched between 3 types of Arrows by pressing the Reload key:
   - [Simple Arrow](./Simple%20Arrow.md) - The most basic arrow type, they deal moderate damage and are strong enough to kill every animal.
   - [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) - Improvised arrows created in an active Fire, these arrows are very brittle and only damage [Rabbits](./Rabbit.md) and [Ptarmigan](./Ptarmigan.md). Attacking medium or large animals with these arrows instantly breaks them but still awards Archery Skill experience.
   - [Manufactured Arrow](./Manufactured%20Arrow.md) - A very rare arrow type that can only be acquired from the [Trader](./Trader.md). These arrows deal more damage and are the most durable arrow type, but cannot be repaired once destroyed.
@@ -80,7 +75,7 @@ Drawing a loaded bow will cause the player's view to zoom, enabling the bow to b
 
 ## Hunting
 
-*Main article: [Hunting](./Hunting.md)*The Survival Bow is a crafted tool which fires Simple Arrows. Arrows may kill animals instantly with a critical hit, they more commonly cause bleeding wounds that drain the animal's health over time. When hunting it is wise to consider the weather, time of day, and ability to track a wounded animal as it flees. Arrows may be retrieved from the ground or an animal's carcass by left-clicking on it.![20201128184359\_1.jpg](../assets/20201128184359_1.jpg)
+_Main article: [Hunting](./Hunting.md)_The Survival Bow is a crafted tool which fires Simple Arrows. Arrows may kill animals instantly with a critical hit, they more commonly cause bleeding wounds that drain the animal's health over time. When hunting it is wise to consider the weather, time of day, and ability to track a wounded animal as it flees. Arrows may be retrieved from the ground or an animal's carcass by left-clicking on it.![20201128184359\_1.jpg](../assets/20201128184359_1.jpg)
 
 ### Bleed-out time
 
@@ -163,10 +158,8 @@ The survival bow can randomly spawn in the game world (excluding Interloper) on 
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old Survival Bow model](../assets/Oldsurvivalbowmodel.jpg) / *Old Survival Bow model* |
+![Old Survival Bow model](../assets/Oldsurvivalbowmodel.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_Old Survival Bow model_
 
 [es:Arco de supervivencia](es:Arco_de_supervivencia) [ru:Лук для выживания](ru:%D0%9B%D1%83%D0%BA_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%8B%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)

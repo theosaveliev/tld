@@ -1,17 +1,12 @@
----
-title: "A Page From A Journal"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/A_Page_From_A_Journal"
----
-
 # A Page From A Journal
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/A_Page_From_A_Journal)
 
 **A Page From A Journal**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/A_Page_From_A_Journal_icon.png) / *A\_Page\_From\_A\_Journal\_icon.png* |
+|  | ![](../assets/A_Page_From_A_Journal_icon.png) / _A\_Page\_From\_A\_Journal\_icon.png_ |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | Wintermute | No |
 | **Properties** |  |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/A_Page_From_A_Journal"
 
 ## Transcript
 
-*The following text is transcribed from **A Page From A Journal***
+_The following text is transcribed from **A Page From A Journal**_
 
 **This mine is a graveyard. Maybe my own too, if I’m not careful. The wolves here are unwell. All this pollution in the ground. Awful.
 
@@ -45,7 +40,5 @@ For now, a moment to rest.**
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Страница из дневника (Погребённое эхо)](ru:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D0%B8%D0%B7_%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0_%28%D0%9F%D0%BE%D0%B3%D1%80%D0%B5%D0%B1%D1%91%D0%BD%D0%BD%D0%BE%D0%B5_%D1%8D%D1%85%D0%BE%29)

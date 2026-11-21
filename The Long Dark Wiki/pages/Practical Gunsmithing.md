@@ -1,11 +1,6 @@
----
-title: "Practical Gunsmithing"
-wiki_namespace: 0
-categories: ["Fire Starting", "Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Practical_Gunsmithing"
----
-
 # Practical Gunsmithing
+
+**Categories:** Fire Starting, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Practical_Gunsmithing)
 
 **Contents**
 
@@ -26,7 +21,7 @@ source: "https://thelongdark.fandom.com/wiki/Practical_Gunsmithing"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Practical_Gunsmithing_icon.png) / *Practical\_Gunsmithing\_icon.png* |
+|  | ![](../assets/Practical_Gunsmithing_icon.png) / _Practical\_Gunsmithing\_icon.png_ |
 | Release | [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64) |
 | Wintermute | No |
 | **Properties** |  |
@@ -42,7 +37,7 @@ source: "https://thelongdark.fandom.com/wiki/Practical_Gunsmithing"
 
 ## Research
 
-*Practical Gunsmithing* can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Gunsmithing skill points](./Gunsmithing.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
+_Practical Gunsmithing_ can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Gunsmithing skill points](./Gunsmithing.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
 
 Research can only be performed under the following conditions:
 
@@ -98,12 +93,10 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 ## Trivia
 
-- Attempting to burn a copy of *Practical Gunsmithing* when it has not been fully read will give a confirmation warning before it can be burned.
-- Once a copy of *Practical Gunsmithing* (or any research book) is fully researched, it will no longer appear in the Tools section of the Backpack.
+- Attempting to burn a copy of _Practical Gunsmithing_ when it has not been fully read will give a confirmation warning before it can be burned.
+- Once a copy of _Practical Gunsmithing_ (or any research book) is fully researched, it will no longer appear in the Tools section of the Backpack.
 
 ## Update history
 
 - UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**

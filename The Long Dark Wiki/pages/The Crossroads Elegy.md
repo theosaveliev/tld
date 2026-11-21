@@ -1,20 +1,15 @@
----
-title: "The Crossroads Elegy"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/The_Crossroads_Elegy"
----
-
 # The Crossroads Elegy
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Crossroads_Elegy)
 
 **The Crossroads Elegy**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Crossroads_Elegy_icon.png) / *The\_Crossroads\_Elegy\_icon.png* |
+|  | ![](../assets/The_Crossroads_Elegy_icon.png) / _The\_Crossroads\_Elegy\_icon.png_ |
 | Description | Leave Pleasant Valley behind. Complete Episode Three. |
 
-**The Crossroads Elegy** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**The Crossroads Elegy** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -24,5 +19,3 @@ This achievement is an unmissable story achievement reaching the final doorway a
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

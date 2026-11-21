@@ -1,17 +1,12 @@
----
-title: "Memento Mori 4"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Memento_Mori_4"
----
-
 # Memento Mori 4
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Memento_Mori_4)
 
 **Memento Mori 4**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Memento_Mori_4_icon.png) / *Memento\_Mori\_4\_icon.png* |
+|  | ![](../assets/Memento_Mori_4_icon.png) / _Memento\_Mori\_4\_icon.png_ |
 | Release | [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Memento_Mori_4"
 
 ## Transcript
 
-*The following text is transcribed from **Memento Mori 4***
+_The following text is transcribed from **Memento Mori 4**_
 
 **Why couldn't you hold out? Why couldn't I let go? Are you at rest? Is there sky above where you are?**
 
@@ -36,5 +31,3 @@ source: "https://thelongdark.fandom.com/wiki/Memento_Mori_4"
 UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Added to game
-
-**Lua execution error in Module:Navbox function navbox**

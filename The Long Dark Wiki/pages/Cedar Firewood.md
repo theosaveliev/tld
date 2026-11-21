@@ -1,11 +1,6 @@
----
-title: "Cedar Firewood"
-wiki_namespace: 0
-categories: ["Fire Starting", "Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cedar_Firewood"
----
-
 # Cedar Firewood
+
+**Categories:** Fire Starting, Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cedar_Firewood)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Cedar_Firewood"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cedar_Firewood_icon.png) / *Cedar\_Firewood\_icon.png* |
+|  | ![](../assets/Cedar_Firewood_icon.png) / _Cedar\_Firewood\_icon.png_ |
 | Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -32,7 +27,7 @@ source: "https://thelongdark.fandom.com/wiki/Cedar_Firewood"
 | **Advanced data** |  |
 | Item key | gear\_softwood |
 
-**Cedar Firewood** is a fuel item in *The Long Dark*.
+**Cedar Firewood** is a fuel item in _The Long Dark_.
 
 ## Fire Starting info
 
@@ -71,5 +66,3 @@ Cedar Firewood can be harvested from downed Cedar Limbs found outdoors with a [t
   - Tuned all Fuel sources. Hardwood, Softwood, and Reclaimed wood all now have reduced burn times, but are also lighter to carry. Wood Foraging has been tuned to be more generous. Net result is Fuel is easier to find and carry, but you need more of it.
 - UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.01)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Кедровые дрова](ru:%D0%9A%D0%B5%D0%B4%D1%80%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B4%D1%80%D0%BE%D0%B2%D0%B0)

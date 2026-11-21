@@ -1,11 +1,6 @@
----
-title: "The Wounded Trapper/Transcript"
-wiki_namespace: 0
-categories: ["Episode 2"]
-source: "https://thelongdark.fandom.com/wiki/The_Wounded_Trapper%2FTranscript"
----
-
 # The Wounded Trapper/Transcript
+
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper%2FTranscript)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Wounded_Trapper%2FTranscript"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Missions_story_ep2_The_Wounded_Trapper.png) / *Missions\_story\_ep2\_The\_Wounded\_Trapper.png* |
+|  | ![](../assets/Missions_story_ep2_The_Wounded_Trapper.png) / _Missions\_story\_ep2\_The\_Wounded\_Trapper.png_ |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
 | Previous | [Paradise Lost/Transcript](./Paradise%20Lost%20%E2%80%94%20Transcript.md) |
 | Current | The Wounded Trapper/Transcript |
@@ -31,23 +26,23 @@ This is the mission transcript for mission 1 [The Wounded Trapper](./The%20Wound
 
 ## Transcript
 
-*A cutscene begins with [Will Mackenzie](./Will%20Mackenzie.md) in front of the Wood Stove of the [Trapper's Homestead](./Trapper%27s%20Homestead.md), warming his hands and body repeatedly for a good moment. His attention regarding the stove is broken when he hears a grunt come from the [man he rescued](./Jeremiah.md).*
+_A cutscene begins with [Will Mackenzie](./Will%20Mackenzie.md) in front of the Wood Stove of the [Trapper's Homestead](./Trapper%27s%20Homestead.md), warming his hands and body repeatedly for a good moment. His attention regarding the stove is broken when he hears a grunt come from the [man he rescued](./Jeremiah.md)._
 
 Jeremiah: "Bear...damn it...not again...not the lights..."
 
-*Mackenzie walks over the man, struggling in his sleep.*
+_Mackenzie walks over the man, struggling in his sleep._
 
 Mackenzie: "Hey."
 
-*Mackenzie puts his right hand on the man's chest, who jerks in pain.*
+_Mackenzie puts his right hand on the man's chest, who jerks in pain._
 
 Jeremiah: "AHHH! Bear!"
 
-*The wounded man springs to life, swatting it away as he jumps out of bed in terror screaming. He pushes Mackenzie to the floorboards as he awakens from his nightmare, looking around confused and in pain from his injuries.*
+_The wounded man springs to life, swatting it away as he jumps out of bed in terror screaming. He pushes Mackenzie to the floorboards as he awakens from his nightmare, looking around confused and in pain from his injuries._
 
 Mackenzie: "Easy! Take it easy."
 
-*The man frantically looks around, and slowly begins to calm down, looking at his rescuer while clutching his chest.*
+_The man frantically looks around, and slowly begins to calm down, looking at his rescuer while clutching his chest._
 
 Jeremiah: "Who...are you?"
 
@@ -57,7 +52,7 @@ Jeremiah: "You kill it?"
 
 Mackenzie: "I don't think so...but I hit it. Maybe scared it away."
 
-*The wounded man looks down and chuckles.*
+_The wounded man looks down and chuckles._
 
 Jeremiah: "HA! Not the way you shoot."
 
@@ -65,7 +60,7 @@ Mackenzie: "Glad your memory's coming back."
 
 Jeremiah: "Shit...he got me good this time."
 
-*The man looks over his chest and chuckles at the damage the [Old Bear](./Old%20Bear.md) has done to him.*
+_The man looks over his chest and chuckles at the damage the [Old Bear](./Old%20Bear.md) has done to him._
 
 Mackenzie: "This time?"
 
@@ -75,7 +70,7 @@ Mackenzie: "I bandaged you up but you're in bad shape. Is there anywhere to get 
 
 Jeremiah: "Wha...You mean like a hospital? Out here? Nah. Nothing like that."
 
-*Mackenzie looks over and points at the radio on the Work Bench. The Trapper's [Hunting Rifle](./Hunting%20Rifle.md) lays on the bench in front of it.*
+_Mackenzie looks over and points at the radio on the Work Bench. The Trapper's [Hunting Rifle](./Hunting%20Rifle.md) lays on the bench in front of it._
 
 Mackenzie: "I see you have a radio. Can we call for help?"
 
@@ -97,7 +92,7 @@ Mackenzie: "You won't last days like this. Must be another way."
 
 Jeremiah: "There's...someone who might help. But...we can only reach them by radio."
 
-*Mackenzie looks over at the radio again.*
+_Mackenzie looks over at the radio again._
 
 Mackenzie: "So we're back to where we started. There's gotta be somewhere nearby that might have medical supplies, or another radio we can use?"
 
@@ -105,7 +100,7 @@ Jeremiah: "You might find some comms gear, or parts, in the old Carter Dam. It's
 
 Mackenzie: "Hang in there, I'll be back as soon as I can."
 
-*Mackenzie begins walking off, before the Trapper stops him and he turns around.*
+_Mackenzie begins walking off, before the Trapper stops him and he turns around._
 
 Jeremiah: "Wait...wait. The Old Bear. He's still out there. He'll be wanting to finish the job."
 
@@ -119,11 +114,11 @@ Jeremiah: "Watch out....Dam....unstable."
 
 Mackenzie: "Wai...what? What do you mean unstable?"
 
-*The Trapper begins to wince in pain, before lying sideways on his pillow and fainting from the pain. Mackenzie gently shakes his arm to see if he will wake up.*
+_The Trapper begins to wince in pain, before lying sideways on his pillow and fainting from the pain. Mackenzie gently shakes his arm to see if he will wake up._
 
 Mackenzie: "Damn it. He's passed out."
 
-*Mackenzie looks away, as he begins his journey, and the cutscene ends.*
+_Mackenzie looks away, as he begins his journey, and the cutscene ends._
 
 CHAPTER ONE
 
@@ -131,73 +126,73 @@ THE WOUNDED TRAPPER.
 
 ## Enter the abandoned Dam
 
-*Mackenzie takes the Trapper's Hunting Rifle, which is in less than ideal condition, and any other supplies in the cabin. As he reaches the door, a map showing the layout of the region catches his eye. Mackenzie makes note of the route to the Dam and leaves the cabin.*
+_Mackenzie takes the Trapper's Hunting Rifle, which is in less than ideal condition, and any other supplies in the cabin. As he reaches the door, a map showing the layout of the region catches his eye. Mackenzie makes note of the route to the Dam and leaves the cabin._
 
 Mackenzie: "That trapper's my key to getting out of here. He'd better not die on me."
 
-*If the player attempts to enter [The Ravine](./The%20Ravine.md) by the Carter Staging Area, [Forlorn Muskeg](./Forlorn%20Muskeg.md) by the [Rail Tunnel](./Rail%20Tunnel.md), or re-enter [Mountain Town](./Mountain%20Town.md) by Trapper's Cabin, Mackenzie will say:*
+_If the player attempts to enter [The Ravine](./The%20Ravine.md) by the Carter Staging Area, [Forlorn Muskeg](./Forlorn%20Muskeg.md) by the [Rail Tunnel](./Rail%20Tunnel.md), or re-enter [Mountain Town](./Mountain%20Town.md) by Trapper's Cabin, Mackenzie will say:_
 
 Mackenzie: "That's not the right way."
 
-*Otherwise, Mackenzie wastes no time making his way to the Dam, walking over the hills and then taking the tracks to reach his destination.*
+_Otherwise, Mackenzie wastes no time making his way to the Dam, walking over the hills and then taking the tracks to reach his destination._
 
 Mackenzie: "Carter Dam...hmm. This place has seen better days."
 
-*Mackenzie approaches the gate, only to find it locked."*
+_Mackenzie approaches the gate, only to find it locked."_
 
 Mackenzie: "Locked up tight. Must be a key or something around here..."
 
-*Mackenzie sees two trailers nearby, and enters on. The [Carter Hydro Staging Area Gate Key](./Carter%20Hydro%20Staging%20Area%20Gate%20Key.md) is found on a table with a [Breyerhouse Crew Winter Warning](./Breyerhouse%20Crew%20Winter%20Warning.md), and the pilot returns to unlock the gate. He opens the gate and walks inside, only to hear a roar behind him. The pilot turns around to see the Old Bear, with 2 arrows in his back, slowly walking up to him, before it stands up on two legs and roars.*
+_Mackenzie sees two trailers nearby, and enters on. The [Carter Hydro Staging Area Gate Key](./Carter%20Hydro%20Staging%20Area%20Gate%20Key.md) is found on a table with a [Breyerhouse Crew Winter Warning](./Breyerhouse%20Crew%20Winter%20Warning.md), and the pilot returns to unlock the gate. He opens the gate and walks inside, only to hear a roar behind him. The pilot turns around to see the Old Bear, with 2 arrows in his back, slowly walking up to him, before it stands up on two legs and roars._
 
 Mackenzie: "Holy shit!!!"
 
-*The Old Bear charges, and Mackenzie scrambles to close the gate.*
+_The Old Bear charges, and Mackenzie scrambles to close the gate._
 
 Mackenzie: "AHH!!!"
 
-*The Old Bear collides with the gate as it closes, pushing Mackenzie to the ground. He looks up to see the bear staring at him, as it roars and the screen fades to black. The player is given control again after some time has passed, with the bear presumably having walked off.*
+_The Old Bear collides with the gate as it closes, pushing Mackenzie to the ground. He looks up to see the bear staring at him, as it roars and the screen fades to black. The player is given control again after some time has passed, with the bear presumably having walked off._
 
 Mackenzie: "Unfinished business with the bear, he said."
 
-*Mackenzie then walks up to the front doors of the Carter Hydro Dam and steps inside.*
+_Mackenzie then walks up to the front doors of the Carter Hydro Dam and steps inside._
 
 ## Find medical supplies for the old trapper. Find the radio parts the trapper needs.
 
 Mackenzie: "Hello? Anyone here? This place looks like it's been empty for awhile."
 
-*Mackenzie ducks under some girders as he leaves the main lobby.*
+_Mackenzie ducks under some girders as he leaves the main lobby._
 
 Mackenzie: "Seems like the quakes did some damage here. Must be what the old guy meant about "unstable"."
 
-*He spots a heavy door ahead of him with the words "CONTROL ROOM" on it and tries to open it. The handle does not budge, and he looks at the nearby Keypad to his right. He presses some buttons, but they do nothing.*
+_He spots a heavy door ahead of him with the words "CONTROL ROOM" on it and tries to open it. The handle does not budge, and he looks at the nearby Keypad to his right. He presses some buttons, but they do nothing._
 
 Mackenzie: "Looks like this thing isn't opening unless I can get the power working again. But that's a problem for later. I have to get those radio parts."
 
 - Note, if the player gets the [Radio Parts](./Radio%20Parts.md) first and then interacts with the Keypad, Mackenzie will omit the last two lines.
 
-*Mackenzie enters a nearby room with an elevator, but the "Call Elevator" buttons do not work either. He turns around and sees a stairwell downstairs, but it is blocked by a locked gate. He turns around and finds a bathroom with a Frozen Corpse inside, and a Flare Gun kit.*
+_Mackenzie enters a nearby room with an elevator, but the "Call Elevator" buttons do not work either. He turns around and sees a stairwell downstairs, but it is blocked by a locked gate. He turns around and finds a bathroom with a Frozen Corpse inside, and a Flare Gun kit._
 
 Mackenzie: "What the..."
 
-*Mackenzie reluctantly frisks the body, and finds an [Admin Office Key](./Admin%20Office%20Key.md), as well as a [Forest Talker Dam Note](./Forest%20Talker%20Dam%20Note.md). Mackenzie finds another stairwell near the bathroom, and heads upstairs to an office space, and spots a [Medical Locker](./Medical%20Locker.md) under a sign labeled "AIDS STATION".*
+_Mackenzie reluctantly frisks the body, and finds an [Admin Office Key](./Admin%20Office%20Key.md), as well as a [Forest Talker Dam Note](./Forest%20Talker%20Dam%20Note.md). Mackenzie finds another stairwell near the bathroom, and heads upstairs to an office space, and spots a [Medical Locker](./Medical%20Locker.md) under a sign labeled "AIDS STATION"._
 
 Mackenzie: "Aid Station. That sounds like what the trapper needs."
 
-*He finds it locked, and walks to the nearby office and unlocks it with the Admin Office Key. He finds the [Aid Station Medical Locker Key](./Aid%20Station%20Medical%20Locker%20Key.md) and [Elevator Maintenance Note](./Elevator%20Maintenance%20Note.md), and takes both. He* *leaves the office, and spots a Work Bench with a radio and several parts.*
+_He finds it locked, and walks to the nearby office and unlocks it with the Admin Office Key. He finds the [Aid Station Medical Locker Key](./Aid%20Station%20Medical%20Locker%20Key.md) and [Elevator Maintenance Note](./Elevator%20Maintenance%20Note.md), and takes both. He_ _leaves the office, and spots a Work Bench with a radio and several parts._
 
 Mackenzie: "Must be something we can use to fix the shortwave."
 
-*He picks up some radio parts, then returns to unlock the Medical Locker, finding [Carter Hydro Medical Supplies](./Carter%20Hydro%20Medical%20Supplies.md) inside.*
+_He picks up some radio parts, then returns to unlock the Medical Locker, finding [Carter Hydro Medical Supplies](./Carter%20Hydro%20Medical%20Supplies.md) inside._
 
 Mackenzie: "Industrial-strength antibiotics and... \*very\* strong painkillers. Dangerous...you could get hooked on this stuff. Let's hope we don't need it."
 
 ## Get the medical supplies back to the old trapper before he dies.
 
-*With medical supplies in tow, Mackenzie leaves the dam and returns to the Staging Area.*
+_With medical supplies in tow, Mackenzie leaves the dam and returns to the Staging Area._
 
 Mackenzie: "I'd better check in on that old Trapper."
 
-*He and makes his way back to the Trapper's Cabin as a blizzard rages on, and eventually reaches the front door. Mackenzie walks up to the old trapper, and injects his right arm with a syringe filled with antibiotics. This causes the trapper to instantly wake up, as he grabs his sides.*
+_He and makes his way back to the Trapper's Cabin as a blizzard rages on, and eventually reaches the front door. Mackenzie walks up to the old trapper, and injects his right arm with a syringe filled with antibiotics. This causes the trapper to instantly wake up, as he grabs his sides._
 
 Jeremiah: "Ah...shit. That smarts."
 
@@ -209,7 +204,7 @@ Mackenzie: "Message? You mean...to your friend, asking for medical help?"
 
 Jeremiah: "Nevermind that. Help me up so I can look at the radio. See if the parts you brought back are any good."
 
-*Mackenzie grabs the trapper's arm as the screen fades to black. When it returns, Mackenzie is by the Wood Stove again. He peers over his right shoulder, seeing the trapper fixing the radio at the Work Bench.*
+_Mackenzie grabs the trapper's arm as the screen fades to black. When it returns, Mackenzie is by the Wood Stove again. He peers over his right shoulder, seeing the trapper fixing the radio at the Work Bench._
 
 Mackenzie: "That's a military shortwave, isn't it?"
 
@@ -217,7 +212,7 @@ Jeremiah: "Maybe."
 
 Mackenzie: "I know a bit about radios. That's not any surplus I've ever seen..."
 
-*The trapper moves back and swears.*
+_The trapper moves back and swears._
 
 Jeremiah: "Damn it! Well...the parts look fine, so whatever's wrong with the radio goes deeper than that."
 
@@ -225,11 +220,11 @@ Mackenzie: "What could it be?"
 
 Jeremiah: "Something to do with the power. Fuses? Transformers maybe. We have bigger problems to deal with first. That bear's out there. Hunting us. He's a smart old bastard. He'll keep us from getting out, getting supplies, finding help. Eventually...he'll either get us, or starve us out."
 
-*The trapper clutches his chest in pain and clenches the Work Bench.*
+_The trapper clutches his chest in pain and clenches the Work Bench._
 
 Jeremiah: "Ugh...I gotta lay down. Help me back to the bed."
 
-*Mackenzie gets up and reaches for Jeremiah, as the screen fades to black again. It fades in with Jeremiah on the bed, holding his chest, staring at Mackenzie. Dialogue options then appear for the player.*
+_Mackenzie gets up and reaches for Jeremiah, as the screen fades to black again. It fades in with Jeremiah on the bed, holding his chest, staring at Mackenzie. Dialogue options then appear for the player._
 
 **Blue Options**
 
@@ -339,7 +334,7 @@ Jeremiah: "Well...this whole area takes its name from Mystery Lake, nearby. It's
 
 Mackenzie: "You sound like you like it that way."
 
-*Jeremiah winces through the pain and smiles.*
+_Jeremiah winces through the pain and smiles._
 
 Jeremiah: "I sure do."
 
@@ -359,7 +354,7 @@ Jeremiah: "You live out here long enough, you get a sense for the patterns in na
 
 ## The Legend of the Spence family
 
-*The final conversation option is a blue dialogue option, which ends the chapter after it finishes.*
+_The final conversation option is a blue dialogue option, which ends the chapter after it finishes._
 
 - I AM READY
 
@@ -371,19 +366,19 @@ Mackenzie: "Uhh...magic?"
 
 Jeremiah: "Don't worry...I'm not delirious. I don't mean literal magic."
 
-*Mackenzie grabs some firewood off the floor and turns to face Jeremiah.*
+_Mackenzie grabs some firewood off the floor and turns to face Jeremiah._
 
 Jeremiah: "But we need the old knowledge. The old ways."
 
 Mackenzie: "What do you have in mind?"
 
-*Mackenzie turns to the Wood Stove and opens the fire cover, then tosses the firewood inside and sits back down in his seat.*
+_Mackenzie turns to the Wood Stove and opens the fire cover, then tosses the firewood inside and sits back down in his seat._
 
 Jeremiah: "There's an old story. Local legend maybe...about one of the original settlers of this place. Spence. The story goes something like this."
 
-*Mackenzie turns and gazes into the Wood Stove's fire, as animated figures appear in the fire as Jeremiah continues to explain the old story.*
+_Mackenzie turns and gazes into the Wood Stove's fire, as animated figures appear in the fire as Jeremiah continues to explain the old story._
 
-*The fire forms 3 figures; a man, a woman, and a child. The fire changes to show a bear attacking the man and woman from before, then changing to show the woman in bed. A corpse is shown, then a Spence in a fur coat. The next shot is Spence holding a rifle, then a group of armed men aiming their rifles. The next scene is of Spence's wife in bed, then of Spence holding the Bear Spear.*
+_The fire forms 3 figures; a man, a woman, and a child. The fire changes to show a bear attacking the man and woman from before, then changing to show the woman in bed. A corpse is shown, then a Spence in a fur coat. The next shot is Spence holding a rifle, then a group of armed men aiming their rifles. The next scene is of Spence's wife in bed, then of Spence holding the Bear Spear._
 
 Jeremiah: "Spence shows up and sets his claim shanty, family in tow. For generations, the family had been traders with the Hudson's Bay Company. Old "voyageur" stock, they say. Hard people. Survivors."
 
@@ -395,7 +390,7 @@ Jeremiah: "Spence shows up and sets his claim shanty, family in tow. For generat
 
 "He goes out, into the muskeg. Disappears for days. Then one morning, the wife's fever breaks, but nothing from Spence. Some men go out looking for him. They find him, half dead. Blood all over him. Body torn almost in two. The bear's work. The last thing he says is, "spear stole the bear's soul. My wife is free now." And then he's gone."
 
-*Mackenzie looks away from the fire and back to Jeremiah again.*
+_Mackenzie looks away from the fire and back to Jeremiah again._
 
 Mackenzie: "So...did he kill the bear?"
 
@@ -409,12 +404,10 @@ Mackenzie: "And the radio?"
 
 Jeremiah: "You deal with the bear and let me worry about the radio."
 
-*Jeremiah begins coughing and clutching his chest.*
+_Jeremiah begins coughing and clutching his chest._
 
 Jeremiah: "Now...let me rest. Good luck out there. Watch out for our "demon"."
 
 Mackenzie: "Right."
 
-*Mackenzie gets up and the chapter ends.*
-
-The story continues in [The Best Defense/Transcript](./The%20Best%20Defense%20%E2%80%94%20Transcript.md) **Lua execution error in Module:Navbox function navbox**
+_Mackenzie gets up and the chapter ends._

@@ -1,18 +1,14 @@
----
-title: "Pilgrim"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Pilgrim"
----
-
 # Pilgrim
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pilgrim)
 
 ![](../assets/Pilgrim_icon.png)
 
-*Pilgrim\_icon.png*
+_Pilgrim\_icon.png_
 
-> “**Wander the quiet apocalypse to chronicle the passing of an age. This is the poetry of survival.**”
+> “__Wander the quiet apocalypse to chronicle the passing of an age. This is the poetry of survival.__”
 
-**Pilgrim** is the 1st [Survival Mode](./Survival%20Mode.md) Experience in *[The Long Dark](./The%20Long%20Dark.md)*. It is the standard "easy" difficulty setting.
+**Pilgrim** is the 1st [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. It is the standard "easy" difficulty setting.
 
 ## Overview
 
@@ -116,5 +112,3 @@ This game mode is best picked if the player is trying to explore and learn the g
 | Struggle condition damage modifier | None |
 | Struggle clothing damage modifier | Low |
 | Struggle damage severity | Low |
-
-**Lua execution error in Module:Navbox function navbox**

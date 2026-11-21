@@ -1,11 +1,6 @@
----
-title: "Foraging"
-wiki_namespace: 0
-categories: ["Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Foraging"
----
-
 # Foraging
+
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Foraging)
 
 **Contents**
 
@@ -40,10 +35,25 @@ Directly harvesting Flora simply requires the player to walk up to and click on 
 | ![Reishi\_Mushroom\_icon.png](../assets/Reishi_Mushroom_icon.png) [Reishi Mushrooms](./Reishi%20Mushroom.md) | Conifer Stumps | 2-3 grow on stumps |
 | ![Old\_Man's\_Beard\_Lichen\_icon.png](../assets/Old_Man%27s_Beard_Lichen_icon.png) [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) | Hanging from certain trees | 2-3 hang from trees |
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Cat Tail](../assets/Cat_Tail_icon.png) / *Cat Tail* | ![Rose Bush](../assets/Rose_hip_bush.jpg) / *Rose Bush* | ![Green Rose Bush](../assets/RockClimb.jpg) / *Green Rose Bush* | ![Reishi Mushroom](../assets/Reishi_mushrooms_on_tree_stump.jpg) / *Reishi Mushroom* |
-| ![Old Man's Beard Lichen](../assets/Old_Man%27s_Beard_Lichen_on_trees.jpg) / *Old Man's Beard Lichen* |  |  |  |
+![Cat Tail](../assets/Cat_Tail_icon.png)
+
+_Cat Tail_
+
+![Rose Bush](../assets/Rose_hip_bush.jpg)
+
+_Rose Bush_
+
+![Green Rose Bush](../assets/RockClimb.jpg)
+
+_Green Rose Bush_
+
+![Reishi Mushroom](../assets/Reishi_mushrooms_on_tree_stump.jpg)
+
+_Reishi Mushroom_
+
+![Old Man's Beard Lichen](../assets/Old_Man%27s_Beard_Lichen_on_trees.jpg)
+
+_Old Man's Beard Lichen_
 
 Some plants require a tool to harvest however:
 
@@ -54,10 +64,25 @@ Some plants require a tool to harvest however:
 | ![Green\_Birch\_Sapling\_icon.png](../assets/Green_Birch_Sapling_icon.png) [Green Birch Sapling](./Green%20Birch%20Sapling.md) | Birch Sapling | ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) / ![Hacksaw\_icon.png](../assets/Hacksaw_icon.png) [Hacksaw](./Hacksaw.md) | 8 Rose Hips are harvested from 1 Rose Bush |
 | ![Stick\_icon.png](../assets/Stick_icon.png) [Stick](./Stick.md) | ![Scrub\_Brush\_icon.png](../assets/Scrub_Brush_icon.png) [Scrub Brush](./Scrub%20Brush.md) | ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) / ![Anywhere\_icon.png](../assets/Anywhere_icon.png)Bare Hand | A single Scrub Brush gives 7 Sticks/ Patches give 12 Sticks (patches cannot be harvested Bare Handed) |
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Burdock](../assets/Burdock_Plant.jpg) / *Burdock* | ![Maple Sapling](../assets/Maple_sapling_growing.png) / *Maple Sapling* | ![Birch Sapling](../assets/Birch_Sapling.jpg) / *Birch Sapling* | ![Scrub Brush](../assets/Scrub_Brush_icon.png) / *Scrub Brush* |
-| ![Scrub Brush Patch](../assets/Scrub_Brush_Group.jpg) / *Scrub Brush Patch* |  |  |  |
+![Burdock](../assets/Burdock_Plant.jpg)
+
+_Burdock_
+
+![Maple Sapling](../assets/Maple_sapling_growing.png)
+
+_Maple Sapling_
+
+![Birch Sapling](../assets/Birch_Sapling.jpg)
+
+_Birch Sapling_
+
+![Scrub Brush](../assets/Scrub_Brush_icon.png)
+
+_Scrub Brush_
+
+![Scrub Brush Patch](../assets/Scrub_Brush_Group.jpg)
+
+_Scrub Brush Patch_
 
 ### Indirect Harvesting Flora
 
@@ -69,10 +94,25 @@ Some plants require a tool to harvest however:
 | ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | Near Cedar Trees |
 | ![Stick\_icon.png](../assets/Stick_icon.png) [Stick](./Stick.md) | Near most Trees |
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Oak Tree](../assets/Oak_trees_Transfer_Pass.jpg) / *Oak Tree* | ![Birch Forest](../assets/BearTorch.png) / *Birch Forest* | ![Fir Limb](../assets/Fir_Limb.jpg) / *Fir Limb* | ![Cedar Limb](../assets/CedarLimb.jpg) / *Cedar Limb* |
-| ![Large Cedar Limb](../assets/CedarLimbLarge.jpg) / *Large Cedar Limb* |  |  |  |
+![Oak Tree](../assets/Oak_trees_Transfer_Pass.jpg)
+
+_Oak Tree_
+
+![Birch Forest](../assets/BearTorch.png)
+
+_Birch Forest_
+
+![Fir Limb](../assets/Fir_Limb.jpg)
+
+_Fir Limb_
+
+![Cedar Limb](../assets/CedarLimb.jpg)
+
+_Cedar Limb_
+
+![Large Cedar Limb](../assets/CedarLimbLarge.jpg)
+
+_Large Cedar Limb_
 
 ## First Aid and Cooking
 
@@ -132,9 +172,9 @@ Foraging for [Fire Starting](./Fire%20Starting.md) fuel is an important part of 
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![The Early Access Abstract Foraging option in the menu](../assets/Alpha_main_menu.jpg) / *The Early Access Abstract Foraging option in the menu* |
+![The Early Access Abstract Foraging option in the menu](../assets/Alpha_main_menu.jpg)
+
+_The Early Access Abstract Foraging option in the menu_
 
 ## Game History
 
@@ -142,5 +182,3 @@ Foraging for [Fire Starting](./Fire%20Starting.md) fuel is an important part of 
 - Added Abstract Foraging option to game.
 - UPDATE **1 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256)):**
   - Replaced Abstract Foraging with Direct Harvesting.
-
-**Lua execution error in Module:Navbox function navbox**

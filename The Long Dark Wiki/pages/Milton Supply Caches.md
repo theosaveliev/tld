@@ -1,11 +1,6 @@
----
-title: "Milton Supply Caches"
-wiki_namespace: 0
-categories: ["Episode 1"]
-source: "https://thelongdark.fandom.com/wiki/Milton_Supply_Caches"
----
-
 # Milton Supply Caches
+
+**Categories:** Episode 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_Supply_Caches)
 
 **Contents**
 
@@ -22,18 +17,18 @@ source: "https://thelongdark.fandom.com/wiki/Milton_Supply_Caches"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hidden_Cache.png) / *Hidden\_Cache.png* |
+|  | ![](../assets/Hidden_Cache.png) / _Hidden\_Cache.png_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Current | Milton Supply Caches |
 | Region | [Mountain Town](./Mountain%20Town.md) |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
 **Milton Supply Caches** is a side mission in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md). To start the quest, the player must find any one of three notes scattered around the town of [Milton](./Milton.md). Each note will reveal information about a hidden cache of supplies nearby and add a marker to the map. To complete the quest, the player must find all three notes and recover each of their respective supply caches.
 
 ## Official description
 
-> “**The Collapse taught Milton residents to be ready for the worst. Find the collectibles that point you to cache locations.**”
+> “__The Collapse taught Milton residents to be ready for the worst. Find the collectibles that point you to cache locations.__”
 
 ## Overview
 
@@ -72,5 +67,3 @@ The easiest method to get to the cache is to start at Grey Mother's House, and h
 ## Trivia
 
 - A cut objective for this mission was the medicine found in the back yard of the Millers, which was given by Grey Mother as a Trust reward. It was replaced by the note Medicine in my backyard in the Redux release of Episode 1.
-
-**Lua execution error in Module:Navbox function navbox**

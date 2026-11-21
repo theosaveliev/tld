@@ -1,17 +1,12 @@
----
-title: "Forest Talker Supplies"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Supplies"
----
-
 # Forest Talker Supplies
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Talker_Supplies)
 
 **Forest Talker Supplies**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Forest_Talker_Supplies_icon.png) / *Forest\_Talker\_Supplies\_icon.png* |
+|  | ![](../assets/Forest_Talker_Supplies_icon.png) / _Forest\_Talker\_Supplies\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Lake Gunshots](./Lake%20Gunshots.md) |
 | **Properties** |  |
@@ -36,5 +31,3 @@ The player has the option to take the ammo from the Forest Talker Supplies befor
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

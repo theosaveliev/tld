@@ -1,17 +1,12 @@
----
-title: "Magnifying Lens"
-wiki_namespace: 0
-categories: ["Fire Starting"]
-source: "https://thelongdark.fandom.com/wiki/Magnifying_Lens"
----
-
 # Magnifying Lens
+
+**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Magnifying_Lens)
 
 **Magnifying Lens**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Magnifying_Lens_icon.png) / *Magnifying\_Lens\_icon.png* |
+|  | ![](../assets/Magnifying_Lens_icon.png) / _Magnifying\_Lens\_icon.png_ |
 | **General** |  |
 | Item Type | Fire Starting\|- |
 | Renewable | Yes ([Trader](./Trader.md) only on lower difficulties) |
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Magnifying_Lens"
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Bonus chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+5% |
 
-> “**A magnifying lens that can be used to start a fire during daylight.**”
+> “__A magnifying lens that can be used to start a fire during daylight.__”
 >
 > — In-game description
 
@@ -51,8 +46,6 @@ You can, however, utilize the magnifying lens to start fires in the safety of in
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model](../assets/Magnifying_lens.png) / *Old model* |
+![Old model](../assets/Magnifying_lens.png)
 
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Увеличительные стекла](ru:%D0%A3%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D0%B0)
+_Old model_

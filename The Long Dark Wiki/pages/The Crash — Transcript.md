@@ -1,10 +1,6 @@
----
-title: "The Crash/Transcript"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/The_Crash%2FTranscript"
----
-
 # The Crash/Transcript
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Crash%2FTranscript)
 
 **Contents**
 
@@ -19,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Crash%2FTranscript"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Crash.png) / *The\_Crash.png* |
+|  | ![](../assets/The_Crash.png) / _The\_Crash.png_ |
 | Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41) |
 | Episode | [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | Mission Type | Primary |
@@ -32,133 +28,133 @@ This is the mission transcript for mission 2 [The Crash](./The%20Crash.md) of [E
 
 ## Transcript
 
-*The mission begins right where it did in [Memories](./Memories.md), with Mackenzie grunting in pain and gasping for air as he slowly blinks back into consciousness at the crash site. The ambient electrical wail of an [Aurora](./Aurora.md) plays overhead as the camera shifts to reveal trees, fire, smoke, and wreckage of a crashed plane. Mackenzie gets up and cries out:*
+_The mission begins right where it did in [Memories](./Memories.md), with Mackenzie grunting in pain and gasping for air as he slowly blinks back into consciousness at the crash site. The ambient electrical wail of an [Aurora](./Aurora.md) plays overhead as the camera shifts to reveal trees, fire, smoke, and wreckage of a crashed plane. Mackenzie gets up and cries out:_
 
 [Will Mackenzie](./Will%20Mackenzie.md): "...Astrid?"
 
-*The man gets up, and notices a piece of metal lodged in his left hand, hesitating before deciding to pull it out. The process is slow, and is not without consequence, as the man's cries of pain ring out during the pulling. After the [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) is pulled out, the man shouts to the hills around him.*
+_The man gets up, and notices a piece of metal lodged in his left hand, hesitating before deciding to pull it out. The process is slow, and is not without consequence, as the man's cries of pain ring out during the pulling. After the [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) is pulled out, the man shouts to the hills around him._
 
 Mackenzie: "Astrid!"
 
-*The man looks at the gaping wound in his hand before the camera shifts and slowly zooms out as if to give control to the player, but instead the camera turns to show the wrecked plane above.*
+_The man looks at the gaping wound in his hand before the camera shifts and slowly zooms out as if to give control to the player, but instead the camera turns to show the wrecked plane above._
 
 Mackenzie: "...I must have gone right through the windshield. Trees broke my fall...mostly."
 
-*Text appears on the screen:*
+_Text appears on the screen:_
 
 CHAPTER TWO
 
 THE CRASH
 
-*Mackenzie uses a [Bandage](./Bandage.md) to stop the bleeding from his hand, then begins to hobble with a [Sprained Ankle](./Sprained%20Ankle.md). Fire and debris scour a ravine that the pilot finds himself in, with various crates from the plane able to be broken down for supplies.*
+_Mackenzie uses a [Bandage](./Bandage.md) to stop the bleeding from his hand, then begins to hobble with a [Sprained Ankle](./Sprained%20Ankle.md). Fire and debris scour a ravine that the pilot finds himself in, with various crates from the plane able to be broken down for supplies._
 
 ## Try to climb out of the ravine
 
-*If the player attempts to walk up the fallen tree bridge to use the [Rock Climb](./Rock%20Climb.md) out of the gorge, the camera will stop to show the climb and Mackenzie will say:*
+_If the player attempts to walk up the fallen tree bridge to use the [Rock Climb](./Rock%20Climb.md) out of the gorge, the camera will stop to show the climb and Mackenzie will say:_
 
 Mackenzie: "I could probably climb that."
 
-*A special cutscene plays of Mackenzie failing to climb out and falling down.*
+_A special cutscene plays of Mackenzie failing to climb out and falling down._
 
 Mackenzie: "Damn... arm's too weak. I need to find some shelter from this wind."
 
 ## Find shelter from the cold
 
-*Mackenzie makes his way back down the tree bridge and into a nearby cave. A bed is inside, but attempting to sleep gives the message BANDAGE WOUND AND WARM THE CAVE UP FIRST. It is too cold to rest up so he makes a fire.*
+_Mackenzie makes his way back down the tree bridge and into a nearby cave. A bed is inside, but attempting to sleep gives the message BANDAGE WOUND AND WARM THE CAVE UP FIRST. It is too cold to rest up so he makes a fire._
 
 Mackenzie: "I don't feel so good. I need to rest up."
 
-*Mackenzie falls asleep for the night. Morning breaks and the stranded pilot wakes up in the cave with the campfire having burned out by now and his Sprained Ankle healed.*
+_Mackenzie falls asleep for the night. Morning breaks and the stranded pilot wakes up in the cave with the campfire having burned out by now and his Sprained Ankle healed._
 
 Mackenzie: "Astrid hasn't come looking for me, which means she can't come looking for me...because she's she's hurt...or worse. I'd better get back up to the crash site."
 
-*The various fires from the night before have all but died down, with only vapors of smoke rising from the wreckage. Mackenzie then makes his way back up the tree bridge and climbs his way out of the ravine. The wound on his hand is properly bandaged when climbing out. After climbing the second Rock Climb:*
+_The various fires from the night before have all but died down, with only vapors of smoke rising from the wreckage. Mackenzie then makes his way back up the tree bridge and climbs his way out of the ravine. The wound on his hand is properly bandaged when climbing out. After climbing the second Rock Climb:_
 
 Mackenzie: "I think I'm gonna make it."
 
-*After the final climb:*
+_After the final climb:_
 
 Mackenzie: "Finally...made it."
 
-*Mackenzie then walks around a bend and up to the wreckage of his floatplane.*
+_Mackenzie then walks around a bend and up to the wreckage of his floatplane._
 
 Mackenzie: "My plane...not sure which of us looks worse. Poor girl, this isn't how things were supposed to end."
 
 ## Search for Astrid
 
-*If the player tries to leave the crash site via the wing serving as a ramp, Mackenzie will hit an invisible wall and say:*
+_If the player tries to leave the crash site via the wing serving as a ramp, Mackenzie will hit an invisible wall and say:_
 
 Mackenzie: "There must be signs of Astrid around here somewhere."
 
-*Mackenzie then finds his [Parka](./Mackenzie%27s%20Parka.md) and puts it on.*
+_Mackenzie then finds his [Parka](./Mackenzie%27s%20Parka.md) and puts it on._
 
 Mackenzie: "I've been looking for you."
 
-*Walking further under the wreckage, Will finds [Astrid's Backpack](./Astrid%27s%20Backpack.md) and [Astrid's Hardcase](./Astrid%27s%20Hardcase.md).*
+_Walking further under the wreckage, Will finds [Astrid's Backpack](./Astrid%27s%20Backpack.md) and [Astrid's Hardcase](./Astrid%27s%20Hardcase.md)._
 
 Mackenzie: "Astrid's pack."
 
-*The man then picks up the hardcase, eyeing the lock before taking it.*
+_The man then picks up the hardcase, eyeing the lock before taking it._
 
 Mackenzie: "Hmm...locked. Whatever's in this case, Astrid was willing to die for it. I hope she hasn't already died for it."
 
 ## Look for clues
 
-*Mackenzie then pilfers whatever is left of the crash site before using a piece of his plane's wing as a ramp to leave the area, before noticing something caught on a tree branch fluttering in the wind. A piece of Astrid's scarf.*
+_Mackenzie then pilfers whatever is left of the crash site before using a piece of his plane's wing as a ramp to leave the area, before noticing something caught on a tree branch fluttering in the wind. A piece of Astrid's scarf._
 
 Mackenzie: "She definitely passed through here, and in a hurry."
 
-*Mackenzie then travels to a nearby pond filled with Rabbits, before finding a burned out Campfire.*
+_Mackenzie then travels to a nearby pond filled with Rabbits, before finding a burned out Campfire._
 
 Mackenzie: "Someone's been here recently. Could it have been Astrid?"
 
-*He travels further down a nearby path*
+_He travels further down a nearby path_
 
 Mackenzie: "Astrid...where did you go?"
 
-*He comes across a Wolf feeding on a Deer Carcass*
+_He comes across a Wolf feeding on a Deer Carcass_
 
 Mackenzie: "Woah...is that a wolf? I'd better keep my distance."
 
-*Mackenzie goes around the Wolf to not disturb it, before spotting a radio tower.*
+_Mackenzie goes around the Wolf to not disturb it, before spotting a radio tower._
 
 Mackenzie: "Woah. Looks like some kind of radio tower. I must be closer to civilization than I thought."
 
-*Traveling to the tower, Mackenzie sees Crows circling above something, before seeing a corpse of a man before him.*
+_Traveling to the tower, Mackenzie sees Crows circling above something, before seeing a corpse of a man before him._
 
 Mackenzie: "Woah, someone's just...sitting here. Frozen. What the hell?"
 
-*Mackenzie ignores or searches the man's pockets, before he looks over the scenic overlook.*
+_Mackenzie ignores or searches the man's pockets, before he looks over the scenic overlook._
 
 Mackenzie: "Great. A town. Maybe I can find help there."
 
-*Mackenzie makes his way down a path leading to the town before spotting a house with smoke rising from it's chimney.*
+_Mackenzie makes his way down a path leading to the town before spotting a house with smoke rising from it's chimney._
 
 Mackenzie: "Look. Smoke from that chimney. That means someone's home."
 
 ## Investigate the house
 
-*Mackenzie walks into the town, looking for other signs of life and begins shouting:*
+_Mackenzie walks into the town, looking for other signs of life and begins shouting:_
 
 Mackenzie: "Hello? Anyone out there?"
 
-*Getting no response, Mackenzie walks up further into town and begins seeing boarded up houses.*
+_Getting no response, Mackenzie walks up further into town and begins seeing boarded up houses._
 
 Mackenzie: "Hmph...this whole area looks like its been abandoned for awhile."
 
-*He returns his attention to the house with the active fireplace, before seeing the bloody corpse of a man in an orange jumpsuit laying against the wall of the shed in the backyard.*
+_He returns his attention to the house with the active fireplace, before seeing the bloody corpse of a man in an orange jumpsuit laying against the wall of the shed in the backyard._
 
 Mackenzie: "What happened here?"
 
-*Mackenzie reluctantly follows the blood in the snow to the nearby porch, then to the front door of the large house, before stepping inside.*
+_Mackenzie reluctantly follows the blood in the snow to the nearby porch, then to the front door of the large house, before stepping inside._
 
 Mackenzie: "Hello? Anybody here?
 
-*The house shows signs of a struggle, with bullet holes in the walls. Mackenzie walks to his right and sees an old woman with a blindfold over her eyes and a rifle in her hands, sleeping, and approaches her.*
+_The house shows signs of a struggle, with bullet holes in the walls. Mackenzie walks to his right and sees an old woman with a blindfold over her eyes and a rifle in her hands, sleeping, and approaches her._
 
 Mackenzie: "Hey...hey, wake up."
 
-*Mackenzie attempts to touch her, before a loud bang erupts from before him, startling him and sending him backwards. The old woman comes to life, and instantly points the rifle at the startled pilot.*
+_Mackenzie attempts to touch her, before a loud bang erupts from before him, startling him and sending him backwards. The old woman comes to life, and instantly points the rifle at the startled pilot._
 
 Mackenzie: "Holy shi...wait...hold your fire!"
 
@@ -188,9 +184,9 @@ Mackenzie: "I don't doubt it."
 
 Unknown Woman: "The others, are all gone. If you're here, things must be worse than they thought."
 
-*The woman slowly lowers her rifle, aiming it away from Mackenzie and placing it in her lap.*
+_The woman slowly lowers her rifle, aiming it away from Mackenzie and placing it in her lap._
 
-*At this point, several dialogue options appear on the screen, and can be answered in any order. White text is optional, Blue is mandatory to progress:*
+_At this point, several dialogue options appear on the screen, and can be answered in any order. White text is optional, Blue is mandatory to progress:_
 
 **White Dialogue**
 
@@ -297,5 +293,3 @@ Mackenzie: "I'll do what I can, but I'll need your help. There must be somewhere
 Grey Mother: "What about your friend? Aren't you in a hurry to find her?"
 
 Mackenzie: "Yes, I am. And I'll be looking for signs of her. But there's a lot of ground to cover, and without gear I won't make it. So while I'm looking for supplies, you see what you can remember about the night of the lights, and if she might passed through town. That way, we can both help each other."
-
-Grey Mother: "Ok, Outsider. Grey Mother can't promise she can unlock the secrets in the dark cupboards of her mind, but she'll try." Chapter 3 [The Grey Mother](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) begins.**Lua execution error in Module:Navbox function navbox**

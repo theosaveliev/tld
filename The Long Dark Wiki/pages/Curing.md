@@ -1,13 +1,8 @@
----
-title: "Curing"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Curing"
----
-
 # Curing
 
-**Curing** is a mechanic in [*The Long Dark*](./The%20Long%20Dark.md), which converts raw resources into crafting items.
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Curing)
+
+**Curing** is a mechanic in [_The Long Dark_](./The%20Long%20Dark.md), which converts raw resources into crafting items.
 
 ## Overview
 
@@ -40,8 +35,6 @@ These items may be cured by dropping them on the floor or otherwise placing them
 
 - In-Game time is required to cure items, and is a fixed rate, not dependent on temperature.
 - "Curing" is a real-world process which includes salting, drying, and smoking. It is the process of preserving items or materials, often through desiccation (drying out) or treatment with a chemical/compound (such as salt).
-- In *The Long Dark*, raw meat and fish can be cured using a [Meat Curing Box](./Meat%20Curing%20Box.md), to make [Cured Meat](./Cured%20Meat.md), which has a much slower decay rate.
-- In early builds of *The Long Dark* (alpha/beta), Deer Hides provided "Fresh Leather" when harvested; this item could be converted into "Cured [Leather](./Cured%20Leather.md)" by curing it, and then used for repairing clothing. Cured Leather is still present in *The Long Dark*, but is only obtainable by Harvesting leather footwear, gloves, the Moose-Hide Satchel, and [Beachcombing](./Beachcombing.md).
+- In _The Long Dark_, raw meat and fish can be cured using a [Meat Curing Box](./Meat%20Curing%20Box.md), to make [Cured Meat](./Cured%20Meat.md), which has a much slower decay rate.
+- In early builds of _The Long Dark_ (alpha/beta), Deer Hides provided "Fresh Leather" when harvested; this item could be converted into "Cured [Leather](./Cured%20Leather.md)" by curing it, and then used for repairing clothing. Cured Leather is still present in _The Long Dark_, but is only obtainable by Harvesting leather footwear, gloves, the Moose-Hide Satchel, and [Beachcombing](./Beachcombing.md).
 - The "Fresh Leather" item is still present in The Long Dark, and may be still be cured into Cured Leather over 5 days, but is extremely rare and cannot be created in any way outside of world generation at game start. Fresh Leather also decays over time, like animal hides and guts, making it even more difficult to find the already rare item before it decays to 0% condition inside a container and is deleted.
-
-**Lua execution error in Module:Navbox function navbox** [RU:Сушка](RU:%D0%A1%D1%83%D1%88%D0%BA%D0%B0)

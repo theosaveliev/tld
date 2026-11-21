@@ -1,17 +1,12 @@
----
-title: "Mining Newsletter"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Mining_Newsletter"
----
-
 # Mining Newsletter
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mining_Newsletter)
 
 **Mining Newsletter**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mining_Newsletter_icon.png) / *Mining\_Newsletter\_icon.png* |
+|  | ![](../assets/Mining_Newsletter_icon.png) / _Mining\_Newsletter\_icon.png_ |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | Wintermute | No |
 | **Properties** |  |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Mining_Newsletter"
 
 ## Transcript
 
-*The following text is transcribed from **Mining Newsletter***
+_The following text is transcribed from **Mining Newsletter**_
 
 **NEW OPPORTUNITIES IN URANIUM MARKETS
 
@@ -39,7 +34,5 @@ Regulators are also keen to stamp out unlicensed operations as they surface. But
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Шахтерские новости](ru:%D0%A8%D0%B0%D1%85%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8)

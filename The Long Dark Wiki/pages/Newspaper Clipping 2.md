@@ -1,17 +1,12 @@
----
-title: "Newspaper Clipping 2"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Newspaper_Clipping_2"
----
-
 # Newspaper Clipping 2
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Newspaper_Clipping_2)
 
 **Newspaper Clipping 2**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Newspaper_Clipping_2_icon.png) / *Newspaper\_Clipping\_2\_icon.png* |
+|  | ![](../assets/Newspaper_Clipping_2_icon.png) / _Newspaper\_Clipping\_2\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Newspaper_Clipping_2"
 
 ## Transcript
 
-*The following text is transcribed from **Newspaper Clipping***
+_The following text is transcribed from **Newspaper Clipping**_
 
 **---
 
@@ -44,5 +39,3 @@ Prison officials seemed confident all three also died navigating the rough terra
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Forge"
-wiki_namespace: 0
-categories: ["Interactable Objects", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Forge"
----
-
 # Forge
+
+**Categories:** Interactable Objects, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forge)
 
 **Contents**
 
@@ -22,7 +17,7 @@ source: "https://thelongdark.fandom.com/wiki/Forge"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Forge.png) / *Forge.png* |
+|  | ![](../assets/Forge.png) / _Forge.png_ |
 | Release | 18 September 2015 |
 | Update | [0.264](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.264) |
 
@@ -72,16 +67,31 @@ The specific items that can be crafted, and their respective requirements, can b
 - Forging is somewhat time consuming, so it can be worthwhile to take along extra food. Water and food can be cooked atop the forge (though keep in mind that it can be burned/boiled away as you work).
 - Like any time accelerated activity, be aware that Condition may rapidly drain if [Needs](./Needs.md) are not met.
 - When crafting arrowheads, conserve fuel by making a large number at once.
-- Using a lot of wood to start a fire can serve to minimize the amount of coal required to reach working temperature. *(Only 4 Coal is required.)*
+- Using a lot of wood to start a fire can serve to minimize the amount of coal required to reach working temperature. _(Only 4 Coal is required.)_
 - Any fuel may be used to extend the duration of the furnace fire once it has reached its working temperature.
 - Ensure that the required crafting materials are obtained prior to starting the Furnace.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| \[Missing image: Screen\_(-1,\_4,\_-18)\_8b85d96a-957e-4c52-a687-c18d46e560f7.png\] / *The old forging interface* | ![the Forge located above the Furnace](../assets/D73d44c0ba48.png) / *the Forge located above the Furnace* | ![the furnace in the Riken](../assets/The_Riken_-_furnace_room.jpg) / *the furnace in the Riken* | ![The forging icon found in the Survival Menu](../assets/Forge_icon.png) / *The forging icon found in the [Survival Menu](./Survival%20Menu.md)* |
-| ![Old Spence Family Homestead Forge in Forlorn Muskeg](../assets/Old_Spence_Family_Homestead_Forge_in_Forlorn_Muskeg_%28Compressed%29.jpg) / *Old Spence Family Homestead Forge in Forlorn Muskeg* |  |  |  |
+\[Missing image: Screen\_(-1,\_4,\_-18)\_8b85d96a-957e-4c52-a687-c18d46e560f7.png\]
+
+_The old forging interface_
+
+![the Forge located above the Furnace](../assets/D73d44c0ba48.png)
+
+_the Forge located above the Furnace_
+
+![the furnace in the Riken](../assets/The_Riken_-_furnace_room.jpg)
+
+_the furnace in the Riken_
+
+![The forging icon found in the Survival Menu](../assets/Forge_icon.png)
+
+_The forging icon found in the [Survival Menu](./Survival%20Menu.md)_
+
+![Old Spence Family Homestead Forge in Forlorn Muskeg](../assets/Old_Spence_Family_Homestead_Forge_in_Forlorn_Muskeg_%28Compressed%29.jpg)
+
+_Old Spence Family Homestead Forge in Forlorn Muskeg_
 
 ## Update history
 
@@ -102,5 +112,3 @@ The specific items that can be crafted, and their respective requirements, can b
 
 - UPDATE **18 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.264)):**
   - Added Forging gameplay.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Кузнечный горн](ru:%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D1%80%D0%BD) [fr:Forge](fr:Forge)

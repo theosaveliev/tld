@@ -1,11 +1,6 @@
----
-title: "Car"
-wiki_namespace: 0
-categories: ["Interactable objects", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Car"
----
-
 # Car
+
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Car)
 
 ![](../assets/Car_red.jpg)
 
@@ -21,9 +16,9 @@ Entering a car will add a windproof protection as well as a bonus ambient temper
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![A car with its hood open. old version](../assets/Car_hood_open.jpg) / *A car with its hood open. old version* |
+![A car with its hood open. old version](../assets/Car_hood_open.jpg)
+
+_A car with its hood open. old version_
 
 ## Trivia
 
@@ -35,5 +30,3 @@ Entering a car will add a windproof protection as well as a bonus ambient temper
 - Not all cars have [car batteries](./Car%20Battery.md) under their hoods.
 - Sun visors are moveable, and can sometimes reward the player with [Mementos](./Mementos.md).
 - Car radios can be turned on and off, however they only function during an aurora, and only play classical music.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Машина](ru:%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%B0) [es:Auto](es:Auto)

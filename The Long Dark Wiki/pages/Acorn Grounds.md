@@ -1,11 +1,6 @@
----
-title: "Acorn Grounds"
-wiki_namespace: 0
-categories: ["Food And Drink", "Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Acorn_Grounds"
----
-
 # Acorn Grounds
+
+**Categories:** Food And Drink, Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Acorn_Grounds)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Acorn_Grounds"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Acorn_Grounds_icon.png) / *Acorn\_Grounds\_icon.png* |
+|  | ![](../assets/Acorn_Grounds_icon.png) / _Acorn\_Grounds\_icon.png_ |
 | Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
 | Wintermute | No |
 | Renewable | No |
@@ -77,5 +72,3 @@ Acorn Grounds can be used to make [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Cof
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Измельченные желуди](ru:%D0%98%D0%B7%D0%BC%D0%B5%D0%BB%D1%8C%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B6%D0%B5%D0%BB%D1%83%D0%B4%D0%B8)

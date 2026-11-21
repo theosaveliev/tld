@@ -1,11 +1,6 @@
----
-title: "Fatigue"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Fatigue"
----
-
 # Fatigue
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fatigue)
 
 **Contents**
 
@@ -78,20 +73,20 @@ Eating certain foods can also affect the fatigue meter.
 
 | Item | Name | Initial Increase |
 | --- | --- | --- |
-| ![](../assets/Breyerhouse_Pie_icon.png) / *Breyerhouse\_Pie\_icon.png* | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | 15% |
-| ![](../assets/Rose_Hip_Pie_icon.png) / *Rose\_Hip\_Pie\_icon.png* | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | 15% |
-| ![](../assets/Peach_Pie_icon.png) / *Peach\_Pie\_icon.png* | [Peach Pie](./Peach%20Pie.md) | 15% |
+| ![](../assets/Breyerhouse_Pie_icon.png) / _Breyerhouse\_Pie\_icon.png_ | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | 15% |
+| ![](../assets/Rose_Hip_Pie_icon.png) / _Rose\_Hip\_Pie\_icon.png_ | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | 15% |
+| ![](../assets/Peach_Pie_icon.png) / _Peach\_Pie\_icon.png_ | [Peach Pie](./Peach%20Pie.md) | 15% |
 
 #### Fatigue Decrease:
 
 | Item | Name | Initial Decrease |
 | --- | --- | --- |
-| ![](../assets/Ptarmigan_Stew_icon.png) / *Ptarmigan\_Stew\_icon.png* | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | -15% |
-| ![](../assets/Rabbit_Stew_icon.png) / *Rabbit\_Stew\_icon.png* | [Rabbit Stew](./Rabbit%20Stew.md) | -15% |
-| ![](../assets/Trout_Stew_icon.png) / *Trout\_Stew\_icon.png* | [Trout Stew](./Trout%20Stew.md) | -15% |
-| ![](../assets/Venison_Stew_icon.png) / *Venison\_Stew\_icon.png* | [Venison Stew](./Venison%20Stew.md) | -15% |
-| ![](../assets/Ranger_Stew_icon.png) / *Ranger\_Stew\_icon.png* | [Ranger Stew](./Ranger%20Stew.md) | -15% |
-| ![](../assets/Thomson_Family_Stew_icon.png) / *Thomson\_Family\_Stew\_icon.png* | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | -15% |
+| ![](../assets/Ptarmigan_Stew_icon.png) / _Ptarmigan\_Stew\_icon.png_ | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | -15% |
+| ![](../assets/Rabbit_Stew_icon.png) / _Rabbit\_Stew\_icon.png_ | [Rabbit Stew](./Rabbit%20Stew.md) | -15% |
+| ![](../assets/Trout_Stew_icon.png) / _Trout\_Stew\_icon.png_ | [Trout Stew](./Trout%20Stew.md) | -15% |
+| ![](../assets/Venison_Stew_icon.png) / _Venison\_Stew\_icon.png_ | [Venison Stew](./Venison%20Stew.md) | -15% |
+| ![](../assets/Ranger_Stew_icon.png) / _Ranger\_Stew\_icon.png_ | [Ranger Stew](./Ranger%20Stew.md) | -15% |
+| ![](../assets/Thomson_Family_Stew_icon.png) / _Thomson\_Family\_Stew\_icon.png_ | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | -15% |
 
 ## Affecting Condition
 
@@ -179,5 +174,3 @@ Fatigue bar progresses from Exhausted ↔︎ Drained ↔︎ Tired ↔︎ Winded 
 - (Yawning sounds)
 
 ## Trivia
-
-The player character can stay awake well in excess of 24-36 hours in game without napping/sleeping and still function and audibly respond to [needs](./Needs.md) semi-normally. It's been well documented that sleep deprivation causes a sharp loss in cognitive, rational, and problem solving skills in addition to other detrimental symptoms, such as; drowsiness, decreased focus/concentration, decreased awareness, degradation of short-term memory, and reduced coordination. Ironically, speed runners in [Challenges](./Challenge.md) deliberately avoid sleeping in order to lower their challenge record time.**Lua execution error in Module:Navbox function navbox** [ru:Усталость](ru:%D0%A3%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D1%8C) [de:Fatique](de:Fatique)

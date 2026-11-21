@@ -1,11 +1,6 @@
----
-title: "Sounds Like Some Kind of Indie Band"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Sounds_Like_Some_Kind_of_Indie_Band"
----
-
 # Sounds Like Some Kind of Indie Band
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sounds_Like_Some_Kind_of_Indie_Band)
 
 **Contents**
 
@@ -18,10 +13,10 @@ source: "https://thelongdark.fandom.com/wiki/Sounds_Like_Some_Kind_of_Indie_Band
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Sounds_Like_Some_Kind_of_Indie_Band_icon.png) / *Sounds\_Like\_Some\_Kind\_of\_Indie\_Band\_icon.png* |
+|  | ![](../assets/Sounds_Like_Some_Kind_of_Indie_Band_icon.png) / _Sounds\_Like\_Some\_Kind\_of\_Indie\_Band\_icon.png_ |
 | Description | Find all Forest Talker caches. |
 
-**Sounds Like Some Kind of Indie Band** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Sounds Like Some Kind of Indie Band** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -48,5 +43,3 @@ The achievement's name is a reference to the quote from [Will Mackenzie](./Will%
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

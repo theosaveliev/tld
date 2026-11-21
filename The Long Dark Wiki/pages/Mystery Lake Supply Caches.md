@@ -1,11 +1,6 @@
----
-title: "Mystery Lake Supply Caches"
-wiki_namespace: 0
-categories: ["Episode 2", "Side mission"]
-source: "https://thelongdark.fandom.com/wiki/Mystery_Lake_Supply_Caches"
----
-
 # Mystery Lake Supply Caches
+
+**Categories:** Episode 2, Side mission · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mystery_Lake_Supply_Caches)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Mystery_Lake_Supply_Caches"
 
 | Property | Details |
 | --- | --- |
-|  | ![One of the hidden supply caches.](../assets/Bloodied_note.png) / *One of the hidden supply caches.* |
+|  | ![One of the hidden supply caches.](../assets/Bloodied_note.png) / _One of the hidden supply caches._ |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
 | Current | Mystery Lake Supply Caches |
 | Next | [Aurora Hatch](./Aurora%20Hatch.md) |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Mystery_Lake_Supply_Caches"
 
 **Template:spoiler**
 
-> “**There are several supply caches hidden around Mystery Lake. Most are left by hunters or campers. Some are left by off-grid "preppers" waiting for the government to fall, or the end of the world, or some such nonsense.**”
+> “__There are several supply caches hidden around Mystery Lake. Most are left by hunters or campers. Some are left by off-grid "preppers" waiting for the government to fall, or the end of the world, or some such nonsense.__”
 >
 > — In-game description
 
@@ -70,7 +65,7 @@ To find the caches, you first have to find the matching note or letter. These ca
 
 ## Transcripts
 
-*Whenever Mackenzie finds a Hidden Cache, he will say a variation of these lines:*
+_Whenever Mackenzie finds a Hidden Cache, he will say a variation of these lines:_
 
 - Mackenzie: "I knew I'd find something here."
 - Mackenzie: "There you are."
@@ -81,8 +76,10 @@ To find the caches, you first have to find the matching note or letter. These ca
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![One of the hidden supply caches.](../assets/Cache.png) / *One of the hidden supply caches.* | ![One of the notes which lead towards the caches.](../assets/Bloodied_note.png) / *One of the notes which lead towards the caches.* |
+![One of the hidden supply caches.](../assets/Cache.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_One of the hidden supply caches._
+
+![One of the notes which lead towards the caches.](../assets/Bloodied_note.png)
+
+_One of the notes which lead towards the caches._

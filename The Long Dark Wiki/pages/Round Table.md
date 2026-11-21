@@ -1,11 +1,6 @@
----
-title: "Round Table"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Round_Table"
----
-
 # Round Table
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Round_Table)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Round_Table"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Round_Table_icon.png) / *Round\_Table\_icon.png* |
+|  | ![](../assets/Round_Table_icon.png) / _Round\_Table\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 5.00 kg (11 lbs) |
@@ -57,5 +52,3 @@ The Round Table can be harvested with a [Hatchet](./Hatchet.md) in 1 hour 30 min
 | Quantity | 12 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Круглый стол](ru:%D0%9A%D1%80%D1%83%D0%B3%D0%BB%D1%8B%D0%B9_%D1%81%D1%82%D0%BE%D0%BB)

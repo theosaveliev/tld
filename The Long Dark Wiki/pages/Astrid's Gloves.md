@@ -1,17 +1,12 @@
----
-title: "Astrid's Gloves"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history", "Story items", "Wintermute"]
-source: "https://thelongdark.fandom.com/wiki/Astrid's_Gloves"
----
-
 # Astrid's Gloves
+
+**Categories:** Clothing, Pages with update history, Story items, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Astrid's_Gloves)
 
 **Astrid's Gloves**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Astrid%27s_Gloves_icon.png) / *Astrid's\_Gloves\_icon.png* |
+|  | ![](../assets/Astrid%27s_Gloves_icon.png) / _Astrid's\_Gloves\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -26,7 +21,7 @@ source: "https://thelongdark.fandom.com/wiki/Astrid's_Gloves"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / *2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png* | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | **Lightweight gloves. Not too warm, but very flexible.** / In-game description | ” |
+| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_ | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | __Lightweight gloves. Not too warm, but very flexible.__ / In-game description | ” |
 
 **Astrid's Gloves** are a [Clothing](./Clothing.md) item worn on the player's hands obtained during [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
@@ -36,13 +31,15 @@ Astrid's gloves can be found on a table in the basement of [Pleasant Valley Farm
 
 The statistics of Astrid's gloves are identical to those of [Fleece Mittens](./Fleece%20Mittens.md).
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Model icon](../assets/Astrid%27s_Gloves_Model_icon.png) / *Model icon* | ![Model icon damaged](../assets/Astrid%27s_Gloves_Model_Damaged_icon.png) / *Model icon damaged* |
+![Model icon](../assets/Astrid%27s_Gloves_Model_icon.png)
+
+_Model icon_
+
+![Model icon damaged](../assets/Astrid%27s_Gloves_Model_Damaged_icon.png)
+
+_Model icon damaged_
 
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Перчатки\_Астрид](ru:%D0%9F%D0%B5%D1%80%D1%87%D0%B0%D1%82%D0%BA%D0%B8_%D0%90%D1%81%D1%82%D1%80%D0%B8%D0%B4)

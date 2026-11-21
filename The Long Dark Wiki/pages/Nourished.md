@@ -1,11 +1,6 @@
----
-title: "Nourished"
-wiki_namespace: 0
-categories: ["Afflictions", "DLC Content", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Nourished"
----
-
 # Nourished
+
+**Categories:** Afflictions, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Nourished)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Nourished"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Nourished_icon.png) / *Nourished\_icon.png* |
+|  | ![](../assets/Nourished_icon.png) / _Nourished\_icon.png_ |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
 | Update | 2.17 |
 | **Properties** |  |
@@ -30,5 +25,5 @@ source: "https://thelongdark.fandom.com/wiki/Nourished"
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / **Nourished** is a unique [Affliction](./Afflictions.md) in *[The Long Dark](./The%20Long%20Dark.md)* only encountered in [Survival Mode](./Survival%20Mode.md) when consuming certain [Cooking](./Cooking.md) Recipes. It was added in the Part 3 update to the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md). / ## Overview / > “**You feel sustained after eating a meal.**” / Nourished is acquired from consuming certain recipes that gives a so-called "Max Stat Buff", temporarily increasing either the survivor's maximum [Condition](./Condition.md) by 5%-10% for 3 hours, depending on the food consumed, or their maximum [Stamina](./Stamina.md) by 15% for 3 hours. Gaining either of these benefits will apply the Nourished affliction. / ### Maximum Condition benefit (+5%/+10%) / Consuming certain recipes increases the survivor's maximum Condition by 5% or 10% for 3 hours, depending on the food consumed. This effect can raise the maximum Condition to 110%, and the Affliction's bonus stacks with [Well Fed's](./Well%20Fed.md) extra 5% Condition, making the highest attainable Condition peak at 115%. / The following foods, when consumed, grant the Nourished Affliction and the +5% maximum Condition benefit: / - ![Last\_Resort\_Soup\_icon.png](../assets/Last_Resort_Soup_icon.png) [Last Resort Soup](./Last%20Resort%20Soup.md) / - ![Vagabond\_Soup\_icon.png](../assets/Vagabond_Soup_icon.png) [Vagabond Soup](./Vagabond%20Soup.md) / The following foods, when consumed, grant the Nourished Affliction and the +10% maximum Condition benefit: / - ![Breyerhouse\_Pie\_icon.png](../assets/Breyerhouse_Pie_icon.png) [Breyerhouse Pie](./Breyerhouse%20Pie.md) / - ![Camber\_Flight\_Porridge\_icon.png](../assets/Camber_Flight_Porridge_icon.png) [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) / - ![Dockworker's\_Pie\_icon.png](../assets/Dockworker%27s_Pie_icon.png) [Dockworker's Pie](./Dockworker%27s%20Pie.md) / - ![Lily's\_Pancakes\_icon.png](../assets/Lily%27s_Pancakes_icon.png) [Lily's Pancakes](./Lily%27s%20Pancakes.md) / - ![Porter's\_Soup\_icon.png](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md) / - ![Ranger\_Stew\_icon.png](../assets/Ranger_Stew_icon.png) [Ranger Stew](./Ranger%20Stew.md) / - / The effect of this Affliction does not stack, and each new application will not override the previous Affliction. Partially eating the previously mentioned foods only adds a partial amount of Nourished duration. / ### Maximum Stamina benefit (+15%) / Consuming certain recipes increases the survivor's maximum Stamina by 15% for 3 hours. The following recipes, when consumed, grant the Nourished Affliction as well as the +15% maximum Stamina benefit as a side effect: / - ![Pemmican\_Bar\_icon.png](../assets/Pemmican_Bar_icon.png) [Pemmican Bar](./Pemmican%20Bar.md) / - ![Prepper's\_Pie\_icon.png](../assets/Prepper%27s_Pie_icon.png) [Prepper's Pie](./Prepper%27s%20Pie.md) / - ![Stalker's\_Pie\_icon.png](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md) / The effect of this Affliction does not stack, and each new application will not override the previous Affliction, even though it refreshes the duration of it. Partially eating the previously mentioned foods only adds a partial amount of Nourished duration. / ## Update history / - UPDATE **June 21, 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):** / - Added to game. / **Lua execution error in Module:Navbox function navbox**[ru:Сытость (Насыщение)](ru:%D0%A1%D1%8B%D1%82%D0%BE%D1%81%D1%82%D1%8C_%28%D0%9D%D0%B0%D1%81%D1%8B%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%29) |
-| “ | **You feel sustained after eating a meal.** | ” |
+
+| “ | __You feel sustained after eating a meal.__ | ” |

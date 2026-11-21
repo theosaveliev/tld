@@ -1,17 +1,12 @@
----
-title: "Handwritten Note (2)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Handwritten_Note_(2)"
----
-
 # Handwritten Note \(2\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Handwritten_Note_%282%29)
 
 **Handwritten Note (2)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Handwritten_Note_%282%29_icon.png) / *Handwritten\_Note\_(2)\_icon.png* |
+|  | ![](../assets/Handwritten_Note_%282%29_icon.png) / _Handwritten\_Note\_(2)\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Handwritten_Note_(2)"
 
 ## Transcript
 
-*The following text is transcribed from **Handwritten Note***
+_The following text is transcribed from **Handwritten Note**_
 
 **REMINDER  
  IN CASE OF ABSENCE
@@ -50,5 +45,3 @@ Dr Larsen**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

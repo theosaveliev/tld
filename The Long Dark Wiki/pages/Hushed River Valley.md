@@ -1,11 +1,6 @@
----
-title: "Hushed River Valley"
-wiki_namespace: 0
-categories: ["Regions"]
-source: "https://thelongdark.fandom.com/wiki/Hushed_River_Valley"
----
-
 # Hushed River Valley
+
+**Categories:** Regions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hushed_River_Valley)
 
 **Contents**
 
@@ -34,11 +29,11 @@ source: "https://thelongdark.fandom.com/wiki/Hushed_River_Valley"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| Column 1 \| / \| --- \| / \| ![](../assets/Hushed_River_Valley_title_card.png) / *Hushed\_River\_Valley\_title\_card.png* \| | 250px\]\] |
-|  | ![](../assets/Hushed_River_Valley_title_card.png) / *Hushed\_River\_Valley\_title\_card.png* |
+| \[\[File: / ![](../assets/Hushed_River_Valley_title_card.png) / _Hushed\_River\_Valley\_title\_card.png_ | 250px\]\] |
+|  | ![](../assets/Hushed_River_Valley_title_card.png) / _Hushed\_River\_Valley\_title\_card.png_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-| ![](../assets/Hushed_River_Valley_Location.png) / *Hushed\_River\_Valley\_Location.png* |  |
-| ![](../assets/Hushed_River_Valley_Region_Map.png) / *Hushed\_River\_Valley\_Region\_Map.png* |  |
+| ![](../assets/Hushed_River_Valley_Location.png) / _Hushed\_River\_Valley\_Location.png_ |  |
+| ![](../assets/Hushed_River_Valley_Region_Map.png) / _Hushed\_River\_Valley\_Region\_Map.png_ |  |
 | **Details** |  |
 | Description | A wilderness almost untouched by human hands, filled with deep valleys and steep cliff walls. |
 | Connecting Regions | [Mountain Town](./Mountain%20Town.md) |
@@ -49,7 +44,7 @@ source: "https://thelongdark.fandom.com/wiki/Hushed_River_Valley"
 | Hazards and Survivability | Lots of wind with limited shelter from weather and wildlife. |
 | Date Added | 14 June 2018 |
 
-> “**For advanced players. A remote, wind-blown valley known for its sheer cliffs, dense forests, and steep, winding paths. Although devoid of human settlements, it has long been a destination for the area's toughest mountaineers, and may still have a few secrets to reveal.**”
+> “__For advanced players. A remote, wind-blown valley known for its sheer cliffs, dense forests, and steep, winding paths. Although devoid of human settlements, it has long been a destination for the area's toughest mountaineers, and may still have a few secrets to reveal.__”
 >
 > — - In game description
 
@@ -179,22 +174,62 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) and a crashed plane locate
 
 ## Maps
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A detailed map of Hushed River Valley v2.35 (spoilers)](../assets/Hushed_River_Valley.jpg) / *A detailed map of Hushed River Valley v2.35 (spoilers)* | ![Map of Hushed River Valley v2.35 (Interloper/Misery edition, spoilers)](../assets/HRV_map_loper.jpg) / *Map of Hushed River Valley v2.35 (Interloper/Misery edition, spoilers)* | ![HRV Ice Caves Map (Interior)](../assets/Map-IceCave-wtM-100.png) / *HRV Ice Caves Map (Interior)* | ![Hushed River Valley map v1.83 (spoilers)](../assets/Map-HRV-Lv3-v183-201-edited.png) / *Hushed River Valley map v1.83 (spoilers)* |
-| ![A charcoal map of the region](../assets/Hushed_river_valley_charcoal_map.png) / *A charcoal map of the region* | ![Hushed River Valley Item Spawn Locations](../assets/Hushed_River_Valley_items_spawn_Complete.png) / *Hushed River Valley Item Spawn Locations* | ![A fully explored map](../assets/HRV_explored_charcoal_map.jpg) / *A fully explored map* | ![An ice cave map (Exterior Overlay)](../assets/P6IbxmV.png) / *An ice cave map (Exterior Overlay)* |
+![A detailed map of Hushed River Valley v2.35 (spoilers)](../assets/Hushed_River_Valley.jpg)
+
+_A detailed map of Hushed River Valley v2.35 (spoilers)_
+
+![Map of Hushed River Valley v2.35 (Interloper/Misery edition, spoilers)](../assets/HRV_map_loper.jpg)
+
+_Map of Hushed River Valley v2.35 (Interloper/Misery edition, spoilers)_
+
+![HRV Ice Caves Map (Interior)](../assets/Map-IceCave-wtM-100.png)
+
+_HRV Ice Caves Map (Interior)_
+
+![Hushed River Valley map v1.83 (spoilers)](../assets/Map-HRV-Lv3-v183-201-edited.png)
+
+_Hushed River Valley map v1.83 (spoilers)_
+
+![A charcoal map of the region](../assets/Hushed_river_valley_charcoal_map.png)
+
+_A charcoal map of the region_
+
+![Hushed River Valley Item Spawn Locations](../assets/Hushed_River_Valley_items_spawn_Complete.png)
+
+_Hushed River Valley Item Spawn Locations_
+
+![A fully explored map](../assets/HRV_explored_charcoal_map.jpg)
+
+_A fully explored map_
+
+![An ice cave map (Exterior Overlay)](../assets/P6IbxmV.png)
+
+_An ice cave map (Exterior Overlay)_
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![](../assets/River_Valley_-_cave.png) / *River\_Valley\_-\_cave.png* | ![](../assets/River_Valley_-_waterfall.png) / *River\_Valley\_-\_waterfall.png* | ![](../assets/River_Valley_-_river.jpg) / *River\_Valley\_-\_river.jpg* | ![A cave in Hushed River Valley. To rest and to cure hides.](../assets/Shelter_in_HRV.jpg) / *A cave in Hushed River Valley. To rest and to cure hides.* |
-| ![Rainbow as seen at Twin Sister Falls](../assets/HRV_waterfall_rainbow.jpg) / *Rainbow as seen at Twin Sister Falls* |  |  |  |
+![](../assets/River_Valley_-_cave.png)
+
+_River\_Valley\_-\_cave.png_
+
+![](../assets/River_Valley_-_waterfall.png)
+
+_River\_Valley\_-\_waterfall.png_
+
+![](../assets/River_Valley_-_river.jpg)
+
+_River\_Valley\_-\_river.jpg_
+
+![A cave in Hushed River Valley. To rest and to cure hides.](../assets/Shelter_in_HRV.jpg)
+
+_A cave in Hushed River Valley. To rest and to cure hides._
+
+![Rainbow as seen at Twin Sister Falls](../assets/HRV_waterfall_rainbow.jpg)
+
+_Rainbow as seen at Twin Sister Falls_
 
 ## Reference
 
 [\[1](http://www.thelongdark.com/news/dev-diary-april-2018/)\]
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**
 
 [es:Valle del río susurrante](es:Valle_del_r%C3%ADo_susurrante) [ru:Долина Тихой реки](ru:%D0%94%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A2%D0%B8%D1%85%D0%BE%D0%B9_%D1%80%D0%B5%D0%BA%D0%B8) [fr:Vallée de la Rivière Calme](fr:Vall%C3%A9e_de_la_Rivi%C3%A8re_Calme)

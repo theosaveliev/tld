@@ -1,17 +1,12 @@
----
-title: "Festive Sweater"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Festive_Sweater"
----
-
 # Festive Sweater
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Festive_Sweater)
 
 **Festive Sweater**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Festive_Sweater_icon.png) / *Festive\_Sweater\_icon.png* |
+|  | ![](../assets/Festive_Sweater_icon.png) / _Festive\_Sweater\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Inner torso |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Festive_Sweater"
 | Harvest | 1 × [Cloth](./Cloth.md) / 30 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 60 minutes / 40% condition |
 
-> “**A warm, durable sweater fit for the holiday season.**”
+> “__A warm, durable sweater fit for the holiday season.__”
 >
 > — In-game description
 
-A **Festive Sweater** is a type of clothing in *[The Long Dark](./The%20Long%20Dark.md)*.
+A **Festive Sweater** is a type of clothing in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -57,8 +52,10 @@ It is one of the best Inner Torso clothing which can spawn on [Interloper](./Int
 
 ==Gallery==
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model](../assets/SweaterChristmasA.png) / *Clothing model* | ![Clothing model damaged](../assets/SweaterChristmasA_dmg.png) / *Clothing model damaged* |
+![Clothing model](../assets/SweaterChristmasA.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Праздничный свитер](ru:%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D1%81%D0%B2%D0%B8%D1%82%D0%B5%D1%80)
+_Clothing model_
+
+![Clothing model damaged](../assets/SweaterChristmasA_dmg.png)
+
+_Clothing model damaged_

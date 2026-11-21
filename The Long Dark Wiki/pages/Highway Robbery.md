@@ -1,19 +1,14 @@
----
-title: "Highway Robbery"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Highway_Robbery"
----
-
 # Highway Robbery
 
-*For the side mission found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), see [Highway Robbery (mission)](./Highway%20Robbery%20%28mission%29.md).*
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Highway_Robbery)
+
+_For the side mission found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), see [Highway Robbery (mission)](./Highway%20Robbery%20%28mission%29.md)._
 
 **Highway Robbery**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Highway_Robbery_icon.png) / *Highway\_Robbery\_icon.png* |
+|  | ![](../assets/Highway_Robbery_icon.png) / _Highway\_Robbery\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Highway Robbery](./Highway%20Robbery%20%28mission%29.md) |
 | **Properties** |  |
@@ -30,11 +25,11 @@ source: "https://thelongdark.fandom.com/wiki/Highway_Robbery"
 
 **Highway Robbery** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode to start the [Highway Robbery](./Highway%20Robbery%20%28mission%29.md) side mission.
 
-During the course of the mission, the surivor finds the note *Highway Robbery* from the [Orca Gas Station](./Orca%20Gas%20Station.md) outside [Milton](./Milton.md), and investigates an abandonded truck on [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md).
+During the course of the mission, the surivor finds the note _Highway Robbery_ from the [Orca Gas Station](./Orca%20Gas%20Station.md) outside [Milton](./Milton.md), and investigates an abandonded truck on [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md).
 
 ## Transcript
 
-*The following text is transcribed from **Highway Robbery***
+_The following text is transcribed from **Highway Robbery**_
 
 **Hey Bud, sorry to leave you hanging like this with the storm and the power and everything. But it sounds like it's all gone to hell out at the upper bridge tonight. Cars broken down, a mess. And some rich Mainlander won't budge from his truck. Probably thinks we're all a bunch of bandits waiting to rip him off, usual story.
 
@@ -50,5 +45,3 @@ Peter**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

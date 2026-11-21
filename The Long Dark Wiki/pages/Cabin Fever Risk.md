@@ -1,11 +1,6 @@
----
-title: "Cabin Fever Risk"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cabin_Fever_Risk"
----
-
 # Cabin Fever Risk
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cabin_Fever_Risk)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Cabin_Fever_Risk"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cabin_Fever_Risk_icon.png) / *Cabin\_Fever\_Risk\_icon.png* |
+|  | ![](../assets/Cabin_Fever_Risk_icon.png) / _Cabin\_Fever\_Risk\_icon.png_ |
 | Release | [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.338) |
 | Update | 0.338 |
 | **Properties** |  |
@@ -34,7 +29,7 @@ source: "https://thelongdark.fandom.com/wiki/Cabin_Fever_Risk"
 | **Advanced Data** |  |
 | Item Key | GAMEPLAY\_CabinFeverRisk |
 
-> “**You've been indoors so long you are starting to feel very uneasy. Spend some time outdoors before it gets worse!**”
+> “__You've been indoors so long you are starting to feel very uneasy. Spend some time outdoors before it gets worse!__”
 >
 > — In-game description
 
@@ -75,11 +70,11 @@ Some [Cooking](./Cooking.md) Recipes increases the amount of time considered as 
 
 | Item | Name |
 | --- | --- |
-| ![](../assets/Breyerhouse_Pie_icon.png) / *Breyerhouse\_Pie\_icon.png* | [Breyerhouse Pie](./Breyerhouse%20Pie.md) |
-| ![](../assets/Coastal_Fishcakes_icon.png) / *Coastal\_Fishcakes\_icon.png* | [Coastal Fishcakes](./Coastal%20Fishcakes.md) |
-| ![](../assets/Dockworker%27s_Pie_icon.png) / *Dockworker's\_Pie\_icon.png* | [Dockworker's Pie](./Dockworker%27s%20Pie.md) |
-| ![](../assets/Prepper%27s_Pie_icon.png) / *Prepper's\_Pie\_icon.png* | [Prepper's Pie](./Prepper%27s%20Pie.md) |
-| ![](../assets/Stalker%27s_Pie_icon.png) / *Stalker's\_Pie\_icon.png* | [Stalker's Pie](./Stalker%27s%20Pie.md) |
+| ![](../assets/Breyerhouse_Pie_icon.png) / _Breyerhouse\_Pie\_icon.png_ | [Breyerhouse Pie](./Breyerhouse%20Pie.md) |
+| ![](../assets/Coastal_Fishcakes_icon.png) / _Coastal\_Fishcakes\_icon.png_ | [Coastal Fishcakes](./Coastal%20Fishcakes.md) |
+| ![](../assets/Dockworker%27s_Pie_icon.png) / _Dockworker's\_Pie\_icon.png_ | [Dockworker's Pie](./Dockworker%27s%20Pie.md) |
+| ![](../assets/Prepper%27s_Pie_icon.png) / _Prepper's\_Pie\_icon.png_ | [Prepper's Pie](./Prepper%27s%20Pie.md) |
+| ![](../assets/Stalker%27s_Pie_icon.png) / _Stalker's\_Pie\_icon.png_ | [Stalker's Pie](./Stalker%27s%20Pie.md) |
 
 ## Update history
 
@@ -89,5 +84,3 @@ Some [Cooking](./Cooking.md) Recipes increases the amount of time considered as 
   - Added a grace period for Voyageur and Stalker and removed the affliction entirely on Pilgrim.
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28_%28Steam%2C_Epic_Games%2C_Xbox%2C_PlayStation%29_%28TFTFT_PART_FIVE%3A_Last_Horizon_Update%29)):**
   - Added the Settled Mind [Feat](./Feats.md) to the game, which eliminates Cabin Fever Risk.
-
-**Lua execution error in Module:Navbox function navbox**

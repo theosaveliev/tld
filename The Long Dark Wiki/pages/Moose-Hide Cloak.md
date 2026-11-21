@@ -1,11 +1,6 @@
----
-title: "Moose-Hide Cloak"
-wiki_namespace: 0
-categories: ["Clothing", "Craftable clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Moose-Hide_Cloak"
----
-
 # Moose\-Hide Cloak
+
+**Categories:** Clothing, Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Moose-Hide_Cloak)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Moose-Hide_Cloak"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Moose-Hide_Cloak_icon.png) / *Moose-Hide\_Cloak\_icon.png* |
+|  | ![](../assets/Moose-Hide_Cloak_icon.png) / _Moose-Hide\_Cloak\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Outer torso |
@@ -33,11 +28,11 @@ source: "https://thelongdark.fandom.com/wiki/Moose-Hide_Cloak"
 | Harvest | 1 × [Cured Moose Hide](./Cured%20Moose%20Hide.md) / 120 minutes |
 | Repair | 1 × [Cured Moose Hide](./Cured%20Moose%20Hide.md), / 2 × [Cured Gut](./Cured%20Gut.md) / 120 minutes / 60% condition |
 
-> “**Cloak crafted from Moose hide. Heavy, but offers significant protection from unfriendly wildlife, and is highly waterproof. A rare trophy."**”
+> “__Cloak crafted from Moose hide. Heavy, but offers significant protection from unfriendly wildlife, and is highly waterproof. A rare trophy."__”
 >
 > — In-game description
 
-The **Moose-Hide Cloak** is a type of [clothing](./Clothing.md) in *The Long Dark*.
+The **Moose-Hide Cloak** is a type of [clothing](./Clothing.md) in _The Long Dark_.
 
 ## Overview
 
@@ -73,13 +68,15 @@ Note: Crafting Moose-Hide Cloaks costs durability of the used tool (e.g. [huntin
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Moose-Hide_Cloak_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Moose-Hide_Cloak_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Clothing model icon](../assets/Moose-Hide_Cloak_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Moose-Hide_Cloak_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Update history
 
 - UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Плащ из лосиной шкуры](ru:%D0%9F%D0%BB%D0%B0%D1%89_%D0%B8%D0%B7_%D0%BB%D0%BE%D1%81%D0%B8%D0%BD%D0%BE%D0%B9_%D1%88%D0%BA%D1%83%D1%80%D1%8B)

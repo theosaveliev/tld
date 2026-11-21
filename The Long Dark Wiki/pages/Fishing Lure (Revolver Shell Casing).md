@@ -1,17 +1,12 @@
----
-title: "Fishing Lure (Revolver Shell Casing)"
-wiki_namespace: 0
-categories: ["Ice Fishing", "Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Fishing_Lure_(Revolver_Shell_Casing)"
----
-
 # Fishing Lure \(Revolver Shell Casing\)
+
+**Categories:** Ice Fishing, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fishing_Lure_%28Revolver_Shell_Casing%29)
 
 **Fishing Lure (Revolver Shell Casing)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) / *Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png* |
+|  | ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) / _Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_ |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
 | Wintermute | No |
 | **Properties** |  |
@@ -35,7 +30,7 @@ It is impossible to craft this lure on [Interloper](./Interloper.md) or [Misery]
 
 | Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) / *Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png* | Fishing Lure (Casing) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) / _Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_ | Fishing Lure (Casing) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
 
 ## Crafting
 
@@ -63,7 +58,5 @@ It is impossible to craft this lure on [Interloper](./Interloper.md) or [Misery]
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Рыбная приманка (гильза)](ru:%D0%A0%D1%8B%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0_%28%D0%B3%D0%B8%D0%BB%D1%8C%D0%B7%D0%B0%29)

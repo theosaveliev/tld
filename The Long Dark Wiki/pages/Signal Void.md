@@ -1,11 +1,6 @@
----
-title: "Signal Void"
-wiki_namespace: 0
-categories: ["DLC Content", "Tales"]
-source: "https://thelongdark.fandom.com/wiki/Signal_Void"
----
-
 # Signal Void
+
+**Categories:** DLC Content, Tales · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Signal_Void)
 
 **Contents**
 
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Signal_Void"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Tales_objectives_01_signalVoid.png) / *Tales\_objectives\_01\_signalVoid.png* |
+|  | ![](../assets/Tales_objectives_01_signalVoid.png) / _Tales\_objectives\_01\_signalVoid.png_ |
 | **Missions** |  |
 | Current | Signal Void |
 | Next | [Buried Echoes](./Buried%20Echoes.md) |
@@ -33,7 +28,7 @@ source: "https://thelongdark.fandom.com/wiki/Signal_Void"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | **Track down the mysterious radio transmissions across Great Bear Island.** | ” |
+| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __Track down the mysterious radio transmissions across Great Bear Island.__ | ” |
 
 **Signal Void** is the first of four [Tales](./Tales.md) in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC. Tales are narrative-based objectives for Survival mode. It is not a selectable [Challenge](./Challenge.md) but instead must be activated by first starting a Survival game.
 
@@ -41,14 +36,14 @@ source: "https://thelongdark.fandom.com/wiki/Signal_Void"
 
 ![](../assets/Signal_Void_Banner.jpg)
 
-*Signal\_Void\_Banner.jpg*
+_Signal\_Void\_Banner.jpg_
 
 Signal Void begins when the player finds a note located on the top floor of the [Control Tower](./Control%20Tower.md) in the [Forsaken Airfield](./Forsaken%20Airfield.md) [Region](./Region.md). The note, labeled [Field 31 Operation Memo](./Field%2031%20Operation%20Memo.md), details information about the Airfield staff's efforts to try and expand the radio wave coverage of several preexisting radio towers located within Lower Great Bear, in order to sync them with Airfield 31's radio coverage. The memo also makes note of the presence of several anomalous transmission signals that were detected across the island, but their sources were otherwise unable to be identified.
 
 After reading and pocketing the note, the player will automatically receive a [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md), and a new section in the Journal menu (a flag submenu icon labeled Tales) will appear to keep track of the memo's objectives.
 
-** *SPOILER WARNING*  
- *This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark.* **
+** _SPOILER WARNING_  
+ _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._ **
 
 ## Objectives
 
@@ -103,7 +98,7 @@ After all transmitters are repaired, your next objective is to investigate the s
 
 When an [Aurora](./Aurora.md) becomes active in the night sky, use your Handheld Shortwave Radio to home in on the signal (switch to Blue setting). Follow the radio transmissions and you will be eventually find yourself uncovering the entrance of an underground bunker.
 
-***\*Important\****
+_**\*Important\***_
 
 Even if you use [Charcoal](./Charcoal.md) to uncover the location of a bunker (either near the bunker or via a [Polaroid](./Polaroids.md) Vista) or if you already know the location of the bunkers, the game will not allow you to uncover a bunker hatch unless your radio is currently powered. (The same is true for any hidden supply caches. See [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) for more details.)
 
@@ -152,5 +147,3 @@ As you progress with the objectives of Signal Void, the purpose of each of the b
 
 - Completing the Tale will award the player with a unique [Badge](./Badges.md) of the same name.
 - This was the first survival mode Tale released for The Long Dark, and is estimated by [Hinterland](./Hinterland%20Studio%20Inc..md) to take 5+ hours to complete.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Нет сигнала](ru:%D0%9D%D0%B5%D1%82_%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B0)

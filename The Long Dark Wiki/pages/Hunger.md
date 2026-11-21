@@ -1,11 +1,6 @@
----
-title: "Hunger"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Hunger"
----
-
 # Hunger
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunger)
 
 **Contents**
 
@@ -71,5 +66,3 @@ When no more calories are in the calorie store, [Condition](./Condition.md) drai
 - "Never thought I'd die of starvation."
 - "I've never been so hungry in my life!"
 - (Various stomach growling noises)
-
-**Lua execution error in Module:Navbox function navbox**

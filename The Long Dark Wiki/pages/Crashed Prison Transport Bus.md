@@ -1,33 +1,28 @@
----
-title: "Crashed Prison Transport Bus"
-wiki_namespace: 0
-categories: ["Locations", "Locations in Mountain Town", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Crashed_Prison_Transport_Bus"
----
-
 # Crashed Prison Transport Bus
+
+**Categories:** Locations, Locations in Mountain Town, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crashed_Prison_Transport_Bus)
 
 **Crashed Prison Transport Bus**
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Approach](../assets/PrisonBus.jpg) / *Approach* \| ![Tunnel Collapse](../assets/Tunnel_Collapse.png) / *Tunnel Collapse* \| / \| --- \| --- \| | 250px\|Will approaches the bus\]\] |
-| ![Approach](../assets/PrisonBus.jpg) / *Approach* | ![Tunnel Collapse](../assets/Tunnel_Collapse.png) / *Tunnel Collapse* |
+| \[\[File: / ![Approach](../assets/PrisonBus.jpg) / _Approach_ / ![Tunnel Collapse](../assets/Tunnel_Collapse.png) / _Tunnel Collapse_ | 250px\|Will approaches the bus\]\] |
+| ![Approach](../assets/PrisonBus.jpg) / _Approach_ | ![Tunnel Collapse](../assets/Tunnel_Collapse.png) / _Tunnel Collapse_ |
 | **Location** |  |
-| ![](../assets/Crashed_Prison_Transport_Bus_Location.png) / *Crashed\_Prison\_Transport\_Bus\_Location.png* |  |
+| ![](../assets/Crashed_Prison_Transport_Bus_Location.png) / _Crashed\_Prison\_Transport\_Bus\_Location.png_ |  |
 | Region | [Mountain Town](./Mountain%20Town.md)\|- / Location |
 | Description | A collapsed tunnel and crashed bus |
 | **General** |  |
 | Type | Outdoors\|- |
 | Missions | [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3) |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
-> “**Hey...you think they put me on that bus for my good behaviour? That's the bus to Blackrock. **”
+> “__Hey...you think they put me on that bus for my good behaviour? That's the bus to Blackrock. __”
 >
 > — [Hobbs](./Hobbs.md)
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Blackrock's bus drivers have what many consider to be the cushiest and safest job at the Penitentiary.**
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Blackrock's bus drivers have what many consider to be the cushiest and safest job at the Penitentiary.__
 
 [Load Screen](./Load%20Screen.md) Description
 
@@ -39,7 +34,7 @@ The bus, which was carrying the [Convicts](./Convicts.md), inmates to [Blackrock
 
 ## Story Mode
 
-![](../assets/Perseverance.jpg)![](../assets/Perseverence_logo.png) Although the locale can be encountered at any point while exploring Milton, it must be visited as part of the main [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) questline. [Grey Mother](./Grey%20Mother.md) sends [Will Mackenzie](./Will%20Mackenzie.md) to investigate the tunnel, where he finds the bus crash and the collapsed tunnel. A cutscene shows Mackenzie noticing the scrap of clothing in the bus door, and then revealing the word *PERSEVERANCE* written in blood on the floor inside the bus, presumably by [Astrid Greenwood](./Astrid%20Greenwood.md), leading Will to believe that Astrid made her way to the town of [Perseverance Mills](./Perseverance%20Mills.md).
+![](../assets/Perseverance.jpg)![](../assets/Perseverence_logo.png) Although the locale can be encountered at any point while exploring Milton, it must be visited as part of the main [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) questline. [Grey Mother](./Grey%20Mother.md) sends [Will Mackenzie](./Will%20Mackenzie.md) to investigate the tunnel, where he finds the bus crash and the collapsed tunnel. A cutscene shows Mackenzie noticing the scrap of clothing in the bus door, and then revealing the word _PERSEVERANCE_ written in blood on the floor inside the bus, presumably by [Astrid Greenwood](./Astrid%20Greenwood.md), leading Will to believe that Astrid made her way to the town of [Perseverance Mills](./Perseverance%20Mills.md).
 
 ## Trivia
 
@@ -61,10 +56,12 @@ The bus, which was carrying the [Convicts](./Convicts.md), inmates to [Blackrock
   - BAKER, J. - Joel Baker - Programmer
   - DESCUBES, V. - Vincent Descubes - Programmer
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Crashed Prison Transport Bus](../assets/Crashed_Prison_Transport_Bus.png) / *Crashed Prison Transport Bus* | ![Can't access inside in Survival](../assets/Crashed_Prison_Transport_Bus_2.png) / *Can't access inside in Survival* |
+![Crashed Prison Transport Bus](../assets/Crashed_Prison_Transport_Bus.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Crashed Prison Transport Bus_
+
+![Can't access inside in Survival](../assets/Crashed_Prison_Transport_Bus_2.png)
+
+_Can't access inside in Survival_
 
 [ru:Сломанный тюремный автобус](ru:%D0%A1%D0%BB%D0%BE%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D1%8E%D1%80%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81) [es:Autobús de la prisión accidentado](es:Autob%C3%BAs_de_la_prisi%C3%B3n_accidentado)

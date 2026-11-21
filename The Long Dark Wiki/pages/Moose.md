@@ -1,11 +1,6 @@
----
-title: "Moose"
-wiki_namespace: 0
-categories: ["Pages with update history", "Wildlife"]
-source: "https://thelongdark.fandom.com/wiki/Moose"
----
-
 # Moose
+
+**Categories:** Pages with update history, Wildlife · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Moose)
 
 **Contents**
 
@@ -44,7 +39,7 @@ source: "https://thelongdark.fandom.com/wiki/Moose"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Moose.png) / *Moose.png* |
+|  | ![](../assets/Moose.png) / _Moose.png_ |
 | **Basic Information** |  |
 | Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16) |
 | Role | Prey |
@@ -53,11 +48,11 @@ source: "https://thelongdark.fandom.com/wiki/Moose"
 | Size | Large |
 | Eyes | Brown |
 
-> “**If you see trees with scratched bark, this might mean Moose are in the area. Listen for them!**”
+> “__If you see trees with scratched bark, this might mean Moose are in the area. Listen for them!__”
 >
 > — [Load Screen](./Load%20Screen.md) description
 
-**Moose** are large, solitary animals in *[The Long Dark](./The%20Long%20Dark.md)*. They appear rarely in most regions and can be difficult to find. Their hides and meat are useful, but they are aggressive and can cause serious injury when provoked.
+**Moose** are large, solitary animals in _[The Long Dark](./The%20Long%20Dark.md)_. They appear rarely in most regions and can be difficult to find. Their hides and meat are useful, but they are aggressive and can cause serious injury when provoked.
 
 ## Overview
 
@@ -69,17 +64,17 @@ A [Moose Carcass](./Moose%20Carcass.md) may be harvested for 30.00-45.00 kg of r
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![](../assets/Moose_Meat_%28Raw%29_icon.png) / *Moose\_Meat\_(Raw)\_icon.png* | [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) | 30 - 45 | Always[¹](#fn1) |
-| ![](../assets/Moose_Quarter_icon.png) / *Moose\_Quarter\_icon.png* | [Moose Quarter](./Moose%20Quarter.md) | 6 - 9 | Always[²](#fn2) |
-| ![](../assets/Fresh_Moose_Hide_icon.png) / *Fresh\_Moose\_Hide\_icon.png* | [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) | 1 | Always |
-| ![](../assets/Fresh_Gut_icon.png) / *Fresh\_Gut\_icon.png* | [Fresh Gut](./Fresh%20Gut.md) | 12 | Always |
+| ![](../assets/Moose_Meat_%28Raw%29_icon.png) / _Moose\_Meat\_(Raw)\_icon.png_ | [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) | 30 - 45 | Always[¹](#fn1) |
+| ![](../assets/Moose_Quarter_icon.png) / _Moose\_Quarter\_icon.png_ | [Moose Quarter](./Moose%20Quarter.md) | 6 - 9 | Always[²](#fn2) |
+| ![](../assets/Fresh_Moose_Hide_icon.png) / _Fresh\_Moose\_Hide\_icon.png_ | [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) | 1 | Always |
+| ![](../assets/Fresh_Gut_icon.png) / _Fresh\_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 12 | Always |
 |  |  |  |  |
 
 Animal Fat is produced automatically when harvesting raw meat. It cannot be harvested separately and does not appear when Harvesting a Carcass.
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![](../assets/Animal_Fat_icon.png) / *Animal\_Fat\_icon.png* | [Animal Fat](./Animal%20Fat.md) | 0.15 per kg of meat | Always |
+| ![](../assets/Animal_Fat_icon.png) / _Animal\_Fat\_icon.png_ | [Animal Fat](./Animal%20Fat.md) | 0.15 per kg of meat | Always |
 
 ## Behaviour
 
@@ -87,7 +82,7 @@ Moose have three paces: walking, fleeing, and charging. They behave similar to d
 
 ## Interactions with Wildlife
 
-![A Moose and Bear ignoring one another](../assets/Moose_and_Bear.jpg)*A Moose and Bear ignoring one another* Moose will ignore [Rabbit](./Rabbit.md), [Ptarmigan](./Ptarmigan.md), [Deer](./Deer.md), and [Bear](./Bear.md), but will flee from the presence of a [Cougar](./Cougar.md), [Wolf](./Wolf.md), [Timberwolf](./Timberwolf.md), [Poisoned Wolf](./Poisoned%20Wolf.md). Wolves will not attack and kill a Moose, but instead will flee, making the Moose the only prey animal they will not hunt.
+![A Moose and Bear ignoring one another](../assets/Moose_and_Bear.jpg)_A Moose and Bear ignoring one another_ Moose will ignore [Rabbit](./Rabbit.md), [Ptarmigan](./Ptarmigan.md), [Deer](./Deer.md), and [Bear](./Bear.md), but will flee from the presence of a [Cougar](./Cougar.md), [Wolf](./Wolf.md), [Timberwolf](./Timberwolf.md), [Poisoned Wolf](./Poisoned%20Wolf.md). Wolves will not attack and kill a Moose, but instead will flee, making the Moose the only prey animal they will not hunt.
 
 ### Tree Rubbings
 
@@ -95,7 +90,7 @@ While wandering within close proximity of a suitable tree, an antler rub on a tr
 
 ### Hostility
 
-![Moose in hostile posture - The player is too close.](../assets/Moosewarning.png)*Moose in hostile posture - The player is too close.* Moose have a detection radius within which they become aware of the player. When the player is within the radius, Moose will stop walking and turn to stare at the player, grunting and stomping on the ground as a warning. If the player fails to leave the radius immediately, the Moose will charge and attempt to trample the player (except on Pilgrim, where they stomp and then flee unless provoked).
+![Moose in hostile posture - The player is too close.](../assets/Moosewarning.png)_Moose in hostile posture - The player is too close._ Moose have a detection radius within which they become aware of the player. When the player is within the radius, Moose will stop walking and turn to stare at the player, grunting and stomping on the ground as a warning. If the player fails to leave the radius immediately, the Moose will charge and attempt to trample the player (except on Pilgrim, where they stomp and then flee unless provoked).
 
 A Moose will immediately charge any player that fires a projectile or otherwise attacks/attempts to attack it. Similar to Bears, Moose will only charge if it can access the player's location; otherwise it will flee.
 
@@ -135,10 +130,10 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 | Weapon | Critical Hit Chance |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
-| ![](../assets/Hunting_Rifle_icon.png) / *Hunting\_Rifle\_icon.png* | [Hunting Rifle](./Hunting%20Rifle.md) | 25% | 20% | 10% | 0% | 0% |
-| ![](../assets/Survival_Bow_icon.png) / *Survival\_Bow\_icon.png* | [Survival Bow](./Survival%20Bow.md) |  |  |  |  |  |
-| ![](../assets/Revolver_icon.png) / *Revolver\_icon.png* | [Revolver](./Revolver.md) | 10% | 10% | 3% | 0% | 0% |
-| ![](../assets/Distress_Pistol_icon.png) / *Distress\_Pistol\_icon.png* | [Distress Pistol](./Distress%20Pistol.md) | 0% | 0% | 0% | 0% | 0% |
+| ![](../assets/Hunting_Rifle_icon.png) / _Hunting\_Rifle\_icon.png_ | [Hunting Rifle](./Hunting%20Rifle.md) | 25% | 20% | 10% | 0% | 0% |
+| ![](../assets/Survival_Bow_icon.png) / _Survival\_Bow\_icon.png_ | [Survival Bow](./Survival%20Bow.md) |  |  |  |  |  |
+| ![](../assets/Revolver_icon.png) / _Revolver\_icon.png_ | [Revolver](./Revolver.md) | 10% | 10% | 3% | 0% | 0% |
+| ![](../assets/Distress_Pistol_icon.png) / _Distress\_Pistol\_icon.png_ | [Distress Pistol](./Distress%20Pistol.md) | 0% | 0% | 0% | 0% | 0% |
 
 ## Locations
 
@@ -148,7 +143,7 @@ In particular, most active moose areas have a 25% chance every in-game 48 hours 
 
 ### Tree Bark Marks
 
-![Tree Marks on Birch](../assets/Moose_tree_marks.jpg)*Tree Marks on Birch* Tree Trunks with bark scratch marks indicate a possible Moose spawn location; typically several marked trees form a rough ring around a possible spawn area.
+![Tree Marks on Birch](../assets/Moose_tree_marks.jpg)_Tree Marks on Birch_ Tree Trunks with bark scratch marks indicate a possible Moose spawn location; typically several marked trees form a rough ring around a possible spawn area.
 
 ### Ash Canyon
 
@@ -237,19 +232,61 @@ In particular, most active moose areas have a 25% chance every in-game 48 hours 
 
 ## Trivia
 
-- Moose are based off the real world [Moose](https://en.wikipedia.org/wiki/Moose) (***Alces alces***), the largest species of Cervidae. All Moose in game are male bulls.[1](https://en.wikipedia.org/wiki/Moose)
+- Moose are based off the real world [Moose](https://en.wikipedia.org/wiki/Moose) (**_Alces alces_**), the largest species of Cervidae. All Moose in game are male bulls.[1](https://en.wikipedia.org/wiki/Moose)
 - Raphael van Lierop initially joked about removing Moose if he wouldn't get good programmers in his vacant positions.[³](#fn3)
-- [Tin of Coffee](./Tin%20of%20Coffee.md) is branded as "*Big Moose Kicks Coffee"* with an image of a moose and their tracks.
+- [Tin of Coffee](./Tin%20of%20Coffee.md) is branded as "_Big Moose Kicks Coffee"_ with an image of a moose and their tracks.
 - Tree Rubs are a real-world phenomena made by male moose during mating season. They occur when moose rub their antlers on trees annually in September when they finish growing, and again in November-March to shed them.
 - In real life Moose are one of the deadliest animals in Canada and Alaska, causing [40 deaths and 500 injuries annually](https://books.google.com/books?id=kpBOpT1oszIC&printsec=frontcover&dq=Don%27t+Get+Eaten:+The+Dangers+of+Animals+that+Charge+or+Attack&hl=en&sa=X&ved=2ahUKEwjE3a3N1M7kAhUOWa0KHWw3DfAQ6AEwAHoECAAQAg#v=onepage&q=Don't%20Get%20Eaten%3A%20The%20Dangers%20of%20Animals%20that%20Charge%20or%20Attack&f=false) (mostly from car accidents); more than Black Bear and Grizzly Bear combined).
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Moose before attacking the player](../assets/Mooseattack.jpg) / *Moose before attacking the player* | ![ditto](../assets/Moose_up_close.jpg) / *ditto* | ![A running moose](../assets/Mooserun.gif) / *A running moose* | ![Dead moose in Timberwolf Mountain](../assets/Moose_carcass.png) / *Dead moose in [Timberwolf Mountain](./Timberwolf%20Mountain.md)* |
-| ![several marks form a rough ring around a possible spawn area. (Mystery Lake)](../assets/Moose-trees.jpg) / *several marks form a rough ring around a possible spawn area. (Mystery Lake)* | ![scratch marks](../assets/Moose-mark.jpg) / *scratch marks* | ![A slain Moose mini-base in Milton Basin.](../assets/Slayed_Moose_Mini-Base_in_Milton_Basin.jpg) / *A slain Moose mini-base in Milton Basin.* | ![2020 Christmas Dev log with a moose](../assets/Seasons_greetings_2020.png) / *2020 Christmas Dev log with a moose* |
-| ![Ditto](../assets/Seasons_greetings.jpg) / *Ditto* | ![Moose on Tin of Coffee](../assets/Tin_of_Coffee_icon.png) / *Moose on [Tin of Coffee](./Tin%20of%20Coffee.md)* | ![ditto, unused texture](../assets/GEAR_CoffeeTin_Dif.png) / *ditto, unused texture* | ![A real world Cup of Coffee Tin cup with a moose](../assets/Moose_Mug_Coffee_Real.webp) / *A real world Cup of Coffee Tin cup with a moose* |
+![Moose before attacking the player](../assets/Mooseattack.jpg)
+
+_Moose before attacking the player_
+
+![ditto](../assets/Moose_up_close.jpg)
+
+_ditto_
+
+![A running moose](../assets/Mooserun.gif)
+
+_A running moose_
+
+![Dead moose in Timberwolf Mountain](../assets/Moose_carcass.png)
+
+_Dead moose in [Timberwolf Mountain](./Timberwolf%20Mountain.md)_
+
+![several marks form a rough ring around a possible spawn area. (Mystery Lake)](../assets/Moose-trees.jpg)
+
+_several marks form a rough ring around a possible spawn area. (Mystery Lake)_
+
+![scratch marks](../assets/Moose-mark.jpg)
+
+_scratch marks_
+
+![A slain Moose mini-base in Milton Basin.](../assets/Slayed_Moose_Mini-Base_in_Milton_Basin.jpg)
+
+_A slain Moose mini-base in Milton Basin._
+
+![2020 Christmas Dev log with a moose](../assets/Seasons_greetings_2020.png)
+
+_2020 Christmas Dev log with a moose_
+
+![Ditto](../assets/Seasons_greetings.jpg)
+
+_Ditto_
+
+![Moose on Tin of Coffee](../assets/Tin_of_Coffee_icon.png)
+
+_Moose on [Tin of Coffee](./Tin%20of%20Coffee.md)_
+
+![ditto, unused texture](../assets/GEAR_CoffeeTin_Dif.png)
+
+_ditto, unused texture_
+
+![A real world Cup of Coffee Tin cup with a moose](../assets/Moose_Mug_Coffee_Real.webp)
+
+_A real world Cup of Coffee Tin cup with a moose_
 
 ## Update history
 
@@ -279,8 +316,6 @@ In particular, most active moose areas have a 25% chance every in-game 48 hours 
 
 - UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)):**
   - Added the Moose to all Survival Mode regions.
-
-==References== **Template:reflist** **Lua execution error in Module:Navbox function navbox**
 
 [ru:Лось](ru:%D0%9B%D0%BE%D1%81%D1%8C) [es:Alce](es:Alce)
 

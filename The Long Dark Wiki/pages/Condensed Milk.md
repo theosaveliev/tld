@@ -1,11 +1,6 @@
----
-title: "Condensed Milk"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Condensed_Milk"
----
-
 # Condensed Milk
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Condensed_Milk)
 
 **Contents**
 
@@ -18,8 +13,8 @@ source: "https://thelongdark.fandom.com/wiki/Condensed_Milk"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Sealed](../assets/Condensed_Milk_icon.png) / *Sealed* \| ![Opened](../assets/Condensed_Milk_%28Opened%29_icon.png) / *Opened* \| / \| --- \| --- \| | 250px\]\] |
-| ![Sealed](../assets/Condensed_Milk_icon.png) / *Sealed* | ![Opened](../assets/Condensed_Milk_%28Opened%29_icon.png) / *Opened* |
+| \[\[File: / ![Sealed](../assets/Condensed_Milk_icon.png) / _Sealed_ / ![Opened](../assets/Condensed_Milk_%28Opened%29_icon.png) / _Opened_ | 250px\]\] |
+| ![Sealed](../assets/Condensed_Milk_icon.png) / _Sealed_ | ![Opened](../assets/Condensed_Milk_%28Opened%29_icon.png) / _Opened_ |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
 | Wintermute | No |
 | **Properties** |  |
@@ -37,7 +32,7 @@ source: "https://thelongdark.fandom.com/wiki/Condensed_Milk"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_CondensedMilk |
 
-**Condensed Milk** is a packaged [food](./Food%20And%20Drink.md) item in *The Long Dark*.
+**Condensed Milk** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
 ## Overview
 
@@ -51,19 +46,17 @@ Contrary to its in-game description, Condensed Milk [spoils](./Decay.md) quickly
 
 ## Trivia
 
-- Condensed milk is packaged as a product called *Little Cow: Condensed Milk* with a picture of a cow, fittingly.
+- Condensed milk is packaged as a product called _Little Cow: Condensed Milk_ with a picture of a cow, fittingly.
 - The side of the can lists "Ingredients: Evaporated Cows Milk, Vitamin D."
 - Condensed Milk will not spawn on Interloper mode.
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model](../assets/Condensed_milk.png) / *Old model* |
+![Old model](../assets/Condensed_milk.png)
+
+_Old model_
 
 ## Update history
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Банка сгущёнки](ru:%D0%91%D0%B0%D0%BD%D0%BA%D0%B0_%D1%81%D0%B3%D1%83%D1%89%D1%91%D0%BD%D0%BA%D0%B8)

@@ -1,20 +1,15 @@
----
-title: "Paradise Lost (Achievement)"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Paradise_Lost_(Achievement)"
----
-
 # Paradise Lost \(Achievement\)
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paradise_Lost_%28Achievement%29)
 
 **Paradise Lost**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Paradise_Lost_%28Achievement%29_icon.png) / *Paradise\_Lost\_(Achievement)\_icon.png* |
+|  | ![](../assets/Paradise_Lost_%28Achievement%29_icon.png) / _Paradise\_Lost\_(Achievement)\_icon.png_ |
 | Description | Make your way to Milton. |
 
-**Paradise Lost** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Paradise Lost** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -24,5 +19,3 @@ This is an unmissable story achievement achieved after completing the mission [T
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

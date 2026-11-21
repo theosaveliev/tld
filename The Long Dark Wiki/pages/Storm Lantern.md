@@ -1,17 +1,12 @@
----
-title: "Storm Lantern"
-wiki_namespace: 0
-categories: ["Tools"]
-source: "https://thelongdark.fandom.com/wiki/Storm_Lantern"
----
-
 # Storm Lantern
+
+**Categories:** Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Storm_Lantern)
 
 **Storm Lantern**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Storm_Lantern_icon.png) / *Storm\_Lantern\_icon.png* |
+|  | ![](../assets/Storm_Lantern_icon.png) / _Storm\_Lantern\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | **Statistics** |  |
@@ -19,11 +14,11 @@ source: "https://thelongdark.fandom.com/wiki/Storm_Lantern"
 | Harvest | 1 × [Scrap Metal](./Scrap%20Metal.md) / 0.00-1.00 KG [Lantern Fuel](./Lantern%20Fuel.md) |
 | Repair | [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) 1 × [Scrap Metal](./Scrap%20Metal.md) / 45 to 30 min |
 
-> “**Wind-proof storm lantern with mechanical ignitor. Burns kerosene.**”
+> “__Wind-proof storm lantern with mechanical ignitor. Burns kerosene.__”
 >
 > — In-game description
 
-*For the unique variant of the Storm Lantern, see [Spelunker's Lantern](./Spelunker%27s%20Lantern.md).*
+_For the unique variant of the Storm Lantern, see [Spelunker's Lantern](./Spelunker%27s%20Lantern.md)._
 
 The **Storm Lantern** is a mobile light source that creates a large amount of light and a paltry amount of [Warmth](./Warmth.md). The lantern's glass-encased flame allows the player to use it in even the windiest conditions, making it and the [Flare](./Flare.md) the only light sources not reduced or extinguished by wind.
 
@@ -51,8 +46,14 @@ The Storm Lantern can be quickly extinguished without needing to stop the surviv
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![The lighting when using a Spelunker's Lantern](../assets/Spelunker%27s_Lantern_Light_Test_Dim.jpg) / *The lighting when using a Spelunker's Lantern* | ![The lighting when using a Storm Lantern](../assets/Storm_Lantern_Light_Test_Bright.jpg) / *The lighting when using a Storm Lantern* | ![Old model.](../assets/Storm_lantern.png) / *Old model.* |
+![The lighting when using a Spelunker's Lantern](../assets/Spelunker%27s_Lantern_Light_Test_Dim.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Штормовой фонарь](ru:%D0%A8%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%B2%D0%BE%D0%B9_%D1%84%D0%BE%D0%BD%D0%B0%D1%80%D1%8C)
+_The lighting when using a Spelunker's Lantern_
+
+![The lighting when using a Storm Lantern](../assets/Storm_Lantern_Light_Test_Bright.jpg)
+
+_The lighting when using a Storm Lantern_
+
+![Old model.](../assets/Storm_lantern.png)
+
+_Old model._

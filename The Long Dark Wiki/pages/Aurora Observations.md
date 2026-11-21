@@ -1,17 +1,12 @@
----
-title: "Aurora Observations"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Aurora_Observations"
----
-
 # Aurora Observations
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Aurora_Observations)
 
 **Aurora Observations**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Aurora_Observations_icon.png) / *Aurora\_Observations\_icon.png* |
+|  | ![](../assets/Aurora_Observations_icon.png) / _Aurora\_Observations\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Aurora_Observations"
 
 ## Transcript
 
-*The following text is transcribed from **Aurora Observations***
+_The following text is transcribed from **Aurora Observations**_
 
 **Those lights in the sky are doing some funny things to the machines around here. We found this old shed, and the computers started turning on by themselves, lamps lighting up. We've been trying to call down the main office when the aurora or whatever it's called is out, but we're not getting through. Can't tell if the phones even work. There are just a handful of us from the winter crew holed up here. Some of them want to try for the Coast and the settlements there. If you find this, that's where we've gone.
 
@@ -40,5 +35,3 @@ We're still hoping Breyerhouse sends a team up before it comes to that. Even wit
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

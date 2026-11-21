@@ -1,17 +1,12 @@
----
-title: "Jeremiah's Folly/Transcript"
-wiki_namespace: 0
-categories: ["Episode 2"]
-source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Folly%2FTranscript"
----
-
 # Jeremiah's Folly/Transcript
+
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly%2FTranscript)
 
 **Jeremiah's Folly/Transcript**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Jeremiah%27s_Folly.jpg) / *Jeremiah's\_Folly.jpg* |
+|  | ![](../assets/Jeremiah%27s_Folly.jpg) / _Jeremiah's\_Folly.jpg_ |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
 | Previous | [Survival School (Predux)/Transcript](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md) |
 | Current | Jeremiah's Folly/Transcript |
@@ -27,27 +22,27 @@ CHAPTER FOUR
 
 JEREMIAH'S FOLLY
 
-*The mission starts at the door to [Trapper's Homestead](./Trapper%27s%20Homestead.md). The moment Mackenzie steps out, the [Old Bear](./Old%20Bear.md) is waiting for him. He stands on both legs, either being driven off by Mackenzie's [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) or attacking the pilot. If Mackenzie is attacked, he is mercilessly mauled in the struggle, eventually passing out. After passing out, the Old Bear can be heard walking off, and Mackenzie wakes up some time later*
+_The mission starts at the door to [Trapper's Homestead](./Trapper%27s%20Homestead.md). The moment Mackenzie steps out, the [Old Bear](./Old%20Bear.md) is waiting for him. He stands on both legs, either being driven off by Mackenzie's [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) or attacking the pilot. If Mackenzie is attacked, he is mercilessly mauled in the struggle, eventually passing out. After passing out, the Old Bear can be heard walking off, and Mackenzie wakes up some time later_
 
-*After tracking down and continuously shooting the Old Bear, Mackenzie eventually kills the seemingly invulnerable beast, and cuts [The Old Bear's Ear](./The%20Old%20Bear%27s%20Ear.md) off.*
+_After tracking down and continuously shooting the Old Bear, Mackenzie eventually kills the seemingly invulnerable beast, and cuts [The Old Bear's Ear](./The%20Old%20Bear%27s%20Ear.md) off._
 
 ## Bring The Old Bear's Ear back to Jeremiah, as proof of your hunting prowess.
 
-*Mackenzie returns to the Trapper's Homestead and a 3rd person cutscene begins.*
+_Mackenzie returns to the Trapper's Homestead and a 3rd person cutscene begins._
 
-*Mackenzie walks up to Jeremiah, and tosses the Old Bear's ear at him as he cups his hands to catch it*
+_Mackenzie walks up to Jeremiah, and tosses the Old Bear's ear at him as he cups his hands to catch it_
 
 Mackenzie: "There. Your damn bear ear. Now can I get the hell out of here?"
 
-*Mackenzie takes a seat on the bench next to the Trapper*
+_Mackenzie takes a seat on the bench next to the Trapper_
 
 Jeremiah: "Holy...I wasn't sure you had it in you, Mackenzie. I'm impressed. I'm really impressed. Shit. The Old Bear! Gone. Finally. I'm actually going to miss that guy."
 
-*Jeremiah looks at the ear in his hand for a moment*
+_Jeremiah looks at the ear in his hand for a moment_
 
 Mackenzie: "Maybe you can visit him and talk about it some time. Meanwhile, I've done everything you've asked - - it's time for you to do something for me. Help me get outta here."
 
-*The Old Bear's ear is now placed on the cot next to the Trapper*
+_The Old Bear's ear is now placed on the cot next to the Trapper_
 
 Jeremiah: "Alright, pilot. You've earned it. Here's the thing. The old Carter Dam - - it's a mess. Multiple quakes have left it pretty unstable. Nobody really goes in there anymore. Upper floors aren't too bad but it gets hairy deeper in. If you can navigate through the guts of it, you'll find yourself on the other side of Carter River. Follow the River, and you'll find your way to a place called Pleasant Valley. Big mother weather service shortwave at a place called Signal Hill - - should be powerful enough to reach Perseverance Mills. If your friend isn't there, at least you can get a message out. No guarantee that the aurora will power the radio, but it's your best shot. And if it doesn't at least you'll be on the right track. Follow the road North, through Pleasant Valley, and you'll start seeing signs leading the way to Perseverance Mills. It'll take you days to get there on foot. But at last now you have a fighting chance."
 
@@ -75,7 +70,7 @@ Mackenzie: "You want me to find this Atwood person and tell them a single word?"
 
 Jeremiah: "Yes. It's important. Don't you get it? Oh damn it...to hell with it. I'll do it myself."
 
-*Jeremiah gets out of bed only to writhe in pain the second he stands up and falls back onto his cot. Mackenzie gets up to check on him*
+_Jeremiah gets out of bed only to writhe in pain the second he stands up and falls back onto his cot. Mackenzie gets up to check on him_
 
 Mackenzie: "Are you ok, Jeremiah? You don't sound so good."
 
@@ -85,7 +80,7 @@ Mackenzie: "Ok, ok - - take it easy. I promise. I'll deliver your message."
 
 Jeremiah: "Be careful. I didn't keep you alive this long to see you die from making dumb mistakes. You still have along way to go. But first...the Dam. The keypad to the control room - - it won't work without power. You'll need to get in there when the aurora is in the sky. Whatever you do, once you get inside Carter, you need to get out before daylight. Otherwise, you may get stuck in there for good. The code is..."
 
-*Jeremiah's wound starts to affect his ability to speak for a moment*
+_Jeremiah's wound starts to affect his ability to speak for a moment_
 
 Mackenzie: "Jeremiah? The code is..."
 
@@ -105,14 +100,12 @@ Jeremiah: "Wedding ring and that look in your eye when you talk about her."
 
 Mackenzie: "Take care of yourself, Jeremiah."
 
-*Mackenzie leans over to grab his Rifle off the floor*
+_Mackenzie leans over to grab his Rifle off the floor_
 
 Jeremiah: "You too, Mackenzie. Remember Wintermute. And maybe I'll see you again some day."
 
-*Mackenzie walks out, and the door is heard opening and closing*
+_Mackenzie walks out, and the door is heard opening and closing_
 
 Jeremiah: "Good luck, pilot. You're going to need it. And now, I have my own path to tread."
 
-*Jeremiah gets off the cot clutching his chest and walks over to the floor, flipping open a hidden floor panel containing a Shortwave Radio inside. The cutscene ends as he flips the power switch*
-
-The story continues in [Renewed Hope (Predux)/Transcript](./Renewed%20Hope%20%28Predux%29%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**
+_Jeremiah gets off the cot clutching his chest and walks over to the floor, flipping open a hidden floor panel containing a Shortwave Radio inside. The cutscene ends as he flips the power switch_

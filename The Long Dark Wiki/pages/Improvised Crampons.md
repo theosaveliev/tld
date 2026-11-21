@@ -1,11 +1,6 @@
----
-title: "Improvised Crampons"
-wiki_namespace: 0
-categories: ["Clothing", "Craftable clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Improvised_Crampons"
----
-
 # Improvised Crampons
+
+**Categories:** Clothing, Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Crampons)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Improvised_Crampons"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Improvised_Crampons_icon.png) / *Improvised\_Crampons\_icon.png* |
+|  | ![](../assets/Improvised_Crampons_icon.png) / _Improvised\_Crampons\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Accessory |
@@ -34,9 +29,9 @@ source: "https://thelongdark.fandom.com/wiki/Improvised_Crampons"
 | Harvest | Cannot Harvest |
 | Repair | 2 × [Scrap Metal](./Scrap%20Metal.md) / 60 minutes / 20% Condition |
 
-> “**Makeshift traction for your feet. Better than nothing.**”
+> “__Makeshift traction for your feet. Better than nothing.__”
 
-**Improvised Crampons** are a [clothing](./Clothing.md) accessory in *The Long Dark*.
+**Improvised Crampons** are a [clothing](./Clothing.md) accessory in _The Long Dark_.
 
 ## Overview
 
@@ -83,9 +78,9 @@ Improvised Crampons, unlike their [non-improvised counterpart](./Crampons.md), a
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Clothing model icon](../assets/Improvised_Crampons_Model_icon.png) / *Clothing model icon* |
+![Clothing model icon](../assets/Improvised_Crampons_Model_icon.png)
+
+_Clothing model icon_
 
 ## Update history
 
@@ -95,5 +90,3 @@ Improvised Crampons, unlike their [non-improvised counterpart](./Crampons.md), a
 == Trivia==
 
 - Improvised crampons are the only accessory that cannot be found naturally in the world. The [Moose-Hide Satchel](./Moose-Hide%20Satchel.md), while also craftable, can be found naturally in [Hushed River Valley](./Hushed%20River%20Valley.md) near [Mysterious Signal Fire](./Mysterious%20Signal%20Fire.md).
-
-**Lua execution error in Module:Navbox function navbox** [ru:Кустарные альпинистские кошки](ru:%D0%9A%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BB%D1%8C%D0%BF%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%BE%D1%88%D0%BA%D0%B8)

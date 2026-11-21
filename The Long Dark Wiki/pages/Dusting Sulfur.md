@@ -1,11 +1,6 @@
----
-title: "Dusting Sulfur"
-wiki_namespace: 0
-categories: ["Materials"]
-source: "https://thelongdark.fandom.com/wiki/Dusting_Sulfur"
----
-
 # Dusting Sulfur
+
+**Categories:** Materials · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dusting_Sulfur)
 
 **Contents**
 
@@ -18,18 +13,18 @@ source: "https://thelongdark.fandom.com/wiki/Dusting_Sulfur"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Dusting_Sulfur_icon.png) / *Dusting\_Sulfur\_icon.png* |
+|  | ![](../assets/Dusting_Sulfur_icon.png) / _Dusting\_Sulfur\_icon.png_ |
 | **General** |  |
 | Item Type | Material\|- |
 | Renewable | Yes (very rare [Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 
-> “**A chemical compound sometimes used as a pesticide. Could be useful when crafting Ammunition.**”
+> “__A chemical compound sometimes used as a pesticide. Could be useful when crafting Ammunition.__”
 >
 > — In-game description
 
-**Dusting Sulfur** is a crafting material in *The Long Dark*.
+**Dusting Sulfur** is a crafting material in _The Long Dark_.
 
 ## Overview
 
@@ -87,5 +82,3 @@ Some observed spawn points include:
 
 - Dusting Sulfur is branded as the product "Grow Well", with dusting sulfur as an active ingredient. It is likely meant to be an insecticide/fungicide/Disease repellant used in gardens and landscaping.
 - The Errant Pilgrim update introduced [Gunsmithing](./Gunsmithing.md).
-
-**Lua execution error in Module:Navbox function navbox**

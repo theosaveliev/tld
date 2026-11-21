@@ -1,10 +1,6 @@
----
-title: "Blackrock Blues/Transcript"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Blackrock_Blues%2FTranscript"
----
-
 # Blackrock Blues/Transcript
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_Blues%2FTranscript)
 
 **Contents**
 
@@ -17,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Blackrock_Blues%2FTranscript"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Blackrock_Blues.png) / *Blackrock\_Blues.png* |
+|  | ![](../assets/Blackrock_Blues.png) / _Blackrock\_Blues.png_ |
 | Episode |  |
 | **Missions** |  |
 | Previous | [Prologue/Transcript](./Prologue%20%E2%80%94%20Transcript.md) |
@@ -30,15 +26,15 @@ This is the transcript for Chapter 1 [Blackrock Blues](./Blackrock%20Blues.md) f
 
 ## Prison Opening Sequence
 
-*Mackenzie awakes in a bed within a prison cell, his head aching from the blow Mathis gave it. A voice rings out from the nearby cell.*
+_Mackenzie awakes in a bed within a prison cell, his head aching from the blow Mathis gave it. A voice rings out from the nearby cell._
 
 ???: "Psst...hey!! You awake yet? Hey...I can hear you moving around. Come to the window. We have to talk. Stand on the toilet and you can reach the window."
 
-*Mackenzie gets up on a toilet and peers through the prison bars, eyeing a figure that sits in place and does not move.*
+_Mackenzie gets up on a toilet and peers through the prison bars, eyeing a figure that sits in place and does not move._
 
 ???: "There you are! Well...welcome to the shitshow."
 
-*Dialogue options appear at this point*
+_Dialogue options appear at this point_
 
 **Blue Dialogue**
 
@@ -130,7 +126,7 @@ Mackenzie: "But who?"
 
 Franklin: "I don't know. But sounds like Mathis is mad as a hornet because of them, and that brings me no small pleasure. Shit...they're coming. Get back to your bunk!"
 
-*Mackenzie gets off the toilet and crawls back into his bunk, just as Mathis, Vachon, and Heller walk by. Mathis notices Mackenzie and stops and smile*
+_Mackenzie gets off the toilet and crawls back into his bunk, just as Mathis, Vachon, and Heller walk by. Mathis notices Mackenzie and stops and smile_
 
 Mathis: "So, pilot. You're back in the land of the living. For now."
 
@@ -138,15 +134,15 @@ Mackenzie: "Yeah. But just seeing you gives me a headache."
 
 Mathis: "Ha ha...seeing you makes me want to hit people."
 
-*Mathis walks into Franklin's cell. Vachon and Heller follow*
+_Mathis walks into Franklin's cell. Vachon and Heller follow_
 
 Mathis: "So, Warden. Looks like we have a little problem. I still can't get into solitary. You have any idea why that might be?"
 
-*Mackenzie climbs the toilet and peers through the barred window, seeing Mathis looking over Franklin*
+_Mackenzie climbs the toilet and peers through the barred window, seeing Mathis looking over Franklin_
 
 Franklin: "I told you, Mathis. The whole jail is in some kind of weird lockdown. It all happened before you got here. Donner just..."
 
-*Mathis savagely strikes Franklin. Franklin begins spitting and coughing*
+_Mathis savagely strikes Franklin. Franklin begins spitting and coughing_
 
 Mathis: "Don't you ever say his name."
 
@@ -162,31 +158,31 @@ Franklin: "That's just the thing. Nothing is working the way it's supposed to ri
 
 Mathis: "Bullshit. Stop wasting my time."
 
-*Mathis strikes Franklin again, causing him to yell a muffled groan.*
+_Mathis strikes Franklin again, causing him to yell a muffled groan._
 
 Mathis: "And stop wasting your time. You don't have much left, unless we get that door open."
 
 Franklin: "Mathis...I don't know anything."
 
-*Mathis cracks his knuckles*
+_Mathis cracks his knuckles_
 
 Mathis: "Let me jog your memory."
 
-*Mathis uses 4 heavy punches on Franklin without stopping*
+_Mathis uses 4 heavy punches on Franklin without stopping_
 
 Vachon: "Hey...hey Mathis. Maybe not so hard."
 
-*Franklin begins spitting blood*
+_Franklin begins spitting blood_
 
 Vachon: "Like...we might still need him..to get..."HIM"...out."
 
 Heller: "Mathis. He doesn't look good. You're going to far."
 
-*Mathis laughs, surprising Heller and Vachon as they crowd around Franklin*
+_Mathis laughs, surprising Heller and Vachon as they crowd around Franklin_
 
 Mathis: "Clean him up."
 
-*Mackenzie quickly gets off the toilet and stands in his cell, Mathis walks by without noticing him*
+_Mackenzie quickly gets off the toilet and stands in his cell, Mathis walks by without noticing him_
 
 Heller: "Oh shiiiit...he looks bad."
 
@@ -218,7 +214,7 @@ Vachon: "Crazy fucker."
 
 Heller: "Mathis is not a patient man. He does not like it when a plan does not come together. He does not like to be let down. And right now, his plan for getting Donner out of here is totally fucked."
 
-*Mackenzie gets off the bunk bed and stands on the toilet, peering through the window bars*
+_Mackenzie gets off the bunk bed and stands on the toilet, peering through the window bars_
 
 Heller: "And it's just a matter of time before he...\[snaps fingers\]...snaps, like he did in Montreal."
 
@@ -240,13 +236,13 @@ Heller: "Hey, who went back to look for Leclerc when he went missing? No way I'm
 
 Mackenzie: "I'll do it."
 
-*Vachon and Heller look around confused*
+_Vachon and Heller look around confused_
 
 Vachon: "Did you hear something?"
 
 Mackenzie: "I said I'll do it."
 
-*Vachon and Heller turn to face Mackenzie as he peers at them through the bars*
+_Vachon and Heller turn to face Mackenzie as he peers at them through the bars_
 
 Mackenzie: "Let me out, and I'll get the supplies."
 
@@ -258,7 +254,7 @@ Heller: "The rap? Take the rap? Who talks like that? Listen, pilot. Why don't yo
 
 Mackenzie: "What do you have to lose? I go out there, get attacked by wolves. No great loss, right?"
 
-*Mackenzie gets off the toilet as the two convicts walk to the front of his cell*
+_Mackenzie gets off the toilet as the two convicts walk to the front of his cell_
 
 Vachon: "Wait a second, man. This is a bad idea. Mathis has plans for this guy."
 
@@ -268,29 +264,29 @@ Mackenzie: "Understood. You let me out. I get the supplies. The Warden lives."
 
 Heller: "Ha...you see? He learns fast! Time to save the day, pilot. Don't fuck it up."
 
-*Scene transition to the front step of the Prison, as Mackenzie turns from the parking lot back to Vachon peering through the front door*
+_Scene transition to the front step of the Prison, as Mackenzie turns from the parking lot back to Vachon peering through the front door_
 
 Vachon: "Get going, pilot. The Warden doesn't have much time left. And in case you're thinking of running away. Remember...we still have your precious case."
 
-*Vachon closes the door and locks it, with Mackenzie shivering and turning around*
+_Vachon closes the door and locks it, with Mackenzie shivering and turning around_
 
 Mackenzie: "Ah, brutal, deadly cold. How I've missed you."
 
 ## Find Medical Supplies for the Warden.
 
-*Mackenzie makes his way to the infirmary, but finds the front doors locked*
+_Mackenzie makes his way to the infirmary, but finds the front doors locked_
 
 Mackenzie: "Has to be another way around.
 
-*Mackenzie tries the side door*
+_Mackenzie tries the side door_
 
 Mackenzie: "I need to find some way in."
 
-*Mackenzie heads to a nearby vehicle shed and finds a gate leading to the outside perimeter of the Prison Yard. He steps past a Wolf feeding on a Deer Carcass, and walks into a section of the Yard housing the guard's barracks. He walks to the roof and over some catwalks, then finds a window to the infirmary that is propped open and steps inside.*
+_Mackenzie heads to a nearby vehicle shed and finds a gate leading to the outside perimeter of the Prison Yard. He steps past a Wolf feeding on a Deer Carcass, and walks into a section of the Yard housing the guard's barracks. He walks to the roof and over some catwalks, then finds a window to the infirmary that is propped open and steps inside._
 
 Mackenzie: "Now to find some meds for the Warden..."
 
-*He heads to the back but only finds a [Memo](./Memo.md) with an attached key saying that a supply shipment is coming, with the med bay itself empty. Suddenly a [Receiver](./Receiver.md) begins ringing and he picks up the phone.*
+_He heads to the back but only finds a [Memo](./Memo.md) with an attached key saying that a supply shipment is coming, with the med bay itself empty. Suddenly a [Receiver](./Receiver.md) begins ringing and he picks up the phone._
 
 Mackenzie: "He...hello? Hello?..."
 
@@ -358,37 +354,37 @@ Mackenzie: "Well...I mean I hear it's nice in the summer."
 
 Mackenzie: "I'll do my best."
 
-*Mackenzie hangs up the phone.*
+_Mackenzie hangs up the phone._
 
 Mackenzie: "Well. That was weird."
 
 ## Track down the prison truck and medicine.
 
-*Mackenzie goes to the front gate and unlocks it with the key he found. Inside he finds a [Weapon Locker](./Weapon%20Locker.md) containing supplies, and [Noisemakers](./Noisemaker.md)*
+_Mackenzie goes to the front gate and unlocks it with the key he found. Inside he finds a [Weapon Locker](./Weapon%20Locker.md) containing supplies, and [Noisemakers](./Noisemaker.md)_
 
 Mackenzie: "Well well...what do we have here?"
 
-*Once outside, Mackenzie leaves the area but spots a mass of bodies piled up in the left hand marsh. Getting a closer look, they all appear to be guards and civilians working at the prison, executed by the Convicts and left to lot in the snow.*
+_Once outside, Mackenzie leaves the area but spots a mass of bodies piled up in the left hand marsh. Getting a closer look, they all appear to be guards and civilians working at the prison, executed by the Convicts and left to lot in the snow._
 
 Mackenzie: "This is just...terrible. Can't tell if anyone made it.""
 
-*Mackenzie begins is search, leaving the prison, passing a wooden bridge, going past [Cook's Farm](./Cook%27s%20Farm.md), then finding a bloody backpack in the snow near a prison truck.*
+_Mackenzie begins is search, leaving the prison, passing a wooden bridge, going past [Cook's Farm](./Cook%27s%20Farm.md), then finding a bloody backpack in the snow near a prison truck._
 
 Mackenzie: "Looks like someone's been here recently."
 
-*He follows the trail of blood in the snow, and finds a [Dead Prison Guard](./Dead%20Prison%20Guard.md) being eaten by a Wolf near a cave. Dispatching it, Mackenzie finds the [Blackrock Infirmary Medication](./Blackrock%20Infirmary%20Medication.md) in a nearby [First Aid Kit](./First%20Aid%20Kit.md) and returns to the Prison.*
+_He follows the trail of blood in the snow, and finds a [Dead Prison Guard](./Dead%20Prison%20Guard.md) being eaten by a Wolf near a cave. Dispatching it, Mackenzie finds the [Blackrock Infirmary Medication](./Blackrock%20Infirmary%20Medication.md) in a nearby [First Aid Kit](./First%20Aid%20Kit.md) and returns to the Prison._
 
 ## Return to Blackrock.
 
-*If the player explores the region, Mackenzie will refuse to cross certain areas. The player tries to cross [Narrow Bridge](./Narrow%20Bridge.md) early, Mackenzie will refuse to cross and say*
+_If the player explores the region, Mackenzie will refuse to cross certain areas. The player tries to cross [Narrow Bridge](./Narrow%20Bridge.md) early, Mackenzie will refuse to cross and say_
 
 Mackenzie: "That doesn't look safe."
 
-*If the player tries to enter [Last Prospect](./Last%20Prospect.md) early, Mackenzie will say*
+_If the player tries to enter [Last Prospect](./Last%20Prospect.md) early, Mackenzie will say_
 
 Mackenzie: "I don't think that's where I need to go."
 
-*Mackenzie reaches the front doors of the Prison as Vachon opens them*
+_Mackenzie reaches the front doors of the Prison as Vachon opens them_
 
 Vachon: "Well...shit. You made it."
 
@@ -400,6 +396,4 @@ Mackenzie: "I found stuff to help the Warden. Medical supplies."
 
 Vachon: "Yeah, you'd better get in there to see him. He doesn't look too good. But first, you gotta let me frisk you. Mathis'd have my balls if I let you sneak a knife in here."
 
-*Vachon checks Mackenzie as the screen fades to black*
-
-The story continues in [The Power Plant/Transcript](./The%20Power%20Plant%20%E2%80%94%20Transcript.md).**Lua execution error in Module:Navbox function navbox**
+_Vachon checks Mackenzie as the screen fades to black_

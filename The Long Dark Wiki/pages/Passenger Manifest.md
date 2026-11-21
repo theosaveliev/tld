@@ -1,17 +1,12 @@
----
-title: "Passenger Manifest"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Passenger_Manifest"
----
-
 # Passenger Manifest
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Passenger_Manifest)
 
 **Passenger Manifest**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Passenger_Manifest_icon.png) / *Passenger\_Manifest\_icon.png* |
+|  | ![](../assets/Passenger_Manifest_icon.png) / _Passenger\_Manifest\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
 | **Properties** |  |
@@ -28,11 +23,11 @@ source: "https://thelongdark.fandom.com/wiki/Passenger_Manifest"
 
 **Passenger Manifest** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Fallen Star](./Fallen%20Star.md) mission.
 
-During the course of the mission, Astrid finds the *Passenger Manifest* on the [Frozen Corpse](./Frozen%20Corpse.md) of [ID - V. Singh](./ID%20-%20V.%20Singh.md) at the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md).
+During the course of the mission, Astrid finds the _Passenger Manifest_ on the [Frozen Corpse](./Frozen%20Corpse.md) of [ID - V. Singh](./ID%20-%20V.%20Singh.md) at the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md).
 
 ## Transcript
 
-*The following text is transcribed from **Passenger Manifest***
+_The following text is transcribed from **Passenger Manifest**_
 
 **\[piece of torn paper, barely legible\]
 
@@ -61,5 +56,3 @@ D. Belanger
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

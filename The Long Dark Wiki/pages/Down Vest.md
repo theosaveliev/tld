@@ -1,17 +1,12 @@
----
-title: "Down Vest"
-wiki_namespace: 0
-categories: ["Clothing"]
-source: "https://thelongdark.fandom.com/wiki/Down_Vest"
----
-
 # Down Vest
+
+**Categories:** Clothing · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Down_Vest)
 
 **Down Vest**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Down_Vest_icon.png) / *Down\_Vest\_icon.png* |
+|  | ![](../assets/Down_Vest_icon.png) / _Down\_Vest\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Outer torso |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Down_Vest"
 | Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition |
 
-> “**Down-filled top-layer that warms the core but leaves the arms exposed. Very light.**”
+> “__Down-filled top-layer that warms the core but leaves the arms exposed. Very light.__”
 >
 > — In-game description
 
-The **Down Vest** is a type of [Clothing](./Clothing.md) found in *[The Long Dark](./The%20Long%20Dark.md)*.
+The **Down Vest** is a type of [Clothing](./Clothing.md) found in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -41,10 +36,16 @@ This is often a clothing item your survivor may start with.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Old model.](../assets/Insulated_vest_%28historical%29.png) / *Old model.* | ![Clothing model](../assets/Down_Vest_Model_icon.png) / *Clothing model* | ![Clothing model damaged](../assets/Down_Vest_Model_Damaged_icon.png) / *Clothing model damaged* |
+![Old model.](../assets/Insulated_vest_%28historical%29.png)
+
+_Old model._
+
+![Clothing model](../assets/Down_Vest_Model_icon.png)
+
+_Clothing model_
+
+![Clothing model damaged](../assets/Down_Vest_Model_Damaged_icon.png)
+
+_Clothing model damaged_
 
 ## Game History
-
-The Down Vest was originally named Insulated Vest before it was changed.**Lua execution error in Module:Navbox function navbox** [ru:Жилет-пуховик](ru:%D0%96%D0%B8%D0%BB%D0%B5%D1%82-%D0%BF%D1%83%D1%85%D0%BE%D0%B2%D0%B8%D0%BA)

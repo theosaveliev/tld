@@ -1,11 +1,6 @@
----
-title: "Diary Page (Darkwalker)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Diary_Page_(Darkwalker)"
----
-
 # Diary Page \(Darkwalker\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Diary_Page_%28Darkwalker%29)
 
 **Contents**
 
@@ -26,7 +21,7 @@ source: "https://thelongdark.fandom.com/wiki/Diary_Page_(Darkwalker)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Diary_Page_%28Darkwalker%29_icon.png) / *Diary\_Page\_(Darkwalker)\_icon.png* |
+|  | ![](../assets/Diary_Page_%28Darkwalker%29_icon.png) / _Diary\_Page\_(Darkwalker)\_icon.png_ |
 | Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -43,61 +38,61 @@ There are 10 notes found across the Challenge in different locations, always fou
 
 ### [Bleak Inlet](./Bleak%20Inlet.md) Event Camp
 
-*The following text is transcribed from **On the Nature of Darkwalkers***
+_The following text is transcribed from **On the Nature of Darkwalkers**_
 
 **...do I give in to its will? That may be the only way back. But not yet, not yet. As long as I paint, I live...**
 
 ### [Broken Railroad](./Broken%20Railroad.md) Event Camp
 
-*The following text is transcribed from **On the Nature of Darkwalkers***
+_The following text is transcribed from **On the Nature of Darkwalkers**_
 
 **...the signs hold it at bay, or lead it away from me...but who is the Glyph-maker?**
 
 ### [Coastal Highway](./Coastal%20Highway.md) Event Camp
 
-*The following text is transcribed from **On the Nature of Darkwalkers***
+_The following text is transcribed from **On the Nature of Darkwalkers**_
 
 **The gnashing, the grinding, a thing from the stars. But no beauty sets down from that endless void...**
 
 ### [Desolation Point](./Desolation%20Point.md) Event Camp
 
-*The following text is transcribed from **On the Nature of Darkwalkers***
+_The following text is transcribed from **On the Nature of Darkwalkers**_
 
 **I climbed the tall mountain, but it wormed in the earth below me. There was no escape, not even high above...my delirium has become its feeding ground.**
 
 ### [Forlorn Muskeg](./Forlorn%20Muskeg.md) Event Camp
 
-*The following text is transcribed from **On the Nature of Darkwalkers***
+_The following text is transcribed from **On the Nature of Darkwalkers**_
 
 **The poison in my blood draws it closer...and now that poison fills the air...the formless hunting a form.**
 
 ### [Hushed River Valley](./Hushed%20River%20Valley.md) Event Camp
 
-*The following text is transcribed from **On the Nature of Darkwalkers***
+_The following text is transcribed from **On the Nature of Darkwalkers**_
 
 **I crept upon the nameless city, stars in my eyes. But those eyes no longer see the world...just a choking mist. Over the horizon, that is where I escape.**
 
 ### [Mountain Town](./Mountain%20Town.md) Event Camp
 
-*The following text is transcribed from **On the Nature of Darkwalkers***
+_The following text is transcribed from **On the Nature of Darkwalkers**_
 
 **...dead and dreaming, my only friend, the faceless moon who won't look away. There is no sunrise on Ganymede...**
 
 ### [Mystery Lake](./Mystery%20Lake%20%28region%29.md) Event Camp
 
-*The following text is transcribed from **On the Nature of Darkwalkers***
+_The following text is transcribed from **On the Nature of Darkwalkers**_
 
 **...can't see it, can't fight it...only running. My heart, a black echo in the forest, always hunting for a green fire...**
 
 ### [Pleasant Valley](./Pleasant%20Valley.md) Event Camp
 
-*The following text is transcribed from **On the Nature of Darkwalkers***
+_The following text is transcribed from **On the Nature of Darkwalkers**_
 
 **...a pale river, turned in on itself, a rush of blood to my head. Only the crooked path leads me away...**
 
 ### [Timberwolf Mountain](./Timberwolf%20Mountain.md) Event Camp
 
-*The following text is transcribed from **On the Nature of Darkwalkers***
+_The following text is transcribed from **On the Nature of Darkwalkers**_
 
 **I discarded the farsighted mask, and only bone remains. The gate is closed. Will it come for me now?**
 
@@ -107,7 +102,5 @@ There are 10 notes found across the Challenge in different locations, always fou
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Страница дневника (Darkwalker)](ru:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0_%28Darkwalker%29)

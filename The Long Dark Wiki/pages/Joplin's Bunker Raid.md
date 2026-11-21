@@ -1,11 +1,6 @@
----
-title: "Joplin's Bunker Raid"
-wiki_namespace: 0
-categories: ["Episode 3"]
-source: "https://thelongdark.fandom.com/wiki/Joplin's_Bunker_Raid"
----
-
 # Joplin's Bunker Raid
+
+**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Joplin's_Bunker_Raid)
 
 **Joplin's Bunker Raid**
 
@@ -15,7 +10,7 @@ source: "https://thelongdark.fandom.com/wiki/Joplin's_Bunker_Raid"
 | Current | Joplin's Bunker Raid |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 
-> “**The Forest Talkers have been raiding Joplin's prepper caches. Whatever supplies remain could help you survive Pleasant Valley long enough to find a way out. Search the caches to see what's left.**”
+> “__The Forest Talkers have been raiding Joplin's prepper caches. Whatever supplies remain could help you survive Pleasant Valley long enough to find a way out. Search the caches to see what's left.__”
 
 **Joplin's Bunker Raid** is a side mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) must search for bunkers scattered throughout Pleasant Valley.
 
@@ -38,8 +33,6 @@ Each bunker contains a large amount of supplies, which varies slightly but gener
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![](../assets/1901570789_preview_Map-PleasantValley-EP3-spoil-Fixv162-05.png) / *1901570789\_preview\_Map-PleasantValley-EP3-spoil-Fixv162-05.png* |
+![](../assets/1901570789_preview_Map-PleasantValley-EP3-spoil-Fixv162-05.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_1901570789\_preview\_Map-PleasantValley-EP3-spoil-Fixv162-05.png_

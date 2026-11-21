@@ -1,11 +1,6 @@
----
-title: "Stone"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Stone"
----
-
 # Stone
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stone)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Stone"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Stone_icon.png) / *Stone\_icon.png* |
+|  | ![](../assets/Stone_icon.png) / _Stone\_icon.png_ |
 | Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423) |
 | Wintermute | No |
 | **Properties** |  |
@@ -61,7 +56,7 @@ Like [arrows](./Simple%20Arrow.md), stones will ricochet off terrain and objects
 
 ## Aiming
 
-![Aim in between the index finger and thumb. The red circle is where the Stone will land.](../assets/Stone_Aim_Guide.png)*Aim in between the index finger and thumb. The red circle is where the Stone will land.* By holding the "Aim" Option, position your target between the thumb and index finger as shown in the example photo. Stones typically land in this area, though a few factors need to be taken into account before throwing:
+![Aim in between the index finger and thumb. The red circle is where the Stone will land.](../assets/Stone_Aim_Guide.png)_Aim in between the index finger and thumb. The red circle is where the Stone will land._ By holding the "Aim" Option, position your target between the thumb and index finger as shown in the example photo. Stones typically land in this area, though a few factors need to be taken into account before throwing:
 
 - Always be aware of where the target currently is and the timing of the throw. You will miss if you do not factor this in, it will alert your target when you miss.
 - If the target is moving, always aim slightly in front of them before throwing, as aiming where the target currently is will cause the Stone to miss once it leaves your hand.
@@ -69,15 +64,21 @@ Like [arrows](./Simple%20Arrow.md), stones will ricochet off terrain and objects
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Stone's viewmodel](../assets/Stone_viewmodel.jpg) / *Stone's viewmodel* | ![The view when aiming a Stone for a throw](../assets/Sweatshirt_RockThrow_Male.jpg) / *The view when aiming a Stone for a throw* | ![A Rock Cache made of several Stones](../assets/Rock_Cache_icon.png) / *A [Rock Cache](./Rock%20Cache.md) made of several Stones* |
+![Stone's viewmodel](../assets/Stone_viewmodel.jpg)
+
+_Stone's viewmodel_
+
+![The view when aiming a Stone for a throw](../assets/Sweatshirt_RockThrow_Male.jpg)
+
+_The view when aiming a Stone for a throw_
+
+![A Rock Cache made of several Stones](../assets/Rock_Cache_icon.png)
+
+_A [Rock Cache](./Rock%20Cache.md) made of several Stones_
 
 ## Update history
 
 - UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Камень](ru:%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C)

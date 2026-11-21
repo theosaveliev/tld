@@ -1,17 +1,12 @@
----
-title: "ID Naomi Moore"
-wiki_namespace: 0
-categories: ["Collectibles"]
-source: "https://thelongdark.fandom.com/wiki/ID_Naomi_Moore"
----
-
 # ID Naomi Moore
+
+**Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/ID_Naomi_Moore)
 
 **ID Naomi Moore**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/ID_Naomi_Moore_icon.png) / *ID\_Naomi\_Moore\_icon.png* |
+|  | ![](../assets/ID_Naomi_Moore_icon.png) / _ID\_Naomi\_Moore\_icon.png_ |
 | Wintermute | No |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -26,8 +21,6 @@ It appears to be related to [Escape the Darkwalker](./Escape%20the%20Darkwalker.
 
 ## Transcript
 
-*The following text is transcribed from **ID: Naomi Moore***
+_The following text is transcribed from **ID: Naomi Moore**_
 
 **Affiliate Researcher, Institute for New Awakenings.**
-
-**Lua execution error in Module:Navbox function navbox**

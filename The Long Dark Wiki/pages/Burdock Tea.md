@@ -1,17 +1,12 @@
----
-title: "Burdock Tea"
-wiki_namespace: 0
-categories: ["First Aid", "Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Burdock_Tea"
----
-
 # Burdock Tea
+
+**Categories:** First Aid, Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Burdock_Tea)
 
 **Burdock Tea**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Burdock_Tea_icon.png) / *Burdock\_Tea\_icon.png* |
+|  | ![](../assets/Burdock_Tea_icon.png) / _Burdock\_Tea\_icon.png_ |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
 | Wintermute | No |
 | Renewable | No |
@@ -66,7 +61,5 @@ Compared to Reishi Tea, Burdock Tea takes more effort to find materials for and 
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**
 
 [ru:Чай из Лопуха](ru:%D0%A7%D0%B0%D0%B9_%D0%B8%D0%B7_%D0%9B%D0%BE%D0%BF%D1%83%D1%85%D0%B0)

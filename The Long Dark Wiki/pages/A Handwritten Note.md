@@ -1,17 +1,12 @@
----
-title: "A Handwritten Note"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/A_Handwritten_Note"
----
-
 # A Handwritten Note
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/A_Handwritten_Note)
 
 **A Handwritten Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/A_Handwritten_Note_icon.png) / *A\_Handwritten\_Note\_icon.png* |
+|  | ![](../assets/A_Handwritten_Note_icon.png) / _A\_Handwritten\_Note\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/A_Handwritten_Note"
 
 ## Transcript
 
-*The following text is transcribed from **A Handwritten Note***
+_The following text is transcribed from **A Handwritten Note**_
 
 **Dear Constable Pete,
 
@@ -45,5 +40,3 @@ Dr Larsen**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

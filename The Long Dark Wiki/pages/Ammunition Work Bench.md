@@ -1,11 +1,6 @@
----
-title: "Ammunition Work Bench"
-wiki_namespace: 0
-categories: ["Interactable objects", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Ammunition_Work_Bench"
----
-
 # Ammunition Work Bench
+
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ammunition_Work_Bench)
 
 **Contents**
 
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/Ammunition_Work_Bench"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Ammunition_Work_Bench.png) / *Ammunition\_Work\_Bench.png* |
+|  | ![](../assets/Ammunition_Work_Bench.png) / _Ammunition\_Work\_Bench.png_ |
 | Release | 9 December 2019 |
 | Update | [1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64) |
 | Story item | No |
@@ -31,9 +26,9 @@ source: "https://thelongdark.fandom.com/wiki/Ammunition_Work_Bench"
 | **Advanced data** |  |
 | Object key | GAMEPLAY\_AmmoWorkBench |
 
-*For the Forge next to the Work Bench, see [Ammunition Forge](./Ammunition%20Forge.md).*
+_For the Forge next to the Work Bench, see [Ammunition Forge](./Ammunition%20Forge.md)._
 
-The **Ammunition Work Bench** is a workstation in *[The Long Dark](./The%20Long%20Dark.md)* used for [Crafting](./Crafting.md)*,* introduced in the Errant Pilgrim update alongside [Bleak Inlet](./Bleak%20Inlet.md). The Workbench is used to craft ingredients for ammunition and to produce [Hunting Rifle](./Hunting%20Rifle.md) and [Revolver](./Revolver.md) ammunition, along with [Noisemakers](./Noisemaker.md) as of the [Perilous Constraint](./The%20Long%20Dark%20%E2%80%94%20Changelog.md) update. Use of the Ammunition Work Bench, [Ammunition Forge](./Ammunition%20Forge.md), and [Research Books](./Research%20Book.md) are the only means to increase [Gunsmithing](./Gunsmithing.md) skill.
+The **Ammunition Work Bench** is a workstation in _[The Long Dark](./The%20Long%20Dark.md)_ used for [Crafting](./Crafting.md)_,_ introduced in the Errant Pilgrim update alongside [Bleak Inlet](./Bleak%20Inlet.md). The Workbench is used to craft ingredients for ammunition and to produce [Hunting Rifle](./Hunting%20Rifle.md) and [Revolver](./Revolver.md) ammunition, along with [Noisemakers](./Noisemaker.md) as of the [Perilous Constraint](./The%20Long%20Dark%20%E2%80%94%20Changelog.md) update. Use of the Ammunition Work Bench, [Ammunition Forge](./Ammunition%20Forge.md), and [Research Books](./Research%20Book.md) are the only means to increase [Gunsmithing](./Gunsmithing.md) skill.
 
 ## Overview
 
@@ -103,8 +98,14 @@ The Ammunition Workbenches in both locations are initially sealed away behind el
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![The Ammunition Forge next to the Work Bench](../assets/Ammunition_Forge.jpg) / *The Ammunition Forge next to the Work Bench* | ![The Work Bench portion](../assets/Ammunition_Workbench.jpg) / *The Work Bench portion* | ![Crafting icon](../assets/Ammunition_workbench_icon.png) / *Crafting icon* |
+![The Ammunition Forge next to the Work Bench](../assets/Ammunition_Forge.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Верстак для создания патронов](ru:%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%B0%D0%BA_%D0%B4%D0%BB%D1%8F_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BF%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%B2)
+_The Ammunition Forge next to the Work Bench_
+
+![The Work Bench portion](../assets/Ammunition_Workbench.jpg)
+
+_The Work Bench portion_
+
+![Crafting icon](../assets/Ammunition_workbench_icon.png)
+
+_Crafting icon_

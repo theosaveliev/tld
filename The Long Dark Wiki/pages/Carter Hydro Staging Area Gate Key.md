@@ -1,17 +1,12 @@
----
-title: "Carter Hydro Staging Area Gate Key"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Carter_Hydro_Staging_Area_Gate_Key"
----
-
 # Carter Hydro Staging Area Gate Key
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Carter_Hydro_Staging_Area_Gate_Key)
 
 **Carter Hydro Staging Area Gate Key**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Carter_Hydro_Staging_Area_Gate_Key_icon.png) / *Carter\_Hydro\_Staging\_Area\_Gate\_Key\_icon.png* |
+|  | ![](../assets/Carter_Hydro_Staging_Area_Gate_Key_icon.png) / _Carter\_Hydro\_Staging\_Area\_Gate\_Key\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Wounded Trapper](./The%20Wounded%20Trapper.md) |
 | **Properties** |  |
@@ -30,5 +25,3 @@ source: "https://thelongdark.fandom.com/wiki/Carter_Hydro_Staging_Area_Gate_Key"
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

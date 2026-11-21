@@ -1,11 +1,6 @@
----
-title: "Heavy Hammer"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Heavy_Hammer"
----
-
 # Heavy Hammer
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Heavy_Hammer)
 
 **Contents**
 
@@ -33,7 +28,7 @@ source: "https://thelongdark.fandom.com/wiki/Heavy_Hammer"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Heavy_Hammer_icon.png) / *Heavy\_Hammer\_icon.png* |
+|  | ![](../assets/Heavy_Hammer_icon.png) / _Heavy\_Hammer\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | Renewable | Yes ([Trader](./Trader.md) only) No ([Interloper](./Interloper.md)) |
@@ -42,11 +37,11 @@ source: "https://thelongdark.fandom.com/wiki/Heavy_Hammer"
 | Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) 1 × [Fir Firewood](./Fir%20Firewood.md) / 30 minutes |
 | Repair | 1 × [Fir Firewood](./Fir%20Firewood.md) 20% Condition / 45 to 30 minutes |
 
-> “**A hammer suitable for metalworking.**”
+> “__A hammer suitable for metalworking.__”
 >
 > — In-game description
 
-**Heavy Hammer** is a tool in *The Long Dark*. It is used for [forging](./Forge.md), [breaking](./Harvesting.md) down furniture, making [holes in the ice for fishing](./Ice%20Fishing.md), or self defense during [wildlife struggles](./Struggle.md).
+**Heavy Hammer** is a tool in _The Long Dark_. It is used for [forging](./Forge.md), [breaking](./Harvesting.md) down furniture, making [holes in the ice for fishing](./Ice%20Fishing.md), or self defense during [wildlife struggles](./Struggle.md).
 
 ## Overview
 
@@ -163,9 +158,9 @@ Some particular observed locations in which a heavy hammer may be found include:
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Heavy_hammer.png) / *Old model.* |
+![Old model.](../assets/Heavy_hammer.png)
+
+_Old model._
 
 ## Game History
 
@@ -180,7 +175,5 @@ Some particular observed locations in which a heavy hammer may be found include:
   - Modified struggle damage modifiers for various tools, and added modifiers for the new Hammer.
   - You can now clear ice-fishing holes with Hammers.
   - Hammers can be used to break down crates, furniture, etc.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Тяжелый молот](ru:%D0%A2%D1%8F%D0%B6%D0%B5%D0%BB%D1%8B%D0%B9_%D0%BC%D0%BE%D0%BB%D0%BE%D1%82)

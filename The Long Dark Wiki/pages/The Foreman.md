@@ -1,11 +1,6 @@
----
-title: "The Foreman"
-wiki_namespace: 0
-categories: ["Article stubs"]
-source: "https://thelongdark.fandom.com/wiki/The_Foreman"
----
-
 # The Foreman
+
+**Categories:** Article stubs · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Foreman)
 
 **Contents**
 
@@ -22,7 +17,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Foreman"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Foreman%27s_Polaroid_4_icon.png) / *Foreman's\_Polaroid\_4\_icon.png* |
+|  | ![](../assets/Foreman%27s_Polaroid_4_icon.png) / _Foreman's\_Polaroid\_4\_icon.png_ |
 | Release | 2.03 |
 | Date | 5 December 2022 |
 | Mission | [Buried Echoes](./Buried%20Echoes.md) [Last Horizon](./Last%20Horizon.md) |
@@ -35,18 +30,18 @@ source: "https://thelongdark.fandom.com/wiki/The_Foreman"
 | **Game Information** |  |
 | Equipment | [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md) [Tactical Gloves](./Tactical%20Gloves.md) / [Tactical Jacket](./Tactical%20Jacket.md) |
 
-**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it\].**
+**Stub:**__This article is a stub. You can help by \[//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it\].__
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
-> “**Ever since we flipped the switch on that machine, no one seems settled. We want to get paid, sure. But we want to make it out of this hole in the ground, too.  
- I’ve gotta put a stop to this.**”
+> “__Ever since we flipped the switch on that machine, no one seems settled. We want to get paid, sure. But we want to make it out of this hole in the ground, too.  
+ I’ve gotta put a stop to this.__”
 >
 > — The Foreman
 
 **The Foreman** is a major character in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) storyline.
 
-**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it\].**
+**Stub:**__This article is a stub. You can help by \[//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it\].__
 
 ## Overview
 
@@ -99,5 +94,3 @@ Throughout the Tale, it is revealed the machine had a grievous effect on his min
 - **Template:iconlink**
 
 ## Trivia
-
-An unconfirmed theory is that The Foreman survived and became the man living around Blackrock, as found in the note [Conspiracy Theories](./Conspiracy%20Theories.md).**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Cured Wolf Pelt"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cured_Wolf_Pelt"
----
-
 # Cured Wolf Pelt
+
+**Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cured_Wolf_Pelt)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Cured_Wolf_Pelt"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cured_Wolf_Pelt_icon.png) / *Cured\_Wolf\_Pelt\_icon.png* |
+|  | ![](../assets/Cured_Wolf_Pelt_icon.png) / _Cured\_Wolf\_Pelt\_icon.png_ |
 | Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233) |
 | Wintermute | No |
 | **Properties** |  |
@@ -46,13 +41,11 @@ Each Wolf Carcass will have one pelt, along with [meat](./Wolf%20Meat%20%28Raw%2
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Cured_wolf_pelt.png) / *Old model.* |
+![Old model.](../assets/Cured_wolf_pelt.png)
+
+_Old model._
 
 ## Update history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Высушенная волчья шкура](ru:%D0%92%D1%8B%D1%81%D1%83%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%BB%D1%87%D1%8C%D1%8F_%D1%88%D0%BA%D1%83%D1%80%D0%B0)

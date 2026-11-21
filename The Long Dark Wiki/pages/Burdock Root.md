@@ -1,17 +1,12 @@
----
-title: "Burdock Root"
-wiki_namespace: 0
-categories: ["Food And Drink", "Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Burdock_Root"
----
-
 # Burdock Root
+
+**Categories:** Food And Drink, Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Burdock_Root)
 
 **Burdock Root**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Burdock_Root_icon.png) / *Burdock\_Root\_icon.png* |
+|  | ![](../assets/Burdock_Root_icon.png) / _Burdock\_Root\_icon.png_ |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
 | Wintermute | No |
 | Renewable | No |
@@ -38,5 +33,3 @@ After harvesting a Burdock plant, you'll obtain a single Burdock Root. The root 
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Корень лопуха](ru:%D0%9A%D0%BE%D1%80%D0%B5%D0%BD%D1%8C_%D0%BB%D0%BE%D0%BF%D1%83%D1%85%D0%B0)

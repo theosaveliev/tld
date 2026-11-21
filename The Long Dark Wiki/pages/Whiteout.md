@@ -1,11 +1,6 @@
----
-title: "Whiteout"
-wiki_namespace: 0
-categories: ["Challenges"]
-source: "https://thelongdark.fandom.com/wiki/Whiteout"
----
-
 # Whiteout
+
+**Categories:** Challenges · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Whiteout)
 
 **Contents**
 
@@ -24,22 +19,22 @@ source: "https://thelongdark.fandom.com/wiki/Whiteout"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Challenge_Whiteout.png) / *Challenge\_Whiteout.png* |
+|  | ![](../assets/Challenge_Whiteout.png) / _Challenge\_Whiteout.png_ |
 | **Details** |  |
 | Regions | [Coastal Highway](./Coastal%20Highway.md) |
 | Difficulty | 4 |
 | Date Added | June 2016 |
 
-> “**A monster blizzard is on the way. Will you be ready when it arrives?  
- The storm arrives in 30 days. Stockpile enough food, water, and supplies in the Coastal Highway Quonset Garage before it hits.**”
+> “__A monster blizzard is on the way. Will you be ready when it arrives?  
+ The storm arrives in 30 days. Stockpile enough food, water, and supplies in the Coastal Highway Quonset Garage before it hits.__”
 >
 > — Main Menu description
 
-**Whiteout** is one of eight [challenges](./Challenge.md) in [*The Long Dark*](./The%20Long%20Dark.md).
+**Whiteout** is one of eight [challenges](./Challenge.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
-> “**Stockpile the food, water, and supplies listed in your journal. Store them in the Coastal Highway Quonset Garage (the starting location).**”
+> “__Stockpile the food, water, and supplies listed in your journal. Store them in the Coastal Highway Quonset Garage (the starting location).__”
 >
 > — Journal Objective
 
@@ -103,9 +98,22 @@ If the player can't find a [Hatchet](./Hatchet.md), it may be easier to head to 
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![The badge awarded upon completing the challenge](../assets/Badge_challenge_whiteout.png) / *The badge awarded upon completing the challenge* | ![Old whiteout badge](../assets/Whiteout_badge.png) / *Old whiteout badge* | ![Fan art](../assets/Whiteout_Art.jpg) / *Fan art* | ![Old title selection card](../assets/Whiteout_plate.png) / *Old title selection card* |
-| ![Old Almanac design](../assets/Almanac.png) / *Old Almanac design* |  |  |  |
+![The badge awarded upon completing the challenge](../assets/Badge_challenge_whiteout.png)
 
-**Lua execution error in Module:Navbox function navbox**[ru:Белая мгла](ru:%D0%91%D0%B5%D0%BB%D0%B0%D1%8F_%D0%BC%D0%B3%D0%BB%D0%B0) [es:Ventisca](es:Ventisca)
+_The badge awarded upon completing the challenge_
+
+![Old whiteout badge](../assets/Whiteout_badge.png)
+
+_Old whiteout badge_
+
+![Fan art](../assets/Whiteout_Art.jpg)
+
+_Fan art_
+
+![Old title selection card](../assets/Whiteout_plate.png)
+
+_Old title selection card_
+
+![Old Almanac design](../assets/Almanac.png)
+
+_Old Almanac design_

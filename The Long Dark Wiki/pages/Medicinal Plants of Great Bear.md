@@ -1,17 +1,12 @@
----
-title: "Medicinal Plants of Great Bear"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Medicinal_Plants_of_Great_Bear"
----
-
 # Medicinal Plants of Great Bear
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Medicinal_Plants_of_Great_Bear)
 
 **Medicinal Plants of Great Bear**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Medicinal_Plants_of_Great_Bear_icon.png) / *Medicinal\_Plants\_of\_Great\_Bear\_icon.png* |
+|  | ![](../assets/Medicinal_Plants_of_Great_Bear_icon.png) / _Medicinal\_Plants\_of\_Great\_Bear\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Basics of Survival](./The%20Basics%20of%20Survival.md) |
 | **Properties** |  |
@@ -28,11 +23,9 @@ source: "https://thelongdark.fandom.com/wiki/Medicinal_Plants_of_Great_Bear"
 
 **Medicinal Plants of Great Bear** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode to start the [The Basics of Survival](./The%20Basics%20of%20Survival.md) side mission.
 
-During the course of the mission, the survivor finds the book *Medicinal Plants of Great Bear* from the [Milton Post Office](./Milton%20Post%20Office.md) in [Milton](./Milton.md), and are tasked to find, harvest, and prepare some medicinal flora native to [Great Bear Island](./Great%20Bear%20Island.md).
+During the course of the mission, the survivor finds the book _Medicinal Plants of Great Bear_ from the [Milton Post Office](./Milton%20Post%20Office.md) in [Milton](./Milton.md), and are tasked to find, harvest, and prepare some medicinal flora native to [Great Bear Island](./Great%20Bear%20Island.md).
 
 ## Update history
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Forest Talkers"
-wiki_namespace: 0
-categories: ["Story"]
-source: "https://thelongdark.fandom.com/wiki/Forest_Talkers"
----
-
 # Forest Talkers
+
+**Categories:** Story · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Talkers)
 
 **Contents**
 
@@ -21,15 +16,15 @@ source: "https://thelongdark.fandom.com/wiki/Forest_Talkers"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Forest_talker_logo.png) / *Forest\_talker\_logo.png* |
+|  | ![](../assets/Forest_talker_logo.png) / _Forest\_talker\_logo.png_ |
 | Type | Eco terrorism |
 | Headquarters | [Great Bear Island](./Great%20Bear%20Island.md) |
 
-> “**Eco-terrorists. Activists, some call them. Depends on who you talk to I guess.**”
+> “__Eco-terrorists. Activists, some call them. Depends on who you talk to I guess.__”
 >
 > — -Jeremiah
 
-The **Forest Talkers**are a group of activists mentioned in the Story Mode of *The Long Dark*. They are also described as 'eco-terrorists'.
+The **Forest Talkers**are a group of activists mentioned in the Story Mode of _The Long Dark_. They are also described as 'eco-terrorists'.
 
 ## History
 

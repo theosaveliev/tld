@@ -1,11 +1,6 @@
----
-title: "Train Shuttle"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Train_Shuttle"
----
-
 # Train Shuttle
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Train_Shuttle)
 
 ![TrainShuttle.jpg](../assets/TrainShuttle.jpg) **Train Shuttles** are a stationary [Vehicle](./Vehicle.md) found at various points along the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md). Train Shuttle Cars provide temporary shelter and possible loot spawns. They contain a single door that can be opened and closed. While the inside lacks a warmth bonus compared to caves or buildings, they do provide a windshield bonus if stepped inside. They make for poor shelters, but they can often be used to prevent hostile Wolves from attacking the player by simply walking inside and closing the door on them as they approach.
 
@@ -25,8 +20,6 @@ Shuttles often contain [Clothing](./Clothing.md), [Research Books](./Research%20
 
 [Will Mackenzie](./Will%20Mackenzie.md) hides inside one in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) to escape the [Old Bear](./Old%20Bear.md) while in [Broken Railroad](./Broken%20Railroad.md).
 
-| Column 1 |
-| --- |
-| ![A crashed Shuttle at the Ravine Basin](../assets/Train_Shuttle_Ravine.jpg) / *A crashed Shuttle at the Ravine Basin* |
+![A crashed Shuttle at the Ravine Basin](../assets/Train_Shuttle_Ravine.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_A crashed Shuttle at the Ravine Basin_

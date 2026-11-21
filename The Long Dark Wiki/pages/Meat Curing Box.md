@@ -1,11 +1,6 @@
----
-title: "Meat Curing Box"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Meat_Curing_Box"
----
-
 # Meat Curing Box
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Meat_Curing_Box)
 
 **Contents**
 
@@ -21,14 +16,14 @@ source: "https://thelongdark.fandom.com/wiki/Meat_Curing_Box"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Meat_Curing_Box_icon.png) / *Meat\_Curing\_Box\_icon.png* |
+|  | ![](../assets/Meat_Curing_Box_icon.png) / _Meat\_Curing\_Box\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 10.00 kg (22 lbs) |
 | **Actions** |  |
 | Backpack | Drop, Place |
 
-> “**A salt filled Curing Box for meat or fish.**”
+> “__A salt filled Curing Box for meat or fish.__”
 >
 > — In-Game Description
 
@@ -94,5 +89,3 @@ Progress for Crafting this item will be stored in the Furniture Workbench's cont
 |  | 8.00 kg |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Короб для просолки мяса](ru:%D0%9A%D0%BE%D1%80%D0%BE%D0%B1_%D0%B4%D0%BB%D1%8F_%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%BB%D0%BA%D0%B8_%D0%BC%D1%8F%D1%81%D0%B0)

@@ -1,11 +1,6 @@
----
-title: "Needs"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Needs"
----
-
 # Needs
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Needs)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Needs"
 
 ![The 4 Needs above the Condition bar.](../assets/Needs_Current.png)
 
-*The 4 Needs above the Condition bar.*
+_The 4 Needs above the Condition bar._
 
 Warmth, Fatigue, Thirst, and Hunger represent **Needs** that must be satisfied during the course of the game.
 
@@ -75,5 +70,3 @@ Dying of thirst will take 2 days when starting with 100% condition, which is hal
 To fill the thirst bar, 0.66 liters (0.17 gallons) of water is required.
 
 ## Gallery
-
-\[Missing image: Needs.png\] Old icons**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Состояния](ru:%D0%A1%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F) [es:necesidades](es:necesidades) [fr:Besoins](fr:Besoins)

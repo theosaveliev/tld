@@ -1,11 +1,6 @@
----
-title: "Warm Cave"
-wiki_namespace: 0
-categories: ["Indoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Warm_Cave"
----
-
 # Warm Cave
+
+**Categories:** Indoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Warm_Cave)
 
 **Contents**
 
@@ -242,5 +237,3 @@ The following areas behave like Warm Caves, though these indoor areas progress C
 - Unnamed cave near Welkin's Window
 - [Scaffolder's Hideout](./Scaffolder%27s%20Hideout.md)
 - [Smoker's Cave](./Smoker%27s%20Cave.md)
-
-**Lua execution error in Module:Navbox function navbox**

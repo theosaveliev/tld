@@ -1,11 +1,6 @@
----
-title: "Whetstone"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Whetstone"
----
-
 # Whetstone
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Whetstone)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Whetstone"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Whetstone_icon.png) / *Whetstone\_icon.png* |
+|  | ![](../assets/Whetstone_icon.png) / _Whetstone\_icon.png_ |
 | Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Whetstone"
 | **Values** |  |
 | Weight | 0.10 kg (0.22 lbs) |
 
-> “**Out here, people understand the value of hard work, good tools, and working with their hands...They say the most important tool out here is a hatchet or knife. But keeping em' sharp is the secret.**”
+> “__Out here, people understand the value of hard work, good tools, and working with their hands...They say the most important tool out here is a hatchet or knife. But keeping em' sharp is the secret.__”
 >
 > — [Grey Mother](./Grey%20Mother.md)
 
@@ -52,14 +47,14 @@ The Whetstone can only be used to sharpen the following tools:
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Hunting_Knife_icon.png) / *Hunting\_Knife\_icon.png* | [Hunting Knife](./Hunting%20Knife.md) |
-| ![](../assets/Improvised_Knife_icon.png) / *Improvised\_Knife\_icon.png* | [Improvised Knife](./Improvised%20Knife.md) |
-| ![](../assets/Scrap_Metal_Shard_icon.png) / *Scrap\_Metal\_Shard\_icon.png* | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) |
-| ![](../assets/Jeremiah%27s_Knife_icon.png) / *Jeremiah's\_Knife\_icon.png* | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) |
-| ![](../assets/Cougar_Claw_Knife_icon.png) / *Cougar\_Claw\_Knife\_icon.png* | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) |
-| ![](../assets/Survival_Knife_icon.png) / *Survival\_Knife\_icon.png* | [Survival Knife](./Survival%20Knife.md) |
-| ![](../assets/Hatchet_icon.png) / *Hatchet\_icon.png* | [Hatchet](./Hatchet.md) |
-| ![](../assets/Improvised_Hatchet_icon.png) / *Improvised\_Hatchet\_icon.png* | [Improvised Hatchet](./Improvised%20Hatchet.md) |
+| ![](../assets/Hunting_Knife_icon.png) / _Hunting\_Knife\_icon.png_ | [Hunting Knife](./Hunting%20Knife.md) |
+| ![](../assets/Improvised_Knife_icon.png) / _Improvised\_Knife\_icon.png_ | [Improvised Knife](./Improvised%20Knife.md) |
+| ![](../assets/Scrap_Metal_Shard_icon.png) / _Scrap\_Metal\_Shard\_icon.png_ | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) |
+| ![](../assets/Jeremiah%27s_Knife_icon.png) / _Jeremiah's\_Knife\_icon.png_ | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) |
+| ![](../assets/Cougar_Claw_Knife_icon.png) / _Cougar\_Claw\_Knife\_icon.png_ | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) |
+| ![](../assets/Survival_Knife_icon.png) / _Survival\_Knife\_icon.png_ | [Survival Knife](./Survival%20Knife.md) |
+| ![](../assets/Hatchet_icon.png) / _Hatchet\_icon.png_ | [Hatchet](./Hatchet.md) |
+| ![](../assets/Improvised_Hatchet_icon.png) / _Improvised\_Hatchet\_icon.png_ | [Improvised Hatchet](./Improvised%20Hatchet.md) |
 
 ## Tips
 
@@ -69,5 +64,3 @@ The Whetstone can only be used to sharpen the following tools:
 
 - UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Точильный камень](ru:%D0%A2%D0%BE%D1%87%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C)

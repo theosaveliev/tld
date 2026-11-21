@@ -1,11 +1,6 @@
----
-title: "Prepared Reishi Mushrooms"
-wiki_namespace: 0
-categories: ["First Aid", "Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Prepared_Reishi_Mushrooms"
----
-
 # Prepared Reishi Mushrooms
+
+**Categories:** First Aid, Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Prepared_Reishi_Mushrooms)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Prepared_Reishi_Mushrooms"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Prepared_Reishi_Mushrooms_icon.png) / *Prepared\_Reishi\_Mushrooms\_icon.png* |
+|  | ![](../assets/Prepared_Reishi_Mushrooms_icon.png) / _Prepared\_Reishi\_Mushrooms\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | No |
 | Renewable | No |
@@ -34,7 +29,7 @@ source: "https://thelongdark.fandom.com/wiki/Prepared_Reishi_Mushrooms"
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 
-**Prepared Reishi Mushrooms** are a natural medical item used to treat [Afflictions](./Afflictions.md) in *The Long Dark*.
+**Prepared Reishi Mushrooms** are a natural medical item used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 
 ## Overview
 
@@ -72,13 +67,15 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The old icon for prepared mushrooms](../assets/Prepared_Reishi_Mushrooms_icon_historic.png) / *The old icon for prepared mushrooms* | ![ditto, 3D model](../assets/Prepared_mushrooms.png) / *ditto, 3D model* |
+![The old icon for prepared mushrooms](../assets/Prepared_Reishi_Mushrooms_icon_historic.png)
+
+_The old icon for prepared mushrooms_
+
+![ditto, 3D model](../assets/Prepared_mushrooms.png)
+
+_ditto, 3D model_
 
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Приготовленные грибы Рейши](ru:%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B3%D1%80%D0%B8%D0%B1%D1%8B_%D0%A0%D0%B5%D0%B9%D1%88%D0%B8)

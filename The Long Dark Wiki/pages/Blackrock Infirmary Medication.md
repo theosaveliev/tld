@@ -1,17 +1,12 @@
----
-title: "Blackrock Infirmary Medication"
-wiki_namespace: 0
-categories: ["First Aid", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Blackrock_Infirmary_Medication"
----
-
 # Blackrock Infirmary Medication
+
+**Categories:** First Aid, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_Infirmary_Medication)
 
 **Blackrock Infirmary Medication**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Blackrock_Infirmary_Medication_icon.png) / *Blackrock\_Infirmary\_Medication\_icon.png* |
+|  | ![](../assets/Blackrock_Infirmary_Medication_icon.png) / _Blackrock\_Infirmary\_Medication\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Blues](./Blackrock%20Blues.md) |
 | **Properties** |  |
@@ -32,7 +27,7 @@ During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) journe
 
 ## Transcript
 
-*The following text is transcribed from the label on **Blackrock Infirmary Medication***
+_The following text is transcribed from the label on **Blackrock Infirmary Medication**_
 
 **High-quality, injectable medication. The label reads, “FOR EMERGENCIES ONLY”.**
 
@@ -40,5 +35,3 @@ During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) journe
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

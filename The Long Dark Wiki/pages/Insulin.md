@@ -1,17 +1,12 @@
----
-title: "Insulin"
-wiki_namespace: 0
-categories: ["First Aid", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Insulin"
----
-
 # Insulin
+
+**Categories:** First Aid, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Insulin)
 
 **Insulin**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Insulin_icon.png) / *Insulin\_icon.png* |
+|  | ![](../assets/Insulin_icon.png) / _Insulin\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
 | **Properties** |  |
@@ -34,5 +29,3 @@ During the course of the mission, the survivor finds Insulin near the [Crash Sit
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

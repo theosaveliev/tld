@@ -1,18 +1,13 @@
----
-title: "Metal Chair"
-wiki_namespace: 0
-categories: ["Interactable Objects", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Metal_Chair"
----
-
 # Metal Chair
+
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Metal_Chair)
 
 **Metal Chair**
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| Column 1 \| Column 2 \| Column 3 \| / \| --- \| --- \| --- \| / \| ![Chair](../assets/MetalChair.jpg) / *Chair* \| ![Armrest](../assets/MetalChairArmrest.jpg) / *Armrest* \| ![Bench](../assets/MetalChairBench.jpg) / *Bench* \| | 250px\]\] |
-| ![Chair](../assets/MetalChair.jpg) / *Chair* | ![Armrest](../assets/MetalChairArmrest.jpg) / *Armrest* / ![Bench](../assets/MetalChairBench.jpg) / *Bench* |
+| \[\[File: / ![Chair](../assets/MetalChair.jpg) / _Chair_ / ![Armrest](../assets/MetalChairArmrest.jpg) / _Armrest_ / ![Bench](../assets/MetalChairBench.jpg) / _Bench_ | 250px\]\] |
+| ![Chair](../assets/MetalChair.jpg) / _Chair_ | ![Armrest](../assets/MetalChairArmrest.jpg) / _Armrest_ / ![Bench](../assets/MetalChairBench.jpg) / _Bench_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | Yes\|- / **Statistics** |
@@ -31,5 +26,3 @@ They can be sawed with a [Hacksaw](./Hacksaw.md) and come in different types:
 | Chair | 4 | 1 | 2 hours 24 minutes | 432 | -5% |
 | Armrest Chair | 6 | 1 | 2 hours 36 minutes | 468 | -5% |
 | Bench Chair | 6 | 2 | 2 hours 36 minutes | 468 | -5% |
-
-**Lua execution error in Module:Navbox function navbox**

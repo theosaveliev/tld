@@ -1,11 +1,6 @@
----
-title: "Rabbitskin Hat"
-wiki_namespace: 0
-categories: ["Clothing", "Craftable clothing", "Pages with update history", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Rabbitskin_Hat"
----
-
 # Rabbitskin Hat
+
+**Categories:** Clothing, Craftable clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rabbitskin_Hat)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Rabbitskin_Hat"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rabbitskin_Hat_icon.png) / *Rabbitskin\_Hat\_icon.png* |
+|  | ![](../assets/Rabbitskin_Hat_icon.png) / _Rabbitskin\_Hat\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -32,11 +27,11 @@ source: "https://thelongdark.fandom.com/wiki/Rabbitskin_Hat"
 | Harvest | 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / 10 minutes |
 | Repair | 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 30 minutes / 50% condition |
 
-> “**A warm hat made from rabbit fur.**”
+> “__A warm hat made from rabbit fur.__”
 >
 > — In-game description
 
-The **Rabbitskin Hat** is a type of craftable headgear in *[The Long Dark](./The%20Long%20Dark.md)*.
+The **Rabbitskin Hat** is a type of craftable headgear in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -78,13 +73,15 @@ Has a chance to spawn in a cache in the [Ice Caves](./Ice%20Cave.md) of [Hushed 
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model](../assets/Rabbitskin_Hat_Model_icon.png) / *Clothing model* | ![Clothing model damaged](../assets/Rabbitskin_Hat_Model_Damaged_icon.png) / *Clothing model damaged* |
+![Clothing model](../assets/Rabbitskin_Hat_Model_icon.png)
+
+_Clothing model_
+
+![Clothing model damaged](../assets/Rabbitskin_Hat_Model_Damaged_icon.png)
+
+_Clothing model damaged_
 
 ## Update history
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Шапка из кроличьего меха](ru:%D0%A8%D0%B0%D0%BF%D0%BA%D0%B0_%D0%B8%D0%B7_%D0%BA%D1%80%D0%BE%D0%BB%D0%B8%D1%87%D1%8C%D0%B5%D0%B3%D0%BE_%D0%BC%D0%B5%D1%85%D0%B0)

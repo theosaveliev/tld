@@ -1,17 +1,12 @@
----
-title: "ID - G. Russell"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/ID_-_G._Russell"
----
-
 # ID \- G\. Russell
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/ID_-_G._Russell)
 
 **ID - G. Russell**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/ID_-_D._Belanger_icon.png) / *ID\_-\_D.\_Belanger\_icon.png* |
+|  | ![](../assets/ID_-_D._Belanger_icon.png) / _ID\_-\_D.\_Belanger\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
 | **Properties** |  |
@@ -36,5 +31,3 @@ The ID disappears when Gwen is returned to the [Community Hall](./Community%20Ha
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**

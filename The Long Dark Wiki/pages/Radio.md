@@ -1,11 +1,6 @@
----
-title: "Radio"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Radio"
----
-
 # Radio
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Radio)
 
 **Contents**
 
@@ -18,8 +13,8 @@ source: "https://thelongdark.fandom.com/wiki/Radio"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| Column 1 \| Column 2 \| Column 3 \| / \| --- \| --- \| --- \| / \| ![Radio](../assets/Radio.jpg) / *Radio* \| ![Vehicle](../assets/Radio_Vehicle.jpg) / *Vehicle* \| ![Trader](../assets/Trader%27s_Radio.jpg) / *Trader* \| | 250px\]\] |
-| ![Radio](../assets/Radio.jpg) / *Radio* | ![Vehicle](../assets/Radio_Vehicle.jpg) / *Vehicle* / ![Trader](../assets/Trader%27s_Radio.jpg) / *Trader* |
+| \[\[File: / ![Radio](../assets/Radio.jpg) / _Radio_ / ![Vehicle](../assets/Radio_Vehicle.jpg) / _Vehicle_ / ![Trader](../assets/Trader%27s_Radio.jpg) / _Trader_ | 250px\]\] |
+| ![Radio](../assets/Radio.jpg) / _Radio_ | ![Vehicle](../assets/Radio_Vehicle.jpg) / _Vehicle_ / ![Trader](../assets/Trader%27s_Radio.jpg) / _Trader_ |
 | Story item | Yes |
 
 A **Radio** is an interactable electronic device that can be found in many locations across the Island.
@@ -57,5 +52,3 @@ Aside from vehicles, the following locations contain a radio:
 ### Far Territory
 
 ## Trivia
-
-Classical music will play during the Aurora. The music that plays has been identified to be Shelley Katz playing Bach on piano. This is an [Easter Egg](./Easter%20Eggs.md). **Lua execution error in Module:Navbox function navbox**

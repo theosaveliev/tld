@@ -1,17 +1,12 @@
----
-title: "Letter for Hank's Niece"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Letter_for_Hank's_Niece"
----
-
 # Letter for Hank's Niece
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Letter_for_Hank's_Niece)
 
 **Letter for Hank's Niece**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Letter_for_Hank%27s_Niece_icon.png) / *Letter\_for\_Hank's\_Niece\_icon.png* |
+|  | ![](../assets/Letter_for_Hank%27s_Niece_icon.png) / _Letter\_for\_Hank's\_Niece\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Hank's Hatch](./Hank%27s%20Hatch.md) |
 | **Properties** |  |
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Letter_for_Hank's_Niece"
 
 ## Transcript
 
-*The following text is transcribed from **Letter for Hank's Niece***
+_The following text is transcribed from **Letter for Hank's Niece**_
 
 **Dear Angela,
 
@@ -46,5 +41,3 @@ Hank**
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,17 +1,12 @@
----
-title: "Jeans"
-wiki_namespace: 0
-categories: ["Clothing"]
-source: "https://thelongdark.fandom.com/wiki/Jeans"
----
-
 # Jeans
+
+**Categories:** Clothing · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeans)
 
 **Jeans**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Jeans_icon.png) / *Jeans\_icon.png* |
+|  | ![](../assets/Jeans_icon.png) / _Jeans\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Outer legs |
@@ -25,18 +20,20 @@ source: "https://thelongdark.fandom.com/wiki/Jeans"
 | Harvest | 1 × [Cloth](./Cloth.md) / 30 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 30% condition |
 
-> “**Basic denim jeans. Better than nothing.**”
+> “__Basic denim jeans. Better than nothing.__”
 >
 > — In-game description
 
-**Jeans** are a type of [Clothing](./Clothing.md) in *The Long Dark*.
+**Jeans** are a type of [Clothing](./Clothing.md) in _The Long Dark_.
 
 ## Overview
 
 Low tier pants and a common outer layer legs starting item. While light and common, they provide minimal protection and warmth, and should be replaced as soon as possible.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Jeans_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Jeans_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Clothing model icon](../assets/Jeans_Model_icon.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Джинсы](ru:%D0%94%D0%B6%D0%B8%D0%BD%D1%81%D1%8B) [fr:Jeans](fr:Jeans)
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Jeans_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_

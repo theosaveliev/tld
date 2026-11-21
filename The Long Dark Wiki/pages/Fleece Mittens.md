@@ -1,17 +1,12 @@
----
-title: "Fleece Mittens"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Fleece_Mittens"
----
-
 # Fleece Mittens
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fleece_Mittens)
 
 **Fleece Mittens**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fleece_Mittens_icon.png) / *Fleece\_Mittens\_icon.png* |
+|  | ![](../assets/Fleece_Mittens_icon.png) / _Fleece\_Mittens\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Hands |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Fleece_Mittens"
 | Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 65% condition |
 
-> “**Basic fleece mitts. Pretty warm, but useless when wet.**”
+> “__Basic fleece mitts. Pretty warm, but useless when wet.__”
 >
 > — In-game description
 
-**Fleece mittens** are a type of [clothing](./Clothing.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Fleece mittens** are a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -39,13 +34,19 @@ They should be replaced with [Wool Mittens](./Wool%20Mittens.md) once a pair is 
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Pre Alpha model.](../assets/Mittens_%28historical%29.png) / *Pre Alpha model.* | ![Clothing model](../assets/Fleece_Mittens_Model_icon.png) / *Clothing model* | ![Clothing model damaged](../assets/Fleece_Mittens_Damaged_icon.png) / *Clothing model damaged* |
+![Pre Alpha model.](../assets/Mittens_%28historical%29.png)
+
+_Pre Alpha model._
+
+![Clothing model](../assets/Fleece_Mittens_Model_icon.png)
+
+_Clothing model_
+
+![Clothing model damaged](../assets/Fleece_Mittens_Damaged_icon.png)
+
+_Clothing model damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Флисовые варежки](ru:%D0%A4%D0%BB%D0%B8%D1%81%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D0%B0%D1%80%D0%B5%D0%B6%D0%BA%D0%B8)

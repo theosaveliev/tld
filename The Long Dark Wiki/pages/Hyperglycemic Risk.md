@@ -1,11 +1,6 @@
----
-title: "Hyperglycemic Risk"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Hyperglycemic_Risk"
----
-
 # Hyperglycemic Risk
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hyperglycemic_Risk)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Hyperglycemic_Risk"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hyperglycemic_Risk_icon.png) / *Hyperglycemic\_Risk\_icon.png* |
+|  | ![](../assets/Hyperglycemic_Risk_icon.png) / _Hyperglycemic\_Risk\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Update | 1.60 |
 | Story | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
@@ -32,7 +27,7 @@ source: "https://thelongdark.fandom.com/wiki/Hyperglycemic_Risk"
 | Treatment | Administer [Insulin](./Insulin.md) to Dimitri |
 | Recovery Time | Instant |
 
-**Hyperglycemia Risk** is a unique [Affliction](./Afflictions.md) in *[The Long Dark](./The%20Long%20Dark.md)* only encountered in [Wintermute](./Wintermute.md) during the mission [Fallen Star](./Fallen%20Star.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
+**Hyperglycemia Risk** is a unique [Affliction](./Afflictions.md) in _[The Long Dark](./The%20Long%20Dark.md)_ only encountered in [Wintermute](./Wintermute.md) during the mission [Fallen Star](./Fallen%20Star.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
 ## Overview
 
@@ -52,5 +47,3 @@ Though not seen in game, it can be inferred that Dimitri will likely begin suffe
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

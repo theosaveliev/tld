@@ -1,11 +1,6 @@
----
-title: "Energy Boost"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Energy_Boost"
----
-
 # Energy Boost
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Energy_Boost)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Energy_Boost"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Energy_Boost_icon.png) / *Energy\_Boost\_icon.png* |
+|  | ![](../assets/Energy_Boost_icon.png) / _Energy\_Boost\_icon.png_ |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | Consume [First Aid](./First%20Aid.md) items |
@@ -26,7 +21,7 @@ source: "https://thelongdark.fandom.com/wiki/Energy_Boost"
 | Type | Benefit |
 | Benefit Duration | ![Emergency\_Stim\_icon.png](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md) 60 minutes (75 minutes with Feat) ![Go!\_Energy\_Drink\_icon.png](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md) 30 minutes (37.5 minutes with Feat) |
 
-> “**For a short time, Fatigue vanishes and your Stamina feels endless.**”
+> “__For a short time, Fatigue vanishes and your Stamina feels endless.__”
 >
 > — In-game description
 
@@ -60,5 +55,3 @@ After either the Energy drink or the Emergency Stim is consumed and the primary 
 - [Go! Energy Drink](./Go!%20Energy%20Drink.md) on the other hand has its own negative affliction called [Headache](./Headache.md) which causes the player to have shots of blurry vision similar to [Pain](./Pain.md).
 
 - [Go! Energy Drink](./Go!%20Energy%20Drink.md) will lose 50% of Fatigue after use.
-
-**Lua execution error in Module:Navbox function navbox**

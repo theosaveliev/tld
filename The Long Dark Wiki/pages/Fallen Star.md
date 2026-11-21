@@ -1,17 +1,12 @@
----
-title: "Fallen Star"
-wiki_namespace: 0
-categories: ["Episode 3"]
-source: "https://thelongdark.fandom.com/wiki/Fallen_Star"
----
-
 # Fallen Star
+
+**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fallen_Star)
 
 **Fallen Star**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Missions_story_ep3_Triage.png) / *Missions\_story\_ep3\_Triage.png* |
+|  | ![](../assets/Missions_story_ep3_Triage.png) / _Missions\_story\_ep3\_Triage.png_ |
 | Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
 | Previous | [Trauma](./Trauma.md) |
 | Current | Fallen Star |
@@ -19,9 +14,9 @@ source: "https://thelongdark.fandom.com/wiki/Fallen_Star"
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 | Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) [Father Thomas](./Father%20Thomas.md) / [Crash Survivor](./Crash%20Survivor.md) / [Molly](./Molly.md) / [Jane Yang](./Jane%20Yang.md) (flashback) |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
-> “**Survivors of an airline crash in the mountains have found their way to the Community Hall in Thomson's Crossing. There might be others out there in need of help. Can you save them?**”
+> “__Survivors of an airline crash in the mountains have found their way to the Community Hall in Thomson's Crossing. There might be others out there in need of help. Can you save them?__”
 
 **Fallen Star** is the second mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) meets [Father Thomas](./Father%20Thomas.md) and learns about her predicament.
 
@@ -89,5 +84,3 @@ Be wary of Timberwolves along the way back to the Community Hall. Gwen must be p
     - (12) Jake will be given [ID - O. Gould](./ID%20-%20O.%20Gould.md)
   - 3 will be told their family member/friend couldn't be found (This corresponds to the 3 names unaccounted for on the passenger manifest).
     - (6) Nolan, (4) Eric, and (11) Maude will be told that their friend could not be found, and they will plead to Astrid to keep looking.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**

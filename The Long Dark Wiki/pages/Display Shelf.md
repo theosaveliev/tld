@@ -1,17 +1,12 @@
----
-title: "Display Shelf"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Display_Shelf"
----
-
 # Display Shelf
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Display_Shelf)
 
 **Display Shelf**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Display_Shelf_icon.png) / *Display\_Shelf\_icon.png* |
+|  | ![](../assets/Display_Shelf_icon.png) / _Display\_Shelf\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 20.00 kg (44 lbs) |
@@ -47,5 +42,3 @@ While the preview image shows nine cubbies, the final product actually has only 
 |  | 4 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Стеллаж](ru:%D0%A1%D1%82%D0%B5%D0%BB%D0%BB%D0%B0%D0%B6)

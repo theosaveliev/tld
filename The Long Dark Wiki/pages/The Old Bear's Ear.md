@@ -1,17 +1,12 @@
----
-title: "The Old Bear's Ear"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/The_Old_Bear's_Ear"
----
-
 # The Old Bear's Ear
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Old_Bear's_Ear)
 
 **The Old Bear's Ear**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Old_Bear%27s_Ear_icon.png) / *The\_Old\_Bear's\_Ear\_icon.png* |
+|  | ![](../assets/The_Old_Bear%27s_Ear_icon.png) / _The\_Old\_Bear's\_Ear\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Jeremiah's Folly](./Jeremiah%27s%20Folly.md) |
 | **Properties** |  |
@@ -24,7 +19,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Old_Bear's_Ear"
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 
-> “**You bring me the Old Bear's ear, and I'll get you out of here. I will give you everything you need to find your friend.**”
+> “__You bring me the Old Bear's ear, and I'll get you out of here. I will give you everything you need to find your friend.__”
 >
 > — [Jeremiah](./Jeremiah.md)
 
@@ -34,9 +29,13 @@ source: "https://thelongdark.fandom.com/wiki/The_Old_Bear's_Ear"
 
 It was obtained after successfully tracking and shooting the [Old Bear](./Old%20Bear.md) multiple times in [Mystery Lake](./Mystery%20Lake%20%28region%29.md), and finally killing the bear. After interacting with the carcass of The Old Bear, the bear's ear would instantly appear and could be taken. It would later be taken to [Jeremiah](./Jeremiah.md) as proof that [Will Mackenzie](./Will%20Mackenzie.md) managed to kill the Old Bear.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![](../assets/The_Old_Bear%27s_Ear.jpg) / *The\_Old\_Bear's\_Ear.jpg* | ![Jeremiah with the Old Bear's Ear after Mackenzie returns with it.](../assets/Jeremiah_Old_Bear_Ear.jpg) / *Jeremiah with the Old Bear's Ear after Mackenzie returns with it.* |
+![](../assets/The_Old_Bear%27s_Ear.jpg)
+
+_The\_Old\_Bear's\_Ear.jpg_
+
+![Jeremiah with the Old Bear's Ear after Mackenzie returns with it.](../assets/Jeremiah_Old_Bear_Ear.jpg)
+
+_Jeremiah with the Old Bear's Ear after Mackenzie returns with it._
 
 ## Update history
 
@@ -44,5 +43,3 @@ It was obtained after successfully tracking and shooting the [Old Bear](./Old%20
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from the game as part of the Redux edition.
-
-**Lua execution error in Module:Navbox function navbox**

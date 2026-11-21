@@ -1,11 +1,6 @@
----
-title: "Church Artifact (mission)"
-wiki_namespace: 0
-categories: ["Episode 3"]
-source: "https://thelongdark.fandom.com/wiki/Church_Artifact_(mission)"
----
-
 # Church Artifact \(mission\)
+
+**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Church_Artifact_%28mission%29)
 
 **Church Artifact** is a side mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) must search for clues about the whereabouts of an artifact that was stolen from the church in [Thomson's Crossing](./Thomson%27s%20Crossing.md) and return it to the church.
 
@@ -33,6 +28,6 @@ Once the artifact is retrieved, it must be brought back to the church and placed
 
 ## Transcript
 
-*Astrid enters the church and finds the [Diocese Report](./Diocese%20Report.md)*
+_Astrid enters the church and finds the [Diocese Report](./Diocese%20Report.md)_
 
 Astrid: "Something's gone missing..."

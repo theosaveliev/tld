@@ -1,17 +1,12 @@
----
-title: "Wyatt's Lost Papers 2"
-wiki_namespace: 0
-categories: ["Collectibles"]
-source: "https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_2"
----
-
 # Wyatt's Lost Papers 2
+
+**Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_2)
 
 **Wyatt's Lost Papers 2**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Wyatt%27s_Lost_Papers_1_icon.png) / *Wyatt's\_Lost\_Papers\_1\_icon.png* |
+|  | ![](../assets/Wyatt%27s_Lost_Papers_1_icon.png) / _Wyatt's\_Lost\_Papers\_1\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_2"
 
 ## Transcript
 
-*The following text is transcribed from **Wyatt's Lost Papers 2***
+_The following text is transcribed from **Wyatt's Lost Papers 2**_
 
 **I feel more or less resigned to it now, the deadline of the whole damn human idea. At least out here, surrounded by all this cold water, all this wilderness, we'll be able to see the end coming. On the Mainland, too many distractions. Too many fake people. People with their hands out. But there are some like that on the island, too.
 
@@ -38,5 +33,3 @@ Our little group should be fine though. As long as we stick to the plan. Stick t
 - Wyatt**
 
 ## Game history
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**

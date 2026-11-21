@@ -1,17 +1,12 @@
----
-title: "Frostbite Risk"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Frostbite_Risk"
----
-
 # Frostbite Risk
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frostbite_Risk)
 
 **Frostbite Risk**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Frostbite_Risk_icon.png) / *Frostbite\_Risk\_icon.png* |
+|  | ![](../assets/Frostbite_Risk_icon.png) / _Frostbite\_Risk\_icon.png_ |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | Your skin is directly exposed to the cold. If it remains exposed for long enough, you'll get Frostbite. |
@@ -26,7 +21,7 @@ source: "https://thelongdark.fandom.com/wiki/Frostbite_Risk"
 
 ## Risk
 
-> “**Your skin is directly exposed to the cold. If it remains exposed for long enough, you'll get Frostbite.**”
+> “__Your skin is directly exposed to the cold. If it remains exposed for long enough, you'll get Frostbite.__”
 >
 > — In-game description
 
@@ -40,7 +35,7 @@ Wearing Accessories, such as [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) (shown on t
 
 ![Outer and inner layers on the 5 body parts](../assets/Outer_and_inner_layers.jpg)
 
-*Outer and inner layers on the 5 body parts*
+_Outer and inner layers on the 5 body parts_
 
 - Frostbite Risk is calculated by game world temperature, which consists of ambient air temperature, windchill, and weather. This is not the same as "[Feels Like](./Feels%20Like.md)", a combination of the player's Clothing stats, any [Feats](./Feats.md), or Afflictions (ex. [Warming Up](./Warming%20Up.md), [Frigid Bones](./Frigid%20Bones.md)).
 - Frostbite Risk only increases when temperature goes below -20C.
@@ -61,5 +56,3 @@ Wearing Accessories, such as [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) (shown on t
 Should a body part continue to remain exposed to the freezing cold, [Frostbite](./Frostbite.md) will develop. If Frostbite develops on that limb and it is not covered, Frostbite Risk will begin again.
 
 ## Trivia
-
-The head is the most often the most uncovered portion of a person's body in game, but as long as one piece of clothing is in the head slot, Frostbite Risk will not develop there (even when when wearing items such as [Wool Scarf](./Wool%20Scarf.md) that do not cover much of the head, despite the exposed skin and ears, ).**Lua execution error in Module:Navbox function navbox**

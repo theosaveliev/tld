@@ -1,11 +1,6 @@
----
-title: "Infection Risk"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Infection_Risk"
----
-
 # Infection Risk
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Infection_Risk)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Infection_Risk"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Infection_Risk_icon.png) / *Infection\_Risk\_icon.png* |
+|  | ![](../assets/Infection_Risk_icon.png) / _Infection\_Risk\_icon.png_ |
 | Release | [5 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.107) |
 | Update | 0.107 |
 | **Properties** |  |
@@ -39,7 +34,7 @@ An **Infection Risk** is an [Affliction](./Afflictions.md) that can develop into
 
 ## Risk
 
-> “**You sustained a wound that could result in Infection if left untreated.**”
+> “__You sustained a wound that could result in Infection if left untreated.__”
 >
 > — In-game description
 
@@ -78,5 +73,3 @@ If a treatment is applied, the Infection Risk is removed without developing furt
 - UPDATE **5 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.107)):**
   - A Wolf Attack now results in Blood Loss and Infection Risk (vs. immediate Infection, as before). Infection Risk is reduced by applying Antiseptic. Wounds can become Infected up to 24 hours after they have been inflicted.
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,17 +1,12 @@
----
-title: "Rustic Cupboard"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Rustic_Cupboard"
----
-
 # Rustic Cupboard
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rustic_Cupboard)
 
 **Rustic Cupboard**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rustic_Cupboard_icon.png) / *Rustic\_Cupboard\_icon.png* |
+|  | ![](../assets/Rustic_Cupboard_icon.png) / _Rustic\_Cupboard\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 15.00 kg (33 lbs) |
@@ -56,5 +51,3 @@ Despite having a Backpack carry weight value, the cupboard cannot be picked up a
 |  | 2 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Буфет в деревенском стиле](ru:%D0%91%D1%83%D1%84%D0%B5%D1%82_%D0%B2_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D1%81%D1%82%D0%B8%D0%BB%D0%B5)

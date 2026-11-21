@@ -1,28 +1,23 @@
----
-title: "Cloth"
-wiki_namespace: 0
-categories: ["Materials"]
-source: "https://thelongdark.fandom.com/wiki/Cloth"
----
-
 # Cloth
+
+**Categories:** Materials · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cloth)
 
 **Cloth**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cloth_icon.png) / *cloth\_icon.png* |
+|  | ![](../assets/Cloth_icon.png) / _cloth\_icon.png_ |
 | **General** |  |
 | Item Type | Material\|- |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 
-> “**Cloth used for crafting and repair, as well as for creating bandages.**”
+> “__Cloth used for crafting and repair, as well as for creating bandages.__”
 >
 > — In-game description
 
-**Cloth** is a material in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Cloth** is a material in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## General Information
 
@@ -32,8 +27,10 @@ It can be used to repair [Clothing](./Clothing.md) in conjunction with a [Sewing
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![3D model](../assets/Cloth.png) / *3D model* | ![Old model](../assets/Cloth_old_model.png) / *Old model* |
+![3D model](../assets/Cloth.png)
 
-**Lua execution error in Module:Navbox function navbox** [es:Retal](es:Retal) [ru:Ткань](ru:%D0%A2%D0%BA%D0%B0%D0%BD%D1%8C)
+_3D model_
+
+![Old model](../assets/Cloth_old_model.png)
+
+_Old model_

@@ -1,11 +1,6 @@
----
-title: "Survival Mode"
-wiki_namespace: 0
-categories: ["The Long Dark"]
-source: "https://thelongdark.fandom.com/wiki/Survival_Mode"
----
-
 # Survival Mode
+
+**Categories:** The Long Dark · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survival_Mode)
 
 **Contents**
 
@@ -25,12 +20,12 @@ source: "https://thelongdark.fandom.com/wiki/Survival_Mode"
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 
-> “**A mysterious geomagnetic storm has brought your plane crashing down into the Northern Canadian wilderness.  
- How long can you survive?**”
+> “__A mysterious geomagnetic storm has brought your plane crashing down into the Northern Canadian wilderness.  
+ How long can you survive?__”
 >
 > — Opening screen background
 
-**Survival Mode** is the sandbox survival portion of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Survival Mode** is the sandbox survival portion of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 During Survival Mode, the player may travel freely between all [Regions](./Region.md) of [Great Bear Island](./Great%20Bear%20Island.md), with the narrative created by their own actions and ability to survive. Survival Mode is a semi-permadeath experience; once the player [dies](./Condition.md#Death), the player can [Cheat Death](./Cheat%20Death.md) or choose to not continue (the later resulting in the save being wiped and it cannot be reloaded).
 
@@ -38,11 +33,11 @@ Players who purchase the [Tales from the Far Territory](./Tales%20from%20the%20F
 
 ## Experience
 
-The choice of Experience dictates how harshly the world will treat the player throughout their journey in *The Long Dark*.![](../assets/Pilgrim_icon.png)
+The choice of Experience dictates how harshly the world will treat the player throughout their journey in _The Long Dark_.![](../assets/Pilgrim_icon.png)
 
 ### Pilgrim
 
-> “**Wander the quiet apocalypse to chronicle the passing of an age. This is the poetry of survival.**”
+> “__Wander the quiet apocalypse to chronicle the passing of an age. This is the poetry of survival.__”
 
 [Pilgrim](./Pilgrim.md) is the easiest experience available in survival. Ideal for exploration and learning about the Island and the game mechanics in a low-stress environment. This mode is the standard "easy" difficulty setting.
 
@@ -55,7 +50,7 @@ The choice of Experience dictates how harshly the world will treat the player th
 
 ### Voyageur
 
-> “**Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.**”
+> “__Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.__”
 
 An experience that balances exploration with a challenge, [Voyageur](./Voyageur.md) is the standard "normal" difficulty setting, and is the same difficulty as Wintermute Experiences.
 
@@ -68,7 +63,7 @@ An experience that balances exploration with a challenge, [Voyageur](./Voyageur.
 
 ### Stalker
 
-> “**Your demise awaits behind every hilltop, shelter, and tree. Only the strong survive.**”
+> “__Your demise awaits behind every hilltop, shelter, and tree. Only the strong survive.__”
 
 A punishing survival challenge. [Stalker](./Stalker.md) features numerous aggressive [Wolves](./Wolf.md) and [Timberwolves](./Timberwolf.md). This is the standard "hard" difficulty setting.
 
@@ -81,7 +76,7 @@ A punishing survival challenge. [Stalker](./Stalker.md) features numerous aggres
 
 ### Interloper
 
-> “**You are not part of Mother Nature's plan, and you will bear the full force of her wrath. The true test of Human VS Nature.**”
+> “__You are not part of Mother Nature's plan, and you will bear the full force of her wrath. The true test of Human VS Nature.__”
 
 A punishing survival experience. [Interloper](./Interloper.md) lets you know that you are an unwelcome guest in this cold, hostile world. Best suited for expert players looking for the ultimate survival challenge. This is the standard "expert" difficulty setting, with multiple handicaps present to make the game even harder than normal.
 
@@ -94,7 +89,7 @@ A punishing survival experience. [Interloper](./Interloper.md) lets you know tha
 
 ### Misery
 
-> “**Cited text**”
+> “__Cited text__”
 
 [Misery](./Misery.md) takes Interloper and ratchets up the difficulty by adding six new Afflictions that are applied over time. Intended for Interloper players looking for a new level of challenge. You will not survive for very long. This is the standard "impossible" difficulty.
 
@@ -107,7 +102,7 @@ A punishing survival experience. [Interloper](./Interloper.md) lets you know tha
 
 ### Custom
 
-> “**Use our custom toolbox to craft a unique experience between Survival and Exploration - an experience all your own.**”
+> “__Use our custom toolbox to craft a unique experience between Survival and Exploration - an experience all your own.__”
 
 For players lookingfor create their own Experience, separate from the standard Survival Mode difficulties, [Custom](./Custom.md) is the Experience for them. Players can create a custom Experience here, with over 50 different variables which can be adjusted to their liking.
 
@@ -123,15 +118,19 @@ For players lookingfor create their own Experience, separate from the standard S
 
 If the Interloper Experience is selected, then the starting region will be randomly chosen. On Interloper, you will not spawn in Mystery Lake or Coastal Highway, and the number of possible spawn locations is limited.
 
-Note that some regions are locked and cannot be selected to start a game in when first playing *The Long Dark*. They will always unlock in the menu selection screen for a future playthrough when the player travels there in-game for the first time.
+Note that some regions are locked and cannot be selected to start a game in when first playing _The Long Dark_. They will always unlock in the menu selection screen for a future playthrough when the player travels there in-game for the first time.
 
 ## Character Sex
 
 May choose between a male or female survivor. The only differences are the character's voice, first person arms and hands, and the paper doll shown in the [Clothing](./Clothing.md) screen. The survivors use the same first person model, paper doll in the clothing screen, and voice as [Astrid Greenwood](./Astrid%20Greenwood.md) and [Will Mackenzie](./Will%20Mackenzie.md) from Wintermute, minus their wedding bands.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The female survivor silhouette](../assets/CharacterSelect_Female_Silhouette.png) / *The female survivor silhouette* | ![The male survivor silhouette](../assets/CharacterSelect_Male_Silhouette.png) / *The male survivor silhouette* |
+![The female survivor silhouette](../assets/CharacterSelect_Female_Silhouette.png)
+
+_The female survivor silhouette_
+
+![The male survivor silhouette](../assets/CharacterSelect_Male_Silhouette.png)
+
+_The male survivor silhouette_
 
 ## Start
 
@@ -222,12 +221,44 @@ Some items, locations, and even events found within the Wintermute Story mode ar
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Mode preset](../assets/Custom_Toolbox_v162.jpg) / *Mode preset* | ![Custom Toolbox v.1.62](../assets/CustomToolbox-v162.png) / *Custom Toolbox v.1.62* | ![Pilgrim Icon old](../assets/Pilgrim_icon_old.png) / *Pilgrim Icon old* | ![ditto](../assets/Pilgrim_title_card.png) / *ditto* |
-| ![Voyageur icon old](../assets/Voyageur_icon_old.png) / *Voyageur icon old* | ![ditto](../assets/Voyageur_title_card.png) / *ditto* | ![stalker icon old](../assets/Stalker_icon_old.png) / *stalker icon old* | ![ditto](../assets/Stalker_title_card.png) / *ditto* |
-| ![Interloper icon old](../assets/Interloper_icon_old.png) / *Interloper icon old* | ![ditto](../assets/Interloper_title_card.png) / *ditto* |  |  |
+![Mode preset](../assets/Custom_Toolbox_v162.jpg)
+
+_Mode preset_
+
+![Custom Toolbox v.1.62](../assets/CustomToolbox-v162.png)
+
+_Custom Toolbox v.1.62_
+
+![Pilgrim Icon old](../assets/Pilgrim_icon_old.png)
+
+_Pilgrim Icon old_
+
+![ditto](../assets/Pilgrim_title_card.png)
+
+_ditto_
+
+![Voyageur icon old](../assets/Voyageur_icon_old.png)
+
+_Voyageur icon old_
+
+![ditto](../assets/Voyageur_title_card.png)
+
+_ditto_
+
+![stalker icon old](../assets/Stalker_icon_old.png)
+
+_stalker icon old_
+
+![ditto](../assets/Stalker_title_card.png)
+
+_ditto_
+
+![Interloper icon old](../assets/Interloper_icon_old.png)
+
+_Interloper icon old_
+
+![ditto](../assets/Interloper_title_card.png)
+
+_ditto_
 
 References
-
-**Lua execution error in Module:Navbox function navbox** [ru:Уровни сложности](ru:%D0%A3%D1%80%D0%BE%D0%B2%D0%BD%D0%B8_%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8) [es:Modo Supervivencia](es:Modo_Supervivencia) [fr:Mode Survie](fr:Mode_Survie)

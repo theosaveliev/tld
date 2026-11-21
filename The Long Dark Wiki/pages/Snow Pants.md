@@ -1,17 +1,12 @@
----
-title: "Snow Pants"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Snow_Pants"
----
-
 # Snow Pants
+
+**Categories:** Clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Snow_Pants)
 
 **Snow Pants**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Snow_Pants_icon.png) / *Snow\_Pants\_icon.png* |
+|  | ![](../assets/Snow_Pants_icon.png) / _Snow\_Pants\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -24,11 +19,11 @@ source: "https://thelongdark.fandom.com/wiki/Snow_Pants"
 | Harvest | 1 × [Cloth](./Cloth.md) / 30 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 30% condition |
 
-> “**Insulated pants with a nylon windproof layer. Designed for spending a day in the snow without getting too wet!**”
+> “__Insulated pants with a nylon windproof layer. Designed for spending a day in the snow without getting too wet!__”
 >
 > — In-game description
 
-**Snow Pants** are a type of [Clothing](./Clothing.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Snow Pants** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 Snow Pants have the second highest warmth bonus in the game for pants, second only to [Wolfskin Pants](./Wolfskin%20Pants.md), and are tied with [Deerskin Pants](./Deerskin%20Pants.md) for the highest windproof bonus in the game.
 
@@ -42,13 +37,15 @@ Repaired with [cloth](./Cloth.md).
 
 Not available on [Interloper](./Interloper.md).
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Snow_Pants_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Snow_Pants_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Clothing model icon](../assets/Snow_Pants_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Snow_Pants_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Зимние\_штаны](ru:%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B5_%D1%88%D1%82%D0%B0%D0%BD%D1%8B)

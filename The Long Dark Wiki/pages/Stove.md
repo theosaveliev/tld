@@ -1,24 +1,19 @@
----
-title: "Stove"
-wiki_namespace: 0
-categories: ["Fire Starting", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Stove"
----
-
 # Stove
+
+**Categories:** Fire Starting, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stove)
 
 **Stove**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Stove.png) / *Stove.png* |
+|  | ![](../assets/Stove.png) / _Stove.png_ |
 | **General** |  |
 | Type | Fire Starting\|- |
 | Cooking slots | 6 |
 
 The **Stove** (technically a kitchen stove) is an immovable fire barrel. The wood stove functions identically to other contained fires and player-made [Campfire](./Campfire.md), and, like all contained fires, isn't blown out by high winds.
 
-Stoves are considered the most valuable firebox, as they have *six* [Cooking](./Cooking.md) slots, allowing the player to cook more food and drinks for the same amount of fuel than any other firebox. Usually one or more [Cooking Pots](./Cooking%20Pot.md) or [Recycled Cans](./Recycled%20Can.md) are found on the stove.
+Stoves are considered the most valuable firebox, as they have _six_ [Cooking](./Cooking.md) slots, allowing the player to cook more food and drinks for the same amount of fuel than any other firebox. Usually one or more [Cooking Pots](./Cooking%20Pot.md) or [Recycled Cans](./Recycled%20Can.md) are found on the stove.
 
 The Stove can be re-lit indefinitely, though it requires fresh starter, tinder, and fuel each time.
 
@@ -33,5 +28,3 @@ Stoves have fixed locations that do not change between games. Only seven exist i
 - [Community Hall](./Community%20Hall.md) ([Thomson's Crossing](./Thomson%27s%20Crossing.md)), in [Pleasant Valley](./Pleasant%20Valley.md)
 - [Fallen Lighthouse](./Fallen%20Lighthouse.md), in [Bleak Inlet](./Bleak%20Inlet.md) (The only outdoor stove in the game, allowing for the most efficient cooking time and fuel usage)
 - [Idle Camp](./Idle%20Camp.md) kitchen, in [Zone of Contamination](./Zone%20of%20Contamination.md)
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Печь](ru:%D0%9F%D0%B5%D1%87%D1%8C)

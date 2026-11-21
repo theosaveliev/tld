@@ -1,23 +1,18 @@
----
-title: "Salt Deposit"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Salt_Deposit"
----
-
 # Salt Deposit
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Salt_Deposit)
 
 **Salt Deposit**
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Full deposit](../assets/Salt_deposit.jpg) / *Full deposit* \| ![Depleted deposit](../assets/Salt_deposit_depleted.jpg) / *Depleted deposit* \| / \| --- \| --- \| | 250px\]\] |
-| ![Full deposit](../assets/Salt_deposit.jpg) / *Full deposit* | ![Depleted deposit](../assets/Salt_deposit_depleted.jpg) / *Depleted deposit* |
+| \[\[File: / ![Full deposit](../assets/Salt_deposit.jpg) / _Full deposit_ / ![Depleted deposit](../assets/Salt_deposit_depleted.jpg) / _Depleted deposit_ | 250px\]\] |
+| ![Full deposit](../assets/Salt_deposit.jpg) / _Full deposit_ | ![Depleted deposit](../assets/Salt_deposit_depleted.jpg) / _Depleted deposit_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | No |
 
-A **Salt Deposit** is a harvestable interactable object found along Coastal Regions in [*The Long Dark*](./The%20Long%20Dark.md).
+A **Salt Deposit** is a harvestable interactable object found along Coastal Regions in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
@@ -49,5 +44,3 @@ They are mostly found in Coastal Regions along rocky wall surfaces near the sea,
 | [Cave (Desolation Point location)](./Cave%20%28Desolation%20Point%20location%29.md) | [Desolation Point](./Desolation%20Point.md) | 10 | In the main chamber |
 
 ## Game History
-
-**Template:update history** **Lua execution error in Module:Navbox function navbox** [ru:Залежи соли](ru:%D0%97%D0%B0%D0%BB%D0%B5%D0%B6%D0%B8_%D1%81%D0%BE%D0%BB%D0%B8)

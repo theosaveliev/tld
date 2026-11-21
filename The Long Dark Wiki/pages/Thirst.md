@@ -1,11 +1,6 @@
----
-title: "Thirst"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Thirst"
----
-
 # Thirst
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Thirst)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Thirst"
 - [Character quotes](#character-quotes)
 - [Trivia](#trivia)
 
-> “**A quick way to lose Condition. Keep Water on hand to quench your thirst.**”
+> “__A quick way to lose Condition. Keep Water on hand to quench your thirst.__”
 >
 > — In-game description
 
@@ -80,5 +75,3 @@ Dying of thirst takes 2 days at 100% condition, meaning death results twice as f
 - (Dry lip smacking sounds)
 
 ## Trivia
-
-There is currently no dehydration penalty for standing next to fires in excess of 50°C (122° F). These temperatures, created by burning large amounts of wood and coal into fires, would most certainly result in intense sweating and heat stroke, especially for a fully clothed character standing next to these fires. Even with light and airy sports clothing equipped, the player still does not suffer from dehydration.**Lua execution error in Module:Navbox function navbox**

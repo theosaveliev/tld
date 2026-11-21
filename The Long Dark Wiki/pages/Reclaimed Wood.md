@@ -1,11 +1,6 @@
----
-title: "Reclaimed Wood"
-wiki_namespace: 0
-categories: ["Fire Starting", "Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Reclaimed_Wood"
----
-
 # Reclaimed Wood
+
+**Categories:** Fire Starting, Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Reclaimed_Wood)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Reclaimed_Wood"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Reclaimed_Wood_icon.png) / *Reclaimed\_Wood\_icon.png* |
+|  | ![](../assets/Reclaimed_Wood_icon.png) / _Reclaimed\_Wood\_icon.png_ |
 | Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01) |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Reclaimed_Wood"
 | **Values** |  |
 | Weight | 0.25 kg (0.55 lbs) |
 
-**Reclaimed Wood** is a fuel and crafting material in *The Long Dark*.
+**Reclaimed Wood** is a fuel and crafting material in _The Long Dark_.
 
 ## Overview
 
@@ -70,5 +65,3 @@ Reclaimed wood has a burning duration of 30 minutes.
   - Tuned all Fuel sources. Hardwood, Softwood, and Reclaimed wood all now have reduced burn times, but are also lighter to carry. Wood Foraging has been tuned to be more generous. Net result is Fuel is easier to find and carry, but you need more of it.
 - UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.01)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Древесина](ru:%D0%94%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%B8%D0%BD%D0%B0)

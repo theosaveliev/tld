@@ -1,20 +1,15 @@
----
-title: "Thanks for the Memories"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Thanks_for_the_Memories"
----
-
 # Thanks for the Memories
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Thanks_for_the_Memories)
 
 **Thanks for the Memories**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Thanks_for_the_Memories_icon.png) / *Thanks\_for\_the\_Memories\_icon.png* |
+|  | ![](../assets/Thanks_for_the_Memories_icon.png) / _Thanks\_for\_the\_Memories\_icon.png_ |
 | Description | Collect 12 Mementos – one from each Lower Great Bear Island Region (single game). |
 
-**Thanks for the Memories** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Thanks for the Memories** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -36,5 +31,3 @@ The player needs to only locate 1 [Mementos](./Mementos.md) from each of the fol
 - [Bleak Inlet](./Bleak%20Inlet.md)
 - [Ash Canyon](./Ash%20Canyon.md)
 - [Blackrock](./Blackrock.md)
-
-Mementos are tracked in the Collections section of the [Journal](./Journal.md).**Lua execution error in Module:Navbox function navbox**

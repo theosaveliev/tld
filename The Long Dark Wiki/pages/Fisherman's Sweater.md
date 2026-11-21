@@ -1,17 +1,12 @@
----
-title: "Fisherman's Sweater"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Fisherman's_Sweater"
----
-
 # Fisherman's Sweater
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fisherman's_Sweater)
 
 **Fisherman's Sweater**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fisherman%27s_Sweater_icon.png) / *Fisherman's\_Sweater\_icon.png* |
+|  | ![](../assets/Fisherman%27s_Sweater_icon.png) / _Fisherman's\_Sweater\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Inner torso |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Fisherman's_Sweater"
 | Harvest | 1 × [Cloth](./Cloth.md) / 45 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 60 minutes / 30% condition |
 
-> “**Heavy cable-knit wool sweater, of the kind worn by people on cold boats. High necked and generally very warm. Also, heavy.**”
+> “__Heavy cable-knit wool sweater, of the kind worn by people on cold boats. High necked and generally very warm. Also, heavy.__”
 >
 > — In-game description
 
-**Fisherman's Sweater** is a type of [clothing](./Clothing.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Fisherman's Sweater** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -39,13 +34,15 @@ A set of Fisherman Sweater's is guaranteed from [Timberwolf Mountain](./Timberwo
 
 Fisherman's Sweater is not available on [Interloper](./Interloper.md) mode.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model](../assets/Fisherman%27s_Sweater_Model_icon.png) / *Clothing model* | ![Clothing model damaged](../assets/Fisherman%27s_Sweater_Model_Damaged_icon.png) / *Clothing model damaged* |
+![Clothing model](../assets/Fisherman%27s_Sweater_Model_icon.png)
+
+_Clothing model_
+
+![Clothing model damaged](../assets/Fisherman%27s_Sweater_Model_Damaged_icon.png)
+
+_Clothing model damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Рыбацкий свитер](ru:%D0%A0%D1%8B%D0%B1%D0%B0%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%B2%D0%B8%D1%82%D0%B5%D1%80)

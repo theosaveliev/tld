@@ -1,17 +1,12 @@
----
-title: "Cured Gut"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cured_Gut"
----
-
 # Cured Gut
+
+**Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cured_Gut)
 
 **Cured Gut**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cured_Gut_icon.png) / *Cured\_Gut\_icon.png* |
+|  | ![](../assets/Cured_Gut_icon.png) / _Cured\_Gut\_icon.png_ |
 | Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233) |
 | Wintermute | No |
 | **Properties** |  |
@@ -35,5 +30,3 @@ Cured Gut is an item required for crafting or repairing many items, such as [lin
   - UI - Added a unique Icon for Cured/Dried Guts.
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Свежие\_кишки](ru:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BA%D0%B8%D1%88%D0%BA%D0%B8)

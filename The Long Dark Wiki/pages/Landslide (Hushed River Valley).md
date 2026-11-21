@@ -1,19 +1,14 @@
----
-title: "Landslide (Hushed River Valley)"
-wiki_namespace: 0
-categories: ["Locations", "Locations in Hushed River Valley", "Outdoor locations", "Sheltered locations"]
-source: "https://thelongdark.fandom.com/wiki/Landslide_(Hushed_River_Valley)"
----
-
 # Landslide \(Hushed River Valley\)
+
+**Categories:** Locations, Locations in Hushed River Valley, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Landslide_%28Hushed_River_Valley%29)
 
 **Landslide**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Landslide_HRV.png) / *Landslide\_HRV.png* |
+|  | ![](../assets/Landslide_HRV.png) / _Landslide\_HRV.png_ |
 | **Location** |  |
-|  | ![](../assets/Landslide_HRV_Location.png) / *Landslide\_HRV\_Location.png* |
+|  | ![](../assets/Landslide_HRV_Location.png) / _Landslide\_HRV\_Location.png_ |
 | Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
 | Description | A landslide across the river. |
 | **General** |  |

@@ -1,11 +1,6 @@
----
-title: "The Hunted, Part Three"
-wiki_namespace: 0
-categories: ["Challenges"]
-source: "https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_Three"
----
-
 # The Hunted, Part Three
+
+**Categories:** Challenges · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_Three)
 
 **The Hunted, Part Three**
 
@@ -15,7 +10,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_Three"
 | Difficulty | TBA |
 | Date Added | TBA |
 
-> “**The final installment of the HUNTED Challenge. Finish the job, or die trying**”
+> “__The final installment of the HUNTED Challenge. Finish the job, or die trying__”
 >
 > — - Offical Hinterland Description
 
@@ -30,5 +25,3 @@ The Hunted, Part 3 continues the story of a survivor escaping the wrath of the [
 ## Notes
 
 ## Gallery
-
-**Lua execution error in Module:Navbox function navbox**[1](https://www.thelongdark.com/expansion/)

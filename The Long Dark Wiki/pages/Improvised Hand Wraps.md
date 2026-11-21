@@ -1,17 +1,12 @@
----
-title: "Improvised Hand Wraps"
-wiki_namespace: 0
-categories: ["Clothing", "Craftable clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Improvised_Hand_Wraps"
----
-
 # Improvised Hand Wraps
+
+**Categories:** Clothing, Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Hand_Wraps)
 
 **Improvised Hand Wraps**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Improvised_Hand_Wraps_icon.png) / *improvised\_Hand\_Wraps\_icon.png* |
+|  | ![](../assets/Improvised_Hand_Wraps_icon.png) / _improvised\_Hand\_Wraps\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Hands |
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Improvised_Hand_Wraps"
 | Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition |
 
-> “**Hand wrappings made from scraps of cloth.**”
+> “__Hand wrappings made from scraps of cloth.__”
 >
 > — In-game description
 
@@ -33,9 +28,13 @@ source: "https://thelongdark.fandom.com/wiki/Improvised_Hand_Wraps"
 
 Crafting the hand wraps takes about 37 minutes and requires 4 pieces of [Cloth](./Cloth.md) and a [Sewing Kit](./Sewing%20Kit.md) or [Fishing Tackle](./Fishing%20Tackle.md).
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Model icon](../assets/Improvised_Hand_Wraps_Model_icon.png) / *Model icon* | ![Model icon damaged](../assets/Improvised_Hand_Wraps_Model_Damaged_icon.png) / *Model icon damaged* |
+![Model icon](../assets/Improvised_Hand_Wraps_Model_icon.png)
+
+_Model icon_
+
+![Model icon damaged](../assets/Improvised_Hand_Wraps_Model_Damaged_icon.png)
+
+_Model icon damaged_
 
 ## Crafting
 
@@ -58,5 +57,3 @@ Crafting the hand wraps takes about 37 minutes and requires 4 pieces of [Cloth](
 
 - UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Самодельные обмотки для рук](ru:%D0%A1%D0%B0%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BE%D0%B1%D0%BC%D0%BE%D1%82%D0%BA%D0%B8_%D0%B4%D0%BB%D1%8F_%D1%80%D1%83%D0%BA)

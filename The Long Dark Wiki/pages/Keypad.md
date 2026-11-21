@@ -1,18 +1,13 @@
----
-title: "Keypad"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Keypad"
----
-
 # Keypad
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Keypad)
 
 **Keypad**
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| Column 1 \| Column 2 \| Column 3 \| / \| --- \| --- \| --- \| / \| ![Locked](../assets/Keypad_Powered_Locked.jpg) / *Locked* \| ![Unlocked](../assets/Keypad_Powered_Unlocked.jpg) / *Unlocked* \| ![Unpowered](../assets/Keypad_Unpowered.jpg) / *Unpowered* \| | 250px\]\] |
-| ![Locked](../assets/Keypad_Powered_Locked.jpg) / *Locked* | ![Unlocked](../assets/Keypad_Powered_Unlocked.jpg) / *Unlocked* / ![Unpowered](../assets/Keypad_Unpowered.jpg) / *Unpowered* |
+| \[\[File: / ![Locked](../assets/Keypad_Powered_Locked.jpg) / _Locked_ / ![Unlocked](../assets/Keypad_Powered_Unlocked.jpg) / _Unlocked_ / ![Unpowered](../assets/Keypad_Unpowered.jpg) / _Unpowered_ | 250px\]\] |
+| ![Locked](../assets/Keypad_Powered_Locked.jpg) / _Locked_ | ![Unlocked](../assets/Keypad_Powered_Unlocked.jpg) / _Unlocked_ / ![Unpowered](../assets/Keypad_Unpowered.jpg) / _Unpowered_ |
 | Story item | Yes |
 
 A **Keypad** is a small electronic panel with numbers on it used to open certain electronically locked doors, but are unpowered during the day.
@@ -38,5 +33,3 @@ In Wintermute, only [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%2
 
 - The [Aurora Hatch](./Aurora%20Hatch.md) requires an Aurora to open the hatch, and a code to open the door to the back room (code is near a [Hidden Cache](./Hidden%20Cache.md) near [Hunting Lodge](./Hunting%20Lodge.md))
 - The Control room of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) requires a code and Aurora in order to progress the Episode during the mission [Renewed Hope](./Renewed%20Hope.md). (code is given when progressing the story)
-
-![The keypad in episode 2 in the Dam](../assets/Aurora_dam_door.jpg)*The keypad in episode 2 in the Dam* **Lua execution error in Module:Navbox function navbox**

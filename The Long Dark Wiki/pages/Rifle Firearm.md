@@ -1,11 +1,6 @@
----
-title: "Rifle Firearm"
-wiki_namespace: 0
-categories: ["Skills"]
-source: "https://thelongdark.fandom.com/wiki/Rifle_Firearm"
----
-
 # Rifle Firearm
+
+**Categories:** Skills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rifle_Firearm)
 
 **Contents**
 
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/Rifle_Firearm"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rifle_Firearm_background.png) / *Rifle\_Firearm\_background.png* |
+|  | ![](../assets/Rifle_Firearm_background.png) / _Rifle\_Firearm\_background.png_ |
 | Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
 | Date | 23 June 2016 |
 
@@ -63,9 +58,9 @@ The rifle holds a maximum of 10 rounds at a time and can be loaded with 5 round 
 
 ## Hunting
 
-*Main article: [Hunting](./Hunting.md)*
+_Main article: [Hunting](./Hunting.md)_
 
-**Hunting** animals allows players to kill and then harvest their flesh, pelts, and guts to acquire [food](./Food%20And%20Drink.md) and materials in *[The Long Dark](./The%20Long%20Dark.md)*. Hitting animals with projectiles, such as rifle ammunition, is the most effective way to kill game while completely bypassing the animals' natural defenses. Rifle shots move too quickly to be blocked or dodged and can be fired from outside the animal's zone of perception, allowing a (potentially) safe source of food.
+**Hunting** animals allows players to kill and then harvest their flesh, pelts, and guts to acquire [food](./Food%20And%20Drink.md) and materials in _[The Long Dark](./The%20Long%20Dark.md)_. Hitting animals with projectiles, such as rifle ammunition, is the most effective way to kill game while completely bypassing the animals' natural defenses. Rifle shots move too quickly to be blocked or dodged and can be fired from outside the animal's zone of perception, allowing a (potentially) safe source of food.
 
 ### Critical hits
 
@@ -86,11 +81,11 @@ Direct hits to an animal with a rifle round that are not critical will cause ble
 
 ## Skill levels
 
-Rifle Skill is increased by scoring hits on live wildlife with the [Hunting Rifle](./Hunting%20Rifle.md), [Barb's Rifle](./Barb%27s%20Rifle.md), [Vaughn's Rifle](./Vaughn%27s%20Rifle.md), or [Curator's Rifle](./Curator%27s%20Rifle.md), or by fully reading *[Frontier Shooting Guide](./Frontier%20Shooting%20Guide.md)* or *[Advanced Guns Guns Guns!](./Advanced%20Guns%20Guns%20Guns!.md)*. Multiple copies of each book can be read, each granting skill points when fully read.
+Rifle Skill is increased by scoring hits on live wildlife with the [Hunting Rifle](./Hunting%20Rifle.md), [Barb's Rifle](./Barb%27s%20Rifle.md), [Vaughn's Rifle](./Vaughn%27s%20Rifle.md), or [Curator's Rifle](./Curator%27s%20Rifle.md), or by fully reading _[Frontier Shooting Guide](./Frontier%20Shooting%20Guide.md)_ or _[Advanced Guns Guns Guns!](./Advanced%20Guns%20Guns%20Guns!.md)_. Multiple copies of each book can be read, each granting skill points when fully read.
 
 - A rifle round striking a live animal (except [crows](./Crow.md) and [fish](./Ice%20Fishing.md)) grants 1 skill point.
-- *Frontier Shooting Guide* grants 5 skill points (4 hours of reading) The book ***cannot*** be read if you are skill level 4 or above.
-- *Advanced Guns Guns Guns!* grants 10 skill points (25 hours of reading).
+- _Frontier Shooting Guide_ grants 5 skill points (4 hours of reading) The book **_cannot_** be read if you are skill level 4 or above.
+- _Advanced Guns Guns Guns!_ grants 10 skill points (25 hours of reading).
 
 Once players have reached a new skill level, they unlock the effects described in the table below: &lt;table-progress-tracking table-id="1" unique-column-index="1"&gt;
 
@@ -111,8 +106,6 @@ Once players have reached a new skill level, they unlock the effects described i
 - Bullets cause less severe bleeding compared to arrows, resulting in longer bleed-out times.
 - Firing the rifle indoors will cause temporary deafness.
 - The rifle will be dropped in any [Struggle](./Struggle.md) if the player loses.
-
-**Lua execution error in Module:Navbox function navbox**[ru:Навыки#Огнестрельное оружие](ru:%D0%9D%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8#%D0%9E%D0%B3%D0%BD%D0%B5%D1%81%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5) [es:Arma de fuego: Rifle](es:Arma_de_fuego:_Rifle) [fr:Armes à feu: Fusil](fr:Armes_%C3%A0_feu:_Fusil)
 
 ## Notes
 

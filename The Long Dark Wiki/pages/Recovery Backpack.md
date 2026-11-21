@@ -1,24 +1,19 @@
----
-title: "Recovery Backpack"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Recovery_Backpack"
----
-
 # Recovery Backpack
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Recovery_Backpack)
 
 **Recovery Backpack**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Recovery_Backpack.png) / *Recovery\_Backpack.png* |
+|  | ![](../assets/Recovery_Backpack.png) / _Recovery\_Backpack.png_ |
 | Story item | No |
 | **Container** |  |
 | Capacity | 5.00 kg(11 lbs) |
 
-*For an ordinary backpack, see [Backpack](./Backpack.md).*
+_For an ordinary backpack, see [Backpack](./Backpack.md)._
 
-A **Recovery Backpack** is a stationary interactable object in [*The Long Dark*](./The%20Long%20Dark.md). It only spawns when the player decides to [Cheat Death](./Cheat%20Death.md) in [Survival Mode](./Survival%20Mode.md).
+A **Recovery Backpack** is a stationary interactable object in [_The Long Dark_](./The%20Long%20Dark.md). It only spawns when the player decides to [Cheat Death](./Cheat%20Death.md) in [Survival Mode](./Survival%20Mode.md).
 
 ## Overview
 
@@ -38,5 +33,3 @@ If the player dies a second time and Cheats Death before recovering the first Re
 - It is entirely possible to lose rare or unique one of a kind items if you did not reclaim your first Recovery Backpack (such as [Tactical Gloves](./Tactical%20Gloves.md), [Vaughn's Rifle](./Vaughn%27s%20Rifle.md), etc). Make it a priority to recover your items to avoid this.
 
 ## Recovery Backpack Locations
-
-As mentioned before, checking the local Region map will reveal the location of the Recovery Backpack upon respawning, represented by a Campfire icon on the local Region map. Recovery Backpacks tend to spawn in up to 3 different locations in a region.**Lua execution error in Module:Navbox function navbox**

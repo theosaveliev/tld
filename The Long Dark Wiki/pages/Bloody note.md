@@ -1,17 +1,12 @@
----
-title: "Bloody note"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Bloody_note"
----
-
 # Bloody note
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bloody_note)
 
 **Bloody note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bloody_note_icon.png) / *Bloody\_note\_icon.png* |
+|  | ![](../assets/Bloody_note_icon.png) / _Bloody\_note\_icon.png_ |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Wintermute | No |
 | **Properties** |  |
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Bloody_note"
 
 ## Transcript
 
-*The following text is transcribed from **Bloody note***
+_The following text is transcribed from **Bloody note**_
 
 **They cut the science team and sent me. I guess they don't think much of the weather forecasts out here.,
 
@@ -43,7 +38,5 @@ It should be enough.**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Окровавленная записка](ru:%D0%9E%D0%BA%D1%80%D0%BE%D0%B2%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0)

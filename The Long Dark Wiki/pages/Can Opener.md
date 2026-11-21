@@ -1,17 +1,12 @@
----
-title: "Can Opener"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Can_Opener"
----
-
 # Can Opener
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Can_Opener)
 
 **Can Opener**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Can_Opener_icon.png) / *Can\_Opener\_icon.png* |
+|  | ![](../assets/Can_Opener_icon.png) / _Can\_Opener\_icon.png_ |
 | Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01) |
 | Wintermute | No |
 | Renewable | No |
@@ -39,9 +34,9 @@ It can also be repaired 1 unit of Scrap Metal. Repairing restores 25% condition 
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Can_opener.png) / *Old model.* |
+![Old model.](../assets/Can_opener.png)
+
+_Old model._
 
 ## Update history
 
@@ -53,5 +48,3 @@ It can also be repaired 1 unit of Scrap Metal. Repairing restores 25% condition 
   - Can opener now only degrades on use. Cans only need to be opened once (eating from the same can a second time does not affect the can opener).
 - UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Консервный\_нож](ru:%D0%9A%D0%BE%D0%BD%D1%81%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%B6)

@@ -1,17 +1,12 @@
----
-title: "Emergency Kit Note"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Emergency_Kit_Note"
----
-
 # Emergency Kit Note
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Emergency_Kit_Note)
 
 **Emergency Kit Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Emergency_Kit_Note_icon.png) / *Emergency\_Kit\_Note\_icon.png* |
+|  | ![](../assets/Emergency_Kit_Note_icon.png) / _Emergency\_Kit\_Note\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Emergency_Kit_Note"
 
 ## Transcript
 
-*The following text is transcribed from **Emergency Kit Note***
+_The following text is transcribed from **Emergency Kit Note**_
 
 **This Emergency Kit is distributed, free of charge, by the Great Bear Earthquake Memorial Society (GBEMS). Our non-profit work helps guarantee full preparedness for any future emergencies on Great Bear.
 
@@ -40,5 +35,3 @@ Our Motto: WE REMEMBER.**
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from the game as part of the Redux edition.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,17 +1,12 @@
----
-title: "Trail Boots"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Trail_Boots"
----
-
 # Trail Boots
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trail_Boots)
 
 **Trail Boots**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Trail_Boots_icon.png) / *Trail\_Boots\_icon.png* |
+|  | ![](../assets/Trail_Boots_icon.png) / _Trail\_Boots\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Outer feet |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Trail_Boots"
 | Harvest | 1 × [Cured leather](./Cured%20Leather.md) / 90 minutes |
 | Repair | 1 × [Cured leather](./Cured%20Leather.md) / 30 minutes / 25% condition |
 
-> “**Rugged leather hiking boot. Designed to last for long-distance journeys on rocky terrain. Leather upper and heavy rubber sole.**”
+> “__Rugged leather hiking boot. Designed to last for long-distance journeys on rocky terrain. Leather upper and heavy rubber sole.__”
 >
 > — In-game description
 
-**Trail Boots** are a type of [footwear](./Clothing.md) in *The Long Dark*.
+**Trail Boots** are a type of [footwear](./Clothing.md) in _The Long Dark_.
 
 ## Usefulness
 
@@ -41,13 +36,19 @@ Counterintuitively, while bulkier and heavier than similar footwear they only re
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Trail Boots old model](../assets/Basic_boots_%28historical%29.png) / *Trail Boots old model* | ![Clothing model icon](../assets/Trail_Boots_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Trail_Boots_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Trail Boots old model](../assets/Basic_boots_%28historical%29.png)
+
+_Trail Boots old model_
+
+![Clothing model icon](../assets/Trail_Boots_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Trail_Boots_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
-  - Renamed from *Leather Boots* to *Trail Boots*
-
-**Lua execution error in Module:Navbox function navbox** [ru:Походные ботинки](ru:%D0%9F%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%B1%D0%BE%D1%82%D0%B8%D0%BD%D0%BA%D0%B8)
+  - Renamed from _Leather Boots_ to _Trail Boots_

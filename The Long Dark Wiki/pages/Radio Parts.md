@@ -1,17 +1,12 @@
----
-title: "Radio Parts"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Radio_Parts"
----
-
 # Radio Parts
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Radio_Parts)
 
 **Radio Parts**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Radio_Parts_icon.png) / *Radio\_Parts\_icon.png* |
+|  | ![](../assets/Radio_Parts_icon.png) / _Radio\_Parts\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Wounded Trapper](./The%20Wounded%20Trapper.md) |
 | **Properties** |  |
@@ -32,5 +27,3 @@ source: "https://thelongdark.fandom.com/wiki/Radio_Parts"
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

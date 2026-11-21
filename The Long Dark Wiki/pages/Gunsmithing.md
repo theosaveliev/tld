@@ -1,11 +1,6 @@
----
-title: "Gunsmithing"
-wiki_namespace: 0
-categories: ["Pages with update history", "Skills"]
-source: "https://thelongdark.fandom.com/wiki/Gunsmithing"
----
-
 # Gunsmithing
+
+**Categories:** Pages with update history, Skills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Gunsmithing)
 
 **Contents**
 
@@ -21,13 +16,13 @@ source: "https://thelongdark.fandom.com/wiki/Gunsmithing"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Gunsmithing_background.png) / *Gunsmithing\_background.png* |
+|  | ![](../assets/Gunsmithing_background.png) / _Gunsmithing\_background.png_ |
 | Release | [Errant Pilgrim (v1.64)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64) |
 | Date | 10 December 2019 |
 
 ![](../assets/Gunsmithing.png)
 
-*Gunsmithing.png*
+_Gunsmithing.png_
 
 **Gunsmithing** is a Survival [Skill](./Skills.md) that enables the player to craft ammunition for the [Revolver](./Revolver.md) and [Hunting Rifle](./Hunting%20Rifle.md).
 
@@ -38,7 +33,7 @@ The Gunsmithing skill allows the crafting of [Rifle Ammunition](./Rifle%20Ammuni
 - The [Workshop](./Workshop.md) at [Bleak Inlet](./Bleak%20Inlet.md)
 - [Blackrock Prison](./Blackrock%20Prison.md)
 
-Skill in Gunsmithing is increased by reading the [Research Book](./Research%20Book.md) "*Practical Gunsmithing"*, crafting Can of Gunpowder, Bullets, Revolver Ammunition and Rifle Ammunition. Ammunition crafted below maximum Gunsmithing (level 5) has a chance to misfire, ruining the round and not firing a bullet when used.
+Skill in Gunsmithing is increased by reading the [Research Book](./Research%20Book.md) "_Practical Gunsmithing"_, crafting Can of Gunpowder, Bullets, Revolver Ammunition and Rifle Ammunition. Ammunition crafted below maximum Gunsmithing (level 5) has a chance to misfire, ruining the round and not firing a bullet when used.
 
 At the Ammunition Workbench, three ingredients are needed to craft ammunition:
 
@@ -91,7 +86,7 @@ Players can increase their Gunsmithing skill by:
 - Crafting [Can of Gunpowder](./Can%20of%20Gunpowder.md)
 - Casting 6 [Bullets](./Bullet.md)
 - By repairing a firearm at a [Milling Machine](./Milling%20Machine.md)
-- A limited increase can be obtained from the [Research Book](./Research%20Book.md) *[Practical Gunsmithing](./Practical%20Gunsmithing.md)*, which increases the Gunsmithing by 10 skill points with 5 hours of research.
+- A limited increase can be obtained from the [Research Book](./Research%20Book.md) _[Practical Gunsmithing](./Practical%20Gunsmithing.md)_, which increases the Gunsmithing by 10 skill points with 5 hours of research.
 
 &lt;table-progress-tracking table-id="7" unique-column-index="1"&gt;
 
@@ -123,7 +118,5 @@ Players can increase their Gunsmithing skill by:
   - Added new craftable item: Gunpowder
   - Added new craftable item: Bullet(s)
   - Added new craftable item: Ammunition
-
-**Lua execution error in Module:Navbox function navbox**[ru:Навыки#Револьвер](ru:%D0%9D%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8#%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%8C%D0%B2%D0%B5%D1%80)
 
 [es:fabricación de armas](es:fabricaci%C3%B3n_de_armas) [fr:Fabrication de munitions](fr:Fabrication_de_munitions)

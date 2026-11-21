@@ -1,18 +1,13 @@
----
-title: "Muskeg Overlook"
-wiki_namespace: 0
-categories: ["Locations", "Locations in Forlorn Muskeg", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Muskeg_Overlook"
----
-
 # Muskeg Overlook
+
+**Categories:** Locations, Locations in Forlorn Muskeg, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Muskeg_Overlook)
 
 **Muskeg Overlook**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Muskeg_Overlook.jpg) / *Muskeg\_Overlook.jpg* |
+|  | ![](../assets/Muskeg_Overlook.jpg) / _Muskeg\_Overlook.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Muskeg_Overlook_Location.png) / *Muskeg\_Overlook\_Location.png* |
+|  | ![](../assets/Muskeg_Overlook_Location.png) / _Muskeg\_Overlook\_Location.png_ |
 | Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
 | Type | Outdoors\|- |

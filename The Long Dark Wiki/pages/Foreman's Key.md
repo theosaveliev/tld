@@ -1,17 +1,12 @@
----
-title: "Foreman's Key"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Foreman's_Key"
----
-
 # Foreman's Key
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Foreman's_Key)
 
 **Foreman's Key**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Foreman%27s_Key_icon.png) / *Foreman's\_Key\_icon.png* |
+|  | ![](../assets/Foreman%27s_Key_icon.png) / _Foreman's\_Key\_icon.png_ |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | Wintermute | No |
 | **Properties** |  |
@@ -34,7 +29,5 @@ It is needed to open 2 doors:
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Ключ бригадира](ru:%D0%9A%D0%BB%D1%8E%D1%87_%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B8%D1%80%D0%B0)

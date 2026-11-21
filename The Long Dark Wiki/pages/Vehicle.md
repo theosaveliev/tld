@@ -1,11 +1,6 @@
----
-title: "Vehicle"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Vehicle"
----
-
 # Vehicle
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Vehicle)
 
 **Contents**
 
@@ -42,7 +37,7 @@ The most common type of vehicle a survivor will find across the Island, their mo
 
 ![](../assets/Car_red.jpg)
 
-*Car\_red.jpg*
+_Car\_red.jpg_
 
 The most common type of vehicle found across the Island, [Cars](./Car.md) are found in most regions near roads or homes in civilized areas of the Island. They come in various colors and are often found on roads or near residential areas. Entering a car will add a windproof protection as well as a bonus ambient temperature of +5o C. A player can choose to sleep inside the Car provided they have a [Bedroll](./Bedroll.md). A survivor can still sleep inside a Car even without a bedroll, as the Car will offer a bed warmth bonus of 3o C.
 
@@ -52,7 +47,7 @@ The [trunks](./Car%20Trunk.md) of Cars can be looted, though they are often lock
 
 ![](../assets/Truck.png)
 
-*Truck.png*
+_Truck.png_
 
 [Trucks](./Truck.md) are the second most common land vehicle found on the Island, often being found near roads and homes, but also more often near industrial areas. Much like Cars, Trucks often have a chance to contain a [Car Battery](./Car%20Battery.md) inside the hood. Some Trucks can be found mounted onto railroads, often near industrial areas and function no differently than any other Truck. Trucks can be entered similarly to Cars, and are often used as temporary shelters to sleep in.
 
@@ -62,7 +57,7 @@ The bed of Trucks sometimes have containers or other small items that can be loo
 
 ![](../assets/Tractor.jpg)
 
-*Tractor.jpg*
+_Tractor.jpg_
 
 [Tractors](./Tractor.md) are often found near agricultural areas of the Island and contain only 2 interactable doors. They can be slept in and the floorboards often contain small amounts of loot. Tractors do not have Car Batteries due to a lack of an interactable hood and do not contain gas cans or visors. Tractors can be entered similarly to Cars and Trucks, and are often used as temporary shelters to sleep in, though their very small warmth value makes them poor shelters without very warm clothing.
 
@@ -70,7 +65,7 @@ The bed of Trucks sometimes have containers or other small items that can be loo
 
 ![](../assets/PrisonBus.jpg)
 
-*PrisonBus.jpg*
+_PrisonBus.jpg_
 
 Though very rare, [Buses](./Bus.md) can occasionally be found in some parts of Great Bear Island. Buses can be walked inside of and eliminate any wind-chill factor but cannot be slept inside of without a Bedroll. Curiously, [Campfires](./Campfire.md) can be started inside a Bus with no negative consequences, making them excellent places to safely cook food during bath weather. Despite having open doors, [Wolves](./Wolf.md) cannot enter Buses.
 
@@ -80,7 +75,7 @@ So far, all Buses come from the [Blackrock Prison](./Blackrock%20Prison.md) and 
 
 ![](../assets/TrainShuttle.jpg)
 
-*TrainShuttle.jpg*
+_TrainShuttle.jpg_
 
 Occasionally found on the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md), [Train Shuttle Cars](./Train%20Shuttle.md) provide temporary shelter and possible loot spawns. They contain a single door that can be opened and closed and provide no extra warmth value inside. While the lack of warmth makes them poor shelters, they can often be used to prevent hostile Wolves from attacking the player by simply closing the door on them as they approach. Shuttle Cars can also serve as temporary outdoor shelters to sleep in if a player has a Bedroll, though their lack of warmth must be taken into consideration before they are slept in to prevent freezing to death while a survivor sleeps.
 
@@ -88,7 +83,7 @@ Occasionally found on the [Trans-Island Railway Line](./Trans-Island%20Railway%2
 
 ![](../assets/Poacher%27s_Camp.png)
 
-*Poacher's\_Camp.png*
+_Poacher's\_Camp.png_
 
 While technically not a vehicle in of itself, various railroad cars can be found and entered across the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md). They range from Flatbed Cars, Boxcars, Tank Cars, Coal Cars, or Timber Cars. Boxcars often serve as shelters and possibly contain loot, bodies, fuel, or fire barrels. Timber, Coal, Tank, and Flatbed railcars can often contain [Scrap Metal](./Scrap%20Metal.md) nearby or nothing at all. Boxcars can also be used as shelters to sleep in, provided the player carries a Bedroll and has sufficiently warm Clothing.
 
@@ -104,7 +99,7 @@ A few locations contain Tractor Trailer cars, but no 18 wheeler automobile. Open
 
 ![](../assets/Earth_Mover.jpg)
 
-*Earth\_Mover.jpg*
+_Earth\_Mover.jpg_
 
 Haul Trucks, or Dump Trucks, are rare industrial vehicles used to move vast quantities of earth and rock around mining sites. 3 can be found around the mines of the [Langston Mine](./Langston%20Mine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md). They contain a single door that allows a safe place to shelter and the floors often contain food and mining clothing.
 
@@ -112,7 +107,7 @@ Haul Trucks, or Dump Trucks, are rare industrial vehicles used to move vast quan
 
 ![](../assets/Steam_Loco_idle_1.png)
 
-*Steam\_Loco\_idle\_1.png*
+_Steam\_Loco\_idle\_1.png_
 
 The only player-operable vehicle in the game, the [Steam Locomotive](./Steam%20Train.md) is a coal-fired [0-4-0-ST](wikipedia:0-4-0) locomotive, numbered 46. It is used by [Astrid Greenwood](./Astrid%20Greenwood.md) in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) and is capable of pushing road-rail vehicles along the tracks, as well as clearing the tracks.
 
@@ -124,7 +119,7 @@ Despite having various wharfs and docks, Great Bear Island contains very few Wat
 
 ![](../assets/The_Riken.jpg)
 
-*The\_Riken.jpg*
+_The\_Riken.jpg_
 
 [The Riken](./The%20Riken.md) is a beached whaling sea vessel and a major location in the [Desolation Point](./Desolation%20Point.md) region. The vessel has an indoor area, beds, a [Furnace](./Furnace.md), and sizable amounts of other loot.
 
@@ -132,7 +127,7 @@ Despite having various wharfs and docks, Great Bear Island contains very few Wat
 
 ![](../assets/Last_Resort_Cannery_Trawler.jpg)
 
-*Last\_Resort\_Cannery\_Trawler.jpg*
+_Last\_Resort\_Cannery\_Trawler.jpg_
 
 A single fishing trawler can be found at the [Last Resort Cannery](./Last%20Resort%20Cannery.md), and is used as a footpath on the way to the workshop. It always contains a [Backpack](./Backpack.md) and a [Wool Scarf](./Wool%20Scarf.md) on the nearby pier. Judging from the amount of graffiti on the ship, this trawler has been moored and abandoned for some time.
 
@@ -140,7 +135,7 @@ A single fishing trawler can be found at the [Last Resort Cannery](./Last%20Reso
 
 ![](../assets/Beachcombing.jpg)
 
-*Beachcombing.jpg*
+_Beachcombing.jpg_
 
 Beached Boats can often be found near regions close to the sea, often when a survivor is [Beachcombing](./Beachcombing.md) the surrounding ocean. They often spawn after heavy blizzards pass through the area and contain sizable amounts of loot.
 
@@ -148,7 +143,7 @@ Beached Boats can often be found near regions close to the sea, often when a sur
 
 ![](../assets/Rowboat.png)
 
-*Rowboat.png*
+_Rowboat.png_
 
 A few rowboats can be found on Great Bear Island. They occasionally have a [Metal Container](./Metal%20Container.md) inside them, but can't otherwise be interacted with. Notable locations include:
 
@@ -165,7 +160,7 @@ A Canoe can occasionally wash up along the shorelines while [Beachcombing](./Bea
 
 ![](../assets/Canoe.png)
 
-*Canoe.png*
+_Canoe.png_
 
 ### Sutherland's sailboat
 
@@ -173,7 +168,7 @@ The only "operational" vehicle in Survival mode (though not useable by the Survi
 
 ![](../assets/Sutherland%27s_Sailboat.png)
 
-*Sutherland's\_Sailboat.png*
+_Sutherland's\_Sailboat.png_
 
 ## Air Vehicles
 
@@ -181,7 +176,7 @@ The only "operational" vehicle in Survival mode (though not useable by the Survi
 
 ![](../assets/Airplane.jpg)
 
-*Airplane.jpg*
+_Airplane.jpg_
 
 [Planes](./Airplane.md) are rarely found on the Island, and are almost always destroyed if a survivor does find one. Notable examples of planes include the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md), the destroyed cargo plane found strewn across [Timberwolf Mountain](./Timberwolf%20Mountain.md) (see [Tail Section](./Tail%20Section.md)), and [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md). Occasionally, smaller [Plane Crashes](./Plane%20Crashes.md) can be found in the Lower Great Bear regions, but are always completely destroyed when the player finds them, with small amounts of loot and presumably the dead body of the pilot found nearby.
 
@@ -191,8 +186,6 @@ The only intact planes that can be found are the various abandoned airplanes fou
 
 ![](../assets/Muskeg_Overlook_Helicopter.png)
 
-*Muskeg\_Overlook\_Helicopter.png*
+_Muskeg\_Overlook\_Helicopter.png_
 
 [Helicopters](./Helicopter.md) are the rarest of any vehicle on Great Bear Island. Most are only found in the [Forsaken Airfield](./Forsaken%20Airfield.md) region and provide a small warmth bonus and complete protection from wind-chill as Cars, Trucks, and Tractors would. They can also be used as a temporary location to sleep. Helicopters contain the most loot containers of any vehicle, often containing many lockers inside and outside of the choppers. A unique rescue helicopter, [Final Approach](./Final%20Approach.md), can be found in Forsaken Airfield and contains a medical cot for sleeping, a chance to spawn a [Distress Pistol](./Distress%20Pistol.md) box, and various lockers that can be looted.
-
-**Lua execution error in Module:Navbox function navbox**

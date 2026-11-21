@@ -1,17 +1,12 @@
----
-title: "The Technician's Notebook"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/The_Technician's_Notebook"
----
-
 # The Technician's Notebook
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Technician's_Notebook)
 
 **The Technician's Notebook**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Technician%27s_Notebook_icon.png) / *The\_Technician's\_Notebook\_icon.png* |
+|  | ![](../assets/The_Technician%27s_Notebook_icon.png) / _The\_Technician's\_Notebook\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Technician's_Notebook"
 
 ## Transcript
 
-*The following text is transcribed from **The Technician's Notebook***
+_The following text is transcribed from **The Technician's Notebook**_
 
 **RHEA COSMAT CANADA
 
@@ -39,7 +34,5 @@ Just leave this here in case it gets worse.**
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Блокнот техника](ru:%D0%91%D0%BB%D0%BE%D0%BA%D0%BD%D0%BE%D1%82_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0)

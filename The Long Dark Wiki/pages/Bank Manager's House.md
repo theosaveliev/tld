@@ -1,29 +1,24 @@
----
-title: "Bank Manager's House"
-wiki_namespace: 0
-categories: ["Indoor locations", "Locations", "Locations in Mountain Town", "Residential locations"]
-source: "https://thelongdark.fandom.com/wiki/Bank_Manager's_House"
----
-
 # Bank Manager's House
+
+**Categories:** Indoor locations, Locations, Locations in Mountain Town, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bank_Manager's_House)
 
 **Bank Manager's House**
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Exterior](../assets/Milton_Bank_Managers_House.jpg) / *Exterior* \| ![Interior](../assets/Bank_managers_house_interior.jpg) / *Interior* \| / \| --- \| --- \| | 250px\]\] |
-| ![Exterior](../assets/Milton_Bank_Managers_House.jpg) / *Exterior* | ![Interior](../assets/Bank_managers_house_interior.jpg) / *Interior* |
+| \[\[File: / ![Exterior](../assets/Milton_Bank_Managers_House.jpg) / _Exterior_ / ![Interior](../assets/Bank_managers_house_interior.jpg) / _Interior_ | 250px\]\] |
+| ![Exterior](../assets/Milton_Bank_Managers_House.jpg) / _Exterior_ | ![Interior](../assets/Bank_managers_house_interior.jpg) / _Interior_ |
 | **Location** |  |
-| ![](../assets/Bank_Manager%27s_House_Location.png) / *Bank\_Manager's\_House\_Location.png* |  |
+| ![](../assets/Bank_Manager%27s_House_Location.png) / _Bank\_Manager's\_House\_Location.png_ |  |
 | Region | [Mountain Town](./Mountain%20Town.md)\|- / Location |
 | Description | A single-story house with a pot belly stove and bed |
 | **General** |  |
 | Type | Residential\|- / Firebox |
-| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
 |  | Has an interior\|- / **Wintermute** |
 | Missions | [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3) |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
 The **Bank Manager's House** is a location in [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. It is labeled as **[Milton House](./Milton%20House.md)** in Survival Mode.
 
@@ -39,10 +34,12 @@ The house is initially locked but can be opened once [Will](./Will%20Mackenzie.m
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The kitchen area](../assets/Bank_managers_house_interior.jpg) / *The kitchen area* | ![The bedroom](../assets/Bed_2.jpg) / *The bedroom* |
+![The kitchen area](../assets/Bank_managers_house_interior.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_The kitchen area_
+
+![The bedroom](../assets/Bed_2.jpg)
+
+_The bedroom_
 
 [ru:Дом управляющего банком](ru:%D0%94%D0%BE%D0%BC_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B5%D0%B3%D0%BE_%D0%B1%D0%B0%D0%BD%D0%BA%D0%BE%D0%BC)

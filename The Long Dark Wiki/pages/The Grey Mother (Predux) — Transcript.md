@@ -1,11 +1,6 @@
----
-title: "The Grey Mother (Predux)/Transcript"
-wiki_namespace: 0
-categories: ["Episode 1"]
-source: "https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux)%2FTranscript"
----
-
 # The Grey Mother \(Predux\)/Transcript
+
+**Categories:** Episode 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Grey_Mother_%28Predux%29%2FTranscript)
 
 **Contents**
 
@@ -29,7 +24,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux)%2FTranscri
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Grey_Mother_%28Predux%29.jpg) / *The\_Grey\_Mother\_(Predux).jpg* |
+|  | ![](../assets/The_Grey_Mother_%28Predux%29.jpg) / _The\_Grey\_Mother\_(Predux).jpg_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Previous | [Echoes Of Astrid/Transcript](./Echoes%20Of%20Astrid%20%E2%80%94%20Transcript.md) |
 | Current | The Grey Mother (Predux)/Transcript |
@@ -45,18 +40,18 @@ CHAPTER THREE
 
 THE GREY MOTHER
 
-*Mackenzie sets out to find fuel for Grey Mother's fire. Eventually he finds 24 hours worth of fuel and puts it in Grey Mother's firewood bin, prompting another tutorial message*
+_Mackenzie sets out to find fuel for Grey Mother's fire. Eventually he finds 24 hours worth of fuel and puts it in Grey Mother's firewood bin, prompting another tutorial message_
 
-Containers{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Search Everything!  
- Search all the containers you find, as you never know when one might hold life-saving supplies! You can also store things in Containers, to be retrieved later.**
+Containers{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Search Everything!  
+ Search all the containers you find, as you never know when one might hold life-saving supplies! You can also store things in Containers, to be retrieved later.__
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}*Mackenzie walks inside and triggers a cutscene*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}_Mackenzie walks inside and triggers a cutscene_
 
 ### 3rd Person Cutscene
 
-*Grey Mother claps slowly as Mackenzie walks in and stands in front of a chair that was not there before. Grey Mother laughs in amusement*
+_Grey Mother claps slowly as Mackenzie walks in and stands in front of a chair that was not there before. Grey Mother laughs in amusement_
 
 Grey Mother: "So, the Outsider returns! You're already doing better than the others. You've found the fuel, but did you find any answers?"
 
@@ -64,7 +59,7 @@ Mackenzie: "All I've found are wolves, bad weather, and an empty town."
 
 Grey Mother: "It's just as I told you. They're all gone."
 
-*The cutscene ends as the player stands over Grey Mother. The message "GREY MOTHER NOW TRUSTS YOU MORE NOW. (+5)" appears. Talking to her triggers another 3rd person cutscene*
+_The cutscene ends as the player stands over Grey Mother. The message "GREY MOTHER NOW TRUSTS YOU MORE NOW. (+5)" appears. Talking to her triggers another 3rd person cutscene_
 
 Mackenzie: "What really happened here? Seems like people where here recently. Where did they go? Why didn't they just call for help or...just drive out?"
 
@@ -78,7 +73,7 @@ Mackenzie: "Voices?"
 
 Grey Mother: "I lost the voices and I couldn't get them back. Nevermind. You did well with the fuel. Now, do the same with food. Or I won't last the winter."
 
-*A dialogue compass appears as the cutscene ends*
+_A dialogue compass appears as the cutscene ends_
 
 - HELP COMING?
 
@@ -192,7 +187,7 @@ Grey Mother **(Text)**: "You'll understand when you find it."
 
 ## Grey Mother will starve unless you stock her pantry with food. Scavenge what you can from the environment around you. Some food sources are easier to find than others.
 
-*This objective is a very quiet one like the firewood objective. Once the player gathers enough food, they must speak to Grey Mother. There are 4 different responses depending on whether or not the player breaks into the [Orca Gas Station](./Orca%20Gas%20Station.md) (even if they do not steal anything). Grey Mother will somehow know the weight of your honesty depending on how you get her food*
+_This objective is a very quiet one like the firewood objective. Once the player gathers enough food, they must speak to Grey Mother. There are 4 different responses depending on whether or not the player breaks into the [Orca Gas Station](./Orca%20Gas%20Station.md) (even if they do not steal anything). Grey Mother will somehow know the weight of your honesty depending on how you get her food_
 
 Grey Mother **(Text)**: "So, tell me Mainlander. Did you do what I asked? Did you ransack the gas station? Did you clean them out?"
 
@@ -228,15 +223,15 @@ Grey Mother **(Text)**: "Your words are harsh but there's no heart behind them. 
 
 Mackenzie: "So...you're all set for food and fuel. I'd like to hear what you know about my friend now."
 
-*Grey Mother "Looks" over her rifle*
+_Grey Mother "Looks" over her rifle_
 
 Grey Mother: "Friend...yeah, she passed through. Some people heard her, in the storm."
 
-*Mackenzie shakes his head*
+_Mackenzie shakes his head_
 
 Mackenzie: "You already said that. Where did she go?"
 
-*Grey Mother sets her rifle on the left side of her chair*
+_Grey Mother sets her rifle on the left side of her chair_
 
 Grey Mother: "She passed through town. too many closed doors, broken houses. Nowhere to run, to hide."
 
@@ -246,13 +241,13 @@ Grey Mother: "Yes, why didn't they? They should have! They should have found [he
 
 ## Grey Mother seems tired. Try Talking to her after she's had some time to rest.
 
-*The cutscene ends as the player stands over Grey Mother. The message "GREY MOTHER NOW TRUSTS YOU MORE NOW. (+10)" appears. Talking to her gives more dialogue*
+_The cutscene ends as the player stands over Grey Mother. The message "GREY MOTHER NOW TRUSTS YOU MORE NOW. (+10)" appears. Talking to her gives more dialogue_
 
 - STORY
 
 Grey Mother **(Text)**: "Not now, Mainlander. Leave me to my thoughts for awhile."
 
-*After sleeping or exploring for several hours, Mackenzie returns to Grey Mother*
+_After sleeping or exploring for several hours, Mackenzie returns to Grey Mother_
 
 ### 3rd Person Cutscene
 
@@ -260,7 +255,7 @@ Grey Mother: "You've come back..."
 
 Mackenzie: "Yes. I'm still looking for my friend."
 
-*Mackenzie sits in the chair*
+_Mackenzie sits in the chair_
 
 Mackenzie: "Anything you can remember might help."
 
@@ -270,7 +265,7 @@ Mackenzie: "Tunnel?"
 
 Grey Mother: "The only way through the mountains. The only way she could have gone. Grey Mother wants to know what happened in the night! I heard the angry voices, the angry wind, but the rest is a mystery. Go to the tunnel and tell me what you find."
 
-*A dialogue compass appears as the cutscene ends*
+_A dialogue compass appears as the cutscene ends_
 
 - WOLVES?
 
@@ -300,17 +295,17 @@ Grey Mother **(Text)**: "It's been a while since Grey Mother had anyone to cook 
 
 Mackenzie **(Text)**: "Uhh...thanks."
 
-*A [Metal Pot](./Metal%20Pot.md) with some [Home-made Soup](./Home-made%20Soup.md) is near the fireplace. A single green cup is available for the taking*
+_A [Metal Pot](./Metal%20Pot.md) with some [Home-made Soup](./Home-made%20Soup.md) is near the fireplace. A single green cup is available for the taking_
 
 ## Investigate the tunnels leading out of Milton. Grey Mother wants to know what happened there.
 
-*Mackenzie travels to the tunnel, and a cutscene plays as Mackenzie finds a [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) with a dead convict on the ground. He spots a piece of Astrid's scarf and rips it out of the back right window. He then uses his parka to rub the frost off the back door window and peers inside. The camera changes to show the inside, with a message written in blood on the floor: PERSERVERANCE*
+_Mackenzie travels to the tunnel, and a cutscene plays as Mackenzie finds a [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) with a dead convict on the ground. He spots a piece of Astrid's scarf and rips it out of the back right window. He then uses his parka to rub the frost off the back door window and peers inside. The camera changes to show the inside, with a message written in blood on the floor: PERSERVERANCE_
 
-*Mackenzie then makes his way back to Grey Mother to report what he has found, triggering another 3rd person cutscene*
+_Mackenzie then makes his way back to Grey Mother to report what he has found, triggering another 3rd person cutscene_
 
 Grey Mother: "Did you find it?"
 
-*Mackenzie takes a seat*
+_Mackenzie takes a seat_
 
 Mackenzie: "It was there, like you said."
 
@@ -318,7 +313,7 @@ Grey Mother: "And your friend?"
 
 Mackenzie: "No sign of her. Tunnel's blocked. Looks like maybe...an avalanche. But I think she got through before that happened."
 
-*Grey Mother does not take this news well*
+_Grey Mother does not take this news well_
 
 Grey Mother: "If the tunnel is blocked, that's the end for Grey Mother."
 
@@ -326,19 +321,19 @@ Mackenzie: "So the tunnel is the only way through the mountains?"
 
 Grey Mother: "No, not the only way through. But...my only way through."
 
-*The scene changes to show the Fireplace*
+_The scene changes to show the Fireplace_
 
 Grey Mother: "Grey Mother is tired now. Let her rest for a while..."
 
-*The cutscene ends as the player stands over Grey Mother. The message "GREY MOTHER NOW TRUSTS YOU MORE NOW. (+10)" appears.*
+_The cutscene ends as the player stands over Grey Mother. The message "GREY MOTHER NOW TRUSTS YOU MORE NOW. (+10)" appears._
 
 ## Grey Mother seems deep in thought. Return to her once she's rested a while.
 
-*Talking to Grey Mother and selecting STORY gives this response*
+_Talking to Grey Mother and selecting STORY gives this response_
 
 Grey Mother **(Text)**: "Leave me to rest, outsider."
 
-*After sleeping or exploring for several hours, Mackenzie returns to Grey Mother, triggering another 3rd person cutscene*
+_After sleeping or exploring for several hours, Mackenzie returns to Grey Mother, triggering another 3rd person cutscene_
 
 Mackenzie: "I can't be here any more. My friend is out there and she needs my help. Please...tell me how to find her, and I'll do whatever I can to help you get out of here."
 
@@ -356,7 +351,7 @@ Will Mackenzie: "I don't understand..."
 
 Grey Mother: "In the bank. You'll find the answers. Now go."
 
-*A dialogue compass appears as the cutscene ends*
+_A dialogue compass appears as the cutscene ends_
 
 - SICK?
 
@@ -434,18 +429,18 @@ Mackenzie **(Text)**: "I'll see what I can find."
 
 ### Search the Milton Farmhouse for a Safety Deposit Box Key.
 
-*Mackenzie heads to [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) down the road. Taking a detour to the nearby shed close to the farmhouse, Mackenzie finds the [body of a dead man](./Martin%20Barker.md) being eaten by a wolf.*
+_Mackenzie heads to [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) down the road. Taking a detour to the nearby shed close to the farmhouse, Mackenzie finds the [body of a dead man](./Martin%20Barker.md) being eaten by a wolf._
 
 Will Mackenzie: "Holy shit!!"
 
-*Scaring the wolf off, Mackenzie either loots the corpse for a [Lock Box Key (Predux)](./Lock%20Box%20Key%20%28Predux%29.md) or ignores the corpse. Picking up the [Snare](./Snare.md) on the Work Bench generates a tutorial message*
+_Scaring the wolf off, Mackenzie either loots the corpse for a [Lock Box Key (Predux)](./Lock%20Box%20Key%20%28Predux%29.md) or ignores the corpse. Picking up the [Snare](./Snare.md) on the Work Bench generates a tutorial message_
 
-Snares{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Setting Up A Trapline  
- You can use your energy chasing Rabbits and trying to stun them with stones, or you can use a more long-term strategy: Snares. Look for areas of high Rabbit activity, and place a Snare nearby. Check on it daily. You may get lucky and catch a Rabbit. You can set up multiple snares to increase your chances. A well maintained Trapline can be an excellent long-term source of food. Just remember, it may attract other wildlife!**
+Snares{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Setting Up A Trapline  
+ You can use your energy chasing Rabbits and trying to stun them with stones, or you can use a more long-term strategy: Snares. Look for areas of high Rabbit activity, and place a Snare nearby. Check on it daily. You may get lucky and catch a Rabbit. You can set up multiple snares to increase your chances. A well maintained Trapline can be an excellent long-term source of food. Just remember, it may attract other wildlife!__
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}*Entering the [Tractor](./Tractor.md) and [Truck](./Truck.md) on the farm generates unique dialogue depending on which order they are entered.*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}_Entering the [Tractor](./Tractor.md) and [Truck](./Truck.md) on the farm generates unique dialogue depending on which order they are entered._
 
 - Tractor entered first: "Hmm...maybe a dead battery?"
 - Truck entered second: "Just like the Tractor."
@@ -453,27 +448,27 @@ What I Know description
 - Truck entered first: "Truck seems to be dead. Engine won't even turn."
 - Tractor entered second: "Damn...just like the Truck."
 
-*The [Paradise Meadows Farm Key](./Paradise%20Meadows%20Farm%20Key.md) is found on the dashboard of the Truck, and Mackenzie uses it to open the Farm House*
+_The [Paradise Meadows Farm Key](./Paradise%20Meadows%20Farm%20Key.md) is found on the dashboard of the Truck, and Mackenzie uses it to open the Farm House_
 
 Mackenzie: "The old lady said the key was here somewhere."
 
-*After some snooping, Mackenzie finds the key hidden in an [Urn](./Urn.md)*
+_After some snooping, Mackenzie finds the key hidden in an [Urn](./Urn.md)_
 
 ### Retrieve the contents of the Safety Deposit Box and return it to Grey Mother.
 
-*Mackenzie leaves the farm and heads to [Milton Credit Union](./Milton%20Credit%20Union.md), but finds the vault locked*
+_Mackenzie leaves the farm and heads to [Milton Credit Union](./Milton%20Credit%20Union.md), but finds the vault locked_
 
 Mackenzie: "Now where would they hide the combination to this vault?"
 
-*If the player interacts with the vault again*
+_If the player interacts with the vault again_
 
 Mackenzie: "Locked. Can't get in here yet."
 
-*Mackenzie goes to the office area and finds the [Bank Manager's House Key](./Bank%20Manager%27s%20House%20Key.md)*
+_Mackenzie goes to the office area and finds the [Bank Manager's House Key](./Bank%20Manager%27s%20House%20Key.md)_
 
 Mackenzie: "This must be the key to the bank manager's house."
 
-*Mackenzie finds the [Bank Manager's House](./Bank%20Manager%27s%20House.md), and finds the [Bank Vault Code](./Bank%20Vault%20Code.md) inside, then heads back to the bank to open the vault. After doing so, he opens vault 15 and finds a lockbox inside, then returns to Grey Mother, activating a 3rd person cutscene*
+_Mackenzie finds the [Bank Manager's House](./Bank%20Manager%27s%20House.md), and finds the [Bank Vault Code](./Bank%20Vault%20Code.md) inside, then heads back to the bank to open the vault. After doing so, he opens vault 15 and finds a lockbox inside, then returns to Grey Mother, activating a 3rd person cutscene_
 
 Grey Mother: "Did you find it?"
 
@@ -481,7 +476,7 @@ Will Mackenzie: "Here's the safety deposit box from the bank. I still don't unde
 
 Grey Mother: "Shh. Give me the box."
 
-*Mackenzie hands the woman the box and she opens it, producing a string of pearls*
+_Mackenzie hands the woman the box and she opens it, producing a string of pearls_
 
 Mackenzie: "You sent me to steal...jewelry for you? You said this would help me find her."
 
@@ -489,33 +484,33 @@ Grey Mother: "Have faith, Outsider. It will. Do one last thing for me, and then 
 
 Mackenzie: "I'm finished with this. I'll find my own way out of here..."
 
-*Mackenzie, angry and fed up, turns to walk out of the house*
+_Mackenzie, angry and fed up, turns to walk out of the house_
 
 Grey Mother: "Then you will die like the others."
 
-*Mackenzie hesitates at the front door*
+_Mackenzie hesitates at the front door_
 
 Grey Mother: "Just one last task for Grey Mother, man who fell from the sky. And then you will get all the answers you need."
 
 Mackenzie: "Hmph."
 
-*The message "GREY MOTHER NOW TRUST YOU MORE NOW. (+15)" appears. Talking to her triggers another 3rd person cutscene*
+_The message "GREY MOTHER NOW TRUST YOU MORE NOW. (+15)" appears. Talking to her triggers another 3rd person cutscene_
 
 Mackenzie: "What's this last thing you need from me?"
 
 Grey Mother: "Right a wrong from the past, Outsider. That's all I ask."
 
-*Mackenzie walks back to Grey Mother*
+_Mackenzie walks back to Grey Mother_
 
 Mackenzie: "How can I do that?"
 
 Grey Mother: "Take these pearls to Lily."
 
-*Grey Mother holds the pearls out for Mackenzie*
+_Grey Mother holds the pearls out for Mackenzie_
 
 Mackenzie: "Lily?"
 
-*A dialogue compass appears as the cutscene ends*
+_A dialogue compass appears as the cutscene ends_
 
 - LILY?
 
@@ -551,9 +546,9 @@ Mackenzie **(Text)**: "Ok...this better help me find my friend..."
 
 ## Find Lily's grave marker and pay service to her memory.
 
-*Mackenzie travels to the [Graveyard](./Graveyard.md) near the church and a cutscene plays. Mackenzie stands before a tombstone with Grey Mother's Pearls, then kneels down on one knee and rubs the face iff to clean it. He then places the pearls on top of the tombstone. The camera pans around to show the name on the tombstone, Lilith Barker.*
+_Mackenzie travels to the [Graveyard](./Graveyard.md) near the church and a cutscene plays. Mackenzie stands before a tombstone with Grey Mother's Pearls, then kneels down on one knee and rubs the face iff to clean it. He then places the pearls on top of the tombstone. The camera pans around to show the name on the tombstone, Lilith Barker._
 
-*Mackenzie returns to Grey Mother and another cutscene plays as he walks over to her*
+_Mackenzie returns to Grey Mother and another cutscene plays as he walks over to her_
 
 Mackenzie: "Lily was your...daughter?"
 
@@ -561,7 +556,7 @@ Grey Mother: "You have a good heart, Mackenzie. You see things others would miss
 
 Mackenzie: "But the name - - Lily Barker...related to the farmer? You said they were liars and cheats."
 
-*Mackenzie takes a seat, as the camera pans over Grey Mother rubbing her blanket over her legs*
+_Mackenzie takes a seat, as the camera pans over Grey Mother rubbing her blanket over her legs_
 
 Grey Mother: "The years have made me angry. Lily was my daughter...our daughter. I am also a Barker. The Farmer was my husband."
 
@@ -569,7 +564,7 @@ Mackenzie: "You lived...apart."
 
 Grey Mother: "Yes. Our Lily died climbing."
 
-*Mackenzie looks up at the photo above the fireplace of Lily, as the camera zooms in on it*
+_Mackenzie looks up at the photo above the fireplace of Lily, as the camera zooms in on it_
 
 Grey Mother: "She wanted to summit all the peaks on Great Bear. She was young, but already very talented. One day she wanted to head out on her own. I said no, but he said yes. "Let her go, she needs to face it alone." So she faced it alone. And fell. I never forgave him."
 
@@ -583,11 +578,11 @@ Grey Mother: "...like losing your own life. But now maybe you can save your frie
 
 Mackenzie: "How?"
 
-*Grey Mother reaches behind her, and produces a key*
+_Grey Mother reaches behind her, and produces a key_
 
 Grey Mother: "Take this key. Upstairs, in my Lily's old room, is a trunk with her old climbing things."
 
-*Mackenzie takes it*
+_Mackenzie takes it_
 
 Grey Mother: "Take the rope and the map. Follow Lily's path, and you'll find the back way through the mountains. It's the only way to find the route to Perseverance Mills. I hope you find her."
 
@@ -599,17 +594,17 @@ Mackenzie: "I...I'll try to come back. Or I'll send help for you. There's bound 
 
 Grey Mother: "My journey is finished. But yours is only beginning. Go, and don't think of Grey Mother, or Milton. We're of the old world now. The new world is for the strong to survive."
 
-*The cutscene ends as the player stands over Grey Mother. The message "GREY MOTHER NOW TRUSTS YOU MORE NOW. (+20)" appears. If the player speaks to her again and selects "Story"*
+_The cutscene ends as the player stands over Grey Mother. The message "GREY MOTHER NOW TRUSTS YOU MORE NOW. (+20)" appears. If the player speaks to her again and selects "Story"_
 
 Grey Mother **(Text)**: "Leave me, Outsider. Your fate in this world is no longer tied to mine."
 
-*Mackenzie then goes upstairs and unlocks Lily's Trunk with the key, and takes the contents. The mission ends afterwards*
+_Mackenzie then goes upstairs and unlocks Lily's Trunk with the key, and takes the contents. The mission ends afterwards_
 
 The story continues in [Paradise Lost (Predux)/Transcript](./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md).
 
 ## Grey Mother's Trust
 
-*At any point in the mission, the player has the option to raise Grey Mother's Trust. The following dialogue options are unlocked once sufficient Trust is earned*
+_At any point in the mission, the player has the option to raise Grey Mother's Trust. The following dialogue options are unlocked once sufficient Trust is earned_
 
 - 25 Trust: Knowledge: Milton History - Worldbuilding information about the history of Milton. (Gives [Town of Milton](./Town%20of%20Milton.md) [What I Know](./What%20I%20Know.md) Knowledge)
 - 50 Trust: Gameplay Tip: Sharpening - Gameplay tip about how to maintain Bladed tools. (Gives [Whetstone](./Whetstone.md))
@@ -620,11 +615,11 @@ The story continues in [Paradise Lost (Predux)/Transcript](./Paradise%20Lost%20%
 - 300 Trust: Knowledge: [Perseverance Mills](./Perseverance%20Mills.md) - Worldbuilding information about Perseverance Mills. (Gives [History of The Collapse](./History%20of%20The%20Collapse.md) Part Two [What I Know](./What%20I%20Know.md) Knowledge)
 - 375 Trust: Item: [Mountaineering Boots](./Mountaineering%20Boots.md) - Grey Mother gives you with Mountaineering Boots. (sic) (Gives [Mountaineering Boots](./Mountaineering%20Boots.md))
 
-*Upon selecting "Trust"*
+_Upon selecting "Trust"_
 
 Grey Mother **(Text)**: "What would you like to talk about?"
 
-*A dialogue compass appears with many choices if they are unlocked*
+_A dialogue compass appears with many choices if they are unlocked_
 
 - MILTON HISTORY
 

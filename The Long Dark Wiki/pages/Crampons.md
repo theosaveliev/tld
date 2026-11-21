@@ -1,11 +1,6 @@
----
-title: "Crampons"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Crampons"
----
-
 # Crampons
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crampons)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Crampons"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Crampons_icon.png) / *crampons\_icon.png* |
+|  | ![](../assets/Crampons_icon.png) / _crampons\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Accessory |
@@ -35,11 +30,11 @@ source: "https://thelongdark.fandom.com/wiki/Crampons"
 | Harvest | Cannot Harvest |
 | Repair | 2 × [Scrap Metal](./Scrap%20Metal.md) / 60 minutes / 20% condition |
 
-> “**Traction, for your feet. Rope climbing drains less Stamina, Sprains are less frequent, and you can travel with more confidence over Weak Ice.**”
+> “__Traction, for your feet. Rope climbing drains less Stamina, Sprains are less frequent, and you can travel with more confidence over Weak Ice.__”
 >
 > — In-game description
 
-**Crampons** are a [Clothing](./Clothing.md) accessory in *The Long Dark*.
+**Crampons** are a [Clothing](./Clothing.md) accessory in _The Long Dark_.
 
 ## Overview
 
@@ -59,7 +54,7 @@ Crampons are particularly useful in [regions](./Region.md) with multiple [Mounta
 There are 2 pairs of Crampons that can appear in the game:
 
 - [Ash Canyon](./Ash%20Canyon.md) - A pair is always found next to the [Technical Backpack](./Technical%20Backpack.md) in the [Gold Mine](./Gold%20Mine.md). The trek there is long, cold (-25°C (-13°F)) and with [predators](./Wildlife.md) in maze-like geography.
-- [Timberwolf Mountain](./Timberwolf%20Mountain.md) - A pair *has a chance* to spawn in the [Backpack](./Backpack.md) at the middle of the [Tail Section](./Tail%20Section.md), overlooking the cliffside to [Crystal Lake](./Crystal%20Lake.md).
+- [Timberwolf Mountain](./Timberwolf%20Mountain.md) - A pair _has a chance_ to spawn in the [Backpack](./Backpack.md) at the middle of the [Tail Section](./Tail%20Section.md), overlooking the cliffside to [Crystal Lake](./Crystal%20Lake.md).
 
 [Improvised Crampons](./Improvised%20Crampons.md) are a more easily acquired--though less effective--alternative that can be crafted at a [Work Bench](./Work%20Bench.md).
 
@@ -80,19 +75,17 @@ Crampons can be repaired with 2 [Scrap Metal](./Scrap%20Metal.md) using [Quality
 - In the [Perilous Constraint](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog/Archive_2#1.98_%28Perilous_Constraint_Update%29) update, when attempting to repair the Crampons without the Simple Tools or Quality Tools would give an error message stating a Sewing Kit is required.
 - Crampons are the only clothing item with 100% waterproofness.
 - Crampons are metal spikes attached to the underside of boots to increase traction on steep or rough terrain, particularly mountain climbing or traversing ice.
-  - *The Long Dark* crampons are a "strap-on" style, being an accessory to footwear. Other types include "stepped into" footwear, using vice-like designs to grasp the foot, or specialized boots with integrated crampons (aka "cleats").
+  - _The Long Dark_ crampons are a "strap-on" style, being an accessory to footwear. Other types include "stepped into" footwear, using vice-like designs to grasp the foot, or specialized boots with integrated crampons (aka "cleats").
 - Originally after launch crampons could not be repaired, making their durability finite, until a repair function was later added. (between [Errant Pilgrim (Dec 2019) and Perilous Constraint (Dec 2020)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)).
 - Scrap Metal may be obtained by [Beachcombing](./Beachcombing.md), making the repair of crampons renewable (provided they are not at 0% condition).
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Clothing model icon](../assets/Crampons_Model_icon.png) / *Clothing model icon* |
+![Clothing model icon](../assets/Crampons_Model_icon.png)
+
+_Clothing model icon_
 
 ## Update history
 
 - UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Альпинистские\_кошки](ru:%D0%90%D0%BB%D1%8C%D0%BF%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%BE%D1%88%D0%BA%D0%B8)

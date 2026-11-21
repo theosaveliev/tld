@@ -1,11 +1,6 @@
----
-title: "Campfire"
-wiki_namespace: 0
-categories: ["Fire Starting", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Campfire"
----
-
 # Campfire
+
+**Categories:** Fire Starting, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Campfire)
 
 **Contents**
 
@@ -19,10 +14,10 @@ source: "https://thelongdark.fandom.com/wiki/Campfire"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Campfire_icon.png) / *Campfire\_icon.png* |
+|  | ![](../assets/Campfire_icon.png) / _Campfire\_icon.png_ |
 | **General** |  |
 | Type | Fire Starting\|- |
-| Max temperature | 80 °C / *(144 °F)* |
+| Max temperature | 80 °C / _(144 °F)_ |
 | Cooking slots | 2 |
 
 A **Campfire** is an open [Fire](./Fire.md) that can be placed into the outdoors. Campfires can cook meat to make it safer to eat, melt snow into [Water](./Water%20%28Unsafe%29.md) and [sterilize](./Water%20%28Potable%29.md) it, make beverages, heat canned food/beverages, scare off predators and create [Torches](./Torch.md).
@@ -41,7 +36,7 @@ Campfires can be placed with the [Radial Menu](./Radial%20Menu.md) outdoors on t
 
 ## Windblown
 
-![old campfire](../assets/The_Long_Dark_-_Campfire.jpg)*old campfire* Campfires can be used like all other fires, but unlike contained fires, they are vulnerable to high winds. The Wind Shield icon can be useful for locating an area that is not currently being blown by wind.
+![old campfire](../assets/The_Long_Dark_-_Campfire.jpg)_old campfire_ Campfires can be used like all other fires, but unlike contained fires, they are vulnerable to high winds. The Wind Shield icon can be useful for locating an area that is not currently being blown by wind.
 
 An indicator that a fire is about to blow out is its smoke will be blowing away sideways instead of rising up.
 
@@ -77,10 +72,16 @@ Campfires which run out of fuel will persist as a burnt out campfire, from which
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Campfire seen burning in the distance](../assets/Distantfire.png) / *Campfire seen burning in the distance* | ![A campfire in a cave](../assets/Ventilation.png) / *A campfire in a cave* | ![Multiple fires for cooking](../assets/Cookingfire.png) / *Multiple fires for cooking* |
+![Campfire seen burning in the distance](../assets/Distantfire.png)
 
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**
+_Campfire seen burning in the distance_
+
+![A campfire in a cave](../assets/Ventilation.png)
+
+_A campfire in a cave_
+
+![Multiple fires for cooking](../assets/Cookingfire.png)
+
+_Multiple fires for cooking_
 
 [ru:Костёр](ru:%D0%9A%D0%BE%D1%81%D1%82%D1%91%D1%80)

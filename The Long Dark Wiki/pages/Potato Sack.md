@@ -1,22 +1,17 @@
----
-title: "Potato Sack"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Potato_Sack"
----
-
 # Potato Sack
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Potato_Sack)
 
 **Potato Sack**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/PotatoSack.jpg) / *PotatoSack.jpg* |
+|  | ![](../assets/PotatoSack.jpg) / _PotatoSack.jpg_ |
 | Story item | No |
 | **Container** |  |
 | Capacity | 2.00 kg(4.4 lbs) |
 
-A **Potato Sack** is an interactable storage container in *The Long Dark*.
+A **Potato Sack** is an interactable storage container in _The Long Dark_.
 
 ## Overview
 
@@ -31,5 +26,3 @@ They are often found in many homes and typically yield 5 [Potatoes](./Potato.md)
 - [Blackrock Prison](./Blackrock%20Prison.md) staff quarters
 - [Hangar Basement](./Hangar%20Basement.md)
 - Outside [Last Lonely House](./Last%20Lonely%20House.md)
-
-**Lua execution error in Module:Navbox function navbox**

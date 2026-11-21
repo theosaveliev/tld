@@ -1,25 +1,20 @@
----
-title: "Bricklayer's Retreat"
-wiki_namespace: 0
-categories: ["Blackrock", "Locations", "Locations in Blackrock", "Locations with a workbench", "Sheltered locations"]
-source: "https://thelongdark.fandom.com/wiki/Bricklayer's_Retreat"
----
-
 # Bricklayer's Retreat
+
+**Categories:** Blackrock, Locations, Locations in Blackrock, Locations with a workbench, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bricklayer's_Retreat)
 
 **Bricklayer's Retreat**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bricklayer%27s_Retreat.jpg) / *Bricklayer's\_Retreat.jpg* |
+|  | ![](../assets/Bricklayer%27s_Retreat.jpg) / _Bricklayer's\_Retreat.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Bricklayer%27s_Retreat_Location.png) / *Bricklayer's\_Retreat\_Location.png* |
+|  | ![](../assets/Bricklayer%27s_Retreat_Location.png) / _Bricklayer's\_Retreat\_Location.png_ |
 | Region |  |
 | Location | Easternmost of the Blackrock Region, near a frozen lake. |
 | **General** |  |
 | Firebox |  |
-| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
-| ![](../assets/Workbench_icon_green.png) / *workbench\_icon\_green.png* | Has a workbench\|- |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
+| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ | Has a workbench\|- |
 | Missions | [Blackrock Rumours](./Blackrock%20Rumours.md) |
 
 **Bricklayer's Retreat** is a cabin located to the east of a pond, near the southeastern limit of [Blackrock](./Blackrock.md).
@@ -32,8 +27,6 @@ A [Moose](./Moose.md) wanders around the small frozen pond in front of the cabin
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![](../assets/Screen_29dab73f-c28d-4d00-97a1-5541cbcfe3db_hi.png) / *Screen\_29dab73f-c28d-4d00-97a1-5541cbcfe3db\_hi.png* |
+![](../assets/Screen_29dab73f-c28d-4d00-97a1-5541cbcfe3db_hi.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Убежище каменщика](ru:%D0%A3%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5_%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%89%D0%B8%D0%BA%D0%B0)
+_Screen\_29dab73f-c28d-4d00-97a1-5541cbcfe3db\_hi.png_

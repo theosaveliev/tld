@@ -1,11 +1,6 @@
----
-title: "Rope Climbing"
-wiki_namespace: 0
-categories: ["Gameplay", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Rope_Climbing"
----
-
 # Rope Climbing
+
+**Categories:** Gameplay, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rope_Climbing)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Rope_Climbing"
 - [Game history](#game-history)
 - [References](#references)
 
-**Rope Climbing** is a gameplay feature in *[The Long Dark](./The%20Long%20Dark.md)*. ![Rope over cliff. old version](../assets/Rope_way.png)*Rope over cliff. old version*
+**Rope Climbing** is a gameplay feature in _[The Long Dark](./The%20Long%20Dark.md)_. ![Rope over cliff. old version](../assets/Rope_way.png)_Rope over cliff. old version_
 
 ## Overview
 
@@ -28,7 +23,7 @@ Rope climbing allows players to navigate up or down steep cliffs by utilizing a 
 
 ## Climbing
 
-![A climbing spot and sign in lower Milton Park near Milton.](../assets/Climbing_sign.jpg)*A climbing spot and sign in lower Milton Park near Milton.* Climbing is the most strenuous activity in-game, draining [Fatigue](./Fatigue.md) and [Stamina](./Stamina.md) rapidly. When stamina reaches zero, the climbing rate slows significantly and there is a chance to slip and fall from the rope.
+![A climbing spot and sign in lower Milton Park near Milton.](../assets/Climbing_sign.jpg)_A climbing spot and sign in lower Milton Park near Milton._ Climbing is the most strenuous activity in-game, draining [Fatigue](./Fatigue.md) and [Stamina](./Stamina.md) rapidly. When stamina reaches zero, the climbing rate slows significantly and there is a chance to slip and fall from the rope.
 
 How fast one climbs is significantly impacted by current Fatigue level, carried weight, and Stamina. The cost of climbing a rope increases exponentially as Fatigue drops, since climbing speed is directly tied to Fatigue level and stamina. Having the Fatigue need satiated, full Stamina, and low weight will make for an easy, quick climb; the player will burn less calories and lose less Fatigue. Low fatigue, reduced stamina, and high weight will slow the rate of climbing. Since the rate of calorie and Fatigue burn is the same anytime a rope is climbed, the player will burn more Calories and Fatigue. It is very possible, especially on longer climbs, to run out of Stamina or Fatigue mid-climb if starting with a partially-empty Fatigue or Stamina meter.
 
@@ -36,7 +31,7 @@ Once Stamina and/or Fatigue reach zero, the player will become so slow that it m
 
 Climbing is not possible if the player is encumbered, or has any [Sprained Wrists](./Sprained%20Wrist.md), [Sprained Ankles](./Sprained%20Ankle.md), or [Broken Ribs](./Broken%20Ribs.md). This means it is possible to become stranded at locations which require climbing to access (such as the bottom of [Hushed River Valley](./Hushed%20River%20Valley.md) or the summit of [Timberwolf Mountain](./Timberwolf%20Mountain.md)). Bandages can be life-saving to treat sprains in these circumstances, but Broken Ribs require [Painkillers](./Painkillers.md) or [Rose Hip Tea](./Rose%20Hip%20Tea.md) along with several days of rest.
 
-If all options are exhausted, an [Emergency Stim](./Emergency%20Stim.md) can be used to ignore these injuries for a very short period, and provide the opportunity to climb to safety. However, not only are stims incredibly rare, they will also completely exhaust the player once their duration expires. Stims will *not allow climbing while encumbered*, and any extra weight should be dumped before using a stim.
+If all options are exhausted, an [Emergency Stim](./Emergency%20Stim.md) can be used to ignore these injuries for a very short period, and provide the opportunity to climb to safety. However, not only are stims incredibly rare, they will also completely exhaust the player once their duration expires. Stims will _not allow climbing while encumbered_, and any extra weight should be dumped before using a stim.
 
 ### Action
 
@@ -65,7 +60,7 @@ Descending takes far less stamina and is less impacted by fatigue. However, slip
 
 ## Deploying ropes
 
-![Rope tied off. old version](../assets/Rope_tie-off.png)*Rope tied off. old version* Mountaineering ropes can only be attached to or detached from a specific rock formation at the top of a sheer cliff (see image for example of formation; looks like a sharp tooth about 3 meters high). To deploy a rope from inventory, simply select the middle of the rock when close. To detach and take a rope, select the rope where it wraps around the rock. Rope will automatically be placed in inventory. Attaching/detaching a rope takes about 10 minutes.
+![Rope tied off. old version](../assets/Rope_tie-off.png)_Rope tied off. old version_ Mountaineering ropes can only be attached to or detached from a specific rock formation at the top of a sheer cliff (see image for example of formation; looks like a sharp tooth about 3 meters high). To deploy a rope from inventory, simply select the middle of the rock when close. To detach and take a rope, select the rope where it wraps around the rock. Rope will automatically be placed in inventory. Attaching/detaching a rope takes about 10 minutes.
 
 ## Tips
 
@@ -88,5 +83,3 @@ Rope Climbing was introduced on 16 December 2015 in [version 0.298](./The%20Long
 ## References
 
 &lt;div class="references-small" ;"&gt;
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,17 +1,12 @@
----
-title: "Jeremiah's Papers"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Papers"
----
-
 # Jeremiah's Papers
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Papers)
 
 **Jeremiah's Papers**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Jeremiah%27s_Papers_icon.png) / *Jeremiah's\_Papers\_icon.png* |
+|  | ![](../assets/Jeremiah%27s_Papers_icon.png) / _Jeremiah's\_Papers\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Jeremiah's Hideout](./Jeremiah%27s%20Hideout.md) |
 | **Properties** |  |
@@ -46,5 +41,3 @@ The papers could later be burned, as per Jeremiah's request.
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from the game as part of the Redux edition.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**

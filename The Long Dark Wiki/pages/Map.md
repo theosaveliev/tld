@@ -1,11 +1,6 @@
----
-title: "Map"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Map"
----
-
 # Map
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Map)
 
 **Contents**
 
@@ -20,9 +15,9 @@ source: "https://thelongdark.fandom.com/wiki/Map"
 
 ![Updated map, including Blackrock.](../assets/World_Map_Overview.png)
 
-*Updated map, including Blackrock.*
+_Updated map, including Blackrock._
 
-*For Individual maps, see [Region](./Region.md).*
+_For Individual maps, see [Region](./Region.md)._
 
 The **Map** is a [Survival Menu](./Survival%20Menu.md) menu showing a region of [Great Bear Island](./Great%20Bear%20Island.md). On the world map, the player can view major geographic markers, as well as regions' relative locations to one another. Each regional map shows more detailed geographic features, as well as informational icons for specific locations and buildings.
 
@@ -36,7 +31,7 @@ In [Survival Mode](./Survival%20Mode.md), the map starts out blank for each regi
 
 ### Surveying
 
-![The navigation radial options](../assets/Mapping_radial2.jpg)*The navigation radial options* Selecting Charcoal will equip it, and after this, left-clicking will survey the surrounding area. The area mapped after surveying is based on the player's current altitude (i.e. surveying from higher altitudes increases how much of the map is revealed). However, if the player is adjacent to a cliff, the area mapped will stop at the cliff face. This is true both if the player is surveying from the top of the cliff, or the bottom. Although the map does not label the position of the player, surveying an area will put the player's position in the center of the circle added to the map, from which it can be easily determined where the player is located. ![A partially explored map](../assets/Map_mechanic3.jpg)*A partially explored map* Surveying can only be done outdoors during the daytime while the [Weather](./Weather.md) is clear. "Daytime" can extend further into dusk than is immediately intuitive (until the sun has entirely set on the HUD's time indicator). Surveying can only be done at night during a full moon or [Aurora](./Aurora.md).
+![The navigation radial options](../assets/Mapping_radial2.jpg)_The navigation radial options_ Selecting Charcoal will equip it, and after this, left-clicking will survey the surrounding area. The area mapped after surveying is based on the player's current altitude (i.e. surveying from higher altitudes increases how much of the map is revealed). However, if the player is adjacent to a cliff, the area mapped will stop at the cliff face. This is true both if the player is surveying from the top of the cliff, or the bottom. Although the map does not label the position of the player, surveying an area will put the player's position in the center of the circle added to the map, from which it can be easily determined where the player is located. ![A partially explored map](../assets/Map_mechanic3.jpg)_A partially explored map_ Surveying can only be done outdoors during the daytime while the [Weather](./Weather.md) is clear. "Daytime" can extend further into dusk than is immediately intuitive (until the sun has entirely set on the HUD's time indicator). Surveying can only be done at night during a full moon or [Aurora](./Aurora.md).
 
 The player's altitude affects the amount of area revealed when surveying. It is most efficient to survey from the top of rope climbs, hills, and other high points in the region whenever possible.
 
@@ -58,7 +53,7 @@ There are currently 215 locations that can be surveyed on Great Bear Island.
 
 The map will display most important buildings with unique icons and also include the title of named locations. The map can be filtered to display or remove the following icons:
 
-- *Resources*
+- _Resources_
   - [Rose Hip](./Rose%20Hip.md) Bushes, [Reishi Mushrooms](./Reishi%20Mushroom.md), [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md), [Cat Tails](./Cat%20Tail.md)
   - [Fir](./Fir%20Limb.md) and [Cedar](./Cedar%20Limb.md) limbs
   - Rabbit Groves and Ptarmigan Nests
@@ -66,7 +61,7 @@ The map will display most important buildings with unique icons and also include
   - Metal containers, plastic containers, backpacks, supply caches, [Cargo Containers](./Cargo%20Container.md), and [Supply Caches](./Supply%20Cache.md)
   - [Mementos](./Mementos.md) caches and hints
 
-- *Structures*
+- _Structures_
   - Any important named location icon
   - Connections to other [Regions](./Region.md)
   - [Signal Void](./Signal%20Void.md) bunkers and [Prepper Caches](./Prepper%20Cache.md)
@@ -77,13 +72,13 @@ The map will display most important buildings with unique icons and also include
   - [Fishing Huts](./Fishing%20Hut.md)
   - [Hunter's Blinds](./Hunter%27s%20Blinds.md)
 
-- *Carcasses*
+- _Carcasses_
   - [Frozen Corpses](./Frozen%20Corpse.md)
   - [Deer](./Deer.md#Carcass), [Cougar](./Cougar.md), [Ptarmigan](./Ptarmigan.md), [Rabbit](./Rabbit.md), [Wolf](./Wolf.md), [Timberwolf](./Timberwolf.md), [Poisoned Wolf](./Poisoned%20Wolf.md), [Moose](./Moose.md), and [Bear](./Bear.md) Carcasses
 
-- [*Rock Caches*](./Rock%20Cache.md)
+- [_Rock Caches_](./Rock%20Cache.md)
 
-- *[Spray Paint](./Spray%20Paint.md) markers*
+- _[Spray Paint](./Spray%20Paint.md) markers_
 
 Notes:
 

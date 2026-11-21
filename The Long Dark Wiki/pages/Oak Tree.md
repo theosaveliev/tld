@@ -1,11 +1,6 @@
----
-title: "Oak Tree"
-wiki_namespace: 0
-categories: ["Interactable objects", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Oak_Tree"
----
-
 # Oak Tree
+
+**Categories:** Interactable objects, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Oak_Tree)
 
 **Contents**
 
@@ -24,13 +19,13 @@ source: "https://thelongdark.fandom.com/wiki/Oak_Tree"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Oak_tree_in_Mystery_Lake_on_a_foggy_day.png) / *Oak\_tree\_in\_Mystery\_Lake\_on\_a\_foggy\_day.png* |
+|  | ![](../assets/Oak_tree_in_Mystery_Lake_on_a_foggy_day.png) / _Oak\_tree\_in\_Mystery\_Lake\_on\_a\_foggy\_day.png_ |
 | Release | 2.10 |
 | Story item | No |
 | **Advanced data** |  |
 | Object key | GAMEPLAY\_FileCabinet |
 
-**Oak Trees** are stationary environmental objects in [*The Long Dark*](./The%20Long%20Dark.md). They serve as the primary source of [Acorns](./Acorns.md) for the player, which can be identified as brownish speckled patches near the base of each tree. Each oak tree will always contain at least 1 or 3 acorn patches for the player to harvest, with some having been already uncovered before the player arrives. Once uncovered, acorns do not respawn.
+**Oak Trees** are stationary environmental objects in [_The Long Dark_](./The%20Long%20Dark.md). They serve as the primary source of [Acorns](./Acorns.md) for the player, which can be identified as brownish speckled patches near the base of each tree. Each oak tree will always contain at least 1 or 3 acorn patches for the player to harvest, with some having been already uncovered before the player arrives. Once uncovered, acorns do not respawn.
 
 ## Locations
 
@@ -71,13 +66,15 @@ Oak Trees can be found in the Following locations.
 
 - Found only near the region connection to Transfer Pass
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Acorns can be found in the interactable areas at the base of oak trees.](../assets/Oak_tree_base_showing_acorn_sources.png) / *[Acorns](./Acorns.md) can be found in the interactable areas at the base of oak trees.* | ![A line of oak trees in Transfer Pass](../assets/Oak_trees_Transfer_Pass.jpg) / *A line of oak trees in Transfer Pass* |
+![Acorns can be found in the interactable areas at the base of oak trees.](../assets/Oak_tree_base_showing_acorn_sources.png)
+
+_[Acorns](./Acorns.md) can be found in the interactable areas at the base of oak trees._
+
+![A line of oak trees in Transfer Pass](../assets/Oak_trees_Transfer_Pass.jpg)
+
+_A line of oak trees in Transfer Pass_
 
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

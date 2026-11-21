@@ -1,10 +1,6 @@
----
-title: "Plane Crashes"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Plane_Crashes"
----
-
 # Plane Crashes
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Plane_Crashes)
 
 **Contents**
 
@@ -43,7 +39,30 @@ Crash sites offer decent loot. A frozen corpse or backpack can often be found in
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Muskeg Overlook Helicopter](../assets/Muskeg_Overlook_Helicopter.png) / *Muskeg Overlook Helicopter* | ![Lonely cave crashed plane](../assets/Crashed_Plane_Hushed_River_Valley.jpg) / *Lonely cave crashed plane* | ![Forestry Lookout crashed plane](../assets/Crashed_Plane_Mystery_Lake.jpg) / *Forestry Lookout crashed plane* | ![Coastal House crashed plane](../assets/Airplane_Crash_Coastal_Highway.jpg) / *Coastal House crashed plane* |
-| ![Fallow Dugout Helicopter](../assets/Fallow_Dugout_crash.png) / *Fallow Dugout Helicopter* | ![Shoulder Lake Airplane](../assets/Shoulder_Lake_Airplane.png) / *Shoulder Lake Airplane* | ![Old Corral Helicopter](../assets/Old_corral_crash.png) / *Old Corral Helicopter* |  |
+![Muskeg Overlook Helicopter](../assets/Muskeg_Overlook_Helicopter.png)
+
+_Muskeg Overlook Helicopter_
+
+![Lonely cave crashed plane](../assets/Crashed_Plane_Hushed_River_Valley.jpg)
+
+_Lonely cave crashed plane_
+
+![Forestry Lookout crashed plane](../assets/Crashed_Plane_Mystery_Lake.jpg)
+
+_Forestry Lookout crashed plane_
+
+![Coastal House crashed plane](../assets/Airplane_Crash_Coastal_Highway.jpg)
+
+_Coastal House crashed plane_
+
+![Fallow Dugout Helicopter](../assets/Fallow_Dugout_crash.png)
+
+_Fallow Dugout Helicopter_
+
+![Shoulder Lake Airplane](../assets/Shoulder_Lake_Airplane.png)
+
+_Shoulder Lake Airplane_
+
+![Old Corral Helicopter](../assets/Old_corral_crash.png)
+
+_Old Corral Helicopter_

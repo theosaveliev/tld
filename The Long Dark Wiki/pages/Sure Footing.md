@@ -1,17 +1,12 @@
----
-title: "Sure Footing"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Sure_Footing"
----
-
 # Sure Footing
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sure_Footing)
 
 **Sure Footing**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Sure_Footing_icon.png) / *Sure\_Footing\_icon.png* |
+|  | ![](../assets/Sure_Footing_icon.png) / _Sure\_Footing\_icon.png_ |
 | Release | [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89) |
 | Update | 1.89 |
 | **Properties** |  |
@@ -24,7 +19,7 @@ source: "https://thelongdark.fandom.com/wiki/Sure_Footing"
 | **Advanced Data** |  |
 | Item Key | GAMEPLAY\_CramponsBenefit |
 
-> “**The Crampons' steel spikes give you better traction in icy terrain. They make rope climbing easier, Sprains less frequent, and Weak Ice more forgiving.**”
+> “__The Crampons' steel spikes give you better traction in icy terrain. They make rope climbing easier, Sprains less frequent, and Weak Ice more forgiving.__”
 >
 > — In-game Description
 
@@ -58,5 +53,3 @@ This affliction causes the following effects:
   - \[General\] Equipping an item in the left accessory slot, while the Crampons are equipped will no longer remove the Sure Footing buff.
 - UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox**

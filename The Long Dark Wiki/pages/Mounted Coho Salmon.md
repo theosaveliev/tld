@@ -1,17 +1,12 @@
----
-title: "Mounted Coho Salmon"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Mounted_Coho_Salmon"
----
-
 # Mounted Coho Salmon
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mounted_Coho_Salmon)
 
 **Mounted Coho Salmon**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mounted_Coho_Salmon_icon.png) / *Mounted\_Coho\_Salmon\_icon.png* |
+|  | ![](../assets/Mounted_Coho_Salmon_icon.png) / _Mounted\_Coho\_Salmon\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 0.50 kg (1.1 lbs) |
@@ -47,5 +42,3 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 |  | 1 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**

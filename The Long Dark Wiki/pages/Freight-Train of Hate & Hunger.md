@@ -1,11 +1,6 @@
----
-title: "Freight-Train of Hate & Hunger"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Freight-Train_of_Hate_%26_Hunger"
----
-
 # Freight\-Train of Hate & Hunger
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Freight-Train_of_Hate_%26_Hunger)
 
 **Contents**
 
@@ -19,10 +14,10 @@ source: "https://thelongdark.fandom.com/wiki/Freight-Train_of_Hate_%26_Hunger"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png) / *Freight-Train\_of\_Hate\_&amp;\_Hunger\_icon.png* |
+|  | ![](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png) / _Freight-Train\_of\_Hate\_&amp;\_Hunger\_icon.png_ |
 | Description | Kill the Old Bear. |
 
-**Freight-Train of Hate &amp; Hunger** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Freight-Train of Hate &amp; Hunger** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -46,5 +41,3 @@ The achievement name is from a quote from [Jeremiah](./Jeremiah.md) during [Surv
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Changed the Bear Hunt mission to a scripted mission called "What One Man Can Do"
-
-**Lua execution error in Module:Navbox function navbox**

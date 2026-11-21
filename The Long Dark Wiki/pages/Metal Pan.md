@@ -1,17 +1,12 @@
----
-title: "Metal Pan"
-wiki_namespace: 0
-categories: ["Interactable Objects", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Metal_Pan"
----
-
 # Metal Pan
+
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Metal_Pan)
 
 **Metal Pan**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Metal_Pan.jpg) / *Metal\_Pan.jpg* |
+|  | ![](../assets/Metal_Pan.jpg) / _Metal\_Pan.jpg_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | Yes\|- |
@@ -23,8 +18,6 @@ A **Metal Pan** was an interactable object that could be harvested for [Scrap Me
 | --- | --- | --- | --- | --- |
 | Metal Pan | 1 | 15 minutes | 31 | -5% |
 
-| Column 1 |
-| --- |
-| ![A Metal Pan and Metal Pot together](../assets/PVPumpkin.jpg) / *A Metal Pan and Metal Pot together* |
+![A Metal Pan and Metal Pot together](../assets/PVPumpkin.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_A Metal Pan and Metal Pot together_

@@ -1,17 +1,12 @@
----
-title: "Security Chief's Log 29"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Security_Chief's_Log_29"
----
-
 # Security Chief's Log 29
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_29)
 
 **Security Chief's Log 29**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Security_Chief%27s_Log_29_icon.png) / *Security\_Chief's\_Log\_29\_icon.png* |
+|  | ![](../assets/Security_Chief%27s_Log_29_icon.png) / _Security\_Chief's\_Log\_29\_icon.png_ |
 | Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
 | Wintermute | No |
 | **Properties** |  |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Security_Chief's_Log_29"
 
 ## Transcript
 
-*The following text is transcribed from **Security Chief's Log 29***
+_The following text is transcribed from **Security Chief's Log 29**_
 
 **Whatever happened here, it’s not a virus, or any known pathogen. At least, that's what the doctor tells me. There are no visible injuries, only invisible ones.
 
@@ -49,7 +44,5 @@ He can keep it.**
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Запись №29 начальника охраны](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C_%E2%84%9629_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%8B)

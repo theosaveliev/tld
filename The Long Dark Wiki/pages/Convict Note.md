@@ -1,17 +1,12 @@
----
-title: "Convict Note"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Convict_Note"
----
-
 # Convict Note
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Convict_Note)
 
 **Convict Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Convict_Note_icon.png) / *Convict\_Note\_icon.png* |
+|  | ![](../assets/Convict_Note_icon.png) / _Convict\_Note\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Blackrock (mission)](./Blackrock%20%28mission%29.md) |
 | **Properties** |  |
@@ -28,11 +23,11 @@ source: "https://thelongdark.fandom.com/wiki/Convict_Note"
 
 **Convict Note** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Blackrock (mission)](./Blackrock%20%28mission%29.md) side mission.
 
-During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note *Convict Note* on the body of a dead prisoner between [Heartbreak Bridge](./Heartbreak%20Bridge.md) and [Forest Cave](./Forest%20Cave%20%28Pleasant%20Valley%20location%29.md).
+During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Convict Note_ on the body of a dead prisoner between [Heartbreak Bridge](./Heartbreak%20Bridge.md) and [Forest Cave](./Forest%20Cave%20%28Pleasant%20Valley%20location%29.md).
 
 ## Transcript
 
-*The following text is transcribed from **Convict Note***
+_The following text is transcribed from **Convict Note**_
 
 **Something out there huntin us. Didn't see em comin. Thought we lost the hacks down low by the road. Eyes open fellas or we'll never get outta here.**
 
@@ -40,5 +35,3 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

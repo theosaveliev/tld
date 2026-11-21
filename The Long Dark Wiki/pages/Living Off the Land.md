@@ -1,20 +1,15 @@
----
-title: "Living Off the Land"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Living_Off_the_Land"
----
-
 # Living Off the Land
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Living_Off_the_Land)
 
 **Living Off the Land**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Living_Off_the_Land_icon.png) / *Living\_Off\_the\_Land\_icon.png* |
+|  | ![](../assets/Living_Off_the_Land_icon.png) / _Living\_Off\_the\_Land\_icon.png_ |
 | Description | Survived 25 consecutive full days only consuming calories harvested from wild plants and animals (single game) |
 
-**Living Off the Land** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Living Off the Land** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -38,8 +33,6 @@ In addition, consuming [Antibiotics](./Antibiotics.md) or [Painkillers](./Painki
 
 - UPDATE **1 April 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**== References ==
 
 &lt;div class="references-small" ;"&gt;
 

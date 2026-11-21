@@ -1,11 +1,6 @@
----
-title: "Scurvy Risk"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Scurvy_Risk"
----
-
 # Scurvy Risk
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Scurvy_Risk)
 
 **Contents**
 
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/Scurvy_Risk"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Scurvy_Risk_icon.png) / *Scurvy\_Risk\_icon.png* |
+|  | ![](../assets/Scurvy_Risk_icon.png) / _Scurvy\_Risk\_icon.png_ |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | Update | 2.25 |
 | **Properties** |  |
@@ -39,7 +34,7 @@ source: "https://thelongdark.fandom.com/wiki/Scurvy_Risk"
 | **Advanced Data** |  |
 | Item Key | GAMEPLAY\_Scurvy |
 
-**Scurvy Risk** is an [Affliction](./Afflictions.md) in *The Long Dark*. It is caused by consuming a diet with low/no Vitamin-C, and results in [Scurvy](./Scurvy.md) if left untreated.
+**Scurvy Risk** is an [Affliction](./Afflictions.md) in _The Long Dark_. It is caused by consuming a diet with low/no Vitamin-C, and results in [Scurvy](./Scurvy.md) if left untreated.
 
 ## Overview
 
@@ -53,8 +48,8 @@ Most Vitamin-C food sources are finite (artificial foods and cattails), which ca
 
 ## Enable Option
 
-![Scurvy Enable option warning](../assets/Scurvy_Warning.jpg)*Scurvy Enable option warning*{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Fail to eat a balanced diet and Scurvy will hound you relentlessly. While the onset is slow, the consequences can be disastrous to your health. The choice is yours.  
- Disable if you do not want to be pressured to find Vitamin-C rich foods.**
+![Scurvy Enable option warning](../assets/Scurvy_Warning.jpg)_Scurvy Enable option warning_{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Fail to eat a balanced diet and Scurvy will hound you relentlessly. While the onset is slow, the consequences can be disastrous to your health. The choice is yours.  
+ Disable if you do not want to be pressured to find Vitamin-C rich foods.__
 
 In-game description
 
@@ -82,7 +77,7 @@ Because Vitamin-C drains at a consistent rate, it is possible to estimate the su
 
 ## Affliction
 
-> “**You consumed a diet low in Vitamin-C for too long and now have Scurvy. If left untreated you will continue to weaken and lose condition until you succumb and die.**”
+> “__You consumed a diet low in Vitamin-C for too long and now have Scurvy. If left untreated you will continue to weaken and lose condition until you succumb and die.__”
 
 Scurvy manifests when Scurvy Risk reaches 100% (0 Vitamin-C), which causes constant slow Condition loss and multiple debilitating effects until treatment or death. Scurvy is cured immediately by consuming food containing Vitamin-C and fully emptying the recovery time bar (tracked at 500 units of Vitamin-C)
 
@@ -191,5 +186,3 @@ Note that fish are the only food where the higher their weight, the higher their
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25_%28Steam%29)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Mathis"
-wiki_namespace: 0
-categories: ["Characters"]
-source: "https://thelongdark.fandom.com/wiki/Mathis"
----
-
 # Mathis
+
+**Categories:** Characters · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mathis)
 
 **Contents**
 
@@ -34,7 +29,7 @@ source: "https://thelongdark.fandom.com/wiki/Mathis"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mathis.png) / *Mathis.png* |
+|  | ![](../assets/Mathis.png) / _Mathis.png_ |
 | Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00) |
 | Date | 1 August 2017 |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) / [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
@@ -52,13 +47,13 @@ source: "https://thelongdark.fandom.com/wiki/Mathis"
 | Equipment | [Hatchet](./Hatchet.md) |
 | Voiced by | [Elias Toufexis](Wikipedia:Elias_Toufexis) (Redux EP 2, 4) Gord Marriott (Predux EP 2) |
 
-**Template:quote2**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **A locked case? Well that is interesting. A locked metal case is a thing of the old world stranger. It's a world of closed doors and things being off limits. You see, I was part of that world, but that world is over.  
+**Template:quote2**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __A locked case? Well that is interesting. A locked metal case is a thing of the old world stranger. It's a world of closed doors and things being off limits. You see, I was part of that world, but that world is over.  
    
- This is my world, and in my world, I make the rules.**
+ This is my world, and in my world, I make the rules.__
 
 Mathis examining [Astrid's Hardcase](./Astrid%27s%20Hardcase.md)
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Mathis** is a major character in the [Wintermute](./Wintermute.md) story of [*The Long Dark*](./The%20Long%20Dark.md). Adding to the already unforgiving world of [Great Bear Island's](./Great%20Bear%20Island.md) weather and wildlife, Mathis is the central human antagonist that opposes [Will Mackenzie](./Will%20Mackenzie.md), [Astrid Greenwood](./Astrid%20Greenwood.md), and the other denizens of the Island.
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Mathis** is a major character in the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md). Adding to the already unforgiving world of [Great Bear Island's](./Great%20Bear%20Island.md) weather and wildlife, Mathis is the central human antagonist that opposes [Will Mackenzie](./Will%20Mackenzie.md), [Astrid Greenwood](./Astrid%20Greenwood.md), and the other denizens of the Island.
 
 ## Background
 
@@ -130,7 +125,7 @@ Mathis and his gang will return in Episode 5 to settle their score with Mackenzi
 ### Episode 4
 
 - "Hey uh, Mackenzie? You look like shit."
-- (*After hitting Mackenzie over the head*) "Looks like I finally found a use for your metal case. We have unfinished business, pilot. Stick around."
+- (_After hitting Mackenzie over the head_) "Looks like I finally found a use for your metal case. We have unfinished business, pilot. Stick around."
 - "MACKENZE!!!!! I am going to destroy everything you love."
 
 ## Trivia
@@ -147,22 +142,70 @@ Mathis and his gang will return in Episode 5 to settle their score with Mackenzi
 
 ### Predux Episode 2
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Mathis' face in Predux Episode 2](../assets/Mathis_face-on.jpg) / *Mathis' face in Predux Episode 2* | ![Ditto](../assets/Mathis_Predux_Interrogation_2.jpg) / *Ditto* | ![Mathis interrogation](../assets/Mathis_Predux_Interrogation.jpg) / *Mathis interrogation* | ![Mathis placing the Hardcase](../assets/Mathis_Placing_Hardcase.jpg) / *Mathis placing the Hardcase* |
-| ![Mathis about to punch Mackenzie](../assets/Mathis_Predux_Punch.jpg) / *Mathis about to punch Mackenzie* | ![Mathis about to knock out Mackenzie](../assets/Mathis_Hatchet_Predux.jpg) / *Mathis about to knock out Mackenzie* |  |  |
+![Mathis' face in Predux Episode 2](../assets/Mathis_face-on.jpg)
+
+_Mathis' face in Predux Episode 2_
+
+![Ditto](../assets/Mathis_Predux_Interrogation_2.jpg)
+
+_Ditto_
+
+![Mathis interrogation](../assets/Mathis_Predux_Interrogation.jpg)
+
+_Mathis interrogation_
+
+![Mathis placing the Hardcase](../assets/Mathis_Placing_Hardcase.jpg)
+
+_Mathis placing the Hardcase_
+
+![Mathis about to punch Mackenzie](../assets/Mathis_Predux_Punch.jpg)
+
+_Mathis about to punch Mackenzie_
+
+![Mathis about to knock out Mackenzie](../assets/Mathis_Hatchet_Predux.jpg)
+
+_Mathis about to knock out Mackenzie_
 
 ### Redux Episode 2
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Mathis in the Redux version of Episode 2](../assets/Mathis_EP2_Redux.jpg) / *Mathis in the Redux version of Episode 2* | ![Notice the toned down blood on Mathis' sleeves](../assets/Mathis_EP2_Redux_2.jpg) / *Notice the toned down blood on Mathis' sleeves* |
+![Mathis in the Redux version of Episode 2](../assets/Mathis_EP2_Redux.jpg)
+
+_Mathis in the Redux version of Episode 2_
+
+![Notice the toned down blood on Mathis' sleeves](../assets/Mathis_EP2_Redux_2.jpg)
+
+_Notice the toned down blood on Mathis' sleeves_
 
 ### Episode 4
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Mathis about to strike Mackenzie over the head with the Hardcase](../assets/Mathis_strike_hardcase.jpg) / *Mathis about to strike Mackenzie over the head with the Hardcase* | ![Mathis with the Detonators](../assets/Mathis_Detonators.jpg) / *Mathis with the Detonators* | ![One of many of Mathis' sinister grins](../assets/Mathis_snow.jpg) / *One of many of Mathis' sinister grins* | ![Mathis interrogating Mackenzie](../assets/Mathis_interogation.jpg) / *Mathis interrogating Mackenzie* |
-| ![Mathis, Heller, and Vachon attacked by Timberwolves](../assets/Mathis_Vachon_Heller_Timberwolf.jpg) / *Mathis, Heller, and Vachon attacked by Timberwolves* | !["I will destroy EVERYTHING you love!"](../assets/Mathis_destroy_everything_you_love.jpg) / *"I will destroy EVERYTHING you love!"* | ![Mathis getting in Mackenzie's face](../assets/Mathis_Mackenzie.jpg) / *Mathis getting in Mackenzie's face* | ![Mathis surrounded by Vachon and various other convicts](../assets/Mathis_and_his_Convicts.jpg) / *Mathis surrounded by Vachon and various other convicts* |
+![Mathis about to strike Mackenzie over the head with the Hardcase](../assets/Mathis_strike_hardcase.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [fr:Mathis](fr:Mathis) [ru:Мэтис](ru:%D0%9C%D1%8D%D1%82%D0%B8%D1%81)
+_Mathis about to strike Mackenzie over the head with the Hardcase_
+
+![Mathis with the Detonators](../assets/Mathis_Detonators.jpg)
+
+_Mathis with the Detonators_
+
+![One of many of Mathis' sinister grins](../assets/Mathis_snow.jpg)
+
+_One of many of Mathis' sinister grins_
+
+![Mathis interrogating Mackenzie](../assets/Mathis_interogation.jpg)
+
+_Mathis interrogating Mackenzie_
+
+![Mathis, Heller, and Vachon attacked by Timberwolves](../assets/Mathis_Vachon_Heller_Timberwolf.jpg)
+
+_Mathis, Heller, and Vachon attacked by Timberwolves_
+
+!["I will destroy EVERYTHING you love!"](../assets/Mathis_destroy_everything_you_love.jpg)
+
+_"I will destroy EVERYTHING you love!"_
+
+![Mathis getting in Mackenzie's face](../assets/Mathis_Mackenzie.jpg)
+
+_Mathis getting in Mackenzie's face_
+
+![Mathis surrounded by Vachon and various other convicts](../assets/Mathis_and_his_Convicts.jpg)
+
+_Mathis surrounded by Vachon and various other convicts_

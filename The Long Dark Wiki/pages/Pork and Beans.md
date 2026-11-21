@@ -1,11 +1,6 @@
----
-title: "Pork and Beans"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Pork_and_Beans"
----
-
 # Pork and Beans
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pork_and_Beans)
 
 **Contents**
 
@@ -18,8 +13,8 @@ source: "https://thelongdark.fandom.com/wiki/Pork_and_Beans"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Sealed](../assets/Pork_and_Beans_icon.png) / *Sealed* \| ![Opened](../assets/Pork_and_Beans_%28Opened%29_icon.png) / *Opened* \| / \| --- \| --- \| | 250px\]\] |
-| ![Sealed](../assets/Pork_and_Beans_icon.png) / *Sealed* | ![Opened](../assets/Pork_and_Beans_%28Opened%29_icon.png) / *Opened* |
+| \[\[File: / ![Sealed](../assets/Pork_and_Beans_icon.png) / _Sealed_ / ![Opened](../assets/Pork_and_Beans_%28Opened%29_icon.png) / _Opened_ | 250px\]\] |
+| ![Sealed](../assets/Pork_and_Beans_icon.png) / _Sealed_ | ![Opened](../assets/Pork_and_Beans_%28Opened%29_icon.png) / _Opened_ |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
 | Wintermute | No |
 | **Properties** |  |
@@ -37,7 +32,7 @@ source: "https://thelongdark.fandom.com/wiki/Pork_and_Beans"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_PorkandBeans |
 
-**Pork and Beans** is a packaged [food](./Food%20And%20Drink.md) item in *The Long Dark*.
+**Pork and Beans** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
 ## Overview
 
@@ -49,15 +44,15 @@ Pork and Beans is relatively common inside homes: usually in cupboards or on she
 
 ## Trivia
 
-- Pork and Beans is packaged as the product "*Musical Fruit Beans"*, referencing a popular rhyme about flatulence. The can also promotes "reduced sodium", which would likely be less than ideal in a post-apocalyptic setting.
+- Pork and Beans is packaged as the product "_Musical Fruit Beans"_, referencing a popular rhyme about flatulence. The can also promotes "reduced sodium", which would likely be less than ideal in a post-apocalyptic setting.
 - A single [Can](./Can.md) of Pork and Beans can be harvested for one [Recycled Can](./Recycled%20Can.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) in the [Misty Falls Cave](./Misty%20Falls%20Cave.md). 4 more cans would eventually be added to Survival Mode.
 - The ingredients on the back list: "Beans, Water, Sugar, Salt."
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Pork_and_beans.png) / *old model* |
+![old model](../assets/Pork_and_beans.png)
+
+_old model_
 
 ## Update history
 
@@ -66,5 +61,3 @@ Pork and Beans is relatively common inside homes: usually in cupboards or on she
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [fr:Porc et haricots](fr:Porc_et_haricots) [ru:Банка свинины с фасолью](ru:%D0%91%D0%B0%D0%BD%D0%BA%D0%B0_%D1%81%D0%B2%D0%B8%D0%BD%D0%B8%D0%BD%D1%8B_%D1%81_%D1%84%D0%B0%D1%81%D0%BE%D0%BB%D1%8C%D1%8E)

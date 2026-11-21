@@ -1,11 +1,6 @@
----
-title: "Prybar"
-wiki_namespace: 0
-categories: ["Story items", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Prybar"
----
-
 # Prybar
+
+**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Prybar)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Prybar"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Prybar_icon.png) / *Prybar\_icon.png* |
+|  | ![](../assets/Prybar_icon.png) / _Prybar\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | **Statistics** |  |
@@ -26,11 +21,11 @@ source: "https://thelongdark.fandom.com/wiki/Prybar"
 | Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) 30 minutes |
 | Repair | Cannot Repair |
 
-> “**A beat up prybar. Useful for opening locked containers.**”
+> “__A beat up prybar. Useful for opening locked containers.__”
 >
 > — In-game description
 
-**Prybar** is a tool in *The Long Dark* for opening some locked objects, breaking holes in the ice for fishing, and self-defense against wolves.
+**Prybar** is a tool in _The Long Dark_ for opening some locked objects, breaking holes in the ice for fishing, and self-defense against wolves.
 
 ## Overview
 
@@ -67,10 +62,8 @@ Prybar are most commonly found in industrial locations, [fishing huts](./Fishing
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Prybar.png) / *Old model.* |
+![Old model.](../assets/Prybar.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Old model._
 
 [ru:Гвоздодёр](ru:%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%BE%D0%B4%D1%91%D1%80)

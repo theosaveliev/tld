@@ -1,10 +1,6 @@
----
-title: "Journal"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Journal"
----
-
 # Journal
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Journal)
 
 **Contents**
 

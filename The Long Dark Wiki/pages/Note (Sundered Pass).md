@@ -1,17 +1,12 @@
----
-title: "Note (Sundered Pass)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Note_(Sundered_Pass)"
----
-
 # Note \(Sundered Pass\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Note_%28Sundered_Pass%29)
 
 **Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Note_%28Sundered_Pass%29_icon.png) / *Note\_(Sundered\_Pass)\_icon.png* |
+|  | ![](../assets/Note_%28Sundered_Pass%29_icon.png) / _Note\_(Sundered\_Pass)\_icon.png_ |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Wintermute | No |
 | **Properties** |  |
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Note_(Sundered_Pass)"
 
 ## Transcript
 
-*The following text is transcribed from **Note***
+_The following text is transcribed from **Note**_
 
 **Dear Steven,
 
@@ -47,7 +42,5 @@ See you soon, - D**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Записка (Последнее убежище)](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%28%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B5%D0%B5_%D1%83%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5%29)

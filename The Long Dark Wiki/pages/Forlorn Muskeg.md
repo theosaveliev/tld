@@ -1,11 +1,6 @@
----
-title: "Forlorn Muskeg"
-wiki_namespace: 0
-categories: ["Regions"]
-source: "https://thelongdark.fandom.com/wiki/Forlorn_Muskeg"
----
-
 # Forlorn Muskeg
+
+**Categories:** Regions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forlorn_Muskeg)
 
 **Contents**
 
@@ -20,10 +15,10 @@ source: "https://thelongdark.fandom.com/wiki/Forlorn_Muskeg"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Forlorn_Muskeg_Thumbnail.png) / *Forlorn\_Muskeg\_Thumbnail.png* |
+|  | ![](../assets/Forlorn_Muskeg_Thumbnail.png) / _Forlorn\_Muskeg\_Thumbnail.png_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Forlorn_Muskeg_Location.png) / *Forlorn\_Muskeg\_Location.png* |
-|  | ![](../assets/Forlorn_Muskeg_map.png) / *Forlorn\_Muskeg\_map.png* |
+|  | ![](../assets/Forlorn_Muskeg_Location.png) / _Forlorn\_Muskeg\_Location.png_ |
+|  | ![](../assets/Forlorn_Muskeg_map.png) / _Forlorn\_Muskeg\_map.png_ |
 | **Details** |  |
 | Description | A frigid marshland bisected by the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md). |
 | Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Broken Railroad](./Broken%20Railroad.md), / [Bleak Inlet](./Bleak%20Inlet.md), / [Mountain Town](./Mountain%20Town.md) |
@@ -33,11 +28,11 @@ source: "https://thelongdark.fandom.com/wiki/Forlorn_Muskeg"
 | Hazards and Survivability | [Wolves](./Wolf.md) and [Bears](./Bear.md) are found throughout the region, but fog and [Weak Ice](./Weak%20Ice.md) can prove far more deadly. There are very few manmade structures to shelter in. |
 | Date Added | Dec 2016 |
 
-> “**For advanced players. A frigid open marshland bisected by a railway line. Weak ice and constant winds make this area highly dangerous.**”
+> “__For advanced players. A frigid open marshland bisected by a railway line. Weak ice and constant winds make this area highly dangerous.__”
 >
 > — - In-game description
 
-**Forlorn Muskeg** is the 6th [Region](./Region.md) to be added to [*The Long Dark*](./The%20Long%20Dark.md). As an advanced region, it is a possible spawn location in Interloper difficulty.
+**Forlorn Muskeg** is the 6th [Region](./Region.md) to be added to [_The Long Dark_](./The%20Long%20Dark.md). As an advanced region, it is a possible spawn location in Interloper difficulty.
 
 ## Description
 
@@ -69,15 +64,32 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) located near Old Spence Fa
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![A south-facing panorama of Forlorn Muskeg, taken from beside the Shortwave Tower.](../assets/Forlorn-muskeg-view-from-shortwave-tower.jpg) / *A south-facing panorama of Forlorn Muskeg, taken from beside the [Shortwave Tower](./Shortwave%20Tower.md).* | ![The Archivist episode trigger.](../assets/20190113203759_1.jpg) / *The Archivist episode trigger.* |
+![A south-facing panorama of Forlorn Muskeg, taken from beside the Shortwave Tower.](../assets/Forlorn-muskeg-view-from-shortwave-tower.jpg)
+
+_A south-facing panorama of Forlorn Muskeg, taken from beside the [Shortwave Tower](./Shortwave%20Tower.md)._
+
+![The Archivist episode trigger.](../assets/20190113203759_1.jpg)
+
+_The Archivist episode trigger._
 
 ## Maps
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A detailed map of Forlorn Muskeg v2.35 (spoilers)](../assets/FM_map.png) / *A detailed map of Forlorn Muskeg v2.35 (spoilers)* | ![A detailed map of Forlorn Muskeg v2.35 (Interloper/Misery edition, spoilers)](../assets/FM_map_Loper.png) / *A detailed map of Forlorn Muskeg v2.35 (Interloper/Misery edition, spoilers)* | ![](../assets/Forlorn_muskeg_titlecard_new.png) / *Forlorn\_muskeg\_titlecard\_new.png* | ![Topographic map v1.67](../assets/Map-FM-spoil-Fixv167.png) / *Topographic map v1.67* |
-| ![Map v1.93](../assets/Map-FM-spoil-v193-141%288bit%29.png) / *Map v1.93* |  |  |  |
+![A detailed map of Forlorn Muskeg v2.35 (spoilers)](../assets/FM_map.png)
 
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Одинокая топь](ru:%D0%9E%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA%D0%B0%D1%8F_%D1%82%D0%BE%D0%BF%D1%8C) [es:Ciénaga desolada](es:Ci%C3%A9naga_desolada) [fr:Muskeg Morne](fr:Muskeg_Morne)
+_A detailed map of Forlorn Muskeg v2.35 (spoilers)_
+
+![A detailed map of Forlorn Muskeg v2.35 (Interloper/Misery edition, spoilers)](../assets/FM_map_Loper.png)
+
+_A detailed map of Forlorn Muskeg v2.35 (Interloper/Misery edition, spoilers)_
+
+![](../assets/Forlorn_muskeg_titlecard_new.png)
+
+_Forlorn\_muskeg\_titlecard\_new.png_
+
+![Topographic map v1.67](../assets/Map-FM-spoil-Fixv167.png)
+
+_Topographic map v1.67_
+
+![Map v1.93](../assets/Map-FM-spoil-v193-141%288bit%29.png)
+
+_Map v1.93_

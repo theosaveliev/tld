@@ -1,17 +1,12 @@
----
-title: "Faded Notebook Paper"
-wiki_namespace: 0
-categories: ["Collectibles"]
-source: "https://thelongdark.fandom.com/wiki/Faded_Notebook_Paper"
----
-
 # Faded Notebook Paper
+
+**Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Faded_Notebook_Paper)
 
 **Faded Notebook Paper**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Faded_Notebook_Paper_icon.png) / *Faded\_Notebook\_Paper\_icon.png* |
+|  | ![](../assets/Faded_Notebook_Paper_icon.png) / _Faded\_Notebook\_Paper\_icon.png_ |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
 | Stackable | No |
@@ -26,7 +21,7 @@ source: "https://thelongdark.fandom.com/wiki/Faded_Notebook_Paper"
 
 ## Transcript
 
-*The following text is transcribed from **Faded Notebook Paper***
+_The following text is transcribed from **Faded Notebook Paper**_
 
 **All I see are wolves. Not sure what happened.
 
@@ -35,5 +30,3 @@ I don't like it, but if this keeps up I'll do what I gotta do, like always.
 Wolves do the same, anyways. Got to keep movin'. Can't get backed into a corner again.**
 
 ## Update history
-
-**Lua execution error in Module:Navbox function navbox**

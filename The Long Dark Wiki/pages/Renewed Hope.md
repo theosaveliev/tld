@@ -1,17 +1,12 @@
----
-title: "Renewed Hope"
-wiki_namespace: 0
-categories: ["Episode 2"]
-source: "https://thelongdark.fandom.com/wiki/Renewed_Hope"
----
-
 # Renewed Hope
+
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Renewed_Hope)
 
 **Renewed Hope**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Missions_story_ep2_Renewed_Hope.png) / *Missions\_story\_ep2\_Renewed\_Hope.png* |
+|  | ![](../assets/Missions_story_ep2_Renewed_Hope.png) / _Missions\_story\_ep2\_Renewed\_Hope.png_ |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
 | Previous | [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) |
 | Current | Renewed Hope |
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Renewed_Hope"
 
 **Template:spoiler**
 
-> “**With the Old Bear no longer a risk, Jeremiah plots a course leading Mackenzie out of Mystery Lake with the means to contact Perseverance Mills, and one step closer to finding Astrid.**”
+> “__With the Old Bear no longer a risk, Jeremiah plots a course leading Mackenzie out of Mystery Lake with the means to contact Perseverance Mills, and one step closer to finding Astrid.__”
 >
 > — In-game description
 
@@ -34,5 +29,3 @@ source: "https://thelongdark.fandom.com/wiki/Renewed_Hope"
 - Find your way through Carter Hydro Dam.
   - Access the control room using Jeremiah's code.
 - Explore the guts of the dam.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**

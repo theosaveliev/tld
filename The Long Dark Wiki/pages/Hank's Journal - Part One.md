@@ -1,17 +1,12 @@
----
-title: "Hank's Journal - Part One"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Hank's_Journal_-_Part_One"
----
-
 # Hank's Journal \- Part One
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hank's_Journal_-_Part_One)
 
 **Hank's Journal - Part One**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hank%27s_Journal_-_Part_One_icon.png) / *Hank's\_Journal\_-\_Part\_One\_icon.png* |
+|  | ![](../assets/Hank%27s_Journal_-_Part_One_icon.png) / _Hank's\_Journal\_-\_Part\_One\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Hank's Hatch](./Hank%27s%20Hatch.md) |
 | **Properties** |  |
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Hank's_Journal_-_Part_One"
 
 ## Transcript
 
-*The following text is transcribed from **Hank's Journal - Part One***
+_The following text is transcribed from **Hank's Journal - Part One**_
 
 **I've spent a lot of years in this damn lookout tower, watching the forest around Mystery Lake, and it's given me nothing but time to think about my life and the world around me and what I hear is happening. Sitting in a tower like this for days, weeks, months on end is enough to drive anyone crazy. Even if I didn't have anyone to talk to on the radio -- and just let me say I wish that chatty lady would shut up once in a while. I mean, I came out here to be alone, to be away from other people. It's almost enough to make you wish all the radios, all the satellite phones and internet and stuff...would just...disappear.
 
@@ -40,5 +35,3 @@ Anyway, I've been putting aside some supplies every season, leftovers or whateve
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Square Table"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Square_Table"
----
-
 # Square Table
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Square_Table)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Square_Table"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Square_Table_icon.png) / *Square\_Table\_icon.png* |
+|  | ![](../assets/Square_Table_icon.png) / _Square\_Table\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 5.00 kg (11 lbs) |
@@ -57,5 +52,3 @@ The Square Table can be harvested with a [Hatchet](./Hatchet.md) in 1 hour 30 mi
 | Quantity | 8 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Квадратный стол](ru:%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%BE%D0%BB)

@@ -1,17 +1,12 @@
----
-title: "Naturalist Notebook 2"
-wiki_namespace: 0
-categories: ["Collectibles"]
-source: "https://thelongdark.fandom.com/wiki/Naturalist_Notebook_2"
----
-
 # Naturalist Notebook 2
+
+**Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Naturalist_Notebook_2)
 
 **Naturalist Notebook 2**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Naturalist_Notebook_2_icon.png) / *Naturalist\_Notebook\_2\_icon.png* |
+|  | ![](../assets/Naturalist_Notebook_2_icon.png) / _Naturalist\_Notebook\_2\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -29,7 +24,7 @@ The note refers to the behavior of the local [Cougars](./Cougar.md) on [Great Be
 
 ## Transcript
 
-*The following text is transcribed from **Naturalist Notebook 2***
+_The following text is transcribed from **Naturalist Notebook 2**_
 
 **I can already tell if I cross paths with one of these cats it's going to go bad for me if I'm not prepared.
 
@@ -38,7 +33,5 @@ The eviscerated deer I stumbled on yesterday gave me an idea. I doubt I can outr
 My gear is durable, but will it be enough? They sent me here to study these animals, not cull them. That's my mission.**
 
 ## Game history
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**
 
 [ru:Дневник натуралиста 2](ru:%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0_2)

@@ -1,19 +1,14 @@
----
-title: "Lilith Barker"
-wiki_namespace: 0
-categories: ["Characters"]
-source: "https://thelongdark.fandom.com/wiki/Lilith_Barker"
----
-
 # Lilith Barker
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Categories:** Characters · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lilith_Barker)
+
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
 **Lilith Barker**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Lilith_Barker.png) / *Lilith\_Barker.png* |
+|  | ![](../assets/Lilith_Barker.png) / _Lilith\_Barker.png_ |
 | Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00) |
 | Date | 1 August 2017 |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
@@ -52,8 +47,16 @@ A [Recipe Card](./Recipe%20Cards.md) named after Lily can be found in the [Milto
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![A portrait found in Milton House (Grey Mother's), likely of Martin Barker, Lilith Barker and Grey Mother.](../assets/Barker_Family_Portrait.jpg) / *A portrait found in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), likely of [Martin Barker](./Martin%20Barker.md), **Lilith Barker** and [Grey Mother](./Grey%20Mother.md).* | ![](../assets/Lily_picture.png) / *Lily\_picture.png* | ![Lilly's tombstone, with the pearls](../assets/Lilith_barker_grave.jpg) / *Lilly's tombstone, with the pearls* |
+![A portrait found in Milton House (Grey Mother's), likely of Martin Barker, Lilith Barker and Grey Mother.](../assets/Barker_Family_Portrait.jpg)
+
+_A portrait found in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), likely of [Martin Barker](./Martin%20Barker.md), **Lilith Barker** and [Grey Mother](./Grey%20Mother.md)._
+
+![](../assets/Lily_picture.png)
+
+_Lily\_picture.png_
+
+![Lilly's tombstone, with the pearls](../assets/Lilith_barker_grave.jpg)
+
+_Lilly's tombstone, with the pearls_
 
 [ru:Лилит Баркер](ru:%D0%9B%D0%B8%D0%BB%D0%B8%D1%82_%D0%91%D0%B0%D1%80%D0%BA%D0%B5%D1%80)

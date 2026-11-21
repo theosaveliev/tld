@@ -1,17 +1,12 @@
----
-title: "Mukluks"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Mukluks"
----
-
 # Mukluks
+
+**Categories:** Clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mukluks)
 
 **Mukluks**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mukluks_icon.png) / *Mukluks\_icon.png* |
+|  | ![](../assets/Mukluks_icon.png) / _Mukluks\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -24,15 +19,15 @@ source: "https://thelongdark.fandom.com/wiki/Mukluks"
 | Harvest | 2 × [Cured leather](./Cured%20Leather.md) / 90 minutes |
 | Repair | 1 × [Cured leather](./Cured%20Leather.md), / 1 × [Cloth](./Cloth.md) / 90 minutes / 50% condition |
 
-> “**Manufactured boot inspired by the traditional hunter's footwear. Designed for mobility and warmth using leather and fur. You can stay warm and move quickly.**”
+> “__Manufactured boot inspired by the traditional hunter's footwear. Designed for mobility and warmth using leather and fur. You can stay warm and move quickly.__”
 >
 > — In-game description
 
-**Mukluks** are a type of [footwear](./Clothing.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Mukluks** are a type of [footwear](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
-Mukluks are high tier boots and one of the rarest items in *The Long Dark*. Few containers have Mukluks in their loot table, most notable being Safes and similar high-loot tier locations. Mukluks cannot spawn on Interloper.
+Mukluks are high tier boots and one of the rarest items in _The Long Dark_. Few containers have Mukluks in their loot table, most notable being Safes and similar high-loot tier locations. Mukluks cannot spawn on Interloper.
 
 Possible spawn locations are:
 
@@ -55,13 +50,15 @@ Possible spawn locations are:
 
 Mukluks are similar to the [Deerskin Boots](./Deerskin%20Boots.md) in stats, offering the same warmth and windchill bonus but are 0.5 kg lighter. However, Mukluks are 10 percent less waterproof, have -3% stamina (vs -5%), and offer 2% less protection from wildlife.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Mukluks_Model_icon.png) / *Clothing model icon* | ![Clothing model icon](../assets/Mukluks_Model_Damaged_icon.png) / *Clothing model icon* |
+![Clothing model icon](../assets/Mukluks_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon](../assets/Mukluks_Model_Damaged_icon.png)
+
+_Clothing model icon_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Унты](ru:%D0%A3%D0%BD%D1%82%D1%8B)

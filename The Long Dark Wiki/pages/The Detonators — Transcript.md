@@ -1,16 +1,12 @@
----
-title: "The Detonators/Transcript"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/The_Detonators%2FTranscript"
----
-
 # The Detonators/Transcript
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Detonators%2FTranscript)
 
 **The Detonators/Transcript**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Detonators.png) / *The\_Detonators.png* |
+|  | ![](../assets/The_Detonators.png) / _The\_Detonators.png_ |
 | Episode |  |
 | **Missions** |  |
 | Previous | [The Power Plant/Transcript](./The%20Power%20Plant%20%E2%80%94%20Transcript.md) |
@@ -27,50 +23,50 @@ THE DETONATORS
 
 ## Reach the mine entrance.
 
-*Mackenzie appears outside of the front steps to the Prison at dawn, at the start of a blizzard*
+_Mackenzie appears outside of the front steps to the Prison at dawn, at the start of a blizzard_
 
 Mackenzie: "What a blizzard. I won't be much use to Franklin if I get killed."
 
-*He runs back to the [Contraband Storage](./Contraband%20Storage.md) and grabs his gear, then waits it out as the sun rises. After it clears, he heads up the road to the old mine, and finds [Mule Bridge](./Mule%20Bridge.md) and crosses it, entering [Last Prospect](./Last%20Prospect.md)*
+_He runs back to the [Contraband Storage](./Contraband%20Storage.md) and grabs his gear, then waits it out as the sun rises. After it clears, he heads up the road to the old mine, and finds [Mule Bridge](./Mule%20Bridge.md) and crosses it, entering [Last Prospect](./Last%20Prospect.md)_
 
 Mackenzie: "Ok. Where are those detonators?"
 
-*Light earthquakes occasionally rock the mine as Mackenzie delves deeper. A path across from him is boarded up so he turns around and chooses the other pathway into the mine. He eventually finds an elevator and goes to floor 3, finding the air filled with toxic gas*
+_Light earthquakes occasionally rock the mine as Mackenzie delves deeper. A path across from him is boarded up so he turns around and chooses the other pathway into the mine. He eventually finds an elevator and goes to floor 3, finding the air filled with toxic gas_
 
 Mackenzie: "Gotta get some fresh air in here."
 
-*He dives into the gas and finds a [Valve Socket Handle](./Valve%20Socket%20Handle.md), turning a valve as fresh air is pumped into the area clearing the gas*
+_He dives into the gas and finds a [Valve Socket Handle](./Valve%20Socket%20Handle.md), turning a valve as fresh air is pumped into the area clearing the gas_
 
 Mackenzie: "Clean air..."
 
-*He takes the handle and continues down the path, opening another valve. The handle remains stuck to the valve after use.*
+_He takes the handle and continues down the path, opening another valve. The handle remains stuck to the valve after use._
 
 Mackenzie: "Won't be able to move that again..."
 
-*If the player tries to remove the handle, it won't come off*
+_If the player tries to remove the handle, it won't come off_
 
 - Mackenzie: "Damn it, it's stuck."
 - Mackenzie: "Stuck."
 - Mackenzie: "Damn it! Won't budge."
 - Mackenzie: "Won't turn at all."
 
-*He turns to try and open a door, but it is locked. He eventually braves the toxic gas down the hall and finds a dead Forest Talker with a key and another valve handle, in a pocket of clean air.*
+_He turns to try and open a door, but it is locked. He eventually braves the toxic gas down the hall and finds a dead Forest Talker with a key and another valve handle, in a pocket of clean air._
 
 Mackenzie: "An air pocket, ah."
 
-*He returns and unlocks the door that goes deeper into the mine.*
+_He returns and unlocks the door that goes deeper into the mine._
 
 Mackenzie: "This has to be the way..."
 
-*He braves another corridor filled with earthquakes and toxic mine gas, and finds another elevator and takes it to floor 2. He steps off and finds a fenced off area with a locked gate*
+_He braves another corridor filled with earthquakes and toxic mine gas, and finds another elevator and takes it to floor 2. He steps off and finds a fenced off area with a locked gate_
 
 Mackenzie: "Hmm...locked."
 
-*Mackenzie walks around and sees a red toolbox holding the [Detonators](./Detonators.md). He walks across a beam over a pit, and picks them up*
+_Mackenzie walks around and sees a red toolbox holding the [Detonators](./Detonators.md). He walks across a beam over a pit, and picks them up_
 
 Mackenzie: "That's what I'm looking for."
 
-*Mackenzie then finds a pair of [Bolt Cutters](./Bolt%20Cutters.md) to cut the locked fence gate open and uses the elevator to go back up to level 1. He heads for the entrance after cutting through another locked gate and almost leaves the mine until he hears a ringing phone, and answers it*
+_Mackenzie then finds a pair of [Bolt Cutters](./Bolt%20Cutters.md) to cut the locked fence gate open and uses the elevator to go back up to level 1. He heads for the entrance after cutting through another locked gate and almost leaves the mine until he hears a ringing phone, and answers it_
 
 [Jace](./Jace.md): "So, how'd it all work out?"
 
@@ -130,31 +126,31 @@ Mackenzie: "I'll do what I can."
 
 Jace: "Good luck to us both, Mackenzie."
 
-*As Mackenzie tries to leave to go back to Mule Bridge, a massive earthquake hits the mine, far worse than the light earthquakes from before,*
+_As Mackenzie tries to leave to go back to Mule Bridge, a massive earthquake hits the mine, far worse than the light earthquakes from before,_
 
 Mackenzie: "Oh...shi....."
 
-*The rocks in the ceiling above him cave in, burying him and knocking him out. He wakes up pushing a rock out of the way and sees mine entrance is blocked*
+_The rocks in the ceiling above him cave in, burying him and knocking him out. He wakes up pushing a rock out of the way and sees mine entrance is blocked_
 
 Mackenzie: "There's no going back that way."
 
-*He turns around to see the lights in the mine are on, with sparks flying from wires. The aurora is back, and he has been knocked out until night. Another exit to the mine is present across from him and has been broken open by the earthquake, so he steps outside. Attempting to go back to Mule Bridge, the path is blocked by a massive landslide, so Mackenzie goes the other way, having to rope climb his way back down the mountain to get to the Prison. When he gets to the front doors of the Prison, Mathis, Vachon, and Heller come out to greet him*
+_He turns around to see the lights in the mine are on, with sparks flying from wires. The aurora is back, and he has been knocked out until night. Another exit to the mine is present across from him and has been broken open by the earthquake, so he steps outside. Attempting to go back to Mule Bridge, the path is blocked by a massive landslide, so Mackenzie goes the other way, having to rope climb his way back down the mountain to get to the Prison. When he gets to the front doors of the Prison, Mathis, Vachon, and Heller come out to greet him_
 
 Mathis: "So, pilot. Did you finish the job?"
 
 Mackenzie: "I found the detonators."
 
-*Mackenzie throws the bag at the feet of Vachon.*
+_Mackenzie throws the bag at the feet of Vachon._
 
 Mathis: "Well I guess the Warden was telling the truth after all."
 
-*Vachon picks up the bag and hands it to Mathis, who holds it like a prize*
+_Vachon picks up the bag and hands it to Mathis, who holds it like a prize_
 
 Mackenzie: "Now what?"
 
 Mathis: "Now, we blow a hole in the wall. But first, let's you and I have a little chat."
 
-*Mathis gestures to Heller and Vachon, who come over and grab Mackenzie and start dragging him inside*
+_Mathis gestures to Heller and Vachon, who come over and grab Mackenzie and start dragging him inside_
 
 Mackenzie: "He...hey. Mathis. I did everything you asked."
 
@@ -162,6 +158,4 @@ Mathis: "Oh, I know, pilot. You've been a good dog. But every dog has its day."
 
 Mackenzie: "Woah...wait, fellas..."
 
-*Mackenzie is dragged into the prison, and the scene ends*
-
-The story continues in [Donner (mission)/Transcript](./Donner%20%28mission%29%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**
+_Mackenzie is dragged into the prison, and the scene ends_

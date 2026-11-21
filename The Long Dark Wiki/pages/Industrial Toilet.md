@@ -1,22 +1,17 @@
----
-title: "Industrial Toilet"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Industrial_Toilet"
----
-
 # Industrial Toilet
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Industrial_Toilet)
 
 **Industrial Toilet**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Industrial_Toilet.png) / *Industrial\_Toilet.png* |
+|  | ![](../assets/Industrial_Toilet.png) / _Industrial\_Toilet.png_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | No |
 
-**Industrial Toilets** are stationary interactable objects in [*The Long Dark*](./The%20Long%20Dark.md).
+**Industrial Toilets** are stationary interactable objects in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
@@ -27,5 +22,3 @@ These objects can be found in [Idle Camp](./Idle%20Camp.md) in the barracks prov
 They can provide clean [Water (Potable)](./Water%20%28Potable%29.md) when searched, but can sometimes instead provide dirty [Water (Unsafe)](./Water%20%28Unsafe%29.md) and are the only toilet types to do so.
 
 ## Gallery
-
-**Lua execution error in Module:Navbox function navbox**

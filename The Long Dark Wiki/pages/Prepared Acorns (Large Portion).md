@@ -1,11 +1,6 @@
----
-title: "Prepared Acorns (Large Portion)"
-wiki_namespace: 0
-categories: ["Food And Drink", "Materials"]
-source: "https://thelongdark.fandom.com/wiki/Prepared_Acorns_(Large_Portion)"
----
-
 # Prepared Acorns \(Large Portion\)
+
+**Categories:** Food And Drink, Materials · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Prepared_Acorns_%28Large_Portion%29)
 
 **Contents**
 
@@ -18,8 +13,8 @@ source: "https://thelongdark.fandom.com/wiki/Prepared_Acorns_(Large_Portion)"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| Column 1 \| / \| --- \| / \| ![Large Portion](../assets/Prepared_Acorns_%28Large_Portion%29_icon.png) / *Large Portion* \| | 250px\]\] |
-|  | ![Large Portion](../assets/Prepared_Acorns_%28Large_Portion%29_icon.png) / *Large Portion* |
+| \[\[File: / ![Large Portion](../assets/Prepared_Acorns_%28Large_Portion%29_icon.png) / _Large Portion_ | 250px\]\] |
+|  | ![Large Portion](../assets/Prepared_Acorns_%28Large_Portion%29_icon.png) / _Large Portion_ |
 | Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
 | Wintermute | No |
 | Renewable | No |
@@ -60,5 +55,3 @@ Prepared Acorns (Large Portion) can be created after shelling [Acorns](./Acorns.
 | Quantity | 4 |
 
 ## Products
-
-**Lua execution error in Module:Navbox function navbox** [ru:Очищенные жёлуди (большая порция)](ru:%D0%9E%D1%87%D0%B8%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B6%D1%91%D0%BB%D1%83%D0%B4%D0%B8_%28%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%BF%D0%BE%D1%80%D1%86%D0%B8%D1%8F%29)

@@ -1,26 +1,21 @@
----
-title: "Pallet"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Pallet"
----
-
 # Pallet
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pallet)
 
 **Pallet**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Pallet.jpg) / *Pallet.jpg* |
+|  | ![](../assets/Pallet.jpg) / _Pallet.jpg_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | No |
 | **Statistics** |  |
 | Harvest | 3 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
 
-*For a stack of Pallets, see [Pallets](./Pallets.md).*
+_For a stack of Pallets, see [Pallets](./Pallets.md)._
 
-A '''Pallet''' is a wooden harvestable item in *The Long Dark*. It may be broken down with a Hatchet to yield Reclaimed Wood.
+A '''Pallet''' is a wooden harvestable item in _The Long Dark_. It may be broken down with a Hatchet to yield Reclaimed Wood.
 
 Pallets yield 3 Reclaimed Wood, and take 22 minutes to break down. This makes them an easily available firewood source.
 
@@ -31,5 +26,3 @@ Pallets are commonly found in industrial areas, such as the [Maintenance Yard](.
 | Pallet | 3 | 22 minutes | 68 | -2% Hatchet |
 | Pallet | 3 | 29 minutes | 88 | -3% Improvised Hatchet |
 | Pallet | 3 | 34 minutes | 101 | -0.5% Heavy Hammer |
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,17 +1,12 @@
----
-title: "Spear Head"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Spear_Head"
----
-
 # Spear Head
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Spear_Head)
 
 **Spear Head**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Spear_Head_icon.png) / *Spear\_Head\_icon.png* |
+|  | ![](../assets/Spear_Head_icon.png) / _Spear\_Head\_icon.png_ |
 | Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Best Defense](./The%20Best%20Defense.md) |
 | **Properties** |  |
@@ -48,9 +43,13 @@ More Spear Heads can be crafted in the forge after the first one. They can be ca
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The Forge menu for building the Spear Head](../assets/Spear_Head.jpg) / *The Forge menu for building the Spear Head* | ![3d model from a second forged Spear Head](../assets/Spear_Head_3d_Model.jpg) / *3d model from a second forged Spear Head* |
+![The Forge menu for building the Spear Head](../assets/Spear_Head.jpg)
+
+_The Forge menu for building the Spear Head_
+
+![3d model from a second forged Spear Head](../assets/Spear_Head_3d_Model.jpg)
+
+_3d model from a second forged Spear Head_
 
 ## Update history
 
@@ -58,5 +57,3 @@ More Spear Heads can be crafted in the forge after the first one. They can be ca
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

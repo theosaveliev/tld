@@ -1,11 +1,6 @@
----
-title: "Suffocation"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Suffocation"
----
-
 # Suffocation
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Suffocation)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Suffocation"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Suffocation_icon.png) / *Suffocation\_icon.png* |
+|  | ![](../assets/Suffocation_icon.png) / _Suffocation\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Update | 1.95 |
 | **Properties** |  |
@@ -36,7 +31,7 @@ It is also present in [Wintermute](./Wintermute.md), specifically [Episode 4: Fu
 
 ## Overview
 
-> “**You are running out of air to breathe. Find a pocket of clear air or equip a Respirator before you die.**”
+> “__You are running out of air to breathe. Find a pocket of clear air or equip a Respirator before you die.__”
 
 Unlike most other Afflictions, Suffocation Risk does not build up over time, instead being replaced with a timer in the bottom left corner of the screen that counts down in real seconds as long as the player character remains within a toxic cloud's area of effect. The player's vision will also begin to blur as the player character begins coughing and tearing up from breathing in the gas, along with a noticeable loss of hearing.
 
@@ -46,7 +41,7 @@ The maximum amount of time in the timer changes depending on difficulty level se
 
 ## Affliction
 
-Once the timer reaches 0, ***the player will die instantly***, regardless of how much [Condition](./Condition.md) they have left (similar to falling from an extreme height). Reaching an area with clean air will reset the countdown and slowly restore the player character's vision and hearing. Forcing clean air into the gas clouds using nearby machinery, such as in the Last Prospect mines in Episode 4 with a [Valve Socket Handle](./Valve%20Socket%20Handle.md) (Wintermute Only), will also reset the countdown.
+Once the timer reaches 0, _**the player will die instantly**_, regardless of how much [Condition](./Condition.md) they have left (similar to falling from an extreme height). Reaching an area with clean air will reset the countdown and slowly restore the player character's vision and hearing. Forcing clean air into the gas clouds using nearby machinery, such as in the Last Prospect mines in Episode 4 with a [Valve Socket Handle](./Valve%20Socket%20Handle.md) (Wintermute Only), will also reset the countdown.
 
 Time-accelerated activities while within a suffocation cloud , such as passing time, sleeping, or crafting, will instantly kill the player.
 
@@ -65,5 +60,3 @@ In Survival Mode, the only way to continue your game after acquiring Suffocation
   - \[EP 4\] Fixed an issue that would cause Players to become stuck in the Suffocating state if they saved and reloaded while suffocating.
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

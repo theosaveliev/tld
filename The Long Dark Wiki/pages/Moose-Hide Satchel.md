@@ -1,11 +1,6 @@
----
-title: "Moose-Hide Satchel"
-wiki_namespace: 0
-categories: ["Clothing", "Craftable clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Moose-Hide_Satchel"
----
-
 # Moose\-Hide Satchel
+
+**Categories:** Clothing, Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Moose-Hide_Satchel)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Moose-Hide_Satchel"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Moose-Hide_Satchel_icon.png) / *Moose-Hide\_Satchel\_icon.png* |
+|  | ![](../assets/Moose-Hide_Satchel_icon.png) / _Moose-Hide\_Satchel\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Accessory |
@@ -34,11 +29,11 @@ source: "https://thelongdark.fandom.com/wiki/Moose-Hide_Satchel"
 | Harvest | 1 x [Cured Leather](./Cured%20Leather.md) / 10 minutes |
 | Repair | 1 x [Cured Leather](./Cured%20Leather.md) / 22.5 minutes / 75% condition |
 
-> “**A simple Moose-hide satchel. Lightens the load for a weary traveller.**”
+> “__A simple Moose-hide satchel. Lightens the load for a weary traveller.__”
 >
 > — - In-game description
 
-**Moose-Hide Satchel** is a type of accessory [Clothing](./Clothing.md) in *The Long Dark*.
+**Moose-Hide Satchel** is a type of accessory [Clothing](./Clothing.md) in _The Long Dark_.
 
 ## Overview
 
@@ -81,15 +76,19 @@ Like other clothing, the satchel is vulnerable to damage from [Struggle](./Strug
 
 **[Wintermute](./Wintermute.md)**
 
-- Episode 3: a moose-hide satchel appears in [Misty Falls Cave](./Misty%20Falls%20Cave.md) as a reward for the *The Lost Cave *portion of the [Tall Tales](./Tall%20Tales.md) side quest. The satchel cannot be found in this location in Survival Mode.
+- Episode 3: a moose-hide satchel appears in [Misty Falls Cave](./Misty%20Falls%20Cave.md) as a reward for the _The Lost Cave _portion of the [Tall Tales](./Tall%20Tales.md) side quest. The satchel cannot be found in this location in Survival Mode.
 - Episode 4: Found in the bunker revealed by the [Blackrock Rumours](./Blackrock%20Rumours.md) mission suspicious person side quest.
 - Cannot be crafted in Episodes 1-4, despite possible [Moose](./Moose.md) spawn.
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Moose-Hide_Satchel_Model_icon.png) / *Clothing model icon* | ![a texture for the damaged Moose-Hide Satchel](../assets/Moose_hide_bag_damage_texture_for_model.png) / *a texture for the damaged Moose-Hide Satchel* |
+![Clothing model icon](../assets/Moose-Hide_Satchel_Model_icon.png)
+
+_Clothing model icon_
+
+![a texture for the damaged Moose-Hide Satchel](../assets/Moose_hide_bag_damage_texture_for_model.png)
+
+_a texture for the damaged Moose-Hide Satchel_
 
 ## Update history
 
@@ -98,5 +97,3 @@ Like other clothing, the satchel is vulnerable to damage from [Struggle](./Strug
 
 - UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)):**
   - Added the Moose-Hide Satchel gear item.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Сумка из лосиной шкуры](ru:%D0%A1%D1%83%D0%BC%D0%BA%D0%B0_%D0%B8%D0%B7_%D0%BB%D0%BE%D1%81%D0%B8%D0%BD%D0%BE%D0%B9_%D1%88%D0%BA%D1%83%D1%80%D1%8B) [es:Zurrón de pellejo de alce](es:Zurr%C3%B3n_de_pellejo_de_alce)

@@ -1,11 +1,6 @@
----
-title: "Bullet"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Bullet"
----
-
 # Bullet
+
+**Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bullet)
 
 **Contents**
 
@@ -21,18 +16,18 @@ source: "https://thelongdark.fandom.com/wiki/Bullet"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bullet_icon.png) / *bullet\_icon.png* |
+|  | ![](../assets/Bullet_icon.png) / _bullet\_icon.png_ |
 | **General** |  |
 | Item Type | Material\|- |
 | Renewable | yes |
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.005 kg(0.01 lbs) |
 
-> “**Projectile component of Rifle or Revolver Ammunition. Can be Crafted from Scrap Lead.**”
+> “__Projectile component of Rifle or Revolver Ammunition. Can be Crafted from Scrap Lead.__”
 >
 > — In-game description
 
-**Bullets** are a crafting item in *The Long Dark*.
+**Bullets** are a crafting item in _The Long Dark_.
 
 ## Overview
 
@@ -79,9 +74,13 @@ Bullets may also be acquired by harvesting Revolver or Hunting Rifle Ammunition 
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Cut Pistol 44 Mag Bullet](../assets/Revolver_44_Mag_Bullet_icon.png) / *Cut Pistol 44 Mag Bullet* | ![Cut Hunting Rifle Bullet](../assets/Rifle_Ammo_Single_Bullet_icon.png) / *Cut Hunting Rifle Bullet* |
+![Cut Pistol 44 Mag Bullet](../assets/Revolver_44_Mag_Bullet_icon.png)
+
+_Cut Pistol 44 Mag Bullet_
+
+![Cut Hunting Rifle Bullet](../assets/Rifle_Ammo_Single_Bullet_icon.png)
+
+_Cut Hunting Rifle Bullet_
 
 ## Update history
 
@@ -90,5 +89,3 @@ Bullets may also be acquired by harvesting Revolver or Hunting Rifle Ammunition 
 
 - UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64)):**
   - Added new craftable item: Bullet(s)
-
-**Lua execution error in Module:Navbox function navbox** [ru:Пуля](ru:%D0%9F%D1%83%D0%BB%D1%8F)

@@ -1,17 +1,12 @@
----
-title: "Handwritten Note"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Handwritten_Note"
----
-
 # Handwritten Note
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Handwritten_Note)
 
 **Handwritten Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Handwritten_Note_icon.png) / *Handwritten\_Note\_icon.png* |
+|  | ![](../assets/Handwritten_Note_icon.png) / _Handwritten\_Note\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Handwritten_Note"
 
 ## Transcript
 
-*The following text is transcribed from **Handwritten Note***
+_The following text is transcribed from **Handwritten Note**_
 
 **The penmanship on this scrap paper seems out of place in this wilderness.
 
@@ -38,5 +33,3 @@ source: "https://thelongdark.fandom.com/wiki/Handwritten_Note"
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,17 +1,12 @@
----
-title: "Loose Tile"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Loose_Tile"
----
-
 # Loose Tile
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Loose_Tile)
 
 **Loose Tile**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Loose_Tile.jpg) / *Loose\_Tile.jpg* |
+|  | ![](../assets/Loose_Tile.jpg) / _Loose\_Tile.jpg_ |
 | Story item | Yes |
 | **Container** |  |
 | Capacity | 20.00 kg(44 lbs) |
@@ -23,5 +18,3 @@ It does not appear in [Survival Mode](./Survival%20Mode.md).
 ## Loot
 
 This tile only contains the [Forest Talker Documents](./Forest%20Talker%20Documents.md) as part of the quest.
-
-**Lua execution error in Module:Navbox function navbox**

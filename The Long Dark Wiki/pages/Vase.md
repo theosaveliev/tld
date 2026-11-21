@@ -1,17 +1,12 @@
----
-title: "Vase"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Vase"
----
-
 # Vase
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Vase)
 
 **Vase**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Vase.jpg) / *Vase.jpg* |
+|  | ![](../assets/Vase.jpg) / _Vase.jpg_ |
 | Release | 1.60 |
 | Story item | Yes |
 | **Container** |  |
@@ -24,5 +19,3 @@ It does not appear in [Survival Mode](./Survival%20Mode.md).
 ## Loot
 
 The Vase only contains the [Basement Key](./Basement%20Key.md) as part of the opening mission.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,17 +1,12 @@
----
-title: "Deerskin Boots"
-wiki_namespace: 0
-categories: ["Clothing", "Craftable clothing", "Pages with update history", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Deerskin_Boots"
----
-
 # Deerskin Boots
+
+**Categories:** Clothing, Craftable clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Deerskin_Boots)
 
 **Deerskin Boots**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Deerskin_Boots_icon.png) / *Deerskin\_Boots\_icon.png* |
+|  | ![](../assets/Deerskin_Boots_icon.png) / _Deerskin\_Boots\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Outer feet |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Deerskin_Boots"
 | Harvest | 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / 110 minutes |
 | Repair | 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 90 minutes / 30% condition |
 
-> “**Supple and tough. Allows great balance of mobility and warmth. Also, stylish.**”
+> “__Supple and tough. Allows great balance of mobility and warmth. Also, stylish.__”
 >
 > — In-game description
 
-**Deerskin Boots** are a type of craftable [Clothing](./Clothing.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Deerskin Boots** are a type of craftable [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## General information
 
@@ -37,9 +32,13 @@ Deerskin boots are among the best boots available. [Insulated Boots](./Insulated
 
 Deerskin boots are comparable to the rare [Mukluks](./Mukluks.md), which are 0.5kg lighter but offer slightly less protection and less waterproof (Deerskin/Insulated Boots 50% vs. Mukluks 40%). The primary advantage of Deerskin Boots possess over Mukluks is their reliability in acquisition: they can be crafted in all game modes (including [Interloper](./Interloper.md)), and do not require [Leather](./Cured%20Leather.md) for repairs.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Deerskin_Boots_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Deerskin_Boots_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Clothing model icon](../assets/Deerskin_Boots_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Deerskin_Boots_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Crafting
 
@@ -65,5 +64,3 @@ Deerskin boots are comparable to the rare [Mukluks](./Mukluks.md), which are 0.5
 
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Обувь из оленьей кожи](ru:%D0%9E%D0%B1%D1%83%D0%B2%D1%8C_%D0%B8%D0%B7_%D0%BE%D0%BB%D0%B5%D0%BD%D1%8C%D0%B5%D0%B9_%D0%BA%D0%BE%D0%B6%D0%B8) [es:Botas de piel de ciervo](es:Botas_de_piel_de_ciervo)

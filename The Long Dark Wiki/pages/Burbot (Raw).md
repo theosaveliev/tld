@@ -1,20 +1,15 @@
----
-title: "Burbot (Raw)"
-wiki_namespace: 0
-categories: ["Fish", "Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Burbot_(Raw)"
----
-
 # Burbot \(Raw\)
 
-*For the cooked version, see [Burbot (Cooked)](./Burbot%20%28Cooked%29.md).*
+**Categories:** Fish, Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Burbot_%28Raw%29)
+
+_For the cooked version, see [Burbot (Cooked)](./Burbot%20%28Cooked%29.md)._
 
 **Burbot (Raw)**
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Raw](../assets/Burbot_%28Raw%29_icon.png) / *Raw* \| ![Opened](../assets/Burbot_%28Raw%29_Opened_icon.png) / *Opened* \| / \| --- \| --- \| | 250px\]\] |
-| ![Raw](../assets/Burbot_%28Raw%29_icon.png) / *Raw* | ![Opened](../assets/Burbot_%28Raw%29_Opened_icon.png) / *Opened* |
+| \[\[File: / ![Raw](../assets/Burbot_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Burbot_%28Raw%29_Opened_icon.png) / _Opened_ | 250px\]\] |
+| ![Raw](../assets/Burbot_%28Raw%29_icon.png) / _Raw_ | ![Opened](../assets/Burbot_%28Raw%29_Opened_icon.png) / _Opened_ |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Burbot_(Raw)"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_RawBurbot |
 
-**Burbot (Raw)** is a raw [food](./Food%20And%20Drink.md) item in *The Long Dark*. Burbot have a minimum raw weight of 3.9 kg and a maximum raw weight of 6.0 kg, making them the largest fish in-game, aside from the [Big Bass](./Big%20Bass%20%28Raw%29.md) in [Wintermute](./Wintermute.md). They are also the most calorie-dense fish, at 325 kcal/kg.
+**Burbot (Raw)** is a raw [food](./Food%20And%20Drink.md) item in _The Long Dark_. Burbot have a minimum raw weight of 3.9 kg and a maximum raw weight of 6.0 kg, making them the largest fish in-game, aside from the [Big Bass](./Big%20Bass%20%28Raw%29.md) in [Wintermute](./Wintermute.md). They are also the most calorie-dense fish, at 325 kcal/kg.
 
 Burbot can be harvested to obtain [Fishing Bait](./Fishing%20Bait.md), yielding 3 units per kilogram harvested. When cooked, they produce a [cooked Burbot](./Burbot%20%28Cooked%29.md) and an above-average yield of 0.03 L of lamp oil per kg of fish, making them relatively efficient at fuel production.
 
@@ -40,5 +35,3 @@ Burbot can be harvested to obtain [Fishing Bait](./Fishing%20Bait.md), yielding 
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Налим (сырой)](ru:%D0%9D%D0%B0%D0%BB%D0%B8%D0%BC_%28%D1%81%D1%8B%D1%80%D0%BE%D0%B9%29)

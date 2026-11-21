@@ -1,11 +1,6 @@
----
-title: "Mackenzie's Toque"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history", "Story items", "Wintermute"]
-source: "https://thelongdark.fandom.com/wiki/Mackenzie's_Toque"
----
-
 # Mackenzie's Toque
+
+**Categories:** Clothing, Pages with update history, Story items, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mackenzie's_Toque)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Mackenzie's_Toque"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mackenzie%27s_Toque_icon.png) / *Mackenzie's\_Toque\_icon.png* |
+|  | ![](../assets/Mackenzie%27s_Toque_icon.png) / _Mackenzie's\_Toque\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -34,7 +29,7 @@ source: "https://thelongdark.fandom.com/wiki/Mackenzie's_Toque"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / *2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png* | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | **The Toque you were wearing when you crashed in your plane.** / In-game description | ” |
+| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_ | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | __The Toque you were wearing when you crashed in your plane.__ / In-game description | ” |
 
 **Mackenzie's Toque**is a [Clothing](./Clothing.md) item worn on the player's head obtained exclusively in [Wintermute](./Wintermute.md).
 
@@ -60,16 +55,18 @@ If the player starts [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%
 
 Mackenzie's Toque is missing when playing [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md), being discarded by [Mathis](./Mathis.md) (along with [Mackenzie's Parka](./Mackenzie%27s%20Parka.md)) after Mackenzie is stripped of his gear and transported.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model](../assets/Mackenzie%27s_Toque_Model_icon.png) / *Clothing model* | ![Clothing model damaged](../assets/Mackenzie%27s_Toque_Model_Damaged_icon.png) / *Clothing model damaged* |
+![Clothing model](../assets/Mackenzie%27s_Toque_Model_icon.png)
+
+_Clothing model_
+
+![Clothing model damaged](../assets/Mackenzie%27s_Toque_Model_Damaged_icon.png)
+
+_Clothing model damaged_
 
 ## Update history
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
-  - Renamed from *Will's Hat* to *Mackenzie's Toque*.
+  - Renamed from _Will's Hat_ to _Mackenzie's Toque_.
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Шапка Маккензи](ru:%D0%A8%D0%B0%D0%BF%D0%BA%D0%B0_%D0%9C%D0%B0%D0%BA%D0%BA%D0%B5%D0%BD%D0%B7%D0%B8)

@@ -1,11 +1,6 @@
----
-title: "Mackenzie's Crashed Plane"
-wiki_namespace: 0
-categories: ["Landmarks", "Locations", "Locations in Mountain Town", "Outdoor locations", "Sheltered locations"]
-source: "https://thelongdark.fandom.com/wiki/Mackenzie's_Crashed_Plane"
----
-
 # Mackenzie's Crashed Plane
+
+**Categories:** Landmarks, Locations, Locations in Mountain Town, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mackenzie's_Crashed_Plane)
 
 **Contents**
 
@@ -19,9 +14,9 @@ source: "https://thelongdark.fandom.com/wiki/Mackenzie's_Crashed_Plane"
 
 | Property | Details |
 | --- | --- |
-|  | ![The wreckage of the plane](../assets/Plane.jpg) / *The wreckage of the plane* |
+|  | ![The wreckage of the plane](../assets/Plane.jpg) / _The wreckage of the plane_ |
 | **Location** |  |
-|  | ![](../assets/Mackenzie%27s_Crashed_Plane_Location.png) / *Mackenzie's\_Crashed\_Plane\_Location.png* |
+|  | ![](../assets/Mackenzie%27s_Crashed_Plane_Location.png) / _Mackenzie's\_Crashed\_Plane\_Location.png_ |
 | Region | [Mountain Town](./Mountain%20Town.md)\|- |
 | Description | Mackenzie's Crashed Plane |
 | **General** |  |
@@ -52,8 +47,10 @@ The location is simply named **Crashed Plane** in Survival Mode, and is the loca
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The wreckage of the plane that serves as the setting for the beginning of Episode 1.](../assets/Mackenzie%27s_Crashed_Plane_wreckage.jpg) / *The wreckage of the plane that serves as the setting for the beginning of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).* | ![The plane at the start of Episode 1](../assets/Survival_Of_The_Fittest.jpg) / *The plane at the start of Episode 1* |
+![The wreckage of the plane that serves as the setting for the beginning of Episode 1.](../assets/Mackenzie%27s_Crashed_Plane_wreckage.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_The wreckage of the plane that serves as the setting for the beginning of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)._
+
+![The plane at the start of Episode 1](../assets/Survival_Of_The_Fittest.jpg)
+
+_The plane at the start of Episode 1_

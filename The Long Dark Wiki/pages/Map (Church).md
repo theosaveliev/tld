@@ -1,16 +1,11 @@
----
-title: "Map (Church)"
-wiki_namespace: 0
-categories: ["Collectibles", "DLC Content"]
-source: "https://thelongdark.fandom.com/wiki/Map_(Church)"
----
-
 # Map \(Church\)
+
+**Categories:** Collectibles, DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Map_%28Church%29)
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| ![](../assets/Seal_icon.png) / *Seal\_icon.png* | **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / **Map** / \| Property \| Details \| / \| --- \| --- \| / \|  \| ![](../assets/Map_%28Church%29_icon.png) / *Map\_(Church)\_icon.png* \| / \| Release \| [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58) \| / \| **Properties** \|  \| / \| Item type \| [Collectibles](./Collectibles.md)\\|- \| / \| Stackable \| No \| / \| Examine \| A hand-drawn map. \| / \| **Values** \|  \| / \| Weight \| 0.00 kg (0 lbs) \| / \| **Actions** \|  \| / \| Backpack \| Examine \| / \| On ground \| Take It, Read Text, Leave It \| / **Map** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of the [Iron Road](./Iron%20Road.md) expansion. It is found in Port Renmant inside the ruined lighthouse. It points to a hidden pathway to the [Desecrated Church](./Desecrated%20Church.md). The road to the east of the church is blocked, and this map shows a cave that allows access to the upper cliffs to reach the church. / ## Game history / **Template:update history****Lua execution error in Module:Navbox function navbox** |
-| ![](../assets/Map_%28Church%29_icon.png) / *Map\_(Church)\_icon.png* |  |  |
+
+| ![](../assets/Map_%28Church%29_icon.png) / _Map\_(Church)\_icon.png_ |  |  |
 | Release | [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58) |  |
 | **Properties** |  |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |  |

@@ -1,11 +1,6 @@
----
-title: "Bleak Inlet"
-wiki_namespace: 0
-categories: ["Regions"]
-source: "https://thelongdark.fandom.com/wiki/Bleak_Inlet"
----
-
 # Bleak Inlet
+
+**Categories:** Regions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bleak_Inlet)
 
 **Contents**
 
@@ -21,10 +16,10 @@ source: "https://thelongdark.fandom.com/wiki/Bleak_Inlet"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bleakinlet.png) / *Bleakinlet.png* |
+|  | ![](../assets/Bleakinlet.png) / _Bleakinlet.png_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Bleak_Inlet_Location.png) / *Bleak\_Inlet\_Location.png* |
-|  | ![](../assets/Bleak_Inlet_Region_Map.png) / *Bleak\_Inlet\_Region\_Map.png* |
+|  | ![](../assets/Bleak_Inlet_Location.png) / _Bleak\_Inlet\_Location.png_ |
+|  | ![](../assets/Bleak_Inlet_Region_Map.png) / _Bleak\_Inlet\_Region\_Map.png_ |
 | **Details** |  |
 | Description | Industrial wasteland ravaged by strong winds and timberwolves |
 | Connecting Regions | [Forlorn Muskeg](./Forlorn%20Muskeg.md), [The Ravine](./The%20Ravine.md) |
@@ -34,11 +29,11 @@ source: "https://thelongdark.fandom.com/wiki/Bleak_Inlet"
 | Locations | 21 |
 | Date Added | Dec 10, 2019 |
 
-> “**Once home to a thriving industrial Cannery, seismic instability has cut Bleak Inlet off from the rest of the Great Bear mainland. Inaccessible and in the heart of Timberwolf territory, exploring Bleak Inlet is not for the faint of heart. The Cannery industrial complex holds a useful treasure for those hardy enough to access it.**”
+> “__Once home to a thriving industrial Cannery, seismic instability has cut Bleak Inlet off from the rest of the Great Bear mainland. Inaccessible and in the heart of Timberwolf territory, exploring Bleak Inlet is not for the faint of heart. The Cannery industrial complex holds a useful treasure for those hardy enough to access it.__”
 >
 > — - In game description
 
-**Bleak Inlet** is the 10th [Region](./Region.md) to be added to [*The Long Dark*](./The%20Long%20Dark.md). It was released in the Errant Pilgrim update in December 2019. The region connects to [Forlorn Muskeg](./Forlorn%20Muskeg.md) and [The Ravine](./The%20Ravine.md).
+**Bleak Inlet** is the 10th [Region](./Region.md) to be added to [_The Long Dark_](./The%20Long%20Dark.md). It was released in the Errant Pilgrim update in December 2019. The region connects to [Forlorn Muskeg](./Forlorn%20Muskeg.md) and [The Ravine](./The%20Ravine.md).
 
 ## Overview
 
@@ -66,7 +61,7 @@ The Cannery plant off the pier is a [Workshop](./Workshop.md) that houses specia
 
 ## Safehouses
 
-Bleak Inlet is a little short of houses, let alone *safe*houses. There are two enterable structures that could serve this purpose: the first being the [Cannery Worker Residences](./Cannery%20Worker%20Residences.md). One of the four of these buildings has a [bed](./Bed.md), [Fireplace](./Fireplace.md), and some storage. Some wildlife might spawn nearby, including a Bear, as well as a notable Rabbit and Deer spawn near the [Fallen Lighthouse](./Fallen%20Lighthouse.md).
+Bleak Inlet is a little short of houses, let alone _safe_houses. There are two enterable structures that could serve this purpose: the first being the [Cannery Worker Residences](./Cannery%20Worker%20Residences.md). One of the four of these buildings has a [bed](./Bed.md), [Fireplace](./Fireplace.md), and some storage. Some wildlife might spawn nearby, including a Bear, as well as a notable Rabbit and Deer spawn near the [Fallen Lighthouse](./Fallen%20Lighthouse.md).
 
 Another possible safehouse is a small cabin located in a secluded corner of the map. It contains a [Rim Grill](./Rim%20Grill.md), bed, and decent storage. Deer and Rabbits will spawn nearby, as well as Rose Hips and occasionally [Timberwolf](./Timberwolf.md).
 
@@ -111,21 +106,144 @@ Additionally, 1 [Prepper Cache](./Prepper%20Cache.md) spawns in the hills betwee
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Bleak Inlet (view from the fallen lighthouse)](../assets/SS-BI-Inlet01.jpg) / *Bleak Inlet (view from the fallen lighthouse)* | ![Worker Residences - Long bridge - Cannery](../assets/SS-BI-Inlet02.jpg) / *Worker Residences - Long bridge - Cannery* | ![Long bridge - Cannery - Washed out - Frozen delta](../assets/SS-BI-Inlet03.jpg) / *Long bridge - Cannery - Washed out - Frozen delta* | ![Worker Residences - Light house](../assets/SS-BI-CanneryWorkerResidences03.jpg) / *Worker Residences - Light house* |
-| ![Cannery - Long bridge - Worker Residences](../assets/SS-BI-CanneryWorkerResidences02.jpg) / *Cannery - Long bridge - Worker Residences* | ![Frozen delta and Inlet](../assets/SS-BI-FrozenDelta01.jpg) / *Frozen delta and Inlet* | ![Frozen delta behind the Inlet](../assets/SS-BI-FrozenDelta02.jpg) / *Frozen delta behind the Inlet* | ![The radio tower behind the Inlet](../assets/SS-BI-inlet04.jpg) / *The radio tower behind the Inlet* |
-| ![Summit at Ravine's End](../assets/SS-BI-SummitAtRavien%27sEnd.jpg) / *Summit at Ravine's End* | ![Trailers west of the Cannery](../assets/SS-BI-Trailer01.jpg) / *Trailers west of the Cannery* | ![Raven Crossing](../assets/SS-BI-RavenCrossing01.jpg) / *Raven Crossing* | ![Ravine's End Waterfall](../assets/SS-BI-Ravine%27sEndWaterfall.jpg) / *Ravine's End Waterfall* |
-| ![Lower raven falls and Broken furniture](../assets/SS-BI-LowerRavenFall.jpg) / *Lower raven falls and Broken furniture* | ![Long bridge](../assets/SS-BI-LongBridge01.jpg) / *Long bridge* | ![Southwest island and cave](../assets/SS-BI-Southwest-Island01.jpg) / *Southwest island and cave* | ![Southeast island and Fallen lighthouse](../assets/SS-BI-FallenLighthouse02.jpg) / *Southeast island and Fallen lighthouse* |
-| ![Coast Mountain Road (Lower)](../assets/SS-BI-CoastMountainRoad03.jpg) / *Coast Mountain Road (Lower)* | ![Coast Mountain Road (Upper)](../assets/SS-BI-CoastMountainRoad02.jpg) / *Coast Mountain Road (Upper)* | ![Coast Mountain Road](../assets/SS-BI-CoastMountainRoad01.jpg) / *Coast Mountain Road* | ![Landslide](../assets/SS-BI-Landslide01.jpg) / *Landslide* |
-| ![Coastal highway terminus](../assets/SS-BI-Terminus01.jpg) / *Coastal highway terminus* | ![Last Resort Cannery from Cannery Worker Residences](../assets/Screen_60ebb629-1d86-495f-9716-576de812490f_hi.png) / *Last Resort Cannery from Cannery Worker Residences* | ![Last resort cannery](../assets/SS-BI-Cannery01.jpg) / *Last resort cannery* | ![Cabin near Lower raven fall](../assets/SS-BI-LowerCabin01.jpg) / *Cabin near Lower raven fall* |
-| ![Washed out trailer](../assets/SS-BI-WashedOut01.jpg) / *Washed out trailer* | ![Lookout and Rope climbing spot (Upper)](../assets/SS-BI-Rope01.jpg) / *Lookout and Rope climbing spot (Upper)* | ![Lookout and Rope climbing spot (Lower)](../assets/SS-BI-Rope02.jpg) / *Lookout and Rope climbing spot (Lower)* | ![Secret Mountain path](../assets/20210118150830_1.jpg) / *Secret Mountain path* |
-| ![Lighthouse view](../assets/20210111173319_1.jpg) / *Lighthouse view* | ![](../assets/20210111173118_1.jpg) / *20210111173118\_1.jpg* | ![](../assets/20210111173056_1.jpg) / *20210111173056\_1.jpg* | ![](../assets/20210111173156_1.jpg) / *20210111173156\_1.jpg* |
+![Bleak Inlet (view from the fallen lighthouse)](../assets/SS-BI-Inlet01.jpg)
+
+_Bleak Inlet (view from the fallen lighthouse)_
+
+![Worker Residences - Long bridge - Cannery](../assets/SS-BI-Inlet02.jpg)
+
+_Worker Residences - Long bridge - Cannery_
+
+![Long bridge - Cannery - Washed out - Frozen delta](../assets/SS-BI-Inlet03.jpg)
+
+_Long bridge - Cannery - Washed out - Frozen delta_
+
+![Worker Residences - Light house](../assets/SS-BI-CanneryWorkerResidences03.jpg)
+
+_Worker Residences - Light house_
+
+![Cannery - Long bridge - Worker Residences](../assets/SS-BI-CanneryWorkerResidences02.jpg)
+
+_Cannery - Long bridge - Worker Residences_
+
+![Frozen delta and Inlet](../assets/SS-BI-FrozenDelta01.jpg)
+
+_Frozen delta and Inlet_
+
+![Frozen delta behind the Inlet](../assets/SS-BI-FrozenDelta02.jpg)
+
+_Frozen delta behind the Inlet_
+
+![The radio tower behind the Inlet](../assets/SS-BI-inlet04.jpg)
+
+_The radio tower behind the Inlet_
+
+![Summit at Ravine's End](../assets/SS-BI-SummitAtRavien%27sEnd.jpg)
+
+_Summit at Ravine's End_
+
+![Trailers west of the Cannery](../assets/SS-BI-Trailer01.jpg)
+
+_Trailers west of the Cannery_
+
+![Raven Crossing](../assets/SS-BI-RavenCrossing01.jpg)
+
+_Raven Crossing_
+
+![Ravine's End Waterfall](../assets/SS-BI-Ravine%27sEndWaterfall.jpg)
+
+_Ravine's End Waterfall_
+
+![Lower raven falls and Broken furniture](../assets/SS-BI-LowerRavenFall.jpg)
+
+_Lower raven falls and Broken furniture_
+
+![Long bridge](../assets/SS-BI-LongBridge01.jpg)
+
+_Long bridge_
+
+![Southwest island and cave](../assets/SS-BI-Southwest-Island01.jpg)
+
+_Southwest island and cave_
+
+![Southeast island and Fallen lighthouse](../assets/SS-BI-FallenLighthouse02.jpg)
+
+_Southeast island and Fallen lighthouse_
+
+![Coast Mountain Road (Lower)](../assets/SS-BI-CoastMountainRoad03.jpg)
+
+_Coast Mountain Road (Lower)_
+
+![Coast Mountain Road (Upper)](../assets/SS-BI-CoastMountainRoad02.jpg)
+
+_Coast Mountain Road (Upper)_
+
+![Coast Mountain Road](../assets/SS-BI-CoastMountainRoad01.jpg)
+
+_Coast Mountain Road_
+
+![Landslide](../assets/SS-BI-Landslide01.jpg)
+
+_Landslide_
+
+![Coastal highway terminus](../assets/SS-BI-Terminus01.jpg)
+
+_Coastal highway terminus_
+
+![Last Resort Cannery from Cannery Worker Residences](../assets/Screen_60ebb629-1d86-495f-9716-576de812490f_hi.png)
+
+_Last Resort Cannery from Cannery Worker Residences_
+
+![Last resort cannery](../assets/SS-BI-Cannery01.jpg)
+
+_Last resort cannery_
+
+![Cabin near Lower raven fall](../assets/SS-BI-LowerCabin01.jpg)
+
+_Cabin near Lower raven fall_
+
+![Washed out trailer](../assets/SS-BI-WashedOut01.jpg)
+
+_Washed out trailer_
+
+![Lookout and Rope climbing spot (Upper)](../assets/SS-BI-Rope01.jpg)
+
+_Lookout and Rope climbing spot (Upper)_
+
+![Lookout and Rope climbing spot (Lower)](../assets/SS-BI-Rope02.jpg)
+
+_Lookout and Rope climbing spot (Lower)_
+
+![Secret Mountain path](../assets/20210118150830_1.jpg)
+
+_Secret Mountain path_
+
+![Lighthouse view](../assets/20210111173319_1.jpg)
+
+_Lighthouse view_
+
+![](../assets/20210111173118_1.jpg)
+
+_20210111173118\_1.jpg_
+
+![](../assets/20210111173056_1.jpg)
+
+_20210111173056\_1.jpg_
+
+![](../assets/20210111173156_1.jpg)
+
+_20210111173156\_1.jpg_
 
 ## Maps
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![A detailed map of Bleak Inlet v2.35](../assets/BI_map_default.png.png) / *A detailed map of Bleak Inlet v2.35* | ![A map of Bleak Inlet v2.35 (Interloper/Misery edition, contains spoilers)](../assets/BI_Map_Interloper.png) / *A map of Bleak Inlet v2.35 (Interloper/Misery edition, contains spoilers)* | ![](../assets/Bleak_Inlet_map.png) / *Bleak\_Inlet\_map.png* |
+![A detailed map of Bleak Inlet v2.35](../assets/BI_map_default.png.png)
 
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [es:Ensenada lóbrega](es:Ensenada_l%C3%B3brega) [fr:Crique Lugubre](fr:Crique_Lugubre) [ru:Бледная\_бухта](ru:%D0%91%D0%BB%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B1%D1%83%D1%85%D1%82%D0%B0)
+_A detailed map of Bleak Inlet v2.35_
+
+![A map of Bleak Inlet v2.35 (Interloper/Misery edition, contains spoilers)](../assets/BI_Map_Interloper.png)
+
+_A map of Bleak Inlet v2.35 (Interloper/Misery edition, contains spoilers)_
+
+![](../assets/Bleak_Inlet_map.png)
+
+_Bleak\_Inlet\_map.png_

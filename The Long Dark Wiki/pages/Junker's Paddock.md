@@ -1,21 +1,16 @@
----
-title: "Junker's Paddock"
-wiki_namespace: 0
-categories: ["Indoor locations", "Locations", "Locations in Forsaken Airfield", "Locations with a workbench"]
-source: "https://thelongdark.fandom.com/wiki/Junker's_Paddock"
----
-
 # Junker's Paddock
+
+**Categories:** Indoor locations, Locations, Locations in Forsaken Airfield, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Junker's_Paddock)
 
 **Junker's Paddock**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Junker.jpg) / *Junker.jpg* |
+|  | ![](../assets/Junker.jpg) / _Junker.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Junker%27s_Paddock_Location.png) / *Junker's\_Paddock\_Location.png* |
+|  | ![](../assets/Junker%27s_Paddock_Location.png) / _Junker's\_Paddock\_Location.png_ |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
 | **General** |  |
 | Type |  |
-| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
-| ![](../assets/Workbench_icon_green.png) / *workbench\_icon\_green.png* | Has a workbench\|- |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
+| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ | Has a workbench\|- |

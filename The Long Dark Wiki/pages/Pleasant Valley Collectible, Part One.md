@@ -1,17 +1,12 @@
----
-title: "Pleasant Valley Collectible, Part One"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Pleasant_Valley_Collectible%2C_Part_One"
----
-
 # Pleasant Valley Collectible, Part One
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Collectible%2C_Part_One)
 
 **Pleasant Valley Collectible, Part One**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Pleasant_Valley_Collectible%2C_Part_One_icon.png) / *Pleasant\_Valley\_Collectible,\_Part\_One\_icon.png* |
+|  | ![](../assets/Pleasant_Valley_Collectible%2C_Part_One_icon.png) / _Pleasant\_Valley\_Collectible,\_Part\_One\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mission%29.md) |
 | **Properties** |  |
@@ -28,11 +23,11 @@ source: "https://thelongdark.fandom.com/wiki/Pleasant_Valley_Collectible%2C_Part
 
 **Pleasant Valley Collectible, Part One** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Forest Talkers](./Forest%20Talkers%20%28side%20mission%29.md) side mission.
 
-During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note *Pleasant Valley Collectible, Part One* from on the wall of the [rural store at the crossroads](./Thomson%27s%20Crossing.md).
+During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Pleasant Valley Collectible, Part One_ from on the wall of the [rural store at the crossroads](./Thomson%27s%20Crossing.md).
 
 ## Transcript
 
-*The following text is transcribed from **Pleasant Valley Collectible, Part One***
+_The following text is transcribed from **Pleasant Valley Collectible, Part One**_
 
 **This might be our one chance to survive out here, as a community again instead of individual homesteads. The mines aren't producing any more. Timber is plentiful and access is easy. We need those jobs!**
 
@@ -40,5 +35,3 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

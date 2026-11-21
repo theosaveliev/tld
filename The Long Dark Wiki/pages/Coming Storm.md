@@ -1,11 +1,6 @@
----
-title: "Coming Storm"
-wiki_namespace: 0
-categories: ["Episode 3"]
-source: "https://thelongdark.fandom.com/wiki/Coming_Storm"
----
-
 # Coming Storm
+
+**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coming_Storm)
 
 **Contents**
 
@@ -69,7 +64,7 @@ Details can be found on the [Community Hall](./Community%20Hall.md) page.
   - 5 [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) can be found on a fallen tree and right next to it in the river just behind the [Community Hall](./Community%20Hall.md), another 5 are on top of a hill when going straight from the [Community Hall](./Community%20Hall.md) to the fishing hut at [Pensive Pond](./Pensive%20Pond.md), 4 just to the left of the boulder, behind which is the 3rd bunker, and 4 more next to the river/ice crossing (1 on a branch facing away from the road) when following the road behind the church, netting you 6 easy [old man's beard wound dressings](./Old%20Man%27s%20Beard%20Wound%20Dressing.md), this coupled with on average 3-4 antiseptics in the town itself and 1 antiseptic in the 3rd bunker should be sufficient.
 - (x16000) Calories from food or drink
   - Processed foods can be scavenged from buildings and cars
-  - Completing the [*The Big One*](./Tall%20Tales.md) side mission will yield a 3750 calorie fish.
+  - Completing the [_The Big One_](./Tall%20Tales.md) side mission will yield a 3750 calorie fish.
   - A large quantity of [MREs](./Military-Grade%20MRE.md) and canned food can be found inside [Joplin's bunkers](./Joplin%27s%20Bunker%20Raid.md).
   - Meat can be acquired by killing [deer](./Deer.md) or [timberwolves](./Timberwolf.md)
   - Nearly 7000 calories can be accounted for by using [Airline Food](./Airline%20Food%20-%20Chicken.md), recovered during [Fallen Star](./Fallen%20Star.md)

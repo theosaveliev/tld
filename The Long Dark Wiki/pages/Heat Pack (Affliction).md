@@ -1,17 +1,12 @@
----
-title: "Heat Pack (Affliction)"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Heat_Pack_(Affliction)"
----
-
 # Heat Pack \(Affliction\)
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Heat_Pack_%28Affliction%29)
 
 **Heat Pack**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Heat_Pack_%28Affliction%29_icon.png) / *Heat\_Pack\_(Affliction)\_icon.png* |
+|  | ![](../assets/Heat_Pack_%28Affliction%29_icon.png) / _Heat\_Pack\_(Affliction)\_icon.png_ |
 | Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | Update | 2.33 |
 | **Properties** |  |
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/Heat_Pack_(Affliction)"
 | Affliction Duration | 6 Hours |
 | Benefit Duration | Until![Heat\_Pack\_icon.png](../assets/Heat_Pack_icon.png) [Heat Pack](./Heat%20Pack.md) wears off/is dropped |
 
-> “**You feel a gentle, temporary warmth from the Heat Pack tucked into your clothing.**”
+> “__You feel a gentle, temporary warmth from the Heat Pack tucked into your clothing.__”
 >
 > — In-game Description
 
@@ -50,5 +45,3 @@ The Affliction icon is the same as [Warming Up](./Warming%20Up.md).
 
 - UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox**[ru:Тепловой пакет (состояние)](ru:%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82_%28%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5%29)

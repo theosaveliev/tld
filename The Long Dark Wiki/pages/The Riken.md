@@ -1,21 +1,16 @@
----
-title: "The Riken"
-wiki_namespace: 0
-categories: ["Indoor locations", "Industrial locations", "Locations", "Locations in Desolation Point", "Locations with a forge"]
-source: "https://thelongdark.fandom.com/wiki/The_Riken"
----
-
 # The Riken
+
+**Categories:** Indoor locations, Industrial locations, Locations, Locations in Desolation Point, Locations with a forge · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Riken)
 
 **The Riken**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Riken.jpg) / *The\_Riken.jpg* |
+|  | ![](../assets/The_Riken.jpg) / _The\_Riken.jpg_ |
 | **Location** |  |
-|  | ![](../assets/The_Riken_Location.png) / *The\_Riken\_Location.png* |
+|  | ![](../assets/The_Riken_Location.png) / _The\_Riken\_Location.png_ |
 | Region | [Desolation Point](./Desolation%20Point.md)\|- |
 | Description | An old whaling ship |
 | **General** |  |
 | Type | Industrial\|- |
-| ![](../assets/Forge_icon_green.png) / *forge\_icon\_green.png* | Has a forge\|- |
+| ![](../assets/Forge_icon_green.png) / _forge\_icon\_green.png_ | Has a forge\|- |

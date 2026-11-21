@@ -1,11 +1,6 @@
----
-title: "Table"
-wiki_namespace: 0
-categories: ["Interactable Objects", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Table"
----
-
 # Table
+
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Table)
 
 **Contents**
 
@@ -20,9 +15,9 @@ source: "https://thelongdark.fandom.com/wiki/Table"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| Column 1 \| Column 2 \| Column 3 \| Column 4 \| / \| --- \| --- \| --- \| --- \| / \| ![Small](../assets/Small_Table.jpg) / *Small* \| ![Recreation](../assets/Recreation_Table.jpg) / *Recreation* \| ![Broken](../assets/Small_Broken_Table.jpg) / *Broken* \| ![Coffee](../assets/Coffee_Table.jpg) / *Coffee* \| / \| ![Nightstand](../assets/Nightstand_Table.jpg) / *Nightstand* \| ![Medium](../assets/Medium_Table.jpg) / *Medium* \| ![Dining](../assets/Dining_Table.jpg) / *Dining* \|  \| | 250px\]\] |
-| ![Small](../assets/Small_Table.jpg) / *Small* | ![Recreation](../assets/Recreation_Table.jpg) / *Recreation* / ![Broken](../assets/Small_Broken_Table.jpg) / *Broken* / ![Coffee](../assets/Coffee_Table.jpg) / *Coffee* |
-| ![Nightstand](../assets/Nightstand_Table.jpg) / *Nightstand* | ![Medium](../assets/Medium_Table.jpg) / *Medium* / ![Dining](../assets/Dining_Table.jpg) / *Dining* |
+| \[\[File: / ![Small](../assets/Small_Table.jpg) / _Small_ / ![Recreation](../assets/Recreation_Table.jpg) / _Recreation_ / ![Broken](../assets/Small_Broken_Table.jpg) / _Broken_ / ![Coffee](../assets/Coffee_Table.jpg) / _Coffee_ / ![Nightstand](../assets/Nightstand_Table.jpg) / _Nightstand_ / ![Medium](../assets/Medium_Table.jpg) / _Medium_ / ![Dining](../assets/Dining_Table.jpg) / _Dining_ | 250px\]\] |
+| ![Small](../assets/Small_Table.jpg) / _Small_ | ![Recreation](../assets/Recreation_Table.jpg) / _Recreation_ / ![Broken](../assets/Small_Broken_Table.jpg) / _Broken_ / ![Coffee](../assets/Coffee_Table.jpg) / _Coffee_ |
+| ![Nightstand](../assets/Nightstand_Table.jpg) / _Nightstand_ | ![Medium](../assets/Medium_Table.jpg) / _Medium_ / ![Dining](../assets/Dining_Table.jpg) / _Dining_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | Yes\|- / **Statistics** |
@@ -89,5 +84,3 @@ Tables yield 6 reclaimed wood, require a Hatchet to harvest, and take 1.5 hour t
 | 6 | 1 hour 30 minutes | 270 | -2% Hatchet |
 | 6 |  |  | -3% Improvised Hatchet |
 | 6 |  |  | -0.5% Heavy Hammer |
-
-**Lua execution error in Module:Navbox function navbox**

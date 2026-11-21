@@ -1,11 +1,6 @@
----
-title: "Insulated Flask"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Insulated_Flask"
----
-
 # Insulated Flask
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Insulated_Flask)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Insulated_Flask"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Insulated_Flasks_animation.gif) / *Insulated\_Flasks\_animation.gif* |
+|  | ![](../assets/Insulated_Flasks_animation.gif) / _Insulated\_Flasks\_animation.gif_ |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | Wintermute | No |
 | **Properties** |  |
@@ -81,8 +76,8 @@ Typically, only one flask will spawn per region in one of the below locations. A
 
 | Flask Type | Possible Spawn Locations |
 | --- | --- |
-| ![Insulated\_Flask\_(Jackrabbit)\_icon.png](../assets/Insulated_Flask_%28Jackrabbit%29_icon.png) [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) Flask | **Mountain Town** [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md): / - Under the plane behind the cliff / - Inside the floatplane leg at the bottom of the ravine / - Under the plane wing in the ravine / - Inside one of the green [Crates](./Crate.md) in the ravine / - Behind a large [Cedar Limb](./Cedar%20Limb.md) at the bottom of the ravine, near the cave / - Inside the cave at the bottom of the ravine, propped against some rocks in the open / \| Column 1 \| Column 2 \| / \| --- \| --- \| / \| ![Near cave](../assets/Jackrabbit_Flask.webp) / *Near cave* \| ![Under plane near cliff](../assets/Jackrabbit_Flask_2.webp) / *Under plane near cliff* \| |
-| ![Near cave](../assets/Jackrabbit_Flask.webp) / *Near cave* | ![Under plane near cliff](../assets/Jackrabbit_Flask_2.webp) / *Under plane near cliff* |
+| ![Insulated\_Flask\_(Jackrabbit)\_icon.png](../assets/Insulated_Flask_%28Jackrabbit%29_icon.png) [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) Flask | **Mountain Town** [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md): / - Under the plane behind the cliff / - Inside the floatplane leg at the bottom of the ravine / - Under the plane wing in the ravine / - Inside one of the green [Crates](./Crate.md) in the ravine / - Behind a large [Cedar Limb](./Cedar%20Limb.md) at the bottom of the ravine, near the cave / - Inside the cave at the bottom of the ravine, propped against some rocks in the open / ![Near cave](../assets/Jackrabbit_Flask.webp) / _Near cave_ / ![Under plane near cliff](../assets/Jackrabbit_Flask_2.webp) / _Under plane near cliff_ |
+| ![Near cave](../assets/Jackrabbit_Flask.webp) / _Near cave_ | ![Under plane near cliff](../assets/Jackrabbit_Flask_2.webp) / _Under plane near cliff_ |
 | ![Insulated\_Flask\_(orange)\_icon.png](../assets/Insulated_Flask_%28orange%29_icon.png) Orange Flask | **Pleasant Valley** / - On a table at the [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md) / - Hunting Blind south of Signal Hill, opposite cave transition into Winding River / - Hunter's blind west of the access to Timberwolf Mountain / - In the shelter next to the overturned boat in [Thomson's Crossing](./Thomson%27s%20Crossing.md) / - In the ice fishing hut at [Pensive Pond](./Pensive%20Pond.md) / Note: Orange Flask has a chance to spawn in any [Locker](./Locker.md). |
 | ![Insulated\_Flask\_(purple)\_icon.png](../assets/Insulated_Flask_%28purple%29_icon.png) Purple Flask | **Desolation Point** Inside [Riken](./The%20Riken.md): / - Inside lower deck next to some barrels / - Crew quarters / - Kitchen countertop closest to the door / Note: Purple Flask has a chance to spawn in any [Car Trunk](./Car%20Trunk.md). |
 | ![Insulated\_Flask\_(sunburst)\_icon.png](../assets/Insulated_Flask_%28sunburst%29_icon.png) Sunburst Flask | **Timberwolf Mountain** [Tail Section](./Tail%20Section.md): / - Beside a corpse on the [Summit](./Summit.md) / - Behind a cargo container in the [Tail Section](./Tail%20Section.md) / Note: Sunburst Flask has a chance to spawn on any [Corpse](./Corpse.md). |
@@ -115,11 +110,41 @@ The "Sticker" Insulated Flask has many stickers across it depicting [Great Bear 
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Orange](../assets/Insulated_Flask_%28orange%29_icon.png) / *Orange* | ![Purple](../assets/Insulated_Flask_%28purple%29_icon.png) / *Purple* | ![Red Plaid](../assets/Insulated_Flask_%28red_plaid%29_icon.png) / *Red Plaid* | ![Yellow Plaid](../assets/Insulated_Flask_%28yellow_plaid%29_icon.png) / *Yellow Plaid* |
-| ![Sunburst](../assets/Insulated_Flask_%28sunburst%29_icon.png) / *Sunburst* | ![Jackrabbit](../assets/Insulated_Flask_%28Jackrabbit%29_icon.png) / *Jackrabbit* | ![Sticker](../assets/Insulated_Flask_G.png) / *Sticker* | ![The Sticker flask with all the stickers](../assets/GEAR_InsulatedFlask_G.png) / *The Sticker flask with all the stickers* |
-| ![All Flasks with various drinks in front of them](../assets/Insulated_Flasks.png) / *All Flasks with various drinks in front of them* |  |  |  |
+![Orange](../assets/Insulated_Flask_%28orange%29_icon.png)
+
+_Orange_
+
+![Purple](../assets/Insulated_Flask_%28purple%29_icon.png)
+
+_Purple_
+
+![Red Plaid](../assets/Insulated_Flask_%28red_plaid%29_icon.png)
+
+_Red Plaid_
+
+![Yellow Plaid](../assets/Insulated_Flask_%28yellow_plaid%29_icon.png)
+
+_Yellow Plaid_
+
+![Sunburst](../assets/Insulated_Flask_%28sunburst%29_icon.png)
+
+_Sunburst_
+
+![Jackrabbit](../assets/Insulated_Flask_%28Jackrabbit%29_icon.png)
+
+_Jackrabbit_
+
+![Sticker](../assets/Insulated_Flask_G.png)
+
+_Sticker_
+
+![The Sticker flask with all the stickers](../assets/GEAR_InsulatedFlask_G.png)
+
+_The Sticker flask with all the stickers_
+
+![All Flasks with various drinks in front of them](../assets/Insulated_Flasks.png)
+
+_All Flasks with various drinks in front of them_
 
 ## Achievements
 
@@ -131,8 +156,6 @@ The "Sticker" Insulated Flask has many stickers across it depicting [Great Bear 
   - Added to game.
 - UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33_%28Steam%29)):**
   - Added a 7th variant from the [Trader](./Trader.md).
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Термос](ru:%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D1%81)
 

@@ -1,17 +1,12 @@
----
-title: "Trash Can Letter"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Trash_Can_Letter"
----
-
 # Trash Can Letter
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trash_Can_Letter)
 
 **Trash Can Letter**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Trash_Can_Letter_icon.png) / *Trash\_Can\_Letter\_icon.png* |
+|  | ![](../assets/Trash_Can_Letter_icon.png) / _Trash\_Can\_Letter\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Trash_Can_Letter"
 
 ## Transcript
 
-*The following text is transcribed from **Trash Can Letter***
+_The following text is transcribed from **Trash Can Letter**_
 
 **"I'm so \*\*\*\*ed off at you. You told me the Forest Talkers were legit and that we'd be doing "good work" out here. All I've seen is a ragtag bunch of dumbies who are disorganized and have no plan. It's way too cold to be out here this time of year, and the wildlife -- I mean, you didn't tell me there would be \*actual\* wolves out here. This is crazy. You can hear them outside at night, howling. It's making me crazy. What are we doing out here? People said Great Bear was hit hard by the quakes but man, I had no idea it was so tuck in the...dark ages. You owe big time for bringing those supplies, and if the weather doesn't warm up soon, I'm outta here, and you will not be seeing me again any time soon."**
 
@@ -36,5 +31,3 @@ source: "https://thelongdark.fandom.com/wiki/Trash_Can_Letter"
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

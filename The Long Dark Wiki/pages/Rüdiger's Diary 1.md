@@ -1,17 +1,12 @@
----
-title: "Rüdiger's Diary 1"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_1"
----
-
 # Rüdiger's Diary 1
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_1)
 
 **Rüdiger's Diary 1**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/R%C3%BCdiger%27s_Diary_1_icon.png) / *Rüdiger's\_Diary\_1\_icon.png* |
+|  | ![](../assets/R%C3%BCdiger%27s_Diary_1_icon.png) / _Rüdiger's\_Diary\_1\_icon.png_ |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Wintermute | No |
 | **Properties** |  |
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_1"
 
 ## Transcript
 
-*The following text is transcribed from **Rüdiger's Diary 1***
+_The following text is transcribed from **Rüdiger's Diary 1**_
 
 **Someone is stalking me.
 
@@ -47,7 +42,5 @@ I must. Get. Higher.**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Дневник Рюдигера 1](ru:%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D0%A0%D1%8E%D0%B4%D0%B8%D0%B3%D0%B5%D1%80%D0%B0_1)

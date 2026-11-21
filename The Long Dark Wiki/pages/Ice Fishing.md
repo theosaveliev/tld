@@ -1,11 +1,6 @@
----
-title: "Ice Fishing"
-wiki_namespace: 0
-categories: ["Skills"]
-source: "https://thelongdark.fandom.com/wiki/Ice_Fishing"
----
-
 # Ice Fishing
+
+**Categories:** Skills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ice_Fishing)
 
 **Contents**
 
@@ -27,15 +22,15 @@ source: "https://thelongdark.fandom.com/wiki/Ice_Fishing"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Ice_Fishing_background.png) / *Ice\_Fishing\_background.png* |
+|  | ![](../assets/Ice_Fishing_background.png) / _Ice\_Fishing\_background.png_ |
 | Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
 | Date | 23 June 2016 |
 
-![Ice\_Fishing.png](../assets/Ice_Fishing.png) **Ice Fishing** is the [Skill](./Skills.md) to catch fish in *The Long Dark*. It is performed at fishing holes, which are cut in the ice of fish-bearing bodies of water.
+![Ice\_Fishing.png](../assets/Ice_Fishing.png) **Ice Fishing** is the [Skill](./Skills.md) to catch fish in _The Long Dark_. It is performed at fishing holes, which are cut in the ice of fish-bearing bodies of water.
 
 ## Overview
 
-![A fishing hut is one of the safest and simplest locations to ice fish.](../assets/Fishing_hut_outside.jpg)*A fishing hut is one of the safest and simplest locations to ice fish.* Ice Fishing is the skill to catch fish for [food](./Food%20And%20Drink.md), [lantern oil](./Lantern%20Fuel.md) and source renewable Vitamin-C to avoid [Scurvy](./Scurvy.md). It is performed at any fish-bearing body of water, at hole(s) cut in its ice. These holes are found inside all Fishing Huts, and can also be made manually with any Tool (via the [Radial Menu](./Radial%20Menu.md)). The Survivor can fish manually with a [Fishing Tackle](./Fishing%20Tackle.md), or semi-automatically with [Fishing Tip-Ups](./Fishing%20Tip-Up.md) (crafted fish traps). When choosing to fish the survivor can select to use bait, lures and how long to fish for. While fishing time is accelerated, and the task may be canceled early (ESC or "Cancel").
+![A fishing hut is one of the safest and simplest locations to ice fish.](../assets/Fishing_hut_outside.jpg)_A fishing hut is one of the safest and simplest locations to ice fish._ Ice Fishing is the skill to catch fish for [food](./Food%20And%20Drink.md), [lantern oil](./Lantern%20Fuel.md) and source renewable Vitamin-C to avoid [Scurvy](./Scurvy.md). It is performed at any fish-bearing body of water, at hole(s) cut in its ice. These holes are found inside all Fishing Huts, and can also be made manually with any Tool (via the [Radial Menu](./Radial%20Menu.md)). The Survivor can fish manually with a [Fishing Tackle](./Fishing%20Tackle.md), or semi-automatically with [Fishing Tip-Ups](./Fishing%20Tip-Up.md) (crafted fish traps). When choosing to fish the survivor can select to use bait, lures and how long to fish for. While fishing time is accelerated, and the task may be canceled early (ESC or "Cancel").
 
 There are two methods of Ice Fishing:
 
@@ -64,17 +59,17 @@ There are two types of fish: saltwater and freshwater, and four rarity: common, 
 
 | Image | Name | Rarity | Type | Minimum weight | Maximum weight | Raw caloric density | Fuel ¹ | Odds |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Lake_Whitefish_%28Raw%29_icon.png) / *Lake\_Whitefish\_(Raw)\_icon.png* | [Lake Whitefish](./Lake%20Whitefish%20%28Raw%29.md) | Common | Fresh water | 1.50 kg / *(3.3 lb)* | 2.30 kg / *(5.06 lb)* | 250 cal/kg | 0.015 L/kg | 70 |
-| ![](../assets/Rainbow_Trout_%28Raw%29_icon.png) / *Rainbow\_Trout\_(Raw)\_icon.png* | [Rainbow Trout](./Rainbow%20Trout%20%28Raw%29.md) | Common | Salt water | 0.50 kg / *(1.1 lb)* | 2.30 kg / *(5.06 lb)* | 250 cal/kg | 0.025 L/kg | 70 |
-| ![](../assets/Coho_Salmon_%28Raw%29_icon.png) / *Coho\_Salmon\_(Raw)\_icon.png* | [Coho Salmon](./Coho%20Salmon%20%28Raw%29.md) | Uncommon | Salt water | 2.80 kg / *(6.16 lb)* | 5.50 kg / *(12.1 lb)* | 300 cal/kg | 0.032 L/kg | 30 |
-| ![](../assets/Smallmouth_Bass_%28Raw%29_icon.png) / *Smallmouth\_Bass\_(Raw)\_icon.png* | [Smallmouth Bass](./Smallmouth%20Bass%20%28Raw%29.md) | Uncommon | Fresh water | 1.80 kg / *(3.96 lb)* | 5.00 kg / *(11 lb)* | 300 cal/kg | 0.025 L/kg | 30 |
-| ![](../assets/Goldeye_icon.png) / *Goldeye\_icon.png* | [Goldeye](./Goldeye%20%28Raw%29.md) | Rare | Fresh water | 0.50 kg / *(1.1 lb)* | 2.10 kg / *(4.62 lb)* | 300 cal/kg | 0.015 L/kg | 5 |
-| ![](../assets/Burbot_icon.png) / *Burbot\_icon.png* | [Burbot](./Burbot%20%28Raw%29.md) | Rare | Fresh water | 3.90 kg / *(8.58 lb)* | 6.00 kg / *(13.2 lb)* | 325 cal/kg | 0.030 L/kg | 2 |
-| ![](../assets/Rockfish_icon.png) / *Rockfish\_icon.png* | [Rockfish](./Rockfish%20%28Raw%29.md) | Rare | Salt water | 1.80 kg / *(3.96 lb)* | 5.00 kg / *(11 lb)* | 300 cal/kg | 0.025 L/kg | 5 |
-| ![](../assets/Red_Irish_Lord_icon.png) / *Red\_Irish\_Lord\_icon.png* | [Red Irish Lord](./Red%20Irish%20Lord%20%28Raw%29.md) | Rare | Salt water | 1.50 kg / *(3.3 lb)* | 3.10 kg / *(6.82 lb)* | 300 cal/kg | 0.020 L/kg | 2 |
-| ![](../assets/Big_Bass_%28Raw%29_icon.png) / *Big\_Bass\_(Raw)\_icon.png* | *[Big Bass\*](./Big%20Bass%20%28Raw%29.md)* | Unique | Fresh water | 15.00 kg / *(33 lb)* | 15.00 kg / *(33 lb)* | 300 cal/kg | 0.37L | Scripted |
+| ![](../assets/Lake_Whitefish_%28Raw%29_icon.png) / _Lake\_Whitefish\_(Raw)\_icon.png_ | [Lake Whitefish](./Lake%20Whitefish%20%28Raw%29.md) | Common | Fresh water | 1.50 kg / _(3.3 lb)_ | 2.30 kg / _(5.06 lb)_ | 250 cal/kg | 0.015 L/kg | 70 |
+| ![](../assets/Rainbow_Trout_%28Raw%29_icon.png) / _Rainbow\_Trout\_(Raw)\_icon.png_ | [Rainbow Trout](./Rainbow%20Trout%20%28Raw%29.md) | Common | Salt water | 0.50 kg / _(1.1 lb)_ | 2.30 kg / _(5.06 lb)_ | 250 cal/kg | 0.025 L/kg | 70 |
+| ![](../assets/Coho_Salmon_%28Raw%29_icon.png) / _Coho\_Salmon\_(Raw)\_icon.png_ | [Coho Salmon](./Coho%20Salmon%20%28Raw%29.md) | Uncommon | Salt water | 2.80 kg / _(6.16 lb)_ | 5.50 kg / _(12.1 lb)_ | 300 cal/kg | 0.032 L/kg | 30 |
+| ![](../assets/Smallmouth_Bass_%28Raw%29_icon.png) / _Smallmouth\_Bass\_(Raw)\_icon.png_ | [Smallmouth Bass](./Smallmouth%20Bass%20%28Raw%29.md) | Uncommon | Fresh water | 1.80 kg / _(3.96 lb)_ | 5.00 kg / _(11 lb)_ | 300 cal/kg | 0.025 L/kg | 30 |
+| ![](../assets/Goldeye_icon.png) / _Goldeye\_icon.png_ | [Goldeye](./Goldeye%20%28Raw%29.md) | Rare | Fresh water | 0.50 kg / _(1.1 lb)_ | 2.10 kg / _(4.62 lb)_ | 300 cal/kg | 0.015 L/kg | 5 |
+| ![](../assets/Burbot_icon.png) / _Burbot\_icon.png_ | [Burbot](./Burbot%20%28Raw%29.md) | Rare | Fresh water | 3.90 kg / _(8.58 lb)_ | 6.00 kg / _(13.2 lb)_ | 325 cal/kg | 0.030 L/kg | 2 |
+| ![](../assets/Rockfish_icon.png) / _Rockfish\_icon.png_ | [Rockfish](./Rockfish%20%28Raw%29.md) | Rare | Salt water | 1.80 kg / _(3.96 lb)_ | 5.00 kg / _(11 lb)_ | 300 cal/kg | 0.025 L/kg | 5 |
+| ![](../assets/Red_Irish_Lord_icon.png) / _Red\_Irish\_Lord\_icon.png_ | [Red Irish Lord](./Red%20Irish%20Lord%20%28Raw%29.md) | Rare | Salt water | 1.50 kg / _(3.3 lb)_ | 3.10 kg / _(6.82 lb)_ | 300 cal/kg | 0.020 L/kg | 2 |
+| ![](../assets/Big_Bass_%28Raw%29_icon.png) / _Big\_Bass\_(Raw)\_icon.png_ | _[Big Bass\*](./Big%20Bass%20%28Raw%29.md)_ | Unique | Fresh water | 15.00 kg / _(33 lb)_ | 15.00 kg / _(33 lb)_ | 300 cal/kg | 0.37L | Scripted |
 
-*\*Big Bass is found only in Wintermute*
+_\*Big Bass is found only in Wintermute_
 
 ¹ Amount Oil / Latern Fuel gained when fish is cooked. Source: Detailed analysis by Bashrobe, [https://www.youtube.com/watch?v=l8BIygi4K\_k&amp;t=174s](https://www.youtube.com/watch?v=l8BIygi4K_k&t=174s)
 
@@ -94,14 +89,14 @@ Tip: On PC, pressing Enter also acts as clicking the Break Ice button.
 
 | Tool | Break rate / (minutes to clear ice) | Tool decay |  |
 | --- | --- | --- | --- |
-| ![](../assets/Prybar_icon.png) / *Prybar\_icon.png* | [Prybar](./Prybar.md) | 45.0 min | 2.0% |
-| ![](../assets/Heavy_Hammer_icon.png) / *Heavy\_Hammer\_icon.png* | [Heavy Hammer](./Heavy%20Hammer.md) | 45.0 min | 2.0% |
-| ![](../assets/Hatchet_icon.png) / *Hatchet\_icon.png* | [Hatchet](./Hatchet.md) | 20.0 min | 5.0% |
-| ![](../assets/Hunting_Knife_icon.png) / *Hunting\_Knife\_icon.png* | [Hunting Knife](./Hunting%20Knife.md) | 40.0 min | 5.0% |
-| ![](../assets/Improvised_Hatchet_icon.png) / *Improvised\_Hatchet\_icon.png* | [Improvised Hatchet](./Improvised%20Hatchet.md) | 30.0 min | 10.0% |
-| ![](../assets/Improvised_Knife_icon.png) / *Improvised\_Knife\_icon.png* | [Improvised Knife](./Improvised%20Knife.md) | 50.0 min | 8.0% |
-| ![](../assets/Cougar_Claw_Knife_icon.png) / *Cougar\_Claw\_Knife\_icon.png* | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | 40.0 min | 5.0% |
-| ![](../assets/Survival_Knife_icon.png) / *Survival\_Knife\_icon.png* | [Survival Knife](./Survival%20Knife.md) | 40.0 min | 2.5% |
+| ![](../assets/Prybar_icon.png) / _Prybar\_icon.png_ | [Prybar](./Prybar.md) | 45.0 min | 2.0% |
+| ![](../assets/Heavy_Hammer_icon.png) / _Heavy\_Hammer\_icon.png_ | [Heavy Hammer](./Heavy%20Hammer.md) | 45.0 min | 2.0% |
+| ![](../assets/Hatchet_icon.png) / _Hatchet\_icon.png_ | [Hatchet](./Hatchet.md) | 20.0 min | 5.0% |
+| ![](../assets/Hunting_Knife_icon.png) / _Hunting\_Knife\_icon.png_ | [Hunting Knife](./Hunting%20Knife.md) | 40.0 min | 5.0% |
+| ![](../assets/Improvised_Hatchet_icon.png) / _Improvised\_Hatchet\_icon.png_ | [Improvised Hatchet](./Improvised%20Hatchet.md) | 30.0 min | 10.0% |
+| ![](../assets/Improvised_Knife_icon.png) / _Improvised\_Knife\_icon.png_ | [Improvised Knife](./Improvised%20Knife.md) | 50.0 min | 8.0% |
+| ![](../assets/Cougar_Claw_Knife_icon.png) / _Cougar\_Claw\_Knife\_icon.png_ | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | 40.0 min | 5.0% |
+| ![](../assets/Survival_Knife_icon.png) / _Survival\_Knife\_icon.png_ | [Survival Knife](./Survival%20Knife.md) | 40.0 min | 2.5% |
 
 ### Fishing Tip-Ups
 
@@ -121,10 +116,10 @@ Any number of Tip-Ups may be deployed in a region, but deploying more than 6 per
 
 | Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Simple_Fishing_Lure_icon.png) / *Simple\_Fishing\_Lure\_icon.png* | [Simple Fishing Lure](./Simple%20Fishing%20Lure.md) | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
-| ![](../assets/Fishing_Lure_%28Acorns%29_icon.png) / *Fishing\_Lure\_(Acorns)\_icon.png* | [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | +800% | +50% | - 1 [Acorns](./Acorns.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
-| ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) / *Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png* | [Fishing Lure (Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
-| ![](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) / *Fishing\_Lure\_(Wire\_Bundle)\_icon.png* | [Fishing Lure (Wire)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | +1000% | +75% | - 1 [Wire Bundle](./Wires.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| ![](../assets/Simple_Fishing_Lure_icon.png) / _Simple\_Fishing\_Lure\_icon.png_ | [Simple Fishing Lure](./Simple%20Fishing%20Lure.md) | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
+| ![](../assets/Fishing_Lure_%28Acorns%29_icon.png) / _Fishing\_Lure\_(Acorns)\_icon.png_ | [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | +800% | +50% | - 1 [Acorns](./Acorns.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) / _Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_ | [Fishing Lure (Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| ![](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) / _Fishing\_Lure\_(Wire\_Bundle)\_icon.png_ | [Fishing Lure (Wire)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | +1000% | +75% | - 1 [Wire Bundle](./Wires.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
 
 ## Fishing Holes
 
@@ -152,7 +147,7 @@ All fishing holes inside Fishing Huts are more efficient than survivor-made ones
 
 ![](../assets/Free_Form_Fishing_Hole_icon.png)
 
-*Free\_Form\_Fishing\_Hole\_icon.png*
+_Free\_Form\_Fishing\_Hole\_icon.png_
 
 The survivor can cut holes in the ice to fish from with any tool on fishable ice (deep blue ice, not white ice). Without a Fishing Hut for protection, fishing manually at a cut hole runs the risk of exposure or wildlife attacks. It is also impossible to place holes in areas designated as Weak Ice areas. Cutting Ice Fishing Holes was added as part of the free update for Part 3 of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).
 
@@ -196,13 +191,13 @@ Free-Formed ice fishing holes will disappear if left to freeze back to 100% unle
 
 ![The Free Form Ice Fishing spots on the river in Pleasant Valley](../assets/Pleasant_Valley_Ice_Fishing_Spots.jpg)
 
-*The Free Form Ice Fishing spots on the river in Pleasant Valley*
+_The Free Form Ice Fishing spots on the river in Pleasant Valley_
 
 ## Skill Levels
 
 Players can increase their Ice Fishing skill by catching any fish.
 
-A limited increase can be obtained from the [Research Book](./Research%20Book.md) *[The Frozen Angler](./The%20Frozen%20Angler.md)*, which increases the Ice Fishing by 10 skill points with 5 hours of research. This means that you can reach level 2 directly by reading your first book.
+A limited increase can be obtained from the [Research Book](./Research%20Book.md) _[The Frozen Angler](./The%20Frozen%20Angler.md)_, which increases the Ice Fishing by 10 skill points with 5 hours of research. This means that you can reach level 2 directly by reading your first book.
 
 &lt;table-progress-tracking table-id="3" unique-column-index="1"&gt;
 
@@ -223,5 +218,3 @@ A limited increase can be obtained from the [Research Book](./Research%20Book.md
 - Common fish provide more Vitamin-C per kg than uncommon fish, however, rare fish never contain Vitamin-C.
 - Fish have a much poorer calories:weight ratio than other meat types, especially while raw. Cooking improves this rate, but even Rabbit/Ptarmigan meat is more efficient for travel food.
 - Three recipes use fish: [Trout Stew](./Trout%20Stew.md), [Dockworker's Pie](./Dockworker%27s%20Pie.md) and [Coastal Fishcakes](./Coastal%20Fishcakes.md).
-
-**Lua execution error in Module:Navbox function navbox**[ru:Рыбалка](ru:%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0) [fr:Pêche sur glace](fr:P%C3%AAche_sur_glace)

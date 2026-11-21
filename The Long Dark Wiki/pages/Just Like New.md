@@ -1,20 +1,15 @@
----
-title: "Just Like New"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Just_Like_New"
----
-
 # Just Like New
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Just_Like_New)
 
 **Just Like New**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Just_Like_New_icon.png) / *Just\_Like\_New\_icon.png* |
+|  | ![](../assets/Just_Like_New_icon.png) / _Just\_Like\_New\_icon.png_ |
 | Description | Sabotage the Locking Mechanism. |
 
-**Just Like New** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Just Like New** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -26,5 +21,3 @@ Navigate the [Steam Tunnels](./Steam%20Tunnels.md) and "fix" the locking mechani
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

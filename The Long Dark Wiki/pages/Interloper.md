@@ -1,10 +1,6 @@
----
-title: "Interloper"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Interloper"
----
-
 # Interloper
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Interloper)
 
 **Contents**
 
@@ -26,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Interloper"
 - [Starting spawn location](#starting-spawn-location)
 - [Game Settings](#game-settings)
 
-![Interloper\_icon.png](../assets/Interloper_icon.png){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **You are not part of Mother Nature's plan, and you will bear the full force of her wrath. The true test of Human VS Nature.** | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Interloper** is the 4th [Survival Mode](./Survival%20Mode.md) Experience in *[The Long Dark](./The%20Long%20Dark.md)*. It is the standard "expert" difficulty setting, being a major departure from the previous 3 Experiences by introducing multiple handicaps to make the game even harder than normal.
+![Interloper\_icon.png](../assets/Interloper_icon.png){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __You are not part of Mother Nature's plan, and you will bear the full force of her wrath. The true test of Human VS Nature.__ | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Interloper** is the 4th [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. It is the standard "expert" difficulty setting, being a major departure from the previous 3 Experiences by introducing multiple handicaps to make the game even harder than normal.
 
 ## Overview
 
@@ -34,7 +30,7 @@ Interloper doesn't just raise the difficulty of [Stalker](./Stalker.md) to the n
 
 Interloper's learning curve is a sharp one, forcing players to relearn how to survive by using more advanced game mechanics, such as [Daisy Chaining](./Daisy%20Chaining.md), [Hibernation](./Hibernation.md), [Mountain Goating](./Mountain%20Goating.md), and [Beachcombing](./Beachcombing.md).
 
-*A guide for players new to Interloper can be found [here](./Survival%20Mode%20%E2%80%94%20Interloper%20Tips.md).*
+_A guide for players new to Interloper can be found [here](./Survival%20Mode%20%E2%80%94%20Interloper%20Tips.md)._
 
 ## Interloper Settings
 
@@ -53,7 +49,7 @@ Interloper's learning curve is a sharp one, forcing players to relearn how to su
     - [Coastal Townsite](./Coastal%20Townsite.md): Of the 11 houses in the town, only 2 will be standing (the one on the hill outside of town will also be destroyed). The [Quonset Garage](./Quonset%20Garage.md) will always be intact.
     - [Fishing Camp](./Fishing%20Camp.md): The Cabin with the [Work Bench](./Work%20Bench.md) and [Buffer Memory](./Buffer%20Memories.md) laptop is usually destroyed (the same Buffer Memory laptop will appear inside the [Rabbit Grove](./Rabbit%20Grove.md) Cabin instead).
     - [Log Sort](./Log%20Sort.md): The house near the shed and trailer will always be ruined (the trailer can still be used).
-    - [Waterfront Cottages](./Waterfront%20Cottages.md): The 3 houses here ***always*** spawn as ruined houses.
+    - [Waterfront Cottages](./Waterfront%20Cottages.md): The 3 houses here **_always_** spawn as ruined houses.
 - [Needs](./Needs.md) erode very quickly.
 - Starting equipment is a [Recycled Can](./Recycled%20Can.md) and an incomplete set of low-quality clothing (head and hands will always be exposed).
 - Game will start outdoors. Chance to spawn at night.
@@ -245,5 +241,3 @@ The player cannot select which region they will spawn in. Instead, the game will
 | Struggle condition damage modifier | High |
 | Struggle clothing damage modifier | High |
 | Struggle damage severity | Very High |
-
-**Lua execution error in Module:Navbox function navbox**

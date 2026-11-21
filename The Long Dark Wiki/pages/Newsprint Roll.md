@@ -1,11 +1,6 @@
----
-title: "Newsprint Roll"
-wiki_namespace: 0
-categories: ["Fire Starting"]
-source: "https://thelongdark.fandom.com/wiki/Newsprint_Roll"
----
-
 # Newsprint Roll
+
+**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Newsprint_Roll)
 
 **Contents**
 
@@ -18,14 +13,14 @@ source: "https://thelongdark.fandom.com/wiki/Newsprint_Roll"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Newsprint_Roll_icon.png) / *Newsprint\_Roll\_icon.png* |
+|  | ![](../assets/Newsprint_Roll_icon.png) / _Newsprint\_Roll\_icon.png_ |
 | **General** |  |
 | Item Type | Fire Starting\|- |
 | Firestarting Slot | Tinder |
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 
-> “**Newsprint Roll. Can be used as tinder.**”
+> “__Newsprint Roll. Can be used as tinder.__”
 >
 > — In-game description
 
@@ -48,8 +43,6 @@ Like all other types of tinder, it does not increase the chance to successfully 
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Newsprint_roll.png) / *Old model.* |
+![Old model.](../assets/Newsprint_roll.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Газетный рулон](ru:%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D1%80%D1%83%D0%BB%D0%BE%D0%BD)
+_Old model._

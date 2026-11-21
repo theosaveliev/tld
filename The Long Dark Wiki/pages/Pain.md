@@ -1,17 +1,12 @@
----
-title: "Pain"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Pain"
----
-
 # Pain
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pain)
 
 **Pain**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Pain_icon.png) / *Pain\_icon.png* |
+|  | ![](../assets/Pain_icon.png) / _Pain\_icon.png_ |
 | Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48) |
 | Update | 1.48 |
 | **Properties** |  |
@@ -26,7 +21,7 @@ source: "https://thelongdark.fandom.com/wiki/Pain"
 | Alternate Treatment | 1 x ![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md) |
 | Recovery Time | 20 min - 1 hour (untreated) |
 
-> “**You are suffering from the pain of an injury, causing blurred vision and discomfort. Treat it, or let it heal on its own over time.**”
+> “__You are suffering from the pain of an injury, causing blurred vision and discomfort. Treat it, or let it heal on its own over time.__”
 >
 > — In-game description
 
@@ -37,5 +32,3 @@ Pain is a negative affliction introduced in the [Steadfast Ranger](https://hinte
 While in effect, Pain causes the player's vision to blur slightly around the edges, and will also distort sounds. Pain can be cured immediately with two [Painkillers](./Painkillers.md) or one [Rose Hip Tea](./Rose%20Hip%20Tea.md). Left untreated, Pain will simply heal on its own after four hours.
 
 Because its only negative impact on actual gameplay is an inability to read [Research Books](./Research%20Book.md), treating Pain with [First Aid](./First%20Aid.md) can be a potentially wasteful decision; Painkillers and Rose Hip Tea can be used to greater effect by treating [Burns](./Burns.md) or [Broken Ribs](./Broken%20Ribs.md).
-
-**Lua execution error in Module:Navbox function navbox**

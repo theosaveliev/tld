@@ -1,17 +1,12 @@
----
-title: "Running Shoes"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Running_Shoes"
----
-
 # Running Shoes
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Running_Shoes)
 
 **Running Shoes**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Running_Shoes_icon.png) / *Running\_Shoes\_icon.png* |
+|  | ![](../assets/Running_Shoes_icon.png) / _Running\_Shoes\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
@@ -26,11 +21,11 @@ source: "https://thelongdark.fandom.com/wiki/Running_Shoes"
 | Harvest | 2 × [Cured leather](./Cured%20Leather.md) / 75 minutes |
 | Repair | 1 × [Cured leather](./Cured%20Leather.md), 1 [Cloth](./Cloth.md) / 90 minutes / 20% condition |
 
-> “**Light nylon shoes designed to feel weightless. Better than running around barefoot but ... not much.**”
+> “__Light nylon shoes designed to feel weightless. Better than running around barefoot but ... not much.__”
 >
 > — In-game description
 
-**Running Shoes** are a type of [footwear](./Clothing.md) in *The Long Dark*.
+**Running Shoes** are a type of [footwear](./Clothing.md) in _The Long Dark_.
 
 ## Overview
 
@@ -38,13 +33,19 @@ The running shoes are a common starting item. They're lightweight, but they don'
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Old model.](../assets/Sneakers.png) / *Old model.* | ![Clothing model icon](../assets/Running_Shoes_Model_icon.png) / *Clothing model icon* | ![Clothing model icon](../assets/Running_Shoes_Model_Damaged_icon.png) / *Clothing model icon* |
+![Old model.](../assets/Sneakers.png)
+
+_Old model._
+
+![Clothing model icon](../assets/Running_Shoes_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon](../assets/Running_Shoes_Model_Damaged_icon.png)
+
+_Clothing model icon_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
-  - Renamed from *Sneakers* to *Running Shoes*
-
-**Lua execution error in Module:Navbox function navbox** [ru:Кроссовки](ru:%D0%9A%D1%80%D0%BE%D1%81%D1%81%D0%BE%D0%B2%D0%BA%D0%B8)
+  - Renamed from _Sneakers_ to _Running Shoes_

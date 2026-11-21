@@ -1,11 +1,6 @@
----
-title: "Tin of Coffee"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Tin_of_Coffee"
----
-
 # Tin of Coffee
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tin_of_Coffee)
 
 **Contents**
 
@@ -14,13 +9,13 @@ source: "https://thelongdark.fandom.com/wiki/Tin_of_Coffee"
 - [Update history](#update-history)
 - [Gallery](#gallery)
 
-*For the consumable item, see [Cup of Coffee](./Cup%20of%20Coffee.md).*
+_For the consumable item, see [Cup of Coffee](./Cup%20of%20Coffee.md)._
 
 **Tin of Coffee**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Tin_of_Coffee_icon.png) / *Tin\_of\_Coffee\_icon.png* |
+|  | ![](../assets/Tin_of_Coffee_icon.png) / _Tin\_of\_Coffee\_icon.png_ |
 | Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
@@ -66,13 +61,15 @@ Coffee is a renewable resource since the introduction of the [Trader](./Trader.m
 
 ==Trivia==
 
-- The tin is branded as *Big Moose Kicks Coffee*.
+- The tin is branded as _Big Moose Kicks Coffee_.
 - The back of the tin lists "Ingredients: Coffee Beans" and "Product of Canada."
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Pre-Alpha model (Historic)](../assets/Tin_of_coffee.png) / *Pre-Alpha model (Historic)* | ![The real world Coffee Tin Cup released by Hinterland](../assets/Moose_Mug_Coffee_Real.webp) / *The real world Coffee Tin Cup released by Hinterland* |
+![Pre-Alpha model (Historic)](../assets/Tin_of_coffee.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Банка кофе](ru:%D0%91%D0%B0%D0%BD%D0%BA%D0%B0_%D0%BA%D0%BE%D1%84%D0%B5)
+_Pre-Alpha model (Historic)_
+
+![The real world Coffee Tin Cup released by Hinterland](../assets/Moose_Mug_Coffee_Real.webp)
+
+_The real world Coffee Tin Cup released by Hinterland_

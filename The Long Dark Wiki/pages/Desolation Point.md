@@ -1,11 +1,6 @@
----
-title: "Desolation Point"
-wiki_namespace: 0
-categories: ["Regions"]
-source: "https://thelongdark.fandom.com/wiki/Desolation_Point"
----
-
 # Desolation Point
+
+**Categories:** Regions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Desolation_Point)
 
 **Contents**
 
@@ -29,10 +24,10 @@ source: "https://thelongdark.fandom.com/wiki/Desolation_Point"
 
 | Property | Details |
 | --- | --- |
-|  | ![Desolation Point's Lonely Lighthouse.](../assets/Desolation_Point_title_card.png) / *Desolation Point's Lonely Lighthouse.* |
+|  | ![Desolation Point's Lonely Lighthouse.](../assets/Desolation_Point_title_card.png) / _Desolation Point's Lonely Lighthouse._ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Desolation_Point_Location.png) / *Desolation\_Point\_Location.png* |
-|  | ![](../assets/Desolation_point_map.png) / *Desolation\_point\_map.png* |
+|  | ![](../assets/Desolation_Point_Location.png) / _Desolation\_Point\_Location.png_ |
+|  | ![](../assets/Desolation_point_map.png) / _Desolation\_point\_map.png_ |
 | **Details** |  |
 | Description | A desolate coastal region with the remnants of an old whaling industry. |
 | Connecting Regions | [Coastal Highway](./Coastal%20Highway.md) (via [Old Island Connector](./Crumbling%20Highway.md)) |
@@ -43,11 +38,11 @@ source: "https://thelongdark.fandom.com/wiki/Desolation_Point"
 | Cougar Spawn? | No |
 | Date Added | Sept 2015 |
 
-> “**For intermediate players. Several key shelters, plenty of hostile wildlife, and harsh weather conditions to be found around these remnants of a once-thriving whaling industry.**”
+> “__For intermediate players. Several key shelters, plenty of hostile wildlife, and harsh weather conditions to be found around these remnants of a once-thriving whaling industry.__”
 >
 > — - In game description
 
-**Desolation Point** is 4th [Region](./Region.md) released for *[The Long Dark](./The%20Long%20Dark.md)*.
+**Desolation Point** is 4th [Region](./Region.md) released for _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -123,28 +118,105 @@ The ship's uppermost deck can serve as a vantage point to look for and/or hunt [
 
 ### Maps
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Desolation Point map v2.35](../assets/Desolation_Point.jpg) / *Desolation Point map v2.35* | ![Desolation Point map v2.35 (Interloper-Misery)](../assets/DP_Map_loper.jpg) / *Desolation Point map v2.35 (Interloper-Misery)* | ![Desolation Point map v1.93](../assets/Map-DP-Lv3-v193-101.png) / *Desolation Point map v1.93* | ![Desolation Point map (old)](../assets/Desolation_Point_map_by_whiteberry-toarda.png) / *Desolation Point map (old)* |
-| ![In-game charcoal map](../assets/Desolation_point_map.png) / *In-game charcoal map* |  |  |  |
+![Desolation Point map v2.35](../assets/Desolation_Point.jpg)
+
+_Desolation Point map v2.35_
+
+![Desolation Point map v2.35 (Interloper-Misery)](../assets/DP_Map_loper.jpg)
+
+_Desolation Point map v2.35 (Interloper-Misery)_
+
+![Desolation Point map v1.93](../assets/Map-DP-Lv3-v193-101.png)
+
+_Desolation Point map v1.93_
+
+![Desolation Point map (old)](../assets/Desolation_Point_map_by_whiteberry-toarda.png)
+
+_Desolation Point map (old)_
+
+![In-game charcoal map](../assets/Desolation_point_map.png)
+
+_In-game charcoal map_
 
 ### Locations
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![](../assets/Abandoned_Mine_No.3_%28East_Access%29.jpg) / *Abandoned\_Mine\_No.3\_(East\_Access).jpg* | ![](../assets/Abandoned_Mine_No.5_%28West_Access%29.jpg) / *Abandoned\_Mine\_No.5\_(West\_Access).jpg* | ![](../assets/Broken_Bridge.jpg) / *Broken\_Bridge.jpg* | ![](../assets/Blocked_Highway.jpg) / *Blocked\_Highway.jpg* |
-| ![](../assets/Cave_in_Desolation_Point_interior_entrance.jpg) / *Cave\_in\_Desolation\_Point\_interior\_entrance.jpg* | ![](../assets/Hibernia_Processing_Area_View_01.jpg) / *Hibernia\_Processing\_Area\_View\_01.jpg* | ![](../assets/Katie%27s_secluded_corner.jpg) / *Katie's\_secluded\_corner.jpg* | ![](../assets/Little_Island_01.jpg) / *Little\_Island\_01.jpg* |
-| ![](../assets/Lonely_Lighthouse.jpg) / *Lonely\_Lighthouse.jpg* | ![](../assets/Matt%27s_Truck.jpg) / *Matt's\_Truck.jpg* | ![](../assets/Stone_Church.jpg) / *Stone\_Church.jpg* | ![](../assets/The_Riken.jpg) / *The\_Riken.jpg* |
-| ![](../assets/Waterfall.jpg) / *Waterfall.jpg* | ![A distant view of Lonely Lighthouse.](../assets/Lonely_Lighthouse_-_distant.jpg) / *A distant view of Lonely Lighthouse.* | ![Hibernia Processing to the right. Lonely Lighthouse in the background.](../assets/Hibernia_Processing_Area_View_03.jpg) / *Hibernia Processing to the right. Lonely Lighthouse in the background.* | ![A view of the landscape. Lonely Lighthouse can be seen in the distance.](../assets/Desolation_Point_landscape_01.jpg) / *A view of the landscape. Lonely Lighthouse can be seen in the distance.* |
-| ![An alternative view of Little Island.](../assets/Little_Island_02.jpg) / *An alternative view of Little Island.* | ![Desolation Point poster](../assets/Poster_in_the_Long_Dark_game.jpg) / *Desolation Point poster* |  |  |
+![](../assets/Abandoned_Mine_No.3_%28East_Access%29.jpg)
+
+_Abandoned\_Mine\_No.3\_(East\_Access).jpg_
+
+![](../assets/Abandoned_Mine_No.5_%28West_Access%29.jpg)
+
+_Abandoned\_Mine\_No.5\_(West\_Access).jpg_
+
+![](../assets/Broken_Bridge.jpg)
+
+_Broken\_Bridge.jpg_
+
+![](../assets/Blocked_Highway.jpg)
+
+_Blocked\_Highway.jpg_
+
+![](../assets/Cave_in_Desolation_Point_interior_entrance.jpg)
+
+_Cave\_in\_Desolation\_Point\_interior\_entrance.jpg_
+
+![](../assets/Hibernia_Processing_Area_View_01.jpg)
+
+_Hibernia\_Processing\_Area\_View\_01.jpg_
+
+![](../assets/Katie%27s_secluded_corner.jpg)
+
+_Katie's\_secluded\_corner.jpg_
+
+![](../assets/Little_Island_01.jpg)
+
+_Little\_Island\_01.jpg_
+
+![](../assets/Lonely_Lighthouse.jpg)
+
+_Lonely\_Lighthouse.jpg_
+
+![](../assets/Matt%27s_Truck.jpg)
+
+_Matt's\_Truck.jpg_
+
+![](../assets/Stone_Church.jpg)
+
+_Stone\_Church.jpg_
+
+![](../assets/The_Riken.jpg)
+
+_The\_Riken.jpg_
+
+![](../assets/Waterfall.jpg)
+
+_Waterfall.jpg_
+
+![A distant view of Lonely Lighthouse.](../assets/Lonely_Lighthouse_-_distant.jpg)
+
+_A distant view of Lonely Lighthouse._
+
+![Hibernia Processing to the right. Lonely Lighthouse in the background.](../assets/Hibernia_Processing_Area_View_03.jpg)
+
+_Hibernia Processing to the right. Lonely Lighthouse in the background._
+
+![A view of the landscape. Lonely Lighthouse can be seen in the distance.](../assets/Desolation_Point_landscape_01.jpg)
+
+_A view of the landscape. Lonely Lighthouse can be seen in the distance._
+
+![An alternative view of Little Island.](../assets/Little_Island_02.jpg)
+
+_An alternative view of Little Island._
+
+![Desolation Point poster](../assets/Poster_in_the_Long_Dark_game.jpg)
+
+_Desolation Point poster_
 
 ### Miscellaneous
 
-| Column 1 |
-| --- |
-| ![A poster of Desolation Point](../assets/Desolation_point_poster.png) / *A poster of Desolation Point* |
+![A poster of Desolation Point](../assets/Desolation_point_poster.png)
 
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**
+_A poster of Desolation Point_
 
 [ru:Зона запустения](ru:%D0%97%D0%BE%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F)
 

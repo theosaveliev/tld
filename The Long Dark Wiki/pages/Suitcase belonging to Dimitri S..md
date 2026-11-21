@@ -1,17 +1,12 @@
----
-title: "Suitcase belonging to Dimitri S."
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Suitcase_belonging_to_Dimitri_S."
----
-
 # Suitcase belonging to Dimitri S\.
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Suitcase_belonging_to_Dimitri_S.)
 
 **Suitcase belonging to Dimitri S.**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Gwen_Crash_Survivor.jpg) / *Gwen\_Crash\_Survivor.jpg* |
+|  | ![](../assets/Gwen_Crash_Survivor.jpg) / _Gwen\_Crash\_Survivor.jpg_ |
 | Release | 1.60 |
 | Story item | Yes |
 
@@ -20,5 +15,3 @@ source: "https://thelongdark.fandom.com/wiki/Suitcase_belonging_to_Dimitri_S."
 ## Loot
 
 The suitcase contains the Insulin needed to heal Dimitri.
-
-**Lua execution error in Module:Navbox function navbox**

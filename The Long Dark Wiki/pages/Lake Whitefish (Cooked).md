@@ -1,11 +1,6 @@
----
-title: "Lake Whitefish (Cooked)"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Lake_Whitefish_(Cooked)"
----
-
 # Lake Whitefish \(Cooked\)
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lake_Whitefish_%28Cooked%29)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Lake_Whitefish_(Cooked)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Lake_Whitefish_%28Cooked%29_icon.png) / *Lake\_Whitefish\_(Cooked)\_icon.png* |
+|  | ![](../assets/Lake_Whitefish_%28Cooked%29_icon.png) / _Lake\_Whitefish\_(Cooked)\_icon.png_ |
 | Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163) |
 | Wintermute | No |
 | **Properties** |  |
@@ -33,9 +28,9 @@ source: "https://thelongdark.fandom.com/wiki/Lake_Whitefish_(Cooked)"
 | **Advanced data** |  |
 | Item key | GEAR\_CookedLakeWhiteFish |
 
-*For the raw version, see [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md).*
+_For the raw version, see [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md)._
 
-**Lake Whitefish (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in *The Long Dark*.
+**Lake Whitefish (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
 ## Overview
 
@@ -65,14 +60,31 @@ Cooking whitefish improves the [Cooking Skill](./Skills.md#Cooking). Using a [Co
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Raw Uncooked Prepared](../assets/Lake_Whitefish_%28Cooked%29_icon.png) / *Raw Uncooked Prepared* | ![Fresh](../assets/Lake_Whitefish_%28Cooked%29_Fresh_icon.png) / *Fresh* | ![Gamey](../assets/Lake_Whitefish_%28Cooked%29_Gamey_icon.png) / *Gamey* | ![Mouldy](../assets/Lake_Whitefish_%28Cooked%29_Mouldy_icon.png) / *Mouldy* |
-| ![Rancid](../assets/Lake_Whitefish_%28Cooked%29_Rancid_icon.png) / *Rancid* | ![Ruined](../assets/Lake_Whitefish_%28Cooked%29_Ruined_icon.png) / *Ruined* |  |  |
+![Raw Uncooked Prepared](../assets/Lake_Whitefish_%28Cooked%29_icon.png)
+
+_Raw Uncooked Prepared_
+
+![Fresh](../assets/Lake_Whitefish_%28Cooked%29_Fresh_icon.png)
+
+_Fresh_
+
+![Gamey](../assets/Lake_Whitefish_%28Cooked%29_Gamey_icon.png)
+
+_Gamey_
+
+![Mouldy](../assets/Lake_Whitefish_%28Cooked%29_Mouldy_icon.png)
+
+_Mouldy_
+
+![Rancid](../assets/Lake_Whitefish_%28Cooked%29_Rancid_icon.png)
+
+_Rancid_
+
+![Ruined](../assets/Lake_Whitefish_%28Cooked%29_Ruined_icon.png)
+
+_Ruined_
 
 ## Update history
 
 - UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Сельдевидный сиг (приготовленный)](ru:%D0%A1%D0%B5%D0%BB%D1%8C%D0%B4%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D0%B8%D0%B3_%28%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%29)

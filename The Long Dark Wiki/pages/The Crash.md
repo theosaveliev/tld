@@ -1,11 +1,6 @@
----
-title: "The Crash"
-wiki_namespace: 0
-categories: ["Episode 1", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/The_Crash"
----
-
 # The Crash
+
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Crash)
 
 **Contents**
 
@@ -24,7 +19,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Crash"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Crash.png) / *The\_Crash.png* |
+|  | ![](../assets/The_Crash.png) / _The\_Crash.png_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Previous | [Memories](./Memories.md) |
 | Current | The Crash |
@@ -36,7 +31,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Crash"
 
 ## Official description
 
-> “**Mackenzie fights to stay alive while searching for signs of Astrid. What happened to her?**”
+> “__Mackenzie fights to stay alive while searching for signs of Astrid. What happened to her?__”
 >
 > — In-game description
 
@@ -91,5 +86,3 @@ Mackenzie will notice the [Milton House (Grey Mother's)](./Milton%20House%20%28G
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Added to the game.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**

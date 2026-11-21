@@ -1,17 +1,12 @@
----
-title: "Toxic Fog"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Toxic_Fog"
----
-
 # Toxic Fog
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Toxic_Fog)
 
 **Toxic Fog**
 
 | Property | Details |
 | --- | --- |
-|  | \[Missing image: Toxic\_Fog\_icon.png\] / *Toxic\_Fog\_icon.png* |
+|  | \[Missing image: Toxic\_Fog\_icon.png\] / _Toxic\_Fog\_icon.png_ |
 | Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86) |
 | Update | 1.86 |
 | **Properties** |  |
@@ -38,8 +33,14 @@ While there is no way to remove the fog, it is possible to delay its onset with 
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Level 1](../assets/Toxic_Fog_icon_%28mild%29.png) / *Level 1* | ![Level 2](../assets/Toxic_Fog_icon_%28moderate%29.png) / *Level 2* | ![Level 3](../assets/Toxic_Fog_icon_%28severe%29.png) / *Level 3* |
+![Level 1](../assets/Toxic_Fog_icon_%28mild%29.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Level 1_
+
+![Level 2](../assets/Toxic_Fog_icon_%28moderate%29.png)
+
+_Level 2_
+
+![Level 3](../assets/Toxic_Fog_icon_%28severe%29.png)
+
+_Level 3_

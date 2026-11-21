@@ -1,17 +1,12 @@
----
-title: "Decorative End Table"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Decorative_End_Table"
----
-
 # Decorative End Table
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Decorative_End_Table)
 
 **Decorative End Table**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Decorative_End_Table_icon.png) / *Decorative\_End\_Table\_icon.png* |
+|  | ![](../assets/Decorative_End_Table_icon.png) / _Decorative\_End\_Table\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 2.00 kg (4.4 lbs) |
@@ -44,5 +39,3 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 | Quantity | 6 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**

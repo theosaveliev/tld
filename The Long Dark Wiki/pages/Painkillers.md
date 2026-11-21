@@ -1,11 +1,6 @@
----
-title: "Painkillers"
-wiki_namespace: 0
-categories: ["First Aid"]
-source: "https://thelongdark.fandom.com/wiki/Painkillers"
----
-
 # Painkillers
+
+**Categories:** First Aid · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Painkillers)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Painkillers"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Painkillers_icon.png) / *Painkillers\_icon.png* |
+|  | ![](../assets/Painkillers_icon.png) / _Painkillers\_icon.png_ |
 | **General** |  |
 | Item Type | [First Aid](./First%20Aid.md) |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md), [Trader](./Trader.md)) |
@@ -27,11 +22,11 @@ source: "https://thelongdark.fandom.com/wiki/Painkillers"
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Unit count | ![unit\_count\_icon.png](../assets/Unit_count_icon.png)6 doses |
 
-> “**A bottle of Painkillers. Take it to reduce pain from injuries.**”
+> “__A bottle of Painkillers. Take it to reduce pain from injuries.__”
 >
 > — In-game description
 
-**Painkillers** are an artificial medical item used to treat [Afflictions](./Afflictions.md) in *The Long Dark*.
+**Painkillers** are an artificial medical item used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 
 ## Overview
 
@@ -55,14 +50,13 @@ The effect of painkillers is not generalized throughout the body, and each dose 
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Painkillers.png) / *old model* |
+![old model](../assets/Painkillers.png)
+
+_old model_
 
 ## Trivia
 
 - The exact medication Painkillers represent is unknown, though the "Rx" on their label states it is a prescribed drug.
 - It is not possible to overdose on or become addicted to Painkillers in The Long Dark.
-- In *The Long Dark*, Painkillers must be applied directly to treat a specific injury (similar to a Bandage), unlike real-world orally-taken drugs which become generally distributed throughout the body.**Lua execution error in Module:Navbox function navbox**
 
 [ru:Обезболивающее](ru:%D0%9E%D0%B1%D0%B5%D0%B7%D0%B1%D0%BE%D0%BB%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B5%D0%B5)

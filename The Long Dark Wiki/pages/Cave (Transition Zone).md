@@ -1,11 +1,6 @@
----
-title: "Cave (Transition Zone)"
-wiki_namespace: 0
-categories: ["Transition zones"]
-source: "https://thelongdark.fandom.com/wiki/Cave_(Transition_Zone)"
----
-
 # Cave \(Transition Zone\)
+
+**Categories:** Transition zones · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cave_%28Transition_Zone%29)
 
 **Contents**
 
@@ -27,9 +22,9 @@ source: "https://thelongdark.fandom.com/wiki/Cave_(Transition_Zone)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/RegionAtlas-resources.assets-562_%286%29.png) / *RegionAtlas-resources.assets-562\_(6).png* |
+|  | ![](../assets/RegionAtlas-resources.assets-562_%286%29.png) / _RegionAtlas-resources.assets-562\_(6).png_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/No_picture.png) / *No\_picture.png* |
+|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
 | **Details** |  |
 | Description | Transition Zones, Dark tunnels winding through the slopes separating regions. |
 | Connecting Regions | [Pleasant Valley](./Pleasant%20Valley.md) and [Winding River](./Winding%20River.md), [Mountain Town](./Mountain%20Town.md) and [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md), [Mountain Town](./Mountain%20Town.md) and [Hushed River Valley](./Hushed%20River%20Valley.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md) and [Bleak Inlet](./Bleak%20Inlet.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md) and [Ash Canyon](./Ash%20Canyon.md) |
@@ -122,8 +117,10 @@ A second path in the middle of the cave system will allow the player to climb th
 
 The Cave system is part of the [Zone of Contamination](./Zone%20of%20Contamination.md).
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The waterfall near the end of Sundered Pass transition cave](../assets/Transition_Cave_Sundered_Pass_Waterfall.jpg) / *The waterfall near the end of Sundered Pass transition cave* | ![](../assets/Far_Territory_Cave_waterfall.jpg) / *Far\_Territory\_Cave\_waterfall.jpg* |
+![The waterfall near the end of Sundered Pass transition cave](../assets/Transition_Cave_Sundered_Pass_Waterfall.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_The waterfall near the end of Sundered Pass transition cave_
+
+![](../assets/Far_Territory_Cave_waterfall.jpg)
+
+_Far\_Territory\_Cave\_waterfall.jpg_

@@ -1,17 +1,12 @@
----
-title: "Door"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Door"
----
-
 # Door
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Door)
 
 **Door**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Door_%28Object%29.jpg) / *Door\_(Object).jpg* |
+|  | ![](../assets/Door_%28Object%29.jpg) / _Door\_(Object).jpg_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | No |
@@ -28,5 +23,3 @@ This item cannot be interacted with currently. An option to remove it does not a
 | --- | --- | --- | --- |
 | 2 | 30 minutes | 101 | -2% Hatchet |
 | 2 |  |  | -2% Improvised Hatchet |
-
-**Lua execution error in Module:Navbox function navbox**

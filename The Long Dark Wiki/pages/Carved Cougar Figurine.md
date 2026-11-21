@@ -1,17 +1,12 @@
----
-title: "Carved Cougar Figurine"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Carved_Cougar_Figurine"
----
-
 # Carved Cougar Figurine
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Carved_Cougar_Figurine)
 
 **Carved Cougar Figurine**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Carved_Cougar_Figurine_icon.png) / *Carved\_Cougar\_Figurine\_icon.png* |
+|  | ![](../assets/Carved_Cougar_Figurine_icon.png) / _Carved\_Cougar\_Figurine\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 0.25 kg (0.55 lbs) |
@@ -44,5 +39,3 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 | Quantity | 1 |
 
 `Update History ==`
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**

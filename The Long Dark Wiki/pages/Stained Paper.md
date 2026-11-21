@@ -1,17 +1,12 @@
----
-title: "Stained Paper"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Stained_Paper"
----
-
 # Stained Paper
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stained_Paper)
 
 **Stained Paper**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Stained_Paper_icon.png) / *Stained\_Paper\_icon.png* |
+|  | ![](../assets/Stained_Paper_icon.png) / _Stained\_Paper\_icon.png_ |
 | Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Stained_Paper"
 
 ## Transcript
 
-*The following text is transcribed from **Stained Paper***
+_The following text is transcribed from **Stained Paper**_
 
 **\[...ineligible...\]to say for certain what security will be like out here. Told the boss a single exit point at the current air strip would never satisfy our usual standard for evac. Nowhere else in the world would we set him up for a risk like this. But his eyes are open. And so are mine.  
    
@@ -41,7 +36,5 @@ source: "https://thelongdark.fandom.com/wiki/Stained_Paper"
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Испачканная бумажка](ru:%D0%98%D1%81%D0%BF%D0%B0%D1%87%D0%BA%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B1%D1%83%D0%BC%D0%B0%D0%B6%D0%BA%D0%B0)

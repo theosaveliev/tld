@@ -1,20 +1,15 @@
----
-title: "Your Journey Begins"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Your_Journey_Begins"
----
-
 # Your Journey Begins
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Your_Journey_Begins)
 
 **Your Journey Begins**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Your_Journey_Begins_icon.png) / *Your\_Journey\_Begins\_icon.png* |
+|  | ![](../assets/Your_Journey_Begins_icon.png) / _Your\_Journey\_Begins\_icon.png_ |
 | Description | Escape the ravine after your crash. |
 
-**Your Journey Begins** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Your Journey Begins** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -24,5 +19,3 @@ This is an unmissable story achievement achieved after completing the mission [T
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

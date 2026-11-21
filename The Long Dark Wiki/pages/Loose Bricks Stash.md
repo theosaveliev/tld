@@ -1,17 +1,12 @@
----
-title: "Loose Bricks Stash"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Loose_Bricks_Stash"
----
-
 # Loose Bricks Stash
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Loose_Bricks_Stash)
 
 **Loose Bricks Stash**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Loose_Bricks.png) / *Loose\_Bricks.png* |
+|  | ![](../assets/Loose_Bricks.png) / _Loose\_Bricks.png_ |
 
 **Loose Bricks Stash** are a unique type of container only found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
@@ -23,7 +18,7 @@ These containers can be found inside stocked [Prepper Caches](./Prepper%20Cache.
 
 (Unknown what storage capacity is or if they can be used as regular containers afterwards).
 
-*There's still a Known Issue with Sutherland's Tale where there is a chance the Loose Brick Stash in the Hunter Prepper Cache does not spawn. If this is the case the Document Stash 2 can be found at the Special Request 4 location (Joplin's Prepper Cache).*
+_There's still a Known Issue with Sutherland's Tale where there is a chance the Loose Brick Stash in the Hunter Prepper Cache does not spawn. If this is the case the Document Stash 2 can be found at the Special Request 4 location (Joplin's Prepper Cache)._
 
 ## Loot
 
@@ -44,5 +39,3 @@ Conspiracy Cache (3rd cache)
 - ![Document\_Stash\_3\_icon.png](../assets/Document_Stash_3_icon.png) [Document Stash 3](./Document%20Stash%203.md)
 - ![Wyatt's\_Lost\_Papers\_3\_icon.png](../assets/Wyatt%27s_Lost_Papers_3_icon.png) [Wyatt's Lost Papers 3](./Wyatt%27s%20Lost%20Papers%203.md)
 - ![Bunker\_Schematic\_Fragment\_3\_icon.png](../assets/Bunker_Schematic_Fragment_3_icon.png) [Bunker Schematic Fragment 3](./Bunker%20Schematic%20Fragment%203.md)
-
-**Lua execution error in Module:Navbox function navbox**

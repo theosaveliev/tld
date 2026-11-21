@@ -1,17 +1,12 @@
----
-title: "Cannery Memo"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cannery_Memo"
----
-
 # Cannery Memo
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cannery_Memo)
 
 **Cannery Memo**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cannery_Memo_icon.png) / *Cannery\_Memo\_icon.png* |
+|  | ![](../assets/Cannery_Memo_icon.png) / _Cannery\_Memo\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Cannery_Memo"
 
 ## Transcript
 
-*The following text is transcribed from **Cannery Memo***
+_The following text is transcribed from **Cannery Memo**_
 
 **\[names scratched out\]
 
@@ -47,7 +42,5 @@ And don't forget to get a copy of the workshop's door code while you're up there
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Записка с завода](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D1%81_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0)

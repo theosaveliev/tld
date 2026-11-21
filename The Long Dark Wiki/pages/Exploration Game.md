@@ -1,20 +1,15 @@
----
-title: "Exploration Game"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Exploration_Game"
----
-
 # Exploration Game
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Exploration_Game)
 
 **Exploration Game**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Exploration_Game_icon.png) / *Exploration\_Game\_icon.png* |
+|  | ![](../assets/Exploration_Game_icon.png) / _Exploration\_Game\_icon.png_ |
 | Description | Visit every interior location in both Mystery Lake and Coastal Highway (single game) |
 
-**Exploration Game** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Exploration Game** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -23,5 +18,3 @@ This achievement is obtained after entering every interior location in [Mystery 
 Interior locations include buildings and other structures that have a loading screen when entering them. This excludes [Fishing Huts](./Fishing%20Hut.md), [Cars](./Car.md), and [Abandoned Lookout](./Abandoned%20Lookout.md). The exceptions are the [Forestry Lookout](./Forestry%20Lookout.md), which does not have a loading screen but is included.
 
 ## Trivia
-
-This achievement is a pun on how the player has to find and explore every interior in both regions and how *The Long Dark* is largely an exploration, survival game.**Lua execution error in Module:Navbox function navbox**

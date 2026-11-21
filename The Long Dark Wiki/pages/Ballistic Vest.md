@@ -1,11 +1,6 @@
----
-title: "Ballistic Vest"
-wiki_namespace: 0
-categories: ["Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Ballistic_Vest"
----
-
 # Ballistic Vest
+
+**Categories:** Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ballistic_Vest)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Ballistic_Vest"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Ballistic_Vest_icon.png) / *Ballistic\_Vest\_icon.png* |
+|  | ![](../assets/Ballistic_Vest_icon.png) / _Ballistic\_Vest\_icon.png_ |
 | **General** |  |
 | Item Type |  |
 | Wintermute |  |
@@ -34,7 +29,7 @@ source: "https://thelongdark.fandom.com/wiki/Ballistic_Vest"
 | Harvest | Cannot Harvest |
 | Repair | Cannot Repair |
 
-> “**Law-enforcement body armour. Great Protection, but very heavy. You won't win any sprints wearing it.**”
+> “__Law-enforcement body armour. Great Protection, but very heavy. You won't win any sprints wearing it.__”
 >
 > — In-game description
 
@@ -50,7 +45,7 @@ With the weight reduction that is granted to equipped clothes/accessories, it is
 
 The vest also gives its own unique buff called [Armoured](./Armoured.md). Armoured's actual effects are still debated: some say it has no actual effect at all, and simply informs the player of their high defense. Others suggest it reduces the risk of receiving negative [Afflictions](./Afflictions.md) from fights--for example, lowering the risk of [Blood Loss](./Blood%20Loss.md) or [Sprained Ankle](./Sprained%20Ankle.md)/[Sprained Wrist](./Sprained%20Wrist.md).
 
-The Protection stat is meant to reduce wildlife damage by 1% per 1 protection, meaning equipping the vest cuts wildlife damage in half at minimum. This also means that acquiring 100% or more protection will make the player ***invulnerable*** to wildlife damage.
+The Protection stat is meant to reduce wildlife damage by 1% per 1 protection, meaning equipping the vest cuts wildlife damage in half at minimum. This also means that acquiring 100% or more protection will make the player **_invulnerable_** to wildlife damage.
 
 ## Location
 
@@ -58,9 +53,13 @@ The Ballistic Vest can only be found inside of the main building of [Blackrock P
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Ballistic_Vest_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Ballistic_Vest_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Clothing model icon](../assets/Ballistic_Vest_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Ballistic_Vest_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Update History
 
@@ -91,5 +90,3 @@ Direct notations taken from inside raw game code:
 - The Ballistic Vest cannot be repaired.
 - The Ballistic Vest goes into the accessory slot, not the jacket slot, making it the 4th item to use the accessory slot.
 - The Ballistic Vest always spawns at 100% condition, similar to [Crampons.](./Crampons.md)
-
-**Lua execution error in Module:Navbox function navbox** [ru:Пуленепробиваемый жилет](ru:%D0%9F%D1%83%D0%BB%D0%B5%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%B1%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D0%B9_%D0%B6%D0%B8%D0%BB%D0%B5%D1%82)

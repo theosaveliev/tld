@@ -1,11 +1,6 @@
----
-title: "Expedition Parka"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Expedition_Parka"
----
-
 # Expedition Parka
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Expedition_Parka)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Expedition_Parka"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Expedition_Parka_icon.png) / *Expedition\_Parka\_icon.png* |
+|  | ![](../assets/Expedition_Parka_icon.png) / _Expedition\_Parka\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
@@ -33,11 +28,11 @@ source: "https://thelongdark.fandom.com/wiki/Expedition_Parka"
 | Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
 | Repair | 2 × [Cloth](./Cloth.md) / 45 minutes / 30% condition |
 
-> “**Heavy down-filled parka made using high-end materials. The kind of parka worn by people who know what they're doing.**”
+> “__Heavy down-filled parka made using high-end materials. The kind of parka worn by people who know what they're doing.__”
 >
 > — In-game description
 
-The **Expedition Parka** is a type of clothing in *The Long Dark*.
+The **Expedition Parka** is a type of clothing in _The Long Dark_.
 
 ## Overview
 
@@ -57,13 +52,19 @@ It can also spawn in the train car in the abandoned passenger rail car in the [F
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Old model.](../assets/Expedition_parka_%28historical%29.png) / *Old model.* | ![Clothing model icon](../assets/Expedition_Parka_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Expedition_Parka_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Old model.](../assets/Expedition_parka_%28historical%29.png)
+
+_Old model._
+
+![Clothing model icon](../assets/Expedition_Parka_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Expedition_Parka_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Походная парка](ru:%D0%9F%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D1%80%D0%BA%D0%B0)

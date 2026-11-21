@@ -1,17 +1,12 @@
----
-title: "Map of Pleasant Valley"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Map_of_Pleasant_Valley"
----
-
 # Map of Pleasant Valley
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Map_of_Pleasant_Valley)
 
 **Map of Pleasant Valley**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Map_of_Pleasant_Valley_icon.png) / *Map\_of\_Pleasant\_Valley\_icon.png* |
+|  | ![](../assets/Map_of_Pleasant_Valley_icon.png) / _Map\_of\_Pleasant\_Valley\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Coming Storm](./Coming%20Storm.md) |
 | **Properties** |  |
@@ -30,5 +25,3 @@ source: "https://thelongdark.fandom.com/wiki/Map_of_Pleasant_Valley"
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

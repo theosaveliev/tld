@@ -1,17 +1,12 @@
----
-title: "Mining Log Page"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Mining_Log_Page"
----
-
 # Mining Log Page
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mining_Log_Page)
 
 **Mining Log Page**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mining_Log_Page_icon.png) / *Mining\_Log\_Page\_icon.png* |
+|  | ![](../assets/Mining_Log_Page_icon.png) / _Mining\_Log\_Page\_icon.png_ |
 | Release | [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Mining_Log_Page"
 
 ## Transcript
 
-*The following text is transcribed from **Notebook Page***
+_The following text is transcribed from **Notebook Page**_
 
 **...
 
@@ -41,7 +36,5 @@ The vein we opened looks like it could go on and on. Just have to be careful how
 
 - UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Страница дневника шахтера](ru:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0_%D1%88%D0%B0%D1%85%D1%82%D0%B5%D1%80%D0%B0)

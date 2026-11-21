@@ -1,11 +1,6 @@
----
-title: "Peanut Butter"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Peanut_Butter"
----
-
 # Peanut Butter
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Peanut_Butter)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Peanut_Butter"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Peanut_Butter_icon.png) / *Peanut\_Butter\_icon.png* |
+|  | ![](../assets/Peanut_Butter_icon.png) / _Peanut\_Butter\_icon.png_ |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
 | Wintermute | No |
 | **Properties** |  |
@@ -32,7 +27,7 @@ source: "https://thelongdark.fandom.com/wiki/Peanut_Butter"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_PeanutButter |
 
-**Peanut Butter** is a packaged [food](./Food%20And%20Drink.md) item in [*The Long Dark*](./The%20Long%20Dark.md).
+**Peanut Butter** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
@@ -43,19 +38,17 @@ Peanut Butter [decays](./Decay.md) more slowly when outdoors.
 ## Trivia
 
 - Peanut Butter does not spawn on Interloper mode.
-- Peanut Butter are packaged as a product called "*SMOOTH Peanut Butter"*, possibly a play on the real-life peanut butter brand "Jif".
+- Peanut Butter are packaged as a product called "_SMOOTH Peanut Butter"_, possibly a play on the real-life peanut butter brand "Jif".
 - In real life, a 16 oz/1 lb jar of peanut butter would have well over 2000 kcals. The in-game value is likely less for balancing reasons.
 - The ingredients on the back list: "Roasted Peanuts, Canola Oil, Sugar, Salt." and that it is a "Product Of Canada."
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Peanut_butter.png) / *Old model.* |
+![Old model.](../assets/Peanut_butter.png)
+
+_Old model._
 
 ## Update history
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Арахисовая паста](ru:%D0%90%D1%80%D0%B0%D1%85%D0%B8%D1%81%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%B0%D1%81%D1%82%D0%B0)

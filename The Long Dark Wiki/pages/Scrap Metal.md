@@ -1,11 +1,6 @@
----
-title: "Scrap Metal"
-wiki_namespace: 0
-categories: ["Materials"]
-source: "https://thelongdark.fandom.com/wiki/Scrap_Metal"
----
-
 # Scrap Metal
+
+**Categories:** Materials · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Scrap_Metal)
 
 **Contents**
 
@@ -19,18 +14,18 @@ source: "https://thelongdark.fandom.com/wiki/Scrap_Metal"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Scrap_Metal_icon.png) / *Scrap\_Metal\_icon.png* |
+|  | ![](../assets/Scrap_Metal_icon.png) / _Scrap\_Metal\_icon.png_ |
 | **General** |  |
 | Item Type | Material\|- |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.20 kg(0.44 lbs) |
 
-> “**Bits and pieces of metal scrounged from various sources.**”
+> “__Bits and pieces of metal scrounged from various sources.__”
 >
 > — In-game description
 
-**Scrap Metal** is a crafting material in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Scrap Metal** is a crafting material in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -62,8 +57,10 @@ Scrap metal can be obtained by harvesting various pieces of furniture in-game by
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Old model.](../assets/Scrap_metal.png) / *Old model.* | ![Ditto, with old Leather model](../assets/Materials.png) / *Ditto, with old Leather model* |
+![Old model.](../assets/Scrap_metal.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Металлолом](ru:%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%BE%D0%BB%D0%BE%D0%BC)
+_Old model._
+
+![Ditto, with old Leather model](../assets/Materials.png)
+
+_Ditto, with old Leather model_

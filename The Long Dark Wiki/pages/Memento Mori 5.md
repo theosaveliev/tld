@@ -1,17 +1,12 @@
----
-title: "Memento Mori 5"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Memento_Mori_5"
----
-
 # Memento Mori 5
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Memento_Mori_5)
 
 **Memento Mori 5**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Memento_Mori_5_icon.png) / *Memento\_Mori\_5\_icon.png* |
+|  | ![](../assets/Memento_Mori_5_icon.png) / _Memento\_Mori\_5\_icon.png_ |
 | Release | [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Memento_Mori_5"
 
 ## Transcript
 
-*The following text is transcribed from **Memento Mori 5***
+_The following text is transcribed from **Memento Mori 5**_
 
 **The world falling away. Did you know already, somehow? Before you left us? The lights, they used to go on.**
 
@@ -36,5 +31,3 @@ source: "https://thelongdark.fandom.com/wiki/Memento_Mori_5"
 UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Added to game
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Fire Hardened Arrow"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Fire_Hardened_Arrow"
----
-
 # Fire Hardened Arrow
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fire_Hardened_Arrow)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Fire_Hardened_Arrow"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fire_Hardened_Arrow_icon.png) / *Fire\_Hardened\_Arrow\_icon.png* |
+|  | ![](../assets/Fire_Hardened_Arrow_icon.png) / _Fire\_Hardened\_Arrow\_icon.png_ |
 | Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -31,9 +26,9 @@ source: "https://thelongdark.fandom.com/wiki/Fire_Hardened_Arrow"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_ArrowHardened |
 
-> “**A crude Arrow hardened in a fire. Fragile, but simple to Craft. Only effective against small game.**”
+> “__A crude Arrow hardened in a fire. Fragile, but simple to Craft. Only effective against small game.__”
 
-**Fire Hardened Arrows** are craftable ammuntion items in *The Long Dark*. They released in the free update of Part 2: Signal Void for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
+**Fire Hardened Arrows** are craftable ammuntion items in _The Long Dark_. They released in the free update of Part 2: Signal Void for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
 ## Overview
 
@@ -77,13 +72,11 @@ Fire hardened arrows are unique in that they break instantly upon impact with al
 |  | [Crow Feather](./Crow%20Feather.md) |
 |  | 5 |
 
-| Column 1 |
-| --- |
-| ![Fire Hardened Arrows on the left and Simple Arrows on the right.](../assets/Different_Arrow_Types.jpg) / *Fire Hardened Arrows on the left and Simple Arrows on the right.* |
+![Fire Hardened Arrows on the left and Simple Arrows on the right.](../assets/Different_Arrow_Types.jpg)
+
+_Fire Hardened Arrows on the left and Simple Arrows on the right._
 
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.09_%26_2.10)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Закаленная в огне стрела](ru:%D0%97%D0%B0%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2_%D0%BE%D0%B3%D0%BD%D0%B5_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%B0)

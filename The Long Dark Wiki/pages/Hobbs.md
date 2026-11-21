@@ -1,11 +1,6 @@
----
-title: "Hobbs"
-wiki_namespace: 0
-categories: ["Characters"]
-source: "https://thelongdark.fandom.com/wiki/Hobbs"
----
-
 # Hobbs
+
+**Categories:** Characters · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hobbs)
 
 **Contents**
 
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/Hobbs"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hobbs.jpg) / *Hobbs.jpg* |
+|  | ![](../assets/Hobbs.jpg) / _Hobbs.jpg_ |
 | Release | 1.41 (Wintermute Redux Update) |
 | Date | 17 December 2018 |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
@@ -74,14 +69,12 @@ Hobbs appears in a voice over recap during the beginning of Episode 3, mentionin
 
 ## Episode 4
 
-Hobbs once again appears in a voice over recap during the beginning of Episode 4, mentioning Blackrock Prison. ![Hobbs on the sofa](../assets/20181218201232_1.jpg)*Hobbs on the sofa*
+Hobbs once again appears in a voice over recap during the beginning of Episode 4, mentioning Blackrock Prison. ![Hobbs on the sofa](../assets/20181218201232_1.jpg)_Hobbs on the sofa_
 
 ## Trivia
 
 - Removing the knife from Hobbs' wound is the 'humane' option in-game, but realistically this would likely be as bad, if not worse than pushing the blade deeper. Blood loss from such a wound would be sealed by the knife itself; removing the knife would expose the wound, likely causing extensive bleeding and risk of death if left untreated. Ironically, such an injury should be dealt with by a doctor such as Astrid, not Will.
 - Hobbs' knife removal is similar to the start of Episode 1, where Will removes the [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) from his hand. Being an extremity and not an abdomen wound, the bleeding would be more manageable.
 - It is widely misunderstood that Hobbs and the other prisoners are arsonists, perpetuated by the fact that he initially takes credit for the deaths of Milton residents in the schoolhouse fire: "We sure warmed them up!". However, Hobbs later states, "We put them all in the old schoolhouse so we could keep an eye on them. And then something happened to the lights... the power... it was like sparks everywhere and then fire." This is consistent with the effects of the Aurora, which sometimes causes electrical fires, as evidenced in trailers showing burning power lines and various burned buildings throughout Great Bear that were never reached by the convicts.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [fr:Hobbs](fr:Hobbs) [ru:Хоббс](ru:%D0%A5%D0%BE%D0%B1%D0%B1%D1%81)

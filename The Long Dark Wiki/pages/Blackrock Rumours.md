@@ -1,10 +1,6 @@
----
-title: "Blackrock Rumours"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Blackrock_Rumours"
----
-
 # Blackrock Rumours
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_Rumours)
 
 **Contents**
 
@@ -31,7 +27,7 @@ source: "https://thelongdark.fandom.com/wiki/Blackrock_Rumours"
 | Current | Blackrock Rumours |
 | Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 
-> “**Security memos describing unusual activity in the Blackrock area.**”
+> “__Security memos describing unusual activity in the Blackrock area.__”
 >
 > — In-game description
 
@@ -129,5 +125,3 @@ To start the mission, the player must find any of three security memos, scattere
   - Firewood, [Books](./Book.md), Tinder, [Wood Matches](./Wood%20Matches.md), Bandages, [Antibiotics](./Antibiotics.md)
   - 11 randomized containers
   - Shelter and bed
-
-**Lua execution error in Module:Navbox function navbox**

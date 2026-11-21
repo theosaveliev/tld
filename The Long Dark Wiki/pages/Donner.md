@@ -1,11 +1,6 @@
----
-title: "Donner"
-wiki_namespace: 0
-categories: ["Characters"]
-source: "https://thelongdark.fandom.com/wiki/Donner"
----
-
 # Donner
+
+**Categories:** Characters · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Donner)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Donner"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Donner.png) / *donner.png* |
+|  | ![](../assets/Donner.png) / _donner.png_ |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | Location(s) | [Blackrock Prison](./Blackrock%20Prison.md) |
 | **Biographical Information** |  |
@@ -33,15 +28,15 @@ source: "https://thelongdark.fandom.com/wiki/Donner"
 | **Game Information** |  |
 | Voiced by | Vincent Tong |
 
-*For the mission of the same name, see [Donner (mission)](./Donner%20%28mission%29.md).*
+_For the mission of the same name, see [Donner (mission)](./Donner%20%28mission%29.md)._
 
-> “**The man in solitary, the son of Mathis. The reason places like Blackrock exist.  
+> “__The man in solitary, the son of Mathis. The reason places like Blackrock exist.  
    
- Even post-Collapse, Donner lives apart from anything resembling the regular order of society. And Mathis will stop at nothing in order to unleash his malevolent, unredeemable nature on the world. Starting with Great Bear Island.**”
+ Even post-Collapse, Donner lives apart from anything resembling the regular order of society. And Mathis will stop at nothing in order to unleash his malevolent, unredeemable nature on the world. Starting with Great Bear Island.__”
 >
 > — [What I Know](./What%20I%20Know.md) description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **If Mathis is bad, Donner is...Biblical bad.**
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __If Mathis is bad, Donner is...Biblical bad.__
 
 [Franklin](./Franklin.md)
 
@@ -59,7 +54,7 @@ In Episode 5, he wears glasses.
 
 ### [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
 
-> “**Donner is a once-in-a-generation criminal. Donner gets out...he will make it his personal mission to find and hurt every living human he can get his hands on...between Blackrock and the Mainland. Just for shits and giggles.**”
+> “__Donner is a once-in-a-generation criminal. Donner gets out...he will make it his personal mission to find and hurt every living human he can get his hands on...between Blackrock and the Mainland. Just for shits and giggles.__”
 >
 > — [Jace](./Jace.md)
 
@@ -71,7 +66,7 @@ Due to the combined actions of Will Mackenzie and [Jace](./Jace.md), an explosio
 
 ### [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
 
-> “**D.... Dad? I saw it. Lights. The lights. They called to me. And. I found... water. Black water. It was all... lights and black water. Then... nothing. Nothing but dark.**”
+> “__D.... Dad? I saw it. Lights. The lights. They called to me. And. I found... water. Black water. It was all... lights and black water. Then... nothing. Nothing but dark.__”
 >
 > — Donner's first and last words before dying of his injuries
 
@@ -80,5 +75,3 @@ Donner finally makes an appearance in Episode 5, being heavily wounded and suffe
 She eventually retrieves it and heals Donner's external wounds with the kit to the best of her abilities. Astrid tells Mathis that unless she gets better equipment, she won't know how bad the internal damage is to Donner's body. Just before Mathis is about to kill Astrid, Donner then speaks to his father about how he saw the [lights and black water in his dreams](./Aurora.md), before eventually perishing from his wounds.
 
 ## Trivia
-
-Despite not physically appearing in Episode 4, Donner has his own [What I Know](./What%20I%20Know.md) page, a feat that not even [Vachon](./Vachon.md) nor [Heller](./Heller.md) are privy to.**Lua execution error in Module:Navbox function navbox** [ru:Доннер](ru:%D0%94%D0%BE%D0%BD%D0%BD%D0%B5%D1%80)

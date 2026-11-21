@@ -1,17 +1,12 @@
----
-title: "Bank Vault Code"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Bank_Vault_Code"
----
-
 # Bank Vault Code
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bank_Vault_Code)
 
 **Bank Vault Code**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bank_Vault_Code_icon.png) / *Bank\_Vault\_Code\_icon.png* |
+|  | ![](../assets/Bank_Vault_Code_icon.png) / _Bank\_Vault\_Code\_icon.png_ |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Grey Mother](./The%20Grey%20Mother.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -29,7 +24,7 @@ It is found in the [Bank Manager's House](./Bank%20Manager%27s%20House.md) and i
 
 ## Transcript
 
-*The following text is transcribed from **Bank Vault Code***
+_The following text is transcribed from **Bank Vault Code**_
 
 **19-30-08**
 
@@ -37,5 +32,3 @@ It is found in the [Bank Manager's House](./Bank%20Manager%27s%20House.md) and i
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

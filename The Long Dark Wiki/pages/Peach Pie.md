@@ -1,16 +1,11 @@
----
-title: "Peach Pie"
-wiki_namespace: 0
-categories: ["DLC Content", "Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Peach_Pie"
----
-
 # Peach Pie
+
+**Categories:** DLC Content, Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Peach_Pie)
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / **Peach Pie** / \| Property \| Details \| / \| --- \| --- \| / \|  \| ![](../assets/Peach_Pie_icon.png) / *Peach\_Pie\_icon.png* \| / \| Release \| [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) \| / \| Wintermute \| No \| / \| Renewable \| Yes ([Trader](./Trader.md) and rare [Beachcombing](./Beachcombing.md)) \| / \| **Properties** \|  \| / \| Item type \| [Food And Drink](./Food%20And%20Drink.md)\\|- \| / \| **Values** \|  \| / \| Calories \| 250 (313) kcal \| / \| Hydration \| 0.0% \| / \| [Vitamin C](./Scurvy.md) \| Minor (19%) \| / \| Weight \| 0.10 kg (0.22 lbs) \| / \| **Decay Rate** \|  \| / \| Inside \| 20.000% per day \| / \| Outside \| 5.000% per day \| / \| **Advanced data** \|  \| / \| Item key \| GAMEPLAY\_PeachFruitPie \| / **Peach Pie** is a food item in *The Long Dark* made with a [Cooking Skillet](./Cooking%20Skillet.md) and produces 3 pies. / ## Effects / - +15% Fatigue (instantly) / - [Headache](./Headache.md) (for 1 hour) / ## Recipe / This recipe makes 3 servings. / **Peach Pie** / \| Property \| Details \| / \| --- \| --- \| / \| **Template:pic link plain**[Cooking](./Cooking.md)** \|  \| / \|  \| - \| / \|  \| 80.0 minutes (1 hour 20 minutes) \| / \| **Requirements** \|  \| / \| Required level \| **Template:pic link plain** 3 \| / \| Facility \| **Template:iconlink** \| / \| Tool \| **Template:iconlink** \| / \| **Materials** \|  \| / \| **Template:iconlink plain** \|  \| / \| Item \| [Pinnacle Peaches](./Pinnacle%20Peaches.md) \| / \| Quantity \| 0.50 kg \| / \| **Template:iconlink plain** \|  \| / \|  \| [Water (Potable)](./Water%20%28Potable%29.md) \| / \|  \| 0.10 L \| / \| **Template:iconlink plain** \|  \| / \|  \| [Cooking Oil](./Cooking%20Oil.md) \| / \|  \| 0.05 L \| / \| **Template:iconlink plain** \|  \| / \|  \| [Old Mill Flour](./Old%20Mill%20Flour.md) \| / \|  \| 0.20 kg \| / ## Update history / - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):** / - Added to game. / **Lua execution error in Module:Navbox function navbox** [ru:Персиковый пирог](ru:%D0%9F%D0%B5%D1%80%D1%81%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D0%B8%D1%80%D0%BE%D0%B3) |
-| ![](../assets/Peach_Pie_icon.png) / *Peach\_Pie\_icon.png* |  |  |
+
+| ![](../assets/Peach_Pie_icon.png) / _Peach\_Pie\_icon.png_ |  |  |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |  |
 | Wintermute | No |  |
 | Renewable | Yes ([Trader](./Trader.md) and rare [Beachcombing](./Beachcombing.md)) |  |

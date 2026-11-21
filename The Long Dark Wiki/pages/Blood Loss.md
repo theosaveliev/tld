@@ -1,17 +1,12 @@
----
-title: "Blood Loss"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Blood_Loss"
----
-
 # Blood Loss
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blood_Loss)
 
 **Blood Loss**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Blood_Loss_icon.png) / *Blood\_Loss\_icon.png* |
+|  | ![](../assets/Blood_Loss_icon.png) / _Blood\_Loss\_icon.png_ |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | You are bleeding from a wound. If left untreated, you will continue to weaken until you die. |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Blood_Loss"
 
 ## Overview
 
-> “**You are bleeding from a wound. If left untreated, you will continue to weaken until you die.**”
+> “__You are bleeding from a wound. If left untreated, you will continue to weaken until you die.__”
 >
 > — In-game description
 
@@ -44,8 +39,6 @@ Blood Loss from predator [Struggles](./Struggle.md) is always paired with an [In
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old icon.](../assets/Blood_loss.png) / *Old icon.* |
+![Old icon.](../assets/Blood_loss.png)
 
-**Lua execution error in Module:Navbox function navbox**[ru:Потеря крови](ru:%D0%9F%D0%BE%D1%82%D0%B5%D1%80%D1%8F_%D0%BA%D1%80%D0%BE%D0%B2%D0%B8)
+_Old icon._

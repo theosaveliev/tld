@@ -1,21 +1,16 @@
----
-title: "Turbulent Pasture"
-wiki_namespace: 0
-categories: ["Locations", "Locations in Zone of Contamination", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Turbulent_Pasture"
----
-
 # Turbulent Pasture
+
+**Categories:** Locations, Locations in Zone of Contamination, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Turbulent_Pasture)
 
 **Turbulent Pasture**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Turbulent_Pasture.jpg) / *Turbulent\_Pasture.jpg* |
+|  | ![](../assets/Turbulent_Pasture.jpg) / _Turbulent\_Pasture.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Turbulent_Pasture_Location.png) / *Turbulent\_Pasture\_Location.png* |
+|  | ![](../assets/Turbulent_Pasture_Location.png) / _Turbulent\_Pasture\_Location.png_ |
 | Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
-| ![](../assets/Bed_icon.png) / *bed\_icon.png* |  |
-| ![](../assets/Workbench_icon_green.png) / *workbench\_icon\_green.png* |  |
-|  | Has no shelter\|} **Turbulent Pasture** is a set of small frozen ponds in the [Zone of Contamination](./Zone%20of%20Contamination.md) northeast of [Indolent Hoppers](./Indolent%20Hoppers.md). / ## Overview / It has a few [Cat Tails](./Cat%20Tail.md) to scavenge in a moderate Chemical Hazard zone. 5 [Maple Saplings](./Green%20Maple%20Sapling.md) can be found on a nearby hill, perfect for crafting a [Travois](./Travois.md) and going further up the hill leads to a wooden bridge and ends at a wooden structure. / Heading east one can find the [Forgotten Exploration](./Forgotten%20Exploration.md). / ## Gallery / \| Column 1 \| / \| --- \| / \| ![5 Maple Saplings on the nearby hill](../assets/Turbulent_Pasture_Maple_Saplings.jpg) / *5 Maple Saplings on the nearby hill* \| / **Lua execution error in Module:Navbox function navbox** [ru:Буйное угодье](ru:%D0%91%D1%83%D0%B9%D0%BD%D0%BE%D0%B5_%D1%83%D0%B3%D0%BE%D0%B4%D1%8C%D0%B5) |
-|  | ![5 Maple Saplings on the nearby hill](../assets/Turbulent_Pasture_Maple_Saplings.jpg) / *5 Maple Saplings on the nearby hill* |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ |  |
+| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ |  |
+
+|  | ![5 Maple Saplings on the nearby hill](../assets/Turbulent_Pasture_Maple_Saplings.jpg) / _5 Maple Saplings on the nearby hill_ |

@@ -1,11 +1,6 @@
----
-title: "Hypothermia"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Hypothermia"
----
-
 # Hypothermia
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hypothermia)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Hypothermia"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hypothermia_icon.png) / *Hypothermia\_icon.png* |
+|  | ![](../assets/Hypothermia_icon.png) / _Hypothermia\_icon.png_ |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | Your body temperature was too low for too long. You will weaken until you stay above freezing for 24 hours. |
@@ -32,11 +27,11 @@ source: "https://thelongdark.fandom.com/wiki/Hypothermia"
 | **Advanced Data** |  |
 | Item Key | GAMEPLAY\_CabinFeverRisk |
 
-**Hypothermia** is an [Affliction](./Afflictions.md) in *The Long Dark*, caused by exposure to the cold.
+**Hypothermia** is an [Affliction](./Afflictions.md) in _The Long Dark_, caused by exposure to the cold.
 
 ## Overview
 
-> “**Your body temperature was too low for too long. You will weaken until you stay above freezing for 24 hours.**”
+> “__Your body temperature was too low for too long. You will weaken until you stay above freezing for 24 hours.__”
 >
 > — In-game description
 
@@ -57,8 +52,6 @@ Once manifested Hypothermia doubles the [Condition](./Condition.md) loss from fr
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old icon.](../assets/Hypothermia.png) / *Old icon.* |
+![Old icon.](../assets/Hypothermia.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Old icon._

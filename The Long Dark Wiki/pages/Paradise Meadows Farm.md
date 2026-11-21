@@ -1,11 +1,6 @@
----
-title: "Paradise Meadows Farm"
-wiki_namespace: 0
-categories: ["Indoor locations", "Locations", "Locations in Mountain Town", "Locations with a workbench", "Residential locations", "Safe Houses"]
-source: "https://thelongdark.fandom.com/wiki/Paradise_Meadows_Farm"
----
-
 # Paradise Meadows Farm
+
+**Categories:** Indoor locations, Locations, Locations in Mountain Town, Locations with a workbench, Residential locations, Safe Houses · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paradise_Meadows_Farm)
 
 **Contents**
 
@@ -26,19 +21,19 @@ source: "https://thelongdark.fandom.com/wiki/Paradise_Meadows_Farm"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| Column 1 \| Column 2 \| Column 3 \| Column 4 \| / \| --- \| --- \| --- \| --- \| / \| ![Overview](../assets/Paradise_meadows_farm.jpg) / *Overview* \| ![Barn](../assets/Paradise_meadows_farm_barn.jpg) / *Barn* \| ![Farmhouse](../assets/Paradise_meadows_farmhouse.jpg) / *Farmhouse* \| ![Interior](../assets/Paradise_meadows_farmhouse_interior_2.jpg) / *Interior* \| | 250px\]\] |
-| ![Overview](../assets/Paradise_meadows_farm.jpg) / *Overview* | ![Barn](../assets/Paradise_meadows_farm_barn.jpg) / *Barn* / ![Farmhouse](../assets/Paradise_meadows_farmhouse.jpg) / *Farmhouse* / ![Interior](../assets/Paradise_meadows_farmhouse_interior_2.jpg) / *Interior* |
+| \[\[File: / ![Overview](../assets/Paradise_meadows_farm.jpg) / _Overview_ / ![Barn](../assets/Paradise_meadows_farm_barn.jpg) / _Barn_ / ![Farmhouse](../assets/Paradise_meadows_farmhouse.jpg) / _Farmhouse_ / ![Interior](../assets/Paradise_meadows_farmhouse_interior_2.jpg) / _Interior_ | 250px\]\] |
+| ![Overview](../assets/Paradise_meadows_farm.jpg) / _Overview_ | ![Barn](../assets/Paradise_meadows_farm_barn.jpg) / _Barn_ / ![Farmhouse](../assets/Paradise_meadows_farmhouse.jpg) / _Farmhouse_ / ![Interior](../assets/Paradise_meadows_farmhouse_interior_2.jpg) / _Interior_ |
 | **Location** |  |
-| ![](../assets/Paradise_Meadows_Farm_Location.png) / *Paradise\_Meadows\_Farm\_Location.png* |  |
+| ![](../assets/Paradise_Meadows_Farm_Location.png) / _Paradise\_Meadows\_Farm\_Location.png_ |  |
 | Region | [Mountain Town](./Mountain%20Town.md)\|- / Location |
 | Description | A farmhouse and several outbuildings |
 | **General** |  |
 | Type | Residential\|- / Firebox |
-| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
-| ![](../assets/Workbench_icon_green.png) / *workbench\_icon\_green.png* | Has a workbench\|- |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
+| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ | Has a workbench\|- |
 | Missions | [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3) |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
 **Paradise Meadows Farm** or **The Barker Farm** is a location a short distance from [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. It was home to farmer [Martin Barker](./Martin%20Barker.md).
 
@@ -64,13 +59,13 @@ There are the remnants of a couple sheds on the opposite sides of the farm. They
 
 ## Story Mode
 
-As of the [REDUX](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41) update, the farmhouse in *Wintermute* is no longer accessible prior to receiving the objective "**Something precious was stolen from**[GREY MOTHER](./Grey%20Mother.md)**. Find it, and return it to her.**" If the player visits this location beforehand, the door is locked, with no key spawning in the vicinity. After the start of the objective, however, bloodstains can be seen leading across the yard up to the door, which is now marked with a bloody red handprint. The door is now unlocked, and the home can be accessed without the use of a key.
+As of the [REDUX](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41) update, the farmhouse in _Wintermute_ is no longer accessible prior to receiving the objective "**Something precious was stolen from**[GREY MOTHER](./Grey%20Mother.md)**. Find it, and return it to her.**" If the player visits this location beforehand, the door is locked, with no key spawning in the vicinity. After the start of the objective, however, bloodstains can be seen leading across the yard up to the door, which is now marked with a bloody red handprint. The door is now unlocked, and the home can be accessed without the use of a key.
 
 Upon entering the homestead for the first time, a cutscene begins wherein Mackenzie meets a severely wounded [Hobbs](./Hobbs.md), an escapee of the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) and recognizes the scarf the other man is using to bandage his arm as [Astrid](./Astrid%20Greenwood.md)'s. Hobbs reveals that he, along with fellow prisoners who escaped the transport van, took several residents of [Milton](./Milton.md) hostage and locked them within the [Old Schoolhouse](./Old%20Schoolhouse.md). Tragically, the electrical phenomena accompanying the [aurora](./Aurora.md) started a fire in the building and it burned down with everyone still trapped inside. Hobbs initially makes it sound like he burned it on purpose, but further dialogue opens the possibility that the fire was accidental and the criminals were just unable or unwilling to free their captives in time, although Astrid apparently tried to help but was too late.
 
 Afterwards, an encounter with Astrid left one of the criminals dead and Hobbs with a knife in his side before she escaped through the collapsed tunnel behind the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md). With his other companions dead as well, Hobbs sought out shelter within the farmhouse and slumps onto the couch, too weak from pain and blood loss to react with any violence or ill intent upon the player's arrival.
 
-This interaction culminates with a choice. Pull the knife out of Hobbs's gut in order to try and save him; or push the weapon in deeper and end his life. The *[Bank Deposit Box Key #15](./Milton%20Safety%20Deposit%20Box%20Keys.md)*is found in a container next to where Hobbs is sitting, and can be obtained after his dialogue finishes.
+This interaction culminates with a choice. Pull the knife out of Hobbs's gut in order to try and save him; or push the weapon in deeper and end his life. The _[Bank Deposit Box Key #15](./Milton%20Safety%20Deposit%20Box%20Keys.md)_is found in a container next to where Hobbs is sitting, and can be obtained after his dialogue finishes.
 
 ## Survival Mode
 
@@ -94,11 +89,32 @@ On all experience levels, the farmhouse offers decent loot (by the standards of 
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![An overview of the property](../assets/Paradise_meadows_farm.jpg) / *An overview of the property* | ![The barn exterior](../assets/Paradise_meadows_farm_barn.jpg) / *The barn exterior* | ![The barn interior](../assets/Paradise_meadows_farm_barn_interior.jpg) / *The barn interior* | ![The farmhouse exterior](../assets/Paradise_meadows_farmhouse.jpg) / *The farmhouse exterior* |
-| ![The main farmhouse room](../assets/Paradise_meadows_farmhouse_interior.jpg) / *The main farmhouse room* | ![An office in the farmhouse](../assets/Paradise_meadows_farmhouse_office.jpg) / *An office in the farmhouse* | ![The bedroom](../assets/Paradise_meadows_farmhouse_bedroom.jpg) / *The bedroom* |  |
+![An overview of the property](../assets/Paradise_meadows_farm.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_An overview of the property_
+
+![The barn exterior](../assets/Paradise_meadows_farm_barn.jpg)
+
+_The barn exterior_
+
+![The barn interior](../assets/Paradise_meadows_farm_barn_interior.jpg)
+
+_The barn interior_
+
+![The farmhouse exterior](../assets/Paradise_meadows_farmhouse.jpg)
+
+_The farmhouse exterior_
+
+![The main farmhouse room](../assets/Paradise_meadows_farmhouse_interior.jpg)
+
+_The main farmhouse room_
+
+![An office in the farmhouse](../assets/Paradise_meadows_farmhouse_office.jpg)
+
+_An office in the farmhouse_
+
+![The bedroom](../assets/Paradise_meadows_farmhouse_bedroom.jpg)
+
+_The bedroom_
 
 [ru:Ферма "Райские луга"](ru:%D0%A4%D0%B5%D1%80%D0%BC%D0%B0_"%D0%A0%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D1%83%D0%B3%D0%B0")

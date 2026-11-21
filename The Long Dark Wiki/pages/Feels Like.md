@@ -1,11 +1,6 @@
----
-title: "Feels Like"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Feels_Like"
----
-
 # Feels Like
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Feels_Like)
 
 **Contents**
 
@@ -56,5 +51,3 @@ When [Sleeping](./Sleep.md) the [bed](./Bed.md) chosen grants insulation to the 
 ## Trivia
 
 - Expressed in degrees of temperature, it is always shown rounded to nearest integer though it is obvious that decimal calculations are carried. So even though 'feels like' shows exactly freezing, you are likely either gaining or losing heat based on the carried fraction.
-
-**Lua execution error in Module:Navbox function navbox**

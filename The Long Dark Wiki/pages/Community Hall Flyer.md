@@ -1,17 +1,12 @@
----
-title: "Community Hall Flyer"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Community_Hall_Flyer"
----
-
 # Community Hall Flyer
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Community_Hall_Flyer)
 
 **Community Hall Flyer**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Community_Hall_Flyer_icon.png) / *Community\_Hall\_Flyer\_icon.png* |
+|  | ![](../assets/Community_Hall_Flyer_icon.png) / _Community\_Hall\_Flyer\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Trauma](./Trauma.md) |
 | **Properties** |  |
@@ -34,5 +29,3 @@ During the course of the mission, the Astrid finds the flyer within the Barn out
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

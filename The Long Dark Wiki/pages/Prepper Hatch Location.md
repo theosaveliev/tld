@@ -1,17 +1,12 @@
----
-title: "Prepper Hatch Location"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Prepper_Hatch_Location"
----
-
 # Prepper Hatch Location
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Prepper_Hatch_Location)
 
 **Prepper Hatch Location**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Prepper_Hatch_Location_icon.png) / *Prepper\_Hatch\_Location\_icon.png* |
+|  | ![](../assets/Prepper_Hatch_Location_icon.png) / _Prepper\_Hatch\_Location\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Rumours](./Blackrock%20Rumours.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Prepper_Hatch_Location"
 
 ## Transcript
 
-*The following text is transcribed from **Prepper Hatch Location***
+_The following text is transcribed from **Prepper Hatch Location**_
 
 **If you're reading this you've gone and found my cache behind the old Bricklayer place.
 
@@ -40,5 +35,3 @@ Head north from Foreman's Clearcut, go beyond the road and then up a small rise 
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

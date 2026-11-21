@@ -1,11 +1,6 @@
----
-title: "Drawer"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Drawer"
----
-
 # Drawer
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Drawer)
 
 **Contents**
 
@@ -26,10 +21,10 @@ source: "https://thelongdark.fandom.com/wiki/Drawer"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| Column 1 \| Column 2 \| Column 3 \| Column 4 \| / \| --- \| --- \| --- \| --- \| / \| ![Food](../assets/DrawerFood.jpg) / *Food* \| ![Table](../assets/DrawerBedside.jpg) / *Table* \| ![Wide Table](../assets/DrawerWide.jpg) / *Wide Table* \| ![L Table](../assets/DrawerLargeTable.jpg) / *L Table* \| / \| ![FH](../assets/Fishing_Hut_Drawer.jpg) / *FH* \| ![S Toolbox](../assets/DrawerToolboxSmall.jpg) / *S Toolbox* \| ![L Toolbox](../assets/DrawerToolboxLarge.jpg) / *L Toolbox* \| ![Clothing](../assets/Drawer_Clothing_Horozontal.jpg) / *Clothing* \| / \| ![Tall Clothing](../assets/Drawer_Clothing_Vertical.jpg) / *Tall Clothing* \|  \|  \|  \| | 250px\]\] |
-| ![Food](../assets/DrawerFood.jpg) / *Food* | ![Table](../assets/DrawerBedside.jpg) / *Table* / ![Wide Table](../assets/DrawerWide.jpg) / *Wide Table* / ![L Table](../assets/DrawerLargeTable.jpg) / *L Table* |
-| ![FH](../assets/Fishing_Hut_Drawer.jpg) / *FH* | ![S Toolbox](../assets/DrawerToolboxSmall.jpg) / *S Toolbox* / ![L Toolbox](../assets/DrawerToolboxLarge.jpg) / *L Toolbox* / ![Clothing](../assets/Drawer_Clothing_Horozontal.jpg) / *Clothing* |
-| ![Tall Clothing](../assets/Drawer_Clothing_Vertical.jpg) / *Tall Clothing* |  |
+| \[\[File: / ![Food](../assets/DrawerFood.jpg) / _Food_ / ![Table](../assets/DrawerBedside.jpg) / _Table_ / ![Wide Table](../assets/DrawerWide.jpg) / _Wide Table_ / ![L Table](../assets/DrawerLargeTable.jpg) / _L Table_ / ![FH](../assets/Fishing_Hut_Drawer.jpg) / _FH_ / ![S Toolbox](../assets/DrawerToolboxSmall.jpg) / _S Toolbox_ / ![L Toolbox](../assets/DrawerToolboxLarge.jpg) / _L Toolbox_ / ![Clothing](../assets/Drawer_Clothing_Horozontal.jpg) / _Clothing_ / ![Tall Clothing](../assets/Drawer_Clothing_Vertical.jpg) / _Tall Clothing_ | 250px\]\] |
+| ![Food](../assets/DrawerFood.jpg) / _Food_ | ![Table](../assets/DrawerBedside.jpg) / _Table_ / ![Wide Table](../assets/DrawerWide.jpg) / _Wide Table_ / ![L Table](../assets/DrawerLargeTable.jpg) / _L Table_ |
+| ![FH](../assets/Fishing_Hut_Drawer.jpg) / _FH_ | ![S Toolbox](../assets/DrawerToolboxSmall.jpg) / _S Toolbox_ / ![L Toolbox](../assets/DrawerToolboxLarge.jpg) / _L Toolbox_ / ![Clothing](../assets/Drawer_Clothing_Horozontal.jpg) / _Clothing_ |
+| ![Tall Clothing](../assets/Drawer_Clothing_Vertical.jpg) / _Tall Clothing_ |  |
 | Story item | Yes |
 
 A **Drawer** is one possible type of storage container in the game that comes in many forms and can be found in every area in the game.
@@ -73,5 +68,3 @@ The large red toolboxes has two small drawers and one large drawer. They often y
 Dressers are found in many residential homes, in the bedroom. They have six drawers, but three are broken and cannot be searched. They often yield [Clothing](./Clothing.md) items and have a storage capacity of 5.00kg. Sometimes, loose spawn items can be found inside the open drawers.
 
 ### Vertical Dressers
-
-Vertical Dressers are found in many residential homes, in the bedroom and occasionally the office. Two of the five drawers are open and cannot be searched. They often yield Clothing items and have a storage capacity of 5.00kg. **Lua execution error in Module:Navbox function navbox**

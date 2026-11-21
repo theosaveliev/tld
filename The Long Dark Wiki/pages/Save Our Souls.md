@@ -1,20 +1,15 @@
----
-title: "Save Our Souls"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Save_Our_Souls"
----
-
 # Save Our Souls
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Save_Our_Souls)
 
 **Save Our Souls**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Save_Our_Souls_icon.png) / *Save\_Our\_Souls\_icon.png* |
+|  | ![](../assets/Save_Our_Souls_icon.png) / _Save\_Our\_Souls\_icon.png_ |
 | Description | Enter the Crash Site. |
 
-**Save Our Souls** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Save Our Souls** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -24,5 +19,3 @@ This is an unmissable story achievement, and is earned arriving at the [Crash Si
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

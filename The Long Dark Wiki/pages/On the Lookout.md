@@ -1,20 +1,15 @@
----
-title: "On the Lookout"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/On_the_Lookout"
----
-
 # On the Lookout
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/On_the_Lookout)
 
 **On the Lookout**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/On_the_Lookout_icon.png) / *On\_the\_Lookout\_icon.png* |
+|  | ![](../assets/On_the_Lookout_icon.png) / _On\_the\_Lookout\_icon.png_ |
 | Description | Reach all 6 Vista locations in the Far Territory (single game). |
 
-**On the Lookout** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**On the Lookout** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -29,5 +24,3 @@ The player must find all 6 [Polaroids](./Polaroids.md) in The Far Territory in a
 | ![Ico\_GearItem\_PostCard\_MR\_Settlement.png](../assets/Ico_GearItem_PostCard_MR_Settlement.png)![Ico\_GearItem\_PostCard\_MR\_Window.png](../assets/Ico_GearItem_PostCard_MR_Window.png) | Zone of Contamination | - On the train station office corkboard in [Indolent Hoppers](./Indolent%20Hoppers.md) / - On the dashboard of an [Haul Truck](./Haul%20Truck.md) parked in the mining pit. | Cliff near [Boss's Settlement](./Boss%27s%20Settlement.md), Cliff near [Welkin's Window](./Welkin%27s%20Window.md) |
 
 ## Trivia
-
-This achievement is a pun on how Vistas are always found in high "lookout" locations and how the player must stand on said lookouts to survey the map.**Lua execution error in Module:Navbox function navbox**

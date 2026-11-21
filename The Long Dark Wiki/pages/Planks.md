@@ -1,24 +1,19 @@
----
-title: "Planks"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Planks"
----
-
 # Planks
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Planks)
 
 **Planks**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Planks.jpg) / *Planks.jpg* |
+|  | ![](../assets/Planks.jpg) / _Planks.jpg_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | No |
 | **Statistics** |  |
 | Harvest | 6 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
 
-*For a singular plank, see [Plank](./Plank.md).*
+_For a singular plank, see [Plank](./Plank.md)._
 
 **Planks** are wooden boards that can be found in many industrial areas, and can be harvested for 30 minutes with a [Hatchet](./Hatchet.md) to acquire 6 [Reclaimed Wood](./Reclaimed%20Wood.md). Some notable locations that Planks can be found are:
 
@@ -33,5 +28,3 @@ source: "https://thelongdark.fandom.com/wiki/Planks"
 | Planks | 6 | 30 minutes | 90 | -2% Hatchet |
 | Planks | 6 | 39 minutes | 117 | -3% Improvised Hatchet |
 | Planks | 6 | 45 minutes | 135 | -0.5% Heavy Hammer |
-
-**Lua execution error in Module:Navbox function navbox**

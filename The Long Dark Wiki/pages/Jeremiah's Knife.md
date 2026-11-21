@@ -1,11 +1,6 @@
----
-title: "Jeremiah's Knife"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Knife"
----
-
 # Jeremiah's Knife
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Knife)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Knife"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Jeremiah%27s_Knife_icon.png) / *Jeremiah's\_Knife\_icon.png* |
+|  | ![](../assets/Jeremiah%27s_Knife_icon.png) / _Jeremiah's\_Knife\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md)\|- |
@@ -31,7 +26,7 @@ source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Knife"
 | **Actions** |  |
 | Backpack | Pick Up, Examine, Drop |
 
-> “**I have a little graduation present for you. Here. You've earned it. And I have a feeling that you're going to be needing it before you're through.**”
+> “__I have a little graduation present for you. Here. You've earned it. And I have a feeling that you're going to be needing it before you're through.__”
 >
 > — [Jeremiah](./Jeremiah.md)
 
@@ -63,9 +58,13 @@ Jeremiah's Knife cannot be equipped, but may be selected to defend one's self at
 - Jeremiah's Knife was once again spotted in the May 13th, 2024 [official developer update](https://www.thelongdark.com/news/dev-diary-may-2024/), as part of the Misery Mode concept art. [¹](#fn1)
 - 
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The Knife seen at 5:00](../assets/The_Long_Dark_--_TALES_FROM_THE_FAR_TERRITORY_--_Part_Four_Update_Video) / *The Knife seen at 5:00* | ![The knife seen in Misery Mode](../assets/Misery_Mode.jpg) / *The knife seen in Misery Mode* |
+![The Knife seen at 5:00](../assets/The_Long_Dark_--_TALES_FROM_THE_FAR_TERRITORY_--_Part_Four_Update_Video.jpg)
+
+_The Knife seen at 5:00_
+
+![The knife seen in Misery Mode](../assets/Misery_Mode.jpg)
+
+_The knife seen in Misery Mode_
 
 ## Game History
 
@@ -73,8 +72,6 @@ Jeremiah's Knife cannot be equipped, but may be selected to defend one's self at
 - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from the game as part of the Redux edition, however it is still in the game files and can sometimes be seen as a crafting icon in Survival Mode.
-
-**Lua execution error in Module:Navbox function navbox**
 
 ## Notes
 

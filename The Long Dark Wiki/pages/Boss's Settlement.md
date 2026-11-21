@@ -1,18 +1,12 @@
----
-title: "Boss's Settlement"
-wiki_namespace: 0
-categories: ["Locations", "Locations in Zone of Contamination", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Boss's_Settlement"
----
-
 # Boss's Settlement
+
+**Categories:** Locations, Locations in Zone of Contamination, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Boss's_Settlement)
 
 **Boss's Settlement**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Boss%27s_Settlement.jpg) / *Boss's\_Settlement.jpg* |
+|  | ![](../assets/Boss%27s_Settlement.jpg) / _Boss's\_Settlement.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Boss%27s_Settlement_Location.png) / *Boss's\_Settlement\_Location.png* |
+|  | ![](../assets/Boss%27s_Settlement_Location.png) / _Boss's\_Settlement\_Location.png_ |
 | Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
-|  | Has no shelter\|} / **Boss's Encampment** is a ruined series of buildings high in the mountains near [Idle Camp](./Idle%20Camp.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md). / ## Overview / The settlement consists of 3 ruined building and an intact shed. There is no real shelter to be found, but a [Warm Cave](./Warm%20Cave.md), [Scaffolder's Hideout](./Scaffolder%27s%20Hideout.md), is a short walk away across a wooden bridge. / [Ptarmigans](./Ptarmigan.md) and [Rabbits](./Rabbit.md) spawn nearby in the settlement, with a few containers containing loot to be found in the ruined buildings. / A [vista location](./Polaroids.md) is located at the cliff side overlooking the railroad with a destroyed picnic table. A human skull is found near one of the buildings, which contains a hidden lockbox [Supply Cache](./Supply%20Cache.md) as part of the [Buried Echoes](./Buried%20Echoes.md) Tale. / ## Trivia / This location likely was the headquarters for Dr. Rüdiger and/or the [Langston Mine](./Langston%20Mine.md) Foreman while overseeing the construction of the machine in the mine, but was burned down to cover up what took place in the mine after it was evacuated. / **Lua execution error in Module:Navbox function navbox** [ru:Поселение босса](ru:%D0%9F%D0%BE%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B1%D0%BE%D1%81%D1%81%D0%B0) |

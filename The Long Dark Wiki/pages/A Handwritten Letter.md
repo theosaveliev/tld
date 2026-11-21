@@ -1,17 +1,12 @@
----
-title: "A Handwritten Letter"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/A_Handwritten_Letter"
----
-
 # A Handwritten Letter
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/A_Handwritten_Letter)
 
 **A Handwritten Letter**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/A_Handwritten_Letter_icon.png) / *A\_Handwritten\_Letter\_icon.png* |
+|  | ![](../assets/A_Handwritten_Letter_icon.png) / _A\_Handwritten\_Letter\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/A_Handwritten_Letter"
 
 ## Transcript
 
-*The following text is transcribed from **A Handwritten Letter***
+_The following text is transcribed from **A Handwritten Letter**_
 
 **Dear Constable Pete,  
  Please find me when you can. My husband Martin has gone missing.
@@ -45,5 +40,3 @@ Jen**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

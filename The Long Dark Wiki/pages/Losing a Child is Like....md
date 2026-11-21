@@ -1,20 +1,15 @@
----
-title: "Losing a Child is Like..."
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Losing_a_Child_is_Like..."
----
-
 # Losing a Child is Like\.\.\.
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Losing_a_Child_is_Like...)
 
 **Losing a Child is Like...**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Losing_a_Child_is_Like..._icon.png) / *Losing\_a\_Child\_is\_Like...\_icon.png* |
+|  | ![](../assets/Losing_a_Child_is_Like..._icon.png) / _Losing\_a\_Child\_is\_Like...\_icon.png_ |
 | Description | Complete Lily's Story. |
 
-**Losing a Child is Like...** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Losing a Child is Like...** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -34,5 +29,3 @@ Grey Mother - "like losing your whole life."
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

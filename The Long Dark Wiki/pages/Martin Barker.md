@@ -1,17 +1,12 @@
----
-title: "Martin Barker"
-wiki_namespace: 0
-categories: ["Characters"]
-source: "https://thelongdark.fandom.com/wiki/Martin_Barker"
----
-
 # Martin Barker
+
+**Categories:** Characters · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Martin_Barker)
 
 **Martin Barker**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Martin_Barker.png) / *Martin\_Barker.png* |
+|  | ![](../assets/Martin_Barker.png) / _Martin\_Barker.png_ |
 | Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00) |
 | Date | 1 August 2017 |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Martin_Barker"
 | **Physical Information** |  |
 | Hair | Grey |
 
-> “**M - The farmer... is gone.**”
+> “__M - The farmer... is gone.__”
 >
 > — GM - So...he left with the other cowards, then? M - No. He's dead. Looks like wolves got him. GM - And so it ends. [Will Mackenzie](./Will%20Mackenzie.md) explaining to [Grey Mother](./Grey%20Mother.md) what he found in the shed on the farm
 
@@ -44,8 +39,10 @@ His corpse can appear in [Survival Mode](./Survival%20Mode.md), serving as 1 of 
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![A portrait found in Milton House (Grey Mother's), likely of Martin Barker, Lilith Barker and Grey Mother.](../assets/Barker_Family_Portrait.jpg) / *A portrait found in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), likely of Martin Barker, Lilith Barker and Grey Mother.* | ![A dead Martin Barker being eaten by a Wolf](../assets/Martin_Barker_Dead.jpg) / *A dead Martin Barker being eaten by a Wolf* |
+![A portrait found in Milton House (Grey Mother's), likely of Martin Barker, Lilith Barker and Grey Mother.](../assets/Barker_Family_Portrait.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Мартин Баркер](ru:%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD_%D0%91%D0%B0%D1%80%D0%BA%D0%B5%D1%80)
+_A portrait found in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), likely of Martin Barker, Lilith Barker and Grey Mother._
+
+![A dead Martin Barker being eaten by a Wolf](../assets/Martin_Barker_Dead.jpg)
+
+_A dead Martin Barker being eaten by a Wolf_

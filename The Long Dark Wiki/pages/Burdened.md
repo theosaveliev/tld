@@ -1,17 +1,12 @@
----
-title: "Burdened"
-wiki_namespace: 0
-categories: ["Afflictions", "DLC Content", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Burdened"
----
-
 # Burdened
+
+**Categories:** Afflictions, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Burdened)
 
 **Burdened**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Burdened_icon.png) / *Burdened\_icon.png* |
+|  | ![](../assets/Burdened_icon.png) / _Burdened\_icon.png_ |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
 | Update | 2.17 |
 | **Properties** |  |
@@ -25,5 +20,5 @@ source: "https://thelongdark.fandom.com/wiki/Burdened"
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|} **Burdened** is a unique [Affliction](./Afflictions.md) in *[The Long Dark](./The%20Long%20Dark.md)* only encountered in [Survival Mode](./Survival%20Mode.md) when consuming certain [Cooking](./Cooking.md) Recipes. It was added in the Part 3 update to the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md). / ## Overview / > “**Your pack feels heavier because of something you ate.**” / Burdened is acquired from consuming certain recipes that effects a survivor's [Encumbrance](./Encumbrance.md) by temporarily lowering their maximum total carry weight by 3kg for 1 hour. This can be an especially dangerous Affliction to acquire when a survivor is already under the negative effects of low carrying capacity gained from low [Fatigue](./Fatigue.md). / The following foods, when consumed, grant the Burdened Affliction as a side effect: / - ![Prepper's\_Pie\_icon.png](../assets/Prepper%27s_Pie_icon.png) [Prepper's Pie](./Prepper%27s%20Pie.md) / - ![Stalker's\_Pie\_icon.png](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md) / The effect of this Affliction does not stack, and each application will not override the previous Affliction. Partially eating the previously mentioned foods only adds a partial amount of Burdened Recovery Time. / ## Trivia / A symbol similar for the Burdened Affliction icon appears in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) whenever [Astrid Greenwood](./Astrid%20Greenwood.md) is carrying a [Crash Survivor](./Crash%20Survivor.md). / ## Update history / - UPDATE **June 21, 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):** / - Added to game. / **Lua execution error in Module:Navbox function navbox** |
-| “ | **Your pack feels heavier because of something you ate.** | ” |
+
+| “ | __Your pack feels heavier because of something you ate.__ | ” |

@@ -1,20 +1,15 @@
----
-title: "Graduation Day"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Graduation_Day"
----
-
 # Graduation Day
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Graduation_Day)
 
 **Graduation Day**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Graduation_Day_icon.png) / *Graduation\_Day\_icon.png* |
+|  | ![](../assets/Graduation_Day_icon.png) / _Graduation\_Day\_icon.png_ |
 | Description | Complete all six Survival School objectives across Episodes One and Two. |
 
-**Graduation Day** is a [Wintermute](./Wintermute.md) [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) across [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Graduation Day** is a [Wintermute](./Wintermute.md) [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) across [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -39,5 +34,3 @@ The achievement is awarded after finishing the mission [Survival School (Predux)
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Renamed "Jeremiah's Survival School" to just Survival School and made it an optional side mission. Changed Achievement description, used to say "Complete Jeremiah's Survival School."
-
-**Lua execution error in Module:Navbox function navbox**

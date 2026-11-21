@@ -1,19 +1,14 @@
----
-title: "Andre's Peak"
-wiki_namespace: 0
-categories: ["Locations", "Locations in Timberwolf Mountain", "Outdoor locations", "Sheltered locations"]
-source: "https://thelongdark.fandom.com/wiki/Andre's_Peak"
----
-
 # Andre's Peak
+
+**Categories:** Locations, Locations in Timberwolf Mountain, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Andre's_Peak)
 
 **Andre's Peak**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Andres_peak.jpg) / *andres\_peak.jpg* |
+|  | ![](../assets/Andres_peak.jpg) / _andres\_peak.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Andre%27s_Peak_Location.png) / *Andre's\_Peak\_Location.png* |
+|  | ![](../assets/Andre%27s_Peak_Location.png) / _Andre's\_Peak\_Location.png_ |
 | Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
 | Description | A small area on the top of a hill |
 | **General** |  |

@@ -1,17 +1,12 @@
----
-title: "Hoodie"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Hoodie"
----
-
 # Hoodie
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hoodie)
 
 **Hoodie**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hoodie_icon.png) / *Hoodie\_icon.png* |
+|  | ![](../assets/Hoodie_icon.png) / _Hoodie\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
@@ -26,11 +21,11 @@ source: "https://thelongdark.fandom.com/wiki/Hoodie"
 | Harvest | 1 [Cloth](./Cloth.md) / 45 minutes |
 | Repair | 1 [Cloth](./Cloth.md) / 60 minutes / 30% condition |
 
-> “**Hooded cotton sweatshirt. You know, the kind that passes for high fashion with game developers these days.**”
+> “__Hooded cotton sweatshirt. You know, the kind that passes for high fashion with game developers these days.__”
 >
 > — In-game description
 
-The **Hoodie** is a type of [Clothing](./Clothing.md) item in *[The Long Dark](./The%20Long%20Dark.md)*.
+The **Hoodie** is a type of [Clothing](./Clothing.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -40,13 +35,15 @@ Despite having a hood, the Hoodie doesn't cover Headwear Clothing slots.
 
 A [Sweatshirt](./Sweatshirt.md) is a slight, but direct upgrade to the hoodie, the former offering slightly more wind-proofing.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model](../assets/Hoodie_Model_icon.png) / *Clothing model* | ![Clothing model damaged](../assets/Hoodie_Model_Damaged_icon.png) / *Clothing model damaged* |
+![Clothing model](../assets/Hoodie_Model_icon.png)
+
+_Clothing model_
+
+![Clothing model damaged](../assets/Hoodie_Model_Damaged_icon.png)
+
+_Clothing model damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Худи](ru:%D0%A5%D1%83%D0%B4%D0%B8)

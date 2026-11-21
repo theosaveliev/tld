@@ -1,20 +1,15 @@
----
-title: "Finely Tuned"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Finely_Tuned"
----
-
 # Finely Tuned
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Finely_Tuned)
 
 **Finely Tuned**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Finely_Tuned_icon.png) / *Finely\_Tuned\_icon.png* |
+|  | ![](../assets/Finely_Tuned_icon.png) / _Finely\_Tuned\_icon.png_ |
 | Description | Complete “To SAR and Back” without using more than 50 pieces of coal. |
 
-**Finely Tuned** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[Wintermute](./Wintermute.md)* [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Finely Tuned** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[Wintermute](./Wintermute.md)_ [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -43,5 +38,3 @@ Another way is to use neutral and second gear mainly, and use first gear only to
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

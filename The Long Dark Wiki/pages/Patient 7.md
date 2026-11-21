@@ -1,16 +1,12 @@
----
-title: "Patient 7"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Patient_7"
----
-
 # Patient 7
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Patient_7)
 
 **Unknown (Alias: Patient 7)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/No_picture.png) / *No\_picture.png* |
+|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
 | Date | March 30th, 2023 |
 | Mission | Signal Void |
 | **Biographical Information** |  |
@@ -20,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Patient_7"
 | **Physical Information** |  |
 | Sex | Male |
 
-**Spoiler Warning:** **This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:** __This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
 Patient 7 is the codename given to one of the patients treated by the [Project Medical Officer](./Project%20Medical%20Officer.md) after the incident with [Rüdiger's Machine](./R%C3%BCdiger%27s%20Machine.md).
 
@@ -49,5 +45,3 @@ The whereabouts of Patient 7, or if he's even alive or dead, are unknown.
 - We can infer that he's the patient being recorded in [Interview Transcript 17](./Interview%20Transcript%2017.md), although it's unclear
 - As seen in the Transcripts, there's a high chance Patient 7 has a childhood trauma as a consequence of becoming lost in bodies of water like a river and beach when he was younger.
 - We can conclude that there were more patients, presumably more mine workers, that were being treated by the [Project Medical Officer](./Project%20Medical%20Officer.md), but their sessions were probably lost, taken by the doctor, or simply not recorded by him, taking more interest in Patient 7's memories and mental deterioration.
-
-**Lua execution error in Module:Navbox function navbox**

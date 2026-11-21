@@ -1,11 +1,6 @@
----
-title: "Chair"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Chair"
----
-
 # Chair
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Chair)
 
 **Contents**
 
@@ -18,8 +13,8 @@ source: "https://thelongdark.fandom.com/wiki/Chair"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| Column 1 \| Column 2 \| Column 3 \| / \| --- \| --- \| --- \| / \| ![Chair](../assets/Chair.jpg) / *Chair* \| ![Sofa](../assets/Sofa_Chair.jpg) / *Sofa* \| ![Stool](../assets/Stool.png) / *Stool* \| | 250px\]\] |
-| ![Chair](../assets/Chair.jpg) / *Chair* | ![Sofa](../assets/Sofa_Chair.jpg) / *Sofa* / ![Stool](../assets/Stool.png) / *Stool* |
+| \[\[File: / ![Chair](../assets/Chair.jpg) / _Chair_ / ![Sofa](../assets/Sofa_Chair.jpg) / _Sofa_ / ![Stool](../assets/Stool.png) / _Stool_ | 250px\]\] |
+| ![Chair](../assets/Chair.jpg) / _Chair_ | ![Sofa](../assets/Sofa_Chair.jpg) / _Sofa_ / ![Stool](../assets/Stool.png) / _Stool_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | No |
@@ -68,5 +63,3 @@ Stools yield 3 reclaimed wood, require a hatchet to harvest, and take 30 minutes
 | 3 | 38 minutes | 112 | -2% Hatchet |
 | 3 | 49 minutes | 146 | -3% Improvised Hatchet |
 | 3 | 56 minutes | 169 | -0.5% Heavy Hammer |
-
-**Lua execution error in Module:Navbox function navbox**

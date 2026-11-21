@@ -1,11 +1,6 @@
----
-title: "Summit Soda"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Summit_Soda"
----
-
 # Summit Soda
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Summit_Soda)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Summit_Soda"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Summit_Soda_icon.png) / *Summit\_Soda\_icon.png* |
+|  | ![](../assets/Summit_Soda_icon.png) / _Summit\_Soda\_icon.png_ |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
@@ -33,7 +28,7 @@ source: "https://thelongdark.fandom.com/wiki/Summit_Soda"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_SummitSoda |
 
-**Summit Soda** is a packaged [food](./Food%20And%20Drink.md) item in [*The Long Dark*](./The%20Long%20Dark.md).
+**Summit Soda** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
@@ -45,20 +40,18 @@ Summit Soda never causes [Food Poisoning](./Food%20Poisoning.md).
 
 ## Trivia
 
-- Summit Soda is packaged as a product named "*Summit Soda"*, possibly a reference to [Timberwolf Mountain](./Timberwolf%20Mountain.md) or the real-life brand "Mountain Dew."
+- Summit Soda is packaged as a product named "_Summit Soda"_, possibly a reference to [Timberwolf Mountain](./Timberwolf%20Mountain.md) or the real-life brand "Mountain Dew."
 - It could also be similar to the lemon-lime flavored "Sprite" due to its green can coloration.
 - Despite being statistically identical to other Sodas, only Summit Soda will spawn on [Interloper Mode](./Survival%20Mode.md).
 - The ingredients on the back list: "Carbonated Water, High Fructose Corn Syrup, Natural Flavours."
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Summit_Soda.png) / *old model* |
+![old model](../assets/Summit_Soda.png)
+
+_old model_
 
 ## Update history
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Газировка\_"Саммит"](ru:%D0%93%D0%B0%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_"%D0%A1%D0%B0%D0%BC%D0%BC%D0%B8%D1%82")

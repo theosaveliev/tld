@@ -1,11 +1,6 @@
----
-title: "Blackrock"
-wiki_namespace: 0
-categories: ["Blackrock", "Regions"]
-source: "https://thelongdark.fandom.com/wiki/Blackrock"
----
-
 # Blackrock
+
+**Categories:** Blackrock, Regions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock)
 
 **Contents**
 
@@ -22,10 +17,10 @@ source: "https://thelongdark.fandom.com/wiki/Blackrock"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Blackrock_Region.jpg) / *Blackrock\_Region.jpg* |
+|  | ![](../assets/Blackrock_Region.jpg) / _Blackrock\_Region.jpg_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Blackrock_Location.png) / *Blackrock\_Location.png* |
-|  | ![](../assets/Map-EP4-L0.jpg) / *Map-EP4-L0.jpg* |
+|  | ![](../assets/Blackrock_Location.png) / _Blackrock\_Location.png_ |
+|  | ![](../assets/Map-EP4-L0.jpg) / _Map-EP4-L0.jpg_ |
 | **Details** |  |
 | Description | An old prison complex built under the shadow of Blackrock Mountain. |
 | Connecting Regions | [Pleasant Valley](./Pleasant%20Valley.md) (via [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) and [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)) [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
@@ -34,8 +29,8 @@ source: "https://thelongdark.fandom.com/wiki/Blackrock"
 | Locations | 25 |
 | Date Added | October 6th 2021 |
 
-> “**For intermediate players. Home to Blackrock Penitentiary, this Region’s icy rivers, deep ravines, and challenging weather act as a natural extension of the notorious prison. Its many caves and winding roads offer additional security if a storm moves in.  
- Connects to Pleasant Valley and Timberwolf Mountain.**”
+> “__For intermediate players. Home to Blackrock Penitentiary, this Region’s icy rivers, deep ravines, and challenging weather act as a natural extension of the notorious prison. Its many caves and winding roads offer additional security if a storm moves in.  
+ Connects to Pleasant Valley and Timberwolf Mountain.__”
 >
 > — - In game description
 
@@ -96,14 +91,24 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) that is found near Mule Br
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![A night view from garden to Blackrock Prison](../assets/Blackcrock_Prison_.png) / *A night view from garden to Blackrock Prison* |
+![A night view from garden to Blackrock Prison](../assets/Blackcrock_Prison_.png)
+
+_A night view from garden to Blackrock Prison_
 
 ## Maps
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A detailed map of Blackrock v2.35 (spoilers)](../assets/Blackrock_.jpg) / *A detailed map of Blackrock v2.35 (spoilers)* | ![Map of Blackrock v2.35 (Interloper/Misery edition, includes spoilers)](../assets/Map_of_Blackrock_v2.35_Interloper-Misery.jpg) / *Map of Blackrock v2.35 (Interloper/Misery edition, includes spoilers)* | ![A map of Blackrock Prison and interiors (Survival mode, v1.99)](../assets/Blackrock_Prison_map.png) / *A map of Blackrock Prison and interiors (Survival mode, v1.99)* | ![](../assets/Blackrock_map.png) / *Blackrock\_map.png* |
+![A detailed map of Blackrock v2.35 (spoilers)](../assets/Blackrock_.jpg)
 
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [fr:Blackrock](fr:Blackrock) [ru:Чёрный камень](ru:%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C)
+_A detailed map of Blackrock v2.35 (spoilers)_
+
+![Map of Blackrock v2.35 (Interloper/Misery edition, includes spoilers)](../assets/Map_of_Blackrock_v2.35_Interloper-Misery.jpg)
+
+_Map of Blackrock v2.35 (Interloper/Misery edition, includes spoilers)_
+
+![A map of Blackrock Prison and interiors (Survival mode, v1.99)](../assets/Blackrock_Prison_map.png)
+
+_A map of Blackrock Prison and interiors (Survival mode, v1.99)_
+
+![](../assets/Blackrock_map.png)
+
+_Blackrock\_map.png_

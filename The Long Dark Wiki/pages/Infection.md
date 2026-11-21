@@ -1,17 +1,12 @@
----
-title: "Infection"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Infection"
----
-
 # Infection
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Infection)
 
 **Infection**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Infection_icon.png) / *Infection\_icon.png* |
+|  | ![](../assets/Infection_icon.png) / _Infection\_icon.png_ |
 | Release | [5 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.107) |
 | Update | 0.107 |
 | **Properties** |  |
@@ -30,7 +25,7 @@ An **Infection** is a life threating [Affliction](./Afflictions.md) acquired fro
 
 ## Affliction
 
-> “**You have an infection that could kill you if left untreated.**”
+> “__You have an infection that could kill you if left untreated.__”
 >
 > — In-game description
 
@@ -42,8 +37,6 @@ It is very important to note that one can have multiple Infections at once, even
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old icon.](../assets/Infection_risk.png) / *Old icon.* |
+![Old icon.](../assets/Infection_risk.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Old icon._

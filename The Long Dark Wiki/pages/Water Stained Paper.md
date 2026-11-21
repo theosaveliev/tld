@@ -1,17 +1,12 @@
----
-title: "Water Stained Paper"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Water_Stained_Paper"
----
-
 # Water Stained Paper
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Water_Stained_Paper)
 
 **Water Stained Paper**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Water_Stained_Paper_icon.png) / *Water\_Stained\_Paper\_icon.png* |
+|  | ![](../assets/Water_Stained_Paper_icon.png) / _Water\_Stained\_Paper\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -30,7 +25,7 @@ in [Perseverance Wilds](./Perseverance%20Wilds.md) in the main mission [To Those
 
 ## Transcript
 
-*The following text is transcribed from **Water Stained Paper***
+_The following text is transcribed from **Water Stained Paper**_
 
 **I'm starting to get it. Starting to see the BIG PICTURE.
 
@@ -48,5 +43,3 @@ I can go deeper.**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

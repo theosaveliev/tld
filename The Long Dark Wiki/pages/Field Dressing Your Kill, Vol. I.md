@@ -1,11 +1,6 @@
----
-title: "Field Dressing Your Kill, Vol. I"
-wiki_namespace: 0
-categories: ["Fire Starting", "Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Field_Dressing_Your_Kill%2C_Vol._I"
----
-
 # Field Dressing Your Kill, Vol\. I
+
+**Categories:** Fire Starting, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Field_Dressing_Your_Kill%2C_Vol._I)
 
 **Contents**
 
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Field_Dressing_Your_Kill%2C_Vol._I"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) / *Field\_Dressing\_Your\_Kill,\_Vol.\_I\_icon.png* |
+|  | ![](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) / _Field\_Dressing\_Your\_Kill,\_Vol.\_I\_icon.png_ |
 | Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.346) |
 | Wintermute | No |
 | **Properties** |  |
@@ -37,13 +32,13 @@ source: "https://thelongdark.fandom.com/wiki/Field_Dressing_Your_Kill%2C_Vol._I"
 | **Actions** |  |
 | Backpack | Research, Drop |
 
-*For the version encountered in [Wintermute](./Wintermute.md), see [Field Dressing Your Kill, Vol. I (The Basics of Survival)](./Field%20Dressing%20Your%20Kill%2C%20Vol.%20I%20%28The%20Basics%20of%20Survival%29.md).*
+_For the version encountered in [Wintermute](./Wintermute.md), see [Field Dressing Your Kill, Vol. I (The Basics of Survival)](./Field%20Dressing%20Your%20Kill%2C%20Vol.%20I%20%28The%20Basics%20of%20Survival%29.md)._
 
 **Field Dressing Your Kill, Vol. I** is a [Research Book](./Research%20Book.md) used to improve the [Carcass Harvesting](./Carcass%20Harvesting.md) skill. It can also be used as Fuel when starting a [Fire](./Fire.md).
 
 ## Research
 
-*Field Dressing Your Kill, Vol. I* can be researched for 10 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Carcass Harvesting skill points](./Carcass%20Harvesting.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 8 hours.
+_Field Dressing Your Kill, Vol. I_ can be researched for 10 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Carcass Harvesting skill points](./Carcass%20Harvesting.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 8 hours.
 
 Research can only be performed under the following conditions:
 
@@ -90,18 +85,20 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 ## Trivia
 
-- Attempting to burn a copy of *Field Dressing Your Kill, Vol. I* when it has not been fully read will give a confirmation warning before it can be burned.
-- Once a copy of *Field Dressing Your Kill, Vol. I* (or any research book) is fully researched, it will no longer appear in the Tools section of the Backpack.
+- Attempting to burn a copy of _Field Dressing Your Kill, Vol. I_ when it has not been fully read will give a confirmation warning before it can be burned.
+- Once a copy of _Field Dressing Your Kill, Vol. I_ (or any research book) is fully researched, it will no longer appear in the Tools section of the Backpack.
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![3D Model](../assets/Field_dressing_your_kill.png) / *3D Model* | ![Old model](../assets/Field_Dressing_Your_Kill_Old.png) / *Old model* |
+![3D Model](../assets/Field_dressing_your_kill.png)
+
+_3D Model_
+
+![Old model](../assets/Field_Dressing_Your_Kill_Old.png)
+
+_Old model_
 
 ## Update history
 
 - UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#.346)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**

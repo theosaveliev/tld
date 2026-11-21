@@ -1,11 +1,6 @@
----
-title: "Transcript (disambiguation)"
-wiki_namespace: 0
-categories: ["Disambiguations"]
-source: "https://thelongdark.fandom.com/wiki/Transcript_(disambiguation)"
----
-
 # Transcript \(disambiguation\)
+
+**Categories:** Disambiguations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Transcript_%28disambiguation%29)
 
 **Contents**
 
@@ -20,11 +15,11 @@ source: "https://thelongdark.fandom.com/wiki/Transcript_(disambiguation)"
 
 | Column 1 |
 | --- |
-| ![Disambig.png](../assets/Disambig.png)***This article is a disambiguation page for Transcript (disambiguation)** / The following is a list of articles that share the same, or very similar, titles. Please follow one of the links below. / If an internal link led you here, you may wish to change the link to point directly to the intended article.* |
+| ![Disambig.png](../assets/Disambig.png)_**This article is a disambiguation page for Transcript (disambiguation)** / The following is a list of articles that share the same, or very similar, titles. Please follow one of the links below. / If an internal link led you here, you may wish to change the link to point directly to the intended article._ |
 
 **Transcripts** are the pages with all dialogue spoken by characters in a mission.
 
-**Transcripts for *[The Long Dark](./The%20Long%20Dark.md)***
+**Transcripts for _[The Long Dark](./The%20Long%20Dark.md)_**
 
 ## General Dialogue
 

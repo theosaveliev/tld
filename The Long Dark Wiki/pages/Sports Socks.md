@@ -1,17 +1,12 @@
----
-title: "Sports Socks"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Sports_Socks"
----
-
 # Sports Socks
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sports_Socks)
 
 **Sports Socks**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Sports_Socks_icon.png) / *Sports\_Socks\_icon.png* |
+|  | ![](../assets/Sports_Socks_icon.png) / _Sports\_Socks\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
@@ -26,11 +21,11 @@ source: "https://thelongdark.fandom.com/wiki/Sports_Socks"
 | Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 15 minutes / 75% condition |
 
-> “**Thin cotton socks. Not very warm and useless when wet.**”
+> “__Thin cotton socks. Not very warm and useless when wet.__”
 >
 > — In-game description
 
-**Sports Socks** are a type of Clothing in *The Long Dark*.
+**Sports Socks** are a type of Clothing in _The Long Dark_.
 
 ## Overview
 
@@ -40,13 +35,19 @@ Despite this, they may still be worth picking up, especially in higher difficult
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Old model.](../assets/Cotton_socks_%28historical%29.png) / *Old model.* | ![Clothing model icon.](../assets/Sports_Socks_Model_icon.png) / *Clothing model icon.* | ![Clothing model icon damaged.](../assets/Sports_Socks_Model_Damaged_icon.png) / *Clothing model icon damaged.* |
+![Old model.](../assets/Cotton_socks_%28historical%29.png)
+
+_Old model._
+
+![Clothing model icon.](../assets/Sports_Socks_Model_icon.png)
+
+_Clothing model icon._
+
+![Clothing model icon damaged.](../assets/Sports_Socks_Model_Damaged_icon.png)
+
+_Clothing model icon damaged._
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
-  - Renamed from *Cotton Socks* to *Sports Socks*
-
-**Lua execution error in Module:Navbox function navbox** [ru:Спортивные носки](ru:%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D1%81%D0%BA%D0%B8)
+  - Renamed from _Cotton Socks_ to _Sports Socks_

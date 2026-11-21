@@ -1,17 +1,12 @@
----
-title: "Foreman's Site Report Day 38"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Foreman's_Site_Report_Day_38"
----
-
 # Foreman's Site Report Day 38
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Foreman's_Site_Report_Day_38)
 
 **Foreman's Site Report, Day 38**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Foreman%27s_Site_Report_Day_38_icon.png) / *Foreman's\_Site\_Report\_Day\_38\_icon.png* |
+|  | ![](../assets/Foreman%27s_Site_Report_Day_38_icon.png) / _Foreman's\_Site\_Report\_Day\_38\_icon.png_ |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | Wintermute | No |
 | **Properties** |  |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Foreman's_Site_Report_Day_38"
 
 ## Transcript
 
-*The following text is transcribed from **Foreman's Site Report Day 38***
+_The following text is transcribed from **Foreman's Site Report Day 38**_
 
 **Was our first day back down below since the boss and his people arrived.
 
@@ -43,7 +38,5 @@ Did I mention I need to get the hell out of here?**
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Отчет бригадира, день 38](ru:%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B8%D1%80%D0%B0,_%D0%B4%D0%B5%D0%BD%D1%8C_38)

@@ -1,11 +1,6 @@
----
-title: "Tinder Plug"
-wiki_namespace: 0
-categories: ["Fire Starting"]
-source: "https://thelongdark.fandom.com/wiki/Tinder_Plug"
----
-
 # Tinder Plug
+
+**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tinder_Plug)
 
 **Contents**
 
@@ -22,14 +17,14 @@ source: "https://thelongdark.fandom.com/wiki/Tinder_Plug"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Tinder_Plug_icon.png) / *Tinder\_Plug\_icon.png* |
+|  | ![](../assets/Tinder_Plug_icon.png) / _Tinder\_Plug\_icon.png_ |
 | **General** |  |
 | Item Type | Fire Starting\|- |
 | Firestarting Slot | Tinder |
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.05 kg(0.11 lbs) |
 
-> “**A small plug or bundle of flammable material (paper, wool, cloth, dry bark or needles, etc.) required to start a fire.**”
+> “__A small plug or bundle of flammable material (paper, wool, cloth, dry bark or needles, etc.) required to start a fire.__”
 >
 > — In-game description
 
@@ -123,8 +118,6 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Tinder_plug.png) / *old model* |
+![old model](../assets/Tinder_plug.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_old model_

@@ -1,11 +1,6 @@
----
-title: "Ash Canyon"
-wiki_namespace: 0
-categories: ["Regions"]
-source: "https://thelongdark.fandom.com/wiki/Ash_Canyon"
----
-
 # Ash Canyon
+
+**Categories:** Regions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ash_Canyon)
 
 **Contents**
 
@@ -22,10 +17,10 @@ source: "https://thelongdark.fandom.com/wiki/Ash_Canyon"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Ash_Canyon.jpg) / *Ash\_Canyon.jpg* |
+|  | ![](../assets/Ash_Canyon.jpg) / _Ash\_Canyon.jpg_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Ash_Canyon_Location.png) / *Ash\_Canyon\_Location.png* |
-|  | ![](../assets/Ash_Canyon_Region_Map.png) / *Ash\_Canyon\_Region\_Map.png* |
+|  | ![](../assets/Ash_Canyon_Location.png) / _Ash\_Canyon\_Location.png_ |
+|  | ![](../assets/Ash_Canyon_Region_Map.png) / _Ash\_Canyon\_Region\_Map.png_ |
 | **Details** |  |
 | Description | Deep valleys and high plateaus connected by rope bridges overlooking burnt, decaying trees subject to an ancient forest fire. |
 | Connecting Regions | [Timberwolf Mountain](./Timberwolf%20Mountain.md) (through multiple different connection points) |
@@ -35,11 +30,11 @@ source: "https://thelongdark.fandom.com/wiki/Ash_Canyon"
 | Hazards and Survivability | Lots of high rope bridges. Weather can often be poor. Some shelters scattered throughout. |
 | Date Added | December 7 2020 |
 
-> “**For advanced players. A climber's paradise dotted with narrow ravines, towering cliffs, and multiple high plateaus. Its burnt forests and mining settlements also hint at a darker history. **”
+> “__For advanced players. A climber's paradise dotted with narrow ravines, towering cliffs, and multiple high plateaus. Its burnt forests and mining settlements also hint at a darker history. __”
 >
 > — - In-game description
 
-**Ash Canyon** is the 11th [Region](./Region.md) added to *The Long Dark* and was released on December 7th, 2020 in the Hesitant Prospect update. It was first announced in 2020 along with the Halloween event and subsequent [Challenge](./Challenge.md): [Escape the Darkwalker](./Escape%20the%20Darkwalker.md).
+**Ash Canyon** is the 11th [Region](./Region.md) added to _The Long Dark_ and was released on December 7th, 2020 in the Hesitant Prospect update. It was first announced in 2020 along with the Halloween event and subsequent [Challenge](./Challenge.md): [Escape the Darkwalker](./Escape%20the%20Darkwalker.md).
 
 Ash Canyon can be accessed from two locations in eastern [Timberwolf Mountain](./Timberwolf%20Mountain.md): the eastern end of the [Echo Ravine](./Echo%20Ravine.md) basin which leads to [Bitter Marsh](./Bitter%20Marsh.md), and a transition cave east of [Deer Clearing](./Deer%20Clearing.md) to [Pillar's Footrest](./Pillar%27s%20Footrest.md).
 
@@ -91,16 +86,26 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) close to the Cave Region T
 
 ## Map
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![A detailed map of Ash Canyon v2.35 (spoilers)](../assets/AC_map_default.png) / *A detailed map of Ash Canyon v2.35 (spoilers)* | ![A detailed map of Ash Canyon v2.35 (Interloper/Misery edition, includes spoilers)](../assets/AC_map_loper.png) / *A detailed map of Ash Canyon v2.35 (Interloper/Misery edition, includes spoilers)* | ![Older map variant v1.94](../assets/Ash_Canyon_map.png) / *Older map variant v1.94* |
+![A detailed map of Ash Canyon v2.35 (spoilers)](../assets/AC_map_default.png)
+
+_A detailed map of Ash Canyon v2.35 (spoilers)_
+
+![A detailed map of Ash Canyon v2.35 (Interloper/Misery edition, includes spoilers)](../assets/AC_map_loper.png)
+
+_A detailed map of Ash Canyon v2.35 (Interloper/Misery edition, includes spoilers)_
+
+![Older map variant v1.94](../assets/Ash_Canyon_map.png)
+
+_Older map variant v1.94_
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Fog at higher elevations can make traversal difficult, with bridges looking as though they lead to nowhere](../assets/Ash_Canyon_Rope_Bridge_Fog.jpg) / *Fog at higher elevations can make traversal difficult, with bridges looking as though they lead to nowhere* | ![Concept art for the region. Do note that such bridges do not appear in the final product](../assets/Ash_Canyon_Concept_Art.png) / *Concept art for the region. Do note that such bridges do not appear in the final product* |
+![Fog at higher elevations can make traversal difficult, with bridges looking as though they lead to nowhere](../assets/Ash_Canyon_Rope_Bridge_Fog.jpg)
+
+_Fog at higher elevations can make traversal difficult, with bridges looking as though they lead to nowhere_
+
+![Concept art for the region. Do note that such bridges do not appear in the final product](../assets/Ash_Canyon_Concept_Art.png)
+
+_Concept art for the region. Do note that such bridges do not appear in the final product_
 
 ## Trivia
-
-The forest fire that occurred throughout the region may have been caused by past miners heading to the [Gold Mine](./Gold%20Mine.md), as several [Cardboard Matches](./Cardboard%20Matches.md) can be found on both sides of many of the swinging bridges. A broken [Storm Lantern](./Storm%20Lantern.md) can also be found on the cliff west of [Angler's Den](./Angler%27s%20Den.md), and could have also been the cause. **Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [fr:Canyon des Cendres](fr:Canyon_des_Cendres) [ru:Пепельный каньон](ru:%D0%9F%D0%B5%D0%BF%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD)

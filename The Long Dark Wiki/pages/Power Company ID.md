@@ -1,17 +1,12 @@
----
-title: "Power Company ID"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Power_Company_ID"
----
-
 # Power Company ID
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Power_Company_ID)
 
 **Power Company ID**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Power_Company_ID_icon.png) / *Power\_Company\_ID\_icon.png* |
+|  | ![](../assets/Power_Company_ID_icon.png) / _Power\_Company\_ID\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Lost Power Workers](./Lost%20Power%20Workers.md) |
 | **Properties** |  |
@@ -40,5 +35,3 @@ Samual Franks, Journeyman Electrician
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

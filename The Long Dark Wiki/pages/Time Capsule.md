@@ -1,10 +1,6 @@
----
-title: "Time Capsule"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Time_Capsule"
----
-
 # Time Capsule
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Time_Capsule)
 
 **Contents**
 
@@ -33,12 +29,12 @@ source: "https://thelongdark.fandom.com/wiki/Time_Capsule"
 
 ![Time\_capsule\_icon.png](../assets/Time_capsule_icon.png) ![5\_Years\_Time\_Capsule.png](../assets/5_Years_Time_Capsule.png)
 
-> “**We launched THE LONG DARK on Steam Early Access on September 22nd, 2014. Since then, we have updated the game over 150 times. Until now, everything but the most current update has been unavailable to our community.  
- **”
+> “__We launched THE LONG DARK on Steam Early Access on September 22nd, 2014. Since then, we have updated the game over 150 times. Until now, everything but the most current update has been unavailable to our community.  
+ __”
 >
 > — We created the TIME CAPSULE to let you step back in history and play every major update since our launch. Think of it as a playable retrospective of how the game has evolved over the years -- based on developer vision tempered by player feedback.
 
-The **Time Capsule** is a playable archive released on September 20th 2019 to commemorate 5 years of development of *[The Long Dark](./The%20Long%20Dark.md).* It was released for free by Hinterland, and allows users to play previous builds of the game as far back as the pre alpha builds. This functionality is currently only available to Steam users due to Steam's infrastructure allowing access to beta build archives of *The Long Dark*.
+The **Time Capsule** is a playable archive released on September 20th 2019 to commemorate 5 years of development of _[The Long Dark](./The%20Long%20Dark.md)._ It was released for free by Hinterland, and allows users to play previous builds of the game as far back as the pre alpha builds. This functionality is currently only available to Steam users due to Steam's infrastructure allowing access to beta build archives of _The Long Dark_.
 
 Keep in mind that all previous versions of the game are Unsupported, meaning that these are old builds that will not be receiving any new updates. Many forms of [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md) that have long since been removed exist within previous builds of the game, and have their own pages on this Wiki should you encounter them (example cut tools and mechanics/early Wintermute Predux missions).
 
@@ -182,5 +178,3 @@ Branch Password: Myr9JbqSXm7qJxWP
 ## V.119 Early Access Launch
 
 Branch Name: z\_earlyaccesslaunch
-
-Branch Password: 688jsRNQe6NkE3GV**Lua execution error in Module:Navbox function navbox**

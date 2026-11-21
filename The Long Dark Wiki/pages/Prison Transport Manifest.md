@@ -1,17 +1,12 @@
----
-title: "Prison Transport Manifest"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Prison_Transport_Manifest"
----
-
 # Prison Transport Manifest
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Prison_Transport_Manifest)
 
 **Prison Transport Manifest**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Prison_Transport_Manifest_icon.png) / *Prison\_Transport\_Manifest\_icon.png* |
+|  | ![](../assets/Prison_Transport_Manifest_icon.png) / _Prison\_Transport\_Manifest\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Properties** |  |
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Prison_Transport_Manifest"
 
 ## Transcript
 
-*The following text is transcribed from **Prison Transport Manifest***
+_The following text is transcribed from **Prison Transport Manifest**_
 
 **The following felons are slated for immediate transport to Blackrock Federal Penitentiary. Scheduled arrival: Thursday, November XX, 20XX:
 
@@ -67,5 +62,3 @@ Known medical conditions: None.**
   - Hobbs was added to the list with the Redux release of Episode 1.
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Vachon and Heller were added to the Prison Transport Manifest with the release of Episode 4.
-
-**Lua execution error in Module:Navbox function navbox**

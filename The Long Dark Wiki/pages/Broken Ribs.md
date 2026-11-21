@@ -1,11 +1,6 @@
----
-title: "Broken Ribs"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Broken_Ribs"
----
-
 # Broken Ribs
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Broken_Ribs)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Broken_Ribs"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Broken_Ribs_icon.png) / *Broken\_Ribs\_icon.png* |
+|  | ![](../assets/Broken_Ribs_icon.png) / _Broken\_Ribs\_icon.png_ |
 | Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16) |
 | Update | 1.16 |
 | **Properties** |  |
@@ -37,7 +32,7 @@ source: "https://thelongdark.fandom.com/wiki/Broken_Ribs"
 
 ## Overview
 
-> “**One or more of your ribs are broken. You cannot climb, and your mobility will be reduced until this injury heals.**”
+> “__One or more of your ribs are broken. You cannot climb, and your mobility will be reduced until this injury heals.__”
 
 Broken Ribs negatively affects the player in the following ways until healed:
 
@@ -64,5 +59,3 @@ Healing Broken Ribs requires a treatment of 2 [Bandages](./Bandage.md) and 4 [Pa
 One method to quickly pass time is to purposely contract [Hypothermia](./Hypothermia.md) to quickly lose [Fatigue](./Fatigue.md), allowing the player to Sleep for longer periods of time. Any Condition lost from the affliction will be quickly healed while sleeping.
 
 ## Trivia
-
-[Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) begins with [Will Mackenzie](./Will%20Mackenzie.md) falling off a large cliff during the [Prologue](./Prologue.md), resulting in him acquiring the Broken Ribs affliction. This Affliction is scripted and is healed during the next mission. Mackenzie is scripted to acquire another case of Broken Ribs after the Prison explodes in the mission [Donner](./Donner%20%28mission%29.md), and is to date the only other way to acquire the Broken Ribs affliction aside from Moose attacks.**Lua execution error in Module:Navbox function navbox**[ru:Сломанное ребро](ru:%D0%A1%D0%BB%D0%BE%D0%BC%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D1%80%D0%B5%D0%B1%D1%80%D0%BE)

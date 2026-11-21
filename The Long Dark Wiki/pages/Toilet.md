@@ -1,17 +1,16 @@
----
-title: "Toilet"
-wiki_namespace: 0
-categories: ["Interactable objects", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Toilet"
----
-
 # Toilet
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Toilet bowl without toilet cistern.](../assets/Toilet_without_tank.jpg) / *Toilet bowl without toilet cistern.* | ![Toilet bowl with toilet cistern.](../assets/Toilet_with_tank.jpg) / *Toilet bowl with toilet cistern.* |
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Toilet)
 
-**Toilet** belongs to stationary interactable objects in *[The Long Dark](./The%20Long%20Dark.md)*.
+![Toilet bowl without toilet cistern.](../assets/Toilet_without_tank.jpg)
+
+_Toilet bowl without toilet cistern._
+
+![Toilet bowl with toilet cistern.](../assets/Toilet_with_tank.jpg)
+
+_Toilet bowl with toilet cistern._
+
+**Toilet** belongs to stationary interactable objects in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -24,5 +23,3 @@ On Interloper game mode where matches are scarce, water from toilets can be life
 ## Trivia
 
 - In real life, drinking water from a toilet's bowl would be dangerous due to harmful pathogens; however, water from a toilet's cistern would be as safe to drink as tap water.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Туалет](ru:%D0%A2%D1%83%D0%B0%D0%BB%D0%B5%D1%82)

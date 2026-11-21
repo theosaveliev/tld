@@ -1,11 +1,6 @@
----
-title: "Lost and Found"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Lost_and_Found"
----
-
 # Lost and Found
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lost_and_Found)
 
 **Contents**
 
@@ -19,14 +14,14 @@ source: "https://thelongdark.fandom.com/wiki/Lost_and_Found"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Lost_and_Found.png) / *Lost\_and\_Found.png* |
+|  | ![](../assets/Lost_and_Found.png) / _Lost\_and\_Found.png_ |
 | Release | 22 October 2019 |
 | Update | [1.60](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Story item | No |
 | **Advanced data** |  |
 | Object key | GAMEPLAY\_InaccessibleGearContainer |
 
-**Lost and Found** are a special type of container in *The Long Dark*. They look like a [metal container](./Metal%20Container.md), but are red in colour and have the [Hinterland](./Hinterland%20Studio%20Inc..md) logo on its cover and tin, and do not naturally spawn in the game world.[¹](#fn1)
+**Lost and Found** are a special type of container in _The Long Dark_. They look like a [metal container](./Metal%20Container.md), but are red in colour and have the [Hinterland](./Hinterland%20Studio%20Inc..md) logo on its cover and tin, and do not naturally spawn in the game world.[¹](#fn1)
 
 ## Overview
 
@@ -175,8 +170,6 @@ Lost and Found containers were first introduced in the [Crossroads Elegy](./Epis
 ## References
 
 **Template:reflist**
-
-**Lua execution error in Module:Navbox function navbox**
 
 ## Notes
 

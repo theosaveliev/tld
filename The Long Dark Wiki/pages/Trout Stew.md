@@ -1,11 +1,6 @@
----
-title: "Trout Stew"
-wiki_namespace: 0
-categories: ["DLC Content", "Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Trout_Stew"
----
-
 # Trout Stew
+
+**Categories:** DLC Content, Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trout_Stew)
 
 **Contents**
 
@@ -16,8 +11,8 @@ source: "https://thelongdark.fandom.com/wiki/Trout_Stew"
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / **Trout Stew** / \| Property \| Details \| / \| --- \| --- \| / \|  \| ![](../assets/Trout_Stew_icon.png) / *Trout\_Stew\_icon.png* \| / \| Release \| [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) \| / \| Wintermute \| No \| / \| Renewable \| Yes ([Trader](./Trader.md)) \| / \| **Properties** \|  \| / \| Item type \| [Food And Drink](./Food%20And%20Drink.md)\\|- \| / \| **Values** \|  \| / \| Calories \| 750 (938) kcal \| / \| Hydration \| 3% \| / \| [Vitamin C](./Scurvy.md) \| Minor (17%) \| / \| Weight \| 0.35 kg (0.77 lbs) \| / \| **Decay Rate** \|  \| / \| Inside \| 20.000% per day \| / \| Outside \| 5.000% per day \| / \| **Advanced data** \|  \| / \| Item key \| GEAR\_CookedStewTrout \| / **Trout Stew** is a food item in *The Long Dark* and is made with a [Cooking Pot](./Cooking%20Pot.md). / ## Overview / Like other stews, it increases [Fatigue,](./Fatigue.md) however also bestows [Improved Rest](./Improved%20Rest.md) for 3 hours. This makes it quite useful for restoring condition by allowing for a longer period of sleep. It is also calorie-efficient for the ingredients required, albeit less so than other varieties of stew. Regardless, this bonus is offset by a fairly long cooking time. / ## Effects / - 3 hours of Improved Rest (+1% [Condition](./Condition.md) restored per hour of sleep, or after 18 hours) / - -15% [Fatigue](./Fatigue.md) (instantly) / ## Recipe / **Trout Stew** / \| Property \| Details \| / \| --- \| --- \| / \| **Template:pic link plain**[Cooking](./Cooking.md)** \|  \| / \|  \| - \| / \|  \| 120.0 minutes (2 hour 0 minutes) \| / \| **Requirements** \|  \| / \| Required level \| **Template:pic link plain** 1 \| / \| Facility \| **Template:iconlink** \| / \| Tool \| **Template:iconlink** \| / \| **Materials** \|  \| / \| **Template:iconlink plain** \|  \| / \| Item \| [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) \| / \| Quantity \| 0.50 kg \| / \| **Template:iconlink plain** \|  \| / \|  \| [Broth](./Broth.md) \| / \|  \| 0.20 L \| / \| **Template:iconlink plain** \|  \| / \|  \| [Old Mill Flour](./Old%20Mill%20Flour.md) \| / \|  \| 0.05 kg \| / ## Update history / - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):** / - Added to game. / **Lua execution error in Module:Navbox function navbox** [ru:Рагу из форели](ru:%D0%A0%D0%B0%D0%B3%D1%83_%D0%B8%D0%B7_%D1%84%D0%BE%D1%80%D0%B5%D0%BB%D0%B8) |
-| ![](../assets/Trout_Stew_icon.png) / *Trout\_Stew\_icon.png* |  |  |
+
+| ![](../assets/Trout_Stew_icon.png) / _Trout\_Stew\_icon.png_ |  |  |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |  |
 | Wintermute | No |  |
 | Renewable | Yes ([Trader](./Trader.md)) |  |

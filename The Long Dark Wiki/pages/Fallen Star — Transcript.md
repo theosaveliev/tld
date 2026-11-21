@@ -1,11 +1,6 @@
----
-title: "Fallen Star/Transcript"
-wiki_namespace: 0
-categories: ["Episode 3"]
-source: "https://thelongdark.fandom.com/wiki/Fallen_Star%2FTranscript"
----
-
 # Fallen Star/Transcript
+
+**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fallen_Star%2FTranscript)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Fallen_Star%2FTranscript"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Missions_story_ep3_Triage.png) / *Missions\_story\_ep3\_Triage.png* |
+|  | ![](../assets/Missions_story_ep3_Triage.png) / _Missions\_story\_ep3\_Triage.png_ |
 | Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
 | Previous | [Trauma/Transcript](./Trauma%20%E2%80%94%20Transcript.md) |
 | Current | Fallen Star/Transcript |
@@ -35,7 +30,7 @@ CHAPTER TWO
 
 FALLEN STAR
 
-*Astrid begins diagnosing the [Crash Survivors](./Crash%20Survivor.md) on the floor. Upon diagnosing one of them, Astrid will say one of the following lines:*
+_Astrid begins diagnosing the [Crash Survivors](./Crash%20Survivor.md) on the floor. Upon diagnosing one of them, Astrid will say one of the following lines:_
 
 - Astrid: "Let me have a look, OK?"
 - Astrid: "Easy, I'm just gonna see if I can help."
@@ -44,17 +39,17 @@ FALLEN STAR
 - Astrid: "This might be serious."
 - Astrid: "I'm going to check you over."
 
-*Astrid kneels down to many of the survivors, checking temperature by placing the back of her palm on some of the survivor's foreheads, while merely looking at others. Most survivors are in good shape, and do not need attention. One survivor however has a Diabetes bracelet, and is suffering from [Hyperglycemic Risk](./Hyperglycemic%20Risk.md).*
+_Astrid kneels down to many of the survivors, checking temperature by placing the back of her palm on some of the survivor's foreheads, while merely looking at others. Most survivors are in good shape, and do not need attention. One survivor however has a Diabetes bracelet, and is suffering from [Hyperglycemic Risk](./Hyperglycemic%20Risk.md)._
 
-*After diagnosing all the survivors, Astrid returns to speak with Father Thomas*
+_After diagnosing all the survivors, Astrid returns to speak with Father Thomas_
 
 Astrid: "I've had a look at the survivors. Most are in fairly good condition, given the circumstances."
 
-Father Thomas: "These were the lucky ones. You'll find the ones who were less fortunate in the basement." *Father Thomas takes his glasses off* "May God take mercy on their souls. They died from their injuries, or were found dead." *He puts his glasses back on* "We put them downstairs to keep the bodies cold, and also...well, there are wolves around, you see."
+Father Thomas: "These were the lucky ones. You'll find the ones who were less fortunate in the basement." _Father Thomas takes his glasses off_ "May God take mercy on their souls. They died from their injuries, or were found dead." _He puts his glasses back on_ "We put them downstairs to keep the bodies cold, and also...well, there are wolves around, you see."
 
-*Astrid approaches Father Thomas and puts her right hand on his left shoulder,*
+_Astrid approaches Father Thomas and puts her right hand on his left shoulder,_
 
-Astrid: "Yes, I've seen them. I think I can find most of what these survivors need. But there is a diabetic in the group." *Astrid gestures to Dimitri* "They're going to need insulin, and soon. Do you know where I might find some?"
+Astrid: "Yes, I've seen them. I think I can find most of what these survivors need. But there is a diabetic in the group." _Astrid gestures to Dimitri_ "They're going to need insulin, and soon. Do you know where I might find some?"
 
 Father Thomas: "That's bad news...no, I don't."
 
@@ -74,11 +69,11 @@ Astrid: "Ok. You keep an eye on everyone and I'll be back as soon as I can."
 
 Father Thomas: "Thank you for your help."
 
-*Astrid begins to walk out the front doors*
+_Astrid begins to walk out the front doors_
 
 Father Thomas: "One more thing..."
 
-*Astrid turns around and walks back to Father Thomas*
+_Astrid turns around and walks back to Father Thomas_
 
 Astrid: "Yes?"
 
@@ -96,13 +91,13 @@ Astrid: "I'll do what I can to find IDs...documents...anything that can help ide
 
 Father Thomas: "In turn, take this, my child."
 
-*Father Thomas produces a [Rosary](./Rosary.md) and tries to hand it to Astrid*
+_Father Thomas produces a [Rosary](./Rosary.md) and tries to hand it to Astrid_
 
 Astrid: "Oh um...I'm...I'm not religious. Please, keep it."
 
 Father Thomas: "It's not for you. Please, humour me."
 
-*Father Thomas places the Rosary in Astrid's hand*
+_Father Thomas places the Rosary in Astrid's hand_
 
 Astrid: "I...I don't understand."
 
@@ -114,7 +109,7 @@ Father Thomas: "Perhaps in the end, faith is all we have."
 
 ## Locate the downed airliner.
 
-*Just as Astrid is about to leave the Community Hall, a phone rings at the entrance. Astrid picks it up.*
+_Just as Astrid is about to leave the Community Hall, a phone rings at the entrance. Astrid picks it up._
 
 [Molly](./Molly.md): "So...you're still alive."
 
@@ -128,7 +123,7 @@ Molly: "You risked your life to come here to help some sick people. You came to 
 
 Astrid: "I would like to help the crash victims, yes."
 
-Molly: *Sighs* "I wouldn't get your hopes up. A few days in this weather, and with the wolves prowling...doubt you'll find anyone alive out there."
+Molly: _Sighs_ "I wouldn't get your hopes up. A few days in this weather, and with the wolves prowling...doubt you'll find anyone alive out there."
 
 Astrid: "Let's hope you're wrong."
 
@@ -146,52 +141,52 @@ Astrid: "Well...ok. Thanks I guess."
 
 Molly: "Watch out for those wolves."
 
-*Molly hangs up, and Astrid puts the Receiver away*
+_Molly hangs up, and Astrid puts the Receiver away_
 
-*Astrid walks outside of the Community Hall, the weather having gone from light snow to a clear evening. All of a sudden a prolonged howl rings out around her.*
+_Astrid walks outside of the Community Hall, the weather having gone from light snow to a clear evening. All of a sudden a prolonged howl rings out around her._
 
 Astrid: "That can't be good..."
 
-*A [Timberwolf](./Timberwolf.md) pack attacks her, and she has a variety of reactions to the situation as the battle goes on*
+_A [Timberwolf](./Timberwolf.md) pack attacks her, and she has a variety of reactions to the situation as the battle goes on_
 
 - Astrid: "Think, Astrid, think."
 - Astrid: "Wha?"
 
-*Eventually she drives them off, killing or causing the pack to flee in terror, and travels to the blue sedan Molly mentioned. She finds several marine flares, useful for keeping Timberwolves at bay.*
+_Eventually she drives them off, killing or causing the pack to flee in terror, and travels to the blue sedan Molly mentioned. She finds several marine flares, useful for keeping Timberwolves at bay._
 
 Astrid: "Some more help from Molly. Let's hope these work."
 
-*Astrid then turns and sees a bright fire and smoke ball in the mountains, the crashed plane. She begins her lengthy journey to the crash site. Halfway to the liner, another earthquake hits the region*
+_Astrid then turns and sees a bright fire and smoke ball in the mountains, the crashed plane. She begins her lengthy journey to the crash site. Halfway to the liner, another earthquake hits the region_
 
 Astrid: "What the..."
 
-*The quake subsides after a few moments, and Astrid carries on. She eventually sees the front of the crashed plane, still burning after all this time. She opens the lower hatch door and steps inside, walking to the back of the plane only for the platform she is standing on to collapse. She stops to bask in the destruction before her, with the plane split into 3 parts with several dead bodies and suitcases strewn all around like ragdolls. Crows fly noisily over the frozen corpses.*
+_The quake subsides after a few moments, and Astrid carries on. She eventually sees the front of the crashed plane, still burning after all this time. She opens the lower hatch door and steps inside, walking to the back of the plane only for the platform she is standing on to collapse. She stops to bask in the destruction before her, with the plane split into 3 parts with several dead bodies and suitcases strewn all around like ragdolls. Crows fly noisily over the frozen corpses._
 
 Astrid: "Hard to believe anyone survived this. Now to find that insulin."
 
 ## Find the passenger IDs. \[0/10\] Find Insulin for Dimitri.
 
-*Astrid begins searching for IDs on the first of the bodies, the skin frozen purple by now.*
+_Astrid begins searching for IDs on the first of the bodies, the skin frozen purple by now._
 
 Astrid: "These poor people...nothing but wreckage."
 
-*She continues searching for IDs and Dimitri's Insulin until she finally arrives at the tail section, where she finds the body of one of the plane's crew with a manifest.*
+_She continues searching for IDs and Dimitri's Insulin until she finally arrives at the tail section, where she finds the body of one of the plane's crew with a manifest._
 
 Astrid: "Looks like the plane's passenger manifest."
 
-*She finally reaches the tail section, and a single crow perches nearby before flying away when approaches. Astrid finds a suitcase with a name on it "[Suitcase belonging to Dimitri S.](./Suitcase%20belonging%20to%20Dimitri%20S..md)" and finds the Insulin inside*
+_She finally reaches the tail section, and a single crow perches nearby before flying away when approaches. Astrid finds a suitcase with a name on it "[Suitcase belonging to Dimitri S.](./Suitcase%20belonging%20to%20Dimitri%20S..md)" and finds the Insulin inside_
 
 Astrid: "Found it!"
 
-*Just then, a slight moan comes out from nearby. A survivor is pinned under a seat*
+_Just then, a slight moan comes out from nearby. A survivor is pinned under a seat_
 
 Astrid: "Oh god...oh god. You're alive!"
 
-*Astrid pushes the seat off of the woman. The woman's leg is bloody, with large amounts of blood in the snow*
+_Astrid pushes the seat off of the woman. The woman's leg is bloody, with large amounts of blood in the snow_
 
 Gwen: "Help...me..."
 
-*The survivor shivers, and stares at her savior for a moment before Astrid grabs the back of her head and checks her neck for a pulse. The woman's face and lips are purple.*
+_The survivor shivers, and stares at her savior for a moment before Astrid grabs the back of her head and checks her neck for a pulse. The woman's face and lips are purple._
 
 Astrid: "I'm here. I'm here to help."
 
@@ -205,23 +200,23 @@ Astrid: "You've lost a lot of blood. And...you have frostbite. But it's ok...it'
 
 Gwen: "Please...I want this to be over."
 
-*The screen fades to black as Astrid grabs the woman's hands, and a flashback begins. Astrid is in a lab, putting blood samples in a centrifuge. She grabs her ID card and moves it out of the way (ID badge has Seraphim Sleep Research Centre on it) before looking over a sheet of paper with data on it.*
+_The screen fades to black as Astrid grabs the woman's hands, and a flashback begins. Astrid is in a lab, putting blood samples in a centrifuge. She grabs her ID card and moves it out of the way (ID badge has Seraphim Sleep Research Centre on it) before looking over a sheet of paper with data on it._
 
 Astrid: "Huh...interesting. I wonder..."
 
-*A phone rings and Astrid goes to answer it*
+_A phone rings and Astrid goes to answer it_
 
-Astrid: "Damn it..." *Answers the phone* "Sleep Research Centre. Doctor Greenwood speaking."
+Astrid: "Damn it..." _Answers the phone_ "Sleep Research Centre. Doctor Greenwood speaking."
 
 [Astrid's Friend](./Jane%20Yang.md): "Did you get it?"
 
-*Astrid looks over her desk in fear*
+_Astrid looks over her desk in fear_
 
 Astrid: "I told you not to call here."
 
 Astrid's Friend: "I'm sorry...but...I'm scared."
 
-*Astrid holds the phone close to her mouth and covers it with her hands*
+_Astrid holds the phone close to her mouth and covers it with her hands_
 
 Astrid: "I am working on it."
 
@@ -245,7 +240,7 @@ Astrid's Friend: "Have you asked Will?"
 
 Astrid: "N...no. It's been years since we..."
 
-*Astrid looks at her wedding band*
+_Astrid looks at her wedding band_
 
 Astrid: "I haven't asked him yet.
 
@@ -259,15 +254,15 @@ Astrid: "That's not gonna happen."
 
 Astrid's Friend: "Hurry, Astrid."
 
-*The phone call and flashback ends, and the scene returns to the present with Astrid and Gwen.*
+_The phone call and flashback ends, and the scene returns to the present with Astrid and Gwen._
 
 Astrid: "I'm sorry...I'm so sorry. I know you're in pain...and you just want it all to end. But I won't let you die out here."
 
 ## Bring Gwen to the Community Hall.
 
-*Having found the Insulin and all the IDs, Astrid treats Gwen's [Blood Loss](./Blood%20Loss.md) and picks her up. Gwen and Astrid may say many lines regarding their situation, which can be found here: [Survivor Monologue](./Survivor%20Monologue.md)*
+_Having found the Insulin and all the IDs, Astrid treats Gwen's [Blood Loss](./Blood%20Loss.md) and picks her up. Gwen and Astrid may say many lines regarding their situation, which can be found here: [Survivor Monologue](./Survivor%20Monologue.md)_
 
-*Gwen is dangerously cold, and Astrid starts the journey of carrying her back to the Community Hall. Astrid carries Gwen to [Burned Ridge Cave](./Burned%20Ridge%20Cave.md) and puts her down, then* *starts a fire to warm her up, and diagnoses her.* *After warming up and making it out of the cave, then later traveling down the mountain and across a tree bridge, a Receiver rings inside an abandoned, destroyed house. Astrid puts Gwen down and answers it*
+_Gwen is dangerously cold, and Astrid starts the journey of carrying her back to the Community Hall. Astrid carries Gwen to [Burned Ridge Cave](./Burned%20Ridge%20Cave.md) and puts her down, then_ _starts a fire to warm her up, and diagnoses her._ _After warming up and making it out of the cave, then later traveling down the mountain and across a tree bridge, a Receiver rings inside an abandoned, destroyed house. Astrid puts Gwen down and answers it_
 
 Astrid: "Hello?"
 
@@ -303,17 +298,17 @@ Molly: "You tell me. Is failing to help someone the same as killing them?"
 
 Astrid: "I guess that depends on the circumstances. And the intent."
 
-Molly: *Chuckles* "Now you sound like a lawyer."
+Molly: _Chuckles_ "Now you sound like a lawyer."
 
 Astrid: "Did you kill him?"
 
 Molly: "The wolves killed him. But my intent was for him to die."
 
-*The line goes dead, and Astrid hangs up the phone. She grabs Gwen and resumes the journey back to the Community Hall. A group of Timberwolves soon attack the two, but Astrid drives them off, and eventually carries Gwen to the Community Hall. Astrid makes it inside, and places Gwen on a bed.*
+_The line goes dead, and Astrid hangs up the phone. She grabs Gwen and resumes the journey back to the Community Hall. A group of Timberwolves soon attack the two, but Astrid drives them off, and eventually carries Gwen to the Community Hall. Astrid makes it inside, and places Gwen on a bed._
 
 Gwen: "Thank you..."
 
-*Astrid then tends to Dimitri, rubbing the bottle of Insulin and filling the syringe with it, then injecting him with a dose. Astrid then walks to each of the survivors, handing the IDs to 9 of the 12 of them. Of the ones she gives IDs to, Astrid says these lines*
+_Astrid then tends to Dimitri, rubbing the bottle of Insulin and filling the syringe with it, then injecting him with a dose. Astrid then walks to each of the survivors, handing the IDs to 9 of the 12 of them. Of the ones she gives IDs to, Astrid says these lines_
 
 - Astrid: "I'm sorry...I found her. She didn't survive."
 - Astrid: "He was lost in the crash."
@@ -324,12 +319,12 @@ Gwen: "Thank you..."
 - Astrid: "I'm sorry...I found her. She was lost in the crash."
 - Astrid: "He didn't make it through the crash."
 
-*Astrid then speaks to Maude, about how she couldn't find the bodies of their friends.*
+_Astrid then speaks to Maude, about how she couldn't find the bodies of their friends._
 
 - Astrid: "I'm sorry, I couldn't find them."
 - Astrid: "I'm sorry...I couldn't find who you were looking for. I hope they survived, and they're safe somewhere."
 
-*These survivors have a response afterwards.*
+_These survivors have a response afterwards._
 
 - Maude: "Please look for them..."
 - Nolan: "Please find them..."
@@ -358,5 +353,3 @@ Father Thomas: "Even with what you've done, we'll have to pray we survive long e
 Astrid: "Prayer's your thing, Father. You handle that. Between the plane crash and the houses in the area, I'm going to pull together whatever supplies I can find. Maybe between the two of us, we can keep these people alive."
 
 Father Thomas: "May God watch over you, my child."
-
-The story continues in [Coming Storm](./Coming%20Storm%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**

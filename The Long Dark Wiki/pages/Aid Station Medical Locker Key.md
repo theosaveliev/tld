@@ -1,17 +1,12 @@
----
-title: "Aid Station Medical Locker Key"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Aid_Station_Medical_Locker_Key"
----
-
 # Aid Station Medical Locker Key
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Aid_Station_Medical_Locker_Key)
 
 **Aid Station Medical Locker Key**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Aid_Station_Medical_Locker_Key_icon.png) / *Aid\_Station\_Medical\_Locker\_Key\_icon.png* |
+|  | ![](../assets/Aid_Station_Medical_Locker_Key_icon.png) / _Aid\_Station\_Medical\_Locker\_Key\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Wounded Trapper](./The%20Wounded%20Trapper.md) |
 | **Properties** |  |
@@ -26,9 +21,9 @@ source: "https://thelongdark.fandom.com/wiki/Aid_Station_Medical_Locker_Key"
 
 **Aid Station Medical Locker Key** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found inside the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) next to the [Elevator Maintenance Note](./Elevator%20Maintenance%20Note.md) in the upper locked office. The [Admin Office Key](./Admin%20Office%20Key.md) is needed to open the office first.
 
-| Column 1 |
-| --- |
-| ![The 3D key model as seen in game](../assets/Aid_Station_Medical_Locker_Key_in_game.jpg) / *The 3D key model as seen in game* |
+![The 3D key model as seen in game](../assets/Aid_Station_Medical_Locker_Key_in_game.jpg)
+
+_The 3D key model as seen in game_
 
 ## Update history
 
@@ -36,5 +31,3 @@ source: "https://thelongdark.fandom.com/wiki/Aid_Station_Medical_Locker_Key"
   - Added a new 3D model for this key in the Redux edition.
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

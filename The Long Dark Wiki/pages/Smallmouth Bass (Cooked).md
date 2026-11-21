@@ -1,11 +1,6 @@
----
-title: "Smallmouth Bass (Cooked)"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Smallmouth_Bass_(Cooked)"
----
-
 # Smallmouth Bass \(Cooked\)
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Smallmouth_Bass_%28Cooked%29)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Smallmouth_Bass_(Cooked)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Smallmouth_Bass_%28Cooked%29_icon.png) / *Smallmouth\_Bass\_(Cooked)\_icon.png* |
+|  | ![](../assets/Smallmouth_Bass_%28Cooked%29_icon.png) / _Smallmouth\_Bass\_(Cooked)\_icon.png_ |
 | Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163) |
 | Wintermute | No |
 | **Properties** |  |
@@ -33,11 +28,11 @@ source: "https://thelongdark.fandom.com/wiki/Smallmouth_Bass_(Cooked)"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_CookedSmallmouthBass |
 
-*For the raw version, see [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md).*
+_For the raw version, see [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md)._
 
-*For the unique bass found in the [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) mission [Tall Tales](./Tall%20Tales.md), see [Big Bass (Cooked)](./Big%20Bass%20%28Cooked%29.md).*
+_For the unique bass found in the [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) mission [Tall Tales](./Tall%20Tales.md), see [Big Bass (Cooked)](./Big%20Bass%20%28Cooked%29.md)._
 
-**Smallmouth Bass (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in *The Long Dark*.
+**Smallmouth Bass (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
 ## Recipe
 
@@ -63,14 +58,31 @@ Cooking bass improves the [cooking skill](./Skills.md#Cooking). Using a [Cooking
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Fresh](../assets/Smallmouth_Bass_%28Cooked%29_icon.png) / *Fresh* | ![Gamey](../assets/Smallmouth_Bass_%28Cooked%29_Gamey_icon.png) / *Gamey* | ![Mouldy](../assets/Smallmouth_Bass_%28Cooked%29_Mouldy_icon.png) / *Mouldy* | ![Rancid](../assets/Smallmouth_Bass_%28Cooked%29_Rancid_icon.png) / *Rancid* |
-| ![Ruined](../assets/Smallmouth_Bass_%28Cooked%29_Ruined_icon.png) / *Ruined* | ![Old model.](../assets/Smallmouth_bass_cooked.png) / *Old model.* |  |  |
+![Fresh](../assets/Smallmouth_Bass_%28Cooked%29_icon.png)
+
+_Fresh_
+
+![Gamey](../assets/Smallmouth_Bass_%28Cooked%29_Gamey_icon.png)
+
+_Gamey_
+
+![Mouldy](../assets/Smallmouth_Bass_%28Cooked%29_Mouldy_icon.png)
+
+_Mouldy_
+
+![Rancid](../assets/Smallmouth_Bass_%28Cooked%29_Rancid_icon.png)
+
+_Rancid_
+
+![Ruined](../assets/Smallmouth_Bass_%28Cooked%29_Ruined_icon.png)
+
+_Ruined_
+
+![Old model.](../assets/Smallmouth_bass_cooked.png)
+
+_Old model._
 
 ## Update history
 
 - UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Малоротый окунь (приготовленный)](ru:%D0%9C%D0%B0%D0%BB%D0%BE%D1%80%D0%BE%D1%82%D1%8B%D0%B9_%D0%BE%D0%BA%D1%83%D0%BD%D1%8C_%28%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%29)

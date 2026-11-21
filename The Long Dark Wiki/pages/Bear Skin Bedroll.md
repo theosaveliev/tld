@@ -1,11 +1,6 @@
----
-title: "Bear Skin Bedroll"
-wiki_namespace: 0
-categories: ["Bedrolls", "Beds", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Bear_Skin_Bedroll"
----
-
 # Bear Skin Bedroll
+
+**Categories:** Bedrolls, Beds, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bear_Skin_Bedroll)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Bear_Skin_Bedroll"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bear_Skin_Bedroll_icon.png) / *Bear\_Skin\_Bedroll\_icon.png* |
+|  | ![](../assets/Bear_Skin_Bedroll_icon.png) / _Bear\_Skin\_Bedroll\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | **Statistics** |  |
@@ -29,11 +24,11 @@ source: "https://thelongdark.fandom.com/wiki/Bear_Skin_Bedroll"
 | Harvest | 1 × [Cloth](./Cloth.md) / 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) |
 | Repair | 1 × [Cloth](./Cloth.md) / 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / 50% Condition / (62.5% Mending Lv.5) |
 
-> “**Bedroll crafted from Bear Skin. Heavy, but very warm. The smell might scare animals away.**”
+> “__Bedroll crafted from Bear Skin. Heavy, but very warm. The smell might scare animals away.__”
 >
 > — In-game description
 
-The **Bear Skin Bedroll** is a tool for sleeping without a bed in *The Long Dark*.
+The **Bear Skin Bedroll** is a tool for sleeping without a bed in _The Long Dark_.
 
 ## Overview
 
@@ -88,8 +83,6 @@ Additionally, in the Tales from the Far Territory DLC, a crafted bear skin bedro
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Bear_skin_bedroll.png) / *Old model.* |
+![Old model.](../assets/Bear_skin_bedroll.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Спальный мешок из медвежьей шкуры](ru:%D0%A1%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D1%88%D0%BE%D0%BA_%D0%B8%D0%B7_%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B6%D1%8C%D0%B5%D0%B9_%D1%88%D0%BA%D1%83%D1%80%D1%8B)
+_Old model._

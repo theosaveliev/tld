@@ -1,17 +1,12 @@
----
-title: "Sprained Wrist"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Sprained_Wrist"
----
-
 # Sprained Wrist
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sprained_Wrist)
 
 **Sprained Wrist**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Sprained_Wrist_icon.png) / *Sprained\_Wrist\_icon.png* |
+|  | ![](../assets/Sprained_Wrist_icon.png) / _Sprained\_Wrist\_icon.png_ |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | You have sprained your wrist. You will not be able to hold weapons until you treat it, or it heals over time. |
@@ -27,13 +22,13 @@ A **Sprained Wrist** can be caused by a fall, being exhausted or encumbered whil
 
 ## Risk
 
-> “**You are Exhausted or Encumbered, and at a higher risk for a Sprain when traversing sloped ground.**”
+> “__You are Exhausted or Encumbered, and at a higher risk for a Sprain when traversing sloped ground.__”
 
 Carrying too much weight beyond carrying capacity or becoming too tired to carry your heavy load will warn the player that they are at [risk](./Sprain%20Risk.md) of acquiring a sprain. Walking off road onto uneven ground (icon shown in the photo) may have a chance of a [Sprained Ankle](./Sprained%20Ankle.md) or Wrist occurring. Consider either resting or lightening your load in order to eliminate the risk, or consume a [Go! Energy Drink](./Go!%20Energy%20Drink.md) or [Emergency Stim](./Emergency%20Stim.md).
 
 ## Affliction
 
-> “**You have sprained your wrist. You will not be able to hold weapons until you treat it, or it heals over time.**”
+> “__You have sprained your wrist. You will not be able to hold weapons until you treat it, or it heals over time.__”
 >
 > — In-game description
 
@@ -53,8 +48,10 @@ With 2 Sprained Wrists, all Weapons can no longer be used, but lighting tools su
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| \[Missing image: Pente.jpg\] / *This symbol appears on the player interface when they move or stand on uneven slopes.* | ![Old icon.](../assets/Sprained_Wrist.png) / *Old icon.* |
+\[Missing image: Pente.jpg\]
 
-**Lua execution error in Module:Navbox function navbox**
+_This symbol appears on the player interface when they move or stand on uneven slopes._
+
+![Old icon.](../assets/Sprained_Wrist.png)
+
+_Old icon._

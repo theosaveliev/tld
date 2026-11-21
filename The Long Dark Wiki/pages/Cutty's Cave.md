@@ -1,19 +1,14 @@
----
-title: "Cutty's Cave"
-wiki_namespace: 0
-categories: ["Blackrock", "Caves", "Locations", "Locations in Blackrock", "Sheltered locations"]
-source: "https://thelongdark.fandom.com/wiki/Cutty's_Cave"
----
-
 # Cutty's Cave
+
+**Categories:** Blackrock, Caves, Locations, Locations in Blackrock, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cutty's_Cave)
 
 **Cutty's Cave**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cutty%27s_Cave.png) / *Cutty's\_Cave.png* |
+|  | ![](../assets/Cutty%27s_Cave.png) / _Cutty's\_Cave.png_ |
 | **Location** |  |
-|  | ![](../assets/Cutty%27s_Cave_Location.png) / *Cutty's\_Cave\_Location.png* |
+|  | ![](../assets/Cutty%27s_Cave_Location.png) / _Cutty's\_Cave\_Location.png_ |
 | Region |  |
 | Location | A short distance south of [Foreman's Clearcut](./Foreman%27s%20Clearcut.md). |
 | Description | A small cave hidden underneath a cliff |
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Cutty's_Cave"
 | Type | Cave\|- |
 | Missions | [Blackrock Blues](./Blackrock%20Blues.md) |
 
-> “**The first man to attempt escape from Blackrock, Bill Cutty is a something of a local legend. No trace of him was ever found. Word of his possible success only reached the prison by way of the cryptic letters received by his former cellmates.**”
+> “__The first man to attempt escape from Blackrock, Bill Cutty is a something of a local legend. No trace of him was ever found. Word of his possible success only reached the prison by way of the cryptic letters received by his former cellmates.__”
 >
 > — [Load Screen](./Load%20Screen.md) Description
 
@@ -30,5 +25,3 @@ source: "https://thelongdark.fandom.com/wiki/Cutty's_Cave"
 ## Overview
 
 This cave is best accessed by going down the road from the prison, then taking a left, followed by a right near two pickup trucks. As with most caves, this one provides a warmth bonus and can be used to cure hides. Its most notable feature is the dead prison guard outside, which can be looted to yield the [Blackrock Infirmary Medication](./Blackrock%20Infirmary%20Medication.md) needed to treat [Franklin](./Franklin.md) in the first mission of Episode 4. The cave also has a leaf bed, which provides a small warmth bonus. Be careful when visiting, for a pack of [wolves](./Wolf.md) prowls the area.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Пещера Катти](ru:%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%9A%D0%B0%D1%82%D1%82%D0%B8)

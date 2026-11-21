@@ -1,17 +1,12 @@
----
-title: "Forest Talker Supply Caches"
-wiki_namespace: 0
-categories: ["Episode 2"]
-source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Supply_Caches"
----
-
 # Forest Talker Supply Caches
+
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Talker_Supply_Caches)
 
 **Forest Talker Supply Caches**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Trailer_supplies_icon.png) / *trailer\_supplies\_icon.png* |
+|  | ![](../assets/Trailer_supplies_icon.png) / _trailer\_supplies\_icon.png_ |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
 | Current | Forest Talker Supply Caches |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md) |
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Supply_Caches"
 
 **Template:spoiler**
 
-> “**The Forest Talkers, an eco-activist group, have left supply caches hidden in different regions around Great Bear Island. They could prove useful if found.**”
+> “__The Forest Talkers, an eco-activist group, have left supply caches hidden in different regions around Great Bear Island. They could prove useful if found.__”
 >
 > — In-game description
 
@@ -37,5 +32,3 @@ source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Supply_Caches"
   - To unlock the quest, the player must find a letter in the basement of the hunting lodge.
   - The cache is located in the western part of the maintenance yard area.
   - The content is: 12 [Wood Matches](./Wood%20Matches.md), a [Can Opener](./Can%20Opener.md), 2 [Firelogs](./Firelog.md) and 1 [Accelerant](./Accelerant.md).
-
-**Lua execution error in Module:Navbox function navbox**

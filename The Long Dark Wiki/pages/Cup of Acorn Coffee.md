@@ -1,17 +1,12 @@
----
-title: "Cup of Acorn Coffee"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cup_of_Acorn_Coffee"
----
-
 # Cup of Acorn Coffee
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cup_of_Acorn_Coffee)
 
 **Cup of Acorn Coffee**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cup_of_Acorn_Coffee_icon.png) / *Cup\_of\_Acorn\_Coffee\_icon.png* |
+|  | ![](../assets/Cup_of_Acorn_Coffee_icon.png) / _Cup\_of\_Acorn\_Coffee\_icon.png_ |
 | Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
 | Wintermute | No |
 | Renewable | No |
@@ -57,7 +52,5 @@ Acorn Coffee is a non-renewable resource.
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Чашка желудевого кофе](ru:%D0%A7%D0%B0%D1%88%D0%BA%D0%B0_%D0%B6%D0%B5%D0%BB%D1%83%D0%B4%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D1%84%D0%B5)

@@ -1,17 +1,12 @@
----
-title: "Blackrock Memo - Late Employee"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Blackrock_Memo_-_Late_Employee"
----
-
 # Blackrock Memo \- Late Employee
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_Memo_-_Late_Employee)
 
 **Blackrock Memo - Late Employee**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Blackrock_Memo_-_Late_Employee_icon.png) / *Blackrock\_Memo\_-\_Late\_Employee\_icon.png* |
+|  | ![](../assets/Blackrock_Memo_-_Late_Employee_icon.png) / _Blackrock\_Memo\_-\_Late\_Employee\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Rumours](./Blackrock%20Rumours.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Blackrock_Memo_-_Late_Employee"
 
 ## Transcript
 
-*The following text is transcribed from **Blackrock Memo - Late Employee***
+_The following text is transcribed from **Blackrock Memo - Late Employee**_
 
 **ATTN: Red Shift Supervisors
 
@@ -48,5 +43,3 @@ Blackrock Admin Team**
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

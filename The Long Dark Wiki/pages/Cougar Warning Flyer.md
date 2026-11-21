@@ -1,17 +1,12 @@
----
-title: "Cougar Warning Flyer"
-wiki_namespace: 0
-categories: ["Collectibles"]
-source: "https://thelongdark.fandom.com/wiki/Cougar_Warning_Flyer"
----
-
 # Cougar Warning Flyer
+
+**Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cougar_Warning_Flyer)
 
 **Cougar Warning Flyer**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cougar_Warning_Flyer_icon.png) / *Cougar\_Warning\_Flyer\_icon.png* |
+|  | ![](../assets/Cougar_Warning_Flyer_icon.png) / _Cougar\_Warning\_Flyer\_icon.png_ |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
 | Stackable | No |
@@ -26,7 +21,7 @@ source: "https://thelongdark.fandom.com/wiki/Cougar_Warning_Flyer"
 
 ## Transcript
 
-*The following text is transcribed from **Cougar Warning Flyer***
+_The following text is transcribed from **Cougar Warning Flyer**_
 
 **WILDERNESS SAFTEY GUIDE
 
@@ -38,10 +33,8 @@ source: "https://thelongdark.fandom.com/wiki/Cougar_Warning_Flyer"
 
 ![The Flyer before it is picked up.](../assets/Cougar_Warning_Flyer.jpg)
 
-*The Flyer before it is picked up.*
+_The Flyer before it is picked up._
 
 ## Update history
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**
 
 [ru:Листовка "Осторожно, пумы!"](ru:%D0%9B%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_"%D0%9E%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE,_%D0%BF%D1%83%D0%BC%D1%8B!")

@@ -1,11 +1,6 @@
----
-title: "Helicopter"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Helicopter"
----
-
 # Helicopter
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Helicopter)
 
 ![Helicopter.jpg](../assets/Helicopter.jpg) **Helicopters** are the rarest of any [Vehicle](./Vehicle.md) on [Great Bear Island](./Great%20Bear%20Island.md), second only to [Buses](./Bus.md) and [Earth Movers](./Haul%20Truck.md). Most are only found in the [Forsaken Airfield](./Forsaken%20Airfield.md) Region and provide a small warmth bonus and complete protection from wind-chill as [Cars](./Car.md), [Trucks](./Truck.md), and [Tractors](./Tractor.md) would. They can also be used as a temporary shelter to sleep or evade wildlife.
 
@@ -15,8 +10,18 @@ Most Helicopters can be found in the Forsaken Airfield Region around the abandon
 
 Only 1 Helicopter can be found in Lower Great Bear, crashed on a ridge near [Muskeg Overlook](./Muskeg%20Overlook.md) in [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A crashed helicopter in Forlorn Muskeg](../assets/Muskeg_Overlook_Helicopter.png) / *A crashed helicopter in Forlorn Muskeg* | ![The cockpit during an aurora](../assets/Helicopter_aurora.png) / *The cockpit during an aurora* | ![The Final Approach medical helicopter](../assets/Final_Approach_Close.jpg) / *The Final Approach medical helicopter* | ![Flight Instruments during Glimmer Fog](../assets/Old_Corral_crashed_helicopter_.png) / *Flight Instruments during [Glimmer Fog](./Glimmer%20Fog.md)* |
+![A crashed helicopter in Forlorn Muskeg](../assets/Muskeg_Overlook_Helicopter.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_A crashed helicopter in Forlorn Muskeg_
+
+![The cockpit during an aurora](../assets/Helicopter_aurora.png)
+
+_The cockpit during an aurora_
+
+![The Final Approach medical helicopter](../assets/Final_Approach_Close.jpg)
+
+_The Final Approach medical helicopter_
+
+![Flight Instruments during Glimmer Fog](../assets/Old_Corral_crashed_helicopter_.png)
+
+_Flight Instruments during [Glimmer Fog](./Glimmer%20Fog.md)_

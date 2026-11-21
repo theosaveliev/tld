@@ -1,17 +1,12 @@
----
-title: "Local Legends - Sasquatch"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Local_Legends_-_Sasquatch"
----
-
 # Local Legends \- Sasquatch
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Local_Legends_-_Sasquatch)
 
 **Local Legends - Sasquatch**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Local_Legends_-_Sasquatch_icon.png) / *Local\_Legends\_-\_Sasquatch\_icon.png* |
+|  | ![](../assets/Local_Legends_-_Sasquatch_icon.png) / _Local\_Legends\_-\_Sasquatch\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Tall Tales](./Tall%20Tales.md) |
 | **Properties** |  |
@@ -28,11 +23,11 @@ source: "https://thelongdark.fandom.com/wiki/Local_Legends_-_Sasquatch"
 
 **Local Legends - Sasquatch** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode to as a part of the [Tall Tales](./Tall%20Tales.md) side mission.
 
-During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the book *Local Legends - Sasquatch* from the bathroom of [Community Hall](./Community%20Hall.md), and are tasked to search the Sasquatch cave near [Thomson's Crossing](./Thomson%27s%20Crossing.md).
+During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the book _Local Legends - Sasquatch_ from the bathroom of [Community Hall](./Community%20Hall.md), and are tasked to search the Sasquatch cave near [Thomson's Crossing](./Thomson%27s%20Crossing.md).
 
 ## Transcript
 
-*The following text is transcribed from **Local Legends - Sasquatch***
+_The following text is transcribed from **Local Legends - Sasquatch**_
 
 **No one knows how long rumors of Sasquatch activity have persisted among Valley residents. But it's common knowledge that the longer people have lived in this region, the more strange tales have emerged about figures in the woods.**
 
@@ -40,5 +35,3 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

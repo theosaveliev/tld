@@ -1,17 +1,12 @@
----
-title: "Dehydration Risk"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Dehydration_Risk"
----
-
 # Dehydration Risk
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dehydration_Risk)
 
 **Dehydration Risk**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Dehydration_Risk_icon.png) / *Dehydration\_Risk\_icon.png* |
+|  | ![](../assets/Dehydration_Risk_icon.png) / _Dehydration\_Risk\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Update | 1.60 |
 | Story | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Dehydration_Risk"
 | Treatment | ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
 | Recovery Time | Instant |
 
-**Dehydration Risk** is a unique [Affliction](./Afflictions.md) in *[The Long Dark](./The%20Long%20Dark.md)* only encountered in [Wintermute](./Wintermute.md) during the missions [Fallen Star](./Fallen%20Star.md) and [Coming Storm](./Coming%20Storm.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
+**Dehydration Risk** is a unique [Affliction](./Afflictions.md) in _[The Long Dark](./The%20Long%20Dark.md)_ only encountered in [Wintermute](./Wintermute.md) during the missions [Fallen Star](./Fallen%20Star.md) and [Coming Storm](./Coming%20Storm.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
 ## Overview
 
@@ -42,5 +37,3 @@ Aside from Eric needing 0.50 L of water, Simply giving the necessary amount of p
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

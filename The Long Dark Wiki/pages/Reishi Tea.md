@@ -1,11 +1,6 @@
----
-title: "Reishi Tea"
-wiki_namespace: 0
-categories: ["First Aid", "Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Reishi_Tea"
----
-
 # Reishi Tea
+
+**Categories:** First Aid, Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Reishi_Tea)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Reishi_Tea"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Reishi_Tea_icon.png) / *Reishi\_Tea\_icon.png* |
+|  | ![](../assets/Reishi_Tea_icon.png) / _Reishi\_Tea\_icon.png_ |
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192) |
 | Renewable | No |
 | **Properties** |  |
@@ -31,7 +26,7 @@ source: "https://thelongdark.fandom.com/wiki/Reishi_Tea"
 | [Vitamin C](./Scurvy.md) | Minor (5%) |
 | Weight | 0.10 kg (0.22 lbs) |
 
-**Reishi Tea** is a natural medical and food item used to treat [Afflictions](./Afflictions.md) in *The Long Dark*.
+**Reishi Tea** is a natural medical and food item used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 
 ## Overview
 
@@ -82,18 +77,22 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 ## Trivia
 
-- Reishi Mushrooms are a real-world bracket fungus (Species: [*G. lingzhi*](https://en.wikipedia.org/wiki/Lingzhi_%28mushroom%29)) common to the Pacific North-West (United States and Canada), as well as north-eastern China, Korea, Japan and Russia.
+- Reishi Mushrooms are a real-world bracket fungus (Species: [_G. lingzhi_](https://en.wikipedia.org/wiki/Lingzhi_%28mushroom%29)) common to the Pacific North-West (United States and Canada), as well as north-eastern China, Korea, Japan and Russia.
 - "Reishi" (霊芝) is the Japanese name for the fungus; other names include Lingzhi, Yeongji (영지), Het Lin Chue (หลินจือ) and Linh Chi.
-- Reishi have a long history of use in [Traditional Chinese Medicine](https://en.wikipedia.org/wiki/Traditional_Chinese_medicine), though there is insufficient evidence that their consumption has any tangible medical effect, unlike their in-game description and use. They are an antioxidant but exhibit no antibiotic properties, unlike the *Ganoderma* (*Penicillium)* mold used to create [Penicillin](https://en.wikipedia.org/wiki/Penicillin) (an antibiotic), which is unrelated to *G. lingzhi*.
-- Real Reishi are typically parasitic or saprotrophic (feeding on dead matter) of maple trees, unlike in *The Long Dark* where they are exclusively saprotrophic to cedar or fir.
-- Antibiotics are typically a prescription-grade drug derived from Penicillin, which is the case in *The Long Dark* as they are labeled as "Pharmacillin".
+- Reishi have a long history of use in [Traditional Chinese Medicine](https://en.wikipedia.org/wiki/Traditional_Chinese_medicine), though there is insufficient evidence that their consumption has any tangible medical effect, unlike their in-game description and use. They are an antioxidant but exhibit no antibiotic properties, unlike the _Ganoderma_ (_Penicillium)_ mold used to create [Penicillin](https://en.wikipedia.org/wiki/Penicillin) (an antibiotic), which is unrelated to _G. lingzhi_.
+- Real Reishi are typically parasitic or saprotrophic (feeding on dead matter) of maple trees, unlike in _The Long Dark_ where they are exclusively saprotrophic to cedar or fir.
+- Antibiotics are typically a prescription-grade drug derived from Penicillin, which is the case in _The Long Dark_ as they are labeled as "Pharmacillin".
 - In The Long Dark, Antibiotics and Reishi Tea must be applied directly to treat a specific injury (similar to a Bandage), unlike real-world orally-taken drugs which become generally distributed through the body.
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Old model.](../assets/Reishi_Tea.png) / *Old model.* | ![Old icon](../assets/Reishi_tea_icon_old.png) / *Old icon* |
+![Old model.](../assets/Reishi_Tea.png)
+
+_Old model._
+
+![Old icon](../assets/Reishi_tea_icon_old.png)
+
+_Old icon_
 
 ## Update history
 
@@ -115,5 +114,3 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
   - Fixed issue that could sometimes cause Reishi Tea to not provide medicinal benefits.
 - UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Чай Рейши](ru:%D0%A7%D0%B0%D0%B9_%D0%A0%D0%B5%D0%B9%D1%88%D0%B8)

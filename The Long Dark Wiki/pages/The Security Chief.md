@@ -1,10 +1,6 @@
----
-title: "The Security Chief"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/The_Security_Chief"
----
-
 # The Security Chief
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Security_Chief)
 
 **Contents**
 
@@ -22,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Security_Chief"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Security_Chief%27s_ID_Badge_icon.png) / *Security\_Chief's\_ID\_Badge\_icon.png* |
+|  | ![](../assets/Security_Chief%27s_ID_Badge_icon.png) / _Security\_Chief's\_ID\_Badge\_icon.png_ |
 | Release | 2.03 |
 | Date | 5 December 2022 |
 | Mission | [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) / [Last Horizon](./Last%20Horizon.md) |
@@ -38,10 +34,10 @@ source: "https://thelongdark.fandom.com/wiki/The_Security_Chief"
 | Equipment | [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md) [Security Chief's ID Badge](./Security%20Chief%27s%20ID%20Badge.md) |
 | Voiced by | Devon Busswood |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
-> “**He’ll want the research. It shows some bizarre benefits, even if it’s come at a price. Rüdiger found what he was looking for.  
- He can keep it.**”
+> “__He’ll want the research. It shows some bizarre benefits, even if it’s come at a price. Rüdiger found what he was looking for.  
+ He can keep it.__”
 >
 > — [The Security Chief](./The%20Security%20Chief.md)
 
@@ -81,10 +77,12 @@ Her keycard is found in a hidden room in [Bunker Omega](./Bunker%20Omega.md), li
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The Chief's remains in the control room next to the machine](../assets/The_Security_Chief.jpg) / *The Chief's remains in the control room next to the machine* | ![The chief in a photo along with the Foreman](../assets/Foreman%27s_Polaroid_4_icon.png) / *The chief in a photo along with the Foreman* |
+![The Chief's remains in the control room next to the machine](../assets/The_Security_Chief.jpg)
+
+_The Chief's remains in the control room next to the machine_
+
+![The chief in a photo along with the Foreman](../assets/Foreman%27s_Polaroid_4_icon.png)
+
+_The chief in a photo along with the Foreman_
 
 ## Trivia
-
-**Lua execution error in Module:Navbox function navbox**

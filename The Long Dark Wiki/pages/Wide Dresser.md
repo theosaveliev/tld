@@ -1,17 +1,12 @@
----
-title: "Wide Dresser"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Wide_Dresser"
----
-
 # Wide Dresser
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wide_Dresser)
 
 **Wide Dresser**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Wide_Dresser_icon.png) / *Wide\_Dresser\_icon.png* |
+|  | ![](../assets/Wide_Dresser_icon.png) / _Wide\_Dresser\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 25.00 kg (55 lbs) |
@@ -55,5 +50,3 @@ Despite having a Backpack carry weight value, the dresser cannot be picked up an
 |  | 6 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Широкий комод](ru:%D0%A8%D0%B8%D1%80%D0%BE%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BE%D0%B4)

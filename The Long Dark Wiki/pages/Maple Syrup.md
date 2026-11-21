@@ -1,11 +1,6 @@
----
-title: "Maple Syrup"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Maple_Syrup"
----
-
 # Maple Syrup
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Maple_Syrup)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Maple_Syrup"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Maple_Syrup_icon.png) / *Maple\_Syrup\_icon.png* |
+|  | ![](../assets/Maple_Syrup_icon.png) / _Maple\_Syrup\_icon.png_ |
 | Release | [27 June 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.79) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md)) |
@@ -34,7 +29,7 @@ source: "https://thelongdark.fandom.com/wiki/Maple_Syrup"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_MapleSyrup |
 
-**Maple Syrup** is a packaged [food](./Food%20And%20Drink.md) item in [*The Long Dark*](./The%20Long%20Dark.md).
+**Maple Syrup** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
@@ -114,5 +109,3 @@ These are places where the syrup may be placed directly in the world, not a cont
 
 - UPDATE **27 June 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.79)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Кленовый сироп](ru:%D0%9A%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%B8%D1%80%D0%BE%D0%BF)

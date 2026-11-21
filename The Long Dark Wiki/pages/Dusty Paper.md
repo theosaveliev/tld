@@ -1,17 +1,12 @@
----
-title: "Dusty Paper"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Dusty_Paper"
----
-
 # Dusty Paper
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dusty_Paper)
 
 **Dusty Paper**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Dusty_Paper_icon.png) / *Dusty\_Paper\_icon.png* |
+|  | ![](../assets/Dusty_Paper_icon.png) / _Dusty\_Paper\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Dusty_Paper"
 
 ## Transcript
 
-*The following text is transcribed from **Dusty Paper***
+_The following text is transcribed from **Dusty Paper**_
 
 **Plant Engineer's Log
 
@@ -52,5 +47,3 @@ None of it makes sense.
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

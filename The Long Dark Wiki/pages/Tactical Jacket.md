@@ -1,17 +1,12 @@
----
-title: "Tactical Jacket"
-wiki_namespace: 0
-categories: ["Clothing", "DLC Content", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Tactical_Jacket"
----
-
 # Tactical Jacket
+
+**Categories:** Clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tactical_Jacket)
 
 **Tactical Jacket**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Tactical_Jacket_icon.png) / *Tactical\_Jacket\_icon.png* |
+|  | ![](../assets/Tactical_Jacket_icon.png) / _Tactical\_Jacket\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Outer torso |
@@ -27,6 +22,6 @@ source: "https://thelongdark.fandom.com/wiki/Tactical_Jacket"
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / > “**Durable jacket made from treated heavy canvas. Favoured by adventurous types who have to improvise.**” / > / > — In-game description / The **Tactical Jacket** is a unique [Clothing](./Clothing.md) item, found only during the end of the [Last Horizon](./Last%20Horizon.md) Tale, in a hidden room in [Bunker Omega](./Bunker%20Omega.md) in [Forsaken Airfield](./Forsaken%20Airfield.md). It originally belonged to [The Foreman](./The%20Foreman.md). / ## Overview / Its warmth and windproofing are mediocre for a item of its weight and rarity. The real strength of this item is the protection it provides, which is the highest of nearly any other torso item, and by far the highest among cloth torso items. The only other torso clothing which that offers more protection is the [Moose-Hide Cloak](./Moose-Hide%20Cloak.md). / Because of its very high protection and durability, plus the ability to repair it with cloth which is substantially easier to gather than cured hides, this item is a great choice for players that get into struggles often and want to be protected with easily repairable clothes after the fact. / Tactical Jacket does not spawn on [Interloper](./Interloper.md) or [Misery modes](./Misery.md). / \| Column 1 \| Column 2 \| Column 3 \| / \| --- \| --- \| --- \| / \| ![Clothing model](../assets/Tactical_Jacket_Model.png) / *Clothing model* \| ![Clothing model damaged](../assets/Tactical_Jacket_Model_Damaged.png) / *Clothing model damaged* \| ![The Tactical Jacket](../assets/R%C3%BCdiger%27s_fate.jpg) / *The Tactical Jacket* \| / ## Update history / - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):** / - Added to game. / **Lua execution error in Module:Navbox function navbox** [ru:Тактическая куртка](ru:%D0%A2%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%80%D1%82%D0%BA%D0%B0) |
-| “ | **Durable jacket made from treated heavy canvas. Favoured by adventurous types who have to improvise.** / In-game description | ” |
-| ![Clothing model](../assets/Tactical_Jacket_Model.png) / *Clothing model* | ![Clothing model damaged](../assets/Tactical_Jacket_Model_Damaged.png) / *Clothing model damaged* | ![The Tactical Jacket](../assets/R%C3%BCdiger%27s_fate.jpg) / *The Tactical Jacket* |
+
+| “ | __Durable jacket made from treated heavy canvas. Favoured by adventurous types who have to improvise.__ / In-game description | ” |
+| ![Clothing model](../assets/Tactical_Jacket_Model.png) / _Clothing model_ | ![Clothing model damaged](../assets/Tactical_Jacket_Model_Damaged.png) / _Clothing model damaged_ | ![The Tactical Jacket](../assets/R%C3%BCdiger%27s_fate.jpg) / _The Tactical Jacket_ |

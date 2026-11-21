@@ -1,11 +1,6 @@
----
-title: "Wildlife"
-wiki_namespace: 0
-categories: ["Wildlife"]
-source: "https://thelongdark.fandom.com/wiki/Wildlife"
----
-
 # Wildlife
+
+**Categories:** Wildlife · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wildlife)
 
 **Contents**
 
@@ -26,12 +21,12 @@ source: "https://thelongdark.fandom.com/wiki/Wildlife"
 - [Gallery](#gallery)
 - [Trivia](#trivia)
 
-> “**Mackenzie: "I've had a lot of trouble with wildlife lately. Is it always this dangerous around here?"  
- Methuselah: "I've seen many strange things, of course. But the birds and beasts? Their rhythms are their own."**”
+> “__Mackenzie: "I've had a lot of trouble with wildlife lately. Is it always this dangerous around here?"  
+ Methuselah: "I've seen many strange things, of course. But the birds and beasts? Their rhythms are their own."__”
 >
 > — Mackenzie: "Meaning?" Methuselah: "The patterns of nature have been interrupted. Broken. Even those who once knew how to read them are now confused." [Methuselah](./Methuselah.md) and [Mackenzie](./Will%20Mackenzie.md) discussing the local Island wildlife
 
-In *The Long Dark*, interaction with wildlife is a central part of survival. A wide variety of plants and animals exist on [Great Bear Island](./Great%20Bear%20Island.md), including terrestrial, aquatic, and avian animals, as well as conifers, beech, and fungal species of plants and fungi. Many of the animals' behaviors are unusual or unnatural--possibly due to the [First Flare](./First%20Flare.md) and subsequent [Aurora](./Aurora.md).
+In _The Long Dark_, interaction with wildlife is a central part of survival. A wide variety of plants and animals exist on [Great Bear Island](./Great%20Bear%20Island.md), including terrestrial, aquatic, and avian animals, as well as conifers, beech, and fungal species of plants and fungi. Many of the animals' behaviors are unusual or unnatural--possibly due to the [First Flare](./First%20Flare.md) and subsequent [Aurora](./Aurora.md).
 
 ## Animal Species
 
@@ -44,10 +39,25 @@ Prey include [Deer](./Deer.md), [Rabbits](./Rabbit.md), [Ptarmigan](./Ptarmigan.
 - Deer roam between multiple locations in each region, and are a major source of food and hides for crafting items.
 - Moose are rare, and usually, but not always, found only at locations with moose markings (scratches on tree trunks).
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Deer (Stag)](../assets/Deer.png) / *Deer (Stag)* | ![Deer (Doe)](../assets/Doe.png) / *Deer (Doe)* | ![Rabbit](../assets/Rabbit.png) / *Rabbit* | ![Ptarmigan](../assets/Ptarmigan.png) / *Ptarmigan* |
-| ![Moose](../assets/Moose.png) / *Moose* |  |  |  |
+![Deer (Stag)](../assets/Deer.png)
+
+_Deer (Stag)_
+
+![Deer (Doe)](../assets/Doe.png)
+
+_Deer (Doe)_
+
+![Rabbit](../assets/Rabbit.png)
+
+_Rabbit_
+
+![Ptarmigan](../assets/Ptarmigan.png)
+
+_Ptarmigan_
+
+![Moose](../assets/Moose.png)
+
+_Moose_
 
 Deer, Ptarmigan, and Rabbits are easily frightened by the player or a predator. Moose however are highly aggressive and territorial, issuing warnings before attacking intruders.
 
@@ -55,10 +65,25 @@ Deer, Ptarmigan, and Rabbits are easily frightened by the player or a predator. 
 
 Predators include [Wolves](./Wolf.md), [Poisoned Wolves](./Poisoned%20Wolf.md), [Timberwolves](./Timberwolf.md), [Cougars](./Cougar.md), and [Bears](./Bear.md):
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Wolf](../assets/Wolf.png) / *Wolf* | ![Poisoned Wolf](../assets/Poisoned_Wolf.png) / *Poisoned Wolf* | ![Timberwolf](../assets/Timberwolf.png) / *Timberwolf* | ![Cougar](../assets/Cougar.png) / *Cougar* |
-| ![Bear](../assets/Bear.png) / *Bear* |  |  |  |
+![Wolf](../assets/Wolf.png)
+
+_Wolf_
+
+![Poisoned Wolf](../assets/Poisoned_Wolf.png)
+
+_Poisoned Wolf_
+
+![Timberwolf](../assets/Timberwolf.png)
+
+_Timberwolf_
+
+![Cougar](../assets/Cougar.png)
+
+_Cougar_
+
+![Bear](../assets/Bear.png)
+
+_Bear_
 
 - Bears follow fixed routes to and from their den and typically do not hunt prey wildlife. Multiple dens may be present in a region, however not all may be populated by Bear in a given survival world.
 - Cougars are very fast and agile predators, but will only appear if the player enables them. They stick to dedicated "Cougar Territory" areas and attack the player if they wander too close to them.
@@ -74,35 +99,85 @@ All animals can be [Hunted](./Hunting.md) to obtain meat (except for Poisoned Wo
 
 During an Aurora at night all prey animals will disappear and all predators will be replaced with their aurora counterpart (e.g. wolves are replaced by aurora wolves). Aurora predators are visually distinct (pale green glow on their fur, glowing eyes), act more chaotically (e.g. wolves bark often and run around randomly), are more aggressive (wider detection radius), deadlier (do more damage in [Struggles](./Struggle.md)), take more damage to kill, and are immune to being frightened by [Fire](./Fire.md). Powered streetlamps, vehicle headlights, and the [Flashlight](./Flashlight.md) or [Miner's Flashlight](./Miner%27s%20Flashlight.md) may be used to scare aurora predators, as well as lit [Flares](./Flare.md), [Marine Flares](./Marine%20Flare.md), and firing the [Distress Pistol](./Distress%20Pistol.md).
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Aurora Wolf](../assets/Aurora_Wolf.jpg) / *Aurora Wolf* | ![Aurora Timberwolf](../assets/Aurora_Timberwolf.jpg) / *Aurora Timberwolf* | ![Aurora Poisoned Wolf](../assets/Aurora_Poisoned_Wolf.jpg) / *Aurora Poisoned Wolf* | ![Aurora Bear](../assets/Aurora_Bear.jpg) / *Aurora Bear* |
-| ![Aurora Cougar](../assets/Aurora_Cougar.jpg) / *Aurora Cougar* |  |  |  |
+![Aurora Wolf](../assets/Aurora_Wolf.jpg)
+
+_Aurora Wolf_
+
+![Aurora Timberwolf](../assets/Aurora_Timberwolf.jpg)
+
+_Aurora Timberwolf_
+
+![Aurora Poisoned Wolf](../assets/Aurora_Poisoned_Wolf.jpg)
+
+_Aurora Poisoned Wolf_
+
+![Aurora Bear](../assets/Aurora_Bear.jpg)
+
+_Aurora Bear_
+
+![Aurora Cougar](../assets/Aurora_Cougar.jpg)
+
+_Aurora Cougar_
 
 ### Scavenger Birds
 
 [Crows](./Crow.md) will circle over [Frozen Corpses](./Frozen%20Corpse.md) and are used to draw attention to certain locations, while dropping [Crow Feathers](./Crow%20Feather.md) around corpses. When the player is near a Bear, crows can be heard aggressively calling with a distinctive "bear call." Crows cannot be harmed.
 
-| Column 1 |
-| --- |
-| ![Crow model](../assets/Crow.png) / *Crow model* |
+![Crow model](../assets/Crow.png)
+
+_Crow model_
 
 ### Fish
 
 Fish inhabit the waters of numerous regions and may encountered by [Ice Fishing](./Ice%20Fishing.md) (either inside of fishing huts or by Free-Form ice holes). Species include [Coho Salmon](./Coho%20Salmon%20%28Raw%29.md), [Rainbow Trout](./Rainbow%20Trout%20%28Raw%29.md), [Rockfish](./Rockfish%20%28Raw%29.md), and [Red Irish Lord](./Red%20Irish%20Lord%20%28Raw%29.md) in coastal saltwater, while inland freshwater hosts [Smallmouth Bass](./Smallmouth%20Bass%20%28Raw%29.md), [Lake Whitefish](./Lake%20Whitefish%20%28Raw%29.md), [Goldeye](./Goldeye%20%28Raw%29.md), and [Burbot](./Burbot%20%28Raw%29.md).
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Coho Salmon](../assets/Coho_Salmon_%28Raw%29_icon.png) / *Coho Salmon* | ![Rainbow Trout](../assets/Rainbow_Trout_%28Raw%29_icon.png) / *Rainbow Trout* | ![Rockfish](../assets/Rockfish_%28Raw%29_icon.png) / *Rockfish* | ![Red Irish Lord](../assets/Red_Irish_Lord_%28Raw%29_icon.png) / *Red Irish Lord* |
-| ![Smallmouth Bass](../assets/Smallmouth_Bass_%28Raw%29_icon.png) / *Smallmouth Bass* | ![Lake Whitefish](../assets/Lake_Whitefish_%28Raw%29_icon.png) / *Lake Whitefish* | ![Goldeye](../assets/Goldeye_icon.png) / *Goldeye* | ![Burbot](../assets/Burbot_%28Raw%29_icon.png) / *Burbot* |
+![Coho Salmon](../assets/Coho_Salmon_%28Raw%29_icon.png)
+
+_Coho Salmon_
+
+![Rainbow Trout](../assets/Rainbow_Trout_%28Raw%29_icon.png)
+
+_Rainbow Trout_
+
+![Rockfish](../assets/Rockfish_%28Raw%29_icon.png)
+
+_Rockfish_
+
+![Red Irish Lord](../assets/Red_Irish_Lord_%28Raw%29_icon.png)
+
+_Red Irish Lord_
+
+![Smallmouth Bass](../assets/Smallmouth_Bass_%28Raw%29_icon.png)
+
+_Smallmouth Bass_
+
+![Lake Whitefish](../assets/Lake_Whitefish_%28Raw%29_icon.png)
+
+_Lake Whitefish_
+
+![Goldeye](../assets/Goldeye_icon.png)
+
+_Goldeye_
+
+![Burbot](../assets/Burbot_%28Raw%29_icon.png)
+
+_Burbot_
 
 ### Special Animals
 
 A few animals unique to Wintermute can be found in various Episodes. These include the [Big Bass](./Big%20Bass%20%28Raw%29.md), an incredibly large fish, the [Ghost Stag](./Ghost%20Stag.md), an albino Deer, and the [Old Bear](./Old%20Bear.md), an unusually tough and aggressive Bear. The Old Bear is the only unique animal found within Survival Mode, specifically in the "The Hunted" series of [Challenges](./Challenge.md).
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Old Bear](../assets/Old_Bear.png) / *Old Bear* | ![Ghost Stag](../assets/Ghost_Stag.png) / *Ghost Stag* | ![Big Bass](../assets/Big_Bass_%28Raw%29_icon.png) / *Big Bass* |
+![Old Bear](../assets/Old_Bear.png)
+
+_Old Bear_
+
+![Ghost Stag](../assets/Ghost_Stag.png)
+
+_Ghost Stag_
+
+![Big Bass](../assets/Big_Bass_%28Raw%29_icon.png)
+
+_Big Bass_
 
 ### Other Animals
 
@@ -116,21 +191,81 @@ Other species of animals can be inferred to be in the game world, but are not se
 - Mules are mentioned in the [Load Screen](./Load%20Screen.md) description of [Mule Bridge](./Mule%20Bridge.md).
 - Dog houses can sometimes be found on the Island, but dogs are never seen.
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Fox](../assets/Pilgrim_icon.png) / *Fox* | ![Owl](../assets/Voyageur_icon.png) / *Owl* | ![Concept art of Astrid Greenwood finding a dead killer whale](../assets/Desolation-Point.jpg) / *Concept art of [Astrid Greenwood](./Astrid%20Greenwood.md) finding a dead killer whale* | ![A pod of beached Killer Whales at the end of Episode 3](../assets/Beached_Killer_Whales.jpg) / *A pod of beached Killer Whales at the end of [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)* |
-| ![Orca on Orca Gas Station](../assets/Orca_gas_station_sign.png) / *Orca on [Orca Gas Station](./Orca%20Gas%20Station.md)* | ![Graffiti of a Grizzly Bear in Bleak Inlet](../assets/Bleak_Inlet_Bear_Graffiti.png) / *Graffiti of a Grizzly Bear in [Bleak Inlet](./Bleak%20Inlet.md)* | ![A Grizzly Bear on the Tail Section](../assets/Tail_section2.jpg) / *A Grizzly Bear on the [Tail Section](./Tail%20Section.md)* | ![A female Moose as seen in a painting](../assets/Paintings.png) / *A female Moose as seen in a painting* |
-| ![A Cougar on the back of the old Frontier Shooting Guide Research Book](../assets/Frontier_Shooting_Guide_Old.png) / *A Cougar on the back of the old Frontier Shooting Guide Research Book* | ![A Polar Bear on the back of the old The Frozen Angler Research Book](../assets/Frozen_Angler_Old.png) / *A Polar Bear on the back of the old The Frozen Angler Research Book* | ![Sardines on Tin of Sardines](../assets/Tin_of_Sardines_icon.png) / *Sardines on [Tin of Sardines](./Tin%20of%20Sardines.md)* | ![Bull on Beef Jerky](../assets/Beef_Jerky_icon.png) / *Bull on [Beef Jerky](./Beef%20Jerky.md)* |
-| ![Calf Cow on Condensed Milk](../assets/Condensed_Milk_icon.png) / *Calf Cow on [Condensed Milk](./Condensed%20Milk.md)* | ![Pork in Canned Ham](../assets/Canned_Ham_icon.png) / *Pork in [Canned Ham](./Canned%20Ham.md)* | ![Squirrel on Chocolate Bar](../assets/Chocolate_Bar_icon.png) / *Squirrel on [Chocolate Bar](./Chocolate%20Bar.md)* | ![Dogs and Dog Food](../assets/Dog_Food_icon.png) / *Dogs and [Dog Food](./Dog%20Food.md)* |
-| ![Doghouse](../assets/Doghouse.jpg) / *Doghouse* |  |  |  |
+![Fox](../assets/Pilgrim_icon.png)
+
+_Fox_
+
+![Owl](../assets/Voyageur_icon.png)
+
+_Owl_
+
+![Concept art of Astrid Greenwood finding a dead killer whale](../assets/Desolation-Point.jpg)
+
+_Concept art of [Astrid Greenwood](./Astrid%20Greenwood.md) finding a dead killer whale_
+
+![A pod of beached Killer Whales at the end of Episode 3](../assets/Beached_Killer_Whales.jpg)
+
+_A pod of beached Killer Whales at the end of [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)_
+
+![Orca on Orca Gas Station](../assets/Orca_gas_station_sign.png)
+
+_Orca on [Orca Gas Station](./Orca%20Gas%20Station.md)_
+
+![Graffiti of a Grizzly Bear in Bleak Inlet](../assets/Bleak_Inlet_Bear_Graffiti.png)
+
+_Graffiti of a Grizzly Bear in [Bleak Inlet](./Bleak%20Inlet.md)_
+
+![A Grizzly Bear on the Tail Section](../assets/Tail_section2.jpg)
+
+_A Grizzly Bear on the [Tail Section](./Tail%20Section.md)_
+
+![A female Moose as seen in a painting](../assets/Paintings.png)
+
+_A female Moose as seen in a painting_
+
+![A Cougar on the back of the old Frontier Shooting Guide Research Book](../assets/Frontier_Shooting_Guide_Old.png)
+
+_A Cougar on the back of the old Frontier Shooting Guide Research Book_
+
+![A Polar Bear on the back of the old The Frozen Angler Research Book](../assets/Frozen_Angler_Old.png)
+
+_A Polar Bear on the back of the old The Frozen Angler Research Book_
+
+![Sardines on Tin of Sardines](../assets/Tin_of_Sardines_icon.png)
+
+_Sardines on [Tin of Sardines](./Tin%20of%20Sardines.md)_
+
+![Bull on Beef Jerky](../assets/Beef_Jerky_icon.png)
+
+_Bull on [Beef Jerky](./Beef%20Jerky.md)_
+
+![Calf Cow on Condensed Milk](../assets/Condensed_Milk_icon.png)
+
+_Calf Cow on [Condensed Milk](./Condensed%20Milk.md)_
+
+![Pork in Canned Ham](../assets/Canned_Ham_icon.png)
+
+_Pork in [Canned Ham](./Canned%20Ham.md)_
+
+![Squirrel on Chocolate Bar](../assets/Chocolate_Bar_icon.png)
+
+_Squirrel on [Chocolate Bar](./Chocolate%20Bar.md)_
+
+![Dogs and Dog Food](../assets/Dog_Food_icon.png)
+
+_Dogs and [Dog Food](./Dog%20Food.md)_
+
+![Doghouse](../assets/Doghouse.jpg)
+
+_Doghouse_
 
 ### The Darkwalker
 
 While not considered wildlife (being treated more as a kind of sapient, eldritch creature that simply hunts the player), the Darkwalker is an "animal" with pathfinding A.I. that appears during the challenge [Escape the Darkwalker](./Escape%20the%20Darkwalker.md). It does not have a physical model, only producing footsteps in the snow and roaring as it grows closer, following the player with the sole purpose of killing them. It cannot be killed or harmed by normal means, only avoided or banished by completing the challenge.
 
-| Column 1 |
-| --- |
-| ![The Darkwalker](../assets/Darkwalker-Blog-Featured-Img.png) / *The Darkwalker* |
+![The Darkwalker](../assets/Darkwalker-Blog-Featured-Img.png)
+
+_The Darkwalker_
 
 ## Animal Spawning
 
@@ -157,35 +292,100 @@ While containing no AI, interactions with plants and fungi are an equally import
 - [Cat Tails](./Cat%20Tail.md) are found all across the Island around many fresh water lakes, streams, and ponds. [Cat Tail Heads](./Cat%20Tail%20Head.md) can be used as tinder to start fires and their [Stalks](./Cat%20Tail%20Stalk.md) can serve as an easy to find, though not very filling, food source.
 - [Scrub Brush](./Scrub%20Brush.md) can be found in various regions and can be harvested to obtain large amounts of Sticks for fires, and can sometimes be found in patches that block a player's progress.
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Oak Tree](../assets/Oak_trees_Transfer_Pass.jpg) / *Oak Tree* | ![Burdock](../assets/Burdock_Plant.jpg) / *Burdock* | ![Birch Sapling with Rose Hip Bush](../assets/Birch_Sapling.jpg) / *Birch Sapling with Rose Hip Bush* | ![Maple Sapling](../assets/Maple_sapling_growing.png) / *Maple Sapling* |
-| \[Missing image: Cat\_Tail\_plant.png\] / *Cat Tail* | ![Rose Bush](../assets/Rose_hip_bush.jpg) / *Rose Bush* | ![A darker colored Rose Bush](../assets/RockClimb.jpg) / *A darker colored Rose Bush* | \[Missing image: Scrub\_Brush.png\] / *Scrub Brush* |
-| ![Fully grown Birch trees](../assets/BearFlare.png) / *Fully grown Birch trees* |  |  |  |
+![Oak Tree](../assets/Oak_trees_Transfer_Pass.jpg)
+
+_Oak Tree_
+
+![Burdock](../assets/Burdock_Plant.jpg)
+
+_Burdock_
+
+![Birch Sapling with Rose Hip Bush](../assets/Birch_Sapling.jpg)
+
+_Birch Sapling with Rose Hip Bush_
+
+![Maple Sapling](../assets/Maple_sapling_growing.png)
+
+_Maple Sapling_
+
+\[Missing image: Cat\_Tail\_plant.png\]
+
+_Cat Tail_
+
+![Rose Bush](../assets/Rose_hip_bush.jpg)
+
+_Rose Bush_
+
+![A darker colored Rose Bush](../assets/RockClimb.jpg)
+
+_A darker colored Rose Bush_
+
+\[Missing image: Scrub\_Brush.png\]
+
+_Scrub Brush_
+
+![Fully grown Birch trees](../assets/BearFlare.png)
+
+_Fully grown Birch trees_
 
 ### Fungi
 
 - [Reishi Mushroom](./Reishi%20Mushroom.md) are found around rotting tree stumps, and can be prepared to create [Reishi Tea](./Reishi%20Tea.md) or be used in Recipes.
 - [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) can be found hanging from many trees, and can be used as a natural antiseptic.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Reishi Mushrooms](../assets/Reishi_mushrooms_on_tree_stump.jpg) / *Reishi Mushrooms* | ![Old Man's Beard Lichen](../assets/Old_Man%27s_Beard_Lichen_on_trees.jpg) / *Old Man's Beard Lichen* |
+![Reishi Mushrooms](../assets/Reishi_mushrooms_on_tree_stump.jpg)
+
+_Reishi Mushrooms_
+
+![Old Man's Beard Lichen](../assets/Old_Man%27s_Beard_Lichen_on_trees.jpg)
+
+_Old Man's Beard Lichen_
 
 ### Other Flora
 
 Other examples of Flora include Bioluminescent Moss in [Ice Caves](./Ice%20Cave.md) and various grasses occasionally found on the Island. Certain packaged foods show images of plants not found in game.
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Ice Cave moss](../assets/Ice_Cave_Moss.png) / *Ice Cave moss* | ![A tuffet bed made of Conifer leaves](../assets/Tuffet.png) / *A tuffet bed made of Conifer leaves* | ![Grapes on Stacy's Grape Soda](../assets/Stacy%27s_Grape_Soda_icon.png) / *Grapes on [Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md)* | ![Orange on Orange Soda](../assets/Orange_Soda_icon.png) / *Orange on [Orange Soda](./Orange%20Soda.md)* |
-| ![Acorns and leaves on a Granola Bar](../assets/Granola_Bar_icon.png) / *Acorns and leaves on a [Granola Bar](./Granola%20Bar.md)* | ![Peanuts on Peanut Butter](../assets/Peanut_Butter_icon.png) / *Peanuts on [Peanut Butter](./Peanut%20Butter.md)* |  |  |
+![Ice Cave moss](../assets/Ice_Cave_Moss.png)
+
+_Ice Cave moss_
+
+![A tuffet bed made of Conifer leaves](../assets/Tuffet.png)
+
+_A tuffet bed made of Conifer leaves_
+
+![Grapes on Stacy's Grape Soda](../assets/Stacy%27s_Grape_Soda_icon.png)
+
+_Grapes on [Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md)_
+
+![Orange on Orange Soda](../assets/Orange_Soda_icon.png)
+
+_Orange on [Orange Soda](./Orange%20Soda.md)_
+
+![Acorns and leaves on a Granola Bar](../assets/Granola_Bar_icon.png)
+
+_Acorns and leaves on a [Granola Bar](./Granola%20Bar.md)_
+
+![Peanuts on Peanut Butter](../assets/Peanut_Butter_icon.png)
+
+_Peanuts on [Peanut Butter](./Peanut%20Butter.md)_
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| !["Demon Wolves" in the 4 Days of Night Event](../assets/Demon_wolf_pounce.jpg) / *"Demon Wolves" in the [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md)* | ![ditto](../assets/Wolf_demon2.jpg) / *ditto* | ![A texture showing all in-game footprints from topright to left: Wolf, Ptarmigan, Deer, Rabbit, Moose, Bear, Human, Darkwalker, Cougar](../assets/Footsteps_Normal_Maps_AtlasTEX.png) / *A texture showing all in-game footprints from topright to left: Wolf, Ptarmigan, Deer, Rabbit, Moose, Bear, Human, Darkwalker, Cougar* | ![Bear Footprints](../assets/Bear%27s_footprints.png) / *Bear Footprints* |
+!["Demon Wolves" in the 4 Days of Night Event](../assets/Demon_wolf_pounce.jpg)
+
+_"Demon Wolves" in the [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md)_
+
+![ditto](../assets/Wolf_demon2.jpg)
+
+_ditto_
+
+![A texture showing all in-game footprints from topright to left: Wolf, Ptarmigan, Deer, Rabbit, Moose, Bear, Human, Darkwalker, Cougar](../assets/Footsteps_Normal_Maps_AtlasTEX.png)
+
+_A texture showing all in-game footprints from topright to left: Wolf, Ptarmigan, Deer, Rabbit, Moose, Bear, Human, Darkwalker, Cougar_
+
+![Bear Footprints](../assets/Bear%27s_footprints.png)
+
+_Bear Footprints_
 
 ## Trivia
 
@@ -201,5 +401,3 @@ Other examples of Flora include Bioluminescent Moss in [Ice Caves](./Ice%20Cave.
 - During [Escape the Darkwalker](./Escape%20the%20Darkwalker.md), the [Toxic Fog](./Toxic%20Fog.md) will immediately kill all prey and predator type animals when it descends. Crows and plants will not be affected.
 
 [es:Fauna local](es:Fauna_local) [fr:Animaux](fr:Animaux)
-
-**Lua execution error in Module:Navbox function navbox**

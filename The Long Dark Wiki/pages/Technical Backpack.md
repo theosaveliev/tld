@@ -1,17 +1,12 @@
----
-title: "Technical Backpack"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Technical_Backpack"
----
-
 # Technical Backpack
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Technical_Backpack)
 
 **Technical Backpack**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Technical_Backpack_icon.png) / *Technical\_Backpack\_icon.png* |
+|  | ![](../assets/Technical_Backpack_icon.png) / _Technical\_Backpack\_icon.png_ |
 | Release | [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89) |
 | Wintermute | No |
 | **Properties** |  |
@@ -52,10 +47,8 @@ The Technical Backpack can be found alongside their sister item, the [Crampons](
 - It is implied prior to acquiring the technical backpack that the player is wearing a conventional backpack or rucksack like those found scattered about Great Bear Island near frozen corpses. This is shown explicitly in official artwork of [Will Mackenzie](./Will%20Mackenzie.md) for [Wintermute: Episode 2](./Episode%202%20-%20Luminance%20Fugue.md). However, these containers cannot be picked up, and acquiring the technical backpack does not produce the player's old backpack.
 - Acquiring the technical backpack changes the sound played when a player opens their inventory. Instead of a normal ruffling sound, a clip and unzip noise are heard. Additionally, the icon for the backpack will change to one resembling the in game picture for the technical backpack, and the inventory will be renamed from Backpack to Technical Backpack.
 
-| Column 1 |
-| --- |
-| ![Technical Backpack inventory display &amp; icon change](../assets/TechnicalBackpack.jpg) / ***Technical Backpack inventory display &amp; icon change*** |
+![Technical Backpack inventory display &amp; icon change](../assets/TechnicalBackpack.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_**Technical Backpack inventory display &amp; icon change**_
 
 [ru:Улучшенный рюкзак](ru:%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA)

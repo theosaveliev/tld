@@ -1,11 +1,6 @@
----
-title: "Wilderness Kitchen"
-wiki_namespace: 0
-categories: ["Fire Starting", "Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Wilderness_Kitchen"
----
-
 # Wilderness Kitchen
+
+**Categories:** Fire Starting, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wilderness_Kitchen)
 
 **Contents**
 
@@ -26,7 +21,7 @@ source: "https://thelongdark.fandom.com/wiki/Wilderness_Kitchen"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Wilderness_Kitchen_icon.png) / *Wilderness\_Kitchen\_icon.png* |
+|  | ![](../assets/Wilderness_Kitchen_icon.png) / _Wilderness\_Kitchen\_icon.png_ |
 | Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.346) |
 | Wintermute | No |
 | **Properties** |  |
@@ -42,7 +37,7 @@ source: "https://thelongdark.fandom.com/wiki/Wilderness_Kitchen"
 
 ## Research
 
-*Wilderness Kitchen* can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Cooking skill points](./Cooking.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
+_Wilderness Kitchen_ can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Cooking skill points](./Cooking.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
 
 Research can only be performed under the following conditions:
 
@@ -92,22 +87,24 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 - Inside the car between the garden beds area and one of the small houses in [Thomson's Crossing](./Thomson%27s%20Crossing.md)
 
-*Wilderness Kitchen* can also spawn inside the Kitchen variant of the [Prepper Cache](./Prepper%20Cache.md).
+_Wilderness Kitchen_ can also spawn inside the Kitchen variant of the [Prepper Cache](./Prepper%20Cache.md).
 
 ## Trivia
 
-- Attempting to burn a copy of *Wilderness Kitchen* when it has not been fully read will give a confirmation warning before it can be burned.
-- Once a copy of *Wilderness Kitchen* (or any research book) is fully researched, it will no longer appear in the Tools section of the Backpack.
+- Attempting to burn a copy of _Wilderness Kitchen_ when it has not been fully read will give a confirmation warning before it can be burned.
+- Once a copy of _Wilderness Kitchen_ (or any research book) is fully researched, it will no longer appear in the Tools section of the Backpack.
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![3D Model](../assets/Wilderness_kitchen.png) / *3D Model* | ![Old model](../assets/Wilderness_Kitchen_Old.png) / *Old model* |
+![3D Model](../assets/Wilderness_kitchen.png)
+
+_3D Model_
+
+![Old model](../assets/Wilderness_Kitchen_Old.png)
+
+_Old model_
 
 ## Update history
 
 - UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#.346)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**

@@ -1,20 +1,15 @@
----
-title: "Community Service"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Community_Service"
----
-
 # Community Service
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Community_Service)
 
 **Community Service**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Community_Service_icon.png) / *Community\_Service\_icon.png* |
+|  | ![](../assets/Community_Service_icon.png) / _Community\_Service\_icon.png_ |
 | Description | Get to Thomson's Crossing. |
 
-**Community Service** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Community Service** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -24,5 +19,3 @@ This is an unmissable story achievement, and is earned leaving [Molly's Barn](./
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

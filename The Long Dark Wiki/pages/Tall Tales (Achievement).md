@@ -1,11 +1,6 @@
----
-title: "Tall Tales (Achievement)"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Tall_Tales_(Achievement)"
----
-
 # Tall Tales \(Achievement\)
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tall_Tales_%28Achievement%29)
 
 **Contents**
 
@@ -18,10 +13,10 @@ source: "https://thelongdark.fandom.com/wiki/Tall_Tales_(Achievement)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Tall_Tales_%28Achievement%29_icon.png) / *Tall\_Tales\_(Achievement)\_icon.png* |
+|  | ![](../assets/Tall_Tales_%28Achievement%29_icon.png) / _Tall\_Tales\_(Achievement)\_icon.png_ |
 | Description | Investigate all four mysterious local legends. |
 
-**Tall Tales** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Tall Tales** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -53,5 +48,3 @@ This achievement is earned after finding all 4 Lost Legends books and tracking d
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

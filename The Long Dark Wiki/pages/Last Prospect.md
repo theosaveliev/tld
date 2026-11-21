@@ -1,11 +1,6 @@
----
-title: "Last Prospect"
-wiki_namespace: 0
-categories: ["Blackrock", "Locations", "Locations in Blackrock"]
-source: "https://thelongdark.fandom.com/wiki/Last_Prospect"
----
-
 # Last Prospect
+
+**Categories:** Blackrock, Locations, Locations in Blackrock · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Last_Prospect)
 
 **Contents**
 
@@ -20,9 +15,9 @@ source: "https://thelongdark.fandom.com/wiki/Last_Prospect"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/LastProspectEntrance.png) / *LastProspectEntrance.png* |
+|  | ![](../assets/LastProspectEntrance.png) / _LastProspectEntrance.png_ |
 | **Location** |  |
-|  | ![](../assets/Last_Prospect_Location.png) / *Last\_Prospect\_Location.png* |
+|  | ![](../assets/Last_Prospect_Location.png) / _Last\_Prospect\_Location.png_ |
 | Region |  |
 | Location | Northeast corner of [Blackrock](./Blackrock.md), at the western edge of the [Mule Bridge](./Mule%20Bridge.md) |
 | Description | Abandoned gold mine containing suffocating fog |
@@ -31,7 +26,7 @@ source: "https://thelongdark.fandom.com/wiki/Last_Prospect"
 | Firebox |  |
 |  |  |
 
-> “**Blackrock's mine was said to be the brainchild of a Mainland consortium. With newer technology, for its time, they hoped to delve deeper than any other mine on the Island. It remains unknown if the mine's ambitious goal is in some way connected to its shuttering.**”
+> “__Blackrock's mine was said to be the brainchild of a Mainland consortium. With newer technology, for its time, they hoped to delve deeper than any other mine on the Island. It remains unknown if the mine's ambitious goal is in some way connected to its shuttering.__”
 >
 > — [Load Screen](./Load%20Screen.md) Description
 
@@ -49,7 +44,7 @@ In Story mode, there are multiple sections with fog and short timers, and the pl
 
 ### [Suffocation](./Suffocation.md)
 
-Suffocation risk is a new status introduced in [The Detonators](./The%20Detonators.md) in Wintermute. It then appears again in [Donner](./Donner.md), and makes an appearance in Survival mode in the deepest area of the Last Prospect mine. When entering an area with poisonous fog or smoke, a timer will above the status bars in the bottom left corner of the screen, and the player's vision will begin to blur. If the timer reaches zero while the player is still in an area with fog or smoke, then the player will die *immediately, regardless of [condition](./Condition.md)*. By reaching clean air, the status will be cleared and the timer will disappear. In the mine, this risk appears when the player enters an area with poisonous fog.
+Suffocation risk is a new status introduced in [The Detonators](./The%20Detonators.md) in Wintermute. It then appears again in [Donner](./Donner.md), and makes an appearance in Survival mode in the deepest area of the Last Prospect mine. When entering an area with poisonous fog or smoke, a timer will above the status bars in the bottom left corner of the screen, and the player's vision will begin to blur. If the timer reaches zero while the player is still in an area with fog or smoke, then the player will die _immediately, regardless of [condition](./Condition.md)_. By reaching clean air, the status will be cleared and the timer will disappear. In the mine, this risk appears when the player enters an area with poisonous fog.
 
 In Survival mode, there is ample time to get through the toxic fog as long as the player is not encumbered and can sprint most of, if not all the way. The use of an [Emergency Stim](./Emergency%20Stim.md) or [Go! Energy Drink](./Go!%20Energy%20Drink.md) can help if speed is a concern.
 
@@ -69,8 +64,14 @@ If the player travels deep into the mine and braves the toxic gases to reach the
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![The upper entrance to the mine. It is the only one open in Survival Mode.](../assets/LastProspectEntrance.png) / *The upper entrance to the mine. It is the only one open in Survival Mode.* | ![Between the two rope climbs up from the bottom of the ravine](../assets/HalfwayUp.png) / *Between the two rope climbs up from the bottom of the ravine* | ![Entrance to head deeper into the mine](../assets/The_Detonators.png) / *Entrance to head deeper into the mine* |
+![The upper entrance to the mine. It is the only one open in Survival Mode.](../assets/LastProspectEntrance.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Последний участок](ru:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA)
+_The upper entrance to the mine. It is the only one open in Survival Mode._
+
+![Between the two rope climbs up from the bottom of the ravine](../assets/HalfwayUp.png)
+
+_Between the two rope climbs up from the bottom of the ravine_
+
+![Entrance to head deeper into the mine](../assets/The_Detonators.png)
+
+_Entrance to head deeper into the mine_

@@ -1,17 +1,12 @@
----
-title: "Torn Page"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Torn_Page"
----
-
 # Torn Page
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Torn_Page)
 
 **Torn Page**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Torn_Page_icon.png) / *Torn\_Page\_icon.png* |
+|  | ![](../assets/Torn_Page_icon.png) / _Torn\_Page\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Torn_Page"
 
 ## Transcript
 
-*The following text is transcribed from **Torn Page***
+_The following text is transcribed from **Torn Page**_
 
 **\[paper fragment\]
 
@@ -50,5 +45,3 @@ SAR Lead District 4**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

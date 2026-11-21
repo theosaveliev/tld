@@ -1,10 +1,6 @@
----
-title: "Convict Caches"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Convict_Caches"
----
-
 # Convict Caches
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Convict_Caches)
 
 **Contents**
 
@@ -22,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/Convict_Caches"
 | Current | Convict Caches |
 | Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **An escaping convict left some hidden caches to help the other convicts following him.**
+**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __An escaping convict left some hidden caches to help the other convicts following him.__
 
 In-game description
 
@@ -74,5 +70,3 @@ To start the mission, the player must find a note at [Cook's Farm](./Cook%27s%20
   - ~78% condition [Revolver](./Revolver.md)
   - 10x [Revolver Ammunition](./Revolver%20Ammunition.md)
   - Ragged [Climbing Socks](./Climbing%20Socks.md)
-
-**Lua execution error in Module:Navbox function navbox**

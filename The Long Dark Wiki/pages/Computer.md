@@ -1,13 +1,8 @@
----
-title: "Computer"
-wiki_namespace: 0
-categories: ["Interactable objects", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Computer"
----
-
 # Computer
 
-![A computer during the aurora](../assets/Maxresdefault.png)*A computer during the aurora* **Computers** are stationary objects in The Long Dark. Un-interactable under normal circumstances, but during an [Aurora](./Aurora.md) their display will sometimes illuminate to show the contents of a recently closed log/diary, as a nod to the civilization on Great Bear before the lights.
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Computer)
+
+![A computer during the aurora](../assets/Maxresdefault.png)_A computer during the aurora_ **Computers** are stationary objects in The Long Dark. Un-interactable under normal circumstances, but during an [Aurora](./Aurora.md) their display will sometimes illuminate to show the contents of a recently closed log/diary, as a nod to the civilization on Great Bear before the lights.
 
 ## Overview
 
@@ -17,11 +12,19 @@ Laptops and computers are still a valid piece of backstory to the Long Dark, and
 
 ## Aurora
 
-During an Aurora, some of these computers will flash on to display a message, called a Buffer Memories. Each computer that *will*turn on in the game has at least three buffer memories, and computers that are active during an aurora will slowly cycle through the list, so if you wait long enough you might be able to catch more than one buffer memory on the same computer. Don't be fooled though - not all computers turn on. Generally if you've found a computer that didn't turn on during the Aurora, chances are there's another one in the building that did.
+During an Aurora, some of these computers will flash on to display a message, called a Buffer Memories. Each computer that _will_turn on in the game has at least three buffer memories, and computers that are active during an aurora will slowly cycle through the list, so if you wait long enough you might be able to catch more than one buffer memory on the same computer. Don't be fooled though - not all computers turn on. Generally if you've found a computer that didn't turn on during the Aurora, chances are there's another one in the building that did.
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![](../assets/20190113203759_1.jpg) / *20190113203759\_1.jpg* | ![](../assets/Cave_laptop.jpg) / *Cave\_laptop.jpg* | ![](../assets/Buffer-memories.gif) / *Buffer-memories.gif* |
+![](../assets/20190113203759_1.jpg)
+
+_20190113203759\_1.jpg_
+
+![](../assets/Cave_laptop.jpg)
+
+_Cave\_laptop.jpg_
+
+![](../assets/Buffer-memories.gif)
+
+_Buffer-memories.gif_
 
 ## Locations
 
@@ -45,5 +48,3 @@ There are currently 16 locations that will display Buffer Memories during an Aur
 | [Rural Store](https://thelongdark.fandom.com/wiki/Rural_Crossroads) | 5 |
 | [Shortwave Tower](https://thelongdark.fandom.com/wiki/Shortwave_Tower) | 3 |
 | [Signal Hill](https://thelongdark.fandom.com/wiki/Signal_Hill) | 5 |
-
-**Lua execution error in Module:Navbox function navbox**

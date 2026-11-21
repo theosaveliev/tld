@@ -1,11 +1,6 @@
----
-title: "Trans-Island Railway Line"
-wiki_namespace: 0
-categories: ["Locations"]
-source: "https://thelongdark.fandom.com/wiki/Trans-Island_Railway_Line"
----
-
 # Trans\-Island Railway Line
+
+**Categories:** Locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trans-Island_Railway_Line)
 
 **Contents**
 
@@ -59,7 +54,7 @@ Most of the railway line lies in ruins and is entirely unfit for even a basic pu
 
 ![A train engine bearing the Trans-Island Line logo.](../assets/Trans-Island_Line_Engine.jpg)
 
-*A train engine bearing the Trans-Island Line logo.*
+_A train engine bearing the Trans-Island Line logo._
 
 ### Zone of Contamination
 
@@ -95,8 +90,10 @@ Coastal highway features the terminus of the railway line and is the smallest po
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The railroad in Lower Great Bear](../assets/Lower_Great_Bear_Map_2024.png) / *The railroad in Lower Great Bear* | ![The railroad in the Far Territory](../assets/Far_Territory_Part_5_Map.jpg) / *The railroad in the Far Territory* |
+![The railroad in Lower Great Bear](../assets/Lower_Great_Bear_Map_2024.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_The railroad in Lower Great Bear_
+
+![The railroad in the Far Territory](../assets/Far_Territory_Part_5_Map.jpg)
+
+_The railroad in the Far Territory_

@@ -1,17 +1,12 @@
----
-title: "Newspaper Clipping"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Newspaper_Clipping"
----
-
 # Newspaper Clipping
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Newspaper_Clipping)
 
 **Newspaper Clipping**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Newspaper_Clipping_icon.png) / *Newspaper\_Clipping\_icon.png* |
+|  | ![](../assets/Newspaper_Clipping_icon.png) / _Newspaper\_Clipping\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Church Artifact](./Church%20Artifact%20%28mission%29.md) |
 | **Properties** |  |
@@ -28,11 +23,11 @@ source: "https://thelongdark.fandom.com/wiki/Newspaper_Clipping"
 
 **Newspaper Clipping** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Church Artifact](./Church%20Artifact%20%28mission%29.md) side mission.
 
-During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note *Newspaper Clipping* on the floor at the [Draft Dodger's Cabin](./Draft%20Dodger%27s%20Cabin.md).
+During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Newspaper Clipping_ on the floor at the [Draft Dodger's Cabin](./Draft%20Dodger%27s%20Cabin.md).
 
 ## Transcript
 
-*The following text is transcribed from **Newspaper Clipping***
+_The following text is transcribed from **Newspaper Clipping**_
 
 **...stolen from a church in Thomson's Crossing, the artifact was gifted to the parish by a prominent local landowner decades ago, according to Father Thomas, the local parish priest.
 
@@ -42,5 +37,3 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

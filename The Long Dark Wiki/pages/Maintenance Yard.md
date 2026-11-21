@@ -1,25 +1,20 @@
----
-title: "Maintenance Yard"
-wiki_namespace: 0
-categories: ["Indoor locations", "Industrial locations", "Locations", "Locations in Broken Railroad", "Locations with a forge", "Locations with a workbench"]
-source: "https://thelongdark.fandom.com/wiki/Maintenance_Yard"
----
-
 # Maintenance Yard
+
+**Categories:** Indoor locations, Industrial locations, Locations, Locations in Broken Railroad, Locations with a forge, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Maintenance_Yard)
 
 **Maintenance Yard**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Maintenance_yard_building.jpg) / *maintenance\_yard\_building.jpg* |
+|  | ![](../assets/Maintenance_yard_building.jpg) / _maintenance\_yard\_building.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Maintenance_Yard_Location.png) / *Maintenance\_Yard\_Location.png* |
+|  | ![](../assets/Maintenance_Yard_Location.png) / _Maintenance\_Yard\_Location.png_ |
 | Region | [Broken Railroad](./Broken%20Railroad.md)\|- |
 | Description | A large indoor maintenance yard and office |
 | **General** |  |
 | Type | Industrial\|- |
-| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
-| ![](../assets/Forge_icon_green.png) / *forge\_icon\_green.png* | Has a forge\|- |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
+| ![](../assets/Forge_icon_green.png) / _forge\_icon\_green.png_ | Has a forge\|- |
 | Missions | ["You Fix My Rifle?"](./Episode%202%20-%20Luminance%20Fugue.md#You_Fix_My_Rifle%3F) ["The Best Defense"](./Episode%202%20-%20Luminance%20Fugue.md#The_Best_Defense) |
 
 **Maintenance Yard** is a location in [Broken Railroad](./Broken%20Railroad.md).
@@ -44,12 +39,40 @@ In Episode 2 of [Wintermute](./Wintermute.md), Will has to go to the Maintenance
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Inside the office](../assets/Inside_maintenance_yard.jpg) / *Inside the office* | ![The main room of the building](../assets/Inside_maintenance_yard2.jpg) / *The main room of the building* | ![An alternative view of the outside of the building](../assets/Maintenance_yard_building2.jpg) / *An alternative view of the outside of the building* | ![Scattered Breyerhouse utility trucks and debris in the yard](../assets/Maintenance_yard.jpg) / *Scattered [Breyerhouse](./Breyerhouse.md) utility trucks and debris in the yard* |
-| ![The checkpoint booth](../assets/Maintenance_yard_gatehouse.jpg) / *The checkpoint booth* | ![The forge at the Maintenance Yard introduced with the REDUX upgrade](../assets/20181218175538_1.jpg) / *The forge at the Maintenance Yard introduced with the REDUX upgrade* | ![The graffiti in the office](../assets/They_Hate_The_Light_decal.png) / *The graffiti in the office* | ![ditto, old version](../assets/They_hate_the_light.png) / *ditto, old version* |
-| ![Placing a plank on the raised platform allows reaching the hanging flag](../assets/Flag_MaintenanceYard.jpg) / *Placing a plank on the raised platform allows reaching the hanging flag* |  |  |  |
+![Inside the office](../assets/Inside_maintenance_yard.jpg)
+
+_Inside the office_
+
+![The main room of the building](../assets/Inside_maintenance_yard2.jpg)
+
+_The main room of the building_
+
+![An alternative view of the outside of the building](../assets/Maintenance_yard_building2.jpg)
+
+_An alternative view of the outside of the building_
+
+![Scattered Breyerhouse utility trucks and debris in the yard](../assets/Maintenance_yard.jpg)
+
+_Scattered [Breyerhouse](./Breyerhouse.md) utility trucks and debris in the yard_
+
+![The checkpoint booth](../assets/Maintenance_yard_gatehouse.jpg)
+
+_The checkpoint booth_
+
+![The forge at the Maintenance Yard introduced with the REDUX upgrade](../assets/20181218175538_1.jpg)
+
+_The forge at the Maintenance Yard introduced with the REDUX upgrade_
+
+![The graffiti in the office](../assets/They_Hate_The_Light_decal.png)
+
+_The graffiti in the office_
+
+![ditto, old version](../assets/They_hate_the_light.png)
+
+_ditto, old version_
+
+![Placing a plank on the raised platform allows reaching the hanging flag](../assets/Flag_MaintenanceYard.jpg)
+
+_Placing a plank on the raised platform allows reaching the hanging flag_
 
 [ru:Ремонтная площадка](ru:%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%BA%D0%B0)
-
-**Lua execution error in Module:Navbox function navbox**

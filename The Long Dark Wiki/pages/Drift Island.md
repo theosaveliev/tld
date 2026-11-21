@@ -1,19 +1,14 @@
----
-title: "Drift Island"
-wiki_namespace: 0
-categories: ["Islands", "Landmarks", "Locations", "Locations in Forsaken Airfield", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Drift_Island"
----
-
 # Drift Island
+
+**Categories:** Islands, Landmarks, Locations, Locations in Forsaken Airfield, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Drift_Island)
 
 **Drift Island**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Drift_Island.png) / *Drift\_Island.png* |
+|  | ![](../assets/Drift_Island.png) / _Drift\_Island.png_ |
 | **Location** |  |
-|  | ![](../assets/Drift_Island_Location.png) / *Drift\_Island\_Location.png* |
+|  | ![](../assets/Drift_Island_Location.png) / _Drift\_Island\_Location.png_ |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
 | Description | A tall island in a lake. |
 | **General** |  |

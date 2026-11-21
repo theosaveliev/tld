@@ -1,11 +1,6 @@
----
-title: "Zone of Contamination"
-wiki_namespace: 0
-categories: ["DLC Content"]
-source: "https://thelongdark.fandom.com/wiki/Zone_of_Contamination"
----
-
 # Zone of Contamination
+
+**Categories:** DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Zone_of_Contamination)
 
 **Contents**
 
@@ -21,10 +16,10 @@ source: "https://thelongdark.fandom.com/wiki/Zone_of_Contamination"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Zone_of_Contamination.jpg) / *Zone\_of\_Contamination.jpg* |
+|  | ![](../assets/Zone_of_Contamination.jpg) / _Zone\_of\_Contamination.jpg_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Zone_of_Contamination_Location.png) / *Zone\_of\_Contamination\_Location.png* |
-|  | ![](../assets/Zone_of_Contamination_Region_map.png) / *Zone\_of\_Contamination\_Region\_map.png* |
+|  | ![](../assets/Zone_of_Contamination_Location.png) / _Zone\_of\_Contamination\_Location.png_ |
+|  | ![](../assets/Zone_of_Contamination_Region_map.png) / _Zone\_of\_Contamination\_Region\_map.png_ |
 | **Details** |  |
 | Description | A massive, open pit industrial mine abandoned due to highly hazardous toxic chemicals |
 | Connecting Regions | [Transfer Pass](./Transfer%20Pass.md),[Forsaken Airfield](./Forsaken%20Airfield.md) and [Sundered Pass](./Sundered%20Pass.md) (Via a transition cave) |
@@ -36,13 +31,13 @@ source: "https://thelongdark.fandom.com/wiki/Zone_of_Contamination"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | **An open-pit mine operation scars the landscape, with various outbuildings and mining apparatus pock-marked by pools of toxic chemicals and run-off. The mine may hide relics of the Far Territory's mysterious past.** / Official Hinterland Description | ” |
+| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __An open-pit mine operation scars the landscape, with various outbuildings and mining apparatus pock-marked by pools of toxic chemicals and run-off. The mine may hide relics of the Far Territory's mysterious past.__ / Official Hinterland Description | ” |
 
-> “**For advanced players. A Cold War relic of industrial hubris, the Zone is littered with Chemical Hazards and forgotten infrastructure. Its secrets remain hidden by environmental devastation. Prepare yourself, and take care.**”
+> “__For advanced players. A Cold War relic of industrial hubris, the Zone is littered with Chemical Hazards and forgotten infrastructure. Its secrets remain hidden by environmental devastation. Prepare yourself, and take care.__”
 >
 > — Stay above ground and see the remnants, or dive into the deep mine, at your peril. Connects to Sundered Pass, Forsaken Airfield, and Transfer Pass. In-game Description
 
-The **Zone of Contamination** or **ZOC** as its also known as, is the 15th [Region](./Region.md) added to *[The Long Dark](./The%20Long%20Dark.md)* that was released on the 5th of December in 2023 as part of the Part 4 "Buried Echoes" update to the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion. It is also the setting of the second Tale [Buried Echoes](./Buried%20Echoes.md).
+The **Zone of Contamination** or **ZOC** as its also known as, is the 15th [Region](./Region.md) added to _[The Long Dark](./The%20Long%20Dark.md)_ that was released on the 5th of December in 2023 as part of the Part 4 "Buried Echoes" update to the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion. It is also the setting of the second Tale [Buried Echoes](./Buried%20Echoes.md).
 
 It connects to [Transfer Pass](./Transfer%20Pass.md) via the railroad at [Immutable Hesitation](./Immutable%20Hesitation.md) and [Forsaken Airfield](./Forsaken%20Airfield.md) via a large cave system near [Enduring Waterfall](./Enduring%20Waterfall.md).
 
@@ -72,10 +67,33 @@ There are a number of locations in the Zone of Contamination, including:
 
 ## Maps
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A detailed map of Zone of Contamination v2.35 (contains spoilers)](../assets/ZOC_map_default.png) / *A detailed map of Zone of Contamination v2.35 (contains spoilers)* | ![A detailed map of Zone of Contamination v2.35 (Interloper/Misery edition, contains spoilers)](../assets/ZOC_map_loper.png) / *A detailed map of Zone of Contamination v2.35 (Interloper/Misery edition, contains spoilers)* | ![Map of the Zone of Contamination with all named locations, by Aiibees.](../assets/ZOC%2C_all_locations_by_Aiibees.webp) / *Map of the Zone of Contamination with all named locations, by Aiibees.* | ![Map of the Zone of Contamination with all named locations and chemical spills, by Aiibees.](../assets/ZOC%2C_chemical_spills%2C_by_Aiibees.webp) / *Map of the Zone of Contamination with all named locations and chemical spills, by Aiibees.* |
-| ![Map of the Zone of Contamination with all named locations and resources, by Aiibees.](../assets/ZOC%2C_Full_spoilers%2C_by_Aiibees.webp) / *Map of the Zone of Contamination with all named locations and resources, by Aiibees.* | ![Map of the transition cave connecting Forsaken Airfield, Zone of Contamination and Sundered Pass](../assets/Transition_cave_map_03_v1.jpg) / *Map of the transition cave connecting Forsaken Airfield, Zone of Contamination and Sundered Pass* | ![Fan made layout of all three floors of the Langston Mine](../assets/Langston_Mine_Fan_made_Map.jpg) / *Fan made layout of all three floors of the Langston Mine* |  |
+![A detailed map of Zone of Contamination v2.35 (contains spoilers)](../assets/ZOC_map_default.png)
+
+_A detailed map of Zone of Contamination v2.35 (contains spoilers)_
+
+![A detailed map of Zone of Contamination v2.35 (Interloper/Misery edition, contains spoilers)](../assets/ZOC_map_loper.png)
+
+_A detailed map of Zone of Contamination v2.35 (Interloper/Misery edition, contains spoilers)_
+
+![Map of the Zone of Contamination with all named locations, by Aiibees.](../assets/ZOC%2C_all_locations_by_Aiibees.webp)
+
+_Map of the Zone of Contamination with all named locations, by Aiibees._
+
+![Map of the Zone of Contamination with all named locations and chemical spills, by Aiibees.](../assets/ZOC%2C_chemical_spills%2C_by_Aiibees.webp)
+
+_Map of the Zone of Contamination with all named locations and chemical spills, by Aiibees._
+
+![Map of the Zone of Contamination with all named locations and resources, by Aiibees.](../assets/ZOC%2C_Full_spoilers%2C_by_Aiibees.webp)
+
+_Map of the Zone of Contamination with all named locations and resources, by Aiibees._
+
+![Map of the transition cave connecting Forsaken Airfield, Zone of Contamination and Sundered Pass](../assets/Transition_cave_map_03_v1.jpg)
+
+_Map of the transition cave connecting Forsaken Airfield, Zone of Contamination and Sundered Pass_
+
+![Fan made layout of all three floors of the Langston Mine](../assets/Langston_Mine_Fan_made_Map.jpg)
+
+_Fan made layout of all three floors of the Langston Mine_
 
 ## Trivia
 
@@ -89,10 +107,38 @@ There are a number of locations in the Zone of Contamination, including:
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| \[Missing image: 20230520075647\_1.jpg\] / *A sign in Transfer Pass directing motorists to the mine* | ![Concept art of the Industrial Mine Region](../assets/Industrial_Mine_Concept.jpg) / *Concept art of the Industrial Mine Region* | ![A poisoned wolf concept art](../assets/Starving-wolf-mining-region-illustration-comp.jpg) / *A poisoned wolf concept art* | ![The sign leading to the open pit mine near Bountiful Overlook](../assets/Bountiful_Overlook_sign.jpg) / *The sign leading to the open pit mine near Bountiful Overlook* |
-| ![The open pit Langston Mine](../assets/Zone_of_Contamination_Open_Pit_Mine.jpg) / *The open pit Langston Mine* | ![A large Chemical Spill. Notice the dying trees.](../assets/Chemical_Spill.jpg) / *A large Chemical Spill. Notice the dying trees.* | ![Poisoned lakes](../assets/Poisoned_lakes.png) / *Poisoned lakes* | ![Health warning sign at the mine](../assets/Mine_warning_sign.png) / *Health warning sign at the mine* |
-| ![View of the buildings of the mine](../assets/Mine_buildings.png) / *View of the buildings of the mine* |  |  |  |
+\[Missing image: 20230520075647\_1.jpg\]
 
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Зона заражения](ru:%D0%97%D0%BE%D0%BD%D0%B0_%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)
+_A sign in Transfer Pass directing motorists to the mine_
+
+![Concept art of the Industrial Mine Region](../assets/Industrial_Mine_Concept.jpg)
+
+_Concept art of the Industrial Mine Region_
+
+![A poisoned wolf concept art](../assets/Starving-wolf-mining-region-illustration-comp.jpg)
+
+_A poisoned wolf concept art_
+
+![The sign leading to the open pit mine near Bountiful Overlook](../assets/Bountiful_Overlook_sign.jpg)
+
+_The sign leading to the open pit mine near Bountiful Overlook_
+
+![The open pit Langston Mine](../assets/Zone_of_Contamination_Open_Pit_Mine.jpg)
+
+_The open pit Langston Mine_
+
+![A large Chemical Spill. Notice the dying trees.](../assets/Chemical_Spill.jpg)
+
+_A large Chemical Spill. Notice the dying trees._
+
+![Poisoned lakes](../assets/Poisoned_lakes.png)
+
+_Poisoned lakes_
+
+![Health warning sign at the mine](../assets/Mine_warning_sign.png)
+
+_Health warning sign at the mine_
+
+![View of the buildings of the mine](../assets/Mine_buildings.png)
+
+_View of the buildings of the mine_

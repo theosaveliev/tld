@@ -1,17 +1,12 @@
----
-title: "Switch Box"
-wiki_namespace: 0
-categories: ["Interactable Objects", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Switch_Box"
----
-
 # Switch Box
+
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Switch_Box)
 
 **Switch Box**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/SwitchBox.jpg) / *SwitchBox.jpg* |
+|  | ![](../assets/SwitchBox.jpg) / _SwitchBox.jpg_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | Yes\|- |
@@ -22,5 +17,3 @@ A **Switch Box** is a harvestable item from in many industrial areas of the Isla
 | Object | Scrap Metal | Time | Calories | Condition (of Hacksaw) |
 | --- | --- | --- | --- | --- |
 | Switch Box | 2 | 30 minutes |  | -5% |
-
-**Lua execution error in Module:Navbox function navbox**

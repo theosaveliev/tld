@@ -1,20 +1,15 @@
----
-title: "Search Party"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Search_Party"
----
-
 # Search Party
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Search_Party)
 
 **Search Party**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Search_Party_icon.png) / *Search\_Party\_icon.png* |
+|  | ![](../assets/Search_Party_icon.png) / _Search\_Party\_icon.png_ |
 | Description | Find all three missing townspeople within 40 real time minutes. |
 
-**Search Party** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[Wintermute](./Wintermute.md)* [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Search Party** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[Wintermute](./Wintermute.md)_ [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -26,5 +21,3 @@ The achievement timer begins the moment the player enters Perseverance Wilds (th
 
 - UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

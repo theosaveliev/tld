@@ -1,19 +1,14 @@
----
-title: "Coast Mountain Road"
-wiki_namespace: 0
-categories: ["Locations", "Locations in Bleak Inlet", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Coast_Mountain_Road"
----
-
 # Coast Mountain Road
+
+**Categories:** Locations, Locations in Bleak Inlet, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coast_Mountain_Road)
 
 **Coast Mountain Road**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/SS-BI-CoastMountainRoad01.jpg) / *SS-BI-CoastMountainRoad01.jpg* |
+|  | ![](../assets/SS-BI-CoastMountainRoad01.jpg) / _SS-BI-CoastMountainRoad01.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Coast_Mountain_Road_Location.png) / *Coast\_Mountain\_Road\_Location.png* |
+|  | ![](../assets/Coast_Mountain_Road_Location.png) / _Coast\_Mountain\_Road\_Location.png_ |
 | Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
 | **General** |  |
 | Type | Outdoors\|- |

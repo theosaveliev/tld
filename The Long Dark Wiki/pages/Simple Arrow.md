@@ -1,11 +1,6 @@
----
-title: "Simple Arrow"
-wiki_namespace: 0
-categories: ["Tools"]
-source: "https://thelongdark.fandom.com/wiki/Simple_Arrow"
----
-
 # Simple Arrow
+
+**Categories:** Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Simple_Arrow)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Simple_Arrow"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Simple_Arrow_icon.png) / *Simple\_Arrow\_icon.png* |
+|  | ![](../assets/Simple_Arrow_icon.png) / _Simple\_Arrow\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
@@ -29,7 +24,7 @@ source: "https://thelongdark.fandom.com/wiki/Simple_Arrow"
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.15 kg(0.33 lbs) |
 | Harvest | 1 × [Arrowhead](./Arrowhead.md) 2 × [Crow Feather](./Crow%20Feather.md) |
 
-> “**A home-made Arrow, created by combining an Arrow shaft with Crow feathers and an Arrowhead.**”
+> “__A home-made Arrow, created by combining an Arrow shaft with Crow feathers and an Arrowhead.__”
 >
 > — In-game description
 
@@ -100,12 +95,14 @@ Simple arrows can be found in a few places, some locations of note include:
 - In the rock cache by [Three Strikes Farmstead](./Three%20Strikes%20Farmstead.md)
 - A few are imbedded in a tree near [Scaffolder's Hideout](./Scaffolder%27s%20Hideout.md)
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Fire Hardened Arrows on the left and Simple Arrows on the right.](../assets/Different_Arrow_Types.jpg) / *Fire Hardened Arrows on the left and Simple Arrows on the right.* | ![Old model](../assets/Simple_Arrow.png) / *Old model* |
+![Fire Hardened Arrows on the left and Simple Arrows on the right.](../assets/Different_Arrow_Types.jpg)
+
+_Fire Hardened Arrows on the left and Simple Arrows on the right._
+
+![Old model](../assets/Simple_Arrow.png)
+
+_Old model_
 
 ## Game history
 
 - Simple arrow and materials were introduced on 22 May 2015 in [version 0.233](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233).
-
-**Lua execution error in Module:Navbox function navbox** [ru:Простая стрела](ru:%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%B0)

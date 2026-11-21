@@ -1,11 +1,6 @@
----
-title: "As the Dead Sleep Challenge Walkthrough"
-wiki_namespace: 0
-categories: ["Challenges"]
-source: "https://thelongdark.fandom.com/wiki/As_the_Dead_Sleep_Challenge_Walkthrough"
----
-
 # As the Dead Sleep Challenge Walkthrough
+
+**Categories:** Challenges · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/As_the_Dead_Sleep_Challenge_Walkthrough)
 
 **Contents**
 
@@ -85,7 +80,7 @@ Inverted color maps are nice to have up on your secondary monitor as you play wi
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_1.png) / *Atds\_step\_1.png* | ![](../assets/Atds_step_1_inverted.png) / *Atds\_step\_1\_inverted.png* |
+| ![](../assets/Atds_step_1.png) / _Atds\_step\_1.png_ | ![](../assets/Atds_step_1_inverted.png) / _Atds\_step\_1\_inverted.png_ |
 |  |  |
 
 1. You will spawn at point 1 ([Fallen Lighthouse](./Fallen%20Lighthouse.md)) denoted on the map above.
@@ -126,7 +121,7 @@ From this point, the walkthrough will not so thoroughly tell you exactly which d
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_3.png) / *Atds\_step\_3.png* | ![](../assets/Atds_step_3_inverted.png) / *Atds\_step\_3\_inverted.png* |
+| ![](../assets/Atds_step_3.png) / _Atds\_step\_3.png_ | ![](../assets/Atds_step_3_inverted.png) / _Atds\_step\_3\_inverted.png_ |
 |  |  |
 
 1. You will exit the cave at point 1 denoted on the map above.
@@ -141,7 +136,7 @@ From this point, the walkthrough will not so thoroughly tell you exactly which d
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_4.png) / *Atds\_step\_4.png* | ![](../assets/Atds_step_4_inverted.png) / *Atds\_step\_4\_inverted.png* |
+| ![](../assets/Atds_step_4.png) / _Atds\_step\_4.png_ | ![](../assets/Atds_step_4_inverted.png) / _Atds\_step\_4\_inverted.png_ |
 |  |  |
 
 1. Navigate to grave #1 indicated on the map at point 2.
@@ -155,7 +150,7 @@ From this point, the walkthrough will not so thoroughly tell you exactly which d
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_5.png) / *Atds\_step\_5.png* | ![](../assets/Atds_step_5_inverted.png) / *Atds\_step\_5\_inverted.png* |
+| ![](../assets/Atds_step_5.png) / _Atds\_step\_5.png_ | ![](../assets/Atds_step_5_inverted.png) / _Atds\_step\_5\_inverted.png_ |
 |  |  |
 
 1. STOP FOR A MOMENT!
@@ -169,7 +164,7 @@ From this point, the walkthrough will not so thoroughly tell you exactly which d
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_6.png) / *Atds\_step\_6.png* | ![](../assets/Atds_step_6_inverted.png) / *Atds\_step\_6\_inverted.png* |
+| ![](../assets/Atds_step_6.png) / _Atds\_step\_6.png_ | ![](../assets/Atds_step_6_inverted.png) / _Atds\_step\_6\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -182,7 +177,7 @@ From this point, the walkthrough will not so thoroughly tell you exactly which d
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_7.png) / *Atds\_step\_7.png* | ![](../assets/Atds_step_7_inverted.png) / *Atds\_step\_7\_inverted.png* |
+| ![](../assets/Atds_step_7.png) / _Atds\_step\_7.png_ | ![](../assets/Atds_step_7_inverted.png) / _Atds\_step\_7\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -207,7 +202,7 @@ From this point, the walkthrough will not so thoroughly tell you exactly which d
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_8.png) / *Atds\_step\_8.png* | ![](../assets/Atds_step_8_inverted.png) / *Atds\_step\_8\_inverted.png* |
+| ![](../assets/Atds_step_8.png) / _Atds\_step\_8.png_ | ![](../assets/Atds_step_8_inverted.png) / _Atds\_step\_8\_inverted.png_ |
 |  |  |
 
 THE ROUTE GOES INTO AND IMMEDIATELY OUT OF THIS REGION. BECAUSE OF THIS, THE ROUTE ON THE MAP WOULD LARGELY OVERLAP. TO AVOID A CONFUSING MAP, THE ROUTE INTO AND OUT OF THIS REGION HAS BEEN SPLIT INTO TWO STEPS. THIS MEANS THAT THIS STEP DOES NOT END AT A SAFE LOCATION.
@@ -220,7 +215,7 @@ THE ROUTE GOES INTO AND IMMEDIATELY OUT OF THIS REGION. BECAUSE OF THIS, THE ROU
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_9.png) / *Atds\_step\_9.png* | ![](../assets/Atds_step_9_inverted.png) / *Atds\_step\_9\_inverted.png* |
+| ![](../assets/Atds_step_9.png) / _Atds\_step\_9.png_ | ![](../assets/Atds_step_9_inverted.png) / _Atds\_step\_9\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -231,7 +226,7 @@ THE ROUTE GOES INTO AND IMMEDIATELY OUT OF THIS REGION. BECAUSE OF THIS, THE ROU
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_10.png) / *Atds\_step\_10.png* | ![](../assets/Atds_step_10_inverted.png) / *Atds\_step\_10\_inverted.png* |
+| ![](../assets/Atds_step_10.png) / _Atds\_step\_10.png_ | ![](../assets/Atds_step_10_inverted.png) / _Atds\_step\_10\_inverted.png_ |
 |  |  |
 
 YOU MAY BE TEMPTED TO NAVIGATE INSTEAD TO SPRUCE FALLS BRIDGE AND THROUGH THE CAVE TO THE CRASHED PLANE AREA. DO SO AT YOUR OWN RISK. THIS PATH WILL BRING YOU THROUGH TIGHT QUARTERS WITH A BEAR. I AM PARTICULARLY AVERSE TO THIS PATH AS THIS BEAR HAS KILLED ME BEFORE.
@@ -254,7 +249,7 @@ From this point, the walkthrough will not give such thorough instructions as to 
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_11.png) / *Atds\_step\_11.png* | ![](../assets/Atds_step_11_inverted.png) / *Atds\_step\_11\_inverted.png* |
+| ![](../assets/Atds_step_11.png) / _Atds\_step\_11.png_ | ![](../assets/Atds_step_11_inverted.png) / _Atds\_step\_11\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -272,7 +267,7 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_12.png) / *Atds\_step\_12.png* | ![](../assets/Atds_step_12_inverted.png) / *Atds\_step\_12\_inverted.png* |
+| ![](../assets/Atds_step_12.png) / _Atds\_step\_12.png_ | ![](../assets/Atds_step_12_inverted.png) / _Atds\_step\_12\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -285,7 +280,7 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_13.png) / *Atds\_step\_13.png* | ![](../assets/Atds_step_13_inverted.png) / *Atds\_step\_13\_inverted.png* |
+| ![](../assets/Atds_step_13.png) / _Atds\_step\_13.png_ | ![](../assets/Atds_step_13_inverted.png) / _Atds\_step\_13\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -304,7 +299,7 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_14.png) / *Atds\_step\_14.png* | ![](../assets/Atds_step_14_inverted.png) / *Atds\_step\_14\_inverted.png* |
+| ![](../assets/Atds_step_14.png) / _Atds\_step\_14.png_ | ![](../assets/Atds_step_14_inverted.png) / _Atds\_step\_14\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -315,7 +310,7 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_15.png) / *Atds\_step\_15.png* | ![](../assets/Atds_step_15_inverted.png) / *Atds\_step\_15\_inverted.png* |
+| ![](../assets/Atds_step_15.png) / _Atds\_step\_15.png_ | ![](../assets/Atds_step_15_inverted.png) / _Atds\_step\_15\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -325,7 +320,7 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_16.png) / *Atds\_step\_16.png* | ![](../assets/Atds_step_16_inverted.png) / *Atds\_step\_16\_inverted.png* |
+| ![](../assets/Atds_step_16.png) / _Atds\_step\_16.png_ | ![](../assets/Atds_step_16_inverted.png) / _Atds\_step\_16\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -340,7 +335,7 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_17.png) / *Atds\_step\_17.png* | ![](../assets/Atds_step_17_inverted.png) / *Atds\_step\_17\_inverted.png* |
+| ![](../assets/Atds_step_17.png) / _Atds\_step\_17.png_ | ![](../assets/Atds_step_17_inverted.png) / _Atds\_step\_17\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -354,7 +349,7 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_18.png) / *Atds\_step\_18.png* | ![](../assets/Atds_step_18_inverted.png) / *Atds\_step\_18\_inverted.png* |
+| ![](../assets/Atds_step_18.png) / _Atds\_step\_18.png_ | ![](../assets/Atds_step_18_inverted.png) / _Atds\_step\_18\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -363,7 +358,7 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_19.png) / *Atds\_step\_19.png* | ![](../assets/Atds_step_19_inverted.png) / *Atds\_step\_19\_inverted.png* |
+| ![](../assets/Atds_step_19.png) / _Atds\_step\_19.png_ | ![](../assets/Atds_step_19_inverted.png) / _Atds\_step\_19\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -377,7 +372,7 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_20.png) / *Atds\_step\_20.png* | ![](../assets/Atds_step_20_inverted.png) / *Atds\_step\_20\_inverted.png* |
+| ![](../assets/Atds_step_20.png) / _Atds\_step\_20.png_ | ![](../assets/Atds_step_20_inverted.png) / _Atds\_step\_20\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -390,7 +385,7 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_21.png) / *Atds\_step\_21.png* | ![](../assets/Atds_step_21_inverted.png) / *Atds\_step\_21\_inverted.png* |
+| ![](../assets/Atds_step_21.png) / _Atds\_step\_21.png_ | ![](../assets/Atds_step_21_inverted.png) / _Atds\_step\_21\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -407,7 +402,7 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_22.png) / *Atds\_step\_22.png* | ![](../assets/Atds_step_22_inverted.png) / *Atds\_step\_22\_inverted.png* |
+| ![](../assets/Atds_step_22.png) / _Atds\_step\_22.png_ | ![](../assets/Atds_step_22_inverted.png) / _Atds\_step\_22\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -419,7 +414,7 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Atds_step_23.png) / *Atds\_step\_23.png* | ![](../assets/Atds_step_23_inverted.png) / *Atds\_step\_23\_inverted.png* |
+| ![](../assets/Atds_step_23.png) / _Atds\_step\_23.png_ | ![](../assets/Atds_step_23_inverted.png) / _Atds\_step\_23\_inverted.png_ |
 |  |  |
 
 1. Navigate to point 2.
@@ -428,5 +423,3 @@ If it's worth it to you, loot the whole dam. It's entirely up to you. Maybe you 
 3. Navigate to grave #5 point 4.
   1. It is possible to Mountain Goat down from the bridge above Matt's Truck, but if you aren't comfortable doing that, just follow the path.
 4. CONGRATULATIONS! YOU'VE BEATEN THE CHALLENGE!
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,18 +1,13 @@
----
-title: "Burns"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Burns"
----
-
 # Burns
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Burns)
 
 **Burns**
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Fire](../assets/Burns_icon.png) / *Fire* \| ![Electrical](../assets/Burns_%28electric%29_icon.png) / *Electrical* \| / \| --- \| --- \| | 250px\]\] |
-| ![Fire](../assets/Burns_icon.png) / *Fire* | ![Electrical](../assets/Burns_%28electric%29_icon.png) / *Electrical* |
+| \[\[File: / ![Fire](../assets/Burns_icon.png) / _Fire_ / ![Electrical](../assets/Burns_%28electric%29_icon.png) / _Electrical_ | 250px\]\] |
+| ![Fire](../assets/Burns_icon.png) / _Fire_ | ![Electrical](../assets/Burns_%28electric%29_icon.png) / _Electrical_ |
 | **Properties** |  |
 | Caused By | Fires Electrical Wires |
 | Effect | Negative |
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/Burns"
 | Alternate Treatment | 1 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 1 x ![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md) |
 | Recovery Time | Wait 30 hours (untreated) |
 
-> “**You have sustained serious burns. Your general Condition will be reduced until you treat the burns, or you heal naturally.**”
+> “__You have sustained serious burns. Your general Condition will be reduced until you treat the burns, or you heal naturally.__”
 >
 > — In-game description
 
@@ -53,8 +48,6 @@ Without treatment Burns will heal after 30 hours, but can be Treated and removed
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old icon.](../assets/Burns.png) / *Old icon.* |
+![Old icon.](../assets/Burns.png)
 
-**Lua execution error in Module:Navbox function navbox**[ru:Ожоги](ru:%D0%9E%D0%B6%D0%BE%D0%B3%D0%B8)
+_Old icon._

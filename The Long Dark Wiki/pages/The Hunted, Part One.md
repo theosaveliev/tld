@@ -1,11 +1,6 @@
----
-title: "The Hunted, Part One"
-wiki_namespace: 0
-categories: ["Challenges"]
-source: "https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_One"
----
-
 # The Hunted, Part One
+
+**Categories:** Challenges · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_One)
 
 **Contents**
 
@@ -22,27 +17,27 @@ source: "https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_One"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Challenge_Hunted.png) / *Challenge\_Hunted.png* |
+|  | ![](../assets/Challenge_Hunted.png) / _Challenge\_Hunted.png_ |
 | **Details** |  |
 | Regions | [Pleasant Valley](./Pleasant%20Valley.md), [Coastal Highway](./Coastal%20Highway.md), [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
 | Difficulty | 5 |
 | Date Added | April 2016 |
 
-> “**The old bear is after you. Nothing can kill him but the Trapper's old Bearkiller Rifle. Get to Trapper's Cabin before the Bear gets you.**”
+> “__The old bear is after you. Nothing can kill him but the Trapper's old Bearkiller Rifle. Get to Trapper's Cabin before the Bear gets you.__”
 >
 > — Main Menu description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **The Old Bear is after you. Get to Trapper's Cabin in Mystery Lake, before it gets you.**
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __The Old Bear is after you. Get to Trapper's Cabin in Mystery Lake, before it gets you.__
 
 Opening description
 
 | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}
 
-**The Hunted, Part One** is one of eight [challenges](./Challenge.md) in *[The Long Dark](./The%20Long%20Dark.md)*. Completing this Challenge unlocks [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md).
+**The Hunted, Part One** is one of eight [challenges](./Challenge.md) in _[The Long Dark](./The%20Long%20Dark.md)_. Completing this Challenge unlocks [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md).
 
 ## Overview
 
-> “**Travel to Trapper's Cabin in Mystery Lake.**”
+> “__Travel to Trapper's Cabin in Mystery Lake.__”
 >
 > — Journal Objective
 
@@ -50,7 +45,7 @@ The Hunted, Part One challenge requires the player to avoid the [Old Bear](./Old
 
 ## Story
 
-![Skeeter's Ridge, with the bulkhead door leading to the basement visible](../assets/Skeeters_ridge.jpg)*Skeeter's Ridge, with the bulkhead door leading to the basement visible* The Challenge begins with the Old Bear mauling the player, leaving them with 10% [Condition](./Condition.md), [Blood Loss](./Blood%20Loss.md), and zero [Fatigue](./Fatigue.md). The player's inventory contains a [Bandage](./Bandage.md) and an [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md), with a cellar door close-by for immediate shelter. Several supplies can be found in the basement, including an [Emergency Kit](./Emergency%20Kit.md) with a Distress Pistol.
+![Skeeter's Ridge, with the bulkhead door leading to the basement visible](../assets/Skeeters_ridge.jpg)_Skeeter's Ridge, with the bulkhead door leading to the basement visible_ The Challenge begins with the Old Bear mauling the player, leaving them with 10% [Condition](./Condition.md), [Blood Loss](./Blood%20Loss.md), and zero [Fatigue](./Fatigue.md). The player's inventory contains a [Bandage](./Bandage.md) and an [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md), with a cellar door close-by for immediate shelter. Several supplies can be found in the basement, including an [Emergency Kit](./Emergency%20Kit.md) with a Distress Pistol.
 
 - Except for a few additions (The Old Bear, additional Distress Pistol case, the special spawn point), the game is a normal Sandbox and weather and loot distribution will be randomized as usual. Difficulty is set to Stalker.
 - Other than the Distress Pistol, no ranged weapons exist in this challenge, nor will you find materials to craft any. A [Hunting Rifle](./Hunting%20Rifle.md) may be found, but there is no ammunition.
@@ -77,12 +72,14 @@ The Challenge is completed when the player enters the door to [Trapper's Homeste
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The badge awarded upon completing the challenge](../assets/The_Hunted_Part_One_icon.png) / *The badge awarded upon completing the challenge* | ![Fan art](../assets/Hunted_1.jpg) / *Fan art* |
+![The badge awarded upon completing the challenge](../assets/The_Hunted_Part_One_icon.png)
+
+_The badge awarded upon completing the challenge_
+
+![Fan art](../assets/Hunted_1.jpg)
+
+_Fan art_
 
 ## Game history
 
 The Hunted, Part One and [Hopeless Rescue](./Hopeless%20Rescue.md) were introduced on 21 April 2016 in [version 0.321](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321), also known as the Tireless Menace update.
-
-**Lua execution error in Module:Navbox function navbox**[ru:Добыча: Часть 1](ru:%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B0:_%D0%A7%D0%B0%D1%81%D1%82%D1%8C_1) [es:La presa, Parte uno](es:La_presa,_Parte_uno)

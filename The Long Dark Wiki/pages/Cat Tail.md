@@ -1,11 +1,6 @@
----
-title: "Cat Tail"
-wiki_namespace: 0
-categories: ["Plants"]
-source: "https://thelongdark.fandom.com/wiki/Cat_Tail"
----
-
 # Cat Tail
+
+**Categories:** Plants · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cat_Tail)
 
 **Contents**
 
@@ -16,13 +11,13 @@ source: "https://thelongdark.fandom.com/wiki/Cat_Tail"
 
 \[Missing image: Cat\_Tail\_plant.png\]
 
-*XTHUMB*
+_XTHUMB_
 
 **Cat Tail** is a type of harvestable wetland plant.
 
 ## Overview
 
-Cat tails are harvestable plants found in the world of [*The Long Dark*](./The%20Long%20Dark.md) near sources of fresh water, such as frozen ponds, marshes, creeks, and rivers. Like other plants, they do not grow back once harvested. After harvesting, they leave no trace behind, unlike [Rose Hips](./Rose%20Hip.md) and saplings, which leave behind an empty bush, and a stump respectively.
+Cat tails are harvestable plants found in the world of [_The Long Dark_](./The%20Long%20Dark.md) near sources of fresh water, such as frozen ponds, marshes, creeks, and rivers. Like other plants, they do not grow back once harvested. After harvesting, they leave no trace behind, unlike [Rose Hips](./Rose%20Hip.md) and saplings, which leave behind an empty bush, and a stump respectively.
 
 They are one of the most plentiful sources of [Forage](./Foraging.md) in the game. There are over 1000 individuals Cat Tail plants found through the game world, making it one of the most common types of plants that can be foraged (even more with [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) installed, upping that number to over 2000).
 
@@ -67,5 +62,3 @@ Some other locations you can find them in each region include:
 
 - [Zone of Contamination](./Zone%20of%20Contamination.md)
   - In [Unquenched Extraction](./Unquenched%20Extraction.md) and along its river
-
-**Lua execution error in Module:Navbox function navbox** [ru:Тимофеевка луговая](ru:%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%BA%D0%B0_%D0%BB%D1%83%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F)

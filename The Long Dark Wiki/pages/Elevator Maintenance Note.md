@@ -1,17 +1,12 @@
----
-title: "Elevator Maintenance Note"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Elevator_Maintenance_Note"
----
-
 # Elevator Maintenance Note
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Elevator_Maintenance_Note)
 
 **Elevator Maintenance Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Elevator_Maintenance_Note_icon.png) / *Elevator\_Maintenance\_Note\_icon.png* |
+|  | ![](../assets/Elevator_Maintenance_Note_icon.png) / _Elevator\_Maintenance\_Note\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Elevator_Maintenance_Note"
 
 ## Transcript
 
-*The following text is transcribed from **Elevator Maintenance Note***
+_The following text is transcribed from **Elevator Maintenance Note**_
 
 **Carter Hydro Dam Maintenance Ticket: The elevator is acting up again. We've checked the mechanicals and they seem fine. Must be something glitchy in the electrical system. Keep an eye on it. It's really the only way to the Turbine Room. If the elevator gets stuck, it'll be a LONG walk before you can get back into the Control Room.**
 
@@ -36,5 +31,3 @@ source: "https://thelongdark.fandom.com/wiki/Elevator_Maintenance_Note"
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

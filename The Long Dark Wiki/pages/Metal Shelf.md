@@ -1,11 +1,6 @@
----
-title: "Metal Shelf"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Metal_Shelf"
----
-
 # Metal Shelf
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Metal_Shelf)
 
 **Contents**
 
@@ -18,9 +13,9 @@ source: "https://thelongdark.fandom.com/wiki/Metal_Shelf"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| Column 1 \| Column 2 \| Column 3 \| Column 4 \| / \| --- \| --- \| --- \| --- \| / \| ![Locker](../assets/MetalShelfLocker.jpg) / *Locker* \| ![Extra Small](../assets/MetalShelfExtraSmall.jpg) / *Extra Small* \| ![Small](../assets/MetalShelfSmall.jpg) / *Small* \| ![Large](../assets/MetalShelfLarge.jpg) / *Large* \| / \| ![Extra Large](../assets/MetalShelfExtraLarge.jpg) / *Extra Large* \|  \|  \|  \| | 250px\]\] |
-| ![Locker](../assets/MetalShelfLocker.jpg) / *Locker* | ![Extra Small](../assets/MetalShelfExtraSmall.jpg) / *Extra Small* / ![Small](../assets/MetalShelfSmall.jpg) / *Small* / ![Large](../assets/MetalShelfLarge.jpg) / *Large* |
-| ![Extra Large](../assets/MetalShelfExtraLarge.jpg) / *Extra Large* |  |
+| \[\[File: / ![Locker](../assets/MetalShelfLocker.jpg) / _Locker_ / ![Extra Small](../assets/MetalShelfExtraSmall.jpg) / _Extra Small_ / ![Small](../assets/MetalShelfSmall.jpg) / _Small_ / ![Large](../assets/MetalShelfLarge.jpg) / _Large_ / ![Extra Large](../assets/MetalShelfExtraLarge.jpg) / _Extra Large_ | 250px\]\] |
+| ![Locker](../assets/MetalShelfLocker.jpg) / _Locker_ | ![Extra Small](../assets/MetalShelfExtraSmall.jpg) / _Extra Small_ / ![Small](../assets/MetalShelfSmall.jpg) / _Small_ / ![Large](../assets/MetalShelfLarge.jpg) / _Large_ |
+| ![Extra Large](../assets/MetalShelfExtraLarge.jpg) / _Extra Large_ |  |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | No |
@@ -59,6 +54,4 @@ Most metal shelves may be harvested for scrap metal; however, it is most efficie
 
 ![3 different types of metal shelves in lower Carter Hydro Dam. Left: 1 small one (4 rows but narrow) Middle: 2 small ones (3 rows but wide) Right: 1 medium one Next to the door on the right is an extra small one.](../assets/20210324171359_1.jpg)
 
-*3 different types of metal shelves in lower Carter Hydro Dam. Left: 1 small one (4 rows but narrow) Middle: 2 small ones (3 rows but wide) Right: 1 medium one Next to the door on the right is an extra small one.*
-
-**Lua execution error in Module:Navbox function navbox**
+_3 different types of metal shelves in lower Carter Hydro Dam. Left: 1 small one (4 rows but narrow) Middle: 2 small ones (3 rows but wide) Right: 1 medium one Next to the door on the right is an extra small one._

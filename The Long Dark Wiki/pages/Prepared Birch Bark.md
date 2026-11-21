@@ -1,11 +1,6 @@
----
-title: "Prepared Birch Bark"
-wiki_namespace: 0
-categories: ["First Aid", "Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Prepared_Birch_Bark"
----
-
 # Prepared Birch Bark
+
+**Categories:** First Aid, Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Prepared_Birch_Bark)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Prepared_Birch_Bark"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Prepared_Birch_Bark_icon.png) / *Prepared\_Birch\_Bark\_icon.png* |
+|  | ![](../assets/Prepared_Birch_Bark_icon.png) / _Prepared\_Birch\_Bark\_icon.png_ |
 | Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48) |
 | Wintermute | No |
 | **Properties** |  |
@@ -33,7 +28,7 @@ source: "https://thelongdark.fandom.com/wiki/Prepared_Birch_Bark"
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 
-**Prepared Birch Bark** is a natural medical and food item in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Prepared Birch Bark** is a natural medical and food item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -82,5 +77,3 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 
 - UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Приготовленная березовая кора](ru:%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%BE%D1%80%D0%B0)

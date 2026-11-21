@@ -1,11 +1,6 @@
----
-title: "Bear Hide Rug"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Bear_Hide_Rug"
----
-
 # Bear Hide Rug
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bear_Hide_Rug)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Bear_Hide_Rug"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bear_Hide_Rug_icon.png) / *Bear\_Hide\_Rug\_icon.png* |
+|  | ![](../assets/Bear_Hide_Rug_icon.png) / _Bear\_Hide\_Rug\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 12.00 kg (26.4 lbs) |
@@ -61,5 +56,3 @@ This item cannot be harvested. The only option is to pick up, move or destroy it
 |  | 2 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**

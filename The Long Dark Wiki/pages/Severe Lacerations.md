@@ -1,17 +1,12 @@
----
-title: "Severe Lacerations"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Severe_Lacerations"
----
-
 # Severe Lacerations
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Severe_Lacerations)
 
 **Severe Lacerations**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Severe_Lacerations_icon.png) / *Severe\_Lacerations\_icon.png* |
+|  | ![](../assets/Severe_Lacerations_icon.png) / _Severe\_Lacerations\_icon.png_ |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Update | 2.28 |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Severe_Lacerations"
 
 ## Affliction
 
-> “**You have sustained multiple deep slashing cuts from the Cougar's claws. Your Condition and Stamina are compromised, and you are at greater risk of Infection and Blood Loss until you are healed.**”
+> “__You have sustained multiple deep slashing cuts from the Cougar's claws. Your Condition and Stamina are compromised, and you are at greater risk of Infection and Blood Loss until you are healed.__”
 >
 > — In-game description
 
@@ -45,5 +40,3 @@ Severe Lacerations is always applied to the survivor after a Cougar Struggle and
 **Note**: Time Accelerating tasks (Sleep, Pass Time, Crafting, Harvesting, etc) are **extremely dangerous** while afflicted with Severe Lacerations at the 12 hour mark, as new instances of Blood Loss can appear and rapidly kill the survivor (e.g. while asleep). As Blood Loss leads to a 30% loss of Condition per hour spent with it, sleeping in intervals higher than one hour at a time on any difficulty above Voyager is not recommended as you do not wake up from Condition loss and as you have a chance to "instantly" die.
 
 This fate can easily be avoided by maintaining an eye on the remaining Recovery Time. As Blood Loss generation always occurs every 12 hours, (60, 48, 36, 24, 12 hour marks) making it is quite easy to diagnose whether sleeping or passing time at the moment is a wise idea.
-
-**Lua execution error in Module:Navbox function navbox**[ru:Глубокие рваные раны](ru:%D0%93%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%B8%D0%B5_%D1%80%D0%B2%D0%B0%D0%BD%D1%8B%D0%B5_%D1%80%D0%B0%D0%BD%D1%8B)

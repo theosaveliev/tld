@@ -1,11 +1,6 @@
----
-title: "Scent"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Scent"
----
-
 # Scent
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Scent)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Scent"
 - [Baiting animals](#baiting-animals)
 - [Additional Tips](#additional-tips)
 
-![Three Degrees of Stench|center](../assets/ScentMeter.png)**Scent** is a mechanic in *[The Long Dark](./The%20Long%20Dark.md)* which increases the distance which [predators](./Wildlife.md) can detect the survivor by smell. Scent is increased when the survivor is carrying meat and fresh guts, and is affected by wind speed, wind direction, and game difficulty experience. An approximation of current Scent is represented by the "Scent Meter."
+![Three Degrees of Stench|center](../assets/ScentMeter.png)**Scent** is a mechanic in _[The Long Dark](./The%20Long%20Dark.md)_ which increases the distance which [predators](./Wildlife.md) can detect the survivor by smell. Scent is increased when the survivor is carrying meat and fresh guts, and is affected by wind speed, wind direction, and game difficulty experience. An approximation of current Scent is represented by the "Scent Meter."
 
 ## The Scent Meter
 
@@ -143,8 +138,6 @@ While a predator is tracking bait, it is not tracking the player, so you could d
 - [Cooking](./Cooking.md) meat/fish on-site reduces Scent during transit.
 - Crouching while manipulating Scent (picking up and dropping scented items) can be used to manipulate predators to specific locations, or to attack other wildlife.
 - [Cat Tails](./Cat%20Tail%20Stalk.md) and artificial foods are a scent-free way of traveling if the player is worried about Wildlife attacks. This is especially helpful when passing through Timberwolf or Cougar territory.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**
 
 ## Notes
 

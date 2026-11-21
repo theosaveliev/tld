@@ -1,17 +1,12 @@
----
-title: "Handwritten Note (3)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Handwritten_Note_(3)"
----
-
 # Handwritten Note \(3\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Handwritten_Note_%283%29)
 
 **Handwritten Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Handwritten_Note_%283%29_icon.png) / *Handwritten\_Note\_(3)\_icon.png* |
+|  | ![](../assets/Handwritten_Note_%283%29_icon.png) / _Handwritten\_Note\_(3)\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Handwritten_Note_(3)"
 
 ## Transcript
 
-*The following text is transcribed from **Handwritten Note***
+_The following text is transcribed from **Handwritten Note**_
 
 **Constable Pete,
 
@@ -46,5 +41,3 @@ Now more people are missing. I'm afraid it's spreading**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

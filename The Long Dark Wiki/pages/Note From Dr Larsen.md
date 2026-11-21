@@ -1,17 +1,12 @@
----
-title: "Note From Dr Larsen"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Note_From_Dr_Larsen"
----
-
 # Note From Dr Larsen
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Note_From_Dr_Larsen)
 
 **Note From Dr Larsen**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Note_From_Dr_Larsen_icon.png) / *Note\_From\_Dr\_Larsen\_icon.png* |
+|  | ![](../assets/Note_From_Dr_Larsen_icon.png) / _Note\_From\_Dr\_Larsen\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Note_From_Dr_Larsen"
 
 ## Transcript
 
-*The following text is transcribed from **Note From Dr Larsen***
+_The following text is transcribed from **Note From Dr Larsen**_
 
 **KEEP LOCKED. See Dr. Larsen or Constable Pete for access.
 
@@ -41,5 +36,3 @@ source: "https://thelongdark.fandom.com/wiki/Note_From_Dr_Larsen"
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

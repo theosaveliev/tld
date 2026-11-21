@@ -1,20 +1,15 @@
----
-title: "Wrapped in Furs"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Wrapped_in_Furs"
----
-
 # Wrapped in Furs
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wrapped_in_Furs)
 
 **Wrapped in Furs**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Wrapped_in_Furs_icon.png) / *Wrapped\_in\_Furs\_icon.png* |
+|  | ![](../assets/Wrapped_in_Furs_icon.png) / _Wrapped\_in\_Furs\_icon.png_ |
 | Description | Slept in a bearskin bedroll while wearing a wolfskin coat, deerskin boots, and rabbitskin mittens. |
 
-**Wrapped in Furs** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Wrapped in Furs** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -27,5 +22,3 @@ This achievement **does not** require the player to be wearing deerskin pants.
 ## Game history
 
 This achievement was introduced on 1 April 2015 in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212).
-
-**Lua execution error in Module:Navbox function navbox**[ru:Достижения Steam](ru:%D0%94%D0%BE%D1%81%D1%82%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_Steam)

@@ -1,17 +1,12 @@
----
-title: "Wolf Quarter"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Wolf_Quarter"
----
-
 # Wolf Quarter
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wolf_Quarter)
 
 **Wolf Quarter**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Wolf_Quarter_icon.png) / *Wolf\_Quarter\_icon.png* |
+|  | ![](../assets/Wolf_Quarter_icon.png) / _Wolf\_Quarter\_icon.png_ |
 | Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423) |
 | **Properties** |  |
 | Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Wolf_Quarter"
 
 A **Wolf Quarter** is a section harvested from a [Wolf](./Wolf.md) or [Timberwolf](./Timberwolf.md). A [Poisoned Wolf](./Poisoned%20Wolf.md) will not allow a Wolf Quarter to be harvested, as they have no meat on their bodies.
 
-You can only obtain wolf quarters by *quartering* a wolf carcass. To quarter an animal, you have to go into the harvest menu, then select the quartering action. For a wolf, this will always take 1 hour. You can only quarter a wolf if its less than 50% frozen.
+You can only obtain wolf quarters by _quartering_ a wolf carcass. To quarter an animal, you have to go into the harvest menu, then select the quartering action. For a wolf, this will always take 1 hour. You can only quarter a wolf if its less than 50% frozen.
 
 After quartering, the carcass will despawn, leaving behind 2-3 quarters, as well as its [Fresh Gut](./Fresh%20Gut.md) and [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md). It will also leave behind the wolves legs and blood, but these cannot be picked up, and it will soon despawn. As quartering only takes 1 hour for wolves, and gives you all necessary parts, it makes transport and harvesting easier, especially if a blizzard is coming or if it will be night soon.
 
@@ -41,5 +36,3 @@ Timberwolf Quarter bags are slightly larger than regular Wolf Quarters.
 
 - UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Четверть туши волка](ru:%D0%A7%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D1%8C_%D1%82%D1%83%D1%88%D0%B8_%D0%B2%D0%BE%D0%BB%D0%BA%D0%B0)

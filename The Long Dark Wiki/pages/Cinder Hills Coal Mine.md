@@ -1,11 +1,6 @@
----
-title: "Cinder Hills Coal Mine"
-wiki_namespace: 0
-categories: ["Caves", "Indoor locations", "Locations", "Locations in Coastal Highway", "Locations in Pleasant Valley", "Locations with a workbench", "Transition zones"]
-source: "https://thelongdark.fandom.com/wiki/Cinder_Hills_Coal_Mine"
----
-
 # Cinder Hills Coal Mine
+
+**Categories:** Caves, Indoor locations, Locations, Locations in Coastal Highway, Locations in Pleasant Valley, Locations with a workbench, Transition zones · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cinder_Hills_Coal_Mine)
 
 **Contents**
 
@@ -19,9 +14,9 @@ source: "https://thelongdark.fandom.com/wiki/Cinder_Hills_Coal_Mine"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/RegionAtlas-resources.assets-562_%284%29.png) / *RegionAtlas-resources.assets-562\_(4).png* |
+|  | ![](../assets/RegionAtlas-resources.assets-562_%284%29.png) / _RegionAtlas-resources.assets-562\_(4).png_ |
 | **Location** |  |
-|  | ![](../assets/Cinder_Hills_Coal_Mine_map.png) / *Cinder\_Hills\_Coal\_Mine\_map.png* |
+|  | ![](../assets/Cinder_Hills_Coal_Mine_map.png) / _Cinder\_Hills\_Coal\_Mine\_map.png_ |
 | Region | [Coastal Highway](./Coastal%20Highway.md)\|- |
 | **General** |  |
 | Type | Cave\|- |
@@ -63,12 +58,40 @@ If you get trapped within the mine, there will always be another aurora scripted
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Road sign to the entrance 1 (Pleasant Valley)](../assets/SS-PV-CHCM_%281%29.jpg) / *Road sign to the entrance 1 (Pleasant Valley)* | ![Road sign to the entrance 2 (Pleasant Valley)](../assets/SS-PV-CHCM_%283%29.jpg) / *Road sign to the entrance 2 (Pleasant Valley)* | ![The entrance (Pleasant Valley)](../assets/SS-PV-CHCM_%282%29.jpg) / *The entrance (Pleasant Valley)* | ![A map of the mines (outdate with Episode 3)](../assets/Costal_highway_Abandoned_mine_leads_to_Pleasant_valley_map_zpslvkwlyyp.jpg) / *A map of the mines (outdate with Episode 3)* |
-| ![Abandoned mine Map (Top layer) v.1.62](../assets/Map-CinderHillsCoalMine-SV.png) / *Abandoned mine Map (Top layer) v.1.62* | ![Abandoned mine (Middle layer and Bottom layer) v.1.62](../assets/Map-AuroraMine-SV.png) / *Abandoned mine (Middle layer and Bottom layer) v.1.62* | ![Elevator (bottom layer)](../assets/SS-AM-Aurora-1F.jpg) / *Elevator (bottom layer)* | ![Elevator (middle layer)](../assets/SS-AM-Aurora-2F.jpg) / *Elevator (middle layer)* |
-| ![Middle layer (During Aurora)](../assets/SS-AM-Aurora-01.jpg) / *Middle layer (During Aurora)* |  |  |  |
+![Road sign to the entrance 1 (Pleasant Valley)](../assets/SS-PV-CHCM_%281%29.jpg)
+
+_Road sign to the entrance 1 (Pleasant Valley)_
+
+![Road sign to the entrance 2 (Pleasant Valley)](../assets/SS-PV-CHCM_%283%29.jpg)
+
+_Road sign to the entrance 2 (Pleasant Valley)_
+
+![The entrance (Pleasant Valley)](../assets/SS-PV-CHCM_%282%29.jpg)
+
+_The entrance (Pleasant Valley)_
+
+![A map of the mines (outdate with Episode 3)](../assets/Costal_highway_Abandoned_mine_leads_to_Pleasant_valley_map_zpslvkwlyyp.jpg)
+
+_A map of the mines (outdate with Episode 3)_
+
+![Abandoned mine Map (Top layer) v.1.62](../assets/Map-CinderHillsCoalMine-SV.png)
+
+_Abandoned mine Map (Top layer) v.1.62_
+
+![Abandoned mine (Middle layer and Bottom layer) v.1.62](../assets/Map-AuroraMine-SV.png)
+
+_Abandoned mine (Middle layer and Bottom layer) v.1.62_
+
+![Elevator (bottom layer)](../assets/SS-AM-Aurora-1F.jpg)
+
+_Elevator (bottom layer)_
+
+![Elevator (middle layer)](../assets/SS-AM-Aurora-2F.jpg)
+
+_Elevator (middle layer)_
+
+![Middle layer (During Aurora)](../assets/SS-AM-Aurora-01.jpg)
+
+_Middle layer (During Aurora)_
 
 [ru:Угольная шахта "Пыльные холмы"](ru:%D0%A3%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%88%D0%B0%D1%85%D1%82%D0%B0_"%D0%9F%D1%8B%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%85%D0%BE%D0%BB%D0%BC%D1%8B") [es:Mina de carbón del incendio](es:Mina_de_carb%C3%B3n_del_incendio)
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**

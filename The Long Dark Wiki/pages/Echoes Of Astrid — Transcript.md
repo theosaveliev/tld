@@ -1,10 +1,6 @@
----
-title: "Echoes Of Astrid/Transcript"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid%2FTranscript"
----
-
 # Echoes Of Astrid/Transcript
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid%2FTranscript)
 
 **Contents**
 
@@ -18,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid%2FTranscript"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Echoes_Of_Astrid.jpg) / *Echoes\_Of\_Astrid.jpg* |
+|  | ![](../assets/Echoes_Of_Astrid.jpg) / _Echoes\_Of\_Astrid.jpg_ |
 | Episode |  |
 | **Missions** |  |
 | Previous | [Survival Of The Fittest/Transcript](./Survival%20Of%20The%20Fittest%20%E2%80%94%20Transcript.md) |
@@ -37,93 +33,93 @@ CHAPTER TWO
 
 ECHOES OF ASTRID
 
-*If Mackenzie walks up to the wreckage of his floatplane.*
+_If Mackenzie walks up to the wreckage of his floatplane._
 
 Mackenzie: "My plane...not sure which of us looks worse. Poor girl, this isn't how things were supposed to end."
 
-*Mackenzie then pilfers whatever is left of the crash site before leaving the area, and notices something caught on a tree branch fluttering in the wind. A piece of Astrid's scarf.*
+_Mackenzie then pilfers whatever is left of the crash site before leaving the area, and notices something caught on a tree branch fluttering in the wind. A piece of Astrid's scarf._
 
 Mackenzie: "She definitely passed through here, and in a hurry."
 
-*He continues to follow the trail, and finds another piece of scarf. Eventually he comes to a pond full of rabbits and a tutorial message appears.*
+_He continues to follow the trail, and finds another piece of scarf. Eventually he comes to a pond full of rabbits and a tutorial message appears._
 
-> “**Aim True and You Won't Go Hungry  
- You can pick up small Stones and use them to Stun Rabbits. Equip them, and throw them to hit a Rabbit, then grab it while it's stunned. If you can kill it, you can eat it.**”
+> “__Aim True and You Won't Go Hungry  
+ You can pick up small Stones and use them to Stun Rabbits. Equip them, and throw them to hit a Rabbit, then grab it while it's stunned. If you can kill it, you can eat it.__”
 >
 > — What I Know description
 
-*Mackenzie leaves the pond and finds a Rock Climb with another piece of Astrid's torn scarf*
+_Mackenzie leaves the pond and finds a Rock Climb with another piece of Astrid's torn scarf_
 
 Mackenzie: "There must be a way to get up there."
 
-*Mackenzie finds some [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) hanging on a tree with Astrid's scarf fragment and harvests it, prompting another tutorial message*
+_Mackenzie finds some [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) hanging on a tree with Astrid's scarf fragment and harvests it, prompting another tutorial message_
 
-[Old Man's Beard](./Old%20Man%27s%20Beard%20Lichen.md){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Moss to Prevent Infection  
- Old Man's Beard Lichen has long been appreciated for its anti-bacterial properties. First, prepare it to be used for treatment. Then, apply it to injuries to reduce Infection Risk.**
+[Old Man's Beard](./Old%20Man%27s%20Beard%20Lichen.md){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Moss to Prevent Infection  
+ Old Man's Beard Lichen has long been appreciated for its anti-bacterial properties. First, prepare it to be used for treatment. Then, apply it to injuries to reduce Infection Risk.__
 
 What I Know description
 
 | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}
 
-*Mackenzie climbs the Rock Climb and finds a fallen tree has blocked the path, prompting another tutorial message*
+_Mackenzie climbs the Rock Climb and finds a fallen tree has blocked the path, prompting another tutorial message_
 
-Crouching{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Get Under Stuff  
- Occasionally you'll encounter an obstacle in your path. Crouching (using \[L Ctrl\]) might help to get under it. Crouching also makes you less obvious to wildlife, from a distance. You move more slowly, but also more silently, so you might get closer.**
-
-What I Know description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}*He crouches under it and finds a cave and enters it, prompting another tutorial messages*
-
-Light{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Each Light Source has Pros and Cons  
- You may need to improvise Light Sources to see in the dark. you can Craft Torches out of available materials. Flares provide a one-off light source. Lanterns last longer, but use up Oil. Darkness hides dangers, and also prevents you from Crafting, Repairing your gear, and other actions.**
+Crouching{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Get Under Stuff  
+ Occasionally you'll encounter an obstacle in your path. Crouching (using \[L Ctrl\]) might help to get under it. Crouching also makes you less obvious to wildlife, from a distance. You move more slowly, but also more silently, so you might get closer.__
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}*Mackenzie finds a [Frozen Corpse](./Frozen%20Corpse.md) next to some supplies, a [Torch](./Torch.md), and a [Bedroll](./Bedroll.md)*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}_He crouches under it and finds a cave and enters it, prompting another tutorial messages_
 
-Bedrolls{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Resting Heals You and Saves Your Progress  
- Resting restores lost Condition and helps you recover from Afflictions. You can Rest in beds you find as you explore the world. A Bedroll allows you to Rest whenever you like. Remember that Resting uses up Calories and the hours that pass make you Hungry and Thirsty.**
+Light{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Each Light Source has Pros and Cons  
+ You may need to improvise Light Sources to see in the dark. you can Craft Torches out of available materials. Flares provide a one-off light source. Lanterns last longer, but use up Oil. Darkness hides dangers, and also prevents you from Crafting, Repairing your gear, and other actions.__
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}*After Mackenzie makes it through the cave and steps outside*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}_Mackenzie finds a [Frozen Corpse](./Frozen%20Corpse.md) next to some supplies, a [Torch](./Torch.md), and a [Bedroll](./Bedroll.md)_
+
+Bedrolls{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Resting Heals You and Saves Your Progress  
+ Resting restores lost Condition and helps you recover from Afflictions. You can Rest in beds you find as you explore the world. A Bedroll allows you to Rest whenever you like. Remember that Resting uses up Calories and the hours that pass make you Hungry and Thirsty.__
+
+What I Know description
+
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}_After Mackenzie makes it through the cave and steps outside_
 
 Mackenzie: "Astrid...where did you go?"
 
-*A Wolf is feeding on a Deer Carcass ahead, prompting another tutorial message*
+_A Wolf is feeding on a Deer Carcass ahead, prompting another tutorial message_
 
-Wolves{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Avoid if You Can!  
+Wolves{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Avoid if You Can!  
  Wolves are not dogs and out here they are very dangerous. They normally avoid humans, but do you want to take a chance? Like most things in nature, Wolves are afraid of Fire. Campfires, Torches, or Flares can keep them at bay. Thrown Torches or Flares might scare them away. But there are no guarantees. In the end, the best way to avoid tangling with Wolves is to give them a wide berth.  
- Remember, they are attracted to Blood, Raw Meat, and Raw Fish. These items can also be used as Decoys to put Wolves off your trail.**
+ Remember, they are attracted to Blood, Raw Meat, and Raw Fish. These items can also be used as Decoys to put Wolves off your trail.__
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}*Mackenzie sidesteps or scares the Wolf away, and eventually comes across a paved road*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}_Mackenzie sidesteps or scares the Wolf away, and eventually comes across a paved road_
 
 Mackenzie: "A road! Great. I'm not as lost as I thought."
 
 ## Follow the road. Where does it go? And could Astrid have followed it?
 
-*Mackenzie finds several cars across a bridge and steps into one, prompting another tutorial message*
+_Mackenzie finds several cars across a bridge and steps into one, prompting another tutorial message_
 
-Vehicles{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Take Shelter  
- Cars can serve as shelters, protecting you from deadly wind and wildlife. You might even find supplies left inside the glove compartments or trunks.**
+Vehicles{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Take Shelter  
+ Cars can serve as shelters, protecting you from deadly wind and wildlife. You might even find supplies left inside the glove compartments or trunks.__
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}*A sign on the bridge says MILTON leading ahead, so Mackenzie continues to follow the road. As he crosses the bridge and keeps going, a Rabbit is attacked by a Wolf on the road. Using this as an opportunity to catch a rabbit for free, or just avoiding it, Mackenzie eventually passes by a [Trailer](./Trailer%20%28Mountain%20Town%20Region%29.md) and then [St. Christopher's Church](./St.%20Christopher%27s%20Church.md).*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}_A sign on the bridge says MILTON leading ahead, so Mackenzie continues to follow the road. As he crosses the bridge and keeps going, a Rabbit is attacked by a Wolf on the road. Using this as an opportunity to catch a rabbit for free, or just avoiding it, Mackenzie eventually passes by a [Trailer](./Trailer%20%28Mountain%20Town%20Region%29.md) and then [St. Christopher's Church](./St.%20Christopher%27s%20Church.md)._
 
 Mackenzie: "That church looks like it could be a good shelter."
 
-*Another Wolf is feasting on a Deer Carcass, and Mackenzie moves on. He eventually comes across another bridge, with a large sign saying TOWN OF MILTON EST 1911. He crosses the bridge and walks past the [Milton Water Tower](./Milton%20Water%20Tower.md)*
+_Another Wolf is feasting on a Deer Carcass, and Mackenzie moves on. He eventually comes across another bridge, with a large sign saying TOWN OF MILTON EST 1911. He crosses the bridge and walks past the [Milton Water Tower](./Milton%20Water%20Tower.md)_
 
 Mackenzie: "Hello? Anyone out there?"
 
-*Getting no response, Mackenzie walks up further into town and begins seeing boarded up houses.*
+_Getting no response, Mackenzie walks up further into town and begins seeing boarded up houses._
 
 Mackenzie: "Hmph...this whole area looks like its been abandoned for awhile."
 
-*Mackenzie walks past a large house on a hill, with smoke bellowing from the chimney*
+_Mackenzie walks past a large house on a hill, with smoke bellowing from the chimney_
 
 Mackenzie: "Hmm...smoke from the chimney. Someone's home."
 
@@ -131,21 +127,21 @@ Mackenzie: "Hmm...smoke from the chimney. Someone's home."
 
 ### 3rd Person Cutscene
 
-*Mackenzie walks up to the front door, as wolves from deeper in the town approach his location. He steps inside as a third person cutscene plays*
+_Mackenzie walks up to the front door, as wolves from deeper in the town approach his location. He steps inside as a third person cutscene plays_
 
 Mackenzie: "Hello? Anybody here?
 
-*Mackenzie steps inside and peaks his head to his right, just as a bullet wizzes by and hits the wall behind him*
+_Mackenzie steps inside and peaks his head to his right, just as a bullet wizzes by and hits the wall behind him_
 
 Mackenzie: "Holy shi...wait...hold your fire!"
 
-*An old woman in a chair is pointing a rifle at Mackenzie*
+_An old woman in a chair is pointing a rifle at Mackenzie_
 
 [Grey Mother](./Grey%20Mother.md): "Come closer, stranger."
 
 Mackenzie: "Ok ok...just take it easy."
 
-*Mackenzie slowly walks towards the blindfolded woman, who never points her aim away from the pilot*
+_Mackenzie slowly walks towards the blindfolded woman, who never points her aim away from the pilot_
 
 Grey Mother: "Why are you here?"
 
@@ -155,7 +151,7 @@ Grey Mother: "Mainlander?"
 
 Mackenzie: "Uhh...What?"
 
-*The old woman smirks and chuckles*
+_The old woman smirks and chuckles_
 
 Grey Mother: "Thought so. Mainlander. Outsider. I don't recognize your voice and you haven't left like the other cowards so...must be a Mainlander. Someone who doesn't know any better."
 
@@ -169,13 +165,13 @@ Grey Mother: "You think because my eyes are covered, I can't see you? Make the w
 
 Mackenzie: "I don't doubt it."
 
-*The woman slowly lowers her rifle, aiming it away from Mackenzie and placing it in her lap. Her finger never leaving the trigger*
+_The woman slowly lowers her rifle, aiming it away from Mackenzie and placing it in her lap. Her finger never leaving the trigger_
 
 Grey Mother: "The others, are all gone. If you're here, things must be worse than they thought."
 
 ### Conversation
 
-*The cutscene ends as the camera switches between Mackenzie and the Old woman, as the sound of the wind makes the old house creek*
+_The cutscene ends as the camera switches between Mackenzie and the Old woman, as the sound of the wind makes the old house creek_
 
 Mackenzie **(Text)**: "What is this place? This town?"
 
@@ -189,7 +185,7 @@ Mackenzie **(Text)**: "I'm looking for someone. She crashed with me, but I think
 
 Grey Mother **(Text)**: "I'm not interested in your story, Outsider. I'm cold. Prove your worth to me and I'll think about telling you what I know. My fire will be out soon. Fetch me some firewood, and then maybe we'll talk more."
 
-*A dialogue compass appears offering more choices to speak with the woman.*
+_A dialogue compass appears offering more choices to speak with the woman._
 
 - WHO ARE YOU?
 
@@ -239,15 +235,13 @@ Grey Mother **(Text)**: "None of your business, Outsider. Just stay out of my pr
 
 - FINISHED
 
-*Once the player selects this option, the final conversation plays*
+_Once the player selects this option, the final conversation plays_
 
 Grey Mother **(Text)**: "Come back when you've sorted out my firewood situation, if you come back at all."
 
-*Another tutorial message pops up*
+_Another tutorial message pops up_
 
-Trust{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Trust. A hard thing to come by these days  
- Many people you meet will be suspicious of you. But most of them have needs they may not be able to fulfill without your help. Helping them will earn you Trust, which will in turn unlock useful Knowledge, Locations, Items, and more. Check the character's Trust entry in your Journal to learn more about them, their needs, and how they can help you.**
+Trust{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Trust. A hard thing to come by these days  
+ Many people you meet will be suspicious of you. But most of them have needs they may not be able to fulfill without your help. Helping them will earn you Trust, which will in turn unlock useful Knowledge, Locations, Items, and more. Check the character's Trust entry in your Journal to learn more about them, their needs, and how they can help you.__
 
 What I Know description
-
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} The story continues in [The Grey Mother (Predux)/Transcript](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**

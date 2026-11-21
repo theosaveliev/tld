@@ -1,19 +1,15 @@
----
-title: "Suzuki Environs"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Suzuki_Environs"
----
-
 # Suzuki Environs
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Suzuki_Environs)
 
 **Suzuki Environs**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/No_picture.png) / *No\_picture.png* |
+|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/No_picture.png) / *No\_picture.png* |
-|  | ![](../assets/Suzuki_Region_In-Game_Map.png) / *Suzuki\_Region\_In-Game\_Map.png* |
+|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
+|  | ![](../assets/Suzuki_Region_In-Game_Map.png) / _Suzuki\_Region\_In-Game\_Map.png_ |
 | **Details** |  |
 | Description | A mountain region housing the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) and a small parking lot. |
 | Date Added | 31 March 2026 |
@@ -30,6 +26,4 @@ A white [truck](./Truck.md) can be found in the parking lot, with [crumpled note
 
 ## Trivia
 
-- Mt. Franklin's peak is 2,196 meters above sea level, which is ironically exactly 1 meter *taller* than the [Golden Hinde](https://en.wikipedia.org/wiki/Golden_Hinde_%28mountain%29), the tallest peak on Vancouver Island, a major inspiration for Great Bear Island.
-
-**Lua execution error in Module:Navbox function navbox**
+- Mt. Franklin's peak is 2,196 meters above sea level, which is ironically exactly 1 meter _taller_ than the [Golden Hinde](https://en.wikipedia.org/wiki/Golden_Hinde_%28mountain%29), the tallest peak on Vancouver Island, a major inspiration for Great Bear Island.

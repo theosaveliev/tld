@@ -1,17 +1,12 @@
----
-title: "A page from an old newsletter."
-wiki_namespace: 0
-categories: ["Collectibles"]
-source: "https://thelongdark.fandom.com/wiki/A_page_from_an_old_newsletter."
----
-
 # A page from an old newsletter\.
+
+**Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/A_page_from_an_old_newsletter.)
 
 **A page from an old newsletter.**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/A_page_from_an_old_newsletter._icon.png) / *A\_page\_from\_an\_old\_newsletter.\_icon.png* |
+|  | ![](../assets/A_page_from_an_old_newsletter._icon.png) / _A\_page\_from\_an\_old\_newsletter.\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/A_page_from_an_old_newsletter."
 
 ## Transcript
 
-*The following text is transcribed from **A page from an old newsletter.***
+_The following text is transcribed from **A page from an old newsletter.**_
 
 **Dear Civilian Corps members.
 
@@ -42,7 +37,5 @@ With gratitude,
 Jen Whitney, Executive Officer**
 
 ## Game history
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**
 
 [ru:Страница из старой газеты](ru:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D0%B8%D0%B7_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D1%8B)

@@ -1,17 +1,12 @@
----
-title: "First Flare"
-wiki_namespace: 0
-categories: ["Story"]
-source: "https://thelongdark.fandom.com/wiki/First_Flare"
----
-
 # First Flare
 
-![Will Mackenzie and Dr. Astrid Greenwood witness the First Flare moments before their plane crashes](../assets/FirstFlare.jpg)*Will Mackenzie and Dr. Astrid Greenwood witness the First Flare moments before their plane crashes*{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **The lights in the sky are a reckoning. The wonder of humanity and all its creations, laid bare. Her warnings went unheeded... The signs were there, for those willing to see them. This has all happened before. Soon we'll all be tested. We'll all have to choose how far we'll go to survive.**
+**Categories:** Story · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/First_Flare)
+
+![Will Mackenzie and Dr. Astrid Greenwood witness the First Flare moments before their plane crashes](../assets/FirstFlare.jpg)_Will Mackenzie and Dr. Astrid Greenwood witness the First Flare moments before their plane crashes_{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __The lights in the sky are a reckoning. The wonder of humanity and all its creations, laid bare. Her warnings went unheeded... The signs were there, for those willing to see them. This has all happened before. Soon we'll all be tested. We'll all have to choose how far we'll go to survive.__
 
 [Methuselah](./Methuselah.md) explaining the First Flare
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} The **First Flare**refers to the first appearance of an intense [Aurora](./Aurora.md) in *The Long Dark*'s Story Mode [Wintermute](./Wintermute.md). It is the primary cause of the so-called "quiet apocalypse" seen in both Wintermute and [Survival Mode](./Survival%20Mode.md).
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} The **First Flare**refers to the first appearance of an intense [Aurora](./Aurora.md) in _The Long Dark_'s Story Mode [Wintermute](./Wintermute.md). It is the primary cause of the so-called "quiet apocalypse" seen in both Wintermute and [Survival Mode](./Survival%20Mode.md).
 
 ## History
 
@@ -35,10 +30,8 @@ Due to the loss of worldwide communication and the isolation of the game's setti
 - A prison bus carrying several inmates to [Blackrock Federal Penitentiary](./Blackrock%20Prison.md) crashes into a collapsed tunnel outside Milton. Some of the inmates survive, [Hobbs](./Hobbs.md) among them, and proceed to [Milton](./Milton.md), where they hold residents hostage in the [Old Schoolhouse](./Old%20Schoolhouse.md). The residents are killed by a fire from a subsequent Aurora event and the Convicts scatter. Wolves begin to overtake the town shortly after, due to a lack of humans.
 - The [Prisoners](./Convicts.md) of Blackrock Federal Penitentiary break out of their cells and execute the prison's staff, turning the prison into their own personal fortress and using it as a base of operations to begin looting nearby locales as they see fit.
 
-- A motorist named Matt loses control of [his truck](./Matt%27s%20Truck.md) and drives off a bridge in [Desolation Point](./Desolation%20Point.md). *(Survival mode; unconfirmed for Wintermute)*
+- A motorist named Matt loses control of [his truck](./Matt%27s%20Truck.md) and drives off a bridge in [Desolation Point](./Desolation%20Point.md). _(Survival mode; unconfirmed for Wintermute)_
 - A passenger plane crashes near [Skeeter's Ridge](./Skeeter%27s%20Ridge.md) in Pleasant Valley. Many do not make it and the remaining survivors make their way to [Thomson's Crossing](./Thomson%27s%20Crossing.md), though some become lost along the way.
 - Several helicopters and [planes crash](./Plane%20Crashes.md) across various sections of the island.
 - Many fishing boats around the coast of Great Bear lose power and break down. The Fukattsu Maru picks up some survivors, but subsequent Auroras eventually cause the crew and passengers to lose their sanity and jump overboard.
 - A disease outbreak in [Perseverance Mills](./Perseverance%20Mills.md) worsens, with sufferers getting dementia-like symptoms. Many people end up wandering off and drowning near water.
-
-**Lua execution error in Module:Navbox function navbox**

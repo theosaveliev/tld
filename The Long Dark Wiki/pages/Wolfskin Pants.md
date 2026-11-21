@@ -1,11 +1,6 @@
----
-title: "Wolfskin Pants"
-wiki_namespace: 0
-categories: ["Clothing", "Craftable clothing", "DLC Content"]
-source: "https://thelongdark.fandom.com/wiki/Wolfskin_Pants"
----
-
 # Wolfskin Pants
+
+**Categories:** Clothing, Craftable clothing, DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wolfskin_Pants)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Wolfskin_Pants"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Wolfskin_Pants_icon.png) / *Wolfskin\_Pants\_icon.png* |
+|  | ![](../assets/Wolfskin_Pants_icon.png) / _Wolfskin\_Pants\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot |  |
@@ -34,9 +29,9 @@ source: "https://thelongdark.fandom.com/wiki/Wolfskin_Pants"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | **Pants crafted from a Wolf hide. Warm and extremely durable.** / In-game description | ” |
+| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __Pants crafted from a Wolf hide. Warm and extremely durable.__ / In-game description | ” |
 
-The **Wolfskin Pants** is an article of [Clothing](./Clothing.md) that can be [Crafted](./Crafting.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+The **Wolfskin Pants** is an article of [Clothing](./Clothing.md) that can be [Crafted](./Crafting.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -70,10 +65,12 @@ They are warmer and heavier than the [Deerskin Pants](./Deerskin%20Pants.md), an
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![3d model](../assets/Wolfskin_Pants_model.png) / *3d model* | ![3d model damaged](../assets/Wolfskin_Pants_damaged.png) / *3d model damaged* |
+![3d model](../assets/Wolfskin_Pants_model.png)
+
+_3d model_
+
+![3d model damaged](../assets/Wolfskin_Pants_damaged.png)
+
+_3d model damaged_
 
 ## Update history
-
-**Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Штаны из волчьей шкуры](ru:%D0%A8%D1%82%D0%B0%D0%BD%D1%8B_%D0%B8%D0%B7_%D0%B2%D0%BE%D0%BB%D1%87%D1%8C%D0%B5%D0%B9_%D1%88%D0%BA%D1%83%D1%80%D1%8B)

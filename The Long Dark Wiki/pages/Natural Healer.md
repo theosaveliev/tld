@@ -1,20 +1,15 @@
----
-title: "Natural Healer"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Natural_Healer"
----
-
 # Natural Healer
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Natural_Healer)
 
 **Natural Healer**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Natural_Healer_icon.png) / *Natural\_Healer\_icon.png* |
+|  | ![](../assets/Natural_Healer_icon.png) / _Natural\_Healer\_icon.png_ |
 | Description | Healed yourself using all types of natural medicines (single game) |
 
-**Natural Healer** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Natural Healer** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -35,5 +30,3 @@ See the individual pages for details on how to craft the medicines.
 ## Game history
 
 This achievement was introduced on 1 April 2015 in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212).
-
-**Lua execution error in Module:Navbox function navbox**

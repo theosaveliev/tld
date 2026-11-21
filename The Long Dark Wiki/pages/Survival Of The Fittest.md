@@ -1,11 +1,6 @@
----
-title: "Survival Of The Fittest"
-wiki_namespace: 0
-categories: ["Episode 1", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest"
----
-
 # Survival Of The Fittest
+
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest)
 
 **Contents**
 
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Survival_Of_The_Fittest.jpg) / *Survival\_Of\_The\_Fittest.jpg* |
+|  | ![](../assets/Survival_Of_The_Fittest.jpg) / _Survival\_Of\_The\_Fittest.jpg_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Previous | None |
 | Current | Survival Of The Fittest |
@@ -38,11 +33,11 @@ source: "https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest"
 | Region | [Mountain Town](./Mountain%20Town.md) |
 | Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Astrid Greenwood](./Astrid%20Greenwood.md) |
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **You've crashed in the Northern wilderness and are badly injured. Survive long enough for your hand to heal, so you can climb out.**
+**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __You've crashed in the Northern wilderness and are badly injured. Survive long enough for your hand to heal, so you can climb out.__
 
 In-game description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}**Survival Of The Fittest** was the first mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of *[The Long Dark](./The%20Long%20Dark.md)* by using the [Time Capsule](./Time%20Capsule.md).
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}**Survival Of The Fittest** was the first mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 This episode has since been replaced by [Memories](./Memories.md).
 
@@ -138,5 +133,3 @@ Several plot points and locations have been replaced/altered since the Redux re-
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from the game as part of the Redux edition.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**

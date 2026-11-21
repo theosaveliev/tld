@@ -1,11 +1,6 @@
----
-title: "Hatchet"
-wiki_namespace: 0
-categories: ["Story items", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Hatchet"
----
-
 # Hatchet
+
+**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hatchet)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Hatchet"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hatchet_icon.png) / *Hatchet\_icon.png* |
+|  | ![](../assets/Hatchet_icon.png) / _Hatchet\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | **Statistics** |  |
@@ -29,13 +24,13 @@ source: "https://thelongdark.fandom.com/wiki/Hatchet"
 | Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) / 1 × [Fir Firewood](./Fir%20Firewood.md) / 1 hour |
 | Repair | [Whetstone](./Whetstone.md) 12-5 minutes / 3%-5% |
 
-*For the improvised variant, see [Improvised Hatchet](./Improvised%20Hatchet.md).*
+_For the improvised variant, see [Improvised Hatchet](./Improvised%20Hatchet.md)._
 
-> “**A small one-handed axe. Good for splitting wood. Can be used to hack meat in a pinch.**”
+> “__A small one-handed axe. Good for splitting wood. Can be used to hack meat in a pinch.__”
 >
 > — In-game description
 
-The **Hatchet** is a tool in *The Long Dark*, primarily for woodcutting and self defense.
+The **Hatchet** is a tool in _The Long Dark_, primarily for woodcutting and self defense.
 
 ## Overview
 
@@ -76,16 +71,18 @@ The [Milling Machine](./Milling%20Machine.md) in [Bleak Inlet](./Bleak%20Inlet.m
 
 ## Trivia
 
-- A broken Hatchet is the icon and logo for *The Long Dark* on all platforms, including [the official Hinterlands website](https://hinterlandgames.com/), [forums](https://hinterlandforums.com/forums/) and [merchandise](https://www.hinterlandstore.com/).
+- A broken Hatchet is the icon and logo for _The Long Dark_ on all platforms, including [the official Hinterlands website](https://hinterlandgames.com/), [forums](https://hinterlandforums.com/forums/) and [merchandise](https://www.hinterlandstore.com/).
 - Unlike large axes, hatchets feature a hammerhead on their back; despite this, the hatchet is never used for this purpose in-game, even suffering a condition penalty when used to break ice for being a 'sharp tool'.
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Old model.](../assets/Hatchet.png) / *Old model.* | ![Old icon](../assets/Hatchet_old_icon.webp) / *Old icon* |
+![Old model.](../assets/Hatchet.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Old model._
+
+![Old icon](../assets/Hatchet_old_icon.webp)
+
+_Old icon_
 
 [ru:Топорик](ru:%D0%A2%D0%BE%D0%BF%D0%BE%D1%80%D0%B8%D0%BA)
 

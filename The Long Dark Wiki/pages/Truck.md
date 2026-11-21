@@ -1,13 +1,8 @@
----
-title: "Truck"
-wiki_namespace: 0
-categories: ["Interactable objects", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Truck"
----
-
 # Truck
 
-![A standard blue truck](../assets/Truck.png)*A standard blue truck* **Trucks** are compact, 2-door single cab utility [vehicles](./Vehicle.md) found in the game *[The Long Dark](./The%20Long%20Dark.md)*
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Truck)
+
+![A standard blue truck](../assets/Truck.png)_A standard blue truck_ **Trucks** are compact, 2-door single cab utility [vehicles](./Vehicle.md) found in the game _[The Long Dark](./The%20Long%20Dark.md)_
 
 ## Overview
 
@@ -19,8 +14,10 @@ There are three types of trucks found on [Great Bear Island](./Great%20Bear%20Is
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![A Breyerhouse utility truck on the tracks.](../assets/Breyerhouse_on_tracks.jpg) / *A Breyerhouse utility truck on the tracks.* | ![](../assets/Maintenance_yard.jpg) / *maintenance\_yard.jpg* |
+![A Breyerhouse utility truck on the tracks.](../assets/Breyerhouse_on_tracks.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Пикап](ru:%D0%9F%D0%B8%D0%BA%D0%B0%D0%BF)
+_A Breyerhouse utility truck on the tracks._
+
+![](../assets/Maintenance_yard.jpg)
+
+_maintenance\_yard.jpg_

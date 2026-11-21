@@ -1,17 +1,12 @@
----
-title: "ID - T. Chan"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/ID_-_T._Chan"
----
-
 # ID \- T\. Chan
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/ID_-_T._Chan)
 
 **ID - T. Chan**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/ID_-_D._Belanger_icon.png) / *ID\_-\_D.\_Belanger\_icon.png* |
+|  | ![](../assets/ID_-_D._Belanger_icon.png) / _ID\_-\_D.\_Belanger\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
 | **Properties** |  |
@@ -34,11 +29,9 @@ The ID is located on a [Frozen Corpse](./Frozen%20Corpse.md) found directly acro
 
 ![](../assets/T._Chan_location.jpg)
 
-*T.\_Chan\_location.jpg*
+_T.\_Chan\_location.jpg_
 
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,17 +1,12 @@
----
-title: "Rosary"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Rosary"
----
-
 # Rosary
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rosary)
 
 **Rosary**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rosary_icon.png) / *Rosary\_icon.png* |
+|  | ![](../assets/Rosary_icon.png) / _Rosary\_icon.png_ |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/Rosary"
 | Backpack | Examine |
 | On ground | Take It, Read Text, Leave It |
 
-> “**At least until I can minster to those souls myself, having you carry this rosary while you investigate the crash site...it would bring an old priest some comfort. It will be the closest thing to my being able to pray for them.**”
+> “__At least until I can minster to those souls myself, having you carry this rosary while you investigate the crash site...it would bring an old priest some comfort. It will be the closest thing to my being able to pray for them.__”
 >
 > — [Father Thomas](./Father%20Thomas.md) to [Astrid Greenwood](./Astrid%20Greenwood.md)
 
@@ -33,5 +28,3 @@ source: "https://thelongdark.fandom.com/wiki/Rosary"
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

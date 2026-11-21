@@ -1,11 +1,6 @@
----
-title: "Trauma"
-wiki_namespace: 0
-categories: ["Episode 3"]
-source: "https://thelongdark.fandom.com/wiki/Trauma"
----
-
 # Trauma
+
+**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trauma)
 
 **Trauma** is the first mission in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of [Wintermute](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) meets [Molly](./Molly.md) and learns about her predicament.
 

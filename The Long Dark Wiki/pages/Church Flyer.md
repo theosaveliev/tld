@@ -1,17 +1,12 @@
----
-title: "Church Flyer"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Church_Flyer"
----
-
 # Church Flyer
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Church_Flyer)
 
 **Church Flyer**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Church_Flyer_icon.png) / *Church\_Flyer\_icon.png* |
+|  | ![](../assets/Church_Flyer_icon.png) / _Church\_Flyer\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Church Artifact](./Church%20Artifact%20%28mission%29.md) |
 | **Properties** |  |
@@ -28,11 +23,11 @@ source: "https://thelongdark.fandom.com/wiki/Church_Flyer"
 
 **Church Flyer** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Church Artifact](./Church%20Artifact%20%28mission%29.md) side mission.
 
-During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note *Church Flyer* in the [Thomson's Crossing](./Thomson%27s%20Crossing.md) church.
+During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Church Flyer_ in the [Thomson's Crossing](./Thomson%27s%20Crossing.md) church.
 
 ## Transcript
 
-*The following text is transcribed from **Church Flyer***
+_The following text is transcribed from **Church Flyer**_
 
 **The investigation into our missing artifact continues.
 
@@ -44,5 +39,3 @@ Please contact Father Thomas directly with any information you have.
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

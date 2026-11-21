@@ -1,11 +1,6 @@
----
-title: "Insomnia"
-wiki_namespace: 0
-categories: ["Afflictions", "DLC Content"]
-source: "https://thelongdark.fandom.com/wiki/Insomnia"
----
-
 # Insomnia
+
+**Categories:** Afflictions, DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Insomnia)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Insomnia"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Insomnia_icon.png) / *Insomnia\_icon.png* |
+|  | ![](../assets/Insomnia_icon.png) / _Insomnia\_icon.png_ |
 | Release | [Dec 5, 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03) |
 | Update | 2.03 |
 | **Properties** |  |
@@ -35,7 +30,7 @@ source: "https://thelongdark.fandom.com/wiki/Insomnia"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | **Exposure to certain influences may trigger an Insomnia Affliction, introducing a new series of risks for you to manage as you do your best to avoid their cause.** / [Official Hinterland description](https://www.thelongdark.com/expansion/) | ” |
+| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __Exposure to certain influences may trigger an Insomnia Affliction, introducing a new series of risks for you to manage as you do your best to avoid their cause.__ / [Official Hinterland description](https://www.thelongdark.com/expansion/) | ” |
 
 ## Overview
 
@@ -43,7 +38,7 @@ source: "https://thelongdark.fandom.com/wiki/Insomnia"
 
 ## Affliction
 
-"*Your sleep is troubled and Rest is frequently interrupted.*"
+"_Your sleep is troubled and Rest is frequently interrupted._"
 
 — In-game description
 
@@ -82,8 +77,10 @@ A [Note](./Note%20%28Forsaken%20Airfield%29.md) can be found from a survivor det
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![An example of a survivor suffering from Insomnia](../assets/Insomnia_Risk.jpg) / *An example of a survivor suffering from Insomnia* | ![The marketing icon for Insomnia](../assets/Insomnia_Marketing_Icon.svg) / *The marketing icon for Insomnia* |
+![An example of a survivor suffering from Insomnia](../assets/Insomnia_Risk.jpg)
 
-**Lua execution error in Module:Navbox function navbox**[ru:Бессонница](ru:%D0%91%D0%B5%D1%81%D1%81%D0%BE%D0%BD%D0%BD%D0%B8%D1%86%D0%B0)
+_An example of a survivor suffering from Insomnia_
+
+![The marketing icon for Insomnia](../assets/Insomnia_Marketing_Icon.svg)
+
+_The marketing icon for Insomnia_

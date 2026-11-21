@@ -1,17 +1,12 @@
----
-title: "Paper"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Paper"
----
-
 # Paper
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paper)
 
 **Paper**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Paper_icon.png) / *Paper\_icon.png* |
+|  | ![](../assets/Paper_icon.png) / _Paper\_icon.png_ |
 | Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Paper"
 
 ## Transcript
 
-*The following text is transcribed from **Paper***
+_The following text is transcribed from **Paper**_
 
 **Mission status unclear. Pilot activity appears routine and as predicted in my Initial briefing.  
    
@@ -39,7 +34,5 @@ source: "https://thelongdark.fandom.com/wiki/Paper"
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Бумага](ru:%D0%91%D1%83%D0%BC%D0%B0%D0%B3%D0%B0)

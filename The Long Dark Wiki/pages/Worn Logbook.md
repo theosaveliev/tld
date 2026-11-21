@@ -1,17 +1,12 @@
----
-title: "Worn Logbook"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Worn_Logbook"
----
-
 # Worn Logbook
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Worn_Logbook)
 
 **Worn Logbook**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Worn_Logbook_icon.png) / *Worn\_Logbook\_icon.png* |
+|  | ![](../assets/Worn_Logbook_icon.png) / _Worn\_Logbook\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -30,7 +25,7 @@ The note is narrated by the Captain.
 
 ## Transcript
 
-*The following text is transcribed from **Worn Logbook***
+_The following text is transcribed from **Worn Logbook**_
 
 **They had jury-rigged some diesel contraption that kept the screw turning, but barely. Crazy, but smart as hell these guys. At least what's left of them after their old captain wandered overboard. And we keep coming across small boats with some survivors. They all have the same story. The lights showed up and their ships went dark. No power.
 
@@ -48,5 +43,3 @@ But we have enough food for now, calm seas, and a good course for landfall soon.
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

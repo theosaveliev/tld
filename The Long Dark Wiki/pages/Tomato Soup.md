@@ -1,11 +1,6 @@
----
-title: "Tomato Soup"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Tomato_Soup"
----
-
 # Tomato Soup
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tomato_Soup)
 
 **Contents**
 
@@ -18,8 +13,8 @@ source: "https://thelongdark.fandom.com/wiki/Tomato_Soup"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Sealed](../assets/Tomato_Soup_icon.png) / *Sealed* \| ![Opened](../assets/Tomato_Soup_%28Opened%29_icon.png) / *Opened* \| / \| --- \| --- \| | 250px\]\] |
-| ![Sealed](../assets/Tomato_Soup_icon.png) / *Sealed* | ![Opened](../assets/Tomato_Soup_%28Opened%29_icon.png) / *Opened* |
+| \[\[File: / ![Sealed](../assets/Tomato_Soup_icon.png) / _Sealed_ / ![Opened](../assets/Tomato_Soup_%28Opened%29_icon.png) / _Opened_ | 250px\]\] |
+| ![Sealed](../assets/Tomato_Soup_icon.png) / _Sealed_ | ![Opened](../assets/Tomato_Soup_%28Opened%29_icon.png) / _Opened_ |
 | Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181) |
 | Wintermute | No |
 | **Properties** |  |
@@ -37,7 +32,7 @@ source: "https://thelongdark.fandom.com/wiki/Tomato_Soup"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_TomatoSoupCan |
 
-**Tomato Soup** is a packaged [food](./Food%20And%20Drink.md) item in *The Long Dark*.
+**Tomato Soup** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
 ## Overview
 
@@ -49,14 +44,14 @@ Tomato Soup is relatively common inside homes: usually in cupboards or on shelfs
 
 ## Trivia
 
-- Tomato Soup is branded as "*Mom's Kitchen*".
+- Tomato Soup is branded as "_Mom's Kitchen_".
 - The ingredients on the back list: "Tomatoes, Water, Salt." and that it is a "Product of Canada."
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model](../assets/Tomato_soup.png) / *Old model* |
+![Old model](../assets/Tomato_soup.png)
+
+_Old model_
 
 ## Update history
 
@@ -66,5 +61,3 @@ Tomato Soup is relatively common inside homes: usually in cupboards or on shelfs
 
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Банка томатного супа](ru:%D0%91%D0%B0%D0%BD%D0%BA%D0%B0_%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%BF%D0%B0)

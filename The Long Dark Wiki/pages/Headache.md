@@ -1,17 +1,12 @@
----
-title: "Headache"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Headache"
----
-
 # Headache
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Headache)
 
 **Headache**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Headache_icon.png) / *Headache\_icon.png* |
+|  | ![](../assets/Headache_icon.png) / _Headache\_icon.png_ |
 | Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48) |
 | Update | 1.48 |
 | **Properties** |  |
@@ -34,11 +29,11 @@ Headaches have no long-term effects on the player, only serving as a simple visu
 
 ## First Aid Headaches
 
-> “**You are suffering from a head-ache. It's not debilitating, but the occasional shot of pain and blurred vision can be distracting.**”
+> “__You are suffering from a head-ache. It's not debilitating, but the occasional shot of pain and blurred vision can be distracting.__”
 >
 > — Go! Energy Drink description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Head-ache from taking Caffeine Pills.**
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Head-ache from taking Caffeine Pills.__
 
 Caffeine Pills description
 
@@ -52,12 +47,12 @@ Drinking a [Go! Energy Drink](./Go!%20Energy%20Drink.md) or eating [Caffeine Pil
 
 |  | First Aid | Duration |
 | --- | --- | --- |
-| ![](../assets/Go!_Energy_Drink_icon.png) / *Go!\_Energy\_Drink\_icon.png* | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 20 minutes |
-| ![](../assets/Caffeine_Pills_icon.png) / *Caffeine\_Pills\_icon.png* | [Caffeine Pills](./Caffeine%20Pills.md) | 3 hours |
+| ![](../assets/Go!_Energy_Drink_icon.png) / _Go!\_Energy\_Drink\_icon.png_ | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 20 minutes |
+| ![](../assets/Caffeine_Pills_icon.png) / _Caffeine\_Pills\_icon.png_ | [Caffeine Pills](./Caffeine%20Pills.md) | 3 hours |
 
 ## Food and Drink Headaches
 
-> “**Head-ache from eating a sweet dish.**”
+> “__Head-ache from eating a sweet dish.__”
 >
 > — Food Recipes description
 
@@ -65,9 +60,7 @@ Certain Recipes will also produce a Headache. Partially consuming Recipes will n
 
 |  | Food and Drink | Duration |
 | --- | --- | --- |
-| ![](../assets/Peach_Pie_icon.png) / *Peach\_Pie\_icon.png* | [Peach Pie](./Peach%20Pie.md) | 1 hour |
-| ![](../assets/Rose_Hip_Pie_icon.png) / *Rose\_Hip\_Pie\_icon.png* | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | 1 hour |
-| ![](../assets/Camber_Flight_Porridge_icon.png) / *Camber\_Flight\_Porridge\_icon.png* | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | 1 hour |
-| ![](../assets/Lily%27s_Pancakes_icon.png) / *Lily's\_Pancakes\_icon.png* | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | 1 hour |
-
-**Lua execution error in Module:Navbox function navbox**
+| ![](../assets/Peach_Pie_icon.png) / _Peach\_Pie\_icon.png_ | [Peach Pie](./Peach%20Pie.md) | 1 hour |
+| ![](../assets/Rose_Hip_Pie_icon.png) / _Rose\_Hip\_Pie\_icon.png_ | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | 1 hour |
+| ![](../assets/Camber_Flight_Porridge_icon.png) / _Camber\_Flight\_Porridge\_icon.png_ | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | 1 hour |
+| ![](../assets/Lily%27s_Pancakes_icon.png) / _Lily's\_Pancakes\_icon.png_ | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | 1 hour |

@@ -1,11 +1,6 @@
----
-title: "Crow"
-wiki_namespace: 0
-categories: ["Pages with update history", "Wildlife"]
-source: "https://thelongdark.fandom.com/wiki/Crow"
----
-
 # Crow
+
+**Categories:** Pages with update history, Wildlife · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crow)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Crow"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Crow.png) / *Crow.png* |
+|  | ![](../assets/Crow.png) / _Crow.png_ |
 | **Basic Information** |  |
 | Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01) |
 | Role | Scavenger |
@@ -29,7 +24,7 @@ source: "https://thelongdark.fandom.com/wiki/Crow"
 | Size | Small |
 | Eyes | Black |
 
-> “**Pay attention to your surroundings and you might glean information that's important for your survival. For example, a murder of Crows circling up ahead might suggest an animal carcass -- or even a human corpse -- might be nearby!**”
+> “__Pay attention to your surroundings and you might glean information that's important for your survival. For example, a murder of Crows circling up ahead might suggest an animal carcass -- or even a human corpse -- might be nearby!__”
 >
 > — "Crows" - Game tutorial tip
 
@@ -45,17 +40,17 @@ Periodically, [Crow Feathers](./Crow%20Feather.md) will fall to the ground under
 
 |  | Carcass | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![](../assets/Crow_Feather_icon.png) / *Crow\_Feather\_icon.png* | [Rabbit Carcass](./Rabbit%20Carcass.md) | 0 | Always |
-| ![](../assets/Crow_Feather_icon.png) / *Crow\_Feather\_icon.png* | [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) | 0 | Always |
-| ![](../assets/Crow_Feather_icon.png) / *Crow\_Feather\_icon.png* | [Frozen Corpse](./Frozen%20Corpse.md) | 3-4 | Always |
-| ![](../assets/Crow_Feather_icon.png) / *Crow\_Feather\_icon.png* | [Wolf Carcass](./Wolf%20Carcass.md) | 3 | Always |
-| ![](../assets/Crow_Feather_icon.png) / *Crow\_Feather\_icon.png* | [Timberwolf Carcass](./Timberwolf%20Carcass.md) | 3 | Always |
-| ![](../assets/Crow_Feather_icon.png) / *Crow\_Feather\_icon.png* | [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) | 3 | Always |
-| ![](../assets/Crow_Feather_icon.png) / *Crow\_Feather\_icon.png* | [Deer Carcass](./Deer%20Carcass.md) | 4 | Always |
-| ![](../assets/Crow_Feather_icon.png) / *Crow\_Feather\_icon.png* | [Cougar Carcass](./Cougar%20Carcass.md) | 4 | Always |
-| ![](../assets/Crow_Feather_icon.png) / *Crow\_Feather\_icon.png* | [Black Bear Carcass](./Black%20Bear%20Carcass.md) | 5 | Always |
-| ![](../assets/Crow_Feather_icon.png) / *Crow\_Feather\_icon.png* | [Moose Carcass](./Moose%20Carcass.md) | 5 | Always |
-| ![](../assets/Crow_Feather_icon.png) / *Crow\_Feather\_icon.png* | [Ravaged Deer Remains](./Ravaged%20Deer%20Remains.md) | 1-2 | Always |
+| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Rabbit Carcass](./Rabbit%20Carcass.md) | 0 | Always |
+| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) | 0 | Always |
+| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Frozen Corpse](./Frozen%20Corpse.md) | 3-4 | Always |
+| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Wolf Carcass](./Wolf%20Carcass.md) | 3 | Always |
+| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Timberwolf Carcass](./Timberwolf%20Carcass.md) | 3 | Always |
+| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) | 3 | Always |
+| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Deer Carcass](./Deer%20Carcass.md) | 4 | Always |
+| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Cougar Carcass](./Cougar%20Carcass.md) | 4 | Always |
+| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Black Bear Carcass](./Black%20Bear%20Carcass.md) | 5 | Always |
+| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Moose Carcass](./Moose%20Carcass.md) | 5 | Always |
+| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Ravaged Deer Remains](./Ravaged%20Deer%20Remains.md) | 1-2 | Always |
 
 ## Behavior
 
@@ -69,15 +64,30 @@ Occasionally a group of crows will be seen flying in "V" formation in a straight
 
 ## Trivia
 
-- Crows appear to be based off the [American Crow](https://en.wikipedia.org/wiki/American_crow) (***Corvus brachyrhynchos***), a species of Passeriformes found all across North America.
+- Crows appear to be based off the [American Crow](https://en.wikipedia.org/wiki/American_crow) (**_Corvus brachyrhynchos_**), a species of Passeriformes found all across North America.
 - In various points throughout [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md), a single crow can be spotted perched upon an object (such as a log or stump) in area the player is required to pass through. The crow remain in place but will fly off when approached, and like all crows cannot be harmed. This is the only time a single crow appears by itself, as they typically fly around the map/ fly over dead bodies in groups only.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Steam Trading Card](../assets/Murder_of_Crows_Steam_Card_Preview.png) / *Steam Trading Card* | ![Ditto, full screen](../assets/Muder_of_Crows_Steam_Card.jpg) / *Ditto, full screen* | ![Steam Badge](../assets/Steam_Crow_Badge.png) / *Steam Badge* | ![Crows circle above a frozen corpse.](../assets/Crows.jpg) / *Crows circle above a frozen corpse.* |
-| ![Crows in the sky against the sun, circle above a corpse.](../assets/Crows_against_the_sun.jpg) / *Crows in the sky against the sun, circle above a corpse.* |  |  |  |
+![Steam Trading Card](../assets/Murder_of_Crows_Steam_Card_Preview.png)
+
+_Steam Trading Card_
+
+![Ditto, full screen](../assets/Muder_of_Crows_Steam_Card.jpg)
+
+_Ditto, full screen_
+
+![Steam Badge](../assets/Steam_Crow_Badge.png)
+
+_Steam Badge_
+
+![Crows circle above a frozen corpse.](../assets/Crows.jpg)
+
+_Crows circle above a frozen corpse._
+
+![Crows in the sky against the sun, circle above a corpse.](../assets/Crows_against_the_sun.jpg)
+
+_Crows in the sky against the sun, circle above a corpse._
 
 ## Update history
 
@@ -99,7 +109,5 @@ Occasionally a group of crows will be seen flying in "V" formation in a straight
 
 - UPDATE **22 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.065)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Ворон](ru:%D0%92%D0%BE%D1%80%D0%BE%D0%BD)

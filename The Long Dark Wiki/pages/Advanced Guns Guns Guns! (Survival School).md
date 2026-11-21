@@ -1,19 +1,14 @@
----
-title: "Advanced Guns Guns Guns! (Survival School)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Advanced_Guns_Guns_Guns!_(Survival_School)"
----
-
 # Advanced Guns Guns Guns\! \(Survival School\)
 
-*For the version encountered in [Survival Mode](./Survival%20Mode.md), see [Advanced Guns Guns Guns!](./Advanced%20Guns%20Guns%20Guns!.md).*
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Advanced_Guns_Guns_Guns!_%28Survival_School%29)
+
+_For the version encountered in [Survival Mode](./Survival%20Mode.md), see [Advanced Guns Guns Guns!](./Advanced%20Guns%20Guns%20Guns!.md)._
 
 **Advanced: Guns Guns Guns!**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Advanced_Guns_Guns_Guns!_icon.png) / *Advanced\_Guns\_Guns\_Guns!\_icon.png* |
+|  | ![](../assets/Advanced_Guns_Guns_Guns!_icon.png) / _Advanced\_Guns\_Guns\_Guns!\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Survival School](./Survival%20School.md) |
 | **Properties** |  |
@@ -31,5 +26,3 @@ source: "https://thelongdark.fandom.com/wiki/Advanced_Guns_Guns_Guns!_(Survival_
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Rifle Ammunition"
-wiki_namespace: 0
-categories: ["Tools"]
-source: "https://thelongdark.fandom.com/wiki/Rifle_Ammunition"
----
-
 # Rifle Ammunition
+
+**Categories:** Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rifle_Ammunition)
 
 **Contents**
 
@@ -20,8 +15,8 @@ source: "https://thelongdark.fandom.com/wiki/Rifle_Ammunition"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Box](../assets/Rifle_Ammunition_icon.png) / *Box* \| ![Cartridge](../assets/Rifle_Cartridge_icon.png) / *Cartridge* \| / \| --- \| --- \| | 250px\]\] |
-| ![Box](../assets/Rifle_Ammunition_icon.png) / *Box* | ![Cartridge](../assets/Rifle_Cartridge_icon.png) / *Cartridge* |
+| \[\[File: / ![Box](../assets/Rifle_Ammunition_icon.png) / _Box_ / ![Cartridge](../assets/Rifle_Cartridge_icon.png) / _Cartridge_ | 250px\]\] |
+| ![Box](../assets/Rifle_Ammunition_icon.png) / _Box_ | ![Cartridge](../assets/Rifle_Cartridge_icon.png) / _Cartridge_ |
 | **General** |  |
 | Item Type |  |
 | Wintermute | No |
@@ -29,15 +24,15 @@ source: "https://thelongdark.fandom.com/wiki/Rifle_Ammunition"
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.02 kg(0.04 lbs) |
 
-> “**A box of rifle cartridges.**”
+> “__A box of rifle cartridges.__”
 >
 > — Boxed ammo In-game description
 
-> “**A single .303 rifle cartridge.**”
+> “__A single .303 rifle cartridge.__”
 >
 > — Single cartridge In-game description
 
-**Rifle Ammunition** and **Rifle Cartridge** is .303 ammunition for the [Hunting Rifle](./Hunting%20Rifle.md). It can be found as a single round, or in boxes of 5. It can also be crafted at an [Ammunition Work Bench](./Ammunition%20Work%20Bench.md). The box is branded as a product called *Bullseye*.
+**Rifle Ammunition** and **Rifle Cartridge** is .303 ammunition for the [Hunting Rifle](./Hunting%20Rifle.md). It can be found as a single round, or in boxes of 5. It can also be crafted at an [Ammunition Work Bench](./Ammunition%20Work%20Bench.md). The box is branded as a product called _Bullseye_.
 
 ## Overview
 
@@ -104,8 +99,14 @@ Ammunition that is found in the game world will always be in "Perfect" condition
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Old Rifle ammunition box](../assets/Rifleammooldmodel.png) / *Old Rifle ammunition box* | ![Current Cartridge model](../assets/Rifle_round.png) / *Current Cartridge model* | ![Old Rifle Cartridge model](../assets/Rifle_Cartridge_Old.png) / *Old Rifle Cartridge model* |
+![Old Rifle ammunition box](../assets/Rifleammooldmodel.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Патроны\_для\_ружья](ru:%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B_%D0%B4%D0%BB%D1%8F_%D1%80%D1%83%D0%B6%D1%8C%D1%8F)
+_Old Rifle ammunition box_
+
+![Current Cartridge model](../assets/Rifle_round.png)
+
+_Current Cartridge model_
+
+![Old Rifle Cartridge model](../assets/Rifle_Cartridge_Old.png)
+
+_Old Rifle Cartridge model_

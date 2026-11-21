@@ -1,17 +1,12 @@
----
-title: "Rim Grill"
-wiki_namespace: 0
-categories: ["Fire Starting", "Interactable objects", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Rim_Grill"
----
-
 # Rim Grill
+
+**Categories:** Fire Starting, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rim_Grill)
 
 **Rim Grill**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Screen_ab2c5b97-8817-4398-a5b1-fb4b96024b93_hi.png) / *screen\_ab2c5b97-8817-4398-a5b1-fb4b96024b93\_hi.png* |
+|  | ![](../assets/Screen_ab2c5b97-8817-4398-a5b1-fb4b96024b93_hi.png) / _screen\_ab2c5b97-8817-4398-a5b1-fb4b96024b93\_hi.png_ |
 | **Statistics** |  |
 | Cooking slots | 2 |
 
@@ -27,8 +22,6 @@ In [Wintermute](./Wintermute.md), [Methuselah](./Methuselah.md) uses a Rim Grill
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![The rim grill in the cabin](../assets/Screen_ab2c5b97-8817-4398-a5b1-fb4b96024b93_hi.png) / *The rim grill in the cabin* |
+![The rim grill in the cabin](../assets/Screen_ab2c5b97-8817-4398-a5b1-fb4b96024b93_hi.png)
 
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Гриль](ru:%D0%93%D1%80%D0%B8%D0%BB%D1%8C)
+_The rim grill in the cabin_

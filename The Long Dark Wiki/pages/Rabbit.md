@@ -1,11 +1,6 @@
----
-title: "Rabbit"
-wiki_namespace: 0
-categories: ["Pages with update history", "Wildlife"]
-source: "https://thelongdark.fandom.com/wiki/Rabbit"
----
-
 # Rabbit
+
+**Categories:** Pages with update history, Wildlife · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rabbit)
 
 **Contents**
 
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Rabbit"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rabbit.png) / *Rabbit.png* |
+|  | ![](../assets/Rabbit.png) / _Rabbit.png_ |
 | **Basic Information** |  |
 | Release | [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.152) |
 | Role | Prey |
@@ -48,9 +43,9 @@ When killed, a [Rabbit Carcass](./Rabbit%20Carcass.md) can be butchered on the s
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![](../assets/Rabbit_%28Raw%29_icon.png) / *Rabbit\_(Raw)\_icon.png* | [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) | 1 - 2 | Always[¹](#fn1) |
-| ![](../assets/Fresh_Rabbit_Pelt_icon.png) / *Fresh\_Rabbit\_Pelt\_icon.png* | [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md) | 1 | Always |
-| \[Missing image: Gut\_icon.png\] / *Gut\_icon.png* | [Fresh Gut](./Fresh%20Gut.md) | 1 | Always |
+| ![](../assets/Rabbit_%28Raw%29_icon.png) / _Rabbit\_(Raw)\_icon.png_ | [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) | 1 - 2 | Always[¹](#fn1) |
+| ![](../assets/Fresh_Rabbit_Pelt_icon.png) / _Fresh\_Rabbit\_Pelt\_icon.png_ | [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md) | 1 | Always |
+| \[Missing image: Gut\_icon.png\] / _Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 1 | Always |
 |  |  |  |  |
 
 ## Behaviour
@@ -86,7 +81,7 @@ Rabbits have minimal interaction with other animals, besides being eaten by wolv
 
 ## Hunting
 
-![A dead rabbit, caught in a snare.](../assets/Caught_Rabbit.png)*A dead rabbit, caught in a snare.* Due to their small size and quick movement, precision is required to [hunt](./Hunting.md) rabbits. A single hit with a [Simple Arrow](./Simple%20Arrow.md), [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md), [Rifle Ammunition](./Rifle%20Ammunition.md) round, or [Revolver Ammunition](./Revolver%20Ammunition.md) round will instantly kill a rabbit, whereas a [Stone](./Stone.md) will stun it for 5 seconds. Once stunned, the Rabbit can be collected to either release the animal or kill it; killing the rabbit will provide its harvestable carcass as an item in the inventory.
+![A dead rabbit, caught in a snare.](../assets/Caught_Rabbit.png)_A dead rabbit, caught in a snare._ Due to their small size and quick movement, precision is required to [hunt](./Hunting.md) rabbits. A single hit with a [Simple Arrow](./Simple%20Arrow.md), [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md), [Rifle Ammunition](./Rifle%20Ammunition.md) round, or [Revolver Ammunition](./Revolver%20Ammunition.md) round will instantly kill a rabbit, whereas a [Stone](./Stone.md) will stun it for 5 seconds. Once stunned, the Rabbit can be collected to either release the animal or kill it; killing the rabbit will provide its harvestable carcass as an item in the inventory.
 
 [Trapping](./Trapping.md) with crafted [snares](./Snare.md) is a passive way to hunt rabbits. To use a snare, it must be placed (not merely dropped) inside of a Rabbit Grove. Rabbits may still be captured by a placed snare in a grove, even if no rabbits are currently spawned. Deployed snares in a grove may catch a rabbit, fail to catch, or even become ruined. Rabbit carcasses caught by snares will decay over time, disappearing when they reach 0% condition.
 
@@ -102,13 +97,17 @@ Rabbits have minimal interaction with other animals, besides being eaten by wolv
 
 ## Trivia
 
-- Rabbits appear to be based off the [Cottontailed Rabbit](https://en.wikipedia.org/wiki/Cottontail_rabbit) (***Lepus sylvaticus***), a species of Lagamorphia found throughout North and Central America.
+- Rabbits appear to be based off the [Cottontailed Rabbit](https://en.wikipedia.org/wiki/Cottontail_rabbit) (**_Lepus sylvaticus_**), a species of Lagamorphia found throughout North and Central America.
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Old model of rabbit](../assets/Rabbit.jpg) / *Old model of rabbit* | ![Steam Badge](../assets/Steam_Rabbit_Badge.png) / *Steam Badge* |
+![Old model of rabbit](../assets/Rabbit.jpg)
+
+_Old model of rabbit_
+
+![Steam Badge](../assets/Steam_Rabbit_Badge.png)
+
+_Steam Badge_
 
 ## Update history
 
@@ -153,8 +152,6 @@ Rabbits have minimal interaction with other animals, besides being eaten by wolv
   - All wildlife spawns are now more dynamic, and will change over the course of a game. Wolves, Deer, and Rabbits all refresh on different intervals, reflecting their relative mobility and travel/migration patterns.
   - You can now craft Snares at the Workbench. If placed in the world wherever you see Rabbits, there is a chance you will capture a Rabbit every 12 hours.
   - There are now Rabbits in the game.
-
-**Lua execution error in Module:Navbox function navbox** [es:Conejo](es:Conejo) [ru:Кролик](ru:%D0%9A%D1%80%D0%BE%D0%BB%D0%B8%D0%BA)
 
 ## Notes
 

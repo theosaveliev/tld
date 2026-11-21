@@ -1,19 +1,14 @@
----
-title: "Blocked Bridge"
-wiki_namespace: 0
-categories: ["Blackrock", "Landmarks", "Locations", "Locations in Blackrock", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Blocked_Bridge"
----
-
 # Blocked Bridge
+
+**Categories:** Blackrock, Landmarks, Locations, Locations in Blackrock, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blocked_Bridge)
 
 **Blocked Bridge**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Blockedbridge.jpg) / *Blockedbridge.jpg* |
+|  | ![](../assets/Blockedbridge.jpg) / _Blockedbridge.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Blocked_Bridge_Location.png) / *Blocked\_Bridge\_Location.png* |
+|  | ![](../assets/Blocked_Bridge_Location.png) / _Blocked\_Bridge\_Location.png_ |
 | Region |  |
 | **General** |  |
 | Type | Landmark\|- |

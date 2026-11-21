@@ -1,10 +1,6 @@
----
-title: "Cooper"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Cooper"
----
-
 # Cooper
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cooper)
 
 **Contents**
 
@@ -19,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Cooper"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Coopr.jpg) / *Coopr.jpg* |
+|  | ![](../assets/Coopr.jpg) / _Coopr.jpg_ |
 | Release | [2.52](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Date | 6 October 2021 |
 | Wintermute | [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
@@ -31,13 +27,13 @@ source: "https://thelongdark.fandom.com/wiki/Cooper"
 | **Game Information** |  |
 | Voiced by | Shawn Youngchief |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
-> “**Welcome to Cooper's! Haven't seen you around here before.**”
+> “__Welcome to Cooper's! Haven't seen you around here before.__”
 >
 > — Cooper greeting Astrid
 
-**Cooper** is a minor character that appears in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) in [*The Long Dark*](./The%20Long%20Dark.md).
+**Cooper** is a minor character that appears in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Appearance
 
@@ -51,7 +47,7 @@ A resident of [Perseverance Mills](./Perseverance%20Mills.md), Cooper is the bar
 
 ### [Perseverance](./Perseverance.md)
 
-> “**Every day, another "refugee" from the cold, or three, showing up and camping out here at the bar... \[\] I'm happy to be able to help. As long as there's wood for the fireplace and booze for the patrons, that is.**”
+> “__Every day, another "refugee" from the cold, or three, showing up and camping out here at the bar... \[\] I'm happy to be able to help. As long as there's wood for the fireplace and booze for the patrons, that is.__”
 >
 > — Cooper speaking about the Bar Patrons
 
@@ -59,7 +55,7 @@ A resident of [Perseverance Mills](./Perseverance%20Mills.md), Cooper is the bar
 
 ### [A Cry For Help](./A%20Cry%20For%20Help.md)
 
-> “**She looks cold. Give her a whiskey!**”
+> “__She looks cold. Give her a whiskey!__”
 >
 > — Cooper offering to help warm Astrid up
 
@@ -69,8 +65,14 @@ Cooper does not make any other appearance after this point, but is presumed to h
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Cooper at the bar.](../assets/Cooper_at_bar.jpg) / *Cooper at the bar.* | ![Cooper handing a Bar Patron a whiskey to give to Astrid.](../assets/Cooper_giving_whiskey.jpg) / *Cooper handing a Bar Patron a whiskey to give to Astrid.* | ![Cooper listening to Astrid's story.](../assets/Cooper.jpg) / *Cooper listening to Astrid's story.* |
+![Cooper at the bar.](../assets/Cooper_at_bar.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_Cooper at the bar._
+
+![Cooper handing a Bar Patron a whiskey to give to Astrid.](../assets/Cooper_giving_whiskey.jpg)
+
+_Cooper handing a Bar Patron a whiskey to give to Astrid._
+
+![Cooper listening to Astrid's story.](../assets/Cooper.jpg)
+
+_Cooper listening to Astrid's story._

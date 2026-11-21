@@ -1,11 +1,6 @@
----
-title: "Granola Bar"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Granola_Bar"
----
-
 # Granola Bar
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Granola_Bar)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Granola_Bar"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Granola_Bar_icon.png) / *Granola\_Bar\_icon.png* |
+|  | ![](../assets/Granola_Bar_icon.png) / _Granola\_Bar\_icon.png_ |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
@@ -34,7 +29,7 @@ source: "https://thelongdark.fandom.com/wiki/Granola_Bar"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_GranolaBar |
 
-**Granola Bar** is a packaged [food](./Food%20And%20Drink.md) item in [*The Long Dark*](./The%20Long%20Dark.md).
+**Granola Bar** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
@@ -44,18 +39,16 @@ Granola Bars can cause [Food Poisoning](./Food%20Poisoning.md), but [decays](./D
 
 ## Trivia
 
-- The granola bar is packaged as a product called "*Crunchy Stuff"*, and it is "fat free!"
+- The granola bar is packaged as a product called "_Crunchy Stuff"_, and it is "fat free!"
 - The back of the wrapper lists "Ingredients: Rolled Oats, Honey, Almonds, Pecan, Salt, Cinnamon, Tocopherols."
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model](../assets/Granola_bar.png) / *Old model* |
+![Old model](../assets/Granola_bar.png)
+
+_Old model_
 
 ## Update history
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Злаковый батончик](ru:%D0%97%D0%BB%D0%B0%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B1%D0%B0%D1%82%D0%BE%D0%BD%D1%87%D0%B8%D0%BA)

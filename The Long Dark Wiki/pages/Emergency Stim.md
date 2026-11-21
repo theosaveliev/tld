@@ -1,11 +1,6 @@
----
-title: "Emergency Stim"
-wiki_namespace: 0
-categories: ["First Aid", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Emergency_Stim"
----
-
 # Emergency Stim
+
+**Categories:** First Aid, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Emergency_Stim)
 
 **Contents**
 
@@ -22,7 +17,7 @@ source: "https://thelongdark.fandom.com/wiki/Emergency_Stim"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Emergency_Stim_icon.png) / *Emergency\_Stim\_icon.png* |
+|  | ![](../assets/Emergency_Stim_icon.png) / _Emergency\_Stim\_icon.png_ |
 | Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321) |
 | Wintermute | No |
 | Renewable | Yes ( [Trader](./Trader.md) and rare [Beachcombing](./Beachcombing.md)) No ([Interloper](./Interloper.md)) |
@@ -33,7 +28,7 @@ source: "https://thelongdark.fandom.com/wiki/Emergency_Stim"
 | **Values** |  |
 | Weight | 0.10 kg (0.22 lbs) |
 
-**Emergency Stim** is a [First Aid](./First%20Aid.md) item in *The Long Dark*. Upon use, it will restore some of the survivor's [Condition](./Condition.md) and grant them unlimited energy for sprinting and rope climbing for one minute.
+**Emergency Stim** is a [First Aid](./First%20Aid.md) item in _The Long Dark_. Upon use, it will restore some of the survivor's [Condition](./Condition.md) and grant them unlimited energy for sprinting and rope climbing for one minute.
 
 ## Overview
 
@@ -84,9 +79,17 @@ Emergency Stims may be found rarely in most regions (8-10 across an entire world
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![An emergency stim when equipped](../assets/Emergency_stim_equipped.jpg) / *An emergency stim when equipped* | ![An emergency stim when equipped (old version)](../assets/Emergency_stim_equipped.png) / *An emergency stim when equipped (old version)* | ![Stim location inside the train wagon in lower section of Ravine, on Interloper/ Misery difficulty. One of the few guaranteed outdoor stims available.](../assets/Tld-int-rav-stim.jpg) / *Stim location inside the train wagon in lower section of Ravine, on Interloper/ Misery difficulty. One of the few guaranteed outdoor stims available.* |
+![An emergency stim when equipped](../assets/Emergency_stim_equipped.jpg)
+
+_An emergency stim when equipped_
+
+![An emergency stim when equipped (old version)](../assets/Emergency_stim_equipped.png)
+
+_An emergency stim when equipped (old version)_
+
+![Stim location inside the train wagon in lower section of Ravine, on Interloper/ Misery difficulty. One of the few guaranteed outdoor stims available.](../assets/Tld-int-rav-stim.jpg)
+
+_Stim location inside the train wagon in lower section of Ravine, on Interloper/ Misery difficulty. One of the few guaranteed outdoor stims available._
 
 ## Trivia
 
@@ -99,5 +102,3 @@ Emergency Stims may be found rarely in most regions (8-10 across an entire world
 
 - UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Шприц первой помощи](ru:%D0%A8%D0%BF%D1%80%D0%B8%D1%86_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%B8)

@@ -1,11 +1,6 @@
----
-title: "Branch"
-wiki_namespace: 0
-categories: ["Interactable Objects", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Branch"
----
-
 # Branch
+
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Branch)
 
 ## Overview
 
@@ -13,7 +8,7 @@ source: "https://thelongdark.fandom.com/wiki/Branch"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Branch.png) / *Branch.png* |
+|  | ![](../assets/Branch.png) / _Branch.png_ |
 | **General** |  |
 | Item Type |  |
 | Wintermute | Yes\|- |
@@ -30,5 +25,3 @@ They yield 3 [Sticks](./Stick.md) giving you 24 minutes of fire.
 | 3 | 10 minutes | 31 | -0% by Hand |
 | 3 | 5 minutes | 15 | -2% Hatchet |
 | 3 | 7 minutes | 20 | -3% Improvised Hatchet |
-
-**Lua execution error in Module:Navbox function navbox** [ru:Ветка](ru:%D0%92%D0%B5%D1%82%D0%BA%D0%B0)

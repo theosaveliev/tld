@@ -1,17 +1,12 @@
----
-title: "Logging Camp Trailer Key"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Logging_Camp_Trailer_Key"
----
-
 # Logging Camp Trailer Key
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Logging_Camp_Trailer_Key)
 
 **Logging Camp Trailer Key**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Logging_Camp_Trailer_Key_icon.png) / *Logging\_Camp\_Trailer\_Key\_icon.png* |
+|  | ![](../assets/Logging_Camp_Trailer_Key_icon.png) / _Logging\_Camp\_Trailer\_Key\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Lake Gunshots](./Lake%20Gunshots.md) |
 | **Properties** |  |
@@ -30,5 +25,3 @@ source: "https://thelongdark.fandom.com/wiki/Logging_Camp_Trailer_Key"
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

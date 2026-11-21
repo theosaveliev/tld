@@ -1,17 +1,12 @@
----
-title: "Park Warning Notice"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Park_Warning_Notice"
----
-
 # Park Warning Notice
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Park_Warning_Notice)
 
 **Park Warning Notice**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Park_Warning_Notice_icon.png) / *Park\_Warning\_Notice\_icon.png* |
+|  | ![](../assets/Park_Warning_Notice_icon.png) / _Park\_Warning\_Notice\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Properties** |  |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Park_Warning_Notice"
 
 ## Transcript
 
-*The following text is transcribed from **Park Warning Notice***
+_The following text is transcribed from **Park Warning Notice**_
 
 **Due to the unfortunate accident, the Milton &amp; Area Parks Board can no longer condone the use of the climbing area within the park boundaries. Additionally, recent seismic activity has brought the safety of several some (sic) common routes and climbing sections into question. We are reviewing safety policies and will publish findings as soon as possible. Until then, please refrain from using designated climbing areas in the Park. - Signed, M. Antonides, Milton &amp; Area parks Board.**
 
@@ -35,5 +30,3 @@ source: "https://thelongdark.fandom.com/wiki/Park_Warning_Notice"
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

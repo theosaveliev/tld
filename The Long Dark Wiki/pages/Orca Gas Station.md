@@ -1,11 +1,6 @@
----
-title: "Orca Gas Station"
-wiki_namespace: 0
-categories: ["Indoor locations", "Locations", "Locations in Mountain Town", "Store locations"]
-source: "https://thelongdark.fandom.com/wiki/Orca_Gas_Station"
----
-
 # Orca Gas Station
+
+**Categories:** Indoor locations, Locations, Locations in Mountain Town, Store locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Orca_Gas_Station)
 
 **Contents**
 
@@ -18,9 +13,9 @@ source: "https://thelongdark.fandom.com/wiki/Orca_Gas_Station"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/SS-MT-Orca-04.jpg) / *SS-MT-Orca-04.jpg* |
+|  | ![](../assets/SS-MT-Orca-04.jpg) / _SS-MT-Orca-04.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Orca_Gas_Station_Location.png) / *Orca\_Gas\_Station\_Location.png* |
+|  | ![](../assets/Orca_Gas_Station_Location.png) / _Orca\_Gas\_Station\_Location.png_ |
 | Region | [Mountain Town](./Mountain%20Town.md)\|- |
 | Description | An abandoned gas station |
 | **General** |  |
@@ -47,13 +42,26 @@ Additionally, there is a [Rabbit](./Rabbit.md) grove nearby (in the [Milton Park
 
 Upon meeting [Grey Mother](./Grey%20Mother.md) she will suggest to [Will Mackenzie](./Will%20Mackenzie.md) to visit the local gas station for supplies.
 
-The gas station also serves as a prime example of the already dire situation of the people of Great Bear prior to the [First Flare](./First%20Flare.md). Gas prices appear to have been extremely high, and, ultimately, gasoline seems to have run out entirely based on the red X's on the gas station sign. Comments from characters and notes/signs throughout the store and other buildings in town (mostly in Story mode) also suggest cash had been depleted and that even staples such as milk were hard to come by. The island seem to have suffered some of the worst effects of the wider economic crisis in *The Long Dark* universe.
+The gas station also serves as a prime example of the already dire situation of the people of Great Bear prior to the [First Flare](./First%20Flare.md). Gas prices appear to have been extremely high, and, ultimately, gasoline seems to have run out entirely based on the red X's on the gas station sign. Comments from characters and notes/signs throughout the store and other buildings in town (mostly in Story mode) also suggest cash had been depleted and that even staples such as milk were hard to come by. The island seem to have suffered some of the worst effects of the wider economic crisis in _The Long Dark_ universe.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![The Gas Station, looking towards Milton](../assets/Orca_Gas_Station.jpg) / *The Gas Station, looking towards [Milton](./Milton.md)* | ![](../assets/Orca_gas_station_sign.png) / *Orca\_gas\_station\_sign.png* | ![](../assets/SS-MT-Orca-03.jpg) / *SS-MT-Orca-03.jpg* | ![](../assets/SS-MT-Orca-02.jpg) / *SS-MT-Orca-02.jpg* |
-| ![](../assets/Orca_Gas_Station_sign.jpg) / *Orca\_Gas\_Station\_sign.jpg* |  |  |  |
+![The Gas Station, looking towards Milton](../assets/Orca_Gas_Station.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:АЗС "Косатка"](ru:%D0%90%D0%97%D0%A1_"%D0%9A%D0%BE%D1%81%D0%B0%D1%82%D0%BA%D0%B0") [es:Gasolinera orca](es:Gasolinera_orca)
+_The Gas Station, looking towards [Milton](./Milton.md)_
+
+![](../assets/Orca_gas_station_sign.png)
+
+_Orca\_gas\_station\_sign.png_
+
+![](../assets/SS-MT-Orca-03.jpg)
+
+_SS-MT-Orca-03.jpg_
+
+![](../assets/SS-MT-Orca-02.jpg)
+
+_SS-MT-Orca-02.jpg_
+
+![](../assets/Orca_Gas_Station_sign.jpg)
+
+_Orca\_Gas\_Station\_sign.jpg_

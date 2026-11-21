@@ -1,11 +1,6 @@
----
-title: "Stick"
-wiki_namespace: 0
-categories: ["Fire Starting", "Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Stick"
----
-
 # Stick
+
+**Categories:** Fire Starting, Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stick)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Stick"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Stick_icon.png) / *Stick\_icon.png* |
+|  | ![](../assets/Stick_icon.png) / _Stick\_icon.png_ |
 | Release | [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Stick"
 | **Values** |  |
 | Weight | 0.15 kg (0.33 lbs) |
 
-**Sticks** are a crafting material and fuel material in *The Long Dark*.
+**Sticks** are a crafting material and fuel material in _The Long Dark_.
 
 ## Fire Starting info
 
@@ -63,13 +58,11 @@ It's commonly believed that sticks respawn after strong winds or blizzards, but 
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![An arrow for navigation purposes made out of four sticks.](../assets/ArrowMadeOfSticks.png) / *An arrow for navigation purposes made out of four sticks.* |
+![An arrow for navigation purposes made out of four sticks.](../assets/ArrowMadeOfSticks.png)
+
+_An arrow for navigation purposes made out of four sticks._
 
 ## Update history
 
 - UPDATE **1 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [es:palo](es:palo) [ru:Палка](ru:%D0%9F%D0%B0%D0%BB%D0%BA%D0%B0)

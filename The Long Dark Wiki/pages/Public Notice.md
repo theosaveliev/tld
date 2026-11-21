@@ -1,17 +1,12 @@
----
-title: "Public Notice"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Public_Notice"
----
-
 # Public Notice
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Public_Notice)
 
 **Public Notice**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Public_Notice_icon.png) / *Public\_Notice\_icon.png* |
+|  | ![](../assets/Public_Notice_icon.png) / _Public\_Notice\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Properties** |  |
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Public_Notice"
 
 ## Transcript
 
-*The following text is transcribed from **Public Notice***
+_The following text is transcribed from **Public Notice**_
 
 **June 30th, 2012
 
@@ -42,5 +37,3 @@ Great Bear Water Authority**
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

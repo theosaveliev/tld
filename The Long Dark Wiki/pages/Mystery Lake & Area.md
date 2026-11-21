@@ -1,17 +1,12 @@
----
-title: "Mystery Lake & Area"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Mystery_Lake_%26_Area"
----
-
 # Mystery Lake & Area
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mystery_Lake_%26_Area)
 
 **Mystery Lake &amp; Area**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mystery_Lake_%26_Area_icon.png) / *Mystery\_Lake\_&amp;\_Area\_icon.png* |
+|  | ![](../assets/Mystery_Lake_%26_Area_icon.png) / _Mystery\_Lake\_&amp;\_Area\_icon.png_ |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -29,7 +24,7 @@ It is found on top of a [Cupboard](./Cupboard.md) in the [Camp Office](./Camp%20
 
 ## Transcript
 
-*The following text is transcribed from **Mystery Lake &amp; Area***
+_The following text is transcribed from **Mystery Lake &amp; Area**_
 
 **The Mystery Lake region is an Alpine valley, average altitude of 1200 meters above sea level, named for the large lake that dominates its South-Eastern quadrant. The region is fringed by mountains on the West and South, and the foothills of the Inner Island Range to the North and East. The region is bisected by a section of the North-South line of the Trans-Island Railway.
 
@@ -49,5 +44,3 @@ To this day, apart from the railway line that passes through, the only connectio
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

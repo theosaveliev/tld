@@ -1,20 +1,15 @@
----
-title: "Something Wicked"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Something_Wicked"
----
-
 # Something Wicked
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Something_Wicked)
 
 **Something Wicked**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Something_Wicked_icon.png) / *Something\_Wicked\_icon.png* |
+|  | ![](../assets/Something_Wicked_icon.png) / _Something\_Wicked\_icon.png_ |
 | Description | Survive 1000 days in a single Survival Mode game without Cheating Death. |
 
-**Something Wicked** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Something Wicked** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -36,5 +31,3 @@ The achievement name is an [Easter Egg](./Easter%20Eggs.md) reference to a quote
 - Its meaning is that a monster of a man approaches.
   - The monster in this case being what the player character most likely becomes after doing what they must to survive, eventually conquering Great Bear Island across a 1000 day campaign without dying, after a civilizational ending apocalyptical event no less.
   - The icon for the achievement is that of a Reaper, a tool often associated with the personification of Death, also known as the Grim Reaper.
-
-**Lua execution error in Module:Navbox function navbox**

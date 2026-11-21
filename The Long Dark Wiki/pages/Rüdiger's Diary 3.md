@@ -1,17 +1,12 @@
----
-title: "Rüdiger's Diary 3"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_3"
----
-
 # Rüdiger's Diary 3
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_3)
 
 **Rüdiger's Diary 3**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/R%C3%BCdiger%27s_Diary_3_icon.png) / *Rüdiger's\_Diary\_3\_icon.png* |
+|  | ![](../assets/R%C3%BCdiger%27s_Diary_3_icon.png) / _Rüdiger's\_Diary\_3\_icon.png_ |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Wintermute | No |
 | **Properties** |  |
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_3"
 
 ## Transcript
 
-*The following text is transcribed from **Rüdiger's Diary 3***
+_The following text is transcribed from **Rüdiger's Diary 3**_
 
 **Just waiting now. Trapped in squalor, brought low by my ambition.
 
@@ -45,7 +40,5 @@ Based on my current condition, I overestimated my chances.**
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Дневник Рюдигера 3](ru:%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D0%A0%D1%8E%D0%B4%D0%B8%D0%B3%D0%B5%D1%80%D0%B0_3)

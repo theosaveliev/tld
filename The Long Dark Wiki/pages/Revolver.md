@@ -1,11 +1,6 @@
----
-title: "Revolver"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Revolver"
----
-
 # Revolver
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Revolver)
 
 **Contents**
 
@@ -42,7 +37,7 @@ source: "https://thelongdark.fandom.com/wiki/Revolver"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Revolver_icon.png) / *Revolver\_icon.png* |
+|  | ![](../assets/Revolver_icon.png) / _Revolver\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | Renewable | Yes ([Trader](./Trader.md) only) |
@@ -51,17 +46,17 @@ source: "https://thelongdark.fandom.com/wiki/Revolver"
 | Harvest | Unharvestable |
 | Repair | [Firearm cleaning kit](./Firearm%20Cleaning%20Kit.md) |
 
-> “**A powerful handgun, the Revolver has great stopping power in defensive situations. Not a Hunting weapon.**”
+> “__A powerful handgun, the Revolver has great stopping power in defensive situations. Not a Hunting weapon.__”
 >
 > — In-game description
 
-*This article is about the normal revolver. For variants, see [Hunter's Revolver](./Hunter%27s%20Revolver.md), [Forester's Revolver](./Forester%27s%20Revolver.md), and [Warden's Revolver](./Warden%27s%20Revolver.md).*
+_This article is about the normal revolver. For variants, see [Hunter's Revolver](./Hunter%27s%20Revolver.md), [Forester's Revolver](./Forester%27s%20Revolver.md), and [Warden's Revolver](./Warden%27s%20Revolver.md)._
 
-The **Revolver** is a double-action weapon with a six-round cylinder used primarily for self-defense against hostile wildlife. The [Revolver Firearm](./Revolver%20Firearm.md) Skill is improved when a living animal is hit, or by reading the [Research Book](./Research%20Book.md) *Small Arms Handbook.*
+The **Revolver** is a double-action weapon with a six-round cylinder used primarily for self-defense against hostile wildlife. The [Revolver Firearm](./Revolver%20Firearm.md) Skill is improved when a living animal is hit, or by reading the [Research Book](./Research%20Book.md) _Small Arms Handbook._
 
 ## Overview
 
-The Revolver is the second firearm added to [*The Long Dark*](./The%20Long%20Dark.md), and unlike its counterparts the [Hunting Rifle](./Hunting%20Rifle.md) and the [Survival Bow](./Survival%20Bow.md), it is less than ideal for hunting with limited damage, range, and accuracy.
+The Revolver is the second firearm added to [_The Long Dark_](./The%20Long%20Dark.md), and unlike its counterparts the [Hunting Rifle](./Hunting%20Rifle.md) and the [Survival Bow](./Survival%20Bow.md), it is less than ideal for hunting with limited damage, range, and accuracy.
 
 It is most effective in defensive situations against hostile wildlife—particularly [Wolves](./Wolf.md) and [Timberwolves](./Timberwolf.md). A hit will nearly always stop a wolf charge (if the wolf isn't killed outright) and inflict great damage on timberwolf pack morale. Even a near-miss will often deter a charging wolf and will somewhat reduce timberwolf pack morale.
 
@@ -119,7 +114,7 @@ Revolvers may be selected for self-defense during a struggle with a Wolf. If sel
 
 At half the struggle bar the option to "Take a shot" will appear during a struggle if the Revolver is loaded; selecting this will fire 1 Revolver Ammunition and end the Struggle immediately, scaring the Wolf or potentially killing it instantly.
 
-- Note: a single non-fatal shot fired at a *charging* wolf will usually not deter it, but multiple have a high chance of a kill as the head of the wolf is the most exposed, making critical hits (headshots) easier. A charging wolf will often flee if several shots are fired in quick succession, even if said shots miss.
+- Note: a single non-fatal shot fired at a _charging_ wolf will usually not deter it, but multiple have a high chance of a kill as the head of the wolf is the most exposed, making critical hits (headshots) easier. A charging wolf will often flee if several shots are fired in quick succession, even if said shots miss.
 
 ## Variants
 
@@ -248,10 +243,25 @@ The Revolver may spawn in any of following locations in all survival modes excep
 
 ### Photos
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![The Revolvers iron sights](../assets/Revolver_Iron_Sights.png) / *The Revolvers iron sights* | ![Revolver Ground Model](../assets/Revolver_Ground_Model.png) / *Revolver Ground Model* | ![](../assets/The_Long_Dark_--_STEADFAST_RANGER_%28Survival_Mode_Update%29) / *The\_Long\_Dark\_--\_STEADFAST\_RANGER\_(Survival\_Mode\_Update)* | ![The unreleased Pre Alpha Revolver, with ammunition and casings](../assets/Pre_Alpha_Revolver.webp) / *The unreleased Pre Alpha Revolver, with ammunition and casings* |
-| ![A Revolver found hidden behind a Grate](../assets/Grate_Revolver.jpg) / *A Revolver found hidden behind a [Grate](./Grate.md)* |  |  |  |
+![The Revolvers iron sights](../assets/Revolver_Iron_Sights.png)
+
+_The Revolvers iron sights_
+
+![Revolver Ground Model](../assets/Revolver_Ground_Model.png)
+
+_Revolver Ground Model_
+
+![](../assets/The_Long_Dark_--_STEADFAST_RANGER_%28Survival_Mode_Update%29.jpg)
+
+_The\_Long\_Dark\_--\_STEADFAST\_RANGER\_(Survival\_Mode\_Update)_
+
+![The unreleased Pre Alpha Revolver, with ammunition and casings](../assets/Pre_Alpha_Revolver.webp)
+
+_The unreleased Pre Alpha Revolver, with ammunition and casings_
+
+![A Revolver found hidden behind a Grate](../assets/Grate_Revolver.jpg)
+
+_A Revolver found hidden behind a [Grate](./Grate.md)_
 
 ### Videos
 
@@ -261,8 +271,6 @@ The Revolver may spawn in any of following locations in all survival modes excep
   - Added to game.
 
 ==References== **Template:reflist**
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Револьвер](ru:%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%8C%D0%B2%D0%B5%D1%80) [fr:Revolver](fr:Revolver)
 

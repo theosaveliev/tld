@@ -1,17 +1,12 @@
----
-title: "Crumpled Note (2)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Crumpled_Note_(2)"
----
-
 # Crumpled Note \(2\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crumpled_Note_%282%29)
 
 **Crumpled Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Crumpled_Note_%282%29_icon.png) / *Crumpled\_Note\_(2)\_icon.png* |
+|  | ![](../assets/Crumpled_Note_%282%29_icon.png) / _Crumpled\_Note\_(2)\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Lake Gunshots](./Lake%20Gunshots.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Crumpled_Note_(2)"
 
 ## Transcript
 
-*The following text is transcribed from **Crumpled Note***
+_The following text is transcribed from **Crumpled Note**_
 
 **...months without pay. Making us deal with those forest crazies. Now they're sending me after them? I've had it. After this trip, I'm done. No matter what. If you're coming to help, meet me on the far side of Mystery Lake, near the summer cabins. We'll start there. Either we...**
 
@@ -38,5 +33,3 @@ source: "https://thelongdark.fandom.com/wiki/Crumpled_Note_(2)"
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

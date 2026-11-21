@@ -1,11 +1,6 @@
----
-title: "Hopeless Rescue"
-wiki_namespace: 0
-categories: ["Challenges"]
-source: "https://thelongdark.fandom.com/wiki/Hopeless_Rescue"
----
-
 # Hopeless Rescue
+
+**Categories:** Challenges · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hopeless_Rescue)
 
 **Contents**
 
@@ -26,29 +21,29 @@ source: "https://thelongdark.fandom.com/wiki/Hopeless_Rescue"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Challenge_HopelessRescue.png) / *Challenge\_HopelessRescue.png* |
+|  | ![](../assets/Challenge_HopelessRescue.png) / _Challenge\_HopelessRescue.png_ |
 | **Details** |  |
 | Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md), [Desolation Point](./Desolation%20Point.md) |
 | Difficulty | 4 |
 | Date Added | April 2016 |
 
-> “**Are you the last person alive? You have to know. If only you could get a signal out to someone...**”
+> “__Are you the last person alive? You have to know. If only you could get a signal out to someone...__”
 >
 > — Main Menu description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Are you the last person alive? You have to know. If only you could get a signal out to someone...  
- Recover the Distress Pistol from the summit of Timberwolf Mountain. Fire it from the top of the Desolation Point Lighthouse.**
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Are you the last person alive? You have to know. If only you could get a signal out to someone...  
+ Recover the Distress Pistol from the summit of Timberwolf Mountain. Fire it from the top of the Desolation Point Lighthouse.__
 
 Opening description
 
 | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}
 
-**Hopeless Rescue** is one of eight [Challenges](./Challenge.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Hopeless Rescue** is one of eight [Challenges](./Challenge.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
-> “**1. Find the Distress Pistol at the summit of Timberwolf Mountain.  
- 2. Travel to the top of the Lighthouse in Desolation Point.**”
+> “__1. Find the Distress Pistol at the summit of Timberwolf Mountain.  
+ 2. Travel to the top of the Lighthouse in Desolation Point.__”
 >
 > — 3. Equip the Distress Pistol. 4. Fire the Distress Pistol. All Journal Objectives
 
@@ -123,12 +118,18 @@ It may be beneficial to intentionally let [Condition](./Condition.md) drain when
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![The badge awarded upon completing the challenge](../assets/Badge_challenge_hopelessRescue.png) / *The badge awarded upon completing the challenge* | ![Fan art](../assets/Hopeless_Rescue.jpg) / *Fan art* | ![Old selection screen banner](../assets/Hopeless_Rescue.png) / *Old selection screen banner* |
+![The badge awarded upon completing the challenge](../assets/Badge_challenge_hopelessRescue.png)
+
+_The badge awarded upon completing the challenge_
+
+![Fan art](../assets/Hopeless_Rescue.jpg)
+
+_Fan art_
+
+![Old selection screen banner](../assets/Hopeless_Rescue.png)
+
+_Old selection screen banner_
 
 ## Game History
 
 - Hopeless Rescue and [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) were introduced on 21 April 2016 in [version 0.321](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321), also known as the Tireless Menace update.
-
-**Lua execution error in Module:Navbox function navbox**[ru:Безнадежное спасение](ru:%D0%91%D0%B5%D0%B7%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D0%B5_%D1%81%D0%BF%D0%B0%D1%81%D0%B5%D0%BD%D0%B8%D0%B5) [es:Rescate desesperado](es:Rescate_desesperado)

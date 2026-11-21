@@ -1,11 +1,6 @@
----
-title: "Cat Tail Stalk"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cat_Tail_Stalk"
----
-
 # Cat Tail Stalk
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cat_Tail_Stalk)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Cat_Tail_Stalk"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cat_Tail_Stalk_icon.png) / *Cat\_Tail\_Stalk\_icon.png* |
+|  | ![](../assets/Cat_Tail_Stalk_icon.png) / _Cat\_Tail\_Stalk\_icon.png_ |
 | Release | [12 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.196) |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
@@ -34,7 +29,7 @@ source: "https://thelongdark.fandom.com/wiki/Cat_Tail_Stalk"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_CatTailStalk |
 
-**Cat Tail Stalks** are a [food](./Food%20And%20Drink.md) item in *[The Long Dark](./The%20Long%20Dark.md),* obtained by harvesting [Cat Tail](./Cat%20Tail.md) plants.
+**Cat Tail Stalks** are a [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md),_ obtained by harvesting [Cat Tail](./Cat%20Tail.md) plants.
 
 ## General Information
 
@@ -50,9 +45,9 @@ Like all other plants, Cat Tails do not regrow once harvested.
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Cat_tail_stalk.png) / *Old model.* |
+![Old model.](../assets/Cat_tail_stalk.png)
+
+_Old model._
 
 ## Update history
 
@@ -69,5 +64,3 @@ Like all other plants, Cat Tails do not regrow once harvested.
   - Fixed issue that could cause Cat Tails to have zero weight and zero calories.
 - HOTFIX **12 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.196)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Стебель Рогоза](ru:%D0%A1%D1%82%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C_%D0%A0%D0%BE%D0%B3%D0%BE%D0%B7%D0%B0)

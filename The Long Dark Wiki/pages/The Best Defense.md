@@ -1,11 +1,6 @@
----
-title: "The Best Defense"
-wiki_namespace: 0
-categories: ["Episode 2"]
-source: "https://thelongdark.fandom.com/wiki/The_Best_Defense"
----
-
 # The Best Defense
+
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Best_Defense)
 
 **Contents**
 
@@ -30,7 +25,7 @@ Head to the train tracks and go to the right through the [Rail Tunnel](./Rail%20
 
 Follow the path to the Maintenance Yard. A small annex on the building contains some office space and a bed. On the bench near the door is a Forest Talker note which unlocks the [Lake Gunshots](./Lake%20Gunshots.md) side mission. Inside the main building of the maintenance yard, be careful to avoid walking through the arcing wires, as they will cause [burns](./Burns.md). Leave the Maintenance Yard Building and continue walking in the direction away from the train tracks. There is a hole in the chain-link fence, which leads down a path with streetlights lit by the aurora. Upon reaching a small lake, continue to the right along the bank. The player will come across a gate, which can be opened. Follow the path until reaching the Hunting Lodge.
 
-A copy of *Field Dressing Your Kill, Vol 1.* can be found on the shelving to the right immediately after entering the Hunting Lodge if the book was not found during Episode 1. Picking up the book will unlock part of [The Basics of Survival](./The%20Basics%20of%20Survival.md) side mission. A note on the work bench in the basement will unlock the location of a [Forest Talker supply cache](./Forest%20Talker%20Supply%20Caches.md) in Broken Railroad. Pick up the broken spear off of the mantle.
+A copy of _Field Dressing Your Kill, Vol 1._ can be found on the shelving to the right immediately after entering the Hunting Lodge if the book was not found during Episode 1. Picking up the book will unlock part of [The Basics of Survival](./The%20Basics%20of%20Survival.md) side mission. A note on the work bench in the basement will unlock the location of a [Forest Talker supply cache](./Forest%20Talker%20Supply%20Caches.md) in Broken Railroad. Pick up the broken spear off of the mantle.
 
 The player must then make their way back to the Maintenance Yard to repair the spear at the forge. The metal hammer required for forging is on the shelf to the right of the forge. Scrap metal can be found in the tub near the forge, or in various places around the maintenance yard building. After successfully starting a fire in the furnace, the furnace will jump to 170°C and will burn for an "infinite" amount of time. At this point, the player can select the forge and repair the bear spear. Doing so will also unlock building the improvised knife and improvised hatchet.
 

@@ -1,11 +1,6 @@
----
-title: "Donner (mission)"
-wiki_namespace: 0
-categories: ["Episode 4"]
-source: "https://thelongdark.fandom.com/wiki/Donner_(mission)"
----
-
 # Donner \(mission\)
+
+**Categories:** Episode 4 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Donner_%28mission%29)
 
 **Contents**
 
@@ -14,7 +9,7 @@ source: "https://thelongdark.fandom.com/wiki/Donner_(mission)"
 - [Trivia](#trivia)
 - [Bugs](#bugs)
 
-*For the character of the same name, see [Donner](./Donner.md).*
+_For the character of the same name, see [Donner](./Donner.md)._
 
 **Donner** is the fifth and final mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [story](./Wintermute.md). In this mission, Mackenzie fetches the [hardcase](./Astrid%27s%20Hardcase.md) from the warden's office and escapes Blackrock with [Jace](./Jace.md) after [Mathis'](./Mathis.md) attempts to free his son [Donner](./Donner.md) with dynamite fails.
 

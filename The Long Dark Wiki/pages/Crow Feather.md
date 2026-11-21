@@ -1,11 +1,6 @@
----
-title: "Crow Feather"
-wiki_namespace: 0
-categories: ["Materials"]
-source: "https://thelongdark.fandom.com/wiki/Crow_Feather"
----
-
 # Crow Feather
+
+**Categories:** Materials · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crow_Feather)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Crow_Feather"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Crow_Feather_icon.png) / *Crow\_Feather\_icon.png* |
+|  | ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ |
 | **General** |  |
 | Item Type | Material\|- |
 | Renewable | Yes |
@@ -28,11 +23,11 @@ source: "https://thelongdark.fandom.com/wiki/Crow_Feather"
 | Harvest |  |
 | Repair |  |
 
-> “**A feather from a Crow. Add it to an Arrow Shaft to make a useable, stabilized arrow.**”
+> “__A feather from a Crow. Add it to an Arrow Shaft to make a useable, stabilized arrow.__”
 >
 > — In-game description
 
-The **crow feather** is a material item in *[The Long Dark](./The%20Long%20Dark.md).*
+The **crow feather** is a material item in _[The Long Dark](./The%20Long%20Dark.md)._
 
 ## Overview
 
@@ -46,12 +41,10 @@ As a feather touches the ground, it makes a small sound that can be heard if nea
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Crow_feather.png) / *Old model.* |
+![Old model.](../assets/Crow_feather.png)
+
+_Old model._
 
 ## Game history
 
 - Crow feathers were introduced on 22 May 2015 in [version 0.233](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233).
-
-**Lua execution error in Module:Navbox function navbox** [ru:Перо ворона](ru:%D0%9F%D0%B5%D1%80%D0%BE_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B0)

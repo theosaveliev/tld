@@ -1,20 +1,15 @@
----
-title: "Challenge Mastery"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Challenge_Mastery"
----
-
 # Challenge Mastery
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Challenge_Mastery)
 
 **Challenge Mastery**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Challenge_Mastery_icon.png) / *Challenge\_Mastery\_icon.png* |
+|  | ![](../assets/Challenge_Mastery_icon.png) / _Challenge\_Mastery\_icon.png_ |
 | Description | Complete every Challenge. |
 
-**Challenge Mastery** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Challenge Mastery** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -28,5 +23,3 @@ This achievement is obtained after successfully completing every [Challenge](./C
 - [Hopeless Rescue](./Hopeless%20Rescue.md): Easy for players who know their way around [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Pleasant Valley](./Pleasant%20Valley.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md), [Coastal Highway](./Coastal%20Highway.md), and [Desolation Point](./Desolation%20Point.md). If not, it is very difficult. [Coffee](./Tin%20of%20Coffee.md) can make this challenge much easier.
 - [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md): The [Old Bear](./Old%20Bear.md) is aggressive but can be scared off the same way as [wolves](./Wolf.md). Keeping a good supply of [torches](./Torch.md) and knowing [Pleasant Valley](./Pleasant%20Valley.md) and [Mystery Lake](./Mystery%20Lake%20%28region%29.md) makes this much easier.
 - [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md): As long as the player uses torches and flares to scare off wolves, there should be enough bullets to deal with the bear. Not too difficult.
-
-**Lua execution error in Module:Navbox function navbox**

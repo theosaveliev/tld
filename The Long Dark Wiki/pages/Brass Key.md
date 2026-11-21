@@ -1,17 +1,12 @@
----
-title: "Brass Key"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Brass_Key"
----
-
 # Brass Key
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Brass_Key)
 
 **Brass Key**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Brass_Key_icon.png) / *Brass\_Key\_icon.png* |
+|  | ![](../assets/Brass_Key_icon.png) / _Brass\_Key\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -34,5 +29,3 @@ Despite Astrid promising to return the key to the bartender, she ultimately neve
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

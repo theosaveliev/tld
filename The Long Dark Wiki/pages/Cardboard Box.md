@@ -1,11 +1,6 @@
----
-title: "Cardboard Box"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Cardboard_Box"
----
-
 # Cardboard Box
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cardboard_Box)
 
 **Contents**
 
@@ -18,8 +13,8 @@ source: "https://thelongdark.fandom.com/wiki/Cardboard_Box"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| Column 1 \| Column 2 \| Column 3 \| / \| --- \| --- \| --- \| / \| ![Intact](../assets/Cardboard_boxes.jpg) / *Intact* \| ![Unfolded](../assets/CardboardBoxUnfolded.jpg) / *Unfolded* \| ![Torn](../assets/CardboardBoxTorn.jpg) / *Torn* \| | 250px\]\] |
-| ![Intact](../assets/Cardboard_boxes.jpg) / *Intact* | ![Unfolded](../assets/CardboardBoxUnfolded.jpg) / *Unfolded* / ![Torn](../assets/CardboardBoxTorn.jpg) / *Torn* |
+| \[\[File: / ![Intact](../assets/Cardboard_boxes.jpg) / _Intact_ / ![Unfolded](../assets/CardboardBoxUnfolded.jpg) / _Unfolded_ / ![Torn](../assets/CardboardBoxTorn.jpg) / _Torn_ | 250px\]\] |
+| ![Intact](../assets/Cardboard_boxes.jpg) / _Intact_ | ![Unfolded](../assets/CardboardBoxUnfolded.jpg) / _Unfolded_ / ![Torn](../assets/CardboardBoxTorn.jpg) / _Torn_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | No |
@@ -51,5 +46,3 @@ There are only a few places were breaking down these boxes can reveal potential 
 - [Summit](./Summit.md) of [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 - Box near the kitchen in [The Riken](./The%20Riken.md)
 - Box next to the bed in [Quonset Garage](./Quonset%20Garage.md)
-
-**Lua execution error in Module:Navbox function navbox** [ru:Мебель и другие предметы под разбор#Трут](ru:%D0%9C%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C_%D0%B8_%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B_%D0%BF%D0%BE%D0%B4_%D1%80%D0%B0%D0%B7%D0%B1%D0%BE%D1%80#%D0%A2%D1%80%D1%83%D1%82)

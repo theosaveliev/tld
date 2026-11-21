@@ -1,18 +1,13 @@
----
-title: "Long Falls"
-wiki_namespace: 0
-categories: ["Landmarks", "Locations", "Locations in Ash Canyon", "Outdoor locations", "Waterfalls"]
-source: "https://thelongdark.fandom.com/wiki/Long_Falls"
----
-
 # Long Falls
+
+**Categories:** Landmarks, Locations, Locations in Ash Canyon, Outdoor locations, Waterfalls · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Long_Falls)
 
 **Long Falls**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Long_Falls.png) / *Long\_Falls.png* |
+|  | ![](../assets/Long_Falls.png) / _Long\_Falls.png_ |
 | **Location** |  |
-|  | ![](../assets/Long_Falls_Location.png) / *Long\_Falls\_Location.png* |
+|  | ![](../assets/Long_Falls_Location.png) / _Long\_Falls\_Location.png_ |
 | Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
 | Type | Landmark\|- |

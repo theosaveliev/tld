@@ -1,11 +1,6 @@
----
-title: "Hunting Lodge"
-wiki_namespace: 0
-categories: ["Indoor locations", "Locations", "Locations in Broken Railroad", "Locations with a workbench", "Military/Sporting locations", "Residential locations"]
-source: "https://thelongdark.fandom.com/wiki/Hunting_Lodge"
----
-
 # Hunting Lodge
+
+**Categories:** Indoor locations, Locations, Locations in Broken Railroad, Locations with a workbench, Military/Sporting locations, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunting_Lodge)
 
 **Contents**
 
@@ -23,15 +18,15 @@ source: "https://thelongdark.fandom.com/wiki/Hunting_Lodge"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hunting_lodge.jpg) / *Hunting\_lodge.jpg* |
+|  | ![](../assets/Hunting_lodge.jpg) / _Hunting\_lodge.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Hunting_Lodge_Location.png) / *Hunting\_Lodge\_Location.png* |
+|  | ![](../assets/Hunting_Lodge_Location.png) / _Hunting\_Lodge\_Location.png_ |
 | Region | [Broken Railroad](./Broken%20Railroad.md)\|- |
 | Description | A two-story house |
 | **General** |  |
 | Type | ResidentialMilitary/Sporting\|- |
-| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
-| ![](../assets/Workbench_icon_green.png) / *workbench\_icon\_green.png* | Has a workbench\|- |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
+| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ | Has a workbench\|- |
 | Missions | [The Best Defense](./Episode%202%20-%20Luminance%20Fugue.md#The_Best_Defense%3F) |
 
 The **Hunting Lodge** is a location in [Broken Railroad](./Broken%20Railroad.md).
@@ -78,9 +73,22 @@ The fact that a car and truck are present at the Lodge makes no logical sense, a
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A chain-link gate at the base of the hill that leads to the lodge](../assets/Gate_to_lodge.jpg) / *A chain-link gate at the base of the hill that leads to the lodge* | ![The sign on the path to the lodge](../assets/Lodge_sign.jpg) / *The sign on the path to the lodge* | ![The main floor](../assets/Hunting_lodge_main_floor.jpg) / *The main floor* | ![The basement](../assets/Hunting_lodge_basement.jpg) / *The basement* |
-| ![The top floor](../assets/Hunting_lodge_top_floor.jpg) / *The top floor* |  |  |  |
+![A chain-link gate at the base of the hill that leads to the lodge](../assets/Gate_to_lodge.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_A chain-link gate at the base of the hill that leads to the lodge_
+
+![The sign on the path to the lodge](../assets/Lodge_sign.jpg)
+
+_The sign on the path to the lodge_
+
+![The main floor](../assets/Hunting_lodge_main_floor.jpg)
+
+_The main floor_
+
+![The basement](../assets/Hunting_lodge_basement.jpg)
+
+_The basement_
+
+![The top floor](../assets/Hunting_lodge_top_floor.jpg)
+
+_The top floor_

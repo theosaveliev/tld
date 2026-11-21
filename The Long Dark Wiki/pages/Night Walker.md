@@ -1,11 +1,6 @@
----
-title: "Night Walker"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Night_Walker"
----
-
 # Night Walker
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Night_Walker)
 
 **Contents**
 
@@ -18,10 +13,10 @@ source: "https://thelongdark.fandom.com/wiki/Night_Walker"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Night_Walker_icon.png) / *Night\_Walker\_icon.png* |
+|  | ![](../assets/Night_Walker_icon.png) / _Night\_Walker\_icon.png_ |
 | Description | Survive an entire Night outside (single game) |
 
-**Night Walker** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Night Walker** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -42,5 +37,3 @@ Although it is possible to obtain this achievement inadvertently by getting stuc
 Another option is to spend the night inside a warm cave, as this will provide a 10oC warmth bonus, while counting as an outdoor location. The Survivor will start walking noticeably slower when entering the warm section of the cave compared to being outside; this can be used as a guide to knowing where the warm zone starts. Another option is to drop a [Green Birch](./Green%20Birch%20Sapling.md) or [Maple](./Green%20Maple%20Sapling.md) sapling; if it starts curing, the survivor is in the warm zone. If the cave is still too cold, lighting a [campfire](./Campfire.md) will provide sufficient warmth, as the wind won't blow it out.
 
 A final option is to use a [Vehicle](./Vehicle.md), as these are sheltered from the wind and provide a warmth bonus. It is possible to warm up the inside of the vehicle by lighting a fire outside, but there is a risk of the fire getting blown out if the wind shifts overnight.
-
-**Lua execution error in Module:Navbox function navbox**[ru:Достижения Steam](ru:%D0%94%D0%BE%D1%81%D1%82%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_Steam)

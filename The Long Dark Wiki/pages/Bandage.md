@@ -1,11 +1,6 @@
----
-title: "Bandage"
-wiki_namespace: 0
-categories: ["First Aid", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Bandage"
----
-
 # Bandage
+
+**Categories:** First Aid, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bandage)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Bandage"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bandage_icon.png) / *Bandage\_icon.png* |
+|  | ![](../assets/Bandage_icon.png) / _Bandage\_icon.png_ |
 | Release | [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.094) |
 | Wintermute | yes |
 | Renewable | Yes |
@@ -35,7 +30,7 @@ source: "https://thelongdark.fandom.com/wiki/Bandage"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_Bandage |
 
-A **Bandage** is a [First Aid](./First%20Aid.md) cloth used for stopping bleeding or limb immobilization in *[The Long Dark](./The%20Long%20Dark.md)*.
+A **Bandage** is a [First Aid](./First%20Aid.md) cloth used for stopping bleeding or limb immobilization in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -76,9 +71,9 @@ Bandages can be used to treat the following afflictions:
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Bandage.png) / *old model* |
+![old model](../assets/Bandage.png)
+
+_old model_
 
 ## Update history
 
@@ -93,5 +88,3 @@ Bandages can be used to treat the following afflictions:
 - HOTFIX **22 August 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.094)):**
   - Compression and Heavy Bandage types have been consolidated into one Bandage. This Bandage will treat both Blood Loss and Sprains.
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Повязка](ru:%D0%9F%D0%BE%D0%B2%D1%8F%D0%B7%D0%BA%D0%B0) [fr:Bandage](fr:Bandage)

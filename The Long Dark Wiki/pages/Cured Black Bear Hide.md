@@ -1,11 +1,6 @@
----
-title: "Cured Black Bear Hide"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cured_Black_Bear_Hide"
----
-
 # Cured Black Bear Hide
+
+**Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cured_Black_Bear_Hide)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Cured_Black_Bear_Hide"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cured_Black_Bear_Hide_icon.png) / *Cured\_Black\_Bear\_Hide\_icon.png* |
+|  | ![](../assets/Cured_Black_Bear_Hide_icon.png) / _Cured\_Black\_Bear\_Hide\_icon.png_ |
 | Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233) |
 | Wintermute | No |
 | **Properties** |  |
@@ -42,9 +37,9 @@ One Cured Black Bear Hide can be found in a [Memento Cache](./Mementos.md) insid
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Cured_Black_Bear_Hide.png) / *Old model.* |
+![Old model.](../assets/Cured_Black_Bear_Hide.png)
+
+_Old model._
 
 ## Products
 
@@ -52,5 +47,3 @@ One Cured Black Bear Hide can be found in a [Memento Cache](./Mementos.md) insid
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Высушенная шкура черного медведя](ru:%D0%92%D1%8B%D1%81%D1%83%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%88%D0%BA%D1%83%D1%80%D0%B0_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8F)

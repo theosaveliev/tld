@@ -1,17 +1,12 @@
----
-title: "Work Boots"
-wiki_namespace: 0
-categories: ["Clothing"]
-source: "https://thelongdark.fandom.com/wiki/Work_Boots"
----
-
 # Work Boots
+
+**Categories:** Clothing · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Work_Boots)
 
 **Work Boots**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Work_Boots_icon.png) / *Work\_Boots\_icon.png* |
+|  | ![](../assets/Work_Boots_icon.png) / _Work\_Boots\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Outer feet |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Work_Boots"
 | Harvest | 2 × [Cured leather](./Cured%20Leather.md) / 90 minutes |
 | Repair | 1 × [Cured leather](./Cured%20Leather.md), / 1 × [Cloth](./Cloth.md) / 90 minutes / 50% condition |
 
-> “**Steel-toed work boots. The kind you'd find on a construction site. Tough but not warm.**”
+> “__Steel-toed work boots. The kind you'd find on a construction site. Tough but not warm.__”
 >
 > — In-game description
 
-**Work Boots** are a type of [footwear](./Clothing.md) in *The Long Dark*.
+**Work Boots** are a type of [footwear](./Clothing.md) in _The Long Dark_.
 
 ## Usefulness
 
@@ -37,8 +32,14 @@ Work Boots are mid-tier footwear and are much warmer than [Trail Boots](./Trail%
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Old model.](../assets/Work_boots_%28historical%29.png) / *Old model.* | ![Clothing model icon](../assets/Work_Boots_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Work_Boots_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Old model.](../assets/Work_boots_%28historical%29.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Рабочие\_ботинки](ru:%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B5_%D0%B1%D0%BE%D1%82%D0%B8%D0%BD%D0%BA%D0%B8) [fr:Bottes de travail](fr:Bottes_de_travail)
+_Old model._
+
+![Clothing model icon](../assets/Work_Boots_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Work_Boots_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_

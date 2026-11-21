@@ -1,17 +1,12 @@
----
-title: "Dysentery"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Dysentery"
----
-
 # Dysentery
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dysentery)
 
 **Dysentery**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Dysentery_icon.png) / *Dysentery\_icon.png* |
+|  | ![](../assets/Dysentery_icon.png) / _Dysentery\_icon.png_ |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
 | Description | You drank non-potable water and are now suffering an intestinal disease. You will weaken and die of dehydration unless you can treat it. |
@@ -24,7 +19,7 @@ source: "https://thelongdark.fandom.com/wiki/Dysentery"
 | Alternate Treatment | 2.00L x ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) and 1 x ![Reishi\_Tea\_icon.png](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)/**Template:iconlink** |
 | Recovery Time | 10 hours of [Sleep](./Sleep.md) |
 
-> “**You drank non-potable water and are now suffering an intestinal disease. You will weaken and die of dehydration unless you can treat it.**”
+> “__You drank non-potable water and are now suffering an intestinal disease. You will weaken and die of dehydration unless you can treat it.__”
 >
 > — In-game description
 
@@ -37,5 +32,3 @@ While in effect, [Condition](./Condition.md) will not be restored during [Sleep]
 - After consuming the required medicine, the player will stop losing Condition, but thirst will still deplete rapidly until the sleeping recovery time is completed.
 
 ## Survivor Monologue
-
-"Well...this is a shitty way to die."**Lua execution error in Module:Navbox function navbox**[ru:Дизентерия](ru:%D0%94%D0%B8%D0%B7%D0%B5%D0%BD%D1%82%D0%B5%D1%80%D0%B8%D1%8F)

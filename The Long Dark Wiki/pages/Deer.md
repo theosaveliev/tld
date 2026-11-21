@@ -1,11 +1,6 @@
----
-title: "Deer"
-wiki_namespace: 0
-categories: ["Pages with update history", "Wildlife"]
-source: "https://thelongdark.fandom.com/wiki/Deer"
----
-
 # Deer
+
+**Categories:** Pages with update history, Wildlife · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Deer)
 
 **Contents**
 
@@ -28,8 +23,8 @@ source: "https://thelongdark.fandom.com/wiki/Deer"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Stag](../assets/Deer.png) / *Stag* \| ![Doe](../assets/Doe.png) / *Doe* \| / \| --- \| --- \| | 250px\]\] |
-| ![Stag](../assets/Deer.png) / *Stag* | ![Doe](../assets/Doe.png) / *Doe* |
+| \[\[File: / ![Stag](../assets/Deer.png) / _Stag_ / ![Doe](../assets/Doe.png) / _Doe_ | 250px\]\] |
+| ![Stag](../assets/Deer.png) / _Stag_ | ![Doe](../assets/Doe.png) / _Doe_ |
 | **Basic Information** |  |
 | Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01) |
 | Role | Prey |
@@ -37,9 +32,9 @@ source: "https://thelongdark.fandom.com/wiki/Deer"
 | Color | Brown |
 | Size | Medium |
 
-*For the unique stag found in the [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) mission [Tall Tales](./Tall%20Tales.md), see [Ghost Stag](./Ghost%20Stag.md).*
+_For the unique stag found in the [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) mission [Tall Tales](./Tall%20Tales.md), see [Ghost Stag](./Ghost%20Stag.md)._
 
-**Template:quote2** **Deer** are medium sized grazers in *[The Long Dark](./The%20Long%20Dark.md)*. They are a valuable resource, offering the potential for substantial amounts of meat and materials for relatively little risk.
+**Template:quote2** **Deer** are medium sized grazers in _[The Long Dark](./The%20Long%20Dark.md)_. They are a valuable resource, offering the potential for substantial amounts of meat and materials for relatively little risk.
 
 ## Overview
 
@@ -55,7 +50,7 @@ Most Interloper players will want to harvest five deer carcasses soon after they
 
 ## Drops
 
-![Deer carcass](../assets/Dead_deer.png)*Deer carcass* A fresh [Deer Carcass](./Deer%20Carcass.md) contains between 8.00 and 10.00 kg of raw meat, as well as two guts and one Deer Hide. Carcasses will slowly freeze, increasing the time needed for the player to harvest its contents. Meat left on the carcass decays quickly, regardless of the carcass freezing. Starting a fire near a frozen carcass will thaw it.
+![Deer carcass](../assets/Dead_deer.png)_Deer carcass_ A fresh [Deer Carcass](./Deer%20Carcass.md) contains between 8.00 and 10.00 kg of raw meat, as well as two guts and one Deer Hide. Carcasses will slowly freeze, increasing the time needed for the player to harvest its contents. Meat left on the carcass decays quickly, regardless of the carcass freezing. Starting a fire near a frozen carcass will thaw it.
 
 A carcass can also be quartered into bags of meat to be taken elsewhere for harvesting. The quarters are heavier due to the inclusion of parts not otherwise used, but this does make for easier transport and less time at the site. Frozen carcasses are more difficult to quarter.
 
@@ -63,17 +58,17 @@ Stag and Doe carcasses contain slightly differing amounts of meat upon their cor
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![](../assets/Venison_%28Raw%29_icon.png) / *Venison\_(Raw)\_icon.png* | [Venison (Raw)](./Venison%20%28Raw%29.md) | 8 - 12.5 | Always[¹](#fn1) |
-| ![](../assets/Deer_Quarter_icon.png) / *Deer\_Quarter\_icon.png* | [Deer Quarter](./Deer%20Quarter.md) | 5 | Always[²](#fn2) |
-| ![](../assets/Fresh_Deer_Hide_icon.png) / *Fresh\_Deer\_Hide\_icon.png* | [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) | 1 | Always |
-| \[Missing image: Gut\_icon.png\] / *Gut\_icon.png* | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
+| ![](../assets/Venison_%28Raw%29_icon.png) / _Venison\_(Raw)\_icon.png_ | [Venison (Raw)](./Venison%20%28Raw%29.md) | 8 - 12.5 | Always[¹](#fn1) |
+| ![](../assets/Deer_Quarter_icon.png) / _Deer\_Quarter\_icon.png_ | [Deer Quarter](./Deer%20Quarter.md) | 5 | Always[²](#fn2) |
+| ![](../assets/Fresh_Deer_Hide_icon.png) / _Fresh\_Deer\_Hide\_icon.png_ | [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) | 1 | Always |
+| \[Missing image: Gut\_icon.png\] / _Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 |  |  |  |  |
 
 Animal Fat is produced automatically when harvesting raw meat. It cannot be harvested separately and does not appear when Harvesting a Carcass.
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![](../assets/Animal_Fat_icon.png) / *Animal\_Fat\_icon.png* | [Animal Fat](./Animal%20Fat.md) | 0.20 kg per meat | Always |
+| ![](../assets/Animal_Fat_icon.png) / _Animal\_Fat\_icon.png_ | [Animal Fat](./Animal%20Fat.md) | 0.20 kg per meat | Always |
 
 ## Behaviour
 
@@ -114,24 +109,24 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 | Weapon | Critical Hit Chance |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
-| ![](../assets/Hunting_Rifle_icon.png) / *Hunting\_Rifle\_icon.png* | [Hunting Rifle](./Hunting%20Rifle.md) | Guaranteed | 50% | 40% | 25% | 10% |
-| ![](../assets/Distress_Pistol_icon.png) / *Distress\_Pistol\_icon.png* | [Distress Pistol](./Distress%20Pistol.md) |  |  |  |  |  |
-| ![](../assets/Survival_Bow_icon.png) / *Survival\_Bow\_icon.png* | [Survival Bow](./Survival%20Bow.md) |  |  |  |  |  |
-| ![](../assets/Revolver_icon.png) / *Revolver\_icon.png* | [Revolver](./Revolver.md) | 25% | 20% | 13% | 5% |  |
+| ![](../assets/Hunting_Rifle_icon.png) / _Hunting\_Rifle\_icon.png_ | [Hunting Rifle](./Hunting%20Rifle.md) | Guaranteed | 50% | 40% | 25% | 10% |
+| ![](../assets/Distress_Pistol_icon.png) / _Distress\_Pistol\_icon.png_ | [Distress Pistol](./Distress%20Pistol.md) |  |  |  |  |  |
+| ![](../assets/Survival_Bow_icon.png) / _Survival\_Bow\_icon.png_ | [Survival Bow](./Survival%20Bow.md) |  |  |  |  |  |
+| ![](../assets/Revolver_icon.png) / _Revolver\_icon.png_ | [Revolver](./Revolver.md) | 25% | 20% | 13% | 5% |  |
 
 ### Bleeding wounds
 
-![Wounded deer running away](../assets/Deer_running_away.png)*Wounded deer running away* All shots cause bleeding wounds. Deer will bleed out according to which area they were shot in. Bleeding wounds do not stack. That is, multiple shots to the same area will not make it bleed out any faster. Shooting a deer in an area that bleeds faster than a previous wound will cause it to bleed out as if the faster wound were caused first.
+![Wounded deer running away](../assets/Deer_running_away.png)_Wounded deer running away_ All shots cause bleeding wounds. Deer will bleed out according to which area they were shot in. Bleeding wounds do not stack. That is, multiple shots to the same area will not make it bleed out any faster. Shooting a deer in an area that bleeds faster than a previous wound will cause it to bleed out as if the faster wound were caused first.
 
 ### Bleed Out
 
 | Weapon | Bleed Out |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
-| ![](../assets/Hunting_Rifle_icon.png) / *Hunting\_Rifle\_icon.png* | [Hunting Rifle](./Hunting%20Rifle.md) | Instant | 15 min | 45 min | 60 min | 240 min |
-| ![](../assets/Survival_Bow_icon.png) / *Survival\_Bow\_icon.png* | [Survival Bow](./Survival%20Bow.md) | Instant | 10 min | 22 min | 40 min | 120 min |
-| ![](../assets/Revolver_icon.png) / *Revolver\_icon.png* | [Revolver](./Revolver.md) | Instant | 20 min | 60 min | 80 min | 320 min |
-| ![](../assets/Distress_Pistol_icon.png) / *Distress\_Pistol\_icon.png* | [Distress Pistol](./Distress%20Pistol.md) | Instant | 8 min | 15 min | 30 min | 80 min |
+| ![](../assets/Hunting_Rifle_icon.png) / _Hunting\_Rifle\_icon.png_ | [Hunting Rifle](./Hunting%20Rifle.md) | Instant | 15 min | 45 min | 60 min | 240 min |
+| ![](../assets/Survival_Bow_icon.png) / _Survival\_Bow\_icon.png_ | [Survival Bow](./Survival%20Bow.md) | Instant | 10 min | 22 min | 40 min | 120 min |
+| ![](../assets/Revolver_icon.png) / _Revolver\_icon.png_ | [Revolver](./Revolver.md) | Instant | 20 min | 60 min | 80 min | 320 min |
+| ![](../assets/Distress_Pistol_icon.png) / _Distress\_Pistol\_icon.png_ | [Distress Pistol](./Distress%20Pistol.md) | Instant | 8 min | 15 min | 30 min | 80 min |
 
 ### Strategies
 
@@ -145,13 +140,25 @@ Yet another option is to kill the wolf with a ranged weapon while it is distract
 
 ## Trivia
 
-- The Deer appears to be based off the [White-Tailed Deer](https://en.wikipedia.org/wiki/White-tailed_deer) (***Odocoileus virginianus***), a common North American Cervidae. They are not to be confused with Elk or Caribou, a much larger but different species of Cervidae.
+- The Deer appears to be based off the [White-Tailed Deer](https://en.wikipedia.org/wiki/White-tailed_deer) (**_Odocoileus virginianus_**), a common North American Cervidae. They are not to be confused with Elk or Caribou, a much larger but different species of Cervidae.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Old deer model (v.113)](../assets/Deer_%28old%29.png) / *Old deer model (v.113)* | ![v.113 deer running](../assets/Deer_Running.jpg) / *v.113 deer running* | ![Wolf feeding on a Deer](../assets/Wolf_feeding_on_deer.jpg) / *Wolf feeding on a Deer* | ![Steam Badge](../assets/Steam_Deer_Badge.png) / *Steam Badge* |
+![Old deer model (v.113)](../assets/Deer_%28old%29.png)
+
+_Old deer model (v.113)_
+
+![v.113 deer running](../assets/Deer_Running.jpg)
+
+_v.113 deer running_
+
+![Wolf feeding on a Deer](../assets/Wolf_feeding_on_deer.jpg)
+
+_Wolf feeding on a Deer_
+
+![Steam Badge](../assets/Steam_Deer_Badge.png)
+
+_Steam Badge_
 
 ## Update history
 
@@ -209,8 +216,6 @@ Yet another option is to kill the wolf with a ranged weapon while it is distract
 
 - UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.01)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [es:Ciervo](es:Ciervo) [ru:Олень](ru:%D0%9E%D0%BB%D0%B5%D0%BD%D1%8C)
 
 ## Notes
 

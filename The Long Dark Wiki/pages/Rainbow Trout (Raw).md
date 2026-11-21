@@ -1,11 +1,6 @@
----
-title: "Rainbow Trout (Raw)"
-wiki_namespace: 0
-categories: ["Fish", "Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Rainbow_Trout_(Raw)"
----
-
 # Rainbow Trout \(Raw\)
+
+**Categories:** Fish, Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rainbow_Trout_%28Raw%29)
 
 **Contents**
 
@@ -19,8 +14,8 @@ source: "https://thelongdark.fandom.com/wiki/Rainbow_Trout_(Raw)"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Raw](../assets/Rainbow_Trout_%28Raw%29_icon.png) / *Raw* \| ![Opened](../assets/Rainbow_Trout_%28Raw%29_Opened_icon.png) / *Opened* \| / \| --- \| --- \| | 250px\]\] |
-| ![Raw](../assets/Rainbow_Trout_%28Raw%29_icon.png) / *Raw* | ![Opened](../assets/Rainbow_Trout_%28Raw%29_Opened_icon.png) / *Opened* |
+| \[\[File: / ![Raw](../assets/Rainbow_Trout_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Rainbow_Trout_%28Raw%29_Opened_icon.png) / _Opened_ | 250px\]\] |
+| ![Raw](../assets/Rainbow_Trout_%28Raw%29_icon.png) / _Raw_ | ![Opened](../assets/Rainbow_Trout_%28Raw%29_Opened_icon.png) / _Opened_ |
 | Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -33,7 +28,7 @@ source: "https://thelongdark.fandom.com/wiki/Rainbow_Trout_(Raw)"
 | Weight | 2.3 kg (5.06 lbs) |
 | Oil/Weight | 0,025 |
 
-**Rainbow Trout (Raw)** is a food item in *The Long Dark*.
+**Rainbow Trout (Raw)** is a food item in _The Long Dark_.
 
 ## Overview
 
@@ -51,13 +46,11 @@ Cooking trout improves the [cooking skill](./Skills.md#Cooking). Using a [Cookin
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Rainbow_trout.png) / *Old model.* |
+![Old model.](../assets/Rainbow_trout.png)
+
+_Old model._
 
 ## Update history
 
 - UPDATE **27 November 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Радужная форель (сырая)](ru:%D0%A0%D0%B0%D0%B4%D1%83%D0%B6%D0%BD%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%B5%D0%BB%D1%8C_%28%D1%81%D1%8B%D1%80%D0%B0%D1%8F%29)

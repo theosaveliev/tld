@@ -1,17 +1,12 @@
----
-title: "Thin Wool Sweater"
-wiki_namespace: 0
-categories: ["Clothing", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Thin_Wool_Sweater"
----
-
 # Thin Wool Sweater
+
+**Categories:** Clothing, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Thin_Wool_Sweater)
 
 **Thin Wool Sweater**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Thin_Wool_Sweater_icon.png) / *Thin\_Wool\_Sweater\_icon.png* |
+|  | ![](../assets/Thin_Wool_Sweater_icon.png) / _Thin\_Wool\_Sweater\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -24,11 +19,11 @@ source: "https://thelongdark.fandom.com/wiki/Thin_Wool_Sweater"
 | Harvest | 1 × [Cloth](./Cloth.md) / 30 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 60 minutes / 40% condition |
 
-> “**Thin-knit wool sweater. Mostly for looks, but provides some warmth and being knit from wool remains warm when wet.**”
+> “__Thin-knit wool sweater. Mostly for looks, but provides some warmth and being knit from wool remains warm when wet.__”
 >
 > — In-game description
 
-**Thin Wool Sweater** is a type of [clothing](./Clothing.md) item in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Thin Wool Sweater** is a type of [clothing](./Clothing.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -38,8 +33,14 @@ It is one of the best Inner Torso clothing which can spawn on [Interloper](./Int
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Clothing model icon](../assets/Thin_Wool_Sweater_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Thin_Wool_Sweater_Model_Damaged_icon.png) / *Clothing model icon damaged* | ![Old model.](../assets/Thin_wool_sweater_%28historical%29.png) / *Old model.* |
+![Clothing model icon](../assets/Thin_Wool_Sweater_Model_icon.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Тонкий шерстяной свитер](ru:%D0%A2%D0%BE%D0%BD%D0%BA%D0%B8%D0%B9_%D1%88%D0%B5%D1%80%D1%81%D1%82%D1%8F%D0%BD%D0%BE%D0%B9_%D1%81%D0%B2%D0%B8%D1%82%D0%B5%D1%80)
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Thin_Wool_Sweater_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
+
+![Old model.](../assets/Thin_wool_sweater_%28historical%29.png)
+
+_Old model._

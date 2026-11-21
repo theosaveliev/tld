@@ -1,11 +1,6 @@
----
-title: "Mountaineering Rope"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Mountaineering_Rope"
----
-
 # Mountaineering Rope
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mountaineering_Rope)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Mountaineering_Rope"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mountaineering_Rope_icon.png) / *Mountaineering\_Rope\_icon.png* |
+|  | ![](../assets/Mountaineering_Rope_icon.png) / _Mountaineering\_Rope\_icon.png_ |
 | Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298) |
 | Wintermute | No |
 | **Properties** |  |
@@ -87,15 +82,13 @@ Many ropes are already deployed from rocks over climbable cliffs, but these can 
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Mountaineering rope secured to a rock near a cliff face. old version](../assets/Mountaineering_rope_secured_on_rock.jpg) / *Mountaineering rope secured to a rock near a cliff face. old version* |
+![Mountaineering rope secured to a rock near a cliff face. old version](../assets/Mountaineering_rope_secured_on_rock.jpg)
+
+_Mountaineering rope secured to a rock near a cliff face. old version_
 
 ## Update history
 
 - UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Альпинистский трос](ru:%D0%90%D0%BB%D1%8C%D0%BF%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%BE%D1%81)

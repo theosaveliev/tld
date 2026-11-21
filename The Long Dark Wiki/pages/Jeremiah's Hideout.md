@@ -1,11 +1,6 @@
----
-title: "Jeremiah's Hideout"
-wiki_namespace: 0
-categories: ["Episode 2", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Hideout"
----
-
 # Jeremiah's Hideout
+
+**Categories:** Episode 2, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Hideout)
 
 **Contents**
 
@@ -26,18 +21,18 @@ source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Hideout"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Aurora_hatch.png) / *Aurora\_hatch.png* |
+|  | ![](../assets/Aurora_hatch.png) / _Aurora\_hatch.png_ |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
 | Current | Jeremiah's Hideout |
 | Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
-> “**Jeremiah has told you about the location of a hidden bunker in Forlorn Muskeg. There are some letters there he wants you to burn for him.**”
+> “__Jeremiah has told you about the location of a hidden bunker in Forlorn Muskeg. There are some letters there he wants you to burn for him.__”
 >
 > — In-game description
 
-**Jeremiah's Hideout** was a side mission of the Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of *[The Long Dark](./The%20Long%20Dark.md)* by using the [Time Capsule](./Time%20Capsule.md).
+**Jeremiah's Hideout** was a side mission of the Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 Jeremiah's Hideout was later replaced by the mission [Aurora Hatch](./Aurora%20Hatch.md).
 
@@ -92,7 +87,7 @@ Rewards found inside the Hideout include:
 
 The following is the mission transcript
 
-*Once the player has maximum Trust with Jeremiah, selecting this dialogue option produces the following exchange*
+_Once the player has maximum Trust with Jeremiah, selecting this dialogue option produces the following exchange_
 
 - OLD CORESPONDANCE
 
@@ -124,15 +119,15 @@ Jeremiah: "I have my reasons. Burn those letters. And take whatever else you nee
 
 ### Locate the hidden bunker
 
-*Mackenzie travels to Forlorn Muskeg, and finds the bunker. He enters it while the Aurora is active, but his path is blocked by live wires. Waiting for the aurora to pass, he picks up [Jeremiah's Papers](./Jeremiah%27s%20Papers.md) but finds himself locked inside the bunker. Once a new aurora arrives, he leaves and starts a fire, burning the papers*
+_Mackenzie travels to Forlorn Muskeg, and finds the bunker. He enters it while the Aurora is active, but his path is blocked by live wires. Waiting for the aurora to pass, he picks up [Jeremiah's Papers](./Jeremiah%27s%20Papers.md) but finds himself locked inside the bunker. Once a new aurora arrives, he leaves and starts a fire, burning the papers_
 
 Mackenzie: "I'd better stay focused on finding Astrid."
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![The Aurora Hatch.](../assets/Aurora_hatch.png) / *The Aurora Hatch.* |
+![The Aurora Hatch.](../assets/Aurora_hatch.png)
+
+_The Aurora Hatch._
 
 ## Update history
 
@@ -140,5 +135,3 @@ Mackenzie: "I'd better stay focused on finding Astrid."
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from the game as part of the Redux edition and replaced with [Aurora Hatch](./Aurora%20Hatch.md).
-
-**Lua execution error in Module:Navbox function navbox**

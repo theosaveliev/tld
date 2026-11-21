@@ -1,11 +1,6 @@
----
-title: "Archery"
-wiki_namespace: 0
-categories: ["Skills"]
-source: "https://thelongdark.fandom.com/wiki/Archery"
----
-
 # Archery
+
+**Categories:** Skills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Archery)
 
 **Contents**
 
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Archery"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Archery_background.png) / *Archery\_background.png* |
+|  | ![](../assets/Archery_background.png) / _Archery\_background.png_ |
 | Release | [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364) |
 | Date | 23 September 2016 |
 
@@ -37,12 +32,12 @@ Archery's ability to deal ranged damage means that a player can attack animals (
 
 Archery requires some practice to use effectively and several factors should be taken into consideration with its use:
 
-- *Draw speed:* the draw speed for a Survival Bow is a lot slower than aiming the [Hunting Rifle](./Hunting%20Rifle.md) (in particular fast variants like [Vaughn's Rifle](./Vaughn%27s%20Rifle.md))
-- *Horizontal sway:* when drawn, the bow will sway from left to right, affecting the arrow's flight path accordingly. When it tilts to the right or left, the arrow will fly a bit to the right or left of the centre of your aim. The sway increases if the player is [tired](./Fatigue.md).
-- *Vertical targeting:* an arrow's flight trajectory forms an arc. Farther targets may require aiming higher.
-- *Arrow flight speed:* arrows fly much slower than bullets, so the target's movement should be taken into consideration.
-- *Usability:*the bow, unlike the rifle, cannot be fired while crouched until the player reaches Archery skill Level 5.
-- *Variants:* bows and arrows both have variants that will affect damage type, available targets, resources used for crafting or trading and much more.
+- _Draw speed:_ the draw speed for a Survival Bow is a lot slower than aiming the [Hunting Rifle](./Hunting%20Rifle.md) (in particular fast variants like [Vaughn's Rifle](./Vaughn%27s%20Rifle.md))
+- _Horizontal sway:_ when drawn, the bow will sway from left to right, affecting the arrow's flight path accordingly. When it tilts to the right or left, the arrow will fly a bit to the right or left of the centre of your aim. The sway increases if the player is [tired](./Fatigue.md).
+- _Vertical targeting:_ an arrow's flight trajectory forms an arc. Farther targets may require aiming higher.
+- _Arrow flight speed:_ arrows fly much slower than bullets, so the target's movement should be taken into consideration.
+- _Usability:_the bow, unlike the rifle, cannot be fired while crouched until the player reaches Archery skill Level 5.
+- _Variants:_ bows and arrows both have variants that will affect damage type, available targets, resources used for crafting or trading and much more.
 
 ## Equipment
 
@@ -67,7 +62,7 @@ There are three Bow variants:
 
 [Simple Arrows](./Simple%20Arrow.md) are reusable, craftable, harvestable ammunition. Simple Arrows instantly kill Rabbit and Ptarmigan, and deal high damage (comparable to the Hunting Rifle) to big game with a high rate of Blood Loss on the body part struck (with Head, Neck and Torso being the best targets). Blood Loss from Simple Arrow hits is lethal (except to [Moose](./Moose.md)), though large game (such as [Black Bear](./Bear.md)) may take hours and run long distances before death.
 
-*(though its frequency is hard to identify, there is a bug where a Bear hit with an arrow can stop bleeding and go back to its usual route. The bug is more prone to triggering after a scene change, like loading into an interior location.)*
+_(though its frequency is hard to identify, there is a bug where a Bear hit with an arrow can stop bleeding and go back to its usual route. The bug is more prone to triggering after a scene change, like loading into an interior location.)_
 
 Simple Arrows take 4% condition damage when striking snow, 24% when striking an animal, 30% when striking wood, and 55% when striking metal or ice. Simple Arrows become [Broken Arrows](./Broken%20Arrow.md) at 0% condition, which may be harvested for one [Arrowhead](./Arrowhead.md) and two [Crow Feathers](./Crow%20Feather.md).
 
@@ -102,7 +97,7 @@ Manufactured Arrows take 2% condition damage when striking snow, 12% when striki
 
 ## Hunting
 
-*Main article: [Hunting](./Hunting.md)*
+_Main article: [Hunting](./Hunting.md)_
 
 **Hunting** animals to kill and then harvest their flesh is an efficient means to acquire [Food](./Food%20And%20Drink.md) and materials. Shooting animals with projectiles, such as arrows, is the most effective way to kill game while completely bypassing the animals' natural defenses. Arrows move too quickly to be blocked or dodged and can be fired from outside the animal's zone of perception.
 
@@ -129,11 +124,11 @@ Direct hits to an animal with an arrow that are not a critical hit will cause a 
 
 ## Skill levels
 
-Archery Skill is increased by scoring hits on live wildlife with the Survival Bow, by crafting Simple Arrows at a workbench, or by fully reading the [Research Book](./Research%20Book.md) "*Stay on Target".* Multiple copies of *Stay on Target* spawn in each save, most of them at fixed loot spawns (see its section in the Research Book page), each granting skill points when fully read.
+Archery Skill is increased by scoring hits on live wildlife with the Survival Bow, by crafting Simple Arrows at a workbench, or by fully reading the [Research Book](./Research%20Book.md) "_Stay on Target"._ Multiple copies of _Stay on Target_ spawn in each save, most of them at fixed loot spawns (see its section in the Research Book page), each granting skill points when fully read.
 
 - Striking a live animal (except [Crows](./Crow.md)) with any arrow type grants one skill point.
 - Crafting a Simple Arrow grants one skill point (Fire-hardened Arrows don't grant any skill point when crafted)
-- *[Stay on Target](./Stay%20on%20Target.md)* grants 10 skill points for five hours of reading or 11 skill points when using the *Book Smarts* [Feat](./Feats.md) and four hours of reading when using the *Settled Mind* Feat.
+- _[Stay on Target](./Stay%20on%20Target.md)_ grants 10 skill points for five hours of reading or 11 skill points when using the _Book Smarts_ [Feat](./Feats.md) and four hours of reading when using the _Settled Mind_ Feat.
 
 Once players have reached a new skill level, they unlock the effects described in the table below. &lt;table-progress-tracking table-id="1" unique-column-index="1"&gt;
 
@@ -146,7 +141,5 @@ Once players have reached a new skill level, they unlock the effects described i
 | 5 | 125 | Max level | - Can fire Survival Bow when crouched / - Bow sway reduced by 75% / - Arrow damage increased by 25% / - Critical Hit chance increased by 50% / - Bleed Out time reduced by 50% / - Per-use condition loss reduced by 50% | You are one with your bow - it feels like an extension of your body and you are able to use your bow while crouched. Your eagle-eyed aim is deadly accurate. You are the hunter. |
 
 &lt;/table-progress-tracking&gt;
-
-**Lua execution error in Module:Navbox function navbox**[ru:Навыки#Стрельба из лука](ru:%D0%9D%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8#%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0_%D0%B8%D0%B7_%D0%BB%D1%83%D0%BA%D0%B0)
 
 [fr:Archerie](fr:Archerie) [es:Tiro con arco](es:Tiro_con_arco)

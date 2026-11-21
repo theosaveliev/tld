@@ -1,17 +1,12 @@
----
-title: "Loose Tree Bark"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Loose_Tree_Bark"
----
-
 # Loose Tree Bark
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Loose_Tree_Bark)
 
 **Loose Tree Bark**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Loose_Tree_Bark.jpg) / *Loose\_Tree\_Bark.jpg* |
+|  | ![](../assets/Loose_Tree_Bark.jpg) / _Loose\_Tree\_Bark.jpg_ |
 | Release | Part 1 TFTFT |
 | Update | [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00) |
 | **Container** |  |
@@ -23,5 +18,3 @@ source: "https://thelongdark.fandom.com/wiki/Loose_Tree_Bark"
 
 - One is found near [Muskeg Overlook](./Muskeg%20Overlook.md), with the note found near [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md). (The prompt is near the back, middle side).
 - One is found in [Coastal Highway](./Coastal%20Highway.md) near the [Rabbit Grove](./Rabbit%20Grove.md) cabin.
-
-**Lua execution error in Module:Navbox function navbox**

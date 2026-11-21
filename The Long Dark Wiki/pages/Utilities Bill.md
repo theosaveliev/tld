@@ -1,17 +1,12 @@
----
-title: "Utilities Bill"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Utilities_Bill"
----
-
 # Utilities Bill
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Utilities_Bill)
 
 **Utilities Bill**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Utilities_Bill_icon.png) / *Utilities\_Bill\_icon.png* |
+|  | ![](../assets/Utilities_Bill_icon.png) / _Utilities\_Bill\_icon.png_ |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -29,7 +24,7 @@ It is found on a table inside the [Paradise Meadows Farm](./Paradise%20Meadows%2
 
 ## Transcript
 
-*The following text is transcribed from **Utilities Bill***
+_The following text is transcribed from **Utilities Bill**_
 
 **OVERDUE -- FINAL WARNING
 
@@ -53,5 +48,3 @@ MAINLAND POWER CORP.**
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

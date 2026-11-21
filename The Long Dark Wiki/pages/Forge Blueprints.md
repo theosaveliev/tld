@@ -1,17 +1,12 @@
----
-title: "Forge Blueprints"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Forge_Blueprints"
----
-
 # Forge Blueprints
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forge_Blueprints)
 
 **Forge Blueprints**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Forge_Blueprints_icon.png) / *Forge\_Blueprints\_icon.png* |
+|  | ![](../assets/Forge_Blueprints_icon.png) / _Forge\_Blueprints\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Forge Blueprints (mission)](./Forge%20Blueprints%20%28mission%29.md) |
 | **Properties** |  |
@@ -36,5 +31,3 @@ The side mission Forge Blueprints is given when [Jeremiah's](./Jeremiah.md) Trus
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from the game as part of the Redux edition.
-
-**Lua execution error in Module:Navbox function navbox**

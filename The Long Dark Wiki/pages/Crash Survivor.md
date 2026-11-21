@@ -1,11 +1,6 @@
----
-title: "Crash Survivor"
-wiki_namespace: 0
-categories: ["Characters", "Story"]
-source: "https://thelongdark.fandom.com/wiki/Crash_Survivor"
----
-
 # Crash Survivor
+
+**Categories:** Characters, Story · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crash_Survivor)
 
 **Contents**
 
@@ -15,7 +10,7 @@ source: "https://thelongdark.fandom.com/wiki/Crash_Survivor"
 - [List of Passengers](#list-of-passengers)
 - [Trivia](#trivia)
 
-![](../assets/Survivors.png){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Then yesterday, the crash survivors started showing up....Best thing we can do is keep these people warm and fed and....then we'll see what the Lord has in store.**
+![](../assets/Survivors.png){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Then yesterday, the crash survivors started showing up....Best thing we can do is keep these people warm and fed and....then we'll see what the Lord has in store.__
 
 Father Thomas
 
@@ -44,7 +39,7 @@ Survivors may be attacked by a [Timberwolf](./Timberwolf.md). A wolf will approa
 
 ## Diagnosing
 
-![The 2 options for interacting with a lost Crash Survivor.](../assets/Crash_Survivor_Diagnosing.jpg)*The 2 options for interacting with a lost Crash Survivor.* Crash Survivors can be diagnosed with the following Afflictions and the following treatments:
+![The 2 options for interacting with a lost Crash Survivor.](../assets/Crash_Survivor_Diagnosing.jpg)_The 2 options for interacting with a lost Crash Survivor._ Crash Survivors can be diagnosed with the following Afflictions and the following treatments:
 
 - ![Concussion\_icon.png](../assets/Concussion_icon.png) [Concussion](./Concussion.md) - No treatment
 - ![Hypothermia\_Risk\_icon.png](../assets/Hypothermia_Risk_icon.png) [Hypothermia Risk](./Hypothermia%20Risk.md) - Warm survivor
@@ -93,5 +88,3 @@ The North Star Charters Flight 7030 was carrying the following passengers when i
 - Logan is voiced by Ross Huguet
 - Wade is voiced by Adam Trask
 - Ava is voiced by Aimee Ayotte
-
-**Lua execution error in Module:Navbox function navbox** [ru:Выжившие в крушении самолета](ru:%D0%92%D1%8B%D0%B6%D0%B8%D0%B2%D1%88%D0%B8%D0%B5_%D0%B2_%D0%BA%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D0%B8_%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%D0%B0)

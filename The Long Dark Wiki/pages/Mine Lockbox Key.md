@@ -1,17 +1,12 @@
----
-title: "Mine Lockbox Key"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Mine_Lockbox_Key"
----
-
 # Mine Lockbox Key
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mine_Lockbox_Key)
 
 **Mine Lockbox Key**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mine_Lockbox_Key_icon.png) / *Mine\_Lockbox\_Key\_icon.png* |
+|  | ![](../assets/Mine_Lockbox_Key_icon.png) / _Mine\_Lockbox\_Key\_icon.png_ |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | Wintermute | No |
 | **Properties** |  |
@@ -31,5 +26,3 @@ It unlocks a lockbox inside a cabin on the same level that has multiple stored i
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

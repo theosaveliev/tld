@@ -1,17 +1,12 @@
----
-title: "Hacksaw"
-wiki_namespace: 0
-categories: ["Tools"]
-source: "https://thelongdark.fandom.com/wiki/Hacksaw"
----
-
 # Hacksaw
+
+**Categories:** Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hacksaw)
 
 **Hacksaw**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hacksaw_icon.png) / *Hacksaw\_icon.png* |
+|  | ![](../assets/Hacksaw_icon.png) / _Hacksaw\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | Renewable | Yes |
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Hacksaw"
 | Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) 1 Hour |
 | Repair | [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) / 1 × [Scrap Metal](./Scrap%20Metal.md) / 25% Condition / 45 to 30 min |
 
-> “**Heavy-duty saw made to cut through metal.**”
+> “__Heavy-duty saw made to cut through metal.__”
 >
 > — In-game description
 
@@ -130,7 +125,5 @@ Some observed spawn points include:
 - In [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md).
 
 [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)
-
-- Can be found on top of the workbench inside the [Mirthless Fork](./Mirthless%20Fork.md) trailer.**Lua execution error in Module:Navbox function navbox**
 
 [ru:Ножовка](ru:%D0%9D%D0%BE%D0%B6%D0%BE%D0%B2%D0%BA%D0%B0) [es:Sierra de arco](es:Sierra_de_arco)

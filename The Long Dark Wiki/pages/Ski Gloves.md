@@ -1,17 +1,12 @@
----
-title: "Ski Gloves"
-wiki_namespace: 0
-categories: ["Clothing"]
-source: "https://thelongdark.fandom.com/wiki/Ski_Gloves"
----
-
 # Ski Gloves
+
+**Categories:** Clothing · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ski_Gloves)
 
 **Ski Gloves**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Ski_Gloves_icon.png) / *Ski\_Gloves\_icon.png* |
+|  | ![](../assets/Ski_Gloves_icon.png) / _Ski\_Gloves\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Hands |
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Ski_Gloves"
 | Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition |
 
-> “**Nylon ski gloves that go well beyond the wrist. Synthetic insulation keeps the hands warm, and the outer layer is nicely waterproof.**”
+> “__Nylon ski gloves that go well beyond the wrist. Synthetic insulation keeps the hands warm, and the outer layer is nicely waterproof.__”
 >
 > — In-game description
 
@@ -33,8 +28,10 @@ source: "https://thelongdark.fandom.com/wiki/Ski_Gloves"
 
 They are tied for the lowest warmth-to-weight ratio gloves in the game with the [Gauntlets](./Gauntlets.md) and [Rabbitskin Mitts](./Rabbitskin%20Mitts.md).
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model](../assets/Ski_Gloves_Model_icon.png) / *Clothing model* | ![Clothing model damaged](../assets/Ski_Gloves_Damaged_icon.png) / *Clothing model damaged* |
+![Clothing model](../assets/Ski_Gloves_Model_icon.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Лыжные перчатки](ru:%D0%9B%D1%8B%D0%B6%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B5%D1%80%D1%87%D0%B0%D1%82%D0%BA%D0%B8)
+_Clothing model_
+
+![Clothing model damaged](../assets/Ski_Gloves_Damaged_icon.png)
+
+_Clothing model damaged_

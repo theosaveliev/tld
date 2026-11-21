@@ -1,20 +1,15 @@
----
-title: "Survive the Quiet Apocalypse"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Survive_the_Quiet_Apocalypse"
----
-
 # Survive the Quiet Apocalypse
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survive_the_Quiet_Apocalypse)
 
 **Survive the Quiet Apocalypse**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Survive_the_Quiet_Apocalypse_icon.png) / *Survive\_the\_Quiet\_Apocalypse\_icon.png* |
+|  | ![](../assets/Survive_the_Quiet_Apocalypse_icon.png) / _Survive\_the\_Quiet\_Apocalypse\_icon.png_ |
 | Description | Whatever the future brings, you will be ready. |
 
-**Survive the Quiet Apocalypse** is the Platinum Trophy [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)* for the PlayStation 4/5 version of the game.
+**Survive the Quiet Apocalypse** is the Platinum Trophy [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_ for the PlayStation 4/5 version of the game.
 
 ## Overview
 
@@ -26,5 +21,3 @@ Any achievements added in Episode 3, 4, 5, or [Tales from the Far Territory](./T
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

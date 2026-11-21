@@ -1,17 +1,12 @@
----
-title: "Note (EP4)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Note_(EP4)"
----
-
 # Note \(EP4\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Note_%28EP4%29)
 
 **Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Note_%28EP4%29_icon.png) / *Note\_(EP4)\_icon.png* |
+|  | ![](../assets/Note_%28EP4%29_icon.png) / _Note\_(EP4)\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Note_(EP4)"
 
 ## Transcript
 
-*The following text is transcribed from **Note***
+_The following text is transcribed from **Note**_
 
 **Re: Donated food packs
 
@@ -44,5 +39,3 @@ Show up at 7 if you're interested.
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

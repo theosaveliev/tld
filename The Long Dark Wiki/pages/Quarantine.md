@@ -1,20 +1,15 @@
----
-title: "Quarantine"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Quarantine"
----
-
 # Quarantine
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Quarantine)
 
 **Quarantine**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Quarantine_icon.png) / *Quarantine\_icon.png* |
+|  | ![](../assets/Quarantine_icon.png) / _Quarantine\_icon.png_ |
 | Description | Explore Perseverance Mills. |
 
-**Quarantine** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[Wintermute](./Wintermute.md)* [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Quarantine** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[Wintermute](./Wintermute.md)_ [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -26,5 +21,3 @@ This is an unmissable hidden achievement granted after completing the main story
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

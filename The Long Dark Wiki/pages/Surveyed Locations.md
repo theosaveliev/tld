@@ -1,10 +1,6 @@
----
-title: "Surveyed Locations"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Surveyed_Locations"
----
-
 # Surveyed Locations
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Surveyed_Locations)
 
 **Contents**
 
@@ -27,8 +23,8 @@ source: "https://thelongdark.fandom.com/wiki/Surveyed_Locations"
 - [Timberwolf Mountain - 20 Locations](#timberwolf-mountain---20-locations)
 - [Winding River - 2 Locations](#winding-river---2-locations)
 
-![An example of all the named locations and major icons in Coastal Highway.](../assets/MAP-ingame-CH-v162-Eng.jpg)*An example of all the named locations and major icons in Coastal Highway.*{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Surveyed locations in Survival Mode according to Regions discovered.  
- Locations required for the Faithful Cartographer Achievement.**
+![An example of all the named locations and major icons in Coastal Highway.](../assets/MAP-ingame-CH-v162-Eng.jpg)_An example of all the named locations and major icons in Coastal Highway._{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Surveyed locations in Survival Mode according to Regions discovered.  
+ Locations required for the Faithful Cartographer Achievement.__
 
 In-game description
 
@@ -40,7 +36,7 @@ As of the Part 4 Tales from the Far Territory update, there are currently 215 lo
 
 ## Overview
 
-This Collectible is a checklist of all named locations that can be surveyed within the game, conveniently located in the [Journal](./Journal.md) menu under the Collectibles tab. Undiscovered places will be hidden in the menu by default, but using the "force reveal" button will make them show, not affecting the achievement. ![An example of the text that appears in the top left corner when finding a named location. Hangar Basement is also an example of an unmarked location, as it does not appear on the map.](../assets/HangarBasementLights.jpg)*An example of the text that appears in the top left corner when finding a named location. Hangar Basement is also an example of an unmarked location, as it does not appear on the map.* Occasionally while exploring, a message will appear in the top left corner of the screen denoting the current area you have discovered is a Named Location. These locations can be either marked or unmarked on the [Map](./Map.md) after surveying the area with [Charcoal](./Charcoal.md). Named locations appear as major building icons, region transition barriers, or as black text on the Map. Surveying a named location will have it be recorded in the Surveyed Locations tab in the Collections submenu of the [Journal](./Journal.md).
+This Collectible is a checklist of all named locations that can be surveyed within the game, conveniently located in the [Journal](./Journal.md) menu under the Collectibles tab. Undiscovered places will be hidden in the menu by default, but using the "force reveal" button will make them show, not affecting the achievement. ![An example of the text that appears in the top left corner when finding a named location. Hangar Basement is also an example of an unmarked location, as it does not appear on the map.](../assets/HangarBasementLights.jpg)_An example of the text that appears in the top left corner when finding a named location. Hangar Basement is also an example of an unmarked location, as it does not appear on the map._ Occasionally while exploring, a message will appear in the top left corner of the screen denoting the current area you have discovered is a Named Location. These locations can be either marked or unmarked on the [Map](./Map.md) after surveying the area with [Charcoal](./Charcoal.md). Named locations appear as major building icons, region transition barriers, or as black text on the Map. Surveying a named location will have it be recorded in the Surveyed Locations tab in the Collections submenu of the [Journal](./Journal.md).
 
 Discovered locations will be recorded separately in the Stats menu and will not appear until surveyed.
 
@@ -54,11 +50,11 @@ Regions that are primarily filled with unmarked locations include [Far Range Bra
 
 The [Faithful Cartographer](./Faithful%20Cartographer.md) achievement requires all named locations in Survival Mode to be surveyed and appear on the map.
 
-- ***The most reliable way to get a proper survey is to survey as soon as the location pops on to your screen***
+- **_The most reliable way to get a proper survey is to survey as soon as the location pops on to your screen_**
 - Burn all fires for 1hr + to get at least 1 [charcoal](./Charcoal.md)
 - Take charcoal from every campfire, fire barrel, stove, etc you find
 - Triple check map &amp; surveyed locations list in-game
-- *Time moves while surveying (~20mins), make sure it's safe!*
+- _Time moves while surveying (~20mins), make sure it's safe!_
 
 ## Current List of Surveyed Locations
 
@@ -155,5 +151,3 @@ Note\* Some locations from each Region are missing on this list, as the Surveyed
 
 - Carter Hydro Dam (Transition to [Carter Hydro Dam](./Carter%20Hydro%20Dam.md))
 - To Cave System (Transition to [Pleasant Valley](./Pleasant%20Valley.md))
-
-**Lua execution error in Module:Navbox function navbox**

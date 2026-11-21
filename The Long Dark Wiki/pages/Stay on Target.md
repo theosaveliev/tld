@@ -1,11 +1,6 @@
----
-title: "Stay on Target"
-wiki_namespace: 0
-categories: ["Fire Starting", "Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Stay_on_Target"
----
-
 # Stay on Target
+
+**Categories:** Fire Starting, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Stay_on_Target)
 
 **Contents**
 
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Stay_on_Target"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Stay_on_Target_icon.png) / *Stay\_on\_Target\_icon.png* |
+|  | ![](../assets/Stay_on_Target_icon.png) / _Stay\_on\_Target\_icon.png_ |
 | Release | [23 September 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.364) |
 | Wintermute | No |
 | **Properties** |  |
@@ -43,7 +38,7 @@ source: "https://thelongdark.fandom.com/wiki/Stay_on_Target"
 
 ## Research
 
-*Stay on Target* can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Archery skill points](./Archery.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
+_Stay on Target_ can be researched for 5 hours that can be broken into multiple 1-hour minimum research sessions. 10 [Archery skill points](./Archery.md#Skill_levels) are awarded on completing the research. By selecting the Settled Mind [Feat](./Feats.md), research time will be reduced by 20%, putting it at 4 hours.
 
 Research can only be performed under the following conditions:
 
@@ -97,22 +92,20 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 - Makeshift cafeteria/mess hall inside the [Langston Mine](./Langston%20Mine.md), near the corpse where the duplicate [Sport Bow](./Sport%20Bow.md) can be found
 
-*Stay on Target* will also spawn inside the Hunting variant of the [Prepper Cache](./Prepper%20Cache.md) as well as inside [Cargo Containers](./Cargo%20Container.md) found in [Timberwolf Mountain](./Timberwolf%20Mountain.md).
+_Stay on Target_ will also spawn inside the Hunting variant of the [Prepper Cache](./Prepper%20Cache.md) as well as inside [Cargo Containers](./Cargo%20Container.md) found in [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 
 ## Trivia
 
-- Attempting to burn a copy of *Stay on Target* when it has not been fully read will give a confirmation warning before it can be burned.
-- Once a copy of *Stay on Target* (or any research book) is fully researched, it will no longer appear in the Tools section of the Backpack.
+- Attempting to burn a copy of _Stay on Target_ when it has not been fully read will give a confirmation warning before it can be burned.
+- Once a copy of _Stay on Target_ (or any research book) is fully researched, it will no longer appear in the Tools section of the Backpack.
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![3D Model](../assets/Stay_on_target.png) / *3D Model* |
+![3D Model](../assets/Stay_on_target.png)
+
+_3D Model_
 
 ## Update history
 
 - UPDATE **23 September 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#.364)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**

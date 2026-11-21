@@ -1,11 +1,6 @@
----
-title: "Coal"
-wiki_namespace: 0
-categories: ["Fire Starting", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Coal"
----
-
 # Coal
+
+**Categories:** Fire Starting, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coal)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Coal"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Coal_icon.png) / *Coal\_icon.png* |
+|  | ![](../assets/Coal_icon.png) / _Coal\_icon.png_ |
 | Release | [18 September 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.264) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Coal"
 | **Values** |  |
 | Weight | 0.3 kg (0.66 lbs) |
 
-**Coal** is a fuel item in *The Long Dark*.
+**Coal** is a fuel item in _The Long Dark_.
 
 ## Overview
 
@@ -59,7 +54,7 @@ Coal is found on the floor abundantly inside mines, some caves, and rarely along
 
 ## Respawn statistics
 
-Some caves and mines have more coal the first time that one visits the location. The following numbers are based on *return* visits, on [Interloper](./Interloper.md), after day 250.
+Some caves and mines have more coal the first time that one visits the location. The following numbers are based on _return_ visits, on [Interloper](./Interloper.md), after day 250.
 
 | Region | Location | Number of coal which respawn long-term (Interloper) | Note |
 | --- | --- | --- | --- |
@@ -100,5 +95,3 @@ Some caves and mines have more coal the first time that one visits the location.
   - Fixed issue with Coal sometimes spawning in air.
 - UPDATE **18 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.264)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Уголь](ru:%D0%A3%D0%B3%D0%BE%D0%BB%D1%8C)

@@ -1,16 +1,12 @@
----
-title: "High Energy"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/High_Energy"
----
-
 # High Energy
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/High_Energy)
 
 **High Energy**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Missions_story_ep5_HighEnergy.png) / *Missions\_story\_ep5\_HighEnergy.png* |
+|  | ![](../assets/Missions_story_ep5_HighEnergy.png) / _Missions\_story\_ep5\_HighEnergy.png_ |
 | Episode |  |
 | **Missions** |  |
 | Previous | [The Cold, Broken Road](./The%20Cold%2C%20Broken%20Road.md) |
@@ -19,9 +15,9 @@ source: "https://thelongdark.fandom.com/wiki/High_Energy"
 | Region | [Suzuki Environs](./Suzuki%20Environs.md) [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md) |
 | Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jace](./Jace.md) / [Atwood](./Atwood.md) |
 
-> “**Activate each Substation before the aurora returns.**”
+> “__Activate each Substation before the aurora returns.__”
 
-**High Energy** is the second mission of Part Two: Strange History in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [*The Long Dark*](./The%20Long%20Dark.md).
+**High Energy** is the second mission of Part Two: Strange History in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Objectives
 
@@ -39,5 +35,3 @@ source: "https://thelongdark.fandom.com/wiki/High_Energy"
 ## Walkthrough
 
 ## Trivia
-
-**Lua execution error in Module:Navbox function navbox**

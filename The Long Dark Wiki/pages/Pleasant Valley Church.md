@@ -1,21 +1,15 @@
----
-title: "Pleasant Valley Church"
-wiki_namespace: 0
-categories: ["Indoor locations", "Locations", "Locations in Pleasant Valley"]
-source: "https://thelongdark.fandom.com/wiki/Pleasant_Valley_Church"
----
-
 # Pleasant Valley Church
+
+**Categories:** Indoor locations, Locations, Locations in Pleasant Valley · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Church)
 
 **Pleasant Valley Church**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Pleasant_Valley_Church.jpg) / *Pleasant\_Valley\_Church.jpg* |
+|  | ![](../assets/Pleasant_Valley_Church.jpg) / _Pleasant\_Valley\_Church.jpg_ |
 | **Location** |  |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
 | Description | A local community church |
 | **General** |  |
 | Type |  |
-| ![](../assets/Bed_icon.png) / *bed\_icon.png* |  |
-|  | Has an interior\|} The **Pleasant Valley Church** is a church in [Thomson's Crossing](./Thomson%27s%20Crossing.md) in [Pleasant Valley](./Pleasant%20Valley.md). / ## Overview / The church is a small worship building, with many pews and [Books](./Book.md) inside. Other loot includes [Cloth (Object)](./Cloth%20%28Object%29.md), [Water (Potable)](./Water%20%28Potable%29.md), and the occasionally small food stuffs. / A [Mementos](./Mementos.md) can be found in the region leading to the piano. The [Loose Boards](./Loose%20Boards.md) under the piano has a chance of containing multiple [Emergency Stim](./Emergency%20Stim.md), along with other medical supplies. / ## Wintermute / In Wintermute, the church is the start of the [Church Artifact (mission)](./Church%20Artifact%20%28mission%29.md), requiring Astrid to find and return the long stolen [Church Artifact](./Church%20Artifact.md). ![The interior](../assets/Thomson_crossing_church_interior.jpg)*The interior* **Lua execution error in Module:Navbox function navbox** |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ |  |

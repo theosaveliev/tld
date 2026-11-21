@@ -1,17 +1,12 @@
----
-title: "Lock Box Key"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Lock_Box_Key"
----
-
 # Lock Box Key
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lock_Box_Key)
 
 **Lock Box Key**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Lock_Box_Key_icon.png) / *Lock\_Box\_Key\_icon.png* |
+|  | ![](../assets/Lock_Box_Key_icon.png) / _Lock\_Box\_Key\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Rumours](./Blackrock%20Rumours.md) |
 | **Properties** |  |
@@ -30,5 +25,3 @@ source: "https://thelongdark.fandom.com/wiki/Lock_Box_Key"
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

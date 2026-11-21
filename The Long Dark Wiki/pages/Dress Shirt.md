@@ -1,17 +1,12 @@
----
-title: "Dress Shirt"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Dress_Shirt"
----
-
 # Dress Shirt
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dress_Shirt)
 
 **Dress Shirt**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Dress_Shirt_icon.png) / *Dress\_Shirt\_icon.png* |
+|  | ![](../assets/Dress_Shirt_icon.png) / _Dress\_Shirt\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Inner torso |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Dress_Shirt"
 | Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 35% condition |
 
-> “**A simple cotton button-down shirt you'd wear to a boring office job. Good thing computers don't seem to work anymore!**”
+> “__A simple cotton button-down shirt you'd wear to a boring office job. Good thing computers don't seem to work anymore!__”
 >
 > — In-game description
 
-The **Dress Shirt** is a type of [clothing](./Clothing.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+The **Dress Shirt** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -37,13 +32,15 @@ A common starting item, the dress shirt is one of the worst clothing items in th
 
 The [Sweatshirt](./Sweatshirt.md) serves as a direct upgrade, offering all of the stats of a Dress Shirt alongside a slight waterproofing and protection bonus.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model](../assets/Dress_Shirt_Model_icon.png) / *Clothing model* | ![Clothing model damaged](../assets/Dress_Shirt_Model_Damaged_icon.png) / *Clothing model damaged* |
+![Clothing model](../assets/Dress_Shirt_Model_icon.png)
+
+_Clothing model_
+
+![Clothing model damaged](../assets/Dress_Shirt_Model_Damaged_icon.png)
+
+_Clothing model damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Сорочка](ru:%D0%A1%D0%BE%D1%80%D0%BE%D1%87%D0%BA%D0%B0)

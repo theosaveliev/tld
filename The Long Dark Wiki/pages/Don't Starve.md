@@ -1,20 +1,15 @@
----
-title: "Don't Starve"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Don't_Starve"
----
-
 # Don't Starve
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Don't_Starve)
 
 **Don't Starve**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Don%27t_Starve_icon.png) / *Don't\_Starve\_icon.png* |
+|  | ![](../assets/Don%27t_Starve_icon.png) / _Don't\_Starve\_icon.png_ |
 | Description | Keep calorie store above zero for 10 days. |
 
-**Don't Starve** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Don't Starve** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -25,5 +20,3 @@ This achievement is obtained after keeping Calorie store ([Hunger](./Hunger.md))
 This achievement was introduced on 1 April 2015 in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212).
 
 ## Trivia
-
-This achievement name may be a reference to the Don't Starve video games.**Lua execution error in Module:Navbox function navbox**

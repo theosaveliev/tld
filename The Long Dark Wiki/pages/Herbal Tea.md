@@ -1,11 +1,6 @@
----
-title: "Herbal Tea"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Herbal_Tea"
----
-
 # Herbal Tea
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Herbal_Tea)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Herbal_Tea"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Herbal_Tea_icon.png) / *Herbal\_Tea\_icon.png* |
+|  | ![](../assets/Herbal_Tea_icon.png) / _Herbal\_Tea\_icon.png_ |
 | Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) or very rarely through [Beachcombing](./Beachcombing.md)) |
@@ -44,7 +39,7 @@ When cooked, the condition will be 50% higher than the package it was made from,
 
 While the Herbal Tea deteriorates over time, cups of herbal tea do not. Therefore it's wise to make cups of herbal tea before the package becomes ruined.
 
-Herbal Tea is packaged as a product called *Sweet Dreams Herbal Tea*.
+Herbal Tea is packaged as a product called _Sweet Dreams Herbal Tea_.
 
 ## Products
 
@@ -58,13 +53,11 @@ The ingredients on the back list: "Chamomile Flower, Mint Leaf, Natural Flavors.
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model](../assets/Herbal_tea.png) / *Old model* |
+![Old model](../assets/Herbal_tea.png)
+
+_Old model_
 
 ## Update history
 
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Травяной\_чай](ru:%D0%A2%D1%80%D0%B0%D0%B2%D1%8F%D0%BD%D0%BE%D0%B9_%D1%87%D0%B0%D0%B9) [fr:Herbal\_Tea](fr:Herbal_Tea)

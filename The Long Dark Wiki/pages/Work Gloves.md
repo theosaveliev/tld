@@ -1,17 +1,12 @@
----
-title: "Work Gloves"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Work_Gloves"
----
-
 # Work Gloves
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Work_Gloves)
 
 **Work Gloves**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Work_Gloves_icon.png) / *Work\_Gloves\_icon.png* |
+|  | ![](../assets/Work_Gloves_icon.png) / _Work\_Gloves\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Hands |
@@ -25,23 +20,25 @@ source: "https://thelongdark.fandom.com/wiki/Work_Gloves"
 | Harvest | 1 × [Cured leather](./Cured%20Leather.md) / 10 minutes |
 | Repair | 1 × [Cured leather](./Cured%20Leather.md) / 30 minutes / 25% condition |
 
-> “**Heavy leather gloves designed to protect the hands on the worksite. Unfortunately, not really designed for warmth.**”
+> “__Heavy leather gloves designed to protect the hands on the worksite. Unfortunately, not really designed for warmth.__”
 >
 > — In-game description
 
-**Work Gloves** are a type of [clothing](./Clothing.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Work Gloves** are a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
 Work gloves have similar stats and appearance to the [Ski Gloves](./Ski%20Gloves.md), but provide more protection, less windchill bonus, and no waterproof bonus.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model damaged](../assets/Work_Gloves_Damaged_icon.png) / *Clothing model damaged* | ![Clothing Model](../assets/Work_Gloves_Model_icon.png) / *Clothing Model* |
+![Clothing model damaged](../assets/Work_Gloves_Damaged_icon.png)
+
+_Clothing model damaged_
+
+![Clothing Model](../assets/Work_Gloves_Model_icon.png)
+
+_Clothing Model_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Рабочие\_перчатки](ru:%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B5_%D0%BF%D0%B5%D1%80%D1%87%D0%B0%D1%82%D0%BA%D0%B8)

@@ -1,17 +1,12 @@
----
-title: "Grey Mother's Safety Deposit Box"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Grey_Mother's_Safety_Deposit_Box"
----
-
 # Grey Mother's Safety Deposit Box
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Grey_Mother's_Safety_Deposit_Box)
 
 **Grey Mother's Safety Deposit Box**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Grey_Mother%27s_Safety_Deposit_Box_icon.png) / *Grey\_Mother's\_Safety\_Deposit\_Box\_icon.png* |
+|  | ![](../assets/Grey_Mother%27s_Safety_Deposit_Box_icon.png) / _Grey\_Mother's\_Safety\_Deposit\_Box\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Grey Mother](./The%20Grey%20Mother.md) |
 | **Properties** |  |
@@ -34,5 +29,3 @@ During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) retrie
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

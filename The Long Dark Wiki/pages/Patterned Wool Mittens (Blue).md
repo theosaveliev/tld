@@ -1,17 +1,12 @@
----
-title: "Patterned Wool Mittens (Blue)"
-wiki_namespace: 0
-categories: ["Clothing", "DLC Content"]
-source: "https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_(Blue)"
----
-
 # Patterned Wool Mittens \(Blue\)
+
+**Categories:** Clothing, DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_%28Blue%29)
 
 **Patterned Wool Mittens (Blue)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Patterned_Wool_Mittens_%28Blue%29_icon.png) / *Patterned\_Wool\_Mittens\_(Blue)\_icon.png* |
+|  | ![](../assets/Patterned_Wool_Mittens_%28Blue%29_icon.png) / _Patterned\_Wool\_Mittens\_(Blue)\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Hands |
@@ -27,18 +22,20 @@ source: "https://thelongdark.fandom.com/wiki/Patterned_Wool_Mittens_(Blue)"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | **Patterned Wool Mittens with a reinforced palm. Warm and durable.** / In-game description | ” |
+| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __Patterned Wool Mittens with a reinforced palm. Warm and durable.__ / In-game description | ” |
 
-**Patterned Wool Mittens (Blue)** is the name given to 3 unique variations of [Wool Mittens](./Wool%20Mittens.md) that can be acquired from the [Trader](./Trader.md)**,** are a type of [Clothing](./Clothing.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Patterned Wool Mittens (Blue)** is the name given to 3 unique variations of [Wool Mittens](./Wool%20Mittens.md) that can be acquired from the [Trader](./Trader.md)**,** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
 Wool mittens have the best warmth-to-weight ratio of any pair of gloves and are easy to maintain, however they offer little protection against animal attacks.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model](../assets/Patterned_Wool_Mittens_%28Blue%29_model.png) / *Clothing model* | ![Clothing model damaged](../assets/Patterned_Wool_Mittens_%28Blue%29_model_damaged.png) / *Clothing model damaged* |
+![Clothing model](../assets/Patterned_Wool_Mittens_%28Blue%29_model.png)
+
+_Clothing model_
+
+![Clothing model damaged](../assets/Patterned_Wool_Mittens_%28Blue%29_model_damaged.png)
+
+_Clothing model damaged_
 
 ## Update history
-
-**Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Шерстяные варежки с узором](ru:%D0%A8%D0%B5%D1%80%D1%81%D1%82%D1%8F%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B0%D1%80%D0%B5%D0%B6%D0%BA%D0%B8_%D1%81_%D1%83%D0%B7%D0%BE%D1%80%D0%BE%D0%BC)

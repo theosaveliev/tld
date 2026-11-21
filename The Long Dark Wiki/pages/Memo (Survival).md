@@ -1,17 +1,12 @@
----
-title: "Memo (Survival)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Memo_(Survival)"
----
-
 # Memo \(Survival\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Memo_%28Survival%29)
 
 **Memo (Survival)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Memo_%28Survival%29_icon.png) / *Memo\_(Survival)\_icon.png* |
+|  | ![](../assets/Memo_%28Survival%29_icon.png) / _Memo\_(Survival)\_icon.png_ |
 | Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Memo_(Survival)"
 
 ## Transcript
 
-*The following text is transcribed from **Memo***
+_The following text is transcribed from **Memo**_
 
 **Welcome Associate!  
    
@@ -47,7 +42,5 @@ source: "https://thelongdark.fandom.com/wiki/Memo_(Survival)"
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Памятка (Подвал ангара)](ru:%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B0_%28%D0%9F%D0%BE%D0%B4%D0%B2%D0%B0%D0%BB_%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B0%29)

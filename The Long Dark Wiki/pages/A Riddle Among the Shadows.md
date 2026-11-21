@@ -1,10 +1,6 @@
----
-title: "A Riddle Among the Shadows"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/A_Riddle_Among_the_Shadows"
----
-
 # A Riddle Among the Shadows
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/A_Riddle_Among_the_Shadows)
 
 **Contents**
 
@@ -21,7 +17,7 @@ source: "https://thelongdark.fandom.com/wiki/A_Riddle_Among_the_Shadows"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Forest_Talker_Letter.jpg) / *Forest\_Talker\_Letter.jpg* |
+|  | ![](../assets/Forest_Talker_Letter.jpg) / _Forest\_Talker\_Letter.jpg_ |
 | Episode |  |
 | **Missions** |  |
 | Current | A Riddle Among the Shadows |
@@ -46,18 +42,49 @@ It has 3 clues:
 
 Clue two is found on floor 2, in the area where there's a bed and 3 lockers. It's up on a wooden rampart with a corpse and a marked X on the floor. By standing on the floor, you see a light flash in the distance. By counting the number flashes, you will get the second number
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![riddle among shadows - clue 2](../assets/2nd_floor_light_system_clue_-_stand_here.jpg) / *riddle among shadows - clue 2* | ![riddle among shadows - clue 2 flash](../assets/2nd_floor_light_system_clue_-_flashes_7_times.jpg) / *riddle among shadows - clue 2 flash* | ![mines floor 2 - main room](../assets/2nd_floor_room.jpg) / *mines floor 2 - main room* |
+![riddle among shadows - clue 2](../assets/2nd_floor_light_system_clue_-_stand_here.jpg)
+
+_riddle among shadows - clue 2_
+
+![riddle among shadows - clue 2 flash](../assets/2nd_floor_light_system_clue_-_flashes_7_times.jpg)
+
+_riddle among shadows - clue 2 flash_
+
+![mines floor 2 - main room](../assets/2nd_floor_room.jpg)
+
+_mines floor 2 - main room_
 
 #### Clue 3
 
 Clue three is found on 5-6 signs on the 2nd and 1st floors. Presumably you've grabbed the detonators on floor 2 near the area with the bed and 3 lockers. Grabbing the detonators allows you to use the bolt cutters to cut the chain lock on the fence door nearby. Grab all the items you want to bring with you from the mine. Cut the chain. Then proceed towards the exit. You will find a series of signs, each with a letter marked off with an X. After noting the signs on floor two, take the elevator and go to floor 1. Continuing on you want to follow the exit signs. When you assemble the crossed out letters they spell out the first number.
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![yellow marking 1](../assets/Riddle_among_shadows_-_Yellow_marking1.jpg) / *yellow marking 1* | ![yellow marking 2](../assets/Riddle_among_shadows_-_Yellow_marking2.jpg) / *yellow marking 2* | ![yellow marking 3](../assets/Riddle_among_shadows_-_Yellow_marking3.jpg) / *yellow marking 3* | ![yellow marking 4](../assets/Riddle_among_shadows_-_Yellow_marking4.jpg) / *yellow marking 4* |
-| ![yellow marking 5](../assets/Riddle_among_shadows_-_Yellow_marking5.jpg) / *yellow marking 5* | ![yellow marking 6](../assets/Doubleyew.png) / *yellow marking 6* | ![supply cache](../assets/Riddle_Among_the_shadows_-_Supply_cache.jpg) / *supply cache* |  |
+![yellow marking 1](../assets/Riddle_among_shadows_-_Yellow_marking1.jpg)
+
+_yellow marking 1_
+
+![yellow marking 2](../assets/Riddle_among_shadows_-_Yellow_marking2.jpg)
+
+_yellow marking 2_
+
+![yellow marking 3](../assets/Riddle_among_shadows_-_Yellow_marking3.jpg)
+
+_yellow marking 3_
+
+![yellow marking 4](../assets/Riddle_among_shadows_-_Yellow_marking4.jpg)
+
+_yellow marking 4_
+
+![yellow marking 5](../assets/Riddle_among_shadows_-_Yellow_marking5.jpg)
+
+_yellow marking 5_
+
+![yellow marking 6](../assets/Doubleyew.png)
+
+_yellow marking 6_
+
+![supply cache](../assets/Riddle_Among_the_shadows_-_Supply_cache.jpg)
+
+_supply cache_
 
 #### Combination
 
@@ -71,18 +98,16 @@ Once you find all of the notes, you can pick the lock without knowing the combin
 
 ## Transcript
 
-*When Mackenzie picks up the first note*
+_When Mackenzie picks up the first note_
 
 Mackenzie: "I see..."
 
-*When Mackenzie picks up the second note*
+_When Mackenzie picks up the second note_
 
 Mackenzie: "What next?"
 
-*When Mackenzie picks up the third note*
+_When Mackenzie picks up the third note_
 
 Mackenzie: "Finally."
 
-*If the player walks over to the X near the [Bolt Cutters](./Bolt%20Cutters.md), a lantern flashes in the distance giving a hint*
-
-Mackenzie: "Ah ha..."**Lua execution error in Module:Navbox function navbox**
+_If the player walks over to the X near the [Bolt Cutters](./Bolt%20Cutters.md), a lantern flashes in the distance giving a hint_

@@ -1,11 +1,6 @@
----
-title: "Struggle"
-wiki_namespace: 0
-categories: ["Gameplay", "Wildlife"]
-source: "https://thelongdark.fandom.com/wiki/Struggle"
----
-
 # Struggle
+
+**Categories:** Gameplay, Wildlife · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Struggle)
 
 **Contents**
 
@@ -28,8 +23,8 @@ source: "https://thelongdark.fandom.com/wiki/Struggle"
 
 ## Overview
 
-> “**Jeremiah: "Wolves - - they hate fire, like most wildlife. Campfire'll keep them away from you at night, most of the time. Improvise a torch if you have to. Flare will work too, you know one of those emergency ones for road accidents. Sometimes, if you get lucky, a stone to the head will scare them off."  
- Mackenzie: "And if I don't have any of those things?"**”
+> “__Jeremiah: "Wolves - - they hate fire, like most wildlife. Campfire'll keep them away from you at night, most of the time. Improvise a torch if you have to. Flare will work too, you know one of those emergency ones for road accidents. Sometimes, if you get lucky, a stone to the head will scare them off."  
+ Mackenzie: "And if I don't have any of those things?"__”
 >
 > — Jeremiah: "Then wait until they're close, and hit them with anything you can. Knife. Hammer. Hatchet. Or your own damn hands. And you don't stop hitting until one of you is dead." Mackenzie: "There's a theme here, isn't there?" Jeremiah: "Yeah. That is it: fight if you want to live. It's more Hobbes than Darwin. [Jeremiah](./Jeremiah.md) and [Mackenzie](./Will%20Mackenzie.md) discussing wolves (Predux)
 
@@ -37,13 +32,13 @@ Struggles typically result in a loss of [Condition](./Condition.md) via the foll
 
 | Image | Affliction | Min Damage | Max Damage |
 | --- | --- | --- | --- |
-| ![](../assets/Blood_Loss_icon.png) / *Blood\_Loss\_icon.png* | [Blood Loss](./Blood%20Loss.md) | 15 | 20 |
-| ![](../assets/Sprained_Ankle_icon.png) / *Sprained\_Ankle\_icon.png* | [Sprained Ankle](./Sprained%20Ankle.md) | 0 | 0 |
-| ![](../assets/Sprained_Wrist_icon.png) / *Sprained\_Wrist\_icon.png* | [Sprained Wrist](./Sprained%20Wrist.md) | 0 | 0 |
-| ![](../assets/Laceration_icon.png) / *Laceration\_icon.png* | [Laceration](./Laceration.md) | 5 | 10 |
-| ![](../assets/Minor_Bruising_icon.png) / *Minor\_Bruising\_icon.png* | [Minor Bruising](./Minor%20Bruising.md) | 5 | 10 |
-| ![](../assets/Major_Bruising_icon.png) / *Major\_Bruising\_icon.png* | [Major Bruising](./Major%20Bruising.md) | 10 | 15 |
-| ![](../assets/Torn_Clothing_icon.png) / *Torn\_Clothing\_icon.png* | [Torn Clothing](./Torn%20Clothing.md) | 15 (To Clothing) | 25 (To Clothing) |
+| ![](../assets/Blood_Loss_icon.png) / _Blood\_Loss\_icon.png_ | [Blood Loss](./Blood%20Loss.md) | 15 | 20 |
+| ![](../assets/Sprained_Ankle_icon.png) / _Sprained\_Ankle\_icon.png_ | [Sprained Ankle](./Sprained%20Ankle.md) | 0 | 0 |
+| ![](../assets/Sprained_Wrist_icon.png) / _Sprained\_Wrist\_icon.png_ | [Sprained Wrist](./Sprained%20Wrist.md) | 0 | 0 |
+| ![](../assets/Laceration_icon.png) / _Laceration\_icon.png_ | [Laceration](./Laceration.md) | 5 | 10 |
+| ![](../assets/Minor_Bruising_icon.png) / _Minor\_Bruising\_icon.png_ | [Minor Bruising](./Minor%20Bruising.md) | 5 | 10 |
+| ![](../assets/Major_Bruising_icon.png) / _Major\_Bruising\_icon.png_ | [Major Bruising](./Major%20Bruising.md) | 10 | 15 |
+| ![](../assets/Torn_Clothing_icon.png) / _Torn\_Clothing\_icon.png_ | [Torn Clothing](./Torn%20Clothing.md) | 15 (To Clothing) | 25 (To Clothing) |
 
 The above damage values are always increased by 50% on Interloper.
 
@@ -51,11 +46,11 @@ The following Afflictions can also be acquired during Struggles:
 
 | Image | Affliction | Source |
 | --- | --- | --- |
-| ![](../assets/Infection_Risk_icon.png) / *Infection\_Risk\_icon.png* | [Infection Risk](./Infection%20Risk.md) | Acquire Blood Loss |
-| ![](../assets/Chemical_Poisoning_Risk_icon.png) / *Chemical\_Poisoning\_Risk\_icon.png* | [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md) | [Poisoned Wolf](./Poisoned%20Wolf.md) Struggles |
-| ![](../assets/Pain_icon.png) / *Pain\_icon.png* | [Pain](./Pain.md) | Sprained Ankle/Wrist |
-| ![](../assets/Broken_Ribs_icon.png) / *Broken\_Ribs\_icon.png* | [Broken Ribs](./Broken%20Ribs.md) | [Moose](./Moose.md) Struggles |
-| ![](../assets/Severe_Lacerations_icon.png) / *Severe\_Lacerations\_icon.png* | [Severe Lacerations](./Severe%20Lacerations.md) | [Cougar](./Cougar.md) Struggles |
+| ![](../assets/Infection_Risk_icon.png) / _Infection\_Risk\_icon.png_ | [Infection Risk](./Infection%20Risk.md) | Acquire Blood Loss |
+| ![](../assets/Chemical_Poisoning_Risk_icon.png) / _Chemical\_Poisoning\_Risk\_icon.png_ | [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md) | [Poisoned Wolf](./Poisoned%20Wolf.md) Struggles |
+| ![](../assets/Pain_icon.png) / _Pain\_icon.png_ | [Pain](./Pain.md) | Sprained Ankle/Wrist |
+| ![](../assets/Broken_Ribs_icon.png) / _Broken\_Ribs\_icon.png_ | [Broken Ribs](./Broken%20Ribs.md) | [Moose](./Moose.md) Struggles |
+| ![](../assets/Severe_Lacerations_icon.png) / _Severe\_Lacerations\_icon.png_ | [Severe Lacerations](./Severe%20Lacerations.md) | [Cougar](./Cougar.md) Struggles |
 
 Wolf Struggles are partially scripted and can be defended against with certain [Tools](./Tools.md), Bear and Moose struggles are fully scripted and always result in a player defeat. Animals wounded prior to the start of a struggle can be killed during it, and Wolves wounded in struggles can later bleed out and die.
 
@@ -67,21 +62,21 @@ Different tools are more or less effective at ending the struggle (scaring the W
 
 | Image | Weapon | Damage Type | Damage[¹](#fn1) | Flee Chance[²](#fn2) | Puncture Bleedout | Tool Decay |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Anywhere_icon.png) / *Anywhere\_icon.png* | Bare Hands | Desperation | 0.00% | 1.00% | None | 0 |
-| ![](../assets/Hunting_Knife_icon.png) / *Hunting\_Knife\_icon.png* | [Hunting Knife](./Hunting%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | 2 |
-| ![](../assets/Improvised_Knife_icon.png) / *Improvised\_Knife\_icon.png* | [Improvised Knife](./Improvised%20Knife.md) | Puncture | 2.00% | 1.30% | 20 min | 3 |
-| ![](../assets/Survival_Knife_icon.png) / *Survival\_Knife\_icon.png* | [Survival Knife](./Survival%20Knife.md) | Puncture | 3.50% | 1.30% | 16 min | 1.5 |
-| ![](../assets/Scrap_Metal_Shard_icon.png) / *Scrap\_Metal\_Shard\_icon.png* | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) | Puncture | 3.00% | 1.30% | 40 min | 3 |
-| ![](../assets/Jeremiah%27s_Knife_icon.png) / *Jeremiah's\_Knife\_icon.png* | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | 2 |
-| ![](../assets/Cougar_Claw_Knife_icon.png) / *Cougar\_Claw\_Knife\_icon.png* | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | Puncture | 4.00% | 1.30% | 10 min | 2 |
-| ![](../assets/Hatchet_icon.png) / *Hatchet\_icon.png* | [Hatchet](./Hatchet.md) | Slashing | 4.00% | 1.50% | 30 min | 2 |
-| ![](../assets/Improvised_Hatchet_icon.png) / *Improvised\_Hatchet\_icon.png* | [Improvised Hatchet](./Improvised%20Hatchet.md) | Slashing | 3.00% | 1.25% | 40 min | 3 |
-| ![](../assets/Prybar_icon.png) / *Prybar\_icon.png* | [Prybar](./Prybar.md) | Scare | 1.25% | 1.50% | None | 2 |
-| ![](../assets/Heavy_Hammer_icon.png) / *Heavy\_Hammer\_icon.png* | [Heavy Hammer](./Heavy%20Hammer.md) | Scare | 2.00% | 4.00% | None | 1 |
-| ![](../assets/Revolver_icon.png) / *Revolver\_icon.png* | [Revolver](./Revolver.md)[³](#fn3) | Strike | 1.00% | 1.00% | None | 1 |
-| ![](../assets/Forester%27s_Revolver_icon.png) / *Forester's\_Revolver\_icon.png* | [Forester's Revolver](./Forester%27s%20Revolver.md)[⁴](#fn4) | Strike | 1.00% | 1.00% | None | 1 |
-| ![](../assets/Hunter%27s_Revolver_icon.png) / *Hunter's\_Revolver\_icon.png* | [Hunter's Revolver](./Hunter%27s%20Revolver.md)[⁵](#fn5) | Strike | 1.00% | 1.00% | None | 1 |
-| ![](../assets/Warden%27s_Revolver_icon.png) / *Warden's\_Revolver\_icon.png* | [Warden's Revolver](./Warden%27s%20Revolver.md)[⁶](#fn6) | Strike | 1.00% | 1.00% | None | 1 |
+| ![](../assets/Anywhere_icon.png) / _Anywhere\_icon.png_ | Bare Hands | Desperation | 0.00% | 1.00% | None | 0 |
+| ![](../assets/Hunting_Knife_icon.png) / _Hunting\_Knife\_icon.png_ | [Hunting Knife](./Hunting%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | 2 |
+| ![](../assets/Improvised_Knife_icon.png) / _Improvised\_Knife\_icon.png_ | [Improvised Knife](./Improvised%20Knife.md) | Puncture | 2.00% | 1.30% | 20 min | 3 |
+| ![](../assets/Survival_Knife_icon.png) / _Survival\_Knife\_icon.png_ | [Survival Knife](./Survival%20Knife.md) | Puncture | 3.50% | 1.30% | 16 min | 1.5 |
+| ![](../assets/Scrap_Metal_Shard_icon.png) / _Scrap\_Metal\_Shard\_icon.png_ | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) | Puncture | 3.00% | 1.30% | 40 min | 3 |
+| ![](../assets/Jeremiah%27s_Knife_icon.png) / _Jeremiah's\_Knife\_icon.png_ | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | 2 |
+| ![](../assets/Cougar_Claw_Knife_icon.png) / _Cougar\_Claw\_Knife\_icon.png_ | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | Puncture | 4.00% | 1.30% | 10 min | 2 |
+| ![](../assets/Hatchet_icon.png) / _Hatchet\_icon.png_ | [Hatchet](./Hatchet.md) | Slashing | 4.00% | 1.50% | 30 min | 2 |
+| ![](../assets/Improvised_Hatchet_icon.png) / _Improvised\_Hatchet\_icon.png_ | [Improvised Hatchet](./Improvised%20Hatchet.md) | Slashing | 3.00% | 1.25% | 40 min | 3 |
+| ![](../assets/Prybar_icon.png) / _Prybar\_icon.png_ | [Prybar](./Prybar.md) | Scare | 1.25% | 1.50% | None | 2 |
+| ![](../assets/Heavy_Hammer_icon.png) / _Heavy\_Hammer\_icon.png_ | [Heavy Hammer](./Heavy%20Hammer.md) | Scare | 2.00% | 4.00% | None | 1 |
+| ![](../assets/Revolver_icon.png) / _Revolver\_icon.png_ | [Revolver](./Revolver.md)[³](#fn3) | Strike | 1.00% | 1.00% | None | 1 |
+| ![](../assets/Forester%27s_Revolver_icon.png) / _Forester's\_Revolver\_icon.png_ | [Forester's Revolver](./Forester%27s%20Revolver.md)[⁴](#fn4) | Strike | 1.00% | 1.00% | None | 1 |
+| ![](../assets/Hunter%27s_Revolver_icon.png) / _Hunter's\_Revolver\_icon.png_ | [Hunter's Revolver](./Hunter%27s%20Revolver.md)[⁵](#fn5) | Strike | 1.00% | 1.00% | None | 1 |
+| ![](../assets/Warden%27s_Revolver_icon.png) / _Warden's\_Revolver\_icon.png_ | [Warden's Revolver](./Warden%27s%20Revolver.md)[⁶](#fn6) | Strike | 1.00% | 1.00% | None | 1 |
 
 Note some [Tools](./Tools.md) cannot be selected as defense options during a Wolf Struggle, this includes the [Hacksaw](./Hacksaw.md), [Hunting Rifle](./Hunting%20Rifle.md), [Survival Bow](./Survival%20Bow.md), [Bear Spear](./Bear%20Spear.md), [Distress Pistol](./Distress%20Pistol.md), [Storm Lantern](./Storm%20Lantern.md), [Flashlight](./Flashlight.md), and [Stone](./Stone.md).
 
@@ -103,11 +98,11 @@ Injured Wolves are much easier to scare during Struggles than full health Wolves
 
 ### Poisoned Wolf
 
-![A Poisoned Wolf afflicting a Sprain during a Struggle.](../assets/Poisoned_Wolf_Struggle.jpg)*A Poisoned Wolf afflicting a Sprain during a Struggle.* Struggles with [Poisoned Wolves](./Poisoned%20Wolf.md) are virtually identical to regular Wolves, but will always result in [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md) buildup when a player is attacked. Due to the desperate and malnourished state that regular Poisoned Wolves suffer from, encounters with them are generally more likely to result in Struggles.
+![A Poisoned Wolf afflicting a Sprain during a Struggle.](../assets/Poisoned_Wolf_Struggle.jpg)_A Poisoned Wolf afflicting a Sprain during a Struggle._ Struggles with [Poisoned Wolves](./Poisoned%20Wolf.md) are virtually identical to regular Wolves, but will always result in [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md) buildup when a player is attacked. Due to the desperate and malnourished state that regular Poisoned Wolves suffer from, encounters with them are generally more likely to result in Struggles.
 
 ### Timberwolf
 
-![A Timberwolf initiating a Struggle](../assets/Timberwolf.jpg)*A Timberwolf initiating a Struggle* Timberwolves typically perform "bite and run" tactics by performing a single bite attack and then quickly keeping their distance during a pack attack in order to wear the player's health down. Occasionally, a single [Timberwolf](./Timberwolf.md) will grapple the player and initiate a Struggle to finish a survivor off after enough time has passed in an encounter, or if a player remains still for too long. The same principles of regular Wolf Struggles apply to these situations, presenting the player with a choice to pick a weapon to defend one's self.
+![A Timberwolf initiating a Struggle](../assets/Timberwolf.jpg)_A Timberwolf initiating a Struggle_ Timberwolves typically perform "bite and run" tactics by performing a single bite attack and then quickly keeping their distance during a pack attack in order to wear the player's health down. Occasionally, a single [Timberwolf](./Timberwolf.md) will grapple the player and initiate a Struggle to finish a survivor off after enough time has passed in an encounter, or if a player remains still for too long. The same principles of regular Wolf Struggles apply to these situations, presenting the player with a choice to pick a weapon to defend one's self.
 
 ## Mauling
 
@@ -125,7 +120,7 @@ The in-game mechanics of bear mauling can be deduced from [this YouTube video](h
 
 - [Condition](./Condition.md) damage, along with [Blood Loss](./Blood%20Loss.md) and [Infection Risk](./Infection%20Risk.md), is applied as soon as the bear makes contact with the player's hitbox.
 - Then the struggle begins, during which time the player cannot retaliate.
-- The player's items are scattered about and [Clothing](./Clothing.md) is damaged *after the struggle is over*.
+- The player's items are scattered about and [Clothing](./Clothing.md) is damaged _after the struggle is over_.
   - This is similar to a lost [Wolf](./Wolf.md) struggle.
   - If the bear dies during the struggle (i.e. from blood loss), then the player has "won", their clothing remains intact, and everything remains in their backpack.
 
@@ -175,12 +170,25 @@ Aurora Bears will also be just as aggressive, but their damage values remain con
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![An Aurora Wolf Struggle](../assets/Aurora_Wolf_Struggle.jpg) / *An Aurora Wolf Struggle* | ![Cougar Struggle](../assets/Cougar_Struggle.jpg) / *Cougar Struggle* | ![Alpha version Struggle menu](../assets/Alpha_Wolf_Struggle.jpg) / *Alpha version Struggle menu* | ![A Moose staring at the player before stomping them](../assets/Mooseattack.jpg) / *A Moose staring at the player before stomping them* |
-| ![A "Demon Wolf" in the 4 Days of Night Event attacking the player](../assets/Demon_wolf_pounce.jpg) / *A "Demon Wolf" in the [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md) attacking the player* |  |  |  |
+![An Aurora Wolf Struggle](../assets/Aurora_Wolf_Struggle.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_An Aurora Wolf Struggle_
+
+![Cougar Struggle](../assets/Cougar_Struggle.jpg)
+
+_Cougar Struggle_
+
+![Alpha version Struggle menu](../assets/Alpha_Wolf_Struggle.jpg)
+
+_Alpha version Struggle menu_
+
+![A Moose staring at the player before stomping them](../assets/Mooseattack.jpg)
+
+_A Moose staring at the player before stomping them_
+
+![A "Demon Wolf" in the 4 Days of Night Event attacking the player](../assets/Demon_wolf_pounce.jpg)
+
+_A "Demon Wolf" in the [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md) attacking the player_
 
 ## Notes
 

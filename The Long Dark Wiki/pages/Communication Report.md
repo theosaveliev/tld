@@ -1,17 +1,12 @@
----
-title: "Communication Report"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Communication_Report"
----
-
 # Communication Report
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Communication_Report)
 
 **Communication Report**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Communication_Report_icon.png) / *Communication\_Report\_icon.png* |
+|  | ![](../assets/Communication_Report_icon.png) / _Communication\_Report\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Communication_Report"
 
 ## Transcript
 
-*The following text is transcribed from **Communications Report***
+_The following text is transcribed from **Communications Report**_
 
 **Request extraction. Wolves everywhere. Chased out of the Muskeg to the coast. All predator deterrents failed.
 
@@ -43,7 +38,5 @@ Partner Specialist 81926**
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Отчет](ru:%D0%9E%D1%82%D1%87%D0%B5%D1%82)

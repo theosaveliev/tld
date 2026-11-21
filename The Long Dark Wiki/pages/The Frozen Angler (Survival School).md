@@ -1,19 +1,14 @@
----
-title: "The Frozen Angler (Survival School)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/The_Frozen_Angler_(Survival_School)"
----
-
 # The Frozen Angler \(Survival School\)
 
-*For the version encountered in [Survival Mode](./Survival%20Mode.md), see [The Frozen Angler](./The%20Frozen%20Angler.md).*
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Frozen_Angler_%28Survival_School%29)
+
+_For the version encountered in [Survival Mode](./Survival%20Mode.md), see [The Frozen Angler](./The%20Frozen%20Angler.md)._
 
 **The Frozen Angler**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Frozen_Angler_icon.png) / *The\_Frozen\_Angler\_icon.png* |
+|  | ![](../assets/The_Frozen_Angler_icon.png) / _The\_Frozen\_Angler\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Basics of Survival](./The%20Basics%20of%20Survival.md) |
 | **Properties** |  |
@@ -36,5 +31,3 @@ During the course of the mission, Mackenzie finds the book in a chair in [Camp O
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

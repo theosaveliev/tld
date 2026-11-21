@@ -1,20 +1,15 @@
----
-title: "Face the Impossible"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Face_the_Impossible"
----
-
 # Face the Impossible
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Face_the_Impossible)
 
 **Face the Impossible**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Face_the_Impossible_icon.png) / *Face\_the\_Impossible\_icon.png* |
+|  | ![](../assets/Face_the_Impossible_icon.png) / _Face\_the\_Impossible\_icon.png_ |
 | Description | Survive at least one day on Interloper difficulty |
 
-**Face the Impossible** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Face the Impossible** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -29,5 +24,3 @@ The easiest way to unlock this achievement is to find a [Bed](./Bed.md) indoors 
 You have no [matches](./Matches%20%28disambiguation%29.md) when first starting but you need to find something to get hydrated. After the cold, the [Thirst](./Thirst.md) is the second most important [Need](./Needs.md) to satisfy at this difficulty. The best choice is probably to reach a building with a [toilet](./Toilet.md) and gather some water. This is much easier than finding matches and boiling water. If you are lucky you can also find a drink that can restore your thirst and [hunger](./Hunger.md) level.
 
 - If you have been lucky and still have high condition you don't need to sleep or eat. [Cat tails](./Cat%20Tail.md) are an easy and risk free food to harvest that can be found nearly everywhere, they don't reduce the hydration level, which is great considering the limited amount of water that you could have found. Remember that you don't have a [bedroll](./Bedroll.md) so you need to find a bed (caves and cars won't work due to the low temperatures inside at this difficult level).
-
-**Lua execution error in Module:Navbox function navbox**[ru:Достижения Steam](ru:%D0%94%D0%BE%D1%81%D1%82%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_Steam)

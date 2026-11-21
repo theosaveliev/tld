@@ -1,17 +1,12 @@
----
-title: "Notebook Page"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Notebook_Page"
----
-
 # Notebook Page
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Notebook_Page)
 
 **Notebook Page**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Notebook_Page_icon.png) / *Notebook\_Page\_icon.png* |
+|  | ![](../assets/Notebook_Page_icon.png) / _Notebook\_Page\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Rumours](./Blackrock%20Rumours.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Notebook_Page"
 
 ## Transcript
 
-*The following text is transcribed from **Notebook Page***
+_The following text is transcribed from **Notebook Page**_
 
 **...something decent this time. Prices climbing.
 
@@ -40,5 +35,3 @@ Red gold or something better? Gotta try.**
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

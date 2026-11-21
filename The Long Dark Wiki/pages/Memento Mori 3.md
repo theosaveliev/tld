@@ -1,17 +1,12 @@
----
-title: "Memento Mori 3"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Memento_Mori_3"
----
-
 # Memento Mori 3
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Memento_Mori_3)
 
 **Memento Mori 3**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Memento_Mori_3_icon.png) / *Memento\_Mori\_3\_icon.png* |
+|  | ![](../assets/Memento_Mori_3_icon.png) / _Memento\_Mori\_3\_icon.png_ |
 | Release | [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Memento_Mori_3"
 
 ## Transcript
 
-*The following text is transcribed from **Memento Mori 3***
+_The following text is transcribed from **Memento Mori 3**_
 
 **I left you behind. My guts freezing. My feet on fire. Each step a hundred years. It was too far, too far.**
 
@@ -36,5 +31,3 @@ source: "https://thelongdark.fandom.com/wiki/Memento_Mori_3"
 UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Added to game
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Moose Meat (Cooked)"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Moose_Meat_(Cooked)"
----
-
 # Moose Meat \(Cooked\)
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Moose_Meat_%28Cooked%29)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Moose_Meat_(Cooked)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Moose_Meat_%28Cooked%29_icon.png) / *Moose\_Meat\_(Cooked)\_icon.png* |
+|  | ![](../assets/Moose_Meat_%28Cooked%29_icon.png) / _Moose\_Meat\_(Cooked)\_icon.png_ |
 | Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16) |
 | Wintermute | No |
 | **Properties** |  |
@@ -32,9 +27,9 @@ source: "https://thelongdark.fandom.com/wiki/Moose_Meat_(Cooked)"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_CookedMeatMoose |
 
-*For the raw version, see [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md).*
+_For the raw version, see [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md)._
 
-**Moose Meat (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in *The Long Dark*.
+**Moose Meat (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
 ## Overview
 
@@ -60,14 +55,31 @@ Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked fo
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Fresh](../assets/Moose_Meat_%28Cooked%29_Gamey_icon.png) / *Fresh* | ![Gamey](../assets/Moose_Meat_%28Cooked%29_Gamey_icon.png) / *Gamey* | ![Mouldy](../assets/Moose_Meat_%28Cooked%29_Mouldy_icon.png) / *Mouldy* | ![Rancid](../assets/Moose_Meat_%28Cooked%29_Rancid_icon.png) / *Rancid* |
-| ![Ruined](../assets/Moose_Meat_%28Cooked%29_Ruined_icon.png) / *Ruined* | ![Old Model](../assets/Moose_Meat_%28Cooked%29_Old_Model.png) / *Old Model* |  |  |
+![Fresh](../assets/Moose_Meat_%28Cooked%29_Gamey_icon.png)
+
+_Fresh_
+
+![Gamey](../assets/Moose_Meat_%28Cooked%29_Gamey_icon.png)
+
+_Gamey_
+
+![Mouldy](../assets/Moose_Meat_%28Cooked%29_Mouldy_icon.png)
+
+_Mouldy_
+
+![Rancid](../assets/Moose_Meat_%28Cooked%29_Rancid_icon.png)
+
+_Rancid_
+
+![Ruined](../assets/Moose_Meat_%28Cooked%29_Ruined_icon.png)
+
+_Ruined_
+
+![Old Model](../assets/Moose_Meat_%28Cooked%29_Old_Model.png)
+
+_Old Model_
 
 ## Update history
 
 - UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Мясо лося (приготовленное)](ru:%D0%9C%D1%8F%D1%81%D0%BE_%D0%BB%D0%BE%D1%81%D1%8F_%28%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%29)

@@ -1,17 +1,12 @@
----
-title: "The Security Chief's Remains"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/The_Security_Chief's_Remains"
----
-
 # The Security Chief's Remains
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Security_Chief's_Remains)
 
 **The Security Chief's Remains**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Security_Chief%27s_Remains_icon.png) / *The\_Security\_Chief's\_Remains\_icon.png* |
+|  | ![](../assets/The_Security_Chief%27s_Remains_icon.png) / _The\_Security\_Chief's\_Remains\_icon.png_ |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | Wintermute | No |
 | **Properties** |  |
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Security_Chief's_Remains"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_Tale2\_SecurityChiefBones |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
 **The Security Chief's Remains** is a [Collectibles](./Collectibles.md) found near the end of the [Buried Echoes](./Buried%20Echoes.md). They are the remains of [The Security Chief](./The%20Security%20Chief.md), Lena Vertasky, found in the Core of the [Langston Mine](./Langston%20Mine.md) next to [Rüdiger's Machine](./R%C3%BCdiger%27s%20Machine.md). They must be buried in the snow near [Enduring Waterfall](./Enduring%20Waterfall.md).
 
@@ -36,13 +31,11 @@ The skull is the same model rarely found around [Bear](./Bear.md) caves, along w
 
 ![The Chief's Remains before they are picked up.](../assets/The_Security_Chief.jpg)
 
-*The Chief's Remains before they are picked up.*
+_The Chief's Remains before they are picked up._
 
 ## Update history
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Останки начальника охраны](ru:%D0%9E%D1%81%D1%82%D0%B0%D0%BD%D0%BA%D0%B8_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%8B)

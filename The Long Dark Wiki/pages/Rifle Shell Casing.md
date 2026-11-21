@@ -1,28 +1,23 @@
----
-title: "Rifle Shell Casing"
-wiki_namespace: 0
-categories: ["Materials"]
-source: "https://thelongdark.fandom.com/wiki/Rifle_Shell_Casing"
----
-
 # Rifle Shell Casing
+
+**Categories:** Materials · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rifle_Shell_Casing)
 
 **Rifle Shell Casing**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rifle_Shell_Casing_icon.png) / *Rifle\_Shell\_Casing\_icon.png* |
+|  | ![](../assets/Rifle_Shell_Casing_icon.png) / _Rifle\_Shell\_Casing\_icon.png_ |
 | **General** |  |
 | Item Type | Material\|- |
 | Renewable | Yes ([Trader](./Trader.md)) no (Interloper) |
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.01 kg(0.02 lbs) |
 
-> “**Empty casing from firing a Rifle. Used for Crafting new Ammunition.**”
+> “__Empty casing from firing a Rifle. Used for Crafting new Ammunition.__”
 >
 > — In-game description
 
-**Rifle Shell Casings** are a crafting material in *The Long Dark*.
+**Rifle Shell Casings** are a crafting material in _The Long Dark_.
 
 ## Overview
 

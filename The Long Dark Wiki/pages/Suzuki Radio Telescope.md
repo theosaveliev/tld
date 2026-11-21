@@ -1,10 +1,6 @@
----
-title: "Suzuki Radio Telescope"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Suzuki_Radio_Telescope"
----
-
 # Suzuki Radio Telescope
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Suzuki_Radio_Telescope)
 
 **Contents**
 
@@ -22,16 +18,16 @@ source: "https://thelongdark.fandom.com/wiki/Suzuki_Radio_Telescope"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Suzuki_Radio_Telescope.jpg) / *Suzuki\_Radio\_Telescope.jpg* |
+|  | ![](../assets/Suzuki_Radio_Telescope.jpg) / _Suzuki\_Radio\_Telescope.jpg_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/No_picture.png) / *No\_picture.png* |
+|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
 | **Details** |  |
 | Description | A government research facility with a powered space radio dish |
 | Connecting Regions | [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md) / [Blackrock Foothills](./Blackrock%20Foothills.md) |
 | Characters | [Jace](./Jace.md) / [Atwood](./Atwood.md) |
 | Locations | Lower Suzuki / Upper Suzuki / The Bunker |
 
-> “**The Suzuki Radio Telescope. It's an old government facility, so there's all kinds of supplies there... food, medical equipment, vehicles. Radios. They could hunker down for weeks, months. It'd make a hell of a base of operations for all manner of evil shit they might get up to.**”
+> “__The Suzuki Radio Telescope. It's an old government facility, so there's all kinds of supplies there... food, medical equipment, vehicles. Radios. They could hunker down for weeks, months. It'd make a hell of a base of operations for all manner of evil shit they might get up to.__”
 >
 > — [Jace](./Jace.md) to [Will Mackenzie](./Will%20Mackenzie.md) in Episode 4
 
@@ -84,11 +80,17 @@ Atwood goes on to explain what the Aurora exactly is, before letting Mackenzie h
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Suzuki, as seen from the Unstable Mine exit.](../assets/Screenshot_2026-09-27_054810.png) / *Suzuki, as seen from the Unstable Mine exit.* | ![Suzuki seen from an alternative angle during the final cutscene. The Tuner Control Hall's window can be seen across from the Radio Telescope.](../assets/Screenshot_2026-09-27_192706.png) / *Suzuki seen from an alternative angle during the final cutscene. The Tuner Control Hall's window can be seen across from the Radio Telescope.* | ![The entrance into the Bunker below Suzuki, marked as "G406."](../assets/Screenshot_2026-09-27_192723.png) / *The entrance into the Bunker below Suzuki, marked as "G406."* |
+![Suzuki, as seen from the Unstable Mine exit.](../assets/Screenshot_2026-09-27_054810.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Suzuki, as seen from the Unstable Mine exit._
+
+![Suzuki seen from an alternative angle during the final cutscene. The Tuner Control Hall's window can be seen across from the Radio Telescope.](../assets/Screenshot_2026-09-27_192706.png)
+
+_Suzuki seen from an alternative angle during the final cutscene. The Tuner Control Hall's window can be seen across from the Radio Telescope._
+
+![The entrance into the Bunker below Suzuki, marked as "G406."](../assets/Screenshot_2026-09-27_192723.png)
+
+_The entrance into the Bunker below Suzuki, marked as "G406."_
 
 ## Notes
 

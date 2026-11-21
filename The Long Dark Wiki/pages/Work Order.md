@@ -1,17 +1,12 @@
----
-title: "Work Order"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Work_Order"
----
-
 # Work Order
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Work_Order)
 
 **Work Order**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Work_Order_icon.png) / *Work\_Order\_icon.png* |
+|  | ![](../assets/Work_Order_icon.png) / _Work\_Order\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Work_Order"
 
 ## Transcript
 
-*The following text is transcribed from **Work Order***
+_The following text is transcribed from **Work Order**_
 
 **Maintenance Shift, #355
 
@@ -40,5 +35,3 @@ Check for adequate thermal regulation at steam junctions and valve switches. And
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

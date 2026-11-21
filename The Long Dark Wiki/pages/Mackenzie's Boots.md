@@ -1,11 +1,6 @@
----
-title: "Mackenzie's Boots"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history", "Story items", "Wintermute"]
-source: "https://thelongdark.fandom.com/wiki/Mackenzie's_Boots"
----
-
 # Mackenzie's Boots
+
+**Categories:** Clothing, Pages with update history, Story items, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mackenzie's_Boots)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Mackenzie's_Boots"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mackenzie%27s_Boots_icon.png) / *Mackenzie's\_Boots\_icon.png* |
+|  | ![](../assets/Mackenzie%27s_Boots_icon.png) / _Mackenzie's\_Boots\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -34,9 +29,9 @@ source: "https://thelongdark.fandom.com/wiki/Mackenzie's_Boots"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / *2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png* | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | **The boots you were wearing when you crashed in your plane.** / Post Crash In-game description | ” |
+| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_ | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | __The boots you were wearing when you crashed in your plane.__ / Post Crash In-game description | ” |
 
-> “**Flexible all-leather boots for flying and operating in wild places.**”
+> “__Flexible all-leather boots for flying and operating in wild places.__”
 >
 > — Description when in the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) Hangar
 
@@ -64,15 +59,17 @@ If the player starts [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%
 
 Mackenzie's Boots are still worn when playing [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md), being some of the clothing left on Mackenzie to keep him warm after he was stripped of most of his gear and transported by [Mathis](./Mathis.md).
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Model icon](../assets/Mackenzie%27s_Boots_Model_icon.png) / *Model icon* | ![Model icon damaged](../assets/Mackenzie%27s_Boots_Model_Damaged_icon.png) / *Model icon damaged* |
+![Model icon](../assets/Mackenzie%27s_Boots_Model_icon.png)
+
+_Model icon_
+
+![Model icon damaged](../assets/Mackenzie%27s_Boots_Model_Damaged_icon.png)
+
+_Model icon damaged_
 
 ## Update history
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
-  - Renamed from *Will's Boots* to *Mackenzie's Boots*
+  - Renamed from _Will's Boots_ to _Mackenzie's Boots_
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Ботинки Маккензи](ru:%D0%91%D0%BE%D1%82%D0%B8%D0%BD%D0%BA%D0%B8_%D0%9C%D0%B0%D0%BA%D0%BA%D0%B5%D0%BD%D0%B7%D0%B8)

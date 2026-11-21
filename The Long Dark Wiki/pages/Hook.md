@@ -1,11 +1,6 @@
----
-title: "Hook"
-wiki_namespace: 0
-categories: ["Craftable tools", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Hook"
----
-
 # Hook
+
+**Categories:** Craftable tools, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hook)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Hook"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hook_icon.png) / *Hook\_icon.png* |
+|  | ![](../assets/Hook_icon.png) / _Hook\_icon.png_ |
 | Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -53,12 +48,10 @@ A [Hook](./Hook.md) is a tool that is required for building a [Fishing Tackle](.
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Hook.png) / *Old model.* |
+![Old model.](../assets/Hook.png)
+
+_Old model._
 
 ## Update history
 
 **Template:update history**
-
-**Lua execution error in Module:Navbox function navbox** [ru:Крючок](ru:%D0%9A%D1%80%D1%8E%D1%87%D0%BE%D0%BA)

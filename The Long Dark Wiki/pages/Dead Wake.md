@@ -1,20 +1,15 @@
----
-title: "Dead Wake"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Dead_Wake"
----
-
 # Dead Wake
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dead_Wake)
 
 **Dead Wake**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Dead_Wake_icon.png) / *Dead\_Wake\_icon.png* |
+|  | ![](../assets/Dead_Wake_icon.png) / _Dead\_Wake\_icon.png_ |
 | Description | Collect all the writings and personal effects left behind by the ship's crew. |
 
-**Dead Wake** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[Wintermute](./Wintermute.md)* [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Dead Wake** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[Wintermute](./Wintermute.md)_ [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -38,5 +33,3 @@ The \* ![Locker\_Key\_icon.png](../assets/Locker_Key_icon.png) [Locker Key](./Lo
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

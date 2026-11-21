@@ -1,19 +1,14 @@
----
-title: "Locomotive Engine"
-wiki_namespace: 0
-categories: ["Landmarks", "Locations", "Locations in Broken Railroad", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Locomotive_Engine"
----
-
 # Locomotive Engine
+
+**Categories:** Landmarks, Locations, Locations in Broken Railroad, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Locomotive_Engine)
 
 **Locomotive Engine**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Locomotive_engine.jpg) / *locomotive\_engine.jpg* |
+|  | ![](../assets/Locomotive_engine.jpg) / _locomotive\_engine.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Locomotive_Engine_Location.png) / *Locomotive\_Engine\_Location.png* |
+|  | ![](../assets/Locomotive_Engine_Location.png) / _Locomotive\_Engine\_Location.png_ |
 | Region | [Broken Railroad](./Broken%20Railroad.md)\|- |
 | Description | A derailed train |
 | **General** |  |

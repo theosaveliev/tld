@@ -1,11 +1,6 @@
----
-title: "Rose Hip Tea"
-wiki_namespace: 0
-categories: ["First Aid", "Food And Drink"]
-source: "https://thelongdark.fandom.com/wiki/Rose_Hip_Tea"
----
-
 # Rose Hip Tea
+
+**Categories:** First Aid, Food And Drink · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rose_Hip_Tea)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Rose_Hip_Tea"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rose_Hip_Tea_icon.png) / *Rose\_Hip\_Tea\_icon.png* |
+|  | ![](../assets/Rose_Hip_Tea_icon.png) / _Rose\_Hip\_Tea\_icon.png_ |
 | Renewable | No |
 | **Properties** |  |
 | Item type | [First Aid](./First%20Aid.md)\|- |
@@ -29,7 +24,7 @@ source: "https://thelongdark.fandom.com/wiki/Rose_Hip_Tea"
 | [Vitamin C](./Scurvy.md) | Minor (13%) |
 | Weight | 0.10 kg (0.22 lbs) |
 
-**Rose Hip Tea** is a natural medical and food item used to treat [Afflictions](./Afflictions.md) in *The Long Dark*.
+**Rose Hip Tea** is a natural medical and food item used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 
 ## Overview
 
@@ -77,13 +72,15 @@ Prepared Rose Hips have half the weight of their raw form, and no form of Rose H
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Old model.](../assets/Rose_hip_tea.png) / *Old model.* | ![Old icon](../assets/Rose_hip_tea_icon_old.png) / *Old icon* |
+![Old model.](../assets/Rose_hip_tea.png)
+
+_Old model._
+
+![Old icon](../assets/Rose_hip_tea_icon_old.png)
+
+_Old icon_
 
 ## History
 
 - Rose Hips and other harvestable plants and remedies were introduced on 7 February 2015 in [update 0.192](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192).
 - As of the 1.0 [Wintermute](./Wintermute.md) update (August 1, 2017) Rose Hips must be prepared before cooking them.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Чай из Шиповника](ru:%D0%A7%D0%B0%D0%B9_%D0%B8%D0%B7_%D0%A8%D0%B8%D0%BF%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0)

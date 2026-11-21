@@ -1,11 +1,6 @@
----
-title: "Warden's Revolver"
-wiki_namespace: 0
-categories: ["DLC Content", "Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Warden's_Revolver"
----
-
 # Warden's Revolver
+
+**Categories:** DLC Content, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Warden's_Revolver)
 
 **Contents**
 
@@ -19,8 +14,8 @@ source: "https://thelongdark.fandom.com/wiki/Warden's_Revolver"
 
 | Column 1 | Column 2 | Column 3 | Column 4 |
 | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / **Warden's Revolver** / \| Property \| Details \| / \| --- \| --- \| / \|  \| ![](../assets/Warden%27s_Revolver_icon.png) / *Warden's\_Revolver\_icon.png* \| / \| Release \| [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) \| / \| Wintermute \| No \| / \| Renewable \| No (unique item) \| / \| **Properties** \|  \| / \| Item type \| [Tools](./Tools.md)\\|- \| / \| Stackable \| No \| / \| Examine \| Quick draw sidearm. Out of place in the wilderness, but its short barrel and light weight allow for a faster aiming action. \| / \| **Values** \|  \| / \| Weight \| 1.25 kg (2.75 lbs) \| / \| **Actions** \|  \| / \| Backpack \| Use, Actions, Drop \| / \| On ground \| Take It, Equip It, Leave It \| / \| **Advanced data** \|  \| / \| Item key \| GEAR\_RevolverStubNosed \| / **Warden's Revolver** is a unique variant of the [Revolver](./Revolver.md) in *The Long Dark*, added by the *[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)* expansion. / ## Overview / The Warden's Revolver has been modified for portability with a snub-nose barrel, and custom blue grip featuring golden four leaf clover inlays. It has the lowest weight of any firearm available; weighing 0.25 Kg less than the standard revolver, and has a 25% faster aiming action. The downside is that the guns effective range is reduced by 33%. / The Warden's Revolver has no rear iron sights and a very tall and wide front sight post, making long distance aiming difficult. / ## Revolver Range / The range decrease is applied to a ray-trace fired from the center of the screen when a shot is fired, normally the standard Revolver's ray-trace range is about 30 meters long, but the Warden's Revolver's is 20.1 meters long. Past this range the weapon will be unable to damage any [Wildlife](./Wildlife.md). / ## Location / The Warden's revolver spawns a single time per world in various states of repair. The gun's location may differ between saves, but it can be located around [Blackrock Prison](./Blackrock%20Prison.md) in the [Blackrock Region](./Blackrock.md): / - Under the table in the accessible rope climb watchtower. / - Next to the toilet in the bathroom in the Warden's Office. / - Behind a piece of debris in the main prison hall entrance, to the right most back side. / ## Differences from Revolver / - Base weight is 0.25kg less than the Revolver / - Aim down sights time is 25% faster than the Revolver / - Range is 33% less than the Revolver / - Lacks rear iron sights / ## Trivia / - Given its namesake and the location it is found, this firearm most likely belonged to [Franklin](./Franklin.md), the former Warden of Blackrock Federal Penitentiary. / ## Gallery / \| Column 1 \| Column 2 \| Column 3 \| Column 4 \| / \| --- \| --- \| --- \| --- \| / \| ![Wardens Revolver Ground Model](../assets/Wardens_Revolver_Ground_Model.png) / *Wardens Revolver Ground Model* \| ![Wardens Revolver Iron Sights](../assets/Wardens_Revolver_Iron_Sights.png) / *Wardens Revolver Iron Sights* \| ![The front door revolver location](../assets/Warden%27s_Revolver_Location.jpg) / *The front door revolver location* \| ![The bathroom in the Warden's Office revolver location](../assets/Revolver.jpg) / *The bathroom in the Warden's Office revolver location* \| / \| ![The Warden's Revolver in broad daylight. Note the lack of rear iron sights.](../assets/WardenADSBroadDaylight.jpg) / *The Warden's Revolver in broad daylight. Note the lack of rear iron sights.* \|  \|  \|  \| / ## Update history / - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):** / - Added to game. / **Lua execution error in Module:Navbox function navbox** / [ru:Револьвер начальника](ru:%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%8C%D0%B2%D0%B5%D1%80_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0) |  |
-| ![](../assets/Warden%27s_Revolver_icon.png) / *Warden's\_Revolver\_icon.png* |  |  |  |
+
+| ![](../assets/Warden%27s_Revolver_icon.png) / _Warden's\_Revolver\_icon.png_ |  |  |  |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |  |  |
 | Wintermute | No |  |  |
 | Renewable | No (unique item) |  |  |
@@ -35,5 +30,5 @@ source: "https://thelongdark.fandom.com/wiki/Warden's_Revolver"
 | On ground | Take It, Equip It, Leave It |  |  |
 | **Advanced data** |  |  |  |
 | Item key | GEAR\_RevolverStubNosed |  |  |
-| ![Wardens Revolver Ground Model](../assets/Wardens_Revolver_Ground_Model.png) / *Wardens Revolver Ground Model* | ![Wardens Revolver Iron Sights](../assets/Wardens_Revolver_Iron_Sights.png) / *Wardens Revolver Iron Sights* | ![The front door revolver location](../assets/Warden%27s_Revolver_Location.jpg) / *The front door revolver location* | ![The bathroom in the Warden's Office revolver location](../assets/Revolver.jpg) / *The bathroom in the Warden's Office revolver location* |
-| ![The Warden's Revolver in broad daylight. Note the lack of rear iron sights.](../assets/WardenADSBroadDaylight.jpg) / *The Warden's Revolver in broad daylight. Note the lack of rear iron sights.* |  |  |  |
+| ![Wardens Revolver Ground Model](../assets/Wardens_Revolver_Ground_Model.png) / _Wardens Revolver Ground Model_ | ![Wardens Revolver Iron Sights](../assets/Wardens_Revolver_Iron_Sights.png) / _Wardens Revolver Iron Sights_ | ![The front door revolver location](../assets/Warden%27s_Revolver_Location.jpg) / _The front door revolver location_ | ![The bathroom in the Warden's Office revolver location](../assets/Revolver.jpg) / _The bathroom in the Warden's Office revolver location_ |
+| ![The Warden's Revolver in broad daylight. Note the lack of rear iron sights.](../assets/WardenADSBroadDaylight.jpg) / _The Warden's Revolver in broad daylight. Note the lack of rear iron sights._ |  |  |  |

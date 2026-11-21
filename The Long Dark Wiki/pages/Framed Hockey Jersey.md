@@ -1,17 +1,12 @@
----
-title: "Framed Hockey Jersey"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Framed_Hockey_Jersey"
----
-
 # Framed Hockey Jersey
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Framed_Hockey_Jersey)
 
 **Framed Hockey Jersey**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Framed_Hockey_Jersey_icon.png) / *Framed\_Hockey\_Jersey\_icon.png* |
+|  | ![](../assets/Framed_Hockey_Jersey_icon.png) / _Framed\_Hockey\_Jersey\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 2.00 kg (4.4 lbs) |
@@ -50,5 +45,3 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 |  | 1 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**

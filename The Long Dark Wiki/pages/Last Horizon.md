@@ -1,11 +1,6 @@
----
-title: "Last Horizon"
-wiki_namespace: 0
-categories: ["DLC Content"]
-source: "https://thelongdark.fandom.com/wiki/Last_Horizon"
----
-
 # Last Horizon
+
+**Categories:** DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Last_Horizon)
 
 **Contents**
 
@@ -37,14 +32,14 @@ source: "https://thelongdark.fandom.com/wiki/Last_Horizon"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | **Enter Sundered Pass to look for evidence of Rüdiger's escape.** | ” |
+| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __Enter Sundered Pass to look for evidence of Rüdiger's escape.__ | ” |
 
 **Last Horizon** is the third [Tale](./Tales.md) released for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon in [Survival Mode](./Survival%20Mode.md). As of V 2.27, Last Horizon can be started on a new playthrough out of order as soon as the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) is acquired, as long as [Signal Void](./Signal%20Void.md), [Buried Echoes](./Buried%20Echoes.md), and Last Horizon have been completed on another playthrough and their associated [Badges](./Badges.md) are acquired. The [Transmitter](./Transmitters.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) will need to be repaired before this Tale can be started if played out of order, and [Bunker Omega](./Bunker%20Omega.md) will need to be uncovered to finish it. ![Cougar\_Part\_5.jpg](../assets/Cougar_Part_5.jpg)
 
 ## Preface
 
-** *SPOILER WARNING*  
- *This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark.* **
+** _SPOILER WARNING_  
+ _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._ **
 
 Continuing the events of the last Tale, the survivor buries the remains of the Security Chief and follows a nearby pass from [Enduring Waterfall](./Enduring%20Waterfall.md) into a hidden mountain installation, then sets out to find any evidence of Rüdiger's escape. Head to [Sundered Pass](./Sundered%20Pass.md), where a Weather Station that was mentioned in the Security Chief's notes may hold clues as to the fate of Rüdiger, along with any successful results of his project.
 
@@ -175,13 +170,19 @@ After all 4 narrative items are acquired the Tale ends, awarding a [Badge](./Bad
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Rüdiger's fate and the Tactical Jacket](../assets/R%C3%BCdiger%27s_fate.jpg) / *Rüdiger's fate and the [Tactical Jacket](./Tactical%20Jacket.md)* | ![Acquiring the Settled Mind Feat](../assets/Settled_Mind_Feat.jpg) / *Acquiring the Settled Mind Feat* | ![Completing the Tale](../assets/Final_Horizon_Badge.jpg) / *Completing the Tale* |
+![Rüdiger's fate and the Tactical Jacket](../assets/R%C3%BCdiger%27s_fate.jpg)
+
+_Rüdiger's fate and the [Tactical Jacket](./Tactical%20Jacket.md)_
+
+![Acquiring the Settled Mind Feat](../assets/Settled_Mind_Feat.jpg)
+
+_Acquiring the Settled Mind Feat_
+
+![Completing the Tale](../assets/Final_Horizon_Badge.jpg)
+
+_Completing the Tale_
 
 ## Trivia
 
 - Completing Last Horizon unlocks a [Badge](./Badges.md) of the same name, as well as two [Feats](./Feats.md), Settled Mind and Celestial Navigator.
 - The name of this Tale, "Last Horizon," is an example of poetic irony, as it is the opposite of Dr. Rüdiger final line in [My Testament](./My%20Testament.md): "Once again. I have seen the new horizon." Rüdiger never lived to see his new horizon by the end of this Tale.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**

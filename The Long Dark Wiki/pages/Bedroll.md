@@ -1,11 +1,6 @@
----
-title: "Bedroll"
-wiki_namespace: 0
-categories: ["Bedrolls", "Beds", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Bedroll"
----
-
 # Bedroll
+
+**Categories:** Bedrolls, Beds, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bedroll)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Bedroll"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bedroll_icon.png) / *bedroll\_icon.png* |
+|  | ![](../assets/Bedroll_icon.png) / _bedroll\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | **Statistics** |  |
@@ -29,13 +24,13 @@ source: "https://thelongdark.fandom.com/wiki/Bedroll"
 | Harvest | 90 Minutes 10 × [Cloth](./Cloth.md) |
 | Repair | 45 Minutes 2 × [Cloth](./Cloth.md) / 30% Condition |
 
-*This is about the normal cloth bedroll. For a list of other bedrolls see here.*
+_This is about the normal cloth bedroll. For a list of other bedrolls see here._
 
-> “**A down-filled sleeping bag.**”
+> “__A down-filled sleeping bag.__”
 >
 > — In-game description
 
-The **Bedroll** is a tool for sleeping without a bed in *The Long Dark*.
+The **Bedroll** is a tool for sleeping without a bed in _The Long Dark_.
 
 ## Overview
 
@@ -69,10 +64,8 @@ As of Part 3: Frontier Comforts update for those who purchase the [Tales from th
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Bedroll.png) / *Old model.* |
+![Old model.](../assets/Bedroll.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Old model._
 
 [ru:Спальный\_мешок](ru:%D0%A1%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D1%88%D0%BE%D0%BA)

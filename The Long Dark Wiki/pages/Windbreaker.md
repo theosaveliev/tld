@@ -1,17 +1,12 @@
----
-title: "Windbreaker"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Windbreaker"
----
-
 # Windbreaker
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Windbreaker)
 
 **Windbreaker**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Windbreaker_icon.png) / *Windbreaker\_icon.png* |
+|  | ![](../assets/Windbreaker_icon.png) / _Windbreaker\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Outer torso |
@@ -25,23 +20,25 @@ source: "https://thelongdark.fandom.com/wiki/Windbreaker"
 | Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition |
 
-> “**Cheap nylon outer layer that's good for blocking wind and that's about it.**”
+> “__Cheap nylon outer layer that's good for blocking wind and that's about it.__”
 >
 > — In-game description
 
-The **Windbreaker** is a type of [clothing](./Clothing.md) in *The Long Dark*.
+The **Windbreaker** is a type of [clothing](./Clothing.md) in _The Long Dark_.
 
 ## Overview
 
 Low-tier outer layer. It grants highly windproof and light, but offers almost no warmth. It should be worn as an outer layer to make use of it's windproofing.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Windbreaker_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Windbreaker_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Clothing model icon](../assets/Windbreaker_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Windbreaker_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Ветровка](ru:%D0%92%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%BA%D0%B0)

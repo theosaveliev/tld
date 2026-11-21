@@ -1,11 +1,6 @@
----
-title: "Poisoned Wolf"
-wiki_namespace: 0
-categories: ["DLC Content", "Wildlife"]
-source: "https://thelongdark.fandom.com/wiki/Poisoned_Wolf"
----
-
 # Poisoned Wolf
+
+**Categories:** DLC Content, Wildlife · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Poisoned_Wolf)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Poisoned_Wolf"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Poisoned_Wolf.png) / *Poisoned\_Wolf.png* |
+|  | ![](../assets/Poisoned_Wolf.png) / _Poisoned\_Wolf.png_ |
 | **Basic Information** |  |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | Role | Predator |
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Poisoned_Wolf"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | **This mine is a graveyard. Maybe my own too, if I’m not careful. The wolves here are unwell. All this pollution in the ground. Awful.** / [A Page From A Journal](./A%20Page%20From%20A%20Journal.md) | ” |
+| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __This mine is a graveyard. Maybe my own too, if I’m not careful. The wolves here are unwell. All this pollution in the ground. Awful.__ / [A Page From A Journal](./A%20Page%20From%20A%20Journal.md) | ” |
 
 The **Poisoned Wolf** is a variant of the [Wolf](./Wolf.md) found only in the [Zone of Contamination](./Zone%20of%20Contamination.md). They were introduced in the Part 4 Buried Echoes update for players that purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon.
 
@@ -38,7 +33,7 @@ The **Poisoned Wolf** is a variant of the [Wolf](./Wolf.md) found only in the [Z
 
 Suffering from extreme malnutrition from a lack of hunting opportunities owed to the intense pollution present within the Zone, Poisoned Wolves are more ragged in appearance compared to regular Wolves. Their fur is much more messy and matted and their bodies are much more lean in appearance due to a lack of stored body fat. Some of the [Chemicals](./Chemical%20Hazard.md) from the Zone can also be seen around their faces and necks when viewed up close, which are transmitted to the player should they attack them in a Struggle.
 
-They are easily identifiable from a distance due to how they carry their heads much lower to the ground than a regular, healthy Wolf. They are also the only Wolf variant inside the Zone of Contamination. ![A Wolf (left) and Poisoned Wolf. Notice the weakened stance of the Poisoned Wolf.](../assets/Poisoned_Wolf_and_Wolf.jpg)*A Wolf (left) and Poisoned Wolf. Notice the weakened stance of the Poisoned Wolf.*
+They are easily identifiable from a distance due to how they carry their heads much lower to the ground than a regular, healthy Wolf. They are also the only Wolf variant inside the Zone of Contamination. ![A Wolf (left) and Poisoned Wolf. Notice the weakened stance of the Poisoned Wolf.](../assets/Poisoned_Wolf_and_Wolf.jpg)_A Wolf (left) and Poisoned Wolf. Notice the weakened stance of the Poisoned Wolf._
 
 ## Drops
 
@@ -46,10 +41,10 @@ A [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) will drop a Wolf Pelt 
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| ![](../assets/Wolf_Meat_%28Raw%29_icon.png) / *Wolf\_Meat\_(Raw)\_icon.png* | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 0.00 kg | Always[¹](#fn1) |
-| ![](../assets/Wolf_Quarter_icon.png) / *Wolf\_Quarter\_icon.png* | [Wolf Quarter](./Wolf%20Quarter.md) | 0.00 kg | Always[²](#fn2) |
-| ![](../assets/Fresh_Wolf_Pelt_icon.png) / *Fresh\_Wolf\_Pelt\_icon.png* | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
-| \[Missing image: Gut\_icon.png\] / *Gut\_icon.png* | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
+| ![](../assets/Wolf_Meat_%28Raw%29_icon.png) / _Wolf\_Meat\_(Raw)\_icon.png_ | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 0.00 kg | Always[¹](#fn1) |
+| ![](../assets/Wolf_Quarter_icon.png) / _Wolf\_Quarter\_icon.png_ | [Wolf Quarter](./Wolf%20Quarter.md) | 0.00 kg | Always[²](#fn2) |
+| ![](../assets/Fresh_Wolf_Pelt_icon.png) / _Fresh\_Wolf\_Pelt\_icon.png_ | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
+| \[Missing image: Gut\_icon.png\] / _Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
 ## Behaviour
 
@@ -71,7 +66,7 @@ Poisoned Wolves behave mechanically the same to that of regular Wolves, forming 
 
 ![An Aurora Poisoned Wolf](../assets/Aurora_Poisoned_Wolf.jpg)
 
-*An Aurora Poisoned Wolf*
+_An Aurora Poisoned Wolf_
 
 ### Aurora Poisoned Wolf
 
@@ -92,12 +87,25 @@ Like all predators, Poisoned Wolves glow green and become a more aggressive Auro
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Concept art of a Poisoned Wolf in the Zone](../assets/Starving-wolf-mining-region-illustration-comp.jpg) / *Concept art of a Poisoned Wolf in the Zone* | ![The carcass of a Poisoned Wolf](../assets/Poisoned_Wolf_Carcass.jpg) / *The carcass of a Poisoned Wolf* | ![A carcass that has been in the snow for some time](../assets/Poisoned_Wolf_Carcass_Snow.jpg) / *A carcass that has been in the snow for some time* | ![ditto.](../assets/Poisoned_Wolf_Carcass_2.jpg) / *ditto.* |
-| ![A Poisoned Wolf Struggle](../assets/Poisoned_Wolf_Struggle.jpg) / *A Poisoned Wolf Struggle* |  |  |  |
+![Concept art of a Poisoned Wolf in the Zone](../assets/Starving-wolf-mining-region-illustration-comp.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Отравленный волк](ru:%D0%9E%D1%82%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%BB%D0%BA)
+_Concept art of a Poisoned Wolf in the Zone_
+
+![The carcass of a Poisoned Wolf](../assets/Poisoned_Wolf_Carcass.jpg)
+
+_The carcass of a Poisoned Wolf_
+
+![A carcass that has been in the snow for some time](../assets/Poisoned_Wolf_Carcass_Snow.jpg)
+
+_A carcass that has been in the snow for some time_
+
+![ditto.](../assets/Poisoned_Wolf_Carcass_2.jpg)
+
+_ditto._
+
+![A Poisoned Wolf Struggle](../assets/Poisoned_Wolf_Struggle.jpg)
+
+_A Poisoned Wolf Struggle_
 
 ## Notes
 

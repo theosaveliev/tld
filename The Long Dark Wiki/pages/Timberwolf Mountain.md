@@ -1,11 +1,6 @@
----
-title: "Timberwolf Mountain"
-wiki_namespace: 0
-categories: ["Regions"]
-source: "https://thelongdark.fandom.com/wiki/Timberwolf_Mountain"
----
-
 # Timberwolf Mountain
+
+**Categories:** Regions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Timberwolf_Mountain)
 
 **Contents**
 
@@ -23,10 +18,10 @@ source: "https://thelongdark.fandom.com/wiki/Timberwolf_Mountain"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Timberwolf_Mountain_title_card.png) / *Timberwolf\_Mountain\_title\_card.png* |
+|  | ![](../assets/Timberwolf_Mountain_title_card.png) / _Timberwolf\_Mountain\_title\_card.png_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Timberwolf_Mountain_Location.png) / *Timberwolf\_Mountain\_Location.png* |
-|  | ![](../assets/Timberwolf_Mountain_map.png) / *timberwolf\_mountain\_map.png* |
+|  | ![](../assets/Timberwolf_Mountain_Location.png) / _Timberwolf\_Mountain\_Location.png_ |
+|  | ![](../assets/Timberwolf_Mountain_map.png) / _timberwolf\_mountain\_map.png_ |
 | **Details** |  |
 | Description | A harsh mountainous region with scarce resources and many [Rope Climbing](./Rope%20Climbing.md) spots. |
 | Connecting Regions | [Pleasant Valley](./Pleasant%20Valley.md), [Ash Canyon](./Ash%20Canyon.md), [Blackrock](./Blackrock.md) |
@@ -36,11 +31,11 @@ source: "https://thelongdark.fandom.com/wiki/Timberwolf_Mountain"
 | Hazards and Survivability | The region is known for temperatures below -20 °C, frequent blizzards and scarce resources. Much of the region is divided up by [Rope Climbing](./Rope%20Climbing.md) areas, making navigation tricky. |
 | Date Added | Dec 2015 |
 
-> “**For advanced players. An isolated alpine region with very few shelters or resources. A true test of wilderness survival skills.**”
+> “__For advanced players. An isolated alpine region with very few shelters or resources. A true test of wilderness survival skills.__”
 >
 > — - In game description
 
-**Timberwolf Mountain** is the 5th [Region](./Region.md) to be introduced in *[The Long Dark](./The%20Long%20Dark.md)*. It's commonly considered one of the most difficult regions to survive in due to frigid temperatures (sub -20C / -4F almost every day) and frequent blizzards (usually at least three per week). These conditions limit the time a player can safely travel outside with anything less than top-quality clothing, and the lack of warm indoor shelters means maintaining [campfires](./Campfire.md) is critical.
+**Timberwolf Mountain** is the 5th [Region](./Region.md) to be introduced in _[The Long Dark](./The%20Long%20Dark.md)_. It's commonly considered one of the most difficult regions to survive in due to frigid temperatures (sub -20C / -4F almost every day) and frequent blizzards (usually at least three per week). These conditions limit the time a player can safely travel outside with anything less than top-quality clothing, and the lack of warm indoor shelters means maintaining [campfires](./Campfire.md) is critical.
 
 ## Entrances
 
@@ -83,18 +78,79 @@ Additionally, a second Landing Gear can be found at the Summit, but this is not 
 
 ## Maps
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Timberwolf Mountain map v2.35](../assets/3255435617_preview_TWM_default.jpg) / *Timberwolf Mountain map v2.35* | ![Timberwolf Mountain map v2.35 (Interloper-Misery)](../assets/3255435617_preview_TWM_loper.jpg) / *Timberwolf Mountain map v2.35 (Interloper-Misery)* | ![Updated map that includes the entrance for Blackrock Region (v1.98)](../assets/Timberwolf_Mountain_map.png) / *Updated map that includes the entrance for Blackrock Region (v1.98)* | ![](../assets/Timberwolf_mountain_titlecard_new.png) / *Timberwolf\_mountain\_titlecard\_new.png* |
+![Timberwolf Mountain map v2.35](../assets/3255435617_preview_TWM_default.jpg)
+
+_Timberwolf Mountain map v2.35_
+
+![Timberwolf Mountain map v2.35 (Interloper-Misery)](../assets/3255435617_preview_TWM_loper.jpg)
+
+_Timberwolf Mountain map v2.35 (Interloper-Misery)_
+
+![Updated map that includes the entrance for Blackrock Region (v1.98)](../assets/Timberwolf_Mountain_map.png)
+
+_Updated map that includes the entrance for Blackrock Region (v1.98)_
+
+![](../assets/Timberwolf_mountain_titlecard_new.png)
+
+_Timberwolf\_mountain\_titlecard\_new.png_
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A landscape view of the region.](../assets/Timberwolf_Mountain_landscape_01.jpg) / *A landscape view of the region.* | ![](../assets/Timberwolf_Mountain_landscape_02.jpg) / *Timberwolf\_Mountain\_landscape\_02.jpg* | ![](../assets/Cave_%28Timberwolf_Mountain_location_1%29_exterior.jpg) / *Cave\_(Timberwolf\_Mountain\_location\_1)\_exterior.jpg* | ![](../assets/Cave_%28Timberwolf_Mountain_location_2%29.jpg) / *Cave\_(Timberwolf\_Mountain\_location\_2).jpg* |
-| ![](../assets/Chasm_Cave_interior.jpg) / *Chasm\_Cave\_interior.jpg* | ![](../assets/Echo_Peak_West.jpg) / *Echo\_Peak\_West.jpg* | ![](../assets/Echo_Ravine.jpg) / *Echo\_Ravine.jpg* | ![](../assets/Engine_-_Timberwolf_Mountain_location.jpg) / *Engine\_-\_Timberwolf\_Mountain\_location.jpg* |
-| ![](../assets/Forest_Cave_-_entrance_%28Timberwolf_Mountain_location%29.jpg) / *Forest\_Cave\_-\_entrance\_(Timberwolf\_Mountain\_location).jpg* | ![](../assets/Wing_-_Timberwolf_Mountain_location.jpg) / *Wing\_-\_Timberwolf\_Mountain\_location.jpg* | \[Missing image: Mountaineer\_Cabin.png\] / *Mountaineer's Hut* | ![Mountaineer's Hut fishing cabin, Crystal Lake](../assets/Crystal_Lake.png) / *Mountaineer's Hut fishing cabin, Crystal Lake* |
-| ![Landing Gear](../assets/Landing_Gear.png) / *Landing Gear* | ![Forest Cave on Timberwolf Mountain](../assets/TLD66.png) / *Forest Cave on Timberwolf Mountain* |  |  |
+![A landscape view of the region.](../assets/Timberwolf_Mountain_landscape_01.jpg)
+
+_A landscape view of the region._
+
+![](../assets/Timberwolf_Mountain_landscape_02.jpg)
+
+_Timberwolf\_Mountain\_landscape\_02.jpg_
+
+![](../assets/Cave_%28Timberwolf_Mountain_location_1%29_exterior.jpg)
+
+_Cave\_(Timberwolf\_Mountain\_location\_1)\_exterior.jpg_
+
+![](../assets/Cave_%28Timberwolf_Mountain_location_2%29.jpg)
+
+_Cave\_(Timberwolf\_Mountain\_location\_2).jpg_
+
+![](../assets/Chasm_Cave_interior.jpg)
+
+_Chasm\_Cave\_interior.jpg_
+
+![](../assets/Echo_Peak_West.jpg)
+
+_Echo\_Peak\_West.jpg_
+
+![](../assets/Echo_Ravine.jpg)
+
+_Echo\_Ravine.jpg_
+
+![](../assets/Engine_-_Timberwolf_Mountain_location.jpg)
+
+_Engine\_-\_Timberwolf\_Mountain\_location.jpg_
+
+![](../assets/Forest_Cave_-_entrance_%28Timberwolf_Mountain_location%29.jpg)
+
+_Forest\_Cave\_-\_entrance\_(Timberwolf\_Mountain\_location).jpg_
+
+![](../assets/Wing_-_Timberwolf_Mountain_location.jpg)
+
+_Wing\_-\_Timberwolf\_Mountain\_location.jpg_
+
+\[Missing image: Mountaineer\_Cabin.png\]
+
+_Mountaineer's Hut_
+
+![Mountaineer's Hut fishing cabin, Crystal Lake](../assets/Crystal_Lake.png)
+
+_Mountaineer's Hut fishing cabin, Crystal Lake_
+
+![Landing Gear](../assets/Landing_Gear.png)
+
+_Landing Gear_
+
+![Forest Cave on Timberwolf Mountain](../assets/TLD66.png)
+
+_Forest Cave on Timberwolf Mountain_
 
 ## Game history
 
@@ -109,12 +165,10 @@ Timberwolf Mountain was introduced on 16 December 2015 in [version 0.298](./The%
 
 &lt;div class="references-small" ;"&gt;
 
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**
-
 [es:Montaña de lobos](es:Monta%C3%B1a_de_lobos) [ru:Волчья гора](ru:%D0%92%D0%BE%D0%BB%D1%87%D1%8C%D1%8F_%D0%B3%D0%BE%D1%80%D0%B0) [fr:Mont Timberwolf](fr:Mont_Timberwolf) [de:Wolfsberg](de:Wolfsberg)
 
 ## Notes
 
 ---
 
-1. Hinterland Games, 2015, *The Long Dark — December Update (v.298), “Timberwolf Mountain”*, viewed 16 December 2015 &lt;[http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/](http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/)&gt;[↩︎](#fnref1)
+1. Hinterland Games, 2015, _The Long Dark — December Update (v.298), “Timberwolf Mountain”_, viewed 16 December 2015 &lt;[http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/](http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/)&gt;[↩︎](#fnref1)

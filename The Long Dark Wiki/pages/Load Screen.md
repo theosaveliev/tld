@@ -1,10 +1,6 @@
----
-title: "Load Screen"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Load_Screen"
----
-
 # Load Screen
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Load_Screen)
 
 **Contents**
 
@@ -15,7 +11,7 @@ source: "https://thelongdark.fandom.com/wiki/Load_Screen"
 - [Trivia](#trivia)
 - [Notes](#notes)
 
-**Spoiler Warning:** **This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:** __This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
 In The Long Dark, whenever you go into a building, cave or other transition, a loading screen is displayed. Loading screens can have several variations. They will each have a background, a little tip/lore box, and a loading animation. Below are all the variations of the load screen.
 
@@ -635,5 +631,3 @@ New officers always bunked in the Blackrock Barracks. One of their tasks was sup
 
 - This Page is work in progress, if you have found a Tip/Lore or a background image that is not present, please add it.
 - Taken from file `resources.assets` in the source code. You can open the binary, and still search with text. Each loading tip seems to be prepended with `HINT\_` eg. `HINT\_BlackrockBarracks`. I omitted the `HINT\_BlackrockBarracks\_title` values, as they added extracting complexity, and extracted the English language semi-manually, i.e. regexes helped a lot.
-
-**Lua execution error in Module:Navbox function navbox**

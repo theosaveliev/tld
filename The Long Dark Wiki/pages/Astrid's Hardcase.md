@@ -1,11 +1,6 @@
----
-title: "Astrid's Hardcase"
-wiki_namespace: 0
-categories: ["Pages with update history", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Astrid's_Hardcase"
----
-
 # Astrid's Hardcase
+
+**Categories:** Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Astrid's_Hardcase)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Astrid's_Hardcase"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Astrid%27s_Hardcase_icon.png) / *Astrid's\_Hardcase\_icon.png* |
+|  | ![](../assets/Astrid%27s_Hardcase_icon.png) / _Astrid's\_Hardcase\_icon.png_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | Yes\|- |
@@ -33,11 +28,11 @@ source: "https://thelongdark.fandom.com/wiki/Astrid's_Hardcase"
 
 ### Memories
 
-> “**A protective case. It looks like it could survive just about anything.**”
+> “__A protective case. It looks like it could survive just about anything.__”
 >
 > — In-game Description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **The mysterious case. Astrid definitely doesn't want to talk about what's inside. Which means...she's probably not supposed to have it.**
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __The mysterious case. Astrid definitely doesn't want to talk about what's inside. Which means...she's probably not supposed to have it.__
 
 Mackenzie's Description
 
@@ -45,7 +40,7 @@ Mackenzie's Description
 
 ### The Crash
 
-> “**Hardcase found with Astrid's backpack at the crash site.**”
+> “__Hardcase found with Astrid's backpack at the crash site.__”
 
 It is found near the wreckage of the [crash site](./Mackenzie%27s%20Crashed%20Plane.md) in the beginning of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and is picked up by [Will Mackenzie](./Will%20Mackenzie.md) and carried for the rest of the episode. It weighs 0.00 kg after at this point and acts as a Collectible for the rest of the game.
 
@@ -67,14 +62,24 @@ At the end of [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%
 
 Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Mackenzie finding the Hardcase after crashing](../assets/Astrid%27s_Hardcase_found.jpg) / *Mackenzie finding the Hardcase after crashing* | ![Mathis holding the hardcase](../assets/Mathis_Hardcase.jpg) / *Mathis holding the hardcase* | ![Mathis striking Mackenzie over the head with the case](../assets/Mathis_strike_hardcase.jpg) / *Mathis striking Mackenzie over the head with the case* | ![The Hardcase and Astrid's Backpack](../assets/Astrid%27s_Hardcase_and_Backpack.jpg) / *The Hardcase and [Astrid's Backpack](./Astrid%27s%20Backpack.md)* |
+![Mackenzie finding the Hardcase after crashing](../assets/Astrid%27s_Hardcase_found.jpg)
+
+_Mackenzie finding the Hardcase after crashing_
+
+![Mathis holding the hardcase](../assets/Mathis_Hardcase.jpg)
+
+_Mathis holding the hardcase_
+
+![Mathis striking Mackenzie over the head with the case](../assets/Mathis_strike_hardcase.jpg)
+
+_Mathis striking Mackenzie over the head with the case_
+
+![The Hardcase and Astrid's Backpack](../assets/Astrid%27s_Hardcase_and_Backpack.jpg)
+
+_The Hardcase and [Astrid's Backpack](./Astrid%27s%20Backpack.md)_
 
 ## Update history
 
 UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Item description has been updated from "Hardcase found in Astrid's backpack at the crash site".
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**

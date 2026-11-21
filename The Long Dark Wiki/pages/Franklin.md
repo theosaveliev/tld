@@ -1,11 +1,6 @@
----
-title: "Franklin"
-wiki_namespace: 0
-categories: ["Characters", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Franklin"
----
-
 # Franklin
+
+**Categories:** Characters, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Franklin)
 
 **Contents**
 
@@ -24,7 +19,7 @@ source: "https://thelongdark.fandom.com/wiki/Franklin"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Franklin.png) / *Franklin.png* |
+|  | ![](../assets/Franklin.png) / _Franklin.png_ |
 | Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Date | 6 October 2021 |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
@@ -37,13 +32,13 @@ source: "https://thelongdark.fandom.com/wiki/Franklin"
 | **Game Information** |  |
 | Voiced by | Laurie Mcginnis |
 
-> “**The Warden at Blackrock Penitentiary, Franklin has found himself caught up in Mathis’ deadly schemes.  
+> “__The Warden at Blackrock Penitentiary, Franklin has found himself caught up in Mathis’ deadly schemes.  
    
- More an administrator than a disciplinarian, no one is more aware of the notorious prison’s dark history than its Warden. But Franklin is clear-eyed about his purpose on Great Bear Island -- the worst of the worst end up with him at Blackrock. And if someone has to be in charge, it might as well be him.**”
+ More an administrator than a disciplinarian, no one is more aware of the notorious prison’s dark history than its Warden. But Franklin is clear-eyed about his purpose on Great Bear Island -- the worst of the worst end up with him at Blackrock. And if someone has to be in charge, it might as well be him.__”
 >
 > — [What I Know](./What%20I%20Know.md) description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Yes well, normally I'm on the other side of the bars. Name's Franklin. I'm Warden here at Blackrock.**
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Yes well, normally I'm on the other side of the bars. Name's Franklin. I'm Warden here at Blackrock.__
 
 Franklin introducing himself inside his cell to Mackenzie
 
@@ -83,14 +78,27 @@ Despite being unarmed in Wintermute, his [pistol](./Warden%27s%20Revolver.md) ca
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![After being beaten by Mathis](../assets/Franklin_hurt.webp) / *After being beaten by Mathis* | ![Franklin tied to his chair](../assets/Franklin_Torture.jpg) / *Franklin tied to his chair* | ![Franklin tied to his chair as seen from the other cell](../assets/Franklin_Jail_Cell.jpg) / *Franklin tied to his chair as seen from the other cell* | ![Franklin dead on a stretcher](../assets/Franklin_Dead.jpg) / *Franklin dead on a stretcher* |
-| ![The aftermath of Franklin's execution, also found in Survival Mode](../assets/Franklin_Chair_Aftermath.jpg) / *The aftermath of Franklin's execution, also found in Survival Mode* |  |  |  |
+![After being beaten by Mathis](../assets/Franklin_hurt.webp)
+
+_After being beaten by Mathis_
+
+![Franklin tied to his chair](../assets/Franklin_Torture.jpg)
+
+_Franklin tied to his chair_
+
+![Franklin tied to his chair as seen from the other cell](../assets/Franklin_Jail_Cell.jpg)
+
+_Franklin tied to his chair as seen from the other cell_
+
+![Franklin dead on a stretcher](../assets/Franklin_Dead.jpg)
+
+_Franklin dead on a stretcher_
+
+![The aftermath of Franklin's execution, also found in Survival Mode](../assets/Franklin_Chair_Aftermath.jpg)
+
+_The aftermath of Franklin's execution, also found in Survival Mode_
 
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Франклин](ru:%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BB%D0%B8%D0%BD)

@@ -1,17 +1,12 @@
----
-title: "Bank Manager's House Key"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Bank_Manager's_House_Key"
----
-
 # Bank Manager's House Key
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bank_Manager's_House_Key)
 
 **Bank Manager's House Key**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bank_Manager%27s_House_Key_icon.png) / *Bank\_Manager's\_House\_Key\_icon.png* |
+|  | ![](../assets/Bank_Manager%27s_House_Key_icon.png) / _Bank\_Manager's\_House\_Key\_icon.png_ |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -31,5 +26,3 @@ It is found inside the bank manager's desk drawer in the [Milton Credit Union](.
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

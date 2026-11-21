@@ -1,11 +1,6 @@
----
-title: "Rock Cache"
-wiki_namespace: 0
-categories: ["Interactable objects", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Rock_Cache"
----
-
 # Rock Cache
+
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rock_Cache)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Rock_Cache"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rock_Cache_icon.png) / *Rock\_Cache\_icon.png* |
+|  | ![](../assets/Rock_Cache_icon.png) / _Rock\_Cache\_icon.png_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | No |
@@ -66,12 +61,18 @@ They can be dismantled over 15 in-game minutes for a full refund of 50 stones, h
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![](../assets/Rockcache2.png) / *Rockcache2.png* | ![](../assets/Rockcache.png) / *Rockcache.png* | ![How a rock cache appears on the map, shown in orange](../assets/Rockcachemap.png) / *How a rock cache appears on the map, shown in orange* |
+![](../assets/Rockcache2.png)
+
+_Rockcache2.png_
+
+![](../assets/Rockcache.png)
+
+_Rockcache.png_
+
+![How a rock cache appears on the map, shown in orange](../assets/Rockcachemap.png)
+
+_How a rock cache appears on the map, shown in orange_
 
 ## Notes
 
 In v. 1.76 meat did not degrade when placed in a rock cache, however this was hotfixed in v. 1.78
-
-**Lua execution error in Module:Navbox function navbox**

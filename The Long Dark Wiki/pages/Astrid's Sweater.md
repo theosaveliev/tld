@@ -1,17 +1,12 @@
----
-title: "Astrid's Sweater"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history", "Story items", "Wintermute"]
-source: "https://thelongdark.fandom.com/wiki/Astrid's_Sweater"
----
-
 # Astrid's Sweater
+
+**Categories:** Clothing, Pages with update history, Story items, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Astrid's_Sweater)
 
 **Astrid's Sweater**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Astrid%27s_Sweater_icon.png) / *Astrid's\_Sweater\_icon.png* |
+|  | ![](../assets/Astrid%27s_Sweater_icon.png) / _Astrid's\_Sweater\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -26,7 +21,7 @@ source: "https://thelongdark.fandom.com/wiki/Astrid's_Sweater"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / *2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png* | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | **A thin sweater. Great for layering but no great comfort on its own.** / In-game description | ” |
+| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_ | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | __A thin sweater. Great for layering but no great comfort on its own.__ / In-game description | ” |
 
 **Astrid's Sweater** is a [Clothing](./Clothing.md) item worn on the player's inner torso obtained at the start of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
@@ -36,13 +31,15 @@ Astrid's sweater is equipped as default clothing when the player regains conscio
 
 The statistics of Astrid's sweater are identical to those of a [Sweatshirt](./Sweatshirt.md).
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Astrid%27s_Sweater_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Astrid%27s_Sweater_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Clothing model icon](../assets/Astrid%27s_Sweater_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Astrid%27s_Sweater_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Свитер Астрид](ru:%D0%A1%D0%B2%D0%B8%D1%82%D0%B5%D1%80_%D0%90%D1%81%D1%82%D1%80%D0%B8%D0%B4)

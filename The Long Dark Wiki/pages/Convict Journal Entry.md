@@ -1,17 +1,12 @@
----
-title: "Convict Journal Entry"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Convict_Journal_Entry"
----
-
 # Convict Journal Entry
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Convict_Journal_Entry)
 
 **Convict Journal Entry**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Convict_Journal_Entry_icon.png) / *Convict\_Journal\_Entry\_icon.png* |
+|  | ![](../assets/Convict_Journal_Entry_icon.png) / _Convict\_Journal\_Entry\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Convict_Journal_Entry"
 
 ## Transcript
 
-*The following text is transcribed from **Convict Journal Entry***
+_The following text is transcribed from **Convict Journal Entry**_
 
 **They got me set up with the usual hard cases. Nothin I haven't seen before, but this place feels like the end of some kinda road. Have to find a way back anyhow.
 
@@ -38,5 +33,3 @@ Storms out this way are worst I've seen. Days go by, same wind blowin. They pack
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

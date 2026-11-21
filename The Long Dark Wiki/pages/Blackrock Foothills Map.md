@@ -1,17 +1,12 @@
----
-title: "Blackrock Foothills Map"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Blackrock_Foothills_Map"
----
-
 # Blackrock Foothills Map
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_Foothills_Map)
 
 **Blackrock Foothills Map**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Blackrock_Foothills_Map_icon.png) / *Blackrock\_Foothills\_Map\_icon.png* |
+|  | ![](../assets/Blackrock_Foothills_Map_icon.png) / _Blackrock\_Foothills\_Map\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -28,9 +23,9 @@ source: "https://thelongdark.fandom.com/wiki/Blackrock_Foothills_Map"
 
 Once acquired, the [Map](./Map.md) for the [Blackrock Foothills](./Blackrock%20Foothills.md) region is unlocked.
 
-| Column 1 |
-| --- |
-| ![alt icon](../assets/Blackrock_Foothills_Map_Alt_icon.png) / *alt icon* |
+![alt icon](../assets/Blackrock_Foothills_Map_Alt_icon.png)
+
+_alt icon_
 
 ## Update history
 
@@ -38,5 +33,3 @@ Once acquired, the [Map](./Map.md) for the [Blackrock Foothills](./Blackrock%20F
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

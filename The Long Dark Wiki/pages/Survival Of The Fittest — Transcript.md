@@ -1,11 +1,6 @@
----
-title: "Survival Of The Fittest/Transcript"
-wiki_namespace: 0
-categories: ["Episode 1"]
-source: "https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest%2FTranscript"
----
-
 # Survival Of The Fittest/Transcript
+
+**Categories:** Episode 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest%2FTranscript)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest%2FTranscrip
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Survival_Of_The_Fittest.jpg) / *Survival\_Of\_The\_Fittest.jpg* |
+|  | ![](../assets/Survival_Of_The_Fittest.jpg) / _Survival\_Of\_The\_Fittest.jpg_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Previous | None |
 | Current | Survival Of The Fittest/Transcript |
@@ -32,25 +27,25 @@ This is the transcript for Chapter 1 [Survival Of The Fittest](./Survival%20Of%2
 
 ## Intro
 
-*The game begins with the sound of a man grunting in pain and gasping for air, and then the noise of a beating heart, and a person's vision slowly coming to as they blink back into consciousness. The ambient electrical wail of an [Aurora](./Aurora.md) plays overhead as the camera shifts to reveal trees, fire, smoke, and wreckage of a crashed plane as he closes his eyes.*
+_The game begins with the sound of a man grunting in pain and gasping for air, and then the noise of a beating heart, and a person's vision slowly coming to as they blink back into consciousness. The ambient electrical wail of an [Aurora](./Aurora.md) plays overhead as the camera shifts to reveal trees, fire, smoke, and wreckage of a crashed plane as he closes his eyes._
 
 [Astrid Greenwood](./Astrid%20Greenwood.md): "Mackenzie! Mackenzie!"
 
-*A steady heartbeat is heard*
+_A steady heartbeat is heard_
 
 Astrid Greenwood: "Don't let this new world break you."
 
 HINTERLAND PRESENTS
 
-*The survivor begins to get up after opening his eyes, before the man cries out:*
+_The survivor begins to get up after opening his eyes, before the man cries out:_
 
 [Will Mackenzie](./Will%20Mackenzie.md): "...Astrid? Astrid!"
 
-*The man gets up, and notices a piece of metal lodged in his left hand, hesitating before deciding to pull it out.*
+_The man gets up, and notices a piece of metal lodged in his left hand, hesitating before deciding to pull it out._
 
 The player must manually remove the shard at this point as part of a quick time event.
 
-*The process is slow, and is not without consequence, as the man's cries of pain ring out during the pulling. After the [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) is pulled out.*
+_The process is slow, and is not without consequence, as the man's cries of pain ring out during the pulling. After the [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) is pulled out._
 
 THE LONG DARK
 
@@ -62,112 +57,112 @@ CHAPTER ONE
 
 SURVIVAL OF THE FITTEST
 
-*The player can take control of the man, as the names of the developers appear in the top left occasionally. The pilot moves slowly due to his [Plane Crash Injuries](./Plane%20Crash%20Injuries.md). Moving towards a cave, the man finds a [First Aid Kit](./First%20Aid%20Kit.md) and takes the contents out, prompting tutorial messages*
+_The player can take control of the man, as the names of the developers appear in the top left occasionally. The pilot moves slowly due to his [Plane Crash Injuries](./Plane%20Crash%20Injuries.md). Moving towards a cave, the man finds a [First Aid Kit](./First%20Aid%20Kit.md) and takes the contents out, prompting tutorial messages_
 
-> “**Study Your Treatments and Learn to Triage  
- There are many ways to die in the wilderness. Medical treatments -- man-made or harvested from the natural world -- will save your life. Use the Status screen to check on your health. Apply a Treatment using the First Aid Radial menu. You can also use Treatments from your Pack menu.**”
+> “__Study Your Treatments and Learn to Triage  
+ There are many ways to die in the wilderness. Medical treatments -- man-made or harvested from the natural world -- will save your life. Use the Status screen to check on your health. Apply a Treatment using the First Aid Radial menu. You can also use Treatments from your Pack menu.__”
 >
 > — What I Know description
 
-> “**The Key to Survival  
- Preparation and self-control are vital to your survival. Check your Controls menu if you're unsure of how to do something. This could save your life.**”
+> “__The Key to Survival  
+ Preparation and self-control are vital to your survival. Check your Controls menu if you're unsure of how to do something. This could save your life.__”
 >
 > — What I Know description
 
-*After he patches his hand with a [Bandage](./Bandage.md). The bandage can be seen on his hand for the rest of the mission if he hold something up (like matches). He moves to the cave and another tutorial message play during this time.*{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Fire Provides Heat, Water, Food, Protection  
- Use the Campfire option in the Radial Menu. You'll need all the fixings: a Firestarter, Tinder, and Fuel. Accelerant speeds up the process. Fuel types impact burn time and heat production. An active fire, along with a Can or Pot, can be used to Cook or Boil Water, as well as keep you from freezing to death.**
+_After he patches his hand with a [Bandage](./Bandage.md). The bandage can be seen on his hand for the rest of the mission if he hold something up (like matches). He moves to the cave and another tutorial message play during this time._{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Fire Provides Heat, Water, Food, Protection  
+ Use the Campfire option in the Radial Menu. You'll need all the fixings: a Firestarter, Tinder, and Fuel. Accelerant speeds up the process. Fuel types impact burn time and heat production. An active fire, along with a Can or Pot, can be used to Cook or Boil Water, as well as keep you from freezing to death.__
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} *As the player wanders around looking for supplies to start the fire, the man looks around and take note of his surroundings*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} _As the player wanders around looking for supplies to start the fire, the man looks around and take note of his surroundings_
 
 Mackenzie: "Guess I'm stuck inside some kind of ravine."
 
-*If the player walks into any of the burning fires*
+_If the player walks into any of the burning fires_
 
-Mackenzie: *Yells* "Climbing into the fire...not a good idea."
+Mackenzie: _Yells_ "Climbing into the fire...not a good idea."
 
-*Once the player starts a fire successfully*
+_Once the player starts a fire successfully_
 
 Mackenzie: "That's all I have in me. Need to lay down before I fall down."
 
-*The man passes out for the night*
+_The man passes out for the night_
 
 ## Day 2
 
-The man wakes up the next morning. *The various fires from the night before have all but died down, with only vapors of smoke rising from the wreckage.*
+The man wakes up the next morning. _The various fires from the night before have all but died down, with only vapors of smoke rising from the wreckage._
 
 Mackenzie: "So thirsty. Gotta be a way to melt some snow."
 
-*Another tutorial message appears*{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Status is Your Early Warning System  
- When you bring up the Quick Stats or the Radial Menu, you'll get a preview of your Current Condition, as well as information about how Cold, Tired, Hungary, and Thirsty you are. Any time one of these status indicators is empty and red, this means you're losing Condition. Lose all your Condition, and you'll die.**
+_Another tutorial message appears_{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Status is Your Early Warning System  
+ When you bring up the Quick Stats or the Radial Menu, you'll get a preview of your Current Condition, as well as information about how Cold, Tired, Hungary, and Thirsty you are. Any time one of these status indicators is empty and red, this means you're losing Condition. Lose all your Condition, and you'll die.__
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} *As the player leaves the cave*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} _As the player leaves the cave_
 
 Mackenzie: "I might be stuck here awhile. Better see what I can use."
 
-*As the player approaches some green [Crates](./Crate.md) and a [Metal Container](./Metal%20Container.md)*
+_As the player approaches some green [Crates](./Crate.md) and a [Metal Container](./Metal%20Container.md)_
 
 Mackenzie: "Looks like debris from the crash site above."
 
-*The player can break these tools down for supplies, and returns to the cave to start melting snow into water, then drinks the water and eats some food to keep his strength up.*
+_The player can break these tools down for supplies, and returns to the cave to start melting snow into water, then drinks the water and eats some food to keep his strength up._
 
 Mackenzie: "Shit...that cut smarts. Better make sure it doesn't get infected."
 
-*An [Infection Risk](./Infection%20Risk.md) appears, and the man uses [Antiseptic](./Antiseptic.md) on his bandaged hand*
+_An [Infection Risk](./Infection%20Risk.md) appears, and the man uses [Antiseptic](./Antiseptic.md) on his bandaged hand_
 
 Mackenzie: "I don't feel so good. I need to rest up."
 
-*The man sleeps for the day*
+_The man sleeps for the day_
 
 ## Day 3
 
-*When the pilot next wakes up the following day, a massive blizzard is developing outside*
+_When the pilot next wakes up the following day, a massive blizzard is developing outside_
 
 Mackenzie: "The weather's turning bad. I'm going to need a good long fire to keep from freezing to death."
 
-*As the man exits the cave, more Crates have fallen from above, some containing many Books. As the man gathers firewood*
+_As the man exits the cave, more Crates have fallen from above, some containing many Books. As the man gathers firewood_
 
 Mackenzie: "It's getting colder. If I don't have enough firewood to last the night...I might not make it."
 
-*The man breaks down branches, finds sticks, and finds enough firewood to keep a fire going for 9 hours*
+_The man breaks down branches, finds sticks, and finds enough firewood to keep a fire going for 9 hours_
 
 Mackenzie: "Fire looks good. Now to warm up before I freeze to death..."
 
-*The pilot warms himself up fully by the fire*
+_The pilot warms himself up fully by the fire_
 
 Mackenzie: "That should last me through the night. So...tired..."
 
 ## Day 4
 
-*As the man wakes up from the night, about 1 hour of fuel remains in the fire*
+_As the man wakes up from the night, about 1 hour of fuel remains in the fire_
 
 Mackenzie: "Thought that storm would never end. I need to find some food."
 
-*Another tutorial message appears on the screen*
+_Another tutorial message appears on the screen_
 
-> “**Your Ears Are Your Best Survival Tool  
- Pay attention to your surroundings and you might glean information that's important for your survival. For example, a murder of Crows circling up ahead might suggest an animal carcass -- or even a human corpse -- might be nearby!**”
+> “__Your Ears Are Your Best Survival Tool  
+ Pay attention to your surroundings and you might glean information that's important for your survival. For example, a murder of Crows circling up ahead might suggest an animal carcass -- or even a human corpse -- might be nearby!__”
 >
 > — What I Know description
 
-*As the pilot leaves the cave, he notices a large tree that has fallen since he crashed*
+_As the pilot leaves the cave, he notices a large tree that has fallen since he crashed_
 
 Mackenzie: "That was a hell of a storm last night. Blew that tree clean over."
 
-*As he carefully climbs up the tree, Crows circle over the remains of a Deer Carcass, his [Parka](./Mackenzie%27s%20Parka.md) and a backpack next to a Hardcase. As the man approaches the Hardcase*
+_As he carefully climbs up the tree, Crows circle over the remains of a Deer Carcass, his [Parka](./Mackenzie%27s%20Parka.md) and a backpack next to a Hardcase. As the man approaches the Hardcase_
 
 Mackenzie: "Astrid's pack."
 
-*The man then picks up the Hardcase, eyeing the lock before taking it.*
+_The man then picks up the Hardcase, eyeing the lock before taking it._
 
 Mackenzie: "Hmm...locked."
 
-*He puts it away, and a flashback cutscene plays.*
+_He puts it away, and a flashback cutscene plays._
 
-*A hangar is shown during a light snowstorm, the same man from the crash is playing Solitaire in his boredom until a phone rings*
+_A hangar is shown during a light snowstorm, the same man from the crash is playing Solitaire in his boredom until a phone rings_
 
 Mackenzie: "Jackrabbit Remote Transport. Mackenzie Speaking."
 
@@ -175,11 +170,11 @@ The man hears a voice on the other side and reacts to it
 
 Mackenzie: "Woah woah...slow down, Maureen. What are you talking about?"
 
-*The office door slowly opens.*
+_The office door slowly opens._
 
 Mackenzie: "It's ok, Maureen. I've got it from here."
 
-*Mackenzie hangs the phone up and a woman slowly walks in.*
+_Mackenzie hangs the phone up and a woman slowly walks in._
 
 Mackenzie: "Uhh..."
 
@@ -193,13 +188,13 @@ Mackenzie: "Yeah...years. I haven't heard from you...since..."
 
 Astrid: "I know. I know. And I wouldn't be here if it weren't important."
 
-*The woman places a Hardcase on the office table.*
+_The woman places a Hardcase on the office table._
 
 Mackenzie: "Well...what brings you...I mean...Are you sick?"
 
 Astrid: "No, not me. But I need to get to someone who is."
 
-*Will scratches the back of his head.*
+_Will scratches the back of his head._
 
 Mackenzie: "Right. So you're still a doctor."
 
@@ -225,7 +220,7 @@ Mackenzie: "Wait...questions? Astrid. Are you in trouble?"
 
 Astrid: "Are you going to help me or not?"
 
-*Mackenzie eyes the Hardcase*
+_Mackenzie eyes the Hardcase_
 
 Mackenzie: "What's in the case?"
 
@@ -251,50 +246,50 @@ Mackenzie: "You don't think I feel it too?"
 
 Astrid: "Are you gonna take me or not? The longer I wait the worse it'll get."
 
-*Mackenzie silently stares down Astrid.*
+_Mackenzie silently stares down Astrid._
 
 Astrid: "Dammit, I don't have time for this..."
 
-*Astrid takes the Hardcase off the table, turns her back on Mackenzie, and begins to walk out.*
+_Astrid takes the Hardcase off the table, turns her back on Mackenzie, and begins to walk out._
 
 Mackenzie: "Wait...the worse what will get? Why do I have a feeling you're not talking about the weather?"
 
 Astrid: "Because I'm not."
 
-*Mackenzie shakes his head in disappointment.*
+_Mackenzie shakes his head in disappointment._
 
 Mackenzie: "Throw your bags in the plane. I'll get started on pre-flight. Better buckle up tight because it's going to be a rough ride..."
 
-*The cutscene ends with an outside shot of the Jackrabbit Hangar, before fading to black and then fading back to the present in the ravine.*
+_The cutscene ends with an outside shot of the Jackrabbit Hangar, before fading to black and then fading back to the present in the ravine._
 
 Mackenzie: "Whatever's in this case, Astrid was willing to die for it. I hope she hasn't already died for it."
 
-*The man turns to pick up his Parka out of the snow, and a tutorial message appears*{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Clothing Is Armour Against Cold  
- Out in the wilderness, clothing is like armour against the elements. Wear layers to stay warm. An remember, wind is your enemy! Clothing offers different protection from cold and windchill. Your clothes can get wet from blowing snow or if you fall into water, which makes them ineffective and increases your risk of hypothermia or even frostbite. Keep your clothes as dry as you can! finally, clothing can protect you from physical injuries as from falling or tangling with wildlife. Balance all these factors against the weight and mobility cost of your combined clothing.**
+_The man turns to pick up his Parka out of the snow, and a tutorial message appears_{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Clothing Is Armour Against Cold  
+ Out in the wilderness, clothing is like armour against the elements. Wear layers to stay warm. An remember, wind is your enemy! Clothing offers different protection from cold and windchill. Your clothes can get wet from blowing snow or if you fall into water, which makes them ineffective and increases your risk of hypothermia or even frostbite. Keep your clothes as dry as you can! finally, clothing can protect you from physical injuries as from falling or tangling with wildlife. Balance all these factors against the weight and mobility cost of your combined clothing.__
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} *The man notices a [Rock Climb](./Rock%20Climb.md)*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} _The man notices a [Rock Climb](./Rock%20Climb.md)_
 
 Mackenzie: "I could probably climb that."
 
-*He tries to climb up it, but loses his grip and falls, getting a [Sprained Ankle](./Sprained%20Ankle.md) for his efforts.* *Another tutorial message appears*{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Mother Nature's Painkiller  
- Sometimes Mother Nature is your pharmacist. Craft Rose-hips into a preparation that can be boiled in water to produce a tea with pain-relieving properties. Keep your eyes open for other natural remedies.**
+_He tries to climb up it, but loses his grip and falls, getting a [Sprained Ankle](./Sprained%20Ankle.md) for his efforts._ _Another tutorial message appears_{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Mother Nature's Painkiller  
+ Sometimes Mother Nature is your pharmacist. Craft Rose-hips into a preparation that can be boiled in water to produce a tea with pain-relieving properties. Keep your eyes open for other natural remedies.__
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} *Mackenzie finds several Rose Hip Bushes and picks the buds. The man then finally approaches the Deer Carcass and begins to cut it up for all of its meat.*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} _Mackenzie finds several Rose Hip Bushes and picks the buds. The man then finally approaches the Deer Carcass and begins to cut it up for all of its meat._
 
 Mackenzie: "This carcass could save my life. This doesn't look too good, but what choice do I have?"
 
-*Then a tutorial message appears when finished*
+_Then a tutorial message appears when finished_
 
-> “**Everything You Eat, Can Kill You  
- When starving, you may feel desperate enough to take your chances, but in general eating raw meat is a bad idea. Cook it to avoid getting Food Poisoning, or Parasites. Cooked meat also lasts longer, and attracts fewer predators.**”
+> “__Everything You Eat, Can Kill You  
+ When starving, you may feel desperate enough to take your chances, but in general eating raw meat is a bad idea. Cook it to avoid getting Food Poisoning, or Parasites. Cooked meat also lasts longer, and attracts fewer predators.__”
 >
 > — What I Know description
 
-*Slowly limping his way back over the fallen tree to the still active cave, he prepares some [Rose Hip Tea](./Rose%20Hip%20Tea.md), cooks the Venison, and eats it all.*
+_Slowly limping his way back over the fallen tree to the still active cave, he prepares some [Rose Hip Tea](./Rose%20Hip%20Tea.md), cooks the Venison, and eats it all._
 
 Mackenzie: "May as well rest up. No telling what tomorrow will bring."
 
@@ -302,36 +297,36 @@ Mackenzie: "May as well rest up. No telling what tomorrow will bring."
 
 Mackenzie: "I feel stronger today. I think I can climb out of here now."
 
-*Note, subtitles say "*I think I can make that climb now."
+_Note, subtitles say "_I think I can make that climb now."
 
-*A tutorial message appears*{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **What You Know Can Save You  
- As you learn things about the world -- either through your own actions, or through interacting with people -- you unlock Knowledge about People, Places, Things, and Actions. Deeper Knowledge can be revealed when you gain the Trust of other survivors you meet. This Knowledge is tracked in your Journal, for future reference.**
+_A tutorial message appears_{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __What You Know Can Save You  
+ As you learn things about the world -- either through your own actions, or through interacting with people -- you unlock Knowledge about People, Places, Things, and Actions. Deeper Knowledge can be revealed when you gain the Trust of other survivors you meet. This Knowledge is tracked in your Journal, for future reference.__
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} *The man, now healed of his Plane Crash Injuries, makes his way up the fallen tree and to the Rock Climb*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} _The man, now healed of his Plane Crash Injuries, makes his way up the fallen tree and to the Rock Climb_
 
 Mackenzie: "Only one way to go - - up."
 
-*He climbs up and continues to climb more Rock Climbs*
+_He climbs up and continues to climb more Rock Climbs_
 
 Mackenzie: "I think I'm gonna make it."
 
-*He spots one final Rock Climb*
+_He spots one final Rock Climb_
 
 Mackenzie: "Getting near the top!"
 
-*After the final climb:*
+_After the final climb:_
 
 Mackenzie: "Finally...made it."
 
-*Mackenzie walks around a bend and comes across his crashed plane*
+_Mackenzie walks around a bend and comes across his crashed plane_
 
 Mackenzie: "I sure hope Astrid's not in there."
 
-*A flashback cutscene plays, showing what happened after the pilot and his passenger took off from the Hangar*
+_A flashback cutscene plays, showing what happened after the pilot and his passenger took off from the Hangar_
 
-*The floatplane engine whirs as it flies over a forest high above [Great Bear Island](./Great%20Bear%20Island.md). The camera switches to Mackenzie operating the controls with him and Astrid both wearing communication headsets.*
+_The floatplane engine whirs as it flies over a forest high above [Great Bear Island](./Great%20Bear%20Island.md). The camera switches to Mackenzie operating the controls with him and Astrid both wearing communication headsets._
 
 Astrid (COM): "I see you're still wearing it."
 
@@ -369,13 +364,13 @@ Astrid (COM): "I don't question your life choices, Mackenzie. Plenty of things y
 
 Mackenzie (COM): "Hey...we had a lot of good times in this plane. And it's under control."
 
-*Astrid puts her hands up.*
+_Astrid puts her hands up._
 
 Astrid (COM): "I know. OK. I know. I'm not here to fight. Really."
 
 Mackenzie (COM): "Hmph."
 
-*A short silence fills the air before Mackenzie breaks it.*
+_A short silence fills the air before Mackenzie breaks it._
 
 Mackenzie (COM): "I think about him all the time, you know."
 
@@ -385,40 +380,38 @@ Mackenzie (COM): "What I did. The choice I made. I did it for us you know."
 
 Astrid (COM): "You don't have to...let's not..."
 
-*A green light slowly fills up the edges of the cockpit, unnoticed by Mackenzie.*
+_A green light slowly fills up the edges of the cockpit, unnoticed by Mackenzie._
 
 Mackenzie (COM): "No, it's important that you hear this. There's things I need to say..."
 
-*Astrid notices the green light in the distance and tries to interrupt Mackenzie.*
+_Astrid notices the green light in the distance and tries to interrupt Mackenzie._
 
 Astrid (COM): "Mackenzie. Not now. There's..."
 
 Mackenzie (COM): "Just let me tell you..."
 
-*The green light becomes almost blinding at this point.*
+_The green light becomes almost blinding at this point._
 
 Astrid (COM): "Will! Shut up for a second. Something's wrong!'
 
-*A green light washes over the valley below and finally the plane. Sparks fly from the aircraft as the outside and inside lights go out. The headsets that the duo are using stop functioning and the plane engine begins to stall.*
+_A green light washes over the valley below and finally the plane. Sparks fly from the aircraft as the outside and inside lights go out. The headsets that the duo are using stop functioning and the plane engine begins to stall._
 
 Mackenzie: "That's not good."
 
 Astrid: "What's going on?"
 
-*Mackenzie points to the altitude indicator gauge as sparks fly from the flight instruments.*
+_Mackenzie points to the altitude indicator gauge as sparks fly from the flight instruments._
 
 Mackenzie: "Power's gone. Whole electrical system looks fried."
 
 Astrid: "Shit. What's happening?"
 
-*Mackenzie starts pulling back on the flight stick to stabilize the rapidly dropping plane.*
+_Mackenzie starts pulling back on the flight stick to stabilize the rapidly dropping plane._
 
 Mackenzie: "No power means we're going down. Hold tight."
 
-*Various quick shots of the plane falling out of the sky show.*
+_Various quick shots of the plane falling out of the sky show._
 
 Astrid: "Will?"
 
-*Astrid and Mackenzie hold hands as the plane continues to fall. The final shot of the cutscene shows the floatplane barely scrapping the canopy of several trees of the forest below them before the scene fades to black.*
-
-The story continues in [Echoes Of Astrid/Transcript](./Echoes%20Of%20Astrid%20%E2%80%94%20Transcript.md).**Lua execution error in Module:Navbox function navbox**
+_Astrid and Mackenzie hold hands as the plane continues to fall. The final shot of the cutscene shows the floatplane barely scrapping the canopy of several trees of the forest below them before the scene fades to black._

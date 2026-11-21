@@ -1,17 +1,12 @@
----
-title: "Simple Note"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Simple_Note"
----
-
 # Simple Note
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Simple_Note)
 
 **Simple Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Simple_Note_icon.png) / *Simple\_Note\_icon.png* |
+|  | ![](../assets/Simple_Note_icon.png) / _Simple\_Note\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Simple_Note"
 
 ## Transcript
 
-*The following text is transcribed from **Simple Note***
+_The following text is transcribed from **Simple Note**_
 
 **This small note looks to have been left for someone in particular. Hard to imagine, as the area is quite sparse.
 
@@ -42,5 +37,3 @@ I'm heading to the clear cut - put some supplies aside for us. Away from prying 
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

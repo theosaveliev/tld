@@ -1,11 +1,6 @@
----
-title: "Hide Chair"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Hide_Chair"
----
-
 # Hide Chair
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hide_Chair)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Hide_Chair"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hide_Chair_icon.png) / *Hide\_Chair\_icon.png* |
+|  | ![](../assets/Hide_Chair_icon.png) / _Hide\_Chair\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 5.00 kg (11 lbs) |
@@ -66,5 +61,3 @@ The Hide Chair can be harvested with a [Hatchet](./Hatchet.md) in 2 hours and pr
 |  | 3 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Обитое шкурой кресло](ru:%D0%9E%D0%B1%D0%B8%D1%82%D0%BE%D0%B5_%D1%88%D0%BA%D1%83%D1%80%D0%BE%D0%B9_%D0%BA%D1%80%D0%B5%D1%81%D0%BB%D0%BE)

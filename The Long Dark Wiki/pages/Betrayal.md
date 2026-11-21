@@ -1,17 +1,12 @@
----
-title: "Betrayal"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Betrayal"
----
-
 # Betrayal
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Betrayal)
 
 **Betrayal**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Betrayal_icon.png) / *Betrayal\_icon.png* |
+|  | ![](../assets/Betrayal_icon.png) / _Betrayal\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Properties** |  |
@@ -32,7 +27,7 @@ Currently, the collectible serves no additional purpose during [Episode 1](./Epi
 
 ## Transcript
 
-*The following text is transcribed from **Betrayal***
+_The following text is transcribed from **Betrayal**_
 
 **I left him like I promised I would, and I waited here like you asked. Where are you? It's getting too cold to sit here. Pick me up at the old PO when you can and let's get out of here. If you don't pick me up by midnight, I'm out of here on my own.**
 
@@ -40,5 +35,3 @@ Currently, the collectible serves no additional purpose during [Episode 1](./Epi
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

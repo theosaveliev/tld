@@ -1,17 +1,12 @@
----
-title: "Aviator Cap"
-wiki_namespace: 0
-categories: ["Clothing", "DLC Content", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Aviator_Cap"
----
-
 # Aviator Cap
+
+**Categories:** Clothing, DLC Content, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Aviator_Cap)
 
 **Aviator Cap**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Aviator_Cap_icon.png) / *Aviator\_Cap\_icon.png* |
+|  | ![](../assets/Aviator_Cap_icon.png) / _Aviator\_Cap\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Renewable | Yes ([Trader](./Trader.md) or very rarely through [Beachcombing](./Beachcombing.md)) |
@@ -28,6 +23,6 @@ source: "https://thelongdark.fandom.com/wiki/Aviator_Cap"
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / > “**A warm, durable hat favoured by pilots operating in the frozen North. Stylish, to a point.**” / **Aviator Cap** is a type of clothing in The Long Dark. It is part of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC. / ## Overview / Aviator Caps are a rare hat with superior stats to the crafted [Rabbitskin Hat](./Rabbitskin%20Hat.md) (0.05kg lighter, and 0.5\*C more windproof), making it the third best outer-layer hat after the [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) and the [Wolfskin Hat](./Wolfskin%20Hat.md). Like other clothing made of [Cured Leather](./Cured%20Leather.md), Aviator Caps are considerably more durable than cloth or animal hide clothing (losing less condition over time, from blizzards, or animals struggles) but requires Cured Leather for repair. / Aviator Caps spawn rarely on all game modes. / ## Locations / - Inside [Main Hangar](./Main%20Hangar.md) in [Forsaken Airfield](./Forsaken%20Airfield.md), on the bed in the basement. / - Inside [Mindful Cabin](./Mindful%20Cabin.md) in [Forsaken Airfield](./Forsaken%20Airfield.md). / - Inside [Camp Office](./Camp%20Office.md) in [Mystery Lake](./Mystery%20Lake%20%28region%29.md). / - Inside the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) in [Timberwolf Mountain](./Timberwolf%20Mountain.md). / - Inside a container in the Abandoned Mine, in [Blackrock](./Blackrock.md). / - Inside aircraft crashes found in multiple regions. / - Inside fishing boats that spawn through [Beachcombing](./Beachcombing.md). / - Inside fishing huts. / - Inside vehicles. / - On a corpse, Narrow Falls Cave, Ash Canyon / \| Column 1 \| Column 2 \| / \| --- \| --- \| / \| ![Model icon](../assets/Aviator_Cap_Model_icon.png) / *Model icon* \| ![Model icon damaged](../assets/Aviator_Cap_Model_Damaged_icon.png) / *Model icon damaged* \| / ## Update history / - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):** / - Added to game. / **Lua execution error in Module:Navbox function navbox** [ru:Головной убор лётчика](ru:%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9_%D1%83%D0%B1%D0%BE%D1%80_%D0%BB%D1%91%D1%82%D1%87%D0%B8%D0%BA%D0%B0) |
-| “ | **A warm, durable hat favoured by pilots operating in the frozen North. Stylish, to a point.** | ” |
-| ![Model icon](../assets/Aviator_Cap_Model_icon.png) / *Model icon* | ![Model icon damaged](../assets/Aviator_Cap_Model_Damaged_icon.png) / *Model icon damaged* |  |
+
+| “ | __A warm, durable hat favoured by pilots operating in the frozen North. Stylish, to a point.__ | ” |
+| ![Model icon](../assets/Aviator_Cap_Model_icon.png) / _Model icon_ | ![Model icon damaged](../assets/Aviator_Cap_Model_Damaged_icon.png) / _Model icon damaged_ |  |

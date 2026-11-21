@@ -1,11 +1,6 @@
----
-title: "The Grey Mother/Transcript"
-wiki_namespace: 0
-categories: ["Episode 1"]
-source: "https://thelongdark.fandom.com/wiki/The_Grey_Mother%2FTranscript"
----
-
 # The Grey Mother/Transcript
+
+**Categories:** Episode 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Grey_Mother%2FTranscript)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Grey_Mother%2FTranscript"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Grey_Mother.png) / *The\_Grey\_Mother.png* |
+|  | ![](../assets/The_Grey_Mother.png) / _The\_Grey\_Mother.png_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Previous | [The Crash/Transcript](./The%20Crash%20%E2%80%94%20Transcript.md) |
 | Current | The Grey Mother/Transcript |
@@ -32,13 +27,13 @@ This is the mission transcript for mission 3 [The Grey Mother](./The%20Grey%20Mo
 
 ## Transcript
 
-*The chapter name appears on the screen shortly after speaking with [Grey Mother](./Grey%20Mother.md).*
+_The chapter name appears on the screen shortly after speaking with [Grey Mother](./Grey%20Mother.md)._
 
 CHAPTER 3
 
 THE GREY MOTHER
 
-*At this point, new optional dialogue options appear when speaking with Grey Mother.*
+_At this point, new optional dialogue options appear when speaking with Grey Mother._
 
 - Mainlander?
 
@@ -94,11 +89,11 @@ Grey Mother: "I'm not sure. The voices were...thin. Far. The blizzard was waking
 
 ### Find supplies to help keep Grey Mother alive.
 
-*Having exhausted all dialogue with Grey Mother, Mackenzie leaves the house and begins searching for food and fuel for the old woman. If the player travels to the [Old Schoolhouse](./Old%20Schoolhouse.md), Mackenzie will say:*
+_Having exhausted all dialogue with Grey Mother, Mackenzie leaves the house and begins searching for food and fuel for the old woman. If the player travels to the [Old Schoolhouse](./Old%20Schoolhouse.md), Mackenzie will say:_
 
 Will Mackenzie: "This is just...terrible."
 
-*A small amount of blood is at the ruined front steps of the remains of the school, along with burned glasses and a burned pair of child sized sneakers. Most of the homes that are still standing in the town have been ransacked, most likely by the "bad men" Grey Mother mentioned. Eventually Mackenzie makes his way to the [Orca Gas Station](./Orca%20Gas%20Station.md), and if the player arrives at night, they will see a glow coming from inside the building, as if the power is still on inside, despite the pumps and outdoor lights not being powered. Stepping inside through the front door, he sees an old man in front of the register, with his walking stick leaning against a pillar to his left, a [Green Birch Sapling](./Green%20Birch%20Sapling.md) and [Cup of Coffee](./Cup%20of%20Coffee.md) to his right, and an active fire in a [Rim Grill](./Rim%20Grill.md) right in front of him. Mackenzie walks up to him and speaks to him.*
+_A small amount of blood is at the ruined front steps of the remains of the school, along with burned glasses and a burned pair of child sized sneakers. Most of the homes that are still standing in the town have been ransacked, most likely by the "bad men" Grey Mother mentioned. Eventually Mackenzie makes his way to the [Orca Gas Station](./Orca%20Gas%20Station.md), and if the player arrives at night, they will see a glow coming from inside the building, as if the power is still on inside, despite the pumps and outdoor lights not being powered. Stepping inside through the front door, he sees an old man in front of the register, with his walking stick leaning against a pillar to his left, a [Green Birch Sapling](./Green%20Birch%20Sapling.md) and [Cup of Coffee](./Cup%20of%20Coffee.md) to his right, and an active fire in a [Rim Grill](./Rim%20Grill.md) right in front of him. Mackenzie walks up to him and speaks to him._
 
 Unknown: "Well...another stranger. Have you escaped the town?"
 
@@ -114,7 +109,7 @@ Will Mackenzie: "What do you mean, the passing..."
 
 Methuselah: "Don't you see the signs?"
 
-*Multiple optional dialogue options appear for the player to choose from*
+_Multiple optional dialogue options appear for the player to choose from_
 
 - Strange
 
@@ -138,7 +133,7 @@ Methuselah: "I'm not sure anything will ever be back to normal."
 
 Will Mackenzie: "What is this town? I don't recall seeing it on any maps..."
 
-Methuselah: "This is Milton." *Chuckles* "Paradise Lost. It's a town of the old world. Discarded. Left behind. You won't find much hope."
+Methuselah: "This is Milton." _Chuckles_ "Paradise Lost. It's a town of the old world. Discarded. Left behind. You won't find much hope."
 
 Will Mackenzie: "I need to find my friend."
 
@@ -160,15 +155,15 @@ Will Mackenzie: "You always this cheerful?"
 
 Methuselah: "My heart weeps for you, stranger. My days are nearly finished. But you'll have to live with what remains."
 
-*Once all dialogue options are exhausted or the player leaves early, Methuselah says:*
+_Once all dialogue options are exhausted or the player leaves early, Methuselah says:_
 
 Methuselah: "Go safely, and good luck to you. I hope you find what you are looking for."
 
-*The Convenience Store is in shambles, but Mackenzie manages to find more than enough food inside to return to Grey Mother. Methuselah sits quietly by his fire, never once objecting to the looting occurring around him. Mackenzie then finds fuel to keep Grey Mother's fire going and places it inside her Firewood Bin.*
+_The Convenience Store is in shambles, but Mackenzie manages to find more than enough food inside to return to Grey Mother. Methuselah sits quietly by his fire, never once objecting to the looting occurring around him. Mackenzie then finds fuel to keep Grey Mother's fire going and places it inside her Firewood Bin._
 
 ### Return to Grey Mother
 
-*Mackenzie then speaks with Grey Mother.*
+_Mackenzie then speaks with Grey Mother._
 
 **Blue Dialogue**
 
@@ -176,7 +171,7 @@ Methuselah: "Go safely, and good luck to you. I hope you find what you are looki
 
 Will Mackenzie: "Have you been able to remember anything else about that night? Anything that might help me find my friend?"
 
-Grey Mother: "I'm back in that night. The wind howling." *Grey Mother places her Hunting Rifle behind her chair.* "Voices passing through town. I can hear them just outside the window. It's windy but the voices carry. They are yelling. Her voice...it passes through town. She's running. She's alone. Calling for help. But no one comes."
+Grey Mother: "I'm back in that night. The wind howling." _Grey Mother places her Hunting Rifle behind her chair._ "Voices passing through town. I can hear them just outside the window. It's windy but the voices carry. They are yelling. Her voice...it passes through town. She's running. She's alone. Calling for help. But no one comes."
 
 Will Mackenzie: "Why didn't anyone help [her](./Astrid%20Greenwood.md)?"
 
@@ -210,11 +205,11 @@ Grey Mother: "If they were outsiders, they might have stayed in the old schoolho
 
 ### Grey Mother thinks something happened at the tunnel leading out from Milton. Investigate.
 
-*Mackenzie then heads to the tunnel just outside of town, and happens upon a [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md).*
+_Mackenzie then heads to the tunnel just outside of town, and happens upon a [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md)._
 
 Will Mackenzie: "What happened here?"
 
-*He walks up to the back of the bus and wipes the frost off the back window and peers inside only to see that the tunnel has collapsed and filled the bus with snow. Before leaving, Mackenzie finds a message written in red inside the bus: PERSERVERANCE. He returns to Grey Mother and tells her his findings. A wolf is found in the road feasting on a deer carcass near Grey Mother's home, further adding to the ruined state of the town. Walking inside, a pot of [Home-made Soup](./Home-made%20Soup.md) is sitting next to the fireplace.*
+_He walks up to the back of the bus and wipes the frost off the back window and peers inside only to see that the tunnel has collapsed and filled the bus with snow. Before leaving, Mackenzie finds a message written in red inside the bus: PERSERVERANCE. He returns to Grey Mother and tells her his findings. A wolf is found in the road feasting on a deer carcass near Grey Mother's home, further adding to the ruined state of the town. Walking inside, a pot of [Home-made Soup](./Home-made%20Soup.md) is sitting next to the fireplace._
 
 **White Dialogue**
 
@@ -294,11 +289,11 @@ Grey Mother: "In the bank. You'll find the answers. Now go."
 
 ### Something precious was stolen from Grey Mother. Find it, and return it to her.
 
-*Mackenzie heads to [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) down the road. Along the way, a piece of orange fabric can be seen swaying in the wind, stuck to the barb wire fence. Walking past the Mailbox, fresh blood can be seen in the snow leading to the Farmhouse. Taking a detour to the nearby shed close to the farmhouse, Mackenzie finds the [body of a dead man](./Martin%20Barker.md) being eaten by a wolf.*
+_Mackenzie heads to [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) down the road. Along the way, a piece of orange fabric can be seen swaying in the wind, stuck to the barb wire fence. Walking past the Mailbox, fresh blood can be seen in the snow leading to the Farmhouse. Taking a detour to the nearby shed close to the farmhouse, Mackenzie finds the [body of a dead man](./Martin%20Barker.md) being eaten by a wolf._
 
 Will Mackenzie: "Holy shit!!"
 
-*Scaring the wolf off, Mackenzie either loots the corpse or continues exploring the area. Entering the [Tractor](./Tractor.md) and [Truck](./Truck.md) on the farm generates unique dialogue depending on which order they are entered.*
+_Scaring the wolf off, Mackenzie either loots the corpse or continues exploring the area. Entering the [Tractor](./Tractor.md) and [Truck](./Truck.md) on the farm generates unique dialogue depending on which order they are entered._
 
 - Tractor entered first: "Hmm...maybe a dead battery?"
 - Truck entered second: "Just like the Tractor."
@@ -306,33 +301,33 @@ Will Mackenzie: "Holy shit!!"
 - Truck entered first: "Truck seems to be dead. Engine won't even turn."
 - Tractor entered second: "Damn...just like the Truck."
 
-*Eventually Mackenzie makes his way to the front porch of the farmhouse, seeing a bloody red palm print on the front door.*
+_Eventually Mackenzie makes his way to the front porch of the farmhouse, seeing a bloody red palm print on the front door._
 
 Will Mackenzie: "That's a bad sign."
 
-*He enters, seeing a dying convict in an bloody orange jumpsuit on the sofa to the right. He is clutching his abdomen, with a knife poking out of it. To his right, a lockbox broken open with a [Prybar](./Prybar.md) containing a key and several wades of Cash lie on the couch. A blue scarf with birds can be seen wrapped around his right arm, and Mackenzie sees it and points at it as he approaches the dying man.*
+_He enters, seeing a dying convict in an bloody orange jumpsuit on the sofa to the right. He is clutching his abdomen, with a knife poking out of it. To his right, a lockbox broken open with a [Prybar](./Prybar.md) containing a key and several wades of Cash lie on the couch. A blue scarf with birds can be seen wrapped around his right arm, and Mackenzie sees it and points at it as he approaches the dying man._
 
 Will Mackenzie: "That scarf wrapped around your arm. Where'd you get it?"
 
-[Hobbs](./Hobbs.md): *Chuckles* "You're never gonna find her."
+[Hobbs](./Hobbs.md): _Chuckles_ "You're never gonna find her."
 
-Will Mackenzie: *pointing at the man* "What did you do to my friend?"
+Will Mackenzie: _pointing at the man_ "What did you do to my friend?"
 
-Hobbs: *Smiling* "We burned them all, you know. In the old school. It was so easy. Just shoved them in there and locked the door."
+Hobbs: _Smiling_ "We burned them all, you know. In the old school. It was so easy. Just shoved them in there and locked the door."
 
 Will Mackenzie: "You...monsters."
 
-Hobbs: "It just happened. All the lights went out, damn bus lost control and crashed into the tunnel. Brought the roof down on us. Barely crawled out of there alive. Hell, some didn't. People all hanging around...trying to get warm after the power went out. All huddled together. Scared and freezing." *Coughs before chuckling "*Man, I would have liked to have seen that. But we sure warmed them up!" *Smiles and coughs again*
+Hobbs: "It just happened. All the lights went out, damn bus lost control and crashed into the tunnel. Brought the roof down on us. Barely crawled out of there alive. Hell, some didn't. People all hanging around...trying to get warm after the power went out. All huddled together. Scared and freezing." _Coughs before chuckling "_Man, I would have liked to have seen that. But we sure warmed them up!" _Smiles and coughs again_
 
 Will Mackenzie: "You're a bastard!"
 
-Hobbs: "That's about right." *Begins laughing uncomfortably* "We put them all in the old school house so we could keep an eye on them. And then something happened to the lights...the power...it was like sparks everywhere and then fire. Your scarf lady found us while the school was burning. She tried to help get them out. But it was already too late. Smoke already did em' in." *Coughs and clears his mouth by running his left fist across his mouth* "She fought like hell trying to get them out. She stuck a knife or...screwdriver...not sure...into one of our guys. Cut me too. Then ran out into the blizzard." *Begins laughing then coughing, covering his mouth*
+Hobbs: "That's about right." _Begins laughing uncomfortably_ "We put them all in the old school house so we could keep an eye on them. And then something happened to the lights...the power...it was like sparks everywhere and then fire. Your scarf lady found us while the school was burning. She tried to help get them out. But it was already too late. Smoke already did em' in." _Coughs and clears his mouth by running his left fist across his mouth_ "She fought like hell trying to get them out. She stuck a knife or...screwdriver...not sure...into one of our guys. Cut me too. Then ran out into the blizzard." _Begins laughing then coughing, covering his mouth_
 
 Will Mackenzie: "Where did you see her after that?"
 
 Hobbs: "You wanna know about your lady? Help me first."
 
-*Mackenzie throws his hands up in frustration*
+_Mackenzie throws his hands up in frustration_
 
 Will Mackenzie: "Damn it. Tell me where she is!"
 
@@ -346,15 +341,15 @@ Will Mackenzie: "Not hurt too bad?"
 
 Hobbs: "Alright she was bleeding...a bit."
 
-*The convict then begins covering his mouth as a coughing fit ensues, with Mackenzie looking around the farmhouse*
+_The convict then begins covering his mouth as a coughing fit ensues, with Mackenzie looking around the farmhouse_
 
 Hobbs: "No way out of here now. Roads are all blocked. You'll never find her."
 
-*Hobbs begins laughing and coughing again*
+_Hobbs begins laughing and coughing again_
 
 Will Mackenzie: "You have no idea how stubborn I am."
 
-*The convict begins coughing badly again, before spitting up blood*
+_The convict begins coughing badly again, before spitting up blood_
 
 Hobbs: "I told you what I know. Are you going to help me or what? Pull this knife out of me...It's stuck in deep and I can't feel anything below my waist. I need it out."
 
@@ -364,43 +359,43 @@ Hobbs: "Hey...you think they put me on that bus for my good behaviour? That's th
 
 Will Mackenzie: "Black rock?"
 
-Hobbs: "Yeah, you know. Blackrock Federal Pen. Where they put the worst of the bad people...the bad people, bad people. People too bad for the Mainland. Its like an old penal colony or some damn thing." *Hobbs winces in pain for a moment* "You know there's no easy way for us to get back."
+Hobbs: "Yeah, you know. Blackrock Federal Pen. Where they put the worst of the bad people...the bad people, bad people. People too bad for the Mainland. Its like an old penal colony or some damn thing." _Hobbs winces in pain for a moment_ "You know there's no easy way for us to get back."
 
 Will Mackenzie: "Imagine...how lucky you are. All those people in Milton...scared, and dying, and you get to live.
 
 ### Dealing with Hobbs
 
-*Mackenzie moves closer to the Convict's chest and grabs the knife. From this point on, a choice is made with a different outcome:*
+_Mackenzie moves closer to the Convict's chest and grabs the knife. From this point on, a choice is made with a different outcome:_
 
 - Pull Knife
 
 Will Mackenzie: "You don't deserve help...but here."
 
-*Hobbs winces in pain as the knife comes cleanly out, keeling over as he clutches his belly from the pain before righting himself and breathing a sigh of relief.*
+_Hobbs winces in pain as the knife comes cleanly out, keeling over as he clutches his belly from the pain before righting himself and breathing a sigh of relief._
 
 Hobbs: "Hoo! That's better...now...I'll just sit here for a while. I think I'm warming up..."
 
-*Mackenzie looks over the knife before lowering it and the cutscene ends. Hobbs is shown resting on the couch, and the player is free to take the key and loot the farmhouse*
+_Mackenzie looks over the knife before lowering it and the cutscene ends. Hobbs is shown resting on the couch, and the player is free to take the key and loot the farmhouse_
 
 - Push Knife
 
 Will Mackenzie: "You hurt my friend. Maybe even killed her for all I know. You scared an old lady half to death. You let all those people die. A knife in the gut is the best it's ever going to get for you."
 
-*Mackenzie pushes the knife in hard.*
+_Mackenzie pushes the knife in hard._
 
 Hobbs: "Noooooo...you sonofa..."
 
-*The convict struggles to breath, drawing what little strength he has left to reach for the knife in order to pull it out before breathing his last and dying on the couch and closing his eyes. Mackenzie raises his hands, in shock of what he has just done, before lowering them.*
+_The convict struggles to breath, drawing what little strength he has left to reach for the knife in order to pull it out before breathing his last and dying on the couch and closing his eyes. Mackenzie raises his hands, in shock of what he has just done, before lowering them._
 
-*Regardless of the choice made, Mackenzie takes the key, then heads to the [Milton Credit Union](./Milton%20Credit%20Union.md), but finds the vault inside the bank locked.*
+_Regardless of the choice made, Mackenzie takes the key, then heads to the [Milton Credit Union](./Milton%20Credit%20Union.md), but finds the vault inside the bank locked._
 
 Will Mackenzie: "Locked. Can't get in here yet."
 
-*He then searches the office closest to the door for a way to open it, but instead finds a key in the table drawer.*
+_He then searches the office closest to the door for a way to open it, but instead finds a key in the table drawer._
 
 Will Mackenzie: "This must be the key to the bank manager's house."
 
-*Mackenzie finds the [Bank Manager's House](./Bank%20Manager%27s%20House.md), and finds the [Bank Vault Code](./Bank%20Vault%20Code.md) inside, then heads back to the bank to open the vault. After doing so, he opens vault 15 and finds a lockbox inside, then returns to Grey Mother.*
+_Mackenzie finds the [Bank Manager's House](./Bank%20Manager%27s%20House.md), and finds the [Bank Vault Code](./Bank%20Vault%20Code.md) inside, then heads back to the bank to open the vault. After doing so, he opens vault 15 and finds a lockbox inside, then returns to Grey Mother._
 
 **Blue Dialogue**
 
@@ -414,7 +409,7 @@ Will Mackenzie: "Here's the safety deposit box you asked for. I still don't-"
 
 Grey Mother: "Shh. Please...give me the box."
 
-*Mackenzie hands the woman the box and she opens it, producing a string of pearls*
+_Mackenzie hands the woman the box and she opens it, producing a string of pearls_
 
 Will Mackenzie: "Jewelry? I...don't understand. You said this would help me find her."
 
@@ -434,11 +429,11 @@ Grey Mother: "I'm sorry, Mackenzie. I thought I was helping you..."
 
 Will Mackenzie: "It's ok. I don't think you're in any danger anymore. You should have enough supplies to last a while now...I'm sure help is on the way."
 
-Grey Mother: "Now that I have her pearls..." *Grey Mother comes to a realization* "Lily's things!"
+Grey Mother: "Now that I have her pearls..." _Grey Mother comes to a realization_ "Lily's things!"
 
 Will Mackenzie: "What...sorry, I don't understand."
 
-Grey Mother: "I needed the pearls to remember her. But now you can take her things...upstairs." *points up to the ceiling* "In her old room. Her climbing gear. Her maps. They can help you get out of Milton...the path through the mountains."
+Grey Mother: "I needed the pearls to remember her. But now you can take her things...upstairs." _points up to the ceiling_ "In her old room. Her climbing gear. Her maps. They can help you get out of Milton...the path through the mountains."
 
 Will Mackenzie: "You mean, there's another way out?"
 
@@ -449,5 +444,3 @@ Will Mackenzie: "Ok...if you're sure. Thank you."
 Grey Mother: "Now...leave me to my memories, outsider. Go out there, and find your friend. And don't stop to think about Milton, or Grey Mother, again. We're of the old world. This new world is for the strong to survive."
 
 Chapter 4 [Paradise Lost](./Paradise%20Lost%20%E2%80%94%20Transcript.md) begins.
-
-**Lua execution error in Module:Navbox function navbox**

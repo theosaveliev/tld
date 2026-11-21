@@ -1,19 +1,14 @@
----
-title: "Rockfish (Cooked)"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Rockfish_(Cooked)"
----
-
 # Rockfish \(Cooked\)
 
-*For the raw version, see [Rockfish (Raw)](./Rockfish%20%28Raw%29.md).*
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rockfish_%28Cooked%29)
+
+_For the raw version, see [Rockfish (Raw)](./Rockfish%20%28Raw%29.md)._
 
 **Rockfish (Cooked)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rockfish_%28Cooked%29_icon.png) / *Rockfish\_(Cooked)\_icon.png* |
+|  | ![](../assets/Rockfish_%28Cooked%29_icon.png) / _Rockfish\_(Cooked)\_icon.png_ |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
 | Wintermute | No |
 | **Properties** |  |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Rockfish_(Cooked)"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_CookedRockfish |
 
-**Rockfish (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in *The Long Dark*. Cooked rockfish have a minimum raw weight of 1.2 kg and a maximum raw weight of 3.25 kg.
+**Rockfish (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_. Cooked rockfish have a minimum raw weight of 1.2 kg and a maximum raw weight of 3.25 kg.
 
 ## Recipe
 
@@ -47,14 +42,27 @@ source: "https://thelongdark.fandom.com/wiki/Rockfish_(Cooked)"
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Fresh](../assets/Rockfish_%28Cooked%29_icon.png) / *Fresh* | ![Gamey](../assets/Rockfish_%28Cooked%29_Gamey_icon.png) / *Gamey* | ![Mouldy](../assets/Rockfish_%28Cooked%29_Mouldy_icon.png) / *Mouldy* | ![Rancid](../assets/Rockfish_%28Cooked%29_Rancid_icon.png) / *Rancid* |
-| ![Ruined](../assets/Rockfish_%28Cooked%29_Ruined_icon.png) / *Ruined* |  |  |  |
+![Fresh](../assets/Rockfish_%28Cooked%29_icon.png)
+
+_Fresh_
+
+![Gamey](../assets/Rockfish_%28Cooked%29_Gamey_icon.png)
+
+_Gamey_
+
+![Mouldy](../assets/Rockfish_%28Cooked%29_Mouldy_icon.png)
+
+_Mouldy_
+
+![Rancid](../assets/Rockfish_%28Cooked%29_Rancid_icon.png)
+
+_Rancid_
+
+![Ruined](../assets/Rockfish_%28Cooked%29_Ruined_icon.png)
+
+_Ruined_
 
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Морской окунь (приготовленный)](ru:%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%BA%D1%83%D0%BD%D1%8C_%28%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%29)

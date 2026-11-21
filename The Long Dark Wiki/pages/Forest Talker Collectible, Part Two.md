@@ -1,17 +1,12 @@
----
-title: "Forest Talker Collectible, Part Two"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_Two"
----
-
 # Forest Talker Collectible, Part Two
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_Two)
 
 **Forest Talker Collectible, Part Two**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Forest_Talker_Collectible%2C_Part_Two_icon.png) / *Forest\_Talker\_Collectible,\_Part\_Two\_icon.png* |
+|  | ![](../assets/Forest_Talker_Collectible%2C_Part_Two_icon.png) / _Forest\_Talker\_Collectible,\_Part\_Two\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mission%29.md) |
 | **Properties** |  |
@@ -28,11 +23,11 @@ source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_T
 
 **Forest Talker Collectible, Part Two** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Forest Talkers](./Forest%20Talkers%20%28side%20mission%29.md) side mission.
 
-During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note *Forest Talker Collectible, Part Two* from near a metal container just past the workbench on the upper floor of the barn at [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md).
+During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Forest Talker Collectible, Part Two_ from near a metal container just past the workbench on the upper floor of the barn at [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md).
 
 ## Transcript
 
-*The following text is transcribed from **Forest Talker Collectible, Part Two***
+_The following text is transcribed from **Forest Talker Collectible, Part Two**_
 
 **...people aren't ready for this kind of change. They live among nature, but not with it. Inviting the machines in, well, they'll see how that goes for them down the road. It's on the road where we'll make our stand.**
 
@@ -40,5 +35,3 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

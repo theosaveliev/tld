@@ -1,11 +1,6 @@
----
-title: "Cabin Fever"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cabin_Fever"
----
-
 # Cabin Fever
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cabin_Fever)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Cabin_Fever"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cabin_Fever_icon.png) / *Cabin\_Fever\_icon.png* |
+|  | ![](../assets/Cabin_Fever_icon.png) / _Cabin\_Fever\_icon.png_ |
 | Release | [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.338) |
 | Update | 0.338 |
 | **Properties** |  |
@@ -37,13 +32,13 @@ source: "https://thelongdark.fandom.com/wiki/Cabin_Fever"
 | **Advanced Data** |  |
 | Item Key | GAMEPLAY\_CabinFeverRisk |
 
-**Cabin Fever** is an [Affliction](./Afflictions.md) in *[The Long Dark](./The%20Long%20Dark.md)*. This Affliction only appears when playing on the [Voyageur](./Voyageur.md), [Stalker](./Stalker.md), [Interloper](./Interloper.md), [Misery](./Misery.md), or enabled on [Custom](./Custom.md) experiences in [Survival Mode](./Survival%20Mode.md), or Hardened Survivor in [Wintermute](./Wintermute.md).
+**Cabin Fever** is an [Affliction](./Afflictions.md) in _[The Long Dark](./The%20Long%20Dark.md)_. This Affliction only appears when playing on the [Voyageur](./Voyageur.md), [Stalker](./Stalker.md), [Interloper](./Interloper.md), [Misery](./Misery.md), or enabled on [Custom](./Custom.md) experiences in [Survival Mode](./Survival%20Mode.md), or Hardened Survivor in [Wintermute](./Wintermute.md).
 
 Starting a Survival Mode game with the Settled Mind [Feat](./Feats.md) selected will automatically prevent [Cabin Fever Risk](./Cabin%20Fever%20Risk.md), and Cabin Fever, from ever developing.
 
 ## Overview
 
-> “**You've been indoors so long you feel like the walls are closing in. You will be unable to sleep indoors for 24 hours.**”
+> “__You've been indoors so long you feel like the walls are closing in. You will be unable to sleep indoors for 24 hours.__”
 >
 > — In-game description
 
@@ -88,11 +83,11 @@ Some [Cooking](./Cooking.md) Recipes increases the amount of time considered as 
 
 | Item | Name |
 | --- | --- |
-| ![](../assets/Breyerhouse_Pie_icon.png) / *Breyerhouse\_Pie\_icon.png* | [Breyerhouse Pie](./Breyerhouse%20Pie.md) |
-| ![](../assets/Coastal_Fishcakes_icon.png) / *Coastal\_Fishcakes\_icon.png* | [Coastal Fishcakes](./Coastal%20Fishcakes.md) |
-| ![](../assets/Dockworker%27s_Pie_icon.png) / *Dockworker's\_Pie\_icon.png* | [Dockworker's Pie](./Dockworker%27s%20Pie.md) |
-| ![](../assets/Prepper%27s_Pie_icon.png) / *Prepper's\_Pie\_icon.png* | [Prepper's Pie](./Prepper%27s%20Pie.md) |
-| ![](../assets/Stalker%27s_Pie_icon.png) / *Stalker's\_Pie\_icon.png* | [Stalker's Pie](./Stalker%27s%20Pie.md) |
+| ![](../assets/Breyerhouse_Pie_icon.png) / _Breyerhouse\_Pie\_icon.png_ | [Breyerhouse Pie](./Breyerhouse%20Pie.md) |
+| ![](../assets/Coastal_Fishcakes_icon.png) / _Coastal\_Fishcakes\_icon.png_ | [Coastal Fishcakes](./Coastal%20Fishcakes.md) |
+| ![](../assets/Dockworker%27s_Pie_icon.png) / _Dockworker's\_Pie\_icon.png_ | [Dockworker's Pie](./Dockworker%27s%20Pie.md) |
+| ![](../assets/Prepper%27s_Pie_icon.png) / _Prepper's\_Pie\_icon.png_ | [Prepper's Pie](./Prepper%27s%20Pie.md) |
+| ![](../assets/Stalker%27s_Pie_icon.png) / _Stalker's\_Pie\_icon.png_ | [Stalker's Pie](./Stalker%27s%20Pie.md) |
 
 ## Interloper/Misery
 
@@ -129,12 +124,10 @@ The main problem of Cabin Fever when trapped indoors can lie purely in gameplay:
 
 ==References==
 
-**Lua execution error in Module:Navbox function navbox**[ru:Клаустрофобия](ru:%D0%9A%D0%BB%D0%B0%D1%83%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%BE%D0%B1%D0%B8%D1%8F)
-
 ## Notes
 
 ---
 
 1. Forum post mentioning tests performed to find exact hour count to trigger CF [https://hinterlandforums.com/forums/topic/13627-snowballs-in-hell/page/15/](https://hinterlandforums.com/forums/topic/13627-snowballs-in-hell/page/15/)[↩︎](#fnref1)
-2. *Hinterland Forums*. [HOTFIX! The Long Dark Sandbox v.326](http://hinterlandforums.com/index.php?/topic/10658-hotfix-the-long-dark-sandbox-v326/&do=findComment&comment=63876). Retrieved April 23, 2016.[↩︎](#fnref2)
-3. *The Atlantic*. [1](https://www.theatlantic.com/health/archive/2019/01/polar-vortex-stuck-indoors-let-me-out-please/581749/). Retrieved February 2, 2019.[↩︎](#fnref3)
+2. _Hinterland Forums_. [HOTFIX! The Long Dark Sandbox v.326](http://hinterlandforums.com/index.php?/topic/10658-hotfix-the-long-dark-sandbox-v326/&do=findComment&comment=63876). Retrieved April 23, 2016.[↩︎](#fnref2)
+3. _The Atlantic_. [1](https://www.theatlantic.com/health/archive/2019/01/polar-vortex-stuck-indoors-let-me-out-please/581749/). Retrieved February 2, 2019.[↩︎](#fnref3)

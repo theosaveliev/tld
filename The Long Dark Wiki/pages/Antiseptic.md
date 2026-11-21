@@ -1,11 +1,6 @@
----
-title: "Antiseptic"
-wiki_namespace: 0
-categories: ["First Aid"]
-source: "https://thelongdark.fandom.com/wiki/Antiseptic"
----
-
 # Antiseptic
+
+**Categories:** First Aid · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Antiseptic)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Antiseptic"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Antiseptic_icon.png) / *Antiseptic\_icon.png* |
+|  | ![](../assets/Antiseptic_icon.png) / _Antiseptic\_icon.png_ |
 | Release | [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.094) |
 | Wintermute | yes |
 | **Properties** |  |
@@ -35,7 +30,7 @@ source: "https://thelongdark.fandom.com/wiki/Antiseptic"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_Bandage |
 
-> “**A bottle of Hydrogen Peroxide. Useful for cleaning wounds.**”
+> “__A bottle of Hydrogen Peroxide. Useful for cleaning wounds.__”
 >
 > — In-game description
 
@@ -64,10 +59,8 @@ Antiseptic can be used to treat the following afflictions:
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Antiseptic.png) / *old model* |
+![old model](../assets/Antiseptic.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_old model_
 
 [ru:Антисептик](ru:%D0%90%D0%BD%D1%82%D0%B8%D1%81%D0%B5%D0%BF%D1%82%D0%B8%D0%BA) [fr:Antiseptique](fr:Antiseptique)

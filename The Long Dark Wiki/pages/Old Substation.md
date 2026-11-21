@@ -1,22 +1,17 @@
----
-title: "Old Substation"
-wiki_namespace: 0
-categories: ["Blackrock", "Indoor locations", "Industrial locations", "Locations", "Locations in Blackrock", "Locations with a workbench"]
-source: "https://thelongdark.fandom.com/wiki/Old_Substation"
----
-
 # Old Substation
+
+**Categories:** Blackrock, Indoor locations, Industrial locations, Locations, Locations in Blackrock, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Substation)
 
 **Old Substation**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Old_Substation.jpg) / *Old\_Substation.jpg* |
+|  | ![](../assets/Old_Substation.jpg) / _Old\_Substation.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Old_Substation_Location.png) / *Old\_Substation\_Location.png* |
+|  | ![](../assets/Old_Substation_Location.png) / _Old\_Substation\_Location.png_ |
 | Region |  |
 | Location | Close to Narrow Bridge in the southwest of the region |
 | **General** |  |
 | Type | Industrial\|- |
-| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
-| ![](../assets/Workbench_icon_green.png) / *workbench\_icon\_green.png* | Has a workbench\|- |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
+| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ | Has a workbench\|- |

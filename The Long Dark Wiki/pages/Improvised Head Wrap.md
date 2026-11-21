@@ -1,17 +1,12 @@
----
-title: "Improvised Head Wrap"
-wiki_namespace: 0
-categories: ["Clothing", "Craftable clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Improvised_Head_Wrap"
----
-
 # Improvised Head Wrap
+
+**Categories:** Clothing, Craftable clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Head_Wrap)
 
 **Improvised Head Wrap**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Improvised_Head_Wrap_icon.png) / *improvised\_Head\_Wrap\_icon.png* |
+|  | ![](../assets/Improvised_Head_Wrap_icon.png) / _improvised\_Head\_Wrap\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Head |
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Improvised_Head_Wrap"
 | Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition |
 
-> “**Almost a hat, made from scraps of cloth.**”
+> “__Almost a hat, made from scraps of cloth.__”
 >
 > — In-game description
 
@@ -33,9 +28,13 @@ The **Improvised Head Wrap** is a [craftable](./Crafting.md) [Clothing](./Clothi
 
 It's stats are mostly identical to the [Cotton Toque](./Cotton%20Toque.md), with 0.5% less protection from animal attacks and no waterproofing.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Model icon](../assets/Improvised_Head_Wrap_Model_icon.png) / *Model icon* | ![Model icon damaged](../assets/Improvised_Head_Wrap_Model_Damaged_icon.png) / *Model icon damaged* |
+![Model icon](../assets/Improvised_Head_Wrap_Model_icon.png)
+
+_Model icon_
+
+![Model icon damaged](../assets/Improvised_Head_Wrap_Model_Damaged_icon.png)
+
+_Model icon damaged_
 
 ## Crafting
 
@@ -61,5 +60,3 @@ It's stats are mostly identical to the [Cotton Toque](./Cotton%20Toque.md), with
 
 - UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Самодельный головной платок](ru:%D0%A1%D0%B0%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9_%D0%BF%D0%BB%D0%B0%D1%82%D0%BE%D0%BA)

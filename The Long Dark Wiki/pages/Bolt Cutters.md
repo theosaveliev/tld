@@ -1,11 +1,6 @@
----
-title: "Bolt Cutters"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Bolt_Cutters"
----
-
 # Bolt Cutters
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bolt_Cutters)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Bolt_Cutters"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bolt_Cutters_icon.png) / *Bolt\_Cutters\_icon.png* |
+|  | ![](../assets/Bolt_Cutters_icon.png) / _Bolt\_Cutters\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md)\|- |
@@ -60,9 +55,13 @@ Location: head to the [Headframe Building](./Headframe%20Building.md) to open a 
 
 This Tool was first introduced in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) to cut open the gate to the [Hunting Lodge](./Hunting%20Lodge.md) in [Broken Railroad](./Broken%20Railroad.md) in the mission You Fix My Rifle?, but have been removed since the Redux version was released.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| \[Missing image: Bolt\_cutters.png\] / *Predux model* | ![The Bolt Cutters in Episode 2 with the old Milling Machine](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) / *The Bolt Cutters in Episode 2 with the old Milling Machine* |
+\[Missing image: Bolt\_cutters.png\]
+
+_Predux model_
+
+![The Bolt Cutters in Episode 2 with the old Milling Machine](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png)
+
+_The Bolt Cutters in Episode 2 with the old Milling Machine_
 
 ## Update history
 
@@ -78,7 +77,5 @@ This Tool was first introduced in [Episode 2: Luminance Fugue](./Episode%202%20-
   - Added to Survival Mode as part of Buried Echoes.
 - UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**
   - Added to Episode 5.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Болторез](ru:%D0%91%D0%BE%D0%BB%D1%82%D0%BE%D1%80%D0%B5%D0%B7)

@@ -1,11 +1,6 @@
----
-title: "Cardboard Matches"
-wiki_namespace: 0
-categories: ["Fire Starting"]
-source: "https://thelongdark.fandom.com/wiki/Cardboard_Matches"
----
-
 # Cardboard Matches
+
+**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cardboard_Matches)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Cardboard_Matches"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cardboard_Matches_icon.png) / *Cardboard\_Matches\_icon.png* |
+|  | ![](../assets/Cardboard_Matches_icon.png) / _Cardboard\_Matches\_icon.png_ |
 | **General** |  |
 | Item Type | Fire Starting\|- |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
@@ -28,11 +23,11 @@ source: "https://thelongdark.fandom.com/wiki/Cardboard_Matches"
 | Bonus chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+0% |
 | Unit count | ![unit\_count\_icon.png](../assets/Unit_count_icon.png)20match |
 
-> “**Cardboard strike-anywhere matches.**”
+> “__Cardboard strike-anywhere matches.__”
 >
 > — In-game description
 
-**Cardboard Matches** are [Fire Starting](./Fire%20Starting.md) Tools and a small light source in *The Long Dark*.
+**Cardboard Matches** are [Fire Starting](./Fire%20Starting.md) Tools and a small light source in _The Long Dark_.
 
 ## Overview
 
@@ -52,16 +47,14 @@ Pressing H with a lit match will cause the survivor to flick the match into the 
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Cardboard_Matches.png) / *old model* |
+![old model](../assets/Cardboard_Matches.png)
+
+_old model_
 
 ## Trivia
 
-- Cardboard Matches are branded with the logo of "*Trusty Matches"*, the manufacturer of Wood Matches.
+- Cardboard Matches are branded with the logo of "_Trusty Matches"_, the manufacturer of Wood Matches.
 - Selecting Cardboard Matches will always use the Wood Matches model in the first person hand model.
 - Despite being contained inside a cardboard box, no tinder is given or harvestable when wooden matches are used up unlike cardboard boxes present across [Great Bear Island](./Great%20Bear%20Island.md).
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Картонные спички](ru:%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%87%D0%BA%D0%B8)

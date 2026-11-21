@@ -1,11 +1,6 @@
----
-title: "Brand"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Brand"
----
-
 # Brand
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Brand)
 
 **Contents**
 
@@ -22,7 +17,7 @@ source: "https://thelongdark.fandom.com/wiki/Brand"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Brand_icon.png) / *Brand\_icon.png* |
+|  | ![](../assets/Brand_icon.png) / _Brand\_icon.png_ |
 | Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321) |
 | Wintermute | No |
 | **Properties** |  |
@@ -32,7 +27,7 @@ source: "https://thelongdark.fandom.com/wiki/Brand"
 | **Values** |  |
 | Weight | 0.30 kg (0.66 lbs) |
 
-A **Brand** was a [Tool](./Tools.md) introduced in the [Tireless Menace](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321_%28Tireless_Menace_Update%29) update in [Survival Mode](./Survival%20Mode.md) during the Alpha builds of *[The Long Dark](./The%20Long%20Dark.md)* and was eventually cut in the Faithful Cartographer update. It is currently considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md), but can still be experienced by using the [Time Capsule](./Time%20Capsule.md).
+A **Brand** was a [Tool](./Tools.md) introduced in the [Tireless Menace](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321_%28Tireless_Menace_Update%29) update in [Survival Mode](./Survival%20Mode.md) during the Alpha builds of _[The Long Dark](./The%20Long%20Dark.md)_ and was eventually cut in the Faithful Cartographer update. It is currently considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md), but can still be experienced by using the [Time Capsule](./Time%20Capsule.md).
 
 The mechanic of taking [Torches](./Torch.md) from active fireboxes was used before the introduction of Brands, but due to the similarities between the Brand and the Torch, the Brand was cut and its role in the game was entirely replaced by the Torch.
 
@@ -88,9 +83,9 @@ The brand has been specifically targeted by the developers to be very hard to ke
 - LMB will immediately drop a Brand that is carried in-hand.
 - It is impossible to get rid of an extinguished Brand once it has been dropped on the ground. It can only be relocated in the world using RMB.
 
-| Column 1 |
-| --- |
-| ![Item when picked up](../assets/Brand_description.png) / *Item when picked up* |
+![Item when picked up](../assets/Brand_description.png)
+
+_Item when picked up_
 
 ## Update history
 
@@ -98,5 +93,3 @@ The brand has been specifically targeted by the developers to be very hard to ke
   - Removed from the game and replaced entirely by the [Torch](./Torch.md).
 - UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

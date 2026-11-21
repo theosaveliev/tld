@@ -1,20 +1,15 @@
----
-title: "The Long Winter"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/The_Long_Winter"
----
-
 # The Long Winter
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Long_Winter)
 
 **The Long Winter**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Long_Winter_icon.png) / *The\_Long\_Winter\_icon.png* |
+|  | ![](../assets/The_Long_Winter_icon.png) / _The\_Long\_Winter\_icon.png_ |
 | Description | Prepare Grey Mother for Winter. |
 
-**The Long Winter** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**The Long Winter** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -26,5 +21,3 @@ This is an unmissable story achievement achieved after completing the mission [T
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

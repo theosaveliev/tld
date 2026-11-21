@@ -1,17 +1,12 @@
----
-title: "Forest Talker Collectible, Part One"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_One"
----
-
 # Forest Talker Collectible, Part One
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_One)
 
 **Forest Talker Collectible, Part One**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Forest_Talker_Collectible%2C_Part_One_icon.png) / *Forest\_Talker\_Collectible,\_Part\_One\_icon.png* |
+|  | ![](../assets/Forest_Talker_Collectible%2C_Part_One_icon.png) / _Forest\_Talker\_Collectible,\_Part\_One\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mission%29.md) |
 | **Properties** |  |
@@ -28,11 +23,11 @@ source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_O
 
 **Forest Talker Collectible, Part One** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Forest Talkers](./Forest%20Talkers%20%28side%20mission%29.md) side mission.
 
-During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note *Forest Talker Collectible, Part One* from inside an air vent in one of [Joplin's caches](./Joplin%27s%20Bunker%20Raid.md).
+During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Forest Talker Collectible, Part One_ from inside an air vent in one of [Joplin's caches](./Joplin%27s%20Bunker%20Raid.md).
 
 ## Transcript
 
-*The following text is transcribed from **Forest Talker Collectible, Part One***
+_The following text is transcribed from **Forest Talker Collectible, Part One**_
 
 **...pristine wilderness, with barely a hint of humanity to spoil it. If we can bring our message here, and succeed, it will show the rest of Great Bear what is possible. Pleasant Valley is where we make our stand.**
 
@@ -40,5 +35,3 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

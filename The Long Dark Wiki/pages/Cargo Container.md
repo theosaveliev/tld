@@ -1,17 +1,12 @@
----
-title: "Cargo Container"
-wiki_namespace: 0
-categories: ["Interactable objects", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Cargo_Container"
----
-
 # Cargo Container
+
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cargo_Container)
 
 **Cargo Container**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cargo_container_new.jpg) / *Cargo\_container\_new.jpg* |
+|  | ![](../assets/Cargo_container_new.jpg) / _Cargo\_container\_new.jpg_ |
 | Release | Dec 2015 |
 | Update | [0.298](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298) |
 | **Container** |  |
@@ -33,7 +28,7 @@ Cargo Containers are loot-filled blue-green shipping devices scattered across Ti
 
 ![The containers were gray Until the 1.00 update](../assets/Cargo_container.jpg)
 
-*The containers were gray Until the 1.00 update*
+_The containers were gray Until the 1.00 update_
 
 ## Locations
 
@@ -46,5 +41,3 @@ Cargo containers can be found at the following locations in Timberwolf Mountain:
 5. [Deer Clearing](./Deer%20Clearing.md)
 6. [Eric's Falls](./Eric%27s%20Falls.md) (not on Interloper)
 7. [Tail Section](./Tail%20Section.md) on [Summit](./Summit.md)
-
-**Lua execution error in Module:Navbox function navbox** [ru:Грузовой контейнер](ru:%D0%93%D1%80%D1%83%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80)

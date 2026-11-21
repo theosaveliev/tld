@@ -1,11 +1,6 @@
----
-title: "Cured Leather"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cured_Leather"
----
-
 # Cured Leather
+
+**Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cured_Leather)
 
 **Contents**
 
@@ -22,7 +17,7 @@ source: "https://thelongdark.fandom.com/wiki/Cured_Leather"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cured_Leather_icon.png) / *Cured\_Leather\_icon.png* |
+|  | ![](../assets/Cured_Leather_icon.png) / _Cured\_Leather\_icon.png_ |
 | Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233) |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
@@ -33,7 +28,7 @@ source: "https://thelongdark.fandom.com/wiki/Cured_Leather"
 | **Values** |  |
 | Weight | 0.10 kg (0.22 lbs) |
 
-**Cured Leather** is a material in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Cured Leather** is a material in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -69,17 +64,19 @@ Cured Leather is harvested from and used to repair:
 
 ## Trivia
 
-- In early builds of *The Long Dark* (alpha), Deer Hides provided "[Fresh Leather](./Fresh%20Leather.md)" when harvested; this item could be converted into "Cured Leather" by curing it, and then used for repairing clothing. Cured Leather is still present in *The Long Dark*, but is only obtainable by Harvesting leather footwear, gloves, the Moose-Hide Satchel, and [Beachcombing](./Beachcombing.md).
+- In early builds of _The Long Dark_ (alpha), Deer Hides provided "[Fresh Leather](./Fresh%20Leather.md)" when harvested; this item could be converted into "Cured Leather" by curing it, and then used for repairing clothing. Cured Leather is still present in _The Long Dark_, but is only obtainable by Harvesting leather footwear, gloves, the Moose-Hide Satchel, and [Beachcombing](./Beachcombing.md).
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Old model.](../assets/Cured_leather.png) / *Old model.* | ![ditto, with old Scrap Metal model](../assets/Materials.png) / *ditto, with old Scrap Metal model* |
+![Old model.](../assets/Cured_leather.png)
+
+_Old model._
+
+![ditto, with old Scrap Metal model](../assets/Materials.png)
+
+_ditto, with old Scrap Metal model_
 
 ## Update history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Высушенная кожа](ru:%D0%92%D1%8B%D1%81%D1%83%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%B6%D0%B0)

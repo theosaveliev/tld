@@ -1,17 +1,12 @@
----
-title: "Jeremiah's Broken Rifle"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Broken_Rifle"
----
-
 # Jeremiah's Broken Rifle
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Broken_Rifle)
 
 **Jeremiah's Broken Rifle**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Jeremiah%27s_Broken_Rifle_icon.png) / *Jeremiah's\_Broken\_Rifle\_icon.png* |
+|  | ![](../assets/Jeremiah%27s_Broken_Rifle_icon.png) / _Jeremiah's\_Broken\_Rifle\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - You Fix My Rifle? |
 | **Properties** |  |
@@ -24,8 +19,8 @@ source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Broken_Rifle"
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 
-> “**Jeremiah: "Ah shit... What I was afraid of. That shot you took hurt the rifle more than the [bear](./Old%20Bear.md). My rifle's done."  
- Mackenzie: "Shit...sorry. You have a...backup?"**”
+> “__Jeremiah: "Ah shit... What I was afraid of. That shot you took hurt the rifle more than the [bear](./Old%20Bear.md). My rifle's done."  
+ Mackenzie: "Shit...sorry. You have a...backup?"__”
 >
 > — Jeremiah: "No. No backup. But I know where you might be able to fix it." [Jeremiah](./Jeremiah.md) and [Mackenzie](./Will%20Mackenzie.md)
 
@@ -43,5 +38,3 @@ It has no weight, despite being a Hunting Rifle.
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from the game as part of the Redux edition.
-
-**Lua execution error in Module:Navbox function navbox**

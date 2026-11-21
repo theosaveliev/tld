@@ -1,11 +1,6 @@
----
-title: "Broken Railroad"
-wiki_namespace: 0
-categories: ["Regions"]
-source: "https://thelongdark.fandom.com/wiki/Broken_Railroad"
----
-
 # Broken Railroad
+
+**Categories:** Regions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Broken_Railroad)
 
 **Contents**
 
@@ -20,10 +15,10 @@ source: "https://thelongdark.fandom.com/wiki/Broken_Railroad"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Broken_railway_titlecard_small.png) / *Broken\_railway\_titlecard\_small.png* |
+|  | ![](../assets/Broken_railway_titlecard_small.png) / _Broken\_railway\_titlecard\_small.png_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Broken_Railroad_Location.png) / *Broken\_Railroad\_Location.png* |
-|  | ![](../assets/Broken_Railroad_region_map.png) / *Broken\_Railroad\_region\_map.png* |
+|  | ![](../assets/Broken_Railroad_Location.png) / _Broken\_Railroad\_Location.png_ |
+|  | ![](../assets/Broken_Railroad_region_map.png) / _Broken\_Railroad\_region\_map.png_ |
 | **Details** |  |
 | Description | An old [Breyerhouse](./Breyerhouse.md) maintenance yard with the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md) running through the mountain. |
 | Connecting Regions | [Forlorn Muskeg](./Forlorn%20Muskeg.md) [Transfer Pass](./Transfer%20Pass.md) (through [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)) |
@@ -33,11 +28,11 @@ source: "https://thelongdark.fandom.com/wiki/Broken_Railroad"
 | Hazards and Survivability | Although the weather is fairly mild, many predators roam the region. |
 | Date Added | Aug 2017 |
 
-> “**For intermediate players. Previous seismic activity means this section of the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md) is dramatically interrupted. Be careful you don't become lost in its many twisting routes. Connects to Forlorn Muskeg and the Far Territory.**”
+> “__For intermediate players. Previous seismic activity means this section of the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md) is dramatically interrupted. Be careful you don't become lost in its many twisting routes. Connects to Forlorn Muskeg and the Far Territory.__”
 >
 > — - In game description
 
-**Broken Railroad** is the 7th [region](./Region.md) to be added to *The Long Dark*. It is one of 3 regions visited during the course of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
+**Broken Railroad** is the 7th [region](./Region.md) to be added to _The Long Dark_. It is one of 3 regions visited during the course of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
 ## Overview
 
@@ -74,17 +69,38 @@ Broken Railroad is a relatively small map, but does feature a number of key loca
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Previously inaccessible, Rickety Bridge](../assets/Broken_railroad_hidden_bridge.jpg) / *Previously inaccessible, Rickety Bridge* | ![](../assets/Broken_railroad_titlecard_new.png) / *Broken\_railroad\_titlecard\_new.png* | ![The sun rises over the Maintenance Yard.](../assets/SunriseOverMaintenanceShed.png) / *The sun rises over the Maintenance Yard.* | ![The Aurora Borealis over the Hunting Lodge.](../assets/AuroraOverTheHuntingLodge.png) / *The Aurora Borealis over the Hunting Lodge.* |
-| ![](../assets/Hunting_lodge.jpg) / *Hunting\_lodge.jpg* |  |  |  |
+![Previously inaccessible, Rickety Bridge](../assets/Broken_railroad_hidden_bridge.jpg)
+
+_Previously inaccessible, Rickety Bridge_
+
+![](../assets/Broken_railroad_titlecard_new.png)
+
+_Broken\_railroad\_titlecard\_new.png_
+
+![The sun rises over the Maintenance Yard.](../assets/SunriseOverMaintenanceShed.png)
+
+_The sun rises over the Maintenance Yard._
+
+![The Aurora Borealis over the Hunting Lodge.](../assets/AuroraOverTheHuntingLodge.png)
+
+_The Aurora Borealis over the Hunting Lodge._
+
+![](../assets/Hunting_lodge.jpg)
+
+_Hunting\_lodge.jpg_
 
 ## Maps
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Broken Railroad map v2.35](../assets/3255435617_preview_BRR_default.jpg) / *Broken Railroad map v2.35* | ![Broken Railroad map v2.35 (Interloper-Misery)](../assets/BRR_loper.jpg) / *Broken Railroad map v2.35 (Interloper-Misery)* | ![Broken Railroad map v1.83](../assets/Broken_Railroad_map.png) / *Broken Railroad map v1.83* |
+![Broken Railroad map v2.35](../assets/3255435617_preview_BRR_default.jpg)
 
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**
+_Broken Railroad map v2.35_
+
+![Broken Railroad map v2.35 (Interloper-Misery)](../assets/BRR_loper.jpg)
+
+_Broken Railroad map v2.35 (Interloper-Misery)_
+
+![Broken Railroad map v1.83](../assets/Broken_Railroad_map.png)
+
+_Broken Railroad map v1.83_
 
 [es:vía destrozada](es:v%C3%ADa_destrozada) [fr:Voie Ferrée Détruite](fr:Voie_Ferr%C3%A9e_D%C3%A9truite) [ru:Разбитая железная дорога](ru:%D0%A0%D0%B0%D0%B7%D0%B1%D0%B8%D1%82%D0%B0%D1%8F_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0)

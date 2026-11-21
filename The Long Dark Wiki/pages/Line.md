@@ -1,11 +1,6 @@
----
-title: "Line"
-wiki_namespace: 0
-categories: ["Craftable tools", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Line"
----
-
 # Line
+
+**Categories:** Craftable tools, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Line)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Line"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Line_icon.png) / *Line\_icon.png* |
+|  | ![](../assets/Line_icon.png) / _Line\_icon.png_ |
 | Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -53,12 +48,10 @@ A **Line** is a tool that is required for building a [Fishing Tackle](./Fishing%
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Line.png) / *Old model.* |
+![Old model.](../assets/Line.png)
+
+_Old model._
 
 ## Update history
 
 **Template:update history**
-
-**Lua execution error in Module:Navbox function navbox** [ru:Леска](ru:%D0%9B%D0%B5%D1%81%D0%BA%D0%B0)

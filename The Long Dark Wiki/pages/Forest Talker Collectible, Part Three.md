@@ -1,17 +1,12 @@
----
-title: "Forest Talker Collectible, Part Three"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_Three"
----
-
 # Forest Talker Collectible, Part Three
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_Three)
 
 **Forest Talker Collectible, Part Three**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Forest_Talker_Collectible%2C_Part_Three_icon.png) / *Forest\_Talker\_Collectible,\_Part\_Three\_icon.png* |
+|  | ![](../assets/Forest_Talker_Collectible%2C_Part_Three_icon.png) / _Forest\_Talker\_Collectible,\_Part\_Three\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mission%29.md) |
 | **Properties** |  |
@@ -28,11 +23,11 @@ source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_T
 
 **Forest Talker Collectible, Part Three** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Forest Talkers](./Forest%20Talkers%20%28side%20mission%29.md) side mission.
 
-During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note *Forest Talker Collectible, Part Three* from in a barn with a deer carcass at the [Three Strikes Farmstead](./Three%20Strikes%20Farmstead.md).
+During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Forest Talker Collectible, Part Three_ from in a barn with a deer carcass at the [Three Strikes Farmstead](./Three%20Strikes%20Farmstead.md).
 
 ## Transcript
 
-*The following text is transcribed from **Forest Talker Collectible, Part Three***
+_The following text is transcribed from **Forest Talker Collectible, Part Three**_
 
 **...as the years fall away in front of us, so fall the boulders from the hills. All this will look like a victory for Great Bear. Even as Mother Nature recovers Pleasant Valley, whoever remains will be forced to adapt, die, or move on.**
 
@@ -40,5 +35,3 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

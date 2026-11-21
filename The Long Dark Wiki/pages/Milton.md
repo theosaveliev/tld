@@ -1,11 +1,6 @@
----
-title: "Milton"
-wiki_namespace: 0
-categories: ["Indoor locations", "Locations", "Locations in Mountain Town", "Residential locations", "Settlements"]
-source: "https://thelongdark.fandom.com/wiki/Milton"
----
-
 # Milton
+
+**Categories:** Indoor locations, Locations, Locations in Mountain Town, Residential locations, Settlements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton)
 
 **Contents**
 
@@ -21,24 +16,24 @@ source: "https://thelongdark.fandom.com/wiki/Milton"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Milton.jpg) / *Milton.jpg* |
+|  | ![](../assets/Milton.jpg) / _Milton.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Milton_Location.png) / *Milton\_Location.png* |
+|  | ![](../assets/Milton_Location.png) / _Milton\_Location.png_ |
 | Region | [Mountain Town](./Mountain%20Town.md)\|- |
 | Description | A small town nestled in the mountains |
 | **General** |  |
 | Type | Residential\|- |
-| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
 |  | Has an interior\|- |
 | Characters | [Grey Mother](./Grey%20Mother.md) |
 
-*For the region in which **Milton** is set, see [Mountain Town](./Mountain%20Town.md).*
+_For the region in which **Milton** is set, see [Mountain Town](./Mountain%20Town.md)._
 
-> “**The end of Milton's story is a sad one. Too many people lost, after already too much suffering.**”
+> “__The end of Milton's story is a sad one. Too many people lost, after already too much suffering.__”
 >
 > — -Methuselah
 
-**The Town of Milton**is a major location in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of *The Long Dark's*Story Mode. It is a small, largely abandoned town nestled in the mountains of [Great Bear Island](./Great%20Bear%20Island.md). The location name of the game map is "Town of Milton."
+**The Town of Milton**is a major location in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _The Long Dark's_Story Mode. It is a small, largely abandoned town nestled in the mountains of [Great Bear Island](./Great%20Bear%20Island.md). The location name of the game map is "Town of Milton."
 
 ## History
 
@@ -94,30 +89,47 @@ In addition to several houses within the town, the Mountain Town region contains
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Aerial view of Milton (Redux)](../assets/TLD-SS-Milton_%282%29.jpg) / *Aerial view of Milton (Redux)* | ![Aerial view of Milton (Before the Redux update)](../assets/Milton_-_aerial_view.jpg) / *Aerial view of Milton (Before the Redux update)* | ![Milton Credit Union and Water Tower](../assets/TLD-SS-Milton_%283%29.jpg) / *Milton Credit Union and Water Tower* | ![Milton Post Office and Radio Tower](../assets/TLD-SS-Milton-PO-ex.jpg) / *Milton Post Office and Radio Tower* |
-| ![Milton at dusk](../assets/Town_of_milton.jpg) / *Milton at dusk* | ![The welcoming sign near the bridge entrance to town](../assets/Milton_sign.jpg) / *The welcoming sign near the bridge entrance to town* |  |  |
+![Aerial view of Milton (Redux)](../assets/TLD-SS-Milton_%282%29.jpg)
+
+_Aerial view of Milton (Redux)_
+
+![Aerial view of Milton (Before the Redux update)](../assets/Milton_-_aerial_view.jpg)
+
+_Aerial view of Milton (Before the Redux update)_
+
+![Milton Credit Union and Water Tower](../assets/TLD-SS-Milton_%283%29.jpg)
+
+_Milton Credit Union and Water Tower_
+
+![Milton Post Office and Radio Tower](../assets/TLD-SS-Milton-PO-ex.jpg)
+
+_Milton Post Office and Radio Tower_
+
+![Milton at dusk](../assets/Town_of_milton.jpg)
+
+_Milton at dusk_
+
+![The welcoming sign near the bridge entrance to town](../assets/Milton_sign.jpg)
+
+_The welcoming sign near the bridge entrance to town_
 
 ## References
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Город Милтон](ru:%D0%93%D0%BE%D1%80%D0%BE%D0%B4_%D0%9C%D0%B8%D0%BB%D1%82%D0%BE%D0%BD) [es:Milton](es:Milton)
 
 ## Notes
 
 ---
 
-1. [Story mode](./Wintermute.md) journal entry: What I know: Places: *Town of Milton*[↩︎](#fnref1)
+1. [Story mode](./Wintermute.md) journal entry: What I know: Places: _Town of Milton_[↩︎](#fnref1)
 2. 
 3. 
-4. *Pastor's Note* collectible[↩︎](#fnref4)
-5. *Park Warning Notice* collectible[↩︎](#fnref5)
-6. [Grey Mother](./Grey%20Mother.md) *Cache location* side-mission[↩︎](#fnref6)
-7. *Milton Post Office Collectible*[↩︎](#fnref7)
+4. _Pastor's Note_ collectible[↩︎](#fnref4)
+5. _Park Warning Notice_ collectible[↩︎](#fnref5)
+6. [Grey Mother](./Grey%20Mother.md) _Cache location_ side-mission[↩︎](#fnref6)
+7. _Milton Post Office Collectible_[↩︎](#fnref7)
 8. 
-9. *Lost in the Storm* collectible[↩︎](#fnref9)
-10. *Neighbour's Note* collectible[↩︎](#fnref10)
+9. _Lost in the Storm_ collectible[↩︎](#fnref9)
+10. _Neighbour's Note_ collectible[↩︎](#fnref10)
 11. 
 12. 
-13. *Tearful Letter* collectible[↩︎](#fnref13)
+13. _Tearful Letter_ collectible[↩︎](#fnref13)
 14. Owned a [Distress Pistol](./Distress%20Pistol.md) as part of the cut [Light Up The Night](./Light%20Up%20The%20Night.md) side mission and in the Orca Gas Station Buffer Memory[↩︎](#fnref14)

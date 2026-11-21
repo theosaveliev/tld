@@ -1,20 +1,15 @@
----
-title: "Rockfall"
-wiki_namespace: 0
-categories: ["Landmarks", "Locations", "Locations in Coastal Highway", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Rockfall"
----
-
 # Rockfall
+
+**Categories:** Landmarks, Locations, Locations in Coastal Highway, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rockfall)
 
 **Rockfall**
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| Column 1 \| / \| --- \| / \| ![](../assets/Rockfall.jpg) / *Rockfall.jpg* \| | 250px\]\] |
-|  | ![](../assets/Rockfall.jpg) / *Rockfall.jpg* |
+| \[\[File: / ![](../assets/Rockfall.jpg) / _Rockfall.jpg_ | 250px\]\] |
+|  | ![](../assets/Rockfall.jpg) / _Rockfall.jpg_ |
 | **Location** |  |
-| ![](../assets/Rockfall_map.png) / *Rockfall\_map.png* |  |
+| ![](../assets/Rockfall_map.png) / _Rockfall\_map.png_ |  |
 | Region | [Coastal Highway](./Coastal%20Highway.md)\|- / Description |
 | **General** |  |
 | Type | Landmark\|- |

@@ -1,17 +1,12 @@
----
-title: "Milton Credit Union Letter"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Milton_Credit_Union_Letter"
----
-
 # Milton Credit Union Letter
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_Credit_Union_Letter)
 
 **Milton Credit Union Letter**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Milton_Credit_Union_Letter_icon.png) / *Milton\_Credit\_Union\_Letter\_icon.png* |
+|  | ![](../assets/Milton_Credit_Union_Letter_icon.png) / _Milton\_Credit\_Union\_Letter\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Properties** |  |
@@ -32,7 +27,7 @@ Currently, the collectible serves no additional purpose during [Episode 1](./Epi
 
 ## Transcript
 
-*The following text is transcribed from **Milton Credit Union Letter***
+_The following text is transcribed from **Milton Credit Union Letter**_
 
 **September, 2012
 
@@ -46,5 +41,3 @@ Due to global economic realities that are well known to you, we are unfortunatel
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

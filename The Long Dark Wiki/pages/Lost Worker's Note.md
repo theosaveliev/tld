@@ -1,17 +1,12 @@
----
-title: "Lost Worker's Note"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Lost_Worker's_Note"
----
-
 # Lost Worker's Note
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lost_Worker's_Note)
 
 **Lost Worker's Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Lost_Worker%27s_Note_icon.png) / *Lost\_Worker's\_Note\_icon.png* |
+|  | ![](../assets/Lost_Worker%27s_Note_icon.png) / _Lost\_Worker's\_Note\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Lost Power Workers](./Lost%20Power%20Workers.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Lost_Worker's_Note"
 
 ## Transcript
 
-*The following text is transcribed from **Lost Worker's Note***
+_The following text is transcribed from **Lost Worker's Note**_
 
 **\[a page of a journal, torn out\]
 
@@ -44,5 +39,3 @@ I just can't remember anymore...**
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

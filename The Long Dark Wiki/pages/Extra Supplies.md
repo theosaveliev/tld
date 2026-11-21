@@ -1,11 +1,6 @@
----
-title: "Extra Supplies"
-wiki_namespace: 0
-categories: ["Episode 1", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Extra_Supplies"
----
-
 # Extra Supplies
+
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Extra_Supplies)
 
 **Contents**
 
@@ -21,18 +16,18 @@ source: "https://thelongdark.fandom.com/wiki/Extra_Supplies"
 
 | Property | Details |
 | --- | --- |
-|  | ![One of the rewards for this mission is a Mackinaw Jacket](../assets/Mackinaw_Jacket_icon.png) / *One of the rewards for this mission is a [Mackinaw Jacket](./Mackinaw%20Jacket.md)* |
+|  | ![One of the rewards for this mission is a Mackinaw Jacket](../assets/Mackinaw_Jacket_icon.png) / _One of the rewards for this mission is a [Mackinaw Jacket](./Mackinaw%20Jacket.md)_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Current | Extra Supplies |
 | Region | [Mountain Town](./Mountain%20Town.md) |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
 **Extra Supplies** is a side mission started in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [story](./Wintermute.md). In the mission, the survivor gathers extra supplies for [Grey Mother](./Grey%20Mother.md) to help her survive the upcoming record low temperatures and heavy snowfall. The mission can only be completed in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), prior to the survivor [leaving Milton](./Paradise%20Lost.md).
 
 ## Official description
 
-> “**Grey Mother will need extra food and fuel if she is to survive alone for much longer.**”
+> “__Grey Mother will need extra food and fuel if she is to survive alone for much longer.__”
 
 ## Overview
 
@@ -52,7 +47,7 @@ If additional food is needed, [Deer Carcasses](./Deer%20Carcass.md) can be harve
 
 ### Fuel
 
-![The Firewood Bin located outside Grey Mother's House where fuel can be deposited to complete the mission](../assets/Firewood_Bin.png)*The Firewood Bin located outside Grey Mother's House where fuel can be deposited to complete the mission* Firewood can be gathered at the [Wood Lot](./Wood%20Lot.md) on either side of the town. [Coal](./Coal.md) can be found in the cave behind the [Radio Tower](./Radio%20Tower.md), as well as in front of the school house. Additionally, furniture and crates within the houses around the town of [Milton](./Milton.md) can be broken down for additional [Reclaimed Wood](./Reclaimed%20Wood.md).
+![The Firewood Bin located outside Grey Mother's House where fuel can be deposited to complete the mission](../assets/Firewood_Bin.png)_The Firewood Bin located outside Grey Mother's House where fuel can be deposited to complete the mission_ Firewood can be gathered at the [Wood Lot](./Wood%20Lot.md) on either side of the town. [Coal](./Coal.md) can be found in the cave behind the [Radio Tower](./Radio%20Tower.md), as well as in front of the school house. Additionally, furniture and crates within the houses around the town of [Milton](./Milton.md) can be broken down for additional [Reclaimed Wood](./Reclaimed%20Wood.md).
 
 ## Rewards
 
@@ -63,5 +58,3 @@ After finishing the side mission tasks, a [Mackinaw Jacket](./Mackinaw%20Jacket.
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
 
 - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

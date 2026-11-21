@@ -1,17 +1,12 @@
----
-title: "Fukkatsu Maru"
-wiki_namespace: 0
-categories: ["Locations", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Fukkatsu_Maru"
----
-
 # Fukkatsu Maru
+
+**Categories:** Locations, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fukkatsu_Maru)
 
 **Fukkatsu Maru**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fukkatsu_Maru.jpg) / *Fukkatsu\_Maru.jpg* |
+|  | ![](../assets/Fukkatsu_Maru.jpg) / _Fukkatsu\_Maru.jpg_ |
 | **Location** |  |
 | Region |  |
 | Description | An abandoned Japanese shipwreck stuck in the ice |

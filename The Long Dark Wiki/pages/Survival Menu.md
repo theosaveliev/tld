@@ -1,11 +1,6 @@
----
-title: "Survival Menu"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Survival_Menu"
----
-
 # Survival Menu
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survival_Menu)
 
 **Contents**
 
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Survival_Menu"
 
 ![The game menu icons for Survival Mode, with the Backpack screen selected.](../assets/Survival_Menu_Survival_Mode.jpg)
 
-*The game menu icons for Survival Mode, with the Backpack screen selected.*
+_The game menu icons for Survival Mode, with the Backpack screen selected._
 
-*For the HUD, see [Survival Overlay](./Survival%20Overlay.md).*
+_For the HUD, see [Survival Overlay](./Survival%20Overlay.md)._
 
-The **Survival Menu** is the primary menu within [*The Long Dark*](./The%20Long%20Dark.md) that is used to display your current condition, clothing, items, crafting, journal, and map. The menu is displayed across the entire screen, but the game does not pause while it is open.
+The **Survival Menu** is the primary menu within [_The Long Dark_](./The%20Long%20Dark.md) that is used to display your current condition, clothing, items, crafting, journal, and map. The menu is displayed across the entire screen, but the game does not pause while it is open.
 
 With standard key bindings on PC, there are several ways to open the game menu. From the [Radial Menu](./Radial%20Menu.md), clicking the central icon will take you to the Status screen. Otherwise, the default key bindings to bring up these menus are:
 
@@ -75,7 +70,7 @@ The total weight of your backpack and your [Encumbrance](./Encumbrance.md) is di
 
 ![Crafting\_Menu.png](../assets/Crafting_Menu.png) Shown as a hammer and anvil icon in the menu, the Crafting screen shows you the current blueprints you have for crafting items and allows you to craft items.
 
-*For more detailed information, see [Crafting](./Crafting.md)*
+_For more detailed information, see [Crafting](./Crafting.md)_
 
 On the left of the screen are tabs that allow you to view blueprints by category. By default it will show **All** blueprints, but they can be filtered to only show:
 
@@ -101,11 +96,11 @@ The **K** key will access this menu.
 
 ## Recipe Book
 
-![Recipe\_Book.png](../assets/Recipe_Book.png) *This menu will not appear unless the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon is purchased.*
+![Recipe\_Book.png](../assets/Recipe_Book.png) _This menu will not appear unless the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon is purchased._
 
 Shown as a cooking pot icon in the menu, the Recipe Book menu is used show the various [Cooking](./Cooking.md) Recipes that the player can use as part of the Frontier Cooking update. Because Recipes require multiple ingredients and are not simply 1 item cooking items, this menu is used to track all ingredients used to make each Recipe. Some Recipes contain a white star next to them, and will be unlocked when the player finds their specific Recipe when searching the island. Recipes cannot be created by hand from this menu like Crafting, and instead require an active [Fire](./Fire.md) source.
 
-*For more detailed information, see [Cooking](./Cooking.md#Frontier_Cooking_Recipes)*
+_For more detailed information, see [Cooking](./Cooking.md#Frontier_Cooking_Recipes)_
 
 There are currently 3 submenus to choose from on the left side of the screen:
 
@@ -119,7 +114,7 @@ Items can be sorted alphabetically, by preparation times, or by calorie amounts 
 
 ## Tales Objectives
 
-![Tales\_Objectives.jpg](../assets/Tales_Objectives.jpg) *This menu will not appear unless the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon is purchased and at least 1 Tale is activated*
+![Tales\_Objectives.jpg](../assets/Tales_Objectives.jpg) _This menu will not appear unless the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon is purchased and at least 1 Tale is activated_
 
 Shown as a flag icon, this menu is used to track the objectives required to complete the 3 [Tales](./Tales.md). It functions similarly to the Missions menu in Wintermute, and can select each individual Tale once it is unlocked.
 
@@ -131,7 +126,7 @@ There J is the hotkey to access this menu.
 
 ### Survival Mode
 
-*For more detailed information, see [Journal](./Journal.md)*
+_For more detailed information, see [Journal](./Journal.md)_
 
 In Survival Mode, the Journal is contains six submenus: Log, Skills, Collections, Rock Caches, General Notes, and Stats
 
@@ -169,20 +164,26 @@ In Survival Mode, players must draw the map themselves using [Charcoal](./Charco
 
 ## Missions
 
-![Missions\_Menu.jpg](../assets/Missions_Menu.jpg) *This menu only appears in Wintermute*
+![Missions\_Menu.jpg](../assets/Missions_Menu.jpg) _This menu only appears in Wintermute_
 
 Represented by a shield icon, the Missions menu records all information relevant to your objectives while in Wintermute. It functions similarly to the Tales menu, but with 3 submenus: Main for main missions, Side for side missions, and Completed for all completed missions.
 
 ## Trust
 
-![The Survival Menu icons for Wintermute.](../assets/Survival_Menu_Wintermute.jpg)*The Survival Menu icons for Wintermute.* ![GreyMotherTrustOutdated.jpg](../assets/GreyMotherTrustOutdated.jpg) The original release of Wintermute's Episode 1 and 2 featured a menu for Trust in the Journal menu.
+![The Survival Menu icons for Wintermute.](../assets/Survival_Menu_Wintermute.jpg)_The Survival Menu icons for Wintermute._ ![GreyMotherTrustOutdated.jpg](../assets/GreyMotherTrustOutdated.jpg) The original release of Wintermute's Episode 1 and 2 featured a menu for Trust in the Journal menu.
 
 Trust would have shown you the character who you are currently attempting to gain the trust of ([Grey Mother](./Grey%20Mother.md) or [Jeremiah](./Jeremiah.md)), and had two separate sections 'Description' and 'Trust' which respectively displayed the current needs and Trust rewards of the character in question. Maxing out Trust with a character would lead to more world building information and possible side missions. To date, this is [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md).
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![The old Survival Menu for Survival Mode](../assets/Game_menu.jpg) / *The old Survival Menu for Survival Mode* | ![The old menu for the Status Menu](../assets/Survival_page.jpg) / *The old menu for the Status Menu* | ![Old UI.](../assets/Survival_page.png) / *Old UI.* |
+![The old Survival Menu for Survival Mode](../assets/Game_menu.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_The old Survival Menu for Survival Mode_
+
+![The old menu for the Status Menu](../assets/Survival_page.jpg)
+
+_The old menu for the Status Menu_
+
+![Old UI.](../assets/Survival_page.png)
+
+_Old UI._

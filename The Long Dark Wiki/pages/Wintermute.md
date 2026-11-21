@@ -1,11 +1,6 @@
----
-title: "Wintermute"
-wiki_namespace: 0
-categories: ["The Long Dark", "Wintermute"]
-source: "https://thelongdark.fandom.com/wiki/Wintermute"
----
-
 # Wintermute
+
+**Categories:** The Long Dark, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wintermute)
 
 **Contents**
 
@@ -25,9 +20,9 @@ source: "https://thelongdark.fandom.com/wiki/Wintermute"
 - [Videos](#videos)
 - [References](#references)
 
-![Official release poster for Season 1: Wintermute](../assets/The_long_dark_poster2.jpg)*Official release poster for Season 1: Wintermute* ***Wintermute*** is the story mode edition of *[The Long Dark](./The%20Long%20Dark.md)* and is [downloadable content](./The%20Long%20Dark.md#Downloadable_Addon_Content)*.* Originally launching on August 1, 2017 with 2 episodes, the story contains 5 episodes that concluded on March 31, 2026. The game mode was originally a part of the core game, but has since become Downloadable Content (but is free to players that owned *The Long Dark* before 2022).
+![Official release poster for Season 1: Wintermute](../assets/The_long_dark_poster2.jpg)_Official release poster for Season 1: Wintermute_ **_Wintermute_** is the story mode edition of _[The Long Dark](./The%20Long%20Dark.md)_ and is [downloadable content](./The%20Long%20Dark.md#Downloadable_Addon_Content)_._ Originally launching on August 1, 2017 with 2 episodes, the story contains 5 episodes that concluded on March 31, 2026. The game mode was originally a part of the core game, but has since become Downloadable Content (but is free to players that owned _The Long Dark_ before 2022).
 
-Unlike [Survival Mode](./Survival%20Mode.md), Wintermute is primarily targeted towards players who want to experience a more campaign-like experience; focusing on the worldbuilding and lore of [Great Bear Island](./Great%20Bear%20Island.md) and *The Long Dark's* universe outside of the Island.
+Unlike [Survival Mode](./Survival%20Mode.md), Wintermute is primarily targeted towards players who want to experience a more campaign-like experience; focusing on the worldbuilding and lore of [Great Bear Island](./Great%20Bear%20Island.md) and _The Long Dark's_ universe outside of the Island.
 
 ## Premise
 
@@ -35,7 +30,7 @@ Wintermute centers around the relationship between [Dr. Astrid Greenwood](./Astr
 
 ## Episodic structure
 
-*The Long Dark's* episodic structure borrows from TV to deliver a well-paced narrative experience that is advanced by player action in the world. Similar to open-world games like *Red Dead Redemption* and *Fallout 3*, *The Long Dark* offers both a large open-world simulation space that encourages free-form gameplay and a story-driven mission structure that draws players deeper into the fiction of the game world. This structure means that, whether you have 20 minutes or 2 hours to play, you can jump in and make meaningful progress towards an in-game goal. Each episode takes an average of 3-5 hours to complete.
+_The Long Dark's_ episodic structure borrows from TV to deliver a well-paced narrative experience that is advanced by player action in the world. Similar to open-world games like _Red Dead Redemption_ and _Fallout 3_, _The Long Dark_ offers both a large open-world simulation space that encourages free-form gameplay and a story-driven mission structure that draws players deeper into the fiction of the game world. This structure means that, whether you have 20 minutes or 2 hours to play, you can jump in and make meaningful progress towards an in-game goal. Each episode takes an average of 3-5 hours to complete.
 
 Gameplay tends to be more structured than [Survival Mode](./Survival%20Mode.md), with scripted narrative events being more present, new dialogue and music, and the inability to explore certain areas of the local region until certain chapters are completed. The game will also deny entry certain transition zones to other regions, making it impossible to fully explore Great Bear Island. (Ex. Can't leave [Mystery Lake](./Mystery%20Lake%20%28region%29.md) to go to [The Ravine](./The%20Ravine.md) in Episode 2). Items also cannot be taken between Episodes (save for Episode 1 and 2) due to story reasons.
 
@@ -98,31 +93,112 @@ There are three gameplay difficulty options for Wintermute.
 - [Intestinal Parasites](./Intestinal%20Parasites.md) is present.
 - Some notes needed to start side missions are moved to different locations.
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Green Survivor](../assets/XpMode_Fresh.png) / *Green Survivor* | ![Capable Survivor](../assets/XpMode_Capable.png) / *Capable Survivor* | ![Hardened Survivor](../assets/XpMode_Hardened.png) / *Hardened Survivor* |
+![Green Survivor](../assets/XpMode_Fresh.png)
+
+_Green Survivor_
+
+![Capable Survivor](../assets/XpMode_Capable.png)
+
+_Capable Survivor_
+
+![Hardened Survivor](../assets/XpMode_Hardened.png)
+
+_Hardened Survivor_
 
 ## Media
 
 ### Images
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![](../assets/The_Long_Dark_-_Story_Mode_image1.png) / *The\_Long\_Dark\_-\_Story\_Mode\_image1.png* | ![](../assets/The_Long_Dark_-_Story_Mode_image2.png) / *The\_Long\_Dark\_-\_Story\_Mode\_image2.png* | ![](../assets/The_Long_Dark_-_Story_Mode_image3.png) / *The\_Long\_Dark\_-\_Story\_Mode\_image3.png* | ![](../assets/Intro_cutscene_1.jpg) / *Intro\_cutscene\_1.jpg* |
-| ![](../assets/Intro_cutscene_2.jpg) / *Intro\_cutscene\_2.jpg* | ![](../assets/Intro_cutscene_3.jpg) / *Intro\_cutscene\_3.jpg* | ![](../assets/Intro_cutscene_4.jpg) / *Intro\_cutscene\_4.jpg* | ![](../assets/Intro_cutscene_5.jpg) / *Intro\_cutscene\_5.jpg* |
-| ![](../assets/Intro_cutscene_6.jpg) / *Intro\_cutscene\_6.jpg* | ![](../assets/Intro_cutscene_7.jpg) / *Intro\_cutscene\_7.jpg* | ![](../assets/The_long_dark_poster2.jpg) / *The\_long\_dark\_poster2.jpg* | ![](../assets/The_long_dark_poster_no_text.jpg) / *The\_long\_dark\_poster\_no\_text.jpg* |
-| ![](../assets/The_Long_Dark_Poster.jpg) / *The\_Long\_Dark\_Poster.jpg* | ![](../assets/Aurora_mainpage.jpg) / *Aurora\_mainpage.jpg* | ![](../assets/The_Long_Dark_Steam_header.jpg) / *The\_Long\_Dark\_Steam\_header.jpg* | ![](../assets/December_update_2018.jpg) / *December\_update\_2018.jpg* |
-| ![](../assets/December_update_2018_notext.jpg) / *December\_update\_2018\_notext.jpg* |  |  |  |
+![](../assets/The_Long_Dark_-_Story_Mode_image1.png)
+
+_The\_Long\_Dark\_-\_Story\_Mode\_image1.png_
+
+![](../assets/The_Long_Dark_-_Story_Mode_image2.png)
+
+_The\_Long\_Dark\_-\_Story\_Mode\_image2.png_
+
+![](../assets/The_Long_Dark_-_Story_Mode_image3.png)
+
+_The\_Long\_Dark\_-\_Story\_Mode\_image3.png_
+
+![](../assets/Intro_cutscene_1.jpg)
+
+_Intro\_cutscene\_1.jpg_
+
+![](../assets/Intro_cutscene_2.jpg)
+
+_Intro\_cutscene\_2.jpg_
+
+![](../assets/Intro_cutscene_3.jpg)
+
+_Intro\_cutscene\_3.jpg_
+
+![](../assets/Intro_cutscene_4.jpg)
+
+_Intro\_cutscene\_4.jpg_
+
+![](../assets/Intro_cutscene_5.jpg)
+
+_Intro\_cutscene\_5.jpg_
+
+![](../assets/Intro_cutscene_6.jpg)
+
+_Intro\_cutscene\_6.jpg_
+
+![](../assets/Intro_cutscene_7.jpg)
+
+_Intro\_cutscene\_7.jpg_
+
+![](../assets/The_long_dark_poster2.jpg)
+
+_The\_long\_dark\_poster2.jpg_
+
+![](../assets/The_long_dark_poster_no_text.jpg)
+
+_The\_long\_dark\_poster\_no\_text.jpg_
+
+![](../assets/The_Long_Dark_Poster.jpg)
+
+_The\_Long\_Dark\_Poster.jpg_
+
+![](../assets/Aurora_mainpage.jpg)
+
+_Aurora\_mainpage.jpg_
+
+![](../assets/The_Long_Dark_Steam_header.jpg)
+
+_The\_Long\_Dark\_Steam\_header.jpg_
+
+![](../assets/December_update_2018.jpg)
+
+_December\_update\_2018.jpg_
+
+![](../assets/December_update_2018_notext.jpg)
+
+_December\_update\_2018\_notext.jpg_
 
 ### Videos
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![](../assets/The_Long_Dark_-_Episode_2_%28Luminance_Fugue%29_Opening_Credits) / *The\_Long\_Dark\_-\_Episode\_2\_(Luminance\_Fugue)\_Opening\_Credits* | ![](../assets/The_Long_Dark_--_WINTERMUTE_REDUX_--_Launch_Trailer_%282018%29) / *The\_Long\_Dark\_--\_WINTERMUTE\_REDUX\_--\_Launch\_Trailer\_(2018)* | ![](../assets/The_Long_Dark_--_%22Make_It_Right%22_--_WINTERMUTE_LAUNCH_TRAILER) / *The\_Long\_Dark\_--\_"Make\_It\_Right"\_--\_WINTERMUTE\_LAUNCH\_TRAILER* | ![](../assets/The_Long_Dark_--_Episode_Three_CROSSROADS_ELEGY_--_Launch_Trailer) / *The\_Long\_Dark\_--\_Episode\_Three\_CROSSROADS\_ELEGY\_--\_Launch\_Trailer* |
-| ![](../assets/The_Long_Dark_--_Episode_Four_--_FURY%2C_THEN_SILENCE_--_Teaser) / *The\_Long\_Dark\_--\_Episode\_Four\_--\_FURY,\_THEN\_SILENCE\_--\_Teaser* |  |  |  |
+![](../assets/The_Long_Dark_-_Episode_2_%28Luminance_Fugue%29_Opening_Credits.jpg)
+
+_The\_Long\_Dark\_-\_Episode\_2\_(Luminance\_Fugue)\_Opening\_Credits_
+
+![](../assets/The_Long_Dark_--_WINTERMUTE_REDUX_--_Launch_Trailer_%282018%29.jpg)
+
+_The\_Long\_Dark\_--\_WINTERMUTE\_REDUX\_--\_Launch\_Trailer\_(2018)_
+
+![](../assets/The_Long_Dark_--_%22Make_It_Right%22_--_WINTERMUTE_LAUNCH_TRAILER.jpg)
+
+_The\_Long\_Dark\_--\_"Make\_It\_Right"\_--\_WINTERMUTE\_LAUNCH\_TRAILER_
+
+![](../assets/The_Long_Dark_--_Episode_Three_CROSSROADS_ELEGY_--_Launch_Trailer.jpg)
+
+_The\_Long\_Dark\_--\_Episode\_Three\_CROSSROADS\_ELEGY\_--\_Launch\_Trailer_
+
+![](../assets/The_Long_Dark_--_Episode_Four_--_FURY%2C_THEN_SILENCE_--_Teaser.jpg)
+
+_The\_Long\_Dark\_--\_Episode\_Four\_--\_FURY,\_THEN\_SILENCE\_--\_Teaser_
 
 ## References
 
 &lt;div class="references-small" ;"&gt;
-
-**Lua execution error in Module:Navbox function navbox** [ru:Wintermute](ru:Wintermute) [fr:Mode Histoire](fr:Mode_Histoire)

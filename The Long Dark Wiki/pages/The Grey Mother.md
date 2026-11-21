@@ -1,11 +1,6 @@
----
-title: "The Grey Mother"
-wiki_namespace: 0
-categories: ["Episode 1"]
-source: "https://thelongdark.fandom.com/wiki/The_Grey_Mother"
----
-
 # The Grey Mother
+
+**Categories:** Episode 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Grey_Mother)
 
 **The Grey Mother** is the third mission of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) meets [Grey Mother](./Grey%20Mother.md) and performs various tasks for her in order to coax information about Astrid's whereabouts out of the old woman, while also learning more about the Town of Milton.
 

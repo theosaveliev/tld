@@ -1,17 +1,12 @@
----
-title: "Brass Key (2)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Brass_Key_(2)"
----
-
 # Brass Key \(2\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Brass_Key_%282%29)
 
 **Brass Key (2)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Brass_Key_%282%29_icon.png) / *Brass\_Key\_(2)\_icon.png* |
+|  | ![](../assets/Brass_Key_%282%29_icon.png) / _Brass\_Key\_(2)\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -34,5 +29,3 @@ It is used to open the [Weapon Locker](./Weapon%20Locker.md) inside the [Constab
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

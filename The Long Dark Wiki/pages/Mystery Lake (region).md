@@ -1,11 +1,6 @@
----
-title: "Mystery Lake (region)"
-wiki_namespace: 0
-categories: ["Regions"]
-source: "https://thelongdark.fandom.com/wiki/Mystery_Lake_(region)"
----
-
 # Mystery Lake \(region\)
+
+**Categories:** Regions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mystery_Lake_%28region%29)
 
 **Contents**
 
@@ -21,13 +16,13 @@ source: "https://thelongdark.fandom.com/wiki/Mystery_Lake_(region)"
 - [Maps](#maps)
 - [Gallery](#gallery)
 
-*For the location, see [Mystery Lake (location)](./Mystery%20Lake%20%28location%29.md).*
+_For the location, see [Mystery Lake (location)](./Mystery%20Lake%20%28location%29.md)._
 
-> “**Ideal for new players. A balance between wilderness and man-made shelters, resources, and wildlife.**”
+> “__Ideal for new players. A balance between wilderness and man-made shelters, resources, and wildlife.__”
 >
 > — - In game description
 
-**Mystery Lake** is 1st [Region](./Region.md) available for play in [Survival Mode](./Survival%20Mode.md) and one of the primary starting regions in *[The Long Dark](./The%20Long%20Dark.md)*. The region is named after [Mystery Lake](./Mystery%20Lake%20%28location%29.md), a lake serving as the reservoir for the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md). A railway crosses the region and is mainly used in the summers supporting the local timber operation and lakeside recreation.
+**Mystery Lake** is 1st [Region](./Region.md) available for play in [Survival Mode](./Survival%20Mode.md) and one of the primary starting regions in _[The Long Dark](./The%20Long%20Dark.md)_. The region is named after [Mystery Lake](./Mystery%20Lake%20%28location%29.md), a lake serving as the reservoir for the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md). A railway crosses the region and is mainly used in the summers supporting the local timber operation and lakeside recreation.
 
 The region connects to [Forlorn Muskeg](./Forlorn%20Muskeg.md) on the southern end of the railroad and to [Mountain Town](./Mountain%20Town.md) in the southwest via a cave near the [Trapper's Homestead](./Trapper%27s%20Homestead.md). The railroad leads into [The Ravine](./The%20Ravine.md) at the northeast edge of the map and continues into the [Coastal Highway](./Coastal%20Highway.md) region. The [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) near the northeast end of the railroad provides a transition to the [Pleasant Valley](./Pleasant%20Valley.md) region.
 
@@ -46,7 +41,7 @@ As described in "[Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md)" fr
 
 The [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md) cuts through the region, entering the region from [Forlorn Muskeg](./Forlorn%20Muskeg.md) via the [Rail Tunnel](./Rail%20Tunnel.md). Along the way, it passes by [Camp Office](./Camp%20Office.md), the [Derailment](./Derailment.md), the [Train Loading Area](./Train%20Loading%20Area.md), and [Carter Hydro Dam](./Carter%20Hydro%20Dam.md). Just past Carter, the tracks enter [The Ravine](./The%20Ravine.md), and eventually lead to [Coastal Highway](./Coastal%20Highway.md). These tracks can be extremely useful in inclement weather, as they enable players to travel around without getting lost.
 
-Overall, Mystery Lake is generally considered one of, if not *the* easiest region to survive in, though some argue that Coastal Highway is even easier, despite its higher predator density. Mystery Lake is also in the center of Great Bear Island in-game, and well-prepared players will be able to reach most other in-game regions within a day's travel, though travelling to some regions, such as [Blackrock](./Blackrock.md), may make for a *long* day's travel. Players who own [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) should be aware that Mystery Lake does spawn cougars, and plan accordingly.
+Overall, Mystery Lake is generally considered one of, if not _the_ easiest region to survive in, though some argue that Coastal Highway is even easier, despite its higher predator density. Mystery Lake is also in the center of Great Bear Island in-game, and well-prepared players will be able to reach most other in-game regions within a day's travel, though travelling to some regions, such as [Blackrock](./Blackrock.md), may make for a _long_ day's travel. Players who own [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) should be aware that Mystery Lake does spawn cougars, and plan accordingly.
 
 ## Base locations
 
@@ -102,15 +97,28 @@ The inside of Trapper's Homestead is labeled Trapper's Cabin.
 
 ## Maps
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Mystery Lake map v2.35](../assets/Mystery_Lake_map_v2.35.jpg) / *Mystery Lake map v2.35* | ![Mystery Lake map v2.35 (Interloper/Misery Edition)](../assets/Mystery_Lake_map_v2.35_%28Interloper-Misery%29.jpg) / *Mystery Lake map v2.35 (Interloper/Misery Edition)* | ![](../assets/Mystery_Lake_map_by_Sniper_Bob.jpg) / *Mystery\_Lake\_map\_by\_Sniper\_Bob.jpg* | ![](../assets/Map-ML-lv3-v183.png) / *Map-ML-lv3-v183.png* |
-| ![In-game charcoal map](../assets/Mystery_lake_map.png) / *In-game charcoal map* |  |  |  |
+![Mystery Lake map v2.35](../assets/Mystery_Lake_map_v2.35.jpg)
+
+_Mystery Lake map v2.35_
+
+![Mystery Lake map v2.35 (Interloper/Misery Edition)](../assets/Mystery_Lake_map_v2.35_%28Interloper-Misery%29.jpg)
+
+_Mystery Lake map v2.35 (Interloper/Misery Edition)_
+
+![](../assets/Mystery_Lake_map_by_Sniper_Bob.jpg)
+
+_Mystery\_Lake\_map\_by\_Sniper\_Bob.jpg_
+
+![](../assets/Map-ML-lv3-v183.png)
+
+_Map-ML-lv3-v183.png_
+
+![In-game charcoal map](../assets/Mystery_lake_map.png)
+
+_In-game charcoal map_
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![A promotional poster](../assets/Mystery_lake_poster.png) / *A promotional poster* |
+![A promotional poster](../assets/Mystery_lake_poster.png)
 
-[ru:Загадочное\_озеро](ru:%D0%97%D0%B0%D0%B3%D0%B0%D0%B4%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B7%D0%B5%D1%80%D0%BE) [fr:Lac Mystère](fr:Lac_Myst%C3%A8re) [es:Región del lago misterioso](es:Regi%C3%B3n_del_lago_misterioso) **Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**
+_A promotional poster_

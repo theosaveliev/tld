@@ -1,29 +1,24 @@
----
-title: "Fishing Hut"
-wiki_namespace: 0
-categories: ["Locations in Coastal Highway", "Locations in Mystery Lake"]
-source: "https://thelongdark.fandom.com/wiki/Fishing_Hut"
----
-
 # Fishing Hut
+
+**Categories:** Locations in Coastal Highway, Locations in Mystery Lake · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fishing_Hut)
 
 ![](../assets/Fishing_hut.png)
 
-*Fishing\_hut.png*
+_Fishing\_hut.png_
 
 **Fishing huts**are a type of small structure found on frozen lakes and coasts. While they can be found in many regions, they are especially abundant in [Mystery Lake](./Mystery%20Lake%20%28region%29.md) and [Coastal Highway](./Coastal%20Highway.md).
 
 ## Overview
 
-| Column 1 |
-| --- |
-| ![](../assets/Fishing_hut_inside.jpg) / *fishing\_hut\_inside.jpg* |
+![](../assets/Fishing_hut_inside.jpg)
+
+_fishing\_hut\_inside.jpg_
 
 Fishing huts are sheds placed on a frozen lake or ocean to provide shelter during ice [fishing](./Ice%20Fishing.md).
 
 Fishing huts have an ice fishing hole, which can be used after breaking the ice cover of it with a [hatchet](./Hatchet.md), [hunting knife](./Hunting%20Knife.md), [prybar](./Prybar.md), or [heavy hammer](./Heavy%20Hammer.md). Other furniture includes a [pot belly stove](./Pot%20Belly%20Stove.md), [cupboard](./Cupboard.md), [drawer](./Drawer.md) and two shelves. There is enough space to place a [bedroll](./Bedroll.md) or a bearskin bedroll. In addition to being able to use the stove for warmth, fishing in a fishing hut results in faster catch times and reduced wear to [tip-ups](./Fishing%20Tip-Up.md) compared to free form ice fishing.
 
-Most fishing huts lack doors, but animals, to include [wolves](./Wolf.md) and [bears](./Bear.md), do not enter them. Fishing huts with doors will also keep out bears and wolves when closed. *However*, even with the door closed, animals can still sense the player's presence, and may awaken the player if they attempt to [sleep](./Sleep.md). The player can try going to sleep again, but if a hostile animal is still nearby, there is a chance the player will be awoken again. If the player is unexpectedly awoken by a hostile animal, the game will register this as an interrupted sleep and will not save.
+Most fishing huts lack doors, but animals, to include [wolves](./Wolf.md) and [bears](./Bear.md), do not enter them. Fishing huts with doors will also keep out bears and wolves when closed. _However_, even with the door closed, animals can still sense the player's presence, and may awaken the player if they attempt to [sleep](./Sleep.md). The player can try going to sleep again, but if a hostile animal is still nearby, there is a chance the player will be awoken again. If the player is unexpectedly awoken by a hostile animal, the game will register this as an interrupted sleep and will not save.
 
 Note that fishing huts with door give a +3ºC [warmth](./Warmth.md) bonus (it doesn't matter whether the door is open or not).
 

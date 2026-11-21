@@ -1,10 +1,6 @@
----
-title: "The Long Dark/Changelog/Archive 2"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/The_Long_Dark%2FChangelog%2FArchive_2"
----
-
 # The Long Dark/Changelog/Archive 2
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Long_Dark%2FChangelog%2FArchive_2)
 
 **Contents**
 
@@ -44,13 +40,13 @@ source: "https://thelongdark.fandom.com/wiki/The_Long_Dark%2FChangelog%2FArchive
 - [1.52](#152)
 - [1.50](#150)
 
-This is a changelog for full-release versions of *[The Long Dark](./The%20Long%20Dark.md)* from 1.50 to 1.99.
+This is a changelog for full-release versions of _[The Long Dark](./The%20Long%20Dark.md)_ from 1.50 to 1.99.
 
-*For the latest changelog, see [The Long Dark/Changelog](./The%20Long%20Dark%20%E2%80%94%20Changelog.md).*
+_For the latest changelog, see [The Long Dark/Changelog](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)._
 
-*For Archive 1 changelog with versions 1.00 to 1.49, see [The\_Long\_Dark/Changelog/Archive\_1](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md).*
+_For Archive 1 changelog with versions 1.00 to 1.49, see [The\_Long\_Dark/Changelog/Archive\_1](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md)._
 
-*For Early Access changelog (pre-v1.00), see [The\_Long\_Dark/Early\_Access\_Changelog](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md).*
+_For Early Access changelog (pre-v1.00), see [The\_Long\_Dark/Early\_Access\_Changelog](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)._
 
 ### 1.99
 
@@ -99,7 +95,7 @@ In the Spring, we’ll be sharing more info about our Creator Hub, which will ha
 
 Survival Mode Updates in 2022 &amp; Beyond
 
-We’ve been working on a plan for how to tackle ongoing support for Survival Mode between now and Episode Five’s launch, and beyond. I’ll share more details about our plans in the new year, as there are a lot of technical aspects we’re still figuring out. But as a high-level direction, based on the guidance we’ve received from many of you in our player community through our community poll earlier this year -- *and after providing nearly over 7 years of free updates to Survival Mode* -- our plan is to move to a more sustainable paid update path.
+We’ve been working on a plan for how to tackle ongoing support for Survival Mode between now and Episode Five’s launch, and beyond. I’ll share more details about our plans in the new year, as there are a lot of technical aspects we’re still figuring out. But as a high-level direction, based on the guidance we’ve received from many of you in our player community through our community poll earlier this year -- _and after providing nearly over 7 years of free updates to Survival Mode_ -- our plan is to move to a more sustainable paid update path.
 
 One of the first stages we’re working towards is splitting Story Mode and Survival Mode into two separate games and executables. This won’t affect your ownership in any way -- everyone who currently owns The Long Dark will automatically have both games. In fact, depending on how we handle this, the split may be mostly on the back-end and invisible to you as a player. This split is mostly about how we structure content and data in the game on the development side.
 
@@ -125,7 +121,7 @@ We’re excited to share more news with you in the new year, but until then, get
 
 All the best, and thanks for your support this year.
 
-*- Raphael*
+_- Raphael_
 
 \*\*\*\*\*
 
@@ -299,7 +295,7 @@ All the best, and safe travels.
 
 - Raphael
 
-*The Long Dark, Episode Four: FURY, THEN SILENCE is available now on Steam, Xbox, PlayStation, Epic Games Store, and Nintendo Switch. Watch the full trailer below.*
+_The Long Dark, Episode Four: FURY, THEN SILENCE is available now on Steam, Xbox, PlayStation, Epic Games Store, and Nintendo Switch. Watch the full trailer below._
 
 [https://youtu.be/-AzzG1Iaczw](https://youtu.be/-AzzG1Iaczw)
 

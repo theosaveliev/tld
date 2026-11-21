@@ -1,17 +1,12 @@
----
-title: "Paradise Lost/Transcript"
-wiki_namespace: 0
-categories: ["Episode 1"]
-source: "https://thelongdark.fandom.com/wiki/Paradise_Lost%2FTranscript"
----
-
 # Paradise Lost/Transcript
+
+**Categories:** Episode 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paradise_Lost%2FTranscript)
 
 **Paradise Lost/Transcript**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Paradise_Lost.png) / *Paradise\_Lost.png* |
+|  | ![](../assets/Paradise_Lost.png) / _Paradise\_Lost.png_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Previous | [The Grey Mother/Transcript](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) |
 | Current | Paradise Lost/Transcript |
@@ -27,7 +22,7 @@ CHAPTER FOUR
 
 PARADISE LOST
 
-*After receiving [Lily's Trunk Key](./Lily%27s%20Trunk%20Key.md), Mackenzie still has the ability to speak with Grey Mother, starting the mission [One Last Thing](./One%20Last%20Thing.md).*
+_After receiving [Lily's Trunk Key](./Lily%27s%20Trunk%20Key.md), Mackenzie still has the ability to speak with Grey Mother, starting the mission [One Last Thing](./One%20Last%20Thing.md)._
 
 **Blue Dialogue**
 
@@ -43,11 +38,11 @@ Grey Mother: "Then take them...to Lily."
 
 Will Mackenzie: "Lily's still here, in Milton? Why didn't you say so?"
 
-*Grey Mother reaches behind her for the pearls and hands them to Mackenzie*
+_Grey Mother reaches behind her for the pearls and hands them to Mackenzie_
 
 Grey Mother: "Go find her. Take the pearls and give them to Lily. And then I can rest in peace."
 
-*Mackenzie then makes his way to the [Graveyard](./Graveyard.md), but does not find Lily anywhere. That is until he sees a grave. Lilith Barker. He places the pearls on the tombstone, then silently makes his way back to Grey Mother.*
+_Mackenzie then makes his way to the [Graveyard](./Graveyard.md), but does not find Lily anywhere. That is until he sees a grave. Lilith Barker. He places the pearls on the tombstone, then silently makes his way back to Grey Mother._
 
 Will Mackenzie: "I found Lily. Your...daughter. She has her pearls now."
 
@@ -63,15 +58,15 @@ Grey Mother: "You've done a lot for me Mackenzie. I won't forget you."
 
 ### Leave Milton
 
-*Mackenzie goes to the second floor of the house and retrieves [Lilith Barker's](./Lilith%20Barker.md) climbing equipment, then heads to [Milton Park](./Milton%20Park.md) by following [Lily's Map](./Lily%27s%20Map.md). He ties the [Mountaineering Rope](./Mountaineering%20Rope.md) to a rock, but before he leaves Milton behind, Mackenzie says:*
+_Mackenzie goes to the second floor of the house and retrieves [Lilith Barker's](./Lilith%20Barker.md) climbing equipment, then heads to [Milton Park](./Milton%20Park.md) by following [Lily's Map](./Lily%27s%20Map.md). He ties the [Mountaineering Rope](./Mountaineering%20Rope.md) to a rock, but before he leaves Milton behind, Mackenzie says:_
 
 Will Mackenzie: "I have a bad feeling that I'm never going to see this place again."
 
-*Mackenzie eventually uses the rope climb and begins climbing down, but the rope begins to fail two-thirds of the way down the climb and then snaps.*
+_Mackenzie eventually uses the rope climb and begins climbing down, but the rope begins to fail two-thirds of the way down the climb and then snaps._
 
 Will Mackenzie: "What the hell...I guess that rope was older than it looked."
 
-*With the rope broken and no way back up to Milton, Mackenzie travels further into the mountains. Upon traveling a bit further away from the climbing spot, a campfire can be seen, along with a familiar face poking at the fire. The campsite has a walking stick planted firmly in the snow, with a plate holding some cooked rabbit meat. A Recycled Can is in the snow at the man's feet, as he sits in on a metal pipe in the shadow of a ruined building. A Cup of Coffee is next to him.*
+_With the rope broken and no way back up to Milton, Mackenzie travels further into the mountains. Upon traveling a bit further away from the climbing spot, a campfire can be seen, along with a familiar face poking at the fire. The campsite has a walking stick planted firmly in the snow, with a plate holding some cooked rabbit meat. A Recycled Can is in the snow at the man's feet, as he sits in on a metal pipe in the shadow of a ruined building. A Cup of Coffee is next to him._
 
 [Methuselah](./Methuselah.md): "So, we meet again."
 
@@ -97,7 +92,7 @@ Methuselah: "Big change is coming. Are you ready to face it?"
 
 Will Mackenzie: "I'm no hero. I'm just looking for someone. Doing my best to survive in the meantime."
 
-*Depending on what choice was made regarding [Hobbs](./Hobbs.md), Methuselah has different responses to Mackenzie's previous statement:*
+_Depending on what choice was made regarding [Hobbs](./Hobbs.md), Methuselah has different responses to Mackenzie's previous statement:_
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -108,12 +103,10 @@ Will Mackenzie: "Good luck, old man. Enjoy your apocalypse."
 
 Methuselah: "You keep your luck, stranger. I have a feeling, you're going to be needing it."
 
-*The player is free to take the man's belongings or leave him be. After finishing up by the campfire, Mackenzie climbs another rope climb into the mountains, traveling over a frozen river and into a cave opening. Looking to the view to his left, he sees the road on the other side of the collapsed tunnel leaving Milton, then passes through the mountains.*
+_The player is free to take the man's belongings or leave him be. After finishing up by the campfire, Mackenzie climbs another rope climb into the mountains, traveling over a frozen river and into a cave opening. Looking to the view to his left, he sees the road on the other side of the collapsed tunnel leaving Milton, then passes through the mountains._
 
-*Upon making it to the other side, he sees a man in a fur coat being chased by a [bear](./Old%20Bear.md), which quickly overwhelms him and causes his gun to fly through the air at the pilot's feet. Mackenzie quickly picks it up as the bear begins to maul the stranger.*
+_Upon making it to the other side, he sees a man in a fur coat being chased by a [bear](./Old%20Bear.md), which quickly overwhelms him and causes his gun to fly through the air at the pilot's feet. Mackenzie quickly picks it up as the bear begins to maul the stranger._
 
 [Jeremiah](./Jeremiah.md): "Shoot the damn Bear!!"
 
-*The pilot picks up the rifle, checks to see if it is loaded, then aims at the bear before the screen turns black. A gunshot is heard, and the credits roll.*
-
-The story continues in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), in [The Wounded Trapper](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**
+_The pilot picks up the rifle, checks to see if it is loaded, then aims at the bear before the screen turns black. A gunshot is heard, and the credits roll._

@@ -1,17 +1,12 @@
----
-title: "Paradise Meadows Farm Key"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Paradise_Meadows_Farm_Key"
----
-
 # Paradise Meadows Farm Key
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paradise_Meadows_Farm_Key)
 
 **Paradise Meadows Farm Key**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Paradise_Meadows_Farm_Key_icon.png) / *Paradise\_Meadows\_Farm\_Key\_icon.png* |
+|  | ![](../assets/Paradise_Meadows_Farm_Key_icon.png) / _Paradise\_Meadows\_Farm\_Key\_icon.png_ |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
 | Stackable | No |
@@ -37,7 +32,5 @@ source: "https://thelongdark.fandom.com/wiki/Paradise_Meadows_Farm_Key"
   - Added to Survival Mode with Mountain Town.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from Episode 1 as part of the Redux edition update.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Ключ от Фермы "Райские луга"](ru:%D0%9A%D0%BB%D1%8E%D1%87_%D0%BE%D1%82_%D0%A4%D0%B5%D1%80%D0%BC%D1%8B_"%D0%A0%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D1%83%D0%B3%D0%B0")

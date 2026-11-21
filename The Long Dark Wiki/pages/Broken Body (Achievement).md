@@ -1,20 +1,15 @@
----
-title: "Broken Body (Achievement)"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Broken_Body_(Achievement)"
----
-
 # Broken Body \(Achievement\)
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Broken_Body_%28Achievement%29)
 
 **Broken Body**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Broken_Body_%28Achievement%29_icon.png) / *Broken\_Body\_(Achievement)\_icon.png* |
+|  | ![](../assets/Broken_Body_%28Achievement%29_icon.png) / _Broken\_Body\_(Achievement)\_icon.png_ |
 | Description | Survive long enough to receive the final Affliction in Misery Mode. |
 
-**Broken Body** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Broken Body** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -38,5 +33,3 @@ Stage 1 and 5 are always [Diminished Form](./Diminished%20Form.md) and [Broken B
   - 31 days survived: Two Remaining New Misery Afflictions
 - Stage 5: Ruin
   - 46 days survived: [Broken Body](./Broken%20Body.md)
-
-**Lua execution error in Module:Navbox function navbox**

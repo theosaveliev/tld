@@ -1,11 +1,6 @@
----
-title: "Shelf"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Shelf"
----
-
 # Shelf
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Shelf)
 
 **Contents**
 
@@ -19,14 +14,14 @@ source: "https://thelongdark.fandom.com/wiki/Shelf"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| Column 1 \| Column 2 \| Column 3 \| Column 4 \| / \| --- \| --- \| --- \| --- \| / \| ![Wide](../assets/Wide_Shelf.jpg) / *Wide* \| ![Large](../assets/Large_Shelf.jpg) / *Large* \| ![Bookshelf](../assets/Bookshelf.jpg) / *Bookshelf* \| ![Gun Rack](../assets/Hunting_rifle_rack.jpg) / *Gun Rack* \| / \| ![Single Rack](../assets/Hunting_Rifle_Gun_Rack_Single.jpg) / *Single Rack* \|  \|  \|  \| | 250px\]\] |
-| ![Wide](../assets/Wide_Shelf.jpg) / *Wide* | ![Large](../assets/Large_Shelf.jpg) / *Large* / ![Bookshelf](../assets/Bookshelf.jpg) / *Bookshelf* / ![Gun Rack](../assets/Hunting_rifle_rack.jpg) / *Gun Rack* |
-| ![Single Rack](../assets/Hunting_Rifle_Gun_Rack_Single.jpg) / *Single Rack* |  |
+| \[\[File: / ![Wide](../assets/Wide_Shelf.jpg) / _Wide_ / ![Large](../assets/Large_Shelf.jpg) / _Large_ / ![Bookshelf](../assets/Bookshelf.jpg) / _Bookshelf_ / ![Gun Rack](../assets/Hunting_rifle_rack.jpg) / _Gun Rack_ / ![Single Rack](../assets/Hunting_Rifle_Gun_Rack_Single.jpg) / _Single Rack_ | 250px\]\] |
+| ![Wide](../assets/Wide_Shelf.jpg) / _Wide_ | ![Large](../assets/Large_Shelf.jpg) / _Large_ / ![Bookshelf](../assets/Bookshelf.jpg) / _Bookshelf_ / ![Gun Rack](../assets/Hunting_rifle_rack.jpg) / _Gun Rack_ |
+| ![Single Rack](../assets/Hunting_Rifle_Gun_Rack_Single.jpg) / _Single Rack_ |  |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | No |
 
-**Shelves**are common features in indoor environments in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Shelves**are common features in indoor environments in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 The player can find and store many different usable items such as [Food And Drink](./Food%20And%20Drink.md), [Rifle Ammunition](./Rifle%20Ammunition.md), [Bandages](./Bandage.md) and much more on most types of shelves. These items are set out in the open (shelves are not storage containers), and may sit alongside decorative, immovable objects as well.
 
@@ -71,5 +66,3 @@ Gun racks allow [Hunting Rifles](./Hunting%20Rifle.md) to be placed on them, but
 | 1 | 8 minutes | 22 | -2% Hatchet |
 | 1 | 10 minutes | 29 | -3% Improvised Hatchet |
 | 1 | 11 minutes | 34 | -0.5% Heavy Hammer |
-
-**Lua execution error in Module:Navbox function navbox**

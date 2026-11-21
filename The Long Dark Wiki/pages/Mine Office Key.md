@@ -1,11 +1,6 @@
----
-title: "Mine Office Key"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Mine_Office_Key"
----
-
 # Mine Office Key
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mine_Office_Key)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Mine_Office_Key"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mine_Office_Key_icon.png) / *Mine\_Office\_Key\_icon.png* |
+|  | ![](../assets/Mine_Office_Key_icon.png) / _Mine\_Office\_Key\_icon.png_ |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | Wintermute | No |
 | **Properties** |  |
@@ -38,9 +33,13 @@ The **Mine Office Key** is a unique key found only in [Survival Mode](./Survival
 
 It can be found on a corpse in the mine. Starting from the bottom floor of the [Headframe Building](./Headframe%20Building.md) elevator, take a left through the toxic gas, past a toxic open pit, past another gas cloud, and the player will find themselves crouching and approaching a wooden coal chute under a very low ceiling. A curled up corpse will contain the key, and will be next to a [Metal Container](./Metal%20Container.md).
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The corpse with the key](../assets/Mine_Office_Key_location.jpg) / *The corpse with the key* | ![The other end of the chute for reference](../assets/Mine_Office_Key_location_2.jpg) / *The other end of the chute for reference* |
+![The corpse with the key](../assets/Mine_Office_Key_location.jpg)
+
+_The corpse with the key_
+
+![The other end of the chute for reference](../assets/Mine_Office_Key_location_2.jpg)
+
+_The other end of the chute for reference_
 
 ### Trailer
 
@@ -56,15 +55,21 @@ Loot:
 - [Cup of Coffee](./Cup%20of%20Coffee.md)
 - [Tin of Coffee](./Tin%20of%20Coffee.md)
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![The chute exit from Level 2](../assets/Mine_Office_Key_trailer_2.jpg) / *The chute exit from Level 2* | ![The trailer](../assets/Mine_Office_Key_trailer.jpg) / *The trailer* | ![The inside of the trailer](../assets/Mine_Office_Key_trailer_3.jpg) / *The inside of the trailer* |
+![The chute exit from Level 2](../assets/Mine_Office_Key_trailer_2.jpg)
+
+_The chute exit from Level 2_
+
+![The trailer](../assets/Mine_Office_Key_trailer.jpg)
+
+_The trailer_
+
+![The inside of the trailer](../assets/Mine_Office_Key_trailer_3.jpg)
+
+_The inside of the trailer_
 
 ## Update history
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Ключ от кабинета администратора шахты](ru:%D0%9A%D0%BB%D1%8E%D1%87_%D0%BE%D1%82_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%D0%B0_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0_%D1%88%D0%B0%D1%85%D1%82%D1%8B)

@@ -1,11 +1,6 @@
----
-title: "Tales from the Far Territory"
-wiki_namespace: 0
-categories: ["DLC Content"]
-source: "https://thelongdark.fandom.com/wiki/Tales_from_the_Far_Territory"
----
-
 # Tales from the Far Territory
+
+**Categories:** DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tales_from_the_Far_Territory)
 
 **Contents**
 
@@ -42,21 +37,21 @@ source: "https://thelongdark.fandom.com/wiki/Tales_from_the_Far_Territory"
 
 ![](../assets/Tales_from_the_far_territory_title.jpg)
 
-*Tales\_from\_the\_far\_territory\_title.jpg*
+_Tales\_from\_the\_far\_territory\_title.jpg_
 
-> “** Experience three unique regions, each with their own narrative objectives, and find your way through deep, twisting valleys littered with landmarks, landmarks that offer clues to unlocking the secrets of the land. Explore new items and gameplay mechanics that will challenge you to adapt to survive, and encounter new wildlife that inhabits these harsh and unforgiving territories. **”
+> “__ Experience three unique regions, each with their own narrative objectives, and find your way through deep, twisting valleys littered with landmarks, landmarks that offer clues to unlocking the secrets of the land. Explore new items and gameplay mechanics that will challenge you to adapt to survive, and encounter new wildlife that inhabits these harsh and unforgiving territories. __”
 
-***Tales from the Far Territory*** is [downloadable content](./The%20Long%20Dark.md#Downloadable_Addon_Content) for *[The Long Dark](./The%20Long%20Dark.md)*. It is the first expansion to the [Survival Mode](./Survival%20Mode.md) portion of the game, being released in 6 parts starting from December 5, 2022 and fully concluding on December 2, 2024.
+**_Tales from the Far Territory_** is [downloadable content](./The%20Long%20Dark.md#Downloadable_Addon_Content) for _[The Long Dark](./The%20Long%20Dark.md)_. It is the first expansion to the [Survival Mode](./Survival%20Mode.md) portion of the game, being released in 6 parts starting from December 5, 2022 and fully concluding on December 2, 2024.
 
 ## Overview
 
-> “**Deep along the spine of Great Bear tracks a steep mountain range that bisects the island. This is the Far Range, an imposing wall of rock that stands vigilant over Great Bear's priceless resource riches. Over the decades, many have tried, few have succeeded to crack open the wealth within these rocks. And mysteries abound. Dark stories told around campfires, about abandoned mines and remote airfields that hold many secrets. Now, with the aurora blazing across the sky, is the Far Territory ready to surrender its stories? Will you survive long enough to wrest any truths from the rocky grasp of this old, dark territory?**”
+> “__Deep along the spine of Great Bear tracks a steep mountain range that bisects the island. This is the Far Range, an imposing wall of rock that stands vigilant over Great Bear's priceless resource riches. Over the decades, many have tried, few have succeeded to crack open the wealth within these rocks. And mysteries abound. Dark stories told around campfires, about abandoned mines and remote airfields that hold many secrets. Now, with the aurora blazing across the sky, is the Far Territory ready to surrender its stories? Will you survive long enough to wrest any truths from the rocky grasp of this old, dark territory?__”
 >
 > — Developer Diary, October 2022
 
-*Tales from the Far Territory* is a paid expansion pass for *The Long Dark*'s Survival Mode. It introduces new regions, wildlife, plants, improved mechanics, and system overhauls. The expansion also introduces [Tales](./Tales.md)—objective-based narratives quests similar to the storyline quests of [Wintermute](./Wintermute.md) and are played within a standard Survival game. There are three primary Tales following the story of Dr. Rüdiger and a fourth mini-Tale focusing on the Trader.
+_Tales from the Far Territory_ is a paid expansion pass for _The Long Dark_'s Survival Mode. It introduces new regions, wildlife, plants, improved mechanics, and system overhauls. The expansion also introduces [Tales](./Tales.md)—objective-based narratives quests similar to the storyline quests of [Wintermute](./Wintermute.md) and are played within a standard Survival game. There are three primary Tales following the story of Dr. Rüdiger and a fourth mini-Tale focusing on the Trader.
 
-The expansion was delivered as a two-year campaign with major updates released on an average of every four months. These updates were cumulative and included free content for all players who owned *The Long Dark* or *The Long Dark: Survival Mode Edition*.
+The expansion was delivered as a two-year campaign with major updates released on an average of every four months. These updates were cumulative and included free content for all players who owned _The Long Dark_ or _The Long Dark: Survival Mode Edition_.
 
 Any content exclusive to the paid expansion is labeled as such below, and a full list can be found in :Category:DLC Content.
 
@@ -267,7 +262,7 @@ Released June 24th 2024
 
 ### Miscellaneous Update
 
-- *Tales from the Far Territory* officially released for Nintendo Switch (Parts 1-5) (August 1st, 2024)
+- _Tales from the Far Territory_ officially released for Nintendo Switch (Parts 1-5) (August 1st, 2024)
 - Added an option to make Cougars and [Scurvy](./Scurvy.md) optional content when starting a Survival Mode Experience (except Misery)
 - Removed Cougar shortly after launch due to negative player feedback so that it could be reworked
 
@@ -337,26 +332,26 @@ Released December 2, 2024
 
 ### Miscellaneous Update
 
-- Added 19 new [Achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) related to the *Tales from the Far Territory*, being a mix of free and paid achievements.
+- Added 19 new [Achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) related to the _Tales from the Far Territory_, being a mix of free and paid achievements.
 - The game no longer has 25 save slots. Saving is now measured in percentage of space on save files.
 - Train box cars and Car/Truck engines received new models. [Camp Office](./Camp%20Office.md) now has paint on the walls upstairs.
 - The Big Cat Killer Feat was discontinued with the new Cougar version, and is now a legacy Feat.
 
 ## Development
 
-With the progress of Episode 4 and writing for episode 5 coming to a close, Raphael van Lierop posted the Dev Diary on March 18, 2021 talking about the future of *The Long Dark* and linking to a survey asking a series of questions, including if players would be willing to pay for DLC.[¹](#fn1) The results of the survey showed a favourable view towards paid content and development began with a dedicated team. [²](#fn2) To streamline the process of adding updates, the game was planned to be split into two editions, *Survival Edition* and *Wintermute*.[³](#fn3)
+With the progress of Episode 4 and writing for episode 5 coming to a close, Raphael van Lierop posted the Dev Diary on March 18, 2021 talking about the future of _The Long Dark_ and linking to a survey asking a series of questions, including if players would be willing to pay for DLC.[¹](#fn1) The results of the survey showed a favourable view towards paid content and development began with a dedicated team. [²](#fn2) To streamline the process of adding updates, the game was planned to be split into two editions, _Survival Edition_ and _Wintermute_.[³](#fn3)
 
-The name for the expansion pass was revealed as *Tales from the Far Territory* on October 20, 2022 in the Dev Diary, also announcing free and paid contents, save compatibility issues and the subsequent save wipes, with a general release date for December 2022 and Xbox, PlayStation and Switch planned for early 2023.[⁴](#fn4)
+The name for the expansion pass was revealed as _Tales from the Far Territory_ on October 20, 2022 in the Dev Diary, also announcing free and paid contents, save compatibility issues and the subsequent save wipes, with a general release date for December 2022 and Xbox, PlayStation and Switch planned for early 2023.[⁴](#fn4)
 
-Raphael von Lierop also announced stepping down as lead developer of *The Long Dark*, handing the reigns to Katie Sorrell as Project Lead, who would continue the work on *Wintermute* and *Tales from the Far Territory*, officially taking over as the voice for *The Long Dark* on Hinterland's official YouTube channel on March 30, 2023 in the "Tales from the Far Territory Part Two Update Video".[⁵](#fn5)[⁶](#fn6)
+Raphael von Lierop also announced stepping down as lead developer of _The Long Dark_, handing the reigns to Katie Sorrell as Project Lead, who would continue the work on _Wintermute_ and _Tales from the Far Territory_, officially taking over as the voice for _The Long Dark_ on Hinterland's official YouTube channel on March 30, 2023 in the "Tales from the Far Territory Part Two Update Video".[⁵](#fn5)[⁶](#fn6)
 
-*Tales* was officially released on December 5, 2022 on Steam and Epic store for Windows. Technical issues arose for Mac and its release date was delayed from December 5, 2022 to February 15, 2023.
+_Tales_ was officially released on December 5, 2022 on Steam and Epic store for Windows. Technical issues arose for Mac and its release date was delayed from December 5, 2022 to February 15, 2023.
 
 PlayStation and Xbox was announced for March 15, 2023[⁷](#fn7) but was delayed and officially released on March 30, 2023 with Updates One and Two simultaneously. Update Two for PC was also released on March 30, 2023.
 
 The Switch was initially announced for March 2023 but was delayed, with Parts One to Four later being released together on August 1, 2024[⁸](#fn8). Parts Five to Six was later released on March 10, 2025[⁹](#fn9)
 
-*Tales* was initially disabled for Interloper in order to maintain gameplay balance and the belief it would be too difficult and offer little reward for players, but after receiving heavy criticism, Raphael announced its future inclusion in the Dev Diary on April 14, 2023[¹⁰](#fn10) with it being officially enabled on April 20, 2023.[¹¹](#fn11) *Signal Void* for Interloper mode was in turn modified to include less loot for bunkers and appropriate loot for the Trackable Hidden Caches.
+_Tales_ was initially disabled for Interloper in order to maintain gameplay balance and the belief it would be too difficult and offer little reward for players, but after receiving heavy criticism, Raphael announced its future inclusion in the Dev Diary on April 14, 2023[¹⁰](#fn10) with it being officially enabled on April 20, 2023.[¹¹](#fn11) _Signal Void_ for Interloper mode was in turn modified to include less loot for bunkers and appropriate loot for the Trackable Hidden Caches.
 
 The Cougar was met with heavy criticism at Part Four's launch, with many players expressing their disappointment with how it was implemented. This included how it did not act as a typical wildlife in the game and rather than roam and interact with the world and player, its appearance was limited to the moment it attacked the player after a timer countdown. The Cougar was promptly removed from the game to be reworked and then rereleased later for Part Six on December 2, 2024 to a relatively more favourable reception.
 
@@ -377,24 +372,64 @@ The Cougar was met with heavy criticism at Part Four's launch, with many players
 
 ## Trivia
 
-- The promotional image used for the *Tales From the Far Territory* is actually concept art for the [Final Approach](./Final%20Approach.md) helicopter crash site.
-- The [Zone of Contamination](./Zone%20of%20Contamination.md) was formerly teased as the *Industrial Mine*, but was renamed during its debut.
-- [Sundered Pass](./Sundered%20Pass.md) was formerly teased as *Mountain Pass*, but was renamed during its debut.
+- The promotional image used for the _Tales From the Far Territory_ is actually concept art for the [Final Approach](./Final%20Approach.md) helicopter crash site.
+- The [Zone of Contamination](./Zone%20of%20Contamination.md) was formerly teased as the _Industrial Mine_, but was renamed during its debut.
+- [Sundered Pass](./Sundered%20Pass.md) was formerly teased as _Mountain Pass_, but was renamed during its debut.
 - Base Customization was originally exclusive to this DLC before it was made available for all players as part of free update.
 
 ## Gallery
 
 ### Official Art
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Title Card](../assets/Tales_from_the_far_territory_title.jpg) / *Title Card* | ![Teaser for the Handheld Shortwave Radio](../assets/Tales_from_the_far_territory_teaser.jpg) / *Teaser for the Handheld Shortwave Radio* | ![Travois Concept](../assets/Travois_concept.jpg) / *Travois Concept* | ![Ditto](../assets/Travois-in-storm-illustration-comp.jpg) / *Ditto* |
-| ![Zone of Contamination Concept art (formerly named Industrial Mine)](../assets/Industrial_Mine_Concept.jpg) / *Zone of Contamination Concept art (formerly named Industrial Mine)* | ![Concept art of a Poisoned Wolf](../assets/Starving-wolf-mining-region-illustration-comp.jpg) / *Concept art of a [Poisoned Wolf](./Poisoned%20Wolf.md)* | ![Miner Clothing](../assets/Miner%27s_Clothing_Zone_of_Contamination.png) / *Miner Clothing* | ![Cougar Concept Art](../assets/Cougar_Concept_Art.jpg) / *Cougar Concept Art* |
-| ![Sundered Pass](../assets/Mountain_Pass_Concept_Art.jpg) / *Sundered Pass* | ![Sundered Pass Weather Station](../assets/Mountain_Pass_Weather_Station_concept_art.jpg) / *Sundered Pass Weather Station* | ![Cougar Concept](../assets/Cougar_Part_5.jpg) / *Cougar Concept* | ![Safe House Customization Concept Art](../assets/Safe_House_Customization_Concept_Art.jpg) / *Safe House Customization Concept Art* |
+![Title Card](../assets/Tales_from_the_far_territory_title.jpg)
+
+_Title Card_
+
+![Teaser for the Handheld Shortwave Radio](../assets/Tales_from_the_far_territory_teaser.jpg)
+
+_Teaser for the Handheld Shortwave Radio_
+
+![Travois Concept](../assets/Travois_concept.jpg)
+
+_Travois Concept_
+
+![Ditto](../assets/Travois-in-storm-illustration-comp.jpg)
+
+_Ditto_
+
+![Zone of Contamination Concept art (formerly named Industrial Mine)](../assets/Industrial_Mine_Concept.jpg)
+
+_Zone of Contamination Concept art (formerly named Industrial Mine)_
+
+![Concept art of a Poisoned Wolf](../assets/Starving-wolf-mining-region-illustration-comp.jpg)
+
+_Concept art of a [Poisoned Wolf](./Poisoned%20Wolf.md)_
+
+![Miner Clothing](../assets/Miner%27s_Clothing_Zone_of_Contamination.png)
+
+_Miner Clothing_
+
+![Cougar Concept Art](../assets/Cougar_Concept_Art.jpg)
+
+_Cougar Concept Art_
+
+![Sundered Pass](../assets/Mountain_Pass_Concept_Art.jpg)
+
+_Sundered Pass_
+
+![Sundered Pass Weather Station](../assets/Mountain_Pass_Weather_Station_concept_art.jpg)
+
+_Sundered Pass Weather Station_
+
+![Cougar Concept](../assets/Cougar_Part_5.jpg)
+
+_Cougar Concept_
+
+![Safe House Customization Concept Art](../assets/Safe_House_Customization_Concept_Art.jpg)
+
+_Safe House Customization Concept Art_
 
 ### References
-
-**Lua execution error in Module:Navbox function navbox** [ru:Сказки с дальних земель](ru:%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8_%D1%81_%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D1%85_%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C)
 
 ## Notes
 

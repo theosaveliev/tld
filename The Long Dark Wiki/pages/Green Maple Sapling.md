@@ -1,17 +1,12 @@
----
-title: "Green Maple Sapling"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history", "Plants"]
-source: "https://thelongdark.fandom.com/wiki/Green_Maple_Sapling"
----
-
 # Green Maple Sapling
+
+**Categories:** Materials, Pages with update history, Plants · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Green_Maple_Sapling)
 
 **Green Maple Sapling**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Green_Maple_Sapling_icon.png) / *Green\_Maple\_Sapling\_icon.png* |
+|  | ![](../assets/Green_Maple_Sapling_icon.png) / _Green\_Maple\_Sapling\_icon.png_ |
 | Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233) |
 | Wintermute | Yes (Bug?) |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
@@ -40,13 +35,19 @@ Green Maple Saplings can be found in [Episode 2: Luminance Fugue](./Episode%202%
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Maple sapling as it appears on the map](../assets/Maple_sapling.jpg) / *Maple sapling as it appears on the [map](./Map.md)* | ![A growing maple sapling.](../assets/Maple_sapling_growing.png) / *A growing maple sapling.* | ![Old model.](../assets/Green_Maple_Sapling.png) / *Old model.* |
+![Maple sapling as it appears on the map](../assets/Maple_sapling.jpg)
+
+_Maple sapling as it appears on the [map](./Map.md)_
+
+![A growing maple sapling.](../assets/Maple_sapling_growing.png)
+
+_A growing maple sapling._
+
+![Old model.](../assets/Green_Maple_Sapling.png)
+
+_Old model._
 
 ## Update history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.223)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Зеленое кленовое деревце](ru:%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B5_%D0%BA%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%86%D0%B5)

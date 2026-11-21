@@ -1,10 +1,6 @@
----
-title: "Dark Star"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Dark_Star"
----
-
 # Dark Star
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dark_Star)
 
 **Template:spoiler**
 
@@ -17,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Dark_Star"
 | Current | Dark Star |
 | Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 
-> “**Records from Blackrock's official archive have escaped their vault. Find and read the bloody pages to learn more about the notorious maximum security prison.**”
+> “__Records from Blackrock's official archive have escaped their vault. Find and read the bloody pages to learn more about the notorious maximum security prison.__”
 >
 > — In-game description
 
@@ -37,5 +33,3 @@ To start the mission, the player must find any of four [Archival Report](./Archi
 - [Volume B](./Archival%20Report.md#Volume_B) is inside the prison transport bus that is near the [work bench](./Work%20Bench.md) on the Blackrock Prison grounds.
 - [Volume C](./Archival%20Report.md#Volume_C) is on a desk inside the [Old Substation](./Old%20Substation.md).
 - [Volume D](./Archival%20Report.md#Volume_D) is on the [work bench](./Work%20Bench.md) inside the trailer at [Foreman's Clearcut](./Foreman%27s%20Clearcut.md).
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Sharpening"
-wiki_namespace: 0
-categories: ["Skills"]
-source: "https://thelongdark.fandom.com/wiki/Sharpening"
----
-
 # Sharpening
+
+**Categories:** Skills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sharpening)
 
 **Contents**
 
@@ -26,7 +21,7 @@ Sharpening is only available when viewing a bladed tool in the inventory and is 
 
 ## How to sharpen tools
 
-Sharpening is known as one of the easier skills to train in *[The Long Dark](./The%20Long%20Dark.md)*, as players can increase their skill by repairing any bladed tool.
+Sharpening is known as one of the easier skills to train in _[The Long Dark](./The%20Long%20Dark.md)_, as players can increase their skill by repairing any bladed tool.
 
 Players can sharpen their bladed tools with a whetstone during daylight hours or in the dark.
 
@@ -46,14 +41,14 @@ The player is able to sharpen the following tools to improve their condition:
 
 | Image | Name |
 | --- | --- |
-| ![](../assets/Hatchet_icon.png) / *Hatchet\_icon.png* | [Hatchet](./Hatchet.md) |
-| ![](../assets/Hunting_Knife_icon.png) / *Hunting\_Knife\_icon.png* | [Hunting Knife](./Hunting%20Knife.md) |
-| ![](../assets/Improvised_Hatchet_icon.png) / *Improvised\_Hatchet\_icon.png* | [Improvised Hatchet](./Improvised%20Hatchet.md) |
-| ![](../assets/Improvised_Knife_icon.png) / *Improvised\_Knife\_icon.png* | [Improvised Knife](./Improvised%20Knife.md) |
-| ![](../assets/Cougar_Claw_Knife_icon.png) / *Cougar\_Claw\_Knife\_icon.png* | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) |
-| ![](../assets/Survival_Knife_icon.png) / *Survival\_Knife\_icon.png* | [Survival Knife](./Survival%20Knife.md) |
-| ![](../assets/Scrap_Metal_Shard_icon.png) / *Scrap\_Metal\_Shard\_icon.png* | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) |
-| ![](../assets/Jeremiah%27s_Knife_icon.png) / *Jeremiah's\_Knife\_icon.png* | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) |
+| ![](../assets/Hatchet_icon.png) / _Hatchet\_icon.png_ | [Hatchet](./Hatchet.md) |
+| ![](../assets/Hunting_Knife_icon.png) / _Hunting\_Knife\_icon.png_ | [Hunting Knife](./Hunting%20Knife.md) |
+| ![](../assets/Improvised_Hatchet_icon.png) / _Improvised\_Hatchet\_icon.png_ | [Improvised Hatchet](./Improvised%20Hatchet.md) |
+| ![](../assets/Improvised_Knife_icon.png) / _Improvised\_Knife\_icon.png_ | [Improvised Knife](./Improvised%20Knife.md) |
+| ![](../assets/Cougar_Claw_Knife_icon.png) / _Cougar\_Claw\_Knife\_icon.png_ | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) |
+| ![](../assets/Survival_Knife_icon.png) / _Survival\_Knife\_icon.png_ | [Survival Knife](./Survival%20Knife.md) |
+| ![](../assets/Scrap_Metal_Shard_icon.png) / _Scrap\_Metal\_Shard\_icon.png_ | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) |
+| ![](../assets/Jeremiah%27s_Knife_icon.png) / _Jeremiah's\_Knife\_icon.png_ | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) |
 
 ## Skill levels
 
@@ -81,5 +76,3 @@ Note: the table shown above, contains information related to the hatchet. Sharpe
 ## Trivia
 
 - The sharpening mechanic was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298), also known as the Timberwolf Mountain update.
-
-**Lua execution error in Module:Navbox function navbox**

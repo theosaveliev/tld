@@ -1,17 +1,12 @@
----
-title: "Cured Birch Sapling"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cured_Birch_Sapling"
----
-
 # Cured Birch Sapling
+
+**Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cured_Birch_Sapling)
 
 **Cured Birch Sapling**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cured_Birch_Sapling_icon.png) / *Cured\_Birch\_Sapling\_icon.png* |
+|  | ![](../assets/Cured_Birch_Sapling_icon.png) / _Cured\_Birch\_Sapling\_icon.png_ |
 | Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -34,13 +29,19 @@ The player can use a [Hunting Knife](./Hunting%20Knife.md) or Hatchet (or their 
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![A birch sapling near several birch trees old](../assets/20170705181527_1.jpg) / *A birch sapling near several birch trees old* | ![A growing birch sapling old](../assets/Green_birch_sapling_growing.png) / *A growing birch sapling old* | ![A birch sapling as it appears on the map](../assets/Birch_Sapling.jpg) / *A birch sapling as it appears on the [map](./Map.md)* |
+![A birch sapling near several birch trees old](../assets/20170705181527_1.jpg)
+
+_A birch sapling near several birch trees old_
+
+![A growing birch sapling old](../assets/Green_birch_sapling_growing.png)
+
+_A growing birch sapling old_
+
+![A birch sapling as it appears on the map](../assets/Birch_Sapling.jpg)
+
+_A birch sapling as it appears on the [map](./Map.md)_
 
 ## Update history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.223)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Сухая молодая береза](ru:%D0%A1%D1%83%D1%85%D0%B0%D1%8F_%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F_%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%B0)

@@ -1,11 +1,6 @@
----
-title: "Pleasant Valley"
-wiki_namespace: 0
-categories: ["Regions"]
-source: "https://thelongdark.fandom.com/wiki/Pleasant_Valley"
----
-
 # Pleasant Valley
+
+**Categories:** Regions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pleasant_Valley)
 
 **Contents**
 
@@ -20,27 +15,27 @@ source: "https://thelongdark.fandom.com/wiki/Pleasant_Valley"
 
 | Property | Details |
 | --- | --- |
-|  | ![Pleasant Valley Outbuildings](../assets/Pleasant_Valley_title_card.png) / *[Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)* |
+|  | ![Pleasant Valley Outbuildings](../assets/Pleasant_Valley_title_card.png) / _[Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Pleasant_Valley_Location.png) / *Pleasant\_Valley\_Location.png* |
-|  | ![](../assets/Pleasant_valley_map.png) / *Pleasant\_valley\_map.png* |
+|  | ![](../assets/Pleasant_Valley_Location.png) / _Pleasant\_Valley\_Location.png_ |
+|  | ![](../assets/Pleasant_valley_map.png) / _Pleasant\_valley\_map.png_ |
 | **Details** |  |
 | Description | A large open farmland basin surrounded by mountains on all sides, with a very ironic name. |
-| Connecting Regions | [Timberwolf Mountain](./Timberwolf%20Mountain.md), / [Coastal Highway](./Coastal%20Highway.md), / [Mystery Lake](./Mystery%20Lake%20%28region%29.md) *(via [Winding River](./Winding%20River.md))*, / [Blackrock](./Blackrock.md) *(via [Keeper's Pass South](./Keeper%27s%20Pass%20South.md))* |
+| Connecting Regions | [Timberwolf Mountain](./Timberwolf%20Mountain.md), / [Coastal Highway](./Coastal%20Highway.md), / [Mystery Lake](./Mystery%20Lake%20%28region%29.md) _(via [Winding River](./Winding%20River.md))_, / [Blackrock](./Blackrock.md) _(via [Keeper's Pass South](./Keeper%27s%20Pass%20South.md))_ |
 | Difficulty | Advanced |
 | Interloper Region Spawn | Yes |
 | Locations | 33 |
 | Date Added | Feb 2015 |
 
-> “**For advanced players. A challenging, vast mountain wilderness region with a few key shelters, originally settled by hardy homesteaders.**”
+> “__For advanced players. A challenging, vast mountain wilderness region with a few key shelters, originally settled by hardy homesteaders.__”
 >
 > — - In game description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **You're not from around here, are you? Whoever named this area "Pleasant Valley" had a pretty good sense of humour. We get some of the harshest weather on all of Great Bear.**
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __You're not from around here, are you? Whoever named this area "Pleasant Valley" had a pretty good sense of humour. We get some of the harshest weather on all of Great Bear.__
 
 Father Thomas
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Pleasant Valley** is the 3rd [Region](./Region.md) in *[The Long Dark](./The%20Long%20Dark.md)* and is one of the most central regions of [Great Bear Island](./Great%20Bear%20Island.md).
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Pleasant Valley** is the 3rd [Region](./Region.md) in _[The Long Dark](./The%20Long%20Dark.md)_ and is one of the most central regions of [Great Bear Island](./Great%20Bear%20Island.md).
 
 The region is a massive rural agriculture comprised of farmland and orchards, surrounded by forested rolling hills filled with coal mining, caves, waterfalls and the harshest [Weather](./Weather.md) on [Great Bear Island](./Great%20Bear%20Island.md). Pleasant Valley is also notable for hosting a large Birch Forest as well as a [Passenger Plane](./Crash%20Site%20%28Pleasant%20Valley%29.md) downed by the [Aurora](./First%20Flare.md).
 
@@ -86,20 +81,98 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) located northwest of the C
 
 ### Maps
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A detailed map of Pleasant Valley v2.35 (spoilers)](../assets/PV_map_default.png) / *A detailed map of Pleasant Valley v2.35 (spoilers)* | ![A detailed map of Pleasant Valley v2.35 (Loper/Misery edition, spoilers)](../assets/PV_map_loper.png) / *A detailed map of Pleasant Valley v2.35 (Loper/Misery edition, spoilers)* | ![](../assets/1901570789_preview_Map-PleasantValley-EP3-spoil-Fixv162-05.png) / *1901570789\_preview\_Map-PleasantValley-EP3-spoil-Fixv162-05.png* | ![](../assets/Pleasant_Valley_map_by_Sniper_Bob.jpg) / *Pleasant\_Valley\_map\_by\_Sniper\_Bob.jpg* |
-| ![](../assets/Map-PleasantValley-SV-spoil-Fixv169.png) / *Map-PleasantValley-SV-spoil-Fixv169.png* | ![](../assets/Pleasant_valley_map.png) / *Pleasant\_valley\_map.png* | ![](../assets/MAP-ingame-PV-v160-Eng.jpg) / *MAP-ingame-PV-v160-Eng.jpg* |  |
+![A detailed map of Pleasant Valley v2.35 (spoilers)](../assets/PV_map_default.png)
+
+_A detailed map of Pleasant Valley v2.35 (spoilers)_
+
+![A detailed map of Pleasant Valley v2.35 (Loper/Misery edition, spoilers)](../assets/PV_map_loper.png)
+
+_A detailed map of Pleasant Valley v2.35 (Loper/Misery edition, spoilers)_
+
+![](../assets/1901570789_preview_Map-PleasantValley-EP3-spoil-Fixv162-05.png)
+
+_1901570789\_preview\_Map-PleasantValley-EP3-spoil-Fixv162-05.png_
+
+![](../assets/Pleasant_Valley_map_by_Sniper_Bob.jpg)
+
+_Pleasant\_Valley\_map\_by\_Sniper\_Bob.jpg_
+
+![](../assets/Map-PleasantValley-SV-spoil-Fixv169.png)
+
+_Map-PleasantValley-SV-spoil-Fixv169.png_
+
+![](../assets/Pleasant_valley_map.png)
+
+_Pleasant\_valley\_map.png_
+
+![](../assets/MAP-ingame-PV-v160-Eng.jpg)
+
+_MAP-ingame-PV-v160-Eng.jpg_
 
 ### Locations
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A view showing the expansive Pleasant Valley. Pleasant Valley outbuildings can be seen in the distance.](../assets/Pleasant_Valley_landscape.jpg) / *A view showing the expansive Pleasant Valley. [Pleasant Valley outbuildings](./Pleasant%20Valley%20Outbuildings.md) can be seen in the distance.* | ![A snow-covered Tractor found commonly near the farms](../assets/Tractor.jpg) / *A snow-covered Tractor found commonly near the farms* | ![](../assets/Pensive_Pond.jpg) / *Pensive\_Pond.jpg* | ![](../assets/Picnic_Spot.jpg) / *Picnic\_Spot.jpg* |
-| ![](../assets/Rural_Crossroads.jpg) / *Rural\_Crossroads.jpg* | ![](../assets/Cascading_Falls.jpg) / *Cascading\_Falls.jpg* | ![](../assets/Lower_Falls.jpg) / *Lower\_Falls.jpg* | ![](../assets/Skeeter%27s_Ridge.jpg) / *Skeeter's\_Ridge.jpg* |
-| ![](../assets/Pleasant_Valley_Outbuildings.jpg) / *Pleasant\_Valley\_Outbuildings.jpg* | ![](../assets/Pleasant_Valley_Farmstead.jpg) / *Pleasant\_Valley\_Farmstead.jpg* | ![](../assets/Heartbreak_Bridge.jpg) / *Heartbreak\_Bridge.jpg* | ![](../assets/Contemplation_Bridge.jpg) / *Contemplation\_Bridge.jpg* |
-| ![](../assets/Derelict_Cabins.jpg) / *Derelict\_Cabins.jpg* | ![](../assets/End_of_the_Road.jpg) / *End\_of\_the\_Road.jpg* | ![](../assets/Draft_Dodger%27s_Cabin.jpg) / *Draft\_Dodger's\_Cabin.jpg* | ![](../assets/Signal_Hill.jpg) / *Signal\_Hill.jpg* |
+![A view showing the expansive Pleasant Valley. Pleasant Valley outbuildings can be seen in the distance.](../assets/Pleasant_Valley_landscape.jpg)
 
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Отрадная долина](ru:%D0%9E%D1%82%D1%80%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0)
+_A view showing the expansive Pleasant Valley. [Pleasant Valley outbuildings](./Pleasant%20Valley%20Outbuildings.md) can be seen in the distance._
+
+![A snow-covered Tractor found commonly near the farms](../assets/Tractor.jpg)
+
+_A snow-covered Tractor found commonly near the farms_
+
+![](../assets/Pensive_Pond.jpg)
+
+_Pensive\_Pond.jpg_
+
+![](../assets/Picnic_Spot.jpg)
+
+_Picnic\_Spot.jpg_
+
+![](../assets/Rural_Crossroads.jpg)
+
+_Rural\_Crossroads.jpg_
+
+![](../assets/Cascading_Falls.jpg)
+
+_Cascading\_Falls.jpg_
+
+![](../assets/Lower_Falls.jpg)
+
+_Lower\_Falls.jpg_
+
+![](../assets/Skeeter%27s_Ridge.jpg)
+
+_Skeeter's\_Ridge.jpg_
+
+![](../assets/Pleasant_Valley_Outbuildings.jpg)
+
+_Pleasant\_Valley\_Outbuildings.jpg_
+
+![](../assets/Pleasant_Valley_Farmstead.jpg)
+
+_Pleasant\_Valley\_Farmstead.jpg_
+
+![](../assets/Heartbreak_Bridge.jpg)
+
+_Heartbreak\_Bridge.jpg_
+
+![](../assets/Contemplation_Bridge.jpg)
+
+_Contemplation\_Bridge.jpg_
+
+![](../assets/Derelict_Cabins.jpg)
+
+_Derelict\_Cabins.jpg_
+
+![](../assets/End_of_the_Road.jpg)
+
+_End\_of\_the\_Road.jpg_
+
+![](../assets/Draft_Dodger%27s_Cabin.jpg)
+
+_Draft\_Dodger's\_Cabin.jpg_
+
+![](../assets/Signal_Hill.jpg)
+
+_Signal\_Hill.jpg_
 
 [es:Valle apacible](es:Valle_apacible) [fr:Vallée Charmante](fr:Vall%C3%A9e_Charmante)

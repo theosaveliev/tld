@@ -1,17 +1,12 @@
----
-title: "Insulated Boots"
-wiki_namespace: 0
-categories: ["Clothing"]
-source: "https://thelongdark.fandom.com/wiki/Insulated_Boots"
----
-
 # Insulated Boots
+
+**Categories:** Clothing · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Insulated_Boots)
 
 **Insulated Boots**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Insulated_Boots_icon.png) / *Insulated\_Boots\_icon.png* |
+|  | ![](../assets/Insulated_Boots_icon.png) / _Insulated\_Boots\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Outer feet |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Insulated_Boots"
 | Harvest | 1 × [Cured leather](./Cured%20Leather.md) / 90 minutes |
 | Repair | 1 × [Cured leather](./Cured%20Leather.md), / 1 × [Cloth](./Cloth.md) / 90 minutes / 30% condition |
 
-> “**Highly waterproof boots made of synthetic materials. The felt inner liner keeps your feet nice and warm. Their bulk will slow you down.**”
+> “__Highly waterproof boots made of synthetic materials. The felt inner liner keeps your feet nice and warm. Their bulk will slow you down.__”
 >
 > — In-game description
 
-**Insulated Boots** are a type of [Clothing](./Clothing.md) footwear in *The Long Dark*.
+**Insulated Boots** are a type of [Clothing](./Clothing.md) footwear in _The Long Dark_.
 
 ## Overview
 
@@ -39,8 +34,14 @@ The rare [Mukluks](./Mukluks.md) are half a degree colder and 10% less waterproo
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Old model.](../assets/Insulated_boots_%28historical%29.png) / *Old model.* | ![Clothing model icon](../assets/Insulated_Boots_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Insulated_Boots_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Old model.](../assets/Insulated_boots_%28historical%29.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Прорезиненная\_обувь](ru:%D0%9F%D1%80%D0%BE%D1%80%D0%B5%D0%B7%D0%B8%D0%BD%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D1%83%D0%B2%D1%8C) [fr:bottes isolées](fr:bottes_isol%C3%A9es) [ru:Прорезиненная обувь](ru:%D0%9F%D1%80%D0%BE%D1%80%D0%B5%D0%B7%D0%B8%D0%BD%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D1%83%D0%B2%D1%8C)
+_Old model._
+
+![Clothing model icon](../assets/Insulated_Boots_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Insulated_Boots_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_

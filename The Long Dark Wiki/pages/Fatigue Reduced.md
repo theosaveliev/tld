@@ -1,17 +1,12 @@
----
-title: "Fatigue Reduced"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Fatigue_Reduced"
----
-
 # Fatigue Reduced
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fatigue_Reduced)
 
 **Fatigue Reduced**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fatigue_Reduced_icon.png) / *Fatigue\_Reduced\_icon.png* |
+|  | ![](../assets/Fatigue_Reduced_icon.png) / _Fatigue\_Reduced\_icon.png_ |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | Consuming [Food And Drink](./Food%20And%20Drink.md)/[First Aid](./First%20Aid.md) |
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Fatigue_Reduced"
 | Type | Benefit |
 | Benefit Duration | See chart below |
 
-> “**You're feeling more wakeful and energized. Temporarily reduces your Fatigue.**”
+> “__You're feeling more wakeful and energized. Temporarily reduces your Fatigue.__”
 >
 > — In-game description
 
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Fatigue_Reduced"
 
 ## Overview
 
-Upon consumption of specific items, the player's [Fatigue](./Fatigue.md) is immediately restored by a set percentage and the player gains the *Fatigue Reduced* affliction. This buff lasts for a set period of time (dependant on the item consumed), lowering the overall rate of Fatigue loss and reducing the amount of Fatigue used while sprinting. *Fatigue Reduced* does not affect the rate of Fatigue loss when [Rope Climbing](./Rope%20Climbing.md).
+Upon consumption of specific items, the player's [Fatigue](./Fatigue.md) is immediately restored by a set percentage and the player gains the _Fatigue Reduced_ affliction. This buff lasts for a set period of time (dependant on the item consumed), lowering the overall rate of Fatigue loss and reducing the amount of Fatigue used while sprinting. _Fatigue Reduced_ does not affect the rate of Fatigue loss when [Rope Climbing](./Rope%20Climbing.md).
 
 | Item | Initial Fatigue Reduction | Fatigue Loss Rate | Duration | Duration w/ Feat[¹](#fn1) |
 | --- | --- | --- | --- | --- |
@@ -39,14 +34,12 @@ Upon consumption of specific items, the player's [Fatigue](./Fatigue.md) is imme
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old icon.](../assets/Fatigue_reduced.png) / *Old icon.* |
+![Old icon.](../assets/Fatigue_reduced.png)
 
-**Lua execution error in Module:Navbox function navbox**[ru:Сниженная усталость](ru:%D0%A1%D0%BD%D0%B8%D0%B6%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%83%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D1%8C)
+_Old icon._
 
 ## Notes
 
 ---
 
-1. The [Feat](./Feats.md) "Straight To the Heart" increases the duration of *Fatigue Reduced* given by these items by 25%.[↩︎](#fnref1)
+1. The [Feat](./Feats.md) "Straight To the Heart" increases the duration of _Fatigue Reduced_ given by these items by 25%.[↩︎](#fnref1)

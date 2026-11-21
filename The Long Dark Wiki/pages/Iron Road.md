@@ -1,10 +1,6 @@
----
-title: "Iron Road"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Iron_Road"
----
-
 # Iron Road
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Iron_Road)
 
 **Contents**
 
@@ -29,13 +25,13 @@ source: "https://thelongdark.fandom.com/wiki/Iron_Road"
 
 ![](../assets/Iron_Road_logo.png)
 
-*Iron\_Road\_logo.png*
+_Iron\_Road\_logo.png_
 
-> “**Welcome to Cauldron Island. Lost to history, hiding a mystery. A vast northern chain of islands with 100km+ of railway winding its way across the craggy and desolate landscape, and the abandoned remnants of a once-thriving whaling industry there for you to discover.**”
+> “__Welcome to Cauldron Island. Lost to history, hiding a mystery. A vast northern chain of islands with 100km+ of railway winding its way across the craggy and desolate landscape, and the abandoned remnants of a once-thriving whaling industry there for you to discover.__”
 >
 > — Restore and activate a century-old train to travel deep along this forgotten caldera to uncover a dark secret. What you discover in the end will change how you survive in this Aurora-bathed world, forever. Official Marketing
 
-***Iron Road*** is [downloadable content](./The%20Long%20Dark.md#Downloadable_Addon_Content) for *[The Long Dark](./The%20Long%20Dark.md)*. It is the Second expansion to the [Survival Mode](./Survival%20Mode.md) portion of the game, and will be released in 5 major parts over the course of several years.
+**_Iron Road_** is [downloadable content](./The%20Long%20Dark.md#Downloadable_Addon_Content) for _[The Long Dark](./The%20Long%20Dark.md)_. It is the Second expansion to the [Survival Mode](./Survival%20Mode.md) portion of the game, and will be released in 5 major parts over the course of several years.
 
 Early Access launched October 27th, 2026 on Steam only. Updates are planned to be a balance of small and large updates. News regarding other platforms is to be announced.
 
@@ -43,9 +39,9 @@ Early Access launched October 27th, 2026 on Steam only. Updates are planned to b
 
 ![Cauldron Island](../assets/Cauldron_Island_Logo.png)
 
-*Cauldron Island*
+_Cauldron Island_
 
-> “**A century ago, a rich industrialist named Hamish McLeod harnessed the unique properties of Cauldron Island with a plan for economic domination through whale-oil powered technology. But this history was erased, and the dark truth about how things went wrong has been hidden in the past. Until now.**”
+> “__A century ago, a rich industrialist named Hamish McLeod harnessed the unique properties of Cauldron Island with a plan for economic domination through whale-oil powered technology. But this history was erased, and the dark truth about how things went wrong has been hidden in the past. Until now.__”
 >
 > — Get to Cauldron Island and uncover the truth. Follow the path laid by Alice McLeod, his great-granddaughter, who came here to crack the mystery of her family legacy. Because uncovering the mystery of Cauldron Island is core to your survival in this new Aurora-blasted world. And the journey Alice started is yours to complete. Official Marketing
 
@@ -153,19 +149,62 @@ TBA
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![August 2026 teaser for Cauldron Island.](../assets/Tld-august-dev-diary-site-support-img-1.jpg) / *August 2026 teaser for Cauldron Island.* | ![Concept art of the Iron Train](../assets/Iron_Road_Steam_Train_Art.png) / *Concept art of the Iron Train* | ![ditto, of the train's cabin](../assets/Prototype_Train_Concept_Art.png) / *ditto, of the train's cabin* | ![Ditto](../assets/IronRoadTrainTrestle.png) / *Ditto* |
-| ![Concept of the Fulmar Boat](../assets/Iron_Road_Boat_Art_2.png) / *Concept of the Fulmar Boat* | ![ditto](../assets/Fulmar_Loading_Screen.png) / *ditto* | ![ditto](../assets/Fulmar_Loading_Screen_2.png) / *ditto* | ![ditto](../assets/Iron_Road_Boat_Art.png) / *ditto* |
-| ![ditto](../assets/Fulmar_Loading_Screen_3.png) / *ditto* | ![](../assets/Iron_Road_Train_Tracks.png) / *Iron\_Road\_Train\_Tracks.png* | ![](../assets/Iron_Road_Decorations.png) / *Iron\_Road\_Decorations.png* | ![](../assets/Iron_Road_Seal_and_Seagull.png) / *Iron\_Road\_Seal\_and\_Seagull.png* |
-| ![](../assets/Iron_Road_Clothing_Logo.png) / *Iron\_Road\_Clothing\_Logo.png* |  |  |  |
+![August 2026 teaser for Cauldron Island.](../assets/Tld-august-dev-diary-site-support-img-1.jpg)
+
+_August 2026 teaser for Cauldron Island._
+
+![Concept art of the Iron Train](../assets/Iron_Road_Steam_Train_Art.png)
+
+_Concept art of the Iron Train_
+
+![ditto, of the train's cabin](../assets/Prototype_Train_Concept_Art.png)
+
+_ditto, of the train's cabin_
+
+![Ditto](../assets/IronRoadTrainTrestle.png)
+
+_Ditto_
+
+![Concept of the Fulmar Boat](../assets/Iron_Road_Boat_Art_2.png)
+
+_Concept of the Fulmar Boat_
+
+![ditto](../assets/Fulmar_Loading_Screen.png)
+
+_ditto_
+
+![ditto](../assets/Fulmar_Loading_Screen_2.png)
+
+_ditto_
+
+![ditto](../assets/Iron_Road_Boat_Art.png)
+
+_ditto_
+
+![ditto](../assets/Fulmar_Loading_Screen_3.png)
+
+_ditto_
+
+![](../assets/Iron_Road_Train_Tracks.png)
+
+_Iron\_Road\_Train\_Tracks.png_
+
+![](../assets/Iron_Road_Decorations.png)
+
+_Iron\_Road\_Decorations.png_
+
+![](../assets/Iron_Road_Seal_and_Seagull.png)
+
+_Iron\_Road\_Seal\_and\_Seagull.png_
+
+![](../assets/Iron_Road_Clothing_Logo.png)
+
+_Iron\_Road\_Clothing\_Logo.png_
 
 ## References
 
 &lt;div class="references-small" ;"&gt;
 
 ## Links
-
-[Hinterland.com Iron Road Roadmap](https://www.thelongdark.com/iron-road/#early-access-roadmap)**Lua execution error in Module:Navbox function navbox**
 
 [ru:Железная дорога](ru:%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0)

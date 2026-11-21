@@ -1,11 +1,6 @@
----
-title: "Warmth"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Warmth"
----
-
 # Warmth
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Warmth)
 
 **Contents**
 
@@ -38,7 +33,7 @@ It is also important to realize that the brackets are a sliding scale and the ta
 
 In V1.15 the only way to check the 'feels like' temperature is to open the character status window (default 'f' key) however it should be a valuable source of information as a single chevron on the HUD meter could well represent the ability to stay out for hours, or a mere matter of minutes.
 
-**Length of Time from Warm to Freezing for different *feels like* Temperatures (Interloper)**:
+**Length of Time from Warm to Freezing for different _feels like_ Temperatures (Interloper)**:
 
 | Time | Temp | Chevrons |
 | --- | --- | --- |
@@ -46,7 +41,7 @@ In V1.15 the only way to check the 'feels like' temperature is to open the chara
 | 1 hour | -9°C | vv |
 | 30 min | -18°C | vvv |
 
-**Length of Time from Warm to Freezing for different *feels like* Temperatures (Stalker)**:
+**Length of Time from Warm to Freezing for different _feels like_ Temperatures (Stalker)**:
 
 | Time | Temp | Chevrons |
 | --- | --- | --- |
@@ -62,7 +57,7 @@ Hot foods and drinks can be used for extra warmth. When consumed, they bestow bo
 
 When the warmth meter is empty the player enters a state called 'freezing', and condition begins to drain rapidly. The rate of drain is constant regardless of how far below freezing the character is feeling. Even 1° below freezing is enough to maintain the rate at -20% condition each hour. 'Feels like' temperature must be brought above 0°C (32°F) to end this state and stop the condition loss. The [Hypothermia](./Hypothermia.md) affliction will set in after 2 hours of freezing, doubling the rate to -40% per hour. Meaning freezing drains health the fastest of The needs. Surviving more than 3 hours while freezing is unlikely.
 
-***Warning**: Engaging in time accelerated activity (e.g., [carcass harvesting](./Harvesting.md)) while freezing has resulted in many [deaths](./Condition.md) due to this rapid and sudden condition loss.*
+_**Warning**: Engaging in time accelerated activity (e.g., [carcass harvesting](./Harvesting.md)) while freezing has resulted in many [deaths](./Condition.md) due to this rapid and sudden condition loss._
 
 ### Fire
 
@@ -105,5 +100,3 @@ If clothing becomes substantially wet then it will lower the total warmth factor
 - "Heh, wait... I'm so cold I'm...warming up a bit." (Female Survivor)
 - "PHEW! Sure gettin' cold!" (Female Survivor)
 - (Various shivering noises from the player character, sometimes followed by frustrated grunts)
-
-**Lua execution error in Module:Navbox function navbox** [es:Temperatura](es:Temperatura) [ru:Холод](ru:%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4)

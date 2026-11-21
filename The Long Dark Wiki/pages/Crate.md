@@ -1,11 +1,6 @@
----
-title: "Crate"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Crate"
----
-
 # Crate
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crate)
 
 **Contents**
 
@@ -19,9 +14,9 @@ source: "https://thelongdark.fandom.com/wiki/Crate"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| Column 1 \| Column 2 \| Column 3 \| Column 4 \| / \| --- \| --- \| --- \| --- \| / \| ![Large](../assets/Crate_%28large%29.jpg) / *Large* \| ![Medium](../assets/Crate_%28medium%29.jpg) / *Medium* \| ![Small](../assets/CrateSmall.jpg) / *Small* \| ![Wooden](../assets/Wooden_crate_%28small%29.jpg) / *Wooden* \| / \| ![Coal](../assets/Wood_crate_%28small%29.jpg) / *Coal* \|  \|  \|  \| | 250px\]\] |
-| ![Large](../assets/Crate_%28large%29.jpg) / *Large* | ![Medium](../assets/Crate_%28medium%29.jpg) / *Medium* / ![Small](../assets/CrateSmall.jpg) / *Small* / ![Wooden](../assets/Wooden_crate_%28small%29.jpg) / *Wooden* |
-| ![Coal](../assets/Wood_crate_%28small%29.jpg) / *Coal* |  |
+| \[\[File: / ![Large](../assets/Crate_%28large%29.jpg) / _Large_ / ![Medium](../assets/Crate_%28medium%29.jpg) / _Medium_ / ![Small](../assets/CrateSmall.jpg) / _Small_ / ![Wooden](../assets/Wooden_crate_%28small%29.jpg) / _Wooden_ / ![Coal](../assets/Wood_crate_%28small%29.jpg) / _Coal_ | 250px\]\] |
+| ![Large](../assets/Crate_%28large%29.jpg) / _Large_ | ![Medium](../assets/Crate_%28medium%29.jpg) / _Medium_ / ![Small](../assets/CrateSmall.jpg) / _Small_ / ![Wooden](../assets/Wooden_crate_%28small%29.jpg) / _Wooden_ |
+| ![Coal](../assets/Wood_crate_%28small%29.jpg) / _Coal_ |  |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | No |
@@ -80,5 +75,3 @@ Examples of locations where crates are known to contain loot:
 | 2 |  |  | -2% Hatchet |
 | 2 |  |  | -3% Improvised Hatchet |
 | 2 |  |  | -0.5% Heavy Hammer |
-
-**Lua execution error in Module:Navbox function navbox** [ru:Мебель и другие предметы под разбор#Древесина](ru:%D0%9C%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C_%D0%B8_%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B_%D0%BF%D0%BE%D0%B4_%D1%80%D0%B0%D0%B7%D0%B1%D0%BE%D1%80#%D0%94%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%B8%D0%BD%D0%B0)

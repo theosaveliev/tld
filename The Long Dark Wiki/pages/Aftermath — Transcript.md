@@ -1,11 +1,6 @@
----
-title: "Aftermath/Transcript"
-wiki_namespace: 0
-categories: ["Episode 3"]
-source: "https://thelongdark.fandom.com/wiki/Aftermath%2FTranscript"
----
-
 # Aftermath/Transcript
+
+**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Aftermath%2FTranscript)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Aftermath%2FTranscript"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Missions_story_ep3_Aftermath.png) / *Missions\_story\_ep3\_Aftermath.png* |
+|  | ![](../assets/Missions_story_ep3_Aftermath.png) / _Missions\_story\_ep3\_Aftermath.png_ |
 | Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
 | Previous | [Coming Storm/Transcript](./Coming%20Storm%20%E2%80%94%20Transcript.md) |
 | Current | Aftermath/Transcript |
@@ -38,7 +33,7 @@ CHAPTER FOUR
 
 AFTERMATH
 
-*As Astrid makes her way to the [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md), the [Receiver](./Receiver.md) rings at the entrance again and Astrid picks it up.*
+_As Astrid makes her way to the [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md), the [Receiver](./Receiver.md) rings at the entrance again and Astrid picks it up._
 
 [Astrid Greenwood](./Astrid%20Greenwood.md): "Hello, Molly."
 
@@ -80,35 +75,35 @@ Astrid: "A radio? But...why'd you wait so long to tell me?"
 
 Molly: "Well, I didn't know if I'd work. And...also. Girl gets lonely out here, I guess. It was nice to have someone to talk to."
 
-*Molly hangs up, and Astrid does in suit. The blizzard that Father Thomas mentioned would arrive has finally come, and Astrid risks her life to make her way to [Signal Hill](./Signal%20Hill.md) in the whiteout.*
+_Molly hangs up, and Astrid does in suit. The blizzard that Father Thomas mentioned would arrive has finally come, and Astrid risks her life to make her way to [Signal Hill](./Signal%20Hill.md) in the whiteout._
 
 ## Go to Signal Hill.
 
-*Astrid arrives outside the door of the radio shack, and sees another dead Convict in the snow with an arrow in his back*
+_Astrid arrives outside the door of the radio shack, and sees another dead Convict in the snow with an arrow in his back_
 
 Astrid: "More bodies, Molly?"
 
-*She steps inside and warms herself up*
+_She steps inside and warms herself up_
 
 Astrid: "Can only hope the radio in here is in better shape than everything else in the valley."
 
 ## Use the Radio.
 
-*She finds a shortwave radio and attempts to get it working, fiddling with power and knobs but getting no response*
+_She finds a shortwave radio and attempts to get it working, fiddling with power and knobs but getting no response_
 
-Astrid: "Yup. The radio's sure dead. Well, that trip was a waste." *She sees a nearby bunk bed* "I should get some shut-eye, and strike off for the mine Father Tom mentioned in the morning. It's time to say bye to Pleasant Valley."
+Astrid: "Yup. The radio's sure dead. Well, that trip was a waste." _She sees a nearby bunk bed_ "I should get some shut-eye, and strike off for the mine Father Tom mentioned in the morning. It's time to say bye to Pleasant Valley."
 
-*Astrid goes to sleep, but awakes later that night to the power and electronics around her buzzing with energy and life*
+_Astrid goes to sleep, but awakes later that night to the power and electronics around her buzzing with energy and life_
 
 Astrid: "The radio...it's working!"
 
-*She rushes to the radio*
+_She rushes to the radio_
 
 Astrid: "Damn! Why can't I get anything..."
 
 [Radio Voice Man](./Characters.md#Radio_Voice_Man): "...\[static\]...Come in this is...Perseverance Mills."
 
-*Astrid grabs the microphone and attempts to contact the Mills, but to no avail*
+_Astrid grabs the microphone and attempts to contact the Mills, but to no avail_
 
 Astrid: "Hello? Can anyone hear me?"
 
@@ -122,7 +117,7 @@ Radio Voice Man: "We need...help... There's some kind of...quarantine...situatio
 
 Mackenzie: "Hello?"
 
-*Astrid realizes Mackenzie is on the line*
+_Astrid realizes Mackenzie is on the line_
 
 Astrid: "Mackenzie."
 
@@ -138,17 +133,17 @@ Astrid: "Shit, I can hear him but he can't hear me."
 
 Radio Voice Man: "We're cut off."
 
-*Astrid gives up attempting to use the radio, realizing she can't get a message out*
+_Astrid gives up attempting to use the radio, realizing she can't get a message out_
 
 Astrid: "You're alive. Dammit Mackenzie...you're alive. And on your way to Perseverance Mills. I've got to get there."
 
 ## Enter the mine and leave Pleasant Valley
 
-*Astrid gets up, and hears a [Receiver](./Receiver.md) ring nearby*
+_Astrid gets up, and hears a [Receiver](./Receiver.md) ring nearby_
 
 Astrid: "electricity...must be reacting to the lights in the sky."
 
-*She answers it.*
+_She answers it._
 
 Astrid: "What is it, Molly?"
 
@@ -188,7 +183,7 @@ Molly: "All of them. We've been in the background, in the shadows. Invisible. Ov
 
 Astrid: "I'm not sure revenge is the answer, Molly."
 
-Molly: "Ha! Maybe not. But it'll do for now." *Molly breaths a sigh of relief* "It feels good to be on this side of the hunt. So I'm making up for lost time. Take care of yourself, Doctor."
+Molly: "Ha! Maybe not. But it'll do for now." _Molly breaths a sigh of relief_ "It feels good to be on this side of the hunt. So I'm making up for lost time. Take care of yourself, Doctor."
 
 Astrid: "You too, Molly."
 
@@ -200,92 +195,90 @@ Molly: "Then I hope to never meet him. It's been good talking with you, Astrid. 
 
 Astrid: "Thank you, Molly. I hope you can find some peace too."
 
-*Molly hangs up, and Astrid hangs up the phone. Astrid then journeys through the still raging blizzard and then walks into the abandoned mine. The aurora fading in the sky and replaced with nothing but the wind and snow as the journey continues*
+_Molly hangs up, and Astrid hangs up the phone. Astrid then journeys through the still raging blizzard and then walks into the abandoned mine. The aurora fading in the sky and replaced with nothing but the wind and snow as the journey continues_
 
 ## Find a way through the mine tunnels.
 
 Astrid: "Uh, looks iffy..."
 
-*Astrid starts walking deeper into the mine, as another earthquake rocks the island*
+_Astrid starts walking deeper into the mine, as another earthquake rocks the island_
 
 Astrid: "It's a mine alright...air is thick."
 
-*Astrid walks deeper into the mine, and finds a barred up section of the mine*
+_Astrid walks deeper into the mine, and finds a barred up section of the mine_
 
 Astrid: "Dead end...right. Have to find another way."
 
-*Astrid finds another path and then continues moving forward*
+_Astrid finds another path and then continues moving forward_
 
 Astrid: "No way to know how deep it goes."
 
-*Another light earthquake rocks the mine, followed by another. Small rocks begin falling from the celling with each tremor. Finally, as Astrid is walking across some wooden planks, a massive earthquake causes her to stop as the ceiling collapses and she falls through the floor.*
+_Another light earthquake rocks the mine, followed by another. Small rocks begin falling from the celling with each tremor. Finally, as Astrid is walking across some wooden planks, a massive earthquake causes her to stop as the ceiling collapses and she falls through the floor._
 
 Astrid: "No, NO!"
 
-*Astrid wakes up, buried in rocks and pushes them off her, finding the mine's artificial lights turned on by an aurora. She is in a deeper section of the mine*
+_Astrid wakes up, buried in rocks and pushes them off her, finding the mine's artificial lights turned on by an aurora. She is in a deeper section of the mine_
 
 Astrid: "Ok, nothing broken, still breathing."
 
-*Astrid walks around and sees a partially collapsed path ahead*
+_Astrid walks around and sees a partially collapsed path ahead_
 
 Astrid: "I can probably duck under those rocks..."
 
-*She continues on her path as another earthquake rocks the mine, large stones falling from the ceiling. She eventually comes across a pool of water spiking with electricity from downed live wires. She safely crosses to the other side, only for another light earthquake to rock the mine. Eventually she finds a powered elevator*
+_She continues on her path as another earthquake rocks the mine, large stones falling from the ceiling. She eventually comes across a pool of water spiking with electricity from downed live wires. She safely crosses to the other side, only for another light earthquake to rock the mine. Eventually she finds a powered elevator_
 
 Astrid: "This elevator looks like the only way out of here."
 
-*The elevator will not move, even when the floor buttons are pressed*
+_The elevator will not move, even when the floor buttons are pressed_
 
 ## Find a way to fix the elevator
 
-*Astrid then begins tracing the power to the elevator, and finds several [Fuse Boxes](./Fuse%20Box.md) with [Burned Out Fuses](./Burned%20Out%20Fuse.md).*
+_Astrid then begins tracing the power to the elevator, and finds several [Fuse Boxes](./Fuse%20Box.md) with [Burned Out Fuses](./Burned%20Out%20Fuse.md)._
 
 Astrid: "Hmm. Needs fuses."
 
-*She finds many [Replacement Fuses](./Replacement%20Fuse.md) and fixes 3 Fuse Boxes after braving through more electrified water, earthquakes, and live wires*
+_She finds many [Replacement Fuses](./Replacement%20Fuse.md) and fixes 3 Fuse Boxes after braving through more electrified water, earthquakes, and live wires_
 
 Astrid: "Last one, assuming they work."
 
-*She manages to leave via the elevator, and walks a good while until she finally finds an exit to the mine.*
+_She manages to leave via the elevator, and walks a good while until she finally finds an exit to the mine._
 
 Astrid: "Phew...a way out, finally."
 
-*Stepping outside, a final cutscene plays. Astrid she sees the highway, as well as a dead pod of Orca whales on the ocean ice. A beached fishing vessel is present along the ice as well*
+_Stepping outside, a final cutscene plays. Astrid she sees the highway, as well as a dead pod of Orca whales on the ocean ice. A beached fishing vessel is present along the ice as well_
 
 Astrid: "What...the...hell."
 
-*Astrid begins walking down the hill, seeing and hearing crows over the dead pod*
+_Astrid begins walking down the hill, seeing and hearing crows over the dead pod_
 
 Astrid: "The world is changing...has changed. The aurora. The weather. The wildlife. It somehow feels like Mother Nature is crying out. Or maybe she's warning us of what's to come. People like Molly, or Father Tom, or the crash survivors...They're just the ones left behind."
 
-*Scene changes to show Molly smoking, then Father Thomas, then the Crash Survivors*
+_Scene changes to show Molly smoking, then Father Thomas, then the Crash Survivors_
 
 Astrid: "damaged people. The hopeful and the hopeless."
 
-*Scene pans over the crashed passenger plane*
+_Scene pans over the crashed passenger plane_
 
 Astrid: "What will this new world do to them? Will it make them harder? Will it break them?"
 
-*Scene changes to show [Molly's Husband's](./Molly%27s%20Husband.md) arm, then the [Old Schoolhouse](./Old%20Schoolhouse.md)*
+_Scene changes to show [Molly's Husband's](./Molly%27s%20Husband.md) arm, then the [Old Schoolhouse](./Old%20Schoolhouse.md)_
 
 Astrid: "I'm not sure I can help them."
 
-*Scene changes to the radio at Signal Hill*
+_Scene changes to the radio at Signal Hill_
 
 Astrid: "And I don't know what I'll find when I get to where I'm going."
 
-*Scene changes to show [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md)*
+_Scene changes to show [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md)_
 
 Astrid: "But what I do know is this. Mackenzie is alive, and he's heading to [Perseverance Mills](./Perseverance%20Mills.md)."
 
-*Scene changes to show the dead Orca whale pod on the ice of [Coastal Highway](./Coastal%20Highway.md), with crows circling over their bodies*
+_Scene changes to show the dead Orca whale pod on the ice of [Coastal Highway](./Coastal%20Highway.md), with crows circling over their bodies_
 
 Astrid: "And that means...I have to get there before it's too late."
 
-*Scene changes to show Astrid walking down the highway to [Crumbling Highway](./Crumbling%20Highway.md), with the aurora suddenly appearing in the sky*
+_Scene changes to show Astrid walking down the highway to [Crumbling Highway](./Crumbling%20Highway.md), with the aurora suddenly appearing in the sky_
 
 Astrid: "I may not be able to stop this darkness from coming. But I'll be damned if I'm going to let it happen without a fight."
 
-*Credits for the episode roll*
-
-The story continues in [Prologue/Transcript](./Prologue%20%E2%80%94%20Transcript.md) **Lua execution error in Module:Navbox function navbox**
+_Credits for the episode roll_

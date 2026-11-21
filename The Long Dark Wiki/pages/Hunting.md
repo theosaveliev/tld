@@ -1,11 +1,6 @@
----
-title: "Hunting"
-wiki_namespace: 0
-categories: ["Gameplay", "Wildlife"]
-source: "https://thelongdark.fandom.com/wiki/Hunting"
----
-
 # Hunting
+
+**Categories:** Gameplay, Wildlife · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunting)
 
 **Contents**
 
@@ -36,19 +31,19 @@ source: "https://thelongdark.fandom.com/wiki/Hunting"
 - [Carcasses](#carcasses)
 - [Drowning](#drowning)
 
-> “**M - What can you tell me about hunting?  
+> “__M - What can you tell me about hunting?  
  J - Trick is to spot your target, get as close as you can, take a shot, and don't miss.  
  M - That all?  
  J - Pretty much. A few years of practice and you might have a clue.  
- **”
+ __”
 >
 > — [Will Mackenzie](./Will%20Mackenzie.md) and [Jeremiah](./Jeremiah.md) discussing Hunting
 
-**Hunting** [Wildlife](./Wildlife.md) is the process of searching for, stalking, and killing animals to harvest their flesh/hides and acquire [food](./Food%20And%20Drink.md) or crafting materials in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Hunting** [Wildlife](./Wildlife.md) is the process of searching for, stalking, and killing animals to harvest their flesh/hides and acquire [food](./Food%20And%20Drink.md) or crafting materials in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
-Hunting in *The Long Dark* has been greatly simplified by keeping the animals conspicuous. Very little tracking needs to be done to find animals. Furthermore, while the player can see them from a great distance, all animals seem oblivious to anything farther than 30 meters away. Approaching them is rather easy, especially if one is crouching and not carrying any raw meat, which makes the player "visible" from further away. On top of that, certain [Skills](./Skills.md) can increase the damage output of their respective Weapons.
+Hunting in _The Long Dark_ has been greatly simplified by keeping the animals conspicuous. Very little tracking needs to be done to find animals. Furthermore, while the player can see them from a great distance, all animals seem oblivious to anything farther than 30 meters away. Approaching them is rather easy, especially if one is crouching and not carrying any raw meat, which makes the player "visible" from further away. On top of that, certain [Skills](./Skills.md) can increase the damage output of their respective Weapons.
 
 Large animals ([Deer](./Deer.md), [Cougar](./Cougar.md), [Timberwolf](./Timberwolf.md), [Wolf](./Wolf.md), [Poisoned Wolf](./Poisoned%20Wolf.md), [Bear](./Bear.md), [Moose](./Moose.md)) have 5 areas of their bodies that calculate damage; Head, Neck, Torso, Hips, Limbs. Critical hits responsible for one-hit kills are a mechanic available on every large animal (the small animals are always one-hit kills).
 
@@ -66,12 +61,31 @@ Five ranged weapons currently exist in the game: [Stone](./Stone.md), the [Hunti
 
 ### Hunting Rifle
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Hunting Rifle](../assets/Hunting_Rifle_icon.png) / *[Hunting Rifle](./Hunting%20Rifle.md)* | ![Barb's Rifle](../assets/Barb%27s_Rifle_icon.png) / *[Barb's Rifle](./Barb%27s%20Rifle.md)* | ![Bunker Rifle](../assets/Bunker_Rifle_icon.png) / *[Bunker Rifle](./Bunker%20Rifle.md)* | ![Curator's Rifle](../assets/Curator%27s_Rifle_icon.png) / *[Curator's Rifle](./Curator%27s%20Rifle.md)* |
-| ![Vaughn's Rifle](../assets/Vaughn%27s_Rifle_icon.png) / *[Vaughn's Rifle](./Vaughn%27s%20Rifle.md)* | ![Hunting Lodge Rifle cut weapon](../assets/Hunting_Lodge_Rifle_icon.png) / *[Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) cut weapon* |  |  |
+![Hunting Rifle](../assets/Hunting_Rifle_icon.png)
 
-![Rifle sights](../assets/Rifle_sighted.png)*Rifle sights*The [Hunting Rifle](./Hunting%20Rifle.md) is an offensive tool used to fire [Rifle Ammunition](./Rifle%20Ammunition.md) at targets. The high velocity rounds travel in a straight line and cause massive internal injuries to the first object they encounter, potentially killing animals instantly if aimed at the head. If the round fails to cause internal injuries sufficient enough to kill instantly, the round will still result in a bleeding wound that will kill the animal eventually, just more slowly. Expended rounds will be dropped next to the player as [Rifle Shell Casings](./Rifle%20Shell%20Casing.md) which can be picked up and used to craft new Rifle Ammunition at an Ammunition Workbench (found exclusively at [Last Resort Cannery](./Last%20Resort%20Cannery.md) in [Bleak Inlet](./Bleak%20Inlet.md) and the [Blackrock Penitentiary](./Blackrock%20Prison.md) workshop in [Blackrock](./Blackrock.md)). In Survival Mode, the effectiveness of a Hunting Rifle is improved by increasing the [Rifle Firearm](./Rifle%20Firearm.md) skill.
+_[Hunting Rifle](./Hunting%20Rifle.md)_
+
+![Barb's Rifle](../assets/Barb%27s_Rifle_icon.png)
+
+_[Barb's Rifle](./Barb%27s%20Rifle.md)_
+
+![Bunker Rifle](../assets/Bunker_Rifle_icon.png)
+
+_[Bunker Rifle](./Bunker%20Rifle.md)_
+
+![Curator's Rifle](../assets/Curator%27s_Rifle_icon.png)
+
+_[Curator's Rifle](./Curator%27s%20Rifle.md)_
+
+![Vaughn's Rifle](../assets/Vaughn%27s_Rifle_icon.png)
+
+_[Vaughn's Rifle](./Vaughn%27s%20Rifle.md)_
+
+![Hunting Lodge Rifle cut weapon](../assets/Hunting_Lodge_Rifle_icon.png)
+
+_[Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) cut weapon_
+
+![Rifle sights](../assets/Rifle_sighted.png)_Rifle sights_The [Hunting Rifle](./Hunting%20Rifle.md) is an offensive tool used to fire [Rifle Ammunition](./Rifle%20Ammunition.md) at targets. The high velocity rounds travel in a straight line and cause massive internal injuries to the first object they encounter, potentially killing animals instantly if aimed at the head. If the round fails to cause internal injuries sufficient enough to kill instantly, the round will still result in a bleeding wound that will kill the animal eventually, just more slowly. Expended rounds will be dropped next to the player as [Rifle Shell Casings](./Rifle%20Shell%20Casing.md) which can be picked up and used to craft new Rifle Ammunition at an Ammunition Workbench (found exclusively at [Last Resort Cannery](./Last%20Resort%20Cannery.md) in [Bleak Inlet](./Bleak%20Inlet.md) and the [Blackrock Penitentiary](./Blackrock%20Prison.md) workshop in [Blackrock](./Blackrock.md)). In Survival Mode, the effectiveness of a Hunting Rifle is improved by increasing the [Rifle Firearm](./Rifle%20Firearm.md) skill.
 
 - Hitting a fleshy target will produce a blood spray effect.
 - Hitting a solid target will produce a smoke effect often accompanied with a "clank" sound.
@@ -79,9 +93,21 @@ Five ranged weapons currently exist in the game: [Stone](./Stone.md), the [Hunti
 
 ### Survival Bow
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Survival Bow](../assets/Survival_Bow_icon.png) / *[Survival Bow](./Survival%20Bow.md)* | ![Woodwright's Bow](../assets/Woodwright%27s_Bow_icon.png) / *[Woodwright's Bow](./Woodwright%27s%20Bow.md)* | ![Sport Bow](../assets/Sport_Bow_icon.png) / *[Sport Bow](./Sport%20Bow.md)* | ![Bushcraft Bow](../assets/Bushcraft_Bow_icon.png) / *[Bushcraft Bow](./Bushcraft%20Bow.md)* |
+![Survival Bow](../assets/Survival_Bow_icon.png)
+
+_[Survival Bow](./Survival%20Bow.md)_
+
+![Woodwright's Bow](../assets/Woodwright%27s_Bow_icon.png)
+
+_[Woodwright's Bow](./Woodwright%27s%20Bow.md)_
+
+![Sport Bow](../assets/Sport_Bow_icon.png)
+
+_[Sport Bow](./Sport%20Bow.md)_
+
+![Bushcraft Bow](../assets/Bushcraft_Bow_icon.png)
+
+_[Bushcraft Bow](./Bushcraft%20Bow.md)_
 
 The [Survival Bow](./Survival%20Bow.md) is a craftable tool used to launch [Simple Arrows](./Simple%20Arrow.md), [Manufactured Arrows](./Manufactured%20Arrow.md) or [Fire Hardened Arrows](./Fire%20Hardened%20Arrow.md) at targets. Its variants ([Woodwright's Bow](./Woodwright%27s%20Bow.md) and [Sport Bow](./Sport%20Bow.md)) cannot be crafted but function the same as an ordinal Survival Bow. Simple Arrows are the only craftable arrow type that can take down Large Animals. Manufactured Arrows deal a lot more damage than Simple Arrows but cannot be crafted and have to be traded with the Trader. They also cannot be harvested for parts used to craft more arrows; once they reach 0% condition and break, the Broken Manufactured Arrows that takes their place is useless. Fire Hardened Arrows are also craftable and useful for killing Rabbits and Ptarmigan, but cannot be used to kill larger animals (they will scare them away if fired at them).
 
@@ -96,9 +122,21 @@ In Survival Mode, the effectiveness of the bow, its swaying and the ability to c
 
 ### Revolver
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Revolver](../assets/Revolver_icon.png) / *[Revolver](./Revolver.md)* | ![Forester's Revolver](../assets/Forester%27s_Revolver_icon.png) / *[Forester's Revolver](./Forester%27s%20Revolver.md)* | ![Hunter's Revolver](../assets/Hunter%27s_Revolver_icon.png) / *[Hunter's Revolver](./Hunter%27s%20Revolver.md)* | ![Warden's Revolver](../assets/Warden%27s_Revolver_icon.png) / *[Warden's Revolver](./Warden%27s%20Revolver.md)* |
+![Revolver](../assets/Revolver_icon.png)
+
+_[Revolver](./Revolver.md)_
+
+![Forester's Revolver](../assets/Forester%27s_Revolver_icon.png)
+
+_[Forester's Revolver](./Forester%27s%20Revolver.md)_
+
+![Hunter's Revolver](../assets/Hunter%27s_Revolver_icon.png)
+
+_[Hunter's Revolver](./Hunter%27s%20Revolver.md)_
+
+![Warden's Revolver](../assets/Warden%27s_Revolver_icon.png)
+
+_[Warden's Revolver](./Warden%27s%20Revolver.md)_
 
 A handgun that is much lighter than the Hunting Rifle, but its ammunition is much smaller and is useful for more defensive situations, a [Revolver](./Revolver.md) and its variants ([Forester's Revolver](./Forester%27s%20Revolver.md), [Hunter's Revolver](./Hunter%27s%20Revolver.md), [Warden's Revolver](./Warden%27s%20Revolver.md)) can be used to hunt if desperate enough. While [Revolver Ammunition](./Revolver%20Ammunition.md) is abundant, the Revolver has a much smaller chance to instantly kill wildlife compared to the rifle or bow, regardless of the [Revolver Firearm](./Revolver%20Firearm.md) skill level. That said, even a single wound dealt by the revolver will still cause animals to bleed out, but over a longer period of time compared to rifle rounds or arrows. Even head shots do not guarantee a kill when hunting deer and wolves with the Revolver. Using the Revolver as a hunting tool requires patience and tracking.
 
@@ -106,9 +144,9 @@ Killing smaller animals like Rabbits and Ptarmigan can be much easier (albeit a 
 
 ### Stones
 
-| Column 1 |
-| --- |
-| ![Stone](../assets/Stone_icon.png) / *[Stone](./Stone.md)* |
+![Stone](../assets/Stone_icon.png)
+
+_[Stone](./Stone.md)_
 
 A basic tool that can be found lying around outdoors and in caves, [Stones](./Stone.md) are useful early game tools used to hunt small game, and can be used even in late game to preserve Ammunition for projectile weapons. Its utility for hunting is somewhat limited, however Stones are able to temporarily stun [Rabbits](./Rabbit.md) and [Ptarmigan](./Ptarmigan.md) if the Stone hits their body. The player must then quickly run up and grab the stunned animal where they are given a choice to either release or break its neck. Ptarmigan that are hunted unsuccessfully with Stones will always flee the area and not return for 1-4 days, whereas Rabbits will slowly return to their designated spots after being frightened away.
 
@@ -116,9 +154,9 @@ Stones are unable to injure larger game, but still have some use to alter their 
 
 ### Distress Pistol
 
-| Column 1 |
-| --- |
-| ![Distress Pistol](../assets/Distress_Pistol_icon.png) / *[Distress Pistol](./Distress%20Pistol.md)* |
+![Distress Pistol](../assets/Distress_Pistol_icon.png)
+
+_[Distress Pistol](./Distress%20Pistol.md)_
 
 The lack of proper sights and the low arc of shots fired from this weapon make it a relatively poor choice for a hunting tool. However, if a [Flare Shell](./Flare%20Shell.md) fired from it manages to connect with target wildlife, it will cause wounds that bleed out quickly.
 
@@ -127,9 +165,9 @@ The lack of proper sights and the low arc of shots fired from this weapon make i
 
 ### Noisemakers
 
-| Column 1 |
-| --- |
-| ![Noisemaker](../assets/Noisemaker_icon.png) / *[Noisemaker](./Noisemaker.md)* |
+![Noisemaker](../assets/Noisemaker_icon.png)
+
+_[Noisemaker](./Noisemaker.md)_
 
 An improvised explosive primarily designed to scare hostile wildlife away, [Noisemakers](./Noisemaker.md) make for a very impractical weapon to hunt with (aside from destroying [Cougar](./Cougar.md) dens).
 
@@ -143,9 +181,9 @@ An improvised explosive primarily designed to scare hostile wildlife away, [Nois
 
 ### Using Tools during a Struggle
 
-| Column 1 |
-| --- |
-| ![Knives can be used to damage a Wolf in a Struggle](../assets/Hunting_Knife_icon.png) / *Knives can be used to damage a Wolf in a Struggle* |
+![Knives can be used to damage a Wolf in a Struggle](../assets/Hunting_Knife_icon.png)
+
+_Knives can be used to damage a Wolf in a Struggle_
 
 A very dangerous method that can be used to exclusively hunt Wolves is to allow yourself to be attacked by a Wolf (start a [Struggle](./Struggle.md)) and to use a weapon that can Puncture the beast in order for it to slowly Bleed Out. When a Struggle begins, many Tools normally used for [Carcass Harvesting](./Carcass%20Harvesting.md) or other uses can be used to damage a Wolf as the Struggle is ongoing. Be aware that using Struggles to hunt carries a high risk of Death and Afflictions, including [Torn Clothing](./Torn%20Clothing.md), [Blood Loss](./Blood%20Loss.md), [Infection Risk](./Infection%20Risk.md), [Sprained Ankle](./Sprained%20Ankle.md), [Sprained Wrist](./Sprained%20Wrist.md), [Pain](./Pain.md), and loss of Condition. Higher difficulties will almost certainly result in the player dying from MASSIVE Condition loss by using this method if their Condition is below 80% when a Struggle begins. Using this method also degrades Tool Condition.
 
@@ -159,37 +197,49 @@ Weapon damage is divided into 5 categories: Desperation, Puncture, Slash, Scare,
 
 | Image | Weapon | Damage Type | Damage[¹](#fn1) | Flee Chance[²](#fn2) | Puncture Bleedout | Tool Decay |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Anywhere_icon.png) / *Anywhere\_icon.png* | Bare Hands | Desperation | 0.00% | 1.00% | None | None |
-| ![](../assets/Hunting_Knife_icon.png) / *Hunting\_Knife\_icon.png* | [Hunting Knife](./Hunting%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | High |
-| ![](../assets/Improvised_Knife_icon.png) / *Improvised\_Knife\_icon.png* | [Improvised Knife](./Improvised%20Knife.md) | Puncture | 2.00% | 1.30% | 20 min | Very High |
-| ![](../assets/Scrap_Metal_Shard_icon.png) / *Scrap\_Metal\_Shard\_icon.png* | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) | Puncture | 3.00% | 1.30% | N/A | N/A |
-| ![](../assets/Jeremiah%27s_Knife_icon.png) / *Jeremiah's\_Knife\_icon.png* | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) | Puncture | 3.00% | 1.30% | N/A | N/A |
-| ![](../assets/Cougar_Claw_Knife_icon.png) / *Cougar\_Claw\_Knife\_icon.png* | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | Puncture | 4.00% | 1.30% | 10 min | Low |
-| ![](../assets/Survival_Knife_icon.png) / *Survival\_Knife\_icon.png* | [Survival Knife](./Survival%20Knife.md) | Puncture |  |  |  |  |
-| ![](../assets/Hatchet_icon.png) / *Hatchet\_icon.png* | [Hatchet](./Hatchet.md) | Slashing | 4.00% | 1.50% | 30 min | High |
-| ![](../assets/Improvised_Hatchet_icon.png) / *Improvised\_Hatchet\_icon.png* | [Improvised Hatchet](./Improvised%20Hatchet.md) | Slashing | 3.00% | 1.25% | 40 min | Very High |
-| ![](../assets/Prybar_icon.png) / *Prybar\_icon.png* | [Prybar](./Prybar.md) | Scare | 1.25% | 1.50% | None | Medium |
-| ![](../assets/Heavy_Hammer_icon.png) / *Heavy\_Hammer\_icon.png* | [Heavy Hammer](./Heavy%20Hammer.md) | Scare | 2.00% | 4.00% | None | Very Low |
-| ![](../assets/Revolver_icon.png) / *Revolver\_icon.png* | [Revolver](./Revolver.md)[³](#fn3) | Strike | 1.00% | 1.00% | None | Low |
-| ![](../assets/Forester%27s_Revolver_icon.png) / *Forester's\_Revolver\_icon.png* | [Forester's Revolver](./Forester%27s%20Revolver.md)[⁴](#fn4) | Strike | 1.00% | 1.00% | None | Low |
-| ![](../assets/Hunter%27s_Revolver_icon.png) / *Hunter's\_Revolver\_icon.png* | [Hunter's Revolver](./Hunter%27s%20Revolver.md)[⁵](#fn5) | Strike | 1.00% | 1.00% | None | Low |
-| ![](../assets/Warden%27s_Revolver_icon.png) / *Warden's\_Revolver\_icon.png* | [Warden's Revolver](./Warden%27s%20Revolver.md)[⁶](#fn6) | Strike | 1.00% | 1.00% | None | Low |
+| ![](../assets/Anywhere_icon.png) / _Anywhere\_icon.png_ | Bare Hands | Desperation | 0.00% | 1.00% | None | None |
+| ![](../assets/Hunting_Knife_icon.png) / _Hunting\_Knife\_icon.png_ | [Hunting Knife](./Hunting%20Knife.md) | Puncture | 3.00% | 1.30% | 12 min | High |
+| ![](../assets/Improvised_Knife_icon.png) / _Improvised\_Knife\_icon.png_ | [Improvised Knife](./Improvised%20Knife.md) | Puncture | 2.00% | 1.30% | 20 min | Very High |
+| ![](../assets/Scrap_Metal_Shard_icon.png) / _Scrap\_Metal\_Shard\_icon.png_ | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) | Puncture | 3.00% | 1.30% | N/A | N/A |
+| ![](../assets/Jeremiah%27s_Knife_icon.png) / _Jeremiah's\_Knife\_icon.png_ | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) | Puncture | 3.00% | 1.30% | N/A | N/A |
+| ![](../assets/Cougar_Claw_Knife_icon.png) / _Cougar\_Claw\_Knife\_icon.png_ | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | Puncture | 4.00% | 1.30% | 10 min | Low |
+| ![](../assets/Survival_Knife_icon.png) / _Survival\_Knife\_icon.png_ | [Survival Knife](./Survival%20Knife.md) | Puncture |  |  |  |  |
+| ![](../assets/Hatchet_icon.png) / _Hatchet\_icon.png_ | [Hatchet](./Hatchet.md) | Slashing | 4.00% | 1.50% | 30 min | High |
+| ![](../assets/Improvised_Hatchet_icon.png) / _Improvised\_Hatchet\_icon.png_ | [Improvised Hatchet](./Improvised%20Hatchet.md) | Slashing | 3.00% | 1.25% | 40 min | Very High |
+| ![](../assets/Prybar_icon.png) / _Prybar\_icon.png_ | [Prybar](./Prybar.md) | Scare | 1.25% | 1.50% | None | Medium |
+| ![](../assets/Heavy_Hammer_icon.png) / _Heavy\_Hammer\_icon.png_ | [Heavy Hammer](./Heavy%20Hammer.md) | Scare | 2.00% | 4.00% | None | Very Low |
+| ![](../assets/Revolver_icon.png) / _Revolver\_icon.png_ | [Revolver](./Revolver.md)[³](#fn3) | Strike | 1.00% | 1.00% | None | Low |
+| ![](../assets/Forester%27s_Revolver_icon.png) / _Forester's\_Revolver\_icon.png_ | [Forester's Revolver](./Forester%27s%20Revolver.md)[⁴](#fn4) | Strike | 1.00% | 1.00% | None | Low |
+| ![](../assets/Hunter%27s_Revolver_icon.png) / _Hunter's\_Revolver\_icon.png_ | [Hunter's Revolver](./Hunter%27s%20Revolver.md)[⁵](#fn5) | Strike | 1.00% | 1.00% | None | Low |
+| ![](../assets/Warden%27s_Revolver_icon.png) / _Warden's\_Revolver\_icon.png_ | [Warden's Revolver](./Warden%27s%20Revolver.md)[⁶](#fn6) | Strike | 1.00% | 1.00% | None | Low |
 
 Knives with the Puncture type will lead a Wolf to bleed after the Struggle, cause it to constantly flee and run around until its movements slows down, eventually causing it to die. The Heavy Hammer and the Cougar Claw Knife in particular are well known for causing high amounts of damage, usually killing the Wolf during the Struggle before the bar is full. Revolvers can either kill or scare the Wolf off of you, but are more unreliable methods of killing a Wolf during a Struggle. Other tools generally do not hurt Wolves as badly as Knives and the Heavy Hammer (affectionately nicknamed "Wolf Bonker" by players).
 
 ### Trapping
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Snare](../assets/Snare_icon.png) / *[Snare](./Snare.md)* | ![Fishing Tip-Up](../assets/Fishing_Tip-Up_icon.png) / *[Fishing Tip-Up](./Fishing%20Tip-Up.md)* |
+![Snare](../assets/Snare_icon.png)
+
+_[Snare](./Snare.md)_
+
+![Fishing Tip-Up](../assets/Fishing_Tip-Up_icon.png)
+
+_[Fishing Tip-Up](./Fishing%20Tip-Up.md)_
 
 [Trapping](./Trapping.md) is a passive form of Hunting that involves placing traps to catch small animals. Trapping has its own dedicated page for how to use Snares and Fishing Tip-Ups.
 
 ### Using Wolves to hunt Prey for you
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![A Wolf after hunting a Ptarmigan](../assets/Wolf_eating_Ptarmigan.png) / *A Wolf after hunting a Ptarmigan* | ![A Wolf after hunting a Deer](../assets/Wolf_feeding_on_deer.jpg) / *A Wolf after hunting a Deer* | ![A Wolf chasing a Rabbit](../assets/Wolf_pursuit.jpg) / *A Wolf chasing a Rabbit* |
+![A Wolf after hunting a Ptarmigan](../assets/Wolf_eating_Ptarmigan.png)
+
+_A Wolf after hunting a Ptarmigan_
+
+![A Wolf after hunting a Deer](../assets/Wolf_feeding_on_deer.jpg)
+
+_A Wolf after hunting a Deer_
+
+![A Wolf chasing a Rabbit](../assets/Wolf_pursuit.jpg)
+
+_A Wolf chasing a Rabbit_
 
 The ordinarily dangerous [Wolf](./Wolf.md) can be used to hunt Prey animals for you with enough cunning and planning. Scaring Prey Wildlife into running into the direction of a nearby Wolf will cause the Wolf to stalk and charge the Prey animal. If prey is far away the wolf could be guided towards the prey by grabbing its attention and walking it towards the area of the prey, then crouching. Once the Wolf catches up, the Prey animal instantly dies and the Wolf will begin feeding on it. From here, coming close and aiming a weapon (Stone, Rifle, Revolver, etc) will cause the Wolf to flee, allowing the Carcass to be Harvested. Some meat will be consumed by the Wolf during the process, with more meat being lost the longer you wait to scare the Wolf off of the Carcass.
 
@@ -208,7 +258,7 @@ Crouching allows the player to move more quietly and less visibly, decreasing th
 
 ### Aiming and Shivering
 
-> “**When using a Rifle, a Revolver, or a Distress Pistol, cold temperatures can cause Shivering, affecting your aim.**”
+> “__When using a Rifle, a Revolver, or a Distress Pistol, cold temperatures can cause Shivering, affecting your aim.__”
 >
 > — [Load Screen](./Load%20Screen.md) Description
 
@@ -245,10 +295,10 @@ Below is an example of the Critical Hit chance for a [Wolf](./Wolf.md).
 | Weapon | Critical Hit Chance |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
-| ![](../assets/Hunting_Rifle_icon.png) / *Hunting\_Rifle\_icon.png* | [Hunting Rifle](./Hunting%20Rifle.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
-| ![](../assets/Distress_Pistol_icon.png) / *Distress\_Pistol\_icon.png* | [Distress Pistol](./Distress%20Pistol.md) |  |  |  |  |  |
-| ![](../assets/Survival_Bow_icon.png) / *Survival\_Bow\_icon.png* | [Survival Bow](./Survival%20Bow.md) |  |  |  |  |  |
-| ![](../assets/Revolver_icon.png) / *Revolver\_icon.png* | [Revolver](./Revolver.md) | 40% | 20% | 15% | 5% | 5% |
+| ![](../assets/Hunting_Rifle_icon.png) / _Hunting\_Rifle\_icon.png_ | [Hunting Rifle](./Hunting%20Rifle.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
+| ![](../assets/Distress_Pistol_icon.png) / _Distress\_Pistol\_icon.png_ | [Distress Pistol](./Distress%20Pistol.md) |  |  |  |  |  |
+| ![](../assets/Survival_Bow_icon.png) / _Survival\_Bow\_icon.png_ | [Survival Bow](./Survival%20Bow.md) |  |  |  |  |  |
+| ![](../assets/Revolver_icon.png) / _Revolver\_icon.png_ | [Revolver](./Revolver.md) | 40% | 20% | 15% | 5% | 5% |
 
 ### Graze shots
 
@@ -256,11 +306,11 @@ Shots that only catch the very outside of an animals silhouette may only graze i
 
 ### Bleeding
 
-*Main article: [Hunting rifle#Bleed out time](./Hunting%20Rifle.md#Bleed_out_time)*
+_Main article: [Hunting rifle#Bleed out time](./Hunting%20Rifle.md#Bleed_out_time)_
 
-*Main article: [Survival bow#Bleed out time](./Survival%20Bow.md#Bleed_out_time)*
+_Main article: [Survival bow#Bleed out time](./Survival%20Bow.md#Bleed_out_time)_
 
-![Blood trail](../assets/There_will_be_blood.png)*Blood trail* Other than grazing shots, all hits will cause bleeding wounds that will eventually kill the animal ([moose](./Moose.md) and [cougar](./Cougar.md) excluded). Animals will bleed out according to which area they were shot in last. Bleeding wounds do not stack, meaning that multiple shots to the same area will not reduce bleed-out time. However, shooting an animal in an area of higher blood loss will override a previous shot in a lower blood loss area. The reverse is also true, making it unnecessary to fire at a fleeing animal that has a head wound since it has the fastest bleed out time. [Moose](./Moose.md) and [Cougar](./Cougar.md) do not bleed out and may require multiple shots to kill them.
+![Blood trail](../assets/There_will_be_blood.png)_Blood trail_ Other than grazing shots, all hits will cause bleeding wounds that will eventually kill the animal ([moose](./Moose.md) and [cougar](./Cougar.md) excluded). Animals will bleed out according to which area they were shot in last. Bleeding wounds do not stack, meaning that multiple shots to the same area will not reduce bleed-out time. However, shooting an animal in an area of higher blood loss will override a previous shot in a lower blood loss area. The reverse is also true, making it unnecessary to fire at a fleeing animal that has a head wound since it has the fastest bleed out time. [Moose](./Moose.md) and [Cougar](./Cougar.md) do not bleed out and may require multiple shots to kill them.
 
 The bleed-out timers above elapse even while performing time-accelerated activities. This means that after wounding an animal, you can simply use 'Pass time' via the 'Campcraft' menu to accelerate its death relative to real time, but the animal will also move at an accelerated speed.
 
@@ -285,8 +335,6 @@ Bleeding animals will eventually drop dead, regardless of whether the player is 
 ## Drowning
 
 In some areas (e.g. [Coastal Highway](./Coastal%20Highway.md) or [Desolation Point](./Desolation%20Point.md)) the Rabbits, Deer and Wolves can be directed towards the water. While hunting on the open ice is easier due to the even ground, attention is advised if they get too close to the water. If they run out too far, that animal will simply disappear, probably because of it drowning, resulting in the effort (and maybe a few arrows) going down the drain. If unlucky, deer and wolves may die on the [Weak Ice](./Weak%20Ice.md), so that the player can't harvest the carcasses without risking falling through the Ice.
-
-**Lua execution error in Module:Navbox function navbox**
 
 ## Notes
 

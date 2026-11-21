@@ -1,19 +1,14 @@
----
-title: "Heartbreak Bridge"
-wiki_namespace: 0
-categories: ["Landmarks", "Locations", "Locations in Pleasant Valley", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Heartbreak_Bridge"
----
-
 # Heartbreak Bridge
+
+**Categories:** Landmarks, Locations, Locations in Pleasant Valley, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Heartbreak_Bridge)
 
 **Heartbreak Bridge**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Heartbreak_Bridge.jpg) / *Heartbreak\_Bridge.jpg* |
+|  | ![](../assets/Heartbreak_Bridge.jpg) / _Heartbreak\_Bridge.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Heartbreak_Bridge_Location.png) / *Heartbreak\_Bridge\_Location.png* |
+|  | ![](../assets/Heartbreak_Bridge_Location.png) / _Heartbreak\_Bridge\_Location.png_ |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
 | **General** |  |
 | Type | Landmark\|- |

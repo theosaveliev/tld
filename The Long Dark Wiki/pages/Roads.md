@@ -1,10 +1,6 @@
----
-title: "Roads"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Roads"
----
-
 # Roads
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Roads)
 
 **Contents**
 

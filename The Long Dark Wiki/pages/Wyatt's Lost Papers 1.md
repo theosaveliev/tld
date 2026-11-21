@@ -1,17 +1,12 @@
----
-title: "Wyatt's Lost Papers 1"
-wiki_namespace: 0
-categories: ["Collectibles"]
-source: "https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_1"
----
-
 # Wyatt's Lost Papers 1
+
+**Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_1)
 
 **Wyatt's Lost Papers 1**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Wyatt%27s_Lost_Papers_1_icon.png) / *Wyatt's\_Lost\_Papers\_1\_icon.png* |
+|  | ![](../assets/Wyatt%27s_Lost_Papers_1_icon.png) / _Wyatt's\_Lost\_Papers\_1\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_1"
 
 ## Transcript
 
-*The following text is transcribed from **Wyatt's Lost Papers 1***
+_The following text is transcribed from **Wyatt's Lost Papers 1**_
 
 **I designed these things to save us from threats far away. The other side of the damn world.
 
@@ -36,5 +31,3 @@ But that was the easy part. The real threat was a lot closer. The people we see 
 - Wyatt**
 
 ## Game history
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**

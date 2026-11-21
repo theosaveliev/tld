@@ -1,19 +1,14 @@
----
-title: "No Road Cave"
-wiki_namespace: 0
-categories: ["Blackrock", "Caves", "Locations", "Locations in Blackrock", "Sheltered locations"]
-source: "https://thelongdark.fandom.com/wiki/No_Road_Cave"
----
-
 # No Road Cave
+
+**Categories:** Blackrock, Caves, Locations, Locations in Blackrock, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/No_Road_Cave)
 
 **No Road Cave**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Onewaycave.jpg) / *Onewaycave.jpg* |
+|  | ![](../assets/Onewaycave.jpg) / _Onewaycave.jpg_ |
 | **Location** |  |
-|  | ![](../assets/No_Road_Cave_Location.png) / *No\_Road\_Cave\_Location.png* |
+|  | ![](../assets/No_Road_Cave_Location.png) / _No\_Road\_Cave\_Location.png_ |
 | Region |  |
 | **General** |  |
 | Type | Cave\|- |

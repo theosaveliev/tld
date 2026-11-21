@@ -1,17 +1,12 @@
----
-title: "Medical Locker"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Medical_Locker"
----
-
 # Medical Locker
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Medical_Locker)
 
 **Medical Locker**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Medical_Locker.png) / *Medical\_Locker.png* |
+|  | ![](../assets/Medical_Locker.png) / _Medical\_Locker.png_ |
 | Story item | Yes |
 | **Container** |  |
 | Capacity | 30.00 kg(66 lbs) |
@@ -32,5 +27,3 @@ In Wintermute, the Carter Dam locker is locked and needs the [Aid Station Medica
 Medical Lockers only contain [First Aid](./First%20Aid.md) supplies.
 
 ## Gallery
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Spray Paint - Glyph"
-wiki_namespace: 0
-categories: ["Tools"]
-source: "https://thelongdark.fandom.com/wiki/Spray_Paint_-_Glyph"
----
-
 # Spray Paint \- Glyph
+
+**Categories:** Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Spray_Paint_-_Glyph)
 
 **Contents**
 
@@ -21,13 +16,13 @@ source: "https://thelongdark.fandom.com/wiki/Spray_Paint_-_Glyph"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Spray_Paint_-_Glyph_icon.png) / *Spray\_Paint\_-\_Glyph\_icon.png* |
+|  | ![](../assets/Spray_Paint_-_Glyph_icon.png) / _Spray\_Paint\_-\_Glyph\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.54 kg(1.19 lbs) |
 
-> “**A can of Spray Paint. Can be used to Create Glyphs to protect against the Darkwalker. **”
+> “__A can of Spray Paint. Can be used to Create Glyphs to protect against the Darkwalker. __”
 >
 > — In-game description
 
@@ -55,7 +50,7 @@ The Ward Glyph creates a symbol on the ground that fortifies a small area (200m)
 
 ### Dispel
 
-The Dispel Glyph immediately reduces the progress of the current region's [Toxic Fog](./Toxic%20Fog.md) by 50% of the current buildup (most effective just before Toxic Fog appears). **Useable only o*nce per playthrough.***
+The Dispel Glyph immediately reduces the progress of the current region's [Toxic Fog](./Toxic%20Fog.md) by 50% of the current buildup (most effective just before Toxic Fog appears). **Useable only o_nce per playthrough._**
 
 ### Banish
 
@@ -63,10 +58,8 @@ The Banish Glyph only unlocks once all 10 [On the Nature of Darkwalkers](./On%20
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![The 4 Glyphs](../assets/Glyphs.png) / *The 4 Glyphs* |
+![The 4 Glyphs](../assets/Glyphs.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_The 4 Glyphs_
 
 [ru:Краска для символов](ru:%D0%9A%D1%80%D0%B0%D1%81%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2)

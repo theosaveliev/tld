@@ -1,17 +1,12 @@
----
-title: "Journal Page"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Journal_Page"
----
-
 # Journal Page
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Journal_Page)
 
 **Journal Page**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Journal_Page_icon.png) / *Journal\_Page\_icon.png* |
+|  | ![](../assets/Journal_Page_icon.png) / _Journal\_Page\_icon.png_ |
 | Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Journal_Page"
 
 ## Transcript
 
-*The following text is transcribed from **Journal Page***
+_The following text is transcribed from **Journal Page**_
 
 **I'll keep writing as long as my hands hold up. The old road can't all be broken. I didn't fly in here and there's no way they can make me fly out. No matter what the hell they say is going on.**
 
@@ -35,7 +30,5 @@ source: "https://thelongdark.fandom.com/wiki/Journal_Page"
 
 - UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Страница журнала](ru:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B0)

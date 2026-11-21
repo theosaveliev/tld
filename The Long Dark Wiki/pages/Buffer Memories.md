@@ -1,11 +1,6 @@
----
-title: "Buffer Memories"
-wiki_namespace: 0
-categories: ["Collectibles"]
-source: "https://thelongdark.fandom.com/wiki/Buffer_Memories"
----
-
 # Buffer Memories
+
+**Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Buffer_Memories)
 
 **Contents**
 
@@ -36,7 +31,7 @@ source: "https://thelongdark.fandom.com/wiki/Buffer_Memories"
 - [Reloading Memories](#reloading-memories)
 - [Gallery](#gallery)
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **The Aurora can bring old Computers back to life, restoring old data left in their memory banks. These artifacts provide a glimpse of Great Bear before the lights went out.**
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __The Aurora can bring old Computers back to life, restoring old data left in their memory banks. These artifacts provide a glimpse of Great Bear before the lights went out.__
 
 [Load Screen](./Load%20Screen.md) Description
 
@@ -295,8 +290,6 @@ Computers that are outside, such as the Timberwolf Mountain Chasm Cave laptop, d
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![A computer screen with a buffer memory during the Aurora](../assets/Buffer-memories.gif) / *A computer screen with a buffer memory during the Aurora* |
+![A computer screen with a buffer memory during the Aurora](../assets/Buffer-memories.gif)
 
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Буферные воспоминания](ru:%D0%91%D1%83%D1%84%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D1%81%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F) [es:Datos Temporales](es:Datos_Temporales)
+_A computer screen with a buffer memory during the Aurora_

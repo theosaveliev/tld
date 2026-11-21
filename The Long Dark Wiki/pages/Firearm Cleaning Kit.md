@@ -1,17 +1,12 @@
----
-title: "Firearm Cleaning Kit"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Firearm_Cleaning_Kit"
----
-
 # Firearm Cleaning Kit
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Firearm_Cleaning_Kit)
 
 **Firearm Cleaning Kit**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Firearm_Cleaning_Kit_icon.png) / *Firearm\_Cleaning\_Kit\_icon.png* |
+|  | ![](../assets/Firearm_Cleaning_Kit_icon.png) / _Firearm\_Cleaning\_Kit\_icon.png_ |
 | Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298) |
 | Wintermute | No |
 | Renewable | Yes (Rare [Beachcombing](./Beachcombing.md) and [Trader](./Trader.md)) |
@@ -38,5 +33,3 @@ The Firearm Cleaning Kit, in conjunction with the [Cleaning](./Cleaning.md) Skil
   - Renamed to "Firearm Cleaning Kit".
 - UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Набор для чистки огнестрельного оружия](ru:%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B8_%D0%BE%D0%B3%D0%BD%D0%B5%D1%81%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D1%8F)

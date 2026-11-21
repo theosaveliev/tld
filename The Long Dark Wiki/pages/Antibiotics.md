@@ -1,11 +1,6 @@
----
-title: "Antibiotics"
-wiki_namespace: 0
-categories: ["First Aid"]
-source: "https://thelongdark.fandom.com/wiki/Antibiotics"
----
-
 # Antibiotics
+
+**Categories:** First Aid · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Antibiotics)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Antibiotics"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Antibiotics_icon.png) / *Antibiotics\_icon.png* |
+|  | ![](../assets/Antibiotics_icon.png) / _Antibiotics\_icon.png_ |
 | **General** |  |
 | Item Type | [First Aid](./First%20Aid.md) |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md) and [Trader](./Trader.md)) |
@@ -27,11 +22,11 @@ source: "https://thelongdark.fandom.com/wiki/Antibiotics"
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Unit count | ![unit\_count\_icon.png](../assets/Unit_count_icon.png)6 doses |
 
-> “**A bottle of Antibiotics. Take it to stop infections from spreading.**”
+> “__A bottle of Antibiotics. Take it to stop infections from spreading.__”
 >
 > — In-game description
 
-**Antibiotics** are an artificial medical item used to treat [Afflictions](./Afflictions.md) in *The Long Dark*.
+**Antibiotics** are an artificial medical item used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 
 ## Overview
 
@@ -55,15 +50,13 @@ One dose of Antibiotics consists of 2 Antibiotics pills. A single pill cannot be
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Antibiotics.png) / *old model* |
+![old model](../assets/Antibiotics.png)
+
+_old model_
 
 ## Trivia
 
-- Antibiotics are typically a prescription-grade drug derived from Penicillin, which is the case in *The Long Dark* as they are labeled as "Pharmacillin".
+- Antibiotics are typically a prescription-grade drug derived from Penicillin, which is the case in _The Long Dark_ as they are labeled as "Pharmacillin".
 - In The Long Dark, Antibiotics must be applied directly to treat a specific injury (similar to a Bandage), unlike real-world orally-taken drugs which generally distribute through the body.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Антибиотики](ru:%D0%90%D0%BD%D1%82%D0%B8%D0%B1%D0%B8%D0%BE%D1%82%D0%B8%D0%BA%D0%B8) [fr:Antibiotiques](fr:Antibiotiques)

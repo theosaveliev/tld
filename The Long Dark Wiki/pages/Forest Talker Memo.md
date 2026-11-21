@@ -1,17 +1,12 @@
----
-title: "Forest Talker Memo"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Memo"
----
-
 # Forest Talker Memo
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Talker_Memo)
 
 **Forest Talker Memo**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Forest_Talker_Memo_icon.png) / *Forest\_Talker\_Memo\_icon.png* |
+|  | ![](../assets/Forest_Talker_Memo_icon.png) / _Forest\_Talker\_Memo\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Memo"
 
 ## Transcript
 
-*The following text is transcribed from **Forest Talker Memo***
+_The following text is transcribed from **Forest Talker Memo**_
 
 **\[a leaf of paper -- written as a letter but undated and unsigned\]
 
@@ -44,5 +39,3 @@ The time for half-measures is over.**
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

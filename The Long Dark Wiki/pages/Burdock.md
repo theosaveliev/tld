@@ -1,11 +1,6 @@
----
-title: "Burdock"
-wiki_namespace: 0
-categories: ["Interactable objects", "Plants"]
-source: "https://thelongdark.fandom.com/wiki/Burdock"
----
-
 # Burdock
+
+**Categories:** Interactable objects, Plants · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Burdock)
 
 **Contents**
 
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Burdock"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Burdock_Plant.jpg) / *Burdock\_Plant.jpg* |
+|  | ![](../assets/Burdock_Plant.jpg) / _Burdock\_Plant.jpg_ |
 | Release | 21 June 2023 |
 | Story item | No |
 
@@ -157,8 +152,10 @@ Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![A Burdock plant growing under a waterfall in Blackrock region.](../assets/Burdock_plant.png) / *A Burdock plant growing under a waterfall in Blackrock region.* | ![A spot where a Burdock plant used to grow.](../assets/Burdock_root_hole.png) / *A spot where a Burdock plant used to grow.* |
+![A Burdock plant growing under a waterfall in Blackrock region.](../assets/Burdock_plant.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Лопух](ru:%D0%9B%D0%BE%D0%BF%D1%83%D1%85)
+_A Burdock plant growing under a waterfall in Blackrock region._
+
+![A spot where a Burdock plant used to grow.](../assets/Burdock_root_hole.png)
+
+_A spot where a Burdock plant used to grow._

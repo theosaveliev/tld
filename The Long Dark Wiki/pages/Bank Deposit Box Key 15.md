@@ -1,17 +1,12 @@
----
-title: "Bank Deposit Box Key 15"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_15"
----
-
 # Bank Deposit Box Key 15
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_15)
 
 **Bank Deposit Box Key (#15)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Bank_Deposit_Box_Key_15_icon.png) / *Bank\_Deposit\_Box\_Key\_15\_icon.png* |
+|  | ![](../assets/Bank_Deposit_Box_Key_15_icon.png) / _Bank\_Deposit\_Box\_Key\_15\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Grey Mother](./The%20Grey%20Mother.md) |
 | **Properties** |  |
@@ -33,5 +28,3 @@ The key can be found next to [Hobbs](./Hobbs.md) immediately after the interacti
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

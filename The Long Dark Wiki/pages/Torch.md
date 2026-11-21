@@ -1,11 +1,6 @@
----
-title: "Torch"
-wiki_namespace: 0
-categories: ["Craftable tools", "Fire Starting", "Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Torch"
----
-
 # Torch
+
+**Categories:** Craftable tools, Fire Starting, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Torch)
 
 **Contents**
 
@@ -22,7 +17,7 @@ source: "https://thelongdark.fandom.com/wiki/Torch"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Torch_icon.png) / *Torch\_icon.png* |
+|  | ![](../assets/Torch_icon.png) / _Torch\_icon.png_ |
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -116,13 +111,19 @@ Torches cannot be repaired. They can be 'recycled' by adding them to fires or ha
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Old model - unused](../assets/Torch_-_unused.png) / *Old model - unused* | ![Old model - burning](../assets/Torch_-_Burning.png) / *Old model - burning* | ![Old model - ruined](../assets/Torch.png) / *Old model - ruined* |
+![Old model - unused](../assets/Torch_-_unused.png)
+
+_Old model - unused_
+
+![Old model - burning](../assets/Torch_-_Burning.png)
+
+_Old model - burning_
+
+![Old model - ruined](../assets/Torch.png)
+
+_Old model - ruined_
 
 ## Update history
 
 - UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Фонарь](ru:%D0%A4%D0%BE%D0%BD%D0%B0%D1%80%D1%8C) [es:Antorcha](es:Antorcha)

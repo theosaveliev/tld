@@ -1,11 +1,6 @@
----
-title: "Pinnacle Peaches"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Pinnacle_Peaches"
----
-
 # Pinnacle Peaches
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pinnacle_Peaches)
 
 **Contents**
 
@@ -19,8 +14,8 @@ source: "https://thelongdark.fandom.com/wiki/Pinnacle_Peaches"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Sealed](../assets/Pinnacle_Peaches_icon.png) / *Sealed* \| ![Opened](../assets/Pinnacle_Peaches_%28Opened%29_icon.png) / *Opened* \| / \| --- \| --- \| | 250px\]\] |
-| ![Sealed](../assets/Pinnacle_Peaches_icon.png) / *Sealed* | ![Opened](../assets/Pinnacle_Peaches_%28Opened%29_icon.png) / *Opened* |
+| \[\[File: / ![Sealed](../assets/Pinnacle_Peaches_icon.png) / _Sealed_ / ![Opened](../assets/Pinnacle_Peaches_%28Opened%29_icon.png) / _Opened_ | 250px\]\] |
+| ![Sealed](../assets/Pinnacle_Peaches_icon.png) / _Sealed_ | ![Opened](../assets/Pinnacle_Peaches_%28Opened%29_icon.png) / _Opened_ |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
@@ -39,7 +34,7 @@ source: "https://thelongdark.fandom.com/wiki/Pinnacle_Peaches"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_PinnaclePeaches |
 
-**Pinnacle Peaches** is a packaged [food](./Food%20And%20Drink.md) item in *The Long Dark*.
+**Pinnacle Peaches** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
 ## Overview
 
@@ -53,14 +48,14 @@ Pinnacle Peaches are relatively common inside homes, usually in cupboards or on 
 
 ## Trivia
 
-- Pinnacle Beaches is packaged as the namesake product "*Pinnacle Peaches"*.
+- Pinnacle Beaches is packaged as the namesake product "_Pinnacle Peaches"_.
 - The side of the can lists "Ingredients: Water, Peaches, Sugar."
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model](../assets/Pinnacle_peaches.png) / *Old model* |
+![Old model](../assets/Pinnacle_peaches.png)
+
+_Old model_
 
 ## Update history
 
@@ -69,5 +64,3 @@ Pinnacle Peaches are relatively common inside homes, usually in cupboards or on 
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [fr:Pêches au sirop](fr:P%C3%AAches_au_sirop) [ru:Персики](ru:%D0%9F%D0%B5%D1%80%D1%81%D0%B8%D0%BA%D0%B8)

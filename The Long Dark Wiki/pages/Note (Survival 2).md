@@ -1,17 +1,12 @@
----
-title: "Note (Survival 2)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Note_(Survival_2)"
----
-
 # Note \(Survival 2\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Note_%28Survival_2%29)
 
 **Note (Survival 2)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Note_%28Survival_2%29_icon.png) / *Note\_(Survival\_2)\_icon.png* |
+|  | ![](../assets/Note_%28Survival_2%29_icon.png) / _Note\_(Survival\_2)\_icon.png_ |
 | Release | [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Note_(Survival_2)"
 
 ## Transcript
 
-*The following text is transcribed from **Note***
+_The following text is transcribed from **Note**_
 
 **We broke into the store rooms. There was lots to grab. More than we expected.  
    
@@ -40,7 +35,5 @@ source: "https://thelongdark.fandom.com/wiki/Note_(Survival_2)"
 UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Added to game
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Записка (Здание тюрьмы)](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%28%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D1%82%D1%8E%D1%80%D1%8C%D0%BC%D1%8B%29)

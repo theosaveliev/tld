@@ -1,11 +1,6 @@
----
-title: "Radial Menu"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Radial_Menu"
----
-
 # Radial Menu
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Radial_Menu)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Radial_Menu"
 
 ## Overview
 
-The **Radial Menu** is a feature added in the Tireless Menace Update and was redesigned in the Faithful Cartographer update. Its function is to be a quick, alternative way to select items in your inventory, without having to open the Backpack and manually search for them. With the standard keyboard bindings on PC, the Radial Menu is opened by holding *SPACE*. Most items that cannot be used to interact with the game world will not appear in the Radial Menu.
+The **Radial Menu** is a feature added in the Tireless Menace Update and was redesigned in the Faithful Cartographer update. Its function is to be a quick, alternative way to select items in your inventory, without having to open the Backpack and manually search for them. With the standard keyboard bindings on PC, the Radial Menu is opened by holding _SPACE_. Most items that cannot be used to interact with the game world will not appear in the Radial Menu.
 
 From the top, then rotating clockwise, the menu is sorted into the following categories:
 
@@ -109,5 +104,3 @@ The Campcraft wheel provides quick access to the following items:
 - [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md)
 - [Snare](./Snare.md)
 - [Fishing Tip-Up](./Fishing%20Tip-Up.md)
-
-**Lua execution error in Module:Navbox function navbox**

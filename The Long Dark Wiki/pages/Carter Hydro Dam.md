@@ -1,11 +1,6 @@
----
-title: "Carter Hydro Dam"
-wiki_namespace: 0
-categories: ["Indoor locations", "Industrial locations", "Locations", "Locations in Mystery Lake", "Locations with a workbench"]
-source: "https://thelongdark.fandom.com/wiki/Carter_Hydro_Dam"
----
-
 # Carter Hydro Dam
+
+**Categories:** Indoor locations, Industrial locations, Locations, Locations in Mystery Lake, Locations with a workbench · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Carter_Hydro_Dam)
 
 **Contents**
 
@@ -27,19 +22,19 @@ source: "https://thelongdark.fandom.com/wiki/Carter_Hydro_Dam"
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Exterior](../assets/Carter_Hydro_Dam_Exterior.png) / *Exterior* \| ![Interior](../assets/Carter_Hydro_Dam_Interior.png) / *Interior* \| / \| --- \| --- \| | 250px\]\] |
-| ![Exterior](../assets/Carter_Hydro_Dam_Exterior.png) / *Exterior* | ![Interior](../assets/Carter_Hydro_Dam_Interior.png) / *Interior* |
+| \[\[File: / ![Exterior](../assets/Carter_Hydro_Dam_Exterior.png) / _Exterior_ / ![Interior](../assets/Carter_Hydro_Dam_Interior.png) / _Interior_ | 250px\]\] |
+| ![Exterior](../assets/Carter_Hydro_Dam_Exterior.png) / _Exterior_ | ![Interior](../assets/Carter_Hydro_Dam_Interior.png) / _Interior_ |
 | **Location** |  |
-| ![](../assets/Carter_Hydro_Dam_Location.png) / *Carter\_Hydro\_Dam\_Location.png* |  |
+| ![](../assets/Carter_Hydro_Dam_Location.png) / _Carter\_Hydro\_Dam\_Location.png_ |  |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- / Location |
 | Description | A hydroelectric dam. |
 | **General** |  |
 | Type | Industrial\|- / Firebox |
-| ![](../assets/Workbench_icon_green.png) / *workbench\_icon\_green.png* | Has a workbench\|- |
+| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ | Has a workbench\|- |
 | Missions | [The Wounded Trapper](./Episode%202%20-%20Luminance%20Fugue.md#The_Wounded_Trapper) / [Renewed Hope](./Episode%202%20-%20Luminance%20Fugue.md#Renewed_Hope) |
 | Characters | [Methuselah](./Methuselah.md) / [Mathis](./Mathis.md) |
 
-> “**The old Carter Dam -- it's a mess. Multiple quakes have left it pretty unstable. Nobody really goes in there anymore.**”
+> “__The old Carter Dam -- it's a mess. Multiple quakes have left it pretty unstable. Nobody really goes in there anymore.__”
 >
 > — - [Jeremiah](./Jeremiah.md)
 
@@ -53,7 +48,7 @@ The dam is a vast multi-level complex with many lockers, boxes, drawers, and oth
 
 ## History
 
-The dam was constructed on the Carter River in the 1960s. It was engineered and financed by the industrial magnate Richard Carter, who planned to use it to power a small town he was going to build for his mining workers. Due to seismic activity, and a drop in the price of coal and copper in the late 1960s, the project was nearly abandoned. There were attempts in the 1980s to modernize the dam and bring it back online, but hydrological changes in the [Mystery lake area](./Mystery%20Lake%20%28region%29.md) and public support for a newly created *Mystery Lake Provincial Park* resulted in the dam being "shut down for good" in the late 1990s.[¹](#fn1)
+The dam was constructed on the Carter River in the 1960s. It was engineered and financed by the industrial magnate Richard Carter, who planned to use it to power a small town he was going to build for his mining workers. Due to seismic activity, and a drop in the price of coal and copper in the late 1960s, the project was nearly abandoned. There were attempts in the 1980s to modernize the dam and bring it back online, but hydrological changes in the [Mystery lake area](./Mystery%20Lake%20%28region%29.md) and public support for a newly created _Mystery Lake Provincial Park_ resulted in the dam being "shut down for good" in the late 1990s.[¹](#fn1)
 
 Following [The Collapse](./The%20Collapse.md), there was an unsuccessful attempt to re-open the dam, led by the CEO of Carter Hydro Energy, Robert Clarke.[²](#fn2) A skeleton crew was working in the dam, but were trapped inside by the [Forest Talkers](./Forest%20Talkers.md), an eco-activist group. The workers were reportedly trapped inside the dam for days before mediators were able to extract them. While the incident was not violent, it resulted in the dam remaining closed and has been used as an example by the [Forest Talkers](./Forest%20Talkers.md) to validate their continued work.[³](#fn3)
 
@@ -76,7 +71,7 @@ Outside of the upper dam entrance is a fenced storage yard. On Interloper a [wol
 
 ### Fluffy
 
-In earlier releases of the game, the dam was inhabited by a [wolf](./Wolf.md) dubbed *Fluffy* by The Long Dark community. She would appear in the generator room and--like other wolves in the game--would chase and attack the player. Fluffy would not appear in Pilgrim difficulty and would only appear after a 12 to 24 hour safe period in Voyageur difficulty.[⁴](#fn4)
+In earlier releases of the game, the dam was inhabited by a [wolf](./Wolf.md) dubbed _Fluffy_ by The Long Dark community. She would appear in the generator room and--like other wolves in the game--would chase and attack the player. Fluffy would not appear in Pilgrim difficulty and would only appear after a 12 to 24 hour safe period in Voyageur difficulty.[⁴](#fn4)
 
 Following the update to version 1.0, Fluffy was completely removed from the Survival mode, with developers stating that she had escaped.[⁵](#fn5) In [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of story mode, a dead wolf is found laying in the hallway adjacent to the generator room--possibly some other wolf, less navigationally adept than Fluffy.
 
@@ -106,30 +101,51 @@ The entrance from Winding River is also one-way. It may be accessed through a hi
 
 ## Story
 
-** *SPOILER WARNING*  
- *This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark.* **
+** _SPOILER WARNING_  
+ _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._ **
 
-![The Generator Room in story mode.](../assets/Carter_hydro_dam_in_story_mode.jpg)*The Generator Room in story mode.* The dam plays an important role as a location in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of story mode. In story mode, the dam has a significantly different layout, with walkways across the Generator Room, an elevator, additional rooms, and a staircase leading up to the offices on the floor above the [Mystery Lake](./Mystery%20Lake%20%28region%29.md) entrance level.
+![The Generator Room in story mode.](../assets/Carter_hydro_dam_in_story_mode.jpg)_The Generator Room in story mode._ The dam plays an important role as a location in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of story mode. In story mode, the dam has a significantly different layout, with walkways across the Generator Room, an elevator, additional rooms, and a staircase leading up to the offices on the floor above the [Mystery Lake](./Mystery%20Lake%20%28region%29.md) entrance level.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![The old exterior of the dam](../assets/Carter_Hydro_Dam.jpg) / *The old exterior of the dam* | ![The dam during an aurora](../assets/Carter_Hydro_Dam_Aurora.jpg) / *The dam during an [aurora](./Aurora.md)* | ![Exterior sign](../assets/Carter_hydro_dam_sign.png) / *Exterior sign* | ![Posters inside](../assets/Carter_Hydro_Dam_Posters.jpg) / *Posters inside* |
-| ![Entrance](../assets/Carter_Hydro_Dam_entrance.jpg) / *Entrance* | ![](../assets/MAP-DAM_WR-Lv3-v193-110.png) / *MAP-DAM\_WR-Lv3-v193-110.png* | ![The staging area](../assets/The_Long_Dark_-_episode_2_Carter_Hydro_Dam.png) / *The staging area* |  |
+![The old exterior of the dam](../assets/Carter_Hydro_Dam.jpg)
+
+_The old exterior of the dam_
+
+![The dam during an aurora](../assets/Carter_Hydro_Dam_Aurora.jpg)
+
+_The dam during an [aurora](./Aurora.md)_
+
+![Exterior sign](../assets/Carter_hydro_dam_sign.png)
+
+_Exterior sign_
+
+![Posters inside](../assets/Carter_Hydro_Dam_Posters.jpg)
+
+_Posters inside_
+
+![Entrance](../assets/Carter_Hydro_Dam_entrance.jpg)
+
+_Entrance_
+
+![](../assets/MAP-DAM_WR-Lv3-v193-110.png)
+
+_MAP-DAM\_WR-Lv3-v193-110.png_
+
+![The staging area](../assets/The_Long_Dark_-_episode_2_Carter_Hydro_Dam.png)
+
+_The staging area_
 
 ## References
 
 &lt;div class="references-small" ;"&gt;
 
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:ГЭС\_"Картер"](ru:%D0%93%D0%AD%D0%A1_"%D0%9A%D0%B0%D1%80%D1%82%D0%B5%D1%80")
-
 ## Notes
 
 ---
 
-1. *Place: Carter Hydro Dam*, in-game [Journal](./Journal.md) knowledge[↩︎](#fnref1)
-2. *Carter Hydro Dam -- Safety and Shutdown Notice* [collectible](./Collectibles.md)[↩︎](#fnref2)
+1. _Place: Carter Hydro Dam_, in-game [Journal](./Journal.md) knowledge[↩︎](#fnref1)
+2. _Carter Hydro Dam -- Safety and Shutdown Notice_ [collectible](./Collectibles.md)[↩︎](#fnref2)
 3. 
-4. Steam, *The "Silent Hunter" Update (v.233) -- We've Added Bows &amp; Improved Hunting!*, viewed 22 May 2015, &lt;[http://steamcommunity.com/games/305620/announcements/detail/235656499654813808](http://steamcommunity.com/games/305620/announcements/detail/235656499654813808)&gt;.[↩︎](#fnref4)
+4. Steam, _The "Silent Hunter" Update (v.233) -- We've Added Bows &amp; Improved Hunting!_, viewed 22 May 2015, &lt;[http://steamcommunity.com/games/305620/announcements/detail/235656499654813808](http://steamcommunity.com/games/305620/announcements/detail/235656499654813808)&gt;.[↩︎](#fnref4)
 5. Raphael van Lierop, 4 August 2017, [Tweet](https://twitter.com/RaphLife/status/893315911880290305)[↩︎](#fnref5)

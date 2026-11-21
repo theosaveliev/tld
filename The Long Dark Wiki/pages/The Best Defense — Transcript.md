@@ -1,11 +1,6 @@
----
-title: "The Best Defense/Transcript"
-wiki_namespace: 0
-categories: ["Episode 2"]
-source: "https://thelongdark.fandom.com/wiki/The_Best_Defense%2FTranscript"
----
-
 # The Best Defense/Transcript
+
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Best_Defense%2FTranscript)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Best_Defense%2FTranscript"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Missions_story_ep2_The_Best_Defense.png) / *Missions\_story\_ep2\_The\_Best\_Defense.png* |
+|  | ![](../assets/Missions_story_ep2_The_Best_Defense.png) / _Missions\_story\_ep2\_The\_Best\_Defense.png_ |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
 | Previous | [The Wounded Trapper/Transcript](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md) |
 | Current | The Best Defense/Transcript |
@@ -36,23 +31,23 @@ THE BEST DEFENSE
 
 ## Retrieve the [legendary spear](./Broken%20Bear%20Spear.md) from the [Hunting Lodge](./Hunting%20Lodge.md).
 
-*Mackenzie leaves the [Trapper's Homestead](./Trapper%27s%20Homestead.md) and heads south, entering [Forlorn Muskeg](./Forlorn%20Muskeg.md). He passes through the region without any eventful encounters, aside from a scripted Wolf feeding on a Deer Carcass in the middle of the tracks. He passes through the region into [Broken Railroad](./Broken%20Railroad.md), and navigates around a [Landslide](./Landslide.md), before passing a [Locomotive Engine](./Locomotive%20Engine.md) and walks up a [Train Shuttle](./Train%20Shuttle.md) blocking his way forward, then walks into a broken window. Entering the vehicle, he walks to the grated door and the [Old Bear](./Old%20Bear.md) appears around a tree. It spots Mackenzie, and walks up to the grated door as the pilot slowly backs away from it.*
+_Mackenzie leaves the [Trapper's Homestead](./Trapper%27s%20Homestead.md) and heads south, entering [Forlorn Muskeg](./Forlorn%20Muskeg.md). He passes through the region without any eventful encounters, aside from a scripted Wolf feeding on a Deer Carcass in the middle of the tracks. He passes through the region into [Broken Railroad](./Broken%20Railroad.md), and navigates around a [Landslide](./Landslide.md), before passing a [Locomotive Engine](./Locomotive%20Engine.md) and walks up a [Train Shuttle](./Train%20Shuttle.md) blocking his way forward, then walks into a broken window. Entering the vehicle, he walks to the grated door and the [Old Bear](./Old%20Bear.md) appears around a tree. It spots Mackenzie, and walks up to the grated door as the pilot slowly backs away from it._
 
 Mackenzie: "Oh...shi..."
 
-*The Old Bear sniffs the air and stands on its hind legs, roaring and pressing its entire body through its front legs onto the door. It then pushes the Shuttle over, causing its sole occupant to tumble with it and get knocked out.*
+_The Old Bear sniffs the air and stands on its hind legs, roaring and pressing its entire body through its front legs onto the door. It then pushes the Shuttle over, causing its sole occupant to tumble with it and get knocked out._
 
-***Note** that if the game is currently day, it will turn to night time when Mackenzie wakes up for the next scene.*
+_**Note** that if the game is currently day, it will turn to night time when Mackenzie wakes up for the next scene._
 
-*Mackenzie wakes up outside of the Shuttle with much time having passed, and immediately stares at the sky.*
+_Mackenzie wakes up outside of the Shuttle with much time having passed, and immediately stares at the sky._
 
 Mackenzie: "Look...at the lights."
 
-*The sky is filled with the [Aurora](./Aurora.md), and a nearby lamppost is functioning, bathing the pilot in a white artificial light. Mackenzie steps forward and sees an active campfire*
+_The sky is filled with the [Aurora](./Aurora.md), and a nearby lamppost is functioning, bathing the pilot in a white artificial light. Mackenzie steps forward and sees an active campfire_
 
 Mackenzie: "Is that a campfire?"
 
-*He walks to it and recognizes the familiar man sitting beside it (minus his walking stick), and warms himself by the fire. The hum of the Aurora filling the air.*
+_He walks to it and recognizes the familiar man sitting beside it (minus his walking stick), and warms himself by the fire. The hum of the Aurora filling the air._
 
 Mackenzie: "Y...you again?"
 
@@ -82,7 +77,7 @@ Mackenzie: "This...can't be. It doesn't make sense."
 
 Methuselah: "It doesn't make sense. And yet, it has happened."
 
-*Dialogue options appear*
+_Dialogue options appear_
 
 **White Options**
 
@@ -118,57 +113,57 @@ Mackenzie: "So...you think the aurora is...influencing the wildlife too?"
 
 Methuselah: "There is much in nature we cannot understand. Would it be so strange?"
 
-*After warming himself by the fire and finishing his conversation with the strange old man, Mackenzie turns his attention to a powered truck and more powered lights, heading down the path to a large [Maintenance Yard](./Maintenance%20Yard.md). Several glowing Wolves who become unusually aggressive block his path in the yard, and Mackenzie evades or kills them. The front and back door of the Maintenance Shed is locked, but an office building is open, with the message "THEY HATE THE LIGHT" written above the bed, illumined by an artificial light. Entering the Shed, the overhead lights hum with electricity and several wires burn and smoke on the floors, with Mackenzie avoiding them. A dead [Forest Talker](./Forest%20Talkers.md) lies a room close to the bathroom, with a message ([Forest Talker Flyer](./Forest%20Talker%20Flyer.md)) directing fellow activists to the [Hunting Lodge](./Hunting%20Lodge.md).*
+_After warming himself by the fire and finishing his conversation with the strange old man, Mackenzie turns his attention to a powered truck and more powered lights, heading down the path to a large [Maintenance Yard](./Maintenance%20Yard.md). Several glowing Wolves who become unusually aggressive block his path in the yard, and Mackenzie evades or kills them. The front and back door of the Maintenance Shed is locked, but an office building is open, with the message "THEY HATE THE LIGHT" written above the bed, illumined by an artificial light. Entering the Shed, the overhead lights hum with electricity and several wires burn and smoke on the floors, with Mackenzie avoiding them. A dead [Forest Talker](./Forest%20Talkers.md) lies a room close to the bathroom, with a message ([Forest Talker Flyer](./Forest%20Talker%20Flyer.md)) directing fellow activists to the [Hunting Lodge](./Hunting%20Lodge.md)._
 
-*Mackenzie leaves the Shed, and travels behind it as he follows a trail of lampposts into the mountain. He passes through a gate and continues to follow the lamps, as Wolves avoid the artificial light. He eventually spots the Lodge*
+_Mackenzie leaves the Shed, and travels behind it as he follows a trail of lampposts into the mountain. He passes through a gate and continues to follow the lamps, as Wolves avoid the artificial light. He eventually spots the Lodge_
 
 Mackenzie: "Wow...this must have been really nice, once upon a time."
 
-*He enters the Lodge*
+_He enters the Lodge_
 
 Mackenzie: "Now...to find that spear."
 
-*The Lodge appears messy, with many food supplies scattered and left behind by the Forest Talkers. If Mackenzie enters the basement then he will find a [Flashlight](./Flashlight.md), but will also hear a ringing phone coming from upstairs. Mackenzie picks up the Flashlight, causing a cutscene to occur as he slowly looks it over, cracked lens and all. Returning upstairs as the phone continues to ring and opening the [Phone Box](./Phone%20Box.md), the ringing stops before he can answer the caller.*
+_The Lodge appears messy, with many food supplies scattered and left behind by the Forest Talkers. If Mackenzie enters the basement then he will find a [Flashlight](./Flashlight.md), but will also hear a ringing phone coming from upstairs. Mackenzie picks up the Flashlight, causing a cutscene to occur as he slowly looks it over, cracked lens and all. Returning upstairs as the phone continues to ring and opening the [Phone Box](./Phone%20Box.md), the ringing stops before he can answer the caller._
 
-*By this point, dawn breaks and the lights in the sky begin to fade. Cars and lightbulbs go out, along with the Flashlight's battery. Mackenzie eventually finds the Bear Spear, placed on a mantle above a Fireplace in the kitchen. He takes it into his hands, and notices the shattered spearhead.*
+_By this point, dawn breaks and the lights in the sky begin to fade. Cars and lightbulbs go out, along with the Flashlight's battery. Mackenzie eventually finds the Bear Spear, placed on a mantle above a Fireplace in the kitchen. He takes it into his hands, and notices the shattered spearhead._
 
 Mackenzie: "Damn...looks like one little detail got missed in the trapper's "legend" of the old bear: The spear didn't survive the fight. Must be something I can use to fix it at the old machine shed."
 
 ## Repair the broken spear at the [forge](./Forge.md).
 
-*Mackenzie then travels back to the Maintenance Shed, [Broken Bear Spear](./Broken%20Bear%20Spear.md) in tow, and manages finds several pieces of [Scrap Metal](./Scrap%20Metal.md), a [Heavy Hammer](./Heavy%20Hammer.md), and enough wood to forge a new [Spear Head](./Spear%20Head.md). Mackenzie then lights the [Furnace](./Furnace.md).*
+_Mackenzie then travels back to the Maintenance Shed, [Broken Bear Spear](./Broken%20Bear%20Spear.md) in tow, and manages finds several pieces of [Scrap Metal](./Scrap%20Metal.md), a [Heavy Hammer](./Heavy%20Hammer.md), and enough wood to forge a new [Spear Head](./Spear%20Head.md). Mackenzie then lights the [Furnace](./Furnace.md)._
 
 Mackenzie: "That should do it."
 
-*The screen fades to black, then fades back in with the Furnace hot enough to begin forging.*
+_The screen fades to black, then fades back in with the Furnace hot enough to begin forging._
 
 Mackenzie: "Let's do this."
 
-*Mackenzie then interacts with the Forge. After the player selects the Spear Head and 1.5 hours pass, Mackenzie crafts a Spear Head with materials on hand and inserts it into the Broken Bear Spear offscreen.*
+_Mackenzie then interacts with the Forge. After the player selects the Spear Head and 1.5 hours pass, Mackenzie crafts a Spear Head with materials on hand and inserts it into the Broken Bear Spear offscreen._
 
 Mackenzie: "Guess I can add "blacksmith" to my growing list of skills."
 
-*Mackenzie holds up the [Bear Spear](./Bear%20Spear.md), showing off its restored glory, then puts it away.*
+_Mackenzie holds up the [Bear Spear](./Bear%20Spear.md), showing off its restored glory, then puts it away._
 
 Mackenzie: "Let's hope I don't have to put this spear to the test."
 
 ## Get back to Jeremiah
 
-*Mackenzie then leaves the Maintenance Shed, choosing to craft a set of improvised tools or to just leave. He passes by the spot that Methuselah was the night before, but he is long gone by now and the campfire burned out. The return trip to [Trapper's Homestead](./Trapper%27s%20Homestead.md) is uneventful, as Mackenzie passes through Broken Railroad and the Muskeg with no trouble, until he reaches the transition to Mystery Lake and spots the Old Bear in the nearby mountain.*
+_Mackenzie then leaves the Maintenance Shed, choosing to craft a set of improvised tools or to just leave. He passes by the spot that Methuselah was the night before, but he is long gone by now and the campfire burned out. The return trip to [Trapper's Homestead](./Trapper%27s%20Homestead.md) is uneventful, as Mackenzie passes through Broken Railroad and the Muskeg with no trouble, until he reaches the transition to Mystery Lake and spots the Old Bear in the nearby mountain._
 
-*The bear growls, then lowers its ears in fear, as if sensing the danger of the Bear Spear.*
+_The bear growls, then lowers its ears in fear, as if sensing the danger of the Bear Spear._
 
 Mackenzie: "Ahhh...not feeling so cocky now, huh?"
 
-*The Old Bear begins walking away from Mackenzie*
+_The Old Bear begins walking away from Mackenzie_
 
 Mackenzie: "And all it took was for me to go all full-on Grizzly Adams."
 
-*The Old Bear begins to fully walk away, disinterested in Mackenzie.*
+_The Old Bear begins to fully walk away, disinterested in Mackenzie._
 
 Mackenzie: "I'd better get out of here before he comes back."
 
-*Mackenzie then enters Mystery Lake, and enters the Homestead. Jeremiah is waiting on the cot with a map next to him, looking at Mackenzie as he approaches.*
+_Mackenzie then enters Mystery Lake, and enters the Homestead. Jeremiah is waiting on the cot with a map next to him, looking at Mackenzie as he approaches._
 
 Jeremiah: "Did you find it?"
 
@@ -182,7 +177,7 @@ Jeremiah: "I did! Did you see the lights in the night sky, the aurora? Well, whe
 
 Mackenzie: "Let me guess. You have an "idea"."
 
-*The Trapper smiles and lets out a light chuckle.*
+_The Trapper smiles and lets out a light chuckle._
 
 Jeremiah: "You're starting to get it, Mackenzie. I was digging through some old geological surveys maps..."
 
@@ -224,12 +219,10 @@ Jeremiah: "Watch your back, Mackenzie."
 
 Mackenzie: "What do I have to worry about? I have a legendary 150 year old demon bear hungry for my blood. Bullets don't stop him, but I'm armed with basically a medieval weapon which I'm sure will do the trick. I'm stuck in this winter wasteland while lights in the sky make the power flicker and electronics explode, and the only people I seem to meet are all slightly crazy. And this is all after I crashed my plane deep in the wilderness and somehow lost my my ex-wife along the way, and I'd really kind of like to find her back."
 
-*Jeremiah smirks and smiles at Mackenzie's sarcasm*
+_Jeremiah smirks and smiles at Mackenzie's sarcasm_
 
 Jeremiah: "Don't forget about the wolves."
 
 Mackenzie: "Hmph. Let's get on with it."
 
-*The screen fades to black.*
-
-The story continues in [Signal to Noise/Transcript](./Signal%20to%20Noise%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**
+_The screen fades to black._

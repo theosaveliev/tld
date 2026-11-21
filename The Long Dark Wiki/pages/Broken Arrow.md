@@ -1,23 +1,18 @@
----
-title: "Broken Arrow"
-wiki_namespace: 0
-categories: ["Story items", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Broken_Arrow"
----
-
 # Broken Arrow
+
+**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Broken_Arrow)
 
 **Broken Arrow**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Broken_Arrow_icon.png) / *Broken\_Arrow\_icon.png* |
+|  | ![](../assets/Broken_Arrow_icon.png) / _Broken\_Arrow\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.15 kg(0.33 lbs) |
 | Harvest | 1 × [Arrowhead](./Arrowhead.md) 2 × [Crow Feather](./Crow%20Feather.md) |
 
-> “**A broken arrow. The arrow-head and some of the feathers may be salvageable.**”
+> “__A broken arrow. The arrow-head and some of the feathers may be salvageable.__”
 >
 > — In-game description
 
@@ -36,10 +31,12 @@ Broken arrows can be found in a few places, some locations of note include:
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![All Arrow types, with Fire Hardened Arrows on the left and Simple Arrows on the right.](../assets/Different_Arrow_Types.jpg) / *All Arrow types, with Fire Hardened Arrows on the left and Simple Arrows on the right.* | ![Old model.](../assets/Broken_Arrow.png) / *Old model.* |
+![All Arrow types, with Fire Hardened Arrows on the left and Simple Arrows on the right.](../assets/Different_Arrow_Types.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_All Arrow types, with Fire Hardened Arrows on the left and Simple Arrows on the right._
+
+![Old model.](../assets/Broken_Arrow.png)
+
+_Old model._
 
 [ru:Сломанная стрела](ru:%D0%A1%D0%BB%D0%BE%D0%BC%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%B0)

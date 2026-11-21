@@ -1,11 +1,6 @@
----
-title: "Risk of Intestinal Parasites"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Risk_of_Intestinal_Parasites"
----
-
 # Risk of Intestinal Parasites
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Risk_of_Intestinal_Parasites)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Risk_of_Intestinal_Parasites"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Risk_of_Intestinal_Parasites_icon.png) / *Risk\_of\_Intestinal\_Parasites\_icon.png* |
+|  | ![](../assets/Risk_of_Intestinal_Parasites_icon.png) / _Risk\_of\_Intestinal\_Parasites\_icon.png_ |
 | Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321) |
 | Update | 0.321 |
 | **Properties** |  |
@@ -49,7 +44,7 @@ It is only present when playing the following game modes:
 
 ## Risk
 
-> “**Game meat from carnivorous animals may be infected with parasites.**”
+> “__Game meat from carnivorous animals may be infected with parasites.__”
 >
 > — In-game description
 
@@ -95,8 +90,6 @@ When playing on [Misery](./Misery.md), the [Sour Stomach](./Sour%20Stomach.md) A
 \* UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)):**
 
 - Added to game in Tireless Menace Update.
-
-**Lua execution error in Module:Navbox function navbox**
 
 ## Notes
 

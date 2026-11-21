@@ -1,19 +1,14 @@
----
-title: "Broken Bridge (Broken Railroad location)"
-wiki_namespace: 0
-categories: ["Landmarks", "Locations", "Locations in Broken Railroad", "Outdoor locations", "Sheltered locations"]
-source: "https://thelongdark.fandom.com/wiki/Broken_Bridge_(Broken_Railroad_location)"
----
-
 # Broken Bridge \(Broken Railroad location\)
+
+**Categories:** Landmarks, Locations, Locations in Broken Railroad, Outdoor locations, Sheltered locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Broken_Bridge_%28Broken_Railroad_location%29)
 
 **Broken Bridge**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Broken_bridge3.jpg) / *broken\_bridge3.jpg* |
+|  | ![](../assets/Broken_bridge3.jpg) / _broken\_bridge3.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Broken_Bridge_Location_%28Railroad%29.png) / *Broken\_Bridge\_Location\_(Railroad).png* |
+|  | ![](../assets/Broken_Bridge_Location_%28Railroad%29.png) / _Broken\_Bridge\_Location\_(Railroad).png_ |
 | Region | [Broken Railroad](./Broken%20Railroad.md)\|- |
 | **General** |  |
 | Type | Landmark\|- |

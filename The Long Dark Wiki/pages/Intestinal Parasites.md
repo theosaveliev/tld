@@ -1,11 +1,6 @@
----
-title: "Intestinal Parasites"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Intestinal_Parasites"
----
-
 # Intestinal Parasites
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Intestinal_Parasites)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Intestinal_Parasites"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Intestinal_Parasites_icon.png) / *Intestinal\_Parasites\_icon.png* |
+|  | ![](../assets/Intestinal_Parasites_icon.png) / _Intestinal\_Parasites\_icon.png_ |
 | Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321) |
 | Update | 0.321 |
 | **Properties** |  |
@@ -49,7 +44,7 @@ It is only present when playing the following game modes:
 
 ## Overview
 
-> “**You ate infected meat and now have Intestinal Parasites. Recovery requires multiple daily treatments! You will continue to weaken until treatment has run its full course. \[maximum 1 dose/day.\]**”
+> “__You ate infected meat and now have Intestinal Parasites. Recovery requires multiple daily treatments! You will continue to weaken until treatment has run its full course. \[maximum 1 dose/day.\]__”
 >
 > — In-game description
 
@@ -84,5 +79,3 @@ With a stockpile of Antibiotics/Reishi Tea/Burdock Tea, a strategy is to run the
 
 - UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)):**
 - Added to game in Tireless Menace Update.
-
-**Lua execution error in Module:Navbox function navbox**[ru:Кишечные паразиты](ru:%D0%9A%D0%B8%D1%88%D0%B5%D1%87%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D1%8B)

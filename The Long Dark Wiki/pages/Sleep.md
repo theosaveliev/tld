@@ -1,11 +1,6 @@
----
-title: "Sleep"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Sleep"
----
-
 # Sleep
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sleep)
 
 **Contents**
 
@@ -112,7 +107,7 @@ Drinking [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) or [Birch Bark Tea](.
 
 ### In Interloper
 
-In Interloper experience, recovering condition during sleep is ***seriously***reduced. Each consecutive hour returns usually more % of condition than the previous (check table below), maxed at 5% per hour. Sleeping for 1 hour in any sort of bed besides the cloth bedroll returns 1% of condition. Sleeping 2 hours returns 1% for the first hour and 1% for the second hour totaling 2%. Sleeping 3 hours returns the 2% (1+1) for the first two hours and 2% for the third totaling 4%.
+In Interloper experience, recovering condition during sleep is **_seriously_**reduced. Each consecutive hour returns usually more % of condition than the previous (check table below), maxed at 5% per hour. Sleeping for 1 hour in any sort of bed besides the cloth bedroll returns 1% of condition. Sleeping 2 hours returns 1% for the first hour and 1% for the second hour totaling 2%. Sleeping 3 hours returns the 2% (1+1) for the first two hours and 2% for the third totaling 4%.
 
 **NOTICE**: If you sleep for more than 10h, you're taking Condition damage during the 11th or 12th hour due to Thirst fully draining and you'll actually lose 2% Condition each hour. This makes the sleeping for only 10 hours the best possible way to heal in one session (+32% max possible condition gain).
 
@@ -168,11 +163,11 @@ Some beds confer more of a healing bonus than others. For 10 hours of sleep with
 | Trailers | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) | 37 | The cabins and lookout have the regular restoration (32%) |
 | [Trapper's Homestead](./Trapper%27s%20Homestead.md) | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) | 41 |  |
 | Regular bed |  | 32 | Examples include: all beds in [Pleasant Valley](./Pleasant%20Valley.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md), the beds in [Maintenance Yard](./Maintenance%20Yard.md) |
-| Regular bedroll | *Craftable* | 27 | The [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) has the same condition recovery |
-| Bearskin bedroll | *Craftable* | 32 |  |
-| [Bear Hide Bed](./Bear%20Hide%20Bed.md) | *Craftable* | 64 | Has best restoration of all the beds |
-| [Quilted Bed](./Quilted%20Bed.md) | *Craftable* | 32 | Equivalent to a regular bed |
-| [Rustic Bed](./Rustic%20Bed.md) | *Craftable* | 32 | Equivalent to a regular bed |
+| Regular bedroll | _Craftable_ | 27 | The [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) has the same condition recovery |
+| Bearskin bedroll | _Craftable_ | 32 |  |
+| [Bear Hide Bed](./Bear%20Hide%20Bed.md) | _Craftable_ | 64 | Has best restoration of all the beds |
+| [Quilted Bed](./Quilted%20Bed.md) | _Craftable_ | 32 | Equivalent to a regular bed |
+| [Rustic Bed](./Rustic%20Bed.md) | _Craftable_ | 32 | Equivalent to a regular bed |
 
 ### In non-Interloper difficulty levels
 
@@ -254,8 +249,6 @@ There are many [Afflictions](./Afflictions.md) that impair sleep. [Food Poisonin
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old icon.](../assets/Sleep.png) / *Old icon.* |
+![Old icon.](../assets/Sleep.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Сон](ru:%D0%A1%D0%BE%D0%BD)
+_Old icon._

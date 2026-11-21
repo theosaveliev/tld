@@ -1,17 +1,12 @@
----
-title: "Medicinal Plants of Great Bear (Note)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Medicinal_Plants_of_Great_Bear_(Note)"
----
-
 # Medicinal Plants of Great Bear \(Note\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Medicinal_Plants_of_Great_Bear_%28Note%29)
 
 **Medicinal Plants of Great Bear**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Medicinal_Plants_of_Great_Bear_%28Note%29_icon.png) / *Medicinal\_Plants\_of\_Great\_Bear\_(Note)\_icon.png* |
+|  | ![](../assets/Medicinal_Plants_of_Great_Bear_%28Note%29_icon.png) / _Medicinal\_Plants\_of\_Great\_Bear\_(Note)\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Basics of Survival](./The%20Basics%20of%20Survival.md) |
 | **Properties** |  |
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Medicinal_Plants_of_Great_Bear_(Not
 
 ## Transcript
 
-*The following text is transcribed from **Medicinal Plants of Great Bear***
+_The following text is transcribed from **Medicinal Plants of Great Bear**_
 
 **ANNOUNCEMENT:  
  This came up the last time that Mainland doctor dropped in to see us, and now we're ready to kick it off. To add to our shrinking pharmacy here in town, we'll be keeping an inventory of local plants that might supplement some of our traditional meds. So if you're out in the woods, or even just around town, things to keep an eye out for are the following:  
@@ -46,5 +41,3 @@ Stuart has volunteered to maintain the inventory and record the items as we coll
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

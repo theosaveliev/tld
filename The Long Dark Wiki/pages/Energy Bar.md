@@ -1,11 +1,6 @@
----
-title: "Energy Bar"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Energy_Bar"
----
-
 # Energy Bar
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Energy_Bar)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Energy_Bar"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Energy_Bar_icon.png) / *Energy\_Bar\_icon.png* |
+|  | ![](../assets/Energy_Bar_icon.png) / _Energy\_Bar\_icon.png_ |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
 | Wintermute | No |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
@@ -34,7 +29,7 @@ source: "https://thelongdark.fandom.com/wiki/Energy_Bar"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_EnergyBar |
 
-**Energy Bar** is a packaged [food](./Food%20And%20Drink.md) item in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Energy Bar** is a packaged [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -47,19 +42,17 @@ Energy Bars [decay](./Decay.md) very slowly, especially when outdoors.
 ## Trivia
 
 - Energy Bars do not spawn on Interloper mode.
-- The Energy Bar is packaged as a product called "*Zap Energy Bar"*.
+- The Energy Bar is packaged as a product called "_Zap Energy Bar"_.
 - The ingredients on the back list: "Dates, Almonds, Flax Seeds, Coca Nibs, Honey, Salt, Natural Flavours."
 - The energy bar bears the logo of the in-game company "ZAP." The same logo can be found on the [car battery](./Car%20Battery.md).
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model](../assets/Energy_Bar.png) / *Old model* |
+![Old model](../assets/Energy_Bar.png)
+
+_Old model_
 
 ## Update history
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [es:Barrita energética](es:Barrita_energ%C3%A9tica) [ru:Энергетический батончик](ru:%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%B0%D1%82%D0%BE%D0%BD%D1%87%D0%B8%D0%BA)

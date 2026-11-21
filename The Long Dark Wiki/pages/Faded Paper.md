@@ -1,17 +1,12 @@
----
-title: "Faded Paper"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Faded_Paper"
----
-
 # Faded Paper
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Faded_Paper)
 
 **Faded Paper**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Faded_Paper_icon.png) / *Faded\_Paper\_icon.png* |
+|  | ![](../assets/Faded_Paper_icon.png) / _Faded\_Paper\_icon.png_ |
 | Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Faded_Paper"
 
 ## Transcript
 
-*The following text is transcribed from **Faded Paper***
+_The following text is transcribed from **Faded Paper**_
 
 **12 June 1991  
    
@@ -45,7 +40,5 @@ source: "https://thelongdark.fandom.com/wiki/Faded_Paper"
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Выцветшая бумага](ru:%D0%92%D1%8B%D1%86%D0%B2%D0%B5%D1%82%D1%88%D0%B0%D1%8F_%D0%B1%D1%83%D0%BC%D0%B0%D0%B3%D0%B0)

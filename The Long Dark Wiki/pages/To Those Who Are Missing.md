@@ -1,16 +1,12 @@
----
-title: "To Those Who Are Missing"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/To_Those_Who_Are_Missing"
----
-
 # To Those Who Are Missing
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/To_Those_Who_Are_Missing)
 
 **To Those Who Are Missing**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Missions_story_ep5_ToThoseWhoAreMissing.png) / *Missions\_story\_ep5\_ToThoseWhoAreMissing.png* |
+|  | ![](../assets/Missions_story_ep5_ToThoseWhoAreMissing.png) / _Missions\_story\_ep5\_ToThoseWhoAreMissing.png_ |
 | Episode |  |
 | **Missions** |  |
 | Previous | [Perseverance](./Perseverance.md) |
@@ -19,9 +15,9 @@ source: "https://thelongdark.fandom.com/wiki/To_Those_Who_Are_Missing"
 | Region | [Perseverance Mills](./Perseverance%20Mills.md) [Perseverance Wilds](./Perseverance%20Wilds.md) |
 | Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) / [Jane Yang](./Jane%20Yang.md) |
 
-> “**Find the Constable along the river in Perseverance Wilds.**”
+> “__Find the Constable along the river in Perseverance Wilds.__”
 
-**To Those Who Are Missing** is the second mission of Part One: Perseverance in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [*The Long Dark*](./The%20Long%20Dark.md).
+**To Those Who Are Missing** is the second mission of Part One: Perseverance in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Objectives
 
@@ -33,5 +29,3 @@ source: "https://thelongdark.fandom.com/wiki/To_Those_Who_Are_Missing"
 ## Walkthrough
 
 ## Trivia
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,13 +1,8 @@
----
-title: "Transmitters"
-wiki_namespace: 0
-categories: ["DLC Content", "Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Transmitters"
----
-
 # Transmitters
 
-![A Transmitter box in Forsaken Airfield, repaired with a car battery, scrap metal, fuses, and wires.](../assets/The_Long_Dark_Screenshot_2023.03.31_-_23.30.33.32.png)*A Transmitter box in Forsaken Airfield, repaired with a car battery, scrap metal, fuses, and wires.*{| class="messagebox" | width="40px" | ![Ptarmigan\_icon.png](../assets/Ptarmigan_icon.png) |**DLC-Exclusive content.**
+**Categories:** DLC Content, Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Transmitters)
+
+![A Transmitter box in Forsaken Airfield, repaired with a car battery, scrap metal, fuses, and wires.](../assets/The_Long_Dark_Screenshot_2023.03.31_-_23.30.33.32.png)_A Transmitter box in Forsaken Airfield, repaired with a car battery, scrap metal, fuses, and wires._{| class="messagebox" | width="40px" | ![Ptarmigan\_icon.png](../assets/Ptarmigan_icon.png) |**DLC-Exclusive content.**
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
@@ -56,8 +51,14 @@ Transmitter Towers CAN be repaired before starting the Tale Signal Void by picki
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![The icon displayed when a Transmitter is repaired in the Collections menu](../assets/Transmitters_icon.png) / *The icon displayed when a Transmitter is repaired in the Collections menu* | ![The symbol for a broken Transmitter needing repairs in the Collections menu](../assets/Transmitter_Broken_Icon.png) / *The symbol for a broken Transmitter needing repairs in the Collections menu* | ![The Journal Menu showing all discovered Transmitters](../assets/Transmitter_Journal.png) / *The Journal Menu showing all discovered Transmitters* |
+![The icon displayed when a Transmitter is repaired in the Collections menu](../assets/Transmitters_icon.png)
 
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Передатчики](ru:%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8)
+_The icon displayed when a Transmitter is repaired in the Collections menu_
+
+![The symbol for a broken Transmitter needing repairs in the Collections menu](../assets/Transmitter_Broken_Icon.png)
+
+_The symbol for a broken Transmitter needing repairs in the Collections menu_
+
+![The Journal Menu showing all discovered Transmitters](../assets/Transmitter_Journal.png)
+
+_The Journal Menu showing all discovered Transmitters_

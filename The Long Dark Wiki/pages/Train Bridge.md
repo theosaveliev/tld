@@ -1,18 +1,13 @@
----
-title: "Train Bridge"
-wiki_namespace: 0
-categories: ["Landmarks", "Locations", "Locations in Mystery Lake", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Train_Bridge"
----
-
 # Train Bridge
+
+**Categories:** Landmarks, Locations, Locations in Mystery Lake, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Train_Bridge)
 
 **Train Bridge**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Train_Bridge.jpg) / *Train\_Bridge.jpg* |
+|  | ![](../assets/Train_Bridge.jpg) / _Train\_Bridge.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Train_Bridge_Location.png) / *Train\_Bridge\_Location.png* |
+|  | ![](../assets/Train_Bridge_Location.png) / _Train\_Bridge\_Location.png_ |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
 | Type | Landmark\|- |

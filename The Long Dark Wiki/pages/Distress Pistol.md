@@ -1,11 +1,6 @@
----
-title: "Distress Pistol"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Distress_Pistol"
----
-
 # Distress Pistol
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Distress_Pistol)
 
 **Contents**
 
@@ -37,7 +32,7 @@ source: "https://thelongdark.fandom.com/wiki/Distress_Pistol"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Distress_Pistol_icon.png) / *Distress\_Pistol\_icon.png* |
+|  | ![](../assets/Distress_Pistol_icon.png) / _Distress\_Pistol\_icon.png_ |
 | Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298) |
 | Wintermute | yes |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
@@ -48,11 +43,11 @@ source: "https://thelongdark.fandom.com/wiki/Distress_Pistol"
 | **Values** |  |
 | Weight | 0.40 kg (0.88 lbs) |
 
-> “**Distress Pistol rounds can be an effective deterrent against hostile wildlife. They are the only thing that can reliably deter a charging Bear.**”
+> “__Distress Pistol rounds can be an effective deterrent against hostile wildlife. They are the only thing that can reliably deter a charging Bear.__”
 >
 > — [Load Screen](./Load%20Screen.md) Description
 
-The **Distress Pistol** (often called a **"Flare Gun"**) is a single-shot weapon in *The Long Dark*.
+The **Distress Pistol** (often called a **"Flare Gun"**) is a single-shot weapon in _The Long Dark_.
 
 ## Overview
 
@@ -89,9 +84,9 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 | Wildlife | Critical Hit Chance |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
-| ![](../assets/Deer_icon.png) / *Deer\_icon.png* | [Deer](./Deer.md) | Guaranteed | 50% | 40% | 25% | 10% |
-| ![](../assets/Wolf_icon.png) / *Wolf\_icon.png* | [Wolf](./Wolf.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
-| ![](../assets/Bear_icon.png) / *Bear\_icon.png* | [Bear](./Bear.md) | 60% | 90% | Guaranteed | Guaranteed | Guaranteed |
+| ![](../assets/Deer_icon.png) / _Deer\_icon.png_ | [Deer](./Deer.md) | Guaranteed | 50% | 40% | 25% | 10% |
+| ![](../assets/Wolf_icon.png) / _Wolf\_icon.png_ | [Wolf](./Wolf.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
+| ![](../assets/Bear_icon.png) / _Bear\_icon.png_ | [Bear](./Bear.md) | 60% | 90% | Guaranteed | Guaranteed | Guaranteed |
 
 ### Bleeding wounds
 
@@ -100,9 +95,9 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 | Wildlife | Bleed Out |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
-| ![](../assets/Deer_icon.png) / *Deer\_icon.png* | [Deer](./Deer.md) | Instant | 8 min | 15 min | 30 min | 80 min |
-| ![](../assets/Wolf_icon.png) / *Wolf\_icon.png* | [Wolf](./Wolf.md) | Instant | 12 min | 30 min | 35 min | 40 min |
-| ![](../assets/Bear_icon.png) / *Bear\_icon.png* | [Bear](./Bear.md) | 30 min | 45 min | 50 min | 140 min | 140 min |
+| ![](../assets/Deer_icon.png) / _Deer\_icon.png_ | [Deer](./Deer.md) | Instant | 8 min | 15 min | 30 min | 80 min |
+| ![](../assets/Wolf_icon.png) / _Wolf\_icon.png_ | [Wolf](./Wolf.md) | Instant | 12 min | 30 min | 35 min | 40 min |
+| ![](../assets/Bear_icon.png) / _Bear\_icon.png_ | [Bear](./Bear.md) | 30 min | 45 min | 50 min | 140 min | 140 min |
 
 ## Locations
 
@@ -112,7 +107,7 @@ The possible spawn locations include:
 
 ### [Ash Canyon](./Ash%20Canyon.md)
 
-- On a ledge south of [Anglers Den](./Angler%27s%20Den.md). This ledge is *unreachable* from the river level, requiring an approach from above by crossing [Runway Bridge](./Runaway%20Bridge.md), into the meadow area, and near the rope up to [High Meadow](./High%20Meadow.md)
+- On a ledge south of [Anglers Den](./Angler%27s%20Den.md). This ledge is _unreachable_ from the river level, requiring an approach from above by crossing [Runway Bridge](./Runaway%20Bridge.md), into the meadow area, and near the rope up to [High Meadow](./High%20Meadow.md)
 
 Note: not guaranteed to spawn, disabled on Interloper/Misery
 
@@ -122,7 +117,7 @@ Spawns in 1 of 3 locations listed below:
 
 - Atop the [Pensive Lookout](./Pensive%20Lookout.md)
 - At the end of the [Cannery Pier](./Cannery%20Pier.md), next to a [corpse](./Frozen%20Corpse.md)
-- In a case inside the break room behind the main building (the one with the rope up) in the [Last Resort Cannery](./Last%20Resort%20Cannery.md). This case is always *empty*
+- In a case inside the break room behind the main building (the one with the rope up) in the [Last Resort Cannery](./Last%20Resort%20Cannery.md). This case is always _empty_
 
 Note: only second and third spawn is present on Interloper/Misery, not guaranteed to spawn
 
@@ -237,13 +232,15 @@ Note: guaranteed spawn, other difficulties have rifle spawn instead of distress 
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Distress Pistol Case - Empty.](../assets/Distress_Pistol_Empty_Case.png) / *Distress Pistol Case - Empty.* | ![Bear shot with flare. old](../assets/Bear_shot_with_flare.png) / *Bear shot with flare. old* |
+![Distress Pistol Case - Empty.](../assets/Distress_Pistol_Empty_Case.png)
+
+_Distress Pistol Case - Empty._
+
+![Bear shot with flare. old](../assets/Bear_shot_with_flare.png)
+
+_Bear shot with flare. old_
 
 ## Update history
 
 - UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Сигнальный пистолет](ru:%D0%A1%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82)

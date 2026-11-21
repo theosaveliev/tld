@@ -1,17 +1,12 @@
----
-title: "Neighbour's Note"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Neighbour's_Note"
----
-
 # Neighbour's Note
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Neighbour's_Note)
 
 **Neighbour's Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Neighbour%27s_Note_icon.png) / *Neighbour's\_Note\_icon.png* |
+|  | ![](../assets/Neighbour%27s_Note_icon.png) / _Neighbour's\_Note\_icon.png_ |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Supply Caches](./Milton%20Supply%20Caches.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -29,7 +24,7 @@ It is found on a the refrigerator inside the [Paradise Meadows Farm](./Paradise%
 
 ## Transcript
 
-*The following text is transcribed from **Neighbour's Note***
+_The following text is transcribed from **Neighbour's Note**_
 
 **Hey Martin,
 
@@ -41,13 +36,11 @@ We found Molly! Alice was so relieved. Thanks for helping us look. Looks like th
 
 Neighbour's Note displays a different physical model compared to the one that appears in the Collections menu. as displayed below.
 
-| Column 1 |
-| --- |
-| ![](../assets/Hymnal_icon.png) / *Hymnal\_icon.png* |
+![](../assets/Hymnal_icon.png)
+
+_Hymnal\_icon.png_
 
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

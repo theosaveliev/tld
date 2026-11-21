@@ -1,20 +1,15 @@
----
-title: "Desolation Point (Achievement)"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Desolation_Point_(Achievement)"
----
-
 # Desolation Point \(Achievement\)
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Desolation_Point_%28Achievement%29)
 
 **Desolation Point**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Desolation_Point_%28Achievement%29_icon.png) / *Desolation\_Point\_(Achievement)\_icon.png* |
+|  | ![](../assets/Desolation_Point_%28Achievement%29_icon.png) / _Desolation\_Point\_(Achievement)\_icon.png_ |
 | Description | Craft a full set of improvised Tools. |
 
-**Desolation Point** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Desolation Point** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -30,5 +25,3 @@ Forges are quite rare in the world: only four exist on [Great Bear Island](./Gre
 - [Main Hangar](./Main%20Hangar.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) (requires [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC)
 
 ## Trivia
-
-This achievement's name is a reference to the V0.264 update Desolation Point.**Lua execution error in Module:Navbox function navbox**[ru:Достижения Steam](ru:%D0%94%D0%BE%D1%81%D1%82%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_Steam)

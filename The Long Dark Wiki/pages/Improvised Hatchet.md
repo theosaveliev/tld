@@ -1,11 +1,6 @@
----
-title: "Improvised Hatchet"
-wiki_namespace: 0
-categories: ["Craftable tools", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Improvised_Hatchet"
----
-
 # Improvised Hatchet
+
+**Categories:** Craftable tools, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Improvised_Hatchet)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Improvised_Hatchet"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Improvised_Hatchet_icon.png) / *Improvised\_Hatchet\_icon.png* |
+|  | ![](../assets/Improvised_Hatchet_icon.png) / _Improvised\_Hatchet\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | Renewable | Yes |
@@ -27,11 +22,11 @@ source: "https://thelongdark.fandom.com/wiki/Improvised_Hatchet"
 | Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) 1 hour |
 | Repair | [Whetstone](./Whetstone.md) 12-5 minutes / 3%-5% |
 
-> “**An improvised hatchet. Basically a heavy piece of metal with sharpened edge. Not fancy, but utilitarian.**”
+> “__An improvised hatchet. Basically a heavy piece of metal with sharpened edge. Not fancy, but utilitarian.__”
 >
 > — In-game description
 
-The **Improvised Hatchet** is a tool in *The Long Dark*, primarily for woodcutting and self defense.
+The **Improvised Hatchet** is a tool in _The Long Dark_, primarily for woodcutting and self defense.
 
 ## Overview
 
@@ -88,7 +83,5 @@ The [Milling Machine](./Milling%20Machine.md) in [Bleak Inlet](./Bleak%20Inlet.m
 
 ## Trivia
 
-- A broken Hatchet is the icon and logo for *The Long Dark* on all platforms, including [the official Hinterlands website](https://hinterlandgames.com/), [forums](https://hinterlandforums.com/forums/) and [merchandise](https://www.hinterlandstore.com/).
+- A broken Hatchet is the icon and logo for _The Long Dark_ on all platforms, including [the official Hinterlands website](https://hinterlandgames.com/), [forums](https://hinterlandforums.com/forums/) and [merchandise](https://www.hinterlandstore.com/).
 - Like the [Improvised Knife](./Improvised%20Knife.md), the Improvised Hatchet is a flattened metal pipe with cloth for a grip.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Самодельный топор](ru:%D0%A1%D0%B0%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%82%D0%BE%D0%BF%D0%BE%D1%80)

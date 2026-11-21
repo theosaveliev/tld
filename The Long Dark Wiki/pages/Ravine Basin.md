@@ -1,19 +1,13 @@
----
-title: "Ravine Basin"
-wiki_namespace: 0
-categories: ["Locations", "Locations in The Ravine", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Ravine_Basin"
----
-
 # Ravine Basin
+
+**Categories:** Locations, Locations in The Ravine, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ravine_Basin)
 
 **Ravine Basin**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Ravine_Basin.jpg) / *Ravine\_Basin.jpg* |
+|  | ![](../assets/Ravine_Basin.jpg) / _Ravine\_Basin.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Ravine_Basin_Location.png) / *Ravine\_Basin\_Location.png* |
+|  | ![](../assets/Ravine_Basin_Location.png) / _Ravine\_Basin\_Location.png_ |
 | Region | [The Ravine](./The%20Ravine.md)\|- |
 | **General** |  |
-|  | Has no shelter\|} The **Ravine Basin** is a location found in [The Ravine](./The%20Ravine.md) transition zone. The location is found in the center of the region, and can only be reached via a [Rope Climbing](./Rope%20Climbing.md), which always requires a [Mountaineering Rope](./Mountaineering%20Rope.md) (often found in one of the region's caves). The Basin is one way to reach [Bleak Inlet](./Bleak%20Inlet.md), and the only way to reach Bleak Inlet's upper mountain area. / ## Overview / The basin is only reachable by climbing down the Rope Climbing section. At the bottom of the Rope Climb is a crashed [Train Shuttle](./Train%20Shuttle.md), often containing a [Research Book](./Research%20Book.md), a [Distress Pistol](./Distress%20Pistol.md) box with [Flare Shells](./Flare%20Shell.md), and other supplies. / Further down stream, a [Warm Cave](./Warm%20Cave.md) is found near a small frozen pond that contains a [Tuffet](./Bed.md) bed, also a tree limb inside. A ravaged [Deer Carcass](./Deer%20Carcass.md) is always found near the cave entrance. A [Rabbit](./Rabbit.md) grove and several [Cat Tail](./Cat%20Tail.md) plants are located around the cave. [Sticks](./Stick.md) and [Cedar Limbs](./Cedar%20Limb.md) can be used for fuel. / ## Kill Barriers / **CAUTION!** Great care must be taken to never climb down the slopes of the basin walls to reach the bottom ([Mountain Goating](./Mountain%20Goating.md)), as the area is filled with invisible kill barriers leftover from a time when the basin never had a transition to Bleak Inlet, in order to keep players from being stuck and slowly dying inside the basin. This should be considered an [Environmental Hazard](./Environmental%20Hazard.md). ALWAYS use the Climbing Rope section to go down. ![The shuttle at the bottom of the basin](../assets/Train_Shuttle_Ravine.jpg)*The shuttle at the bottom of the basin* **Lua execution error in Module:Navbox function navbox** |

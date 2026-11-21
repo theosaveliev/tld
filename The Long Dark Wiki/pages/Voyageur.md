@@ -1,18 +1,14 @@
----
-title: "Voyageur"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Voyageur"
----
-
 # Voyageur
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Voyageur)
 
 ![](../assets/Voyageur_icon.png)
 
-*Voyageur\_icon.png*
+_Voyageur\_icon.png_
 
-> “**Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.**”
+> “__Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.__”
 
-**Voyageur** is the 2nd [Survival Mode](./Survival%20Mode.md) Experience in *[The Long Dark](./The%20Long%20Dark.md)*. It is the standard "normal" difficulty setting.
+**Voyageur** is the 2nd [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. It is the standard "normal" difficulty setting.
 
 ## Overview
 
@@ -120,5 +116,3 @@ This Experience also introduces Two new Afflictions;
 | Struggle condition damage modifier | None |
 | Struggle clothing damage modifier | Low |
 | Struggle damage severity | Medium |
-
-**Lua execution error in Module:Navbox function navbox**

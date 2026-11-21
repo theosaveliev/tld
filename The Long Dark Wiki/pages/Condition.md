@@ -1,11 +1,6 @@
----
-title: "Condition"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Condition"
----
-
 # Condition
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Condition)
 
 **Contents**
 
@@ -50,17 +45,17 @@ Some Afflictions cause Condition damage. Falling through [Weak Ice](./Weak%20Ice
 
 | Image | Affliction | Condition Instantly Lost |
 | --- | --- | --- |
-| ![](../assets/Torn_Clothing_icon.png) / *Torn\_Clothing\_icon.png* | [Torn Clothing](./Torn%20Clothing.md) | N/A (To Clothing Condition) |
-| ![](../assets/Major_Bruising_icon.png) / *Major\_Bruising\_icon.png* | [Major Bruising](./Major%20Bruising.md) | -10% |
-| ![](../assets/Minor_Bruising_icon.png) / *Minor\_Bruising\_icon.png* | [Minor Bruising](./Minor%20Bruising.md) | -5% |
-| ![](../assets/Laceration_icon.png) / *Laceration\_icon.png* | [Laceration](./Laceration.md) | -10% to -15% |
+| ![](../assets/Torn_Clothing_icon.png) / _Torn\_Clothing\_icon.png_ | [Torn Clothing](./Torn%20Clothing.md) | N/A (To Clothing Condition) |
+| ![](../assets/Major_Bruising_icon.png) / _Major\_Bruising\_icon.png_ | [Major Bruising](./Major%20Bruising.md) | -10% |
+| ![](../assets/Minor_Bruising_icon.png) / _Minor\_Bruising\_icon.png_ | [Minor Bruising](./Minor%20Bruising.md) | -5% |
+| ![](../assets/Laceration_icon.png) / _Laceration\_icon.png_ | [Laceration](./Laceration.md) | -10% to -15% |
 
 [Misery](./Misery.md) Afflictions are unique to this game mode only, but many can cause Condition loss
 
 | Image | Affliction | Condition Instantly Lost |
 | --- | --- | --- |
-| ![](../assets/Rheumatic_Joints_icon.png) / *Rheumatic\_Joints\_icon.png* | [Rheumatic Joints](./Rheumatic%20Joints.md) | -2% from Sprains |
-| ![](../assets/Broken_Body_icon.png) / *Broken\_Body\_icon.png* | [Broken Body](./Broken%20Body.md) | +100% more Condition loss from any damage source |
+| ![](../assets/Rheumatic_Joints_icon.png) / _Rheumatic\_Joints\_icon.png_ | [Rheumatic Joints](./Rheumatic%20Joints.md) | -2% from Sprains |
+| ![](../assets/Broken_Body_icon.png) / _Broken\_Body\_icon.png_ | [Broken Body](./Broken%20Body.md) | +100% more Condition loss from any damage source |
 
 ### Damage over time
 
@@ -68,15 +63,15 @@ Other Afflictions cause damage over a period of time, and often take longer peri
 
 | Image | Affliction | Daily drain rate | Hourly drain rate | Minute drain rate |
 | --- | --- | --- | --- | --- |
-| ![](../assets/Food_Poisoning_icon.png) / *Food\_Poisoning\_icon.png* | [Food Poisoning](./Food%20Poisoning.md) | -85.0% | -3.5% | -0.058% |
-| ![](../assets/Blood_Loss_icon.png) / *Blood\_Loss\_icon.png* | [Blood Loss](./Blood%20Loss.md) | -720.0% | -30.0% | -0.5% |
-| ![](../assets/Dysentery_icon.png) / *Dysentery\_icon.png* | [Dysentery](./Dysentery.md) | -96% | -4% | -0.067% |
-| ![](../assets/Infection_icon.png) / *Infection\_icon.png* | [Infection](./Infection.md) | -120% | -5% | -0.083% |
-| ![](../assets/Hypothermia_icon.png) / *Hypothermia\_icon.png* | Freezing while [Hypothermic](./Hypothermia.md) | -960.0% | -40.0% | -0.66% |
-| ![](../assets/Fear_icon.png) / *Fear\_icon.png* | [Fear](./Afflictions.md) | -72,000.0% | -3,000.0% | -50.0% |
-| ![](../assets/Burns_icon.png) / *Burns\_icon.png* | [Burns](./Burns.md) | -2,851,200.0% | -118,800.0% | -1980.0% |
+| ![](../assets/Food_Poisoning_icon.png) / _Food\_Poisoning\_icon.png_ | [Food Poisoning](./Food%20Poisoning.md) | -85.0% | -3.5% | -0.058% |
+| ![](../assets/Blood_Loss_icon.png) / _Blood\_Loss\_icon.png_ | [Blood Loss](./Blood%20Loss.md) | -720.0% | -30.0% | -0.5% |
+| ![](../assets/Dysentery_icon.png) / _Dysentery\_icon.png_ | [Dysentery](./Dysentery.md) | -96% | -4% | -0.067% |
+| ![](../assets/Infection_icon.png) / _Infection\_icon.png_ | [Infection](./Infection.md) | -120% | -5% | -0.083% |
+| ![](../assets/Hypothermia_icon.png) / _Hypothermia\_icon.png_ | Freezing while [Hypothermic](./Hypothermia.md) | -960.0% | -40.0% | -0.66% |
+| ![](../assets/Fear_icon.png) / _Fear\_icon.png_ | [Fear](./Afflictions.md) | -72,000.0% | -3,000.0% | -50.0% |
+| ![](../assets/Burns_icon.png) / _Burns\_icon.png_ | [Burns](./Burns.md) | -2,851,200.0% | -118,800.0% | -1980.0% |
 
-- **Note 1**: Intestinal Parasites affects *maximum* Condition.
+- **Note 1**: Intestinal Parasites affects _maximum_ Condition.
 - **Note 2:** Food Poisoning is non-lethal, and cannot lower Condition below 15%.
 - **Note 3:** Food Poisoning and Dysentery do not allow Condition to be recovered while the Affliction persists, even during [Sleep](./Sleep.md).
 - **Note 4**: Burns (from Electrified Wires or Water during an [Aurora](./Aurora.md) or from contact with a lit [Campfire](./Campfire.md)/large open fires found in Wintermute) causes 33% Condition damage per second.
@@ -93,8 +88,8 @@ A "+" Plus symbol and the color blue is used to denote any condition gained when
 
 | Image | Affliction | Condition increase |
 | --- | --- | --- |
-| ![](../assets/Well_Fed_icon.png) / *Well\_Fed\_icon.png* | [Well Fed](./Well%20Fed.md) | Temporarily increases Condition bar by 5% |
-| ![](../assets/Nourished_icon.png) / *Nourished\_icon.png* | [Nourished](./Nourished.md) | Temporarily increases Condition bar by 10% |
+| ![](../assets/Well_Fed_icon.png) / _Well\_Fed\_icon.png_ | [Well Fed](./Well%20Fed.md) | Temporarily increases Condition bar by 5% |
+| ![](../assets/Nourished_icon.png) / _Nourished\_icon.png_ | [Nourished](./Nourished.md) | Temporarily increases Condition bar by 10% |
 
 ### Negative
 
@@ -108,11 +103,11 @@ A "-" Minus symbol and the color red is used to denote any Condition on the bar 
 
 | Image | Affliction | Condition decrease |
 | --- | --- | --- |
-| ![](../assets/Frostbite_icon.png) / *Frostbite\_icon.png* | [Frostbite](./Frostbite.md) | Permanently decreases Condition bar by 10% per instance |
-| ![](../assets/Cheated_Death_Penalty_icon.png) / *Cheated\_Death\_Penalty\_icon.png* | [Cheated Death Penalty](./Cheated%20Death%20Penalty.md) | Temporary or Permanent Condition loss |
-| ![](../assets/Burns_icon.png) / *Burns\_icon.png* | [Burns](./Burns.md) | Immediately reduces max Condition bar to 75% of its Condition |
-| ![](../assets/Chemical_Poisoning_icon.png) / *Chemical\_Poisoning\_icon.png* | [Chemical Poisoning](./Chemical%20Poisoning.md) | Reduces max Condition bar by 20% (per Affliction) |
-| ![](../assets/Intestinal_Parasites_icon.png) / *Intestinal\_Parasites\_icon.png* | [Intestinal Parasites](./Intestinal%20Parasites.md) | Permanently reduces max Condition bar by 2% daily until cured |
+| ![](../assets/Frostbite_icon.png) / _Frostbite\_icon.png_ | [Frostbite](./Frostbite.md) | Permanently decreases Condition bar by 10% per instance |
+| ![](../assets/Cheated_Death_Penalty_icon.png) / _Cheated\_Death\_Penalty\_icon.png_ | [Cheated Death Penalty](./Cheated%20Death%20Penalty.md) | Temporary or Permanent Condition loss |
+| ![](../assets/Burns_icon.png) / _Burns\_icon.png_ | [Burns](./Burns.md) | Immediately reduces max Condition bar to 75% of its Condition |
+| ![](../assets/Chemical_Poisoning_icon.png) / _Chemical\_Poisoning\_icon.png_ | [Chemical Poisoning](./Chemical%20Poisoning.md) | Reduces max Condition bar by 20% (per Affliction) |
+| ![](../assets/Intestinal_Parasites_icon.png) / _Intestinal\_Parasites\_icon.png_ | [Intestinal Parasites](./Intestinal%20Parasites.md) | Permanently reduces max Condition bar by 2% daily until cured |
 
 ## Recovering Condition
 
@@ -128,27 +123,27 @@ The following items positively affect Condition recovery:
 
 | Image | Name | Condition Restored |
 | --- | --- | --- |
-| ![](../assets/Breyerhouse_Pie_icon.png) / *Breyerhouse\_Pie\_icon.png* | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | Instantly restores 10% of Condition Provides the ![Nourished\_icon.png](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
-| ![](../assets/Camber_Flight_Porridge_icon.png) / *Camber\_Flight\_Porridge\_icon.png* | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | Instantly restores 10% of Condition Provides the ![Nourished\_icon.png](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
-| ![](../assets/Dockworker%27s_Pie_icon.png) / *Dockworker's\_Pie\_icon.png* | [Dockworker's Pie](./Dockworker%27s%20Pie.md) | Instantly restores 35% of Condition Provides the ![Nourished\_icon.png](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
-| ![](../assets/Ranger_Stew_icon.png) / *Ranger\_Stew\_icon.png* | [Ranger Stew](./Ranger%20Stew.md) | Instantly restores 10% of Condition Provides the ![Nourished\_icon.png](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
-| ![](../assets/Lily%27s_Pancakes_icon.png) / *Lily's\_Pancakes\_icon.png* | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | Instantly restores 10% of Condition |
-| ![](../assets/Emergency_Stim_icon.png) / *Emergency\_Stim\_icon.png* | [Emergency Stim](./Emergency%20Stim.md) | Instantly restores 15% of Condition |
-| ![](../assets/Prepper%27s_Pie_icon.png) / *Prepper's\_Pie\_icon.png* | [Prepper's Pie](./Prepper%27s%20Pie.md) | Instantly restores 25% of Condition |
-| ![](../assets/Birch_Bark_Tea_icon.png) / *Birch\_Bark\_Tea\_icon.png* | [Birch Bark Tea](./Birch%20Bark%20Tea.md) | Grants the ![Restore\_Condition\_icon.png](../assets/Restore_Condition_icon.png) [Restore Condition](./Restore%20Condition.md) Affliction, Restoring 5% Condition for 2 hours |
+| ![](../assets/Breyerhouse_Pie_icon.png) / _Breyerhouse\_Pie\_icon.png_ | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | Instantly restores 10% of Condition Provides the ![Nourished\_icon.png](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
+| ![](../assets/Camber_Flight_Porridge_icon.png) / _Camber\_Flight\_Porridge\_icon.png_ | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | Instantly restores 10% of Condition Provides the ![Nourished\_icon.png](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
+| ![](../assets/Dockworker%27s_Pie_icon.png) / _Dockworker's\_Pie\_icon.png_ | [Dockworker's Pie](./Dockworker%27s%20Pie.md) | Instantly restores 35% of Condition Provides the ![Nourished\_icon.png](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
+| ![](../assets/Ranger_Stew_icon.png) / _Ranger\_Stew\_icon.png_ | [Ranger Stew](./Ranger%20Stew.md) | Instantly restores 10% of Condition Provides the ![Nourished\_icon.png](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours |
+| ![](../assets/Lily%27s_Pancakes_icon.png) / _Lily's\_Pancakes\_icon.png_ | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | Instantly restores 10% of Condition |
+| ![](../assets/Emergency_Stim_icon.png) / _Emergency\_Stim\_icon.png_ | [Emergency Stim](./Emergency%20Stim.md) | Instantly restores 15% of Condition |
+| ![](../assets/Prepper%27s_Pie_icon.png) / _Prepper's\_Pie\_icon.png_ | [Prepper's Pie](./Prepper%27s%20Pie.md) | Instantly restores 25% of Condition |
+| ![](../assets/Birch_Bark_Tea_icon.png) / _Birch\_Bark\_Tea\_icon.png_ | [Birch Bark Tea](./Birch%20Bark%20Tea.md) | Grants the ![Restore\_Condition\_icon.png](../assets/Restore_Condition_icon.png) [Restore Condition](./Restore%20Condition.md) Affliction, Restoring 5% Condition for 2 hours |
 
 The following foods grant the ![Improved\_Rest\_icon.png](../assets/Improved_Rest_icon.png) [Improved Rest](./Improved%20Rest.md) Affliction, restoring Condition gained while [sleeping](./Sleep.md) by an extra 2% (1% for Interloper) an hour while the benefit is still active. This benefit is used whenever sleeping, whether this be all at once or across multiple sleep sessions.
 
 |  | Food and Drink | Duration |
 | --- | --- | --- |
-| ![](../assets/Cup_of_Herbal_Tea_icon.png) / *Cup\_of\_Herbal\_Tea\_icon.png* | [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | 6 hours |
-| ![](../assets/Stalker%27s_Pie_icon.png) / *Stalker's\_Pie\_icon.png* | [Stalker's Pie](./Stalker%27s%20Pie.md) | 6 hours |
-| ![](../assets/Ptarmigan_Stew_icon.png) / *Ptarmigan\_Stew\_icon.png* | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | 3 hours |
-| ![](../assets/Ranger_Stew_icon.png) / *Ranger\_Stew\_icon.png* | [Ranger Stew](./Ranger%20Stew.md) | 3 hours |
-| ![](../assets/Rabbit_Stew_icon.png) / *Rabbit\_Stew\_icon.png* | [Rabbit Stew](./Rabbit%20Stew.md) | 3 hours |
-| ![](../assets/Thomson_Family_Stew_icon.png) / *Thomson\_Family\_Stew\_icon.png* | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | 3 hours |
-| ![](../assets/Trout_Stew_icon.png) / *Trout\_Stew\_icon.png* | [Trout Stew](./Trout%20Stew.md) | 3 hours |
-| ![](../assets/Venison_Stew_icon.png) / *Venison\_Stew\_icon.png* | [Venison Stew](./Venison%20Stew.md) | 3 hours |
+| ![](../assets/Cup_of_Herbal_Tea_icon.png) / _Cup\_of\_Herbal\_Tea\_icon.png_ | [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | 6 hours |
+| ![](../assets/Stalker%27s_Pie_icon.png) / _Stalker's\_Pie\_icon.png_ | [Stalker's Pie](./Stalker%27s%20Pie.md) | 6 hours |
+| ![](../assets/Ptarmigan_Stew_icon.png) / _Ptarmigan\_Stew\_icon.png_ | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | 3 hours |
+| ![](../assets/Ranger_Stew_icon.png) / _Ranger\_Stew\_icon.png_ | [Ranger Stew](./Ranger%20Stew.md) | 3 hours |
+| ![](../assets/Rabbit_Stew_icon.png) / _Rabbit\_Stew\_icon.png_ | [Rabbit Stew](./Rabbit%20Stew.md) | 3 hours |
+| ![](../assets/Thomson_Family_Stew_icon.png) / _Thomson\_Family\_Stew\_icon.png_ | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | 3 hours |
+| ![](../assets/Trout_Stew_icon.png) / _Trout\_Stew\_icon.png_ | [Trout Stew](./Trout%20Stew.md) | 3 hours |
+| ![](../assets/Venison_Stew_icon.png) / _Venison\_Stew\_icon.png_ | [Venison Stew](./Venison%20Stew.md) | 3 hours |
 
 During the [Challenge](./Challenge.md) "[As the Dead Sleep](./As%20the%20Dead%20Sleep.md)" (or Custom), passive healing and sleep healing are disabled, additionally [Birch Bark Tea](./Birch%20Bark%20Tea.md) is disabled. This makes [Herbal Tea](./Herbal%20Tea.md) and [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) strictly a food item and [Birch Bark](./Birch%20Bark.md) strictly tinder. The only way to heal during the challenge are with using rare and finite [Emergency Stims](./Emergency%20Stim.md).
 
@@ -162,18 +157,18 @@ The following Afflictions negatively affect Condition recovery.
 
 | Image | Affliction | Condition Recovery Penalty |
 | --- | --- | --- |
-| ![](../assets/Insomnia_icon.png) / *Insomnia\_icon.png* | [Insomnia](./Insomnia.md) | Has a chance to interupt Rest |
-| ![](../assets/Weakened_State_icon.png) / *Weakened\_State\_icon.png* | [Weakened State](./Weakened%20State.md) | Halves Condition Recovery |
-| ![](../assets/Haunted_Mind_icon.png) / *Haunted\_Mind\_icon.png* | [Haunted Mind](./Haunted%20Mind.md) | -50% Condition healing from Rest |
-| ![](../assets/Broken_Body_icon.png) / *Broken\_Body\_icon.png* | [Broken Body](./Broken%20Body.md) | Disables all forms of Condition Recovery |
+| ![](../assets/Insomnia_icon.png) / _Insomnia\_icon.png_ | [Insomnia](./Insomnia.md) | Has a chance to interupt Rest |
+| ![](../assets/Weakened_State_icon.png) / _Weakened\_State\_icon.png_ | [Weakened State](./Weakened%20State.md) | Halves Condition Recovery |
+| ![](../assets/Haunted_Mind_icon.png) / _Haunted\_Mind\_icon.png_ | [Haunted Mind](./Haunted%20Mind.md) | -50% Condition healing from Rest |
+| ![](../assets/Broken_Body_icon.png) / _Broken\_Body\_icon.png_ | [Broken Body](./Broken%20Body.md) | Disables all forms of Condition Recovery |
 
 ## Death
 
 ![You faded into The Long Dark. old](../assets/Fading_Into_The_Long_Dark_-_Death.jpg)
 
-*You faded into The Long Dark. old*
+_You faded into The Long Dark. old_
 
-> “**You faded into The Long Dark...**”
+> “__You faded into The Long Dark...__”
 >
 > — In-game description
 
@@ -209,5 +204,3 @@ Progress towards [Feats](./Feats.md), [Achievements](./The%20Long%20Dark%20%E2%8
 ## See also
 
 - [Hibernation](./Hibernation.md)
-
-[ru:Здоровье](ru:%D0%97%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D0%B5) [de:Kondition](de:Kondition) **Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [es:Condición](es:Condici%C3%B3n) [fr:Condition physique](fr:Condition_physique)

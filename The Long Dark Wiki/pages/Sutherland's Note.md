@@ -1,17 +1,12 @@
----
-title: "Sutherland's Note"
-wiki_namespace: 0
-categories: ["Collectibles"]
-source: "https://thelongdark.fandom.com/wiki/Sutherland's_Note"
----
-
 # Sutherland's Note
+
+**Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sutherland's_Note)
 
 **Sutherland's Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Sutherland%27s_Note_icon.png) / *Sutherland's\_Note\_icon.png* |
+|  | ![](../assets/Sutherland%27s_Note_icon.png) / _Sutherland's\_Note\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Sutherland's_Note"
 
 ## Transcript
 
-*The following text is transcribed from **Sutherland's Note***
+_The following text is transcribed from **Sutherland's Note**_
 
 **\[shaky, delicate handwriting\]
 
@@ -46,5 +41,3 @@ Maybe you got out just in time.
 - Sutherland**
 
 ## Game history
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**

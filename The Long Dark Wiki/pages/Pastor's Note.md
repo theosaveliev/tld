@@ -1,17 +1,12 @@
----
-title: "Pastor's Note"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Pastor's_Note"
----
-
 # Pastor's Note
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pastor's_Note)
 
 **Pastor's Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Pastor%27s_Note_icon.png) / *Pastor's\_Note\_icon.png* |
+|  | ![](../assets/Pastor%27s_Note_icon.png) / _Pastor's\_Note\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Properties** |  |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Pastor's_Note"
 
 ## Transcript
 
-*The following text is transcribed from **Pastor's Note***
+_The following text is transcribed from **Pastor's Note**_
 
 **Dear Parishioners,
 
@@ -41,5 +36,3 @@ Please accept my apologies. God bless.
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "The Basics of Survival"
-wiki_namespace: 0
-categories: ["Episode 1", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/The_Basics_of_Survival"
----
-
 # The Basics of Survival
+
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Basics_of_Survival)
 
 **Contents**
 
@@ -25,13 +20,13 @@ source: "https://thelongdark.fandom.com/wiki/The_Basics_of_Survival"
 
 | Property | Details |
 | --- | --- |
-|  | ![One of the skill books that will start the mission](../assets/Plants_skill_book_icon.png) / *One of the skill books that will start the mission* |
+|  | ![One of the skill books that will start the mission](../assets/Plants_skill_book_icon.png) / _One of the skill books that will start the mission_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Current | The Basics of Survival |
 | Next | [Survival School](./Survival%20School.md) |
 | Region | [Mountain Town](./Mountain%20Town.md) |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
 **The Basics of Survival** is a side mission started in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [story](./Wintermute.md). In the mission, the survivor must snare a rabbit, harvest and prepare some natural remedies, and mend some clothing. The mission can be completed in either [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) or [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md); if the research book used to trigger the first mission is not collected in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), it will need to be found in in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) to start the quest.
 
@@ -39,7 +34,7 @@ A sequel, [Survival School](./Survival%20School.md), is a side mission available
 
 ## Official description
 
-> “**Enduring the Quiet Apocalypse will require survival skills. Find the collectibles that can teach you important survival lessons.**”
+> “__Enduring the Quiet Apocalypse will require survival skills. Find the collectibles that can teach you important survival lessons.__”
 
 ## Overview
 
@@ -108,8 +103,6 @@ It is not necessary to go and harvest the Snare, as the mission will complete[²
 - Added to game.
 - UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
   - \[WINTERMUTE\] Updated description for the side mission “Basics of Survival: Find and harvest some medicinal flora native to Great Bear Island."
-
-==References== **Lua execution error in Module:Navbox function navbox**
 
 ## Notes
 

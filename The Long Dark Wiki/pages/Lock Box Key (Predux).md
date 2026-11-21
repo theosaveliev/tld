@@ -1,17 +1,12 @@
----
-title: "Lock Box Key (Predux)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Lock_Box_Key_(Predux)"
----
-
 # Lock Box Key \(Predux\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lock_Box_Key_%28Predux%29)
 
 **Lock Box Key (Predux)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Lock_Box_Key_icon.png) / *Lock\_Box\_Key\_icon.png* |
+|  | ![](../assets/Lock_Box_Key_icon.png) / _Lock\_Box\_Key\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | **Properties** |  |
@@ -44,5 +39,3 @@ The Lock Box that is opened by this key yields:
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from the game as part of the Redux edition.
-
-**Lua execution error in Module:Navbox function navbox**

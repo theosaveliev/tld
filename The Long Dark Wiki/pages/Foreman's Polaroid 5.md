@@ -1,17 +1,12 @@
----
-title: "Foreman's Polaroid 5"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_5"
----
-
 # Foreman's Polaroid 5
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_5)
 
 **Foreman's Polaroid 5**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Foreman%27s_Polaroid_5_icon.png) / *Foreman's\_Polaroid\_5\_icon.png* |
+|  | ![](../assets/Foreman%27s_Polaroid_5_icon.png) / _Foreman's\_Polaroid\_5\_icon.png_ |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Wintermute | No |
 | **Properties** |  |
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_5"
 
 ## Transcript
 
-*The following text is transcribed from **Foreman's Polaroid 5***
+_The following text is transcribed from **Foreman's Polaroid 5**_
 
 **Beyond the settlement, past the lake, though (sic) the gully and up the short climb. This is his high path.**
 
@@ -35,7 +30,5 @@ source: "https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_5"
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Фотоснимок бригадира 5](ru:%D0%A4%D0%BE%D1%82%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B8%D1%80%D0%B0_5)

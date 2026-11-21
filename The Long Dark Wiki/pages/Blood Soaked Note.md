@@ -1,17 +1,12 @@
----
-title: "Blood Soaked Note"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Blood_Soaked_Note"
----
-
 # Blood Soaked Note
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blood_Soaked_Note)
 
 **Blood Soaked Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Blood_Soaked_Note_icon.png) / *Blood\_Soaked\_Note\_icon.png* |
+|  | ![](../assets/Blood_Soaked_Note_icon.png) / _Blood\_Soaked\_Note\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Blood_Soaked_Note"
 
 ## Transcript
 
-*The following text is transcribed from **Blood Soaked Note***
+_The following text is transcribed from **Blood Soaked Note**_
 
 **Judging by the amount of blood frozen on this page, the author wasn't doing too well when they wrote it.
 
@@ -40,5 +35,3 @@ Should've never tried to leave Milton."**
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

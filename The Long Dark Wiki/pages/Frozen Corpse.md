@@ -1,27 +1,22 @@
----
-title: "Frozen Corpse"
-wiki_namespace: 0
-categories: ["Interactable objects", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Frozen_Corpse"
----
-
 # Frozen Corpse
+
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frozen_Corpse)
 
 **Frozen Corpse**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Frozen_Corpse.jpg) / *Frozen\_Corpse.jpg* |
+|  | ![](../assets/Frozen_Corpse.jpg) / _Frozen\_Corpse.jpg_ |
 | Story item | Yes |
 | **Container** |  |
 | Capacity | 10.00 kg(22 lbs) |
 
-> “**A frozen corpse brings Great Bear Island's harsh reality front and centre.  
- Leave them in peace, or search the body for supplies to help you avoid their fate.**”
+> “__A frozen corpse brings Great Bear Island's harsh reality front and centre.  
+ Leave them in peace, or search the body for supplies to help you avoid their fate.__”
 >
 > — [What I Know](./What%20I%20Know.md) description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Woah. Someone's just...sitting here. Frozen. What the hell?**
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Woah. Someone's just...sitting here. Frozen. What the hell?__
 
 [Will Mackenzie](./Will%20Mackenzie.md)
 
@@ -37,10 +32,46 @@ If a frozen corpse is found inside a [safehouse](./Safehouse.md), it can be "Res
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A corpse inside a Hunting Blind with a hatchet](../assets/Corpse_in_blind.jpg) / *A corpse inside a [Hunting Blind](./Hunter%27s%20Blinds.md) with a [hatchet](./Hatchet.md)* | ![A Frozen Corpse labeled just "Corpse"](../assets/Corpse.jpg) / *A Frozen Corpse labeled just "Corpse"* | ![A corpse at the Destroyed Lookout with a rifle lying nearby](../assets/Destroyed_lookout6.jpg) / *A corpse at the [Destroyed Lookout](./Destroyed%20Lookout.md) with a [rifle](./Hunting%20Rifle.md) lying nearby* | ![Dead pilot model](../assets/V._Singh_location.jpg) / *Dead pilot model* |
-| ![](../assets/R._Tan_location.jpg) / *R.\_Tan\_location.jpg* | ![Dead Prison Guard](../assets/Dead_Prison_Guard.jpg) / *[Dead Prison Guard](./Dead%20Prison%20Guard.md)* | ![One of many dead Convicts in Wintermute](../assets/Blackrock_prisoner_body_1.jpg) / *One of many dead [Convicts](./Convicts.md) in Wintermute* | ![Several executed prison guards and civilians outside of Blackrock Prison in Episode 4](../assets/Blackrock_Prison_Guards.jpg) / *Several executed prison guards and civilians outside of [Blackrock Prison](./Blackrock%20Prison.md) in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)* |
-| ![very old version](../assets/Frozen_corpse.png) / *very old version* | ![A corpse in Ash Canyon](../assets/Frozen_Corpse_Ash_Canyon.jpg) / *A corpse in [Ash Canyon](./Ash%20Canyon.md)* | ![A dead Convict](../assets/Convict_Episode_2.jpg) / *A dead Convict* |  |
+![A corpse inside a Hunting Blind with a hatchet](../assets/Corpse_in_blind.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Труп](ru:%D0%A2%D1%80%D1%83%D0%BF)
+_A corpse inside a [Hunting Blind](./Hunter%27s%20Blinds.md) with a [hatchet](./Hatchet.md)_
+
+![A Frozen Corpse labeled just "Corpse"](../assets/Corpse.jpg)
+
+_A Frozen Corpse labeled just "Corpse"_
+
+![A corpse at the Destroyed Lookout with a rifle lying nearby](../assets/Destroyed_lookout6.jpg)
+
+_A corpse at the [Destroyed Lookout](./Destroyed%20Lookout.md) with a [rifle](./Hunting%20Rifle.md) lying nearby_
+
+![Dead pilot model](../assets/V._Singh_location.jpg)
+
+_Dead pilot model_
+
+![](../assets/R._Tan_location.jpg)
+
+_R.\_Tan\_location.jpg_
+
+![Dead Prison Guard](../assets/Dead_Prison_Guard.jpg)
+
+_[Dead Prison Guard](./Dead%20Prison%20Guard.md)_
+
+![One of many dead Convicts in Wintermute](../assets/Blackrock_prisoner_body_1.jpg)
+
+_One of many dead [Convicts](./Convicts.md) in Wintermute_
+
+![Several executed prison guards and civilians outside of Blackrock Prison in Episode 4](../assets/Blackrock_Prison_Guards.jpg)
+
+_Several executed prison guards and civilians outside of [Blackrock Prison](./Blackrock%20Prison.md) in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)_
+
+![very old version](../assets/Frozen_corpse.png)
+
+_very old version_
+
+![A corpse in Ash Canyon](../assets/Frozen_Corpse_Ash_Canyon.jpg)
+
+_A corpse in [Ash Canyon](./Ash%20Canyon.md)_
+
+![A dead Convict](../assets/Convict_Episode_2.jpg)
+
+_A dead Convict_

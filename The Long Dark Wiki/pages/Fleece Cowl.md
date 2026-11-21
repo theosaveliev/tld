@@ -1,17 +1,12 @@
----
-title: "Fleece Cowl"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Fleece_Cowl"
----
-
 # Fleece Cowl
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fleece_Cowl)
 
 **Fleece Cowl**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fleece_Cowl_icon.png) / *Fleece\_Cowl\_icon.png* |
+|  | ![](../assets/Fleece_Cowl_icon.png) / _Fleece\_Cowl\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Head |
@@ -25,23 +20,25 @@ source: "https://thelongdark.fandom.com/wiki/Fleece_Cowl"
 | Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
 | Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 60% condition |
 
-> “**A thick cotton cap that covers the head but not the face. Designed to be layered under something warmer.**”
+> “__A thick cotton cap that covers the head but not the face. Designed to be layered under something warmer.__”
 >
 > — In-game description
 
-**Fleece Cowl** is a type of headgear in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Fleece Cowl** is a type of headgear in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
 Despite its description, the fleece cowl is best used as an outer layer for wind protection, as its warmth value isn't as good as items like the [Wool Toque](./Wool%20Toque.md) or the [Balaclava](./Balaclava.md). As a scarf, the [Long Wool Scarf](./Long%20Wool%20Scarf.md) would be better suited to the environment, or any of the aforementioned options.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Model icon](../assets/Fleece_Cowl_Model_icon.png) / *Model icon* | ![Model icon damaged](../assets/Fleece_Cowl_Model_Damaged_icon.png) / *Model icon damaged* |
+![Model icon](../assets/Fleece_Cowl_Model_icon.png)
+
+_Model icon_
+
+![Model icon damaged](../assets/Fleece_Cowl_Model_Damaged_icon.png)
+
+_Model icon damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Флисовый капюшон](ru:%D0%A4%D0%BB%D0%B8%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BF%D1%8E%D1%88%D0%BE%D0%BD)

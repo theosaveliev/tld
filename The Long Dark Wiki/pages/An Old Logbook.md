@@ -1,17 +1,12 @@
----
-title: "An Old Logbook"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/An_Old_Logbook"
----
-
 # An Old Logbook
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/An_Old_Logbook)
 
 **An Old Logbook**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/An_Old_Logbook_icon.png) / *An\_Old\_Logbook\_icon.png* |
+|  | ![](../assets/An_Old_Logbook_icon.png) / _An\_Old\_Logbook\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/An_Old_Logbook"
 
 ## Transcript
 
-*The following text is transcribed from **An Old Logbook***
+_The following text is transcribed from **An Old Logbook**_
 
 **\[Last Entry\]  
  I am heading out on a grid search. None of the locals have offered to help. And these blasted lights in the sky keep coming and going. Power only comes back at random.
@@ -49,5 +44,3 @@ Signing off.**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

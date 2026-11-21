@@ -1,11 +1,6 @@
----
-title: "Fire"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Fire"
----
-
 # Fire
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fire)
 
 **Contents**
 
@@ -33,9 +28,9 @@ source: "https://thelongdark.fandom.com/wiki/Fire"
 
 \[Missing image: Fire\_icon.png\]
 
-*XTHUMB*
+_XTHUMB_
 
-"*Use the Campfire option in the Radial Menu. You'll need all the fixings: a Firestarter, Tinder, and Fuel. Accelerant speeds up the process. Fuel types impact burn time and heat production. An active fire can be used to Cook and Boil Water, as well as keeping you from freezing to death.*"
+"_Use the Campfire option in the Radial Menu. You'll need all the fixings: a Firestarter, Tinder, and Fuel. Accelerant speeds up the process. Fuel types impact burn time and heat production. An active fire can be used to Cook and Boil Water, as well as keeping you from freezing to death._"
 
 — In-game description
 
@@ -43,7 +38,7 @@ A **Fire** is a pile of burning fuel that has been lit using the [Fire Starting]
 
 ## Fire Starting
 
-*Main article: [Fire Starting](./Fire%20Starting.md)*
+_Main article: [Fire Starting](./Fire%20Starting.md)_
 
 To start a fire, players have to "use" an existing [firebox](#contained-fires) or [campfire](#campfires) and press the "Start Fire" hotkey. Players can also build a campfire using [Radial Menu](./Radial%20Menu.md) &gt; Campcraft &gt; Fire. The fire-starting interface presents four slots: an ignition source (starter), tinder, fuel, and accelerant (optional). At the top of the screen, the player's current fire starting skill, duration of fire, and the chance of success with the currently selected materials are displayed. Coal cannot be used to start a fire.
 
@@ -51,13 +46,13 @@ To start a fire, players have to "use" an existing [firebox](#contained-fires) o
 
 | Fuel | Burn Time (no skill bonus) | Fire Start Chance Bonus | Temperature Increase | Weight | Burn Time Per Weight | Temperature Increase Per Weight |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Book](./Book.md) | 18 mins | +35% | 2.0 °C / *(3.6 °F)* | 0.5 kg / *(1.1 lb)* | 0.6 hr/kg (0.27 hr/lb) | 4 °C/kg / *(3.27 °F/lb)* |
-| [Cedar Firewood](./Cedar%20Firewood.md) | 60 mins | +15% | 6.0 °C / *(10.8 °F)* | 0.5 kg / *(1.1 lb)* | 2 hr/kg (0.91 hr/lb) | 12 °C/kg / *(9.8 °F/lb)* |
-| [Coal](./Coal.md) | 60 mins | N/A | 20.0 °C / *(36 °F)* | 0.3 kg / *(0.66 lb)* | 3.33 hr/kg (1.51 hr/lb) | 66.67 °C/kg / *(54.43 °F/lb)* |
-| [Fir Firewood ](./Fir%20Firewood.md) | 90 mins | 0% | 9.0 °C / *(16.2 °F)* | 1.0 kg / *(2.2 lb)* | 1.5 hr/kg (0.68 hr/lb) | 9 °C/kg / *(7.35 °F/lb)* |
-| [Firelog](./Firelog.md) | 120 mins | +7% | 12.0 °C / *(21.6 °F)* | 2.0 kg / *(4.4 lb)* | 1 hr/kg (0.45 hr/lb) | 10.5 °C/kg / *(8.57 °F/lb)* |
-| [Reclaimed Wood](./Reclaimed%20Wood.md) | 30 mins | -5% | 3.0 °C / *(5.4 °F)* | 0.25 kg / *(0.55 lb)* | 2 hr/kg (0.91 hr/lb) | 12 °C/kg / *(9.8 °F/lb)* |
-| [Stick](./Stick.md) | 7.5 mins | +15% | 1.0 °C / *(1.8 °F)* | 0.15 kg / *(0.33 lb)* | 0.83 hr/kg (0.38 hr/lb) | 6.67 °C/kg / *(5.44 °F/lb)* |
+| [Book](./Book.md) | 18 mins | +35% | 2.0 °C / _(3.6 °F)_ | 0.5 kg / _(1.1 lb)_ | 0.6 hr/kg (0.27 hr/lb) | 4 °C/kg / _(3.27 °F/lb)_ |
+| [Cedar Firewood](./Cedar%20Firewood.md) | 60 mins | +15% | 6.0 °C / _(10.8 °F)_ | 0.5 kg / _(1.1 lb)_ | 2 hr/kg (0.91 hr/lb) | 12 °C/kg / _(9.8 °F/lb)_ |
+| [Coal](./Coal.md) | 60 mins | N/A | 20.0 °C / _(36 °F)_ | 0.3 kg / _(0.66 lb)_ | 3.33 hr/kg (1.51 hr/lb) | 66.67 °C/kg / _(54.43 °F/lb)_ |
+| [Fir Firewood ](./Fir%20Firewood.md) | 90 mins | 0% | 9.0 °C / _(16.2 °F)_ | 1.0 kg / _(2.2 lb)_ | 1.5 hr/kg (0.68 hr/lb) | 9 °C/kg / _(7.35 °F/lb)_ |
+| [Firelog](./Firelog.md) | 120 mins | +7% | 12.0 °C / _(21.6 °F)_ | 2.0 kg / _(4.4 lb)_ | 1 hr/kg (0.45 hr/lb) | 10.5 °C/kg / _(8.57 °F/lb)_ |
+| [Reclaimed Wood](./Reclaimed%20Wood.md) | 30 mins | -5% | 3.0 °C / _(5.4 °F)_ | 0.25 kg / _(0.55 lb)_ | 2 hr/kg (0.91 hr/lb) | 12 °C/kg / _(9.8 °F/lb)_ |
+| [Stick](./Stick.md) | 7.5 mins | +15% | 1.0 °C / _(1.8 °F)_ | 0.15 kg / _(0.33 lb)_ | 0.83 hr/kg (0.38 hr/lb) | 6.67 °C/kg / _(5.44 °F/lb)_ |
 
 Burn times are increased with higher levels of the [Fire Starting](./Fire%20Starting.md) skill, shown below (times rounded to nearest half-minute).
 
@@ -78,7 +73,7 @@ Burn times are increased with higher levels of the [Fire Starting](./Fire%20Star
 
 ![](../assets/The_Long_Dark_-_Campfire.jpg)
 
-*Main article: [Campfire](./Campfire.md)*
+_Main article: [Campfire](./Campfire.md)_
 
 A campfire is an open fire that can be placed into the world at the player's discretion. Players are limited in where fires can be placed, and campfires are subject to becoming [windblown](./Campfire.md#Windblown), depending on the weather. If the player has sufficient resources to start another fire, [burnt out](./Campfire.md#Burnt_out) campfires can be relit.
 
@@ -131,7 +126,7 @@ In regards to fire bonus, outdoor caves have a line separating the warm and cold
 
 ## Fire Menu
 
-![The 5 options that appear during an active fire.](../assets/Fire_menu.jpg)*The 5 options that appear during an active fire.* A successful [Fire Starting](./Fire%20Starting.md) attempt will result in an active fire. Interacting with the active fire will result in 5 options appearing in regards to the active fire.
+![The 5 options that appear during an active fire.](../assets/Fire_menu.jpg)_The 5 options that appear during an active fire._ A successful [Fire Starting](./Fire%20Starting.md) attempt will result in an active fire. Interacting with the active fire will result in 5 options appearing in regards to the active fire.
 
 ### Start Fire
 
@@ -151,7 +146,7 @@ The Place menu option allows any cooking container/canned goods/teas in the play
 
 ### Water
 
-![The water processing old menu](../assets/305620_20160916193727_1.png)*The water processing old menu* Water is obtained from fires through melting and boiling snow by first placing a Recycled Can, Cooking Skillet, or Cooking Pot on the heat source. Snow is provided whenever boiling snow is melted, even if the active fire is currently indoors or underground:
+![The water processing old menu](../assets/305620_20160916193727_1.png)_The water processing old menu_ Water is obtained from fires through melting and boiling snow by first placing a Recycled Can, Cooking Skillet, or Cooking Pot on the heat source. Snow is provided whenever boiling snow is melted, even if the active fire is currently indoors or underground:
 
 - [Recycled Can](./Recycled%20Can.md) holds 0.50L of water
 - [Cooking Skillet](./Cooking%20Skillet.md) holds 0.50L to 1.00L of water
@@ -184,4 +179,4 @@ This option only appears at an inactive Campfire, and is used to remove the obje
 
 [Wolves](./Wolf.md) will halt upon reaching a campfire, holding their ground. Should the player go closer to the Wolf it will attack the player instead, it's advised to go a bit farther away or closer to the fire to prevent the Wolf from attacking. Aiming a an item at the Wolf (be it a weapon, a rock, or the [Camera](./Camera.md)) will cause it to flee for a short time. Successfully throwing a Torch at the Wolf will cause it to flee for an extended period of time. Contained fires with no visual contact with the predator (be it a Bear or a Wolf) will not act as a deterrent because the predator will be too close, and once the Wolf starts charging you will have 2 options: run away from the fire and return back if you are light enough or take the risk and aim, UNLESS the predator is a bear.
 
-Auroras will make all predators completely aggressive, thus torches, fires, and flares *WILL NOT STOP OR DETER* any predator from charging at you. [ru:Костёр](ru:%D0%9A%D0%BE%D1%81%D1%82%D1%91%D1%80) [de:Feuer](de:Feuer)
+Auroras will make all predators completely aggressive, thus torches, fires, and flares _WILL NOT STOP OR DETER_ any predator from charging at you. [ru:Костёр](ru:%D0%9A%D0%BE%D1%81%D1%82%D1%91%D1%80) [de:Feuer](de:Feuer)

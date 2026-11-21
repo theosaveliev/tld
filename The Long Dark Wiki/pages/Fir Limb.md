@@ -1,24 +1,19 @@
----
-title: "Fir Limb"
-wiki_namespace: 0
-categories: ["Interactable Objects", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Fir_Limb"
----
-
 # Fir Limb
+
+**Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fir_Limb)
 
 **Fir Limb**
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Small](../assets/Fir_Limb.jpg) / *Small* \| ![Large](../assets/Fir_Limb_Large.jpg) / *Large* \| / \| --- \| --- \| | 250px\]\] |
-| ![Small](../assets/Fir_Limb.jpg) / *Small* | ![Large](../assets/Fir_Limb_Large.jpg) / *Large* |
+| \[\[File: / ![Small](../assets/Fir_Limb.jpg) / _Small_ / ![Large](../assets/Fir_Limb_Large.jpg) / _Large_ | 250px\]\] |
+| ![Small](../assets/Fir_Limb.jpg) / _Small_ | ![Large](../assets/Fir_Limb_Large.jpg) / _Large_ |
 | **General** |  |
 | Item Type |  |
 | Wintermute | Yes\|- / **Statistics** |
 | Harvest | 45-60 Minutes / Yields 3-4 [Fir Firewood](./Fir%20Firewood.md) |
 
-The **Fir Limb** is one of the many stationary interactable objects found in *[The Long Dark](./The%20Long%20Dark.md)*. They respawn randomly in the world over time under trees, making them a renewable [material](./Materials.md).
+The **Fir Limb** is one of the many stationary interactable objects found in _[The Long Dark](./The%20Long%20Dark.md)_. They respawn randomly in the world over time under trees, making them a renewable [material](./Materials.md).
 
 ## Overview
 
@@ -49,5 +44,3 @@ Large limbs cannot be cut up with a hacksaw, and take 60 min to harvest with a n
 | --- | --- | --- | --- | --- |
 | 4 | 1 | 1 Hour | 202 | -2% Hatchet |
 | 4 | 1 |  |  | -2% Improvised Hatchet |
-
-**Lua execution error in Module:Navbox function navbox** [ru:Еловая ветвь](ru:%D0%95%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%B2%D1%8C)

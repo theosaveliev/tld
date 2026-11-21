@@ -1,20 +1,15 @@
----
-title: "Shutterbug"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Shutterbug"
----
-
 # Shutterbug
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Shutterbug)
 
 **Shutterbug**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Shutterbug_icon.png) / *Shutterbug\_icon.png* |
+|  | ![](../assets/Shutterbug_icon.png) / _Shutterbug\_icon.png_ |
 | Description | Take 10 photos with each film type – Colour, B&amp;W, and Sepia (single game). |
 
-**Shutterbug** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Shutterbug** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -25,5 +20,3 @@ This achievement is easiest to unlock when playing on [Pilgrim](./Pilgrim.md). T
 - 10 photos with [FastFilm-500SPA](./FastFilm-500SPA.md)
 
 ## Trivia
-
-A shutterbug is a person who frequently takes photos with a camera.**Lua execution error in Module:Navbox function navbox**

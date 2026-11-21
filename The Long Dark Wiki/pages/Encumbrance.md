@@ -1,11 +1,6 @@
----
-title: "Encumbrance"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Encumbrance"
----
-
 # Encumbrance
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Encumbrance)
 
 **Contents**
 
@@ -31,11 +26,11 @@ The player's normal carrying capacity starts at 30 kg (66 lb). This baseline can
 
 | Image | Name | Carrying capacity increase | Requirments | Expires |
 | --- | --- | --- | --- | --- |
-| ![](../assets/Moose-Hide_Satchel_icon.png) / *Moose-Hide\_Satchel\_icon.png* | [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) | 5.00 kg / *(11 lb)* | Wear Satchel | Satchel is taken off or ruined |
-| ![](../assets/Well_Fed_icon.png) / *Well\_fed\_icon.png* | [Well Fed](./Well%20Fed.md) | 5.00 kg / *(11 lb)* | Avoid starvation for 72 hours | When Calorie Store reaches 0 |
-| ![](../assets/Technical_Backpack_icon.png) / *Technical\_Backpack\_icon.png* | [Technical Backpack](./Technical%20Backpack.md) | 5.00 kg / *(11 lb)* | Acquire Backpack | Never |
-| ![](../assets/Unburdened_icon.png) / *Unburdened\_icon.png* | [Unburdened](./Unburdened.md) | 3.00 kg / *(6.6 lb)* | Consume: ![Ptarmigan\_Pie\_icon.png](../assets/Ptarmigan_Pie_icon.png) [Ptarmigan Pie](./Ptarmigan%20Pie.md)![Rabbit\_Pie\_icon.png](../assets/Rabbit_Pie_icon.png) [Rabbit Pie](./Rabbit%20Pie.md)![Venison\_Pie\_icon.png](../assets/Venison_Pie_icon.png) [Venison Pie](./Venison%20Pie.md)![Porter's\_Soup\_icon.png](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md)![Pemmican\_Bar\_icon.png](../assets/Pemmican_Bar_icon.png) [Pemmican Bar](./Pemmican%20Bar.md) | 3 hours |
-| ![](../assets/Travois_concept.jpg) / *Travois\_concept.jpg* | [Travois](./Travois.md) | 75.00 kg / *(165 lb)* | Carry Travois | When put down |
+| ![](../assets/Moose-Hide_Satchel_icon.png) / _Moose-Hide\_Satchel\_icon.png_ | [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) | 5.00 kg / _(11 lb)_ | Wear Satchel | Satchel is taken off or ruined |
+| ![](../assets/Well_Fed_icon.png) / _Well\_fed\_icon.png_ | [Well Fed](./Well%20Fed.md) | 5.00 kg / _(11 lb)_ | Avoid starvation for 72 hours | When Calorie Store reaches 0 |
+| ![](../assets/Technical_Backpack_icon.png) / _Technical\_Backpack\_icon.png_ | [Technical Backpack](./Technical%20Backpack.md) | 5.00 kg / _(11 lb)_ | Acquire Backpack | Never |
+| ![](../assets/Unburdened_icon.png) / _Unburdened\_icon.png_ | [Unburdened](./Unburdened.md) | 3.00 kg / _(6.6 lb)_ | Consume: ![Ptarmigan\_Pie\_icon.png](../assets/Ptarmigan_Pie_icon.png) [Ptarmigan Pie](./Ptarmigan%20Pie.md)![Rabbit\_Pie\_icon.png](../assets/Rabbit_Pie_icon.png) [Rabbit Pie](./Rabbit%20Pie.md)![Venison\_Pie\_icon.png](../assets/Venison_Pie_icon.png) [Venison Pie](./Venison%20Pie.md)![Porter's\_Soup\_icon.png](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md)![Pemmican\_Bar\_icon.png](../assets/Pemmican_Bar_icon.png) [Pemmican Bar](./Pemmican%20Bar.md) | 3 hours |
+| ![](../assets/Travois_concept.jpg) / _Travois\_concept.jpg_ | [Travois](./Travois.md) | 75.00 kg / _(165 lb)_ | Carry Travois | When put down |
 
 These effects can be stacked, meaning that the player can increase their normal carrying capacity by up to 15 kg (33 lb). However, since there is a limit to how many satchels/backpacks the player can equip (only one of each can be equipped at a time), 45 kg (99 lb) is the highest-possible carrying capacity in the base game.
 
@@ -51,11 +46,11 @@ The amount of weight the character is carrying increases the rate of [Fatigue](.
 
 | Image | Name | Carrying capacity increase |
 | --- | --- | --- |
-| ![](../assets/Fatigue_Reduced_icon.png) / *Fatigue\_Reduced\_icon.png* | Low [Fatigue](./Fatigue.md) | -0.01 kg to -15.00 kg / *(0.02 - 33.09 lbs)* |
-| ![](../assets/Burdened_icon.png) / *Burdened\_icon.png* | [Burdened](./Burdened.md) | -3.00 kg (-6.6 lb) for 1 hour |
-| ![](../assets/Broken_Ribs_icon.png) / *Broken\_Ribs\_icon.png* | [Broken Ribs](./Broken%20Ribs.md) | 25% reduction until healed |
-| ![](../assets/Scurvy_icon.png) / *Scurvy\_icon.png* | [Scurvy](./Scurvy.md) | -5 kg (-11 lb) |
-| ![](../assets/Diminished_Form_icon.png) / *Diminished\_Form\_icon.png* | [Diminished Form](./Diminished%20Form.md) | permanent -5 kg (-11 lb) |
+| ![](../assets/Fatigue_Reduced_icon.png) / _Fatigue\_Reduced\_icon.png_ | Low [Fatigue](./Fatigue.md) | -0.01 kg to -15.00 kg / _(0.02 - 33.09 lbs)_ |
+| ![](../assets/Burdened_icon.png) / _Burdened\_icon.png_ | [Burdened](./Burdened.md) | -3.00 kg (-6.6 lb) for 1 hour |
+| ![](../assets/Broken_Ribs_icon.png) / _Broken\_Ribs\_icon.png_ | [Broken Ribs](./Broken%20Ribs.md) | 25% reduction until healed |
+| ![](../assets/Scurvy_icon.png) / _Scurvy\_icon.png_ | [Scurvy](./Scurvy.md) | -5 kg (-11 lb) |
+| ![](../assets/Diminished_Form_icon.png) / _Diminished\_Form\_icon.png_ | [Diminished Form](./Diminished%20Form.md) | permanent -5 kg (-11 lb) |
 
 ## Movement Thresholds
 
@@ -127,8 +122,6 @@ Totally encumbered
 
 - "Too heavy, can't move."
 - "TOO, MUCH, TO CARRY!!!"
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Перевес](ru:%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D1%81) [es:capacidad de carga](es:capacidad_de_carga)
 

@@ -1,11 +1,6 @@
----
-title: "Pleasant Valley History"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Pleasant_Valley_History"
----
-
 # Pleasant Valley History
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pleasant_Valley_History)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Pleasant_Valley_History"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Knowledge.png) / *Knowledge.png* |
+|  | ![](../assets/Knowledge.png) / _Knowledge.png_ |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -41,7 +36,7 @@ source: "https://thelongdark.fandom.com/wiki/Pleasant_Valley_History"
 
 ### **Pleasant Valley History Part One**
 
-*The following text is transcribed from **Pleasant Valley History Part One***
+_The following text is transcribed from **Pleasant Valley History Part One**_
 
 **Pleasant Valley’s harsh and remote location, even for Great Bear Island, has shaped much of its history and the character of its residents. The Valley’s geography -- wide, open fields ringed by jagged mountain ranges -- creates unusually strong weather events. Locals have long told of multi-day storms, high winds, and a deep, endless cold during the Winter months.
 
@@ -49,7 +44,7 @@ But these conditions didn’t keep Great Bear Islanders from settling there. In 
 
 ### **Pleasant Valley History Part Two**
 
-*The following text is transcribed from **Pleasant Valley History Part Two***
+_The following text is transcribed from **Pleasant Valley History Part Two**_
 
 **Founded in 1919, Thomson’s Crossing remains the only significant community in Pleasant Valley. With a history tied to the farming and mining concerns of its residents, the isolated town followed its own path along the boom and bust cycle of Great Bear Island industry.
 
@@ -57,7 +52,7 @@ With greater and greater instability due to seismic activity, the workings in th
 
 ### **Pleasant Valley History Part Three**
 
-*The following text is transcribed from **Pleasant Valley History Part Three***
+_The following text is transcribed from **Pleasant Valley History Part Three**_
 
 **With the onset of The Collapse, Pleasant Valley locals didn’t notice the brunt of change all that quickly. Being so accustomed to remote living already, it took several years before life shifted in any dramatic fashion.
 
@@ -67,5 +62,3 @@ Residents did begin to notice the growing scarcity of the few creature comforts 
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

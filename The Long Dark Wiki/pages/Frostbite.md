@@ -1,17 +1,12 @@
----
-title: "Frostbite"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Frostbite"
----
-
 # Frostbite
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frostbite)
 
 **Frostbite**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Frostbite_icon.png) / *Frostbite\_icon.png* |
+|  | ![](../assets/Frostbite_icon.png) / _Frostbite\_icon.png_ |
 | **Properties** |  |
 | Category | [Affliction](./Afflictions.md) |
 | Description | You have sustained frostbite. Your general condition is permanently reduced. |
@@ -30,7 +25,7 @@ Frostbite Risk will only appear when 1 of 5 extremities of bare skin is exposed 
 
 ## Affliction
 
-> “**You have sustained frostbite. Your general condition is permanently reduced.**”
+> “__You have sustained frostbite. Your general condition is permanently reduced.__”
 >
 > — In-game Description
 
@@ -39,5 +34,3 @@ Each instance of acquired Frostbite reduces your maximum [Condition](./Condition
 - A player can only receive Frostbite for 5 body parts (Head, Torso, Hands, Legs, Feet), however you can get 5 Frostbite Afflictions for every body part, resulting in a death at 10 instances of Frostbite (or 11 temporarily with the extra 15% acquired from [Well Fed](./Well%20Fed.md) and [Nourished](./Nourished.md), until Nourished wears off).
 - Theoretically, if one's Condition were high enough, it would be possible to acquire 25 instances of Frostbite, totaling for a maximum of -250% Condition loss.
 - The Condition bar loss from Frostbite stacks with [Burns](./Burns.md) or [Chemical Poisoning](./Chemical%20Poisoning.md).
-
-**Lua execution error in Module:Navbox function navbox**[ru:Обморожение](ru:%D0%9E%D0%B1%D0%BC%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)

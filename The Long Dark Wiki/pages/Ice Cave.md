@@ -1,11 +1,6 @@
----
-title: "Ice Cave"
-wiki_namespace: 0
-categories: ["Locations", "Locations in Hushed River Valley"]
-source: "https://thelongdark.fandom.com/wiki/Ice_Cave"
----
-
 # Ice Cave
+
+**Categories:** Locations, Locations in Hushed River Valley · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ice_Cave)
 
 **Ice caves** are interior locations mainly found in the [Hushed River Valley](./Hushed%20River%20Valley.md) region. Another ice cave connects [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) with [Keeper's Pass South](./Keeper%27s%20Pass%20South.md), and a small ice cave can be found in [Pleasant Valley](./Pleasant%20Valley.md), located in the back of the cave at [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md).
 
@@ -28,9 +23,26 @@ Just like normal caves, lumps of [coal](./Coal.md) may occasionally be found lyi
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![](../assets/Map-IceCave-wtM-100.png) / *Map-IceCave-wtM-100.png* | ![](../assets/Map-IceCave-noM-101.png) / *Map-IceCave-noM-101.png* | ![A rough map of the ice cave system](../assets/Ice_Cave_System.png) / *A rough map of the ice cave system* | ![](../assets/River_Valley_-_cave.png) / *River\_Valley\_-\_cave.png* |
-| ![A frozen corpse in an ice cave](../assets/FrozenCorpseInAnIceCave.png) / *A [frozen corpse](./Frozen%20Corpse.md) in an ice cave* | ![An ice room lit with moss](../assets/IceRoomIceCave.png) / *An ice room lit with moss* |  |  |
+![](../assets/Map-IceCave-wtM-100.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Map-IceCave-wtM-100.png_
+
+![](../assets/Map-IceCave-noM-101.png)
+
+_Map-IceCave-noM-101.png_
+
+![A rough map of the ice cave system](../assets/Ice_Cave_System.png)
+
+_A rough map of the ice cave system_
+
+![](../assets/River_Valley_-_cave.png)
+
+_River\_Valley\_-\_cave.png_
+
+![A frozen corpse in an ice cave](../assets/FrozenCorpseInAnIceCave.png)
+
+_A [frozen corpse](./Frozen%20Corpse.md) in an ice cave_
+
+![An ice room lit with moss](../assets/IceRoomIceCave.png)
+
+_An ice room lit with moss_

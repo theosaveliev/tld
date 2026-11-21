@@ -1,11 +1,6 @@
----
-title: "Blackrock Blues"
-wiki_namespace: 0
-categories: ["Episode 4"]
-source: "https://thelongdark.fandom.com/wiki/Blackrock_Blues"
----
-
 # Blackrock Blues
+
+**Categories:** Episode 4 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_Blues)
 
 **Blackrock Blues** is the first mission in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md). In this episode, Will has to get medical supplies to help heal [Franklin](./Franklin.md) after [Mathis](./Mathis.md) beat him up.
 

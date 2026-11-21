@@ -1,10 +1,6 @@
----
-title: "Survival Mode/Interloper Tips"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Survival_Mode%2FInterloper_Tips"
----
-
 # Survival Mode/Interloper Tips
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survival_Mode%2FInterloper_Tips)
 
 **Contents**
 
@@ -39,7 +35,7 @@ source: "https://thelongdark.fandom.com/wiki/Survival_Mode%2FInterloper_Tips"
 - [Travois](#travois)
 - [Later game](#later-game)
 
-This page is a brief guide for players new to [Interloper](./Survival%20Mode.md#nterloper), the second most difficult experience mode in [*The Long Dark*](./The%20Long%20Dark.md) after the [Misery](./Misery.md) mode.
+This page is a brief guide for players new to [Interloper](./Survival%20Mode.md#nterloper), the second most difficult experience mode in [_The Long Dark_](./The%20Long%20Dark.md) after the [Misery](./Misery.md) mode.
 
 Interloper is a mode where Great Bear Island has already been picked clean of anything useful by the time you arrive. The developers of The Long Dark have stated that the experience of Interloper is akin to "Survival on a knife's edge." You will ALWAYS have this metaphorical knife pressed against you as you play. Some days the knife will push deep inside you, while others it will just hang over you like the Sword of Damocles.
 
@@ -49,7 +45,7 @@ While challenging, Interloper can be a rewarding gameplay experience without see
 
 ### **KNOW. THE. MAPS.**
 
-This is the single most important game-tip for being successful in Interloper. If you have only played Story Mode and end up being spawned into a region you have never visited, your chances of surviving for more than a few in-game hours will be very low. *Thoroughly* explore Great Bear Island on at least Voyageur difficulty before starting Interloper so you know where to find food, shelter, materials, fireboxes, passages to other regions, dangerous wildlife chokepoints, bear dens, and facilites (beds, workbenches, forges, etc). You'll be spending as much time in the game trying not to freeze, so [surveying](./Map.md) should generally be avoided until later in Interloper runs. To avoid spending lots of time being frustrated at walking in circles and freezing to death, know the maps by experience.
+This is the single most important game-tip for being successful in Interloper. If you have only played Story Mode and end up being spawned into a region you have never visited, your chances of surviving for more than a few in-game hours will be very low. _Thoroughly_ explore Great Bear Island on at least Voyageur difficulty before starting Interloper so you know where to find food, shelter, materials, fireboxes, passages to other regions, dangerous wildlife chokepoints, bear dens, and facilites (beds, workbenches, forges, etc). You'll be spending as much time in the game trying not to freeze, so [surveying](./Map.md) should generally be avoided until later in Interloper runs. To avoid spending lots of time being frustrated at walking in circles and freezing to death, know the maps by experience.
 
 One good way to learn the layouts and named locations of every map is to start a Survival game on [Pilgrim](./Pilgrim.md) and to aim for the [Faithful Cartographer](./Faithful%20Cartographer.md) achievement. This will require you to survey every named location on the island and you'll learn from experience where every significant landmark and supply cache is located. If this sounds too time consuming, then consider visiting a designated wiki page for each [Region](./Region.md) and Transition Zone on this wiki, as they contain detailed maps useful for navigation.
 
@@ -57,7 +53,7 @@ One good way to learn the layouts and named locations of every map is to start a
 
 Most tools necessary for your survival will be missing in order to increase difficulty and challenge for Interloper. You will start the game with a few low quality clothing items, some water, and no bedroll. The availability of supplies will be dialed down significantly, so you will have to check high and low inside buildings for any supplies as you make your way across the Island.
 
-[Hunting Rifles](./Hunting%20Rifle.md), [Revolvers](./Revolver.md), [Survival Knives](./Hunting%20Knife.md), and [Hatchets](./Hatchet.md) ***will not spawn***. This one design choice separates Interloper from every other game mode, as it is almost impossible to hunt and harvest carcasses without these tools.
+[Hunting Rifles](./Hunting%20Rifle.md), [Revolvers](./Revolver.md), [Survival Knives](./Hunting%20Knife.md), and [Hatchets](./Hatchet.md) **_will not spawn_**. This one design choice separates Interloper from every other game mode, as it is almost impossible to hunt and harvest carcasses without these tools.
 
 Likewise, the probability of finding [Prybar](./Prybar.md), [Hacksaws](./Hacksaw.md), [Storm Lanterns](./Storm%20Lantern.md), [Flashlights](./Flashlight.md), [Can Openers](./Can%20Opener.md), [Simple](./Simple%20Tools.md) or even [Quality Tools](./Quality%20Tools.md) will be extremely low, but you can find them if you look hard enough.
 
@@ -67,7 +63,7 @@ Matches will be your most precious resource and are often hard to find. They may
 
 Most high quality clothes will be missing, making any clothing you find your only way to stay warm indoors or outdoors, so take care of them whenever possible. Crafting animal furs will be required if you ever want to stop freezing to death on this mode, but without tools to hunt large game for their warm hides you'll need to...
 
-### *Find a Heavy Hammer as soon as possible!*
+### _Find a Heavy Hammer as soon as possible!_
 
 As stated previously, Survival Knives and Hatchets do not spawn on Interloper. As such, hunting and harvesting carcasses will be impossible until you acquire a Heavy Hammer to create [Improvised Knives](./Improvised%20Knife.md), [Improvised Hatchets](./Improvised%20Hatchet.md), and [Arrowheads](./Arrowhead.md) at a Forge. You can survive for at least 100 days by moving from region to region and surviving off of cat tails and packaged foods, but you WILL run out eventually and be forced to hunt. You'll want around 10 [scrap metal](./Scrap%20Metal.md) in total: 5 for the hatchet, 3 for the knife, and 2 for making four arrowheads. Finding a [hacksaw](./Hacksaw.md) will make this easier, but it's not essential.
 
@@ -91,7 +87,7 @@ Since the game only allows 2 active [Feats](./Feats.md) for Interloper, it's a g
 - Settled Mind is generally superior to Book Smarts as it both speeds up research and prevents [Cabin Fever](./Cabin%20Fever.md). This requres [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) to be installed.
 - Blizzard Walker can improve quality of life and potentially save small amounts of condition by shortening travel time.
 - Expert Trapper can be useful throughout the game, although its effects can also be accomplished simply by crafting more [snares](./Snare.md).
-- Fire Master may *seem* useful, but [Fire Starting](./Fire%20Starting.md) can be raised relatively quickly by lighting a chain of campfires. All it takes is [sticks](./Stick.md) and [torches](./Torch.md).
+- Fire Master may _seem_ useful, but [Fire Starting](./Fire%20Starting.md) can be raised relatively quickly by lighting a chain of campfires. All it takes is [sticks](./Stick.md) and [torches](./Torch.md).
 - Straight to the Heart is of limited utility due to the lack of caffeinated beverages.
 - Free Runner is rarely useful: [Fatigue](./Fatigue.md) drain during sprinting is usually a bigger concern than calories.
 - Celestial Navigator and the Darkwalker are essentially useless unless you're playing a custom Endless Night Interloper.
@@ -196,7 +192,7 @@ You may also find a [flare gun](./Distress%20Pistol.md), but use its shells spar
 
 ## Wolves
 
-Wolves are *deadly* in Interloper. Unless you are at full [condition](./Condition.md) and have an improvised [knife](./Improvised%20Knife.md) or [hatchet](./Improvised%20Hatchet.md), your chances of surviving a [struggle](./Struggle.md) bare handed are slim. Use [torches](./Torch.md) to keep wolves at bay and prevent them from charging. If it gets windy, keep a [flare](./Flare.md) at the ready and don't be afraid to use it.
+Wolves are _deadly_ in Interloper. Unless you are at full [condition](./Condition.md) and have an improvised [knife](./Improvised%20Knife.md) or [hatchet](./Improvised%20Hatchet.md), your chances of surviving a [struggle](./Struggle.md) bare handed are slim. Use [torches](./Torch.md) to keep wolves at bay and prevent them from charging. If it gets windy, keep a [flare](./Flare.md) at the ready and don't be afraid to use it.
 
 Once you have obtained a [Survival Bow](./Survival%20Bow.md), you can use it to deal with wolves. A direct hit on a charging wolf with a [Simple Arrow](./Simple%20Arrow.md) will kill it. A [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) will not hurt the wolf, but will scare it away. But be careful! A missed shot can lead to a game-ending struggle. It's best to try and stay well away from wolves and not carry large amounts of smelly food to avoid attracting attention.
 
@@ -238,7 +234,7 @@ Increasing [Carcass Harvesting](./Carcass%20Harvesting.md) makes getting meat, h
 
 ### Cooking
 
-[Cooking](./Cooking.md) is arguably *the* most critical skill to increase, especially in the early game, as it boosts the calories obtained from any cooked food, which, given the scarcity of food in Interloper, can be extremely important. Furthermore, reaching level 5 prevents [Food Poisoning](./Food%20Poisoning.md) and [Intestinal Parasites](./Intestinal%20Parasites.md). While this skill will raise gradually on its own, some tips to quickly raise cooking include:
+[Cooking](./Cooking.md) is arguably _the_ most critical skill to increase, especially in the early game, as it boosts the calories obtained from any cooked food, which, given the scarcity of food in Interloper, can be extremely important. Furthermore, reaching level 5 prevents [Food Poisoning](./Food%20Poisoning.md) and [Intestinal Parasites](./Intestinal%20Parasites.md). While this skill will raise gradually on its own, some tips to quickly raise cooking include:
 
 - heat **every** canned food you find
 - gather all the [reishi mushrooms](./Reishi%20Mushroom.md), [rosehips](./Rose%20Hip.md), [birch bark](./Birch%20Bark.md), [herbal teas](./Herbal%20Tea.md), [burdocks](./Burdock.md), and [coffees](./Tin%20of%20Coffee.md) you can find and convert them into drinks. They're fast to cook.
@@ -268,6 +264,6 @@ The one caveat with the Travois is that it does not fit into narrow spaces, cann
 
 ## Later game
 
-Once you have successfully acquired a full set of improvised tools, a bow, simple arrows, and animal hide clothing, you are fully set for survival in Interloper. Be *extremely* careful if you choose to complete [Tales](./Tales.md), as aurora wolves are even deadlier than normal wolves and can't be scared using torches, fires, or flares. [Noisemakers](./Noisemaker.md) may be your best friend here as they will scare off predators, however they are not easy to acquire due to needing an [Ammunition Work Bench](./Ammunition%20Work%20Bench.md).
+Once you have successfully acquired a full set of improvised tools, a bow, simple arrows, and animal hide clothing, you are fully set for survival in Interloper. Be _extremely_ careful if you choose to complete [Tales](./Tales.md), as aurora wolves are even deadlier than normal wolves and can't be scared using torches, fires, or flares. [Noisemakers](./Noisemaker.md) may be your best friend here as they will scare off predators, however they are not easy to acquire due to needing an [Ammunition Work Bench](./Ammunition%20Work%20Bench.md).
 
 If you choose to visit Bleak Inlet or Blackrock, make sure you are well armed with several [simple arrows](./Simple%20Arrow.md) and torches or [marine flares](./Marine%20Flare.md). Timberwolves kill in seconds and packs are extremely hard to fend off with just a bow, so don't be afraid to quit and reload the game to preserve your save file if you hear a pack howling and running towards you if you are not well prepared.

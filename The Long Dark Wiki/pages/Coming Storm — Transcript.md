@@ -1,17 +1,12 @@
----
-title: "Coming Storm/Transcript"
-wiki_namespace: 0
-categories: ["Episode 3"]
-source: "https://thelongdark.fandom.com/wiki/Coming_Storm%2FTranscript"
----
-
 # Coming Storm/Transcript
+
+**Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Coming_Storm%2FTranscript)
 
 **Coming Storm/Transcript**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Missions_story_ep3_Coming_Storm.png) / *Missions\_story\_ep3\_Coming\_Storm.png* |
+|  | ![](../assets/Missions_story_ep3_Coming_Storm.png) / _Missions\_story\_ep3\_Coming\_Storm.png_ |
 | Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
 | Previous | [Fallen Star/Transcript](./Fallen%20Star%20%E2%80%94%20Transcript.md) |
 | Current | Coming Storm/Transcript |
@@ -29,9 +24,9 @@ COMING STORM
 
 [Astrid Greenwood](./Astrid%20Greenwood.md): "Still some names missing from the passenger manifest. Became delirious and wandered off, maybe."
 
-*A new addition to the entrance to the hall is present, an [Emergency Kit](./Emergency%20Kit.md), perhaps left by Molly? Either way, Astrid takes the [Distress Pistol](./Distress%20Pistol.md) and [Flare Shells](./Flare%20Shell.md) and begins searching for supplies and the 3 missing [Crash Survivors](./Crash%20Survivor.md)*
+_A new addition to the entrance to the hall is present, an [Emergency Kit](./Emergency%20Kit.md), perhaps left by Molly? Either way, Astrid takes the [Distress Pistol](./Distress%20Pistol.md) and [Flare Shells](./Flare%20Shell.md) and begins searching for supplies and the 3 missing [Crash Survivors](./Crash%20Survivor.md)_
 
-*After rescuing the 3 missing survivors, and stocking the [Storage Cupboard](./Storage%20Cupboard.md) with all the needed supplies, Astrid finds Father Thomas standing on the stage in front of a podium, overlooking his flock.*
+_After rescuing the 3 missing survivors, and stocking the [Storage Cupboard](./Storage%20Cupboard.md) with all the needed supplies, Astrid finds Father Thomas standing on the stage in front of a podium, overlooking his flock._
 
 [Father Thomas](./Father%20Thomas.md): "Thank you for your efforts. You have likely saved the lives of all these people. They now have a fighting chance to last through this storm. You have done God's work here and He will forever look favourably upon you."
 
@@ -45,19 +40,19 @@ Father Thomas: "There is another route. It's a dangerous one. Through the mounta
 
 Astrid: "I'll take my chances. I really need to get to Perseverance Mills. If things are this bad here, they'll be worse... Look, I just need to get there. Can you help me?"
 
-*Father Thomas takes his glasses off*
+_Father Thomas takes his glasses off_
 
 Father Thomas: "An entrance to the old coal mine. If the blizzard moved enough snow, you might be able to get in there. It passes through the mountain."
 
-*Father Thomas puts his glasses back on*
+_Father Thomas puts his glasses back on_
 
 Father Thomas: "After that, you'll find the highway - it follows the coastline. Follow the highway and, god-willing, you'll get to Perseverance Mills. Here...I'll draw it on your map for you..."
 
-*Astrid hands him a map*
+_Astrid hands him a map_
 
 Astrid: "Thank you, Father."
 
-*He draws on the map and hands it back to her*
+_He draws on the map and hands it back to her_
 
 Father Thomas: "My thanks to you, my child. And if you'll permit an old priest an indulgence. I'd like to share some wisdom with you."
 
@@ -77,10 +72,8 @@ Astrid: "Look around you, Father. I think the Lord may have his hands full right
 
 Father Thomas: "However crowded his table, there is always a seat for you, my child."
 
-Astrid: "I'll keep it in mind, Father." *produces the [Rosary](./Rosary.md)* "Here. You should take this back."
+Astrid: "I'll keep it in mind, Father." _produces the [Rosary](./Rosary.md)_ "Here. You should take this back."
 
 Father Thomas: "Keep it, my child. I fear you will have need of it before this long winter is done."
 
-*Astrid dangles the prayer beads and cross before her, and puts it away*
-
-The story continues in [Aftermath/Transcript](./Aftermath%20%E2%80%94%20Transcript.md).**Lua execution error in Module:Navbox function navbox**
+_Astrid dangles the prayer beads and cross before her, and puts it away_

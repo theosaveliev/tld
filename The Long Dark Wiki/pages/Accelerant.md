@@ -1,17 +1,12 @@
----
-title: "Accelerant"
-wiki_namespace: 0
-categories: ["Fire Starting"]
-source: "https://thelongdark.fandom.com/wiki/Accelerant"
----
-
 # Accelerant
+
+**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Accelerant)
 
 **Accelerant**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Accelerant_icon.png) / *accelerant\_icon.png* |
+|  | ![](../assets/Accelerant_icon.png) / _accelerant\_icon.png_ |
 | **General** |  |
 | Item Type | Fire Starting\|- |
 | Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
@@ -20,11 +15,11 @@ source: "https://thelongdark.fandom.com/wiki/Accelerant"
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 | Bonus chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+40% |
 
-> “**Low-volume fuel source designed to help start fires; ex. lighter fluid.**”
+> “__Low-volume fuel source designed to help start fires; ex. lighter fluid.__”
 >
 > — In-game description
 
-**Accelerant** is a tool that aids in lighting fires. It comes in a container labeled *Quickflame* and stacks in the inventory.
+**Accelerant** is a tool that aids in lighting fires. It comes in a container labeled _Quickflame_ and stacks in the inventory.
 
 ## Usage
 
@@ -34,10 +29,8 @@ As accelerant is non-renewable beside from the rare spawn chance from [Beachcomb
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Accelerant.png) / *old model* |
+![old model](../assets/Accelerant.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_old model_
 
 [ru:Горючее](ru:%D0%93%D0%BE%D1%80%D1%8E%D1%87%D0%B5%D0%B5) [es:Acelerante](es:Acelerante)

@@ -1,17 +1,12 @@
----
-title: "Faded Photograph"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Faded_Photograph"
----
-
 # Faded Photograph
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Faded_Photograph)
 
 **Faded Photograph**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Faded_Photograph_icon.png) / *Faded\_Photograph\_icon.png* |
+|  | ![](../assets/Faded_Photograph_icon.png) / _Faded\_Photograph\_icon.png_ |
 | Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
 | Wintermute | No |
 | **Properties** |  |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Faded_Photograph"
 
 ## Transcript
 
-*The following text is transcribed from the note **Faded photograph***
+_The following text is transcribed from the note **Faded photograph**_
 
 **The locals call this the Enduring Waterfall. Wanted to capture the view from my usual spot.**
 
@@ -35,5 +30,3 @@ source: "https://thelongdark.fandom.com/wiki/Faded_Photograph"
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

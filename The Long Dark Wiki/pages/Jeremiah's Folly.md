@@ -1,11 +1,6 @@
----
-title: "Jeremiah's Folly"
-wiki_namespace: 0
-categories: ["Episode 2", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Folly"
----
-
 # Jeremiah's Folly
+
+**Categories:** Episode 2, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly)
 
 **Contents**
 
@@ -17,7 +12,7 @@ source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Folly"
 - [Plot Points and Gameplay Changes](#plot-points-and-gameplay-changes)
 - [Game History](#game-history)
 
-**Jeremiah's Folly** was the fourth mission of the Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of *[The Long Dark](./The%20Long%20Dark.md)* by using the [Time Capsule](./Time%20Capsule.md).
+**Jeremiah's Folly** was the fourth mission of the Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 This mission was poorly received due to its unfair and confusing method of tracking the [Old Bear](./Old%20Bear.md), and has since been replaced by the mission [What One Man Can Do](./What%20One%20Man%20Can%20Do.md). Chasing the Old Bear with a Rifle was kept in the Challenge [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md) however.
 

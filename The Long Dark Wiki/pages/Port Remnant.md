@@ -1,11 +1,6 @@
----
-title: "Port Remnant"
-wiki_namespace: 0
-categories: ["DLC Content"]
-source: "https://thelongdark.fandom.com/wiki/Port_Remnant"
----
-
 # Port Remnant
+
+**Categories:** DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Port_Remnant)
 
 **Contents**
 
@@ -22,11 +17,11 @@ source: "https://thelongdark.fandom.com/wiki/Port_Remnant"
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| ![](../assets/Seal_icon.png) / *Seal\_icon.png* | **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / **Port Remnant** / \| Property \| Details \| / \| --- \| --- \| / \|  \| ![](../assets/Port_Remnant.jpg) / *Port\_Remnant.jpg* \| / \| **Location on [Cauldron Island](./Cauldron%20Island.md)** \|  \| / \|  \| ![](../assets/No_picture.png) / *No\_picture.png* \| / \|  \| ![](../assets/Port_Remnant_Map.png) / *Port\_Remnant\_Map.png* \| / \| **Details** \|  \| / \| Description \| A century old abandoned shipping port that is the starting point of Cauldron Island. \| / \| Connecting Regions \| [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) \| / \| Interloper Region Spawn \| No \| / \| Date Added \| October 27 2026 \| / **Port Remnant** is a [Region](./Region.md) released for *[The Long Dark](./The%20Long%20Dark.md)* and is the starting point of [Cauldron Island](./Cauldron%20Island.md) and the [*Iron Road*](./Iron%20Road.md) expansion. / ## Overview / Port Remnant is first accessed by taking the [Fulmar Autopilot Boat](./Fulmar%20Autopilot%20Boat.md) from [Desolation Point](./Desolation%20Point.md). From there, the player will arrive at Cauldron Island inside a cave underneath the Lighthouse. Climbing the stone stairs reveals a ruined Lighthouse and [Wax Cylinder 2](./Wax%20Cylinder%202.md) and [Map (Church)](./Map%20%28Church%29.md). The Cylinder has a key to the door, and the Map points to the path to take to the Church in the region. / The region itself is in a considerable state of disrepair. A century of time has rotted away most of the buildings in the region, many of which are barely standing. 3 ships can be found half sunken in the ice near the Lighthouse. What is presumably a whaling warehouse is found in the center of the map after traversing the frozen bay, with worker cabins found around the area. Southwest is a set of train track, train bridge, and a train terminal. A road leads up to a cliff to the Church in the south most part of the map (inaccessible due to a landslide), with more flat land and some ponds below the southern cliffs. / Several of the jagged mountainous areas can be explored near the bay, leading to hidden plant supplies and unique vantage points. Bizarrely, there are 3 Whale Bone Shrines in a few places in the region whose nature is currently not understood. / Taking the tracks to the east will take the player to [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md), while the tracks to the west lead to [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) (though the path is blocked by a metal gate). / The area can be returned later to with the [Prototype Train](./Prototype%20Train.md), which can be used to open the inaccessible [Obstructed Transit](./Obstructed%20Transit.md) and destroy the gate to Track Section 1. This is the only region on Anna Island not to feature an [Oil Tank](./Oil%20Tank.md) or [Water Tower](./Water%20Tower.md) (aside from [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)). / ## Locations / There are 16 named locations within Port Remnant, including:{\| class="" style="background-color:transparent; color:inherit; width:100%;" |
-| ![](../assets/Port_Remnant.jpg) / *Port\_Remnant.jpg* |  |  |
+| ![](../assets/Seal_icon.png) / _Seal\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / **Port Remnant** / \| Property \| Details \| / \| --- \| --- \| / \|  \| ![](../assets/Port_Remnant.jpg) / _Port\_Remnant.jpg_ \| / \| **Location on [Cauldron Island](./Cauldron%20Island.md)** \|  \| / \|  \| ![](../assets/No_picture.png) / _No\_picture.png_ \| / \|  \| ![](../assets/Port_Remnant_Map.png) / _Port\_Remnant\_Map.png_ \| / \| **Details** \|  \| / \| Description \| A century old abandoned shipping port that is the starting point of Cauldron Island. \| / \| Connecting Regions \| [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) \| / \| Interloper Region Spawn \| No \| / \| Date Added \| October 27 2026 \| / **Port Remnant** is a [Region](./Region.md) released for _[The Long Dark](./The%20Long%20Dark.md)_ and is the starting point of [Cauldron Island](./Cauldron%20Island.md) and the [_Iron Road_](./Iron%20Road.md) expansion. / ## Overview / Port Remnant is first accessed by taking the [Fulmar Autopilot Boat](./Fulmar%20Autopilot%20Boat.md) from [Desolation Point](./Desolation%20Point.md). From there, the player will arrive at Cauldron Island inside a cave underneath the Lighthouse. Climbing the stone stairs reveals a ruined Lighthouse and [Wax Cylinder 2](./Wax%20Cylinder%202.md) and [Map (Church)](./Map%20%28Church%29.md). The Cylinder has a key to the door, and the Map points to the path to take to the Church in the region. / The region itself is in a considerable state of disrepair. A century of time has rotted away most of the buildings in the region, many of which are barely standing. 3 ships can be found half sunken in the ice near the Lighthouse. What is presumably a whaling warehouse is found in the center of the map after traversing the frozen bay, with worker cabins found around the area. Southwest is a set of train track, train bridge, and a train terminal. A road leads up to a cliff to the Church in the south most part of the map (inaccessible due to a landslide), with more flat land and some ponds below the southern cliffs. / Several of the jagged mountainous areas can be explored near the bay, leading to hidden plant supplies and unique vantage points. Bizarrely, there are 3 Whale Bone Shrines in a few places in the region whose nature is currently not understood. / Taking the tracks to the east will take the player to [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md), while the tracks to the west lead to [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) (though the path is blocked by a metal gate). / The area can be returned later to with the [Prototype Train](./Prototype%20Train.md), which can be used to open the inaccessible [Obstructed Transit](./Obstructed%20Transit.md) and destroy the gate to Track Section 1. This is the only region on Anna Island not to feature an [Oil Tank](./Oil%20Tank.md) or [Water Tower](./Water%20Tower.md) (aside from [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)). / ## Locations / There are 16 named locations within Port Remnant, including:{\| class="" style="background-color:transparent; color:inherit; width:100%;" |
+| ![](../assets/Port_Remnant.jpg) / _Port\_Remnant.jpg_ |  |  |
 | **Location on [Cauldron Island](./Cauldron%20Island.md)** |  |  |
-| ![](../assets/No_picture.png) / *No\_picture.png* |  |  |
-| ![](../assets/Port_Remnant_Map.png) / *Port\_Remnant\_Map.png* |  |  |
+| ![](../assets/No_picture.png) / _No\_picture.png_ |  |  |
+| ![](../assets/Port_Remnant_Map.png) / _Port\_Remnant\_Map.png_ |  |  |
 | **Details** |  |  |
 | Description | A century old abandoned shipping port that is the starting point of Cauldron Island. |  |
 | Connecting Regions | [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) |  |
@@ -72,19 +67,62 @@ Key shelters in Port Remnant include:
 
 ### Locations
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Lighthouse Keeper's Cabin](../assets/Lighthouse_Keepers_Cabin.png) / *Lighthouse Keeper's Cabin* | ![Departure's Memory](../assets/Departure%27s_Memory.jpg) / *Departure's Memory* | ![Looted Grotto](../assets/Looted_Grotto.jpg) / *Looted Grotto* | ![Desecrated Church](../assets/Desecrated_Church.jpg) / *Desecrated Church* |
-| ![Obstructed Transit](../assets/Obstructed_Transit.jpg) / *Obstructed Transit* | ![Broken Shoreline](../assets/Broken_Shoreline.jpg) / *Broken Shoreline* | ![Forgotten Trestle](../assets/Forgotten_Trestle.jpg) / *Forgotten Trestle* | ![Last Quarrel](../assets/Last_Quarrel.jpg) / *Last Quarrel* |
-| ![Fallow Field](../assets/Fallow_Field.jpg) / *Fallow Field* |  |  |  |
+![Lighthouse Keeper's Cabin](../assets/Lighthouse_Keepers_Cabin.png)
+
+_Lighthouse Keeper's Cabin_
+
+![Departure's Memory](../assets/Departure%27s_Memory.jpg)
+
+_Departure's Memory_
+
+![Looted Grotto](../assets/Looted_Grotto.jpg)
+
+_Looted Grotto_
+
+![Desecrated Church](../assets/Desecrated_Church.jpg)
+
+_Desecrated Church_
+
+![Obstructed Transit](../assets/Obstructed_Transit.jpg)
+
+_Obstructed Transit_
+
+![Broken Shoreline](../assets/Broken_Shoreline.jpg)
+
+_Broken Shoreline_
+
+![Forgotten Trestle](../assets/Forgotten_Trestle.jpg)
+
+_Forgotten Trestle_
+
+![Last Quarrel](../assets/Last_Quarrel.jpg)
+
+_Last Quarrel_
+
+![Fallow Field](../assets/Fallow_Field.jpg)
+
+_Fallow Field_
 
 ### Miscellaneous
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Port Remnant concept art](../assets/Tld-august-dev-diary-site-support-img-1.jpg) / *Port Remnant concept art* | ![A beached Whaling ship that looks like The Riken](../assets/Port_Remnant_whaling_ship.jpg) / *A beached Whaling ship that looks like [The Riken](./The%20Riken.md)* | ![A sunken ship that looks like The Harbinger from Last Resort Cannery](../assets/Port_Remnant_Cannery_Ship.jpg) / *A sunken ship that looks like The Harbinger from [Last Resort Cannery](./Last%20Resort%20Cannery.md)* | ![The single cabin near Forgotten Trestle](../assets/Port_Remnant_Cabin.jpg) / *The single cabin near Forgotten Trestle* |
-| ![ditto, formally 2 at one point](../assets/Port_Remnant_Cabin_%28removed%29.jpg) / *ditto, formally 2 at one point* |  |  |  |
+![Port Remnant concept art](../assets/Tld-august-dev-diary-site-support-img-1.jpg)
 
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**
+_Port Remnant concept art_
+
+![A beached Whaling ship that looks like The Riken](../assets/Port_Remnant_whaling_ship.jpg)
+
+_A beached Whaling ship that looks like [The Riken](./The%20Riken.md)_
+
+![A sunken ship that looks like The Harbinger from Last Resort Cannery](../assets/Port_Remnant_Cannery_Ship.jpg)
+
+_A sunken ship that looks like The Harbinger from [Last Resort Cannery](./Last%20Resort%20Cannery.md)_
+
+![The single cabin near Forgotten Trestle](../assets/Port_Remnant_Cabin.jpg)
+
+_The single cabin near Forgotten Trestle_
+
+![ditto, formally 2 at one point](../assets/Port_Remnant_Cabin_%28removed%29.jpg)
+
+_ditto, formally 2 at one point_
 
 [ru:Порт Былой](ru:%D0%9F%D0%BE%D1%80%D1%82_%D0%91%D1%8B%D0%BB%D0%BE%D0%B9)

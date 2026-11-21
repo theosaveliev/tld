@@ -1,10 +1,6 @@
----
-title: "Scrub Brush"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Scrub_Brush"
----
-
 # Scrub Brush
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Scrub_Brush)
 
 **Contents**
 
@@ -23,7 +19,7 @@ source: "https://thelongdark.fandom.com/wiki/Scrub_Brush"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Scrub_Brush_icon.png) / *Scrub\_Brush\_icon.png* |
+|  | ![](../assets/Scrub_Brush_icon.png) / _Scrub\_Brush\_icon.png_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute | No |
@@ -81,8 +77,14 @@ Hushed River Valley, Bleak Inlet, Blackrock, and Ash Canyon contain these types 
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Scrub Brush on the left, false scrub on the right (Forlorn Muskeg)](../assets/ScrubBush_left_FalseScrub_right.jpg) / ***Scrub Brush on the left, false scrub on the right (Forlorn Muskeg)*** | ![False scrub brush is very light in colour, has many branches and looks more delicate.](../assets/False_Scrub_Brush.png) / *False scrub brush is very light in colour, has many branches and looks more delicate.* | ![An example of a patch of Scrub Brush blocking a path](../assets/Scrub_Brush_Group.jpg) / *An example of a patch of Scrub Brush blocking a path* |
+![Scrub Brush on the left, false scrub on the right (Forlorn Muskeg)](../assets/ScrubBush_left_FalseScrub_right.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_**Scrub Brush on the left, false scrub on the right (Forlorn Muskeg)**_
+
+![False scrub brush is very light in colour, has many branches and looks more delicate.](../assets/False_Scrub_Brush.png)
+
+_False scrub brush is very light in colour, has many branches and looks more delicate._
+
+![An example of a patch of Scrub Brush blocking a path](../assets/Scrub_Brush_Group.jpg)
+
+_An example of a patch of Scrub Brush blocking a path_

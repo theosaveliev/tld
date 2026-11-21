@@ -1,11 +1,6 @@
----
-title: "Snare"
-wiki_namespace: 0
-categories: ["Craftable tools", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Snare"
----
-
 # Snare
+
+**Categories:** Craftable tools, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Snare)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Snare"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Snare_icon.png) / *Snare\_icon.png* |
+|  | ![](../assets/Snare_icon.png) / _Snare\_icon.png_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute |  |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Snare"
 | Harvest | 10 minutes 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
 | Repair | Cannot Repair |
 
-> “**A simple snare, used to capture small game.**”
+> “__A simple snare, used to capture small game.__”
 >
 > — In-game description
 
@@ -80,7 +75,5 @@ Cannot be repaired. Harvesting yields 1 × [Reclaimed wood](./Reclaimed%20Wood.m
 
 - See [Trapping](./Trapping.md) for further tips.
 - Snared rabbits count against the [Pacifist](./Pacifist.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) and will lock it for the run.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Капкан](ru:%D0%9A%D0%B0%D0%BF%D0%BA%D0%B0%D0%BD)

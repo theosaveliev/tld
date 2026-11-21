@@ -1,11 +1,6 @@
----
-title: "Fresh Leather"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Fresh_Leather"
----
-
 # Fresh Leather
+
+**Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fresh_Leather)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Fresh_Leather"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fresh_Leather_icon.png) / *Fresh\_Leather\_icon.png* |
+|  | ![](../assets/Fresh_Leather_icon.png) / _Fresh\_Leather\_icon.png_ |
 | Release | [9 July 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.05) |
 | Wintermute | No |
 | **Properties** |  |
@@ -32,19 +27,19 @@ source: "https://thelongdark.fandom.com/wiki/Fresh_Leather"
 
 ## Overview
 
-Fresh Leather can only be found at outside locations such as [Poacher's Camp](./Poacher%27s%20Camp.md), [The Ravine](./The%20Ravine.md), and the [Maintenance Yard](./Maintenance%20Yard.md), and may be cured into Cured Leather over 5 days. The "Fresh Leather" item is still present in *The Long Dark*, but is extremely rare that cannot be created in any way outside of world generation at game start. Fresh Leather also decays over time, like fresh animal hides and guts, making it even more difficult to find the already rare item before it decays to 0% condition inside a container and is deleted.
+Fresh Leather can only be found at outside locations such as [Poacher's Camp](./Poacher%27s%20Camp.md), [The Ravine](./The%20Ravine.md), and the [Maintenance Yard](./Maintenance%20Yard.md), and may be cured into Cured Leather over 5 days. The "Fresh Leather" item is still present in _The Long Dark_, but is extremely rare that cannot be created in any way outside of world generation at game start. Fresh Leather also decays over time, like fresh animal hides and guts, making it even more difficult to find the already rare item before it decays to 0% condition inside a container and is deleted.
 
 Fresh Leather is so rare of a find that many players mistakenly believe it is [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md). Most instances of this item will have already cured indoors at 76% by the time the player finds them, or will be outdoors at 0% if the player takes too long.
 
 ## Early Game Builds
 
-In early builds of *The Long Dark* (alpha/beta), Fresh Leather was a very common material obtained from Carcass Harvesting Deer. Instead of [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) being produced, "Fresh Leather" would be harvested; this item could then be converted into "Cured Leather" by curing it indoors, and then used for repairing clothing. Cured Leather is the default form of Leather found in the game, and is found by Harvesting leather footwear, gloves, the Moose-Hide Satchel, finding it in the game world, and [Beachcombing](./Beachcombing.md).
+In early builds of _The Long Dark_ (alpha/beta), Fresh Leather was a very common material obtained from Carcass Harvesting Deer. Instead of [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) being produced, "Fresh Leather" would be harvested; this item could then be converted into "Cured Leather" by curing it indoors, and then used for repairing clothing. Cured Leather is the default form of Leather found in the game, and is found by Harvesting leather footwear, gloves, the Moose-Hide Satchel, finding it in the game world, and [Beachcombing](./Beachcombing.md).
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Fresh_Leather.jpg) / *Old model.* |
+![Old model.](../assets/Fresh_Leather.jpg)
+
+_Old model._
 
 ## Update history
 
@@ -52,7 +47,5 @@ In early builds of *The Long Dark* (alpha/beta), Fresh Leather was a very common
   - Animal skins and certain types of Wood now need to be Cured (Dried) before they can be used as raw materials for Crafting.
 - UPDATE **9 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.05)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Свежая кожа](ru:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B0%D1%8F_%D0%BA%D0%BE%D0%B6%D0%B0)

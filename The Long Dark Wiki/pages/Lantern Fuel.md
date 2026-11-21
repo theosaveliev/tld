@@ -1,11 +1,6 @@
----
-title: "Lantern Fuel"
-wiki_namespace: 0
-categories: ["Fire Starting"]
-source: "https://thelongdark.fandom.com/wiki/Lantern_Fuel"
----
-
 # Lantern Fuel
+
+**Categories:** Fire Starting · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lantern_Fuel)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Lantern_Fuel"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Lantern_Fuel_icon.png) / *Lantern\_Fuel\_icon.png* |
+|  | ![](../assets/Lantern_Fuel_icon.png) / _Lantern\_Fuel\_icon.png_ |
 | **General** |  |
 | Item Type | Fire Starting\|- |
 | Renewable | Yes |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Lantern_Fuel"
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.00 - 0.50 kg(0 - 1.1 lbs) |
 | Bonus chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+40% |
 
-> “**Small bottle of Lamp Fuel**”
+> “__Small bottle of Lamp Fuel__”
 >
 > — In-game description
 
@@ -50,14 +45,12 @@ Bottles of Lantern Fuel can usually be found fairly frequently throughout the wo
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Lantern_fuel.png) / *old model* |
+![old model](../assets/Lantern_fuel.png)
+
+_old model_
 
 ## Trivia
 
 - Lantern Fuel features the fictional brand name "Ever-Flame," and the container lists the volume as "350mL" or 0.35 L.
 - [Coho Salmon](./Coho%20Salmon%20%28Raw%29.md) is the most efficient fish for the production of lantern fuel, due to its large weight and high yield per kg.
 - It weights as same with [Jerry Can](./Jerry%20Can.md) when emptied, which is ironic because of the size difference
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Топливо\_для\_фонаря](ru:%D0%A2%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%BE_%D0%B4%D0%BB%D1%8F_%D1%84%D0%BE%D0%BD%D0%B0%D1%80%D1%8F) [es:combustible de farol](es:combustible_de_farol)

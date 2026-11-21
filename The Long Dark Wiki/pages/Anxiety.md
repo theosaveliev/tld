@@ -1,11 +1,6 @@
----
-title: "Anxiety"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Anxiety"
----
-
 # Anxiety
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Anxiety)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Anxiety"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Anxiety_icon.png) / *Anxiety\_icon.png* |
+|  | ![](../assets/Anxiety_icon.png) / _Anxiety\_icon.png_ |
 | Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86) |
 | Update | 1.86 |
 | **Properties** |  |
@@ -31,9 +26,9 @@ source: "https://thelongdark.fandom.com/wiki/Anxiety"
 | Treatment | Move more than 200m away from the Darkwalker |
 | Recovery Time | Instant |
 
-> “**If this is a nightmare, I wanna wake up!**”
+> “__If this is a nightmare, I wanna wake up!__”
 
-**Anxiety** is an [Affliction](./Afflictions.md) found within *[The Long Dark](./The%20Long%20Dark.md)*. It is one of two unique Afflictions found only within the [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) [Challenge](./Challenge.md).
+**Anxiety** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of two unique Afflictions found only within the [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) [Challenge](./Challenge.md).
 
 ## Overview
 
@@ -60,5 +55,3 @@ If the survivor is within 200m (~656 feet) of the Darkwalker they will be afflic
 - Anxiety is the only Affliction Risk that has a negative effect. Usually the Risk must develop into an Affliction before negative effects ensue.
 - Despite anxiety being a psychological state of mind, The Long Dark categorizes it as an injury.
 - Anxiety's audio cue is a loud piano cord being struck.
-
-![The screen bloodies as the the Darkwalker draws closer...](../assets/Darkwalker_Bloody_Screen.jpg)*The screen bloodies as the the Darkwalker draws closer...* **Lua execution error in Module:Navbox function navbox**

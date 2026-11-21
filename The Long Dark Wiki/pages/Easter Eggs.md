@@ -1,10 +1,6 @@
----
-title: "Easter Eggs"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Easter_Eggs"
----
-
 # Easter Eggs
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Easter_Eggs)
 
 **Contents**
 
@@ -23,14 +19,14 @@ source: "https://thelongdark.fandom.com/wiki/Easter_Eggs"
 - [Hank's Hatch](#hanks-hatch)
 - [References to Previous Game Builds](#references-to-previous-game-builds)
 
-**Easter Eggs** are hidden messages, images, or features typically placed in software to reference other forms of media. They may also be well placed hidden secrets found in the game. Below is a list of secrets, obscure knowledge, and Easter Eggs in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Easter Eggs** are hidden messages, images, or features typically placed in software to reference other forms of media. They may also be well placed hidden secrets found in the game. Below is a list of secrets, obscure knowledge, and Easter Eggs in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## General Secrets
 
 ### Hidden Items
 
-- *The Long Dark* features a large number of hidden loot items both indoors and outside. Such items are usually small (e.g. [firestrikers](./Firestriker.md), [matches](./Wood%20Matches.md), [ammunition](./Revolver%20Ammunition.md)) and atop shelves, desks, between/underneath furniture, or otherwise in difficult to find locations. CROUCHING ("Control" by default) can be helpful or required in finding such hidden items. Most notably a [Magnifying Lens](./Magnifying%20Lens.md) hidden inside the [Camp Office](./Camp%20Office.md) (Mystery Lake), and a hidden stash of supplies inside [Hibernia Processing](./Hibernia%20Processing.md) (Desolation Point) which requires crouching up and inside a pipe.
-- [Safes](./Safe.md): Safes are heavy metal storage containers which are initially locked. They contain some of the highest loot tables in *The Long Dark*, being able to contain rare items such as [Can of Gunpowder](./Can%20of%20Gunpowder.md), [Mukluks](./Mukluks.md) and [Gauntlets](./Gauntlets.md). Safes have static locations ([Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) (Forlorn Muskeg), [Trapper's Homestead](./Trapper%27s%20Homestead.md) (Mystery Lake), [Carter Hydro Dam &amp; Environs](./Carter%20Hydro%20Dam.md) (upper) (Mystery Lake) and are opened by rotating their dial left until a "click" is heard, then right until a second click, and then left again until the third click.
+- _The Long Dark_ features a large number of hidden loot items both indoors and outside. Such items are usually small (e.g. [firestrikers](./Firestriker.md), [matches](./Wood%20Matches.md), [ammunition](./Revolver%20Ammunition.md)) and atop shelves, desks, between/underneath furniture, or otherwise in difficult to find locations. CROUCHING ("Control" by default) can be helpful or required in finding such hidden items. Most notably a [Magnifying Lens](./Magnifying%20Lens.md) hidden inside the [Camp Office](./Camp%20Office.md) (Mystery Lake), and a hidden stash of supplies inside [Hibernia Processing](./Hibernia%20Processing.md) (Desolation Point) which requires crouching up and inside a pipe.
+- [Safes](./Safe.md): Safes are heavy metal storage containers which are initially locked. They contain some of the highest loot tables in _The Long Dark_, being able to contain rare items such as [Can of Gunpowder](./Can%20of%20Gunpowder.md), [Mukluks](./Mukluks.md) and [Gauntlets](./Gauntlets.md). Safes have static locations ([Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) (Forlorn Muskeg), [Trapper's Homestead](./Trapper%27s%20Homestead.md) (Mystery Lake), [Carter Hydro Dam &amp; Environs](./Carter%20Hydro%20Dam.md) (upper) (Mystery Lake) and are opened by rotating their dial left until a "click" is heard, then right until a second click, and then left again until the third click.
 - [Hidden Caches](./Hidden%20Cache.md): these small, orange-lidded containers are filled with high level loot on all difficulties and are concealed in remote and inhospitable regions, particularly in [Hushed River Valley](./Hushed%20River%20Valley.md).
 
 ### Hidden Locations
@@ -50,7 +46,7 @@ source: "https://thelongdark.fandom.com/wiki/Easter_Eggs"
 
 - If a survivor's hydration is low, they will mention "That guy who drank his own pee doesn't sound so crazy right now" referencing [Bear Grylls](https://en.wikipedia.org/wiki/Bear_Grylls) [drinking his own urine](https://www.google.com/search?q=bear+grylls+pee&rlz=1C1GCEA_enUS1043US1043&oq=bear+grylls+pee&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMzMTFqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:654e5bb1,vid:axVPg5EtvKs,st:0).
 - In [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), after [Will Mackenzie's](./Will%20Mackenzie.md) 3rd encounter with the [Old Bear](./Old%20Bear.md) after acquiring the [Bear Spear](./Bear%20Spear.md), the bear will back off, with Will remarking "not so tough now that I'm all Grizzly Adams?" referencing [John Adams](https://en.wikipedia.org/wiki/John_%22Grizzly%22_Adams).
-- The director's name of *The Long Dark*, Raphael Von Lierop, can be seen briefly on a computer monitor in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) during the flashback with Astrid.
+- The director's name of _The Long Dark_, Raphael Von Lierop, can be seen briefly on a computer monitor in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) during the flashback with Astrid.
 
 ### Films
 
@@ -88,27 +84,35 @@ A number of locations are named after [Hinterland's](./Hinterland%20Studio%20Inc
     - A cut image of a [.44 Magnum Bullet](../assets/Revolver_44_Mag_Bullet_icon.png) can be found in the game files, suggesting that the Revolver could also be a [Smith &amp; Wesson Model 29](https://guns.fandom.com/wiki/Smith_%26_Wesson_Model_29).
   - The [Hunting Rifle](./Hunting%20Rifle.md) is inspired by the Lee-Enfield bolt action rifle, which was Britain's standard issue rifle until the 1960s and was used by the Canadian Rangers until 2015.
   - The [Distress Pistol](./Distress%20Pistol.md) closely resembles the real-life [Orion flare gun](https://en.wikipedia.org/wiki/Flare_gun).
-- [First Aid Kit](./First%20Aid%20Kit.md) - these wall-mounted containers filled with medical supplies are a reference to the [Swedish folk duo of the same name](https://en.wikipedia.org/wiki/First_Aid_Kit_%28band%29#2012%E2%80%932013), who composed and performed the song "[Lion's Roar](https://youtu.be/gekHV9DIjHc)", used in *The Long Dark's* intro for Wintermute (Story Mode).
+- [First Aid Kit](./First%20Aid%20Kit.md) - these wall-mounted containers filled with medical supplies are a reference to the [Swedish folk duo of the same name](https://en.wikipedia.org/wiki/First_Aid_Kit_%28band%29#2012%E2%80%932013), who composed and performed the song "[Lion's Roar](https://youtu.be/gekHV9DIjHc)", used in _The Long Dark's_ intro for Wintermute (Story Mode).
 - [Cups of Coffee](./Cup%20of%20Coffee.md) - every coffee cup has the Hinterland Studios logo on the front of the cup. This is the most blatant and easiest to find Easter Egg in the game.
 - The description of the [Hoodie](./Hoodie.md) might be a reference to the Hinterland Developers.
-- Photographs on walls and nightstands inside of houses in [Coastal House](./Coastal%20House.md), [Milton House](./Milton%20House.md), and [Crossroads House](./Crossroads%20House.md) in [Coastal Highway](./Coastal%20Highway.md), [Mountain Town](./Mountain%20Town.md), and [Pleasant Valley](./Pleasant%20Valley.md) respectively are pictures of [Hinterland](./Hinterland%20Studio%20Inc..md) developers, their friends or family; including "Stacyplays" (aka Stacy Hinojosa) a YouTuber who ran a "let's play" series during *The Long Dark's* alpha/beta (2014-2016). Each picture has been digitally downgraded to fit in the the game's graphical aesthetic style.
+- Photographs on walls and nightstands inside of houses in [Coastal House](./Coastal%20House.md), [Milton House](./Milton%20House.md), and [Crossroads House](./Crossroads%20House.md) in [Coastal Highway](./Coastal%20Highway.md), [Mountain Town](./Mountain%20Town.md), and [Pleasant Valley](./Pleasant%20Valley.md) respectively are pictures of [Hinterland](./Hinterland%20Studio%20Inc..md) developers, their friends or family; including "Stacyplays" (aka Stacy Hinojosa) a YouTuber who ran a "let's play" series during _The Long Dark's_ alpha/beta (2014-2016). Each picture has been digitally downgraded to fit in the the game's graphical aesthetic style.
 - The item description of the [Spelunker's Lantern](./Spelunker%27s%20Lantern.md): "A light for deep, dark places, when other lights go out." is a direct reference to the [Phial of Galadriel](https://tolkiengateway.net/wiki/Phial_of_Galadriel) from Lord of The Rings: "It will shine still brighter when night is about you. May it be a light to you in dark places, when all other lights go out."
   - The [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md), [Too Greedily, too Deep](./Too%20Greedily%2C%20too%20Deep.md) is yet another reference to Lord of the Rings:
     - **Saruman: "**Moria... You fear to go into those mines. The dwarves delved too greedily and too deep. You know what they awoke in the darkness of Khazad-dum... shadow and flame."
   - The Achievement [Something Wicked](./Something%20Wicked.md) is a reference to a quote from one of the three witches in Shakespeare's [Macbeth](https://nosweatshakespeare.com/quotes/famous/something-wicked-this-way-comes/):
     - **Second Witch**: "By the pricking of my thumbs, Something wicked this way comes."
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Cup of Coffee Icon with the Hinterland Logo](../assets/Cup_of_Coffee_icon.png) / *Cup of Coffee Icon with the Hinterland Logo* | ![The bottom of the cup](../assets/Cup_of_coffee_bottom.jpg) / *The bottom of the cup* | ![Old design with old logo](../assets/Cup_of_coffee.png) / *Old design with old logo* |
+![Cup of Coffee Icon with the Hinterland Logo](../assets/Cup_of_Coffee_icon.png)
+
+_Cup of Coffee Icon with the Hinterland Logo_
+
+![The bottom of the cup](../assets/Cup_of_coffee_bottom.jpg)
+
+_The bottom of the cup_
+
+![Old design with old logo](../assets/Cup_of_coffee.png)
+
+_Old design with old logo_
 
 ### Rock Art
 
 A number of rocks contain faint images of cavemen, monsters or graffiti, typically in an abstract art form or extremely low resolution. These rocks are found in all regions, but are most common in [Pleasant Valley](./Pleasant%20Valley.md) near the entrance to [Winding River](./Winding%20River.md), as well as [Bleak Inlet](./Bleak%20Inlet.md).
 
-| Column 1 |
-| --- |
-| ![Cave Art (Desolation Point), a monster or animal](../assets/Cave_art.png) / *Cave Art (Desolation Point), a monster or animal* |
+![Cave Art (Desolation Point), a monster or animal](../assets/Cave_art.png)
+
+_Cave Art (Desolation Point), a monster or animal_
 
 ### Hank's Hatch
 
@@ -122,9 +126,22 @@ During the mission [Memories](./Memories.md), several callbacks to previous buil
   - The old version of the [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) logo can also be seen on the wall.
 - The shovel found on the old builds of the game's title screen can be found next to the bathroom.
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![The office board in Memories](../assets/Jackrabbit_Remote_Transport_Office_board.jpg) / *The office board in Memories* | ![The first ever released map](../assets/Global_map_Published_by_development_team.jpg) / *The first ever released map* | ![The old Hinterland Logo](../assets/Old_Hinterland_Logo.jpg) / *The old Hinterland Logo* | ![The shovel in the pre alpha main menu](../assets/Main_Menu_Alpha_Sandbox.jpg) / *The shovel in the pre alpha main menu* |
-| ![The shovel near the bathroom](../assets/Shovel_Memories.jpg) / *The shovel near the bathroom* |  |  |  |
+![The office board in Memories](../assets/Jackrabbit_Remote_Transport_Office_board.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_The office board in Memories_
+
+![The first ever released map](../assets/Global_map_Published_by_development_team.jpg)
+
+_The first ever released map_
+
+![The old Hinterland Logo](../assets/Old_Hinterland_Logo.jpg)
+
+_The old Hinterland Logo_
+
+![The shovel in the pre alpha main menu](../assets/Main_Menu_Alpha_Sandbox.jpg)
+
+_The shovel in the pre alpha main menu_
+
+![The shovel near the bathroom](../assets/Shovel_Memories.jpg)
+
+_The shovel near the bathroom_

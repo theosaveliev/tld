@@ -1,11 +1,6 @@
----
-title: "Cairns"
-wiki_namespace: 0
-categories: ["Collectibles"]
-source: "https://thelongdark.fandom.com/wiki/Cairns"
----
-
 # Cairns
+
+**Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cairns)
 
 ![](../assets/Cairn_icon.png)
 
@@ -181,5 +176,3 @@ Most Cairns display the message "Its story is not yet written..." because many b
 | Winding River | 151 | LOST CAIRN | Its story is not yet written… | PP-491 |
 | Winding River | 153 | LOST CAIRN | Its story is not yet written… | 6580 |
 | Winding River | 165 | LOST CAIRN | Its story is not yet written… | 5298 |
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Куча камней](ru:%D0%9A%D1%83%D1%87%D0%B0_%D0%BA%D0%B0%D0%BC%D0%BD%D0%B5%D0%B9)

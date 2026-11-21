@@ -1,17 +1,12 @@
----
-title: "Cougar Warning Flyer (2)"
-wiki_namespace: 0
-categories: ["Collectibles"]
-source: "https://thelongdark.fandom.com/wiki/Cougar_Warning_Flyer_(2)"
----
-
 # Cougar Warning Flyer \(2\)
+
+**Categories:** Collectibles · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cougar_Warning_Flyer_%282%29)
 
 **Cougar Warning Flyer (2)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cougar_Warning_Flyer_icon.png) / *Cougar\_Warning\_Flyer\_icon.png* |
+|  | ![](../assets/Cougar_Warning_Flyer_icon.png) / _Cougar\_Warning\_Flyer\_icon.png_ |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
 | Stackable | No |
@@ -26,7 +21,7 @@ source: "https://thelongdark.fandom.com/wiki/Cougar_Warning_Flyer_(2)"
 
 ## Transcript
 
-*The following text is transcribed from **Cougar Warning Flyer***
+_The following text is transcribed from **Cougar Warning Flyer**_
 
 **WARNING
 
@@ -40,8 +35,6 @@ COUGAR COUNTRY
 
 ![The Flyer before it is picked up.](../assets/Cougar_Warning_Flyer_2.jpg)
 
-*The Flyer before it is picked up.*
+_The Flyer before it is picked up._
 
 ## Update history
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**

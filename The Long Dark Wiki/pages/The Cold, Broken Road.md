@@ -1,16 +1,12 @@
----
-title: "The Cold, Broken Road"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/The_Cold%2C_Broken_Road"
----
-
 # The Cold, Broken Road
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Cold%2C_Broken_Road)
 
 **The Cold, Broken Road**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Missions_story_ep5_TheLongBrokenRoad.png) / *Missions\_story\_ep5\_TheLongBrokenRoad.png* |
+|  | ![](../assets/Missions_story_ep5_TheLongBrokenRoad.png) / _Missions\_story\_ep5\_TheLongBrokenRoad.png_ |
 | Episode |  |
 | **Missions** |  |
 | Previous | [A Cry For Help](./A%20Cry%20For%20Help.md) |
@@ -19,9 +15,9 @@ source: "https://thelongdark.fandom.com/wiki/The_Cold%2C_Broken_Road"
 | Region | [Blackrock Foothills](./Blackrock%20Foothills.md) [Suzuki Environs](./Suzuki%20Environs.md) |
 | Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jace](./Jace.md) / [Atwood](./Atwood.md) |
 
-> “**Find Atwood.**”
+> “__Find Atwood.__”
 
-**The Cold, Broken Road** is the first mission of Part Two: Strange History in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [*The Long Dark*](./The%20Long%20Dark.md).
+**The Cold, Broken Road** is the first mission of Part Two: Strange History in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Objectives
 
@@ -39,5 +35,3 @@ source: "https://thelongdark.fandom.com/wiki/The_Cold%2C_Broken_Road"
 ## Walkthrough
 
 ## Trivia
-
-**Lua execution error in Module:Navbox function navbox**

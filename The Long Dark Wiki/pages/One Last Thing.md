@@ -1,11 +1,6 @@
----
-title: "One Last Thing"
-wiki_namespace: 0
-categories: ["Episode 1", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/One_Last_Thing"
----
-
 # One Last Thing
+
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/One_Last_Thing)
 
 **Contents**
 
@@ -19,18 +14,18 @@ source: "https://thelongdark.fandom.com/wiki/One_Last_Thing"
 
 | Property | Details |
 | --- | --- |
-|  | ![Grey Mother asks you to deliver Grey Mother's Pearls to the grave of Lilith Barker](../assets/Grey_Mother%27s_Pearls_icon.png) / *Grey Mother asks you to deliver [Grey Mother's Pearls](./Grey%20Mother%27s%20Pearls.md) to the grave of [Lilith Barker](./Lilith%20Barker.md)* |
+|  | ![Grey Mother asks you to deliver Grey Mother's Pearls to the grave of Lilith Barker](../assets/Grey_Mother%27s_Pearls_icon.png) / _Grey Mother asks you to deliver [Grey Mother's Pearls](./Grey%20Mother%27s%20Pearls.md) to the grave of [Lilith Barker](./Lilith%20Barker.md)_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Current | One Last Thing |
 | Region | [Mountain Town](./Mountain%20Town.md) |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
 **One Last Thing** is a side mission started in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [story](./Wintermute.md). In the mission, [Will Mackenzie](./Will%20Mackenzie.md) delivers [Grey Mother's Pearls](./Grey%20Mother%27s%20Pearls.md) to the gravesite of [Lilith Barker](./Lilith%20Barker.md) at the [Graveyard](./Graveyard.md) across from [St. Christopher's Church](./St.%20Christopher%27s%20Church.md) outside [Milton](./Milton.md). The mission can only be completed in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), prior to the survivor [leaving Milton](./Paradise%20Lost.md).
 
 ## Official description
 
-> “**Grey Mother has one final request from you.**”
+> “__Grey Mother has one final request from you.__”
 
 ## Overview
 
@@ -42,7 +37,7 @@ Talk to [Grey Mother](./Grey%20Mother.md), who will request Mackenzie to go deli
 
 ## Delivering the pearls
 
-![The gravestone of Lilith Barker.](../assets/One_last_thing.jpg)*The gravestone of Lilith Barker.* Take [Grey Mother's Pearls](./Grey%20Mother%27s%20Pearls.md) and head out of [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md). Turn right, and follow the road towards St. Christopher's Church. Across the road from the church is a Graveyard. Locate the grave of Lilith Barker in the back of the gravesite, and place the pearls on the headstone.
+![The gravestone of Lilith Barker.](../assets/One_last_thing.jpg)_The gravestone of Lilith Barker._ Take [Grey Mother's Pearls](./Grey%20Mother%27s%20Pearls.md) and head out of [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md). Turn right, and follow the road towards St. Christopher's Church. Across the road from the church is a Graveyard. Locate the grave of Lilith Barker in the back of the gravesite, and place the pearls on the headstone.
 
 Return to Grey Mother and inform her that the pearls have been delivered and the mission will be completed.
 
@@ -55,5 +50,3 @@ Return to Grey Mother and inform her that the pearls have been delivered and the
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
 
 - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Hidden Cache"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Hidden_Cache"
----
-
 # Hidden Cache
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hidden_Cache)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Hidden_Cache"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hidden_Cache.png) / *Hidden\_Cache.png* |
+|  | ![](../assets/Hidden_Cache.png) / _Hidden\_Cache.png_ |
 | Release | 14 June 2018 |
 | Update | [1.33](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33) |
 | Story item | No |
@@ -105,5 +100,3 @@ Southern [Ice Caves](./Ice%20Cave.md) Exterior Caches 19-24 (1-3 spawns, 1 possi
 
 - In the middle of [Abandoned Mine](./Abandoned%20Mine.md).
 - At the collapsed bridge. To reach it you need to follow the road leading down from the [Weather Station](./Weather%20Station.md).
-
-**Lua execution error in Module:Navbox function navbox** [ru:Металлический контейнер (тайник)](ru:%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80_%28%D1%82%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA%29)

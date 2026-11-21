@@ -1,21 +1,15 @@
----
-title: "Cargomaster's Trailer"
-wiki_namespace: 0
-categories: ["Indoor locations", "Locations", "Locations in Forsaken Airfield"]
-source: "https://thelongdark.fandom.com/wiki/Cargomaster's_Trailer"
----
-
 # Cargomaster's Trailer
+
+**Categories:** Indoor locations, Locations, Locations in Forsaken Airfield · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cargomaster's_Trailer)
 
 **Cargomaster's Trailer**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cargomaster%27s_Trailer.jpg) / *Cargomaster's\_Trailer.jpg* |
+|  | ![](../assets/Cargomaster%27s_Trailer.jpg) / _Cargomaster's\_Trailer.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Cargomaster%27s_Trailer_Location.png) / *Cargomaster's\_Trailer\_Location.png* |
+|  | ![](../assets/Cargomaster%27s_Trailer_Location.png) / _Cargomaster's\_Trailer\_Location.png_ |
 | Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
 | **General** |  |
 | Type |  |
-| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
-|  | Has an interior\|} / **Cargomaster's Trailer** is a small trailer just near the "Y" section of the runway of the airfield, north of the [Control Tower](./Control%20Tower.md). / ## Overview / Not much can be found in the surroundings, except for a large pile of pallets, which can be broken down to yield a large amount of [Reclaimed Wood](./Reclaimed%20Wood.md) if the player is carrying a hatchet. However if one walks down the runway towards the lake on the right there is a shed that may have a heavy hammer. There may also be a backpack inside one of the metal tubes near the trailer. / Inside the trailer there are 3 bunk beds, a few shelves, a desk, and a set of lockers. The lockers have a [note someone left behind](./Paper.md) underneath them. A Revolver may spawn on the desk inside the trailer. / **Lua execution error in Module:Navbox function navbox** / [ru:Бытовка начальника багажа](ru:%D0%91%D1%8B%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0_%D0%B1%D0%B0%D0%B3%D0%B0%D0%B6%D0%B0) |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |

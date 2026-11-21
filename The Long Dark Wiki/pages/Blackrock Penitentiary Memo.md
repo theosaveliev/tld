@@ -1,17 +1,12 @@
----
-title: "Blackrock Penitentiary Memo"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Blackrock_Penitentiary_Memo"
----
-
 # Blackrock Penitentiary Memo
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_Penitentiary_Memo)
 
 **Blackrock Penitentiary Memo**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Blackrock_Penitentiary_Memo_icon.png) / *Blackrock\_Penitentiary\_Memo\_icon.png* |
+|  | ![](../assets/Blackrock_Penitentiary_Memo_icon.png) / _Blackrock\_Penitentiary\_Memo\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Blackrock (mission)](./Blackrock%20%28mission%29.md) |
 | **Properties** |  |
@@ -28,11 +23,11 @@ source: "https://thelongdark.fandom.com/wiki/Blackrock_Penitentiary_Memo"
 
 **Blackrock Penitentiary Memo** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Blackrock (mission)](./Blackrock%20%28mission%29.md) side mission.
 
-During the course of the mission, Astrid finds the note *Blackrock Penitentiary Memo* on the body of a dead prison guard near [Heartbreak Bridge](./Heartbreak%20Bridge.md).
+During the course of the mission, Astrid finds the note _Blackrock Penitentiary Memo_ on the body of a dead prison guard near [Heartbreak Bridge](./Heartbreak%20Bridge.md).
 
 ## Transcript
 
-*The following text is transcribed from **Blackrock Penitentiary Memo***
+_The following text is transcribed from **Blackrock Penitentiary Memo**_
 
 **TO: Officer Gray
 
@@ -56,5 +51,3 @@ Deputy Commissioner**
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

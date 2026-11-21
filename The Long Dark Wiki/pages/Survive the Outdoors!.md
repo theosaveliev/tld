@@ -1,11 +1,6 @@
----
-title: "Survive the Outdoors!"
-wiki_namespace: 0
-categories: ["Fire Starting", "Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Survive_the_Outdoors!"
----
-
 # Survive the Outdoors\!
+
+**Categories:** Fire Starting, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survive_the_Outdoors!)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Survive_the_Outdoors!"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Survive_the_Outdoors!_icon.png) / *Survive\_the\_Outdoors!\_icon.png* |
+|  | ![](../assets/Survive_the_Outdoors!_icon.png) / _Survive\_the\_Outdoors!\_icon.png_ |
 | Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.346) |
 | Wintermute | No |
 | **Properties** |  |
@@ -35,7 +30,7 @@ source: "https://thelongdark.fandom.com/wiki/Survive_the_Outdoors!"
 
 ## Research info
 
-*Survive the Outdoors!* can be researched for 5 hours, which can be broken into multiple research sessions. 10 [Fire Starting skill points](./Fire%20Starting.md#Skill_levels) are awarded on completing the research.
+_Survive the Outdoors!_ can be researched for 5 hours, which can be broken into multiple research sessions. 10 [Fire Starting skill points](./Fire%20Starting.md#Skill_levels) are awarded on completing the research.
 
 Research can only be performed under the following conditions:
 
@@ -59,18 +54,20 @@ Research can only be performed under the following conditions:
 ## Trivia
 
 - Reaching 0% in any Needs while researching will immediately end the research session and negate any progress for that research attempt.
-- Attempting to burn a copy of *Survive the Outdoors!* when it has not been fully read will give a confirmation warning before it can be burned.
-- Once a copy of *Survive the Outdoors!* is fully researched, it will no longer appear in the Tools section of the Backpack.
+- Attempting to burn a copy of _Survive the Outdoors!_ when it has not been fully read will give a confirmation warning before it can be burned.
+- Once a copy of _Survive the Outdoors!_ is fully researched, it will no longer appear in the Tools section of the Backpack.
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![3D Model](../assets/Survive_the_outdoors.png) / *3D Model* | ![Old model](../assets/Survive_The_Outdoors_Old.png) / *Old model* |
+![3D Model](../assets/Survive_the_outdoors.png)
+
+_3D Model_
+
+![Old model](../assets/Survive_The_Outdoors_Old.png)
+
+_Old model_
 
 ## Update history
 
 - UPDATE **23 June 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#.346)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**

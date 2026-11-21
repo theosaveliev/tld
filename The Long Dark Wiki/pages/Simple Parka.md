@@ -1,17 +1,12 @@
----
-title: "Simple Parka"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Simple_Parka"
----
-
 # Simple Parka
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Simple_Parka)
 
 **Simple Parka**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Simple_Parka_icon.png) / *Simple\_Parka\_icon.png* |
+|  | ![](../assets/Simple_Parka_icon.png) / _Simple\_Parka\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Outer torso |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Simple_Parka"
 | Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
 | Repair | 2 × [Cloth](./Cloth.md) / 45 minutes / 30% condition |
 
-> “**A simple winter coat constructed using modern materials. Good weight to warmth ratio.**”
+> “__A simple winter coat constructed using modern materials. Good weight to warmth ratio.__”
 >
 > — In-game description
 
-**Simple Parka** is a type of [Clothing](./Clothing.md) in *The Long Dark*.
+**Simple Parka** is a type of [Clothing](./Clothing.md) in _The Long Dark_.
 
 ## Overview
 
@@ -37,13 +32,19 @@ The Simple Parka is a low-tier coat and common starting item.
 
 Similar to the [Ski Jacket](./Ski%20Jacket.md), but the parka weighs 0.25 kg (0.55 lbs) more and has a 2% greater mobility penalty.
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Clothing model](../assets/Simple_Parka_Model_icon.png) / *Clothing model* | ![Clothing model damaged](../assets/Simple_Parka_Model_Damaged_icon.png) / *Clothing model damaged* | ![old model](../assets/Basic_winter_coat_%28historical%29.png) / *old model* |
+![Clothing model](../assets/Simple_Parka_Model_icon.png)
+
+_Clothing model_
+
+![Clothing model damaged](../assets/Simple_Parka_Model_Damaged_icon.png)
+
+_Clothing model damaged_
+
+![old model](../assets/Basic_winter_coat_%28historical%29.png)
+
+_old model_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Обычная парка](ru:%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D1%80%D0%BA%D0%B0)

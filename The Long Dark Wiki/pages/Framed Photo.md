@@ -1,24 +1,19 @@
----
-title: "Framed Photo"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Framed_Photo"
----
-
 # Framed Photo
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Framed_Photo)
 
 **Framed Photo**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Framed_Photo_icon.png) / *Framed\_Photo\_icon.png* |
+|  | ![](../assets/Framed_Photo_icon.png) / _Framed\_Photo\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 0.25 kg (0.55 lbs) |
 | **Actions** |  |
 | Backpack | Drop, Place |
 
-> “**A decorative picture frame. Suitable for hanging instant photographs on the wall.**”
+> “__A decorative picture frame. Suitable for hanging instant photographs on the wall.__”
 >
 > — In-Game Description
 
@@ -51,5 +46,3 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 |  | 1 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**

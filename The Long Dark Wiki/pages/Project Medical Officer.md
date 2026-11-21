@@ -1,10 +1,6 @@
----
-title: "Project Medical Officer"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Project_Medical_Officer"
----
-
 # Project Medical Officer
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Project_Medical_Officer)
 
 **Contents**
 
@@ -21,7 +17,7 @@ source: "https://thelongdark.fandom.com/wiki/Project_Medical_Officer"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/No_picture.png) / *No\_picture.png* |
+|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
 | Release | 2.03 |
 | Date | 5 December 2022 |
 | Mission | [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) / [Last Horizon](./Last%20Horizon.md) |
@@ -32,9 +28,9 @@ source: "https://thelongdark.fandom.com/wiki/Project_Medical_Officer"
 | **Physical Information** |  |
 | Sex | Male |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
-> “**Behavioural changes are becoming more alarming. I will be including the following transcript excerpt in my summary report, to be filed with project leads before team extraction (should it occur):**”
+> “__Behavioural changes are becoming more alarming. I will be including the following transcript excerpt in my summary report, to be filed with project leads before team extraction (should it occur):__”
 >
 > — Project Medical Officer
 
@@ -55,8 +51,8 @@ It is unknown what became of the Medical Officer after his experiments were conc
 
 ## Signal Void
 
-> “**Whatever happened here, it’s not a virus, or any known pathogen. At least, that's what the doctor tells me. There are no visible injuries, only invisible ones.  
- I've changed, somehow. The men, the medical officer, all of us. But not him. Not Rüdiger.**”
+> “__Whatever happened here, it’s not a virus, or any known pathogen. At least, that's what the doctor tells me. There are no visible injuries, only invisible ones.  
+ I've changed, somehow. The men, the medical officer, all of us. But not him. Not Rüdiger.__”
 >
 > — [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
 
@@ -64,8 +60,8 @@ The Project Medical Officer is the Deuteragonist of the Tale [Signal Void](./Sig
 
 ## Buried Echoes
 
-> “**Their latest big idea is to bring some kind of doctor in. Just to talk, they said.  
- None of the guys on my team believe a word of it.**”
+> “__Their latest big idea is to bring some kind of doctor in. Just to talk, they said.  
+ None of the guys on my team believe a word of it.__”
 >
 > — [Foreman's Site Report Day 64](./Foreman%27s%20Site%20Report%20Day%2064.md)
 
@@ -73,9 +69,9 @@ A single note written by [The Foreman](./The%20Foreman.md) ([Foreman's Site Repo
 
 ## Last Horizon
 
-> “**It's getting colder, and I'm starting to lose it.  
+> “__It's getting colder, and I'm starting to lose it.  
    
- I've kept doing what the doctor said. The writing, the breathing, the mental games...we'll see.**”
+ I've kept doing what the doctor said. The writing, the breathing, the mental games...we'll see.__”
 >
 > — [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md)
 
@@ -98,5 +94,3 @@ The Medical Officer does not appear in [Last Horizon](./Last%20Horizon.md), but 
 - ![Foreman's\_Technical\_Log\_4\_icon.png](../assets/Foreman%27s_Technical_Log_4_icon.png) [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md)
 
 ## Trivia
-
-A possible reference to the Project Medical Doctor can be found in the note [Conspiracy Theories](./Conspiracy%20Theories.md) in [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md). "Like the doc said back then, keep writin...if you're writin you're breathin."**Lua execution error in Module:Navbox function navbox**

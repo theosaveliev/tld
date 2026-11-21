@@ -1,11 +1,6 @@
----
-title: "Fire Starting"
-wiki_namespace: 0
-categories: ["Skills"]
-source: "https://thelongdark.fandom.com/wiki/Fire_Starting"
----
-
 # Fire Starting
+
+**Categories:** Skills · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fire_Starting)
 
 **Contents**
 
@@ -27,13 +22,13 @@ source: "https://thelongdark.fandom.com/wiki/Fire_Starting"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fire_Starting_background.png) / *Fire\_Starting\_background.png* |
+|  | ![](../assets/Fire_Starting_background.png) / _Fire\_Starting\_background.png_ |
 | Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
 | Date | 23 June 2016 |
 
 ![](../assets/Fire_Starting.png)
 
-*Fire\_Starting.png*
+_Fire\_Starting.png_
 
 **Fire Starting** is a Survival [Skill](./Skills.md) that is used to start fires.
 
@@ -41,7 +36,7 @@ source: "https://thelongdark.fandom.com/wiki/Fire_Starting"
 
 ## How to start a fire
 
-Fire Starting is one of the easiest skills to train in *[The Long Dark](./The%20Long%20Dark.md)*, as players can increase their skill by lighting a new fire at any time during their playthrough.
+Fire Starting is one of the easiest skills to train in _[The Long Dark](./The%20Long%20Dark.md)_, as players can increase their skill by lighting a new fire at any time during their playthrough.
 
 To start a fire, players have to "use" an existing [Firebox](./Fire.md#Types_of_fires) or fire or place a new campfire in an acceptable location. The player must then select an ignition source, tinder (optional at level 3 and higher), fuel, and an optional accelerant. At the top of the screen, the player's current fire starting skill and the chance of success with the currently selected materials are displayed.
 
@@ -67,13 +62,13 @@ Players can select any starter currently carried in their inventory. They are se
 
 | Image | Ignition Source | Benefit | Weight | Additional Info |
 | --- | --- | --- | --- | --- |
-| ![](../assets/Cardboard_Matches_icon.png) / *Cardboard\_Matches\_icon.png* | [Cardboard Matches](./Cardboard%20Matches.md) | +0% chance | 0.005 kg / *(0.011 lb)* | Consumed in attempt |
-| ![](../assets/Firestriker_icon.png) / *Firestriker\_icon.png* | [Firestriker](./Firestriker.md) | +15% chance | 0.10 kg / *(0.22 lb)* | 2% condition loss each attempt |
-| ![](../assets/Flare_icon.png) / *Flare\_icon.png* | [Flare](./Flare.md) (lit) | +5% chance | 0.25 kg / *(0.55 lb)* | Attempt may succeed even if item burns out |
-| ![](../assets/Magnifying_Lens_icon.png) / *Magnifying\_Lens\_icon.png* | [Magnifying Lens](./Magnifying%20Lens.md) | +5% chance | 0.10 kg / *(0.22 lb)* | Only effective outdoors with sunny weather [¹](#fn1) |
-| ![](../assets/Marine_Flare_icon.png) / *Marine\_Flare\_icon.png* | [Marine Flare](./Marine%20Flare.md) (lit) | +5% chance | 0.25 kg / *(0.55 lb)* | Attempt may succeed even if item burns out Beware of very short lifespan |
-| ![](../assets/Torch_icon.png) / *Torch\_icon.png* | [Torch](./Torch.md) (lit) | +5% chance | 0.30 kg / *(0.66 lb)* | Attempt may succeed even if item burns out |
-| ![](../assets/Wood_Matches_icon.png) / *Wood\_Matches\_icon.png* | [Wood Matches](./Wood%20Matches.md) | +5% chance | 0.008 kg / *(0.018 lb)* | Consumed in attempt |
+| ![](../assets/Cardboard_Matches_icon.png) / _Cardboard\_Matches\_icon.png_ | [Cardboard Matches](./Cardboard%20Matches.md) | +0% chance | 0.005 kg / _(0.011 lb)_ | Consumed in attempt |
+| ![](../assets/Firestriker_icon.png) / _Firestriker\_icon.png_ | [Firestriker](./Firestriker.md) | +15% chance | 0.10 kg / _(0.22 lb)_ | 2% condition loss each attempt |
+| ![](../assets/Flare_icon.png) / _Flare\_icon.png_ | [Flare](./Flare.md) (lit) | +5% chance | 0.25 kg / _(0.55 lb)_ | Attempt may succeed even if item burns out |
+| ![](../assets/Magnifying_Lens_icon.png) / _Magnifying\_Lens\_icon.png_ | [Magnifying Lens](./Magnifying%20Lens.md) | +5% chance | 0.10 kg / _(0.22 lb)_ | Only effective outdoors with sunny weather [¹](#fn1) |
+| ![](../assets/Marine_Flare_icon.png) / _Marine\_Flare\_icon.png_ | [Marine Flare](./Marine%20Flare.md) (lit) | +5% chance | 0.25 kg / _(0.55 lb)_ | Attempt may succeed even if item burns out Beware of very short lifespan |
+| ![](../assets/Torch_icon.png) / _Torch\_icon.png_ | [Torch](./Torch.md) (lit) | +5% chance | 0.30 kg / _(0.66 lb)_ | Attempt may succeed even if item burns out |
+| ![](../assets/Wood_Matches_icon.png) / _Wood\_Matches\_icon.png_ | [Wood Matches](./Wood%20Matches.md) | +5% chance | 0.008 kg / _(0.018 lb)_ | Consumed in attempt |
 
 ### Tinder
 
@@ -83,13 +78,13 @@ Player can start fires without a tinder after achieving Fire Starting Level 3 in
 
 | Image | Tinder | Benefit | Weight |
 | --- | --- | --- | --- |
-| ![](../assets/Birch_Bark_icon.png) / *Birch\_Bark\_icon.png* | [Birch Bark](./Birch%20Bark.md) | +0% chance | 0.05 kg / *(0.11 lb)* |
-| ![](../assets/Cash_icon.png) / *Cash\_icon.png* | [Cash](./Cash.md) | +0% chance | 0.05 kg / *(0.11 lb)* |
-| ![](../assets/Cat_Tail_Head_icon.png) / *Cat\_Tail\_Head\_icon.png* | [Cat Tail Head](./Cat%20Tail%20Head.md) | +0% chance | 0.05 kg / *(0.11 lb)* |
-| ![](../assets/Newsprint_icon.png) / *Newsprint\_icon.png* | [Newsprint](./Newsprint.md) | +0% chance | 0.10 kg / *(0.22 lb)* |
-| ![](../assets/Newsprint_Roll_icon.png) / *Newsprint\_Roll\_icon.png* | [Newsprint Roll](./Newsprint%20Roll.md) | +0% chance | 0.10 kg / *(0.22 lb)* |
-| ![](../assets/Stack_of_Papers_icon.png) / *Stack\_of\_Papers\_icon.png* | [Stack of Papers](./Stack%20of%20Papers.md) | +0% chance | 0.10 kg / *(0.22 lb)* |
-| ![](../assets/Tinder_Plug_icon.png) / *Tinder\_Plug\_icon.png* | [Tinder Plug](./Tinder%20Plug.md) | +0% chance | 0.05 kg / *(0.11 lb)* |
+| ![](../assets/Birch_Bark_icon.png) / _Birch\_Bark\_icon.png_ | [Birch Bark](./Birch%20Bark.md) | +0% chance | 0.05 kg / _(0.11 lb)_ |
+| ![](../assets/Cash_icon.png) / _Cash\_icon.png_ | [Cash](./Cash.md) | +0% chance | 0.05 kg / _(0.11 lb)_ |
+| ![](../assets/Cat_Tail_Head_icon.png) / _Cat\_Tail\_Head\_icon.png_ | [Cat Tail Head](./Cat%20Tail%20Head.md) | +0% chance | 0.05 kg / _(0.11 lb)_ |
+| ![](../assets/Newsprint_icon.png) / _Newsprint\_icon.png_ | [Newsprint](./Newsprint.md) | +0% chance | 0.10 kg / _(0.22 lb)_ |
+| ![](../assets/Newsprint_Roll_icon.png) / _Newsprint\_Roll\_icon.png_ | [Newsprint Roll](./Newsprint%20Roll.md) | +0% chance | 0.10 kg / _(0.22 lb)_ |
+| ![](../assets/Stack_of_Papers_icon.png) / _Stack\_of\_Papers\_icon.png_ | [Stack of Papers](./Stack%20of%20Papers.md) | +0% chance | 0.10 kg / _(0.22 lb)_ |
+| ![](../assets/Tinder_Plug_icon.png) / _Tinder\_Plug\_icon.png_ | [Tinder Plug](./Tinder%20Plug.md) | +0% chance | 0.05 kg / _(0.11 lb)_ |
 
 ### Fuel
 
@@ -108,15 +103,15 @@ For example:
 
 | Image | Fuel | Benefit | Burn Time | Heat Bonus | Weight |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Book_icon.png) / *Book\_icon.png* | [Book](./Book.md) | +35% chance | +18 minutes | +2 °C / *(3.6 °F)* | 0.50 kg / *(1.1 lb)* |
-| ![](../assets/Cedar_Firewood_icon.png) / *Cedar\_Firewood\_icon.png* | [Cedar Firewood](./Cedar%20Firewood.md) | +15% chance | +60 minutes | +6 °C / *(10.8 °F)* | 0.50 kg / *(1.1 lb)* |
-| ![](../assets/Coal_icon.png) / *Coal\_icon.png* | [Coal](./Coal.md) | +0% chance | +60 minutes | +20 °C / *(36 °F)* | 0.30 kg / *(0.66 lb)* |
-| ![](../assets/Fir_Firewood_icon.png) / *Fir\_Firewood\_icon.png* | [Fir Firewood](./Fir%20Firewood.md) | +0% chance | +90 minutes | +8 °C / *(14.4 °F)* | 1.00 kg / *(2.2 lb)* |
-| ![](../assets/Firelog_icon.png) / *Firelog\_icon.png* | [Firelog](./Firelog.md) | +7% chance | +120 minutes | +3 °C / *(5.4 °F)* | 2.00 kg / *(4.4 lb)* |
-| ![](../assets/Reclaimed_Wood_icon.png) / *Reclaimed\_Wood\_icon.png* | [Reclaimed Wood](./Reclaimed%20Wood.md) | -5% chance | +30 minutes | +3 °C / *(5.4 °F)* | 0.25 kg / *(0.55 lb)* |
-| ![](../assets/Research_Book_icon.png) / *Research\_Book\_icon.png* | [Research Book](./Research%20Book.md) | +35% chance | +18 minutes | +2 °C / *(3.6 °F)* | 0.50 kg / *(1.1 lb)* |
-| ![](../assets/Stick_icon.png) / *Stick\_icon.png* | [Stick](./Stick.md) | +15% chance | +7.5 minutes | +1 °C / *(1.8 °F)* | 0.15 kg / *(0.33 lb)* |
-| ![](../assets/Torch_icon.png) / *Torch\_icon.png* | [Torch](./Torch.md) (unlit) | +5% chance | +0-10 minutes | +1 °C / *(1.8 °F)* | 0.30 kg / *(0.66 lb)* |
+| ![](../assets/Book_icon.png) / _Book\_icon.png_ | [Book](./Book.md) | +35% chance | +18 minutes | +2 °C / _(3.6 °F)_ | 0.50 kg / _(1.1 lb)_ |
+| ![](../assets/Cedar_Firewood_icon.png) / _Cedar\_Firewood\_icon.png_ | [Cedar Firewood](./Cedar%20Firewood.md) | +15% chance | +60 minutes | +6 °C / _(10.8 °F)_ | 0.50 kg / _(1.1 lb)_ |
+| ![](../assets/Coal_icon.png) / _Coal\_icon.png_ | [Coal](./Coal.md) | +0% chance | +60 minutes | +20 °C / _(36 °F)_ | 0.30 kg / _(0.66 lb)_ |
+| ![](../assets/Fir_Firewood_icon.png) / _Fir\_Firewood\_icon.png_ | [Fir Firewood](./Fir%20Firewood.md) | +0% chance | +90 minutes | +8 °C / _(14.4 °F)_ | 1.00 kg / _(2.2 lb)_ |
+| ![](../assets/Firelog_icon.png) / _Firelog\_icon.png_ | [Firelog](./Firelog.md) | +7% chance | +120 minutes | +3 °C / _(5.4 °F)_ | 2.00 kg / _(4.4 lb)_ |
+| ![](../assets/Reclaimed_Wood_icon.png) / _Reclaimed\_Wood\_icon.png_ | [Reclaimed Wood](./Reclaimed%20Wood.md) | -5% chance | +30 minutes | +3 °C / _(5.4 °F)_ | 0.25 kg / _(0.55 lb)_ |
+| ![](../assets/Research_Book_icon.png) / _Research\_Book\_icon.png_ | [Research Book](./Research%20Book.md) | +35% chance | +18 minutes | +2 °C / _(3.6 °F)_ | 0.50 kg / _(1.1 lb)_ |
+| ![](../assets/Stick_icon.png) / _Stick\_icon.png_ | [Stick](./Stick.md) | +15% chance | +7.5 minutes | +1 °C / _(1.8 °F)_ | 0.15 kg / _(0.33 lb)_ |
+| ![](../assets/Torch_icon.png) / _Torch\_icon.png_ | [Torch](./Torch.md) (unlit) | +5% chance | +0-10 minutes | +1 °C / _(1.8 °F)_ | 0.30 kg / _(0.66 lb)_ |
 
 ### Cut Fuel
 
@@ -125,7 +120,7 @@ Present in the game V1.00 for Wintermute but cut after V1.41 of the Redux update
 | Image | Fuel | Benefit | Burn Time | Heat Bonus | Weight |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
-| ![](../assets/Jeremiah%27s_Papers_icon.png) / *Jeremiah's\_Papers\_icon.png* | [Jeremiah's Papers](./Jeremiah%27s%20Papers.md) | +35% chance | +6 minutes | +2 °C / *(3.6 °F)* | 0 kg / *(0 lb)* |
+| ![](../assets/Jeremiah%27s_Papers_icon.png) / _Jeremiah's\_Papers\_icon.png_ | [Jeremiah's Papers](./Jeremiah%27s%20Papers.md) | +35% chance | +6 minutes | +2 °C / _(3.6 °F)_ | 0 kg / _(0 lb)_ |
 
 ### Accelerant
 
@@ -133,10 +128,10 @@ Players can optionally add any accelerant carried in their inventory. Accelerant
 
 | Image | Accelerant | Benefit |  |
 | --- | --- | --- | --- |
-| ![](../assets/Accelerant_icon.png) / *Accelerant\_icon.png* | [Accelerant](./Accelerant.md) | +40% chance | 0.10 kg / *(0.22 lb)* |
-| ![](../assets/Can_of_Gunpowder_icon.png) / *Can\_of\_Gunpowder\_icon.png* | [Can of Gunpowder](./Can%20of%20Gunpowder.md) | +40% chance | 0.50 kg / *(1.1 lb)* |
-| ![](../assets/Jerry_Can_icon.png) / *Jerry\_Can\_icon.png* | [Jerry Can](./Jerry%20Can.md) | +40% chance | 3.30 kg / *(7.26 lb)* |
-| ![](../assets/Lantern_Fuel_icon.png) / *Lantern\_Fuel\_icon.png* | [Lantern Fuel](./Lantern%20Fuel.md) | +40% chance | 0.50 kg / *(1.1 lb)* |
+| ![](../assets/Accelerant_icon.png) / _Accelerant\_icon.png_ | [Accelerant](./Accelerant.md) | +40% chance | 0.10 kg / _(0.22 lb)_ |
+| ![](../assets/Can_of_Gunpowder_icon.png) / _Can\_of\_Gunpowder\_icon.png_ | [Can of Gunpowder](./Can%20of%20Gunpowder.md) | +40% chance | 0.50 kg / _(1.1 lb)_ |
+| ![](../assets/Jerry_Can_icon.png) / _Jerry\_Can\_icon.png_ | [Jerry Can](./Jerry%20Can.md) | +40% chance | 3.30 kg / _(7.26 lb)_ |
+| ![](../assets/Lantern_Fuel_icon.png) / _Lantern\_Fuel\_icon.png_ | [Lantern Fuel](./Lantern%20Fuel.md) | +40% chance | 0.50 kg / _(1.1 lb)_ |
 
 ## Types of Fireboxes
 
@@ -144,15 +139,15 @@ When lit, a firebox will increase nearby Warmth, dry [Clothing](./Clothing.md), 
 
 | Image | Firebox | Benefit | Cooking Slots | Additional Use(s) |
 | --- | --- | --- | --- | --- |
-| ![](../assets/Ammunition_Forge.png) / *Ammunition\_Forge.png* | [Ammunition Forge](./Ammunition%20Forge.md) | Wind proof | 0 | Can craft [Bullets](./Bullet.md) from [Scrap Lead](./Scrap%20Lead.md). |
-| ![](../assets/Fire_radial_icon.png) / *Fire\_radial\_icon.png* | [Campfire](./Campfire.md) | Can be placed at the player's discretion Deters predators / Can be blown out by strong winds | 2 | Has 2 cooking slots. |
-| ![](../assets/Fire_barrel.png) / *Fire\_barrel.png* | [Fire Barrel](./Fire%20Barrel.md) | Wind proof | 2 | None. |
-| ![](../assets/Fire_place.png) / *Fire\_place.png* | [Fireplace](./Fireplace.md) | Wind proof | 2 | None. |
-| ![](../assets/Forge.png) / *Forge.png* | [Furnace](./Furnace.md) | Wind proof | 1 | Heats the [Forge](./Forge.md). |
-| ![](../assets/Pot_belly_stove.png) / *Pot\_belly\_stove.png* | [Pot Belly Stove](./Pot%20Belly%20Stove.md) | Wind proof | 1 | Only 1 cooking slot. |
-| ![](../assets/Screen_ab2c5b97-8817-4398-a5b1-fb4b96024b93_hi.png) / *Screen\_ab2c5b97-8817-4398-a5b1-fb4b96024b93\_hi.png* | [Rim Grill](./Rim%20Grill.md) | Wind proof | 2 | None. |
-| ![](../assets/Stove.png) / *Stove.png* | [Stove](./Stove.md) | Wind proof | 6 | Has 6 cooking slots. |
-| ![](../assets/Wood_stove.png) / *Wood\_stove.png* | [Wood Stove](./Wood%20Stove.md) | Wind proof | 2 | None. |
+| ![](../assets/Ammunition_Forge.png) / _Ammunition\_Forge.png_ | [Ammunition Forge](./Ammunition%20Forge.md) | Wind proof | 0 | Can craft [Bullets](./Bullet.md) from [Scrap Lead](./Scrap%20Lead.md). |
+| ![](../assets/Fire_radial_icon.png) / _Fire\_radial\_icon.png_ | [Campfire](./Campfire.md) | Can be placed at the player's discretion Deters predators / Can be blown out by strong winds | 2 | Has 2 cooking slots. |
+| ![](../assets/Fire_barrel.png) / _Fire\_barrel.png_ | [Fire Barrel](./Fire%20Barrel.md) | Wind proof | 2 | None. |
+| ![](../assets/Fire_place.png) / _Fire\_place.png_ | [Fireplace](./Fireplace.md) | Wind proof | 2 | None. |
+| ![](../assets/Forge.png) / _Forge.png_ | [Furnace](./Furnace.md) | Wind proof | 1 | Heats the [Forge](./Forge.md). |
+| ![](../assets/Pot_belly_stove.png) / _Pot\_belly\_stove.png_ | [Pot Belly Stove](./Pot%20Belly%20Stove.md) | Wind proof | 1 | Only 1 cooking slot. |
+| ![](../assets/Screen_ab2c5b97-8817-4398-a5b1-fb4b96024b93_hi.png) / _Screen\_ab2c5b97-8817-4398-a5b1-fb4b96024b93\_hi.png_ | [Rim Grill](./Rim%20Grill.md) | Wind proof | 2 | None. |
+| ![](../assets/Stove.png) / _Stove.png_ | [Stove](./Stove.md) | Wind proof | 6 | Has 6 cooking slots. |
+| ![](../assets/Wood_stove.png) / _Wood\_stove.png_ | [Wood Stove](./Wood%20Stove.md) | Wind proof | 2 | None. |
 
 ## Feats
 
@@ -160,13 +155,13 @@ Players who have unlocked the Fire Master [Feat](./Feats.md) are able to activat
 
 | Image | Feat | Requirement | Effect |
 | --- | --- | --- | --- |
-| ![](../assets/Badge_feat_firemaster.png) / *Badge\_feat\_firemaster.png* | Fire Master | Start 1000 fires | Survivors start with a Level 3 Fire Starting skill |
+| ![](../assets/Badge_feat_firemaster.png) / _Badge\_feat\_firemaster.png_ | Fire Master | Start 1000 fires | Survivors start with a Level 3 Fire Starting skill |
 
 ## Skill levels
 
 Players can increase their fire starting skill by starting any fire. It is possible to increase fire starting skill by lighting a torch, then using the torch to start new fires, which allows for many skill points to be gained with a single match.
 
-A limited increase can be obtained from the [Research Book](./Research%20Book.md) *Survive the Outdoors!*, which allows players to increase their fire starting skill by 10 skill points with 5 hours of research.
+A limited increase can be obtained from the [Research Book](./Research%20Book.md) _Survive the Outdoors!_, which allows players to increase their fire starting skill by 10 skill points with 5 hours of research.
 
 Once players have reached a new skill level, they unlock a new bonus/bonuses get better.
 
@@ -181,8 +176,6 @@ Once players have reached a new skill level, they unlock a new bonus/bonuses get
 | 5 | 200 | Max level | - 90% chance to start fires / - Fires start 50% faster / - Fires last 50% longer / - Can start fires without tinder. | You have a spark at your fingertips. Your skills are legendary. You're the fire whisperer. |
 
 &lt;/table-progress-tracking&gt;
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [es:Hacer\_fuego](es:Hacer_fuego) [ru:Разведение огня](ru:%D0%A0%D0%B0%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE%D0%B3%D0%BD%D1%8F) [fr:Allumage de feu](fr:Allumage_de_feu)
 
 ## Notes
 

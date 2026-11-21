@@ -1,19 +1,14 @@
----
-title: "Crash Site (Pleasant Valley)"
-wiki_namespace: 0
-categories: ["Landmarks", "Locations", "Locations in Pleasant Valley", "Outdoor locations", "Unofficial locations", "Unofficially named content"]
-source: "https://thelongdark.fandom.com/wiki/Crash_Site_(Pleasant_Valley)"
----
-
 # Crash Site \(Pleasant Valley\)
+
+**Categories:** Landmarks, Locations, Locations in Pleasant Valley, Outdoor locations, Unofficial locations, Unofficially named content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Crash_Site_%28Pleasant_Valley%29)
 
 **Crash Site (Pleasant Valley)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/SS-PV-crash-04.jpg) / *SS-PV-crash-04.jpg* |
+|  | ![](../assets/SS-PV-crash-04.jpg) / _SS-PV-crash-04.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Crash_Site_Pleasant_Valley_Location.png) / *Crash\_Site\_Pleasant\_Valley\_Location.png* |
+|  | ![](../assets/Crash_Site_Pleasant_Valley_Location.png) / _Crash\_Site\_Pleasant\_Valley\_Location.png_ |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
 | Description | A crashed passenger airliner |
 | **General** |  |
@@ -33,9 +28,34 @@ Unlike the crate-filled [Tail Section](./Tail%20Section.md) that broke off on th
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![](../assets/SS-PV-crash-04.jpg) / *SS-PV-crash-04.jpg* | ![The crashed Northern Charter plane in Episode 3](../assets/North_Charters_Crash.jpg) / *The crashed Northern Charter plane in Episode 3* | ![](../assets/SS-PV-crash-03.jpg) / *SS-PV-crash-03.jpg* | ![](../assets/SS-PV-crash-02.jpg) / *SS-PV-crash-02.jpg* |
-| ![](../assets/SS-PV-crash-01.jpg) / *SS-PV-crash-01.jpg* | ![](../assets/SS-PV-crash-06.jpg) / *SS-PV-crash-06.jpg* | ![](../assets/SS-PV-crash-05.jpg) / *SS-PV-crash-05.jpg* | ![](../assets/Missions_story_ep3_Fallen_Star.png) / *Missions\_story\_ep3\_Fallen\_Star.png* |
+![](../assets/SS-PV-crash-04.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_SS-PV-crash-04.jpg_
+
+![The crashed Northern Charter plane in Episode 3](../assets/North_Charters_Crash.jpg)
+
+_The crashed Northern Charter plane in Episode 3_
+
+![](../assets/SS-PV-crash-03.jpg)
+
+_SS-PV-crash-03.jpg_
+
+![](../assets/SS-PV-crash-02.jpg)
+
+_SS-PV-crash-02.jpg_
+
+![](../assets/SS-PV-crash-01.jpg)
+
+_SS-PV-crash-01.jpg_
+
+![](../assets/SS-PV-crash-06.jpg)
+
+_SS-PV-crash-06.jpg_
+
+![](../assets/SS-PV-crash-05.jpg)
+
+_SS-PV-crash-05.jpg_
+
+![](../assets/Missions_story_ep3_Fallen_Star.png)
+
+_Missions\_story\_ep3\_Fallen\_Star.png_

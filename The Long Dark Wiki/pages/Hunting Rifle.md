@@ -1,11 +1,6 @@
----
-title: "Hunting Rifle"
-wiki_namespace: 0
-categories: ["Story items", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Hunting_Rifle"
----
-
 # Hunting Rifle
+
+**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunting_Rifle)
 
 **Contents**
 
@@ -49,7 +44,7 @@ source: "https://thelongdark.fandom.com/wiki/Hunting_Rifle"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hunting_Rifle_icon.png) / *Hunting\_Rifle\_icon.png* |
+|  | ![](../assets/Hunting_Rifle_icon.png) / _Hunting\_Rifle\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | **Statistics** |  |
@@ -57,11 +52,11 @@ source: "https://thelongdark.fandom.com/wiki/Hunting_Rifle"
 | Harvest | 1 Hour 2 × [Scrap Metal](./Scrap%20Metal.md) |
 | Repair | [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) 12-5 minutes / 3%-5% |
 
-> “**An old .303 calibre bolt-action hunting rifle. Will bring a deer down. Maybe a wolf.**”
+> “__An old .303 calibre bolt-action hunting rifle. Will bring a deer down. Maybe a wolf.__”
 >
 > — In-game description
 
-*This article is about the normal hunting rifle. For variants, see [Vaughn's Rifle](./Vaughn%27s%20Rifle.md), [Barb's Rifle](./Barb%27s%20Rifle.md), [Bunker Rifle](./Bunker%20Rifle.md), or [Curator's Rifle](./Curator%27s%20Rifle.md).*
+_This article is about the normal hunting rifle. For variants, see [Vaughn's Rifle](./Vaughn%27s%20Rifle.md), [Barb's Rifle](./Barb%27s%20Rifle.md), [Bunker Rifle](./Bunker%20Rifle.md), or [Curator's Rifle](./Curator%27s%20Rifle.md)._
 
 The **Hunting Rifle** is a bolt-action weapon with an internal magazine capacity of 10 rounds that can be used to scare away or kill [Wildlife](./Wildlife.md). When hitting a target, it provides experience in the [Rifle Firearm](./Rifle%20Firearm.md) skill.
 
@@ -97,7 +92,7 @@ Low quality Ammunition created from [Gunsmithing](./Gunsmithing.md) can also cau
 
 ### Cleaning
 
-*Main article: [Cleaning](./Cleaning.md)*
+_Main article: [Cleaning](./Cleaning.md)_
 
 Hunting Rifles can be cleaned with a [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) to prevent jamming and improve accuracy.
 
@@ -127,7 +122,7 @@ The Hunting Rifle has 3 variants, each having distinct differences from the base
 
 ## Hunting
 
-*Main article: [Hunting](./Hunting.md)*
+_Main article: [Hunting](./Hunting.md)_
 
 The rounds fired from the Hunting Rifle move at a high velocity, and travel in a straight line. Upon hitting a target, they can cause massive internal injuries, potentially killing animals instantly. If the round fails to cause internal injuries sufficient enough to kill instantly, the round will still result a bleeding wound that will kill the animal eventually.
 
@@ -295,14 +290,57 @@ No normal Hunting Rifle will spawn here. If [Tales from the Far Territory](./Tal
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Jammed cartridge failed to chamber properly old version](../assets/Jammed.png) / *Jammed cartridge failed to chamber properly old version* | ![Rifle iron sights. (pre-v1.48 update)](../assets/Riflesights.jpg) / *Rifle iron sights. (pre-v1.48 update)* | ![Hunting rifle ejecting a casing after a shot.](../assets/Riflereloadingaftershoot.jpg) / *Hunting rifle ejecting a casing after a shot.* | ![A 5-round stripper clip being loaded.](../assets/Riflereloadingmagazine.jpg) / *A 5-round stripper clip being loaded.* |
-| \[Missing image: Hunting\_Rifle\_icon\_(story).png\] / *Old Epiosde 2 Predux story model icon for a second Hunting Rifle* | ![A hunting rifle on the rack in the Trapper's Homestead](../assets/Hunting_rifle_rack.jpg) / *A hunting rifle on the rack in the [Trapper's Homestead](./Trapper%27s%20Homestead.md)* | ![Old Hunting Rifle model (Pre-alpha)](../assets/Thelongdark_rugye_2.jpg) / *Old Hunting Rifle model (Pre-alpha)* | ![Old Hunting Rifle model in hands (Pre-Alpha)](../assets/Prealphahuntingrifle.jpg) / *Old Hunting Rifle model in hands (Pre-Alpha)* |
-| ![Old Hunting Rifle model in hands (Early Access period)](../assets/Alphahuntingrifle.jpg) / *Old Hunting Rifle model in hands (Early Access period)* | ![Old Hunting Rifle model in hands (Pre-1.0)](../assets/Alphahuntingrifle2.jpg) / *Old Hunting Rifle model in hands (Pre-1.0)* | ![Old Hunting Rifle model in hands (1.0-1.47 version)](../assets/Oldhuntingriflemodel.png) / *Old Hunting Rifle model in hands (1.0-1.47 version)* | ![Old Hunting Rifle model in hands (1.48-2.23 version)](../assets/NewHuntingRifle.png) / *Old Hunting Rifle model in hands (1.48-2.23 version)* |
-| ![New Hunting Rifle model in hands (v2.25-Present)](../assets/NewHuntingRifle2.jpg) / *New Hunting Rifle model in hands (v2.25-Present)* |  |  |  |
+![Jammed cartridge failed to chamber properly old version](../assets/Jammed.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Ружьё](ru:%D0%A0%D1%83%D0%B6%D1%8C%D1%91) [fr:Fusil de chasse](fr:Fusil_de_chasse)
+_Jammed cartridge failed to chamber properly old version_
+
+![Rifle iron sights. (pre-v1.48 update)](../assets/Riflesights.jpg)
+
+_Rifle iron sights. (pre-v1.48 update)_
+
+![Hunting rifle ejecting a casing after a shot.](../assets/Riflereloadingaftershoot.jpg)
+
+_Hunting rifle ejecting a casing after a shot._
+
+![A 5-round stripper clip being loaded.](../assets/Riflereloadingmagazine.jpg)
+
+_A 5-round stripper clip being loaded._
+
+\[Missing image: Hunting\_Rifle\_icon\_(story).png\]
+
+_Old Epiosde 2 Predux story model icon for a second Hunting Rifle_
+
+![A hunting rifle on the rack in the Trapper's Homestead](../assets/Hunting_rifle_rack.jpg)
+
+_A hunting rifle on the rack in the [Trapper's Homestead](./Trapper%27s%20Homestead.md)_
+
+![Old Hunting Rifle model (Pre-alpha)](../assets/Thelongdark_rugye_2.jpg)
+
+_Old Hunting Rifle model (Pre-alpha)_
+
+![Old Hunting Rifle model in hands (Pre-Alpha)](../assets/Prealphahuntingrifle.jpg)
+
+_Old Hunting Rifle model in hands (Pre-Alpha)_
+
+![Old Hunting Rifle model in hands (Early Access period)](../assets/Alphahuntingrifle.jpg)
+
+_Old Hunting Rifle model in hands (Early Access period)_
+
+![Old Hunting Rifle model in hands (Pre-1.0)](../assets/Alphahuntingrifle2.jpg)
+
+_Old Hunting Rifle model in hands (Pre-1.0)_
+
+![Old Hunting Rifle model in hands (1.0-1.47 version)](../assets/Oldhuntingriflemodel.png)
+
+_Old Hunting Rifle model in hands (1.0-1.47 version)_
+
+![Old Hunting Rifle model in hands (1.48-2.23 version)](../assets/NewHuntingRifle.png)
+
+_Old Hunting Rifle model in hands (1.48-2.23 version)_
+
+![New Hunting Rifle model in hands (v2.25-Present)](../assets/NewHuntingRifle2.jpg)
+
+_New Hunting Rifle model in hands (v2.25-Present)_
 
 ## Notes
 

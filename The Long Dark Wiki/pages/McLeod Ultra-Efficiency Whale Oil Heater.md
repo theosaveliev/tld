@@ -1,11 +1,6 @@
----
-title: "McLeod Ultra-Efficiency Whale Oil Heater"
-wiki_namespace: 0
-categories: ["DLC Content", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/McLeod_Ultra-Efficiency_Whale_Oil_Heater"
----
-
 # McLeod Ultra\-Efficiency Whale Oil Heater
+
+**Categories:** DLC Content, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/McLeod_Ultra-Efficiency_Whale_Oil_Heater)
 
 **Contents**
 
@@ -22,7 +17,7 @@ source: "https://thelongdark.fandom.com/wiki/McLeod_Ultra-Efficiency_Whale_Oil_H
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/McLeod_Ultra-Efficiency_Whale_Oil_Heater_icon.png) / *McLeod\_Ultra-Efficiency\_Whale\_Oil\_Heater\_icon.png* |
+|  | ![](../assets/McLeod_Ultra-Efficiency_Whale_Oil_Heater_icon.png) / _McLeod\_Ultra-Efficiency\_Whale\_Oil\_Heater\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | Renewable | No |
@@ -33,9 +28,9 @@ source: "https://thelongdark.fandom.com/wiki/McLeod_Ultra-Efficiency_Whale_Oil_H
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Seal_icon.png) / *Seal\_icon.png* | **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | **A portable heater powered by whale oil, ultra efficient by virtue of modifications by the McLeod Benthic Railway Company. Heavy, windproof. Higher fuel use means higher heat output. Patent pending.** / In-game description | ” |
+| ![](../assets/Seal_icon.png) / _Seal\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __A portable heater powered by whale oil, ultra efficient by virtue of modifications by the McLeod Benthic Railway Company. Heavy, windproof. Higher fuel use means higher heat output. Patent pending.__ / In-game description | ” |
 
-The **McLeod Ultra-Efficiency Whale Oil Heater** (or Oil Heater for short), is a [Tools](./Tools.md) item exclusively found on [Cauldron Island](./Cauldron%20Island.md) in [*The Long Dark*](./The%20Long%20Dark.md).
+The **McLeod Ultra-Efficiency Whale Oil Heater** (or Oil Heater for short), is a [Tools](./Tools.md) item exclusively found on [Cauldron Island](./Cauldron%20Island.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
@@ -63,9 +58,9 @@ The Oil Heater has a temperature setting that can be adjusted to the player's li
 
 | Burn Rate | Temp | Oil Burned (Per Hour) | Max fuel burn rate until drained (when full at 2.50 L) |
 | --- | --- | --- | --- |
-| Low Burn | +10 °C / *(18 °F)* | 0.25 L | 10 hours |
-| Medium Burn | +20 °C / *(36 °F)* | 0.50 L | 5 hours |
-| High Burn | +30 °C / *(54 °F)* | 0.75 L | 3.33 hours |
+| Low Burn | +10 °C / _(18 °F)_ | 0.25 L | 10 hours |
+| Medium Burn | +20 °C / _(36 °F)_ | 0.50 L | 5 hours |
+| High Burn | +30 °C / _(54 °F)_ | 0.75 L | 3.33 hours |
 
 ### Disadvantages
 
@@ -89,7 +84,5 @@ The Oil Heater can be repaired with a pair of [Simple Tools](./Simple%20Tools.md
 ## Gallery
 
 ## Game History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox**
 
 [ru:Ультраэффективный обогреватель Маклеода](ru:%D0%A3%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BE%D0%B1%D0%BE%D0%B3%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D0%9C%D0%B0%D0%BA%D0%BB%D0%B5%D0%BE%D0%B4%D0%B0)

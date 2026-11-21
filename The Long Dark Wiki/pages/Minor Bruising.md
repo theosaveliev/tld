@@ -1,17 +1,12 @@
----
-title: "Minor Bruising"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Minor_Bruising"
----
-
 # Minor Bruising
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Minor_Bruising)
 
 **Minor Bruising**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Minor_Bruising_icon.png) / *Minor\_Bruising\_icon.png* |
+|  | ![](../assets/Minor_Bruising_icon.png) / _Minor\_Bruising\_icon.png_ |
 | Release | [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256) |
 | Update | 0.256 |
 | **Properties** |  |
@@ -27,8 +22,6 @@ source: "https://thelongdark.fandom.com/wiki/Minor_Bruising"
 
 Minor Bruising damages [Condition](./Condition.md) by 5%, and makes any future losses of condition slightly more damaging than it normally would. Bruising cannot be treated, and will disappear after the fall or struggle is resolved.
 
-| Column 1 |
-| --- |
-| ![Old icon](../assets/Minor_brusing_2.png) / *Old icon* |
+![Old icon](../assets/Minor_brusing_2.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Old icon_

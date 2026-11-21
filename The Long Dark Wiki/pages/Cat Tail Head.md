@@ -1,11 +1,6 @@
----
-title: "Cat Tail Head"
-wiki_namespace: 0
-categories: ["Fire Starting", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cat_Tail_Head"
----
-
 # Cat Tail Head
+
+**Categories:** Fire Starting, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cat_Tail_Head)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Cat_Tail_Head"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cat_Tail_Head_icon.png) / *Cat\_Tail\_Head\_icon.png* |
+|  | ![](../assets/Cat_Tail_Head_icon.png) / _Cat\_Tail\_Head\_icon.png_ |
 | Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212) |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
@@ -29,7 +24,7 @@ source: "https://thelongdark.fandom.com/wiki/Cat_Tail_Head"
 | **Values** |  |
 | Weight | 0.05 kg (0.11 lbs) |
 
-**Cat Tail Heads** are tinder item in *[The Long Dark](./The%20Long%20Dark.md),* obtained by harvesting [Cat Tail](./Cat%20Tail.md) plants.
+**Cat Tail Heads** are tinder item in _[The Long Dark](./The%20Long%20Dark.md),_ obtained by harvesting [Cat Tail](./Cat%20Tail.md) plants.
 
 ## Overview
 
@@ -51,13 +46,11 @@ Like all other plants, Cat Tails do not regrow.
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Cat_tail_head.png) / *old model* |
+![old model](../assets/Cat_tail_head.png)
+
+_old model_
 
 ## Update history
 
 - UPDATE **11 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.196)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Сухой плод Тимофеевки луговой](ru:%D0%A1%D1%83%D1%85%D0%BE%D0%B9_%D0%BF%D0%BB%D0%BE%D0%B4_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%BA%D0%B8_%D0%BB%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9)

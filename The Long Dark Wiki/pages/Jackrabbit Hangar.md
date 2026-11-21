@@ -1,15 +1,10 @@
----
-title: "Jackrabbit Hangar"
-wiki_namespace: 0
-categories: ["Locations", "Story"]
-source: "https://thelongdark.fandom.com/wiki/Jackrabbit_Hangar"
----
-
 # Jackrabbit Hangar
+
+**Categories:** Locations, Story · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jackrabbit_Hangar)
 
 ![Will Mackenzie inside the hangar](../assets/Intro_cutscene_1.jpg)
 
-*Will Mackenzie inside the hangar*
+_Will Mackenzie inside the hangar_
 
 **Template:quote2**
 
@@ -32,12 +27,54 @@ The only remaining reference to the company after the crash is the logo found on
 - Despite a common misconception, the word "Air" is not included in the company name. It is seen in the subtitles as "Jackrabbit Remote Air Transport" the first time the name is mentioned by Will in the cinematic at the very beginning of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md). The audio however, excludes the word "Air," and so does the poster found inside the hangar. When Will comments on the poster he also uses this wording.
 - A unique [Insulated Flask](./Insulated%20Flask.md) themed off the company can be found in [Survival Mode](./Survival%20Mode.md).
 - Hinterland released a purchasable real world coffee mug based off the Jackrabbit Remote Transport Company.
-- The office board contains a photo of [Astrid Greenwood](./Astrid%20Greenwood.md), the old [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) logo found on the old [Cup of Coffee](./Cup%20of%20Coffee.md) model, and an old map of Great Bear Island before V1.15 of *The Long Dark* was released.
+- The office board contains a photo of [Astrid Greenwood](./Astrid%20Greenwood.md), the old [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) logo found on the old [Cup of Coffee](./Cup%20of%20Coffee.md) model, and an old map of Great Bear Island before V1.15 of _The Long Dark_ was released.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![The interior of the hangar](../assets/Jackrabbit_hanger.jpg) / *The interior of the hangar* | ![The Hangar as shown from the outside](../assets/Jackrabbit_Hangar_Outside.jpg) / *The Hangar as shown from the outside* | ![A poster found inside the hangar](../assets/Jackrabbit_transport_flyer.png) / *A poster found inside the hangar* | ![A painting featuring the company's staff and De Havilland Beaver floatplane](../assets/Jackrabbit_transport_painting.png) / *A painting featuring the company's staff and De Havilland Beaver floatplane* |
-| ![The Jackrabbit Remote Transport themed Insulated Flask](../assets/Insulated_Flask_%28Jackrabbit%29_icon.png) / *The Jackrabbit Remote Transport themed Insulated Flask* | ![The real world Jackrabbit Remote Transport themed coffee mug](../assets/Jackrabbit_Remote_Transport_Mug.webp) / *The real world Jackrabbit Remote Transport themed coffee mug* | ![The board in Mackenzie's office, with a photo of Astrid, the old Hinterland Logo, and an old Great Bear map](../assets/Jackrabbit_Remote_Transport_Office_board.jpg) / *The board in Mackenzie's office, with a photo of Astrid, the old Hinterland Logo, and an old Great Bear map* | ![Mackenzie passing the time by playing Solitaire, pulling the Joker card out](../assets/Joker_Playing_Card_Wolf.jpg) / *Mackenzie passing the time by playing Solitaire, pulling the Joker card out* |
-| ![The old Global map on the office board](../assets/Global_map_Published_by_development_team.jpg) / *The old Global map on the office board* | ![Mackenzie's boredom showing](../assets/Solitaire_cards.jpg) / *Mackenzie's boredom showing* | ![Certified Pilot](../assets/Jackrabbit_Certificate.jpg) / *Certified Pilot* | ![Mackenzie eyeing the Great Bear Island brochure](../assets/Great_Bear_Island_brochure.jpg) / *Mackenzie eyeing the Great Bear Island brochure* |
+![The interior of the hangar](../assets/Jackrabbit_hanger.jpg)
+
+_The interior of the hangar_
+
+![The Hangar as shown from the outside](../assets/Jackrabbit_Hangar_Outside.jpg)
+
+_The Hangar as shown from the outside_
+
+![A poster found inside the hangar](../assets/Jackrabbit_transport_flyer.png)
+
+_A poster found inside the hangar_
+
+![A painting featuring the company's staff and De Havilland Beaver floatplane](../assets/Jackrabbit_transport_painting.png)
+
+_A painting featuring the company's staff and De Havilland Beaver floatplane_
+
+![The Jackrabbit Remote Transport themed Insulated Flask](../assets/Insulated_Flask_%28Jackrabbit%29_icon.png)
+
+_The Jackrabbit Remote Transport themed Insulated Flask_
+
+![The real world Jackrabbit Remote Transport themed coffee mug](../assets/Jackrabbit_Remote_Transport_Mug.webp)
+
+_The real world Jackrabbit Remote Transport themed coffee mug_
+
+![The board in Mackenzie's office, with a photo of Astrid, the old Hinterland Logo, and an old Great Bear map](../assets/Jackrabbit_Remote_Transport_Office_board.jpg)
+
+_The board in Mackenzie's office, with a photo of Astrid, the old Hinterland Logo, and an old Great Bear map_
+
+![Mackenzie passing the time by playing Solitaire, pulling the Joker card out](../assets/Joker_Playing_Card_Wolf.jpg)
+
+_Mackenzie passing the time by playing Solitaire, pulling the Joker card out_
+
+![The old Global map on the office board](../assets/Global_map_Published_by_development_team.jpg)
+
+_The old Global map on the office board_
+
+![Mackenzie's boredom showing](../assets/Solitaire_cards.jpg)
+
+_Mackenzie's boredom showing_
+
+![Certified Pilot](../assets/Jackrabbit_Certificate.jpg)
+
+_Certified Pilot_
+
+![Mackenzie eyeing the Great Bear Island brochure](../assets/Great_Bear_Island_brochure.jpg)
+
+_Mackenzie eyeing the Great Bear Island brochure_

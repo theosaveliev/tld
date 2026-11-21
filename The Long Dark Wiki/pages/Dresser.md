@@ -1,11 +1,6 @@
----
-title: "Dresser"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Dresser"
----
-
 # Dresser
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dresser)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Dresser"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Dresser_icon.png) / *Dresser\_icon.png* |
+|  | ![](../assets/Dresser_icon.png) / _Dresser\_icon.png_ |
 | Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
 | **Values** |  |
 | Weight | 25.00 kg (55 lbs) |
@@ -60,5 +55,3 @@ This item cannot be harvested.
 |  | 4 |
 
 ## Update History
-
-**Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Комод](ru:%D0%9A%D0%BE%D0%BC%D0%BE%D0%B4)

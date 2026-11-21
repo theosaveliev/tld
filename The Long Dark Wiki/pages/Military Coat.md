@@ -1,17 +1,12 @@
----
-title: "Military Coat"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Military_Coat"
----
-
 # Military Coat
+
+**Categories:** Clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Military_Coat)
 
 **Military Coat**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Military_Coat_icon.png) / *Military\_Coat\_icon.png* |
+|  | ![](../assets/Military_Coat_icon.png) / _Military\_Coat\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -24,23 +19,25 @@ source: "https://thelongdark.fandom.com/wiki/Military_Coat"
 | Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
 | Repair | 2 × [Cloth](./Cloth.md) / 90 minutes / 30% condition |
 
-> “**Winter version of the traditional coat used by the military. Doesn't use the best technical materials, but is tough as hell. Takes a beating, as you can while wearing it.**”
+> “__Winter version of the traditional coat used by the military. Doesn't use the best technical materials, but is tough as hell. Takes a beating, as you can while wearing it.__”
 >
 > — In-game description
 
-The **Military Coat** is a type of [clothing](./Clothing.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+The **Military Coat** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
 High-tier coat giving good warmth, waterproofness and protection compared to other clothing of its rank. The Military Coat is, for the most part, a direct upgrade to the [Old Fashioned Parka](./Old%20Fashioned%20Parka.md), giving better waterproofing, more protection, and a lower mobility penalty. The coat does take longer to repair than the parka, though, and doesn't gain much condition restoration per repair.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Military_Coat_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Military_Coat_Model_Damaged_icon.png) / *Clothing model icon damaged* |
+![Clothing model icon](../assets/Military_Coat_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Military_Coat_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Шинель](ru:%D0%A8%D0%B8%D0%BD%D0%B5%D0%BB%D1%8C)

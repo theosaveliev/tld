@@ -1,11 +1,6 @@
----
-title: "Vachon"
-wiki_namespace: 0
-categories: ["Characters", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Vachon"
----
-
 # Vachon
+
+**Categories:** Characters, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Vachon)
 
 **Contents**
 
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Vachon"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Vachon.png) / *Vachon.png* |
+|  | ![](../assets/Vachon.png) / _Vachon.png_ |
 | Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Date | 6 October 2021 |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
@@ -43,7 +38,7 @@ source: "https://thelongdark.fandom.com/wiki/Vachon"
 | **Game Information** |  |
 | Voiced by | Jacques Lalonde |
 
-> “**Get going, pilot. The Warden doesn't have much time left. And in case you're thinking of running away. Remember...we still have your precious case.**”
+> “__Get going, pilot. The Warden doesn't have much time left. And in case you're thinking of running away. Remember...we still have your precious case.__”
 >
 > — Vachon
 
@@ -109,13 +104,23 @@ He is later killed by [Jeremiah](./Jeremiah.md) when a Hatchet is thrown into hi
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Vachon waiting for Mackenzie to return](../assets/Vachon_fire_barrel.jpg) / *Vachon waiting for Mackenzie to return* | ![Vachon being attacked by a Timberwolf](../assets/Vachon_Timberwolf.jpg) / *Vachon being attacked by a Timberwolf* | ![Mathis, Vachon, and Heller attacked by Timberwolves](../assets/Mathis_Vachon_Heller_Timberwolf.jpg) / *Mathis, Vachon, and Heller attacked by Timberwolves* | ![Vachon without his jacket on, revealing his sleeveless prison uniform](../assets/Mathis_Heller_Vachon.jpg) / *Vachon without his jacket on, revealing his sleeveless prison uniform* |
+![Vachon waiting for Mackenzie to return](../assets/Vachon_fire_barrel.jpg)
+
+_Vachon waiting for Mackenzie to return_
+
+![Vachon being attacked by a Timberwolf](../assets/Vachon_Timberwolf.jpg)
+
+_Vachon being attacked by a Timberwolf_
+
+![Mathis, Vachon, and Heller attacked by Timberwolves](../assets/Mathis_Vachon_Heller_Timberwolf.jpg)
+
+_Mathis, Vachon, and Heller attacked by Timberwolves_
+
+![Vachon without his jacket on, revealing his sleeveless prison uniform](../assets/Mathis_Heller_Vachon.jpg)
+
+_Vachon without his jacket on, revealing his sleeveless prison uniform_
 
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Вачон](ru:%D0%92%D0%B0%D1%87%D0%BE%D0%BD)

@@ -1,17 +1,12 @@
----
-title: "Dr Larsen's Clipboard"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Dr_Larsen's_Clipboard"
----
-
 # Dr Larsen's Clipboard
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dr_Larsen's_Clipboard)
 
 **Dr Larsen's Clipboard**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Dr_Larsen%27s_Clipboard_icon.png) / *Dr\_Larsen's\_Clipboard\_icon.png* |
+|  | ![](../assets/Dr_Larsen%27s_Clipboard_icon.png) / _Dr\_Larsen's\_Clipboard\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -30,7 +25,7 @@ The note is narrated by Dr. Larsen.
 
 ## Transcript
 
-*The following text is transcribed from **Dr Larsen's Clipboard***
+_The following text is transcribed from **Dr Larsen's Clipboard**_
 
 **Tuesday, \[writing scratched out\]
 
@@ -52,5 +47,3 @@ We will see.**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

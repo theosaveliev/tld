@@ -1,10 +1,5 @@
----
-title: "Jack-o-Lantern"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Jack-o-Lantern"
----
-
 # Jack\-o\-Lantern
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jack-o-Lantern)
 
 {{Infobox object |name = Jack-o-Lantern |image = Jack-o-Lantern.png |release = 28 October 2016 |update = 0.372 |story = No |location = |key = }} A '''Jack-o-Lantern''' is a non-interactable object that appear during the \[\[4 Days of Night Event\]\]. Jack-o-Lantern served as a marker for \[\[Hidden Cache\]\]s or other loot, during the event, by emitting a permanent light similar to a camp fire. ==Locations== While the event was active, Jack-o-Lanterns had a chance to appear in the following locations: {| class="wikitable sticky-header sortable style="text-align: left;" ! Region ! Location ! Description |- | rowspan=3 |\[\[Mystery Lake (region)|Mystery Lake\]\] |\[\[Forestry Lookout\]\] |Located at the lookout. |- |\[\[Deadfall Area\]\] |In the burned out cabin, next to the stove. |- |\[\[River (Southern Access)\]\] |Located on the western bank of the frozen river. |- |\[\[Mountain Town\]\] |\[\[St. Christopher's Church\]\] |Behind the church. |- | rowspan=2 |\[\[Coastal Highway\]\] |\[\[Jackrabbit Island\]\] |On the small island partway towards \[\[Misanthrope's Homestead\]\]. |- |\[\[Waterfront Cottages\]\] |Out in front of the cottages. |- | rowspan=2 |\[\[Pleasant Valley\]\] |\[\[Pensive Pond\]\] |On the dock. |- |\[\[Pleasant Valley Farmstead\]\] |In the sheds towards \[\[Pleasant Valley Outbuildings\]\]. |} == Gallery ==  File:Jack o lantern.jpg|A Jack-o-Lantern with a supply box nearby File:4DON menu background.jpg|The menu featuring a Jack-o-Lantern File:Jack o Lantern Aurora.jpg|A Jack-o-Lantern found on Day 3 {{Interactable Objects}}

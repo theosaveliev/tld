@@ -1,11 +1,6 @@
----
-title: "Suitcase"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Suitcase"
----
-
 # Suitcase
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Suitcase)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Suitcase"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Suitcase.jpg) / *Suitcase.jpg* |
+|  | ![](../assets/Suitcase.jpg) / _Suitcase.jpg_ |
 | Release | 1.60 |
 | Story item | Yes |
 | **Container** |  |
@@ -70,12 +65,29 @@ You can use the "keep construction mode out of customizable areas" bug/exploit t
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![](../assets/Navy_Suitcase.png) / *Navy\_Suitcase.png* | ![](../assets/Blue_Suitcase.png) / *Blue\_Suitcase.png* | ![](../assets/Red_Suitcase.png) / *Red\_Suitcase.png* | ![](../assets/Grandmas_Flower_Suitcase.png) / *Grandmas\_Flower\_Suitcase.png* |
-| ![](../assets/Tan_Suitcase.png) / *Tan\_Suitcase.png* | ![](../assets/Dark_Brown_Suitcase.png) / *Dark\_Brown\_Suitcase.png* |  |  |
+![](../assets/Navy_Suitcase.png)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Чемодан](ru:%D0%A7%D0%B5%D0%BC%D0%BE%D0%B4%D0%B0%D0%BD)
+_Navy\_Suitcase.png_
+
+![](../assets/Blue_Suitcase.png)
+
+_Blue\_Suitcase.png_
+
+![](../assets/Red_Suitcase.png)
+
+_Red\_Suitcase.png_
+
+![](../assets/Grandmas_Flower_Suitcase.png)
+
+_Grandmas\_Flower\_Suitcase.png_
+
+![](../assets/Tan_Suitcase.png)
+
+_Tan\_Suitcase.png_
+
+![](../assets/Dark_Brown_Suitcase.png)
+
+_Dark\_Brown\_Suitcase.png_
 
 ## Notes
 

@@ -1,11 +1,6 @@
----
-title: "Terry"
-wiki_namespace: 0
-categories: ["Article stubs"]
-source: "https://thelongdark.fandom.com/wiki/Terry"
----
-
 # Terry
+
+**Categories:** Article stubs · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Terry)
 
 **Contents**
 
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Terry"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Terry.jpg) / *Terry.jpg* |
+|  | ![](../assets/Terry.jpg) / _Terry.jpg_ |
 | Release | [2.52](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Date | 6 October 2021 |
 | Wintermute | [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
@@ -37,11 +32,11 @@ source: "https://thelongdark.fandom.com/wiki/Terry"
 | **Game Information** |  |
 | Voiced by | Noel Johansen (Episode 2 &amp; 3) Nick Wolfhard (Episode 5) |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
-**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Terry&amp;action=edit expanding it\].**
+**Stub:**__This article is a stub. You can help by \[//dummy.host/index.php?title=Terry&amp;action=edit expanding it\].__
 
-**Terry** a minor character in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) in [*The Long Dark*](./The%20Long%20Dark.md). He appears in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) and [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) as the "**Radio Voice Man**."
+**Terry** a minor character in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) in [_The Long Dark_](./The%20Long%20Dark.md). He appears in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) and [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) as the "**Radio Voice Man**."
 
 ## Appearance
 
@@ -51,15 +46,15 @@ Terry wears a green jacket, glasses.
 
 A resident of [Perseverance Mills](./Perseverance%20Mills.md), Terry operates his [own radio hut.](./Terry%27s%20Radio%20Shack.md)
 
-He is a man of a conspiratorial/distrusting of government types nature, with his motto being "Trust *No* One." Terry also enjoys cannabis blunts.
+He is a man of a conspiratorial/distrusting of government types nature, with his motto being "Trust _No_ One." Terry also enjoys cannabis blunts.
 
 ## [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md)
 
 ### [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)
 
-> “**...\[static\]... This is...Mills...come in...  
+> “__...\[static\]... This is...Mills...come in...  
  We need help...Some kind of...quarantine...  
- We need a...doctor...or medical assistance. Anything.**”
+ We need a...doctor...or medical assistance. Anything.__”
 >
 > — Radio Voice Man
 
@@ -69,9 +64,9 @@ Terry is first heard on a radio broadcast as [Will Mackenzie](./Will%20Mackenzie
 
 ### [Aftermath](./Aftermath.md)
 
-> “**...\[static\]... Come in... We need...help... There's some kind of...quarantine...situation.  
+> “__...\[static\]... Come in... We need...help... There's some kind of...quarantine...situation.  
  We need a...doctor... or medical assistance. Anything.  
- We're cut off.**”
+ We're cut off.__”
 
 The same radio broadcast from Episode 2 is played again at [Signal Hill](./Signal%20Hill.md), this time from Astrid Greenwood's perspective. The broadcast is mostly the same, but with slightly more dialogue.
 
@@ -79,11 +74,11 @@ The same radio broadcast from Episode 2 is played again at [Signal Hill](./Signa
 
 ### [A Cry For Help](./A%20Cry%20For%20Help.md)
 
-> “**Ok. So about 10 days ago, Doc Larsen asked me to start broadcasting a quarantine message.**”
+> “__Ok. So about 10 days ago, Doc Larsen asked me to start broadcasting a quarantine message.__”
 >
 > — Terry
 
-Terry first appears outside of his shack when Astrid climbs the road to ask him about a distress call he heard the other night. Terry comes out, smoking a blunt and confusing Astrid for someone coming to take several [Car Batteries](./Car%20Battery.md) back from him that he is not finished with. Terry eventually invites Astrid inside and explains that he intercepted a distress call from before the lights went out in [Desperation Bay](./Desperation%20Bay.md).{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Hey look! Somone finally heard my distress call!**
+Terry first appears outside of his shack when Astrid climbs the road to ask him about a distress call he heard the other night. Terry comes out, smoking a blunt and confusing Astrid for someone coming to take several [Car Batteries](./Car%20Battery.md) back from him that he is not finished with. Terry eventually invites Astrid inside and explains that he intercepted a distress call from before the lights went out in [Desperation Bay](./Desperation%20Bay.md).{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Hey look! Somone finally heard my distress call!__
 
 Terry leading Mathis to Cooper's Blind
 
@@ -101,5 +96,3 @@ Terry is last seen in the bunker under the [Suzuki Radio Telescope](./Suzuki%20R
 
 - He is listed as "Radio Voice Man" in Episode 2 and 3, and is voiced by Noel Johansen.
   - He is voiced by Nick Wolfhard in Episode 5, and is revealed to be named Terry.
-
-**Lua execution error in Module:Navbox function navbox**

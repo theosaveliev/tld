@@ -1,11 +1,6 @@
----
-title: "Weather"
-wiki_namespace: 0
-categories: ["Environment"]
-source: "https://thelongdark.fandom.com/wiki/Weather"
----
-
 # Weather
+
+**Categories:** Environment · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Weather)
 
 **Contents**
 
@@ -20,11 +15,11 @@ source: "https://thelongdark.fandom.com/wiki/Weather"
 - [Lowest and highest temperatures per region](#lowest-and-highest-temperatures-per-region)
 - [Gallery](#gallery)
 
-> “**Mountain blizzards blow through here from time to time. People get stuck indoors, or worse... They wander in circles, only to die within reach of their homes. Even when they are right there in front of them. And they say Grey Mother is blind! Ha!**”
+> “__Mountain blizzards blow through here from time to time. People get stuck indoors, or worse... They wander in circles, only to die within reach of their homes. Even when they are right there in front of them. And they say Grey Mother is blind! Ha!__”
 >
 > — [Grey Mother](./Grey%20Mother.md) discussing blizzards in [Milton](./Milton.md)
 
-**Weather** is the state of the atmosphere outdoors on [Great Bear Island](./Great%20Bear%20Island.md), in *The Long Dark*.
+**Weather** is the state of the atmosphere outdoors on [Great Bear Island](./Great%20Bear%20Island.md), in _The Long Dark_.
 
 ## Overview
 
@@ -65,7 +60,7 @@ Winds affects [Windchill](./Clothing.md) (which makes the "Feels Like" temperatu
 
 ### Wind Shield
 
-![Crouching to get Wind Shield (Wind blowing from ahead)](../assets/Windshield_crouch.gif)*Crouching to get Wind Shield (Wind blowing from ahead)* The [Wind Shield](./Survival%20Overlay.md) is an icon which appears at the top of the UI if a solid object is between the player and oncoming High Winds. When shielded, Windchill temperature is eliminated almost completely and the player is only subjected to the ambient Air temperature. This icon can be used to stay warmer, move faster, or to find campfire locations currently sheltered from the wind. High Winds slows movement in 45° cone around the wind's current direction across the entire region, and a 2m radius around solid objects; this means that to be sheltered from the wind the player (or a campfire) must be on the correct side (opposite) of a solid object relative to oncoming wind and be close to it.
+![Crouching to get Wind Shield (Wind blowing from ahead)](../assets/Windshield_crouch.gif)_Crouching to get Wind Shield (Wind blowing from ahead)_ The [Wind Shield](./Survival%20Overlay.md) is an icon which appears at the top of the UI if a solid object is between the player and oncoming High Winds. When shielded, Windchill temperature is eliminated almost completely and the player is only subjected to the ambient Air temperature. This icon can be used to stay warmer, move faster, or to find campfire locations currently sheltered from the wind. High Winds slows movement in 45° cone around the wind's current direction across the entire region, and a 2m radius around solid objects; this means that to be sheltered from the wind the player (or a campfire) must be on the correct side (opposite) of a solid object relative to oncoming wind and be close to it.
 
 Even very small outcroppings, rocks, and objects like cars can provide a shield from the wind, as well as crouching to get behind a low part of terrain. This makes it possible to sometimes strategically get behind trees or trunks while breaking down [Scrub Brush](./Scrub%20Brush.md), [Branches](./Branch.md), even potentially regaining body temperature at the same time; if Wind Chill is the only thing getting the player below the 0°C threshold.
 
@@ -122,9 +117,32 @@ Refer to the table below for lowest and highest possible temperature in each reg
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Blizzard](../assets/Weather_-_blizzard.jpg) / *Blizzard* | ![Light fog](../assets/Weather_-_light_fog.jpg) / *Light fog* | ![Moderate fog](../assets/Weather_-_moderate_fog.jpg) / *Moderate fog* | ![Overcast skies](../assets/Weather_-_overcast.jpg) / *Overcast skies* |
-| ![Clear, sunny skies](../assets/Weather_-_sunny.jpg) / *Clear, sunny skies* | ![Glimmer Fog](../assets/Glimmer_Fog.jpg) / *Glimmer Fog* | ![A detailed air temperatures table](../assets/Temperature_table.png) / *A detailed air temperatures table* |  |
+![Blizzard](../assets/Weather_-_blizzard.jpg)
+
+_Blizzard_
+
+![Light fog](../assets/Weather_-_light_fog.jpg)
+
+_Light fog_
+
+![Moderate fog](../assets/Weather_-_moderate_fog.jpg)
+
+_Moderate fog_
+
+![Overcast skies](../assets/Weather_-_overcast.jpg)
+
+_Overcast skies_
+
+![Clear, sunny skies](../assets/Weather_-_sunny.jpg)
+
+_Clear, sunny skies_
+
+![Glimmer Fog](../assets/Glimmer_Fog.jpg)
+
+_Glimmer Fog_
+
+![A detailed air temperatures table](../assets/Temperature_table.png)
+
+_A detailed air temperatures table_
 
 [ru:Погода](ru:%D0%9F%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0) [fr:Météo](fr:M%C3%A9t%C3%A9o) [de:Wetter](de:Wetter)

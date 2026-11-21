@@ -1,11 +1,6 @@
----
-title: "Memories"
-wiki_namespace: 0
-categories: ["Episode 1", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Memories"
----
-
 # Memories
+
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Memories)
 
 **Contents**
 
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Memories"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Memories.png) / *Memories.png* |
+|  | ![](../assets/Memories.png) / _Memories.png_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Previous | None |
 | Current | Memories |
@@ -35,13 +30,13 @@ source: "https://thelongdark.fandom.com/wiki/Memories"
 | Region | [Mountain Town](./Mountain%20Town.md) |
 | Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Astrid Greenwood](./Astrid%20Greenwood.md) |
 
-*For Buffer Memories, see [Buffer Memories](./Buffer%20Memories.md).*
+_For Buffer Memories, see [Buffer Memories](./Buffer%20Memories.md)._
 
 **Memories** is the first mission in [Episode One](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md), where [Will Mackenzie](./Will%20Mackenzie.md) sits around the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) hanger until he receives a visitor that requests a flight to [Great Bear Island](./Great%20Bear%20Island.md).
 
 ## Official Description
 
-> “**Mackenzie hangs around the Jackrabbit Transport hangar, waiting for something to happen.**”
+> “__Mackenzie hangs around the Jackrabbit Transport hangar, waiting for something to happen.__”
 >
 > — In-game description
 
@@ -142,15 +137,43 @@ A cutscene triggers, where you fly through bad weather and experience an [Aurora
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![The interior of the hanger](../assets/Jackrabbit_hanger.jpg) / *The interior of the hanger* | ![A poster found inside the hanger](../assets/Jackrabbit_transport_flyer.png) / *A poster found inside the hanger* | ![A painting featuring the company's staff and De Havilland Beaver floatplane](../assets/Jackrabbit_transport_painting.png) / *A painting featuring the company's staff and De Havilland Beaver floatplane* | ![The board in Mackenzie's office, with a photo of Astrid, the old Hinterland Logo, and an old Great Bear map](../assets/Jackrabbit_Remote_Transport_Office_board.jpg) / *The board in Mackenzie's office, with a photo of Astrid, the old Hinterland Logo, and an old Great Bear map* |
-| ![Mackenzie passing the time by playing Solitaire, pulling the Joker card out](../assets/Joker_Playing_Card_Wolf.jpg) / *Mackenzie passing the time by playing Solitaire, pulling the Joker card out* | ![The old Global map on the office board](../assets/Global_map_Published_by_development_team.jpg) / *The old Global map on the office board* | ![Mackenzie's boredom showing](../assets/Solitaire_cards.jpg) / *Mackenzie's boredom showing* | ![Certified Pilot](../assets/Jackrabbit_Certificate.jpg) / *Certified Pilot* |
-| ![Mackenzie eyeing the Great Bear Island brochure](../assets/Great_Bear_Island_brochure.jpg) / *Mackenzie eyeing the Great Bear Island brochure* |  |  |  |
+![The interior of the hanger](../assets/Jackrabbit_hanger.jpg)
+
+_The interior of the hanger_
+
+![A poster found inside the hanger](../assets/Jackrabbit_transport_flyer.png)
+
+_A poster found inside the hanger_
+
+![A painting featuring the company's staff and De Havilland Beaver floatplane](../assets/Jackrabbit_transport_painting.png)
+
+_A painting featuring the company's staff and De Havilland Beaver floatplane_
+
+![The board in Mackenzie's office, with a photo of Astrid, the old Hinterland Logo, and an old Great Bear map](../assets/Jackrabbit_Remote_Transport_Office_board.jpg)
+
+_The board in Mackenzie's office, with a photo of Astrid, the old Hinterland Logo, and an old Great Bear map_
+
+![Mackenzie passing the time by playing Solitaire, pulling the Joker card out](../assets/Joker_Playing_Card_Wolf.jpg)
+
+_Mackenzie passing the time by playing Solitaire, pulling the Joker card out_
+
+![The old Global map on the office board](../assets/Global_map_Published_by_development_team.jpg)
+
+_The old Global map on the office board_
+
+![Mackenzie's boredom showing](../assets/Solitaire_cards.jpg)
+
+_Mackenzie's boredom showing_
+
+![Certified Pilot](../assets/Jackrabbit_Certificate.jpg)
+
+_Certified Pilot_
+
+![Mackenzie eyeing the Great Bear Island brochure](../assets/Great_Bear_Island_brochure.jpg)
+
+_Mackenzie eyeing the Great Bear Island brochure_
 
 ## Update history
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Added to the game.
-
-**Lua execution error in Module:Navbox function navbox**

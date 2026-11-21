@@ -1,11 +1,6 @@
----
-title: "Hinterland Studio Inc."
-wiki_namespace: 0
-categories: ["The Long Dark"]
-source: "https://thelongdark.fandom.com/wiki/Hinterland_Studio_Inc."
----
-
 # Hinterland Studio Inc\.
+
+**Categories:** The Long Dark · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hinterland_Studio_Inc.)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Hinterland_Studio_Inc."
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Landing%2Blogo%2Bwide2.png) / *Landing+logo+wide2.png* |
+|  | ![](../assets/Landing%2Blogo%2Bwide2.png) / _Landing+logo+wide2.png_ |
 | Industry | Video games |
 | Founded | 2012 |
 | Founder | Raphael van Lierop |
@@ -37,7 +32,7 @@ source: "https://thelongdark.fandom.com/wiki/Hinterland_Studio_Inc."
 
 ## History
 
-The studio was founded by Raphael van Lierop, who previously directed Relic's *Warhammer 40,000: Space Marine* and worked on other games such as *Company of Heroes,* *Dawn of War,* and *Far Cry 3*.[¹](#fn1) In 2012, van Lierop started Hinterland Studio and recruited veteran AAA game developers including Alan Lawrance of Volition Inc, Hokoyo Lim, art director for *League of Legends*, David Chan, audio designer at BioWare, and Marianna Krawczyk, lead writer of the *God of War* series.[²](#fn2) Since then, the team has grown to include over 25 members.[³](#fn3) In August 2016, it was announced that Hinterland would be moving to its new headquarters on Dunsmuir Avenue in Cumberland.[⁴](#fn4) Currently, the only physical studio is located in downtown Vancouver at the former MacMillan Bloedel Building.[⁵](#fn5)[⁶](#fn6) In September of 2018, Hinterland hired six new employees, the most significant growth in team size since the studio's foundation. This was in part due to Hinterland hiring former employees of Capcom Vancouver, which went defunct that month. Hinterland also purchased motion-capture equipment from Capcom.[⁷](#fn7)
+The studio was founded by Raphael van Lierop, who previously directed Relic's _Warhammer 40,000: Space Marine_ and worked on other games such as _Company of Heroes,_ _Dawn of War,_ and _Far Cry 3_.[¹](#fn1) In 2012, van Lierop started Hinterland Studio and recruited veteran AAA game developers including Alan Lawrance of Volition Inc, Hokoyo Lim, art director for _League of Legends_, David Chan, audio designer at BioWare, and Marianna Krawczyk, lead writer of the _God of War_ series.[²](#fn2) Since then, the team has grown to include over 25 members.[³](#fn3) In August 2016, it was announced that Hinterland would be moving to its new headquarters on Dunsmuir Avenue in Cumberland.[⁴](#fn4) Currently, the only physical studio is located in downtown Vancouver at the former MacMillan Bloedel Building.[⁵](#fn5)[⁶](#fn6) In September of 2018, Hinterland hired six new employees, the most significant growth in team size since the studio's foundation. This was in part due to Hinterland hiring former employees of Capcom Vancouver, which went defunct that month. Hinterland also purchased motion-capture equipment from Capcom.[⁷](#fn7)
 
 ## Structure
 
@@ -47,7 +42,7 @@ Hinterland utilizes a distributed model, in which employees may work from locati
 
 | Title | System | Release date |
 | --- | --- | --- |
-| *[The Long Dark](./The%20Long%20Dark.md)* | Windows / OS X / Xbox One PlayStation 4 / Linux / Nintendo Switch | *Full Release*: 1 Aug 2017 / *Early Access*: 22 Sept 2014 |
+| _[The Long Dark](./The%20Long%20Dark.md)_ | Windows / OS X / Xbox One PlayStation 4 / Linux / Nintendo Switch | _Full Release_: 1 Aug 2017 / _Early Access_: 22 Sept 2014 |
 
 ## Trivia
 
@@ -67,25 +62,46 @@ Hinterland utilizes a distributed model, in which employees may work from locati
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![The Hinterland logo is always found on a Cup of Coffee](../assets/Cup_of_Coffee_icon.png) / *The Hinterland logo is always found on a [Cup of Coffee](./Cup%20of%20Coffee.md)* | ![Ditto, bottom](../assets/Cup_of_coffee_bottom.jpg) / *Ditto, bottom* | ![A real world Cup of Coffee coffee cup](../assets/Cup_of_Coffee_Mug_Real.webp) / *A real world Cup of Coffee coffee cup* | ![Lost and Found box with the Hinterland logo](../assets/Lost_and_Found.png) / *[Lost and Found](./Lost%20and%20Found.md) box with the Hinterland logo* |
-| ![The early Hinterland Logo](../assets/Old_Hinterland_Logo.jpg) / *The early Hinterland Logo* | ![Cup of Coffee model with the old logo](../assets/Cup_of_coffee.png) / *Cup of Coffee model with the old logo* | ![The old Hinterland logo on the board in the Jackrabbit Remote Transport hangar in Episode 1](../assets/Jackrabbit_Remote_Transport_Office_board.jpg) / *The old Hinterland logo on the board in the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) hangar in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)* |  |
+![The Hinterland logo is always found on a Cup of Coffee](../assets/Cup_of_Coffee_icon.png)
+
+_The Hinterland logo is always found on a [Cup of Coffee](./Cup%20of%20Coffee.md)_
+
+![Ditto, bottom](../assets/Cup_of_coffee_bottom.jpg)
+
+_Ditto, bottom_
+
+![A real world Cup of Coffee coffee cup](../assets/Cup_of_Coffee_Mug_Real.webp)
+
+_A real world Cup of Coffee coffee cup_
+
+![Lost and Found box with the Hinterland logo](../assets/Lost_and_Found.png)
+
+_[Lost and Found](./Lost%20and%20Found.md) box with the Hinterland logo_
+
+![The early Hinterland Logo](../assets/Old_Hinterland_Logo.jpg)
+
+_The early Hinterland Logo_
+
+![Cup of Coffee model with the old logo](../assets/Cup_of_coffee.png)
+
+_Cup of Coffee model with the old logo_
+
+![The old Hinterland logo on the board in the Jackrabbit Remote Transport hangar in Episode 1](../assets/Jackrabbit_Remote_Transport_Office_board.jpg)
+
+_The old Hinterland logo on the board in the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) hangar in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)_
 
 ## References
-
-**Template:reflist****Lua execution error in Module:Navbox function navbox**
 
 ## Notes
 
 ---
 
-1. Alexander, L. (2013, September 17). [Inspiration in isolation: The Long Dark takes on a different kind of survival fiction](https://www.gamasutra.com/view/news/199854/Inspiration_in_isolation_The_Long_Dark_takes_on_a_different_kind_of_survival_fiction.php). *Gamasutra*. Retrieved February 19, 2018.[↩︎](#fnref1)
-2. Sinclair, B. (2013, September 9). [AAA devs form Hinterland](https://www.gamesindustry.biz/articles/2013-09-09-aaa-devs-form-hinterland). *Gamesindustry.biz*. Retrieved February 19, 2018.[↩︎](#fnref2)
+1. Alexander, L. (2013, September 17). [Inspiration in isolation: The Long Dark takes on a different kind of survival fiction](https://www.gamasutra.com/view/news/199854/Inspiration_in_isolation_The_Long_Dark_takes_on_a_different_kind_of_survival_fiction.php). _Gamasutra_. Retrieved February 19, 2018.[↩︎](#fnref1)
+2. Sinclair, B. (2013, September 9). [AAA devs form Hinterland](https://www.gamesindustry.biz/articles/2013-09-09-aaa-devs-form-hinterland). _Gamesindustry.biz_. Retrieved February 19, 2018.[↩︎](#fnref2)
 3. Mergent Intellect. (2017, July). [20-364-2843 HINTERLAND STUDIO INC: Company Overview](http://www.mergentintellect.com/index.php/search/companyDetails/203642843#). Retrieved April 30, 2018.[↩︎](#fnref3)
-4. (2016, October 18). [Movers and Shakers](https://issuu.com/markmacdonald7/docs/bevi_august_2016_final_new/35). *Business Examiner Vancouver Island (August 2016 issue),* 35. Retrieved February 19, 2018.[↩︎](#fnref4)
-5. (2017, July 19). [HINTERLAND STUDIO INC](https://advance.lexis.com/api/document?collection=company-financial&id=urn:contentItem:5PF5-C5X0-C1G6-J1T3-00000-00&context=1516831). *Worldbase.* Retrieved November 21, 2018.[↩︎](#fnref5)
-6. [MacMillan Bloedel Building](https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=8781). *Canada's Historic Places*. Retrieved November 21, 2018.[↩︎](#fnref6)
+4. (2016, October 18). [Movers and Shakers](https://issuu.com/markmacdonald7/docs/bevi_august_2016_final_new/35). _Business Examiner Vancouver Island (August 2016 issue),_ 35. Retrieved February 19, 2018.[↩︎](#fnref4)
+5. (2017, July 19). [HINTERLAND STUDIO INC](https://advance.lexis.com/api/document?collection=company-financial&id=urn:contentItem:5PF5-C5X0-C1G6-J1T3-00000-00&context=1516831). _Worldbase._ Retrieved November 21, 2018.[↩︎](#fnref5)
+6. [MacMillan Bloedel Building](https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=8781). _Canada's Historic Places_. Retrieved November 21, 2018.[↩︎](#fnref6)
 7. Van Lierop, R. (2018, November 7). [Dev Diary November 2018](http://www.hinterlandforums.com/forums/topic/21577-dev-diary-november-2018/). Retrieved November 21, 2018.[↩︎](#fnref7)
-8. Van Lierop, R. (2018, July 20). [Milton Mailbag--Dispatch #5](http://www.hinterlandforums.com/forums/topic/20776-milton-mailbag-dispatch-5/). *Hinterland Forums*. Retrieved November 21, 2018.[↩︎](#fnref8)
-9. Nowak, P. (2015, September 22). [How Hinterland hires a workforce spread around North America.](http://www.canadianbusiness.com/innovation/how-hinterland-manages-a-workforce-spread-around-north-america/) *Canadian Business.* Retrieved February 19, 2018.[↩︎](#fnref9)
+8. Van Lierop, R. (2018, July 20). [Milton Mailbag--Dispatch #5](http://www.hinterlandforums.com/forums/topic/20776-milton-mailbag-dispatch-5/). _Hinterland Forums_. Retrieved November 21, 2018.[↩︎](#fnref8)
+9. Nowak, P. (2015, September 22). [How Hinterland hires a workforce spread around North America.](http://www.canadianbusiness.com/innovation/how-hinterland-manages-a-workforce-spread-around-north-america/) _Canadian Business._ Retrieved February 19, 2018.[↩︎](#fnref9)

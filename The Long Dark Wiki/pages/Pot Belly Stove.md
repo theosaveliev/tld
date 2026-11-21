@@ -1,20 +1,15 @@
----
-title: "Pot Belly Stove"
-wiki_namespace: 0
-categories: ["Fire Starting", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Pot_Belly_Stove"
----
-
 # Pot Belly Stove
+
+**Categories:** Fire Starting, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Pot_Belly_Stove)
 
 **Pot Belly Stove**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Pot_belly_stove.png) / *Pot\_belly\_stove.png* |
+|  | ![](../assets/Pot_belly_stove.png) / _Pot\_belly\_stove.png_ |
 | **General** |  |
 | Type | Fire Starting\|- |
-| Max temperature | 80 °C / *(144 °F)* |
+| Max temperature | 80 °C / _(144 °F)_ |
 | Cooking slots | 1 |
 
 The **Pot Belly Stove** is an immovable [contained fire](./Fire.md#Contained_fires). The pot belly stove functions identically to other contained fires and player-made [Campfire](./Campfire.md). The pot belly stove provides no advantage over other contained fires, but it does allow protection against wind, unlike the player-made campfire. It has one [Cooking](./Cooking.md) slot.
@@ -38,5 +33,3 @@ Pot belly stoves have fixed locations that do not change between games. A pot be
 - [Mindful Cabin](./Mindful%20Cabin.md)
 - [Island Cottage](./Island%20Cottage.md)
 - [Station Bunkhouse](./Station%20Bunkhouse.md)
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Печка-буржуйка](ru:%D0%9F%D0%B5%D1%87%D0%BA%D0%B0-%D0%B1%D1%83%D1%80%D0%B6%D1%83%D0%B9%D0%BA%D0%B0)

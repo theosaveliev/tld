@@ -1,17 +1,12 @@
----
-title: "Major Bruising"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Major_Bruising"
----
-
 # Major Bruising
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Major_Bruising)
 
 **Major Bruising**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Major_Bruising_icon.png) / *Major\_Bruising\_icon.png* |
+|  | ![](../assets/Major_Bruising_icon.png) / _Major\_Bruising\_icon.png_ |
 | Release | [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256) |
 | Update | 0.256 |
 | **Properties** |  |
@@ -27,8 +22,6 @@ source: "https://thelongdark.fandom.com/wiki/Major_Bruising"
 
 Major Bruising damages [Condition](./Condition.md) by 10%, and makes any future losses of condition slightly more damaging than it normally would. Bruising cannot be treated, and will disappear after the fall or struggle is resolved.
 
-| Column 1 |
-| --- |
-| ![Old Icon](../assets/Clean_bruise.png) / *Old Icon* |
+![Old Icon](../assets/Clean_bruise.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Old Icon_

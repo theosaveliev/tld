@@ -1,11 +1,6 @@
----
-title: "Supply Bin"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Supply_Bin"
----
-
 # Supply Bin
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Supply_Bin)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Supply_Bin"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Supply_Bin.jpg) / *Supply\_Bin.jpg* |
+|  | ![](../assets/Supply_Bin.jpg) / _Supply\_Bin.jpg_ |
 | Story item | Yes |
 | **Container** |  |
 | Capacity | 30.00 kg(66 lbs) |
@@ -46,5 +41,3 @@ A **Supply Bin** is a storage container often found near Radio Towers, Forestry 
 
 - [Langston Mine](./Langston%20Mine.md)
 - [Last Prospect](./Last%20Prospect.md)
-
-**Lua execution error in Module:Navbox function navbox**

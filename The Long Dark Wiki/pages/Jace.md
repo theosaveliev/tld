@@ -1,11 +1,6 @@
----
-title: "Jace"
-wiki_namespace: 0
-categories: ["Characters", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Jace"
----
-
 # Jace
+
+**Categories:** Characters, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jace)
 
 **Contents**
 
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Jace"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Jace.png) / *Jace.png* |
+|  | ![](../assets/Jace.png) / _Jace.png_ |
 | Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Date | 6 October 2021 |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
@@ -41,9 +36,9 @@ source: "https://thelongdark.fandom.com/wiki/Jace"
 | **Game Information** |  |
 | Voiced by | Tina Grant |
 
-> “**A graduate student in astrophysics, Jace normally has her eyes on the stars. Chance, and the Aurora, have brought her to Blackrock.  
+> “__A graduate student in astrophysics, Jace normally has her eyes on the stars. Chance, and the Aurora, have brought her to Blackrock.  
    
- Whip-smart, Jace has the air of superiority that many academics inherit. But deep down she is starting to worry that her career choice has left her unprepared for the current situation, especially if the power never comes back.**”
+ Whip-smart, Jace has the air of superiority that many academics inherit. But deep down she is starting to worry that her career choice has left her unprepared for the current situation, especially if the power never comes back.__”
 >
 > — [What I Know](./What%20I%20Know.md) description
 
@@ -103,5 +98,3 @@ TBA
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Джейс](ru:%D0%94%D0%B6%D0%B5%D0%B9%D1%81)

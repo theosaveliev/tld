@@ -1,11 +1,6 @@
----
-title: "Water (Unsafe)"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Water_(Unsafe)"
----
-
 # Water \(Unsafe\)
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Water_%28Unsafe%29)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Water_(Unsafe)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Water_%28Unsafe%29_icon.png) / *Water\_(Unsafe)\_icon.png* |
+|  | ![](../assets/Water_%28Unsafe%29_icon.png) / _Water\_(Unsafe)\_icon.png_ |
 | Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01) |
 | Wintermute | No |
 | **Properties** |  |
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Water_(Unsafe)"
 | **Values** |  |
 | Weight | 1.00 kg (2.2 lbs) |
 
-**Water (Unsafe)** is impure water from melted snow in [*The Long Dark*](./The%20Long%20Dark.md).
+**Water (Unsafe)** is impure water from melted snow in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
@@ -58,7 +53,7 @@ Unsafe water can be turned into [Potable Water](./Water%20%28Potable%29.md) thro
 
 ![Bottles of unsafe and potable water of varied sizes old](../assets/Water_bottles.jpg)
 
-*Bottles of unsafe and potable water of varied sizes old*
+_Bottles of unsafe and potable water of varied sizes old_
 
 ## Appearance
 
@@ -78,13 +73,11 @@ Water drawn from Toilets always yields Potable Water and never Unsafe Water, reg
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Water_%28unsafe%29.png) / *Old model.* |
+![Old model.](../assets/Water_%28unsafe%29.png)
+
+_Old model._
 
 ## Update history
 
 - UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.01)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Бутылка воды (непитьевая)](ru:%D0%91%D1%83%D1%82%D1%8B%D0%BB%D0%BA%D0%B0_%D0%B2%D0%BE%D0%B4%D1%8B_%28%D0%BD%D0%B5%D0%BF%D0%B8%D1%82%D1%8C%D0%B5%D0%B2%D0%B0%D1%8F%29)

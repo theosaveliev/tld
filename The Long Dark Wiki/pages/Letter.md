@@ -1,17 +1,12 @@
----
-title: "Letter"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Letter"
----
-
 # Letter
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Letter)
 
 **Letter**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Letter_icon.png) / *Letter\_icon.png* |
+|  | ![](../assets/Letter_icon.png) / _Letter\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Letter"
 
 ## Transcript
 
-*The following text is transcribed from **Letter***
+_The following text is transcribed from **Letter**_
 
 **Thinking of you out here, all alone.
 
@@ -46,5 +41,3 @@ Bonnie**
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,17 +1,12 @@
----
-title: "Driving Gloves"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Driving_Gloves"
----
-
 # Driving Gloves
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Driving_Gloves)
 
 **Driving Gloves**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Driving_Gloves_icon.png) / *Driving\_Gloves\_icon.png* |
+|  | ![](../assets/Driving_Gloves_icon.png) / _Driving\_Gloves\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Hands |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Driving_Gloves"
 | Harvest | 1 × [Cured Leather](./Cured%20Leather.md) / 10 minutes |
 | Repair | 1 × [Cured Leather](./Cured%20Leather.md) / 30 minutes / 25% condition |
 
-> “**Thin leather gloves designed for driving. Not much use in the cold.**”
+> “__Thin leather gloves designed for driving. Not much use in the cold.__”
 >
 > — In-game description
 
-**Driving Gloves** are a type of [Clothing](./Clothing.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Driving Gloves** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -39,13 +34,19 @@ More notably, driving gloves weigh relatively little and can be harvested for [C
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Pre alpha model.](../assets/Basic_gloves_%28historical%29.png) / *Pre alpha model.* | ![Clothing model](../assets/Driving_Gloves_Model_icon.png) / *Clothing model* | ![Clothing model damaged](../assets/Driving_Gloves_Damaged_Model_icon.png) / *Clothing model damaged* |
+![Pre alpha model.](../assets/Basic_gloves_%28historical%29.png)
+
+_Pre alpha model._
+
+![Clothing model](../assets/Driving_Gloves_Model_icon.png)
+
+_Clothing model_
+
+![Clothing model damaged](../assets/Driving_Gloves_Damaged_Model_icon.png)
+
+_Clothing model damaged_
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Водительские перчатки](ru:%D0%92%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B5%D1%80%D1%87%D0%B0%D1%82%D0%BA%D0%B8)

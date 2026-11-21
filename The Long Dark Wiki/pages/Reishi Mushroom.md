@@ -1,11 +1,6 @@
----
-title: "Reishi Mushroom"
-wiki_namespace: 0
-categories: ["Food And Drink", "Materials", "Pages with update history", "Plants"]
-source: "https://thelongdark.fandom.com/wiki/Reishi_Mushroom"
----
-
 # Reishi Mushroom
+
+**Categories:** Food And Drink, Materials, Pages with update history, Plants · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Reishi_Mushroom)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Reishi_Mushroom"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Reishi_Mushroom_icon.png) / *Reishi\_Mushroom\_icon.png* |
+|  | ![](../assets/Reishi_Mushroom_icon.png) / _Reishi\_Mushroom\_icon.png_ |
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192) |
 | Wintermute | Yes |
 | Renewable | No |
@@ -34,7 +29,7 @@ source: "https://thelongdark.fandom.com/wiki/Reishi_Mushroom"
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 
-**Reishi Mushrooms** are a natural material that can be used to create both food and first aid treatments that are used to treat [Afflictions](./Afflictions.md) in *The Long Dark*.
+**Reishi Mushrooms** are a natural material that can be used to create both food and first aid treatments that are used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 
 ## Overview
 
@@ -57,22 +52,32 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 ## Trivia
 
-- Reishi Mushrooms are a real-world bracket fungus (Species: [*G. lingzhi*](https://en.wikipedia.org/wiki/Lingzhi_%28mushroom%29)) common to the Pacific North-West (United States and Canada), as well as north-eastern China, Korea, Japan and Russia.
+- Reishi Mushrooms are a real-world bracket fungus (Species: [_G. lingzhi_](https://en.wikipedia.org/wiki/Lingzhi_%28mushroom%29)) common to the Pacific North-West (United States and Canada), as well as north-eastern China, Korea, Japan and Russia.
 - "Reishi" (霊芝) is the Japanese name for the fungus; other names include Lingzhi, Yeongji (영지), Het Lin Chue (หลินจือ) and Linh Chi.
-- Reishi have a long history of use in [Traditional Chinese Medicine](https://en.wikipedia.org/wiki/Traditional_Chinese_medicine), though there is insufficient evidence that their consumption has any tangible medical effect, unlike their in-game description and use. They are an anti-oxidant but exhibit no antibiotic properties, unlike the *Ganoderma* (*Penicillium)* mold used to create [Penicillin](https://en.wikipedia.org/wiki/Penicillin) (an antibiotic), which is unrelated to *G. lingzhi*.
-- Real reishi are typically parasitic or saprotrophic (feed on dead matter) of maple trees, unlike in *The Long Dark* where they are exclusively saprotrophic to cedar or fir.
-- Antibiotics are typically a prescription-grade drug derived from penicillin, which is the case in *The Long Dark* as they are labeled as "Pharmacillin".
+- Reishi have a long history of use in [Traditional Chinese Medicine](https://en.wikipedia.org/wiki/Traditional_Chinese_medicine), though there is insufficient evidence that their consumption has any tangible medical effect, unlike their in-game description and use. They are an anti-oxidant but exhibit no antibiotic properties, unlike the _Ganoderma_ (_Penicillium)_ mold used to create [Penicillin](https://en.wikipedia.org/wiki/Penicillin) (an antibiotic), which is unrelated to _G. lingzhi_.
+- Real reishi are typically parasitic or saprotrophic (feed on dead matter) of maple trees, unlike in _The Long Dark_ where they are exclusively saprotrophic to cedar or fir.
+- Antibiotics are typically a prescription-grade drug derived from penicillin, which is the case in _The Long Dark_ as they are labeled as "Pharmacillin".
 - In The Long Dark, Antibiotics and Reishi Tea must be applied directly to treat a specific injury (similar to a Bandage), unlike real-world orally-taken drugs which become generally distributable through the body.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A pair of reishi mushrooms growing on a tree stump in Pleasant Valley.](../assets/Reishi_mushrooms_on_tree_stump.jpg) / *A pair of reishi mushrooms growing on a tree stump in [Pleasant Valley](./Pleasant%20Valley.md).* | ![Crafting (after v1.6 update)](../assets/Crafting-menu-v1.6x.jpg) / *Crafting (after v1.6 update)* | ![An older model for the mushroom](../assets/Reishi_Mushroom_icon_historical.png) / *An older model for the mushroom* | ![Early pre alpha model](../assets/Reishi_mushroom.png) / *Early pre alpha model* |
+![A pair of reishi mushrooms growing on a tree stump in Pleasant Valley.](../assets/Reishi_mushrooms_on_tree_stump.jpg)
+
+_A pair of reishi mushrooms growing on a tree stump in [Pleasant Valley](./Pleasant%20Valley.md)._
+
+![Crafting (after v1.6 update)](../assets/Crafting-menu-v1.6x.jpg)
+
+_Crafting (after v1.6 update)_
+
+![An older model for the mushroom](../assets/Reishi_Mushroom_icon_historical.png)
+
+_An older model for the mushroom_
+
+![Early pre alpha model](../assets/Reishi_mushroom.png)
+
+_Early pre alpha model_
 
 ## Update history
 
 - UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox** [ru:Гриб Рейши](ru:%D0%93%D1%80%D0%B8%D0%B1_%D0%A0%D0%B5%D0%B9%D1%88%D0%B8)

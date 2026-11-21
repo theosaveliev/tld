@@ -1,11 +1,6 @@
----
-title: "Winding River"
-wiki_namespace: 0
-categories: ["Transition zones"]
-source: "https://thelongdark.fandom.com/wiki/Winding_River"
----
-
 # Winding River
+
+**Categories:** Transition zones · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Winding_River)
 
 **Contents**
 
@@ -18,17 +13,17 @@ source: "https://thelongdark.fandom.com/wiki/Winding_River"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/RegionAtlas-resources.assets-562_%285%29.png) / *RegionAtlas-resources.assets-562\_(5).png* |
+|  | ![](../assets/RegionAtlas-resources.assets-562_%285%29.png) / _RegionAtlas-resources.assets-562\_(5).png_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Winding_River_Location.png) / *Winding\_River\_Location.png* |
-|  | ![](../assets/Winding_River_map.png) / *Winding\_River\_map.png* |
+|  | ![](../assets/Winding_River_Location.png) / _Winding\_River\_Location.png_ |
+|  | ![](../assets/Winding_River_map.png) / _Winding\_River\_map.png_ |
 | **Details** |  |
 | Description | An unremarkable valley located on the other side of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) |
 | Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Pleasant Valley](./Pleasant%20Valley.md) |
 | Locations | 2 |
 | Date Added | May 21 2015 |
 
-**Winding River** (also known in-lore as the **Carter River**) is a Transition Zone [Region](./Region.md) behind [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) that connects [Mystery Lake](./Mystery%20Lake%20%28region%29.md) to a [Cave](./Cave%20%28Transition%20Zone%29.md) and then subsequently to [Pleasant Valley](./Pleasant%20Valley.md). It was the 2nd Transition Zone to be released in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Winding River** (also known in-lore as the **Carter River**) is a Transition Zone [Region](./Region.md) behind [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) that connects [Mystery Lake](./Mystery%20Lake%20%28region%29.md) to a [Cave](./Cave%20%28Transition%20Zone%29.md) and then subsequently to [Pleasant Valley](./Pleasant%20Valley.md). It was the 2nd Transition Zone to be released in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -57,11 +52,24 @@ The exit door to the dam does not count as a Region Transition icon.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A detailed map of Winding River v2.35 (includes spoilers)](../assets/WR_map.png) / *A detailed map of Winding River v2.35 (includes spoilers)* | ![A detailed map of Winding River v2.35 (Interloper/Misery edition, includes spoilers)](../assets/WR_map_loper.png) / *A detailed map of Winding River v2.35 (Interloper/Misery edition, includes spoilers)* | ![An outdated map of Winding River](../assets/Winding_River_map_by_whiteberry-toarda.png) / *An outdated map of Winding River* | ![An outdated map of Winding River v1.93](../assets/MAP-DAM_WR-Lv3-v193-110.png) / *An outdated map of Winding River v1.93* |
-| ![](../assets/The_Carter_Hydro_Dam_one-way_entrance.jpg) / *The\_Carter\_Hydro\_Dam\_one-way\_entrance.jpg* |  |  |  |
+![A detailed map of Winding River v2.35 (includes spoilers)](../assets/WR_map.png)
 
-**Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**
+_A detailed map of Winding River v2.35 (includes spoilers)_
+
+![A detailed map of Winding River v2.35 (Interloper/Misery edition, includes spoilers)](../assets/WR_map_loper.png)
+
+_A detailed map of Winding River v2.35 (Interloper/Misery edition, includes spoilers)_
+
+![An outdated map of Winding River](../assets/Winding_River_map_by_whiteberry-toarda.png)
+
+_An outdated map of Winding River_
+
+![An outdated map of Winding River v1.93](../assets/MAP-DAM_WR-Lv3-v193-110.png)
+
+_An outdated map of Winding River v1.93_
+
+![](../assets/The_Carter_Hydro_Dam_one-way_entrance.jpg)
+
+_The\_Carter\_Hydro\_Dam\_one-way\_entrance.jpg_
 
 [es:Río sinuoso](es:R%C3%ADo_sinuoso) [ru:Извилистая река](ru:%D0%98%D0%B7%D0%B2%D0%B8%D0%BB%D0%B8%D1%81%D1%82%D0%B0%D1%8F_%D1%80%D0%B5%D0%BA%D0%B0)

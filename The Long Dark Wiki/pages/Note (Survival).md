@@ -1,17 +1,12 @@
----
-title: "Note (Survival)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Note_(Survival)"
----
-
 # Note \(Survival\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Note_%28Survival%29)
 
 **Note (Survival)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Note_%28Survival%29_icon.png) / *Note\_(Survival)\_icon.png* |
+|  | ![](../assets/Note_%28Survival%29_icon.png) / _Note\_(Survival)\_icon.png_ |
 | Release | [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Note_(Survival)"
 
 ## Transcript
 
-*The following text is transcribed from **Note***
+_The following text is transcribed from **Note**_
 
 **Can't tell who's coming and going, even from up here. It looks empty but I'm going to wait it out for a couple days and see if whoever followed me over the river was headed up here too.  
    
@@ -38,7 +33,5 @@ source: "https://thelongdark.fandom.com/wiki/Note_(Survival)"
 UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Added to game
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Записка (Вышка охраны)](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%28%D0%92%D1%8B%D1%88%D0%BA%D0%B0_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%8B%29)

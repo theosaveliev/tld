@@ -1,20 +1,15 @@
----
-title: "Hippocratic Oath"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Hippocratic_Oath"
----
-
 # Hippocratic Oath
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hippocratic_Oath)
 
 **Hippocratic Oath**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hippocratic_Oath_icon.png) / *Hippocratic\_Oath\_icon.png* |
+|  | ![](../assets/Hippocratic_Oath_icon.png) / _Hippocratic\_Oath\_icon.png_ |
 | Description | Rescue all three lost Survivors and stock the Hall with supplies. |
 
-**Hippocratic Oath** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Hippocratic Oath** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -30,5 +25,3 @@ This achievement is an unmissable story achievement obtained after rescuing all 
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**==References==

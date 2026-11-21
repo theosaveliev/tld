@@ -1,10 +1,6 @@
----
-title: "The Power Plant/Transcript"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/The_Power_Plant%2FTranscript"
----
-
 # The Power Plant/Transcript
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Power_Plant%2FTranscript)
 
 **Contents**
 
@@ -17,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Power_Plant%2FTranscript"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Power_Plant.png) / *The\_Power\_Plant.png* |
+|  | ![](../assets/The_Power_Plant.png) / _The\_Power\_Plant.png_ |
 | Episode |  |
 | **Missions** |  |
 | Previous | [Blackrock Blues/Transcript](./Blackrock%20Blues%20%E2%80%94%20Transcript.md) |
@@ -34,7 +30,7 @@ CHAPTER TWO
 
 THE POWER PLANT
 
-*Mackenzie is injecting the Warden with medicine from a syringe. The man is tied to a chair, hands bound behind his back, as draws a sharp breath and wakes up.*
+_Mackenzie is injecting the Warden with medicine from a syringe. The man is tied to a chair, hands bound behind his back, as draws a sharp breath and wakes up._
 
 [Franklin](./Franklin.md): "Who the hell are you?"
 
@@ -80,7 +76,7 @@ Franklin: "Right! The old rotary phone system would still work. Redundancy for w
 
 Mackenzie: "Right."
 
-*Mackenzie turns around and hears banging*
+_Mackenzie turns around and hears banging_
 
 Franklin: "Shit, they're coming back. Get back in your cell!"
 
@@ -92,13 +88,13 @@ Mackenzie: "Think we can trust them?"
 
 Franklin: "The enemy of my enemy is my friend."
 
-*Mackenzie runs back to his cell and closes both Franklin's cell door and his own, even though they do not lock, and sits in his bunk. Mathis walks by and grab's Mackenzie's cell door, and pushes it open*
+_Mackenzie runs back to his cell and closes both Franklin's cell door and his own, even though they do not lock, and sits in his bunk. Mathis walks by and grab's Mackenzie's cell door, and pushes it open_
 
 [Vachon](./Vachon.md): "He...hey, how'd that happen?"
 
 [Heller](./Heller.md): "Wow yeah...must be glitchy."
 
-*Mathis walks into the cell chuckling and shaking his head*
+_Mathis walks into the cell chuckling and shaking his head_
 
 [Mathis](./Mathis.md): "Ha ha...these idiots think I'm a fool. They don't think I can figure out what happened here. But they were too chicken-shit to take care of the Warden themselves...and sent you out into the cold to do their dirty work. And you...risking your life to save a guy you don't even know. What a fucking boy scout."
 
@@ -118,7 +114,7 @@ Mackenzie: "And why am I going to do that?"
 
 Mathis: "Well, because..."
 
-*Simultaneously*
+_Simultaneously_
 
 - Mathis: "Hardcase."
 - Mackenzie: "Hardcase."
@@ -139,11 +135,11 @@ Mackenzie: "Yes?"
 
 Mathis: "Don't dawdle, or...the Warden gets it for real this time."
 
-*Scene fades to black and comes back to the front of the Prison again at night, with an active Fire Barrel nearby. Heller holds a map*
+_Scene fades to black and comes back to the front of the Prison again at night, with an active Fire Barrel nearby. Heller holds a map_
 
 Heller: "Mathis said to give you this."
 
-*Heller throws it on the ground in front of Mackenzie, who shivers*
+_Heller throws it on the ground in front of Mackenzie, who shivers_
 
 Mackenzie: "That doesn't look like a coat."
 
@@ -153,25 +149,25 @@ Mackenzie: "It's...cold out here. I won't find the dam if I freeze before I get 
 
 Heller: "Do I look like a guy who gives a shit? You don't want to freeze out here? Then get moving!"
 
-*Heller slams the door shut and Mackenzie picks up the map fragment*
+_Heller slams the door shut and Mackenzie picks up the map fragment_
 
 Mackenzie: "Bastards. At least this map looks real enough."
 
 ## Head to the Power Plant.
 
-*Mackenzie walks down the mountain road and enters an [Old Substation](./Old%20Substation.md)*
+_Mackenzie walks down the mountain road and enters an [Old Substation](./Old%20Substation.md)_
 
 Mackenzie: "Abandoned...some kind of substation control. And shelter, for me anyways."
 
-*Mackenzie eventually makes it to the almost destroyed [Narrow Bridge](./Narrow%20Bridge.md)*
+_Mackenzie eventually makes it to the almost destroyed [Narrow Bridge](./Narrow%20Bridge.md)_
 
 Mackenzie: "Woah...easy does it."
 
-*Crossing the other side, the map points to the Power Plant through a road, but Mackenzie has to pass over several landslides and through the mountain before getting to the Plant. He walks inside*
+_Crossing the other side, the map points to the Power Plant through a road, but Mackenzie has to pass over several landslides and through the mountain before getting to the Plant. He walks inside_
 
 Mackenzie: "Now let's see about that power."
 
-*A phone rings, and Mackenzie answers it*
+_A phone rings, and Mackenzie answers it_
 
 Mackenzie: "Hello?"
 
@@ -205,7 +201,7 @@ Mackenzie: "Well...it's better than "Mister Mackenzie" I guess."
 
 Jace: "Listen. You want to know what's going on with the power, and all that, I can tell you. But first, prove yourself to me. I need your help."
 
-*Dialogue options appear*
+_Dialogue options appear_
 
 **Blue Dialogue**
 
@@ -343,57 +339,57 @@ Mackenzie: "What?"
 
 Jace: "Good luck."
 
-*Mackenzie hangs up the phone*
+_Mackenzie hangs up the phone_
 
 Mackenzie: "Well, ok. Let's find those steam tunnels."
 
 ## Sabotage the locking mechanisms.
 
-*Mackenzie leaves the Power Plant and finds the doorway in the mountain leading to the Steam Tunnels, and steps inside*
+_Mackenzie leaves the Power Plant and finds the doorway in the mountain leading to the Steam Tunnels, and steps inside_
 
 Mackenzie: "Remember what Jace said -- locking mechanisms."
 
-*Mackenzie uses a light source to lighten the tunnels up, and eventually comes to a door covered in ice*
+_Mackenzie uses a light source to lighten the tunnels up, and eventually comes to a door covered in ice_
 
 Mackenzie: "Have to thaw things out."
 
-*He spots a nearby valve handle and opens up the steam pipes. The door thaws out from the intense warmth*
+_He spots a nearby valve handle and opens up the steam pipes. The door thaws out from the intense warmth_
 
 Mackenzie: "Steam is moving..."
 
-*He walks into the next room and sees another set of blocked doors*
+_He walks into the next room and sees another set of blocked doors_
 
 Mackenzie: "Everything's frozen."
 
-*The valve handles are frozen, so Mackenzie follows the warm pipes and begins opening them, thawing the frozen pipes and doors.* *Mackenzie* *turns left and* *finds the doors to the locking mechanisms room, but blocked with ice*
+_The valve handles are frozen, so Mackenzie follows the warm pipes and begins opening them, thawing the frozen pipes and doors._ _Mackenzie_ _turns left and_ _finds the doors to the locking mechanisms room, but blocked with ice_
 
 Mackenzie: "Have to get in there."
 
-*Mackenzie turns around and finds a large room with a large boiler, and manages to unfreeze it by opening more valves and opening one of the valves on the large boiler*
+_Mackenzie turns around and finds a large room with a large boiler, and manages to unfreeze it by opening more valves and opening one of the valves on the large boiler_
 
 Mackenzie: "That got it going."
 
-*Mackenzie then heads back to the central area, now with hot steam leaking out of some of the pipes, and clears another path for steam to reach the second valve on the large boiler, then he opens that one*
+_Mackenzie then heads back to the central area, now with hot steam leaking out of some of the pipes, and clears another path for steam to reach the second valve on the large boiler, then he opens that one_
 
 Mackenzie: "Now it's moving."
 
-*Going back to the main room, a valve handle is now unfrozen and can thaw the ice around one set of doors.*
+_Going back to the main room, a valve handle is now unfrozen and can thaw the ice around one set of doors._
 
 Mackenzie: "That seemed to work."
 
-*Mackenzie goes through the doors and follows the frozen pipes, opening more valves and redirecting the flow of steam.*
+_Mackenzie goes through the doors and follows the frozen pipes, opening more valves and redirecting the flow of steam._
 
 Mackenzie: "Making progress..."
 
-*He opens 2 more valves and finds a [Heavy Hammer](./Heavy%20Hammer.md) along the way, then returns to finally thaw out the doors of the locking mechanisms room*
+_He opens 2 more valves and finds a [Heavy Hammer](./Heavy%20Hammer.md) along the way, then returns to finally thaw out the doors of the locking mechanisms room_
 
 Mackenzie: "It worked."
 
-*Mackenzie finds the locking mechanism machine and savagely smashes everything important on it with the Hammer, even making a valve handle fall off, eventually logging the Hammer inside the metal of the machine and destroying it. He returns topside, finding a tunnel leading to the Prison Yard, and then finds Vachon at the front doors to the Prison, warming himself by a Fire Barrel*
+_Mackenzie finds the locking mechanism machine and savagely smashes everything important on it with the Hammer, even making a valve handle fall off, eventually logging the Hammer inside the metal of the machine and destroying it. He returns topside, finding a tunnel leading to the Prison Yard, and then finds Vachon at the front doors to the Prison, warming himself by a Fire Barrel_
 
 Vachon: "You're still alive! Shit, looks like I lost that bet."
 
-*Mackenzie joins the convict by the fire, warming his hands*
+_Mackenzie joins the convict by the fire, warming his hands_
 
 Vachon: "Any luck with the job Mathis gave you?"
 
@@ -401,17 +397,17 @@ Mackenzie: "I made it to the power plant. The whole place is dead. Nothing obvio
 
 Vachon: "Too bad. Mathis will be disappointed. Oh well...back in your cage, dog."
 
-*Vachon searches Mackenzie as the screen goes black.*
+_Vachon searches Mackenzie as the screen goes black._
 
 ## Check on the Warden.
 
 HOURS LATER...
 
-*Mackenzie awakens in his cell*
+_Mackenzie awakens in his cell_
 
 Franklin: "Psst. Hey! You awake yet?"
 
-*Mackenzie gets up on the toilet to see Franklin through the barred window. His chair facing the window as he looks at Mackenzie*
+_Mackenzie gets up on the toilet to see Franklin through the barred window. His chair facing the window as he looks at Mackenzie_
 
 Mackenzie: "Yep. I'm here."
 
@@ -431,19 +427,19 @@ Franklin: "Just...keep doing what you're doing. We have to find a way to slow Ma
 
 Mackenzie: "A little hard to do that from inside a cell."
 
-*Noise begins rattling from down the hall*
+_Noise begins rattling from down the hall_
 
 Franklin: "Maybe not. Quick, get back."
 
-*Mackenzie tries to go to his bunk as Mathis, Vachon, and Heller appear. Mathis is holding a valve hand, presumable the one from the destroyed locking mechanism machine*
+_Mackenzie tries to go to his bunk as Mathis, Vachon, and Heller appear. Mathis is holding a valve hand, presumable the one from the destroyed locking mechanism machine_
 
 Mathis: "Well, well. Look what my guys found while investigating the old parts of the prison. Someone is seriously fucking with me. Someone who clearly knows more about this prison than they should. Knew exactly what to sabotage to keep us from getting into solitary."
 
-*Mackenzie looks at the wall away from Mathis, who clangs the valve handle onto the cell bars to get his attention again*
+_Mackenzie looks at the wall away from Mathis, who clangs the valve handle onto the cell bars to get his attention again_
 
 Mathis: "You know anything about this, pilot?"
 
-*Mathis hands the valve handle to Vachon*
+_Mathis hands the valve handle to Vachon_
 
 Mackenzie: "I have no idea what that is."
 
@@ -457,7 +453,7 @@ Mackenzie: "What now?"
 
 Mathis: "Detonators. Can't do shit with this dynamite, unless we find detonators. Since we found the dynamite in one of the old machine sheds, the detonators should be around here somewhere. Of course, we can't find them. So...I'll probably have to go a few rounds with my friend the Warden here, to find out where they are. You just sit tight and I'll tell you when I'm done. You may want to plug your ears."
 
-*Mathis walks over to and opens Franklin's cell.*
+_Mathis walks over to and opens Franklin's cell._
 
 Franklin: "Now...listen, Mathis. There's no need for that."
 
@@ -477,16 +473,14 @@ Mathis: "Interesting. You heard the man. Get going."
 
 Heller: "Yeah, dog. Time to get back out there."
 
-*Mathis begins beating Franklin, Mackenzie springs out of his bed and to the corner of his cell by the bars*
+_Mathis begins beating Franklin, Mackenzie springs out of his bed and to the corner of his cell by the bars_
 
 Mackenzie: "W...wait. Mathis...just...leave him alone. I'll do it. I'll be quick."
 
-*Mathis stops*
+_Mathis stops_
 
 Heller: "You'd better hurry up, pilot. I think Mathis wants to let off some steam."
 
 Franklin: "Wait...Mathis..."
 
-*The screen goes black*
-
-The story continues in [The Detonators/Transcript](./The%20Detonators%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**
+_The screen goes black_

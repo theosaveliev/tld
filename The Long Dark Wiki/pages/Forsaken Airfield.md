@@ -1,11 +1,6 @@
----
-title: "Forsaken Airfield"
-wiki_namespace: 0
-categories: ["DLC Content", "Regions"]
-source: "https://thelongdark.fandom.com/wiki/Forsaken_Airfield"
----
-
 # Forsaken Airfield
+
+**Categories:** DLC Content, Regions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forsaken_Airfield)
 
 **Contents**
 
@@ -25,10 +20,10 @@ source: "https://thelongdark.fandom.com/wiki/Forsaken_Airfield"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Forsaken_Airfield.jpg) / *Forsaken\_Airfield.jpg* |
+|  | ![](../assets/Forsaken_Airfield.jpg) / _Forsaken\_Airfield.jpg_ |
 | **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Forsaken_Airfield_Location.png) / *Forsaken\_Airfield\_Location.png* |
-|  | ![](../assets/Forsaken_Airfield_In-game_Map.png) / *Forsaken\_Airfield\_In-game\_Map.png* |
+|  | ![](../assets/Forsaken_Airfield_Location.png) / _Forsaken\_Airfield\_Location.png_ |
+|  | ![](../assets/Forsaken_Airfield_In-game_Map.png) / _Forsaken\_Airfield\_In-game\_Map.png_ |
 | **Details** |  |
 | Description | A small airstrip situated within an expansive wind blasted valley basin |
 | Connecting Regions | [Transfer Pass](./Transfer%20Pass.md) [Zone of Contamination](./Zone%20of%20Contamination.md) or [Sundered Pass](./Sundered%20Pass.md) (Through Transition Cave) |
@@ -41,10 +36,10 @@ source: "https://thelongdark.fandom.com/wiki/Forsaken_Airfield"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / > “**A vast open plain hides a remote airfield that once served as a critical transport hub for the interior of Great Bear. Between the Hangar, Control Tower, and the Ranger's Cabin on the outskirts of the region, Forsaken Airfield is one of the harshest, coldest regions yet. What secrets will the Aurora reveal...**” / > / > — Official Marketing Description / {\| style="margin:auto" | “ | **For advanced players. Once an active entry point for the Far Territory's wild interior, Forsaken Airfield lives in the shadow of better days, long departed. Its broken landing strip and support buildings sit wedged between various natural obstacles, including frozen fields, a broad lake, and sheer cliffs along the Region’s perimeter. Travelers here need guile, and warm clothes. / Connects to Transfer Pass, The Zone of Contamination, and Sundered Pass.** / In-game description | ” |
-| “ | **A vast open plain hides a remote airfield that once served as a critical transport hub for the interior of Great Bear. Between the Hangar, Control Tower, and the Ranger's Cabin on the outskirts of the region, Forsaken Airfield is one of the harshest, coldest regions yet. What secrets will the Aurora reveal...** / Official Marketing Description | ” |  |  |  |
+| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / > “__A vast open plain hides a remote airfield that once served as a critical transport hub for the interior of Great Bear. Between the Hangar, Control Tower, and the Ranger's Cabin on the outskirts of the region, Forsaken Airfield is one of the harshest, coldest regions yet. What secrets will the Aurora reveal...__” / > / > — Official Marketing Description / {\| style="margin:auto" | “ | __For advanced players. Once an active entry point for the Far Territory's wild interior, Forsaken Airfield lives in the shadow of better days, long departed. Its broken landing strip and support buildings sit wedged between various natural obstacles, including frozen fields, a broad lake, and sheer cliffs along the Region’s perimeter. Travelers here need guile, and warm clothes. / Connects to Transfer Pass, The Zone of Contamination, and Sundered Pass.__ / In-game description | ” |
+| “ | __A vast open plain hides a remote airfield that once served as a critical transport hub for the interior of Great Bear. Between the Hangar, Control Tower, and the Ranger's Cabin on the outskirts of the region, Forsaken Airfield is one of the harshest, coldest regions yet. What secrets will the Aurora reveal...__ / Official Marketing Description | ” |  |  |  |
 
-**Forsaken Airfield** is the 14th [Region](./Region.md) found in [*The Long Dark*](./The%20Long%20Dark.md) released for [Survival Mode](./Survival%20Mode.md), and is available for players who purchased the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion pack released on December 5, 2022.
+**Forsaken Airfield** is the 14th [Region](./Region.md) found in [_The Long Dark_](./The%20Long%20Dark.md) released for [Survival Mode](./Survival%20Mode.md), and is available for players who purchased the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion pack released on December 5, 2022.
 
 The Region connects to [Transfer Pass](./Transfer%20Pass.md) via the mountain road and to the [Zone of Contamination](./Zone%20of%20Contamination.md) and [Sundered Pass](./Sundered%20Pass.md) via a large cave system south-east of [Fallow Dugout](./Fallow%20Dugout.md) near the downed helicopter.
 
@@ -100,14 +95,36 @@ Near the edges of the large central plain, the region features more uneven terra
 
 ## Maps
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![A detailed map of Forsaken Airfield v2.35 (contains spoilers)](../assets/FA_map_default.png) / *A detailed map of Forsaken Airfield v2.35 (contains spoilers)* | ![A detailed map of Forsaken Airfield v2.35 (Interloper/Misery edition, contains spoilers)](../assets/FA_map_loper.png) / *A detailed map of Forsaken Airfield v2.35 (Interloper/Misery edition, contains spoilers)* | ![The forsaken airfield map with icons for all locations and valuable items. Created by Alana Akkerman.](../assets/Forsaken_Airfield_map_with_location_icons.jpg) / *The forsaken airfield map with icons for all locations and valuable items. Created by Alana Akkerman.* | ![Map of the transition cave connecting Forsaken Airfield, Zone of Contamination and Sundered Pass](../assets/Transition_cave_map_03_v1.jpg) / *Map of the transition cave connecting Forsaken Airfield, Zone of Contamination and Sundered Pass* |
+![A detailed map of Forsaken Airfield v2.35 (contains spoilers)](../assets/FA_map_default.png)
+
+_A detailed map of Forsaken Airfield v2.35 (contains spoilers)_
+
+![A detailed map of Forsaken Airfield v2.35 (Interloper/Misery edition, contains spoilers)](../assets/FA_map_loper.png)
+
+_A detailed map of Forsaken Airfield v2.35 (Interloper/Misery edition, contains spoilers)_
+
+![The forsaken airfield map with icons for all locations and valuable items. Created by Alana Akkerman.](../assets/Forsaken_Airfield_map_with_location_icons.jpg)
+
+_The forsaken airfield map with icons for all locations and valuable items. Created by Alana Akkerman._
+
+![Map of the transition cave connecting Forsaken Airfield, Zone of Contamination and Sundered Pass](../assets/Transition_cave_map_03_v1.jpg)
+
+_Map of the transition cave connecting Forsaken Airfield, Zone of Contamination and Sundered Pass_
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Airfield at the sunset](../assets/Screen_0c1f49f9-5aa3-45ea-a71f-8d8ac67fcc5e.png) / *Airfield at the sunset* | ![](../assets/Airfield_during_aurora.png) / *Airfield\_during\_aurora.png* | \[Missing image: 20230520075647\_1.jpg\] / *A sign in Transfer Pass directing motorists to Field 31* | ![Field 31 at sunrise](../assets/Airfield_Tarmac_at_Dawn.png) / *Field 31 at sunrise* |
+![Airfield at the sunset](../assets/Screen_0c1f49f9-5aa3-45ea-a71f-8d8ac67fcc5e.png)
 
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Брошенный аэродром](ru:%D0%91%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B0%D1%8D%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC)
+_Airfield at the sunset_
+
+![](../assets/Airfield_during_aurora.png)
+
+_Airfield\_during\_aurora.png_
+
+\[Missing image: 20230520075647\_1.jpg\]
+
+_A sign in Transfer Pass directing motorists to Field 31_
+
+![Field 31 at sunrise](../assets/Airfield_Tarmac_at_Dawn.png)
+
+_Field 31 at sunrise_

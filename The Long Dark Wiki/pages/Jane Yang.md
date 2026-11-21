@@ -1,11 +1,6 @@
----
-title: "Jane Yang"
-wiki_namespace: 0
-categories: ["Characters"]
-source: "https://thelongdark.fandom.com/wiki/Jane_Yang"
----
-
 # Jane Yang
+
+**Categories:** Characters · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Jane_Yang)
 
 **Contents**
 
@@ -22,7 +17,7 @@ source: "https://thelongdark.fandom.com/wiki/Jane_Yang"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Jane_Yang.png) / *Jane\_Yang.png* |
+|  | ![](../assets/Jane_Yang.png) / _Jane\_Yang.png_ |
 | Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Date | 6 October 2021 |
 | Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) (Flashback) [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
@@ -37,9 +32,9 @@ source: "https://thelongdark.fandom.com/wiki/Jane_Yang"
 | **Game Information** |  |
 | Voiced by | Rita Yee (Episode 3 &amp; 4) Jessica Wong (Episode 5) |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
-**Jane Yang** a major character in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) in [*The Long Dark*](./The%20Long%20Dark.md).
+**Jane Yang** a major character in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## History
 
@@ -51,7 +46,7 @@ An old friend of [Astrid Greenwood](./Astrid%20Greenwood.md), Jane is a resident
 
 ### [Fallen Star](./Fallen%20Star.md)
 
-> “**Astrid...it's getting worse. You have to do something. You understand that better than anyone...I'm afraid it's happening again Astrid. I'm afraid we'll lose her this time.**”
+> “__Astrid...it's getting worse. You have to do something. You understand that better than anyone...I'm afraid it's happening again Astrid. I'm afraid we'll lose her this time.__”
 >
 > — Jane over the phone in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 
@@ -65,7 +60,7 @@ Jane asks if Astrid is willing to speak to [Will Mackenzie](./Will%20Mackenzie.m
 
 #### [Donner (mission)](./Donner%20%28mission%29.md)
 
-> “**Astrid. You came. You said you would, and you did. But where is the case? Where's the cure?**”
+> “__Astrid. You came. You said you would, and you did. But where is the case? Where's the cure?__”
 
 She is seen briefly at the end of [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) in her home town of Perseverance Mills. A quarantine is effecting the town, with Jane running to the docks when she notices two other residents of the town finding what she presumes is another victim of the illnesses afflicting the town. Jane is surprised and relieved to see Astrid has finally come to the town like she promised, but after searching her canoe and asking one of the residents to get the doctor some water, Jane is confused as to why Astrid doesn't have the [Hardcase](./Astrid%27s%20Hardcase.md) with her.
 
@@ -79,5 +74,3 @@ So far, Jane's name is only mentioned in the closing credits of Episode 4:
 
 - She is listed as "Astrid's Friend" in Episode 3's credits.
 - Her name was fully revealed in Episode 4's credits.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Джейн Янг](ru:%D0%94%D0%B6%D0%B5%D0%B9%D0%BD_%D0%AF%D0%BD%D0%B3)

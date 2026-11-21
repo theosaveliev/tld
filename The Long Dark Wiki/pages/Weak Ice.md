@@ -1,11 +1,6 @@
----
-title: "Weak Ice"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Weak_Ice"
----
-
 # Weak Ice
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Weak_Ice)
 
 **Contents**
 
@@ -16,15 +11,19 @@ source: "https://thelongdark.fandom.com/wiki/Weak_Ice"
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![A patch of weak cracking ice](../assets/WeakIce.jpg) / *A patch of weak cracking ice* | ![A hole formed after a player fell through weak ice](../assets/Weak_Ice_Hole.jpg) / *A hole formed after a player fell through weak ice* |
+![A patch of weak cracking ice](../assets/WeakIce.jpg)
 
-**Weak Ice** (also known as **Thin Ice**) is an uncommon but dangerous [Environmental Hazard](./Environmental%20Hazard.md) found within some [Regions](./Region.md) of [*The Long Dark*.](./The%20Long%20Dark.md)
+_A patch of weak cracking ice_
+
+![A hole formed after a player fell through weak ice](../assets/Weak_Ice_Hole.jpg)
+
+_A hole formed after a player fell through weak ice_
+
+**Weak Ice** (also known as **Thin Ice**) is an uncommon but dangerous [Environmental Hazard](./Environmental%20Hazard.md) found within some [Regions](./Region.md) of [_The Long Dark_.](./The%20Long%20Dark.md)
 
 ## Overview
 
-![The Weak Ice icon](../assets/Weak_Ice_icon.png)*The Weak Ice icon* Most of the icy ground of [Great Bear Island](./Great%20Bear%20Island.md) is traversable but some ice sheets are weak and pose a hazard when the survivor moves on them. When standing on thin ice the "Weak Ice" indicator will appear in the center of the screen, a unique sound will play and cracks will form at survivor's feet. If the survivor does not move off the weak ice in time they will fall into the water below.
+![The Weak Ice icon](../assets/Weak_Ice_icon.png)_The Weak Ice icon_ Most of the icy ground of [Great Bear Island](./Great%20Bear%20Island.md) is traversable but some ice sheets are weak and pose a hazard when the survivor moves on them. When standing on thin ice the "Weak Ice" indicator will appear in the center of the screen, a unique sound will play and cracks will form at survivor's feet. If the survivor does not move off the weak ice in time they will fall into the water below.
 
 While standing on Weak ice the "Weak Ice" indicator is present and a hidden timer will play (5 seconds) and at the end if the player is still standing on Weak Ice they will fall through it. [Crampons](./Crampons.md) and [Improvised Crampons](./Improvised%20Crampons.md) can add the [Sure Footing](./Sure%20Footing.md) benefit, granting additional time before falling through (6 seconds with [Crampons](./Crampons.md) and 5.5 seconds with [Improvised Crampons](./Improvised%20Crampons.md) instead of 5 seconds).
 
@@ -63,12 +62,14 @@ If the survivor falls through Weak Ice, it is recommend to quickly find shelter 
 ## Trivia
 
 - [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) Part 2 Update added a graphical update to Thin Ice when active as well as the updating the Beachcombing mechanic.
-- In the real world some Weak ice may be traversed by dispersing one's bodyweight such as crawling while prone. This mechanic is not present within *The Long Dark*, and crouching does not affect Weak Ice.
+- In the real world some Weak ice may be traversed by dispersing one's bodyweight such as crawling while prone. This mechanic is not present within _The Long Dark_, and crouching does not affect Weak Ice.
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The old warning that showed when stepping over Weak Ice](../assets/Weak_Ice_Old.jpg) / *The old warning that showed when stepping over Weak Ice* | ![The old broken ice model formed after falling through Weak Ice (note that there are over 8 different holes formed after falling through)](../assets/Weak_Ice_Old_Cracked.jpg) / *The old broken ice model formed after falling through Weak Ice (note that there are over 8 different holes formed after falling through)* |
+![The old warning that showed when stepping over Weak Ice](../assets/Weak_Ice_Old.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Непрочный лед](ru:%D0%9D%D0%B5%D0%BF%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BB%D0%B5%D0%B4)
+_The old warning that showed when stepping over Weak Ice_
+
+![The old broken ice model formed after falling through Weak Ice (note that there are over 8 different holes formed after falling through)](../assets/Weak_Ice_Old_Cracked.jpg)
+
+_The old broken ice model formed after falling through Weak Ice (note that there are over 8 different holes formed after falling through)_

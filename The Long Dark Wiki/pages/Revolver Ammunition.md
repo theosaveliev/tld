@@ -1,11 +1,6 @@
----
-title: "Revolver Ammunition"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Revolver_Ammunition"
----
-
 # Revolver Ammunition
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Revolver_Ammunition)
 
 **Contents**
 
@@ -20,8 +15,8 @@ source: "https://thelongdark.fandom.com/wiki/Revolver_Ammunition"
 
 | Property | Details |
 | --- | --- |
-|  | \[\[File: / \| ![Box](../assets/Revolver_Ammunition_icon.png) / *Box* \| ![Cartridge](../assets/Revolver_Cartridge_icon.png) / *Cartridge* \| / \| --- \| --- \| / Rifle ammunition icon.png\|250px\]\] |
-| ![Box](../assets/Revolver_Ammunition_icon.png) / *Box* | ![Cartridge](../assets/Revolver_Cartridge_icon.png) / *Cartridge* |
+|  | \[\[File: / ![Box](../assets/Revolver_Ammunition_icon.png) / _Box_ / ![Cartridge](../assets/Revolver_Cartridge_icon.png) / _Cartridge_ / Rifle ammunition icon.png\|250px\]\] |
+| ![Box](../assets/Revolver_Ammunition_icon.png) / _Box_ | ![Cartridge](../assets/Revolver_Cartridge_icon.png) / _Cartridge_ |
 | **General** |  |
 | Item Type |  |
 | Wintermute | No |
@@ -30,15 +25,15 @@ source: "https://thelongdark.fandom.com/wiki/Revolver_Ammunition"
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.02 kg(0.04 lbs) |
 | Harvest | Chance to produce: / 1 × [Bullet](./Bullet.md) 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / 0.01kg x [Can of Gunpowder](./Can%20of%20Gunpowder.md) / 5 minutes |
 
-> “**A box of Revolver cartridges.**”
+> “__A box of Revolver cartridges.__”
 >
 > — Boxed ammo In-game description
 
-> “**A single Revolver cartridge.**”
+> “__A single Revolver cartridge.__”
 >
 > — Single Cartridge In-game description
 
-**Revolver Ammunition** and **Revolver Cartridge** is ammunition for the [Revolver](./Revolver.md). It can be found alone, as a single round, or as 10 rounds in a box. It can also be crafted at an [Ammunition Work Bench](./Ammunition%20Work%20Bench.md). The box is branded as a product called *Bullseye*.
+**Revolver Ammunition** and **Revolver Cartridge** is ammunition for the [Revolver](./Revolver.md). It can be found alone, as a single round, or as 10 rounds in a box. It can also be crafted at an [Ammunition Work Bench](./Ammunition%20Work%20Bench.md). The box is branded as a product called _Bullseye_.
 
 ## Overview
 
@@ -96,13 +91,11 @@ Ammunition that is found in the game world will always be in "Perfect" condition
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![an unreleased Pre Alpha revolver, with ammunition and casings](../assets/Pre_Alpha_Revolver.webp) / *an unreleased Pre Alpha revolver, with ammunition and casings* |
+![an unreleased Pre Alpha revolver, with ammunition and casings](../assets/Pre_Alpha_Revolver.webp)
+
+_an unreleased Pre Alpha revolver, with ammunition and casings_
 
 ## Update history
 
 - UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Патроны для револьвера](ru:%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D1%8B_%D0%B4%D0%BB%D1%8F_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8C%D0%B2%D0%B5%D1%80%D0%B0)

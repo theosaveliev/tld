@@ -1,11 +1,6 @@
----
-title: "To the Teeth"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/To_the_Teeth"
----
-
 # To the Teeth
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/To_the_Teeth)
 
 **Contents**
 
@@ -18,10 +13,10 @@ source: "https://thelongdark.fandom.com/wiki/To_the_Teeth"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/To_the_Teeth_icon.png) / *To\_the\_Teeth\_icon.png* |
+|  | ![](../assets/To_the_Teeth_icon.png) / _To\_the\_Teeth\_icon.png_ |
 | Description | Collect 7 Expansion Firearm variants (single game). |
 
-**To the Teeth** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**To the Teeth** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -45,5 +40,3 @@ The player must find and pick up, at least once, all 7 firearm variants of the [
 - [Hunter's Revolver](./Hunter%27s%20Revolver.md) - in the Hunting [Prepper Cache](./Prepper%20Cache.md)
 
 ## Trivia
-
-This achievement's name is a reference to the saying "Armed to the Teeth." **Lua execution error in Module:Navbox function navbox**

@@ -1,17 +1,12 @@
----
-title: "Elevator Crank"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Elevator_Crank"
----
-
 # Elevator Crank
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Elevator_Crank)
 
 **Elevator Crank**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Elevator_Crank_icon.png) / *Elevator\_Crank\_icon.png* |
+|  | ![](../assets/Elevator_Crank_icon.png) / _Elevator\_Crank\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [The Detonators](./The%20Detonators.md) |
 | **Properties** |  |
@@ -30,7 +25,7 @@ source: "https://thelongdark.fandom.com/wiki/Elevator_Crank"
 
 ## Survival Mode
 
-> “**Crank used to move an elevator**”
+> “__Crank used to move an elevator__”
 
 An Elevator Crank can also be found in Survival Mode near the elevator of the [Last Prospect](./Last%20Prospect.md) mine in the [Blackrock](./Blackrock.md) region.
 
@@ -44,7 +39,5 @@ It is used for traversing the Abandoned Last Prospect Mine to fully explore it's
   - Added to Survival Mode.
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**
 
 [ru:Рычаг подъемника](ru:%D0%A0%D1%8B%D1%87%D0%B0%D0%B3_%D0%BF%D0%BE%D0%B4%D1%8A%D0%B5%D0%BC%D0%BD%D0%B8%D0%BA%D0%B0)

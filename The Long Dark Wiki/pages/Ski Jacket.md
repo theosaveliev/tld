@@ -1,17 +1,12 @@
----
-title: "Ski Jacket"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Ski_Jacket"
----
-
 # Ski Jacket
+
+**Categories:** Clothing, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ski_Jacket)
 
 **Ski Jacket**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Ski_Jacket_icon.png) / *Ski\_Jacket\_icon.png* |
+|  | ![](../assets/Ski_Jacket_icon.png) / _Ski\_Jacket\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Outer torso |
@@ -25,11 +20,11 @@ source: "https://thelongdark.fandom.com/wiki/Ski_Jacket"
 | Harvest | 2 × [Cloth](./Cloth.md) / 90 minutes |
 | Repair | 2 × [Cloth](./Cloth.md) / 45 minutes / 30% condition |
 
-> “**Winter jacket made out of synthetic materials. Highly Windproof but not well insulated.**”
+> “__Winter jacket made out of synthetic materials. Highly Windproof but not well insulated.__”
 >
 > — In-game description
 
-The **Ski Jacket** is a type of [clothing](./Clothing.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+The **Ski Jacket** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -39,13 +34,19 @@ It is a direct upgrade to the [Simple Parka](./Simple%20Parka.md). It weighs 0.2
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Clothing model icon](../assets/Ski_Jacket_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Ski_Jacket_Model_Damaged_icon.png) / *Clothing model icon damaged* | ![Old model.](../assets/Down_ski_jacket_%28historical%29.png) / *Old model.* |
+![Clothing model icon](../assets/Ski_Jacket_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Ski_Jacket_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
+
+![Old model.](../assets/Down_ski_jacket_%28historical%29.png)
+
+_Old model._
 
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Лыжная куртка](ru:%D0%9B%D1%8B%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BA%D1%83%D1%80%D1%82%D0%BA%D0%B0)

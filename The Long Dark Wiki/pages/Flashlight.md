@@ -1,11 +1,6 @@
----
-title: "Flashlight"
-wiki_namespace: 0
-categories: ["Story items", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Flashlight"
----
-
 # Flashlight
+
+**Categories:** Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Flashlight)
 
 **Contents**
 
@@ -21,20 +16,20 @@ source: "https://thelongdark.fandom.com/wiki/Flashlight"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Flashlight_icon.png) / *flashlight\_icon.png* |
+|  | ![](../assets/Flashlight_icon.png) / _flashlight\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
 | Harvest | 1 × [Scrap Metal](./Scrap%20Metal.md) |
 | Repair | 1 × [Scrap Metal](./Scrap%20Metal.md) |
 
-> “**Banged up flashlight.**”
+> “__Banged up flashlight.__”
 >
 > — In-game description
 
-*For the unique version of the Flashlight, see [Miner's Flashlight](./Miner%27s%20Flashlight.md).*
+_For the unique version of the Flashlight, see [Miner's Flashlight](./Miner%27s%20Flashlight.md)._
 
-The **Flashlight**is a light emitting, self-defense tool in *[The Long Dark](./The%20Long%20Dark.md)*. It is available in both Wintermute and Survival mode, and was added in the launch of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md)*.*
+The **Flashlight**is a light emitting, self-defense tool in _[The Long Dark](./The%20Long%20Dark.md)_. It is available in both Wintermute and Survival mode, and was added in the launch of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md)_._
 
 ## Overview
 
@@ -80,8 +75,10 @@ The Flashlight appears to be loosely based on a 1920s vintage Ever-Ready flashli
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The flashlight in use](../assets/Flashlight_in_action.jpg) / *The flashlight in use* | ![Utilizing the high beam function](../assets/Flashlight_high_beam.jpg) / *Utilizing the high beam function* |
+![The flashlight in use](../assets/Flashlight_in_action.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Фонарик](ru:%D0%A4%D0%BE%D0%BD%D0%B0%D1%80%D0%B8%D0%BA)
+_The flashlight in use_
+
+![Utilizing the high beam function](../assets/Flashlight_high_beam.jpg)
+
+_Utilizing the high beam function_

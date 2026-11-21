@@ -1,20 +1,15 @@
----
-title: "It was THIS Big!"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/It_was_THIS_Big!"
----
-
 # It was THIS Big\!
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/It_was_THIS_Big!)
 
 **It was THIS Big!**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/It_was_THIS_Big!_icon.png) / *It\_was\_THIS\_Big!\_icon.png* |
+|  | ![](../assets/It_was_THIS_Big!_icon.png) / _It\_was\_THIS\_Big!\_icon.png_ |
 | Description | Caught a fish weighing over 5kg (11 lbs). |
 
-**It was THIS Big!** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**It was THIS Big!** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -47,5 +42,3 @@ The achievement can also be unlocked by quite easily by catching the [Big Bass](
 ## Game history
 
 This achievement was introduced on 1 April 2015 in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212).
-
-**Lua execution error in Module:Navbox function navbox**

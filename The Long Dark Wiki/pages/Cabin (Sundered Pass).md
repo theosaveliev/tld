@@ -1,19 +1,13 @@
----
-title: "Cabin (Sundered Pass)"
-wiki_namespace: 0
-categories: ["Indoor locations", "Locations", "Locations in Sundered Pass"]
-source: "https://thelongdark.fandom.com/wiki/Cabin_(Sundered_Pass)"
----
-
 # Cabin \(Sundered Pass\)
+
+**Categories:** Indoor locations, Locations, Locations in Sundered Pass · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cabin_%28Sundered_Pass%29)
 
 **Cabin (Sundered Pass)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Old_Settlement_Cabin.jpg) / *Old\_Settlement\_Cabin.jpg* |
+|  | ![](../assets/Old_Settlement_Cabin.jpg) / _Old\_Settlement\_Cabin.jpg_ |
 | **Location** |  |
 | Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
 | **General** |  |
-| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
-|  | Has an interior\|} The **Cabin (Sundered Pass)** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md) at the [Old Settlement](./Old%20Settlement.md). / ## Overview / The area around the Old Settlement consists of 3 ruined buildings and one intact two story cabin. The area around the settlement is patrolled by several large packs of [Timberwolves](./Timberwolf.md), making coming and going very difficult. / ## Cabin / The ground floor of the cabin is snowed-in, so the two doors are covered by snow and are unusable. Walking behind the cabin and onto the roof the player can find an open window to walk inside. / Stepping inside, the window will place the player on a [Bed](./Bed.md) on the second floor. A [Trunk](./Trunk.md) and several [Crates](./Crate.md) are found on the floor, with a staircase leading downstairs into a kitchen. / The 2 doors on the first floor can be opened, but are blocked by snow, imprinted with the shape of the doors. The Fireplace is also covered in snow, and cannot be used. A small kitchen with [Stored Water](./Stored%20Water.md) and several [Drawers](./Drawer.md) and a [Cupboard](./Cupboard.md) is downstairs, with more Crates below the stairwell. / Despite being slightly underground due to an avalanche, the interior does not protect against [Insomnia Risk](./Insomnia%20Risk.md), even when on the first floor. / ## Gallery / **Lua execution error in Module:Navbox function navbox** |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |

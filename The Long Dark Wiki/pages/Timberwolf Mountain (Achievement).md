@@ -1,20 +1,15 @@
----
-title: "Timberwolf Mountain (Achievement)"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Timberwolf_Mountain_(Achievement)"
----
-
 # Timberwolf Mountain \(Achievement\)
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Timberwolf_Mountain_%28Achievement%29)
 
 **Timberwolf Mountain**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Timberwolf_Mountain_%28Achievement%29_icon.png) / *Timberwolf\_Mountain\_(Achievement)\_icon.png* |
+|  | ![](../assets/Timberwolf_Mountain_%28Achievement%29_icon.png) / _Timberwolf\_Mountain\_(Achievement)\_icon.png_ |
 | Description | Climb to the top of Timberwolf Mountain. |
 
-**Timberwolf Mountain** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Timberwolf Mountain** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -25,5 +20,3 @@ This achievement is obtained after reaching the [Summit](./Summit.md) on top of 
 This achievement was introduced on 1 April 2015 in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212).
 
 ## Trivia
-
-This achievement's name is a reference to the V0.298 update Timberwolf Mountain.**Lua execution error in Module:Navbox function navbox**

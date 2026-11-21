@@ -1,11 +1,6 @@
----
-title: "Old Man's Beard Wound Dressing"
-wiki_namespace: 0
-categories: ["Materials", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Old_Man's_Beard_Wound_Dressing"
----
-
 # Old Man's Beard Wound Dressing
+
+**Categories:** Materials, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Old_Man's_Beard_Wound_Dressing)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Old_Man's_Beard_Wound_Dressing"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png) / *Old\_Man's\_Beard\_Wound\_Dressing\_icon.png* |
+|  | ![](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png) / _Old\_Man's\_Beard\_Wound\_Dressing\_icon.png_ |
 | Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192) |
 | Wintermute | No |
 | **Properties** |  |
@@ -75,13 +70,11 @@ Before release of "Faithful Cartographer" the recipe was:
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model.](../assets/Old_mans_beard_wound_dressing.png) / *Old model.* |
+![Old model.](../assets/Old_mans_beard_wound_dressing.png)
+
+_Old model._
 
 ## Update history
 
 - UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Повязка из старого висящего мха](ru:%D0%9F%D0%BE%D0%B2%D1%8F%D0%B7%D0%BA%D0%B0_%D0%B8%D0%B7_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B3%D0%BE_%D0%B2%D0%B8%D1%81%D1%8F%D1%89%D0%B5%D0%B3%D0%BE_%D0%BC%D1%85%D0%B0)

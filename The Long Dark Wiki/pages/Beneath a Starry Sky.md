@@ -1,20 +1,15 @@
----
-title: "Beneath a Starry Sky"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Beneath_a_Starry_Sky"
----
-
 # Beneath a Starry Sky
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Beneath_a_Starry_Sky)
 
 **Beneath a Starry Sky**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Beneath_a_Starry_Sky_icon.png) / *Beneath\_a\_Starry\_Sky\_icon.png* |
+|  | ![](../assets/Beneath_a_Starry_Sky_icon.png) / _Beneath\_a\_Starry\_Sky\_icon.png_ |
 | Description | Survive 3 consecutive Nights outside (single game) |
 
-**Beneath a Starry Sky** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Beneath a Starry Sky** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -25,5 +20,3 @@ Outside refers to being anywhere but inside a building or other structure that h
 The best structure to use is a [fishing hut](./Fishing%20Hut.md), as these have protection from the wind, a pot belly stove, and a fishing hole that is an excellent source of food if the player has brought [fishing tackle](./Fishing%20Tackle.md). In addition, animals will not enter the huts, regardless of whether they have a door or not. Using a fishing hut with a door still counts as being outside.
 
 Another alternative are the railway cars such [Poacher's Camp](./Poacher%27s%20Camp.md). However, unless the railway car has a fire barrel, the stay may be uncomfortably chilly.
-
-Entering an interior during the daytime does not nullify the achievement. Therefore it is possible to return to nearby shelters during the day and resupply.**Lua execution error in Module:Navbox function navbox**

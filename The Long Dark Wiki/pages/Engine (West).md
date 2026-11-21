@@ -1,19 +1,14 @@
----
-title: "Engine (West)"
-wiki_namespace: 0
-categories: ["Locations", "Locations in Timberwolf Mountain", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Engine_(West)"
----
-
 # Engine \(West\)
+
+**Categories:** Locations, Locations in Timberwolf Mountain, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Engine_%28West%29)
 
 **Engine (West)**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Engine.jpg) / *Engine.jpg* |
+|  | ![](../assets/Engine.jpg) / _Engine.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Engine_%28West%29_Location.png) / *Engine\_(West)\_Location.png* |
+|  | ![](../assets/Engine_%28West%29_Location.png) / _Engine\_(West)\_Location.png_ |
 | Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
 | **General** |  |
 | Type | Outdoors\|- |

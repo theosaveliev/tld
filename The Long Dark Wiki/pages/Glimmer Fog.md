@@ -1,11 +1,6 @@
----
-title: "Glimmer Fog"
-wiki_namespace: 0
-categories: ["DLC Content", "Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Glimmer_Fog"
----
-
 # Glimmer Fog
+
+**Categories:** DLC Content, Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Glimmer_Fog)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Glimmer_Fog"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}![](../assets/Glimmer_Fog_Icon.png){\| style="margin:auto" | “ | **A mysterious phenomenon first encountered in the Far Territory, Glimmer Fog charges the air and ground with electrostatic energy, animating some electronics in entirely unpredictable ways.** | ” |
+| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}![](../assets/Glimmer_Fog_Icon.png){\| style="margin:auto" | “ | __A mysterious phenomenon first encountered in the Far Territory, Glimmer Fog charges the air and ground with electrostatic energy, animating some electronics in entirely unpredictable ways.__ | ” |
 
 - [Official description](https://www.thelongdark.com/expansion/) from the Tales From the Far Territory Website Page
 
@@ -59,13 +54,15 @@ Note: Flashlights "high beam" mode are effective deterrents against aurora preda
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![An example of Glimmer Fog. Notice the blue light patches in the fog.](../assets/Glimmer_Fog.jpg) / *An example of Glimmer Fog. Notice the blue light patches in the fog.* | ![The machine inside the Langston Mine that creates Glimmer Fog](../assets/R%C3%BCdiger%27s_Machine.jpg) / *The machine inside the Langston Mine that creates Glimmer Fog* |
+![An example of Glimmer Fog. Notice the blue light patches in the fog.](../assets/Glimmer_Fog.jpg)
+
+_An example of Glimmer Fog. Notice the blue light patches in the fog._
+
+![The machine inside the Langston Mine that creates Glimmer Fog](../assets/R%C3%BCdiger%27s_Machine.jpg)
+
+_The machine inside the Langston Mine that creates Glimmer Fog_
 
 ## Trivia
 
 - A [written note](./Note%20%28Forsaken%20Airfield%29.md) in Forsaken Airfield where the author details suffering from insomnia following glimmer fog, and their desire to evacuate the region.
 - Glimmer Fog was introduced in the Part 1 Tales From The Far Territory DLC update.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Мерцающий туман](ru:%D0%9C%D0%B5%D1%80%D1%86%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%82%D1%83%D0%BC%D0%B0%D0%BD)

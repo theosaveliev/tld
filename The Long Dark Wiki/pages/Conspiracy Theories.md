@@ -1,17 +1,12 @@
----
-title: "Conspiracy Theories"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Conspiracy_Theories"
----
-
 # Conspiracy Theories
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Conspiracy_Theories)
 
 **Conspiracy Theories**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Conspiracy_Theories_icon.png) / *Conspiracy\_Theories\_icon.png* |
+|  | ![](../assets/Conspiracy_Theories_icon.png) / _Conspiracy\_Theories\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Rumours](./Blackrock%20Rumours.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Conspiracy_Theories"
 
 ## Transcrip
 
-*The following text is transcribed from **Conspiracy Theories***
+_The following text is transcribed from **Conspiracy Theories**_
 
 **Those lights keep coming back, over and over. Never stops. Ever since that first night. And the wolves are strange critters now. It's gotta be down to somethin at Blackrock, but I just don't know...
 
@@ -48,5 +43,3 @@ Like the doc said back then, keep writin...if you're writin you're breathin.**
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

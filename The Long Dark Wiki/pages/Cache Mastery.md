@@ -1,11 +1,6 @@
----
-title: "Cache Mastery"
-wiki_namespace: 0
-categories: ["Achievements", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cache_Mastery"
----
-
 # Cache Mastery
+
+**Categories:** Achievements, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cache_Mastery)
 
 **Contents**
 
@@ -19,10 +14,10 @@ source: "https://thelongdark.fandom.com/wiki/Cache_Mastery"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cache_Mastery_icon.png) / *Cache\_Mastery\_icon.png* |
+|  | ![](../assets/Cache_Mastery_icon.png) / _Cache\_Mastery\_icon.png_ |
 | Description | Find all hidden caches in Episode One and Episode Two. |
 
-**Cache Mastery** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) acquired from playing [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
+**Cache Mastery** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) acquired from playing [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -58,5 +53,3 @@ The following Side Missions lead you to each cache needed to unlock this achieve
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

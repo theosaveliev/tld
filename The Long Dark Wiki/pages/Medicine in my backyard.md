@@ -1,17 +1,12 @@
----
-title: "Medicine in my backyard"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Medicine_in_my_backyard"
----
-
 # Medicine in my backyard
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Medicine_in_my_backyard)
 
 **Medicine in my backyard**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Medicine_in_my_backyard_icon.png) / *Medicine\_in\_my\_backyard\_icon.png* |
+|  | ![](../assets/Medicine_in_my_backyard_icon.png) / _Medicine\_in\_my\_backyard\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Supply Caches](./Milton%20Supply%20Caches.md) |
 | **Properties** |  |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Medicine_in_my_backyard"
 
 ## Transcript
 
-*The following text is transcribed from **Medicine in my backyard***
+_The following text is transcribed from **Medicine in my backyard**_
 
 **Susan, the meds I found on my last trip are at my place, out back. You know the spot. Remember, we have to make these last as long as we can.
 
@@ -41,5 +36,3 @@ I know things are bad right now, but please, help me with this. If you get sick 
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

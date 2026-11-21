@@ -1,18 +1,13 @@
----
-title: "Runaway Bridge"
-wiki_namespace: 0
-categories: ["Locations", "Locations in Ash Canyon", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Runaway_Bridge"
----
-
 # Runaway Bridge
+
+**Categories:** Locations, Locations in Ash Canyon, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Runaway_Bridge)
 
 **Runaway Bridge**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Runaway_Bridge.jpg) / *Runaway\_Bridge.jpg* |
+|  | ![](../assets/Runaway_Bridge.jpg) / _Runaway\_Bridge.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Runaway_Bridge_Location.png) / *Runaway\_Bridge\_Location.png* |
+|  | ![](../assets/Runaway_Bridge_Location.png) / _Runaway\_Bridge\_Location.png_ |
 | Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
 | Type | Outdoors\|- |

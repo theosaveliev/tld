@@ -1,11 +1,6 @@
----
-title: "Lake Gunshots"
-wiki_namespace: 0
-categories: ["Episode 2", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Lake_Gunshots"
----
-
 # Lake Gunshots
+
+**Categories:** Episode 2, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lake_Gunshots)
 
 **Contents**
 
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/Lake_Gunshots"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Lake_cabin4.jpg) / *lake\_cabin4.jpg* |
+|  | ![](../assets/Lake_cabin4.jpg) / _lake\_cabin4.jpg_ |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
 | Current | Lake Gunshots |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) |
@@ -29,7 +24,7 @@ source: "https://thelongdark.fandom.com/wiki/Lake_Gunshots"
 
 **Template:spoiler**
 
-> “**You found a note with some details on possible Forest Talker activity around Mystery Lake.**”
+> “__You found a note with some details on possible Forest Talker activity around Mystery Lake.__”
 >
 > — In-game description
 
@@ -62,15 +57,15 @@ The Quest is unlocked by finding a note [Crumpled Note (2)](./Crumpled%20Note%20
 
 ![The Forest Talker's fate if you take his ammunition](../assets/Lake_Gunshots_Forest_Talker.jpg)
 
-*The Forest Talker's fate if you take his ammunition*
+_The Forest Talker's fate if you take his ammunition_
 
 ## Redux Transcript
 
-*Mackenzie heads to the lake cabins after reading the Crumpled Note, and finds crows flying over the lake ice, circling a body with blood all around it.*
+_Mackenzie heads to the lake cabins after reading the Crumpled Note, and finds crows flying over the lake ice, circling a body with blood all around it._
 
 Mackenzie: "Shit...looks like someone found trouble."
 
-*A trail of fresh blood leads away from the man's corpse, suggesting another Forest Talker is nearby. The blood trail leads to a locked cabin door. Mackenzie interacts with the door and hears a voice.*
+_A trail of fresh blood leads away from the man's corpse, suggesting another Forest Talker is nearby. The blood trail leads to a locked cabin door. Mackenzie interacts with the door and hears a voice._
 
 Forest Talker: "Just...leave me alone. I'm not opening the door for anyone.
 
@@ -90,23 +85,23 @@ Mackenzie: "I have a feeling "the world" has bigger problems right now, but I'll
 
 Forest Talker: "Here's the key to the trailer where we stashed our supplies. I'll slide it under the door."
 
-*Mackenzie takes the key out of the snow in front of the door. If the player checks the door again before finishing the Forest Talker's tasks, this exchange occurs:*
+_Mackenzie takes the key out of the snow in front of the door. If the player checks the door again before finishing the Forest Talker's tasks, this exchange occurs:_
 
 Forest Talker: "Did you find our stuff yet? The supplies? And the documents? I need them both."
 
 Mackenzie: "I'm working on it."
 
-*Mackenzie heads to the [Logging Camp](./Logging%20Camp.md), and unlocks a door with the key, taking the [Forest Talker Supplies](./Forest%20Talker%20Supplies.md). Then he heads to the Carter Hydro Dam and finds the Loose Tile mentioned, and finds the [Forest Talker Documents](./Forest%20Talker%20Documents.md).*
+_Mackenzie heads to the [Logging Camp](./Logging%20Camp.md), and unlocks a door with the key, taking the [Forest Talker Supplies](./Forest%20Talker%20Supplies.md). Then he heads to the Carter Hydro Dam and finds the Loose Tile mentioned, and finds the [Forest Talker Documents](./Forest%20Talker%20Documents.md)._
 
 Mackenzie: "There you are."
 
-*He heads back to the cabin by the lake, and speaks to the man again.*
+_He heads back to the cabin by the lake, and speaks to the man again._
 
 Mackenzie: "I've got your supplies and those documents you wanted here."
 
 Forest Talker: "Hey...that's great. Thank you. But...I hope you understand if I ask you to just leave them outside the door."
 
-*Two options appear on the screen. Choosing to take the man's ammo will have consequences later.*
+_Two options appear on the screen. Choosing to take the man's ammo will have consequences later._
 
 **White Dialogue**
 
@@ -117,29 +112,29 @@ Mackenzie: "Right. I'll...uh...leave it all here for you, just like you asked.
 
 Forest Talker: "Thank you, stranger. You may not care, but you've made a huge difference to our cause."
 
-*Mackenzie leaves the Forest Talker backpack by the door. If the player interacts with the door before tomorrow, this exchange occurs:*
+_Mackenzie leaves the Forest Talker backpack by the door. If the player interacts with the door before tomorrow, this exchange occurs:_
 
-*Mackenzie: "Hey! You still alive in there?"*
+_Mackenzie: "Hey! You still alive in there?"_
 
-*Forest Talker: "Yeah...I'm still weak. Going to rest up here, until I'm ready to move on."*
+_Forest Talker: "Yeah...I'm still weak. Going to rest up here, until I'm ready to move on."_
 
-*Mackenzie leaves the area, perhaps sleeping the day away in the other nearby cabin. When he returns, the lake cabin the Forest Talker was in is empty, and the door open. Mackenzie walks inside.*
+_Mackenzie leaves the area, perhaps sleeping the day away in the other nearby cabin. When he returns, the lake cabin the Forest Talker was in is empty, and the door open. Mackenzie walks inside._
 
 Mackenzie: "Let's see if he left anything useful."
 
-*The Forest Talker left a note on the table, thanking Mackenzie for his help, along with a [Deerskin Pants](./Deerskin%20Pants.md).*
+_The Forest Talker left a note on the table, thanking Mackenzie for his help, along with a [Deerskin Pants](./Deerskin%20Pants.md)._
 
-*If the player instead took the man's ammo, Mackenzie will see the corpse of the Forest Talker the next day dead on the ground outside the cabin with an arrow through him. It is presumed that whomever wrote the Crumpled Note, a [Breyerhouse](./Breyerhouse.md) worker, came to finish the Forest Talker off like his friend. The note inside will be angrier, with no Deerskin pants.*
+_If the player instead took the man's ammo, Mackenzie will see the corpse of the Forest Talker the next day dead on the ground outside the cabin with an arrow through him. It is presumed that whomever wrote the Crumpled Note, a [Breyerhouse](./Breyerhouse.md) worker, came to finish the Forest Talker off like his friend. The note inside will be angrier, with no Deerskin pants._
 
 ## Predux Transcript
 
-> “**Jeremiah says he heard gunshots from across Mystery Lake. Could it have something to do with the Forest Talkers?**”
+> “__Jeremiah says he heard gunshots from across Mystery Lake. Could it have something to do with the Forest Talkers?__”
 >
 > — In-game description
 
 There are a few differences in the script in the Predux version of this game.
 
-*Mackenzie heads to the lake cabins after [Jeremiah](./Jeremiah.md) mentions hearing gunshots by the lake*
+_Mackenzie heads to the lake cabins after [Jeremiah](./Jeremiah.md) mentions hearing gunshots by the lake_
 
 - FOREST TALKERS?
 
@@ -167,11 +162,11 @@ Mackenzie (Text): "You think it was the Forest Talkers?"
 
 Jeremiah (Text): "No idea. For their sake, I hope they got the hell out of the area before things got shut down. It won't be good for them, with Old Bear out there, and angry."
 
-*After the conversation, Mackenzie heads to Mystery Lake and finds crows flying over the lake ice, circling a body with blood all around it.*
+_After the conversation, Mackenzie heads to Mystery Lake and finds crows flying over the lake ice, circling a body with blood all around it._
 
 Mackenzie: "Shit...looks like someone found trouble."
 
-*A trail of fresh blood leads away from the man's corpse, suggesting another Forest Talker is nearby. The blood trail leads to a locked cabin door. Mackenzie interacts with the door and hears a voice.*
+_A trail of fresh blood leads away from the man's corpse, suggesting another Forest Talker is nearby. The blood trail leads to a locked cabin door. Mackenzie interacts with the door and hears a voice._
 
 Forest Talker (Text): "Leave me alone!"
 
@@ -191,23 +186,23 @@ Mackenzie (Text): "I'll see what I can do."
 
 Forest Talker (Text): "Here's the key to the trailer. I'll slide it under the door."
 
-*Mackenzie takes the key out of the snow in front of the door. If the player checks the door again before finishing the Forest Talker's tasks, this exchange occurs:*
+_Mackenzie takes the key out of the snow in front of the door. If the player checks the door again before finishing the Forest Talker's tasks, this exchange occurs:_
 
 Forest Talker (Text): "You got my stuff yet?"
 
 Mackenzie (Text): "I'm working on it..."
 
-*Mackenzie heads to the [Logging Camp](./Logging%20Camp.md), and unlocks a door with the key, taking the [Forest Talker Supplies](./Forest%20Talker%20Supplies.md). Then he heads to the Carter Hydro Dam and finds the Loose Tile mentioned, and finds the [Forest Talker Documents](./Forest%20Talker%20Documents.md).*
+_Mackenzie heads to the [Logging Camp](./Logging%20Camp.md), and unlocks a door with the key, taking the [Forest Talker Supplies](./Forest%20Talker%20Supplies.md). Then he heads to the Carter Hydro Dam and finds the Loose Tile mentioned, and finds the [Forest Talker Documents](./Forest%20Talker%20Documents.md)._
 
 Mackenzie : "There you are."
 
-*He heads back to the cabin by the lake, and speaks to the man again.*
+_He heads back to the cabin by the lake, and speaks to the man again._
 
 Mackenzie (Text): "I've got your supplies and those documents you wanted here."
 
 Forest Talker (Text): "Thank you so much! Just leave them outside the door."
 
-*Two options appear on the screen. Choosing to take the man's ammo will have consequences later.*
+_Two options appear on the screen. Choosing to take the man's ammo will have consequences later._
 
 - DROP SUPPLIES
 - DROP SUPPLIES (TAKE AMMO)
@@ -216,19 +211,19 @@ Mackenzie (Text): "Umm... here you go."
 
 Forest Talker (Text): "Hoping I'll be able to make a move tomorrow. Thanks for the help!"
 
-*Mackenzie leaves the Forest Talker backpack by the door. If the player interacts with the door before tomorrow, this exchange occurs:*
+_Mackenzie leaves the Forest Talker backpack by the door. If the player interacts with the door before tomorrow, this exchange occurs:_
 
 Mackenzie (Text): "you still in there?"
 
 Forest Talker (Text): "Yes... Trying to get some rest before I head off."
 
-*Mackenzie leaves the area, perhaps sleeping the day away in the other nearby cabin. When he returns, the lake cabin the Forest Talker was in is empty, and the door open. Mackenzie walks inside.*
+_Mackenzie leaves the area, perhaps sleeping the day away in the other nearby cabin. When he returns, the lake cabin the Forest Talker was in is empty, and the door open. Mackenzie walks inside._
 
 Mackenzie: "Let's see if he left anything useful."
 
-*The Forest Talker left a note on the table, thanking Mackenzie for his help, along with a [Deerskin Pants](./Deerskin%20Pants.md).*
+_The Forest Talker left a note on the table, thanking Mackenzie for his help, along with a [Deerskin Pants](./Deerskin%20Pants.md)._
 
-*If the player instead took the man's ammo, Mackenzie will see the corpse of the Forest Talker the next day dead on the ground outside the cabin with an arrow through him. It is unknown who killed him and his friend on the ice. The note inside will be angrier, with no Deerskin pants.*
+_If the player instead took the man's ammo, Mackenzie will see the corpse of the Forest Talker the next day dead on the ground outside the cabin with an arrow through him. It is unknown who killed him and his friend on the ice. The note inside will be angrier, with no Deerskin pants._
 
 ## Trivia
 
@@ -242,5 +237,3 @@ It is presumed that if the player takes the Forest Talker's ammo, the assailant 
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - The note [Crumpled Note (2)](./Crumpled%20Note%20%282%29.md) must be found to activate the side mission as part of the Redux edition. Previously, it was given after talking to [Jeremiah](./Jeremiah.md) during the mission [Survival School (Predux)](./Survival%20School%20%28Predux%29.md)
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Light Up The Night"
-wiki_namespace: 0
-categories: ["Episode 1", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Light_Up_The_Night"
----
-
 # Light Up The Night
+
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Light_Up_The_Night)
 
 **Contents**
 
@@ -21,20 +16,20 @@ source: "https://thelongdark.fandom.com/wiki/Light_Up_The_Night"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Distress_Pistol_icon.png) / *Distress\_Pistol\_icon.png* |
+|  | ![](../assets/Distress_Pistol_icon.png) / _Distress\_Pistol\_icon.png_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Current | Light Up The Night |
 | Region | [Mountain Town](./Mountain%20Town.md) |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
-**Light Up The Night** was a side mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of *[The Long Dark](./The%20Long%20Dark.md)* by using the [Time Capsule](./Time%20Capsule.md).
+**Light Up The Night** was a side mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 This side mission has since been replaced by the [Highway Robbery (mission)](./Highway%20Robbery%20%28mission%29.md).
 
 ## Official description
 
-> “**Grey Mother Trusts you enough to tell you about a Distress Pistol stashed away by one of her neighbours. If you can find it, it would make a useful Wolf deterrent.**”
+> “__Grey Mother Trusts you enough to tell you about a Distress Pistol stashed away by one of her neighbours. If you can find it, it would make a useful Wolf deterrent.__”
 
 ## Objectives
 
@@ -53,7 +48,7 @@ Make your way down the road to the [Paradise Meadows Farm](./Paradise%20Meadows%
 
 ## Transcript
 
-*The following conversation occurs when selected in the Trust menu with Grey Mother.*
+_The following conversation occurs when selected in the Trust menu with Grey Mother._
 
 - PROTECTION
 
@@ -75,11 +70,11 @@ Grey Mother: "Right. Henry was always worried about kids getting their hands on 
 
 Mackenzie: "Thanks."
 
-*Walking to the house on the road to [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), Mackenzie steps inside*
+_Walking to the house on the road to [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), Mackenzie steps inside_
 
 Mackenzie: "Old McDermott must have hidden that weapon in here somewhere."
 
-*Mackenzie searches the house, eventually finding a carpet near the clothing dressers and searches a Hidden Cache, finding the flaregun*
+_Mackenzie searches the house, eventually finding a carpet near the clothing dressers and searches a Hidden Cache, finding the flaregun_
 
 ## Trivia
 
@@ -91,5 +86,3 @@ While this side mission was ultimately cut from the game following the Redux upd
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from the game as part of the Redux edition.
-
-**Lua execution error in Module:Navbox function navbox**

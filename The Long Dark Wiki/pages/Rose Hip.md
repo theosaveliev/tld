@@ -1,11 +1,6 @@
----
-title: "Rose Hip"
-wiki_namespace: 0
-categories: ["Food And Drink", "Materials", "Plants", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Rose_Hip"
----
-
 # Rose Hip
+
+**Categories:** Food And Drink, Materials, Plants, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rose_Hip)
 
 **Contents**
 
@@ -20,25 +15,33 @@ source: "https://thelongdark.fandom.com/wiki/Rose_Hip"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Rose_Hip_icon.png) / *Rose\_Hip\_icon.png* |
+|  | ![](../assets/Rose_Hip_icon.png) / _Rose\_Hip\_icon.png_ |
 | **General** |  |
 | Item Type | Material\|- |
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.01 kg(0.02 lbs) |
 
-> “**A fruit of a wild rose bush.**”
+> “__A fruit of a wild rose bush.__”
 >
 > — In-game description
 
-**Rose Hips** are a natural medical and food item used to treat [Afflictions](./Afflictions.md) in *The Long Dark*.
+**Rose Hips** are a natural medical and food item used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 
 ## Overview
 
 Rose Hips can can be found in the wilderness growing on 2 types of Rose Bushes. Grey ones typically grow in clusters of 1-4 units, while green ones grow on or near [Rock Climbs](./Rock%20Climb.md). A single Rose Bush yields 8 Rose Hips when Harvested. Rose Hips can be found rarely inside of containers. They cannot be directly consumed and must be used in the cooking recipes such as [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) and [Rose Hip Pie](./Rose%20Hip%20Pie.md), or crafted into [Prepared Rose Hips](./Prepared%20Rose%20Hips.md) and then cooked into [Rose Hip Tea](./Rose%20Hip%20Tea.md).
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![A green Rose Bush](../assets/RoseBushGreen.jpg) / *A green Rose Bush* | ![a smaller gray Rose Bush](../assets/RoseBushGrey.jpg) / *a smaller gray Rose Bush* | ![A green Rose Bush on a Rock Climb](../assets/RockClimb.jpg) / *A green Rose Bush on a Rock Climb* |
+![A green Rose Bush](../assets/RoseBushGreen.jpg)
+
+_A green Rose Bush_
+
+![a smaller gray Rose Bush](../assets/RoseBushGrey.jpg)
+
+_a smaller gray Rose Bush_
+
+![A green Rose Bush on a Rock Climb](../assets/RockClimb.jpg)
+
+_A green Rose Bush on a Rock Climb_
 
 Prepared Rose Hips weigh 0.05 kg, or around 1/5 of what 24 Rose Hips (their crafting materials) weigh, and no form of Rose Hips [Decay](./Decay.md).
 
@@ -70,8 +73,10 @@ Prepared Rose Hips weigh 0.05 kg, or around 1/5 of what 24 Rose Hips (their craf
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Pre alpha Rose Hip model](../assets/Rose_hip.png) / *Pre alpha Rose Hip model* | ![The old Rose Hip model](../assets/Rose_Hip_icon_historic.png) / *The old Rose Hip model* |
+![Pre alpha Rose Hip model](../assets/Rose_hip.png)
 
-**Template:materials****Lua execution error in Module:Navbox function navbox** [ru:Шиповник](ru:%D0%A8%D0%B8%D0%BF%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA)
+_Pre alpha Rose Hip model_
+
+![The old Rose Hip model](../assets/Rose_Hip_icon_historic.png)
+
+_The old Rose Hip model_

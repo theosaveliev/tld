@@ -1,11 +1,6 @@
----
-title: "Tough Enough"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Tough_Enough"
----
-
 # Tough Enough
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tough_Enough)
 
 **Contents**
 
@@ -18,10 +13,10 @@ source: "https://thelongdark.fandom.com/wiki/Tough_Enough"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Tough_Enough_icon.png) / *Tough\_Enough\_icon.png* |
+|  | ![](../assets/Tough_Enough_icon.png) / _Tough\_Enough\_icon.png_ |
 | Description | Survive 25 Cougar Struggles. |
 
-**Tough Enough** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Tough Enough** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 
@@ -44,5 +39,3 @@ The requirements to unlock this achievement necessitates the player being fully 
 - Wearing a [Ballistic Vest](./Ballistic%20Vest.md) significantly lowers Condition damage to the player. Consider also wearing [Clothing](./Clothing.md) with high Protection stats.
 
 ## Trivia
-
-This achievement is a reference to the fact that the player must be quite tough to survive so many attacks from a Cougar, considering how much damage their Struggles do to the player's Condition.**Lua execution error in Module:Navbox function navbox**

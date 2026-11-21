@@ -1,17 +1,12 @@
----
-title: "Concussion"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Concussion"
----
-
 # Concussion
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Concussion)
 
 **Concussion**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Concussion_icon.png) / *Concussion\_icon.png* |
+|  | ![](../assets/Concussion_icon.png) / _Concussion\_icon.png_ |
 | Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
 | Update | 1.60 |
 | Story | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
@@ -24,7 +19,7 @@ source: "https://thelongdark.fandom.com/wiki/Concussion"
 | **Treatment** |  |
 | Treatment | No treatment needed |
 
-**Concussion** is a unique [Affliction](./Afflictions.md) in *[The Long Dark](./The%20Long%20Dark.md)* only encountered in [Wintermute](./Wintermute.md) during the mission [Fallen Star](./Fallen%20Star.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). It shares the same icon as the [Headache](./Headache.md) Affliction.
+**Concussion** is a unique [Affliction](./Afflictions.md) in _[The Long Dark](./The%20Long%20Dark.md)_ only encountered in [Wintermute](./Wintermute.md) during the mission [Fallen Star](./Fallen%20Star.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). It shares the same icon as the [Headache](./Headache.md) Affliction.
 
 ## Overview
 
@@ -38,5 +33,3 @@ Despite being a negative Affliction, Astrid diagnoses each survivor and conclude
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

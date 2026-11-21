@@ -1,11 +1,6 @@
----
-title: "Episode 5: The Light At The End Of All Things"
-wiki_namespace: 0
-categories: ["Episode 5", "Episodes"]
-source: "https://thelongdark.fandom.com/wiki/Episode_5%3A_The_Light_At_The_End_Of_All_Things"
----
-
 # Episode 5: The Light At The End Of All Things
+
+**Categories:** Episode 5, Episodes · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Episode_5%3A_The_Light_At_The_End_Of_All_Things)
 
 **Contents**
 
@@ -31,15 +26,15 @@ source: "https://thelongdark.fandom.com/wiki/Episode_5%3A_The_Light_At_The_End_O
 - [Gallery](#gallery)
 - [Trivia](#trivia)
 
-![](../assets/Episode_5_Poster.jpg)*"Separated by events on Great Bear Island, Astrid and Mackenzie struggle to make sense of The Quiet Apocalypse. In Perseverance Mills, Astrid investigates the quarantine established in the remote town. Lost in the wilderness with Jace, Mackenzie pushes on to deliver the WINTERMUTE message to Dr. Atwood.*
+![](../assets/Episode_5_Poster.jpg)_"Separated by events on Great Bear Island, Astrid and Mackenzie struggle to make sense of The Quiet Apocalypse. In Perseverance Mills, Astrid investigates the quarantine established in the remote town. Lost in the wilderness with Jace, Mackenzie pushes on to deliver the WINTERMUTE message to Dr. Atwood._
 
-*Will they finally uncover the mystery of the Aurora, and what it means for the world?"*
+_Will they finally uncover the mystery of the Aurora, and what it means for the world?"_
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
-***The Light At The End Of All Things*** is the 5th and final chapter of the [Wintermute](./Wintermute.md) story of *[The Long Dark](./The%20Long%20Dark.md)*. It is preceded by [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
+**_The Light At The End Of All Things_** is the 5th and final chapter of the [Wintermute](./Wintermute.md) story of _[The Long Dark](./The%20Long%20Dark.md)_. It is preceded by [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
-Hinterland released Episode 5 of *The Long Dark* for free to all current owners on March 31, 2026. It takes place in both the mysterious [Perseverance Mills](./Perseverance%20Mills.md) and [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) and completes the story of Mackenzie and Astrid, while also tying up most of the loose threads left within the story (including the conflict involving [Mathis](./Mathis.md) and his gang of [Convicts](./Convicts.md), the contents of [Astrid's Hardcase](./Astrid%27s%20Hardcase.md), what caused the [First Flare](./First%20Flare.md), and the message Mackenzie must carry to [Atwood](./Atwood.md), "Wintermute").
+Hinterland released Episode 5 of _The Long Dark_ for free to all current owners on March 31, 2026. It takes place in both the mysterious [Perseverance Mills](./Perseverance%20Mills.md) and [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) and completes the story of Mackenzie and Astrid, while also tying up most of the loose threads left within the story (including the conflict involving [Mathis](./Mathis.md) and his gang of [Convicts](./Convicts.md), the contents of [Astrid's Hardcase](./Astrid%27s%20Hardcase.md), what caused the [First Flare](./First%20Flare.md), and the message Mackenzie must carry to [Atwood](./Atwood.md), "Wintermute").
 
 Both Mackenzie and Astrid are playable characters in the Episode, switching perspectives between multiple parts of the story between missions.
 
@@ -53,9 +48,9 @@ Perseverance is the first chapter of Episode 5. [Astrid Greenwood](./Astrid%20Gr
 
 #### Perseverance
 
-*Main article: [Perseverance](./Perseverance.md)*
+_Main article: [Perseverance](./Perseverance.md)_
 
-"*A strange illness has taken hold in Perseverance Mils. People are missing. Investigate the town and see what you can find out.*"
+"_A strange illness has taken hold in Perseverance Mils. People are missing. Investigate the town and see what you can find out._"
 
 — In-game description
 
@@ -63,21 +58,21 @@ It is the first mission of the game. This mission starts with a conversation bet
 
 #### To Those Who Are Missing
 
-*Main article: [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md)*
+_Main article: [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md)_
 
-"*Find the Constable along the river in Perseverance Wilds.*"
+"_Find the Constable along the river in Perseverance Wilds._"
 
 — In-game description
 
 ![](../assets/Missions_story_ep5_ACryforHelp.png)
 
-*Missions\_story\_ep5\_ACryforHelp.png*
+_Missions\_story\_ep5\_ACryforHelp.png_
 
 #### A Cry For Help
 
-*Main article: [A Cry For Help](./A%20Cry%20For%20Help.md)*
+_Main article: [A Cry For Help](./A%20Cry%20For%20Help.md)_
 
-"*Investigate the strange transmission Terry intercepted.*"
+"_Investigate the strange transmission Terry intercepted._"
 
 — In-game description
 
@@ -87,21 +82,21 @@ The player plays as [Will Mackenzie](./Will%20Mackenzie.md) while accompanying [
 
 #### The Cold, Broken Road
 
-*Main article: [The Cold, Broken Road](./The%20Cold%2C%20Broken%20Road.md)*
+_Main article: [The Cold, Broken Road](./The%20Cold%2C%20Broken%20Road.md)_
 
-"*Find Atwood.*"
+"_Find Atwood._"
 
 — In-game description
 
 ![](../assets/Missions_story_ep5_HighEnergy.png)
 
-*Missions\_story\_ep5\_HighEnergy.png*
+_Missions\_story\_ep5\_HighEnergy.png_
 
 #### High Energy
 
-*Main article: [High Energy](./High%20Energy.md)*
+_Main article: [High Energy](./High%20Energy.md)_
 
-"*Activate each Substation before the aurora returns.*"
+"_Activate each Substation before the aurora returns._"
 
 — In-game description
 
@@ -111,9 +106,9 @@ The player plays as [Will Mackenzie](./Will%20Mackenzie.md) while accompanying [
 
 #### To SAR And Back
 
-*Main article: [To SAR And Back](./To%20SAR%20And%20Back.md)*
+_Main article: [To SAR And Back](./To%20SAR%20And%20Back.md)_
 
-"*Save Donner to save the townsfolk.*"
+"_Save Donner to save the townsfolk._"
 
 — In-game description
 
@@ -123,9 +118,9 @@ The player takes control of Mackenzie again for the last mission. ![Missions\_st
 
 #### Conflagration
 
-*Main article: [Conflagration](./Conflagration.md)*
+_Main article: [Conflagration](./Conflagration.md)_
 
-"*Prepare for the Quiet Apocalypse.*"
+"_Prepare for the Quiet Apocalypse._"
 
 — In-game description
 
@@ -181,15 +176,25 @@ This is the only Episode to not contain any Side Missions.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Announcement poster for Episode 5](../assets/Episode_Five_Poster.jpg) / *Announcement poster for Episode 5* | ![](../assets/Tld-april-dev-diary-lighthouse.jpg) / *Tld-april-dev-diary-lighthouse.jpg* | ![](../assets/Tld-april-dev-diary-bar-counter-view.jpg) / *Tld-april-dev-diary-bar-counter-view.jpg* | ![](../assets/Tld-april-dev-diary-balcony-view-res-resized.jpg) / *Tld-april-dev-diary-balcony-view-res-resized.jpg* |
+![Announcement poster for Episode 5](../assets/Episode_Five_Poster.jpg)
+
+_Announcement poster for Episode 5_
+
+![](../assets/Tld-april-dev-diary-lighthouse.jpg)
+
+_Tld-april-dev-diary-lighthouse.jpg_
+
+![](../assets/Tld-april-dev-diary-bar-counter-view.jpg)
+
+_Tld-april-dev-diary-bar-counter-view.jpg_
+
+![](../assets/Tld-april-dev-diary-balcony-view-res-resized.jpg)
+
+_Tld-april-dev-diary-balcony-view-res-resized.jpg_
 
 ## Trivia
 
 - In an interview with the popular YouTuber Zaknafein, Raphael van Lierop said in response to player criticisms that "Episode 5 was made for people who like Wintermute."
   - Of all five episodes, this one focuses the least on [survival](./Survival%20Mode.md), and the most on storytelling.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Режим истории: эпизод 5](ru:%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8:_%D1%8D%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4_5)

@@ -1,17 +1,12 @@
----
-title: "Soggy Note"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Soggy_Note"
----
-
 # Soggy Note
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Soggy_Note)
 
 **Soggy Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Soggy_Note_icon.png) / *Soggy\_Note\_icon.png* |
+|  | ![](../assets/Soggy_Note_icon.png) / _Soggy\_Note\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -30,7 +25,7 @@ the main mission [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.m
 
 ## Transcript
 
-*The following text is transcribed from **Soggy Note***
+_The following text is transcribed from **Soggy Note**_
 
 **\[unintelligible\]
 
@@ -48,5 +43,3 @@ Two sets of tracks -- the lake and towards the shore. Old fishing cove?**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

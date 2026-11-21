@@ -1,17 +1,12 @@
----
-title: "Quality Tools"
-wiki_namespace: 0
-categories: ["Pages with update history", "Story items", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Quality_Tools"
----
-
 # Quality Tools
+
+**Categories:** Pages with update history, Story items, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Quality_Tools)
 
 **Quality Tools**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Quality_Tools_icon.png) / *Quality\_Tools\_icon.png* |
+|  | ![](../assets/Quality_Tools_icon.png) / _Quality\_Tools\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | **Statistics** |  |
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Quality_Tools"
 | Harvest | 3 × [Scrap Metal](./Scrap%20Metal.md) 1 hour |
 | Repair | 1 × [Scrap Metal](./Scrap%20Metal.md) 20% Condition / 2 hours |
 
-> “**Good quality tools for crafting and repair.**”
+> “__Good quality tools for crafting and repair.__”
 >
 > — In-game description
 
@@ -63,9 +58,13 @@ Quality Tools are needed to craft the following item
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Old model.](../assets/Quality_tools.png) / *Old model.* | ![Model as of v2.33](../assets/Quality_tools_TFTFTpart6.jpg) / *Model as of v2.33* |
+![Old model.](../assets/Quality_tools.png)
+
+_Old model._
+
+![Model as of v2.33](../assets/Quality_tools_TFTFTpart6.jpg)
+
+_Model as of v2.33_
 
 ## Game History
 
@@ -75,7 +74,5 @@ Quality Tools are needed to craft the following item
   - Added to game.
 - UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)):**
   - Item received a new model
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Качественный инструмент](ru:%D0%9A%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82)

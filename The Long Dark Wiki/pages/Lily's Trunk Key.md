@@ -1,17 +1,12 @@
----
-title: "Lily's Trunk Key"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Lily's_Trunk_Key"
----
-
 # Lily's Trunk Key
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lily's_Trunk_Key)
 
 **Lily's Trunk Key**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Lily%27s_Trunk_Key_icon.png) / *Lily's\_Trunk\_Key\_icon.png* |
+|  | ![](../assets/Lily%27s_Trunk_Key_icon.png) / _Lily's\_Trunk\_Key\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Grey Mother](./The%20Grey%20Mother.md) |
 | **Properties** |  |
@@ -33,5 +28,3 @@ The key unlocks a blue [Trunk](./Trunk.md) upstairs in [Milton House (Grey Mothe
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

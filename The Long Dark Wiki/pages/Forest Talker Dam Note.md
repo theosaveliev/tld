@@ -1,17 +1,12 @@
----
-title: "Forest Talker Dam Note"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Dam_Note"
----
-
 # Forest Talker Dam Note
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Talker_Dam_Note)
 
 **Forest Talker Dam Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Forest_Talker_Dam_Note_icon.png) / *Forest\_Talker\_Dam\_Note\_icon.png* |
+|  | ![](../assets/Forest_Talker_Dam_Note_icon.png) / _Forest\_Talker\_Dam\_Note\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Forest_Talker_Dam_Note"
 
 ## Transcript
 
-*The following text is transcribed from **Forest Talker Dam Note***
+_The following text is transcribed from **Forest Talker Dam Note**_
 
 **Phil,
 
@@ -42,5 +37,3 @@ John.**
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

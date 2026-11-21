@@ -1,18 +1,13 @@
----
-title: "Weapon Locker"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Weapon_Locker"
----
-
 # Weapon Locker
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Weapon_Locker)
 
 **Weapon Locker**
 
 | Property | Details |
 | --- | --- |
-| \[\[File: / \| ![Closed](../assets/Weapon_Locker.jpg) / *Closed* \| ![Open](../assets/Weapon_Locker_Open.jpg) / *Open* \| / \| --- \| --- \| | 250px\]\] |
-| ![Closed](../assets/Weapon_Locker.jpg) / *Closed* | ![Open](../assets/Weapon_Locker_Open.jpg) / *Open* |
+| \[\[File: / ![Closed](../assets/Weapon_Locker.jpg) / _Closed_ / ![Open](../assets/Weapon_Locker_Open.jpg) / _Open_ | 250px\]\] |
+| ![Closed](../assets/Weapon_Locker.jpg) / _Closed_ | ![Open](../assets/Weapon_Locker_Open.jpg) / _Open_ |
 | Release | 1.60 |
 | Story item | Yes |
 
@@ -39,5 +34,3 @@ A list of potential items that spawn inside Weapon Lockers includes:
 
 - [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) Basement (Episode 3 only)
 - [Bunker Alpha](./Bunker%20Alpha.md), [Bunker Beta](./Bunker%20Beta.md), [Bunker Gamma](./Bunker%20Gamma.md), and [Bunker Omega](./Bunker%20Omega.md)
-
-**Lua execution error in Module:Navbox function navbox**

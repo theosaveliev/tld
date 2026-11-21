@@ -1,11 +1,6 @@
----
-title: "Milling Machine"
-wiki_namespace: 0
-categories: ["Interactable objects", "Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Milling_Machine"
----
-
 # Milling Machine
+
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milling_Machine)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Milling_Machine"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Milling_Machine.png) / *Milling\_Machine.png* |
+|  | ![](../assets/Milling_Machine.png) / _Milling\_Machine.png_ |
 | Release | 9 December 2019 |
 | Update | [1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64) |
 | Story item | No |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Milling_Machine"
 | **Advanced data** |  |
 | Object key | GAMEPLAY\_MillingMachine |
 
-The **Milling Machine** is a workstation used for repairs in *[The Long Dark](./The%20Long%20Dark.md).* It was introduced in the Errant Pilgrim update.
+The **Milling Machine** is a workstation used for repairs in _[The Long Dark](./The%20Long%20Dark.md)._ It was introduced in the Errant Pilgrim update.
 
 ## Overview
 
@@ -99,9 +94,22 @@ Caution should be taken inside of the Last Resort Cannery Workshop during an Aur
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![The ammunition workbench and milling machine](../assets/SS-BI-Workshop02.jpg) / *The ammunition workbench and milling machine* | ![milling machine](../assets/Milling_machine_%281%29.jpg) / *milling machine* | ![milling machine](../assets/Milling_machine_%282%29.jpg) / *milling machine* | ![An early cut Milling Machine found in the Predux Episode 2](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) / *An early cut Milling Machine found in the Predux Episode 2* |
-| ![Concept art of the Workshop and the Milling Machine](../assets/Workshop_Milling_Machine_Key-Art.png) / *Concept art of the [Workshop](./Workshop.md) and the [Milling Machine](./Milling%20Machine.md)* |  |  |  |
+![The ammunition workbench and milling machine](../assets/SS-BI-Workshop02.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Фрезерный станок](ru:%D0%A4%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%BA)
+_The ammunition workbench and milling machine_
+
+![milling machine](../assets/Milling_machine_%281%29.jpg)
+
+_milling machine_
+
+![milling machine](../assets/Milling_machine_%282%29.jpg)
+
+_milling machine_
+
+![An early cut Milling Machine found in the Predux Episode 2](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png)
+
+_An early cut Milling Machine found in the Predux Episode 2_
+
+![Concept art of the Workshop and the Milling Machine](../assets/Workshop_Milling_Machine_Key-Art.png)
+
+_Concept art of the [Workshop](./Workshop.md) and the [Milling Machine](./Milling%20Machine.md)_

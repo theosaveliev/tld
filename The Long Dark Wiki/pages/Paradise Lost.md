@@ -1,11 +1,6 @@
----
-title: "Paradise Lost"
-wiki_namespace: 0
-categories: ["Episode 1"]
-source: "https://thelongdark.fandom.com/wiki/Paradise_Lost"
----
-
 # Paradise Lost
+
+**Categories:** Episode 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Paradise_Lost)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Paradise_Lost"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Paradise_Lost.png) / *Paradise\_Lost.png* |
+|  | ![](../assets/Paradise_Lost.png) / _Paradise\_Lost.png_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Previous | [The Grey Mother](./The%20Grey%20Mother.md) |
 | Current | Paradise Lost |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Paradise_Lost"
 
 **Template:spoiler**
 
-> “**It Looks like Astrid made it out of Milton. Continue your search beyond the town's borders.**”
+> “__It Looks like Astrid made it out of Milton. Continue your search beyond the town's borders.__”
 >
 > — In-game description
 
@@ -55,5 +50,3 @@ Continue exploring and find a rope going back up another rock wall on the other 
 ## Trivia
 
 - The title "Paradise Lost" is a reference to the epic poem of the same name by John Milton, and thus a play on the name of the town the episode mostly takes place in.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Режим истории: эпизод 1#Глава 4. Потерянный рай](ru:%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8:_%D1%8D%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4_1#%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_4._%D0%9F%D0%BE%D1%82%D0%B5%D1%80%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B9)

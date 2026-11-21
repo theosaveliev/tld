@@ -1,17 +1,12 @@
----
-title: "Hank's Lock Box Key"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Hank's_Lock_Box_Key"
----
-
 # Hank's Lock Box Key
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hank's_Lock_Box_Key)
 
 **Hank's Lock Box Key**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hank%27s_Lock_Box_Key_icon.png) / *Hank's\_Lock\_Box\_Key\_icon.png* |
+|  | ![](../assets/Hank%27s_Lock_Box_Key_icon.png) / _Hank's\_Lock\_Box\_Key\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Hank's Hatch](./Hank%27s%20Hatch.md) |
 | **Properties** |  |
@@ -31,5 +26,3 @@ source: "https://thelongdark.fandom.com/wiki/Hank's_Lock_Box_Key"
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

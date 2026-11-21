@@ -1,11 +1,6 @@
----
-title: "Weakened State"
-wiki_namespace: 0
-categories: ["Afflictions", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Weakened_State"
----
-
 # Weakened State
+
+**Categories:** Afflictions, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Weakened_State)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Weakened_State"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Weakened_State_icon.png) / *Weakened\_State\_icon.png* |
+|  | ![](../assets/Weakened_State_icon.png) / _Weakened\_State\_icon.png_ |
 | Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
 | Update | 2.28 |
 | **Properties** |  |
@@ -35,7 +30,7 @@ source: "https://thelongdark.fandom.com/wiki/Weakened_State"
 
 ## Overview
 
-> “**You are weakened. For a time, your Condition will recover more slowly and your Stamina will drain more quickly.**”
+> “__You are weakened. For a time, your Condition will recover more slowly and your Stamina will drain more quickly.__”
 >
 > — In-game Description
 
@@ -65,8 +60,6 @@ The Recovery Time for this Affliction is different for each Experience (Cheat De
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**[ru:Ослабленное состояние](ru:%D0%9E%D1%81%D0%BB%D0%B0%D0%B1%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5)
 
 ## Notes
 

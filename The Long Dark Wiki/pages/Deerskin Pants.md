@@ -1,11 +1,6 @@
----
-title: "Deerskin Pants"
-wiki_namespace: 0
-categories: ["Clothing", "Craftable clothing", "Pages with update history", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Deerskin_Pants"
----
-
 # Deerskin Pants
+
+**Categories:** Clothing, Craftable clothing, Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Deerskin_Pants)
 
 **Contents**
 
@@ -19,7 +14,7 @@ source: "https://thelongdark.fandom.com/wiki/Deerskin_Pants"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Deerskin_Pants_icon.png) / *Deerskin\_Pants\_icon.png* |
+|  | ![](../assets/Deerskin_Pants_icon.png) / _Deerskin\_Pants\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | Clothing Slot | Outer legs |
@@ -33,7 +28,7 @@ source: "https://thelongdark.fandom.com/wiki/Deerskin_Pants"
 | Harvest | 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / 30 minutes |
 | Repair | 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 100 minutes / 30% condition |
 
-> “**Warm, supple, and tough. Offers a great combination of mobility and warmth. Wear these to feel like the Mad Max of the North.**”
+> “__Warm, supple, and tough. Offers a great combination of mobility and warmth. Wear these to feel like the Mad Max of the North.__”
 >
 > — In-game description
 
@@ -41,7 +36,7 @@ source: "https://thelongdark.fandom.com/wiki/Deerskin_Pants"
 
 ## Overview
 
-Deerskin Pants are less warm compared to [Deerskin Boots](./Deerskin%20Boots.md), yet require more materials to craft. However, in an early [Interloper](./Interloper.md) game when the player has only a single pair of [Jeans](./Jeans.md), crafting the deerskin pants may be slightly preferable because they can be *added* onto the player's existing outfit (two slots for outer legs), whereas using the Deerskin Boots would require swapping out whatever boots the player is already wearing.
+Deerskin Pants are less warm compared to [Deerskin Boots](./Deerskin%20Boots.md), yet require more materials to craft. However, in an early [Interloper](./Interloper.md) game when the player has only a single pair of [Jeans](./Jeans.md), crafting the deerskin pants may be slightly preferable because they can be _added_ onto the player's existing outfit (two slots for outer legs), whereas using the Deerskin Boots would require swapping out whatever boots the player is already wearing.
 
 They offer the highest protection, water- and windproofing bonuses of all available outer legwear and are only surpassed by the rare [Snow Pants](./Snow%20Pants.md) and the hard to obtain [Wolfskin Pants](./Wolfskin%20Pants.md) in terms of warmth. They are, however, also second only to Wolfskin Pants in terms of weight, and are tied for both the worst warmth-to-weight ratio and mobility penalty.
 
@@ -75,13 +70,19 @@ They are possible to obtain reliably and relatively early in the game by harvest
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Clothing model icon](../assets/Deerskin_Pants_Model_icon.png) / *Clothing model icon* | ![Clothing model icon damaged](../assets/Deerskin_Pants_Model_Damaged_icon.png) / *Clothing model icon damaged* | ![Old model.](../assets/Deerskin_pants_%28historical%29.png) / *Old model.* |
+![Clothing model icon](../assets/Deerskin_Pants_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon damaged](../assets/Deerskin_Pants_Model_Damaged_icon.png)
+
+_Clothing model icon damaged_
+
+![Old model.](../assets/Deerskin_pants_%28historical%29.png)
+
+_Old model._
 
 ## Game history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Штаны из оленьей кожи](ru:%D0%A8%D1%82%D0%B0%D0%BD%D1%8B_%D0%B8%D0%B7_%D0%BE%D0%BB%D0%B5%D0%BD%D1%8C%D0%B5%D0%B9_%D0%BA%D0%BE%D0%B6%D0%B8)

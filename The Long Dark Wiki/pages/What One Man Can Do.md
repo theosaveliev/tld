@@ -1,17 +1,12 @@
----
-title: "What One Man Can Do"
-wiki_namespace: 0
-categories: ["Episode 2"]
-source: "https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do"
----
-
 # What One Man Can Do
+
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do)
 
 **What One Man Can Do**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Missions_story_ep2_What_One_Man_Can_Do.png) / *Missions\_story\_ep2\_What\_One\_Man\_Can\_Do.png* |
+|  | ![](../assets/Missions_story_ep2_What_One_Man_Can_Do.png) / _Missions\_story\_ep2\_What\_One\_Man\_Can\_Do.png_ |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
 | Previous | [Signal to Noise](./Signal%20to%20Noise.md) |
 | Current | What One Man Can Do |
@@ -21,7 +16,7 @@ source: "https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do"
 
 **Template:spoiler**
 
-> “**The Old Bear has dragged Mackenzie to its lair. Will he put the legendary bear's story to an end?**”
+> “__The Old Bear has dragged Mackenzie to its lair. Will he put the legendary bear's story to an end?__”
 >
 > — In-game description
 
@@ -46,5 +41,3 @@ Mackenzie ultimately succeeds in finding the spear and killing the beast, lament
 ## Trivia
 
 - The title is a reference to the 1997 film The Edge, starring Anthony Hopkins and Alec Baldwin. In the film, a bear is stalking three men after their floatplane crashes in the Alaskan wilderness.
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**

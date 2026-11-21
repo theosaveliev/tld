@@ -1,17 +1,12 @@
----
-title: "Broken Bear Spear"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Broken_Bear_Spear"
----
-
 # Broken Bear Spear
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Broken_Bear_Spear)
 
 **Broken Bear Spear**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Broken_Bear_Spear_icon.png) / *Broken\_Bear\_Spear\_icon.png* |
+|  | ![](../assets/Broken_Bear_Spear_icon.png) / _Broken\_Bear\_Spear\_icon.png_ |
 | Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Best Defense](./The%20Best%20Defense.md) |
 | **Properties** |  |
@@ -24,7 +19,7 @@ source: "https://thelongdark.fandom.com/wiki/Broken_Bear_Spear"
 | Backpack | Examine |
 | On ground | Take It, Leave It |
 
-> “**Damn...looks like one little detail got missed in the trapper's "legend" of the old bear: The spear didn't survive the fight. Must be something I can use to fix it at the old machine shed.**”
+> “__Damn...looks like one little detail got missed in the trapper's "legend" of the old bear: The spear didn't survive the fight. Must be something I can use to fix it at the old machine shed.__”
 >
 > — Mackenzie
 
@@ -40,9 +35,13 @@ It can be spawned via Console Commands in Survival Mode, but cannot be found oth
 
 Despite being unable to be broken down in Wintermute, a harvest option is present. Harvesting the Broken Bear Spear generates 1 [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) and 1 [Scrap Metal](./Scrap%20Metal.md).
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![The spear at the Hunting Lodge](../assets/Broken_Bear_Spear_Fireplace.jpg) / *The spear at the Hunting Lodge* | ![Mackenzie picking up the spear](../assets/Bear_spear_hunting_lodge.jpg) / *Mackenzie picking up the spear* |
+![The spear at the Hunting Lodge](../assets/Broken_Bear_Spear_Fireplace.jpg)
+
+_The spear at the Hunting Lodge_
+
+![Mackenzie picking up the spear](../assets/Bear_spear_hunting_lodge.jpg)
+
+_Mackenzie picking up the spear_
 
 ## Update history
 
@@ -50,5 +49,3 @@ Despite being unable to be broken down in Wintermute, a harvest option is presen
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

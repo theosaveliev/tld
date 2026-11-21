@@ -1,11 +1,6 @@
----
-title: "The Long Dark/Early Access Changelog"
-wiki_namespace: 0
-categories: ["The Long Dark"]
-source: "https://thelongdark.fandom.com/wiki/The_Long_Dark%2FEarly_Access_Changelog"
----
-
 # The Long Dark/Early Access Changelog
+
+**Categories:** The Long Dark · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Long_Dark%2FEarly_Access_Changelog)
 
 **Contents**
 
@@ -105,13 +100,13 @@ source: "https://thelongdark.fandom.com/wiki/The_Long_Dark%2FEarly_Access_Change
 - [0.074](#0074)
 - [0.073](#0073)
 
-This is a changelog for early access versions of *[The Long Dark](./The%20Long%20Dark.md)*.
+This is a changelog for early access versions of _[The Long Dark](./The%20Long%20Dark.md)_.
 
-*For the changelog of current, stable releases, see [The Long Dark/Changelog](./The%20Long%20Dark%20%E2%80%94%20Changelog.md).*
+_For the changelog of current, stable releases, see [The Long Dark/Changelog](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)._
 
-*For the changelog for versions 1.50 to 1.99, see [The Long Dark/Changelog/Archive 2](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md).*
+_For the changelog for versions 1.50 to 1.99, see [The Long Dark/Changelog/Archive 2](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md)._
 
-*For the changelog for versions 1.00 to 1.49, see [The Long Dark/Changelog/Archive 1](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md).*
+_For the changelog for versions 1.00 to 1.49, see [The Long Dark/Changelog/Archive 1](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md)._
 
 ### 0.426
 
@@ -1642,7 +1637,7 @@ We hope you enjoy the updated game! Happy Holidays to all of you, and all the be
 
 Here is the changelist for v.181 of The Long Dark Sandbox:
 
-*NOTE: All gameplay tuning is WIP. Balance issues and bugs will be addressed in hotfixes. All current savegames should remain valid after the v.181 update.*
+_NOTE: All gameplay tuning is WIP. Balance issues and bugs will be addressed in hotfixes. All current savegames should remain valid after the v.181 update._
 
 - Added Experience Modes to the game: Pilgrim, Voyageur, Stalker. Players can now select their preferred experience, between Exploration-focused, Survival-focused, or a balance. Wildlife presence, Supply availability, item decay, and Condition effects have been tuned per experience mode.
 - Complete overhaul of Supply distribution, to ensure key Tools can be found. General availability of Clothing and Food has been reduced (outside of Pilgrim).

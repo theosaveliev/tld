@@ -1,23 +1,18 @@
----
-title: "Lily's Map"
-wiki_namespace: 0
-categories: ["Pages with update history", "Story items"]
-source: "https://thelongdark.fandom.com/wiki/Lily's_Map"
----
-
 # Lily's Map
+
+**Categories:** Pages with update history, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Lily's_Map)
 
 **Lily's Map**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Lily%27s_Map_icon.png) / *Lily's\_Map\_icon.png* |
+|  | ![](../assets/Lily%27s_Map_icon.png) / _Lily's\_Map\_icon.png_ |
 | **General** |  |
 | Item Type |  |
 | Wintermute | Yes\|- |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.0 kg(0 lbs) |
 
-> “**A map that shows Lily's climbing route, leading out of the Milton area.**”
+> “__A map that shows Lily's climbing route, leading out of the Milton area.__”
 >
 > — In-game description
 
@@ -31,5 +26,3 @@ The map outlines the route that the player can take to leave [Milton](./Milton.m
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Dr. Rüdiger"
-wiki_namespace: 0
-categories: ["Article stubs"]
-source: "https://thelongdark.fandom.com/wiki/Dr._R%C3%BCdiger"
----
-
 # Dr\. Rüdiger
+
+**Categories:** Article stubs · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Dr._R%C3%BCdiger)
 
 **Contents**
 
@@ -20,7 +15,7 @@ source: "https://thelongdark.fandom.com/wiki/Dr._R%C3%BCdiger"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/No_picture.png) / *No\_picture.png* |
+|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
 | Release | 2.03 |
 | Date | 5 December 2022 |
 | Mission | [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) / [Last Horizon](./Last%20Horizon.md) |
@@ -35,11 +30,11 @@ source: "https://thelongdark.fandom.com/wiki/Dr._R%C3%BCdiger"
 | **Game Information** |  |
 | Equipment | [Rüdiger's Watch](./R%C3%BCdiger%27s%20Watch.md) |
 
-**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
 
-**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Dr.+R%C3%BCdiger&amp;action=edit expanding it\].**
+**Stub:**__This article is a stub. You can help by \[//dummy.host/index.php?title=Dr.+R%C3%BCdiger&amp;action=edit expanding it\].__
 
-> “**A different world is coming. I am certain of it. And I will be prepared.**”
+> “__A different world is coming. I am certain of it. And I will be prepared.__”
 >
 > — It is only a matter of WHEN, and it is in uncovering the WHEN that I will define my own moment. Once again. I have seen the new horizon. [My Testament](./My%20Testament.md)
 
@@ -65,8 +60,6 @@ source: "https://thelongdark.fandom.com/wiki/Dr._R%C3%BCdiger"
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![The man's fate at the end of Last Horizon, long since perished.](../assets/R%C3%BCdiger%27s_fate.jpg) / *The man's fate at the end of [Last Horizon](./Last%20Horizon.md), long since perished.* |
+![The man's fate at the end of Last Horizon, long since perished.](../assets/R%C3%BCdiger%27s_fate.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Рюдигер](ru:%D0%A0%D1%8E%D0%B4%D0%B8%D0%B3%D0%B5%D1%80)
+_The man's fate at the end of [Last Horizon](./Last%20Horizon.md), long since perished._

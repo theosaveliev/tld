@@ -1,11 +1,6 @@
----
-title: "Sutherland's Tale"
-wiki_namespace: 0
-categories: ["DLC Content"]
-source: "https://thelongdark.fandom.com/wiki/Sutherland's_Tale"
----
-
 # Sutherland's Tale
+
+**Categories:** DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sutherland's_Tale)
 
 **Contents**
 
@@ -49,19 +44,19 @@ source: "https://thelongdark.fandom.com/wiki/Sutherland's_Tale"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Trader_Journal_Background.png) / *Trader\_Journal\_Background.png* |
+|  | ![](../assets/Trader_Journal_Background.png) / _Trader\_Journal\_Background.png_ |
 | **Missions** |  |
 | Previous | [Last Horizon](./Last%20Horizon.md) |
 | Current | Sutherland's Tale |
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / *Ptarmigan\_icon.png* | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | **We all get to to tell our own stories, right? This is mine.** / Sutherland the Trader | ” |
+| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __We all get to to tell our own stories, right? This is mine.__ / Sutherland the Trader | ” |
 
 **Sutherland's Tale** is the fourth and final [Tale](./Tales.md) released for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon in [Survival Mode](./Survival%20Mode.md). Completing this Tale is not needed to unlock the [Rüdiger's Dream](./R%C3%BCdiger%27s%20Dream.md) Achievement.
 
-** *SPOILER WARNING*  
- *This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark.* **
+** _SPOILER WARNING_  
+ _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._ **
 
 ## Objectives
 
@@ -90,7 +85,7 @@ The objectives for this Tale do not show up in the Journal menu, so it is consid
   - The Hunting Cache, needed for Special Request 2, can be identified as it is the only one with an L-shaped layout[³](#fn3).
   - The Conspiracy Cache, needed for Special Request 3, can be identified as it is the only one that has a corridor with red-painted walls[⁴](#fn4).
 - Because the location of the 3 special caches is random, you will have to check each cache one by one until you find all three stocked ones. The location of the Prepper's Abandoned Cache involved in Special Requests 4 and 5 is always fixed in Pleasant Valley near the rope climb to Timberwolf Mountain.
-  - NOTE that *you must accept the Special Request trade* in order for the Loose Bricks Stash to be accessible in its respective Prepper Cache as the Tale progresses. You cannot loot Brick Stashes ahead of time.
+  - NOTE that _you must accept the Special Request trade_ in order for the Loose Bricks Stash to be accessible in its respective Prepper Cache as the Tale progresses. You cannot loot Brick Stashes ahead of time.
 - Just finishing Sutherland's last special request is not enough to unlock the [Goods and Services](./Goods%20and%20Services.md) achievement (Gain maximum trust with the trader).
 - Completing this Tale will involve a lot of travelling. Ensure you have good warm clothes for travelling. Prioritize light, calorie-dense foods and keep [Scent](./Scent.md) low to minimize encounters with dangerous wildlife. [Coffee](./Tin%20of%20Coffee.md) can help with fatigue management.
   - Most of the caches can be easily accessed within a day's walk from [Coastal Highway](./Coastal%20Highway.md), though it may be a long day of walking to the caches at [Blackrock](./Blackrock.md), [Hushed River Valley](./Hushed%20River%20Valley.md), and [Ash Canyon](./Ash%20Canyon.md).
@@ -179,9 +174,9 @@ Return "A Skeleton And Note" to the Trader by placing it in the Trade Drop Box, 
 
 Sutherland finally remembers that his brother has been dead for many decades now, and requests that the player return him back to the Abandoned Prepper's Cache, then to seal it up so that he may be at rest. He mentions the failsafe made into the bunker from all the notes you have found and to bring back evidence that you properly laid Wyatt to rest. Return to the Trade Drop Box to find that a [Metal Container](./Metal%20Container.md) has been placed next to the Box, and that the "A Skeleton And Note" has been returned as "[Wyatt's Skeleton](./Wyatt%27s%20Skeleton.md)". Take Wyatt's Skeleton from the Trade Drop Box and bring a [Wire Bundle](./Wires.md) with you for later. Make your way back to Joplin's Cache in Pleasant Valley and head into the hidden room you previously opened.
 
-**WARNING:** Loot/Harvest anything you want from inside Joplin's Cache BEFORE finishing the next step, as this Cache will be ***PERMENANTLY INACCESSIBLE ONCE YOU LEAVE!*** (This includes losing access to the [Work Bench](./Work%20Bench.md)).
+**WARNING:** Loot/Harvest anything you want from inside Joplin's Cache BEFORE finishing the next step, as this Cache will be **_PERMENANTLY INACCESSIBLE ONCE YOU LEAVE!_** (This includes losing access to the [Work Bench](./Work%20Bench.md)).
 
-A panel on the wall can be interacted in the hidden room stating "Set demolition charge and place Wyatt's bones". Interacting with it will display the message "Rigging..." and places Wyatt's Skeleton back onto the floor. ***Once you leave the Cache***, an explosion occurs as the hatch is shut and locked behind you. The screen will be black, with the Survivor lying on the ground and slowly waking up. The entrance to the Cache is now destroyed and the bunker's [Broken Hatch Wheel](./Broken%20Hatch%20Wheel.md) is lying in the snow.
+A panel on the wall can be interacted in the hidden room stating "Set demolition charge and place Wyatt's bones". Interacting with it will display the message "Rigging..." and places Wyatt's Skeleton back onto the floor. **_Once you leave the Cache_**, an explosion occurs as the hatch is shut and locked behind you. The screen will be black, with the Survivor lying on the ground and slowly waking up. The entrance to the Cache is now destroyed and the bunker's [Broken Hatch Wheel](./Broken%20Hatch%20Wheel.md) is lying in the snow.
 
 Return the Broken Hatch Wheel to the Trader by placing it in the Trade Drop Box, thus fulfilling his Special Request trade. Then talk to him on the radio after obtaining your reward ([Heavy Hammer](./Heavy%20Hammer.md)). Sutherland is relieved that his brother is at rest again, and mentions how unbelievable it is how he forgot about his death.
 
@@ -195,9 +190,9 @@ From this point onwards, the Tale ends but the player can continue to trade to g
 
 ### Initial Contact
 
-*As the Survivor scours the Island for resources to survive, they come across yellow Radios with a microphone and antenna near them. They do nothing, even when powered, so the Survivor ignores them, seeing how most electronics don't work correctly anymore ever since their plane crashed. One night however, they pass by a powered Radio and hear a voice.*
+_As the Survivor scours the Island for resources to survive, they come across yellow Radios with a microphone and antenna near them. They do nothing, even when powered, so the Survivor ignores them, seeing how most electronics don't work correctly anymore ever since their plane crashed. One night however, they pass by a powered Radio and hear a voice._
 
-*The Trader has several voice lines the first time he speaks, revealing that he has spent all this time repairing his own Radio. (Note that these voice lines are all randomized and can be spoken in any order)*
+_The Trader has several voice lines the first time he speaks, revealing that he has spent all this time repairing his own Radio. (Note that these voice lines are all randomized and can be spoken in any order)_
 
 Trader:
 
@@ -225,11 +220,11 @@ Trader:
 - "Can't seem to get this contraption to...hmm"
 - "Just give it another go...somethin's different this time...seems to have some juice ..."
 
-*After finally getting over the shock that there is in fact another voice alive in this world, the Survivor picks up the microphone to talk to the person on the radio. The man on the radio slowly realizes that someone else is on his frequency.*
+_After finally getting over the shock that there is in fact another voice alive in this world, the Survivor picks up the microphone to talk to the person on the radio. The man on the radio slowly realizes that someone else is on his frequency._
 
 Trader: "Wha... what the hell? Someone there? Hey...uh...hello? Uh...radio check...uh...go ahead? You better say somethin' or getting' this damn thing fixed was all a waste of time. Come in. I say again. Come in."
 
-*Floating text appears overhead*
+_Floating text appears overhead_
 
 - Who are you?
 
@@ -247,11 +242,11 @@ Trader: "Things are gettin' a little...thin out here in the dark. I've got some 
 
 Trader: "There's...a place. A little island off Coastal Highway. A dock. An old storage box of mine. We can use that to trade. You keep your distance, and I'll do the same. Got it?"
 
-*From this point on, the option to Trade is opened up.*
+_From this point on, the option to Trade is opened up._
 
 ### Trader Request 1
 
-*After completing 5 trades (it does not matter what or how much is requested), two special blue Conversation topics appears.*
+_After completing 5 trades (it does not matter what or how much is requested), two special blue Conversation topics appears._
 
 - Help?
 
@@ -261,7 +256,7 @@ Trader: "All this driftin' on the water...makes my mind go places. And thanks to
 
 Trader: "Find my brother. Wyatt. He hasn't checked in since it all went dark. He runs with this group of preppers. Bad guys, his crew, but they look up to him. There were always three that followed Wyatt around. Stockpiles, hunters, conspiracy nuts. Maybe you know the type? Hehe. Their old bunkers would be a good place to start lookin' for him. One of the guys had half-a-brain, unlike the other two who were caught up in mounting heads on the wall or scribbling crazy theories. I'd start with him, the half-a-brain survivalist. Bring me any signs of Wyatt you can find. Somethin' squirreled away out of sight. A loose brick, you get the idea. Those idiots thought they were so damn clever. Ya do that, and I'll start sharing my best stuff with you. And if you don't...well, good luck, pal."
 
-*The survivor then signals a trade to Sutherland, "Special Request, search for signs of Wyatt." The survivor scours the island, looking for [Prepper Caches](./Prepper%20Cache.md) until they find the "Stockpile" Themed bunker. Looking inside, they find something inside some [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) in the wall to find [Document Stash 1](./Document%20Stash%201.md). Placing this item in the [Trade Drop Box](./Trade%20Drop%20Box.md). The survivor radios Sutherland to confirm the trade, and receives a [Mackinaw Jacket](./Mackinaw%20Jacket.md). After a few hours, the survivor speaks to Sutherland again.*
+_The survivor then signals a trade to Sutherland, "Special Request, search for signs of Wyatt." The survivor scours the island, looking for [Prepper Caches](./Prepper%20Cache.md) until they find the "Stockpile" Themed bunker. Looking inside, they find something inside some [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) in the wall to find [Document Stash 1](./Document%20Stash%201.md). Placing this item in the [Trade Drop Box](./Trade%20Drop%20Box.md). The survivor radios Sutherland to confirm the trade, and receives a [Mackinaw Jacket](./Mackinaw%20Jacket.md). After a few hours, the survivor speaks to Sutherland again._
 
 ### Trader Request 2
 
@@ -269,7 +264,7 @@ Trader: "Find my brother. Wyatt. He hasn't checked in since it all went dark. He
 
 Trader: "You found some of my brother's old papers. He was always writing. Drawing up new plans, new designs. In the old days his crew saw him as some kind of half-assed, end-of-the-world poet. I guess Wyatt's dead-brain buddy must have had some reason for keeping them. The schematics, sure, they'd need those for any repairs. But the other papers? Anyway. That don't tell us where they went. But those guys were useless without Wyatt...weren't they? Keep looking. If I were you I'd try the trophy hunter next. Wyatt always kept some of his guns with him."
 
-*The survivor then signals a trade to Sutherland, "Special Request, search for signs of Wyatt." The survivor scours the island again until they find the "Hunter" Themed bunker. Looking inside, they find something inside some [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) in the wall to find [Document Stash 2](./Document%20Stash%202.md). Placing this item in the [Trade Drop Box](./Trade%20Drop%20Box.md). The survivor radios Sutherland to confirm the trade, and receives 3 [Arrowheads](./Arrowhead.md). After a few hours, the survivor speaks to Sutherland again.*
+_The survivor then signals a trade to Sutherland, "Special Request, search for signs of Wyatt." The survivor scours the island again until they find the "Hunter" Themed bunker. Looking inside, they find something inside some [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) in the wall to find [Document Stash 2](./Document%20Stash%202.md). Placing this item in the [Trade Drop Box](./Trade%20Drop%20Box.md). The survivor radios Sutherland to confirm the trade, and receives 3 [Arrowheads](./Arrowhead.md). After a few hours, the survivor speaks to Sutherland again._
 
 ### Trader Request 3
 
@@ -277,7 +272,7 @@ Trader: "You found some of my brother's old papers. He was always writing. Drawi
 
 Trader: "These papers you found...it looks like Wyatt's handwriting but... Those schematics show he did it. How the bunkers work, how they keep people safe inside. Explosives. Not really Wyatt's style, but his crew were pushing for it. And pushing him. Maniacs, all of them. I...I remember there was some big problem they ran into with the hatches. They were yellin', screamin' about it. When was that...? I can't seem to keep track of things right now. Things are fadin' in and out. Like an old radio... Don't matter. Now there's one more bunker to check. The conspiracy nut. I'm not sure why Wyatt kept him around, but he did."
 
-*The survivor then signals a trade to Sutherland, "Special Request, search for signs of Wyatt." The survivor scours the island again until they find the "Conspiracy" Themed bunker. Looking inside, they find something inside some [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) in the wall to find [Document Stash 3](./Document%20Stash%203.md). Placing this item in the [Trade Drop Box](./Trade%20Drop%20Box.md). The survivor radios Sutherland to confirm the trade, and receives an [Improvised Knife](./Improvised%20Knife.md). After a few hours, the survivor speaks to Sutherland again.*
+_The survivor then signals a trade to Sutherland, "Special Request, search for signs of Wyatt." The survivor scours the island again until they find the "Conspiracy" Themed bunker. Looking inside, they find something inside some [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) in the wall to find [Document Stash 3](./Document%20Stash%203.md). Placing this item in the [Trade Drop Box](./Trade%20Drop%20Box.md). The survivor radios Sutherland to confirm the trade, and receives an [Improvised Knife](./Improvised%20Knife.md). After a few hours, the survivor speaks to Sutherland again._
 
 ### Trader Request 4
 
@@ -289,7 +284,7 @@ Trader: "I...I do remember they were planning some big meetup. But when was it..
 
 Trader: "There's one more bunker you can check. One of old man Joplin's in Pleasant Valley. On the way to Timberwolf. He wasn't in their crew, but Wyatt set up his prepper caches. Th...there might be something there. It's like an itch I can't scratch. Not sure why I can't get it out of my head now. Let me know what you find."
 
-*The survivor then signals a trade to Sutherland, "Special Request, search for signs of Wyatt." The survivor heads to [Pleasant Valley](./Pleasant%20Valley.md) and finds the [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md), where they find [Wyatt's Skeleton](./Wyatt%27s%20Skeleton.md). Placing this item in the [Trade Drop Box](./Trade%20Drop%20Box.md). The survivor radios Sutherland to confirm the trade, and receives a [Hockey Jersey](./Hockey%20Jersey.md). After a few hours, the survivor speaks to Sutherland again.*
+_The survivor then signals a trade to Sutherland, "Special Request, search for signs of Wyatt." The survivor heads to [Pleasant Valley](./Pleasant%20Valley.md) and finds the [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md), where they find [Wyatt's Skeleton](./Wyatt%27s%20Skeleton.md). Placing this item in the [Trade Drop Box](./Trade%20Drop%20Box.md). The survivor radios Sutherland to confirm the trade, and receives a [Hockey Jersey](./Hockey%20Jersey.md). After a few hours, the survivor speaks to Sutherland again._
 
 ### Trader Request 5
 
@@ -301,13 +296,13 @@ Trader: "I guess I knew, but I didn't know I knew it. That don't make any sense,
 
 Trader: "Yeah. Joplin's bunker, in Pleasant Valley. Take him back, my brother. I...I mean what's left of him. His remains. Go back, put him back to rest, and then seal it up. The whole damn thing. Blow the hatch, just like in those old schematics. You read em', right? Bring some wire, look for an exposed switch, and you tie that sucker off. It should do the job when you close up the hatch. Let me know when you get the job done, I mean a piece of the hatch is good enough. Just something I can keep on my boat. And we'll be all square, you and me."
 
-*The survivor then signals a trade to Sutherland, "Special Request, Destroy the Abandoned Prepper Cache." The survivor heads to [Pleasant Valley](./Pleasant%20Valley.md) and finds the Prepper's Abandoned Cache again, places Wyatt's remains inside, and destroys the hatch, taking the [Broken Hatch Wheel](./Broken%20Hatch%20Wheel.md). Placing this item in the [Trade Drop Box](./Trade%20Drop%20Box.md). The survivor radios Sutherland to confirm the trade, and receives a [Heavy Hammer](./Heavy%20Hammer.md). After a few hours, the survivor speaks to Sutherland again.*
+_The survivor then signals a trade to Sutherland, "Special Request, Destroy the Abandoned Prepper Cache." The survivor heads to [Pleasant Valley](./Pleasant%20Valley.md) and finds the Prepper's Abandoned Cache again, places Wyatt's remains inside, and destroys the hatch, taking the [Broken Hatch Wheel](./Broken%20Hatch%20Wheel.md). Placing this item in the [Trade Drop Box](./Trade%20Drop%20Box.md). The survivor radios Sutherland to confirm the trade, and receives a [Heavy Hammer](./Heavy%20Hammer.md). After a few hours, the survivor speaks to Sutherland again._
 
 - Your brother?
 
 Trader: "You're back. Well, if anything in this new world makes sense, it's leavin' him there to rest. Brain fog's clearin' a bit, thanks to you. Who would believe any of this shit? Don't matter. I'll be around. For now."
 
-*This completes Sutherland's Tale*
+_This completes Sutherland's Tale_
 
 ## Basic Trader Dialogue
 
@@ -340,7 +335,7 @@ Trader:
 
 - Signal Trader to Complete Trade
 
-*What sounds like Morse code plays before the Trader speaks*
+_What sounds like Morse code plays before the Trader speaks_
 
 Trader:
 
@@ -376,7 +371,7 @@ Trader:
 
 ### Greeting the Trader
 
-*When picking up the Radio after first meeting him, the Trader has these voice lines*
+_When picking up the Radio after first meeting him, the Trader has these voice lines_
 
 Trader:
 
@@ -391,11 +386,11 @@ Trader:
 - "Back for more, huh?"
 - "Bargain or bail, friend, I ain't got all day."
 
-*If angered by being called repeatedly on the same night (calling more than 3 times), Sutherland reuses the previous voice lines but his tone changes to a negative one.*
+_If angered by being called repeatedly on the same night (calling more than 3 times), Sutherland reuses the previous voice lines but his tone changes to a negative one._
 
 ### End Call
 
-*Choosing this option always ends the call with the Trader*
+_Choosing this option always ends the call with the Trader_
 
 - End Call
 
@@ -415,11 +410,11 @@ Trader:
 - "Ok then."
 - "See you, I guess."
 
-*If angered by being called repeatedly on the same night (calling more than 3 times), Sutherland reuses the previous voice lines but his tone changes to a negative one.*
+_If angered by being called repeatedly on the same night (calling more than 3 times), Sutherland reuses the previous voice lines but his tone changes to a negative one._
 
 ### Idle Chatter
 
-*These lines play after the player first meets the Trader. He will voice these lines trying to get the player's attention once the Radio is powered again and he is ready to start a new trade again. He always sounds angry with low trust, even if the player has not angered him (his voice lines eventually sound more friendly the more you complete his Tale).*
+_These lines play after the player first meets the Trader. He will voice these lines trying to get the player's attention once the Radio is powered again and he is ready to start a new trade again. He always sounds angry with low trust, even if the player has not angered him (his voice lines eventually sound more friendly the more you complete his Tale)._
 
 Trader:
 
@@ -439,7 +434,7 @@ Trader:
 
 ## Conversations
 
-*Selecting the "Conversations" option allows the player to chat with the Trader about things. These lines appear when first meeting him*
+_Selecting the "Conversations" option allows the player to chat with the Trader about things. These lines appear when first meeting him_
 
 - Great Bear?
 
@@ -507,7 +502,7 @@ Trader: "Nosy type, huh? I don't think I....was it before...or after? Damn it! J
 
 ### High Trust Conversations
 
-*After completing Sutherland's 1st special trade request, these conversations appear*
+_After completing Sutherland's 1st special trade request, these conversations appear_
 
 - Coastal Highway?
 
@@ -563,7 +558,7 @@ Trader: "It's my brother's old sloop. Small enough to tool around the coast, but
 
 ### Lost Trust Conversations
 
-*If the player angers Sutherland in any way (repeatedly calling, canceling trades), these conversations appear*
+_If the player angers Sutherland in any way (repeatedly calling, canceling trades), these conversations appear_
 
 - Angry?
 
@@ -608,12 +603,25 @@ Trader: "Not sure what you mean? I forget things sometimes...best to leave it al
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Example of loose bricks that quest items can be found in.](../assets/Loose_Bricks.png) / *Example of loose bricks that quest items can be found in.* | ![The Survivor waking up after destroying the Prepper's Abandoned Cache](../assets/Prepper_Cache_Destroyed_2.jpg) / *The Survivor waking up after destroying the Prepper's Abandoned Cache* | ![The destroyed Cache](../assets/Prepper_Cache_Destroyed.jpg) / *The destroyed Cache* | ![The hidden wall in Prepper's Abandoned Cache](../assets/Prepper%27s_Abandoned_Cache_hidden_room_2.jpg) / *The hidden wall in Prepper's Abandoned Cache* |
-| ![Ditto, unsealed](../assets/Prepper%27s_Abandoned_Cache_hidden_room.jpg) / *Ditto, unsealed* |  |  |  |
+![Example of loose bricks that quest items can be found in.](../assets/Loose_Bricks.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_Example of loose bricks that quest items can be found in._
+
+![The Survivor waking up after destroying the Prepper's Abandoned Cache](../assets/Prepper_Cache_Destroyed_2.jpg)
+
+_The Survivor waking up after destroying the Prepper's Abandoned Cache_
+
+![The destroyed Cache](../assets/Prepper_Cache_Destroyed.jpg)
+
+_The destroyed Cache_
+
+![The hidden wall in Prepper's Abandoned Cache](../assets/Prepper%27s_Abandoned_Cache_hidden_room_2.jpg)
+
+_The hidden wall in Prepper's Abandoned Cache_
+
+![Ditto, unsealed](../assets/Prepper%27s_Abandoned_Cache_hidden_room.jpg)
+
+_Ditto, unsealed_
 
 ## Notes
 

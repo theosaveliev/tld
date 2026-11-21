@@ -1,11 +1,6 @@
----
-title: "Hunting Lodge Rifle"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Hunting_Lodge_Rifle"
----
-
 # Hunting Lodge Rifle
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hunting_Lodge_Rifle)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Hunting_Lodge_Rifle"
 
 | Property | Details |
 | --- | --- |
-|  | \[Missing image: Hunting\_Rifle\_icon\_(story).png\] / *Hunting\_Rifle\_icon\_(story).png* |
+|  | \[Missing image: Hunting\_Rifle\_icon\_(story).png\] / _Hunting\_Rifle\_icon\_(story).png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - You Fix My Rifle? |
 | **Properties** |  |
@@ -46,10 +41,25 @@ Many features of the Hunting Lodge Rifle would later be recycled into the [Curat
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![The 3D model in the menu](../assets/Hunting_Lodge_Rifle_menu.jpg) / *The 3D model in the menu* | ![The Rifle on the rack above the fireplace](../assets/Hunting_Lodge_Rifle_Rack.jpg) / *The Rifle on the rack above the fireplace* | ![The Rifle when placed on the ground](../assets/Hunting_Lodge_Rifle_Ground.jpg) / *The Rifle when placed on the ground* | ![Curator's Rifle](../assets/Curator%27s_Rifle_icon.png) / *[Curator's Rifle](./Curator%27s%20Rifle.md)* |
-| ![Vaughn's Rifle](../assets/Vaughn%27s_Rifle_icon.png) / *[Vaughn's Rifle](./Vaughn%27s%20Rifle.md)* |  |  |  |
+![The 3D model in the menu](../assets/Hunting_Lodge_Rifle_menu.jpg)
+
+_The 3D model in the menu_
+
+![The Rifle on the rack above the fireplace](../assets/Hunting_Lodge_Rifle_Rack.jpg)
+
+_The Rifle on the rack above the fireplace_
+
+![The Rifle when placed on the ground](../assets/Hunting_Lodge_Rifle_Ground.jpg)
+
+_The Rifle when placed on the ground_
+
+![Curator's Rifle](../assets/Curator%27s_Rifle_icon.png)
+
+_[Curator's Rifle](./Curator%27s%20Rifle.md)_
+
+![Vaughn's Rifle](../assets/Vaughn%27s_Rifle_icon.png)
+
+_[Vaughn's Rifle](./Vaughn%27s%20Rifle.md)_
 
 ## Update history
 
@@ -57,5 +67,3 @@ Many features of the Hunting Lodge Rifle would later be recycled into the [Curat
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from the game as part of the Redux edition.
-
-**Lua execution error in Module:Navbox function navbox**

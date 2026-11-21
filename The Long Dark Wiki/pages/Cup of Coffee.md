@@ -1,11 +1,6 @@
----
-title: "Cup of Coffee"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Cup_of_Coffee"
----
-
 # Cup of Coffee
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cup_of_Coffee)
 
 **Contents**
 
@@ -16,13 +11,13 @@ source: "https://thelongdark.fandom.com/wiki/Cup_of_Coffee"
 - [Gallery](#gallery)
 - [Update history](#update-history)
 
-*For the item used to brew a Cup of Coffee, see [Tin of Coffee](./Tin%20of%20Coffee.md).*
+_For the item used to brew a Cup of Coffee, see [Tin of Coffee](./Tin%20of%20Coffee.md)._
 
 **Cup of Coffee**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Cup_of_Coffee_icon.png) / *Cup\_of\_Coffee\_icon.png* |
+|  | ![](../assets/Cup_of_Coffee_icon.png) / _Cup\_of\_Coffee\_icon.png_ |
 | Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181) |
 | Wintermute | No |
 | Renewable | Yes ([Trader](./Trader.md) only) |
@@ -82,15 +77,23 @@ Other items which restore fatigue, such as the [Emergency Stim](./Emergency%20St
 
 ## Trivia
 
-- Cup of Coffee features the logo of Hinterland Games, the developers of *The Long Dark.* The base of the cup bears a copyright mark for Hinterland Studios Inc.
+- Cup of Coffee features the logo of Hinterland Games, the developers of _The Long Dark._ The base of the cup bears a copyright mark for Hinterland Studios Inc.
 - Hinterland has released a real life Coffee Cup for sale.
 - Similar to other teas Cups of Coffee don't degrade.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Cup of coffee with copyright mark on the base.](../assets/Cup_of_coffee_bottom.jpg) / *Cup of coffee with copyright mark on the base.* | ![Old model.](../assets/Cup_of_coffee.png) / *Old model.* | ![The real world Coffee Cup released by Hinterland](../assets/Cup_of_Coffee_Mug_Real.webp) / *The real world Coffee Cup released by Hinterland* |
+![Cup of coffee with copyright mark on the base.](../assets/Cup_of_coffee_bottom.jpg)
+
+_Cup of coffee with copyright mark on the base._
+
+![Old model.](../assets/Cup_of_coffee.png)
+
+_Old model._
+
+![The real world Coffee Cup released by Hinterland](../assets/Cup_of_Coffee_Mug_Real.webp)
+
+_The real world Coffee Cup released by Hinterland_
 
 ## Update history
 
@@ -102,5 +105,3 @@ Other items which restore fatigue, such as the [Emergency Stim](./Emergency%20St
   - \[Bugs fixed\] Fixed exploit of getting full fatigue benefit from a partial cup of coffee.
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

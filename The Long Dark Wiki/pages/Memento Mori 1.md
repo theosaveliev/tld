@@ -1,17 +1,12 @@
----
-title: "Memento Mori 1"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Memento_Mori_1"
----
-
 # Memento Mori 1
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Memento_Mori_1)
 
 **Memento Mori 1**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Memento_Mori_1_icon.png) / *Memento\_Mori\_1\_icon.png* |
+|  | ![](../assets/Memento_Mori_1_icon.png) / _Memento\_Mori\_1\_icon.png_ |
 | Release | [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Memento_Mori_1"
 
 ## Transcript
 
-*The following text is transcribed from **Memento Mori 1***
+_The following text is transcribed from **Memento Mori 1**_
 
 **I found the water. Like I promised. Where the rivers meet the sea. A bitter and empty place. You were right.**
 
@@ -36,5 +31,3 @@ source: "https://thelongdark.fandom.com/wiki/Memento_Mori_1"
 UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Added to game
-
-**Lua execution error in Module:Navbox function navbox**

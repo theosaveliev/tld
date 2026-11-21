@@ -1,11 +1,6 @@
----
-title: "Safehouse Customization"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Safehouse_Customization"
----
-
 # Safehouse Customization
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Safehouse_Customization)
 
 **Contents**
 
@@ -55,7 +50,7 @@ source: "https://thelongdark.fandom.com/wiki/Safehouse_Customization"
 - [Places that do not support customization](#places-that-do-not-support-customization)
 - [Gallery](#gallery)
 
-> “**Move furniture and decorative props around your favourite locations in the game. Repair broken items and clean up the mess. Craft items from an entirely new series of hand-made furniture and decorative props. Collect and move every framed pancake photo in the game to one place. Make pretty much any valid interior in the game your personal Safehouse with this powerful system.**”
+> “__Move furniture and decorative props around your favourite locations in the game. Repair broken items and clean up the mess. Craft items from an entirely new series of hand-made furniture and decorative props. Collect and move every framed pancake photo in the game to one place. Make pretty much any valid interior in the game your personal Safehouse with this powerful system.__”
 >
 > — Hinterland Description
 
@@ -386,8 +381,14 @@ There are about two dozen places in the game that players cannot build Safehouse
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![The Trapper's Homestead before being customized](../assets/Safehouse-custom-before-comp.jpg) / *The [Trapper's Homestead](./Trapper%27s%20Homestead.md) before being customized* | ![The Homestead after being customized](../assets/Safehouse_after-comp.jpg) / *The Homestead after being customized* | ![Safe House furniture Concept Art](../assets/Safe_House_Customization_Concept_Art.jpg) / *Safe House furniture Concept Art* |
+![The Trapper's Homestead before being customized](../assets/Safehouse-custom-before-comp.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Обустройство убежища](ru:%D0%9E%D0%B1%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D1%83%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B0)
+_The [Trapper's Homestead](./Trapper%27s%20Homestead.md) before being customized_
+
+![The Homestead after being customized](../assets/Safehouse_after-comp.jpg)
+
+_The Homestead after being customized_
+
+![Safe House furniture Concept Art](../assets/Safe_House_Customization_Concept_Art.jpg)
+
+_Safe House furniture Concept Art_

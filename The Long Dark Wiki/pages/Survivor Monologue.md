@@ -1,10 +1,6 @@
----
-title: "Survivor Monologue"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Survivor_Monologue"
----
-
 # Survivor Monologue
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Survivor_Monologue)
 
 **Contents**
 
@@ -70,7 +66,7 @@ source: "https://thelongdark.fandom.com/wiki/Survivor_Monologue"
 - [Crash Survivor Warming Up](#crash-survivor-warming-up)
 - [Crash Survivor has Low Condition](#crash-survivor-has-low-condition)
 
-In *[The Long Dark](./The%20Long%20Dark.md)*, the Survivor ([Will Mackenzie](./Will%20Mackenzie.md) or [Astrid Greenwood](./Astrid%20Greenwood.md)) will periodically say things regarding the world around them, unless it has been disabled in the custom settings ([Survival Mode](./Survival%20Mode.md) Custom). Survivor Monologue is different from scripted voice lines in [Wintermute](./Wintermute.md), as these lines relate to what is happening to the survivor. Sometimes this is done purely for the sake of entertainment, other times these messages can provide useful information to the player about the survivor's current [Condition](./Condition.md), their [Needs](./Needs.md), or anything that is [afflicting them](./Afflictions.md).
+In _[The Long Dark](./The%20Long%20Dark.md)_, the Survivor ([Will Mackenzie](./Will%20Mackenzie.md) or [Astrid Greenwood](./Astrid%20Greenwood.md)) will periodically say things regarding the world around them, unless it has been disabled in the custom settings ([Survival Mode](./Survival%20Mode.md) Custom). Survivor Monologue is different from scripted voice lines in [Wintermute](./Wintermute.md), as these lines relate to what is happening to the survivor. Sometimes this is done purely for the sake of entertainment, other times these messages can provide useful information to the player about the survivor's current [Condition](./Condition.md), their [Needs](./Needs.md), or anything that is [afflicting them](./Afflictions.md).
 
 Below is an incomplete list of the things that the survivor may say in gameplay.
 
@@ -556,5 +552,3 @@ The following quotes are from the Crash Survivors Gwen, Logan, Ava, and Wade, th
 - "So tired, nothing left..."
 - "Too late..."
 - "No...feels wrong..."
-
-**Lua execution error in Module:Navbox function navbox**

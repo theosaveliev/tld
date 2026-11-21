@@ -1,11 +1,6 @@
----
-title: "Environmental Hazard"
-wiki_namespace: 0
-categories: ["Gameplay"]
-source: "https://thelongdark.fandom.com/wiki/Environmental_Hazard"
----
-
 # Environmental Hazard
+
+**Categories:** Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Environmental_Hazard)
 
 **Contents**
 
@@ -19,11 +14,11 @@ source: "https://thelongdark.fandom.com/wiki/Environmental_Hazard"
 - [Instant Kill Barriers](#instant-kill-barriers)
 - [Chemical Hazards](#chemical-hazards)
 
-**Environmental Hazards** are dangerous obstacles occasionally encountered while playing *The Long Dark.* While many are minor, some can be life threatening and will cause [Afflictions](./Afflictions.md) if not approached and handled with caution and respect.
+**Environmental Hazards** are dangerous obstacles occasionally encountered while playing _The Long Dark._ While many are minor, some can be life threatening and will cause [Afflictions](./Afflictions.md) if not approached and handled with caution and respect.
 
 ## Cold Water Puddles/Streams
 
-![An example of ankle deep, cold standing water](../assets/Cold_Water_Puddle.jpg)*An example of ankle deep, cold standing water*Occasionally, puddles of cold, ankle deep standing water or flowing water can be found inside caves and serve as a floor hazard for the player. Walking through or standing in a puddle/flowing stream will drench the player's footwear, slowly making the Socks and Shoes Clothing slots wet and partially lowering the player's [Warmth](./Warmth.md). Wet clothing can be avoided by simply unequipping the player's footwear clothing and passing through the puddle, but this will not stop the player from taking Warmth damage.
+![An example of ankle deep, cold standing water](../assets/Cold_Water_Puddle.jpg)_An example of ankle deep, cold standing water_Occasionally, puddles of cold, ankle deep standing water or flowing water can be found inside caves and serve as a floor hazard for the player. Walking through or standing in a puddle/flowing stream will drench the player's footwear, slowly making the Socks and Shoes Clothing slots wet and partially lowering the player's [Warmth](./Warmth.md). Wet clothing can be avoided by simply unequipping the player's footwear clothing and passing through the puddle, but this will not stop the player from taking Warmth damage.
 
 These puddles/streams can be found in:
 
@@ -36,9 +31,9 @@ These puddles/streams can be found in:
 - Level 1 of the [Langston Mine](./Langston%20Mine.md)
 - [Forgotten Exploration](./Forgotten%20Exploration.md)
 
-| Column 1 |
-| --- |
-| ![An example of flowing ankle deep water](../assets/Flowing_Water_Hazard.jpg) / *An example of flowing ankle deep water* |
+![An example of flowing ankle deep water](../assets/Flowing_Water_Hazard.jpg)
+
+_An example of flowing ankle deep water_
 
 ### Survivor Quotes
 
@@ -57,7 +52,7 @@ Walking through a puddle will also generate a unique audio response from the sur
 
 ## Waterfalls
 
-![An example of an unavoidable waterfall in an Ice Cave](../assets/Waterfall_Ice_Cave.jpg)*An example of an unavoidable waterfall in an Ice Cave* Waterfalls can occasionally be found inside [Ice Caves](./Ice%20Cave.md), and serve as an unavoidable hazard. Simply standing near one will slowly wet the player's clothing. Passing through one will full drench all of the player's outermost Clothing layers to 100% wetness and will automatically lower the player's Warmth to 0. Warming up afterwards becomes a priority if choosing to pass through such a hazard fully clothed, as your wet Clothing will immediately begin freezing over. If one must pass through a waterfall, simply remove all Clothing and walk through, then re-equip all clothing to start warming up again.
+![An example of an unavoidable waterfall in an Ice Cave](../assets/Waterfall_Ice_Cave.jpg)_An example of an unavoidable waterfall in an Ice Cave_ Waterfalls can occasionally be found inside [Ice Caves](./Ice%20Cave.md), and serve as an unavoidable hazard. Simply standing near one will slowly wet the player's clothing. Passing through one will full drench all of the player's outermost Clothing layers to 100% wetness and will automatically lower the player's Warmth to 0. Warming up afterwards becomes a priority if choosing to pass through such a hazard fully clothed, as your wet Clothing will immediately begin freezing over. If one must pass through a waterfall, simply remove all Clothing and walk through, then re-equip all clothing to start warming up again.
 
 Any light source currently active and held will be extinguished when passing through a waterfall. This includes Matches, Flares, and [Torches](./Torch.md), and, oddly enough, active [Storm Lanterns](./Storm%20Lantern.md). Lit Flares and Torches will of course go out if thrown through a waterfall. Active [Flashlights](./Flashlight.md) are not affected by waterfalls.
 
@@ -76,7 +71,7 @@ Touching a live wire will give the [Burns](./Burns.md) Affliction and cause rapi
 
 ## Electrified Water
 
-![Electrified water can kill in seconds](../assets/Cinder_Hill_Coal_Mine_Story.png)*Electrified water can kill in seconds* Some bodies can serve as a serious electrical hazard during an [Aurora](./Aurora.md), due to the amount of electrical current passing through. Standing in these bodies of water will cause rapid [Burns](./Burns.md) and [Condition](./Condition.md) damage, and will outright kill the player in seconds if the player doesn't leave.
+![Electrified water can kill in seconds](../assets/Cinder_Hill_Coal_Mine_Story.png)_Electrified water can kill in seconds_ Some bodies can serve as a serious electrical hazard during an [Aurora](./Aurora.md), due to the amount of electrical current passing through. Standing in these bodies of water will cause rapid [Burns](./Burns.md) and [Condition](./Condition.md) damage, and will outright kill the player in seconds if the player doesn't leave.
 
 Such bodies of water can be found in:
 
@@ -84,7 +79,7 @@ Such bodies of water can be found in:
 
 ## Weak Ice
 
-![An example of cracked Weak Ice and a warning symbol](../assets/WeakIce.jpg)*An example of cracked Weak Ice and a warning symbol* [Weak Ice](./Weak%20Ice.md) is the most commonly encountered water hazard found in *The Long Dark* and can be found in all coastal regions and certain fresh bodies of water. Stepping on thin ice will be accompanied by the audible sound of ice cracking and the ice at the player's feet visibly cracking, as well as a red Exclamation Point Symbol appearing in the middle of the screen. It is advised to immediately turn around until the Exclamation Point Symbol disappears, informing the player that they are on stable ice again.
+![An example of cracked Weak Ice and a warning symbol](../assets/WeakIce.jpg)_An example of cracked Weak Ice and a warning symbol_ [Weak Ice](./Weak%20Ice.md) is the most commonly encountered water hazard found in _The Long Dark_ and can be found in all coastal regions and certain fresh bodies of water. Stepping on thin ice will be accompanied by the audible sound of ice cracking and the ice at the player's feet visibly cracking, as well as a red Exclamation Point Symbol appearing in the middle of the screen. It is advised to immediately turn around until the Exclamation Point Symbol disappears, informing the player that they are on stable ice again.
 
 Being exposed exposed the extreme cold water causes: 10% [Condition](./Condition.md) damage on any mode other than Pilgrim, makes all Clothing 100% wet, and induces [Hypothermia](./Hypothermia.md). Wet clothes are a serious hazard not only from continued Condition loss due to [Freezing](./Needs.md), but also from the risk of the clothing freezing over and inducing [Frostbite](./Frostbite.md).
 
@@ -112,5 +107,3 @@ While impossible to see with the naked eye until it is too late, some very rare 
 Other minor locations with instant kill barriers can be found in [this video by Bashrobe](https://www.youtube.com/watch?v=NIYBONWH24s).[1](https://www.youtube.com/watch?v=NIYBONWH24s)
 
 ## Chemical Hazards
-
-![](../assets/Chemical_Spill.jpg) The [Zone of Contamination](./Zone%20of%20Contamination.md) contains several areas with spilled or dumped chemicals that will include the [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md). These [Chemical Hazard](./Chemical%20Hazard.md) zones act as dead zones for native Wildlife, and can rapidly destroy a player's footwear if not properly navigated. **Lua execution error in Module:Navbox function navbox**

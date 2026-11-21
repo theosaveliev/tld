@@ -1,11 +1,6 @@
----
-title: "Characters"
-wiki_namespace: 0
-categories: ["Articles in need of images"]
-source: "https://thelongdark.fandom.com/wiki/Characters"
----
-
 # Characters
+
+**Categories:** Articles in need of images · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Characters)
 
 **Contents**
 
@@ -64,10 +59,10 @@ source: "https://thelongdark.fandom.com/wiki/Characters"
 - [Mentioned Organizations](#mentioned-organizations)
 - [Buffer Memory Characters](#buffer-memory-characters)
 
-**Images Needed:****This article is in need of more images and/or higher quality images. You can help by uploading an image and \[//dummy.host/index.php?title=Characters&amp;action=edit adding it to the article\].**
+**Images Needed:**__This article is in need of more images and/or higher quality images. You can help by uploading an image and \[//dummy.host/index.php?title=Characters&amp;action=edit adding it to the article\].__
 
-** *SPOILER WARNING*  
- *This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark.* **
+** _SPOILER WARNING_  
+ _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._ **
 
 [Great Bear Island](./Great%20Bear%20Island.md) contains many residents that once thrived in the various regions and towns across the Island before and after the [First Flare](./First%20Flare.md). Many are found and interacted with in [Wintermute](./Wintermute.md). [Survival Mode](./Survival%20Mode.md) also contains its own references to many of the Island's inhabitants, but many characters and locations found within Wintermute have been changed, suggesting an alternate timeline of events takes place in Survival Mode.
 
@@ -81,9 +76,9 @@ Wintermute places a large focus on interacting with several inhabitants of Great
 
 ![](../assets/Will.png)
 
-*Will.png*
+_Will.png_
 
-William Mackenzie is the central protagonist of the story of *The Long Dark*. The current caretaker of [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md), Mackenzie is tasked by Astrid Greenwood to help fly herself and a [Hardcase](./Astrid%27s%20Hardcase.md) to the local to Great Bear Island. During the flight, their plane crashes into the mountains of the island, with Mackenzie being trapped at the bottom of a nearby ravine. Stranded far from the closest human civilization while being lost, wounded, and alone, Mackenzie must quickly master basic wilderness survival skills if he's to last long enough to find Astrid and understand how his world has just changed forever.
+William Mackenzie is the central protagonist of the story of _The Long Dark_. The current caretaker of [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md), Mackenzie is tasked by Astrid Greenwood to help fly herself and a [Hardcase](./Astrid%27s%20Hardcase.md) to the local to Great Bear Island. During the flight, their plane crashes into the mountains of the island, with Mackenzie being trapped at the bottom of a nearby ravine. Stranded far from the closest human civilization while being lost, wounded, and alone, Mackenzie must quickly master basic wilderness survival skills if he's to last long enough to find Astrid and understand how his world has just changed forever.
 
 He is voiced by [Mark Meer](wikipedia:Mark_Meer).
 
@@ -91,9 +86,9 @@ He is voiced by [Mark Meer](wikipedia:Mark_Meer).
 
 ![](../assets/Astrid.png)
 
-*Astrid.png*
+_Astrid.png_
 
-Astrid Greenwood is the deuteragonist of the story of *The Long Dark*. A researcher wishing to travel to Great Bear Island with a mysterious Hardcase, Astrid is separated from Mackenzie after their small plane crashes to the ground in the northern Canadian wilderness. The two are separated and forced to survive in the unforgiving reality of the Quiet Apocalypse, as Astrid is forced to continue her journey to [Perseverance Mills](./Perseverance%20Mills.md) alone and without the Hardcase.
+Astrid Greenwood is the deuteragonist of the story of _The Long Dark_. A researcher wishing to travel to Great Bear Island with a mysterious Hardcase, Astrid is separated from Mackenzie after their small plane crashes to the ground in the northern Canadian wilderness. The two are separated and forced to survive in the unforgiving reality of the Quiet Apocalypse, as Astrid is forced to continue her journey to [Perseverance Mills](./Perseverance%20Mills.md) alone and without the Hardcase.
 
 She is voiced by [Jennifer Hale](wikipedia:Jennifer_Hale).
 
@@ -101,7 +96,7 @@ She is voiced by [Jennifer Hale](wikipedia:Jennifer_Hale).
 
 ![](../assets/Grey_Mother.png)
 
-*Grey\_Mother.png*
+_Grey\_Mother.png_
 
 An old, blind woman living alone in the [Milton House](./Milton%20House%20%28Grey%20Mother%27s%29.md), Grey Mother is the only survivor found in [Milton](./Milton.md) after a nearby [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) containing several Convicts abducted everyone in town and forced them into the [Old Schoolhouse](./Old%20Schoolhouse.md) before it burned down with everyone inside. She successfully defended herself with a [Hunting Rifle](./Hunting%20Rifle.md) and slowly helps Mackenzie find Astrid after warming up to him.
 
@@ -113,7 +108,7 @@ She is voiced by [Gwynyth Walsh](wikipedia:Gwynyth_Walsh).
 
 ![](../assets/Methuselah.png)
 
-*Methuselah.png*
+_Methuselah.png_
 
 A mysterious old man that seems to be able to travel around the Island with no difficulty despite its treacherous conditions, Methuselah is a "guardian angel" that appears to Mackenzie multiple times after he crash lands on the Island. He explains to the Mackenzie that the world is changing, and that human acts of neglect towards nature are being repaid by the onset of the "Quiet Apocalypse," and that he must condition himself to survive in this new world.
 
@@ -125,7 +120,7 @@ He is voiced by [Richard Newman](wikipedia:Richard_Newman_%28actor%29).
 
 ![](../assets/Hobbs.jpg)
 
-*Hobbs.jpg*
+_Hobbs.jpg_
 
 Hobbs is a Convict that can be encountered by Mackenzie at [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) bleeding on a couch. He reveals that he helped gather many residents of Milton into the Old Schoolhouse before it caught on fire, and was subsequently stabbed by Astrid with a knife, which is currently still inside him. Mackenzie can choose to plunge the knife deeper into Hobbs which will kill him, but his fate is unknown if Mackenzie removes the knife.
 
@@ -139,7 +134,7 @@ He is voiced by Ben Cotton.
 
 ![](../assets/Jeremiah.png)
 
-*Jeremiah.png*
+_Jeremiah.png_
 
 An old hermit trapper living within the [Trapper's Homestead](./Trapper%27s%20Homestead.md) in [Mystery Lake](./Mystery%20Lake%20%28region%29.md), Jeremiah is found being mauled by a bear at the end of Episode 1 and is saved and nursed back to help by Mackenzie. He is the deuteragonist of Episode 2, tasking Mackenzie to kill the [Old Bear](./Old%20Bear.md) stalking them if they are to ever leave the area. He ultimately tasks Mackenzie with delivering a message to his friend Atwood at Perseverance Mills; Wintermute.
 
@@ -151,7 +146,7 @@ He is voiced by [David Hayter](wikipedia:David_Hayter).
 
 ![](../assets/Mathis_snow.jpg)
 
-*Mathis\_snow.jpg*
+_Mathis\_snow.jpg_
 
 Mathis is the central antagonist of Wintermute. Found at the end of Episode 2 taking Mackenzie hostage, he is revealed to be the leader of a gang of [Convicts](./Convicts.md) in Episode 4, who have made their home base of operations inside a Federal Penitentiary in the [Blackrock](./Blackrock.md) region. Cold and unempathetic to the suffering of others, his current goal is to free his son Donner and escape the Island, possibly with his Convict army in tow to conquer other parts of the world.
 
@@ -165,7 +160,7 @@ He is voiced by [Elias Toufexis](Wikipedia:Elias_Toufexis) (previously Gord Marr
 
 ![](../assets/Molly.jpg)
 
-*Molly.jpg*
+_Molly.jpg_
 
 Molly is a local of [Pleasant Valley](./Pleasant%20Valley.md) who has lived most of her life on [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md). A former widow of a farmer, she finds Astrid's nearly frozen corpse after she escaped the madness that gripped Milton. After nursing Astrid back to health, she leaves the hope to go hunting, before Astrid discovers the corpse of Molly's husband and frees her from a [Timberwolf](./Timberwolf.md) attack at her [Barn](./Barn%20%28Molly%27s%29.md), Molly leaves the farmhouse and begins stalking Astrid around the Valley, while also hunting any nearby Convicts.
 
@@ -177,7 +172,7 @@ She is voiced by Jennifer Kitchen.
 
 ![](../assets/Father_thomas.jpg)
 
-*Father\_thomas.jpg*
+_Father\_thomas.jpg_
 
 A Christian priest that once resided over the dwindling population of [Thomson's Crossing](./Thomson%27s%20Crossing.md), Father Thomas has received a new flock after the First Flare caused a [passenger airliner](./Crash%20Site%20%28Pleasant%20Valley%29.md) to crash into the northern mountains. His main purpose is to look over the Crash Survivors in Episode 3, literally and metaphorically guiding the lost souls of the plane crash safely to his sanctuary located within the [Community Hall](./Community%20Hall.md), will also offering guidance regarding the local topography to Astrid.
 
@@ -201,7 +196,7 @@ Vachon is voiced by Jacques Lalonde.
 
 ![](../assets/Franklin_Torture.jpg)
 
-*Franklin\_Torture.jpg*
+_Franklin\_Torture.jpg_
 
 The former warden of [Blackrock Prison](./Blackrock%20Prison.md), Franklin has been captured by Mathis and his Convicts and is ultimately executed by Mathis.
 
@@ -213,7 +208,7 @@ He is voiced by Laurie Mcginnis.
 
 ![](../assets/Jace.png)
 
-*Jace.png*
+_Jace.png_
 
 A young graduate student in astrophysics, Jace has become trapped in a guerilla war against the Convicts of Blackrock Prison, teaming up with Mackenzie to prevent their further expansion into the nearby wilderness. She is ultimately rescued by Mackenzie, and the two journey to Perseverance Mills in search of Atwood at the end of Episode 4.
 
@@ -229,7 +224,7 @@ Jace's thesis professor and a resident of Perseverance Mills as well as the frie
 
 ![](../assets/Jane_Yang.png)
 
-*Jane\_Yang.png*
+_Jane\_Yang.png_
 
 Originally appearing in 2 cameos in Episodes 3 and 4, Jane Yang is a resident of Perseverance Mills that tasks Astrid Greenwood with coming to the Island to help her people.
 
@@ -255,7 +250,7 @@ Despite the divorce, both Will and Astrid kept their wedding rings, possibly to 
 
 ![](../assets/Martin_Barker.png)
 
-*Martin\_Barker.png*
+_Martin\_Barker.png_
 
 The owner of [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) and former husband of Grey Mother, Martin Barker is found dead during the course of Episode 1, being eaten by a Wolf. He can also be found dead in Survival Mode as a possible spawn for the [Paradise Meadows Farm Key](./Paradise%20Meadows%20Farm%20Key.md).
 
@@ -263,7 +258,7 @@ The owner of [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) and former 
 
 ![](../assets/Lilith_Barker.png)
 
-*Lilith\_Barker.png*
+_Lilith\_Barker.png_
 
 The deceased daughter of Grey Mother and Martin Barker, she is a woman that Grey Mother occasionally confuses for Astrid when helping Mackenzie. She is currently buried at the cemetery at [St. Christopher's Church](./St.%20Christopher%27s%20Church.md).
 
@@ -271,7 +266,7 @@ The deceased daughter of Grey Mother and Martin Barker, she is a woman that Grey
 
 ![](../assets/Lake_Gunshots_Forest_Talker.jpg)
 
-*Lake\_Gunshots\_Forest\_Talker.jpg*
+_Lake\_Gunshots\_Forest\_Talker.jpg_
 
 A Forest Talker can be found at [Mystery Lake](./Mystery%20Lake%20%28location%29.md) in Episode 2 and gives the [Lake Gunshots](./Lake%20Gunshots.md) side mission. He is fully voiced, but cannot be seen when initially met. Depending on choices made during his questline, he will live and reward Mackenzie with [Deerskin Pants](./Deerskin%20Pants.md) or will be found dead outside his cabin with an arrow stuck in him.
 
@@ -281,18 +276,22 @@ The Forest Talker is voiced by Brian Drummond.
 
 ![](../assets/Hank_in_his_hatch.jpg)
 
-*Hank\_in\_his\_hatch.jpg*
+_Hank\_in\_his\_hatch.jpg_
 
 Hank is center focus of the side mission [Hank's Hatch](./Hank%27s%20Hatch.md). He was once a fire watch man who lived in the [Fire Watch Lookout](./Lookout%20%28Mystery%20Lake%20location%29.md) in Mystery Lake and began prepping for any upcoming future disasters. Across the mission, his relatives Angela, her mother, are both found dead trying to make their way to the underwound bunker he created. By the time the player finds him, he is found dead on the floor inside his prepper bunker having died from an infected leg wound from a recent wolf attack.
 
-- "Hank" is a nod to the protagonist ["Henry"](w:c:firewatch:Henry) from the videogame *Firewatch*. Hank (a common nickname for Henry) shares many similarities with his counterpart, including taking a job working in a fire tower to be away from other people. In his journal, Hank complains about "the chatty lady" on the radio, a reference to [Delilah](w:c:firewatch:Delilah), Henry's supervisor in *Firewatch* who communicates with him by radio throughout the game and also occasionally refers to him as "Hank". Hank's Journal refers to him finding a "weird old bunker," also a reference to the plot of *Firewatch.*
+- "Hank" is a nod to the protagonist ["Henry"](w:c:firewatch:Henry) from the videogame _Firewatch_. Hank (a common nickname for Henry) shares many similarities with his counterpart, including taking a job working in a fire tower to be away from other people. In his journal, Hank complains about "the chatty lady" on the radio, a reference to [Delilah](w:c:firewatch:Delilah), Henry's supervisor in _Firewatch_ who communicates with him by radio throughout the game and also occasionally refers to him as "Hank". Hank's Journal refers to him finding a "weird old bunker," also a reference to the plot of _Firewatch._
 - In his second journal entry, found in the bunker, Hank mentions hearing someone trying to get in. He does not open the door for them, and then dies from an infected leg wound from a Wolf attack. The body found outside, presumably the person trying to enter, has antibiotics and antiseptic on them. Had he let them in, they both may have survived.
 
 He shares the same model as Martin Barker, but with different facial features. Curiously, his corpse appears at the start of [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) inside a car as Molly is patrolling.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![](../assets/Hank.jpg) / *Hank.jpg* | !["Hank" at the start of Episode 3, but with facial hair](../assets/Hank_in_Episode_3.jpg) / *"Hank" at the start of [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md), but with facial hair* |
+![](../assets/Hank.jpg)
+
+_Hank.jpg_
+
+!["Hank" at the start of Episode 3, but with facial hair](../assets/Hank_in_Episode_3.jpg)
+
+_"Hank" at the start of [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md), but with facial hair_
 
 ### Radio Voice Man
 
@@ -304,7 +303,7 @@ The man is voiced by Noel Johansen.
 
 ![](../assets/Mathis_and_his_Convicts.jpg)
 
-*Mathis\_and\_his\_Convicts.jpg*
+_Mathis\_and\_his\_Convicts.jpg_
 
 Various Convicts of Blackrock Prison roam the Island in many of Wintermute's Episodes. All appear to be men, with many being found dead across every Episode. Some can be seen alive as part of Mathis' gang in Episode 4.
 
@@ -314,7 +313,7 @@ Some of the Convicts in Episode 4 are voiced by Jordan Waunch and Jacques Lalond
 
 ![](../assets/Molly%27s_Husband_Picture.png)
 
-*Molly's\_Husband\_Picture.png*
+_Molly's\_Husband\_Picture.png_
 
 The deceased husband of Molly, his body is found in the basement of the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) in Episode 3. While a backstory is never fully given, Molly alludes to a possible abusive relationship stemming between the two of them that ultimately resulted in his recent death at the hands of wolves.
 
@@ -322,7 +321,7 @@ The deceased husband of Molly, his body is found in the basement of the [Pleasan
 
 ![](../assets/Gwen_Crash_Survivor.jpg)
 
-*Gwen\_Crash\_Survivor.jpg*
+_Gwen\_Crash\_Survivor.jpg_
 
 Gwen is a plane Crash Survivor found by Astrid Greenwood in Episode 3. She is found near the tail section of the [Crash Site](./Crash%20Site%20%28Pleasant%20Valley%29.md) trapped underneath a plane seat. She is suffering from extreme hypothermia and her right leg is [bleeding badly](./Blood%20Loss.md), only barely being kept alive by a nearby fire, and is later rescued and taken to the [Community Hall](./Community%20Hall.md). She wears [Work Boots](./Work%20Boots.md), [Jeans](./Jeans.md), and a [Thin Wool Sweater](./Thin%20Wool%20Sweater.md).
 
@@ -346,7 +345,7 @@ A plane Crash Survivor found in the Community Hall in Episode 3, he is only nota
 
 ![](../assets/Community_hall_interior.jpg)
 
-*Community\_hall\_interior.jpg*
+_Community\_hall\_interior.jpg_
 
 The passengers of the crashed plane found inside the Community Hall in Episode 3. The living survivors have very few voice lines aside from coughing, moaning or pleading Astrid to find their missing companions Logan, Ava, or Wade. A list of names for the crash survivors includes:
 
@@ -370,7 +369,7 @@ Donner is an unseen character that is the center focus of the Convict's motivati
 
 ![](../assets/Townsperson_1_and_2.jpg)
 
-*Townsperson\_1\_and\_2.jpg*
+_Townsperson\_1\_and\_2.jpg_
 
 2 men seen in the ending of Episode 4 at the docks of Perseverance Mills. They are alarmed and confused at the arrival of Astrid and believe she is a quarantine breaker. They are eventually accompanied by Jane Yang, who quickly takes control of the situation when she recognizes Astrid.
 
@@ -684,5 +683,3 @@ In Survival Mode, several journals/logs/diaries of the inhabitants of Great Bear
 - Tom Joplin - Mentioned living near [Skeeter's Ridge](./Skeeter%27s%20Ridge.md). Owner of the various bunkers in [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md)
 - Linda - Mentioned in an email. Lives in Milton
 - Denise - Mentioned in an email
-
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**

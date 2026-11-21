@@ -1,17 +1,12 @@
----
-title: "Fishing Bait"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Fishing_Bait"
----
-
 # Fishing Bait
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Fishing_Bait)
 
 **Fishing Bait**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Fishing_Bait_icon.png) / *Fishing\_Bait\_icon.png* |
+|  | ![](../assets/Fishing_Bait_icon.png) / _Fishing\_Bait\_icon.png_ |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
 | Wintermute | No |
 | Renewable | Yes |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Fishing_Bait"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_FishingBait |
 
-**Fishing Bait** is a Tool used for [Ice Fishing](./Ice%20Fishing.md) in *The Long Dark*. It released in the free update of Part 3: Frontier Comforts for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
+**Fishing Bait** is a Tool used for [Ice Fishing](./Ice%20Fishing.md) in _The Long Dark_. It released in the free update of Part 3: Frontier Comforts for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
 ## Overview
 
@@ -45,7 +40,5 @@ Whitefish/Trout weigh significantly less than Coho Salmon/Smallmouth Bass, but g
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Наживка](ru:%D0%9D%D0%B0%D0%B6%D0%B8%D0%B2%D0%BA%D0%B0)

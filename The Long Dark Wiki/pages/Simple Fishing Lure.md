@@ -1,17 +1,12 @@
----
-title: "Simple Fishing Lure"
-wiki_namespace: 0
-categories: ["Ice Fishing", "Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Simple_Fishing_Lure"
----
-
 # Simple Fishing Lure
+
+**Categories:** Ice Fishing, Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Simple_Fishing_Lure)
 
 **Simple Fishing Lure**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Simple_Fishing_Lure_icon.png) / *Simple\_Fishing\_Lure\_icon.png* |
+|  | ![](../assets/Simple_Fishing_Lure_icon.png) / _Simple\_Fishing\_Lure\_icon.png_ |
 | Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
 | Wintermute | No |
 | **Properties** |  |
@@ -38,7 +33,7 @@ If a Fishing Tackle is equipped with a Simple Fishing Lure and snaps when fishin
 
 | Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Simple_Fishing_Lure_icon.png) / *Simple\_Fishing\_Lure\_icon.png* | Simple Fishing Lure | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
+| ![](../assets/Simple_Fishing_Lure_icon.png) / _Simple\_Fishing\_Lure\_icon.png_ | Simple Fishing Lure | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
 
 ## Crafting
 
@@ -60,7 +55,5 @@ If a Fishing Tackle is equipped with a Simple Fishing Lure and snaps when fishin
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**
 
 [ru:Простая рыбная приманка](ru:%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F_%D1%80%D1%8B%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0)

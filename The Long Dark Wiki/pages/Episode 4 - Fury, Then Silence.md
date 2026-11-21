@@ -1,11 +1,6 @@
----
-title: "Episode 4: Fury, Then Silence"
-wiki_namespace: 0
-categories: ["Episode 4", "Episodes"]
-source: "https://thelongdark.fandom.com/wiki/Episode_4%3A_Fury%2C_Then_Silence"
----
-
 # Episode 4: Fury, Then Silence
+
+**Categories:** Episode 4, Episodes · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Episode_4%3A_Fury%2C_Then_Silence)
 
 **Contents**
 
@@ -33,11 +28,11 @@ source: "https://thelongdark.fandom.com/wiki/Episode_4%3A_Fury%2C_Then_Silence"
 - [Achievements](#achievements)
 - [Gallery](#gallery)
 
-**Template:spoiler**![](../assets/Episode_4.png) *"A murderous gang of convicts has captured Mackenzie. Desperate to escape one of the darkest corners of Great Bear Island, he must somehow survive his fiercest enemy yet. Can Mackenzie recover the Hardcase, continue his search for Astrid, and also save the innocents caught up in this deadly confrontation?"*
+**Template:spoiler**![](../assets/Episode_4.png) _"A murderous gang of convicts has captured Mackenzie. Desperate to escape one of the darkest corners of Great Bear Island, he must somehow survive his fiercest enemy yet. Can Mackenzie recover the Hardcase, continue his search for Astrid, and also save the innocents caught up in this deadly confrontation?"_
 
 ## Overview
 
-***Fury, Then Silence*** is the fourth episode in the [story](./Wintermute.md) of [The Long Dark](./The%20Long%20Dark.md), following [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). The episode takes place entirely within the [Blackrock Mountain](./Blackrock%20Mountain.md) region with [Will Mackenzie](./Will%20Mackenzie.md) as the protagonist, and precedes [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md): the conclusion to the story of Wintermute. [Mathis](./Mathis.md) serves as the episode's main antagonist.
+**_Fury, Then Silence_** is the fourth episode in the [story](./Wintermute.md) of [The Long Dark](./The%20Long%20Dark.md), following [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). The episode takes place entirely within the [Blackrock Mountain](./Blackrock%20Mountain.md) region with [Will Mackenzie](./Will%20Mackenzie.md) as the protagonist, and precedes [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md): the conclusion to the story of Wintermute. [Mathis](./Mathis.md) serves as the episode's main antagonist.
 
 The Episode 4 was released on October 6th, 2021.
 
@@ -45,57 +40,57 @@ The Episode 4 was released on October 6th, 2021.
 
 ### Prologue
 
-*Main article: [Prologue](./Prologue.md)*
+_Main article: [Prologue](./Prologue.md)_
 
 ![](../assets/Prologue.png)
 
-*Prologue.png*
+_Prologue.png_
 
-"*Mackenzie seizes his chance to escape Mathis.*"
+"_Mackenzie seizes his chance to escape Mathis._"
 
 — In-game description
 
 ### Blackrock Blues
 
-*Main article: [Blackrock Blues](./Blackrock%20Blues.md)*
+_Main article: [Blackrock Blues](./Blackrock%20Blues.md)_
 
 ![](../assets/Blackrock_Blues.png)
 
-*Blackrock\_Blues.png*
+_Blackrock\_Blues.png_
 
-"*Learn all you can about Blackrock Penitentiary.*"
+"_Learn all you can about Blackrock Penitentiary._"
 
 — In-game description
 
 ### The Power Plant
 
-*Main article: [The Power Plant](./The%20Power%20Plant.md)*
+_Main article: [The Power Plant](./The%20Power%20Plant.md)_
 
 ![](../assets/The_Power_Plant.png)
 
-*The\_Power\_Plant.png*
+_The\_Power\_Plant.png_
 
-"*Mathis orders you to find the old Power Plant and look for a way to restore power to solitary.*"
+"_Mathis orders you to find the old Power Plant and look for a way to restore power to solitary._"
 
 — In-game description
 
 ### The Detonators
 
-*Main article: [The Detonators](./The%20Detonators.md)*
+_Main article: [The Detonators](./The%20Detonators.md)_
 
 ![](../assets/The_Detonators.png)
 
-*The\_Detonators.png*
+_The\_Detonators.png_
 
-"*Travel to the Mine and locate the Detonators for Mathis.*"
+"_Travel to the Mine and locate the Detonators for Mathis._"
 
 — In-game description
 
 ### Donner
 
-*Main article: [Donner (mission)](./Donner%20%28mission%29.md)*
+_Main article: [Donner (mission)](./Donner%20%28mission%29.md)_
 
-"*An explosion has turned the tables on Mathis. Make your escape.*"
+"_An explosion has turned the tables on Mathis. Make your escape._"
 
 — In-game description
 
@@ -103,53 +98,53 @@ The Episode 4 was released on October 6th, 2021.
 
 ### Blackrock Lockers
 
-*Main article: [Blackrock Lockers](./Blackrock%20Lockers.md)*
+_Main article: [Blackrock Lockers](./Blackrock%20Lockers.md)_
 
 ![](../assets/Missions_story_ep4_Side.png)
 
-*Missions\_story\_ep4\_Side.png*
+_Missions\_story\_ep4\_Side.png_
 
-"*Locate and use the keys that unlock Lockers found at the Blackrock Penitentiary.*"
+"_Locate and use the keys that unlock Lockers found at the Blackrock Penitentiary._"
 
 — In-game description
 
 ### Blackrock Rumours
 
-*Main article: [Blackrock Rumours](./Blackrock%20Rumours.md)*
+_Main article: [Blackrock Rumours](./Blackrock%20Rumours.md)_
 
-"*Security memos describing unusual activity in the Blackrock area.*"
+"_Security memos describing unusual activity in the Blackrock area._"
 
 — In-game description
 
 ### Convict Caches
 
-*Main article: [Convict Caches](./Convict%20Caches.md)*
+_Main article: [Convict Caches](./Convict%20Caches.md)_
 
-"*An escaping convict left some hidden caches to help the other convicts following him.*"
+"_An escaping convict left some hidden caches to help the other convicts following him._"
 
 — In-game description
 
 ### Dark Star
 
-*Main article: [Dark Star](./Dark%20Star.md)*
+_Main article: [Dark Star](./Dark%20Star.md)_
 
-"*Records from Blackrock's official archive have escaped their vault. Find and read the bloody pages to learn more about the notorious maximum security prison.*"
+"_Records from Blackrock's official archive have escaped their vault. Find and read the bloody pages to learn more about the notorious maximum security prison._"
 
 — In-game description
 
 ### Lost Power Workers
 
-*Main article: [Lost Power Workers](./Lost%20Power%20Workers.md)*
+_Main article: [Lost Power Workers](./Lost%20Power%20Workers.md)_
 
-"*Find out what happened to the lost power workers. Search their last noted work locations.*"
+"_Find out what happened to the lost power workers. Search their last noted work locations._"
 
 — In-game description
 
 ### A Riddle Among the Shadows
 
-*Main article: [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md)*
+_Main article: [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md)_
 
-"*Open and search the Forest Talker Supply Cache.*"
+"_Open and search the Forest Talker Supply Cache._"
 
 — In-game description
 
@@ -205,9 +200,26 @@ The Episode 4 was released on October 6th, 2021.
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![poster](../assets/Fury_then_silence_banner.png) / *poster* | ![Poster](../assets/Episode_4.jpg) / *Poster* | ![One of the convict caches.](../assets/Valley_cache.jpg) / *One of the convict caches.* | ![Convict cache located at a mountain on the map.](../assets/Small_mountain_cache.jpg) / *Convict cache located at a mountain on the map.* |
-| ![Radio tower convict cache.](../assets/Radio_tower_cache.jpg) / *Radio tower convict cache.* | ![Episode 4's Menu Background](../assets/Episode_4_Menu_Background.png) / *Episode 4's Menu Background* |  |  |
+![poster](../assets/Fury_then_silence_banner.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_poster_
+
+![Poster](../assets/Episode_4.jpg)
+
+_Poster_
+
+![One of the convict caches.](../assets/Valley_cache.jpg)
+
+_One of the convict caches._
+
+![Convict cache located at a mountain on the map.](../assets/Small_mountain_cache.jpg)
+
+_Convict cache located at a mountain on the map._
+
+![Radio tower convict cache.](../assets/Radio_tower_cache.jpg)
+
+_Radio tower convict cache._
+
+![Episode 4's Menu Background](../assets/Episode_4_Menu_Background.png)
+
+_Episode 4's Menu Background_

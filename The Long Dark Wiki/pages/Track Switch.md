@@ -1,13 +1,8 @@
----
-title: "Track Switch"
-wiki_namespace: 0
-categories: ["DLC Content", "Interactable Objects", "Story items", "Wintermute"]
-source: "https://thelongdark.fandom.com/wiki/Track_Switch"
----
-
 # Track Switch
 
-**Track Switches** are stationary interactable objects in [*The Long Dark*](./The%20Long%20Dark.md), that are only found on [Cauldron Island](./Cauldron%20Island.md), and [Wintermute Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md).
+**Categories:** DLC Content, Interactable Objects, Story items, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Track_Switch)
+
+**Track Switches** are stationary interactable objects in [_The Long Dark_](./The%20Long%20Dark.md), that are only found on [Cauldron Island](./Cauldron%20Island.md), and [Wintermute Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md).
 
 ## Overview
 

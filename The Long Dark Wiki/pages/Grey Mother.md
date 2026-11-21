@@ -1,11 +1,6 @@
----
-title: "Grey Mother"
-wiki_namespace: 0
-categories: ["Characters", "Pages with update history", "Story"]
-source: "https://thelongdark.fandom.com/wiki/Grey_Mother"
----
-
 # Grey Mother
+
+**Categories:** Characters, Pages with update history, Story · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Grey_Mother)
 
 **Contents**
 
@@ -24,7 +19,7 @@ source: "https://thelongdark.fandom.com/wiki/Grey_Mother"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Grey_Mother.png) / *Grey\_Mother.png* |
+|  | ![](../assets/Grey_Mother.png) / _Grey\_Mother.png_ |
 | Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00) |
 | Date | 1 August 2017 |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
@@ -41,11 +36,11 @@ source: "https://thelongdark.fandom.com/wiki/Grey_Mother"
 | Equipment | [Hunting Rifle](./Hunting%20Rifle.md) |
 | Voiced by | [Gwynyth Walsh](wikipedia:Gwynyth_Walsh) |
 
-> “**An elderly blind woman, and possibly the last remaining survivor in Milton. She seems to know something about where Astrid might have gone.**”
+> “__An elderly blind woman, and possibly the last remaining survivor in Milton. She seems to know something about where Astrid might have gone.__”
 >
 > — In-game description
 
-> “**Over the years...I have learned that most people disappoint you, given the chance.**”
+> “__Over the years...I have learned that most people disappoint you, given the chance.__”
 >
 > — Grey Mother
 
@@ -53,7 +48,7 @@ source: "https://thelongdark.fandom.com/wiki/Grey_Mother"
 
 ## History
 
-Years before the events of *The Long Dark*, Grey Mother was married to a farmer named [Martin Barker](./Martin%20Barker.md). Together they had a daughter named [Lilith](./Lilith%20Barker.md). Tragedy struck when Lilith died in a climbing accident, and Grey Mother blamed her death on Martin, driving a wedge between them and causing them to live in separate homes. Things only got worse when the quakes devastated the island, and Grey Mother eventually became a recluse, abandoning the name of Barker and developing a reputation as a senile old blind lady.
+Years before the events of _The Long Dark_, Grey Mother was married to a farmer named [Martin Barker](./Martin%20Barker.md). Together they had a daughter named [Lilith](./Lilith%20Barker.md). Tragedy struck when Lilith died in a climbing accident, and Grey Mother blamed her death on Martin, driving a wedge between them and causing them to live in separate homes. Things only got worse when the quakes devastated the island, and Grey Mother eventually became a recluse, abandoning the name of Barker and developing a reputation as a senile old blind lady.
 
 When the [First Flare](./First%20Flare.md) struck, she remained in her Milton home after the surviving residents were killed by [Convicts](./Convicts.md).
 
@@ -69,7 +64,7 @@ The two of them make a deal after Mackenzie gets enough food and fuel for the ol
 
 ### [Paradise Lost](./Paradise%20Lost.md)
 
-> “**My journey is finished. But yours is only beginning. Go, and don't think of Grey Mother, or Milton. We're of the old world now. The new world is for the strong to survive.**”
+> “__My journey is finished. But yours is only beginning. Go, and don't think of Grey Mother, or Milton. We're of the old world now. The new world is for the strong to survive.__”
 
 Before Mackeznie leaves Milton, he has a chance to right a wrong from the past in an optional side quest, [One Last Thing](./One%20Last%20Thing.md), where he places the pearls on Lilith's tomb. Doing so leaves Grey Mother at peace, as she is content to sit and think of her Lily, urging Mackenzie to forget about about old Grey Mother and to find his friend.
 
@@ -90,10 +85,33 @@ Grey Mother seemingly passed away in her home in the time since MacKenzie left M
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Steam Trading Card](../assets/Grey_Mother_Steam_Card_Preview.png) / *Steam Trading Card* | ![Ditto, full screen](../assets/Grey_Mother_Steam_Card.jpg) / *Ditto, full screen* | ![A portrait found in Milton House (Grey Mother's), likely of Martin Barker, Lilith Barker and Grey Mother.](../assets/Barker_Family_Portrait.jpg) / *A portrait found in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), likely of [Martin Barker](./Martin%20Barker.md), [Lilith Barker](./Lilith%20Barker.md) and Grey Mother.* | ![Grey Mother's family](../assets/Grey_mother_picture.png) / *Grey Mother's family* |
-| ![](../assets/Grey_Mother.jpg) / *Grey\_Mother.jpg* | ![Grey Mother aiming her weapon at Mackenzie in their first encounter](../assets/Grey_mother_gun.jpg) / *Grey Mother aiming her weapon at Mackenzie in their first encounter* | ![Grey Mother's Cut Trust menu](../assets/GreyMotherTrustOutdated.jpg) / *Grey Mother's Cut Trust menu* |  |
+![Steam Trading Card](../assets/Grey_Mother_Steam_Card_Preview.png)
+
+_Steam Trading Card_
+
+![Ditto, full screen](../assets/Grey_Mother_Steam_Card.jpg)
+
+_Ditto, full screen_
+
+![A portrait found in Milton House (Grey Mother's), likely of Martin Barker, Lilith Barker and Grey Mother.](../assets/Barker_Family_Portrait.jpg)
+
+_A portrait found in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), likely of [Martin Barker](./Martin%20Barker.md), [Lilith Barker](./Lilith%20Barker.md) and Grey Mother._
+
+![Grey Mother's family](../assets/Grey_mother_picture.png)
+
+_Grey Mother's family_
+
+![](../assets/Grey_Mother.jpg)
+
+_Grey\_Mother.jpg_
+
+![Grey Mother aiming her weapon at Mackenzie in their first encounter](../assets/Grey_mother_gun.jpg)
+
+_Grey Mother aiming her weapon at Mackenzie in their first encounter_
+
+![Grey Mother's Cut Trust menu](../assets/GreyMotherTrustOutdated.jpg)
+
+_Grey Mother's Cut Trust menu_
 
 ## Update history
 
@@ -117,5 +135,3 @@ Grey Mother seemingly passed away in her home in the time since MacKenzie left M
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [fr:Grey\_Mother](fr:Grey_Mother) [ru:Серая Мать](ru:%D0%A1%D0%B5%D1%80%D0%B0%D1%8F_%D0%9C%D0%B0%D1%82%D1%8C)

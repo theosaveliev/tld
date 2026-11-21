@@ -1,17 +1,12 @@
----
-title: "Broken Metal Light Fixture"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Broken_Metal_Light_Fixture"
----
-
 # Broken Metal Light Fixture
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Broken_Metal_Light_Fixture)
 
 **Broken Metal Light Fixture**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/BrokenMetalLightFixture.jpg) / *BrokenMetalLightFixture.jpg* |
+|  | ![](../assets/BrokenMetalLightFixture.jpg) / _BrokenMetalLightFixture.jpg_ |
 | **General** |  |
 | Item Type | Item |
 | Wintermute |  |
@@ -26,5 +21,3 @@ Yields 2 [Scrap Metal](./Scrap%20Metal.md) in 45 minutes.
 | Object | Scrap Metal | Time | Calories | Condition (of Hacksaw) |
 | --- | --- | --- | --- | --- |
 | Broken Metal Light Fixture | 2 | 45 minutes | 188 | -5% |
-
-**Lua execution error in Module:Navbox function navbox**

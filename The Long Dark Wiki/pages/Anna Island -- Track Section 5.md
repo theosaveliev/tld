@@ -1,11 +1,6 @@
----
-title: "Anna Island -- Track Section 5"
-wiki_namespace: 0
-categories: ["DLC Content"]
-source: "https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_5"
----
-
 # Anna Island \-\- Track Section 5
+
+**Categories:** DLC Content · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_5)
 
 **Contents**
 
@@ -19,11 +14,11 @@ source: "https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_5"
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| ![](../assets/Seal_icon.png) / *Seal\_icon.png* | **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / **Anna Island -- Track Section 5** / \| Property \| Details \| / \| --- \| --- \| / \|  \| ![](../assets/Anna_Island_Track_Section_5.jpg) / *Anna\_Island\_Track\_Section\_5.jpg* \| / \| **Location on [Cauldron Island](./Cauldron%20Island.md)** \|  \| / \|  \| ![](../assets/No_picture.png) / *No\_picture.png* \| / \|  \| ![](../assets/Anna_Island_Track_Section_5_Map.png) / *Anna\_Island\_Track\_Section\_5\_Map.png* \| / \| **Details** \|  \| / \| Description \| A mountainous, linear railway region near Port Remnant \| / \| Connecting Regions \| [Port Remnant](./Port%20Remnant.md) [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) / [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) \| / \| Interloper Region Spawn \| No \| / \| Date Added \| October 27 2026 \| / **Anna Island -- Track Section 5** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in *[The Long Dark](./The%20Long%20Dark.md).* / ## Overview / This is the first of the 6 Track Section regions of Anna Island, and will unfortunately have to be traversed by foot on your first trek through the region. The region is very long, so patience and preparedness are required to traverse it on foot. / A metal gate blocks the path to the most western section of the map, barring access to [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md). A hidden mountain passage can be accessed via a [Mountaineering Rope](./Mountaineering%20Rope.md) that leads to [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) (the player is lead there via the [Map (Train)](./Map%20%28Train%29.md) note while following the trail of clues left behind by Alice McLeod), which will lead to the [Prototype Train](./Prototype%20Train.md). / A single [Warm Cave](./Warm%20Cave.md) is found in the middle of the map to help the Survivor rest while walking through the region, and two Railways can be found to the East and West of the map. / Two unmarked ponds filled with [Cat Tails](./Cat%20Tail.md) and [Rabbits](./Rabbit.md) can be found to the most eastern and western Railways of the map, close to the region transitions. / When revisiting the region with the [Prototype Train](./Prototype%20Train.md), there is one [Water Tower](./Water%20Tower.md) by the East Railyard near Transition to [Port Remnant](./Port%20Remnant.md) and one [Whale Oil Tank](./Oil%20Tank.md) by the West Railyard near Transition to [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) that can be used. / [Ice Fishing](./Ice%20Fishing.md) is possible in this region by taking the [Path (Track Section 5)](./Path%20%28Track%20Section%205%29.md) down to the sea. / ## Locations / There are 7 named locations within Track Section 5, including:{\| class="" style="background-color:transparent; color:inherit; width:100%;" |
-| ![](../assets/Anna_Island_Track_Section_5.jpg) / *Anna\_Island\_Track\_Section\_5.jpg* |  |  |
+| ![](../assets/Seal_icon.png) / _Seal\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / **Anna Island -- Track Section 5** / \| Property \| Details \| / \| --- \| --- \| / \|  \| ![](../assets/Anna_Island_Track_Section_5.jpg) / _Anna\_Island\_Track\_Section\_5.jpg_ \| / \| **Location on [Cauldron Island](./Cauldron%20Island.md)** \|  \| / \|  \| ![](../assets/No_picture.png) / _No\_picture.png_ \| / \|  \| ![](../assets/Anna_Island_Track_Section_5_Map.png) / _Anna\_Island\_Track\_Section\_5\_Map.png_ \| / \| **Details** \|  \| / \| Description \| A mountainous, linear railway region near Port Remnant \| / \| Connecting Regions \| [Port Remnant](./Port%20Remnant.md) [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) / [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) \| / \| Interloper Region Spawn \| No \| / \| Date Added \| October 27 2026 \| / **Anna Island -- Track Section 5** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._ / ## Overview / This is the first of the 6 Track Section regions of Anna Island, and will unfortunately have to be traversed by foot on your first trek through the region. The region is very long, so patience and preparedness are required to traverse it on foot. / A metal gate blocks the path to the most western section of the map, barring access to [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md). A hidden mountain passage can be accessed via a [Mountaineering Rope](./Mountaineering%20Rope.md) that leads to [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) (the player is lead there via the [Map (Train)](./Map%20%28Train%29.md) note while following the trail of clues left behind by Alice McLeod), which will lead to the [Prototype Train](./Prototype%20Train.md). / A single [Warm Cave](./Warm%20Cave.md) is found in the middle of the map to help the Survivor rest while walking through the region, and two Railways can be found to the East and West of the map. / Two unmarked ponds filled with [Cat Tails](./Cat%20Tail.md) and [Rabbits](./Rabbit.md) can be found to the most eastern and western Railways of the map, close to the region transitions. / When revisiting the region with the [Prototype Train](./Prototype%20Train.md), there is one [Water Tower](./Water%20Tower.md) by the East Railyard near Transition to [Port Remnant](./Port%20Remnant.md) and one [Whale Oil Tank](./Oil%20Tank.md) by the West Railyard near Transition to [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) that can be used. / [Ice Fishing](./Ice%20Fishing.md) is possible in this region by taking the [Path (Track Section 5)](./Path%20%28Track%20Section%205%29.md) down to the sea. / ## Locations / There are 7 named locations within Track Section 5, including:{\| class="" style="background-color:transparent; color:inherit; width:100%;" |
+| ![](../assets/Anna_Island_Track_Section_5.jpg) / _Anna\_Island\_Track\_Section\_5.jpg_ |  |  |
 | **Location on [Cauldron Island](./Cauldron%20Island.md)** |  |  |
-| ![](../assets/No_picture.png) / *No\_picture.png* |  |  |
-| ![](../assets/Anna_Island_Track_Section_5_Map.png) / *Anna\_Island\_Track\_Section\_5\_Map.png* |  |  |
+| ![](../assets/No_picture.png) / _No\_picture.png_ |  |  |
+| ![](../assets/Anna_Island_Track_Section_5_Map.png) / _Anna\_Island\_Track\_Section\_5\_Map.png_ |  |  |
 | **Details** |  |  |
 | Description | A mountainous, linear railway region near Port Remnant |  |
 | Connecting Regions | [Port Remnant](./Port%20Remnant.md) [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) / [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) |  |
@@ -47,18 +42,36 @@ Returning with the train will make travelling through the region much easier on 
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Railyard and Cabin](../assets/Railyard_and_Cabin_Track_Section_5.png) / ***Railyard and Cabin*** | ![Transition Rope to Track Section 6](../assets/Transition_Rope_to_Track_Section_6_%28from_5%29.png) / ***Transition Rope to Track Section 6*** | ![Transition to Port Remnant](../assets/Transition_to_Port_Remnant_%28from_5%29.png) / ***Transition to Port Remnant*** | ![Transition to Track Section 4](../assets/Transition_to_Track_Section_4_%28from_5%29.png) / ***Transition to Track Section 4*** |
+![Railyard and Cabin](../assets/Railyard_and_Cabin_Track_Section_5.png)
+
+_**Railyard and Cabin**_
+
+![Transition Rope to Track Section 6](../assets/Transition_Rope_to_Track_Section_6_%28from_5%29.png)
+
+_**Transition Rope to Track Section 6**_
+
+![Transition to Port Remnant](../assets/Transition_to_Port_Remnant_%28from_5%29.png)
+
+_**Transition to Port Remnant**_
+
+![Transition to Track Section 4](../assets/Transition_to_Track_Section_4_%28from_5%29.png)
+
+_**Transition to Track Section 4**_
 
 ### Maps
 
 ### Locations
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![Railyard west](../assets/Railyard_%28Track_Section_5_West%29.jpg) / *Railyard west* | ![Railyard east](../assets/Railyard_%28Track_Section_5_East%29.jpg) / *Railyard east* | ![Cave middle of region](../assets/Cave_%28Track_Section_5%29.jpg) / *Cave middle of region* |
+![Railyard west](../assets/Railyard_%28Track_Section_5_West%29.jpg)
 
-**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**
+_Railyard west_
+
+![Railyard east](../assets/Railyard_%28Track_Section_5_East%29.jpg)
+
+_Railyard east_
+
+![Cave middle of region](../assets/Cave_%28Track_Section_5%29.jpg)
+
+_Cave middle of region_
 
 [ru:Остров Анны — Участок пути 5](ru:%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%90%D0%BD%D0%BD%D1%8B_%E2%80%94_%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA_%D0%BF%D1%83%D1%82%D0%B8_5)

@@ -1,17 +1,12 @@
----
-title: "Go! Energy Drink"
-wiki_namespace: 0
-categories: ["First Aid", "Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Go!_Energy_Drink"
----
-
 # Go\! Energy Drink
+
+**Categories:** First Aid, Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Go!_Energy_Drink)
 
 **Go! Energy Drink**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Go!_Energy_Drink_icon.png) / *Go!\_Energy\_Drink\_icon.png* |
+|  | ![](../assets/Go!_Energy_Drink_icon.png) / _Go!\_Energy\_Drink\_icon.png_ |
 | Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48) |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) no (Interloper) |
 | **Properties** |  |
@@ -25,7 +20,7 @@ source: "https://thelongdark.fandom.com/wiki/Go!_Energy_Drink"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_SodaEnergy |
 
-**Go! Energy Drink** is a [First Aid](./First%20Aid.md) item in *The Long Dark*.
+**Go! Energy Drink** is a [First Aid](./First%20Aid.md) item in _The Long Dark_.
 
 ## Overview
 
@@ -41,5 +36,3 @@ Go! Energy Drink does not spawn on Interloper difficulty.
 
 - UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Энергетический напиток Go!](ru:%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D0%BF%D0%B8%D1%82%D0%BE%D0%BA_Go!)

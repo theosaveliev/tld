@@ -1,11 +1,6 @@
----
-title: "Will Mackenzie"
-wiki_namespace: 0
-categories: ["Characters"]
-source: "https://thelongdark.fandom.com/wiki/Will_Mackenzie"
----
-
 # Will Mackenzie
+
+**Categories:** Characters · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Will_Mackenzie)
 
 **Contents**
 
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/Will_Mackenzie"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Will_Episode_5.jpg) / *Will\_Episode\_5.jpg* |
+|  | ![](../assets/Will_Episode_5.jpg) / _Will\_Episode\_5.jpg_ |
 | Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00) |
 | Date | 1 August 2017 |
 | Wintermute | **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **•** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) / **•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) Episode 5 |
@@ -40,9 +35,9 @@ source: "https://thelongdark.fandom.com/wiki/Will_Mackenzie"
 | **Game Information** |  |
 | Voiced by | [Mark Meer](wikipedia:Mark_Meer) |
 
-> “**What do I have to worry about? I have a legendary 150 year old demon bear hungry for my blood. Bullets don't stop him, but I'm armed with basically a medieval weapon which I'm sure will do the trick. I'm stuck in this winter wasteland where lights in the sky make the power flicker and electronics explode, and the only people I seem to meet are all slightly crazy. And this is all after I crashed my plane deep in the wilderness and somehow lost my ex-wife along the way, and I'd really kind of like to find her back.**”
+> “__What do I have to worry about? I have a legendary 150 year old demon bear hungry for my blood. Bullets don't stop him, but I'm armed with basically a medieval weapon which I'm sure will do the trick. I'm stuck in this winter wasteland where lights in the sky make the power flicker and electronics explode, and the only people I seem to meet are all slightly crazy. And this is all after I crashed my plane deep in the wilderness and somehow lost my ex-wife along the way, and I'd really kind of like to find her back.__”
 
-**William "Will" Mackenzie** is one of two playable protagonists in *[The Long Dark](./The%20Long%20Dark.md)*.
+**William "Will" Mackenzie** is one of two playable protagonists in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 Will Mackenzie works as a pilot for [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) prior to the First Flare event. He is the ex-husband of [Dr. Astrid Greenwood](./Astrid%20Greenwood.md).
 
@@ -133,14 +128,46 @@ The [final chapter](./Donner.md) of the episode begins with [Franklin's](./Frank
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![Steam Trading Card](../assets/William_Mackenzie_Steam_Card_Preview.png) / *Steam Trading Card* | ![](../assets/Will.png) / *Will.png* | ![Ditto, full screen](../assets/William_Mackenzie_Steam_Card.jpg) / *Ditto, full screen* | ![Will from the Story Trailer](../assets/The_Long_Dark_-_William_Mackenzie.png) / *Will from the Story Trailer* |
-| ![A smashed photo of Astrid and Will](../assets/Astrid_and_Will_photo.jpg) / *A smashed photo of Astrid and Will* | ![Will close-up](../assets/Will_Mackenzie_-_concept_art_-_close.jpg) / *Will close-up* | ![Poster featuring Will.](../assets/Poster.jpg) / *Poster featuring Will.* | ![Concept art headshot of Will.](../assets/Will_headshot.jpg) / *Concept art headshot of Will.* |
-| ![Will Mackenzie concept art.](../assets/Will_Mackenzie_-_concept_art.jpg) / *Will Mackenzie concept art.* | ![Will Mackenzie's paperdoll (Wintermute clothes are on 100% condition)](../assets/Will_Mackenzie_haha.png) / *Will Mackenzie's paperdoll (Wintermute clothes are on 100% condition)* |  |  |
+![Steam Trading Card](../assets/William_Mackenzie_Steam_Card_Preview.png)
+
+_Steam Trading Card_
+
+![](../assets/Will.png)
+
+_Will.png_
+
+![Ditto, full screen](../assets/William_Mackenzie_Steam_Card.jpg)
+
+_Ditto, full screen_
+
+![Will from the Story Trailer](../assets/The_Long_Dark_-_William_Mackenzie.png)
+
+_Will from the Story Trailer_
+
+![A smashed photo of Astrid and Will](../assets/Astrid_and_Will_photo.jpg)
+
+_A smashed photo of Astrid and Will_
+
+![Will close-up](../assets/Will_Mackenzie_-_concept_art_-_close.jpg)
+
+_Will close-up_
+
+![Poster featuring Will.](../assets/Poster.jpg)
+
+_Poster featuring Will._
+
+![Concept art headshot of Will.](../assets/Will_headshot.jpg)
+
+_Concept art headshot of Will._
+
+![Will Mackenzie concept art.](../assets/Will_Mackenzie_-_concept_art.jpg)
+
+_Will Mackenzie concept art._
+
+![Will Mackenzie's paperdoll (Wintermute clothes are on 100% condition)](../assets/Will_Mackenzie_haha.png)
+
+_Will Mackenzie's paperdoll (Wintermute clothes are on 100% condition)_
 
 ## Notes
 
-- Will Mackenzie is voiced by [Mark Meer](Wikipedia:Mark_Meer). Meer's most notable voice work include [Commander Shepard](W:c:masseffect:Commander_Shepard) (male) in the *[Mass Effect](W:c:masseffect:Category:Games)* series.
-
-**Lua execution error in Module:Navbox function navbox** [fr:William\_Mackenzie](fr:William_Mackenzie) [ru:Уилл Маккензи](ru:%D0%A3%D0%B8%D0%BB%D0%BB_%D0%9C%D0%B0%D0%BA%D0%BA%D0%B5%D0%BD%D0%B7%D0%B8)
+- Will Mackenzie is voiced by [Mark Meer](Wikipedia:Mark_Meer). Meer's most notable voice work include [Commander Shepard](W:c:masseffect:Commander_Shepard) (male) in the _[Mass Effect](W:c:masseffect:Category:Games)_ series.

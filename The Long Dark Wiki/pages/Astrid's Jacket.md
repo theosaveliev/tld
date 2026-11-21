@@ -1,17 +1,12 @@
----
-title: "Astrid's Jacket"
-wiki_namespace: 0
-categories: ["Clothing", "Pages with update history", "Story items", "Wintermute"]
-source: "https://thelongdark.fandom.com/wiki/Astrid's_Jacket"
----
-
 # Astrid's Jacket
+
+**Categories:** Clothing, Pages with update history, Story items, Wintermute · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Astrid's_Jacket)
 
 **Astrid's Jacket**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Astrid%27s_Jacket_icon.png) / *Astrid's\_Jacket\_icon.png* |
+|  | ![](../assets/Astrid%27s_Jacket_icon.png) / _Astrid's\_Jacket\_icon.png_ |
 | **General** |  |
 | Item Type | Clothing\|- |
 | **Statistics** |  |
@@ -26,7 +21,7 @@ source: "https://thelongdark.fandom.com/wiki/Astrid's_Jacket"
 
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / *2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png* | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | **A thin shell lined with sheep's wool, this jacket is lightweight with good insulation.** / In-game description | ” |
+| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_ | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | __A thin shell lined with sheep's wool, this jacket is lightweight with good insulation.__ / In-game description | ” |
 
 **Astrid's Jacket** is a [Clothing](./Clothing.md) item worn on the player's outer torso obtained during [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
@@ -38,13 +33,15 @@ The statistics of Astrid's jacket are identical to those of a [Simple Parka](./S
 
 There is a small piece of Astrid's scarf tied to her left arm after her encounter with [Hobbs](./Hobbs.md). This piece is all that remains of her scarf after the plane crash.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Clothing model icon](../assets/Astrid%27s_Jacket_Model_icon.png) / *Clothing model icon* | ![Clothing model icon](../assets/Astrid%27s_Jacket_Model_Damaged_icon.png) / *Clothing model icon* |
+![Clothing model icon](../assets/Astrid%27s_Jacket_Model_icon.png)
+
+_Clothing model icon_
+
+![Clothing model icon](../assets/Astrid%27s_Jacket_Model_Damaged_icon.png)
+
+_Clothing model icon_
 
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Куртка Астрид](ru:%D0%9A%D1%83%D1%80%D1%82%D0%BA%D0%B0_%D0%90%D1%81%D1%82%D1%80%D0%B8%D0%B4)

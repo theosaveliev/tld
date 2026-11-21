@@ -1,11 +1,6 @@
----
-title: "Prepared Rose Hips"
-wiki_namespace: 0
-categories: ["Food And Drink"]
-source: "https://thelongdark.fandom.com/wiki/Prepared_Rose_Hips"
----
-
 # Prepared Rose Hips
+
+**Categories:** Food And Drink · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Prepared_Rose_Hips)
 
 **Contents**
 
@@ -21,18 +16,18 @@ source: "https://thelongdark.fandom.com/wiki/Prepared_Rose_Hips"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Prepared_Rose_Hips_icon.png) / *Prepared\_Rose\_Hips\_icon.png* |
+|  | ![](../assets/Prepared_Rose_Hips_icon.png) / _Prepared\_Rose\_Hips\_icon.png_ |
 | **General** |  |
 | Item Type |  |
 | Wintermute | No |
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.05 kg(0.11 lbs) |
 
-> “**Rose hips that are ready to be boiled to make a healing natural tea.**”
+> “__Rose hips that are ready to be boiled to make a healing natural tea.__”
 >
 > — In-game description
 
-**Prepared Rose Hips** are a natural medical and food item used to treat [Afflictions](./Afflictions.md) in *The Long Dark*.
+**Prepared Rose Hips** are a natural medical and food item used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 
 ## Overview
 
@@ -86,8 +81,6 @@ Prepared Rose Hips have about 1/5 the weight of their raw form, and do not [Deca
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![The old Prepared Rose Hips model](../assets/Prepared_Rose_Hips_icon_historic.png) / *The old Prepared Rose Hips model* |
+![The old Prepared Rose Hips model](../assets/Prepared_Rose_Hips_icon_historic.png)
 
-**Lua execution error in Module:Navbox function navbox**
+_The old Prepared Rose Hips model_

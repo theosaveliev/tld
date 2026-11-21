@@ -1,11 +1,6 @@
----
-title: "Convicts"
-wiki_namespace: 0
-categories: ["Story"]
-source: "https://thelongdark.fandom.com/wiki/Convicts"
----
-
 # Convicts
+
+**Categories:** Story · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Convicts)
 
 **Contents**
 
@@ -23,9 +18,9 @@ source: "https://thelongdark.fandom.com/wiki/Convicts"
 
 ![](../assets/Mathis_and_his_Convicts.jpg)
 
-*Mathis\_and\_his\_Convicts.jpg*
+_Mathis\_and\_his\_Convicts.jpg_
 
-> “**The bad men...the bad men CAME. Took my things. Tried to take my house. Thought they were safe because Grey Mother can't see. They were wrong.**”
+> “__The bad men...the bad men CAME. Took my things. Tried to take my house. Thought they were safe because Grey Mother can't see. They were wrong.__”
 >
 > — Grey Mother describing her encounter with the Convicts
 
@@ -99,9 +94,26 @@ At the end of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
-| ![The convict in Episode 2](../assets/Convict_Episode_2.jpg) / *The convict in Episode 2* | ![A convict operating a spotlight while searching for Will.](../assets/Convict_Spotlight.jpg) / *A convict operating a spotlight while searching for Will.* | ![A convict moving Franklin's body through the halls.](../assets/Franklin_Dead.jpg) / *A convict moving Franklin's body through the halls.* | ![A dead prisoner in episode 3](../assets/Blackrock_prisoner_body_1.jpg) / *A dead prisoner in episode 3* |
-| ![ditto](../assets/Blackrock_prisoner_body_2.jpg) / *ditto* | ![The executed remains of the Blackrock Personnel by the hands of the Convicts](../assets/Blackrock_Prison_Guards.jpg) / *The executed remains of the Blackrock Personnel by the hands of the Convicts* |  |  |
+![The convict in Episode 2](../assets/Convict_Episode_2.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_The convict in Episode 2_
+
+![A convict operating a spotlight while searching for Will.](../assets/Convict_Spotlight.jpg)
+
+_A convict operating a spotlight while searching for Will._
+
+![A convict moving Franklin's body through the halls.](../assets/Franklin_Dead.jpg)
+
+_A convict moving Franklin's body through the halls._
+
+![A dead prisoner in episode 3](../assets/Blackrock_prisoner_body_1.jpg)
+
+_A dead prisoner in episode 3_
+
+![ditto](../assets/Blackrock_prisoner_body_2.jpg)
+
+_ditto_
+
+![The executed remains of the Blackrock Personnel by the hands of the Convicts](../assets/Blackrock_Prison_Guards.jpg)
+
+_The executed remains of the Blackrock Personnel by the hands of the Convicts_

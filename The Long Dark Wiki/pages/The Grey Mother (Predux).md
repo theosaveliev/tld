@@ -1,11 +1,6 @@
----
-title: "The Grey Mother (Predux)"
-wiki_namespace: 0
-categories: ["Episode 1", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux)"
----
-
 # The Grey Mother \(Predux\)
+
+**Categories:** Episode 1, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Grey_Mother_%28Predux%29)
 
 **Contents**
 
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/The_Grey_Mother_%28Predux%29.jpg) / *The\_Grey\_Mother\_(Predux).jpg* |
+|  | ![](../assets/The_Grey_Mother_%28Predux%29.jpg) / _The\_Grey\_Mother\_(Predux).jpg_ |
 | Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
 | Previous | [Echoes Of Astrid](./Echoes%20Of%20Astrid.md) |
 | Current | The Grey Mother (Predux) |
@@ -31,11 +26,11 @@ source: "https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux)"
 | Region | [Mountain Town](./Mountain%20Town.md) |
 | Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Grey Mother](./Grey%20Mother.md) |
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **The old woman might be the last survivor in Milton. She seems to know more than she's letting on. She might be the key to understanding what happened to Astrid.**
+**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __The old woman might be the last survivor in Milton. She seems to know more than she's letting on. She might be the key to understanding what happened to Astrid.__
 
 In-game description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}**The Grey Mother (Predux)** was the third mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of *[The Long Dark](./The%20Long%20Dark.md)* by using the [Time Capsule](./Time%20Capsule.md).
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}**The Grey Mother (Predux)** was the third mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 This episode has since been replaced by current the version of [The Grey Mother](./The%20Grey%20Mother.md).
 
@@ -148,6 +143,4 @@ Several plot points and locations have been replaced/altered since the Redux re-
 
 \[The Grey Mother (Predux)\]
 
-- 
-
-**Lua execution error in Module:Navbox function navbox**
+-

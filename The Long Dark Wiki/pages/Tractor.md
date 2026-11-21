@@ -1,11 +1,6 @@
----
-title: "Tractor"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Tractor"
----
-
 # Tractor
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tractor)
 
 ![](../assets/Tractor.jpg) **Tractors** are interactable [vehicle](./Vehicle.md) objects found near farms and garages, such as the [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md), [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), and [Quonset Garage](./Quonset%20Garage.md).
 
@@ -19,10 +14,8 @@ Snacks like [Candy Bars](./Chocolate%20Bar.md) or [Sodas](./Soda%20%28disambigua
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![The interior](../assets/Tractor_interior.jpg) / *The interior* |
+![The interior](../assets/Tractor_interior.jpg)
+
+_The interior_
 
 [ru:Трактор](ru:%D0%A2%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80)
-
-**Lua execution error in Module:Navbox function navbox**

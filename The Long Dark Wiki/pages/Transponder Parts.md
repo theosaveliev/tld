@@ -1,17 +1,12 @@
----
-title: "Transponder Parts"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Transponder_Parts"
----
-
 # Transponder Parts
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Transponder_Parts)
 
 **Transponder Parts**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Transponder_Parts_icon.png) / *Transponder\_Parts\_icon.png* |
+|  | ![](../assets/Transponder_Parts_icon.png) / _Transponder\_Parts\_icon.png_ |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Signal to Noise](./Signal%20to%20Noise.md) |
 | **Properties** |  |
 | Item type | [Collectibles](./Collectibles.md)\|- |
@@ -24,9 +19,9 @@ source: "https://thelongdark.fandom.com/wiki/Transponder_Parts"
 
 **Transponder Parts** are a [Collectible](./Collectibles.md) found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of [Wintermute](./Wintermute.md). [Will Mackenzie](./Will%20Mackenzie.md) is tasked with recovering 3 of these during the mission [Signal to Noise](./Signal%20to%20Noise.md). They are recovered at the radio towers at [Shortwave Tower West](./Shortwave%20Tower%20West.md), [Muskeg Overlook](./Muskeg%20Overlook.md), and [Shortwave Tower](./Shortwave%20Tower.md). They are one of the few Collectibles to have weight.
 
-| Column 1 |
-| --- |
-| ![alt icon](../assets/Transponder_Parts_2_icon.png) / *alt icon* |
+![alt icon](../assets/Transponder_Parts_2_icon.png)
+
+_alt icon_
 
 ## Update history
 
@@ -34,5 +29,3 @@ source: "https://thelongdark.fandom.com/wiki/Transponder_Parts"
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

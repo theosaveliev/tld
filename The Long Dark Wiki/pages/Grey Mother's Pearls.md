@@ -1,17 +1,12 @@
----
-title: "Grey Mother's Pearls"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Grey_Mother's_Pearls"
----
-
 # Grey Mother's Pearls
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Grey_Mother's_Pearls)
 
 **Grey Mother's Pearls**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Grey_Mother%27s_Pearls_icon.png) / *Grey\_Mother's\_Pearls\_icon.png* |
+|  | ![](../assets/Grey_Mother%27s_Pearls_icon.png) / _Grey\_Mother's\_Pearls\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [One Last Thing](./One%20Last%20Thing.md) |
 | **Properties** |  |
@@ -37,5 +32,3 @@ During the course of the mission, Mackenzie delivers the pearls to the [gravesit
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

@@ -1,11 +1,6 @@
----
-title: "Ammunition Forge"
-wiki_namespace: 0
-categories: ["Interactable Objects"]
-source: "https://thelongdark.fandom.com/wiki/Ammunition_Forge"
----
-
 # Ammunition Forge
+
+**Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ammunition_Forge)
 
 **Contents**
 
@@ -23,15 +18,15 @@ source: "https://thelongdark.fandom.com/wiki/Ammunition_Forge"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Ammunition_Forge.png) / *Ammunition\_Forge.png* |
+|  | ![](../assets/Ammunition_Forge.png) / _Ammunition\_Forge.png_ |
 | Release | 9 December 2019 |
 | Update | [1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64) |
 | Story item | No |
 | Location | [Last Resort Cannery](./Last%20Resort%20Cannery.md) / [Blackrock Prison](./Blackrock%20Prison.md) |
 
-*For the Work Bench, see [Ammunition Work Bench](./Ammunition%20Work%20Bench.md).*
+_For the Work Bench, see [Ammunition Work Bench](./Ammunition%20Work%20Bench.md)._
 
-The **Ammunition Forge** is a firebox in *The Long Dark,* introduced in the Errant Pilgrim update alongside [Bleak Inlet](./Bleak%20Inlet.md). The Forge is used to craft [Bullets](./Bullet.md) for [Hunting Rifle](./Hunting%20Rifle.md) and [Revolver](./Revolver.md) ammunition. Use of the Ammunition Forge, Ammunition Work Bench, and [Research Books](./Research%20Book.md) are the only means to increase the [Gunsmithing](./Gunsmithing.md) skill.
+The **Ammunition Forge** is a firebox in _The Long Dark,_ introduced in the Errant Pilgrim update alongside [Bleak Inlet](./Bleak%20Inlet.md). The Forge is used to craft [Bullets](./Bullet.md) for [Hunting Rifle](./Hunting%20Rifle.md) and [Revolver](./Revolver.md) ammunition. Use of the Ammunition Forge, Ammunition Work Bench, and [Research Books](./Research%20Book.md) are the only means to increase the [Gunsmithing](./Gunsmithing.md) skill.
 
 ## Overview
 
@@ -99,8 +94,14 @@ The Ammunition Workbenches in both locations are initially sealed away behind el
 
 ## Gallery
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![The Ammunition Forge next to the Work Bench](../assets/Ammunition_Forge.jpg) / *The Ammunition Forge next to the Work Bench* | ![The Work Bench portion](../assets/Ammunition_Workbench.jpg) / *The Work Bench portion* | ![Crafting icon](../assets/Ammunition_workbench_icon.png) / *Crafting icon* |
+![The Ammunition Forge next to the Work Bench](../assets/Ammunition_Forge.jpg)
 
-**Lua execution error in Module:Navbox function navbox**
+_The Ammunition Forge next to the Work Bench_
+
+![The Work Bench portion](../assets/Ammunition_Workbench.jpg)
+
+_The Work Bench portion_
+
+![Crafting icon](../assets/Ammunition_workbench_icon.png)
+
+_Crafting icon_

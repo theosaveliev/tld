@@ -1,17 +1,12 @@
----
-title: "Mysterious Note"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Mysterious_Note"
----
-
 # Mysterious Note
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mysterious_Note)
 
 **Mysterious Note**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Mysterious_Note_icon.png) / *Mysterious\_Note\_icon.png* |
+|  | ![](../assets/Mysterious_Note_icon.png) / _Mysterious\_Note\_icon.png_ |
 | Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
 | Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Convict Caches](./Convict%20Caches.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Mysterious_Note"
 
 ## Transcript
 
-*The following text is transcribed from **Mysterious Note***
+_The following text is transcribed from **Mysterious Note**_
 
 **If you all made it this far, you've still got a ways to go. But there's help.
 
@@ -40,5 +35,3 @@ Look for these supplies on the way. This is all you're gonna get from me. I'd wi
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

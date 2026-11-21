@@ -1,11 +1,6 @@
----
-title: "Tin of Sardines"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Tin_of_Sardines"
----
-
 # Tin of Sardines
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Tin_of_Sardines)
 
 **Contents**
 
@@ -18,7 +13,7 @@ source: "https://thelongdark.fandom.com/wiki/Tin_of_Sardines"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Tin_of_Sardines_icon.png) / *Tin\_of\_Sardines\_icon.png* |
+|  | ![](../assets/Tin_of_Sardines_icon.png) / _Tin\_of\_Sardines\_icon.png_ |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
 | Wintermute | No |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
@@ -37,7 +32,7 @@ source: "https://thelongdark.fandom.com/wiki/Tin_of_Sardines"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_TinofSardines |
 
-**Tin of Sardines** is a packaged [food](./Food%20And%20Drink.md) item in [*The Long Dark*](./The%20Long%20Dark.md).
+**Tin of Sardines** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
 ## Overview
 
@@ -51,19 +46,17 @@ Tin of Sardines can cause Food Poisoning, elevated at low item condition, and [d
 
 ## Trivia
 
-- Tin of Sardines are packaged as a product called "*Last Resort"*, a product of the titular "Last Resort Cannery" in Bleak Inlet.
+- Tin of Sardines are packaged as a product called "_Last Resort"_, a product of the titular "Last Resort Cannery" in Bleak Inlet.
 - The bottom of the tin list "Ingredients: Sardines, Water, Salt." and "Made in Canada"
 - The Examine text is likely a reference to the Stan Rogers song 'Tiny Fish for Japan'
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old model](../assets/Tin_of_Sardines.png) / *Old model* |
+![Old model](../assets/Tin_of_Sardines.png)
+
+_Old model_
 
 ## Update history
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Банка\_сардин](ru:%D0%91%D0%B0%D0%BD%D0%BA%D0%B0_%D1%81%D0%B0%D1%80%D0%B4%D0%B8%D0%BD)

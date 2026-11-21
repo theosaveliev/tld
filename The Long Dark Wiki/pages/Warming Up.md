@@ -1,11 +1,6 @@
----
-title: "Warming Up"
-wiki_namespace: 0
-categories: ["Afflictions"]
-source: "https://thelongdark.fandom.com/wiki/Warming_Up"
----
-
 # Warming Up
+
+**Categories:** Afflictions · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Warming_Up)
 
 **Contents**
 
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/Warming_Up"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Warming_Up_icon.png) / *Warming\_Up\_icon.png* |
+|  | ![](../assets/Warming_Up_icon.png) / _Warming\_Up\_icon.png_ |
 | **Properties** |  |
 | Category | [Afflictions](./Afflictions.md) |
 | Caused By | Consume HOT [Food And Drink](./Food%20And%20Drink.md) |
@@ -31,11 +26,11 @@ source: "https://thelongdark.fandom.com/wiki/Warming_Up"
 | Type | Benefit |
 | Benefit Duration | 45 minutes - 1 hour |
 
-> “**That warm food goes straight to your core, heating you from within. Protects against Cold while active.**”
+> “__That warm food goes straight to your core, heating you from within. Protects against Cold while active.__”
 >
 > — In-game description
 
-**Warming Up** is a positive benefit [Affliction](./Afflictions.md) in the **[*The Long Dark*](./The%20Long%20Dark.md).** The buff is gained by eating [Food And Drink](./Food%20And%20Drink.md) that has been warmed up by a [fire](./Fire.md) and currently has the "HOT" status. While Warming Up is active, the rate of depletion of the [Warmth](./Warmth.md) meter while [Feels Like](./Feels%20Like.md) is below 0 is reduced by half.
+**Warming Up** is a positive benefit [Affliction](./Afflictions.md) in the **[_The Long Dark_](./The%20Long%20Dark.md).** The buff is gained by eating [Food And Drink](./Food%20And%20Drink.md) that has been warmed up by a [fire](./Fire.md) and currently has the "HOT" status. While Warming Up is active, the rate of depletion of the [Warmth](./Warmth.md) meter while [Feels Like](./Feels%20Like.md) is below 0 is reduced by half.
 
 ## Overview
 
@@ -50,7 +45,7 @@ source: "https://thelongdark.fandom.com/wiki/Warming_Up"
 
 ## Benefits
 
-![Placing teas and canned goods near an active fire will warm/cook them, without sacrificing a cooking slot.](../assets/Warming.jpg)*Placing teas and canned goods near an active fire will warm/cook them, without sacrificing a cooking slot.*Consuming items while HOT grants benefits to [Warmth](./Warmth.md) as long as Warming Up is active:
+![Placing teas and canned goods near an active fire will warm/cook them, without sacrificing a cooking slot.](../assets/Warming.jpg)_Placing teas and canned goods near an active fire will warm/cook them, without sacrificing a cooking slot._Consuming items while HOT grants benefits to [Warmth](./Warmth.md) as long as Warming Up is active:
 
 - Instantly replenishes a small amount of the Warmth bar (20% for drinks, less for food). If [First Aid](./First%20Aid.md) teas are consumed and the survivor doesn't have [Afflictions](./Afflictions.md) that may be cured by the respective cures, the Warmth gain will be 40%.
 - A plus sign ('+') appears on the Warmth bar indicating Warming Up Affliction, which slows down the loss of warmth during cold. Reduces Warmth loss by 50% compared to your current [Feels Like](./Feels%20Like.md) temperature as long as Warming Up is active.
@@ -117,8 +112,6 @@ Note that some of these items are only available to players who purchased [Tales
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![Old icon.](../assets/Warming_up.png) / *Old icon.* |
+![Old icon.](../assets/Warming_up.png)
 
-**Lua execution error in Module:Navbox function navbox**[ru:Согревание](ru:%D0%A1%D0%BE%D0%B3%D1%80%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+_Old icon._

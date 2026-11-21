@@ -1,11 +1,6 @@
----
-title: "Hank's Hatch"
-wiki_namespace: 0
-categories: ["Episode 2"]
-source: "https://thelongdark.fandom.com/wiki/Hank's_Hatch"
----
-
 # Hank's Hatch
+
+**Categories:** Episode 2 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Hank's_Hatch)
 
 **Contents**
 
@@ -21,13 +16,13 @@ source: "https://thelongdark.fandom.com/wiki/Hank's_Hatch"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Hank%27s_prepper_cache.jpg) / *Hank's\_prepper\_cache.jpg* |
+|  | ![](../assets/Hank%27s_prepper_cache.jpg) / _Hank's\_prepper\_cache.jpg_ |
 | Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
 | Current | Hank's Hatch |
 | Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) |
 | Characters | Hank |
 
-> “**Hank, a long-time prepper and denizen of Great Bear Island, has a secret supply cache. Find it and take what you need.**”
+> “__Hank, a long-time prepper and denizen of Great Bear Island, has a secret supply cache. Find it and take what you need.__”
 >
 > — In-game description
 
@@ -68,13 +63,15 @@ Inside the bunker, there is plenty of [canned food](./Food%20And%20Drink.md), [w
 
 ## Trivia
 
-- "Hank" is a nod to the protagonist ["Henry"](w:c:firewatch:Henry) from the videogame *Firewatch*. Hank (a common nickname for Henry) shares many similarities with his counterpart, including taking a job working in a fire tower in a nature park to be away from other people. In his journal, Hank complains about "the chatty lady" on the radio, a reference to [Delilah](w:c:firewatch:Delilah), Henry's supervisor in *Firewatch* who communicates with him by radio throughout the game and also occasionally refers to him as "Hank". Hank's Journal refers to him finding a "weird old bunker," also a reference to the plot of *Firewatch.*
+- "Hank" is a nod to the protagonist ["Henry"](w:c:firewatch:Henry) from the videogame _Firewatch_. Hank (a common nickname for Henry) shares many similarities with his counterpart, including taking a job working in a fire tower in a nature park to be away from other people. In his journal, Hank complains about "the chatty lady" on the radio, a reference to [Delilah](w:c:firewatch:Delilah), Henry's supervisor in _Firewatch_ who communicates with him by radio throughout the game and also occasionally refers to him as "Hank". Hank's Journal refers to him finding a "weird old bunker," also a reference to the plot of _Firewatch._
 - In his second journal entry, found in the bunker, Hank mentions hearing someone trying to get in. He does not open the door for them, and then dies from an infected leg wound from a Wolf attack. The body found outside, presumably his niece trying to enter, has antibiotics and antiseptic on them. Had he let her in, they both may have survived.
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![Hank's body inside the bunker](../assets/Hank.jpg) / *Hank's body inside the bunker* | ![Location of corpse with Hank’s Lockbox Key](../assets/Hankkeylocation.jpeg) / *Location of corpse with Hank’s Lockbox Key* |
+![Hank's body inside the bunker](../assets/Hank.jpg)
 
-**Lua execution error in Module:Navbox function navbox** [ru:Бункер Хэнка](ru:%D0%91%D1%83%D0%BD%D0%BA%D0%B5%D1%80_%D0%A5%D1%8D%D0%BD%D0%BA%D0%B0)
+_Hank's body inside the bunker_
+
+![Location of corpse with Hank’s Lockbox Key](../assets/Hankkeylocation.jpeg)
+
+_Location of corpse with Hank’s Lockbox Key_

@@ -1,17 +1,12 @@
----
-title: "Faded Paper (2)"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Faded_Paper_(2)"
----
-
 # Faded Paper \(2\)
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Faded_Paper_%282%29)
 
 **Faded Paper**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Faded_Paper_icon.png) / *Faded\_Paper\_icon.png* |
+|  | ![](../assets/Faded_Paper_icon.png) / _Faded\_Paper\_icon.png_ |
 | Release | [31 March 2026](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
 | Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
 | **Properties** |  |
@@ -28,7 +23,7 @@ source: "https://thelongdark.fandom.com/wiki/Faded_Paper_(2)"
 
 ## Transcript
 
-*The following text is transcribed from **Faded Paper***
+_The following text is transcribed from **Faded Paper**_
 
 **Excavation Log  
  Day 74
@@ -56,5 +51,3 @@ K.Rice
 
 - 
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

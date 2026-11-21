@@ -1,10 +1,6 @@
----
-title: "Custom"
-wiki_namespace: 0
-source: "https://thelongdark.fandom.com/wiki/Custom"
----
-
 # Custom
+
+**Source:** [Fandom](https://thelongdark.fandom.com/wiki/Custom)
 
 **Contents**
 
@@ -14,7 +10,7 @@ source: "https://thelongdark.fandom.com/wiki/Custom"
 - [Common Custom Options](#common-custom-options)
 - [Custom Difficulty Customization Options](#custom-difficulty-customization-options)
 
-![Custom\_icon.png](../assets/Custom_icon.png){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Use our custom toolbox to craft a unique experience between Survival and Exploration - an experience all your own.** | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Custom** is the 6th [Survival Mode](./Survival%20Mode.md) Experience in *[The Long Dark](./The%20Long%20Dark.md)*.
+![Custom\_icon.png](../assets/Custom_icon.png){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Use our custom toolbox to craft a unique experience between Survival and Exploration - an experience all your own.__ | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Custom** is the 6th [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 
@@ -138,5 +134,3 @@ Note, [Misery](./Misery.md) is currently not available as a present difficulty o
 | Struggle condition damage modifier | None | None | None | High |
 | Struggle clothing damage modifier | Low | Low | Low | High |
 | Struggle damage severity | Low | Medium | High | Very High |
-
-**Lua execution error in Module:Navbox function navbox** [ru:Персонализация](ru:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)

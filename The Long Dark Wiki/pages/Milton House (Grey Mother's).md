@@ -1,11 +1,6 @@
----
-title: "Milton House (Grey Mother's)"
-wiki_namespace: 0
-categories: ["Indoor locations", "Locations", "Locations in Mountain Town", "Residential locations"]
-source: "https://thelongdark.fandom.com/wiki/Milton_House_(Grey_Mother's)"
----
-
 # Milton House \(Grey Mother's\)
+
+**Categories:** Indoor locations, Locations, Locations in Mountain Town, Residential locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milton_House_%28Grey_Mother's%29)
 
 **Contents**
 
@@ -18,19 +13,19 @@ source: "https://thelongdark.fandom.com/wiki/Milton_House_(Grey_Mother's)"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Milton_House_%28Grey_Mother%27s%29.png) / *Milton\_House\_(Grey\_Mother's).png* |
+|  | ![](../assets/Milton_House_%28Grey_Mother%27s%29.png) / _Milton\_House\_(Grey\_Mother's).png_ |
 | **Location** |  |
-|  | ![](../assets/Milton_House_%28Grey_Mother%27s%29_Location.png) / *Milton\_House\_(Grey\_Mother's)\_Location.png* |
+|  | ![](../assets/Milton_House_%28Grey_Mother%27s%29_Location.png) / _Milton\_House\_(Grey\_Mother's)\_Location.png_ |
 | Region | [Mountain Town](./Mountain%20Town.md)\|- |
 | Description | A large two-story house with a lit fireplace |
 | **General** |  |
 | Type | Residential\|- |
-| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
 |  | Has an interior\|- |
 | Missions | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 | Characters | [Grey Mother](./Grey%20Mother.md) |
 
-The **Milton House (Grey Mother's)**is a location featured in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of *The Long Dark*. It is a large two-story house in the town of [Milton](./Milton.md) and is home to [Grey Mother](./Grey%20Mother.md), and is distinguished as being the largest [Milton House](./Milton%20House.md) in the town.
+The **Milton House (Grey Mother's)**is a location featured in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _The Long Dark_. It is a large two-story house in the town of [Milton](./Milton.md) and is home to [Grey Mother](./Grey%20Mother.md), and is distinguished as being the largest [Milton House](./Milton%20House.md) in the town.
 
 ## Overview
 
@@ -52,5 +47,3 @@ In survival, the house is devoid of Grey Mother, with just her chair tipped onto
 - The Storage room on the first floor may hide a box of [Revolver Ammunition](./Revolver%20Ammunition.md) behind the leaning plank and another loot spawn behind a piece of harvestable cloth. It usually spawns a soda of some kind and can not be accessed without tearing up the cloth/towel (yields 3 [Cloth](./Cloth.md)) first.
 - A [Distress Pistol](./Distress%20Pistol.md) may spawn in the bathtub on the second floor.
 - A pair of [Wool Longjohns](./Wool%20Longjohns.md) (or other high quality clothing) may spawn on the ground in the second bedroom, or in the bathtub.
-
-![Greymotherhouse.jpg](../assets/Greymotherhouse.jpg)**Lua execution error in Module:Navbox function navbox**

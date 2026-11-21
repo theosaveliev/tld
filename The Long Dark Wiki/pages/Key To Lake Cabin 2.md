@@ -1,17 +1,12 @@
----
-title: "Key To Lake Cabin 2"
-wiki_namespace: 0
-categories: ["Collectibles", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Key_To_Lake_Cabin_2"
----
-
 # Key To Lake Cabin 2
+
+**Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Key_To_Lake_Cabin_2)
 
 **Key To Lake Cabin #2**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Key_To_Lake_Cabin_2_icon.png) / *Key\_To\_Lake\_Cabin\_2\_icon.png* |
+|  | ![](../assets/Key_To_Lake_Cabin_2_icon.png) / _Key\_To\_Lake\_Cabin\_2\_icon.png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
 | Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
 | **Properties** |  |
@@ -30,5 +25,3 @@ source: "https://thelongdark.fandom.com/wiki/Key_To_Lake_Cabin_2"
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox**

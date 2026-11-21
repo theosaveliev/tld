@@ -1,17 +1,12 @@
----
-title: "Military-Grade MRE"
-wiki_namespace: 0
-categories: ["Food And Drink", "Pages with update history"]
-source: "https://thelongdark.fandom.com/wiki/Military-Grade_MRE"
----
-
 # Military\-Grade MRE
+
+**Categories:** Food And Drink, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Military-Grade_MRE)
 
 **Military-Grade MRE**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Military-Grade_MRE_icon.png) / *Military-Grade\_MRE\_icon.png* |
+|  | ![](../assets/Military-Grade_MRE_icon.png) / _Military-Grade\_MRE\_icon.png_ |
 | Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
 | Wintermute | Yes |
 | Renewable | Yes ([Beachcombing](./Beachcombing.md) and [Trader](./Trader.md)) no (Interloper) |
@@ -27,7 +22,7 @@ source: "https://thelongdark.fandom.com/wiki/Military-Grade_MRE"
 | **Advanced data** |  |
 | Item key | GAMEPLAY\_MilitaryGradeMRE |
 
-**Military-Grade MRE** is a packaged [food](./Food%20And%20Drink.md) item in *[The Long Dark](./The%20Long%20Dark.md)*.
+**Military-Grade MRE** is a packaged [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 The MRE is a rare and only found inside safes, prepper caches, locked lockers and outdoor sporting-type locations (such as Hunting Blinds). Usually only 1-3 may be found per region, based on [Survival Mode](./Survival%20Mode.md).
 
@@ -44,13 +39,11 @@ MRE have a very low chance of causing [Food Poisoning](./Food%20Poisoning.md) an
 
 ## Gallery
 
-| Column 1 |
-| --- |
-| ![old model](../assets/Military_grade_mre.png) / *old model* |
+![old model](../assets/Military_grade_mre.png)
+
+_old model_
 
 ## Update history
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
-
-**Lua execution error in Module:Navbox function navbox** [ru:Армейский\_ирп](ru:%D0%90%D1%80%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%80%D0%BF)

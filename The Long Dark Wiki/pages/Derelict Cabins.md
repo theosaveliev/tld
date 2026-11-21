@@ -1,19 +1,14 @@
----
-title: "Derelict Cabins"
-wiki_namespace: 0
-categories: ["Locations", "Locations in Pleasant Valley", "Outdoor locations"]
-source: "https://thelongdark.fandom.com/wiki/Derelict_Cabins"
----
-
 # Derelict Cabins
+
+**Categories:** Locations, Locations in Pleasant Valley, Outdoor locations · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Derelict_Cabins)
 
 **Derelict Cabins**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Derelict_Cabins.jpg) / *Derelict\_Cabins.jpg* |
+|  | ![](../assets/Derelict_Cabins.jpg) / _Derelict\_Cabins.jpg_ |
 | **Location** |  |
-|  | ![](../assets/Derelict_Cabins_Location.png) / *Derelict\_Cabins\_Location.png* |
+|  | ![](../assets/Derelict_Cabins_Location.png) / _Derelict\_Cabins\_Location.png_ |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
 | Description | Several burnt-out cabins |
 | **General** |  |

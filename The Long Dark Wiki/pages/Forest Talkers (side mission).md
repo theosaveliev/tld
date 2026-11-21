@@ -1,11 +1,6 @@
----
-title: "Forest Talkers (side mission)"
-wiki_namespace: 0
-categories: ["Episode 3", "Side mission"]
-source: "https://thelongdark.fandom.com/wiki/Forest_Talkers_(side_mission)"
----
-
 # Forest Talkers \(side mission\)
+
+**Categories:** Episode 3, Side mission · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Forest_Talkers_%28side_mission%29)
 
 **Contents**
 
@@ -23,7 +18,7 @@ source: "https://thelongdark.fandom.com/wiki/Forest_Talkers_(side_mission)"
 | Current | Forest Talkers (side mission) |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 
-> “**The Forest Talkers seem to be wrapped up in the local politics and history of Pleasant Valley. Search for more information about their activity in the Region.**”
+> “__The Forest Talkers seem to be wrapped up in the local politics and history of Pleasant Valley. Search for more information about their activity in the Region.__”
 
 **Forest Talkers** is a side mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). There are six notes to be found in total.
 
@@ -49,5 +44,3 @@ source: "https://thelongdark.fandom.com/wiki/Forest_Talkers_(side_mission)"
 ## Achievements
 
 - [Every Last One](./Every%20Last%20One.md)
-
-**Lua execution error in Module:Navbox function navbox**

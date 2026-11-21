@@ -1,11 +1,6 @@
----
-title: "Sewing Kit"
-wiki_namespace: 0
-categories: ["Pages with update history", "Tools"]
-source: "https://thelongdark.fandom.com/wiki/Sewing_Kit"
----
-
 # Sewing Kit
+
+**Categories:** Pages with update history, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Sewing_Kit)
 
 **Contents**
 
@@ -19,14 +14,14 @@ source: "https://thelongdark.fandom.com/wiki/Sewing_Kit"
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Sewing_Kit_icon.png) / *Sewing\_Kit\_icon.png* |
+|  | ![](../assets/Sewing_Kit_icon.png) / _Sewing\_Kit\_icon.png_ |
 | **General** |  |
 | Item Type | Tool\|- |
 | Renewable | Yes |
 | **Statistics** |  |
 | Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
 
-> “**A basic sewing kit. Required to craft and repair clothing.**”
+> “__A basic sewing kit. Required to craft and repair clothing.__”
 >
 > — In-game description
 
@@ -49,17 +44,19 @@ The Fishing Tackle can also be used to repair clothing with the same effectivene
 ## Trivia
 
 - Although the kit can spawn in first aid cabinets, it is not used for first aid, particularly for stitching wounds.
-- Sewing Kit are branded as a product "*Ace Mending Kit*".
+- Sewing Kit are branded as a product "_Ace Mending Kit_".
 
 ## Gallery
 
-| Column 1 | Column 2 |
-| --- | --- |
-| ![3D model](../assets/Sewing_kit.png) / *3D model* | ![Old model](../assets/Sewing_kit_old_model.png) / *Old model* |
+![3D model](../assets/Sewing_kit.png)
+
+_3D model_
+
+![Old model](../assets/Sewing_kit_old_model.png)
+
+_Old model_
 
 ## Update history
 
 - HOTFIX **2 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.04)):**
   - Added to game
-
-**Lua execution error in Module:Navbox function navbox** [ru:Набор для шитья](ru:%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_%D1%88%D0%B8%D1%82%D1%8C%D1%8F)

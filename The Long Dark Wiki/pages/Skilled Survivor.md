@@ -1,11 +1,6 @@
----
-title: "Skilled Survivor"
-wiki_namespace: 0
-categories: ["Achievements"]
-source: "https://thelongdark.fandom.com/wiki/Skilled_Survivor"
----
-
 # Skilled Survivor
+
+**Categories:** Achievements · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Skilled_Survivor)
 
 **Contents**
 
@@ -14,13 +9,13 @@ source: "https://thelongdark.fandom.com/wiki/Skilled_Survivor"
 - [Tips](#tips)
 - [Skills](#skills)
 
-**Skilled Survivor** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md).*
+**Skilled Survivor** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
 **Skilled Survivor**
 
 | Property | Details |
 | --- | --- |
-|  | ![](../assets/Skilled_Survivor_icon.png) / *Skilled\_Survivor\_icon.png* |
+|  | ![](../assets/Skilled_Survivor_icon.png) / _Skilled\_Survivor\_icon.png_ |
 | Description | Get all skills to level 5 in a single Survival Mode game. |
 
 ## Guide
@@ -60,5 +55,3 @@ Most skills require 100 points to level up, unless noted. Generally, one success
 - [Archery](./Archery.md) requires 125 points and is relatively easy to level up, as one experience point is gained by crafting each [Simple Arrow](./Simple%20Arrow.md). It can also be levelled by crafting a large stash of cheap [Fire Hardened Arrows](./Fire%20Hardened%20Arrow.md) and shooting [rabbits](./Rabbit.md) or [ptarmigan](./Ptarmigan.md). Reaching level 5 will require a few [cured Maple Saplings](./Cured%20Maple%20Sapling.md) and [cured guts](./Cured%20Gut.md), along with many [feathers](./Crow%20Feather.md) and [sticks](./Stick.md) or [cured Birch Saplings](./Cured%20Birch%20Sapling.md), but these are generally easily acquired.
 - [Fire Starting](./Fire%20Starting.md) requires 200 points, and can be acquired over the course of a game, but is most efficiently done by using the [magnifying lens](./Magnifying%20Lens.md) on a sunny day as to not consume [matches](./Matches%20%28disambiguation%29.md). Another option is to gather a bunch of [sticks](./Stick.md) and light/re-light campfires using a lit [Torch](./Torch.md).
 - [Ice Fishing](./Ice%20Fishing.md) also requires more points to reach level 5 than most other skills (250) but it can also be acquired overtime and will require lots of [cured gut](./Cured%20Gut.md) and [scrap metal](./Scrap%20Metal.md) to provide [fishing tackle](./Fishing%20Tackle.md). Making some [lures](./Fishing%20Lure%20%28disambiguation%29.md) can help speed the process up somewhat. Catching enough fish to produce all the [lantern fuel](./Lantern%20Fuel.md) for [Sutherland's](./Trader.md) trades can provide good experience in both Ice Fishing and Cooking.
-
-**Lua execution error in Module:Navbox function navbox**

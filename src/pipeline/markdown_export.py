@@ -36,8 +36,12 @@ NAVBOX_ERROR_LINE_RE = re.compile(
     r"(?im)^.*Lua execution error in Module:Navbox function navbox.*$"
 )
 ITALIC_ASTERISK_RE = re.compile(
-    r"(?<![\\*])\*(?!\*)(?P<content>\S(?:[^*\n]*?\S)?)\*(?!\*)"
+    r"(?<![\\*])\\*(?!\\*)(?P<content>\\S(?:[^*\\n]*?\\S)?)\\*(?!\\*)"
 )
+STRONG_UNDERSCORE_RE = re.compile(
+    r"(?<!_)__(?P<content>\\S(?:[^_\\n]*?\\S)?)__(?!_)"
+)
+LANGUAGE_INTERWIKI_SCHEME_RE = re.compile(r"^[a-z]{2,3}$")
 BACKTICK = chr(96)
 INLINE_CODE_SPAN_RE = re.compile(
     "("
@@ -894,6 +898,16 @@ def _rewrite_anchor_nodes(
         if not href:
             continue
 
+        parsed_href = urllib.parse.urlsplit(href)
+        scheme = parsed_href.scheme.casefold()
+        label = link.text_content().strip()
+        if (
+            LANGUAGE_INTERWIKI_SCHEME_RE.fullmatch(scheme)
+            and label.casefold().startswith(f"{scheme}:")
+        ):
+            link.drop_tree()
+            continue
+
         raw = urllib.parse.unquote(href).lstrip(":")
         prefix, separator, _ = raw.partition(":")
         if separator and prefix.strip().casefold() in {"file", "image", "media"}:
@@ -1026,9 +1040,12 @@ def _normalize_markdown_emphasis(value: str) -> str:
             if index % 2:
                 output.append(part)
             else:
+                strong = STRONG_UNDERSCORE_RE.sub(
+                    lambda item: f"**{item.group('content')}**", part
+                )
                 output.append(
                     ITALIC_ASTERISK_RE.sub(
-                        lambda item: f"_{item.group('content')}_", part
+                        lambda item: f"_{item.group('content')}_", strong
                     )
                 )
     return "".join(output)
@@ -1414,8 +1431,9 @@ def _inline_markdown_element(node: lhtml.HtmlElement) -> str:
 def _markdown_table_cell(cell: lhtml.HtmlElement) -> str:
     """Render a table cell as a single Markdown table row value."""
     content = _render_html_children(cell)
-    content = re.sub(r"\s*\n\s*", " / ", content).strip()
-    return content.replace("|", r"\|")
+    content = re.sub(r"\\\\\\|-\\s*$", "", content)
+    content = re.sub(r"\\s*\\n\\s*", " / ", content).strip()
+    return content.replace("|", r"\\|")
 
 
 def _table_rows(table: lhtml.HtmlElement) -> list[list[lhtml.HtmlElement]]:
@@ -1463,6 +1481,71 @@ def _render_quote_table(cells: list[lhtml.HtmlElement]) -> str | None:
     return f"{quote}\n>\n> — {attribution}"
 
 
+def _is_table_section(cell: lhtml.HtmlElement) -> bool:
+    """Return whether a one-cell row represents a table section heading."""
+    has_image = any(_html_tag(child) == "img" for child in cell.iter())
+    return "section" in (cell.get("class") or "").split() or (
+        int(cell.get("colspan", "1")) > 1
+        and not has_image
+        and cell.find(".//strong") is not None
+    )
+
+
+def _render_image_layout_cell(value: str) -> str:
+    """Separate an image and caption so both render outside a Markdown table."""
+    image, separator, caption = value.partition(" / ")
+    if separator and image.lstrip().startswith("!["):
+        return image.strip() + ("\\n\\n" + caption.strip() if caption.strip() else "")
+    return value.strip()
+
+
+def _render_image_layout_table(rows: list[list[lhtml.HtmlElement]]) -> str:
+    """Render image-bearing data tables as ordinary Markdown blocks."""
+    blocks: list[str] = []
+    for cells in rows:
+        quote = _render_quote_table(cells)
+        if quote is not None:
+            if quote:
+                blocks.append(quote)
+            continue
+
+        values = [
+            (cell, value)
+            for cell in cells
+            if (value := _markdown_table_cell(cell).strip())
+        ]
+        if not values:
+            continue
+        if len(values) == 1:
+            cell, value = values[0]
+            if _is_table_section(cell):
+                blocks.append(f"**{value.strip('* ')}**")
+            else:
+                blocks.append(_render_image_layout_cell(value))
+            continue
+
+        first_cell, first_value = values[0]
+        first_has_image = any(
+            _html_tag(child) == "img" for child in first_cell.iter()
+        )
+        if not first_has_image and len(values) == 2:
+            detail = _render_image_layout_cell(values[1][1])
+            label = first_value.strip()
+            if label.startswith("**") and label.endswith("**"):
+                label = label[2:-2]
+            label = label.rstrip(":").strip()
+            if label and detail:
+                blocks.append(f"**{label}:** {detail}")
+                continue
+
+        blocks.extend(
+            rendered
+            for _, value in values
+            if (rendered := _render_image_layout_cell(value))
+        )
+    return "\\n\\n".join(blocks)
+
+
 def _render_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     """Convert a Fandom infobox into a readable two-column Markdown table."""
     body: list[list[str]] = []
@@ -1471,13 +1554,7 @@ def _render_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
         if len(cells) == 1:
             cell = cells[0]
             value = values[0]
-            is_image_row = any(_html_tag(child) == "img" for child in cell.iter())
-            is_section = "section" in (cell.get("class") or "").split() or (
-                int(cell.get("colspan", "1")) > 1
-                and not is_image_row
-                and cell.find(".//strong") is not None
-            )
-            if is_section:
+            if _is_table_section(cell):
                 body.append([f"**{value.strip('* ')}**", ""])
             elif value:
                 body.append(["", value])
@@ -1519,25 +1596,34 @@ def _render_gallery_table(rows: list[list[lhtml.HtmlElement]]) -> str:
 
 
 def _render_html_table(node: lhtml.HtmlElement) -> str:
-    """Convert infoboxes, galleries, and quote layouts to Markdown."""
+    """Convert infoboxes, galleries, and data tables to Markdown."""
     rows = _table_rows(node)
     caption_node = node.find("caption")
     caption = _inline_markdown(caption_node).strip() if caption_node is not None else ""
     if not rows:
         return f"**{caption}**" if caption else ""
+
     table_classes = (node.get("class") or "").split()
+    has_images = any(
+        _html_tag(child) == "img"
+        for row in rows
+        for cell in row
+        for child in cell.iter()
+    )
     if "gallery" in table_classes:
         table = _render_gallery_table(rows)
+    elif has_images:
+        table = _render_image_layout_table(rows)
     else:
         if len(rows) == 1:
             quote = _render_quote_table(rows[0])
             if quote is not None:
-                return f"**{caption}**\n\n{quote}" if caption else quote
+                return f"**{caption}**\\n\\n{quote}" if caption else quote
         if "infobox" in table_classes:
             table = _render_infobox_table(rows)
         else:
             table = _render_generic_table(rows)
-    return f"**{caption}**\n\n{table}" if caption else table
+    return f"**{caption}**\\n\\n{table}" if caption else table
 
 
 def _is_html_block_element(node: lhtml.HtmlElement) -> bool:
@@ -1740,10 +1826,12 @@ def _normalize_markdown_anchor_hrefs(root: lhtml.HtmlElement) -> None:
 
 
 def _contains_gallery_table(fragment: str) -> bool:
-    """Return whether rewritten HTML contains a semantic Fandom gallery table."""
+    """Return whether rewritten HTML contains a gallery or image-bearing table."""
     root = lhtml.fragment_fromstring(fragment or "", create_parent="div")
     return any(
-        "gallery" in (table.get("class") or "").split() for table in root.iter("table")
+        "gallery" in (table.get("class") or "").split()
+        or any(_html_tag(child) == "img" for child in table.iter())
+        for table in root.iter("table")
     )
 
 

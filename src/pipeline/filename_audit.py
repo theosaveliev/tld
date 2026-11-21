@@ -127,9 +127,7 @@ def _check_filename_limits(
                 issues,
                 "filename_too_long",
                 [mapping],
-                "Filename is {} UTF-8 bytes; limit is {} bytes.".format(
-                    encoded_length, MAX_FILENAME_BYTES
-                ),
+                f"Length: {encoded_length} UTF-8 bytes; limit: {MAX_FILENAME_BYTES}.",
             )
 
         controls = [

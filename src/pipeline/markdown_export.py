@@ -32,6 +32,11 @@ if TYPE_CHECKING:
 REDIRECT_RE = re.compile(r"\s*#redirect\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
 MAX_FILENAME_BYTES = 255
 WTP_RE_SHIM_MIN_PYTHON_VERSION = (3, 11)
+EXTERNAL_SCHEMES = frozenset({"ftp", "http", "https", "mailto", "tel"})
+LOCAL_WIKI_SCHEMES = frozenset(
+    {"category", "file", "image", "media", "module", "special", "template"}
+)
+NAMED_INTERWIKI_SCHEMES = frozenset({"c", "w", "wikia", "wikipedia"})
 
 
 class ExportSummary(TypedDict):
@@ -133,18 +138,9 @@ def resolve_internal_href(
 
     parsed = urllib.parse.urlsplit(href)
     scheme = parsed.scheme.casefold()
-    local_namespaces = {
-        "category",
-        "file",
-        "image",
-        "media",
-        "module",
-        "special",
-        "template",
-    }
-    is_interwiki = len(scheme) in {2, 3} or scheme in {"w", "c", "wikipedia", "wikia"}
-    if scheme in {"http", "https", "mailto", "ftp", "tel"} or (
-        scheme and scheme not in local_namespaces and is_interwiki
+    is_interwiki = len(scheme) in {2, 3} or scheme in NAMED_INTERWIKI_SCHEMES
+    if scheme in EXTERNAL_SCHEMES or (
+        scheme and scheme not in LOCAL_WIKI_SCHEMES and is_interwiki
     ):
         return href
 

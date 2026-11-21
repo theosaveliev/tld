@@ -434,6 +434,125 @@ def _copy_image(
     return output_name
 
 
+def _restore_generated_tables(root: Any) -> None:
+    """Restore infobox and gallery semantics tagged by the Fandom preprocessor."""
+    for table in root.iter("table"):
+        caption = table.find("caption")
+        if caption is None or not (caption.text or "").startswith("XSENT:"):
+            continue
+
+        table_class, separator, caption_text = (caption.text or "")[6:].partition(":")
+        if not separator:
+            continue
+        table.set("class", table_class)
+        caption.text = caption_text
+        if not caption.text.strip() and len(caption) == 0:
+            table.remove(caption)
+        if table_class != "infobox":
+            continue
+
+        for row in table.iter("tr"):
+            cells = [child for child in row if child.tag == "td"]
+            if len(cells) == 2:
+                cells[0].tag = "th"
+            elif len(cells) == 1 and cells[0].get("colspan") == "2":
+                paragraphs = [child for child in cells[0] if child.tag == "p"]
+                if (
+                    len(paragraphs) == 1
+                    and len(paragraphs[0]) == 1
+                    and paragraphs[0][0].tag == "strong"
+                    and not (paragraphs[0].text or "").strip()
+                ):
+                    cells[0].tag = "th"
+                    cells[0].set("class", "section")
+
+
+def _restore_thumbnail_captions(root: Any) -> None:
+    """Turn XTHUMB image alt markers into visible figure or span captions."""
+    for image in list(root.iter("img")):
+        label = image.get("alt") or image.get("title") or ""
+        if not label.startswith("XTHUMB"):
+            continue
+
+        caption = label[len("XTHUMB") :].strip()
+        image.attrib.pop("alt", None)
+        image.attrib.pop("title", None)
+        if caption:
+            image.set("alt", caption)
+
+        parent = image.getparent()
+        if parent is None:
+            continue
+        if parent.tag == "figure":
+            parent.set("class", "thumb")
+            old_caption = parent.find("figcaption")
+            if old_caption is not None:
+                parent.remove(old_caption)
+            if caption:
+                figcaption = etree.Element("figcaption")
+                figcaption.text = caption
+                parent.append(figcaption)
+            continue
+
+        wrapper = etree.Element("span")
+        wrapper.set("class", "thumb")
+        old_tail = image.tail
+        image.addprevious(wrapper)
+        wrapper.append(image)
+        if caption:
+            caption_node = etree.Element("span")
+            caption_node.set("class", "thumbcaption")
+            caption_node.text = caption
+            wrapper.append(caption_node)
+        image.tail = None
+        wrapper.tail = old_tail
+
+
+def _add_mediawiki_heading_ids(root: Any) -> None:
+    """Assign stable MediaWiki-style heading IDs and insert a compact TOC."""
+    used: set[str] = set()
+    headings: list[tuple[int, str, str]] = []
+    for heading in root.iter("h1", "h2", "h3", "h4", "h5", "h6"):
+        label = heading.text_content().strip()
+        base = label.replace(" ", "_") or "section"
+        identifier = base
+        suffix = 1
+        while identifier in used:
+            suffix += 1
+            identifier = f"{base}_{suffix}"
+        used.add(identifier)
+        heading.set("id", identifier)
+        headings.append((int(heading.tag[1]), label, identifier))
+
+    if len(headings) < 4:
+        return
+
+    nav = etree.Element("nav")
+    nav.set("class", "toc")
+    heading = etree.SubElement(nav, "strong")
+    heading.text = "Contents"
+    items = etree.SubElement(nav, "ul")
+    for level, label, identifier in headings:
+        item = etree.SubElement(items, "li")
+        item.set("class", f"lvl{level}")
+        link = etree.SubElement(item, "a")
+        link.set("href", "#" + _safe_destination(identifier))
+        link.text = label
+    root.insert(0, nav)
+
+
+def _add_footnote_heading(root: Any) -> None:
+    """Add a Notes heading when Pandoc emits a footnotes section without one."""
+    for section in root.iter("section", "aside"):
+        if "footnotes" not in (section.get("class") or ""):
+            continue
+        previous = section.getprevious()
+        if previous is None or previous.tag not in {"h1", "h2", "h3", "h4"}:
+            heading = etree.Element("h2")
+            heading.text = "Notes"
+            section.insert(0, heading)
+
+
 def _rewrite_image_nodes(
     root: Any,
     image_index: dict[str, Path],

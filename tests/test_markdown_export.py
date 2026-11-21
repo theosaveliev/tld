@@ -489,7 +489,7 @@ def test_restore_deferred_material_tables_binds_each_table_value() -> None:
 
 
 def test_uses_material_list_template_is_replaced_with_recipe_table(
-    monkeypatch: pytest.MonkeyPatch,
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
 ) -> None:
     pages = [
         DumpPage(
@@ -507,6 +507,9 @@ def test_uses_material_list_template_is_replaced_with_recipe_table(
         )
     ]
     usage = _build_material_usage_index(pages)
+    icon_path = tmp_path / "Meat_Curing_Box_icon.png"
+    icon_path.write_bytes(b"test image")
+    image_index = {normalize_image_name(icon_path.name): icon_path}
 
     class ContextThatRejectsGeneratedHtml(FakeContext):
         def expand(self, text: str, timeout: int) -> str:
@@ -528,6 +531,7 @@ def test_uses_material_list_template_is_replaced_with_recipe_table(
             "unrendered": 0,
         },
         usage,
+        image_index,
     )
 
     assert not error
@@ -558,11 +562,32 @@ def test_uses_material_list_template_is_replaced_with_recipe_table(
     assert 'class="wikitable uses-material-list"' in html_fragment
     assert "<p>TLDGENERATEDMATERIALLIST" not in html_fragment
 
-    markdown, note, failed = _convert_html_to_markdown("unused", html_fragment, "")
+    rewritten_html = _rewrite_html_links(
+        html_fragment,
+        "Fir Firewood",
+        {
+            normalize_title("Fir Firewood"): "Fir Firewood.md",
+            normalize_title("Meat Curing Box"): "Meat Curing Box.md",
+        },
+        {},
+        image_index,
+        tmp_path,
+        tmp_path / "assets",
+        {},
+        {},
+        set(),
+        set(),
+    )
+    markdown, note, failed = _convert_html_to_markdown("unused", rewritten_html, "")
 
     assert not note
     assert not failed
     assert "| Item | Skills | Materials |" in markdown
+    assert (
+        "[![Meat Curing Box](../assets/Meat_Curing_Box_icon.png)]"
+        "(./Meat%20Curing%20Box.md)"
+    ) in markdown
+    assert (tmp_path / "assets" / "Meat_Curing_Box_icon.png").is_file()
     assert "[Meat Curing Box](Meat%20Curing%20Box)" in markdown
     assert "[Salt](Salt)" in markdown
     assert "8.00 kg" in markdown

@@ -37,22 +37,27 @@ The Long Dark Wiki/
 └── conversion-report.json
 ```
 
-Open the workspace folder in Zettlr and start with `Index.md`. Article files
-include YAML front matter with the original wiki title, detected categories,
-and source URL. Article links are rewritten to the allocated local Markdown
-filenames, redirects resolve to their destination articles, and referenced
-images are copied into `assets/`. Alongside the primary `--image-dir`, the
-exporter searches a sibling directory named `<image-dir-name>_mismatch` for
-images not found in the primary directory; for the default `tld/images`, this
-uses `tld/images_mismatch`. Primary-directory matches take precedence.
-Templates are expanded with wikitextprocessor; calls to templates missing from
-the dump remain visible with their parameter values.
+Open the workspace folder in Zettlr and start with `Index.md`. Article files contain plain Markdown without YAML front matter. The wiki
+title appears as the page's H1 heading, and detected categories and the source
+URL are retained as a readable Markdown metadata line. Article links are
+rewritten to the allocated local Markdown filenames, redirects resolve to
+their destination articles, and referenced images are copied into `assets/`.
+Fandom galleries are converted to standalone Markdown images with captions
+because Markdown has no portable native gallery layout. Images without
+filename extensions are given one based on their file signatures when
+recognized.
+
+Alongside the primary `--image-dir`, the exporter searches a sibling directory
+named `<image-dir-name>_mismatch` for images not found in the primary directory;
+for the default `tld/images`, this uses `tld/images_mismatch`. Primary-directory
+matches take precedence. Templates are expanded with wikitextprocessor; calls
+to templates missing from the dump remain visible with their parameter values.
 
 The export checks that the mapping and XML dump contain the same set of
 main-namespace article titles. The conversion report records expansion or
 conversion errors, unresolved links, and missing local images.
 
 The initial workspace keeps articles together in `pages/`; detected
-categories are preserved in front matter for a later taxonomy/folder-layout
+categories are retained as visible metadata for a later taxonomy/folder-layout
 pass. Re-running the exporter overwrites generated files with the same names
 but does not delete files left over from an earlier export.

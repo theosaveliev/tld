@@ -3,9 +3,11 @@
 
 from __future__ import annotations
 
+import contextlib
 import hashlib
 import html
 import importlib
+import io
 import json
 import re
 import shutil
@@ -627,20 +629,29 @@ def _export_one_page(
         "infoboxes": 0,
         "missing_templates": [],
         "infobox_left": 0,
+        "missing_images": [],
+        "redlinks": 0,
+        "unrendered": 0,
     }
     categories: list[str] = []
     expansion_errors = 0
 
     if page.model == "wikitext":
         try:
+            context.start_page(page.title)
             expanded = preprocess(
                 page.text, context, infobox_defs, page.title, stats
             )
-            context.start_page(page.title)
-            expanded = context.expand(expanded, timeout=30)
         except Exception as exc:
             expansion_errors = 1
             expansion_error = str(exc)[:300]
+        else:
+            try:
+                with contextlib.redirect_stdout(io.StringIO()):
+                    expanded = context.expand(expanded, timeout=30)
+            except Exception as exc:
+                expansion_errors = 1
+                expansion_error = str(exc)[:300]
 
     conversion_errors = 0
     try:

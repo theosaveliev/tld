@@ -6,6 +6,7 @@ import pytest
 from pipeline.markdown_export import (
     DumpPage,
     _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
+    _markdown_label,  # pyright: ignore[reportPrivateUsage]
     _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
     _portable_asset_name,  # pyright: ignore[reportPrivateUsage]
     load_filename_mapping,
@@ -16,6 +17,12 @@ from pipeline.markdown_export import (
 
 if TYPE_CHECKING:
     from pathlib import Path
+
+
+def test_markdown_label_escapes_punctuation() -> None:
+    assert _markdown_label("The Long Dark (Episode 1) *Test*") == (
+        "The Long Dark \\(Episode 1\\) \\*Test\\*"
+    )
 
 
 def test_normalize_title_matches_mediawiki_title_rules() -> None:
@@ -160,9 +167,12 @@ def test_iter_dump_pages_extracts_page_text_and_redirects(tmp_path: Path) -> Non
   <page>
     <title>Bear behavior</title><ns>0</ns>
     <revision>
-      <slots><slot role="main">
-        <model>wikitext</model><text>Slot article body</text>
-      </slot></slots>
+      <slots>
+        <slot role="aux"><model>json</model><text>Auxiliary content</text></slot>
+        <slot role="main">
+          <model>wikitext</model><text>Slot article body</text>
+        </slot>
+      </slots>
     </revision>
   </page>
 </mediawiki>

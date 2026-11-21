@@ -45,9 +45,19 @@ class ExportSummary(TypedDict):
     categories: int
 
 
+class PageExportResult(TypedDict):
+    title: str
+    filename: str
+    status: str
+    categories: int
+    infoboxes: int
+    missing_templates: int
+    error: str
+
+
 class ExportReport(TypedDict):
     summary: ExportSummary
-    pages: list[dict[str, str | int]]
+    pages: list[PageExportResult]
     unresolved_links: list[str]
     missing_images: list[str]
 
@@ -490,6 +500,118 @@ def _markdown_label(title: str) -> str:
     )
 
 
+def _export_one_page(
+    page: DumpPage,
+    title_to_filename: dict[str, str],
+    context: Any,
+    preprocess: Any,
+    postprocess: Any,
+    infobox_defs: Any,
+    pandoc: str,
+    redirects: dict[str, str],
+    image_index: dict[str, Path],
+    image_dir: Path | None,
+    pages_dir: Path,
+    asset_dir: Path,
+    copied_images: dict[Path, str],
+    used_asset_names: dict[str, Path],
+    missing_links: set[str],
+    missing_images: set[str],
+    categories_seen: set[str],
+) -> tuple[PageExportResult, int, int]:
+    """Expand and convert one article into its allocated Markdown file."""
+    title_key = normalize_title(page.title)
+    filename = title_to_filename[title_key]
+    expansion_error = ""
+    expanded = page.text
+    stats: dict[str, Any] = {
+        "infoboxes": 0,
+        "missing_templates": [],
+        "infobox_left": 0,
+    }
+    categories: list[str] = []
+    expansion_errors = 0
+
+    if page.model == "wikitext":
+        try:
+            expanded = preprocess(
+                page.text, context, infobox_defs, page.title, stats
+            )
+            context.start_page(page.title)
+            expanded = context.expand(expanded, timeout=30)
+        except Exception as exc:
+            expansion_errors = 1
+            expansion_error = str(exc)[:300]
+
+    conversion_errors = 0
+    try:
+        expanded = postprocess(expanded, categories, stats)
+        categories = sorted(set(categories), key=str.casefold)
+        categories_seen.update(categories)
+        html_fragment = _run_pandoc(pandoc, expanded, "mediawiki", "html")
+        rewritten_html = _rewrite_html_links(
+            html_fragment,
+            page.title,
+            title_to_filename,
+            redirects,
+            image_index,
+            image_dir,
+            asset_dir,
+            copied_images,
+            used_asset_names,
+            missing_links,
+            missing_images,
+        )
+        markdown_body = _run_pandoc(pandoc, rewritten_html, "html", "gfm")
+        status = "ok" if not expansion_error else "expand_failed"
+    except Exception as exc:
+        conversion_errors = 1
+        markdown_body = "\n".join(" > ".lstrip() + line for line in page.text.splitlines())
+        status = "conversion_failed"
+        expansion_error = str(exc)[:300]
+
+    document = _page_markdown(page.title, categories, markdown_body, None)
+    (pages_dir / filename).write_text(document, encoding="utf-8")
+    result: PageExportResult = {
+        "title": page.title,
+        "filename": filename,
+        "status": status,
+        "categories": len(categories),
+        "infoboxes": stats["infoboxes"],
+        "missing_templates": len(set(stats["missing_templates"])),
+        "error": expansion_error,
+    }
+    return result, expansion_errors, conversion_errors
+
+
+def _write_workspace_index(
+    page_results: list[PageExportResult], output_dir: Path
+) -> None:
+    """Write the Zettlr workspace root index."""
+    index_lines = [
+        "# The Long Dark Wiki",
+        "",
+        f"Articles: {len(page_results)}",
+        "",
+    ]
+    for result in sorted(page_results, key=lambda item: item["title"].casefold()):
+        title = result["title"]
+        filename = result["filename"]
+        link = "pages/" + _safe_destination(filename)
+        index_lines.append(f"- [{_markdown_label(title)}]({link})")
+    (output_dir / "Index.md").write_text(
+        "\n".join(index_lines) + "\n", encoding="utf-8"
+    )
+
+
+def _write_conversion_report(report: ExportReport, output_dir: Path) -> None:
+    """Write diagnostics for the completed Markdown export."""
+    (output_dir / "conversion-report.json").write_text(
+        json.dumps(report, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+
+
 def export_dump_to_markdown(
     dump_path: Path,
     mapping_path: Path,
@@ -524,95 +646,41 @@ def export_dump_to_markdown(
     image_index = _build_image_index(image_dir)
     pandoc = _pandoc_path()
     pandoc_selftest(pandoc)
+
     copied_images: dict[Path, str] = {}
     used_asset_names: dict[str, Path] = {}
     missing_links: set[str] = set()
     missing_images: set[str] = set()
-    page_results: list[dict[str, str | int]] = []
+    page_results: list[PageExportResult] = []
     categories_seen: set[str] = set()
     expansion_errors = 0
     conversion_errors = 0
 
     for page in sorted(articles, key=lambda item: item.title.casefold()):
-        title_key = normalize_title(page.title)
-        filename = title_to_filename[title_key]
-        expansion_error = ""
-        expanded = page.text
-        stats: dict[str, Any] = {
-            "infoboxes": 0,
-            "missing_templates": [],
-            "infobox_left": 0,
-        }
-        categories: list[str] = []
-
-        if page.model == "wikitext":
-            try:
-                expanded = preprocess(
-                    page.text, context, infobox_defs, page.title, stats
-                )
-                context.start_page(page.title)
-                expanded = context.expand(expanded, timeout=30)
-            except Exception as exc:
-                expansion_errors += 1
-                expansion_error = str(exc)[:300]
-
-        try:
-            expanded = postprocess(expanded, categories, stats)
-            categories = sorted(set(categories), key=str.casefold)
-            categories_seen.update(categories)
-            html_fragment = _run_pandoc(pandoc, expanded, "mediawiki", "html")
-            rewritten_html = _rewrite_html_links(
-                html_fragment,
-                page.title,
-                title_to_filename,
-                redirects,
-                image_index,
-                image_dir,
-                asset_dir,
-                copied_images,
-                used_asset_names,
-                missing_links,
-                missing_images,
-            )
-            markdown_body = _run_pandoc(pandoc, rewritten_html, "html", "gfm")
-            status = "ok" if not expansion_error else "expand_failed"
-        except Exception as exc:
-            conversion_errors += 1
-            markdown_body = "\n".join(
-                "> " + line for line in page.text.splitlines()
-            )
-            status = "conversion_failed"
-            expansion_error = str(exc)[:300]
-
-        document = _page_markdown(page.title, categories, markdown_body, source_url)
-        (pages_dir / filename).write_text(document, encoding="utf-8")
-        page_results.append(
-            {
-                "title": page.title,
-                "filename": filename,
-                "status": status,
-                "categories": len(categories),
-                "infoboxes": stats["infoboxes"],
-                "missing_templates": len(set(stats["missing_templates"])),
-                "error": expansion_error,
-            }
+        result, page_expansion_errors, page_conversion_errors = _export_one_page(
+            page,
+            title_to_filename,
+            context,
+            preprocess,
+            postprocess,
+            infobox_defs,
+            pandoc,
+            redirects,
+            image_index,
+            image_dir,
+            pages_dir,
+            asset_dir,
+            copied_images,
+            used_asset_names,
+            missing_links,
+            missing_images,
+            categories_seen,
         )
+        page_results.append(result)
+        expansion_errors += page_expansion_errors
+        conversion_errors += page_conversion_errors
 
-    index_lines = [
-        "# The Long Dark Wiki",
-        "",
-        f"Articles: {len(page_results)}",
-        "",
-    ]
-    for result in sorted(page_results, key=lambda item: str(item["title"]).casefold()):
-        title = str(result["title"])
-        filename = str(result["filename"])
-        link = "pages/" + _safe_destination(filename)
-        index_lines.append(f"- [{_markdown_label(title)}]({link})")
-    (output_dir / "Index.md").write_text(
-        "\n".join(index_lines) + "\n", encoding="utf-8"
-    )
-
+    _write_workspace_index(page_results, output_dir)
     summary: ExportSummary = {
         "article_pages": len(articles),
         "exported_pages": len(page_results),
@@ -629,8 +697,5 @@ def export_dump_to_markdown(
         "unresolved_links": sorted(missing_links),
         "missing_images": sorted(missing_images),
     }
-    (output_dir / "conversion-report.json").write_text(
-        json.dumps(report, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
+    _write_conversion_report(report, output_dir)
     return report

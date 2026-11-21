@@ -1028,13 +1028,31 @@ def _rewrite_page_html(
 
 HTML_BLOCK_TAGS = frozenset(
     {
-        "address", "article", "aside", "blockquote", "dd", "details", "div",
-        "dl", "dt", "fieldset", "figcaption", "figure", "footer", "form",
-        "h1", "h2", "h3", "h4", "h5", "h6", "hr", "main", "nav", "ol",
-        "p", "pre", "section", "summary", "table", "ul",
+        "address", "article", "aside", "blockquote", "body", "canvas", "center",
+        "dd", "details", "dialog", "div", "dl", "dt", "fieldset", "figcaption",
+        "figure", "footer", "form", "h1", "h2", "h3", "h4", "h5", "h6",
+        "header", "hgroup", "hr", "main", "menu", "nav", "ol", "p", "pre",
+        "search", "section", "summary", "table", "ul",
     }
 )
-HTML_TAG_RE = re.compile(r"</?[A-Za-z][A-Za-z0-9-]*(?=\s|/?>)[^>]*>")
+HTML_TAG_RE = re.compile(r"</?[A-Za-z][A-Za-z0-9._:-]*(?=\s|/?>)[^>]*>")
+HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
+HTML_DECLARATION_RE = re.compile(r"<![A-Za-z][^>]*>")
+
+
+def _contains_html_markup(value: str) -> bool:
+    """Return whether text contains HTML elements, comments, or declarations."""
+    return any(
+        pattern.search(value)
+        for pattern in (HTML_TAG_RE, HTML_COMMENT_RE, HTML_DECLARATION_RE)
+    )
+
+
+def _strip_html_markup(value: str) -> str:
+    """Remove residual markup when even the HTML parser cannot recover a fragment."""
+    without_comments = HTML_COMMENT_RE.sub("", value)
+    without_declarations = HTML_DECLARATION_RE.sub("", without_comments)
+    return HTML_TAG_RE.sub("", without_declarations)
 
 
 def _html_tag(node: lhtml.HtmlElement) -> str:
@@ -1083,10 +1101,10 @@ def _inline_markdown(node: lhtml.HtmlElement) -> str:
     """Render an element's mixed inline content without retaining HTML tags."""
     pieces = [_markdown_text(node.text or "")]
     for child in node:
-        pieces.append(_inline_markdown_element(child))
+        if isinstance(child.tag, str):
+            pieces.append(_inline_markdown_element(child))
         pieces.append(_markdown_text(child.tail or ""))
     return "".join(pieces)
-
 
 def _inline_span_markdown(node: lhtml.HtmlElement, content: str) -> str | None:
     """Translate visual span styling into nearby Markdown emphasis."""
@@ -1103,14 +1121,13 @@ def _inline_span_markdown(node: lhtml.HtmlElement, content: str) -> str | None:
 
 def _inline_markdown_emphasis(tag: str, content: str) -> str | None:
     """Convert inline emphasis and strike-through tags to Markdown."""
-    if tag in {"strong", "b"}:
+    if tag in {"strong", "b", "mark", "big"}:
         return f"**{content}**" if content else ""
-    if tag in {"em", "i", "cite", "var", "u", "mark"}:
+    if tag in {"em", "i", "cite", "var", "u", "small", "dfn"}:
         return f"*{content}*" if content else ""
     if tag in {"del", "s", "strike"}:
         return f"~~{content}~~" if content else ""
     return None
-
 
 def _inline_markdown_semantics(
     node: lhtml.HtmlElement, tag: str, content: str
@@ -1125,9 +1142,17 @@ def _inline_markdown_semantics(
     if tag == "span":
         styled = _inline_span_markdown(node, content)
         return styled if styled is not None else content
+    if tag == "abbr":
+        title = node.get("title", "").strip()
+        if title and title.casefold() != content.casefold():
+            return f"{content} ({_markdown_text(title)})"
+        return content
+    if tag == "q":
+        return f"“{content}”" if content else ""
+    if tag == "wbr":
+        return ""
     is_math = tag == "math" or "math" in (node.get("class") or "").split()
     return "$" + content + "$" if is_math and content else None
-
 
 def _inline_markdown_formatting(
     node: lhtml.HtmlElement, tag: str, content: str
@@ -1154,14 +1179,28 @@ def _inline_markdown_media(
     if tag == "br":
         return "  \n"
     if tag == "input":
-        return "[x] " if node.get("checked") is not None else "[ ] "
+        input_type = (node.get("type") or "text").casefold()
+        if input_type == "checkbox":
+            return "[x] " if node.get("checked") is not None else "[ ] "
+        if input_type in {"hidden", "password"}:
+            return ""
+        return _markdown_text(node.get("value") or node.get("placeholder") or "")
     if tag == "svg":
-        return _markdown_text(node.get("aria-label") or node.get("title") or "")
-    if tag in {"iframe", "video", "audio"}:
-        source = node.get("src")
-        return f"[Embedded media]({_markdown_destination(source)})" if source else ""
+        label = node.get("aria-label") or node.get("title")
+        title_node = node.find(".//title")
+        if not label and title_node is not None:
+            label = title_node.text_content()
+        return _markdown_text(label or "")
+    if tag in {"iframe", "video", "audio", "object", "embed"}:
+        source = node.get("src") or node.get("data")
+        source_node = node.find(".//source")
+        if not source and source_node is not None:
+            source = source_node.get("src")
+        if not source:
+            return content
+        label = content or _markdown_text(node.get("title") or "Embedded media")
+        return f"[{label}]({_markdown_destination(source)})"
     return None
-
 
 def _unicode_superscript(value: str) -> str:
     """Use Unicode superscript glyphs where Markdown has no superscript syntax."""
@@ -1299,6 +1338,22 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
     return f"**{caption}**\n\n{table}" if caption else table
 
 
+def _is_html_block_element(node: lhtml.HtmlElement) -> bool:
+    """Recognize standard and custom elements that contain block layout."""
+    if _html_tag(node) in HTML_BLOCK_TAGS:
+        return True
+    style = (node.get("style") or "").casefold().replace(" ", "")
+    if any(
+        f"display:{display}" in style
+        for display in ("block", "flex", "grid", "flow-root", "table", "list-item")
+    ):
+        return True
+    return any(
+        isinstance(child.tag, str) and _html_tag(child) in HTML_BLOCK_TAGS
+        for child in node
+    )
+
+
 def _render_html_list(node: lhtml.HtmlElement, depth: int = 0) -> str:
     """Convert nested HTML ordered and unordered lists to Markdown lists."""
     ordered = _html_tag(node) == "ol"
@@ -1315,7 +1370,7 @@ def _render_html_list(node: lhtml.HtmlElement, depth: int = 0) -> str:
         for child in item:
             if _html_tag(child) in {"ul", "ol"}:
                 nested.append(_render_html_list(child, depth + 2))
-            elif _html_tag(child) in HTML_BLOCK_TAGS:
+            elif _is_html_block_element(child):
                 content.append(_render_html_block(child).replace("\n", " "))
             else:
                 content.append(_inline_markdown_element(child))
@@ -1372,8 +1427,10 @@ def _render_html_special_block(node: lhtml.HtmlElement) -> str | None:
         return "---"
     if tag == "dl":
         return _render_html_definition_list(node)
+    if tag == "center":
+        content = _render_html_children(node)
+        return "\n".join("> " + line if line else ">" for line in content.splitlines())
     return None
-
 
 def _render_html_block(node: lhtml.HtmlElement) -> str:
     """Convert one HTML block element into Markdown."""
@@ -1395,15 +1452,21 @@ def _render_html_block(node: lhtml.HtmlElement) -> str:
             content = f"## Notes\n\n{content}" if content else "## Notes"
     if tag == "summary":
         return f"**{_inline_markdown(node).strip()}**"
+    if tag in {"iframe", "video", "audio", "object", "embed"}:
+        return _inline_markdown_element(node)
+    if tag == "canvas":
+        return _markdown_text(node.get("aria-label") or node.get("title") or content)
     return content
-
 
 def _render_html_children(node: lhtml.HtmlElement) -> str:
     """Render mixed block and inline descendants, discarding all wrapper tags."""
     blocks: list[str] = []
     inline: list[str] = [_markdown_text(node.text or "")]
     for child in node:
-        if _html_tag(child) in HTML_BLOCK_TAGS:
+        if not isinstance(child.tag, str):
+            inline.append(_markdown_text(child.tail or ""))
+            continue
+        if _is_html_block_element(child):
             current = "".join(inline).strip()
             if current:
                 blocks.append(current)
@@ -1418,7 +1481,6 @@ def _render_html_children(node: lhtml.HtmlElement) -> str:
     if current:
         blocks.append(current)
     return "\n\n".join(blocks)
-
 
 def _markdown_heading_slug(label: str) -> str:
     """Approximate the heading anchor generated by common Markdown readers."""
@@ -1482,6 +1544,15 @@ def _convert_html_to_markdown(
     return markdown_body, note, False
 
 
+def _source_html_markdown_fallback(
+    page: DumpPage, pandoc: str, resources: PageExportResources
+) -> str:
+    """Render original source as HTML and normalize it to Markdown."""
+    html_fragment = _run_pandoc(pandoc, page.text, "mediawiki", "html")
+    rewritten_html, _, _ = _rewrite_page_html(html_fragment, page, resources, "")
+    return _html_fragment_to_markdown(rewritten_html)
+
+
 def _source_markdown_fallback(
     page: DumpPage,
     pandoc: str,
@@ -1489,38 +1560,55 @@ def _source_markdown_fallback(
     error: Exception,
     resources: PageExportResources,
 ) -> PageConversion:
-    """Use direct source conversion, normalizing HTML if Pandoc retains it."""
+    """Use direct source conversion, ensuring the final fallback contains Markdown."""
     conversion_stage_error = f"{conversion_stage} failed: {error}"
     try:
         markdown_body = _run_pandoc(pandoc, page.text, "mediawiki", "gfm")
     except Exception as fallback_error:
-        markdown_body = "\n".join("> " + line for line in page.text.splitlines())
+        try:
+            markdown_body = _source_html_markdown_fallback(page, pandoc, resources)
+        except Exception as html_error:
+            try:
+                if not _contains_html_markup(page.text):
+                    raise ValueError("Source contains no recoverable HTML markup.")
+                markdown_body = _html_fragment_to_markdown(page.text)
+            except Exception:
+                safe_source = _strip_html_markup(page.text)
+                markdown_body = "\n".join("> " + line for line in safe_source.splitlines())
+                return PageConversion(
+                    markdown_body=markdown_body,
+                    status="conversion_failed",
+                    note=(
+                        f"{conversion_stage_error}; source fallback failed: "
+                        f"{fallback_error}; HTML fallback failed: {html_error}"
+                    ),
+                    conversion_errors=1,
+                )
         return PageConversion(
             markdown_body=markdown_body,
-            status="conversion_failed",
+            status="raw_fallback",
             note=(
-                f"{conversion_stage_error}; source fallback failed: {fallback_error}"
+                f"{conversion_stage_error} Direct Markdown conversion failed; "
+                "rendered the original source through HTML-to-Markdown fallback."
             ),
-            conversion_errors=1,
         )
 
-    if HTML_TAG_RE.search(markdown_body):
+    if _contains_html_markup(markdown_body):
         try:
-            html_fragment = _run_pandoc(pandoc, page.text, "mediawiki", "html")
-            rewritten_html, _, _ = _rewrite_page_html(
-                html_fragment, page, resources, ""
-            )
-            markdown_body = _html_fragment_to_markdown(rewritten_html)
+            markdown_body = _source_html_markdown_fallback(page, pandoc, resources)
         except Exception as html_error:
-            markdown_body = "\n".join("> " + line for line in page.text.splitlines())
+            if _contains_html_markup(page.text):
+                markdown_body = _html_fragment_to_markdown(page.text)
+            else:
+                markdown_body = _strip_html_markup(markdown_body)
+            note = (
+                f"{conversion_stage_error} Pandoc retained HTML; normalized it "
+                f"to Markdown after: {html_error}"
+            )
             return PageConversion(
                 markdown_body=markdown_body,
-                status="conversion_failed",
-                note=(
-                    f"{conversion_stage_error}; HTML normalization fallback failed: "
-                    f"{html_error}"
-                ),
-                conversion_errors=1,
+                status="raw_fallback",
+                note=note,
             )
 
     return PageConversion(
@@ -1528,7 +1616,6 @@ def _source_markdown_fallback(
         status="raw_fallback",
         note=f"{conversion_stage_error} Direct source-to-Markdown fallback used.",
     )
-
 
 def _convert_page_body(
     page: DumpPage,

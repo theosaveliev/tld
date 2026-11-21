@@ -10,8 +10,8 @@ from pipeline.bfs import bfs, depth_histogram, render_json, render_text
 from pipeline.categories import build_category_report, write_category_report
 from pipeline.click_types import IN_PATH, OUT_PATH
 from pipeline.filename_audit import audit_dump
-from pipeline.markdown_export import export_dump_to_markdown
 from pipeline.links import LinkExtractor
+from pipeline.markdown_export import export_dump_to_markdown
 from pipeline.templates import (
     build_template_category_report,
     write_template_category_report,

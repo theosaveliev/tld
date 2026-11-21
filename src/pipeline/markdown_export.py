@@ -474,7 +474,7 @@ def _page_markdown(
             + urllib.parse.quote(title.replace(" ", "_"), safe="()'!~-._")
         )
         metadata.append(f"source: {_yaml_string(article_url)}")
-    metadata.extend(["---", "", f"# {title}", ""])
+    metadata.extend(["---", "", f"# {_markdown_label(title)}", ""])
     if body:
         metadata.extend([body, ""])
     return "\n".join(metadata)
@@ -504,6 +504,7 @@ def export_dump_to_markdown(
     load_infobox_defs = getattr(renderer, "load_infobox_defs")
     preprocess = getattr(renderer, "prepass")
     postprocess = getattr(renderer, "postexpand")
+    pandoc_selftest = getattr(renderer, "pandoc_selftest")
     context, articles, redirects = _load_wiki_context(dump_path)
     infobox_defs = load_infobox_defs(context)
 
@@ -522,6 +523,7 @@ def export_dump_to_markdown(
     pages_dir.mkdir(parents=True, exist_ok=True)
     image_index = _build_image_index(image_dir)
     pandoc = _pandoc_path()
+    pandoc_selftest(pandoc)
     copied_images: dict[Path, str] = {}
     used_asset_names: dict[str, Path] = {}
     missing_links: set[str] = set()

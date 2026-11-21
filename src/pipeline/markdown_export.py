@@ -569,7 +569,7 @@ def _copy_image(
     return output_name
 
 
-def _restore_infobox_headers(table: etree._Element) -> None:
+def _restore_infobox_headers(table: lhtml.HtmlElement) -> None:
     """Turn infobox data cells into semantic table headers."""
     for row in table.iter("tr"):
         cells = [child for child in row if child.tag == "td"]
@@ -587,7 +587,7 @@ def _restore_infobox_headers(table: etree._Element) -> None:
                 cells[0].set("class", "section")
 
 
-def _restore_generated_tables(root: etree._Element) -> None:
+def _restore_generated_tables(root: lhtml.HtmlElement) -> None:
     """Restore infobox and gallery semantics tagged by the Fandom preprocessor."""
     for table in root.iter("table"):
         caption = table.find("caption")
@@ -605,7 +605,7 @@ def _restore_generated_tables(root: etree._Element) -> None:
             _restore_infobox_headers(table)
 
 
-def _restore_thumbnail_captions(root: etree._Element) -> None:
+def _restore_thumbnail_captions(root: lhtml.HtmlElement) -> None:
     """Turn XTHUMB image alt markers into visible figure or span captions."""
     for image in list(root.iter("img")):
         label = image.get("alt") or image.get("title") or ""
@@ -646,7 +646,7 @@ def _restore_thumbnail_captions(root: etree._Element) -> None:
         wrapper.tail = old_tail
 
 
-def _add_mediawiki_heading_ids(root: etree._Element) -> None:
+def _add_mediawiki_heading_ids(root: lhtml.HtmlElement) -> None:
     """Assign stable MediaWiki-style heading IDs and insert a compact TOC."""
     used: set[str] = set()
     headings: list[tuple[int, str, str]] = []
@@ -679,7 +679,7 @@ def _add_mediawiki_heading_ids(root: etree._Element) -> None:
     root.insert(0, nav)
 
 
-def _add_footnote_heading(root: etree._Element) -> None:
+def _add_footnote_heading(root: lhtml.HtmlElement) -> None:
     """Add a Notes heading when Pandoc emits a footnotes section without one."""
     for section in root.iter("section", "aside"):
         if "footnotes" not in (section.get("class") or ""):
@@ -692,7 +692,7 @@ def _add_footnote_heading(root: etree._Element) -> None:
 
 
 def _rewrite_image_nodes(
-    root: etree._Element,
+    root: lhtml.HtmlElement,
     image_index: dict[str, Path],
     image_dir: Path | None,
     asset_dir: Path,
@@ -741,7 +741,7 @@ def _rewrite_image_nodes(
 
 
 def _rewrite_anchor_nodes(
-    root: etree._Element,
+    root: lhtml.HtmlElement,
     current_title: str,
     title_to_filename: dict[str, str],
     redirects: dict[str, str],

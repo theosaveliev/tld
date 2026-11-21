@@ -353,8 +353,7 @@ def test_export_retries_pandoc_after_closing_unterminated_wikitext_table(
         if source_format == "mediawiki":
             if "|}" not in text:
                 raise RuntimeError(
-                    "Pandoc conversion failed: Error at (line 4, column 1): "
-                    + "unexpected end of input"
+                    "Pandoc conversion failed: Error at (line 4, column 1): unexpected end of input"
                 )
             return "<p>Recovered article text</p>"
         assert (source_format, target_format) == ("html", "gfm")
@@ -461,8 +460,7 @@ def test_export_renders_original_source_if_expanded_wikitext_stays_invalid(
             if text == "original source":
                 return "<p>Original source prose</p>"
             raise RuntimeError(
-                "Pandoc conversion failed: Error at (line 4, column 1): "
-                + "unexpected end of input"
+                "Pandoc conversion failed: Error at (line 4, column 1): unexpected end of input"
             )
         assert (source_format, target_format) == ("html", "gfm")
         return "Original source prose"

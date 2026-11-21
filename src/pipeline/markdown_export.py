@@ -163,6 +163,28 @@ def _portable_asset_name(name: str) -> str:
     return f"{stem}{suffix}"
 
 
+def _is_external_scheme(scheme: str) -> bool:
+    """Return whether a URI scheme should remain an external link."""
+    is_interwiki = len(scheme) in {2, 3} or scheme in NAMED_INTERWIKI_SCHEMES
+    return scheme in EXTERNAL_SCHEMES or (
+        bool(scheme) and scheme not in LOCAL_WIKI_SCHEMES and is_interwiki
+    )
+
+
+def _follow_redirects(
+    title: str, fragment: str, redirects: dict[str, str]
+) -> tuple[str, str]:
+    """Resolve a redirect chain and inherit its fragment when needed."""
+    visited: set[str] = set()
+    while title in redirects and title not in visited:
+        visited.add(title)
+        target, separator, redirect_fragment = redirects[title].partition("#")
+        title = normalize_title(target)
+        if not fragment and separator:
+            fragment = redirect_fragment.replace(" ", "_")
+    return title, fragment
+
+
 def resolve_internal_href(
     href: str,
     current_title: str,
@@ -172,53 +194,81 @@ def resolve_internal_href(
     """Resolve a Pandoc HTML link to a local Markdown file.
 
     External URLs and same-page anchors are returned unchanged. Unresolved
-    wiki links return None so the caller can retain their visible label.
+    wiki links return None so the caller can retain their label.
     """
     if not href or href.startswith("#") or href.startswith("//"):
         return href
 
     parsed = urllib.parse.urlsplit(href)
     scheme = parsed.scheme.casefold()
-    is_interwiki = len(scheme) in {2, 3} or scheme in NAMED_INTERWIKI_SCHEMES
-    if scheme in EXTERNAL_SCHEMES or (
-        scheme and scheme not in LOCAL_WIKI_SCHEMES and is_interwiki
-    ):
+    if _is_external_scheme(scheme):
         return href
 
     raw_path = parsed.path if not scheme else href
     raw_target = urllib.parse.unquote(raw_path).strip()
     raw_target = raw_target.removeprefix("./").removeprefix("/")
+    fragment = urllib.parse.unquote(parsed.fragment).replace(" ", "_")
     if not raw_target:
-        return "#" + _safe_destination(parsed.fragment) if parsed.fragment else None
+        return "#" + _safe_destination(fragment) if fragment else None
 
     key = normalize_title(raw_target.lstrip(":"))
-    current_key = normalize_title(current_title)
-    fragment = urllib.parse.unquote(parsed.fragment).replace(" ", "_")
-    visited: set[str] = set()
-
-    while key in redirects and key not in visited:
-        visited.add(key)
-        redirect_target = redirects[key]
-        redirect_title, separator, redirect_fragment = redirect_target.partition("#")
-        key = normalize_title(redirect_title)
-        if not fragment and separator:
-            fragment = redirect_fragment
-
+    key, fragment = _follow_redirects(key, fragment, redirects)
     filename = title_to_filename.get(key)
     if filename is None:
         return None
 
     destination = "./" + _safe_destination(filename)
-    if key == current_key and fragment:
+    if key == normalize_title(current_title) and fragment:
         return "#" + _safe_destination(fragment)
     if fragment:
         destination += "#" + _safe_destination(fragment)
     return destination
 
 
+
+def _read_mapping_entry(entry: Any) -> tuple[str, str]:
+    """Validate a raw mapping object and return its title and filename."""
+    if not isinstance(entry, dict):
+        raise ValueError("Every filename mapping entry must be an object.")
+    title = entry.get("title")
+    filename = entry.get("filename")
+    if not isinstance(title, str) or not isinstance(filename, str):
+        raise ValueError("Each mapping needs string 'title' and 'filename' fields.")
+    return title, filename
+
+
+def _validate_mapping_filename(
+    title: str, filename: str, used_filenames: dict[str, str]
+) -> str:
+    """Validate one output filename and return its normalized collision key."""
+    invalid_name = (
+        not filename.endswith(".md")
+        or "/" in filename
+        or "\\" in filename
+        or ":" in filename
+        or filename in {".md", "..md"}
+    )
+    if invalid_name:
+        raise ValueError(f"Unsafe Markdown filename for {title!r}: {filename!r}")
+    if len(filename.encode("utf-8")) > MAX_FILENAME_BYTES:
+        raise ValueError(
+            f"Filename exceeds {MAX_FILENAME_BYTES} bytes: {filename!r}"
+        )
+    if any(unicodedata.category(char) == "Cc" for char in filename):
+        raise ValueError(f"Filename contains control characters: {filename!r}")
+
+    collision_key = unicodedata.normalize("NFC", filename).casefold()
+    if collision_key in used_filenames:
+        other = used_filenames[collision_key]
+        raise ValueError(f"Filename collision in mapping: {other!r}, {filename!r}")
+    return collision_key
+
+
 def load_filename_mapping(path: Path) -> dict[str, str]:
     """Load and validate the committed title-to-filename audit mapping."""
     data = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(data, dict):
+        raise ValueError("Filename mapping JSON must contain a top-level object.")
     entries = data.get("mappings")
     if not isinstance(entries, list):
         raise ValueError("Filename mapping JSON must contain a 'mappings' list.")
@@ -226,38 +276,19 @@ def load_filename_mapping(path: Path) -> dict[str, str]:
     title_to_filename: dict[str, str] = {}
     used_filenames: dict[str, str] = {}
     for entry in entries:
-        if not isinstance(entry, dict):
-            raise ValueError("Every filename mapping entry must be an object.")
-        title = entry.get("title")
-        filename = entry.get("filename")
-        if not isinstance(title, str) or not isinstance(filename, str):
-            raise ValueError("Each mapping needs string 'title' and 'filename' fields.")
-        if (
-            not filename.endswith(".md")
-            or "/" in filename
-            or "\\" in filename
-            or ":" in filename
-            or filename in {".md", "..md"}
-        ):
-            raise ValueError(f"Unsafe Markdown filename for {title!r}: {filename!r}")
-        if len(filename.encode("utf-8")) > MAX_FILENAME_BYTES:
-            raise ValueError(
-                f"Filename exceeds {MAX_FILENAME_BYTES} bytes: {filename!r}"
-            )
-        if any(unicodedata.category(char) == "Cc" for char in filename):
-            raise ValueError(f"Filename contains control characters: {filename!r}")
-
+        title, filename = _read_mapping_entry(entry)
         normalized_title = normalize_title(title)
-        folded_filename = unicodedata.normalize("NFC", filename).casefold()
         if normalized_title in title_to_filename:
             raise ValueError(f"Duplicate normalized page title: {title!r}")
-        if folded_filename in used_filenames:
-            other = used_filenames[folded_filename]
-            raise ValueError(f"Filename collision in mapping: {other!r}, {filename!r}")
+
+        collision_key = _validate_mapping_filename(
+            title, filename, used_filenames
+        )
         title_to_filename[normalized_title] = filename
-        used_filenames[folded_filename] = filename
+        used_filenames[collision_key] = filename
 
     return title_to_filename
+
 
 
 def _xml_local_name(element: Element) -> str:

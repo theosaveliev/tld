@@ -125,9 +125,9 @@ def _safe_destination(filename: str) -> str:
 def _portable_asset_name(name: str) -> str:
     """Make a dumped image basename portable to macOS and within byte limits."""
     normalized = unicodedata.normalize("NFC", Path(name).name).rstrip(" .")
+    normalized = " - ".join(part.strip() for part in normalized.split(":"))
     suffix = Path(normalized).suffix
     stem = normalized[: -len(suffix)] if suffix else normalized
-    stem = " - ".join(part.strip() for part in stem.split(":"))
     stem = "".join(
         "_" if unicodedata.category(char) == "Cc" else char for char in stem
     ).rstrip(" .")

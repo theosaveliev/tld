@@ -156,6 +156,7 @@ def load_filename_mapping(path: Path) -> dict[str, str]:
             not filename.endswith(".md")
             or "/" in filename
             or "\\" in filename
+            or ":" in filename
             or filename in {".md", "..md"}
         ):
             raise ValueError(f"Unsafe Markdown filename for {title!r}: {filename!r}")
@@ -439,6 +440,8 @@ def _rewrite_html_links(
 
     for image in list(root.iter("img")):
         source_name = image.get("src", "")
+        if urllib.parse.urlsplit(source_name).scheme in {"http", "https", "data"}:
+            continue
         output_name = _copy_image(
             source_name,
             image_index,

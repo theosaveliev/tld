@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 from typing import TYPE_CHECKING
 
 import pytest
@@ -11,6 +12,7 @@ from pipeline.markdown_export import (
     RenderStats,
     WikiContext,
     _export_one_page,  # pyright: ignore[reportPrivateUsage]
+    _html_fragment_to_markdown,  # pyright: ignore[reportPrivateUsage]
     _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
     _markdown_label,  # pyright: ignore[reportPrivateUsage]
     _portable_asset_name,  # pyright: ignore[reportPrivateUsage]
@@ -304,6 +306,37 @@ def test_html_rewriter_restores_infoboxes_thumbnails_and_section_ids(
     assert missing_images == set()
 
 
+def test_html_fragment_to_markdown_converts_fandom_elements() -> None:
+    fragment = """<div>
+<h2>Overview</h2>
+<p><strong>Important</strong> <a href="./Bear.md">Bear</a> <span>details</span></p>
+<ul><li>First item</li><li>Second <em>item</em></li></ul>
+<table class="infobox">
+<caption>Bear</caption>
+<tbody>
+<tr><th>Release</th><td>2017</td></tr>
+<tr><td colspan="2" class="section"><strong>Properties</strong></td></tr>
+</tbody>
+</table>
+<figure><img src="../assets/Bear.png" alt="Bear" />
+<figcaption>Bear icon</figcaption></figure>
+</div>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "## Overview" in markdown
+    assert "**Important** [Bear](./Bear.md) details" in markdown
+    assert "- First item" in markdown
+    assert "- Second *item*" in markdown
+    assert "**Bear**" in markdown
+    assert "| Property | Details |" in markdown
+    assert "| Release | 2017 |" in markdown
+    assert "**Properties**" in markdown
+    assert "![Bear](../assets/Bear.png)" in markdown
+    assert "*Bear icon*" in markdown
+    assert not re.search(r"</?[A-Za-z][A-Za-z0-9-]*(?=\s|/?>)[^>]*>", markdown)
+
+
 def test_repair_unclosed_mediawiki_tables_appends_missing_closers() -> None:
     source = """{| class="outer"
 | row
@@ -437,7 +470,8 @@ def test_export_preserves_rendered_html_when_gfm_conversion_fails(
 
     output = (pages_dir / "Sample.md").read_text(encoding="utf-8")
     assert result["status"] == "html_fallback"
-    assert "<p>Rendered article text</p>" in output
+    assert "Rendered article text" in output
+    assert "<p>" not in output
     assert not output.startswith("> ")
     assert expansion_errors == 0
     assert conversion_errors == 0

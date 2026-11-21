@@ -539,20 +539,20 @@ def export_dump_to_markdown(
         categories: list[str] = []
 
         if page.model == "wikitext":
-            expanded = renderer.prepass(
-                page.text, context, infobox_defs, page.title, stats
-            )
             try:
+                expanded = renderer.prepass(
+                    page.text, context, infobox_defs, page.title, stats
+                )
                 context.start_page(page.title)
                 expanded = context.expand(expanded, timeout=30)
             except Exception as exc:
                 expansion_errors += 1
                 expansion_error = str(exc)[:300]
 
-        expanded = renderer.postexpand(expanded, categories, stats)
-        categories = sorted(set(categories), key=str.casefold)
-        categories_seen.update(categories)
         try:
+            expanded = renderer.postexpand(expanded, categories, stats)
+            categories = sorted(set(categories), key=str.casefold)
+            categories_seen.update(categories)
             html_fragment = _run_pandoc(pandoc, expanded, "mediawiki", "html")
             rewritten_html = _rewrite_html_links(
                 html_fragment,

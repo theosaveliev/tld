@@ -991,6 +991,8 @@ def _page_markdown(
     if metadata:
         lines.extend([" · ".join(metadata), ""])
     cleaned_body = _strip_navbox_lua_errors(body)
+    cleaned_body = _strip_wikitext_table_row_artifacts(cleaned_body)
+    cleaned_body = _remove_empty_markdown_sections(cleaned_body)
     if cleaned_body:
         lines.extend([cleaned_body, ""])
     document = "\n".join(lines).rstrip() + "\n"
@@ -1012,6 +1014,90 @@ def _strip_navbox_lua_errors(value: str) -> str:
     """Remove the visible Lua failure line and its dangling interwiki link."""
     cleaned = NAVBOX_ERROR_LINE_RE.sub("", value)
     return re.sub(r"\n{3,}", "\n\n", cleaned).strip()
+
+
+def _strip_wikitext_table_row_artifacts(value: str) -> str:
+    """Remove leaked end-of-row markers without changing fenced code."""
+    output: list[str] = []
+    fence: tuple[str, int] | None = None
+    for line in value.splitlines(keepends=True):
+        match = FENCED_CODE_RE.match(line)
+        if match is not None:
+            marker = match.group(1)
+            if fence is None:
+                fence = (marker[0], len(marker))
+            elif marker[0] == fence[0] and len(marker) >= fence[1]:
+                fence = None
+            output.append(line)
+            continue
+        if fence is None:
+            line = re.sub(r"\\+\|-[ \t]*(?=\r?\n?$)", "", line)
+        output.append(line)
+    return "".join(output)
+
+
+def _remove_empty_markdown_sections(value: str) -> str:
+    """Remove headings with no content and their matching contents-list links."""
+    lines = value.splitlines(keepends=True)
+    heading_re = re.compile(
+        r"^(?P<marks>#{1,6})[ \t]+(?P<label>.+?)[ \t]*#*[ \t]*(?:\r?\n)?$"
+    )
+    toc_link_re = re.compile(
+        r"^\s*(?:[-*+]|[0-9]+[.)])\s+\[[^\]]+\]\(#(?P<slug>[^)]+)\)\s*$"
+    )
+    headings: list[tuple[int, int, str]] = []
+    fence: tuple[str, int] | None = None
+    for index, line in enumerate(lines):
+        match = FENCED_CODE_RE.match(line)
+        if match is not None:
+            marker = match.group(1)
+            if fence is None:
+                fence = (marker[0], len(marker))
+            elif marker[0] == fence[0] and len(marker) >= fence[1]:
+                fence = None
+            continue
+        if fence is not None:
+            continue
+        heading = heading_re.match(line)
+        if heading is not None:
+            headings.append(
+                (index, len(heading.group("marks")), heading.group("label").strip())
+            )
+
+    removed_lines: set[int] = set()
+    removed_slugs: set[str] = set()
+    for index, level, label in headings:
+        next_content = next(
+            (
+                position
+                for position in range(index + 1, len(lines))
+                if lines[position].strip()
+            ),
+            None,
+        )
+        if next_content is None:
+            empty = True
+        else:
+            next_heading = heading_re.match(lines[next_content])
+            empty = (
+                next_heading is not None
+                and len(next_heading.group("marks")) <= level
+            )
+        if empty:
+            removed_lines.add(index)
+            removed_slugs.add(_markdown_heading_slug(label))
+
+    if not removed_lines:
+        return value
+    output = []
+    for index, line in enumerate(lines):
+        if index in removed_lines:
+            continue
+        toc_link = toc_link_re.match(line.rstrip("\r\n"))
+        if toc_link is not None and toc_link.group("slug") in removed_slugs:
+            continue
+        output.append(line)
+    return re.sub(r"\n{3,}", "\n\n", "".join(output)).strip()
 
 
 def _normalize_markdown_emphasis(value: str) -> str:
@@ -1272,6 +1358,15 @@ def _inline_markdown(node: lhtml.HtmlElement) -> str:
     return "".join(pieces)
 
 
+def _markdown_emphasis_blocks(content: str, marker: str) -> str:
+    """Apply Markdown emphasis separately to paragraphs separated by blank lines."""
+    chunks = re.split(r"(\n[ \t]*\n)", content)
+    return "".join(
+        f"{marker}{chunk.strip()}{marker}" if chunk.strip() else chunk
+        for chunk in chunks
+    )
+
+
 def _inline_span_markdown(node: lhtml.HtmlElement, content: str) -> str | None:
     """Translate visual span styling into nearby Markdown emphasis."""
     style = (node.get("style") or "").casefold().replace(" ", "")
@@ -1279,7 +1374,7 @@ def _inline_span_markdown(node: lhtml.HtmlElement, content: str) -> str | None:
     if "font-style:italic" in style or "thumbcaption" in classes:
         return f"_{content}_" if content else ""
     if "font-weight:bold" in style:
-        return f"**{content}**" if content else ""
+        return _markdown_emphasis_blocks(content, "**") if content else ""
     if "text-decoration:line-through" in style:
         return f"~~{content}~~" if content else ""
     if "text-decoration:underline" in style:
@@ -1298,7 +1393,7 @@ def _styled_markdown_content(node: lhtml.HtmlElement, content: str) -> str:
 def _inline_markdown_emphasis(tag: str, content: str) -> str | None:
     """Convert inline emphasis and strike-through tags to Markdown."""
     if tag in {"strong", "b", "mark", "big"}:
-        return f"**{content}**" if content else ""
+        return _markdown_emphasis_blocks(content, "**") if content else ""
     if tag in {"em", "i", "cite", "var", "u", "small", "dfn"}:
         return f"_{content}_" if content else ""
     if tag in {"del", "s", "strike"}:

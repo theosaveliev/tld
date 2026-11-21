@@ -1181,8 +1181,13 @@ def _restore_deferred_material_tables_in_html(
             rf"<p(?:\s[^>]*)?>\s*{re.escape(token)}\s*</p>",
             re.IGNORECASE,
         )
+        def replace_table(
+            _match: re.Match[str], replacement: str = table
+        ) -> str:
+            return replacement
+
         html_fragment, replacements = paragraph.subn(
-            lambda _match, replacement=table: replacement, html_fragment
+            replace_table, html_fragment
         )
         if not replacements:
             html_fragment = html_fragment.replace(token, table)

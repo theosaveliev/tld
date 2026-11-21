@@ -2,11 +2,43 @@
 
 ## 1. Locations
 
-> A Location is a named place in the game world. When the player discovers one, the game displays the message “New location discovered: [location name]”.
+> A Location is a named place in the game world. When the player discovers one, the game displays the message “New location discovered: [location name]”. A Region is a large, explorable area containing multiple Locations.
 
-### Regions
+### Lower Great Bear — Main Regions
 
-> A Region is a large, explorable area of the game world containing multiple Locations.
+- [Ash Canyon](https://thelongdark.fandom.com/wiki/Ash_Canyon)
+- [Blackrock](https://thelongdark.fandom.com/wiki/Blackrock)
+- [Bleak Inlet](https://thelongdark.fandom.com/wiki/Bleak_Inlet)
+- [Broken Railroad](https://thelongdark.fandom.com/wiki/Broken_Railroad)
+- [Coastal Highway](https://thelongdark.fandom.com/wiki/Coastal_Highway)
+- [Desolation Point](https://thelongdark.fandom.com/wiki/Desolation_Point)
+- [Forlorn Muskeg](https://thelongdark.fandom.com/wiki/Forlorn_Muskeg)
+- [Hushed River Valley](https://thelongdark.fandom.com/wiki/Hushed_River_Valley)
+- [Mountain Town](https://thelongdark.fandom.com/wiki/Mountain_Town)
+- [Mystery Lake (region)](https://thelongdark.fandom.com/wiki/Mystery_Lake_(region))
+- [Pleasant Valley](https://thelongdark.fandom.com/wiki/Pleasant_Valley)
+- [Timberwolf Mountain](https://thelongdark.fandom.com/wiki/Timberwolf_Mountain)
+
+### Lower Great Bear — Transition Regions
+
+- [Crumbling Highway](https://thelongdark.fandom.com/wiki/Crumbling_Highway)
+- [Keeper's Pass North](https://thelongdark.fandom.com/wiki/Keeper's_Pass_North)
+- [Keeper's Pass South](https://thelongdark.fandom.com/wiki/Keeper's_Pass_South)
+- [The Ravine](https://thelongdark.fandom.com/wiki/The_Ravine)
+- [Winding River](https://thelongdark.fandom.com/wiki/Winding_River)
+
+### Far Territory — Main Regions
+
+- [Forsaken Airfield](https://thelongdark.fandom.com/wiki/Forsaken_Airfield)
+- [Sundered Pass](https://thelongdark.fandom.com/wiki/Sundered_Pass)
+- [Transfer Pass](https://thelongdark.fandom.com/wiki/Transfer_Pass)
+- [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination)
+
+### Far Territory — Transition Regions
+
+- [Far Range Branch Line](https://thelongdark.fandom.com/wiki/Far_Range_Branch_Line)
+
+### Anna Island — Track Sections
 
 - [Anna Island -- Track Section 1](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_1)
 - [Anna Island -- Track Section 2](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_2)
@@ -14,42 +46,23 @@
 - [Anna Island -- Track Section 4](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_4)
 - [Anna Island -- Track Section 5](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_5)
 - [Anna Island -- Track Section 6](https://thelongdark.fandom.com/wiki/Anna_Island_--_Track_Section_6)
-- [Ash Canyon](https://thelongdark.fandom.com/wiki/Ash_Canyon)
-- [Blackrock](https://thelongdark.fandom.com/wiki/Blackrock)
+
+### Other Named Areas
+
 - [Blackrock Foothills](https://thelongdark.fandom.com/wiki/Blackrock_Foothills)
-- [Bleak Inlet](https://thelongdark.fandom.com/wiki/Bleak_Inlet)
-- [Broken Railroad](https://thelongdark.fandom.com/wiki/Broken_Railroad)
 - [Cauldron Island](https://thelongdark.fandom.com/wiki/Cauldron_Island)
-- [Coastal Highway](https://thelongdark.fandom.com/wiki/Coastal_Highway)
-- [Crumbling Highway](https://thelongdark.fandom.com/wiki/Crumbling_Highway)
-- [Desolation Point](https://thelongdark.fandom.com/wiki/Desolation_Point)
 - [Desperation Bay](https://thelongdark.fandom.com/wiki/Desperation_Bay)
-- [Far Range Branch Line](https://thelongdark.fandom.com/wiki/Far_Range_Branch_Line)
-- [Forlorn Muskeg](https://thelongdark.fandom.com/wiki/Forlorn_Muskeg)
-- [Forsaken Airfield](https://thelongdark.fandom.com/wiki/Forsaken_Airfield)
 - [Forsaken Shore](https://thelongdark.fandom.com/wiki/Forsaken_Shore)
 - [Great Bear Island](https://thelongdark.fandom.com/wiki/Great_Bear_Island)
-- [Hushed River Valley](https://thelongdark.fandom.com/wiki/Hushed_River_Valley)
-- [Keeper's Pass North](https://thelongdark.fandom.com/wiki/Keeper's_Pass_North)
-- [Keeper's Pass South](https://thelongdark.fandom.com/wiki/Keeper's_Pass_South)
-- [Mountain Town](https://thelongdark.fandom.com/wiki/Mountain_Town)
-- [Mystery Lake (region)](https://thelongdark.fandom.com/wiki/Mystery_Lake_(region))
 - [Perseverance Mills](https://thelongdark.fandom.com/wiki/Perseverance_Mills)
 - [Perseverance Wilds](https://thelongdark.fandom.com/wiki/Perseverance_Wilds)
-- [Pleasant Valley](https://thelongdark.fandom.com/wiki/Pleasant_Valley)
 - [Port Remnant](https://thelongdark.fandom.com/wiki/Port_Remnant)
 - [Precarious Causeway](https://thelongdark.fandom.com/wiki/Precarious_Causeway)
 - [Railway](https://thelongdark.fandom.com/wiki/Railway)
 - [Rocky Thoroughfare](https://thelongdark.fandom.com/wiki/Rocky_Thoroughfare)
 - [Shattered Marsh](https://thelongdark.fandom.com/wiki/Shattered_Marsh)
-- [Sundered Pass](https://thelongdark.fandom.com/wiki/Sundered_Pass)
 - [Suzuki Environs](https://thelongdark.fandom.com/wiki/Suzuki_Environs)
 - [Suzuki Geothermal Region](https://thelongdark.fandom.com/wiki/Suzuki_Geothermal_Region)
-- [The Ravine](https://thelongdark.fandom.com/wiki/The_Ravine)
-- [Timberwolf Mountain](https://thelongdark.fandom.com/wiki/Timberwolf_Mountain)
-- [Transfer Pass](https://thelongdark.fandom.com/wiki/Transfer_Pass)
-- [Winding River](https://thelongdark.fandom.com/wiki/Winding_River)
-- [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination)
 
 ### Places in Anna Island -- Track Section 1
 
@@ -623,46 +636,53 @@
 - [Security Chief's Rifle Holster](https://thelongdark.fandom.com/wiki/Security_Chief's_Rifle_Holster)
 - [Wool Ear Wrap](https://thelongdark.fandom.com/wiki/Wool_Ear_Wrap)
 
-### Torso
+### Torso — Inner Layer
 
-- [Astrid's Jacket](https://thelongdark.fandom.com/wiki/Astrid's_Jacket)
+> Garments worn in the inner torso clothing slot.
+
 - [Astrid's Sweater](https://thelongdark.fandom.com/wiki/Astrid's_Sweater)
-- [Bearskin Coat](https://thelongdark.fandom.com/wiki/Bearskin_Coat)
 - [Cowichan Sweater](https://thelongdark.fandom.com/wiki/Cowichan_Sweater)
-- [Down Vest](https://thelongdark.fandom.com/wiki/Down_Vest)
 - [Dress Shirt](https://thelongdark.fandom.com/wiki/Dress_Shirt)
-- [Expedition Parka](https://thelongdark.fandom.com/wiki/Expedition_Parka)
 - [Festive Sweater](https://thelongdark.fandom.com/wiki/Festive_Sweater)
 - [Fisherman's Sweater](https://thelongdark.fandom.com/wiki/Fisherman's_Sweater)
-- [Flight Jacket](https://thelongdark.fandom.com/wiki/Flight_Jacket)
 - [Hockey Jersey](https://thelongdark.fandom.com/wiki/Hockey_Jersey)
 - [Hoodie](https://thelongdark.fandom.com/wiki/Hoodie)
-- [Light Shell](https://thelongdark.fandom.com/wiki/Light_Shell)
-- [Mackenzie's Parka](https://thelongdark.fandom.com/wiki/Mackenzie's_Parka)
 - [Mackenzie's Shirt](https://thelongdark.fandom.com/wiki/Mackenzie's_Shirt)
 - [Mackenzie's Sweater](https://thelongdark.fandom.com/wiki/Mackenzie's_Sweater)
+- [Plaid Shirt](https://thelongdark.fandom.com/wiki/Plaid_Shirt)
+- [Sweatshirt](https://thelongdark.fandom.com/wiki/Sweatshirt)
+- [T-Shirt](https://thelongdark.fandom.com/wiki/T-Shirt)
+- [T-Shirt (CM)](https://thelongdark.fandom.com/wiki/T-Shirt_(CM))
+- [T-Shirt (GBI)](https://thelongdark.fandom.com/wiki/T-Shirt_(GBI))
+- [T-Shirt (Snappy)](https://thelongdark.fandom.com/wiki/T-Shirt_(Snappy))
+- [Thick Wool Sweater](https://thelongdark.fandom.com/wiki/Thick_Wool_Sweater)
+- [Thin Wool Sweater](https://thelongdark.fandom.com/wiki/Thin_Wool_Sweater)
+- [Wool Shirt](https://thelongdark.fandom.com/wiki/Wool_Shirt)
+
+### Torso — Outer Layer
+
+> Garments worn in the outer torso clothing slot.
+
+- [Astrid's Jacket](https://thelongdark.fandom.com/wiki/Astrid's_Jacket)
+- [Bearskin Coat](https://thelongdark.fandom.com/wiki/Bearskin_Coat)
+- [Down Vest](https://thelongdark.fandom.com/wiki/Down_Vest)
+- [Expedition Parka](https://thelongdark.fandom.com/wiki/Expedition_Parka)
+- [Flight Jacket](https://thelongdark.fandom.com/wiki/Flight_Jacket)
+- [Light Shell](https://thelongdark.fandom.com/wiki/Light_Shell)
+- [Mackenzie's Parka](https://thelongdark.fandom.com/wiki/Mackenzie's_Parka)
 - [Mackinaw Jacket](https://thelongdark.fandom.com/wiki/Mackinaw_Jacket)
 - [Mariner's Pea Coat](https://thelongdark.fandom.com/wiki/Mariner's_Pea_Coat)
 - [Military Coat](https://thelongdark.fandom.com/wiki/Military_Coat)
 - [Miner's Jacket](https://thelongdark.fandom.com/wiki/Miner's_Jacket)
 - [Moose-Hide Cloak](https://thelongdark.fandom.com/wiki/Moose-Hide_Cloak)
 - [Old Fashioned Parka](https://thelongdark.fandom.com/wiki/Old_Fashioned_Parka)
-- [Plaid Shirt](https://thelongdark.fandom.com/wiki/Plaid_Shirt)
 - [Simple Parka](https://thelongdark.fandom.com/wiki/Simple_Parka)
 - [Ski Jacket](https://thelongdark.fandom.com/wiki/Ski_Jacket)
 - [Sport Vest](https://thelongdark.fandom.com/wiki/Sport_Vest)
-- [Sweatshirt](https://thelongdark.fandom.com/wiki/Sweatshirt)
-- [T-Shirt](https://thelongdark.fandom.com/wiki/T-Shirt)
-- [T-Shirt (CM)](https://thelongdark.fandom.com/wiki/T-Shirt_(CM))
-- [T-Shirt (GBI)](https://thelongdark.fandom.com/wiki/T-Shirt_(GBI))
-- [T-Shirt (Snappy)](https://thelongdark.fandom.com/wiki/T-Shirt_(Snappy))
 - [Tactical Jacket](https://thelongdark.fandom.com/wiki/Tactical_Jacket)
-- [Thick Wool Sweater](https://thelongdark.fandom.com/wiki/Thick_Wool_Sweater)
-- [Thin Wool Sweater](https://thelongdark.fandom.com/wiki/Thin_Wool_Sweater)
 - [Urban Parka](https://thelongdark.fandom.com/wiki/Urban_Parka)
 - [Windbreaker](https://thelongdark.fandom.com/wiki/Windbreaker)
 - [Wolfskin Coat](https://thelongdark.fandom.com/wiki/Wolfskin_Coat)
-- [Wool Shirt](https://thelongdark.fandom.com/wiki/Wool_Shirt)
 
 ### Hands
 
@@ -730,63 +750,78 @@
 
 - [Food And Drink](https://thelongdark.fandom.com/wiki/Food_And_Drink)
 
-### Food
+### Meat & Animal Foods
 
-> Food that can be eaten directly, including raw and cooked meat, fish products, and packaged or gathered foods.
+> Raw, cooked, and preserved meat and other animal-derived foods.
 
-- [Acorns (Cooked - Large Portion)](https://thelongdark.fandom.com/wiki/Acorns_(Cooked_-_Large_Portion))
-- [Acorns (Cooked)](https://thelongdark.fandom.com/wiki/Acorns_(Cooked))
-- [Airline Food - Chicken](https://thelongdark.fandom.com/wiki/Airline_Food_-_Chicken)
-- [Airline Food - Vegetarian](https://thelongdark.fandom.com/wiki/Airline_Food_-_Vegetarian)
 - [Animal Fat](https://thelongdark.fandom.com/wiki/Animal_Fat)
 - [Bear Meat (Cooked)](https://thelongdark.fandom.com/wiki/Bear_Meat_(Cooked))
 - [Bear Meat (Raw)](https://thelongdark.fandom.com/wiki/Bear_Meat_(Raw))
-- [Beef Jerky](https://thelongdark.fandom.com/wiki/Beef_Jerky)
-- [Burbot (Cooked)](https://thelongdark.fandom.com/wiki/Burbot_(Cooked))
-- [Canned Corn](https://thelongdark.fandom.com/wiki/Canned_Corn)
-- [Canned Ham](https://thelongdark.fandom.com/wiki/Canned_Ham)
-- [Canned Pineapple](https://thelongdark.fandom.com/wiki/Canned_Pineapple)
-- [Carrot](https://thelongdark.fandom.com/wiki/Carrot)
-- [Cat Tail Stalk](https://thelongdark.fandom.com/wiki/Cat_Tail_Stalk)
-- [Cereal](https://thelongdark.fandom.com/wiki/Cereal)
-- [Chocolate Bar](https://thelongdark.fandom.com/wiki/Chocolate_Bar)
-- [Coho Salmon (Cooked)](https://thelongdark.fandom.com/wiki/Coho_Salmon_(Cooked))
-- [Condensed Milk](https://thelongdark.fandom.com/wiki/Condensed_Milk)
-- [Cooked Potato](https://thelongdark.fandom.com/wiki/Cooked_Potato)
 - [Cougar Meat (Cooked)](https://thelongdark.fandom.com/wiki/Cougar_Meat_(Cooked))
 - [Cougar Meat (Raw)](https://thelongdark.fandom.com/wiki/Cougar_Meat_(Raw))
-- [Cured Fish](https://thelongdark.fandom.com/wiki/Cured_Fish)
 - [Cured Meat](https://thelongdark.fandom.com/wiki/Cured_Meat)
-- [Dog Food](https://thelongdark.fandom.com/wiki/Dog_Food)
-- [Dried Apples](https://thelongdark.fandom.com/wiki/Dried_Apples)
-- [Energy Bar](https://thelongdark.fandom.com/wiki/Energy_Bar)
-- [Goldeye (Cooked)](https://thelongdark.fandom.com/wiki/Goldeye_(Cooked))
-- [Granola Bar](https://thelongdark.fandom.com/wiki/Granola_Bar)
-- [Ketchup Chips](https://thelongdark.fandom.com/wiki/Ketchup_Chips)
-- [Lake Whitefish (Cooked)](https://thelongdark.fandom.com/wiki/Lake_Whitefish_(Cooked))
-- [Maple Syrup](https://thelongdark.fandom.com/wiki/Maple_Syrup)
-- [Military-Grade MRE](https://thelongdark.fandom.com/wiki/Military-Grade_MRE)
 - [Moose Meat (Cooked)](https://thelongdark.fandom.com/wiki/Moose_Meat_(Cooked))
 - [Moose Meat (Raw)](https://thelongdark.fandom.com/wiki/Moose_Meat_(Raw))
-- [Peanut Butter](https://thelongdark.fandom.com/wiki/Peanut_Butter)
-- [Pickles](https://thelongdark.fandom.com/wiki/Pickles)
-- [Pinnacle Peaches](https://thelongdark.fandom.com/wiki/Pinnacle_Peaches)
-- [Pork and Beans](https://thelongdark.fandom.com/wiki/Pork_and_Beans)
 - [Ptarmigan (Cooked)](https://thelongdark.fandom.com/wiki/Ptarmigan_(Cooked))
 - [Ptarmigan (Raw)](https://thelongdark.fandom.com/wiki/Ptarmigan_(Raw))
 - [Rabbit (Cooked)](https://thelongdark.fandom.com/wiki/Rabbit_(Cooked))
 - [Rabbit (Raw)](https://thelongdark.fandom.com/wiki/Rabbit_(Raw))
-- [Rainbow Trout (Cooked)](https://thelongdark.fandom.com/wiki/Rainbow_Trout_(Cooked))
-- [Red Irish Lord (Cooked)](https://thelongdark.fandom.com/wiki/Red_Irish_Lord_(Cooked))
-- [Rockfish (Cooked)](https://thelongdark.fandom.com/wiki/Rockfish_(Cooked))
-- [Salty Crackers](https://thelongdark.fandom.com/wiki/Salty_Crackers)
-- [Smallmouth Bass (Cooked)](https://thelongdark.fandom.com/wiki/Smallmouth_Bass_(Cooked))
-- [Tin of Sardines](https://thelongdark.fandom.com/wiki/Tin_of_Sardines)
-- [Tomato Soup](https://thelongdark.fandom.com/wiki/Tomato_Soup)
 - [Venison (Cooked)](https://thelongdark.fandom.com/wiki/Venison_(Cooked))
 - [Venison (Raw)](https://thelongdark.fandom.com/wiki/Venison_(Raw))
 - [Wolf Meat (Cooked)](https://thelongdark.fandom.com/wiki/Wolf_Meat_(Cooked))
 - [Wolf Meat (Raw)](https://thelongdark.fandom.com/wiki/Wolf_Meat_(Raw))
+
+### Fish
+
+> Cooked and preserved fish.
+
+- [Burbot (Cooked)](https://thelongdark.fandom.com/wiki/Burbot_(Cooked))
+- [Coho Salmon (Cooked)](https://thelongdark.fandom.com/wiki/Coho_Salmon_(Cooked))
+- [Cured Fish](https://thelongdark.fandom.com/wiki/Cured_Fish)
+- [Goldeye (Cooked)](https://thelongdark.fandom.com/wiki/Goldeye_(Cooked))
+- [Lake Whitefish (Cooked)](https://thelongdark.fandom.com/wiki/Lake_Whitefish_(Cooked))
+- [Rainbow Trout (Cooked)](https://thelongdark.fandom.com/wiki/Rainbow_Trout_(Cooked))
+- [Red Irish Lord (Cooked)](https://thelongdark.fandom.com/wiki/Red_Irish_Lord_(Cooked))
+- [Rockfish (Cooked)](https://thelongdark.fandom.com/wiki/Rockfish_(Cooked))
+- [Smallmouth Bass (Cooked)](https://thelongdark.fandom.com/wiki/Smallmouth_Bass_(Cooked))
+
+### Plant & Foraged Foods
+
+> Edible plants and foods gathered or prepared from them.
+
+- [Acorns (Cooked - Large Portion)](https://thelongdark.fandom.com/wiki/Acorns_(Cooked_-_Large_Portion))
+- [Acorns (Cooked)](https://thelongdark.fandom.com/wiki/Acorns_(Cooked))
+- [Carrot](https://thelongdark.fandom.com/wiki/Carrot)
+- [Cat Tail Stalk](https://thelongdark.fandom.com/wiki/Cat_Tail_Stalk)
+- [Cooked Potato](https://thelongdark.fandom.com/wiki/Cooked_Potato)
+- [Maple Syrup](https://thelongdark.fandom.com/wiki/Maple_Syrup)
+
+### Canned & Packaged Foods
+
+> Canned goods and ready-to-eat packaged provisions.
+
+- [Airline Food - Chicken](https://thelongdark.fandom.com/wiki/Airline_Food_-_Chicken)
+- [Airline Food - Vegetarian](https://thelongdark.fandom.com/wiki/Airline_Food_-_Vegetarian)
+- [Beef Jerky](https://thelongdark.fandom.com/wiki/Beef_Jerky)
+- [Canned Corn](https://thelongdark.fandom.com/wiki/Canned_Corn)
+- [Canned Ham](https://thelongdark.fandom.com/wiki/Canned_Ham)
+- [Canned Pineapple](https://thelongdark.fandom.com/wiki/Canned_Pineapple)
+- [Cereal](https://thelongdark.fandom.com/wiki/Cereal)
+- [Chocolate Bar](https://thelongdark.fandom.com/wiki/Chocolate_Bar)
+- [Condensed Milk](https://thelongdark.fandom.com/wiki/Condensed_Milk)
+- [Dog Food](https://thelongdark.fandom.com/wiki/Dog_Food)
+- [Dried Apples](https://thelongdark.fandom.com/wiki/Dried_Apples)
+- [Energy Bar](https://thelongdark.fandom.com/wiki/Energy_Bar)
+- [Granola Bar](https://thelongdark.fandom.com/wiki/Granola_Bar)
+- [Ketchup Chips](https://thelongdark.fandom.com/wiki/Ketchup_Chips)
+- [Military-Grade MRE](https://thelongdark.fandom.com/wiki/Military-Grade_MRE)
+- [Peanut Butter](https://thelongdark.fandom.com/wiki/Peanut_Butter)
+- [Pickles](https://thelongdark.fandom.com/wiki/Pickles)
+- [Pinnacle Peaches](https://thelongdark.fandom.com/wiki/Pinnacle_Peaches)
+- [Pork and Beans](https://thelongdark.fandom.com/wiki/Pork_and_Beans)
+- [Salty Crackers](https://thelongdark.fandom.com/wiki/Salty_Crackers)
+- [Tin of Sardines](https://thelongdark.fandom.com/wiki/Tin_of_Sardines)
+- [Tomato Soup](https://thelongdark.fandom.com/wiki/Tomato_Soup)
 
 ### Drinks
 
@@ -1420,28 +1455,39 @@
 
 > Core survival systems, recurring activities, and Tales expansion content.
 
+### Resource Gathering & Preparation
+
 - [Beachcombing](https://thelongdark.fandom.com/wiki/Beachcombing)
-- [Cheat Death](https://thelongdark.fandom.com/wiki/Cheat_Death)
 - [Crafting](https://thelongdark.fandom.com/wiki/Crafting)
-- [Crouch](https://thelongdark.fandom.com/wiki/Crouch)
 - [Curing](https://thelongdark.fandom.com/wiki/Curing)
-- [Daisy Chaining](https://thelongdark.fandom.com/wiki/Daisy_Chaining)
-- [Decay](https://thelongdark.fandom.com/wiki/Decay)
 - [Foraging](https://thelongdark.fandom.com/wiki/Foraging)
 - [Harvesting](https://thelongdark.fandom.com/wiki/Harvesting)
-- [Hibernation](https://thelongdark.fandom.com/wiki/Hibernation)
 - [Hunting](https://thelongdark.fandom.com/wiki/Hunting)
-- [Loot Table](https://thelongdark.fandom.com/wiki/Loot_Table)
+- [Trapping](https://thelongdark.fandom.com/wiki/Trapping)
+
+### Movement & Traversal
+
+- [Crouch](https://thelongdark.fandom.com/wiki/Crouch)
 - [Mountain Goating](https://thelongdark.fandom.com/wiki/Mountain_Goating)
-- [Realism](https://thelongdark.fandom.com/wiki/Realism)
 - [Rock Climb](https://thelongdark.fandom.com/wiki/Rock_Climb)
 - [Rope Climbing](https://thelongdark.fandom.com/wiki/Rope_Climbing)
-- [Safehouse](https://thelongdark.fandom.com/wiki/Safehouse)
-- [Safehouse Customization](https://thelongdark.fandom.com/wiki/Safehouse_Customization)
+
+### Survival Systems & World Rules
+
+- [Cheat Death](https://thelongdark.fandom.com/wiki/Cheat_Death)
+- [Decay](https://thelongdark.fandom.com/wiki/Decay)
+- [Hibernation](https://thelongdark.fandom.com/wiki/Hibernation)
+- [Loot Table](https://thelongdark.fandom.com/wiki/Loot_Table)
+- [Realism](https://thelongdark.fandom.com/wiki/Realism)
 - [Scent](https://thelongdark.fandom.com/wiki/Scent)
 - [Struggle](https://thelongdark.fandom.com/wiki/Struggle)
 - [Survivor Monologue](https://thelongdark.fandom.com/wiki/Survivor_Monologue)
-- [Trapping](https://thelongdark.fandom.com/wiki/Trapping)
+
+### Shelter, Fire & Warmth
+
+- [Daisy Chaining](https://thelongdark.fandom.com/wiki/Daisy_Chaining)
+- [Safehouse](https://thelongdark.fandom.com/wiki/Safehouse)
+- [Safehouse Customization](https://thelongdark.fandom.com/wiki/Safehouse_Customization)
 - [Warming Up](https://thelongdark.fandom.com/wiki/Warming_Up)
 
 ### Tales
@@ -2206,29 +2252,41 @@
 - [First Flare](https://thelongdark.fandom.com/wiki/First_Flare)
 - [The Collapse](https://thelongdark.fandom.com/wiki/The_Collapse)
 
-### Story Transcripts & Interviews
+### Wintermute — Episode 1: Transcripts
+
+- [Paradise Lost/Transcript](https://thelongdark.fandom.com/wiki/Paradise_Lost/Transcript)
+- [The Crash/Transcript](https://thelongdark.fandom.com/wiki/The_Crash/Transcript)
+- [The Grey Mother/Transcript](https://thelongdark.fandom.com/wiki/The_Grey_Mother/Transcript)
+
+### Wintermute — Episode 2: Transcripts
+
+- [Renewed Hope/Transcript](https://thelongdark.fandom.com/wiki/Renewed_Hope/Transcript)
+- [Signal to Noise/Transcript](https://thelongdark.fandom.com/wiki/Signal_to_Noise/Transcript)
+- [The Best Defense/Transcript](https://thelongdark.fandom.com/wiki/The_Best_Defense/Transcript)
+- [The Wounded Trapper/Transcript](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper/Transcript)
+- [What One Man Can Do/Transcript](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do/Transcript)
+
+### Wintermute — Episode 3: Transcripts
 
 - [Aftermath/Transcript](https://thelongdark.fandom.com/wiki/Aftermath/Transcript)
-- [Blackrock Blues/Transcript](https://thelongdark.fandom.com/wiki/Blackrock_Blues/Transcript)
 - [Coming Storm/Transcript](https://thelongdark.fandom.com/wiki/Coming_Storm/Transcript)
-- [Donner (mission)/Transcript](https://thelongdark.fandom.com/wiki/Donner_(mission)/Transcript)
 - [Fallen Star/Transcript](https://thelongdark.fandom.com/wiki/Fallen_Star/Transcript)
+- [Trauma/Transcript](https://thelongdark.fandom.com/wiki/Trauma/Transcript)
+
+### Wintermute — Episode 4: Transcripts
+
+- [Blackrock Blues/Transcript](https://thelongdark.fandom.com/wiki/Blackrock_Blues/Transcript)
+- [Donner (mission)/Transcript](https://thelongdark.fandom.com/wiki/Donner_(mission)/Transcript)
+- [Prologue/Transcript](https://thelongdark.fandom.com/wiki/Prologue/Transcript)
+- [The Detonators/Transcript](https://thelongdark.fandom.com/wiki/The_Detonators/Transcript)
+- [The Power Plant/Transcript](https://thelongdark.fandom.com/wiki/The_Power_Plant/Transcript)
+
+### Interviews
+
 - [Interview Transcript 4](https://thelongdark.fandom.com/wiki/Interview_Transcript_4)
 - [Interview Transcript 12](https://thelongdark.fandom.com/wiki/Interview_Transcript_12)
 - [Interview Transcript 14](https://thelongdark.fandom.com/wiki/Interview_Transcript_14)
 - [Interview Transcript 17](https://thelongdark.fandom.com/wiki/Interview_Transcript_17)
-- [Paradise Lost/Transcript](https://thelongdark.fandom.com/wiki/Paradise_Lost/Transcript)
-- [Prologue/Transcript](https://thelongdark.fandom.com/wiki/Prologue/Transcript)
-- [Renewed Hope/Transcript](https://thelongdark.fandom.com/wiki/Renewed_Hope/Transcript)
-- [Signal to Noise/Transcript](https://thelongdark.fandom.com/wiki/Signal_to_Noise/Transcript)
-- [The Best Defense/Transcript](https://thelongdark.fandom.com/wiki/The_Best_Defense/Transcript)
-- [The Crash/Transcript](https://thelongdark.fandom.com/wiki/The_Crash/Transcript)
-- [The Detonators/Transcript](https://thelongdark.fandom.com/wiki/The_Detonators/Transcript)
-- [The Grey Mother/Transcript](https://thelongdark.fandom.com/wiki/The_Grey_Mother/Transcript)
-- [The Power Plant/Transcript](https://thelongdark.fandom.com/wiki/The_Power_Plant/Transcript)
-- [The Wounded Trapper/Transcript](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper/Transcript)
-- [Trauma/Transcript](https://thelongdark.fandom.com/wiki/Trauma/Transcript)
-- [What One Man Can Do/Transcript](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do/Transcript)
 
 ## 22. Modes, Events & Interface
 

@@ -1172,14 +1172,21 @@ def _defer_uses_material_list_templates(
     return USES_MATERIAL_LIST_RE.sub(defer, text), deferred_tables
 
 
-def _restore_deferred_material_tables(
-    text: str, deferred_tables: dict[str, str]
+def _restore_deferred_material_tables_in_html(
+    html_fragment: str, deferred_tables: dict[str, str]
 ) -> str:
-    """Restore generated HTML tables after the wikitext expander has finished."""
+    """Restore generated tables after Pandoc has converted their safe text tokens."""
     for token, table in deferred_tables.items():
-        text = text.replace(token, table)
-    return text
-
+        paragraph = re.compile(
+            rf"<p(?:\s[^>]*)?>\s*{re.escape(token)}\s*</p>",
+            re.IGNORECASE,
+        )
+        html_fragment, replacements = paragraph.subn(
+            lambda _match: table, html_fragment
+        )
+        if not replacements:
+            html_fragment = html_fragment.replace(token, table)
+    return html_fragment
 
 def _expand_page(
     page: DumpPage,
@@ -1189,11 +1196,11 @@ def _expand_page(
     stats: RenderStats,
     material_usage_index: dict[str, list[tuple[str, str, list[tuple[str, str]]]]]
     | None = None,
-) -> tuple[str, str, int]:
-    """Expand one page, retaining its source and recording expansion failures."""
+) -> tuple[str, str, int, dict[str, str]]:
+    """Expand one page and retain generated tables for post-Pandoc insertion."""
     expanded = page.text
     if page.model != "wikitext":
-        return expanded, "", 0
+        return expanded, "", 0, {}
 
     deferred_material_tables: dict[str, str] = {}
     try:
@@ -1204,24 +1211,23 @@ def _expand_page(
                 expanded, page.title, material_usage_index
             )
     except Exception as exc:
-        expanded = _restore_deferred_material_tables(expanded, deferred_material_tables)
-        return expanded, str(exc)[:300], 1
+        return expanded, str(exc)[:300], 1, deferred_material_tables
 
     try:
         with contextlib.redirect_stdout(io.StringIO()):
             expanded = context.expand(expanded, timeout=30)
     except Exception as exc:
-        expanded = _restore_deferred_material_tables(expanded, deferred_material_tables)
-        return expanded, str(exc)[:300], 1
+        return expanded, str(exc)[:300], 1, deferred_material_tables
 
-    expanded = _restore_deferred_material_tables(expanded, deferred_material_tables)
-    return expanded, "", 0
-
+    return expanded, "", 0, deferred_material_tables
 
 def _render_mediawiki_html(
-    page: DumpPage, expanded: str, pandoc: str
+    page: DumpPage,
+    expanded: str,
+    pandoc: str,
+    deferred_material_tables: dict[str, str] | None = None,
 ) -> tuple[str, str, str]:
-    """Render expanded wikitext, repairing open tables or using source text."""
+    """Render expanded wikitext and restore generated tables after Pandoc."""
     conversion_stage = "Pandoc MediaWiki-to-HTML"
     try:
         html_fragment = _run_pandoc(pandoc, expanded, "mediawiki", "html")
@@ -1239,6 +1245,9 @@ def _render_mediawiki_html(
                     f"{repaired_tables} unterminated table(s): {repair_error}"
                 )
             else:
+                html_fragment = _restore_deferred_material_tables_in_html(
+                    html_fragment, deferred_material_tables or {}
+                )
                 conversion_note = (
                     "Recovered from Pandoc's unexpected end of input by "
                     f"closing {repaired_tables} unterminated MediaWiki table(s)."
@@ -1253,8 +1262,10 @@ def _render_mediawiki_html(
         conversion_note = f"{conversion_note} Used the unexpanded source as a fallback."
         return html_fragment, "raw_fallback", conversion_note
 
+    html_fragment = _restore_deferred_material_tables_in_html(
+        html_fragment, deferred_material_tables or {}
+    )
     return html_fragment, "ok", ""
-
 
 def _rewrite_page_html(
     html_fragment: str, page: DumpPage, resources: PageExportResources, note: str
@@ -2126,6 +2137,7 @@ def _convert_page_body(
     stats: RenderStats,
     resources: PageExportResources,
     categories_seen: set[str],
+    deferred_material_tables: dict[str, str] | None = None,
 ) -> PageConversion:
     """Run postprocessing and conversion, falling back at each recoverable stage."""
     conversion_stage = "post-expansion cleanup"
@@ -2135,7 +2147,9 @@ def _convert_page_body(
         categories_seen.update(categories)
 
         conversion_stage = "Pandoc MediaWiki-to-HTML"
-        html_fragment, status, note = _render_mediawiki_html(page, expanded, pandoc)
+        html_fragment, status, note = _render_mediawiki_html(
+            page, expanded, pandoc, deferred_material_tables
+        )
 
         conversion_stage = "HTML link and image rewriting"
         rewritten_html, note, rewrite_failed = _rewrite_page_html(
@@ -2203,7 +2217,7 @@ def _export_one_page(
         missing_images=missing_images,
     )
 
-    expanded, expansion_error, expansion_errors = _expand_page(
+    expanded, expansion_error, expansion_errors, deferred_material_tables = _expand_page(
         page, context, preprocess, infobox_defs, stats, material_usage_index
     )
     conversion = _convert_page_body(
@@ -2216,6 +2230,7 @@ def _export_one_page(
         stats,
         resources,
         categories_seen,
+        deferred_material_tables,
     )
     if expansion_error:
         conversion.note = (

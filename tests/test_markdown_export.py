@@ -22,6 +22,7 @@ from pipeline.markdown_export import (
     _markdown_label,  # pyright: ignore[reportPrivateUsage]
     _page_markdown,  # pyright: ignore[reportPrivateUsage]
     _portable_asset_name,  # pyright: ignore[reportPrivateUsage]
+    _render_mediawiki_html,  # pyright: ignore[reportPrivateUsage]
     _repair_unclosed_mediawiki_tables,  # pyright: ignore[reportPrivateUsage]
     _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
     load_filename_mapping,
@@ -474,7 +475,9 @@ def test_material_usage_index_reads_recipe_infoboxes() -> None:
     ]
 
 
-def test_uses_material_list_template_is_replaced_with_recipe_table() -> None:
+def test_uses_material_list_template_is_replaced_with_recipe_table(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
     pages = [
         DumpPage(
             "Meat Curing Box",
@@ -498,7 +501,7 @@ def test_uses_material_list_template_is_replaced_with_recipe_table() -> None:
             assert "<a href=" not in text
             return super().expand(text, timeout)
 
-    expanded, error, count = _expand_page(
+    expanded, error, count, deferred_tables = _expand_page(
         DumpPage("Fir Firewood", 0, "wikitext", "{{Uses material list}}", None),
         ContextThatRejectsGeneratedHtml(),
         identity_preprocess,
@@ -516,11 +519,33 @@ def test_uses_material_list_template_is_replaced_with_recipe_table() -> None:
 
     assert not error
     assert count == 0
-    assert 'class="wikitable uses-material-list"' in expanded
-    assert "Meat Curing Box" in expanded
-    assert '8.00 kg \u00d7 <a href="Salt">Salt</a>' in expanded
+    assert "<table" not in expanded
+    assert "<a href=" not in expanded
+    assert len(deferred_tables) == 1
+    token = next(iter(deferred_tables))
 
-    markdown, note, failed = _convert_html_to_markdown("unused", expanded, "")
+    def render_placeholder(
+        _pandoc: str, text: str, source_format: str, target_format: str
+    ) -> str:
+        assert source_format == "mediawiki"
+        assert target_format == "html"
+        assert token in text
+        return f"<p>{token}</p>"
+
+    monkeypatch.setattr(markdown_export_module, "_run_pandoc", render_placeholder)
+    html_fragment, status, note = _render_mediawiki_html(
+        DumpPage("Fir Firewood", 0, "wikitext", "{{Uses material list}}", None),
+        expanded,
+        "unused",
+        deferred_tables,
+    )
+
+    assert status == "ok"
+    assert not note
+    assert 'class="wikitable uses-material-list"' in html_fragment
+    assert "<p>TLDGENERATEDMATERIALLIST" not in html_fragment
+
+    markdown, note, failed = _convert_html_to_markdown("unused", html_fragment, "")
 
     assert not note
     assert not failed

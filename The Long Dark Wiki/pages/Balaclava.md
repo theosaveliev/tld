@@ -6,7 +6,7 @@
 
 ![Balaclava](../assets/Balaclava_icon.png)
 
-_Balaclava\\_icon.png_
+_Balaclava\_icon.png_
 
 **General**
 
@@ -14,17 +14,17 @@ _Balaclava\\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\\_icon.png](../assets/Weight_icon.png) 0.25 kg (0.55 lbs)
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png) 0.25 kg (0.55 lbs)
 
-**Warmth bonus:** ![temp\\_icon.png](../assets/Temp_icon.png) 2.0 °C (3.6 °F)
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png) 2.0 °C (3.6 °F)
 
-**Windproof bonus:** ![windproofness\\_icon.png](../assets/Windproofness_icon.png) 1.5 °C (2.7 °F)
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png) 1.5 °C (2.7 °F)
 
-**Waterproof bonus:** ![waterproofness\\_icon.png](../assets/Waterproofness_icon.png) 30%
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png) 30%
 
-**Protection:** ![protection\\_icon.png](../assets/Protection_icon.png) 3%
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png) 3%
 
-**Mobility:** ![mobility\\_icon.png](../assets/Mobility_icon.png) 0%
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png) 0%
 
 **Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
 

@@ -159,8 +159,6 @@ def template_categories(wiki_dump: Path, output_dir: Path) -> None:
 
     click.echo(f"Reports written to {output_dir}", err=True)
 
-
-
 @cli.command("audit-filenames")
 @click.argument("wiki_dump", type=IN_PATH)
 @click.option(
@@ -172,7 +170,7 @@ def template_categories(wiki_dump: Path, output_dir: Path) -> None:
 @click.option(
     "--output",
     "output_path",
-    type=OUT_PATH,
+    type=click.Path(file_okay=True, dir_okay=False, path_type=Path),
     help="Write the full title-to-filename mapping and issues as JSON.",
 )
 def audit_filenames(

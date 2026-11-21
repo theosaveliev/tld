@@ -38,9 +38,7 @@ NAVBOX_ERROR_LINE_RE = re.compile(
 ITALIC_ASTERISK_RE = re.compile(
     r"(?<![\\*])\*(?!\*)(?P<content>\S(?:[^*\n]*?\S)?)\*(?!\*)"
 )
-STRONG_UNDERSCORE_RE = re.compile(
-    r"(?<!_)__(?P<content>\S(?:[^\n]*?\S)?)__(?!_)"
-)
+STRONG_UNDERSCORE_RE = re.compile(r"(?<!_)__(?P<content>\S(?:[^\n]*?\S)?)__(?!_)")
 LANGUAGE_INTERWIKI_SCHEME_RE = re.compile(r"^[a-z]{2,3}$")
 BACKTICK = chr(96)
 INLINE_CODE_SPAN_RE = re.compile(
@@ -901,10 +899,9 @@ def _rewrite_anchor_nodes(
         parsed_href = urllib.parse.urlsplit(href)
         scheme = parsed_href.scheme.casefold()
         label = link.text_content().strip()
-        if (
-            LANGUAGE_INTERWIKI_SCHEME_RE.fullmatch(scheme)
-            and label.casefold().startswith(f"{scheme}:")
-        ):
+        if LANGUAGE_INTERWIKI_SCHEME_RE.fullmatch(
+            scheme
+        ) and label.casefold().startswith(f"{scheme}:"):
             link.drop_tree()
             continue
 
@@ -1533,9 +1530,7 @@ def _render_image_layout_table(rows: list[list[lhtml.HtmlElement]]) -> str:
             continue
 
         first_cell, first_value = values[0]
-        first_has_image = any(
-            _html_tag(child) == "img" for child in first_cell.iter()
-        )
+        first_has_image = any(_html_tag(child) == "img" for child in first_cell.iter())
         if not first_has_image and len(values) == INFOBOX_VALUE_CELL_COUNT:
             detail = _render_image_layout_cell(values[1][1])
             label = first_value.strip()

@@ -21,7 +21,6 @@ from pathlib import Path
 from typing import TYPE_CHECKING, Any, TypedDict, cast
 
 import defusedxml.ElementTree as SafeET
-import mwparserfromhell as mwp
 from lxml import etree
 from lxml import html as lhtml
 
@@ -30,9 +29,6 @@ if TYPE_CHECKING:
     from xml.etree.ElementTree import Element
 
 
-CATEGORY_RE = re.compile(
-    r"\[\[\s*Category\s*:\s*([^\]|]+?)(?:\|[^\]]*)?\]\]", re.IGNORECASE
-)
 REDIRECT_RE = re.compile(r"\s*#redirect\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
 MAX_FILENAME_BYTES = 255
 
@@ -288,37 +284,6 @@ def _load_wiki_context(
     return context, articles, redirects
 
 
-def _preserve_missing_templates(text: str, context: Any) -> str:
-    """Keep calls to templates absent from the dump visible in the article."""
-    code = mwp.parse(text)
-    for template in code.filter_templates(recursive=False):
-        name = re.sub(r"<!--.*?-->", "", str(template.name), flags=re.DOTALL).strip()
-        if (
-            not name
-            or "{" in name
-            or name[0] in "#:"
-            or ":" in name
-            or name.isupper()
-        ):
-            continue
-        canonical_name = normalize_title(name)
-        if canonical_name in context.templates:
-            continue
-
-        parameters: list[str] = []
-        for parameter in template.params:
-            value = str(parameter.value).strip()
-            if not value:
-                continue
-            if parameter.showkey:
-                parameters.append(f"{str(parameter.name).strip()}={value}")
-            else:
-                parameters.append(value)
-        detail = ": " + "; ".join(parameters) if parameters else ""
-        code.replace(template, f"[Missing template: {canonical_name}{detail}]")
-    return str(code)
-
-
 def _pandoc_path() -> str:
     """Find Pandoc bundled by pypandoc-binary or installed on PATH."""
     try:
@@ -358,20 +323,6 @@ def _run_pandoc(
     if result.returncode:
         raise RuntimeError("Pandoc conversion failed: " + result.stderr.strip()[:1000])
     return result.stdout.strip()
-
-
-def _extract_categories(text: str) -> tuple[str, list[str]]:
-    """Remove category declarations from wikitext and return their names."""
-    categories: list[str] = []
-
-    def remove_category(match: re.Match[str]) -> str:
-        category = re.sub(r"\s+", " ", match.group(1)).strip()
-        if category:
-            categories.append(category)
-        return ""
-
-    cleaned = CATEGORY_RE.sub(remove_category, text)
-    return cleaned, sorted(set(categories), key=str.casefold)
 
 
 def _build_image_index(image_dir: Path | None) -> dict[str, Path]:
@@ -546,7 +497,9 @@ def export_dump_to_markdown(
 ) -> ExportReport:
     """Convert a dump into linked Markdown files using the audited filename map."""
     title_to_filename = load_filename_mapping(mapping_path)
+    renderer = importlib.import_module("pipeline.wiki_to_html")
     context, articles, redirects = _load_wiki_context(dump_path)
+    infobox_defs = renderer.load_infobox_defs(context)
 
     article_titles = {normalize_title(page.title) for page in articles}
     missing_mappings = sorted(article_titles - title_to_filename.keys())
@@ -577,9 +530,17 @@ def export_dump_to_markdown(
         filename = title_to_filename[title_key]
         expansion_error = ""
         expanded = page.text
+        stats: dict[str, Any] = {
+            "infoboxes": 0,
+            "missing_templates": [],
+            "infobox_left": 0,
+        }
+        categories: list[str] = []
 
         if page.model == "wikitext":
-            expanded = _preserve_missing_templates(page.text, context)
+            expanded = renderer.prepass(
+                page.text, context, infobox_defs, page.title, stats
+            )
             try:
                 context.start_page(page.title)
                 expanded = context.expand(expanded, timeout=30)
@@ -587,7 +548,8 @@ def export_dump_to_markdown(
                 expansion_errors += 1
                 expansion_error = str(exc)[:300]
 
-        expanded, categories = _extract_categories(expanded)
+        expanded = renderer.postexpand(expanded, categories, stats)
+        categories = sorted(set(categories), key=str.casefold)
         categories_seen.update(categories)
         try:
             html_fragment = _run_pandoc(pandoc, expanded, "mediawiki", "html")
@@ -622,6 +584,8 @@ def export_dump_to_markdown(
                 "filename": filename,
                 "status": status,
                 "categories": len(categories),
+                "infoboxes": stats["infoboxes"],
+                "missing_templates": len(set(stats["missing_templates"])),
                 "error": expansion_error,
             }
         )

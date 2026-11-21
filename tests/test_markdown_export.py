@@ -337,6 +337,18 @@ def test_html_fragment_to_markdown_converts_fandom_elements() -> None:
     assert not re.search(r"</?[A-Za-z][A-Za-z0-9-]*(?=\s|/?>)[^>]*>", markdown)
 
 
+def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
+    fragment = (
+        '<nav><a href="#Section_One">Section One</a></nav>'
+        '<h2 id="Section_One">Section One</h2>'
+    )
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "[Section One](#section-one)" in markdown
+    assert "## Section One" in markdown
+
+
 def test_repair_unclosed_mediawiki_tables_appends_missing_closers() -> None:
     source = """{| class="outer"
 | row

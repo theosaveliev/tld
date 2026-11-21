@@ -1812,6 +1812,8 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
     )
     if "gallery" in table_classes:
         table = _render_gallery_table(rows)
+    elif "uses-material-list" in table_classes:
+        table = _render_generic_table(rows)
     elif has_images:
         table = _render_image_layout_table(rows)
     else:

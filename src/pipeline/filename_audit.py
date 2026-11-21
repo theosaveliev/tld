@@ -50,7 +50,8 @@ def filename_for_title(title: str) -> str:
     filename, and a colon is unsuitable for Finder on macOS.
     """
     stem = unicodedata.normalize("NFC", title)
-    stem = stem.replace("/", " — ").replace(":", " - ")
+    stem = stem.replace("/", " — ")
+    stem = " - ".join(part.strip() for part in stem.split(":"))
     return f"{stem}{MARKDOWN_SUFFIX}"
 
 

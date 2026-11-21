@@ -401,7 +401,9 @@ def test_html_rewriter_restores_infoboxes_thumbnails_and_section_ids(
 def test_convert_html_gallery_to_standalone_markdown_images(
     monkeypatch: pytest.MonkeyPatch,
 ) -> None:
-    def fail_pandoc(*_args: str) -> str:
+    def fail_pandoc(
+        _pandoc: str, _text: str, _source_format: str, _target_format: str
+    ) -> str:
         raise AssertionError("Gallery conversion should use the Markdown renderer")
 
     monkeypatch.setattr(markdown_export_module, "_run_pandoc", fail_pandoc)

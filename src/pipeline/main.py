@@ -241,7 +241,10 @@ def audit_filenames(
     type=click.Path(file_okay=False, path_type=Path),
     default=Path("tld/images"),
     show_default=True,
-    help="WikiTeam images directory copied into the workspace.",
+    help=(
+        "Primary WikiTeam image directory; a sibling '<name>_mismatch' directory "
+        "is also searched as a fallback."
+    ),
 )
 @click.option(
     "--source-url",

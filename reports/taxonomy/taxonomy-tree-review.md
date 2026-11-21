@@ -995,6 +995,13 @@
 - [Insulated Flask](https://thelongdark.fandom.com/wiki/Insulated_Flask)
 - [Recycled Can](https://thelongdark.fandom.com/wiki/Recycled_Can)
 
+### Portable Heating & Cooking Equipment
+
+> Portable heating appliances and the fuel containers used to operate them.
+
+- [McLeod Ultra-Efficiency Whale Oil Heater](https://thelongdark.fandom.com/wiki/McLeod_Ultra-Efficiency_Whale_Oil_Heater)
+- [Whale Oil Can](https://thelongdark.fandom.com/wiki/Whale_Oil_Can)
+
 ### Fishing & Trapping Gear
 
 > Portable equipment, bait, and components used for fishing and trapping.
@@ -1072,48 +1079,72 @@
 
 > Fire-starting supplies, fuel, or light sources.
 
-- [A Sewing Primer](https://thelongdark.fandom.com/wiki/A_Sewing_Primer)
+### Fire-Starting Supplies
+
+> Items used to ignite a fire, provide tinder, or speed up a fire-starting attempt.
+
+#### Ignition Sources
+
+- [Cardboard Matches](https://thelongdark.fandom.com/wiki/Cardboard_Matches)
+- [Firestriker](https://thelongdark.fandom.com/wiki/Firestriker)
+- [Flare](https://thelongdark.fandom.com/wiki/Flare)
+- [Magnifying Lens](https://thelongdark.fandom.com/wiki/Magnifying_Lens)
+- [Marine Flare](https://thelongdark.fandom.com/wiki/Marine_Flare)
+- [Torch](https://thelongdark.fandom.com/wiki/Torch)
+- [Wood Matches](https://thelongdark.fandom.com/wiki/Wood_Matches)
+
+#### Tinder
+
+- [Birch Bark](https://thelongdark.fandom.com/wiki/Birch_Bark)
+- [Cash](https://thelongdark.fandom.com/wiki/Cash)
+- [Cat Tail Head](https://thelongdark.fandom.com/wiki/Cat_Tail_Head)
+- [Newsprint](https://thelongdark.fandom.com/wiki/Newsprint)
+- [Newsprint Roll](https://thelongdark.fandom.com/wiki/Newsprint_Roll)
+- [Stack of Papers](https://thelongdark.fandom.com/wiki/Stack_of_Papers)
+- [Tinder Plug](https://thelongdark.fandom.com/wiki/Tinder_Plug)
+
+#### Accelerants
+
 - [Accelerant](https://thelongdark.fandom.com/wiki/Accelerant)
+- [Jerry Can](https://thelongdark.fandom.com/wiki/Jerry_Can)
+- [Lantern Fuel](https://thelongdark.fandom.com/wiki/Lantern_Fuel)
+
+### Fuel
+
+> Materials added to a fire to provide burn time and heat.
+
+- [A Sewing Primer](https://thelongdark.fandom.com/wiki/A_Sewing_Primer)
 - [Advanced Guns Guns Guns!](https://thelongdark.fandom.com/wiki/Advanced_Guns_Guns_Guns!)
 - [Book](https://thelongdark.fandom.com/wiki/Book)
-- [Brand](https://thelongdark.fandom.com/wiki/Brand)
-- [Cardboard Matches](https://thelongdark.fandom.com/wiki/Cardboard_Matches)
-- [Cat Tail Head](https://thelongdark.fandom.com/wiki/Cat_Tail_Head)
 - [Cedar Firewood](https://thelongdark.fandom.com/wiki/Cedar_Firewood)
-- [Crank Light](https://thelongdark.fandom.com/wiki/Crank_Light)
+- [Coal](https://thelongdark.fandom.com/wiki/Coal)
 - [Field Dressing Your Kill, Vol. I](https://thelongdark.fandom.com/wiki/Field_Dressing_Your_Kill%2C_Vol._I)
 - [Fir Firewood](https://thelongdark.fandom.com/wiki/Fir_Firewood)
 - [Firelog](https://thelongdark.fandom.com/wiki/Firelog)
-- [Firestriker](https://thelongdark.fandom.com/wiki/Firestriker)
-- [Flare](https://thelongdark.fandom.com/wiki/Flare)
-- [Flashlight](https://thelongdark.fandom.com/wiki/Flashlight)
 - [Frontier Shooting Guide](https://thelongdark.fandom.com/wiki/Frontier_Shooting_Guide)
-- [Jerry Can](https://thelongdark.fandom.com/wiki/Jerry_Can)
-- [Kerosene](https://thelongdark.fandom.com/wiki/Kerosene)
-- [Lantern](https://thelongdark.fandom.com/wiki/Lantern)
-- [Lantern Fuel](https://thelongdark.fandom.com/wiki/Lantern_Fuel)
-- [Magnifying Lens](https://thelongdark.fandom.com/wiki/Magnifying_Lens)
-- [Marine Flare](https://thelongdark.fandom.com/wiki/Marine_Flare)
-- [McLeod Ultra-Efficiency Whale Oil Heater](https://thelongdark.fandom.com/wiki/McLeod_Ultra-Efficiency_Whale_Oil_Heater)
-- [Miner's Flashlight](https://thelongdark.fandom.com/wiki/Miner's_Flashlight)
 - [Practical Gunsmithing](https://thelongdark.fandom.com/wiki/Practical_Gunsmithing)
+- [Reclaimed Wood](https://thelongdark.fandom.com/wiki/Reclaimed_Wood)
 - [Small Arms Handbook](https://thelongdark.fandom.com/wiki/Small_Arms_Handbook)
-- [Spelunker's Lantern](https://thelongdark.fandom.com/wiki/Spelunker's_Lantern)
 - [Stay on Target](https://thelongdark.fandom.com/wiki/Stay_on_Target)
-- [Storm Lantern](https://thelongdark.fandom.com/wiki/Storm_Lantern)
+- [Stick](https://thelongdark.fandom.com/wiki/Stick)
 - [Survive the Outdoors!](https://thelongdark.fandom.com/wiki/Survive_the_Outdoors!)
 - [The Frozen Angler](https://thelongdark.fandom.com/wiki/The_Frozen_Angler)
-- [Tinder Plug](https://thelongdark.fandom.com/wiki/Tinder_Plug)
-- [Torch](https://thelongdark.fandom.com/wiki/Torch)
-- [Whale Oil Can](https://thelongdark.fandom.com/wiki/Whale_Oil_Can)
 - [Wilderness Kitchen](https://thelongdark.fandom.com/wiki/Wilderness_Kitchen)
-- [Wood Matches](https://thelongdark.fandom.com/wiki/Wood_Matches)
+
+### Light Sources
+
+- [Brand](https://thelongdark.fandom.com/wiki/Brand)
+- [Crank Light](https://thelongdark.fandom.com/wiki/Crank_Light)
+- [Flashlight](https://thelongdark.fandom.com/wiki/Flashlight)
+- [Lantern](https://thelongdark.fandom.com/wiki/Lantern)
+- [Miner's Flashlight](https://thelongdark.fandom.com/wiki/Miner's_Flashlight)
+- [Spelunker's Lantern](https://thelongdark.fandom.com/wiki/Spelunker's_Lantern)
+- [Storm Lantern](https://thelongdark.fandom.com/wiki/Storm_Lantern)
 
 ## 9. Materials & Crafting Components
 
 > Raw materials, recovered resources, and components used to craft, repair, or maintain other items. A component can belong here even when it is used to construct a workstation.
 
-- [Birch Bark](https://thelongdark.fandom.com/wiki/Birch_Bark)
 - [Brake Shoe](https://thelongdark.fandom.com/wiki/Brake_Shoe)
 - [Branch](https://thelongdark.fandom.com/wiki/Branch)
 - [Burned Out Fuse](https://thelongdark.fandom.com/wiki/Burned_Out_Fuse)
@@ -1121,7 +1152,6 @@
 - [Cedar Limb](https://thelongdark.fandom.com/wiki/Cedar_Limb)
 - [Cloth](https://thelongdark.fandom.com/wiki/Cloth)
 - [Cloth (Object)](https://thelongdark.fandom.com/wiki/Cloth_(Object))
-- [Coal](https://thelongdark.fandom.com/wiki/Coal)
 - [Cougar Claw](https://thelongdark.fandom.com/wiki/Cougar_Claw)
 - [Crow Feather](https://thelongdark.fandom.com/wiki/Crow_Feather)
 - [Cured Birch Sapling](https://thelongdark.fandom.com/wiki/Cured_Birch_Sapling)
@@ -1147,17 +1177,13 @@
 - [Gold Nugget](https://thelongdark.fandom.com/wiki/Gold_Nugget)
 - [Loose Boards](https://thelongdark.fandom.com/wiki/Loose_Boards)
 - [Loose Tree Bark](https://thelongdark.fandom.com/wiki/Loose_Tree_Bark)
-- [Newsprint](https://thelongdark.fandom.com/wiki/Newsprint)
-- [Newsprint Roll](https://thelongdark.fandom.com/wiki/Newsprint_Roll)
 - [Plank](https://thelongdark.fandom.com/wiki/Plank)
 - [Planks](https://thelongdark.fandom.com/wiki/Planks)
 - [Ptarmigan Down](https://thelongdark.fandom.com/wiki/Ptarmigan_Down)
-- [Reclaimed Wood](https://thelongdark.fandom.com/wiki/Reclaimed_Wood)
 - [Replacement Fuse](https://thelongdark.fandom.com/wiki/Replacement_Fuse)
 - [Salt Deposit](https://thelongdark.fandom.com/wiki/Salt_Deposit)
 - [Scrap Lead](https://thelongdark.fandom.com/wiki/Scrap_Lead)
 - [Scrap Metal](https://thelongdark.fandom.com/wiki/Scrap_Metal)
-- [Stick](https://thelongdark.fandom.com/wiki/Stick)
 - [Stump Remover](https://thelongdark.fandom.com/wiki/Stump_Remover)
 - [Transponder Parts](https://thelongdark.fandom.com/wiki/Transponder_Parts)
 - [Wires](https://thelongdark.fandom.com/wiki/Wires)
@@ -1679,7 +1705,6 @@
 - [Shopping List](https://thelongdark.fandom.com/wiki/Shopping_List)
 - [Simple Note](https://thelongdark.fandom.com/wiki/Simple_Note)
 - [Soggy Note](https://thelongdark.fandom.com/wiki/Soggy_Note)
-- [Stack of Papers](https://thelongdark.fandom.com/wiki/Stack_of_Papers)
 - [Stained Paper](https://thelongdark.fandom.com/wiki/Stained_Paper)
 - [Surveyed Locations](https://thelongdark.fandom.com/wiki/Surveyed_Locations)
 - [Tearful Letter](https://thelongdark.fandom.com/wiki/Tearful_Letter)
@@ -1894,7 +1919,6 @@
 - [A Skeleton And Note](https://thelongdark.fandom.com/wiki/A_Skeleton_And_Note)
 - [Blackrock (mission)](https://thelongdark.fandom.com/wiki/Blackrock_(mission))
 - [Broken Hatch Wheel](https://thelongdark.fandom.com/wiki/Broken_Hatch_Wheel)
-- [Cash](https://thelongdark.fandom.com/wiki/Cash)
 - [Church Artifact (mission)](https://thelongdark.fandom.com/wiki/Church_Artifact_(mission))
 - [Document Stash 1](https://thelongdark.fandom.com/wiki/Document_Stash_1)
 - [Document Stash 2](https://thelongdark.fandom.com/wiki/Document_Stash_2)
@@ -2259,6 +2283,7 @@
 - [Hinterland Studio Inc.](https://thelongdark.fandom.com/wiki/Hinterland_Studio_Inc.)
 - [Hunter's Blind (disambiguation)](https://thelongdark.fandom.com/wiki/Hunter's_Blind_(disambiguation))
 - [Jeremiah's Bearskin Coat](https://thelongdark.fandom.com/wiki/Jeremiah's_Bearskin_Coat)
+- [Kerosene](https://thelongdark.fandom.com/wiki/Kerosene)
 - [Locations](https://thelongdark.fandom.com/wiki/Locations)
 - [Lock Box Key (Predux)](https://thelongdark.fandom.com/wiki/Lock_Box_Key_(Predux))
 - [Lookout (disambiguation)](https://thelongdark.fandom.com/wiki/Lookout_(disambiguation))

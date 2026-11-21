@@ -226,12 +226,13 @@ def resolve_internal_href(
 
 
 
-def _read_mapping_entry(entry: Any) -> tuple[str, str]:
+def _read_mapping_entry(entry: object) -> tuple[str, str]:
     """Validate a raw mapping object and return its title and filename."""
     if not isinstance(entry, dict):
         raise ValueError("Every filename mapping entry must be an object.")
-    title = entry.get("title")
-    filename = entry.get("filename")
+    mapping = cast(dict[str, object], entry)
+    title = mapping.get("title")
+    filename = mapping.get("filename")
     if not isinstance(title, str) or not isinstance(filename, str):
         raise ValueError("Each mapping needs string 'title' and 'filename' fields.")
     return title, filename
@@ -266,16 +267,17 @@ def _validate_mapping_filename(
 
 def load_filename_mapping(path: Path) -> dict[str, str]:
     """Load and validate the committed title-to-filename audit mapping."""
-    data = json.loads(path.read_text(encoding="utf-8"))
-    if not isinstance(data, dict):
+    raw_data = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(raw_data, dict):
         raise ValueError("Filename mapping JSON must contain a top-level object.")
+    data = cast(dict[str, object], raw_data)
     entries = data.get("mappings")
     if not isinstance(entries, list):
         raise ValueError("Filename mapping JSON must contain a 'mappings' list.")
 
     title_to_filename: dict[str, str] = {}
     used_filenames: dict[str, str] = {}
-    for entry in entries:
+    for entry in cast(list[object], entries):
         title, filename = _read_mapping_entry(entry)
         normalized_title = normalize_title(title)
         if normalized_title in title_to_filename:

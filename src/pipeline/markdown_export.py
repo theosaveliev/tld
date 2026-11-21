@@ -41,7 +41,13 @@ ITALIC_ASTERISK_RE = re.compile(
 )
 BACKTICK = chr(96)
 INLINE_CODE_SPAN_RE = re.compile(
-    r"(" + re.escape(BACKTICK) + r"+[^" + BACKTICK + r"\n]*" + re.escape(BACKTICK) + r"+)"
+    "("
+    + re.escape(BACKTICK)
+    + r"+[^"
+    + BACKTICK
+    + r"\n]*"
+    + re.escape(BACKTICK)
+    + r"+)"
 )
 FENCED_CODE_RE = re.compile(
     r"^[ \t]{0,3}(" + re.escape(BACKTICK) + r"{3,}|~{3,})"
@@ -1514,23 +1520,24 @@ def _render_gallery_table(rows: list[list[lhtml.HtmlElement]]) -> str:
 
 
 def _render_html_table(node: lhtml.HtmlElement) -> str:
-    """Convert a table, including infoboxes, galleries, and quote layouts, to Markdown."""
+    """Convert infoboxes, galleries, and quote layouts to Markdown."""
     rows = _table_rows(node)
     caption_node = node.find("caption")
     caption = _inline_markdown(caption_node).strip() if caption_node is not None else ""
-    if len(rows) == 1:
-        quote = _render_quote_table(rows[0])
-        if quote is not None:
-            return f"**{caption}**\n\n{quote}" if caption else quote
     if not rows:
         return f"**{caption}**" if caption else ""
     table_classes = (node.get("class") or "").split()
     if "gallery" in table_classes:
         table = _render_gallery_table(rows)
-    elif "infobox" in table_classes:
-        table = _render_infobox_table(rows)
     else:
-        table = _render_generic_table(rows)
+        if len(rows) == 1:
+            quote = _render_quote_table(rows[0])
+            if quote is not None:
+                return f"**{caption}**\n\n{quote}" if caption else quote
+        if "infobox" in table_classes:
+            table = _render_infobox_table(rows)
+        else:
+            table = _render_generic_table(rows)
     return f"**{caption}**\n\n{table}" if caption else table
 
 
@@ -1733,6 +1740,15 @@ def _normalize_markdown_anchor_hrefs(root: lhtml.HtmlElement) -> None:
             link.set("href", path + "#" + slug)
 
 
+def _contains_gallery_table(fragment: str) -> bool:
+    """Return whether rewritten HTML contains a semantic Fandom gallery table."""
+    root = lhtml.fragment_fromstring(fragment or "", create_parent="div")
+    return any(
+        "gallery" in (table.get("class") or "").split()
+        for table in root.iter("table")
+    )
+
+
 def _html_fragment_to_markdown(fragment: str) -> str:
     """Convert an HTML fragment to Markdown without structural HTML tags."""
     root = lhtml.fragment_fromstring(fragment or "", create_parent="div")
@@ -1744,6 +1760,9 @@ def _convert_html_to_markdown(
     pandoc: str, rewritten_html: str, note: str
 ) -> tuple[str, str, bool]:
     """Convert rewritten HTML to Markdown, normalizing any HTML Pandoc preserves."""
+    if _contains_gallery_table(rewritten_html):
+        return _html_fragment_to_markdown(rewritten_html), note, False
+
     try:
         markdown_body = _run_pandoc(pandoc, rewritten_html, "html", "gfm")
     except Exception as markdown_error:

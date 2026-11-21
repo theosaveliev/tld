@@ -433,7 +433,7 @@ def test_export_retries_pandoc_after_closing_unterminated_wikitext_table(
     assert conversion_errors == 0
 
 
-def test_export_preserves_rendered_html_when_gfm_conversion_fails(
+def test_export_converts_rendered_html_when_gfm_conversion_fails(
     tmp_path: Path, monkeypatch: pytest.MonkeyPatch
 ) -> None:
     def fake_pandoc(

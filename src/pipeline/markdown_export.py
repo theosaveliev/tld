@@ -18,6 +18,7 @@ from pathlib import Path
 from typing import TYPE_CHECKING, Any, TypedDict, cast
 
 import defusedxml.ElementTree as SafeET
+import mwparserfromhell as mwp
 from lxml import etree
 from lxml import html as lhtml
 
@@ -98,10 +99,11 @@ def resolve_internal_href(
         return href
 
     parsed = urllib.parse.urlsplit(href)
-    if parsed.scheme:
+    if parsed.scheme in {"http", "https", "mailto", "ftp", "tel"}:
         return href
 
-    raw_target = urllib.parse.unquote(parsed.path).strip()
+    raw_path = parsed.path if not parsed.scheme else href
+    raw_target = urllib.parse.unquote(raw_path).strip()
     raw_target = raw_target.removeprefix("./").removeprefix("/")
     if not raw_target:
         return "#" + _safe_destination(parsed.fragment) if parsed.fragment else None
@@ -284,6 +286,37 @@ def _load_wiki_context(
 
     context.analyze_templates()
     return context, articles, redirects
+
+
+def _preserve_missing_templates(text: str, context: Any) -> str:
+    """Keep calls to templates absent from the dump visible in the article."""
+    code = mwp.parse(text)
+    for template in code.filter_templates(recursive=False):
+        name = re.sub(r"<!--.*?-->", "", str(template.name), flags=re.DOTALL).strip()
+        if (
+            not name
+            or "{" in name
+            or name[0] in "#:"
+            or ":" in name
+            or name.isupper()
+        ):
+            continue
+        canonical_name = normalize_title(name)
+        if canonical_name in context.templates:
+            continue
+
+        parameters: list[str] = []
+        for parameter in template.params:
+            value = str(parameter.value).strip()
+            if not value:
+                continue
+            if parameter.showkey:
+                parameters.append(f"{str(parameter.name).strip()}={value}")
+            else:
+                parameters.append(value)
+        detail = ": " + "; ".join(parameters) if parameters else ""
+        code.replace(template, f"[Missing template: {canonical_name}{detail}]")
+    return str(code)
 
 
 def _pandoc_path() -> str:
@@ -496,7 +529,12 @@ def _page_markdown(
 
 def _markdown_label(title: str) -> str:
     """Escape a wiki title for use as a Markdown link label."""
-    return title.replace("\\", "\\\\").replace("[", "\\[").replace("]", "\\]")
+    return (
+        title.replace("\\", "\\\\")
+        .replace("[", "\\[")
+        .replace("]", "\\]")
+        .replace("|", "\\|")
+    )
 
 
 def export_dump_to_markdown(
@@ -542,9 +580,10 @@ def export_dump_to_markdown(
         expanded = page.text
 
         if page.model == "wikitext":
+            expanded = _preserve_missing_templates(page.text, context)
             try:
                 context.start_page(page.title)
-                expanded = context.expand(page.text, timeout=30)
+                expanded = context.expand(expanded, timeout=30)
             except Exception as exc:
                 expansion_errors += 1
                 expansion_error = str(exc)[:300]

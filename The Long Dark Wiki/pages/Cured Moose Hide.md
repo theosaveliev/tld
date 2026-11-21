@@ -36,8 +36,8 @@ Fresh Moose Hides are a very rare resource to obtain, since they require first f
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Moose-Hide Cloak"&gt;Moose-Hide Cloak&lt;/a&gt; | None | - 1 × &lt;a href="Cured Moose Hide"&gt;Cured Moose Hide&lt;/a&gt; / - 4 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Moose-Hide Satchel"&gt;Moose-Hide Satchel&lt;/a&gt; | None | - 1 × &lt;a href="Cured Moose Hide"&gt;Cured Moose Hide&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
+| [Moose-Hide Cloak](./Moose-Hide%20Cloak.md) | None | - 1 × [Cured Moose Hide](./Cured%20Moose%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
+| [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) | None | - 1 × [Cured Moose Hide](./Cured%20Moose%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
 
 ## Update history
 

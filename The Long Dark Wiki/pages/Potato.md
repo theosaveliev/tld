@@ -53,41 +53,41 @@ Skills
 
 Materials
 
-&lt;a href="Coastal Fishcakes"&gt;Coastal Fishcakes&lt;/a&gt;
+[Coastal Fishcakes](./Coastal%20Fishcakes.md)
 
 None
 
-- 0.50 Kg × &lt;a href="Rainbow Trout (Raw)"&gt;Rainbow Trout (Raw)&lt;/a&gt; / - 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+- 0.50 Kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) / - 2 × [Potato](./Potato.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md)
 
-&lt;a href="Cooked Potato"&gt;Cooked Potato&lt;/a&gt;
-
-None
-
-- 1 × &lt;a href="Potato"&gt;Potato&lt;/a&gt;
-
-&lt;a href="Dockworker's Pie"&gt;Dockworker's Pie&lt;/a&gt;
+[Cooked Potato](./Cooked%20Potato.md)
 
 None
 
-- 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.50 kg × &lt;a href="Coho Salmon (Raw)"&gt;Coho Salmon (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Rockfish (Raw)"&gt;Rockfish (Raw)&lt;/a&gt; / - 0.10 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+- 1 × [Potato](./Potato.md)
 
-&lt;a href="Last Resort Soup"&gt;Last Resort Soup&lt;/a&gt;
-
-None
-
-- 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.40 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
-
-&lt;a href="Ranger Stew"&gt;Ranger Stew&lt;/a&gt;
+[Dockworker's Pie](./Dockworker%27s%20Pie.md)
 
 None
 
-- 0.50 kg × &lt;a href="Venison (Raw)"&gt;Venison (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Rabbit (Raw)"&gt;Rabbit (Raw)&lt;/a&gt; / - 1 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.20 kg × &lt;a href="Carrot"&gt;Carrot&lt;/a&gt; / - 0.40 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.05 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt;
+- 2 × [Potato](./Potato.md) / - 0.50 kg × [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) / - 0.50 kg × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md)
 
-&lt;a href="Thomson Family Stew"&gt;Thomson Family Stew&lt;/a&gt;
+[Last Resort Soup](./Last%20Resort%20Soup.md)
 
 None
 
-- 0.30 kg × &lt;a href="Canned Corn"&gt;Canned Corn&lt;/a&gt; / - 0.40 kg × &lt;a href="Carrot"&gt;Carrot&lt;/a&gt; / - 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 2 × &lt;a href="Reishi Mushroom"&gt;Reishi Mushroom&lt;/a&gt; / - 0.40 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.05 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt;
+- 2 × [Potato](./Potato.md) / - 0.40 L × [Broth](./Broth.md) / - 0.01 kg × [Salt](./Salt.md)
+
+[Ranger Stew](./Ranger%20Stew.md)
+
+None
+
+- 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) / - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) / - 1 × [Potato](./Potato.md) / - 0.20 kg × [Carrot](./Carrot.md) / - 0.40 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)
+
+[Thomson Family Stew](./Thomson%20Family%20Stew.md)
+
+None
+
+- 0.30 kg × [Canned Corn](./Canned%20Corn.md) / - 0.40 kg × [Carrot](./Carrot.md) / - 2 × [Potato](./Potato.md) / - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) / - 0.40 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)
 
 ![Vegetable cart.](../assets/Vegetable_cart.png)
 

@@ -62,7 +62,7 @@ Prepared Rose Hips have about 1/5 the weight of their raw form, and do not [Deca
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Rose Hip Tea"&gt;Rose Hip Tea&lt;/a&gt; | None | - 1 × &lt;a href="Prepared Rose Hips"&gt;Prepared Rose Hips&lt;/a&gt; / - 0.25 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; |
+| [Rose Hip Tea](./Rose%20Hip%20Tea.md) | None | - 1 × [Prepared Rose Hips](./Prepared%20Rose%20Hips.md) / - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
 
 ## Tips
 

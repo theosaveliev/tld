@@ -50,11 +50,11 @@ Skills
 
 Materials
 
-&lt;a href="Cougar Meat (Cooked)"&gt;Cougar Meat (Cooked)&lt;/a&gt;
+[Cougar Meat (Cooked)](./Cougar%20Meat%20%28Cooked%29.md)
 
 None
 
-- 1.00 kg × &lt;a href="Cougar Meat (Raw)"&gt;Cougar Meat (Raw)&lt;/a&gt;
+- 1.00 kg × [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)
 
 ![Fresh](../assets/Cougar_Meat_%28Raw%29_icon.png)
 

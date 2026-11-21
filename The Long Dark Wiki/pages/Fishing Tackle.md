@@ -68,7 +68,7 @@ A Fishing Tackle cannot be repaired or harvested. It can be used as an ingredien
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Fishing Tip-Up"&gt;Fishing Tip-Up&lt;/a&gt; | None | - 2 × &lt;a href="Stick"&gt;Stick&lt;/a&gt; / - 1 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Fishing Tackle"&gt;Fishing Tackle&lt;/a&gt; |
+| [Fishing Tip-Up](./Fishing%20Tip-Up.md) | None | - 2 × [Stick](./Stick.md) / - 1 × [Cloth](./Cloth.md) / - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Fishing Tackle](./Fishing%20Tackle.md) |
 
 ## Update history
 

@@ -56,10 +56,10 @@ Maple Syrup can never cause [Food Poisoning](./Food%20Poisoning.md) above 20% co
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Acorn Pancakes"&gt;Acorn Pancakes&lt;/a&gt; | None | - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 0.05 Kg × &lt;a href="Maple Syrup"&gt;Maple Syrup&lt;/a&gt; / - 0.10 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; |
-| &lt;a href="Camber Flight Porridge"&gt;Camber Flight Porridge&lt;/a&gt; | None | - 0.05 kg × &lt;a href="Maple Syrup"&gt;Maple Syrup&lt;/a&gt; / - 4 × &lt;a href="Rose Hip"&gt;Rose Hip&lt;/a&gt; / - 0.50 kg × &lt;a href="Pinnacle Peaches"&gt;Pinnacle Peaches&lt;/a&gt; / - 0.20 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.10 kg × &lt;a href="Running River Oats"&gt;Running River Oats&lt;/a&gt; |
-| &lt;a href="Lily's Pancakes"&gt;Lily's Pancakes&lt;/a&gt; | None | - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 0.05 kg × &lt;a href="Maple Syrup"&gt;Maple Syrup&lt;/a&gt; / - 0.50 kg × &lt;a href="Pinnacle Peaches"&gt;Pinnacle Peaches&lt;/a&gt; / - 0.10 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; |
-| &lt;a href="Pancakes"&gt;Pancakes&lt;/a&gt; | None | - 0.05 kg × &lt;a href="Maple Syrup"&gt;Maple Syrup&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.12 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt; |
+| [Acorn Pancakes](./Acorn%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 0.05 Kg × [Maple Syrup](./Maple%20Syrup.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
+| [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) / - 4 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) / - 0.20 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.10 kg × [Running River Oats](./Running%20River%20Oats.md) |
+| [Lily's Pancakes](./Lily%27s%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) / - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
+| [Pancakes](./Pancakes.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.12 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
 ## Fixed Spawns
 

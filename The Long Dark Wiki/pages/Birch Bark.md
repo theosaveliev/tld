@@ -71,7 +71,7 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Prepared Birch Bark"&gt;Prepared Birch Bark&lt;/a&gt; | None | - 2 × &lt;a href="Birch Bark"&gt;Birch Bark&lt;/a&gt; |
+| [Prepared Birch Bark](./Prepared%20Birch%20Bark.md) | None | - 2 × [Birch Bark](./Birch%20Bark.md) |
 
 ## Tips
 

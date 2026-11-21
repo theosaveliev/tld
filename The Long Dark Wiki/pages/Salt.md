@@ -53,68 +53,68 @@ Skills
 
 Materials
 
-&lt;a href="Broth"&gt;Broth&lt;/a&gt;
+[Broth](./Broth.md)
 
 None
 
-- 1.00 kg × &lt;a href="Ptarmigan (Raw)"&gt;Ptarmigan (Raw)&lt;/a&gt; / - 1.50 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+- 1.00 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) / - 1.50 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.01 kg × [Salt](./Salt.md)
 
-&lt;a href="Coastal Fishcakes"&gt;Coastal Fishcakes&lt;/a&gt;
-
-None
-
-- 0.50 Kg × &lt;a href="Rainbow Trout (Raw)"&gt;Rainbow Trout (Raw)&lt;/a&gt; / - 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
-
-&lt;a href="Dockworker's Pie"&gt;Dockworker's Pie&lt;/a&gt;
+[Coastal Fishcakes](./Coastal%20Fishcakes.md)
 
 None
 
-- 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.50 kg × &lt;a href="Coho Salmon (Raw)"&gt;Coho Salmon (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Rockfish (Raw)"&gt;Rockfish (Raw)&lt;/a&gt; / - 0.10 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+- 0.50 Kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) / - 2 × [Potato](./Potato.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md)
 
-&lt;a href="Last Resort Soup"&gt;Last Resort Soup&lt;/a&gt;
-
-None
-
-- 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.40 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
-
-&lt;a href="Meat Curing Box"&gt;Meat Curing Box&lt;/a&gt;
+[Dockworker's Pie](./Dockworker%27s%20Pie.md)
 
 None
 
-- 10 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 8.00 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+- 2 × [Potato](./Potato.md) / - 0.50 kg × [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) / - 0.50 kg × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md)
 
-&lt;a href="Pemmican Bar"&gt;Pemmican Bar&lt;/a&gt;
-
-None
-
-- 0.50 kg × &lt;a href="Cured Meat"&gt;Cured Meat&lt;/a&gt; / - 15 × &lt;a href="Rose Hip"&gt;Rose Hip&lt;/a&gt; / - 0.50 kg × &lt;a href="Animal Fat"&gt;Animal Fat&lt;/a&gt; / - 0.05 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
-
-&lt;a href="Pemmican Bar"&gt;Pemmican Bar&lt;/a&gt;
+[Last Resort Soup](./Last%20Resort%20Soup.md)
 
 None
 
-- 0.50 kg × &lt;a href="Cured Meat"&gt;Cured Meat&lt;/a&gt; / - 15 × &lt;a href="Rose Hip"&gt;Rose Hip&lt;/a&gt; / - 0.50 kg × &lt;a href="Animal Fat"&gt;Animal Fat&lt;/a&gt; / - 0.05 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+- 2 × [Potato](./Potato.md) / - 0.40 L × [Broth](./Broth.md) / - 0.01 kg × [Salt](./Salt.md)
 
-&lt;a href="Porter's Soup"&gt;Porter's Soup&lt;/a&gt;
-
-None
-
-- 2 × &lt;a href="Carrot"&gt;Carrot&lt;/a&gt; / - 6 × &lt;a href="Cat Tail Stalk"&gt;Cat Tail Stalk&lt;/a&gt; / - 0.50 kg × &lt;a href="Ptarmigan (Raw)"&gt;Ptarmigan (Raw)&lt;/a&gt; / - 0.40 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
-
-&lt;a href="Prepper's Pie"&gt;Prepper's Pie&lt;/a&gt;
+[Meat Curing Box](./Meat%20Curing%20Box.md)
 
 None
 
-- 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 4 × &lt;a href="Reishi Mushroom"&gt;Reishi Mushroom&lt;/a&gt; / - 2 × &lt;a href="Burdock Root"&gt;Burdock Root&lt;/a&gt; / - 0.10 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+- 10 × [Fir Firewood](./Fir%20Firewood.md) / - 8.00 kg × [Salt](./Salt.md)
 
-&lt;a href="Stalker's Pie"&gt;Stalker's Pie&lt;/a&gt;
-
-None
-
-- 0.50 kg × &lt;a href="Bear Meat (Raw)"&gt;Bear Meat (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Wolf Meat (Raw)"&gt;Wolf Meat (Raw)&lt;/a&gt; / - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
-
-&lt;a href="Vagabond Soup"&gt;Vagabond Soup&lt;/a&gt;
+[Pemmican Bar](./Pemmican%20Bar.md)
 
 None
 
-- 0.50 kg × &lt;a href="Rabbit (Raw)"&gt;Rabbit (Raw)&lt;/a&gt; / - 0.40 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+- 0.50 kg × [Cured Meat](./Cured%20Meat.md) / - 15 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Animal Fat](./Animal%20Fat.md) / - 0.05 kg × [Salt](./Salt.md)
+
+[Pemmican Bar](./Pemmican%20Bar.md)
+
+None
+
+- 0.50 kg × [Cured Meat](./Cured%20Meat.md) / - 15 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Animal Fat](./Animal%20Fat.md) / - 0.05 kg × [Salt](./Salt.md)
+
+[Porter's Soup](./Porter%27s%20Soup.md)
+
+None
+
+- 2 × [Carrot](./Carrot.md) / - 6 × [Cat Tail Stalk](./Cat%20Tail%20Stalk.md) / - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) / - 0.40 L × [Broth](./Broth.md) / - 0.01 kg × [Salt](./Salt.md)
+
+[Prepper's Pie](./Prepper%27s%20Pie.md)
+
+None
+
+- 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 4 × [Reishi Mushroom](./Reishi%20Mushroom.md) / - 2 × [Burdock Root](./Burdock%20Root.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md)
+
+[Stalker's Pie](./Stalker%27s%20Pie.md)
+
+None
+
+- 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) / - 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) / - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md)
+
+[Vagabond Soup](./Vagabond%20Soup.md)
+
+None
+
+- 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) / - 0.40 L × [Broth](./Broth.md) / - 0.01 kg × [Salt](./Salt.md)

@@ -55,11 +55,11 @@ Skills
 
 Materials
 
-&lt;a href="Framed Hockey Jersey"&gt;Framed Hockey Jersey&lt;/a&gt;
+[Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md)
 
 None
 
-- 2 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Hockey Jersey"&gt;Hockey Jersey&lt;/a&gt;
+- 2 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Hockey Jersey](./Hockey%20Jersey.md)
 
 ![Clothing model icon](../assets/Hockey_Jersey_Model_icon.png)
 

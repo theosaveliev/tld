@@ -46,7 +46,7 @@ Stones can also be used to lower the morale of an attacking [Timberwolf](./Timbe
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Rock Cache"&gt;Rock Cache&lt;/a&gt; | None | - 50 × &lt;a href="Stone"&gt;Stone&lt;/a&gt; |
+| [Rock Cache](./Rock%20Cache.md) | None | - 50 × [Stone](./Stone.md) |
 
 ## Hunting
 

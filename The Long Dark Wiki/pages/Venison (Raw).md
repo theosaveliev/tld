@@ -60,11 +60,11 @@ Frozen deer carcasses created during world generation always contain 1 [deer hid
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Breyerhouse Pie"&gt;Breyerhouse Pie&lt;/a&gt; | None | - 0.50 kg × &lt;a href="Ptarmigan (Raw)"&gt;Ptarmigan (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Rabbit (Raw)"&gt;Rabbit (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Venison (Raw)"&gt;Venison (Raw)&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.20 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt; |
-| &lt;a href="Ranger Stew"&gt;Ranger Stew&lt;/a&gt; | None | - 0.50 kg × &lt;a href="Venison (Raw)"&gt;Venison (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Rabbit (Raw)"&gt;Rabbit (Raw)&lt;/a&gt; / - 1 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.20 kg × &lt;a href="Carrot"&gt;Carrot&lt;/a&gt; / - 0.40 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.05 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt; |
-| &lt;a href="Venison (Cooked)"&gt;Venison (Cooked)&lt;/a&gt; | None | - 1.00 kg × &lt;a href="Venison (Raw)"&gt;Venison (Raw)&lt;/a&gt; |
-| &lt;a href="Venison Pie"&gt;Venison Pie&lt;/a&gt; | None | - 0.50 kg × &lt;a href="Venison (Raw)"&gt;Venison (Raw)&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.20 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt; |
-| &lt;a href="Venison Stew"&gt;Venison Stew&lt;/a&gt; | None | - 0.50 kg × &lt;a href="Venison (Raw)"&gt;Venison (Raw)&lt;/a&gt; / - 0.20 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.05 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt; |
+| [Breyerhouse Pie](./Breyerhouse%20Pie.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) / - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) / - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Ranger Stew](./Ranger%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) / - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) / - 1 × [Potato](./Potato.md) / - 0.20 kg × [Carrot](./Carrot.md) / - 0.40 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Venison (Cooked)](./Venison%20%28Cooked%29.md) | None | - 1.00 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) |
+| [Venison Pie](./Venison%20Pie.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Venison Stew](./Venison%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) / - 0.20 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
 ## Gallery
 

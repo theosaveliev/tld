@@ -40,11 +40,11 @@ Skills
 
 Materials
 
-&lt;a href="Cougar Hide Wrap"&gt;Cougar Hide Wrap&lt;/a&gt;
+[Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md)
 
 None
 
-- 1 × &lt;a href="Cured Cougar Hide"&gt;Cured Cougar Hide&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt;
+- 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md)
 
 ![Old Icon](../assets/Old_Cured_Cougar_Hide_icon.png)
 

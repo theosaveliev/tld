@@ -58,8 +58,8 @@ Goldeye can be harvested to obtain [Fishing Bait](./Fishing%20Bait.md), yielding
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Goldeye (Cooked)"&gt;Goldeye (Cooked)&lt;/a&gt; | None | - 1 × &lt;a href="Goldeye (Raw)"&gt;Goldeye (Raw)&lt;/a&gt; |
-| &lt;a href="Mounted Goldeye"&gt;Mounted Goldeye&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Goldeye (Raw)"&gt;Goldeye (Raw)&lt;/a&gt; |
+| [Goldeye (Cooked)](./Goldeye%20%28Cooked%29.md) | None | - 1 × [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) |
+| [Mounted Goldeye](./Mounted%20Goldeye.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) |
 
 ## Update history
 

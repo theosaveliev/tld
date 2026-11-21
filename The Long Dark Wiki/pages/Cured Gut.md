@@ -34,27 +34,27 @@ Cured Gut is an item required for crafting or repairing many items, such as [lin
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Bear Hide Bed"&gt;Bear Hide Bed&lt;/a&gt; | None | - 18 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; / - 1 × &lt;a href="Cured Black Bear Hide"&gt;Cured Black Bear Hide&lt;/a&gt; / - 16 × &lt;a href="Ptarmigan Down"&gt;Ptarmigan Down&lt;/a&gt; |
-| &lt;a href="Bear Hide Rug"&gt;Bear Hide Rug&lt;/a&gt; | None | - 1 × &lt;a href="Cured Deer Hide"&gt;Cured Deer Hide&lt;/a&gt; / - 1 × &lt;a href="Cured Black Bear Hide"&gt;Cured Black Bear Hide&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Bear Skin Bedroll"&gt;Bear Skin Bedroll&lt;/a&gt; | None | - 2 × &lt;a href="Cured Black Bear Hide"&gt;Cured Black Bear Hide&lt;/a&gt; / - 5 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 6 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Bearskin Coat"&gt;Bearskin Coat&lt;/a&gt; | None | - 2 × &lt;a href="Cured Black Bear Hide"&gt;Cured Black Bear Hide&lt;/a&gt; / - 4 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Bushcraft Bow"&gt;Bushcraft Bow&lt;/a&gt; | None | - 2 × &lt;a href="Green Birch Sapling"&gt;Green Birch Sapling&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Cougar Hide Wrap"&gt;Cougar Hide Wrap&lt;/a&gt; | None | - 1 × &lt;a href="Cured Cougar Hide"&gt;Cured Cougar Hide&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Deerskin Boots"&gt;Deerskin Boots&lt;/a&gt; | None | - 2 × &lt;a href="Cured Deer Hide"&gt;Cured Deer Hide&lt;/a&gt; / - 4 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Deerskin Pants"&gt;Deerskin Pants&lt;/a&gt; | None | - 3 × &lt;a href="Cured Deer Hide"&gt;Cured Deer Hide&lt;/a&gt; / - 4 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Hide Chair"&gt;Hide Chair&lt;/a&gt; | None | - 8 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 2 × &lt;a href="Cured Deer Hide"&gt;Cured Deer Hide&lt;/a&gt; / - 8 × &lt;a href="Ptarmigan Down"&gt;Ptarmigan Down&lt;/a&gt; / - 3 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Hide Couch"&gt;Hide Couch&lt;/a&gt; | None | - 15 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Cured Deer Hide"&gt;Cured Deer Hide&lt;/a&gt; / - 16 × &lt;a href="Ptarmigan Down"&gt;Ptarmigan Down&lt;/a&gt; / - 5 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Line"&gt;Line&lt;/a&gt; | None | - 1 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Moose-Hide Cloak"&gt;Moose-Hide Cloak&lt;/a&gt; | None | - 1 × &lt;a href="Cured Moose Hide"&gt;Cured Moose Hide&lt;/a&gt; / - 4 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Moose-Hide Satchel"&gt;Moose-Hide Satchel&lt;/a&gt; | None | - 1 × &lt;a href="Cured Moose Hide"&gt;Cured Moose Hide&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Quilted Bed"&gt;Quilted Bed&lt;/a&gt; | None | - 12 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 10 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 6 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; / - 16 × &lt;a href="Ptarmigan Down"&gt;Ptarmigan Down&lt;/a&gt; |
-| &lt;a href="Rabbitskin Hat"&gt;Rabbitskin Hat&lt;/a&gt; | None | - 3 × &lt;a href="Cured Rabbit Pelt"&gt;Cured Rabbit Pelt&lt;/a&gt; / - 1 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Rabbitskin Mitts"&gt;Rabbitskin Mitts&lt;/a&gt; | None | - 4 × &lt;a href="Cured Rabbit Pelt"&gt;Cured Rabbit Pelt&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Rustic Bed"&gt;Rustic Bed&lt;/a&gt; | None | - 10 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 12 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Snare"&gt;Snare&lt;/a&gt; | None | - 1 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; / - 1 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
-| &lt;a href="Survival Bow"&gt;Survival Bow&lt;/a&gt; | None | - 1 × &lt;a href="Cured Maple Sapling"&gt;Cured Maple Sapling&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Travois"&gt;Travois&lt;/a&gt; | None | - 1 × &lt;a href="Cured Deer Hide"&gt;Cured Deer Hide&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; / - 4 × &lt;a href="Cured Maple Sapling"&gt;Cured Maple Sapling&lt;/a&gt; |
-| &lt;a href="Wolfskin Coat"&gt;Wolfskin Coat&lt;/a&gt; | None | - 4 × &lt;a href="Cured Wolf Pelt"&gt;Cured Wolf Pelt&lt;/a&gt; / - 4 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
+| [Bear Hide Bed](./Bear%20Hide%20Bed.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Cured Gut](./Cured%20Gut.md) / - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
+| [Bear Hide Rug](./Bear%20Hide%20Rug.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 5 × [Cloth](./Cloth.md) / - 6 × [Cured Gut](./Cured%20Gut.md) |
+| [Bearskin Coat](./Bearskin%20Coat.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
+| [Bushcraft Bow](./Bushcraft%20Bow.md) | None | - 2 × [Green Birch Sapling](./Green%20Birch%20Sapling.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) | None | - 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Deerskin Boots](./Deerskin%20Boots.md) | None | - 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
+| [Deerskin Pants](./Deerskin%20Pants.md) | None | - 3 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
+| [Hide Chair](./Hide%20Chair.md) | None | - 8 × [Fir Firewood](./Fir%20Firewood.md) / - 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 8 × [Ptarmigan Down](./Ptarmigan%20Down.md) / - 3 × [Cured Gut](./Cured%20Gut.md) |
+| [Hide Couch](./Hide%20Couch.md) | None | - 15 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) / - 5 × [Cured Gut](./Cured%20Gut.md) |
+| [Line](./Line.md) | None | - 1 × [Cured Gut](./Cured%20Gut.md) |
+| [Moose-Hide Cloak](./Moose-Hide%20Cloak.md) | None | - 1 × [Cured Moose Hide](./Cured%20Moose%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
+| [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) | None | - 1 × [Cured Moose Hide](./Cured%20Moose%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Quilted Bed](./Quilted%20Bed.md) | None | - 12 × [Fir Firewood](./Fir%20Firewood.md) / - 10 × [Cloth](./Cloth.md) / - 6 × [Cured Gut](./Cured%20Gut.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
+| [Rabbitskin Hat](./Rabbitskin%20Hat.md) | None | - 3 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / - 1 × [Cured Gut](./Cured%20Gut.md) |
+| [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) | None | - 4 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Rustic Bed](./Rustic%20Bed.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) / - 12 × [Cloth](./Cloth.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Snare](./Snare.md) | None | - 1 × [Cured Gut](./Cured%20Gut.md) / - 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Survival Bow](./Survival%20Bow.md) | None | - 1 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Travois](./Travois.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) / - 4 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
+| [Wolfskin Coat](./Wolfskin%20Coat.md) | None | - 4 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
 
 ## Update history
 

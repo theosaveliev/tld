@@ -1,6 +1,6 @@
 # Supply Cache
 
-**Categories:** DLC Content, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Supply_Cache)
+**Categories:** DLC Content, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Supply_Cache)
 
 **Contents**
 

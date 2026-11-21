@@ -81,7 +81,7 @@ Broken Arrows sometimes spawn on or near animal carcasses, [frozen corpses](./Fr
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Simple Arrow"&gt;Simple Arrow&lt;/a&gt; | None | - 1 × &lt;a href="Arrowhead"&gt;Arrowhead&lt;/a&gt; / - 1 × &lt;a href="Arrow Shaft"&gt;Arrow Shaft&lt;/a&gt; / - 3 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; |
+| [Simple Arrow](./Simple%20Arrow.md) | None | - 1 × [Arrowhead](./Arrowhead.md) / - 1 × [Arrow Shaft](./Arrow%20Shaft.md) / - 3 × [Crow Feather](./Crow%20Feather.md) |
 
 ## Gallery
 

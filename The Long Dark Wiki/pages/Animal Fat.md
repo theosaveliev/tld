@@ -44,29 +44,29 @@ Skills
 
 Materials
 
-&lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt;
+[Cooking Oil](./Cooking%20Oil.md)
 
 None
 
-- 1.00 kg × &lt;a href="Animal Fat"&gt;Animal Fat&lt;/a&gt;
+- 1.00 kg × [Animal Fat](./Animal%20Fat.md)
 
-&lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt;
-
-None
-
-- 1.00 kg × &lt;a href="Animal Fat"&gt;Animal Fat&lt;/a&gt;
-
-&lt;a href="Pemmican Bar"&gt;Pemmican Bar&lt;/a&gt;
+[Cooking Oil](./Cooking%20Oil.md)
 
 None
 
-- 0.50 kg × &lt;a href="Cured Meat"&gt;Cured Meat&lt;/a&gt; / - 15 × &lt;a href="Rose Hip"&gt;Rose Hip&lt;/a&gt; / - 0.50 kg × &lt;a href="Animal Fat"&gt;Animal Fat&lt;/a&gt; / - 0.05 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+- 1.00 kg × [Animal Fat](./Animal%20Fat.md)
 
-&lt;a href="Pemmican Bar"&gt;Pemmican Bar&lt;/a&gt;
+[Pemmican Bar](./Pemmican%20Bar.md)
 
 None
 
-- 0.50 kg × &lt;a href="Cured Meat"&gt;Cured Meat&lt;/a&gt; / - 15 × &lt;a href="Rose Hip"&gt;Rose Hip&lt;/a&gt; / - 0.50 kg × &lt;a href="Animal Fat"&gt;Animal Fat&lt;/a&gt; / - 0.05 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+- 0.50 kg × [Cured Meat](./Cured%20Meat.md) / - 15 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Animal Fat](./Animal%20Fat.md) / - 0.05 kg × [Salt](./Salt.md)
+
+[Pemmican Bar](./Pemmican%20Bar.md)
+
+None
+
+- 0.50 kg × [Cured Meat](./Cured%20Meat.md) / - 15 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Animal Fat](./Animal%20Fat.md) / - 0.05 kg × [Salt](./Salt.md)
 
 ![Fresh](../assets/Animal_Fat_icon.png)
 

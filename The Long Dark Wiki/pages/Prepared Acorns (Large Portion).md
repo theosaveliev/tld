@@ -76,4 +76,4 @@ Prepared Acorns (Large Portion) can be created after shelling [Acorns](./Acorns.
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Acorns (Cooked - Large Portion)"&gt;Acorns (Cooked - Large Portion)&lt;/a&gt; | None | - 1 × &lt;a href="Prepared Acorns (Large Portion)"&gt;Prepared Acorns (Large Portion)&lt;/a&gt; / - 0.50L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; |
+| [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md) | None | - 1 × [Prepared Acorns (Large Portion)](./Prepared%20Acorns%20%28Large%20Portion%29.md) / - 0.50L × [Water (Potable)](./Water%20%28Potable%29.md) |

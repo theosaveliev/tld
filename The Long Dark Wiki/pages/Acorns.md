@@ -61,8 +61,8 @@ As with most non-fuel resources in the game, Acorns do not respawn once harveste
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Fishing Lure (Acorns)"&gt;Fishing Lure (Acorns)&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; / - 1 × &lt;a href="Acorns"&gt;Acorns&lt;/a&gt; |
-| &lt;a href="Prepared Acorns"&gt;Prepared Acorns&lt;/a&gt; | None | - 1 × &lt;a href="Acorns"&gt;Acorns&lt;/a&gt; |
+| [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Acorns](./Acorns.md) |
+| [Prepared Acorns](./Prepared%20Acorns.md) | None | - 1 × [Acorns](./Acorns.md) |
 
 ## Locations
 

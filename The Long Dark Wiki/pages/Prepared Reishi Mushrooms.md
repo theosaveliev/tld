@@ -73,7 +73,7 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Reishi Tea"&gt;Reishi Tea&lt;/a&gt; | None | - 1 × &lt;a href="Prepared Reishi Mushrooms"&gt;Prepared Reishi Mushrooms&lt;/a&gt; / - 0.25 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; |
+| [Reishi Tea](./Reishi%20Tea.md) | None | - 1 × [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md) / - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
 
 ## Tips
 

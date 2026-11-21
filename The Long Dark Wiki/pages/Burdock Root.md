@@ -44,8 +44,8 @@ After harvesting a Burdock plant, you'll obtain a single Burdock Root. The root 
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Prepared Burdock"&gt;Prepared Burdock&lt;/a&gt; | None | - 1 × &lt;a href="Burdock Root"&gt;Burdock Root&lt;/a&gt; |
-| &lt;a href="Prepper's Pie"&gt;Prepper's Pie&lt;/a&gt; | None | - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 4 × &lt;a href="Reishi Mushroom"&gt;Reishi Mushroom&lt;/a&gt; / - 2 × &lt;a href="Burdock Root"&gt;Burdock Root&lt;/a&gt; / - 0.10 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt; |
+| [Prepared Burdock](./Prepared%20Burdock.md) | None | - 1 × [Burdock Root](./Burdock%20Root.md) |
+| [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 4 × [Reishi Mushroom](./Reishi%20Mushroom.md) / - 2 × [Burdock Root](./Burdock%20Root.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md) |
 
 ## Update history
 

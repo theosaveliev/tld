@@ -58,8 +58,8 @@ Red Irish Lord can be harvested to obtain [Fishing Bait](./Fishing%20Bait.md), y
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Mounted Red Irish Lord"&gt;Mounted Red Irish Lord&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Red Irish Lord (Raw)"&gt;Red Irish Lord (Raw)&lt;/a&gt; |
-| &lt;a href="Red Irish Lord (Cooked)"&gt;Red Irish Lord (Cooked)&lt;/a&gt; | None | - 1 × &lt;a href="Red Irish Lord (Raw)"&gt;Red Irish Lord (Raw)&lt;/a&gt; |
+| [Mounted Red Irish Lord](./Mounted%20Red%20Irish%20Lord.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) |
+| [Red Irish Lord (Cooked)](./Red%20Irish%20Lord%20%28Cooked%29.md) | None | - 1 × [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) |
 
 ## Update history
 

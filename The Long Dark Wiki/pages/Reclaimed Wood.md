@@ -62,20 +62,20 @@ Reclaimed wood has a burning duration of 30 minutes.
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Decorative Art"&gt;Decorative Art&lt;/a&gt; | None | - 2 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 1 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
-| &lt;a href="Decorative Art (2)"&gt;Decorative Art (2)&lt;/a&gt; | None | - 2 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 1 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
-| &lt;a href="Display Shelf"&gt;Display Shelf&lt;/a&gt; | None | - 12 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
-| &lt;a href="Dresser"&gt;Dresser&lt;/a&gt; | None | - 10 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
-| &lt;a href="Rustic Bench"&gt;Rustic Bench&lt;/a&gt; | None | - 10 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 2 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
-| &lt;a href="Rustic Chair"&gt;Rustic Chair&lt;/a&gt; | None | - 4 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 2 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
-| &lt;a href="Rustic Closet"&gt;Rustic Closet&lt;/a&gt; | None | - 18 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 3 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; / - 2 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
-| &lt;a href="Rustic Cupboard"&gt;Rustic Cupboard&lt;/a&gt; | None | - 10 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; / - 2 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
-| &lt;a href="Rustic Display Shelf"&gt;Rustic Display Shelf&lt;/a&gt; | None | - 10 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 2 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
-| &lt;a href="Rustic End Table"&gt;Rustic End Table&lt;/a&gt; | None | - 6 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 2 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
-| &lt;a href="Snare"&gt;Snare&lt;/a&gt; | None | - 1 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; / - 1 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
-| &lt;a href="Tall Rustic Closet"&gt;Tall Rustic Closet&lt;/a&gt; | None | - 24 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; / - 2 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
-| &lt;a href="Wide Display Shelf"&gt;Wide Display Shelf&lt;/a&gt; | None | - 18 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
-| &lt;a href="Wide Dresser"&gt;Wide Dresser&lt;/a&gt; | None | - 16 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 6 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| [Decorative Art](./Decorative%20Art.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Cedar Firewood](./Cedar%20Firewood.md) / - 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Decorative Art (2)](./Decorative%20Art%20%282%29.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Cedar Firewood](./Cedar%20Firewood.md) / - 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Display Shelf](./Display%20Shelf.md) | None | - 12 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Dresser](./Dresser.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) / - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Rustic Bench](./Rustic%20Bench.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) / - 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Rustic Chair](./Rustic%20Chair.md) | None | - 4 × [Cedar Firewood](./Cedar%20Firewood.md) / - 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Rustic Closet](./Rustic%20Closet.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) / - 3 × [Reclaimed Wood](./Reclaimed%20Wood.md) / - 2 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Rustic Cupboard](./Rustic%20Cupboard.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) / - 2 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Rustic Display Shelf](./Rustic%20Display%20Shelf.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md) / - 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Rustic End Table](./Rustic%20End%20Table.md) | None | - 6 × [Cedar Firewood](./Cedar%20Firewood.md) / - 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Snare](./Snare.md) | None | - 1 × [Cured Gut](./Cured%20Gut.md) / - 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Tall Rustic Closet](./Tall%20Rustic%20Closet.md) | None | - 24 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) / - 2 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Wide Display Shelf](./Wide%20Display%20Shelf.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Wide Dresser](./Wide%20Dresser.md) | None | - 16 × [Fir Firewood](./Fir%20Firewood.md) / - 6 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
 
 ## Tips
 

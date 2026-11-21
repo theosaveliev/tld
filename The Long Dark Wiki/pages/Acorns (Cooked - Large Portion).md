@@ -82,7 +82,7 @@ It is much more efficient to turn [Prepared Acorns](./Prepared%20Acorns.md) into
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; | None | - 1 × &lt;a href="Acorns (Cooked - Large Portion)"&gt;Acorns (Cooked - Large Portion)&lt;/a&gt; |
+| [Acorn Grounds](./Acorn%20Grounds.md) | None | - 1 × [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md) |
 
 ## Update history
 

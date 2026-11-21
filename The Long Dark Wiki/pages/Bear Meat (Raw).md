@@ -59,8 +59,8 @@ Bear Meat is harvested from [Bear](./Bear.md) carcasses, which contain between 2
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Bear Meat (Cooked)"&gt;Bear Meat (Cooked)&lt;/a&gt; | None | - 1.00 kg × &lt;a href="Bear Meat (Raw)"&gt;Bear Meat (Raw)&lt;/a&gt; |
-| &lt;a href="Stalker's Pie"&gt;Stalker's Pie&lt;/a&gt; | None | - 0.50 kg × &lt;a href="Bear Meat (Raw)"&gt;Bear Meat (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Wolf Meat (Raw)"&gt;Wolf Meat (Raw)&lt;/a&gt; / - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt; |
+| [Bear Meat (Cooked)](./Bear%20Meat%20%28Cooked%29.md) | None | - 1.00 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) |
+| [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) / - 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) / - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md) |
 
 ## Gallery
 

@@ -49,11 +49,11 @@ As a feather touches the ground, it makes a small sound that can be heard if nea
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Fire Hardened Arrow"&gt;Fire Hardened Arrow&lt;/a&gt; | None | - 5 × &lt;a href="Stick"&gt;Stick&lt;/a&gt; / - 5 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; |
-| &lt;a href="Fishing Lure (Acorns)"&gt;Fishing Lure (Acorns)&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; / - 1 × &lt;a href="Acorns"&gt;Acorns&lt;/a&gt; |
-| &lt;a href="Fishing Lure (Revolver Shell Casing)"&gt;Fishing Lure (Revolver Shell Casing)&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; / - 1 × &lt;a href="Revolver Shell Casing"&gt;Revolver Shell Casing&lt;/a&gt; |
-| &lt;a href="Fishing Lure (Wire Bundle)"&gt;Fishing Lure (Wire Bundle)&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; / - 1 × &lt;a href="Wires"&gt;Wires&lt;/a&gt; |
-| &lt;a href="Simple Arrow"&gt;Simple Arrow&lt;/a&gt; | None | - 1 × &lt;a href="Arrowhead"&gt;Arrowhead&lt;/a&gt; / - 1 × &lt;a href="Arrow Shaft"&gt;Arrow Shaft&lt;/a&gt; / - 3 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; |
+| [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | None | - 5 × [Stick](./Stick.md) / - 5 × [Crow Feather](./Crow%20Feather.md) |
+| [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Acorns](./Acorns.md) |
+| [Fishing Lure (Revolver Shell Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) |
+| [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Wires](./Wires.md) |
+| [Simple Arrow](./Simple%20Arrow.md) | None | - 1 × [Arrowhead](./Arrowhead.md) / - 1 × [Arrow Shaft](./Arrow%20Shaft.md) / - 3 × [Crow Feather](./Crow%20Feather.md) |
 
 ## Gallery
 

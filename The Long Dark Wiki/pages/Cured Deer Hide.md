@@ -43,12 +43,12 @@ Cured Deer Hide is acquired by leaving [Fresh Deer Hide](./Fresh%20Deer%20Hide.m
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Bear Hide Rug"&gt;Bear Hide Rug&lt;/a&gt; | None | - 1 × &lt;a href="Cured Deer Hide"&gt;Cured Deer Hide&lt;/a&gt; / - 1 × &lt;a href="Cured Black Bear Hide"&gt;Cured Black Bear Hide&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Deerskin Boots"&gt;Deerskin Boots&lt;/a&gt; | None | - 2 × &lt;a href="Cured Deer Hide"&gt;Cured Deer Hide&lt;/a&gt; / - 4 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Deerskin Pants"&gt;Deerskin Pants&lt;/a&gt; | None | - 3 × &lt;a href="Cured Deer Hide"&gt;Cured Deer Hide&lt;/a&gt; / - 4 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Hide Chair"&gt;Hide Chair&lt;/a&gt; | None | - 8 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 2 × &lt;a href="Cured Deer Hide"&gt;Cured Deer Hide&lt;/a&gt; / - 8 × &lt;a href="Ptarmigan Down"&gt;Ptarmigan Down&lt;/a&gt; / - 3 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Hide Couch"&gt;Hide Couch&lt;/a&gt; | None | - 15 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Cured Deer Hide"&gt;Cured Deer Hide&lt;/a&gt; / - 16 × &lt;a href="Ptarmigan Down"&gt;Ptarmigan Down&lt;/a&gt; / - 5 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Travois"&gt;Travois&lt;/a&gt; | None | - 1 × &lt;a href="Cured Deer Hide"&gt;Cured Deer Hide&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; / - 4 × &lt;a href="Cured Maple Sapling"&gt;Cured Maple Sapling&lt;/a&gt; |
+| [Bear Hide Rug](./Bear%20Hide%20Rug.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Deerskin Boots](./Deerskin%20Boots.md) | None | - 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
+| [Deerskin Pants](./Deerskin%20Pants.md) | None | - 3 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
+| [Hide Chair](./Hide%20Chair.md) | None | - 8 × [Fir Firewood](./Fir%20Firewood.md) / - 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 8 × [Ptarmigan Down](./Ptarmigan%20Down.md) / - 3 × [Cured Gut](./Cured%20Gut.md) |
+| [Hide Couch](./Hide%20Couch.md) | None | - 15 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) / - 5 × [Cured Gut](./Cured%20Gut.md) |
+| [Travois](./Travois.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) / - 4 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
 
 ## Gallery
 

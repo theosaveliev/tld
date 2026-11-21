@@ -38,14 +38,14 @@ Skills
 
 Materials
 
-&lt;a href="Pemmican Bar"&gt;Pemmican Bar&lt;/a&gt;
+[Pemmican Bar](./Pemmican%20Bar.md)
 
 None
 
-- 0.50 kg × &lt;a href="Cured Meat"&gt;Cured Meat&lt;/a&gt; / - 15 × &lt;a href="Rose Hip"&gt;Rose Hip&lt;/a&gt; / - 0.50 kg × &lt;a href="Animal Fat"&gt;Animal Fat&lt;/a&gt; / - 0.05 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+- 0.50 kg × [Cured Meat](./Cured%20Meat.md) / - 15 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Animal Fat](./Animal%20Fat.md) / - 0.05 kg × [Salt](./Salt.md)
 
-&lt;a href="Pemmican Bar"&gt;Pemmican Bar&lt;/a&gt;
+[Pemmican Bar](./Pemmican%20Bar.md)
 
 None
 
-- 0.50 kg × &lt;a href="Cured Meat"&gt;Cured Meat&lt;/a&gt; / - 15 × &lt;a href="Rose Hip"&gt;Rose Hip&lt;/a&gt; / - 0.50 kg × &lt;a href="Animal Fat"&gt;Animal Fat&lt;/a&gt; / - 0.05 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+- 0.50 kg × [Cured Meat](./Cured%20Meat.md) / - 15 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Animal Fat](./Animal%20Fat.md) / - 0.05 kg × [Salt](./Salt.md)

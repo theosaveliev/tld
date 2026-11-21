@@ -44,8 +44,8 @@ Skills
 
 Materials
 
-&lt;a href="Cougar Claw Knife"&gt;Cougar Claw Knife&lt;/a&gt;
+[Cougar Claw Knife](./Cougar%20Claw%20Knife.md)
 
 None
 
-- 1 × &lt;a href="Cougar Claw"&gt;Cougar Claw&lt;/a&gt; / - 3 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Cured Leather"&gt;Cured Leather&lt;/a&gt;
+- 1 × [Cougar Claw](./Cougar%20Claw.md) / - 3 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Cured Leather](./Cured%20Leather.md)

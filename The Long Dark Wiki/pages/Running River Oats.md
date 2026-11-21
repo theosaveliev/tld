@@ -52,14 +52,14 @@ Skills
 
 Materials
 
-&lt;a href="Camber Flight Porridge"&gt;Camber Flight Porridge&lt;/a&gt;
+[Camber Flight Porridge](./Camber%20Flight%20Porridge.md)
 
 None
 
-- 0.05 kg × &lt;a href="Maple Syrup"&gt;Maple Syrup&lt;/a&gt; / - 4 × &lt;a href="Rose Hip"&gt;Rose Hip&lt;/a&gt; / - 0.50 kg × &lt;a href="Pinnacle Peaches"&gt;Pinnacle Peaches&lt;/a&gt; / - 0.20 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.10 kg × &lt;a href="Running River Oats"&gt;Running River Oats&lt;/a&gt;
+- 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) / - 4 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) / - 0.20 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.10 kg × [Running River Oats](./Running%20River%20Oats.md)
 
-&lt;a href="Porridge"&gt;Porridge&lt;/a&gt;
+[Porridge](./Porridge.md)
 
 None
 
-- 0.25 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.10 kg × &lt;a href="Running River Oats"&gt;Running River Oats&lt;/a&gt;
+- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.10 kg × [Running River Oats](./Running%20River%20Oats.md)

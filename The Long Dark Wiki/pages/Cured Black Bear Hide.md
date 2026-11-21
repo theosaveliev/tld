@@ -55,10 +55,10 @@ _Old model._
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Bear Hide Bed"&gt;Bear Hide Bed&lt;/a&gt; | None | - 18 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; / - 1 × &lt;a href="Cured Black Bear Hide"&gt;Cured Black Bear Hide&lt;/a&gt; / - 16 × &lt;a href="Ptarmigan Down"&gt;Ptarmigan Down&lt;/a&gt; |
-| &lt;a href="Bear Hide Rug"&gt;Bear Hide Rug&lt;/a&gt; | None | - 1 × &lt;a href="Cured Deer Hide"&gt;Cured Deer Hide&lt;/a&gt; / - 1 × &lt;a href="Cured Black Bear Hide"&gt;Cured Black Bear Hide&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Bear Skin Bedroll"&gt;Bear Skin Bedroll&lt;/a&gt; | None | - 2 × &lt;a href="Cured Black Bear Hide"&gt;Cured Black Bear Hide&lt;/a&gt; / - 5 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 6 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
-| &lt;a href="Bearskin Coat"&gt;Bearskin Coat&lt;/a&gt; | None | - 2 × &lt;a href="Cured Black Bear Hide"&gt;Cured Black Bear Hide&lt;/a&gt; / - 4 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
+| [Bear Hide Bed](./Bear%20Hide%20Bed.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Cured Gut](./Cured%20Gut.md) / - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
+| [Bear Hide Rug](./Bear%20Hide%20Rug.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 5 × [Cloth](./Cloth.md) / - 6 × [Cured Gut](./Cured%20Gut.md) |
+| [Bearskin Coat](./Bearskin%20Coat.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
 
 ## Update history
 

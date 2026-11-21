@@ -41,8 +41,8 @@ Revolver Shell Casings are an ingredient in the crafting of [Revolver Ammunition
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Fishing Lure (Revolver Shell Casing)"&gt;Fishing Lure (Revolver Shell Casing)&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; / - 1 × &lt;a href="Revolver Shell Casing"&gt;Revolver Shell Casing&lt;/a&gt; |
-| &lt;a href="Revolver Cartridge"&gt;Revolver Cartridge&lt;/a&gt; | None | - 1 × &lt;a href="Bullet"&gt;Bullet&lt;/a&gt; / - 1 × &lt;a href="Revolver Shell Casing"&gt;Revolver Shell Casing&lt;/a&gt; / - 0.01 kg × &lt;a href="Can of Gunpowder"&gt;Can of Gunpowder&lt;/a&gt; |
+| [Fishing Lure (Revolver Shell Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) |
+| [Revolver Cartridge](./Revolver%20Ammunition.md) | None | - 1 × [Bullet](./Bullet.md) / - 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 0.01 kg × [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
 
 ## Notes
 

@@ -57,7 +57,7 @@ Often considered the best meat in _The Long Dark_, moose meat carries no risk of
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Moose Meat (Cooked)"&gt;Moose Meat (Cooked)&lt;/a&gt; | None | - 1.00 kg × &lt;a href="Moose Meat (Raw)"&gt;Moose Meat (Raw)&lt;/a&gt; |
+| [Moose Meat (Cooked)](./Moose%20Meat%20%28Cooked%29.md) | None | - 1.00 kg × [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) |
 
 ## Gallery
 

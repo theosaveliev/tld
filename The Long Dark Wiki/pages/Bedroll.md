@@ -63,7 +63,7 @@ As of Part 3: Frontier Comforts update for those who purchase the [Tales from th
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Improvised Down Bedroll"&gt;Improvised Down Bedroll&lt;/a&gt; | None | - 1 × &lt;a href="Bedroll"&gt;Bedroll&lt;/a&gt; / - 3 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 10 × &lt;a href="Ptarmigan Down"&gt;Ptarmigan Down&lt;/a&gt; |
+| [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) | None | - 1 × [Bedroll](./Bedroll.md) / - 3 × [Cloth](./Cloth.md) / - 10 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
 
 ## Tips
 

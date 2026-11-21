@@ -40,8 +40,8 @@ Skills
 
 Materials
 
-&lt;a href="Fishing Lure (Wire Bundle)"&gt;Fishing Lure (Wire Bundle)&lt;/a&gt;
+[Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md)
 
 None
 
-- 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; / - 1 × &lt;a href="Wires"&gt;Wires&lt;/a&gt;
+- 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Wires](./Wires.md)

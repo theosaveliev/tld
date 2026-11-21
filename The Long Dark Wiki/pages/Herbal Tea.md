@@ -57,7 +57,7 @@ Herbal Tea is packaged as a product called _Sweet Dreams Herbal Tea_.
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Cup of Herbal Tea"&gt;Cup of Herbal Tea&lt;/a&gt; | None | - 1 × &lt;a href="Herbal Tea"&gt;Herbal Tea&lt;/a&gt; / - 0.25 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; |
+| [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | None | - 1 × [Herbal Tea](./Herbal%20Tea.md) / - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
 
 ## Medical Applications
 

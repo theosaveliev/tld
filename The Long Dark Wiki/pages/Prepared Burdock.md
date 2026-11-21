@@ -54,7 +54,7 @@ _Prepared\_Burdock\_icon.png_
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| &lt;a href="Burdock Tea"&gt;Burdock Tea&lt;/a&gt; | None | - 1 × &lt;a href="Prepared Burdock"&gt;Prepared Burdock&lt;/a&gt; / - 0.25 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; |
+| [Burdock Tea](./Burdock%20Tea.md) | None | - 1 × [Prepared Burdock](./Prepared%20Burdock.md) / - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
 
 ## Update history
 

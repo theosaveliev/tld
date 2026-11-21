@@ -73,8 +73,8 @@ Skills
 
 Materials
 
-&lt;a href="Thomson Family Stew"&gt;Thomson Family Stew&lt;/a&gt;
+[Thomson Family Stew](./Thomson%20Family%20Stew.md)
 
 None
 
-- 0.30 kg × &lt;a href="Canned Corn"&gt;Canned Corn&lt;/a&gt; / - 0.40 kg × &lt;a href="Carrot"&gt;Carrot&lt;/a&gt; / - 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 2 × &lt;a href="Reishi Mushroom"&gt;Reishi Mushroom&lt;/a&gt; / - 0.40 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.05 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt;
+- 0.30 kg × [Canned Corn](./Canned%20Corn.md) / - 0.40 kg × [Carrot](./Carrot.md) / - 2 × [Potato](./Potato.md) / - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) / - 0.40 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)

@@ -875,6 +875,7 @@
 > Items used to prevent, treat, or recover from injuries, afflictions, and other medical effects.
 
 - [First Aid](https://thelongdark.fandom.com/wiki/First_Aid)
+- [First Aid Kit (tool)](https://thelongdark.fandom.com/wiki/First_Aid_Kit_(tool))
 
 ### Preventative
 
@@ -977,7 +978,7 @@
 
 ### Bedrolls & Sleeping Gear
 
-> Bedrolls and deployable shelters used for sleeping and taking shelter.
+> Portable items used for sleeping, including bedrolls and deployable shelters.
 
 - [Bear Skin Bedroll](https://thelongdark.fandom.com/wiki/Bear_Skin_Bedroll)
 - [Bedroll](https://thelongdark.fandom.com/wiki/Bedroll)
@@ -986,7 +987,7 @@
 
 ### Cooking & Containers
 
-> Portable vessels and simple tools used to prepare, store, or access food and drink.
+> Portable vessels used to prepare food and drink.
 
 - [Can](https://thelongdark.fandom.com/wiki/Can)
 - [Cooking Pot](https://thelongdark.fandom.com/wiki/Cooking_Pot)
@@ -996,7 +997,7 @@
 
 ### Fishing & Trapping Gear
 
-> Portable equipment, bait, and components used for fishing and trapping activities.
+> Portable equipment, bait, and components used for fishing and trapping.
 
 - [Fishing Bait](https://thelongdark.fandom.com/wiki/Fishing_Bait)
 - [Fishing Lure (Acorns)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(Acorns))
@@ -1030,7 +1031,7 @@
 
 ### Repair & Crafting Equipment
 
-> Portable tools used to repair, maintain, sharpen, or craft equipment. Fixed workstations are grouped separately under Workbenches & Crafting Stations.
+> Portable tools used to repair, maintain, sharpen, or craft equipment.
 
 - [Firearm Cleaning Kit](https://thelongdark.fandom.com/wiki/Firearm_Cleaning_Kit)
 - [Quality Tools](https://thelongdark.fandom.com/wiki/Quality_Tools)
@@ -1041,8 +1042,6 @@
 
 ### Photography
 
-> Camera equipment and film used to take and process photographs.
-
 - [Camera](https://thelongdark.fandom.com/wiki/Camera)
 - [FastFilm-500](https://thelongdark.fandom.com/wiki/FastFilm-500)
 - [FastFilm-500BW](https://thelongdark.fandom.com/wiki/FastFilm-500BW)
@@ -1052,9 +1051,7 @@
 
 > Portable equipment used for exploration, navigation, access, and other field tasks.
 
-- [Astrid's Backpack](https://thelongdark.fandom.com/wiki/Astrid's_Backpack)
 - [Charcoal](https://thelongdark.fandom.com/wiki/Charcoal)
-- [First Aid Kit (tool)](https://thelongdark.fandom.com/wiki/First_Aid_Kit_(tool))
 - [Handheld Shortwave Radio](https://thelongdark.fandom.com/wiki/Handheld_Shortwave_Radio)
 - [Spray Paint](https://thelongdark.fandom.com/wiki/Spray_Paint)
 - [Spray Paint - Glyph](https://thelongdark.fandom.com/wiki/Spray_Paint_-_Glyph)
@@ -1467,6 +1464,7 @@
 - [Alice McLeod's Journal 01](https://thelongdark.fandom.com/wiki/Alice_McLeod's_Journal_01)
 - [An Old Logbook](https://thelongdark.fandom.com/wiki/An_Old_Logbook)
 - [Archival Report](https://thelongdark.fandom.com/wiki/Archival_Report)
+- [Astrid's Backpack](https://thelongdark.fandom.com/wiki/Astrid's_Backpack)
 - [Astrid's Hardcase](https://thelongdark.fandom.com/wiki/Astrid's_Hardcase)
 - [Aurora Hatch Door Entry Code](https://thelongdark.fandom.com/wiki/Aurora_Hatch_Door_Entry_Code)
 - [Aurora Observations](https://thelongdark.fandom.com/wiki/Aurora_Observations)

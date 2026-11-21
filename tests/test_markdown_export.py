@@ -407,3 +407,67 @@ def test_export_preserves_rendered_html_when_gfm_conversion_fails(
     assert not output.startswith("> ")
     assert expansion_errors == 0
     assert conversion_errors == 0
+
+
+def test_export_renders_original_source_if_expanded_wikitext_stays_invalid(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    class FakeContext:
+        def start_page(self, title: str) -> None:
+            pass
+
+        def expand(self, text: str, timeout: int) -> str:
+            return text
+
+    mediawiki_html_inputs: list[str] = []
+
+    def fake_pandoc(
+        _pandoc: str, text: str, source_format: str, target_format: str
+    ) -> str:
+        if source_format == "mediawiki" and target_format == "html":
+            mediawiki_html_inputs.append(text)
+            if text == "original source":
+                return "<p>Original source prose</p>"
+            raise RuntimeError(
+                "Pandoc conversion failed: Error at (line 4, column 1): "
+                "unexpected end of input"
+            )
+        assert (source_format, target_format) == ("html", "gfm")
+        return "Original source prose"
+
+    def preprocess(*_args: object) -> str:
+        return """{| class="infobox"
+| malformed expansion"""
+
+    monkeypatch.setattr(markdown_export_module, "_run_pandoc", fake_pandoc)
+    pages_dir = tmp_path / "pages"
+    pages_dir.mkdir()
+
+    result, expansion_errors, conversion_errors = _export_one_page(
+        DumpPage("Sample", 0, "wikitext", "original source", None),
+        {"Sample": "Sample.md"},
+        FakeContext(),
+        preprocess,
+        lambda text, _categories, _stats: text,
+        {},
+        "pandoc",
+        {},
+        {},
+        None,
+        pages_dir,
+        tmp_path / "assets",
+        {},
+        {},
+        set(),
+        set(),
+        set(),
+        None,
+    )
+
+    output = (pages_dir / "Sample.md").read_text(encoding="utf-8")
+    assert result["status"] == "raw_fallback"
+    assert len(mediawiki_html_inputs) == 3
+    assert "Original source prose" in output
+    assert not output.startswith("> ")
+    assert expansion_errors == 0
+    assert conversion_errors == 0

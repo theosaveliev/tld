@@ -566,9 +566,9 @@ def _rewrite_image_nodes(
     for image in list(root.iter("img")):
         source_name = image.get("src", "")
         image.set("loading", "lazy")
-        if image.get("title") and (
-            normalize_image_name(image.get("title"))
-            == normalize_image_name(source_name)
+        image_title = image.get("title")
+        if image_title and normalize_image_name(image_title) == normalize_image_name(
+            source_name
         ):
             image.attrib.pop("title")
 

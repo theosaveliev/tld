@@ -93,6 +93,31 @@ class RenderStats(TypedDict):
     unrendered: int
 
 
+@dataclass(slots=True)
+class PageExportResources:
+    """Resources shared by the rendering and HTML-rewrite stages."""
+
+    title_to_filename: dict[str, str]
+    redirects: dict[str, str]
+    image_index: dict[str, Path]
+    image_dir: Path | None
+    asset_dir: Path
+    copied_images: dict[Path, str]
+    used_asset_names: dict[str, Path]
+    missing_links: set[str]
+    missing_images: set[str]
+
+
+@dataclass(slots=True)
+class PageConversion:
+    """Markdown body and diagnostics produced while exporting one page."""
+
+    markdown_body: str
+    status: str
+    note: str = ""
+    conversion_errors: int = 0
+
+
 class WikiContext(Protocol):
     """Methods used from wikitextprocessor's Wtp context."""
 
@@ -491,6 +516,51 @@ def _run_pandoc(binary: str, text: str, source_format: str, target_format: str) 
     return result.stdout.strip()
 
 
+def _strip_wikitext_comments(line: str, in_comment: bool) -> tuple[str, bool]:
+    """Remove comments from one line while tracking multiline comment state."""
+    visible = line
+    if in_comment:
+        _, separator, visible = visible.partition("-->")
+        if not separator:
+            return "", True
+        in_comment = False
+
+    while "<!--" in visible:
+        before, _, remainder = visible.partition("<!--")
+        _, separator, after = remainder.partition("-->")
+        visible = before + after if separator else before
+        if not separator:
+            in_comment = True
+            break
+    return visible, in_comment
+
+
+def _strip_wikitext_literal_content(
+    line: str, literal_tag: str | None
+) -> tuple[str, str | None]:
+    """Remove nowiki-like content and track a tag spanning multiple lines."""
+    visible = line
+    if literal_tag is not None:
+        closing = re.search(rf"</{re.escape(literal_tag)}\s*>", visible, re.I)
+        if closing is None:
+            return "", literal_tag
+        visible = visible[closing.end() :]
+
+    opening = re.search(
+        r"<(nowiki|pre|source|syntaxhighlight)\b[^>]*>", visible, re.I
+    )
+    if opening is None:
+        return visible, None
+
+    tag = opening.group(1)
+    closing = re.search(rf"</{re.escape(tag)}\s*>", visible[opening.end() :], re.I)
+    if closing is None:
+        return visible[: opening.start()], tag
+
+    closing_end = opening.end() + closing.end()
+    return visible[: opening.start()] + visible[closing_end:], None
+
+
 def _repair_unclosed_mediawiki_tables(text: str) -> tuple[str, int]:
     """Close unterminated top-level MediaWiki table blocks before retrying Pandoc.
 
@@ -503,46 +573,11 @@ def _repair_unclosed_mediawiki_tables(text: str) -> tuple[str, int]:
     literal_tag: str | None = None
 
     for line in text.splitlines():
-        visible = line
-
-        if in_comment:
-            _, separator, visible = visible.partition("-->")
-            if not separator:
-                continue
-            in_comment = False
-
-        while "<!--" in visible:
-            before, _, remainder = visible.partition("<!--")
-            _, separator, after = remainder.partition("-->")
-            visible = before + after if separator else before
-            if not separator:
-                in_comment = True
-                break
+        visible, in_comment = _strip_wikitext_comments(line, in_comment)
         if in_comment:
             continue
 
-        if literal_tag is not None:
-            closing = re.search(rf"</{re.escape(literal_tag)}\s*>", visible, re.I)
-            if closing is None:
-                continue
-            visible = visible[closing.end() :]
-            literal_tag = None
-
-        opening = re.search(
-            r"<(nowiki|pre|source|syntaxhighlight)\b[^>]*>", visible, re.I
-        )
-        if opening is not None:
-            tag = opening.group(1)
-            closing = re.search(
-                rf"</{re.escape(tag)}\s*>", visible[opening.end() :], re.I
-            )
-            if closing is None:
-                visible = visible[: opening.start()]
-                literal_tag = tag
-            else:
-                closing_end = opening.end() + closing.end()
-                visible = visible[: opening.start()] + visible[closing_end:]
-
+        visible, literal_tag = _strip_wikitext_literal_content(visible, literal_tag)
         marker = visible.lstrip()
         if marker.startswith("{|"):
             depth += 1
@@ -555,7 +590,6 @@ def _repair_unclosed_mediawiki_tables(text: str) -> tuple[str, int]:
     suffix = "\n".join("|}" for _ in range(depth))
     repaired = text.rstrip() + "\n" + suffix + "\n"
     return repaired, depth
-
 
 def _build_image_index(image_dir: Path | None) -> dict[str, Path]:
     """Index image assets by normalized basename."""
@@ -902,6 +936,179 @@ def _markdown_label(title: str) -> str:
     )
 
 
+def _expand_page(
+    page: DumpPage,
+    context: WikiContext,
+    preprocess: PreprocessFunction,
+    infobox_defs: Mapping[str, object],
+    stats: RenderStats,
+) -> tuple[str, str, int]:
+    """Expand one page, retaining its source and recording expansion failures."""
+    expanded = page.text
+    if page.model != "wikitext":
+        return expanded, "", 0
+
+    try:
+        context.start_page(page.title)
+        expanded = preprocess(page.text, context, infobox_defs, page.title, stats)
+    except Exception as exc:
+        return expanded, str(exc)[:300], 1
+
+    try:
+        with contextlib.redirect_stdout(io.StringIO()):
+            expanded = context.expand(expanded, timeout=30)
+    except Exception as exc:
+        return expanded, str(exc)[:300], 1
+    return expanded, "", 0
+
+
+def _render_mediawiki_html(
+    page: DumpPage, expanded: str, pandoc: str
+) -> tuple[str, str, str]:
+    """Render expanded wikitext, repairing open tables or using source text."""
+    conversion_stage = "Pandoc MediaWiki-to-HTML"
+    try:
+        html_fragment = _run_pandoc(pandoc, expanded, "mediawiki", "html")
+    except Exception as initial_error:
+        repaired_text, repaired_tables = _repair_unclosed_mediawiki_tables(expanded)
+        if "unexpected end of input" in str(initial_error).casefold() and repaired_tables:
+            try:
+                html_fragment = _run_pandoc(
+                    pandoc, repaired_text, "mediawiki", "html"
+                )
+            except Exception as repair_error:
+                conversion_note = (
+                    f"{conversion_stage} still failed after closing "
+                    f"{repaired_tables} unterminated table(s): {repair_error}"
+                )
+            else:
+                conversion_note = (
+                    "Recovered from Pandoc's unexpected end of input by "
+                    f"closing {repaired_tables} unterminated MediaWiki table(s)."
+                )
+                return html_fragment, "repaired", conversion_note
+        else:
+            conversion_note = (
+                f"{conversion_stage} rejected expanded wikitext: {initial_error}"
+            )
+
+        html_fragment = _run_pandoc(pandoc, page.text, "mediawiki", "html")
+        conversion_note = (
+            f"{conversion_note} Used the unexpanded source as a fallback."
+        )
+        return html_fragment, "raw_fallback", conversion_note
+
+    return html_fragment, "ok", ""
+
+
+def _rewrite_page_html(
+    html_fragment: str, page: DumpPage, resources: PageExportResources, note: str
+) -> tuple[str, str, bool]:
+    """Rewrite page links and images, retaining HTML if rewriting fails."""
+    try:
+        rewritten_html = _rewrite_html_links(
+            html_fragment,
+            page.title,
+            resources.title_to_filename,
+            resources.redirects,
+            resources.image_index,
+            resources.image_dir,
+            resources.asset_dir,
+            resources.copied_images,
+            resources.used_asset_names,
+            resources.missing_links,
+            resources.missing_images,
+        )
+    except Exception as rewrite_error:
+        note = (
+            f"{note} HTML link/image rewriting failed; kept the "
+            f"Pandoc HTML fragment: {rewrite_error}"
+        ).strip()
+        return html_fragment, note, True
+    return rewritten_html, note, False
+
+
+def _convert_html_to_markdown(
+    pandoc: str, rewritten_html: str, note: str
+) -> tuple[str, str, bool]:
+    """Convert rewritten HTML to GFM, retaining raw HTML on conversion errors."""
+    try:
+        markdown_body = _run_pandoc(pandoc, rewritten_html, "html", "gfm")
+    except Exception as markdown_error:
+        note = (
+            f"{note} HTML-to-Markdown conversion failed; kept "
+            f"rendered HTML: {markdown_error}"
+        ).strip()
+        return rewritten_html, note, True
+    return markdown_body, note, False
+
+
+def _source_markdown_fallback(
+    page: DumpPage, pandoc: str, conversion_stage: str, error: Exception
+) -> PageConversion:
+    """Use direct source-to-Markdown conversion as the last recovery path."""
+    conversion_stage_error = f"{conversion_stage} failed: {error}"
+    try:
+        markdown_body = _run_pandoc(pandoc, page.text, "mediawiki", "gfm")
+    except Exception as fallback_error:
+        markdown_body = "\n".join("> " + line for line in page.text.splitlines())
+        return PageConversion(
+            markdown_body=markdown_body,
+            status="conversion_failed",
+            note=(
+                f"{conversion_stage_error}; source fallback failed: {fallback_error}"
+            ),
+            conversion_errors=1,
+        )
+    return PageConversion(
+        markdown_body=markdown_body,
+        status="raw_fallback",
+        note=f"{conversion_stage_error} Direct source-to-Markdown fallback used.",
+    )
+
+
+def _convert_page_body(
+    page: DumpPage,
+    expanded: str,
+    expansion_error: str,
+    pandoc: str,
+    postprocess: PostprocessFunction,
+    categories: list[str],
+    stats: RenderStats,
+    resources: PageExportResources,
+    categories_seen: set[str],
+) -> PageConversion:
+    """Run postprocessing and conversion, falling back at each recoverable stage."""
+    conversion_stage = "post-expansion cleanup"
+    try:
+        expanded = postprocess(expanded, categories, stats)
+        categories[:] = sorted(set(categories), key=str.casefold)
+        categories_seen.update(categories)
+
+        conversion_stage = "Pandoc MediaWiki-to-HTML"
+        html_fragment, status, note = _render_mediawiki_html(page, expanded, pandoc)
+
+        conversion_stage = "HTML link and image rewriting"
+        rewritten_html, note, rewrite_failed = _rewrite_page_html(
+            html_fragment, page, resources, note
+        )
+        if rewrite_failed:
+            status = "html_fallback"
+
+        conversion_stage = "Pandoc HTML-to-GFM"
+        markdown_body, note, markdown_failed = _convert_html_to_markdown(
+            pandoc, rewritten_html, note
+        )
+        if markdown_failed:
+            status = "html_fallback"
+
+        if expansion_error and status == "ok":
+            status = "expand_failed"
+        return PageConversion(markdown_body, status, note)
+    except Exception as exc:
+        return _source_markdown_fallback(page, pandoc, conversion_stage, exc)
+
+
 def _export_one_page(
     page: DumpPage,
     title_to_filename: dict[str, str],
@@ -923,13 +1130,7 @@ def _export_one_page(
     source_url: str | None,
 ) -> tuple[PageExportResult, int, int]:
     """Expand and convert one article, recovering gracefully from parser failures."""
-    title_key = normalize_title(page.title)
-    filename = title_to_filename[title_key]
-    expansion_error = ""
-    conversion_note = ""
-    conversion_stage = "wikitext preprocessing"
-    conversion_status = "ok"
-    expanded = page.text
+    filename = title_to_filename[normalize_title(page.title)]
     stats: RenderStats = {
         "infoboxes": 0,
         "missing_templates": [],
@@ -939,159 +1140,52 @@ def _export_one_page(
         "unrendered": 0,
     }
     categories: list[str] = []
-    expansion_errors = 0
-    conversion_errors = 0
+    resources = PageExportResources(
+        title_to_filename=title_to_filename,
+        redirects=redirects,
+        image_index=image_index,
+        image_dir=image_dir,
+        asset_dir=asset_dir,
+        copied_images=copied_images,
+        used_asset_names=used_asset_names,
+        missing_links=missing_links,
+        missing_images=missing_images,
+    )
 
-    if page.model == "wikitext":
-        try:
-            context.start_page(page.title)
-            expanded = preprocess(page.text, context, infobox_defs, page.title, stats)
-        except Exception as exc:
-            expansion_errors = 1
-            expansion_error = str(exc)[:300]
-        else:
-            try:
-                with contextlib.redirect_stdout(io.StringIO()):
-                    expanded = context.expand(expanded, timeout=30)
-            except Exception as exc:
-                expansion_errors = 1
-                expansion_error = str(exc)[:300]
-
-    try:
-        conversion_stage = "post-expansion cleanup"
-        expanded = postprocess(expanded, categories, stats)
-        categories = sorted(set(categories), key=str.casefold)
-        categories_seen.update(categories)
-
-        conversion_stage = "Pandoc MediaWiki-to-HTML"
-        try:
-            html_fragment = _run_pandoc(pandoc, expanded, "mediawiki", "html")
-        except Exception as initial_error:
-            repaired_text, repaired_tables = _repair_unclosed_mediawiki_tables(
-                expanded
-            )
-            if (
-                "unexpected end of input" in str(initial_error).casefold()
-                and repaired_tables
-            ):
-                try:
-                    html_fragment = _run_pandoc(
-                        pandoc, repaired_text, "mediawiki", "html"
-                    )
-                except Exception as repair_error:
-                    conversion_note = (
-                        f"{conversion_stage} still failed after closing "
-                        f"{repaired_tables} unterminated table(s): {repair_error}"
-                    )
-                else:
-                    expanded = repaired_text
-                    conversion_status = "repaired"
-                    conversion_note = (
-                        "Recovered from Pandoc's unexpected end of input by "
-                        f"closing {repaired_tables} unterminated MediaWiki table(s)."
-                    )
-            else:
-                conversion_note = (
-                    f"{conversion_stage} rejected expanded wikitext: "
-                    f"{initial_error}"
-                )
-
-            if conversion_status != "repaired":
-                # The original source is often still parseable when an expanded
-                # template has emitted malformed table syntax. Keep its prose and
-                # links instead of replacing the entire page with a blockquote.
-                conversion_stage = "Pandoc source-wikitext fallback"
-                html_fragment = _run_pandoc(
-                    pandoc, page.text, "mediawiki", "html"
-                )
-                conversion_status = "raw_fallback"
-                conversion_note = (
-                    f"{conversion_note} Used the unexpanded source as a fallback."
-                )
-
-        conversion_stage = "HTML link and image rewriting"
-        try:
-            rewritten_html = _rewrite_html_links(
-                html_fragment,
-                page.title,
-                title_to_filename,
-                redirects,
-                image_index,
-                image_dir,
-                asset_dir,
-                copied_images,
-                used_asset_names,
-                missing_links,
-                missing_images,
-            )
-        except Exception as rewrite_error:
-            # Preserve the actual rendered article even if one post-processing
-            # rewrite encounters unexpected HTML from a template.
-            rewritten_html = html_fragment
-            conversion_status = "html_fallback"
-            conversion_note = (
-                f"{conversion_note} HTML link/image rewriting failed; kept the "
-                f"Pandoc HTML fragment: {rewrite_error}"
-            ).strip()
-
-        conversion_stage = "Pandoc HTML-to-GFM"
-        try:
-            markdown_body = _run_pandoc(pandoc, rewritten_html, "html", "gfm")
-        except Exception as markdown_error:
-            # Raw HTML is valid in Markdown and renders far better than quoting
-            # the original, unexpanded wikitext as a blockquote.
-            markdown_body = rewritten_html
-            conversion_status = "html_fallback"
-            conversion_note = (
-                f"{conversion_note} HTML-to-Markdown conversion failed; kept "
-                f"rendered HTML: {markdown_error}"
-            ).strip()
-
-        if expansion_error and conversion_status == "ok":
-            status = "expand_failed"
-        else:
-            status = conversion_status
-    except Exception as exc:
-        conversion_stage_error = f"{conversion_stage} failed: {exc}"
-        try:
-            # Last-resort fallback: ask Pandoc to render the source wikitext
-            # directly. This retains headings, lists, links and prose.
-            markdown_body = _run_pandoc(pandoc, page.text, "mediawiki", "gfm")
-            status = "raw_fallback"
-            conversion_note = (
-                f"{conversion_stage_error} Direct source-to-Markdown fallback used."
-            )
-        except Exception as fallback_error:
-            conversion_errors = 1
-            markdown_body = "\n".join(
-                "> " + line for line in page.text.splitlines()
-            )
-            status = "conversion_failed"
-            conversion_note = (
-                f"{conversion_stage_error}; source fallback failed: {fallback_error}"
-            )
-
+    expanded, expansion_error, expansion_errors = _expand_page(
+        page, context, preprocess, infobox_defs, stats
+    )
+    conversion = _convert_page_body(
+        page,
+        expanded,
+        expansion_error,
+        pandoc,
+        postprocess,
+        categories,
+        stats,
+        resources,
+        categories_seen,
+    )
     if expansion_error:
-        conversion_note = (
-            f"{conversion_note} {expansion_error}".strip()
-            if conversion_note
+        conversion.note = (
+            f"{conversion.note} {expansion_error}".strip()
+            if conversion.note
             else expansion_error
         )
 
-    document = _page_markdown(page.title, categories, markdown_body, source_url)
+    document = _page_markdown(page.title, categories, conversion.markdown_body, source_url)
     (pages_dir / filename).write_text(document, encoding="utf-8")
     result: PageExportResult = {
         "title": page.title,
         "filename": filename,
-        "status": status,
+        "status": conversion.status,
         "categories": len(categories),
         "infoboxes": stats["infoboxes"],
         "infoboxes_unconverted": stats["infobox_left"],
         "missing_templates": sorted(set(stats["missing_templates"]), key=str.casefold),
-        "error": conversion_note[:1000],
+        "error": conversion.note[:1000],
     }
-    return result, expansion_errors, conversion_errors
-
+    return result, expansion_errors, conversion.conversion_errors
 
 def _write_workspace_index(
     page_results: list[PageExportResult], output_dir: Path

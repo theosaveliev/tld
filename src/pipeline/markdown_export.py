@@ -62,6 +62,29 @@ class ExportReport(TypedDict):
     missing_images: list[str]
 
 
+class ExportState(TypedDict):
+    title_to_filename: dict[str, str]
+    context: Any
+    articles: list[DumpPage]
+    redirects: dict[str, str]
+    preprocess: Any
+    postprocess: Any
+    infobox_defs: Any
+    pandoc: str
+    image_index: dict[str, Path]
+    image_dir: Path | None
+    pages_dir: Path
+    asset_dir: Path
+    copied_images: dict[Path, str]
+    used_asset_names: dict[str, Path]
+    missing_links: set[str]
+    missing_images: set[str]
+    page_results: list[PageExportResult]
+    categories_seen: set[str]
+    expansion_errors: int
+    conversion_errors: int
+
+
 @dataclass(frozen=True, slots=True)
 class DumpPage:
     """A page extracted from one XML dump record."""
@@ -686,27 +709,25 @@ def _write_conversion_report(report: ExportReport, output_dir: Path) -> None:
     )
 
 
-def export_dump_to_markdown(
+def _prepare_export(
     dump_path: Path,
     mapping_path: Path,
     output_dir: Path,
-    *,
-    image_dir: Path | None = None,
-    source_url: str | None = "https://thelongdark.fandom.com",
-) -> ExportReport:
-    """Convert a dump into linked Markdown files using the audited filename map."""
+    image_dir: Path | None,
+) -> ExportState:
+    """Load the dump context and initialize resources for the export."""
     title_to_filename = load_filename_mapping(mapping_path)
     renderer = importlib.import_module("pipeline.wiki_to_html")
-    load_infobox_defs = getattr(renderer, "load_infobox_defs")
     preprocess = getattr(renderer, "prepass")
     postprocess = getattr(renderer, "postexpand")
+    load_infobox_defs = getattr(renderer, "load_infobox_defs")
     pandoc_selftest = getattr(renderer, "pandoc_selftest")
     context, articles, redirects = _load_wiki_context(dump_path)
     infobox_defs = load_infobox_defs(context)
 
     article_titles = {normalize_title(page.title) for page in articles}
-    missing_mappings = sorted(article_titles - title_to_filename.keys())
-    extra_mappings = sorted(title_to_filename.keys() - article_titles)
+    missing_mappings = article_titles - title_to_filename.keys()
+    extra_mappings = title_to_filename.keys() - article_titles
     if missing_mappings or extra_mappings:
         raise ValueError(
             "Filename mapping does not match this dump. "
@@ -717,60 +738,87 @@ def export_dump_to_markdown(
     pages_dir = output_dir / "pages"
     asset_dir = output_dir / "assets"
     pages_dir.mkdir(parents=True, exist_ok=True)
-    image_index = _build_image_index(image_dir)
     pandoc = _pandoc_path()
     pandoc_selftest(pandoc)
 
-    copied_images: dict[Path, str] = {}
-    used_asset_names: dict[str, Path] = {}
-    missing_links: set[str] = set()
-    missing_images: set[str] = set()
-    page_results: list[PageExportResult] = []
-    categories_seen: set[str] = set()
-    expansion_errors = 0
-    conversion_errors = 0
+    return {
+        "title_to_filename": title_to_filename,
+        "context": context,
+        "articles": articles,
+        "redirects": redirects,
+        "preprocess": preprocess,
+        "postprocess": postprocess,
+        "infobox_defs": infobox_defs,
+        "pandoc": pandoc,
+        "image_index": _build_image_index(image_dir),
+        "image_dir": image_dir,
+        "pages_dir": pages_dir,
+        "asset_dir": asset_dir,
+        "copied_images": {},
+        "used_asset_names": {},
+        "missing_links": set(),
+        "missing_images": set(),
+        "page_results": [],
+        "categories_seen": set(),
+        "expansion_errors": 0,
+        "conversion_errors": 0,
+    }
 
-    for page in sorted(articles, key=lambda item: item.title.casefold()):
+
+def export_dump_to_markdown(
+    dump_path: Path,
+    mapping_path: Path,
+    output_dir: Path,
+    *,
+    image_dir: Path | None = None,
+    source_url: str | None = "https://thelongdark.fandom.com",
+) -> ExportReport:
+    """Convert a dump into linked Markdown files using the audited filename map."""
+    state = _prepare_export(dump_path, mapping_path, output_dir, image_dir)
+
+    for page in sorted(
+        state["articles"], key=lambda item: item.title.casefold()
+    ):
         result, page_expansion_errors, page_conversion_errors = _export_one_page(
             page,
-            title_to_filename,
-            context,
-            preprocess,
-            postprocess,
-            infobox_defs,
-            pandoc,
-            redirects,
-            image_index,
-            image_dir,
-            pages_dir,
-            asset_dir,
-            copied_images,
-            used_asset_names,
-            missing_links,
-            missing_images,
-            categories_seen,
+            state["title_to_filename"],
+            state["context"],
+            state["preprocess"],
+            state["postprocess"],
+            state["infobox_defs"],
+            state["pandoc"],
+            state["redirects"],
+            state["image_index"],
+            state["image_dir"],
+            state["pages_dir"],
+            state["asset_dir"],
+            state["copied_images"],
+            state["used_asset_names"],
+            state["missing_links"],
+            state["missing_images"],
+            state["categories_seen"],
             source_url,
         )
-        page_results.append(result)
-        expansion_errors += page_expansion_errors
-        conversion_errors += page_conversion_errors
+        state["page_results"].append(result)
+        state["expansion_errors"] += page_expansion_errors
+        state["conversion_errors"] += page_conversion_errors
 
-    _write_workspace_index(page_results, output_dir)
+    _write_workspace_index(state["page_results"], output_dir)
     summary: ExportSummary = {
-        "article_pages": len(articles),
-        "exported_pages": len(page_results),
-        "redirects": len(redirects),
-        "expansion_errors": expansion_errors,
-        "conversion_errors": conversion_errors,
-        "unresolved_links": len(missing_links),
-        "missing_images": len(missing_images),
-        "categories": len(categories_seen),
+        "article_pages": len(state["articles"]),
+        "exported_pages": len(state["page_results"]),
+        "redirects": len(state["redirects"]),
+        "expansion_errors": state["expansion_errors"],
+        "conversion_errors": state["conversion_errors"],
+        "unresolved_links": len(state["missing_links"]),
+        "missing_images": len(state["missing_images"]),
+        "categories": len(state["categories_seen"]),
     }
     report: ExportReport = {
         "summary": summary,
-        "pages": page_results,
-        "unresolved_links": sorted(missing_links),
-        "missing_images": sorted(missing_images),
+        "pages": state["page_results"],
+        "unresolved_links": sorted(state["missing_links"]),
+        "missing_images": sorted(state["missing_images"]),
     }
     _write_conversion_report(report, output_dir)
     return report

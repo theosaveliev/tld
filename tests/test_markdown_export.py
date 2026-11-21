@@ -23,8 +23,8 @@ from pipeline.markdown_export import (
     _page_markdown,  # pyright: ignore[reportPrivateUsage]
     _portable_asset_name,  # pyright: ignore[reportPrivateUsage]
     _render_mediawiki_html,  # pyright: ignore[reportPrivateUsage]
-    _restore_deferred_material_tables_in_html,  # pyright: ignore[reportPrivateUsage]
     _repair_unclosed_mediawiki_tables,  # pyright: ignore[reportPrivateUsage]
+    _restore_deferred_material_tables_in_html,  # pyright: ignore[reportPrivateUsage]
     _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
     load_filename_mapping,
     normalize_image_name,

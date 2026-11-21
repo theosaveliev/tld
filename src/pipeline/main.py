@@ -250,11 +250,7 @@ def audit_filenames(
     help="Base URL recorded in each article's source metadata.",
 )
 def export_markdown(
-    wiki_dump: Path,
-    mapping: Path,
-    output_dir: Path,
-    image_dir: Path,
-    source_url: str,
+    wiki_dump: Path, mapping: Path, output_dir: Path, image_dir: Path, source_url: str
 ) -> None:
     """Export main-namespace wiki articles into a linked Markdown workspace."""
     report = export_dump_to_markdown(

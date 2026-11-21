@@ -42,10 +42,7 @@ def test_portable_asset_name_sanitizes_and_limits_image_names() -> None:
 
 
 def test_resolve_internal_href_rewrites_local_page_links() -> None:
-    mapping = {
-        "Main Page": "Main Page.md",
-        "Bear": "Bear.md",
-    }
+    mapping = {"Main Page": "Main Page.md", "Bear": "Bear.md"}
 
     assert (
         resolve_internal_href("Bear#Habitat", "Main Page", mapping, {})
@@ -72,9 +69,7 @@ def test_resolve_internal_href_preserves_external_links() -> None:
     mapping = {"Main Page": "Main Page.md"}
 
     assert (
-        resolve_internal_href(
-            "https://example.com/page", "Main Page", mapping, {}
-        )
+        resolve_internal_href("https://example.com/page", "Main Page", mapping, {})
         == "https://example.com/page"
     )
     assert (
@@ -264,4 +259,3 @@ def test_html_rewriter_restores_infoboxes_thumbnails_and_section_ids(
     assert (asset_dir / "Bear.png").read_bytes() == b"image"
     assert missing_links == set()
     assert missing_images == set()
-

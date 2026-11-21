@@ -124,9 +124,7 @@ class PreprocessFunction(Protocol):
 class PostprocessFunction(Protocol):
     """Fandom post-expansion function signature."""
 
-    def __call__(
-        self, text: str, categories: list[str], stats: RenderStats
-    ) -> str: ...
+    def __call__(self, text: str, categories: list[str], stats: RenderStats) -> str: ...
 
 
 class ExportState(TypedDict):
@@ -151,7 +149,6 @@ class ExportState(TypedDict):
     categories_seen: set[str]
     expansion_errors: int
     conversion_errors: int
-
 
 
 def normalize_title(title: str) -> str:
@@ -285,26 +282,19 @@ def resolve_internal_href(
             raw_target = raw_target.removeprefix("./").removeprefix("/")
             fragment = urllib.parse.unquote(parsed.fragment).replace(" ", "_")
             if not raw_target:
-                destination = (
-                    "#" + _safe_destination(fragment) if fragment else None
-                )
+                destination = "#" + _safe_destination(fragment) if fragment else None
             else:
                 destination = _resolve_page_destination(
-                    raw_target,
-                    fragment,
-                    current_title,
-                    title_to_filename,
-                    redirects,
+                    raw_target, fragment, current_title, title_to_filename, redirects
                 )
     return destination
-
 
 
 def _read_mapping_entry(entry: object) -> tuple[str, str]:
     """Validate a raw mapping object and return its title and filename."""
     if not isinstance(entry, dict):
         raise ValueError("Every filename mapping entry must be an object.")
-    mapping = cast(dict[str, object], entry)
+    mapping = cast("dict[str, object]", entry)
     title = mapping.get("title")
     filename = mapping.get("filename")
     if not isinstance(title, str) or not isinstance(filename, str):
@@ -326,9 +316,7 @@ def _validate_mapping_filename(
     if invalid_name:
         raise ValueError(f"Unsafe Markdown filename for {title!r}: {filename!r}")
     if len(filename.encode("utf-8")) > MAX_FILENAME_BYTES:
-        raise ValueError(
-            f"Filename exceeds {MAX_FILENAME_BYTES} bytes: {filename!r}"
-        )
+        raise ValueError(f"Filename exceeds {MAX_FILENAME_BYTES} bytes: {filename!r}")
     if any(unicodedata.category(char) == "Cc" for char in filename):
         raise ValueError(f"Filename contains control characters: {filename!r}")
 
@@ -344,27 +332,24 @@ def load_filename_mapping(path: Path) -> dict[str, str]:
     raw_data = json.loads(path.read_text(encoding="utf-8"))
     if not isinstance(raw_data, dict):
         raise ValueError("Filename mapping JSON must contain a top-level object.")
-    data = cast(dict[str, object], raw_data)
+    data = cast("dict[str, object]", raw_data)
     entries = data.get("mappings")
     if not isinstance(entries, list):
         raise ValueError("Filename mapping JSON must contain a 'mappings' list.")
 
     title_to_filename: dict[str, str] = {}
     used_filenames: dict[str, str] = {}
-    for entry in cast(list[object], entries):
+    for entry in cast("list[object]", entries):
         title, filename = _read_mapping_entry(entry)
         normalized_title = normalize_title(title)
         if normalized_title in title_to_filename:
             raise ValueError(f"Duplicate normalized page title: {title!r}")
 
-        collision_key = _validate_mapping_filename(
-            title, filename, used_filenames
-        )
+        collision_key = _validate_mapping_filename(title, filename, used_filenames)
         title_to_filename[normalized_title] = filename
         used_filenames[collision_key] = filename
 
     return title_to_filename
-
 
 
 def _xml_local_name(element: Element) -> str:
@@ -383,16 +368,12 @@ def _read_slot(slot: Element, model: str, text: str) -> tuple[str, str]:
     return model, text
 
 
-def _read_revision(
-    revision: Element, model: str, text: str
-) -> tuple[str, str]:
+def _read_revision(revision: Element, model: str, text: str) -> tuple[str, str]:
     """Read legacy revision fields or slot-based revision content."""
     for child in revision:
         tag = _xml_local_name(child)
         if tag == "slots":
-            slots = [
-                slot for slot in child if _xml_local_name(slot) == "slot"
-            ]
+            slots = [slot for slot in child if _xml_local_name(slot) == "slot"]
             main_slot = next(
                 (slot for slot in slots if slot.get("role") == "main"),
                 slots[0] if slots else None,
@@ -483,9 +464,9 @@ def _pandoc_path() -> str:
     """Find Pandoc bundled by pypandoc-binary or installed on PATH."""
     try:
         pypandoc = importlib.import_module("pypandoc")
-        get_pandoc_path = getattr(pypandoc, "get_pandoc_path")
+        get_pandoc_path = pypandoc.get_pandoc_path
         return str(get_pandoc_path())
-    except (ImportError, OSError, RuntimeError):
+    except ImportError, OSError, RuntimeError:
         binary = shutil.which("pandoc")
         if binary is None:
             raise RuntimeError(
@@ -494,27 +475,13 @@ def _pandoc_path() -> str:
         return binary
 
 
-def _run_pandoc(
-    binary: str, text: str, source_format: str, target_format: str
-) -> str:
+def _run_pandoc(binary: str, text: str, source_format: str, target_format: str) -> str:
     """Convert one document fragment with Pandoc."""
-    command = [
-        binary,
-        "--from",
-        source_format,
-        "--to",
-        target_format,
-        "--wrap=none",
-    ]
+    command = [binary, "--from", source_format, "--to", target_format, "--wrap=none"]
     if target_format == "html":
         command.append("--mathml")
     result = subprocess.run(  # noqa: S603
-        command,
-        input=text,
-        capture_output=True,
-        text=True,
-        timeout=120,
-        check=False,
+        command, input=text, capture_output=True, text=True, timeout=120, check=False
     )
     if result.returncode:
         raise RuntimeError("Pandoc conversion failed: " + result.stderr.strip()[:1000])
@@ -628,18 +595,18 @@ def _restore_thumbnail_captions(root: lhtml.HtmlElement) -> None:
             if old_caption is not None:
                 parent.remove(old_caption)
             if caption:
-                figcaption = cast(lhtml.HtmlElement, etree.Element("figcaption"))
+                figcaption = cast("lhtml.HtmlElement", etree.Element("figcaption"))
                 figcaption.text = caption
                 parent.append(figcaption)
             continue
 
-        wrapper = cast(lhtml.HtmlElement, etree.Element("span"))
+        wrapper = cast("lhtml.HtmlElement", etree.Element("span"))
         wrapper.set("class", "thumb")
         old_tail = image.tail
         image.addprevious(wrapper)
         wrapper.append(image)
         if caption:
-            caption_node = cast(lhtml.HtmlElement, etree.Element("span"))
+            caption_node = cast("lhtml.HtmlElement", etree.Element("span"))
             caption_node.set("class", "thumbcaption")
             caption_node.text = caption
             wrapper.append(caption_node)
@@ -669,7 +636,7 @@ def _add_mediawiki_heading_ids(root: lhtml.HtmlElement) -> None:
     if len(headings) < MINIMUM_HEADINGS_FOR_TOC:
         return
 
-    nav = cast(lhtml.HtmlElement, etree.Element("nav"))
+    nav = cast("lhtml.HtmlElement", etree.Element("nav"))
     nav.set("class", "toc")
     toc_heading = etree.SubElement(nav, "strong")
     toc_heading.text = "Contents"
@@ -690,7 +657,7 @@ def _add_footnote_heading(root: lhtml.HtmlElement) -> None:
             continue
         previous = section.getprevious()
         if previous is None or previous.tag not in {"h1", "h2", "h3", "h4"}:
-            heading = cast(lhtml.HtmlElement, etree.Element("h2"))
+            heading = cast("lhtml.HtmlElement", etree.Element("h2"))
             heading.text = "Notes"
             section.insert(0, heading)
 
@@ -733,7 +700,7 @@ def _rewrite_image_nodes(
         missing_images.add(normalize_image_name(source_name))
         label = image.get("alt") or ""
         caption = label[len("XTHUMB") :].strip() if label.startswith("XTHUMB") else ""
-        placeholder = cast(lhtml.HtmlElement, etree.Element("span"))
+        placeholder = cast("lhtml.HtmlElement", etree.Element("span"))
         placeholder.text = f"[Missing image: {source_name}]"
         parent = image.getparent()
         if parent is not None:
@@ -767,12 +734,7 @@ def _rewrite_anchor_nodes(
         prefix, separator, _ = raw.partition(":")
         if separator and prefix.strip().casefold() in {"file", "image", "media"}:
             output_name = _copy_image(
-                raw,
-                image_index,
-                image_dir,
-                asset_dir,
-                copied_images,
-                used_asset_names,
+                raw, image_index, image_dir, asset_dir, copied_images, used_asset_names
             )
             if output_name is None:
                 missing_images.add(normalize_image_name(raw))
@@ -841,17 +803,10 @@ def _yaml_string(value: str) -> str:
 
 
 def _page_markdown(
-    title: str,
-    categories: list[str],
-    body: str,
-    source_url: str | None,
+    title: str, categories: list[str], body: str, source_url: str | None
 ) -> str:
     """Compose front matter, article heading, and converted body."""
-    metadata = [
-        "---",
-        f"title: {_yaml_string(title)}",
-        "wiki_namespace: 0",
-    ]
+    metadata = ["---", f"title: {_yaml_string(title)}", "wiki_namespace: 0"]
     if categories:
         metadata.append("categories: " + json.dumps(categories, ensure_ascii=False))
     if source_url:
@@ -917,9 +872,7 @@ def _export_one_page(
     if page.model == "wikitext":
         try:
             context.start_page(page.title)
-            expanded = preprocess(
-                page.text, context, infobox_defs, page.title, stats
-            )
+            expanded = preprocess(page.text, context, infobox_defs, page.title, stats)
         except Exception as exc:
             expansion_errors = 1
             expansion_error = str(exc)[:300]
@@ -967,9 +920,7 @@ def _export_one_page(
         "categories": len(categories),
         "infoboxes": stats["infoboxes"],
         "infoboxes_unconverted": stats["infobox_left"],
-        "missing_templates": sorted(
-            set(stats["missing_templates"]), key=str.casefold
-        ),
+        "missing_templates": sorted(set(stats["missing_templates"]), key=str.casefold),
         "error": expansion_error,
     }
     return result, expansion_errors, conversion_errors
@@ -979,12 +930,7 @@ def _write_workspace_index(
     page_results: list[PageExportResult], output_dir: Path
 ) -> None:
     """Write the Zettlr workspace root index."""
-    index_lines = [
-        "# The Long Dark Wiki",
-        "",
-        f"Articles: {len(page_results)}",
-        "",
-    ]
+    index_lines = ["# The Long Dark Wiki", "", f"Articles: {len(page_results)}", ""]
     for result in sorted(page_results, key=lambda item: item["title"].casefold()):
         title = result["title"]
         filename = result["filename"]
@@ -998,8 +944,7 @@ def _write_workspace_index(
 def _write_conversion_report(report: ExportReport, output_dir: Path) -> None:
     """Write diagnostics for the completed Markdown export."""
     (output_dir / "conversion-report.json").write_text(
-        json.dumps(report, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
+        json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
 
 
@@ -1017,14 +962,14 @@ def _load_renderer_pipeline(
 ]:
     """Load the existing Fandom renderer helpers and the expanded wiki context."""
     renderer = importlib.import_module("pipeline.wiki_to_html")
-    preprocess = cast(PreprocessFunction, getattr(renderer, "prepass"))
-    postprocess = cast(PostprocessFunction, getattr(renderer, "postexpand"))
+    preprocess = cast("PreprocessFunction", renderer.prepass)
+    postprocess = cast("PostprocessFunction", renderer.postexpand)
     load_infobox_defs = cast(
-        Callable[[WikiContext], Mapping[str, object]],
-        getattr(renderer, "load_infobox_defs"),
+        "Callable[[WikiContext], Mapping[str, object]]",
+        renderer.load_infobox_defs,
     )
-    wtp_factory = cast(WtpFactory, getattr(renderer, "Wtp"))
-    pandoc_selftest = cast(Callable[[str], str], getattr(renderer, "pandoc_selftest"))
+    wtp_factory = cast("WtpFactory", renderer.Wtp)
+    pandoc_selftest = cast("Callable[[str], str]", renderer.pandoc_selftest)
     context, articles, redirects, redirect_count = _load_wiki_context(
         dump_path, wtp_factory
     )
@@ -1041,12 +986,8 @@ def _load_renderer_pipeline(
     )
 
 
-
 def _prepare_export(
-    dump_path: Path,
-    mapping_path: Path,
-    output_dir: Path,
-    image_dir: Path | None,
+    dump_path: Path, mapping_path: Path, output_dir: Path, image_dir: Path | None
 ) -> ExportState:
     """Load the dump context and initialize resources for the export."""
     title_to_filename = load_filename_mapping(mapping_path)
@@ -1065,9 +1006,7 @@ def _prepare_export(
     missing_mappings = article_titles - title_to_filename.keys()
     extra_mappings = title_to_filename.keys() - article_titles
     if missing_mappings or extra_mappings:
-        detail = (
-            f"missing {len(missing_mappings)}; stale {len(extra_mappings)}"
-        )
+        detail = f"missing {len(missing_mappings)}; stale {len(extra_mappings)}"
         raise ValueError(f"Filename mapping mismatch: {detail}.")
 
     pages_dir = output_dir / "pages"
@@ -1112,9 +1051,7 @@ def export_dump_to_markdown(
     """Convert a dump into linked Markdown files using the audited filename map."""
     state = _prepare_export(dump_path, mapping_path, output_dir, image_dir)
 
-    for page in sorted(
-        state["articles"], key=lambda item: item.title.casefold()
-    ):
+    for page in sorted(state["articles"], key=lambda item: item.title.casefold()):
         result, page_expansion_errors, page_conversion_errors = _export_one_page(
             page,
             state["title_to_filename"],

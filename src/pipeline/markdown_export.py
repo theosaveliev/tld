@@ -264,13 +264,28 @@ def _xml_local_name(element: Element) -> str:
     return element.tag.rsplit("}", 1)[-1]
 
 
+def _read_slot(slot: Element, model: str, text: str) -> tuple[str, str]:
+    """Read the content model and text from one revision slot."""
+    for child in slot:
+        tag = _xml_local_name(child)
+        if tag == "text":
+            text = child.text or ""
+        elif tag == "model":
+            model = child.text or model
+    return model, text
+
+
 def _read_revision(
     revision: Element, model: str, text: str
 ) -> tuple[str, str]:
-    """Read the content model and text from a revision element."""
+    """Read legacy revision fields or slot-based revision content."""
     for child in revision:
         tag = _xml_local_name(child)
-        if tag == "text":
+        if tag == "slots":
+            for slot in child:
+                if _xml_local_name(slot) == "slot":
+                    model, text = _read_slot(slot, model, text)
+        elif tag == "text":
             text = child.text or ""
         elif tag == "model":
             model = child.text or model

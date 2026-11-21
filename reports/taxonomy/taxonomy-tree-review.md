@@ -1074,11 +1074,7 @@
 
 > Fire-starting supplies, fuel, or light sources.
 
-### Fire-Starting Supplies
-
-> Items used to ignite a fire, provide tinder, or speed up a fire-starting attempt.
-
-#### Ignition Sources
+### Ignition Sources
 
 - [Cardboard Matches](https://thelongdark.fandom.com/wiki/Cardboard_Matches)
 - [Firestriker](https://thelongdark.fandom.com/wiki/Firestriker)
@@ -1088,7 +1084,7 @@
 - [Torch](https://thelongdark.fandom.com/wiki/Torch)
 - [Wood Matches](https://thelongdark.fandom.com/wiki/Wood_Matches)
 
-#### Tinder
+### Tinder
 
 - [Birch Bark](https://thelongdark.fandom.com/wiki/Birch_Bark)
 - [Cash](https://thelongdark.fandom.com/wiki/Cash)
@@ -1098,7 +1094,7 @@
 - [Stack of Papers](https://thelongdark.fandom.com/wiki/Stack_of_Papers)
 - [Tinder Plug](https://thelongdark.fandom.com/wiki/Tinder_Plug)
 
-#### Accelerants
+### Accelerants
 
 - [Accelerant](https://thelongdark.fandom.com/wiki/Accelerant)
 - [Jerry Can](https://thelongdark.fandom.com/wiki/Jerry_Can)

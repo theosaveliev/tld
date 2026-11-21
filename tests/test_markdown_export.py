@@ -341,6 +341,7 @@ def test_html_fragment_to_markdown_handles_custom_tags() -> None:
     fragment = """<fandom-widget>
 <header><h3>Details</h3></header>
 <p><q>Stay warm</q> <abbr title="The Long Dark">TLD</abbr> <mark>Warning</mark></p>
+<p style="font-weight: bold">Styled paragraph</p>
 <custom-card style="display: block"><p>Second block</p></custom-card>
 <!-- This comment is not visible content. -->
 <script>hidden script content</script>
@@ -353,6 +354,7 @@ def test_html_fragment_to_markdown_handles_custom_tags() -> None:
     assert "“Stay warm”" in markdown
     assert "TLD (The Long Dark)" in markdown
     assert "**Warning**" in markdown
+    assert "**Styled paragraph**" in markdown
     assert "Second block" in markdown
     assert "This comment is not visible content" not in markdown
     assert "hidden script content" not in markdown

@@ -193,7 +193,7 @@ def audit_filenames(
     if output_path is not None:
         output_path.parent.mkdir(parents=True, exist_ok=True)
         output_path.write_text(
-            json.dumps(report, ensure_ascii=False, indent=2) + "\\n",
+            json.dumps(report, ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8",
         )
         click.echo(f"JSON report written to {output_path}")

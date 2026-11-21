@@ -12,7 +12,7 @@ _Blackrock\_Memo\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)\|-
+**Item type:** [Collectibles](./Collectibles.md)
 
 **Stackable:** No
 
@@ -34,9 +34,9 @@ _Blackrock\_Memo\_icon.png_
 
 _The following text is transcribed from **Blackrock Memo**_
 
-**Find me at the mine. East and up the hill, looking up at the mountain. I got a lead on this door.  
-   
- -- M (Who is M?)**
+> **Find me at the mine. East and up the hill, looking up at the mountain. I got a lead on this door.**
+
+> **— M (Who is M?)**
 
 ## Update history
 

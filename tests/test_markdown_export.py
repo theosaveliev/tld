@@ -440,7 +440,7 @@ def test_wide_sparse_table_keeps_product_rows_and_compacts_columns(
 <tr><td></td><td></td><td></td><td></td><td></td><td></td>
 <td></td><td></td><td></td><td></td><td></td><td></td>
 <td>Meat Curing Box</td><td>None</td>
-<td><ul><li>10 × Fir Firewood</li><li>8 × Salt</li></ul></td></tr>
+<td><ul><li>10 &#215; Fir Firewood</li><li>8 &#215; Salt</li></ul></td></tr>
 </tbody></table>"""
 
     markdown, note, failed = _convert_html_to_markdown("pandoc", fragment, "")
@@ -449,8 +449,8 @@ def test_wide_sparse_table_keeps_product_rows_and_compacts_columns(
     assert not note
     assert "| Item | Skills | Materials |" in markdown
     assert "Meat Curing Box" in markdown
-    assert "10 × Fir Firewood" in markdown
-    assert "8 × Salt" in markdown
+    assert "10 \u00d7 Fir Firewood" in markdown
+    assert "8 \u00d7 Salt" in markdown
     assert "Column 1" not in markdown
     assert markdown.startswith("| Item | Skills | Materials |")
 

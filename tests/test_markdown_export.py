@@ -265,19 +265,32 @@ def test_html_rewriter_restores_infoboxes_thumbnails_and_section_ids(
 
 
 def test_repair_unclosed_mediawiki_tables_appends_missing_closers() -> None:
-    source = "{| class=\\"outer\\"\\n| row\\n{| class=\\"inner\\"\\n| nested row\\n"
+    source = """{| class="outer"
+| row
+{| class="inner"
+| nested row
+"""
     repaired, count = _repair_unclosed_mediawiki_tables(source)
 
     assert count == 2
-    assert repaired == source + "|}\\n|}\\n"
+    assert repaired == source + """|}
+|}
+"""
 
 
 def test_repair_unclosed_mediawiki_tables_ignores_literal_and_comment_content() -> None:
-    source = (
-        "<nowiki>\\n{|\\n|}\\n</nowiki>\\n"
-        "<!--\\n{|\\n|}\\n-->\\n"
-        "{| class=\\"real\\"\\n| row\\n|}\\n"
-    )
+    source = """<nowiki>
+{|
+|}
+</nowiki>
+<!--
+{|
+|}
+-->
+{| class="real"
+| row
+|}
+"""
 
     repaired, count = _repair_unclosed_mediawiki_tables(source)
 
@@ -308,6 +321,10 @@ def test_export_retries_pandoc_after_closing_unterminated_wikitext_table(
         assert (source_format, target_format) == ("html", "gfm")
         return "Recovered article text"
 
+    def preprocess(*_args: object) -> str:
+        return """{| class="infobox"
+| an open row"""
+
     monkeypatch.setattr(markdown_export_module, "_run_pandoc", fake_pandoc)
     pages_dir = tmp_path / "pages"
     pages_dir.mkdir()
@@ -316,7 +333,7 @@ def test_export_retries_pandoc_after_closing_unterminated_wikitext_table(
         DumpPage("Sample", 0, "wikitext", "original source", None),
         {"Sample": "Sample.md"},
         FakeContext(),
-        lambda *_args: "{| class=\\"infobox\\"\\n| an open row",
+        preprocess,
         lambda text, _categories, _stats: text,
         {},
         "pandoc",

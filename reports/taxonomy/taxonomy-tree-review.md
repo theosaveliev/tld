@@ -49,6 +49,8 @@
 
 ### Other Named Areas
 
+> Named areas and subregions that are not classified as main or transition regions.
+
 - [Blackrock Foothills](https://thelongdark.fandom.com/wiki/Blackrock_Foothills)
 - [Cauldron Island](https://thelongdark.fandom.com/wiki/Cauldron_Island)
 - [Desperation Bay](https://thelongdark.fandom.com/wiki/Desperation_Bay)
@@ -547,9 +549,9 @@
 - [Unquenched Extraction](https://thelongdark.fandom.com/wiki/Unquenched_Extraction)
 - [Welkin's Window](https://thelongdark.fandom.com/wiki/Welkin's_Window)
 
-### Other locations
+### Standalone Structures & Features
 
-> This group collects notable structures and features that do not belong to a single region.
+> Individual structures and features that are not assigned to a single region.
 
 - [Cinder Hills Coal Mine](https://thelongdark.fandom.com/wiki/Cinder_Hills_Coal_Mine)
 - [Coastal Cave](https://thelongdark.fandom.com/wiki/Coastal_Cave)
@@ -570,24 +572,15 @@
 ### Fauna
 
 - [Bear](https://thelongdark.fandom.com/wiki/Bear)
-- [Big Bass (Raw)](https://thelongdark.fandom.com/wiki/Big_Bass_(Raw))
-- [Burbot (Raw)](https://thelongdark.fandom.com/wiki/Burbot_(Raw))
-- [Coho Salmon (Raw)](https://thelongdark.fandom.com/wiki/Coho_Salmon_(Raw))
 - [Cougar](https://thelongdark.fandom.com/wiki/Cougar)
 - [Crow](https://thelongdark.fandom.com/wiki/Crow)
 - [Deer](https://thelongdark.fandom.com/wiki/Deer)
 - [Ghost Stag](https://thelongdark.fandom.com/wiki/Ghost_Stag)
-- [Goldeye (Raw)](https://thelongdark.fandom.com/wiki/Goldeye_(Raw))
-- [Lake Whitefish (Raw)](https://thelongdark.fandom.com/wiki/Lake_Whitefish_(Raw))
 - [Moose](https://thelongdark.fandom.com/wiki/Moose)
 - [Old Bear](https://thelongdark.fandom.com/wiki/Old_Bear)
 - [Poisoned Wolf](https://thelongdark.fandom.com/wiki/Poisoned_Wolf)
 - [Ptarmigan](https://thelongdark.fandom.com/wiki/Ptarmigan)
 - [Rabbit](https://thelongdark.fandom.com/wiki/Rabbit)
-- [Rainbow Trout (Raw)](https://thelongdark.fandom.com/wiki/Rainbow_Trout_(Raw))
-- [Red Irish Lord (Raw)](https://thelongdark.fandom.com/wiki/Red_Irish_Lord_(Raw))
-- [Rockfish (Raw)](https://thelongdark.fandom.com/wiki/Rockfish_(Raw))
-- [Smallmouth Bass (Raw)](https://thelongdark.fandom.com/wiki/Smallmouth_Bass_(Raw))
 - [Timberwolf](https://thelongdark.fandom.com/wiki/Timberwolf)
 - [Wolf](https://thelongdark.fandom.com/wiki/Wolf)
 
@@ -773,17 +766,25 @@
 
 ### Fish
 
-> Cooked and preserved fish.
+> Raw, cooked, and preserved fish.
 
 - [Burbot (Cooked)](https://thelongdark.fandom.com/wiki/Burbot_(Cooked))
+- [Burbot (Raw)](https://thelongdark.fandom.com/wiki/Burbot_(Raw))
 - [Coho Salmon (Cooked)](https://thelongdark.fandom.com/wiki/Coho_Salmon_(Cooked))
+- [Coho Salmon (Raw)](https://thelongdark.fandom.com/wiki/Coho_Salmon_(Raw))
 - [Cured Fish](https://thelongdark.fandom.com/wiki/Cured_Fish)
 - [Goldeye (Cooked)](https://thelongdark.fandom.com/wiki/Goldeye_(Cooked))
+- [Goldeye (Raw)](https://thelongdark.fandom.com/wiki/Goldeye_(Raw))
 - [Lake Whitefish (Cooked)](https://thelongdark.fandom.com/wiki/Lake_Whitefish_(Cooked))
+- [Lake Whitefish (Raw)](https://thelongdark.fandom.com/wiki/Lake_Whitefish_(Raw))
 - [Rainbow Trout (Cooked)](https://thelongdark.fandom.com/wiki/Rainbow_Trout_(Cooked))
+- [Rainbow Trout (Raw)](https://thelongdark.fandom.com/wiki/Rainbow_Trout_(Raw))
 - [Red Irish Lord (Cooked)](https://thelongdark.fandom.com/wiki/Red_Irish_Lord_(Cooked))
+- [Red Irish Lord (Raw)](https://thelongdark.fandom.com/wiki/Red_Irish_Lord_(Raw))
 - [Rockfish (Cooked)](https://thelongdark.fandom.com/wiki/Rockfish_(Cooked))
+- [Rockfish (Raw)](https://thelongdark.fandom.com/wiki/Rockfish_(Raw))
 - [Smallmouth Bass (Cooked)](https://thelongdark.fandom.com/wiki/Smallmouth_Bass_(Cooked))
+- [Smallmouth Bass (Raw)](https://thelongdark.fandom.com/wiki/Smallmouth_Bass_(Raw))
 
 ### Plant & Foraged Foods
 
@@ -892,6 +893,7 @@
 > Food pages tied to seasonal events or specific Wintermute content.
 
 - [Big Bass (Cooked)](https://thelongdark.fandom.com/wiki/Big_Bass_(Cooked))
+- [Big Bass (Raw)](https://thelongdark.fandom.com/wiki/Big_Bass_(Raw))
 - [Chocolate Bar (4 Days of Night)](https://thelongdark.fandom.com/wiki/Chocolate_Bar_(4_Days_of_Night))
 - [Home-made Soup](https://thelongdark.fandom.com/wiki/Home-made_Soup)
 - [Pumpkin Pie](https://thelongdark.fandom.com/wiki/Pumpkin_Pie)
@@ -995,6 +997,8 @@
 - [Shotgun Ammunition](https://thelongdark.fandom.com/wiki/Shotgun_Ammunition)
 
 ## 7. Tools & Equipment
+
+> Portable tools, equipment, and crafting stations used for fieldwork, maintenance, and survival tasks.
 
 - [Tools](https://thelongdark.fandom.com/wiki/Tools)
 
@@ -1100,7 +1104,7 @@
 
 ## 8. Fire, Light & Fuel
 
-> Fire-starting supplies, fuel, or light sources.
+> Fire-starting supplies, fire structures, fuel, and portable light sources.
 
 ### Ignition Sources
 
@@ -1498,9 +1502,18 @@
 
 ## 16. Collectibles
 
-> Documents, mementos, notes, photographs, recordings, and other discoverable collectibles.
+> Discoverable documents, records, keys, codes, media, mementos, and quest-related collectibles.
 
-### Facility Keys
+### Keys & Access Codes
+
+#### Codes
+
+- [Aurora Hatch Door Entry Code](https://thelongdark.fandom.com/wiki/Aurora_Hatch_Door_Entry_Code)
+- [Bank Vault Code](https://thelongdark.fandom.com/wiki/Bank_Vault_Code)
+- [Dam Control Room Code](https://thelongdark.fandom.com/wiki/Dam_Control_Room_Code)
+- [Hank's Prepper Cache Code](https://thelongdark.fandom.com/wiki/Hank's_Prepper_Cache_Code)
+
+#### Facility Keys
 
 - [Admin Office Key](https://thelongdark.fandom.com/wiki/Admin_Office_Key)
 - [An Old House Key](https://thelongdark.fandom.com/wiki/An_Old_House_Key)
@@ -1518,7 +1531,7 @@
 - [Supply Room Key](https://thelongdark.fandom.com/wiki/Supply_Room_Key)
 - [Train Key](https://thelongdark.fandom.com/wiki/Train_Key)
 
-### Locker & Container Keys
+#### Locker & Container Keys
 
 - [Aid Station Medical Locker Key](https://thelongdark.fandom.com/wiki/Aid_Station_Medical_Locker_Key)
 - [Bank Deposit Box Key 7](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_7)
@@ -1539,20 +1552,34 @@
 - [Milton Safety Deposit Box Keys](https://thelongdark.fandom.com/wiki/Milton_Safety_Deposit_Box_Keys)
 - [Mine Lockbox Key](https://thelongdark.fandom.com/wiki/Mine_Lockbox_Key)
 
-### Other Keys
+#### Other Keys
 
 - [Brass Key](https://thelongdark.fandom.com/wiki/Brass_Key)
 - [Brass Key (2)](https://thelongdark.fandom.com/wiki/Brass_Key_(2))
 - [Rusty Key](https://thelongdark.fandom.com/wiki/Rusty_Key)
 
-### Codes
+### Written Documents & Records
 
-- [Aurora Hatch Door Entry Code](https://thelongdark.fandom.com/wiki/Aurora_Hatch_Door_Entry_Code)
-- [Bank Vault Code](https://thelongdark.fandom.com/wiki/Bank_Vault_Code)
-- [Dam Control Room Code](https://thelongdark.fandom.com/wiki/Dam_Control_Room_Code)
-- [Hank's Prepper Cache Code](https://thelongdark.fandom.com/wiki/Hank's_Prepper_Cache_Code)
+#### Books & Guides
 
-### General Notes
+- [A Sewing Primer (The Basics of Survival)](https://thelongdark.fandom.com/wiki/A_Sewing_Primer_(The_Basics_of_Survival))
+- [Advanced Guns Guns Guns! (Survival School)](https://thelongdark.fandom.com/wiki/Advanced_Guns_Guns_Guns!_(Survival_School))
+- [Conspiracy Theories](https://thelongdark.fandom.com/wiki/Conspiracy_Theories)
+- [Field Dressing Your Kill, Vol. I (The Basics of Survival)](https://thelongdark.fandom.com/wiki/Field_Dressing_Your_Kill%2C_Vol._I_(The_Basics_of_Survival))
+- [Frontier Shooting Guide (Survival School)](https://thelongdark.fandom.com/wiki/Frontier_Shooting_Guide_(Survival_School))
+- [Hymnal](https://thelongdark.fandom.com/wiki/Hymnal)
+- [Medicinal Plants of Great Bear](https://thelongdark.fandom.com/wiki/Medicinal_Plants_of_Great_Bear)
+- [Mining Newsletter](https://thelongdark.fandom.com/wiki/Mining_Newsletter)
+- [The Basics of Survival](https://thelongdark.fandom.com/wiki/The_Basics_of_Survival)
+- [The Frozen Angler (Survival School)](https://thelongdark.fandom.com/wiki/The_Frozen_Angler_(Survival_School))
+
+#### Clippings & Lists
+
+- [Newspaper Clipping](https://thelongdark.fandom.com/wiki/Newspaper_Clipping)
+- [Newspaper Clipping 2](https://thelongdark.fandom.com/wiki/Newspaper_Clipping_2)
+- [Shopping List](https://thelongdark.fandom.com/wiki/Shopping_List)
+
+#### General Notes
 
 - [A Note Left Behind](https://thelongdark.fandom.com/wiki/A_Note_Left_Behind)
 - [Betrayal](https://thelongdark.fandom.com/wiki/Betrayal)
@@ -1575,7 +1602,7 @@
 - [Simple Note](https://thelongdark.fandom.com/wiki/Simple_Note)
 - [Soggy Note](https://thelongdark.fandom.com/wiki/Soggy_Note)
 
-### Handwritten Notes
+#### Handwritten Notes
 
 - [A Handwritten Note](https://thelongdark.fandom.com/wiki/A_Handwritten_Note)
 - [Handwritten Note](https://thelongdark.fandom.com/wiki/Handwritten_Note)
@@ -1584,28 +1611,38 @@
 - [Handwritten Note (Survival)](https://thelongdark.fandom.com/wiki/Handwritten_Note_(Survival))
 - [Handwritten Prescription](https://thelongdark.fandom.com/wiki/Handwritten_Prescription)
 
-### Location & Mission Notes
+#### IDs & Credentials
 
-- [Blood Soaked Note](https://thelongdark.fandom.com/wiki/Blood_Soaked_Note)
-- [Blood Stained-Convict Note](https://thelongdark.fandom.com/wiki/Blood_Stained-Convict_Note)
-- [Bloody note](https://thelongdark.fandom.com/wiki/Bloody_note)
-- [Cave Hidden Cache Note](https://thelongdark.fandom.com/wiki/Cave_Hidden_Cache_Note)
-- [Charcoal Note](https://thelongdark.fandom.com/wiki/Charcoal_Note)
-- [Convict Cache Directions](https://thelongdark.fandom.com/wiki/Convict_Cache_Directions)
-- [Convict Note](https://thelongdark.fandom.com/wiki/Convict_Note)
-- [Elevator Maintenance Note](https://thelongdark.fandom.com/wiki/Elevator_Maintenance_Note)
-- [Emergency Kit Note](https://thelongdark.fandom.com/wiki/Emergency_Kit_Note)
-- [Forest Talker Dam Note](https://thelongdark.fandom.com/wiki/Forest_Talker_Dam_Note)
-- [Forest Talker Map Note](https://thelongdark.fandom.com/wiki/Forest_Talker_Map_Note)
-- [Forest Talker Note](https://thelongdark.fandom.com/wiki/Forest_Talker_Note)
-- [Lost Worker's Note](https://thelongdark.fandom.com/wiki/Lost_Worker's_Note)
-- [Medicinal Plants of Great Bear (Note)](https://thelongdark.fandom.com/wiki/Medicinal_Plants_of_Great_Bear_(Note))
-- [Medicine in my backyard](https://thelongdark.fandom.com/wiki/Medicine_in_my_backyard)
-- [Milton Hidden Cache Note](https://thelongdark.fandom.com/wiki/Milton_Hidden_Cache_Note)
-- [Milton Post Office Note](https://thelongdark.fandom.com/wiki/Milton_Post_Office_Note)
-- [Pastor's Note](https://thelongdark.fandom.com/wiki/Pastor's_Note)
+- [ID - A. Lewis](https://thelongdark.fandom.com/wiki/ID_-_A._Lewis)
+- [ID - D. Belanger](https://thelongdark.fandom.com/wiki/ID_-_D._Belanger)
+- [ID - F. Leblanc](https://thelongdark.fandom.com/wiki/ID_-_F._Leblanc)
+- [ID - G. Russell](https://thelongdark.fandom.com/wiki/ID_-_G._Russell)
+- [ID - K. Morrison](https://thelongdark.fandom.com/wiki/ID_-_K._Morrison)
+- [ID - O. Gould](https://thelongdark.fandom.com/wiki/ID_-_O._Gould)
+- [ID - R. Tan](https://thelongdark.fandom.com/wiki/ID_-_R._Tan)
+- [ID - S. Gagne](https://thelongdark.fandom.com/wiki/ID_-_S._Gagne)
+- [ID - T. Chan](https://thelongdark.fandom.com/wiki/ID_-_T._Chan)
+- [ID - V. Singh](https://thelongdark.fandom.com/wiki/ID_-_V._Singh)
+- [ID Card](https://thelongdark.fandom.com/wiki/ID_Card)
+- [ID Naomi Moore](https://thelongdark.fandom.com/wiki/ID_Naomi_Moore)
+- [Power Company ID](https://thelongdark.fandom.com/wiki/Power_Company_ID)
+- [Security Chief's ID Badge](https://thelongdark.fandom.com/wiki/Security_Chief's_ID_Badge)
 
-### Letters
+#### Journals & Diaries
+
+- [Alice McLeod's Journal 01](https://thelongdark.fandom.com/wiki/Alice_McLeod's_Journal_01)
+- [Convict Journal Entry](https://thelongdark.fandom.com/wiki/Convict_Journal_Entry)
+- [Diary](https://thelongdark.fandom.com/wiki/Diary)
+- [Hank's Journal - Part One](https://thelongdark.fandom.com/wiki/Hank's_Journal_-_Part_One)
+- [Hank's Journal - Part Two](https://thelongdark.fandom.com/wiki/Hank's_Journal_-_Part_Two)
+- [Joplin's Journal, Part One](https://thelongdark.fandom.com/wiki/Joplin's_Journal%2C_Part_One)
+- [Joplin's Journal, Part Two](https://thelongdark.fandom.com/wiki/Joplin's_Journal%2C_Part_Two)
+- [Journal](https://thelongdark.fandom.com/wiki/Journal)
+- [Rüdiger's Diary 1](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_1)
+- [Rüdiger's Diary 2](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_2)
+- [Rüdiger's Diary 3](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_3)
+
+#### Letters
 
 - [A Handwritten Letter](https://thelongdark.fandom.com/wiki/A_Handwritten_Letter)
 - [A page from an old newsletter.](https://thelongdark.fandom.com/wiki/A_page_from_an_old_newsletter.)
@@ -1621,7 +1658,61 @@
 - [Trash Can Letter](https://thelongdark.fandom.com/wiki/Trash_Can_Letter)
 - [Undelivered Letter](https://thelongdark.fandom.com/wiki/Undelivered_Letter)
 
-### Memos
+#### Local Histories & Legends
+
+- [Building Blackrock](https://thelongdark.fandom.com/wiki/Building_Blackrock)
+- [Carter Hydro Dam (Collectible)](https://thelongdark.fandom.com/wiki/Carter_Hydro_Dam_(Collectible))
+- [History of The Collapse](https://thelongdark.fandom.com/wiki/History_of_The_Collapse)
+- [Local Legends - Ghost Stag](https://thelongdark.fandom.com/wiki/Local_Legends_-_Ghost_Stag)
+- [Local Legends - Sasquatch](https://thelongdark.fandom.com/wiki/Local_Legends_-_Sasquatch)
+- [Local Legends - The Big One](https://thelongdark.fandom.com/wiki/Local_Legends_-_The_Big_One)
+- [Local Legends - The Lost Cave](https://thelongdark.fandom.com/wiki/Local_Legends_-_The_Lost_Cave)
+- [Mystery Lake & Area](https://thelongdark.fandom.com/wiki/Mystery_Lake_%26_Area)
+- [Pleasant Valley History](https://thelongdark.fandom.com/wiki/Pleasant_Valley_History)
+- [Town of Milton](https://thelongdark.fandom.com/wiki/Town_of_Milton)
+- [Winter Forecast](https://thelongdark.fandom.com/wiki/Winter_Forecast)
+
+#### Location & Mission Notes
+
+- [Blood Soaked Note](https://thelongdark.fandom.com/wiki/Blood_Soaked_Note)
+- [Blood Stained-Convict Note](https://thelongdark.fandom.com/wiki/Blood_Stained-Convict_Note)
+- [Bloody note](https://thelongdark.fandom.com/wiki/Bloody_note)
+- [Cave Hidden Cache Note](https://thelongdark.fandom.com/wiki/Cave_Hidden_Cache_Note)
+- [Charcoal Note](https://thelongdark.fandom.com/wiki/Charcoal_Note)
+- [Convict Cache Directions](https://thelongdark.fandom.com/wiki/Convict_Cache_Directions)
+- [Convict Note](https://thelongdark.fandom.com/wiki/Convict_Note)
+- [Elevator Maintenance Note](https://thelongdark.fandom.com/wiki/Elevator_Maintenance_Note)
+- [Emergency Kit Note](https://thelongdark.fandom.com/wiki/Emergency_Kit_Note)
+- [Forest Talker Dam Note](https://thelongdark.fandom.com/wiki/Forest_Talker_Dam_Note)
+- [Forest Talker Map Note](https://thelongdark.fandom.com/wiki/Forest_Talker_Map_Note)
+- [Forest Talker Note](https://thelongdark.fandom.com/wiki/Forest_Talker_Note)
+- [Highway Robbery](https://thelongdark.fandom.com/wiki/Highway_Robbery)
+- [Lost Worker's Note](https://thelongdark.fandom.com/wiki/Lost_Worker's_Note)
+- [Medicinal Plants of Great Bear (Note)](https://thelongdark.fandom.com/wiki/Medicinal_Plants_of_Great_Bear_(Note))
+- [Medicine in my backyard](https://thelongdark.fandom.com/wiki/Medicine_in_my_backyard)
+- [Milton Hidden Cache Note](https://thelongdark.fandom.com/wiki/Milton_Hidden_Cache_Note)
+- [Milton Post Office Note](https://thelongdark.fandom.com/wiki/Milton_Post_Office_Note)
+- [Pastor's Note](https://thelongdark.fandom.com/wiki/Pastor's_Note)
+
+#### Logs & Records
+
+- [An Old Logbook](https://thelongdark.fandom.com/wiki/An_Old_Logbook)
+- [Foreman's Technical Log 1](https://thelongdark.fandom.com/wiki/Foreman's_Technical_Log_1)
+- [Foreman's Technical Log 2](https://thelongdark.fandom.com/wiki/Foreman's_Technical_Log_2)
+- [Foreman's Technical Log 3](https://thelongdark.fandom.com/wiki/Foreman's_Technical_Log_3)
+- [Foreman's Technical Log 4](https://thelongdark.fandom.com/wiki/Foreman's_Technical_Log_4)
+- [Medical Log](https://thelongdark.fandom.com/wiki/Medical_Log)
+- [Security Chief's Log (illegible)](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_(illegible))
+- [Security Chief's Log 6](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_6)
+- [Security Chief's Log 14](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_14)
+- [Security Chief's Log 23](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_23)
+- [Security Chief's Log 29](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_29)
+- [Security Chief's Log 31](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_31)
+- [Security Chief's Log 32](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_32)
+- [Security Chief's Log 33](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_33)
+- [Worn Logbook](https://thelongdark.fandom.com/wiki/Worn_Logbook)
+
+#### Memos
 
 - [Blackrock Memo](https://thelongdark.fandom.com/wiki/Blackrock_Memo)
 - [Blackrock Memo - Highly Aggressive Wolf](https://thelongdark.fandom.com/wiki/Blackrock_Memo_-_Highly_Aggressive_Wolf)
@@ -1638,7 +1729,7 @@
 - [Office Memo](https://thelongdark.fandom.com/wiki/Office_Memo)
 - [Old Substation Work Memo](https://thelongdark.fandom.com/wiki/Old_Substation_Work_Memo)
 
-### Notices & Flyers
+#### Notices & Flyers
 
 - [Breyerhouse Crew Winter Warning](https://thelongdark.fandom.com/wiki/Breyerhouse_Crew_Winter_Warning)
 - [Carter Hydro Dam -- Safety & Shutdown Notice](https://thelongdark.fandom.com/wiki/Carter_Hydro_Dam_--_Safety_%26_Shutdown_Notice)
@@ -1653,7 +1744,27 @@
 - [Park Warning Notice](https://thelongdark.fandom.com/wiki/Park_Warning_Notice)
 - [Public Notice](https://thelongdark.fandom.com/wiki/Public_Notice)
 
-### Paper, Pages & Fragments
+#### Notebooks & Journal Pages
+
+- [A Page From A Journal](https://thelongdark.fandom.com/wiki/A_Page_From_A_Journal)
+- [Climber's Journal Page](https://thelongdark.fandom.com/wiki/Climber's_Journal_Page)
+- [Diary Page](https://thelongdark.fandom.com/wiki/Diary_Page)
+- [Diary Page (Darkwalker)](https://thelongdark.fandom.com/wiki/Diary_Page_(Darkwalker))
+- [Journal Page](https://thelongdark.fandom.com/wiki/Journal_Page)
+- [Mining Log Page](https://thelongdark.fandom.com/wiki/Mining_Log_Page)
+- [Naturalist Notebook 1](https://thelongdark.fandom.com/wiki/Naturalist_Notebook_1)
+- [Naturalist Notebook 2](https://thelongdark.fandom.com/wiki/Naturalist_Notebook_2)
+- [The Technician's Notebook](https://thelongdark.fandom.com/wiki/The_Technician's_Notebook)
+
+#### Official Records
+
+- [Blackrock Prisoner Release Record](https://thelongdark.fandom.com/wiki/Blackrock_Prisoner_Release_Record)
+- [Passenger Manifest](https://thelongdark.fandom.com/wiki/Passenger_Manifest)
+- [Prison Transport Manifest](https://thelongdark.fandom.com/wiki/Prison_Transport_Manifest)
+- [Utilities Bill](https://thelongdark.fandom.com/wiki/Utilities_Bill)
+- [Work Order](https://thelongdark.fandom.com/wiki/Work_Order)
+
+#### Paper, Pages & Fragments
 
 - [Dusty Paper](https://thelongdark.fandom.com/wiki/Dusty_Paper)
 - [Faded Notebook Paper](https://thelongdark.fandom.com/wiki/Faded_Notebook_Paper)
@@ -1676,94 +1787,16 @@
 - [Water Stained Paper](https://thelongdark.fandom.com/wiki/Water_Stained_Paper)
 - [Wet Paper](https://thelongdark.fandom.com/wiki/Wet_Paper)
 
-### Clippings & Lists
+#### Regional Collectible Series
 
-- [Newspaper Clipping](https://thelongdark.fandom.com/wiki/Newspaper_Clipping)
-- [Newspaper Clipping 2](https://thelongdark.fandom.com/wiki/Newspaper_Clipping_2)
-- [Shopping List](https://thelongdark.fandom.com/wiki/Shopping_List)
+- [Forest Talker Collectible, Part One](https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_One)
+- [Forest Talker Collectible, Part Three](https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_Three)
+- [Forest Talker Collectible, Part Two](https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_Two)
+- [Pleasant Valley Collectible, Part One](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Collectible%2C_Part_One)
+- [Pleasant Valley Collectible, Part Three](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Collectible%2C_Part_Three)
+- [Pleasant Valley Collectible, Part Two](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Collectible%2C_Part_Two)
 
-### Journals & Diaries
-
-- [Alice McLeod's Journal 01](https://thelongdark.fandom.com/wiki/Alice_McLeod's_Journal_01)
-- [Convict Journal Entry](https://thelongdark.fandom.com/wiki/Convict_Journal_Entry)
-- [Diary](https://thelongdark.fandom.com/wiki/Diary)
-- [Hank's Journal - Part One](https://thelongdark.fandom.com/wiki/Hank's_Journal_-_Part_One)
-- [Hank's Journal - Part Two](https://thelongdark.fandom.com/wiki/Hank's_Journal_-_Part_Two)
-- [Joplin's Journal, Part One](https://thelongdark.fandom.com/wiki/Joplin's_Journal%2C_Part_One)
-- [Joplin's Journal, Part Two](https://thelongdark.fandom.com/wiki/Joplin's_Journal%2C_Part_Two)
-- [Journal](https://thelongdark.fandom.com/wiki/Journal)
-- [Rüdiger's Diary 1](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_1)
-- [Rüdiger's Diary 2](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_2)
-- [Rüdiger's Diary 3](https://thelongdark.fandom.com/wiki/R%C3%BCdiger's_Diary_3)
-
-### Logs & Records
-
-- [An Old Logbook](https://thelongdark.fandom.com/wiki/An_Old_Logbook)
-- [Foreman's Technical Log 1](https://thelongdark.fandom.com/wiki/Foreman's_Technical_Log_1)
-- [Foreman's Technical Log 2](https://thelongdark.fandom.com/wiki/Foreman's_Technical_Log_2)
-- [Foreman's Technical Log 3](https://thelongdark.fandom.com/wiki/Foreman's_Technical_Log_3)
-- [Foreman's Technical Log 4](https://thelongdark.fandom.com/wiki/Foreman's_Technical_Log_4)
-- [Medical Log](https://thelongdark.fandom.com/wiki/Medical_Log)
-- [Security Chief's Log (illegible)](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_(illegible))
-- [Security Chief's Log 6](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_6)
-- [Security Chief's Log 14](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_14)
-- [Security Chief's Log 23](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_23)
-- [Security Chief's Log 29](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_29)
-- [Security Chief's Log 31](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_31)
-- [Security Chief's Log 32](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_32)
-- [Security Chief's Log 33](https://thelongdark.fandom.com/wiki/Security_Chief's_Log_33)
-- [Worn Logbook](https://thelongdark.fandom.com/wiki/Worn_Logbook)
-
-### Notebooks & Journal Pages
-
-- [A Page From A Journal](https://thelongdark.fandom.com/wiki/A_Page_From_A_Journal)
-- [Climber's Journal Page](https://thelongdark.fandom.com/wiki/Climber's_Journal_Page)
-- [Diary Page](https://thelongdark.fandom.com/wiki/Diary_Page)
-- [Diary Page (Darkwalker)](https://thelongdark.fandom.com/wiki/Diary_Page_(Darkwalker))
-- [Journal Page](https://thelongdark.fandom.com/wiki/Journal_Page)
-- [Mining Log Page](https://thelongdark.fandom.com/wiki/Mining_Log_Page)
-- [Naturalist Notebook 1](https://thelongdark.fandom.com/wiki/Naturalist_Notebook_1)
-- [Naturalist Notebook 2](https://thelongdark.fandom.com/wiki/Naturalist_Notebook_2)
-- [The Technician's Notebook](https://thelongdark.fandom.com/wiki/The_Technician's_Notebook)
-
-### Photographs & Polaroids
-
-- [Faded Photograph](https://thelongdark.fandom.com/wiki/Faded_Photograph)
-- [Foreman's Polaroid 1](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_1)
-- [Foreman's Polaroid 2](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_2)
-- [Foreman's Polaroid 3](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_3)
-- [Foreman's Polaroid 4](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_4)
-- [Foreman's Polaroid 5](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_5)
-- [Polaroids](https://thelongdark.fandom.com/wiki/Polaroids)
-
-### Maps & Charts
-
-- [Blackrock Foothills Map](https://thelongdark.fandom.com/wiki/Blackrock_Foothills_Map)
-- [Lily's Map](https://thelongdark.fandom.com/wiki/Lily's_Map)
-- [Map (Church)](https://thelongdark.fandom.com/wiki/Map_(Church))
-- [Map (Train)](https://thelongdark.fandom.com/wiki/Map_(Train))
-- [Map of Pleasant Valley](https://thelongdark.fandom.com/wiki/Map_of_Pleasant_Valley)
-- [Sea Charts](https://thelongdark.fandom.com/wiki/Sea_Charts)
-- [Surveyed Locations](https://thelongdark.fandom.com/wiki/Surveyed_Locations)
-
-### IDs & Credentials
-
-- [ID - A. Lewis](https://thelongdark.fandom.com/wiki/ID_-_A._Lewis)
-- [ID - D. Belanger](https://thelongdark.fandom.com/wiki/ID_-_D._Belanger)
-- [ID - F. Leblanc](https://thelongdark.fandom.com/wiki/ID_-_F._Leblanc)
-- [ID - G. Russell](https://thelongdark.fandom.com/wiki/ID_-_G._Russell)
-- [ID - K. Morrison](https://thelongdark.fandom.com/wiki/ID_-_K._Morrison)
-- [ID - O. Gould](https://thelongdark.fandom.com/wiki/ID_-_O._Gould)
-- [ID - R. Tan](https://thelongdark.fandom.com/wiki/ID_-_R._Tan)
-- [ID - S. Gagne](https://thelongdark.fandom.com/wiki/ID_-_S._Gagne)
-- [ID - T. Chan](https://thelongdark.fandom.com/wiki/ID_-_T._Chan)
-- [ID - V. Singh](https://thelongdark.fandom.com/wiki/ID_-_V._Singh)
-- [ID Card](https://thelongdark.fandom.com/wiki/ID_Card)
-- [ID Naomi Moore](https://thelongdark.fandom.com/wiki/ID_Naomi_Moore)
-- [Power Company ID](https://thelongdark.fandom.com/wiki/Power_Company_ID)
-- [Security Chief's ID Badge](https://thelongdark.fandom.com/wiki/Security_Chief's_ID_Badge)
-
-### Reports & Studies
+#### Reports & Studies
 
 - [Archival Report](https://thelongdark.fandom.com/wiki/Archival_Report)
 - [Aurora Observations](https://thelongdark.fandom.com/wiki/Aurora_Observations)
@@ -1779,51 +1812,9 @@
 - [Forest Talker Documents](https://thelongdark.fandom.com/wiki/Forest_Talker_Documents)
 - [Great Bear Wolf Behaviour Study](https://thelongdark.fandom.com/wiki/Great_Bear_Wolf_Behaviour_Study)
 
-### Official Records
+### Maps, Photographs & Recordings
 
-- [Blackrock Prisoner Release Record](https://thelongdark.fandom.com/wiki/Blackrock_Prisoner_Release_Record)
-- [Passenger Manifest](https://thelongdark.fandom.com/wiki/Passenger_Manifest)
-- [Prison Transport Manifest](https://thelongdark.fandom.com/wiki/Prison_Transport_Manifest)
-- [Utilities Bill](https://thelongdark.fandom.com/wiki/Utilities_Bill)
-- [Work Order](https://thelongdark.fandom.com/wiki/Work_Order)
-
-### Regional Collectible Series
-
-- [Forest Talker Collectible, Part One](https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_One)
-- [Forest Talker Collectible, Part Three](https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_Three)
-- [Forest Talker Collectible, Part Two](https://thelongdark.fandom.com/wiki/Forest_Talker_Collectible%2C_Part_Two)
-- [Pleasant Valley Collectible, Part One](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Collectible%2C_Part_One)
-- [Pleasant Valley Collectible, Part Three](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Collectible%2C_Part_Three)
-- [Pleasant Valley Collectible, Part Two](https://thelongdark.fandom.com/wiki/Pleasant_Valley_Collectible%2C_Part_Two)
-
-### Books & Guides
-
-- [A Sewing Primer (The Basics of Survival)](https://thelongdark.fandom.com/wiki/A_Sewing_Primer_(The_Basics_of_Survival))
-- [Advanced Guns Guns Guns! (Survival School)](https://thelongdark.fandom.com/wiki/Advanced_Guns_Guns_Guns!_(Survival_School))
-- [Conspiracy Theories](https://thelongdark.fandom.com/wiki/Conspiracy_Theories)
-- [Field Dressing Your Kill, Vol. I (The Basics of Survival)](https://thelongdark.fandom.com/wiki/Field_Dressing_Your_Kill%2C_Vol._I_(The_Basics_of_Survival))
-- [Frontier Shooting Guide (Survival School)](https://thelongdark.fandom.com/wiki/Frontier_Shooting_Guide_(Survival_School))
-- [Hymnal](https://thelongdark.fandom.com/wiki/Hymnal)
-- [Medicinal Plants of Great Bear](https://thelongdark.fandom.com/wiki/Medicinal_Plants_of_Great_Bear)
-- [Mining Newsletter](https://thelongdark.fandom.com/wiki/Mining_Newsletter)
-- [The Basics of Survival](https://thelongdark.fandom.com/wiki/The_Basics_of_Survival)
-- [The Frozen Angler (Survival School)](https://thelongdark.fandom.com/wiki/The_Frozen_Angler_(Survival_School))
-
-### Local Histories & Legends
-
-- [Building Blackrock](https://thelongdark.fandom.com/wiki/Building_Blackrock)
-- [Carter Hydro Dam (Collectible)](https://thelongdark.fandom.com/wiki/Carter_Hydro_Dam_(Collectible))
-- [History of The Collapse](https://thelongdark.fandom.com/wiki/History_of_The_Collapse)
-- [Local Legends - Ghost Stag](https://thelongdark.fandom.com/wiki/Local_Legends_-_Ghost_Stag)
-- [Local Legends - Sasquatch](https://thelongdark.fandom.com/wiki/Local_Legends_-_Sasquatch)
-- [Local Legends - The Big One](https://thelongdark.fandom.com/wiki/Local_Legends_-_The_Big_One)
-- [Local Legends - The Lost Cave](https://thelongdark.fandom.com/wiki/Local_Legends_-_The_Lost_Cave)
-- [Mystery Lake & Area](https://thelongdark.fandom.com/wiki/Mystery_Lake_%26_Area)
-- [Pleasant Valley History](https://thelongdark.fandom.com/wiki/Pleasant_Valley_History)
-- [Town of Milton](https://thelongdark.fandom.com/wiki/Town_of_Milton)
-- [Winter Forecast](https://thelongdark.fandom.com/wiki/Winter_Forecast)
-
-### Audio Recordings & Media
+#### Audio Recordings & Media
 
 - [Buffer Memories](https://thelongdark.fandom.com/wiki/Buffer_Memories)
 - [Play Me](https://thelongdark.fandom.com/wiki/Play_Me)
@@ -1846,29 +1837,29 @@
 - [Wax Cylinder Player](https://thelongdark.fandom.com/wiki/Wax_Cylinder_Player)
 - [Wax Cylinders](https://thelongdark.fandom.com/wiki/Wax_Cylinders)
 
-### Blueprints & Recipe Cards
+#### Maps & Charts
 
-- [Bunker Schematic Fragment 1](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_1)
-- [Bunker Schematic Fragment 2](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_2)
-- [Bunker Schematic Fragment 3](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_3)
-- [Bushcraft Bow Blueprint Card](https://thelongdark.fandom.com/wiki/Bushcraft_Bow_Blueprint_Card)
-- [Forge Blueprints](https://thelongdark.fandom.com/wiki/Forge_Blueprints)
-- [Recipe Cards](https://thelongdark.fandom.com/wiki/Recipe_Cards)
-- [Wolfskin Hat Blueprint Card](https://thelongdark.fandom.com/wiki/Wolfskin_Hat_Blueprint_Card)
-- [Wolfskin Pants Blueprint Card](https://thelongdark.fandom.com/wiki/Wolfskin_Pants_Blueprint_Card)
+- [Blackrock Foothills Map](https://thelongdark.fandom.com/wiki/Blackrock_Foothills_Map)
+- [Lily's Map](https://thelongdark.fandom.com/wiki/Lily's_Map)
+- [Map (Church)](https://thelongdark.fandom.com/wiki/Map_(Church))
+- [Map (Train)](https://thelongdark.fandom.com/wiki/Map_(Train))
+- [Map of Pleasant Valley](https://thelongdark.fandom.com/wiki/Map_of_Pleasant_Valley)
+- [Sea Charts](https://thelongdark.fandom.com/wiki/Sea_Charts)
+- [Surveyed Locations](https://thelongdark.fandom.com/wiki/Surveyed_Locations)
 
-### Mementos
+#### Photographs & Polaroids
 
-- [Memento Mori 1](https://thelongdark.fandom.com/wiki/Memento_Mori_1)
-- [Memento Mori 2](https://thelongdark.fandom.com/wiki/Memento_Mori_2)
-- [Memento Mori 3](https://thelongdark.fandom.com/wiki/Memento_Mori_3)
-- [Memento Mori 4](https://thelongdark.fandom.com/wiki/Memento_Mori_4)
-- [Memento Mori 5](https://thelongdark.fandom.com/wiki/Memento_Mori_5)
-- [Mementos](https://thelongdark.fandom.com/wiki/Mementos)
-- [Prepper Hatch Location](https://thelongdark.fandom.com/wiki/Prepper_Hatch_Location)
-- [Rock Cache (Mementos)](https://thelongdark.fandom.com/wiki/Rock_Cache_(Mementos))
+- [Faded Photograph](https://thelongdark.fandom.com/wiki/Faded_Photograph)
+- [Foreman's Polaroid 1](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_1)
+- [Foreman's Polaroid 2](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_2)
+- [Foreman's Polaroid 3](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_3)
+- [Foreman's Polaroid 4](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_4)
+- [Foreman's Polaroid 5](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_5)
+- [Polaroids](https://thelongdark.fandom.com/wiki/Polaroids)
 
-### Artifacts & Keepsakes
+### Special Collectibles & Quest Items
+
+#### Artifacts & Keepsakes
 
 - [Cairns](https://thelongdark.fandom.com/wiki/Cairns)
 - [Church Artifact](https://thelongdark.fandom.com/wiki/Church_Artifact)
@@ -1879,7 +1870,29 @@
 - [The Old Bear's Ear](https://thelongdark.fandom.com/wiki/The_Old_Bear's_Ear)
 - [Time Capsule](https://thelongdark.fandom.com/wiki/Time_Capsule)
 
-### Quest Items & Supplies
+#### Blueprints & Recipe Cards
+
+- [Bunker Schematic Fragment 1](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_1)
+- [Bunker Schematic Fragment 2](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_2)
+- [Bunker Schematic Fragment 3](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_3)
+- [Bushcraft Bow Blueprint Card](https://thelongdark.fandom.com/wiki/Bushcraft_Bow_Blueprint_Card)
+- [Forge Blueprints](https://thelongdark.fandom.com/wiki/Forge_Blueprints)
+- [Recipe Cards](https://thelongdark.fandom.com/wiki/Recipe_Cards)
+- [Wolfskin Hat Blueprint Card](https://thelongdark.fandom.com/wiki/Wolfskin_Hat_Blueprint_Card)
+- [Wolfskin Pants Blueprint Card](https://thelongdark.fandom.com/wiki/Wolfskin_Pants_Blueprint_Card)
+
+#### Mementos
+
+- [Memento Mori 1](https://thelongdark.fandom.com/wiki/Memento_Mori_1)
+- [Memento Mori 2](https://thelongdark.fandom.com/wiki/Memento_Mori_2)
+- [Memento Mori 3](https://thelongdark.fandom.com/wiki/Memento_Mori_3)
+- [Memento Mori 4](https://thelongdark.fandom.com/wiki/Memento_Mori_4)
+- [Memento Mori 5](https://thelongdark.fandom.com/wiki/Memento_Mori_5)
+- [Mementos](https://thelongdark.fandom.com/wiki/Mementos)
+- [Prepper Hatch Location](https://thelongdark.fandom.com/wiki/Prepper_Hatch_Location)
+- [Rock Cache (Mementos)](https://thelongdark.fandom.com/wiki/Rock_Cache_(Mementos))
+
+#### Quest Items & Supplies
 
 - [Astrid's Backpack](https://thelongdark.fandom.com/wiki/Astrid's_Backpack)
 - [Astrid's Hardcase](https://thelongdark.fandom.com/wiki/Astrid's_Hardcase)
@@ -1892,13 +1905,6 @@
 - [Transmitters](https://thelongdark.fandom.com/wiki/Transmitters)
 - [Transponder Parts](https://thelongdark.fandom.com/wiki/Transponder_Parts)
 - [Trauma Kit](https://thelongdark.fandom.com/wiki/Trauma_Kit)
-
-### Reference Pages
-
-- [Collectibles](https://thelongdark.fandom.com/wiki/Collectibles)
-- [Memories/Transcript](https://thelongdark.fandom.com/wiki/Memories/Transcript)
-- [The Long Dark/Changelog/Archive 1](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog/Archive_1)
-- [The Long Dark/Changelog/Archive 2](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog/Archive_2)
 
 ## 17. Exploration & Caches
 
@@ -2105,26 +2111,29 @@
 
 ## 20. Trader Quests
 
-> Sutherland's Special Requests and their associated quest pages and quest-only items. This group keeps the Trader storyline together, including the Document Stashes and Broken Hatch Wheel.
+> The Trader, Sutherland’s Tale, and its special-request documents, stashes, and quest items.
 
-- [A Skeleton And Note](https://thelongdark.fandom.com/wiki/A_Skeleton_And_Note)
-- [Blackrock (mission)](https://thelongdark.fandom.com/wiki/Blackrock_(mission))
-- [Broken Hatch Wheel](https://thelongdark.fandom.com/wiki/Broken_Hatch_Wheel)
-- [Church Artifact (mission)](https://thelongdark.fandom.com/wiki/Church_Artifact_(mission))
+### Trader & Tale Overview
+
+- [Sutherland's Tale](https://thelongdark.fandom.com/wiki/Sutherland's_Tale)
+- [Trader](https://thelongdark.fandom.com/wiki/Trader)
+
+### Special Request Documents & Stashes
+
 - [Document Stash 1](https://thelongdark.fandom.com/wiki/Document_Stash_1)
 - [Document Stash 2](https://thelongdark.fandom.com/wiki/Document_Stash_2)
 - [Document Stash 3](https://thelongdark.fandom.com/wiki/Document_Stash_3)
 - [Document Stash 4](https://thelongdark.fandom.com/wiki/Document_Stash_4)
-- [Highway Robbery](https://thelongdark.fandom.com/wiki/Highway_Robbery)
-- [Highway Robbery (mission)](https://thelongdark.fandom.com/wiki/Highway_Robbery_(mission))
-- [Joplin's Bunker Raid](https://thelongdark.fandom.com/wiki/Joplin's_Bunker_Raid)
 - [Sutherland's Note](https://thelongdark.fandom.com/wiki/Sutherland's_Note)
-- [Sutherland's Tale](https://thelongdark.fandom.com/wiki/Sutherland's_Tale)
-- [Trade Drop Box](https://thelongdark.fandom.com/wiki/Trade_Drop_Box)
-- [Trader](https://thelongdark.fandom.com/wiki/Trader)
 - [Wyatt's Lost Papers 1](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_1)
 - [Wyatt's Lost Papers 2](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_2)
 - [Wyatt's Lost Papers 3](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_3)
+
+### Quest Items & Interactions
+
+- [A Skeleton And Note](https://thelongdark.fandom.com/wiki/A_Skeleton_And_Note)
+- [Broken Hatch Wheel](https://thelongdark.fandom.com/wiki/Broken_Hatch_Wheel)
+- [Trade Drop Box](https://thelongdark.fandom.com/wiki/Trade_Drop_Box)
 - [Wyatt's Skeleton](https://thelongdark.fandom.com/wiki/Wyatt's_Skeleton)
 
 ## 21. Story & Characters
@@ -2196,6 +2205,7 @@
 
 ### Wintermute — Episode 1: Side Missions
 
+- [Highway Robbery (mission)](https://thelongdark.fandom.com/wiki/Highway_Robbery_(mission))
 - [One Last Thing](https://thelongdark.fandom.com/wiki/One_Last_Thing)
 
 ### Wintermute — Episode 2: Main Missions
@@ -2220,7 +2230,10 @@
 
 ### Wintermute — Episode 3: Side Missions
 
+- [Blackrock (mission)](https://thelongdark.fandom.com/wiki/Blackrock_(mission))
+- [Church Artifact (mission)](https://thelongdark.fandom.com/wiki/Church_Artifact_(mission))
 - [Forest Talkers (side mission)](https://thelongdark.fandom.com/wiki/Forest_Talkers_(side_mission))
+- [Joplin's Bunker Raid](https://thelongdark.fandom.com/wiki/Joplin's_Bunker_Raid)
 - [Molly's Gift](https://thelongdark.fandom.com/wiki/Molly's_Gift)
 - [Tall Tales](https://thelongdark.fandom.com/wiki/Tall_Tales)
 
@@ -2254,6 +2267,7 @@
 
 ### Wintermute — Episode 1: Transcripts
 
+- [Memories/Transcript](https://thelongdark.fandom.com/wiki/Memories/Transcript)
 - [Paradise Lost/Transcript](https://thelongdark.fandom.com/wiki/Paradise_Lost/Transcript)
 - [The Crash/Transcript](https://thelongdark.fandom.com/wiki/The_Crash/Transcript)
 - [The Grey Mother/Transcript](https://thelongdark.fandom.com/wiki/The_Grey_Mother/Transcript)
@@ -2551,6 +2565,7 @@
 
 - [Characters](https://thelongdark.fandom.com/wiki/Characters)
 - [Clothing](https://thelongdark.fandom.com/wiki/Clothing)
+- [Collectibles](https://thelongdark.fandom.com/wiki/Collectibles)
 - [Locations](https://thelongdark.fandom.com/wiki/Locations)
 - [Materials](https://thelongdark.fandom.com/wiki/Materials)
 - [Region](https://thelongdark.fandom.com/wiki/Region)
@@ -2560,6 +2575,8 @@
 
 - [Hinterland Studio Inc.](https://thelongdark.fandom.com/wiki/Hinterland_Studio_Inc.)
 - [The Long Dark/Changelog](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog)
+- [The Long Dark/Changelog/Archive 1](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog/Archive_1)
+- [The Long Dark/Changelog/Archive 2](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog/Archive_2)
 - [The Long Dark/Early Access Changelog](https://thelongdark.fandom.com/wiki/The_Long_Dark/Early_Access_Changelog)
 - [Timeline of The Long Dark](https://thelongdark.fandom.com/wiki/Timeline_of_The_Long_Dark)
 

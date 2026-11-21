@@ -1484,9 +1484,13 @@ def _convert_html_to_markdown(
 
 
 def _source_markdown_fallback(
-    page: DumpPage, pandoc: str, conversion_stage: str, error: Exception
+    page: DumpPage,
+    pandoc: str,
+    conversion_stage: str,
+    error: Exception,
+    resources: PageExportResources,
 ) -> PageConversion:
-    """Use direct source-to-Markdown conversion as the last recovery path."""
+    """Use direct source conversion, normalizing HTML if Pandoc retains it."""
     conversion_stage_error = f"{conversion_stage} failed: {error}"
     try:
         markdown_body = _run_pandoc(pandoc, page.text, "mediawiki", "gfm")
@@ -1500,6 +1504,26 @@ def _source_markdown_fallback(
             ),
             conversion_errors=1,
         )
+
+    if HTML_TAG_RE.search(markdown_body):
+        try:
+            html_fragment = _run_pandoc(pandoc, page.text, "mediawiki", "html")
+            rewritten_html, _, _ = _rewrite_page_html(
+                html_fragment, page, resources, ""
+            )
+            markdown_body = _html_fragment_to_markdown(rewritten_html)
+        except Exception as html_error:
+            markdown_body = "\n".join("> " + line for line in page.text.splitlines())
+            return PageConversion(
+                markdown_body=markdown_body,
+                status="conversion_failed",
+                note=(
+                    f"{conversion_stage_error}; HTML normalization fallback failed: "
+                    f"{html_error}"
+                ),
+                conversion_errors=1,
+            )
+
     return PageConversion(
         markdown_body=markdown_body,
         status="raw_fallback",
@@ -1546,7 +1570,9 @@ def _convert_page_body(
             status = "expand_failed"
         return PageConversion(markdown_body, status, note)
     except Exception as exc:
-        return _source_markdown_fallback(page, pandoc, conversion_stage, exc)
+        return _source_markdown_fallback(
+            page, pandoc, conversion_stage, exc, resources
+        )
 
 
 def _export_one_page(

@@ -187,6 +187,53 @@ def load_filename_mapping(path: Path) -> dict[str, str]:
     return title_to_filename
 
 
+def _xml_local_name(element: Element) -> str:
+    """Return an XML element's local name without its namespace."""
+    return element.tag.rsplit("}", 1)[-1]
+
+
+def _read_revision(
+    revision: Element, model: str, text: str
+) -> tuple[str, str]:
+    """Read the content model and text from a revision element."""
+    for child in revision:
+        tag = _xml_local_name(child)
+        if tag == "text":
+            text = child.text or ""
+        elif tag == "model":
+            model = child.text or model
+    return model, text
+
+
+def _page_from_element(element: Element) -> DumpPage | None:
+    """Extract a typed page record from one XML page element."""
+    title = ""
+    namespace = 0
+    model = "wikitext"
+    text = ""
+    redirect: str | None = None
+
+    for child in element:
+        tag = _xml_local_name(child)
+        if tag == "title":
+            title = child.text or ""
+        elif tag == "ns":
+            namespace = int(child.text or "0")
+        elif tag == "redirect":
+            redirect = child.get("title")
+        elif tag == "revision":
+            model, text = _read_revision(child, model, text)
+
+    if not redirect:
+        match = REDIRECT_RE.match(text)
+        if match:
+            redirect = match.group(1).strip()
+
+    if not title:
+        return None
+    return DumpPage(title, namespace, model, text, redirect)
+
+
 def _iter_dump_pages(path: Path) -> Iterator[DumpPage]:
     """Stream page records from a MediaWiki XML dump."""
     events = cast(
@@ -199,39 +246,13 @@ def _iter_dump_pages(path: Path) -> Iterator[DumpPage]:
         raise ValueError(f"Wiki dump is empty: {path}") from exc
 
     for event, element in events:
-        if event != "end" or element.tag.rsplit("}", 1)[-1] != "page":
+        if event != "end" or _xml_local_name(element) != "page":
             continue
 
-        title = ""
-        namespace = 0
-        model = "wikitext"
-        text = ""
-        redirect: str | None = None
-
-        for child in element:
-            tag = child.tag.rsplit("}", 1)[-1]
-            if tag == "title":
-                title = child.text or ""
-            elif tag == "ns":
-                namespace = int(child.text or "0")
-            elif tag == "redirect":
-                redirect = child.get("title")
-            elif tag == "revision":
-                for revision_child in child:
-                    revision_tag = revision_child.tag.rsplit("}", 1)[-1]
-                    if revision_tag == "text":
-                        text = revision_child.text or ""
-                    elif revision_tag == "model":
-                        model = revision_child.text or model
-
-        if not redirect:
-            match = REDIRECT_RE.match(text)
-            if match:
-                redirect = match.group(1).strip()
-
+        page = _page_from_element(element)
         root.clear()
-        if title:
-            yield DumpPage(title, namespace, model, text, redirect)
+        if page is not None:
+            yield page
 
 
 def _create_wtp() -> Any:

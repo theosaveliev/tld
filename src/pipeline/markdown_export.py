@@ -1878,7 +1878,10 @@ def _contains_custom_render_table(fragment: str) -> bool:
         "gallery" in (table.get("class") or "").split()
         or any(_html_tag(child) == "img" for child in table.iter())
         or any(
-            sum(_html_tag(cell) in {"td", "th"} for cell in row) > WIDE_TABLE_COLUMN_THRESHOLD
+            sum(
+                _html_tag(cell) in {"td", "th"} for cell in row
+            )
+            > WIDE_TABLE_COLUMN_THRESHOLD
             for row in table.iter("tr")
         )
         for table in root.iter("table")

@@ -219,6 +219,7 @@ def audit_filenames(
     if not report["issues"]:
         click.echo("No filename issues found.")
 
+
 @cli.command("export-markdown")
 @click.argument("wiki_dump", type=IN_PATH)
 @click.option(

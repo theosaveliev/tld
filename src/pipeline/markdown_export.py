@@ -524,19 +524,19 @@ def _repair_unclosed_mediawiki_tables(text: str) -> tuple[str, int]:
             continue
 
         if literal_tag is not None:
-            closing = re.search(rf"</{re.escape(literal_tag)}\\s*>", visible, re.I)
+            closing = re.search(rf"</{re.escape(literal_tag)}\s*>", visible, re.I)
             if closing is None:
                 continue
             visible = visible[closing.end() :]
             literal_tag = None
 
         opening = re.search(
-            r"<(nowiki|pre|source|syntaxhighlight)\\b[^>]*>", visible, re.I
+            r"<(nowiki|pre|source|syntaxhighlight)\b[^>]*>", visible, re.I
         )
         if opening is not None:
             tag = opening.group(1)
             closing = re.search(
-                rf"</{re.escape(tag)}\\s*>", visible[opening.end() :], re.I
+                rf"</{re.escape(tag)}\s*>", visible[opening.end() :], re.I
             )
             if closing is None:
                 visible = visible[: opening.start()]
@@ -554,8 +554,8 @@ def _repair_unclosed_mediawiki_tables(text: str) -> tuple[str, int]:
     if depth == 0:
         return text, 0
 
-    suffix = "\\n".join("|}" for _ in range(depth))
-    repaired = text.rstrip() + "\\n" + suffix + "\\n"
+    suffix = "\n".join("|}" for _ in range(depth))
+    repaired = text.rstrip() + "\n" + suffix + "\n"
     return repaired, depth
 
 
@@ -1062,7 +1062,7 @@ def _export_one_page(
             )
         except Exception as fallback_error:
             conversion_errors = 1
-            markdown_body = "\\n".join(
+            markdown_body = "\n".join(
                 "> " + line for line in page.text.splitlines()
             )
             status = "conversion_failed"

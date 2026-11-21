@@ -1,4 +1,5 @@
 import json
+from collections.abc import Mapping
 from typing import TYPE_CHECKING
 
 import pytest
@@ -6,6 +7,8 @@ import pytest
 from pipeline import markdown_export as markdown_export_module
 from pipeline.markdown_export import (
     DumpPage,
+    RenderStats,
+    WikiContext,
     _export_one_page,  # pyright: ignore[reportPrivateUsage]
     _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
     _markdown_label,  # pyright: ignore[reportPrivateUsage]
@@ -20,6 +23,23 @@ from pipeline.markdown_export import (
 
 if TYPE_CHECKING:
     from pathlib import Path
+
+
+class FakeContext:
+    """Minimal context implementing the renderer protocol for export tests."""
+
+    def add_page(self, model: str, title: str, text: str) -> object:
+        return (model, title, text)
+
+    def analyze_templates(self) -> None:
+        pass
+
+    def start_page(self, title: str) -> None:
+        pass
+
+    def expand(self, text: str, timeout: int) -> str:
+        _ = timeout
+        return text
 
 
 def test_markdown_label_escapes_punctuation() -> None:
@@ -301,14 +321,6 @@ def test_repair_unclosed_mediawiki_tables_ignores_literal_and_comment_content() 
 def test_export_retries_pandoc_after_closing_unterminated_wikitext_table(
     tmp_path: Path, monkeypatch: pytest.MonkeyPatch
 ) -> None:
-    class FakeContext:
-        def start_page(self, title: str) -> None:
-            pass
-
-        def expand(self, text: str, timeout: int) -> str:
-            _ = timeout
-            return text
-
     def fake_pandoc(
         _pandoc: str, text: str, source_format: str, target_format: str
     ) -> str:
@@ -322,7 +334,14 @@ def test_export_retries_pandoc_after_closing_unterminated_wikitext_table(
         assert (source_format, target_format) == ("html", "gfm")
         return "Recovered article text"
 
-    def preprocess(*_args: object) -> str:
+    def preprocess(
+        text: str,
+        context: WikiContext,
+        infobox_defs: Mapping[str, object],
+        page_title: str,
+        stats: RenderStats,
+    ) -> str:
+        _ = (text, context, infobox_defs, page_title, stats)
         return """{| class="infobox"
 | an open row"""
 
@@ -363,14 +382,6 @@ def test_export_retries_pandoc_after_closing_unterminated_wikitext_table(
 def test_export_preserves_rendered_html_when_gfm_conversion_fails(
     tmp_path: Path, monkeypatch: pytest.MonkeyPatch
 ) -> None:
-    class FakeContext:
-        def start_page(self, title: str) -> None:
-            pass
-
-        def expand(self, text: str, timeout: int) -> str:
-            _ = timeout
-            return text
-
     def fake_pandoc(
         _pandoc: str, _text: str, source_format: str, target_format: str
     ) -> str:
@@ -414,14 +425,6 @@ def test_export_preserves_rendered_html_when_gfm_conversion_fails(
 def test_export_renders_original_source_if_expanded_wikitext_stays_invalid(
     tmp_path: Path, monkeypatch: pytest.MonkeyPatch
 ) -> None:
-    class FakeContext:
-        def start_page(self, title: str) -> None:
-            pass
-
-        def expand(self, text: str, timeout: int) -> str:
-            _ = timeout
-            return text
-
     mediawiki_html_inputs: list[str] = []
 
     def fake_pandoc(
@@ -438,7 +441,14 @@ def test_export_renders_original_source_if_expanded_wikitext_stays_invalid(
         assert (source_format, target_format) == ("html", "gfm")
         return "Original source prose"
 
-    def preprocess(*_args: object) -> str:
+    def preprocess(
+        text: str,
+        context: WikiContext,
+        infobox_defs: Mapping[str, object],
+        page_title: str,
+        stats: RenderStats,
+    ) -> str:
+        _ = (text, context, infobox_defs, page_title, stats)
         return """{| class="infobox"
 | malformed expansion"""
 

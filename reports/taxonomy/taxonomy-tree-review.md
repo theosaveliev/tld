@@ -1207,8 +1207,6 @@
 
 ### Beds & Seating
 
-> Craftable beds and seating for Safehouses.
-
 - [Bear Hide Bed](https://thelongdark.fandom.com/wiki/Bear_Hide_Bed)
 - [Hide Chair](https://thelongdark.fandom.com/wiki/Hide_Chair)
 - [Hide Couch](https://thelongdark.fandom.com/wiki/Hide_Couch)
@@ -1220,8 +1218,6 @@
 
 ### Tables & Surfaces
 
-> Craftable tables and display surfaces.
-
 - [Coffee Table](https://thelongdark.fandom.com/wiki/Coffee_Table)
 - [Decorative End Table](https://thelongdark.fandom.com/wiki/Decorative_End_Table)
 - [Round Table](https://thelongdark.fandom.com/wiki/Round_Table)
@@ -1230,8 +1226,6 @@
 - [Square Table](https://thelongdark.fandom.com/wiki/Square_Table)
 
 ### Storage & Shelving
-
-> Craftable dressers, cupboards, closets, shelves, and storage containers.
 
 - [Dresser](https://thelongdark.fandom.com/wiki/Dresser)
 - [Rustic Closet](https://thelongdark.fandom.com/wiki/Rustic_Closet)
@@ -1245,23 +1239,18 @@
 - [Wide Display Shelf](https://thelongdark.fandom.com/wiki/Wide_Display_Shelf)
 - [Wide Dresser](https://thelongdark.fandom.com/wiki/Wide_Dresser)
 
-### Wall Art & Displays
+### Wall Art, Carvings & Displays
 
-> Craftable wall pieces and framed displays.
-
-- [Decorative Art](https://thelongdark.fandom.com/wiki/Decorative_Art)
-- [Decorative Art (2)](https://thelongdark.fandom.com/wiki/Decorative_Art_(2))
-- [Framed Hockey Jersey](https://thelongdark.fandom.com/wiki/Framed_Hockey_Jersey)
-- [Framed Photo](https://thelongdark.fandom.com/wiki/Framed_Photo)
-
-### Carvings & Animal Displays
-
-> Craftable animal figurines, hide décor, and mounted fish.
+> Craftable wall art, figurines, hide décor, and mounted fish.
 
 - [Bear Hide Rug](https://thelongdark.fandom.com/wiki/Bear_Hide_Rug)
 - [Carved Bear Figurine](https://thelongdark.fandom.com/wiki/Carved_Bear_Figurine)
 - [Carved Cougar Figurine](https://thelongdark.fandom.com/wiki/Carved_Cougar_Figurine)
 - [Carved Wolf Figurine](https://thelongdark.fandom.com/wiki/Carved_Wolf_Figurine)
+- [Decorative Art](https://thelongdark.fandom.com/wiki/Decorative_Art)
+- [Decorative Art (2)](https://thelongdark.fandom.com/wiki/Decorative_Art_(2))
+- [Framed Hockey Jersey](https://thelongdark.fandom.com/wiki/Framed_Hockey_Jersey)
+- [Framed Photo](https://thelongdark.fandom.com/wiki/Framed_Photo)
 - [Mounted Burbot](https://thelongdark.fandom.com/wiki/Mounted_Burbot)
 - [Mounted Coho Salmon](https://thelongdark.fandom.com/wiki/Mounted_Coho_Salmon)
 - [Mounted Goldeye](https://thelongdark.fandom.com/wiki/Mounted_Goldeye)
@@ -1273,9 +1262,8 @@
 
 ### Utility Furniture
 
-> Craftable furnishings with a practical survival function.
-
 - [Meat Curing Box](https://thelongdark.fandom.com/wiki/Meat_Curing_Box)
+
 ## 11. Gameplay
 
 > This section covers the systems, mechanics, activities, and interactions that shape play. Portable inventory items are classified in their relevant functional groups; most fixed objects encountered in the environment belong under World Objects, while crafting workbenches and stations are grouped under Tools & Equipment.

@@ -68,7 +68,7 @@ A select number of special areas contains around 5 Batteries in an indoor space.
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Scrap Lead](./Scrap%20Lead.md) | None | - 1 × [Car Battery](./Car%20Battery.md) |
+| [![Scrap Lead](../assets/Scrap_Lead_icon.png)](./Scrap%20Lead.md) [Scrap Lead](./Scrap%20Lead.md) | None | - 1 × [Car Battery](./Car%20Battery.md) |
 
 ## Tips
 

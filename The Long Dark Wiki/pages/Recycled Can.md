@@ -70,7 +70,7 @@ A [Can](./Can.md) can also be harvested for a Recycled Can.
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Noisemaker](./Noisemaker.md) | None | - 1 × [Recycled Can](./Recycled%20Can.md) / - 1 × [Cloth](./Cloth.md) / - 0.10 kg × [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
+| [![Noisemaker](../assets/Noisemaker_icon.png)](./Noisemaker.md) [Noisemaker](./Noisemaker.md) | None | - 1 × [Recycled Can](./Recycled%20Can.md) / - 1 × [Cloth](./Cloth.md) / - 0.10 kg × [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
 
 ## Trivia
 

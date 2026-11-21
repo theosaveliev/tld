@@ -80,7 +80,7 @@ Cooked Acorns, while not a calorically dense food, having just over half the cal
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Acorn Grounds](./Acorn%20Grounds.md) | None | - 4 × [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) |
+| [![Acorn Grounds](../assets/Acorn_Grounds_icon.png)](./Acorn%20Grounds.md) [Acorn Grounds](./Acorn%20Grounds.md) | None | - 4 × [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) |
 
 ## Update history
 

@@ -48,7 +48,7 @@ Skills
 
 Materials
 
-[Big Bass (Cooked)](./Big%20Bass%20%28Cooked%29.md)
+[![Big Bass (Cooked)](../assets/Big_Bass_%28Cooked%29_icon.png)](./Big%20Bass%20%28Cooked%29.md) [Big Bass (Cooked)](./Big%20Bass%20%28Cooked%29.md)
 
 None
 

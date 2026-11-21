@@ -73,7 +73,7 @@ Skills
 
 Materials
 
-[Thomson Family Stew](./Thomson%20Family%20Stew.md)
+[![Thomson Family Stew](../assets/Thomson_Family_Stew_icon.png)](./Thomson%20Family%20Stew.md) [Thomson Family Stew](./Thomson%20Family%20Stew.md)
 
 None
 

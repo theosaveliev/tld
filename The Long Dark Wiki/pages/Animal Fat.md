@@ -44,25 +44,25 @@ Skills
 
 Materials
 
-[Cooking Oil](./Cooking%20Oil.md)
+[![Cooking Oil](../assets/Cooking_Oil_icon.png)](./Cooking%20Oil.md) [Cooking Oil](./Cooking%20Oil.md)
 
 None
 
 - 1.00 kg × [Animal Fat](./Animal%20Fat.md)
 
-[Cooking Oil](./Cooking%20Oil.md)
+[![Cooking Oil](../assets/Cooking_Oil_icon.png)](./Cooking%20Oil.md) [Cooking Oil](./Cooking%20Oil.md)
 
 None
 
 - 1.00 kg × [Animal Fat](./Animal%20Fat.md)
 
-[Pemmican Bar](./Pemmican%20Bar.md)
+[![Pemmican Bar](../assets/Pemmican_Bar_icon.png)](./Pemmican%20Bar.md) [Pemmican Bar](./Pemmican%20Bar.md)
 
 None
 
 - 0.50 kg × [Cured Meat](./Cured%20Meat.md) / - 15 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Animal Fat](./Animal%20Fat.md) / - 0.05 kg × [Salt](./Salt.md)
 
-[Pemmican Bar](./Pemmican%20Bar.md)
+[![Pemmican Bar](../assets/Pemmican_Bar_icon.png)](./Pemmican%20Bar.md) [Pemmican Bar](./Pemmican%20Bar.md)
 
 None
 

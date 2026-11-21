@@ -73,8 +73,8 @@ Cured Leather is harvested from and used to repair:
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | None | - 1 × [Cougar Claw](./Cougar%20Claw.md) / - 3 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Cured Leather](./Cured%20Leather.md) |
-| [Improvised Crampons](./Improvised%20Crampons.md) | None | - 4 × [Scrap Metal](./Scrap%20Metal.md) / - 2 × [Cured Leather](./Cured%20Leather.md) |
+| [![Cougar Claw Knife](../assets/Cougar_Claw_Knife_icon.png)](./Cougar%20Claw%20Knife.md) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | None | - 1 × [Cougar Claw](./Cougar%20Claw.md) / - 3 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Cured Leather](./Cured%20Leather.md) |
+| [![Improvised Crampons](../assets/Improvised_Crampons_icon.png)](./Improvised%20Crampons.md) [Improvised Crampons](./Improvised%20Crampons.md) | None | - 4 × [Scrap Metal](./Scrap%20Metal.md) / - 2 × [Cured Leather](./Cured%20Leather.md) |
 
 ## Trivia
 

@@ -40,7 +40,7 @@ Skills
 
 Materials
 
-[Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md)
+[![Cougar Hide Wrap](../assets/Cougar_Hide_Wrap_icon.png)](./Cougar%20Hide%20Wrap.md) [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md)
 
 None
 

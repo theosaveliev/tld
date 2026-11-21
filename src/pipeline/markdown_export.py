@@ -965,8 +965,7 @@ def _load_renderer_pipeline(
     preprocess = cast("PreprocessFunction", renderer.prepass)
     postprocess = cast("PostprocessFunction", renderer.postexpand)
     load_infobox_defs = cast(
-        "Callable[[WikiContext], Mapping[str, object]]",
-        renderer.load_infobox_defs,
+        "Callable[[WikiContext], Mapping[str, object]]", renderer.load_infobox_defs
     )
     wtp_factory = cast("WtpFactory", renderer.Wtp)
     pandoc_selftest = cast("Callable[[str], str]", renderer.pandoc_selftest)

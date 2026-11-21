@@ -939,8 +939,6 @@
 
 ### Bows & Arrows
 
-- [Arrow Shaft](https://thelongdark.fandom.com/wiki/Arrow_Shaft)
-- [Arrowhead](https://thelongdark.fandom.com/wiki/Arrowhead)
 - [Broken Arrow](https://thelongdark.fandom.com/wiki/Broken_Arrow)
 - [Broken Fire Hardened Arrow](https://thelongdark.fandom.com/wiki/Broken_Fire_Hardened_Arrow)
 - [Broken Manufactured Arrow](https://thelongdark.fandom.com/wiki/Broken_Manufactured_Arrow)
@@ -966,11 +964,8 @@
 - [Can of Gunpowder](https://thelongdark.fandom.com/wiki/Can_of_Gunpowder)
 - [Flare Shell](https://thelongdark.fandom.com/wiki/Flare_Shell)
 - [Revolver Ammunition](https://thelongdark.fandom.com/wiki/Revolver_Ammunition)
-- [Revolver Shell Casing](https://thelongdark.fandom.com/wiki/Revolver_Shell_Casing)
 - [Rifle Ammunition](https://thelongdark.fandom.com/wiki/Rifle_Ammunition)
-- [Rifle Shell Casing](https://thelongdark.fandom.com/wiki/Rifle_Shell_Casing)
 - [Shotgun Ammunition](https://thelongdark.fandom.com/wiki/Shotgun_Ammunition)
-- [Shotgun Shell Casing](https://thelongdark.fandom.com/wiki/Shotgun_Shell_Casing)
 
 ## 7. Tools & Equipment
 
@@ -1149,22 +1144,8 @@
 
 > Animal-derived materials used for crafting, repair, and insulation.
 
-#### Fresh Animal Materials
-
-> Hides and gut harvested from fresh carcasses, before curing.
-
-- [Fresh Black Bear Hide](https://thelongdark.fandom.com/wiki/Fresh_Black_Bear_Hide)
-- [Fresh Cougar Hide](https://thelongdark.fandom.com/wiki/Fresh_Cougar_Hide)
-- [Fresh Deer Hide](https://thelongdark.fandom.com/wiki/Fresh_Deer_Hide)
-- [Fresh Gut](https://thelongdark.fandom.com/wiki/Fresh_Gut)
-- [Fresh Moose Hide](https://thelongdark.fandom.com/wiki/Fresh_Moose_Hide)
-- [Fresh Rabbit Pelt](https://thelongdark.fandom.com/wiki/Fresh_Rabbit_Pelt)
-- [Fresh Wolf Pelt](https://thelongdark.fandom.com/wiki/Fresh_Wolf_Pelt)
-
-#### Cured Animal Materials
-
-> Hides and gut that have finished curing and are ready for use.
-
+- [Cougar Claw](https://thelongdark.fandom.com/wiki/Cougar_Claw)
+- [Crow Feather](https://thelongdark.fandom.com/wiki/Crow_Feather)
 - [Cured Black Bear Hide](https://thelongdark.fandom.com/wiki/Cured_Black_Bear_Hide)
 - [Cured Cougar Hide](https://thelongdark.fandom.com/wiki/Cured_Cougar_Hide)
 - [Cured Deer Hide](https://thelongdark.fandom.com/wiki/Cured_Deer_Hide)
@@ -1172,41 +1153,45 @@
 - [Cured Moose Hide](https://thelongdark.fandom.com/wiki/Cured_Moose_Hide)
 - [Cured Rabbit Pelt](https://thelongdark.fandom.com/wiki/Cured_Rabbit_Pelt)
 - [Cured Wolf Pelt](https://thelongdark.fandom.com/wiki/Cured_Wolf_Pelt)
-
-#### Other Animal Materials
-
-> Other animal-derived crafting resources.
-
-- [Cougar Claw](https://thelongdark.fandom.com/wiki/Cougar_Claw)
-- [Crow Feather](https://thelongdark.fandom.com/wiki/Crow_Feather)
+- [Fresh Black Bear Hide](https://thelongdark.fandom.com/wiki/Fresh_Black_Bear_Hide)
+- [Fresh Cougar Hide](https://thelongdark.fandom.com/wiki/Fresh_Cougar_Hide)
+- [Fresh Deer Hide](https://thelongdark.fandom.com/wiki/Fresh_Deer_Hide)
+- [Fresh Gut](https://thelongdark.fandom.com/wiki/Fresh_Gut)
+- [Fresh Moose Hide](https://thelongdark.fandom.com/wiki/Fresh_Moose_Hide)
+- [Fresh Rabbit Pelt](https://thelongdark.fandom.com/wiki/Fresh_Rabbit_Pelt)
+- [Fresh Wolf Pelt](https://thelongdark.fandom.com/wiki/Fresh_Wolf_Pelt)
 - [Ptarmigan Down](https://thelongdark.fandom.com/wiki/Ptarmigan_Down)
 
-### Gunsmithing Materials
+### Gunsmithing & Archery Materials
 
-> Materials used to produce gunpowder and ammunition.
+> Components used to craft ammunition, bows, and arrows.
+
+#### Ammunition Components
 
 - [Dusting Sulfur](https://thelongdark.fandom.com/wiki/Dusting_Sulfur)
+- [Revolver Shell Casing](https://thelongdark.fandom.com/wiki/Revolver_Shell_Casing)
+- [Rifle Shell Casing](https://thelongdark.fandom.com/wiki/Rifle_Shell_Casing)
 - [Scrap Lead](https://thelongdark.fandom.com/wiki/Scrap_Lead)
+- [Shotgun Shell Casing](https://thelongdark.fandom.com/wiki/Shotgun_Shell_Casing)
 - [Stump Remover](https://thelongdark.fandom.com/wiki/Stump_Remover)
+
+#### Archery Components
+
+- [Arrow Shaft](https://thelongdark.fandom.com/wiki/Arrow_Shaft)
+- [Arrowhead](https://thelongdark.fandom.com/wiki/Arrowhead)
+- [Cured Birch Sapling](https://thelongdark.fandom.com/wiki/Cured_Birch_Sapling)
+- [Cured Maple Sapling](https://thelongdark.fandom.com/wiki/Cured_Maple_Sapling)
 
 ### Mechanical & Electrical Components
 
 > Recovered parts used to repair or construct mechanical, electrical, and transport equipment.
 
 - [Brake Shoe](https://thelongdark.fandom.com/wiki/Brake_Shoe)
-- [Burned Out Fuse](https://thelongdark.fandom.com/wiki/Burned_Out_Fuse)
 - [Car Battery](https://thelongdark.fandom.com/wiki/Car_Battery)
 - [Replacement Fuse](https://thelongdark.fandom.com/wiki/Replacement_Fuse)
 - [Scrap Metal](https://thelongdark.fandom.com/wiki/Scrap_Metal)
 - [Wires](https://thelongdark.fandom.com/wiki/Wires)
 - [Workbench Vice](https://thelongdark.fandom.com/wiki/Workbench_Vice)
-
-### Plant & Sapling Materials
-
-> Prepared saplings used to craft wooden equipment.
-
-- [Cured Birch Sapling](https://thelongdark.fandom.com/wiki/Cured_Birch_Sapling)
-- [Cured Maple Sapling](https://thelongdark.fandom.com/wiki/Cured_Maple_Sapling)
 
 ### Textile & Leather Materials
 
@@ -1537,6 +1522,7 @@
 - [Bunker Schematic Fragment 1](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_1)
 - [Bunker Schematic Fragment 2](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_2)
 - [Bunker Schematic Fragment 3](https://thelongdark.fandom.com/wiki/Bunker_Schematic_Fragment_3)
+- [Burned Out Fuse](https://thelongdark.fandom.com/wiki/Burned_Out_Fuse)
 - [Bushcraft Bow Blueprint Card](https://thelongdark.fandom.com/wiki/Bushcraft_Bow_Blueprint_Card)
 - [Cairns](https://thelongdark.fandom.com/wiki/Cairns)
 - [Cannery Memo](https://thelongdark.fandom.com/wiki/Cannery_Memo)

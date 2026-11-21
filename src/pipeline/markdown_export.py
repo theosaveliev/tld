@@ -196,8 +196,11 @@ def resolve_internal_href(
     External URLs and same-page anchors are returned unchanged. Unresolved
     wiki links return None so the caller can retain their label.
     """
-    if not href or href.startswith("#") or href.startswith("//"):
+    if not href or href.startswith("//"):
         return href
+    if href.startswith("#"):
+        fragment = urllib.parse.unquote(href[1:]).replace(" ", "_")
+        return "#" + _safe_destination(fragment)
 
     parsed = urllib.parse.urlsplit(href)
     scheme = parsed.scheme.casefold()

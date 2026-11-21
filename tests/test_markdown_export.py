@@ -617,7 +617,12 @@ def test_export_uses_html_to_markdown_when_direct_source_conversion_fails(
         if source_format == "mediawiki" and target_format == "gfm":
             raise RuntimeError("simulated direct Markdown failure")
         if source_format == "mediawiki" and target_format == "html":
-            return "".join(\n                (\n                    "<div><h2>Source fallback</h2>",\n                    "<p><strong>Readable</strong> text</p></div>",\n                )\n            )
+            return "".join(
+                (
+                    "<div><h2>Source fallback</h2>",
+                    "<p><strong>Readable</strong> text</p></div>",
+                )
+            )
         raise AssertionError("Unexpected Pandoc conversion")
 
     def fail_postprocess(

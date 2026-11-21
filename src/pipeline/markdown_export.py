@@ -282,9 +282,15 @@ def _read_revision(
     for child in revision:
         tag = _xml_local_name(child)
         if tag == "slots":
-            for slot in child:
-                if _xml_local_name(slot) == "slot":
-                    model, text = _read_slot(slot, model, text)
+            slots = [
+                slot for slot in child if _xml_local_name(slot) == "slot"
+            ]
+            main_slot = next(
+                (slot for slot in slots if slot.get("role") == "main"),
+                slots[0] if slots else None,
+            )
+            if main_slot is not None:
+                model, text = _read_slot(main_slot, model, text)
         elif tag == "text":
             text = child.text or ""
         elif tag == "model":
@@ -747,13 +753,14 @@ def _page_markdown(
     return "\n".join(metadata)
 
 
+MARKDOWN_SPECIAL_CHARS = frozenset("\\`*_{}[]()#+-.!|>")
+
+
 def _markdown_label(title: str) -> str:
-    """Escape a wiki title for use as a Markdown link label."""
-    return (
-        title.replace("\\", "\\\\")
-        .replace("[", "\\[")
-        .replace("]", "\\]")
-        .replace("|", "\\|")
+    """Escape Markdown punctuation in a wiki title used as text or a label."""
+    return "".join(
+        "\\" + character if character in MARKDOWN_SPECIAL_CHARS else character
+        for character in title
     )
 
 

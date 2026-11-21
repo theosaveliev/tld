@@ -1124,7 +1124,7 @@ def _render_material_usage_table(
         material_items = "".join(
             "<li>"
             + html.escape(quantity)
-            + " &#215; <a href=\""
+            + " × <a href=\""
             + html.escape(material, quote=True)
             + "\">"
             + html.escape(material)

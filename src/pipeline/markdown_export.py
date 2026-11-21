@@ -30,6 +30,7 @@ if TYPE_CHECKING:
 REDIRECT_RE = re.compile(r"\s*#redirect\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
 MAX_FILENAME_BYTES = 255
 INFOBOX_VALUE_CELL_COUNT = 2
+QUOTE_TABLE_CELL_COUNT = 3
 MINIMUM_HEADINGS_FOR_TOC = 4
 EXTERNAL_SCHEMES = frozenset({"ftp", "http", "https", "mailto", "tel"})
 LOCAL_WIKI_SCHEMES = frozenset(
@@ -1232,23 +1233,25 @@ def _inline_markdown_media(
     node: lhtml.HtmlElement, tag: str, content: str
 ) -> str | None:
     """Convert links, images, controls, and embedded media to Markdown."""
+    result: str | None = None
     if tag == "a":
         href = node.get("href")
         if not href:
-            return content
-        label = content or _markdown_text(href)
-        return f"[{label}]({_markdown_destination(href)})"
-    if tag == "img":
-        return _markdown_image(node)
-    if tag == "br":
-        return "  \n"
-    if tag == "input":
-        return _inline_markdown_input(node)
-    if tag == "svg":
-        return _inline_markdown_svg(node)
-    if tag in {"iframe", "video", "audio", "object", "embed"}:
-        return _inline_markdown_embedded_media(node, content)
-    return None
+            result = content
+        else:
+            label = content or _markdown_text(href)
+            result = f"[{label}]({_markdown_destination(href)})"
+    elif tag == "img":
+        result = _markdown_image(node)
+    elif tag == "br":
+        result = "  \n"
+    elif tag == "input":
+        result = _inline_markdown_input(node)
+    elif tag == "svg":
+        result = _inline_markdown_svg(node)
+    elif tag in {"iframe", "video", "audio", "object", "embed"}:
+        result = _inline_markdown_embedded_media(node, content)
+    return result
 
 def _unicode_superscript(value: str) -> str:
     """Use Unicode superscript glyphs where Markdown has no superscript syntax."""
@@ -1308,11 +1311,11 @@ def _pipe_table(headers: list[str], rows: list[list[str]]) -> str:
 
 def _render_quote_table(cells: list[lhtml.HtmlElement]) -> str | None:
     """Turn Fandom's three-cell quote layout into a Markdown blockquote."""
-    if len(cells) != 3:
+    if len(cells) != QUOTE_TABLE_CELL_COUNT:
         return None
     left = cells[0].text_content().strip()
     right = cells[2].text_content().strip()
-    if left not in {"“", "‘", '"'} or right not in {"”", "’", '"'}:
+    if left not in {"“", "\u2018", '"'} or right not in {"”", "\u2019", '"'}:
         return None
 
     paragraphs = [
@@ -1327,7 +1330,6 @@ def _render_quote_table(cells: list[lhtml.HtmlElement]) -> str | None:
         return quote
     attribution = " ".join(paragraphs[1:])
     return f"{quote}\n>\n> — {attribution}"
-
 
 def _render_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     """Convert a Fandom infobox into a readable two-column Markdown table."""
@@ -1471,51 +1473,63 @@ def _render_html_definition_list(node: lhtml.HtmlElement) -> str:
 def _render_html_special_block(node: lhtml.HtmlElement) -> str | None:
     """Render block elements with specialized Markdown representations."""
     tag = _html_tag(node)
+    rendered: str | None = None
     if tag == "table":
-        return _render_html_table(node)
-    if tag == "blockquote":
+        rendered = _render_html_table(node)
+    elif tag == "blockquote":
         content = _render_html_children(node)
-        return "\n".join("> " + line if line else ">" for line in content.splitlines())
-    if tag == "pre":
-        return _render_html_pre(node)
-    if tag in {"ul", "ol"}:
-        return _render_html_list(node)
-    if tag == "hr":
-        return "---"
-    if tag == "dl":
-        return _render_html_definition_list(node)
-    if tag == "center":
+        rendered = "\n".join(
+            "> " + line if line else ">" for line in content.splitlines()
+        )
+    elif tag == "pre":
+        rendered = _render_html_pre(node)
+    elif tag in {"ul", "ol"}:
+        rendered = _render_html_list(node)
+    elif tag == "hr":
+        rendered = "---"
+    elif tag == "dl":
+        rendered = _render_html_definition_list(node)
+    elif tag == "center":
         content = _render_html_children(node)
-        return "\n".join("> " + line if line else ">" for line in content.splitlines())
-    return None
+        rendered = "\n".join(
+            "> " + line if line else ">" for line in content.splitlines()
+        )
+    return rendered
 
 def _render_html_block(node: lhtml.HtmlElement) -> str:
     """Convert one HTML block element into Markdown."""
     tag = _html_tag(node)
     special = _render_html_special_block(node)
-    if special is not None:
-        return special
-    if tag in {"h1", "h2", "h3", "h4", "h5", "h6"}:
-        level = int(tag[1])
-        content = _styled_markdown_content(node, _inline_markdown(node).strip())
-        return f"{'#' * level} {content}"
-    if tag == "p":
-        content = _inline_markdown(node).strip()
-        return _styled_markdown_content(node, content)
-    if tag == "figcaption":
-        caption = _inline_markdown(node).strip()
-        return f"*{caption}*" if caption else ""
-    content = _styled_markdown_content(node, _render_html_children(node))
-    if "footnotes" in (node.get("class") or "").split():
-        if not content.startswith("## Notes"):
-            content = f"## Notes\n\n{content}" if content else "## Notes"
-    if tag == "summary":
-        return f"**{_inline_markdown(node).strip()}**"
-    if tag in {"iframe", "video", "audio", "object", "embed"}:
-        return _inline_markdown_element(node)
-    if tag == "canvas":
-        return _markdown_text(node.get("aria-label") or node.get("title") or content)
-    return content
+    rendered = special if special is not None else ""
+    if special is None:
+        if tag in {"h1", "h2", "h3", "h4", "h5", "h6"}:
+            level = int(tag[1])
+            content = _styled_markdown_content(node, _inline_markdown(node).strip())
+            rendered = f"{'#' * level} {content}"
+        elif tag == "p":
+            content = _inline_markdown(node).strip()
+            rendered = _styled_markdown_content(node, content)
+        elif tag == "figcaption":
+            caption = _inline_markdown(node).strip()
+            rendered = f"*{caption}*" if caption else ""
+        else:
+            content = _styled_markdown_content(node, _render_html_children(node))
+            if (
+                "footnotes" in (node.get("class") or "").split()
+                and not content.startswith("## Notes")
+            ):
+                content = f"## Notes\n\n{content}" if content else "## Notes"
+            if tag == "summary":
+                rendered = f"**{_inline_markdown(node).strip()}**"
+            elif tag in {"iframe", "video", "audio", "object", "embed"}:
+                rendered = _inline_markdown_element(node)
+            elif tag == "canvas":
+                rendered = _markdown_text(
+                    node.get("aria-label") or node.get("title") or content
+                )
+            else:
+                rendered = content
+    return rendered
 
 def _render_html_children(node: lhtml.HtmlElement) -> str:
     """Render mixed block and inline descendants, discarding all wrapper tags."""

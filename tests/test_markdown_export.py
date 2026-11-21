@@ -568,6 +568,7 @@ def test_uses_material_list_template_is_replaced_with_recipe_table(
         {
             normalize_title("Fir Firewood"): "Fir Firewood.md",
             normalize_title("Meat Curing Box"): "Meat Curing Box.md",
+            normalize_title("Salt"): "Salt.md",
         },
         {},
         image_index,
@@ -588,9 +589,10 @@ def test_uses_material_list_template_is_replaced_with_recipe_table(
         "(./Meat%20Curing%20Box.md)"
     ) in markdown
     assert (tmp_path / "assets" / "Meat_Curing_Box_icon.png").is_file()
-    assert "[Meat Curing Box](Meat%20Curing%20Box)" in markdown
-    assert "[Salt](Salt)" in markdown
+    assert "[Meat Curing Box](./Meat%20Curing%20Box.md)" in markdown
+    assert "[Salt](./Salt.md)" in markdown
     assert "8.00 kg" in markdown
+    assert not re.search(r"</?a\\b|<img\\b", markdown, re.IGNORECASE)
     assert not re.search(r"</?a\b", markdown, re.IGNORECASE)
     assert "&lt;a" not in markdown
 

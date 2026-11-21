@@ -32,6 +32,20 @@ MAX_FILENAME_BYTES = 255
 INFOBOX_VALUE_CELL_COUNT = 2
 QUOTE_TABLE_CELL_COUNT = 3
 MINIMUM_HEADINGS_FOR_TOC = 4
+NAVBOX_ERROR_LINE_RE = re.compile(
+    r"(?im)^[ \t]*(?:\*\*|__)?Lua execution error in Module:Navbox function navbox"
+    r"(?:\*\*|__)?(?:\[[^\]\n]*\]\([^\)]*\))?[ \t]*(?:\r?\n|$)"
+)
+ITALIC_ASTERISK_RE = re.compile(
+    r"(?<![\\*])\*(?!\*)(?P<content>\S(?:[^*\n]*?\S)?)\*(?!\*)"
+)
+BACKTICK = chr(96)
+INLINE_CODE_SPAN_RE = re.compile(
+    r"(" + re.escape(BACKTICK) + r"+[^" + BACKTICK + r"\n]*" + re.escape(BACKTICK) + r"+)"
+)
+FENCED_CODE_RE = re.compile(
+    r"^[ \t]{0,3}(" + re.escape(BACKTICK) + r"{3,}|~{3,})"
+)
 EXTERNAL_SCHEMES = frozenset({"ftp", "http", "https", "mailto", "tel"})
 LOCAL_WIKI_SCHEMES = frozenset(
     {"category", "file", "image", "media", "module", "special", "template"}
@@ -607,6 +621,33 @@ def _build_image_index(image_dir: Path | None) -> dict[str, Path]:
     return index
 
 
+def _detect_image_suffix(source: Path) -> str:
+    """Detect a useful image extension when the dumped filename has none."""
+    try:
+        with source.open("rb") as image_file:
+            header = image_file.read(512)
+    except OSError:
+        return ""
+
+    if header.startswith(b"\xff\xd8\xff"):
+        return ".jpg"
+    if header.startswith(b"\x89PNG\r\n\x1a\n"):
+        return ".png"
+    if header.startswith((b"GIF87a", b"GIF89a")):
+        return ".gif"
+    if header.startswith(b"RIFF") and header[8:12] == b"WEBP":
+        return ".webp"
+    if header.startswith(b"BM"):
+        return ".bmp"
+    if header.startswith((b"II*\x00", b"MM\x00*")):
+        return ".tif"
+    if header.startswith(b"\x00\x00\x01\x00"):
+        return ".ico"
+    if b"<svg" in header.lower():
+        return ".svg"
+    return ""
+
+
 def _copy_image(
     name: str,
     image_index: dict[str, Path],
@@ -622,7 +663,11 @@ def _copy_image(
     if source in copied:
         return copied[source]
 
-    output_name = _portable_asset_name(source.name)
+    portable_source_name = source.name
+    if not Path(portable_source_name).suffix:
+        portable_source_name += _detect_image_suffix(source)
+    portable_source = Path(portable_source_name)
+    output_name = _portable_asset_name(portable_source_name)
     key = unicodedata.normalize("NFC", output_name).casefold()
     previous = used_names.get(key)
     if previous is not None and previous != source:
@@ -631,11 +676,15 @@ def _copy_image(
         except ValueError:
             relative_source = str(Path(source.parent.name, source.name))
         digest = hashlib.sha256(relative_source.encode()).hexdigest()[:8]
-        output_name = _portable_asset_name(f"{source.stem}-{digest}{source.suffix}")
+        output_name = _portable_asset_name(
+            f"{portable_source.stem}-{digest}{portable_source.suffix}"
+        )
         key = unicodedata.normalize("NFC", output_name).casefold()
         suffix = 2
         while key in used_names and used_names[key] != source:
-            candidate = f"{source.stem}-{digest}-{suffix}{source.suffix}"
+            candidate = (
+                f"{portable_source.stem}-{digest}-{suffix}{portable_source.suffix}"
+            )
             output_name = _portable_asset_name(candidate)
             key = unicodedata.normalize("NFC", output_name).casefold()
             suffix += 1
@@ -907,29 +956,29 @@ def _rewrite_html_links(
     return etree.tostring(root, encoding="unicode", method="html")
 
 
-def _yaml_string(value: str) -> str:
-    """Serialize a string as a valid YAML double-quoted scalar."""
-    return json.dumps(value, ensure_ascii=False)
-
-
 def _page_markdown(
     title: str, categories: list[str], body: str, source_url: str | None
 ) -> str:
-    """Compose front matter, article heading, and converted body."""
-    metadata = ["---", f"title: {_yaml_string(title)}", "wiki_namespace: 0"]
+    """Compose plain Markdown with a visible title and readable metadata."""
+    lines = [f"# {_markdown_label(title)}", ""]
+    metadata: list[str] = []
     if categories:
-        metadata.append("categories: " + json.dumps(categories, ensure_ascii=False))
+        category_text = ", ".join(_markdown_text(category) for category in categories)
+        metadata.append(f"**Categories:** {category_text}")
     if source_url:
         article_url = (
             source_url.rstrip("/")
             + "/wiki/"
             + urllib.parse.quote(title.replace(" ", "_"), safe="()'!~-._")
         )
-        metadata.append(f"source: {_yaml_string(article_url)}")
-    metadata.extend(["---", "", f"# {_markdown_label(title)}", ""])
-    if body:
-        metadata.extend([body, ""])
-    return "\n".join(metadata)
+        metadata.append(f"**Source:** [Fandom]({_markdown_destination(article_url)})")
+    if metadata:
+        lines.extend([" · ".join(metadata), ""])
+    cleaned_body = _strip_navbox_lua_errors(body)
+    if cleaned_body:
+        lines.extend([cleaned_body, ""])
+    document = "\n".join(lines).rstrip() + "\n"
+    return _normalize_markdown_emphasis(document)
 
 
 MARKDOWN_SPECIAL_CHARS = frozenset("\\`*_{}[]()#+-.!|>")
@@ -941,6 +990,43 @@ def _markdown_label(title: str) -> str:
         "\\" + character if character in MARKDOWN_SPECIAL_CHARS else character
         for character in title
     )
+
+
+def _strip_navbox_lua_errors(value: str) -> str:
+    """Remove the visible Lua failure line and its dangling interwiki link."""
+    cleaned = NAVBOX_ERROR_LINE_RE.sub("", value)
+    return re.sub(r"\n{3,}", "\n\n", cleaned).strip()
+
+
+def _normalize_markdown_emphasis(value: str) -> str:
+    """Use underscore-delimited italics without changing code spans or fences."""
+    output: list[str] = []
+    fence: tuple[str, int] | None = None
+    for line in value.splitlines(keepends=True):
+        match = FENCED_CODE_RE.match(line)
+        if match is not None:
+            marker = match.group(1)
+            if fence is None:
+                fence = (marker[0], len(marker))
+            elif marker[0] == fence[0] and len(marker) >= fence[1]:
+                fence = None
+            output.append(line)
+            continue
+        if fence is not None:
+            output.append(line)
+            continue
+
+        parts = INLINE_CODE_SPAN_RE.split(line)
+        for index, part in enumerate(parts):
+            if index % 2:
+                output.append(part)
+            else:
+                output.append(
+                    ITALIC_ASTERISK_RE.sub(
+                        lambda item: f"_{item.group('content')}_", part
+                    )
+                )
+    return "".join(output)
 
 
 def _expand_page(
@@ -1165,13 +1251,13 @@ def _inline_span_markdown(node: lhtml.HtmlElement, content: str) -> str | None:
     style = (node.get("style") or "").casefold().replace(" ", "")
     classes = (node.get("class") or "").split()
     if "font-style:italic" in style or "thumbcaption" in classes:
-        return f"*{content}*" if content else ""
+        return f"_{content}_" if content else ""
     if "font-weight:bold" in style:
         return f"**{content}**" if content else ""
     if "text-decoration:line-through" in style:
         return f"~~{content}~~" if content else ""
     if "text-decoration:underline" in style:
-        return f"*{content}*" if content else ""
+        return f"_{content}_" if content else ""
     if "background-color:" in style or "background:" in style:
         return f"**{content}**" if content else ""
     return None
@@ -1188,7 +1274,7 @@ def _inline_markdown_emphasis(tag: str, content: str) -> str | None:
     if tag in {"strong", "b", "mark", "big"}:
         return f"**{content}**" if content else ""
     if tag in {"em", "i", "cite", "var", "u", "small", "dfn"}:
-        return f"*{content}*" if content else ""
+        return f"_{content}_" if content else ""
     if tag in {"del", "s", "strike"}:
         return f"~~{content}~~" if content else ""
     return None
@@ -1410,8 +1496,25 @@ def _render_generic_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     return _pipe_table(headers, values)
 
 
+def _render_gallery_table(rows: list[list[lhtml.HtmlElement]]) -> str:
+    """Render each gallery item as a standalone Markdown image and caption."""
+    items: list[str] = []
+    for row in rows:
+        for cell in row:
+            content = _markdown_table_cell(cell).strip()
+            if not content:
+                continue
+            image, separator, caption = content.partition(" / ")
+            if separator:
+                content = image.strip()
+                if caption.strip():
+                    content += "\n\n" + caption.strip()
+            items.append(_normalize_markdown_emphasis(content))
+    return "\n\n".join(items)
+
+
 def _render_html_table(node: lhtml.HtmlElement) -> str:
-    """Convert a table, including infoboxes and quote layouts, to Markdown."""
+    """Convert a table, including infoboxes, galleries, and quote layouts, to Markdown."""
     rows = _table_rows(node)
     caption_node = node.find("caption")
     caption = _inline_markdown(caption_node).strip() if caption_node is not None else ""
@@ -1421,7 +1524,10 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
             return f"**{caption}**\n\n{quote}" if caption else quote
     if not rows:
         return f"**{caption}**" if caption else ""
-    if "infobox" in (node.get("class") or "").split():
+    table_classes = (node.get("class") or "").split()
+    if "gallery" in table_classes:
+        table = _render_gallery_table(rows)
+    elif "infobox" in table_classes:
         table = _render_infobox_table(rows)
     else:
         table = _render_generic_table(rows)
@@ -1550,7 +1656,7 @@ def _render_html_block(node: lhtml.HtmlElement) -> str:
             rendered = _styled_markdown_content(node, content)
         elif tag == "figcaption":
             caption = _inline_markdown(node).strip()
-            rendered = f"*{caption}*" if caption else ""
+            rendered = f"_{caption}_" if caption else ""
         else:
             content = _styled_markdown_content(node, _render_html_children(node))
             if "footnotes" in (

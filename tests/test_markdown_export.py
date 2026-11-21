@@ -4,8 +4,9 @@ from typing import TYPE_CHECKING
 import pytest
 
 from pipeline.markdown_export import (
-    _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
     DumpPage,
+    _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
+    _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
     load_filename_mapping,
     normalize_image_name,
     normalize_title,
@@ -149,4 +150,34 @@ def test_iter_dump_pages_extracts_page_text_and_redirects(tmp_path: Path) -> Non
         DumpPage("Bear alias", 0, "wikitext", "#REDIRECT [[Bear]]", "Bear"),
     ]
 
+def test_rewrite_html_links_resolves_articles_and_reports_missing_pages(
+    tmp_path: Path,
+) -> None:
+    missing_links: set[str] = set()
+    missing_images: set[str] = set()
+    html_fragment = (
+        '<p><a href="Bear">Bear</a>'
+        '<a href="Missing page">Missing page</a>'
+        '<a href="https://example.com">External</a></p>'
+    )
+
+    rewritten = _rewrite_html_links(
+        html_fragment,
+        "Main Page",
+        {"Bear": "Bear.md"},
+        {},
+        {},
+        None,
+        tmp_path / "assets",
+        {},
+        {},
+        missing_links,
+        missing_images,
+    )
+
+    assert 'href="./Bear.md"' in rewritten
+    assert 'href="https://example.com"' in rewritten
+    assert "Missing page" in rewritten
+    assert missing_links == {"Missing page"}
+    assert missing_images == set()
 

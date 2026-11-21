@@ -67,6 +67,17 @@ class ExportReport(TypedDict):
     missing_images: list[str]
 
 
+@dataclass(frozen=True, slots=True)
+class DumpPage:
+    """A page extracted from one XML dump record."""
+
+    title: str
+    namespace: int
+    model: str
+    text: str
+    redirect: str | None
+
+
 class ExportState(TypedDict):
     title_to_filename: dict[str, str]
     context: Any
@@ -88,17 +99,6 @@ class ExportState(TypedDict):
     categories_seen: set[str]
     expansion_errors: int
     conversion_errors: int
-
-
-@dataclass(frozen=True, slots=True)
-class DumpPage:
-    """A page extracted from one XML dump record."""
-
-    title: str
-    namespace: int
-    model: str
-    text: str
-    redirect: str | None
 
 
 def normalize_title(title: str) -> str:

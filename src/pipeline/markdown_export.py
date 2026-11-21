@@ -31,6 +31,7 @@ if TYPE_CHECKING:
 
 REDIRECT_RE = re.compile(r"\s*#redirect\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
 MAX_FILENAME_BYTES = 255
+WTP_RE_SHIM_MIN_PYTHON_VERSION = (3, 11)
 
 
 class ExportSummary(TypedDict):
@@ -256,7 +257,7 @@ def _create_wtp() -> Any:
                 pattern = pattern.replace("^(?s)", "(?s)^")
             return regex_module.match(pattern, string, flags)
 
-    if sys.version_info >= (3, 11):
+    if sys.version_info >= WTP_RE_SHIM_MIN_PYTHON_VERSION:
         setattr(luaexec, "re", RegexShim())
 
     processor = importlib.import_module("wikitextprocessor")
@@ -289,7 +290,7 @@ def _pandoc_path() -> str:
     try:
         pypandoc = importlib.import_module("pypandoc")
         return str(pypandoc.get_pandoc_path())
-    except (ImportError, OSError):
+    except (ImportError, OSError, RuntimeError):
         binary = shutil.which("pandoc")
         if binary is None:
             raise RuntimeError(
@@ -312,7 +313,7 @@ def _run_pandoc(
     ]
     if target_format == "html":
         command.append("--mathml")
-    result = subprocess.run(
+    result = subprocess.run(  # noqa: S603
         command,
         input=text,
         capture_output=True,

@@ -8,6 +8,8 @@ from pipeline.markdown_export import (
     normalize_image_name,
     normalize_title,
     resolve_internal_href,
+    _extract_categories,  # pyright: ignore[reportPrivateUsage]
+    _preserve_missing_templates,  # pyright: ignore[reportPrivateUsage]
 )
 
 if TYPE_CHECKING:
@@ -36,7 +38,9 @@ def test_resolve_internal_href_rewrites_local_page_links() -> None:
         == "./Bear.md#Habitat"
     )
     assert (
-        resolve_internal_href("Bear_alias", "Main Page", mapping, {"Bear alias": "Bear"})
+        resolve_internal_href(
+            "Bear_alias", "Main Page", mapping, {"Bear alias": "Bear"}
+        )
         == "./Bear.md"
     )
     assert resolve_internal_href("#History", "Main Page", mapping, {}) == "#History"
@@ -58,6 +62,7 @@ def test_resolve_internal_href_preserves_external_links() -> None:
 
 def test_resolve_internal_href_returns_none_for_unknown_wiki_page() -> None:
     assert resolve_internal_href("Missing page", "Main Page", {}, {}) is None
+    assert resolve_internal_href("Special:RecentChanges", "Main Page", {}, {}) is None
 
 
 def test_filename_mapping_loads_audited_entries(tmp_path: Path) -> None:
@@ -117,3 +122,24 @@ def test_filename_mapping_rejects_path_traversal(tmp_path: Path) -> None:
 
     with pytest.raises(ValueError, match="Unsafe Markdown filename"):
         load_filename_mapping(mapping_file)
+
+def test_extract_categories_removes_tags_and_returns_sorted_names() -> None:
+    text = "Article text [[Category:Wildlife|Animals]] [[category:Crafting]]"
+
+    cleaned, categories = _extract_categories(text)
+
+    assert cleaned == "Article text  "
+    assert categories == ["Crafting", "Wildlife"]
+
+
+def test_missing_templates_remain_visible_with_parameter_values() -> None:
+    class TemplateContext:
+        templates = {"Known template"}
+
+    text = "{{Missing template|name=Wolf|food}} {{Known template}}"
+
+    result = _preserve_missing_templates(text, TemplateContext())
+
+    assert "[Missing template: Missing template: name=Wolf; food]" in result
+    assert "{{Known template}}" in result
+

@@ -6,6 +6,7 @@ from __future__ import annotations
 import hashlib
 import html
 import importlib
+import importlib.util
 import json
 import re
 import shutil
@@ -20,9 +21,9 @@ from pathlib import Path
 from typing import TYPE_CHECKING, Any, TypedDict, cast
 
 import defusedxml.ElementTree as SafeET
-import mwparserfromhell as mwp
 from lxml import etree
 from lxml import html as lhtml
+import mwparserfromhell as mwp
 
 if TYPE_CHECKING:
     from collections.abc import Iterator

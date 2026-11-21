@@ -1222,11 +1222,18 @@ def _html_tag(node: lhtml.HtmlElement) -> str:
 
 
 def _markdown_text(value: str) -> str:
-    """Escape HTML text so it is safe in ordinary Markdown prose."""
-    escaped = html.escape(re.sub(r"\s+", " ", value), quote=False)
-    for character in ("\\", "*", "_", "[", "]"):
-        escaped = escaped.replace(character, "\\" + character)
-    return escaped
+    """Escape plain text while translating MediaWiki double-underscore bold."""
+    pieces = STRONG_UNDERSCORE_RE.split(value)
+    rendered: list[str] = []
+    for index, piece in enumerate(pieces):
+        escaped = html.escape(re.sub(r"\s+", " ", piece), quote=False)
+        for character in ("\\", "*", "_", "[", "]"):
+            escaped = escaped.replace(character, "\\" + character)
+        if index % 2:
+            rendered.append(f"**{escaped}**")
+        else:
+            rendered.append(escaped)
+    return "".join(rendered)
 
 
 def _markdown_destination(value: str) -> str:

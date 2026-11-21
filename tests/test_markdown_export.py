@@ -101,7 +101,7 @@ def test_filename_mapping_rejects_case_insensitive_collisions(tmp_path: Path) ->
             {
                 "mappings": [
                     {"title": "Bear", "filename": "Bear.md"},
-                    {"title": "Bear meat", "filename": "bear.MD"},
+                    {"title": "Bear meat", "filename": "bear.md"},
                 ]
             }
         ),

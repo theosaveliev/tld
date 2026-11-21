@@ -23,6 +23,7 @@ from pipeline.markdown_export import (
     _page_markdown,  # pyright: ignore[reportPrivateUsage]
     _portable_asset_name,  # pyright: ignore[reportPrivateUsage]
     _render_mediawiki_html,  # pyright: ignore[reportPrivateUsage]
+    _restore_deferred_material_tables_in_html,  # pyright: ignore[reportPrivateUsage]
     _repair_unclosed_mediawiki_tables,  # pyright: ignore[reportPrivateUsage]
     _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
     load_filename_mapping,
@@ -473,6 +474,20 @@ def test_material_usage_index_reads_recipe_infoboxes() -> None:
         ("Coffee Table", [("6", "Fir Firewood")]),
         ("Meat Curing Box", [("10", "Fir Firewood"), ("8.00 kg", "Salt")]),
     ]
+
+
+def test_restore_deferred_material_tables_binds_each_table_value() -> None:
+    html_fragment = "<p>FIRSTTOKEN</p><p>SECONDTOKEN</p>"
+    deferred_tables = {
+        "FIRSTTOKEN": '<table id="first"></table>',
+        "SECONDTOKEN": '<table id="second"></table>',
+    }
+
+    restored = _restore_deferred_material_tables_in_html(
+        html_fragment, deferred_tables
+    )
+
+    assert restored == '<table id="first"></table><table id="second"></table>'
 
 
 def test_uses_material_list_template_is_replaced_with_recipe_table(

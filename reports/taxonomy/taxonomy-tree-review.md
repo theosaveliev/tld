@@ -1280,6 +1280,7 @@
 
 - [Feels Like](https://thelongdark.fandom.com/wiki/Feels_Like)
 - [Needs](https://thelongdark.fandom.com/wiki/Needs)
+
 ## 12. Afflictions
 
 > Positive and negative survivor effects, including benefits, injuries, illnesses, risks, and mode-specific conditions.
@@ -1374,6 +1375,7 @@
 
 - [Afflictions](https://thelongdark.fandom.com/wiki/Afflictions)
 - [Risk of Infection/Transcript](https://thelongdark.fandom.com/wiki/Risk_of_Infection/Transcript)
+
 ## 13. Environmental Hazards
 
 > External conditions and environmental effects that create danger or change how the world can be traversed, such as weather, auroras, toxic environments, and weak ice.

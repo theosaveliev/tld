@@ -322,9 +322,8 @@ def _preserve_missing_templates(text: str, context: Any) -> str:
 def _pandoc_path() -> str:
     """Find Pandoc bundled by pypandoc-binary or installed on PATH."""
     try:
-        import pypandoc
-
-        return pypandoc.get_pandoc_path()
+        pypandoc = importlib.import_module("pypandoc")
+        return str(pypandoc.get_pandoc_path())
     except (ImportError, OSError):
         from shutil import which
 

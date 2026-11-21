@@ -307,39 +307,24 @@ def _run_pandoc(
     binary: str, text: str, source_format: str, target_format: str
 ) -> str:
     """Convert one document fragment with Pandoc."""
+    command = [
+        binary,
+        "--from",
+        source_format,
+        "--to",
+        target_format,
+        "--wrap=none",
+    ]
+    if target_format == "html":
+        command.append("--mathml")
     result = subprocess.run(
-        [
-            binary,
-            "--from",
-            source_format,
-            "--to",
-            target_format,
-            "--wrap=none",
-        ],
+        command,
         input=text,
         capture_output=True,
         text=True,
         timeout=120,
         check=False,
     )
-    if target_format == "html":
-        result_command = [
-            binary,
-            "--from",
-            source_format,
-            "--to",
-            target_format,
-            "--wrap=none",
-            "--mathml",
-        ]
-        result = subprocess.run(
-            result_command,
-            input=text,
-            capture_output=True,
-            text=True,
-            timeout=120,
-            check=False,
-        )
     if result.returncode:
         raise RuntimeError("Pandoc conversion failed: " + result.stderr.strip()[:1000])
     return result.stdout.strip()

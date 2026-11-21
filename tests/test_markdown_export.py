@@ -305,7 +305,7 @@ def test_export_retries_pandoc_after_closing_unterminated_wikitext_table(
         def start_page(self, title: str) -> None:
             pass
 
-        def expand(self, text: str, timeout: int) -> str:
+        def expand(self, text: str, _timeout: int) -> str:
             return text
 
     def fake_pandoc(
@@ -366,7 +366,7 @@ def test_export_preserves_rendered_html_when_gfm_conversion_fails(
         def start_page(self, title: str) -> None:
             pass
 
-        def expand(self, text: str, timeout: int) -> str:
+        def expand(self, text: str, _timeout: int) -> str:
             return text
 
     def fake_pandoc(
@@ -416,7 +416,7 @@ def test_export_renders_original_source_if_expanded_wikitext_stays_invalid(
         def start_page(self, title: str) -> None:
             pass
 
-        def expand(self, text: str, timeout: int) -> str:
+        def expand(self, text: str, _timeout: int) -> str:
             return text
 
     mediawiki_html_inputs: list[str] = []

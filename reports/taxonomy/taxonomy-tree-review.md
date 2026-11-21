@@ -1082,7 +1082,6 @@
 > Portable equipment used for exploration, navigation, access, photography, and other field tasks.
 
 - [Astrid's Backpack](https://thelongdark.fandom.com/wiki/Astrid's_Backpack)
-- [Bolt Cutters](https://thelongdark.fandom.com/wiki/Bolt_Cutters)
 - [Camera](https://thelongdark.fandom.com/wiki/Camera)
 - [FastFilm-500](https://thelongdark.fandom.com/wiki/FastFilm-500)
 - [FastFilm-500BW](https://thelongdark.fandom.com/wiki/FastFilm-500BW)
@@ -2196,10 +2195,10 @@
 - [First Flare](https://thelongdark.fandom.com/wiki/First_Flare)
 - [Forest Talkers (side mission)](https://thelongdark.fandom.com/wiki/Forest_Talkers_(side_mission))
 - [Forge Blueprints (mission)](https://thelongdark.fandom.com/wiki/Forge_Blueprints_(mission))
-- [Interview Transcript 4](https://thelongdark.fandom.com/wiki/Interview_Transcript_4)
 - [Interview Transcript 12](https://thelongdark.fandom.com/wiki/Interview_Transcript_12)
 - [Interview Transcript 14](https://thelongdark.fandom.com/wiki/Interview_Transcript_14)
 - [Interview Transcript 17](https://thelongdark.fandom.com/wiki/Interview_Transcript_17)
+- [Interview Transcript 4](https://thelongdark.fandom.com/wiki/Interview_Transcript_4)
 - [Jeremiah's Folly](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly)
 - [Jeremiah's Folly/Transcript](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly/Transcript)
 - [Lost in the Storm](https://thelongdark.fandom.com/wiki/Lost_in_the_Storm)

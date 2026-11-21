@@ -27,7 +27,6 @@ if TYPE_CHECKING:
 
 REDIRECT_RE = re.compile(r"\s*#redirect\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
 MAX_FILENAME_BYTES = 255
-WTP_RE_SHIM_MIN_PYTHON_VERSION = (3, 11)
 EXTERNAL_SCHEMES = frozenset({"ftp", "http", "https", "mailto", "tel"})
 LOCAL_WIKI_SCHEMES = frozenset(
     {"category", "file", "image", "media", "module", "special", "template"}

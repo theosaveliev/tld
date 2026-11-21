@@ -1100,6 +1100,14 @@
 - [Jerry Can](https://thelongdark.fandom.com/wiki/Jerry_Can)
 - [Lantern Fuel](https://thelongdark.fandom.com/wiki/Lantern_Fuel)
 
+### Fireboxes
+
+- [Campfire](https://thelongdark.fandom.com/wiki/Campfire)
+- [Fire](https://thelongdark.fandom.com/wiki/Fire)
+- [Fire Barrel](https://thelongdark.fandom.com/wiki/Fire_Barrel)
+- [Fireplace](https://thelongdark.fandom.com/wiki/Fireplace)
+- [Rim Grill](https://thelongdark.fandom.com/wiki/Rim_Grill)
+
 ### Fuel
 
 > Materials added to a fire to provide burn time and heat.
@@ -1414,14 +1422,17 @@
 
 ## 16. Survival Mechanics & Activities
 
-> General survival systems and repeatable activities that are not better classified as a primary skill, affliction, crafting process, or dedicated questline.
+> General survival systems, processes, and repeatable activities that do not belong to a dedicated skill, affliction, or questline.
 
 - [Beachcombing](https://thelongdark.fandom.com/wiki/Beachcombing)
 - [Cheat Death](https://thelongdark.fandom.com/wiki/Cheat_Death)
+- [Crafting](https://thelongdark.fandom.com/wiki/Crafting)
 - [Crouch](https://thelongdark.fandom.com/wiki/Crouch)
+- [Curing](https://thelongdark.fandom.com/wiki/Curing)
 - [Daisy Chaining](https://thelongdark.fandom.com/wiki/Daisy_Chaining)
 - [Decay](https://thelongdark.fandom.com/wiki/Decay)
 - [Foraging](https://thelongdark.fandom.com/wiki/Foraging)
+- [Harvesting](https://thelongdark.fandom.com/wiki/Harvesting)
 - [Hibernation](https://thelongdark.fandom.com/wiki/Hibernation)
 - [Hunting](https://thelongdark.fandom.com/wiki/Hunting)
 - [Loot Table](https://thelongdark.fandom.com/wiki/Loot_Table)
@@ -1434,25 +1445,7 @@
 - [Trapping](https://thelongdark.fandom.com/wiki/Trapping)
 - [Warming Up](https://thelongdark.fandom.com/wiki/Warming_Up)
 
-## 17. Crafting, Fire & Processing
-
-> Systems and processes used to craft, process, repair, or prepare items in the world.
-
-### Other Crafting & Fire Systems
-
-> Fire sources, cooking facilities, and other processing systems that support crafting or survival activities but are not workbenches.
-
-- [Campfire](https://thelongdark.fandom.com/wiki/Campfire)
-- [Crafting](https://thelongdark.fandom.com/wiki/Crafting)
-- [Curing](https://thelongdark.fandom.com/wiki/Curing)
-- [Fire](https://thelongdark.fandom.com/wiki/Fire)
-- [Fire Barrel](https://thelongdark.fandom.com/wiki/Fire_Barrel)
-- [Fireplace](https://thelongdark.fandom.com/wiki/Fireplace)
-- [Firewood Bin](https://thelongdark.fandom.com/wiki/Firewood_Bin)
-- [Harvesting](https://thelongdark.fandom.com/wiki/Harvesting)
-- [Rim Grill](https://thelongdark.fandom.com/wiki/Rim_Grill)
-
-## 18. Collectibles
+## 17. Collectibles
 
 > Documents, mementos, notes, photographs, recordings, and other discoverable collectibles.
 
@@ -1857,7 +1850,7 @@
 - [The Long Dark/Changelog/Archive 1](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog/Archive_1)
 - [The Long Dark/Changelog/Archive 2](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog/Archive_2)
 
-## 19. Exploration & Caches
+## 18. Exploration & Caches
 
 > Cache systems, stash mechanics, and cache-focused discoveries. Named physical cache locations remain under Locations, while Trader quest documents and quest objects are grouped under Trader Quests.
 
@@ -1876,7 +1869,7 @@
 - [Rock Cache](https://thelongdark.fandom.com/wiki/Rock_Cache)
 - [Supply Cache](https://thelongdark.fandom.com/wiki/Supply_Cache)
 
-## 20. World Objects
+## 19. World Objects
 
 > Fixed or stationary objects found in the environment, including containers, furniture, appliances, vehicles, and miscellaneous fixtures. These describe what the player encounters in the world; they are not portable inventory items or wearable gear.
 
@@ -1921,6 +1914,7 @@
 - [Emergency Kit](https://thelongdark.fandom.com/wiki/Emergency_Kit)
 - [File Cabinet](https://thelongdark.fandom.com/wiki/File_Cabinet)
 - [Fir Limb](https://thelongdark.fandom.com/wiki/Fir_Limb)
+- [Firewood Bin](https://thelongdark.fandom.com/wiki/Firewood_Bin)
 - [First Aid Kit](https://thelongdark.fandom.com/wiki/First_Aid_Kit)
 - [Freezer](https://thelongdark.fandom.com/wiki/Freezer)
 - [Fridge](https://thelongdark.fandom.com/wiki/Fridge)
@@ -2008,7 +2002,7 @@
 - [Wheel](https://thelongdark.fandom.com/wiki/Wheel)
 - [Wood Stove](https://thelongdark.fandom.com/wiki/Wood_Stove)
 
-## 21. Safehouse Systems
+## 20. Safehouse Systems
 
 > Systems and reference pages for designating and customizing Safehouses.
 
@@ -2017,7 +2011,7 @@
 - [Safehouse Customization](https://thelongdark.fandom.com/wiki/Safehouse_Customization)
 - [Safehouse Decoration Box](https://thelongdark.fandom.com/wiki/Safehouse_Decoration_Box)
 
-## 22. Carcasses & Remains
+## 21. Carcasses & Remains
 
 > Animal carcasses and harvested remains, including quarters taken from animals. Living animal species themselves are listed under Nature → Fauna.
 
@@ -2040,7 +2034,7 @@
 - [Wolf Carcass](https://thelongdark.fandom.com/wiki/Wolf_Carcass)
 - [Wolf Quarter](https://thelongdark.fandom.com/wiki/Wolf_Quarter)
 
-## 23. Trader Quests
+## 22. Trader Quests
 
 > Sutherland's Special Requests and their associated quest pages and quest-only items. This group keeps the Trader storyline together, including the Document Stashes and Broken Hatch Wheel.
 
@@ -2064,7 +2058,7 @@
 - [Wyatt's Lost Papers 3](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_3)
 - [Wyatt's Skeleton](https://thelongdark.fandom.com/wiki/Wyatt's_Skeleton)
 
-## 24. Modes & Interface
+## 23. Modes & Interface
 
 > Game modes, menus, overlays, and interface-specific pages. This is retained as a reference group at the bottom of Gameplay.
 
@@ -2085,7 +2079,7 @@
 - [Voyageur](https://thelongdark.fandom.com/wiki/Voyageur)
 - [Winter's Embrace](https://thelongdark.fandom.com/wiki/Winter's_Embrace)
 
-## 25. Challenges
+## 24. Challenges
 
 > This section contains the game's standalone challenge modes and the pages that explain or document their objectives and completion.
 
@@ -2103,7 +2097,7 @@
 - [The Hunted, Part Two](https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_Two)
 - [Whiteout](https://thelongdark.fandom.com/wiki/Whiteout)
 
-## 26. Achievements
+## 25. Achievements
 
 > Achievements, Feats, and related progress records are grouped here. These pages describe milestone-based goals rather than the moment-to-moment survival systems in Gameplay.
 
@@ -2215,7 +2209,7 @@
 - [You'll Be With Her Soon](https://thelongdark.fandom.com/wiki/You'll_Be_With_Her_Soon)
 - [Your Journey Begins](https://thelongdark.fandom.com/wiki/Your_Journey_Begins)
 
-## 27. DLC
+## 26. DLC
 
 > A cross-index of pages associated with downloadable content. A page listed here retains its primary home elsewhere in the taxonomy under Locations, Nature, Clothing & Climbing Gear, an inventory group, Gameplay, Challenges, Achievements, or Archive; this section does not replace those classifications.
 
@@ -2276,7 +2270,7 @@
 - [Woodwright's Bow](https://thelongdark.fandom.com/wiki/Woodwright's_Bow)
 - [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination)
 
-## 28. Archive
+## 27. Archive
 
 > Pages retained for historical, legacy, or story-reference purposes that are not part of the main navigational taxonomy. Archived pages remain linked and are not deleted.
 

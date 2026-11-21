@@ -8,9 +8,11 @@ from __future__ import annotations
 
 import unicodedata
 from collections import Counter, defaultdict
-from typing import TYPE_CHECKING, TypedDict
+from collections.abc import Iterator
+from typing import TYPE_CHECKING, TypedDict, cast
+from xml.etree.ElementTree import Element
 
-import defusedxml.ElementTree as ET
+import defusedxml.ElementTree as SafeET
 
 if TYPE_CHECKING:
     from pathlib import Path
@@ -62,7 +64,10 @@ def extract_page_titles(
     """
     titles: list[str] = []
     redirects_seen = 0
-    events = ET.iterparse(str(dump_path), events=("start", "end"))
+    events = cast(
+        Iterator[tuple[str, Element]],
+        SafeET.iterparse(str(dump_path), events=("start", "end")),
+    )
 
     try:
         _, root = next(events)
@@ -128,7 +133,7 @@ def _check_filename_limits(
                 "filename_too_long",
                 [mapping],
                 f"Filename is {encoded_length} UTF-8 bytes; "
-                f"the portability limit is {MAX_FILENAME_BYTES} bytes.",
+                + f"the portability limit is {MAX_FILENAME_BYTES} bytes.",
             )
 
         controls = [
@@ -164,7 +169,7 @@ def _check_filename_collisions(
                 "filename_collision",
                 group,
                 "Different wiki titles produce the same filename after "
-                "slash/colon replacement and Unicode NFC normalization.",
+                + "slash/colon replacement and Unicode NFC normalization.",
             )
 
     for group in folded_groups.values():

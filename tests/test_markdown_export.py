@@ -4,12 +4,12 @@ from typing import TYPE_CHECKING
 import pytest
 
 from pipeline.markdown_export import (
+    _extract_categories,  # pyright: ignore[reportPrivateUsage]
+    _preserve_missing_templates,  # pyright: ignore[reportPrivateUsage]
     load_filename_mapping,
     normalize_image_name,
     normalize_title,
     resolve_internal_href,
-    _extract_categories,  # pyright: ignore[reportPrivateUsage]
-    _preserve_missing_templates,  # pyright: ignore[reportPrivateUsage]
 )
 
 if TYPE_CHECKING:
@@ -55,8 +55,9 @@ def test_resolve_internal_href_preserves_external_links() -> None:
         )
         == "https://example.com/page"
     )
-    assert resolve_internal_href("mailto:test@example.com", "Main Page", mapping, {}) == (
-        "mailto:test@example.com"
+    assert (
+        resolve_internal_href("mailto:test@example.com", "Main Page", mapping, {})
+        == "mailto:test@example.com"
     )
 
 

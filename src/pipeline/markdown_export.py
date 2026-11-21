@@ -1536,7 +1536,7 @@ def _render_image_layout_table(rows: list[list[lhtml.HtmlElement]]) -> str:
         first_has_image = any(
             _html_tag(child) == "img" for child in first_cell.iter()
         )
-        if not first_has_image and len(values) == 2:
+        if not first_has_image and len(values) == INFOBOX_VALUE_CELL_COUNT:
             detail = _render_image_layout_cell(values[1][1])
             label = first_value.strip()
             if label.startswith("**") and label.endswith("**"):

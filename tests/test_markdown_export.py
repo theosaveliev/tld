@@ -534,6 +534,58 @@ def test_export_converts_html_retained_by_pandoc_to_markdown(
     assert conversion_errors == 0
 
 
+def test_export_normalizes_html_in_direct_source_fallback(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    def fake_pandoc(
+        _pandoc: str, _text: str, source_format: str, target_format: str
+    ) -> str:
+        if source_format == "mediawiki" and target_format == "gfm":
+            return "<p><strong>Source fallback</strong> text</p>"
+        if source_format == "mediawiki" and target_format == "html":
+            return "<p><strong>Source fallback</strong> text</p>"
+        raise AssertionError("Unexpected Pandoc conversion")
+
+    def fail_postprocess(
+        text: str, categories: list[str], stats: RenderStats
+    ) -> str:
+        _ = (text, categories, stats)
+        raise RuntimeError("simulated postprocess failure")
+
+    monkeypatch.setattr(markdown_export_module, "_run_pandoc", fake_pandoc)
+    pages_dir = tmp_path / "pages"
+    pages_dir.mkdir()
+
+    result, expansion_errors, conversion_errors = _export_one_page(
+        DumpPage("Sample", 0, "wikitext", "original source", None),
+        {"Sample": "Sample.md"},
+        FakeContext(),
+        identity_preprocess,
+        fail_postprocess,
+        {},
+        "pandoc",
+        {},
+        {},
+        None,
+        pages_dir,
+        tmp_path / "assets",
+        {},
+        {},
+        set(),
+        set(),
+        set(),
+        None,
+    )
+
+    output = (pages_dir / "Sample.md").read_text(encoding="utf-8")
+    assert result["status"] == "raw_fallback"
+    assert "**Source fallback** text" in output
+    assert "<p>" not in output
+    assert "<strong>" not in output
+    assert expansion_errors == 0
+    assert conversion_errors == 0
+
+
 def test_export_renders_original_source_if_expanded_wikitext_stays_invalid(
     tmp_path: Path, monkeypatch: pytest.MonkeyPatch
 ) -> None:

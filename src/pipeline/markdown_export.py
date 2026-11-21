@@ -30,6 +30,7 @@ if TYPE_CHECKING:
 REDIRECT_RE = re.compile(r"\s*#redirect\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
 MAX_FILENAME_BYTES = 255
 INFOBOX_VALUE_CELL_COUNT = 2
+WIDE_TABLE_COLUMN_THRESHOLD = 8
 QUOTE_TABLE_CELL_COUNT = 3
 MINIMUM_HEADINGS_FOR_TOC = 4
 NAVBOX_ERROR_LINE_RE = re.compile(
@@ -992,7 +993,6 @@ def _page_markdown(
         lines.extend([" · ".join(metadata), ""])
     cleaned_body = _strip_navbox_lua_errors(body)
     cleaned_body = _strip_wikitext_table_row_artifacts(cleaned_body)
-    cleaned_body = _remove_empty_markdown_sections(cleaned_body)
     if cleaned_body:
         lines.extend([cleaned_body, ""])
     document = "\n".join(lines).rstrip() + "\n"
@@ -1034,70 +1034,6 @@ def _strip_wikitext_table_row_artifacts(value: str) -> str:
             line = re.sub(r"\\+\|-[ \t]*(?=\r?\n?$)", "", line)
         output.append(line)
     return "".join(output)
-
-
-def _remove_empty_markdown_sections(value: str) -> str:
-    """Remove headings with no content and their matching contents-list links."""
-    lines = value.splitlines(keepends=True)
-    heading_re = re.compile(
-        r"^(?P<marks>#{1,6})[ \t]+(?P<label>.+?)[ \t]*#*[ \t]*(?:\r?\n)?$"
-    )
-    toc_link_re = re.compile(
-        r"^\s*(?:[-*+]|[0-9]+[.)])\s+\[[^\]]+\]\(#(?P<slug>[^)]+)\)\s*$"
-    )
-    headings: list[tuple[int, int, str]] = []
-    fence: tuple[str, int] | None = None
-    for index, line in enumerate(lines):
-        match = FENCED_CODE_RE.match(line)
-        if match is not None:
-            marker = match.group(1)
-            if fence is None:
-                fence = (marker[0], len(marker))
-            elif marker[0] == fence[0] and len(marker) >= fence[1]:
-                fence = None
-            continue
-        if fence is not None:
-            continue
-        heading = heading_re.match(line)
-        if heading is not None:
-            headings.append(
-                (index, len(heading.group("marks")), heading.group("label").strip())
-            )
-
-    removed_lines: set[int] = set()
-    removed_slugs: set[str] = set()
-    for index, level, label in headings:
-        next_content = next(
-            (
-                position
-                for position in range(index + 1, len(lines))
-                if lines[position].strip()
-            ),
-            None,
-        )
-        if next_content is None:
-            empty = True
-        else:
-            next_heading = heading_re.match(lines[next_content])
-            empty = (
-                next_heading is not None
-                and len(next_heading.group("marks")) <= level
-            )
-        if empty:
-            removed_lines.add(index)
-            removed_slugs.add(_markdown_heading_slug(label))
-
-    if not removed_lines:
-        return value
-    output = []
-    for index, line in enumerate(lines):
-        if index in removed_lines:
-            continue
-        toc_link = toc_link_re.match(line.rstrip("\r\n"))
-        if toc_link is not None and toc_link.group("slug") in removed_slugs:
-            continue
-        output.append(line)
-    return re.sub(r"\n{3,}", "\n\n", "".join(output)).strip()
 
 
 def _normalize_markdown_emphasis(value: str) -> str:
@@ -1664,15 +1600,27 @@ def _render_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
 
 
 def _render_generic_table(rows: list[list[lhtml.HtmlElement]]) -> str:
-    """Convert ordinary HTML tables to Markdown tables."""
-    if any(_html_tag(cell) == "th" for cell in rows[0]):
-        headers = [_markdown_table_cell(cell) for cell in rows[0]]
-        data_rows = rows[1:]
+    """Convert ordinary HTML tables to Markdown, dropping empty spacer columns."""
+    rendered_rows = [
+        [_markdown_table_cell(cell) for cell in row] for row in rows
+    ]
+    width = max(len(row) for row in rendered_rows)
+    retained_columns = [
+        index
+        for index in range(width)
+        if any(index < len(row) and row[index] for row in rendered_rows)
+    ]
+    compact_rows = [
+        [row[index] if index < len(row) else "" for index in retained_columns]
+        for row in rendered_rows
+    ]
+    has_header = any(_html_tag(cell) == "th" for cell in rows[0])
+    if has_header:
+        headers = compact_rows[0]
+        values = compact_rows[1:]
     else:
-        width = max(len(row) for row in rows)
-        headers = [f"Column {index + 1}" for index in range(width)]
-        data_rows = rows
-    values = [[_markdown_table_cell(cell) for cell in row] for row in data_rows]
+        headers = [f"Column {index + 1}" for index in range(len(retained_columns))]
+        values = compact_rows
     return _pipe_table(headers, values)
 
 
@@ -1923,12 +1871,16 @@ def _normalize_markdown_anchor_hrefs(root: lhtml.HtmlElement) -> None:
             link.set("href", path + "#" + slug)
 
 
-def _contains_gallery_table(fragment: str) -> bool:
-    """Return whether rewritten HTML contains a gallery or image-bearing table."""
+def _contains_custom_render_table(fragment: str) -> bool:
+    """Return whether HTML contains a gallery, image, or wide sparse table."""
     root = lhtml.fragment_fromstring(fragment or "", create_parent="div")
     return any(
         "gallery" in (table.get("class") or "").split()
         or any(_html_tag(child) == "img" for child in table.iter())
+        or any(
+            sum(_html_tag(cell) in {"td", "th"} for cell in row) > WIDE_TABLE_COLUMN_THRESHOLD
+            for row in table.iter("tr")
+        )
         for table in root.iter("table")
     )
 
@@ -1944,7 +1896,7 @@ def _convert_html_to_markdown(
     pandoc: str, rewritten_html: str, note: str
 ) -> tuple[str, str, bool]:
     """Convert rewritten HTML to Markdown, normalizing any HTML Pandoc preserves."""
-    if _contains_gallery_table(rewritten_html):
+    if _contains_custom_render_table(rewritten_html):
         return _html_fragment_to_markdown(rewritten_html), note, False
 
     try:

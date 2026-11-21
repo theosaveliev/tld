@@ -491,7 +491,6 @@ def _run_pandoc(binary: str, text: str, source_format: str, target_format: str) 
     return result.stdout.strip()
 
 
-
 def _repair_unclosed_mediawiki_tables(text: str) -> tuple[str, int]:
     """Close unterminated top-level MediaWiki table blocks before retrying Pandoc.
 

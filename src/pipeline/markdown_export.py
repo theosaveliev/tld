@@ -1026,18 +1026,380 @@ def _rewrite_page_html(
     return rewritten_html, note, False
 
 
+HTML_BLOCK_TAGS = frozenset(
+    {
+        "address", "article", "aside", "blockquote", "dd", "details", "div",
+        "dl", "dt", "fieldset", "figcaption", "figure", "footer", "form",
+        "h1", "h2", "h3", "h4", "h5", "h6", "hr", "main", "nav", "ol",
+        "p", "pre", "section", "table", "ul",
+    }
+)
+HTML_TAG_RE = re.compile(r"</?[A-Za-z][A-Za-z0-9-]*(?=\s|/?>)[^>]*>")
+
+
+def _html_tag(node: lhtml.HtmlElement) -> str:
+    """Return an HTML element's normalized tag name."""
+    return node.tag.casefold() if isinstance(node.tag, str) else ""
+
+
+def _markdown_text(value: str) -> str:
+    """Escape HTML text so it is safe in ordinary Markdown prose."""
+    escaped = html.escape(re.sub(r"\s+", " ", value), quote=False)
+    for character in ("\\", "*", "_", "[", "]"):
+        escaped = escaped.replace(character, "\\" + character)
+    return escaped
+
+
+def _markdown_destination(value: str) -> str:
+    """Encode characters that would terminate a Markdown link destination."""
+    return value.replace(" ", "%20").replace("(", "%28").replace(")", "%29")
+
+
+def _markdown_code_span(value: str) -> str:
+    """Format inline code with a delimiter longer than any run in its content."""
+    content = value.strip()
+    if not content:
+        return ""
+    backtick = chr(96)
+    longest = max(
+        (len(match) for match in re.findall(re.escape(backtick) + r"+", content)),
+        default=0,
+    )
+    fence = backtick * (longest + 1)
+    padding = " " if content.startswith(backtick) or content.endswith(backtick) else ""
+    return f"{fence}{padding}{content}{padding}{fence}"
+
+
+def _markdown_image(node: lhtml.HtmlElement) -> str:
+    """Convert an HTML image to a Markdown image reference."""
+    source = node.get("src", "")
+    label = node.get("alt") or node.get("title") or ""
+    if not source:
+        return _markdown_text(label)
+    return f"![{_markdown_text(label)}]({_markdown_destination(source)})"
+
+
+def _inline_markdown(node: lhtml.HtmlElement) -> str:
+    """Render an element's mixed inline content without retaining HTML tags."""
+    pieces = [_markdown_text(node.text or "")]
+    for child in node:
+        pieces.append(_inline_markdown_element(child))
+        pieces.append(_markdown_text(child.tail or ""))
+    return "".join(pieces)
+
+
+def _inline_markdown_element(node: lhtml.HtmlElement) -> str:
+    """Convert one inline HTML element to its Markdown equivalent."""
+    tag = _html_tag(node)
+    content = _inline_markdown(node)
+
+    if tag in {"strong", "b"}:
+        return f"**{content}**" if content else ""
+    if tag in {"em", "i", "cite", "var"}:
+        return f"*{content}*" if content else ""
+    if tag in {"del", "s", "strike"}:
+        return f"~~{content}~~" if content else ""
+    if tag in {"code", "kbd", "samp"}:
+        return _markdown_code_span(node.text_content())
+    if tag == "a":
+        href = node.get("href")
+        if not href:
+            return content
+        label = content or _markdown_text(href)
+        return f"[{label}]({_markdown_destination(href)})"
+    if tag == "img":
+        return _markdown_image(node)
+    if tag == "br":
+        return "  \n"
+    if tag == "input":
+        return "[x] " if node.get("checked") is not None else "[ ] "
+    if tag == "sup":
+        return f"^{content}^" if content else ""
+    if tag == "sub":
+        return content
+    if tag == "svg":
+        return _markdown_text(node.get("aria-label") or node.get("title") or "")
+    if tag in {"iframe", "video", "audio"}:
+        source = node.get("src")
+        return f"[Embedded media]({_markdown_destination(source)})" if source else ""
+    if "math" in (node.get("class") or "").split():
+        return f"function content(value) {
+    const iterate =
+      typeof value === "string" ? undefined : value?.[iteratorKey];
+    if (typeof iterate !== "function") {
+      return emitBlock(value);
+    }
+
+    // Reuse the method from a potentially stateful getter, with its original
+    // receiver. The for-of loop closes the iterator if the host rejects a block.
+    const blocks = { [iteratorKey]: () => apply(iterate, value, []) };
+    for (const block of blocks) {
+      emitBlock(block);
+    }
+  }$" if content else ""
+    if tag in {"u", "mark"}:
+        return f"*{content}*" if content else ""
+    return content
+
+
+def _markdown_table_cell(cell: lhtml.HtmlElement) -> str:
+    """Render a table cell as a single Markdown table row value."""
+    content = _render_html_children(cell)
+    content = re.sub(r"\s*\n\s*", " / ", content).strip()
+    return content.replace("|", r"\|")
+
+
+def _table_rows(table: lhtml.HtmlElement) -> list[list[lhtml.HtmlElement]]:
+    """Extract table rows and their direct data cells."""
+    rows: list[list[lhtml.HtmlElement]] = []
+    for row in table.iter("tr"):
+        cells = [child for child in row if _html_tag(child) in {"td", "th"}]
+        if cells:
+            rows.append(cells)
+    return rows
+
+
+def _pipe_table(headers: list[str], rows: list[list[str]]) -> str:
+    """Serialize a rectangular collection of cells as a GFM pipe table."""
+    width = max(len(headers), max((len(row) for row in rows), default=0), 1)
+    padded_headers = headers + [""] * (width - len(headers))
+    lines = ["| " + " | ".join(padded_headers) + " |"]
+    lines.append("| " + " | ".join("---" for _ in range(width)) + " |")
+    for row in rows:
+        padded = row + [""] * (width - len(row))
+        lines.append("| " + " | ".join(padded) + " |")
+    return "\n".join(lines)
+
+
+def _render_quote_table(cells: list[lhtml.HtmlElement]) -> str | None:
+    """Turn Fandom's three-cell quote layout into a Markdown blockquote."""
+    if len(cells) != 3:
+        return None
+    left = cells[0].text_content().strip()
+    right = cells[2].text_content().strip()
+    if left not in {"“", "‘", '"'} or right not in {"”", "’", '"'}:
+        return None
+
+    paragraphs = [
+        part.strip()
+        for part in _render_html_children(cells[1]).split("\n\n")
+        if part.strip()
+    ]
+    if not paragraphs:
+        return ""
+    quote = f"> {left}{paragraphs[0]}{right}"
+    if len(paragraphs) == 1:
+        return quote
+    attribution = " ".join(paragraphs[1:])
+    return f"{quote}\n>\n> — {attribution}"
+
+
+def _render_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
+    """Convert a Fandom infobox into a readable two-column Markdown table."""
+    body: list[list[str]] = []
+    for cells in rows:
+        values = [_markdown_table_cell(cell) for cell in cells]
+        if len(cells) == 1:
+            cell = cells[0]
+            value = values[0]
+            is_image_row = any(_html_tag(child) == "img" for child in cell.iter())
+            is_section = (
+                "section" in (cell.get("class") or "").split()
+                or (
+                    int(cell.get("colspan", "1")) > 1
+                    and not is_image_row
+                    and bool(cell.find(".//strong"))
+                )
+            )
+            if is_section:
+                body.append([f"**{value.strip('* ')}**", ""])
+            elif value:
+                body.append(["", value])
+            continue
+        label = values[0]
+        detail = " / ".join(value for value in values[1:] if value)
+        body.append([label, detail])
+    return _pipe_table(["Property", "Details"], body)
+
+
+def _render_generic_table(rows: list[list[lhtml.HtmlElement]]) -> str:
+    """Convert ordinary HTML tables to Markdown tables."""
+    if any(_html_tag(cell) == "th" for cell in rows[0]):
+        headers = [_markdown_table_cell(cell) for cell in rows[0]]
+        data_rows = rows[1:]
+    else:
+        width = max(len(row) for row in rows)
+        headers = [f"Column {index + 1}" for index in range(width)]
+        data_rows = rows
+    values = [[_markdown_table_cell(cell) for cell in row] for row in data_rows]
+    return _pipe_table(headers, values)
+
+
+def _render_html_table(node: lhtml.HtmlElement) -> str:
+    """Convert a table, including infoboxes and quote layouts, to Markdown."""
+    rows = _table_rows(node)
+    caption_node = node.find("caption")
+    caption = _inline_markdown(caption_node).strip() if caption_node is not None else ""
+    if len(rows) == 1:
+        quote = _render_quote_table(rows[0])
+        if quote is not None:
+            return f"**{caption}**\n\n{quote}" if caption else quote
+    if not rows:
+        return f"**{caption}**" if caption else ""
+    if "infobox" in (node.get("class") or "").split():
+        table = _render_infobox_table(rows)
+    else:
+        table = _render_generic_table(rows)
+    return f"**{caption}**\n\n{table}" if caption else table
+
+
+def _render_html_list(node: lhtml.HtmlElement, depth: int = 0) -> str:
+    """Convert nested HTML ordered and unordered lists to Markdown lists."""
+    ordered = _html_tag(node) == "ol"
+    try:
+        start = max(1, int(node.get("start", "1")))
+    except ValueError:
+        start = 1
+    lines: list[str] = []
+    for item_number, item in enumerate(node, start):
+        if _html_tag(item) != "li":
+            continue
+        content = [_markdown_text(item.text or "")]
+        nested: list[str] = []
+        for child in item:
+            if _html_tag(child) in {"ul", "ol"}:
+                nested.append(_render_html_list(child, depth + 2))
+            elif _html_tag(child) in HTML_BLOCK_TAGS:
+                content.append(_render_html_block(child).replace("\n", " "))
+            else:
+                content.append(_inline_markdown_element(child))
+            content.append(_markdown_text(child.tail or ""))
+        marker = f"{item_number}." if ordered else "-"
+        lines.append(" " * depth + marker + " " + "".join(content).strip())
+        lines.extend(part for part in nested if part)
+    return "\n".join(lines)
+
+
+def _render_html_pre(node: lhtml.HtmlElement) -> str:
+    """Convert a preformatted HTML block to a fenced Markdown code block."""
+    code = node.text_content().strip("\n")
+    if not code:
+        return ""
+    runs = re.findall(re.escape(chr(96)) + r"+", code)
+    fence = chr(96) * max(3, max((len(run) for run in runs), default=0) + 1)
+    language = ""
+    for class_name in (node.get("class") or "").split():
+        if class_name.startswith("language-"):
+            language = class_name.removeprefix("language-")
+            break
+    return f"{fence}{language}\n{code}\n{fence}"
+
+
+def _render_html_definition_list(node: lhtml.HtmlElement) -> str:
+    """Convert definition lists to bold terms and indented definitions."""
+    lines: list[str] = []
+    term = ""
+    for child in node:
+        tag = _html_tag(child)
+        content = _inline_markdown(child).strip()
+        if tag == "dt":
+            term = content
+        elif tag == "dd":
+            lines.append(f"**{term}**\n: {content}" if term else content)
+            term = ""
+    return "\n\n".join(lines)
+
+
+def _render_html_special_block(node: lhtml.HtmlElement) -> str | None:
+    """Render block elements with specialized Markdown representations."""
+    tag = _html_tag(node)
+    if tag == "table":
+        return _render_html_table(node)
+    if tag == "blockquote":
+        content = _render_html_children(node)
+        return "\n".join("> " + line if line else ">" for line in content.splitlines())
+    if tag == "pre":
+        return _render_html_pre(node)
+    if tag in {"ul", "ol"}:
+        return _render_html_list(node)
+    if tag == "hr":
+        return "---"
+    if tag == "dl":
+        return _render_html_definition_list(node)
+    return None
+
+
+def _render_html_block(node: lhtml.HtmlElement) -> str:
+    """Convert one HTML block element into Markdown."""
+    tag = _html_tag(node)
+    special = _render_html_special_block(node)
+    if special is not None:
+        return special
+    if tag in {"h1", "h2", "h3", "h4", "h5", "h6"}:
+        level = int(tag[1])
+        return f"{'#' * level} {_inline_markdown(node).strip()}"
+    if tag == "p":
+        return _inline_markdown(node).strip()
+    if tag == "figcaption":
+        caption = _inline_markdown(node).strip()
+        return f"*{caption}*" if caption else ""
+    content = _render_html_children(node)
+    if "footnotes" in (node.get("class") or "").split():
+        if not content.startswith("## Notes"):
+            content = f"## Notes\n\n{content}" if content else "## Notes"
+    if tag == "summary":
+        return f"**{_inline_markdown(node).strip()}**"
+    return content
+
+
+def _render_html_children(node: lhtml.HtmlElement) -> str:
+    """Render mixed block and inline descendants, discarding all wrapper tags."""
+    blocks: list[str] = []
+    inline: list[str] = [_markdown_text(node.text or "")]
+    for child in node:
+        if _html_tag(child) in HTML_BLOCK_TAGS:
+            current = "".join(inline).strip()
+            if current:
+                blocks.append(current)
+            rendered = _render_html_block(child)
+            if rendered.strip():
+                blocks.append(rendered)
+            inline = []
+        else:
+            inline.append(_inline_markdown_element(child))
+        inline.append(_markdown_text(child.tail or ""))
+    current = "".join(inline).strip()
+    if current:
+        blocks.append(current)
+    return "\n\n".join(blocks)
+
+
+def _html_fragment_to_markdown(fragment: str) -> str:
+    """Convert an HTML fragment to Markdown without structural HTML tags."""
+    root = lhtml.fragment_fromstring(fragment or "", create_parent="div")
+    return _render_html_children(root).strip()
+
+
 def _convert_html_to_markdown(
     pandoc: str, rewritten_html: str, note: str
 ) -> tuple[str, str, bool]:
-    """Convert rewritten HTML to GFM, retaining raw HTML on conversion errors."""
+    """Convert rewritten HTML to Markdown, normalizing any HTML Pandoc preserves."""
     try:
         markdown_body = _run_pandoc(pandoc, rewritten_html, "html", "gfm")
     except Exception as markdown_error:
+        markdown_body = _html_fragment_to_markdown(rewritten_html)
         note = (
-            f"{note} HTML-to-Markdown conversion failed; kept "
-            f"rendered HTML: {markdown_error}"
+            f"{note} HTML-to-Markdown conversion failed; converted the HTML "
+            f"fragment to Markdown instead: {markdown_error}"
         ).strip()
-        return rewritten_html, note, True
+        return markdown_body, note, True
+
+    if HTML_TAG_RE.search(markdown_body):
+        markdown_body = _html_fragment_to_markdown(rewritten_html)
+        note = (
+            f"{note} Converted HTML elements retained by Pandoc into Markdown."
+        ).strip()
+        return markdown_body, note, True
     return markdown_body, note, False
 
 

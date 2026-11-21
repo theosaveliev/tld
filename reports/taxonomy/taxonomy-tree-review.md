@@ -883,7 +883,6 @@
 
 - [Antiseptic](https://thelongdark.fandom.com/wiki/Antiseptic)
 - [Caffeine Pills](https://thelongdark.fandom.com/wiki/Caffeine_Pills)
-- [Heat Pack](https://thelongdark.fandom.com/wiki/Heat_Pack)
 - [Old Man's Beard Wound Dressing](https://thelongdark.fandom.com/wiki/Old_Man's_Beard_Wound_Dressing)
 - [Vitamin-C Pills](https://thelongdark.fandom.com/wiki/Vitamin-C_Pills)
 - [Water Purification Tablets](https://thelongdark.fandom.com/wiki/Water_Purification_Tablets)
@@ -992,10 +991,11 @@
 
 ### Portable Heating & Cooking Equipment
 
-> Portable heating appliances and the fuel containers used to operate them.
+> Portable equipment and supplies used to provide warmth or cooking heat.
 
 - [McLeod Ultra-Efficiency Whale Oil Heater](https://thelongdark.fandom.com/wiki/McLeod_Ultra-Efficiency_Whale_Oil_Heater)
 - [Whale Oil Can](https://thelongdark.fandom.com/wiki/Whale_Oil_Can)
+- [Heat Pack](https://thelongdark.fandom.com/wiki/Heat_Pack)
 
 ### Fishing & Trapping Gear
 

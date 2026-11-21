@@ -193,10 +193,15 @@ def audit_filenames(
     click.echo(f"Issues found: {len(report['issues'])}")
 
     for mapping in adjusted:
-        click.echo(
-            f"  {mapping['title']}: "
-            f"{mapping['original_filename']} -> {mapping['filename']}"
+        message = (
+            "  "
+            + mapping["title"]
+            + ": "
+            + mapping["original_filename"]
+            + " -> "
+            + mapping["filename"]
         )
+        click.echo(message)
 
     for issue in report["issues"]:
         click.echo(f"\n[{issue['kind']}] {', '.join(issue['titles'])}")

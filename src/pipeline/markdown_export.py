@@ -5,11 +5,13 @@ from __future__ import annotations
 
 import hashlib
 import html
+import importlib
 import json
 import re
 import shutil
 import subprocess
 import sys
+import types
 import unicodedata
 import urllib.parse
 import warnings
@@ -231,11 +233,8 @@ def _create_wtp() -> Any:
     warnings.filterwarnings("ignore", category=SyntaxWarning)
 
     try:
-        import pkg_resources  # noqa: F401
+        importlib.import_module("pkg_resources")
     except ImportError:
-        import importlib.util
-        import types
-
         package_resources = types.ModuleType("pkg_resources")
 
         def resource_filename(package: str, resource: str) -> str:
@@ -249,22 +248,22 @@ def _create_wtp() -> Any:
 
     import re as regex_module
 
-    import wikitextprocessor.luaexec as luaexec
-    from wikitextprocessor import Wtp
+    luaexec = importlib.import_module("wikitextprocessor.luaexec")
 
     class RegexShim:
         def __getattr__(self, name: str) -> Any:
             return getattr(regex_module, name)
 
-        def match(self, pattern: str, string: str, flags: int = 0) -> Any:
-            return regex_module.match(
-                pattern.replace("^(?s)", "(?s)^"), string, flags
-            )
+        def match(self, pattern: Any, string: str, flags: int = 0) -> Any:
+            if isinstance(pattern, str):
+                pattern = pattern.replace("^(?s)", "(?s)^")
+            return regex_module.match(pattern, string, flags)
 
     if sys.version_info >= (3, 11):
-        luaexec.re = RegexShim()
+        setattr(luaexec, "re", RegexShim())
 
-    return Wtp(quiet=True, num_threads=1)
+    processor = importlib.import_module("wikitextprocessor")
+    return processor.Wtp(quiet=True, num_threads=1)
 
 
 def _load_wiki_context(

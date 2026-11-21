@@ -13,20 +13,31 @@
 
 **Old Man's Beard Wound Dressing**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png) / _Old\_Man's\_Beard\_Wound\_Dressing\_icon.png_ |
-| Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
-| Stackable | Yes |
-| Examine | A dressing utilizing Old Man's Beard lichen. Apply to wounds to help prevent infection. |
-| **Values** |  |
-| Weight | 0.10 kg (0.22 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Leave It |
+![](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png)
+
+_Old\_Man's\_Beard\_Wound\_Dressing\_icon.png_
+
+**Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Materials](./Materials.md)\|-
+
+**Stackable:** Yes
+
+**Examine:** A dressing utilizing Old Man's Beard lichen. Apply to wounds to help prevent infection.
+
+**Values**
+
+**Weight:** 0.10 kg (0.22 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
 
 **Old Man's Beard Wound Dressing** is a type of natural [First Aid](./First%20Aid.md) item used to eliminate infection risk.
 

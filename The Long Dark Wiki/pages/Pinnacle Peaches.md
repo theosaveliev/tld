@@ -12,27 +12,55 @@
 
 **Pinnacle Peaches**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Sealed](../assets/Pinnacle_Peaches_icon.png) / _Sealed_ / ![Opened](../assets/Pinnacle_Peaches_%28Opened%29_icon.png) / _Opened_ | 250px\]\] |
-| ![Sealed](../assets/Pinnacle_Peaches_icon.png) / _Sealed_ | ![Opened](../assets/Pinnacle_Peaches_%28Opened%29_icon.png) / _Opened_ |
-| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
-| Wintermute | No |
-| Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- / Equipable |
-| Stackable | No |
-| Examine | High quality peaches, halved. |
-| **Values** |  |
-| Calories | 450 kcal |
-| Hydration | 20% |
-| [Vitamin C](./Scurvy.md) | Moderate (56%) |
-| Weight | 0.50 kg (1.1 lbs) |
-| **Decay Rate** |  |
-| Inside | 0.333% per day |
-| Outside | 1.667% per day |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_PinnaclePeaches |
+\[\[File: / ![Sealed](../assets/Pinnacle_Peaches_icon.png) / _Sealed_ / ![Opened](../assets/Pinnacle_Peaches_%28Opened%29_icon.png) / _Opened_
+
+250px\]\]
+
+![Sealed](../assets/Pinnacle_Peaches_icon.png)
+
+_Sealed_
+
+![Opened](../assets/Pinnacle_Peaches_%28Opened%29_icon.png)
+
+_Opened_
+
+**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+
+**Wintermute:** No
+
+**Renewable:** Yes (rare [Beachcombing](./Beachcombing.md))
+
+**Properties**
+
+Item type
+
+[Food And Drink](./Food%20And%20Drink.md)\|-
+
+Equipable
+
+**Stackable:** No
+
+**Examine:** High quality peaches, halved.
+
+**Values**
+
+**Calories:** 450 kcal
+
+**Hydration:** 20%
+
+**[Vitamin C](./Scurvy.md):** Moderate (56%)
+
+**Weight:** 0.50 kg (1.1 lbs)
+
+**Decay Rate**
+
+**Inside:** 0.333% per day
+
+**Outside:** 1.667% per day
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_PinnaclePeaches
 
 **Pinnacle Peaches** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 

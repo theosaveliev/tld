@@ -4,15 +4,19 @@
 
 **Contraband Storage**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Contraband_Storage.jpg) / _Contraband\_Storage.jpg_ |
-| Update | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
-| Story item | Yes |
-| **Container** |  |
-| Capacity | 40.00 kg(88 lbs) |
+![](../assets/Contraband_Storage.jpg)
 
-> “__To avoid items being confiscated, hide them out of sight in containers or places far away from the convicts.__”
+_Contraband\_Storage.jpg_
+
+**Update:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+
+**Story item:** Yes
+
+**Container**
+
+**Capacity:** 40.00 kg(88 lbs)
+
+> “**To avoid items being confiscated, hide them out of sight in containers or places far away from the convicts.**”
 >
 > — [What I Know](./What%20I%20Know.md) description
 

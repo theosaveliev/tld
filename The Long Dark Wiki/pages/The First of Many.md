@@ -4,10 +4,11 @@
 
 **The First of Many**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/The_First_of_Many.jpg) / _The\_First\_of\_Many.jpg_ |
-| Description | You survived for 1 day in a single Survival mode game. |
+![](../assets/The_First_of_Many.jpg)
+
+_The\_First\_of\_Many.jpg_
+
+**Description:** You survived for 1 day in a single Survival mode game.
 
 **The First of Many** is an [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

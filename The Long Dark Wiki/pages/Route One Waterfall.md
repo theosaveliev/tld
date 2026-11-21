@@ -4,10 +4,16 @@
 
 **Route One Waterfall**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Route_One_Waterfall.jpg) / _Route\_One\_Waterfall.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Route_One_Waterfall_Location.png) / _Route\_One\_Waterfall\_Location.png_ |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
-| **General** |  |
+![](../assets/Route_One_Waterfall.jpg)
+
+_Route\_One\_Waterfall.jpg_
+
+**Location**
+
+![](../assets/Route_One_Waterfall_Location.png)
+
+_Route\_One\_Waterfall\_Location.png_
+
+**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+
+**General**

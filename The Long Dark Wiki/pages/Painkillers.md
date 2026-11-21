@@ -11,18 +11,25 @@
 
 **Painkillers**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Painkillers_icon.png) / _Painkillers\_icon.png_ |
-| **General** |  |
-| Item Type | [First Aid](./First%20Aid.md) |
-| Renewable | Yes ([Beachcombing](./Beachcombing.md), [Trader](./Trader.md)) |
-| **Statistics** |  |
-| Unit weight | 0.02 kg/dose(0.04 lbs/dose) |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
-| Unit count | ![unit\_count\_icon.png](../assets/Unit_count_icon.png)6 doses |
+![](../assets/Painkillers_icon.png)
 
-> “__A bottle of Painkillers. Take it to reduce pain from injuries.__”
+_Painkillers\_icon.png_
+
+**General**
+
+**Item Type:** [First Aid](./First%20Aid.md)
+
+**Renewable:** Yes ([Beachcombing](./Beachcombing.md), [Trader](./Trader.md))
+
+**Statistics**
+
+**Unit weight:** 0.02 kg/dose(0.04 lbs/dose)
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+**Unit count:** ![unit\_count\_icon.png](../assets/Unit_count_icon.png)6 doses
+
+> “**A bottle of Painkillers. Take it to reduce pain from injuries.**”
 >
 > — In-game description
 
@@ -58,5 +65,3 @@ _old model_
 
 - The exact medication Painkillers represent is unknown, though the "Rx" on their label states it is a prescribed drug.
 - It is not possible to overdose on or become addicted to Painkillers in The Long Dark.
-
-[ru:Обезболивающее](ru:%D0%9E%D0%B1%D0%B5%D0%B7%D0%B1%D0%BE%D0%BB%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B5%D0%B5)

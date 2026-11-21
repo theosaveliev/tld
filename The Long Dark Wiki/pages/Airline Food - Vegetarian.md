@@ -4,23 +4,37 @@
 
 **Airline Food - Vegetarian**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Airline_Food_-_Vegetarian_icon.png) / _Airline\_Food\_-\_Vegetarian\_icon.png_ |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
-| Wintermute | Yes |
-| Renewable | No |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | Bits of frozen broccoli and something that resembles mashed potatoes is visible under the wrapper. The veggie option never looked so good. |
-| **Values** |  |
-| Calories | 560 kcal |
-| Hydration | 5% |
-| [Vitamin C](./Scurvy.md) | Major (73%) |
-| Weight | 0.25 kg (0.55 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_AirlineFoodVeg |
+![](../assets/Airline_Food_-_Vegetarian_icon.png)
+
+_Airline\_Food\_-\_Vegetarian\_icon.png_
+
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+
+**Wintermute:** Yes
+
+**Renewable:** No
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** Bits of frozen broccoli and something that resembles mashed potatoes is visible under the wrapper. The veggie option never looked so good.
+
+**Values**
+
+**Calories:** 560 kcal
+
+**Hydration:** 5%
+
+**[Vitamin C](./Scurvy.md):** Major (73%)
+
+**Weight:** 0.25 kg (0.55 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_AirlineFoodVeg
 
 **Airline Food - Vegetarian** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 

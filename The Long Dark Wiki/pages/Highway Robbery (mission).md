@@ -13,14 +13,17 @@
 
 **Highway Robbery**
 
-| Property | Details |
-| --- | --- |
-|  | ![One of the rewards for this mission is a Distress Pistol](../assets/Distress_Pistol_icon.png) / _One of the rewards for this mission is a [Distress Pistol](./Distress%20Pistol.md)_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Current | Highway Robbery (mission) |
-| Region | [Mountain Town](./Mountain%20Town.md) |
+![One of the rewards for this mission is a Distress Pistol](../assets/Distress_Pistol_icon.png)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_One of the rewards for this mission is a [Distress Pistol](./Distress%20Pistol.md)_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Current:** Highway Robbery (mission)
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 _For the [collectible](./Collectibles.md) note that starts the side mission, see [Highway Robbery](./Highway%20Robbery.md)._
 
@@ -28,7 +31,7 @@ _For the [collectible](./Collectibles.md) note that starts the side mission, see
 
 ## Official description
 
-> “__You found a note describing the possible location of emergency supplies near a bridge outside of Milton.__”
+> “**You found a note describing the possible location of emergency supplies near a bridge outside of Milton.**”
 
 ## Overview
 

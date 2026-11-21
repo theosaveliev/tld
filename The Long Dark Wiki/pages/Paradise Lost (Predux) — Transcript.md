@@ -4,15 +4,21 @@
 
 **Paradise Lost (Predux)/Transcript**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Paradise_Lost_%28Predux%29.jpg) / _Paradise\_Lost\_(Predux).jpg_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Previous | [The Grey Mother (Predux)/Transcript](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md) |
-| Current | Paradise Lost (Predux)/Transcript |
-| Next | [Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md) |
-| Region | [Mountain Town](./Mountain%20Town.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
+![](../assets/Paradise_Lost_%28Predux%29.jpg)
+
+_Paradise\_Lost\_(Predux).jpg_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Previous:** [The Grey Mother (Predux)/Transcript](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md)
+
+**Current:** Paradise Lost (Predux)/Transcript
+
+**Next:** [Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md)
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md)
 
 This is the transcript for Chapter 4 [Paradise Lost (Predux)](./Paradise%20Lost%20%28Predux%29.md) for Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 

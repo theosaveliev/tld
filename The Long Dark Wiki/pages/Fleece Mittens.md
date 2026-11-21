@@ -4,23 +4,35 @@
 
 **Fleece Mittens**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Fleece_Mittens_icon.png) / _Fleece\_Mittens\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Hands |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)5% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)1% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 65% condition |
+![](../assets/Fleece_Mittens_icon.png)
 
-> “__Basic fleece mitts. Pretty warm, but useless when wet.__”
+_Fleece\_Mittens\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Hands
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)5%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)1%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 65% condition
+
+> “**Basic fleece mitts. Pretty warm, but useless when wet.**”
 >
 > — In-game description
 

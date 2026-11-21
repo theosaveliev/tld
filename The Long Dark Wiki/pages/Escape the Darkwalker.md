@@ -25,13 +25,17 @@
 
 **Escape the Darkwalker**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Event_NowhereToHide.png) / _Event\_NowhereToHide.png_ |
-| **Details** |  |
-| Regions | All |
-| Difficulty | 6 |
-| Date Added | 9 Dec 2020 |
+![](../assets/Event_NowhereToHide.png)
+
+_Event\_NowhereToHide.png_
+
+**Details**
+
+**Regions:** All
+
+**Difficulty:** 6
+
+**Date Added:** 9 Dec 2020
 
 > “__The Darkwalker is hunting you. Paint Glyphs to survive as long as you can.  
  Search for the Green Fires. Learn all you can about the Darkwalker. Knowledge will help you find a way to defeat the entity.__”
@@ -169,11 +173,43 @@ Open Regions (Multiple region entrances/exits)
 
 ## Rewards
 
-| Icon | Name | Requirements | Benefit |
-| --- | --- | --- | --- |
-| ![](../assets/Badge_Umbra.png) / _Badge\_Umbra.png_ | Escape the Darkwalker - Umbra Badge (2020) | Complete the Escape the Darkwalker challenge. _(Previously: Survive for 60 minutes (real-time) in a single Escape the Darkwalker game.)_ | Unlocks challenge badge. |
-| ![](../assets/Badge_Deadly_Dreamer.png) / _Badge\_Deadly\_Dreamer.png_ | Escape the Darkwalker - Deadly Dreamer Badge (2020) | Collect 6 'Escape the Darkwalker Diary Pages' in a single game. | Unlocks challenge badge. |
-| ![](../assets/Badge_feat_nightWalker.png) / _badge\_feat\_nightWalker.png_ | Darkwalker | Complete the Escape the Darkwalker Challenge (2021) | Unlocks feat. Less fatigued at night, more fatigued during the day. |
+Icon
+
+Name
+
+Requirements
+
+Benefit
+
+![](../assets/Badge_Umbra.png)
+
+_Badge\_Umbra.png_
+
+Escape the Darkwalker - Umbra Badge (2020)
+
+Complete the Escape the Darkwalker challenge. _(Previously: Survive for 60 minutes (real-time) in a single Escape the Darkwalker game.)_
+
+Unlocks challenge badge.
+
+![](../assets/Badge_Deadly_Dreamer.png)
+
+_Badge\_Deadly\_Dreamer.png_
+
+Escape the Darkwalker - Deadly Dreamer Badge (2020)
+
+Collect 6 'Escape the Darkwalker Diary Pages' in a single game.
+
+Unlocks challenge badge.
+
+![](../assets/Badge_feat_nightWalker.png)
+
+_badge\_feat\_nightWalker.png_
+
+Darkwalker
+
+Complete the Escape the Darkwalker Challenge (2021)
+
+Unlocks feat. Less fatigued at night, more fatigued during the day.
 
 ## List of Diary Page Contents and Loot Next to Each Green Campfire
 

@@ -4,11 +4,18 @@
 
 **Heartbreak Bridge**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Heartbreak_Bridge.jpg) / _Heartbreak\_Bridge.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Heartbreak_Bridge_Location.png) / _Heartbreak\_Bridge\_Location.png_ |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
-| **General** |  |
-| Type | Landmark\|- |
+![](../assets/Heartbreak_Bridge.jpg)
+
+_Heartbreak\_Bridge.jpg_
+
+**Location**
+
+![](../assets/Heartbreak_Bridge_Location.png)
+
+_Heartbreak\_Bridge\_Location.png_
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+
+**General**
+
+**Type:** Landmark\|-

@@ -4,8 +4,10 @@
 
 **Mailbox**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Mailbox.jpg) / _Mailbox.jpg_ |
-| **General** |  |
-| Item Type | Item |
+![](../assets/Mailbox.jpg)
+
+_Mailbox.jpg_
+
+**General**
+
+**Item Type:** Item

@@ -4,16 +4,21 @@
 
 **Framed Photo**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Framed_Photo_icon.png) / _Framed\_Photo\_icon.png_ |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
-| **Values** |  |
-| Weight | 0.25 kg (0.55 lbs) |
-| **Actions** |  |
-| Backpack | Drop, Place |
+![](../assets/Framed_Photo_icon.png)
 
-> “__A decorative picture frame. Suitable for hanging instant photographs on the wall.__”
+_Framed\_Photo\_icon.png_
+
+**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Values**
+
+**Weight:** 0.25 kg (0.55 lbs)
+
+**Actions**
+
+**Backpack:** Drop, Place
+
+> “**A decorative picture frame. Suitable for hanging instant photographs on the wall.**”
 >
 > — In-Game Description
 

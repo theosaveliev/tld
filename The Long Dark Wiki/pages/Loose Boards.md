@@ -4,14 +4,19 @@
 
 **Loose Boards**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Loose_Boards.jpg) / _Loose\_Boards.jpg_ |
-| Release | Part 1 TFTFT |
-| Update | [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00) |
-| Story item | [Church Artifact (mission)](./Church%20Artifact%20%28mission%29.md) |
-| **Container** |  |
-| Capacity | 30.00 kg(66 lbs) |
+![](../assets/Loose_Boards.jpg)
+
+_Loose\_Boards.jpg_
+
+**Release:** Part 1 TFTFT
+
+**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+
+**Story item:** [Church Artifact (mission)](./Church%20Artifact%20%28mission%29.md)
+
+**Container**
+
+**Capacity:** 30.00 kg(66 lbs)
 
 **Loose Boards** is an interactable storage object that contain hidden loot when found by a [Mementos](./Mementos.md) note. A prompt will not appear until the associated note is found.
 

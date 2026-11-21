@@ -12,22 +12,33 @@
 
 **Rabbitskin Mitts**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Rabbitskin_Mitts_icon.png) / _Rabbitskin\_Mitts\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)50% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)3% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-5% |
-| Harvest | 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / 10 minutes |
-| Repair | 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 30 minutes / 30% condition |
+![](../assets/Rabbitskin_Mitts_icon.png)
 
-> “__Handcrafted mitts. They may make you clumsy, but they're very warm. Kind of like wearing a rabbit on your hands.__”
+_Rabbitskin\_Mitts\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)50%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)3%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-5%
+
+**Harvest:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / 10 minutes
+
+**Repair:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 30 minutes / 30% condition
+
+> “**Handcrafted mitts. They may make you clumsy, but they're very warm. Kind of like wearing a rabbit on your hands.**”
 >
 > — In-game description
 

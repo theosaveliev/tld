@@ -20,11 +20,13 @@
 
 **Ice Fishing**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Ice_Fishing_background.png) / _Ice\_Fishing\_background.png_ |
-| Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
-| Date | 23 June 2016 |
+![](../assets/Ice_Fishing_background.png)
+
+_Ice\_Fishing\_background.png_
+
+**Release:** [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)
+
+**Date:** 23 June 2016
 
 ![Ice\_Fishing.png](../assets/Ice_Fishing.png) **Ice Fishing** is the [Skill](./Skills.md) to catch fish in _The Long Dark_. It is performed at fishing holes, which are cut in the ice of fish-bearing bodies of water.
 
@@ -57,17 +59,203 @@ Each fishing session is treated separately, so longer sessions will likely catch
 
 There are two types of fish: saltwater and freshwater, and four rarity: common, uncommon and two rare types. Fishing Lures only increase the odds of "rare" fish (at the cost of increase bite wait times).
 
-| Image | Name | Rarity | Type | Minimum weight | Maximum weight | Raw caloric density | Fuel ¹ | Odds |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Lake_Whitefish_%28Raw%29_icon.png) / _Lake\_Whitefish\_(Raw)\_icon.png_ | [Lake Whitefish](./Lake%20Whitefish%20%28Raw%29.md) | Common | Fresh water | 1.50 kg / _(3.3 lb)_ | 2.30 kg / _(5.06 lb)_ | 250 cal/kg | 0.015 L/kg | 70 |
-| ![](../assets/Rainbow_Trout_%28Raw%29_icon.png) / _Rainbow\_Trout\_(Raw)\_icon.png_ | [Rainbow Trout](./Rainbow%20Trout%20%28Raw%29.md) | Common | Salt water | 0.50 kg / _(1.1 lb)_ | 2.30 kg / _(5.06 lb)_ | 250 cal/kg | 0.025 L/kg | 70 |
-| ![](../assets/Coho_Salmon_%28Raw%29_icon.png) / _Coho\_Salmon\_(Raw)\_icon.png_ | [Coho Salmon](./Coho%20Salmon%20%28Raw%29.md) | Uncommon | Salt water | 2.80 kg / _(6.16 lb)_ | 5.50 kg / _(12.1 lb)_ | 300 cal/kg | 0.032 L/kg | 30 |
-| ![](../assets/Smallmouth_Bass_%28Raw%29_icon.png) / _Smallmouth\_Bass\_(Raw)\_icon.png_ | [Smallmouth Bass](./Smallmouth%20Bass%20%28Raw%29.md) | Uncommon | Fresh water | 1.80 kg / _(3.96 lb)_ | 5.00 kg / _(11 lb)_ | 300 cal/kg | 0.025 L/kg | 30 |
-| ![](../assets/Goldeye_icon.png) / _Goldeye\_icon.png_ | [Goldeye](./Goldeye%20%28Raw%29.md) | Rare | Fresh water | 0.50 kg / _(1.1 lb)_ | 2.10 kg / _(4.62 lb)_ | 300 cal/kg | 0.015 L/kg | 5 |
-| ![](../assets/Burbot_icon.png) / _Burbot\_icon.png_ | [Burbot](./Burbot%20%28Raw%29.md) | Rare | Fresh water | 3.90 kg / _(8.58 lb)_ | 6.00 kg / _(13.2 lb)_ | 325 cal/kg | 0.030 L/kg | 2 |
-| ![](../assets/Rockfish_icon.png) / _Rockfish\_icon.png_ | [Rockfish](./Rockfish%20%28Raw%29.md) | Rare | Salt water | 1.80 kg / _(3.96 lb)_ | 5.00 kg / _(11 lb)_ | 300 cal/kg | 0.025 L/kg | 5 |
-| ![](../assets/Red_Irish_Lord_icon.png) / _Red\_Irish\_Lord\_icon.png_ | [Red Irish Lord](./Red%20Irish%20Lord%20%28Raw%29.md) | Rare | Salt water | 1.50 kg / _(3.3 lb)_ | 3.10 kg / _(6.82 lb)_ | 300 cal/kg | 0.020 L/kg | 2 |
-| ![](../assets/Big_Bass_%28Raw%29_icon.png) / _Big\_Bass\_(Raw)\_icon.png_ | _[Big Bass\*](./Big%20Bass%20%28Raw%29.md)_ | Unique | Fresh water | 15.00 kg / _(33 lb)_ | 15.00 kg / _(33 lb)_ | 300 cal/kg | 0.37L | Scripted |
+Image
+
+Name
+
+Rarity
+
+Type
+
+Minimum weight
+
+Maximum weight
+
+Raw caloric density
+
+Fuel ¹
+
+Odds
+
+![](../assets/Lake_Whitefish_%28Raw%29_icon.png)
+
+_Lake\_Whitefish\_(Raw)\_icon.png_
+
+[Lake Whitefish](./Lake%20Whitefish%20%28Raw%29.md)
+
+Common
+
+Fresh water
+
+1.50 kg / _(3.3 lb)_
+
+2.30 kg / _(5.06 lb)_
+
+250 cal/kg
+
+0.015 L/kg
+
+70
+
+![](../assets/Rainbow_Trout_%28Raw%29_icon.png)
+
+_Rainbow\_Trout\_(Raw)\_icon.png_
+
+[Rainbow Trout](./Rainbow%20Trout%20%28Raw%29.md)
+
+Common
+
+Salt water
+
+0.50 kg / _(1.1 lb)_
+
+2.30 kg / _(5.06 lb)_
+
+250 cal/kg
+
+0.025 L/kg
+
+70
+
+![](../assets/Coho_Salmon_%28Raw%29_icon.png)
+
+_Coho\_Salmon\_(Raw)\_icon.png_
+
+[Coho Salmon](./Coho%20Salmon%20%28Raw%29.md)
+
+Uncommon
+
+Salt water
+
+2.80 kg / _(6.16 lb)_
+
+5.50 kg / _(12.1 lb)_
+
+300 cal/kg
+
+0.032 L/kg
+
+30
+
+![](../assets/Smallmouth_Bass_%28Raw%29_icon.png)
+
+_Smallmouth\_Bass\_(Raw)\_icon.png_
+
+[Smallmouth Bass](./Smallmouth%20Bass%20%28Raw%29.md)
+
+Uncommon
+
+Fresh water
+
+1.80 kg / _(3.96 lb)_
+
+5.00 kg / _(11 lb)_
+
+300 cal/kg
+
+0.025 L/kg
+
+30
+
+![](../assets/Goldeye_icon.png)
+
+_Goldeye\_icon.png_
+
+[Goldeye](./Goldeye%20%28Raw%29.md)
+
+Rare
+
+Fresh water
+
+0.50 kg / _(1.1 lb)_
+
+2.10 kg / _(4.62 lb)_
+
+300 cal/kg
+
+0.015 L/kg
+
+5
+
+![](../assets/Burbot_icon.png)
+
+_Burbot\_icon.png_
+
+[Burbot](./Burbot%20%28Raw%29.md)
+
+Rare
+
+Fresh water
+
+3.90 kg / _(8.58 lb)_
+
+6.00 kg / _(13.2 lb)_
+
+325 cal/kg
+
+0.030 L/kg
+
+2
+
+![](../assets/Rockfish_icon.png)
+
+_Rockfish\_icon.png_
+
+[Rockfish](./Rockfish%20%28Raw%29.md)
+
+Rare
+
+Salt water
+
+1.80 kg / _(3.96 lb)_
+
+5.00 kg / _(11 lb)_
+
+300 cal/kg
+
+0.025 L/kg
+
+5
+
+![](../assets/Red_Irish_Lord_icon.png)
+
+_Red\_Irish\_Lord\_icon.png_
+
+[Red Irish Lord](./Red%20Irish%20Lord%20%28Raw%29.md)
+
+Rare
+
+Salt water
+
+1.50 kg / _(3.3 lb)_
+
+3.10 kg / _(6.82 lb)_
+
+300 cal/kg
+
+0.020 L/kg
+
+2
+
+![](../assets/Big_Bass_%28Raw%29_icon.png)
+
+_Big\_Bass\_(Raw)\_icon.png_
+
+_[Big Bass\*](./Big%20Bass%20%28Raw%29.md)_
+
+Unique
+
+Fresh water
+
+15.00 kg / _(33 lb)_
+
+15.00 kg / _(33 lb)_
+
+300 cal/kg
+
+0.37L
+
+Scripted
 
 _\*Big Bass is found only in Wintermute_
 
@@ -87,16 +275,91 @@ Ice breakers are any tool used to clear ice holes. Fully clearing a hole takes t
 
 Tip: On PC, pressing Enter also acts as clicking the Break Ice button.
 
-| Tool | Break rate / (minutes to clear ice) | Tool decay |  |
-| --- | --- | --- | --- |
-| ![](../assets/Prybar_icon.png) / _Prybar\_icon.png_ | [Prybar](./Prybar.md) | 45.0 min | 2.0% |
-| ![](../assets/Heavy_Hammer_icon.png) / _Heavy\_Hammer\_icon.png_ | [Heavy Hammer](./Heavy%20Hammer.md) | 45.0 min | 2.0% |
-| ![](../assets/Hatchet_icon.png) / _Hatchet\_icon.png_ | [Hatchet](./Hatchet.md) | 20.0 min | 5.0% |
-| ![](../assets/Hunting_Knife_icon.png) / _Hunting\_Knife\_icon.png_ | [Hunting Knife](./Hunting%20Knife.md) | 40.0 min | 5.0% |
-| ![](../assets/Improvised_Hatchet_icon.png) / _Improvised\_Hatchet\_icon.png_ | [Improvised Hatchet](./Improvised%20Hatchet.md) | 30.0 min | 10.0% |
-| ![](../assets/Improvised_Knife_icon.png) / _Improvised\_Knife\_icon.png_ | [Improvised Knife](./Improvised%20Knife.md) | 50.0 min | 8.0% |
-| ![](../assets/Cougar_Claw_Knife_icon.png) / _Cougar\_Claw\_Knife\_icon.png_ | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | 40.0 min | 5.0% |
-| ![](../assets/Survival_Knife_icon.png) / _Survival\_Knife\_icon.png_ | [Survival Knife](./Survival%20Knife.md) | 40.0 min | 2.5% |
+Tool
+
+Break rate / (minutes to clear ice)
+
+Tool decay
+
+![](../assets/Prybar_icon.png)
+
+_Prybar\_icon.png_
+
+[Prybar](./Prybar.md)
+
+45.0 min
+
+2.0%
+
+![](../assets/Heavy_Hammer_icon.png)
+
+_Heavy\_Hammer\_icon.png_
+
+[Heavy Hammer](./Heavy%20Hammer.md)
+
+45.0 min
+
+2.0%
+
+![](../assets/Hatchet_icon.png)
+
+_Hatchet\_icon.png_
+
+[Hatchet](./Hatchet.md)
+
+20.0 min
+
+5.0%
+
+![](../assets/Hunting_Knife_icon.png)
+
+_Hunting\_Knife\_icon.png_
+
+[Hunting Knife](./Hunting%20Knife.md)
+
+40.0 min
+
+5.0%
+
+![](../assets/Improvised_Hatchet_icon.png)
+
+_Improvised\_Hatchet\_icon.png_
+
+[Improvised Hatchet](./Improvised%20Hatchet.md)
+
+30.0 min
+
+10.0%
+
+![](../assets/Improvised_Knife_icon.png)
+
+_Improvised\_Knife\_icon.png_
+
+[Improvised Knife](./Improvised%20Knife.md)
+
+50.0 min
+
+8.0%
+
+![](../assets/Cougar_Claw_Knife_icon.png)
+
+_Cougar\_Claw\_Knife\_icon.png_
+
+[Cougar Claw Knife](./Cougar%20Claw%20Knife.md)
+
+40.0 min
+
+5.0%
+
+![](../assets/Survival_Knife_icon.png)
+
+_Survival\_Knife\_icon.png_
+
+[Survival Knife](./Survival%20Knife.md)
+
+40.0 min
+
+2.5%
 
 ### Fishing Tip-Ups
 
@@ -114,12 +377,73 @@ Any number of Tip-Ups may be deployed in a region, but deploying more than 6 per
 
 [Fishing Lures](./Fishing%20Lure%20%28disambiguation%29.md) are an optional tool for catching rare fish. Using lures increases the odds of catching a rare fish by 5-10x, but increases the maximum possible wait time for a fish to bite by +20%-75%. Lures are crafted at a [Work Bench](./Work%20Bench.md) and do not lose condition when used, but will be lost if a Fishing Tackle breaks or Tip-Up's line breaks while fishing. All fishing lures weigh 0.01kg.
 
-| Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Simple_Fishing_Lure_icon.png) / _Simple\_Fishing\_Lure\_icon.png_ | [Simple Fishing Lure](./Simple%20Fishing%20Lure.md) | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
-| ![](../assets/Fishing_Lure_%28Acorns%29_icon.png) / _Fishing\_Lure\_(Acorns)\_icon.png_ | [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | +800% | +50% | - 1 [Acorns](./Acorns.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
-| ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) / _Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_ | [Fishing Lure (Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
-| ![](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) / _Fishing\_Lure\_(Wire\_Bundle)\_icon.png_ | [Fishing Lure (Wire)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | +1000% | +75% | - 1 [Wire Bundle](./Wires.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+Image
+
+Lure
+
+Rare Fish Bonus
+
+Maximum Wait Penalty
+
+Materials
+
+Creation Time
+
+![](../assets/Simple_Fishing_Lure_icon.png)
+
+_Simple\_Fishing\_Lure\_icon.png_
+
+[Simple Fishing Lure](./Simple%20Fishing%20Lure.md)
+
++500%
+
++20%
+
+- 1 [Scrap Metal](./Scrap%20Metal.md)
+
+30 min
+
+![](../assets/Fishing_Lure_%28Acorns%29_icon.png)
+
+_Fishing\_Lure\_(Acorns)\_icon.png_
+
+[Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md)
+
++800%
+
++50%
+
+- 1 [Acorns](./Acorns.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md)
+
+50 min
+
+![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png)
+
+_Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_
+
+[Fishing Lure (Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md)
+
++800%
+
++50%
+
+- 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md)
+
+50 min
+
+![](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png)
+
+_Fishing\_Lure\_(Wire\_Bundle)\_icon.png_
+
+[Fishing Lure (Wire)](./Fishing%20Lure%20%28Wire%20Bundle%29.md)
+
++1000%
+
++75%
+
+- 1 [Wire Bundle](./Wires.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md)
+
+50 min
 
 ## Fishing Holes
 

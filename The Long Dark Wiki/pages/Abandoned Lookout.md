@@ -13,15 +13,42 @@
 
 **Abandoned Lookout**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/New_forestry_lookout.jpg) / _new\_forestry\_lookout.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Abandoned_Lookout_map.png) / _Abandoned\_Lookout\_map.png_ |
-| Region | [Coastal Highway](./Coastal%20Highway.md)\|- |
-| Description | A fire lookout tower |
-| **General** |  |
-| Type | Military/Sporting\|- |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
+![](../assets/New_forestry_lookout.jpg)
 
-| ![A close up view of the lookout](../assets/Abandoned_Lookout.jpg) / _A close up view of the lookout_ | ![A panoramic view from the top of the lookout](../assets/Abandoned_lookout_panorama.jpg) / _A panoramic view from the top of the lookout_ / ![](../assets/New_forestry_lookout2.jpg) / _new\_forestry\_lookout2.jpg_ / ![Overview at dawn](../assets/Abandonned_lookout_overview_at_dawn.jpg) / _Overview at dawn_ |
+_new\_forestry\_lookout.jpg_
+
+**Location**
+
+![](../assets/Abandoned_Lookout_map.png)
+
+_Abandoned\_Lookout\_map.png_
+
+**Region:** [Coastal Highway](./Coastal%20Highway.md)\|-
+
+**Description:** A fire lookout tower
+
+**General**
+
+**Type:** Military/Sporting\|-
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+Has a bed
+
+![A close up view of the lookout](../assets/Abandoned_Lookout.jpg)
+
+_A close up view of the lookout_
+
+![A panoramic view from the top of the lookout](../assets/Abandoned_lookout_panorama.jpg)
+
+_A panoramic view from the top of the lookout_
+
+![](../assets/New_forestry_lookout2.jpg)
+
+_new\_forestry\_lookout2.jpg_
+
+![Overview at dawn](../assets/Abandonned_lookout_overview_at_dawn.jpg)
+
+_Overview at dawn_

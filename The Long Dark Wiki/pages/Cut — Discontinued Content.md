@@ -77,7 +77,7 @@ Several items/mechanics have been cut from the game over the years. Many items f
 
 ### Brand
 
-> “__The Brand is a burning stick that serves as a small torch. Provides a bit of light, and might be useful against wildlife.__”
+> “**The Brand is a burning stick that serves as a small torch. Provides a bit of light, and might be useful against wildlife.**”
 >
 > — In-game description
 
@@ -127,7 +127,7 @@ _In the 4DON main menu_
 
 ### Fire Axe
 
-> “__A large axe of the kind used to break down doors during fires.__”
+> “**A large axe of the kind used to break down doors during fires.**”
 >
 > — In game description
 
@@ -145,7 +145,7 @@ _Fire\_Axe\_Episode\_5.jpg_
 
 ### Compression Bandage
 
-> “__A compression bandage, used to constrict movement on an injury.__”
+> “**A compression bandage, used to constrict movement on an injury.**”
 >
 > — In game description
 
@@ -157,7 +157,7 @@ _Compression\_Bandage.png_
 
 ### Charcoal Accelerant
 
-> “__Low-volume fuel source designed to help start fires; ex. charcoal fuel.__”
+> “**Low-volume fuel source designed to help start fires; ex. charcoal fuel.**”
 >
 > — In game description
 
@@ -177,7 +177,7 @@ _A regular Accelerant compared to the unused one._
 
 ### Flint and Steel
 
-> “__Flint and steel striker to create hot sparks and ignite tinder.__”
+> “**Flint and steel striker to create hot sparks and ignite tinder.**”
 >
 > — In game description
 
@@ -990,7 +990,7 @@ Several side missions were cut or reworked into the Redux version of Episode 1 a
 
 _An example of the old Trust trading menu._
 
-> “__Trust. A hard thing to come by these days. Many people you meet will be suspicious of you. But most of them have needs they may not be able to fulfill without your help. Helping them will earn you Trust, which will in turn unlock useful Knowledge, Locations, Items, and more. Check the character's Trust entry in your Journal to learn more about them, their needs, and how they can help you.__”
+> “**Trust. A hard thing to come by these days. Many people you meet will be suspicious of you. But most of them have needs they may not be able to fulfill without your help. Helping them will earn you Trust, which will in turn unlock useful Knowledge, Locations, Items, and more. Check the character's Trust entry in your Journal to learn more about them, their needs, and how they can help you.**”
 >
 > — In game Tutorial message Pre Redux
 
@@ -1376,37 +1376,195 @@ Several Achievements and icons were changed with the release of _The Long Dark_ 
 
 A list of achievements that were cut from the game include:
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| **Image** | **Name** | **Description** |
-| ![](../assets/Two_for_Two.jpg) / _Two\_for\_Two.jpg_ | **[Two for Two](./Two%20for%20Two.md)** | Survive for 2 days in a single Survival Mode game. |
-| ![](../assets/Wolfbait.jpg) / _Wolfbait.jpg_ | **[Wolfbait](./Wolfbait.md)** | Survive 5 days in a single Survival Mode game. |
-| ![](../assets/It%27s_Getting_Cold_Out_There.jpg) / _It's\_Getting\_Cold\_Out\_There.jpg_ | **[It's Getting Cold Out There](./It%27s%20Getting%20Cold%20Out%20There.md)** | Survive 15 days in a single Survival Mode game. |
-| ![](../assets/Tough_as_Nails.jpg) / _Tough\_as\_Nails.jpg_ | **[Tough as Nails](./Tough%20as%20Nails.md)** | Survive 20 days in a single Survival Mode game. |
-| ![](../assets/You_Prep_the_Preppers.jpg) / _You\_Prep\_the\_Preppers.jpg_ | **[You Prep the Preppers](./You%20Prep%20the%20Preppers.md)** | Survive 30 days in a single Survival Mode game. |
-| ![](../assets/Master_Survivor.jpg) / _Master\_Survivor.jpg_ | **[Master Survivor](./Master%20Survivor.md)** | Survive 40 days in a single Survival Mode game. |
-| ![](../assets/One_With_Nature.jpg) / _One\_With\_Nature.jpg_ | **[One With Nature](./One%20With%20Nature.md)** | Survive for 200 days in a single Survival Mode game. |
+**Image**
+
+**Name**
+
+**Description**
+
+![](../assets/Two_for_Two.jpg)
+
+_Two\_for\_Two.jpg_
+
+**[Two for Two](./Two%20for%20Two.md)**
+
+Survive for 2 days in a single Survival Mode game.
+
+![](../assets/Wolfbait.jpg)
+
+_Wolfbait.jpg_
+
+**[Wolfbait](./Wolfbait.md)**
+
+Survive 5 days in a single Survival Mode game.
+
+![](../assets/It%27s_Getting_Cold_Out_There.jpg)
+
+_It's\_Getting\_Cold\_Out\_There.jpg_
+
+**[It's Getting Cold Out There](./It%27s%20Getting%20Cold%20Out%20There.md)**
+
+Survive 15 days in a single Survival Mode game.
+
+![](../assets/Tough_as_Nails.jpg)
+
+_Tough\_as\_Nails.jpg_
+
+**[Tough as Nails](./Tough%20as%20Nails.md)**
+
+Survive 20 days in a single Survival Mode game.
+
+![](../assets/You_Prep_the_Preppers.jpg)
+
+_You\_Prep\_the\_Preppers.jpg_
+
+**[You Prep the Preppers](./You%20Prep%20the%20Preppers.md)**
+
+Survive 30 days in a single Survival Mode game.
+
+![](../assets/Master_Survivor.jpg)
+
+_Master\_Survivor.jpg_
+
+**[Master Survivor](./Master%20Survivor.md)**
+
+Survive 40 days in a single Survival Mode game.
+
+![](../assets/One_With_Nature.jpg)
+
+_One\_With\_Nature.jpg_
+
+**[One With Nature](./One%20With%20Nature.md)**
+
+Survive for 200 days in a single Survival Mode game.
 
 The following achievements were kept but received a new achievement icon:
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| **Image** | **Name** | **Description** |
-| ![](../assets/The_First_of_Many_old_icon.webp) / _The\_First\_of\_Many\_old\_icon.webp_ | **First of Many** | Survive for 1 day in a single Survival Mode game. |
-| ![](../assets/You_Made_It!_old_icon.webp) / _You\_Made\_It!\_old\_icon.webp_ | **You Made It!** | Survive 10 days in a single Survival Mode game. |
-| ![](../assets/Ready_for_when_the_SHTF!_old_icon.webp) / _Ready\_for\_when\_the\_SHTF!\_old\_icon.webp_ | **Ready for when the SHTF!** | Survive for 50 days in a single Survival Mode game. |
-| ![](../assets/Centurion_old_icon.webp) / _Centurion\_old\_icon.webp_ | **Centurion** | Survive for 100 days in a single Survival Mode game. |
-| ![](../assets/Exploration_Game_old_icon.webp) / _Exploration\_Game\_old\_icon.webp_ | **Exploration Game** | Visit every interior location in both [Mystery Lake](./Mystery%20Lake%20%28region%29.md) and [Coastal Highway](./Coastal%20Highway.md) (single game) |
-| ![](../assets/Waste_Not%2C_Want_Not_old_icon.webp) / _Waste\_Not,\_Want\_Not\_old\_icon.webp_ | **Waste Not, Want Not** | Harvest 10 Complete [Deer Carcasses](./Deer%20Carcass.md) (single game) |
-| ![](../assets/Night_Walker_old_icon.webp) / _Night\_Walker\_old\_icon.webp_ | **Night Walker** | Survive an entire Night outside (single game) |
-| ![](../assets/Beneath_a_Starry_Sky_old_icon.webp) / _Beneath\_a\_Starry\_Sky\_old\_icon.webp_ | **Beneath a Stary Sky** | Survive 3 consecutive Nights outside (single game) |
-| ![](../assets/Silent_Hunter_old_icon.webp) / _Silent\_Hunter\_old\_icon.webp_ | **Silent Hunter** | Survive the first 50 days without firing the [hunting rifle](./Hunting%20Rifle.md), [revolver](./Revolver.md) or the [distress pistol](./Distress%20Pistol.md) (single game) |
-| ![](../assets/Pacifist_old_icon.webp) / _Pacifist\_old\_icon.webp_ | **Pacifist** | Survive the first 25 days without killing anything (single game) |
-| ![](../assets/It_was_THIS_Big!_old_icon.webp) / _It\_was\_THIS\_Big!\_old\_icon.webp_ | **It was THIS Big!** | [Catch](./Ice%20Fishing.md) a fish weighing over 5kg (11 lbs). |
-| ![](../assets/Wrapped_in_Furs_old_icon.webp) / _Wrapped\_in\_Furs\_old\_icon.webp_ | **Wrapped in Furs** | Sleep in a [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) while wearing a [Wolfskin Coat](./Wolfskin%20Coat.md), [Deerskin Boots](./Deerskin%20Boots.md), and [Rabbitskin Mittens](./Rabbitskin%20Mitts.md). |
-| ![](../assets/Living_Off_the_Land_old_icon.webp) / _Living\_Off\_the\_Land\_old\_icon.webp_ | **Living Off the Land** | Survive 25 consecutive full days only consuming calories harvested from wild plants and animals (single game) |
-| ![](../assets/Natural_Healer_old_icon.webp) / _Natural\_Healer\_old\_icon.webp_ | **Natural Healer** | Heal yourself using all types of natural [medicines](./First%20Aid.md) (single game) |
-| ![](../assets/Happy_Harvester_old_icon.webp) / _Happy\_Harvester\_old\_icon.webp_ | **Happy Harvester** | Harvest 25 of each kind of plant (single game) |
+**Image**
+
+**Name**
+
+**Description**
+
+![](../assets/The_First_of_Many_old_icon.webp)
+
+_The\_First\_of\_Many\_old\_icon.webp_
+
+**First of Many**
+
+Survive for 1 day in a single Survival Mode game.
+
+![](../assets/You_Made_It!_old_icon.webp)
+
+_You\_Made\_It!\_old\_icon.webp_
+
+**You Made It!**
+
+Survive 10 days in a single Survival Mode game.
+
+![](../assets/Ready_for_when_the_SHTF!_old_icon.webp)
+
+_Ready\_for\_when\_the\_SHTF!\_old\_icon.webp_
+
+**Ready for when the SHTF!**
+
+Survive for 50 days in a single Survival Mode game.
+
+![](../assets/Centurion_old_icon.webp)
+
+_Centurion\_old\_icon.webp_
+
+**Centurion**
+
+Survive for 100 days in a single Survival Mode game.
+
+![](../assets/Exploration_Game_old_icon.webp)
+
+_Exploration\_Game\_old\_icon.webp_
+
+**Exploration Game**
+
+Visit every interior location in both [Mystery Lake](./Mystery%20Lake%20%28region%29.md) and [Coastal Highway](./Coastal%20Highway.md) (single game)
+
+![](../assets/Waste_Not%2C_Want_Not_old_icon.webp)
+
+_Waste\_Not,\_Want\_Not\_old\_icon.webp_
+
+**Waste Not, Want Not**
+
+Harvest 10 Complete [Deer Carcasses](./Deer%20Carcass.md) (single game)
+
+![](../assets/Night_Walker_old_icon.webp)
+
+_Night\_Walker\_old\_icon.webp_
+
+**Night Walker**
+
+Survive an entire Night outside (single game)
+
+![](../assets/Beneath_a_Starry_Sky_old_icon.webp)
+
+_Beneath\_a\_Starry\_Sky\_old\_icon.webp_
+
+**Beneath a Stary Sky**
+
+Survive 3 consecutive Nights outside (single game)
+
+![](../assets/Silent_Hunter_old_icon.webp)
+
+_Silent\_Hunter\_old\_icon.webp_
+
+**Silent Hunter**
+
+Survive the first 50 days without firing the [hunting rifle](./Hunting%20Rifle.md), [revolver](./Revolver.md) or the [distress pistol](./Distress%20Pistol.md) (single game)
+
+![](../assets/Pacifist_old_icon.webp)
+
+_Pacifist\_old\_icon.webp_
+
+**Pacifist**
+
+Survive the first 25 days without killing anything (single game)
+
+![](../assets/It_was_THIS_Big!_old_icon.webp)
+
+_It\_was\_THIS\_Big!\_old\_icon.webp_
+
+**It was THIS Big!**
+
+[Catch](./Ice%20Fishing.md) a fish weighing over 5kg (11 lbs).
+
+![](../assets/Wrapped_in_Furs_old_icon.webp)
+
+_Wrapped\_in\_Furs\_old\_icon.webp_
+
+**Wrapped in Furs**
+
+Sleep in a [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) while wearing a [Wolfskin Coat](./Wolfskin%20Coat.md), [Deerskin Boots](./Deerskin%20Boots.md), and [Rabbitskin Mittens](./Rabbitskin%20Mitts.md).
+
+![](../assets/Living_Off_the_Land_old_icon.webp)
+
+_Living\_Off\_the\_Land\_old\_icon.webp_
+
+**Living Off the Land**
+
+Survive 25 consecutive full days only consuming calories harvested from wild plants and animals (single game)
+
+![](../assets/Natural_Healer_old_icon.webp)
+
+_Natural\_Healer\_old\_icon.webp_
+
+**Natural Healer**
+
+Heal yourself using all types of natural [medicines](./First%20Aid.md) (single game)
+
+![](../assets/Happy_Harvester_old_icon.webp)
+
+_Happy\_Harvester\_old\_icon.webp_
+
+**Happy Harvester**
+
+Harvest 25 of each kind of plant (single game)
 
 ![All 22 achievement icons, pre V1.15.](../assets/Achievements_collage_22.png)
 

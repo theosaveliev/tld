@@ -16,17 +16,23 @@
 
 **The Grey Mother (Predux)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/The_Grey_Mother_%28Predux%29.jpg) / _The\_Grey\_Mother\_(Predux).jpg_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Previous | [Echoes Of Astrid](./Echoes%20Of%20Astrid.md) |
-| Current | The Grey Mother (Predux) |
-| Next | [Paradise Lost (Predux)](./Paradise%20Lost%20%28Predux%29.md) |
-| Region | [Mountain Town](./Mountain%20Town.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Grey Mother](./Grey%20Mother.md) |
+![](../assets/The_Grey_Mother_%28Predux%29.jpg)
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __The old woman might be the last survivor in Milton. She seems to know more than she's letting on. She might be the key to understanding what happened to Astrid.__
+_The\_Grey\_Mother\_(Predux).jpg_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Previous:** [Echoes Of Astrid](./Echoes%20Of%20Astrid.md)
+
+**Current:** The Grey Mother (Predux)
+
+**Next:** [Paradise Lost (Predux)](./Paradise%20Lost%20%28Predux%29.md)
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Grey Mother](./Grey%20Mother.md)
+
+**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **The old woman might be the last survivor in Milton. She seems to know more than she's letting on. She might be the key to understanding what happened to Astrid.**
 
 In-game description
 

@@ -4,20 +4,31 @@
 
 **Jeremiah's Broken Rifle**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Jeremiah%27s_Broken_Rifle_icon.png) / _Jeremiah's\_Broken\_Rifle\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - You Fix My Rifle? |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Jeremiah's broken rifle. Will need special tools to fix it. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Leave It |
+![](../assets/Jeremiah%27s_Broken_Rifle_icon.png)
+
+_Jeremiah's\_Broken\_Rifle\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - You Fix My Rifle?
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Jeremiah's broken rifle. Will need special tools to fix it.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
 
 > “__Jeremiah: "Ah shit... What I was afraid of. That shot you took hurt the rifle more than the [bear](./Old%20Bear.md). My rifle's done."  
  Mackenzie: "Shit...sorry. You have a...backup?"__”

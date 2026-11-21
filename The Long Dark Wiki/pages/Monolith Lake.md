@@ -4,12 +4,20 @@
 
 **Monolith Lake**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Monolith_Lake_from_Peak_Cave.png) / _Monolith\_Lake\_from\_Peak\_Cave.png_ |
-| **Location** |  |
-|  | ![](../assets/Monolith_Lake_Location.png) / _Monolith\_Lake\_Location.png_ |
-| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
-| Description | A large lake. |
-| **General** |  |
-| Type | Outdoors\|- |
+![](../assets/Monolith_Lake_from_Peak_Cave.png)
+
+_Monolith\_Lake\_from\_Peak\_Cave.png_
+
+**Location**
+
+![](../assets/Monolith_Lake_Location.png)
+
+_Monolith\_Lake\_Location.png_
+
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+
+**Description:** A large lake.
+
+**General**
+
+**Type:** Outdoors\|-

@@ -14,13 +14,17 @@
 
 **Astrid's Hardcase**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Astrid%27s_Hardcase_icon.png) / _Astrid's\_Hardcase\_icon.png_ |
-| **General** |  |
-| Item Type | Item |
-| Wintermute | Yes\|- |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0 kg(0 lbs) |
+![](../assets/Astrid%27s_Hardcase_icon.png)
+
+_Astrid's\_Hardcase\_icon.png_
+
+**General**
+
+**Item Type:** Item
+
+**Wintermute:** Yes\|-
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0 kg(0 lbs)
 
 **Astrid's Hardcase** is a [Tool](./Tools.md) and [Collectible](./Collectibles.md) found throughout most episodes of [Wintermute](./Wintermute.md). It belongs to [Astrid Greenwood](./Astrid%20Greenwood.md) and is one of the main plot points of the Wintermute story.
 
@@ -28,11 +32,11 @@
 
 ### Memories
 
-> “__A protective case. It looks like it could survive just about anything.__”
+> “**A protective case. It looks like it could survive just about anything.**”
 >
 > — In-game Description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __The mysterious case. Astrid definitely doesn't want to talk about what's inside. Which means...she's probably not supposed to have it.__
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **The mysterious case. Astrid definitely doesn't want to talk about what's inside. Which means...she's probably not supposed to have it.**
 
 Mackenzie's Description
 
@@ -40,7 +44,7 @@ Mackenzie's Description
 
 ### The Crash
 
-> “__Hardcase found with Astrid's backpack at the crash site.__”
+> “**Hardcase found with Astrid's backpack at the crash site.**”
 
 It is found near the wreckage of the [crash site](./Mackenzie%27s%20Crashed%20Plane.md) in the beginning of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and is picked up by [Will Mackenzie](./Will%20Mackenzie.md) and carried for the rest of the episode. It weighs 0.00 kg after at this point and acts as a Collectible for the rest of the game.
 

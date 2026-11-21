@@ -4,10 +4,11 @@
 
 **Happy Harvester**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Happy_Harvester_icon.png) / _Happy\_Harvester\_icon.png_ |
-| Description | Harvested 25 of each kind of plant (single game)[¹](#fn1) |
+![](../assets/Happy_Harvester_icon.png)
+
+_Happy\_Harvester\_icon.png_
+
+**Description:** Harvested 25 of each kind of plant (single game)[¹](#fn1)
 
 **Happy Harvester** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

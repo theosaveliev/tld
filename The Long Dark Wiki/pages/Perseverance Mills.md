@@ -17,21 +17,43 @@
 
 **Perseverance Mills**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Perseverance_Mills.jpg) / _Perseverance\_Mills.jpg_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
-|  | ![](../assets/Perseverance_Mills_in-game_map.png) / _Perseverance\_Mills\_in-game\_map.png_ |
-| **Details** |  |
-| Description | An old, inhabited logging and milling town suffering from a quarantine |
-| Connecting Regions | [Desperation Bay](./Desperation%20Bay.md) / [Perseverance Wilds](./Perseverance%20Wilds.md) / [Railway](./Railway.md) (unused) |
-| Characters | [Jane Yang](./Jane%20Yang.md) / [Cooper](./Cooper.md) / [Terry](./Terry.md) / Freya / Dr. Larson / Constable Pete / Townsperson One and Two / Mill Worker / Bar Patrons |
-| Date Added | 31 March 2026 |
+![](../assets/Perseverance_Mills.jpg)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_ | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | __Shit-nothing town, north part of the island? Yeah...I know it.__ / [Jeremiah](./Jeremiah.md) | ” |
+_Perseverance\_Mills.jpg_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/No_picture.png)
+
+_No\_picture.png_
+
+![](../assets/Perseverance_Mills_in-game_map.png)
+
+_Perseverance\_Mills\_in-game\_map.png_
+
+**Details**
+
+**Description:** An old, inhabited logging and milling town suffering from a quarantine
+
+**Connecting Regions:** [Desperation Bay](./Desperation%20Bay.md) / [Perseverance Wilds](./Perseverance%20Wilds.md) / [Railway](./Railway.md) (unused)
+
+**Characters:** [Jane Yang](./Jane%20Yang.md) / [Cooper](./Cooper.md) / [Terry](./Terry.md) / Freya / Dr. Larson / Constable Pete / Townsperson One and Two / Mill Worker / Bar Patrons
+
+**Date Added:** 31 March 2026
+
+![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+
+_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
+
+**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
+
+\|}{\| style="margin:auto"
+
+“
+
+**Shit-nothing town, north part of the island? Yeah...I know it.** / [Jeremiah](./Jeremiah.md)
+
+”
 
 **Perseverance Mills**is a town and Wintermute exclusive [Region](./Region.md) in _[The Long Dark](./The%20Long%20Dark.md)_. It is mentioned several times throughout [Wintermute](./Wintermute.md) and is the initial centerpiece of [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md).
 
@@ -39,7 +61,7 @@ The region connects to the nearby regions of [Desperation Bay](./Desperation%20B
 
 ## Overview
 
-> “__I seem to recall...a town somewhere up north. Far. What was it called...That's it -- Perseverance Mills__”
+> “**I seem to recall...a town somewhere up north. Far. What was it called...That's it -- Perseverance Mills**”
 >
 > — [Grey Mother](./Grey%20Mother.md)
 

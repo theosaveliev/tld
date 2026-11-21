@@ -17,25 +17,41 @@
 
 **Molly**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Molly.png) / _Molly.png_ |
-| Release | [Crossroads Elegy (v1.60)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
-| Date | 22 October 2019 |
-| Wintermute | [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) |
-| Mission | **•** [Trauma](./Trauma.md) / **•** [Fallen Star](./Fallen%20Star.md) / **•** [Aftermath](./Aftermath.md) |
-| Location(s) | [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) |
-| **Biographical Information** |  |
-| Age | 40's |
-| Status | Alive |
-| Relatives | [Molly's Husband](./Molly%27s%20Husband.md) (deceased) |
-| Occupation | Farmer |
-| **Physical Information** |  |
-| Hair | Light Blonde |
-| Eyes | Ice Blue |
-| **Game Information** |  |
-| Equipment | **•** [Hunting rifle](./Hunting%20Rifle.md) / **•** [Survival bow](./Survival%20Bow.md) |
-| Voiced by | Jennifer Kitchen |
+![](../assets/Molly.png)
+
+_Molly.png_
+
+**Release:** [Crossroads Elegy (v1.60)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+
+**Date:** 22 October 2019
+
+**Wintermute:** [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md)
+
+**Mission:** **•** [Trauma](./Trauma.md) / **•** [Fallen Star](./Fallen%20Star.md) / **•** [Aftermath](./Aftermath.md)
+
+**Location(s):** [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md)
+
+**Biographical Information**
+
+**Age:** 40's
+
+**Status:** Alive
+
+**Relatives:** [Molly's Husband](./Molly%27s%20Husband.md) (deceased)
+
+**Occupation:** Farmer
+
+**Physical Information**
+
+**Hair:** Light Blonde
+
+**Eyes:** Ice Blue
+
+**Game Information**
+
+**Equipment:** **•** [Hunting rifle](./Hunting%20Rifle.md) / **•** [Survival bow](./Survival%20Bow.md)
+
+**Voiced by:** Jennifer Kitchen
 
 > “__Years on a working farm in a remote corner of Great Bear Island have left their mark on Molly. She’s plain-spoken, often blunt -- she sees the world for what it is. There are no illusions inhabiting Molly’s life and she likes it that way.  
    
@@ -43,7 +59,7 @@
 >
 > — In-game description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __"There's different ways to hurt someone. Some ways heals. Other ways never do."__
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **"There's different ways to hurt someone. Some ways heals. Other ways never do."**
 
 Molly speaking to [Astrid](./Astrid%20Greenwood.md) about her past
 
@@ -113,5 +129,3 @@ _Missions\_story\_ep3\_Trauma.png_
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-[fr:Molly](fr:Molly) [ru:Молли](ru:%D0%9C%D0%BE%D0%BB%D0%BB%D0%B8)

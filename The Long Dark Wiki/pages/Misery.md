@@ -11,7 +11,7 @@
 - [Achievements](#achievements)
 - [Game History](#game-history)
 
-![Misery\_Mode.jpg](../assets/Misery_Mode.jpg){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Cited text__
+![Misery\_Mode.jpg](../assets/Misery_Mode.jpg){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Cited text**
 
 In-game Description
 
@@ -87,5 +87,3 @@ Note that [Research Books](./Research%20Book.md) can still be studied even with 
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added to game.
-
-[ru:Страдания](ru:%D0%A1%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)

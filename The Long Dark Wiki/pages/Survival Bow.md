@@ -21,19 +21,27 @@
 
 **Survival Bow**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Survival_Bow_icon.png) / _Survival\_Bow\_icon.png_ |
-| **General** |  |
-| Item Type | Item |
-| Wintermute | No |
-| Renewable | Yes |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
-| Harvest | _Unharvestable_ |
-| Repair | _Unrepairable_ |
+![](../assets/Survival_Bow_icon.png)
 
-> “__A simple, improvised bow, suitable for hunting small game.__”
+_Survival\_Bow\_icon.png_
+
+**General**
+
+**Item Type:** Item
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+
+**Harvest:** _Unharvestable_
+
+**Repair:** _Unrepairable_
+
+> “**A simple, improvised bow, suitable for hunting small game.**”
 >
 > — In-game description
 
@@ -161,5 +169,3 @@ The survival bow can randomly spawn in the game world (excluding Interloper) on 
 ![Old Survival Bow model](../assets/Oldsurvivalbowmodel.jpg)
 
 _Old Survival Bow model_
-
-[es:Arco de supervivencia](es:Arco_de_supervivencia) [ru:Лук для выживания](ru:%D0%9B%D1%83%D0%BA_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%8B%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)

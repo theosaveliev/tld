@@ -35,16 +35,23 @@
 
 **The Long Dark**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/The_Long_Dark_Poster.jpg) / _The\_Long\_Dark\_Poster.jpg_ |
-| **Developer(s)** | [Hinterland Games](./Hinterland%20Studio%20Inc..md) |
-| **Director(s)** | Raphael Van Lierop / David Chan / Hokyo Lim / Alan Lawrance |
-| **Writer(s)** | Marianne Krawczyk |
-| **Composer(s)** | Cris Velasco / Sascha Dikiciyan |
-| Platform | PC/Mac/Linux / Xbox One/Series S/X / PlayStation 4/5 / Nintendo Switch |
-| Released | - 1st August 2017 (PC, PS4, XO) / - September 17, 2020 (Switch) |
-| **Genre(s)** | First Person, Open-World, Sandbox, Survival |
+![](../assets/The_Long_Dark_Poster.jpg)
+
+_The\_Long\_Dark\_Poster.jpg_
+
+**Developer(s):** [Hinterland Games](./Hinterland%20Studio%20Inc..md)
+
+**Director(s):** Raphael Van Lierop / David Chan / Hokyo Lim / Alan Lawrance
+
+**Writer(s):** Marianne Krawczyk
+
+**Composer(s):** Cris Velasco / Sascha Dikiciyan
+
+**Platform:** PC/Mac/Linux / Xbox One/Series S/X / PlayStation 4/5 / Nintendo Switch
+
+**Released:** - 1st August 2017 (PC, PS4, XO) / - September 17, 2020 (Switch)
+
+**Genre(s):** First Person, Open-World, Sandbox, Survival
 
 **_The Long Dark_** is a first-person open-world survival game developed by [Hinterland Games](./Hinterland%20Studio%20Inc..md) for Microsoft Windows, OS X, Linux, Xbox One, PlayStation 4, and Nintendo Switch.
 
@@ -259,5 +266,3 @@ _Project pitch_
 ## External links
 
 - [Official game site](http://www.intothelongdark.com/)
-
-[ru:The Long Dark](ru:The_Long_Dark) [fr:Accueil](fr:Accueil) [de:The Long Dark](de:The_Long_Dark)

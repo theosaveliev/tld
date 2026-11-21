@@ -4,23 +4,35 @@
 
 **Long Wool Scarf**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Long_Wool_Scarf_icon.png) / _Long\_Wool\_Scarf\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Head |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.5 °C(2.7 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)1% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 60% condition |
+![](../assets/Long_Wool_Scarf_icon.png)
 
-> “__Longer wool scarf that can be wrapped around the entire head. Designed for cold weather.__”
+_Long\_Wool\_Scarf\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Head
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.5 °C(2.7 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)1%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 60% condition
+
+> “**Longer wool scarf that can be wrapped around the entire head. Designed for cold weather.**”
 >
 > — In-game description
 

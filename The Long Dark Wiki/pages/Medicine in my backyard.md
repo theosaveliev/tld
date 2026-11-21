@@ -4,19 +4,29 @@
 
 **Medicine in my backyard**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Medicine_in_my_backyard_icon.png) / _Medicine\_in\_my\_backyard\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Supply Caches](./Milton%20Supply%20Caches.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A note describing the location of a medicine stash in Milton. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
+![](../assets/Medicine_in_my_backyard_icon.png)
+
+_Medicine\_in\_my\_backyard\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Supply Caches](./Milton%20Supply%20Caches.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A note describing the location of a medicine stash in Milton.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
 
 **Medicine in my backyard** is a note found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) in [Wintermute](./Wintermute.md) inside the chimney of the burned down [Old Schoolhouse](./Old%20Schoolhouse.md).
 

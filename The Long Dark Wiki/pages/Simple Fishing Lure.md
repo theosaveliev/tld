@@ -4,20 +4,31 @@
 
 **Simple Fishing Lure**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Simple_Fishing_Lure_icon.png) / _Simple\_Fishing\_Lure\_icon.png_ |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
-| **Values** |  |
-| Weight | 0.01 kg (0.02 lbs) |
-| **Actions** |  |
-| Backpack | Drop |
-| On ground | Take It, Leave It, Place it |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_FishingLureA |
+![](../assets/Simple_Fishing_Lure_icon.png)
+
+_Simple\_Fishing\_Lure\_icon.png_
+
+**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)\|-
+
+**Values**
+
+**Weight:** 0.01 kg (0.02 lbs)
+
+**Actions**
+
+**Backpack:** Drop
+
+**On ground:** Take It, Leave It, Place it
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_FishingLureA
 
 **Simple Fishing Lure** is a basic Fishing Lure introduced in the free update portion of the Part 3: Frontier Comforts update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
@@ -31,9 +42,31 @@ It's nothing more than a shiny piece of metal, meant to catch the eye of any fis
 
 If a Fishing Tackle is equipped with a Simple Fishing Lure and snaps when fishing, the Lure will be lost and must be crafted again.
 
-| Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Simple_Fishing_Lure_icon.png) / _Simple\_Fishing\_Lure\_icon.png_ | Simple Fishing Lure | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
+Image
+
+Lure
+
+Rare Fish Bonus
+
+Maximum Wait Penalty
+
+Materials
+
+Creation Time
+
+![](../assets/Simple_Fishing_Lure_icon.png)
+
+_Simple\_Fishing\_Lure\_icon.png_
+
+Simple Fishing Lure
+
++500%
+
++20%
+
+- 1 [Scrap Metal](./Scrap%20Metal.md)
+
+30 min
 
 ## Crafting
 
@@ -55,5 +88,3 @@ If a Fishing Tackle is equipped with a Simple Fishing Lure and snaps when fishin
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-[ru:Простая рыбная приманка](ru:%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F_%D1%80%D1%8B%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0)

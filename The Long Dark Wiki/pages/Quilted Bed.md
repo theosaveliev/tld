@@ -4,14 +4,19 @@
 
 **Quilted Bed**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Quilted_Bed_icon.png) / _Quilted\_Bed\_icon.png_ |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
-| **Values** |  |
-| Weight | 10.00 kg (22 lbs) |
-| **Actions** |  |
-| Backpack | Drop, Place |
+![](../assets/Quilted_Bed_icon.png)
+
+_Quilted\_Bed\_icon.png_
+
+**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Values**
+
+**Weight:** 10.00 kg (22 lbs)
+
+**Actions**
+
+**Backpack:** Drop, Place
 
 The **Quilted Bed** is a [Decorations](./Decorations.md) and [Bed](./Bed.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 

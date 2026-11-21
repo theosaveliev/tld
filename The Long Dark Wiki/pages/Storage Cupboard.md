@@ -4,12 +4,15 @@
 
 **Storage Cupboard**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Storage_Cupboard.jpg) / _Storage\_Cupboard.jpg_ |
-| Release | 1.60 |
-| **Container** |  |
-| Capacity | 200.00 kg(440 lbs) |
+![](../assets/Storage_Cupboard.jpg)
+
+_Storage\_Cupboard.jpg_
+
+**Release:** 1.60
+
+**Container**
+
+**Capacity:** 200.00 kg(440 lbs)
 
 The **Storage Cupboard** is a unique stationary interactable object, and is a large [Cabinet](./Cabinet.md) found in the kitchen of the [Community Hall](./Community%20Hall.md). It appears in both [Survival Mode](./Survival%20Mode.md) and [Wintermute](./Wintermute.md). It is currently the largest storage container in the game, having a massive 200.00 kg (440 lb).
 

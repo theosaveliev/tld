@@ -4,10 +4,14 @@
 
 **Cabinet Door**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cabinet_Door.jpg) / _Cabinet\_Door.jpg_ |
-| **General** |  |
-| Item Type |  |
-| Wintermute | Yes\|- |
-| Harvest | 8 Minutes 1 x [Reclaimed Wood](./Reclaimed%20Wood.md) |
+![](../assets/Cabinet_Door.jpg)
+
+_Cabinet\_Door.jpg_
+
+**General**
+
+Item Type
+
+**Wintermute:** Yes\|-
+
+**Harvest:** 8 Minutes 1 x [Reclaimed Wood](./Reclaimed%20Wood.md)

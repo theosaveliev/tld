@@ -4,10 +4,18 @@
 
 **Summit at Ravine's End**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Summit_at_Ravine%27s_End.jpg) / _Summit\_at\_Ravine's\_End.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Summit_at_Ravine%27s_End_Location.png) / _Summit\_at\_Ravine's\_End\_Location.png_ |
-| Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ |  |
+![](../assets/Summit_at_Ravine%27s_End.jpg)
+
+_Summit\_at\_Ravine's\_End.jpg_
+
+**Location**
+
+![](../assets/Summit_at_Ravine%27s_End_Location.png)
+
+_Summit\_at\_Ravine's\_End\_Location.png_
+
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_

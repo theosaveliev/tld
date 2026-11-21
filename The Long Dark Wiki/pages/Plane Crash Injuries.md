@@ -4,23 +4,35 @@
 
 **Plane Crash Injuries**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Plane_Crash_Injuries_icon.png) / _Plane\_Crash\_Injuries\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Update | 1.00 |
-| Story | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Survival Of The Fittest](./Survival%20Of%20The%20Fittest.md) |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | After the plane crash you are concussed, badly briused(sic) and feeling weak. Your hand was wounded during the crash. You will not be able to climb or hold weapons until it heals through rest. |
-| Caused By | Plane Crash Injuries |
-| Effect | Negative |
-| Type | Injury |
-| Affliction Duration | Scripted |
-| **Treatment** |  |
-| Recovery Time | Complete the Tutorial until Day 5 |
+![](../assets/Plane_Crash_Injuries_icon.png)
 
-> “__After the plane crash you are concussed, badly briused(sic) and feeling weak. Your hand was wounded during the crash. You will not be able to climb or hold weapons until it heals through rest.__”
+_Plane\_Crash\_Injuries\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Update:** 1.00
+
+**Story:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Survival Of The Fittest](./Survival%20Of%20The%20Fittest.md)
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** After the plane crash you are concussed, badly briused(sic) and feeling weak. Your hand was wounded during the crash. You will not be able to climb or hold weapons until it heals through rest.
+
+**Caused By:** Plane Crash Injuries
+
+**Effect:** Negative
+
+**Type:** Injury
+
+**Affliction Duration:** Scripted
+
+**Treatment**
+
+**Recovery Time:** Complete the Tutorial until Day 5
+
+> “**After the plane crash you are concussed, badly briused(sic) and feeling weak. Your hand was wounded during the crash. You will not be able to climb or hold weapons until it heals through rest.**”
 >
 > — In-game description
 

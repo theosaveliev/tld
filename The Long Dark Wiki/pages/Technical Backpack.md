@@ -4,22 +4,35 @@
 
 **Technical Backpack**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Technical_Backpack_icon.png) / _Technical\_Backpack\_icon.png_ |
-| Release | [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A sturdier Backpack with all the bells and whistles. You can carry more gear before becoming Encumbered. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_TechnicalBackpack |
+![](../assets/Technical_Backpack_icon.png)
+
+_Technical\_Backpack\_icon.png_
+
+**Release:** [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A sturdier Backpack with all the bells and whistles. You can carry more gear before becoming Encumbered.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_TechnicalBackpack
 
 The **Technical Backpack** is a collectible item available in [Survival Mode](./Survival%20Mode.md).
 
@@ -50,5 +63,3 @@ The Technical Backpack can be found alongside their sister item, the [Crampons](
 ![Technical Backpack inventory display &amp; icon change](../assets/TechnicalBackpack.jpg)
 
 _**Technical Backpack inventory display &amp; icon change**_
-
-[ru:Улучшенный рюкзак](ru:%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA)

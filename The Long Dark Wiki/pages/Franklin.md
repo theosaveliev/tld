@@ -17,20 +17,31 @@
 
 **Franklin**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Franklin.png) / _Franklin.png_ |
-| Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
-| Date | 6 October 2021 |
-| Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
-| Location(s) | [Blackrock Prison](./Blackrock%20Prison.md) |
-| **Biographical Information** |  |
-| Age | 40's - 50's |
-| Status | Dead |
-| Place of death | Blackrock Prison |
-| Occupation | Warden |
-| **Game Information** |  |
-| Voiced by | Laurie Mcginnis |
+![](../assets/Franklin.png)
+
+_Franklin.png_
+
+**Release:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+
+**Date:** 6 October 2021
+
+**Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
+
+**Location(s):** [Blackrock Prison](./Blackrock%20Prison.md)
+
+**Biographical Information**
+
+**Age:** 40's - 50's
+
+**Status:** Dead
+
+**Place of death:** Blackrock Prison
+
+**Occupation:** Warden
+
+**Game Information**
+
+**Voiced by:** Laurie Mcginnis
 
 > “__The Warden at Blackrock Penitentiary, Franklin has found himself caught up in Mathis’ deadly schemes.  
    
@@ -38,7 +49,7 @@
 >
 > — [What I Know](./What%20I%20Know.md) description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Yes well, normally I'm on the other side of the bars. Name's Franklin. I'm Warden here at Blackrock.__
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Yes well, normally I'm on the other side of the bars. Name's Franklin. I'm Warden here at Blackrock.**
 
 Franklin introducing himself inside his cell to Mackenzie
 

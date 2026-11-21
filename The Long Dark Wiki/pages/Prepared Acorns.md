@@ -13,21 +13,39 @@
 
 **Prepared Acorns**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Portion](../assets/Prepared_Acorns_icon.png) / _Portion_ | 250px\]\] |
-|  | ![Portion](../assets/Prepared_Acorns_icon.png) / _Portion_ |
-| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
-| Wintermute | No |
-| Renewable | No |
-| **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- / Equipable |
-| Stackable | Yes |
-| Examine | Shelled Acorns. Must be cooked prior to eating or hammering into grounds for coffee. |
-| **Values** |  |
-| Weight | 0.05 kg (0.11 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_AcornShelled |
+\[\[File: / ![Portion](../assets/Prepared_Acorns_icon.png) / _Portion_
+
+250px\]\]
+
+![Portion](../assets/Prepared_Acorns_icon.png)
+
+_Portion_
+
+**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
+
+**Wintermute:** No
+
+**Renewable:** No
+
+**Properties**
+
+Item type
+
+[Materials](./Materials.md)\|-
+
+Equipable
+
+**Stackable:** Yes
+
+**Examine:** Shelled Acorns. Must be cooked prior to eating or hammering into grounds for coffee.
+
+**Values**
+
+**Weight:** 0.05 kg (0.11 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_AcornShelled
 
 ## Overview
 

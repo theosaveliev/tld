@@ -13,19 +13,35 @@
 
 **Poisoned Wolf**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Poisoned_Wolf.png) / _Poisoned\_Wolf.png_ |
-| **Basic Information** |  |
-| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
-| Role | Predator |
-| **Physical Information** |  |
-| Color | Black |
-| Size | Medium |
+![](../assets/Poisoned_Wolf.png)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __This mine is a graveyard. Maybe my own too, if I’m not careful. The wolves here are unwell. All this pollution in the ground. Awful.__ / [A Page From A Journal](./A%20Page%20From%20A%20Journal.md) | ” |
+_Poisoned\_Wolf.png_
+
+**Basic Information**
+
+**Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
+
+**Role:** Predator
+
+**Physical Information**
+
+**Color:** Black
+
+**Size:** Medium
+
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+\|}{\| style="margin:auto"
+
+“
+
+**This mine is a graveyard. Maybe my own too, if I’m not careful. The wolves here are unwell. All this pollution in the ground. Awful.** / [A Page From A Journal](./A%20Page%20From%20A%20Journal.md)
+
+”
 
 The **Poisoned Wolf** is a variant of the [Wolf](./Wolf.md) found only in the [Zone of Contamination](./Zone%20of%20Contamination.md). They were introduced in the Part 4 Buried Echoes update for players that purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon.
 
@@ -39,12 +55,49 @@ They are easily identifiable from a distance due to how they carry their heads m
 
 A [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) will drop a Wolf Pelt and 2 Fresh Guts, but due to the extreme malnourishment and contaminated meat of the animal, no harvestable Wolf Meat is present on a carcass.
 
-|  | Item | Quantity | Rarity |
-| --- | --- | --- | --- |
-| ![](../assets/Wolf_Meat_%28Raw%29_icon.png) / _Wolf\_Meat\_(Raw)\_icon.png_ | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 0.00 kg | Always[¹](#fn1) |
-| ![](../assets/Wolf_Quarter_icon.png) / _Wolf\_Quarter\_icon.png_ | [Wolf Quarter](./Wolf%20Quarter.md) | 0.00 kg | Always[²](#fn2) |
-| ![](../assets/Fresh_Wolf_Pelt_icon.png) / _Fresh\_Wolf\_Pelt\_icon.png_ | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
-| \[Missing image: Gut\_icon.png\] / _Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
+Item
+
+Quantity
+
+Rarity
+
+![](../assets/Wolf_Meat_%28Raw%29_icon.png)
+
+_Wolf\_Meat\_(Raw)\_icon.png_
+
+[Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+
+0.00 kg
+
+Always[¹](#fn1)
+
+![](../assets/Wolf_Quarter_icon.png)
+
+_Wolf\_Quarter\_icon.png_
+
+[Wolf Quarter](./Wolf%20Quarter.md)
+
+0.00 kg
+
+Always[²](#fn2)
+
+![](../assets/Fresh_Wolf_Pelt_icon.png)
+
+_Fresh\_Wolf\_Pelt\_icon.png_
+
+[Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
+
+1
+
+Always
+
+\[Missing image: Gut\_icon.png\] / _Gut\_icon.png_
+
+[Fresh Gut](./Fresh%20Gut.md)
+
+2
+
+Always
 
 ## Behaviour
 

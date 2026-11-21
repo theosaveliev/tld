@@ -18,23 +18,37 @@
 
 **Astrid Greenwood**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Astrid.png) / _Astrid.png_ |
-| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00) |
-| Date | 1 August 2017 |
-| Wintermute | **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **•** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) / **•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
-| Mission | **•** [Memories](./Memories.md) / **•** [Trauma](./Trauma.md) / **•** [Fallen Star](./Fallen%20Star.md) / **•** [Coming Storm](./Coming%20Storm.md) / **•** [Aftermath](./Aftermath.md) / **•** [Donner](./Donner.md) |
-| **Biographical Information** |  |
-| Age | 30's - 40's |
-| Status | Alive |
-| Relatives | **•** [Will Mackenzie](./Will%20Mackenzie.md) (Ex-Husband) / **•** Jack (Son) |
-| Occupation | Doctor |
-| **Physical Information** |  |
-| Hair | Brown |
-| Eyes | Green |
-| **Game Information** |  |
-| Voiced by | [Jennifer Hale](wikipedia:Jennifer_Hale) |
+![](../assets/Astrid.png)
+
+_Astrid.png_
+
+**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
+
+**Date:** 1 August 2017
+
+**Wintermute:** **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **•** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) / **•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
+
+**Mission:** **•** [Memories](./Memories.md) / **•** [Trauma](./Trauma.md) / **•** [Fallen Star](./Fallen%20Star.md) / **•** [Coming Storm](./Coming%20Storm.md) / **•** [Aftermath](./Aftermath.md) / **•** [Donner](./Donner.md)
+
+**Biographical Information**
+
+**Age:** 30's - 40's
+
+**Status:** Alive
+
+**Relatives:** **•** [Will Mackenzie](./Will%20Mackenzie.md) (Ex-Husband) / **•** Jack (Son)
+
+**Occupation:** Doctor
+
+**Physical Information**
+
+**Hair:** Brown
+
+**Eyes:** Green
+
+**Game Information**
+
+**Voiced by:** [Jennifer Hale](wikipedia:Jennifer_Hale)
 
 > “__I may not be able to stop this darkness from coming. But I'll be damned if I'm going to let it happen without a fight. __”
 
@@ -178,8 +192,6 @@ _Astrid's magnetic stripe card_
 
 - Astrid Greenwood is voiced by [Jennifer Hale](Wikipedia:Jennifer_Hale). Hale's other notable works include [Commander Shepard](W:c:masseffect:Commander_Shepard) (female) in the _[Mass Effect](W:c:masseffect:Category:Games)_ series, [Jennifer Mui](W:c:mercenaries:Jennifer_Mui) in the _[Mercenaries](W:c:mercenaries:Category:Games)_ series, and [Naomi Hunter](W:c:metalgear:Naomi_Hunter) in the _[Metal Gear Solid](W:c:metalgear:Category:Games)_ series, among many others.
 - Astrid evidently enjoys driving [steam locomotives](./Steam%20Train.md), as this is the only time she laughs in the entire game.
-
-[fr:Astrid\_Greenwood](fr:Astrid_Greenwood) [ru:Астрид Гринвуд](ru:%D0%90%D1%81%D1%82%D1%80%D0%B8%D0%B4_%D0%93%D1%80%D0%B8%D0%BD%D0%B2%D1%83%D0%B4)
 
 ## Notes
 

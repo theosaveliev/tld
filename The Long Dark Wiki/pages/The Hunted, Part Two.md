@@ -15,15 +15,19 @@
 
 **The Hunted, Part Two**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Challenge_Hunted2.png) / _Challenge\_Hunted2.png_ |
-| **Details** |  |
-| Regions | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) |
-| Difficulty | 5 |
-| Date Added | September 2016 |
+![](../assets/Challenge_Hunted2.png)
 
-> “__Now you're the Hunter. With the Bearkiller Rifle in hand, track the Old Bear to its Den.__”
+_Challenge\_Hunted2.png_
+
+**Details**
+
+**Regions:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)
+
+**Difficulty:** 5
+
+**Date Added:** September 2016
+
+> “**Now you're the Hunter. With the Bearkiller Rifle in hand, track the Old Bear to its Den.**”
 >
 > — Main Menu description
 
@@ -36,7 +40,7 @@
 
 ## Overview
 
-> “__Track the Old Bear and kill it.__”
+> “**Track the Old Bear and kill it.**”
 >
 > — Journal Objective
 

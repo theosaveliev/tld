@@ -11,20 +11,31 @@
 
 **Acorn Grounds**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Acorn_Grounds_icon.png) / _Acorn\_Grounds\_icon.png_ |
-| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
-| Wintermute | No |
-| Renewable | No |
-| **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
-| Stackable | Yes |
-| Examine | Ground Acorns. Makes for a wholesome, but very weak, cup of coffee. |
-| **Values** |  |
-| Weight | 0.20 kg (0.44 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_AcornGrounds |
+![](../assets/Acorn_Grounds_icon.png)
+
+_Acorn\_Grounds\_icon.png_
+
+**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
+
+**Wintermute:** No
+
+**Renewable:** No
+
+**Properties**
+
+**Item type:** [Materials](./Materials.md)\|-
+
+**Stackable:** Yes
+
+**Examine:** Ground Acorns. Makes for a wholesome, but very weak, cup of coffee.
+
+**Values**
+
+**Weight:** 0.20 kg (0.44 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_AcornGrounds
 
 ## Overview
 

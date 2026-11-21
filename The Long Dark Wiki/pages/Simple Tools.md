@@ -4,17 +4,23 @@
 
 **Simple Tools**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Simple_Tools_icon.png) / _Simple\_Tools\_icon.png_ |
-| **General** |  |
-| Item Type | Tool\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
-| Harvest | 3 × [Scrap Metal](./Scrap%20Metal.md) 1 Hour |
-| Repair | 1 × [Scrap Metal](./Scrap%20Metal.md) 30% Condition / 2 Hours |
+![](../assets/Simple_Tools_icon.png)
 
-> “__Simple tools, usable for basic crafting and repair.__”
+_Simple\_Tools\_icon.png_
+
+**General**
+
+**Item Type:** Tool\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+
+**Harvest:** 3 × [Scrap Metal](./Scrap%20Metal.md) 1 Hour
+
+**Repair:** 1 × [Scrap Metal](./Scrap%20Metal.md) 30% Condition / 2 Hours
+
+> “**Simple tools, usable for basic crafting and repair.**”
 >
 > — In-game description
 
@@ -51,5 +57,3 @@ Simple Tools can also be used to decrease the [Crafting](./Crafting.md) times of
 - [Simple Arrow](./Simple%20Arrow.md)
 - [Improvised Crampons](./Improvised%20Crampons.md)
 - [Fishing Tip-Up](./Fishing%20Tip-Up.md)
-
-[ru:Простые инструменты](ru:%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%B5_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)

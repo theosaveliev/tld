@@ -4,24 +4,37 @@
 
 **Cotton Toque**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cotton_Toque_icon.png) / _Cotton\_Toque\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| Clothing Slot | Head |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)10% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)1% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 40% condition |
+![](../assets/Cotton_Toque_icon.png)
 
-> “__Simple knitted cotton hat. Not as warm as wool, but better than nothing.__”
+_Cotton\_Toque\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
+
+**Clothing Slot:** Head
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)10%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)1%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 40% condition
+
+> “**Simple knitted cotton hat. Not as warm as wool, but better than nothing.**”
 >
 > — In-game description
 

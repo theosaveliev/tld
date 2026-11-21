@@ -13,23 +13,35 @@
 
 **Moose-Hide Satchel**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Moose-Hide_Satchel_icon.png) / _Moose-Hide\_Satchel\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Accessory |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)0.0 °C(0 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.0 °C(0 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)0% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 x [Cured Leather](./Cured%20Leather.md) / 10 minutes |
-| Repair | 1 x [Cured Leather](./Cured%20Leather.md) / 22.5 minutes / 75% condition |
+![](../assets/Moose-Hide_Satchel_icon.png)
 
-> “__A simple Moose-hide satchel. Lightens the load for a weary traveller.__”
+_Moose-Hide\_Satchel\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Accessory
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0.0 °C(0 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.0 °C(0 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)0%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 x [Cured Leather](./Cured%20Leather.md) / 10 minutes
+
+**Repair:** 1 x [Cured Leather](./Cured%20Leather.md) / 22.5 minutes / 75% condition
+
+> “**A simple Moose-hide satchel. Lightens the load for a weary traveller.**”
 >
 > — - In-game description
 

@@ -14,20 +14,31 @@
 
 **Bolt Cutters**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Bolt_Cutters_icon.png) / _Bolt\_Cutters\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
-| Stackable | No |
-| Examine | A heavy tool designed to cut through metal bolts and chains. |
-| **Values** |  |
-| Weight | 1.50 kg (3.3 lbs) |
-| **Actions** |  |
-| Backpack | Pick Up, Examine, Drop |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_BoltCutters |
+![](../assets/Bolt_Cutters_icon.png)
+
+_Bolt\_Cutters\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)\|-
+
+**Stackable:** No
+
+**Examine:** A heavy tool designed to cut through metal bolts and chains.
+
+**Values**
+
+**Weight:** 1.50 kg (3.3 lbs)
+
+**Actions**
+
+**Backpack:** Pick Up, Examine, Drop
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_BoltCutters
 
 **Bolt Cutters** are a [Tool](./Tools.md) used briefly in [Wintermute](./Wintermute.md) to open locked gates at specific points in the story. Bolt Cutter can then be carried or dropped after this point and serve no other function for the remainder of the Episode.
 
@@ -77,5 +88,3 @@ _The Bolt Cutters in Episode 2 with the old Milling Machine_
   - Added to Survival Mode as part of Buried Echoes.
 - UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**
   - Added to Episode 5.
-
-[ru:Болторез](ru:%D0%91%D0%BE%D0%BB%D1%82%D0%BE%D1%80%D0%B5%D0%B7)

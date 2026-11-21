@@ -4,10 +4,16 @@
 
 **Narrow Falls Cave**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/NarrowFallsCave_1080p.png) / _NarrowFallsCave\_1080p.png_ |
-| **Location** |  |
-|  | ![](../assets/Narrow_Falls_Cave_Location.png) / _Narrow\_Falls\_Cave\_Location.png_ |
-| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
-| Type | Cave\|- |
+![](../assets/NarrowFallsCave_1080p.png)
+
+_NarrowFallsCave\_1080p.png_
+
+**Location**
+
+![](../assets/Narrow_Falls_Cave_Location.png)
+
+_Narrow\_Falls\_Cave\_Location.png_
+
+**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+
+**Type:** Cave\|-

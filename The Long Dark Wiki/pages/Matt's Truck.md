@@ -4,12 +4,20 @@
 
 **Matt's Truck**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Matt%27s_Truck.jpg) / _Matt's\_Truck.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Matt%27s_Truck_Location.png) / _Matt's\_Truck\_Location.png_ |
-| Region | [Desolation Point](./Desolation%20Point.md)\|- |
-| Description | A truck that has fallen from the roadway |
-| **General** |  |
-| Type | Outdoors\|- |
+![](../assets/Matt%27s_Truck.jpg)
+
+_Matt's\_Truck.jpg_
+
+**Location**
+
+![](../assets/Matt%27s_Truck_Location.png)
+
+_Matt's\_Truck\_Location.png_
+
+**Region:** [Desolation Point](./Desolation%20Point.md)\|-
+
+**Description:** A truck that has fallen from the roadway
+
+**General**
+
+**Type:** Outdoors\|-

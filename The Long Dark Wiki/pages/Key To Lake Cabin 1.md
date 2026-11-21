@@ -4,20 +4,31 @@
 
 **Key To Lake Cabin #1**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Key_To_Lake_Cabin_1_icon.png) / _Key\_To\_Lake\_Cabin\_1\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A key for one of the Mystery Lake cabins. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Leave It |
+![](../assets/Key_To_Lake_Cabin_1_icon.png)
+
+_Key\_To\_Lake\_Cabin\_1\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A key for one of the Mystery Lake cabins.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
 
 **Key To Lake Cabin #1** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode that opens one of the [Lake Cabins](./Lake%20Cabins.md) at [Mystery Lake (location)](./Mystery%20Lake%20%28location%29.md). It is found by the dead person at [High Blind](./High%20Blind.md) in [Forlorn Muskeg](./Forlorn%20Muskeg.md).
 

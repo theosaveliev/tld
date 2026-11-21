@@ -15,17 +15,21 @@
 
 **Aurora Hatch**
 
-| Property | Details |
-| --- | --- |
-|  | ![The Aurora Hatch.](../assets/Aurora_hatch.png) / _The Aurora Hatch._ |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
-| Previous | [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md) |
-| Current | Aurora Hatch |
-| Region | [Broken Railroad](./Broken%20Railroad.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
+![The Aurora Hatch.](../assets/Aurora_hatch.png)
+
+_The Aurora Hatch._
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+
+**Previous:** [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md)
+
+**Current:** Aurora Hatch
+
+**Region:** [Broken Railroad](./Broken%20Railroad.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 **Template:spoiler**
 
-> “__There's a hidden bunker in Forlorn Muskeg that can only be opened when the aurora is active.__”
+> “**There's a hidden bunker in Forlorn Muskeg that can only be opened when the aurora is active.**”
 >
 > — In-game description
 
@@ -113,5 +117,3 @@ _The Aurora Hatch._
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
 
 - Added to game.
-
-[ru:Светочувствительный бункер](ru:%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BD%D0%BA%D0%B5%D1%80)

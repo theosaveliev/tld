@@ -4,12 +4,20 @@
 
 **Blackrock Prison**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Blackrock_Region.jpg) / _Blackrock\_Region.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Blackrock_Prison_Location.png) / _Blackrock\_Prison\_Location.png_ |
-| Region |  |
-| Location | In the center of the map, following the main road |
-| **General** |  |
-| Type | Landmark\|- |
+![](../assets/Blackrock_Region.jpg)
+
+_Blackrock\_Region.jpg_
+
+**Location**
+
+![](../assets/Blackrock_Prison_Location.png)
+
+_Blackrock\_Prison\_Location.png_
+
+Region
+
+**Location:** In the center of the map, following the main road
+
+**General**
+
+**Type:** Landmark\|-

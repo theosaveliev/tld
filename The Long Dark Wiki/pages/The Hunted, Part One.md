@@ -15,19 +15,23 @@
 
 **The Hunted, Part One**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Challenge_Hunted.png) / _Challenge\_Hunted.png_ |
-| **Details** |  |
-| Regions | [Pleasant Valley](./Pleasant%20Valley.md), [Coastal Highway](./Coastal%20Highway.md), [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
-| Difficulty | 5 |
-| Date Added | April 2016 |
+![](../assets/Challenge_Hunted.png)
 
-> “__The old bear is after you. Nothing can kill him but the Trapper's old Bearkiller Rifle. Get to Trapper's Cabin before the Bear gets you.__”
+_Challenge\_Hunted.png_
+
+**Details**
+
+**Regions:** [Pleasant Valley](./Pleasant%20Valley.md), [Coastal Highway](./Coastal%20Highway.md), [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
+
+**Difficulty:** 5
+
+**Date Added:** April 2016
+
+> “**The old bear is after you. Nothing can kill him but the Trapper's old Bearkiller Rifle. Get to Trapper's Cabin before the Bear gets you.**”
 >
 > — Main Menu description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __The Old Bear is after you. Get to Trapper's Cabin in Mystery Lake, before it gets you.__
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **The Old Bear is after you. Get to Trapper's Cabin in Mystery Lake, before it gets you.**
 
 Opening description
 
@@ -37,7 +41,7 @@ Opening description
 
 ## Overview
 
-> “__Travel to Trapper's Cabin in Mystery Lake.__”
+> “**Travel to Trapper's Cabin in Mystery Lake.**”
 >
 > — Journal Objective
 

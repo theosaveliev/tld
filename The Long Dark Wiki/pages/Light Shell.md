@@ -4,23 +4,35 @@
 
 **Light Shell**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Light_Shell_icon.png) / _Light\_Shell\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer torso |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)3.0 °C(5.4 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)3% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-2% |
-| Harvest | 2 × [Cloth](./Cloth.md) / 40 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 45 minutes / 30% condition |
+![](../assets/Light_Shell_icon.png)
 
-> “__A light outer layer meant to protect from wind and water. Has no real warmth value of its own, but useful when paired with a decent under layer.__”
+_Light\_Shell\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Outer torso
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)3%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-2%
+
+**Harvest:** 2 × [Cloth](./Cloth.md) / 40 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 45 minutes / 30% condition
+
+> “**A light outer layer meant to protect from wind and water. Has no real warmth value of its own, but useful when paired with a decent under layer.**”
 >
 > — In-game description
 

@@ -4,10 +4,16 @@
 
 **Picnic Spot**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Picnic_Spot.jpg) / _Picnic\_Spot.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Picnic_Spot_Location.png) / _Picnic\_Spot\_Location.png_ |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
-| Type | Outdoors\|- |
+![](../assets/Picnic_Spot.jpg)
+
+_Picnic\_Spot.jpg_
+
+**Location**
+
+![](../assets/Picnic_Spot_Location.png)
+
+_Picnic\_Spot\_Location.png_
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+
+**Type:** Outdoors\|-

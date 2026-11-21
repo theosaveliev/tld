@@ -4,20 +4,31 @@
 
 **Forest Talker Flyer**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Forest_Talker_Flyer_icon.png) / _Forest\_Talker\_Flyer\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Hand-printed Forest Talkers Recruitment Flyer |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Leave It |
+![](../assets/Forest_Talker_Flyer_icon.png)
+
+_Forest\_Talker\_Flyer\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Hand-printed Forest Talkers Recruitment Flyer
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
 
 **Forest Talker Flyer** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found in the inside the [Maintenance Yard](./Maintenance%20Yard.md) building on the body of a dead [Forest Talker](./Forest%20Talkers.md) near the bathroom.
 

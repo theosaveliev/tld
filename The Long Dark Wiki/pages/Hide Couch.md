@@ -11,14 +11,19 @@
 
 **Hide Couch**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Hide_Couch_icon.png) / _Hide\_Couch\_icon.png_ |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
-| **Values** |  |
-| Weight | 10.00 kg (22 lbs) |
-| **Actions** |  |
-| Backpack | Drop, Place |
+![](../assets/Hide_Couch_icon.png)
+
+_Hide\_Couch\_icon.png_
+
+**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Values**
+
+**Weight:** 10.00 kg (22 lbs)
+
+**Actions**
+
+**Backpack:** Drop, Place
 
 The **Hide Couch** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 

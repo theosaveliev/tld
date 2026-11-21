@@ -12,15 +12,21 @@
 
 **The Wounded Trapper/Transcript**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Missions_story_ep2_The_Wounded_Trapper.png) / _Missions\_story\_ep2\_The\_Wounded\_Trapper.png_ |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
-| Previous | [Paradise Lost/Transcript](./Paradise%20Lost%20%E2%80%94%20Transcript.md) |
-| Current | The Wounded Trapper/Transcript |
-| Next | [The Best Defense/Transcript](./The%20Best%20Defense%20%E2%80%94%20Transcript.md) |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
+![](../assets/Missions_story_ep2_The_Wounded_Trapper.png)
+
+_Missions\_story\_ep2\_The\_Wounded\_Trapper.png_
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+
+**Previous:** [Paradise Lost/Transcript](./Paradise%20Lost%20%E2%80%94%20Transcript.md)
+
+**Current:** The Wounded Trapper/Transcript
+
+**Next:** [The Best Defense/Transcript](./The%20Best%20Defense%20%E2%80%94%20Transcript.md)
+
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md)
 
 This is the mission transcript for mission 1 [The Wounded Trapper](./The%20Wounded%20Trapper.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 

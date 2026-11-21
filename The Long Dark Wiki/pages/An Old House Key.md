@@ -22,5 +22,3 @@
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added to game.
-
-[ru:Ключ от старого дома](ru:%D0%9A%D0%BB%D1%8E%D1%87_%D0%BE%D1%82_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B3%D0%BE_%D0%B4%D0%BE%D0%BC%D0%B0)

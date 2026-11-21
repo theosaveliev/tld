@@ -15,18 +15,27 @@
 
 **Cured Leather**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cured_Leather_icon.png) / _Cured\_Leather\_icon.png_ |
-| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233) |
-| Wintermute | No |
-| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
-| Stackable | No |
-| Examine | Leather that can be used for repairs. |
-| **Values** |  |
-| Weight | 0.10 kg (0.22 lbs) |
+![](../assets/Cured_Leather_icon.png)
+
+_Cured\_Leather\_icon.png_
+
+**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
+
+**Wintermute:** No
+
+**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
+
+**Properties**
+
+**Item type:** [Materials](./Materials.md)\|-
+
+**Stackable:** No
+
+**Examine:** Leather that can be used for repairs.
+
+**Values**
+
+**Weight:** 0.10 kg (0.22 lbs)
 
 **Cured Leather** is a material in _[The Long Dark](./The%20Long%20Dark.md)_.
 

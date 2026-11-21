@@ -11,16 +11,23 @@
 
 **Blackrock Blues/Transcript**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Blackrock_Blues.png) / _Blackrock\_Blues.png_ |
-| Episode |  |
-| **Missions** |  |
-| Previous | [Prologue/Transcript](./Prologue%20%E2%80%94%20Transcript.md) |
-| Current | Blackrock Blues/Transcript |
-| Next | [The Power Plant/Transcript](./The%20Power%20Plant%20%E2%80%94%20Transcript.md) |
-| Region | [Blackrock Region](./Blackrock.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Mathis](./Mathis.md) / [Franklin](./Franklin.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jace](./Jace.md) |
+![](../assets/Blackrock_Blues.png)
+
+_Blackrock\_Blues.png_
+
+Episode
+
+**Missions**
+
+**Previous:** [Prologue/Transcript](./Prologue%20%E2%80%94%20Transcript.md)
+
+**Current:** Blackrock Blues/Transcript
+
+**Next:** [The Power Plant/Transcript](./The%20Power%20Plant%20%E2%80%94%20Transcript.md)
+
+**Region:** [Blackrock Region](./Blackrock.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Mathis](./Mathis.md) / [Franklin](./Franklin.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jace](./Jace.md)
 
 This is the transcript for Chapter 1 [Blackrock Blues](./Blackrock%20Blues.md) for [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 

@@ -14,19 +14,25 @@
 
 **Hatchet**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Hatchet_icon.png) / _Hatchet\_icon.png_ |
-| **General** |  |
-| Item Type | Tool\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
-| Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) / 1 × [Fir Firewood](./Fir%20Firewood.md) / 1 hour |
-| Repair | [Whetstone](./Whetstone.md) 12-5 minutes / 3%-5% |
+![](../assets/Hatchet_icon.png)
+
+_Hatchet\_icon.png_
+
+**General**
+
+**Item Type:** Tool\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
+
+**Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) / 1 × [Fir Firewood](./Fir%20Firewood.md) / 1 hour
+
+**Repair:** [Whetstone](./Whetstone.md) 12-5 minutes / 3%-5%
 
 _For the improvised variant, see [Improvised Hatchet](./Improvised%20Hatchet.md)._
 
-> “__A small one-handed axe. Good for splitting wood. Can be used to hack meat in a pinch.__”
+> “**A small one-handed axe. Good for splitting wood. Can be used to hack meat in a pinch.**”
 >
 > — In-game description
 
@@ -83,7 +89,3 @@ _Old model._
 ![Old icon](../assets/Hatchet_old_icon.webp)
 
 _Old icon_
-
-[ru:Топорик](ru:%D0%A2%D0%BE%D0%BF%D0%BE%D1%80%D0%B8%D0%BA)
-
-[fr:Hachette](fr:Hachette)

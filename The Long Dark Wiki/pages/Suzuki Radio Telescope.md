@@ -16,18 +16,27 @@
 
 **Suzuki Radio Telescope**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Suzuki_Radio_Telescope.jpg) / _Suzuki\_Radio\_Telescope.jpg_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
-| **Details** |  |
-| Description | A government research facility with a powered space radio dish |
-| Connecting Regions | [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md) / [Blackrock Foothills](./Blackrock%20Foothills.md) |
-| Characters | [Jace](./Jace.md) / [Atwood](./Atwood.md) |
-| Locations | Lower Suzuki / Upper Suzuki / The Bunker |
+![](../assets/Suzuki_Radio_Telescope.jpg)
 
-> “__The Suzuki Radio Telescope. It's an old government facility, so there's all kinds of supplies there... food, medical equipment, vehicles. Radios. They could hunker down for weeks, months. It'd make a hell of a base of operations for all manner of evil shit they might get up to.__”
+_Suzuki\_Radio\_Telescope.jpg_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/No_picture.png)
+
+_No\_picture.png_
+
+**Details**
+
+**Description:** A government research facility with a powered space radio dish
+
+**Connecting Regions:** [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md) / [Blackrock Foothills](./Blackrock%20Foothills.md)
+
+**Characters:** [Jace](./Jace.md) / [Atwood](./Atwood.md)
+
+**Locations:** Lower Suzuki / Upper Suzuki / The Bunker
+
+> “**The Suzuki Radio Telescope. It's an old government facility, so there's all kinds of supplies there... food, medical equipment, vehicles. Radios. They could hunker down for weeks, months. It'd make a hell of a base of operations for all manner of evil shit they might get up to.**”
 >
 > — [Jace](./Jace.md) to [Will Mackenzie](./Will%20Mackenzie.md) in Episode 4
 

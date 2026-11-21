@@ -18,12 +18,15 @@
 
 **Fire Barrel**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Fire_barrel.png) / _Fire\_barrel.png_ |
-| **General** |  |
-| Type | Fire Starting\|- |
-| Cooking slots | 2 |
+![](../assets/Fire_barrel.png)
+
+_Fire\_barrel.png_
+
+**General**
+
+**Type:** Fire Starting\|-
+
+**Cooking slots:** 2
 
 The **fire barrel** is an immovable [contained fire](./Fire.md#Contained_fires) in an open barrel. The fire barrel functions identically to other contained fires and player-made [campfire](./Campfire.md). The fire barrel provides no advantage over other contained fires, but it does allow protection against wind, unlike the player-made campfire. It has two [cooking](./Cooking.md) slots.
 

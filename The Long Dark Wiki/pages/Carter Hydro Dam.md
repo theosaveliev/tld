@@ -20,21 +20,51 @@
 
 **Carter Hydro Dam**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Exterior](../assets/Carter_Hydro_Dam_Exterior.png) / _Exterior_ / ![Interior](../assets/Carter_Hydro_Dam_Interior.png) / _Interior_ | 250px\]\] |
-| ![Exterior](../assets/Carter_Hydro_Dam_Exterior.png) / _Exterior_ | ![Interior](../assets/Carter_Hydro_Dam_Interior.png) / _Interior_ |
-| **Location** |  |
-| ![](../assets/Carter_Hydro_Dam_Location.png) / _Carter\_Hydro\_Dam\_Location.png_ |  |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- / Location |
-| Description | A hydroelectric dam. |
-| **General** |  |
-| Type | Industrial\|- / Firebox |
-| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ | Has a workbench\|- |
-| Missions | [The Wounded Trapper](./Episode%202%20-%20Luminance%20Fugue.md#The_Wounded_Trapper) / [Renewed Hope](./Episode%202%20-%20Luminance%20Fugue.md#Renewed_Hope) |
-| Characters | [Methuselah](./Methuselah.md) / [Mathis](./Mathis.md) |
+\[\[File: / ![Exterior](../assets/Carter_Hydro_Dam_Exterior.png) / _Exterior_ / ![Interior](../assets/Carter_Hydro_Dam_Interior.png) / _Interior_
 
-> “__The old Carter Dam -- it's a mess. Multiple quakes have left it pretty unstable. Nobody really goes in there anymore.__”
+250px\]\]
+
+![Exterior](../assets/Carter_Hydro_Dam_Exterior.png)
+
+_Exterior_
+
+![Interior](../assets/Carter_Hydro_Dam_Interior.png)
+
+_Interior_
+
+**Location**
+
+![](../assets/Carter_Hydro_Dam_Location.png)
+
+_Carter\_Hydro\_Dam\_Location.png_
+
+Region
+
+[Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+
+Location
+
+**Description:** A hydroelectric dam.
+
+**General**
+
+Type
+
+Industrial\|-
+
+Firebox
+
+![](../assets/Workbench_icon_green.png)
+
+_workbench\_icon\_green.png_
+
+Has a workbench\|-
+
+**Missions:** [The Wounded Trapper](./Episode%202%20-%20Luminance%20Fugue.md#The_Wounded_Trapper) / [Renewed Hope](./Episode%202%20-%20Luminance%20Fugue.md#Renewed_Hope)
+
+**Characters:** [Methuselah](./Methuselah.md) / [Mathis](./Mathis.md)
+
+> “**The old Carter Dam -- it's a mess. Multiple quakes have left it pretty unstable. Nobody really goes in there anymore.**”
 >
 > — - [Jeremiah](./Jeremiah.md)
 

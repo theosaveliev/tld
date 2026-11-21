@@ -18,23 +18,33 @@
 
 **Terry**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Terry.jpg) / _Terry.jpg_ |
-| Release | [2.52](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
-| Date | 6 October 2021 |
-| Wintermute | [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
-| Location(s) | [Perseverance Mills](./Perseverance%20Mills.md) |
-| **Biographical Information** |  |
-| Status | Alive |
-| **Physical Information** |  |
-| Sex | Male |
-| **Game Information** |  |
-| Voiced by | Noel Johansen (Episode 2 &amp; 3) Nick Wolfhard (Episode 5) |
+![](../assets/Terry.jpg)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_Terry.jpg_
 
-**Stub:**__This article is a stub. You can help by \[//dummy.host/index.php?title=Terry&amp;action=edit expanding it\].__
+**Release:** [2.52](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
+
+**Date:** 6 October 2021
+
+**Wintermute:** [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
+
+**Location(s):** [Perseverance Mills](./Perseverance%20Mills.md)
+
+**Biographical Information**
+
+**Status:** Alive
+
+**Physical Information**
+
+**Sex:** Male
+
+**Game Information**
+
+**Voiced by:** Noel Johansen (Episode 2 &amp; 3) Nick Wolfhard (Episode 5)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+
+**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Terry&amp;action=edit expanding it\].**
 
 **Terry** a minor character in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of [Wintermute](./Wintermute.md) in [_The Long Dark_](./The%20Long%20Dark.md). He appears in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) and [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) as the "**Radio Voice Man**."
 
@@ -74,11 +84,11 @@ The same radio broadcast from Episode 2 is played again at [Signal Hill](./Signa
 
 ### [A Cry For Help](./A%20Cry%20For%20Help.md)
 
-> “__Ok. So about 10 days ago, Doc Larsen asked me to start broadcasting a quarantine message.__”
+> “**Ok. So about 10 days ago, Doc Larsen asked me to start broadcasting a quarantine message.**”
 >
 > — Terry
 
-Terry first appears outside of his shack when Astrid climbs the road to ask him about a distress call he heard the other night. Terry comes out, smoking a blunt and confusing Astrid for someone coming to take several [Car Batteries](./Car%20Battery.md) back from him that he is not finished with. Terry eventually invites Astrid inside and explains that he intercepted a distress call from before the lights went out in [Desperation Bay](./Desperation%20Bay.md).{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Hey look! Somone finally heard my distress call!__
+Terry first appears outside of his shack when Astrid climbs the road to ask him about a distress call he heard the other night. Terry comes out, smoking a blunt and confusing Astrid for someone coming to take several [Car Batteries](./Car%20Battery.md) back from him that he is not finished with. Terry eventually invites Astrid inside and explains that he intercepted a distress call from before the lights went out in [Desperation Bay](./Desperation%20Bay.md).{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Hey look! Somone finally heard my distress call!**
 
 Terry leading Mathis to Cooper's Blind
 

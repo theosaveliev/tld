@@ -4,23 +4,35 @@
 
 **Wool Ear Wrap**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Wool_Ear_Wrap_icon.png) / _Wool\_Ear\_Wrap\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Accessory |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)20% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)1% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 75% condition |
+![](../assets/Wool_Ear_Wrap_icon.png)
 
-> “__Covers your ears with an extra layer of Wool.__”
+_Wool\_Ear\_Wrap\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Accessory
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)20%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)1%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 75% condition
+
+> “**Covers your ears with an extra layer of Wool.**”
 >
 > — In-game description
 

@@ -17,14 +17,19 @@
 
 **Scrub Brush**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Scrub_Brush_icon.png) / _Scrub\_Brush\_icon.png_ |
-| **General** |  |
-| Item Type | Item |
-| Wintermute | No |
-| **Statistics** |  |
-| Harvest | 7-12 × [Stick](./Stick.md) |
+![](../assets/Scrub_Brush_icon.png)
+
+_Scrub\_Brush\_icon.png_
+
+**General**
+
+**Item Type:** Item
+
+**Wintermute:** No
+
+**Statistics**
+
+**Harvest:** 7-12 × [Stick](./Stick.md)
 
 A **Scrub Brush** is a type of plant that can be harvested for useful materials.
 

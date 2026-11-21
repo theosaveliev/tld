@@ -11,18 +11,27 @@
 
 **Rainbow Trout (Cooked)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Rainbow_Trout_%28Cooked%29_icon.png) / _Rainbow\_Trout\_(Cooked)\_icon.png_ |
-| Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| **Values** |  |
-| Calories | 575 kcal |
-| Hydration | -5% |
-| [Vitamin C](./Scurvy.md) | Minor (15%) |
-| Weight | 1.5 kg (3.3 lbs) |
+![](../assets/Rainbow_Trout_%28Cooked%29_icon.png)
+
+_Rainbow\_Trout\_(Cooked)\_icon.png_
+
+**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Values**
+
+**Calories:** 575 kcal
+
+**Hydration:** -5%
+
+**[Vitamin C](./Scurvy.md):** Minor (15%)
+
+**Weight:** 1.5 kg (3.3 lbs)
 
 **Rainbow Trout (Cooked)** is a [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 

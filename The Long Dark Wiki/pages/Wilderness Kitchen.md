@@ -19,19 +19,29 @@
 
 **Wilderness Kitchen**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Wilderness_Kitchen_icon.png) / _Wilderness\_Kitchen\_icon.png_ |
-| Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.346) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|- |
-| Stackable | No |
-| Examine | Tips and tricks on how to prepare food in the wilderness. Researching this will improve your Skill. |
-| **Values** |  |
-| Weight | 0.50 kg (1.1 lbs) |
-| **Actions** |  |
-| Backpack | Research, Drop |
+![](../assets/Wilderness_Kitchen_icon.png)
+
+_Wilderness\_Kitchen\_icon.png_
+
+**Release:** [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.346)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|-
+
+**Stackable:** No
+
+**Examine:** Tips and tricks on how to prepare food in the wilderness. Researching this will improve your Skill.
+
+**Values**
+
+**Weight:** 0.50 kg (1.1 lbs)
+
+**Actions**
+
+**Backpack:** Research, Drop
 
 **Wilderness Kitchen** is a [Research Book](./Research%20Book.md) used to improve the [Cooking](./Cooking.md) skill. It can also be used as Fuel when starting a [Fire](./Fire.md).
 
@@ -51,14 +61,17 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 **Wilderness Kitchen**
 
-| Property | Details |
-| --- | --- |
-| Type | Fuel |
-| **Statistics** |  |
-| Duration | ![Fire\_Starting.png](../assets/Fire_Starting.png) 18 minutes |
-| Start Chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) +35% |
-| Heat | ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +2°C (+3.6°F) |
-| Burn Density | 0.6 hr/kg (0.27 hr/lb) |
+**Type:** Fuel
+
+**Statistics**
+
+**Duration:** ![Fire\_Starting.png](../assets/Fire_Starting.png) 18 minutes
+
+**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) +35%
+
+**Heat:** ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
+
+**Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 
 ## Location
 

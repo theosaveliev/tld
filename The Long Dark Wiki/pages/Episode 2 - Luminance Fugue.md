@@ -34,7 +34,7 @@
 
 ![](../assets/Episode_2.png)**Template:spoiler**
 
-> “__Mackenzie's search for Astrid takes him deeper into the savage wilderness. A mysterious trapper may be the key to finding Astrid. But can he be trusted?__”
+> “**Mackenzie's search for Astrid takes him deeper into the savage wilderness. A mysterious trapper may be the key to finding Astrid. But can he be trusted?**”
 
 ## Overview
 

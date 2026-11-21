@@ -15,20 +15,35 @@
 
 **Ash Canyon**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Ash_Canyon.jpg) / _Ash\_Canyon.jpg_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Ash_Canyon_Location.png) / _Ash\_Canyon\_Location.png_ |
-|  | ![](../assets/Ash_Canyon_Region_Map.png) / _Ash\_Canyon\_Region\_Map.png_ |
-| **Details** |  |
-| Description | Deep valleys and high plateaus connected by rope bridges overlooking burnt, decaying trees subject to an ancient forest fire. |
-| Connecting Regions | [Timberwolf Mountain](./Timberwolf%20Mountain.md) (through multiple different connection points) |
-| Difficulty | Advanced |
-| Interloper Region Spawn | Yes |
-| Locations | 20 |
-| Hazards and Survivability | Lots of high rope bridges. Weather can often be poor. Some shelters scattered throughout. |
-| Date Added | December 7 2020 |
+![](../assets/Ash_Canyon.jpg)
+
+_Ash\_Canyon.jpg_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/Ash_Canyon_Location.png)
+
+_Ash\_Canyon\_Location.png_
+
+![](../assets/Ash_Canyon_Region_Map.png)
+
+_Ash\_Canyon\_Region\_Map.png_
+
+**Details**
+
+**Description:** Deep valleys and high plateaus connected by rope bridges overlooking burnt, decaying trees subject to an ancient forest fire.
+
+**Connecting Regions:** [Timberwolf Mountain](./Timberwolf%20Mountain.md) (through multiple different connection points)
+
+**Difficulty:** Advanced
+
+**Interloper Region Spawn:** Yes
+
+**Locations:** 20
+
+**Hazards and Survivability:** Lots of high rope bridges. Weather can often be poor. Some shelters scattered throughout.
+
+**Date Added:** December 7 2020
 
 > “__For advanced players. A climber's paradise dotted with narrow ravines, towering cliffs, and multiple high plateaus. Its burnt forests and mining settlements also hint at a darker history. __”
 >

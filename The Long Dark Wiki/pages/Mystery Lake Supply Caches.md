@@ -12,17 +12,21 @@
 
 **Mystery Lake Supply Caches**
 
-| Property | Details |
-| --- | --- |
-|  | ![One of the hidden supply caches.](../assets/Bloodied_note.png) / _One of the hidden supply caches._ |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
-| Current | Mystery Lake Supply Caches |
-| Next | [Aurora Hatch](./Aurora%20Hatch.md) |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md) |
+![One of the hidden supply caches.](../assets/Bloodied_note.png)
+
+_One of the hidden supply caches._
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+
+**Current:** Mystery Lake Supply Caches
+
+**Next:** [Aurora Hatch](./Aurora%20Hatch.md)
+
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md)
 
 **Template:spoiler**
 
-> “__There are several supply caches hidden around Mystery Lake. Most are left by hunters or campers. Some are left by off-grid "preppers" waiting for the government to fall, or the end of the world, or some such nonsense.__”
+> “**There are several supply caches hidden around Mystery Lake. Most are left by hunters or campers. Some are left by off-grid "preppers" waiting for the government to fall, or the end of the world, or some such nonsense.**”
 >
 > — In-game description
 

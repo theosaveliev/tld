@@ -57,138 +57,880 @@ Crafting duration times varies widely depending some factors:
 
 ### Anywhere
 
-| Recipe | Materials | Time | Tools Needed |
-| --- | --- | --- | --- |
-| ![Acorn\_Grounds\_icon.png](../assets/Acorn_Grounds_icon.png) [Acorn Grounds](./Acorn%20Grounds.md) | 4x![Acorns\_(Cooked)\_icon.png](../assets/Acorns_%28Cooked%29_icon.png) [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) | 15 Min | ![Heavy\_Hammer\_icon.png](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) |
-| ![Acorn\_Grounds\_icon.png](../assets/Acorn_Grounds_icon.png) [Acorn Grounds](./Acorn%20Grounds.md) | 1x![Acorns\_(Cooked\_-\_Large\_Portion)\_icon.png](../assets/Acorns_%28Cooked_-_Large_Portion%29_icon.png) [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md) | 15 Min | ![Heavy\_Hammer\_icon.png](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) |
-| ![Prepared\_Acorns\_icon.png](../assets/Prepared_Acorns_icon.png) [Prepared Acorns](./Prepared%20Acorns.md) | 1x![Acorns\_icon.png](../assets/Acorns_icon.png) [Acorns](./Acorns.md) | 10 Min | None |
-| ![Prepared\_Acorns\_(Large\_Portion)\_icon.png](../assets/Prepared_Acorns_%28Large_Portion%29_icon.png) [Prepared Acorns (Large Portion)](./Prepared%20Acorns%20%28Large%20Portion%29.md) | 4x![Prepared\_Acorns\_icon.png](../assets/Prepared_Acorns_icon.png) [Prepared Acorns](./Prepared%20Acorns.md) | 1 Min | None |
-| 2x![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) | 1x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | 10 Min | None |
-| ![Carved\_Bear\_Figurine\_icon.png](../assets/Carved_Bear_Figurine_icon.png) [Carved Bear Figurine](./Carved%20Bear%20Figurine.md) | 1x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 4 Hours | ![Woodworking\_Tools\_icon.png](../assets/Woodworking_Tools_icon.png) [Woodworking Tools](./Woodworking%20Tools.md) |
-| ![Carved\_Cougar\_Figurine\_icon.png](../assets/Carved_Cougar_Figurine_icon.png) [Carved Cougar Figurine](./Carved%20Cougar%20Figurine.md) | 1x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 4 Hours | ![Woodworking\_Tools\_icon.png](../assets/Woodworking_Tools_icon.png) [Woodworking Tools](./Woodworking%20Tools.md) |
-| ![Carved\_Wolf\_Figurine\_icon.png](../assets/Carved_Wolf_Figurine_icon.png) [Carved Wolf Figurine](./Carved%20Wolf%20Figurine.md) | 1x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 4 Hours | ![Woodworking\_Tools\_icon.png](../assets/Woodworking_Tools_icon.png) [Woodworking Tools](./Woodworking%20Tools.md) |
-| ![Decorative\_Art\_icon.png](../assets/Decorative_Art_icon.png) [Decorative Art](./Decorative%20Art.md) | - 2x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 1x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 1x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 5 Hours | ![Woodworking\_Tools\_icon.png](../assets/Woodworking_Tools_icon.png) [Woodworking Tools](./Woodworking%20Tools.md) |
-| ![Decorative\_Art\_icon.png](../assets/Decorative_Art_icon.png) [Decorative Art](./Decorative%20Art.md) | - 2x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 1x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 1x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 5 Hours | ![Woodworking\_Tools\_icon.png](../assets/Woodworking_Tools_icon.png) [Woodworking Tools](./Woodworking%20Tools.md) |
-| ![Decorative\_End\_Table\_icon.png](../assets/Decorative_End_Table_icon.png) [Decorative End Table](./Decorative%20End%20Table.md) | 6x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 5 Hours | ![Woodworking\_Tools\_icon.png](../assets/Woodworking_Tools_icon.png) [Woodworking Tools](./Woodworking%20Tools.md) |
-| ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) | - 1x![Hook\_icon.png](../assets/Hook_icon.png) [Hook](./Hook.md) / - 1x![Line\_icon.png](../assets/Line_icon.png) [Line](./Line.md) | 10 Min | None |
-| ![Furniture\_Workbench\_icon.png](../assets/Furniture_Workbench_icon.png) [Furniture Workbench](./Furniture%20Workbench.md) | 10x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 4 Hours | ![Woodworking\_Tools\_icon.png](../assets/Woodworking_Tools_icon.png) [Woodworking Tools](./Woodworking%20Tools.md) |
-| ![Improvised\_Down\_Bedroll\_icon.png](../assets/Improvised_Down_Bedroll_icon.png) [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) | - 1x![Bedroll\_icon.png](../assets/Bedroll_icon.png) [Bedroll](./Bedroll.md) / - 3x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 10x![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | 3 to 6 Hours | - ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) |
-| ![Improvised\_Hand\_Wraps\_icon.png](../assets/Improvised_Hand_Wraps_icon.png) [Improvised Hand Wraps](./Improvised%20Hand%20Wraps.md) | 4x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | 37 - 1 Hour | - ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) |
-| ![Improvised\_Head\_Wrap\_icon.png](../assets/Improvised_Head_Wrap_icon.png) [Improvised Head Wrap](./Improvised%20Head%20Wrap.md) | 2x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | 30 to 48 Min | - ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) |
-| ![Improvised\_Insulation\_icon.png](../assets/Improvised_Insulation_icon.png) [Improvised Insulation](./Improvised%20Insulation.md) | - 4x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 5x![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | 1.16-1 Hour | - ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) |
-| ![Old\_Man's\_Beard\_Wound\_Dressing\_icon.png](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png) [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md) | 3x![Old\_Man's\_Beard\_Lichen\_icon.png](../assets/Old_Man%27s_Beard_Lichen_icon.png) [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) | 15 Min | None |
-| ![Prepared\_Birch\_Bark\_icon.png](../assets/Prepared_Birch_Bark_icon.png) [Prepared Birch Bark](./Prepared%20Birch%20Bark.md) | 2x![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md) | 5 Min | None |
-| ![Prepared\_Burdock\_icon.png](../assets/Prepared_Burdock_icon.png) [Prepared Burdock](./Prepared%20Burdock.md) | 1x![Burdock\_Root\_icon.png](../assets/Burdock_Root_icon.png) [Burdock Root](./Burdock%20Root.md) | 15 Min | None |
-| ![Prepared\_Reishi\_Mushrooms\_icon.png](../assets/Prepared_Reishi_Mushrooms_icon.png) [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md) | 2x![Reishi\_Mushroom\_icon.png](../assets/Reishi_Mushroom_icon.png) [Reishi Mushroom](./Reishi%20Mushroom.md) | 15 Min | None |
-| ![Prepared\_Rose\_Hips\_icon.png](../assets/Prepared_Rose_Hips_icon.png) [Prepared Rose Hips](./Prepared%20Rose%20Hips.md) | 24x![Rose\_Hip\_icon.png](../assets/Rose_Hip_icon.png) [Rose Hip](./Rose%20Hip.md) | 15 Min | None |
-| 2x![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md) | 1x![Newsprint\_icon.png](../assets/Newsprint_icon.png) [Newsprint](./Newsprint.md) | 10 Min | None |
-| 4x![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md) | 1x![Newsprint\_Roll\_icon.png](../assets/Newsprint_Roll_icon.png) [Newsprint Roll](./Newsprint%20Roll.md) | 10 Min | None |
-| 2x![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md) | 1x![Stack\_of\_Papers\_icon.png](../assets/Stack_of_Papers_icon.png) [Stack of Papers](./Stack%20of%20Papers.md) | 10 Min | None |
-| 2x![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md) | 1x![Stick\_icon.png](../assets/Stick_icon.png) [Stick](./Stick.md) | 5 Min | None |
-| ![Torch\_icon.png](../assets/Torch_icon.png) [Torch](./Torch.md) | - 3x![Stick\_icon.png](../assets/Stick_icon.png) [Stick](./Stick.md) / - 1x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 0.10Lx![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) | 15 Min | None |
+Recipe
+
+Materials
+
+Time
+
+Tools Needed
+
+![Acorn\_Grounds\_icon.png](../assets/Acorn_Grounds_icon.png) [Acorn Grounds](./Acorn%20Grounds.md)
+
+4x![Acorns\_(Cooked)\_icon.png](../assets/Acorns_%28Cooked%29_icon.png) [Acorns (Cooked)](./Acorns%20%28Cooked%29.md)
+
+15 Min
+
+![Heavy\_Hammer\_icon.png](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md)
+
+![Acorn\_Grounds\_icon.png](../assets/Acorn_Grounds_icon.png) [Acorn Grounds](./Acorn%20Grounds.md)
+
+1x![Acorns\_(Cooked\_-\_Large\_Portion)\_icon.png](../assets/Acorns_%28Cooked_-_Large_Portion%29_icon.png) [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md)
+
+15 Min
+
+![Heavy\_Hammer\_icon.png](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md)
+
+![Prepared\_Acorns\_icon.png](../assets/Prepared_Acorns_icon.png) [Prepared Acorns](./Prepared%20Acorns.md)
+
+1x![Acorns\_icon.png](../assets/Acorns_icon.png) [Acorns](./Acorns.md)
+
+10 Min
+
+None
+
+![Prepared\_Acorns\_(Large\_Portion)\_icon.png](../assets/Prepared_Acorns_%28Large_Portion%29_icon.png) [Prepared Acorns (Large Portion)](./Prepared%20Acorns%20%28Large%20Portion%29.md)
+
+4x![Prepared\_Acorns\_icon.png](../assets/Prepared_Acorns_icon.png) [Prepared Acorns](./Prepared%20Acorns.md)
+
+1 Min
+
+None
+
+2x![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
+
+1x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+10 Min
+
+None
+
+![Carved\_Bear\_Figurine\_icon.png](../assets/Carved_Bear_Figurine_icon.png) [Carved Bear Figurine](./Carved%20Bear%20Figurine.md)
+
+1x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+
+4 Hours
+
+![Woodworking\_Tools\_icon.png](../assets/Woodworking_Tools_icon.png) [Woodworking Tools](./Woodworking%20Tools.md)
+
+![Carved\_Cougar\_Figurine\_icon.png](../assets/Carved_Cougar_Figurine_icon.png) [Carved Cougar Figurine](./Carved%20Cougar%20Figurine.md)
+
+1x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+
+4 Hours
+
+![Woodworking\_Tools\_icon.png](../assets/Woodworking_Tools_icon.png) [Woodworking Tools](./Woodworking%20Tools.md)
+
+![Carved\_Wolf\_Figurine\_icon.png](../assets/Carved_Wolf_Figurine_icon.png) [Carved Wolf Figurine](./Carved%20Wolf%20Figurine.md)
+
+1x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+
+4 Hours
+
+![Woodworking\_Tools\_icon.png](../assets/Woodworking_Tools_icon.png) [Woodworking Tools](./Woodworking%20Tools.md)
+
+![Decorative\_Art\_icon.png](../assets/Decorative_Art_icon.png) [Decorative Art](./Decorative%20Art.md)
+
+- 2x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 1x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 1x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
+
+5 Hours
+
+![Woodworking\_Tools\_icon.png](../assets/Woodworking_Tools_icon.png) [Woodworking Tools](./Woodworking%20Tools.md)
+
+![Decorative\_Art\_icon.png](../assets/Decorative_Art_icon.png) [Decorative Art](./Decorative%20Art.md)
+
+- 2x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 1x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 1x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
+
+5 Hours
+
+![Woodworking\_Tools\_icon.png](../assets/Woodworking_Tools_icon.png) [Woodworking Tools](./Woodworking%20Tools.md)
+
+![Decorative\_End\_Table\_icon.png](../assets/Decorative_End_Table_icon.png) [Decorative End Table](./Decorative%20End%20Table.md)
+
+6x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+
+5 Hours
+
+![Woodworking\_Tools\_icon.png](../assets/Woodworking_Tools_icon.png) [Woodworking Tools](./Woodworking%20Tools.md)
+
+![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md)
+
+- 1x![Hook\_icon.png](../assets/Hook_icon.png) [Hook](./Hook.md) / - 1x![Line\_icon.png](../assets/Line_icon.png) [Line](./Line.md)
+
+10 Min
+
+None
+
+![Furniture\_Workbench\_icon.png](../assets/Furniture_Workbench_icon.png) [Furniture Workbench](./Furniture%20Workbench.md)
+
+10x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+
+4 Hours
+
+![Woodworking\_Tools\_icon.png](../assets/Woodworking_Tools_icon.png) [Woodworking Tools](./Woodworking%20Tools.md)
+
+![Improvised\_Down\_Bedroll\_icon.png](../assets/Improvised_Down_Bedroll_icon.png) [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md)
+
+- 1x![Bedroll\_icon.png](../assets/Bedroll_icon.png) [Bedroll](./Bedroll.md) / - 3x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 10x![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+3 to 6 Hours
+
+- ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md)
+
+![Improvised\_Hand\_Wraps\_icon.png](../assets/Improvised_Hand_Wraps_icon.png) [Improvised Hand Wraps](./Improvised%20Hand%20Wraps.md)
+
+4x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+37 - 1 Hour
+
+- ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md)
+
+![Improvised\_Head\_Wrap\_icon.png](../assets/Improvised_Head_Wrap_icon.png) [Improvised Head Wrap](./Improvised%20Head%20Wrap.md)
+
+2x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+30 to 48 Min
+
+- ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md)
+
+![Improvised\_Insulation\_icon.png](../assets/Improvised_Insulation_icon.png) [Improvised Insulation](./Improvised%20Insulation.md)
+
+- 4x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 5x![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+1.16-1 Hour
+
+- ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md)
+
+![Old\_Man's\_Beard\_Wound\_Dressing\_icon.png](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png) [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md)
+
+3x![Old\_Man's\_Beard\_Lichen\_icon.png](../assets/Old_Man%27s_Beard_Lichen_icon.png) [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md)
+
+15 Min
+
+None
+
+![Prepared\_Birch\_Bark\_icon.png](../assets/Prepared_Birch_Bark_icon.png) [Prepared Birch Bark](./Prepared%20Birch%20Bark.md)
+
+2x![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md)
+
+5 Min
+
+None
+
+![Prepared\_Burdock\_icon.png](../assets/Prepared_Burdock_icon.png) [Prepared Burdock](./Prepared%20Burdock.md)
+
+1x![Burdock\_Root\_icon.png](../assets/Burdock_Root_icon.png) [Burdock Root](./Burdock%20Root.md)
+
+15 Min
+
+None
+
+![Prepared\_Reishi\_Mushrooms\_icon.png](../assets/Prepared_Reishi_Mushrooms_icon.png) [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md)
+
+2x![Reishi\_Mushroom\_icon.png](../assets/Reishi_Mushroom_icon.png) [Reishi Mushroom](./Reishi%20Mushroom.md)
+
+15 Min
+
+None
+
+![Prepared\_Rose\_Hips\_icon.png](../assets/Prepared_Rose_Hips_icon.png) [Prepared Rose Hips](./Prepared%20Rose%20Hips.md)
+
+24x![Rose\_Hip\_icon.png](../assets/Rose_Hip_icon.png) [Rose Hip](./Rose%20Hip.md)
+
+15 Min
+
+None
+
+2x![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md)
+
+1x![Newsprint\_icon.png](../assets/Newsprint_icon.png) [Newsprint](./Newsprint.md)
+
+10 Min
+
+None
+
+4x![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md)
+
+1x![Newsprint\_Roll\_icon.png](../assets/Newsprint_Roll_icon.png) [Newsprint Roll](./Newsprint%20Roll.md)
+
+10 Min
+
+None
+
+2x![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md)
+
+1x![Stack\_of\_Papers\_icon.png](../assets/Stack_of_Papers_icon.png) [Stack of Papers](./Stack%20of%20Papers.md)
+
+10 Min
+
+None
+
+2x![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md)
+
+1x![Stick\_icon.png](../assets/Stick_icon.png) [Stick](./Stick.md)
+
+5 Min
+
+None
+
+![Torch\_icon.png](../assets/Torch_icon.png) [Torch](./Torch.md)
+
+- 3x![Stick\_icon.png](../assets/Stick_icon.png) [Stick](./Stick.md) / - 1x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 0.10Lx![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md)
+
+15 Min
+
+None
 
 ### [Active Fire](./Fire.md)
 
-| Recipe | Ingredients | Time | Tools Needed |
-| --- | --- | --- | --- |
-| 3x![Fire\_Hardened\_Arrow\_icon.png](../assets/Fire_Hardened_Arrow_icon.png) [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | - 5x![Stick\_icon.png](../assets/Stick_icon.png) [Stick](./Stick.md) / - 5x![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) | 22 to 45 Min | - ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) |
+Recipe
+
+Ingredients
+
+Time
+
+Tools Needed
+
+3x![Fire\_Hardened\_Arrow\_icon.png](../assets/Fire_Hardened_Arrow_icon.png) [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md)
+
+- 5x![Stick\_icon.png](../assets/Stick_icon.png) [Stick](./Stick.md) / - 5x![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md)
+
+22 to 45 Min
+
+- ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
 
 ### [Work Bench](./Work%20Bench.md)
 
-| Recipe | Materials | Time | Tools Needed |
-| --- | --- | --- | --- |
-| 3x![Arrow\_Shaft\_icon.png](../assets/Arrow_Shaft_icon.png) [Arrow Shaft](./Arrow%20Shaft.md) | 1x![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) | 30 to 60 Min | - ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) |
-| ![Bear\_Hide\_Rug\_icon.png](../assets/Bear_Hide_Rug_icon.png) [Bear Hide Rug](./Bear%20Hide%20Rug.md) | - 1x![Cured\_Deer\_Hide\_icon.png](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 1x![Cured\_Black\_Bear\_Hide\_icon.png](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 8 Hours | ![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md) |
-| ![Bear\_Skin\_Bedroll\_icon.png](../assets/Bear_Skin_Bedroll_icon.png) [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) | - 2x![Cured\_Black\_Bear\_Hide\_icon.png](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 5x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 6x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 17 Hours 30 Min to 35 Hours | - ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) |
-| ![Bearskin\_Coat\_icon.png](../assets/Bearskin_Coat_icon.png) [Bearskin Coat](./Bearskin%20Coat.md) | - 2x![Cured\_Black\_Bear\_Hide\_icon.png](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 30 to 60 Hours | - ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) |
-| ![Bushcraft\_Bow\_icon.png](../assets/Bushcraft_Bow_icon.png) [Bushcraft Bow](./Bushcraft%20Bow.md) (requires [Bushcraft Bow Blueprint Card](./Bushcraft%20Bow%20Blueprint%20Card.md)) | - 2x![Green\_Birch\_Sapling\_icon.png](../assets/Green_Birch_Sapling_icon.png) [Green Birch Sapling](./Green%20Birch%20Sapling.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 5 hours | - ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) |
-| ![Cougar\_Hide\_Wrap\_icon.png](../assets/Cougar_Hide_Wrap_icon.png) [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) (Blueprint doesn't appear on [Pilgrim](./Pilgrim.md)) | - 1x![Cured\_Cougar\_Hide\_icon.png](../assets/Cured_Cougar_Hide_icon.png) [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 11 Hours 40 Min to 18 Hours 40 Min | - ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) |
-| ![Deerskin\_Boots\_icon.png](../assets/Deerskin_Boots_icon.png) [Deerskin Boots](./Deerskin%20Boots.md) | - 2x![Cured\_Deer\_Hide\_icon.png](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 12 Hours 30 Min to 20 Hours | - ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) |
-| ![Deerskin\_Pants\_icon.png](../assets/Deerskin_Pants_icon.png) [Deerskin Pants](./Deerskin%20Pants.md) | - 3x![Cured\_Deer\_Hide\_icon.png](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 12 Hours 30 Min to 20 Hours | - ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) |
-| ![Fishing\_Lure\_(Acorns)\_icon.png](../assets/Fishing_Lure_%28Acorns%29_icon.png) [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | - 1x![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / - 1x![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) / - 1x![Acorns\_icon.png](../assets/Acorns_icon.png) [Acorns](./Acorns.md) | 25-50 Minutes | - _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_ |
-| ![Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) [Fishing Lure (Revolver Shell Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | - 1x![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / - 1x![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) / - 1x![Revolver\_Shell\_Casing\_icon.png](../assets/Revolver_Shell_Casing_icon.png) [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) | 25-50 Minutes | - _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_ |
-| ![Fishing\_Lure\_(Wire\_Bundle)\_icon.png](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | - 1x![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / - 1x![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) / - 1x![Wires\_icon.png](../assets/Wires_icon.png) [Wires](./Wires.md) | 25-50 Minutes | - _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_ |
-| ![Fishing\_Tip-Up\_icon.png](../assets/Fishing_Tip-Up_icon.png) [Fishing Tip-Up](./Fishing%20Tip-Up.md) | - 2x![Stick\_icon.png](../assets/Stick_icon.png) [Stick](./Stick.md) / - 1x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 1x![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / - 1x![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) | 20-40 Min | - _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_ |
-| 3x![Hook\_icon.png](../assets/Hook_icon.png) [Hook](./Hook.md) | 1x![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 10-20 Min | - _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_ |
-| ![Improvised\_Crampons\_icon.png](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md) | - 4x![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / - 2x![Cured\_Leather\_icon.png](../assets/Cured_Leather_icon.png) [Cured Leather](./Cured%20Leather.md) | 2-4 Hours | - _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_ |
-| 2x![Line\_icon.png](../assets/Line_icon.png) [Line](./Line.md) | 1x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 15 Min | None |
-| ![Moose-Hide\_Cloak\_icon.png](../assets/Moose-Hide_Cloak_icon.png) [Moose-Hide Cloak](./Moose-Hide%20Cloak.md) | - 1x![Cured\_Moose\_Hide\_icon.png](../assets/Cured_Moose_Hide_icon.png) [Cured Moose Hide](./Cured%20Moose%20Hide.md) / - 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 16 Hours 40 Min to 33 Hours 20 Min | - ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) |
-| ![Moose-Hide\_Satchel\_icon.png](../assets/Moose-Hide_Satchel_icon.png) [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) | - 1x![Cured\_Moose\_Hide\_icon.png](../assets/Cured_Moose_Hide_icon.png) [Cured Moose Hide](./Cured%20Moose%20Hide.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 10 to 16 Hours | - ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) |
-| ![Rabbitskin\_Hat\_icon.png](../assets/Rabbitskin_Hat_icon.png) [Rabbitskin Hat](./Rabbitskin%20Hat.md) | - 3x![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / - 1x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 3 Hours 30 Min to 5 Hours 36 Min | - ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) |
-| ![Rabbitskin\_Mitts\_icon.png](../assets/Rabbitskin_Mitts_icon.png) [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) | - 4x![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 5 to 8 Hours | - ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) |
-| ![Simple\_Arrow\_icon.png](../assets/Simple_Arrow_icon.png) [Simple Arrow](./Simple%20Arrow.md) | - 1x![Arrowhead\_icon.png](../assets/Arrowhead_icon.png) [Arrowhead](./Arrowhead.md) / - 1x![Arrow\_Shaft\_icon.png](../assets/Arrow_Shaft_icon.png) [Arrow Shaft](./Arrow%20Shaft.md) / - 3x![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) | 45 to 90 Min | - _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_ |
-| ![Simple\_Fishing\_Lure\_icon.png](../assets/Simple_Fishing_Lure_icon.png) [Simple Fishing Lure](./Simple%20Fishing%20Lure.md) | 1x![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 15-30 Min | - _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_ |
-| ![Snare\_icon.png](../assets/Snare_icon.png) [Snare](./Snare.md) | - 1x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 1x![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 15-30 Min | - _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_ |
-| ![Survival\_Bow\_icon.png](../assets/Survival_Bow_icon.png) [Survival Bow](./Survival%20Bow.md) | - 1x![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 5 to 10 Hours | - ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) |
-| ![Travois\_icon.png](../assets/Travois_Icon.png) [Travois](./Travois.md) | - 1x![Cured\_Deer\_Hide\_icon.png](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 4x![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) | 3 to 6 Hours | - ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) |
-| ![Wolfskin\_Coat\_icon.png](../assets/Wolfskin_Coat_icon.png) [Wolfskin Coat](./Wolfskin%20Coat.md) | - 4x![Cured\_Wolf\_Pelt\_icon.png](../assets/Cured_Wolf_Pelt_icon.png) [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / - 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 25 to 50 Hours | - ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) |
-| ![Wolfskin\_Hat\_icon.png](../assets/Wolfskin_Hat_icon.png) [Wolfskin Hat](./Wolfskin%20Hat.md) (requires [Wolfskin Hat Blueprint Card](./Wolfskin%20Hat%20Blueprint%20Card.md)) | - 1x![Cured\_Wolf\_Pelt\_icon.png](../assets/Cured_Wolf_Pelt_icon.png) [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 17 hours | - ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) |
-| ![Wolfskin\_Pants\_icon.png](../assets/Wolfskin_Pants_icon.png) [Wolfskin Pants](./Wolfskin%20Pants.md) (requires [Wolfskin Pants Blueprint Card](./Wolfskin%20Pants%20Blueprint%20Card.md)) | - 4x![Cured\_Wolf\_Pelt\_icon.png](../assets/Cured_Wolf_Pelt_icon.png) [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / - 3x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 29 hours | - ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) |
-| ![Noisemaker\_icon.png](../assets/Noisemaker_icon.png) [Noisemaker](./Noisemaker.md) (Wintermute [EP4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) only) | - 1x![Recycled\_Can\_icon.png](../assets/Recycled_Can_icon.png) [Recycled Can](./Recycled%20Can.md) / - 1x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 0.10kg x![Can\_of\_Gunpowder\_icon.png](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 30 Min | None |
+Recipe
+
+Materials
+
+Time
+
+Tools Needed
+
+3x![Arrow\_Shaft\_icon.png](../assets/Arrow_Shaft_icon.png) [Arrow Shaft](./Arrow%20Shaft.md)
+
+1x![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md)
+
+30 to 60 Min
+
+- ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
+
+![Bear\_Hide\_Rug\_icon.png](../assets/Bear_Hide_Rug_icon.png) [Bear Hide Rug](./Bear%20Hide%20Rug.md)
+
+- 1x![Cured\_Deer\_Hide\_icon.png](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 1x![Cured\_Black\_Bear\_Hide\_icon.png](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+8 Hours
+
+![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)
+
+![Bear\_Skin\_Bedroll\_icon.png](../assets/Bear_Skin_Bedroll_icon.png) [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md)
+
+- 2x![Cured\_Black\_Bear\_Hide\_icon.png](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 5x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 6x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+17 Hours 30 Min to 35 Hours
+
+- ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
+
+![Bearskin\_Coat\_icon.png](../assets/Bearskin_Coat_icon.png) [Bearskin Coat](./Bearskin%20Coat.md)
+
+- 2x![Cured\_Black\_Bear\_Hide\_icon.png](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+30 to 60 Hours
+
+- ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
+
+![Bushcraft\_Bow\_icon.png](../assets/Bushcraft_Bow_icon.png) [Bushcraft Bow](./Bushcraft%20Bow.md) (requires [Bushcraft Bow Blueprint Card](./Bushcraft%20Bow%20Blueprint%20Card.md))
+
+- 2x![Green\_Birch\_Sapling\_icon.png](../assets/Green_Birch_Sapling_icon.png) [Green Birch Sapling](./Green%20Birch%20Sapling.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+5 hours
+
+- ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
+
+![Cougar\_Hide\_Wrap\_icon.png](../assets/Cougar_Hide_Wrap_icon.png) [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) (Blueprint doesn't appear on [Pilgrim](./Pilgrim.md))
+
+- 1x![Cured\_Cougar\_Hide\_icon.png](../assets/Cured_Cougar_Hide_icon.png) [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+11 Hours 40 Min to 18 Hours 40 Min
+
+- ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md)
+
+![Deerskin\_Boots\_icon.png](../assets/Deerskin_Boots_icon.png) [Deerskin Boots](./Deerskin%20Boots.md)
+
+- 2x![Cured\_Deer\_Hide\_icon.png](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+12 Hours 30 Min to 20 Hours
+
+- ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md)
+
+![Deerskin\_Pants\_icon.png](../assets/Deerskin_Pants_icon.png) [Deerskin Pants](./Deerskin%20Pants.md)
+
+- 3x![Cured\_Deer\_Hide\_icon.png](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+12 Hours 30 Min to 20 Hours
+
+- ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md)
+
+![Fishing\_Lure\_(Acorns)\_icon.png](../assets/Fishing_Lure_%28Acorns%29_icon.png) [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md)
+
+- 1x![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / - 1x![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) / - 1x![Acorns\_icon.png](../assets/Acorns_icon.png) [Acorns](./Acorns.md)
+
+25-50 Minutes
+
+- _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_
+
+![Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) [Fishing Lure (Revolver Shell Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md)
+
+- 1x![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / - 1x![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) / - 1x![Revolver\_Shell\_Casing\_icon.png](../assets/Revolver_Shell_Casing_icon.png) [Revolver Shell Casing](./Revolver%20Shell%20Casing.md)
+
+25-50 Minutes
+
+- _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_
+
+![Fishing\_Lure\_(Wire\_Bundle)\_icon.png](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md)
+
+- 1x![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / - 1x![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) / - 1x![Wires\_icon.png](../assets/Wires_icon.png) [Wires](./Wires.md)
+
+25-50 Minutes
+
+- _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_
+
+![Fishing\_Tip-Up\_icon.png](../assets/Fishing_Tip-Up_icon.png) [Fishing Tip-Up](./Fishing%20Tip-Up.md)
+
+- 2x![Stick\_icon.png](../assets/Stick_icon.png) [Stick](./Stick.md) / - 1x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 1x![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / - 1x![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md)
+
+20-40 Min
+
+- _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_
+
+3x![Hook\_icon.png](../assets/Hook_icon.png) [Hook](./Hook.md)
+
+1x![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
+
+10-20 Min
+
+- _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_
+
+![Improvised\_Crampons\_icon.png](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md)
+
+- 4x![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / - 2x![Cured\_Leather\_icon.png](../assets/Cured_Leather_icon.png) [Cured Leather](./Cured%20Leather.md)
+
+2-4 Hours
+
+- _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_
+
+2x![Line\_icon.png](../assets/Line_icon.png) [Line](./Line.md)
+
+1x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+15 Min
+
+None
+
+![Moose-Hide\_Cloak\_icon.png](../assets/Moose-Hide_Cloak_icon.png) [Moose-Hide Cloak](./Moose-Hide%20Cloak.md)
+
+- 1x![Cured\_Moose\_Hide\_icon.png](../assets/Cured_Moose_Hide_icon.png) [Cured Moose Hide](./Cured%20Moose%20Hide.md) / - 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+16 Hours 40 Min to 33 Hours 20 Min
+
+- ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
+
+![Moose-Hide\_Satchel\_icon.png](../assets/Moose-Hide_Satchel_icon.png) [Moose-Hide Satchel](./Moose-Hide%20Satchel.md)
+
+- 1x![Cured\_Moose\_Hide\_icon.png](../assets/Cured_Moose_Hide_icon.png) [Cured Moose Hide](./Cured%20Moose%20Hide.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+10 to 16 Hours
+
+- ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md)
+
+![Rabbitskin\_Hat\_icon.png](../assets/Rabbitskin_Hat_icon.png) [Rabbitskin Hat](./Rabbitskin%20Hat.md)
+
+- 3x![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / - 1x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+3 Hours 30 Min to 5 Hours 36 Min
+
+- ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md)
+
+![Rabbitskin\_Mitts\_icon.png](../assets/Rabbitskin_Mitts_icon.png) [Rabbitskin Mitts](./Rabbitskin%20Mitts.md)
+
+- 4x![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+5 to 8 Hours
+
+- ![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md) / - ![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md)
+
+![Simple\_Arrow\_icon.png](../assets/Simple_Arrow_icon.png) [Simple Arrow](./Simple%20Arrow.md)
+
+- 1x![Arrowhead\_icon.png](../assets/Arrowhead_icon.png) [Arrowhead](./Arrowhead.md) / - 1x![Arrow\_Shaft\_icon.png](../assets/Arrow_Shaft_icon.png) [Arrow Shaft](./Arrow%20Shaft.md) / - 3x![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md)
+
+45 to 90 Min
+
+- _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_
+
+![Simple\_Fishing\_Lure\_icon.png](../assets/Simple_Fishing_Lure_icon.png) [Simple Fishing Lure](./Simple%20Fishing%20Lure.md)
+
+1x![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
+
+15-30 Min
+
+- _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_
+
+![Snare\_icon.png](../assets/Snare_icon.png) [Snare](./Snare.md)
+
+- 1x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 1x![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
+
+15-30 Min
+
+- _![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)_ / - _![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)_
+
+![Survival\_Bow\_icon.png](../assets/Survival_Bow_icon.png) [Survival Bow](./Survival%20Bow.md)
+
+- 1x![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+5 to 10 Hours
+
+- ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
+
+![Travois\_icon.png](../assets/Travois_Icon.png) [Travois](./Travois.md)
+
+- 1x![Cured\_Deer\_Hide\_icon.png](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 4x![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+3 to 6 Hours
+
+- ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
+
+![Wolfskin\_Coat\_icon.png](../assets/Wolfskin_Coat_icon.png) [Wolfskin Coat](./Wolfskin%20Coat.md)
+
+- 4x![Cured\_Wolf\_Pelt\_icon.png](../assets/Cured_Wolf_Pelt_icon.png) [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / - 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+25 to 50 Hours
+
+- ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
+
+![Wolfskin\_Hat\_icon.png](../assets/Wolfskin_Hat_icon.png) [Wolfskin Hat](./Wolfskin%20Hat.md) (requires [Wolfskin Hat Blueprint Card](./Wolfskin%20Hat%20Blueprint%20Card.md))
+
+- 1x![Cured\_Wolf\_Pelt\_icon.png](../assets/Cured_Wolf_Pelt_icon.png) [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / - 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+17 hours
+
+- ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
+
+![Wolfskin\_Pants\_icon.png](../assets/Wolfskin_Pants_icon.png) [Wolfskin Pants](./Wolfskin%20Pants.md) (requires [Wolfskin Pants Blueprint Card](./Wolfskin%20Pants%20Blueprint%20Card.md))
+
+- 4x![Cured\_Wolf\_Pelt\_icon.png](../assets/Cured_Wolf_Pelt_icon.png) [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / - 3x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+29 hours
+
+- ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) / - ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) / - ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) / - ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) / - ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) / - ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
+
+![Noisemaker\_icon.png](../assets/Noisemaker_icon.png) [Noisemaker](./Noisemaker.md) (Wintermute [EP4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) only)
+
+- 1x![Recycled\_Can\_icon.png](../assets/Recycled_Can_icon.png) [Recycled Can](./Recycled%20Can.md) / - 1x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 0.10kg x![Can\_of\_Gunpowder\_icon.png](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md)
+
+30 Min
+
+None
 
 ### [Forge](./Forge.md)
 
-| Recipe | Materials | Time | Tools Needed |
-| --- | --- | --- | --- |
-| 2x ![Arrowhead\_icon.png](../assets/Arrowhead_icon.png) [Arrowhead](./Arrowhead.md) | 1x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 1 Hour | ![Heavy\_Hammer\_icon.png](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) |
-| ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | 1x ![Cougar\_Claw\_icon.png](../assets/Cougar_Claw_icon.png) [Cougar Claw](./Cougar%20Claw.md) 3x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![Cured\_Leather\_icon.png](../assets/Cured_Leather_icon.png) [Cured Leather](./Cured%20Leather.md) | 3 Hours 40 Min | ![Heavy\_Hammer\_icon.png](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) |
-| ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) | 5x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) 1x ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | 4 Hours | ![Heavy\_Hammer\_icon.png](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) |
-| ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) | 3x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) 1x ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | 3 Hours | ![Heavy\_Hammer\_icon.png](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) |
-| ![Spear\_Head\_icon.png](../assets/Spear_Head_icon.png) [Spear Head](./Spear%20Head.md) (Wintermute [EP2](./Episode%202%20-%20Luminance%20Fugue.md) Only) | 2x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 1 Hour 30 Min | ![Heavy\_Hammer\_icon.png](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) |
+Recipe
+
+Materials
+
+Time
+
+Tools Needed
+
+2x ![Arrowhead\_icon.png](../assets/Arrowhead_icon.png) [Arrowhead](./Arrowhead.md)
+
+1x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
+
+1 Hour
+
+![Heavy\_Hammer\_icon.png](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md)
+
+![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md)
+
+1x ![Cougar\_Claw\_icon.png](../assets/Cougar_Claw_icon.png) [Cougar Claw](./Cougar%20Claw.md) 3x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![Cured\_Leather\_icon.png](../assets/Cured_Leather_icon.png) [Cured Leather](./Cured%20Leather.md)
+
+3 Hours 40 Min
+
+![Heavy\_Hammer\_icon.png](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md)
+
+![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
+
+5x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) 1x ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+4 Hours
+
+![Heavy\_Hammer\_icon.png](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md)
+
+![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md)
+
+3x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) 1x ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+3 Hours
+
+![Heavy\_Hammer\_icon.png](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md)
+
+![Spear\_Head\_icon.png](../assets/Spear_Head_icon.png) [Spear Head](./Spear%20Head.md) (Wintermute [EP2](./Episode%202%20-%20Luminance%20Fugue.md) Only)
+
+2x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
+
+1 Hour 30 Min
+
+![Heavy\_Hammer\_icon.png](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md)
 
 ### [Ammunition Work Bench](./Ammunition%20Work%20Bench.md)
 
-| Recipe | Materials | Time |
-| --- | --- | --- |
-| ![Can\_of\_Gunpowder\_icon.png](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md) | - 1x![Stump\_Remover\_icon.png](../assets/Stump_Remover_icon.png) [Stump Remover](./Stump%20Remover.md) / - 1x![Dusting\_Sulfur\_icon.png](../assets/Dusting_Sulfur_icon.png) [Dusting Sulfur](./Dusting%20Sulfur.md) / - 2x![Charcoal\_icon.png](../assets/Charcoal_icon.png) [Charcoal](./Charcoal.md) | 30 Min |
-| ![Revolver\_Ammunition\_icon.png](../assets/Revolver_Ammunition_icon.png) [Revolver Ammunition](./Revolver%20Ammunition.md) | - 1x![Bullet\_icon.png](../assets/Bullet_icon.png) [Bullet](./Bullet.md) / - 1x![Revolver\_Shell\_Casing\_icon.png](../assets/Revolver_Shell_Casing_icon.png) [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 0.01kg x![Can\_of\_Gunpowder\_icon.png](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 5 Min |
-| ![Rifle\_Ammunition\_icon.png](../assets/Rifle_Ammunition_icon.png) [Rifle Ammunition](./Rifle%20Ammunition.md) | - 1x![Bullet\_icon.png](../assets/Bullet_icon.png) [Bullet](./Bullet.md) / - 1x![Rifle\_Shell\_Casing\_icon.png](../assets/Rifle_Shell_Casing_icon.png) [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) / - 0.01kg x![Can\_of\_Gunpowder\_icon.png](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 5 Min |
-| ![Noisemaker\_icon.png](../assets/Noisemaker_icon.png) [Noisemaker](./Noisemaker.md) ([Survival Mode](./Survival%20Mode.md) only) | - 1x![Recycled\_Can\_icon.png](../assets/Recycled_Can_icon.png) [Recycled Can](./Recycled%20Can.md) / - 1x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 0.10kg x![Can\_of\_Gunpowder\_icon.png](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md) | 30 Min |
+Recipe
+
+Materials
+
+Time
+
+![Can\_of\_Gunpowder\_icon.png](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md)
+
+- 1x![Stump\_Remover\_icon.png](../assets/Stump_Remover_icon.png) [Stump Remover](./Stump%20Remover.md) / - 1x![Dusting\_Sulfur\_icon.png](../assets/Dusting_Sulfur_icon.png) [Dusting Sulfur](./Dusting%20Sulfur.md) / - 2x![Charcoal\_icon.png](../assets/Charcoal_icon.png) [Charcoal](./Charcoal.md)
+
+30 Min
+
+![Revolver\_Ammunition\_icon.png](../assets/Revolver_Ammunition_icon.png) [Revolver Ammunition](./Revolver%20Ammunition.md)
+
+- 1x![Bullet\_icon.png](../assets/Bullet_icon.png) [Bullet](./Bullet.md) / - 1x![Revolver\_Shell\_Casing\_icon.png](../assets/Revolver_Shell_Casing_icon.png) [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 0.01kg x![Can\_of\_Gunpowder\_icon.png](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md)
+
+5 Min
+
+![Rifle\_Ammunition\_icon.png](../assets/Rifle_Ammunition_icon.png) [Rifle Ammunition](./Rifle%20Ammunition.md)
+
+- 1x![Bullet\_icon.png](../assets/Bullet_icon.png) [Bullet](./Bullet.md) / - 1x![Rifle\_Shell\_Casing\_icon.png](../assets/Rifle_Shell_Casing_icon.png) [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) / - 0.01kg x![Can\_of\_Gunpowder\_icon.png](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md)
+
+5 Min
+
+![Noisemaker\_icon.png](../assets/Noisemaker_icon.png) [Noisemaker](./Noisemaker.md) ([Survival Mode](./Survival%20Mode.md) only)
+
+- 1x![Recycled\_Can\_icon.png](../assets/Recycled_Can_icon.png) [Recycled Can](./Recycled%20Can.md) / - 1x![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 0.10kg x![Can\_of\_Gunpowder\_icon.png](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md)
+
+30 Min
 
 ### [Ammunition Forge](./Ammunition%20Forge.md)
 
-| Recipe | Materials | Time |
-| --- | --- | --- |
-| 6x![Bullet\_icon.png](../assets/Bullet_icon.png) [Bullet](./Bullet.md) | 1x ![Scrap\_Lead\_icon.png](../assets/Scrap_Lead_icon.png) [Scrap Lead](./Scrap%20Lead.md) | 1 Hour |
+Recipe
+
+Materials
+
+Time
+
+6x![Bullet\_icon.png](../assets/Bullet_icon.png) [Bullet](./Bullet.md)
+
+1x ![Scrap\_Lead\_icon.png](../assets/Scrap_Lead_icon.png) [Scrap Lead](./Scrap%20Lead.md)
+
+1 Hour
 
 ### [Furniture Workbench](./Furniture%20Workbench.md)
 
-| Recipe | Ingredients | Time | Tools Needed |
-| --- | --- | --- | --- |
-| ![Square\_Table\_icon.png](../assets/Square_Table_icon.png) [Square Table](./Square%20Table.md) | 8x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 7 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Round\_Table\_icon.png](../assets/Round_Table_icon.png) [Round Table](./Round%20Table.md) | 12x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 9 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Rustic\_Table\_icon.png](../assets/Rustic_Table_icon.png) [Rustic Table](./Rustic%20Table.md) | 10x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 8 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Coffee\_Table\_icon.png](../assets/Coffee_Table_icon.png) [Coffee Table](./Coffee%20Table.md) | 6x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 4 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Rustic\_End\_Table\_icon.png](../assets/Rustic_End_Table_icon.png) [Rustic End Table](./Rustic%20End%20Table.md) | 6x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 6 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Rustic\_Chair\_icon.png](../assets/Rustic_Chair_icon.png) [Rustic Chair](./Rustic%20Chair.md) | 4x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 4 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Rustic\_Stool\_icon.png](../assets/Rustic_Stool_icon.png) [Rustic Stool](./Rustic%20Stool.md) | 4x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 2 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Rustic\_Bench\_icon.png](../assets/Rustic_Bench_icon.png) [Rustic Bench](./Rustic%20Bench.md) | 10x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 8 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Dresser\_icon.png](../assets/Dresser_icon.png) [Dresser](./Dresser.md) | 10x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 4x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 8 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Wide\_Dresser\_icon.png](../assets/Wide_Dresser_icon.png) [Wide Dresser](./Wide%20Dresser.md) | 16x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 6x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 11 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Rustic\_Shelf\_icon.png](../assets/Rustic_Shelf_icon.png) [Rustic Shelf](./Rustic%20Shelf.md) | 8x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 6 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Tall\_Rustic\_Shelf\_icon.png](../assets/Tall_Rustic_Shelf_icon.png) [Tall Rustic Shelf](./Tall%20Rustic%20Shelf.md) | 10x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 8 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Display\_Shelf\_icon.png](../assets/Display_Shelf_icon.png) [Display Shelf](./Display%20Shelf.md) | 12x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 10 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Rustic\_Closet\_icon.png](../assets/Rustic_Closet_icon.png) [Rustic Closet](./Rustic%20Closet.md) | 18x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 3x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) / 2x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 9 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Tall\_Rustic\_Closet\_icon.png](../assets/Tall_Rustic_Closet_icon.png) [Tall Rustic Closet](./Tall%20Rustic%20Closet.md) | 24x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) / 2x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 10 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Rustic\_Cupboard\_icon.png](../assets/Rustic_Cupboard_icon.png) [Rustic Cupboard](./Rustic%20Cupboard.md) | 10x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) / 1x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 8 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Rustic\_Storage\_Box\_icon.png](../assets/Rustic_Storage_Box_icon.png) [Rustic Storage Box](./Rustic%20Storage%20Box.md) | 8x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 6 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Rustic\_Storage\_Trunk\_icon.png](../assets/Rustic_Storage_Trunk_icon.png) [Rustic Storage Trunk](./Rustic%20Storage%20Trunk.md) | 9x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 4 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Mounted\_Coho\_Salmon\_icon.png](../assets/Mounted_Coho_Salmon_icon.png) [Mounted Coho Salmon](./Mounted%20Coho%20Salmon.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Coho\_Salmon\_(Raw)\_icon.png](../assets/Coho_Salmon_%28Raw%29_icon.png) [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) | 4 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Mounted\_Burbot\_icon.png](../assets/Mounted_Burbot_icon.png) [Mounted Burbot](./Mounted%20Burbot.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Burbot\_(Raw)\_icon.png](../assets/Burbot_%28Raw%29_icon.png) [Burbot (Raw)](./Burbot%20%28Raw%29.md) | 4 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Mounted\_Rockfish\_icon.png](../assets/Mounted_Rockfish_icon.png) [Mounted Rockfish](./Mounted%20Rockfish.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Rockfish\_(Raw)\_icon.png](../assets/Rockfish_%28Raw%29_icon.png) [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) | 4 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Mounted\_Goldeye\_icon.png](../assets/Mounted_Goldeye_icon.png) [Mounted Goldeye](./Mounted%20Goldeye.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Goldeye\_(Raw)\_icon.png](../assets/Goldeye_%28Raw%29_icon.png) [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) | 4 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Mounted\_Rainbow\_Trout\_icon.png](../assets/Mounted_Rainbow_Trout_icon.png) [Mounted Rainbow Trout](./Mounted%20Rainbow%20Trout.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Rainbow\_Trout\_(Raw)\_icon.png](../assets/Rainbow_Trout_%28Raw%29_icon.png) [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) | 4 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Mounted\_Red\_Irish\_Lord\_icon.png](../assets/Mounted_Red_Irish_Lord_icon.png) [Mounted Red Irish Lord](./Mounted%20Red%20Irish%20Lord.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Red\_Irish\_Lord\_(Raw)\_icon.png](../assets/Red_Irish_Lord_%28Raw%29_icon.png) [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) | 4 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Mounted\_Smallmouth\_Bass\_icon.png](../assets/Mounted_Smallmouth_Bass_icon.png) [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Smallmouth\_Bass\_(Raw)\_icon.png](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) | 4 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Mounted\_Lake\_Whitefish\_icon.png](../assets/Mounted_Lake_Whitefish_icon.png) [Mounted Lake Whitefish](./Mounted%20Lake%20Whitefish.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Lake\_Whitefish\_(Raw)\_icon.png](../assets/Lake_Whitefish_%28Raw%29_icon.png) [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) | 4 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Wide\_Display\_Shelf\_icon.png](../assets/Wide_Display_Shelf_icon.png) [Wide Display Shelf](./Wide%20Display%20Shelf.md) | 18x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 11 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Rustic\_Display\_Shelf\_icon.png](../assets/Rustic_Display_Shelf_icon.png) [Rustic Display Shelf](./Rustic%20Display%20Shelf.md) | 10x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 9 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Rustic\_Bed\_icon.png](../assets/Rustic_Bed_icon.png) [Rustic Bed](./Rustic%20Bed.md) | 10x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 12x ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 12 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Workbench\_icon.png](../assets/Workbench_icon.png) [Work Bench](./Work%20Bench.md) | 15x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 1x ![Workbench\_Vice\_icon.png](../assets/Workbench_Vice_icon.png) [Workbench Vice](./Workbench%20Vice.md) | 18 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Framed\_Photo\_icon.png](../assets/Framed_Photo_icon.png) [Framed Photo](./Framed%20Photo.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Camera\_icon.png](../assets/Camera_icon.png) [Camera](./Camera.md) Photo | 2 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Meat\_Curing\_Box\_icon.png](../assets/Meat_Curing_Box_icon.png) [Meat Curing Box](./Meat%20Curing%20Box.md) | 10x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 8.00kg x ![Salt\_icon.png](../assets/Salt_icon.png) [Salt](./Salt.md) | 6 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Framed\_Hockey\_Jersey\_icon.png](../assets/Framed_Hockey_Jersey_icon.png) [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | 2x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![Hockey\_Jersey\_icon.png](../assets/Hockey_Jersey_icon.png) [Hockey Jersey](./Hockey%20Jersey.md) | 4 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Quilted\_Bed\_icon.png](../assets/Quilted_Bed_icon.png) [Quilted Bed](./Quilted%20Bed.md) | 12x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 10x ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / 6x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / 16x ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | 20 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Hide\_Couch\_icon.png](../assets/Hide_Couch_icon.png) [Hide Couch](./Hide%20Couch.md) | 15x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x ![Cured\_Deer\_Hide\_icon.png](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) / 16x ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) / 5x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 16 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Hide\_Chair\_icon.png](../assets/Hide_Chair_icon.png) [Hide Chair ](./Hide%20Chair.md) | 8x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 2x ![Cured\_Deer\_Hide\_icon.png](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) / 8x ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) / 3x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 13 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
-| ![Bear\_Hide\_Bed\_icon.png](../assets/Bear_Hide_Bed_icon.png) [Bear Hide Bed](./Bear%20Hide%20Bed.md) | 18x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / 1x ![Cured\_Black\_Bear\_Hide\_icon.png](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / 16x ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | 24 Hours | [Furniture Workbench](./Furniture%20Workbench.md) |
+Recipe
+
+Ingredients
+
+Time
+
+Tools Needed
+
+![Square\_Table\_icon.png](../assets/Square_Table_icon.png) [Square Table](./Square%20Table.md)
+
+8x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
+
+7 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Round\_Table\_icon.png](../assets/Round_Table_icon.png) [Round Table](./Round%20Table.md)
+
+12x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
+
+9 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Rustic\_Table\_icon.png](../assets/Rustic_Table_icon.png) [Rustic Table](./Rustic%20Table.md)
+
+10x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
+
+8 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Coffee\_Table\_icon.png](../assets/Coffee_Table_icon.png) [Coffee Table](./Coffee%20Table.md)
+
+6x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
+
+4 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Rustic\_End\_Table\_icon.png](../assets/Rustic_End_Table_icon.png) [Rustic End Table](./Rustic%20End%20Table.md)
+
+6x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
+
+6 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Rustic\_Chair\_icon.png](../assets/Rustic_Chair_icon.png) [Rustic Chair](./Rustic%20Chair.md)
+
+4x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
+
+4 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Rustic\_Stool\_icon.png](../assets/Rustic_Stool_icon.png) [Rustic Stool](./Rustic%20Stool.md)
+
+4x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
+
+2 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Rustic\_Bench\_icon.png](../assets/Rustic_Bench_icon.png) [Rustic Bench](./Rustic%20Bench.md)
+
+10x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
+
+8 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Dresser\_icon.png](../assets/Dresser_icon.png) [Dresser](./Dresser.md)
+
+10x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 4x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
+
+8 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Wide\_Dresser\_icon.png](../assets/Wide_Dresser_icon.png) [Wide Dresser](./Wide%20Dresser.md)
+
+16x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 6x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
+
+11 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Rustic\_Shelf\_icon.png](../assets/Rustic_Shelf_icon.png) [Rustic Shelf](./Rustic%20Shelf.md)
+
+8x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+
+6 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Tall\_Rustic\_Shelf\_icon.png](../assets/Tall_Rustic_Shelf_icon.png) [Tall Rustic Shelf](./Tall%20Rustic%20Shelf.md)
+
+10x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+
+8 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Display\_Shelf\_icon.png](../assets/Display_Shelf_icon.png) [Display Shelf](./Display%20Shelf.md)
+
+12x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
+
+10 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Rustic\_Closet\_icon.png](../assets/Rustic_Closet_icon.png) [Rustic Closet](./Rustic%20Closet.md)
+
+18x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 3x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) / 2x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
+
+9 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Tall\_Rustic\_Closet\_icon.png](../assets/Tall_Rustic_Closet_icon.png) [Tall Rustic Closet](./Tall%20Rustic%20Closet.md)
+
+24x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) / 2x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
+
+10 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Rustic\_Cupboard\_icon.png](../assets/Rustic_Cupboard_icon.png) [Rustic Cupboard](./Rustic%20Cupboard.md)
+
+10x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) / 1x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
+
+8 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Rustic\_Storage\_Box\_icon.png](../assets/Rustic_Storage_Box_icon.png) [Rustic Storage Box](./Rustic%20Storage%20Box.md)
+
+8x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+
+6 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Rustic\_Storage\_Trunk\_icon.png](../assets/Rustic_Storage_Trunk_icon.png) [Rustic Storage Trunk](./Rustic%20Storage%20Trunk.md)
+
+9x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
+
+4 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Mounted\_Coho\_Salmon\_icon.png](../assets/Mounted_Coho_Salmon_icon.png) [Mounted Coho Salmon](./Mounted%20Coho%20Salmon.md)
+
+1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Coho\_Salmon\_(Raw)\_icon.png](../assets/Coho_Salmon_%28Raw%29_icon.png) [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md)
+
+4 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Mounted\_Burbot\_icon.png](../assets/Mounted_Burbot_icon.png) [Mounted Burbot](./Mounted%20Burbot.md)
+
+1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Burbot\_(Raw)\_icon.png](../assets/Burbot_%28Raw%29_icon.png) [Burbot (Raw)](./Burbot%20%28Raw%29.md)
+
+4 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Mounted\_Rockfish\_icon.png](../assets/Mounted_Rockfish_icon.png) [Mounted Rockfish](./Mounted%20Rockfish.md)
+
+1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Rockfish\_(Raw)\_icon.png](../assets/Rockfish_%28Raw%29_icon.png) [Rockfish (Raw)](./Rockfish%20%28Raw%29.md)
+
+4 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Mounted\_Goldeye\_icon.png](../assets/Mounted_Goldeye_icon.png) [Mounted Goldeye](./Mounted%20Goldeye.md)
+
+1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Goldeye\_(Raw)\_icon.png](../assets/Goldeye_%28Raw%29_icon.png) [Goldeye (Raw)](./Goldeye%20%28Raw%29.md)
+
+4 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Mounted\_Rainbow\_Trout\_icon.png](../assets/Mounted_Rainbow_Trout_icon.png) [Mounted Rainbow Trout](./Mounted%20Rainbow%20Trout.md)
+
+1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Rainbow\_Trout\_(Raw)\_icon.png](../assets/Rainbow_Trout_%28Raw%29_icon.png) [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md)
+
+4 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Mounted\_Red\_Irish\_Lord\_icon.png](../assets/Mounted_Red_Irish_Lord_icon.png) [Mounted Red Irish Lord](./Mounted%20Red%20Irish%20Lord.md)
+
+1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Red\_Irish\_Lord\_(Raw)\_icon.png](../assets/Red_Irish_Lord_%28Raw%29_icon.png) [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md)
+
+4 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Mounted\_Smallmouth\_Bass\_icon.png](../assets/Mounted_Smallmouth_Bass_icon.png) [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md)
+
+1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Smallmouth\_Bass\_(Raw)\_icon.png](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md)
+
+4 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Mounted\_Lake\_Whitefish\_icon.png](../assets/Mounted_Lake_Whitefish_icon.png) [Mounted Lake Whitefish](./Mounted%20Lake%20Whitefish.md)
+
+1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Lake\_Whitefish\_(Raw)\_icon.png](../assets/Lake_Whitefish_%28Raw%29_icon.png) [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md)
+
+4 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Wide\_Display\_Shelf\_icon.png](../assets/Wide_Display_Shelf_icon.png) [Wide Display Shelf](./Wide%20Display%20Shelf.md)
+
+18x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
+
+11 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Rustic\_Display\_Shelf\_icon.png](../assets/Rustic_Display_Shelf_icon.png) [Rustic Display Shelf](./Rustic%20Display%20Shelf.md)
+
+10x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
+
+9 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Rustic\_Bed\_icon.png](../assets/Rustic_Bed_icon.png) [Rustic Bed](./Rustic%20Bed.md)
+
+10x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 12x ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+12 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Workbench\_icon.png](../assets/Workbench_icon.png) [Work Bench](./Work%20Bench.md)
+
+15x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 1x ![Workbench\_Vice\_icon.png](../assets/Workbench_Vice_icon.png) [Workbench Vice](./Workbench%20Vice.md)
+
+18 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Framed\_Photo\_icon.png](../assets/Framed_Photo_icon.png) [Framed Photo](./Framed%20Photo.md)
+
+1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Camera\_icon.png](../assets/Camera_icon.png) [Camera](./Camera.md) Photo
+
+2 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Meat\_Curing\_Box\_icon.png](../assets/Meat_Curing_Box_icon.png) [Meat Curing Box](./Meat%20Curing%20Box.md)
+
+10x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 8.00kg x ![Salt\_icon.png](../assets/Salt_icon.png) [Salt](./Salt.md)
+
+6 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Framed\_Hockey\_Jersey\_icon.png](../assets/Framed_Hockey_Jersey_icon.png) [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md)
+
+2x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![Hockey\_Jersey\_icon.png](../assets/Hockey_Jersey_icon.png) [Hockey Jersey](./Hockey%20Jersey.md)
+
+4 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Quilted\_Bed\_icon.png](../assets/Quilted_Bed_icon.png) [Quilted Bed](./Quilted%20Bed.md)
+
+12x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 10x ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / 6x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / 16x ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+20 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Hide\_Couch\_icon.png](../assets/Hide_Couch_icon.png) [Hide Couch](./Hide%20Couch.md)
+
+15x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x ![Cured\_Deer\_Hide\_icon.png](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) / 16x ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) / 5x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+16 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Hide\_Chair\_icon.png](../assets/Hide_Chair_icon.png) [Hide Chair ](./Hide%20Chair.md)
+
+8x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 2x ![Cured\_Deer\_Hide\_icon.png](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) / 8x ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) / 3x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+13 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)
+
+![Bear\_Hide\_Bed\_icon.png](../assets/Bear_Hide_Bed_icon.png) [Bear Hide Bed](./Bear%20Hide%20Bed.md)
+
+18x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / 1x ![Cured\_Black\_Bear\_Hide\_icon.png](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / 16x ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+24 Hours
+
+[Furniture Workbench](./Furniture%20Workbench.md)

@@ -4,19 +4,27 @@
 
 **Well Fed**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Well_Fed_icon.png) / _Well\_Fed\_icon.png_ |
-| Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41) |
-| Update | 1.41 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Caused By | Survive 72 hours with Calorie Store above 0 |
-| Effect | Positive |
-| Type | Benefit |
-| Benefit Duration | Until Calorie Store becomes 0 Acquiring [Chemical Poisoning](./Chemical%20Poisoning.md) |
+![](../assets/Well_Fed_icon.png)
 
-> “__You've managed to prevent starvation for 72 consecutive hours. You're full of energy and can carry more gear. You're also better able to face the physical trials ahead -- your Condition is increased as a result.__”
+_Well\_Fed\_icon.png_
+
+**Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)
+
+**Update:** 1.41
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Caused By:** Survive 72 hours with Calorie Store above 0
+
+**Effect:** Positive
+
+**Type:** Benefit
+
+**Benefit Duration:** Until Calorie Store becomes 0 Acquiring [Chemical Poisoning](./Chemical%20Poisoning.md)
+
+> “**You've managed to prevent starvation for 72 consecutive hours. You're full of energy and can carry more gear. You're also better able to face the physical trials ahead -- your Condition is increased as a result.**”
 >
 > — In-game description
 

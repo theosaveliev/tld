@@ -11,16 +11,21 @@
 
 **Dusting Sulfur**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Dusting_Sulfur_icon.png) / _Dusting\_Sulfur\_icon.png_ |
-| **General** |  |
-| Item Type | Material\|- |
-| Renewable | Yes (very rare [Beachcombing](./Beachcombing.md)) |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
+![](../assets/Dusting_Sulfur_icon.png)
 
-> “__A chemical compound sometimes used as a pesticide. Could be useful when crafting Ammunition.__”
+_Dusting\_Sulfur\_icon.png_
+
+**General**
+
+**Item Type:** Material\|-
+
+**Renewable:** Yes (very rare [Beachcombing](./Beachcombing.md))
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+> “**A chemical compound sometimes used as a pesticide. Could be useful when crafting Ammunition.**”
 >
 > — In-game description
 

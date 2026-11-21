@@ -11,22 +11,33 @@
 
 **Anxiety**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Anxiety_icon.png) / _Anxiety\_icon.png_ |
-| Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86) |
-| Update | 1.86 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Caused By | Being within 200-51m from the Darkwalker |
-| Effect | Negative |
-| Type | Risk |
-| Affliction Duration | Until Treated |
-| **Treatment** |  |
-| Treatment | Move more than 200m away from the Darkwalker |
-| Recovery Time | Instant |
+![](../assets/Anxiety_icon.png)
 
-> “__If this is a nightmare, I wanna wake up!__”
+_Anxiety\_icon.png_
+
+**Release:** [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86)
+
+**Update:** 1.86
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Caused By:** Being within 200-51m from the Darkwalker
+
+**Effect:** Negative
+
+**Type:** Risk
+
+**Affliction Duration:** Until Treated
+
+**Treatment**
+
+**Treatment:** Move more than 200m away from the Darkwalker
+
+**Recovery Time:** Instant
+
+> “**If this is a nightmare, I wanna wake up!**”
 
 **Anxiety** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of two unique Afflictions found only within the [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) [Challenge](./Challenge.md).
 

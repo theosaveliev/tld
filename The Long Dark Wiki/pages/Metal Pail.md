@@ -4,11 +4,30 @@
 
 **Metal Pail**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/MetalPail.jpg) / _MetalPail.jpg_ |
-| **General** |  |
-| Item Type | Item |
+![](../assets/MetalPail.jpg)
 
-| Object | Scrap Metal / Time / Calories / Condition (of Hacksaw) |
-| Metal Pail | 1 / 15 minutes / 45 / -5% |
+_MetalPail.jpg_
+
+**General**
+
+**Item Type:** Item
+
+Object
+
+Scrap Metal
+
+Time
+
+Calories
+
+Condition (of Hacksaw)
+
+Metal Pail
+
+1
+
+15 minutes
+
+45
+
+-5%

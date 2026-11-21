@@ -4,24 +4,37 @@
 
 **Running Shoes**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Running_Shoes_icon.png) / _Running\_Shoes\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| Clothing Slot | Outer feet |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)1% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 2 × [Cured leather](./Cured%20Leather.md) / 75 minutes |
-| Repair | 1 × [Cured leather](./Cured%20Leather.md), 1 [Cloth](./Cloth.md) / 90 minutes / 20% condition |
+![](../assets/Running_Shoes_icon.png)
 
-> “__Light nylon shoes designed to feel weightless. Better than running around barefoot but ... not much.__”
+_Running\_Shoes\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
+
+**Clothing Slot:** Outer feet
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)1%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 2 × [Cured leather](./Cured%20Leather.md) / 75 minutes
+
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md), 1 [Cloth](./Cloth.md) / 90 minutes / 20% condition
+
+> “**Light nylon shoes designed to feel weightless. Better than running around barefoot but ... not much.**”
 >
 > — In-game description
 

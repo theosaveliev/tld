@@ -17,30 +17,45 @@
 
 **Grey Mother**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Grey_Mother.png) / _Grey\_Mother.png_ |
-| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00) |
-| Date | 1 August 2017 |
-| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| Mission | [The Grey Mother](./The%20Grey%20Mother.md) |
-| Location(s) | [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) |
-| **Biographical Information** |  |
-| Age | 70's - 80's |
-| Status | Deceased |
-| Hometown | [Milton](./Milton.md) |
-| Relatives | **•** [Martin Barker](./Martin%20Barker.md) (ex-Husband) / **•** [Lilith Barker](./Lilith%20Barker.md) (Daughter) |
-| **Physical Information** |  |
-| Hair | Grey |
-| **Game Information** |  |
-| Equipment | [Hunting Rifle](./Hunting%20Rifle.md) |
-| Voiced by | [Gwynyth Walsh](wikipedia:Gwynyth_Walsh) |
+![](../assets/Grey_Mother.png)
 
-> “__An elderly blind woman, and possibly the last remaining survivor in Milton. She seems to know something about where Astrid might have gone.__”
+_Grey\_Mother.png_
+
+**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
+
+**Date:** 1 August 2017
+
+**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
+
+**Mission:** [The Grey Mother](./The%20Grey%20Mother.md)
+
+**Location(s):** [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md)
+
+**Biographical Information**
+
+**Age:** 70's - 80's
+
+**Status:** Deceased
+
+**Hometown:** [Milton](./Milton.md)
+
+**Relatives:** **•** [Martin Barker](./Martin%20Barker.md) (ex-Husband) / **•** [Lilith Barker](./Lilith%20Barker.md) (Daughter)
+
+**Physical Information**
+
+**Hair:** Grey
+
+**Game Information**
+
+**Equipment:** [Hunting Rifle](./Hunting%20Rifle.md)
+
+**Voiced by:** [Gwynyth Walsh](wikipedia:Gwynyth_Walsh)
+
+> “**An elderly blind woman, and possibly the last remaining survivor in Milton. She seems to know something about where Astrid might have gone.**”
 >
 > — In-game description
 
-> “__Over the years...I have learned that most people disappoint you, given the chance.__”
+> “**Over the years...I have learned that most people disappoint you, given the chance.**”
 >
 > — Grey Mother
 
@@ -64,7 +79,7 @@ The two of them make a deal after Mackenzie gets enough food and fuel for the ol
 
 ### [Paradise Lost](./Paradise%20Lost.md)
 
-> “__My journey is finished. But yours is only beginning. Go, and don't think of Grey Mother, or Milton. We're of the old world now. The new world is for the strong to survive.__”
+> “**My journey is finished. But yours is only beginning. Go, and don't think of Grey Mother, or Milton. We're of the old world now. The new world is for the strong to survive.**”
 
 Before Mackeznie leaves Milton, he has a chance to right a wrong from the past in an optional side quest, [One Last Thing](./One%20Last%20Thing.md), where he places the pearls on Lilith's tomb. Doing so leaves Grey Mother at peace, as she is content to sit and think of her Lily, urging Mackenzie to forget about about old Grey Mother and to find his friend.
 

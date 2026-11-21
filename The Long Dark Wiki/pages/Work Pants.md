@@ -4,23 +4,35 @@
 
 **Work Pants**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Work_Pants_icon.png) / _Work\_Pants\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer legs |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.5 °C(2.7 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)10% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)8% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-3% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 30 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 30% condition |
+![](../assets/Work_Pants_icon.png)
 
-> “__A heavier duty type of jean, with some reinforced patches. Worn by construction workers the world round.__”
+_Work\_Pants\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Outer legs
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.5 °C(2.7 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)10%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)8%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-3%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 30 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 30% condition
+
+> “**A heavier duty type of jean, with some reinforced patches. Worn by construction workers the world round.**”
 >
 > — In-game description
 

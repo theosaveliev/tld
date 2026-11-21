@@ -192,7 +192,7 @@ Dangerous wildlife is just as the name implies: the average predator density in 
 
 ## Safe House Customization
 
-> “__Move furniture and decorative props around your favourite locations in the game. Repair broken items and clean up the mess. Craft items from an entirely new series of hand-made furniture and decorative props. Collect and move every framed pancake photo in the game to one place. Make pretty much any valid interior in the game your personal Safehouse with this powerful system.__”
+> “**Move furniture and decorative props around your favourite locations in the game. Repair broken items and clean up the mess. Craft items from an entirely new series of hand-made furniture and decorative props. Collect and move every framed pancake photo in the game to one place. Make pretty much any valid interior in the game your personal Safehouse with this powerful system.**”
 >
 > — Hinterland Description
 

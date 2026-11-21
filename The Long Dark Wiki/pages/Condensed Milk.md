@@ -11,26 +11,53 @@
 
 **Condensed Milk**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Sealed](../assets/Condensed_Milk_icon.png) / _Sealed_ / ![Opened](../assets/Condensed_Milk_%28Opened%29_icon.png) / _Opened_ | 250px\]\] |
-| ![Sealed](../assets/Condensed_Milk_icon.png) / _Sealed_ | ![Opened](../assets/Condensed_Milk_%28Opened%29_icon.png) / _Opened_ |
-| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- / Equipable |
-| Stackable | No |
-| Examine | Sweetened, thickened milk in a can. Keeps forever. |
-| **Values** |  |
-| Calories | 750 kcal |
-| Hydration | 25% |
-| [Vitamin C](./Scurvy.md) | Minor (12%) |
-| Weight | 0.25 kg (0.55 lbs) |
-| **Decay Rate** |  |
-| Inside | 0.500% per day |
-| Outside | 2.500% per day |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_CondensedMilk |
+\[\[File: / ![Sealed](../assets/Condensed_Milk_icon.png) / _Sealed_ / ![Opened](../assets/Condensed_Milk_%28Opened%29_icon.png) / _Opened_
+
+250px\]\]
+
+![Sealed](../assets/Condensed_Milk_icon.png)
+
+_Sealed_
+
+![Opened](../assets/Condensed_Milk_%28Opened%29_icon.png)
+
+_Opened_
+
+**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+
+**Wintermute:** No
+
+**Properties**
+
+Item type
+
+[Food And Drink](./Food%20And%20Drink.md)\|-
+
+Equipable
+
+**Stackable:** No
+
+**Examine:** Sweetened, thickened milk in a can. Keeps forever.
+
+**Values**
+
+**Calories:** 750 kcal
+
+**Hydration:** 25%
+
+**[Vitamin C](./Scurvy.md):** Minor (12%)
+
+**Weight:** 0.25 kg (0.55 lbs)
+
+**Decay Rate**
+
+**Inside:** 0.500% per day
+
+**Outside:** 2.500% per day
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_CondensedMilk
 
 **Condensed Milk** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 

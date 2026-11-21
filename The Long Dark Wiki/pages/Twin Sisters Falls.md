@@ -4,12 +4,20 @@
 
 **Twin Sisters Falls**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/TwinSisterFallsRainbow.png) / _TwinSisterFallsRainbow.png_ |
-| **Location** |  |
-|  | ![](../assets/Twin_Sisters_Falls_Location.png) / _Twin\_Sisters\_Falls\_Location.png_ |
-| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
-| Description | Two waterfalls. |
-| **General** |  |
-| Type | Landmark\|- |
+![](../assets/TwinSisterFallsRainbow.png)
+
+_TwinSisterFallsRainbow.png_
+
+**Location**
+
+![](../assets/Twin_Sisters_Falls_Location.png)
+
+_Twin\_Sisters\_Falls\_Location.png_
+
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+
+**Description:** Two waterfalls.
+
+**General**
+
+**Type:** Landmark\|-

@@ -4,10 +4,11 @@
 
 **Tasting Menu**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Tasting_Menu_icon.png) / _Tasting\_Menu\_icon.png_ |
-| Description | Find and Cook 9 Unique Recipes. |
+![](../assets/Tasting_Menu_icon.png)
+
+_Tasting\_Menu\_icon.png_
+
+**Description:** Find and Cook 9 Unique Recipes.
 
 **Tasting Menu** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

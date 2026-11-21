@@ -14,15 +14,19 @@
 
 **Hank's Hatch**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Hank%27s_prepper_cache.jpg) / _Hank's\_prepper\_cache.jpg_ |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
-| Current | Hank's Hatch |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) |
-| Characters | Hank |
+![](../assets/Hank%27s_prepper_cache.jpg)
 
-> “__Hank, a long-time prepper and denizen of Great Bear Island, has a secret supply cache. Find it and take what you need.__”
+_Hank's\_prepper\_cache.jpg_
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+
+**Current:** Hank's Hatch
+
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)
+
+**Characters:** Hank
+
+> “**Hank, a long-time prepper and denizen of Great Bear Island, has a secret supply cache. Find it and take what you need.**”
 >
 > — In-game description
 

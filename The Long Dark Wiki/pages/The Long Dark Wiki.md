@@ -25,12 +25,65 @@ _Fury, then Silence\|link=Episode\_4:\_Fury,\_then\_Silence\|linktext=Fury, then
 
 {| style="border: 2px solid #0A0B11;" align="center" width="100%" ! colspan="3" align="center" style="background-color: #252434; padding:2px; font-size:16px;" |Content Portals |}
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
-| --- | --- | --- | --- | --- |
-| ![](../assets/Regions.png) / _Regions.png_ | ![](../assets/Locations.png) / _Locations.png_ | ![](../assets/Afflictions.png) / _Afflictions.png_ | ![](../assets/New_characters.png) / _New\_characters.png_ | ![](../assets/New_wildlife.png) / _New\_wildlife.png_ |
-| [Regions](./Region.md) | [Locations](./Locations.md) | [Afflictions](./Afflictions.md) | [Characters](./Characters.md) | [Wildlife](./Wildlife.md) |
-| ![](../assets/Food.png) / _Food.png_ | ![](../assets/Clothing.png) / _Clothing.png_ | ![](../assets/First_Aid.png) / _First\_Aid.png_ | ![](../assets/Tools.png) / _Tools.png_ | ![](../assets/Materials2.png) / _Materials2.png_ |
-| [Food and Drink](./Food%20And%20Drink.md) | [Clothing](./Clothing.md) | [First Aid](./First%20Aid.md) | [Tools](./Tools.md) | [Materials](./Materials.md) |
+![](../assets/Regions.png)
+
+_Regions.png_
+
+![](../assets/Locations.png)
+
+_Locations.png_
+
+![](../assets/Afflictions.png)
+
+_Afflictions.png_
+
+![](../assets/New_characters.png)
+
+_New\_characters.png_
+
+![](../assets/New_wildlife.png)
+
+_New\_wildlife.png_
+
+[Regions](./Region.md)
+
+[Locations](./Locations.md)
+
+[Afflictions](./Afflictions.md)
+
+[Characters](./Characters.md)
+
+[Wildlife](./Wildlife.md)
+
+![](../assets/Food.png)
+
+_Food.png_
+
+![](../assets/Clothing.png)
+
+_Clothing.png_
+
+![](../assets/First_Aid.png)
+
+_First\_Aid.png_
+
+![](../assets/Tools.png)
+
+_Tools.png_
+
+![](../assets/Materials2.png)
+
+_Materials2.png_
+
+[Food and Drink](./Food%20And%20Drink.md)
+
+[Clothing](./Clothing.md)
+
+[First Aid](./First%20Aid.md)
+
+[Tools](./Tools.md)
+
+[Materials](./Materials.md)
 
 {| style="border: 2px solid #0A0B11;" align="center" width="100%" ! colspan="3" align="center" style="background-color: #252434; padding:2px; font-size:16px;" |Featured Videos |}
 
@@ -114,5 +167,3 @@ _screen\_0c9be33c-5478-48fa-8fad-7daf2868ec88\_hi.png_
 _screen\_933e8360-de4c-4510-aba9-c2ee35ecd37f\_hi.png_
 
 &lt;mainpage-endcolumn /&gt;
-
-[ru:](ru:) [fr:](fr:) [es:](es:)

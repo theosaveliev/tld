@@ -6,7 +6,7 @@
 
 _Voyageur\_icon.png_
 
-> “__Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.__”
+> “**Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.**”
 
 **Voyageur** is the 2nd [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. It is the standard "normal" difficulty setting.
 

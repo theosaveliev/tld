@@ -4,24 +4,37 @@
 
 **Sports Socks**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Sports_Socks_icon.png) / _Sports\_Socks\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| Clothing Slot | Inner feet |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)0.25 °C(0.5 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.0 °C(0 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)0% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 15 minutes / 75% condition |
+![](../assets/Sports_Socks_icon.png)
 
-> “__Thin cotton socks. Not very warm and useless when wet.__”
+_Sports\_Socks\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
+
+**Clothing Slot:** Inner feet
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0.25 °C(0.5 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.0 °C(0 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)0%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 15 minutes / 75% condition
+
+> “**Thin cotton socks. Not very warm and useless when wet.**”
 >
 > — In-game description
 

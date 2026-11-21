@@ -20,15 +20,32 @@
 - [Derelict Siding](#derelict-siding)
 - [Trivia](#trivia)
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
+![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-| ![](../assets/Steam_Loco_idle_1.png) / _Steam\_Loco\_idle\_1.png_ |  |  |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |  |
-| ![](../assets/No_picture.png) / _No\_picture.png_ |  |  |
-| ![](../assets/Railway_In-Game_Map.png) / _Railway\_In-Game\_Map.png_ |  |  |
-| **Details** |  |  |
-| Description | A section of isolated railway running from a southern maintenance yard near Perseverance Mills all the way to a SAR station on the northern coast. |  |
-| Connecting Regions | [Perseverance Mills](./Perseverance%20Mills.md) (unused) |  |
-| Characters | [Heller](./Heller.md) [Astrid Greenwood](./Astrid%20Greenwood.md) |  |
-| Date Added | 31 March 2026 |  |
+_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
+
+**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
+
+![](../assets/Steam_Loco_idle_1.png)
+
+_Steam\_Loco\_idle\_1.png_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/No_picture.png)
+
+_No\_picture.png_
+
+![](../assets/Railway_In-Game_Map.png)
+
+_Railway\_In-Game\_Map.png_
+
+**Details**
+
+**Description:** A section of isolated railway running from a southern maintenance yard near Perseverance Mills all the way to a SAR station on the northern coast.
+
+**Connecting Regions:** [Perseverance Mills](./Perseverance%20Mills.md) (unused)
+
+**Characters:** [Heller](./Heller.md) [Astrid Greenwood](./Astrid%20Greenwood.md)
+
+**Date Added:** 31 March 2026

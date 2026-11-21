@@ -15,13 +15,17 @@
 
 **A Riddle Among the Shadows**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Forest_Talker_Letter.jpg) / _Forest\_Talker\_Letter.jpg_ |
-| Episode |  |
-| **Missions** |  |
-| Current | A Riddle Among the Shadows |
-| Region | [Blackrock](./Blackrock.md) |
+![](../assets/Forest_Talker_Letter.jpg)
+
+_Forest\_Talker\_Letter.jpg_
+
+Episode
+
+**Missions**
+
+**Current:** A Riddle Among the Shadows
+
+**Region:** [Blackrock](./Blackrock.md)
 
 This quest corresponds to a cache locked behind a combination lock found on Floor 1 of the [Last Prospect](./Last%20Prospect.md) mine near the entrance and near a [Receiver](./Receiver.md). The quest begins after picking up all 3 Forest Talker notes in the mine. You will get a document called "[Forest Talker Letter](./Forest%20Talker%20Letter.md)."
 

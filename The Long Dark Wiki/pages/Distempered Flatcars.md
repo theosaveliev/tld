@@ -4,12 +4,20 @@
 
 **Distempered Flatcars**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Distempered_Flatcars_.jpg) / _Distempered\_Flatcars\_.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Distempered_Flatcars_Location.png) / _Distempered\_Flatcars\_Location.png_ |
-| Region | [Transfer Pass](./Transfer%20Pass.md)\|- |
-| Description | several derailed flatcars loaded with logs. |
-| **General** |  |
-| Type | Landmark\|- |
+![](../assets/Distempered_Flatcars_.jpg)
+
+_Distempered\_Flatcars\_.jpg_
+
+**Location**
+
+![](../assets/Distempered_Flatcars_Location.png)
+
+_Distempered\_Flatcars\_Location.png_
+
+**Region:** [Transfer Pass](./Transfer%20Pass.md)\|-
+
+**Description:** several derailed flatcars loaded with logs.
+
+**General**
+
+**Type:** Landmark\|-

@@ -4,10 +4,16 @@
 
 **Welkin's Window**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Welkin%27s_Window.png) / _Welkin's\_Window.png_ |
-| **Location** |  |
-|  | ![](../assets/Welkin%27s_Window_Location.png) / _Welkin's\_Window\_Location.png_ |
-| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
-| Type | Cave\|- |
+![](../assets/Welkin%27s_Window.png)
+
+_Welkin's\_Window.png_
+
+**Location**
+
+![](../assets/Welkin%27s_Window_Location.png)
+
+_Welkin's\_Window\_Location.png_
+
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+
+**Type:** Cave\|-

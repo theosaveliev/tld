@@ -4,10 +4,16 @@
 
 **Max's Last Stand**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Max%27s_last_stand.jpg) / _Max's\_last\_stand.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Max%27s_Last_Stand_Location.png) / _Max's\_Last\_Stand\_Location.png_ |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
-| Type | Outdoors\|- |
+![](../assets/Max%27s_last_stand.jpg)
+
+_Max's\_last\_stand.jpg_
+
+**Location**
+
+![](../assets/Max%27s_Last_Stand_Location.png)
+
+_Max's\_Last\_Stand\_Location.png_
+
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+
+**Type:** Outdoors\|-

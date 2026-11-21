@@ -4,10 +4,11 @@
 
 **Too Greedily, too Deep**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Too_Greedily%2C_too_Deep_icon.png) / _Too\_Greedily,\_too\_Deep\_icon.png_ |
-| Description | Survive 25 consecutive days inside the Langston Mine. |
+![](../assets/Too_Greedily%2C_too_Deep_icon.png)
+
+_Too\_Greedily,\_too\_Deep\_icon.png_
+
+**Description:** Survive 25 consecutive days inside the Langston Mine.
 
 **Too Greedily, too Deep** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

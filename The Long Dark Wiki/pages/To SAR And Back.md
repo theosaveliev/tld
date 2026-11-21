@@ -4,18 +4,25 @@
 
 **To SAR And Back**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Missions_story_ep5_ToSARandBack.png) / _Missions\_story\_ep5\_ToSARandBack.png_ |
-| Episode |  |
-| **Missions** |  |
-| Previous | [High Energy](./High%20Energy.md) |
-| Current | To SAR And Back |
-| Next | [Conflagration](./Conflagration.md) |
-| Region | [Railway](./Railway.md) |
-| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) / [Mathis](./Mathis.md) / [Jane Yang](./Jane%20Yang.md) / [Donner](./Donner.md) / [Heller](./Heller.md) / [Vachon](./Vachon.md) / [Jeremiah](./Jeremiah.md) / [Molly](./Molly.md) |
+![](../assets/Missions_story_ep5_ToSARandBack.png)
 
-> “__Save Donner to save the townsfolk.__”
+_Missions\_story\_ep5\_ToSARandBack.png_
+
+Episode
+
+**Missions**
+
+**Previous:** [High Energy](./High%20Energy.md)
+
+**Current:** To SAR And Back
+
+**Next:** [Conflagration](./Conflagration.md)
+
+**Region:** [Railway](./Railway.md)
+
+**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) / [Mathis](./Mathis.md) / [Jane Yang](./Jane%20Yang.md) / [Donner](./Donner.md) / [Heller](./Heller.md) / [Vachon](./Vachon.md) / [Jeremiah](./Jeremiah.md) / [Molly](./Molly.md)
+
+> “**Save Donner to save the townsfolk.**”
 
 **To SAR And Back** is the only mission of Part Three: Do No Harm in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 

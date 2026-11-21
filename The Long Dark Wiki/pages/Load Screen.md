@@ -11,7 +11,7 @@
 - [Trivia](#trivia)
 - [Notes](#notes)
 
-**Spoiler Warning:** __This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+**Spoiler Warning:** **This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 In The Long Dark, whenever you go into a building, cave or other transition, a loading screen is displayed. Loading screens can have several variations. They will each have a background, a little tip/lore box, and a loading animation. Below are all the variations of the load screen.
 

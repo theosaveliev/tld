@@ -4,21 +4,31 @@
 
 **Improved Rest**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Improved_Rest_icon.png) / _Improved\_Rest\_icon.png_ |
-| Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181) |
-| Update | 0.181 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Caused By | Consume [Food And Drink](./Food%20And%20Drink.md) |
-| Effect | Positive |
-| Type | Benefit |
-| Benefit Duration | 3-6 Hours |
-| **Advanced Data** |  |
-| Item Key | ConditionRestBuff |
+![](../assets/Improved_Rest_icon.png)
 
-> “__This will help you Rest more deeply. You'll recover more Condition per hour of Rest.__”
+_Improved\_Rest\_icon.png_
+
+**Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181)
+
+**Update:** 0.181
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Caused By:** Consume [Food And Drink](./Food%20And%20Drink.md)
+
+**Effect:** Positive
+
+**Type:** Benefit
+
+**Benefit Duration:** 3-6 Hours
+
+**Advanced Data**
+
+**Item Key:** ConditionRestBuff
+
+> “**This will help you Rest more deeply. You'll recover more Condition per hour of Rest.**”
 >
 > — In-game Description
 
@@ -28,16 +38,71 @@
 
 Improved Rest is received when consuming any of the following items:
 
-|  | Food and Drink | Duration |
-| --- | --- | --- |
-| ![](../assets/Cup_of_Herbal_Tea_icon.png) / _Cup\_of\_Herbal\_Tea\_icon.png_ | [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | 6 hours |
-| ![](../assets/Stalker%27s_Pie_icon.png) / _Stalker's\_Pie\_icon.png_ | [Stalker's Pie](./Stalker%27s%20Pie.md) | 6 hours |
-| ![](../assets/Ptarmigan_Stew_icon.png) / _Ptarmigan\_Stew\_icon.png_ | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | 3 hours |
-| ![](../assets/Ranger_Stew_icon.png) / _Ranger\_Stew\_icon.png_ | [Ranger Stew](./Ranger%20Stew.md) | 3 hours |
-| ![](../assets/Rabbit_Stew_icon.png) / _Rabbit\_Stew\_icon.png_ | [Rabbit Stew](./Rabbit%20Stew.md) | 3 hours |
-| ![](../assets/Thomson_Family_Stew_icon.png) / _Thomson\_Family\_Stew\_icon.png_ | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | 3 hours |
-| ![](../assets/Trout_Stew_icon.png) / _Trout\_Stew\_icon.png_ | [Trout Stew](./Trout%20Stew.md) | 3 hours |
-| ![](../assets/Venison_Stew_icon.png) / _Venison\_Stew\_icon.png_ | [Venison Stew](./Venison%20Stew.md) | 3 hours |
+**Food and Drink:** Duration
+
+![](../assets/Cup_of_Herbal_Tea_icon.png)
+
+_Cup\_of\_Herbal\_Tea\_icon.png_
+
+[Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md)
+
+6 hours
+
+![](../assets/Stalker%27s_Pie_icon.png)
+
+_Stalker's\_Pie\_icon.png_
+
+[Stalker's Pie](./Stalker%27s%20Pie.md)
+
+6 hours
+
+![](../assets/Ptarmigan_Stew_icon.png)
+
+_Ptarmigan\_Stew\_icon.png_
+
+[Ptarmigan Stew](./Ptarmigan%20Stew.md)
+
+3 hours
+
+![](../assets/Ranger_Stew_icon.png)
+
+_Ranger\_Stew\_icon.png_
+
+[Ranger Stew](./Ranger%20Stew.md)
+
+3 hours
+
+![](../assets/Rabbit_Stew_icon.png)
+
+_Rabbit\_Stew\_icon.png_
+
+[Rabbit Stew](./Rabbit%20Stew.md)
+
+3 hours
+
+![](../assets/Thomson_Family_Stew_icon.png)
+
+_Thomson\_Family\_Stew\_icon.png_
+
+[Thomson Family Stew](./Thomson%20Family%20Stew.md)
+
+3 hours
+
+![](../assets/Trout_Stew_icon.png)
+
+_Trout\_Stew\_icon.png_
+
+[Trout Stew](./Trout%20Stew.md)
+
+3 hours
+
+![](../assets/Venison_Stew_icon.png)
+
+_Venison\_Stew\_icon.png_
+
+[Venison Stew](./Venison%20Stew.md)
+
+3 hours
 
 ## Effects
 

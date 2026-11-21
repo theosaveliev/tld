@@ -13,17 +13,29 @@
 
 **Keeper's Pass North**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Buildersbridge1.png) / _Buildersbridge1.png_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Keeper%27s_Pass_North_Location.png) / _Keeper's\_Pass\_North\_Location.png_ |
-|  | ![](../assets/Keeper%27s_Pass_North_Region_Map.png) / _Keeper's\_Pass\_North\_Region\_Map.png_ |
-| **Details** |  |
-| Description | A large crevice situated in the middle of nowhere, eventually giving way to the road to [Blackrock](./Blackrock.md) |
-| Connecting Regions | [Pleasant Valley](./Pleasant%20Valley.md) (via [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) ) [Blackrock](./Blackrock.md) |
-| Locations | 4 |
-| Date Added | December 2021 |
+![](../assets/Buildersbridge1.png)
+
+_Buildersbridge1.png_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/Keeper%27s_Pass_North_Location.png)
+
+_Keeper's\_Pass\_North\_Location.png_
+
+![](../assets/Keeper%27s_Pass_North_Region_Map.png)
+
+_Keeper's\_Pass\_North\_Region\_Map.png_
+
+**Details**
+
+**Description:** A large crevice situated in the middle of nowhere, eventually giving way to the road to [Blackrock](./Blackrock.md)
+
+**Connecting Regions:** [Pleasant Valley](./Pleasant%20Valley.md) (via [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) ) [Blackrock](./Blackrock.md)
+
+**Locations:** 4
+
+**Date Added:** December 2021
 
 **Keeper's Pass North** is the 5th Transition Zone [Region](./Region.md) introduced into _[The Long Dark](./The%20Long%20Dark.md)_. It connects to [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) via a cave system (which in turn connects to [Pleasant Valley](./Pleasant%20Valley.md)) and to [Blackrock](./Blackrock.md) to the north.
 

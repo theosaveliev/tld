@@ -13,23 +13,35 @@
 
 **Revolver ammunition**
 
-| Property | Details |
-| --- | --- |
-|  | \[\[File: / ![Box](../assets/Revolver_Ammunition_icon.png) / _Box_ / ![Cartridge](../assets/Revolver_Cartridge_icon.png) / _Cartridge_ / Rifle ammunition icon.png\|250px\]\] |
-| ![Box](../assets/Revolver_Ammunition_icon.png) / _Box_ | ![Cartridge](../assets/Revolver_Cartridge_icon.png) / _Cartridge_ |
-| **General** |  |
-| Item Type |  |
-| Wintermute | No |
-| Renewable | Yes ([Trader](./Trader.md) or rare [Beachcombing](./Beachcombing.md) ) no (Interloper) |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.02 kg(0.04 lbs) |
-| Harvest | Chance to produce: / 1 × [Bullet](./Bullet.md) 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / 0.01kg x [Can of Gunpowder](./Can%20of%20Gunpowder.md) / 5 minutes |
+\[\[File: / ![Box](../assets/Revolver_Ammunition_icon.png) / _Box_ / ![Cartridge](../assets/Revolver_Cartridge_icon.png) / _Cartridge_ / Rifle ammunition icon.png\|250px\]\]
 
-> “__A box of Revolver cartridges.__”
+![Box](../assets/Revolver_Ammunition_icon.png)
+
+_Box_
+
+![Cartridge](../assets/Revolver_Cartridge_icon.png)
+
+_Cartridge_
+
+**General**
+
+Item Type
+
+**Wintermute:** No
+
+**Renewable:** Yes ([Trader](./Trader.md) or rare [Beachcombing](./Beachcombing.md) ) no (Interloper)
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.02 kg(0.04 lbs)
+
+**Harvest:** Chance to produce: / 1 × [Bullet](./Bullet.md) 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / 0.01kg x [Can of Gunpowder](./Can%20of%20Gunpowder.md) / 5 minutes
+
+> “**A box of Revolver cartridges.**”
 >
 > — Boxed ammo In-game description
 
-> “__A single Revolver cartridge.__”
+> “**A single Revolver cartridge.**”
 >
 > — Single Cartridge In-game description
 

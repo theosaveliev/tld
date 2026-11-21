@@ -12,19 +12,29 @@
 
 **Pleasant Valley History**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Knowledge.png) / _Knowledge.png_ |
-| Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/Knowledge.png)
+
+_Knowledge.png_
+
+**Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **Pleasant Valley History** is 3 separate [Collectibles](./Collectibles.md) items found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode.
 

@@ -4,10 +4,11 @@
 
 **Down Below**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Down_Below_icon.png) / _Down\_Below\_icon.png_ |
-| Description | Enter all 9 Prepper Cache locations (single game). |
+![](../assets/Down_Below_icon.png)
+
+_Down\_Below\_icon.png_
+
+**Description:** Enter all 9 Prepper Cache locations (single game).
 
 **Down Below** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

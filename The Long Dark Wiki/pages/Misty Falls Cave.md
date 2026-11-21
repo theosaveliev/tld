@@ -4,12 +4,20 @@
 
 **Misty Falls Cave**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Misty_Falls_Picnic_Area_Cave.jpg) / _Misty\_Falls\_Picnic\_Area\_Cave.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Misty_Falls_Cave_Location.png) / _Misty\_Falls\_Cave\_Location.png_ |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
-| Description | A large cave with a decent amount of loot |
-| **General** |  |
-| Type | Outdoors\|- |
+![](../assets/Misty_Falls_Picnic_Area_Cave.jpg)
+
+_Misty\_Falls\_Picnic\_Area\_Cave.jpg_
+
+**Location**
+
+![](../assets/Misty_Falls_Cave_Location.png)
+
+_Misty\_Falls\_Cave\_Location.png_
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+
+**Description:** A large cave with a decent amount of loot
+
+**General**
+
+**Type:** Outdoors\|-

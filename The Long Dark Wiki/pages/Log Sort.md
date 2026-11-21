@@ -4,15 +4,46 @@
 
 **Log Sort**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![](../assets/Log_Sort_-_double-story_house.jpg) / _Log\_Sort\_-\_double-story\_house.jpg_ | 250px\]\] |
-|  | ![](../assets/Log_Sort_-_double-story_house.jpg) / _Log\_Sort\_-\_double-story\_house.jpg_ |
-| **Location** |  |
-| ![](../assets/Log_Sort_map.png) / _Log\_Sort\_map.png_ |  |
-| Region | [Coastal Highway](./Coastal%20Highway.md)\|- / Location |
-| Description | A few buildings |
-| **General** |  |
-| Type | Residential\|- / ![](../assets/Bed_icon.png) / _bed\_icon.png_ |
+\[\[File: / ![](../assets/Log_Sort_-_double-story_house.jpg) / _Log\_Sort\_-\_double-story\_house.jpg_
 
-| ![Trailer](../assets/Log_Sort_-_trailer.jpg) / _Trailer_ | ![Condemned house](../assets/Log_Sort_-_fortified_house.jpg) / _Condemned house_ / ![The Log Sort area, from above](../assets/20180119115447_1.jpg) / _The **Log Sort** area, from above_ |
+250px\]\]
+
+![](../assets/Log_Sort_-_double-story_house.jpg)
+
+_Log\_Sort\_-\_double-story\_house.jpg_
+
+**Location**
+
+![](../assets/Log_Sort_map.png)
+
+_Log\_Sort\_map.png_
+
+Region
+
+[Coastal Highway](./Coastal%20Highway.md)\|-
+
+Location
+
+**Description:** A few buildings
+
+**General**
+
+Type
+
+Residential\|-
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+![Trailer](../assets/Log_Sort_-_trailer.jpg)
+
+_Trailer_
+
+![Condemned house](../assets/Log_Sort_-_fortified_house.jpg)
+
+_Condemned house_
+
+![The Log Sort area, from above](../assets/20180119115447_1.jpg)
+
+_The **Log Sort** area, from above_

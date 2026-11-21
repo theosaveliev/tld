@@ -4,14 +4,19 @@
 
 **Rustic Stool**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Rustic_Stool_icon.png) / _Rustic\_Stool\_icon.png_ |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
-| **Values** |  |
-| Weight | 2.00 kg (4.4 lbs) |
-| **Actions** |  |
-| Backpack | Drop, Place |
+![](../assets/Rustic_Stool_icon.png)
+
+_Rustic\_Stool\_icon.png_
+
+**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Values**
+
+**Weight:** 2.00 kg (4.4 lbs)
+
+**Actions**
+
+**Backpack:** Drop, Place
 
 The **Rustic Stool** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 

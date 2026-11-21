@@ -11,22 +11,33 @@
 
 **Wolfskin Coat**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Wolfskin_Coat_icon.png) / _Wolfskin\_Coat\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)3.00 kg(6.6 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)4.0 °C(7.2 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)4.0 °C(7.2 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)60% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)12% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-15% |
-| Harvest | 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / 90 minutes |
-| Repair | 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 120 minutes / 30% condition |
+![](../assets/Wolfskin_Coat_icon.png)
 
-> “__Handcrafted fur and skin outer layer will keep you warm and remind Wolves that they should keep their distance. Not the way the Wolf expected to end up.__”
+_Wolfskin\_Coat\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)3.00 kg(6.6 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)4.0 °C(7.2 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)60%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)12%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-15%
+
+**Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / 90 minutes
+
+**Repair:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 120 minutes / 30% condition
+
+> “**Handcrafted fur and skin outer layer will keep you warm and remind Wolves that they should keep their distance. Not the way the Wolf expected to end up.**”
 >
 > — In-game description
 

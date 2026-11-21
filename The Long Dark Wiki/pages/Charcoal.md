@@ -14,19 +14,29 @@
 
 **Charcoal**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Charcoal_icon.png) / _Charcoal\_icon.png_ |
-| Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
-| Stackable | yes |
-| Examine | A piece of charcoal typically found in burned out campfires. Useful for sketching. |
-| **Values** |  |
-| Weight | 0.10 kg (0.22 lbs) |
-| **Actions** |  |
-| On ground | Take It, Leave It |
+![](../assets/Charcoal_icon.png)
+
+_Charcoal\_icon.png_
+
+**Release:** [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)\|-
+
+**Stackable:** yes
+
+**Examine:** A piece of charcoal typically found in burned out campfires. Useful for sketching.
+
+**Values**
+
+**Weight:** 0.10 kg (0.22 lbs)
+
+**Actions**
+
+**On ground:** Take It, Leave It
 
 **Charcoal** is a tool in _[The Long Dark](./The%20Long%20Dark.md)._
 

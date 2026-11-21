@@ -4,21 +4,37 @@
 
 **Burns**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Fire](../assets/Burns_icon.png) / _Fire_ / ![Electrical](../assets/Burns_%28electric%29_icon.png) / _Electrical_ | 250px\]\] |
-| ![Fire](../assets/Burns_icon.png) / _Fire_ | ![Electrical](../assets/Burns_%28electric%29_icon.png) / _Electrical_ |
-| **Properties** |  |
-| Caused By | Fires Electrical Wires |
-| Effect | Negative |
-| Type | Injury |
-| Affliction Duration | Until Treated or Recovery Time passes |
-| **Treatment** |  |
-| Treatment | 1 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x **Template:pic link** |
-| Alternate Treatment | 1 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 1 x ![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md) |
-| Recovery Time | Wait 30 hours (untreated) |
+\[\[File: / ![Fire](../assets/Burns_icon.png) / _Fire_ / ![Electrical](../assets/Burns_%28electric%29_icon.png) / _Electrical_
 
-> “__You have sustained serious burns. Your general Condition will be reduced until you treat the burns, or you heal naturally.__”
+250px\]\]
+
+![Fire](../assets/Burns_icon.png)
+
+_Fire_
+
+![Electrical](../assets/Burns_%28electric%29_icon.png)
+
+_Electrical_
+
+**Properties**
+
+**Caused By:** Fires Electrical Wires
+
+**Effect:** Negative
+
+**Type:** Injury
+
+**Affliction Duration:** Until Treated or Recovery Time passes
+
+**Treatment**
+
+**Treatment:** 1 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x **Template:pic link**
+
+**Alternate Treatment:** 1 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 1 x ![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
+
+**Recovery Time:** Wait 30 hours (untreated)
+
+> “**You have sustained serious burns. Your general Condition will be reduced until you treat the burns, or you heal naturally.**”
 >
 > — In-game description
 

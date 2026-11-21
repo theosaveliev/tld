@@ -4,12 +4,21 @@
 
 **Weapon Locker**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Closed](../assets/Weapon_Locker.jpg) / _Closed_ / ![Open](../assets/Weapon_Locker_Open.jpg) / _Open_ | 250px\]\] |
-| ![Closed](../assets/Weapon_Locker.jpg) / _Closed_ | ![Open](../assets/Weapon_Locker_Open.jpg) / _Open_ |
-| Release | 1.60 |
-| Story item | Yes |
+\[\[File: / ![Closed](../assets/Weapon_Locker.jpg) / _Closed_ / ![Open](../assets/Weapon_Locker_Open.jpg) / _Open_
+
+250px\]\]
+
+![Closed](../assets/Weapon_Locker.jpg)
+
+_Closed_
+
+![Open](../assets/Weapon_Locker_Open.jpg)
+
+_Open_
+
+**Release:** 1.60
+
+**Story item:** Yes
 
 A **Weapon Locker** is a stationary object found rarely in the game world, and often contain weapons as their name implies.
 

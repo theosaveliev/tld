@@ -11,23 +11,37 @@
 
 **Granola Bar**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Granola_Bar_icon.png) / _Granola\_Bar\_icon.png_ |
-| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
-| Wintermute | No |
-| Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | Dry and crunchy. |
-| **Values** |  |
-| Calories | 300 kcal |
-| Hydration | -5% |
-| [Vitamin C](./Scurvy.md) | Minor (2%) |
-| Weight | 0.10 kg (0.22 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_GranolaBar |
+![](../assets/Granola_Bar_icon.png)
+
+_Granola\_Bar\_icon.png_
+
+**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+
+**Wintermute:** No
+
+**Renewable:** Yes (rare [Beachcombing](./Beachcombing.md))
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** Dry and crunchy.
+
+**Values**
+
+**Calories:** 300 kcal
+
+**Hydration:** -5%
+
+**[Vitamin C](./Scurvy.md):** Minor (2%)
+
+**Weight:** 0.10 kg (0.22 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_GranolaBar
 
 **Granola Bar** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 

@@ -4,19 +4,29 @@
 
 **The Technician's Notebook**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/The_Technician%27s_Notebook_icon.png) / _The\_Technician's\_Notebook\_icon.png_ |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A bloody piece of notebook paper. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/The_Technician%27s_Notebook_icon.png)
+
+_The\_Technician's\_Notebook\_icon.png_
+
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A bloody piece of notebook paper.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **The Technician's Notebook** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Bleak Inlet](./Bleak%20Inlet.md) at the [Workshop](./Workshop.md).
 
@@ -34,5 +44,3 @@ Just leave this here in case it gets worse.**
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-[ru:Блокнот техника](ru:%D0%91%D0%BB%D0%BE%D0%BA%D0%BD%D0%BE%D1%82_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0)

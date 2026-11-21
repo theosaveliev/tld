@@ -11,15 +11,31 @@
 
 **Cardboard Box**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Intact](../assets/Cardboard_boxes.jpg) / _Intact_ / ![Unfolded](../assets/CardboardBoxUnfolded.jpg) / _Unfolded_ / ![Torn](../assets/CardboardBoxTorn.jpg) / _Torn_ | 250px\]\] |
-| ![Intact](../assets/Cardboard_boxes.jpg) / _Intact_ | ![Unfolded](../assets/CardboardBoxUnfolded.jpg) / _Unfolded_ / ![Torn](../assets/CardboardBoxTorn.jpg) / _Torn_ |
-| **General** |  |
-| Item Type | Item |
-| Wintermute | No |
-| **Statistics** |  |
-| Harvest | 1-3 [Tinder Plugs](./Tinder%20Plug.md) |
+\[\[File: / ![Intact](../assets/Cardboard_boxes.jpg) / _Intact_ / ![Unfolded](../assets/CardboardBoxUnfolded.jpg) / _Unfolded_ / ![Torn](../assets/CardboardBoxTorn.jpg) / _Torn_
+
+250px\]\]
+
+![Intact](../assets/Cardboard_boxes.jpg)
+
+_Intact_
+
+![Unfolded](../assets/CardboardBoxUnfolded.jpg)
+
+_Unfolded_
+
+![Torn](../assets/CardboardBoxTorn.jpg)
+
+_Torn_
+
+**General**
+
+**Item Type:** Item
+
+**Wintermute:** No
+
+**Statistics**
+
+**Harvest:** 1-3 [Tinder Plugs](./Tinder%20Plug.md)
 
 ## Overview
 

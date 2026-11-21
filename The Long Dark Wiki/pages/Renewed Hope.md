@@ -4,19 +4,25 @@
 
 **Renewed Hope**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Missions_story_ep2_Renewed_Hope.png) / _Missions\_story\_ep2\_Renewed\_Hope.png_ |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
-| Previous | [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) |
-| Current | Renewed Hope |
-| Next | [Trauma](./Trauma.md) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Methuselah](./Methuselah.md) / [Mathis](./Mathis.md) |
+![](../assets/Missions_story_ep2_Renewed_Hope.png)
+
+_Missions\_story\_ep2\_Renewed\_Hope.png_
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+
+**Previous:** [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)
+
+**Current:** Renewed Hope
+
+**Next:** [Trauma](./Trauma.md)
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Methuselah](./Methuselah.md) / [Mathis](./Mathis.md)
 
 **Template:spoiler**
 
-> “__With the Old Bear no longer a risk, Jeremiah plots a course leading Mackenzie out of Mystery Lake with the means to contact Perseverance Mills, and one step closer to finding Astrid.__”
+> “**With the Old Bear no longer a risk, Jeremiah plots a course leading Mackenzie out of Mystery Lake with the means to contact Perseverance Mills, and one step closer to finding Astrid.**”
 >
 > — In-game description
 

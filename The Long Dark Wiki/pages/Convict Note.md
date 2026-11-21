@@ -4,22 +4,35 @@
 
 **Convict Note**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Convict_Note_icon.png) / _Convict\_Note\_icon.png_ |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
-| Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Blackrock (mission)](./Blackrock%20%28mission%29.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A handwritten note from one of the convicts. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
-| **Advanced data** |  |
-| Item key | STORY\_Collectible\_ConvictNote2 |
+![](../assets/Convict_Note_icon.png)
+
+_Convict\_Note\_icon.png_
+
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+
+**Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Blackrock (mission)](./Blackrock%20%28mission%29.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A handwritten note from one of the convicts.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
+
+**Advanced data**
+
+**Item key:** STORY\_Collectible\_ConvictNote2
 
 **Convict Note** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Blackrock (mission)](./Blackrock%20%28mission%29.md) side mission.
 

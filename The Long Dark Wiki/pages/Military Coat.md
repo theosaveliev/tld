@@ -4,22 +4,33 @@
 
 **Military Coat**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Military_Coat_icon.png) / _Military\_Coat\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)3.0 °C(5.4 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)3.0 °C(5.4 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)40% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)8% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-5% |
-| Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
-| Repair | 2 × [Cloth](./Cloth.md) / 90 minutes / 30% condition |
+![](../assets/Military_Coat_icon.png)
 
-> “__Winter version of the traditional coat used by the military. Doesn't use the best technical materials, but is tough as hell. Takes a beating, as you can while wearing it.__”
+_Military\_Coat\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)40%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)8%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-5%
+
+**Harvest:** 2 × [Cloth](./Cloth.md) / 20 minutes
+
+**Repair:** 2 × [Cloth](./Cloth.md) / 90 minutes / 30% condition
+
+> “**Winter version of the traditional coat used by the military. Doesn't use the best technical materials, but is tough as hell. Takes a beating, as you can while wearing it.**”
 >
 > — In-game description
 

@@ -12,16 +12,21 @@
 
 **Scrap Lead**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Scrap_Lead_icon.png) / _Scrap\_Lead\_icon.png_ |
-| **General** |  |
-| Item Type | Material\|- |
-| Renewable | No |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
+![](../assets/Scrap_Lead_icon.png)
 
-> “__Harvested from dead car batteries. Scrap lead can be used to craft bullets.__”
+_Scrap\_Lead\_icon.png_
+
+**General**
+
+**Item Type:** Material\|-
+
+**Renewable:** No
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+
+> “**Harvested from dead car batteries. Scrap lead can be used to craft bullets.**”
 >
 > — In-game Description
 
@@ -65,5 +70,3 @@ Scrap Lead can also be found occasionally as a single piece when exploring the w
 
 - The Errant Pilgrim update introduced [Gunsmithing](./Gunsmithing.md).
 - 12-Volt Lead-acid car batteries have 6 cells inside (2 volts per cell), which is why a car battery can be harvested for 6 pieces of scrap lead (one per cell).
-
-[ru:Свинцовый лом](ru:%D0%A1%D0%B2%D0%B8%D0%BD%D1%86%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BB%D0%BE%D0%BC)

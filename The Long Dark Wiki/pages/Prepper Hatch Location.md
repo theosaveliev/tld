@@ -4,20 +4,31 @@
 
 **Prepper Hatch Location**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Prepper_Hatch_Location_icon.png) / _Prepper\_Hatch\_Location\_icon.png_ |
-| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
-| Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Rumours](./Blackrock%20Rumours.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A handwritten note detailing the location of a prepper hatch. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/Prepper_Hatch_Location_icon.png)
+
+_Prepper\_Hatch\_Location\_icon.png_
+
+**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+
+**Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Rumours](./Blackrock%20Rumours.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A handwritten note detailing the location of a prepper hatch.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **Prepper Hatch Location** is a [Collectible](./Collectibles.md) found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story as part of the [Blackrock Rumours](./Blackrock%20Rumours.md) side mission. It is found in a supply cache behind [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md).
 

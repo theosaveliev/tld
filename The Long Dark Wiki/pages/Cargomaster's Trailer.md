@@ -4,12 +4,24 @@
 
 **Cargomaster's Trailer**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cargomaster%27s_Trailer.jpg) / _Cargomaster's\_Trailer.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Cargomaster%27s_Trailer_Location.png) / _Cargomaster's\_Trailer\_Location.png_ |
-| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
-| **General** |  |
-| Type |  |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
+![](../assets/Cargomaster%27s_Trailer.jpg)
+
+_Cargomaster's\_Trailer.jpg_
+
+**Location**
+
+![](../assets/Cargomaster%27s_Trailer_Location.png)
+
+_Cargomaster's\_Trailer\_Location.png_
+
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+
+**General**
+
+Type
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+Has a bed

@@ -4,19 +4,29 @@
 
 **Note (Survival 2)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Note_%28Survival_2%29_icon.png) / _Note\_(Survival\_2)\_icon.png_ |
-| Release | [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A bloody, handwritten scrap of paper. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/Note_%28Survival_2%29_icon.png)
+
+_Note\_(Survival\_2)\_icon.png_
+
+**Release:** [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A bloody, handwritten scrap of paper.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **Note** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Blackrock](./Blackrock.md). It is inside [Blackrock Prison](./Blackrock%20Prison.md) inside the 1st floor, in the guard room next to cell no. 11.
 
@@ -35,5 +45,3 @@ _The following text is transcribed from **Note**_
 UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Added to game
-
-[ru:Записка (Здание тюрьмы)](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%28%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D1%82%D1%8E%D1%80%D1%8C%D0%BC%D1%8B%29)

@@ -13,7 +13,7 @@
 | Current | Dark Star |
 | Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 
-> “__Records from Blackrock's official archive have escaped their vault. Find and read the bloody pages to learn more about the notorious maximum security prison.__”
+> “**Records from Blackrock's official archive have escaped their vault. Find and read the bloody pages to learn more about the notorious maximum security prison.**”
 >
 > — In-game description
 

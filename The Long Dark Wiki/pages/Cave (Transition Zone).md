@@ -20,14 +20,21 @@
 
 **Cave (Transition Zone)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/RegionAtlas-resources.assets-562_%286%29.png) / _RegionAtlas-resources.assets-562\_(6).png_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
-| **Details** |  |
-| Description | Transition Zones, Dark tunnels winding through the slopes separating regions. |
-| Connecting Regions | [Pleasant Valley](./Pleasant%20Valley.md) and [Winding River](./Winding%20River.md), [Mountain Town](./Mountain%20Town.md) and [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md), [Mountain Town](./Mountain%20Town.md) and [Hushed River Valley](./Hushed%20River%20Valley.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md) and [Bleak Inlet](./Bleak%20Inlet.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md) and [Ash Canyon](./Ash%20Canyon.md) |
+![](../assets/RegionAtlas-resources.assets-562_%286%29.png)
+
+_RegionAtlas-resources.assets-562\_(6).png_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/No_picture.png)
+
+_No\_picture.png_
+
+**Details**
+
+**Description:** Transition Zones, Dark tunnels winding through the slopes separating regions.
+
+**Connecting Regions:** [Pleasant Valley](./Pleasant%20Valley.md) and [Winding River](./Winding%20River.md), [Mountain Town](./Mountain%20Town.md) and [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md), [Mountain Town](./Mountain%20Town.md) and [Hushed River Valley](./Hushed%20River%20Valley.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md) and [Bleak Inlet](./Bleak%20Inlet.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md) and [Ash Canyon](./Ash%20Canyon.md)
 
 There are several cave systems located on [Great Bear Island](./Great%20Bear%20Island.md) that serve as indoor Transition Zones between major regions. 2 of them are named Coal mines, while 7 of them are unnamed (simply called **Cave** when approached). Being indoor areas, they do not show up on any local maps, and cannot be surveyed with [Charcoal](./Charcoal.md) since they are indoor areas (save for the entrances/exits to the cave systems).
 

@@ -4,23 +4,35 @@
 
 **Windbreaker**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Windbreaker_icon.png) / _Windbreaker\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer torso |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)3.0 °C(5.4 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)50% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)1% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition |
+![](../assets/Windbreaker_icon.png)
 
-> “__Cheap nylon outer layer that's good for blocking wind and that's about it.__”
+_Windbreaker\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Outer torso
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)50%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)1%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 2 × [Cloth](./Cloth.md) / 20 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition
+
+> “**Cheap nylon outer layer that's good for blocking wind and that's about it.**”
 >
 > — In-game description
 

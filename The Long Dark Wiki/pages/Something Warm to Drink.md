@@ -4,10 +4,11 @@
 
 **Something Warm to Drink**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Something_Warm_to_Drink_icon.png) / _Something\_Warm\_to\_Drink\_icon.png_ |
-| Description | Collect 7 Insulated Flask Variants (single game) |
+![](../assets/Something_Warm_to_Drink_icon.png)
+
+_Something\_Warm\_to\_Drink\_icon.png_
+
+**Description:** Collect 7 Insulated Flask Variants (single game)
 
 **Something Warm to Drink** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

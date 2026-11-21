@@ -30,20 +30,29 @@
 
 **Distress Pistol**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Distress_Pistol_icon.png) / _Distress\_Pistol\_icon.png_ |
-| Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298) |
-| Wintermute | yes |
-| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
-| Stackable | No |
-| Examine | A device used to launch an emergency beacon into the air. Fires Flare Shells. |
-| **Values** |  |
-| Weight | 0.40 kg (0.88 lbs) |
+![](../assets/Distress_Pistol_icon.png)
 
-> “__Distress Pistol rounds can be an effective deterrent against hostile wildlife. They are the only thing that can reliably deter a charging Bear.__”
+_Distress\_Pistol\_icon.png_
+
+**Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
+
+**Wintermute:** yes
+
+**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)\|-
+
+**Stackable:** No
+
+**Examine:** A device used to launch an emergency beacon into the air. Fires Flare Shells.
+
+**Values**
+
+**Weight:** 0.40 kg (0.88 lbs)
+
+> “**Distress Pistol rounds can be an effective deterrent against hostile wildlife. They are the only thing that can reliably deter a charging Bear.**”
 >
 > — [Load Screen](./Load%20Screen.md) Description
 
@@ -81,23 +90,129 @@ Distress Pistol rounds which hit an animal will almost always kill. Either immed
 
 Critical hits cause the animal to instantly die after being hit by a shot. The following table contains the critical hit chance based on the location that was shot on the animal.
 
-| Wildlife | Critical Hit Chance |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Head | Neck | Torso | Hips | Limb |  |  |
-| ![](../assets/Deer_icon.png) / _Deer\_icon.png_ | [Deer](./Deer.md) | Guaranteed | 50% | 40% | 25% | 10% |
-| ![](../assets/Wolf_icon.png) / _Wolf\_icon.png_ | [Wolf](./Wolf.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
-| ![](../assets/Bear_icon.png) / _Bear\_icon.png_ | [Bear](./Bear.md) | 60% | 90% | Guaranteed | Guaranteed | Guaranteed |
+**Wildlife:** Critical Hit Chance
+
+Head
+
+Neck
+
+Torso
+
+Hips
+
+Limb
+
+![](../assets/Deer_icon.png)
+
+_Deer\_icon.png_
+
+[Deer](./Deer.md)
+
+Guaranteed
+
+50%
+
+40%
+
+25%
+
+10%
+
+![](../assets/Wolf_icon.png)
+
+_Wolf\_icon.png_
+
+[Wolf](./Wolf.md)
+
+Guaranteed
+
+Guaranteed
+
+33%
+
+10%
+
+10%
+
+![](../assets/Bear_icon.png)
+
+_Bear\_icon.png_
+
+[Bear](./Bear.md)
+
+60%
+
+90%
+
+Guaranteed
+
+Guaranteed
+
+Guaranteed
 
 ### Bleeding wounds
 
 [Wildlife](./Wildlife.md) take a specific amount of time to bleed out, as follows:
 
-| Wildlife | Bleed Out |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Head | Neck | Torso | Hips | Limb |  |  |
-| ![](../assets/Deer_icon.png) / _Deer\_icon.png_ | [Deer](./Deer.md) | Instant | 8 min | 15 min | 30 min | 80 min |
-| ![](../assets/Wolf_icon.png) / _Wolf\_icon.png_ | [Wolf](./Wolf.md) | Instant | 12 min | 30 min | 35 min | 40 min |
-| ![](../assets/Bear_icon.png) / _Bear\_icon.png_ | [Bear](./Bear.md) | 30 min | 45 min | 50 min | 140 min | 140 min |
+**Wildlife:** Bleed Out
+
+Head
+
+Neck
+
+Torso
+
+Hips
+
+Limb
+
+![](../assets/Deer_icon.png)
+
+_Deer\_icon.png_
+
+[Deer](./Deer.md)
+
+Instant
+
+8 min
+
+15 min
+
+30 min
+
+80 min
+
+![](../assets/Wolf_icon.png)
+
+_Wolf\_icon.png_
+
+[Wolf](./Wolf.md)
+
+Instant
+
+12 min
+
+30 min
+
+35 min
+
+40 min
+
+![](../assets/Bear_icon.png)
+
+_Bear\_icon.png_
+
+[Bear](./Bear.md)
+
+30 min
+
+45 min
+
+50 min
+
+140 min
+
+140 min
 
 ## Locations
 

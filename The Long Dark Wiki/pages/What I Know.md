@@ -47,7 +47,7 @@ This tab contains all information related to major characters encountered on the
 
 ### Episode 1
 
-[Grey Mother](./Grey%20Mother.md){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __An elderly blind woman, and possibly the last remaining survivor in Milton. She seems to know something about where Astrid might have gone.__
+[Grey Mother](./Grey%20Mother.md){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **An elderly blind woman, and possibly the last remaining survivor in Milton. She seems to know something about where Astrid might have gone.**
 
 In-game description
 
@@ -63,7 +63,7 @@ In-game description
 
 ### [Jeremiah](./Jeremiah.md)
 
-> “__A tough old trapper and hermit. Lives alone in the wilderness of Mystery Lake. Doesn't seem to like people much.__”
+> “**A tough old trapper and hermit. Lives alone in the wilderness of Mystery Lake. Doesn't seem to like people much.**”
 >
 > — In-game description
 
@@ -153,7 +153,7 @@ What I Know description
 
 | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}Side Missions
 
-> “__Use the journal to track side mission progress.__”
+> “**Use the journal to track side mission progress.**”
 >
 > — What I Know description
 
@@ -241,11 +241,11 @@ What I Know description
 
 | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} [Birch Bark](./Birch%20Bark.md)
 
-> “__Prepare Birch Bark before brewing it into a natural tea. Drink to gradually restore some lost Condition.__”
+> “**Prepare Birch Bark before brewing it into a natural tea. Drink to gradually restore some lost Condition.**”
 >
 > — What I Know description
 
-[Snares](./Snare.md){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __You can use your energy chasing Rabbits and trying to stun them with stones, or you can use a more long-term strategy: Snares. Look for areas of high Rabbit activity, and place a Snare nearby. Check on it daily. You may get lucky and catch a Rabbit. You can set up multiple snares to increase your chances. A well maintained Trapline can be an excellent long-term source of food. Just remember, it may attract other wildlife!__
+[Snares](./Snare.md){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **You can use your energy chasing Rabbits and trying to stun them with stones, or you can use a more long-term strategy: Snares. Look for areas of high Rabbit activity, and place a Snare nearby. Check on it daily. You may get lucky and catch a Rabbit. You can set up multiple snares to increase your chances. A well maintained Trapline can be an excellent long-term source of food. Just remember, it may attract other wildlife!**
 
 What I Know description
 
@@ -255,13 +255,13 @@ What I Know description
 
 Item Confiscation
 
-> “__To avoid items being confiscated, hide them out of sight in containers or places far away from the convicts.__”
+> “**To avoid items being confiscated, hide them out of sight in containers or places far away from the convicts.**”
 >
 > — What I Know description
 
 [Noisemaker](./Noisemaker.md)
 
-> “__Noisemakers can be used to effectively scare off wildlife. Use with care to avoid injury!__”
+> “**Noisemakers can be used to effectively scare off wildlife. Use with care to avoid injury!**”
 >
 > — What I Know description
 
@@ -283,19 +283,19 @@ Point Of No Return
 
 Respirator
 
-> “__Equip to protect yourself from toxic gas and other environmental hazards. Requires Canisters to function.__”
+> “**Equip to protect yourself from toxic gas and other environmental hazards. Requires Canisters to function.**”
 >
 > — What I Know description
 
-Steam Train's Speed{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __The Steam Train can move at two speeds "Slow" and "Fast". When the Steam Train is moving fast enough it can break through obstacles that would otherwise block its path. But increasing the Steam Train's speed will consume PSI.__
+Steam Train's Speed{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **The Steam Train can move at two speeds "Slow" and "Fast". When the Steam Train is moving fast enough it can break through obstacles that would otherwise block its path. But increasing the Steam Train's speed will consume PSI.**
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} Steam Train Throttle{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Move the throttle up through gears 1 and 2 to increase the Steam Train's Speed or into Reverse to change directions. Using the Brake will automatically put the Steam Train into its Neutral Gear. The Throttle can only be adjusted if the Brake is off and the Steam Train can only change directions when it is fully stopped.__
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} Steam Train Throttle{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Move the throttle up through gears 1 and 2 to increase the Steam Train's Speed or into Reverse to change directions. Using the Brake will automatically put the Steam Train into its Neutral Gear. The Throttle can only be adjusted if the Brake is off and the Steam Train can only change directions when it is fully stopped.**
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}Steam Train's Firebox{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Use Coal to get the Steam Train Firebox temperature up to 125 degrees to start building pressure (PSI). The firebox will slowly cool off over time if you don't keep feeding it coal but never below 125 degrees.__
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}Steam Train's Firebox{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Use Coal to get the Steam Train Firebox temperature up to 125 degrees to start building pressure (PSI). The firebox will slowly cool off over time if you don't keep feeding it coal but never below 125 degrees.**
 
 What I Know description
 
@@ -354,7 +354,7 @@ Fire{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} Clothing Basics{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Use the radial menu to select "Status", then go to the clothing tab to view clothing items you have equipped, see their status and equip new clothing items.__
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} Clothing Basics{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Use the radial menu to select "Status", then go to the clothing tab to view clothing items you have equipped, see their status and equip new clothing items.**
 
 What I Know description
 
@@ -373,7 +373,7 @@ What I Know description
 
 What I Know description
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} Setting the Spear{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Select the Bear Spear from the Radial Menu, then press and hold \[LMB\] to Set the Spear against a charging Bear, as long as you have enough Stamina.__
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} Setting the Spear{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Select the Bear Spear from the Radial Menu, then press and hold \[LMB\] to Set the Spear against a charging Bear, as long as you have enough Stamina.**
 
 What I Know description
 
@@ -389,6 +389,6 @@ What I Know description
 
 | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} Perseverance Mills Infiltration
 
-> “__Sentry Convicts watch the path into town and must be avoided. Some Convicts have their backs to you -- these can be Choked and Taken Down.__”
+> “**Sentry Convicts watch the path into town and must be avoided. Some Convicts have their backs to you -- these can be Choked and Taken Down.**”
 >
 > — What I Know description

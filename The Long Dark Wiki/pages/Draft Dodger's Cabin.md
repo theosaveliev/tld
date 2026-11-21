@@ -4,11 +4,22 @@
 
 **Draft Dodger's Cabin**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Draft_Dodger%27s_Cabin.jpg) / _Draft\_Dodger's\_Cabin.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Draft_Dodger%27s_Cabin_Location.png) / _Draft\_Dodger's\_Cabin\_Location.png_ |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
-| Type | Residential\|- |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
+![](../assets/Draft_Dodger%27s_Cabin.jpg)
+
+_Draft\_Dodger's\_Cabin.jpg_
+
+**Location**
+
+![](../assets/Draft_Dodger%27s_Cabin_Location.png)
+
+_Draft\_Dodger's\_Cabin\_Location.png_
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+
+**Type:** Residential\|-
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+Has a bed

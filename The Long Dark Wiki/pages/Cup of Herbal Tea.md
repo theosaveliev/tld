@@ -12,23 +12,37 @@
 
 **Cup of Herbal Tea**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cup_of_Herbal_Tea_icon.png) / _Cup\_of\_Herbal\_Tea\_icon.png_ |
-| Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | A cup of tea. |
-| **Values** |  |
-| Calories | 100 kcal |
-| Hydration | 30% |
-| [Vitamin C](./Scurvy.md) | Minor (11%) |
-| Weight | 0.10 kg (0.22 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_GreenTeaCup |
+![](../assets/Cup_of_Herbal_Tea_icon.png)
+
+_Cup\_of\_Herbal\_Tea\_icon.png_
+
+**Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** A cup of tea.
+
+**Values**
+
+**Calories:** 100 kcal
+
+**Hydration:** 30%
+
+**[Vitamin C](./Scurvy.md):** Minor (11%)
+
+**Weight:** 0.10 kg (0.22 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_GreenTeaCup
 
 **Cup of Herbal Tea**is a [drink](./Food%20And%20Drink.md) item in _The Long Dark._
 

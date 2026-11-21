@@ -11,18 +11,27 @@
 
 **Power Plant**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Power_Plant.jpg) / _Power\_Plant.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Power_Plant_Location.png) / _Power\_Plant\_Location.png_ |
-| Region |  |
-| Location | Northwest of Blackrock Prison, on a river |
-| **General** |  |
-| Type | Industrial\|- |
-| Missions | [The Power Plant](./The%20Power%20Plant.md) / [Donner](./Donner.md) |
+![](../assets/Power_Plant.jpg)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_Power\_Plant.jpg_
+
+**Location**
+
+![](../assets/Power_Plant_Location.png)
+
+_Power\_Plant\_Location.png_
+
+Region
+
+**Location:** Northwest of Blackrock Prison, on a river
+
+**General**
+
+**Type:** Industrial\|-
+
+**Missions:** [The Power Plant](./The%20Power%20Plant.md) / [Donner](./Donner.md)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 **Template:stub****Power Plant** is a small hydro-electric facility located in [Blackrock](./Blackrock.md) on a river to the northwest of [Blackrock Prison](./Blackrock%20Prison.md). The prison can be reached through the [Steam Tunnels](./Steam%20Tunnels.md). There is a road that leads past the nearby [Grand Meadow](./Grand%20Meadow.md) to [Narrow Bridge](./Narrow%20Bridge.md), but it is blocked by a landslide at [Bear's Bend](./Bear%27s%20Bend.md).
 

@@ -4,10 +4,11 @@
 
 **Just Like New**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Just_Like_New_icon.png) / _Just\_Like\_New\_icon.png_ |
-| Description | Sabotage the Locking Mechanism. |
+![](../assets/Just_Like_New_icon.png)
+
+_Just\_Like\_New\_icon.png_
+
+**Description:** Sabotage the Locking Mechanism.
 
 **Just Like New** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

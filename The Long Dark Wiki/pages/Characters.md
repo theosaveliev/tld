@@ -59,7 +59,7 @@
 - [Mentioned Organizations](#mentioned-organizations)
 - [Buffer Memory Characters](#buffer-memory-characters)
 
-**Images Needed:**__This article is in need of more images and/or higher quality images. You can help by uploading an image and \[//dummy.host/index.php?title=Characters&amp;action=edit adding it to the article\].__
+**Images Needed:****This article is in need of more images and/or higher quality images. You can help by uploading an image and \[//dummy.host/index.php?title=Characters&amp;action=edit adding it to the article\].**
 
 ** _SPOILER WARNING_  
  _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._ **

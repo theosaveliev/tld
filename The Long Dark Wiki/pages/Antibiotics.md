@@ -11,18 +11,25 @@
 
 **Antibiotics**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Antibiotics_icon.png) / _Antibiotics\_icon.png_ |
-| **General** |  |
-| Item Type | [First Aid](./First%20Aid.md) |
-| Renewable | Yes ([Beachcombing](./Beachcombing.md) and [Trader](./Trader.md)) |
-| **Statistics** |  |
-| Unit weight | 0.02 kg/dose(0.04 lbs/dose) |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
-| Unit count | ![unit\_count\_icon.png](../assets/Unit_count_icon.png)6 doses |
+![](../assets/Antibiotics_icon.png)
 
-> “__A bottle of Antibiotics. Take it to stop infections from spreading.__”
+_Antibiotics\_icon.png_
+
+**General**
+
+**Item Type:** [First Aid](./First%20Aid.md)
+
+**Renewable:** Yes ([Beachcombing](./Beachcombing.md) and [Trader](./Trader.md))
+
+**Statistics**
+
+**Unit weight:** 0.02 kg/dose(0.04 lbs/dose)
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+**Unit count:** ![unit\_count\_icon.png](../assets/Unit_count_icon.png)6 doses
+
+> “**A bottle of Antibiotics. Take it to stop infections from spreading.**”
 >
 > — In-game description
 
@@ -58,5 +65,3 @@ _old model_
 
 - Antibiotics are typically a prescription-grade drug derived from Penicillin, which is the case in _The Long Dark_ as they are labeled as "Pharmacillin".
 - In The Long Dark, Antibiotics must be applied directly to treat a specific injury (similar to a Bandage), unlike real-world orally-taken drugs which generally distribute through the body.
-
-[ru:Антибиотики](ru:%D0%90%D0%BD%D1%82%D0%B8%D0%B1%D0%B8%D0%BE%D1%82%D0%B8%D0%BA%D0%B8) [fr:Antibiotiques](fr:Antibiotiques)

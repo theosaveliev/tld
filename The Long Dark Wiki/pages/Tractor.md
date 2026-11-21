@@ -17,5 +17,3 @@ Snacks like [Candy Bars](./Chocolate%20Bar.md) or [Sodas](./Soda%20%28disambigua
 ![The interior](../assets/Tractor_interior.jpg)
 
 _The interior_
-
-[ru:Трактор](ru:%D0%A2%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80)

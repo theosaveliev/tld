@@ -4,10 +4,16 @@
 
 **Peak Cave**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Peak_Cave.jpg) / _Peak\_Cave.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Peak_Cave_Location.png) / _Peak\_Cave\_Location.png_ |
-| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
-| Type | Cave\|- |
+![](../assets/Peak_Cave.jpg)
+
+_Peak\_Cave.jpg_
+
+**Location**
+
+![](../assets/Peak_Cave_Location.png)
+
+_Peak\_Cave\_Location.png_
+
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+
+**Type:** Cave\|-

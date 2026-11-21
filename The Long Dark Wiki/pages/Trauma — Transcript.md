@@ -12,15 +12,21 @@
 
 **Trauma/Transcript**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Missions_story_ep3_Trauma.png) / _Missions\_story\_ep3\_Trauma.png_ |
-| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
-| Previous | [Renewed Hope/Transcript](./Renewed%20Hope%20%E2%80%94%20Transcript.md) |
-| Current | Trauma/Transcript |
-| Next | [Fallen Star/Transcript](./Fallen%20Star%20%E2%80%94%20Transcript.md) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md) [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)-(Opening cutscene) |
-| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) [Molly](./Molly.md) / [Grey Mother](./Grey%20Mother.md) (opening cutscene) / [Hobbs](./Hobbs.md) (opening cutscene) / [Mathis](./Mathis.md) (opening cutscene) / [Will Mackenzie](./Will%20Mackenzie.md) (opening cutscene) / [Jeremiah](./Jeremiah.md) (opening cutscene) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) (opening cutscene) |
+![](../assets/Missions_story_ep3_Trauma.png)
+
+_Missions\_story\_ep3\_Trauma.png_
+
+**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|-
+
+**Previous:** [Renewed Hope/Transcript](./Renewed%20Hope%20%E2%80%94%20Transcript.md)
+
+**Current:** Trauma/Transcript
+
+**Next:** [Fallen Star/Transcript](./Fallen%20Star%20%E2%80%94%20Transcript.md)
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md) [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)-(Opening cutscene)
+
+**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Molly](./Molly.md) / [Grey Mother](./Grey%20Mother.md) (opening cutscene) / [Hobbs](./Hobbs.md) (opening cutscene) / [Mathis](./Mathis.md) (opening cutscene) / [Will Mackenzie](./Will%20Mackenzie.md) (opening cutscene) / [Jeremiah](./Jeremiah.md) (opening cutscene) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) (opening cutscene)
 
 This is the mission transcript for mission 1 [Trauma](./Trauma.md) of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 

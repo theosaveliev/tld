@@ -4,23 +4,35 @@
 
 **Down Vest**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Down_Vest_icon.png) / _Down\_Vest\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer torso |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)10% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)1% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition |
+![](../assets/Down_Vest_icon.png)
 
-> “__Down-filled top-layer that warms the core but leaves the arms exposed. Very light.__”
+_Down\_Vest\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Outer torso
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)10%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)1%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 2 × [Cloth](./Cloth.md) / 20 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition
+
+> “**Down-filled top-layer that warms the core but leaves the arms exposed. Very light.**”
 >
 > — In-game description
 

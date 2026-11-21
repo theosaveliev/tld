@@ -4,14 +4,19 @@
 
 **Safehouse Decoration Box**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Safehouse_Decoration_Box.jpg) / _Safehouse\_Decoration\_Box.jpg_ |
-| Release | TFTFT Part 6 Broken Silence |
-| Update | [2.33](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
-| Story item | No |
-| **Container** |  |
-| Capacity | 100.00 kg(220 lbs) |
+![](../assets/Safehouse_Decoration_Box.jpg)
+
+_Safehouse\_Decoration\_Box.jpg_
+
+**Release:** TFTFT Part 6 Broken Silence
+
+**Update:** [2.33](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Story item:** No
+
+**Container**
+
+**Capacity:** 100.00 kg(220 lbs)
 
 The **Safehouse Decoration Box** is a Container that is created when [Decorations](./Decorations.md) are dropped on the ground. It was introduced as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 

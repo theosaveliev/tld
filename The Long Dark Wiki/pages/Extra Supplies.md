@@ -14,20 +14,23 @@
 
 **Extra Supplies**
 
-| Property | Details |
-| --- | --- |
-|  | ![One of the rewards for this mission is a Mackinaw Jacket](../assets/Mackinaw_Jacket_icon.png) / _One of the rewards for this mission is a [Mackinaw Jacket](./Mackinaw%20Jacket.md)_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Current | Extra Supplies |
-| Region | [Mountain Town](./Mountain%20Town.md) |
+![One of the rewards for this mission is a Mackinaw Jacket](../assets/Mackinaw_Jacket_icon.png)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_One of the rewards for this mission is a [Mackinaw Jacket](./Mackinaw%20Jacket.md)_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Current:** Extra Supplies
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 **Extra Supplies** is a side mission started in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [story](./Wintermute.md). In the mission, the survivor gathers extra supplies for [Grey Mother](./Grey%20Mother.md) to help her survive the upcoming record low temperatures and heavy snowfall. The mission can only be completed in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), prior to the survivor [leaving Milton](./Paradise%20Lost.md).
 
 ## Official description
 
-> “__Grey Mother will need extra food and fuel if she is to survive alone for much longer.__”
+> “**Grey Mother will need extra food and fuel if she is to survive alone for much longer.**”
 
 ## Overview
 

@@ -11,18 +11,27 @@
 
 **Fresh Rabbit Pelt**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Fresh_Rabbit_Pelt_icon.png) / _Fresh\_Rabbit\_Pelt\_icon.png_ |
-| Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
-| Stackable | No |
-| Examine | Freshly harvested rabbit pelt. / Can be used for crafting and repairs after air-drying indoors for 3 days. |
-| **Values** |  |
-| Weight | 0.10 kg (0.22 lbs) |
+![](../assets/Fresh_Rabbit_Pelt_icon.png)
+
+_Fresh\_Rabbit\_Pelt\_icon.png_
+
+**Release:** [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Materials](./Materials.md)\|-
+
+**Stackable:** No
+
+**Examine:** Freshly harvested rabbit pelt. / Can be used for crafting and repairs after air-drying indoors for 3 days.
+
+**Values**
+
+**Weight:** 0.10 kg (0.22 lbs)
 
 **Fresh Rabbit Pelt** is the raw hide of a [Rabbit](./Rabbit.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Rabbitskin Hats](./Rabbitskin%20Hat.md) and [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) once they have [Cured](./Curing.md) into a [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md).
 
@@ -51,5 +60,3 @@ _Old model._
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212)):**
   - Rabbit Pelt is now used to repair Rabbitskin Mitts.
   - Added to game.
-
-[ru:Свежая шкура кролика](ru:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B0%D1%8F_%D1%88%D0%BA%D1%83%D1%80%D0%B0_%D0%BA%D1%80%D0%BE%D0%BB%D0%B8%D0%BA%D0%B0)

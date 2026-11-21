@@ -4,24 +4,45 @@
 
 **Astrid's Gloves**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Astrid%27s_Gloves_icon.png) / _Astrid's\_Gloves\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)5% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)1% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 65% condition |
+![](../assets/Astrid%27s_Gloves_icon.png)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_ | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | __Lightweight gloves. Not too warm, but very flexible.__ / In-game description | ” |
+_Astrid's\_Gloves\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)5%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)1%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 65% condition
+
+![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+
+_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
+
+**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
+
+\|}{\| style="margin:auto"
+
+“
+
+**Lightweight gloves. Not too warm, but very flexible.** / In-game description
+
+”
 
 **Astrid's Gloves** are a [Clothing](./Clothing.md) item worn on the player's hands obtained during [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 

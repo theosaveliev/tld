@@ -13,21 +13,33 @@
 
 **Herbal Tea**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Herbal_Tea_icon.png) / _Herbal\_Tea\_icon.png_ |
-| Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181) |
-| Wintermute | No |
-| Renewable | Yes ([Trader](./Trader.md) or very rarely through [Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | A package of fragrant tea. The label promises restorative benefits and more peaceful rest. |
-| **Values** |  |
-| Weight | 0.01 kg (0.02 lbs) |
-| **Decay Rate** |  |
-| Inside | 0.067% per day |
-| Outside | 0.067% per day |
+![](../assets/Herbal_Tea_icon.png)
+
+_Herbal\_Tea\_icon.png_
+
+**Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181)
+
+**Wintermute:** No
+
+**Renewable:** Yes ([Trader](./Trader.md) or very rarely through [Beachcombing](./Beachcombing.md))
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** A package of fragrant tea. The label promises restorative benefits and more peaceful rest.
+
+**Values**
+
+**Weight:** 0.01 kg (0.02 lbs)
+
+**Decay Rate**
+
+**Inside:** 0.067% per day
+
+**Outside:** 0.067% per day
 
 **Herbal Tea**is an ingredient for making [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md).
 

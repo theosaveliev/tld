@@ -4,19 +4,27 @@
 
 **Unknown (Alias: Patient 7)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
-| Date | March 30th, 2023 |
-| Mission | Signal Void |
-| **Biographical Information** |  |
-| Age | Unknown |
-| Status | Unknown (Possibly dead) |
-| Occupation | Presumed Langston Mine worker |
-| **Physical Information** |  |
-| Sex | Male |
+![](../assets/No_picture.png)
 
-**Spoiler Warning:** __This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_No\_picture.png_
+
+**Date:** March 30th, 2023
+
+**Mission:** Signal Void
+
+**Biographical Information**
+
+**Age:** Unknown
+
+**Status:** Unknown (Possibly dead)
+
+**Occupation:** Presumed Langston Mine worker
+
+**Physical Information**
+
+**Sex:** Male
+
+**Spoiler Warning:** **This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 Patient 7 is the codename given to one of the patients treated by the [Project Medical Officer](./Project%20Medical%20Officer.md) after the incident with [Rüdiger's Machine](./R%C3%BCdiger%27s%20Machine.md).
 

@@ -12,10 +12,11 @@
 
 **Freight-Train of Hate &amp; Hunger**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png) / _Freight-Train\_of\_Hate\_&amp;\_Hunger\_icon.png_ |
-| Description | Kill the Old Bear. |
+![](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png)
+
+_Freight-Train\_of\_Hate\_&amp;\_Hunger\_icon.png_
+
+**Description:** Kill the Old Bear.
 
 **Freight-Train of Hate &amp; Hunger** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

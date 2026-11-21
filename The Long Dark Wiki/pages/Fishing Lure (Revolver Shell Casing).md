@@ -4,19 +4,29 @@
 
 **Fishing Lure (Revolver Shell Casing)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) / _Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_ |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
-| Stackable | No |
-| Examine | A solid, enticing lure. Improves the odds when fishing. |
-| **Values** |  |
-| Weight | 0.01 kg (0.02 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_FishingLure |
+![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png)
+
+_Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_
+
+**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)\|-
+
+**Stackable:** No
+
+**Examine:** A solid, enticing lure. Improves the odds when fishing.
+
+**Values**
+
+**Weight:** 0.01 kg (0.02 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_FishingLure
 
 **Fishing Lure (Revolver Shell Casing)** is the unofficial name given to one of 3 different fishing lures sharing the same name of **[Fishing Lure](./Fishing%20Lure%20%28disambiguation%29.md)**. It was introduced in the free update portion of the Part 3: Frontier Comforts portion of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
@@ -28,9 +38,31 @@ If a Fishing Tackle is equipped with a Lure and snaps when fishing, the Lure wil
 
 It is impossible to craft this lure on [Interloper](./Interloper.md) or [Misery](./Misery.md), as Revolver Ammunition and Casings are disabled.
 
-| Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) / _Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_ | Fishing Lure (Casing) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+Image
+
+Lure
+
+Rare Fish Bonus
+
+Maximum Wait Penalty
+
+Materials
+
+Creation Time
+
+![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png)
+
+_Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_
+
+Fishing Lure (Casing)
+
++800%
+
++50%
+
+- 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md)
+
+50 min
 
 ## Crafting
 
@@ -58,5 +90,3 @@ It is impossible to craft this lure on [Interloper](./Interloper.md) or [Misery]
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-[ru:Рыбная приманка (гильза)](ru:%D0%A0%D1%8B%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0_%28%D0%B3%D0%B8%D0%BB%D1%8C%D0%B7%D0%B0%29)

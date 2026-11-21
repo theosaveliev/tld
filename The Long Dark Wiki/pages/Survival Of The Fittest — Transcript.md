@@ -13,15 +13,21 @@
 
 **Survival Of The Fittest/Transcript**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Survival_Of_The_Fittest.jpg) / _Survival\_Of\_The\_Fittest.jpg_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Previous | None |
-| Current | Survival Of The Fittest/Transcript |
-| Next | [Echoes Of Astrid/Transcript](./Echoes%20Of%20Astrid%20%E2%80%94%20Transcript.md) |
-| Region | [Mountain Town](./Mountain%20Town.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Astrid Greenwood](./Astrid%20Greenwood.md) |
+![](../assets/Survival_Of_The_Fittest.jpg)
+
+_Survival\_Of\_The\_Fittest.jpg_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Previous:** None
+
+**Current:** Survival Of The Fittest/Transcript
+
+**Next:** [Echoes Of Astrid/Transcript](./Echoes%20Of%20Astrid%20%E2%80%94%20Transcript.md)
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Astrid Greenwood](./Astrid%20Greenwood.md)
 
 This is the transcript for Chapter 1 [Survival Of The Fittest](./Survival%20Of%20The%20Fittest.md) for Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 

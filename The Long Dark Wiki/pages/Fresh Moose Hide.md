@@ -4,17 +4,25 @@
 
 **Fresh Moose Hide**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Fresh_Moose_Hide_icon.png) / _Fresh\_Moose\_Hide\_icon.png_ |
-| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
-| Stackable | No |
-| Examine | Freshly harvested skin of a Moose. / Can be used for crafting and repairs after air-drying indoors for 10 days. |
-| **Values** |  |
-| Weight | 5.00 kg (11 lbs) |
+![](../assets/Fresh_Moose_Hide_icon.png)
+
+_Fresh\_Moose\_Hide\_icon.png_
+
+**Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Materials](./Materials.md)\|-
+
+**Stackable:** No
+
+**Examine:** Freshly harvested skin of a Moose. / Can be used for crafting and repairs after air-drying indoors for 10 days.
+
+**Values**
+
+**Weight:** 5.00 kg (11 lbs)
 
 **Fresh Moose Hide** is the raw hide of a [Moose](./Moose.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) or [Moose-Hide Cloak](./Moose-Hide%20Cloak.md) once they have [Cured](./Curing.md) into a [Cured Moose Hide](./Cured%20Moose%20Hide.md).
 
@@ -34,5 +42,3 @@ Fresh Moose Hides are a very rare resource to obtain, since they require first f
 
 - UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)):**
   - Added to the game.
-
-[ru:Свежая лосиная шкура](ru:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B0%D1%8F_%D0%BB%D0%BE%D1%81%D0%B8%D0%BD%D0%B0%D1%8F_%D1%88%D0%BA%D1%83%D1%80%D0%B0)

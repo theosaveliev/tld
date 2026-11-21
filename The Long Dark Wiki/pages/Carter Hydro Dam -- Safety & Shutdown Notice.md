@@ -4,20 +4,31 @@
 
 **Carter Hydro Dam -- Safety &amp; Shutdown Notice**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Carter_Hydro_Dam_--_Safety_%26_Shutdown_Notice_icon.png) / _Carter\_Hydro\_Dam\_--\_Safety\_&amp;\_Shutdown\_Notice\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Official looking notice, written on Carter Hydro Dam letterhead. The letter is damaged and some of the words are hard to make out. It is dated from some time in the 1990s, although the exact date is illegible. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Leave It |
+![](../assets/Carter_Hydro_Dam_--_Safety_%26_Shutdown_Notice_icon.png)
+
+_Carter\_Hydro\_Dam\_--\_Safety\_&amp;\_Shutdown\_Notice\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Official looking notice, written on Carter Hydro Dam letterhead. The letter is damaged and some of the words are hard to make out. It is dated from some time in the 1990s, although the exact date is illegible.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
 
 **Carter Hydro Dam -- Safety &amp; Shutdown Notice** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found on a desk near the elevator of the upper [Carter Hydro Dam](./Carter%20Hydro%20Dam.md).
 

@@ -4,23 +4,35 @@
 
 **Combat Boots**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Combat_Boots_icon.png) / _Combat\_Boots\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer feet |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.5 °C(2.7 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)20% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)10% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-7% |
-| Harvest | 1 × [Cured leather](./Cured%20Leather.md) / 90 minutes |
-| Repair | 1 × [Cured leather](./Cured%20Leather.md) / 30 minutes / 25% condition |
+![](../assets/Combat_Boots_icon.png)
 
-> “__Boots designed for war zones. Too bad they weren't made for Winter. Heavy-duty leather with good ankle support. Would offer fair resistance to animal bites.__”
+_Combat\_Boots\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Outer feet
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.5 °C(2.7 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)20%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)10%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-7%
+
+**Harvest:** 1 × [Cured leather](./Cured%20Leather.md) / 90 minutes
+
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md) / 30 minutes / 25% condition
+
+> “**Boots designed for war zones. Too bad they weren't made for Winter. Heavy-duty leather with good ankle support. Would offer fair resistance to animal bites.**”
 >
 > — In-game description
 

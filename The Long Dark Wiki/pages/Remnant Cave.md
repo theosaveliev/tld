@@ -4,13 +4,26 @@
 
 **Remnant Cave**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Remnant_Cave.jpg) / _Remnant\_Cave.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Remnant_Cave_Location.png) / _Remnant\_Cave\_Location.png_ |
-| Region | [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)\|- |
-| **General** |  |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
+![](../assets/Remnant_Cave.jpg)
 
-|  | ![Boxcars outside the cave](../assets/Remnant_Cave_Flatcars.jpg) / _Boxcars outside the cave_ |
+_Remnant\_Cave.jpg_
+
+**Location**
+
+![](../assets/Remnant_Cave_Location.png)
+
+_Remnant\_Cave\_Location.png_
+
+**Region:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)\|-
+
+**General**
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+Has a bed
+
+![Boxcars outside the cave](../assets/Remnant_Cave_Flatcars.jpg)
+
+_Boxcars outside the cave_

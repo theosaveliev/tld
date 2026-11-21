@@ -11,10 +11,11 @@
 
 **Sounds Like Some Kind of Indie Band**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Sounds_Like_Some_Kind_of_Indie_Band_icon.png) / _Sounds\_Like\_Some\_Kind\_of\_Indie\_Band\_icon.png_ |
-| Description | Find all Forest Talker caches. |
+![](../assets/Sounds_Like_Some_Kind_of_Indie_Band_icon.png)
+
+_Sounds\_Like\_Some\_Kind\_of\_Indie\_Band\_icon.png_
+
+**Description:** Find all Forest Talker caches.
 
 **Sounds Like Some Kind of Indie Band** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

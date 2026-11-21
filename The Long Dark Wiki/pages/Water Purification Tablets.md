@@ -4,18 +4,25 @@
 
 **Water Purification Tablets**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Water_Purification_Tablets_icon.png) / _Water\_Purification\_Tablets\_icon.png_ |
-| **General** |  |
-| Item Type | [First Aid](./First%20Aid.md) |
-| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| **Statistics** |  |
-| Unit weight | 0.06 kg/tablet(0.14 lbs/tablet) |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
-| Unit count | ![unit\_count\_icon.png](../assets/Unit_count_icon.png)4 tablets |
+![](../assets/Water_Purification_Tablets_icon.png)
 
-> “__A packet of water purification tablets. Can help prevent dysentery. One tablet treats 1L/0.26 gallon of non-potable water.__”
+_Water\_Purification\_Tablets\_icon.png_
+
+**General**
+
+**Item Type:** [First Aid](./First%20Aid.md)
+
+**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
+
+**Statistics**
+
+**Unit weight:** 0.06 kg/tablet(0.14 lbs/tablet)
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+
+**Unit count:** ![unit\_count\_icon.png](../assets/Unit_count_icon.png)4 tablets
+
+> “**A packet of water purification tablets. Can help prevent dysentery. One tablet treats 1L/0.26 gallon of non-potable water.**”
 >
 > — In-game description
 
@@ -43,5 +50,3 @@ _old model_
 
 - Water purification tablets are packaged with the branding "_Aqua Pur"_.
 - The description on the back list: "Works Fast! 1 Tablet Treats 1 Litre!"
-
-[ru:Таблетки\_для\_очистки\_воды](ru:%D0%A2%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B8_%D0%B2%D0%BE%D0%B4%D1%8B)

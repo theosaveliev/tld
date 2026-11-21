@@ -13,22 +13,37 @@
 
 **Forlorn Muskeg**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Forlorn_Muskeg_Thumbnail.png) / _Forlorn\_Muskeg\_Thumbnail.png_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Forlorn_Muskeg_Location.png) / _Forlorn\_Muskeg\_Location.png_ |
-|  | ![](../assets/Forlorn_Muskeg_map.png) / _Forlorn\_Muskeg\_map.png_ |
-| **Details** |  |
-| Description | A frigid marshland bisected by the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md). |
-| Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Broken Railroad](./Broken%20Railroad.md), / [Bleak Inlet](./Bleak%20Inlet.md), / [Mountain Town](./Mountain%20Town.md) |
-| Difficulty | Advanced |
-| Interloper Region Spawn | Yes |
-| Locations | 18 |
-| Hazards and Survivability | [Wolves](./Wolf.md) and [Bears](./Bear.md) are found throughout the region, but fog and [Weak Ice](./Weak%20Ice.md) can prove far more deadly. There are very few manmade structures to shelter in. |
-| Date Added | Dec 2016 |
+![](../assets/Forlorn_Muskeg_Thumbnail.png)
 
-> “__For advanced players. A frigid open marshland bisected by a railway line. Weak ice and constant winds make this area highly dangerous.__”
+_Forlorn\_Muskeg\_Thumbnail.png_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/Forlorn_Muskeg_Location.png)
+
+_Forlorn\_Muskeg\_Location.png_
+
+![](../assets/Forlorn_Muskeg_map.png)
+
+_Forlorn\_Muskeg\_map.png_
+
+**Details**
+
+**Description:** A frigid marshland bisected by the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md).
+
+**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Broken Railroad](./Broken%20Railroad.md), / [Bleak Inlet](./Bleak%20Inlet.md), / [Mountain Town](./Mountain%20Town.md)
+
+**Difficulty:** Advanced
+
+**Interloper Region Spawn:** Yes
+
+**Locations:** 18
+
+**Hazards and Survivability:** [Wolves](./Wolf.md) and [Bears](./Bear.md) are found throughout the region, but fog and [Weak Ice](./Weak%20Ice.md) can prove far more deadly. There are very few manmade structures to shelter in.
+
+**Date Added:** Dec 2016
+
+> “**For advanced players. A frigid open marshland bisected by a railway line. Weak ice and constant winds make this area highly dangerous.**”
 >
 > — - In-game description
 

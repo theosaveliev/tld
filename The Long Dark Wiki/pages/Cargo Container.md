@@ -1,16 +1,20 @@
 # Cargo Container
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cargo_Container)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cargo_Container)
 
 **Cargo Container**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cargo_container_new.jpg) / _Cargo\_container\_new.jpg_ |
-| Release | Dec 2015 |
-| Update | [0.298](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298) |
-| **Container** |  |
-| Capacity | 30.00 kg(66 lbs) |
+![](../assets/Cargo_container_new.jpg)
+
+_Cargo\_container\_new.jpg_
+
+**Release:** Dec 2015
+
+**Update:** [0.298](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
+
+**Container**
+
+**Capacity:** 30.00 kg(66 lbs)
 
 **Cargo Containers** are locked containers found in [Timberwolf Mountain](./Timberwolf%20Mountain.md) that can only be opened with a [Hacksaw](./Hacksaw.md).
 

@@ -20,7 +20,7 @@
 
 _Mathis\_and\_his\_Convicts.jpg_
 
-> “__The bad men...the bad men CAME. Took my things. Tried to take my house. Thought they were safe because Grey Mother can't see. They were wrong.__”
+> “**The bad men...the bad men CAME. Took my things. Tried to take my house. Thought they were safe because Grey Mother can't see. They were wrong.**”
 >
 > — Grey Mother describing her encounter with the Convicts
 

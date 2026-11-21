@@ -4,9 +4,26 @@
 
 **Hatch**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Wooden](../assets/WoodenHatch.jpg) / _Wooden_ / ![Helicopter](../assets/HatchHelicopter.jpg) / _Helicopter_ / ![Helicopter Cylinder](../assets/HatchHelicopterCylinder.jpg) / _Helicopter Cylinder_ / ![Airplane](../assets/HatchAirplane.jpg) / _Airplane_ | 250px\]\] |
-| ![Wooden](../assets/WoodenHatch.jpg) / _Wooden_ | ![Helicopter](../assets/HatchHelicopter.jpg) / _Helicopter_ / ![Helicopter Cylinder](../assets/HatchHelicopterCylinder.jpg) / _Helicopter Cylinder_ / ![Airplane](../assets/HatchAirplane.jpg) / _Airplane_ |
-| **General** |  |
-| Item Type | Item |
+\[\[File: / ![Wooden](../assets/WoodenHatch.jpg) / _Wooden_ / ![Helicopter](../assets/HatchHelicopter.jpg) / _Helicopter_ / ![Helicopter Cylinder](../assets/HatchHelicopterCylinder.jpg) / _Helicopter Cylinder_ / ![Airplane](../assets/HatchAirplane.jpg) / _Airplane_
+
+250px\]\]
+
+![Wooden](../assets/WoodenHatch.jpg)
+
+_Wooden_
+
+![Helicopter](../assets/HatchHelicopter.jpg)
+
+_Helicopter_
+
+![Helicopter Cylinder](../assets/HatchHelicopterCylinder.jpg)
+
+_Helicopter Cylinder_
+
+![Airplane](../assets/HatchAirplane.jpg)
+
+_Airplane_
+
+**General**
+
+**Item Type:** Item

@@ -15,14 +15,19 @@
 
 **Car Battery**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Car_Battery_icon.png) / _Car\_Battery\_icon.png_ |
-| **General** |  |
-| Item Type | Tool\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)15.00 kg(33 lbs) |
-| Harvest | 30 min 6 x [Scrap Lead](./Scrap%20Lead.md) with a [Hacksaw](./Hacksaw.md) |
+![](../assets/Car_Battery_icon.png)
+
+_Car\_Battery\_icon.png_
+
+**General**
+
+**Item Type:** Tool\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)15.00 kg(33 lbs)
+
+**Harvest:** 30 min 6 x [Scrap Lead](./Scrap%20Lead.md) with a [Hacksaw](./Hacksaw.md)
 
 **Template:quote**
 

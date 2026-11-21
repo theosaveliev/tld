@@ -4,11 +4,18 @@
 
 **Cascading Falls**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cascading_Falls.jpg) / _Cascading\_Falls.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Cascading_Falls_Location.png) / _Cascading\_Falls\_Location.png_ |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
-| **General** |  |
-| Type | Landmark\|- |
+![](../assets/Cascading_Falls.jpg)
+
+_Cascading\_Falls.jpg_
+
+**Location**
+
+![](../assets/Cascading_Falls_Location.png)
+
+_Cascading\_Falls\_Location.png_
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+
+**General**
+
+**Type:** Landmark\|-

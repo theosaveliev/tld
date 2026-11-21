@@ -12,21 +12,43 @@
 
 **Rainbow Trout (Raw)**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Raw](../assets/Rainbow_Trout_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Rainbow_Trout_%28Raw%29_Opened_icon.png) / _Opened_ | 250px\]\] |
-| ![Raw](../assets/Rainbow_Trout_%28Raw%29_icon.png) / _Raw_ | ![Opened](../assets/Rainbow_Trout_%28Raw%29_Opened_icon.png) / _Opened_ |
-| Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- / Examine |
-| **Values** |  |
-| Calories | 575 kcal |
-| Hydration | 0% |
-| [Vitamin C](./Scurvy.md) | Moderate (20%) |
-| Weight | 2.3 kg (5.06 lbs) |
-| Oil/Weight | 0,025 |
+\[\[File: / ![Raw](../assets/Rainbow_Trout_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Rainbow_Trout_%28Raw%29_Opened_icon.png) / _Opened_
+
+250px\]\]
+
+![Raw](../assets/Rainbow_Trout_%28Raw%29_icon.png)
+
+_Raw_
+
+![Opened](../assets/Rainbow_Trout_%28Raw%29_Opened_icon.png)
+
+_Opened_
+
+**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+Item type
+
+[Food And Drink](./Food%20And%20Drink.md)\|-
+
+Examine
+
+**Values**
+
+**Calories:** 575 kcal
+
+**Hydration:** 0%
+
+**[Vitamin C](./Scurvy.md):** Moderate (20%)
+
+**Weight:** 2.3 kg (5.06 lbs)
+
+**Oil/Weight:** 0,025
 
 **Rainbow Trout (Raw)** is a food item in _The Long Dark_.
 

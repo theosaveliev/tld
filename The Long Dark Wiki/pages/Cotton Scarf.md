@@ -4,23 +4,35 @@
 
 **Cotton Scarf**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cotton_Scarf_icon.png) / _Cotton\_Scarf\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Head |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0 °C(0 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)5% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)0% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 60% condition |
+![](../assets/Cotton_Scarf_icon.png)
 
-> “__Thin cotton scarf designed more for looks than utility. Will keep the wind off your neck.__”
+_Cotton\_Scarf\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Head
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0 °C(0 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)5%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)0%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 60% condition
+
+> “**Thin cotton scarf designed more for looks than utility. Will keep the wind off your neck.**”
 >
 > — In-game description
 

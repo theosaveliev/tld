@@ -4,18 +4,37 @@
 
 **Maintenance Yard**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Maintenance_yard_building.jpg) / _maintenance\_yard\_building.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Maintenance_Yard_Location.png) / _Maintenance\_Yard\_Location.png_ |
-| Region | [Broken Railroad](./Broken%20Railroad.md)\|- |
-| Description | A large indoor maintenance yard and office |
-| **General** |  |
-| Type | Industrial\|- |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
-| ![](../assets/Forge_icon_green.png) / _forge\_icon\_green.png_ | Has a forge\|- |
-| Missions | ["You Fix My Rifle?"](./Episode%202%20-%20Luminance%20Fugue.md#You_Fix_My_Rifle%3F) ["The Best Defense"](./Episode%202%20-%20Luminance%20Fugue.md#The_Best_Defense) |
+![](../assets/Maintenance_yard_building.jpg)
+
+_maintenance\_yard\_building.jpg_
+
+**Location**
+
+![](../assets/Maintenance_Yard_Location.png)
+
+_Maintenance\_Yard\_Location.png_
+
+**Region:** [Broken Railroad](./Broken%20Railroad.md)\|-
+
+**Description:** A large indoor maintenance yard and office
+
+**General**
+
+**Type:** Industrial\|-
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+Has a bed
+
+![](../assets/Forge_icon_green.png)
+
+_forge\_icon\_green.png_
+
+Has a forge\|-
+
+**Missions:** ["You Fix My Rifle?"](./Episode%202%20-%20Luminance%20Fugue.md#You_Fix_My_Rifle%3F) ["The Best Defense"](./Episode%202%20-%20Luminance%20Fugue.md#The_Best_Defense)
 
 **Maintenance Yard** is a location in [Broken Railroad](./Broken%20Railroad.md).
 
@@ -74,5 +93,3 @@ _ditto, old version_
 ![Placing a plank on the raised platform allows reaching the hanging flag](../assets/Flag_MaintenanceYard.jpg)
 
 _Placing a plank on the raised platform allows reaching the hanging flag_
-
-[ru:Ремонтная площадка](ru:%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%BA%D0%B0)

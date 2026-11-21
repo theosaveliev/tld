@@ -4,18 +4,25 @@
 
 **Ghost Stag**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Ghost_Stag.png) / _Ghost\_Stag.png_ |
-| **Basic Information** |  |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
-| Role | Prey |
-| **Physical Information** |  |
-| Color | White |
-| Size | Medium |
-| Eyes | Red |
+![](../assets/Ghost_Stag.png)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_Ghost\_Stag.png_
+
+**Basic Information**
+
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+
+**Role:** Prey
+
+**Physical Information**
+
+**Color:** White
+
+**Size:** Medium
+
+**Eyes:** Red
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 > “__Long battered by harsh winters and isolation, Pleasant Valley residents often sought refuge and comfort in nature. A favourite pastime was standing watch for a legendary stag, which the older locals claimed could bring about a special insight.  
  That is if you could ever find the wild creature. Whether it was the mysterious animal itself, or the very act of peaceful observation which brought this new awareness to light, no one rightly knows any more.__”

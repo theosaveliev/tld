@@ -11,13 +11,17 @@
 
 **Suitcase**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Suitcase.jpg) / _Suitcase.jpg_ |
-| Release | 1.60 |
-| Story item | Yes |
-| **Container** |  |
-| Capacity | 20.00 kg(44 lbs) |
+![](../assets/Suitcase.jpg)
+
+_Suitcase.jpg_
+
+**Release:** 1.60
+
+**Story item:** Yes
+
+**Container**
+
+**Capacity:** 20.00 kg(44 lbs)
 
 A **Suitcase** is a storage item found in various locations across the Island. They come in various colors (blue, brown, red, orange). Clothing is the main item that can be looted from Suitcases. They can often be found at the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md) and [Terminal](./Terminal.md) in [Forsaken Airfield](./Forsaken%20Airfield.md), as well as inside a few cabins across the Island in the Far Territory. They are also found near [Plane Crashes](./Plane%20Crashes.md).
 

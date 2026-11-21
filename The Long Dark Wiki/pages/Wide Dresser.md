@@ -4,14 +4,19 @@
 
 **Wide Dresser**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Wide_Dresser_icon.png) / _Wide\_Dresser\_icon.png_ |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
-| **Values** |  |
-| Weight | 25.00 kg (55 lbs) |
-| **Actions** |  |
-| Backpack | Drop, Place |
+![](../assets/Wide_Dresser_icon.png)
+
+_Wide\_Dresser\_icon.png_
+
+**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Values**
+
+**Weight:** 25.00 kg (55 lbs)
+
+**Actions**
+
+**Backpack:** Drop, Place
 
 The **Wide** **Dresser** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 

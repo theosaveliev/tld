@@ -4,11 +4,13 @@
 
 **Revolver Firearm**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Revolver_Firearm_background.png) / _Revolver\_Firearm\_background.png_ |
-| Release | [Steadfast Ranger (v1.48)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48) |
-| Date | 6 May 2019 |
+![](../assets/Revolver_Firearm_background.png)
+
+_Revolver\_Firearm\_background.png_
+
+**Release:** [Steadfast Ranger (v1.48)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)
+
+**Date:** 6 May 2019
 
 ![](../assets/Revolver_Firearm.png)
 

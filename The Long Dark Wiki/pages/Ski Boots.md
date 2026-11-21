@@ -4,22 +4,33 @@
 
 **Ski Boots**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Ski_Boots_icon.png) / _Ski\_Boots\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)4.00 kg(8.8 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)3.0 °C(5.4 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)4.0 °C(7.2 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)10% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-20% |
-| Harvest | 1 × [Cured leather](./Cured%20Leather.md) / 90 minutes |
-| Repair | 1 × [Cured leather](./Cured%20Leather.md), / 1 × [Cloth](./Cloth.md) / 90 minutes / 30% condition |
+![](../assets/Ski_Boots_icon.png)
 
-> “__Hard plastic boots with high-tech synthetic insulation. Will keep your feet very warm at the expense of mobility.__”
+_Ski\_Boots\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)10%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-20%
+
+**Harvest:** 1 × [Cured leather](./Cured%20Leather.md) / 90 minutes
+
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md), / 1 × [Cloth](./Cloth.md) / 90 minutes / 30% condition
+
+> “**Hard plastic boots with high-tech synthetic insulation. Will keep your feet very warm at the expense of mobility.**”
 >
 > — In-game description
 

@@ -12,15 +12,31 @@
 
 **Prepper's Abandoned Cache**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Preppers_abandoned_cache3.jpg) / _preppers\_abandoned\_cache3.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Prepper%27s_Abandoned_Cache_Location.png) / _Prepper's\_Abandoned\_Cache\_Location.png_ |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
-| Type | Industrial\|- |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
-| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ | Has a workbench\|- |
+![](../assets/Preppers_abandoned_cache3.jpg)
+
+_preppers\_abandoned\_cache3.jpg_
+
+**Location**
+
+![](../assets/Prepper%27s_Abandoned_Cache_Location.png)
+
+_Prepper's\_Abandoned\_Cache\_Location.png_
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+
+**Type:** Industrial\|-
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+Has a bed
+
+![](../assets/Workbench_icon_green.png)
+
+_workbench\_icon\_green.png_
+
+Has a workbench\|-
 
 **Prepper's Abandoned Cache**is a location in [Pleasant Valley](./Pleasant%20Valley.md).
 
@@ -85,5 +101,3 @@ _The hidden wall in Survival Mode_
 - Most caches in _The Long Dark_ are marked with [fallout shelter](https://en.wikipedia.org/wiki/Fallout_shelter) signs, signifying their original purpose was to protect the local population in the event of a nuclear attack.
   - This is confirmed in Sutherland's Tale, as Wyatt created these caches in case of a Nuclear conflict.
 - The vent [Grate](./Grate.md) inside bunkers may be opened, potentially yielding hidden loot.
-
-[es:Búnker abandonado](es:B%C3%BAnker_abandonado) [ru:Забытый запас для выживания](ru:%D0%97%D0%B0%D0%B1%D1%8B%D1%82%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BF%D0%B0%D1%81_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%8B%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)

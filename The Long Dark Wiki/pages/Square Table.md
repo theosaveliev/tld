@@ -11,14 +11,19 @@
 
 **Square Table**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Square_Table_icon.png) / _Square\_Table\_icon.png_ |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
-| **Values** |  |
-| Weight | 5.00 kg (11 lbs) |
-| **Actions** |  |
-| Backpack | Drop, Place |
+![](../assets/Square_Table_icon.png)
+
+_Square\_Table\_icon.png_
+
+**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Values**
+
+**Weight:** 5.00 kg (11 lbs)
+
+**Actions**
+
+**Backpack:** Drop, Place
 
 The **Square Table** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 

@@ -13,16 +13,23 @@
 
 **Snow Shelter**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Snow_Shelter_icon.png) / _Snow\_shelter\_icon.png_ |
-| **General** |  |
-| Item Type | Item |
-| Wintermute | No |
-| **Statistics** |  |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)15 °C(27 °F) |
-| Harvest | 10 [Sticks](./Stick.md) / 2 [Cloth](./Cloth.md) |
-| Repair | up to 10 [Sticks](./Stick.md) / up to 3 [Cloth](./Cloth.md) |
+![](../assets/Snow_Shelter_icon.png)
+
+_Snow\_shelter\_icon.png_
+
+**General**
+
+**Item Type:** Item
+
+**Wintermute:** No
+
+**Statistics**
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)15 °C(27 °F)
+
+**Harvest:** 10 [Sticks](./Stick.md) / 2 [Cloth](./Cloth.md)
+
+**Repair:** up to 10 [Sticks](./Stick.md) / up to 3 [Cloth](./Cloth.md)
 
 **Snow Shelters** are temporary shelters which can be constructed outdoors in _The Long Dark_.
 

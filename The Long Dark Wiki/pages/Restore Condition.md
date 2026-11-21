@@ -4,19 +4,27 @@
 
 **Restore Condition**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Restore_Condition_icon.png) / _Restore\_Condition\_icon.png_ |
-| Release | [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98) |
-| Update | 1.98 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Caused By | Consume ![Birch\_Bark\_Tea\_icon.png](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md) |
-| Effect | Positive |
-| Type | Benefit |
-| Benefit Duration | 2 Hours |
+![](../assets/Restore_Condition_icon.png)
 
-> “__You'll gradually recover lost Condition over time.__”
+_Restore\_Condition\_icon.png_
+
+**Release:** [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98)
+
+**Update:** 1.98
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Caused By:** Consume ![Birch\_Bark\_Tea\_icon.png](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md)
+
+**Effect:** Positive
+
+**Type:** Benefit
+
+**Benefit Duration:** 2 Hours
+
+> “**You'll gradually recover lost Condition over time.**”
 >
 > — In-game Description
 

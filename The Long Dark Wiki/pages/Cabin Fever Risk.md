@@ -11,25 +11,39 @@
 
 **Cabin Fever Risk**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cabin_Fever_Risk_icon.png) / _Cabin\_Fever\_Risk\_icon.png_ |
-| Release | [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.338) |
-| Update | 0.338 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | You've been indoors so long you are starting to feel very uneasy. Spend some time outdoors before it gets worse. |
-| Caused By | Spending too much time indoors |
-| Effect | Negative |
-| Type | Risk |
-| Affliction Duration | Until Treated |
-| **Treatment** |  |
-| Treatment | Spend time outdoors |
-| Recovery Time | Immediate |
-| **Advanced Data** |  |
-| Item Key | GAMEPLAY\_CabinFeverRisk |
+![](../assets/Cabin_Fever_Risk_icon.png)
 
-> “__You've been indoors so long you are starting to feel very uneasy. Spend some time outdoors before it gets worse!__”
+_Cabin\_Fever\_Risk\_icon.png_
+
+**Release:** [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.338)
+
+**Update:** 0.338
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** You've been indoors so long you are starting to feel very uneasy. Spend some time outdoors before it gets worse.
+
+**Caused By:** Spending too much time indoors
+
+**Effect:** Negative
+
+**Type:** Risk
+
+**Affliction Duration:** Until Treated
+
+**Treatment**
+
+**Treatment:** Spend time outdoors
+
+**Recovery Time:** Immediate
+
+**Advanced Data**
+
+**Item Key:** GAMEPLAY\_CabinFeverRisk
+
+> “**You've been indoors so long you are starting to feel very uneasy. Spend some time outdoors before it gets worse!**”
 >
 > — In-game description
 
@@ -68,13 +82,37 @@ Spending more time outdoors will gradually cause the Risk to subside. Sleeping i
 
 Some [Cooking](./Cooking.md) Recipes increases the amount of time considered as spent outdoors when consumed, based on the amount eaten. However, they require many ingredients to make and give only a few hours of additional time at most.
 
-| Item | Name |
-| --- | --- |
-| ![](../assets/Breyerhouse_Pie_icon.png) / _Breyerhouse\_Pie\_icon.png_ | [Breyerhouse Pie](./Breyerhouse%20Pie.md) |
-| ![](../assets/Coastal_Fishcakes_icon.png) / _Coastal\_Fishcakes\_icon.png_ | [Coastal Fishcakes](./Coastal%20Fishcakes.md) |
-| ![](../assets/Dockworker%27s_Pie_icon.png) / _Dockworker's\_Pie\_icon.png_ | [Dockworker's Pie](./Dockworker%27s%20Pie.md) |
-| ![](../assets/Prepper%27s_Pie_icon.png) / _Prepper's\_Pie\_icon.png_ | [Prepper's Pie](./Prepper%27s%20Pie.md) |
-| ![](../assets/Stalker%27s_Pie_icon.png) / _Stalker's\_Pie\_icon.png_ | [Stalker's Pie](./Stalker%27s%20Pie.md) |
+**Item:** Name
+
+![](../assets/Breyerhouse_Pie_icon.png)
+
+_Breyerhouse\_Pie\_icon.png_
+
+[Breyerhouse Pie](./Breyerhouse%20Pie.md)
+
+![](../assets/Coastal_Fishcakes_icon.png)
+
+_Coastal\_Fishcakes\_icon.png_
+
+[Coastal Fishcakes](./Coastal%20Fishcakes.md)
+
+![](../assets/Dockworker%27s_Pie_icon.png)
+
+_Dockworker's\_Pie\_icon.png_
+
+[Dockworker's Pie](./Dockworker%27s%20Pie.md)
+
+![](../assets/Prepper%27s_Pie_icon.png)
+
+_Prepper's\_Pie\_icon.png_
+
+[Prepper's Pie](./Prepper%27s%20Pie.md)
+
+![](../assets/Stalker%27s_Pie_icon.png)
+
+_Stalker's\_Pie\_icon.png_
+
+[Stalker's Pie](./Stalker%27s%20Pie.md)
 
 ## Update history
 

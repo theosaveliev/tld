@@ -4,10 +4,16 @@
 
 **Reluctant Shortcut**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Reluctant_shortcut.jpg) / _Reluctant\_shortcut.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Reluctant_Shortcut_Location.png) / _Reluctant\_Shortcut\_Location.png_ |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
-| **General** |  |
+![](../assets/Reluctant_shortcut.jpg)
+
+_Reluctant\_shortcut.jpg_
+
+**Location**
+
+![](../assets/Reluctant_Shortcut_Location.png)
+
+_Reluctant\_Shortcut\_Location.png_
+
+**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+
+**General**

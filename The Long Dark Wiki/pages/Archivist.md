@@ -12,13 +12,17 @@
 
 **Archivist**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Challenge_Archivist.png) / _Challenge\_Archivist.png_ |
-| **Details** |  |
-| Regions | [Mountain Town](./Mountain%20Town.md), [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md), [Coastal Highway](./Coastal%20Highway.md), [Pleasant Valley](./Pleasant%20Valley.md), [Broken Railroad](./Broken%20Railroad.md), [Desolation Point](./Desolation%20Point.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
-| Difficulty | 3 |
-| Date Added | December 2018 |
+![](../assets/Challenge_Archivist.png)
+
+_Challenge\_Archivist.png_
+
+**Details**
+
+**Regions:** [Mountain Town](./Mountain%20Town.md), [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md), [Coastal Highway](./Coastal%20Highway.md), [Pleasant Valley](./Pleasant%20Valley.md), [Broken Railroad](./Broken%20Railroad.md), [Desolation Point](./Desolation%20Point.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md)
+
+**Difficulty:** 3
+
+**Date Added:** December 2018
 
 > “__In the Quiet Apocalypse, fragments of the old world are few and far between. Collect all the Buffer Memories you find, to preserve their echoes.  
  During the aurora, collect Buffer Memories from across Great Bear Island at the locations listed in your Journal.__”
@@ -29,7 +33,7 @@
 
 ## Overview
 
-> “__Collect a Buffer Memory from every location on the list.__”
+> “**Collect a Buffer Memory from every location on the list.**”
 >
 > — Journal Objective
 

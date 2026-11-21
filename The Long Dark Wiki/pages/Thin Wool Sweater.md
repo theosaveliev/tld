@@ -4,22 +4,33 @@
 
 **Thin Wool Sweater**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Thin_Wool_Sweater_icon.png) / _Thin\_Wool\_Sweater\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)20% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)2% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 30 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 60 minutes / 40% condition |
+![](../assets/Thin_Wool_Sweater_icon.png)
 
-> “__Thin-knit wool sweater. Mostly for looks, but provides some warmth and being knit from wool remains warm when wet.__”
+_Thin\_Wool\_Sweater\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)20%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)2%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 30 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 60 minutes / 40% condition
+
+> “**Thin-knit wool sweater. Mostly for looks, but provides some warmth and being knit from wool remains warm when wet.**”
 >
 > — In-game description
 

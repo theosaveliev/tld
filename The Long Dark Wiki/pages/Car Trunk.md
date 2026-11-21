@@ -4,11 +4,16 @@
 
 **Car Trunk**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Car_Trunk.jpg) / _Car\_Trunk.jpg_ |
-| Release | TBD |
-| Update | [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00) |
-| Story item | Yes |
-| **Container** |  |
-| Capacity | 40.00 kg(88 lbs) |
+![](../assets/Car_Trunk.jpg)
+
+_Car\_Trunk.jpg_
+
+**Release:** TBD
+
+**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
+
+**Story item:** Yes
+
+**Container**
+
+**Capacity:** 40.00 kg(88 lbs)

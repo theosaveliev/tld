@@ -11,26 +11,53 @@
 
 **Dog Food**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Sealed](../assets/Dog_Food_icon.png) / _Sealed_ / ![Opened](../assets/Dog_Food_%28Opened%29_icon.png) / _Opened_ | 250px\]\] |
-| ![Sealed](../assets/Dog_Food_icon.png) / _Sealed_ | ![Opened](../assets/Dog_Food_%28Opened%29_icon.png) / _Opened_ |
-| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
-| Wintermute | No |
-| Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- / Equipable |
-| Stackable | No |
-| Examine | Can of wet dog food. Smells bad, but eating it is better than starving. Probably. |
-| **Values** |  |
-| Calories | 500 kcal |
-| Hydration | 5% |
-| Weight | 0.30 kg (0.66 lbs) |
-| **Decay Rate** |  |
-| Inside | 0.667% per day |
-| Outside | 0.167% per day |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_DogFood |
+\[\[File: / ![Sealed](../assets/Dog_Food_icon.png) / _Sealed_ / ![Opened](../assets/Dog_Food_%28Opened%29_icon.png) / _Opened_
+
+250px\]\]
+
+![Sealed](../assets/Dog_Food_icon.png)
+
+_Sealed_
+
+![Opened](../assets/Dog_Food_%28Opened%29_icon.png)
+
+_Opened_
+
+**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+
+**Wintermute:** No
+
+**Renewable:** Yes (rare [Beachcombing](./Beachcombing.md))
+
+**Properties**
+
+Item type
+
+[Food And Drink](./Food%20And%20Drink.md)\|-
+
+Equipable
+
+**Stackable:** No
+
+**Examine:** Can of wet dog food. Smells bad, but eating it is better than starving. Probably.
+
+**Values**
+
+**Calories:** 500 kcal
+
+**Hydration:** 5%
+
+**Weight:** 0.30 kg (0.66 lbs)
+
+**Decay Rate**
+
+**Inside:** 0.667% per day
+
+**Outside:** 0.167% per day
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_DogFood
 
 **Dog Food** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 

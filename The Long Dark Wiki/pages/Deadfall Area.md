@@ -4,11 +4,18 @@
 
 **Deadfall Area**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Deadfall_area.jpg) / _Deadfall\_area.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Deadfall_Area_Location.png) / _Deadfall\_Area\_Location.png_ |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
-| **General** |  |
-| Type | Outdoors\|- |
+![](../assets/Deadfall_area.jpg)
+
+_Deadfall\_area.jpg_
+
+**Location**
+
+![](../assets/Deadfall_Area_Location.png)
+
+_Deadfall\_Area\_Location.png_
+
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+
+**General**
+
+**Type:** Outdoors\|-

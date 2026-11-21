@@ -11,9 +11,19 @@
 - [Gallery](#gallery)
 - [Trivia](#trivia)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}![](../assets/Glimmer_Fog_Icon.png){\| style="margin:auto" | “ | __A mysterious phenomenon first encountered in the Far Territory, Glimmer Fog charges the air and ground with electrostatic energy, animating some electronics in entirely unpredictable ways.__ | ” |
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+\|}![](../assets/Glimmer_Fog_Icon.png){\| style="margin:auto"
+
+“
+
+**A mysterious phenomenon first encountered in the Far Territory, Glimmer Fog charges the air and ground with electrostatic energy, animating some electronics in entirely unpredictable ways.**
+
+”
 
 - [Official description](https://www.thelongdark.com/expansion/) from the Tales From the Far Territory Website Page
 

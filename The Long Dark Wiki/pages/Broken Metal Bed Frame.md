@@ -4,11 +4,30 @@
 
 **Broken Metal Bed Frame**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Broken_Metal_Bed_Frame.jpg) / _Broken\_Metal\_Bed\_Frame.jpg_ |
-| **General** |  |
-| Item Type |  |
+![](../assets/Broken_Metal_Bed_Frame.jpg)
 
-| Object | Scrap Metal / Time / Calories / Condition (of Hacksaw) |
-| Broken Metal Bed Frame | 8 / 3 hours / 375 / -5% |
+_Broken\_Metal\_Bed\_Frame.jpg_
+
+**General**
+
+Item Type
+
+Object
+
+Scrap Metal
+
+Time
+
+Calories
+
+Condition (of Hacksaw)
+
+Broken Metal Bed Frame
+
+8
+
+3 hours
+
+375
+
+-5%

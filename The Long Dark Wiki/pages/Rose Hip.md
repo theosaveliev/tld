@@ -13,15 +13,19 @@
 
 **Rose Hip**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Rose_Hip_icon.png) / _Rose\_Hip\_icon.png_ |
-| **General** |  |
-| Item Type | Material\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.01 kg(0.02 lbs) |
+![](../assets/Rose_Hip_icon.png)
 
-> “__A fruit of a wild rose bush.__”
+_Rose\_Hip\_icon.png_
+
+**General**
+
+**Item Type:** Material\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
+
+> “**A fruit of a wild rose bush.**”
 >
 > — In-game description
 

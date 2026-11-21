@@ -4,22 +4,35 @@
 
 **Basement Key**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Basement_Key_icon.png) / _Basement\_Key\_icon.png_ |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
-| Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Trauma](./Trauma.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A key to the Basement in Molly's Farmhouse. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Leave It |
-| **Advanced data** |  |
-| Item key | STORY\_RuralRegionFarmKey |
+![](../assets/Basement_Key_icon.png)
+
+_Basement\_Key\_icon.png_
+
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+
+**Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Trauma](./Trauma.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A key to the Basement in Molly's Farmhouse.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
+
+**Advanced data**
+
+**Item key:** STORY\_RuralRegionFarmKey
 
 **Basement Key** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Trauma](./Trauma.md) mission.
 

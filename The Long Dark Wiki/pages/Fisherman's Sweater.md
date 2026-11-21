@@ -4,23 +4,35 @@
 
 **Fisherman's Sweater**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Fisherman%27s_Sweater_icon.png) / _Fisherman's\_Sweater\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Inner torso |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.5 °C(2.7 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)40% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)5% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-1% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 45 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 60 minutes / 30% condition |
+![](../assets/Fisherman%27s_Sweater_icon.png)
 
-> “__Heavy cable-knit wool sweater, of the kind worn by people on cold boats. High necked and generally very warm. Also, heavy.__”
+_Fisherman's\_Sweater\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Inner torso
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.5 °C(2.7 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)40%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)5%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-1%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 45 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 60 minutes / 30% condition
+
+> “**Heavy cable-knit wool sweater, of the kind worn by people on cold boats. High necked and generally very warm. Also, heavy.**”
 >
 > — In-game description
 

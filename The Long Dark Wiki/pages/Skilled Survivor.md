@@ -13,10 +13,11 @@
 
 **Skilled Survivor**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Skilled_Survivor_icon.png) / _Skilled\_Survivor\_icon.png_ |
-| Description | Get all skills to level 5 in a single Survival Mode game. |
+![](../assets/Skilled_Survivor_icon.png)
+
+_Skilled\_Survivor\_icon.png_
+
+**Description:** Get all skills to level 5 in a single Survival Mode game.
 
 ## Guide
 

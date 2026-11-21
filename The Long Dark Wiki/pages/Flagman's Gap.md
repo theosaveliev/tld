@@ -4,11 +4,18 @@
 
 **Flagman's Gap**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Flagman%27s_Gap.jpg) / _Flagman's\_Gap.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Flagman%27s_Gap_Location.png) / _Flagman's\_Gap\_Location.png_ |
-| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
-| Description | A small road passing through a gap between large boulders |
-| **General** |  |
+![](../assets/Flagman%27s_Gap.jpg)
+
+_Flagman's\_Gap.jpg_
+
+**Location**
+
+![](../assets/Flagman%27s_Gap_Location.png)
+
+_Flagman's\_Gap\_Location.png_
+
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+
+**Description:** A small road passing through a gap between large boulders
+
+**General**

@@ -4,14 +4,19 @@
 
 **Rustic Cupboard**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Rustic_Cupboard_icon.png) / _Rustic\_Cupboard\_icon.png_ |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
-| **Values** |  |
-| Weight | 15.00 kg (33 lbs) |
-| **Actions** |  |
-| Backpack | Drop, Place |
+![](../assets/Rustic_Cupboard_icon.png)
+
+_Rustic\_Cupboard\_icon.png_
+
+**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Values**
+
+**Weight:** 15.00 kg (33 lbs)
+
+**Actions**
+
+**Backpack:** Drop, Place
 
 **Rustic Cupboard** is a [Decorations](./Decorations.md) that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 

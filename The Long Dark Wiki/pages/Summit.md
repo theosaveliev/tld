@@ -4,11 +4,18 @@
 
 **Summit**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Tail_section_and_wing2.jpg) / _tail\_section\_and\_wing2.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Summit_Location.png) / _Summit\_Location.png_ |
-| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
-| **General** |  |
-| Type | Outdoors\|- |
+![](../assets/Tail_section_and_wing2.jpg)
+
+_tail\_section\_and\_wing2.jpg_
+
+**Location**
+
+![](../assets/Summit_Location.png)
+
+_Summit\_Location.png_
+
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+
+**General**
+
+**Type:** Outdoors\|-

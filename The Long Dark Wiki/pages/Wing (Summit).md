@@ -4,12 +4,20 @@
 
 **Wing (Summit)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Wing_%28Summit%29.jpg) / _Wing\_(Summit).jpg_ |
-| **Location** |  |
-|  | ![](../assets/Wing_%28Summit%29_Location.png) / _Wing\_(Summit)\_Location.png_ |
-| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
-| Description | A wing from the crashed aircraft |
-| **General** |  |
-| Type | Outdoors\|- |
+![](../assets/Wing_%28Summit%29.jpg)
+
+_Wing\_(Summit).jpg_
+
+**Location**
+
+![](../assets/Wing_%28Summit%29_Location.png)
+
+_Wing\_(Summit)\_Location.png_
+
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+
+**Description:** A wing from the crashed aircraft
+
+**General**
+
+**Type:** Outdoors\|-

@@ -4,20 +4,31 @@
 
 **Fear**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Fear_icon.png) / _Fear\_icon.png_ |
-| Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86) |
-| Update | 1.86 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Caused By | Being within 50m or less from the Darkwalker |
-| Effect | Negative |
-| Type | Injury |
-| Affliction Duration | Until Treated |
-| **Treatment** |  |
-| Treatment | Move 50m (~164 feet) away from the Darkwalker |
-| Recovery Time | Instant |
+![](../assets/Fear_icon.png)
+
+_Fear\_icon.png_
+
+**Release:** [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86)
+
+**Update:** 1.86
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Caused By:** Being within 50m or less from the Darkwalker
+
+**Effect:** Negative
+
+**Type:** Injury
+
+**Affliction Duration:** Until Treated
+
+**Treatment**
+
+**Treatment:** Move 50m (~164 feet) away from the Darkwalker
+
+**Recovery Time:** Instant
 
 **Fear** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of two unique Afflictions that can be encountered only within the [Escape the Darkwalker](./Escape%20the%20Darkwalker.md) [Challenge](./Challenge.md).
 

@@ -4,23 +4,35 @@
 
 **Mariner's Pea Coat**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Mariner%27s_Pea_Coat_icon.png) / _Mariner's\_Pea\_Coat\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer torso |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)3.0 °C(5.4 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)4.0 °C(7.2 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)75% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)7% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-6% |
-| Harvest | 2 × [Cloth](./Cloth.md) / 90 minutes |
-| Repair | 2 × [Cloth](./Cloth.md) / 90 minutes / 40% condition |
+![](../assets/Mariner%27s_Pea_Coat_icon.png)
 
-> “__Heavy wool coat designed for seafaring types. Not the warmest coat out there, but close to it. Does a good job of blocking the wind but gets very heavy when wet. Stylish.__”
+_Mariner's\_Pea\_Coat\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Outer torso
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)75%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)7%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-6%
+
+**Harvest:** 2 × [Cloth](./Cloth.md) / 90 minutes
+
+**Repair:** 2 × [Cloth](./Cloth.md) / 90 minutes / 40% condition
+
+> “**Heavy wool coat designed for seafaring types. Not the warmest coat out there, but close to it. Does a good job of blocking the wind but gets very heavy when wet. Stylish.**”
 >
 > — In-game description
 

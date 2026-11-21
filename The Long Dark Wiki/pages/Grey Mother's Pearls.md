@@ -4,21 +4,33 @@
 
 **Grey Mother's Pearls**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Grey_Mother%27s_Pearls_icon.png) / _Grey\_Mother's\_Pearls\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [One Last Thing](./One%20Last%20Thing.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Pearls that once belonged to the Grey Mother's daughter Lily |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_GMPearls |
+![](../assets/Grey_Mother%27s_Pearls_icon.png)
+
+_Grey\_Mother's\_Pearls\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [One Last Thing](./One%20Last%20Thing.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Pearls that once belonged to the Grey Mother's daughter Lily
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_GMPearls
 
 **Grey Mother's Pearls** are a [Collectible](./Collectibles.md) item given to the [Will Mackenzie](./Will%20Mackenzie.md) in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md) to complete the [One Last Thing](./One%20Last%20Thing.md) side mission.
 

@@ -4,13 +4,26 @@
 
 **Turbulent Pasture**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Turbulent_Pasture.jpg) / _Turbulent\_Pasture.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Turbulent_Pasture_Location.png) / _Turbulent\_Pasture\_Location.png_ |
-| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ |  |
-| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ |  |
+![](../assets/Turbulent_Pasture.jpg)
 
-|  | ![5 Maple Saplings on the nearby hill](../assets/Turbulent_Pasture_Maple_Saplings.jpg) / _5 Maple Saplings on the nearby hill_ |
+_Turbulent\_Pasture.jpg_
+
+**Location**
+
+![](../assets/Turbulent_Pasture_Location.png)
+
+_Turbulent\_Pasture\_Location.png_
+
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+![](../assets/Workbench_icon_green.png)
+
+_workbench\_icon\_green.png_
+
+![5 Maple Saplings on the nearby hill](../assets/Turbulent_Pasture_Maple_Saplings.jpg)
+
+_5 Maple Saplings on the nearby hill_

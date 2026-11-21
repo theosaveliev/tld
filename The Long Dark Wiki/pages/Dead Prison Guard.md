@@ -4,12 +4,15 @@
 
 **Dead Prison Guard**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Dead_Prison_Guard.jpg) / _Dead\_Prison\_Guard.jpg_ |
-| Story item | Yes |
-| **Container** |  |
-| Capacity | 10.00 kg(22 lbs) |
+![](../assets/Dead_Prison_Guard.jpg)
+
+_Dead\_Prison\_Guard.jpg_
+
+**Story item:** Yes
+
+**Container**
+
+**Capacity:** 10.00 kg(22 lbs)
 
 A **Dead Prison Guard** is a uniquely named [Frozen Corpse](./Frozen%20Corpse.md) found in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). He belonged to the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) after the [First Flare](./First%20Flare.md) caused some of the inmates to scatter into [Pleasant Valley](./Pleasant%20Valley.md). He holds the [Blackrock Penitentiary Memo](./Blackrock%20Penitentiary%20Memo.md), but otherwise functions as a normal Frozen Corpse and has the same storage capacity as any other corpse.
 

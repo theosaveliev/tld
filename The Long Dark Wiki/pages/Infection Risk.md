@@ -11,30 +11,45 @@
 
 **Infection Risk**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Infection_Risk_icon.png) / _Infection\_Risk\_icon.png_ |
-| Release | [5 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.107) |
-| Update | 0.107 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | You sustained a wound that could result in infection if left untreated. |
-| Caused By | [Wildlife](./Wildlife.md) [Struggle](./Struggle.md) |
-| Effect | Negative |
-| Type | Risk |
-| Affliction Duration | Until Treated |
-| **Treatment** |  |
-| Treatment | 1 x ![Antiseptic\_icon.png](../assets/Antiseptic_icon.png) [Antiseptic](./Antiseptic.md) |
-| Alternate Treatment | 1 x ![Old\_Man's\_Beard\_Wound\_Dressing\_icon.png](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png) [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md) |
-| Recovery Time | Immediate |
-| **Advanced Data** |  |
-| Item Key | GAMEPLAY\_CabinFeverRisk |
+![](../assets/Infection_Risk_icon.png)
+
+_Infection\_Risk\_icon.png_
+
+**Release:** [5 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.107)
+
+**Update:** 0.107
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** You sustained a wound that could result in infection if left untreated.
+
+**Caused By:** [Wildlife](./Wildlife.md) [Struggle](./Struggle.md)
+
+**Effect:** Negative
+
+**Type:** Risk
+
+**Affliction Duration:** Until Treated
+
+**Treatment**
+
+**Treatment:** 1 x ![Antiseptic\_icon.png](../assets/Antiseptic_icon.png) [Antiseptic](./Antiseptic.md)
+
+**Alternate Treatment:** 1 x ![Old\_Man's\_Beard\_Wound\_Dressing\_icon.png](../assets/Old_Man%27s_Beard_Wound_Dressing_icon.png) [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md)
+
+**Recovery Time:** Immediate
+
+**Advanced Data**
+
+**Item Key:** GAMEPLAY\_CabinFeverRisk
 
 An **Infection Risk** is an [Affliction](./Afflictions.md) that can develop into an [Infection](./Infection.md) between 8 and 24 hours after receiving the affliction. It is received from getting into a [Struggle](./Struggle.md) with hostile [Wildlife](./Wildlife.md).
 
 ## Risk
 
-> “__You sustained a wound that could result in Infection if left untreated.__”
+> “**You sustained a wound that could result in Infection if left untreated.**”
 >
 > — In-game description
 

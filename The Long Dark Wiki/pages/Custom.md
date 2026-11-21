@@ -10,7 +10,7 @@
 - [Common Custom Options](#common-custom-options)
 - [Custom Difficulty Customization Options](#custom-difficulty-customization-options)
 
-![Custom\_icon.png](../assets/Custom_icon.png){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Use our custom toolbox to craft a unique experience between Survival and Exploration - an experience all your own.__ | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Custom** is the 6th [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_.
+![Custom\_icon.png](../assets/Custom_icon.png){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Use our custom toolbox to craft a unique experience between Survival and Exploration - an experience all your own.** | style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Custom** is the 6th [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Overview
 

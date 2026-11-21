@@ -4,9 +4,12 @@
 
 **Bin**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Bin_Wintermute.png) / _Bin\_Wintermute.png_ |
-| Story item | Yes |
-| **Container** |  |
-| Capacity | 50.00 kg(110 lbs) |
+![](../assets/Bin_Wintermute.png)
+
+_Bin\_Wintermute.png_
+
+**Story item:** Yes
+
+**Container**
+
+**Capacity:** 50.00 kg(110 lbs)

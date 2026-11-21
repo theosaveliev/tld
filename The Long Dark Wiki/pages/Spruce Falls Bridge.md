@@ -4,12 +4,20 @@
 
 **Spruce Falls Bridge**
 
-| Property | Details |
-| --- | --- |
-|  | ![Spruce Falls Bridge with a sign to Milton](../assets/Spruce_Falls_Bridge.jpg) / _Spruce Falls Bridge with a sign to [Milton](./Milton.md)_ |
-| **Location** |  |
-|  | ![](../assets/Spruce_Falls_Bridge_Location.png) / _Spruce\_Falls\_Bridge\_Location.png_ |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
-| Description | A bridge |
-| **General** |  |
-| Type | Landmark\|- |
+![Spruce Falls Bridge with a sign to Milton](../assets/Spruce_Falls_Bridge.jpg)
+
+_Spruce Falls Bridge with a sign to [Milton](./Milton.md)_
+
+**Location**
+
+![](../assets/Spruce_Falls_Bridge_Location.png)
+
+_Spruce\_Falls\_Bridge\_Location.png_
+
+**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+
+**Description:** A bridge
+
+**General**
+
+**Type:** Landmark\|-

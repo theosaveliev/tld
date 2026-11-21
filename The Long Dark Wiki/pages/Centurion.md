@@ -4,10 +4,11 @@
 
 **Centurion**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Centurion_icon.png) / _Centurion\_icon.png_ |
-| Description | You survived for 100 days in a single Survival mode game. |
+![](../assets/Centurion_icon.png)
+
+_Centurion\_icon.png_
+
+**Description:** You survived for 100 days in a single Survival mode game.
 
 **Centurion** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

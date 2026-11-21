@@ -23,18 +23,25 @@
 
 **Old Bear**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Old_Bear.png) / _Old\_Bear.png_ |
-| **Basic Information** |  |
-| Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321) |
-| Role | Predator |
-| **Physical Information** |  |
-| Color | Black |
-| Size | Large |
-| Eyes | Brown |
+![](../assets/Old_Bear.png)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_Old\_Bear.png_
+
+**Basic Information**
+
+**Release:** [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)
+
+**Role:** Predator
+
+**Physical Information**
+
+**Color:** Black
+
+**Size:** Large
+
+**Eyes:** Brown
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 > “__M - What's the story with this bear?  
  J - Story's real simple. That bear and me, we have unfinished business...Yeah. You could call it a trade in kind. Every time we meet, we each leave with a little of the other's blood.__”

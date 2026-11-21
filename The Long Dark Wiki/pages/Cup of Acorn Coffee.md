@@ -4,22 +4,35 @@
 
 **Cup of Acorn Coffee**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cup_of_Acorn_Coffee_icon.png) / _Cup\_of\_Acorn\_Coffee\_icon.png_ |
-| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
-| Wintermute | No |
-| Renewable | No |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | A cup of Acorn Coffee. |
-| **Values** |  |
-| Calories | 100 kcal |
-| Hydration | 30% |
-| Weight | 0.10 kg (0.22 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_AcornCoffeeCup |
+![](../assets/Cup_of_Acorn_Coffee_icon.png)
+
+_Cup\_of\_Acorn\_Coffee\_icon.png_
+
+**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
+
+**Wintermute:** No
+
+**Renewable:** No
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** A cup of Acorn Coffee.
+
+**Values**
+
+**Calories:** 100 kcal
+
+**Hydration:** 30%
+
+**Weight:** 0.10 kg (0.22 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_AcornCoffeeCup
 
 A **Cup of Acorn Coffee** is a brewed drink in The Long Dark, made from [Acorn Grounds](./Acorn%20Grounds.md), which in turn are made out of [Cooked Acorns](./Acorns%20%28Cooked%29.md).
 
@@ -52,5 +65,3 @@ Acorn Coffee is a non-renewable resource.
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
-
-[ru:Чашка желудевого кофе](ru:%D0%A7%D0%B0%D1%88%D0%BA%D0%B0_%D0%B6%D0%B5%D0%BB%D1%83%D0%B4%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D1%84%D0%B5)

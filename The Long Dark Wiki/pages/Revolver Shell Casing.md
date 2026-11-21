@@ -11,15 +11,19 @@
 
 **Revolver Shell Casing**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Revolver_Shell_Casing_icon.png) / _Revolver\_Shell\_Casing\_icon.png_ |
-| **General** |  |
-| Item Type | Material\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.005 kg(0.01 lbs) |
+![](../assets/Revolver_Shell_Casing_icon.png)
 
-> “__Empty casing from firing a Revolver. Used for Crafting new Ammunition.__”
+_Revolver\_Shell\_Casing\_icon.png_
+
+**General**
+
+**Item Type:** Material\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
+
+> “**Empty casing from firing a Revolver. Used for Crafting new Ammunition.**”
 >
 > — In-game description
 

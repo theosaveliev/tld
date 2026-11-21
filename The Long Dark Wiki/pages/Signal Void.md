@@ -18,17 +18,31 @@
 
 **Signal Void**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Tales_objectives_01_signalVoid.png) / _Tales\_objectives\_01\_signalVoid.png_ |
-| **Missions** |  |
-| Current | Signal Void |
-| Next | [Buried Echoes](./Buried%20Echoes.md) |
-| Region | [Forsaken Airfield](./Forsaken%20Airfield.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Bleak Inlet](./Bleak%20Inlet.md) / [Pleasant Valley](./Pleasant%20Valley.md) / [Mountain Town](./Mountain%20Town.md) / [Hushed River Valley](./Hushed%20River%20Valley.md) |
+![](../assets/Tales_objectives_01_signalVoid.png)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __Track down the mysterious radio transmissions across Great Bear Island.__ | ” |
+_Tales\_objectives\_01\_signalVoid.png_
+
+**Missions**
+
+**Current:** Signal Void
+
+**Next:** [Buried Echoes](./Buried%20Echoes.md)
+
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Bleak Inlet](./Bleak%20Inlet.md) / [Pleasant Valley](./Pleasant%20Valley.md) / [Mountain Town](./Mountain%20Town.md) / [Hushed River Valley](./Hushed%20River%20Valley.md)
+
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+\|}{\| style="margin:auto"
+
+“
+
+**Track down the mysterious radio transmissions across Great Bear Island.**
+
+”
 
 **Signal Void** is the first of four [Tales](./Tales.md) in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC. Tales are narrative-based objectives for Survival mode. It is not a selectable [Challenge](./Challenge.md) but instead must be activated by first starting a Survival game.
 

@@ -4,22 +4,35 @@
 
 **Climber's Journal Page**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Climber%27s_Journal_Page_icon.png) / _Climber's\_Journal\_Page\_icon.png_ |
-| Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A page from a climber's journal found near the base of Timberwolf Mountain. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_ClimbersJournal |
+![](../assets/Climber%27s_Journal_Page_icon.png)
+
+_Climber's\_Journal\_Page\_icon.png_
+
+**Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A page from a climber's journal found near the base of Timberwolf Mountain.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_ClimbersJournal
 
 **Climber's Journal Page** is a [Collectible](./Collectibles.md) item found near the base of [Timberwolf Mountain](./Timberwolf%20Mountain.md) in the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) in [Survival Mode](./Survival%20Mode.md). It describes the days before and after the crash of the plane at the [Summit](./Summit.md) of Timberwolf Mountain.
 

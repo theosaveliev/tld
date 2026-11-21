@@ -4,10 +4,16 @@
 
 **Pillar's Footrest**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/20201212011141_1.jpg) / _20201212011141\_1.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Pillar%27s_Footrest_Location.png) / _Pillar's\_Footrest\_Location.png_ |
-| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
-| Type | Landmark\|- |
+![](../assets/20201212011141_1.jpg)
+
+_20201212011141\_1.jpg_
+
+**Location**
+
+![](../assets/Pillar%27s_Footrest_Location.png)
+
+_Pillar's\_Footrest\_Location.png_
+
+**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+
+**Type:** Landmark\|-

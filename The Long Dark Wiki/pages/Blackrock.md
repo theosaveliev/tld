@@ -15,19 +15,33 @@
 
 **Blackrock**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Blackrock_Region.jpg) / _Blackrock\_Region.jpg_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Blackrock_Location.png) / _Blackrock\_Location.png_ |
-|  | ![](../assets/Map-EP4-L0.jpg) / _Map-EP4-L0.jpg_ |
-| **Details** |  |
-| Description | An old prison complex built under the shadow of Blackrock Mountain. |
-| Connecting Regions | [Pleasant Valley](./Pleasant%20Valley.md) (via [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) and [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)) [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md), [Mathis](./Mathis.md), [Donner](./Donner.md), [Jace](./Jace.md), [Franklin](./Franklin.md), [Heller](./Heller.md), [Vachon](./Vachon.md) |
-| Interloper Region Spawn | Yes |
-| Locations | 25 |
-| Date Added | October 6th 2021 |
+![](../assets/Blackrock_Region.jpg)
+
+_Blackrock\_Region.jpg_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/Blackrock_Location.png)
+
+_Blackrock\_Location.png_
+
+![](../assets/Map-EP4-L0.jpg)
+
+_Map-EP4-L0.jpg_
+
+**Details**
+
+**Description:** An old prison complex built under the shadow of Blackrock Mountain.
+
+**Connecting Regions:** [Pleasant Valley](./Pleasant%20Valley.md) (via [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) and [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)) [Timberwolf Mountain](./Timberwolf%20Mountain.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md), [Mathis](./Mathis.md), [Donner](./Donner.md), [Jace](./Jace.md), [Franklin](./Franklin.md), [Heller](./Heller.md), [Vachon](./Vachon.md)
+
+**Interloper Region Spawn:** Yes
+
+**Locations:** 25
+
+**Date Added:** October 6th 2021
 
 > “__For intermediate players. Home to Blackrock Penitentiary, this Region’s icy rivers, deep ravines, and challenging weather act as a natural extension of the notorious prison. Its many caves and winding roads offer additional security if a storm moves in.  
  Connects to Pleasant Valley and Timberwolf Mountain.__”

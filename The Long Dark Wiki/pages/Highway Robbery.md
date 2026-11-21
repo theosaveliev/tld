@@ -6,22 +6,35 @@ _For the side mission found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%2
 
 **Highway Robbery**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Highway_Robbery_icon.png) / _Highway\_Robbery\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Highway Robbery](./Highway%20Robbery%20%28mission%29.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A note describing the location of emergency supplies |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
-| **Advanced data** |  |
-| Item key | STORY\_MiltonFlareGunNote |
+![](../assets/Highway_Robbery_icon.png)
+
+_Highway\_Robbery\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Highway Robbery](./Highway%20Robbery%20%28mission%29.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A note describing the location of emergency supplies
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
+
+**Advanced data**
+
+**Item key:** STORY\_MiltonFlareGunNote
 
 **Highway Robbery** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode to start the [Highway Robbery](./Highway%20Robbery%20%28mission%29.md) side mission.
 

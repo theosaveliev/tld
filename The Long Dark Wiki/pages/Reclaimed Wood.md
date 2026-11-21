@@ -12,18 +12,27 @@
 
 **Reclaimed Wood**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Reclaimed_Wood_icon.png) / _Reclaimed\_Wood\_icon.png_ |
-| Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01) |
-| Wintermute | No |
-| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)[Materials](./Materials.md)\|- |
-| Stackable | yes |
-| Examine | Reclaimed wood (from broken furniture, wooden structures, etc.) |
-| **Values** |  |
-| Weight | 0.25 kg (0.55 lbs) |
+![](../assets/Reclaimed_Wood_icon.png)
+
+_Reclaimed\_Wood\_icon.png_
+
+**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+
+**Wintermute:** No
+
+**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
+
+**Properties**
+
+**Item type:** [Fire Starting](./Fire%20Starting.md)[Materials](./Materials.md)\|-
+
+**Stackable:** yes
+
+**Examine:** Reclaimed wood (from broken furniture, wooden structures, etc.)
+
+**Values**
+
+**Weight:** 0.25 kg (0.55 lbs)
 
 **Reclaimed Wood** is a fuel and crafting material in _The Long Dark_.
 
@@ -37,14 +46,17 @@ Reclaimed wood has a burning duration of 30 minutes.
 
 **Reclaimed Wood**
 
-| Property | Details |
-| --- | --- |
-| Type | Fuel |
-| **Statistics** |  |
-| Duration | ![Fire\_Starting.png](../assets/Fire_Starting.png) 30 minutes |
-| Start Chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) -5% |
-| Heat | ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +3°C (+5.4°F) |
-| Burn Density | 2 hr/kg (0.91 hr/lb) |
+**Type:** Fuel
+
+**Statistics**
+
+**Duration:** ![Fire\_Starting.png](../assets/Fire_Starting.png) 30 minutes
+
+**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) -5%
+
+**Heat:** ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +3°C (+5.4°F)
+
+**Burn Density:** 2 hr/kg (0.91 hr/lb)
 
 ## Products
 

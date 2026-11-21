@@ -4,22 +4,33 @@
 
 **Molly's Husband**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Molly%27s_Husband_Picture.png) / _Molly's\_Husband\_Picture.png_ |
-| Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) |
-| Mission | [Trauma](./Trauma.md) |
-| Location(s) | [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) |
-| **Biographical Information** |  |
-| Age | 40-50 |
-| Status | Dead |
-| Place of death | [Great Bear Island](./Great%20Bear%20Island.md) |
-| Relatives | [Molly](./Molly.md) (wife) |
-| Occupation | Farmer |
-| **Physical Information** |  |
-| Hair | Black |
+![](../assets/Molly%27s_Husband_Picture.png)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_Molly's\_Husband\_Picture.png_
+
+**Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
+
+**Mission:** [Trauma](./Trauma.md)
+
+**Location(s):** [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md)
+
+**Biographical Information**
+
+**Age:** 40-50
+
+**Status:** Dead
+
+**Place of death:** [Great Bear Island](./Great%20Bear%20Island.md)
+
+**Relatives:** [Molly](./Molly.md) (wife)
+
+**Occupation:** Farmer
+
+**Physical Information**
+
+**Hair:** Black
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 **Molly's Husband** is the deceased former husband of [Molly](./Molly.md) found by [Astrid Greenwood](./Astrid%20Greenwood.md) at the start of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). He is found as a corpse near the start of the Episode.
 

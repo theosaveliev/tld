@@ -11,26 +11,43 @@
 
 **Tin of Sardines**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Tin_of_Sardines_icon.png) / _Tin\_of\_Sardines\_icon.png_ |
-| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
-| Wintermute | No |
-| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | Little fish in a can. |
-| **Values** |  |
-| Calories | 300 kcal |
-| Hydration | 5% |
-| [Vitamin C](./Scurvy.md) | Minor (3%) |
-| Weight | 0.10 kg (0.22 lbs) |
-| **Decay Rate** |  |
-| Inside | 0.067% per day |
-| Outside | 0.333% per day |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_TinofSardines |
+![](../assets/Tin_of_Sardines_icon.png)
+
+_Tin\_of\_Sardines\_icon.png_
+
+**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+
+**Wintermute:** No
+
+**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** Little fish in a can.
+
+**Values**
+
+**Calories:** 300 kcal
+
+**Hydration:** 5%
+
+**[Vitamin C](./Scurvy.md):** Minor (3%)
+
+**Weight:** 0.10 kg (0.22 lbs)
+
+**Decay Rate**
+
+**Inside:** 0.067% per day
+
+**Outside:** 0.333% per day
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_TinofSardines
 
 **Tin of Sardines** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 

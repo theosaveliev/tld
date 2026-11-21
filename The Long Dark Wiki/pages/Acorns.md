@@ -17,20 +17,31 @@
 
 **Acorns**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Acorns_icon.png) / _Acorns\_icon.png_ |
-| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
-| Wintermute | No |
-| Renewable | No |
-| **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
-| Stackable | Yes |
-| Examine | Nuts from an Oak Tree. Prepare the Acorns to remove their leathery shell prior to Cooking. |
-| **Values** |  |
-| Weight | 0.05 kg (0.11 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_Acorn |
+![](../assets/Acorns_icon.png)
+
+_Acorns\_icon.png_
+
+**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
+
+**Wintermute:** No
+
+**Renewable:** No
+
+**Properties**
+
+**Item type:** [Materials](./Materials.md)\|-
+
+**Stackable:** Yes
+
+**Examine:** Nuts from an Oak Tree. Prepare the Acorns to remove their leathery shell prior to Cooking.
+
+**Values**
+
+**Weight:** 0.05 kg (0.11 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_Acorn
 
 **Acorns** are a material in **[The Long Dark](./The%20Long%20Dark.md)**.
 
@@ -102,5 +113,3 @@ The [Transfer Pass](./Transfer%20Pass.md) is densely populated by Oak trees, as 
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
-
-[ru:Жёлуди](ru:%D0%96%D1%91%D0%BB%D1%83%D0%B4%D0%B8)

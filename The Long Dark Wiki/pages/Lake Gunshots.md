@@ -14,17 +14,21 @@
 
 **Lake Gunshots**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Lake_cabin4.jpg) / _lake\_cabin4.jpg_ |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
-| Current | Lake Gunshots |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) |
-| Characters | [Forest Talkers](./Forest%20Talkers.md) |
+![](../assets/Lake_cabin4.jpg)
+
+_lake\_cabin4.jpg_
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+
+**Current:** Lake Gunshots
+
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)
+
+**Characters:** [Forest Talkers](./Forest%20Talkers.md)
 
 **Template:spoiler**
 
-> “__You found a note with some details on possible Forest Talker activity around Mystery Lake.__”
+> “**You found a note with some details on possible Forest Talker activity around Mystery Lake.**”
 >
 > — In-game description
 
@@ -128,7 +132,7 @@ _If the player instead took the man's ammo, Mackenzie will see the corpse of the
 
 ## Predux Transcript
 
-> “__Jeremiah says he heard gunshots from across Mystery Lake. Could it have something to do with the Forest Talkers?__”
+> “**Jeremiah says he heard gunshots from across Mystery Lake. Could it have something to do with the Forest Talkers?**”
 >
 > — In-game description
 

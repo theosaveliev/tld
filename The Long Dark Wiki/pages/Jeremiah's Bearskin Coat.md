@@ -11,17 +11,23 @@
 
 **Jeremiah's Bearskin Coat**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Jeremiah%27s_Bearskin_Coat_icon.png) / _Jeremiah's\_Bearskin\_Coat\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)5.00 kg(11 lbs) |
-| Harvest | Cannot Harvest |
-| Repair | 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) |
+![](../assets/Jeremiah%27s_Bearskin_Coat_icon.png)
 
-> “__A bearskin coat that's seen better days.__”
+_Jeremiah's\_Bearskin\_Coat\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)5.00 kg(11 lbs)
+
+**Harvest:** Cannot Harvest
+
+**Repair:** 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)
+
+> “**A bearskin coat that's seen better days.**”
 >
 > — In-game description
 

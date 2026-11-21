@@ -4,11 +4,28 @@
 
 **Conductor's Dropoff**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Slope](../assets/Conductor%27s_Dropoff.jpg) / _Slope_ / ![Cliff](../assets/Conductor%27s_Dropoff2.jpg) / _Cliff_ | 250px\]\] |
-| ![Slope](../assets/Conductor%27s_Dropoff.jpg) / _Slope_ | ![Cliff](../assets/Conductor%27s_Dropoff2.jpg) / _Cliff_ |
-| **Location** |  |
-| ![](../assets/Conductor%27s_Dropoff_Location.png) / _Conductor's\_Dropoff\_Location.png_ |  |
-| Region | [Transfer Pass](./Transfer%20Pass.md)\|- / Description |
-| **General** |  |
+\[\[File: / ![Slope](../assets/Conductor%27s_Dropoff.jpg) / _Slope_ / ![Cliff](../assets/Conductor%27s_Dropoff2.jpg) / _Cliff_
+
+250px\]\]
+
+![Slope](../assets/Conductor%27s_Dropoff.jpg)
+
+_Slope_
+
+![Cliff](../assets/Conductor%27s_Dropoff2.jpg)
+
+_Cliff_
+
+**Location**
+
+![](../assets/Conductor%27s_Dropoff_Location.png)
+
+_Conductor's\_Dropoff\_Location.png_
+
+Region
+
+[Transfer Pass](./Transfer%20Pass.md)\|-
+
+Description
+
+**General**

@@ -12,26 +12,47 @@
 
 **Mackenzie's Shirt**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Mackenzie%27s_Shirt_icon.png) / _Mackenzie's\_Shirt\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)20% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)1% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 35% condition |
+![](../assets/Mackenzie%27s_Shirt_icon.png)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_ | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | __The shirt you were wearing when you crashed in your plane.__ / Post Crash In-game description | ” |
+_Mackenzie's\_Shirt\_icon.png_
 
-> “__A light shirt, perfect for a typical day at the Jack Rabbit Transport hangar.__”
+**General**
+
+**Item Type:** Clothing\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)20%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)1%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 35% condition
+
+![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+
+_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
+
+**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
+
+\|}{\| style="margin:auto"
+
+“
+
+**The shirt you were wearing when you crashed in your plane.** / Post Crash In-game description
+
+”
+
+> “**A light shirt, perfect for a typical day at the Jack Rabbit Transport hangar.**”
 >
 > — Description when in the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) Hangar
 

@@ -12,16 +12,23 @@
 
 **Echoes Of Astrid/Transcript**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Echoes_Of_Astrid.jpg) / _Echoes\_Of\_Astrid.jpg_ |
-| Episode |  |
-| **Missions** |  |
-| Previous | [Survival Of The Fittest/Transcript](./Survival%20Of%20The%20Fittest%20%E2%80%94%20Transcript.md) |
-| Current | Echoes Of Astrid/Transcript |
-| Next | [The Grey Mother (Predux)/Transcript](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md) |
-| Region | [Mountain Town](./Mountain%20Town.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md) |
+![](../assets/Echoes_Of_Astrid.jpg)
+
+_Echoes\_Of\_Astrid.jpg_
+
+Episode
+
+**Missions**
+
+**Previous:** [Survival Of The Fittest/Transcript](./Survival%20Of%20The%20Fittest%20%E2%80%94%20Transcript.md)
+
+**Current:** Echoes Of Astrid/Transcript
+
+**Next:** [The Grey Mother (Predux)/Transcript](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md)
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md)
 
 This is the transcript for Chapter 2 [Echoes Of Astrid](./Echoes%20Of%20Astrid.md) for Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 

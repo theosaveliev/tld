@@ -4,18 +4,25 @@
 
 **Hacksaw**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Hacksaw_icon.png) / _Hacksaw\_icon.png_ |
-| **General** |  |
-| Item Type | Tool\|- |
-| Renewable | Yes |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
-| Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) 1 Hour |
-| Repair | [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) / 1 × [Scrap Metal](./Scrap%20Metal.md) / 25% Condition / 45 to 30 min |
+![](../assets/Hacksaw_icon.png)
 
-> “__Heavy-duty saw made to cut through metal.__”
+_Hacksaw\_icon.png_
+
+**General**
+
+**Item Type:** Tool\|-
+
+**Renewable:** Yes
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+
+**Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 1 Hour
+
+**Repair:** [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) / 1 × [Scrap Metal](./Scrap%20Metal.md) / 25% Condition / 45 to 30 min
+
+> “**Heavy-duty saw made to cut through metal.**”
 >
 > — In-game description
 
@@ -125,5 +132,3 @@ Some observed spawn points include:
 - In [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md).
 
 [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)
-
-[ru:Ножовка](ru:%D0%9D%D0%BE%D0%B6%D0%BE%D0%B2%D0%BA%D0%B0) [es:Sierra de arco](es:Sierra_de_arco)

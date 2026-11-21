@@ -4,10 +4,11 @@
 
 **Timberwolf Mountain**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Timberwolf_Mountain_%28Achievement%29_icon.png) / _Timberwolf\_Mountain\_(Achievement)\_icon.png_ |
-| Description | Climb to the top of Timberwolf Mountain. |
+![](../assets/Timberwolf_Mountain_%28Achievement%29_icon.png)
+
+_Timberwolf\_Mountain\_(Achievement)\_icon.png_
+
+**Description:** Climb to the top of Timberwolf Mountain.
 
 **Timberwolf Mountain** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

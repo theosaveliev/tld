@@ -12,13 +12,17 @@
 
 **Nomad**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Challenge_Nomad.png) / _Challenge\_Nomad.png_ |
-| **Details** |  |
-| Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Pleasant Valley](./Pleasant%20Valley.md), [Coastal Highway](./Coastal%20Highway.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md), [Desolation Point](./Desolation%20Point.md) |
-| Difficulty | 3 |
-| Date Added | June 2016 |
+![](../assets/Challenge_Nomad.png)
+
+_Challenge\_Nomad.png_
+
+**Details**
+
+**Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Pleasant Valley](./Pleasant%20Valley.md), [Coastal Highway](./Coastal%20Highway.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md), [Desolation Point](./Desolation%20Point.md)
+
+**Difficulty:** 3
+
+**Date Added:** June 2016
 
 > “__The world has changed. The only way to survive is to keep moving.  
  Survive for 3 days each in 15 specific locations across the game world.__”
@@ -29,7 +33,7 @@
 
 ## Overview
 
-> “__Spend 3 days each location in your journal.__”
+> “**Spend 3 days each location in your journal.**”
 >
 > — Journal Objective
 

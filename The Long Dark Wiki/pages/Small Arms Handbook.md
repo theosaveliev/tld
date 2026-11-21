@@ -11,19 +11,29 @@
 
 **Small Arms Handbook**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Small_Arms_Handbook_icon.png) / _Small\_Arms\_Handbook\_icon.png_ |
-| Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|- |
-| Stackable | No |
-| Examine | A manual with details on effective handgun shooting and maintenance. Researching this will improve your Revolver Firearm Skill. |
-| **Values** |  |
-| Weight | 0.50 kg (1.1 lbs) |
-| **Actions** |  |
-| Backpack | Research, Drop |
+![](../assets/Small_Arms_Handbook_icon.png)
+
+_Small\_Arms\_Handbook\_icon.png_
+
+**Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|-
+
+**Stackable:** No
+
+**Examine:** A manual with details on effective handgun shooting and maintenance. Researching this will improve your Revolver Firearm Skill.
+
+**Values**
+
+**Weight:** 0.50 kg (1.1 lbs)
+
+**Actions**
+
+**Backpack:** Research, Drop
 
 **A Sewing Primer** is a [Research Book](./Research%20Book.md) used to improve the [Revolver Firearm](./Revolver%20Firearm.md) skill. It can also be used as Fuel when starting a [Fire](./Fire.md).
 
@@ -41,14 +51,17 @@ Research can only be performed under the following conditions:
 
 **Small Arms Handbook**
 
-| Property | Details |
-| --- | --- |
-| Type | Fuel |
-| **Statistics** |  |
-| Duration | ![Fire\_Starting.png](../assets/Fire_Starting.png) 18 minutes |
-| Start Chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) +35% |
-| Heat | ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +2°C (+3.6°F) |
-| Burn Density | 0.6 hr/kg (0.27 hr/lb) |
+**Type:** Fuel
+
+**Statistics**
+
+**Duration:** ![Fire\_Starting.png](../assets/Fire_Starting.png) 18 minutes
+
+**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) +35%
+
+**Heat:** ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
+
+**Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 
 ## Trivia
 

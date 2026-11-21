@@ -4,19 +4,25 @@
 
 **Aftermath**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Missions_story_ep3_Aftermath.png) / _Missions\_story\_ep3\_Aftermath.png_ |
-| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
-| Previous | [Coming Storm](./Coming%20Storm.md) |
-| Current | Aftermath |
-| Next | [Prologue](./Prologue.md) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
-| Characters | [Astrid](./Astrid%20Greenwood.md) [Molly](./Molly.md) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) / [Will Mackenzie](./Will%20Mackenzie.md) / [Father Thomas](./Father%20Thomas.md) (ending cameo) |
+![](../assets/Missions_story_ep3_Aftermath.png)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_Missions\_story\_ep3\_Aftermath.png_
 
-> “__You've brought healing and respite to the people at Thomson's Crossing. Your work at the Community Hall is complete. Do what you need to do before leaving Pleasant Valley.__”
+**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|-
+
+**Previous:** [Coming Storm](./Coming%20Storm.md)
+
+**Current:** Aftermath
+
+**Next:** [Prologue](./Prologue.md)
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
+
+**Characters:** [Astrid](./Astrid%20Greenwood.md) [Molly](./Molly.md) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) / [Will Mackenzie](./Will%20Mackenzie.md) / [Father Thomas](./Father%20Thomas.md) (ending cameo)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+
+> “**You've brought healing and respite to the people at Thomson's Crossing. Your work at the Community Hall is complete. Do what you need to do before leaving Pleasant Valley.**”
 
 **Aftermath** is the fourth mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) prepares to leave [Pleasant Valley](./Pleasant%20Valley.md) and make her way to [Perseverance Mills](./Perseverance%20Mills.md) through the [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md).
 

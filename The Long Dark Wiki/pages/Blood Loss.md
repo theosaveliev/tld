@@ -4,25 +4,35 @@
 
 **Blood Loss**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Blood_Loss_icon.png) / _Blood\_Loss\_icon.png_ |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | You are bleeding from a wound. If left untreated, you will continue to weaken until you die. |
-| Caused By | Falls ([Rope Climbing](./Rope%20Climbing.md)) Predator [Struggle](./Struggle.md) |
-| Effect | Negative |
-| Type | Injury |
-| Affliction Duration | Until Treated or Death |
-| **Treatment** |  |
-| Treatment | 1 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) |
-| Recovery Time | Treated Instantly |
+![](../assets/Blood_Loss_icon.png)
+
+_Blood\_Loss\_icon.png_
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** You are bleeding from a wound. If left untreated, you will continue to weaken until you die.
+
+**Caused By:** Falls ([Rope Climbing](./Rope%20Climbing.md)) Predator [Struggle](./Struggle.md)
+
+**Effect:** Negative
+
+**Type:** Injury
+
+**Affliction Duration:** Until Treated or Death
+
+**Treatment**
+
+**Treatment:** 1 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
+
+**Recovery Time:** Treated Instantly
 
 **Blood Loss** is caused by a [Wolf](./Wolf.md), [Timberwolf](./Timberwolf.md), [Poisoned Wolf](./Poisoned%20Wolf.md), [Cougar](./Cougar.md), or a [Bear](./Bear.md) [Struggle](./Struggle.md), a Timberwolf "bite-and-run" attack, or by falling off of a [Mountaineering Rope](./Mountaineering%20Rope.md).
 
 ## Overview
 
-> “__You are bleeding from a wound. If left untreated, you will continue to weaken until you die.__”
+> “**You are bleeding from a wound. If left untreated, you will continue to weaken until you die.**”
 >
 > — In-game description
 

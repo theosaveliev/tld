@@ -4,12 +4,24 @@
 
 **Headframe Building**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Headframe_Building.png) / _Headframe\_Building.png_ |
-| **Location** |  |
-|  | ![](../assets/Headframe_Building_Location.png) / _Headframe\_Building\_Location.png_ |
-| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
-| **General** |  |
-| Type |  |
-| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ | Has a workbench\|- |
+![](../assets/Headframe_Building.png)
+
+_Headframe\_Building.png_
+
+**Location**
+
+![](../assets/Headframe_Building_Location.png)
+
+_Headframe\_Building\_Location.png_
+
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+
+**General**
+
+Type
+
+![](../assets/Workbench_icon_green.png)
+
+_workbench\_icon\_green.png_
+
+Has a workbench\|-

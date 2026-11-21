@@ -4,20 +4,31 @@
 
 **Office Memo**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Office_Memo_icon.png) / _Office\_Memo\_icon.png_ |
-| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
-| Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A note about confiscated explosives. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/Office_Memo_icon.png)
+
+_Office\_Memo\_icon.png_
+
+**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+
+**Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A note about confiscated explosives.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **Office Memo** is a [Collectible](./Collectibles.md) note found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story. It is found in the weapon locker in the room by the [Blackrock Gate Key](./Blackrock%20Gate%20Key.md), where the first [Noisemaker](./Noisemaker.md) is found.
 

@@ -4,19 +4,29 @@
 
 **Bear Quarter**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Bear_Quarter_icon.png) / _Bear\_Quarter\_icon.png_ |
-| Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423) |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | Section of a Bear carcass. Cut from the carcass to make transportation a bit easier. Harvest for usable meat. |
-| **Values** |  |
-| Weight | 10.00 kg (22 lbs) |
-| **Decay Rate** |  |
-| Inside | 10.0% per day |
-| Outside | 10.0% per day |
+![](../assets/Bear_Quarter_icon.png)
+
+_Bear\_Quarter\_icon.png_
+
+**Release:** [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423)
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** Section of a Bear carcass. Cut from the carcass to make transportation a bit easier. Harvest for usable meat.
+
+**Values**
+
+**Weight:** 10.00 kg (22 lbs)
+
+**Decay Rate**
+
+**Inside:** 10.0% per day
+
+**Outside:** 10.0% per day
 
 ## Overview
 

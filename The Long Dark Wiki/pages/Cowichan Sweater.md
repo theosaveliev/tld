@@ -7,7 +7,7 @@
  60 minutes  
  30% condition |}
 
-> “__The warmest sweater around. Inspired by the traditional sweater conceived by the Cowichan First Nation on Vancouver Island, [Canada](./The%20Collapse.md). Treat it like an old friend.__”
+> “**The warmest sweater around. Inspired by the traditional sweater conceived by the Cowichan First Nation on Vancouver Island, [Canada](./The%20Collapse.md). Treat it like an old friend.**”
 >
 > — In-game description
 

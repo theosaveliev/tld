@@ -4,19 +4,29 @@
 
 **Laceration**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Laceration_icon.png) / _Laceration\_icon.png_ |
-| Release | [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256) |
-| Update | 0.256 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Caused By | Predator [Struggle](./Struggle.md) |
-| Effect | Negative |
-| Type | Injury |
-| Affliction Duration | Instant Treatment |
-| **Treatment** |  |
-| Recovery Time | Affliction instantly heals once acquired |
+![](../assets/Laceration_icon.png)
+
+_Laceration\_icon.png_
+
+**Release:** [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256)
+
+**Update:** 0.256
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Caused By:** Predator [Struggle](./Struggle.md)
+
+**Effect:** Negative
+
+**Type:** Injury
+
+**Affliction Duration:** Instant Treatment
+
+**Treatment**
+
+**Recovery Time:** Affliction instantly heals once acquired
 
 A **Laceration** may be inflicted during a [Struggle](./Struggle.md). Lacerations instantly damage condition but do not require any treatment to remove, and because of this it never appears directly on the afflictions menu.
 

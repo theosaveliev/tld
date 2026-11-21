@@ -1,6 +1,6 @@
 # Ammunition Work Bench
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ammunition_Work_Bench)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Ammunition_Work_Bench)
 
 **Contents**
 
@@ -16,15 +16,21 @@
 
 **Ammunition Work Bench**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Ammunition_Work_Bench.png) / _Ammunition\_Work\_Bench.png_ |
-| Release | 9 December 2019 |
-| Update | [1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64) |
-| Story item | No |
-| Location | [Last Resort Cannery](./Last%20Resort%20Cannery.md) / [Blackrock Prison](./Blackrock%20Prison.md) |
-| **Advanced data** |  |
-| Object key | GAMEPLAY\_AmmoWorkBench |
+![](../assets/Ammunition_Work_Bench.png)
+
+_Ammunition\_Work\_Bench.png_
+
+**Release:** 9 December 2019
+
+**Update:** [1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64)
+
+**Story item:** No
+
+**Location:** [Last Resort Cannery](./Last%20Resort%20Cannery.md) / [Blackrock Prison](./Blackrock%20Prison.md)
+
+**Advanced data**
+
+**Object key:** GAMEPLAY\_AmmoWorkBench
 
 _For the Forge next to the Work Bench, see [Ammunition Forge](./Ammunition%20Forge.md)._
 

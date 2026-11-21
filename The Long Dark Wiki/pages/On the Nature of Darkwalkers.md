@@ -4,16 +4,23 @@
 
 **On the Nature of Darkwalkers**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/On_the_Nature_of_Darkwalkers_icon.png) / _On\_the\_Nature\_of\_Darkwalkers\_icon.png_ |
-| Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A typewritten document, faded and damp from the weather. |
-| **Values** |  |
-| Weight | 0 kg (0 lbs) |
+![](../assets/On_the_Nature_of_Darkwalkers_icon.png)
+
+_On\_the\_Nature\_of\_Darkwalkers\_icon.png_
+
+**Release:** [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A typewritten document, faded and damp from the weather.
+
+**Values**
+
+**Weight:** 0 kg (0 lbs)
 
 **On the Nature of Darkwalkers** is a note found only in the [Challenge](./Challenge.md) [Escape the Darkwalker](./Escape%20the%20Darkwalker.md).
 
@@ -41,5 +48,3 @@ Darkwalkers spread fear and feed on oblivion - knowledge will help you defeat th
 
 - 
   - Added to game.
-
-[ru:Происхождение Darkwalker](ru:%D0%9F%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_Darkwalker)

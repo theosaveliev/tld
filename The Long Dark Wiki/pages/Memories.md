@@ -20,15 +20,21 @@
 
 **Memories**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Memories.png) / _Memories.png_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Previous | None |
-| Current | Memories |
-| Next | [The Crash](./The%20Crash.md) |
-| Region | [Mountain Town](./Mountain%20Town.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Astrid Greenwood](./Astrid%20Greenwood.md) |
+![](../assets/Memories.png)
+
+_Memories.png_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Previous:** None
+
+**Current:** Memories
+
+**Next:** [The Crash](./The%20Crash.md)
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Astrid Greenwood](./Astrid%20Greenwood.md)
 
 _For Buffer Memories, see [Buffer Memories](./Buffer%20Memories.md)._
 
@@ -36,7 +42,7 @@ _For Buffer Memories, see [Buffer Memories](./Buffer%20Memories.md)._
 
 ## Official Description
 
-> “__Mackenzie hangs around the Jackrabbit Transport hangar, waiting for something to happen.__”
+> “**Mackenzie hangs around the Jackrabbit Transport hangar, waiting for something to happen.**”
 >
 > — In-game description
 

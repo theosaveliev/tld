@@ -4,22 +4,35 @@
 
 **Medicinal Plants of Great Bear**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Medicinal_Plants_of_Great_Bear_icon.png) / _Medicinal\_Plants\_of\_Great\_Bear\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Basics of Survival](./The%20Basics%20of%20Survival.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A note with information about how to use plants to cure maladies |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Leave It |
-| **Advanced data** |  |
-| Item key | STORY\_PlantSurvivalNote |
+![](../assets/Medicinal_Plants_of_Great_Bear_icon.png)
+
+_Medicinal\_Plants\_of\_Great\_Bear\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Basics of Survival](./The%20Basics%20of%20Survival.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A note with information about how to use plants to cure maladies
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
+
+**Advanced data**
+
+**Item key:** STORY\_PlantSurvivalNote
 
 **Medicinal Plants of Great Bear** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode to start the [The Basics of Survival](./The%20Basics%20of%20Survival.md) side mission.
 

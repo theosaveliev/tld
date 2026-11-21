@@ -4,10 +4,11 @@
 
 **Quick Draw**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Quick_Draw_icon.png) / _Quick\_Draw\_icon.png_ |
-| Description | Kill 10 Ptarmigans with Arrows (single game). |
+![](../assets/Quick_Draw_icon.png)
+
+_Quick\_Draw\_icon.png_
+
+**Description:** Kill 10 Ptarmigans with Arrows (single game).
 
 **Quick Draw** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

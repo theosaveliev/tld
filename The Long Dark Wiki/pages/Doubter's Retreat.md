@@ -4,10 +4,14 @@
 
 **Doubter's Retreat**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Doubter%27s_Retreat.jpg) / _Doubter's\_Retreat.jpg_ |
-| **Location** |  |
-| Region | [Perseverance Wilds](./Perseverance%20Wilds.md)\|- |
-| **General** |  |
-| Type | Residential\|- |
+![](../assets/Doubter%27s_Retreat.jpg)
+
+_Doubter's\_Retreat.jpg_
+
+**Location**
+
+**Region:** [Perseverance Wilds](./Perseverance%20Wilds.md)\|-
+
+**General**
+
+**Type:** Residential\|-

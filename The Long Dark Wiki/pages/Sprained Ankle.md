@@ -11,31 +11,41 @@
 
 **Sprained Ankle**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Sprained_Ankle_icon.png) / _Sprained\_Ankle\_icon.png_ |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | You have twisted your ankle and are now suffering a sprain. Your mobility will be reduced until you treat it, or it heals over time. |
-| Caused By | Slopes Falls / Wildlife [Struggle](./Struggle.md) |
-| Effect | Negative |
-| Type | Injury |
-| Affliction Duration | Until Treated or Recovery Time passes |
-| **Treatment** |  |
-| Treatment | 1 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) |
-| Recovery Time | 4 hours of [Sleep](./Sleep.md) |
+![](../assets/Sprained_Ankle_icon.png)
+
+_Sprained\_Ankle\_icon.png_
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** You have twisted your ankle and are now suffering a sprain. Your mobility will be reduced until you treat it, or it heals over time.
+
+**Caused By:** Slopes Falls / Wildlife [Struggle](./Struggle.md)
+
+**Effect:** Negative
+
+**Type:** Injury
+
+**Affliction Duration:** Until Treated or Recovery Time passes
+
+**Treatment**
+
+**Treatment:** 1 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
+
+**Recovery Time:** 4 hours of [Sleep](./Sleep.md)
 
 A **Sprained Ankle** can be caused by a fall, being exhausted or encumbered while walking on uneven or steep terrain, or from an [animal attack](./Struggle.md).
 
 ## Risk
 
-> “__You are Exhausted or Encumbered, and at a higher risk for a Sprain when traversing sloped ground.__”
+> “**You are Exhausted or Encumbered, and at a higher risk for a Sprain when traversing sloped ground.**”
 
 Carrying too much weight beyond carrying capacity or becoming too tired to carry your heavy load will warn the player that they are at [risk](./Sprain%20Risk.md) of acquiring a sprain. Walking off road onto uneven ground (icon shown in the photo) may have a chance of a [Sprained Wrist](./Sprained%20Wrist.md) or Ankle occurring. Consider either resting or lightening your load in order to eliminate the risk, or consume a [Go! Energy Drink](./Go!%20Energy%20Drink.md) or [Emergency Stim](./Emergency%20Stim.md).
 
 ## Affliction
 
-> “__You have twisted your ankle and are now suffering a sprain. Your mobility will be reduced until you treat it, or it heals over time.__”
+> “**You have twisted your ankle and are now suffering a sprain. Your mobility will be reduced until you treat it, or it heals over time.**”
 >
 > — In-game description
 

@@ -15,24 +15,35 @@
 
 **The Foreman**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Foreman%27s_Polaroid_4_icon.png) / _Foreman's\_Polaroid\_4\_icon.png_ |
-| Release | 2.03 |
-| Date | 5 December 2022 |
-| Mission | [Buried Echoes](./Buried%20Echoes.md) [Last Horizon](./Last%20Horizon.md) |
-| **Biographical Information** |  |
-| Age | Unknown |
-| Status | Most likely Deceased |
-| Occupation | Mine Foreman (cover occupation) Unknown Secret Agent |
-| **Physical Information** |  |
-| Sex | Male |
-| **Game Information** |  |
-| Equipment | [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md) [Tactical Gloves](./Tactical%20Gloves.md) / [Tactical Jacket](./Tactical%20Jacket.md) |
+![](../assets/Foreman%27s_Polaroid_4_icon.png)
 
-**Stub:**__This article is a stub. You can help by \[//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it\].__
+_Foreman's\_Polaroid\_4\_icon.png_
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+**Release:** 2.03
+
+**Date:** 5 December 2022
+
+**Mission:** [Buried Echoes](./Buried%20Echoes.md) [Last Horizon](./Last%20Horizon.md)
+
+**Biographical Information**
+
+**Age:** Unknown
+
+**Status:** Most likely Deceased
+
+**Occupation:** Mine Foreman (cover occupation) Unknown Secret Agent
+
+**Physical Information**
+
+**Sex:** Male
+
+**Game Information**
+
+**Equipment:** [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md) [Tactical Gloves](./Tactical%20Gloves.md) / [Tactical Jacket](./Tactical%20Jacket.md)
+
+**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it\].**
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 > “__Ever since we flipped the switch on that machine, no one seems settled. We want to get paid, sure. But we want to make it out of this hole in the ground, too.  
  I’ve gotta put a stop to this.__”
@@ -41,7 +52,7 @@
 
 **The Foreman** is a major character in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) storyline.
 
-**Stub:**__This article is a stub. You can help by \[//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it\].__
+**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it\].**
 
 ## Overview
 

@@ -4,15 +4,23 @@
 
 **Crash Site (Pleasant Valley)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/SS-PV-crash-04.jpg) / _SS-PV-crash-04.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Crash_Site_Pleasant_Valley_Location.png) / _Crash\_Site\_Pleasant\_Valley\_Location.png_ |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
-| Description | A crashed passenger airliner |
-| **General** |  |
-| Type | Landmark\|- |
+![](../assets/SS-PV-crash-04.jpg)
+
+_SS-PV-crash-04.jpg_
+
+**Location**
+
+![](../assets/Crash_Site_Pleasant_Valley_Location.png)
+
+_Crash\_Site\_Pleasant\_Valley\_Location.png_
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+
+**Description:** A crashed passenger airliner
+
+**General**
+
+**Type:** Landmark\|-
 
 The **Crash Site** is a crashed airliner brought down by the [First Flare](./First%20Flare.md) in [Pleasant Valley](./Pleasant%20Valley.md), not far from [Burned Ridge Cave](./Burned%20Ridge%20Cave.md). This location, lacking an official name, was added to [Wintermute](./Wintermute.md) and [Survival Mode](./Survival%20Mode.md) in game version 1.6 with the release of [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md).
 

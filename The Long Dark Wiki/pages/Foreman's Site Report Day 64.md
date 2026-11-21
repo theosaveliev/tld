@@ -4,19 +4,29 @@
 
 **Foreman's Site Report, Day 64**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Foreman%27s_Site_Report_Day_64_icon.png) / _Foreman's\_Site\_Report\_Day\_64\_icon.png_ |
-| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Pages from a technical notebook. |
-| **Values** |  |
-| Weight | 0 kg (0 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_Tale2\_ForemanLog3 |
+![](../assets/Foreman%27s_Site_Report_Day_64_icon.png)
+
+_Foreman's\_Site\_Report\_Day\_64\_icon.png_
+
+**Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Pages from a technical notebook.
+
+**Values**
+
+**Weight:** 0 kg (0 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_Tale2\_ForemanLog3
 
 **Foreman's Site Report Day 64** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found when descending down the mineshaft on a [Supply Bin](./Supply%20Bin.md) inside the locked mountainside section of the [Langston Mine](./Langston%20Mine.md).
 
@@ -36,5 +46,3 @@ I’ve gotta put a stop to this.**
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-[ru:Отчет бригадира, день 64](ru:%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B8%D1%80%D0%B0,_%D0%B4%D0%B5%D0%BD%D1%8C_64)

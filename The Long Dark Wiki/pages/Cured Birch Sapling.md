@@ -4,20 +4,31 @@
 
 **Cured Birch Sapling**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cured_Birch_Sapling_icon.png) / _Cured\_Birch\_Sapling\_icon.png_ |
-| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
-| Stackable | No |
-| Examine | Small birch sapling that has been cured. Can be used for crafting and repair. |
-| **Values** |  |
-| Weight | 0.20 kg (0.44 lbs) |
-| **Actions** |  |
-| Backpack | Take It, Leave It |
+![](../assets/Cured_Birch_Sapling_icon.png)
+
+_Cured\_Birch\_Sapling\_icon.png_
+
+**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Materials](./Materials.md)\|-
+
+**Stackable:** No
+
+**Examine:** Small birch sapling that has been cured. Can be used for crafting and repair.
+
+**Values**
+
+**Weight:** 0.20 kg (0.44 lbs)
+
+**Actions**
+
+**Backpack:** Take It, Leave It
 
 **Cured Birch Saplings** are the cured version of a [Green Birch Sapling](./Green%20Birch%20Sapling.md).
 

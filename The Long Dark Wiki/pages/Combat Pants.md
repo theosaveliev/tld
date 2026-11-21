@@ -4,23 +4,35 @@
 
 **Combat Pants**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Combat_Pants_icon.png) / _Combat\_Pants\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer legs |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)20% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)7% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 30 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 30% condition |
+![](../assets/Combat_Pants_icon.png)
 
-> “__Heavy duty military pants, with reinforced knees and articulated for good mobility. Designed to take a beating.__”
+_Combat\_Pants\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Outer legs
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)20%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)7%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 30 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 30% condition
+
+> “**Heavy duty military pants, with reinforced knees and articulated for good mobility. Designed to take a beating.**”
 >
 > — In-game description
 

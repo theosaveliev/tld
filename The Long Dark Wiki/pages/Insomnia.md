@@ -13,24 +13,45 @@
 
 **Insomnia**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Insomnia_icon.png) / _Insomnia\_icon.png_ |
-| Release | [Dec 5, 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03) |
-| Update | 2.03 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | Your sleep is troubled and Rest is frequently interrupted. |
-| Caused By | [Glimmer Fog](./Glimmer%20Fog.md) |
-| Effect | Negative |
-| Type | Disease |
-| Affliction Duration | Until Recovery Time passes |
-| **Treatment** |  |
-| Recovery Time | 18-36 hours |
+![](../assets/Insomnia_icon.png)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __Exposure to certain influences may trigger an Insomnia Affliction, introducing a new series of risks for you to manage as you do your best to avoid their cause.__ / [Official Hinterland description](https://www.thelongdark.com/expansion/) | ” |
+_Insomnia\_icon.png_
+
+**Release:** [Dec 5, 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)
+
+**Update:** 2.03
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** Your sleep is troubled and Rest is frequently interrupted.
+
+**Caused By:** [Glimmer Fog](./Glimmer%20Fog.md)
+
+**Effect:** Negative
+
+**Type:** Disease
+
+**Affliction Duration:** Until Recovery Time passes
+
+**Treatment**
+
+**Recovery Time:** 18-36 hours
+
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+\|}{\| style="margin:auto"
+
+“
+
+**Exposure to certain influences may trigger an Insomnia Affliction, introducing a new series of risks for you to manage as you do your best to avoid their cause.** / [Official Hinterland description](https://www.thelongdark.com/expansion/)
+
+”
 
 ## Overview
 

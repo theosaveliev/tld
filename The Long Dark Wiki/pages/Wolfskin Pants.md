@@ -11,25 +11,47 @@
 
 **Wolfskin Pants**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Wolfskin_Pants_icon.png) / _Wolfskin\_Pants\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot |  |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)2.50 kg(5.5 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)3.0 °C(5.4 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.5 °C(2.7 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)50% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)10% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-5% |
-| Harvest | 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / 40 minutes |
-| Repair | 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 125 minutes / 50% condition |
+![](../assets/Wolfskin_Pants_icon.png)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __Pants crafted from a Wolf hide. Warm and extremely durable.__ / In-game description | ” |
+_Wolfskin\_Pants\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+Clothing Slot
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.5 °C(2.7 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)50%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)10%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-5%
+
+**Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / 40 minutes
+
+**Repair:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 125 minutes / 50% condition
+
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+\|}{\| style="margin:auto"
+
+“
+
+**Pants crafted from a Wolf hide. Warm and extremely durable.** / In-game description
+
+”
 
 The **Wolfskin Pants** is an article of [Clothing](./Clothing.md) that can be [Crafted](./Crafting.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

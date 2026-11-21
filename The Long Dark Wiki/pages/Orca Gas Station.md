@@ -11,18 +11,29 @@
 
 **Orca Gas Station**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/SS-MT-Orca-04.jpg) / _SS-MT-Orca-04.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Orca_Gas_Station_Location.png) / _Orca\_Gas\_Station\_Location.png_ |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
-| Description | An abandoned gas station |
-| **General** |  |
-| Type | Store\|- |
-|  | Has an interior\|- |
-| Missions | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| Characters | [Methuselah](./Methuselah.md) |
+![](../assets/SS-MT-Orca-04.jpg)
+
+_SS-MT-Orca-04.jpg_
+
+**Location**
+
+![](../assets/Orca_Gas_Station_Location.png)
+
+_Orca\_Gas\_Station\_Location.png_
+
+**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+
+**Description:** An abandoned gas station
+
+**General**
+
+**Type:** Store\|-
+
+Has an interior\|-
+
+**Missions:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
+
+**Characters:** [Methuselah](./Methuselah.md)
 
 **Template:spoiler**The **Orca Gas Station** is a location just outside [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. The gas station lies at a junction outside Milton, with one road leading up to [Milton Park](./Milton%20Park.md), one to the town itself, and the last leading past the [Wood Lot](./Wood%20Lot.md) to a [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md). When breaking into the store, the store itself is labeled [Convenience Store](./Convenience%20Store.md).
 

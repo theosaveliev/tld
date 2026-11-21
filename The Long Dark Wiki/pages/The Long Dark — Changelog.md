@@ -2203,8 +2203,6 @@ Please note that this update will likely impact any mods you may have installed 
 
 - [34](https://hinterlandforums.com/forums/topic/41705-the-long-dark-updated-to-v200-91441/#comment-236292)
 
-[ru:Категория:Архив\_обновлений](ru:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D0%B2_%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9)
-
 ## Notes
 
 ---

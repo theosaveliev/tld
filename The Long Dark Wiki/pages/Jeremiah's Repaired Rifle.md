@@ -4,22 +4,33 @@
 
 **Jeremiah's Repaired Rifle**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Jeremiah%27s_Repaired_Rifle_icon.png) / _Jeremiah's\_Repaired\_Rifle\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - You Fix My Rifle? |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Jeremiah's Rifle, now repaired. The old trapper will want it back. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Leave It |
+![](../assets/Jeremiah%27s_Repaired_Rifle_icon.png)
 
-> “__Damn...not bad for a pilot. You're full of surprises. Maybe he can make it after all.__”
+_Jeremiah's\_Repaired\_Rifle\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - You Fix My Rifle?
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Jeremiah's Rifle, now repaired. The old trapper will want it back.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
+
+> “**Damn...not bad for a pilot. You're full of surprises. Maybe he can make it after all.**”
 >
 > — [Jeremiah](./Jeremiah.md) looking over his repaired rifle.
 

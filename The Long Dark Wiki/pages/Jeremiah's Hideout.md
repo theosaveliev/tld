@@ -19,16 +19,19 @@
 
 **Jeremiah's Hideout**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Aurora_hatch.png) / _Aurora\_hatch.png_ |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
-| Current | Jeremiah's Hideout |
-| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
+![](../assets/Aurora_hatch.png)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_Aurora\_hatch.png_
 
-> “__Jeremiah has told you about the location of a hidden bunker in Forlorn Muskeg. There are some letters there he wants you to burn for him.__”
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+
+**Current:** Jeremiah's Hideout
+
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+
+> “**Jeremiah has told you about the location of a hidden bunker in Forlorn Muskeg. There are some letters there he wants you to burn for him.**”
 >
 > — In-game description
 

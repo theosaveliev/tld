@@ -4,14 +4,19 @@
 
 **Vegetable Rack**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/IngrediantDrawer.jpg) / _IngrediantDrawer.jpg_ |
-| Release | TBD |
-| Update | [2.17](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
-| Story item | Yes |
-| **Container** |  |
-| Capacity | 10.00 kg(22 lbs) |
+![](../assets/IngrediantDrawer.jpg)
+
+_IngrediantDrawer.jpg_
+
+**Release:** TBD
+
+**Update:** [2.17](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+
+**Story item:** Yes
+
+**Container**
+
+**Capacity:** 10.00 kg(22 lbs)
 
 A **Vegetable Rack** is an interactable storage item in _[The Long Dark](./The%20Long%20Dark.md)_. It has 3 drawers that often contain large amounts of [Carrots](./Carrot.md) and [Potatoes](./Potato.md), and each drawer has 10.00 kg of storage capacity.
 

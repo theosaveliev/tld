@@ -13,22 +13,35 @@
 
 **Risk of Intestinal Parasites**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Risk_of_Intestinal_Parasites_icon.png) / _Risk\_of\_Intestinal\_Parasites\_icon.png_ |
-| Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321) |
-| Update | 0.321 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | Game meat from carnivorous animals may be infected with parasites. |
-| Caused By | Raw/Cooked predator meat |
-| Effect | Negative |
-| Type | Risk |
-| Affliction Duration | Until Treated |
-| **Treatment** |  |
-| Treatment | Stop eating infected meat |
-| Alternate Treatment | Reach Level 5 [Cooking](./Cooking.md) to safely eat cooked meat |
-| Recovery Time | 24 Hours |
+![](../assets/Risk_of_Intestinal_Parasites_icon.png)
+
+_Risk\_of\_Intestinal\_Parasites\_icon.png_
+
+**Release:** [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)
+
+**Update:** 0.321
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** Game meat from carnivorous animals may be infected with parasites.
+
+**Caused By:** Raw/Cooked predator meat
+
+**Effect:** Negative
+
+**Type:** Risk
+
+**Affliction Duration:** Until Treated
+
+**Treatment**
+
+**Treatment:** Stop eating infected meat
+
+**Alternate Treatment:** Reach Level 5 [Cooking](./Cooking.md) to safely eat cooked meat
+
+**Recovery Time:** 24 Hours
 
 **Risk of Intestinal Parasites** is an [Affliction](./Afflictions.md) caused by consuming raw or cooked carnivore meat: [Wolves](./Wolf.md), [Timberwolves](./Timberwolf.md), [Cougars](./Cougar.md), and [Bears](./Bear.md).
 
@@ -44,7 +57,7 @@ It is only present when playing the following game modes:
 
 ## Risk
 
-> “__Game meat from carnivorous animals may be infected with parasites.__”
+> “**Game meat from carnivorous animals may be infected with parasites.**”
 >
 > — In-game description
 

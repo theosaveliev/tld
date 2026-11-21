@@ -4,17 +4,25 @@
 
 **Cured Rabbit Pelt**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cured_Rabbit_Pelt_icon.png) / _Cured\_Rabbit\_Pelt\_icon.png_ |
-| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233) |
-| Wintermute | Yes |
-| **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
-| Stackable | No |
-| Examine | Rabbit pelt. Can be used for crafting and repair. |
-| **Values** |  |
-| Weight | 0.10 kg (0.22 lbs) |
+![](../assets/Cured_Rabbit_Pelt_icon.png)
+
+_Cured\_Rabbit\_Pelt\_icon.png_
+
+**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
+
+**Wintermute:** Yes
+
+**Properties**
+
+**Item type:** [Materials](./Materials.md)\|-
+
+**Stackable:** No
+
+**Examine:** Rabbit pelt. Can be used for crafting and repair.
+
+**Values**
+
+**Weight:** 0.10 kg (0.22 lbs)
 
 **Cured Rabbit Pelt** is the cured hide of a [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) and [Rabbitskin Hats](./Rabbitskin%20Hat.md).
 
@@ -32,5 +40,3 @@ Cured Rabbit Pelts are widely used for [trading](./Trader.md), as they are the f
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
   - Added to game.
-
-[ru:Высушенная шкура кролика](ru:%D0%92%D1%8B%D1%81%D1%83%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%88%D0%BA%D1%83%D1%80%D0%B0_%D0%BA%D1%80%D0%BE%D0%BB%D0%B8%D0%BA%D0%B0)

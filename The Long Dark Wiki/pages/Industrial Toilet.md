@@ -4,12 +4,15 @@
 
 **Industrial Toilet**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Industrial_Toilet.png) / _Industrial\_Toilet.png_ |
-| **General** |  |
-| Item Type | Item |
-| Wintermute | No |
+![](../assets/Industrial_Toilet.png)
+
+_Industrial\_Toilet.png_
+
+**General**
+
+**Item Type:** Item
+
+**Wintermute:** No
 
 **Industrial Toilets** are stationary interactable objects in [_The Long Dark_](./The%20Long%20Dark.md).
 

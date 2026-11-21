@@ -35,18 +35,25 @@
 
 **Revolver**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Revolver_icon.png) / _Revolver\_icon.png_ |
-| **General** |  |
-| Item Type | Tool\|- |
-| Renewable | Yes ([Trader](./Trader.md) only) |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
-| Harvest | Unharvestable |
-| Repair | [Firearm cleaning kit](./Firearm%20Cleaning%20Kit.md) |
+![](../assets/Revolver_icon.png)
 
-> “__A powerful handgun, the Revolver has great stopping power in defensive situations. Not a Hunting weapon.__”
+_Revolver\_icon.png_
+
+**General**
+
+**Item Type:** Tool\|-
+
+**Renewable:** Yes ([Trader](./Trader.md) only)
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
+
+**Harvest:** Unharvestable
+
+**Repair:** [Firearm cleaning kit](./Firearm%20Cleaning%20Kit.md)
+
+> “**A powerful handgun, the Revolver has great stopping power in defensive situations. Not a Hunting weapon.**”
 >
 > — In-game description
 
@@ -271,8 +278,6 @@ _A Revolver found hidden behind a [Grate](./Grate.md)_
   - Added to game.
 
 ==References== **Template:reflist**
-
-[ru:Револьвер](ru:%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%8C%D0%B2%D0%B5%D1%80) [fr:Revolver](fr:Revolver)
 
 ## Notes
 

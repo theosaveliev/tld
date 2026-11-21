@@ -39,18 +39,67 @@ Players need a Firearm Cleaning Kit before they can start cleaning rifles and re
 
 The player is able to clean the following firearms to improve their condition:
 
-| Image | Name |
-| --- | --- |
-| ![](../assets/Hunting_Rifle_icon.png) / _Hunting\_Rifle\_icon.png_ | [Hunting Rifle](./Hunting%20Rifle.md) |
-| ![](../assets/Barb%27s_Rifle_icon.png) / _Barb's\_Rifle\_icon.png_ | [Barb's Rifle](./Barb%27s%20Rifle.md) |
-| ![](../assets/Bunker_Rifle_icon.png) / _Bunker\_Rifle\_icon.png_ | [Bunker Rifle](./Bunker%20Rifle.md) |
-| ![](../assets/Curator%27s_Rifle_icon.png) / _Curator's\_Rifle\_icon.png_ | [Curator's Rifle](./Curator%27s%20Rifle.md) |
-| ![](../assets/Vaughn%27s_Rifle_icon.png) / _Vaughn's\_Rifle\_icon.png_ | [Vaughn's Rifle](./Vaughn%27s%20Rifle.md) |
-| ![](../assets/Hunting_Lodge_Rifle_icon.png) / _Hunting\_Lodge\_Rifle\_icon.png_ | [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) |
-| ![](../assets/Revolver_icon.png) / _Revolver\_icon.png_ | [Revolver](./Revolver.md) |
-| ![](../assets/Forester%27s_Revolver_icon.png) / _Forester's\_Revolver\_icon.png_ | [Forester's Revolver](./Forester%27s%20Revolver.md) |
-| ![](../assets/Hunter%27s_Revolver_icon.png) / _Hunter's\_Revolver\_icon.png_ | [Hunter's Revolver](./Hunter%27s%20Revolver.md) |
-| ![](../assets/Warden%27s_Revolver_icon.png) / _Warden's\_Revolver\_icon.png_ | [Warden's Revolver](./Warden%27s%20Revolver.md) |
+**Image:** Name
+
+![](../assets/Hunting_Rifle_icon.png)
+
+_Hunting\_Rifle\_icon.png_
+
+[Hunting Rifle](./Hunting%20Rifle.md)
+
+![](../assets/Barb%27s_Rifle_icon.png)
+
+_Barb's\_Rifle\_icon.png_
+
+[Barb's Rifle](./Barb%27s%20Rifle.md)
+
+![](../assets/Bunker_Rifle_icon.png)
+
+_Bunker\_Rifle\_icon.png_
+
+[Bunker Rifle](./Bunker%20Rifle.md)
+
+![](../assets/Curator%27s_Rifle_icon.png)
+
+_Curator's\_Rifle\_icon.png_
+
+[Curator's Rifle](./Curator%27s%20Rifle.md)
+
+![](../assets/Vaughn%27s_Rifle_icon.png)
+
+_Vaughn's\_Rifle\_icon.png_
+
+[Vaughn's Rifle](./Vaughn%27s%20Rifle.md)
+
+![](../assets/Hunting_Lodge_Rifle_icon.png)
+
+_Hunting\_Lodge\_Rifle\_icon.png_
+
+[Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md)
+
+![](../assets/Revolver_icon.png)
+
+_Revolver\_icon.png_
+
+[Revolver](./Revolver.md)
+
+![](../assets/Forester%27s_Revolver_icon.png)
+
+_Forester's\_Revolver\_icon.png_
+
+[Forester's Revolver](./Forester%27s%20Revolver.md)
+
+![](../assets/Hunter%27s_Revolver_icon.png)
+
+_Hunter's\_Revolver\_icon.png_
+
+[Hunter's Revolver](./Hunter%27s%20Revolver.md)
+
+![](../assets/Warden%27s_Revolver_icon.png)
+
+_Warden's\_Revolver\_icon.png_
+
+[Warden's Revolver](./Warden%27s%20Revolver.md)
 
 The player is not currently able to clean the [Distress Pistol](./Distress%20Pistol.md) to improve its condition.
 

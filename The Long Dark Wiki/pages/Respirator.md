@@ -11,22 +11,52 @@
 
 **Respirator**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Respirator_icon.png) / _Respirator\_icon.png_ |
-| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
-| Wintermute | yes |
-| **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
-| Stackable | No |
-| Examine | Equip to protect yourself from toxic gas and other environmental hazards. Requires Canisters to function. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_Respirator |
+![](../assets/Respirator_icon.png)
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| --- | --- | --- | --- |
+_Respirator\_icon.png_
 
-| “ | __Equip to protect yourself from toxic gas and other environmental hazards. Requires Canisters to function.__ / [What I Know](./What%20I%20Know.md) description | ” |  |
-| ![Respirator in game](../assets/Respirator_in_game.png) / _Respirator in game_ | ![Respirator location](../assets/Respirator_Location.jpg) / _Respirator location_ | ![](../assets/Buried_Echoes_Icon.png) / _Buried\_Echoes\_Icon.png_ | ![The Buried Echoes Badge](../assets/Buried_Echoes_Icon.png) / _The Buried Echoes Badge_ |
+**Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
+
+**Wintermute:** yes
+
+**Properties**
+
+**Item type:** [First Aid](./First%20Aid.md)\|-
+
+**Stackable:** No
+
+**Examine:** Equip to protect yourself from toxic gas and other environmental hazards. Requires Canisters to function.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_Respirator
+
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+> “**Equip to protect yourself from toxic gas and other environmental hazards. Requires Canisters to function.**”
+>
+> — [What I Know](./What%20I%20Know.md) description
+
+![Respirator in game](../assets/Respirator_in_game.png)
+
+_Respirator in game_
+
+![Respirator location](../assets/Respirator_Location.jpg)
+
+_Respirator location_
+
+![](../assets/Buried_Echoes_Icon.png)
+
+_Buried\_Echoes\_Icon.png_
+
+![The Buried Echoes Badge](../assets/Buried_Echoes_Icon.png)
+
+_The Buried Echoes Badge_

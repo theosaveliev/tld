@@ -4,15 +4,19 @@
 
 **Lily's Map**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Lily%27s_Map_icon.png) / _Lily's\_Map\_icon.png_ |
-| **General** |  |
-| Item Type |  |
-| Wintermute | Yes\|- |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.0 kg(0 lbs) |
+![](../assets/Lily%27s_Map_icon.png)
 
-> “__A map that shows Lily's climbing route, leading out of the Milton area.__”
+_Lily's\_Map\_icon.png_
+
+**General**
+
+Item Type
+
+**Wintermute:** Yes\|-
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.0 kg(0 lbs)
+
+> “**A map that shows Lily's climbing route, leading out of the Milton area.**”
 >
 > — In-game description
 

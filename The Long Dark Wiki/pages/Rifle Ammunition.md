@@ -13,22 +13,35 @@
 
 **Rifle Ammunition**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Box](../assets/Rifle_Ammunition_icon.png) / _Box_ / ![Cartridge](../assets/Rifle_Cartridge_icon.png) / _Cartridge_ | 250px\]\] |
-| ![Box](../assets/Rifle_Ammunition_icon.png) / _Box_ | ![Cartridge](../assets/Rifle_Cartridge_icon.png) / _Cartridge_ |
-| **General** |  |
-| Item Type |  |
-| Wintermute | No |
-| Renewable | Yes ([Trader](./Trader.md) or rare [Beachcombing](./Beachcombing.md)) no (Interloper) |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.02 kg(0.04 lbs) |
+\[\[File: / ![Box](../assets/Rifle_Ammunition_icon.png) / _Box_ / ![Cartridge](../assets/Rifle_Cartridge_icon.png) / _Cartridge_
 
-> “__A box of rifle cartridges.__”
+250px\]\]
+
+![Box](../assets/Rifle_Ammunition_icon.png)
+
+_Box_
+
+![Cartridge](../assets/Rifle_Cartridge_icon.png)
+
+_Cartridge_
+
+**General**
+
+Item Type
+
+**Wintermute:** No
+
+**Renewable:** Yes ([Trader](./Trader.md) or rare [Beachcombing](./Beachcombing.md)) no (Interloper)
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.02 kg(0.04 lbs)
+
+> “**A box of rifle cartridges.**”
 >
 > — Boxed ammo In-game description
 
-> “__A single .303 rifle cartridge.__”
+> “**A single .303 rifle cartridge.**”
 >
 > — Single cartridge In-game description
 

@@ -4,13 +4,22 @@
 
 **Poacher's Camp**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Poacher%27s_Camp.png) / _Poacher's\_Camp.png_ |
-| **Location** |  |
-|  | ![](../assets/Poacher%27s_Camp_Location.png) / _Poacher's\_Camp\_Location.png_ |
-| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
-| **General** |  |
-| Type | Outdoors\|- |
+![](../assets/Poacher%27s_Camp.png)
 
-|  | ![Aerial view of Poacher's Camp](../assets/Forlorn_Muskeg_Poacher%27s_Camp.jpg) / _Aerial view of Poacher's Camp_ |
+_Poacher's\_Camp.png_
+
+**Location**
+
+![](../assets/Poacher%27s_Camp_Location.png)
+
+_Poacher's\_Camp\_Location.png_
+
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|-
+
+**General**
+
+**Type:** Outdoors\|-
+
+![Aerial view of Poacher's Camp](../assets/Forlorn_Muskeg_Poacher%27s_Camp.jpg)
+
+_Aerial view of Poacher's Camp_

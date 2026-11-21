@@ -13,21 +13,33 @@
 
 **Old Man's Beard Lichen**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Old_Man%27s_Beard_Lichen_icon.png) / _Old\_Man's\_Beard\_Lichen\_icon.png_ |
-| Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192) |
-| Wintermute | Yes |
-| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
-| Stackable | Yes |
-| Examine | A lichen found in the ancient forests of the Pacific Northwest. |
-| **Values** |  |
-| Weight | 0.01 kg (0.02 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Leave It |
+![](../assets/Old_Man%27s_Beard_Lichen_icon.png)
+
+_Old\_Man's\_Beard\_Lichen\_icon.png_
+
+**Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
+
+**Wintermute:** Yes
+
+**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
+
+**Properties**
+
+**Item type:** [Materials](./Materials.md)\|-
+
+**Stackable:** Yes
+
+**Examine:** A lichen found in the ancient forests of the Pacific Northwest.
+
+**Values**
+
+**Weight:** 0.01 kg (0.02 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
 
 **Old Man's Beard Lichen** is an antimicrobial material that can be found dangling on the branches of trees.
 

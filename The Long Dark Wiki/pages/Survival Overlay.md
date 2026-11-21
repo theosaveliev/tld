@@ -203,7 +203,7 @@ One in game minute is 3 seconds irl, 3x60(minutes)=180(seconds), 180x24(hours)= 
 
 ### Day vs. Night
 
-![8:30 PM - Daytime ends, Nighttime begins](../assets/Nighttime_start_10pm.jpg)_8:30 PM - Daytime ends, Nighttime begins_ The coldest temperatures are usually early in the morning, just before dawn. As the day progresses, temperatures usually start to warm; how warm it gets depends on the region and the weather. __Example of temperature in °c in interloper J8: AM 6h -24/-17. 8h -22/-16. 11h -17/13 PM 1h:-10/6. 2h: -9/1 3h: -8/5. 4h -7/9. 5h -8/9. 0h: -20 AM 5h -26 8h -24.__
+![8:30 PM - Daytime ends, Nighttime begins](../assets/Nighttime_start_10pm.jpg)_8:30 PM - Daytime ends, Nighttime begins_ The coldest temperatures are usually early in the morning, just before dawn. As the day progresses, temperatures usually start to warm; how warm it gets depends on the region and the weather. **Example of temperature in °c in interloper J8: AM 6h -24/-17. 8h -22/-16. 11h -17/13 PM 1h:-10/6. 2h: -9/1 3h: -8/5. 4h -7/9. 5h -8/9. 0h: -20 AM 5h -26 8h -24.**
 
 In general, it's best to explore the outdoors during the day because it offers better visibility and wolves are less aggressive. However, bears also wake up and patrol. Auroras, which make predators even more aggressive, never occur during the day.
 

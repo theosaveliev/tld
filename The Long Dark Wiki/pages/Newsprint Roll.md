@@ -11,16 +11,21 @@
 
 **Newsprint Roll**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Newsprint_Roll_icon.png) / _Newsprint\_Roll\_icon.png_ |
-| **General** |  |
-| Item Type | Fire Starting\|- |
-| Firestarting Slot | Tinder |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
+![](../assets/Newsprint_Roll_icon.png)
 
-> “__Newsprint Roll. Can be used as tinder.__”
+_Newsprint\_Roll\_icon.png_
+
+**General**
+
+**Item Type:** Fire Starting\|-
+
+**Firestarting Slot:** Tinder
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+> “**Newsprint Roll. Can be used as tinder.**”
 >
 > — In-game description
 

@@ -37,18 +37,25 @@
 
 **Moose**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Moose.png) / _Moose.png_ |
-| **Basic Information** |  |
-| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16) |
-| Role | Prey |
-| **Physical Information** |  |
-| Color | Brown |
-| Size | Large |
-| Eyes | Brown |
+![](../assets/Moose.png)
 
-> “__If you see trees with scratched bark, this might mean Moose are in the area. Listen for them!__”
+_Moose.png_
+
+**Basic Information**
+
+**Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)
+
+**Role:** Prey
+
+**Physical Information**
+
+**Color:** Brown
+
+**Size:** Large
+
+**Eyes:** Brown
+
+> “**If you see trees with scratched bark, this might mean Moose are in the area. Listen for them!**”
 >
 > — [Load Screen](./Load%20Screen.md) description
 
@@ -62,19 +69,69 @@ Moose are the largest and toughest of prey animals and can be dangerous if provo
 
 A [Moose Carcass](./Moose%20Carcass.md) may be harvested for 30.00-45.00 kg of raw meat, 1 [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) and 12 guts. Moose hides can be cured to craft [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) or [Moose-Hide Cloak](./Moose-Hide%20Cloak.md).
 
-|  | Item | Quantity | Rarity |
-| --- | --- | --- | --- |
-| ![](../assets/Moose_Meat_%28Raw%29_icon.png) / _Moose\_Meat\_(Raw)\_icon.png_ | [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) | 30 - 45 | Always[¹](#fn1) |
-| ![](../assets/Moose_Quarter_icon.png) / _Moose\_Quarter\_icon.png_ | [Moose Quarter](./Moose%20Quarter.md) | 6 - 9 | Always[²](#fn2) |
-| ![](../assets/Fresh_Moose_Hide_icon.png) / _Fresh\_Moose\_Hide\_icon.png_ | [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) | 1 | Always |
-| ![](../assets/Fresh_Gut_icon.png) / _Fresh\_Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 12 | Always |
-|  |  |  |  |
+Item
+
+Quantity
+
+Rarity
+
+![](../assets/Moose_Meat_%28Raw%29_icon.png)
+
+_Moose\_Meat\_(Raw)\_icon.png_
+
+[Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md)
+
+30 - 45
+
+Always[¹](#fn1)
+
+![](../assets/Moose_Quarter_icon.png)
+
+_Moose\_Quarter\_icon.png_
+
+[Moose Quarter](./Moose%20Quarter.md)
+
+6 - 9
+
+Always[²](#fn2)
+
+![](../assets/Fresh_Moose_Hide_icon.png)
+
+_Fresh\_Moose\_Hide\_icon.png_
+
+[Fresh Moose Hide](./Fresh%20Moose%20Hide.md)
+
+1
+
+Always
+
+![](../assets/Fresh_Gut_icon.png)
+
+_Fresh\_Gut\_icon.png_
+
+[Fresh Gut](./Fresh%20Gut.md)
+
+12
+
+Always
 
 Animal Fat is produced automatically when harvesting raw meat. It cannot be harvested separately and does not appear when Harvesting a Carcass.
 
-|  | Item | Quantity | Rarity |
-| --- | --- | --- | --- |
-| ![](../assets/Animal_Fat_icon.png) / _Animal\_Fat\_icon.png_ | [Animal Fat](./Animal%20Fat.md) | 0.15 per kg of meat | Always |
+Item
+
+Quantity
+
+Rarity
+
+![](../assets/Animal_Fat_icon.png)
+
+_Animal\_Fat\_icon.png_
+
+[Animal Fat](./Animal%20Fat.md)
+
+0.15 per kg of meat
+
+Always
 
 ## Behaviour
 
@@ -127,13 +184,71 @@ Unlike other [Wildlife](./Wildlife.md), Moose do not suffer from [Blood Loss](./
 
 Critical hits cause the animal to instantly die after being hit by a shot. The following table contains the critical hit chance based on the location that was shot on the animal.
 
-| Weapon | Critical Hit Chance |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Head | Neck | Torso | Hips | Limb |  |  |
-| ![](../assets/Hunting_Rifle_icon.png) / _Hunting\_Rifle\_icon.png_ | [Hunting Rifle](./Hunting%20Rifle.md) | 25% | 20% | 10% | 0% | 0% |
-| ![](../assets/Survival_Bow_icon.png) / _Survival\_Bow\_icon.png_ | [Survival Bow](./Survival%20Bow.md) |  |  |  |  |  |
-| ![](../assets/Revolver_icon.png) / _Revolver\_icon.png_ | [Revolver](./Revolver.md) | 10% | 10% | 3% | 0% | 0% |
-| ![](../assets/Distress_Pistol_icon.png) / _Distress\_Pistol\_icon.png_ | [Distress Pistol](./Distress%20Pistol.md) | 0% | 0% | 0% | 0% | 0% |
+**Weapon:** Critical Hit Chance
+
+Head
+
+Neck
+
+Torso
+
+Hips
+
+Limb
+
+![](../assets/Hunting_Rifle_icon.png)
+
+_Hunting\_Rifle\_icon.png_
+
+[Hunting Rifle](./Hunting%20Rifle.md)
+
+25%
+
+20%
+
+10%
+
+0%
+
+0%
+
+![](../assets/Survival_Bow_icon.png)
+
+_Survival\_Bow\_icon.png_
+
+[Survival Bow](./Survival%20Bow.md)
+
+![](../assets/Revolver_icon.png)
+
+_Revolver\_icon.png_
+
+[Revolver](./Revolver.md)
+
+10%
+
+10%
+
+3%
+
+0%
+
+0%
+
+![](../assets/Distress_Pistol_icon.png)
+
+_Distress\_Pistol\_icon.png_
+
+[Distress Pistol](./Distress%20Pistol.md)
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
 
 ## Locations
 
@@ -316,8 +431,6 @@ _A real world Cup of Coffee Tin cup with a moose_
 
 - UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)):**
   - Added the Moose to all Survival Mode regions.
-
-[ru:Лось](ru:%D0%9B%D0%BE%D1%81%D1%8C) [es:Alce](es:Alce)
 
 ## Notes
 

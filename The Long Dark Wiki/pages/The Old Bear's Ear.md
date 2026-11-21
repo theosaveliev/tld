@@ -4,22 +4,33 @@
 
 **The Old Bear's Ear**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/The_Old_Bear%27s_Ear_icon.png) / _The\_Old\_Bear's\_Ear\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Jeremiah's Folly](./Jeremiah%27s%20Folly.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A bloody ear from a bear. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Leave It |
+![](../assets/The_Old_Bear%27s_Ear_icon.png)
 
-> “__You bring me the Old Bear's ear, and I'll get you out of here. I will give you everything you need to find your friend.__”
+_The\_Old\_Bear's\_Ear\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Jeremiah's Folly](./Jeremiah%27s%20Folly.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A bloody ear from a bear.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
+
+> “**You bring me the Old Bear's ear, and I'll get you out of here. I will give you everything you need to find your friend.**”
 >
 > — [Jeremiah](./Jeremiah.md)
 

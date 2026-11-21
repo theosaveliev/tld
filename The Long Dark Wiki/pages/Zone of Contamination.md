@@ -14,26 +14,51 @@
 
 **Zone of Contamination**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Zone_of_Contamination.jpg) / _Zone\_of\_Contamination.jpg_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Zone_of_Contamination_Location.png) / _Zone\_of\_Contamination\_Location.png_ |
-|  | ![](../assets/Zone_of_Contamination_Region_map.png) / _Zone\_of\_Contamination\_Region\_map.png_ |
-| **Details** |  |
-| Description | A massive, open pit industrial mine abandoned due to highly hazardous toxic chemicals |
-| Connecting Regions | [Transfer Pass](./Transfer%20Pass.md),[Forsaken Airfield](./Forsaken%20Airfield.md) and [Sundered Pass](./Sundered%20Pass.md) (Via a transition cave) |
-| TFTFT paid content | Yes |
-| Difficulty | Advanced |
-| Interloper Region Spawn | No |
-| Locations | 25 |
-| Date Added | Dec 5, 2023 |
+![](../assets/Zone_of_Contamination.jpg)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __An open-pit mine operation scars the landscape, with various outbuildings and mining apparatus pock-marked by pools of toxic chemicals and run-off. The mine may hide relics of the Far Territory's mysterious past.__ / Official Hinterland Description | ” |
+_Zone\_of\_Contamination.jpg_
 
-> “__For advanced players. A Cold War relic of industrial hubris, the Zone is littered with Chemical Hazards and forgotten infrastructure. Its secrets remain hidden by environmental devastation. Prepare yourself, and take care.__”
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/Zone_of_Contamination_Location.png)
+
+_Zone\_of\_Contamination\_Location.png_
+
+![](../assets/Zone_of_Contamination_Region_map.png)
+
+_Zone\_of\_Contamination\_Region\_map.png_
+
+**Details**
+
+**Description:** A massive, open pit industrial mine abandoned due to highly hazardous toxic chemicals
+
+**Connecting Regions:** [Transfer Pass](./Transfer%20Pass.md),[Forsaken Airfield](./Forsaken%20Airfield.md) and [Sundered Pass](./Sundered%20Pass.md) (Via a transition cave)
+
+**TFTFT paid content:** Yes
+
+**Difficulty:** Advanced
+
+**Interloper Region Spawn:** No
+
+**Locations:** 25
+
+**Date Added:** Dec 5, 2023
+
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+\|}{\| style="margin:auto"
+
+“
+
+**An open-pit mine operation scars the landscape, with various outbuildings and mining apparatus pock-marked by pools of toxic chemicals and run-off. The mine may hide relics of the Far Territory's mysterious past.** / Official Hinterland Description
+
+”
+
+> “**For advanced players. A Cold War relic of industrial hubris, the Zone is littered with Chemical Hazards and forgotten infrastructure. Its secrets remain hidden by environmental devastation. Prepare yourself, and take care.**”
 >
 > — Stay above ground and see the remnants, or dive into the deep mine, at your peril. Connects to Sundered Pass, Forsaken Airfield, and Transfer Pass. In-game Description
 

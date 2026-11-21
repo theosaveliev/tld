@@ -11,28 +11,41 @@
 
 **Broken Ribs**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Broken_Ribs_icon.png) / _Broken\_Ribs\_icon.png_ |
-| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16) |
-| Update | 1.16 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | One or more of your ribs are broken. You cannot climb, and your mobility will be reduced until this injury heals. |
-| Caused By | [Moose](./Moose.md) [Struggle](./Struggle.md) |
-| Effect | Negative |
-| Type | Injury |
-| Affliction Duration | Until Treated + Recovery Time |
-| **Treatment** |  |
-| Treatment | 2 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 4 x ![Painkillers\_icon.png](../assets/Painkillers_icon.png) [Painkillers](./Painkillers.md) |
-| Alternate Treatment | 2 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x ![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md) |
-| Recovery Time | 120 Hours |
+![](../assets/Broken_Ribs_icon.png)
+
+_Broken\_Ribs\_icon.png_
+
+**Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)
+
+**Update:** 1.16
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** One or more of your ribs are broken. You cannot climb, and your mobility will be reduced until this injury heals.
+
+**Caused By:** [Moose](./Moose.md) [Struggle](./Struggle.md)
+
+**Effect:** Negative
+
+**Type:** Injury
+
+**Affliction Duration:** Until Treated + Recovery Time
+
+**Treatment**
+
+**Treatment:** 2 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 4 x ![Painkillers\_icon.png](../assets/Painkillers_icon.png) [Painkillers](./Painkillers.md)
+
+**Alternate Treatment:** 2 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x ![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
+
+**Recovery Time:** 120 Hours
 
 **Broken Ribs** is an [Affliction](./Afflictions.md) only acquired from a [Moose](./Moose.md) [Struggle](./Struggle.md).
 
 ## Overview
 
-> “__One or more of your ribs are broken. You cannot climb, and your mobility will be reduced until this injury heals.__”
+> “**One or more of your ribs are broken. You cannot climb, and your mobility will be reduced until this injury heals.**”
 
 Broken Ribs negatively affects the player in the following ways until healed:
 

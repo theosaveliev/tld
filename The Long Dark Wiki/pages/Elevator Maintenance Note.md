@@ -4,20 +4,31 @@
 
 **Elevator Maintenance Note**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Elevator_Maintenance_Note_icon.png) / _Elevator\_Maintenance\_Note\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Dam Elevator Maintenance Note |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Leave It |
+![](../assets/Elevator_Maintenance_Note_icon.png)
+
+_Elevator\_Maintenance\_Note\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Dam Elevator Maintenance Note
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
 
 **Elevator Maintenance Note** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found in the admin office next to the [Aid Station Medical Locker Key](./Aid%20Station%20Medical%20Locker%20Key.md) in upper [Carter Hydro Dam](./Carter%20Hydro%20Dam.md).
 

@@ -4,24 +4,37 @@
 
 **Leather Shoes**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Leather_Shoes_icon.png) / _Leather\_Shoes\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| Clothing Slot | Outer feet |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)10% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)2% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-3% |
-| Harvest | 2 × [Cured leather](./Cured%20Leather.md) / 75 minutes |
-| Repair | 1 × [Cured leather](./Cured%20Leather.md), 1 × [Cloth](./Cloth.md) / 90 minutes / 20% condition |
+![](../assets/Leather_Shoes_icon.png)
 
-> “__Simple leather shoes that look good on Bay Street but will probably get you killed out here. Hope you have some warm socks!__”
+_Leather\_Shoes\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
+
+**Clothing Slot:** Outer feet
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)10%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)2%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-3%
+
+**Harvest:** 2 × [Cured leather](./Cured%20Leather.md) / 75 minutes
+
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md), 1 × [Cloth](./Cloth.md) / 90 minutes / 20% condition
+
+> “**Simple leather shoes that look good on Bay Street but will probably get you killed out here. Hope you have some warm socks!**”
 >
 > — In-game description
 

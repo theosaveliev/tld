@@ -4,19 +4,29 @@
 
 **Bank Deposit Box Key (#7)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Bank_Deposit_Box_Key_7_icon.png) / _Bank\_Deposit\_Box\_Key\_7\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Safety Deposit Box Keys](./Milton%20Safety%20Deposit%20Box%20Keys.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Bank deposit key. Will open one of the deposit boxes at the bank |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
+![](../assets/Bank_Deposit_Box_Key_7_icon.png)
+
+_Bank\_Deposit\_Box\_Key\_7\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Safety Deposit Box Keys](./Milton%20Safety%20Deposit%20Box%20Keys.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Bank deposit key. Will open one of the deposit boxes at the bank
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
 
 **Bank Deposit Box Key (#7)** is a [Collectibles](./Collectibles.md) key found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) in [Wintermute](./Wintermute.md) as part of the [Milton Safety Deposit Box Keys](./Milton%20Safety%20Deposit%20Box%20Keys.md) side quest.
 

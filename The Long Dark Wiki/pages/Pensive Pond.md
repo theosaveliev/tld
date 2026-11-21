@@ -4,13 +4,26 @@
 
 **Pensive Pond**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/SS-PV-PensivePond_%281%29.jpg) / _SS-PV-PensivePond\_(1).jpg_ |
-| **Location** |  |
-|  | ![](../assets/Pensive_Pond_Location.png) / _Pensive\_Pond\_Location.png_ |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
-| **General** |  |
-| Type | Outdoors\|- |
+![](../assets/SS-PV-PensivePond_%281%29.jpg)
 
-| ![](../assets/SS-PV-PensivePond_%281%29.jpg) / _SS-PV-PensivePond\_(1).jpg_ | ![](../assets/SS-PV-PensivePond_%282%29.jpg) / _SS-PV-PensivePond\_(2).jpg_ |
+_SS-PV-PensivePond\_(1).jpg_
+
+**Location**
+
+![](../assets/Pensive_Pond_Location.png)
+
+_Pensive\_Pond\_Location.png_
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+
+**General**
+
+**Type:** Outdoors\|-
+
+![](../assets/SS-PV-PensivePond_%281%29.jpg)
+
+_SS-PV-PensivePond\_(1).jpg_
+
+![](../assets/SS-PV-PensivePond_%282%29.jpg)
+
+_SS-PV-PensivePond\_(2).jpg_

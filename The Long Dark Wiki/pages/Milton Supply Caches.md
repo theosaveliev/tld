@@ -15,20 +15,23 @@
 
 **Milton Supply Caches**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Hidden_Cache.png) / _Hidden\_Cache.png_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Current | Milton Supply Caches |
-| Region | [Mountain Town](./Mountain%20Town.md) |
+![](../assets/Hidden_Cache.png)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_Hidden\_Cache.png_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Current:** Milton Supply Caches
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 **Milton Supply Caches** is a side mission in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md). To start the quest, the player must find any one of three notes scattered around the town of [Milton](./Milton.md). Each note will reveal information about a hidden cache of supplies nearby and add a marker to the map. To complete the quest, the player must find all three notes and recover each of their respective supply caches.
 
 ## Official description
 
-> “__The Collapse taught Milton residents to be ready for the worst. Find the collectibles that point you to cache locations.__”
+> “**The Collapse taught Milton residents to be ready for the worst. Find the collectibles that point you to cache locations.**”
 
 ## Overview
 

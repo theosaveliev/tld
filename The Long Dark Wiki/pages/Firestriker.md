@@ -16,18 +16,25 @@
 
 **Firestriker**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Firestriker_icon.png) / _firestriker\_icon.png_ |
-| **General** |  |
-| Item Type | Fire Starting\|- |
-| Renewable | Yes ([Trader](./Trader.md) only) |
-| Firestarting Slot | Starter |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
-| Bonus chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+15% |
+![](../assets/Firestriker_icon.png)
 
-> “__Metal tool designed to help start fires in the wilderness.__”
+_firestriker\_icon.png_
+
+**General**
+
+**Item Type:** Fire Starting\|-
+
+**Renewable:** Yes ([Trader](./Trader.md) only)
+
+**Firestarting Slot:** Starter
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+**Bonus chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+15%
+
+> “**Metal tool designed to help start fires in the wilderness.**”
 >
 > — In-game description
 
@@ -84,5 +91,3 @@ Rarely spawns on shelves or tables in place of more common [Lantern Fuel](./Lant
 
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
   - Reduce per-use decay on the Firestriker Tool.
-
-[ru:Огниво](ru:%D0%9E%D0%B3%D0%BD%D0%B8%D0%B2%D0%BE)

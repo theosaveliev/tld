@@ -4,12 +4,20 @@
 
 **Landslide**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Landslide_HRV.png) / _Landslide\_HRV.png_ |
-| **Location** |  |
-|  | ![](../assets/Landslide_HRV_Location.png) / _Landslide\_HRV\_Location.png_ |
-| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
-| Description | A landslide across the river. |
-| **General** |  |
-| Type | Outdoors\|- |
+![](../assets/Landslide_HRV.png)
+
+_Landslide\_HRV.png_
+
+**Location**
+
+![](../assets/Landslide_HRV_Location.png)
+
+_Landslide\_HRV\_Location.png_
+
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+
+**Description:** A landslide across the river.
+
+**General**
+
+**Type:** Outdoors\|-

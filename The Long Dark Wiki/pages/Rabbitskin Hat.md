@@ -12,22 +12,33 @@
 
 **Rabbitskin Hat**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Rabbitskin_Hat_icon.png) / _Rabbitskin\_Hat\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.35 kg(0.77 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.5 °C(2.7 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)4% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / 10 minutes |
-| Repair | 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 30 minutes / 50% condition |
+![](../assets/Rabbitskin_Hat_icon.png)
 
-> “__A warm hat made from rabbit fur.__”
+_Rabbitskin\_Hat\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.35 kg(0.77 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.5 °C(2.7 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)4%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / 10 minutes
+
+**Repair:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 30 minutes / 50% condition
+
+> “**A warm hat made from rabbit fur.**”
 >
 > — In-game description
 

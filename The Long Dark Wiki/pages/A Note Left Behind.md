@@ -15,22 +15,35 @@
 
 **A Note Left Behind**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/A_Note_Left_Behind_icon.png) / _A\_Note\_Left\_Behind\_icon.png_ |
-| Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | The scrawled musings of a survivor that was here before you. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_ClimbersJournal |
+![](../assets/A_Note_Left_Behind_icon.png)
+
+_A\_Note\_Left\_Behind\_icon.png_
+
+**Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** The scrawled musings of a survivor that was here before you.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_ClimbersJournal
 
 **A Note Left Behind** is a set of 12 [Collectibles](./Collectibles.md) found across several regions within [Survival Mode](./Survival%20Mode.md). They were authored by several backers of _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -170,5 +183,3 @@ Sean wouldn't wake up.
 
 - UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
   - Added to game.
-
-[ru:Оставленная записка](ru:%D0%9E%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0)

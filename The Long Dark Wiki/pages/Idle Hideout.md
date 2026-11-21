@@ -4,10 +4,16 @@
 
 **Idle Hideout**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Idle_Hideout.jpg) / _Idle\_Hideout.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Idle_Hideout_Location.png) / _Idle\_Hideout\_Location.png_ |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
-| **General** |  |
+![](../assets/Idle_Hideout.jpg)
+
+_Idle\_Hideout.jpg_
+
+**Location**
+
+![](../assets/Idle_Hideout_Location.png)
+
+_Idle\_Hideout\_Location.png_
+
+**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+
+**General**

@@ -19,13 +19,47 @@
 
 **Drawer**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Food](../assets/DrawerFood.jpg) / _Food_ / ![Table](../assets/DrawerBedside.jpg) / _Table_ / ![Wide Table](../assets/DrawerWide.jpg) / _Wide Table_ / ![L Table](../assets/DrawerLargeTable.jpg) / _L Table_ / ![FH](../assets/Fishing_Hut_Drawer.jpg) / _FH_ / ![S Toolbox](../assets/DrawerToolboxSmall.jpg) / _S Toolbox_ / ![L Toolbox](../assets/DrawerToolboxLarge.jpg) / _L Toolbox_ / ![Clothing](../assets/Drawer_Clothing_Horozontal.jpg) / _Clothing_ / ![Tall Clothing](../assets/Drawer_Clothing_Vertical.jpg) / _Tall Clothing_ | 250px\]\] |
-| ![Food](../assets/DrawerFood.jpg) / _Food_ | ![Table](../assets/DrawerBedside.jpg) / _Table_ / ![Wide Table](../assets/DrawerWide.jpg) / _Wide Table_ / ![L Table](../assets/DrawerLargeTable.jpg) / _L Table_ |
-| ![FH](../assets/Fishing_Hut_Drawer.jpg) / _FH_ | ![S Toolbox](../assets/DrawerToolboxSmall.jpg) / _S Toolbox_ / ![L Toolbox](../assets/DrawerToolboxLarge.jpg) / _L Toolbox_ / ![Clothing](../assets/Drawer_Clothing_Horozontal.jpg) / _Clothing_ |
-| ![Tall Clothing](../assets/Drawer_Clothing_Vertical.jpg) / _Tall Clothing_ |  |
-| Story item | Yes |
+\[\[File: / ![Food](../assets/DrawerFood.jpg) / _Food_ / ![Table](../assets/DrawerBedside.jpg) / _Table_ / ![Wide Table](../assets/DrawerWide.jpg) / _Wide Table_ / ![L Table](../assets/DrawerLargeTable.jpg) / _L Table_ / ![FH](../assets/Fishing_Hut_Drawer.jpg) / _FH_ / ![S Toolbox](../assets/DrawerToolboxSmall.jpg) / _S Toolbox_ / ![L Toolbox](../assets/DrawerToolboxLarge.jpg) / _L Toolbox_ / ![Clothing](../assets/Drawer_Clothing_Horozontal.jpg) / _Clothing_ / ![Tall Clothing](../assets/Drawer_Clothing_Vertical.jpg) / _Tall Clothing_
+
+250px\]\]
+
+![Food](../assets/DrawerFood.jpg)
+
+_Food_
+
+![Table](../assets/DrawerBedside.jpg)
+
+_Table_
+
+![Wide Table](../assets/DrawerWide.jpg)
+
+_Wide Table_
+
+![L Table](../assets/DrawerLargeTable.jpg)
+
+_L Table_
+
+![FH](../assets/Fishing_Hut_Drawer.jpg)
+
+_FH_
+
+![S Toolbox](../assets/DrawerToolboxSmall.jpg)
+
+_S Toolbox_
+
+![L Toolbox](../assets/DrawerToolboxLarge.jpg)
+
+_L Toolbox_
+
+![Clothing](../assets/Drawer_Clothing_Horozontal.jpg)
+
+_Clothing_
+
+![Tall Clothing](../assets/Drawer_Clothing_Vertical.jpg)
+
+_Tall Clothing_
+
+**Story item:** Yes
 
 A **Drawer** is one possible type of storage container in the game that comes in many forms and can be found in every area in the game.
 

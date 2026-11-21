@@ -4,19 +4,29 @@
 
 **Bank Vault Code**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Bank_Vault_Code_icon.png) / _Bank\_Vault\_Code\_icon.png_ |
-| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Grey Mother](./The%20Grey%20Mother.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Code needed to unlock the Bank Vault Door. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/Bank_Vault_Code_icon.png)
+
+_Bank\_Vault\_Code\_icon.png_
+
+**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Grey Mother](./The%20Grey%20Mother.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Code needed to unlock the Bank Vault Door.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **Bank Vault Code** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md).
 

@@ -4,16 +4,23 @@
 
 **Workbench Vice**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Workbench_Vice_icon.png) / _Workbench\_Vice\_icon.png_ |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
-| **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
-| **Values** |  |
-| Weight | 2.00 kg (4.4 lbs) |
-| **Actions** |  |
-| Backpack | Examine, Drop, Pick up |
+![](../assets/Workbench_Vice_icon.png)
+
+_Workbench\_Vice\_icon.png_
+
+**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Properties**
+
+**Item type:** [Materials](./Materials.md)\|-
+
+**Values**
+
+**Weight:** 2.00 kg (4.4 lbs)
+
+**Actions**
+
+**Backpack:** Examine, Drop, Pick up
 
 A **Workbench Vice** is a [Materials](./Materials.md) obtained from [Harvesting](./Harvesting.md) a wooden or metal [Work Bench](./Work%20Bench.md). It allows the player to create a new Work Bench as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature, and place it in any Safehouse.
 

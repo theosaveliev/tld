@@ -4,16 +4,19 @@
 
 **Milton Safety Deposit Box Keys**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Bank_Deposit_Box_Key_13_icon.png) / _Bank\_Deposit\_Box\_Key\_13\_icon.png_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Current | Milton Safety Deposit Box Keys |
-| Region | [Mountain Town](./Mountain%20Town.md) |
+![](../assets/Bank_Deposit_Box_Key_13_icon.png)
+
+_Bank\_Deposit\_Box\_Key\_13\_icon.png_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Current:** Milton Safety Deposit Box Keys
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **Template:spoiler**
 
-> “__Locate and use the keys that unlock various Safety Deposit boxes at the Milton Credit Union.__”
+> “**Locate and use the keys that unlock various Safety Deposit boxes at the Milton Credit Union.**”
 >
 > — In-game description
 

@@ -16,25 +16,39 @@
 
 **Lena Vertasky**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Security_Chief%27s_ID_Badge_icon.png) / _Security\_Chief's\_ID\_Badge\_icon.png_ |
-| Release | 2.03 |
-| Date | 5 December 2022 |
-| Mission | [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) / [Last Horizon](./Last%20Horizon.md) |
-| **Biographical Information** |  |
-| Age | Unknown |
-| Status | Deceased |
-| Place of death | [Langston Mine](./Langston%20Mine.md) |
-| Cause of death | Mental degradation after exposure to The Machine |
-| Occupation | Security Chief |
-| **Physical Information** |  |
-| Sex | Female |
-| **Game Information** |  |
-| Equipment | [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md) [Security Chief's ID Badge](./Security%20Chief%27s%20ID%20Badge.md) |
-| Voiced by | Devon Busswood |
+![](../assets/Security_Chief%27s_ID_Badge_icon.png)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_Security\_Chief's\_ID\_Badge\_icon.png_
+
+**Release:** 2.03
+
+**Date:** 5 December 2022
+
+**Mission:** [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) / [Last Horizon](./Last%20Horizon.md)
+
+**Biographical Information**
+
+**Age:** Unknown
+
+**Status:** Deceased
+
+**Place of death:** [Langston Mine](./Langston%20Mine.md)
+
+**Cause of death:** Mental degradation after exposure to The Machine
+
+**Occupation:** Security Chief
+
+**Physical Information**
+
+**Sex:** Female
+
+**Game Information**
+
+**Equipment:** [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md) [Security Chief's ID Badge](./Security%20Chief%27s%20ID%20Badge.md)
+
+**Voiced by:** Devon Busswood
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 > “__He’ll want the research. It shows some bizarre benefits, even if it’s come at a price. Rüdiger found what he was looking for.  
  He can keep it.__”

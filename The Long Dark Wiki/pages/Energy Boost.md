@@ -11,17 +11,23 @@
 
 **Energy Boost**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Energy_Boost_icon.png) / _Energy\_Boost\_icon.png_ |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Caused By | Consume [First Aid](./First%20Aid.md) items |
-| Effect | Positive |
-| Type | Benefit |
-| Benefit Duration | ![Emergency\_Stim\_icon.png](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md) 60 minutes (75 minutes with Feat) ![Go!\_Energy\_Drink\_icon.png](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md) 30 minutes (37.5 minutes with Feat) |
+![](../assets/Energy_Boost_icon.png)
 
-> “__For a short time, Fatigue vanishes and your Stamina feels endless.__”
+_Energy\_Boost\_icon.png_
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Caused By:** Consume [First Aid](./First%20Aid.md) items
+
+**Effect:** Positive
+
+**Type:** Benefit
+
+**Benefit Duration:** ![Emergency\_Stim\_icon.png](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md) 60 minutes (75 minutes with Feat) ![Go!\_Energy\_Drink\_icon.png](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md) 30 minutes (37.5 minutes with Feat)
+
+> “**For a short time, Fatigue vanishes and your Stamina feels endless.**”
 >
 > — In-game description
 

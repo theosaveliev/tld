@@ -4,17 +4,25 @@
 
 **Foreman's Technical Log 4**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Foreman%27s_Technical_Log_4_icon.png) / _Foreman's\_Technical\_Log\_4\_icon.png_ |
-| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | An entry in a technical logbook. |
-| **Values** |  |
-| Weight | 0 kg (0 lbs) |
+![](../assets/Foreman%27s_Technical_Log_4_icon.png)
+
+_Foreman's\_Technical\_Log\_4\_icon.png_
+
+**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** An entry in a technical logbook.
+
+**Values**
+
+**Weight:** 0 kg (0 lbs)
 
 **Foreman's Technical Log 4** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md). It is found in a hidden room in [Bunker Omega](./Bunker%20Omega.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) near the end of the Tale.
 
@@ -86,5 +94,3 @@ But...maybe I shouldn't make it?**
 
 - 
   - Added to game.
-
-[ru:Технический журнал бригадира 4](ru:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB_%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B8%D1%80%D0%B0_4)

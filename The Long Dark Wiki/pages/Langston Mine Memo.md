@@ -4,19 +4,29 @@
 
 **Langston Mine Memo**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Langston_Mine_Memo_icon.png) / _Langston\_Mine\_Memo\_icon.png_ |
-| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Hazard Warning |
-| **Values** |  |
-| Weight | 0 kg (0 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_MineRegionPumphouseNote |
+![](../assets/Langston_Mine_Memo_icon.png)
+
+_Langston\_Mine\_Memo\_icon.png_
+
+**Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Hazard Warning
+
+**Values**
+
+**Weight:** 0 kg (0 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_MineRegionPumphouseNote
 
 **Langston Mine Memo** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) found in the [Pump House](./Pump%20House.md).
 
@@ -36,5 +46,3 @@ It’s a dirty business.**
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-[ru:Записка шахты Лэнгстон](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D1%88%D0%B0%D1%85%D1%82%D1%8B_%D0%9B%D1%8D%D0%BD%D0%B3%D1%81%D1%82%D0%BE%D0%BD)

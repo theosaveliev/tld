@@ -4,24 +4,37 @@
 
 **Baseball Cap**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Baseball_Cap_icon.png) / _Baseball\_Cap\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| Clothing Slot | Head |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.0 °C(0 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)0% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 75% condition |
+![](../assets/Baseball_Cap_icon.png)
 
-> “__Why would anyone wear one of these in the Winter?__”
+_Baseball\_Cap\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
+
+**Clothing Slot:** Head
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.0 °C(0 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)0%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 75% condition
+
+> “**Why would anyone wear one of these in the Winter?**”
 >
 > — In-game description
 

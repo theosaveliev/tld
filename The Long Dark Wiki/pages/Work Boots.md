@@ -4,23 +4,35 @@
 
 **Work Boots**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Work_Boots_icon.png) / _Work\_Boots\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer feet |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)5% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)7% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-10% |
-| Harvest | 2 × [Cured leather](./Cured%20Leather.md) / 90 minutes |
-| Repair | 1 × [Cured leather](./Cured%20Leather.md), / 1 × [Cloth](./Cloth.md) / 90 minutes / 50% condition |
+![](../assets/Work_Boots_icon.png)
 
-> “__Steel-toed work boots. The kind you'd find on a construction site. Tough but not warm.__”
+_Work\_Boots\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Outer feet
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)5%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)7%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-10%
+
+**Harvest:** 2 × [Cured leather](./Cured%20Leather.md) / 90 minutes
+
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md), / 1 × [Cloth](./Cloth.md) / 90 minutes / 50% condition
+
+> “**Steel-toed work boots. The kind you'd find on a construction site. Tough but not warm.**”
 >
 > — In-game description
 

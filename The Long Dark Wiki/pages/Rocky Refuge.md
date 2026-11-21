@@ -4,13 +4,32 @@
 
 **Rocky Refuge**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Exterior](../assets/Rocky_refuge_2.jpg) / _Exterior_ / ![Interior](../assets/Rocky_refuge.jpg) / _Interior_ | 250px\]\] |
-| ![Exterior](../assets/Rocky_refuge_2.jpg) / _Exterior_ | ![Interior](../assets/Rocky_refuge.jpg) / _Interior_ |
-| **Location** |  |
-| ![](../assets/Rocky_Refuge_Location.png) / _Rocky\_Refuge\_Location.png_ |  |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- / Location |
-| Description | A small area protected on two sides by rocks |
-| **General** |  |
-| Type | Outdoors\|- |
+\[\[File: / ![Exterior](../assets/Rocky_refuge_2.jpg) / _Exterior_ / ![Interior](../assets/Rocky_refuge.jpg) / _Interior_
+
+250px\]\]
+
+![Exterior](../assets/Rocky_refuge_2.jpg)
+
+_Exterior_
+
+![Interior](../assets/Rocky_refuge.jpg)
+
+_Interior_
+
+**Location**
+
+![](../assets/Rocky_Refuge_Location.png)
+
+_Rocky\_Refuge\_Location.png_
+
+Region
+
+[Mountain Town](./Mountain%20Town.md)\|-
+
+Location
+
+**Description:** A small area protected on two sides by rocks
+
+**General**
+
+**Type:** Outdoors\|-

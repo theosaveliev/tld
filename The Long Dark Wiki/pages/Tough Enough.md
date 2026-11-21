@@ -11,10 +11,11 @@
 
 **Tough Enough**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Tough_Enough_icon.png) / _Tough\_Enough\_icon.png_ |
-| Description | Survive 25 Cougar Struggles. |
+![](../assets/Tough_Enough_icon.png)
+
+_Tough\_Enough\_icon.png_
+
+**Description:** Survive 25 Cougar Struggles.
 
 **Tough Enough** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

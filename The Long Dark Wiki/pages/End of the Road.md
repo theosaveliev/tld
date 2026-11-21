@@ -4,11 +4,18 @@
 
 **End of the Road**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/End_of_the_Road.jpg) / _End\_of\_the\_Road.jpg_ |
-| **Location** |  |
-|  | ![](../assets/End_of_the_Road_Location.png) / _End\_of\_the\_Road\_Location.png_ |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
-| **General** |  |
-| Type | Landmark\|- |
+![](../assets/End_of_the_Road.jpg)
+
+_End\_of\_the\_Road.jpg_
+
+**Location**
+
+![](../assets/End_of_the_Road_Location.png)
+
+_End\_of\_the\_Road\_Location.png_
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+
+**General**
+
+**Type:** Landmark\|-

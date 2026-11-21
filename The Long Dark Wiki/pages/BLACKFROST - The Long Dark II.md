@@ -24,16 +24,21 @@
 
 **BLACKFROST: The Long Dark II**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Bf-wishlist.jpg) / _Bf-wishlist.jpg_ |
-| **Developer(s)** | [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) |
-| **Director(s)** | Raphael Van Lierop |
-| Platform | PC-Steam |
-| Released | 2027 |
-| **Genre(s)** | First-Person, Open World, Survival, RPG, CO-OP, Single Player |
+![](../assets/Bf-wishlist.jpg)
 
-> “__Live together. Die alone.__”
+_Bf-wishlist.jpg_
+
+**Developer(s):** [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md)
+
+**Director(s):** Raphael Van Lierop
+
+**Platform:** PC-Steam
+
+**Released:** 2027
+
+**Genre(s):** First-Person, Open World, Survival, RPG, CO-OP, Single Player
+
+> “**Live together. Die alone.**”
 >
 > — Official Tagline
 

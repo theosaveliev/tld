@@ -11,19 +11,27 @@
 
 **Wood Matches**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Wood_Matches_icon.png) / _Wood\_Matches\_icon.png_ |
-| **General** |  |
-| Item Type | Fire Starting\|- |
-| Renewable | Yes |
-| Firestarting Slot | Starter |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.008 kg(0.02 lbs) |
-| Bonus chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+5% |
-| Unit count | ![unit\_count\_icon.png](../assets/Unit_count_icon.png)12match |
+![](../assets/Wood_Matches_icon.png)
 
-> “__Wooden strike-anywhere matches.__”
+_Wood\_Matches\_icon.png_
+
+**General**
+
+**Item Type:** Fire Starting\|-
+
+**Renewable:** Yes
+
+**Firestarting Slot:** Starter
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.008 kg(0.02 lbs)
+
+**Bonus chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+5%
+
+**Unit count:** ![unit\_count\_icon.png](../assets/Unit_count_icon.png)12match
+
+> “**Wooden strike-anywhere matches.**”
 >
 > — In-game description
 

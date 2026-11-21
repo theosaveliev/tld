@@ -13,15 +13,21 @@
 
 **Survival School (Predux)/Transcript**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/The_Long_Dark_-_episode_two_-_survival_school.png) / _The\_Long\_Dark\_-\_episode\_two\_-\_survival\_school.png_ |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
-| Previous | You Fix My Rifle?/Transcript |
-| Current | Survival School (Predux)/Transcript |
-| Next | [Jeremiah's Folly/Transcript](./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md) |
-| Region | [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) |
+![](../assets/The_Long_Dark_-_episode_two_-_survival_school.png)
+
+_The\_Long\_Dark\_-\_episode\_two\_-\_survival\_school.png_
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+
+**Previous:** You Fix My Rifle?/Transcript
+
+**Current:** Survival School (Predux)/Transcript
+
+**Next:** [Jeremiah's Folly/Transcript](./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md)
+
+**Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md)
 
 This is the transcript for Chapter 3 [Survival School (Predux)](./Survival%20School%20%28Predux%29.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 

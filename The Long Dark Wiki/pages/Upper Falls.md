@@ -4,11 +4,18 @@
 
 **Upper Falls**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/2021-05-23_23-00-55.jpg) / _2021-05-23\_23-00-55.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Upper_Falls_Location.png) / _Upper\_Falls\_Location.png_ |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
-| **General** |  |
-| Type | Landmark\|- |
+![](../assets/2021-05-23_23-00-55.jpg)
+
+_2021-05-23\_23-00-55.jpg_
+
+**Location**
+
+![](../assets/Upper_Falls_Location.png)
+
+_Upper\_Falls\_Location.png_
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+
+**General**
+
+**Type:** Landmark\|-

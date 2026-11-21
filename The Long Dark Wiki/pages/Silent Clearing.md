@@ -4,11 +4,18 @@
 
 **Silent Clearing**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Silent_Clearing.jpg) / _Silent\_Clearing.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Silent_Clearing_Location.png) / _Silent\_Clearing\_Location.png_ |
-| Region | [Coastal Highway](./Coastal%20Highway.md)\|- |
-| **General** |  |
-| Type | Outdoors\|- |
+![](../assets/Silent_Clearing.jpg)
+
+_Silent\_Clearing.jpg_
+
+**Location**
+
+![](../assets/Silent_Clearing_Location.png)
+
+_Silent\_Clearing\_Location.png_
+
+**Region:** [Coastal Highway](./Coastal%20Highway.md)\|-
+
+**General**
+
+**Type:** Outdoors\|-

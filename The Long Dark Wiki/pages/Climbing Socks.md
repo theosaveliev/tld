@@ -4,24 +4,37 @@
 
 **Climbing Socks**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Climbing_Socks_icon.png) / _Climbing\_Socks\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Renewable | Yes |
-| Clothing Slot | Inner feet |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)25% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)0% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 20 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 45 minutes / 55% condition |
+![](../assets/Climbing_Socks_icon.png)
 
-> “__Reinforced, expedition quality wool socks.__”
+_Climbing\_Socks\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Renewable:** Yes
+
+**Clothing Slot:** Inner feet
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)25%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)0%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 20 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 45 minutes / 55% condition
+
+> “**Reinforced, expedition quality wool socks.**”
 >
 > — In-game description
 

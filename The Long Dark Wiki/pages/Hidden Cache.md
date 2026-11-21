@@ -13,16 +13,23 @@
 
 **Hidden Cache**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Hidden_Cache.png) / _Hidden\_Cache.png_ |
-| Release | 14 June 2018 |
-| Update | [1.33](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33) |
-| Story item | No |
-| **Container** |  |
-| Capacity | 15 kg(33 lbs) |
-| **Advanced data** |  |
-| Object key | STORY\_HiddenCacheContainer |
+![](../assets/Hidden_Cache.png)
+
+_Hidden\_Cache.png_
+
+**Release:** 14 June 2018
+
+**Update:** [1.33](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33)
+
+**Story item:** No
+
+**Container**
+
+**Capacity:** 15 kg(33 lbs)
+
+**Advanced data**
+
+**Object key:** STORY\_HiddenCacheContainer
 
 **Hidden Caches** are small containers filled with useful loot found consistently through the many Episodes of [Wintermute](./Wintermute.md) as part of various side missions.
 

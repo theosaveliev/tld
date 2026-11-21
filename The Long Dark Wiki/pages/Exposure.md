@@ -11,10 +11,11 @@
 
 **Exposure**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Exposure_icon.png) / _Exposure\_icon.png_ |
-| Description | Take a photo in each Great Bear Island Region for a total of 16 (single game). |
+![](../assets/Exposure_icon.png)
+
+_Exposure\_icon.png_
+
+**Description:** Take a photo in each Great Bear Island Region for a total of 16 (single game).
 
 **Exposure** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

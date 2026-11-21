@@ -14,13 +14,15 @@
 
 **Forest Talkers**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Forest_talker_logo.png) / _Forest\_talker\_logo.png_ |
-| Type | Eco terrorism |
-| Headquarters | [Great Bear Island](./Great%20Bear%20Island.md) |
+![](../assets/Forest_talker_logo.png)
 
-> “__Eco-terrorists. Activists, some call them. Depends on who you talk to I guess.__”
+_Forest\_talker\_logo.png_
+
+**Type:** Eco terrorism
+
+**Headquarters:** [Great Bear Island](./Great%20Bear%20Island.md)
+
+> “**Eco-terrorists. Activists, some call them. Depends on who you talk to I guess.**”
 >
 > — -Jeremiah
 

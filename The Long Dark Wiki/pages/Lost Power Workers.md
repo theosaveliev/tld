@@ -20,7 +20,7 @@
 | Current | Lost Power Workers |
 | Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 
-> “__Find out what happened to the lost power workers. Search their last noted work locations.__”
+> “**Find out what happened to the lost power workers. Search their last noted work locations.**”
 
 **Lost Power Workers** is a side mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 

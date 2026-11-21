@@ -15,27 +15,39 @@
 
 **Pumpkin Pie**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Pumpkin_Pie_icon.png) / _Pumpkin\_Pie\_icon.png_ |
-| Release | [30 October 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.373) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Wildlife are known to be turned off by the scent of pumpkin. |
-| **Values** |  |
-| Calories | 2000 kcal |
-| Hydration | -5% |
-| Weight | 0.50 kg (1.1 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_PumpkinPie |
+![](../assets/Pumpkin_Pie_icon.png)
 
-> “__A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Wildlife are known to be turned off by the scent of pumpkin.__”
+_Pumpkin\_Pie\_icon.png_
+
+**Release:** [30 October 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.373)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Wildlife are known to be turned off by the scent of pumpkin.
+
+**Values**
+
+**Calories:** 2000 kcal
+
+**Hydration:** -5%
+
+**Weight:** 0.50 kg (1.1 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_PumpkinPie
+
+> “**A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Wildlife are known to be turned off by the scent of pumpkin.**”
 >
 > — 4DON description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Has been known to confuse pursuing entities.__
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **A delicious, seasonal desert. It is warm, comforting and packed full of calories. Fact: Has been known to confuse pursuing entities.**
 
 Escape the Darkwalker description
 

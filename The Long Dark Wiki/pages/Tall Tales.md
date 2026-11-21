@@ -11,19 +11,41 @@
 - [Trivia](#trivia)
 - [Achievements](#achievements)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 **Tall Tales**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Sasquatch](../assets/Local_Legends_-_Sasquatch_icon.png) / _Sasquatch_ / ![The Big One](../assets/Local_Legends_-_The_Big_One_icon.png) / _The Big One_ / ![Ghost Stag](../assets/Local_Legends_-_Ghost_Stag_icon.png) / _Ghost Stag_ / ![Lost Cave](../assets/Local_Legends_-_The_Lost_Cave_icon.png) / _Lost Cave_ | 250px\]\] |
-| ![Sasquatch](../assets/Local_Legends_-_Sasquatch_icon.png) / _Sasquatch_ | ![The Big One](../assets/Local_Legends_-_The_Big_One_icon.png) / _The Big One_ / ![Ghost Stag](../assets/Local_Legends_-_Ghost_Stag_icon.png) / _Ghost Stag_ / ![Lost Cave](../assets/Local_Legends_-_The_Lost_Cave_icon.png) / _Lost Cave_ |
-| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- / **Missions** |
-| Current | Tall Tales |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
+\[\[File: / ![Sasquatch](../assets/Local_Legends_-_Sasquatch_icon.png) / _Sasquatch_ / ![The Big One](../assets/Local_Legends_-_The_Big_One_icon.png) / _The Big One_ / ![Ghost Stag](../assets/Local_Legends_-_Ghost_Stag_icon.png) / _Ghost Stag_ / ![Lost Cave](../assets/Local_Legends_-_The_Lost_Cave_icon.png) / _Lost Cave_
 
-> “__Books describing odd or mysterious events in Pleasant Valley. Investigate to find out more about the life and character of people in the Region.__”
+250px\]\]
+
+![Sasquatch](../assets/Local_Legends_-_Sasquatch_icon.png)
+
+_Sasquatch_
+
+![The Big One](../assets/Local_Legends_-_The_Big_One_icon.png)
+
+_The Big One_
+
+![Ghost Stag](../assets/Local_Legends_-_Ghost_Stag_icon.png)
+
+_Ghost Stag_
+
+![Lost Cave](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
+
+_Lost Cave_
+
+Episode
+
+[Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|-
+
+**Missions**
+
+**Current:** Tall Tales
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
+
+> “**Books describing odd or mysterious events in Pleasant Valley. Investigate to find out more about the life and character of people in the Region.**”
 
 **Tall Tales** is a side mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md), as well as an [Achievement](./Tall%20Tales%20%28Achievement%29.md) of the same name which is earned upon completing the mission.
 

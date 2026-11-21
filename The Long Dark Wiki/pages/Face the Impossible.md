@@ -4,10 +4,11 @@
 
 **Face the Impossible**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Face_the_Impossible_icon.png) / _Face\_the\_Impossible\_icon.png_ |
-| Description | Survive at least one day on Interloper difficulty |
+![](../assets/Face_the_Impossible_icon.png)
+
+_Face\_the\_Impossible\_icon.png_
+
+**Description:** Survive at least one day on Interloper difficulty
 
 **Face the Impossible** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

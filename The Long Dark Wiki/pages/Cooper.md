@@ -13,23 +13,33 @@
 
 **Cooper**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Coopr.jpg) / _Coopr.jpg_ |
-| Release | [2.52](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
-| Date | 6 October 2021 |
-| Wintermute | [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
-| Location(s) | [Perseverance Mills](./Perseverance%20Mills.md) |
-| **Biographical Information** |  |
-| Status | Alive |
-| **Physical Information** |  |
-| Sex | Male |
-| **Game Information** |  |
-| Voiced by | Shawn Youngchief |
+![](../assets/Coopr.jpg)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_Coopr.jpg_
 
-> “__Welcome to Cooper's! Haven't seen you around here before.__”
+**Release:** [2.52](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
+
+**Date:** 6 October 2021
+
+**Wintermute:** [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
+
+**Location(s):** [Perseverance Mills](./Perseverance%20Mills.md)
+
+**Biographical Information**
+
+**Status:** Alive
+
+**Physical Information**
+
+**Sex:** Male
+
+**Game Information**
+
+**Voiced by:** Shawn Youngchief
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+
+> “**Welcome to Cooper's! Haven't seen you around here before.**”
 >
 > — Cooper greeting Astrid
 
@@ -47,7 +57,7 @@ A resident of [Perseverance Mills](./Perseverance%20Mills.md), Cooper is the bar
 
 ### [Perseverance](./Perseverance.md)
 
-> “__Every day, another "refugee" from the cold, or three, showing up and camping out here at the bar... \[\] I'm happy to be able to help. As long as there's wood for the fireplace and booze for the patrons, that is.__”
+> “**Every day, another "refugee" from the cold, or three, showing up and camping out here at the bar... \[\] I'm happy to be able to help. As long as there's wood for the fireplace and booze for the patrons, that is.**”
 >
 > — Cooper speaking about the Bar Patrons
 
@@ -55,7 +65,7 @@ A resident of [Perseverance Mills](./Perseverance%20Mills.md), Cooper is the bar
 
 ### [A Cry For Help](./A%20Cry%20For%20Help.md)
 
-> “__She looks cold. Give her a whiskey!__”
+> “**She looks cold. Give her a whiskey!**”
 >
 > — Cooper offering to help warm Astrid up
 

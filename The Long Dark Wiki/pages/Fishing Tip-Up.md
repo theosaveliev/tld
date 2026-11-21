@@ -14,19 +14,29 @@
 
 **Fishing Tip-Up**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Fishing_Tip-Up_icon.png) / _Fishing\_Tip-Up\_icon.png_ |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
-| Stackable | No |
-| Examine | Leave at an ice fishing hole to catch fish unattended. Can also be set with Bait or a Lure. |
-| **Values** |  |
-| Weight | 0.30 kg (0.66 lbs) |
-| **Actions** |  |
-| Backpack | Place, Drop, Leave |
+![](../assets/Fishing_Tip-Up_icon.png)
+
+_Fishing\_Tip-Up\_icon.png_
+
+**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)\|-
+
+**Stackable:** No
+
+**Examine:** Leave at an ice fishing hole to catch fish unattended. Can also be set with Bait or a Lure.
+
+**Values**
+
+**Weight:** 0.30 kg (0.66 lbs)
+
+**Actions**
+
+**Backpack:** Place, Drop, Leave
 
 **Fishing Tip-Ups** are [Ice Fishing](./Ice%20Fishing.md) and [Trapping](./Trapping.md) [Tools](./Tools.md) used to passively catch fish. They were introduced in the free update portion of the Part 3: Frontier Comforts of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
@@ -141,5 +151,3 @@ _Max 4 holes reachable from snow shelter entrance with the following setup. Exam
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-[ru:Жерлица](ru:%D0%96%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D0%B0)

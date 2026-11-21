@@ -15,16 +15,21 @@
 
 **Tinder Plug**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Tinder_Plug_icon.png) / _Tinder\_Plug\_icon.png_ |
-| **General** |  |
-| Item Type | Fire Starting\|- |
-| Firestarting Slot | Tinder |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.05 kg(0.11 lbs) |
+![](../assets/Tinder_Plug_icon.png)
 
-> “__A small plug or bundle of flammable material (paper, wool, cloth, dry bark or needles, etc.) required to start a fire.__”
+_Tinder\_Plug\_icon.png_
+
+**General**
+
+**Item Type:** Fire Starting\|-
+
+**Firestarting Slot:** Tinder
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.05 kg(0.11 lbs)
+
+> “**A small plug or bundle of flammable material (paper, wool, cloth, dry bark or needles, etc.) required to start a fire.**”
 >
 > — In-game description
 
@@ -42,11 +47,11 @@ Tinder plugs can be found inside containers, crafted from most forms of tinder, 
 
 **Tinder Plug**
 
-| Property | Details |
-| --- | --- |
-| Type | Tinder |
-| **Statistics** |  |
-| Start Chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) 0% |
+**Type:** Tinder
+
+**Statistics**
+
+**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) 0%
 
 ## Crafting
 

@@ -12,18 +12,27 @@
 
 **Flare Shell**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Flare_Shell_icon.png) / _Flare\_Shell\_icon.png_ |
-| Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298) |
-| Wintermute | No |
-| Renewable | Yes ([Trader](./Trader.md) or [Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
-| Stackable | Yes |
-| Examine | An emergency beacon fired from a Distress Pistol. |
-| **Values** |  |
-| Weight | 0.05 kg (0.11 lbs) |
+![](../assets/Flare_Shell_icon.png)
+
+_Flare\_Shell\_icon.png_
+
+**Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.298)
+
+**Wintermute:** No
+
+**Renewable:** Yes ([Trader](./Trader.md) or [Beachcombing](./Beachcombing.md))
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)\|-
+
+**Stackable:** Yes
+
+**Examine:** An emergency beacon fired from a Distress Pistol.
+
+**Values**
+
+**Weight:** 0.05 kg (0.11 lbs)
 
 **Flare Shell**s are non-craftable ammunition items.
 

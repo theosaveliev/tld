@@ -13,19 +13,39 @@
 - [Maps](#maps)
 - [Locations](#locations-1)
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
-| ![](../assets/Seal_icon.png) / _Seal\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / **Anna Island -- Track Section 4** / \| Property \| Details \| / \| --- \| --- \| / \|  \| ![](../assets/Railyard_%28Track_Section_4_West%29.jpg) / _Railyard\_(Track\_Section\_4\_West).jpg_ \| / \| **Location on [Cauldron Island](./Cauldron%20Island.md)** \|  \| / \|  \| ![](../assets/No_picture.png) / _No\_picture.png_ \| / \|  \| ![](../assets/Anna_Island_Track_Section_4_Map.png) / _Anna\_Island\_Track\_Section\_4\_Map.png_ \| / \| **Details** \|  \| / \| Description \| A mountain track region that transitions to the next major island and 3 other Track Sections on Anna Island. \| / \| Connecting Regions \| [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) / [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) \| / \| Interloper Region Spawn \| No \| / \| Date Added \| October 27 2026 \| / **Anna Island -- Track Section 4** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._ / ## Overview / One of the many coastal rail regions on Anna Island, this Track Region is unique in that it transitions to 4 other regions. This will be the first proper region where the player can use the [Prototype Train](./Prototype%20Train.md), having just recently acquiring it from Track Section 6. / - Western most corner leads to a bridge with an Aurora Gate that must be raised during an [Aurora](./Aurora.md). Leads to the next major island (early access part not out yet.) / - Western North section leads to [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) / - Eastern North section leads to [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) / - Eastern most corner leads to [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) / There is one [Water Tower](./Water%20Tower.md) next to the [Repair Depot](./Repair%20Depot.md), and an [Oil Tank](./Oil%20Tank.md) just outside the Depot walls. The Repair Depot also contains enough supplies to repair the Train, as well as a place to safely rest. / Despite the map showing a set of tracks at the eastern Railyard that the player can use to turn around and head east, these tracks do not exist, and only form a Y out of the Section 6 tunnel. The tracks leading out of the previous region will always take the player west as a result, so the player will have to circle around Anna Island fully to return to [Port Remnant](./Port%20Remnant.md). / ## Locations / There are 7 named locations within Track Section 4, including:{\| class="" style="background-color:transparent; color:inherit; width:100%;" |
-| ![](../assets/Railyard_%28Track_Section_4_West%29.jpg) / _Railyard\_(Track\_Section\_4\_West).jpg_ |  |  |
-| **Location on [Cauldron Island](./Cauldron%20Island.md)** |  |  |
-| ![](../assets/No_picture.png) / _No\_picture.png_ |  |  |
-| ![](../assets/Anna_Island_Track_Section_4_Map.png) / _Anna\_Island\_Track\_Section\_4\_Map.png_ |  |  |
-| **Details** |  |  |
-| Description | A mountain track region that transitions to the next major island and 3 other Track Sections on Anna Island. |  |
-| Connecting Regions | [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) / [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) |  |
-| Interloper Region Spawn | No |  |
-| Date Added | October 27 2026 |  |
-| - [Railyard (Track Section 4)](./Railyard%20%28Track%20Section%204%29.md) (east) / - [Railyard (Track Section 4)](./Railyard%20%28Track%20Section%204%29.md) (west) / - [Pond (Track Section 4)](./Pond%20%28Track%20Section%204%29.md) / - [Canyon](./Canyon.md) | - To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md)) / - To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)) / - To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)) |  |
+![](../assets/Seal_icon.png)
+
+_Seal\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+\|} / **Anna Island -- Track Section 4** / ![](../assets/Railyard_%28Track_Section_4_West%29.jpg) / _Railyard\_(Track\_Section\_4\_West).jpg_ / **Location on [Cauldron Island](./Cauldron%20Island.md)** / ![](../assets/No_picture.png) / _No\_picture.png_ / ![](../assets/Anna_Island_Track_Section_4_Map.png) / _Anna\_Island\_Track\_Section\_4\_Map.png_ / **Details** / **Description:** A mountain track region that transitions to the next major island and 3 other Track Sections on Anna Island. / **Connecting Regions:** [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) / [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) / **Interloper Region Spawn:** No / **Date Added:** October 27 2026 / **Anna Island -- Track Section 4** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._ / ## Overview / One of the many coastal rail regions on Anna Island, this Track Region is unique in that it transitions to 4 other regions. This will be the first proper region where the player can use the [Prototype Train](./Prototype%20Train.md), having just recently acquiring it from Track Section 6. / - Western most corner leads to a bridge with an Aurora Gate that must be raised during an [Aurora](./Aurora.md). Leads to the next major island (early access part not out yet.) / - Western North section leads to [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) / - Eastern North section leads to [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) / - Eastern most corner leads to [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) / There is one [Water Tower](./Water%20Tower.md) next to the [Repair Depot](./Repair%20Depot.md), and an [Oil Tank](./Oil%20Tank.md) just outside the Depot walls. The Repair Depot also contains enough supplies to repair the Train, as well as a place to safely rest. / Despite the map showing a set of tracks at the eastern Railyard that the player can use to turn around and head east, these tracks do not exist, and only form a Y out of the Section 6 tunnel. The tracks leading out of the previous region will always take the player west as a result, so the player will have to circle around Anna Island fully to return to [Port Remnant](./Port%20Remnant.md). / ## Locations / There are 7 named locations within Track Section 4, including:{\| class="" style="background-color:transparent; color:inherit; width:100%;"
+
+![](../assets/Railyard_%28Track_Section_4_West%29.jpg)
+
+_Railyard\_(Track\_Section\_4\_West).jpg_
+
+**Location on [Cauldron Island](./Cauldron%20Island.md)**
+
+![](../assets/No_picture.png)
+
+_No\_picture.png_
+
+![](../assets/Anna_Island_Track_Section_4_Map.png)
+
+_Anna\_Island\_Track\_Section\_4\_Map.png_
+
+**Details**
+
+**Description:** A mountain track region that transitions to the next major island and 3 other Track Sections on Anna Island.
+
+**Connecting Regions:** [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) / [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)
+
+**Interloper Region Spawn:** No
+
+**Date Added:** October 27 2026
+
+**- [Railyard (Track Section 4)](./Railyard%20%28Track%20Section%204%29.md) (east) / - [Railyard (Track Section 4)](./Railyard%20%28Track%20Section%204%29.md) (west) / - [Pond (Track Section 4)](./Pond%20%28Track%20Section%204%29.md) / - [Canyon](./Canyon.md):** - To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md)) / - To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)) / - To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md))
 
 {| class="" style="background-color:transparent; color:inherit; width:100%;" |- | | valign="top" style="width:50%;" |
 
@@ -94,5 +114,3 @@ _Pond_
 ![Railyard (West) and Repair Depot](../assets/Railyard_%28Track_Section_4_West%29.jpg)
 
 _Railyard (West) and Repair Depot_
-
-[ru:Остров Анны — Участок пути 4](ru:%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%90%D0%BD%D0%BD%D1%8B_%E2%80%94_%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA_%D0%BF%D1%83%D1%82%D0%B8_4)

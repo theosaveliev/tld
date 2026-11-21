@@ -16,15 +16,21 @@
 
 **You Fix My Rifle?/Transcript**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) / _The\_Long\_Dark\_-\_episode\_two\_milling\_machine\_for\_rifle.png_ |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
-| Previous | [Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md) |
-| Current | You Fix My Rifle?/Transcript |
-| Next | [Survival School (Predux)/Transcript](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md) |
-| Region | [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
+![](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png)
+
+_The\_Long\_Dark\_-\_episode\_two\_milling\_machine\_for\_rifle.png_
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+
+**Previous:** [Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md)
+
+**Current:** You Fix My Rifle?/Transcript
+
+**Next:** [Survival School (Predux)/Transcript](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md)
+
+**Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md)
 
 This is the transcript for Chapter 2 You Fix My Rifle? for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 

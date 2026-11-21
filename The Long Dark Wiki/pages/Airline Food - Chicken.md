@@ -4,23 +4,37 @@
 
 **Airline Food - Chicken**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Airline_Food_-_Chicken_icon.png) / _Airline\_Food\_-\_Chicken\_icon.png_ |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
-| Wintermute | Yes |
-| Renewable | No |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | Still frozen solid, this food tray has all the tasty charm you could expect from reheated chicken, only without the heat. |
-| **Values** |  |
-| Calories | 620 kcal |
-| Hydration | 5% |
-| [Vitamin C](./Scurvy.md) | Moderate (29%) |
-| Weight | 0.25 kg (0.55 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_AirlineFoodChick |
+![](../assets/Airline_Food_-_Chicken_icon.png)
+
+_Airline\_Food\_-\_Chicken\_icon.png_
+
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+
+**Wintermute:** Yes
+
+**Renewable:** No
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** Still frozen solid, this food tray has all the tasty charm you could expect from reheated chicken, only without the heat.
+
+**Values**
+
+**Calories:** 620 kcal
+
+**Hydration:** 5%
+
+**[Vitamin C](./Scurvy.md):** Moderate (29%)
+
+**Weight:** 0.25 kg (0.55 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_AirlineFoodChick
 
 **Airline Food - Chicken** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 

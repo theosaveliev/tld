@@ -4,15 +4,19 @@
 
 **Stack of Papers**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Stack_of_Papers_icon.png) / _Stack\_of\_Papers\_icon.png_ |
-| **General** |  |
-| Item Type | Fire Starting\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
+![](../assets/Stack_of_Papers_icon.png)
 
-> “__Stack of now-useless papers. Makes for good Tinder, and that's about it.__”
+_Stack\_of\_Papers\_icon.png_
+
+**General**
+
+**Item Type:** Fire Starting\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+> “**Stack of now-useless papers. Makes for good Tinder, and that's about it.**”
 >
 > — In-game description
 

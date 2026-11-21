@@ -11,18 +11,25 @@
 
 **Snare**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Snare_icon.png) / _Snare\_icon.png_ |
-| **General** |  |
-| Item Type | Item |
-| Wintermute |  |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.30 kg(0.66 lbs) |
-| Harvest | 10 minutes 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| Repair | Cannot Repair |
+![](../assets/Snare_icon.png)
 
-> “__A simple snare, used to capture small game.__”
+_Snare\_icon.png_
+
+**General**
+
+**Item Type:** Item
+
+Wintermute
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
+
+**Harvest:** 10 minutes 1 × [Reclaimed Wood](./Reclaimed%20Wood.md)
+
+**Repair:** Cannot Repair
+
+> “**A simple snare, used to capture small game.**”
 >
 > — In-game description
 
@@ -75,5 +82,3 @@ Cannot be repaired. Harvesting yields 1 × [Reclaimed wood](./Reclaimed%20Wood.m
 
 - See [Trapping](./Trapping.md) for further tips.
 - Snared rabbits count against the [Pacifist](./Pacifist.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) and will lock it for the run.
-
-[ru:Капкан](ru:%D0%9A%D0%B0%D0%BF%D0%BA%D0%B0%D0%BD)

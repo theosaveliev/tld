@@ -18,7 +18,7 @@
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 
-![Story mode concept art of aurora affecting the electronics in street lights and vehicles.](../assets/Aurora_-_art.jpg)_Story mode concept art of aurora affecting the electronics in street lights and vehicles._{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Mackenzie: "So...this is some kind of reoccurring aurora borealis?"__
+![Story mode concept art of aurora affecting the electronics in street lights and vehicles.](../assets/Aurora_-_art.jpg)_Story mode concept art of aurora affecting the electronics in street lights and vehicles._{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Mackenzie: "So...this is some kind of reoccurring aurora borealis?"**
 
 Methuselah: "Possibly."
 
@@ -216,5 +216,3 @@ _Lighthouse turned on due to Aurora_
 ![Another shot of Mystery Lake's Camp Office during an Aurora.](../assets/Camp_Office_-_Aurora.jpg)
 
 _Another shot of Mystery Lake's Camp Office during an Aurora._
-
-[es:Aurora Boreal](es:Aurora_Boreal) [ru:Полярное сияние](ru:%D0%9F%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D0%B5_%D1%81%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5) [fr:Aurore Boréale](fr:Aurore_Bor%C3%A9ale)

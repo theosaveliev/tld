@@ -4,19 +4,29 @@
 
 **Park Warning Notice**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Park_Warning_Notice_icon.png) / _Park\_Warning\_Notice\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A weathered-looking Milton &amp; Area Parks Board Notice, pinned to the board. Looks like it's been here a while. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
+![](../assets/Park_Warning_Notice_icon.png)
+
+_Park\_Warning\_Notice\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A weathered-looking Milton &amp; Area Parks Board Notice, pinned to the board. Looks like it's been here a while.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
 
 **Park Warning Notice** is a note found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) in [Wintermute](./Wintermute.md). It is located on an information board when following the path into [Milton Park](./Milton%20Park.md).
 

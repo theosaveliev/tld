@@ -10,24 +10,33 @@
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 **Dr. Atwood**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Dr_Atwood.jpg) / _Dr\_Atwood.jpg_ |
-| Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
-| **Biographical Information** |  |
-| Status | Alive |
-| Occupation | Doctor Astrophysicist |
-| **Physical Information** |  |
-| Sex | Female |
-| Hair | Black |
-| **Game Information** |  |
-| Voiced by | Mayumi Yoshida |
+![](../assets/Dr_Atwood.jpg)
 
-> “__An old friend of mine, lives alone in a cabin in the hills near [Perseverance](./Perseverance%20Mills.md). Goes by the name Atwood. People in town will know how to find them. You need to get them this message as soon as possible.__”
+_Dr\_Atwood.jpg_
+
+**Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
+
+**Biographical Information**
+
+**Status:** Alive
+
+**Occupation:** Doctor Astrophysicist
+
+**Physical Information**
+
+**Sex:** Female
+
+**Hair:** Black
+
+**Game Information**
+
+**Voiced by:** Mayumi Yoshida
+
+> “**An old friend of mine, lives alone in a cabin in the hills near [Perseverance](./Perseverance%20Mills.md). Goes by the name Atwood. People in town will know how to find them. You need to get them this message as soon as possible.**”
 >
 > — - [Jeremiah](./Jeremiah.md)
 

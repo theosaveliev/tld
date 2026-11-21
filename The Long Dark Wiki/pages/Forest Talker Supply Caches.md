@@ -4,17 +4,21 @@
 
 **Forest Talker Supply Caches**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Trailer_supplies_icon.png) / _trailer\_supplies\_icon.png_ |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
-| Current | Forest Talker Supply Caches |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md) |
-| Characters | [Forest Talkers](./Forest%20Talkers.md) |
+![](../assets/Trailer_supplies_icon.png)
+
+_trailer\_supplies\_icon.png_
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+
+**Current:** Forest Talker Supply Caches
+
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md)
+
+**Characters:** [Forest Talkers](./Forest%20Talkers.md)
 
 **Template:spoiler**
 
-> “__The Forest Talkers, an eco-activist group, have left supply caches hidden in different regions around Great Bear Island. They could prove useful if found.__”
+> “**The Forest Talkers, an eco-activist group, have left supply caches hidden in different regions around Great Bear Island. They could prove useful if found.**”
 >
 > — In-game description
 

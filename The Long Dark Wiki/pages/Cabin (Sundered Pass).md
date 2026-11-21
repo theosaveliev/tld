@@ -4,10 +4,18 @@
 
 **Cabin (Sundered Pass)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Old_Settlement_Cabin.jpg) / _Old\_Settlement\_Cabin.jpg_ |
-| **Location** |  |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
-| **General** |  |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
+![](../assets/Old_Settlement_Cabin.jpg)
+
+_Old\_Settlement\_Cabin.jpg_
+
+**Location**
+
+**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+
+**General**
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+Has a bed

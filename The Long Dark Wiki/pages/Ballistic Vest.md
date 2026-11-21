@@ -12,24 +12,37 @@
 
 **Ballistic Vest**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Ballistic_Vest_icon.png) / _Ballistic\_Vest\_icon.png_ |
-| **General** |  |
-| Item Type |  |
-| Wintermute |  |
-| Clothing Slot | Accessory |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)6.00 kg(13.2 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)0 °C(0 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0 °C(0 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)50% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-40% |
-| Harvest | Cannot Harvest |
-| Repair | Cannot Repair |
+![](../assets/Ballistic_Vest_icon.png)
 
-> “__Law-enforcement body armour. Great Protection, but very heavy. You won't win any sprints wearing it.__”
+_Ballistic\_Vest\_icon.png_
+
+**General**
+
+Item Type
+
+Wintermute
+
+**Clothing Slot:** Accessory
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)6.00 kg(13.2 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0 °C(0 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0 °C(0 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)50%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-40%
+
+**Harvest:** Cannot Harvest
+
+**Repair:** Cannot Repair
+
+> “**Law-enforcement body armour. Great Protection, but very heavy. You won't win any sprints wearing it.**”
 >
 > — In-game description
 

@@ -4,21 +4,33 @@
 
 **Cooked Potato**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cooked_Potato_icon.png) / _Cooked\_Potato\_icon.png_ |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | Cooked and ready to eat. A delicious staple. |
-| **Values** |  |
-| Calories | 250 kcal |
-| Hydration | -3% |
-| [Vitamin C](./Scurvy.md) | Moderate (24%) |
-| Weight | 0.15 kg (0.33 lbs) |
+![](../assets/Cooked_Potato_icon.png)
+
+_Cooked\_Potato\_icon.png_
+
+**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** Cooked and ready to eat. A delicious staple.
+
+**Values**
+
+**Calories:** 250 kcal
+
+**Hydration:** -3%
+
+**[Vitamin C](./Scurvy.md):** Moderate (24%)
+
+**Weight:** 0.15 kg (0.33 lbs)
 
 **Cooked Potato** is a cooked [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 

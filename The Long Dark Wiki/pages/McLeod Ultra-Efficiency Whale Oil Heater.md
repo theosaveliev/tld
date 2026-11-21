@@ -15,20 +15,37 @@
 
 **McLeod Ultra-Efficiency Whale Oil Heater**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/McLeod_Ultra-Efficiency_Whale_Oil_Heater_icon.png) / _McLeod\_Ultra-Efficiency\_Whale\_Oil\_Heater\_icon.png_ |
-| **General** |  |
-| Item Type | Tool\|- |
-| Renewable | No |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)2.50 kg(5.5 lbs) |
-| Harvest | Cannot Harvest |
-| Repair | 1 × [Scrap Metal](./Scrap%20Metal.md) (%) Condition / 1 hour |
+![](../assets/McLeod_Ultra-Efficiency_Whale_Oil_Heater_icon.png)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Seal_icon.png) / _Seal\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __A portable heater powered by whale oil, ultra efficient by virtue of modifications by the McLeod Benthic Railway Company. Heavy, windproof. Higher fuel use means higher heat output. Patent pending.__ / In-game description | ” |
+_McLeod\_Ultra-Efficiency\_Whale\_Oil\_Heater\_icon.png_
+
+**General**
+
+**Item Type:** Tool\|-
+
+**Renewable:** No
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
+
+**Harvest:** Cannot Harvest
+
+**Repair:** 1 × [Scrap Metal](./Scrap%20Metal.md) (%) Condition / 1 hour
+
+![](../assets/Seal_icon.png)
+
+_Seal\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+\|}{\| style="margin:auto"
+
+“
+
+**A portable heater powered by whale oil, ultra efficient by virtue of modifications by the McLeod Benthic Railway Company. Heavy, windproof. Higher fuel use means higher heat output. Patent pending.** / In-game description
+
+”
 
 The **McLeod Ultra-Efficiency Whale Oil Heater** (or Oil Heater for short), is a [Tools](./Tools.md) item exclusively found on [Cauldron Island](./Cauldron%20Island.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
@@ -84,5 +101,3 @@ The Oil Heater can be repaired with a pair of [Simple Tools](./Simple%20Tools.md
 ## Gallery
 
 ## Game History
-
-[ru:Ультраэффективный обогреватель Маклеода](ru:%D0%A3%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BE%D0%B1%D0%BE%D0%B3%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D0%9C%D0%B0%D0%BA%D0%BB%D0%B5%D0%BE%D0%B4%D0%B0)

@@ -12,18 +12,27 @@
 
 **Stick**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Stick_icon.png) / _Stick\_icon.png_ |
-| Release | [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)[Materials](./Materials.md)\|- |
-| Stackable | Yes |
-| Examine | Small stick, will burn, but not for long. |
-| **Values** |  |
-| Weight | 0.15 kg (0.33 lbs) |
+![](../assets/Stick_icon.png)
+
+_Stick\_icon.png_
+
+**Release:** [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.256)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Fire Starting](./Fire%20Starting.md)[Materials](./Materials.md)\|-
+
+**Stackable:** Yes
+
+**Examine:** Small stick, will burn, but not for long.
+
+**Values**
+
+**Weight:** 0.15 kg (0.33 lbs)
 
 **Sticks** are a crafting material and fuel material in _The Long Dark_.
 
@@ -31,14 +40,17 @@
 
 **Stick**
 
-| Property | Details |
-| --- | --- |
-| Type | Fuel |
-| **Statistics** |  |
-| Duration | ![Fire\_Starting.png](../assets/Fire_Starting.png) 7.5 minutes |
-| Start Chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) 15% |
-| Heat | ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +1°C (+1.8°F) |
-| Burn Density | 0.83 hr/kg (0.38 hr/lb) |
+**Type:** Fuel
+
+**Statistics**
+
+**Duration:** ![Fire\_Starting.png](../assets/Fire_Starting.png) 7.5 minutes
+
+**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) 15%
+
+**Heat:** ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +1°C (+1.8°F)
+
+**Burn Density:** 0.83 hr/kg (0.38 hr/lb)
 
 ## Products
 

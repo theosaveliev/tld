@@ -18,15 +18,19 @@
 
 **The Basics of Survival**
 
-| Property | Details |
-| --- | --- |
-|  | ![One of the skill books that will start the mission](../assets/Plants_skill_book_icon.png) / _One of the skill books that will start the mission_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Current | The Basics of Survival |
-| Next | [Survival School](./Survival%20School.md) |
-| Region | [Mountain Town](./Mountain%20Town.md) |
+![One of the skill books that will start the mission](../assets/Plants_skill_book_icon.png)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_One of the skill books that will start the mission_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Current:** The Basics of Survival
+
+**Next:** [Survival School](./Survival%20School.md)
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 **The Basics of Survival** is a side mission started in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [story](./Wintermute.md). In the mission, the survivor must snare a rabbit, harvest and prepare some natural remedies, and mend some clothing. The mission can be completed in either [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) or [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md); if the research book used to trigger the first mission is not collected in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), it will need to be found in in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) to start the quest.
 
@@ -34,7 +38,7 @@ A sequel, [Survival School](./Survival%20School.md), is a side mission available
 
 ## Official description
 
-> “__Enduring the Quiet Apocalypse will require survival skills. Find the collectibles that can teach you important survival lessons.__”
+> “**Enduring the Quiet Apocalypse will require survival skills. Find the collectibles that can teach you important survival lessons.**”
 
 ## Overview
 

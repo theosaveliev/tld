@@ -11,12 +11,15 @@
 
 **Supply Bin**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Supply_Bin.jpg) / _Supply\_Bin.jpg_ |
-| Story item | Yes |
-| **Container** |  |
-| Capacity | 30.00 kg(66 lbs) |
+![](../assets/Supply_Bin.jpg)
+
+_Supply\_Bin.jpg_
+
+**Story item:** Yes
+
+**Container**
+
+**Capacity:** 30.00 kg(66 lbs)
 
 A **Supply Bin** is a storage container often found near Radio Towers, Forestry Lookouts, and certain Mines. They can contain Fuel items such as [Coal](./Coal.md), [Cedar Firewood](./Cedar%20Firewood.md), [Fir Firewood](./Fir%20Firewood.md), or [Charcoal](./Charcoal.md). The one at [Muskeg Overlook](./Muskeg%20Overlook.md) contains a [Car Battery](./Car%20Battery.md) for the nearby [Transmitter](./Transmitters.md).
 

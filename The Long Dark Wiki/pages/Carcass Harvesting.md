@@ -14,11 +14,13 @@
 
 **Carcass Harvesting**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Carcass_Harvesting_background.png) / _Carcass\_Harvesting\_background.png_ |
-| Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
-| Date | 23 June 2016 |
+![](../assets/Carcass_Harvesting_background.png)
+
+_Carcass\_Harvesting\_background.png_
+
+**Release:** [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)
+
+**Date:** 23 June 2016
 
 ![|left|alt=Carcass harvesting|80px](../assets/Carcass_Harvesting.png)
 
@@ -56,18 +58,165 @@ Survivor's skill level also affects the freeze level at which unfrozen meat harv
 
 This makes Hatchets &amp; Hacksaws good starting tools for meat harvesting, since they have better frozen meat harvesting speed, but end up losing that situational bonus at higher levels, and as such get completely outclassed by hunting knives at skill level 5.
 
-| Tool | Harvest rate / (minutes per kg) | Harvest rate / (minutes per unit) | Tool decay / (per hour) |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Meat | Frozen Meat | Hide | Gut |  |  |  |
-| ![](../assets/Anywhere_icon.png) / _Anywhere\_icon.png_ | Bare Hand | 30.0 | N/A | 40.0 | 40.0 | None |
-| ![](../assets/Hacksaw_icon.png) / _Hacksaw\_icon.png_ | [Hacksaw](./Hacksaw.md) | 15.0 | 10.0 | 60.0 | 30.0 | 1.0% |
-| ![](../assets/Hatchet_icon.png) / _Hatchet\_icon.png_ | [Hatchet](./Hatchet.md) | 15.0 | 10.0 | 45.0 | 20.0 | 1.0% |
-| ![](../assets/Hunting_Knife_icon.png) / _Hunting\_Knife\_icon.png_ | [Hunting Knife](./Hunting%20Knife.md) | 8.0 | 20.0 | 30.0 | 10.0 | 1.0% |
-| ![](../assets/Improvised_Hatchet_icon.png) / _Improvised\_Hatchet\_icon.png_ | [Improvised Hatchet](./Improvised%20Hatchet.md) | 20.0 | 15.0 | 60.0 | 30.0 | 1.5% |
-| ![](../assets/Improvised_Knife_icon.png) / _Improvised\_Knife\_icon.png_ | [Improvised Knife](./Improvised%20Knife.md) | 12.0 | 30.0 | 40.0 | 15.0 | 1.5% |
-| ![](../assets/Cougar_Claw_Knife_icon.png) / _Cougar\_Claw\_Knife\_icon.png_ | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | 7.0 | 18.0 | 30.0 | 10.0 | 1.0% |
-| ![](../assets/Survival_Knife_icon.png) / _Survival\_Knife\_icon.png_ | [Survival Knife](./Survival%20Knife.md) | 8.0 | 10.0 | 30.0 | 10.0 | 0.5% |
-| ![](../assets/Scrap_Metal_Shard_icon.png) / _Scrap\_Metal\_Shard\_icon.png_ | [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) | 8.0 | 20.0 | 30.0 | 10.0 | 1.0% |
+Tool
+
+Harvest rate / (minutes per kg)
+
+Harvest rate / (minutes per unit)
+
+Tool decay / (per hour)
+
+Meat
+
+Frozen Meat
+
+Hide
+
+Gut
+
+![](../assets/Anywhere_icon.png)
+
+_Anywhere\_icon.png_
+
+Bare Hand
+
+30.0
+
+N/A
+
+40.0
+
+40.0
+
+None
+
+![](../assets/Hacksaw_icon.png)
+
+_Hacksaw\_icon.png_
+
+[Hacksaw](./Hacksaw.md)
+
+15.0
+
+10.0
+
+60.0
+
+30.0
+
+1.0%
+
+![](../assets/Hatchet_icon.png)
+
+_Hatchet\_icon.png_
+
+[Hatchet](./Hatchet.md)
+
+15.0
+
+10.0
+
+45.0
+
+20.0
+
+1.0%
+
+![](../assets/Hunting_Knife_icon.png)
+
+_Hunting\_Knife\_icon.png_
+
+[Hunting Knife](./Hunting%20Knife.md)
+
+8.0
+
+20.0
+
+30.0
+
+10.0
+
+1.0%
+
+![](../assets/Improvised_Hatchet_icon.png)
+
+_Improvised\_Hatchet\_icon.png_
+
+[Improvised Hatchet](./Improvised%20Hatchet.md)
+
+20.0
+
+15.0
+
+60.0
+
+30.0
+
+1.5%
+
+![](../assets/Improvised_Knife_icon.png)
+
+_Improvised\_Knife\_icon.png_
+
+[Improvised Knife](./Improvised%20Knife.md)
+
+12.0
+
+30.0
+
+40.0
+
+15.0
+
+1.5%
+
+![](../assets/Cougar_Claw_Knife_icon.png)
+
+_Cougar\_Claw\_Knife\_icon.png_
+
+[Cougar Claw Knife](./Cougar%20Claw%20Knife.md)
+
+7.0
+
+18.0
+
+30.0
+
+10.0
+
+1.0%
+
+![](../assets/Survival_Knife_icon.png)
+
+_Survival\_Knife\_icon.png_
+
+[Survival Knife](./Survival%20Knife.md)
+
+8.0
+
+10.0
+
+30.0
+
+10.0
+
+0.5%
+
+![](../assets/Scrap_Metal_Shard_icon.png)
+
+_Scrap\_Metal\_Shard\_icon.png_
+
+[Scrap Metal Shard](./Scrap%20Metal%20Shard.md)
+
+8.0
+
+20.0
+
+30.0
+
+10.0
+
+1.0%
 
 ## Carcasses
 
@@ -81,17 +230,105 @@ A ravaged carcass has a significant lack of meat on the corpse, depending on how
 
 ### Types
 
-| Animal Carcass | Minimum Weight | Maximum Weight | Hide/Pelt/Other | Fresh Guts |
-| --- | --- | --- | --- | --- |
-| [Black Bear Carcass](./Black%20Bear%20Carcass.md) | 25.00 kg / _(55 lb)_**Template:pic link** | 40.00 kg / _(88 lb)_**Template:pic link** | 1 x ![Fresh\_Black\_Bear\_Hide\_icon.png](../assets/Fresh_Black_Bear_Hide_icon.png) [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md) | 10 x **Template:pic link** |
-| [Cougar Carcass](./Cougar%20Carcass.md) | N/A | 4.00 kg / _(8.8 lb)_**Template:pic link** | 1 x ![Fresh\_Cougar\_Hide\_icon.png](../assets/Fresh_Cougar_Hide_icon.png) [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) / 1 x ![Cougar\_Claw\_icon.png](../assets/Cougar_Claw_icon.png) [Cougar Claw](./Cougar%20Claw.md) | 2 x **Template:pic link** |
-| [Deer Carcass](./Deer%20Carcass.md) | 6.00 kg / _(13.2 lb)_**Template:pic link** | 11.00 kg / _(24.2 lb)_**Template:pic link** | 1 x ![Fresh\_Deer\_Hide\_icon.png](../assets/Fresh_Deer_Hide_icon.png) [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) | 2 x **Template:pic link** |
-| [Moose Carcass](./Moose%20Carcass.md) | 32.00 kg / _(70.4 lb)_**Template:pic link** | 45.00 kg / _(99 lb)_**Template:pic link** | 1 x ![Fresh\_Moose\_Hide\_icon.png](../assets/Fresh_Moose_Hide_icon.png) [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) | 12 x **Template:pic link** |
-| [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) | 0 kg / _(0 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 0 kg / _(0 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 2 x **Template:pic link** |
-| [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) | 0.60 kg / _(1.32 lb)_**Template:pic link** | 1.20 kg / _(2.64 lb)_**Template:pic link** | 4 x**Template:pic link** | None |
-| [Rabbit Carcass](./Rabbit%20Carcass.md) | 0.80 kg / _(1.76 lb)_**Template:iconlink** | 1.50 kg / _(3.3 lb)_**Template:iconlink** | 1 x ![Fresh\_Rabbit\_Pelt\_icon.png](../assets/Fresh_Rabbit_Pelt_icon.png) [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md) | 1 x **Template:pic link** |
-| [Timberwolf Carcass](./Timberwolf%20Carcass.md) | 4.00 kg / _(8.8 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 7.00 kg / _(15.4 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 2 x **Template:pic link** |
-| [Wolf Carcass](./Wolf%20Carcass.md) | 3.00 kg / _(6.6 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 6.00 kg / _(13.2 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 2 x **Template:pic link** |
+Animal Carcass
+
+Minimum Weight
+
+Maximum Weight
+
+Hide/Pelt/Other
+
+Fresh Guts
+
+[Black Bear Carcass](./Black%20Bear%20Carcass.md)
+
+25.00 kg / _(55 lb)_**Template:pic link**
+
+40.00 kg / _(88 lb)_**Template:pic link**
+
+1 x ![Fresh\_Black\_Bear\_Hide\_icon.png](../assets/Fresh_Black_Bear_Hide_icon.png) [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md)
+
+10 x **Template:pic link**
+
+[Cougar Carcass](./Cougar%20Carcass.md)
+
+N/A
+
+4.00 kg / _(8.8 lb)_**Template:pic link**
+
+1 x ![Fresh\_Cougar\_Hide\_icon.png](../assets/Fresh_Cougar_Hide_icon.png) [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) / 1 x ![Cougar\_Claw\_icon.png](../assets/Cougar_Claw_icon.png) [Cougar Claw](./Cougar%20Claw.md)
+
+2 x **Template:pic link**
+
+[Deer Carcass](./Deer%20Carcass.md)
+
+6.00 kg / _(13.2 lb)_**Template:pic link**
+
+11.00 kg / _(24.2 lb)_**Template:pic link**
+
+1 x ![Fresh\_Deer\_Hide\_icon.png](../assets/Fresh_Deer_Hide_icon.png) [Fresh Deer Hide](./Fresh%20Deer%20Hide.md)
+
+2 x **Template:pic link**
+
+[Moose Carcass](./Moose%20Carcass.md)
+
+32.00 kg / _(70.4 lb)_**Template:pic link**
+
+45.00 kg / _(99 lb)_**Template:pic link**
+
+1 x ![Fresh\_Moose\_Hide\_icon.png](../assets/Fresh_Moose_Hide_icon.png) [Fresh Moose Hide](./Fresh%20Moose%20Hide.md)
+
+12 x **Template:pic link**
+
+[Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md)
+
+0 kg / _(0 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+
+0 kg / _(0 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+
+1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
+
+2 x **Template:pic link**
+
+[Ptarmigan Carcass](./Ptarmigan%20Carcass.md)
+
+0.60 kg / _(1.32 lb)_**Template:pic link**
+
+1.20 kg / _(2.64 lb)_**Template:pic link**
+
+4 x**Template:pic link**
+
+None
+
+[Rabbit Carcass](./Rabbit%20Carcass.md)
+
+0.80 kg / _(1.76 lb)_**Template:iconlink**
+
+1.50 kg / _(3.3 lb)_**Template:iconlink**
+
+1 x ![Fresh\_Rabbit\_Pelt\_icon.png](../assets/Fresh_Rabbit_Pelt_icon.png) [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md)
+
+1 x **Template:pic link**
+
+[Timberwolf Carcass](./Timberwolf%20Carcass.md)
+
+4.00 kg / _(8.8 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+
+7.00 kg / _(15.4 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+
+1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
+
+2 x **Template:pic link**
+
+[Wolf Carcass](./Wolf%20Carcass.md)
+
+3.00 kg / _(6.6 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+
+6.00 kg / _(13.2 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+
+1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
+
+2 x **Template:pic link**
 
 ## Quartering
 

@@ -13,26 +13,43 @@ _For the consumable item, see [Cup of Coffee](./Cup%20of%20Coffee.md)._
 
 **Tin of Coffee**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Tin_of_Coffee_icon.png) / _Tin\_of\_Coffee\_icon.png_ |
-| Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181) |
-| Wintermute | No |
-| Renewable | Yes ([Trader](./Trader.md) only) |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | Yes |
-| Examine | A tin of ground coffee. Who knows how long it's been sitting here? A drink that can take the edge off fatigue, and warm your insides on a cold night. |
-| **Values** |  |
-| Weight | 0.01 kg (0.02 lbs) |
-| **Decay Rate** |  |
-| Inside | 0.100% per day |
-| Outside | 0.100% per day |
-| **Actions** |  |
-| Backpack | Drop |
-| On ground | Take It, Leave It |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_CoffeeTin |
+![](../assets/Tin_of_Coffee_icon.png)
+
+_Tin\_of\_Coffee\_icon.png_
+
+**Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181)
+
+**Wintermute:** No
+
+**Renewable:** Yes ([Trader](./Trader.md) only)
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** Yes
+
+**Examine:** A tin of ground coffee. Who knows how long it's been sitting here? A drink that can take the edge off fatigue, and warm your insides on a cold night.
+
+**Values**
+
+**Weight:** 0.01 kg (0.02 lbs)
+
+**Decay Rate**
+
+**Inside:** 0.100% per day
+
+**Outside:** 0.100% per day
+
+**Actions**
+
+**Backpack:** Drop
+
+**On ground:** Take It, Leave It
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_CoffeeTin
 
 A **Tin of Coffee** is a [drink](./Food%20And%20Drink.md) which can be brewed into a [Cup of Coffee](./Cup%20of%20Coffee.md) at a [Fire](./Fire.md) with [potable water](./Water%20%28Potable%29.md). Consuming the cup of coffee will restore 10% of the survivor's [Fatigue](./Fatigue.md), add some hydration and 100 calories, and provide the [Fatigue Reduced](./Fatigue%20Reduced.md) benefit, making this item very useful when exploring regions with lots of [Rope Climbing](./Rope%20Climbing.md) or when trying to [Escape the Darkwalker](./Escape%20the%20Darkwalker.md).
 

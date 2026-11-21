@@ -21,22 +21,33 @@
 
 **Jeremiah**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Jeremiah.png) / _Jeremiah.png_ |
-| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00) |
-| Date | 1 August 2017 |
-| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| Mission | **•** [Paradise Lost](./Paradise%20Lost.md) / **•** [The Wounded Trapper](./The%20Wounded%20Trapper.md) / **•** [The Best Defense](./The%20Best%20Defense.md) / **•** [Signal to Noise](./Signal%20to%20Noise.md) / **•** [Renewed Hope](./Renewed%20Hope.md) |
-| Location(s) | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |
-| **Biographical Information** |  |
-| Age | 50's |
-| Status | Alive |
-| Occupation | Trapper |
-| **Game Information** |  |
-| Voiced by | [David Hayter](wikipedia:David_Hayter) |
+![](../assets/Jeremiah.png)
 
-> “__A tough old trapper and hermit. Lives alone in the wilderness of Mystery Lake. Doesn't seem to like people much.__”
+_Jeremiah.png_
+
+**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
+
+**Date:** 1 August 2017
+
+**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
+
+**Mission:** **•** [Paradise Lost](./Paradise%20Lost.md) / **•** [The Wounded Trapper](./The%20Wounded%20Trapper.md) / **•** [The Best Defense](./The%20Best%20Defense.md) / **•** [Signal to Noise](./Signal%20to%20Noise.md) / **•** [Renewed Hope](./Renewed%20Hope.md)
+
+**Location(s):** [Trapper's Homestead](./Trapper%27s%20Homestead.md)
+
+**Biographical Information**
+
+**Age:** 50's
+
+**Status:** Alive
+
+**Occupation:** Trapper
+
+**Game Information**
+
+**Voiced by:** [David Hayter](wikipedia:David_Hayter)
+
+> “**A tough old trapper and hermit. Lives alone in the wilderness of Mystery Lake. Doesn't seem to like people much.**”
 >
 > — In-game description
 
@@ -202,5 +213,3 @@ _Jeremiah with the military cartography map_
 ![Jeremiah's Shortwave Radio and Hunting Rifle.](../assets/Episode_2_radio.jpg)
 
 _Jeremiah's Shortwave Radio and Hunting Rifle._
-
-[fr:Jeremiah](fr:Jeremiah) [ru:Джереми](ru:%D0%94%D0%B6%D0%B5%D1%80%D0%B5%D0%BC%D0%B8)

@@ -30,7 +30,7 @@
 
 _Will they finally uncover the mystery of the Aurora, and what it means for the world?"_
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 **_The Light At The End Of All Things_** is the 5th and final chapter of the [Wintermute](./Wintermute.md) story of _[The Long Dark](./The%20Long%20Dark.md)_. It is preceded by [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
@@ -196,5 +196,3 @@ _Tld-april-dev-diary-balcony-view-res-resized.jpg_
 
 - In an interview with the popular YouTuber Zaknafein, Raphael van Lierop said in response to player criticisms that "Episode 5 was made for people who like Wintermute."
   - Of all five episodes, this one focuses the least on [survival](./Survival%20Mode.md), and the most on storytelling.
-
-[ru:Режим истории: эпизод 5](ru:%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8:_%D1%8D%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4_5)

@@ -4,14 +4,19 @@
 
 **Towel**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Towel.png) / _Towel.png_ |
-| Release | 18 September 2015 |
-| Update | [0.264](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.264) |
-| Story item | No |
-| **Advanced data** |  |
-| Object key | GAMEPLAY\_Towel |
+![](../assets/Towel.png)
+
+_Towel.png_
+
+**Release:** 18 September 2015
+
+**Update:** [0.264](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.264)
+
+**Story item:** No
+
+**Advanced data**
+
+**Object key:** GAMEPLAY\_Towel
 
 A **Towel** is an interactable item that can be harvested for [Cloth](./Cloth.md). They are often found near sinks and bathrooms inside homes. It takes 10 minutes to harvest by hand for 2 Cloth, or 6 minutes for 2 Cloth with a [Hunting Knife](./Hunting%20Knife.md).
 

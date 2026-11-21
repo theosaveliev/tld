@@ -12,16 +12,21 @@
 
 **Sewing Kit**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Sewing_Kit_icon.png) / _Sewing\_Kit\_icon.png_ |
-| **General** |  |
-| Item Type | Tool\|- |
-| Renewable | Yes |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
+![](../assets/Sewing_Kit_icon.png)
 
-> “__A basic sewing kit. Required to craft and repair clothing.__”
+_Sewing\_Kit\_icon.png_
+
+**General**
+
+**Item Type:** Tool\|-
+
+**Renewable:** Yes
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+> “**A basic sewing kit. Required to craft and repair clothing.**”
 >
 > — In-game description
 

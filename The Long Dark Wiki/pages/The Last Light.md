@@ -4,10 +4,11 @@
 
 **The Last Light**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/The_Last_Light_icon.png) / _The\_Last\_Light\_icon.png_ |
-| Description | Reunite with Astrid and deliver the Hardcase. |
+![](../assets/The_Last_Light_icon.png)
+
+_The\_Last\_Light\_icon.png_
+
+**Description:** Reunite with Astrid and deliver the Hardcase.
 
 **The Last Light** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[Wintermute](./Wintermute.md)_ [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

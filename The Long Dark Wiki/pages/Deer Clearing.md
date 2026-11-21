@@ -4,10 +4,16 @@
 
 **Deer Clearing**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Deer_Clearing.jpg) / _Deer\_Clearing.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Deer_Clearing_Location.png) / _Deer\_Clearing\_Location.png_ |
-| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
-| Type | Outdoors\|- |
+![](../assets/Deer_Clearing.jpg)
+
+_Deer\_Clearing.jpg_
+
+**Location**
+
+![](../assets/Deer_Clearing_Location.png)
+
+_Deer\_Clearing\_Location.png_
+
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+
+**Type:** Outdoors\|-

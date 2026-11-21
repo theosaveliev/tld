@@ -12,14 +12,35 @@
 
 **Shelf**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Wide](../assets/Wide_Shelf.jpg) / _Wide_ / ![Large](../assets/Large_Shelf.jpg) / _Large_ / ![Bookshelf](../assets/Bookshelf.jpg) / _Bookshelf_ / ![Gun Rack](../assets/Hunting_rifle_rack.jpg) / _Gun Rack_ / ![Single Rack](../assets/Hunting_Rifle_Gun_Rack_Single.jpg) / _Single Rack_ | 250px\]\] |
-| ![Wide](../assets/Wide_Shelf.jpg) / _Wide_ | ![Large](../assets/Large_Shelf.jpg) / _Large_ / ![Bookshelf](../assets/Bookshelf.jpg) / _Bookshelf_ / ![Gun Rack](../assets/Hunting_rifle_rack.jpg) / _Gun Rack_ |
-| ![Single Rack](../assets/Hunting_Rifle_Gun_Rack_Single.jpg) / _Single Rack_ |  |
-| **General** |  |
-| Item Type | Item |
-| Wintermute | No |
+\[\[File: / ![Wide](../assets/Wide_Shelf.jpg) / _Wide_ / ![Large](../assets/Large_Shelf.jpg) / _Large_ / ![Bookshelf](../assets/Bookshelf.jpg) / _Bookshelf_ / ![Gun Rack](../assets/Hunting_rifle_rack.jpg) / _Gun Rack_ / ![Single Rack](../assets/Hunting_Rifle_Gun_Rack_Single.jpg) / _Single Rack_
+
+250px\]\]
+
+![Wide](../assets/Wide_Shelf.jpg)
+
+_Wide_
+
+![Large](../assets/Large_Shelf.jpg)
+
+_Large_
+
+![Bookshelf](../assets/Bookshelf.jpg)
+
+_Bookshelf_
+
+![Gun Rack](../assets/Hunting_rifle_rack.jpg)
+
+_Gun Rack_
+
+![Single Rack](../assets/Hunting_Rifle_Gun_Rack_Single.jpg)
+
+_Single Rack_
+
+**General**
+
+**Item Type:** Item
+
+**Wintermute:** No
 
 **Shelves**are common features in indoor environments in _[The Long Dark](./The%20Long%20Dark.md)_.
 

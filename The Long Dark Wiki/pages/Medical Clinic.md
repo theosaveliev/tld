@@ -4,11 +4,16 @@
 
 **Medical Clinic**
 
-| Property | Details |
-| --- | --- |
-|  | \[Missing image: Medical\_Clinic.jpg\] / _Medical\_Clinic.jpg_ |
-| **Location** |  |
-| Region | [Perseverance Mills](./Perseverance%20Mills.md)\|- |
-| **General** |  |
-| Type |  |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ |  |
+\[Missing image: Medical\_Clinic.jpg\] / _Medical\_Clinic.jpg_
+
+**Location**
+
+**Region:** [Perseverance Mills](./Perseverance%20Mills.md)\|-
+
+**General**
+
+Type
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_

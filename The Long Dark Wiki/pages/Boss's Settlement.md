@@ -4,9 +4,14 @@
 
 **Boss's Settlement**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Boss%27s_Settlement.jpg) / _Boss's\_Settlement.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Boss%27s_Settlement_Location.png) / _Boss's\_Settlement\_Location.png_ |
-| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
+![](../assets/Boss%27s_Settlement.jpg)
+
+_Boss's\_Settlement.jpg_
+
+**Location**
+
+![](../assets/Boss%27s_Settlement_Location.png)
+
+_Boss's\_Settlement\_Location.png_
+
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-

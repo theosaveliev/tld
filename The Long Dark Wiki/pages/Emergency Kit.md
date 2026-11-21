@@ -24,9 +24,18 @@
 
 **Emergency Kit**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Closed](../assets/Emergency_Kit.jpg) / _Closed_ / ![Open](../assets/Emergency_Kit_Open.jpg) / _Open_ | 250px\]\] |
-| ![Closed](../assets/Emergency_Kit.jpg) / _Closed_ | ![Open](../assets/Emergency_Kit_Open.jpg) / _Open_ |
-| **General** |  |
-| Item Type | Item |
+\[\[File: / ![Closed](../assets/Emergency_Kit.jpg) / _Closed_ / ![Open](../assets/Emergency_Kit_Open.jpg) / _Open_
+
+250px\]\]
+
+![Closed](../assets/Emergency_Kit.jpg)
+
+_Closed_
+
+![Open](../assets/Emergency_Kit_Open.jpg)
+
+_Open_
+
+**General**
+
+**Item Type:** Item

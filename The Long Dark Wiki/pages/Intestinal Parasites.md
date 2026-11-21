@@ -13,22 +13,35 @@
 
 **Intestinal Parasites**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Intestinal_Parasites_icon.png) / _Intestinal\_Parasites\_icon.png_ |
-| Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321) |
-| Update | 0.321 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | You ate infected meat and now have Intestinal Parasites. Recovery requires multiple daily treatments! You will continue to weaken until treatment has run its full course. \[maximum 1 dose/day.\] |
-| Caused By | Raw/Cooked predator meat |
-| Effect | Negative |
-| Type | Disease |
-| Affliction Duration | Until Treated or Death |
-| **Treatment** |  |
-| Treatment | 2 x ![Antibiotics\_icon.png](../assets/Antibiotics_icon.png) [Antibiotics](./Antibiotics.md) every 24 hours |
-| Alternate Treatment | 1 x ![Reishi\_Tea\_icon.png](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)/![Burdock\_Tea\_icon.png](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md) every 24 hours |
-| Recovery Time | 10 Days (Stalker) 20 Days (Interloper/Misery) |
+![](../assets/Intestinal_Parasites_icon.png)
+
+_Intestinal\_Parasites\_icon.png_
+
+**Release:** [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)
+
+**Update:** 0.321
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** You ate infected meat and now have Intestinal Parasites. Recovery requires multiple daily treatments! You will continue to weaken until treatment has run its full course. \[maximum 1 dose/day.\]
+
+**Caused By:** Raw/Cooked predator meat
+
+**Effect:** Negative
+
+**Type:** Disease
+
+**Affliction Duration:** Until Treated or Death
+
+**Treatment**
+
+**Treatment:** 2 x ![Antibiotics\_icon.png](../assets/Antibiotics_icon.png) [Antibiotics](./Antibiotics.md) every 24 hours
+
+**Alternate Treatment:** 1 x ![Reishi\_Tea\_icon.png](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)/![Burdock\_Tea\_icon.png](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md) every 24 hours
+
+**Recovery Time:** 10 Days (Stalker) 20 Days (Interloper/Misery)
 
 **Intestinal Parasites** is an [Affliction](./Afflictions.md) caused by consuming raw or cooked carnivore meat: [Wolves](./Wolf.md), [Timberwolves](./Timberwolf.md), [Cougars](./Cougar.md), and [Bears](./Bear.md).
 
@@ -44,7 +57,7 @@ It is only present when playing the following game modes:
 
 ## Overview
 
-> “__You ate infected meat and now have Intestinal Parasites. Recovery requires multiple daily treatments! You will continue to weaken until treatment has run its full course. \[maximum 1 dose/day.\]__”
+> “**You ate infected meat and now have Intestinal Parasites. Recovery requires multiple daily treatments! You will continue to weaken until treatment has run its full course. \[maximum 1 dose/day.\]**”
 >
 > — In-game description
 

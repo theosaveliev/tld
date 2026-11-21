@@ -4,15 +4,34 @@
 
 **Placid Notch**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Refuge_Cabin_B_resized.png) / _Refuge\_Cabin\_B\_resized.png_ |
-| **Location** |  |
-|  | ![](../assets/Placid_Notch_Location.png) / _Placid\_Notch\_Location.png_ |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
-| Description | A refuge cabin. |
-| **General** |  |
-| Type | Residential\|- |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
+![](../assets/Refuge_Cabin_B_resized.png)
 
-| ![An avalanche warning sign in the cabin](../assets/Avalanche_Warning_Sign.png) / _An avalanche warning sign in the cabin_ | ![Inside the cabin](../assets/Cabin_B_interior.jpg) / _Inside the cabin_ |
+_Refuge\_Cabin\_B\_resized.png_
+
+**Location**
+
+![](../assets/Placid_Notch_Location.png)
+
+_Placid\_Notch\_Location.png_
+
+**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+
+**Description:** A refuge cabin.
+
+**General**
+
+**Type:** Residential\|-
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+Has a bed
+
+![An avalanche warning sign in the cabin](../assets/Avalanche_Warning_Sign.png)
+
+_An avalanche warning sign in the cabin_
+
+![Inside the cabin](../assets/Cabin_B_interior.jpg)
+
+_Inside the cabin_

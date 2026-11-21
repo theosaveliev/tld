@@ -16,21 +16,39 @@
 
 **Camera**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Camera_icon.png) / _Camera\_icon.png_ |
-| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
-| Stackable | No |
-| Examine | A mechanical instant film Camera. Compatible with Colour, Black and White, and Sepia instant film packs. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
+![](../assets/Camera_icon.png)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __Discover an old manual instant camera. Take photos anywhere in the world and add them to your Album. Craft photos into wall-hangings for your personal Safehouse. Find Colour, Black &amp; White, or Sepia-toned film stock. Be a photographer at the end of the world.__ / Official Description | ” |
+_Camera\_icon.png_
+
+**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)\|-
+
+**Stackable:** No
+
+**Examine:** A mechanical instant film Camera. Compatible with Colour, Black and White, and Sepia instant film packs.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+\|}{\| style="margin:auto"
+
+“
+
+**Discover an old manual instant camera. Take photos anywhere in the world and add them to your Album. Craft photos into wall-hangings for your personal Safehouse. Find Colour, Black &amp; White, or Sepia-toned film stock. Be a photographer at the end of the world.** / Official Description
+
+”
 
 The **Camera** is a [Tool](./Tools.md) found in [Survival Mode](./Survival%20Mode.md) in _[The Long Dark](./The%20Long%20Dark.md)._ It is available for players that purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion, and is designed to be an in game photo/screenshot system for custom photos.
 
@@ -95,8 +113,6 @@ _The Camera's location in the [Station Bunkhouse](./Station%20Bunkhouse.md)._
 _The teased marketing photo for the Camera and former Dark Room._
 
 ## Game History
-
-[ru:Фотоаппарат](ru:%D0%A4%D0%BE%D1%82%D0%BE%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82)
 
 ## Notes
 

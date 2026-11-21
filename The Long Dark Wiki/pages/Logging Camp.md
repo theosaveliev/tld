@@ -4,14 +4,28 @@
 
 **Logging Camp**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Logging_camp_01.jpg) / _Logging\_camp\_01.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Logging_Camp_Location.png) / _Logging\_Camp\_Location.png_ |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
-| Type | Residential\|- |
-| ![](../assets/Forge_icon_green.png) / _forge\_icon\_green.png_ |  |
-| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ |  |
+![](../assets/Logging_camp_01.jpg)
 
-|  | ![An alternative view of the logging camp.](../assets/Logging_Camp.png) / _An alternative view of the logging camp._ |
+_Logging\_camp\_01.jpg_
+
+**Location**
+
+![](../assets/Logging_Camp_Location.png)
+
+_Logging\_Camp\_Location.png_
+
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+
+**Type:** Residential\|-
+
+![](../assets/Forge_icon_green.png)
+
+_forge\_icon\_green.png_
+
+![](../assets/Workbench_icon_green.png)
+
+_workbench\_icon\_green.png_
+
+![An alternative view of the logging camp.](../assets/Logging_Camp.png)
+
+_An alternative view of the logging camp._

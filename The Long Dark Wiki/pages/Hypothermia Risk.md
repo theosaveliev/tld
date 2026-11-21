@@ -4,27 +4,39 @@
 
 **Hypothermia Risk**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Hypothermia_Risk_icon.png) / _Hypothermia\_Risk\_icon.png_ |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | Your body temperature is very low. If it remains low, you'll get Hypothermia. |
-| Caused By | [Warmth](./Warmth.md) reaches 0 |
-| Effect | Negative |
-| Type | Risk |
-| Affliction Duration | Until Treated |
-| **Treatment** |  |
-| Treatment | Replenish [Warmth](./Warmth.md) |
-| Recovery Time | Immediate |
-| **Advanced Data** |  |
-| Item Key | GAMEPLAY\_CabinFeverRisk |
+![](../assets/Hypothermia_Risk_icon.png)
+
+_Hypothermia\_Risk\_icon.png_
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** Your body temperature is very low. If it remains low, you'll get Hypothermia.
+
+**Caused By:** [Warmth](./Warmth.md) reaches 0
+
+**Effect:** Negative
+
+**Type:** Risk
+
+**Affliction Duration:** Until Treated
+
+**Treatment**
+
+**Treatment:** Replenish [Warmth](./Warmth.md)
+
+**Recovery Time:** Immediate
+
+**Advanced Data**
+
+**Item Key:** GAMEPLAY\_CabinFeverRisk
 
 **Hypothermia Risk** is an [Affliction](./Afflictions.md) in _The Long Dark_, caused by exposure to the cold.
 
 ## Overview
 
-> “__Your body temperature is very low. If it remains low, you'll get Hypothermia.__”
+> “**Your body temperature is very low. If it remains low, you'll get Hypothermia.**”
 >
 > — In-game description
 

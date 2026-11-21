@@ -13,15 +13,21 @@
 
 **The Grey Mother/Transcript**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/The_Grey_Mother.png) / _The\_Grey\_Mother.png_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Previous | [The Crash/Transcript](./The%20Crash%20%E2%80%94%20Transcript.md) |
-| Current | The Grey Mother/Transcript |
-| Next | [Paradise Lost/Transcript](./Paradise%20Lost%20%E2%80%94%20Transcript.md) |
-| Region | [Mountain Town](./Mountain%20Town.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md) / [Methuselah](./Methuselah.md) / [Hobbs](./Hobbs.md) |
+![](../assets/The_Grey_Mother.png)
+
+_The\_Grey\_Mother.png_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Previous:** [The Crash/Transcript](./The%20Crash%20%E2%80%94%20Transcript.md)
+
+**Current:** The Grey Mother/Transcript
+
+**Next:** [Paradise Lost/Transcript](./Paradise%20Lost%20%E2%80%94%20Transcript.md)
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md) / [Methuselah](./Methuselah.md) / [Hobbs](./Hobbs.md)
 
 This is the mission transcript for mission 3 [The Grey Mother](./The%20Grey%20Mother.md) of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 

@@ -4,15 +4,21 @@
 
 **What One Man Can Do/Transcript**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Missions_story_ep2_What_One_Man_Can_Do.png) / _Missions\_story\_ep2\_What\_One\_Man\_Can\_Do.png_ |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
-| Previous | [Signal to Noise/Transcript](./Signal%20to%20Noise%20%E2%80%94%20Transcript.md) |
-| Current | What One Man Can Do/Transcript |
-| Next | [Renewed Hope/Transcript](./Renewed%20Hope%20%E2%80%94%20Transcript.md) |
-| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
-| Characters | [Mackenzie](./Will%20Mackenzie.md) [Old Bear](./Old%20Bear.md) / [Jeremiah](./Jeremiah.md) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) |
+![](../assets/Missions_story_ep2_What_One_Man_Can_Do.png)
+
+_Missions\_story\_ep2\_What\_One\_Man\_Can\_Do.png_
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+
+**Previous:** [Signal to Noise/Transcript](./Signal%20to%20Noise%20%E2%80%94%20Transcript.md)
+
+**Current:** What One Man Can Do/Transcript
+
+**Next:** [Renewed Hope/Transcript](./Renewed%20Hope%20%E2%80%94%20Transcript.md)
+
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
+
+**Characters:** [Mackenzie](./Will%20Mackenzie.md) [Old Bear](./Old%20Bear.md) / [Jeremiah](./Jeremiah.md) / [Radio Voice Man](./Characters.md#Radio_Voice_Man)
 
 This is the mission transcript for mission 4 [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 

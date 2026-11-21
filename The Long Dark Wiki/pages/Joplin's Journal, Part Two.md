@@ -4,22 +4,35 @@
 
 **Joplin's Journal, Part Two**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Joplin%27s_Journal%2C_Part_Two_icon.png) / _Joplin's\_Journal,\_Part\_Two\_icon.png_ |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
-| Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Note found in bunker near Three Strikes. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
-| **Advanced data** |  |
-| Item key | STORY\_Collectible\_JoplinsBunkerNote |
+![](../assets/Joplin%27s_Journal%2C_Part_Two_icon.png)
+
+_Joplin's\_Journal,\_Part\_Two\_icon.png_
+
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+
+**Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Note found in bunker near Three Strikes.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
+
+**Advanced data**
+
+**Item key:** STORY\_Collectible\_JoplinsBunkerNote
 
 **Joplin's Journal, Part Two** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md) side mission.
 

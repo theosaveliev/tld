@@ -11,13 +11,31 @@
 
 **Bench**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Bench Table](../assets/BenchAndChair.jpg) / _Bench Table_ / ![Couch](../assets/BenchCouch.jpg) / _Couch_ / ![Chair Bench](../assets/WoodenBenchChair.jpg) / _Chair Bench_ / ![Small Table](../assets/WoodenBenchTable.jpg) / _Small Table_ | 250px\]\] |
-| ![Bench Table](../assets/BenchAndChair.jpg) / _Bench Table_ | ![Couch](../assets/BenchCouch.jpg) / _Couch_ / ![Chair Bench](../assets/WoodenBenchChair.jpg) / _Chair Bench_ / ![Small Table](../assets/WoodenBenchTable.jpg) / _Small Table_ |
-| **General** |  |
-| Item Type | Item |
-| Wintermute | No |
+\[\[File: / ![Bench Table](../assets/BenchAndChair.jpg) / _Bench Table_ / ![Couch](../assets/BenchCouch.jpg) / _Couch_ / ![Chair Bench](../assets/WoodenBenchChair.jpg) / _Chair Bench_ / ![Small Table](../assets/WoodenBenchTable.jpg) / _Small Table_
+
+250px\]\]
+
+![Bench Table](../assets/BenchAndChair.jpg)
+
+_Bench Table_
+
+![Couch](../assets/BenchCouch.jpg)
+
+_Couch_
+
+![Chair Bench](../assets/WoodenBenchChair.jpg)
+
+_Chair Bench_
+
+![Small Table](../assets/WoodenBenchTable.jpg)
+
+_Small Table_
+
+**General**
+
+**Item Type:** Item
+
+**Wintermute:** No
 
 **Benches** are wooden tables either used for chairs or tables, and can be harvested with a [Hatchet](./Hatchet.md) for [Reclaimed Wood](./Reclaimed%20Wood.md).
 

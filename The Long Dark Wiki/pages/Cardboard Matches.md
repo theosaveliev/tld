@@ -11,19 +11,27 @@
 
 **Cardboard Matches**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cardboard_Matches_icon.png) / _Cardboard\_Matches\_icon.png_ |
-| **General** |  |
-| Item Type | Fire Starting\|- |
-| Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
-| Firestarting Slot | Starter |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.005 kg(0.01 lbs) |
-| Bonus chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+0% |
-| Unit count | ![unit\_count\_icon.png](../assets/Unit_count_icon.png)20match |
+![](../assets/Cardboard_Matches_icon.png)
 
-> “__Cardboard strike-anywhere matches.__”
+_Cardboard\_Matches\_icon.png_
+
+**General**
+
+**Item Type:** Fire Starting\|-
+
+**Renewable:** Yes (rare [Beachcombing](./Beachcombing.md))
+
+**Firestarting Slot:** Starter
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
+
+**Bonus chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+0%
+
+**Unit count:** ![unit\_count\_icon.png](../assets/Unit_count_icon.png)20match
+
+> “**Cardboard strike-anywhere matches.**”
 >
 > — In-game description
 
@@ -56,5 +64,3 @@ _old model_
 - Cardboard Matches are branded with the logo of "_Trusty Matches"_, the manufacturer of Wood Matches.
 - Selecting Cardboard Matches will always use the Wood Matches model in the first person hand model.
 - Despite being contained inside a cardboard box, no tinder is given or harvestable when wooden matches are used up unlike cardboard boxes present across [Great Bear Island](./Great%20Bear%20Island.md).
-
-[ru:Картонные спички](ru:%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%87%D0%BA%D0%B8)

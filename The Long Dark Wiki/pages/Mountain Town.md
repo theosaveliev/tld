@@ -14,22 +14,37 @@
 
 **Mountain Town**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Mountain_town_titlecard.png) / _Mountain\_town\_titlecard.png_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Mountain_Town_Location.png) / _Mountain\_Town\_Location.png_ |
-|  | ![](../assets/Mountain_Town_map.png) / _Mountain\_Town\_map.png_ |
-| **Details** |  |
-| Description | A small abandoned town nestled in the mountains. |
-| Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md), [Hushed River Valley](./Hushed%20River%20Valley.md) |
-| Characters | [Grey Mother](./Grey%20Mother.md) [Methuselah](./Methuselah.md) |
-| Difficulty | Beginner |
-| Interloper Region Spawn | No |
-| Locations | 27 |
-| Date Added | Story mode: Aug 2017 Survival mode: Dec 2017 |
+![](../assets/Mountain_town_titlecard.png)
 
-> “__For new players. Although deep in decline, Milton still offers many sturdy shelters and plentiful wildlife. But if you leave town for the surrounding hills and fields, beware!__”
+_Mountain\_town\_titlecard.png_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/Mountain_Town_Location.png)
+
+_Mountain\_Town\_Location.png_
+
+![](../assets/Mountain_Town_map.png)
+
+_Mountain\_Town\_map.png_
+
+**Details**
+
+**Description:** A small abandoned town nestled in the mountains.
+
+**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md), [Hushed River Valley](./Hushed%20River%20Valley.md)
+
+**Characters:** [Grey Mother](./Grey%20Mother.md) [Methuselah](./Methuselah.md)
+
+**Difficulty:** Beginner
+
+**Interloper Region Spawn:** No
+
+**Locations:** 27
+
+**Date Added:** Story mode: Aug 2017 Survival mode: Dec 2017
+
+> “**For new players. Although deep in decline, Milton still offers many sturdy shelters and plentiful wildlife. But if you leave town for the surrounding hills and fields, beware!**”
 >
 > — - In game description
 
@@ -112,10 +127,6 @@ _The map found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) is 
 - Mountain Town map has changed with Wintermute Redux update.
 
 ## References
-
-[ru:Милтон](ru:%D0%9C%D0%B8%D0%BB%D1%82%D0%BE%D0%BD)
-
-[es:Pueblo de montaña](es:Pueblo_de_monta%C3%B1a) [fr:Milton](fr:Milton)
 
 ## Notes
 

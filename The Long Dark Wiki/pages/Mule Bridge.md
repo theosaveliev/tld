@@ -4,12 +4,20 @@
 
 **Mule Bridge**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/MuleBridge.jpg) / _MuleBridge.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Mule_Bridge_Location.png) / _Mule\_Bridge\_Location.png_ |
-| Region |  |
-| Description | A bridge |
-| **General** |  |
-| Type | Landmark\|- |
+![](../assets/MuleBridge.jpg)
+
+_MuleBridge.jpg_
+
+**Location**
+
+![](../assets/Mule_Bridge_Location.png)
+
+_Mule\_Bridge\_Location.png_
+
+Region
+
+**Description:** A bridge
+
+**General**
+
+**Type:** Landmark\|-

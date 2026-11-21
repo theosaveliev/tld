@@ -4,10 +4,11 @@
 
 **The Crossroads Elegy**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/The_Crossroads_Elegy_icon.png) / _The\_Crossroads\_Elegy\_icon.png_ |
-| Description | Leave Pleasant Valley behind. Complete Episode Three. |
+![](../assets/The_Crossroads_Elegy_icon.png)
+
+_The\_Crossroads\_Elegy\_icon.png_
+
+**Description:** Leave Pleasant Valley behind. Complete Episode Three.
 
 **The Crossroads Elegy** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

@@ -4,23 +4,35 @@
 
 **Ski Jacket**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Ski_Jacket_icon.png) / _Ski\_Jacket\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer torso |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)3% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-2% |
-| Harvest | 2 × [Cloth](./Cloth.md) / 90 minutes |
-| Repair | 2 × [Cloth](./Cloth.md) / 45 minutes / 30% condition |
+![](../assets/Ski_Jacket_icon.png)
 
-> “__Winter jacket made out of synthetic materials. Highly Windproof but not well insulated.__”
+_Ski\_Jacket\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Outer torso
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)3%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-2%
+
+**Harvest:** 2 × [Cloth](./Cloth.md) / 90 minutes
+
+**Repair:** 2 × [Cloth](./Cloth.md) / 45 minutes / 30% condition
+
+> “**Winter jacket made out of synthetic materials. Highly Windproof but not well insulated.**”
 >
 > — In-game description
 

@@ -17,15 +17,25 @@
 
 **Suzuki Geothermal Region**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
-|  | ![](../assets/Suzuki_Geothermal_Region_In-Game_Map.png) / _Suzuki\_Geothermal\_Region\_In-Game\_Map.png_ |
-| **Details** |  |
-| Description | A mountain region with several Geothermal Substations that deliver power to the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) facility. |
-| Date Added | 31 March 2026 |
+![](../assets/No_picture.png)
+
+_No\_picture.png_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/No_picture.png)
+
+_No\_picture.png_
+
+![](../assets/Suzuki_Geothermal_Region_In-Game_Map.png)
+
+_Suzuki\_Geothermal\_Region\_In-Game\_Map.png_
+
+**Details**
+
+**Description:** A mountain region with several Geothermal Substations that deliver power to the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) facility.
+
+**Date Added:** 31 March 2026
 
 The **Suzuki Geothermal Region** is a [Wintermute](./Wintermute.md)-exclusive region, which consists 3 Geothermal Substations and some nearby mountains. It is accessed by the [Suzuki Environs](./Suzuki%20Environs.md).
 

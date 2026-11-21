@@ -4,9 +4,12 @@
 
 **Briefcase**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Briefcase.jpg) / _Briefcase.jpg_ |
-| Story item | Yes |
-| **Container** |  |
-| Capacity | 10.00 kg(22 lbs) |
+![](../assets/Briefcase.jpg)
+
+_Briefcase.jpg_
+
+**Story item:** Yes
+
+**Container**
+
+**Capacity:** 10.00 kg(22 lbs)

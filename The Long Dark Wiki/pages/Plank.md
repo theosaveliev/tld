@@ -4,14 +4,19 @@
 
 **Plank**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Plank.jpg) / _Plank.jpg_ |
-| **General** |  |
-| Item Type | Item |
-| Wintermute | No |
-| **Statistics** |  |
-| Harvest | 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+![](../assets/Plank.jpg)
+
+_Plank.jpg_
+
+**General**
+
+**Item Type:** Item
+
+**Wintermute:** No
+
+**Statistics**
+
+**Harvest:** 2 × [Reclaimed Wood](./Reclaimed%20Wood.md)
 
 _For the larger bundle of planks, see [Planks](./Planks.md)._
 

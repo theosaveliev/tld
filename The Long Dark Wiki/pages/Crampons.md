@@ -14,23 +14,35 @@
 
 **Crampons**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Crampons_icon.png) / _crampons\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Accessory |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)0 °C(0 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0 °C(0 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)100% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)3% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-5% |
-| Harvest | Cannot Harvest |
-| Repair | 2 × [Scrap Metal](./Scrap%20Metal.md) / 60 minutes / 20% condition |
+![](../assets/Crampons_icon.png)
 
-> “__Traction, for your feet. Rope climbing drains less Stamina, Sprains are less frequent, and you can travel with more confidence over Weak Ice.__”
+_crampons\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Accessory
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0 °C(0 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0 °C(0 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)100%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)3%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-5%
+
+**Harvest:** Cannot Harvest
+
+**Repair:** 2 × [Scrap Metal](./Scrap%20Metal.md) / 60 minutes / 20% condition
+
+> “**Traction, for your feet. Rope climbing drains less Stamina, Sprains are less frequent, and you can travel with more confidence over Weak Ice.**”
 >
 > — In-game description
 

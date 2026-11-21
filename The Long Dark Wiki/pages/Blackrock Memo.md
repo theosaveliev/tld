@@ -4,7 +4,7 @@
 
 **Blackrock Memo**
 
-![Blackrock Memo](../assets/Blackrock_Memo_icon.png)
+![](../assets/Blackrock_Memo_icon.png)
 
 _Blackrock\_Memo\_icon.png_
 
@@ -12,7 +12,7 @@ _Blackrock\_Memo\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)
+**Item type:** [Collectibles](./Collectibles.md)\|-
 
 **Stackable:** No
 

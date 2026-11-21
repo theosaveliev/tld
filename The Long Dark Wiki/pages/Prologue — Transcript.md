@@ -4,16 +4,23 @@
 
 **Prologue/Transcript**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Prologue.png) / _Prologue.png_ |
-| Episode |  |
-| **Missions** |  |
-| Previous | [Aftermath/Transcript](./Aftermath%20%E2%80%94%20Transcript.md) |
-| Current | Prologue/Transcript |
-| Next | [Blackrock Blues/Transcript](./Blackrock%20Blues%20%E2%80%94%20Transcript.md) |
-| Region | [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jeremiah](./Jeremiah.md) (Opening cutscene) / [Hobbs](./Hobbs.md) (Opening cutscene) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) (Opening cutscene) |
+![](../assets/Prologue.png)
+
+_Prologue.png_
+
+Episode
+
+**Missions**
+
+**Previous:** [Aftermath/Transcript](./Aftermath%20%E2%80%94%20Transcript.md)
+
+**Current:** Prologue/Transcript
+
+**Next:** [Blackrock Blues/Transcript](./Blackrock%20Blues%20%E2%80%94%20Transcript.md)
+
+**Region:** [Keeper's Pass North](./Keeper%27s%20Pass%20North.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jeremiah](./Jeremiah.md) (Opening cutscene) / [Hobbs](./Hobbs.md) (Opening cutscene) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) (Opening cutscene)
 
 This is the mission transcript for the opening [Prologue](./Prologue.md) of [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 

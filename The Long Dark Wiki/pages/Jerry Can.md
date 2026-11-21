@@ -11,16 +11,21 @@
 
 **Jerry Can**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Jerry_Can_icon.png) / _Jerry\_Can\_icon.png_ |
-| **General** |  |
-| Item Type | Tool\|- |
-| Renewable | Yes (very rarely through [Beachcombing](./Beachcombing.md)) |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 - 3.30 kg(0.22 - 7.26 lbs) |
+![](../assets/Jerry_Can_icon.png)
 
-> “__An old metal jerry can containing fuel for oil lamps.__”
+_Jerry\_Can\_icon.png_
+
+**General**
+
+**Item Type:** Tool\|-
+
+**Renewable:** Yes (very rarely through [Beachcombing](./Beachcombing.md))
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 - 3.30 kg(0.22 - 7.26 lbs)
+
+> “**An old metal jerry can containing fuel for oil lamps.**”
 >
 > — In-game description
 
@@ -65,5 +70,3 @@ Examples of places that Jerry Cans are known to spawn on Interloper:
 ## Trivia
 
 - When trading with [Sutherland the Trader](./Trader.md) Jerry Cans are **not returned** if traded for Lamp Oil.
-
-[ru:Канистра\_с\_горючим](ru:%D0%9A%D0%B0%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0_%D1%81_%D0%B3%D0%BE%D1%80%D1%8E%D1%87%D0%B8%D0%BC)

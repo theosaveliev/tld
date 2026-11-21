@@ -4,19 +4,29 @@
 
 **Handwritten Note (Survival)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Handwritten_Note_%28Survival%29_icon.png) / _Handwritten\_Note\_(Survival)\_icon.png_ |
-| Release | [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A loose leaf of paper with handwriting scrawled on it. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/Handwritten_Note_%28Survival%29_icon.png)
+
+_Handwritten\_Note\_(Survival)\_icon.png_
+
+**Release:** [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A loose leaf of paper with handwriting scrawled on it.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **Page** is a [Survival Mode](./Survival%20Mode.md) [Collectible](./Collectibles.md) found in [Blackrock](./Blackrock.md). It is found on the 2nd level of [Last Prospect](./Last%20Prospect.md), and unlocks the workshop at [Blackrock Prison](./Blackrock%20Prison.md).
 
@@ -35,5 +45,3 @@ _The following text is transcribed from **Handwritten Note**_
 UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Added to game
-
-[ru:Записка от руки (Заброшенная шахта)](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D0%BE%D1%82_%D1%80%D1%83%D0%BA%D0%B8_%28%D0%97%D0%B0%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%88%D0%B0%D1%85%D1%82%D0%B0%29)

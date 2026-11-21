@@ -4,10 +4,11 @@
 
 **You'll Be With Her Soon**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/You%27ll_Be_With_Her_Soon_icon.png) / _You'll\_Be\_With\_Her\_Soon\_icon.png_ |
-| Description | Leave Mystery Lake. Complete Episode Two. |
+![](../assets/You%27ll_Be_With_Her_Soon_icon.png)
+
+_You'll\_Be\_With\_Her\_Soon\_icon.png_
+
+**Description:** Leave Mystery Lake. Complete Episode Two.
 
 **You'll Be With Her Soon** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

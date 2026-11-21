@@ -4,20 +4,31 @@
 
 **Headache**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Headache_icon.png) / _Headache\_icon.png_ |
-| Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48) |
-| Update | 1.48 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | (from Go! Energy Drink) You are suffering from a head-ache. It's not debilitating, but the occasional shot of pain and blurred vision can be distracting. |
-| Caused By | Consuming [Food And Drink](./Food%20And%20Drink.md) or [Go! Energy Drink](./Go!%20Energy%20Drink.md) |
-| Effect | Negative |
-| Type | Injury |
-| Affliction Duration | Until Recovery Time Passes |
-| **Treatment** |  |
-| Recovery Time | 20 mins - 3 hours |
+![](../assets/Headache_icon.png)
+
+_Headache\_icon.png_
+
+**Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)
+
+**Update:** 1.48
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** (from Go! Energy Drink) You are suffering from a head-ache. It's not debilitating, but the occasional shot of pain and blurred vision can be distracting.
+
+**Caused By:** Consuming [Food And Drink](./Food%20And%20Drink.md) or [Go! Energy Drink](./Go!%20Energy%20Drink.md)
+
+**Effect:** Negative
+
+**Type:** Injury
+
+**Affliction Duration:** Until Recovery Time Passes
+
+**Treatment**
+
+**Recovery Time:** 20 mins - 3 hours
 
 **Headache** is an Affliction that is inflicted on the survivor after consuming certain [First Aid](./First%20Aid.md) or [Food And Drink](./Food%20And%20Drink.md) items.
 
@@ -29,11 +40,11 @@ Headaches have no long-term effects on the player, only serving as a simple visu
 
 ## First Aid Headaches
 
-> “__You are suffering from a head-ache. It's not debilitating, but the occasional shot of pain and blurred vision can be distracting.__”
+> “**You are suffering from a head-ache. It's not debilitating, but the occasional shot of pain and blurred vision can be distracting.**”
 >
 > — Go! Energy Drink description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Head-ache from taking Caffeine Pills.__
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Head-ache from taking Caffeine Pills.**
 
 Caffeine Pills description
 
@@ -45,22 +56,62 @@ Drinking a [Go! Energy Drink](./Go!%20Energy%20Drink.md) or eating [Caffeine Pil
 - Caffeine Pills instantly give a 3 hour long Headache once consumed.
 - A slight blue filter appears over the screen when a Headache begins after consuming First Aid items.
 
-|  | First Aid | Duration |
-| --- | --- | --- |
-| ![](../assets/Go!_Energy_Drink_icon.png) / _Go!\_Energy\_Drink\_icon.png_ | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 20 minutes |
-| ![](../assets/Caffeine_Pills_icon.png) / _Caffeine\_Pills\_icon.png_ | [Caffeine Pills](./Caffeine%20Pills.md) | 3 hours |
+**First Aid:** Duration
+
+![](../assets/Go!_Energy_Drink_icon.png)
+
+_Go!\_Energy\_Drink\_icon.png_
+
+[Go! Energy Drink](./Go!%20Energy%20Drink.md)
+
+20 minutes
+
+![](../assets/Caffeine_Pills_icon.png)
+
+_Caffeine\_Pills\_icon.png_
+
+[Caffeine Pills](./Caffeine%20Pills.md)
+
+3 hours
 
 ## Food and Drink Headaches
 
-> “__Head-ache from eating a sweet dish.__”
+> “**Head-ache from eating a sweet dish.**”
 >
 > — Food Recipes description
 
 Certain Recipes will also produce a Headache. Partially consuming Recipes will not always produce a Headache however, but fully consuming the item will guarantee one. Unlike First Aid items, Recipes do not produce a blue tint on the screen when a Headache begins.
 
-|  | Food and Drink | Duration |
-| --- | --- | --- |
-| ![](../assets/Peach_Pie_icon.png) / _Peach\_Pie\_icon.png_ | [Peach Pie](./Peach%20Pie.md) | 1 hour |
-| ![](../assets/Rose_Hip_Pie_icon.png) / _Rose\_Hip\_Pie\_icon.png_ | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | 1 hour |
-| ![](../assets/Camber_Flight_Porridge_icon.png) / _Camber\_Flight\_Porridge\_icon.png_ | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | 1 hour |
-| ![](../assets/Lily%27s_Pancakes_icon.png) / _Lily's\_Pancakes\_icon.png_ | [Lily's Pancakes](./Lily%27s%20Pancakes.md) | 1 hour |
+**Food and Drink:** Duration
+
+![](../assets/Peach_Pie_icon.png)
+
+_Peach\_Pie\_icon.png_
+
+[Peach Pie](./Peach%20Pie.md)
+
+1 hour
+
+![](../assets/Rose_Hip_Pie_icon.png)
+
+_Rose\_Hip\_Pie\_icon.png_
+
+[Rose Hip Pie](./Rose%20Hip%20Pie.md)
+
+1 hour
+
+![](../assets/Camber_Flight_Porridge_icon.png)
+
+_Camber\_Flight\_Porridge\_icon.png_
+
+[Camber Flight Porridge](./Camber%20Flight%20Porridge.md)
+
+1 hour
+
+![](../assets/Lily%27s_Pancakes_icon.png)
+
+_Lily's\_Pancakes\_icon.png_
+
+[Lily's Pancakes](./Lily%27s%20Pancakes.md)
+
+1 hour

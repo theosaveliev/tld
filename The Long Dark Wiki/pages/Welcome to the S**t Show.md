@@ -4,10 +4,11 @@
 
 **Welcome to the S\*\*t Show**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Welcome_to_the_S%2A%2At_Show_icon.png) / _Welcome\_to\_the\_S\*\*t\_Show\_icon.png_ |
-| Description | Find Medicine for the Warden. |
+![](../assets/Welcome_to_the_S%2A%2At_Show_icon.png)
+
+_Welcome\_to\_the\_S\*\*t\_Show\_icon.png_
+
+**Description:** Find Medicine for the Warden.
 
 **Welcome to the S\*\*t Show** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

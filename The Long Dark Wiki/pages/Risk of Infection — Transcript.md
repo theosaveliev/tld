@@ -11,15 +11,21 @@
 
 **Risk of Infection/Transcript**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Risk_of_Infection.jpg) / _Risk\_of\_Infection.jpg_ |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
-| Previous | [Paradise Lost (Predux)/Transcript](./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md) |
-| Current | Risk of Infection/Transcript |
-| Next | You Fix My Rifle?/Transcript |
-| Region | [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) |
+![](../assets/Risk_of_Infection.jpg)
+
+_Risk\_of\_Infection.jpg_
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+
+**Previous:** [Paradise Lost (Predux)/Transcript](./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md)
+
+**Current:** Risk of Infection/Transcript
+
+**Next:** You Fix My Rifle?/Transcript
+
+**Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md)
 
 This is the transcript for Chapter 1 [Risk of Infection](./Risk%20of%20Infection.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 

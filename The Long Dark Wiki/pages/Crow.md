@@ -13,18 +13,25 @@
 
 **Crow**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Crow.png) / _Crow.png_ |
-| **Basic Information** |  |
-| Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01) |
-| Role | Scavenger |
-| **Physical Information** |  |
-| Color | Black |
-| Size | Small |
-| Eyes | Black |
+![](../assets/Crow.png)
 
-> “__Pay attention to your surroundings and you might glean information that's important for your survival. For example, a murder of Crows circling up ahead might suggest an animal carcass -- or even a human corpse -- might be nearby!__”
+_Crow.png_
+
+**Basic Information**
+
+**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+
+**Role:** Scavenger
+
+**Physical Information**
+
+**Color:** Black
+
+**Size:** Small
+
+**Eyes:** Black
+
+> “**Pay attention to your surroundings and you might glean information that's important for your survival. For example, a murder of Crows circling up ahead might suggest an animal carcass -- or even a human corpse -- might be nearby!**”
 >
 > — "Crows" - Game tutorial tip
 
@@ -38,19 +45,121 @@ Crows are flying black birds with conspicuously loud cries. They never land and 
 
 Periodically, [Crow Feathers](./Crow%20Feather.md) will fall to the ground underneath circling Crows (1 Feather will fall per crow flying overhead). Once on the ground, the feathers remain until picked up, making these locations valuable as the only source of crow feathers for [Crafting](./Crafting.md).
 
-|  | Carcass | Quantity | Rarity |
-| --- | --- | --- | --- |
-| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Rabbit Carcass](./Rabbit%20Carcass.md) | 0 | Always |
-| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) | 0 | Always |
-| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Frozen Corpse](./Frozen%20Corpse.md) | 3-4 | Always |
-| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Wolf Carcass](./Wolf%20Carcass.md) | 3 | Always |
-| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Timberwolf Carcass](./Timberwolf%20Carcass.md) | 3 | Always |
-| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md) | 3 | Always |
-| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Deer Carcass](./Deer%20Carcass.md) | 4 | Always |
-| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Cougar Carcass](./Cougar%20Carcass.md) | 4 | Always |
-| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Black Bear Carcass](./Black%20Bear%20Carcass.md) | 5 | Always |
-| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Moose Carcass](./Moose%20Carcass.md) | 5 | Always |
-| ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ | [Ravaged Deer Remains](./Ravaged%20Deer%20Remains.md) | 1-2 | Always |
+Carcass
+
+Quantity
+
+Rarity
+
+![](../assets/Crow_Feather_icon.png)
+
+_Crow\_Feather\_icon.png_
+
+[Rabbit Carcass](./Rabbit%20Carcass.md)
+
+0
+
+Always
+
+![](../assets/Crow_Feather_icon.png)
+
+_Crow\_Feather\_icon.png_
+
+[Ptarmigan Carcass](./Ptarmigan%20Carcass.md)
+
+0
+
+Always
+
+![](../assets/Crow_Feather_icon.png)
+
+_Crow\_Feather\_icon.png_
+
+[Frozen Corpse](./Frozen%20Corpse.md)
+
+3-4
+
+Always
+
+![](../assets/Crow_Feather_icon.png)
+
+_Crow\_Feather\_icon.png_
+
+[Wolf Carcass](./Wolf%20Carcass.md)
+
+3
+
+Always
+
+![](../assets/Crow_Feather_icon.png)
+
+_Crow\_Feather\_icon.png_
+
+[Timberwolf Carcass](./Timberwolf%20Carcass.md)
+
+3
+
+Always
+
+![](../assets/Crow_Feather_icon.png)
+
+_Crow\_Feather\_icon.png_
+
+[Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md)
+
+3
+
+Always
+
+![](../assets/Crow_Feather_icon.png)
+
+_Crow\_Feather\_icon.png_
+
+[Deer Carcass](./Deer%20Carcass.md)
+
+4
+
+Always
+
+![](../assets/Crow_Feather_icon.png)
+
+_Crow\_Feather\_icon.png_
+
+[Cougar Carcass](./Cougar%20Carcass.md)
+
+4
+
+Always
+
+![](../assets/Crow_Feather_icon.png)
+
+_Crow\_Feather\_icon.png_
+
+[Black Bear Carcass](./Black%20Bear%20Carcass.md)
+
+5
+
+Always
+
+![](../assets/Crow_Feather_icon.png)
+
+_Crow\_Feather\_icon.png_
+
+[Moose Carcass](./Moose%20Carcass.md)
+
+5
+
+Always
+
+![](../assets/Crow_Feather_icon.png)
+
+_Crow\_Feather\_icon.png_
+
+[Ravaged Deer Remains](./Ravaged%20Deer%20Remains.md)
+
+1-2
+
+Always
 
 ## Behavior
 
@@ -109,5 +218,3 @@ _Crows in the sky against the sun, circle above a corpse._
 
 - UPDATE **22 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.065)):**
   - Added to game.
-
-[ru:Ворон](ru:%D0%92%D0%BE%D1%80%D0%BE%D0%BD)

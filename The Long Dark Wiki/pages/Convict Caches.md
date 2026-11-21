@@ -18,7 +18,7 @@
 | Current | Convict Caches |
 | Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __An escaping convict left some hidden caches to help the other convicts following him.__
+**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **An escaping convict left some hidden caches to help the other convicts following him.**
 
 In-game description
 

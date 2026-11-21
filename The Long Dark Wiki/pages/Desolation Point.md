@@ -22,23 +22,39 @@
 
 **Desolation Point**
 
-| Property | Details |
-| --- | --- |
-|  | ![Desolation Point's Lonely Lighthouse.](../assets/Desolation_Point_title_card.png) / _Desolation Point's Lonely Lighthouse._ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Desolation_Point_Location.png) / _Desolation\_Point\_Location.png_ |
-|  | ![](../assets/Desolation_point_map.png) / _Desolation\_point\_map.png_ |
-| **Details** |  |
-| Description | A desolate coastal region with the remnants of an old whaling industry. |
-| Connecting Regions | [Coastal Highway](./Coastal%20Highway.md) (via [Old Island Connector](./Crumbling%20Highway.md)) |
-| Difficulty | Intermediate |
-| Interloper Region Spawn | Yes |
-| Locations | 12 |
-| Hazards and Survivability | Lots of shelter and moderate weather, but prey game is limited and there is abundant hostile wildlife. |
-| Cougar Spawn? | No |
-| Date Added | Sept 2015 |
+![Desolation Point's Lonely Lighthouse.](../assets/Desolation_Point_title_card.png)
 
-> “__For intermediate players. Several key shelters, plenty of hostile wildlife, and harsh weather conditions to be found around these remnants of a once-thriving whaling industry.__”
+_Desolation Point's Lonely Lighthouse._
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/Desolation_Point_Location.png)
+
+_Desolation\_Point\_Location.png_
+
+![](../assets/Desolation_point_map.png)
+
+_Desolation\_point\_map.png_
+
+**Details**
+
+**Description:** A desolate coastal region with the remnants of an old whaling industry.
+
+**Connecting Regions:** [Coastal Highway](./Coastal%20Highway.md) (via [Old Island Connector](./Crumbling%20Highway.md))
+
+**Difficulty:** Intermediate
+
+**Interloper Region Spawn:** Yes
+
+**Locations:** 12
+
+**Hazards and Survivability:** Lots of shelter and moderate weather, but prey game is limited and there is abundant hostile wildlife.
+
+**Cougar Spawn?:** No
+
+**Date Added:** Sept 2015
+
+> “**For intermediate players. Several key shelters, plenty of hostile wildlife, and harsh weather conditions to be found around these remnants of a once-thriving whaling industry.**”
 >
 > — - In game description
 
@@ -217,7 +233,3 @@ _Desolation Point poster_
 ![A poster of Desolation Point](../assets/Desolation_point_poster.png)
 
 _A poster of Desolation Point_
-
-[ru:Зона запустения](ru:%D0%97%D0%BE%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F)
-
-[es:Paraje desolado](es:Paraje_desolado) [fr:Site de Désolation](fr:Site_de_D%C3%A9solation)

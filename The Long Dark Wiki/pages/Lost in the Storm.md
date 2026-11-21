@@ -4,19 +4,29 @@
 
 **Lost in the Storm**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Lost_in_the_Storm_icon.png) / _Lost\_in\_the\_Storm\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A letter found on a discarded backpack in a cave. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
+![](../assets/Lost_in_the_Storm_icon.png)
+
+_Lost\_in\_the\_Storm\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A letter found on a discarded backpack in a cave.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
 
 **Lost in the Storm** is a note found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) in [Wintermute](./Wintermute.md) inside the "indoor" cave leading to [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md) from [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md).
 

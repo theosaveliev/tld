@@ -15,18 +15,27 @@
 
 **Emergency Stim**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Emergency_Stim_icon.png) / _Emergency\_Stim\_icon.png_ |
-| Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321) |
-| Wintermute | No |
-| Renewable | Yes ( [Trader](./Trader.md) and rare [Beachcombing](./Beachcombing.md)) No ([Interloper](./Interloper.md)) |
-| **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
-| Stackable | No |
-| Examine | Emergency steroid injection. Will provide a short-burst of energy. Then you'll collapse from exhaustion. Use as last resort! |
-| **Values** |  |
-| Weight | 0.10 kg (0.22 lbs) |
+![](../assets/Emergency_Stim_icon.png)
+
+_Emergency\_Stim\_icon.png_
+
+**Release:** [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321)
+
+**Wintermute:** No
+
+**Renewable:** Yes ( [Trader](./Trader.md) and rare [Beachcombing](./Beachcombing.md)) No ([Interloper](./Interloper.md))
+
+**Properties**
+
+**Item type:** [First Aid](./First%20Aid.md)\|-
+
+**Stackable:** No
+
+**Examine:** Emergency steroid injection. Will provide a short-burst of energy. Then you'll collapse from exhaustion. Use as last resort!
+
+**Values**
+
+**Weight:** 0.10 kg (0.22 lbs)
 
 **Emergency Stim** is a [First Aid](./First%20Aid.md) item in _The Long Dark_. Upon use, it will restore some of the survivor's [Condition](./Condition.md) and grant them unlimited energy for sprinting and rope climbing for one minute.
 

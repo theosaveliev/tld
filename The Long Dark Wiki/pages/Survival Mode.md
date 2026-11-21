@@ -37,7 +37,7 @@ The choice of Experience dictates how harshly the world will treat the player th
 
 ### Pilgrim
 
-> “__Wander the quiet apocalypse to chronicle the passing of an age. This is the poetry of survival.__”
+> “**Wander the quiet apocalypse to chronicle the passing of an age. This is the poetry of survival.**”
 
 [Pilgrim](./Pilgrim.md) is the easiest experience available in survival. Ideal for exploration and learning about the Island and the game mechanics in a low-stress environment. This mode is the standard "easy" difficulty setting.
 
@@ -50,7 +50,7 @@ The choice of Experience dictates how harshly the world will treat the player th
 
 ### Voyageur
 
-> “__Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.__”
+> “**Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.**”
 
 An experience that balances exploration with a challenge, [Voyageur](./Voyageur.md) is the standard "normal" difficulty setting, and is the same difficulty as Wintermute Experiences.
 
@@ -63,7 +63,7 @@ An experience that balances exploration with a challenge, [Voyageur](./Voyageur.
 
 ### Stalker
 
-> “__Your demise awaits behind every hilltop, shelter, and tree. Only the strong survive.__”
+> “**Your demise awaits behind every hilltop, shelter, and tree. Only the strong survive.**”
 
 A punishing survival challenge. [Stalker](./Stalker.md) features numerous aggressive [Wolves](./Wolf.md) and [Timberwolves](./Timberwolf.md). This is the standard "hard" difficulty setting.
 
@@ -76,7 +76,7 @@ A punishing survival challenge. [Stalker](./Stalker.md) features numerous aggres
 
 ### Interloper
 
-> “__You are not part of Mother Nature's plan, and you will bear the full force of her wrath. The true test of Human VS Nature.__”
+> “**You are not part of Mother Nature's plan, and you will bear the full force of her wrath. The true test of Human VS Nature.**”
 
 A punishing survival experience. [Interloper](./Interloper.md) lets you know that you are an unwelcome guest in this cold, hostile world. Best suited for expert players looking for the ultimate survival challenge. This is the standard "expert" difficulty setting, with multiple handicaps present to make the game even harder than normal.
 
@@ -89,7 +89,7 @@ A punishing survival experience. [Interloper](./Interloper.md) lets you know tha
 
 ### Misery
 
-> “__Cited text__”
+> “**Cited text**”
 
 [Misery](./Misery.md) takes Interloper and ratchets up the difficulty by adding six new Afflictions that are applied over time. Intended for Interloper players looking for a new level of challenge. You will not survive for very long. This is the standard "impossible" difficulty.
 
@@ -102,7 +102,7 @@ A punishing survival experience. [Interloper](./Interloper.md) lets you know tha
 
 ### Custom
 
-> “__Use our custom toolbox to craft a unique experience between Survival and Exploration - an experience all your own.__”
+> “**Use our custom toolbox to craft a unique experience between Survival and Exploration - an experience all your own.**”
 
 For players lookingfor create their own Experience, separate from the standard Survival Mode difficulties, [Custom](./Custom.md) is the Experience for them. Players can create a custom Experience here, with over 50 different variables which can be adjusted to their liking.
 

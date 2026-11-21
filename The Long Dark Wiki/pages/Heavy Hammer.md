@@ -26,18 +26,25 @@
 
 **Heavy Hammer**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Heavy_Hammer_icon.png) / _Heavy\_Hammer\_icon.png_ |
-| **General** |  |
-| Item Type | Tool\|- |
-| Renewable | Yes ([Trader](./Trader.md) only) No ([Interloper](./Interloper.md)) |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
-| Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) 1 × [Fir Firewood](./Fir%20Firewood.md) / 30 minutes |
-| Repair | 1 × [Fir Firewood](./Fir%20Firewood.md) 20% Condition / 45 to 30 minutes |
+![](../assets/Heavy_Hammer_icon.png)
 
-> “__A hammer suitable for metalworking.__”
+_Heavy\_Hammer\_icon.png_
+
+**General**
+
+**Item Type:** Tool\|-
+
+**Renewable:** Yes ([Trader](./Trader.md) only) No ([Interloper](./Interloper.md))
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+
+**Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 1 × [Fir Firewood](./Fir%20Firewood.md) / 30 minutes
+
+**Repair:** 1 × [Fir Firewood](./Fir%20Firewood.md) 20% Condition / 45 to 30 minutes
+
+> “**A hammer suitable for metalworking.**”
 >
 > — In-game description
 
@@ -175,5 +182,3 @@ _Old model._
   - Modified struggle damage modifiers for various tools, and added modifiers for the new Hammer.
   - You can now clear ice-fishing holes with Hammers.
   - Hammers can be used to break down crates, furniture, etc.
-
-[ru:Тяжелый молот](ru:%D0%A2%D1%8F%D0%B6%D0%B5%D0%BB%D1%8B%D0%B9_%D0%BC%D0%BE%D0%BB%D0%BE%D1%82)

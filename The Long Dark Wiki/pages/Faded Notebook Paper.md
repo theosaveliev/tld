@@ -4,18 +4,27 @@
 
 **Faded Notebook Paper**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Faded_Notebook_Paper_icon.png) / _Faded\_Notebook\_Paper\_icon.png_ |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A page from a notebook with a few handwritten lines. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Leave It |
+![](../assets/Faded_Notebook_Paper_icon.png)
+
+_Faded\_Notebook\_Paper\_icon.png_
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A page from a notebook with a few handwritten lines.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
 
 **Faded Notebook Paper** is a [Collectible](./Collectibles.md) item found in the [Wintermute](./Wintermute.md) game files. It currently unknown if this is considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md), or if it is in one of the episodes.
 

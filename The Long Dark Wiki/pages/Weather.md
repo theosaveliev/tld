@@ -15,7 +15,7 @@
 - [Lowest and highest temperatures per region](#lowest-and-highest-temperatures-per-region)
 - [Gallery](#gallery)
 
-> “__Mountain blizzards blow through here from time to time. People get stuck indoors, or worse... They wander in circles, only to die within reach of their homes. Even when they are right there in front of them. And they say Grey Mother is blind! Ha!__”
+> “**Mountain blizzards blow through here from time to time. People get stuck indoors, or worse... They wander in circles, only to die within reach of their homes. Even when they are right there in front of them. And they say Grey Mother is blind! Ha!**”
 >
 > — [Grey Mother](./Grey%20Mother.md) discussing blizzards in [Milton](./Milton.md)
 
@@ -144,5 +144,3 @@ _Glimmer Fog_
 ![A detailed air temperatures table](../assets/Temperature_table.png)
 
 _A detailed air temperatures table_
-
-[ru:Погода](ru:%D0%9F%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0) [fr:Météo](fr:M%C3%A9t%C3%A9o) [de:Wetter](de:Wetter)

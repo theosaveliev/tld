@@ -4,10 +4,11 @@
 
 **Natural Healer**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Natural_Healer_icon.png) / _Natural\_Healer\_icon.png_ |
-| Description | Healed yourself using all types of natural medicines (single game) |
+![](../assets/Natural_Healer_icon.png)
+
+_Natural\_Healer\_icon.png_
+
+**Description:** Healed yourself using all types of natural medicines (single game)
 
 **Natural Healer** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

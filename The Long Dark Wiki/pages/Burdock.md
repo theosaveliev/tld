@@ -23,11 +23,13 @@
 
 **Burdock**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Burdock_Plant.jpg) / _Burdock\_Plant.jpg_ |
-| Release | 21 June 2023 |
-| Story item | No |
+![](../assets/Burdock_Plant.jpg)
+
+_Burdock\_Plant.jpg_
+
+**Release:** 21 June 2023
+
+**Story item:** No
 
 **Burdocks** are a sapling plant that were released with the free update Part 3: Frontier Comforts portion of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 

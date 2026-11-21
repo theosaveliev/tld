@@ -30,9 +30,19 @@
 | Next | [Sutherland's Tale](./Sutherland%27s%20Tale.md) |
 | Region | [Sundered Pass](./Sundered%20Pass.md) [Forsaken Airfield](./Forsaken%20Airfield.md) |
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __Enter Sundered Pass to look for evidence of Rüdiger's escape.__ | ” |
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+\|}{\| style="margin:auto"
+
+“
+
+**Enter Sundered Pass to look for evidence of Rüdiger's escape.**
+
+”
 
 **Last Horizon** is the third [Tale](./Tales.md) released for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon in [Survival Mode](./Survival%20Mode.md). As of V 2.27, Last Horizon can be started on a new playthrough out of order as soon as the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) is acquired, as long as [Signal Void](./Signal%20Void.md), [Buried Echoes](./Buried%20Echoes.md), and Last Horizon have been completed on another playthrough and their associated [Badges](./Badges.md) are acquired. The [Transmitter](./Transmitters.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) will need to be repaired before this Tale can be started if played out of order, and [Bunker Omega](./Bunker%20Omega.md) will need to be uncovered to finish it. ![Cougar\_Part\_5.jpg](../assets/Cougar_Part_5.jpg)
 

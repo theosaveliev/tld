@@ -11,25 +11,51 @@
 
 **Smallmouth Bass (Raw)**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Raw](../assets/Smallmouth_Bass_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Smallmouth_Bass_%28Raw%29_Open_icon.png) / _Opened_ | 250px\]\] |
-| ![Raw](../assets/Smallmouth_Bass_%28Raw%29_icon.png) / _Raw_ | ![Opened](../assets/Smallmouth_Bass_%28Raw%29_Open_icon.png) / _Opened_ |
-| Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- / Equipable |
-| Stackable | No |
-| Examine | A feast as good for the soul as for the stomach. |
-| **Values** |  |
-| Calories | 1500 kcal |
-| Hydration | 0.0% |
-| [Vitamin C](./Scurvy.md) | Minor (11%) |
-| Weight | 5.0 kg (11 lbs) |
-| Oil/Weight | 0,025 |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_RawSmallmouthBass |
+\[\[File: / ![Raw](../assets/Smallmouth_Bass_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Smallmouth_Bass_%28Raw%29_Open_icon.png) / _Opened_
+
+250px\]\]
+
+![Raw](../assets/Smallmouth_Bass_%28Raw%29_icon.png)
+
+_Raw_
+
+![Opened](../assets/Smallmouth_Bass_%28Raw%29_Open_icon.png)
+
+_Opened_
+
+**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+Item type
+
+[Food And Drink](./Food%20And%20Drink.md)\|-
+
+Equipable
+
+**Stackable:** No
+
+**Examine:** A feast as good for the soul as for the stomach.
+
+**Values**
+
+**Calories:** 1500 kcal
+
+**Hydration:** 0.0%
+
+**[Vitamin C](./Scurvy.md):** Minor (11%)
+
+**Weight:** 5.0 kg (11 lbs)
+
+**Oil/Weight:** 0,025
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_RawSmallmouthBass
 
 _For the cooked version, see [Smallmouth Bass (Cooked)](./Smallmouth%20Bass%20%28Cooked%29.md)._
 

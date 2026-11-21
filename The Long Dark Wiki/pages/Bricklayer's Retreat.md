@@ -4,18 +4,37 @@
 
 **Bricklayer's Retreat**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Bricklayer%27s_Retreat.jpg) / _Bricklayer's\_Retreat.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Bricklayer%27s_Retreat_Location.png) / _Bricklayer's\_Retreat\_Location.png_ |
-| Region |  |
-| Location | Easternmost of the Blackrock Region, near a frozen lake. |
-| **General** |  |
-| Firebox |  |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
-| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ | Has a workbench\|- |
-| Missions | [Blackrock Rumours](./Blackrock%20Rumours.md) |
+![](../assets/Bricklayer%27s_Retreat.jpg)
+
+_Bricklayer's\_Retreat.jpg_
+
+**Location**
+
+![](../assets/Bricklayer%27s_Retreat_Location.png)
+
+_Bricklayer's\_Retreat\_Location.png_
+
+Region
+
+**Location:** Easternmost of the Blackrock Region, near a frozen lake.
+
+**General**
+
+Firebox
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+Has a bed
+
+![](../assets/Workbench_icon_green.png)
+
+_workbench\_icon\_green.png_
+
+Has a workbench\|-
+
+**Missions:** [Blackrock Rumours](./Blackrock%20Rumours.md)
 
 **Bricklayer's Retreat** is a cabin located to the east of a pond, near the southeastern limit of [Blackrock](./Blackrock.md).
 

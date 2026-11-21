@@ -14,16 +14,23 @@
 
 **Woodworking Tools**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Woodworking_Tools_icon.png) / _Woodworking\_Tools\_icon.png_ |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
-| **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
-| **Values** |  |
-| Weight | 1.50 kg (3.3 lbs) |
-| **Actions** |  |
-| Backpack | Examine, Drop, Pick up |
+![](../assets/Woodworking_Tools_icon.png)
+
+_Woodworking\_Tools\_icon.png_
+
+**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)\|-
+
+**Values**
+
+**Weight:** 1.50 kg (3.3 lbs)
+
+**Actions**
+
+**Backpack:** Examine, Drop, Pick up
 
 **Woodworking Tools** is a tool used to craft furniture for the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
@@ -73,5 +80,3 @@ _Bleak Inlet_
 _Ash Canyon_
 
 ## Game History
-
-[ru:Столярные инструменты](ru:%D0%A1%D1%82%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)

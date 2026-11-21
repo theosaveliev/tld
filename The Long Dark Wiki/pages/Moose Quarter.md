@@ -4,17 +4,25 @@
 
 **Moose Quarter**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Moose_Quarter_icon.png) / _Moose\_Quarter\_icon.png_ |
-| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16) |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| **Values** |  |
-| Weight | 10.00 kg (22 lbs) |
-| **Decay Rate** |  |
-| Inside | 10.0% per day |
-| Outside | 10.0% per day |
+![](../assets/Moose_Quarter_icon.png)
+
+_Moose\_Quarter\_icon.png_
+
+**Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Values**
+
+**Weight:** 10.00 kg (22 lbs)
+
+**Decay Rate**
+
+**Inside:** 10.0% per day
+
+**Outside:** 10.0% per day
 
 ## Overview
 

@@ -4,24 +4,45 @@
 
 **Astrid's Boots**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Astrid%27s_Boots_icon.png) / _Astrid's\_Boots\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)5% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-3% |
-| Harvest | 1 × [Leather](./Cured%20Leather.md) / 90 minutes |
-| Repair | 1 × [Leather](./Cured%20Leather.md) / 30 minutes / 25% condition |
+![](../assets/Astrid%27s_Boots_icon.png)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png) / _2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_ | **Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md). | \|}{\| style="margin:auto" | “ | __Made of strong but supple leather, these boots are built to last.__ / In-game description | ” |
+_Astrid's\_Boots\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)5%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-3%
+
+**Harvest:** 1 × [Leather](./Cured%20Leather.md) / 90 minutes
+
+**Repair:** 1 × [Leather](./Cured%20Leather.md) / 30 minutes / 25% condition
+
+![](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
+
+_2120907963\_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png_
+
+**Wintermute-Exclusive content.** / This content only appears in [Wintermute](./Wintermute.md).
+
+\|}{\| style="margin:auto"
+
+“
+
+**Made of strong but supple leather, these boots are built to last.** / In-game description
+
+”
 
 **Astrid's Boots** are a [Clothing](./Clothing.md) item worn on the player's outer feet obtained at the start of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 

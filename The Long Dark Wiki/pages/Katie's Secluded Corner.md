@@ -4,11 +4,18 @@
 
 **Katie's Secluded Corner**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Katie%27s_secluded_corner.jpg) / _Katie's\_secluded\_corner.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Katie%27s_Secluded_Corner_Location.png) / _Katie's\_Secluded\_Corner\_Location.png_ |
-| Region | [Desolation Point](./Desolation%20Point.md)\|- |
-| **General** |  |
-| Type | Outdoors\|- |
+![](../assets/Katie%27s_secluded_corner.jpg)
+
+_Katie's\_secluded\_corner.jpg_
+
+**Location**
+
+![](../assets/Katie%27s_Secluded_Corner_Location.png)
+
+_Katie's\_Secluded\_Corner\_Location.png_
+
+**Region:** [Desolation Point](./Desolation%20Point.md)\|-
+
+**General**
+
+**Type:** Outdoors\|-

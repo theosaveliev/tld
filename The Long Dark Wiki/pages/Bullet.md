@@ -14,16 +14,21 @@
 
 **Bullet**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Bullet_icon.png) / _bullet\_icon.png_ |
-| **General** |  |
-| Item Type | Material\|- |
-| Renewable | yes |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.005 kg(0.01 lbs) |
+![](../assets/Bullet_icon.png)
 
-> “__Projectile component of Rifle or Revolver Ammunition. Can be Crafted from Scrap Lead.__”
+_bullet\_icon.png_
+
+**General**
+
+**Item Type:** Material\|-
+
+**Renewable:** yes
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
+
+> “**Projectile component of Rifle or Revolver Ammunition. Can be Crafted from Scrap Lead.**”
 >
 > — In-game description
 

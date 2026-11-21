@@ -4,19 +4,29 @@
 
 **Memo (Survival)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Memo_%28Survival%29_icon.png) / _Memo\_(Survival)\_icon.png_ |
-| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | An old piece of paperwork. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/Memo_%28Survival%29_icon.png)
+
+_Memo\_(Survival)\_icon.png_
+
+**Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** An old piece of paperwork.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **Memo** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Forsaken Airfield](./Forsaken%20Airfield.md) on a table in the [Hangar Basement](./Hangar%20Basement.md).
 
@@ -42,5 +52,3 @@ _The following text is transcribed from **Memo**_
 
 - 
   - Added to game.
-
-[ru:Памятка (Подвал ангара)](ru:%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B0_%28%D0%9F%D0%BE%D0%B4%D0%B2%D0%B0%D0%BB_%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B0%29)

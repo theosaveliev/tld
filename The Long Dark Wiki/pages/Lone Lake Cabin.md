@@ -4,12 +4,20 @@
 
 **Lone Lake Cabin**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Lone_Lake_Cabin.png) / _Lone\_Lake\_Cabin.png_ |
-| **Location** |  |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
-| **General** |  |
-| Type | Residential\|- |
+![](../assets/Lone_Lake_Cabin.png)
 
-| ![](../assets/Local_Legends_-_The_Lost_Cave_icon.png) / _Local\_Legends\_-\_The\_Lost\_Cave\_icon.png_ | **This article's name is conjectural.** / Although this article is based on information contained within [The Long Dark](./The%20Long%20Dark.md), the actual name of this subject is pure conjecture |
+_Lone\_Lake\_Cabin.png_
+
+**Location**
+
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+
+**General**
+
+**Type:** Residential\|-
+
+![](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
+
+_Local\_Legends\_-\_The\_Lost\_Cave\_icon.png_
+
+**This article's name is conjectural.** / Although this article is based on information contained within [The Long Dark](./The%20Long%20Dark.md), the actual name of this subject is pure conjecture

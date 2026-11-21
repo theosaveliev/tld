@@ -4,9 +4,14 @@
 
 **Smoker's Cave**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Smoker%27s_Cave.jpg) / _Smoker's\_Cave.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Smoker%27s_Cave_Location.png) / _Smoker's\_Cave\_Location.png_ |
-| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
+![](../assets/Smoker%27s_Cave.jpg)
+
+_Smoker's\_Cave.jpg_
+
+**Location**
+
+![](../assets/Smoker%27s_Cave_Location.png)
+
+_Smoker's\_Cave\_Location.png_
+
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-

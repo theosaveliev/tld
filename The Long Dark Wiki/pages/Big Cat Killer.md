@@ -4,13 +4,17 @@
 
 **Big Cat Killer**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Master_Hunter_icon.png) / _Master\_Hunter\_icon.png_ |
-| Description | You've successfully killed 3 Cougars in a single game. |
-| Benefit | Wildlife are less aware of your presence. |
-| Effect | Halves detection range from all animals (sight, hearing, and smell) |
-| DLC required | [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) |
+![](../assets/Master_Hunter_icon.png)
+
+_Master\_Hunter\_icon.png_
+
+**Description:** You've successfully killed 3 Cougars in a single game.
+
+**Benefit:** Wildlife are less aware of your presence.
+
+**Effect:** Halves detection range from all animals (sight, hearing, and smell)
+
+**DLC required:** [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)
 
 **Big Cat Killer** is a [feat](./Feats.md) in The Long Dark. It was first made available in version 2.28 when the Cougar (now commonly called "[Cougar 1.0](./Cougar.md#Legacy_Information%3A_Cougar_1.0)") was released. The feat is considered "legacy" because it can no longer be acquired in the current versions of the game, but can still be earned using an older version.
 

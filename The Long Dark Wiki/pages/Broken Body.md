@@ -4,20 +4,31 @@
 
 **Broken Body**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Broken_Body_icon.png) / _Broken\_Body\_icon.png_ |
-| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
-| Update | 2.28 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | Your body carries the weight of a dying world. / You have lost the ability to recover Condition and are twice as vulnerable to physical damage. |
-| Caused By | [Misery Mode](./Misery.md) |
-| Effect | Negative |
-| Type | Injury |
-| Affliction Duration | Permanent Affliction |
-| **Treatment** |  |
-| Recovery Time | No Treatment |
+![](../assets/Broken_Body_icon.png)
+
+_Broken\_Body\_icon.png_
+
+**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
+
+**Update:** 2.28
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** Your body carries the weight of a dying world. / You have lost the ability to recover Condition and are twice as vulnerable to physical damage.
+
+**Caused By:** [Misery Mode](./Misery.md)
+
+**Effect:** Negative
+
+**Type:** Injury
+
+**Affliction Duration:** Permanent Affliction
+
+**Treatment**
+
+**Recovery Time:** No Treatment
 
 **Broken Body** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
 

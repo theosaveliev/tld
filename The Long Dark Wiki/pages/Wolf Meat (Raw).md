@@ -11,22 +11,35 @@
 
 **Wolf Meat (Raw)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Wolf_Meat_%28Raw%29_icon.png) / _Wolf\_Meat\_(Raw)\_icon.png_ |
-| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
-| Wintermute | Yes |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | Flesh from a wolf. Cook to eat safely. |
-| **Values** |  |
-| Calories | 800 kcal |
-| Hydration | 0% |
-| Weight | 1.00 kg (2.2 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_WolfMeatRaw |
+![](../assets/Wolf_Meat_%28Raw%29_icon.png)
+
+_Wolf\_Meat\_(Raw)\_icon.png_
+
+**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+
+**Wintermute:** Yes
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** Flesh from a wolf. Cook to eat safely.
+
+**Values**
+
+**Calories:** 800 kcal
+
+**Hydration:** 0%
+
+**Weight:** 1.00 kg (2.2 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_WolfMeatRaw
 
 _For the cooked version, see [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md)._
 

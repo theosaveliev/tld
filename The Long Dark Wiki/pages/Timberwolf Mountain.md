@@ -16,22 +16,37 @@
 
 **Timberwolf Mountain**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Timberwolf_Mountain_title_card.png) / _Timberwolf\_Mountain\_title\_card.png_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Timberwolf_Mountain_Location.png) / _Timberwolf\_Mountain\_Location.png_ |
-|  | ![](../assets/Timberwolf_Mountain_map.png) / _timberwolf\_mountain\_map.png_ |
-| **Details** |  |
-| Description | A harsh mountainous region with scarce resources and many [Rope Climbing](./Rope%20Climbing.md) spots. |
-| Connecting Regions | [Pleasant Valley](./Pleasant%20Valley.md), [Ash Canyon](./Ash%20Canyon.md), [Blackrock](./Blackrock.md) |
-| Difficulty | Advanced |
-| Interloper Region Spawn | Yes |
-| Locations | 25 |
-| Hazards and Survivability | The region is known for temperatures below -20 °C, frequent blizzards and scarce resources. Much of the region is divided up by [Rope Climbing](./Rope%20Climbing.md) areas, making navigation tricky. |
-| Date Added | Dec 2015 |
+![](../assets/Timberwolf_Mountain_title_card.png)
 
-> “__For advanced players. An isolated alpine region with very few shelters or resources. A true test of wilderness survival skills.__”
+_Timberwolf\_Mountain\_title\_card.png_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/Timberwolf_Mountain_Location.png)
+
+_Timberwolf\_Mountain\_Location.png_
+
+![](../assets/Timberwolf_Mountain_map.png)
+
+_timberwolf\_mountain\_map.png_
+
+**Details**
+
+**Description:** A harsh mountainous region with scarce resources and many [Rope Climbing](./Rope%20Climbing.md) spots.
+
+**Connecting Regions:** [Pleasant Valley](./Pleasant%20Valley.md), [Ash Canyon](./Ash%20Canyon.md), [Blackrock](./Blackrock.md)
+
+**Difficulty:** Advanced
+
+**Interloper Region Spawn:** Yes
+
+**Locations:** 25
+
+**Hazards and Survivability:** The region is known for temperatures below -20 °C, frequent blizzards and scarce resources. Much of the region is divided up by [Rope Climbing](./Rope%20Climbing.md) areas, making navigation tricky.
+
+**Date Added:** Dec 2015
+
+> “**For advanced players. An isolated alpine region with very few shelters or resources. A true test of wilderness survival skills.**”
 >
 > — - In game description
 
@@ -164,8 +179,6 @@ Timberwolf Mountain was introduced on 16 December 2015 in [version 0.298](./The%
 ## References
 
 &lt;div class="references-small" ;"&gt;
-
-[es:Montaña de lobos](es:Monta%C3%B1a_de_lobos) [ru:Волчья гора](ru:%D0%92%D0%BE%D0%BB%D1%87%D1%8C%D1%8F_%D0%B3%D0%BE%D1%80%D0%B0) [fr:Mont Timberwolf](fr:Mont_Timberwolf) [de:Wolfsberg](de:Wolfsberg)
 
 ## Notes
 

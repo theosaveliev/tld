@@ -399,5 +399,3 @@ _Bear Footprints_
 - Animals can't enter locations only accessible by crouching. Animals also cannot enter buildings with outside interiors, even when the doorways are open.
 - Animals will never jump down embankments, even from heights that would not damage the player.
 - During [Escape the Darkwalker](./Escape%20the%20Darkwalker.md), the [Toxic Fog](./Toxic%20Fog.md) will immediately kill all prey and predator type animals when it descends. Crows and plants will not be affected.
-
-[es:Fauna local](es:Fauna_local) [fr:Animaux](fr:Animaux)

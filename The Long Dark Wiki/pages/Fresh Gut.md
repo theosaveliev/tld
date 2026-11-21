@@ -4,18 +4,27 @@
 
 **Fresh Gut**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Fresh_Gut_icon.png) / _Fresh\_Gut\_icon.png_ |
-| Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
-| Stackable | No |
-| Examine | Freshly harvested gut. / Can be used for crafting and repair after air-drying indoors for 5 days. |
-| **Values** |  |
-| Weight | 0.10 kg (0.22 lbs) |
+![](../assets/Fresh_Gut_icon.png)
+
+_Fresh\_Gut\_icon.png_
+
+**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.01)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Materials](./Materials.md)\|-
+
+**Stackable:** No
+
+**Examine:** Freshly harvested gut. / Can be used for crafting and repair after air-drying indoors for 5 days.
+
+**Values**
+
+**Weight:** 0.10 kg (0.22 lbs)
 
 **Fresh Gut** is an animal-based [Material](./Materials.md) that can be harvested from [Wildlife](./Wildlife.md) carcasses. Fresh Guts can also be used as a [Baiting](./Scent.md#Baiting%2FDecoys) to distract predators, but are primarily used to craft or repair various animal based [Clothing](./Clothing.md) once they have [Cured](./Curing.md) into [Cured Gut](./Cured%20Gut.md).
 

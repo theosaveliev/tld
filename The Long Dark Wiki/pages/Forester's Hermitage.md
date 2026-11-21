@@ -4,15 +4,30 @@
 
 **Forester's Hermitage**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Forestershermitage.png) / _Forestershermitage.png_ |
-| **Location** |  |
-|  | ![](../assets/Forester%27s_Hermitage_Location.png) / _Forester's\_Hermitage\_Location.png_ |
-| Region |  |
-| Description | A partially ruined cabin |
-| **General** |  |
-| Firebox | [Wood Stove](./Wood%20Stove.md) |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
+![](../assets/Forestershermitage.png)
 
-|  | ![](../assets/Feahsrjtkjrew.png) / _Feahsrjtkjrew.png_ |
+_Forestershermitage.png_
+
+**Location**
+
+![](../assets/Forester%27s_Hermitage_Location.png)
+
+_Forester's\_Hermitage\_Location.png_
+
+Region
+
+**Description:** A partially ruined cabin
+
+**General**
+
+**Firebox:** [Wood Stove](./Wood%20Stove.md)
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+Has a bed
+
+![](../assets/Feahsrjtkjrew.png)
+
+_Feahsrjtkjrew.png_

@@ -4,14 +4,29 @@
 
 **Fir Limb**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Small](../assets/Fir_Limb.jpg) / _Small_ / ![Large](../assets/Fir_Limb_Large.jpg) / _Large_ | 250px\]\] |
-| ![Small](../assets/Fir_Limb.jpg) / _Small_ | ![Large](../assets/Fir_Limb_Large.jpg) / _Large_ |
-| **General** |  |
-| Item Type |  |
-| Wintermute | Yes\|- / **Statistics** |
-| Harvest | 45-60 Minutes / Yields 3-4 [Fir Firewood](./Fir%20Firewood.md) |
+\[\[File: / ![Small](../assets/Fir_Limb.jpg) / _Small_ / ![Large](../assets/Fir_Limb_Large.jpg) / _Large_
+
+250px\]\]
+
+![Small](../assets/Fir_Limb.jpg)
+
+_Small_
+
+![Large](../assets/Fir_Limb_Large.jpg)
+
+_Large_
+
+**General**
+
+Item Type
+
+Wintermute
+
+Yes\|-
+
+**Statistics**
+
+**Harvest:** 45-60 Minutes / Yields 3-4 [Fir Firewood](./Fir%20Firewood.md)
 
 The **Fir Limb** is one of the many stationary interactable objects found in _[The Long Dark](./The%20Long%20Dark.md)_. They respawn randomly in the world over time under trees, making them a renewable [material](./Materials.md).
 

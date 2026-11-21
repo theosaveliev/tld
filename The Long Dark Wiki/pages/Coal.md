@@ -12,18 +12,27 @@
 
 **Coal**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Coal_icon.png) / _Coal\_icon.png_ |
-| Release | [18 September 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.264) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)\|- |
-| Stackable | Yes |
-| Examine | Lump of Coal. |
-| **Values** |  |
-| Weight | 0.3 kg (0.66 lbs) |
+![](../assets/Coal_icon.png)
+
+_Coal\_icon.png_
+
+**Release:** [18 September 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.264)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Fire Starting](./Fire%20Starting.md)\|-
+
+**Stackable:** Yes
+
+**Examine:** Lump of Coal.
+
+**Values**
+
+**Weight:** 0.3 kg (0.66 lbs)
 
 **Coal** is a fuel item in _The Long Dark_.
 
@@ -35,13 +44,15 @@ Coal is a fuel source for fires, and the only fuel which can heat Forges hot eno
 
 **Coal**
 
-| Property | Details |
-| --- | --- |
-| Type | Fuel |
-| **Statistics** |  |
-| Duration | ![Fire\_Starting.png](../assets/Fire_Starting.png) 60 minutes |
-| Heat | ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +20°C (+36°F) |
-| Burn Density | 3.33 hr/kg (1.51 hr/lb) |
+**Type:** Fuel
+
+**Statistics**
+
+**Duration:** ![Fire\_Starting.png](../assets/Fire_Starting.png) 60 minutes
+
+**Heat:** ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +20°C (+36°F)
+
+**Burn Density:** 3.33 hr/kg (1.51 hr/lb)
 
 ## Obtaining
 

@@ -4,9 +4,14 @@
 
 **Loitering Marsh**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Loitering_Marsh.jpg) / _Loitering\_Marsh.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Loitering_Marsh_Location.png) / _Loitering\_Marsh\_Location.png_ |
-| Region | [Transfer Pass](./Transfer%20Pass.md)\|- |
+![](../assets/Loitering_Marsh.jpg)
+
+_Loitering\_Marsh.jpg_
+
+**Location**
+
+![](../assets/Loitering_Marsh_Location.png)
+
+_Loitering\_Marsh\_Location.png_
+
+**Region:** [Transfer Pass](./Transfer%20Pass.md)\|-

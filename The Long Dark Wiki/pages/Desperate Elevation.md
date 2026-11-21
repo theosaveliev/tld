@@ -4,10 +4,16 @@
 
 **Desperate Elevation**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Desperate_Elevation.jpg) / _Desperate\_Elevation.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Desperate_Elevation_Location.png) / _Desperate\_Elevation\_Location.png_ |
-| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
-| **General** |  |
+![](../assets/Desperate_Elevation.jpg)
+
+_Desperate\_Elevation.jpg_
+
+**Location**
+
+![](../assets/Desperate_Elevation_Location.png)
+
+_Desperate\_Elevation\_Location.png_
+
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+
+**General**

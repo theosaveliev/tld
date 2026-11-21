@@ -4,19 +4,29 @@
 
 **Naturalist Notebook 2**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Naturalist_Notebook_2_icon.png) / _Naturalist\_Notebook\_2\_icon.png_ |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A loose leaf from a technical notebook |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/Naturalist_Notebook_2_icon.png)
+
+_Naturalist\_Notebook\_2\_icon.png_
+
+**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A loose leaf from a technical notebook
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **Naturalist Notebook 2** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) found in the [Fishing Hut](./Fishing%20Hut.md) at [Ambler's Lake](./Ambler%27s%20Lake.md) in [Sundered Pass](./Sundered%20Pass.md).
 
@@ -33,5 +43,3 @@ The eviscerated deer I stumbled on yesterday gave me an idea. I doubt I can outr
 My gear is durable, but will it be enough? They sent me here to study these animals, not cull them. That's my mission.**
 
 ## Game history
-
-[ru:Дневник натуралиста 2](ru:%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0_2)

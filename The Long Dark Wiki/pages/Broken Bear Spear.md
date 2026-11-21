@@ -4,22 +4,33 @@
 
 **Broken Bear Spear**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Broken_Bear_Spear_icon.png) / _Broken\_Bear\_Spear\_icon.png_ |
-| Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Best Defense](./The%20Best%20Defense.md) |
-| **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
-| Stackable | No |
-| Examine | A broken spearhead attached to a salvageable maple shaft. |
-| **Values** |  |
-| Weight | 3.75 kg (8.25 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Leave It |
+![](../assets/Broken_Bear_Spear_icon.png)
 
-> “__Damn...looks like one little detail got missed in the trapper's "legend" of the old bear: The spear didn't survive the fight. Must be something I can use to fix it at the old machine shed.__”
+_Broken\_Bear\_Spear\_icon.png_
+
+**Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Best Defense](./The%20Best%20Defense.md)
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)\|-
+
+**Stackable:** No
+
+**Examine:** A broken spearhead attached to a salvageable maple shaft.
+
+**Values**
+
+**Weight:** 3.75 kg (8.25 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
+
+> “**Damn...looks like one little detail got missed in the trapper's "legend" of the old bear: The spear didn't survive the fight. Must be something I can use to fix it at the old machine shed.**”
 >
 > — Mackenzie
 

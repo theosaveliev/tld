@@ -14,7 +14,7 @@
 - [Character quotes](#character-quotes)
 - [Trivia](#trivia)
 
-> “__A quick way to lose Condition. Keep Water on hand to quench your thirst.__”
+> “**A quick way to lose Condition. Keep Water on hand to quench your thirst.**”
 >
 > — In-game description
 

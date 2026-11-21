@@ -11,14 +11,19 @@
 
 **Bear Hide Rug**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Bear_Hide_Rug_icon.png) / _Bear\_Hide\_Rug\_icon.png_ |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
-| **Values** |  |
-| Weight | 12.00 kg (26.4 lbs) |
-| **Actions** |  |
-| Backpack | Drop, Place |
+![](../assets/Bear_Hide_Rug_icon.png)
+
+_Bear\_Hide\_Rug\_icon.png_
+
+**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Values**
+
+**Weight:** 12.00 kg (26.4 lbs)
+
+**Actions**
+
+**Backpack:** Drop, Place
 
 The **Bear Hide Rug** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 

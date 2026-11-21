@@ -13,22 +13,37 @@
 
 **Broken Railroad**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Broken_railway_titlecard_small.png) / _Broken\_railway\_titlecard\_small.png_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Broken_Railroad_Location.png) / _Broken\_Railroad\_Location.png_ |
-|  | ![](../assets/Broken_Railroad_region_map.png) / _Broken\_Railroad\_region\_map.png_ |
-| **Details** |  |
-| Description | An old [Breyerhouse](./Breyerhouse.md) maintenance yard with the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md) running through the mountain. |
-| Connecting Regions | [Forlorn Muskeg](./Forlorn%20Muskeg.md) [Transfer Pass](./Transfer%20Pass.md) (through [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)) |
-| Difficulty | Intermediate |
-| Interloper Region Spawn | Yes |
-| Locations | 10 |
-| Hazards and Survivability | Although the weather is fairly mild, many predators roam the region. |
-| Date Added | Aug 2017 |
+![](../assets/Broken_railway_titlecard_small.png)
 
-> “__For intermediate players. Previous seismic activity means this section of the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md) is dramatically interrupted. Be careful you don't become lost in its many twisting routes. Connects to Forlorn Muskeg and the Far Territory.__”
+_Broken\_railway\_titlecard\_small.png_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/Broken_Railroad_Location.png)
+
+_Broken\_Railroad\_Location.png_
+
+![](../assets/Broken_Railroad_region_map.png)
+
+_Broken\_Railroad\_region\_map.png_
+
+**Details**
+
+**Description:** An old [Breyerhouse](./Breyerhouse.md) maintenance yard with the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md) running through the mountain.
+
+**Connecting Regions:** [Forlorn Muskeg](./Forlorn%20Muskeg.md) [Transfer Pass](./Transfer%20Pass.md) (through [Far Range Branch Line](./Far%20Range%20Branch%20Line.md))
+
+**Difficulty:** Intermediate
+
+**Interloper Region Spawn:** Yes
+
+**Locations:** 10
+
+**Hazards and Survivability:** Although the weather is fairly mild, many predators roam the region.
+
+**Date Added:** Aug 2017
+
+> “**For intermediate players. Previous seismic activity means this section of the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md) is dramatically interrupted. Be careful you don't become lost in its many twisting routes. Connects to Forlorn Muskeg and the Far Territory.**”
 >
 > — - In game description
 
@@ -102,5 +117,3 @@ _Broken Railroad map v2.35 (Interloper-Misery)_
 ![Broken Railroad map v1.83](../assets/Broken_Railroad_map.png)
 
 _Broken Railroad map v1.83_
-
-[es:vía destrozada](es:v%C3%ADa_destrozada) [fr:Voie Ferrée Détruite](fr:Voie_Ferr%C3%A9e_D%C3%A9truite) [ru:Разбитая железная дорога](ru:%D0%A0%D0%B0%D0%B7%D0%B1%D0%B8%D1%82%D0%B0%D1%8F_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0)

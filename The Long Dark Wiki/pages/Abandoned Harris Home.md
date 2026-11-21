@@ -4,11 +4,18 @@
 
 **Abandoned Harris Home**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Abandoned_Harris_Home.jpg) / _Abandoned\_Harris\_Home.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Abandoned_Harris_Home_Location.png) / _Abandoned\_Harris\_Home\_Location.png_ |
-| Region | [Old Island Connector](./Crumbling%20Highway.md)\|- |
-| **General** |  |
-| Type | Residential\|- |
+![](../assets/Abandoned_Harris_Home.jpg)
+
+_Abandoned\_Harris\_Home.jpg_
+
+**Location**
+
+![](../assets/Abandoned_Harris_Home_Location.png)
+
+_Abandoned\_Harris\_Home\_Location.png_
+
+**Region:** [Old Island Connector](./Crumbling%20Highway.md)\|-
+
+**General**
+
+**Type:** Residential\|-

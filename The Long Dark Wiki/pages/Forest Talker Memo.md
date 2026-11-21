@@ -4,20 +4,31 @@
 
 **Forest Talker Memo**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Forest_Talker_Memo_icon.png) / _Forest\_Talker\_Memo\_icon.png_ |
-| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
-| Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A sheet of paper, waterstained but crisply-folded. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/Forest_Talker_Memo_icon.png)
+
+_Forest\_Talker\_Memo\_icon.png_
+
+**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)
+
+**Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A sheet of paper, waterstained but crisply-folded.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **Forest Talker Memo** is a [Collectible](./Collectibles.md) found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story as part of the [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md) side mission. It is found inside the cache inside the [Last Prospect](./Last%20Prospect.md) mine once Mackenzie collects the three [Forest Talker Letter](./Forest%20Talker%20Letter.md) notes and opens the padlock.
 

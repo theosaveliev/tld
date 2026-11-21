@@ -2295,5 +2295,3 @@ Released: 31 July 2014
   - F9 now takes a debug screenshot, which loads up the debug HUD info for the screenshot, then reverts the HUD to whatever mode it was previously in. (Used for bug-fixing purposes.)
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/597-new-update-alpha-sandbox-v073-released-for-pc-and-mac/)
-
-[ru:Архив\_обновлений](ru:%D0%90%D1%80%D1%85%D0%B8%D0%B2_%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9)

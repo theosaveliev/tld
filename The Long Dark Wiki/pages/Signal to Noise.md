@@ -11,19 +11,25 @@
 
 **Signal to Noise**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Missions_story_ep2_Signal_to_Noise.png) / _Missions\_story\_ep2\_Signal\_to\_Noise.png_ |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
-| Previous | [The Best Defense](./The%20Best%20Defense.md) |
-| Current | Signal to Noise |
-| Next | [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
+![](../assets/Missions_story_ep2_Signal_to_Noise.png)
+
+_Missions\_story\_ep2\_Signal\_to\_Noise.png_
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+
+**Previous:** [The Best Defense](./The%20Best%20Defense.md)
+
+**Current:** Signal to Noise
+
+**Next:** [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)
+
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md)
 
 **Template:spoiler**
 
-> “__Jeremiah has a plan for how Mackenzie can reach Perseverance Mills, but carrying it out may put the pilot on a collision course with the Old Bear.__”
+> “**Jeremiah has a plan for how Mackenzie can reach Perseverance Mills, but carrying it out may put the pilot on a collision course with the Old Bear.**”
 >
 > — In-game description
 

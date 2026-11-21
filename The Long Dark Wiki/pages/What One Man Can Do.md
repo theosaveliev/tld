@@ -4,19 +4,25 @@
 
 **What One Man Can Do**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Missions_story_ep2_What_One_Man_Can_Do.png) / _Missions\_story\_ep2\_What\_One\_Man\_Can\_Do.png_ |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
-| Previous | [Signal to Noise](./Signal%20to%20Noise.md) |
-| Current | What One Man Can Do |
-| Next | [Renewed Hope](./Renewed%20Hope.md) |
-| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
-| Characters | [Mackenzie](./Will%20Mackenzie.md) [Old Bear](./Old%20Bear.md) / [Jeremiah](./Jeremiah.md) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) |
+![](../assets/Missions_story_ep2_What_One_Man_Can_Do.png)
+
+_Missions\_story\_ep2\_What\_One\_Man\_Can\_Do.png_
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+
+**Previous:** [Signal to Noise](./Signal%20to%20Noise.md)
+
+**Current:** What One Man Can Do
+
+**Next:** [Renewed Hope](./Renewed%20Hope.md)
+
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
+
+**Characters:** [Mackenzie](./Will%20Mackenzie.md) [Old Bear](./Old%20Bear.md) / [Jeremiah](./Jeremiah.md) / [Radio Voice Man](./Characters.md#Radio_Voice_Man)
 
 **Template:spoiler**
 
-> “__The Old Bear has dragged Mackenzie to its lair. Will he put the legendary bear's story to an end?__”
+> “**The Old Bear has dragged Mackenzie to its lair. Will he put the legendary bear's story to an end?**”
 >
 > — In-game description
 

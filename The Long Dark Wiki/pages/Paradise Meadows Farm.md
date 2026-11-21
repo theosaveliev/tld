@@ -19,21 +19,63 @@
 
 **Paradise Meadows Farm**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Overview](../assets/Paradise_meadows_farm.jpg) / _Overview_ / ![Barn](../assets/Paradise_meadows_farm_barn.jpg) / _Barn_ / ![Farmhouse](../assets/Paradise_meadows_farmhouse.jpg) / _Farmhouse_ / ![Interior](../assets/Paradise_meadows_farmhouse_interior_2.jpg) / _Interior_ | 250px\]\] |
-| ![Overview](../assets/Paradise_meadows_farm.jpg) / _Overview_ | ![Barn](../assets/Paradise_meadows_farm_barn.jpg) / _Barn_ / ![Farmhouse](../assets/Paradise_meadows_farmhouse.jpg) / _Farmhouse_ / ![Interior](../assets/Paradise_meadows_farmhouse_interior_2.jpg) / _Interior_ |
-| **Location** |  |
-| ![](../assets/Paradise_Meadows_Farm_Location.png) / _Paradise\_Meadows\_Farm\_Location.png_ |  |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- / Location |
-| Description | A farmhouse and several outbuildings |
-| **General** |  |
-| Type | Residential\|- / Firebox |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
-| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ | Has a workbench\|- |
-| Missions | [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3) |
+\[\[File: / ![Overview](../assets/Paradise_meadows_farm.jpg) / _Overview_ / ![Barn](../assets/Paradise_meadows_farm_barn.jpg) / _Barn_ / ![Farmhouse](../assets/Paradise_meadows_farmhouse.jpg) / _Farmhouse_ / ![Interior](../assets/Paradise_meadows_farmhouse_interior_2.jpg) / _Interior_
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+250px\]\]
+
+![Overview](../assets/Paradise_meadows_farm.jpg)
+
+_Overview_
+
+![Barn](../assets/Paradise_meadows_farm_barn.jpg)
+
+_Barn_
+
+![Farmhouse](../assets/Paradise_meadows_farmhouse.jpg)
+
+_Farmhouse_
+
+![Interior](../assets/Paradise_meadows_farmhouse_interior_2.jpg)
+
+_Interior_
+
+**Location**
+
+![](../assets/Paradise_Meadows_Farm_Location.png)
+
+_Paradise\_Meadows\_Farm\_Location.png_
+
+Region
+
+[Mountain Town](./Mountain%20Town.md)\|-
+
+Location
+
+**Description:** A farmhouse and several outbuildings
+
+**General**
+
+Type
+
+Residential\|-
+
+Firebox
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+Has a bed
+
+![](../assets/Workbench_icon_green.png)
+
+_workbench\_icon\_green.png_
+
+Has a workbench\|-
+
+**Missions:** [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 **Paradise Meadows Farm** or **The Barker Farm** is a location a short distance from [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. It was home to farmer [Martin Barker](./Martin%20Barker.md).
 
@@ -116,5 +158,3 @@ _An office in the farmhouse_
 ![The bedroom](../assets/Paradise_meadows_farmhouse_bedroom.jpg)
 
 _The bedroom_
-
-[ru:Ферма "Райские луга"](ru:%D0%A4%D0%B5%D1%80%D0%BC%D0%B0_"%D0%A0%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D1%83%D0%B3%D0%B0")

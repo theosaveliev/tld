@@ -11,26 +11,37 @@
 
 **Cheated Death Penalty**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cheated_Death_Penalty_icon.png) / _Cheated\_Death\_Penalty\_icon.png_ |
-| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
-| Update | 2.28 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | You have Cheated Death. Your maximum Condition is reduced each time you respawn. |
-| Caused By | [Cheat Death](./Cheat%20Death.md) |
-| Effect | Negative |
-| Type | Injury |
-| Affliction Duration | Until Recovery Time passes or Permanent Affliction |
-| **Treatment** |  |
-| Recovery Time | See Charts |
+![](../assets/Cheated_Death_Penalty_icon.png)
+
+_Cheated\_Death\_Penalty\_icon.png_
+
+**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
+
+**Update:** 2.28
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** You have Cheated Death. Your maximum Condition is reduced each time you respawn.
+
+**Caused By:** [Cheat Death](./Cheat%20Death.md)
+
+**Effect:** Negative
+
+**Type:** Injury
+
+**Affliction Duration:** Until Recovery Time passes or Permanent Affliction
+
+**Treatment**
+
+**Recovery Time:** See Charts
 
 **Cheated Death Penalty** is an [Affliction](./Afflictions.md) acquired after choosing to [Cheat Death](./Cheat%20Death.md) in [Survival Mode](./Survival%20Mode.md).
 
 ## Overview
 
-> “__You have Cheated Death. Your maximum Condition is reduced each time you respawn.__”
+> “**You have Cheated Death. Your maximum Condition is reduced each time you respawn.**”
 
 ![Cheat\_Death\_Penalty.jpg](../assets/Cheat_Death_Penalty.jpg) The punishment for cheating death and continuing your save file always involves choosing between a great penalty that is temporary, or a smaller penalty that is permanent. The player can choose a mix of the two choices and their consequences as they die. Both penalties impact the [Condition](./Condition.md) bar, and will always be paired with the [Weakened State](./Weakened%20State.md) Affliction upon awakening after cheating death.
 

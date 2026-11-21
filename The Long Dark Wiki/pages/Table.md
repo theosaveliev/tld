@@ -13,15 +13,49 @@
 
 **Table**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Small](../assets/Small_Table.jpg) / _Small_ / ![Recreation](../assets/Recreation_Table.jpg) / _Recreation_ / ![Broken](../assets/Small_Broken_Table.jpg) / _Broken_ / ![Coffee](../assets/Coffee_Table.jpg) / _Coffee_ / ![Nightstand](../assets/Nightstand_Table.jpg) / _Nightstand_ / ![Medium](../assets/Medium_Table.jpg) / _Medium_ / ![Dining](../assets/Dining_Table.jpg) / _Dining_ | 250px\]\] |
-| ![Small](../assets/Small_Table.jpg) / _Small_ | ![Recreation](../assets/Recreation_Table.jpg) / _Recreation_ / ![Broken](../assets/Small_Broken_Table.jpg) / _Broken_ / ![Coffee](../assets/Coffee_Table.jpg) / _Coffee_ |
-| ![Nightstand](../assets/Nightstand_Table.jpg) / _Nightstand_ | ![Medium](../assets/Medium_Table.jpg) / _Medium_ / ![Dining](../assets/Dining_Table.jpg) / _Dining_ |
-| **General** |  |
-| Item Type | Item |
-| Wintermute | Yes\|- / **Statistics** |
-| Harvest | [Reclaimed Wood](./Reclaimed%20Wood.md) |
+\[\[File: / ![Small](../assets/Small_Table.jpg) / _Small_ / ![Recreation](../assets/Recreation_Table.jpg) / _Recreation_ / ![Broken](../assets/Small_Broken_Table.jpg) / _Broken_ / ![Coffee](../assets/Coffee_Table.jpg) / _Coffee_ / ![Nightstand](../assets/Nightstand_Table.jpg) / _Nightstand_ / ![Medium](../assets/Medium_Table.jpg) / _Medium_ / ![Dining](../assets/Dining_Table.jpg) / _Dining_
+
+250px\]\]
+
+![Small](../assets/Small_Table.jpg)
+
+_Small_
+
+![Recreation](../assets/Recreation_Table.jpg)
+
+_Recreation_
+
+![Broken](../assets/Small_Broken_Table.jpg)
+
+_Broken_
+
+![Coffee](../assets/Coffee_Table.jpg)
+
+_Coffee_
+
+![Nightstand](../assets/Nightstand_Table.jpg)
+
+_Nightstand_
+
+![Medium](../assets/Medium_Table.jpg)
+
+_Medium_
+
+![Dining](../assets/Dining_Table.jpg)
+
+_Dining_
+
+**General**
+
+**Item Type:** Item
+
+Wintermute
+
+Yes\|-
+
+**Statistics**
+
+**Harvest:** [Reclaimed Wood](./Reclaimed%20Wood.md)
 
 **Tables** are wooden furniture that can be harvested with a [Hatchet](./Hatchet.md) to receive [Reclaimed Wood](./Reclaimed%20Wood.md).
 

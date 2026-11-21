@@ -4,11 +4,18 @@
 
 **Juniper Runoff**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Juniper_Runoff.jpg) / _Juniper\_Runoff.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Juniper_Runoff_Location.png) / _Juniper\_Runoff\_Location.png_ |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
-| Description | A large slope below Perilous Crossing |
-| **General** |  |
+![](../assets/Juniper_Runoff.jpg)
+
+_Juniper\_Runoff.jpg_
+
+**Location**
+
+![](../assets/Juniper_Runoff_Location.png)
+
+_Juniper\_Runoff\_Location.png_
+
+**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+
+**Description:** A large slope below Perilous Crossing
+
+**General**

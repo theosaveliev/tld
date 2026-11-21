@@ -12,25 +12,51 @@
 
 **Coho Salmon (Raw)**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Raw](../assets/Coho_Salmon_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Coho_Salmon_%28Raw%29_Open_icon.png) / _Opened_ | 250px\]\] |
-| ![Raw](../assets/Coho_Salmon_%28Raw%29_icon.png) / _Raw_ | ![Opened](../assets/Coho_Salmon_%28Raw%29_Open_icon.png) / _Opened_ |
-| Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- / Equipable |
-| Stackable | No |
-| Examine | A formidable West Coast fish. Grows to a good size. |
-| **Values** |  |
-| Calories | 1650 kcal |
-| Hydration | 0% |
-| [Vitamin C](./Scurvy.md) | Minor (12%) |
-| Weight | 5.5 kg (12.1 lbs) |
-| Oil/Weight | 0,032 |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_RawCohoSalmon |
+\[\[File: / ![Raw](../assets/Coho_Salmon_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Coho_Salmon_%28Raw%29_Open_icon.png) / _Opened_
+
+250px\]\]
+
+![Raw](../assets/Coho_Salmon_%28Raw%29_icon.png)
+
+_Raw_
+
+![Opened](../assets/Coho_Salmon_%28Raw%29_Open_icon.png)
+
+_Opened_
+
+**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+Item type
+
+[Food And Drink](./Food%20And%20Drink.md)\|-
+
+Equipable
+
+**Stackable:** No
+
+**Examine:** A formidable West Coast fish. Grows to a good size.
+
+**Values**
+
+**Calories:** 1650 kcal
+
+**Hydration:** 0%
+
+**[Vitamin C](./Scurvy.md):** Minor (12%)
+
+**Weight:** 5.5 kg (12.1 lbs)
+
+**Oil/Weight:** 0,032
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_RawCohoSalmon
 
 _For the cooked version, see [Coho Salmon (Cooked)](./Coho%20Salmon%20%28Cooked%29.md)._
 

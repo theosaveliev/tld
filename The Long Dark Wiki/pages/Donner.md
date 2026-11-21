@@ -13,20 +13,31 @@
 
 **Donner**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Donner.png) / _donner.png_ |
-| Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
-| Location(s) | [Blackrock Prison](./Blackrock%20Prison.md) |
-| **Biographical Information** |  |
-| Status | Deceased |
-| Relatives | [Mathis](./Mathis.md) (Father) |
-| Occupation | Psychopath Criminal |
-| **Physical Information** |  |
-| Sex | Male |
-| Hair | Dirty Blonde |
-| **Game Information** |  |
-| Voiced by | Vincent Tong |
+![](../assets/Donner.png)
+
+_donner.png_
+
+**Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
+
+**Location(s):** [Blackrock Prison](./Blackrock%20Prison.md)
+
+**Biographical Information**
+
+**Status:** Deceased
+
+**Relatives:** [Mathis](./Mathis.md) (Father)
+
+**Occupation:** Psychopath Criminal
+
+**Physical Information**
+
+**Sex:** Male
+
+**Hair:** Dirty Blonde
+
+**Game Information**
+
+**Voiced by:** Vincent Tong
 
 _For the mission of the same name, see [Donner (mission)](./Donner%20%28mission%29.md)._
 
@@ -36,7 +47,7 @@ _For the mission of the same name, see [Donner (mission)](./Donner%20%28mission%
 >
 > — [What I Know](./What%20I%20Know.md) description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __If Mathis is bad, Donner is...Biblical bad.__
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **If Mathis is bad, Donner is...Biblical bad.**
 
 [Franklin](./Franklin.md)
 
@@ -54,7 +65,7 @@ In Episode 5, he wears glasses.
 
 ### [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
 
-> “__Donner is a once-in-a-generation criminal. Donner gets out...he will make it his personal mission to find and hurt every living human he can get his hands on...between Blackrock and the Mainland. Just for shits and giggles.__”
+> “**Donner is a once-in-a-generation criminal. Donner gets out...he will make it his personal mission to find and hurt every living human he can get his hands on...between Blackrock and the Mainland. Just for shits and giggles.**”
 >
 > — [Jace](./Jace.md)
 
@@ -66,7 +77,7 @@ Due to the combined actions of Will Mackenzie and [Jace](./Jace.md), an explosio
 
 ### [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
 
-> “__D.... Dad? I saw it. Lights. The lights. They called to me. And. I found... water. Black water. It was all... lights and black water. Then... nothing. Nothing but dark.__”
+> “**D.... Dad? I saw it. Lights. The lights. They called to me. And. I found... water. Black water. It was all... lights and black water. Then... nothing. Nothing but dark.**”
 >
 > — Donner's first and last words before dying of his injuries
 

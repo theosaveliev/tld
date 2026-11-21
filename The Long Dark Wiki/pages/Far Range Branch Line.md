@@ -10,15 +10,25 @@
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 
-![Far Range Branch Line first look](../assets/Far_range_line_first_look.png)
+![](../assets/Ptarmigan_icon.png)
 
-_Far range line first look._
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+![](../assets/Far_range_line_first_look.png)
+
+_Far\_range\_line\_first\_look.png_
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
-![Far Range Branch Line location](../assets/Far_Range_Branch_Line_Location.png)
+![](../assets/Far_Range_Branch_Line_Location.png)
 
-![Far Range Branch Line](../assets/FarRangeBranchLine.png)
+_Far\_Range\_Branch\_Line\_Location.png_
+
+![](../assets/FarRangeBranchLine.png)
+
+_FarRangeBranchLine.png_
 
 **Details**
 
@@ -36,10 +46,14 @@ _Far range line first look._
 
 **Date Added:** Dec 5, 2022
 
-> “Travel down the Far Range Branch Line and arrive at Transfer Pass, the railway hub providing access to the foothills of the Far Range. The journey is a long and harrowing trek from Broken Railroad region, deep into the heart of Great Bear.”
+> “**Travel down the Far Range Branch Line and arrive at Transfer Pass, the railway hub providing access to the foothills of the Far Range. The journey is a long and harrowing trek from Broken Railroad region, deep into the heart of Great Bear.**”
 >
 > — Official Marketing Description
 
 ![A detailed map of the Far Range Branch Line v2.32 (includes spoilers)](../assets/FRBL_map.png)
 
+_A detailed map of the Far Range Branch Line v2.32 (includes spoilers)_
+
 ![A detailed map of the Far Range Branch Line v2.32 (Interloper/Misery edition, includes spoilers)](../assets/FRBL_map_loper.png)
+
+_A detailed map of the Far Range Branch Line v2.32 (Interloper/Misery edition, includes spoilers)_

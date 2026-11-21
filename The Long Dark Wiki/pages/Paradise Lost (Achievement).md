@@ -4,10 +4,11 @@
 
 **Paradise Lost**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Paradise_Lost_%28Achievement%29_icon.png) / _Paradise\_Lost\_(Achievement)\_icon.png_ |
-| Description | Make your way to Milton. |
+![](../assets/Paradise_Lost_%28Achievement%29_icon.png)
+
+_Paradise\_Lost\_(Achievement)\_icon.png_
+
+**Description:** Make your way to Milton.
 
 **Paradise Lost** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

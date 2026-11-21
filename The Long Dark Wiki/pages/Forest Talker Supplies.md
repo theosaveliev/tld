@@ -4,22 +4,35 @@
 
 **Forest Talker Supplies**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Forest_Talker_Supplies_icon.png) / _Forest\_Talker\_Supplies\_icon.png_ |
-| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Lake Gunshots](./Lake%20Gunshots.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A backpack full of supplies presumably stashed here by the Forest Talkers. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Leave It |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_TrailerSupplies |
+![](../assets/Forest_Talker_Supplies_icon.png)
+
+_Forest\_Talker\_Supplies\_icon.png_
+
+**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00)
+
+**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Lake Gunshots](./Lake%20Gunshots.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A backpack full of supplies presumably stashed here by the Forest Talkers.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_TrailerSupplies
 
 **Forest Talker Supplies** are a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode during the [Lake Gunshots](./Lake%20Gunshots.md) side mission.
 

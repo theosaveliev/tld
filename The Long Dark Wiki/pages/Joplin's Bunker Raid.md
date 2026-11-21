@@ -10,7 +10,7 @@
 | Current | Joplin's Bunker Raid |
 | Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 
-> “__The Forest Talkers have been raiding Joplin's prepper caches. Whatever supplies remain could help you survive Pleasant Valley long enough to find a way out. Search the caches to see what's left.__”
+> “**The Forest Talkers have been raiding Joplin's prepper caches. Whatever supplies remain could help you survive Pleasant Valley long enough to find a way out. Search the caches to see what's left.**”
 
 **Joplin's Bunker Raid** is a side mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) must search for bunkers scattered throughout Pleasant Valley.
 

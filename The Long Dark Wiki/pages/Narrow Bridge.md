@@ -4,12 +4,20 @@
 
 **Narrow Bridge**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Narrow_Bridge.jpg) / _Narrow\_Bridge.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Narrow_Bridge_Location.png) / _Narrow\_Bridge\_Location.png_ |
-| Region |  |
-| Location | Crosses the non-frozen river near the Old Substation |
-| **General** |  |
-| Type | Landmark\|- |
+![](../assets/Narrow_Bridge.jpg)
+
+_Narrow\_Bridge.jpg_
+
+**Location**
+
+![](../assets/Narrow_Bridge_Location.png)
+
+_Narrow\_Bridge\_Location.png_
+
+Region
+
+**Location:** Crosses the non-frozen river near the Old Substation
+
+**General**
+
+**Type:** Landmark\|-

@@ -13,7 +13,7 @@
 
 **Fir Firewood**
 
-![Fir Firewood](../assets/Fir_Firewood_icon.png)
+![](../assets/Fir_Firewood_icon.png)
 
 _Fir\_Firewood\_icon.png_
 
@@ -25,9 +25,9 @@ _Fir\_Firewood\_icon.png_
 
 **Properties**
 
-**Item type:** [Fire Starting](./Fire%20Starting.md)
+**Item type:** [Fire Starting](./Fire%20Starting.md)\|-
 
-**Stackable:** Yes
+**Stackable:** yes
 
 **Examine:** While not technically a hardwood, fir burns like one.
 
@@ -37,7 +37,7 @@ _Fir\_Firewood\_icon.png_
 
 **Advanced data**
 
-**Item key:** `gear_hardwood`
+**Item key:** gear\_hardwood
 
 **Fir Firewood** is a fuel for fires in _[The Long Dark](./The%20Long%20Dark.md)_, it also is a material for repairing the [Heavy Hammer](./Heavy%20Hammer.md).
 
@@ -46,8 +46,6 @@ _Fir\_Firewood\_icon.png_
 Fir Firewood can be harvested from downed Fir Limbs found outdoors with a [tool](./Tools.md). It can also be found inside of structures, firewood bins, rotten tree trunks, or near campfires and corpses. It can also be found by [Beachcombing](./Beachcombing.md). Fir has no bonus [fire-starting](./Fire%20Starting.md) chance, and is thus unfavorable for starting [Fire](./Fire.md) with.
 
 ## Fire Starting info
-
-**Fir Firewood**
 
 **Fir Firewood**
 

@@ -14,23 +14,37 @@
 
 **Cabin Fever**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cabin_Fever_icon.png) / _Cabin\_Fever\_icon.png_ |
-| Release | [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.338) |
-| Update | 0.338 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | You've been indoors so long you feel like the walls are closing in. You will be unable to sleep indoors for 24 hours. |
-| Caused By | Spending too much time indoors |
-| Effect | Negative |
-| Type | Disease |
-| Affliction Duration | Until Recovery Time passes |
-| **Treatment** |  |
-| Treatment | Spend time outdoors |
-| Recovery Time | 24 hours |
-| **Advanced Data** |  |
-| Item Key | GAMEPLAY\_CabinFeverRisk |
+![](../assets/Cabin_Fever_icon.png)
+
+_Cabin\_Fever\_icon.png_
+
+**Release:** [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.338)
+
+**Update:** 0.338
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** You've been indoors so long you feel like the walls are closing in. You will be unable to sleep indoors for 24 hours.
+
+**Caused By:** Spending too much time indoors
+
+**Effect:** Negative
+
+**Type:** Disease
+
+**Affliction Duration:** Until Recovery Time passes
+
+**Treatment**
+
+**Treatment:** Spend time outdoors
+
+**Recovery Time:** 24 hours
+
+**Advanced Data**
+
+**Item Key:** GAMEPLAY\_CabinFeverRisk
 
 **Cabin Fever** is an [Affliction](./Afflictions.md) in _[The Long Dark](./The%20Long%20Dark.md)_. This Affliction only appears when playing on the [Voyageur](./Voyageur.md), [Stalker](./Stalker.md), [Interloper](./Interloper.md), [Misery](./Misery.md), or enabled on [Custom](./Custom.md) experiences in [Survival Mode](./Survival%20Mode.md), or Hardened Survivor in [Wintermute](./Wintermute.md).
 
@@ -38,7 +52,7 @@ Starting a Survival Mode game with the Settled Mind [Feat](./Feats.md) selected 
 
 ## Overview
 
-> “__You've been indoors so long you feel like the walls are closing in. You will be unable to sleep indoors for 24 hours.__”
+> “**You've been indoors so long you feel like the walls are closing in. You will be unable to sleep indoors for 24 hours.**”
 >
 > — In-game description
 
@@ -81,13 +95,37 @@ Here are a few examples:
 
 Some [Cooking](./Cooking.md) Recipes increases the amount of time considered as spent outdoors when consumed, based on the amount eaten. However, they require many ingredients to make and give only a few hours of additional time at most.
 
-| Item | Name |
-| --- | --- |
-| ![](../assets/Breyerhouse_Pie_icon.png) / _Breyerhouse\_Pie\_icon.png_ | [Breyerhouse Pie](./Breyerhouse%20Pie.md) |
-| ![](../assets/Coastal_Fishcakes_icon.png) / _Coastal\_Fishcakes\_icon.png_ | [Coastal Fishcakes](./Coastal%20Fishcakes.md) |
-| ![](../assets/Dockworker%27s_Pie_icon.png) / _Dockworker's\_Pie\_icon.png_ | [Dockworker's Pie](./Dockworker%27s%20Pie.md) |
-| ![](../assets/Prepper%27s_Pie_icon.png) / _Prepper's\_Pie\_icon.png_ | [Prepper's Pie](./Prepper%27s%20Pie.md) |
-| ![](../assets/Stalker%27s_Pie_icon.png) / _Stalker's\_Pie\_icon.png_ | [Stalker's Pie](./Stalker%27s%20Pie.md) |
+**Item:** Name
+
+![](../assets/Breyerhouse_Pie_icon.png)
+
+_Breyerhouse\_Pie\_icon.png_
+
+[Breyerhouse Pie](./Breyerhouse%20Pie.md)
+
+![](../assets/Coastal_Fishcakes_icon.png)
+
+_Coastal\_Fishcakes\_icon.png_
+
+[Coastal Fishcakes](./Coastal%20Fishcakes.md)
+
+![](../assets/Dockworker%27s_Pie_icon.png)
+
+_Dockworker's\_Pie\_icon.png_
+
+[Dockworker's Pie](./Dockworker%27s%20Pie.md)
+
+![](../assets/Prepper%27s_Pie_icon.png)
+
+_Prepper's\_Pie\_icon.png_
+
+[Prepper's Pie](./Prepper%27s%20Pie.md)
+
+![](../assets/Stalker%27s_Pie_icon.png)
+
+_Stalker's\_Pie\_icon.png_
+
+[Stalker's Pie](./Stalker%27s%20Pie.md)
 
 ## Interloper/Misery
 

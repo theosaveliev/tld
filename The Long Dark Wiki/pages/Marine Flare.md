@@ -14,15 +14,21 @@
 
 **Marine Flare**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Marine_Flare_icon.png) / _Marine\_Flare\_icon.png_ |
-| **General** |  |
-| Item Type | Tool\|- |
-| Firestarting Slot | Starter |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
-| Bonus chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+5% |
+![](../assets/Marine_Flare_icon.png)
+
+_Marine\_Flare\_icon.png_
+
+**General**
+
+**Item Type:** Tool\|-
+
+**Firestarting Slot:** Starter
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+
+**Bonus chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+5%
 
 **Template:quote2**
 

@@ -4,23 +4,35 @@
 
 **Ski Gloves**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Ski_Gloves_icon.png) / _Ski\_Gloves\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Hands |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)3% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-1% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition |
+![](../assets/Ski_Gloves_icon.png)
 
-> “__Nylon ski gloves that go well beyond the wrist. Synthetic insulation keeps the hands warm, and the outer layer is nicely waterproof.__”
+_Ski\_Gloves\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Hands
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)3%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-1%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition
+
+> “**Nylon ski gloves that go well beyond the wrist. Synthetic insulation keeps the hands warm, and the outer layer is nicely waterproof.**”
 >
 > — In-game description
 

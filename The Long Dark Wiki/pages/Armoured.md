@@ -4,18 +4,27 @@
 
 **Armoured**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Armoured_icon.png) / _Armoured\_icon.png_ |
-| Release | [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98) |
-| Description | You're armoured up. Wearing the Ballistic Vest gives you outstanding physical Protection. |
-| **Properties** |  |
-| Type | Benefit |
-| Caused By | [Ballistic Vest](./Ballistic%20Vest.md) |
-| Effect | Positive |
-| Duration | Until [Ballistic Vest](./Ballistic%20Vest.md) is removed or ruined. |
-| **Advanced Data** |  |
-| Item Key | GAMEPLAY\_BallisticVestBuff |
+![](../assets/Armoured_icon.png)
+
+_Armoured\_icon.png_
+
+**Release:** [7 December 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98)
+
+**Description:** You're armoured up. Wearing the Ballistic Vest gives you outstanding physical Protection.
+
+**Properties**
+
+**Type:** Benefit
+
+**Caused By:** [Ballistic Vest](./Ballistic%20Vest.md)
+
+**Effect:** Positive
+
+**Duration:** Until [Ballistic Vest](./Ballistic%20Vest.md) is removed or ruined.
+
+**Advanced Data**
+
+**Item Key:** GAMEPLAY\_BallisticVestBuff
 
 **Armoured** is a positive [Affliction](./Afflictions.md) obtained when wearing a [Ballistic Vest](./Ballistic%20Vest.md) in the [Accessories](./Clothing.md#Accessories) slot. The Affliction remains in effect as long as the Ballistic Vest remains equipped.
 

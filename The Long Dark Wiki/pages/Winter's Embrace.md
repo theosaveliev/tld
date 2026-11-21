@@ -4,14 +4,17 @@
 
 **Winter's Embrace**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Winters_embrace_poster.png) / _Winters\_embrace\_poster.png_ |
-| **Details** |  |
-| Description | Survive an ever increasing freezing world will hunting for the new Maple Syrup and Ketchup Chip items |
-| Difficulty | Voyager |
+![](../assets/Winters_embrace_poster.png)
 
-> “__Surviving in the cold Canadian winter on Great Bear Island has never been easy. This Summer, however, it's going to be even harder with our first summer seasonal event Winter's Embrace. The temperature is dropping even lower and surviving will be even more of a struggle. But survive you must if you want to earn two all-new limited-time Badges in the game. These exclusive rewards are only available during Winter's Embrace which runs from June 29th through to July 31st. There will also be all-new features and in-game items added to the game to give you a new experience, and a touch of Canadiana as you venture out into the snowy wilds.__”
+_Winters\_embrace\_poster.png_
+
+**Details**
+
+**Description:** Survive an ever increasing freezing world will hunting for the new Maple Syrup and Ketchup Chip items
+
+**Difficulty:** Voyager
+
+> “**Surviving in the cold Canadian winter on Great Bear Island has never been easy. This Summer, however, it's going to be even harder with our first summer seasonal event Winter's Embrace. The temperature is dropping even lower and surviving will be even more of a struggle. But survive you must if you want to earn two all-new limited-time Badges in the game. These exclusive rewards are only available during Winter's Embrace which runs from June 29th through to July 31st. There will also be all-new features and in-game items added to the game to give you a new experience, and a touch of Canadiana as you venture out into the snowy wilds.**”
 
 Winter's Embrace was an event [Challenge](./Challenge.md) that previously ran throughout the month of July 2020.
 

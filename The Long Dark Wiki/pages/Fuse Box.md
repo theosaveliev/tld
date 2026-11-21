@@ -4,9 +4,12 @@
 
 **Fuse Box**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Fuse_Box.jpg) / _Fuse\_Box.jpg_ |
-| Story item | Yes |
-| **Container** |  |
-| Capacity | 0.20 kg(0.44 lbs) |
+![](../assets/Fuse_Box.jpg)
+
+_Fuse\_Box.jpg_
+
+**Story item:** Yes
+
+**Container**
+
+**Capacity:** 0.20 kg(0.44 lbs)

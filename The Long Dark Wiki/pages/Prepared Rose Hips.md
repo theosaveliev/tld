@@ -14,16 +14,21 @@
 
 **Prepared Rose Hips**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Prepared_Rose_Hips_icon.png) / _Prepared\_Rose\_Hips\_icon.png_ |
-| **General** |  |
-| Item Type |  |
-| Wintermute | No |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.05 kg(0.11 lbs) |
+![](../assets/Prepared_Rose_Hips_icon.png)
 
-> “__Rose hips that are ready to be boiled to make a healing natural tea.__”
+_Prepared\_Rose\_Hips\_icon.png_
+
+**General**
+
+Item Type
+
+**Wintermute:** No
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.05 kg(0.11 lbs)
+
+> “**Rose hips that are ready to be boiled to make a healing natural tea.**”
 >
 > — In-game description
 

@@ -19,7 +19,7 @@
 
 _The main menu background during the event_
 
-> “__An endless night has arrived on Great Bear Island. Use your wits, and whatever you can find, to survive.__”
+> “**An endless night has arrived on Great Bear Island. Use your wits, and whatever you can find, to survive.**”
 >
 > — In-game description
 

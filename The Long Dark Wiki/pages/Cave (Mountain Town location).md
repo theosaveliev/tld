@@ -4,12 +4,20 @@
 
 **Cave**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Milton_cave.png) / _Milton\_cave.png_ |
-| **Location** |  |
-|  | ![](../assets/Cave_Mountain_Town_Location.png) / _Cave\_Mountain\_Town\_Location.png_ |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
-| Description | A moderately sized explorable cave |
-| **General** |  |
-| Type | Cave\|- |
+![](../assets/Milton_cave.png)
+
+_Milton\_cave.png_
+
+**Location**
+
+![](../assets/Cave_Mountain_Town_Location.png)
+
+_Cave\_Mountain\_Town\_Location.png_
+
+**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+
+**Description:** A moderately sized explorable cave
+
+**General**
+
+**Type:** Cave\|-

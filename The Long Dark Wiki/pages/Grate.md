@@ -4,10 +4,14 @@
 
 **Grate**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Grate.jpg) / _Grate.jpg_ |
-| **General** |  |
-| Item Type | Item |
+![](../assets/Grate.jpg)
 
-|  | ![A revolver with ammunition hidden behind a grate](../assets/Grate_Revolver.jpg) / _A revolver with ammunition hidden behind a grate_ |
+_Grate.jpg_
+
+**General**
+
+**Item Type:** Item
+
+![A revolver with ammunition hidden behind a grate](../assets/Grate_Revolver.jpg)
+
+_A revolver with ammunition hidden behind a grate_

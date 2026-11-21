@@ -4,14 +4,36 @@
 
 **Rural Store**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Exterior](../assets/Rural_Store.png) / _Exterior_ / ![Interior](../assets/Rural_store.jpg) / _Interior_ | 250px\]\] |
-| ![Exterior](../assets/Rural_Store.png) / _Exterior_ | ![Interior](../assets/Rural_store.jpg) / _Interior_ |
-| **Location** |  |
-| ![](../assets/Rural_Store_Location.png) / _Rural\_Store\_Location.png_ |  |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- / Location |
-| Description | A small 2-room convenience store |
-| **General** |  |
-| Type |  |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ |  |
+\[\[File: / ![Exterior](../assets/Rural_Store.png) / _Exterior_ / ![Interior](../assets/Rural_store.jpg) / _Interior_
+
+250px\]\]
+
+![Exterior](../assets/Rural_Store.png)
+
+_Exterior_
+
+![Interior](../assets/Rural_store.jpg)
+
+_Interior_
+
+**Location**
+
+![](../assets/Rural_Store_Location.png)
+
+_Rural\_Store\_Location.png_
+
+Region
+
+[Pleasant Valley](./Pleasant%20Valley.md)\|-
+
+Location
+
+**Description:** A small 2-room convenience store
+
+**General**
+
+Type
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_

@@ -45,7 +45,7 @@ _Tales\_from\_the\_far\_territory\_title.jpg_
 
 ## Overview
 
-> “__Deep along the spine of Great Bear tracks a steep mountain range that bisects the island. This is the Far Range, an imposing wall of rock that stands vigilant over Great Bear's priceless resource riches. Over the decades, many have tried, few have succeeded to crack open the wealth within these rocks. And mysteries abound. Dark stories told around campfires, about abandoned mines and remote airfields that hold many secrets. Now, with the aurora blazing across the sky, is the Far Territory ready to surrender its stories? Will you survive long enough to wrest any truths from the rocky grasp of this old, dark territory?__”
+> “**Deep along the spine of Great Bear tracks a steep mountain range that bisects the island. This is the Far Range, an imposing wall of rock that stands vigilant over Great Bear's priceless resource riches. Over the decades, many have tried, few have succeeded to crack open the wealth within these rocks. And mysteries abound. Dark stories told around campfires, about abandoned mines and remote airfields that hold many secrets. Now, with the aurora blazing across the sky, is the Far Territory ready to surrender its stories? Will you survive long enough to wrest any truths from the rocky grasp of this old, dark territory?**”
 >
 > — Developer Diary, October 2022
 

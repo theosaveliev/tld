@@ -11,7 +11,7 @@
 - [Specificity](#specificity)
 - [Player skills](#player-skills)
 
-> “__We're more interested in making the game compelling, than we are in making it realistic. When the two are compatible, we embrace both.__”
+> “**We're more interested in making the game compelling, than we are in making it realistic. When the two are compatible, we embrace both.**”
 >
 > — Hinterland, 2015
 

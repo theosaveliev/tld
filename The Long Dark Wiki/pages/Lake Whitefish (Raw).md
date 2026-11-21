@@ -4,25 +4,51 @@
 
 **Lake Whitefish (Raw)**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Raw](../assets/Lake_Whitefish_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Lake_Whitefish_%28Raw%29_Open_icon.png) / _Opened_ | 250px\]\] |
-| ![Raw](../assets/Lake_Whitefish_%28Raw%29_icon.png) / _Raw_ | ![Opened](../assets/Lake_Whitefish_%28Raw%29_Open_icon.png) / _Opened_ |
-| Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- / Equipable |
-| Stackable | No |
-| Examine | A common freshwater fish. Small, but plentiful. |
-| **Values** |  |
-| Calories | 575 kcal |
-| Hydration | 0% |
-| [Vitamin C](./Scurvy.md) | Moderate (22%) |
-| Weight | 2.3 kg (5.06 lbs) |
-| Oil/Weight | 0,015 |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_RawLakeWhiteFish |
+\[\[File: / ![Raw](../assets/Lake_Whitefish_%28Raw%29_icon.png) / _Raw_ / ![Opened](../assets/Lake_Whitefish_%28Raw%29_Open_icon.png) / _Opened_
+
+250px\]\]
+
+![Raw](../assets/Lake_Whitefish_%28Raw%29_icon.png)
+
+_Raw_
+
+![Opened](../assets/Lake_Whitefish_%28Raw%29_Open_icon.png)
+
+_Opened_
+
+**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+Item type
+
+[Food And Drink](./Food%20And%20Drink.md)\|-
+
+Equipable
+
+**Stackable:** No
+
+**Examine:** A common freshwater fish. Small, but plentiful.
+
+**Values**
+
+**Calories:** 575 kcal
+
+**Hydration:** 0%
+
+**[Vitamin C](./Scurvy.md):** Moderate (22%)
+
+**Weight:** 2.3 kg (5.06 lbs)
+
+**Oil/Weight:** 0,015
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_RawLakeWhiteFish
 
 _For the cooked version, see [Lake Whitefish (Cooked)](./Lake%20Whitefish%20%28Cooked%29.md)._
 

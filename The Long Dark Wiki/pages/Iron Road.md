@@ -27,7 +27,7 @@
 
 _Iron\_Road\_logo.png_
 
-> “__Welcome to Cauldron Island. Lost to history, hiding a mystery. A vast northern chain of islands with 100km+ of railway winding its way across the craggy and desolate landscape, and the abandoned remnants of a once-thriving whaling industry there for you to discover.__”
+> “**Welcome to Cauldron Island. Lost to history, hiding a mystery. A vast northern chain of islands with 100km+ of railway winding its way across the craggy and desolate landscape, and the abandoned remnants of a once-thriving whaling industry there for you to discover.**”
 >
 > — Restore and activate a century-old train to travel deep along this forgotten caldera to uncover a dark secret. What you discover in the end will change how you survive in this Aurora-bathed world, forever. Official Marketing
 
@@ -41,7 +41,7 @@ Early Access launched October 27th, 2026 on Steam only. Updates are planned to b
 
 _Cauldron Island_
 
-> “__A century ago, a rich industrialist named Hamish McLeod harnessed the unique properties of Cauldron Island with a plan for economic domination through whale-oil powered technology. But this history was erased, and the dark truth about how things went wrong has been hidden in the past. Until now.__”
+> “**A century ago, a rich industrialist named Hamish McLeod harnessed the unique properties of Cauldron Island with a plan for economic domination through whale-oil powered technology. But this history was erased, and the dark truth about how things went wrong has been hidden in the past. Until now.**”
 >
 > — Get to Cauldron Island and uncover the truth. Follow the path laid by Alice McLeod, his great-granddaughter, who came here to crack the mystery of her family legacy. Because uncovering the mystery of Cauldron Island is core to your survival in this new Aurora-blasted world. And the journey Alice started is yours to complete. Official Marketing
 
@@ -206,5 +206,3 @@ _Iron\_Road\_Clothing\_Logo.png_
 &lt;div class="references-small" ;"&gt;
 
 ## Links
-
-[ru:Железная дорога](ru:%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0)

@@ -17,13 +17,17 @@
 
 **Oak Tree**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Oak_tree_in_Mystery_Lake_on_a_foggy_day.png) / _Oak\_tree\_in\_Mystery\_Lake\_on\_a\_foggy\_day.png_ |
-| Release | 2.10 |
-| Story item | No |
-| **Advanced data** |  |
-| Object key | GAMEPLAY\_FileCabinet |
+![](../assets/Oak_tree_in_Mystery_Lake_on_a_foggy_day.png)
+
+_Oak\_tree\_in\_Mystery\_Lake\_on\_a\_foggy\_day.png_
+
+**Release:** 2.10
+
+**Story item:** No
+
+**Advanced data**
+
+**Object key:** GAMEPLAY\_FileCabinet
 
 **Oak Trees** are stationary environmental objects in [_The Long Dark_](./The%20Long%20Dark.md). They serve as the primary source of [Acorns](./Acorns.md) for the player, which can be identified as brownish speckled patches near the base of each tree. Each oak tree will always contain at least 1 or 3 acorn patches for the player to harvest, with some having been already uncovered before the player arrives. Once uncovered, acorns do not respawn.
 

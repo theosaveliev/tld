@@ -11,17 +11,25 @@
 
 **Fresh Leather**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Fresh_Leather_icon.png) / _Fresh\_Leather\_icon.png_ |
-| Release | [9 July 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.05) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
-| Stackable | No |
-| Examine | Freshly harvested leather. / Can be used for crafting and repair after air-drying indoors for 5 days. |
-| **Values** |  |
-| Weight | 0.10 kg (0.22 lbs) |
+![](../assets/Fresh_Leather_icon.png)
+
+_Fresh\_Leather\_icon.png_
+
+**Release:** [9 July 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.05)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Materials](./Materials.md)\|-
+
+**Stackable:** No
+
+**Examine:** Freshly harvested leather. / Can be used for crafting and repair after air-drying indoors for 5 days.
+
+**Values**
+
+**Weight:** 0.10 kg (0.22 lbs)
 
 **Fresh Leather** is the very rare, uncured version of [Leather](./Cured%20Leather.md). It can be used as a [Material](./Materials.md) for crafting or repairing certain items once they have [Cured](./Curing.md) into [Cured Leather](./Cured%20Leather.md).
 
@@ -47,5 +55,3 @@ _Old model._
   - Animal skins and certain types of Wood now need to be Cured (Dried) before they can be used as raw materials for Crafting.
 - UPDATE **9 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.05)):**
   - Added to game.
-
-[ru:Свежая кожа](ru:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B0%D1%8F_%D0%BA%D0%BE%D0%B6%D0%B0)

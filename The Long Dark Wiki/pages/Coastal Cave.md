@@ -4,11 +4,16 @@
 
 **Coastal Cave**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
-| **Location** |  |
-| Region |  |
-| Location | Connects [Forsaken Shore](./Forsaken%20Shore.md) and [Mountain Pass](./Mountain%20Pass.md) |
-| **General** |  |
-| Type | Cave\|- |
+![](../assets/No_picture.png)
+
+_No\_picture.png_
+
+**Location**
+
+Region
+
+**Location:** Connects [Forsaken Shore](./Forsaken%20Shore.md) and [Mountain Pass](./Mountain%20Pass.md)
+
+**General**
+
+**Type:** Cave\|-

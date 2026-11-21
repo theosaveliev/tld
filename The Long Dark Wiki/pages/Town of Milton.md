@@ -4,19 +4,29 @@
 
 **Town of Milton**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Town_of_Milton_icon.png) / _Town\_of\_Milton\_icon.png_ |
-| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/Town_of_Milton_icon.png)
+
+_Town\_of\_Milton\_icon.png_
+
+**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **Town of Milton** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode, and can be found on the desk in the [Post Office](./Milton%20Post%20Office.md).
 

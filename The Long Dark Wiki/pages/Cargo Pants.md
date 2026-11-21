@@ -4,23 +4,35 @@
 
 **Cargo Pants**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cargo_Pants_icon.png) / _Cargo\_Pants\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer legs |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.5 °C(2.7 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)3% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-1% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 30 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 30% condition |
+![](../assets/Cargo_Pants_icon.png)
 
-> “__Cotton pants with reinforced areas. Will take a bit of punishment.__”
+_Cargo\_Pants\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Outer legs
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.5 °C(2.7 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)3%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-1%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 30 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 30 minutes / 30% condition
+
+> “**Cotton pants with reinforced areas. Will take a bit of punishment.**”
 >
 > — In-game description
 

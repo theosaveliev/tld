@@ -4,23 +4,35 @@
 
 **Thick Wool Sweater**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Thick_Wool_Sweater_icon.png) / _Thick\_Wool\_Sweater\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Inner torso |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.5 °C(2.7 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)3% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-1% |
-| Harvest | 1 × [Cloth](./Cloth.md) / 45 minutes |
-| Repair | 1 × [Cloth](./Cloth.md) / 60 minutes / 30% condition |
+![](../assets/Thick_Wool_Sweater_icon.png)
 
-> “__Thick wool sweater. Will keep your core warm, even when wet.__”
+_Thick\_Wool\_Sweater\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Inner torso
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.5 °C(2.7 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)3%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-1%
+
+**Harvest:** 1 × [Cloth](./Cloth.md) / 45 minutes
+
+**Repair:** 1 × [Cloth](./Cloth.md) / 60 minutes / 30% condition
+
+> “**Thick wool sweater. Will keep your core warm, even when wet.**”
 >
 > — In-game description
 

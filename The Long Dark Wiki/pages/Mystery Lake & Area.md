@@ -4,19 +4,29 @@
 
 **Mystery Lake &amp; Area**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Mystery_Lake_%26_Area_icon.png) / _Mystery\_Lake\_&amp;\_Area\_icon.png_ |
-| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/Mystery_Lake_%26_Area_icon.png)
+
+_Mystery\_Lake\_&amp;\_Area\_icon.png_
+
+**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **Mystery Lake &amp; Area** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode.
 

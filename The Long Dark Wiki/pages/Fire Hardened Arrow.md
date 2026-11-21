@@ -12,21 +12,31 @@
 
 **Fire Hardened Arrow**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Fire_Hardened_Arrow_icon.png) / _Fire\_Hardened\_Arrow\_icon.png_ |
-| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
-| Stackable | Yes |
-| **Values** |  |
-| Weight | 0.10 kg (0.22 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_ArrowHardened |
+![](../assets/Fire_Hardened_Arrow_icon.png)
 
-> “__A crude Arrow hardened in a fire. Fragile, but simple to Craft. Only effective against small game.__”
+_Fire\_Hardened\_Arrow\_icon.png_
+
+**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)\|-
+
+**Stackable:** Yes
+
+**Values**
+
+**Weight:** 0.10 kg (0.22 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_ArrowHardened
+
+> “**A crude Arrow hardened in a fire. Fragile, but simple to Craft. Only effective against small game.**”
 
 **Fire Hardened Arrows** are craftable ammuntion items in _The Long Dark_. They released in the free update of Part 2: Signal Void for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 

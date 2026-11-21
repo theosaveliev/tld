@@ -4,11 +4,30 @@
 
 **Hand Cart**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/HandCart.jpg) / _HandCart.jpg_ |
-| **General** |  |
-| Item Type | Item |
+![](../assets/HandCart.jpg)
 
-| Object | Scrap Metal / Time / Calories / Condition (of Hacksaw) |
-| Hand Cart | 4 / 1 hour 30 minutes / 270 / -5% |
+_HandCart.jpg_
+
+**General**
+
+**Item Type:** Item
+
+Object
+
+Scrap Metal
+
+Time
+
+Calories
+
+Condition (of Hacksaw)
+
+Hand Cart
+
+4
+
+1 hour 30 minutes
+
+270
+
+-5%

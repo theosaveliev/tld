@@ -4,16 +4,21 @@
 
 **Rifle Shell Casing**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Rifle_Shell_Casing_icon.png) / _Rifle\_Shell\_Casing\_icon.png_ |
-| **General** |  |
-| Item Type | Material\|- |
-| Renewable | Yes ([Trader](./Trader.md)) no (Interloper) |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.01 kg(0.02 lbs) |
+![](../assets/Rifle_Shell_Casing_icon.png)
 
-> “__Empty casing from firing a Rifle. Used for Crafting new Ammunition.__”
+_Rifle\_Shell\_Casing\_icon.png_
+
+**General**
+
+**Item Type:** Material\|-
+
+**Renewable:** Yes ([Trader](./Trader.md)) no (Interloper)
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
+
+> “**Empty casing from firing a Rifle. Used for Crafting new Ammunition.**”
 >
 > — In-game description
 
@@ -29,4 +34,4 @@ Rifle Shell Casings are an ingredient in the crafting of [Rifle Ammunition](./Ri
 
 ## Products
 
-**Template:materials** [ru:Ружейная гильза](ru:%D0%A0%D1%83%D0%B6%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B8%D0%BB%D1%8C%D0%B7%D0%B0)
+**Template:materials**

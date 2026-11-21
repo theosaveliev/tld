@@ -12,18 +12,25 @@
 
 **Lantern Fuel**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Lantern_Fuel_icon.png) / _Lantern\_Fuel\_icon.png_ |
-| **General** |  |
-| Item Type | Fire Starting\|- |
-| Renewable | Yes |
-| Firestarting Slot | Accelerant |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.00 - 0.50 kg(0 - 1.1 lbs) |
-| Bonus chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+40% |
+![](../assets/Lantern_Fuel_icon.png)
 
-> “__Small bottle of Lamp Fuel__”
+_Lantern\_Fuel\_icon.png_
+
+**General**
+
+**Item Type:** Fire Starting\|-
+
+**Renewable:** Yes
+
+**Firestarting Slot:** Accelerant
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.00 - 0.50 kg(0 - 1.1 lbs)
+
+**Bonus chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+40%
+
+> “**Small bottle of Lamp Fuel**”
 >
 > — In-game description
 

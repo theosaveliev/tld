@@ -4,23 +4,35 @@
 
 **Urban Parka**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Urban_Parka_icon.png) / _Urban\_Parka\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer torso |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)2.5 °C(4.5 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)10% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)2% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-2% |
-| Harvest | 3 × [Cloth](./Cloth.md) / 20 minutes |
-| Repair | 3 × [Cloth](./Cloth.md) / 60 minutes / 35% condition |
+![](../assets/Urban_Parka_icon.png)
 
-> “__Long, heavy down coat. More suitable to urban survivalists but the extra length might help keep your kidneys warm.__”
+_Urban\_Parka\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Outer torso
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)2.5 °C(4.5 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)10%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)2%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-2%
+
+**Harvest:** 3 × [Cloth](./Cloth.md) / 20 minutes
+
+**Repair:** 3 × [Cloth](./Cloth.md) / 60 minutes / 35% condition
+
+> “**Long, heavy down coat. More suitable to urban survivalists but the extra length might help keep your kidneys warm.**”
 >
 > — In-game description
 

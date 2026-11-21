@@ -13,25 +13,39 @@
 
 **Pleasant Valley**
 
-| Property | Details |
-| --- | --- |
-|  | ![Pleasant Valley Outbuildings](../assets/Pleasant_Valley_title_card.png) / _[Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Pleasant_Valley_Location.png) / _Pleasant\_Valley\_Location.png_ |
-|  | ![](../assets/Pleasant_valley_map.png) / _Pleasant\_valley\_map.png_ |
-| **Details** |  |
-| Description | A large open farmland basin surrounded by mountains on all sides, with a very ironic name. |
-| Connecting Regions | [Timberwolf Mountain](./Timberwolf%20Mountain.md), / [Coastal Highway](./Coastal%20Highway.md), / [Mystery Lake](./Mystery%20Lake%20%28region%29.md) _(via [Winding River](./Winding%20River.md))_, / [Blackrock](./Blackrock.md) _(via [Keeper's Pass South](./Keeper%27s%20Pass%20South.md))_ |
-| Difficulty | Advanced |
-| Interloper Region Spawn | Yes |
-| Locations | 33 |
-| Date Added | Feb 2015 |
+![Pleasant Valley Outbuildings](../assets/Pleasant_Valley_title_card.png)
 
-> “__For advanced players. A challenging, vast mountain wilderness region with a few key shelters, originally settled by hardy homesteaders.__”
+_[Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/Pleasant_Valley_Location.png)
+
+_Pleasant\_Valley\_Location.png_
+
+![](../assets/Pleasant_valley_map.png)
+
+_Pleasant\_valley\_map.png_
+
+**Details**
+
+**Description:** A large open farmland basin surrounded by mountains on all sides, with a very ironic name.
+
+**Connecting Regions:** [Timberwolf Mountain](./Timberwolf%20Mountain.md), / [Coastal Highway](./Coastal%20Highway.md), / [Mystery Lake](./Mystery%20Lake%20%28region%29.md) _(via [Winding River](./Winding%20River.md))_, / [Blackrock](./Blackrock.md) _(via [Keeper's Pass South](./Keeper%27s%20Pass%20South.md))_
+
+**Difficulty:** Advanced
+
+**Interloper Region Spawn:** Yes
+
+**Locations:** 33
+
+**Date Added:** Feb 2015
+
+> “**For advanced players. A challenging, vast mountain wilderness region with a few key shelters, originally settled by hardy homesteaders.**”
 >
 > — - In game description
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __You're not from around here, are you? Whoever named this area "Pleasant Valley" had a pretty good sense of humour. We get some of the harshest weather on all of Great Bear.__
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **You're not from around here, are you? Whoever named this area "Pleasant Valley" had a pretty good sense of humour. We get some of the harshest weather on all of Great Bear.**
 
 Father Thomas
 
@@ -174,5 +188,3 @@ _Draft\_Dodger's\_Cabin.jpg_
 ![](../assets/Signal_Hill.jpg)
 
 _Signal\_Hill.jpg_
-
-[es:Valle apacible](es:Valle_apacible) [fr:Vallée Charmante](fr:Vall%C3%A9e_Charmante)

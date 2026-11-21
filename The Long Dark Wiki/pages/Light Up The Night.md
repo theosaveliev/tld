@@ -14,14 +14,17 @@
 
 **Light Up The Night**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Distress_Pistol_icon.png) / _Distress\_Pistol\_icon.png_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Current | Light Up The Night |
-| Region | [Mountain Town](./Mountain%20Town.md) |
+![](../assets/Distress_Pistol_icon.png)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_Distress\_Pistol\_icon.png_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Current:** Light Up The Night
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 **Light Up The Night** was a side mission of the Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
@@ -29,7 +32,7 @@ This side mission has since been replaced by the [Highway Robbery (mission)](./H
 
 ## Official description
 
-> “__Grey Mother Trusts you enough to tell you about a Distress Pistol stashed away by one of her neighbours. If you can find it, it would make a useful Wolf deterrent.__”
+> “**Grey Mother Trusts you enough to tell you about a Distress Pistol stashed away by one of her neighbours. If you can find it, it would make a useful Wolf deterrent.**”
 
 ## Objectives
 

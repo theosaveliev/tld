@@ -11,22 +11,35 @@
 
 **Venison (Raw)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Venison_%28Raw%29_icon.png) / _Venison\_(Raw)\_icon.png_ |
-| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | Flesh from a deer. Cook to eat safely. |
-| **Values** |  |
-| Calories | 900 kcal |
-| Hydration | 0% |
-| Weight | 1.00 kg (2.2 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_VenisonRaw |
+![](../assets/Venison_%28Raw%29_icon.png)
+
+_Venison\_(Raw)\_icon.png_
+
+**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** Flesh from a deer. Cook to eat safely.
+
+**Values**
+
+**Calories:** 900 kcal
+
+**Hydration:** 0%
+
+**Weight:** 1.00 kg (2.2 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_VenisonRaw
 
 _For the cooked version, see [Venison (Cooked)](./Venison%20%28Cooked%29.md)._
 
@@ -75,5 +88,3 @@ _Old model._
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
-
-[ru:Оленина (сырая)](ru:%D0%9E%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0_%28%D1%81%D1%8B%D1%80%D0%B0%D1%8F%29)

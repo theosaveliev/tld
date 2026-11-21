@@ -4,10 +4,16 @@
 
 **Marsh Ridge**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Marsh_Ridge_aerial_view.jpg) / _Marsh\_Ridge\_aerial\_view.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Marsh_Ridge_Location.png) / _Marsh\_Ridge\_Location.png_ |
-| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
-| Type | Outdoors\|- |
+![](../assets/Marsh_Ridge_aerial_view.jpg)
+
+_Marsh\_Ridge\_aerial\_view.jpg_
+
+**Location**
+
+![](../assets/Marsh_Ridge_Location.png)
+
+_Marsh\_Ridge\_Location.png_
+
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|-
+
+**Type:** Outdoors\|-

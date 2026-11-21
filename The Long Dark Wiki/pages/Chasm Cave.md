@@ -4,11 +4,18 @@
 
 **Chasm Cave**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Chasm_Cave.jpg) / _Chasm\_Cave.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Chasm_Cave_Location.png) / _Chasm\_Cave\_Location.png_ |
-| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
-| **General** |  |
-| Type | Cave\|- |
+![](../assets/Chasm_Cave.jpg)
+
+_Chasm\_Cave.jpg_
+
+**Location**
+
+![](../assets/Chasm_Cave_Location.png)
+
+_Chasm\_Cave\_Location.png_
+
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+
+**General**
+
+**Type:** Cave\|-

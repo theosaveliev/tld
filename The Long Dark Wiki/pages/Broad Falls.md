@@ -4,10 +4,16 @@
 
 **Broad Falls**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/BroadFallsCloseup_1080p.png) / _BroadFallsCloseup\_1080p.png_ |
-| **Location** |  |
-|  | ![](../assets/Broad_Falls_Location.png) / _Broad\_Falls\_Location.png_ |
-| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
-| Type | Landmark\|- |
+![](../assets/BroadFallsCloseup_1080p.png)
+
+_BroadFallsCloseup\_1080p.png_
+
+**Location**
+
+![](../assets/Broad_Falls_Location.png)
+
+_Broad\_Falls\_Location.png_
+
+**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+
+**Type:** Landmark\|-

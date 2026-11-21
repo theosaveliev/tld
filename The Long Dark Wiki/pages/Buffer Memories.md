@@ -31,7 +31,7 @@
 - [Reloading Memories](#reloading-memories)
 - [Gallery](#gallery)
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __The Aurora can bring old Computers back to life, restoring old data left in their memory banks. These artifacts provide a glimpse of Great Bear before the lights went out.__
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **The Aurora can bring old Computers back to life, restoring old data left in their memory banks. These artifacts provide a glimpse of Great Bear before the lights went out.**
 
 [Load Screen](./Load%20Screen.md) Description
 

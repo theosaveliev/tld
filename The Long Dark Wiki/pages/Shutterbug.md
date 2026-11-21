@@ -4,10 +4,11 @@
 
 **Shutterbug**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Shutterbug_icon.png) / _Shutterbug\_icon.png_ |
-| Description | Take 10 photos with each film type – Colour, B&amp;W, and Sepia (single game). |
+![](../assets/Shutterbug_icon.png)
+
+_Shutterbug\_icon.png_
+
+**Description:** Take 10 photos with each film type – Colour, B&amp;W, and Sepia (single game).
 
 **Shutterbug** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

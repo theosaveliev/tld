@@ -4,15 +4,19 @@
 
 **Broken Arrow**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Broken_Arrow_icon.png) / _Broken\_Arrow\_icon.png_ |
-| **General** |  |
-| Item Type | Tool\|- |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.15 kg(0.33 lbs) |
-| Harvest | 1 × [Arrowhead](./Arrowhead.md) 2 × [Crow Feather](./Crow%20Feather.md) |
+![](../assets/Broken_Arrow_icon.png)
 
-> “__A broken arrow. The arrow-head and some of the feathers may be salvageable.__”
+_Broken\_Arrow\_icon.png_
+
+**General**
+
+**Item Type:** Tool\|-
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
+
+**Harvest:** 1 × [Arrowhead](./Arrowhead.md) 2 × [Crow Feather](./Crow%20Feather.md)
+
+> “**A broken arrow. The arrow-head and some of the feathers may be salvageable.**”
 >
 > — In-game description
 
@@ -38,5 +42,3 @@ _All Arrow types, with Fire Hardened Arrows on the left and Simple Arrows on the
 ![Old model.](../assets/Broken_Arrow.png)
 
 _Old model._
-
-[ru:Сломанная стрела](ru:%D0%A1%D0%BB%D0%BE%D0%BC%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%B0)

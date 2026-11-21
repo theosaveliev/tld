@@ -4,19 +4,29 @@
 
 **Bank Manager's House Key**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Bank_Manager%27s_House_Key_icon.png) / _Bank\_Manager's\_House\_Key\_icon.png_ |
-| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Bank Managers House Key. Will unlock one of the Houses in Milton. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/Bank_Manager%27s_House_Key_icon.png)
+
+_Bank\_Manager's\_House\_Key\_icon.png_
+
+**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Bank Managers House Key. Will unlock one of the Houses in Milton.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **Milton Hidden Cache Note** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md).
 

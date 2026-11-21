@@ -11,17 +11,25 @@
 
 **Cured Wolf Pelt**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cured_Wolf_Pelt_icon.png) / _Cured\_Wolf\_Pelt\_icon.png_ |
-| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
-| Stackable | No |
-| Examine | Fur from a Wolf. Warm, and striking to look at. Can be used for crafting and repair. |
-| **Values** |  |
-| Weight | 0.75 kg (1.65 lbs) |
+![](../assets/Cured_Wolf_Pelt_icon.png)
+
+_Cured\_Wolf\_Pelt\_icon.png_
+
+**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.233)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Materials](./Materials.md)\|-
+
+**Stackable:** No
+
+**Examine:** Fur from a Wolf. Warm, and striking to look at. Can be used for crafting and repair.
+
+**Values**
+
+**Weight:** 0.75 kg (1.65 lbs)
 
 **Cured Wolf Pelt** is the cured hide of a [Wolf](./Wolf.md), [Timberwolf](./Timberwolf.md), or [Poisoned Wolf](./Poisoned%20Wolf.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Wolfskin Coats](./Wolfskin%20Coat.md).
 

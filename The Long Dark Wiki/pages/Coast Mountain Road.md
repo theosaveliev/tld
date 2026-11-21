@@ -4,11 +4,18 @@
 
 **Coast Mountain Road**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/SS-BI-CoastMountainRoad01.jpg) / _SS-BI-CoastMountainRoad01.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Coast_Mountain_Road_Location.png) / _Coast\_Mountain\_Road\_Location.png_ |
-| Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
-| **General** |  |
-| Type | Outdoors\|- |
+![](../assets/SS-BI-CoastMountainRoad01.jpg)
+
+_SS-BI-CoastMountainRoad01.jpg_
+
+**Location**
+
+![](../assets/Coast_Mountain_Road_Location.png)
+
+_Coast\_Mountain\_Road\_Location.png_
+
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+
+**General**
+
+**Type:** Outdoors\|-

@@ -4,10 +4,11 @@
 
 **Waste Not, Want Not**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Waste_Not%2C_Want_Not_icon.png) / _Waste\_Not,\_Want\_Not\_icon.png_ |
-| Description | Harvest 10 Complete Deer Carcasses (single game) |
+![](../assets/Waste_Not%2C_Want_Not_icon.png)
+
+_Waste\_Not,\_Want\_Not\_icon.png_
+
+**Description:** Harvest 10 Complete Deer Carcasses (single game)
 
 **Waste Not, Want Not** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

@@ -11,22 +11,35 @@
 
 **Bear Meat**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Bear_Meat_%28Raw%29_icon.png) / _Bear\_Meat\_(Raw)\_icon.png_ |
-| Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | Black bear Meat. Dark and dense. Tends to taste like whatever the bear was eating. |
-| **Values** |  |
-| Calories | 900 kcal |
-| Hydration | -5% |
-| Weight | 1.00 kg (2.2 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_BearMeatRaw |
+![](../assets/Bear_Meat_%28Raw%29_icon.png)
+
+_Bear\_Meat\_(Raw)\_icon.png_
+
+**Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** Black bear Meat. Dark and dense. Tends to taste like whatever the bear was eating.
+
+**Values**
+
+**Calories:** 900 kcal
+
+**Hydration:** -5%
+
+**Weight:** 1.00 kg (2.2 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_BearMeatRaw
 
 _For the cooked version, see [Bear Meat (Cooked)](./Bear%20Meat%20%28Cooked%29.md)._
 

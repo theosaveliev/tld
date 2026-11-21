@@ -11,10 +11,11 @@
 
 **Night Walker**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Night_Walker_icon.png) / _Night\_Walker\_icon.png_ |
-| Description | Survive an entire Night outside (single game) |
+![](../assets/Night_Walker_icon.png)
+
+_Night\_Walker\_icon.png_
+
+**Description:** Survive an entire Night outside (single game)
 
 **Night Walker** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

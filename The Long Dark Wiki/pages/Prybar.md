@@ -11,17 +11,23 @@
 
 **Prybar**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Prybar_icon.png) / _Prybar\_icon.png_ |
-| **General** |  |
-| Item Type | Tool\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
-| Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) 30 minutes |
-| Repair | Cannot Repair |
+![](../assets/Prybar_icon.png)
 
-> “__A beat up prybar. Useful for opening locked containers.__”
+_Prybar\_icon.png_
+
+**General**
+
+**Item Type:** Tool\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+
+**Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 30 minutes
+
+**Repair:** Cannot Repair
+
+> “**A beat up prybar. Useful for opening locked containers.**”
 >
 > — In-game description
 
@@ -65,5 +71,3 @@ Prybar are most commonly found in industrial locations, [fishing huts](./Fishing
 ![Old model.](../assets/Prybar.png)
 
 _Old model._
-
-[ru:Гвоздодёр](ru:%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%BE%D0%B4%D1%91%D1%80)

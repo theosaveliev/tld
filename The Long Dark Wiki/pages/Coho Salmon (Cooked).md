@@ -12,22 +12,35 @@
 
 **Coho Salmon (Cooked)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Coho_Salmon_%28Cooked%29_icon.png) / _Coho\_Salmon\_(Cooked)\_icon.png_ |
-| Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | Salmon, cooked on a fire. One of life's better things. |
-| **Values** |  |
-| Calories | 1650 kcal |
-| Hydration | -5% |
-| [Vitamin C](./Scurvy.md) | Minor (9%) |
-| Weight | 3.7 kg (8.14 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_CookedCohoSalmon |
+![](../assets/Coho_Salmon_%28Cooked%29_icon.png)
+
+_Coho\_Salmon\_(Cooked)\_icon.png_
+
+**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.163)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** Salmon, cooked on a fire. One of life's better things.
+
+**Values**
+
+**Calories:** 1650 kcal
+
+**Hydration:** -5%
+
+**[Vitamin C](./Scurvy.md):** Minor (9%)
+
+**Weight:** 3.7 kg (8.14 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_CookedCohoSalmon
 
 _For the raw version, see [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md)._
 

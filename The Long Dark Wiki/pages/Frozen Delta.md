@@ -4,10 +4,16 @@
 
 **Frozen Delta**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/SS-BI-FrozenDelta003.jpg) / _SS-BI-FrozenDelta003.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Frozen_Delta_Location.png) / _Frozen\_Delta\_Location.png_ |
-| Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
-| Type | Outdoors\|- |
+![](../assets/SS-BI-FrozenDelta003.jpg)
+
+_SS-BI-FrozenDelta003.jpg_
+
+**Location**
+
+![](../assets/Frozen_Delta_Location.png)
+
+_Frozen\_Delta\_Location.png_
+
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+
+**Type:** Outdoors\|-

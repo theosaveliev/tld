@@ -4,19 +4,29 @@
 
 **Steam Tunnels**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Steam_Tunnels_lower_entrance.jpg) / _Steam\_Tunnels\_lower\_entrance.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Steam_Tunnels_Location.png) / _Steam\_Tunnels\_Location.png_ |
-| Region |  |
-| Location | Underneath Blackrock Prison |
-| **General** |  |
-| Type | Industrial\|- |
-|  | Has an interior\|- |
-| Missions | [The Power Plant](./The%20Power%20Plant.md) / [Donner](./Donner.md) |
+![](../assets/Steam_Tunnels_lower_entrance.jpg)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_Steam\_Tunnels\_lower\_entrance.jpg_
+
+**Location**
+
+![](../assets/Steam_Tunnels_Location.png)
+
+_Steam\_Tunnels\_Location.png_
+
+Region
+
+**Location:** Underneath Blackrock Prison
+
+**General**
+
+**Type:** Industrial\|-
+
+Has an interior\|-
+
+**Missions:** [The Power Plant](./The%20Power%20Plant.md) / [Donner](./Donner.md)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 The Blackrock Dam **Steam Tunnels** are a sprawling system of Dark tunnels located in the region Blackrock, added in the Perilous Constraint Update on December 8th 2021.
 

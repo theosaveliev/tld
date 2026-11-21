@@ -4,19 +4,29 @@
 
 **Cannery Memo**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cannery_Memo_icon.png) / _Cannery\_Memo\_icon.png_ |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A dusty piece of paper, the writing faded and scratched. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/Cannery_Memo_icon.png)
+
+_Cannery\_Memo\_icon.png_
+
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A dusty piece of paper, the writing faded and scratched.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **Cannery Memo** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Bleak Inlet](./Bleak%20Inlet.md) at the locked door near the [Keypad](./Keypad.md) at the [Workshop](./Workshop.md).
 
@@ -42,5 +52,3 @@ And don't forget to get a copy of the workshop's door code while you're up there
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-[ru:Записка с завода](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D1%81_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0)

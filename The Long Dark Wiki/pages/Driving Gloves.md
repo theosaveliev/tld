@@ -4,23 +4,35 @@
 
 **Driving Gloves**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Driving_Gloves_icon.png) / _Driving\_Gloves\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Hands |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)1% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 × [Cured Leather](./Cured%20Leather.md) / 10 minutes |
-| Repair | 1 × [Cured Leather](./Cured%20Leather.md) / 30 minutes / 25% condition |
+![](../assets/Driving_Gloves_icon.png)
 
-> “__Thin leather gloves designed for driving. Not much use in the cold.__”
+_Driving\_Gloves\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Hands
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)1%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 × [Cured Leather](./Cured%20Leather.md) / 10 minutes
+
+**Repair:** 1 × [Cured Leather](./Cured%20Leather.md) / 30 minutes / 25% condition
+
+> “**Thin leather gloves designed for driving. Not much use in the cold.**”
 >
 > — In-game description
 

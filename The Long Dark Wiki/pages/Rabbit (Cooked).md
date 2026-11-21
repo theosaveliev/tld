@@ -11,21 +11,33 @@
 
 **Rabbit (Cooked)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Rabbit_%28Cooked%29_icon.png) / _Rabbit\_(Cooked)\_icon.png_ |
-| Release | [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.152) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | Cooked flesh from a rabbit. |
-| **Values** |  |
-| Calories | 450 kcal |
-| Hydration | -5% |
-| Weight | 1.00 kg (2.2 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_RabbitCooked |
+![](../assets/Rabbit_%28Cooked%29_icon.png)
+
+_Rabbit\_(Cooked)\_icon.png_
+
+**Release:** [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.152)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** Cooked flesh from a rabbit.
+
+**Values**
+
+**Calories:** 450 kcal
+
+**Hydration:** -5%
+
+**Weight:** 1.00 kg (2.2 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_RabbitCooked
 
 _For the raw version, see [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)._
 

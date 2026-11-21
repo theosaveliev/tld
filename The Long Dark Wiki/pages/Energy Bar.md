@@ -11,23 +11,37 @@
 
 **Energy Bar**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Energy_Bar_icon.png) / _Energy\_Bar\_icon.png_ |
-| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
-| Wintermute | No |
-| Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | Energy in a bar. Chocolate, nuts, healthy stuff. |
-| **Values** |  |
-| Calories | 500 kcal |
-| Hydration | 0% |
-| [Vitamin C](./Scurvy.md) | Minor (4%) |
-| Weight | 0.10 kg (0.22 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_EnergyBar |
+![](../assets/Energy_Bar_icon.png)
+
+_Energy\_Bar\_icon.png_
+
+**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117)
+
+**Wintermute:** No
+
+**Renewable:** Yes (rare [Beachcombing](./Beachcombing.md))
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** Energy in a bar. Chocolate, nuts, healthy stuff.
+
+**Values**
+
+**Calories:** 500 kcal
+
+**Hydration:** 0%
+
+**[Vitamin C](./Scurvy.md):** Minor (4%)
+
+**Weight:** 0.10 kg (0.22 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_EnergyBar
 
 **Energy Bar** is a packaged [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 

@@ -12,22 +12,35 @@
 
 **Maple Syrup**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Maple_Syrup_icon.png) / _Maple\_Syrup\_icon.png_ |
-| Release | [27 June 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.79) |
-| Wintermute | No |
-| Renewable | Yes ([Trader](./Trader.md)) |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | Thick and sweet, this high-calorie condiment is an excellent source of energy. Pancakes not included. |
-| **Values** |  |
-| Calories | 850 kcal |
-| Hydration | 0% |
-| Weight | 0.30 kg (0.66 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_MapleSyrup |
+![](../assets/Maple_Syrup_icon.png)
+
+_Maple\_Syrup\_icon.png_
+
+**Release:** [27 June 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.79)
+
+**Wintermute:** No
+
+**Renewable:** Yes ([Trader](./Trader.md))
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** Thick and sweet, this high-calorie condiment is an excellent source of energy. Pancakes not included.
+
+**Values**
+
+**Calories:** 850 kcal
+
+**Hydration:** 0%
+
+**Weight:** 0.30 kg (0.66 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_MapleSyrup
 
 **Maple Syrup** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 

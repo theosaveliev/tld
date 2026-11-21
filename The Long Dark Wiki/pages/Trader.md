@@ -25,9 +25,19 @@
 - [Achievements](#achievements)
 - [Game History](#game-history)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|} ![Icon for the Trader used in the marketing of TftFT](../assets/Icon_Trader.svg)_Icon for the Trader used in the marketing of TftFT_{\| style="margin:auto" | “ | __A source of rare goods and useful information, for a price.__ / Official Hinterland Description | ” |
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+\|} ![Icon for the Trader used in the marketing of TftFT](../assets/Icon_Trader.svg)_Icon for the Trader used in the marketing of TftFT_{\| style="margin:auto"
+
+“
+
+**A source of rare goods and useful information, for a price.** / Official Hinterland Description
+
+”
 
 The **Trader** is an NPC that "appears" in [Survival Mode](./Survival%20Mode.md). He may be contacted via Radio to propose bartering for items, and functions as a source of renewable items if the player has the resources to trade with him. The Trader was released in the Part 6 Broken Silence update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
@@ -264,116 +274,1649 @@ At 500 Trust the following item will be available:
 
 ### Normal Trades
 
-|  | Name | Trust | Item Type | Max Multiples | Cost | Cost with discount (After 350 Trust) |
-| --- | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Canned_Corn_icon.png) / _Canned\_Corn\_icon.png_ | [Canned Corn](./Canned%20Corn.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 12 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) | - 8 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Carrot_icon.png) / _Carrot\_icon.png_ | [Carrot](./Carrot.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 6 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 1.00L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) | - 3 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 0.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Cooking_Oil_icon.png) / _Cooking\_Oil\_icon.png_ | [Cooking Oil](./Cooking%20Oil.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 2.00 kg Any Raw Animal or Raw Fish Meat / - 1.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) | - 1.50 kg Any Raw Animal or Raw Fish Meat / - 0.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Herbal_Tea_icon.png) / _Herbal\_Tea\_icon.png_ | [Herbal Tea](./Herbal%20Tea.md) (5) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 3.00 kg Any Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 2 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) | - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 1 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
-| ![](../assets/Maple_Syrup_icon.png) / _Maple\_Syrup\_icon.png_ | [Maple Syrup](./Maple%20Syrup.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 3.00 kg Any Raw Fish Meat / - 1.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 1 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) | - 2.25 kg Any Raw Fish Meat / - 0.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Military-Grade_MRE_icon.png) / _Military-Grade\_MRE\_icon.png_ | [Military-Grade MRE](./Military-Grade%20MRE.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 5.00 kg Any Raw Fish Meat / - 1.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 1 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) | - 3.00 kg Any Raw Fish Meat / - 0.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Old_Mill_Flour_icon.png) / _Old\_Mill\_Flour\_icon.png_ | [Old Mill Flour](./Old%20Mill%20Flour.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 2.00 kg Any Raw Animal or Raw Fish Meat / - 1.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) | - 1.50 kg Any Raw Animal or Raw Fish Meat / - 0.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Pinnacle_Peaches_icon.png) / _Pinnacle\_Peaches\_icon.png_ | [Pinnacle Peaches](./Pinnacle%20Peaches.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 6 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 1.00L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) | - 3 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 0.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Potato_icon.png) / _Potato\_icon.png_ | [Potato](./Potato.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 6 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 1.00L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) | - 3 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 0.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Running_River_Oats_icon.png) / _Running\_River\_Oats\_icon.png_ | [Running River Oats](./Running%20River%20Oats.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 2.00 kg Any Raw Fish Meat / - 1.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) | - 1.50 kg Any Raw Fish Meat / - 0.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Salt_%28Bag%29_icon.png) / _Salt\_(Bag)\_icon.png_ | [Salt (Bag)](./Salt%20%28Bag%29.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 3 | - 3.00 kg Any Raw Animal or Raw Fish Meat / - 1.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) | - 2.00 kg Any Raw Animal or Raw Fish Meat / - 0.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Tin_of_Coffee_icon.png) / _Tin\_of\_Coffee\_icon.png_ | [Tin of Coffee](./Tin%20of%20Coffee.md) (5) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 4.00 kg Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 2 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) | - 3.00 kg Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 1 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
-| ![](../assets/Antibiotics_icon.png) / _Antibiotics\_icon.png_ | [Antibiotics](./Antibiotics.md) (6) | 400 | [First Aid](./First%20Aid.md) | 10 | N/A | - 4 Any Harvestable Plants / - 1.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Antiseptic_icon.png) / _Antiseptic\_icon.png_ | [Antiseptic](./Antiseptic.md) | 400 | [First Aid](./First%20Aid.md) | 10 | N/A | - 4 Any Harvestable Plants / - 1.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Emergency_Stim_icon.png) / _Emergency\_Stim\_icon.png_ | [Emergency Stim](./Emergency%20Stim.md) | 400 | [First Aid](./First%20Aid.md) | 10 | N/A | - 11 Any Harvestable Plants / - 3.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 3 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) |
-| ![](../assets/Painkillers_icon.png) / _Painkillers\_icon.png_ | [Painkillers](./Painkillers.md) (6) | 400 | [First Aid](./First%20Aid.md) | 10 | N/A | - 4 Any Harvestable Plants / - 1.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Water_Purification_Tablets_icon.png) / _Water\_Purification\_Tablets\_icon.png_ | [Water Purification Tablets](./Water%20Purification%20Tablets.md) (4) | 400 | [First Aid](./First%20Aid.md) | 10 | N/A | - 2 Any Harvestable Plants / - 0.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Revolver_icon.png) / _Revolver\_icon.png_ | [Revolver](./Revolver.md) | 500 | [Tools](./Tools.md) | 1 | N/A | - 7.50 Kg Any Raw Animal or Raw Fish Meat / - 4 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 3.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) |
-| ![](../assets/Hunting_Rifle_icon.png) / _Hunting\_Rifle\_icon.png_ | [Hunting Rifle](./Hunting%20Rifle.md) | 500 | [Tools](./Tools.md) | 1 | N/A | - 7.50 Kg Any Raw Animal or Raw Fish Meat / - 4 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 3.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) |
-| ![](../assets/Revolver_Ammunition_icon.png) / _Revolver\_Ammunition\_icon.png_ | [Revolver Ammunition](./Revolver%20Ammunition.md) (10) | 1 | [Tools](./Tools.md) | 10 | - 4 Any Cured Hides / - 4.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 3 Any Cured Hides / - 3.25 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| ![](../assets/Rifle_Ammunition_icon.png) / _Rifle\_Ammunition\_icon.png_ | [Rifle Ammunition](./Rifle%20Ammunition.md) (5) | 1 | [Tools](./Tools.md) | 10 | - 4 Any Cured Hides / - 4.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 3 Any Cured Hides / - 3.25 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| ![](../assets/Wood_Matches_icon.png) / _Wood\_Matches\_icon.png_ | [Wood Matches](./Wood%20Matches.md) (12) | 1 | [Tools](./Tools.md) | 10 | - 5 Any Harvestable Plants / - 2 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | - 4 Any Harvestable Plants / - 1 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) |
-| ![](../assets/Storm_Lantern_icon.png) / _Storm\_Lantern\_icon.png_ | [Storm Lantern](./Storm%20Lantern.md) | 1 | [Tools](./Tools.md) | 1 | - 15 Any Harvestable Plants / - 9 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 10 ![Charcoal\_icon.png](../assets/Charcoal_icon.png) [Charcoal](./Charcoal.md) | - 11 Any Harvestable Plants / - 7 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 8 ![Charcoal\_icon.png](../assets/Charcoal_icon.png) [Charcoal](./Charcoal.md) |
-| ![](../assets/Firestriker_icon.png) / _Firestriker\_icon.png_ | [Firestriker](./Firestriker.md) | 300 | [Tools](./Tools.md) | 1 | - 10.00 kg Any Raw Animal Or Raw Fish Meat / - 4 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 5 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) | - 7.50 kg Any Raw Animal Or Raw Fish Meat / - 3 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 4 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
-| ![](../assets/Flashlight_icon.png) / _Flashlight\_icon.png_ | [Flashlight](./Flashlight.md) | 1 | [Tools](./Tools.md) | 1 | - 15 Any Harvestable Plants / - 9![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 10 ![Charcoal\_icon.png](../assets/Charcoal_icon.png) [Charcoal](./Charcoal.md) | - 11 Any Harvestable Plants / - 7 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 8 ![Charcoal\_icon.png](../assets/Charcoal_icon.png) [Charcoal](./Charcoal.md) |
-| ![](../assets/Flare_icon.png) / _Flare\_icon.png_ | [Flare](./Flare.md) | 1 | [Tools](./Tools.md) | 10 | - 5 Any Harvestable Plants / - 2 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | - 4 Any Harvestable Plants / - 1 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) |
-| ![](../assets/Marine_Flare_icon.png) / _Marine\_Flare\_icon.png_ | [Marine Flare](./Marine%20Flare.md) | 1 | [Tools](./Tools.md) | 10 | - 10 Any Harvestable Plants / - 3 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 5 ![Charcoal\_icon.png](../assets/Charcoal_icon.png) [Charcoal](./Charcoal.md) | - 7 Any Harvestable Plants / - 2 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 3 ![Charcoal\_icon.png](../assets/Charcoal_icon.png) [Charcoal](./Charcoal.md) |
-| ![](../assets/Hacksaw_icon.png) / _Hacksaw\_icon.png_ | [Hacksaw](./Hacksaw.md) | 300 | [Tools](./Tools.md) | 1 | - 4.00 kg Any Raw Animal or Raw Fish Meat / - 2 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) | - 3.00 kg Any Raw Animal or Raw Fish Meat |
-| ![](../assets/Magnifying_Lens_icon.png) / _Magnifying\_Lens\_icon.png_ | [Magnifying Lens](./Magnifying%20Lens.md) | 300 | [Tools](./Tools.md) | 1 | - 10.00 kg Any Raw Animal or Raw Fish Meat / - 4 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 5 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) | - 7.50 kg Any Raw Animal or Raw Fish Meat / - 3 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 4 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
-| ![](../assets/Hatchet_icon.png) / _Hatchet\_icon.png_ | [Hatchet](./Hatchet.md) | 300 | [Tools](./Tools.md) | 1 | - 4.00 kg Any Raw Animal or Raw Fish Meat / - 1 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) | - 3.00 kg Any Raw Animal or Raw Fish Meat |
-| ![](../assets/Heavy_Hammer_icon.png) / _Heavy\_Hammer\_icon.png_ | [Heavy Hammer](./Heavy%20Hammer.md) | 300 | [Tools](./Tools.md) | 1 | - 8.00 kg Any Raw Animal Or Raw Fish Meat / - 2 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 3 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) | - 6.00 kg Any Raw Animal Or Raw Fish Meat / - 1 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 2 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
-| ![](../assets/Quality_Tools_icon.png) / _Quality\_Tools\_icon.png_ | [Quality Tools](./Quality%20Tools.md) | 300 | [Tools](./Tools.md) | 1 | - 4.00 kg Any Raw Animal Or Raw Fish Meat / - 1 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) | - 3.00 kg Any Raw Animal Or Raw Fish Meat |
-| ![](../assets/Sewing_Kit_icon.png) / _Sewing\_Kit\_icon.png_ | [Sewing Kit](./Sewing%20Kit.md) | 300 | [Tools](./Tools.md) | 1 | - 4.00 kg Any Raw Animal Or Raw Fish Meat / - 1 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) | - 3.00 kg Any Raw Animal Or Raw Fish Meat |
-| ![](../assets/Whetstone_icon.png) / _Whetstone\_icon.png_ | [Whetstone](./Whetstone.md) | 300 | [Tools](./Tools.md) | 1 | - 6.00 kg Any Raw Animal Or Raw Fish Meat / - 1 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 2 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) | - 4.50 kg Any Raw Animal Or Raw Fish Meat / - 1 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
-| ![](../assets/Firearm_Cleaning_Kit_icon.png) / _Firearm\_Cleaning\_Kit\_icon.png_ | [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) | 300 | [Tools](./Tools.md) | 1 | - 10.00 kg Any Raw Animal Or Raw Fish Meat / - 4 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 5 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) | - 7.50 kg Any Raw Animal Or Raw Fish Meat / - 3 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 4 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
-| ![](../assets/Flare_Shell_icon.png) / _Flare\_Shell\_icon.png_ | [Flare Shell](./Flare%20Shell.md) | 1 | [Tools](./Tools.md) | 10 | - 2 Any Cured Hides / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 2 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 1 Any Cured Hides / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 1 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| ![](../assets/FastFilm-500_icon.png) / _FastFilm-500\_icon.png_ | [FastFilm-500](./FastFilm-500.md) (6) | 300 | [Tools](./Tools.md) | 10 | - 6.00 kg Any Raw Animal Meat / - 10 ![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md) | - 3.00 kg Any Raw Animal Meat / - 6 ![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md) |
-| ![](../assets/FastFilm-500BW_icon.png) / _FastFilm-500BW\_icon.png_ | [FastFilm-500BW](./FastFilm-500BW.md) (6) | 300 | [Tools](./Tools.md) | 10 | - 6.00 kg Any Raw Animal Meat / - 10 ![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md) | - 3.00 kg Any Raw Animal Meat / - 6 ![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md) |
-| ![](../assets/FastFilm-500SPA_icon.png) / _FastFilm-500SPA\_icon.png_ | [FastFilm-500SPA](./FastFilm-500SPA.md) (6) | 300 | [Tools](./Tools.md) | 10 | - 6.00 kg Any Raw Animal Meat / - 10 ![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md) | - 3.00 kg Any Raw Animal Meat / - 6 ![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md) |
-| ![](../assets/Wool_Ear_Wrap_icon.png) / _Wool\_Ear\_Wrap\_icon.png_ | [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) | 1 | [Clothing](./Clothing.md) | 1 | - 3.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 5 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 2.25 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 3 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| ![](../assets/Wool_Toque_icon.png) / _Wool\_Toque\_icon.png_ | [Wool Toque](./Wool%20Toque.md) | 1 | [Clothing](./Clothing.md) | 1 | - 1.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 2 ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | - 0.75 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) |
-| ![](../assets/Hardhat_Model_icon.png) / _Hardhat\_Model\_icon.png_ | [Hardhat](./Hardhat.md) | 1 | [Clothing](./Clothing.md) | 1 | - 2.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 8 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 1.50 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 4 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 3 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
-| ![](../assets/Aviator_Cap_icon.png) / _Aviator\_Cap\_icon.png_ | [Aviator Cap](./Aviator%20Cap.md) | N/A | [Clothing](./Clothing.md) | 1 | - 10.00 kg Any Raw Fish Meat / - 8 Any Harvestable Plants / - 4 Any Cured Hides | - No discount |
-| ![](../assets/Thin_Wool_Sweater_icon.png) / _Thin\_Wool\_Sweater\_icon.png_ | [Thin Wool Sweater](./Thin%20Wool%20Sweater.md) | 200 | [Clothing](./Clothing.md) | 1 | - 2 Any Cured Hides / - 3 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | - 1 Any Cured Hides / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) |
-| ![](../assets/Wool_Shirt_icon.png) / _Wool\_Shirt\_icon.png_ | [Wool Shirt](./Wool%20Shirt.md) | 200 | [Clothing](./Clothing.md) | 1 | - 2 Any Cured Hides / - 3 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | - 1 Any Cured Hides / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) |
-| ![](../assets/Thick_Wool_Sweater_icon.png) / _Thick\_Wool\_Sweater\_icon.png_ | [Thick Wool Sweater](./Thick%20Wool%20Sweater.md) | 200 | [Clothing](./Clothing.md) | 1 | - 4 Any Cured Hides / - 4 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 3 Cured Hide / - 3 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 4 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
-| ![](../assets/Light_Shell_icon.png) / _Light\_Shell\_icon.png_ | [Light Shell](./Light%20Shell.md) | 200 | [Clothing](./Clothing.md) | 1 | - 4 Any Cured Hides / - 4 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 3 Any Cured Hides / - 3 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 4 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
-| ![](../assets/Mackinaw_Jacket_icon.png) / _Mackinaw\_Jacket\_icon.png_ | [Mackinaw Jacket](./Mackinaw%20Jacket.md) | 200 | [Clothing](./Clothing.md) | 1 | - 4 Any Cured Hides / - 4 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 3 Any Cured Hides / - 3 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 4 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
-| ![](../assets/Cargo_Pants_icon.png) / _Cargo\_Pants\_icon.png_ | [Cargo Pants](./Cargo%20Pants.md) | 100 | [Clothing](./Clothing.md) | 1 | - 20 Any Harvestable Plants / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 5 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) | - 15 Any Harvestable Plants / - 1 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 3 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) |
-| ![](../assets/Jeans_icon.png) / _Jeans\_icon.png_ | [Jeans](./Jeans.md) | 100 | [Clothing](./Clothing.md) | 1 | - 10 Any Harvestable Plants / - 1![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | - 8 Any Harvestable Plants |
-| ![](../assets/Work_Pants_icon.png) / _Work\_Pants\_icon.png_ | [Work Pants](./Work%20Pants.md) | 100 | [Clothing](./Clothing.md) | 1 | - 20 Any Harvestable Plants / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 5 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) | - 15 Any Harvestable Plants / - 1 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 3 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) |
-| ![](../assets/Thermal_Underwear_icon.png) / _Thermal\_Underwear\_icon.png_ | [Thermal Underwear](./Thermal%20Underwear.md) | 100 | [Clothing](./Clothing.md) | 1 | - 10 Any Harvestable Plants / - 1![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | - 8 Any Harvestable Plants |
-| ![](../assets/Wool_Longjohns_icon.png) / _Wool\_Longjohns\_icon.png_ | [Wool Longjohns](./Wool%20Longjohns.md) | 100 | [Clothing](./Clothing.md) | 1 | - 20 Any Harvestable Plants / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 5 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) | - 15 Any Harvestable Plants / - 1 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 3 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) |
-| ![](../assets/Ski_Gloves_icon.png) / _Ski\_Gloves\_icon.png_ | [Ski Gloves](./Ski%20Gloves.md) | 1 | [Clothing](./Clothing.md) | 1 | - 2.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 10 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 1.50 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 7 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 4 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
-| ![](../assets/Wool_Mittens_icon.png) / _Wool\_Mittens\_icon.png_ | [Wool Mittens](./Wool%20Mittens.md) | 1 | [Clothing](./Clothing.md) | 3 | - 1 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 5![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md) | - 0.7 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 3![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md) |
-| ![](../assets/Work_Gloves_icon.png) / _Work\_Gloves\_icon.png_ | [Work Gloves](./Work%20Gloves.md) | 1 | [Clothing](./Clothing.md) | 1 | - 1.50 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 5![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 1.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 3![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 4 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
-| ![](../assets/Climbing_Socks_icon.png) / _Climbing\_Socks\_icon.png_ | [Climbing Socks](./Climbing%20Socks.md) | 100 | [Clothing](./Clothing.md) | 3 | - 10 Any Harvestable Plants / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 5 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) | - 8 Any Harvestable Plants / - 1 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 3 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) |
-| ![](../assets/Chemical_Boots_icon.png) / _Chemical\_Boots\_icon.png_ | [Chemical Boots](./Chemical%20Boots.md) | 1 | [Clothing](./Clothing.md) | 1 | - 2.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 4 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 1.50 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 3 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 4 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
-| ![](../assets/Mukluks_icon.png) / _Mukluks\_icon.png_ | [Mukluks](./Mukluks.md) | 1 | [Clothing](./Clothing.md) | 1 | - 8 Any Cured Hides / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 5 Any Cured Hides / - 3 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| ![](../assets/Trail_Boots_Model_icon.png) / _Trail\_Boots\_Model\_icon.png_ | [Trail Boots](./Trail%20Boots.md) | 1 | [Clothing](./Clothing.md) | 1 | - 1.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 5 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) | - 0.75 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 3 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) |
-| ![](../assets/Work_Boots_icon.png) / _Work\_Boots\_icon.png_ | [Work Boots](./Work%20Boots.md) | 1 | [Clothing](./Clothing.md) | 1 | - 1.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 2 ![Replacement\_Fuse\_icon.png](../assets/Replacement_Fuse_icon.png) [Replacement Fuse](./Replacement%20Fuse.md) | - 0.75 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Replacement\_Fuse\_icon.png](../assets/Replacement_Fuse_icon.png) [Replacement Fuse](./Replacement%20Fuse.md) |
-| ![](../assets/The_Frozen_Angler_icon.png) / _The\_Frozen\_Angler\_icon.png_ | [The Frozen Angler](./The%20Frozen%20Angler.md) | 1 | [Research Book](./Research%20Book.md) | 1 | - 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| ![](../assets/Wilderness_Kitchen_icon.png) / _Wilderness\_Kitchen\_icon.png_ | [Wilderness Kitchen](./Wilderness%20Kitchen.md) | 1 | [Research Book](./Research%20Book.md) | 1 | - 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| ![](../assets/Survive_the_Outdoors!_icon.png) / _Survive\_the\_Outdoors!\_icon.png_ | [Survive the Outdoors!](./Survive%20the%20Outdoors!.md) | 1 | [Research Book](./Research%20Book.md) | 1 | - 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| ![](../assets/Practical_Gunsmithing_icon.png) / _Practical\_Gunsmithing\_icon.png_ | [Practical Gunsmithing](./Practical%20Gunsmithing.md) | 1 | [Research Book](./Research%20Book.md) | 1 | - 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| ![](../assets/Small_Arms_Handbook_icon.png) / _Small\_Arms\_Handbook\_icon.png_ | [Small Arms Handbook](./Small%20Arms%20Handbook.md) | 1 | [Research Book](./Research%20Book.md) | 1 | - 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| ![](../assets/Advanced_Guns_Guns_Guns!_%28Survival_School%29_icon.png) / _Advanced\_Guns\_Guns\_Guns!\_(Survival\_School)\_icon.png_ | [Advanced Guns Guns Guns!](./Advanced%20Guns%20Guns%20Guns!.md) | 1 | [Research Book](./Research%20Book.md) | 1 | - 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| ![](../assets/A_Sewing_Primer_icon.png) / _A\_Sewing\_Primer\_icon.png_ | [A Sewing Primer](./A%20Sewing%20Primer.md) | 1 | [Research Book](./Research%20Book.md) | 1 | - 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| ![](../assets/Stay_on_Target_icon.png) / _Stay\_on\_Target\_icon.png_ | [Stay On Target](./Stay%20on%20Target.md) | 1 | [Research Book](./Research%20Book.md) | 1 | - 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
+Name
+
+Trust
+
+Item Type
+
+Max Multiples
+
+Cost
+
+Cost with discount (After 350 Trust)
+
+![](../assets/Canned_Corn_icon.png)
+
+_Canned\_Corn\_icon.png_
+
+[Canned Corn](./Canned%20Corn.md)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+10
+
+- 12 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+- 8 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Carrot_icon.png)
+
+_Carrot\_icon.png_
+
+[Carrot](./Carrot.md)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+10
+
+- 6 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 1.00L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+- 3 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 0.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Cooking_Oil_icon.png)
+
+_Cooking\_Oil\_icon.png_
+
+[Cooking Oil](./Cooking%20Oil.md)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+10
+
+- 2.00 kg Any Raw Animal or Raw Fish Meat / - 1.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+- 1.50 kg Any Raw Animal or Raw Fish Meat / - 0.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Herbal_Tea_icon.png)
+
+_Herbal\_Tea\_icon.png_
+
+[Herbal Tea](./Herbal%20Tea.md) (5)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+10
+
+- 3.00 kg Any Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 2 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+- 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 1 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+![](../assets/Maple_Syrup_icon.png)
+
+_Maple\_Syrup\_icon.png_
+
+[Maple Syrup](./Maple%20Syrup.md)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+10
+
+- 3.00 kg Any Raw Fish Meat / - 1.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 1 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+- 2.25 kg Any Raw Fish Meat / - 0.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Military-Grade_MRE_icon.png)
+
+_Military-Grade\_MRE\_icon.png_
+
+[Military-Grade MRE](./Military-Grade%20MRE.md)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+10
+
+- 5.00 kg Any Raw Fish Meat / - 1.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 1 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+- 3.00 kg Any Raw Fish Meat / - 0.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Old_Mill_Flour_icon.png)
+
+_Old\_Mill\_Flour\_icon.png_
+
+[Old Mill Flour](./Old%20Mill%20Flour.md)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+10
+
+- 2.00 kg Any Raw Animal or Raw Fish Meat / - 1.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+- 1.50 kg Any Raw Animal or Raw Fish Meat / - 0.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Pinnacle_Peaches_icon.png)
+
+_Pinnacle\_Peaches\_icon.png_
+
+[Pinnacle Peaches](./Pinnacle%20Peaches.md)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+10
+
+- 6 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 1.00L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+- 3 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 0.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Potato_icon.png)
+
+_Potato\_icon.png_
+
+[Potato](./Potato.md)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+10
+
+- 6 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 1.00L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+- 3 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 0.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Running_River_Oats_icon.png)
+
+_Running\_River\_Oats\_icon.png_
+
+[Running River Oats](./Running%20River%20Oats.md)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+10
+
+- 2.00 kg Any Raw Fish Meat / - 1.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+- 1.50 kg Any Raw Fish Meat / - 0.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Salt_%28Bag%29_icon.png)
+
+_Salt\_(Bag)\_icon.png_
+
+[Salt (Bag)](./Salt%20%28Bag%29.md)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+3
+
+- 3.00 kg Any Raw Animal or Raw Fish Meat / - 1.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+- 2.00 kg Any Raw Animal or Raw Fish Meat / - 0.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Tin_of_Coffee_icon.png)
+
+_Tin\_of\_Coffee\_icon.png_
+
+[Tin of Coffee](./Tin%20of%20Coffee.md) (5)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+10
+
+- 4.00 kg Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 2 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+- 3.00 kg Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 1 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+![](../assets/Antibiotics_icon.png)
+
+_Antibiotics\_icon.png_
+
+[Antibiotics](./Antibiotics.md) (6)
+
+400
+
+[First Aid](./First%20Aid.md)
+
+10
+
+N/A
+
+- 4 Any Harvestable Plants / - 1.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Antiseptic_icon.png)
+
+_Antiseptic\_icon.png_
+
+[Antiseptic](./Antiseptic.md)
+
+400
+
+[First Aid](./First%20Aid.md)
+
+10
+
+N/A
+
+- 4 Any Harvestable Plants / - 1.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Emergency_Stim_icon.png)
+
+_Emergency\_Stim\_icon.png_
+
+[Emergency Stim](./Emergency%20Stim.md)
+
+400
+
+[First Aid](./First%20Aid.md)
+
+10
+
+N/A
+
+- 11 Any Harvestable Plants / - 3.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 3 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md)
+
+![](../assets/Painkillers_icon.png)
+
+_Painkillers\_icon.png_
+
+[Painkillers](./Painkillers.md) (6)
+
+400
+
+[First Aid](./First%20Aid.md)
+
+10
+
+N/A
+
+- 4 Any Harvestable Plants / - 1.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Water_Purification_Tablets_icon.png)
+
+_Water\_Purification\_Tablets\_icon.png_
+
+[Water Purification Tablets](./Water%20Purification%20Tablets.md) (4)
+
+400
+
+[First Aid](./First%20Aid.md)
+
+10
+
+N/A
+
+- 2 Any Harvestable Plants / - 0.75 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Revolver_icon.png)
+
+_Revolver\_icon.png_
+
+[Revolver](./Revolver.md)
+
+500
+
+[Tools](./Tools.md)
+
+1
+
+N/A
+
+- 7.50 Kg Any Raw Animal or Raw Fish Meat / - 4 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 3.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md)
+
+![](../assets/Hunting_Rifle_icon.png)
+
+_Hunting\_Rifle\_icon.png_
+
+[Hunting Rifle](./Hunting%20Rifle.md)
+
+500
+
+[Tools](./Tools.md)
+
+1
+
+N/A
+
+- 7.50 Kg Any Raw Animal or Raw Fish Meat / - 4 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 3.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md)
+
+![](../assets/Revolver_Ammunition_icon.png)
+
+_Revolver\_Ammunition\_icon.png_
+
+[Revolver Ammunition](./Revolver%20Ammunition.md) (10)
+
+1
+
+[Tools](./Tools.md)
+
+10
+
+- 4 Any Cured Hides / - 4.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+- 3 Any Cured Hides / - 3.25 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+![](../assets/Rifle_Ammunition_icon.png)
+
+_Rifle\_Ammunition\_icon.png_
+
+[Rifle Ammunition](./Rifle%20Ammunition.md) (5)
+
+1
+
+[Tools](./Tools.md)
+
+10
+
+- 4 Any Cured Hides / - 4.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+- 3 Any Cured Hides / - 3.25 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+![](../assets/Wood_Matches_icon.png)
+
+_Wood\_Matches\_icon.png_
+
+[Wood Matches](./Wood%20Matches.md) (12)
+
+1
+
+[Tools](./Tools.md)
+
+10
+
+- 5 Any Harvestable Plants / - 2 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
+
+- 4 Any Harvestable Plants / - 1 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
+
+![](../assets/Storm_Lantern_icon.png)
+
+_Storm\_Lantern\_icon.png_
+
+[Storm Lantern](./Storm%20Lantern.md)
+
+1
+
+[Tools](./Tools.md)
+
+1
+
+- 15 Any Harvestable Plants / - 9 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 10 ![Charcoal\_icon.png](../assets/Charcoal_icon.png) [Charcoal](./Charcoal.md)
+
+- 11 Any Harvestable Plants / - 7 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 8 ![Charcoal\_icon.png](../assets/Charcoal_icon.png) [Charcoal](./Charcoal.md)
+
+![](../assets/Firestriker_icon.png)
+
+_Firestriker\_icon.png_
+
+[Firestriker](./Firestriker.md)
+
+300
+
+[Tools](./Tools.md)
+
+1
+
+- 10.00 kg Any Raw Animal Or Raw Fish Meat / - 4 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 5 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+- 7.50 kg Any Raw Animal Or Raw Fish Meat / - 3 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 4 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+![](../assets/Flashlight_icon.png)
+
+_Flashlight\_icon.png_
+
+[Flashlight](./Flashlight.md)
+
+1
+
+[Tools](./Tools.md)
+
+1
+
+- 15 Any Harvestable Plants / - 9![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 10 ![Charcoal\_icon.png](../assets/Charcoal_icon.png) [Charcoal](./Charcoal.md)
+
+- 11 Any Harvestable Plants / - 7 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 8 ![Charcoal\_icon.png](../assets/Charcoal_icon.png) [Charcoal](./Charcoal.md)
+
+![](../assets/Flare_icon.png)
+
+_Flare\_icon.png_
+
+[Flare](./Flare.md)
+
+1
+
+[Tools](./Tools.md)
+
+10
+
+- 5 Any Harvestable Plants / - 2 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
+
+- 4 Any Harvestable Plants / - 1 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
+
+![](../assets/Marine_Flare_icon.png)
+
+_Marine\_Flare\_icon.png_
+
+[Marine Flare](./Marine%20Flare.md)
+
+1
+
+[Tools](./Tools.md)
+
+10
+
+- 10 Any Harvestable Plants / - 3 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 5 ![Charcoal\_icon.png](../assets/Charcoal_icon.png) [Charcoal](./Charcoal.md)
+
+- 7 Any Harvestable Plants / - 2 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 3 ![Charcoal\_icon.png](../assets/Charcoal_icon.png) [Charcoal](./Charcoal.md)
+
+![](../assets/Hacksaw_icon.png)
+
+_Hacksaw\_icon.png_
+
+[Hacksaw](./Hacksaw.md)
+
+300
+
+[Tools](./Tools.md)
+
+1
+
+- 4.00 kg Any Raw Animal or Raw Fish Meat / - 2 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md)
+
+- 3.00 kg Any Raw Animal or Raw Fish Meat
+
+![](../assets/Magnifying_Lens_icon.png)
+
+_Magnifying\_Lens\_icon.png_
+
+[Magnifying Lens](./Magnifying%20Lens.md)
+
+300
+
+[Tools](./Tools.md)
+
+1
+
+- 10.00 kg Any Raw Animal or Raw Fish Meat / - 4 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 5 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+- 7.50 kg Any Raw Animal or Raw Fish Meat / - 3 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 4 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+![](../assets/Hatchet_icon.png)
+
+_Hatchet\_icon.png_
+
+[Hatchet](./Hatchet.md)
+
+300
+
+[Tools](./Tools.md)
+
+1
+
+- 4.00 kg Any Raw Animal or Raw Fish Meat / - 1 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md)
+
+- 3.00 kg Any Raw Animal or Raw Fish Meat
+
+![](../assets/Heavy_Hammer_icon.png)
+
+_Heavy\_Hammer\_icon.png_
+
+[Heavy Hammer](./Heavy%20Hammer.md)
+
+300
+
+[Tools](./Tools.md)
+
+1
+
+- 8.00 kg Any Raw Animal Or Raw Fish Meat / - 2 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 3 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+- 6.00 kg Any Raw Animal Or Raw Fish Meat / - 1 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 2 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+![](../assets/Quality_Tools_icon.png)
+
+_Quality\_Tools\_icon.png_
+
+[Quality Tools](./Quality%20Tools.md)
+
+300
+
+[Tools](./Tools.md)
+
+1
+
+- 4.00 kg Any Raw Animal Or Raw Fish Meat / - 1 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md)
+
+- 3.00 kg Any Raw Animal Or Raw Fish Meat
+
+![](../assets/Sewing_Kit_icon.png)
+
+_Sewing\_Kit\_icon.png_
+
+[Sewing Kit](./Sewing%20Kit.md)
+
+300
+
+[Tools](./Tools.md)
+
+1
+
+- 4.00 kg Any Raw Animal Or Raw Fish Meat / - 1 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md)
+
+- 3.00 kg Any Raw Animal Or Raw Fish Meat
+
+![](../assets/Whetstone_icon.png)
+
+_Whetstone\_icon.png_
+
+[Whetstone](./Whetstone.md)
+
+300
+
+[Tools](./Tools.md)
+
+1
+
+- 6.00 kg Any Raw Animal Or Raw Fish Meat / - 1 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 2 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+- 4.50 kg Any Raw Animal Or Raw Fish Meat / - 1 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+![](../assets/Firearm_Cleaning_Kit_icon.png)
+
+_Firearm\_Cleaning\_Kit\_icon.png_
+
+[Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md)
+
+300
+
+[Tools](./Tools.md)
+
+1
+
+- 10.00 kg Any Raw Animal Or Raw Fish Meat / - 4 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 5 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+- 7.50 kg Any Raw Animal Or Raw Fish Meat / - 3 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 4 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+![](../assets/Flare_Shell_icon.png)
+
+_Flare\_Shell\_icon.png_
+
+[Flare Shell](./Flare%20Shell.md)
+
+1
+
+[Tools](./Tools.md)
+
+10
+
+- 2 Any Cured Hides / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 2 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+- 1 Any Cured Hides / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 1 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+![](../assets/FastFilm-500_icon.png)
+
+_FastFilm-500\_icon.png_
+
+[FastFilm-500](./FastFilm-500.md) (6)
+
+300
+
+[Tools](./Tools.md)
+
+10
+
+- 6.00 kg Any Raw Animal Meat / - 10 ![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md)
+
+- 3.00 kg Any Raw Animal Meat / - 6 ![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md)
+
+![](../assets/FastFilm-500BW_icon.png)
+
+_FastFilm-500BW\_icon.png_
+
+[FastFilm-500BW](./FastFilm-500BW.md) (6)
+
+300
+
+[Tools](./Tools.md)
+
+10
+
+- 6.00 kg Any Raw Animal Meat / - 10 ![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md)
+
+- 3.00 kg Any Raw Animal Meat / - 6 ![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md)
+
+![](../assets/FastFilm-500SPA_icon.png)
+
+_FastFilm-500SPA\_icon.png_
+
+[FastFilm-500SPA](./FastFilm-500SPA.md) (6)
+
+300
+
+[Tools](./Tools.md)
+
+10
+
+- 6.00 kg Any Raw Animal Meat / - 10 ![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md)
+
+- 3.00 kg Any Raw Animal Meat / - 6 ![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md)
+
+![](../assets/Wool_Ear_Wrap_icon.png)
+
+_Wool\_Ear\_Wrap\_icon.png_
+
+[Wool Ear Wrap](./Wool%20Ear%20Wrap.md)
+
+1
+
+[Clothing](./Clothing.md)
+
+1
+
+- 3.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 5 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+- 2.25 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 3 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+![](../assets/Wool_Toque_icon.png)
+
+_Wool\_Toque\_icon.png_
+
+[Wool Toque](./Wool%20Toque.md)
+
+1
+
+[Clothing](./Clothing.md)
+
+1
+
+- 1.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 2 ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
+
+- 0.75 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
+
+![](../assets/Hardhat_Model_icon.png)
+
+_Hardhat\_Model\_icon.png_
+
+[Hardhat](./Hardhat.md)
+
+1
+
+[Clothing](./Clothing.md)
+
+1
+
+- 2.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 8 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+- 1.50 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 4 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 3 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+![](../assets/Aviator_Cap_icon.png)
+
+_Aviator\_Cap\_icon.png_
+
+[Aviator Cap](./Aviator%20Cap.md)
+
+N/A
+
+[Clothing](./Clothing.md)
+
+1
+
+- 10.00 kg Any Raw Fish Meat / - 8 Any Harvestable Plants / - 4 Any Cured Hides
+
+- No discount
+
+![](../assets/Thin_Wool_Sweater_icon.png)
+
+_Thin\_Wool\_Sweater\_icon.png_
+
+[Thin Wool Sweater](./Thin%20Wool%20Sweater.md)
+
+200
+
+[Clothing](./Clothing.md)
+
+1
+
+- 2 Any Cured Hides / - 3 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+- 1 Any Cured Hides / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+![](../assets/Wool_Shirt_icon.png)
+
+_Wool\_Shirt\_icon.png_
+
+[Wool Shirt](./Wool%20Shirt.md)
+
+200
+
+[Clothing](./Clothing.md)
+
+1
+
+- 2 Any Cured Hides / - 3 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+- 1 Any Cured Hides / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+![](../assets/Thick_Wool_Sweater_icon.png)
+
+_Thick\_Wool\_Sweater\_icon.png_
+
+[Thick Wool Sweater](./Thick%20Wool%20Sweater.md)
+
+200
+
+[Clothing](./Clothing.md)
+
+1
+
+- 4 Any Cured Hides / - 4 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+- 3 Cured Hide / - 3 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 4 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+![](../assets/Light_Shell_icon.png)
+
+_Light\_Shell\_icon.png_
+
+[Light Shell](./Light%20Shell.md)
+
+200
+
+[Clothing](./Clothing.md)
+
+1
+
+- 4 Any Cured Hides / - 4 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+- 3 Any Cured Hides / - 3 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 4 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+![](../assets/Mackinaw_Jacket_icon.png)
+
+_Mackinaw\_Jacket\_icon.png_
+
+[Mackinaw Jacket](./Mackinaw%20Jacket.md)
+
+200
+
+[Clothing](./Clothing.md)
+
+1
+
+- 4 Any Cured Hides / - 4 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+- 3 Any Cured Hides / - 3 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 4 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+![](../assets/Cargo_Pants_icon.png)
+
+_Cargo\_Pants\_icon.png_
+
+[Cargo Pants](./Cargo%20Pants.md)
+
+100
+
+[Clothing](./Clothing.md)
+
+1
+
+- 20 Any Harvestable Plants / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 5 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md)
+
+- 15 Any Harvestable Plants / - 1 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 3 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md)
+
+![](../assets/Jeans_icon.png)
+
+_Jeans\_icon.png_
+
+[Jeans](./Jeans.md)
+
+100
+
+[Clothing](./Clothing.md)
+
+1
+
+- 10 Any Harvestable Plants / - 1![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+- 8 Any Harvestable Plants
+
+![](../assets/Work_Pants_icon.png)
+
+_Work\_Pants\_icon.png_
+
+[Work Pants](./Work%20Pants.md)
+
+100
+
+[Clothing](./Clothing.md)
+
+1
+
+- 20 Any Harvestable Plants / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 5 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md)
+
+- 15 Any Harvestable Plants / - 1 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 3 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md)
+
+![](../assets/Thermal_Underwear_icon.png)
+
+_Thermal\_Underwear\_icon.png_
+
+[Thermal Underwear](./Thermal%20Underwear.md)
+
+100
+
+[Clothing](./Clothing.md)
+
+1
+
+- 10 Any Harvestable Plants / - 1![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md)
+
+- 8 Any Harvestable Plants
+
+![](../assets/Wool_Longjohns_icon.png)
+
+_Wool\_Longjohns\_icon.png_
+
+[Wool Longjohns](./Wool%20Longjohns.md)
+
+100
+
+[Clothing](./Clothing.md)
+
+1
+
+- 20 Any Harvestable Plants / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 5 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md)
+
+- 15 Any Harvestable Plants / - 1 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 3 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md)
+
+![](../assets/Ski_Gloves_icon.png)
+
+_Ski\_Gloves\_icon.png_
+
+[Ski Gloves](./Ski%20Gloves.md)
+
+1
+
+[Clothing](./Clothing.md)
+
+1
+
+- 2.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 10 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+- 1.50 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 7 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 4 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+![](../assets/Wool_Mittens_icon.png)
+
+_Wool\_Mittens\_icon.png_
+
+[Wool Mittens](./Wool%20Mittens.md)
+
+1
+
+[Clothing](./Clothing.md)
+
+3
+
+- 1 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 5![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md)
+
+- 0.7 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 3![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md)
+
+![](../assets/Work_Gloves_icon.png)
+
+_Work\_Gloves\_icon.png_
+
+[Work Gloves](./Work%20Gloves.md)
+
+1
+
+[Clothing](./Clothing.md)
+
+1
+
+- 1.50 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 5![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+- 1.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 3![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 4 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+![](../assets/Climbing_Socks_icon.png)
+
+_Climbing\_Socks\_icon.png_
+
+[Climbing Socks](./Climbing%20Socks.md)
+
+100
+
+[Clothing](./Clothing.md)
+
+3
+
+- 10 Any Harvestable Plants / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 5 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)
+
+- 8 Any Harvestable Plants / - 1 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 3 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)
+
+![](../assets/Chemical_Boots_icon.png)
+
+_Chemical\_Boots\_icon.png_
+
+[Chemical Boots](./Chemical%20Boots.md)
+
+1
+
+[Clothing](./Clothing.md)
+
+1
+
+- 2.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 4 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+- 1.50 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 3 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 4 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+![](../assets/Mukluks_icon.png)
+
+_Mukluks\_icon.png_
+
+[Mukluks](./Mukluks.md)
+
+1
+
+[Clothing](./Clothing.md)
+
+1
+
+- 8 Any Cured Hides / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+- 5 Any Cured Hides / - 3 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+![](../assets/Trail_Boots_Model_icon.png)
+
+_Trail\_Boots\_Model\_icon.png_
+
+[Trail Boots](./Trail%20Boots.md)
+
+1
+
+[Clothing](./Clothing.md)
+
+1
+
+- 1.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 5 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md)
+
+- 0.75 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 3 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md)
+
+![](../assets/Work_Boots_icon.png)
+
+_Work\_Boots\_icon.png_
+
+[Work Boots](./Work%20Boots.md)
+
+1
+
+[Clothing](./Clothing.md)
+
+1
+
+- 1.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 2 ![Replacement\_Fuse\_icon.png](../assets/Replacement_Fuse_icon.png) [Replacement Fuse](./Replacement%20Fuse.md)
+
+- 0.75 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Replacement\_Fuse\_icon.png](../assets/Replacement_Fuse_icon.png) [Replacement Fuse](./Replacement%20Fuse.md)
+
+![](../assets/The_Frozen_Angler_icon.png)
+
+_The\_Frozen\_Angler\_icon.png_
+
+[The Frozen Angler](./The%20Frozen%20Angler.md)
+
+1
+
+[Research Book](./Research%20Book.md)
+
+1
+
+- 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+- 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+![](../assets/Wilderness_Kitchen_icon.png)
+
+_Wilderness\_Kitchen\_icon.png_
+
+[Wilderness Kitchen](./Wilderness%20Kitchen.md)
+
+1
+
+[Research Book](./Research%20Book.md)
+
+1
+
+- 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+- 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+![](../assets/Survive_the_Outdoors!_icon.png)
+
+_Survive\_the\_Outdoors!\_icon.png_
+
+[Survive the Outdoors!](./Survive%20the%20Outdoors!.md)
+
+1
+
+[Research Book](./Research%20Book.md)
+
+1
+
+- 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+- 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+![](../assets/Practical_Gunsmithing_icon.png)
+
+_Practical\_Gunsmithing\_icon.png_
+
+[Practical Gunsmithing](./Practical%20Gunsmithing.md)
+
+1
+
+[Research Book](./Research%20Book.md)
+
+1
+
+- 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+- 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+![](../assets/Small_Arms_Handbook_icon.png)
+
+_Small\_Arms\_Handbook\_icon.png_
+
+[Small Arms Handbook](./Small%20Arms%20Handbook.md)
+
+1
+
+[Research Book](./Research%20Book.md)
+
+1
+
+- 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+- 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+![](../assets/Advanced_Guns_Guns_Guns!_%28Survival_School%29_icon.png)
+
+_Advanced\_Guns\_Guns\_Guns!\_(Survival\_School)\_icon.png_
+
+[Advanced Guns Guns Guns!](./Advanced%20Guns%20Guns%20Guns!.md)
+
+1
+
+[Research Book](./Research%20Book.md)
+
+1
+
+- 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+- 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+![](../assets/A_Sewing_Primer_icon.png)
+
+_A\_Sewing\_Primer\_icon.png_
+
+[A Sewing Primer](./A%20Sewing%20Primer.md)
+
+1
+
+[Research Book](./Research%20Book.md)
+
+1
+
+- 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+- 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+![](../assets/Stay_on_Target_icon.png)
+
+_Stay\_on\_Target\_icon.png_
+
+[Stay On Target](./Stay%20on%20Target.md)
+
+1
+
+[Research Book](./Research%20Book.md)
+
+1
+
+- 3.00 kg Any Raw Animal Or Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 6 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+- 2.25 kg Any Raw Animal Or Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 4 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
 
 ### Special Trade Items
 
 These special items are only found by trading with Sutherland, and are quite costly. The first 5 are requests needed to progress [Sutherland's Tale](./Sutherland%27s%20Tale.md), and unlock rarer items. Blueprint/Recipe Cards can only be purchased once.
 
-|  | Name | Trust | Item Type | Max Multiples | Cost | Cost with discount (After 350 Trust) |
-| --- | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Unique_Recipe_Star_icon.png) / _Unique\_Recipe\_Star\_icon.png_ | Special Request (#1) | N/A | Search for Signs of Wyatt | 1 | Travel to the Stockpile [Prepper Cache](./Prepper%20Cache.md) and deliver![Document\_Stash\_1\_icon.png](../assets/Document_Stash_1_icon.png) [Document Stash 1](./Document%20Stash%201.md). Reward: [Mackinaw Jacket](./Mackinaw%20Jacket.md) | - No discount |
-| ![](../assets/Unique_Recipe_Star_icon.png) / _Unique\_Recipe\_Star\_icon.png_ | Special Request (#2) | N/A | Search for Signs of Wyatt | 1 | Travel to the Hunting [Prepper Cache](./Prepper%20Cache.md) and deliver![Document\_Stash\_2\_icon.png](../assets/Document_Stash_2_icon.png) [Document Stash 2](./Document%20Stash%202.md). Reward: [3x Arrowhead](./Arrowhead.md) | - No discount |
-| ![](../assets/Unique_Recipe_Star_icon.png) / _Unique\_Recipe\_Star\_icon.png_ | Special Request (#3) | N/A | Search for Signs of Wyatt | 1 | Travel to the Conspiracy [Prepper Cache](./Prepper%20Cache.md) and deliver![Document\_Stash\_3\_icon.png](../assets/Document_Stash_3_icon.png) [Document Stash 3](./Document%20Stash%203.md). Reward: [Improvised Knife](./Improvised%20Knife.md) | - No discount |
-| ![](../assets/Unique_Recipe_Star_icon.png) / _Unique\_Recipe\_Star\_icon.png_ | Special Request (#4) | N/A | Search for Signs of Wyatt | 1 | Travel to the [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) and deliver![A\_Skeleton\_And\_Note\_icon.png](../assets/A_Skeleton_And_Note_icon.png) [A Skeleton And Note](./A%20Skeleton%20And%20Note.md). Reward: [Hockey Jersey](./Hockey%20Jersey.md) | - No discount |
-| ![](../assets/Unique_Recipe_Star_icon.png) / _Unique\_Recipe\_Star\_icon.png_ | Special Request (#5) | N/A | Destroy the Abandoned Prepper Cache **_Note:_ This will make this location (and contents) permanently inaccessible** | 1 | Travel to the [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) and return ![Wyatt's\_Skeleton\_icon.png](../assets/Wyatt%27s_Skeleton_icon.png) [Wyatt's Skeleton](./Wyatt%27s%20Skeleton.md). Destroy the cache, then deliver ![Broken\_Hatch\_Wheel\_icon.png](../assets/Broken_Hatch_Wheel_icon.png) [Broken Hatch Wheel](./Broken%20Hatch%20Wheel.md). Reward: [Heavy Hammer](./Heavy%20Hammer.md) | - No discount |
-| ![](../assets/Cereal_icon.png) / _Cereal\_icon.png_ | [Cereal](./Cereal.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 20 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) | - 15 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Canned_Pineapple_icon.png) / _Canned\_Pineapple\_icon.png_ | [Canned Pineapple](./Canned%20Pineapple.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 12 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) | - 8 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Dried_Apples_icon.png) / _Dried\_Apples\_icon.png_ | [Dried Apples](./Dried%20Apples.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 12 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) | - 8 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Pickles_icon.png) / _Pickles\_icon.png_ | [Pickles](./Pickles.md) | 1 | [Food And Drink](./Food%20And%20Drink.md) | 10 | - 4.00 kg Any Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) | - 3.00 kg Any Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![](../assets/Caffeine_Pills_icon.png) / _Caffeine\_Pills\_icon.png_ | [Caffeine Pills](./Caffeine%20Pills.md) (5) | 400 | [First Aid](./First%20Aid.md) | 10 | N/A | - 9 Any Harvestable Plants / - 3.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 3 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) |
-| ![](../assets/Heat_Pack_icon.png) / _Heat\_Pack\_icon.png_ | [Heat Pack](./Heat%20Pack.md) | 300 | [First Aid](./First%20Aid.md) | 5 | - 10 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 15![Stick\_icon.png](../assets/Stick_icon.png) [Stick](./Stick.md) | - 7 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 12![Stick\_icon.png](../assets/Stick_icon.png) [Stick](./Stick.md) |
-| ![](../assets/Vitamin-C_Pills_icon.png) / _Vitamin-C\_Pills\_icon.png_ | [Vitamin-C Pills](./Vitamin-C%20Pills.md) (5) | 400 | [First Aid](./First%20Aid.md) | 10 | N/A | - 9 Any Harvestable Plants / - 3.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 3 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md) |
-| ![](../assets/Bunker_Rifle_icon.png) / _Bunker\_Rifle\_icon.png_ | [Bunker Rifle](./Bunker%20Rifle.md) | N/A | [Tools](./Tools.md) | 1 | - 10.00 kg Any Raw Animal Or Raw Fish Meat / - 5 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 4.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) | - 7.50 kg Any Raw Animal Or Raw Fish Meat / - 4 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 3.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) |
-| ![](../assets/Manufactured_Arrow_icon.png) / _Manufactured\_Arrow\_icon.png_ | [Manufactured Arrow](./Manufactured%20Arrow.md) | N/A | [Tools](./Tools.md) | 10 | - 2 Any Cured Hides / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 2 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | - 1 Any Cured Hides / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 1![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| ![](../assets/Survival_Knife_icon.png) / _Survival\_Knife\_icon.png_ | [Survival Knife](./Survival%20Knife.md) | N/A | [Tools](./Tools.md) | 1 | - 1 ![Whetstone\_icon.png](../assets/Whetstone_icon.png) [Whetstone](./Whetstone.md) / - 1 ![Hacksaw\_icon.png](../assets/Hacksaw_icon.png) [Hacksaw](./Hacksaw.md) / - 1 ![Cooking\_Skillet\_icon.png](../assets/Cooking_Skillet_icon.png) [Cooking Skillet](./Cooking%20Skillet.md) | - No discount |
-| ![](../assets/Insulated_Flask_G.png) / _Insulated\_Flask\_G.png_ | Sticker [Insulated Flask](./Insulated%20Flask.md) | 300 | [Tools](./Tools.md) | 1 | - 10.00 kg Any Raw Animal Or Raw Fish Meat / - 4 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 5 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) | - 7.50 kg Any Raw Animal Or Raw Fish Meat / - 3 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 4 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
-| ![](../assets/Patterned_Wool_Mittens_%28Blue%29_icon.png) / _Patterned\_Wool\_Mittens\_(Blue)\_icon.png_ | [Patterned Wool Mittens (Blue)](./Patterned%20Wool%20Mittens%20%28Blue%29.md) | 1 | [Clothing](./Clothing.md) | 3 | - 2.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 10 ![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md) | - 1.25 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 7 ![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md) |
-| ![](../assets/Patterned_Wool_Mittens_%28Brown%29_icon.png) / _Patterned\_Wool\_Mittens\_(Brown)\_icon.png_ | [Patterned Wool Mittens (Brown)](./Patterned%20Wool%20Mittens%20%28Brown%29.md) | 1 | [Clothing](./Clothing.md) | 3 | - 2.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 10 ![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md) | - 1.25 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 7 ![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md) |
-| ![](../assets/Patterned_Wool_Mittens_%28Burgundy%29_icon.png) / _Patterned\_Wool\_Mittens\_(Burgundy)\_icon.png_ | [Patterned Wool Mittens (Burgundy)](./Patterned%20Wool%20Mittens%20%28Burgundy%29.md) | 1 | [Clothing](./Clothing.md) | 3 | - 2.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 10 ![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md) | - 1.25 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 7 ![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md) |
-| ![](../assets/T-Shirt_%28CM%29_icon.png) / _T-Shirt\_(CM)\_icon.png_ | [T-Shirt (CM)](./T-Shirt%20%28CM%29.md) | 200 | [Clothing](./Clothing.md) | 1 | - 2 Any Cured Hides / - 12 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | - 1 Any Cured Hides / - 8 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) |
-| ![](../assets/T-Shirt_%28GBI%29_icon.png) / _T-Shirt\_(GBI)\_icon.png_ | [T-Shirt (GBI)](./T-Shirt%20%28GBI%29.md) | 200 | [Clothing](./Clothing.md) | 1 | - 2 Any Cured Hides / - 12 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | - 1 Any Cured Hides / - 8 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) |
-| ![](../assets/T-Shirt_%28Snappy%29_icon.png) / _T-Shirt\_(Snappy)\_icon.png_ | [T-Shirt (Snappy)](./T-Shirt%20%28Snappy%29.md) | 200 | [Clothing](./Clothing.md) | 1 | - 2 Any Cured Hides / - 12 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | - 1 Any Cured Hide / - 8 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) |
-| ![](../assets/Patterned_Wool_Socks_%28Dots%29_icon.png) / _Patterned\_Wool\_Socks\_(Dots)\_icon.png_ | [Patterned Wool Socks (Dots)](./Patterned%20Wool%20Socks%20%28Dots%29.md) | 100 | [Clothing](./Clothing.md) | 3 | - 10 Any Harvestable Plants / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 3 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) | - 8 Any Harvestable Plants / - 1 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 2 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) |
-| ![](../assets/Patterned_Wool_Socks_%28Moose%29_icon.png) / _Patterned\_Wool\_Socks\_(Moose)\_icon.png_ | [Patterned Wool Socks (Moose)](./Patterned%20Wool%20Socks%20%28Moose%29.md) | 100 | [Clothing](./Clothing.md) | 3 | - 10 Any Harvestable Plants / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 3 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) | - 8 Any Harvestable Plants / - 1 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 2 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) |
-| ![](../assets/Patterned_Wool_Socks_%28Plaid%29_icon.png) / _Patterned\_Wool\_Socks\_(Plaid)\_icon.png_ | [Patterned Wool Socks (Plaid)](./Patterned%20Wool%20Socks%20%28Plaid%29.md) | 100 | [Clothing](./Clothing.md) | 3 | - 10 Any Harvestable Plants / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 3 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) | - 8 Any Harvestable Plants / - 1 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 2 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) |
-| ![](../assets/Note_icon.png) / _Note\_icon.png_ | [Bushcraft Bow Blueprint Card](./Bushcraft%20Bow%20Blueprint%20Card.md) | N/A | Blueprint | 1 | - 10.00 kg Any Raw Animal Or Raw Fish Meat / - 5 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 2 Any Cured Hides | - 5.00 kg Any Raw Animal Or Raw Fish Meat / - 2 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 2 Any Cured Hides |
-| ![](../assets/Note_icon.png) / _Note\_icon.png_ | [Wolfskin Hat Blueprint Card](./Wolfskin%20Hat%20Blueprint%20Card.md) | N/A | Blueprint | 1 | - 3.00L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 8 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 2.25L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 6 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
-| ![](../assets/Note_icon.png) / _Note\_icon.png_ | [Wolfskin Pants Blueprint Card](./Wolfskin%20Pants%20Blueprint%20Card.md) | 1 | Blueprint | 1 | - 3.00L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 8 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 2.25L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 6 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
-| ![](../assets/Recipe_Card_Soup_Potato.png) / _Recipe\_Card\_Soup\_Potato.png_ | [Last Resort Soup](./Last%20Resort%20Soup.md) | 1 | [Recipe Card](./Recipe%20Cards.md) | 1 | - 2.25L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 7 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 1.50L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
-| ![](../assets/Recipe_Card_Orca_Bar.png) / _Recipe\_Card\_Orca\_Bar.png_ | [Pemmican Bar](./Pemmican%20Bar.md) | 1 | [Recipe Card](./Recipe%20Cards.md) | 1 | - 3.00L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 8 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 2.25L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 6 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
-| ![](../assets/Recipe_Card_Soup_Ptarmigan.png) / _Recipe\_Card\_Soup\_Ptarmigan.png_ | [Porter's Soup](./Porter%27s%20Soup.md) | 1 | [Recipe Card](./Recipe%20Cards.md) | 1 | - 3.00L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 8 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 2.25L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 6 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
-| ![](../assets/Recipe_Card_Rabbit_Soup.png) / _Recipe\_Card\_Rabbit\_Soup.png_ | [Vagabond Soup](./Vagabond%20Soup.md) | 1 | [Recipe Card](./Recipe%20Cards.md) | 1 | - 2.00L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 6 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | - 1.50L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) |
+Name
+
+Trust
+
+Item Type
+
+Max Multiples
+
+Cost
+
+Cost with discount (After 350 Trust)
+
+![](../assets/Unique_Recipe_Star_icon.png)
+
+_Unique\_Recipe\_Star\_icon.png_
+
+Special Request (#1)
+
+N/A
+
+Search for Signs of Wyatt
+
+1
+
+Travel to the Stockpile [Prepper Cache](./Prepper%20Cache.md) and deliver![Document\_Stash\_1\_icon.png](../assets/Document_Stash_1_icon.png) [Document Stash 1](./Document%20Stash%201.md). Reward: [Mackinaw Jacket](./Mackinaw%20Jacket.md)
+
+- No discount
+
+![](../assets/Unique_Recipe_Star_icon.png)
+
+_Unique\_Recipe\_Star\_icon.png_
+
+Special Request (#2)
+
+N/A
+
+Search for Signs of Wyatt
+
+1
+
+Travel to the Hunting [Prepper Cache](./Prepper%20Cache.md) and deliver![Document\_Stash\_2\_icon.png](../assets/Document_Stash_2_icon.png) [Document Stash 2](./Document%20Stash%202.md). Reward: [3x Arrowhead](./Arrowhead.md)
+
+- No discount
+
+![](../assets/Unique_Recipe_Star_icon.png)
+
+_Unique\_Recipe\_Star\_icon.png_
+
+Special Request (#3)
+
+N/A
+
+Search for Signs of Wyatt
+
+1
+
+Travel to the Conspiracy [Prepper Cache](./Prepper%20Cache.md) and deliver![Document\_Stash\_3\_icon.png](../assets/Document_Stash_3_icon.png) [Document Stash 3](./Document%20Stash%203.md). Reward: [Improvised Knife](./Improvised%20Knife.md)
+
+- No discount
+
+![](../assets/Unique_Recipe_Star_icon.png)
+
+_Unique\_Recipe\_Star\_icon.png_
+
+Special Request (#4)
+
+N/A
+
+Search for Signs of Wyatt
+
+1
+
+Travel to the [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) and deliver![A\_Skeleton\_And\_Note\_icon.png](../assets/A_Skeleton_And_Note_icon.png) [A Skeleton And Note](./A%20Skeleton%20And%20Note.md). Reward: [Hockey Jersey](./Hockey%20Jersey.md)
+
+- No discount
+
+![](../assets/Unique_Recipe_Star_icon.png)
+
+_Unique\_Recipe\_Star\_icon.png_
+
+Special Request (#5)
+
+N/A
+
+Destroy the Abandoned Prepper Cache **_Note:_ This will make this location (and contents) permanently inaccessible**
+
+1
+
+Travel to the [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) and return ![Wyatt's\_Skeleton\_icon.png](../assets/Wyatt%27s_Skeleton_icon.png) [Wyatt's Skeleton](./Wyatt%27s%20Skeleton.md). Destroy the cache, then deliver ![Broken\_Hatch\_Wheel\_icon.png](../assets/Broken_Hatch_Wheel_icon.png) [Broken Hatch Wheel](./Broken%20Hatch%20Wheel.md). Reward: [Heavy Hammer](./Heavy%20Hammer.md)
+
+- No discount
+
+![](../assets/Cereal_icon.png)
+
+_Cereal\_icon.png_
+
+[Cereal](./Cereal.md)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+10
+
+- 20 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+- 15 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Canned_Pineapple_icon.png)
+
+_Canned\_Pineapple\_icon.png_
+
+[Canned Pineapple](./Canned%20Pineapple.md)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+10
+
+- 12 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+- 8 ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Dried_Apples_icon.png)
+
+_Dried\_Apples\_icon.png_
+
+[Dried Apples](./Dried%20Apples.md)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+10
+
+- 12 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+- 8 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Pickles_icon.png)
+
+_Pickles\_icon.png_
+
+[Pickles](./Pickles.md)
+
+1
+
+[Food And Drink](./Food%20And%20Drink.md)
+
+10
+
+- 4.00 kg Any Raw Fish Meat / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+- 3.00 kg Any Raw Fish Meat / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+![](../assets/Caffeine_Pills_icon.png)
+
+_Caffeine\_Pills\_icon.png_
+
+[Caffeine Pills](./Caffeine%20Pills.md) (5)
+
+400
+
+[First Aid](./First%20Aid.md)
+
+10
+
+N/A
+
+- 9 Any Harvestable Plants / - 3.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 3 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md)
+
+![](../assets/Heat_Pack_icon.png)
+
+_Heat\_Pack\_icon.png_
+
+[Heat Pack](./Heat%20Pack.md)
+
+300
+
+[First Aid](./First%20Aid.md)
+
+5
+
+- 10 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 15![Stick\_icon.png](../assets/Stick_icon.png) [Stick](./Stick.md)
+
+- 7 ![Coal\_icon.png](../assets/Coal_icon.png) [Coal](./Coal.md) / - 12![Stick\_icon.png](../assets/Stick_icon.png) [Stick](./Stick.md)
+
+![](../assets/Vitamin-C_Pills_icon.png)
+
+_Vitamin-C\_Pills\_icon.png_
+
+[Vitamin-C Pills](./Vitamin-C%20Pills.md) (5)
+
+400
+
+[First Aid](./First%20Aid.md)
+
+10
+
+N/A
+
+- 9 Any Harvestable Plants / - 3.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 3 ![Crow\_Feather\_icon.png](../assets/Crow_Feather_icon.png) [Crow Feather](./Crow%20Feather.md)
+
+![](../assets/Bunker_Rifle_icon.png)
+
+_Bunker\_Rifle\_icon.png_
+
+[Bunker Rifle](./Bunker%20Rifle.md)
+
+N/A
+
+[Tools](./Tools.md)
+
+1
+
+- 10.00 kg Any Raw Animal Or Raw Fish Meat / - 5 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 4.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md)
+
+- 7.50 kg Any Raw Animal Or Raw Fish Meat / - 4 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 3.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md)
+
+![](../assets/Manufactured_Arrow_icon.png)
+
+_Manufactured\_Arrow\_icon.png_
+
+[Manufactured Arrow](./Manufactured%20Arrow.md)
+
+N/A
+
+[Tools](./Tools.md)
+
+10
+
+- 2 Any Cured Hides / - 2.00 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 2 ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+- 1 Any Cured Hides / - 1.50 L ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) / - 1![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
+
+![](../assets/Survival_Knife_icon.png)
+
+_Survival\_Knife\_icon.png_
+
+[Survival Knife](./Survival%20Knife.md)
+
+N/A
+
+[Tools](./Tools.md)
+
+1
+
+- 1 ![Whetstone\_icon.png](../assets/Whetstone_icon.png) [Whetstone](./Whetstone.md) / - 1 ![Hacksaw\_icon.png](../assets/Hacksaw_icon.png) [Hacksaw](./Hacksaw.md) / - 1 ![Cooking\_Skillet\_icon.png](../assets/Cooking_Skillet_icon.png) [Cooking Skillet](./Cooking%20Skillet.md)
+
+- No discount
+
+![](../assets/Insulated_Flask_G.png)
+
+_Insulated\_Flask\_G.png_
+
+Sticker [Insulated Flask](./Insulated%20Flask.md)
+
+300
+
+[Tools](./Tools.md)
+
+1
+
+- 10.00 kg Any Raw Animal Or Raw Fish Meat / - 4 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 5 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+- 7.50 kg Any Raw Animal Or Raw Fish Meat / - 3 ![Cured\_Birch\_Sapling\_icon.png](../assets/Cured_Birch_Sapling_icon.png) [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) / - 4 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+![](../assets/Patterned_Wool_Mittens_%28Blue%29_icon.png)
+
+_Patterned\_Wool\_Mittens\_(Blue)\_icon.png_
+
+[Patterned Wool Mittens (Blue)](./Patterned%20Wool%20Mittens%20%28Blue%29.md)
+
+1
+
+[Clothing](./Clothing.md)
+
+3
+
+- 2.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 10 ![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md)
+
+- 1.25 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 7 ![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md)
+
+![](../assets/Patterned_Wool_Mittens_%28Brown%29_icon.png)
+
+_Patterned\_Wool\_Mittens\_(Brown)\_icon.png_
+
+[Patterned Wool Mittens (Brown)](./Patterned%20Wool%20Mittens%20%28Brown%29.md)
+
+1
+
+[Clothing](./Clothing.md)
+
+3
+
+- 2.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 10 ![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md)
+
+- 1.25 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 7 ![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md)
+
+![](../assets/Patterned_Wool_Mittens_%28Burgundy%29_icon.png)
+
+_Patterned\_Wool\_Mittens\_(Burgundy)\_icon.png_
+
+[Patterned Wool Mittens (Burgundy)](./Patterned%20Wool%20Mittens%20%28Burgundy%29.md)
+
+1
+
+[Clothing](./Clothing.md)
+
+3
+
+- 2.00 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 10 ![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md)
+
+- 1.25 L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 7 ![Birch\_Bark\_icon.png](../assets/Birch_Bark_icon.png) [Birch Bark](./Birch%20Bark.md)
+
+![](../assets/T-Shirt_%28CM%29_icon.png)
+
+_T-Shirt\_(CM)\_icon.png_
+
+[T-Shirt (CM)](./T-Shirt%20%28CM%29.md)
+
+200
+
+[Clothing](./Clothing.md)
+
+1
+
+- 2 Any Cured Hides / - 12 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+
+- 1 Any Cured Hides / - 8 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+
+![](../assets/T-Shirt_%28GBI%29_icon.png)
+
+_T-Shirt\_(GBI)\_icon.png_
+
+[T-Shirt (GBI)](./T-Shirt%20%28GBI%29.md)
+
+200
+
+[Clothing](./Clothing.md)
+
+1
+
+- 2 Any Cured Hides / - 12 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+
+- 1 Any Cured Hides / - 8 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+
+![](../assets/T-Shirt_%28Snappy%29_icon.png)
+
+_T-Shirt\_(Snappy)\_icon.png_
+
+[T-Shirt (Snappy)](./T-Shirt%20%28Snappy%29.md)
+
+200
+
+[Clothing](./Clothing.md)
+
+1
+
+- 2 Any Cured Hides / - 12 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+
+- 1 Any Cured Hide / - 8 ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+
+![](../assets/Patterned_Wool_Socks_%28Dots%29_icon.png)
+
+_Patterned\_Wool\_Socks\_(Dots)\_icon.png_
+
+[Patterned Wool Socks (Dots)](./Patterned%20Wool%20Socks%20%28Dots%29.md)
+
+100
+
+[Clothing](./Clothing.md)
+
+3
+
+- 10 Any Harvestable Plants / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 3 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)
+
+- 8 Any Harvestable Plants / - 1 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 2 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)
+
+![](../assets/Patterned_Wool_Socks_%28Moose%29_icon.png)
+
+_Patterned\_Wool\_Socks\_(Moose)\_icon.png_
+
+[Patterned Wool Socks (Moose)](./Patterned%20Wool%20Socks%20%28Moose%29.md)
+
+100
+
+[Clothing](./Clothing.md)
+
+3
+
+- 10 Any Harvestable Plants / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 3 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)
+
+- 8 Any Harvestable Plants / - 1 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 2 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)
+
+![](../assets/Patterned_Wool_Socks_%28Plaid%29_icon.png)
+
+_Patterned\_Wool\_Socks\_(Plaid)\_icon.png_
+
+[Patterned Wool Socks (Plaid)](./Patterned%20Wool%20Socks%20%28Plaid%29.md)
+
+100
+
+[Clothing](./Clothing.md)
+
+3
+
+- 10 Any Harvestable Plants / - 2 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 3 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)
+
+- 8 Any Harvestable Plants / - 1 ![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / - 2 ![Cured\_Rabbit\_Pelt\_icon.png](../assets/Cured_Rabbit_Pelt_icon.png) [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)
+
+![](../assets/Note_icon.png)
+
+_Note\_icon.png_
+
+[Bushcraft Bow Blueprint Card](./Bushcraft%20Bow%20Blueprint%20Card.md)
+
+N/A
+
+Blueprint
+
+1
+
+- 10.00 kg Any Raw Animal Or Raw Fish Meat / - 5 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 2 Any Cured Hides
+
+- 5.00 kg Any Raw Animal Or Raw Fish Meat / - 2 ![Cured\_Maple\_Sapling\_icon.png](../assets/Cured_Maple_Sapling_icon.png) [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 2 Any Cured Hides
+
+![](../assets/Note_icon.png)
+
+_Note\_icon.png_
+
+[Wolfskin Hat Blueprint Card](./Wolfskin%20Hat%20Blueprint%20Card.md)
+
+N/A
+
+Blueprint
+
+1
+
+- 3.00L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 8 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+- 2.25L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 6 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+![](../assets/Note_icon.png)
+
+_Note\_icon.png_
+
+[Wolfskin Pants Blueprint Card](./Wolfskin%20Pants%20Blueprint%20Card.md)
+
+1
+
+Blueprint
+
+1
+
+- 3.00L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 8 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+- 2.25L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 6 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+![](../assets/Recipe_Card_Soup_Potato.png)
+
+_Recipe\_Card\_Soup\_Potato.png_
+
+[Last Resort Soup](./Last%20Resort%20Soup.md)
+
+1
+
+[Recipe Card](./Recipe%20Cards.md)
+
+1
+
+- 2.25L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 7 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+- 1.50L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+![](../assets/Recipe_Card_Orca_Bar.png)
+
+_Recipe\_Card\_Orca\_Bar.png_
+
+[Pemmican Bar](./Pemmican%20Bar.md)
+
+1
+
+[Recipe Card](./Recipe%20Cards.md)
+
+1
+
+- 3.00L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 8 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+- 2.25L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 6 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+![](../assets/Recipe_Card_Soup_Ptarmigan.png)
+
+_Recipe\_Card\_Soup\_Ptarmigan.png_
+
+[Porter's Soup](./Porter%27s%20Soup.md)
+
+1
+
+[Recipe Card](./Recipe%20Cards.md)
+
+1
+
+- 3.00L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 8 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+- 2.25L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 6 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+![](../assets/Recipe_Card_Rabbit_Soup.png)
+
+_Recipe\_Card\_Rabbit\_Soup.png_
+
+[Vagabond Soup](./Vagabond%20Soup.md)
+
+1
+
+[Recipe Card](./Recipe%20Cards.md)
+
+1
+
+- 2.00L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 1 ![Car\_Battery\_icon.png](../assets/Car_Battery_icon.png) [Car Battery](./Car%20Battery.md) / - 6 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+- 1.50L ![Lantern\_Fuel\_icon.png](../assets/Lantern_Fuel_icon.png) [Lantern Fuel](./Lantern%20Fuel.md) / - 5 ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
 
 ## Sutherland's Past
 

@@ -4,19 +4,29 @@
 
 **Carter Hydro Dam**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Carter_Hydro_Dam_%28Collectible%29_icon.png) / _Carter\_Hydro\_Dam\_(Collectible)\_icon.png_ |
-| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/Carter_Hydro_Dam_%28Collectible%29_icon.png)
+
+_Carter\_Hydro\_Dam\_(Collectible)\_icon.png_
+
+**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **Carter Hydro Dam** is a [Collectible](./Collectibles.md) item found in Predux [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is was originally [What I Know](./What%20I%20Know.md) knowledge that was given by [Jeremiah](./Jeremiah.md) after raising his Trust to a high level in the Predux.
 

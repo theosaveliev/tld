@@ -11,18 +11,25 @@
 
 **Improvised Hatchet**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Improvised_Hatchet_icon.png) / _Improvised\_Hatchet\_icon.png_ |
-| **General** |  |
-| Item Type | Tool\|- |
-| Renewable | Yes |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.75 kg(3.85 lbs) |
-| Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) 1 hour |
-| Repair | [Whetstone](./Whetstone.md) 12-5 minutes / 3%-5% |
+![](../assets/Improvised_Hatchet_icon.png)
 
-> “__An improvised hatchet. Basically a heavy piece of metal with sharpened edge. Not fancy, but utilitarian.__”
+_Improvised\_Hatchet\_icon.png_
+
+**General**
+
+**Item Type:** Tool\|-
+
+**Renewable:** Yes
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.75 kg(3.85 lbs)
+
+**Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 1 hour
+
+**Repair:** [Whetstone](./Whetstone.md) 12-5 minutes / 3%-5%
+
+> “**An improvised hatchet. Basically a heavy piece of metal with sharpened edge. Not fancy, but utilitarian.**”
 >
 > — In-game description
 

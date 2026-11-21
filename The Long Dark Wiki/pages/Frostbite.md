@@ -4,18 +4,27 @@
 
 **Frostbite**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Frostbite_icon.png) / _Frostbite\_icon.png_ |
-| **Properties** |  |
-| Category | [Affliction](./Afflictions.md) |
-| Description | You have sustained frostbite. Your general condition is permanently reduced. |
-| Caused By | Exposed Bare Skin to the cold Wearing Frozen [Clothing](./Clothing.md) |
-| Effect | Negative |
-| Type | Injury |
-| Affliction Duration | Permanent Affliction |
-| **Treatment** |  |
-| Treatment | No Treatment |
+![](../assets/Frostbite_icon.png)
+
+_Frostbite\_icon.png_
+
+**Properties**
+
+**Category:** [Affliction](./Afflictions.md)
+
+**Description:** You have sustained frostbite. Your general condition is permanently reduced.
+
+**Caused By:** Exposed Bare Skin to the cold Wearing Frozen [Clothing](./Clothing.md)
+
+**Effect:** Negative
+
+**Type:** Injury
+
+**Affliction Duration:** Permanent Affliction
+
+**Treatment**
+
+**Treatment:** No Treatment
 
 **Frostbite** is a physical Injury acquired from having bare skin exposed to the cold for too long and not managing [Frostbite Risk](./Frostbite%20Risk.md), and permanently reduces overall [Condition](./Condition.md) by 10%.
 
@@ -25,7 +34,7 @@ Frostbite Risk will only appear when 1 of 5 extremities of bare skin is exposed 
 
 ## Affliction
 
-> “__You have sustained frostbite. Your general condition is permanently reduced.__”
+> “**You have sustained frostbite. Your general condition is permanently reduced.**”
 >
 > — In-game Description
 

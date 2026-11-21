@@ -17,21 +17,27 @@
 
 **The Crash**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/The_Crash.png) / _The\_Crash.png_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Previous | [Memories](./Memories.md) |
-| Current | The Crash |
-| Next | [The Grey Mother](./The%20Grey%20Mother.md) |
-| Region | [Mountain Town](./Mountain%20Town.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md) |
+![](../assets/The_Crash.png)
+
+_The\_Crash.png_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Previous:** [Memories](./Memories.md)
+
+**Current:** The Crash
+
+**Next:** [The Grey Mother](./The%20Grey%20Mother.md)
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md)
 
 **Memories** is the second mission in [Episode One](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md), where [Will Mackenzie](./Will%20Mackenzie.md) must survive through the night after his plane crashes and search for signs of [Astrid](./Astrid%20Greenwood.md).
 
 ## Official description
 
-> “__Mackenzie fights to stay alive while searching for signs of Astrid. What happened to her?__”
+> “**Mackenzie fights to stay alive while searching for signs of Astrid. What happened to her?**”
 >
 > — In-game description
 

@@ -42,16 +42,29 @@
 
 **Sutherland's Tale**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Trader_Journal_Background.png) / _Trader\_Journal\_Background.png_ |
-| **Missions** |  |
-| Previous | [Last Horizon](./Last%20Horizon.md) |
-| Current | Sutherland's Tale |
+![](../assets/Trader_Journal_Background.png)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __We all get to to tell our own stories, right? This is mine.__ / Sutherland the Trader | ” |
+_Trader\_Journal\_Background.png_
+
+**Missions**
+
+**Previous:** [Last Horizon](./Last%20Horizon.md)
+
+**Current:** Sutherland's Tale
+
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+\|}{\| style="margin:auto"
+
+“
+
+**We all get to to tell our own stories, right? This is mine.** / Sutherland the Trader
+
+”
 
 **Sutherland's Tale** is the fourth and final [Tale](./Tales.md) released for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon in [Survival Mode](./Survival%20Mode.md). Completing this Tale is not needed to unlock the [Rüdiger's Dream](./R%C3%BCdiger%27s%20Dream.md) Achievement.
 

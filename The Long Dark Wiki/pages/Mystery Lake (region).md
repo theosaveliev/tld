@@ -18,7 +18,7 @@
 
 _For the location, see [Mystery Lake (location)](./Mystery%20Lake%20%28location%29.md)._
 
-> “__Ideal for new players. A balance between wilderness and man-made shelters, resources, and wildlife.__”
+> “**Ideal for new players. A balance between wilderness and man-made shelters, resources, and wildlife.**”
 >
 > — - In game description
 

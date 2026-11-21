@@ -4,10 +4,11 @@
 
 **Thanks for the Memories**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Thanks_for_the_Memories_icon.png) / _Thanks\_for\_the\_Memories\_icon.png_ |
-| Description | Collect 12 Mementos – one from each Lower Great Bear Island Region (single game). |
+![](../assets/Thanks_for_the_Memories_icon.png)
+
+_Thanks\_for\_the\_Memories\_icon.png_
+
+**Description:** Collect 12 Mementos – one from each Lower Great Bear Island Region (single game).
 
 **Thanks for the Memories** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

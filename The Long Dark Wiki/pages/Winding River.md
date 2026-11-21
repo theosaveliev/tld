@@ -11,17 +11,29 @@
 
 **Winding River**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/RegionAtlas-resources.assets-562_%285%29.png) / _RegionAtlas-resources.assets-562\_(5).png_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Winding_River_Location.png) / _Winding\_River\_Location.png_ |
-|  | ![](../assets/Winding_River_map.png) / _Winding\_River\_map.png_ |
-| **Details** |  |
-| Description | An unremarkable valley located on the other side of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) |
-| Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Pleasant Valley](./Pleasant%20Valley.md) |
-| Locations | 2 |
-| Date Added | May 21 2015 |
+![](../assets/RegionAtlas-resources.assets-562_%285%29.png)
+
+_RegionAtlas-resources.assets-562\_(5).png_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/Winding_River_Location.png)
+
+_Winding\_River\_Location.png_
+
+![](../assets/Winding_River_map.png)
+
+_Winding\_River\_map.png_
+
+**Details**
+
+**Description:** An unremarkable valley located on the other side of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md)
+
+**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Pleasant Valley](./Pleasant%20Valley.md)
+
+**Locations:** 2
+
+**Date Added:** May 21 2015
 
 **Winding River** (also known in-lore as the **Carter River**) is a Transition Zone [Region](./Region.md) behind [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) that connects [Mystery Lake](./Mystery%20Lake%20%28region%29.md) to a [Cave](./Cave%20%28Transition%20Zone%29.md) and then subsequently to [Pleasant Valley](./Pleasant%20Valley.md). It was the 2nd Transition Zone to be released in _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -71,5 +83,3 @@ _An outdated map of Winding River v1.93_
 ![](../assets/The_Carter_Hydro_Dam_one-way_entrance.jpg)
 
 _The\_Carter\_Hydro\_Dam\_one-way\_entrance.jpg_
-
-[es:Río sinuoso](es:R%C3%ADo_sinuoso) [ru:Извилистая река](ru:%D0%98%D0%B7%D0%B2%D0%B8%D0%BB%D0%B8%D1%81%D1%82%D0%B0%D1%8F_%D1%80%D0%B5%D0%BA%D0%B0)

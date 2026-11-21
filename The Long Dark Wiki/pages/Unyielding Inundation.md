@@ -4,9 +4,14 @@
 
 **Unyielding Inundation**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Unyielding_Inundation.jpg) / _Unyielding\_Inundation.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Unyielding_Inundation_Location.png) / _Unyielding\_Inundation\_Location.png_ |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+![](../assets/Unyielding_Inundation.jpg)
+
+_Unyielding\_Inundation.jpg_
+
+**Location**
+
+![](../assets/Unyielding_Inundation_Location.png)
+
+_Unyielding\_Inundation\_Location.png_
+
+**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-

@@ -4,10 +4,11 @@
 
 **Hot Shot**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Hot_Shot_icon.png) / _Hot\_Shot\_icon.png_ |
-| Description | Kill 25 Rabbits with Fire Hardened Arrows (single game). |
+![](../assets/Hot_Shot_icon.png)
+
+_Hot\_Shot\_icon.png_
+
+**Description:** Kill 25 Rabbits with Fire Hardened Arrows (single game).
 
 **Hot Shot** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

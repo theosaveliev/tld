@@ -4,22 +4,35 @@
 
 **Diocese Report**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Diocese_Report_icon.png) / _Diocese\_Report\_icon.png_ |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
-| Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Church Artifact](./Church%20Artifact%20%28mission%29.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A letter updating Father Thomas on the investigation into the stolen Church Artifact. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_ChurchTheftReport |
+![](../assets/Diocese_Report_icon.png)
+
+_Diocese\_Report\_icon.png_
+
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+
+**Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Church Artifact](./Church%20Artifact%20%28mission%29.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A letter updating Father Thomas on the investigation into the stolen Church Artifact.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_ChurchTheftReport
 
 **Diocese Report** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Church Artifact](./Church%20Artifact%20%28mission%29.md) side mission.
 

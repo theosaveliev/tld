@@ -4,16 +4,21 @@
 
 **Cloth**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cloth_icon.png) / _cloth\_icon.png_ |
-| **General** |  |
-| Item Type | Material\|- |
-| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
+![](../assets/Cloth_icon.png)
 
-> “__Cloth used for crafting and repair, as well as for creating bandages.__”
+_cloth\_icon.png_
+
+**General**
+
+**Item Type:** Material\|-
+
+**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+> “**Cloth used for crafting and repair, as well as for creating bandages.**”
 >
 > — In-game description
 

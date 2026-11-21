@@ -4,19 +4,29 @@
 
 **Field 31 Operation Memo**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Field_31_Operation_Memo_icon.png) / _Field\_31\_Operation\_Memo\_icon.png_ |
-| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | An old piece of airfield paperwork. |
-| **Values** |  |
-| Weight | 0 kg (0 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_Tale1ChiefNote1 |
+![](../assets/Field_31_Operation_Memo_icon.png)
+
+_Field\_31\_Operation\_Memo\_icon.png_
+
+**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** An old piece of airfield paperwork.
+
+**Values**
+
+**Weight:** 0 kg (0 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_Tale1ChiefNote1
 
 **Field 31 Operation Memo** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md). It is found at the top of the [Control Tower](./Control%20Tower.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) and begins the Tale [Signal Void](./Signal%20Void.md) (or all [Tales](./Tales.md) if they were completed before).
 
@@ -50,5 +60,3 @@ Captain Redrick, 14th Wing, SAR**
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
-
-[ru:Служебная записка аэродрома №31](ru:%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D0%B0%D1%8D%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC%D0%B0_%E2%84%9631)

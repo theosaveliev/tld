@@ -4,23 +4,37 @@
 
 **Ketchup Chips**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Ketchup_Chips_icon.png) / _Ketchup\_Chips\_icon.png_ |
-| Release | [27 June 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.79) |
-| Wintermute | No |
-| Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | Crunchy, tangy, and ketchup flavored, with a salty punch that will make you thirsty. A Canadian classic. |
-| **Values** |  |
-| Calories | 300 kcal |
-| Hydration | -6% |
-| [Vitamin C](./Scurvy.md) | Minor (5%) |
-| Weight | 0.10 kg (0.22 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_KetchupChips |
+![](../assets/Ketchup_Chips_icon.png)
+
+_Ketchup\_Chips\_icon.png_
+
+**Release:** [27 June 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.79)
+
+**Wintermute:** No
+
+**Renewable:** Yes (rare [Beachcombing](./Beachcombing.md))
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** Crunchy, tangy, and ketchup flavored, with a salty punch that will make you thirsty. A Canadian classic.
+
+**Values**
+
+**Calories:** 300 kcal
+
+**Hydration:** -6%
+
+**[Vitamin C](./Scurvy.md):** Minor (5%)
+
+**Weight:** 0.10 kg (0.22 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_KetchupChips
 
 **Ketchup Chip** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
@@ -42,5 +56,3 @@ Ketchup Chips do not cause [Food Poisoning](./Food%20Poisoning.md) above 20% con
 
 - UPDATE **27 June 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.79)):**
   - Added to game.
-
-[ru:Чипсы с кетчупом](ru:%D0%A7%D0%B8%D0%BF%D1%81%D1%8B_%D1%81_%D0%BA%D0%B5%D1%82%D1%87%D1%83%D0%BF%D0%BE%D0%BC)

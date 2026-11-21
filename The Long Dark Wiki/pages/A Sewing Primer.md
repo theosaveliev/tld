@@ -20,19 +20,29 @@
 
 **A Sewing Primer**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/A_Sewing_Primer_icon.png) / _A\_Sewing\_Primer\_icon.png_ |
-| Release | [23 September 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.364) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|- |
-| Stackable | No |
-| Examine | Everything you ever wanted to know about maintaining your clothing. Researching it will improve your Mending Skill. |
-| **Values** |  |
-| Weight | 0.50 kg (1.1 lbs) |
-| **Actions** |  |
-| Backpack | Research, Drop |
+![](../assets/A_Sewing_Primer_icon.png)
+
+_A\_Sewing\_Primer\_icon.png_
+
+**Release:** [23 September 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.364)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|-
+
+**Stackable:** No
+
+**Examine:** Everything you ever wanted to know about maintaining your clothing. Researching it will improve your Mending Skill.
+
+**Values**
+
+**Weight:** 0.50 kg (1.1 lbs)
+
+**Actions**
+
+**Backpack:** Research, Drop
 
 _For the version encountered in [Wintermute](./Wintermute.md), see [A Sewing Primer (The Basics of Survival)](./A%20Sewing%20Primer%20%28The%20Basics%20of%20Survival%29.md)._
 
@@ -54,14 +64,17 @@ If the player's fatigue, thirst or hunger meters go down to zero or if the envir
 
 **A Sewing Primer**
 
-| Property | Details |
-| --- | --- |
-| Type | Fuel |
-| **Statistics** |  |
-| Duration | ![Fire\_Starting.png](../assets/Fire_Starting.png) 18 minutes |
-| Start Chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) +35% |
-| Heat | ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +2°C (+3.6°F) |
-| Burn Density | 0.6 hr/kg (0.27 hr/lb) |
+**Type:** Fuel
+
+**Statistics**
+
+**Duration:** ![Fire\_Starting.png](../assets/Fire_Starting.png) 18 minutes
+
+**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) +35%
+
+**Heat:** ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
+
+**Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 
 ## Location
 

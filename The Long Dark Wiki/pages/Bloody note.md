@@ -4,17 +4,25 @@
 
 **Bloody note**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Bloody_note_icon.png) / _Bloody\_note\_icon.png_ |
-| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A blood-soaked page from a journal |
-| **Values** |  |
-| Weight | 0 kg (0 lbs) |
+![](../assets/Bloody_note_icon.png)
+
+_Bloody\_note\_icon.png_
+
+**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A blood-soaked page from a journal
+
+**Values**
+
+**Weight:** 0 kg (0 lbs)
 
 **Bloody note** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) in [Sundered Pass](./Sundered%20Pass.md). It is found in the radar station building in [Weather Station](./Weather%20Station.md), in the northwest corner of the room.
 
@@ -38,5 +46,3 @@ It should be enough.**
 
 - 
   - Added to game.
-
-[ru:Окровавленная записка](ru:%D0%9E%D0%BA%D1%80%D0%BE%D0%B2%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0)

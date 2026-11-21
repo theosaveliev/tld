@@ -11,23 +11,43 @@
 
 **Acorns (Cooked - Large Portion)**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Large Portion](../assets/Acorns_%28Cooked_-_Large_Portion%29_icon.png) / _Large Portion_ | 250px\]\] |
-|  | ![Large Portion](../assets/Acorns_%28Cooked_-_Large_Portion%29_icon.png) / _Large Portion_ |
-| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
-| Wintermute | No |
-| Renewable | No |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- / Equipable |
-| Stackable | Yes |
-| Examine | Eat them as a snack or hammer them into Acorn Grounds for coffee. |
-| **Values** |  |
-| Calories | 320 kcal |
-| Hydration | 0% |
-| Weight | 0.25 kg (0.55 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_AcornCooked |
+\[\[File: / ![Large Portion](../assets/Acorns_%28Cooked_-_Large_Portion%29_icon.png) / _Large Portion_
+
+250px\]\]
+
+![Large Portion](../assets/Acorns_%28Cooked_-_Large_Portion%29_icon.png)
+
+_Large Portion_
+
+**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
+
+**Wintermute:** No
+
+**Renewable:** No
+
+**Properties**
+
+Item type
+
+[Food And Drink](./Food%20And%20Drink.md)\|-
+
+Equipable
+
+**Stackable:** Yes
+
+**Examine:** Eat them as a snack or hammer them into Acorn Grounds for coffee.
+
+**Values**
+
+**Calories:** 320 kcal
+
+**Hydration:** 0%
+
+**Weight:** 0.25 kg (0.55 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_AcornCooked
 
 **Acorns (Cooked - Large Portion)** are a natural [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 

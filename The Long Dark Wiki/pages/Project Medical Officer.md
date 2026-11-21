@@ -15,22 +15,31 @@
 
 **Project Medical Officer**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
-| Release | 2.03 |
-| Date | 5 December 2022 |
-| Mission | [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) / [Last Horizon](./Last%20Horizon.md) |
-| **Biographical Information** |  |
-| Age | Unknown |
-| Status | Unknown |
-| Occupation | Doctor Researcher |
-| **Physical Information** |  |
-| Sex | Male |
+![](../assets/No_picture.png)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_No\_picture.png_
 
-> “__Behavioural changes are becoming more alarming. I will be including the following transcript excerpt in my summary report, to be filed with project leads before team extraction (should it occur):__”
+**Release:** 2.03
+
+**Date:** 5 December 2022
+
+**Mission:** [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) / [Last Horizon](./Last%20Horizon.md)
+
+**Biographical Information**
+
+**Age:** Unknown
+
+**Status:** Unknown
+
+**Occupation:** Doctor Researcher
+
+**Physical Information**
+
+**Sex:** Male
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+
+> “**Behavioural changes are becoming more alarming. I will be including the following transcript excerpt in my summary report, to be filed with project leads before team extraction (should it occur):**”
 >
 > — Project Medical Officer
 

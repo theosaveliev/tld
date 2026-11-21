@@ -4,18 +4,27 @@
 
 **Milton Credit Union**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Milton_Credit_Union_exterior.jpg) / _Milton\_Credit\_Union\_exterior.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Milton_Credit_Union_Location.png) / _Milton\_Credit\_Union\_Location.png_ |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
-| Description | A former bank with several rooms, including a bank vault. |
-| **General** |  |
-| Type | Residential\|- |
-| Missions | [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3) |
+![](../assets/Milton_Credit_Union_exterior.jpg)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+_Milton\_Credit\_Union\_exterior.jpg_
+
+**Location**
+
+![](../assets/Milton_Credit_Union_Location.png)
+
+_Milton\_Credit\_Union\_Location.png_
+
+**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+
+**Description:** A former bank with several rooms, including a bank vault.
+
+**General**
+
+**Type:** Residential\|-
+
+**Missions:** [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 > “__Dear Members,  
  Due to global economic realities that are well known to you, we are unfortunately unable to remain in operation. All banking services are hereby suspended until further notice.  
@@ -67,5 +76,3 @@ _Frozen corpse (robbery?) with a knife in the main bank vault_
 ![Exterior sign](../assets/Milton_credit_union_sign.png)
 
 _Exterior sign_
-
-[ru:Кредитный союз Милтона](ru:%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7_%D0%9C%D0%B8%D0%BB%D1%82%D0%BE%D0%BD%D0%B0)

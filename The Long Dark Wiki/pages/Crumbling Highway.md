@@ -4,16 +4,27 @@
 
 **Crumbling Highway**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/RegionAtlas-resources.assets-562_%283%29.png) / _RegionAtlas-resources.assets-562\_(3).png_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Crumbling_Highway_Location.png) / _Crumbling\_Highway\_Location.png_ |
-|  | ![](../assets/Old_Island_Connector_map.png) / _Old\_Island\_Connector\_map.png_ |
-| **Details** |  |
-| Description | A transition zone between [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md) featuring the ruins of the [Great Bear Highway](./Great%20Bear%20Highway.md). |
-| Connecting Regions | [Coastal Highway](./Coastal%20Highway.md), / [Desolation Point](./Desolation%20Point.md) |
-| Locations | 5 |
+![](../assets/RegionAtlas-resources.assets-562_%283%29.png)
+
+_RegionAtlas-resources.assets-562\_(3).png_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/Crumbling_Highway_Location.png)
+
+_Crumbling\_Highway\_Location.png_
+
+![](../assets/Old_Island_Connector_map.png)
+
+_Old\_Island\_Connector\_map.png_
+
+**Details**
+
+**Description:** A transition zone between [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md) featuring the ruins of the [Great Bear Highway](./Great%20Bear%20Highway.md).
+
+**Connecting Regions:** [Coastal Highway](./Coastal%20Highway.md), / [Desolation Point](./Desolation%20Point.md)
+
+**Locations:** 5
 
 **Crumbling Highway** (also known as the **Old Island Connector**) is the 3rd Transition Zone [Region](./Region.md) released for _[The Long Dark](./The%20Long%20Dark.md)_. It connects [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md). It is the smallest outdoor map in the game.
 
@@ -85,5 +96,3 @@ _An alternative view of Crumbling Highway from Coastal Highway entrance._
 ![A view of the entrance to Abandoned Mine No.3 (West).](../assets/Abandoned_Mine_No.3_%28West%29.jpg)
 
 _A view of the entrance to Abandoned Mine No.3 (West)._
-
-[es:Autovía derruida](es:Autov%C3%ADa_derruida) [ru:Старый остров между зонами](ru:%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83_%D0%B7%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8)

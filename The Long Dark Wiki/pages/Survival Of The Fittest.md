@@ -23,17 +23,23 @@
 
 **Survival Of The Fittest**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Survival_Of_The_Fittest.jpg) / _Survival\_Of\_The\_Fittest.jpg_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Previous | None |
-| Current | Survival Of The Fittest |
-| Next | [Echoes Of Astrid](./Echoes%20Of%20Astrid.md) |
-| Region | [Mountain Town](./Mountain%20Town.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Astrid Greenwood](./Astrid%20Greenwood.md) |
+![](../assets/Survival_Of_The_Fittest.jpg)
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __You've crashed in the Northern wilderness and are badly injured. Survive long enough for your hand to heal, so you can climb out.__
+_Survival\_Of\_The\_Fittest.jpg_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Previous:** None
+
+**Current:** Survival Of The Fittest
+
+**Next:** [Echoes Of Astrid](./Echoes%20Of%20Astrid.md)
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Astrid Greenwood](./Astrid%20Greenwood.md)
+
+**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **You've crashed in the Northern wilderness and are badly injured. Survive long enough for your hand to heal, so you can climb out.**
 
 In-game description
 

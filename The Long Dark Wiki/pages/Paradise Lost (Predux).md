@@ -13,17 +13,23 @@
 
 **Paradise Lost (Predux)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Paradise_Lost_%28Predux%29.jpg) / _Paradise\_Lost\_(Predux).jpg_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Previous | [The Grey Mother (Predux)](./The%20Grey%20Mother%20%28Predux%29.md) |
-| Current | Paradise Lost (Predux) |
-| Next | [Risk of Infection](./Risk%20of%20Infection.md) |
-| Region | [Mountain Town](./Mountain%20Town.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
+![](../assets/Paradise_Lost_%28Predux%29.jpg)
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __It looks like Astrid made it out of Milton. Follow Lily's path to continue your search beyond the town's borders.__
+_Paradise\_Lost\_(Predux).jpg_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Previous:** [The Grey Mother (Predux)](./The%20Grey%20Mother%20%28Predux%29.md)
+
+**Current:** Paradise Lost (Predux)
+
+**Next:** [Risk of Infection](./Risk%20of%20Infection.md)
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md)
+
+**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **It looks like Astrid made it out of Milton. Follow Lily's path to continue your search beyond the town's borders.**
 
 In-game description
 

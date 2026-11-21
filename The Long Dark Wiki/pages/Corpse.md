@@ -4,12 +4,15 @@
 
 **Corpse**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Frozen_Corpse.jpg) / _Frozen\_Corpse.jpg_ |
-| Story item | Yes |
-| **Container** |  |
-| Capacity | 10.00 kg(22 lbs) |
+![](../assets/Frozen_Corpse.jpg)
+
+_Frozen\_Corpse.jpg_
+
+**Story item:** Yes
+
+**Container**
+
+**Capacity:** 10.00 kg(22 lbs)
 
 A **Corpse** (sometimes labeled as just [Frozen Corpse](./Frozen%20Corpse.md)) are the remains of seemingly recently deceased people. Corpses differ slightly from a Frozen Corpse as they have less snow covered on their bodies, but their skin is a dark purple/black color from severe frostbite. They are usually found outdoors, although some can be found indoors, in caves, or crushed under structures or other landmarks.
 

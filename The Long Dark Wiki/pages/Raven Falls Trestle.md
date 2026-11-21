@@ -4,12 +4,20 @@
 
 **Raven Falls Trestle**
 
-| Property | Details |
-| --- | --- |
-|  | ![Trestle at Ravine's End](../assets/The_Ravine_-_long_train_bridge.jpg) / _Trestle at Ravine's End_ |
-| **Location** |  |
-|  | ![](../assets/Raven_Falls_Trestle_Location.png) / _Raven\_Falls\_Trestle\_Location.png_ |
-| Region | [The Ravine](./The%20Ravine.md)\|- |
-| Description | A partially damaged wooden train trestle. |
-| **General** |  |
-| Type | Industrial\|- |
+![Trestle at Ravine's End](../assets/The_Ravine_-_long_train_bridge.jpg)
+
+_Trestle at Ravine's End_
+
+**Location**
+
+![](../assets/Raven_Falls_Trestle_Location.png)
+
+_Raven\_Falls\_Trestle\_Location.png_
+
+**Region:** [The Ravine](./The%20Ravine.md)\|-
+
+**Description:** A partially damaged wooden train trestle.
+
+**General**
+
+**Type:** Industrial\|-

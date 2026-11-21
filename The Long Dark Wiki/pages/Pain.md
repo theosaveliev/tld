@@ -4,24 +4,37 @@
 
 **Pain**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Pain_icon.png) / _Pain\_icon.png_ |
-| Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48) |
-| Update | 1.48 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | You are suffering from the pain of an injury, causing blurred vision and discomfort. Treat it, or let it heal on its own over time. |
-| Caused By | Falls Sprains |
-| Effect | Negative |
-| Type | Injury |
-| Affliction Duration | Until Treated or Recovery Time Passes |
-| **Treatment** |  |
-| Treatment | 2 x **Template:pic link** |
-| Alternate Treatment | 1 x ![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md) |
-| Recovery Time | 20 min - 1 hour (untreated) |
+![](../assets/Pain_icon.png)
 
-> “__You are suffering from the pain of an injury, causing blurred vision and discomfort. Treat it, or let it heal on its own over time.__”
+_Pain\_icon.png_
+
+**Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.48)
+
+**Update:** 1.48
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** You are suffering from the pain of an injury, causing blurred vision and discomfort. Treat it, or let it heal on its own over time.
+
+**Caused By:** Falls Sprains
+
+**Effect:** Negative
+
+**Type:** Injury
+
+**Affliction Duration:** Until Treated or Recovery Time Passes
+
+**Treatment**
+
+**Treatment:** 2 x **Template:pic link**
+
+**Alternate Treatment:** 1 x ![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
+
+**Recovery Time:** 20 min - 1 hour (untreated)
+
+> “**You are suffering from the pain of an injury, causing blurred vision and discomfort. Treat it, or let it heal on its own over time.**”
 >
 > — In-game description
 

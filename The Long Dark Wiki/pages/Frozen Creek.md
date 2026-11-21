@@ -4,10 +4,16 @@
 
 **Frozen Creek**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Frozen_Creek_upstream.jpg) / _Frozen\_Creek\_upstream.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Frozen_Creek_Location.png) / _Frozen\_Creek\_Location.png_ |
-| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
-| Type | Outdoors\|- |
+![](../assets/Frozen_Creek_upstream.jpg)
+
+_Frozen\_Creek\_upstream.jpg_
+
+**Location**
+
+![](../assets/Frozen_Creek_Location.png)
+
+_Frozen\_Creek\_Location.png_
+
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+
+**Type:** Outdoors\|-

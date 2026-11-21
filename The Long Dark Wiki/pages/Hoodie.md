@@ -4,24 +4,37 @@
 
 **Hoodie**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Hoodie_icon.png) / _Hoodie\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
-| Clothing Slot | Inner torso |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)10% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)2% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)0% |
-| Harvest | 1 [Cloth](./Cloth.md) / 45 minutes |
-| Repair | 1 [Cloth](./Cloth.md) / 60 minutes / 30% condition |
+![](../assets/Hoodie_icon.png)
 
-> “__Hooded cotton sweatshirt. You know, the kind that passes for high fashion with game developers these days.__”
+_Hoodie\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Renewable:** Yes (rare [Beachcombing](./Beachcombing.md))
+
+**Clothing Slot:** Inner torso
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)10%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)2%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+
+**Harvest:** 1 [Cloth](./Cloth.md) / 45 minutes
+
+**Repair:** 1 [Cloth](./Cloth.md) / 60 minutes / 30% condition
+
+> “**Hooded cotton sweatshirt. You know, the kind that passes for high fashion with game developers these days.**”
 >
 > — In-game description
 

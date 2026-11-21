@@ -16,18 +16,37 @@
 
 **Hunting Lodge**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Hunting_lodge.jpg) / _Hunting\_lodge.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Hunting_Lodge_Location.png) / _Hunting\_Lodge\_Location.png_ |
-| Region | [Broken Railroad](./Broken%20Railroad.md)\|- |
-| Description | A two-story house |
-| **General** |  |
-| Type | ResidentialMilitary/Sporting\|- |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
-| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ | Has a workbench\|- |
-| Missions | [The Best Defense](./Episode%202%20-%20Luminance%20Fugue.md#The_Best_Defense%3F) |
+![](../assets/Hunting_lodge.jpg)
+
+_Hunting\_lodge.jpg_
+
+**Location**
+
+![](../assets/Hunting_Lodge_Location.png)
+
+_Hunting\_Lodge\_Location.png_
+
+**Region:** [Broken Railroad](./Broken%20Railroad.md)\|-
+
+**Description:** A two-story house
+
+**General**
+
+**Type:** ResidentialMilitary/Sporting\|-
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+Has a bed
+
+![](../assets/Workbench_icon_green.png)
+
+_workbench\_icon\_green.png_
+
+Has a workbench\|-
+
+**Missions:** [The Best Defense](./Episode%202%20-%20Luminance%20Fugue.md#The_Best_Defense%3F)
 
 The **Hunting Lodge** is a location in [Broken Railroad](./Broken%20Railroad.md).
 

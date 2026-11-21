@@ -18,16 +18,23 @@
 
 **Rabbit**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Rabbit.png) / _Rabbit.png_ |
-| **Basic Information** |  |
-| Release | [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.152) |
-| Role | Prey |
-| **Physical Information** |  |
-| Color | Brown |
-| Size | Small |
-| Eyes | Black |
+![](../assets/Rabbit.png)
+
+_Rabbit.png_
+
+**Basic Information**
+
+**Release:** [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.152)
+
+**Role:** Prey
+
+**Physical Information**
+
+**Color:** Brown
+
+**Size:** Small
+
+**Eyes:** Black
 
 **Template:quote2** **Rabbits** are small animals found scattered throughout the wilderness, either alone or in groups of two to four. They can be found in all main regions as well as in some transition zones.
 
@@ -41,12 +48,39 @@ Their meat is the same weight as raw venison despite providing just over half th
 
 When killed, a [Rabbit Carcass](./Rabbit%20Carcass.md) can be butchered on the spot or carried whole, similar to a [Ptarmigan Carcass](./Ptarmigan%20Carcass.md).
 
-|  | Item | Quantity | Rarity |
-| --- | --- | --- | --- |
-| ![](../assets/Rabbit_%28Raw%29_icon.png) / _Rabbit\_(Raw)\_icon.png_ | [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) | 1 - 2 | Always[¹](#fn1) |
-| ![](../assets/Fresh_Rabbit_Pelt_icon.png) / _Fresh\_Rabbit\_Pelt\_icon.png_ | [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md) | 1 | Always |
-| \[Missing image: Gut\_icon.png\] / _Gut\_icon.png_ | [Fresh Gut](./Fresh%20Gut.md) | 1 | Always |
-|  |  |  |  |
+Item
+
+Quantity
+
+Rarity
+
+![](../assets/Rabbit_%28Raw%29_icon.png)
+
+_Rabbit\_(Raw)\_icon.png_
+
+[Rabbit (Raw)](./Rabbit%20%28Raw%29.md)
+
+1 - 2
+
+Always[¹](#fn1)
+
+![](../assets/Fresh_Rabbit_Pelt_icon.png)
+
+_Fresh\_Rabbit\_Pelt\_icon.png_
+
+[Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md)
+
+1
+
+Always
+
+\[Missing image: Gut\_icon.png\] / _Gut\_icon.png_
+
+[Fresh Gut](./Fresh%20Gut.md)
+
+1
+
+Always
 
 ## Behaviour
 

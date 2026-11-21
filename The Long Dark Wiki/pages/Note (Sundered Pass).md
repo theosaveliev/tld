@@ -4,17 +4,25 @@
 
 **Note**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Note_%28Sundered_Pass%29_icon.png) / _Note\_(Sundered\_Pass)\_icon.png_ |
-| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | An old handwritten letter |
-| **Values** |  |
-| Weight | 0 kg (0 lbs) |
+![](../assets/Note_%28Sundered_Pass%29_icon.png)
+
+_Note\_(Sundered\_Pass)\_icon.png_
+
+**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** An old handwritten letter
+
+**Values**
+
+**Weight:** 0 kg (0 lbs)
 
 **Note** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) in [Sundered Pass](./Sundered%20Pass.md). It is found on a shelf in [Final Refuge](./Final%20Refuge.md).
 
@@ -42,5 +50,3 @@ See you soon, - D**
 
 - 
   - Added to game.
-
-[ru:Записка (Последнее убежище)](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%28%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B5%D0%B5_%D1%83%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5%29)

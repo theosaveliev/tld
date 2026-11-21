@@ -27,7 +27,7 @@
 | Current | Blackrock Rumours |
 | Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 
-> “__Security memos describing unusual activity in the Blackrock area.__”
+> “**Security memos describing unusual activity in the Blackrock area.**”
 >
 > — In-game description
 

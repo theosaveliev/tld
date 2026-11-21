@@ -12,19 +12,29 @@
 
 **Stone**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Stone_icon.png) / _Stone\_icon.png_ |
-| Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
-| Stackable | Yes |
-| Examine | A small stone. Big enough to stun a small animal. Might be enough to scare off a bigger one. |
-| **Values** |  |
-| Weight | 0.15 kg (0.33 lbs) |
-| **Actions** |  |
-| Backpack | Toss from hip, Aim and Throw |
+![](../assets/Stone_icon.png)
+
+_Stone\_icon.png_
+
+**Release:** [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)\|-
+
+**Stackable:** Yes
+
+**Examine:** A small stone. Big enough to stun a small animal. Might be enough to scare off a bigger one.
+
+**Values**
+
+**Weight:** 0.15 kg (0.33 lbs)
+
+**Actions**
+
+**Backpack:** Toss from hip, Aim and Throw
 
 A **Stone** is a throwable item found scattered around all maps. It can be picked up and used as a distraction or make-shift weapon against [Wolves](./Wolf.md).
 
@@ -80,5 +90,3 @@ _A [Rock Cache](./Rock%20Cache.md) made of several Stones_
 
 - UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**
   - Added to game.
-
-[ru:Камень](ru:%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C)

@@ -4,12 +4,20 @@
 
 **Cliff Cave**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cliff_Cave.jpg) / _Cliff\_Cave.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Cliff_Cave_Location.png) / _Cliff\_Cave\_Location.png_ |
-| Region |  |
-| Description | A small cave hidden underneath a cliff |
-| **General** |  |
-| Type | Cave\|- |
+![](../assets/Cliff_Cave.jpg)
+
+_Cliff\_Cave.jpg_
+
+**Location**
+
+![](../assets/Cliff_Cave_Location.png)
+
+_Cliff\_Cave\_Location.png_
+
+Region
+
+**Description:** A small cave hidden underneath a cliff
+
+**General**
+
+**Type:** Cave\|-

@@ -4,12 +4,20 @@
 
 **The Arch**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/The_Arch_-_Milton.jpg) / _The\_Arch\_-\_Milton.jpg_ |
-| **Location** |  |
-|  | ![](../assets/The_Arch_Mountain_Town_Location.png) / _The\_Arch\_Mountain\_Town\_Location.png_ |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
-| Description | A natural stone arch formation |
-| **General** |  |
-| Type | Landmark\|- |
+![](../assets/The_Arch_-_Milton.jpg)
+
+_The\_Arch\_-\_Milton.jpg_
+
+**Location**
+
+![](../assets/The_Arch_Mountain_Town_Location.png)
+
+_The\_Arch\_Mountain\_Town\_Location.png_
+
+**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+
+**Description:** A natural stone arch formation
+
+**General**
+
+**Type:** Landmark\|-

@@ -4,15 +4,21 @@
 
 **Broken Metal Light Fixture**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/BrokenMetalLightFixture.jpg) / _BrokenMetalLightFixture.jpg_ |
-| **General** |  |
-| Item Type | Item |
-| Wintermute |  |
-| Renewable | No |
-| **Statistics** |  |
-| Harvest | 45 minutes 2 x [Scrap Metal](./Scrap%20Metal.md) |
+![](../assets/BrokenMetalLightFixture.jpg)
+
+_BrokenMetalLightFixture.jpg_
+
+**General**
+
+**Item Type:** Item
+
+Wintermute
+
+**Renewable:** No
+
+**Statistics**
+
+**Harvest:** 45 minutes 2 x [Scrap Metal](./Scrap%20Metal.md)
 
 The **Broken Metal Light Fixture** is a harvestable item from in many industrial areas of the Island, most notably in the [Carter Dam](./Carter%20Hydro%20Dam.md). It can be harvested with a [Hacksaw](./Hacksaw.md).
 

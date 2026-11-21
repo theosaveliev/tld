@@ -15,17 +15,29 @@
 
 **Raven Falls Railway Line**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/RegionAtlas-resources.assets-562_%281%29.png) / _RegionAtlas-resources.assets-562\_(1).png_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/The_Ravine_Location.png) / _The\_Ravine\_Location.png_ |
-|  | ![](../assets/The_Ravine_map.png) / _The\_Ravine\_map.png_ |
-| **Details** |  |
-| Description | A small valley containing a railway trestle passing through the mountains. |
-| Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Coastal Highway](./Coastal%20Highway.md), [Bleak Inlet](./Bleak%20Inlet.md) |
-| Difficulty | Beginner |
-| Locations | 5 |
+![](../assets/RegionAtlas-resources.assets-562_%281%29.png)
+
+_RegionAtlas-resources.assets-562\_(1).png_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/The_Ravine_Location.png)
+
+_The\_Ravine\_Location.png_
+
+![](../assets/The_Ravine_map.png)
+
+_The\_Ravine\_map.png_
+
+**Details**
+
+**Description:** A small valley containing a railway trestle passing through the mountains.
+
+**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Coastal Highway](./Coastal%20Highway.md), [Bleak Inlet](./Bleak%20Inlet.md)
+
+**Difficulty:** Beginner
+
+**Locations:** 5
 
 **The Ravine**, also known as **The Raven Falls Railway Line** or **Raven Falls,** is a Transition Zone [Region](./Region.md) connecting [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Coastal Highway](./Coastal%20Highway.md), and [Bleak Inlet](./Bleak%20Inlet.md). It was the 1st Transition Zone released in _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -116,4 +128,4 @@ _The long, rickety train bridge in dire need of maintenance._
 
 _Train tunnel at The Ravine._
 
-[es:Desfiladero](es:Desfiladero) [fr:Ravin](fr:Ravin) [ru:Железнодорожная ветка "Водопады ворона"](ru:%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B5%D1%82%D0%BA%D0%B0_"%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B0") © Please note that all contributions to the The Long Dark Wiki are considered to be released under the CC-BY-SA Unwatch My Tools Customize Admin Reported Shortcuts
+© Please note that all contributions to the The Long Dark Wiki are considered to be released under the CC-BY-SA Unwatch My Tools Customize Admin Reported Shortcuts

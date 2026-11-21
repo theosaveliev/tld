@@ -4,23 +4,37 @@
 
 **Fishing Bait**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Fishing_Bait_icon.png) / _Fishing\_Bait\_icon.png_ |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
-| Stackable | Yes |
-| Examine | Basic fish bait. Useful for catching larger fish. |
-| **Values** |  |
-| Weight | 0.05 kg (0.11 lbs) |
-| **Actions** |  |
-| Backpack | Use, Actions, Drop |
-| On ground | Take It, Leave It |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_FishingBait |
+![](../assets/Fishing_Bait_icon.png)
+
+_Fishing\_Bait\_icon.png_
+
+**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)\|-
+
+**Stackable:** Yes
+
+**Examine:** Basic fish bait. Useful for catching larger fish.
+
+**Values**
+
+**Weight:** 0.05 kg (0.11 lbs)
+
+**Actions**
+
+**Backpack:** Use, Actions, Drop
+
+**On ground:** Take It, Leave It
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_FishingBait
 
 **Fishing Bait** is a Tool used for [Ice Fishing](./Ice%20Fishing.md) in _The Long Dark_. It released in the free update of Part 3: Frontier Comforts for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
@@ -40,5 +54,3 @@ Whitefish/Trout weigh significantly less than Coho Salmon/Smallmouth Bass, but g
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-[ru:Наживка](ru:%D0%9D%D0%B0%D0%B6%D0%B8%D0%B2%D0%BA%D0%B0)

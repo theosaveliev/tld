@@ -4,14 +4,29 @@
 
 **Cedar Limb**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Small](../assets/CedarLimb.jpg) / _Small_ / ![Large](../assets/CedarLimbLarge.jpg) / _Large_ | 250px\]\] |
-| ![Small](../assets/CedarLimb.jpg) / _Small_ | ![Large](../assets/CedarLimbLarge.jpg) / _Large_ |
-| **General** |  |
-| Item Type | Item |
-| Wintermute | Yes\|- / **Statistics** |
-| Harvest | 45-60 Minutes / Yields 3-4 [Cedar Firewood](./Cedar%20Firewood.md), 1 [Tinder Plug](./Tinder%20Plug.md) |
+\[\[File: / ![Small](../assets/CedarLimb.jpg) / _Small_ / ![Large](../assets/CedarLimbLarge.jpg) / _Large_
+
+250px\]\]
+
+![Small](../assets/CedarLimb.jpg)
+
+_Small_
+
+![Large](../assets/CedarLimbLarge.jpg)
+
+_Large_
+
+**General**
+
+**Item Type:** Item
+
+Wintermute
+
+Yes\|-
+
+**Statistics**
+
+**Harvest:** 45-60 Minutes / Yields 3-4 [Cedar Firewood](./Cedar%20Firewood.md), 1 [Tinder Plug](./Tinder%20Plug.md)
 
 A **Cedar Limb** is one of the many stationary interactable objects found in _The Long Dark_. They respawn randomly in the world over time under trees, making them a renewable [material](./Materials.md).
 

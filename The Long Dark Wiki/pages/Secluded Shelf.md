@@ -4,11 +4,18 @@
 
 **Secluded Shelf**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Secluded_Shelf.jpg) / _Secluded\_Shelf.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Secluded_Shelf_Location.png) / _Secluded\_Shelf\_Location.png_ |
-| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
-| **General** |  |
-| Type | Outdoors\|- |
+![](../assets/Secluded_Shelf.jpg)
+
+_Secluded\_Shelf.jpg_
+
+**Location**
+
+![](../assets/Secluded_Shelf_Location.png)
+
+_Secluded\_Shelf\_Location.png_
+
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+
+**General**
+
+**Type:** Outdoors\|-

@@ -4,23 +4,35 @@
 
 **Martin Barker**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Martin_Barker.png) / _Martin\_Barker.png_ |
-| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00) |
-| Date | 1 August 2017 |
-| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| Mission | [The Grey Mother](./The%20Grey%20Mother.md) |
-| Location(s) | [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) |
-| **Biographical Information** |  |
-| Status | Dead |
-| Place of death | [Milton](./Milton.md) |
-| Relatives | **•** [Grey Mother](./Grey%20Mother.md) (ex-Wife) / **•** [Lilith Barker](./Lilith%20Barker.md) (Daughter) |
-| Occupation | Farmer |
-| **Physical Information** |  |
-| Hair | Grey |
+![](../assets/Martin_Barker.png)
 
-> “__M - The farmer... is gone.__”
+_Martin\_Barker.png_
+
+**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)
+
+**Date:** 1 August 2017
+
+**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
+
+**Mission:** [The Grey Mother](./The%20Grey%20Mother.md)
+
+**Location(s):** [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md)
+
+**Biographical Information**
+
+**Status:** Dead
+
+**Place of death:** [Milton](./Milton.md)
+
+**Relatives:** **•** [Grey Mother](./Grey%20Mother.md) (ex-Wife) / **•** [Lilith Barker](./Lilith%20Barker.md) (Daughter)
+
+**Occupation:** Farmer
+
+**Physical Information**
+
+**Hair:** Grey
+
+> “**M - The farmer... is gone.**”
 >
 > — GM - So...he left with the other cowards, then? M - No. He's dead. Looks like wolves got him. GM - And so it ends. [Will Mackenzie](./Will%20Mackenzie.md) explaining to [Grey Mother](./Grey%20Mother.md) what he found in the shed on the farm
 

@@ -15,20 +15,31 @@
 
 **Torch**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Torch_icon.png) / _Torch\_icon.png_ |
-| Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|- |
-| Stackable | No |
-| Examine | A simple torch -- the same kind that's dispelled the darkness for thousands of years. Might even keep the Wolves at bay. |
-| **Values** |  |
-| Weight | 0.30 kg (0.66 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_Torch |
+![](../assets/Torch_icon.png)
+
+_Torch\_icon.png_
+
+**Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.192)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|-
+
+**Stackable:** No
+
+**Examine:** A simple torch -- the same kind that's dispelled the darkness for thousands of years. Might even keep the Wolves at bay.
+
+**Values**
+
+**Weight:** 0.30 kg (0.66 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_Torch
 
 **Template:quote2**A **Torch** is a craftable tool that creates light and a small amount of heat, adding +3°C to your "Feels Like" temperature. If more than one is dropped on the ground (at your feet) while burning, the warmth bonus they provide stacks, unless a fire is nearby, in which case it overrides the warmth from torches.
 
@@ -58,24 +69,27 @@ A [Torch](./Torch.md) can be used either as a Starter or as Fuel. The properties
 
 **Torch**
 
-| Property | Details |
-| --- | --- |
-| Type | Starter |
-| **Statistics** |  |
-| Start Chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) +5% |
+**Type:** Starter
+
+**Statistics**
+
+**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) +5%
 
 The properties of a Torch when used as Fuel are:
 
 **Torch**
 
-| Property | Details |
-| --- | --- |
-| Type | Fuel |
-| **Statistics** |  |
-| Duration | ![Fire\_Starting.png](../assets/Fire_Starting.png) 10 minutes |
-| Start Chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) -5% |
-| Heat | ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +1°C (+1.8°F) |
-| Burn Density | 0.55 hr/kg (0.25 hr/lb) |
+**Type:** Fuel
+
+**Statistics**
+
+**Duration:** ![Fire\_Starting.png](../assets/Fire_Starting.png) 10 minutes
+
+**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) -5%
+
+**Heat:** ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +1°C (+1.8°F)
+
+**Burn Density:** 0.55 hr/kg (0.25 hr/lb)
 
 ## Crafting
 

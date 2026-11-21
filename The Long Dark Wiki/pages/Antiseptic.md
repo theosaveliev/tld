@@ -11,26 +11,41 @@
 
 **Antiseptic**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Antiseptic_icon.png) / _Antiseptic\_icon.png_ |
-| Release | [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.094) |
-| Wintermute | yes |
-| **Properties** |  |
-| Item type | [First Aid](./First%20Aid.md)\|- |
-| Stackable | no |
-| Examine | A bottle of Hydrogen Peroxide. Useful for cleaning wounds. |
-| **Values** |  |
-| Weight | 0.70 kg (1.54 lbs) |
-| **Decay Rate** |  |
-| Inside | 0% per day |
-| Outside | 0% per day |
-| **Actions** |  |
-| On ground | Take It, Leave It |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_Bandage |
+![](../assets/Antiseptic_icon.png)
 
-> “__A bottle of Hydrogen Peroxide. Useful for cleaning wounds.__”
+_Antiseptic\_icon.png_
+
+**Release:** [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.094)
+
+**Wintermute:** yes
+
+**Properties**
+
+**Item type:** [First Aid](./First%20Aid.md)\|-
+
+**Stackable:** no
+
+**Examine:** A bottle of Hydrogen Peroxide. Useful for cleaning wounds.
+
+**Values**
+
+**Weight:** 0.70 kg (1.54 lbs)
+
+**Decay Rate**
+
+**Inside:** 0% per day
+
+**Outside:** 0% per day
+
+**Actions**
+
+**On ground:** Take It, Leave It
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_Bandage
+
+> “**A bottle of Hydrogen Peroxide. Useful for cleaning wounds.**”
 >
 > — In-game description
 
@@ -62,5 +77,3 @@ Antiseptic can be used to treat the following afflictions:
 ![old model](../assets/Antiseptic.png)
 
 _old model_
-
-[ru:Антисептик](ru:%D0%90%D0%BD%D1%82%D0%B8%D1%81%D0%B5%D0%BF%D1%82%D0%B8%D0%BA) [fr:Antiseptique](fr:Antiseptique)

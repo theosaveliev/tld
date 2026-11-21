@@ -11,13 +11,27 @@
 
 **Chair**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Chair](../assets/Chair.jpg) / _Chair_ / ![Sofa](../assets/Sofa_Chair.jpg) / _Sofa_ / ![Stool](../assets/Stool.png) / _Stool_ | 250px\]\] |
-| ![Chair](../assets/Chair.jpg) / _Chair_ | ![Sofa](../assets/Sofa_Chair.jpg) / _Sofa_ / ![Stool](../assets/Stool.png) / _Stool_ |
-| **General** |  |
-| Item Type | Item |
-| Wintermute | No |
+\[\[File: / ![Chair](../assets/Chair.jpg) / _Chair_ / ![Sofa](../assets/Sofa_Chair.jpg) / _Sofa_ / ![Stool](../assets/Stool.png) / _Stool_
+
+250px\]\]
+
+![Chair](../assets/Chair.jpg)
+
+_Chair_
+
+![Sofa](../assets/Sofa_Chair.jpg)
+
+_Sofa_
+
+![Stool](../assets/Stool.png)
+
+_Stool_
+
+**General**
+
+**Item Type:** Item
+
+**Wintermute:** No
 
 **Template:stub** **Template:images needed**A **Chair** is a wooden seat which is used primarily as a source of [Reclaimed Wood](./Reclaimed%20Wood.md). They require a [Hatchet](./Hatchet.md) to break down, and some can be broken down by hand.
 

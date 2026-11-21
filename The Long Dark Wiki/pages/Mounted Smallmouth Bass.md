@@ -4,14 +4,19 @@
 
 **Mounted Smallmouth Bass**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Mounted_Smallmouth_Bass_icon.png) / _Mounted\_Smallmouth\_Bass\_icon.png_ |
-| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
-| **Values** |  |
-| Weight | 0.50 kg (1.1 lbs) |
-| **Actions** |  |
-| Backpack | Drop, Place |
+![](../assets/Mounted_Smallmouth_Bass_icon.png)
+
+_Mounted\_Smallmouth\_Bass\_icon.png_
+
+**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
+
+**Values**
+
+**Weight:** 0.50 kg (1.1 lbs)
+
+**Actions**
+
+**Backpack:** Drop, Place
 
 The **Mounted Smallmouth Bass** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 

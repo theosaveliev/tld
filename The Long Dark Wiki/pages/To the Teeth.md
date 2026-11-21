@@ -11,10 +11,11 @@
 
 **To the Teeth**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/To_the_Teeth_icon.png) / _To\_the\_Teeth\_icon.png_ |
-| Description | Collect 7 Expansion Firearm variants (single game). |
+![](../assets/To_the_Teeth_icon.png)
+
+_To\_the\_Teeth\_icon.png_
+
+**Description:** Collect 7 Expansion Firearm variants (single game).
 
 **To the Teeth** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

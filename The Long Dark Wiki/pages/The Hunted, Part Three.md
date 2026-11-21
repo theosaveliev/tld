@@ -10,7 +10,7 @@
 | Difficulty | TBA |
 | Date Added | TBA |
 
-> “__The final installment of the HUNTED Challenge. Finish the job, or die trying__”
+> “**The final installment of the HUNTED Challenge. Finish the job, or die trying**”
 >
 > — - Offical Hinterland Description
 

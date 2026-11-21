@@ -4,10 +4,11 @@
 
 **Tackle Box**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Tackle_Box_icon.png) / _Tackle\_Box\_icon.png_ |
-| Description | Craft a full set of 3 Fishing Lures (single game). |
+![](../assets/Tackle_Box_icon.png)
+
+_Tackle\_Box\_icon.png_
+
+**Description:** Craft a full set of 3 Fishing Lures (single game).
 
 **Tackle Box** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

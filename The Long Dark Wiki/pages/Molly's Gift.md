@@ -2,19 +2,23 @@
 
 **Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Molly's_Gift)
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 **Molly's Gift**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Mollys_gift.jpg) / _Mollys\_gift.jpg_ |
-| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
-| Current | Molly's Gift |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
-| Characters | [Molly](./Molly.md) |
+![](../assets/Mollys_gift.jpg)
 
-> “__More help from Astrid's mysterious rescuer. As a local, Molly's help could be vital to surviving the harsh wilderness in Pleasant Valley.__”
+_Mollys\_gift.jpg_
+
+**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|-
+
+**Current:** Molly's Gift
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
+
+**Characters:** [Molly](./Molly.md)
+
+> “**More help from Astrid's mysterious rescuer. As a local, Molly's help could be vital to surviving the harsh wilderness in Pleasant Valley.**”
 
 **Molly's Gift** is a side mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). In this mission, Astrid retrieves [Marine Flares](./Marine%20Flare.md) from a car in [Thompson's Crossing](./Thomson%27s%20Crossing.md).
 

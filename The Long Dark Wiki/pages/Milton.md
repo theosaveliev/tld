@@ -14,22 +14,37 @@
 
 **Milton**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Milton.jpg) / _Milton.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Milton_Location.png) / _Milton\_Location.png_ |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
-| Description | A small town nestled in the mountains |
-| **General** |  |
-| Type | Residential\|- |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
-|  | Has an interior\|- |
-| Characters | [Grey Mother](./Grey%20Mother.md) |
+![](../assets/Milton.jpg)
+
+_Milton.jpg_
+
+**Location**
+
+![](../assets/Milton_Location.png)
+
+_Milton\_Location.png_
+
+**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+
+**Description:** A small town nestled in the mountains
+
+**General**
+
+**Type:** Residential\|-
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+Has a bed
+
+Has an interior\|-
+
+**Characters:** [Grey Mother](./Grey%20Mother.md)
 
 _For the region in which **Milton** is set, see [Mountain Town](./Mountain%20Town.md)._
 
-> “__The end of Milton's story is a sad one. Too many people lost, after already too much suffering.__”
+> “**The end of Milton's story is a sad one. Too many people lost, after already too much suffering.**”
 >
 > — -Methuselah
 

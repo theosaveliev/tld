@@ -4,18 +4,25 @@
 
 **Prologue**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Prologue.png) / _Prologue.png_ |
-| Episode |  |
-| **Missions** |  |
-| Previous | [Aftermath](./Aftermath.md) |
-| Current | Prologue |
-| Next | [Blackrock Blues](./Blackrock%20Blues.md) |
-| Region | [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jeremiah](./Jeremiah.md) (Opening cutscene) / [Hobbs](./Hobbs.md) (Opening cutscene) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) (Opening cutscene) |
+![](../assets/Prologue.png)
 
-> “__Mackenzie seizes his chance to escape Mathis.__”
+_Prologue.png_
+
+Episode
+
+**Missions**
+
+**Previous:** [Aftermath](./Aftermath.md)
+
+**Current:** Prologue
+
+**Next:** [Blackrock Blues](./Blackrock%20Blues.md)
+
+**Region:** [Keeper's Pass North](./Keeper%27s%20Pass%20North.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jeremiah](./Jeremiah.md) (Opening cutscene) / [Hobbs](./Hobbs.md) (Opening cutscene) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) (Opening cutscene)
+
+> “**Mackenzie seizes his chance to escape Mathis.**”
 >
 > — In-game description
 

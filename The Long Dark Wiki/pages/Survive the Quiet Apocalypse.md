@@ -4,10 +4,11 @@
 
 **Survive the Quiet Apocalypse**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Survive_the_Quiet_Apocalypse_icon.png) / _Survive\_the\_Quiet\_Apocalypse\_icon.png_ |
-| Description | Whatever the future brings, you will be ready. |
+![](../assets/Survive_the_Quiet_Apocalypse_icon.png)
+
+_Survive\_the\_Quiet\_Apocalypse\_icon.png_
+
+**Description:** Whatever the future brings, you will be ready.
 
 **Survive the Quiet Apocalypse** is the Platinum Trophy [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_ for the PlayStation 4/5 version of the game.
 

@@ -4,20 +4,31 @@
 
 **Sour Stomach**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Sour_Stomach_icon.png) / _Sour\_Stomach\_icon.png_ |
-| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
-| Update | 2.28 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | Your questionable diet has caught up with you. / You cannot eat as much before you feel full. You also are more likely to experience Food Poisoning, no matter your Skill level. |
-| Caused By | [Misery Mode](./Misery.md) |
-| Effect | Negative |
-| Type | Injury |
-| Affliction Duration | Permanent Affliction |
-| **Treatment** |  |
-| Recovery Time | No Treatment |
+![](../assets/Sour_Stomach_icon.png)
+
+_Sour\_Stomach\_icon.png_
+
+**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
+
+**Update:** 2.28
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** Your questionable diet has caught up with you. / You cannot eat as much before you feel full. You also are more likely to experience Food Poisoning, no matter your Skill level.
+
+**Caused By:** [Misery Mode](./Misery.md)
+
+**Effect:** Negative
+
+**Type:** Injury
+
+**Affliction Duration:** Permanent Affliction
+
+**Treatment**
+
+**Recovery Time:** No Treatment
 
 **Sour Stomach** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
 

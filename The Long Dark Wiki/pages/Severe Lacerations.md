@@ -4,26 +4,37 @@
 
 **Severe Lacerations**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Severe_Lacerations_icon.png) / _Severe\_Lacerations\_icon.png_ |
-| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
-| Update | 2.28 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | You have sustained multiple deep slashing cuts from the Cougar's claws. Your Condition and Stamina are compromised, and you are at greater risk of Infection and Blood Loss until you are healed. |
-| Caused By | [Cougar](./Cougar.md) [Struggle](./Struggle.md) |
-| Effect | Negative |
-| Type | Injury |
-| Affliction Duration | Until Recovery Time passes |
-| **Treatment** |  |
-| Recovery Time | 72 hours |
+![](../assets/Severe_Lacerations_icon.png)
+
+_Severe\_Lacerations\_icon.png_
+
+**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
+
+**Update:** 2.28
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** You have sustained multiple deep slashing cuts from the Cougar's claws. Your Condition and Stamina are compromised, and you are at greater risk of Infection and Blood Loss until you are healed.
+
+**Caused By:** [Cougar](./Cougar.md) [Struggle](./Struggle.md)
+
+**Effect:** Negative
+
+**Type:** Injury
+
+**Affliction Duration:** Until Recovery Time passes
+
+**Treatment**
+
+**Recovery Time:** 72 hours
 
 **Severe Lacerations** is a physical Injury acquired from a [Cougar](./Cougar.md) [Struggle](./Struggle.md).
 
 ## Affliction
 
-> “__You have sustained multiple deep slashing cuts from the Cougar's claws. Your Condition and Stamina are compromised, and you are at greater risk of Infection and Blood Loss until you are healed.__”
+> “**You have sustained multiple deep slashing cuts from the Cougar's claws. Your Condition and Stamina are compromised, and you are at greater risk of Infection and Blood Loss until you are healed.**”
 >
 > — In-game description
 

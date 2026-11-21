@@ -4,11 +4,18 @@
 
 **Contemplation Bridge**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Contemplation_Bridge.jpg) / _Contemplation\_Bridge.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Contemplation_Bridge_Location.png) / _Contemplation\_Bridge\_Location.png_ |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
-| **General** |  |
-| Type | Landmark\|- |
+![](../assets/Contemplation_Bridge.jpg)
+
+_Contemplation\_Bridge.jpg_
+
+**Location**
+
+![](../assets/Contemplation_Bridge_Location.png)
+
+_Contemplation\_Bridge\_Location.png_
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+
+**General**
+
+**Type:** Landmark\|-

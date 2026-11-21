@@ -2,7 +2,7 @@
 
 **Categories:** Story · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/First_Flare)
 
-![Will Mackenzie and Dr. Astrid Greenwood witness the First Flare moments before their plane crashes](../assets/FirstFlare.jpg)_Will Mackenzie and Dr. Astrid Greenwood witness the First Flare moments before their plane crashes_{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __The lights in the sky are a reckoning. The wonder of humanity and all its creations, laid bare. Her warnings went unheeded... The signs were there, for those willing to see them. This has all happened before. Soon we'll all be tested. We'll all have to choose how far we'll go to survive.__
+![Will Mackenzie and Dr. Astrid Greenwood witness the First Flare moments before their plane crashes](../assets/FirstFlare.jpg)_Will Mackenzie and Dr. Astrid Greenwood witness the First Flare moments before their plane crashes_{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **The lights in the sky are a reckoning. The wonder of humanity and all its creations, laid bare. Her warnings went unheeded... The signs were there, for those willing to see them. This has all happened before. Soon we'll all be tested. We'll all have to choose how far we'll go to survive.**
 
 [Methuselah](./Methuselah.md) explaining the First Flare
 

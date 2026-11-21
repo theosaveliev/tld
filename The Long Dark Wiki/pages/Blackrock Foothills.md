@@ -15,18 +15,31 @@
 
 **Blackrock Foothills**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/No_picture.png) / _No\_picture.png_ |
-|  | ![](../assets/Blackrock_Foothills_In-Game_Map.png) / _Blackrock\_Foothills\_In-Game\_Map.png_ |
-| **Details** |  |
-| Description | A mountainous region with a large mine bisecting it. |
-| Connecting Regions | [Suzuki Environs](./Suzuki%20Environs.md) |
-| Characters | [Jace](./Jace.md) [Will Mackenzie](./Will%20Mackenzie.md) / Unnamed Convict 1 / Unnamed Convict 2 |
-| Locations | Ruined Cabin / Bisecting Ravine / Logging Camp / Cable Cars / Unstable Mine |
-| Date Added | 31 March 2026 |
+![](../assets/No_picture.png)
+
+_No\_picture.png_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/No_picture.png)
+
+_No\_picture.png_
+
+![](../assets/Blackrock_Foothills_In-Game_Map.png)
+
+_Blackrock\_Foothills\_In-Game\_Map.png_
+
+**Details**
+
+**Description:** A mountainous region with a large mine bisecting it.
+
+**Connecting Regions:** [Suzuki Environs](./Suzuki%20Environs.md)
+
+**Characters:** [Jace](./Jace.md) [Will Mackenzie](./Will%20Mackenzie.md) / Unnamed Convict 1 / Unnamed Convict 2
+
+**Locations:** Ruined Cabin / Bisecting Ravine / Logging Camp / Cable Cars / Unstable Mine
+
+**Date Added:** 31 March 2026
 
 **Blackrock Foothills** are a [Wintermute](./Wintermute.md)-exclusive region, which consists of the wilderness near the region of [Blackrock](./Blackrock.md). It eventually leads to the [Suzuki Environs](./Suzuki%20Environs.md) and the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md), accessed through an abandoned and unstable mineshaft.
 

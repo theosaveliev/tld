@@ -4,12 +4,28 @@
 
 **Mirthless Fork**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/20211212180713_1.jpg) / _20211212180713\_1.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Mirthless_Fork_Location.png) / _Mirthless\_Fork\_Location.png_ |
-| Region | [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)\|- |
-| Firebox | [Fire Barrel](./Fire%20Barrel.md) |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
-| ![](../assets/Workbench_icon_green.png) / _workbench\_icon\_green.png_ | Has a workbench\|- |
+![](../assets/20211212180713_1.jpg)
+
+_20211212180713\_1.jpg_
+
+**Location**
+
+![](../assets/Mirthless_Fork_Location.png)
+
+_Mirthless\_Fork\_Location.png_
+
+**Region:** [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)\|-
+
+**Firebox:** [Fire Barrel](./Fire%20Barrel.md)
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+Has a bed
+
+![](../assets/Workbench_icon_green.png)
+
+_workbench\_icon\_green.png_
+
+Has a workbench\|-

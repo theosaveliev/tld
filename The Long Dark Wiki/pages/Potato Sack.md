@@ -4,12 +4,15 @@
 
 **Potato Sack**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/PotatoSack.jpg) / _PotatoSack.jpg_ |
-| Story item | No |
-| **Container** |  |
-| Capacity | 2.00 kg(4.4 lbs) |
+![](../assets/PotatoSack.jpg)
+
+_PotatoSack.jpg_
+
+**Story item:** No
+
+**Container**
+
+**Capacity:** 2.00 kg(4.4 lbs)
 
 A **Potato Sack** is an interactable storage container in _The Long Dark_.
 

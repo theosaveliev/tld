@@ -11,21 +11,33 @@
 
 **Hyperglycemic Risk**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Hyperglycemic_Risk_icon.png) / _Hyperglycemic\_Risk\_icon.png_ |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
-| Update | 1.60 |
-| Story | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Caused By | Type-1 Diabetes |
-| Effect | Negative |
-| Type | Disease |
-| Affliction Duration | Scripted |
-| **Treatment** |  |
-| Treatment | Administer [Insulin](./Insulin.md) to Dimitri |
-| Recovery Time | Instant |
+![](../assets/Hyperglycemic_Risk_icon.png)
+
+_Hyperglycemic\_Risk\_icon.png_
+
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+
+**Update:** 1.60
+
+**Story:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md)
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Caused By:** Type-1 Diabetes
+
+**Effect:** Negative
+
+**Type:** Disease
+
+**Affliction Duration:** Scripted
+
+**Treatment**
+
+**Treatment:** Administer [Insulin](./Insulin.md) to Dimitri
+
+**Recovery Time:** Instant
 
 **Hyperglycemia Risk** is a unique [Affliction](./Afflictions.md) in _[The Long Dark](./The%20Long%20Dark.md)_ only encountered in [Wintermute](./Wintermute.md) during the mission [Fallen Star](./Fallen%20Star.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 

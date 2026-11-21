@@ -4,10 +4,16 @@
 
 **Long Falls**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Long_Falls.png) / _Long\_Falls.png_ |
-| **Location** |  |
-|  | ![](../assets/Long_Falls_Location.png) / _Long\_Falls\_Location.png_ |
-| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
-| Type | Landmark\|- |
+![](../assets/Long_Falls.png)
+
+_Long\_Falls.png_
+
+**Location**
+
+![](../assets/Long_Falls_Location.png)
+
+_Long\_Falls\_Location.png_
+
+**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+
+**Type:** Landmark\|-

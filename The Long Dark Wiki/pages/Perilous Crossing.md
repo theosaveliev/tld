@@ -4,12 +4,20 @@
 
 **Perilous Crossing**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Perilous_Crossing.jpg) / _Perilous\_Crossing.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Perilous_Crossing_Location.png) / _Perilous\_Crossing\_Location.png_ |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
-| **General** |  |
+![](../assets/Perilous_Crossing.jpg)
 
-|  | ![The bridge as seen from Juniper Runoff](../assets/Juniper_Runoff.jpg) / _The bridge as seen from Juniper Runoff_ |
+_Perilous\_Crossing.jpg_
+
+**Location**
+
+![](../assets/Perilous_Crossing_Location.png)
+
+_Perilous\_Crossing\_Location.png_
+
+**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+
+**General**
+
+![The bridge as seen from Juniper Runoff](../assets/Juniper_Runoff.jpg)
+
+_The bridge as seen from Juniper Runoff_

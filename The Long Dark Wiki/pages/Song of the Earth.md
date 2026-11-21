@@ -4,10 +4,11 @@
 
 **Song of the Earth**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Song_of_the_Earth_icon.png) / _Song\_of\_the\_Earth\_icon.png_ |
-| Description | Reactivate the Geothermal Plant and power up the telescope. |
+![](../assets/Song_of_the_Earth_icon.png)
+
+_Song\_of\_the\_Earth\_icon.png_
+
+**Description:** Reactivate the Geothermal Plant and power up the telescope.
 
 **Song of the Earth** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[Wintermute](./Wintermute.md)_ [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

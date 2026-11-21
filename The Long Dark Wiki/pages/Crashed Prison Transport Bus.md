@@ -4,25 +4,45 @@
 
 **Crashed Prison Transport Bus**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Approach](../assets/PrisonBus.jpg) / _Approach_ / ![Tunnel Collapse](../assets/Tunnel_Collapse.png) / _Tunnel Collapse_ | 250px\|Will approaches the bus\]\] |
-| ![Approach](../assets/PrisonBus.jpg) / _Approach_ | ![Tunnel Collapse](../assets/Tunnel_Collapse.png) / _Tunnel Collapse_ |
-| **Location** |  |
-| ![](../assets/Crashed_Prison_Transport_Bus_Location.png) / _Crashed\_Prison\_Transport\_Bus\_Location.png_ |  |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- / Location |
-| Description | A collapsed tunnel and crashed bus |
-| **General** |  |
-| Type | Outdoors\|- |
-| Missions | [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3) |
+\[\[File: / ![Approach](../assets/PrisonBus.jpg) / _Approach_ / ![Tunnel Collapse](../assets/Tunnel_Collapse.png) / _Tunnel Collapse_
 
-**Spoiler Warning:**__This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.__
+250px\|Will approaches the bus\]\]
+
+![Approach](../assets/PrisonBus.jpg)
+
+_Approach_
+
+![Tunnel Collapse](../assets/Tunnel_Collapse.png)
+
+_Tunnel Collapse_
+
+**Location**
+
+![](../assets/Crashed_Prison_Transport_Bus_Location.png)
+
+_Crashed\_Prison\_Transport\_Bus\_Location.png_
+
+Region
+
+[Mountain Town](./Mountain%20Town.md)\|-
+
+Location
+
+**Description:** A collapsed tunnel and crashed bus
+
+**General**
+
+**Type:** Outdoors\|-
+
+**Missions:** [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 > “__Hey...you think they put me on that bus for my good behaviour? That's the bus to Blackrock. __”
 >
 > — [Hobbs](./Hobbs.md)
 
-{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Blackrock's bus drivers have what many consider to be the cushiest and safest job at the Penitentiary.__
+{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Blackrock's bus drivers have what many consider to be the cushiest and safest job at the Penitentiary.**
 
 [Load Screen](./Load%20Screen.md) Description
 
@@ -63,5 +83,3 @@ _Crashed Prison Transport Bus_
 ![Can't access inside in Survival](../assets/Crashed_Prison_Transport_Bus_2.png)
 
 _Can't access inside in Survival_
-
-[ru:Сломанный тюремный автобус](ru:%D0%A1%D0%BB%D0%BE%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D1%8E%D1%80%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81) [es:Autobús de la prisión accidentado](es:Autob%C3%BAs_de_la_prisi%C3%B3n_accidentado)

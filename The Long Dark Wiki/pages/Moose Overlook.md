@@ -4,10 +4,20 @@
 
 **Moose Overlook**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![](../assets/Moose_Overlook.png) / _Moose\_Overlook.png_ | 250px\]\] |
-|  | ![](../assets/Moose_Overlook.png) / _Moose\_Overlook.png_ |
-| **Location** |  |
-| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- / **General** |
-| Type | Outdoors\|- |
+\[\[File: / ![](../assets/Moose_Overlook.png) / _Moose\_Overlook.png_
+
+250px\]\]
+
+![](../assets/Moose_Overlook.png)
+
+_Moose\_Overlook.png_
+
+**Location**
+
+Region
+
+[Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+
+**General**
+
+**Type:** Outdoors\|-

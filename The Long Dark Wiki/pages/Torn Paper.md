@@ -4,19 +4,29 @@
 
 **Torn Paper**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Torn_Paper_icon.png) / _Torn\_Paper\_icon.png_ |
-| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A piece of paper, wet from the snow. The handwriting is fading, but legible. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Leave It |
+![](../assets/Torn_Paper_icon.png)
+
+_Torn\_Paper\_icon.png_
+
+**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A piece of paper, wet from the snow. The handwriting is fading, but legible.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Leave It
 
 **Torn Paper** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found on a corpse inside the [Old Bear's Den](./Old%20Bear%27s%20Den.md) during the mission [What One Man Can Do](./What%20One%20Man%20Can%20Do.md).
 

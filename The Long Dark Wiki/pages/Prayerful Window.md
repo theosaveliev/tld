@@ -4,10 +4,16 @@
 
 **Prayerful Window**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Prayerful_Window.jpg) / _Prayerful\_Window.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Prayerful_Window_Location.png) / _Prayerful\_Window\_Location.png_ |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
-| **General** |  |
+![](../assets/Prayerful_Window.jpg)
+
+_Prayerful\_Window.jpg_
+
+**Location**
+
+![](../assets/Prayerful_Window_Location.png)
+
+_Prayerful\_Window\_Location.png_
+
+**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+
+**General**

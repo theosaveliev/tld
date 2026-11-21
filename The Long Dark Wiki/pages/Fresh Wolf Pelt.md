@@ -11,17 +11,25 @@
 
 **Fresh Wolf Pelt**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Fresh_Wolf_Pelt_icon.png) / _Fresh\_Wolf\_Pelt\_icon.png_ |
-| Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Materials](./Materials.md)\|- |
-| Stackable | No |
-| Examine | Freshly harvested fur from a Wolf. Warm, and striking to look at. / Can be used for crafting and repair after air-drying indoors for 7 days. |
-| **Values** |  |
-| Weight | 0.75 kg (1.65 lbs) |
+![](../assets/Fresh_Wolf_Pelt_icon.png)
+
+_Fresh\_Wolf\_Pelt\_icon.png_
+
+**Release:** [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Materials](./Materials.md)\|-
+
+**Stackable:** No
+
+**Examine:** Freshly harvested fur from a Wolf. Warm, and striking to look at. / Can be used for crafting and repair after air-drying indoors for 7 days.
+
+**Values**
+
+**Weight:** 0.75 kg (1.65 lbs)
 
 **Fresh Wolf Pelt** is the raw hide of a [Wolf](./Wolf.md), [Timberwolf](./Timberwolf.md), or [Poisoned Wolf](./Poisoned%20Wolf.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Wolfskin Coats](./Wolfskin%20Coat.md) once they have [Cured](./Curing.md) into a [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md).
 

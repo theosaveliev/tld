@@ -4,10 +4,11 @@
 
 **The New World**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/The_New_World_icon.png) / _The\_New\_World\_icon.png_ |
-| Description | Complete Episode Five. |
+![](../assets/The_New_World_icon.png)
+
+_The\_New\_World\_icon.png_
+
+**Description:** Complete Episode Five.
 
 **The New World** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[Wintermute](./Wintermute.md)_ [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

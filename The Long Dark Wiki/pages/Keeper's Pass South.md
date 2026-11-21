@@ -13,17 +13,29 @@
 
 **Keeper's Pass South**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Vistekeeperspass.png) / _Vistekeeperspass.png_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Keeper%27s_Pass_South_Location.png) / _Keeper's\_Pass\_South\_Location.png_ |
-|  | ![](../assets/Keeper%27s_Pass_South_Region_Map.png) / _Keeper's\_Pass\_South\_Region\_Map.png_ |
-| **Details** |  |
-| Description | A small crossroads in the mountains connecting [Milton](./Milton.md), [Blackrock](./Blackrock.md) and [Pleasant Valley](./Pleasant%20Valley.md) |
-| Connecting Regions | [Pleasant Valley](./Pleasant%20Valley.md) [Blackrock](./Blackrock.md) (via [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) ) |
-| Locations | 4 |
-| Date Added | December 2021 |
+![](../assets/Vistekeeperspass.png)
+
+_Vistekeeperspass.png_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/Keeper%27s_Pass_South_Location.png)
+
+_Keeper's\_Pass\_South\_Location.png_
+
+![](../assets/Keeper%27s_Pass_South_Region_Map.png)
+
+_Keeper's\_Pass\_South\_Region\_Map.png_
+
+**Details**
+
+**Description:** A small crossroads in the mountains connecting [Milton](./Milton.md), [Blackrock](./Blackrock.md) and [Pleasant Valley](./Pleasant%20Valley.md)
+
+**Connecting Regions:** [Pleasant Valley](./Pleasant%20Valley.md) [Blackrock](./Blackrock.md) (via [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) )
+
+**Locations:** 4
+
+**Date Added:** December 2021
 
 **Keeper's Pass South** is the 4th Transition Zone [Region](./Region.md) added to _[The Long Dark](./The%20Long%20Dark.md)_. A [Cave](./Cave%20%28Transition%20Zone%29.md) connects to [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) (and later [Blackrock](./Blackrock.md)) with a road leading to [Pleasant Valley](./Pleasant%20Valley.md).
 

@@ -58,12 +58,45 @@ In custom games, non-standard game timescales will multiply normal sources of fa
 
 Drinking a [Go! Energy Drink](./Go!%20Energy%20Drink.md) will immediately refill the player's [Stamina](./Stamina.md) and half the player's fatigue for a total time of 45 in-game minutes. After 30 minutes, the player will get a [Headache](./Headache.md), and at the end of the 45 minutes, the player's fatigue will drop by 50%.
 
-| Item | Initial Reduction | Fatigue Loss | Duration |
-| --- | --- | --- | --- |
-| ![Cup\_of\_Coffee\_icon.png](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md) | 10% | 50% | 60 minutes |
-| ![Cup\_of\_Acorn\_Coffee\_icon.png](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | 5% | 75% | 30 minutes |
-| ![Go!\_Energy\_Drink\_icon.png](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 20% | 50% | 45 minutes |
-| ![Emergency\_Stim\_icon.png](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md) | 10% | 50% | 60 minutes |
+Item
+
+Initial Reduction
+
+Fatigue Loss
+
+Duration
+
+![Cup\_of\_Coffee\_icon.png](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md)
+
+10%
+
+50%
+
+60 minutes
+
+![Cup\_of\_Acorn\_Coffee\_icon.png](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md)
+
+5%
+
+75%
+
+30 minutes
+
+![Go!\_Energy\_Drink\_icon.png](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md)
+
+20%
+
+50%
+
+45 minutes
+
+![Emergency\_Stim\_icon.png](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md)
+
+10%
+
+50%
+
+60 minutes
 
 ### Food
 
@@ -71,22 +104,91 @@ Eating certain foods can also affect the fatigue meter.
 
 #### Fatigue Increase:
 
-| Item | Name | Initial Increase |
-| --- | --- | --- |
-| ![](../assets/Breyerhouse_Pie_icon.png) / _Breyerhouse\_Pie\_icon.png_ | [Breyerhouse Pie](./Breyerhouse%20Pie.md) | 15% |
-| ![](../assets/Rose_Hip_Pie_icon.png) / _Rose\_Hip\_Pie\_icon.png_ | [Rose Hip Pie](./Rose%20Hip%20Pie.md) | 15% |
-| ![](../assets/Peach_Pie_icon.png) / _Peach\_Pie\_icon.png_ | [Peach Pie](./Peach%20Pie.md) | 15% |
+Item
+
+Name
+
+Initial Increase
+
+![](../assets/Breyerhouse_Pie_icon.png)
+
+_Breyerhouse\_Pie\_icon.png_
+
+[Breyerhouse Pie](./Breyerhouse%20Pie.md)
+
+15%
+
+![](../assets/Rose_Hip_Pie_icon.png)
+
+_Rose\_Hip\_Pie\_icon.png_
+
+[Rose Hip Pie](./Rose%20Hip%20Pie.md)
+
+15%
+
+![](../assets/Peach_Pie_icon.png)
+
+_Peach\_Pie\_icon.png_
+
+[Peach Pie](./Peach%20Pie.md)
+
+15%
 
 #### Fatigue Decrease:
 
-| Item | Name | Initial Decrease |
-| --- | --- | --- |
-| ![](../assets/Ptarmigan_Stew_icon.png) / _Ptarmigan\_Stew\_icon.png_ | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | -15% |
-| ![](../assets/Rabbit_Stew_icon.png) / _Rabbit\_Stew\_icon.png_ | [Rabbit Stew](./Rabbit%20Stew.md) | -15% |
-| ![](../assets/Trout_Stew_icon.png) / _Trout\_Stew\_icon.png_ | [Trout Stew](./Trout%20Stew.md) | -15% |
-| ![](../assets/Venison_Stew_icon.png) / _Venison\_Stew\_icon.png_ | [Venison Stew](./Venison%20Stew.md) | -15% |
-| ![](../assets/Ranger_Stew_icon.png) / _Ranger\_Stew\_icon.png_ | [Ranger Stew](./Ranger%20Stew.md) | -15% |
-| ![](../assets/Thomson_Family_Stew_icon.png) / _Thomson\_Family\_Stew\_icon.png_ | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | -15% |
+Item
+
+Name
+
+Initial Decrease
+
+![](../assets/Ptarmigan_Stew_icon.png)
+
+_Ptarmigan\_Stew\_icon.png_
+
+[Ptarmigan Stew](./Ptarmigan%20Stew.md)
+
+-15%
+
+![](../assets/Rabbit_Stew_icon.png)
+
+_Rabbit\_Stew\_icon.png_
+
+[Rabbit Stew](./Rabbit%20Stew.md)
+
+-15%
+
+![](../assets/Trout_Stew_icon.png)
+
+_Trout\_Stew\_icon.png_
+
+[Trout Stew](./Trout%20Stew.md)
+
+-15%
+
+![](../assets/Venison_Stew_icon.png)
+
+_Venison\_Stew\_icon.png_
+
+[Venison Stew](./Venison%20Stew.md)
+
+-15%
+
+![](../assets/Ranger_Stew_icon.png)
+
+_Ranger\_Stew\_icon.png_
+
+[Ranger Stew](./Ranger%20Stew.md)
+
+-15%
+
+![](../assets/Thomson_Family_Stew_icon.png)
+
+_Thomson\_Family\_Stew\_icon.png_
+
+[Thomson Family Stew](./Thomson%20Family%20Stew.md)
+
+-15%
 
 ## Affecting Condition
 

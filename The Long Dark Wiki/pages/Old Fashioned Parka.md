@@ -4,23 +4,35 @@
 
 **Old Fashioned Parka**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Old_Fashioned_Parka_icon.png) / _Old\_Fashioned\_Parka\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer torso |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)3.0 °C(5.4 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)3.0 °C(5.4 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)20% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)5% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-7% |
-| Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
-| Repair | 2 × [Cloth](./Cloth.md) / 60 minutes / 30% condition |
+![](../assets/Old_Fashioned_Parka_icon.png)
 
-> “__Bulky parka that uses old-fashioned materials. What is sacrifices in weight it makes up for in warmth and durability.__”
+_Old\_Fashioned\_Parka\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Outer torso
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)20%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)5%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-7%
+
+**Harvest:** 2 × [Cloth](./Cloth.md) / 20 minutes
+
+**Repair:** 2 × [Cloth](./Cloth.md) / 60 minutes / 30% condition
+
+> “**Bulky parka that uses old-fashioned materials. What is sacrifices in weight it makes up for in warmth and durability.**”
 >
 > — In-game description
 

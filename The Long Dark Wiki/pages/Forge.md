@@ -15,11 +15,13 @@
 
 **Forge**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Forge.png) / _Forge.png_ |
-| Release | 18 September 2015 |
-| Update | [0.264](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.264) |
+![](../assets/Forge.png)
+
+_Forge.png_
+
+**Release:** 18 September 2015
+
+**Update:** [0.264](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.264)
 
 A **Forge** is the rectangular space located in the middle of a [Furnace](./Furnace.md) and is used for crafting new items made from [Scrap Metal](./Scrap%20Metal.md). Forging is the only method to [Craft](./Crafting.md) new Arrowheads, Improvised Knives, and Improvised Hatchets.
 
@@ -54,13 +56,41 @@ All crafting in the Forge requires a [Heavy Hammer](./Heavy%20Hammer.md) in your
 
 The specific items that can be crafted, and their respective requirements, can be found below.
 
-| Item | Materials Required | Time Required |
-| --- | --- | --- |
-| 2x ![Arrowhead\_icon.png](../assets/Arrowhead_icon.png) [Arrowhead](./Arrowhead.md) | 1x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 1 Hour |
-| \|![Spear\_Head\_icon.png](../assets/Spear_Head_icon.png) [Spear Head](./Spear%20Head.md) (Wintermute Ep2 Only) | 2x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 1 Hour 30 Min |
-| ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) | 3x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | 3 Hours |
-| ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | 1x ![Cougar\_Claw\_icon.png](../assets/Cougar_Claw_icon.png) [Cougar Claw](./Cougar%20Claw.md) 3x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![Cured\_Leather\_icon.png](../assets/Cured_Leather_icon.png) [Cured Leather](./Cured%20Leather.md) | 3 Hours 40 Min |
-| ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) | 5x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) | 4 Hours |
+Item
+
+Materials Required
+
+Time Required
+
+2x ![Arrowhead\_icon.png](../assets/Arrowhead_icon.png) [Arrowhead](./Arrowhead.md)
+
+1x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
+
+1 Hour
+
+\|![Spear\_Head\_icon.png](../assets/Spear_Head_icon.png) [Spear Head](./Spear%20Head.md) (Wintermute Ep2 Only)
+
+2x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
+
+1 Hour 30 Min
+
+![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md)
+
+3x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+3 Hours
+
+![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md)
+
+1x ![Cougar\_Claw\_icon.png](../assets/Cougar_Claw_icon.png) [Cougar Claw](./Cougar%20Claw.md) 3x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![Cured\_Leather\_icon.png](../assets/Cured_Leather_icon.png) [Cured Leather](./Cured%20Leather.md)
+
+3 Hours 40 Min
+
+![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
+
+5x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+
+4 Hours
 
 ## Tips
 

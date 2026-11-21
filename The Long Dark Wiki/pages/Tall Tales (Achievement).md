@@ -11,10 +11,11 @@
 
 **Tall Tales**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Tall_Tales_%28Achievement%29_icon.png) / _Tall\_Tales\_(Achievement)\_icon.png_ |
-| Description | Investigate all four mysterious local legends. |
+![](../assets/Tall_Tales_%28Achievement%29_icon.png)
+
+_Tall\_Tales\_(Achievement)\_icon.png_
+
+**Description:** Investigate all four mysterious local legends.
 
 **Tall Tales** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

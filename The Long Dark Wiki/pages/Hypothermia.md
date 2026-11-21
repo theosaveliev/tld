@@ -11,27 +11,39 @@
 
 **Hypothermia**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Hypothermia_icon.png) / _Hypothermia\_icon.png_ |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | Your body temperature was too low for too long. You will weaken until you stay above freezing for 24 hours. |
-| Caused By | [Warmth](./Warmth.md) reaches 0 for too long |
-| Effect | Negative |
-| Type | Disease |
-| Affliction Duration | Until Treated |
-| **Treatment** |  |
-| Treatment | Replenish [Warmth](./Warmth.md) and maintain it until Recovery Time elapses |
-| Recovery Time | 6 hours (Pilgrim) / 12 hours (Voyageur) / 18 hours (Stalker) / 24 hours (Interloper) |
-| **Advanced Data** |  |
-| Item Key | GAMEPLAY\_CabinFeverRisk |
+![](../assets/Hypothermia_icon.png)
+
+_Hypothermia\_icon.png_
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** Your body temperature was too low for too long. You will weaken until you stay above freezing for 24 hours.
+
+**Caused By:** [Warmth](./Warmth.md) reaches 0 for too long
+
+**Effect:** Negative
+
+**Type:** Disease
+
+**Affliction Duration:** Until Treated
+
+**Treatment**
+
+**Treatment:** Replenish [Warmth](./Warmth.md) and maintain it until Recovery Time elapses
+
+**Recovery Time:** 6 hours (Pilgrim) / 12 hours (Voyageur) / 18 hours (Stalker) / 24 hours (Interloper)
+
+**Advanced Data**
+
+**Item Key:** GAMEPLAY\_CabinFeverRisk
 
 **Hypothermia** is an [Affliction](./Afflictions.md) in _The Long Dark_, caused by exposure to the cold.
 
 ## Overview
 
-> “__Your body temperature was too low for too long. You will weaken until you stay above freezing for 24 hours.__”
+> “**Your body temperature was too low for too long. You will weaken until you stay above freezing for 24 hours.**”
 >
 > — In-game description
 

@@ -4,23 +4,35 @@
 
 **Trail Boots**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Trail_Boots_icon.png) / _Trail\_Boots\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Outer feet |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)5% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-3% |
-| Harvest | 1 × [Cured leather](./Cured%20Leather.md) / 90 minutes |
-| Repair | 1 × [Cured leather](./Cured%20Leather.md) / 30 minutes / 25% condition |
+![](../assets/Trail_Boots_icon.png)
 
-> “__Rugged leather hiking boot. Designed to last for long-distance journeys on rocky terrain. Leather upper and heavy rubber sole.__”
+_Trail\_Boots\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Outer feet
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)5%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-3%
+
+**Harvest:** 1 × [Cured leather](./Cured%20Leather.md) / 90 minutes
+
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md) / 30 minutes / 25% condition
+
+> “**Rugged leather hiking boot. Designed to last for long-distance journeys on rocky terrain. Leather upper and heavy rubber sole.**”
 >
 > — In-game description
 

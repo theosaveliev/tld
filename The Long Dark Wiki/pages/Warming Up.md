@@ -16,17 +16,23 @@
 
 **Warming Up**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Warming_Up_icon.png) / _Warming\_Up\_icon.png_ |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Caused By | Consume HOT [Food And Drink](./Food%20And%20Drink.md) |
-| Effect | Positive |
-| Type | Benefit |
-| Benefit Duration | 45 minutes - 1 hour |
+![](../assets/Warming_Up_icon.png)
 
-> “__That warm food goes straight to your core, heating you from within. Protects against Cold while active.__”
+_Warming\_Up\_icon.png_
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Caused By:** Consume HOT [Food And Drink](./Food%20And%20Drink.md)
+
+**Effect:** Positive
+
+**Type:** Benefit
+
+**Benefit Duration:** 45 minutes - 1 hour
+
+> “**That warm food goes straight to your core, heating you from within. Protects against Cold while active.**”
 >
 > — In-game description
 

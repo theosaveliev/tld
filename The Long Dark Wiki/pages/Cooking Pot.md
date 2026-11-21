@@ -12,21 +12,33 @@
 
 **Cooking Pot**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Cooking_Pot_icon.png) / _Cooking\_Pot\_icon.png_ |
-| Release | [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33) |
-| Wintermute | No |
-| Renewable | No |
-| **Properties** |  |
-| Item type | [Tools](./Tools.md)\|- |
-| Stackable | No |
-| Examine | A sturdy pot for melting snow, boiling water, and cooking food. |
-| **Values** |  |
-| Weight | 1.00 kg (2.2 lbs) |
-| **Actions** |  |
-| Backpack | Use, Actions, Drop |
-| On ground | Take It, Leave It |
+![](../assets/Cooking_Pot_icon.png)
+
+_Cooking\_Pot\_icon.png_
+
+**Release:** [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33)
+
+**Wintermute:** No
+
+**Renewable:** No
+
+**Properties**
+
+**Item type:** [Tools](./Tools.md)\|-
+
+**Stackable:** No
+
+**Examine:** A sturdy pot for melting snow, boiling water, and cooking food.
+
+**Values**
+
+**Weight:** 1.00 kg (2.2 lbs)
+
+**Actions**
+
+**Backpack:** Use, Actions, Drop
+
+**On ground:** Take It, Leave It
 
 A **Cooking Pot** is a tool primarily used for melting snow, boiling water, and [Cooking](./Cooking.md) food. A cooking pot will reduce the amount of time required for food inside it to cook by **20%** and will allow for the creation of broths, stews, and porridges that cannot be cooked directly by the fire.
 
@@ -79,27 +91,199 @@ It is not guaranteed that every region will spawn a Cooking Pot. Some regions, l
 
 The following recipes can only be created within a Cooking Pot, and are available to cook from the start:
 
-| ![](../assets/Cooking.png) / _Cooking.png_ | Item | Weight | Cooking Times | Cooking Level |
-| --- | --- | --- | --- | --- |
-| ![](../assets/Broth_icon.png) / _Broth\_icon.png_ | [Broth](./Broth.md) | 0.80 kg | 60 min | 1 |
-| ![](../assets/Cooking_Oil_icon.png) / _Cooking\_Oil\_icon.png_ | [Cooking Oil](./Cooking%20Oil.md) | 0.75 kg | 24 min | 1 |
-| ![](../assets/Ptarmigan_Stew_icon.png) / _Ptarmigan\_Stew\_icon.png_ | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | 0.35 kg | 2 hr | 1 |
-| ![](../assets/Venison_Stew_icon.png) / _Venison\_Stew\_icon.png_ | [Venison Stew](./Venison%20Stew.md) | 0.35 kg | 2 hr | 1 |
-| ![](../assets/Trout_Stew_icon.png) / _Trout\_Stew\_icon.png_ | [Trout Stew](./Trout%20Stew.md) | 0.35 kg | 2 hr | 1 |
-| ![](../assets/Rabbit_Stew_icon.png) / _Rabbit\_Stew\_icon.png_ | [Rabbit Stew](./Rabbit%20Stew.md) | 0.35 kg | 2 hr | 1 |
-| ![](../assets/Porridge_icon.png) / _Porridge\_icon.png_ | [Porridge](./Porridge.md) | 0.20 kg | 20 min | 1 |
+![](../assets/Cooking.png)
+
+_Cooking.png_
+
+Item
+
+Weight
+
+Cooking Times
+
+Cooking Level
+
+![](../assets/Broth_icon.png)
+
+_Broth\_icon.png_
+
+[Broth](./Broth.md)
+
+0.80 kg
+
+60 min
+
+1
+
+![](../assets/Cooking_Oil_icon.png)
+
+_Cooking\_Oil\_icon.png_
+
+[Cooking Oil](./Cooking%20Oil.md)
+
+0.75 kg
+
+24 min
+
+1
+
+![](../assets/Ptarmigan_Stew_icon.png)
+
+_Ptarmigan\_Stew\_icon.png_
+
+[Ptarmigan Stew](./Ptarmigan%20Stew.md)
+
+0.35 kg
+
+2 hr
+
+1
+
+![](../assets/Venison_Stew_icon.png)
+
+_Venison\_Stew\_icon.png_
+
+[Venison Stew](./Venison%20Stew.md)
+
+0.35 kg
+
+2 hr
+
+1
+
+![](../assets/Trout_Stew_icon.png)
+
+_Trout\_Stew\_icon.png_
+
+[Trout Stew](./Trout%20Stew.md)
+
+0.35 kg
+
+2 hr
+
+1
+
+![](../assets/Rabbit_Stew_icon.png)
+
+_Rabbit\_Stew\_icon.png_
+
+[Rabbit Stew](./Rabbit%20Stew.md)
+
+0.35 kg
+
+2 hr
+
+1
+
+![](../assets/Porridge_icon.png)
+
+_Porridge\_icon.png_
+
+[Porridge](./Porridge.md)
+
+0.20 kg
+
+20 min
+
+1
 
 These Unique Recipes can only be cooked after their [Recipe Cards](./Recipe%20Cards.md) are found:
 
-| ![](../assets/Cooking.png) / _Cooking.png_ | Item | Weight | Cooking Times | Cooking Level |
-| --- | --- | --- | --- | --- |
-| ![](../assets/Camber_Flight_Porridge_icon.png) / _Camber\_Flight\_Porridge\_icon.png_ | [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | 0.30 kg | 20 min | 4 |
-| ![](../assets/Last_Resort_Soup_icon.png) / _Last\_Resort\_Soup\_icon.png_ | [Last Resort Soup](./Last%20Resort%20Soup.md) | 0.10 kg | 40 min | 1 |
-| ![](../assets/Pemmican_Bar_icon.png) / _Pemmican\_Bar\_icon.png_ | [Pemmican Bar](./Pemmican%20Bar.md) (4) | 0.25 kg | 40 min | 5 |
-| ![](../assets/Porter%27s_Soup_icon.png) / _Porter's\_Soup\_icon.png_ | [Porter's Soup](./Porter%27s%20Soup.md) | 0.10 kg | 40 min | 4 |
-| ![](../assets/Ranger_Stew_icon.png) / _Ranger\_Stew\_icon.png_ | [Ranger Stew](./Ranger%20Stew.md) | 0.40 kg | 2 hr | 4 |
-| ![](../assets/Thomson_Family_Stew_icon.png) / _Thomson\_Family\_Stew\_icon.png_ | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | 0.35 kg | 2 hr | 4 |
-| ![](../assets/Vagabond_Soup_icon.png) / _Vagabond\_Soup\_icon.png_ | [Vagabond Soup](./Vagabond%20Soup.md) | 0.10 kg | 40 min | 1 |
+![](../assets/Cooking.png)
+
+_Cooking.png_
+
+Item
+
+Weight
+
+Cooking Times
+
+Cooking Level
+
+![](../assets/Camber_Flight_Porridge_icon.png)
+
+_Camber\_Flight\_Porridge\_icon.png_
+
+[Camber Flight Porridge](./Camber%20Flight%20Porridge.md)
+
+0.30 kg
+
+20 min
+
+4
+
+![](../assets/Last_Resort_Soup_icon.png)
+
+_Last\_Resort\_Soup\_icon.png_
+
+[Last Resort Soup](./Last%20Resort%20Soup.md)
+
+0.10 kg
+
+40 min
+
+1
+
+![](../assets/Pemmican_Bar_icon.png)
+
+_Pemmican\_Bar\_icon.png_
+
+[Pemmican Bar](./Pemmican%20Bar.md) (4)
+
+0.25 kg
+
+40 min
+
+5
+
+![](../assets/Porter%27s_Soup_icon.png)
+
+_Porter's\_Soup\_icon.png_
+
+[Porter's Soup](./Porter%27s%20Soup.md)
+
+0.10 kg
+
+40 min
+
+4
+
+![](../assets/Ranger_Stew_icon.png)
+
+_Ranger\_Stew\_icon.png_
+
+[Ranger Stew](./Ranger%20Stew.md)
+
+0.40 kg
+
+2 hr
+
+4
+
+![](../assets/Thomson_Family_Stew_icon.png)
+
+_Thomson\_Family\_Stew\_icon.png_
+
+[Thomson Family Stew](./Thomson%20Family%20Stew.md)
+
+0.35 kg
+
+2 hr
+
+4
+
+![](../assets/Vagabond_Soup_icon.png)
+
+_Vagabond\_Soup\_icon.png_
+
+[Vagabond Soup](./Vagabond%20Soup.md)
+
+0.10 kg
+
+40 min
+
+1
 
 ## Trivia
 
@@ -119,5 +303,3 @@ The Cooking Pot was originally a harvestable environmental object called the [Me
   - \[All\] Fixed players being able to use a Recycled Can/Cooking Pot to cook when the item was at 0% Condition.
 - UPDATE **14 June 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33)):**
   - Added to game.
-
-[ru:Котелок](ru:%D0%9A%D0%BE%D1%82%D0%B5%D0%BB%D0%BE%D0%BA)

@@ -4,19 +4,29 @@
 
 **Security Chief's Log 23**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Security_Chief%27s_Log_23_icon.png) / _Security\_Chief's\_Log\_23\_icon.png_ |
-| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | An entry in an old logbook. |
-| **Values** |  |
-| Weight | 0 kg (0 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_Tale1ChiefNote4 |
+![](../assets/Security_Chief%27s_Log_23_icon.png)
+
+_Security\_Chief's\_Log\_23\_icon.png_
+
+**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** An entry in an old logbook.
+
+**Values**
+
+**Weight:** 0 kg (0 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_Tale1ChiefNote4
 
 **Security Chief's Log 23** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Signal Void](./Signal%20Void.md) [Tale](./Tales.md). It is found inside one of the bunkers as the tale progresses.
 
@@ -36,5 +46,3 @@ But afterwards? Impossible to say.**
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
-
-[ru:Запись №23 начальника охраны](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C_%E2%84%9623_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%8B)

@@ -4,15 +4,21 @@
 
 **Paradise Lost/Transcript**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Paradise_Lost.png) / _Paradise\_Lost.png_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Previous | [The Grey Mother/Transcript](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) |
-| Current | Paradise Lost/Transcript |
-| Next | [The Wounded Trapper/Transcript](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md) |
-| Region | [Mountain Town](./Mountain%20Town.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Grey Mother](./Grey%20Mother.md) / [Methuselah](./Methuselah.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
+![](../assets/Paradise_Lost.png)
+
+_Paradise\_Lost.png_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Previous:** [The Grey Mother/Transcript](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md)
+
+**Current:** Paradise Lost/Transcript
+
+**Next:** [The Wounded Trapper/Transcript](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md)
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Grey Mother](./Grey%20Mother.md) / [Methuselah](./Methuselah.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md)
 
 This is the mission transcript for mission 4 [Paradise Lost](./Paradise%20Lost.md) of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 

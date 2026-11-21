@@ -4,19 +4,29 @@
 
 **Communication Report**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Communication_Report_icon.png) / _Communication\_Report\_icon.png_ |
-| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A hand-written copy of a message that probably originated from an email. |
-| **Values** |  |
-| Weight | 0.00 kg (0 lbs) |
-| **Actions** |  |
-| Backpack | Examine |
-| On ground | Take It, Read Text, Leave It |
+![](../assets/Communication_Report_icon.png)
+
+_Communication\_Report\_icon.png_
+
+**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A hand-written copy of a message that probably originated from an email.
+
+**Values**
+
+**Weight:** 0.00 kg (0 lbs)
+
+**Actions**
+
+**Backpack:** Examine
+
+**On ground:** Take It, Read Text, Leave It
 
 **Communication Report** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) in [Bleak Inlet](./Bleak%20Inlet.md) at the [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md).
 
@@ -38,5 +48,3 @@ Partner Specialist 81926**
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-[ru:Отчет](ru:%D0%9E%D1%82%D1%87%D0%B5%D1%82)

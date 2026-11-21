@@ -13,17 +13,23 @@
 
 **Echoes Of Astrid**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Echoes_Of_Astrid.jpg) / _Echoes\_Of\_Astrid.jpg_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Previous | [Survival Of The Fittest](./Survival%20Of%20The%20Fittest.md) |
-| Current | Echoes Of Astrid |
-| Next | [The Grey Mother (Predux)](./The%20Grey%20Mother%20%28Predux%29.md) |
-| Region | [Mountain Town](./Mountain%20Town.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Grey Mother](./Grey%20Mother.md) |
+![](../assets/Echoes_Of_Astrid.jpg)
 
-**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Did Astrid survive the crash? Keep your eyes open for signs of her passing, while you explore the wilderness around you.__
+_Echoes\_Of\_Astrid.jpg_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Previous:** [Survival Of The Fittest](./Survival%20Of%20The%20Fittest.md)
+
+**Current:** Echoes Of Astrid
+
+**Next:** [The Grey Mother (Predux)](./The%20Grey%20Mother%20%28Predux%29.md)
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Grey Mother](./Grey%20Mother.md)
+
+**Template:spoiler**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Did Astrid survive the crash? Keep your eyes open for signs of her passing, while you explore the wilderness around you.**
 
 In-game description
 

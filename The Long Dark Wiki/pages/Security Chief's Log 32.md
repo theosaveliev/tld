@@ -4,19 +4,29 @@
 
 **Security Chief's Log 32**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Security_Chief%27s_Log_32_icon.png) / _Security\_Chief's\_Log\_32\_icon.png_ |
-| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | An entry in an old logbook. |
-| **Values** |  |
-| Weight | 0 kg (0 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_Tale2ChiefNote2 |
+![](../assets/Security_Chief%27s_Log_32_icon.png)
+
+_Security\_Chief's\_Log\_32\_icon.png_
+
+**Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
+
+**Wintermute:** No
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** An entry in an old logbook.
+
+**Values**
+
+**Weight:** 0 kg (0 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_Tale2ChiefNote2
 
 **Security Chief's Log 32** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found in the storeroom on the right upon entering the entering the locked mountain section of the [Langston Mine](./Langston%20Mine.md).
 
@@ -34,5 +44,3 @@ To the sea. To small ships and deep water. My mother’s voice.**
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-[ru:Запись №32 начальника охраны](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C_%E2%84%9632_%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%8B)

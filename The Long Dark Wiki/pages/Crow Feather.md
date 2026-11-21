@@ -11,19 +11,27 @@
 
 **Crow Feather**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Crow_Feather_icon.png) / _Crow\_Feather\_icon.png_ |
-| **General** |  |
-| Item Type | Material\|- |
-| Renewable | Yes |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.01 kg(0.02 lbs) |
-| Calories | ![calorie\_icon.png](../assets/Calorie_icon.png) calories |
-| Harvest |  |
-| Repair |  |
+![](../assets/Crow_Feather_icon.png)
 
-> “__A feather from a Crow. Add it to an Arrow Shaft to make a useable, stabilized arrow.__”
+_Crow\_Feather\_icon.png_
+
+**General**
+
+**Item Type:** Material\|-
+
+**Renewable:** Yes
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
+
+**Calories:** ![calorie\_icon.png](../assets/Calorie_icon.png) calories
+
+Harvest
+
+Repair
+
+> “**A feather from a Crow. Add it to an Arrow Shaft to make a useable, stabilized arrow.**”
 >
 > — In-game description
 

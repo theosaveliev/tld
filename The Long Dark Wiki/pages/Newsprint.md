@@ -4,16 +4,21 @@
 
 **Newsprint**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Newsprint_icon.png) / _newsprint\_icon.png_ |
-| **General** |  |
-| Item Type | Fire Starting\|- |
-| Firestarting Slot | Tinder |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
+![](../assets/Newsprint_icon.png)
 
-> “__Newsprint. Can be used as tinder.__”
+_newsprint\_icon.png_
+
+**General**
+
+**Item Type:** Fire Starting\|-
+
+**Firestarting Slot:** Tinder
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+> “**Newsprint. Can be used as tinder.**”
 >
 > — In-game description
 
@@ -30,5 +35,3 @@ Newsprints fill the role of tinder, which is used for [fire starting](./Fire%20S
 ![Old model.](../assets/Newsprint.png)
 
 _Old model._
-
-[ru:Газета](ru:%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0)

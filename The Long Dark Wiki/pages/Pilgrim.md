@@ -6,7 +6,7 @@
 
 _Pilgrim\_icon.png_
 
-> “__Wander the quiet apocalypse to chronicle the passing of an age. This is the poetry of survival.__”
+> “**Wander the quiet apocalypse to chronicle the passing of an age. This is the poetry of survival.**”
 
 **Pilgrim** is the 1st [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. It is the standard "easy" difficulty setting.
 

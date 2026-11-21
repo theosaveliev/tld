@@ -4,10 +4,11 @@
 
 **The Old Trapper**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/The_Old_Trapper_icon.png) / _The\_Old\_Trapper\_icon.png_ |
-| Description | Bring Jeremiah back from near death. |
+![](../assets/The_Old_Trapper_icon.png)
+
+_The\_Old\_Trapper\_icon.png_
+
+**Description:** Bring Jeremiah back from near death.
 
 **The Old Trapper** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

@@ -4,20 +4,27 @@
 
 **Perseverance**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Missions_story_ep5_Perseverance.png) / _Missions\_story\_ep5\_Perseverance.png_ |
-| Episode |  |
-| **Missions** |  |
-| Previous | [Donner (mission)](./Donner%20%28mission%29.md) |
-| Current | Perseverance |
-| Next | [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md) |
-| Region | [Perseverance Mills](./Perseverance%20Mills.md) |
-| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) / [Jane Yang](./Jane%20Yang.md) |
+![](../assets/Missions_story_ep5_Perseverance.png)
 
-**Stub:**__This article is a stub. You can help by \[//dummy.host/index.php?title=Perseverance&amp;action=edit expanding it\].__
+_Missions\_story\_ep5\_Perseverance.png_
 
-> “__A strange illness has taken hold in Perseverance Mils. People are missing. Investigate the town and see what you can find out.__”
+Episode
+
+**Missions**
+
+**Previous:** [Donner (mission)](./Donner%20%28mission%29.md)
+
+**Current:** Perseverance
+
+**Next:** [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md)
+
+**Region:** [Perseverance Mills](./Perseverance%20Mills.md)
+
+**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) / [Jane Yang](./Jane%20Yang.md)
+
+**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Perseverance&amp;action=edit expanding it\].**
+
+> “**A strange illness has taken hold in Perseverance Mils. People are missing. Investigate the town and see what you can find out.**”
 
 **Perseverance** is the first mission of Part One: Perseverance in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 

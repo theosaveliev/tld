@@ -18,11 +18,13 @@
 
 **Archery**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Archery_background.png) / _Archery\_background.png_ |
-| Release | [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364) |
-| Date | 23 September 2016 |
+![](../assets/Archery_background.png)
+
+_Archery\_background.png_
+
+**Release:** [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364)
+
+**Date:** 23 September 2016
 
 ![Archery.png](../assets/Archery.png) **Archery** is a Survival [Skill](./Skills.md) that involves the use of a [Survival Bow](./Survival%20Bow.md) to hunt [Wildlife](./Wildlife.md).
 
@@ -141,5 +143,3 @@ Once players have reached a new skill level, they unlock the effects described i
 | 5 | 125 | Max level | - Can fire Survival Bow when crouched / - Bow sway reduced by 75% / - Arrow damage increased by 25% / - Critical Hit chance increased by 50% / - Bleed Out time reduced by 50% / - Per-use condition loss reduced by 50% | You are one with your bow - it feels like an extension of your body and you are able to use your bow while crouched. Your eagle-eyed aim is deadly accurate. You are the hunter. |
 
 &lt;/table-progress-tracking&gt;
-
-[fr:Archerie](fr:Archerie) [es:Tiro con arco](es:Tiro_con_arco)

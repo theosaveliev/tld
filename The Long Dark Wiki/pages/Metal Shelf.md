@@ -11,16 +11,39 @@
 
 **Metal Shelf**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Locker](../assets/MetalShelfLocker.jpg) / _Locker_ / ![Extra Small](../assets/MetalShelfExtraSmall.jpg) / _Extra Small_ / ![Small](../assets/MetalShelfSmall.jpg) / _Small_ / ![Large](../assets/MetalShelfLarge.jpg) / _Large_ / ![Extra Large](../assets/MetalShelfExtraLarge.jpg) / _Extra Large_ | 250px\]\] |
-| ![Locker](../assets/MetalShelfLocker.jpg) / _Locker_ | ![Extra Small](../assets/MetalShelfExtraSmall.jpg) / _Extra Small_ / ![Small](../assets/MetalShelfSmall.jpg) / _Small_ / ![Large](../assets/MetalShelfLarge.jpg) / _Large_ |
-| ![Extra Large](../assets/MetalShelfExtraLarge.jpg) / _Extra Large_ |  |
-| **General** |  |
-| Item Type | Item |
-| Wintermute | No |
-| **Statistics** |  |
-| Harvest | 4x [Scrap Metal](./Scrap%20Metal.md) (Locker) / 6 × [Scrap Metal](./Scrap%20Metal.md) (Small) / 8 x [Scrap Metal](./Scrap%20Metal.md) (Medium) / 10 x [Scrap Metal](./Scrap%20Metal.md) (Large) |
+\[\[File: / ![Locker](../assets/MetalShelfLocker.jpg) / _Locker_ / ![Extra Small](../assets/MetalShelfExtraSmall.jpg) / _Extra Small_ / ![Small](../assets/MetalShelfSmall.jpg) / _Small_ / ![Large](../assets/MetalShelfLarge.jpg) / _Large_ / ![Extra Large](../assets/MetalShelfExtraLarge.jpg) / _Extra Large_
+
+250px\]\]
+
+![Locker](../assets/MetalShelfLocker.jpg)
+
+_Locker_
+
+![Extra Small](../assets/MetalShelfExtraSmall.jpg)
+
+_Extra Small_
+
+![Small](../assets/MetalShelfSmall.jpg)
+
+_Small_
+
+![Large](../assets/MetalShelfLarge.jpg)
+
+_Large_
+
+![Extra Large](../assets/MetalShelfExtraLarge.jpg)
+
+_Extra Large_
+
+**General**
+
+**Item Type:** Item
+
+**Wintermute:** No
+
+**Statistics**
+
+**Harvest:** 4x [Scrap Metal](./Scrap%20Metal.md) (Locker) / 6 × [Scrap Metal](./Scrap%20Metal.md) (Small) / 8 x [Scrap Metal](./Scrap%20Metal.md) (Medium) / 10 x [Scrap Metal](./Scrap%20Metal.md) (Large)
 
 ## Overview
 

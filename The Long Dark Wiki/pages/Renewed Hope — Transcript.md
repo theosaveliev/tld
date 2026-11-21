@@ -4,15 +4,21 @@
 
 **Renewed Hope/Transcript**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Missions_story_ep2_Renewed_Hope.png) / _Missions\_story\_ep2\_Renewed\_Hope.png_ |
-| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
-| Previous | [What One Man Can Do/Transcript](./What%20One%20Man%20Can%20Do%20%E2%80%94%20Transcript.md) |
-| Current | Renewed Hope/Transcript |
-| Next | [Trauma/Transcript](./Trauma%20%E2%80%94%20Transcript.md) |
-| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Methuselah](./Methuselah.md) / [Mathis](./Mathis.md) |
+![](../assets/Missions_story_ep2_Renewed_Hope.png)
+
+_Missions\_story\_ep2\_Renewed\_Hope.png_
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+
+**Previous:** [What One Man Can Do/Transcript](./What%20One%20Man%20Can%20Do%20%E2%80%94%20Transcript.md)
+
+**Current:** Renewed Hope/Transcript
+
+**Next:** [Trauma/Transcript](./Trauma%20%E2%80%94%20Transcript.md)
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Methuselah](./Methuselah.md) / [Mathis](./Mathis.md)
 
 This is the mission transcript for mission 5 [Renewed Hope](./Renewed%20Hope.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 

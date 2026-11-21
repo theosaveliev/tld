@@ -4,11 +4,16 @@
 
 **Landslide (Bleak Inlet)**
 
-| Property | Details |
-| --- | --- |
-|  | \[Missing image: Landslide\_Bleak\_Inlet.jpg\] / _Landslide\_Bleak\_Inlet.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Landslide_Bleak_Inlet_Location.png) / _Landslide\_Bleak\_Inlet\_Location.png_ |
-| Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
-| **General** |  |
-| Type | Landmark\|- |
+\[Missing image: Landslide\_Bleak\_Inlet.jpg\] / _Landslide\_Bleak\_Inlet.jpg_
+
+**Location**
+
+![](../assets/Landslide_Bleak_Inlet_Location.png)
+
+_Landslide\_Bleak\_Inlet\_Location.png_
+
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+
+**General**
+
+**Type:** Landmark\|-

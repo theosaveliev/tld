@@ -4,23 +4,35 @@
 
 **Work Gloves**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Work_Gloves_icon.png) / _Work\_Gloves\_icon.png_ |
-| **General** |  |
-| Item Type | Clothing\|- |
-| Clothing Slot | Hands |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
-| Windproof bonus | ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
-| Waterproof bonus | ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0% |
-| Protection | ![protection\_icon.png](../assets/Protection_icon.png)4% |
-| Mobility | ![mobility\_icon.png](../assets/Mobility_icon.png)-2% |
-| Harvest | 1 × [Cured leather](./Cured%20Leather.md) / 10 minutes |
-| Repair | 1 × [Cured leather](./Cured%20Leather.md) / 30 minutes / 25% condition |
+![](../assets/Work_Gloves_icon.png)
 
-> “__Heavy leather gloves designed to protect the hands on the worksite. Unfortunately, not really designed for warmth.__”
+_Work\_Gloves\_icon.png_
+
+**General**
+
+**Item Type:** Clothing\|-
+
+**Clothing Slot:** Hands
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+
+**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+
+**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0%
+
+**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)4%
+
+**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-2%
+
+**Harvest:** 1 × [Cured leather](./Cured%20Leather.md) / 10 minutes
+
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md) / 30 minutes / 25% condition
+
+> “**Heavy leather gloves designed to protect the hands on the worksite. Unfortunately, not really designed for warmth.**”
 >
 > — In-game description
 

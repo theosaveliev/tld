@@ -1,6 +1,6 @@
 # Milling Machine
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milling_Machine)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milling_Machine)
 
 **Contents**
 
@@ -13,15 +13,21 @@
 
 **Milling Machine**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Milling_Machine.png) / _Milling\_Machine.png_ |
-| Release | 9 December 2019 |
-| Update | [1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64) |
-| Story item | No |
-| Location | [Workshop](./Workshop.md) [Blackrock Prison](./Blackrock%20Prison.md) |
-| **Advanced data** |  |
-| Object key | GAMEPLAY\_MillingMachine |
+![](../assets/Milling_Machine.png)
+
+_Milling\_Machine.png_
+
+**Release:** 9 December 2019
+
+**Update:** [1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.64)
+
+**Story item:** No
+
+**Location:** [Workshop](./Workshop.md) [Blackrock Prison](./Blackrock%20Prison.md)
+
+**Advanced data**
+
+**Object key:** GAMEPLAY\_MillingMachine
 
 The **Milling Machine** is a workstation used for repairs in _[The Long Dark](./The%20Long%20Dark.md)._ It was introduced in the Errant Pilgrim update.
 
@@ -47,26 +53,111 @@ The Milling Machine may be used to repair the following items:
 - Ruined Revolvers can be repaired from 0% Condition with 4 Scrap Metal and 1 Fir Firewood in 4 hours.
 - Ruined Hand Tools cannot be repaired.
 
-| Item | Repair Time | Restoration Time |
-| --- | --- | --- |
-| Hand Tools |  |  |
-| ![Hacksaw\_icon.png](../assets/Hacksaw_icon.png) [Hacksaw](./Hacksaw.md) | 20.0 minutes | N/A |
-| ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md) | 20.0 minutes | N/A |
-| ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md) | 20.0 minutes | N/A |
-| ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) | 20.0 minutes | N/A |
-| ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) | 20.0 minutes | N/A |
-| ![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | 20.0 minutes | N/A |
-| ![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md) | 20.0 minutes | N/A |
-| Firearms |  |  |
-| ![Revolver\_icon.png](../assets/Revolver_icon.png) [Revolver](./Revolver.md) | 30.0 minutes | 90.0 minutes |
-| ![Forester's\_Revolver\_icon.png](../assets/Forester%27s_Revolver_icon.png) [Forester's Revolver](./Forester%27s%20Revolver.md) | 30.0 minutes | 90.0 minutes |
-| ![Hunter's\_Revolver\_icon.png](../assets/Hunter%27s_Revolver_icon.png) [Hunter's Revolver](./Hunter%27s%20Revolver.md) | 30.0 minutes | 90.0 minutes |
-| ![Warden's\_Revolver\_icon.png](../assets/Warden%27s_Revolver_icon.png) [Warden's Revolver](./Warden%27s%20Revolver.md) | 30.0 minutes | 90.0 minutes |
-| ![Hunting\_Rifle\_icon.png](../assets/Hunting_Rifle_icon.png) [Hunting Rifle](./Hunting%20Rifle.md) | 30.0 minutes | 90.0 minutes |
-| ![Barb's\_Rifle\_icon.png](../assets/Barb%27s_Rifle_icon.png) [Barb's Rifle](./Barb%27s%20Rifle.md) | 30.0 minutes | 90.0 minutes |
-| ![Bunker\_Rifle\_icon.png](../assets/Bunker_Rifle_icon.png) [Bunker Rifle](./Bunker%20Rifle.md) | 30.0 minutes | 90.0 minutes |
-| ![Curator's\_Rifle\_icon.png](../assets/Curator%27s_Rifle_icon.png) [Curator's Rifle](./Curator%27s%20Rifle.md) | 30.0 minutes | 90.0 minutes |
-| ![Vaughn's\_Rifle\_icon.png](../assets/Vaughn%27s_Rifle_icon.png) [Vaughn's Rifle](./Vaughn%27s%20Rifle.md) | 30.0 minutes | 90.0 minutes |
+Item
+
+Repair Time
+
+Restoration Time
+
+Hand Tools
+
+![Hacksaw\_icon.png](../assets/Hacksaw_icon.png) [Hacksaw](./Hacksaw.md)
+
+20.0 minutes
+
+N/A
+
+![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md)
+
+20.0 minutes
+
+N/A
+
+![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md)
+
+20.0 minutes
+
+N/A
+
+![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
+
+20.0 minutes
+
+N/A
+
+![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md)
+
+20.0 minutes
+
+N/A
+
+![Cougar\_Claw\_Knife\_icon.png](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md)
+
+20.0 minutes
+
+N/A
+
+![Survival\_Knife\_icon.png](../assets/Survival_Knife_icon.png) [Survival Knife](./Survival%20Knife.md)
+
+20.0 minutes
+
+N/A
+
+Firearms
+
+![Revolver\_icon.png](../assets/Revolver_icon.png) [Revolver](./Revolver.md)
+
+30.0 minutes
+
+90.0 minutes
+
+![Forester's\_Revolver\_icon.png](../assets/Forester%27s_Revolver_icon.png) [Forester's Revolver](./Forester%27s%20Revolver.md)
+
+30.0 minutes
+
+90.0 minutes
+
+![Hunter's\_Revolver\_icon.png](../assets/Hunter%27s_Revolver_icon.png) [Hunter's Revolver](./Hunter%27s%20Revolver.md)
+
+30.0 minutes
+
+90.0 minutes
+
+![Warden's\_Revolver\_icon.png](../assets/Warden%27s_Revolver_icon.png) [Warden's Revolver](./Warden%27s%20Revolver.md)
+
+30.0 minutes
+
+90.0 minutes
+
+![Hunting\_Rifle\_icon.png](../assets/Hunting_Rifle_icon.png) [Hunting Rifle](./Hunting%20Rifle.md)
+
+30.0 minutes
+
+90.0 minutes
+
+![Barb's\_Rifle\_icon.png](../assets/Barb%27s_Rifle_icon.png) [Barb's Rifle](./Barb%27s%20Rifle.md)
+
+30.0 minutes
+
+90.0 minutes
+
+![Bunker\_Rifle\_icon.png](../assets/Bunker_Rifle_icon.png) [Bunker Rifle](./Bunker%20Rifle.md)
+
+30.0 minutes
+
+90.0 minutes
+
+![Curator's\_Rifle\_icon.png](../assets/Curator%27s_Rifle_icon.png) [Curator's Rifle](./Curator%27s%20Rifle.md)
+
+30.0 minutes
+
+90.0 minutes
+
+![Vaughn's\_Rifle\_icon.png](../assets/Vaughn%27s_Rifle_icon.png) [Vaughn's Rifle](./Vaughn%27s%20Rifle.md)
+
+30.0 minutes
+
+90.0 minutes
 
 ## Location
 

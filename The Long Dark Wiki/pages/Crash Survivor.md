@@ -10,7 +10,7 @@
 - [List of Passengers](#list-of-passengers)
 - [Trivia](#trivia)
 
-![](../assets/Survivors.png){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | __Then yesterday, the crash survivors started showing up....Best thing we can do is keep these people warm and fed and....then we'll see what the Lord has in store.__
+![](../assets/Survivors.png){| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Then yesterday, the crash survivors started showing up....Best thing we can do is keep these people warm and fed and....then we'll see what the Lord has in store.**
 
 Father Thomas
 

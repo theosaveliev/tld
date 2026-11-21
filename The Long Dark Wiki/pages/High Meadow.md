@@ -4,10 +4,16 @@
 
 **High Meadow**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/High_Meadows.jpg) / _High\_Meadows.jpg_ |
-| **Location** |  |
-|  | ![](../assets/High_Meadow_Location.png) / _High\_Meadow\_Location.png_ |
-| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
-| Type | Outdoors\|- |
+![](../assets/High_Meadows.jpg)
+
+_High\_Meadows.jpg_
+
+**Location**
+
+![](../assets/High_Meadow_Location.png)
+
+_High\_Meadow\_Location.png_
+
+**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+
+**Type:** Outdoors\|-

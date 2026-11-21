@@ -18,26 +18,55 @@
 
 **Forsaken Airfield**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Forsaken_Airfield.jpg) / _Forsaken\_Airfield.jpg_ |
-| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
-|  | ![](../assets/Forsaken_Airfield_Location.png) / _Forsaken\_Airfield\_Location.png_ |
-|  | ![](../assets/Forsaken_Airfield_In-game_Map.png) / _Forsaken\_Airfield\_In-game\_Map.png_ |
-| **Details** |  |
-| Description | A small airstrip situated within an expansive wind blasted valley basin |
-| Connecting Regions | [Transfer Pass](./Transfer%20Pass.md) [Zone of Contamination](./Zone%20of%20Contamination.md) or [Sundered Pass](./Sundered%20Pass.md) (Through Transition Cave) |
-| TFTFT paid content | Yes |
-| Characters | None |
-| Difficulty | Advanced |
-| Interloper Region Spawn | No |
-| Locations | 26 |
-| Date Added | Dec 5, 2022 |
+![](../assets/Forsaken_Airfield.jpg)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / > “__A vast open plain hides a remote airfield that once served as a critical transport hub for the interior of Great Bear. Between the Hangar, Control Tower, and the Ranger's Cabin on the outskirts of the region, Forsaken Airfield is one of the harshest, coldest regions yet. What secrets will the Aurora reveal...__” / > / > — Official Marketing Description / {\| style="margin:auto" | “ | __For advanced players. Once an active entry point for the Far Territory's wild interior, Forsaken Airfield lives in the shadow of better days, long departed. Its broken landing strip and support buildings sit wedged between various natural obstacles, including frozen fields, a broad lake, and sheer cliffs along the Region’s perimeter. Travelers here need guile, and warm clothes. / Connects to Transfer Pass, The Zone of Contamination, and Sundered Pass.__ / In-game description | ” |
-| “ | __A vast open plain hides a remote airfield that once served as a critical transport hub for the interior of Great Bear. Between the Hangar, Control Tower, and the Ranger's Cabin on the outskirts of the region, Forsaken Airfield is one of the harshest, coldest regions yet. What secrets will the Aurora reveal...__ / Official Marketing Description | ” |  |  |  |
+_Forsaken\_Airfield.jpg_
+
+**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
+
+![](../assets/Forsaken_Airfield_Location.png)
+
+_Forsaken\_Airfield\_Location.png_
+
+![](../assets/Forsaken_Airfield_In-game_Map.png)
+
+_Forsaken\_Airfield\_In-game\_Map.png_
+
+**Details**
+
+**Description:** A small airstrip situated within an expansive wind blasted valley basin
+
+**Connecting Regions:** [Transfer Pass](./Transfer%20Pass.md) [Zone of Contamination](./Zone%20of%20Contamination.md) or [Sundered Pass](./Sundered%20Pass.md) (Through Transition Cave)
+
+**TFTFT paid content:** Yes
+
+**Characters:** None
+
+**Difficulty:** Advanced
+
+**Interloper Region Spawn:** No
+
+**Locations:** 26
+
+**Date Added:** Dec 5, 2022
+
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+\|} / > “**A vast open plain hides a remote airfield that once served as a critical transport hub for the interior of Great Bear. Between the Hangar, Control Tower, and the Ranger's Cabin on the outskirts of the region, Forsaken Airfield is one of the harshest, coldest regions yet. What secrets will the Aurora reveal...**” / > / > — Official Marketing Description / {\| style="margin:auto"
+
+“
+
+**For advanced players. Once an active entry point for the Far Territory's wild interior, Forsaken Airfield lives in the shadow of better days, long departed. Its broken landing strip and support buildings sit wedged between various natural obstacles, including frozen fields, a broad lake, and sheer cliffs along the Region’s perimeter. Travelers here need guile, and warm clothes. / Connects to Transfer Pass, The Zone of Contamination, and Sundered Pass.** / In-game description
+
+”
+
+> “**A vast open plain hides a remote airfield that once served as a critical transport hub for the interior of Great Bear. Between the Hangar, Control Tower, and the Ranger's Cabin on the outskirts of the region, Forsaken Airfield is one of the harshest, coldest regions yet. What secrets will the Aurora reveal...**”
+>
+> — Official Marketing Description
 
 **Forsaken Airfield** is the 14th [Region](./Region.md) found in [_The Long Dark_](./The%20Long%20Dark.md) released for [Survival Mode](./Survival%20Mode.md), and is available for players who purchased the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion pack released on December 5, 2022.
 

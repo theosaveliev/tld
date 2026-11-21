@@ -11,19 +11,25 @@
 
 **Paradise Lost**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Paradise_Lost.png) / _Paradise\_Lost.png_ |
-| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
-| Previous | [The Grey Mother](./The%20Grey%20Mother.md) |
-| Current | Paradise Lost |
-| Next | [The Wounded Trapper](./The%20Wounded%20Trapper.md) |
-| Region | [Mountain Town](./Mountain%20Town.md) |
-| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Grey Mother](./Grey%20Mother.md) / [Methuselah](./Methuselah.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
+![](../assets/Paradise_Lost.png)
+
+_Paradise\_Lost.png_
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+
+**Previous:** [The Grey Mother](./The%20Grey%20Mother.md)
+
+**Current:** Paradise Lost
+
+**Next:** [The Wounded Trapper](./The%20Wounded%20Trapper.md)
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) / [Grey Mother](./Grey%20Mother.md) / [Methuselah](./Methuselah.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md)
 
 **Template:spoiler**
 
-> “__It Looks like Astrid made it out of Milton. Continue your search beyond the town's borders.__”
+> “**It Looks like Astrid made it out of Milton. Continue your search beyond the town's borders.**”
 >
 > — In-game description
 

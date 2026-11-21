@@ -4,18 +4,25 @@
 
 **Accelerant**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Accelerant_icon.png) / _accelerant\_icon.png_ |
-| **General** |  |
-| Item Type | Fire Starting\|- |
-| Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
-| Firestarting Slot | Accelerant |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
-| Bonus chance | ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+40% |
+![](../assets/Accelerant_icon.png)
 
-> “__Low-volume fuel source designed to help start fires; ex. lighter fluid.__”
+_accelerant\_icon.png_
+
+**General**
+
+**Item Type:** Fire Starting\|-
+
+**Renewable:** Yes (rare [Beachcombing](./Beachcombing.md))
+
+**Firestarting Slot:** Accelerant
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+
+**Bonus chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+40%
+
+> “**Low-volume fuel source designed to help start fires; ex. lighter fluid.**”
 >
 > — In-game description
 
@@ -32,5 +39,3 @@ As accelerant is non-renewable beside from the rare spawn chance from [Beachcomb
 ![old model](../assets/Accelerant.png)
 
 _old model_
-
-[ru:Горючее](ru:%D0%93%D0%BE%D1%80%D1%8E%D1%87%D0%B5%D0%B5) [es:Acelerante](es:Acelerante)

@@ -4,10 +4,11 @@
 
 **Your Journey Begins**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Your_Journey_Begins_icon.png) / _Your\_Journey\_Begins\_icon.png_ |
-| Description | Escape the ravine after your crash. |
+![](../assets/Your_Journey_Begins_icon.png)
+
+_Your\_Journey\_Begins\_icon.png_
+
+**Description:** Escape the ravine after your crash.
 
 **Your Journey Begins** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

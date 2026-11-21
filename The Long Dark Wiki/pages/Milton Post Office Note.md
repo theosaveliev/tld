@@ -4,16 +4,23 @@
 
 **Milton Post Office Note**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Milton_Post_Office_Note_icon.png) / _Milton\_Post\_Office\_Note\_icon.png_ |
-| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| **Properties** |  |
-| Item type | [Collectibles](./Collectibles.md)\|- |
-| Stackable | No |
-| Examine | A scrap of paper found in Milton Post Office. |
-| **Values** |  |
-| Weight | 0 kg (0 lbs) |
+![](../assets/Milton_Post_Office_Note_icon.png)
+
+_Milton\_Post\_Office\_Note\_icon.png_
+
+**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
+
+**Properties**
+
+**Item type:** [Collectibles](./Collectibles.md)\|-
+
+**Stackable:** No
+
+**Examine:** A scrap of paper found in Milton Post Office.
+
+**Values**
+
+**Weight:** 0 kg (0 lbs)
 
 The following text is transcribed from the note **Milton Post Office Note**, found in the [Milton Post Office](./Milton%20Post%20Office.md) on a chair behind the counter in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
@@ -27,5 +34,3 @@ _The following text is transcribed from **Milton Post Office Note**_
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-
-[ru:Записка из почтового отделения Милтона](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D0%B8%D0%B7_%D0%BF%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9C%D0%B8%D0%BB%D1%82%D0%BE%D0%BD%D0%B0)

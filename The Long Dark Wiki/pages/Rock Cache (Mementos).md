@@ -4,10 +4,12 @@
 
 **Rock Cache (Mementos)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Rock_Cache_%28Mementos%29.jpg) / _Rock\_Cache\_(Mementos).jpg_ |
-| Release | Part 1 TFTFT |
-| Update | [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00) |
+![](../assets/Rock_Cache_%28Mementos%29.jpg)
+
+_Rock\_Cache\_(Mementos).jpg_
+
+**Release:** Part 1 TFTFT
+
+**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.00)
 
 _For the storage unit the player can make, see [Rock Cache](./Rock%20Cache.md)._

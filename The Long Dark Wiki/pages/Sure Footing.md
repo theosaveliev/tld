@@ -4,22 +4,33 @@
 
 **Sure Footing**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Sure_Footing_icon.png) / _Sure\_Footing\_icon.png_ |
-| Release | [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89) |
-| Update | 1.89 |
-| **Properties** |  |
-| Category | [Afflictions](./Afflictions.md) |
-| Description | The Crampons' steel spikes give you better traction in icy terrain. They make rope climbing easier, Sprains less frequent, and Weak Ice more forgiving. |
-| Caused By | Worn [Clothing](./Clothing.md) |
-| Effect | Positive |
-| Type | Benefit |
-| Benefit Duration | Until / ![Crampons\_icon.png](../assets/Crampons_icon.png) [Crampons](./Crampons.md) / or / ![Improvised\_Crampons\_icon.png](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md) are taken off or ruined |
-| **Advanced Data** |  |
-| Item Key | GAMEPLAY\_CramponsBenefit |
+![](../assets/Sure_Footing_icon.png)
 
-> “__The Crampons' steel spikes give you better traction in icy terrain. They make rope climbing easier, Sprains less frequent, and Weak Ice more forgiving.__”
+_Sure\_Footing\_icon.png_
+
+**Release:** [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.89)
+
+**Update:** 1.89
+
+**Properties**
+
+**Category:** [Afflictions](./Afflictions.md)
+
+**Description:** The Crampons' steel spikes give you better traction in icy terrain. They make rope climbing easier, Sprains less frequent, and Weak Ice more forgiving.
+
+**Caused By:** Worn [Clothing](./Clothing.md)
+
+**Effect:** Positive
+
+**Type:** Benefit
+
+**Benefit Duration:** Until / ![Crampons\_icon.png](../assets/Crampons_icon.png) [Crampons](./Crampons.md) / or / ![Improvised\_Crampons\_icon.png](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md) are taken off or ruined
+
+**Advanced Data**
+
+**Item Key:** GAMEPLAY\_CramponsBenefit
+
+> “**The Crampons' steel spikes give you better traction in icy terrain. They make rope climbing easier, Sprains less frequent, and Weak Ice more forgiving.**”
 >
 > — In-game Description
 

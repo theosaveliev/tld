@@ -21,39 +21,157 @@ Badges can be viewed in Survival Mode main menu, under the Challenges and Badges
 
 **Survival Mode Challenge Badges**
 
-| Badge | Badge Name | Unlock Requirements |
-| --- | --- | --- |
-| ![](../assets/Badge_challenge_hopelessRescue.png) | Hopeless Rescue | Awarded upon completion of the [Hopeless Rescue](./Hopeless%20Rescue.md) Challenge. |
-| ![](../assets/The_Hunted_Part_One_icon.png) | The Hunted, Part One | Awarded upon completion of the "[The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md)" Challenge |
-| ![](../assets/Badge_challenge_huntedPart2.png) | The Hunted, Part Two | Awarded upon completion of the "[The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md)" Challenge |
-| TBA | The Hunted, Part Three | Awarded upon completion of the "[The Hunted, Part Three](./The%20Hunted%2C%20Part%20Three.md)" Challenge |
-| ![](../assets/Badge_challenge_whiteout.png) | Whiteout | Awarded upon completion of the [Whiteout](./Whiteout.md) Challenge |
-| ![](../assets/Badge_challenge_nomad.png) | Nomad | Awarded upon completion of the [Nomad](./Nomad.md) Challenge |
-| ![](../assets/Badge_challenge_archivist.png) | Archivist | Awarded upon completion of the [Archivist](./Archivist.md) Challenge |
-| ![](../assets/Badge_challenge_Deadman.png) | As The Dead Sleep | Awarded upon completion of the "[As The Dead Sleep](./As%20the%20Dead%20Sleep.md)" Challenge |
-| ![](../assets/Badge_Umbra.png) | Escape The Darkwalker | Complete the [Escape The Darkwalker](./Escape%20the%20Darkwalker.md) Challenge (collect all 10 [Survivor Notes](./A%20Note%20Left%20Behind.md) and banish the entity). |
-| ![](../assets/Badge_Deadly_Dreamer.png) | Escape The Darkwalker -- Deadly Dreamer Badge | Collect 6 (of 10) [Survivor Notes](./A%20Note%20Left%20Behind.md) within the [Escape The Darkwalker](./Escape%20the%20Darkwalker.md) Challenge. |
+Badge
+
+Badge Name
+
+Unlock Requirements
+
+![](../assets/Badge_challenge_hopelessRescue.png)
+
+Hopeless Rescue
+
+Awarded upon completion of the [Hopeless Rescue](./Hopeless%20Rescue.md) Challenge.
+
+![](../assets/The_Hunted_Part_One_icon.png)
+
+The Hunted, Part One
+
+Awarded upon completion of the "[The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md)" Challenge
+
+![](../assets/Badge_challenge_huntedPart2.png)
+
+The Hunted, Part Two
+
+Awarded upon completion of the "[The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md)" Challenge
+
+TBA
+
+The Hunted, Part Three
+
+Awarded upon completion of the "[The Hunted, Part Three](./The%20Hunted%2C%20Part%20Three.md)" Challenge
+
+![](../assets/Badge_challenge_whiteout.png)
+
+Whiteout
+
+Awarded upon completion of the [Whiteout](./Whiteout.md) Challenge
+
+![](../assets/Badge_challenge_nomad.png)
+
+Nomad
+
+Awarded upon completion of the [Nomad](./Nomad.md) Challenge
+
+![](../assets/Badge_challenge_archivist.png)
+
+Archivist
+
+Awarded upon completion of the [Archivist](./Archivist.md) Challenge
+
+![](../assets/Badge_challenge_Deadman.png)
+
+As The Dead Sleep
+
+Awarded upon completion of the "[As The Dead Sleep](./As%20the%20Dead%20Sleep.md)" Challenge
+
+![](../assets/Badge_Umbra.png)
+
+Escape The Darkwalker
+
+Complete the [Escape The Darkwalker](./Escape%20the%20Darkwalker.md) Challenge (collect all 10 [Survivor Notes](./A%20Note%20Left%20Behind.md) and banish the entity).
+
+![](../assets/Badge_Deadly_Dreamer.png)
+
+Escape The Darkwalker -- Deadly Dreamer Badge
+
+Collect 6 (of 10) [Survivor Notes](./A%20Note%20Left%20Behind.md) within the [Escape The Darkwalker](./Escape%20the%20Darkwalker.md) Challenge.
 
 Survival Feats
 
 **Tales Badges**
 
-| Badge | Badge Name | Unlock Requirements |
-| --- | --- | --- |
-| ![](../assets/Signal_Void_icon.png) | Tales: Signal Void | Awarded upon completion of the [Tale](./Tales.md) [Signal Void](./Signal%20Void.md). |
-| ![](../assets/Buried_Echoes_Icon.png) | Tales: Buried Echoes | Awarded upon completion of the [Tale](./Tales.md) [Buried Echoes](./Buried%20Echoes.md). |
-| ![](../assets/Last_Horizon_Badge.png) | Tales: Last Horizon | Awarded upon completion of the [Tale](./Tales.md) [Last Horizon](./Last%20Horizon.md) |
+Badge
+
+Badge Name
+
+Unlock Requirements
+
+![](../assets/Signal_Void_icon.png)
+
+Tales: Signal Void
+
+Awarded upon completion of the [Tale](./Tales.md) [Signal Void](./Signal%20Void.md).
+
+![](../assets/Buried_Echoes_Icon.png)
+
+Tales: Buried Echoes
+
+Awarded upon completion of the [Tale](./Tales.md) [Buried Echoes](./Buried%20Echoes.md).
+
+![](../assets/Last_Horizon_Badge.png)
+
+Tales: Last Horizon
+
+Awarded upon completion of the [Tale](./Tales.md) [Last Horizon](./Last%20Horizon.md)
 
 **Timed Event Badges**
 
-| Badge | Badge Name | Unlock Requirements | Availability |
-| --- | --- | --- | --- |
-| ![](../assets/Badge_challenge_FourDaysOfNightHalf.png) | 4DON Twilight Badge (2018) | Survived for 2 nights within the [4 Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md) / \[Must survive for 2 real world hours each day of the event for badge progress to accumulate\*\] | 27 October 10 PM PST- November 10 AM PST 2018 |
-| ![](../assets/Badge_challenge_FourDaysOfNightFull.png) | 4DON Midnight Badge (2018) | Survived all 4 nights within the [4Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md) / \[Must survive for 2 real world hours each day of the event for badge progress to accumulate\*\] | 27 October 10 PM PST- November 10 AM PST 2018 |
-| ![](../assets/Badge_challenge_FourDaysOfNight2019Half.png) | 4DON Twilight Badge (2019) | Survived for 2 nights within the [4 Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md) / \[Must survive for 2 real world hours each day of the event for badge progress to accumulate\*\] | 27 October 10 PM PST- November 10 AM PST 2019 |
-| ![](../assets/Badge_challenge_FourDaysOfNight2019Full.png) | 4DON Midnight Badge (2019) | Survived all 4 nights within the [4 Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md) / \[Must survive for 2 real world hours each day of the event for badge progress to accumulate\*\] | 27 October 10 PM PST- November 10 AM PST 2019 |
-| ![](../assets/Badge_CanadianFeast.png) | Winter's Embrace Canadian Feast Badge (2020) | Consume 25 bottles of [Maple Syrups](./Maple%20Syrup.md) and 25 bags of [Ketchup Chips](./Ketchup%20Chips.md) within the [Winter's Embrace Event Challenge](./Winter%27s%20Embrace.md) | June 29th-July 31st 2020 |
-| ![](../assets/Badge_WinterInJuly.png) | Winter's Embrace Winter In July Badge (2020) | Survived for 25 days within the [Winter's Embrace Event Challenge](./Winter%27s%20Embrace.md) | June 29th-July 31st 2020 |
+Badge
+
+Badge Name
+
+Unlock Requirements
+
+Availability
+
+![](../assets/Badge_challenge_FourDaysOfNightHalf.png)
+
+4DON Twilight Badge (2018)
+
+Survived for 2 nights within the [4 Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md) / \[Must survive for 2 real world hours each day of the event for badge progress to accumulate\*\]
+
+27 October 10 PM PST- November 10 AM PST 2018
+
+![](../assets/Badge_challenge_FourDaysOfNightFull.png)
+
+4DON Midnight Badge (2018)
+
+Survived all 4 nights within the [4Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md) / \[Must survive for 2 real world hours each day of the event for badge progress to accumulate\*\]
+
+27 October 10 PM PST- November 10 AM PST 2018
+
+![](../assets/Badge_challenge_FourDaysOfNight2019Half.png)
+
+4DON Twilight Badge (2019)
+
+Survived for 2 nights within the [4 Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md) / \[Must survive for 2 real world hours each day of the event for badge progress to accumulate\*\]
+
+27 October 10 PM PST- November 10 AM PST 2019
+
+![](../assets/Badge_challenge_FourDaysOfNight2019Full.png)
+
+4DON Midnight Badge (2019)
+
+Survived all 4 nights within the [4 Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md) / \[Must survive for 2 real world hours each day of the event for badge progress to accumulate\*\]
+
+27 October 10 PM PST- November 10 AM PST 2019
+
+![](../assets/Badge_CanadianFeast.png)
+
+Winter's Embrace Canadian Feast Badge (2020)
+
+Consume 25 bottles of [Maple Syrups](./Maple%20Syrup.md) and 25 bags of [Ketchup Chips](./Ketchup%20Chips.md) within the [Winter's Embrace Event Challenge](./Winter%27s%20Embrace.md)
+
+June 29th-July 31st 2020
+
+![](../assets/Badge_WinterInJuly.png)
+
+Winter's Embrace Winter In July Badge (2020)
+
+Survived for 25 days within the [Winter's Embrace Event Challenge](./Winter%27s%20Embrace.md)
+
+June 29th-July 31st 2020
 
 ## Trivia
 

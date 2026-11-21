@@ -13,20 +13,27 @@
 
 **Bedroll**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Bedroll_icon.png) / _bedroll\_icon.png_ |
-| **General** |  |
-| Item Type | Tool\|- |
-| **Statistics** |  |
-| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
-| Warmth bonus | ![temp\_icon.png](../assets/Temp_icon.png)5.0 °C(9 °F) |
-| Harvest | 90 Minutes 10 × [Cloth](./Cloth.md) |
-| Repair | 45 Minutes 2 × [Cloth](./Cloth.md) / 30% Condition |
+![](../assets/Bedroll_icon.png)
+
+_bedroll\_icon.png_
+
+**General**
+
+**Item Type:** Tool\|-
+
+**Statistics**
+
+**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+
+**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)5.0 °C(9 °F)
+
+**Harvest:** 90 Minutes 10 × [Cloth](./Cloth.md)
+
+**Repair:** 45 Minutes 2 × [Cloth](./Cloth.md) / 30% Condition
 
 _This is about the normal cloth bedroll. For a list of other bedrolls see here._
 
-> “__A down-filled sleeping bag.__”
+> “**A down-filled sleeping bag.**”
 >
 > — In-game description
 
@@ -67,5 +74,3 @@ As of Part 3: Frontier Comforts update for those who purchase the [Tales from th
 ![Old model.](../assets/Bedroll.png)
 
 _Old model._
-
-[ru:Спальный\_мешок](ru:%D0%A1%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D1%88%D0%BE%D0%BA)

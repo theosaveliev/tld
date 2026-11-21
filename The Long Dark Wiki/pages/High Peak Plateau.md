@@ -4,13 +4,26 @@
 
 **High Peak Plateau**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/High_Peak_Plateau_Area.jpg) / _High\_Peak\_Plateau\_Area.jpg_ |
-| **Location** |  |
-|  | ![](../assets/High_Peak_Plateau_Location.png) / _High\_Peak\_Plateau\_Location.png_ |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
-| **General** |  |
-| Firebox | [Fire Barrel](./Fire%20Barrel.md) |
+![](../assets/High_Peak_Plateau_Area.jpg)
 
-| ![The Transmitter](../assets/High_Peak_Plateau.jpg) / _The Transmitter_ | ![The shed up close](../assets/High_Peak_Plateau_Shed.jpg) / _The shed up close_ |
+_High\_Peak\_Plateau\_Area.jpg_
+
+**Location**
+
+![](../assets/High_Peak_Plateau_Location.png)
+
+_High\_Peak\_Plateau\_Location.png_
+
+**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+
+**General**
+
+**Firebox:** [Fire Barrel](./Fire%20Barrel.md)
+
+![The Transmitter](../assets/High_Peak_Plateau.jpg)
+
+_The Transmitter_
+
+![The shed up close](../assets/High_Peak_Plateau_Shed.jpg)
+
+_The shed up close_

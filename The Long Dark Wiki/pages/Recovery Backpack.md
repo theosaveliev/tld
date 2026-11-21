@@ -4,12 +4,15 @@
 
 **Recovery Backpack**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Recovery_Backpack.png) / _Recovery\_Backpack.png_ |
-| Story item | No |
-| **Container** |  |
-| Capacity | 5.00 kg(11 lbs) |
+![](../assets/Recovery_Backpack.png)
+
+_Recovery\_Backpack.png_
+
+**Story item:** No
+
+**Container**
+
+**Capacity:** 5.00 kg(11 lbs)
 
 _For an ordinary backpack, see [Backpack](./Backpack.md)._
 

@@ -14,17 +14,25 @@
 
 **Hinterland Studio Inc.**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Landing%2Blogo%2Bwide2.png) / _Landing+logo+wide2.png_ |
-| Industry | Video games |
-| Founded | 2012 |
-| Founder | Raphael van Lierop |
-| Headquarters | [Vancouver](wikipedia:Vancouver), [BC](wikipedia:British_Columbia), [Canada](wikipedia:Canada) |
-| Products | [The Long Dark](./The%20Long%20Dark.md) |
-| Number of employees | 35 (Nov 2018) |
-| DUNS number | 20-364-2843 |
-| Website | hinterlandgames.com |
+![](../assets/Landing%2Blogo%2Bwide2.png)
+
+_Landing+logo+wide2.png_
+
+**Industry:** Video games
+
+**Founded:** 2012
+
+**Founder:** Raphael van Lierop
+
+**Headquarters:** [Vancouver](wikipedia:Vancouver), [BC](wikipedia:British_Columbia), [Canada](wikipedia:Canada)
+
+**Products:** [The Long Dark](./The%20Long%20Dark.md)
+
+**Number of employees:** 35 (Nov 2018)
+
+**DUNS number:** 20-364-2843
+
+**Website:** hinterlandgames.com
 
 **Hinterland Studio Inc.** is an independent game studio headquartered in downtown Vancouver.
 

@@ -11,26 +11,53 @@
 
 **Tomato Soup**
 
-| Property | Details |
-| --- | --- |
-| \[\[File: / ![Sealed](../assets/Tomato_Soup_icon.png) / _Sealed_ / ![Opened](../assets/Tomato_Soup_%28Opened%29_icon.png) / _Opened_ | 250px\]\] |
-| ![Sealed](../assets/Tomato_Soup_icon.png) / _Sealed_ | ![Opened](../assets/Tomato_Soup_%28Opened%29_icon.png) / _Opened_ |
-| Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181) |
-| Wintermute | No |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- / Equipable |
-| Stackable | No |
-| Examine | A rich, sweet-smelling soup. Eat it hot and it'll warm your heart. Might even stave off starvation for a little longer. |
-| **Values** |  |
-| Calories | 300 kcal |
-| Hydration | 10% |
-| [Vitamin C](./Scurvy.md) | Moderate (30%) |
-| Weight | 0.25 kg (0.55 lbs) |
-| **Decay Rate** |  |
-| Inside | 0.200% per day |
-| Outside | 0.050% per day |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_TomatoSoupCan |
+\[\[File: / ![Sealed](../assets/Tomato_Soup_icon.png) / _Sealed_ / ![Opened](../assets/Tomato_Soup_%28Opened%29_icon.png) / _Opened_
+
+250px\]\]
+
+![Sealed](../assets/Tomato_Soup_icon.png)
+
+_Sealed_
+
+![Opened](../assets/Tomato_Soup_%28Opened%29_icon.png)
+
+_Opened_
+
+**Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.181)
+
+**Wintermute:** No
+
+**Properties**
+
+Item type
+
+[Food And Drink](./Food%20And%20Drink.md)\|-
+
+Equipable
+
+**Stackable:** No
+
+**Examine:** A rich, sweet-smelling soup. Eat it hot and it'll warm your heart. Might even stave off starvation for a little longer.
+
+**Values**
+
+**Calories:** 300 kcal
+
+**Hydration:** 10%
+
+**[Vitamin C](./Scurvy.md):** Moderate (30%)
+
+**Weight:** 0.25 kg (0.55 lbs)
+
+**Decay Rate**
+
+**Inside:** 0.200% per day
+
+**Outside:** 0.050% per day
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_TomatoSoupCan
 
 **Tomato Soup** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 

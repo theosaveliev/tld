@@ -11,22 +11,35 @@
 
 **Rabbit (Raw)**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Rabbit_%28Raw%29_icon.png) / _Rabbit\_(Raw)\_icon.png_ |
-| Release | [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.152) |
-| Wintermute | No |
-| Renewable | Yes |
-| **Properties** |  |
-| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
-| Stackable | No |
-| Examine | Flesh from a rabbit. Cook to eat safely. |
-| **Values** |  |
-| Calories | 500 kcal |
-| Hydration | 0% |
-| Weight | 1.00 kg (2.2 lbs) |
-| **Advanced data** |  |
-| Item key | GAMEPLAY\_RabbitRaw |
+![](../assets/Rabbit_%28Raw%29_icon.png)
+
+_Rabbit\_(Raw)\_icon.png_
+
+**Release:** [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.152)
+
+**Wintermute:** No
+
+**Renewable:** Yes
+
+**Properties**
+
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+
+**Stackable:** No
+
+**Examine:** Flesh from a rabbit. Cook to eat safely.
+
+**Values**
+
+**Calories:** 500 kcal
+
+**Hydration:** 0%
+
+**Weight:** 1.00 kg (2.2 lbs)
+
+**Advanced data**
+
+**Item key:** GAMEPLAY\_RabbitRaw
 
 _For the cooked version, see [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md)._
 
@@ -73,5 +86,3 @@ _Old model_
 
 - UPDATE **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152)):**
   - Added to game.
-
-[ru:Крольчатина (сырая)](ru:%D0%9A%D1%80%D0%BE%D0%BB%D1%8C%D1%87%D0%B0%D1%82%D0%B8%D0%BD%D0%B0_%28%D1%81%D1%8B%D1%80%D0%B0%D1%8F%29)

@@ -11,13 +11,26 @@
 
 **Hermit's Cabin**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Hermits_cabin.jpg) / _hermits\_cabin.jpg_ |
-| **Location** |  |
-|  | ![](../assets/Hermit%27s_Cabin_Location.png) / _Hermit's\_Cabin\_Location.png_ |
-| Region | [Mountain Town](./Mountain%20Town.md)\|- |
-| **General** |  |
-| Firebox | [Wood Stove](./Wood%20Stove.md) |
+![](../assets/Hermits_cabin.jpg)
 
-| ![](../assets/Hermits_cabin_2.jpg) / _hermits\_cabin\_2.jpg_ | ![](../assets/Milton_Basin_Cabin.jpg) / _Milton\_Basin\_Cabin.jpg_ |
+_hermits\_cabin.jpg_
+
+**Location**
+
+![](../assets/Hermit%27s_Cabin_Location.png)
+
+_Hermit's\_Cabin\_Location.png_
+
+**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+
+**General**
+
+**Firebox:** [Wood Stove](./Wood%20Stove.md)
+
+![](../assets/Hermits_cabin_2.jpg)
+
+_hermits\_cabin\_2.jpg_
+
+![](../assets/Milton_Basin_Cabin.jpg)
+
+_Milton\_Basin\_Cabin.jpg_

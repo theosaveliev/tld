@@ -13,16 +13,23 @@
 
 **The Crash/Transcript**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/The_Crash.png) / _The\_Crash.png_ |
-| Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41) |
-| Episode | [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
-| Mission Type | Primary |
-| **Missions** |  |
-| Previous | [Memories/Transcript](./Memories%20%E2%80%94%20Transcript.md) |
-| Current | The Crash/Transcript |
-| Next | [The Grey Mother/Transcript](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) |
+![](../assets/The_Crash.png)
+
+_The\_Crash.png_
+
+**Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)
+
+**Episode:** [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
+
+**Mission Type:** Primary
+
+**Missions**
+
+**Previous:** [Memories/Transcript](./Memories%20%E2%80%94%20Transcript.md)
+
+**Current:** The Crash/Transcript
+
+**Next:** [The Grey Mother/Transcript](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md)
 
 This is the mission transcript for mission 2 [The Crash](./The%20Crash.md) of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 

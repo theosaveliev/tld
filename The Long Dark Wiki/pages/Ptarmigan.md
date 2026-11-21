@@ -28,20 +28,37 @@
 
 **Ptarmigan**
 
-| Property | Details |
-| --- | --- |
-|  | ![](../assets/Ptarmigan.png) / _Ptarmigan.png_ |
-| **Basic Information** |  |
-| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
-| Role | Prey |
-| **Physical Information** |  |
-| Color | White |
-| Size | Small |
-| Eyes | Black |
+![](../assets/Ptarmigan.png)
 
-| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_icon.png) / _Ptarmigan\_icon.png_ | **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. | \|}{\| style="margin:auto" | “ | __A small winter bird that gathers in flocks. Can be a source of food, and its Feathers become a useful crafting material.__ / Official Hinterland Description | ” |
+_Ptarmigan.png_
+
+**Basic Information**
+
+**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
+
+**Role:** Prey
+
+**Physical Information**
+
+**Color:** White
+
+**Size:** Small
+
+**Eyes:** Black
+
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+\|}{\| style="margin:auto"
+
+“
+
+**A small winter bird that gathers in flocks. Can be a source of food, and its Feathers become a useful crafting material.** / Official Hinterland Description
+
+”
 
 **Ptarmigan** are an avian species of prey wildlife found on [Great Bear Island](./Great%20Bear%20Island.md). They were introduced in the Part 3: Frontier Comforts update of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md), and can only be encountered by players who have bought the expansion pass.
 
@@ -55,10 +72,31 @@ Each region contains only a handful of specific areas populated with Ptarmigans,
 
 When killed, a [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) can be butchered on the spot or carried whole, similar to a [Rabbit Carcass](./Rabbit%20Carcass.md). A whole bird weighs only slightly more than its meat and down feathers and harvesting is a time consuming process (30 minutes for each bundle). Unlike other animals, Ptarmigans are unique in that they do not drop Hides or Intestines.
 
-|  | Item | Quanity | Rarity |
-| --- | --- | --- | --- |
-| ![](../assets/Ptarmigan_%28Raw%29_icon.png) / _Ptarmigan\_(Raw)\_icon.png_ | [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) | 0.8-1.5 Kg (1.8-3.3 lbs) | Always |
-| ![](../assets/Ptarmigan_Down_icon.png) / _Ptarmigan\_Down\_icon.png_ | [Ptarmigan Down](./Ptarmigan%20Down.md) | 4 Bundles | Always |
+Item
+
+Quanity
+
+Rarity
+
+![](../assets/Ptarmigan_%28Raw%29_icon.png)
+
+_Ptarmigan\_(Raw)\_icon.png_
+
+[Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)
+
+0.8-1.5 Kg (1.8-3.3 lbs)
+
+Always
+
+![](../assets/Ptarmigan_Down_icon.png)
+
+_Ptarmigan\_Down\_icon.png_
+
+[Ptarmigan Down](./Ptarmigan%20Down.md)
+
+4 Bundles
+
+Always
 
 Ptarmigan meat is a necessary ingredient in making all stews, as it is the only reliable way of obtaining [Broth](./Broth.md).
 

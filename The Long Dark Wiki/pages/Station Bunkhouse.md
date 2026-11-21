@@ -4,12 +4,22 @@
 
 **Station Bunkhouse**
 
-| Property | Details |
-| --- | --- |
-|  | ![The Bunkhouse next to the Radar dome](../assets/Weather_Station_radar_and_bunkhouse_small.png) / _The Bunkhouse next to the Radar dome_ |
-| **Location** |  |
-| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
-| Firebox | [Pot Belly Stove](./Pot%20Belly%20Stove.md) |
-| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |
+![The Bunkhouse next to the Radar dome](../assets/Weather_Station_radar_and_bunkhouse_small.png)
 
-|  | ![The inside of the Bunkhouse during an Aurora](../assets/Station_Bunkhouse_Interior.jpg) / _The inside of the Bunkhouse during an [Aurora](./Aurora.md)_ |
+_The Bunkhouse next to the Radar dome_
+
+**Location**
+
+**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+
+**Firebox:** [Pot Belly Stove](./Pot%20Belly%20Stove.md)
+
+![](../assets/Bed_icon.png)
+
+_bed\_icon.png_
+
+Has a bed
+
+![The inside of the Bunkhouse during an Aurora](../assets/Station_Bunkhouse_Interior.jpg)
+
+_The inside of the Bunkhouse during an [Aurora](./Aurora.md)_

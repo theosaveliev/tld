@@ -7,40 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Frozen_Creek"
 
 # Frozen Creek
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Frozen Creek upstream.jpg
-> |imagecaption   = 
-> |region         = Mystery Lake
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |firebox        = 
-> |bed            =
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |map=Frozen Creek Location.png}}
-> '''Frozen Creek''' is a location in [[Mystery Lake (region)|Mystery Lake]]. 
-> 
-> == Overview ==
-> Frozen Creek is located east upstream from [[Unnamed Pond]], south-east of [[Forestry Lookout]], and west of [[Derailment]].
-> 
-> A few [[deer]] can be found roaming the area, and often [[Wolf|Wolves]].
-> 
-> Some [[Reishi Mushroom]] and [[Rose Hip]] can be found on the southern side of the creek.
-> 
-> Oddly enough, [[Coal]] may spawn in the area and along the river, however it's very scarce, just one to three pieces spawn, and whether it respawns or not is untested
-> 
-> == Gallery ==
-> <gallery>
-> Frozen Creek downstream.jpg|Another view of Frozen Creek.
-> Frozen Creek dawn.png|Frozen Creek at dawn.
-> </gallery>
-> 
-> {{Mystery Lake}}
-> 
-> [[es:Arroyo helado]]
-> [[ru:Замороженный ручей]]
-> [[Category:Locations in Mystery Lake]]
+<div>
+
+<table class="infobox">
+<caption>Frozen Creek</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Frozen_Creek_upstream.jpg]</span>
+<figcaption>Frozen_Creek_upstream.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Frozen_Creek_Location.png]</span>
+<figcaption>Frozen_Creek_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

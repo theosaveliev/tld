@@ -7,27 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Clearcut"
 
 # Clearcut
 
-> {{Infobox/Location
-> |image = Clearcut 01.jpg
-> |region = Mystery Lake
-> |location = On the north-western corner of [[Mystery Lake (region)|Mystery Lake]].
-> |description = A clear cut logging area.
-> |type = outdoors
-> |map=Clearcut Location.png}}
-> '''Clearcut''' is a location in the north-western corner of [[Mystery Lake (region)|Mystery Lake]]. 
-> 
-> == Overview ==
-> Caution is advised when approaching Clearcut as [[Wolf|wolves]] and [[bear|bears]] frequently roam the area. A measly amount of loot can be scavenged from several [[frozen corpse|frozen corpses]] scattered around the area. 
-> 
-> A large sign leads to an narrow, winding road that leads to the [[Destroyed Lookout]]. A road east has a sign with a truck hauling wood leads to the [[Logging Camp]]. A small path north leads to an area called the [[Lookout (Mystery Lake location)|Lookout]], not to be be confused with the [[Forestry Lookout]] or Destroyed Lookout. 
-> 
-> == Gallery ==
-> <gallery>
-> File:Clearcut 02.jpg|An alternative view of Clearcut.
-> File:Clearcut from Forestry Lookout.jpg|A view of Clearcut from the nearby [[Destroyed Lookout]].
-> </gallery>
-> 
-> {{Mystery Lake}}
-> 
-> [[ru:Лесосека]]
-> [[Category:Locations in Mystery Lake]]
+<div>
+
+<table class="infobox">
+<caption>Clearcut</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Clearcut_01.jpg]</span>
+<figcaption>Clearcut_01.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Clearcut_Location.png]</span>
+<figcaption>Clearcut_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>A clear cut logging area.</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

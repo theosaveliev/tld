@@ -7,34 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Train_Bridge"
 
 # Train Bridge
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Train_Bridge.jpg
-> |imagecaption   = 
-> |region         = Mystery Lake
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = landmark
-> |firebox        = 
-> |bed            =
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> |map=Train Bridge Location.png}}'''Train Bridge''' is a bridge in [[Mystery Lake (region)|Mystery Lake]], southeast of the [[Carter Hydro Dam]] and north of [[Alan's Cave]].
-> 
-> == Overview ==
-> Train Bridge is between [[Carter Hydro Dam]] and [[Train Loading Area]].
-> 
-> [[Green Maple Sapling]] [[cat tail|cattail]] plants, and [[reishi mushroom]]s can be found by the shore below the bridge.
-> 
-> Under the bridge, a [[Frozen Corpse|frozen corpse]] and a [[Hunting Rifle|rifle]] leaning against the supports can sometimes be found, along with a burned-out campfire.
-> 
-> Following the tracks east will lead you to [[The Ravine]], and west to Train Loading Area, [[Derailment]], and [[Camp Office]].
-> 
-> {{Mystery Lake}}
-> 
-> [[ru:Железнодорожный мост]]
-> [[Category:Locations in Mystery Lake]]
+<div>
+
+<table class="infobox">
+<caption>Train Bridge</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Train_Bridge.jpg]</span>
+<figcaption>Train_Bridge.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Train_Bridge_Location.png]</span>
+<figcaption>Train_Bridge_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

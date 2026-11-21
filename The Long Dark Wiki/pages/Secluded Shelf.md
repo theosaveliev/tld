@@ -7,36 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Secluded_Shelf"
 
 # Secluded Shelf
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Secluded Shelf.jpg
-> |imagecaption   = 
-> |region         = Timberwolf Mountain
-> |location       = 
-> |sublocations   = 
-> |description    = A small clearing atop a cliff
-> |type           = outdoors
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = partial
-> |missions       = 
-> |characters     = 
-> |map=Secluded Shelf Location.png}}
-> '''Secluded Shelf''' is a small landing on [[Timberwolf Mountain]]. 
-> 
-> == Overview ==
-> The shelf is a small area surrounded on all sides by cliffs. A [[Green Maple Sapling]] and [[Old Man's Beard Lichen]] can be found growing on the shelf.
-> 
-> The shelf can be reached by following the path from [[Deer Clearing]] and climbing the [[Mountaineering Rope]] which is already deployed on the cliff face.
-> 
-> In the cliff face on the shelf is a cave which connects to another cave near the [[Summit]], above [[Eric's Falls]].
-> 
-> == Gallery ==
-> <gallery>
-> Secluded Shelf view.jpg|A view from the shelf
-> </gallery>
-> 
-> {{Timberwolf Mountain}}
-> [[Category:Locations in Timberwolf Mountain]]
+<div>
+
+<table class="infobox">
+<caption>Secluded Shelf</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Secluded_Shelf.jpg]</span>
+<figcaption>Secluded_Shelf.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Secluded_Shelf_Location.png]</span>
+<figcaption>Secluded_Shelf_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

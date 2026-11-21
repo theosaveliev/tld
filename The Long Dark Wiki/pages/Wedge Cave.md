@@ -7,31 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Wedge_Cave"
 
 # Wedge Cave
 
-> {{Infobox/Location
-> |title          = 
-> |image          = Wedge Cave.jpg
-> |imagecaption   = 
-> |region         = Blackrock
-> |location       = In the region's eastern rock wall, near the road
-> |sublocations   = 
-> |description    = 
-> |type           = cave
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = partial
-> |missions       = 
-> |characters     = 
-> |map=Wedge Cave Location.png}}
-> '''{{PAGENAME}}''' is a small cave located in [[Blackrock]] in the region's eastern boundary rock wall. [[No Road Cave]] and [[Whistling Perch]] are close by. A nearby road leads north to [[Mule Bridge]] and south to [[Foreman's Clearcut]]. Packs of [[timberwolves]] often roam the hills surrounding this section of the road.
-> 
-> == Gallery ==
-> <gallery>
-> Wedge Cave.jpg|Path up to Wedge Cave from the road
-> Wedge Cave view.jpg|View of Blackrock Mountain from Wedge Cave just before sunset
-> </gallery>
-> 
-> {{Blackrock}}
-> [[Category:Locations in Blackrock]]
-> [[ru:Клиновидная пещера]]
+<div>
+
+<table class="infobox">
+<caption>Wedge Cave</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Wedge_Cave.jpg]</span>
+<figcaption>Wedge_Cave.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Wedge_Cave_Location.png]</span>
+<figcaption>Wedge_Cave_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Location</p></td>
+<td><p>In the region's eastern rock wall, near the road</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Cave|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

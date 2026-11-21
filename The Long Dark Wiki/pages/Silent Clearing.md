@@ -7,32 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Silent_Clearing"
 
 # Silent Clearing
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Silent Clearing.jpg
-> |imagecaption   = 
-> |region         = Coastal Highway
-> |location       = Northeast of [[Coastal Townsite]]
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> |map=Silent Clearing Location.png}}'''Silent Clearing''' is a location in [[Coastal Highway]].
-> 
-> == Overview ==
-> Silent Clearing is located to the northeast of [[Coastal Townsite]].
-> 
-> [[Green Birch Sapling]]s, [[Old Man's Beard Lichen]], [[Burdock]], and some [[Reishi Mushroom|Reishi Mushrooms]] can be harvested at Silent Clearing.
-> 
-> At one end a [[Frozen Corpse]] may spawn along with a [[Distress Pistol]] and several [[Flare Shell|Flare Shells]]. [[Deer]] are commonly found in the clearing. 
-> 
-> To the north, there is [[Mountaineering Rope]] attached to a higher part of the Highway. Use caution when attempting to climb. It consumes a lot of fatigue to scale the cliff.
-> 
-> {{Coastal Highway}}
-> [[Category:Locations in Coastal Highway]]
+<div>
+
+<table class="infobox">
+<caption>Silent Clearing</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Silent_Clearing.jpg]</span>
+<figcaption>Silent_Clearing.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Silent_Clearing_Location.png]</span>
+<figcaption>Silent_Clearing_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Coastal%20Highway.md" class="wikilink" title="Coastal Highway">Coastal Highway</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

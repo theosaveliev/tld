@@ -7,64 +7,190 @@ source: "https://thelongdark.fandom.com/wiki/Ptarmigan_(Cooked)"
 
 # Ptarmigan \(Cooked\)
 
-> {{Infobox item
-> |name = Ptarmigan (Cooked)
-> |image = Ptarmigan (Cooked) icon.png
-> |release = 21 June 2023
-> |update = 2.17
-> |story = No
-> |type = Food And Drink
-> |equipable = No
-> |stackable = No
-> |calories = 450
-> |hydration = -5
-> |weight = 1.00
-> |actions = 
-> |actions_radial = 
-> |actions_ground = 
-> |examine = Cooked flesh from a Ptarmigan.
-> |key = GAMEPLAY_PtarmiganCooked
-> }}{{TFTFT}}{{For|the raw version|Ptarmigan (Raw)}}
-> '''Ptarmigan (Cooked)''' is a cooked [[Food And Drink|food]] item in ''The Long Dark''.
-> 
-> ==Overview==
-> Ptarmigan (Cooked) is obtained by using a lit [[Fire]] and improves the [[Cooking]] skill. Cooking increases its condition by 50%, makes it decay 4 times slower than raw meat, and adds a reduced chance of [[Food Poisoning]] over raw meat.
-> 
-> Using a [[Cooking Pot]] reduces cooking time by 25%. Cooked food on an active fire for too long will burn it, destroying the item and damaging a Cooking Pot if used.
-> 
-> ==Recipe==
-> {{Infobox recipe
-> |name = Ptarmigan (Cooked)
-> |amount = 1
-> |image =
-> |skill = Cooking
-> |level = 
-> |skillpoint =
-> |time = 37.5
-> |story =
-> |facility = Fire
-> |tool =
-> |misc =
-> |mat1 = Ptarmigan (Raw)
-> |mat1img =
-> |mat1qty = 1.00 kg
-> }}
-> 
-> == Gallery ==
-> <gallery>
-> File:Ptarmigan (Cooked) icon.png|Fresh
-> File:Ptarmigan (Cooked) Gamey icon.png|Gamey
-> File:Ptarmigan (Cooked) Mouldy icon.png|Mouldy
-> File:Ptarmigan (Cooked) Rancid icon.png|Rancid
-> File:Ptarmigan (Cooked) Ruined icon.png|Ruined
-> </gallery>
-> 
-> ==Update history==
-> {{Update history|
-> * {{Update list|type=update|update=The Long Dark/Changelog#2.17|date=21 June 2023}}
-> ** Added to game.
-> }}
-> 
-> {{Food and drink}}
-> [[Category:DLC Content]]
-> [[ru:Куропатка (приготовленная)]]
+<div>
+
+**Contents**
+
+- [Overview](#Overview)
+- [Recipe](#Recipe)
+- [Gallery](#Gallery)
+- [Update history](#Update_history)
+
+<table class="infobox">
+<caption>Ptarmigan (Cooked)</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/Ptarmigan_%28Cooked%29_icon.png" loading="lazy" width="250" />
+<figcaption>Ptarmigan_(Cooked)_icon.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Release</p></td>
+<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17" class="wikilink" title="21 June 2023">21 June 2023</a></p></td>
+</tr>
+<tr>
+<td><p>Wintermute</p></td>
+<td><p>No</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
+</tr>
+<tr>
+<td><p>Item type</p></td>
+<td><p><a href="./Food%20And%20Drink.md" class="wikilink" title="Food And Drink">Food And Drink</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Stackable</p></td>
+<td><p>No</p></td>
+</tr>
+<tr>
+<td><p>Examine</p></td>
+<td><p>Cooked flesh from a Ptarmigan.</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Values</strong></p></td>
+</tr>
+<tr>
+<td><p>Calories</p></td>
+<td><p>450 kcal</p></td>
+</tr>
+<tr>
+<td><p>Hydration</p></td>
+<td><p>-5%</p></td>
+</tr>
+<tr>
+<td><p>Weight</p></td>
+<td><p>1.00 kg (2.2 lbs)</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Advanced data</strong></p></td>
+</tr>
+<tr>
+<td><p>Item key</p></td>
+<td><p>GAMEPLAY_PtarmiganCooked</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="40px"><figure>
+<span>[Missing image: Ptarmigan_icon.png]</span>
+<figcaption>Ptarmigan_icon.png</figcaption>
+</figure></td>
+<td><p><strong>DLC-Exclusive content.</strong><br />
+</p>
+<div style="font-size:0.85em; line-height:1.5em;">
+<p>This content requires the <a href="./Tales%20from%20the%20Far%20Territory.md" class="wikilink" title="Tales from the Far Territory">Tales from the Far Territory</a> addon to be installed before it can be seen or used in regular gameplay.</p>
+</div></td>
+<td><p>|}</p>
+<dl>
+<dt></dt>
+<dd>
+<span class="dablink"><em>For the raw version, see <a href="./Ptarmigan%20%28Raw%29.md" class="wikilink" title="Ptarmigan (Raw)">Ptarmigan (Raw)</a>.</em></span>
+</dd>
+</dl>
+<p><strong>Ptarmigan (Cooked)</strong> is a cooked <a href="./Food%20And%20Drink.md" class="wikilink" title="food">food</a> item in <em>The Long Dark</em>.</p>
+<h2 id="Overview">Overview</h2>
+<p>Ptarmigan (Cooked) is obtained by using a lit <a href="./Fire.md" class="wikilink" title="Fire">Fire</a> and improves the <a href="./Cooking.md" class="wikilink" title="Cooking">Cooking</a> skill. Cooking increases its condition by 50%, makes it decay 4 times slower than raw meat, and adds a reduced chance of <a href="./Food%20Poisoning.md" class="wikilink" title="Food Poisoning">Food Poisoning</a> over raw meat.</p>
+<p>Using a <a href="./Cooking%20Pot.md" class="wikilink" title="Cooking Pot">Cooking Pot</a> reduces cooking time by 25%. Cooked food on an active fire for too long will burn it, destroying the item and damaging a Cooking Pot if used.</p>
+<h2 id="Recipe">Recipe</h2>
+<table class="infobox">
+<caption>Ptarmigan (Cooked)</caption>
+<tbody>
+<tr>
+<td colspan="2"><p><strong>Template:pic link plain</strong><a href="./Cooking.md" class="wikilink" title="Cooking">Cooking</a></p></td>
+</tr>
+<tr>
+<td colspan="2"><p>-</p></td>
+</tr>
+<tr>
+<td colspan="2"><p>37.5 minutes</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Requirements</strong></p></td>
+</tr>
+<tr>
+<td><p>Facility</p></td>
+<td><p><strong>Template:iconlink</strong></p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Materials</strong></p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Template:iconlink plain</strong></p></td>
+</tr>
+<tr>
+<td><p>Item</p></td>
+<td><p><a href="./Ptarmigan%20%28Raw%29.md" class="wikilink" title="Ptarmigan (Raw)">Ptarmigan (Raw)</a></p></td>
+</tr>
+<tr>
+<td><p>Quantity</p></td>
+<td><p>1.00 kg</p></td>
+</tr>
+</tbody>
+</table>
+<h2 id="Gallery">Gallery</h2>
+<table class="gallery">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr>
+<td><figure>
+<img src="../assets/Ptarmigan_%28Cooked%29_icon.png" title="Fresh" loading="lazy" width="140" />
+<figcaption>Fresh</figcaption>
+</figure></td>
+<td><figure>
+<img src="../assets/Ptarmigan_%28Cooked%29_Gamey_icon.png" title="Gamey" loading="lazy" width="140" />
+<figcaption>Gamey</figcaption>
+</figure></td>
+<td><figure>
+<img src="../assets/Ptarmigan_%28Cooked%29_Mouldy_icon.png" title="Mouldy" loading="lazy" width="140" />
+<figcaption>Mouldy</figcaption>
+</figure></td>
+<td><figure>
+<img src="../assets/Ptarmigan_%28Cooked%29_Rancid_icon.png" title="Rancid" loading="lazy" width="140" />
+<figcaption>Rancid</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><figure>
+<img src="../assets/Ptarmigan_%28Cooked%29_Ruined_icon.png" title="Ruined" loading="lazy" width="140" />
+<figcaption>Ruined</figcaption>
+</figure></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="Update_history">Update history</h2>
+<div class="update-history">
+<ul>
+<li><span class="update-list"><span class="update-type update">UPDATE</span> <strong>21 June 2023 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17" class="wikilink" title="Update">Update</a>):</strong></span>
+<ul>
+<li>Added to game.</li>
+</ul></li>
+</ul>
+</div>
+<p><strong>Lua execution error in Module:Navbox function navbox</strong> <a href="ru:%D0%9A%D1%83%D1%80%D0%BE%D0%BF%D0%B0%D1%82%D0%BA%D0%B0_(%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F)" class="wikilink" title="ru:Куропатка (приготовленная)">ru:Куропатка (приготовленная)</a></p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

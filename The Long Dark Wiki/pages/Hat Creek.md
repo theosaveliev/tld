@@ -7,34 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Hat_Creek"
 
 # Hat Creek
 
-> {{Infobox/Location
-> |title          = 
-> |image          =20170304105847 1.jpg
-> |imagecaption   = 
-> |region         = Forlorn Muskeg
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = landmark
-> |firebox        = 
-> |bed            =
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> |map=Hat Creek Location.png}}{{Stub}}{{Images needed}}
-> '''Hat Creek''' is a frozen creek north of [[Forlorn Muskeg]]. 
-> 
-> == Overview ==
-> The creek is a good source of [[Cat Tail]]. Right next to its waterfall is the entrance to an explorable cave that leads to the [[Marsh Ridge]]. You can find a [[Mountaineering Rope]], a [[Deer Carcass]], and [[Coal]] in this cave. Further right of the creek is the [[Shortwave Tower|Shortwave Tower.]]
-> 
-> == Gallery ==
-> <gallery>
-> 20170304105849 1.jpg
-> </gallery>
-> 
-> {{Forlorn Muskeg}}
-> 
-> [[ru:Заводь]]
-> [[Category:Locations in Forlorn Muskeg]]
+<div>
+
+<table class="infobox">
+<caption>Hat Creek</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: 20170304105847_1.jpg]</span>
+<figcaption>20170304105847_1.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Hat_Creek_Location.png]</span>
+<figcaption>Hat_Creek_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

@@ -7,35 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Andre's_Peak"
 
 # Andre's Peak
 
-> {{Infobox/Location
-> |title          = 
-> |image          =andres peak.jpg
-> |imagecaption   = 
-> |region         = Timberwolf Mountain
-> |location       = Adjacent to [[Engine]]
-> |sublocations   = 
-> |description    = A small area on the top of a hill
-> |type           = outdoors
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = partial
-> |missions       = 
-> |characters     = 
-> |map=Andre's Peak Location.png}}
-> '''Andre's Peak''' lies close to [[Engine (West)]].
-> == Overview ==
-> On the peak is [[Old Man's Beard Lichen]], [[Rose Hip|rose hips]] and sometimes a [[Frozen Corpse|corpse]]. There is also a small cave nearby that may have some supplies such as [[coal]] and firewood.
-> == Gallery ==
-> <gallery>
-> andres peak cave.jpg|The small cave on Andre's Peak
-> andres peak panorama.jpg|A panoramic view from the peak
-> </gallery>
-> ==Trivia==
-> *Andre's Peak is named for Andre da Rosa, a UI programmer at [[Hinterland Games|Hinterland Studio]]
-> 
-> {{Timberwolf Mountain}}
-> 
-> [[ru:Пик Андре]]
-> [[Category:Locations in Timberwolf Mountain]]
+<div>
+
+<table class="infobox">
+<caption>Andre's Peak</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: andres_peak.jpg]</span>
+<figcaption>andres_peak.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Andre's_Peak_Location.png]</span>
+<figcaption>Andre's_Peak_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>A small area on the top of a hill</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

@@ -7,28 +7,48 @@ source: "https://thelongdark.fandom.com/wiki/Moose_Overlook"
 
 # Moose Overlook
 
-> {{Infobox/Location
-> |title          = 
-> |image          =<gallery>
-> Moose Overlook.png
-> </gallery>
-> |map            = 
-> |region         = Hushed River Valley
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |firebox        = 
-> |bed            = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> }}'''Moose Overlook''' is a view point in [[Hushed River Valley]] reached through a fallen tree. It is located in the basin close to [[Landslide (Hushed River Valley)]].
-> ==Overview==
-> A [[Frozen corpse]] and a backpack can spawn in the area. This location is also a possible spawn point for the [[Woodwright's Bow]] in all difficulties other than Interloper.
-> 
-> {{Hushed River Valley}}
-> 
-> [[ru:Вид на лосиный край]]
+<div>
+
+<table class="infobox">
+<caption>Moose Overlook</caption>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><p>[[File:</p>
+<table class="gallery">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><figure>
+<img src="../assets/Moose_Overlook.png" loading="lazy" width="140" />
+<figcaption>Moose_Overlook.png</figcaption>
+</figure></td>
+</tr>
+</tbody>
+</table></td>
+<td><p>250px]]</p></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>Location</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
+<td><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+</div>

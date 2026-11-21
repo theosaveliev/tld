@@ -7,8 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Raven_Falls_Trestle"
 
 # Raven Falls Trestle
 
-> {{Infobox/Location|image=The_Ravine_-_long_train_bridge.jpg|region=The Ravine|location=Near the end of The Ravine|description=A partially damaged wooden train trestle.|type=industrial|type 2=landmark|imagecaption=Trestle at Ravine's End|map=Raven Falls Trestle Location.png}}The '''Raven Falls Trestle''' is a location found in the [[The Ravine|Ravine]] transition zone. The trestle takes on the appearance of a long worn-down wooden bridge that spans much of the Ravine area. It is collapsed slightly towards the eastern end, and can only be traversed by carefully walking over the remaining rails. Though not a [[Polaroids|Vista]], the trestle still works as a good area for mapping out a large part of the region. 
-> 
-> Be aware that using the Autowalk function can result in your character walking off the rails into the valley below, especially when nearing the damaged rails, resulting in instant death. 
-> {{The Ravine}}
-> [[Category:Locations in The Ravine]]
+<div>
+
+<table class="infobox">
+<caption>Raven Falls Trestle</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: The_Ravine_-_long_train_bridge.jpg]</span>
+<figcaption>Trestle at Ravine's End</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Raven_Falls_Trestle_Location.png]</span>
+<figcaption>Raven_Falls_Trestle_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./The%20Ravine.md" class="wikilink" title="The Ravine">The Ravine</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>A partially damaged wooden train trestle.</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Industrial|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

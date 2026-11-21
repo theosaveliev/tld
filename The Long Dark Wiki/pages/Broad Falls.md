@@ -7,32 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Broad_Falls"
 
 # Broad Falls
 
-> {{Infobox/Location
-> |title          = 
-> |image          =BroadFallsCloseup 1080p.png
-> |map            =Broad Falls Location.png 
-> |region         = Ash Canyon
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = landmark
-> |firebox        = 
-> |bed            = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> }}
-> 
-> '''Broad Falls''' is a rather wide waterfall located a short distance west of the [[Angler's Den]] in [[Ash Canyon]]. There isn't much to find here, aside from a few [[stone|stones]] lying near the base of the falls. A [[Fire Barrel]] spawns about halfway between here and Angler's Den, and a [[Frozen Corpse]] and [[backpack]] may be found along the path going behind the falls leading upriver.
-> 
-> ==Gallery==
-> <gallery widths="185">
-> BroadFallsFromAnglersDen 1080p.png|Broad Falls as seen from [[Angler's Den]] at nightfall
-> PathBehindBroadFalls.png|The path leading behind the falls.
-> </gallery>
-> 
-> {{Ash Canyon}}
-> [[Category:Waterfalls]]
-> [[ru:Широкий обрыв]]
+<div>
+
+<table class="infobox">
+<caption>Broad Falls</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/BroadFallsCloseup_1080p.png" loading="lazy" width="250" />
+<figcaption>BroadFallsCloseup_1080p.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Broad_Falls_Location.png]</span>
+<figcaption>Broad_Falls_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Ash%20Canyon.md" class="wikilink" title="Ash Canyon">Ash Canyon</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

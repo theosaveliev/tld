@@ -7,21 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/The_Arch_(Old_Island_Connector_loca
 
 # The Arch \(Old Island Connector location\)
 
-> {{Infobox/Location
-> |title          = The Arch
-> |image          =Arch2.jpg
-> |region         = Crumbling Highway
-> |location       = 
-> |description    = A rock formation
-> |type           = landmark
-> |map=The Arch (Old Island Connector location) Location.png}}
-> 
-> :''See also: [[The Arch (Milton)]].''
-> '''The Arch''' is a location in [[Crumbling Highway]].
-> 
-> == Overview ==
-> The Arch is located by the coast, south-east of [[Abandoned Harris Home]] and south-west of [[Road Collapse]]. A shallow [[Warm Cave]] sits nearby, and a deer carcass and some loot may spawn in the area. The ice is deep enough on the coastline for [[Ice Fishing]] with Free Form holes.
-> 
-> ==Gallery==
-> {{Crumbing Highway}}
-> [[Category:Locations in Crumbling Highway]]
+<div>
+
+<table class="infobox">
+<caption>The Arch</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Arch2.jpg]</span>
+<figcaption>Arch2.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: The_Arch_(Old_Island_Connector_location)_Location.png]</span>
+<figcaption>The_Arch_(Old_Island_Connector_location)_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Crumbling%20Highway.md" class="wikilink" title="Old Island Connector">Old Island Connector</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

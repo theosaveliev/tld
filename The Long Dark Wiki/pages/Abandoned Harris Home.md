@@ -7,30 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Abandoned_Harris_Home"
 
 # Abandoned Harris Home
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Abandoned Harris Home.jpg
-> |region         = Crumbling Highway
-> |location       = 
-> |sublocations   = 
-> |description    = A house with an accessible basement
-> |type           = residential
-> |firebox        = 
-> |bed            = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = yes
-> |missions       = 
-> |characters     = 
-> |map=Abandoned Harris Home Location.png}}'''Abandoned Harris Home''' is a location in [[Crumbling Highway]].
-> == Overview ==
-> The Abandoned Harris Home can be found by following the road that splits through the Old Island Connector region.
-> 
-> The Abandoned Harris Home consists of three ruined buildings. Outside, a swing set, a bench, a [[car]], and a mailbox are also present; a [[deer]] carcass and a few pieces of [[Reclaimed Wood]] may lie in the vicinity.
-> 
-> Behind the building is a [[Basement (Crumbling Highway)]] accessible through a bulkhead door, with a few supplies that may be found inside. The basement provides a cold but indoor sheltered place to sleep. 
-> 
-> {{Crumbling Highway}}
-> 
-> [[ru:Заброшенный дом Харриса]]
-> [[Category:Locations in Crumbling Highway]]
+<div>
+
+<table class="infobox">
+<caption>Abandoned Harris Home</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Abandoned_Harris_Home.jpg]</span>
+<figcaption>Abandoned_Harris_Home.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Abandoned_Harris_Home_Location.png]</span>
+<figcaption>Abandoned_Harris_Home_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Crumbling%20Highway.md" class="wikilink" title="Old Island Connector">Old Island Connector</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Residential|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

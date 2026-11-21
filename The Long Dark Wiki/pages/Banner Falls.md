@@ -7,27 +7,59 @@ source: "https://thelongdark.fandom.com/wiki/Banner_Falls"
 
 # Banner Falls
 
-> {{Infobox/Location
-> |title          = 
-> |image          =<gallery>
-> Watchfull Falls.jpg|Banner falls (Left) Watchfull Falls (right)
-> </gallery>
-> |map            =Banner Falls Location.png 
-> |region         = Hushed River Valley
-> |location       = The north end of [[Monolith Lake]]
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |firebox        = 
-> |bed            = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> }}'''Banner Falls''' are located at the northernmost end of [[Monolith Lake]] in [[Hushed River Valley]]. Little loot can be found around them, however, aside from a few [[stone|stones]]. Not far away can be found [[Lake Cave]] and [[Watchful_Falls|Watchful Falls]]
-> 
-> {{Hushed River Valley}}
-> 
-> [[ru:Каскад знаменосца]]
-> [[Category:Waterfalls]]
+<div>
+
+<table class="infobox">
+<caption>Banner Falls</caption>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><p>[[File:</p>
+<table class="gallery">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><figure>
+<span>[Missing image: Watchfull_Falls.jpg]</span>
+<figcaption>Banner falls (Left) Watchfull Falls (right)</figcaption>
+</figure></td>
+</tr>
+</tbody>
+</table></td>
+<td><p>250px]]</p></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>Location</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Banner_Falls_Location.png]</span>
+<figcaption>Banner_Falls_Location.png</figcaption>
+</figure></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
+<td><p>Location</p></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>General</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+</div>

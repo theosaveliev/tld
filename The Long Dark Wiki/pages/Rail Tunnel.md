@@ -7,41 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Rail_Tunnel"
 
 # Rail Tunnel
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Rail Tunnel.jpg
-> |imagecaption   = 
-> |region         = Mystery Lake
-> |location       = Connects to [[Forlorn Muskeg]]
-> |sublocations   = 
-> |description    = 
-> |type           = landmark
-> |firebox        = 
-> |bed            =
-> |forge          = 
-> |workbench      = 
-> |shelter        = partial
-> |missions       = 
-> |characters     = 
-> |map=Rail Tunnel Location.png}}
-> '''Rail Tunnel''' is a location to the south in [[Mystery Lake (region)|Mystery Lake]]. 
-> 
-> == Overview ==
-> Rail Tunnel consists of a titular railway tunnel leading to [[Forlorn Muskeg]] and several log wagons. There may be some loot nearby to scavenge inside of containers scattered around the carriages. Some [[Rose Hip]] bushes are near the tunnel and sometimes a [[First Aid Kit]] spawns in the snow near the bushes. Usually a single piece of [[Cedar Firewood]] is on the floor inside the tunnel. 
-> 
-> The inside of the tunnel provides some shelter from the wind. 
-> 
-> == Trivia ==
-> The Rail Tunnel was originally a collapsed tunnel called "Tunnel Collapse" in the 2014 pre alpha version of ''The Long Dark'', before Forlorn Muskeg was introduced.
-> 
-> == Gallery ==
-> <gallery>
-> Tunnel collapse 02.jpg|An alternative view of Rail Tunnel.
-> File:Rail Tunnel Collapse.jpg|The location was known as "Tunnel Collapse" before the Forlorn Muskeg update.
-> </gallery>
-> 
-> {{Mystery Lake}}
-> 
-> [[ru:Железнодорожный тоннель]]
-> [[es:A la ciénaga desolada (desde Lago misterioso)]]
-> [[Category:Locations in Mystery Lake]]
+<div>
+
+<table class="infobox">
+<caption>Rail Tunnel</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Rail_Tunnel.jpg]</span>
+<figcaption>Rail_Tunnel.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Rail_Tunnel_Location.png]</span>
+<figcaption>Rail_Tunnel_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

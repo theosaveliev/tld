@@ -7,42 +7,55 @@ source: "https://thelongdark.fandom.com/wiki/Bear_Creek_Campground"
 
 # Bear Creek Campground
 
-> {{Infobox/Location
-> |title          = 
-> |image          =<gallery>
-> Bear Creek Campground 01.jpg
-> </gallery>
-> |map = Bear Creek Campground map.png
-> |imagecaption   = 
-> |region         = Coastal Highway
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> }}
-> 
-> '''Bear Creek Campground''' is a location to the west in [[Coastal Highway]].
-> 
-> == Overview ==
-> Bear Creek Campground is a campsite by a small creek that runs from the north, down to the ocean at the south.
-> 
-> There is a small cabin on a hill nearby, but otherwise, there is no real shelter at the campground. [[Cat Tail|Cat tails]] and [[Reishi Mushroom]]  can be found in the area, as can a [[Bear]]. A corpse or [[Deer]] carcass may also spawn in the campground.
-> 
-> == Gallery ==
-> <gallery>
-> Bear Creek Campground 02.jpg|An alternative view of Bear Creek Campground.
-> Bear Creek Campground 03.jpg|Another view of the campground.
-> TLD-SS-CH-Bear Creek Campground.jpg
-> </gallery>
-> 
-> {{Coastal Highway}}
-> [[es:Campamento del arroyo del oso]]
-> [[ru:Медвежий ручей]]
-> [[Category:Locations in Coastal Highway]]
+<div>
+
+<table class="infobox">
+<caption>Bear Creek Campground</caption>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><p>[[File:</p>
+<table class="gallery">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><figure>
+<span>[Missing image: Bear_Creek_Campground_01.jpg]</span>
+<figcaption>Bear_Creek_Campground_01.jpg</figcaption>
+</figure></td>
+</tr>
+</tbody>
+</table></td>
+<td><p>250px]]</p></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>Location</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/Bear_Creek_Campground_map.png" loading="lazy" width="250" />
+<figcaption>Bear_Creek_Campground_map.png</figcaption>
+</figure></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Coastal%20Highway.md" class="wikilink" title="Coastal Highway">Coastal Highway</a>|-</p></td>
+<td><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+</div>

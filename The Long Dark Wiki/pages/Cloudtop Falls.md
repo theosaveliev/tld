@@ -7,38 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Cloudtop_Falls"
 
 # Cloudtop Falls
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Hushed river valley cloudtop falls 20201031.png
-> |map            = Cloudtop Falls Location.png
-> |region         = Hushed River Valley
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |firebox        = 
-> |bed            = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> |imagecaption=|type 2=|firebox2=}}'''Cloudtop Falls''' is a waterfall located in [[Hushed River Valley]], it is due west from the [[Mountain Town]] cave entrance.
-> 
-> ==Overview==
-> The pond at the base of the falls can spawn [[rabbit]]s, is full of [[Cat Tail|Cat Tails]], and holds [[Burdock|Burdocks]].
-> 
-> A small camp can be located down river towards [[Stairsteps Lake]]. This camp has a [[Snow Shelter]] and a burnt out campfire. A backpack and a [[Survival Bow]] with [[Simple Arrow|Simple Arrows]] may be found here.
-> 
-> [[ru:Заоблачный водопад]]
-> A [[Deer Carcass]] can potentially be found near the camp, the deer carcass may have a broken arrow laying next to it.
-> 
-> ==Gallery==
-> 
-> <gallery>
-> CloudtopCamp.png|The camp located down river from the falls.
-> </gallery>
-> 
-> {{Hushed River Valley}}
-> [[Category:Locations in Hushed River Valley]]
-> [[Category:Waterfalls]]
+<div>
+
+<table class="infobox">
+<caption>Cloudtop Falls</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/Hushed_river_valley_cloudtop_falls_20201031.png" loading="lazy" width="250" />
+<figcaption>Hushed_river_valley_cloudtop_falls_20201031.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Cloudtop_Falls_Location.png]</span>
+<figcaption>Cloudtop_Falls_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

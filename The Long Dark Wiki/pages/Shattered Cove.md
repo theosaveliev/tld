@@ -7,31 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Shattered_Cove"
 
 # Shattered Cove
 
-> {{Infobox/Location
-> |title          = 
-> |image          = ShatteredCove.png
-> 
-> |imagecaption   = 
-> |region         = Ash Canyon
-> |sublocations   = 
-> |description    = A depression surrounded by steep cliff walls.
-> |type           = landmark
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> |map=Shattered Cove Location.png}}
-> 
-> '''Shattered Cove''' is a low-lying, swampy area not far from the [[Echo Ravine]] connector, surrounded by high plateau on three sides.
-> 
-> It is possible to go from here to [[Angler's Den]] via a narrow canyon rich in natural resources (including three sets of birch saplings). The canyon pathway is relatively sheltered and can offer protection in inclement weather. A shallow cave is also located along the way.  
-> 
-> ==Gallery==
-> <gallery>
-> ShatteredCoveToAnglersDenCanyon.png|The canyon leading from Shattered Cove to [[Angler's Den]]
-> </gallery>
-> 
-> {{Ash Canyon}}
+<div>
+
+<table class="infobox">
+<caption>Shattered Cove</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/ShatteredCove.png" loading="lazy" width="250" />
+<figcaption>ShatteredCove.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Shattered_Cove_Location.png]</span>
+<figcaption>Shattered_Cove_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Ash%20Canyon.md" class="wikilink" title="Ash Canyon">Ash Canyon</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

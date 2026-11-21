@@ -7,36 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Monolith_Lake"
 
 # Monolith Lake
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Monolith Lake from Peak Cave.png
-> |imagecaption   = 
-> |region         = Hushed River Valley
-> |location       = Northeastern corner of the region.
-> |sublocations   = 
-> |description    = A large lake.
-> |type           = outdoors
-> |firebox        = 
-> |bed            = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> |map=Monolith Lake Location.png}}'''Monolith Lake''' is a large lake located to the north-east of the [[Hushed River Valley]] in ''[[The Long Dark]]''.
-> 
-> == Overview ==
-> Many waterfalls can be found near the lake, including [[Watchful Falls]], [[Banner Falls]], and [[Quarrelling Falls]]. [[Lake Cave]] near Watchful Falls is the only natural shelter immediately adjacent to the lake, however there are two caves located not far away: [[Peak Cave]] up the hill to the east, and [[Pensive Vista]] a short walk to the south. A [[Moose]] may spawn on Monolith Lake near Watchful Falls, and there is an area with rabbits nearby. A [[Frozen Corpse]], [[Cat Tail|Cat Tails]], and a [[Hidden Cache]] can spawn around the lake. Southeast of the lake, [[Reishi Mushroom|Reishi Mushrooms]] may be found along a hill. Going even further up leads to a higher elevation useful for mapping, as well as [[Peak Cave]], which may contain some useful loot.
-> 
-> The lake is notable for being the only location in the region with water that's deep enough for [[Ice Fishing]].
-> 
-> == Gallery ==
-> <gallery>
-> Monolith Lake.jpg
-> </gallery>
-> 
-> {{Hushed River Valley}}
-> {{Lake}}
-> 
-> [[ru:Озеро у монолита]]
-> [[Category:Lakes]]
+<div>
+
+<table class="infobox">
+<caption>Monolith Lake</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/Monolith_Lake_from_Peak_Cave.png" loading="lazy" width="250" />
+<figcaption>Monolith_Lake_from_Peak_Cave.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Monolith_Lake_Location.png]</span>
+<figcaption>Monolith_Lake_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>A large lake.</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

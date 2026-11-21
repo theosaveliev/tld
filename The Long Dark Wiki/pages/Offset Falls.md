@@ -7,28 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Offset_Falls"
 
 # Offset Falls
 
-> {{Infobox/Location
-> |title          = Offset Falls
-> |image          =20190302003955_1.jpg
-> |imagecaption   =
-> |region         = Hushed River Valley
-> |location       = Western end of the [[Hushed River]]
-> |sublocations   =
-> |description    = Two waterfalls.
-> |type           = outdoors
-> |firebox        =
-> |bed            =
-> |forge          =
-> |workbench      =
-> |shelter        = no
-> |missions       =
-> |characters     =
-> |map=Offset Falls Location.png}}The '''Offset Falls''' flow down between rocks into the frozen [[Hushed River]]. It's located in the very west of [[Hushed River Valley]].
-> 
-> == Overview ==
-> [[Stone|Stones]] are commonly found on the ice just below the falls, and they will respawn over a few days. A dead [[Deer Carcass]] may spawn nearby, as well as 2 possible [[Hidden Cache]] locations, and several [[Cat Tail|cat tails]]. A possible spawn point is also located under these falls.
-> 
-> {{Hushed River Valley}}
-> 
-> [[ru:Кривой водопад]]
-> [[Category:Waterfalls]]
+<div>
+
+<table class="infobox">
+<caption>Offset Falls</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: 20190302003955_1.jpg]</span>
+<figcaption>20190302003955_1.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Offset_Falls_Location.png]</span>
+<figcaption>Offset_Falls_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>Two waterfalls.</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

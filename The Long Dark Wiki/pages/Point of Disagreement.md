@@ -7,33 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Point_of_Disagreement"
 
 # Point of Disagreement
 
-> {{Infobox/Location
-> |title          = 
-> |image          =point of disagreement.jpg
-> |imagecaption   = 
-> |region         = Pleasant Valley 
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |firebox        = 
-> |bed            =
-> |forge          = 
-> |workbench      = 
-> |shelter        = partial
-> |missions       = 
-> |characters     = 
-> |map=Point of Disagreement Location.png}}
-> '''Point of Disagreement''' is a location/landmark in [[Pleasant Valley]].
-> 
-> == Overview ==
-> The location is east of [[Crash Site (Pleasant Valley)]] and south of [[Prepper's Abandoned Cache]].
-> 
-> The area is composed of 3 vehicles, a possibility of finding small food and clothing items, and giving a chance to warm up. A possible spawn for a [[Frozen Corpse]] is nearby.
-> 
-> == Trivia ==
-> A fan theory has been created, suggesting that the bodies near the cars might belong to the friends mentioned in the [[Climber's Journal Page]].
-> 
-> {{Pleasant Valley}}
-> [[ru:Точка разногласия]]
-> [[Category:Locations in Pleasant Valley]]
+<div>
+
+<table class="infobox">
+<caption>Point of Disagreement</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: point_of_disagreement.jpg]</span>
+<figcaption>point_of_disagreement.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Point_of_Disagreement_Location.png]</span>
+<figcaption>Point_of_Disagreement_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

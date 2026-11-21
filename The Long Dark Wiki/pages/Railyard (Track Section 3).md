@@ -7,7 +7,72 @@ source: "https://thelongdark.fandom.com/wiki/Railyard_(Track_Section_3)"
 
 # Railyard \(Track Section 3\)
 
-> {{IronRoad}}{{Infobox/Location|title=Railyard|image=|imagecaption=|region=Anna Island -- Track Section 3|location=Western and middle section of the map|sublocations=|description=A railyard|type=|bed=|firebox=|forge=|workbench=|shelter=no|missions=|characters=|map=Railyard Track 3 Location.png}}'''Railyard''' is a set of 2 locations in [[Anna Island -- Track Section 3]].
-> 
-> == Overview ==
-> {{Stub}}{{Anna Island -- Track Section 3}}
+<div>
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="40px"><figure>
+<img src="../assets/Seal_icon.png" loading="lazy" width="30" />
+<figcaption>Seal_icon.png</figcaption>
+</figure></td>
+<td><p><strong>DLC-Exclusive content.</strong><br />
+</p>
+<div style="font-size:0.85em; line-height:1.5em;">
+<p>This content requires the <a href="./Iron%20Road.md" class="wikilink" title="Iron Road">Iron Road</a> addon to be installed before it can be seen or used in regular gameplay.</p>
+</div></td>
+<td><p>|}</p>
+<table class="infobox">
+<caption>Railyard</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/No_picture.png" loading="lazy" width="250" />
+<figcaption>No_picture.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/Railyard_Track_3_Location.png" loading="lazy" width="250" />
+<figcaption>Railyard_Track_3_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Anna%20Island%20--%20Track%20Section%203.md" class="wikilink" title="Anna Island -- Track Section 3">Anna Island -- Track Section 3</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>A railyard</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Has no shelter|} <strong>Railyard</strong> is a set of 2 locations in <a href="./Anna%20Island%20--%20Track%20Section%203.md" class="wikilink" title="Anna Island -- Track Section 3">Anna Island -- Track Section 3</a>.</p>
+<h2 id="Overview">Overview</h2>
+<div class="noticetemplate">
+<p><strong>Stub:</strong><span class="small"><em>This article is a stub. You can help by [//dummy.host/index.php?title=Railyard+%28Track+Section+3%29&amp;action=edit expanding it].</em></span></p>
+</div>
+<p><strong>Lua execution error in Module:Navbox function navbox</strong></p></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+</div>

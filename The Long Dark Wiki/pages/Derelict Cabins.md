@@ -7,31 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Derelict_Cabins"
 
 # Derelict Cabins
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Derelict Cabins.jpg
-> |imagecaption   = 
-> |region         = Pleasant Valley
-> |location       = On the path between [[End of the Road]] and [[Point of Disagreement]]
-> |sublocations   = 
-> |description    = Several burnt-out cabins
-> |type           = outdoors
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> |map=Derelict Cabins Location.png}}
-> '''Derelict Cabins''' are a pair of ruined buildings in [[Pleasant Valley]].
-> 
-> == Overview ==
-> Derelict Cabins are located west of [[End of the Road]] and north - across the river - of [[Lonely Homestead]]. 
-> 
-> A [[Frozen Corpse]] may be found lying in the snow. Inside the main ruined building is a [[Wood Stove]], a [[First Aid Kit]] containing [[Antibiotics]] and [[Antiseptic]], and [[Reclaimed Wood]]. Wolves often patrol the area, and will enter the ruined building to attack you.  
-> 
-> {{Pleasant Valley}}
-> [[ru:Заброшенные лачуги]]
-> [[es:Cabañas abandonadas]]
-> [[Category:Locations in Pleasant Valley]]
+<div>
+
+<table class="infobox">
+<caption>Derelict Cabins</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Derelict_Cabins.jpg]</span>
+<figcaption>Derelict_Cabins.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Derelict_Cabins_Location.png]</span>
+<figcaption>Derelict_Cabins_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>Several burnt-out cabins</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

@@ -7,32 +7,64 @@ source: "https://thelongdark.fandom.com/wiki/Cook's_Farm"
 
 # Cook's Farm
 
-> {{Infobox/Location
-> |title          = 
-> |image          = Cook's Farm.png
-> |imagecaption   = 
-> |region         = Blackrock
-> |location       = Between the ravine and [[Foreman's Clearcut]].
-> |sublocations   = 
-> |description    = An old barn, partially open to the elements, surrounded by a bunch of hay bales and a tractor.
-> |type           = 
-> |bed            = yes
-> |firebox        = fire barrel
-> |forge          = 
-> |workbench      = yes
-> |shelter        = partial
-> |missions       = 
-> |characters     = 
-> |map=Cook's Farm Location.png}}
-> 
-> '''{{PAGENAME}}''' is the easternmost of two farms in [[Blackrock]], and is found not far from [[Cutty's Cave]] and [[Foreman's Clearcut]].
-> 
-> ==Overview==
-> The location features a small, abandoned hay barn, similar to the one at [[Paradise Meadows Farm|Paradise Meadows]] but smaller. Its two most useful features are a hay bed and a workbench, although due to the lack of having an interior, it may be necessary to light a fire in the nearby [[Fire Barrel]] when sleeping here during cold weather. Overall, sleeping or crafting in the trailer at [[Foreman's Clearcut]] is usually a better idea, unless trying to fight [[Cabin Fever]].
-> 
-> A [[Hunting Rifle]] can be found here in Episode 4, leaning against the wall.
-> 
-> {{Blackrock}}
-> 
-> [[ru:Ферма повара]]
-> [[Category:Locations in Blackrock]]
+<div>
+
+<table class="infobox">
+<caption>Cook's Farm</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/Cook%27s_Farm.png" loading="lazy" width="250" />
+<figcaption>Cook's_Farm.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Cook's_Farm_Location.png]</span>
+<figcaption>Cook's_Farm_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Location</p></td>
+<td><p>Between the ravine and <a href="./Foreman%27s%20Clearcut.md" class="wikilink" title="Foreman&#39;s Clearcut">Foreman's Clearcut</a>.</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>An old barn, partially open to the elements, surrounded by a bunch of hay bales and a tractor.</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Firebox</p></td>
+<td><p><a href="./Fire%20Barrel.md" class="wikilink" title="Fire Barrel">Fire Barrel</a></p></td>
+</tr>
+<tr>
+<td><figure>
+<img src="../assets/Bed_icon.png" loading="lazy" width="30" />
+<figcaption>bed_icon.png</figcaption>
+</figure></td>
+<td><p>Has a bed</p></td>
+</tr>
+<tr>
+<td><figure>
+<img src="../assets/Workbench_icon_green.png" loading="lazy" width="30" />
+<figcaption>workbench_icon_green.png</figcaption>
+</figure></td>
+<td><p>Has a workbench|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

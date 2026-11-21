@@ -7,20 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Frozen_Delta"
 
 # Frozen Delta
 
-> {{Infobox/Location|image = SS-BI-FrozenDelta003.jpg|region = Bleak Inlet|type = outdoors |map=Frozen Delta Location.png}}
-> 
-> '''Frozen Delta''' is an outdoor location in [[Bleak Inlet]].
-> 
-> == Overview ==
-> A [[Hunter's Blinds|hunting blind]] is located a short distance north, which can allow the player to safely hunt the packs of [[Timberwolf|timberwolves]] which frequent the area. Weak ice is a constant threat when exploring the delta, so caution is advised.
-> 
-> There are three separate [[Moose]] Spawn within the Frozen Delta and it is highly likely that at least one of these Moose will be spawned at any one time (unless already killed), furthermore it is possible to kill all three Moose within the period of just a few days as these Moose spawns seem to be much higher frequency than is conventional.
-> <gallery>
-> SS-BI-FrozenDelta003.jpg|Frozen delta - cave to Forlorn Muskeg
-> SS-BI-FrozenDelta004.jpg|Frozen delta - hunter's blind
-> SS-BI-FrozenDelta02.jpg
-> SS-BI-FrozenDelta01.jpg
-> </gallery>
-> 
-> {{Bleak Inlet}}
-> [[es:Delta congelado]]
+<div>
+
+<table class="infobox">
+<caption>Frozen Delta</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: SS-BI-FrozenDelta003.jpg]</span>
+<figcaption>SS-BI-FrozenDelta003.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Frozen_Delta_Location.png]</span>
+<figcaption>Frozen_Delta_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Bleak%20Inlet.md" class="wikilink" title="Bleak Inlet">Bleak Inlet</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

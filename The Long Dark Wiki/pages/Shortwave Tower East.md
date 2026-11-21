@@ -7,24 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Shortwave_Tower_East"
 
 # Shortwave Tower East
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Shortwave Tower East.jpg
-> |imagecaption   = 
-> |region         = Forlorn Muskeg
-> |location       = At [[Muskeg Overlook]]
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |type 2         = sporting
-> |firebox        = 
-> |bed            =
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |map=Shortwave Tower East Location.png}}{{Unofficial}}{{Spoiler}}There are two other Shortwave Towers in [[Forlorn Muskeg]] ([[Shortwave_Tower|North]] and [[Shortwave Tower West|West]]).
-> ==Surroundings==
-> A [[Transmitters|Transmitter]] is found nearby, along with a [[Supply Bin]] with a [[Car Battery]] inside. A [[Polaroids|Polaroid]] Vista location can be found here.
-> ==Story==
-> In Episode 2 this is one of the radio towers that has to be reached to gather radio components in the mission [[Signal to Noise]].
-> {{Forlorn Muskeg}}
+<div>
+
+<table class="infobox">
+<caption>Shortwave Tower East</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Shortwave_Tower_East.jpg]</span>
+<figcaption>Shortwave_Tower_East.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Shortwave_Tower_East_Location.png]</span>
+<figcaption>Shortwave_Tower_East_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>OutdoorsMilitary/Sporting|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

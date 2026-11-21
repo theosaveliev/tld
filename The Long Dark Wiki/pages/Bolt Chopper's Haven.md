@@ -7,16 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Bolt_Chopper's_Haven"
 
 # Bolt Chopper's Haven
 
-> {{Infobox/Location|region=Sundered Pass|description=A cave in the mountain|type=cave|shelter=partial|location=A cave located down the slope across the tree bridge from Reluctant Shortcut|image=Bolt Choppers Haven.jpg|map=Bolt Chopper's Haven Location.png}}'''Bolt Chopper's Haven''' is a small unmarked cave located in [[Sundered Pass]]. It is located west of [[Final Refuge]] on the rock plateau, or north of the Red Broken Bridge leading to the [[Weather Station]]. Heading north across the nearby tree bridge leads to [[Reluctant Shortcut]] and the [[Abandoned Mine]].
-> 
-> ==Overview==
-> The cave doesn't have a bed, but may spawn a frozen corpse alongside a campfire with minor food items scattered about.
-> 
-> The cave is a source of [[Coal]].<gallery>
-> File:Prayerful Window.jpg|The slope that leads to the cave as seen from [[Prayerful Window]] (the slope is in the middle mountain)
-> </gallery>
-> 
-> ==Trivia==
-> 
-> * A Bolt-Chopper is a climber term referring to someone who deliberately removes the bolts from rock faces on rock climbing routes; this is either done to preserve traditional climbing routes which specifically do not employ the use of pre-placed bolts to climb, or it may even be done in ecological protest to preserve the natural beauty of rock faces, though this practice is largely frowned upon due to the inherent dangers of scaling non-bolted rock faces for the average sport climber.
-> {{Sundered Pass}}
+<div>
+
+<table class="infobox">
+<caption>Bolt Chopper's Haven</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Bolt_Choppers_Haven.jpg]</span>
+<figcaption>Bolt_Choppers_Haven.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Bolt_Chopper's_Haven_Location.png]</span>
+<figcaption>Bolt_Chopper's_Haven_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Sundered%20Pass.md" class="wikilink" title="Sundered Pass">Sundered Pass</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>A cave in the mountain</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Cave|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

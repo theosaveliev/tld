@@ -7,15 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Coastal_Highway_Terminus"
 
 # Coastal Highway Terminus
 
-> {{Infobox/Location|image = 
-> SS-BI-Terminus01.jpg 
-> |description = a broken highway truss bridge |region = Bleak Inlet|type = outdoors |map=Coastal Highway Terminus Location.png}}
-> 
-> '''{{PAGENAME}}''' is one of the many outdoor locations in [[Bleak Inlet]], located near the westernmost edge.
-> 
-> == Overview ==
-> There is not much loot available around the bridge, and it offers no shelter. A [[Truck]] is down the road that can contain a [[Research Book]], and later down the road are the [[Trailers west of the Cannery]]. [[Frozen Delta]] is found by following the river to the north east.
-> 
-> While the bridge can't be used to cross the river, it is possible to get to the other side of the bridge by crossing the ice near the hunting blind (located a short distance north) and carefully scrambling over the rocks.
-> 
-> {{Bleak Inlet}}
+<div>
+
+<table class="infobox">
+<caption>Coastal Highway Terminus</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: SS-BI-Terminus01.jpg]</span>
+<figcaption>SS-BI-Terminus01.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Coastal_Highway_Terminus_Location.png]</span>
+<figcaption>Coastal_Highway_Terminus_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Bleak%20Inlet.md" class="wikilink" title="Bleak Inlet">Bleak Inlet</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

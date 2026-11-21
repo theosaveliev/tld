@@ -7,27 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Grand_Meadow"
 
 # Grand Meadow
 
-> {{Infobox/Location
-> |title          = 
-> |image          = Grand Meadow.jpg
-> |imagecaption   = 
-> |region         = Blackrock
-> |location       = Between Power Plant and Forager's Remnant
-> |sublocations   = 
-> |description    = 
-> |type           = landmark
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> |map=Grand Meadow Location.png}}
-> '''{{PAGENAME}}''' is a small plain close to the [[Power Plant]]. It is located next to the road towards [[Narrow Bridge]], by the turn-off for [[Forager's Remnant]]. The road is blocked by a landslide at [[Bear's Bend]] further south.
-> 
-> Packs of [[timberwolves]] often roam this area. An abandoned car provides some refuge.
-> 
-> {{Blackrock}}
-> [[Category:Locations in Blackrock]]
-> [[ru:Большой луг]]
+<div>
+
+<table class="infobox">
+<caption>Grand Meadow</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Grand_Meadow.jpg]</span>
+<figcaption>Grand_Meadow.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Grand_Meadow_Location.png]</span>
+<figcaption>Grand_Meadow_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Location</p></td>
+<td><p>Between Power Plant and Forager's Remnant</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

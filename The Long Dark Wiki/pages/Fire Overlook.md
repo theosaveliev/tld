@@ -7,45 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Fire_Overlook"
 
 # Fire Overlook
 
-> {{Infobox/Location
-> |title          = Fire Overlook
-> |image          = 20201210005637 1.jpg
-> |imagecaption   = 
-> |region         = Ash Canyon
-> |sublocations   = 
-> |description    = An overlook over a canyon
-> |type           = landmark
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> |map=Fire Overlook Location.png}}
-> 
-> '''Fire Overlook''' is a landmark just to the northwest of [[Homesteader's Respite]]. 
-> 
-> ==Overview==
-> A climbing rope leads down here to travel to Homesteader's Respite. On a clear day (which is rare in Ash Canyon), the lookoff provides a view of much of the southeastern part of the region, all the way from [[Bitter Marsh]] to [[Shattered Cove]].
-> 
-> == Resources Available ==
-> 
-> * 0-64 [[Stick|Sticks]]
-> * 0-1 [[Branch|Branches]]
-> * 0-5 [[Cedar Limb|Cedar Limbs]]
-> * 0-3 [[Green Birch Sapling|Birch Saplings]]
-> * 0-1 [[Green Maple Sapling|Maple Saplings]]
-> * 0-2 [[Deer|Deer Carcasses]]
-> * 0-3 [[Rabbit|Rabbits]]
-> 
-> ==Gallery==
-> <gallery>
-> File:Fire Overlook at the Edge Inward.jpg
-> File:Ledge of Rope on Fire Overlook.jpg
-> </gallery><gallery>
-> 
-> </gallery>
-> 
-> {{Ash Canyon}}
-> [[ru:Вид на пламя]]
+<div>
+
+<table class="infobox">
+<caption>Fire Overlook</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: 20201210005637_1.jpg]</span>
+<figcaption>20201210005637_1.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Fire_Overlook_Location.png]</span>
+<figcaption>Fire_Overlook_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Ash%20Canyon.md" class="wikilink" title="Ash Canyon">Ash Canyon</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

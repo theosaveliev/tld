@@ -7,30 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Locomotive_Engine"
 
 # Locomotive Engine
 
-> {{Infobox/Location
-> |title          = 
-> |image          =locomotive engine.jpg
-> |region         = Broken Railroad
-> |location       = Between [[Landslide]] and [[Maintenance Yard]]
-> |sublocations   = 
-> |description    = A derailed train
-> |type           = landmark
-> |firebox        = 
-> |bed            =
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |map=Locomotive Engine Location.png}}
-> '''Locomotive Engine''' is a location in [[Broken Railroad]] that can be found between [[Landslide]] and [[Maintenance Yard]]. It has no shelter and the locomotive is currently useless. However, the stairs at the back of the locomotive can be used as a somewhat safe zone if a [[Wolf]] is charging.
-> 
-> ==Trivia==
-> *The locomotive engine is modeled after a combination of the EMD SW1200 and ALCo S-2.
-> **The general shape more closely resembles the EMD, but the hood shape is reminiscent of an ALCo.
-> *It is unusual to use switcher type engines in road freight service (such as on the mainline of Great Bear). More usually, road switcher locos, such as a GP9 or GP38, would be used on a shortline such as the [[Trans-Island Railway Line]].
-> 
-> ==Gallery==
-> <gallery>
-> Trans-Island Line Engine.jpg
-> File:Locomotive Engine Logo.jpg|v2.33
-> </gallery>
-> {{Broken Railroad}}
+<div>
+
+<table class="infobox">
+<caption>Locomotive Engine</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: locomotive_engine.jpg]</span>
+<figcaption>locomotive_engine.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Locomotive_Engine_Location.png]</span>
+<figcaption>Locomotive_Engine_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Broken%20Railroad.md" class="wikilink" title="Broken Railroad">Broken Railroad</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>A derailed train</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

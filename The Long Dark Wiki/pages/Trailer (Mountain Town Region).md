@@ -7,33 +7,80 @@ source: "https://thelongdark.fandom.com/wiki/Trailer_(Mountain_Town_Region)"
 
 # Trailer \(Mountain Town Region\)
 
-> {{Infobox/Location
-> |title = Trailer
-> |image = <gallery>
-> Mobile Home 1.png|Exterior
-> It's really a trailer.jpg|Interior
-> </gallery>
-> |region = Mountain Town
-> |location = between St. Christopher's Church and Spruce Falls Bridge
-> |firebox = fire barrel
-> |bed = yes
-> |workbench = yes
-> |shelter = yes
-> |map=Trailer MT Location.png}}
-> The '''Trailer''' is a work trailer to the north of the [[Mountain Town]] region, north of [[St. Christopher's Church]]. 
-> 
-> ==Overview==
-> 
-> It is a safe place to hunt the [[Moose]] nearby and the [[Bear]] of [[Spruce Falls Bridge]]. There is a lot of wood to make fire in front of the building, and a [[Deer]] may also venture near the mobile home, and [[Ptarmigan]] nest in the field nearby. The area is also free of [[wolf|Wolves]], making it a decent option for a base camp. Inside, there's also a [[Work Bench]], and out back, there's a [[Fire Barrel]].
-> 
-> It is the last human-made structure before entering [[Hushed River Valley]], as well as the closest workbench to said region.
-> 
-> ==Gallery==
-> <gallery>
-> File:Mobile_Home_3.png
-> File:Mobile_Home_2.png
-> File:Workbench_in_Milton_Mobile_Home.jpg|Vigilant flame new workbench in Trailer. Nearby Hushed River Valley.
-> File:TLD Milton Trailer.png|Trailer position on Mountain Town map
-> </gallery>{{Mountain Town}}
-> [[Category:Locations in Mountain Town]]
-> [[ru:Прицеп (Милтон)]]
+<div>
+
+<table class="infobox">
+<caption>Trailer</caption>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><p>[[File:</p>
+<table class="gallery">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<th><figure>
+<span>[Missing image: Mobile_Home_1.png]</span>
+<figcaption>Exterior</figcaption>
+</figure></th>
+<td><figure>
+<span>[Missing image: It's_really_a_trailer.jpg]</span>
+<figcaption>Interior</figcaption>
+</figure></td>
+</tr>
+</tbody>
+</table></td>
+<td><p>250px]]</p></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>Location</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Trailer_MT_Location.png]</span>
+<figcaption>Trailer_MT_Location.png</figcaption>
+</figure></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a>|-</p></td>
+<td><p>Location</p></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>General</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Firebox</p></td>
+<td><p><a href="./Fire%20Barrel.md" class="wikilink" title="Fire Barrel">Fire Barrel</a></p></td>
+<td></td>
+</tr>
+<tr>
+<td><figure>
+<img src="../assets/Bed_icon.png" loading="lazy" width="30" />
+<figcaption>bed_icon.png</figcaption>
+</figure></td>
+<td><p>Has a bed</p></td>
+<td></td>
+</tr>
+<tr>
+<td><figure>
+<img src="../assets/Workbench_icon_green.png" loading="lazy" width="30" />
+<figcaption>workbench_icon_green.png</figcaption>
+</figure></td>
+<td><p>Has a workbench|-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+</div>

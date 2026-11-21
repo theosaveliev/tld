@@ -7,29 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Blocked_Highway"
 
 # Blocked Highway
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Blocked_Highway.jpg
-> |imagecaption   = 
-> |region         = Desolation Point
-> |location       = At one end of the highway that passes through the region
-> |sublocations   = 
-> |description    = 
-> |type           = landmark
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> |map=Blocked Highway Location.png}}
-> '''Blocked Highway''' is a location in [[Desolation Point]]. 
-> 
-> == Overview ==
-> Blocked Highway is located between [[Abandoned Mine No. 3]] to the east, and [[Katie's Secluded Corner]] in the nearby mountain. It serves as a landmark, and can be [[Mountain Goating|Mountain Goated]] via the nearby Abandoned Mine to save time. A [[Rope Climbing]] section can be deployed to save time when leaving the region via the mine 
-> 
-> {{Desolation Point}}
-> 
-> [[ru:Закрытое шоссе]]
-> [[Category:Locations in Desolation Point]]
+<div>
+
+<table class="infobox">
+<caption>Blocked Highway</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Blocked_Highway.jpg]</span>
+<figcaption>Blocked_Highway.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Blocked_Highway_Location.png]</span>
+<figcaption>Blocked_Highway_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Desolation%20Point.md" class="wikilink" title="Desolation Point">Desolation Point</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

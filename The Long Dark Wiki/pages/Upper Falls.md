@@ -7,26 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Upper_Falls"
 
 # Upper Falls
 
-> {{Infobox/Location
-> |title          = 
-> |image          =2021-05-23 23-00-55.jpg
-> |imagecaption   = 
-> |region         = Pleasant Valley
-> |location       = Near [[Thomson's Crossing]]
-> |sublocations   = 
-> |description    = 
-> |type           = landmark
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> |map=Upper Falls Location.png}}
-> '''Upper Falls''' is one of several flowing waterfall in [[Pleasant Valley]]. 
-> == Overview ==
-> Upper Falls is located on the southeastern side of the region near [[Thomson's Crossing]], which requires crossing the bridge and walking up the hill and behind the local mountain. [[Cat Tail]] plants, [[Green Birch Sapling]], [[Reishi Mushroom]] and Rabbits can be found in the area.
-> There is also a [[Warm Cave]] close by with some supplies. A [[Frozen Corpse]] may spawn there sometimes.{{Pleasant Valley}}
-> [[Category:Locations in Pleasant Valley]]
-> [[Category:Waterfalls]]
+<div>
+
+<table class="infobox">
+<caption>Upper Falls</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: 2021-05-23_23-00-55.jpg]</span>
+<figcaption>2021-05-23_23-00-55.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Upper_Falls_Location.png]</span>
+<figcaption>Upper_Falls_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

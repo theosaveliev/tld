@@ -7,32 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Waterfall"
 
 # Waterfall
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Waterfall.jpg
-> |imagecaption   = 
-> |region         = Desolation Point
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = landmark
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> |map=Waterfall Location.png}}''Not to be confused with [[Waterfall (Forlorn Muskeg)]]''
-> 
-> '''Waterfall''' is one of two waterfalls in [[Desolation Point]], and the only named location of the two.
-> 
-> == Overview ==
-> The Waterfall is located on the northern most side of the region, near [[Cave (Desolation Point location)]] and [[Broken_Bridge_(Desolation_Point_location)|Broken Bridge]].
-> 
-> [[Rose Hip|Rose Hips]] can be found in the area.
-> 
-> {{Desolation Point}}
-> [[Category:Article stubs]]
-> [[Category:Locations in Desolation Point]]
-> [[Category:Waterfalls]]
+<div>
+
+<table class="infobox">
+<caption>Waterfall</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Waterfall.jpg]</span>
+<figcaption>Waterfall.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Waterfall_Location.png]</span>
+<figcaption>Waterfall_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Desolation%20Point.md" class="wikilink" title="Desolation Point">Desolation Point</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

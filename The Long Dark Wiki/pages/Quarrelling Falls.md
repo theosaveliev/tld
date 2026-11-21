@@ -7,24 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Quarrelling_Falls"
 
 # Quarrelling Falls
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Quarreling Falls.jpg
-> |map            =Quarrelling Falls Location.png 
-> |region         = Hushed River Valley
-> |location       = Halfway between [[Monolith Lake]] and [[Mammoth Falls]].
-> |sublocations   = 
-> |description    = Two high waterfalls.
-> |type           = outdoors
-> |firebox        = 
-> |bed            = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> }}'''Quarrelling Falls''' are a couple of waterfalls located halfway between [[Monolith Lake]] and [[Mammoth Falls]] in the [[Hushed River Valley]]. There's no shelter to be found anywhere nearby, but [[Deer]], [[Rabbit|Rabbits]], and [[Old Man's Beard Lichen]] can commonly be found in the local area.
-> 
-> 
-> {{Hushed River Valley}}
-> [[Category:Waterfalls]]
+<div>
+
+<table class="infobox">
+<caption>Quarrelling Falls</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Quarreling_Falls.jpg]</span>
+<figcaption>Quarreling_Falls.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Quarrelling_Falls_Location.png]</span>
+<figcaption>Quarrelling_Falls_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>Two high waterfalls.</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

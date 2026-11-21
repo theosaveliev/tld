@@ -7,30 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Lower_Falls"
 
 # Lower Falls
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Lower Falls.jpg
-> |imagecaption   = 
-> |region         = Pleasant Valley
-> |location       = Near [[Pensive Pond]]
-> |sublocations   = 
-> |description    = 
-> |type           = landmark
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> |map=Lower Falls Location.png}}
-> '''Lower Falls''' is one of several flowing waterfalls in [[Pleasant Valley]]. 
-> 
-> == Overview ==
-> Lower Falls serves no more than a landmark located on the eastern side of the region near [[Pensive Pond]] and is south of [[Heartbreak Bridge]]. A Bear cave can be found to the west near the cliff face, along with a [[Rope Climbing]]<nowiki/>section that leads to [[Signal Hill]]. A few [[Cat Tail]] plants and some Deer may be found nearby. 
-> 
-> {{Pleasant Valley}}
-> 
-> [[ru:Нижние водопады]]
-> [[Category:Locations in Pleasant Valley]]
-> [[Category:Waterfalls]]
+<div>
+
+<table class="infobox">
+<caption>Lower Falls</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Lower_Falls.jpg]</span>
+<figcaption>Lower_Falls.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Lower_Falls_Location.png]</span>
+<figcaption>Lower_Falls_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

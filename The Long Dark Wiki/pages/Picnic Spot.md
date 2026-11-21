@@ -7,28 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Picnic_Spot"
 
 # Picnic Spot
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Picnic Spot.jpg
-> |imagecaption   = 
-> |region         = Pleasant Valley
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> |map=Picnic Spot Location.png}}
-> The '''Picnic Spot''' is a location in [[Pleasant Valley]].
-> 
-> == Overview ==
-> The area lies just south of [[Pensive Pond]], with [[Cascading Falls]] to the south west. 
-> 
-> It consists of a few wooden benches, which can be harvested for [[Reclaimed Wood]] and a possible [[Frozen Corpse|frozen corpse]]. Sometimes, various foodstuffs may be found sitting on the picnic table. [[Rabbit]]s may be found in the area. Little else is notable about the location. Survivors who wish to have a picnic here will want to be careful, as otherwise a nearby [[Cougar]] may turn them into ''its'' picnic.
-> {{Pleasant Valley}}
-> [[Category:Locations in Pleasant Valley]]
+<div>
+
+<table class="infobox">
+<caption>Picnic Spot</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Picnic_Spot.jpg]</span>
+<figcaption>Picnic_Spot.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Picnic_Spot_Location.png]</span>
+<figcaption>Picnic_Spot_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

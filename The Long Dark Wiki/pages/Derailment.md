@@ -7,31 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Derailment"
 
 # Derailment
 
-> {{Infobox/Location
-> |image = Derailment 2.jpg
-> |region = Mystery Lake
-> |location = South of [[Logging Camp]], and north of [[Camp Office]].
-> |description = A small train wreck
-> |type = landmark
-> |shelter= partial
-> |map=Derailment Location.png}}
-> 
-> '''Derailment''' is a small train wreck in [[Mystery Lake (region)|Mystery Lake]], south of [[Logging Camp]], and north of [[Camp Office]].
-> 
-> == Overview ==
-> The Derailment consists of a small train wreck near the center of the [[Mystery Lake (region)|Mystery Lake]] region. Two [[Wolf|wolves]] may be encountered nearby. Inside of the train car, there is a chance of finding a corpse, a metal container, a backpack, and, in rare instances, a [[Hunting Rifle]] or an [[Heavy Hammer]].
-> 
-> Beside the wreck, a [[Deer Carcass]] can be found, along with a [[First Aid Kit]], and some [[Flare|flares]].
-> 
-> To enter the car with the open door, you must walk up the fallen tree. You cannot enter the train car that is on its side.
-> 
-> ==Gallery==
-> <gallery>
-> Derailment.jpg
-> </gallery>
-> 
-> {{Mystery Lake}}
-> 
-> 
-> [[ru:Вагоны, сошедшие с рельсов]]
-> [[Category:Locations in Mystery Lake]]
+<div>
+
+<table class="infobox">
+<caption>Derailment</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Derailment_2.jpg]</span>
+<figcaption>Derailment_2.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Derailment_Location.png]</span>
+<figcaption>Derailment_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>A small train wreck</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

@@ -7,26 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Distempered_Flatcars"
 
 # Distempered Flatcars
 
-> {{Infobox/Location
-> |title          = 
-> |image          = Distempered Flatcars .jpg
-> |map =Distempered Flatcars Location.png 
-> |imagecaption   = 
-> |region         = Transfer Pass
-> |location       = South of the abandoned train station
-> |sublocations   = 
-> |description    = several derailed flatcars loaded with logs.
-> |type           = landmark
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> }}
-> 
-> The '''Distempered Flatcars''' are a group of derailed flatcars near the southern end of [[Transfer Pass]]. They offer no useful resources, (save for a few nearby stones) and are merely a landmark in the region. A hill leads to the nearby [[Feedwater Cave]].
-> 
-> {{Transfer Pass}}
-> [[ru:Брошенные вагоны]]
+<div>
+
+<table class="infobox">
+<caption>Distempered Flatcars</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Distempered_Flatcars_.jpg]</span>
+<figcaption>Distempered_Flatcars_.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Distempered_Flatcars_Location.png]</span>
+<figcaption>Distempered_Flatcars_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Transfer%20Pass.md" class="wikilink" title="Transfer Pass">Transfer Pass</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>several derailed flatcars loaded with logs.</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

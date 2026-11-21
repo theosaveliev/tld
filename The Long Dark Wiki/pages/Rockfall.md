@@ -7,32 +7,59 @@ source: "https://thelongdark.fandom.com/wiki/Rockfall"
 
 # Rockfall
 
-> {{Infobox/Location
-> |title          = 
-> |image          =<gallery>
-> Rockfall.jpg
-> </gallery>
-> |map = Rockfall map.png
-> |imagecaption   = 
-> |region         = Coastal Highway
-> |location       = 
-> |sublocations   = 
-> |description    = The westernmost end of [[Great Bear Highway]]
-> |type           = landmark
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> }}'''Rockfall''' is a location in [[Coastal Highway]].
-> 
-> == Overview ==
-> The Rockfall is located to the far southwest end of the region.
-> 
-> [[Green Birch Sapling]]s can be found nearby. The Rockfall cannot be passed through. 
-> 
-> {{Coastal Highway}}
-> [[Category:Locations in Coastal Highway]]
-> [[es:Desprendimiento]]
+<div>
+
+<table class="infobox">
+<caption>Rockfall</caption>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><p>[[File:</p>
+<table class="gallery">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><figure>
+<span>[Missing image: Rockfall.jpg]</span>
+<figcaption>Rockfall.jpg</figcaption>
+</figure></td>
+</tr>
+</tbody>
+</table></td>
+<td><p>250px]]</p></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>Location</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/Rockfall_map.png" loading="lazy" width="250" />
+<figcaption>Rockfall_map.png</figcaption>
+</figure></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Coastal%20Highway.md" class="wikilink" title="Coastal Highway">Coastal Highway</a>|-</p></td>
+<td><p>Description</p></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>General</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+</div>

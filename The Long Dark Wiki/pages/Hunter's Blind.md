@@ -7,37 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Hunter's_Blind"
 
 # Hunter's Blind
 
-> {{Infobox/Location
-> |title          = 
-> |image          = Hunters blind2.jpg
-> |imagecaption   = 
-> |mapfile        = Broken Railroad Map small.jpg
-> |mapx           = 98
-> |mapy           = 94
-> |mappin         = 
-> |mapcaption     = 
-> |region         = Broken Railroad
-> |location       = North of a small lake, north of the [[Maintenance Yard]]
-> |description    = A [[Hunter's Blinds|Hunters Blind]] overlooking a lake
-> |sublocations   = 
-> |type           = outdoors
-> |firebox        = 
-> |bed            =
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> |map=Hunter's Blind Location.png}}
-> '''Hunter's Blind''' is a [[Hunter's_Blinds|blind]] in [[Broken Railroad]]. It's located roughly halfway between the [[Maintenance Yard]] and [[Hunting Lodge]].
-> ==Overview==
-> The blind is found on the north side of a small lake. There may be a [[Frozen Corpse]] inside the blind. A [[Firestriker]] may spawn inside (even on [[Interloper]] difficulty). It can provide some safety when hunting the [[Bear]] and [[wolf|wolves]] that wander around nearby, but caution is advised, for the predators can climb the stairs into the blind on occasion. A [[Warm Cave]] is found just behind the Blind, and can be a great place for shelter if the weather turns bad.
-> 
-> The lake near the blind is considered deep water, so it is suitable for [[Ice Fishing]] with Free Form holes.
-> 
-> <gallery>
-> corpse in blind.jpg|A corpse in the blind
-> </gallery>
-> 
-> {{Broken Railroad}}
-> [[Category:Locations in Broken Railroad]]
+<div>
+
+<table class="infobox">
+<caption>Hunter's Blind</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Hunters_blind2.jpg]</span>
+<figcaption>Hunters_blind2.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Hunter's_Blind_Location.png]</span>
+<figcaption>Hunter's_Blind_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Broken%20Railroad.md" class="wikilink" title="Broken Railroad">Broken Railroad</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>A <a href="./Hunter%27s%20Blinds.md" class="wikilink" title="Hunters Blind">Hunters Blind</a> overlooking a lake</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

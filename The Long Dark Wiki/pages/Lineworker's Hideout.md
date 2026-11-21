@@ -7,35 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Lineworker's_Hideout"
 
 # Lineworker's Hideout
 
-> {{Infobox/Location
-> |title          = 
-> |image          = Lineworker's Hideout.jpg
-> |imagecaption   = 
-> |region         = Blackrock
-> |location       = Between the Old Substation and Narrow Bridge
-> |sublocations   = 
-> |description    = 
-> |type           = cave
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = partial
-> |missions       = 
-> |characters     = 
-> |map=Lineworker's Hideout Location.png}}
-> 
-> '''{{PAGENAME}}''' is a small cave located in [[Blackrock]], just across the road from [[Old Substation]] on the east side of [[Narrow Bridge]].
-> 
-> With the wildlife refresh of 2.23, the cave can now be home to a [[bear]].
-> 
-> ==Gallery==
-> 
-> <gallery>
-> Lineworker's Hideout.jpg|Lineworker's Hideout, seen from Old Substation
-> Lineworker's Hideout view.jpg|View towards Old Substation from Lineworker's Hideout, with Blackrock Mountain in the background
-> </gallery>
-> 
-> {{Blackrock}}
-> [[Category:Locations in Blackrock]]
-> [[ru:Убежище рабочего]]
+<div>
+
+<table class="infobox">
+<caption>Lineworker's Hideout</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Lineworker's_Hideout.jpg]</span>
+<figcaption>Lineworker's_Hideout.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Lineworker's_Hideout_Location.png]</span>
+<figcaption>Lineworker's_Hideout_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Location</p></td>
+<td><p>Between the Old Substation and Narrow Bridge</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Cave|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

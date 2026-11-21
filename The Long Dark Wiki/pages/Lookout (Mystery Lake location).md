@@ -7,37 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Lookout_(Mystery_Lake_location)"
 
 # Lookout \(Mystery Lake location\)
 
-> {{Infobox/Location
-> |title          = 
-> |image          =lookout closeup.jpg
-> |imagecaption   = 
-> |region         = Mystery Lake
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |firebox        = 
-> |bed            =
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |map=Lookout Location.png}}{{For|similarly named fire lookout towers|Lookout (disambiguation)}}
-> '''Lookout''' is an unmarked location in [[Mystery Lake (region)|Mystery Lake]] on a hill north of [[Clearcut]].
-> 
-> == Overview ==
-> The Lookout is the second highest location in the region, and offers a wide view of Mystery Lake that is partially obscured by trees.
-> 
-> A lone [[Green Maple Sapling]] can be harvested here. A [[Frozen Corpse]] can be found with a [[Revolver]] on the path up to the Lookout area.
-> 
-> This location does not need to be surveyed as part of the [[Faithful Cartographer]] achievement.
-> 
-> ==Gallery==
-> <gallery>
-> Lookout_(Mystery_Lake_location).jpg
-> lookout wide angle.png|A view of the Mystery Lake Region from the hill beside Lookout. The [[Forestry Lookout]] and [[Destroyed Lookout]] are visible in the background.
-> </gallery>
-> 
-> {{Mystery Lake}}
-> 
-> [[ru:Наблюдательный пункт]]
-> [[Category:Locations in Mystery Lake]]
+<div>
+
+<table class="infobox">
+<caption>Lookout (Mystery Lake location)</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: lookout_closeup.jpg]</span>
+<figcaption>lookout_closeup.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Lookout_Location.png]</span>
+<figcaption>Lookout_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

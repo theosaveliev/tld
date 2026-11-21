@@ -7,30 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Giant's_Thumbprint"
 
 # Giant's Thumbprint
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Giant's Thumbprint.jpg 
-> |imagecaption   = 
-> |region         =Sundered Pass 
-> |location       = North of [[Last Lonely House]].
-> |sublocations   = 
-> |description    = A small pond surrounded by a forest.
-> |type           = landmark
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> |map=Giant's Thumbprint Location.png}}
-> 
-> {{PAGENAME}} is a small pond located in lower valley of [[Sundered Pass]], not too far from [[Idle Hideout]] and [[Juniper Runoff]].
-> 
-> ==Overview==
-> The pond is located in a depression and is surrounded by forest on all sides. [[Rabbit|Rabbits]] can be found on the pond, as can [[Deer]]. Hunters should take care, as several [[wolf|Wolves]] can be found in the forest immediately surrounding the pond. Several [[Cat Tail]] and [[Burdock]] plants are found near the pond.
-> 
-> Despite its small size, the pond is sufficiently deep for free-form [[Ice Fishing]]. The nearby [[Last Lonely House]] or [[Idle Hideout]] cave can be used as a shelter after fishing.
-> 
-> {{Sundered Pass}} {{Lake}}
-> [[Category:Lakes]]
+<div>
+
+<table class="infobox">
+<caption>Giant's Thumbprint</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Giant's_Thumbprint.jpg]</span>
+<figcaption>Giant's_Thumbprint.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Giant's_Thumbprint_Location.png]</span>
+<figcaption>Giant's_Thumbprint_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Sundered%20Pass.md" class="wikilink" title="Sundered Pass">Sundered Pass</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>A small pond surrounded by a forest.</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

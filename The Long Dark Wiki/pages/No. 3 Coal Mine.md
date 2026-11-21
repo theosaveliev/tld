@@ -7,42 +7,55 @@ source: "https://thelongdark.fandom.com/wiki/No._3_Coal_Mine"
 
 # No\. 3 Coal Mine
 
-> {{Infobox/Location
-> |title          = 
-> |image          =<gallery>
-> Abandoned Mine No.3 (West) interior.jpg
-> </gallery>
-> |imagecaption   = 
-> |region         = Coastal Highway
-> |location       = Connects [[Desolation Point]] and [[Old Island Connector]]
-> |sublocations   = 
-> |description    = 
-> |type           = cave
-> |bed            = 
-> |forge          = 
-> |workbench      = yes
-> |shelter        = yes
-> |missions       = 
-> |characters     = 
-> }}'''No. 3 Coal Mine''' is a large mine that connects [[Desolation Point]] and [[Crumbling Highway]].
-> 
-> == Overview ==
-> No. 3 Coal Mine contains a substantial amount of [[Coal]]--a type of fuel that is used in conjunction with the [[Furnace]] and a [[Heavy Hammer]] to craft certain metal items.
-> 
-> A [[Work Bench]] can be found near the center of the mine.
-> 
-> === Navigating ===
-> The mine is a dark place with several tunnels splitting off in different directions. Anyone venturing into the mine should bring a light source such as a [[Flare]] or fueled [[Storm Lantern]].
-> 
-> == Gallery ==
-> <gallery widths="185">
-> Abandoned Mine No.3 (West).jpg|A view of Abandoned Mine No. 3 (West) in Crumbling Highway.
-> Abandoned Mine No.3 (East Access).jpg|A view of Abandoned Mine No. 3 (East Access) in Desolation Point.
-> Map-Mine-No3-100.png
-> </gallery>
-> 
-> [[ru:Шахта №3]]
-> {{Crumbing Highway}}{{Desolation Point}}
-> [[Category:Locations in Desolation Point]]
-> [[Category:Locations in Crumbling Highway]]
-> [[Category:Transition zones]]
+<div>
+
+<table class="infobox">
+<caption>No. 3 Coal Mine</caption>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><p>[[File:</p>
+<table class="gallery">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><figure>
+<span>[Missing image: Abandoned_Mine_No.3_(West)_interior.jpg]</span>
+<figcaption>Abandoned_Mine_No.3_(West)_interior.jpg</figcaption>
+</figure></td>
+</tr>
+</tbody>
+</table></td>
+<td><p>250px]]</p></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>Location</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Coastal%20Highway.md" class="wikilink" title="Coastal Highway">Coastal Highway</a>|-</p></td>
+<td><p>Location</p></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>General</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Cave|-</p></td>
+<td><figure>
+<img src="../assets/Workbench_icon_green.png" loading="lazy" width="30" />
+<figcaption>workbench_icon_green.png</figcaption>
+</figure></td>
+</tr>
+</tbody>
+</table>
+
+</div>

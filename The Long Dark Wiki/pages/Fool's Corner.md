@@ -7,33 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Fool's_Corner"
 
 # Fool's Corner
 
-> {{Infobox/Location
-> |title          = 
-> |image          = Fool's Corner rope climb top.jpg
-> 
-> |imagecaption   = 
-> |region         = Blackrock
-> |sublocations   = 
-> |description    = 
-> |type           = landmark
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> |map=Fool's Corner Location.png}}
-> 
-> ==Overview==
-> Just a landmark with a rope leading in the canyon downside.  The climbing is quite long but there is a ledge to stay and breathe for a while. 
-> 
-> Due to its location near the broken [[Mule Bridge]] (in [[Survival Mode]]), this rope is useful for those who followed the main road to get to [[Last Prospect]] by allowing them to go into the ravine, down more a bit, and then re-ascending on the other side to gain access to the mines.
-> ==Gallery==
-> <gallery>
-> 20220104180557 1.jpg
-> </gallery>
-> 
-> {{Blackrock}}
-> [[ru:Уголок дурака]]
-> [[Category:Locations in Blackrock]]
+<div>
+
+<table class="infobox">
+<caption>Fool's Corner</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Fool's_Corner_rope_climb_top.jpg]</span>
+<figcaption>Fool's_Corner_rope_climb_top.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Fool's_Corner_Location.png]</span>
+<figcaption>Fool's_Corner_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

@@ -7,41 +7,69 @@ source: "https://thelongdark.fandom.com/wiki/Landslide"
 
 # Landslide
 
-> {{Infobox/Location
-> |title          = 
-> |image          = <gallery>
-> Landslide2.jpg|Front Side
-> Landslide.jpg|Back Side
-> </gallery>
-> |imagecaption   = 
-> |mapfile        = Broken Railroad Map small.jpg
-> |mapx           = 176
-> |mapy           = 144
-> |mappin         = 
-> |mapcaption     = 
-> |region         = Broken Railroad
-> |location       = Along the [[Trans-Island Railway Line]], west of the transition to [[Forlorn Muskeg]]
-> |description    = A landslide blocking the railroad
-> |sublocations   = 
-> |type           = landmark
-> |firebox        = 
-> |bed            =
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> |map=Landslide Location.png}}
-> 
-> ''This is about the Broken Railroad location. There are other, similarly named locations in the [[Landslide (Hushed River Valley)|Hushed River Valley]] and [[Landslide (Bleak Inlet)|Bleak Inlet]].''
-> 
-> '''Landslide''' is a location in [[Broken Railroad]] near the eastern section of the map, close to the transition to [[Forlorn Muskeg]].
-> ==Overview==
-> The Landslide blocks the train tracks, forcing the player to go into the nearby frozen pond and over a tree bridge to get around it entering Broken Railroad. The nearby lower pond often contains a [[Wolf]] hunting [[Rabbit|Rabbits]]. However, when exiting Broken Railroad, the player can climb over the landslide, saving time and [[Fatigue]].
-> 
-> Contrary to a first glance, the Landslide can be bypassed by simply walking up to the rocks and walking over it, saving time from having to go into the nearby pond.
-> 
-> {{Broken Railroad}}
-> 
-> [[ru:Оползень (Разбитая железная дорога)]]
-> [[Category:Locations in Broken Railroad]]
+<div>
+
+<table class="infobox">
+<caption>Landslide</caption>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><p>[[File:</p>
+<table class="gallery">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<th><figure>
+<span>[Missing image: Landslide2.jpg]</span>
+<figcaption>Front Side</figcaption>
+</figure></th>
+<td><figure>
+<span>[Missing image: Landslide.jpg]</span>
+<figcaption>Back Side</figcaption>
+</figure></td>
+</tr>
+</tbody>
+</table></td>
+<td><p>250px]]</p></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>Location</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Landslide_Location.png]</span>
+<figcaption>Landslide_Location.png</figcaption>
+</figure></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Broken%20Railroad.md" class="wikilink" title="Broken Railroad">Broken Railroad</a>|-</p></td>
+<td><p>Location</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>A landslide blocking the railroad</p></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>General</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+</div>

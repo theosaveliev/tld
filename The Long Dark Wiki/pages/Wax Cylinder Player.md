@@ -7,10 +7,80 @@ source: "https://thelongdark.fandom.com/wiki/Wax_Cylinder_Player"
 
 # Wax Cylinder Player
 
-> {{IronRoad}}{{Infobox item|name=|image=Wax Cylinder Player icon.png|release=Iron Road Part 1|update=2.58|story=|type=Collectibles|equipable=No|stackable=No|weight=0.00|actions=Examine|actions_radial=|actions_ground=Take It, Read Text, Leave It|examine=|key=}}'''Wax Cylinder Player''' is a [[Collectibles|Collectible]] in [[Survival Mode]] as part of the [[Iron Road]] expansion. It is found in [[Desolation Point]], on the [[Fulmar Autopilot Boat]] right next to the [[Play Me!]] note and [[Wax Cylinder 1]]. The Cylinder Player does not appear as a collectible in the inventory, but has an icon in the game files.
-> 
-> == Game history ==
-> {{update history|* {{update list|type=update|update=The Long Dark/Changelog#2.58|date=27 October 2024}}
-> * Added to game.}}{{Survival Mode Collectibles}}
-> 
-> [[ru:Проигрыватель восковых валиков]]
+<div>
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="40px"><figure>
+<img src="../assets/Seal_icon.png" loading="lazy" width="30" />
+<figcaption>Seal_icon.png</figcaption>
+</figure></td>
+<td><p><strong>DLC-Exclusive content.</strong><br />
+</p>
+<div style="font-size:0.85em; line-height:1.5em;">
+<p>This content requires the <a href="./Iron%20Road.md" class="wikilink" title="Iron Road">Iron Road</a> addon to be installed before it can be seen or used in regular gameplay.</p>
+</div></td>
+<td><p>|}</p>
+<table class="infobox">
+<caption>Wax Cylinder Player</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/Wax_Cylinder_Player_icon.png" loading="lazy" width="250" />
+<figcaption>Wax_Cylinder_Player_icon.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Release</p></td>
+<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58" class="wikilink" title="Iron Road Part 1">Iron Road Part 1</a></p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
+</tr>
+<tr>
+<td><p>Item type</p></td>
+<td><p><a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Stackable</p></td>
+<td><p>No</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Values</strong></p></td>
+</tr>
+<tr>
+<td><p>Weight</p></td>
+<td><p>0.00 kg (0 lbs)</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Actions</strong></p></td>
+</tr>
+<tr>
+<td><p>Backpack</p></td>
+<td><p>Examine</p></td>
+</tr>
+<tr>
+<td><p>On ground</p></td>
+<td><p>Take It, Read Text, Leave It</p></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Wax Cylinder Player</strong> is a <a href="./Collectibles.md" class="wikilink" title="Collectible">Collectible</a> in <a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a> as part of the <a href="./Iron%20Road.md" class="wikilink" title="Iron Road">Iron Road</a> expansion. It is found in <a href="./Desolation%20Point.md" class="wikilink" title="Desolation Point">Desolation Point</a>, on the <a href="./Fulmar%20Autopilot%20Boat.md" class="wikilink" title="Fulmar Autopilot Boat">Fulmar Autopilot Boat</a> right next to the Play Me! note and <a href="./Wax%20Cylinder%201.md" class="wikilink" title="Wax Cylinder 1">Wax Cylinder 1</a>. The Cylinder Player does not appear as a collectible in the inventory, but has an icon in the game files.</p>
+<h2 id="Game_history">Game history</h2>
+<p><strong>Template:update historyLua execution error in Module:Navbox function navbox</strong></p>
+<p><a href="ru:%D0%9F%D1%80%D0%BE%D0%B8%D0%B3%D1%80%D1%8B%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D0%B2%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%D1%85_%D0%B2%D0%B0%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2" class="wikilink" title="ru:Проигрыватель восковых валиков">ru:Проигрыватель восковых валиков</a></p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

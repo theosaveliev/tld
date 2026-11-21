@@ -7,26 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/High_Blind"
 
 # High Blind
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Forlorn Muskleg High Blind.jpg
-> |imagecaption   = 
-> |region         = Forlorn Muskeg
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |firebox        = 
-> |bed            =
-> |forge          = 
-> |workbench      = 
-> |shelter        = partial
-> |map=High Blind Location.png}}'''High Blind''' is a location in [[Forlorn Muskeg]].
-> 
-> == Overview ==
-> High Blind is a [[Hunter's Blinds|hunting blind]] located on top of a small mound overlooking the surrounding frozen lake. It is surrounded by thin ice in many directions. Supplies found here are similar to other blinds and may include cans of food and sometimes a bow. Some rose hips can also be found near the area. Blinds offer minimal protection from the elements, so sleeping without a fire or high-tier clothing is not recommended.
-> 
-> Inside of the backpack underneath the blind, there's a chance that a [[Research Book]] and an [[Arrowhead]] can be found. In addition, there's usually, either, a [[Cedar Firewood]] or a [[Fir Firewood]] directly underneath the Hunting Blind.
-> 
-> {{Forlorn Muskeg}}
-> [[Category:Locations in Forlorn Muskeg]]
+<div>
+
+<table class="infobox">
+<caption>High Blind</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Forlorn_Muskleg_High_Blind.jpg]</span>
+<figcaption>Forlorn_Muskleg_High_Blind.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: High_Blind_Location.png]</span>
+<figcaption>High_Blind_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

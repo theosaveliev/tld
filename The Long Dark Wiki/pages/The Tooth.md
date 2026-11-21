@@ -7,40 +7,59 @@ source: "https://thelongdark.fandom.com/wiki/The_Tooth"
 
 # The Tooth
 
-> {{Infobox/Location
-> |title          = 
-> |image          =<gallery>
-> CH Tooth 2.jpg
-> </gallery>
-> |map = The Tooth map.png
-> |imagecaption   = 
-> |region         = 
-> |location       = West of [[Log Sort]]
-> |sublocations   = 
-> |description    = 
-> |type           = landmark
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> }}
-> '''The Tooth''' is a narrow but tall piece of large rock protruding from the ice in [[Coastal Highway]]. 
-> 
-> == Overview ==
-> The Tooth is located close to the region's coast, just west of [[Log Sort]].
-> 
-> A [[frozen corpse]] can usually be found half-crushed under the rock.
-> 
-> == Gallery ==
-> <gallery>
-> The Tooth.jpg|The Tooth as it appeared in 2015.
-> CH Tooth 1.jpg
-> CH Tooth 3.jpg
-> </gallery>
-> 
-> {{Coastal Highway}}
-> [[Category:Locations in Coastal Highway]]
-> [[es:El colmillo]]
+<div>
+
+<table class="infobox">
+<caption>The Tooth</caption>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><p>[[File:</p>
+<table class="gallery">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><figure>
+<span>[Missing image: CH_Tooth_2.jpg]</span>
+<figcaption>CH_Tooth_2.jpg</figcaption>
+</figure></td>
+</tr>
+</tbody>
+</table></td>
+<td><p>250px]]</p></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>Location</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/The_Tooth_map.png" loading="lazy" width="250" />
+<figcaption>The_Tooth_map.png</figcaption>
+</figure></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Location</p></td>
+<td><p>West of <a href="./Log%20Sort.md" class="wikilink" title="Log Sort">Log Sort</a></p></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>General</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+</div>

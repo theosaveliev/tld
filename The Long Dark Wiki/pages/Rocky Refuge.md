@@ -7,37 +7,69 @@ source: "https://thelongdark.fandom.com/wiki/Rocky_Refuge"
 
 # Rocky Refuge
 
-> {{Infobox/Location
-> |title          = 
-> |image          =<gallery widths="252" orientation="portrait">
-> Rocky refuge 2.jpg|Exterior
-> Rocky refuge.jpg|Interior
-> </gallery>
-> |imagecaption   = 
-> |region         = Mountain Town
-> |location       = On a hill in the [[Milton Basin]]
-> |sublocations   = 
-> |description    = A small area protected on two sides by rocks
-> |type           = outdoors
-> |firebox        = 
-> |bed            =
-> |forge          = 
-> |workbench      = 
-> |shelter        = partial
-> |map=Rocky Refuge Location.png}}
-> '''Rocky Refuge''' is a small cave-like enclosure on the top of a hill in the [[Milton Basin]] in [[Mountain Town]]. 
-> 
-> == Overview ==
-> It is reached by climbing up the back side of the island hill until small cave is reached. A [[Campfire]] is always found inside - along with a [[Backpack]] and firewood - and sometimes a [[Research Book]]. [[Green Birch Sapling]]s and [[Rose Hip|rose hip]] bushes grow on the top of the hill.
-> 
-> A Birch forest is found to the north west, containing loads of [[Birch Bark]] and [[Cat Tail|Cat Tails]]. A [[Moose]] often spawns in the forest.
-> 
-> == Gallery ==
-> <gallery>
-> rocky refuge view.jpg|A view of the basin from the refuge
-> </gallery>
-> {{Mountain Town}}
-> 
-> [[ru:Скалистое убежище]]
-> [[Category:Locations in Mountain Town]]
-> [[Category:Islands]]
+<div>
+
+<table class="infobox">
+<caption>Rocky Refuge</caption>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><p>[[File:</p>
+<table class="gallery">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<th><figure>
+<span>[Missing image: Rocky_refuge_2.jpg]</span>
+<figcaption>Exterior</figcaption>
+</figure></th>
+<td><figure>
+<span>[Missing image: Rocky_refuge.jpg]</span>
+<figcaption>Interior</figcaption>
+</figure></td>
+</tr>
+</tbody>
+</table></td>
+<td><p>250px]]</p></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>Location</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Rocky_Refuge_Location.png]</span>
+<figcaption>Rocky_Refuge_Location.png</figcaption>
+</figure></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a>|-</p></td>
+<td><p>Location</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>A small area protected on two sides by rocks</p></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>General</strong></p></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+</div>

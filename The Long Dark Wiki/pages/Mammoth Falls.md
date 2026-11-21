@@ -7,24 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Mammoth_Falls"
 
 # Mammoth Falls
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Mammoth Falls.jpg
-> |map            =Mammoth Falls Location.png 
-> |region         = Hushed River Valley
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |firebox        = 
-> |bed            = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> }}'''Mammoth Falls''' are waterfalls located in [[Hushed River Valley]] west of [[Monolith Lake]]. Some [[cat tail]]s can be found in the area. [[Deer]] and [[rabbit]]s sometimes between these and [[Quarreling Falls]].
-> 
-> 
-> {{Hushed River Valley}}
-> [[Category:Waterfalls]]
+<div>
+
+<table class="infobox">
+<caption>Mammoth Falls</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Mammoth_Falls.jpg]</span>
+<figcaption>Mammoth_Falls.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Mammoth_Falls_Location.png]</span>
+<figcaption>Mammoth_Falls_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

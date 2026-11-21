@@ -7,26 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Forest_Cave_(Pleasant_Valley_locati
 
 # Forest Cave \(Pleasant Valley location\)
 
-> {{Infobox/Location
-> |title = Forest Cave
-> |image = SS-PV-ForestCave (1).jpg
-> |region = Pleasant Valley
-> |location = Near [[Pensive Pond]]
-> |type = cave
-> |shelter = partial
-> |map=Forest Cave PV Location.png}}
-> ''See also: [[Forest Cave (Timberwolf Mountain location)|Forest Cave in Timberwolf Mountain]]''
-> 
-> '''Forest Cave''' is one of several caves dotted throughout [[Pleasant Valley]].
-> 
-> == Overview ==
-> Forest Cave lies just north-north-west of [[Pensive Pond]] and west-south-west of [[Picnic Spot]]. A [[Green Maple Sapling]] and possibly a [[Frozen Corpse]] can be found just west of the cave.
-> 
-> <gallery>
-> SS-PV-ForestCave (1).jpg
-> SS-PV-ForestCave (3).jpg
-> SS-PV-ForestCave (2).jpg
-> </gallery>
-> 
-> {{Pleasant Valley}}
-> [[Category:Locations in Pleasant Valley]]
+<div>
+
+<table class="infobox">
+<caption>Forest Cave</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: SS-PV-ForestCave_(1).jpg]</span>
+<figcaption>SS-PV-ForestCave_(1).jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Forest_Cave_PV_Location.png]</span>
+<figcaption>Forest_Cave_PV_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Cave|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

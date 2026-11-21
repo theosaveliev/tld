@@ -7,37 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Twin_Sisters_Falls"
 
 # Twin Sisters Falls
 
-> {{Infobox/Location
-> |title          = 
-> |image          = TwinSisterFallsRainbow.png
-> |imagecaption   = 
-> |region         = Hushed River Valley
-> |location       = Just east of [[Valley View Point]].
-> |sublocations   = 
-> |description    = Two waterfalls.
-> |type           = landmark
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |character
-> |map=Twin Sisters Falls Location.png}}
-> '''{{PAGENAME}}''' is a waterfall located along the [[Hushed River]], in [[Hushed River Valley]]. It's located just east of [[Valley View Point]] and a short walk west-southwest of the [[Valley Cave]].
-> 
-> ==Overview==
-> Twin Sister falls features two rather tall waterfalls side-by-side. [[Cat Tail|Cat tails]] can be found in the area. A [[Moose]] may occasionally be found nearby. The nearest suitable shelter is the Valley Cave.
-> 
-> == Trivia ==
-> On clear days, these falls show a rainbow; this is the only location on Great Bear Island where a rainbow can be found.
-> 
-> ==Gallery==
-> <gallery>
-> ManyFallsVistaView2.png|The view from [[Many Falls Vista]]. Twin Sisters Falls are the two leftmost waterfalls.
-> Twin Sister Falls.png|The falls at sunset.
-> TwinSisterFallsRainbow2.png|Another view of the rainbow seen at Twin Sisters Falls.
-> </gallery>
-> 
-> {{Hushed River Valley}}
-> [[Category:Waterfalls]]
+<div>
+
+<table class="infobox">
+<caption>Twin Sisters Falls</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/TwinSisterFallsRainbow.png" loading="lazy" width="250" />
+<figcaption>TwinSisterFallsRainbow.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Twin_Sisters_Falls_Location.png]</span>
+<figcaption>Twin_Sisters_Falls_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>Two waterfalls.</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

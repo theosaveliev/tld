@@ -7,31 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Long_Shot_Falls"
 
 # Long Shot Falls
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Long Shot Falls (2).jpg
-> |map            =Long Shot Falls Location.png 
-> |region         = Hushed River Valley
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |firebox        = 
-> |bed            = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> }}'''Long Shot Falls''' are twin waterfalls located in the lower part of the [[Hushed River Valley]].
-> ==Overview==
-> A [[Moose]] can be found in the area, as can a [[Hidden Cache]]. [[Cat Tail|Cat tails]] spawn along the frozen river. Nearby is [[Valley_Cave|Valley Cave]], which offers the only shelter in the area.
-> 
-> <gallery>
-> Long Shot Falls (1).jpg
-> </gallery>
-> 
-> {{Hushed River Valley}}
-> 
-> ==Gallery==
-> [[Category:Waterfalls]]
+<div>
+
+<table class="infobox">
+<caption>Long Shot Falls</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Long_Shot_Falls_(2).jpg]</span>
+<figcaption>Long_Shot_Falls_(2).jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Long_Shot_Falls_Location.png]</span>
+<figcaption>Long_Shot_Falls_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

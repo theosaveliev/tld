@@ -7,38 +7,40 @@ source: "https://thelongdark.fandom.com/wiki/Many_Falls_Vista"
 
 # Many Falls Vista
 
-> {{Infobox/Location
-> |title          = 
-> |image          = ManyFallsVistaView.png
-> |imagecaption   = 
-> |region         = Hushed River Valley
-> |location       = Somewhat south of [[Pensive Vista]].
-> |sublocations   = 
-> |description    = A lookoff over the eastern Hushed River Valley.
-> |type           = landmark
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> }}
-> '''{{PAGENAME}}''' is a location within the [[Hushed River Valley]]. 
-> 
-> ==Description==
-> As its name suggests, Many Falls Vista offers a fine view of a number of the region's waterfalls, namely [[Little Bear and Cub Falls]] and [[Twin Sisters Falls]]. A [[Frozen Corpse]] may spawn nearby, along with a [[hatchet]] and a few other random items. 
-> 
-> Two [[Rope climbing|climbing spots]] are located nearby. One of them always spawns with a rope attached and leads down to the lower Hushed River valley, where one can find the aforementioned falls and [[Valley Cave]]. The other climb doesn't spawn with a rope attached, and leads to one of the possible spawn locations for the [[Mysterious Signal Fire]]. 
-> 
-> The climb up to Many Falls Vista from the valley beneath is a very long one. Unless the player uses an [[Emergency Stim]], they will be forced to at least halt on a ledge to regain [[stamina]], and if they are tired at all, they will likely have to sleep for a bit there.
-> 
-> ==Gallery==
-> <gallery>
-> ManyFallsVistaView.png|The view from Many Falls Vista.
-> ClimbIntoLowerHushedRiverValley.png|The rope climb leading down.
-> ManyFallsVistaView2.png|Another picture of the vista.
-> 20200202180749 1.jpg|Many Falls Vista - As the Dead Sleep challenge
-> </gallery>
-> 
-> {{Hushed River Valley}}
+<div>
+
+<table class="infobox">
+<caption>Many Falls Vista</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/ManyFallsVistaView.png" loading="lazy" width="250" />
+<figcaption>ManyFallsVistaView.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>A lookoff over the eastern Hushed River Valley.</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

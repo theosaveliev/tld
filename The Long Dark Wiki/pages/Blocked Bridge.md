@@ -7,28 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Blocked_Bridge"
 
 # Blocked Bridge
 
-> {{Infobox/Location
-> |title          = 
-> |image          = Blockedbridge.jpg
-> |imagecaption   = 
-> |region         = Blackrock
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = landmark
-> |bed            = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> |map=Blocked Bridge Location.png}}
-> '''Blocked Bridge''' is a location in [[Blackrock]].
-> 
-> == Overview ==
-> As the name suggests, the area is a bridge over a steep ravine that has been blocked by debris, with little noteworthy supplies and no shelter. In [[Survival Mode]], it obscures the path to [[Keeper's Pass North]]. Players can get around the bridge to leave the region through a small path to the west, going down into the ravine and around the bridge.
-> 
-> [[Category:Locations in Blackrock]]
-> [[ru:Перекрытый мост]]
-> 
-> {{Blackrock}}
+<div>
+
+<table class="infobox">
+<caption>Blocked Bridge</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Blockedbridge.jpg]</span>
+<figcaption>Blockedbridge.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Blocked_Bridge_Location.png]</span>
+<figcaption>Blocked_Bridge_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

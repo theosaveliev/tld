@@ -7,35 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Waterfall_Cave"
 
 # Waterfall Cave
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Waterfall cave.jpg
-> |imagecaption   = 
-> |region         = Timberwolf Mountain
-> |location       = Adjacent to [[Eric's Falls]]
-> |sublocations   = 
-> |description    = 
-> |type           = cave
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = partial
-> |missions       = 
-> |characters     = 
-> |map=Waterfall Cave Location.png}}
-> '''Waterfall Cave''' is a location adjacent to [[Eric's Falls]] on [[Timberwolf Mountain]].
-> 
-> == Overview ==
-> The cave provides a 10°C warmth bonus. Inside there may be a [[Frozen Corpse]] with loot. It can be a possible [[Safe House]] location as it acts like an indoor area, and allows [[Curing]] of hides and guts inside. 
-> ==Gallery==
-> <gallery widths="185">
-> Waterfall cave inside.jpg|The inside of the cave
-> 20210430165421_1_(2).jpg|The cave provides good shelter
-> 20210430165628_1.jpg|A lot of space inside
-> </gallery>
-> 
-> {{Timberwolf Mountain}}
-> 
-> [[ru:Пещера с водопадом]]
-> [[Category:Locations in Timberwolf Mountain]]
+<div>
+
+<table class="infobox">
+<caption>Waterfall Cave</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Waterfall_cave.jpg]</span>
+<figcaption>Waterfall_cave.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Waterfall_Cave_Location.png]</span>
+<figcaption>Waterfall_Cave_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Cave|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

@@ -7,36 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Echo_Ravine"
 
 # Echo Ravine
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Echo Ravine.jpg
-> |imagecaption   = 
-> |region         = Timberwolf Mountain
-> |location       = 
-> |sublocations   = 
-> |description    = A long narrow area between two rock faces
-> |type           = outdoors
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> |map=Echo Ravine Location.png}}
-> '''Echo Ravine''' is a narrow ravine located in [[Timberwolf Mountain]]. 
-> 
-> == Overview ==
-> Echo Ravine is a potential starting location for new players. A [[Frozen Corpse]], several [[Rose Hip]] bushes, and some firewood can be found at this location. 
-> 
-> [[Echo Peak West]] and [[Echo Peak East]] are located about a hundred meters above Echo Ravine. A connection to [[Ash Canyon]] is located at the eastern end of the ravine. [[Chasm Cave]] and [[Engine]] are at the other end.
-> 
-> == Gallery ==
-> <gallery>
-> Echo Ravine - bird's eye view.jpg|A bird's eye view of Echo Ravine.
-> </gallery>
-> 
-> {{Timberwolf Mountain}}
-> 
-> [[ru:Ущелье Эхо]]
-> [[Category:Locations in Timberwolf Mountain]]
+<div>
+
+<table class="infobox">
+<caption>Echo Ravine</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Echo_Ravine.jpg]</span>
+<figcaption>Echo_Ravine.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Echo_Ravine_Location.png]</span>
+<figcaption>Echo_Ravine_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

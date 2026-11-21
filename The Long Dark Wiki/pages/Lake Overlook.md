@@ -7,27 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Lake_Overlook"
 
 # Lake Overlook
 
-> {{Infobox/Location
-> |image = Mystery Lake Overlook.jpg
-> |region = Mystery Lake
-> |type = outdoors
-> |shelter = partial
-> |map=Lake Overlook Location.png}}
-> '''Lake Overlook''' is a discoverable location in the [[Mystery Lake (region)|Mystery Lake]] region.
-> 
-> == Overview ==
-> This location includes a cave and a spot which overlooks [[Mystery Lake (location)]]. There is a [[Rabbit]] grove as well as [[Old Man's Beard Lichen]] near the cave and a [[Deer Carcass]] may be found near the ledge. Inside the cave there may be a [[Frozen corpse|body]] along with firewood and assorted items, including a possible revolver. The Lake Overlook is a possible Mystery Lake vista location.
-> 
-> This can be a very useful location for fighting Cabin Fever in Interloper if the player uses [[Camp Office]] as [[Safe House]], as the cave provides a warmth bonus. Furthermore, the rabbit grove is far from any predators, and the deer carcass can also be harvested relatively safely. 
-> 
-> == Access ==
-> [[File:Lake Overview.jpg|thumb|275px|Green are rope climb spots, orange area outlines accessible area after the first climb, orange circle is the entrance to the cave, the arrow points the direction to location discovery.]]
-> The most direct route to reach the location is to climb two ropes up from near Mystery's Lake's southern access (along the river). There is a camping spot on the ledge between the two climbs. The other ways to reach the location involve hiking, either up through the forest opposite the Camp Office, or along the ridge from the direction of the Log Sort.
-> [[File:20160516235337 1.jpg|thumb|275px]]
-> [[File:20160516235354 1.jpg|thumb|275px]]
-> 
-> == Trivia ==
-> It is assumed it was added with the Tireless Menace update, since it was discovered as late as 16 May 2016.
-> 
-> {{Mystery Lake}}
-> [[Category:Locations in Mystery Lake]]
+<div>
+
+<table class="infobox">
+<caption>Lake Overlook</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Mystery_Lake_Overlook.jpg]</span>
+<figcaption>Mystery_Lake_Overlook.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Lake_Overlook_Location.png]</span>
+<figcaption>Lake_Overlook_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

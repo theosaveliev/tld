@@ -7,23 +7,53 @@ source: "https://thelongdark.fandom.com/wiki/Mirthless_Fork"
 
 # Mirthless Fork
 
-> {{Infobox/Location
-> |title = Mirthless Fork
-> |image = 20211212180713_1.jpg
-> 
-> |region = Keeper's Pass South
-> |location = 
-> |firebox = fire barrel
-> |bed = yes
-> |workbench = yes
-> |shelter = yes
-> |map=Mirthless Fork Location.png}}
-> The '''Mirthless Fork''' is is a three way junction between [[Pleasant Valley]], [[Blackrock]] and [[Milton]], and the location of the only man-made interior structure in [[Keeper's Pass South]]. Some [[Car|Cars]] and [[Truck|Trucks]] are scattered around, both near the Trailer and near a parking lot. Both [[Wolf|wolves]] and [[Rabbit|rabbits]] can be found nearby.
-> 
-> Inside the trailer, there's a [[Work Bench]], and out back, there's a [[Fire Barrel]]. There is also some notable loot that can spawn inside including a [[Hunting Knife]], [[hacksaw]] and set of [[Quality Tools|tools]] and a [[Bed]].
-> ==Gallery==
-> <gallery>
-> Trailerkeeper 1.jpg
-> 20211212180931 1.jpg|The collapsed tunnel to [[Milton]]
-> </gallery>{{Keeper's Pass South}}
-> [[Category:Locations in Keeper's Pass South]]
+<div>
+
+<table class="infobox">
+<caption>Mirthless Fork</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: 20211212180713_1.jpg]</span>
+<figcaption>20211212180713_1.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Mirthless_Fork_Location.png]</span>
+<figcaption>Mirthless_Fork_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Keeper%27s%20Pass%20South.md" class="wikilink" title="Keeper&#39;s Pass South">Keeper's Pass South</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Firebox</p></td>
+<td><p><a href="./Fire%20Barrel.md" class="wikilink" title="Fire Barrel">Fire Barrel</a></p></td>
+</tr>
+<tr>
+<td><figure>
+<img src="../assets/Bed_icon.png" loading="lazy" width="30" />
+<figcaption>bed_icon.png</figcaption>
+</figure></td>
+<td><p>Has a bed</p></td>
+</tr>
+<tr>
+<td><figure>
+<img src="../assets/Workbench_icon_green.png" loading="lazy" width="30" />
+<figcaption>workbench_icon_green.png</figcaption>
+</figure></td>
+<td><p>Has a workbench|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

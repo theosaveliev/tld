@@ -7,38 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Little_Island"
 
 # Little Island
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Little Island 01.jpg
-> |imagecaption   = 
-> |region         = Desolation Point
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> |map=Little Island Location.png}}
-> '''Little Island''' is a small island near the coast in [[Desolation Point]]. 
-> 
-> == Overview ==
-> Little Island is located to the east of [[Lonely Lighthouse]], and south of [[Hibernia Processing]] and [[The Riken]]. 
-> 
-> [[Old Man's Beard Lichen]] and [[Reishi Mushroom]] may be found on the island, along with [[Rabbit|Rabbits]].
-> 
-> Also, every few days a couple of [[Deer]] will be seen on the island and a [[Deer Carcass]] can spawn. A frozen corpse can spawn on the side nearest the water. 
-> 
-> == Gallery ==
-> <gallery>
-> File:Little Island 02.jpg|Another view of Little Island. 
-> File:Little Island from Lonely Lighthouse.png|Little Island, as seen from [[Lonely Lighthouse]].
-> </gallery>
-> 
-> {{Desolation Point}}
-> [[Category:Locations in Desolation Point]]
-> [[Category:Islands]]
+<div>
+
+<table class="infobox">
+<caption>Little Island</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Little_Island_01.jpg]</span>
+<figcaption>Little_Island_01.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Little_Island_Location.png]</span>
+<figcaption>Little_Island_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Desolation%20Point.md" class="wikilink" title="Desolation Point">Desolation Point</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

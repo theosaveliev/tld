@@ -7,34 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Builder's_Bridge"
 
 # Builder's Bridge
 
-> {{Infobox/Location
-> |title          = 
-> |image          = Buildersbridge.png
-> |imagecaption   = 
-> |mapfile        = 
-> |mapcaption     = 
-> |region         = Keeper's Pass North
-> |location       = 
-> |description    = A bridge
-> |sublocations   = 
-> |type           = landmark
-> |firebox        = 
-> |bed            =
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> |map=Builder's Bridge Location.png}}'''Builder's Bridge''' is a swinging bridge in [[Keeper's Pass North]].
-> 
-> == Overview ==
-> A rope bridge providing access to both sides of the river at the end of the crevice back onto the road to [[Blackrock]]. The river valley below can be climbed down into via a [[Rope Climbing]] section, with an [[Emergency Kit]] containing a [[Distress Pistol]] and [[Flare Shell|Flare Shells]]. No nearby shelter is present, aside from some Blackrock [[Truck|Trucks]] on the nearby road.
-> 
-> ==Gallery==
-> <gallery>
-> File:Buildersbridge1.png|The river below the bridge
-> </gallery>{{Keeper's Pass North}}<gallery>
-> 
-> </gallery>
-> 
-> [[Category:Locations in Keeper's Pass North]]
+<div>
+
+<table class="infobox">
+<caption>Builder's Bridge</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/Buildersbridge.png" loading="lazy" width="250" />
+<figcaption>Buildersbridge.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Builder's_Bridge_Location.png]</span>
+<figcaption>Builder's_Bridge_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Keeper%27s%20Pass%20North.md" class="wikilink" title="Keeper&#39;s Pass North">Keeper's Pass North</a>|-</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Landmark|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

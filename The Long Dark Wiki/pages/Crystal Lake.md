@@ -7,41 +7,46 @@ source: "https://thelongdark.fandom.com/wiki/Crystal_Lake"
 
 # Crystal Lake
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Crystal_Lake.png
-> |imagecaption   = 
-> |region         = Timberwolf Mountain
-> |location       = 
-> |sublocations   = [[Mountaineer's Hut]]
-> |description    = A small freshwater lake
-> |type           = outdoors
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = partial
-> |map=Crystal Lake Location.png}}'''Crystal Lake''' is small frozen lake located in [[Timberwolf Mountain]].
-> 
-> == Overview ==
-> [[Mountaineer's Hut]] lies next to Crystal Lake.
-> 
-> The lake has a dock and a single [[Fishing Hut]] with some supplies and an ice fishing hole for [[Ice Fishing]]. The dock may have a Hatchet stuck in one of the first wooden posts and a [[Heavy Hammer]] in one of the fishing boats.
-> 
-> A large number of [[Cat Tail|cat tail]] plants can be found growing on the banks of the lake. [[Rose Hip|Rose hips]] and [[Old Man's Beard Lichen|old man's beard lichen]] can also be found in the area.
-> 
-> [[Deer]] and other [[wildlife]], including [[wolf|wolves]] and a possible [[bear]] can frequently be found wandering by the lake if the player's [[Scent]] is high from Ice Fishing.
-> [[File:CrystalLake.jpg|alt=|thumb|350x350px|Crystal Lake from above. [[Mountaineer's Hut]] is visible on the right side of the picture, along with the dock and the  [[Ice Fishing|fishing hut]] is at the center of the lake.|none]]
-> 
-> == Gallery ==
-> <br /><gallery widths="185">
-> 20201210115850 1.jpg|thumb|left|350px|Crystal Lake during the Aurora
-> Knife.jpg|A knife spawn on the canoes in front of the Hut
-> 20210428205850_1.jpg|Crystal Lake with the fishing cabin and Hut. 
-> </gallery>
-> 
-> {{Timberwolf Mountain}}
-> {{Lake}}
-> [[ru:Кристальное озеро]]
-> [[Category:Locations in Timberwolf Mountain]]
-> [[Category:Lakes]]
+<div>
+
+<table class="infobox">
+<caption>Crystal Lake</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/Crystal_Lake.png" loading="lazy" width="250" />
+<figcaption>Crystal_Lake.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Crystal_Lake_Location.png]</span>
+<figcaption>Crystal_Lake_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Description</p></td>
+<td><p>A small freshwater lake</p></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>General</strong></p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

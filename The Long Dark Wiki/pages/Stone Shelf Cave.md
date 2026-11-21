@@ -7,27 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Stone_Shelf_Cave"
 
 # Stone Shelf Cave
 
-> {{Infobox/Location
-> |title          = 
-> |image          = 20201212003001 1.jpg
-> 
-> |imagecaption   = 
-> |region         = Ash Canyon
-> |sublocations   = 
-> |description    = 
-> |type           = cave
-> |bed            = 
-> |firebox        = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = partial
-> |missions       = 
-> |characters     = 
-> |map=Stone Shelf Cave Location.png}}
-> 
-> '''{{PAGENAME}}''' is a small cave in [[Ash Canyon]] located in the west side of the region.
-> 
-> ==Overview==
-> The cave itself doesn't contain any notable loot, but some [[Rose Hip]] can be found at the entrance, and there are [[Deer]] to hunt just outside, too. If the [[Moose]] happens to spawn nearby, this cave can make for a good location to cure the hide and guts. South of the cave, up on the plateau one can find one of the largest [[Birch Bark|Birch Forests]] of [[Great Bear Island]].
-> 
-> {{Ash Canyon}}
+<div>
+
+<table class="infobox">
+<caption>Stone Shelf Cave</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: 20201212003001_1.jpg]</span>
+<figcaption>20201212003001_1.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Stone_Shelf_Cave_Location.png]</span>
+<figcaption>Stone_Shelf_Cave_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Ash%20Canyon.md" class="wikilink" title="Ash Canyon">Ash Canyon</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Cave|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

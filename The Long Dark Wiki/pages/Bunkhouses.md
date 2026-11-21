@@ -7,29 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Bunkhouses"
 
 # Bunkhouses
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Forlorn Muskeg Bunkhouses.jpg
-> |imagecaption   = 
-> |region         = Forlorn Muskeg
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |firebox        = 
-> |bed            =
-> |forge          = 
-> |workbench      = 
-> |shelter        = no
-> |missions       = 
-> |characters     = 
-> |map=Bunkhouses Location.png}}
-> Bunkhouses is a location in [[Forlorn Muskeg]]. There are four inaccessible structures with barrels, crates and pallets around, as well as a metal container. The bunkhouses are connected to the [[Old Spence Family Homestead]] by a wooden footbridge. There is a chance of a [[Heavy Hammer]] spawn near one of the pallet stacks or the barrels.
-> <gallery>
-> bunkhouses with carin.jpg|The bunkhouses and footbridge with a cairn in the foreground
-> </gallery>
-> 
-> {{Forlorn Muskeg}}
-> 
-> [[ru:Бараки]]
-> [[Category:Locations in Forlorn Muskeg]]
+<div>
+
+<table class="infobox">
+<caption>Bunkhouses</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Forlorn_Muskeg_Bunkhouses.jpg]</span>
+<figcaption>Forlorn_Muskeg_Bunkhouses.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Bunkhouses_Location.png]</span>
+<figcaption>Bunkhouses_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

@@ -7,24 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Little_Bear_and_Cub_Falls"
 
 # Little Bear and Cub Falls
 
-> {{Infobox/Location
-> |title          = 
-> |image          =Little Bear and Cub Falls.jpg
-> |map            =Little Bear and Cub Falls Location.png 
-> |region         = Hushed River Valley
-> |location       = 
-> |sublocations   = 
-> |description    = 
-> |type           = outdoors
-> |firebox        = 
-> |bed            = 
-> |forge          = 
-> |workbench      = 
-> |shelter        = 
-> |missions       = 
-> |characters     = 
-> }}'''Little Bear and Cub Fall''' are two waterfalls located in [[Hushed River Valley]], near them can be found the entrance to [[Valley Cave]]. Despite their name, no [[Bear]] will ever be found in the area nearby. A frozen corpse may spawn slightly to their west, and a rifle may occasionally be found with said corpse.
-> 
-> 
-> {{Hushed River Valley}}
-> [[Category:Waterfalls]]
+<div>
+
+<table class="infobox">
+<caption>Little Bear and Cub Falls</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Little_Bear_and_Cub_Falls.jpg]</span>
+<figcaption>Little_Bear_and_Cub_Falls.jpg</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Location</strong></p></td>
+</tr>
+<tr>
+<td colspan="2"><figure>
+<span>[Missing image: Little_Bear_and_Cub_Falls_Location.png]</span>
+<figcaption>Little_Bear_and_Cub_Falls_Location.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
+</tr>
+<tr>
+<td><p>Type</p></td>
+<td><p>Outdoors|-</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>

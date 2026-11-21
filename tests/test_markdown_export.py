@@ -3,11 +3,14 @@ from typing import TYPE_CHECKING
 
 import pytest
 
+from pipeline import markdown_export as markdown_export_module
 from pipeline.markdown_export import (
     DumpPage,
+    _export_one_page,  # pyright: ignore[reportPrivateUsage]
     _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
     _markdown_label,  # pyright: ignore[reportPrivateUsage]
     _portable_asset_name,  # pyright: ignore[reportPrivateUsage]
+    _repair_unclosed_mediawiki_tables,  # pyright: ignore[reportPrivateUsage]
     _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
     load_filename_mapping,
     normalize_image_name,
@@ -259,3 +262,131 @@ def test_html_rewriter_restores_infoboxes_thumbnails_and_section_ids(
     assert (asset_dir / "Bear.png").read_bytes() == b"image"
     assert missing_links == set()
     assert missing_images == set()
+
+
+def test_repair_unclosed_mediawiki_tables_appends_missing_closers() -> None:
+    source = "{| class=\\"outer\\"\\n| row\\n{| class=\\"inner\\"\\n| nested row\\n"
+    repaired, count = _repair_unclosed_mediawiki_tables(source)
+
+    assert count == 2
+    assert repaired == source + "|}\\n|}\\n"
+
+
+def test_repair_unclosed_mediawiki_tables_ignores_literal_and_comment_content() -> None:
+    source = (
+        "<nowiki>\\n{|\\n|}\\n</nowiki>\\n"
+        "<!--\\n{|\\n|}\\n-->\\n"
+        "{| class=\\"real\\"\\n| row\\n|}\\n"
+    )
+
+    repaired, count = _repair_unclosed_mediawiki_tables(source)
+
+    assert repaired == source
+    assert count == 0
+
+
+def test_export_retries_pandoc_after_closing_unterminated_wikitext_table(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    class FakeContext:
+        def start_page(self, title: str) -> None:
+            pass
+
+        def expand(self, text: str, timeout: int) -> str:
+            return text
+
+    def fake_pandoc(
+        _pandoc: str, text: str, source_format: str, target_format: str
+    ) -> str:
+        if source_format == "mediawiki":
+            if "|}" not in text:
+                raise RuntimeError(
+                    "Pandoc conversion failed: Error at (line 4, column 1): "
+                    "unexpected end of input"
+                )
+            return "<p>Recovered article text</p>"
+        assert (source_format, target_format) == ("html", "gfm")
+        return "Recovered article text"
+
+    monkeypatch.setattr(markdown_export_module, "_run_pandoc", fake_pandoc)
+    pages_dir = tmp_path / "pages"
+    pages_dir.mkdir()
+
+    result, expansion_errors, conversion_errors = _export_one_page(
+        DumpPage("Sample", 0, "wikitext", "original source", None),
+        {"Sample": "Sample.md"},
+        FakeContext(),
+        lambda *_args: "{| class=\\"infobox\\"\\n| an open row",
+        lambda text, _categories, _stats: text,
+        {},
+        "pandoc",
+        {},
+        {},
+        None,
+        pages_dir,
+        tmp_path / "assets",
+        {},
+        {},
+        set(),
+        set(),
+        set(),
+        None,
+    )
+
+    output = (pages_dir / "Sample.md").read_text(encoding="utf-8")
+    assert result["status"] == "repaired"
+    assert "closed 1 unterminated MediaWiki table" in result["error"]
+    assert "Recovered article text" in output
+    assert not output.startswith("> ")
+    assert expansion_errors == 0
+    assert conversion_errors == 0
+
+
+def test_export_preserves_rendered_html_when_gfm_conversion_fails(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    class FakeContext:
+        def start_page(self, title: str) -> None:
+            pass
+
+        def expand(self, text: str, timeout: int) -> str:
+            return text
+
+    def fake_pandoc(
+        _pandoc: str, _text: str, source_format: str, target_format: str
+    ) -> str:
+        if source_format == "mediawiki" and target_format == "html":
+            return "<p>Rendered article text</p>"
+        raise RuntimeError("simulated HTML-to-GFM failure")
+
+    monkeypatch.setattr(markdown_export_module, "_run_pandoc", fake_pandoc)
+    pages_dir = tmp_path / "pages"
+    pages_dir.mkdir()
+
+    result, expansion_errors, conversion_errors = _export_one_page(
+        DumpPage("Sample", 0, "wikitext", "original source", None),
+        {"Sample": "Sample.md"},
+        FakeContext(),
+        lambda text, *_args: text,
+        lambda text, _categories, _stats: text,
+        {},
+        "pandoc",
+        {},
+        {},
+        None,
+        pages_dir,
+        tmp_path / "assets",
+        {},
+        {},
+        set(),
+        set(),
+        set(),
+        None,
+    )
+
+    output = (pages_dir / "Sample.md").read_text(encoding="utf-8")
+    assert result["status"] == "html_fallback"
+    assert "<p>Rendered article text</p>" in output
+    assert not output.startswith("> ")
+    assert expansion_errors == 0
+    assert conversion_errors == 0

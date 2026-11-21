@@ -1030,9 +1030,10 @@ def _strip_wikitext_table_row_artifacts(value: str) -> str:
                 fence = None
             output.append(line)
             continue
+        cleaned_line = line
         if fence is None:
-            line = re.sub(r"\\+\|-[ \t]*(?=\r?\n?$)", "", line)
-        output.append(line)
+            cleaned_line = re.sub(r"\\+\|-[ \t]*(?=\r?\n?$)", "", line)
+        output.append(cleaned_line)
     return "".join(output)
 
 

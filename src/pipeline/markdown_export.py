@@ -45,6 +45,9 @@ class ExportSummary(TypedDict):
     unresolved_links: int
     missing_images: int
     categories: int
+    infoboxes: int
+    unconverted_infoboxes: int
+    missing_templates: int
 
 
 class PageExportResult(TypedDict):
@@ -53,7 +56,8 @@ class PageExportResult(TypedDict):
     status: str
     categories: int
     infoboxes: int
-    missing_templates: int
+    infoboxes_unconverted: int
+    missing_templates: list[str]
     error: str
 
 
@@ -823,7 +827,10 @@ def _export_one_page(
         "status": status,
         "categories": len(categories),
         "infoboxes": stats["infoboxes"],
-        "missing_templates": len(set(stats["missing_templates"])),
+        "infoboxes_unconverted": stats["infobox_left"],
+        "missing_templates": sorted(
+            set(stats["missing_templates"]), key=str.casefold
+        ),
         "error": expansion_error,
     }
     return result, expansion_errors, conversion_errors
@@ -986,6 +993,13 @@ def export_dump_to_markdown(
         "unresolved_links": len(state["missing_links"]),
         "missing_images": len(state["missing_images"]),
         "categories": len(state["categories_seen"]),
+        "infoboxes": sum(page["infoboxes"] for page in state["page_results"]),
+        "unconverted_infoboxes": sum(
+            page["infoboxes_unconverted"] for page in state["page_results"]
+        ),
+        "missing_templates": sum(
+            len(page["missing_templates"]) for page in state["page_results"]
+        ),
     }
     report: ExportReport = {
         "summary": summary,

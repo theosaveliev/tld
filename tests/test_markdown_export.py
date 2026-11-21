@@ -341,11 +341,13 @@ def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
     fragment = (
         '<nav><a href="#Section_One">Section One</a></nav>'
         '<h2 id="Section_One">Section One</h2>'
+        '<a href="#cite_note-1">[1]</a>'
     )
 
     markdown = _html_fragment_to_markdown(fragment)
 
     assert "[Section One](#section-one)" in markdown
+    assert "[1](#cite_note-1)" in markdown
     assert "## Section One" in markdown
 
 

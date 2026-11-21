@@ -139,6 +139,7 @@ def test_filename_mapping_rejects_path_traversal(tmp_path: Path) -> None:
     with pytest.raises(ValueError, match="Unsafe Markdown filename"):
         load_filename_mapping(mapping_file)
 
+
 def test_iter_dump_pages_extracts_page_text_and_redirects(tmp_path: Path) -> None:
     dump_file = tmp_path / "dump.xml"
     dump_file.write_text(
@@ -163,6 +164,7 @@ def test_iter_dump_pages_extracts_page_text_and_redirects(tmp_path: Path) -> Non
         DumpPage("Bear", 0, "wikitext", "Bear article", None),
         DumpPage("Bear alias", 0, "wikitext", "#REDIRECT [[Bear]]", "Bear"),
     ]
+
 
 def test_rewrite_html_links_resolves_articles_and_reports_missing_pages(
     tmp_path: Path,

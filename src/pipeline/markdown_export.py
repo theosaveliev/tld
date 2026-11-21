@@ -492,7 +492,6 @@ def _run_pandoc(binary: str, text: str, source_format: str, target_format: str) 
 
 
 
-
 def _repair_unclosed_mediawiki_tables(text: str) -> tuple[str, int]:
     """Close unterminated top-level MediaWiki table blocks before retrying Pandoc.
 
@@ -993,7 +992,10 @@ def _export_one_page(
                         f"closing {repaired_tables} unterminated MediaWiki table(s)."
                     )
             else:
-                conversion_note = f"{conversion_stage} rejected expanded wikitext: {initial_error}"
+                conversion_note = (
+                    f"{conversion_stage} rejected expanded wikitext: "
+                    f"{initial_error}"
+                )
 
             if conversion_status != "repaired":
                 # The original source is often still parseable when an expanded
@@ -1248,7 +1250,9 @@ def export_dump_to_markdown(
         "redirects": state["redirect_count"],
         "expansion_errors": state["expansion_errors"],
         "conversion_errors": state["conversion_errors"],
-        "repaired_pages": sum(page["status"] == "repaired" for page in state["page_results"]),
+        "repaired_pages": sum(
+            page["status"] == "repaired" for page in state["page_results"]
+        ),
         "raw_fallback_pages": sum(
             page["status"] == "raw_fallback" for page in state["page_results"]
         ),

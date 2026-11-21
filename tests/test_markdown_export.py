@@ -380,7 +380,7 @@ def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
     markdown = _html_fragment_to_markdown(fragment)
 
     assert "[Section One](#section-one)" in markdown
-    assert "[1](#cite_note-1)" in markdown
+    assert r"[\[1\]](#cite_note-1)" in markdown
     assert "## Section One" in markdown
 
 
@@ -630,12 +630,9 @@ def test_export_uses_html_to_markdown_when_direct_source_conversion_fails(
         if source_format == "mediawiki" and target_format == "gfm":
             raise RuntimeError("simulated direct Markdown failure")
         if source_format == "mediawiki" and target_format == "html":
-            return "".join(
-                (
-                    "<div><h2>Source fallback</h2>",
-                    "<p><strong>Readable</strong> text</p></div>",
-                )
-            )
+            opening = "<div><h2>Source fallback</h2>"
+            paragraph = "<p><strong>Readable</strong> text</p></div>"
+            return opening + paragraph
         raise AssertionError("Unexpected Pandoc conversion")
 
     def fail_postprocess(

@@ -1125,13 +1125,11 @@ def _render_material_usage_table(
             else None
         )
         product_image = (
-            '<a href="'
-            + recipe_link
-            + '"><img src="'
+            '<img src="'
             + html.escape(image_path.name, quote=True)
             + '" alt="'
             + html.escape(recipe_name, quote=True)
-            + '" /></a> '
+            + '" /> '
             if image_path is not None
             else ""
         )

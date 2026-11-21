@@ -11,6 +11,7 @@ from pipeline.markdown_export import (
     DumpPage,
     RenderStats,
     WikiContext,
+    _build_image_index,  # pyright: ignore[reportPrivateUsage]
     _export_one_page,  # pyright: ignore[reportPrivateUsage]
     _html_fragment_to_markdown,  # pyright: ignore[reportPrivateUsage]
     _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
@@ -79,6 +80,41 @@ def test_normalize_title_matches_mediawiki_title_rules() -> None:
 def test_normalize_image_name_strips_mediawiki_namespace() -> None:
     assert normalize_image_name("File:Bear Meat.png") == "bear_meat.png"
     assert normalize_image_name("../images/BEAR_Meat.png") == "bear_meat.png"
+
+
+def test_image_index_uses_mismatch_directory_as_fallback(tmp_path: Path) -> None:
+    image_dir = tmp_path / "images"
+    mismatch_dir = tmp_path / "images_mismatch"
+    image_dir.mkdir()
+    mismatch_dir.mkdir()
+    primary_image = image_dir / "Bear.png"
+    primary_image.write_bytes(b"primary")
+    (mismatch_dir / "Bear.png").write_bytes(b"mismatch")
+    fallback_image = mismatch_dir / "Wolf.jpg"
+    fallback_image.write_bytes(b"fallback")
+
+    image_index = _build_image_index(image_dir)
+
+    assert image_index["bear.png"] == primary_image
+    assert image_index["wolf.jpg"] == fallback_image
+
+    asset_dir = tmp_path / "workspace" / "assets"
+    rewritten = _rewrite_html_links(
+        '<img src="File:Wolf.jpg" alt="Wolf" />',
+        "Main Page",
+        {},
+        {},
+        image_index,
+        image_dir,
+        asset_dir,
+        {},
+        {},
+        set(),
+        set(),
+    )
+
+    assert 'src="../assets/Wolf.jpg"' in rewritten
+    assert (asset_dir / "Wolf.jpg").read_bytes() == b"fallback"
 
 
 def test_portable_asset_name_sanitizes_and_limits_image_names() -> None:
@@ -315,7 +351,7 @@ def test_html_fragment_to_markdown_converts_fandom_elements() -> None:
 <caption>Bear</caption>
 <tbody>
 <tr><th>Release</th><td>2017</td></tr>
-<tr><td colspan="2" class="section"><strong>Properties</strong></td></tr>
+<tr><td colspan="2"><strong>Properties</strong></td></tr>
 </tbody>
 </table>
 <figure><img src="../assets/Bear.png" alt="Bear" />

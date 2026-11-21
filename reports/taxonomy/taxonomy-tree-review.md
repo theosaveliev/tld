@@ -721,11 +721,6 @@
 - [Wool Socks](https://thelongdark.fandom.com/wiki/Wool_Socks)
 - [Work Boots](https://thelongdark.fandom.com/wiki/Work_Boots)
 
-### Backpack
-
-- [Canister](https://thelongdark.fandom.com/wiki/Canister)
-- [Respirator](https://thelongdark.fandom.com/wiki/Respirator)
-
 ### Climbing Aids
 
 - [Crampons](https://thelongdark.fandom.com/wiki/Crampons)
@@ -883,7 +878,9 @@
 
 - [Antiseptic](https://thelongdark.fandom.com/wiki/Antiseptic)
 - [Caffeine Pills](https://thelongdark.fandom.com/wiki/Caffeine_Pills)
+- [Canister](https://thelongdark.fandom.com/wiki/Canister)
 - [Old Man's Beard Wound Dressing](https://thelongdark.fandom.com/wiki/Old_Man's_Beard_Wound_Dressing)
+- [Respirator](https://thelongdark.fandom.com/wiki/Respirator)
 - [Vitamin-C Pills](https://thelongdark.fandom.com/wiki/Vitamin-C_Pills)
 - [Water Purification Tablets](https://thelongdark.fandom.com/wiki/Water_Purification_Tablets)
 
@@ -1339,7 +1336,6 @@
 - [Hypothermia Risk](https://thelongdark.fandom.com/wiki/Hypothermia_Risk)
 - [Infection Risk](https://thelongdark.fandom.com/wiki/Infection_Risk)
 - [Insomnia Risk](https://thelongdark.fandom.com/wiki/Insomnia_Risk)
-- [Risk of Infection](https://thelongdark.fandom.com/wiki/Risk_of_Infection)
 - [Risk of Intestinal Parasites](https://thelongdark.fandom.com/wiki/Risk_of_Intestinal_Parasites)
 - [Scurvy Risk](https://thelongdark.fandom.com/wiki/Scurvy_Risk)
 
@@ -1385,7 +1381,6 @@
 ### Reference Pages
 
 - [Afflictions](https://thelongdark.fandom.com/wiki/Afflictions)
-- [Risk of Infection/Transcript](https://thelongdark.fandom.com/wiki/Risk_of_Infection/Transcript)
 
 ## 13. Environmental Hazards
 
@@ -1767,7 +1762,6 @@
 - [Medicinal Plants of Great Bear](https://thelongdark.fandom.com/wiki/Medicinal_Plants_of_Great_Bear)
 - [Mining Newsletter](https://thelongdark.fandom.com/wiki/Mining_Newsletter)
 - [The Basics of Survival](https://thelongdark.fandom.com/wiki/The_Basics_of_Survival)
-- [The Best Defense](https://thelongdark.fandom.com/wiki/The_Best_Defense)
 - [The Frozen Angler (Survival School)](https://thelongdark.fandom.com/wiki/The_Frozen_Angler_(Survival_School))
 
 ### Local Histories & Legends
@@ -2124,7 +2118,6 @@
 - [Escape the Darkwalker](https://thelongdark.fandom.com/wiki/Escape_the_Darkwalker)
 - [Hopeless Rescue](https://thelongdark.fandom.com/wiki/Hopeless_Rescue)
 - [Nomad](https://thelongdark.fandom.com/wiki/Nomad)
-- [Survival Of The Fittest](https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest)
 - [The Hunted, Part One](https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_One)
 - [The Hunted, Part Three](https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_Three)
 - [The Hunted, Part Two](https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_Two)
@@ -2315,8 +2308,9 @@
 - [The Foreman](https://thelongdark.fandom.com/wiki/The_Foreman)
 - [The Security Chief](https://thelongdark.fandom.com/wiki/The_Security_Chief)
 
-### Groups & Factions
+### Groups, Factions & Organizations
 
+- [Breyerhouse](https://thelongdark.fandom.com/wiki/Breyerhouse)
 - [Convicts](https://thelongdark.fandom.com/wiki/Convicts)
 - [Crash Survivor](https://thelongdark.fandom.com/wiki/Crash_Survivor)
 - [Forest Talkers](https://thelongdark.fandom.com/wiki/Forest_Talkers)
@@ -2344,6 +2338,7 @@
 
 - [Renewed Hope](https://thelongdark.fandom.com/wiki/Renewed_Hope)
 - [Signal to Noise](https://thelongdark.fandom.com/wiki/Signal_to_Noise)
+- [The Best Defense](https://thelongdark.fandom.com/wiki/The_Best_Defense)
 - [The Wounded Trapper](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper)
 - [What One Man Can Do](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do)
 
@@ -2371,6 +2366,7 @@
 - [Donner (mission)](https://thelongdark.fandom.com/wiki/Donner_(mission))
 - [Prologue](https://thelongdark.fandom.com/wiki/Prologue)
 - [The Detonators](https://thelongdark.fandom.com/wiki/The_Detonators)
+- [The Power Plant](https://thelongdark.fandom.com/wiki/The_Power_Plant)
 
 ### Wintermute — Episode 4: Side Missions
 
@@ -2387,20 +2383,31 @@
 - [To SAR And Back](https://thelongdark.fandom.com/wiki/To_SAR_And_Back)
 - [To Those Who Are Missing](https://thelongdark.fandom.com/wiki/To_Those_Who_Are_Missing)
 
-### Predux — Episode 1 Missions
+### Predux — Episode 1: Main Missions
 
 - [Echoes Of Astrid](https://thelongdark.fandom.com/wiki/Echoes_Of_Astrid)
+- [Paradise Lost (Predux)](https://thelongdark.fandom.com/wiki/Paradise_Lost_(Predux))
+- [Survival Of The Fittest](https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest)
+- [The Grey Mother (Predux)](https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux))
+
+### Predux — Episode 1: Side Missions
+
 - [Light Up The Night](https://thelongdark.fandom.com/wiki/Light_Up_The_Night)
 
-### Predux — Episode 2 Missions
+### Predux — Episode 2: Main Missions
 
-- [Forge Blueprints (mission)](https://thelongdark.fandom.com/wiki/Forge_Blueprints_(mission))
 - [Jeremiah's Folly](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly)
+- [Renewed Hope (Predux)](https://thelongdark.fandom.com/wiki/Renewed_Hope_(Predux))
+- [Risk of Infection](https://thelongdark.fandom.com/wiki/Risk_of_Infection)
+- [Survival School (Predux)](https://thelongdark.fandom.com/wiki/Survival_School_(Predux))
 - [You Fix My Rifle?](https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F)
 
-### World History & Lore
+### Predux — Episode 2: Side Missions
 
-- [Breyerhouse](https://thelongdark.fandom.com/wiki/Breyerhouse)
+- [Forge Blueprints (mission)](https://thelongdark.fandom.com/wiki/Forge_Blueprints_(mission))
+
+### Historical Events & Lore
+
 - [First Flare](https://thelongdark.fandom.com/wiki/First_Flare)
 - [The Collapse](https://thelongdark.fandom.com/wiki/The_Collapse)
 
@@ -2417,31 +2424,25 @@
 - [Interview Transcript 14](https://thelongdark.fandom.com/wiki/Interview_Transcript_14)
 - [Interview Transcript 17](https://thelongdark.fandom.com/wiki/Interview_Transcript_17)
 - [Jeremiah's Folly/Transcript](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly/Transcript)
+- [Paradise Lost (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Paradise_Lost_(Predux)/Transcript)
 - [Paradise Lost/Transcript](https://thelongdark.fandom.com/wiki/Paradise_Lost/Transcript)
 - [Prologue/Transcript](https://thelongdark.fandom.com/wiki/Prologue/Transcript)
+- [Renewed Hope (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Renewed_Hope_(Predux)/Transcript)
 - [Renewed Hope/Transcript](https://thelongdark.fandom.com/wiki/Renewed_Hope/Transcript)
+- [Risk of Infection/Transcript](https://thelongdark.fandom.com/wiki/Risk_of_Infection/Transcript)
 - [Signal to Noise/Transcript](https://thelongdark.fandom.com/wiki/Signal_to_Noise/Transcript)
 - [Survival Of The Fittest/Transcript](https://thelongdark.fandom.com/wiki/Survival_Of_The_Fittest/Transcript)
+- [Survival School (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Survival_School_(Predux)/Transcript)
 - [The Best Defense/Transcript](https://thelongdark.fandom.com/wiki/The_Best_Defense/Transcript)
 - [The Crash/Transcript](https://thelongdark.fandom.com/wiki/The_Crash/Transcript)
 - [The Detonators/Transcript](https://thelongdark.fandom.com/wiki/The_Detonators/Transcript)
+- [The Grey Mother (Predux)/Transcript](https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux)/Transcript)
 - [The Grey Mother/Transcript](https://thelongdark.fandom.com/wiki/The_Grey_Mother/Transcript)
 - [The Power Plant/Transcript](https://thelongdark.fandom.com/wiki/The_Power_Plant/Transcript)
 - [The Wounded Trapper/Transcript](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper/Transcript)
 - [Trauma/Transcript](https://thelongdark.fandom.com/wiki/Trauma/Transcript)
 - [What One Man Can Do/Transcript](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do/Transcript)
 - [You Fix My Rifle?/Transcript](https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F/Transcript)
-
-### Predux Story Versions
-
-- [Paradise Lost (Predux)](https://thelongdark.fandom.com/wiki/Paradise_Lost_(Predux))
-- [Paradise Lost (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Paradise_Lost_(Predux)/Transcript)
-- [Renewed Hope (Predux)](https://thelongdark.fandom.com/wiki/Renewed_Hope_(Predux))
-- [Renewed Hope (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Renewed_Hope_(Predux)/Transcript)
-- [Survival School (Predux)](https://thelongdark.fandom.com/wiki/Survival_School_(Predux))
-- [Survival School (Predux)/Transcript](https://thelongdark.fandom.com/wiki/Survival_School_(Predux)/Transcript)
-- [The Grey Mother (Predux)](https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux))
-- [The Grey Mother (Predux)/Transcript](https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux)/Transcript)
 
 ### Cut & Discontinued Content
 

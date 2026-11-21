@@ -1038,6 +1038,7 @@ HTML_BLOCK_TAGS = frozenset(
 HTML_TAG_RE = re.compile(r"</?[A-Za-z][A-Za-z0-9._:-]*(?=\s|/?>)[^>]*>")
 HTML_COMMENT_RE = re.compile(r"<!--.*?(?:-->|$)", re.DOTALL)
 HTML_DECLARATION_RE = re.compile(r"<![A-Za-z][^>]*>")
+HTML_HIDDEN_TAGS = frozenset({"base", "head", "link", "meta", "script", "style", "template"})
 
 
 def _contains_html_markup(value: str) -> bool:
@@ -1116,6 +1117,10 @@ def _inline_span_markdown(node: lhtml.HtmlElement, content: str) -> str | None:
         return f"**{content}**" if content else ""
     if "text-decoration:line-through" in style:
         return f"~~{content}~~" if content else ""
+    if "text-decoration:underline" in style:
+        return f"*{content}*" if content else ""
+    if "background-color:" in style or "background:" in style:
+        return f"**{content}**" if content else ""
     return None
 
 
@@ -1217,6 +1222,8 @@ def _unicode_subscript(value: str) -> str:
 def _inline_markdown_element(node: lhtml.HtmlElement) -> str:
     """Convert one inline HTML element to its Markdown equivalent."""
     tag = _html_tag(node)
+    if tag in HTML_HIDDEN_TAGS:
+        return ""
     content = _inline_markdown(node)
     formatted = _inline_markdown_formatting(node, tag, content)
     if formatted is not None:

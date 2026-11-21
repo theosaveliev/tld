@@ -180,7 +180,7 @@ def _check_filename_collisions(
                 "case_insensitive_collision",
                 group,
                 "These filenames differ by case only and can collide on "
-                "the default case-insensitive macOS APFS configuration.",
+                + "the default case-insensitive macOS APFS configuration.",
             )
 
 

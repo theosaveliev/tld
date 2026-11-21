@@ -1035,7 +1035,7 @@ HTML_BLOCK_TAGS = frozenset(
         "search", "section", "summary", "table", "ul",
     }
 )
-HTML_TAG_RE = re.compile(r"</?[A-Za-z][A-Za-z0-9._:-]*(?=\s|/?>)[^>]*>")
+HTML_TAG_RE = re.compile(r"</?(?![A-Za-z][A-Za-z0-9+.-]*://)[A-Za-z][A-Za-z0-9._:-]*(?=\s|/?>)[^>]*>")
 HTML_COMMENT_RE = re.compile(r"<!--.*?(?:-->|$)", re.DOTALL)
 HTML_DECLARATION_RE = re.compile(r"<![A-Za-z][^>]*>")
 HTML_HIDDEN_TAGS = frozenset(

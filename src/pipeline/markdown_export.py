@@ -978,11 +978,10 @@ def _prepare_export(
     missing_mappings = article_titles - title_to_filename.keys()
     extra_mappings = title_to_filename.keys() - article_titles
     if missing_mappings or extra_mappings:
-        raise ValueError(
-            "Filename mapping does not match this dump. "
-            f"Missing mappings: {len(missing_mappings)}; "
-            f"stale mappings: {len(extra_mappings)}."
+        detail = (
+            f"missing {len(missing_mappings)}; stale {len(extra_mappings)}"
         )
+        raise ValueError(f"Filename mapping mismatch: {detail}.")
 
     pages_dir = output_dir / "pages"
     asset_dir = output_dir / "assets"

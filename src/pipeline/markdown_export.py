@@ -36,10 +36,10 @@ NAVBOX_ERROR_LINE_RE = re.compile(
     r"(?im)^.*Lua execution error in Module:Navbox function navbox.*$"
 )
 ITALIC_ASTERISK_RE = re.compile(
-    r"(?<![\\*])\\*(?!\\*)(?P<content>\\S(?:[^*\\n]*?\\S)?)\\*(?!\\*)"
+    r"(?<![\\*])\*(?!\*)(?P<content>\S(?:[^*\n]*?\S)?)\*(?!\*)"
 )
 STRONG_UNDERSCORE_RE = re.compile(
-    r"(?<!_)__(?P<content>\\S(?:[^_\\n]*?\\S)?)__(?!_)"
+    r"(?<!_)__(?P<content>\S(?:[^_\n]*?\S)?)__(?!_)"
 )
 LANGUAGE_INTERWIKI_SCHEME_RE = re.compile(r"^[a-z]{2,3}$")
 BACKTICK = chr(96)
@@ -1430,10 +1430,11 @@ def _inline_markdown_element(node: lhtml.HtmlElement) -> str:
 
 def _markdown_table_cell(cell: lhtml.HtmlElement) -> str:
     """Render a table cell as a single Markdown table row value."""
-    content = _render_html_children(cell)
-    content = re.sub(r"\\\\\\|-\\s*$", "", content)
-    content = re.sub(r"\\s*\\n\\s*", " / ", content).strip()
-    return content.replace("|", r"\\|")
+    content = _render_html_children(cell).rstrip()
+    if content.endswith(r"\|-"):
+        content = content[:-3].rstrip()
+    content = re.sub(r"\s*\n\s*", " / ", content).strip()
+    return content.replace("|", r"\|")
 
 
 def _table_rows(table: lhtml.HtmlElement) -> list[list[lhtml.HtmlElement]]:
@@ -1495,7 +1496,7 @@ def _render_image_layout_cell(value: str) -> str:
     """Separate an image and caption so both render outside a Markdown table."""
     image, separator, caption = value.partition(" / ")
     if separator and image.lstrip().startswith("!["):
-        return image.strip() + ("\\n\\n" + caption.strip() if caption.strip() else "")
+        return image.strip() + ("\n\n" + caption.strip() if caption.strip() else "")
     return value.strip()
 
 
@@ -1543,7 +1544,7 @@ def _render_image_layout_table(rows: list[list[lhtml.HtmlElement]]) -> str:
             for _, value in values
             if (rendered := _render_image_layout_cell(value))
         )
-    return "\\n\\n".join(blocks)
+    return "\n\n".join(blocks)
 
 
 def _render_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
@@ -1618,12 +1619,12 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
         if len(rows) == 1:
             quote = _render_quote_table(rows[0])
             if quote is not None:
-                return f"**{caption}**\\n\\n{quote}" if caption else quote
+                return f"**{caption}**\n\n{quote}" if caption else quote
         if "infobox" in table_classes:
             table = _render_infobox_table(rows)
         else:
             table = _render_generic_table(rows)
-    return f"**{caption}**\\n\\n{table}" if caption else table
+    return f"**{caption}**\n\n{table}" if caption else table
 
 
 def _is_html_block_element(node: lhtml.HtmlElement) -> bool:

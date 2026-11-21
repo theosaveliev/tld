@@ -857,14 +857,10 @@ def _write_conversion_report(report: ExportReport, output_dir: Path) -> None:
     )
 
 
-def _prepare_export(
+def _load_renderer_pipeline(
     dump_path: Path,
-    mapping_path: Path,
-    output_dir: Path,
-    image_dir: Path | None,
-) -> ExportState:
-    """Load the dump context and initialize resources for the export."""
-    title_to_filename = load_filename_mapping(mapping_path)
+) -> tuple[Any, list[DumpPage], dict[str, str], Any, Any, Any, Any]:
+    """Load the existing Fandom renderer helpers and the expanded wiki context."""
     renderer = importlib.import_module("pipeline.wiki_to_html")
     preprocess = getattr(renderer, "prepass")
     postprocess = getattr(renderer, "postexpand")
@@ -873,6 +869,34 @@ def _prepare_export(
     pandoc_selftest = getattr(renderer, "pandoc_selftest")
     context, articles, redirects = _load_wiki_context(dump_path, wtp_factory)
     infobox_defs = load_infobox_defs(context)
+    return (
+        context,
+        articles,
+        redirects,
+        preprocess,
+        postprocess,
+        infobox_defs,
+        pandoc_selftest,
+    )
+
+
+def _prepare_export(
+    dump_path: Path,
+    mapping_path: Path,
+    output_dir: Path,
+    image_dir: Path | None,
+) -> ExportState:
+    """Load the dump context and initialize resources for the export."""
+    title_to_filename = load_filename_mapping(mapping_path)
+    (
+        context,
+        articles,
+        redirects,
+        preprocess,
+        postprocess,
+        infobox_defs,
+        pandoc_selftest,
+    ) = _load_renderer_pipeline(dump_path)
 
     article_titles = {normalize_title(page.title) for page in articles}
     missing_mappings = article_titles - title_to_filename.keys()

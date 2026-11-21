@@ -13,7 +13,6 @@ import sys
 import unicodedata
 import urllib.parse
 import warnings
-from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
 from typing import TYPE_CHECKING, Any, TypedDict, cast
@@ -81,7 +80,7 @@ def normalize_image_name(name: str) -> str:
 
 def _safe_destination(filename: str) -> str:
     """Percent-encode a link destination while retaining filename punctuation."""
-    return urllib.parse.quote(filename, safe="()'!~-._")
+    return urllib.parse.quote(filename, safe="!~-._")
 
 
 def resolve_internal_href(
@@ -156,7 +155,11 @@ def load_filename_mapping(path: Path) -> dict[str, str]:
         ):
             raise ValueError(f"Unsafe Markdown filename for {title!r}: {filename!r}")
         if len(filename.encode("utf-8")) > MAX_FILENAME_BYTES:
-            raise ValueError(f"Filename exceeds {MAX_FILENAME_BYTES} bytes: {filename!r}")
+            raise ValueError(
+                f"Filename exceeds {MAX_FILENAME_BYTES} bytes: {filename!r}"
+            )
+        if any(unicodedata.category(char) == "Cc" for char in filename):
+            raise ValueError(f"Filename contains control characters: {filename!r}")
 
         normalized_title = normalize_title(title)
         folded_filename = unicodedata.normalize("NFC", filename).casefold()
@@ -239,7 +242,7 @@ def _create_wtp() -> Any:
                 raise ModuleNotFoundError(package)
             return str(Path(spec.origin).parent / resource)
 
-        package_resources.resource_filename = resource_filename
+        setattr(package_resources, "resource_filename", resource_filename)
         sys.modules["pkg_resources"] = package_resources
 
     import re as regex_module
@@ -312,7 +315,6 @@ def _run_pandoc(
             "--to",
             target_format,
             "--wrap=none",
-            "--mathml",
         ],
         input=text,
         capture_output=True,
@@ -320,6 +322,24 @@ def _run_pandoc(
         timeout=120,
         check=False,
     )
+    if target_format == "html":
+        result_command = [
+            binary,
+            "--from",
+            source_format,
+            "--to",
+            target_format,
+            "--wrap=none",
+            "--mathml",
+        ]
+        result = subprocess.run(
+            result_command,
+            input=text,
+            capture_output=True,
+            text=True,
+            timeout=120,
+            check=False,
+        )
     if result.returncode:
         raise RuntimeError("Pandoc conversion failed: " + result.stderr.strip()[:1000])
     return result.stdout.strip()

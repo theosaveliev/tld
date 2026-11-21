@@ -1203,29 +1203,65 @@
 
 ## 10. Decorations & Safehouse Items
 
-> The in-game Decorations inventory contains carryable objects that can be placed inside customizable interiors, while this list covers dedicated decoration articles and furniture craftable for Safehouses. The wider Safehouse Customization system affects more than 800 movable, breakable, or craftable objects; fixed containers, appliances, and other environmental fixtures remain under Gameplay → World Objects.
+> Craftable furniture and decorative pieces for customizable Safehouses.
 
-- [Jack-o-Lantern](https://thelongdark.fandom.com/wiki/Jack-o-Lantern)
+### Beds & Seating
 
-### Craftable Decorations
-
-> Furniture and display pieces made for a Safehouse, including mounted fish, decorative art, and storage furniture.
+> Craftable beds and seating for Safehouses.
 
 - [Bear Hide Bed](https://thelongdark.fandom.com/wiki/Bear_Hide_Bed)
+- [Hide Chair](https://thelongdark.fandom.com/wiki/Hide_Chair)
+- [Hide Couch](https://thelongdark.fandom.com/wiki/Hide_Couch)
+- [Quilted Bed](https://thelongdark.fandom.com/wiki/Quilted_Bed)
+- [Rustic Bed](https://thelongdark.fandom.com/wiki/Rustic_Bed)
+- [Rustic Bench](https://thelongdark.fandom.com/wiki/Rustic_Bench)
+- [Rustic Chair](https://thelongdark.fandom.com/wiki/Rustic_Chair)
+- [Rustic Stool](https://thelongdark.fandom.com/wiki/Rustic_Stool)
+
+### Tables & Surfaces
+
+> Craftable tables and display surfaces.
+
+- [Coffee Table](https://thelongdark.fandom.com/wiki/Coffee_Table)
+- [Decorative End Table](https://thelongdark.fandom.com/wiki/Decorative_End_Table)
+- [Round Table](https://thelongdark.fandom.com/wiki/Round_Table)
+- [Rustic End Table](https://thelongdark.fandom.com/wiki/Rustic_End_Table)
+- [Rustic Table](https://thelongdark.fandom.com/wiki/Rustic_Table)
+- [Square Table](https://thelongdark.fandom.com/wiki/Square_Table)
+
+### Storage & Shelving
+
+> Craftable dressers, cupboards, closets, shelves, and storage containers.
+
+- [Dresser](https://thelongdark.fandom.com/wiki/Dresser)
+- [Rustic Closet](https://thelongdark.fandom.com/wiki/Rustic_Closet)
+- [Rustic Cupboard](https://thelongdark.fandom.com/wiki/Rustic_Cupboard)
+- [Rustic Display Shelf](https://thelongdark.fandom.com/wiki/Rustic_Display_Shelf)
+- [Rustic Shelf](https://thelongdark.fandom.com/wiki/Rustic_Shelf)
+- [Rustic Storage Box](https://thelongdark.fandom.com/wiki/Rustic_Storage_Box)
+- [Rustic Storage Trunk](https://thelongdark.fandom.com/wiki/Rustic_Storage_Trunk)
+- [Tall Rustic Closet](https://thelongdark.fandom.com/wiki/Tall_Rustic_Closet)
+- [Tall Rustic Shelf](https://thelongdark.fandom.com/wiki/Tall_Rustic_Shelf)
+- [Wide Display Shelf](https://thelongdark.fandom.com/wiki/Wide_Display_Shelf)
+- [Wide Dresser](https://thelongdark.fandom.com/wiki/Wide_Dresser)
+
+### Wall Art & Displays
+
+> Craftable wall pieces and framed displays.
+
+- [Decorative Art](https://thelongdark.fandom.com/wiki/Decorative_Art)
+- [Decorative Art (2)](https://thelongdark.fandom.com/wiki/Decorative_Art_(2))
+- [Framed Hockey Jersey](https://thelongdark.fandom.com/wiki/Framed_Hockey_Jersey)
+- [Framed Photo](https://thelongdark.fandom.com/wiki/Framed_Photo)
+
+### Carvings & Animal Displays
+
+> Craftable animal figurines, hide décor, and mounted fish.
+
 - [Bear Hide Rug](https://thelongdark.fandom.com/wiki/Bear_Hide_Rug)
 - [Carved Bear Figurine](https://thelongdark.fandom.com/wiki/Carved_Bear_Figurine)
 - [Carved Cougar Figurine](https://thelongdark.fandom.com/wiki/Carved_Cougar_Figurine)
 - [Carved Wolf Figurine](https://thelongdark.fandom.com/wiki/Carved_Wolf_Figurine)
-- [Coffee Table](https://thelongdark.fandom.com/wiki/Coffee_Table)
-- [Decorative Art](https://thelongdark.fandom.com/wiki/Decorative_Art)
-- [Decorative Art (2)](https://thelongdark.fandom.com/wiki/Decorative_Art_(2))
-- [Decorative End Table](https://thelongdark.fandom.com/wiki/Decorative_End_Table)
-- [Dresser](https://thelongdark.fandom.com/wiki/Dresser)
-- [Framed Hockey Jersey](https://thelongdark.fandom.com/wiki/Framed_Hockey_Jersey)
-- [Framed Photo](https://thelongdark.fandom.com/wiki/Framed_Photo)
-- [Hide Chair](https://thelongdark.fandom.com/wiki/Hide_Chair)
-- [Hide Couch](https://thelongdark.fandom.com/wiki/Hide_Couch)
-- [Meat Curing Box](https://thelongdark.fandom.com/wiki/Meat_Curing_Box)
 - [Mounted Burbot](https://thelongdark.fandom.com/wiki/Mounted_Burbot)
 - [Mounted Coho Salmon](https://thelongdark.fandom.com/wiki/Mounted_Coho_Salmon)
 - [Mounted Goldeye](https://thelongdark.fandom.com/wiki/Mounted_Goldeye)
@@ -1234,49 +1270,12 @@
 - [Mounted Red Irish Lord](https://thelongdark.fandom.com/wiki/Mounted_Red_Irish_Lord)
 - [Mounted Rockfish](https://thelongdark.fandom.com/wiki/Mounted_Rockfish)
 - [Mounted Smallmouth Bass](https://thelongdark.fandom.com/wiki/Mounted_Smallmouth_Bass)
-- [Quilted Bed](https://thelongdark.fandom.com/wiki/Quilted_Bed)
-- [Round Table](https://thelongdark.fandom.com/wiki/Round_Table)
-- [Rustic Bed](https://thelongdark.fandom.com/wiki/Rustic_Bed)
-- [Rustic Bench](https://thelongdark.fandom.com/wiki/Rustic_Bench)
-- [Rustic Chair](https://thelongdark.fandom.com/wiki/Rustic_Chair)
-- [Rustic Closet](https://thelongdark.fandom.com/wiki/Rustic_Closet)
-- [Rustic Cupboard](https://thelongdark.fandom.com/wiki/Rustic_Cupboard)
-- [Rustic Display Shelf](https://thelongdark.fandom.com/wiki/Rustic_Display_Shelf)
-- [Rustic End Table](https://thelongdark.fandom.com/wiki/Rustic_End_Table)
-- [Rustic Shelf](https://thelongdark.fandom.com/wiki/Rustic_Shelf)
-- [Rustic Stool](https://thelongdark.fandom.com/wiki/Rustic_Stool)
-- [Rustic Storage Box](https://thelongdark.fandom.com/wiki/Rustic_Storage_Box)
-- [Rustic Storage Trunk](https://thelongdark.fandom.com/wiki/Rustic_Storage_Trunk)
-- [Rustic Table](https://thelongdark.fandom.com/wiki/Rustic_Table)
-- [Square Table](https://thelongdark.fandom.com/wiki/Square_Table)
-- [Tall Rustic Closet](https://thelongdark.fandom.com/wiki/Tall_Rustic_Closet)
-- [Tall Rustic Shelf](https://thelongdark.fandom.com/wiki/Tall_Rustic_Shelf)
-- [Wide Display Shelf](https://thelongdark.fandom.com/wiki/Wide_Display_Shelf)
-- [Wide Dresser](https://thelongdark.fandom.com/wiki/Wide_Dresser)
 
-### Portable Decorations
+### Utility Furniture
 
-> Existing decorative objects that can be picked up and placed elsewhere in a customizable interior.
+> Craftable furnishings with a practical survival function.
 
-- [Basin](https://thelongdark.fandom.com/wiki/Basin)
-- [Bench](https://thelongdark.fandom.com/wiki/Bench)
-- [Broom](https://thelongdark.fandom.com/wiki/Broom)
-- [Chair](https://thelongdark.fandom.com/wiki/Chair)
-- [Display Shelf](https://thelongdark.fandom.com/wiki/Display_Shelf)
-- [Metal Chair](https://thelongdark.fandom.com/wiki/Metal_Chair)
-- [Metal Lamp](https://thelongdark.fandom.com/wiki/Metal_Lamp)
-- [Metal Shelf](https://thelongdark.fandom.com/wiki/Metal_Shelf)
-- [Metal Table](https://thelongdark.fandom.com/wiki/Metal_Table)
-- [Pillow](https://thelongdark.fandom.com/wiki/Pillow)
-- [Table](https://thelongdark.fandom.com/wiki/Table)
-- [Vase](https://thelongdark.fandom.com/wiki/Vase)
-
-### Decoration Overview
-
-> The wiki's overview of the Decorations backpack category and its broader catalogue of placeable objects.
-
-- [Decorations](https://thelongdark.fandom.com/wiki/Decorations)
-
+- [Meat Curing Box](https://thelongdark.fandom.com/wiki/Meat_Curing_Box)
 ## 11. Gameplay
 
 > This section covers the systems, mechanics, activities, and interactions that shape play. Portable inventory items are classified in their relevant functional groups; most fixed objects encountered in the environment belong under World Objects, while crafting workbenches and stations are grouped under Tools & Equipment.
@@ -1787,7 +1786,9 @@
 - [Airplane](https://thelongdark.fandom.com/wiki/Airplane)
 - [Backpack](https://thelongdark.fandom.com/wiki/Backpack)
 - [Barrel](https://thelongdark.fandom.com/wiki/Barrel)
+- [Basin](https://thelongdark.fandom.com/wiki/Basin)
 - [Bed](https://thelongdark.fandom.com/wiki/Bed)
+- [Bench](https://thelongdark.fandom.com/wiki/Bench)
 - [Bin](https://thelongdark.fandom.com/wiki/Bin)
 - [Blackrock Lockers](https://thelongdark.fandom.com/wiki/Blackrock_Lockers)
 - [Branch](https://thelongdark.fandom.com/wiki/Branch)
@@ -1796,6 +1797,7 @@
 - [Broken Metal Control Box](https://thelongdark.fandom.com/wiki/Broken_Metal_Control_Box)
 - [Broken Metal Door](https://thelongdark.fandom.com/wiki/Broken_Metal_Door)
 - [Broken Metal Light Fixture](https://thelongdark.fandom.com/wiki/Broken_Metal_Light_Fixture)
+- [Broom](https://thelongdark.fandom.com/wiki/Broom)
 - [Bus](https://thelongdark.fandom.com/wiki/Bus)
 - [Cabinet](https://thelongdark.fandom.com/wiki/Cabinet)
 - [Cabinet Door](https://thelongdark.fandom.com/wiki/Cabinet_Door)
@@ -1804,6 +1806,7 @@
 - [Cardboard Box](https://thelongdark.fandom.com/wiki/Cardboard_Box)
 - [Cargo Container](https://thelongdark.fandom.com/wiki/Cargo_Container)
 - [Cedar Limb](https://thelongdark.fandom.com/wiki/Cedar_Limb)
+- [Chair](https://thelongdark.fandom.com/wiki/Chair)
 - [Cloth (Object)](https://thelongdark.fandom.com/wiki/Cloth_(Object))
 - [Coal Bin](https://thelongdark.fandom.com/wiki/Coal_Bin)
 - [Computer](https://thelongdark.fandom.com/wiki/Computer)
@@ -1814,6 +1817,7 @@
 - [Curtain](https://thelongdark.fandom.com/wiki/Curtain)
 - [Damaged Track](https://thelongdark.fandom.com/wiki/Damaged_Track)
 - [Deposit Box](https://thelongdark.fandom.com/wiki/Deposit_Box)
+- [Display Shelf](https://thelongdark.fandom.com/wiki/Display_Shelf)
 - [Door](https://thelongdark.fandom.com/wiki/Door)
 - [Drawer](https://thelongdark.fandom.com/wiki/Drawer)
 - [Dryer](https://thelongdark.fandom.com/wiki/Dryer)
@@ -1846,10 +1850,14 @@
 - [Mailbox](https://thelongdark.fandom.com/wiki/Mailbox)
 - [Medical Locker](https://thelongdark.fandom.com/wiki/Medical_Locker)
 - [Medicine Shelf](https://thelongdark.fandom.com/wiki/Medicine_Shelf)
+- [Metal Chair](https://thelongdark.fandom.com/wiki/Metal_Chair)
 - [Metal Container](https://thelongdark.fandom.com/wiki/Metal_Container)
+- [Metal Lamp](https://thelongdark.fandom.com/wiki/Metal_Lamp)
 - [Metal Pail](https://thelongdark.fandom.com/wiki/Metal_Pail)
 - [Metal Pan](https://thelongdark.fandom.com/wiki/Metal_Pan)
 - [Metal Pot](https://thelongdark.fandom.com/wiki/Metal_Pot)
+- [Metal Shelf](https://thelongdark.fandom.com/wiki/Metal_Shelf)
+- [Metal Table](https://thelongdark.fandom.com/wiki/Metal_Table)
 - [Microwave](https://thelongdark.fandom.com/wiki/Microwave)
 - [Oil Tank](https://thelongdark.fandom.com/wiki/Oil_Tank)
 - [Old Bedroll](https://thelongdark.fandom.com/wiki/Old_Bedroll)
@@ -1859,6 +1867,7 @@
 - [Pallet](https://thelongdark.fandom.com/wiki/Pallet)
 - [Pallets](https://thelongdark.fandom.com/wiki/Pallets)
 - [Phone Box](https://thelongdark.fandom.com/wiki/Phone_Box)
+- [Pillow](https://thelongdark.fandom.com/wiki/Pillow)
 - [Plank](https://thelongdark.fandom.com/wiki/Plank)
 - [Planks](https://thelongdark.fandom.com/wiki/Planks)
 - [Plastic Container](https://thelongdark.fandom.com/wiki/Plastic_Container)
@@ -1880,6 +1889,7 @@
 - [Suitcase belonging to Dimitri S.](https://thelongdark.fandom.com/wiki/Suitcase_belonging_to_Dimitri_S.)
 - [Supply Bin](https://thelongdark.fandom.com/wiki/Supply_Bin)
 - [Switch Box](https://thelongdark.fandom.com/wiki/Switch_Box)
+- [Table](https://thelongdark.fandom.com/wiki/Table)
 - [Toaster](https://thelongdark.fandom.com/wiki/Toaster)
 - [Toilet](https://thelongdark.fandom.com/wiki/Toilet)
 - [Towel](https://thelongdark.fandom.com/wiki/Towel)
@@ -1891,6 +1901,7 @@
 - [Truck](https://thelongdark.fandom.com/wiki/Truck)
 - [Trunk](https://thelongdark.fandom.com/wiki/Trunk)
 - [Urn](https://thelongdark.fandom.com/wiki/Urn)
+- [Vase](https://thelongdark.fandom.com/wiki/Vase)
 - [Vegetable Rack](https://thelongdark.fandom.com/wiki/Vegetable_Rack)
 - [Vehicle](https://thelongdark.fandom.com/wiki/Vehicle)
 - [Visor](https://thelongdark.fandom.com/wiki/Visor)
@@ -1902,8 +1913,9 @@
 
 ### Safehouse Systems
 
-> Systems and reference pages for making interiors into Safehouses and customizing them. Individual decorative inventory items and craftable furniture are listed under Decorations & Safehouse Items.
+> Systems and reference pages for designating and customizing Safehouses.
 
+- [Decorations](https://thelongdark.fandom.com/wiki/Decorations)
 - [Safehouse](https://thelongdark.fandom.com/wiki/Safehouse)
 - [Safehouse Customization](https://thelongdark.fandom.com/wiki/Safehouse_Customization)
 - [Safehouse Decoration Box](https://thelongdark.fandom.com/wiki/Safehouse_Decoration_Box)
@@ -1962,6 +1974,7 @@
 - [4 Days of Night Event](https://thelongdark.fandom.com/wiki/4_Days_of_Night_Event)
 - [Custom](https://thelongdark.fandom.com/wiki/Custom)
 - [Interloper](https://thelongdark.fandom.com/wiki/Interloper)
+- [Jack-o-Lantern](https://thelongdark.fandom.com/wiki/Jack-o-Lantern)
 - [Load Screen](https://thelongdark.fandom.com/wiki/Load_Screen)
 - [Map](https://thelongdark.fandom.com/wiki/Map)
 - [Pilgrim](https://thelongdark.fandom.com/wiki/Pilgrim)
@@ -2336,6 +2349,6 @@
 
 - A Location is a named, discoverable point of interest; the in-game first-discovery message is “New location discovered.”
 - Fixed environmental objects and fixtures belong under Gameplay → World Objects; wearable gear and climbing aids belong under Clothing & Climbing Gear.
-- Items in the Decorations inventory, and furniture crafted for Safehouses, belong under Decorations & Safehouse Items. This is distinct from the wider set of fixed objects affected by Safehouse Customization.
+- Craftable Safehouse furniture and decorative pieces belong under Decorations & Safehouse Items; existing environmental objects remain under Gameplay → World Objects.
 - Trader Special Request pages and their quest-only items belong under Gameplay → Trader Quests.
 - Link labels always preserve the exact wiki article title. Taxonomy headings classify pages but never rename them.

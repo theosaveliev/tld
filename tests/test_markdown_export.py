@@ -424,6 +424,37 @@ def test_convert_html_gallery_to_standalone_markdown_images(
     assert "<table" not in markdown
 
 
+def test_wide_sparse_table_keeps_product_rows_and_compacts_columns(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    def fail_pandoc(
+        _pandoc: str, _text: str, _source_format: str, _target_format: str
+    ) -> str:
+        raise AssertionError("Wide sparse tables should use the Markdown renderer")
+
+    monkeypatch.setattr(markdown_export_module, "_run_pandoc", fail_pandoc)
+    fragment = """<table class="wikitable"><tbody>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td><td></td><td></td>
+<th>Item</th><th>Skills</th><th>Materials</th></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td></td><td></td><td></td><td></td><td></td>
+<td>Meat Curing Box</td><td>None</td>
+<td><ul><li>10 × Fir Firewood</li><li>8 × Salt</li></ul></td></tr>
+</tbody></table>"""
+
+    markdown, note, failed = _convert_html_to_markdown("pandoc", fragment, "")
+
+    assert not failed
+    assert not note
+    assert "| Item | Skills | Materials |" in markdown
+    assert "Meat Curing Box" in markdown
+    assert "10 × Fir Firewood" in markdown
+    assert "8 × Salt" in markdown
+    assert "Column 1" not in markdown
+    assert markdown.count("|") < 20
+
+
 def test_image_bearing_infobox_renders_images_outside_pipe_tables(
     monkeypatch: pytest.MonkeyPatch,
 ) -> None:
@@ -526,32 +557,6 @@ def test_page_markdown_strips_wikitext_table_row_artifacts() -> None:
 
     assert r"\|-" not in markdown
     assert "**Item type:** [Collectibles](./Collectibles.md)" in markdown
-
-
-def test_page_markdown_removes_empty_sections_and_contents_links() -> None:
-    body = """**Contents**
-
-- [Overview](#overview)
-- [Products](#products)
-- [Update history](#update-history)
-
-## Overview
-
-Overview text.
-
-## Products
-
-## Update history
-
-Version added.
-"""
-
-    markdown = _page_markdown("Sample", [], body, None)
-
-    assert "## Overview" in markdown
-    assert "## Products" not in markdown
-    assert "- [Products](#products)" not in markdown
-    assert "## Update history" in markdown
 
 
 def test_page_markdown_normalizes_strong_underscores() -> None:

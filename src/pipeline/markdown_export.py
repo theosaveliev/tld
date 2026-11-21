@@ -591,6 +591,7 @@ def _repair_unclosed_mediawiki_tables(text: str) -> tuple[str, int]:
     repaired = text.rstrip() + "\n" + suffix + "\n"
     return repaired, depth
 
+
 def _build_image_index(image_dir: Path | None) -> dict[str, Path]:
     """Index image assets by normalized basename."""
     if image_dir is None or not image_dir.is_dir():
@@ -971,7 +972,10 @@ def _render_mediawiki_html(
         html_fragment = _run_pandoc(pandoc, expanded, "mediawiki", "html")
     except Exception as initial_error:
         repaired_text, repaired_tables = _repair_unclosed_mediawiki_tables(expanded)
-        if "unexpected end of input" in str(initial_error).casefold() and repaired_tables:
+        if (
+            "unexpected end of input" in str(initial_error).casefold()
+            and repaired_tables
+        ):
             try:
                 html_fragment = _run_pandoc(
                     pandoc, repaired_text, "mediawiki", "html"
@@ -1173,7 +1177,9 @@ def _export_one_page(
             else expansion_error
         )
 
-    document = _page_markdown(page.title, categories, conversion.markdown_body, source_url)
+    document = _page_markdown(
+        page.title, categories, conversion.markdown_body, source_url
+    )
     (pages_dir / filename).write_text(document, encoding="utf-8")
     result: PageExportResult = {
         "title": page.title,

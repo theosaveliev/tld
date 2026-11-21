@@ -1262,8 +1262,6 @@
 
 - [Meat Curing Box](https://thelongdark.fandom.com/wiki/Meat_Curing_Box)
 
-> This section covers the systems, mechanics, activities, and interactions that shape play. Portable inventory items are classified in their relevant functional groups; most fixed objects encountered in the environment belong under World Objects, while crafting workbenches and stations are grouped under Tools & Equipment.
-
 ## 11. Needs & Conditions
 
 > Core survivor needs and status measures, including hunger, thirst, fatigue, sleep, warmth, stamina, and overall condition.

@@ -198,11 +198,11 @@ def test_rewrite_html_links_resolves_articles_and_reports_missing_pages(
 ) -> None:
     missing_links: set[str] = set()
     missing_images: set[str] = set()
-    html_fragment = (
-        "<p><a href='Bear'>Bear</a>"
-        + "<a href='Missing page'>Missing page</a>"
-        + "<a href='https://example.com'>External</a></p>"
-    )
+    html_fragment = """<p>
+<a href="Bear">Bear</a>
+<a href="Missing page">Missing page</a>
+<a href="https://example.com">External</a>
+</p>"""
 
     rewritten = _rewrite_html_links(
         html_fragment,

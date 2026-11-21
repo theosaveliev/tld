@@ -1825,6 +1825,7 @@
 - [Memories/Transcript](https://thelongdark.fandom.com/wiki/Memories/Transcript)
 - [The Long Dark/Changelog/Archive 1](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog/Archive_1)
 - [The Long Dark/Changelog/Archive 2](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog/Archive_2)
+
 ## 19. Exploration & Caches
 
 > Cache systems, stash mechanics, and cache-focused discoveries. Named physical cache locations remain under Locations, while Trader quest documents and quest objects are grouped under Trader Quests.

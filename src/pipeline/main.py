@@ -159,6 +159,7 @@ def template_categories(wiki_dump: Path, output_dir: Path) -> None:
 
     click.echo(f"Reports written to {output_dir}", err=True)
 
+
 @cli.command("audit-filenames")
 @click.argument("wiki_dump", type=IN_PATH)
 @click.option(
@@ -193,8 +194,7 @@ def audit_filenames(
     if output_path is not None:
         output_path.parent.mkdir(parents=True, exist_ok=True)
         output_path.write_text(
-            json.dumps(report, ensure_ascii=False, indent=2) + "\n",
-            encoding="utf-8",
+            json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
         )
         click.echo(f"JSON report written to {output_path}")
 

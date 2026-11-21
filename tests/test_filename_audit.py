@@ -25,8 +25,7 @@ def test_audit_finds_case_insensitive_collision() -> None:
 
     assert report["unique_titles"] == 2
     assert any(
-        issue["kind"] == "case_insensitive_collision"
-        for issue in report["issues"]
+        issue["kind"] == "case_insensitive_collision" for issue in report["issues"]
     )
 
 
@@ -72,8 +71,6 @@ def test_extract_page_titles_skips_redirects_and_non_article_namespaces(
     assert titles == ["Bear"]
     assert redirects == 1
 
-    titles_with_redirects, redirects = extract_page_titles(
-        dump, include_redirects=True
-    )
+    titles_with_redirects, redirects = extract_page_titles(dump, include_redirects=True)
     assert titles_with_redirects == ["Bear", "Bear alias"]
     assert redirects == 1

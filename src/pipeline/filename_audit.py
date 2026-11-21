@@ -85,9 +85,7 @@ def extract_page_titles(
         redirect_element = fields.get("redirect")
 
         title = title_element.text if title_element is not None else None
-        namespace = (
-            namespace_element.text if namespace_element is not None else None
-        )
+        namespace = namespace_element.text if namespace_element is not None else None
 
         if title and namespace == "0":
             if redirect_element is not None:
@@ -104,10 +102,7 @@ def extract_page_titles(
 
 
 def _append_issue(
-    issues: list[FilenameIssue],
-    kind: str,
-    affected: list[FilenameMapping],
-    detail: str,
+    issues: list[FilenameIssue], kind: str, affected: list[FilenameMapping], detail: str
 ) -> None:
     """Append one normalized filename audit issue."""
     issues.append(
@@ -133,7 +128,7 @@ def _check_filename_limits(
                 "filename_too_long",
                 [mapping],
                 f"Filename is {encoded_length} UTF-8 bytes; "
-                + f"the portability limit is {MAX_FILENAME_BYTES} bytes.",
+                 f"the portability limit is {MAX_FILENAME_BYTES} bytes.",
             )
 
         controls = [
@@ -169,7 +164,7 @@ def _check_filename_collisions(
                 "filename_collision",
                 group,
                 "Different wiki titles produce the same filename after "
-                + "slash/colon replacement and Unicode NFC normalization.",
+                 "slash/colon replacement and Unicode NFC normalization.",
             )
 
     for group in folded_groups.values():
@@ -180,7 +175,7 @@ def _check_filename_collisions(
                 "case_insensitive_collision",
                 group,
                 "These filenames differ by case only and can collide on "
-                + "the default case-insensitive macOS APFS configuration.",
+                 "the default case-insensitive macOS APFS configuration.",
             )
 
 
@@ -206,9 +201,7 @@ def audit_titles(
     """Build filename mappings and report portability or collision issues."""
     counts = Counter(titles)
     unique_titles = list(dict.fromkeys(titles))
-    duplicate_titles = sorted(
-        title for title, count in counts.items() if count > 1
-    )
+    duplicate_titles = sorted(title for title, count in counts.items() if count > 1)
     mappings: list[FilenameMapping] = [
         {"title": title, "filename": filename_for_title(title)}
         for title in unique_titles
@@ -238,7 +231,5 @@ def audit_dump(
         dump_path, include_redirects=include_redirects
     )
     return audit_titles(
-        titles,
-        redirects_seen=redirects_seen,
-        include_redirects=include_redirects,
+        titles, redirects_seen=redirects_seen, include_redirects=include_redirects
     )

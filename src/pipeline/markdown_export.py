@@ -1172,7 +1172,9 @@ def _defer_uses_material_list_templates(
     return USES_MATERIAL_LIST_RE.sub(defer, text), deferred_tables
 
 
-def _restore_deferred_material_tables(text: str, deferred_tables: dict[str, str]) -> str:
+def _restore_deferred_material_tables(
+    text: str, deferred_tables: dict[str, str]
+) -> str:
     """Restore generated HTML tables after the wikitext expander has finished."""
     for token, table in deferred_tables.items():
         text = text.replace(token, table)

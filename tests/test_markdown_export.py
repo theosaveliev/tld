@@ -12,10 +12,13 @@ from pipeline.markdown_export import (
     RenderStats,
     WikiContext,
     _build_image_index,  # pyright: ignore[reportPrivateUsage]
+    _convert_html_to_markdown,  # pyright: ignore[reportPrivateUsage]
+    _copy_image,  # pyright: ignore[reportPrivateUsage]
     _export_one_page,  # pyright: ignore[reportPrivateUsage]
     _html_fragment_to_markdown,  # pyright: ignore[reportPrivateUsage]
     _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
     _markdown_label,  # pyright: ignore[reportPrivateUsage]
+    _page_markdown,  # pyright: ignore[reportPrivateUsage]
     _portable_asset_name,  # pyright: ignore[reportPrivateUsage]
     _repair_unclosed_mediawiki_tables,  # pyright: ignore[reportPrivateUsage]
     _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
@@ -71,6 +74,37 @@ def test_markdown_label_escapes_punctuation() -> None:
     )
 
 
+def test_page_markdown_has_no_yaml_and_keeps_readable_metadata() -> None:
+    fence = chr(96) * 3
+    body = (
+        "## Gallery\n\n"
+        "*Midnight Badge.*\n\n"
+        "**Lua execution error in Module:Navbox function navbox**"
+        "[ru:4 Days fo Night](ru:4_Days_fo_Night)\n\n"
+        f"{fence}text\n*literal asterisks*\n{fence}\n"
+    )
+    markdown = _page_markdown(
+        "4 Days of Night Event",
+        ["Challenges", "Events"],
+        body,
+        "https://thelongdark.fandom.com",
+    )
+
+    assert markdown.startswith("# 4 Days of Night Event\n")
+    assert not markdown.startswith("---")
+    assert "wiki_namespace:" not in markdown
+    assert "**Categories:** Challenges, Events" in markdown
+    assert (
+        "**Source:** [Fandom]("
+        "https://thelongdark.fandom.com/wiki/4_Days_of_Night_Event)"
+    ) in markdown
+    assert "_Midnight Badge._" in markdown
+    assert "*Midnight Badge.*" not in markdown
+    assert "Lua execution error" not in markdown
+    assert "[ru:4 Days fo Night]" not in markdown
+    assert f"{fence}text\n*literal asterisks*\n{fence}" in markdown
+
+
 def test_normalize_title_matches_mediawiki_title_rules() -> None:
     assert normalize_title("the_long_dark") == "The long dark"
     assert normalize_title("  bear%20meat  ") == "Bear meat"
@@ -115,6 +149,28 @@ def test_image_index_uses_mismatch_directory_as_fallback(tmp_path: Path) -> None
 
     assert 'src="../assets/Wolf.jpg"' in rewritten
     assert (asset_dir / "Wolf.jpg").read_bytes() == b"fallback"
+
+
+def test_copy_image_adds_a_detected_suffix_to_extensionless_jpegs(
+    tmp_path: Path,
+) -> None:
+    image_dir = tmp_path / "images"
+    image_dir.mkdir()
+    source = image_dir / "The_Long_Dark_Image"
+    source.write_bytes(b"\xff\xd8\xff\xe0jpeg data")
+    asset_dir = tmp_path / "workspace" / "assets"
+
+    copied_name = _copy_image(
+        source.name,
+        {normalize_image_name(source.name): source},
+        image_dir,
+        asset_dir,
+        {},
+        {},
+    )
+
+    assert copied_name == "The_Long_Dark_Image.jpg"
+    assert (asset_dir / copied_name).read_bytes() == source.read_bytes()
 
 
 def test_portable_asset_name_sanitizes_and_limits_image_names() -> None:
@@ -340,6 +396,30 @@ def test_html_rewriter_restores_infoboxes_thumbnails_and_section_ids(
     assert (asset_dir / "Bear.png").read_bytes() == b"image"
     assert missing_links == set()
     assert missing_images == set()
+
+
+def test_convert_html_gallery_to_standalone_markdown_images(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    def fail_pandoc(*_args: str) -> str:
+        raise AssertionError("Gallery conversion should use the Markdown renderer")
+
+    monkeypatch.setattr(markdown_export_module, "_run_pandoc", fail_pandoc)
+    fragment = """<table class="gallery"><tbody><tr>
+<td><img src="../assets/Badge.png" alt="Badge" /> /
+<em>Midnight Badge</em></td>
+<td><img src="../assets/Wolf.jpg" alt="Wolf" /> /
+<em>Demon wolf</em></td>
+</tr></tbody></table>"""
+
+    markdown, note, failed = _convert_html_to_markdown("pandoc", fragment, "")
+
+    assert not failed
+    assert not note
+    assert "![Badge](../assets/Badge.png)\n\n_Midnight Badge_" in markdown
+    assert "![Wolf](../assets/Wolf.jpg)\n\n_Demon wolf_" in markdown
+    assert "| Column 1 |" not in markdown
+    assert "<table" not in markdown
 
 
 def test_html_fragment_to_markdown_converts_fandom_elements() -> None:

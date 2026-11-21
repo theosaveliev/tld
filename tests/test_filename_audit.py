@@ -1,10 +1,13 @@
-from pathlib import Path
+from typing import TYPE_CHECKING
 
 from pipeline.filename_audit import (
     audit_titles,
     extract_page_titles,
     filename_for_title,
 )
+
+if TYPE_CHECKING:
+    from pathlib import Path
 
 
 def test_filename_for_title_preserves_names_and_sanitizes_separators() -> None:

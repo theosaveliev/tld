@@ -39,7 +39,7 @@ ITALIC_ASTERISK_RE = re.compile(
     r"(?<![\\*])\*(?!\*)(?P<content>\S(?:[^*\n]*?\S)?)\*(?!\*)"
 )
 STRONG_UNDERSCORE_RE = re.compile(
-    r"(?<!_)__(?P<content>\S(?:[^_\n]*?\S)?)__(?!_)"
+    r"(?<!_)__(?P<content>\S(?:[^\n]*?\S)?)__(?!_)"
 )
 LANGUAGE_INTERWIKI_SCHEME_RE = re.compile(r"^[a-z]{2,3}$")
 BACKTICK = chr(96)

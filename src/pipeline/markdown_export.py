@@ -567,7 +567,7 @@ def _export_one_page(
         status = "ok" if not expansion_error else "expand_failed"
     except Exception as exc:
         conversion_errors = 1
-        markdown_body = "\n".join(" > ".lstrip() + line for line in page.text.splitlines())
+        markdown_body = "\n".join("> " + line for line in page.text.splitlines())
         status = "conversion_failed"
         expansion_error = str(exc)[:300]
 

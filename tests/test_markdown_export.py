@@ -337,6 +337,26 @@ def test_html_fragment_to_markdown_converts_fandom_elements() -> None:
     assert not re.search(r"</?[A-Za-z][A-Za-z0-9-]*(?=\s|/?>)[^>]*>", markdown)
 
 
+def test_html_fragment_to_markdown_converts_custom_wrappers_and_inline_semantics() -> None:
+    fragment = """<fandom-widget>
+<header><h3>Details</h3></header>
+<p><q>Stay warm</q> <abbr title="The Long Dark">TLD</abbr> <mark>Warning</mark></p>
+<custom-card style="display: block"><p>Second block</p></custom-card>
+<!-- This comment is not visible content. -->
+</fandom-widget>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "### Details" in markdown
+    assert "“Stay warm”" in markdown
+    assert "TLD (The Long Dark)" in markdown
+    assert "**Warning**" in markdown
+    assert "Second block" in markdown
+    assert "This comment is not visible content" not in markdown
+    assert not HTML_TAG_RE.search(markdown)
+    assert "<!--" not in markdown
+
+
 def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
     fragment = (
         '<nav><a href="#Section_One">Section One</a></nav>'
@@ -582,6 +602,113 @@ def test_export_normalizes_html_in_direct_source_fallback(
     output = (pages_dir / "Sample.md").read_text(encoding="utf-8")
     assert result["status"] == "raw_fallback"
     assert "**Source fallback** text" in output
+    assert "<p>" not in output
+    assert "<strong>" not in output
+    assert expansion_errors == 0
+    assert conversion_errors == 0
+
+
+def test_export_uses_html_to_markdown_when_direct_source_conversion_fails(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    def fake_pandoc(
+        _pandoc: str, _text: str, source_format: str, target_format: str
+    ) -> str:
+        if source_format == "mediawiki" and target_format == "gfm":
+            raise RuntimeError("simulated direct Markdown failure")
+        if source_format == "mediawiki" and target_format == "html":
+            return "<div><h2>Source fallback</h2><p><strong>Readable</strong> text</p></div>"
+        raise AssertionError("Unexpected Pandoc conversion")
+
+    def fail_postprocess(
+        text: str, categories: list[str], stats: RenderStats
+    ) -> str:
+        _ = (text, categories, stats)
+        raise RuntimeError("simulated postprocess failure")
+
+    monkeypatch.setattr(markdown_export_module, "_run_pandoc", fake_pandoc)
+    pages_dir = tmp_path / "pages"
+    pages_dir.mkdir()
+
+    result, expansion_errors, conversion_errors = _export_one_page(
+        DumpPage("Sample", 0, "wikitext", "original source", None),
+        {"Sample": "Sample.md"},
+        FakeContext(),
+        identity_preprocess,
+        fail_postprocess,
+        {},
+        "pandoc",
+        {},
+        {},
+        None,
+        pages_dir,
+        tmp_path / "assets",
+        {},
+        {},
+        set(),
+        set(),
+        set(),
+        None,
+    )
+
+    output = (pages_dir / "Sample.md").read_text(encoding="utf-8")
+    assert result["status"] == "raw_fallback"
+    assert "## Source fallback" in output
+    assert "**Readable** text" in output
+    assert "<div>" not in output
+    assert "<strong>" not in output
+    assert expansion_errors == 0
+    assert conversion_errors == 0
+
+
+def test_export_strips_html_when_all_pandoc_fallbacks_fail(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    def fail_pandoc(
+        _pandoc: str, _text: str, _source_format: str, _target_format: str
+    ) -> str:
+        raise RuntimeError("simulated Pandoc failure")
+
+    def fail_postprocess(
+        text: str, categories: list[str], stats: RenderStats
+    ) -> str:
+        _ = (text, categories, stats)
+        raise RuntimeError("simulated postprocess failure")
+
+    monkeypatch.setattr(markdown_export_module, "_run_pandoc", fail_pandoc)
+    pages_dir = tmp_path / "pages"
+    pages_dir.mkdir()
+
+    result, expansion_errors, conversion_errors = _export_one_page(
+        DumpPage(
+            "Sample",
+            0,
+            "wikitext",
+            "<p><strong>Readable</strong> source text</p>",
+            None,
+        ),
+        {"Sample": "Sample.md"},
+        FakeContext(),
+        identity_preprocess,
+        fail_postprocess,
+        {},
+        "pandoc",
+        {},
+        {},
+        None,
+        pages_dir,
+        tmp_path / "assets",
+        {},
+        {},
+        set(),
+        set(),
+        set(),
+        None,
+    )
+
+    output = (pages_dir / "Sample.md").read_text(encoding="utf-8")
+    assert result["status"] == "raw_fallback"
+    assert "**Readable** source text" in output
     assert "<p>" not in output
     assert "<strong>" not in output
     assert expansion_errors == 0

@@ -17,8 +17,14 @@ def test_filename_for_title_preserves_names_and_sanitizes_separators() -> None:
         filename_for_title("Episode 1: Do Not Go Gentle")
         == "Episode 1 - Do Not Go Gentle.md"
     )
-    assert filename_for_title("Episode 1:Do Not Go Gentle") == "Episode 1 - Do Not Go Gentle.md"
-    assert filename_for_title("Episode 1:  Do Not Go Gentle") == "Episode 1 - Do Not Go Gentle.md"
+    assert (
+        filename_for_title("Episode 1:Do Not Go Gentle")
+        == "Episode 1 - Do Not Go Gentle.md"
+    )
+    assert (
+        filename_for_title("Episode 1:  Do Not Go Gentle")
+        == "Episode 1 - Do Not Go Gentle.md"
+    )
     assert filename_for_title("You Fix My Rifle?") == "You Fix My Rifle?.md"
 
 

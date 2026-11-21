@@ -1143,51 +1143,78 @@
 
 ## 9. Materials & Crafting Components
 
-> Raw materials, recovered resources, and components used to craft, repair, or maintain other items. A component can belong here even when it is used to construct a workstation.
+> Raw materials, recovered resources, and components used to craft, repair, or maintain other items.
 
-- [Brake Shoe](https://thelongdark.fandom.com/wiki/Brake_Shoe)
-- [Branch](https://thelongdark.fandom.com/wiki/Branch)
-- [Burned Out Fuse](https://thelongdark.fandom.com/wiki/Burned_Out_Fuse)
-- [Car Battery](https://thelongdark.fandom.com/wiki/Car_Battery)
-- [Cedar Limb](https://thelongdark.fandom.com/wiki/Cedar_Limb)
-- [Cloth](https://thelongdark.fandom.com/wiki/Cloth)
-- [Cloth (Object)](https://thelongdark.fandom.com/wiki/Cloth_(Object))
-- [Cougar Claw](https://thelongdark.fandom.com/wiki/Cougar_Claw)
-- [Crow Feather](https://thelongdark.fandom.com/wiki/Crow_Feather)
-- [Cured Birch Sapling](https://thelongdark.fandom.com/wiki/Cured_Birch_Sapling)
-- [Cured Black Bear Hide](https://thelongdark.fandom.com/wiki/Cured_Black_Bear_Hide)
-- [Cured Cougar Hide](https://thelongdark.fandom.com/wiki/Cured_Cougar_Hide)
-- [Cured Deer Hide](https://thelongdark.fandom.com/wiki/Cured_Deer_Hide)
-- [Cured Gut](https://thelongdark.fandom.com/wiki/Cured_Gut)
-- [Cured Leather](https://thelongdark.fandom.com/wiki/Cured_Leather)
-- [Cured Maple Sapling](https://thelongdark.fandom.com/wiki/Cured_Maple_Sapling)
-- [Cured Moose Hide](https://thelongdark.fandom.com/wiki/Cured_Moose_Hide)
-- [Cured Rabbit Pelt](https://thelongdark.fandom.com/wiki/Cured_Rabbit_Pelt)
-- [Cured Wolf Pelt](https://thelongdark.fandom.com/wiki/Cured_Wolf_Pelt)
-- [Dusting Sulfur](https://thelongdark.fandom.com/wiki/Dusting_Sulfur)
-- [Fir Limb](https://thelongdark.fandom.com/wiki/Fir_Limb)
+### Animal Materials
+
+> Animal-derived materials used for crafting, repair, and insulation.
+
+#### Fresh Animal Materials
+
+> Hides and gut harvested from fresh carcasses, before curing.
+
 - [Fresh Black Bear Hide](https://thelongdark.fandom.com/wiki/Fresh_Black_Bear_Hide)
 - [Fresh Cougar Hide](https://thelongdark.fandom.com/wiki/Fresh_Cougar_Hide)
 - [Fresh Deer Hide](https://thelongdark.fandom.com/wiki/Fresh_Deer_Hide)
 - [Fresh Gut](https://thelongdark.fandom.com/wiki/Fresh_Gut)
-- [Fresh Leather](https://thelongdark.fandom.com/wiki/Fresh_Leather)
 - [Fresh Moose Hide](https://thelongdark.fandom.com/wiki/Fresh_Moose_Hide)
 - [Fresh Rabbit Pelt](https://thelongdark.fandom.com/wiki/Fresh_Rabbit_Pelt)
 - [Fresh Wolf Pelt](https://thelongdark.fandom.com/wiki/Fresh_Wolf_Pelt)
-- [Gold Nugget](https://thelongdark.fandom.com/wiki/Gold_Nugget)
-- [Loose Boards](https://thelongdark.fandom.com/wiki/Loose_Boards)
-- [Loose Tree Bark](https://thelongdark.fandom.com/wiki/Loose_Tree_Bark)
-- [Plank](https://thelongdark.fandom.com/wiki/Plank)
-- [Planks](https://thelongdark.fandom.com/wiki/Planks)
+
+#### Cured Animal Materials
+
+> Hides and gut that have finished curing and are ready for use.
+
+- [Cured Black Bear Hide](https://thelongdark.fandom.com/wiki/Cured_Black_Bear_Hide)
+- [Cured Cougar Hide](https://thelongdark.fandom.com/wiki/Cured_Cougar_Hide)
+- [Cured Deer Hide](https://thelongdark.fandom.com/wiki/Cured_Deer_Hide)
+- [Cured Gut](https://thelongdark.fandom.com/wiki/Cured_Gut)
+- [Cured Moose Hide](https://thelongdark.fandom.com/wiki/Cured_Moose_Hide)
+- [Cured Rabbit Pelt](https://thelongdark.fandom.com/wiki/Cured_Rabbit_Pelt)
+- [Cured Wolf Pelt](https://thelongdark.fandom.com/wiki/Cured_Wolf_Pelt)
+
+#### Other Animal Materials
+
+> Other animal-derived crafting resources.
+
+- [Cougar Claw](https://thelongdark.fandom.com/wiki/Cougar_Claw)
+- [Crow Feather](https://thelongdark.fandom.com/wiki/Crow_Feather)
 - [Ptarmigan Down](https://thelongdark.fandom.com/wiki/Ptarmigan_Down)
-- [Replacement Fuse](https://thelongdark.fandom.com/wiki/Replacement_Fuse)
-- [Salt Deposit](https://thelongdark.fandom.com/wiki/Salt_Deposit)
+
+### Gunsmithing Materials
+
+> Materials used to produce gunpowder and ammunition.
+
+- [Dusting Sulfur](https://thelongdark.fandom.com/wiki/Dusting_Sulfur)
 - [Scrap Lead](https://thelongdark.fandom.com/wiki/Scrap_Lead)
-- [Scrap Metal](https://thelongdark.fandom.com/wiki/Scrap_Metal)
 - [Stump Remover](https://thelongdark.fandom.com/wiki/Stump_Remover)
-- [Transponder Parts](https://thelongdark.fandom.com/wiki/Transponder_Parts)
+
+### Mechanical & Electrical Components
+
+> Recovered parts used to repair or construct mechanical, electrical, and transport equipment.
+
+- [Brake Shoe](https://thelongdark.fandom.com/wiki/Brake_Shoe)
+- [Burned Out Fuse](https://thelongdark.fandom.com/wiki/Burned_Out_Fuse)
+- [Car Battery](https://thelongdark.fandom.com/wiki/Car_Battery)
+- [Replacement Fuse](https://thelongdark.fandom.com/wiki/Replacement_Fuse)
+- [Scrap Metal](https://thelongdark.fandom.com/wiki/Scrap_Metal)
 - [Wires](https://thelongdark.fandom.com/wiki/Wires)
 - [Workbench Vice](https://thelongdark.fandom.com/wiki/Workbench_Vice)
+
+### Plant & Sapling Materials
+
+> Prepared saplings used to craft wooden equipment.
+
+- [Cured Birch Sapling](https://thelongdark.fandom.com/wiki/Cured_Birch_Sapling)
+- [Cured Maple Sapling](https://thelongdark.fandom.com/wiki/Cured_Maple_Sapling)
+
+### Textile & Leather Materials
+
+> Flexible materials used to craft and repair clothing and equipment.
+
+- [Cloth](https://thelongdark.fandom.com/wiki/Cloth)
+- [Cured Leather](https://thelongdark.fandom.com/wiki/Cured_Leather)
+- [Fresh Leather](https://thelongdark.fandom.com/wiki/Fresh_Leather)
 
 ## 10. Item Attributes
 
@@ -1575,6 +1602,7 @@
 - [Forest Talker Supplies](https://thelongdark.fandom.com/wiki/Forest_Talker_Supplies)
 - [Forge Blueprints](https://thelongdark.fandom.com/wiki/Forge_Blueprints)
 - [Frontier Shooting Guide (Survival School)](https://thelongdark.fandom.com/wiki/Frontier_Shooting_Guide_(Survival_School))
+- [Gold Nugget](https://thelongdark.fandom.com/wiki/Gold_Nugget)
 - [Great Bear Wolf Behaviour Study](https://thelongdark.fandom.com/wiki/Great_Bear_Wolf_Behaviour_Study)
 - [Grey Mother's Pearls](https://thelongdark.fandom.com/wiki/Grey_Mother's_Pearls)
 - [Handwritten Note](https://thelongdark.fandom.com/wiki/Handwritten_Note)
@@ -1721,6 +1749,7 @@
 - [Torn Paper](https://thelongdark.fandom.com/wiki/Torn_Paper)
 - [Town of Milton](https://thelongdark.fandom.com/wiki/Town_of_Milton)
 - [Transmitters](https://thelongdark.fandom.com/wiki/Transmitters)
+- [Transponder Parts](https://thelongdark.fandom.com/wiki/Transponder_Parts)
 - [Trash Can Letter](https://thelongdark.fandom.com/wiki/Trash_Can_Letter)
 - [Trauma Kit](https://thelongdark.fandom.com/wiki/Trauma_Kit)
 - [Undelivered Letter](https://thelongdark.fandom.com/wiki/Undelivered_Letter)
@@ -1780,6 +1809,7 @@
 - [Bed](https://thelongdark.fandom.com/wiki/Bed)
 - [Bin](https://thelongdark.fandom.com/wiki/Bin)
 - [Blackrock Lockers](https://thelongdark.fandom.com/wiki/Blackrock_Lockers)
+- [Branch](https://thelongdark.fandom.com/wiki/Branch)
 - [Briefcase](https://thelongdark.fandom.com/wiki/Briefcase)
 - [Broken Metal Bed Frame](https://thelongdark.fandom.com/wiki/Broken_Metal_Bed_Frame)
 - [Broken Metal Control Box](https://thelongdark.fandom.com/wiki/Broken_Metal_Control_Box)
@@ -1792,6 +1822,8 @@
 - [Car Trunk](https://thelongdark.fandom.com/wiki/Car_Trunk)
 - [Cardboard Box](https://thelongdark.fandom.com/wiki/Cardboard_Box)
 - [Cargo Container](https://thelongdark.fandom.com/wiki/Cargo_Container)
+- [Cedar Limb](https://thelongdark.fandom.com/wiki/Cedar_Limb)
+- [Cloth (Object)](https://thelongdark.fandom.com/wiki/Cloth_(Object))
 - [Coal Bin](https://thelongdark.fandom.com/wiki/Coal_Bin)
 - [Computer](https://thelongdark.fandom.com/wiki/Computer)
 - [Contraband Storage](https://thelongdark.fandom.com/wiki/Contraband_Storage)
@@ -1806,6 +1838,7 @@
 - [Dryer](https://thelongdark.fandom.com/wiki/Dryer)
 - [Emergency Kit](https://thelongdark.fandom.com/wiki/Emergency_Kit)
 - [File Cabinet](https://thelongdark.fandom.com/wiki/File_Cabinet)
+- [Fir Limb](https://thelongdark.fandom.com/wiki/Fir_Limb)
 - [First Aid Kit](https://thelongdark.fandom.com/wiki/First_Aid_Kit)
 - [Freezer](https://thelongdark.fandom.com/wiki/Freezer)
 - [Fridge](https://thelongdark.fandom.com/wiki/Fridge)
@@ -1826,7 +1859,9 @@
 - [Ladder](https://thelongdark.fandom.com/wiki/Ladder)
 - [Lock Box](https://thelongdark.fandom.com/wiki/Lock_Box)
 - [Locker](https://thelongdark.fandom.com/wiki/Locker)
+- [Loose Boards](https://thelongdark.fandom.com/wiki/Loose_Boards)
 - [Loose Tile](https://thelongdark.fandom.com/wiki/Loose_Tile)
+- [Loose Tree Bark](https://thelongdark.fandom.com/wiki/Loose_Tree_Bark)
 - [Mailbox](https://thelongdark.fandom.com/wiki/Mailbox)
 - [Medical Locker](https://thelongdark.fandom.com/wiki/Medical_Locker)
 - [Medicine Shelf](https://thelongdark.fandom.com/wiki/Medicine_Shelf)
@@ -1843,6 +1878,8 @@
 - [Pallet](https://thelongdark.fandom.com/wiki/Pallet)
 - [Pallets](https://thelongdark.fandom.com/wiki/Pallets)
 - [Phone Box](https://thelongdark.fandom.com/wiki/Phone_Box)
+- [Plank](https://thelongdark.fandom.com/wiki/Plank)
+- [Planks](https://thelongdark.fandom.com/wiki/Planks)
 - [Plastic Container](https://thelongdark.fandom.com/wiki/Plastic_Container)
 - [Pot Belly Stove](https://thelongdark.fandom.com/wiki/Pot_Belly_Stove)
 - [Potato Sack](https://thelongdark.fandom.com/wiki/Potato_Sack)
@@ -1852,6 +1889,7 @@
 - [Recovery Backpack](https://thelongdark.fandom.com/wiki/Recovery_Backpack)
 - [Register](https://thelongdark.fandom.com/wiki/Register)
 - [Safe](https://thelongdark.fandom.com/wiki/Safe)
+- [Salt Deposit](https://thelongdark.fandom.com/wiki/Salt_Deposit)
 - [Shelf](https://thelongdark.fandom.com/wiki/Shelf)
 - [Steam Train](https://thelongdark.fandom.com/wiki/Steam_Train)
 - [Storage Cupboard](https://thelongdark.fandom.com/wiki/Storage_Cupboard)

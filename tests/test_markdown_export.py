@@ -7,6 +7,7 @@ from pipeline.markdown_export import (
     DumpPage,
     _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
     _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
+    _portable_asset_name,  # pyright: ignore[reportPrivateUsage]
     load_filename_mapping,
     normalize_image_name,
     normalize_title,
@@ -26,6 +27,11 @@ def test_normalize_title_matches_mediawiki_title_rules() -> None:
 def test_normalize_image_name_strips_mediawiki_namespace() -> None:
     assert normalize_image_name("File:Bear Meat.png") == "bear_meat.png"
     assert normalize_image_name("../images/BEAR_Meat.png") == "bear_meat.png"
+
+
+def test_portable_asset_name_sanitizes_and_limits_image_names() -> None:
+    assert _portable_asset_name("Bear: Meat.png") == "Bear - Meat.png"
+    assert len(_portable_asset_name("é" * 200 + ".png").encode("utf-8")) <= 255
 
 
 def test_resolve_internal_href_rewrites_local_page_links() -> None:
@@ -59,6 +65,14 @@ def test_resolve_internal_href_preserves_external_links() -> None:
     assert (
         resolve_internal_href("mailto:test@example.com", "Main Page", mapping, {})
         == "mailto:test@example.com"
+    )
+    assert (
+        resolve_internal_href("wikipedia:Bear", "Main Page", mapping, {})
+        == "wikipedia:Bear"
+    )
+    assert (
+        resolve_internal_href("de:Überleben", "Main Page", mapping, {})
+        == "de:Überleben"
     )
 
 

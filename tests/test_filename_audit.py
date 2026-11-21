@@ -76,6 +76,20 @@ def test_audit_finds_long_utf8_filename() -> None:
     assert any(issue["kind"] == "filename_too_long" for issue in report["issues"])
 
 
+def test_collision_suffix_respects_filename_byte_limit() -> None:
+    shared_stem = "é" * 122
+    report = audit_titles([f"{shared_stem}/Foo", f"{shared_stem} — Foo"])
+
+    assert len(report["mappings"]) == 2
+    assert all(
+        len(mapping["filename"].encode("utf-8")) <= 255
+        for mapping in report["mappings"]
+    )
+    assert len(
+        {mapping["filename"].casefold() for mapping in report["mappings"]}
+    ) == 2
+
+
 def test_extract_page_titles_skips_redirects_and_non_article_namespaces(
     tmp_path: Path,
 ) -> None:

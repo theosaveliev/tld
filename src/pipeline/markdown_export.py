@@ -1171,6 +1171,39 @@ def _inline_markdown_formatting(
     return _inline_markdown_semantics(node, tag, content)
 
 
+def _inline_markdown_input(node: lhtml.HtmlElement) -> str:
+    """Convert visible form input into Markdown text or a task-list marker."""
+    input_type = (node.get("type") or "text").casefold()
+    if input_type == "checkbox":
+        return "[x] " if node.get("checked") is not None else "[ ] "
+    if input_type in {"hidden", "password"}:
+        return ""
+    return _markdown_text(node.get("value") or node.get("placeholder") or "")
+
+
+def _inline_markdown_svg(node: lhtml.HtmlElement) -> str:
+    """Use accessible SVG labels instead of retaining inline SVG markup."""
+    label = node.get("aria-label") or node.get("title")
+    title_node = node.find(".//title")
+    if not label and title_node is not None:
+        label = title_node.text_content()
+    return _markdown_text(label or "")
+
+
+def _inline_markdown_embedded_media(
+    node: lhtml.HtmlElement, content: str
+) -> str:
+    """Represent embedded media as a Markdown link when a source is available."""
+    source = node.get("src") or node.get("data")
+    source_node = node.find(".//source")
+    if not source and source_node is not None:
+        source = source_node.get("src")
+    if not source:
+        return content
+    label = content or _markdown_text(node.get("title") or "Embedded media")
+    return f"[{label}]({_markdown_destination(source)})"
+
+
 def _inline_markdown_media(
     node: lhtml.HtmlElement, tag: str, content: str
 ) -> str | None:
@@ -1186,27 +1219,11 @@ def _inline_markdown_media(
     if tag == "br":
         return "  \n"
     if tag == "input":
-        input_type = (node.get("type") or "text").casefold()
-        if input_type == "checkbox":
-            return "[x] " if node.get("checked") is not None else "[ ] "
-        if input_type in {"hidden", "password"}:
-            return ""
-        return _markdown_text(node.get("value") or node.get("placeholder") or "")
+        return _inline_markdown_input(node)
     if tag == "svg":
-        label = node.get("aria-label") or node.get("title")
-        title_node = node.find(".//title")
-        if not label and title_node is not None:
-            label = title_node.text_content()
-        return _markdown_text(label or "")
+        return _inline_markdown_svg(node)
     if tag in {"iframe", "video", "audio", "object", "embed"}:
-        source = node.get("src") or node.get("data")
-        source_node = node.find(".//source")
-        if not source and source_node is not None:
-            source = source_node.get("src")
-        if not source:
-            return content
-        label = content or _markdown_text(node.get("title") or "Embedded media")
-        return f"[{label}]({_markdown_destination(source)})"
+        return _inline_markdown_embedded_media(node, content)
     return None
 
 def _unicode_superscript(value: str) -> str:

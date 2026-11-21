@@ -1178,17 +1178,13 @@ def _restore_deferred_material_tables_in_html(
     """Restore generated tables after Pandoc has converted their safe text tokens."""
     for token, table in deferred_tables.items():
         paragraph = re.compile(
-            rf"<p(?:\s[^>]*)?>\s*{re.escape(token)}\s*</p>",
-            re.IGNORECASE,
+            rf"<p(?:\s[^>]*)?>\s*{re.escape(token)}\s*</p>", re.IGNORECASE
         )
-        def replace_table(
-            _match: re.Match[str], replacement: str = table
-        ) -> str:
+
+        def replace_table(_match: re.Match[str], replacement: str = table) -> str:
             return replacement
 
-        html_fragment, replacements = paragraph.subn(
-            replace_table, html_fragment
-        )
+        html_fragment, replacements = paragraph.subn(replace_table, html_fragment)
         if not replacements:
             html_fragment = html_fragment.replace(token, table)
     return html_fragment
@@ -1226,6 +1222,7 @@ def _expand_page(
         return expanded, str(exc)[:300], 1, deferred_material_tables
 
     return expanded, "", 0, deferred_material_tables
+
 
 def _render_mediawiki_html(
     page: DumpPage,
@@ -1272,6 +1269,7 @@ def _render_mediawiki_html(
         html_fragment, deferred_material_tables or {}
     )
     return html_fragment, "ok", ""
+
 
 def _rewrite_page_html(
     html_fragment: str, page: DumpPage, resources: PageExportResources, note: str
@@ -2223,8 +2221,10 @@ def _export_one_page(
         missing_images=missing_images,
     )
 
-    expanded, expansion_error, expansion_errors, deferred_material_tables = _expand_page(
-        page, context, preprocess, infobox_defs, stats, material_usage_index
+    expanded, expansion_error, expansion_errors, deferred_material_tables = (
+        _expand_page(
+            page, context, preprocess, infobox_defs, stats, material_usage_index
+        )
     )
     conversion = _convert_page_body(
         page,

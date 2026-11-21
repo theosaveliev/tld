@@ -483,9 +483,7 @@ def test_restore_deferred_material_tables_binds_each_table_value() -> None:
         "SECONDTOKEN": '<table id="second"></table>',
     }
 
-    restored = _restore_deferred_material_tables_in_html(
-        html_fragment, deferred_tables
-    )
+    restored = _restore_deferred_material_tables_in_html(html_fragment, deferred_tables)
 
     assert restored == '<table id="first"></table><table id="second"></table>'
 

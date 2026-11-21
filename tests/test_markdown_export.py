@@ -592,8 +592,7 @@ def test_uses_material_list_template_is_replaced_with_recipe_table(
     assert "[Meat Curing Box](./Meat%20Curing%20Box.md)" in markdown
     assert "[Salt](./Salt.md)" in markdown
     assert "8.00 kg" in markdown
-    assert not re.search(r"</?a\\b|<img\\b", markdown, re.IGNORECASE)
-    assert not re.search(r"</?a\b", markdown, re.IGNORECASE)
+    assert not re.search(r"</?a\b|<img\b", markdown, re.IGNORECASE)
     assert "&lt;a" not in markdown
 
 

@@ -84,6 +84,7 @@ class ExportState(TypedDict):
     context: Any
     articles: list[DumpPage]
     redirects: dict[str, str]
+    redirect_count: int
     preprocess: Any
     postprocess: Any
     infobox_defs: Any
@@ -328,23 +329,25 @@ def _iter_dump_pages(path: Path) -> Iterator[DumpPage]:
 
 def _load_wiki_context(
     dump_path: Path, wtp_factory: Any
-) -> tuple[Any, list[DumpPage], dict[str, str]]:
+) -> tuple[Any, list[DumpPage], dict[str, str], int]:
     """Load templates/modules and retain main-namespace article records."""
     context = wtp_factory(quiet=True, num_threads=1)
     articles: list[DumpPage] = []
     redirects: dict[str, str] = {}
+    article_redirects = 0
 
     for page in _iter_dump_pages(dump_path):
         if page.redirect:
             context.add_page("redirect", page.title, page.redirect)
             redirects[normalize_title(page.title)] = page.redirect
+            article_redirects += int(page.namespace == 0)
         else:
             context.add_page(page.model, page.title, page.text)
             if page.namespace == 0:
                 articles.append(page)
 
     context.analyze_templates()
-    return context, articles, redirects
+    return context, articles, redirects, article_redirects
 
 
 def _pandoc_path() -> str:
@@ -601,6 +604,8 @@ def _rewrite_image_nodes(
             placeholder.tail = " " + caption
         parent = image.getparent()
         if parent is not None:
+            placeholder.tail = (" " + caption if caption else "") + (image.tail or "")
+            image.tail = None
             parent.replace(image, placeholder)
 
     _restore_thumbnail_captions(root)
@@ -903,6 +908,7 @@ def _prepare_export(
         postprocess,
         infobox_defs,
         pandoc_selftest,
+        redirect_count,
     ) = _load_renderer_pipeline(dump_path)
 
     article_titles = {normalize_title(page.title) for page in articles}
@@ -926,6 +932,7 @@ def _prepare_export(
         "context": context,
         "articles": articles,
         "redirects": redirects,
+        "redirect_count": redirect_count,
         "preprocess": preprocess,
         "postprocess": postprocess,
         "infobox_defs": infobox_defs,
@@ -987,7 +994,7 @@ def export_dump_to_markdown(
     summary: ExportSummary = {
         "article_pages": len(state["articles"]),
         "exported_pages": len(state["page_results"]),
-        "redirects": len(state["redirects"]),
+        "redirects": state["redirect_count"],
         "expansion_errors": state["expansion_errors"],
         "conversion_errors": state["conversion_errors"],
         "unresolved_links": len(state["missing_links"]),

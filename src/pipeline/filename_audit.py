@@ -127,8 +127,9 @@ def _check_filename_limits(
                 issues,
                 "filename_too_long",
                 [mapping],
-                f"Filename is {encoded_length} UTF-8 bytes; "
-                 f"the portability limit is {MAX_FILENAME_BYTES} bytes.",
+                "Filename is {} UTF-8 bytes; limit is {} bytes.".format(
+                    encoded_length, MAX_FILENAME_BYTES
+                ),
             )
 
         controls = [
@@ -163,8 +164,7 @@ def _check_filename_collisions(
                 issues,
                 "filename_collision",
                 group,
-                "Different wiki titles produce the same filename after "
-                 "slash/colon replacement and Unicode NFC normalization.",
+                "Wiki titles resolve to the same filename after sanitization.",
             )
 
     for group in folded_groups.values():
@@ -174,8 +174,7 @@ def _check_filename_collisions(
                 issues,
                 "case_insensitive_collision",
                 group,
-                "These filenames differ by case only and can collide on "
-                 "the default case-insensitive macOS APFS configuration.",
+                "These filenames differ only by case and may collide on macOS.",
             )
 
 

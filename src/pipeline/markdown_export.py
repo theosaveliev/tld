@@ -518,6 +518,7 @@ def _export_one_page(
     missing_links: set[str],
     missing_images: set[str],
     categories_seen: set[str],
+    source_url: str | None,
 ) -> tuple[PageExportResult, int, int]:
     """Expand and convert one article into its allocated Markdown file."""
     title_key = normalize_title(page.title)
@@ -570,7 +571,7 @@ def _export_one_page(
         status = "conversion_failed"
         expansion_error = str(exc)[:300]
 
-    document = _page_markdown(page.title, categories, markdown_body, None)
+    document = _page_markdown(page.title, categories, markdown_body, source_url)
     (pages_dir / filename).write_text(document, encoding="utf-8")
     result: PageExportResult = {
         "title": page.title,
@@ -675,6 +676,7 @@ def export_dump_to_markdown(
             missing_links,
             missing_images,
             categories_seen,
+            source_url,
         )
         page_results.append(result)
         expansion_errors += page_expansion_errors

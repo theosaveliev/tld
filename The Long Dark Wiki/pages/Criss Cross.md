@@ -7,69 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/Criss_Cross"
 
 # Criss Cross
 
-<div>
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td width="40px"><figure>
-<img src="../assets/Seal_icon.png" loading="lazy" width="30" />
-<figcaption>Seal_icon.png</figcaption>
-</figure></td>
-<td><p><strong>DLC-Exclusive content.</strong><br />
-</p>
-<div style="font-size:0.85em; line-height:1.5em;">
-<p>This content requires the <a href="./Iron%20Road.md" class="wikilink" title="Iron Road">Iron Road</a> addon to be installed before it can be seen or used in regular gameplay.</p>
-</div></td>
-<td><p>|}</p>
-<table class="infobox">
-<caption>Criss Cross</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Criss_Cross.jpg]</span>
-<figcaption>Criss_Cross.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Criss_Cross_Location.png]</span>
-<figcaption>Criss_Cross_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Anna%20Island%20--%20Track%20Section%202.md" class="wikilink" title="Anna Island -- Track Section 2">Anna Island -- Track Section 2</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>2 sets of train tracks with track switchers</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td></td>
-<td><p>Has no shelter|} <strong>Criss Cross</strong> is a location in <a href="./Anna%20Island%20--%20Track%20Section%202.md" class="wikilink" title="Anna Island -- Track Section 2">Anna Island -- Track Section 2</a>.</p>
-<h2 id="Overview">Overview</h2>
-<p>Located in the middle of the map, Criss Cross is a set of 2 parallel tracks with 4 train switch paths. Some Damaged Rails can be found on the side closest to the mountains than can be repaired or avoided.<strong>Lua execution error in Module:Navbox function navbox</strong></p></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| ![](../assets/Seal_icon.png) / *Seal\_icon.png* | **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / **Criss Cross** / \| Property \| Details \| / \| --- \| --- \| / \|  \| ![](../assets/Criss_Cross.jpg) / *Criss\_Cross.jpg* \| / \| **Location** \|  \| / \|  \| ![](../assets/Criss_Cross_Location.png) / *Criss\_Cross\_Location.png* \| / \| Region \| [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)\\|- \| / \| Description \| 2 sets of train tracks with track switchers \| / \| **General** \|  \| / \|  \| Has no shelter\\|} **Criss Cross** is a location in [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md). / ## Overview / Located in the middle of the map, Criss Cross is a set of 2 parallel tracks with 4 train switch paths. Some Damaged Rails can be found on the side closest to the mountains than can be repaired or avoided.**Lua execution error in Module:Navbox function navbox** \| |
+| ![](../assets/Criss_Cross.jpg) / *Criss\_Cross.jpg* |  |  |
+| **Location** |  |  |
+| ![](../assets/Criss_Cross_Location.png) / *Criss\_Cross\_Location.png* |  |  |
+| Region | [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)\|- |  |
+| Description | 2 sets of train tracks with track switchers |  |
+| **General** |  |  |
+|  | Has no shelter\|} **Criss Cross** is a location in [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md). / ## Overview / Located in the middle of the map, Criss Cross is a set of 2 parallel tracks with 4 train switch paths. Some Damaged Rails can be found on the side closest to the mountains than can be repaired or avoided.**Lua execution error in Module:Navbox function navbox** |  |

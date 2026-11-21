@@ -7,39 +7,12 @@ source: "https://thelongdark.fandom.com/wiki/Long_Falls"
 
 # Long Falls
 
-<div>
+**Long Falls**
 
-<table class="infobox">
-<caption>Long Falls</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Long_Falls.png]</span>
-<figcaption>Long_Falls.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Long_Falls_Location.png]</span>
-<figcaption>Long_Falls_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Ash%20Canyon.md" class="wikilink" title="Ash Canyon">Ash Canyon</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Landmark|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Long_Falls.png) / *Long\_Falls.png* |
+| **Location** |  |
+|  | ![](../assets/Long_Falls_Location.png) / *Long\_Falls\_Location.png* |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| Type | Landmark\|- |

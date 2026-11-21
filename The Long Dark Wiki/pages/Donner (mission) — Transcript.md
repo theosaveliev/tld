@@ -6,50 +6,18 @@ source: "https://thelongdark.fandom.com/wiki/Donner_(mission)%2FTranscript"
 
 # Donner \(mission\)/Transcript
 
-<div>
+**Donner (mission)/Transcript**
 
-<table class="infobox">
-<caption>Donner (mission)/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Episode</p></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th colspan="2" class="section"><p><strong>Missions</strong></p></th>
-</tr>
-&#10;<tr>
-<th><p>Previous</p></th>
-<td><p><a href="./The%20Detonators%20%E2%80%94%20Transcript.md" class="wikilink" title="The Detonators/Transcript">The Detonators/Transcript</a></p></td>
-</tr>
-<tr>
-<th><p>Current</p></th>
-<td><p>Donner (mission)/Transcript</p></td>
-</tr>
-<tr>
-<th><p>Region</p></th>
-<td><p><a href="./Blackrock.md" class="wikilink" title="Blackrock Region">Blackrock Region</a></p></td>
-</tr>
-<tr>
-<th><p>Characters</p></th>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a><br />
-<a href="./Mathis.md" class="wikilink" title="Mathis">Mathis</a><br />
-<a href="./Vachon.md" class="wikilink" title="Vachon">Vachon</a><br />
-<a href="./Heller.md" class="wikilink" title="Heller">Heller</a><br />
-<a href="./Jace.md" class="wikilink" title="Jace">Jace</a><br />
-<a href="./Astrid%20Greenwood.md" class="wikilink" title="Astrid Greenwood">Astrid Greenwood</a><br />
-<a href="./Jane%20Yang.md" class="wikilink" title="Jane Yang">Jane Yang</a></p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+| Episode |  |
+| **Missions** |  |
+| Previous | [The Detonators/Transcript](./The%20Detonators%20%E2%80%94%20Transcript.md) |
+| Current | Donner (mission)/Transcript |
+| Region | [Blackrock Region](./Blackrock.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jace](./Jace.md) / [Astrid Greenwood](./Astrid%20Greenwood.md) / [Jane Yang](./Jane%20Yang.md) |
 
-This is the transcript for Chapter 4 <a href="./Donner%20%28mission%29.md" class="wikilink" title="Donner (mission)">Donner (mission)</a> for <a href="./Episode%204%20-%20Fury%2C%20Then%20Silence.md" class="wikilink" title="Episode 4: Fury, Then Silence">Episode 4: Fury, Then Silence</a>.
+This is the transcript for Chapter 4 [Donner (mission)](./Donner%20%28mission%29.md) for [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
 ## Opening
 
@@ -366,7 +334,7 @@ Townsperson One: "Must not be a quarantine breaker then?"
 
 *The two men crouch over Astrid as a voice rings out from afar*
 
-<a href="./Jane%20Yang.md" class="wikilink" title="Jane Yang">Jane Yang</a>: "Is it another one?"
+[Jane Yang](./Jane%20Yang.md): "Is it another one?"
 
 Townsperson One: "This one is different."
 
@@ -398,6 +366,4 @@ Jane Yang: "Astrid. You came. You said you would, and you did. But where is the 
 
 *The credits for the episode role*
 
-The story is to continue in <a href="./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md" class="wikilink" title="Episode 5: The Light At The End Of All Things">Episode 5: The Light At The End Of All Things</a>. **Lua execution error in Module:Navbox function navbox**
-
-</div>
+The story is to continue in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md). **Lua execution error in Module:Navbox function navbox**

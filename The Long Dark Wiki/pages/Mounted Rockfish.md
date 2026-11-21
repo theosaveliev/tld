@@ -7,103 +7,45 @@ source: "https://thelongdark.fandom.com/wiki/Mounted_Rockfish"
 
 # Mounted Rockfish
 
-<div>
+**Mounted Rockfish**
 
-<table class="infobox">
-<caption>Mounted Rockfish</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Mounted_Rockfish_icon.png" loading="lazy" width="250" />
-<figcaption>Mounted_Rockfish_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33" class="wikilink" title="TFTFT Part 6 Broken Silence">TFTFT Part 6 Broken Silence</a></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>0.50 kg (1.1 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Actions</strong></p></td>
-</tr>
-<tr>
-<td><p>Backpack</p></td>
-<td><p>Drop, Place</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Mounted_Rockfish_icon.png) / *Mounted\_Rockfish\_icon.png* |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 0.50 kg (1.1 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
-The **Mounted Rockfish** is a <a href="./Decorations.md" class="wikilink" title="Decorations">Decorations</a> item that can be <a href="./Crafting.md" class="wikilink" title="Crafted">Crafted</a> as part of the <a href="./Safehouse%20Customization.md" class="wikilink" title="Safehouse Customization">Safehouse Customization</a> feature.
+The **Mounted Rockfish** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
 ## Overview
 
-A taxidermized <a href="./Rockfish%20%28Raw%29.md" class="wikilink" title="Rockfish">Rockfish</a> with a makeshift mount, a Mounted Rockfish can be crafted at a <a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a>, but requires <a href="./Woodworking%20Tools.md" class="wikilink" title="Woodworking Tools">Woodworking Tools</a>.
+A taxidermized [Rockfish](./Rockfish%20%28Raw%29.md) with a makeshift mount, a Mounted Rockfish can be crafted at a [Furniture Workbench](./Furniture%20Workbench.md), but requires [Woodworking Tools](./Woodworking%20Tools.md).
 
 Once crafted, the item is automatically placed into the player's inventory. It can only be placed on walls when in Customization Mode. It can later be picked up and placed back into the player's inventory or destroyed (yielding no resources).
 
 ## Crafting
 
-<table class="infobox">
-<caption>Mounted Rockfish</caption>
-<tbody>
-<tr>
-<td colspan="2"><p>-</p></td>
-</tr>
-<tr>
-<td colspan="2"><p>-</p></td>
-</tr>
-<tr>
-<td colspan="2"><p>240 minutes (4 hour 0 minutes)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Requirements</strong></p></td>
-</tr>
-<tr>
-<td><p>Facility</p></td>
-<td><p><strong>Template:iconlink</strong></p></td>
-</tr>
-<tr>
-<td><p>Tool</p></td>
-<td><p><strong>Template:iconlink</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Materials</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Template:iconlink plain</strong></p></td>
-</tr>
-<tr>
-<td><p>Item</p></td>
-<td><p><a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-</tr>
-<tr>
-<td><p>Quantity</p></td>
-<td><p>1</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Template:iconlink plain</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><p><a href="./Rockfish%20%28Raw%29.md" class="wikilink" title="Rockfish (Raw)">Rockfish (Raw)</a></p></td>
-</tr>
-<tr>
-<td colspan="2"><p>1</p></td>
-</tr>
-</tbody>
-</table>
+**Mounted Rockfish**
+
+| Property | Details |
+| --- | --- |
+|  | - |
+|  | - |
+|  | 240 minutes (4 hour 0 minutes) |
+| **Requirements** |  |
+| Facility | **Template:iconlink** |
+| Tool | **Template:iconlink** |
+| **Materials** |  |
+| **Template:iconlink plain** |  |
+| Item | [Fir Firewood](./Fir%20Firewood.md) |
+| Quantity | 1 |
+| **Template:iconlink plain** |  |
+|  | [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) |
+|  | 1 |
 
 ## Update History
 
-**Template:update historyLua execution error in Module:Navbox function navbox**
-
-</div>
+**Template:update history****Lua execution error in Module:Navbox function navbox**

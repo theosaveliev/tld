@@ -6,64 +6,51 @@ source: "https://thelongdark.fandom.com/wiki/The_Long_Dark%2FChangelog%2FArchive
 
 # The Long Dark/Changelog/Archive 2
 
-<div>
-
 **Contents**
 
-- [1.99](#1.99)
-- [1.98 (Perilous Constraint Update)](#1.98_%28Perilous_Constraint_Update%29)
-- [1.97](#1.97)
-- [1.96](#1.96)
-- [1.95 (Fury, Then Silence Update)](#1.95_%28Fury%2C_Then_Silence_Update%29)
-- [1.94](#1.94)
-- [1.93](#1.93)
-- [1.92](#1.92)
-- [1.91](#1.91)
-- [1.89 (Hesitant Prospect Update)](#1.89_%28Hesitant_Prospect_Update%29)
-- [1.88](#1.88)
-- [1.87](#1.87)
-- [1.86](#1.86)
-- [1.83](#1.83)
-- [1.82](#1.82)
-- [1.81](#1.81)
-- [1.80](#1.80)
-- [1.79](#1.79)
-- [1.78](#1.78)
-- [1.77](#1.77)
-- [1.76 (Fearless Navigator Update)](#1.76_%28Fearless_Navigator_Update%29)
-- [1.72](#1.72)
-- [1.71](#1.71)
-- [1.69](#1.69)
-- [1.67](#1.67)
-- [1.66](#1.66)
-- [1.64 (Errant Pilgrim Update)](#1.64_%28Errant_Pilgrim_Update%29)
-- [1.62](#1.62)
-- [1.61](#1.61)
-- [1.60 (Crossroads Elegy Update)](#1.60_%28Crossroads_Elegy_Update%29)
-- [1.56](#1.56)
-- [1.55](#1.55)
-- [1.53](#1.53)
-- [1.52](#1.52)
-- [1.50](#1.50)
+- [1.99](#199)
+- [1.98 (Perilous Constraint Update)](#198-perilous-constraint-update)
+- [1.97](#197)
+- [1.96](#196)
+- [1.95 (Fury, Then Silence Update)](#195-fury-then-silence-update)
+- [1.94](#194)
+- [1.93](#193)
+- [1.92](#192)
+- [1.91](#191)
+- [1.89 (Hesitant Prospect Update)](#189-hesitant-prospect-update)
+- [1.88](#188)
+- [1.87](#187)
+- [1.86](#186)
+- [1.83](#183)
+- [1.82](#182)
+- [1.81](#181)
+- [1.80](#180)
+- [1.79](#179)
+- [1.78](#178)
+- [1.77](#177)
+- [1.76 (Fearless Navigator Update)](#176-fearless-navigator-update)
+- [1.72](#172)
+- [1.71](#171)
+- [1.69](#169)
+- [1.67](#167)
+- [1.66](#166)
+- [1.64 (Errant Pilgrim Update)](#164-errant-pilgrim-update)
+- [1.62](#162)
+- [1.61](#161)
+- [1.60 (Crossroads Elegy Update)](#160-crossroads-elegy-update)
+- [1.56](#156)
+- [1.55](#155)
+- [1.53](#153)
+- [1.52](#152)
+- [1.50](#150)
 
-<div style="float:right; clear:right; margin-bottom:.5em; padding:.5em 0 .8em 1.4em; background:transparent; max-width:20em;">
+This is a changelog for full-release versions of *[The Long Dark](./The%20Long%20Dark.md)* from 1.50 to 1.99.
 
-</div>
+*For the latest changelog, see [The Long Dark/Changelog](./The%20Long%20Dark%20%E2%80%94%20Changelog.md).*
 
-This is a changelog for full-release versions of *<a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark">The Long Dark</a>* from 1.50 to 1.99.
+*For Archive 1 changelog with versions 1.00 to 1.49, see [The\_Long\_Dark/Changelog/Archive\_1](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md).*
 
-  
-<span class="dablink">*For the latest changelog, see <a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md" class="wikilink" title="The Long Dark/Changelog">The Long Dark/Changelog</a>.*</span>
-
-<!-- -->
-
-  
-<span class="dablink">*For Archive 1 changelog with versions 1.00 to 1.49, see <a href="./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md" class="wikilink" title="The_Long_Dark/Changelog/Archive_1">The_Long_Dark/Changelog/Archive_1</a>.*</span>
-
-<!-- -->
-
-  
-<span class="dablink">*For Early Access changelog (pre-v1.00), see <a href="./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md" class="wikilink" title="The_Long_Dark/Early_Access_Changelog">The_Long_Dark/Early_Access_Changelog</a>.*</span>
+*For Early Access changelog (pre-v1.00), see [The\_Long\_Dark/Early\_Access\_Changelog](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md).*
 
 ### 1.99
 
@@ -71,7 +58,7 @@ Released December 14th 2021
 
 We’ve just hotfixed The Long Dark to version 1.99 (87977). This hotfix primarily addresses a potential blocker in Episode Four. Please find the full list below. (NOTE: list may contain spoilers for WINTERMUTE.)
 
-Please don’t forget to visit our Support Portal for useful articles, or if you need to log an issue. To stay up-to-date with news and information about The Long Dark and Hinterland, sign up for our newsletter and follow us on Twitter (Game \| Studio).
+Please don’t forget to visit our Support Portal for useful articles, or if you need to log an issue. To stay up-to-date with news and information about The Long Dark and Hinterland, sign up for our newsletter and follow us on Twitter (Game | Studio).
 
 WINTERMUTE
 
@@ -100,17 +87,17 @@ We just launched our latest update to Survival Mode, called PERILOUS CONSTRAINT.
 
 You can check out more information about the update here:
 
-<https://youtu.be/-AzzG1Iaczw>
+[https://youtu.be/-AzzG1Iaczw](https://youtu.be/-AzzG1Iaczw)
 
 Mod Support in 2022
 
 We’re setting up a small internal team dedicated solely to supporting Modding and User Generated Content at Hinterland. Our initial focus will be on supporting The Long Dark, but we plan for this to be a long-standing investment in time and resources, and the things we learn and the modding community we build with you, will hopefully become a strong foundation of more things to come in future Hinterland games.
 
-As first steps, we’re setting up a Modding & UGC section of the official Hinterland forums. We’ll have dedicated focus from our Community team on this area, so please focus your mod discussions here so we can best support you. We’ve also set up a new email alias, “mods@hinterlandgames.com”, which you can use to contact us with any requests or information you’d like to share.
+As first steps, we’re setting up a Modding &amp; UGC section of the official Hinterland forums. We’ll have dedicated focus from our Community team on this area, so please focus your mod discussions here so we can best support you. We’ve also set up a new email alias, “mods@hinterlandgames.com”, which you can use to contact us with any requests or information you’d like to share.
 
-In the Spring, we’ll be sharing more info about our Creator Hub, which will have documentation, some tools, and other resources for modders, and other types of fan creations for The Long Dark. Until then, we’ll be active in the new Modding & UGC section of the official forums, and we’ll also be proactively reaching out to many of you who have been busy modding the game over the past years. We want to know more about what you need in terms of tool support, documentation, and also to provide you a clear path to communicating with us as we grow this area of The Long Dark’s community.
+In the Spring, we’ll be sharing more info about our Creator Hub, which will have documentation, some tools, and other resources for modders, and other types of fan creations for The Long Dark. Until then, we’ll be active in the new Modding &amp; UGC section of the official forums, and we’ll also be proactively reaching out to many of you who have been busy modding the game over the past years. We want to know more about what you need in terms of tool support, documentation, and also to provide you a clear path to communicating with us as we grow this area of The Long Dark’s community.
 
-Survival Mode Updates in 2022 & Beyond
+Survival Mode Updates in 2022 &amp; Beyond
 
 We’ve been working on a plan for how to tackle ongoing support for Survival Mode between now and Episode Five’s launch, and beyond. I’ll share more details about our plans in the new year, as there are a lot of technical aspects we’re still figuring out. But as a high-level direction, based on the guidance we’ve received from many of you in our player community through our community poll earlier this year -- *and after providing nearly over 7 years of free updates to Survival Mode* -- our plan is to move to a more sustainable paid update path.
 
@@ -124,7 +111,7 @@ What splitting the game into Story and Survival will mean for us is that we’ll
 
 Beyond this, our plan for 2022 and beyond is to introduce some form of a paid update path for Survival Mode. We’re still working out the details of this -- and there are many! -- but our primary goal in developing this strategy is to focus on: 1) fairness to our current players, 2) creating multiple entry-points so that players can opt-in depending on what they want and what they can afford, and 3) long-term sustainability for the development team.
 
-Part of our update plans also include how to handle next-gen visual enhancements. Thus far the only way to play The Long Dark on Xbox Series X\|S, or PlayStation 5, has been through backwards compatibility. We want to create some next-gen native visual enhancements that really capitalize on the greater processing power and memory in the new consoles, and also on high-end PC, but again because of how our game is structured -- and because of how the platforms prefer developers to handle this content -- it’s been tough to reconcile the dev work required to make these changes with the impact they would have to our bottom line. We think we have a good plan for this and we’ll share more news about our approach and the list of enhancements we’re tackling at the same time we roll out more details about the paid update path for Survival Mode.
+Part of our update plans also include how to handle next-gen visual enhancements. Thus far the only way to play The Long Dark on Xbox Series X|S, or PlayStation 5, has been through backwards compatibility. We want to create some next-gen native visual enhancements that really capitalize on the greater processing power and memory in the new consoles, and also on high-end PC, but again because of how our game is structured -- and because of how the platforms prefer developers to handle this content -- it’s been tough to reconcile the dev work required to make these changes with the impact they would have to our bottom line. We think we have a good plan for this and we’ll share more news about our approach and the list of enhancements we’re tackling at the same time we roll out more details about the paid update path for Survival Mode.
 
 And just to be crystal clear -- none of these changes will have any impact on the delivery of Episode Five. This will still be free for all existing customers. If you own The Long Dark, you will not have to pay extra for Episode Five.
 
@@ -160,7 +147,7 @@ There are also a couple of known issues affected players should be aware of:
 
 For more information, please read this month’s Dev Diary, watch the update video, and review the list of changes below.
 
-Don’t forget to visit our Support Portal for useful articles, or if you need to log an issue. To stay up-to-date with news and information about The Long Dark and Hinterland, sign up for our newsletter and follow us on Twitter (Game \| Studio).
+Don’t forget to visit our Support Portal for useful articles, or if you need to log an issue. To stay up-to-date with news and information about The Long Dark and Hinterland, sign up for our newsletter and follow us on Twitter (Game | Studio).
 
 ART, ENVIRO, and UI
 
@@ -186,7 +173,7 @@ WINTERMUTE
 - \[Ep3\] Fixed a bug that caused the UI to disappear after exiting various sequences, such as a phone call or a dialogue sequence.
 - \[Dialogue\] Fixed an issue that caused the text to appear distorted during a dialogue sequence.
 
-\### END OF RELEASE NOTES \###
+### END OF RELEASE NOTES ###
 
 ### 1.97
 
@@ -219,7 +206,7 @@ ART, ENVIRO, and UI
 - \[Environment\] Moved the “Danger Electric Cables Over-Head” warning sign in the Steam Tunnel to make it more visible.
 - \[Environment\] Fixed numerous floating or clipping objects throughout the Blackrock Region.
 - \[Environment\] Fixed an issue where the water splash sound effect was missing when walking through water found in the Abandoned Mine.
-- \[UI\] Fixed an issue in the Journal’s exit button on the Collections -\> Surveyed Locations screen so Players no longer need to change to a different screen to exit.
+- \[UI\] Fixed an issue in the Journal’s exit button on the Collections -&gt; Surveyed Locations screen so Players no longer need to change to a different screen to exit.
 - \[UI\] Fixed an issue preventing the Region displayed on the Map from updating correctly when using a cave to transition to a new Region.
 - \[UI\] Fixed an issue where the Mission Status tab would not reflect the state of the current active mission.
 - \[UI\] Tuned the icons on the Map screen so Mission Markers are sorted above other Map Markers.
@@ -262,8 +249,8 @@ WINTERMUTE
 - \[Episode Three\] Fixed an issue that would prevent the Player from being able to progress if they saved the game right before answering the Phone at the burnt-out cabin, then reloaded the save during the Phone Call.
 - \[Episode Three\] Fixed an issue so that removing the fuse now correctly disables both the electrical visual and sound effects during Aftermath.
 - \[Episode Three\] Tuned the mission complete percentage to be more accurate during Forest Talker.
-- \[Episode Three\] HUD will no longer remain disabled after speaking to Molly.  
-- \[Episode Four\] Fixed an issue where the final gauge could appear at full pressure when the valves were still incorrectly set during Steam Valve Puzzle \#1.
+- \[Episode Three\] HUD will no longer remain disabled after speaking to Molly.
+- \[Episode Four\] Fixed an issue where the final gauge could appear at full pressure when the valves were still incorrectly set during Steam Valve Puzzle #1.
 - \[Episode Four\] Fixed an issue that caused the interaction point on the Valve to shift if the Player entered the tunnels, then returned to the Valves during The Detonators.
 - \[Episode Four\] Fixed an issue where weapons and gear were not confiscated properly after completing The Detonators.
 - \[Episode Four\] Added safeguards to help prevent the Player from dropping the Bolt Cutters into unreachable locations in The Detonators.
@@ -278,7 +265,7 @@ PLAYSTATION 4
 
 WINDOWS 7
 
-- \[General\]  Fixed an issue where players using Windows 7 would become stuck on an unskippable black screen when playing an in-game video, such as the opening credits.
+- \[General\] Fixed an issue where players using Windows 7 would become stuck on an unskippable black screen when playing an in-game video, such as the opening credits.
 
 MAC
 
@@ -310,15 +297,15 @@ We hope you enjoy the experience we have created for you, and on behalf of the e
 
 All the best, and safe travels.
 
-\- Raphael
+- Raphael
 
 *The Long Dark, Episode Four: FURY, THEN SILENCE is available now on Steam, Xbox, PlayStation, Epic Games Store, and Nintendo Switch. Watch the full trailer below.*
 
-<https://youtu.be/-AzzG1Iaczw>
+[https://youtu.be/-AzzG1Iaczw](https://youtu.be/-AzzG1Iaczw)
 
 **External Links**
 
-- [Episode Four is Here - Launch Day & Trailer](https://hinterlandforums.com/forums/topic/40446-episode-four-is-here-launch-day-trailer/)
+- [Episode Four is Here - Launch Day &amp; Trailer](https://hinterlandforums.com/forums/topic/40446-episode-four-is-here-launch-day-trailer/)
 
 ### 1.94
 
@@ -418,8 +405,6 @@ Released 19 Dec 2020
 - [Steam - The Long Dark Hotfixed to v1.92](https://steamcommunity.com/games/305620/announcements/detail/2901972025486162121)
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.92](https://hinterlandforums.com/forums/topic/38727-the-long-dark-hotfixed-to-v192-70699/)
 
-\
-
 ### 1.91
 
 Released 16 Dec 2020
@@ -432,7 +417,6 @@ Released 16 Dec 2020
 
 - [Hinterland Forums - The Long Dark -- Hotfix to 1.91](https://hinterlandforums.com/forums/topic/38700-the-long-dark-hotfixed-to-v191-70384/)
 
-\
 ===1.90=== Released 10 Dec 2020
 
 **GENERAL FIXES**
@@ -603,7 +587,7 @@ GENERAL
 
 Released 29 Oct 2020
 
-- Added ESCAPE THE DARKWALKER Content & Event.
+- Added ESCAPE THE DARKWALKER Content &amp; Event.
 
 **External Links**
 
@@ -639,8 +623,6 @@ GENERAL ART FIXES
 - \[Enviro\] Fixed the missing textures on several logs found throughout the game.
 - \[Enviro\] Fixed texture visible seams found in the Echo One Control Tower.
 
-<!-- -->
-
 - \[UI\] Fixed issue that would cause the Hunger/Thirst indicators to be hidden if subtitles triggered at the same time.
 - \[UI\] Map Filter Labels will now only appear when selected.
 
@@ -665,8 +647,6 @@ GENERAL ART FIXES
 
 - \[Enviro\] Fixed large sheet of ice blocking the cave entrance found at the top of Timberwolf Mountain.
 - \[Enviro\] Fixed missing computer monitor that contained a Buffer Memory, found in the Camp Office.
-
-<!-- -->
 
 - \[Enviro\] Fixed missing computer monitor that containted a Buffer Memory, found in the Rural Store.
 
@@ -693,7 +673,7 @@ GENERAL FIXES
 
 Released 27 June 2020
 
-- Added WINTER’S EMBRACE Content & Event.
+- Added WINTER’S EMBRACE Content &amp; Event.
 
 GENERAL FIXES
 
@@ -851,13 +831,13 @@ Hard to find Polaroids in the world indicate locations that offer sweeping Vista
 
 The Charcoal Survey action now reveals an enhanced radius on the Map. Surveying from higher altitudes now increases how much of the Map is revealed.
 
-**MAP & JOURNAL IMPROVEMENTS**
+**MAP &amp; JOURNAL IMPROVEMENTS**
 
 Turn layers of information on and off in the Map. Locate and rename Rock Caches. Keep track of all Surveyed locations to know if you’ve found them all. Especially useful if you are hunting locations for the Faithful Cartographer achievement.
 
-**TELEMETRY & QUALITY OF LIFE**
+**TELEMETRY &amp; QUALITY OF LIFE**
 
-New Autowalk accessibility feature ensures comfort for players with hand or wrist issues. New Opt-in Telemetry gathers gameplay data the development team will use to inform future balance and feature development efforts (Note: Telemetry is defaulted to OFF and needs to be turned on in the Options\>Privacy settings.)
+New Autowalk accessibility feature ensures comfort for players with hand or wrist issues. New Opt-in Telemetry gathers gameplay data the development team will use to inform future balance and feature development efforts (Note: Telemetry is defaulted to OFF and needs to be turned on in the Options&gt;Privacy settings.)
 
 …in addition to the dozens of general improvements listed below.
 
@@ -901,7 +881,7 @@ These are issues we’re currently tracking and will be addressing in an upcomin
 - \[UI\] Added missing Map icons found in the Town of Milton.
 - \[UI\] Added missing Map icon hover text, when viewing the Derailment in the Ravine Crummy.
 - \[UI\] Fixed missing UI elements when viewing notes, while the HUD is disabled.
-- \[UI\] Fixed an incorrect tooltip found in Options-\>Display menu.
+- \[UI\] Fixed an incorrect tooltip found in Options-&gt;Display menu.
 - \[UI\] Cooking UI now displays updated weight of items, instead of always showing the base weight.
 - \[UI\] Added Audio options for selecting Headphones or Speakers.
 - \[UI\] Fixed incorrectly named transitions areas on the Bleak Inlet Map.
@@ -1384,7 +1364,7 @@ USER INTERFACE FIXES
 
 WINTERMUTE FIXES
 
-- \[WINTERMUTE\] Fixed a typo in the “Mystery Lake & Area” pamphlet Knowledge Item.
+- \[WINTERMUTE\] Fixed a typo in the “Mystery Lake &amp; Area” pamphlet Knowledge Item.
 - \[WINTERMUTE\] Fixed issue that kept the Reishi Mushroom tooltip from appearing after collecting Reishi Mushrooms.
 - \[WINTERMUTE\] Fixed issue causing the Journal shortcut to remain visible on-screen when Sleeping after the plane crash in Episode One.
 
@@ -1421,5 +1401,3 @@ Released 14 May 2019
 
 - [Steam - The Long Dark -- Hotfixed to v1.50](https://steamcommunity.com/games/305620/announcements/detail/1619518761251320806)
 - [Hinterland Forums - The Long Dark -- Hotfixed to v1.50](http://www.hinterlandforums.com/forums/topic/23022-the-long-dark-hotfixed-to-v150-48029/)
-
-</div>

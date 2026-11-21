@@ -7,60 +7,27 @@ source: "https://thelongdark.fandom.com/wiki/Fallen_Star%2FTranscript"
 
 # Fallen Star/Transcript
 
-<div>
-
 **Contents**
 
-- [Transcript](#Transcript)
-- [Locate the downed airliner.](#Locate_the_downed_airliner.)
-- [Find the passenger IDs. \[0/10\] Find Insulin for Dimitri.](#Find_the_passenger_IDs._%5B0%2F10%5D_Find_Insulin_for_Dimitri.)
-- [Bring Gwen to the Community Hall.](#Bring_Gwen_to_the_Community_Hall.)
-- [Talk to Father Thomas.](#Talk_to_Father_Thomas.)
+- [Transcript](#transcript)
+- [Locate the downed airliner.](#locate-the-downed-airliner)
+- [Find the passenger IDs. \[0/10\] Find Insulin for Dimitri.](#find-the-passenger-ids-010-find-insulin-for-dimitri)
+- [Bring Gwen to the Community Hall.](#bring-gwen-to-the-community-hall)
+- [Talk to Father Thomas.](#talk-to-father-thomas)
 
-<table class="infobox">
-<caption>Fallen Star/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Missions_story_ep3_Triage.png" loading="lazy" width="250" />
-<figcaption>Missions_story_ep3_Triage.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%203%20-%20Crossroads%20Elegy.md" class="wikilink" title="Episode 3">Episode 3</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./Trauma%20%E2%80%94%20Transcript.md" class="wikilink" title="Trauma/Transcript">Trauma/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>Fallen Star/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./Coming%20Storm%20%E2%80%94%20Transcript.md" class="wikilink" title="Coming Storm/Transcript">Coming Storm/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Astrid%20Greenwood.md" class="wikilink" title="Astrid Greenwood">Astrid Greenwood</a> <a href="./Father%20Thomas.md" class="wikilink" title="Father Thomas">Father Thomas</a><br />
-<a href="./Crash%20Survivor.md" class="wikilink" title="Crash Survivor">Crash Survivor</a><br />
-<a href="./Molly.md" class="wikilink" title="Molly">Molly</a><br />
-<a href="./Jane%20Yang.md" class="wikilink" title="Jane Yang">Jane Yang</a> (flashback)</p></td>
-</tr>
-</tbody>
-</table>
+**Fallen Star/Transcript**
 
-This is the mission transcript for mission 2 <a href="./Fallen%20Star.md" class="wikilink" title="Fallen Star">Fallen Star</a> of <a href="./Episode%203%20-%20Crossroads%20Elegy.md" class="wikilink" title="Episode 3: Crossroads Elegy">Episode 3: Crossroads Elegy</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Missions_story_ep3_Triage.png) / *Missions\_story\_ep3\_Triage.png* |
+| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Previous | [Trauma/Transcript](./Trauma%20%E2%80%94%20Transcript.md) |
+| Current | Fallen Star/Transcript |
+| Next | [Coming Storm/Transcript](./Coming%20Storm%20%E2%80%94%20Transcript.md) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
+| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) [Father Thomas](./Father%20Thomas.md) / [Crash Survivor](./Crash%20Survivor.md) / [Molly](./Molly.md) / [Jane Yang](./Jane%20Yang.md) (flashback) |
+
+This is the mission transcript for mission 2 [Fallen Star](./Fallen%20Star.md) of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
 ## Transcript
 
@@ -68,7 +35,7 @@ CHAPTER TWO
 
 FALLEN STAR
 
-*Astrid begins diagnosing the <a href="./Crash%20Survivor.md" class="wikilink" title="Crash Survivors">Crash Survivors</a> on the floor. Upon diagnosing one of them, Astrid will say one of the following lines:*
+*Astrid begins diagnosing the [Crash Survivors](./Crash%20Survivor.md) on the floor. Upon diagnosing one of them, Astrid will say one of the following lines:*
 
 - Astrid: "Let me have a look, OK?"
 - Astrid: "Easy, I'm just gonna see if I can help."
@@ -77,7 +44,7 @@ FALLEN STAR
 - Astrid: "This might be serious."
 - Astrid: "I'm going to check you over."
 
-*Astrid kneels down to many of the survivors, checking temperature by placing the back of her palm on some of the survivor's foreheads, while merely looking at others. Most survivors are in good shape, and do not need attention. One survivor however has a Diabetes bracelet, and is suffering from <a href="./Hyperglycemic%20Risk.md" class="wikilink" title="Hyperglycemic Risk">Hyperglycemic Risk</a>.*
+*Astrid kneels down to many of the survivors, checking temperature by placing the back of her palm on some of the survivor's foreheads, while merely looking at others. Most survivors are in good shape, and do not need attention. One survivor however has a Diabetes bracelet, and is suffering from [Hyperglycemic Risk](./Hyperglycemic%20Risk.md).*
 
 *After diagnosing all the survivors, Astrid returns to speak with Father Thomas*
 
@@ -129,7 +96,7 @@ Astrid: "I'll do what I can to find IDs...documents...anything that can help ide
 
 Father Thomas: "In turn, take this, my child."
 
-*Father Thomas produces a <a href="./Rosary.md" class="wikilink" title="Rosary">Rosary</a> and tries to hand it to Astrid*
+*Father Thomas produces a [Rosary](./Rosary.md) and tries to hand it to Astrid*
 
 Astrid: "Oh um...I'm...I'm not religious. Please, keep it."
 
@@ -149,7 +116,7 @@ Father Thomas: "Perhaps in the end, faith is all we have."
 
 *Just as Astrid is about to leave the Community Hall, a phone rings at the entrance. Astrid picks it up.*
 
-<a href="./Molly.md" class="wikilink" title="Molly">Molly</a>: "So...you're still alive."
+[Molly](./Molly.md): "So...you're still alive."
 
 Astrid: "So far, yeah. But there are people in town who won't be if I don't get going."
 
@@ -185,7 +152,7 @@ Molly: "Watch out for those wolves."
 
 Astrid: "That can't be good..."
 
-*A <a href="./Timberwolf.md" class="wikilink" title="Timberwolf">Timberwolf</a> pack attacks her, and she has a variety of reactions to the situation as the battle goes on*
+*A [Timberwolf](./Timberwolf.md) pack attacks her, and she has a variety of reactions to the situation as the battle goes on*
 
 - Astrid: "Think, Astrid, think."
 - Astrid: "Wha?"
@@ -212,7 +179,7 @@ Astrid: "These poor people...nothing but wreckage."
 
 Astrid: "Looks like the plane's passenger manifest."
 
-*She finally reaches the tail section, and a single crow perches nearby before flying away when approaches. Astrid finds a suitcase with a name on it "<a href="./Suitcase%20belonging%20to%20Dimitri%20S..md" class="wikilink" title="Suitcase belonging to Dimitri S.">Suitcase belonging to Dimitri S.</a>" and finds the Insulin inside*
+*She finally reaches the tail section, and a single crow perches nearby before flying away when approaches. Astrid finds a suitcase with a name on it "[Suitcase belonging to Dimitri S.](./Suitcase%20belonging%20to%20Dimitri%20S..md)" and finds the Insulin inside*
 
 Astrid: "Found it!"
 
@@ -246,7 +213,7 @@ Astrid: "Huh...interesting. I wonder..."
 
 Astrid: "Damn it..." *Answers the phone* "Sleep Research Centre. Doctor Greenwood speaking."
 
-<a href="./Jane%20Yang.md" class="wikilink" title="Astrid&#39;s Friend">Astrid's Friend</a>: "Did you get it?"
+[Astrid's Friend](./Jane%20Yang.md): "Did you get it?"
 
 *Astrid looks over her desk in fear*
 
@@ -298,9 +265,9 @@ Astrid: "I'm sorry...I'm so sorry. I know you're in pain...and you just want it 
 
 ## Bring Gwen to the Community Hall.
 
-*Having found the Insulin and all the IDs, Astrid treats Gwen's <a href="./Blood%20Loss.md" class="wikilink" title="Blood Loss">Blood Loss</a> and picks her up. Gwen and Astrid may say many lines regarding their situation, which can be found here: <a href="./Survivor%20Monologue.md" class="wikilink" title="Survivor Monologue">Survivor Monologue</a>*
+*Having found the Insulin and all the IDs, Astrid treats Gwen's [Blood Loss](./Blood%20Loss.md) and picks her up. Gwen and Astrid may say many lines regarding their situation, which can be found here: [Survivor Monologue](./Survivor%20Monologue.md)*
 
-*Gwen is dangerously cold, and Astrid starts the journey of carrying her back to the Community Hall. Astrid carries Gwen to <a href="./Burned%20Ridge%20Cave.md" class="wikilink" title="Burned Ridge Cave">Burned Ridge Cave</a> and puts her down, then* *starts a fire to warm her up, and diagnoses her.* *After warming up and making it out of the cave, then later traveling down the mountain and across a tree bridge, a Receiver rings inside an abandoned, destroyed house. Astrid puts Gwen down and answers it*
+*Gwen is dangerously cold, and Astrid starts the journey of carrying her back to the Community Hall. Astrid carries Gwen to [Burned Ridge Cave](./Burned%20Ridge%20Cave.md) and puts her down, then* *starts a fire to warm her up, and diagnoses her.* *After warming up and making it out of the cave, then later traveling down the mountain and across a tree bridge, a Receiver rings inside an abandoned, destroyed house. Astrid puts Gwen down and answers it*
 
 Astrid: "Hello?"
 
@@ -392,6 +359,4 @@ Astrid: "Prayer's your thing, Father. You handle that. Between the plane crash a
 
 Father Thomas: "May God watch over you, my child."
 
-The story continues in <a href="./Coming%20Storm%20%E2%80%94%20Transcript.md" class="wikilink" title="Coming Storm">Coming Storm</a>. **Lua execution error in Module:Navbox function navbox**
-
-</div>
+The story continues in [Coming Storm](./Coming%20Storm%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**

@@ -7,53 +7,35 @@ source: "https://thelongdark.fandom.com/wiki/Thirst"
 
 # Thirst
 
-<div>
-
 **Contents**
 
-- [Thirst bar](#Thirst_bar)
-- [Food and drink](#Food_and_drink)
-- [Thirst bar depletion](#Thirst_bar_depletion)
-- [Interloper difficulty](#Interloper_difficulty)
-- [Voyageur and Stalker difficulty](#Voyageur_and_Stalker_difficulty)
-- [Pilgrim difficulty](#Pilgrim_difficulty)
-- [Affecting condition](#Affecting_condition)
-- [Character quotes](#Character_quotes)
-- [Trivia](#Trivia)
+- [Thirst bar](#thirst-bar)
+- [Food and drink](#food-and-drink)
+- [Thirst bar depletion](#thirst-bar-depletion)
+- [Interloper difficulty](#interloper-difficulty)
+- [Voyageur and Stalker difficulty](#voyageur-and-stalker-difficulty)
+- [Pilgrim difficulty](#pilgrim-difficulty)
+- [Affecting condition](#affecting-condition)
+- [Character quotes](#character-quotes)
+- [Trivia](#trivia)
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="vertical-align: top; font-size: 3em; color: #5d5980; padding-right: 10px"><p>“</p></td>
-<td><p><span style="font-style:italic">A quick way to lose Condition. Keep Water on hand to quench your thirst.</span></p>
-<div style="clear:both">
-&#10;</div>
-<div style="float:right; font-size:9pt">
-<p>In-game description</p>
-</div></td>
-<td style="vertical-align: bottom; font-size: 3em; color: #5d5980; padding-left: 10px"><p>”</p></td>
-</tr>
-</tbody>
-</table>
+> “**A quick way to lose Condition. Keep Water on hand to quench your thirst.**”
+>
+> — In-game description
 
-<span class="thumb"><img src="../assets/Thirst_icon.png" loading="lazy" width="220" /></span> **Thirst** is one of the four essential <a href="./Needs.md" class="wikilink" title="needs">needs</a>. Thirst is a measure of how many liquids the player consumes and expends. Despite being surrounded by snow, liquids can be difficult to acquire, and are particularly heavy. The thirst need is fulfilled by consuming <a href="./Water%20%28Potable%29.md" class="wikilink" title="water">water</a> or particular <a href="./Food%20And%20Drink.md" class="wikilink" title="foods and drinks">foods and drinks</a>. Failing to fulfill this need will result in <a href="./Condition.md" class="wikilink" title="condition">condition</a> loss.
+![](../assets/Thirst_icon.png) **Thirst** is one of the four essential [needs](./Needs.md). Thirst is a measure of how many liquids the player consumes and expends. Despite being surrounded by snow, liquids can be difficult to acquire, and are particularly heavy. The thirst need is fulfilled by consuming [water](./Water%20%28Potable%29.md) or particular [foods and drinks](./Food%20And%20Drink.md). Failing to fulfill this need will result in [condition](./Condition.md) loss.
 
 ## Thirst bar
 
-The thirst bar appears as the lowest of the four bars on the survival overlay. Thirst is actually the inverse of what is displayed; you are thirstiest when the bar is depleted and have the least thirst when it is full. The bar ranges from zero at the left to 0.67 L on the right. As it fills, its descriptor changes to describe the current state of thirst. Descriptors are Dehydrated ↔︎ Parched ↔︎ Thirst ↔︎ Dry-mouth ↔︎ Slaked. An empty red water drop becomes visible on the HUD when thirst is completely empty and indicates <a href="./Condition.md" class="wikilink" title="condition">condition</a> loss has started.
+The thirst bar appears as the lowest of the four bars on the survival overlay. Thirst is actually the inverse of what is displayed; you are thirstiest when the bar is depleted and have the least thirst when it is full. The bar ranges from zero at the left to 0.67 L on the right. As it fills, its descriptor changes to describe the current state of thirst. Descriptors are Dehydrated ↔︎ Parched ↔︎ Thirst ↔︎ Dry-mouth ↔︎ Slaked. An empty red water drop becomes visible on the HUD when thirst is completely empty and indicates [condition](./Condition.md) loss has started.
 
 ## Food and drink
 
-Some <a href="./Food%20And%20Drink.md" class="wikilink" title="foods">foods</a> are dry and deplete the thirst bar when they are consumed. Other foods are neutral or can even add to the thirst bar. Drinking water and other <a href="./Food%20And%20Drink.md" class="wikilink" title="drinks">drinks</a> remains the most direct means of satisfying thirst.
+Some [foods](./Food%20And%20Drink.md) are dry and deplete the thirst bar when they are consumed. Other foods are neutral or can even add to the thirst bar. Drinking water and other [drinks](./Food%20And%20Drink.md) remains the most direct means of satisfying thirst.
 
-Whenever water (<a href="./Water%20%28Potable%29.md" class="wikilink" title="potable">potable</a> or <a href="./Water%20%28Unsafe%29.md" class="wikilink" title="unsafe">unsafe</a>) is consumed, it is consumed until all of it is gone from the inventory or until all of thirst is satisfied (though you can end 'drinking' prematurely by pressing escape or cancel).
+Whenever water ([potable](./Water%20%28Potable%29.md) or [unsafe](./Water%20%28Unsafe%29.md)) is consumed, it is consumed until all of it is gone from the inventory or until all of thirst is satisfied (though you can end 'drinking' prematurely by pressing escape or cancel).
 
-If the character is already dehydrated, this is the best opportunity to eat dry foods (like <a href="./Salty%20Crackers.md" class="wikilink" title="salty crackers">salty crackers</a>, <a href="./Beef%20Jerky.md" class="wikilink" title="beef jerky">beef jerky</a>, or cooked meat), as the rate of condition loss is constant and is not changed by actions that typically subtract from the thirst bar.
+If the character is already dehydrated, this is the best opportunity to eat dry foods (like [salty crackers](./Salty%20Crackers.md), [beef jerky](./Beef%20Jerky.md), or cooked meat), as the rate of condition loss is constant and is not changed by actions that typically subtract from the thirst bar.
 
 Coffee and all types of tea restore 30% (0.2L) of the thirst bar, and, weighing only 0.10kg apiece, are twice as weight-efficient as water.
 
@@ -73,13 +55,13 @@ When awake, a full thirst bar will have completely drained after 8 hours. Sleepi
 
 In Pilgrim, the character only requires half as much water as in the other difficulty levels. This means that one can go for up to 16 hours before having to drink again and that one consumes less than 1 liter of water per day.
 
-- It is wise to drink water before <a href="./Sleep.md" class="wikilink" title="sleeping">sleeping</a> to avoid dehydration and get full condition restoration.
+- It is wise to drink water before [sleeping](./Sleep.md) to avoid dehydration and get full condition restoration.
 
 ## Affecting condition
 
-When the Thirst bar is fully depleted, <a href="./Condition.md" class="wikilink" title="Condition">Condition</a> drains at a rate of 50% each day (about 2.1% per hour).
+When the Thirst bar is fully depleted, [Condition](./Condition.md) drains at a rate of 50% each day (about 2.1% per hour).
 
-Dying of thirst takes 2 days at 100% condition, meaning death results twice as fast compared to starvation. Performing most tasks while dehydrated is possible, and doing so may be part of a strategy to conserve water. However, the player will not be able to <a href="./Research%20Book.md" class="wikilink" title="Research">Research</a>.
+Dying of thirst takes 2 days at 100% condition, meaning death results twice as fast compared to starvation. Performing most tasks while dehydrated is possible, and doing so may be part of a strategy to conserve water. However, the player will not be able to [Research](./Research%20Book.md).
 
 ## Character quotes
 
@@ -100,5 +82,3 @@ Dying of thirst takes 2 days at 100% condition, meaning death results twice as f
 ## Trivia
 
 There is currently no dehydration penalty for standing next to fires in excess of 50°C (122° F). These temperatures, created by burning large amounts of wood and coal into fires, would most certainly result in intense sweating and heat stroke, especially for a fully clothed character standing next to these fires. Even with light and airy sports clothing equipped, the player still does not suffer from dehydration.**Lua execution error in Module:Navbox function navbox**
-
-</div>

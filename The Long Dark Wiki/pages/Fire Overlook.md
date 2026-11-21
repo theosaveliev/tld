@@ -7,42 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/Fire_Overlook"
 
 # Fire Overlook
 
-<div>
+**Fire Overlook**
 
-<table class="infobox">
-<caption>Fire Overlook</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: 20201210005637_1.jpg]</span>
-<figcaption>20201210005637_1.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Fire_Overlook_Location.png]</span>
-<figcaption>Fire_Overlook_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Ash%20Canyon.md" class="wikilink" title="Ash Canyon">Ash Canyon</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Landmark|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/20201210005637_1.jpg) / *20201210005637\_1.jpg* |
+| **Location** |  |
+|  | ![](../assets/Fire_Overlook_Location.png) / *Fire\_Overlook\_Location.png* |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| **General** |  |
+| Type | Landmark\|- |

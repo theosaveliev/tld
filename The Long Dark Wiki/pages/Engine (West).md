@@ -7,42 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/Engine_(West)"
 
 # Engine \(West\)
 
-<div>
+**Engine (West)**
 
-<table class="infobox">
-<caption>Engine (West)</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Engine.jpg]</span>
-<figcaption>Engine.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Engine_(West)_Location.png]</span>
-<figcaption>Engine_(West)_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Engine.jpg) / *Engine.jpg* |
+| **Location** |  |
+|  | ![](../assets/Engine_%28West%29_Location.png) / *Engine\_(West)\_Location.png* |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| **General** |  |
+| Type | Outdoors\|- |

@@ -7,83 +7,38 @@ source: "https://thelongdark.fandom.com/wiki/Peanut_Butter"
 
 # Peanut Butter
 
-<div>
-
 **Contents**
 
-- [Overview](#Overview)
-- [Trivia](#Trivia)
-- [Gallery](#Gallery)
-- [Update history](#Update_history)
+- [Overview](#overview)
+- [Trivia](#trivia)
+- [Gallery](#gallery)
+- [Update history](#update-history)
 
-<table class="infobox">
-<caption>Peanut Butter</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Peanut_Butter_icon.png" loading="lazy" width="250" />
-<figcaption>Peanut_Butter_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117" class="wikilink" title="22 September 2014">22 September 2014</a></p></td>
-</tr>
-<tr>
-<td><p>Wintermute</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Item type</p></td>
-<td><p><a href="./Food%20And%20Drink.md" class="wikilink" title="Food And Drink">Food And Drink</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Stackable</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><p>Examine</p></td>
-<td><p>Jar of creamy peanut butter. Good source of energy.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Calories</p></td>
-<td><p>900 kcal</p></td>
-</tr>
-<tr>
-<td><p>Hydration</p></td>
-<td><p>-5%</p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>0.50 kg (1.1 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Advanced data</strong></p></td>
-</tr>
-<tr>
-<td><p>Item key</p></td>
-<td><p>GAMEPLAY_PeanutButter</p></td>
-</tr>
-</tbody>
-</table>
+**Peanut Butter**
 
-**Peanut Butter** is a packaged <a href="./Food%20And%20Drink.md" class="wikilink" title="food">food</a> item in <a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark"><em>The Long Dark</em></a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Peanut_Butter_icon.png) / *Peanut\_Butter\_icon.png* |
+| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.117) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Jar of creamy peanut butter. Good source of energy. |
+| **Values** |  |
+| Calories | 900 kcal |
+| Hydration | -5% |
+| Weight | 0.50 kg (1.1 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_PeanutButter |
+
+**Peanut Butter** is a packaged [food](./Food%20And%20Drink.md) item in [*The Long Dark*](./The%20Long%20Dark.md).
 
 ## Overview
 
-Consuming Peanut Butter provides up to 900 calories of <a href="./Hunger.md" class="wikilink" title="energy">energy</a>, at the cost of 5% loss in <a href="./Thirst.md" class="wikilink" title="hydration">hydration</a>. They can be found uncommonly in all regions, usually inside cabinets, houses, stores and <a href="./Vehicle.md" class="wikilink" title="vehicles">vehicles</a>. Peanut Butter has a weight of 0.50 kg and provides modest energy density to weight.
+Consuming Peanut Butter provides up to 900 calories of [energy](./Hunger.md), at the cost of 5% loss in [hydration](./Thirst.md). They can be found uncommonly in all regions, usually inside cabinets, houses, stores and [vehicles](./Vehicle.md). Peanut Butter has a weight of 0.50 kg and provides modest energy density to weight.
 
-Peanut Butter <a href="./Decay.md" class="wikilink" title="decays">decays</a> more slowly when outdoors.
+Peanut Butter [decays](./Decay.md) more slowly when outdoors.
 
 ## Trivia
 
@@ -94,29 +49,13 @@ Peanut Butter <a href="./Decay.md" class="wikilink" title="decays">decays</a> mo
 
 ## Gallery
 
-<table class="gallery">
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Peanut_butter.png" title="Old model." loading="lazy" width="140" />
-<figcaption>Old model.</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table>
+| Column 1 |
+| --- |
+| ![Old model.](../assets/Peanut_butter.png) / *Old model.* |
 
 ## Update history
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **22 September 2014 (<a href="./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**
   - Added to game.
 
-</div>
-
-**Lua execution error in Module:Navbox function navbox** <a href="ru:%D0%90%D1%80%D0%B0%D1%85%D0%B8%D1%81%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%B0%D1%81%D1%82%D0%B0" class="wikilink" title="ru:Арахисовая паста">ru:Арахисовая паста</a>
-
-</div>
+**Lua execution error in Module:Navbox function navbox** [ru:Арахисовая паста](ru:%D0%90%D1%80%D0%B0%D1%85%D0%B8%D1%81%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%B0%D1%81%D1%82%D0%B0)

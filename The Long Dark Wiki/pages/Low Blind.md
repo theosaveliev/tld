@@ -7,39 +7,12 @@ source: "https://thelongdark.fandom.com/wiki/Low_Blind"
 
 # Low Blind
 
-<div>
+**Low Blind**
 
-<table class="infobox">
-<caption>Low Blind</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: 20170304103515_1.jpg]</span>
-<figcaption>20170304103515_1.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Low_Blind_Location.png]</span>
-<figcaption>Low_Blind_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/20170304103515_1.jpg) / *20170304103515\_1.jpg* |
+| **Location** |  |
+|  | ![](../assets/Low_Blind_Location.png) / *Low\_Blind\_Location.png* |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
+| Type | Outdoors\|- |

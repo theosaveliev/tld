@@ -6,57 +6,22 @@ source: "https://thelongdark.fandom.com/wiki/To_Those_Who_Are_Missing"
 
 # To Those Who Are Missing
 
-<div>
+**To Those Who Are Missing**
 
-<table class="infobox">
-<caption>To Those Who Are Missing</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Missions_story_ep5_ToThoseWhoAreMissing.png" loading="lazy" width="250" />
-<figcaption>Missions_story_ep5_ToThoseWhoAreMissing.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Missions</strong></p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./Perseverance.md" class="wikilink" title="Perseverance">Perseverance</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>To Those Who Are Missing</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./A%20Cry%20For%20Help.md" class="wikilink" title="A Cry For Help">A Cry For Help</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Perseverance%20Mills.md" class="wikilink" title="Perseverance Mills">Perseverance Mills</a> <a href="./Perseverance%20Wilds.md" class="wikilink" title="Perseverance Wilds">Perseverance Wilds</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Astrid%20Greenwood.md" class="wikilink" title="Astrid Greenwood">Astrid Greenwood</a><br />
-<a href="./Jane%20Yang.md" class="wikilink" title="Jane Yang">Jane Yang</a></p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Missions_story_ep5_ToThoseWhoAreMissing.png) / *Missions\_story\_ep5\_ToThoseWhoAreMissing.png* |
+| Episode |  |
+| **Missions** |  |
+| Previous | [Perseverance](./Perseverance.md) |
+| Current | To Those Who Are Missing |
+| Next | [A Cry For Help](./A%20Cry%20For%20Help.md) |
+| Region | [Perseverance Mills](./Perseverance%20Mills.md) [Perseverance Wilds](./Perseverance%20Wilds.md) |
+| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) / [Jane Yang](./Jane%20Yang.md) |
 
-|  |  |  |
-|----|----|----|
-| “ | <span style="font-style:italic">Find the Constable along the river in Perseverance Wilds.</span> | ” |
+> “**Find the Constable along the river in Perseverance Wilds.**”
 
-**To Those Who Are Missing** is the second mission of Part One: Perseverance in <a href="./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md" class="wikilink" title="Episode 5: The Light At The End Of All Things">Episode 5: The Light At The End Of All Things</a> of the <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a> story of <a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark"><em>The Long Dark</em></a>.
+**To Those Who Are Missing** is the second mission of Part One: Perseverance in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [*The Long Dark*](./The%20Long%20Dark.md).
 
 ## Objectives
 
@@ -70,5 +35,3 @@ source: "https://thelongdark.fandom.com/wiki/To_Those_Who_Are_Missing"
 ## Trivia
 
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

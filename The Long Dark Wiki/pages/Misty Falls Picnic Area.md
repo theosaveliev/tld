@@ -7,69 +7,15 @@ source: "https://thelongdark.fandom.com/wiki/Misty_Falls_Picnic_Area"
 
 # Misty Falls Picnic Area
 
-<div>
+**Misty Falls Picnic Area**
 
-<table class="infobox">
-<caption>Misty Falls Picnic Area</caption>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><p>[[File:</p>
-<table class="gallery">
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<th><figure>
-<span>[Missing image: Misty_Falls_Picnic_Area.jpg]</span>
-<figcaption>Exterior</figcaption>
-</figure></th>
-<td><figure>
-<span>[Missing image: Misty_Falls_Picnic_Area_Cave.jpg]</span>
-<figcaption>Interior</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
-<td><p>250px]]</p></td>
-</tr>
-<tr>
-<td colspan="2"><p><strong>Location</strong></p></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Misty_Falls_Picnic_Area_Location.png]</span>
-<figcaption>Misty_Falls_Picnic_Area_Location.png</figcaption>
-</figure></td>
-<td></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>|-</p></td>
-<td><p>Location</p></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>A recreational area with a cave</p></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"><p><strong>General</strong></p></td>
-<td></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+| \[\[File: / \| ![Exterior](../assets/Misty_Falls_Picnic_Area.jpg) / *Exterior* \| ![Interior](../assets/Misty_Falls_Picnic_Area_Cave.jpg) / *Interior* \| / \| --- \| --- \| | 250px\]\] |
+| ![Exterior](../assets/Misty_Falls_Picnic_Area.jpg) / *Exterior* | ![Interior](../assets/Misty_Falls_Picnic_Area_Cave.jpg) / *Interior* |
+| **Location** |  |
+| ![](../assets/Misty_Falls_Picnic_Area_Location.png) / *Misty\_Falls\_Picnic\_Area\_Location.png* |  |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- / Location |
+| Description | A recreational area with a cave |
+| **General** |  |
+| Type | Outdoors\|- |

@@ -7,45 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/River_(Southern_Access)"
 
 # River \(Southern Access\)
 
-<div>
+**River (Southern Access)**
 
-<table class="infobox">
-<caption>River (Southern Access)</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/River_Southern_Access.png" loading="lazy" width="250" />
-<figcaption>River_Southern_Access.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: River_(Southern_Access)_Location.png]</span>
-<figcaption>River_(Southern_Access)_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td></td>
-<td><p>Has no shelter|}</p>
-<p>The <strong>River (Southern Access)</strong> is an unmarked location in <a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>, located not far from the titular <a href="./Mystery%20Lake%20%28location%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>.</p>
-<p>The river connects Mystery Lake to the <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a> and runs under the <a href="./Train%20Bridge.md" class="wikilink" title="Train Bridge">Train Bridge</a>. Along the river a <a href="./Rabbit.md" class="wikilink" title="Rabbit">Rabbit</a> and <a href="./Wolf.md" class="wikilink" title="Wolf">Wolf</a> spawn can be found as well as many <a href="./Cat%20Tail.md" class="wikilink" title="Cat Tail">Cat Tail</a> Plants and <a href="./Stone.md" class="wikilink" title="Stones">Stones</a>. A rope climbing section can be found nearby that leads up the side of the mountain to a cave and <a href="./Lake%20Overlook.md" class="wikilink" title="Lake Overlook">Lake Overlook</a>. <a href="./Alan%27s%20Cave.md" class="wikilink" title="Alan&#39;s Cave">Alan's Cave</a> can easily be accessed by following the river.</p>
-<p><strong>Lua execution error in Module:Navbox function navbox</strong></p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/River_Southern_Access.png) / *River\_Southern\_Access.png* |
+| **Location** |  |
+|  | ![](../assets/River_%28Southern_Access%29_Location.png) / *River\_(Southern\_Access)\_Location.png* |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| **General** |  |
+|  | Has no shelter\|} / The **River (Southern Access)** is an unmarked location in [Mystery Lake](./Mystery%20Lake%20%28region%29.md), located not far from the titular [Mystery Lake](./Mystery%20Lake%20%28location%29.md). / The river connects Mystery Lake to the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) and runs under the [Train Bridge](./Train%20Bridge.md). Along the river a [Rabbit](./Rabbit.md) and [Wolf](./Wolf.md) spawn can be found as well as many [Cat Tail](./Cat%20Tail.md) Plants and [Stones](./Stone.md). A rope climbing section can be found nearby that leads up the side of the mountain to a cave and [Lake Overlook](./Lake%20Overlook.md). [Alan's Cave](./Alan%27s%20Cave.md) can easily be accessed by following the river. / **Lua execution error in Module:Navbox function navbox** |

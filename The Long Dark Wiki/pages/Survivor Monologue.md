@@ -6,79 +6,77 @@ source: "https://thelongdark.fandom.com/wiki/Survivor_Monologue"
 
 # Survivor Monologue
 
-<div>
-
 **Contents**
 
-- [Warmth](#Warmth)
-- [1/3rd depleted](#1%2F3rd_depleted)
-- [2/3rd depleted](#2%2F3rd_depleted)
-- [Freezing](#Freezing)
-- [Fatigue](#Fatigue)
-- [1/3rd depleted](#1%2F3rd_depleted_2)
-- [2/3rd depleted](#2%2F3rd_depleted_2)
-- [Fully depleted](#Fully_depleted)
-- [Hunger](#Hunger)
-- [1/2 depleted](#1%2F2_depleted)
-- [3/4 depleted](#3%2F4_depleted)
-- [Fully depleted](#Fully_depleted_2)
-- [Thirst](#Thirst)
-- [1/2 depleted](#1%2F2_depleted_2)
-- [3/4 depleted](#3%2F4_depleted_2)
-- [Fully depleted](#Fully_depleted_3)
-- [Find item](#Find_item)
-- [Find food](#Find_food)
-- [Find potable water](#Find_potable_water)
-- [Find weapon](#Find_weapon)
-- [Find Lantern fuel](#Find_Lantern_fuel)
-- [Encumbrance](#Encumbrance)
-- [3-5kg over carry weight](#3-5kg_over_carry_weight)
-- [10-15kg over carry weight](#10-15kg_over_carry_weight)
-- [Afflictions](#Afflictions)
-- [Blood Loss](#Blood_Loss)
-- [Burns](#Burns)
-- [Food Poisoning](#Food_Poisoning)
-- [Dysentery](#Dysentery)
-- [Infection](#Infection)
-- [Sprains](#Sprains)
-- [Acquire Sprained Ankle](#Acquire_Sprained_Ankle)
-- [Acquire Sprained Ankle](#Acquire_Sprained_Ankle_2)
-- [Walking with Sprained Ankle](#Walking_with_Sprained_Ankle)
-- [Insomnia](#Insomnia)
-- [Anxiety](#Anxiety)
-- [Fear](#Fear)
-- [Environment](#Environment)
-- [Slipping while Rope Climbing](#Slipping_while_Rope_Climbing)
-- [Outside and awake at dawn](#Outside_and_awake_at_dawn)
-- [Outside and awake at dusk](#Outside_and_awake_at_dusk)
-- [Walking through water](#Walking_through_water)
-- [Fire Starting](#Fire_Starting)
-- [Fail Fire Starting](#Fail_Fire_Starting)
-- [Starting fire](#Starting_fire)
-- [Successful fire](#Successful_fire)
-- [Cheat Death](#Cheat_Death)
-- [Cougar Encroaching](#Cougar_Encroaching)
-- [Episode 3](#Episode_3)
-- [Pick Up Crash Survivor](#Pick_Up_Crash_Survivor)
-- [Place Crash Survivor](#Place_Crash_Survivor)
-- [When Carrying Crash Survivor](#When_Carrying_Crash_Survivor)
-- [Diagnosing Crash Survivor](#Diagnosing_Crash_Survivor)
-- [After Treating Crash Survivor Affliction](#After_Treating_Crash_Survivor_Affliction)
-- [When a Timberwolf pack attacks](#When_a_Timberwolf_pack_attacks)
-- [When seeing an Aurora](#When_seeing_an_Aurora)
-- [Crash Survivor Quotes](#Crash_Survivor_Quotes)
-- [Crash Survivor When Carried](#Crash_Survivor_When_Carried)
-- [Crash Survivor Low Warmth](#Crash_Survivor_Low_Warmth)
-- [Crash Survivor Warming Up](#Crash_Survivor_Warming_Up)
-- [Crash Survivor has Low Condition](#Crash_Survivor_has_Low_Condition)
+- [Warmth](#warmth)
+- [1/3rd depleted](#13rd-depleted)
+- [2/3rd depleted](#23rd-depleted)
+- [Freezing](#freezing)
+- [Fatigue](#fatigue)
+- [1/3rd depleted](#13rd-depleted-1)
+- [2/3rd depleted](#23rd-depleted-1)
+- [Fully depleted](#fully-depleted)
+- [Hunger](#hunger)
+- [1/2 depleted](#12-depleted)
+- [3/4 depleted](#34-depleted)
+- [Fully depleted](#fully-depleted-1)
+- [Thirst](#thirst)
+- [1/2 depleted](#12-depleted-1)
+- [3/4 depleted](#34-depleted-1)
+- [Fully depleted](#fully-depleted-2)
+- [Find item](#find-item)
+- [Find food](#find-food)
+- [Find potable water](#find-potable-water)
+- [Find weapon](#find-weapon)
+- [Find Lantern fuel](#find-lantern-fuel)
+- [Encumbrance](#encumbrance)
+- [3-5kg over carry weight](#3-5kg-over-carry-weight)
+- [10-15kg over carry weight](#10-15kg-over-carry-weight)
+- [Afflictions](#afflictions)
+- [Blood Loss](#blood-loss)
+- [Burns](#burns)
+- [Food Poisoning](#food-poisoning)
+- [Dysentery](#dysentery)
+- [Infection](#infection)
+- [Sprains](#sprains)
+- [Acquire Sprained Ankle](#acquire-sprained-ankle)
+- [Acquire Sprained Ankle](#acquire-sprained-ankle-1)
+- [Walking with Sprained Ankle](#walking-with-sprained-ankle)
+- [Insomnia](#insomnia)
+- [Anxiety](#anxiety)
+- [Fear](#fear)
+- [Environment](#environment)
+- [Slipping while Rope Climbing](#slipping-while-rope-climbing)
+- [Outside and awake at dawn](#outside-and-awake-at-dawn)
+- [Outside and awake at dusk](#outside-and-awake-at-dusk)
+- [Walking through water](#walking-through-water)
+- [Fire Starting](#fire-starting)
+- [Fail Fire Starting](#fail-fire-starting)
+- [Starting fire](#starting-fire)
+- [Successful fire](#successful-fire)
+- [Cheat Death](#cheat-death)
+- [Cougar Encroaching](#cougar-encroaching)
+- [Episode 3](#episode-3)
+- [Pick Up Crash Survivor](#pick-up-crash-survivor)
+- [Place Crash Survivor](#place-crash-survivor)
+- [When Carrying Crash Survivor](#when-carrying-crash-survivor)
+- [Diagnosing Crash Survivor](#diagnosing-crash-survivor)
+- [After Treating Crash Survivor Affliction](#after-treating-crash-survivor-affliction)
+- [When a Timberwolf pack attacks](#when-a-timberwolf-pack-attacks)
+- [When seeing an Aurora](#when-seeing-an-aurora)
+- [Crash Survivor Quotes](#crash-survivor-quotes)
+- [Crash Survivor When Carried](#crash-survivor-when-carried)
+- [Crash Survivor Low Warmth](#crash-survivor-low-warmth)
+- [Crash Survivor Warming Up](#crash-survivor-warming-up)
+- [Crash Survivor has Low Condition](#crash-survivor-has-low-condition)
 
-In *<a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark">The Long Dark</a>*, the Survivor (<a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a> or <a href="./Astrid%20Greenwood.md" class="wikilink" title="Astrid Greenwood">Astrid Greenwood</a>) will periodically say things regarding the world around them, unless it has been disabled in the custom settings (<a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a> Custom). Survivor Monologue is different from scripted voice lines in <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a>, as these lines relate to what is happening to the survivor. Sometimes this is done purely for the sake of entertainment, other times these messages can provide useful information to the player about the survivor's current <a href="./Condition.md" class="wikilink" title="Condition">Condition</a>, their <a href="./Needs.md" class="wikilink" title="Needs">Needs</a>, or anything that is <a href="./Afflictions.md" class="wikilink" title="afflicting them">afflicting them</a>.
+In *[The Long Dark](./The%20Long%20Dark.md)*, the Survivor ([Will Mackenzie](./Will%20Mackenzie.md) or [Astrid Greenwood](./Astrid%20Greenwood.md)) will periodically say things regarding the world around them, unless it has been disabled in the custom settings ([Survival Mode](./Survival%20Mode.md) Custom). Survivor Monologue is different from scripted voice lines in [Wintermute](./Wintermute.md), as these lines relate to what is happening to the survivor. Sometimes this is done purely for the sake of entertainment, other times these messages can provide useful information to the player about the survivor's current [Condition](./Condition.md), their [Needs](./Needs.md), or anything that is [afflicting them](./Afflictions.md).
 
 Below is an incomplete list of the things that the survivor may say in gameplay.
 
 Behind each line is an abbreviation showing which character says it, Will (W), or Astrid (A). Most voice lines are shared between the two, though sometimes survivors have their own unique voice lines.
 
-## <a href="./Warmth.md" class="wikilink" title="Warmth">Warmth</a>
+## [Warmth](./Warmth.md)
 
 ### 1/3rd depleted
 
@@ -111,7 +109,7 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - God damn freezing! (W,A)
 - Damn...I'm freezing. (W,A)
 
-## <a href="./Fatigue.md" class="wikilink" title="Fatigue">Fatigue</a>
+## [Fatigue](./Fatigue.md)
 
 ### 1/3rd depleted
 
@@ -139,7 +137,7 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - So tired I could lay down right here. (A)
 - (Deep and heavy inhaling and exhaling)
 
-## <a href="./Hunger.md" class="wikilink" title="Hunger">Hunger</a>
+## [Hunger](./Hunger.md)
 
 ### 1/2 depleted
 
@@ -172,7 +170,7 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - I think my stomach is eating itself. (W,A)
 - Never thought I'd die of starvation. (W,A)
 
-## <a href="./Thirst.md" class="wikilink" title="Thirst">Thirst</a>
+## [Thirst](./Thirst.md)
 
 ### 1/2 depleted
 
@@ -245,7 +243,7 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - "Now we're cooking with gas." (W)
 - Lamp fuel? I can use this. (W)
 
-## <a href="./Encumbrance.md" class="wikilink" title="Encumbrance">Encumbrance</a>
+## [Encumbrance](./Encumbrance.md)
 
 ### 3-5kg over carry weight
 
@@ -265,11 +263,9 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - I can't carry this any further! (W)
 - I'm going to have to leave some of this gear behind.
 
-<!-- -->
-
 - 
 
-## <a href="./Afflictions.md" class="wikilink" title="Afflictions">Afflictions</a>
+## [Afflictions](./Afflictions.md)
 
 ### Blood Loss
 
@@ -362,7 +358,7 @@ A short while after contracting Burns.
 
 ## Environment
 
-### Slipping while <a href="./Rope%20Climbing.md" class="wikilink" title="Rope Climbing">Rope Climbing</a>
+### Slipping while [Rope Climbing](./Rope%20Climbing.md)
 
 - I feel like...I'm gonna die. (W)
 - Holy...that...ahhhhhh... (W)
@@ -434,7 +430,7 @@ A short while after contracting Burns.
 
 ## Episode 3
 
-The following lines are unique to Astrid is interacting with a <a href="./Crash%20Survivor.md" class="wikilink" title="Crash Survivor">Crash Survivor</a>.
+The following lines are unique to Astrid is interacting with a [Crash Survivor](./Crash%20Survivor.md).
 
 ### Pick Up Crash Survivor
 
@@ -493,19 +489,19 @@ The following lines are unique to Astrid is interacting with a <a href="./Crash%
 - Astrid: "I've done what I can."
 - Astrid: "You'll feel better after you sleep."
 
-### When a <a href="./Timberwolf.md" class="wikilink" title="Timberwolf">Timberwolf</a> pack attacks
+### When a [Timberwolf](./Timberwolf.md) pack attacks
 
 - Astrid: "Nothing good about that sound."
 - Astrid: "Wha?"
 - Astrid: "Think, Astrid, think."
 
-### When seeing an <a href="./Aurora.md" class="wikilink" title="Aurora">Aurora</a>
+### When seeing an [Aurora](./Aurora.md)
 
 - Astrid: "So brilliant."
 
 ## Crash Survivor Quotes
 
-The following quotes are from the Crash Survivors Gwen, Logan, Ava, and Wade, the survivors Astrid must carry to the <a href="./Community%20Hall.md" class="wikilink" title="Community Hall">Community Hall</a>. All 4 share the same voice lines.
+The following quotes are from the Crash Survivors Gwen, Logan, Ava, and Wade, the survivors Astrid must carry to the [Community Hall](./Community%20Hall.md). All 4 share the same voice lines.
 
 ### Crash Survivor When Carried
 
@@ -562,5 +558,3 @@ The following quotes are from the Crash Survivors Gwen, Logan, Ava, and Wade, th
 - "No...feels wrong..."
 
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

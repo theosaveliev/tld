@@ -7,54 +7,29 @@ source: "https://thelongdark.fandom.com/wiki/Dresser"
 
 # Dresser
 
-<div>
-
 **Contents**
 
-- [Overview](#Overview)
-- [Harvesting](#Harvesting)
-- [Crafting](#Crafting)
-- [Update History](#Update_History)
+- [Overview](#overview)
+- [Harvesting](#harvesting)
+- [Crafting](#crafting)
+- [Update History](#update-history)
 
-<table class="infobox">
-<caption>Dresser</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Dresser_icon.png" loading="lazy" width="250" />
-<figcaption>Dresser_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33" class="wikilink" title="TFTFT Part 6 Broken Silence">TFTFT Part 6 Broken Silence</a></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>25.00 kg (55 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Actions</strong></p></td>
-</tr>
-<tr>
-<td><p>Backpack</p></td>
-<td><p>Drop, Place</p></td>
-</tr>
-</tbody>
-</table>
+**Dresser**
 
-The **Dresser** is a <a href="./Decorations.md" class="wikilink" title="Decorations">Decorations</a> item that can be <a href="./Crafting.md" class="wikilink" title="Crafted">Crafted</a> as part of the <a href="./Safehouse%20Customization.md" class="wikilink" title="Safehouse Customization">Safehouse Customization</a> feature.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Dresser_icon.png) / *Dresser\_icon.png* |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 25.00 kg (55 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
+
+The **Dresser** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
 ## Overview
 
-A makeshift wooden dresser, a Dresser can be crafted at a <a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a>, but requires <a href="./Woodworking%20Tools.md" class="wikilink" title="Woodworking Tools">Woodworking Tools</a>. Each of the 3 drawers have a storage capacity of 10.00 kg, giving it a total of 30.00 kg of storage space.
+A makeshift wooden dresser, a Dresser can be crafted at a [Furniture Workbench](./Furniture%20Workbench.md), but requires [Woodworking Tools](./Woodworking%20Tools.md). Each of the 3 drawers have a storage capacity of 10.00 kg, giving it a total of 30.00 kg of storage space.
 
 Progress for Crafting this item will be stored in the Furniture Workbench's container inventory, rather than the player's inventory. Once crafted, the item can be automatically placed in the Safehouse. Canceling this prompt will force the item back into the Furniture Workbench's container inventory. The dresser can only be placed on a wide, clear space on the floor when in Customization Mode.
 
@@ -66,57 +41,24 @@ This item cannot be harvested.
 
 ## Crafting
 
-<table class="infobox">
-<caption>Dresser</caption>
-<tbody>
-<tr>
-<td colspan="2"><p>-</p></td>
-</tr>
-<tr>
-<td colspan="2"><p>-</p></td>
-</tr>
-<tr>
-<td colspan="2"><p>420 minutes (7 hour 0 minutes)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Requirements</strong></p></td>
-</tr>
-<tr>
-<td><p>Facility</p></td>
-<td><p><strong>Template:iconlink</strong></p></td>
-</tr>
-<tr>
-<td><p>Tool</p></td>
-<td><p><strong>Template:iconlink</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Materials</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Template:iconlink plain</strong></p></td>
-</tr>
-<tr>
-<td><p>Item</p></td>
-<td><p><a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a></p></td>
-</tr>
-<tr>
-<td><p>Quantity</p></td>
-<td><p>10</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Template:iconlink plain</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><p><a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p></td>
-</tr>
-<tr>
-<td colspan="2"><p>4</p></td>
-</tr>
-</tbody>
-</table>
+**Dresser**
+
+| Property | Details |
+| --- | --- |
+|  | - |
+|  | - |
+|  | 420 minutes (7 hour 0 minutes) |
+| **Requirements** |  |
+| Facility | **Template:iconlink** |
+| Tool | **Template:iconlink** |
+| **Materials** |  |
+| **Template:iconlink plain** |  |
+| Item | [Cedar Firewood](./Cedar%20Firewood.md) |
+| Quantity | 10 |
+| **Template:iconlink plain** |  |
+|  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
+|  | 4 |
 
 ## Update History
 
-**Template:update historyLua execution error in Module:Navbox function navbox** <a href="ru:%D0%9A%D0%BE%D0%BC%D0%BE%D0%B4" class="wikilink" title="ru:Комод">ru:Комод</a>
-
-</div>
+**Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Комод](ru:%D0%9A%D0%BE%D0%BC%D0%BE%D0%B4)

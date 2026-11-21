@@ -6,8 +6,4 @@ source: "https://thelongdark.fandom.com/wiki/Foreman's_Refuge"
 
 # Foreman's Refuge
 
-<div>
-
-See: <a href="./Last%20Lonely%20House.md" class="wikilink" title="Last Lonely House">Last Lonely House</a>.
-
-</div>
+See: [Last Lonely House](./Last%20Lonely%20House.md).

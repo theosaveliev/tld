@@ -7,42 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/Blocked_Bridge"
 
 # Blocked Bridge
 
-<div>
+**Blocked Bridge**
 
-<table class="infobox">
-<caption>Blocked Bridge</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Blockedbridge.jpg]</span>
-<figcaption>Blockedbridge.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Blocked_Bridge_Location.png]</span>
-<figcaption>Blocked_Bridge_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Landmark|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Blockedbridge.jpg) / *Blockedbridge.jpg* |
+| **Location** |  |
+|  | ![](../assets/Blocked_Bridge_Location.png) / *Blocked\_Bridge\_Location.png* |
+| Region |  |
+| **General** |  |
+| Type | Landmark\|- |

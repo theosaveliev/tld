@@ -7,79 +7,61 @@ source: "https://thelongdark.fandom.com/wiki/Safehouse_Customization"
 
 # Safehouse Customization
 
-<div>
-
 **Contents**
 
-- [Overview](#Overview)
-- [Customization Mode](#Customization_Mode)
-- [Repairing Objects](#Repairing_Objects)
-- [Destroying Objects](#Destroying_Objects)
-- [Limitations](#Limitations)
-- [General Limitations](#General_Limitations)
-- [Console Limitations](#Console_Limitations)
-- [Safehouse Decorations](#Safehouse_Decorations)
-- [Safehouse Locations](#Safehouse_Locations)
-- [Lower Great Bear](#Lower_Great_Bear)
-- [Ash Canyon (5)](#Ash_Canyon_%285%29)
-- [Blackrock (12)](#Blackrock_%2812%29)
-- [Bleak Inlet (14)](#Bleak_Inlet_%2814%29)
-- [Broken Railroad (3)](#Broken_Railroad_%283%29)
-- [Coastal Highway (28) (17 on I/M)](#Coastal_Highway_%2828%29_%2817_on_I%2FM%29)
-- [Desolation Point (4)](#Desolation_Point_%284%29)
-- [Forlorn Muskeg (1)](#Forlorn_Muskeg_%281%29)
-- [Hushed River Valley (2)](#Hushed_River_Valley_%282%29)
-- [Mountain Town (16)](#Mountain_Town_%2816%29)
-- [Mystery Lake (16)](#Mystery_Lake_%2816%29)
-- [Pleasant Valley (18) (17 on Misery)](#Pleasant_Valley_%2818%29_%2817_on_Misery%29)
-- [Timberwolf Mountain (2)](#Timberwolf_Mountain_%282%29)
-- [Transitions](#Transitions)
-- [Crumbling Highway (1)](#Crumbling_Highway_%281%29)
-- [Keeper's Pass North (0)](#Keeper%27s_Pass_North_%280%29)
-- [Keeper's Pass South (1)](#Keeper%27s_Pass_South_%281%29)
-- [The Ravine (0)](#The_Ravine_%280%29)
-- [Winding River (0)](#Winding_River_%280%29)
-- [The Far Territory](#The_Far_Territory)
-- [Forsaken Airfield (10)](#Forsaken_Airfield_%2810%29)
-- [Sundered Pass (8)](#Sundered_Pass_%288%29)
-- [Transfer Pass (1)](#Transfer_Pass_%281%29)
-- [Zone of Contamination (10)](#Zone_of_Contamination_%2810%29)
-- [Transitions](#Transitions_2)
-- [Far Range Branch Line (0)](#Far_Range_Branch_Line_%280%29)
-- [Cauldron Island](#Cauldron_Island)
-- [Port Remnant (5)](#Port_Remnant_%285%29)
-- [Anna Island -- Track Section 1 (1)](#Anna_Island_--_Track_Section_1_%281%29)
-- [Anna Island -- Track Section 2 (1)](#Anna_Island_--_Track_Section_2_%281%29)
-- [Anna Island -- Track Section 3 (1)](#Anna_Island_--_Track_Section_3_%281%29)
-- [Anna Island -- Track Section 4 (1)](#Anna_Island_--_Track_Section_4_%281%29)
-- [Anna Island -- Track Section 5 (0)](#Anna_Island_--_Track_Section_5_%280%29)
-- [Anna Island -- Track Section 6 (0)](#Anna_Island_--_Track_Section_6_%280%29)
-- [Places that do not support customization](#Places_that_do_not_support_customization)
-- [Gallery](#Gallery)
+- [Overview](#overview)
+- [Customization Mode](#customization-mode)
+- [Repairing Objects](#repairing-objects)
+- [Destroying Objects](#destroying-objects)
+- [Limitations](#limitations)
+- [General Limitations](#general-limitations)
+- [Console Limitations](#console-limitations)
+- [Safehouse Decorations](#safehouse-decorations)
+- [Safehouse Locations](#safehouse-locations)
+- [Lower Great Bear](#lower-great-bear)
+- [Ash Canyon (5)](#ash-canyon-5)
+- [Blackrock (12)](#blackrock-12)
+- [Bleak Inlet (14)](#bleak-inlet-14)
+- [Broken Railroad (3)](#broken-railroad-3)
+- [Coastal Highway (28) (17 on I/M)](#coastal-highway-28-17-on-im)
+- [Desolation Point (4)](#desolation-point-4)
+- [Forlorn Muskeg (1)](#forlorn-muskeg-1)
+- [Hushed River Valley (2)](#hushed-river-valley-2)
+- [Mountain Town (16)](#mountain-town-16)
+- [Mystery Lake (16)](#mystery-lake-16)
+- [Pleasant Valley (18) (17 on Misery)](#pleasant-valley-18-17-on-misery)
+- [Timberwolf Mountain (2)](#timberwolf-mountain-2)
+- [Transitions](#transitions)
+- [Crumbling Highway (1)](#crumbling-highway-1)
+- [Keeper's Pass North (0)](#keepers-pass-north-0)
+- [Keeper's Pass South (1)](#keepers-pass-south-1)
+- [The Ravine (0)](#the-ravine-0)
+- [Winding River (0)](#winding-river-0)
+- [The Far Territory](#the-far-territory)
+- [Forsaken Airfield (10)](#forsaken-airfield-10)
+- [Sundered Pass (8)](#sundered-pass-8)
+- [Transfer Pass (1)](#transfer-pass-1)
+- [Zone of Contamination (10)](#zone-of-contamination-10)
+- [Transitions](#transitions-1)
+- [Far Range Branch Line (0)](#far-range-branch-line-0)
+- [Cauldron Island](#cauldron-island)
+- [Port Remnant (5)](#port-remnant-5)
+- [Anna Island -- Track Section 1 (1)](#anna-island----track-section-1-1)
+- [Anna Island -- Track Section 2 (1)](#anna-island----track-section-2-1)
+- [Anna Island -- Track Section 3 (1)](#anna-island----track-section-3-1)
+- [Anna Island -- Track Section 4 (1)](#anna-island----track-section-4-1)
+- [Anna Island -- Track Section 5 (0)](#anna-island----track-section-5-0)
+- [Anna Island -- Track Section 6 (0)](#anna-island----track-section-6-0)
+- [Places that do not support customization](#places-that-do-not-support-customization)
+- [Gallery](#gallery)
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="vertical-align: top; font-size: 3em; color: #5d5980; padding-right: 10px"><p>“</p></td>
-<td><p><span style="font-style:italic">Move furniture and decorative props around your favourite locations in the game. Repair broken items and clean up the mess. Craft items from an entirely new series of hand-made furniture and decorative props. Collect and move every framed pancake photo in the game to one place. Make pretty much any valid interior in the game your personal Safehouse with this powerful system.</span></p>
-<div style="clear:both">
-&#10;</div>
-<div style="float:right; font-size:9pt">
-<p>Hinterland Description</p>
-</div></td>
-<td style="vertical-align: bottom; font-size: 3em; color: #5d5980; padding-left: 10px"><p>”</p></td>
-</tr>
-</tbody>
-</table>
+> “**Move furniture and decorative props around your favourite locations in the game. Repair broken items and clean up the mess. Craft items from an entirely new series of hand-made furniture and decorative props. Collect and move every framed pancake photo in the game to one place. Make pretty much any valid interior in the game your personal Safehouse with this powerful system.**”
+>
+> — Hinterland Description
 
-With the release of <a href="./Tales%20from%20the%20Far%20Territory.md" class="wikilink" title="Tales from the Far Territory">Tales from the Far Territory</a> Part 6, players have the option to customize a <a href="./Safehouse.md" class="wikilink" title="Safehouse">Safehouse</a> by rearranging furniture, crafting new furniture, hanging portraits on walls, and many other activities.
+With the release of [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) Part 6, players have the option to customize a [Safehouse](./Safehouse.md) by rearranging furniture, crafting new furniture, hanging portraits on walls, and many other activities.
 
-There are over 800 items that can be moved, broken down, and in some cases, built using this system. There are 150 areas that can be turned into Safehouses, along with several specific "exterior interiors" like the <a href="./Mountaineer%27s%20Hut.md" class="wikilink" title="Mountaineer&#39;s Hut">Mountaineer's Hut</a> in Timberwolf Mountain, and the Lookout Towers.
+There are over 800 items that can be moved, broken down, and in some cases, built using this system. There are 150 areas that can be turned into Safehouses, along with several specific "exterior interiors" like the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) in Timberwolf Mountain, and the Lookout Towers.
 
 ## Overview
 
@@ -91,33 +73,33 @@ When entering an interior that can be customized, an icon of a house will appear
   - The blue outline shown over every object in Customization Mode can be used to navigate through the dark, without having to use a light source.
 - You can put things on the floor, the walls, on top of other items, etc. But every item has info that tells it where it can and cannot be placed. This is to avoid silliness.
 - You can remove Clutter (like shredded papers on the ground) by pressing the R button (you cannot get it back once this button is pressed).
-- You can craft a <a href="./Framed%20Photo.md" class="wikilink" title="Framed Photo">Framed Photo</a> from photos you take using the <a href="./Camera.md" class="wikilink" title="Camera">Camera</a> and even craft/loot <a href="./Decorations.md" class="wikilink" title="Decorations">Decorations</a> to display inside any Safehouse.
+- You can craft a [Framed Photo](./Framed%20Photo.md) from photos you take using the [Camera](./Camera.md) and even craft/loot [Decorations](./Decorations.md) to display inside any Safehouse.
 - Pressing Y (L1+ R1 on controller) again will leave Customization Mode, and cause the game to start saving (this is also a useful way to force an autosave).
 
 ### Repairing Objects
 
 You can currently repair a LIMITED number of items inside Safehouses.
 
-- <a href="./Woodworking%20Tools.md" class="wikilink" title="Woodworking Tools">Woodworking Tools</a> are required to fix things, and repairing items raises the <a href="./Repair.md" class="wikilink" title="Repair">Repair</a> skill.
-- Currently you can repair a lot of the broken/missing <a href="./Cabinet%20Door.md" class="wikilink" title="Cabinet Doors">Cabinet Doors</a> of kitchen <a href="./Cabinet.md" class="wikilink" title="Cabinets">Cabinets</a>. Repairing restores them to their "original" state, and also restores all the container slots (so a Cabinet that had been missing a door and just had an empty space, now has the door and the door becomes a new valid container).
+- [Woodworking Tools](./Woodworking%20Tools.md) are required to fix things, and repairing items raises the [Repair](./Repair.md) skill.
+- Currently you can repair a lot of the broken/missing [Cabinet Doors](./Cabinet%20Door.md) of kitchen [Cabinets](./Cabinet.md). Repairing restores them to their "original" state, and also restores all the container slots (so a Cabinet that had been missing a door and just had an empty space, now has the door and the door becomes a new valid container).
   - Destroying/Harvesting the Cabinet Door will make it impossible to repair that cabinet.
-- The roofs of the <a href="./Mountaineer%27s%20Hut.md" class="wikilink" title="Mountaineer&#39;s Hut">Mountaineer's Hut</a> and <a href="./Bricklayer%27s%20Retreat.md" class="wikilink" title="Bricklayer&#39;s Retreat">Bricklayer's Retreat</a> can be repaired (costs 20 <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a>). Repairing these roofs will increase the temperature bonus inside the buildings by +3 C.
+- The roofs of the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) and [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md) can be repaired (costs 20 [Cedar Firewood](./Cedar%20Firewood.md)). Repairing these roofs will increase the temperature bonus inside the buildings by +3 C.
 
 ### Destroying Objects
 
 Some items in Customization Mode cannot be placed into the player's inventory, they can only moved around or destroyed (typically large items).
 
-Harvestable items can be destroyed quickly, but the player will not receive any materials for doing so (ex, destroying a <a href="./Pillow.md" class="wikilink" title="Pillow">Pillow</a> takes 2 minutes and gives nothing, but harvesting it with a <a href="./Hunting%20Knife.md" class="wikilink" title="Hunting Knife">Hunting Knife</a> takes 9 minutes and generates <a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a>). Keep in mind that destroying/moving some objects, like sheet metal or <a href="./Planks.md" class="wikilink" title="Planks">Planks</a> covering holes in the <a href="./Hibernia%20Processing.md" class="wikilink" title="Hibernia Processing">Hibernia Processing</a> floors, can create fall hazards.
+Harvestable items can be destroyed quickly, but the player will not receive any materials for doing so (ex, destroying a [Pillow](./Pillow.md) takes 2 minutes and gives nothing, but harvesting it with a [Hunting Knife](./Hunting%20Knife.md) takes 9 minutes and generates [Cloth](./Cloth.md)). Keep in mind that destroying/moving some objects, like sheet metal or [Planks](./Planks.md) covering holes in the [Hibernia Processing](./Hibernia%20Processing.md) floors, can create fall hazards.
 
 ## Limitations
 
 ### General Limitations
 
 - Interior spaces only have a select zone that can be customized by the player. Walking outside of the Customization Zone (usually by exiting to the outside of the building via a door) will issue a warning to the player. Anything outside of this zone behaves normally and cannot be customized.
-- <a href="./Work%20Bench.md" class="wikilink" title="Work Benches">Work Benches</a> cannot be moved between safehouses, but the Vice can be removed from an existing Work Bench by destroying the entire object, and then used as a raw material in the construction of a new Work Bench. This means you can build a Work Bench in a location that is more useful to you, but only by sacrificing an existing bench, so there are still only ever going to be a certain number of Work Benches in the world. When you remove the Vice from an existing Work Bench, it becomes a regular table.
+- [Work Benches](./Work%20Bench.md) cannot be moved between safehouses, but the Vice can be removed from an existing Work Bench by destroying the entire object, and then used as a raw material in the construction of a new Work Bench. This means you can build a Work Bench in a location that is more useful to you, but only by sacrificing an existing bench, so there are still only ever going to be a certain number of Work Benches in the world. When you remove the Vice from an existing Work Bench, it becomes a regular table.
 - You can still Break Down items to get resources from them when in regular gameplay. When you're in Safehouse Edit mode, you can Destroy items which goes quickly but you don't get any resources from it. This was to give you a way to clear areas quickly without making it magical or without some reasonable trade-off. If you want to harvest things for resources, don't destroy them in Edit mode.
 - You can't destroy containers that have items in them. For example, if you want to destroy a cabinet but there are items in one of the drawers, you will have to remove the items first. Keep in mind that if you destroy an item in a Safehouse, you can't rebuild it, so please be careful what you destroy because you may not be able to get it back.
-- <a href="./Frozen%20Corpse.md" class="wikilink" title="Frozen Corpses">Frozen Corpses</a> and <a href="./Corpse.md" class="wikilink" title="Corpses">Corpses</a> cannot be destroyed or moved, only "respectfully removed" as part of general Safehouse clean-up.
+- [Frozen Corpses](./Frozen%20Corpse.md) and [Corpses](./Corpse.md) cannot be destroyed or moved, only "respectfully removed" as part of general Safehouse clean-up.
 
 ### Console Limitations
 
@@ -129,265 +111,265 @@ This feature is very memory intensive, so it's very likely there will be a hard 
 
 ## Safehouse Decorations
 
-In general, you can take most decorative items (ex. wall hangings, vases, plates, etc.) and add them to your Backpack in the <a href="./Decorations.md" class="wikilink" title="Decorations">Decorations</a> section. They have weight, so you will want to account for that when you move them around (some can be 5.00kg). The <a href="./Travois.md" class="wikilink" title="Travois">Travois</a> can be a potential way to move large amounts of Decorative items around the world.
+In general, you can take most decorative items (ex. wall hangings, vases, plates, etc.) and add them to your Backpack in the [Decorations](./Decorations.md) section. They have weight, so you will want to account for that when you move them around (some can be 5.00kg). The [Travois](./Travois.md) can be a potential way to move large amounts of Decorative items around the world.
 
-A <a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a> and <a href="./Woodworking%20Tools.md" class="wikilink" title="Woodworking Tools">Woodworking Tools</a> are required to build furniture for a Safehouse.
+A [Furniture Workbench](./Furniture%20Workbench.md) and [Woodworking Tools](./Woodworking%20Tools.md) are required to build furniture for a Safehouse.
 
 - Items that only have a Decorative value will live in the Decorations section of the Backpack Inventory, and won't appear in the General tab to avoid your inventory being cluttered with a bunch of random stuff that doesn't have gameplay value.
-- When you drop decorative items in the world, they spawn a small <a href="./Safehouse%20Decoration%20Box.md" class="wikilink" title="Safehouse Decoration Box">Safehouse Decoration Box</a>, because these items don't exist as "gear items" outside of Safehouses the way normal gear items (like food, or tools, or clothing) do.
+- When you drop decorative items in the world, they spawn a small [Safehouse Decoration Box](./Safehouse%20Decoration%20Box.md), because these items don't exist as "gear items" outside of Safehouses the way normal gear items (like food, or tools, or clothing) do.
 
-For a full list of Decorative items, see <a href="./Decorations.md" class="wikilink" title="Decorations">Decorations</a>.
+For a full list of Decorative items, see [Decorations](./Decorations.md).
 
 ## Safehouse Locations
 
 The following locations support Safehouse Customization. Keep in mind that inside and outside customization zones are counted separately due to loading zones/outdoor customization boundaries.
 
-Note: <a href="./Prepper%27s%20Abandoned%20Cache.md" class="wikilink" title="Prepper&#39;s Abandoned Cache">Prepper's Abandoned Cache</a> can be destroyed at the end of <a href="./Sutherland%27s%20Tale.md" class="wikilink" title="Sutherland&#39;s Tale">Sutherland's Tale</a>, rendering it inaccessible as a Safehouse.
+Note: [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) can be destroyed at the end of [Sutherland's Tale](./Sutherland%27s%20Tale.md), rendering it inaccessible as a Safehouse.
 
 ### Lower Great Bear
 
-#### <a href="./Ash%20Canyon.md" class="wikilink" title="Ash Canyon">Ash Canyon</a> (5)
+#### [Ash Canyon](./Ash%20Canyon.md) (5)
 
-- <a href="./Angler%27s%20Den.md" class="wikilink" title="Angler&#39;s Den">Angler's Den</a>
-- <a href="./Miner%27s%20Folly.md" class="wikilink" title="Miner&#39;s Folly">Miner's Folly</a> cabin
-- <a href="./Foreman%27s%20Retreat.md" class="wikilink" title="Foreman&#39;s Retreat">Foreman's Retreat</a>
-- <a href="./Homesteader%27s%20Respite.md" class="wikilink" title="Homesteader&#39;s Respite">Homesteader's Respite</a>
-- <a href="./Prepper%20Cache.md" class="wikilink" title="Prepper Cache">Prepper Cache</a> in the region
+- [Angler's Den](./Angler%27s%20Den.md)
+- [Miner's Folly](./Miner%27s%20Folly.md) cabin
+- [Foreman's Retreat](./Foreman%27s%20Retreat.md)
+- [Homesteader's Respite](./Homesteader%27s%20Respite.md)
+- [Prepper Cache](./Prepper%20Cache.md) in the region
 
-#### <a href="./Blackrock.md" class="wikilink" title="Blackrock">Blackrock</a> (12)
+#### [Blackrock](./Blackrock.md) (12)
 
-- <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> (6)
+- [Blackrock Prison](./Blackrock%20Prison.md) (6)
   - The Warden's office and nearby office space
   - Inside the prison itself
   - The watch tower with the rope climb
   - Infirmary
   - Guard Barracks
   - Workshop area (must be unlocked)
-- <a href="./Bricklayer%27s%20Retreat.md" class="wikilink" title="Bricklayer&#39;s Retreat">Bricklayer's Retreat</a>
-- <a href="./Foreman%27s%20Clearcut.md" class="wikilink" title="Foreman&#39;s Clearcut">Foreman's Clearcut</a>
-- <a href="./Power%20Plant.md" class="wikilink" title="Power Plant">Power Plant</a>
-- <a href="./Trailer%20%28Blackrock%20Region%29.md" class="wikilink" title="Trailer (Blackrock Region)">Trailer (Blackrock Region)</a> on the road to the Power Plant
-- <a href="./Old%20Substation.md" class="wikilink" title="Old Substation">Old Substation</a>
-- <a href="./Prepper%20Cache.md" class="wikilink" title="Prepper Cache">Prepper Cache</a> in the region
+- [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md)
+- [Foreman's Clearcut](./Foreman%27s%20Clearcut.md)
+- [Power Plant](./Power%20Plant.md)
+- [Trailer (Blackrock Region)](./Trailer%20%28Blackrock%20Region%29.md) on the road to the Power Plant
+- [Old Substation](./Old%20Substation.md)
+- [Prepper Cache](./Prepper%20Cache.md) in the region
 
-#### <a href="./Bleak%20Inlet.md" class="wikilink" title="Bleak Inlet">Bleak Inlet</a> (14)
+#### [Bleak Inlet](./Bleak%20Inlet.md) (14)
 
-- <a href="./Last%20Resort%20Cannery.md" class="wikilink" title="Last Resort Cannery">Last Resort Cannery</a> (5)
+- [Last Resort Cannery](./Last%20Resort%20Cannery.md) (5)
   - The trailer
   - The cafeteria break room next to the rope climbing building (building itself can't be customized, even the upper floor that the rope leads to)
   - The warehouse reached by taking the pier as part of the obstacle course
-  - Office outside of the <a href="./Workshop.md" class="wikilink" title="Workshop">Workshop</a> (both sides of the keypad door)
-  - <a href="./Workshop.md" class="wikilink" title="Workshop">Workshop</a> (must be unlocked)
-- <a href="./Cannery%20Worker%20Residences.md" class="wikilink" title="Cannery Worker Residences">Cannery Worker Residences</a>
-- <a href="./Cabin.md" class="wikilink" title="Cabin">Cabin</a>
-- <a href="./Pensive%20Lookout.md" class="wikilink" title="Pensive Lookout">Pensive Lookout</a>
-- <a href="./Echo%20One%20Radio%20Tower.md" class="wikilink" title="Echo One Radio Tower">Echo One Radio Tower</a>
-- <a href="./Washed%20Out%20Trailers.md" class="wikilink" title="Washed Out Trailers">Washed Out Trailers</a>
-- <a href="./Trailers%20west%20of%20the%20Cannery.md" class="wikilink" title="Trailers west of the Cannery">Trailers west of the Cannery</a> (2 trailers)
-- <a href="./Bunker%20Alpha.md" class="wikilink" title="Bunker Alpha">Bunker Alpha</a> (must be unlocked)
-- <a href="./Prepper%20Cache.md" class="wikilink" title="Prepper Cache">Prepper Cache</a> in the mountains
+  - Office outside of the [Workshop](./Workshop.md) (both sides of the keypad door)
+  - [Workshop](./Workshop.md) (must be unlocked)
+- [Cannery Worker Residences](./Cannery%20Worker%20Residences.md)
+- [Cabin](./Cabin.md)
+- [Pensive Lookout](./Pensive%20Lookout.md)
+- [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md)
+- [Washed Out Trailers](./Washed%20Out%20Trailers.md)
+- [Trailers west of the Cannery](./Trailers%20west%20of%20the%20Cannery.md) (2 trailers)
+- [Bunker Alpha](./Bunker%20Alpha.md) (must be unlocked)
+- [Prepper Cache](./Prepper%20Cache.md) in the mountains
 
-#### <a href="./Broken%20Railroad.md" class="wikilink" title="Broken Railroad">Broken Railroad</a> (3)
+#### [Broken Railroad](./Broken%20Railroad.md) (3)
 
-- <a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a>
-- <a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a> (2)
+- [Hunting Lodge](./Hunting%20Lodge.md)
+- [Maintenance Yard](./Maintenance%20Yard.md) (2)
   - The office in the yard
   - Maintenance Shed
 
-#### <a href="./Coastal%20Highway.md" class="wikilink" title="Coastal Highway">Coastal Highway</a> (28) (17 on I/M)
+#### [Coastal Highway](./Coastal%20Highway.md) (28) (17 on I/M)
 
-The number of safehouses in this region are lowered if playing on <a href="./Interloper.md" class="wikilink" title="Interloper">Interloper</a>/<a href="./Misery.md" class="wikilink" title="Misery">Misery</a> due to ruined buildings (labeled as I/M)
+The number of safehouses in this region are lowered if playing on [Interloper](./Interloper.md)/[Misery](./Misery.md) due to ruined buildings (labeled as I/M)
 
-- <a href="./Abandoned%20Lookout.md" class="wikilink" title="Abandoned Lookout">Abandoned Lookout</a>
-- <a href="./Coastal%20Townsite.md" class="wikilink" title="Coastal Townsite">Coastal Townsite</a> (7) (3 on I/M)
-  - 6 <a href="./Coastal%20House.md" class="wikilink" title="Coastal House">Coastal House</a> (2 on I/M)
-  - <a href="./Quonset%20Garage.md" class="wikilink" title="Quonset Garage">Quonset Garage</a>
-- <a href="./Fishing%20Camp.md" class="wikilink" title="Fishing Camp">Fishing Camp</a> (4)
+- [Abandoned Lookout](./Abandoned%20Lookout.md)
+- [Coastal Townsite](./Coastal%20Townsite.md) (7) (3 on I/M)
+  - 6 [Coastal House](./Coastal%20House.md) (2 on I/M)
+  - [Quonset Garage](./Quonset%20Garage.md)
+- [Fishing Camp](./Fishing%20Camp.md) (4)
   - 4 cabins (3 on I/M)
-- <a href="./Misanthrope%27s%20Homestead.md" class="wikilink" title="Misanthrope&#39;s Homestead">Misanthrope's Homestead</a>
-- <a href="./Jackrabbit%20Island.md" class="wikilink" title="Jackrabbit Island">Jackrabbit Island</a>
-- <a href="./Log%20Sort.md" class="wikilink" title="Log Sort">Log Sort</a> (2) (1 on I/M)
+- [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md)
+- [Jackrabbit Island](./Jackrabbit%20Island.md)
+- [Log Sort](./Log%20Sort.md) (2) (1 on I/M)
   - 1 trailer
   - 1 Coastal House (sometimes spawns ruined) (ruined on I/M)
-- <a href="./Rabbit%20Grove.md" class="wikilink" title="Rabbit Grove">Rabbit Grove</a>
-- <a href="./Train%20Unloading.md" class="wikilink" title="Train Unloading">Train Unloading</a> trailer
-- 2 <a href="./Waterfront%20Cottages.md" class="wikilink" title="Waterfront Cottages">Waterfront Cottages</a> (0 on I/M)
+- [Rabbit Grove](./Rabbit%20Grove.md)
+- [Train Unloading](./Train%20Unloading.md) trailer
+- 2 [Waterfront Cottages](./Waterfront%20Cottages.md) (0 on I/M)
 - miscellaneous cabins/trailers (8) (5 on I/M)
   - Clear-cut trailer south of Train Unloading
   - Cabin east of previous clear-cut trailer
-  - 3 Cabins below <a href="./Abandoned%20Lookout.md" class="wikilink" title="Abandoned Lookout">Abandoned Lookout</a> (2 on I/M)
-  - Trailer West of <a href="./Cinder%20Hills%20Coal%20Mine.md" class="wikilink" title="Cinder Hills Coal Mine">Cinder Hills Coal Mine</a> transition to Pleasant Valley
+  - 3 Cabins below [Abandoned Lookout](./Abandoned%20Lookout.md) (2 on I/M)
+  - Trailer West of [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) transition to Pleasant Valley
   - Trailer north of Coastal Townsite
-  - Cabin north of <a href="./Fishing%20Camp.md" class="wikilink" title="Fishing Camp">Fishing Camp</a>/south of <a href="./Bear%20Creek%20Campground.md" class="wikilink" title="Bear Creek Campground">Bear Creek Campground</a> (ruined on I/M)
+  - Cabin north of [Fishing Camp](./Fishing%20Camp.md)/south of [Bear Creek Campground](./Bear%20Creek%20Campground.md) (ruined on I/M)
 
-#### <a href="./Desolation%20Point.md" class="wikilink" title="Desolation Point">Desolation Point</a> (4)
+#### [Desolation Point](./Desolation%20Point.md) (4)
 
-- <a href="./Lonely%20Lighthouse.md" class="wikilink" title="Lonely Lighthouse">Lonely Lighthouse</a>
-- <a href="./Hibernia%20Processing.md" class="wikilink" title="Hibernia Processing">Hibernia Processing</a> (3)
+- [Lonely Lighthouse](./Lonely%20Lighthouse.md)
+- [Hibernia Processing](./Hibernia%20Processing.md) (3)
   - Inside the building
   - 3 connected trailers counting as 1 space
   - Trailer north of the warehouse
 
-#### <a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a> (1)
+#### [Forlorn Muskeg](./Forlorn%20Muskeg.md) (1)
 
-- <a href="./Prepper%20Cache.md" class="wikilink" title="Prepper Cache">Prepper Cache</a> in the region
+- [Prepper Cache](./Prepper%20Cache.md) in the region
 
-#### <a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a> (2)
+#### [Hushed River Valley](./Hushed%20River%20Valley.md) (2)
 
-- <a href="./Bunker%20Gamma.md" class="wikilink" title="Bunker Gamma">Bunker Gamma</a> (must be unlocked)
-- <a href="./Prepper%20Cache.md" class="wikilink" title="Prepper Cache">Prepper Cache</a> in the region
+- [Bunker Gamma](./Bunker%20Gamma.md) (must be unlocked)
+- [Prepper Cache](./Prepper%20Cache.md) in the region
 
-#### <a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a> (16)
+#### [Mountain Town](./Mountain%20Town.md) (16)
 
-- <a href="./St.%20Christopher%27s%20Church.md" class="wikilink" title="St. Christopher&#39;s Church">St. Christopher's Church</a>
-- <a href="./Trailer%20%28Mountain%20Town%20Region%29.md" class="wikilink" title="Trailer (Mountain Town Region)">Trailer (Mountain Town Region)</a>
-- <a href="./Paradise%20Meadows%20Farm.md" class="wikilink" title="Paradise Meadows Farm">Paradise Meadows Farm</a> (farmhouse)
-- <a href="./Milton%20House.md" class="wikilink" title="Milton House">Milton House</a> (10 houses, including <a href="./Milton%20House%20%28Grey%20Mother%27s%29.md" class="wikilink" title="Milton House (Grey Mother&#39;s)">Milton House (Grey Mother's)</a>)
-- <a href="./Convenience%20Store.md" class="wikilink" title="Convenience Store">Convenience Store</a>
-- <a href="./Milton%20Park.md" class="wikilink" title="Milton Park">Milton Park</a> building
-- <a href="./Prepper%20Cache.md" class="wikilink" title="Prepper Cache">Prepper Cache</a> in the region
+- [St. Christopher's Church](./St.%20Christopher%27s%20Church.md)
+- [Trailer (Mountain Town Region)](./Trailer%20%28Mountain%20Town%20Region%29.md)
+- [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) (farmhouse)
+- [Milton House](./Milton%20House.md) (10 houses, including [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md))
+- [Convenience Store](./Convenience%20Store.md)
+- [Milton Park](./Milton%20Park.md) building
+- [Prepper Cache](./Prepper%20Cache.md) in the region
 
-#### <a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a> (16)
+#### [Mystery Lake](./Mystery%20Lake%20%28region%29.md) (16)
 
-- <a href="./Camp%20Office.md" class="wikilink" title="Camp Office">Camp Office</a>
-- <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a> (4)
+- [Camp Office](./Camp%20Office.md)
+- [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) (4)
   - Upper Dam
   - Lower Dam
-  - 2 trailers near the Dam Staging Area/<a href="./Train%20Bridge.md" class="wikilink" title="Train Bridge">Train Bridge</a>
-- Cabin between <a href="./Unnamed%20Pond.md" class="wikilink" title="Unnamed Pond">Unnamed Pond</a> and <a href="./Clearcut.md" class="wikilink" title="Clearcut">Clearcut</a>
-- <a href="./Forestry%20Lookout.md" class="wikilink" title="Forestry Lookout">Forestry Lookout</a>
-- <a href="./Logging%20Camp.md" class="wikilink" title="Logging Camp">Logging Camp</a> (3 trailers)
-- <a href="./Mystery%20Lake%20%28location%29.md" class="wikilink" title="Mystery Lake (location)">Mystery Lake (location)</a> (5 cabins)
-- <a href="./Prepper%20Cache.md" class="wikilink" title="Prepper Cache">Prepper Cache</a> in the region
+  - 2 trailers near the Dam Staging Area/[Train Bridge](./Train%20Bridge.md)
+- Cabin between [Unnamed Pond](./Unnamed%20Pond.md) and [Clearcut](./Clearcut.md)
+- [Forestry Lookout](./Forestry%20Lookout.md)
+- [Logging Camp](./Logging%20Camp.md) (3 trailers)
+- [Mystery Lake (location)](./Mystery%20Lake%20%28location%29.md) (5 cabins)
+- [Prepper Cache](./Prepper%20Cache.md) in the region
 
-#### <a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a> (18) (17 on Misery)
+#### [Pleasant Valley](./Pleasant%20Valley.md) (18) (17 on Misery)
 
-- <a href="./Bunker%20Beta.md" class="wikilink" title="Bunker Beta">Bunker Beta</a> (Must be unlocked)
-- Cabin near <a href="./Point%20of%20Disagreement.md" class="wikilink" title="Point of Disagreement">Point of Disagreement</a> (sometimes spawns ruined)
-- <a href="./Draft%20Dodger%27s%20Cabin.md" class="wikilink" title="Draft Dodger&#39;s Cabin">Draft Dodger's Cabin</a> (ruined on Misery)
-- <a href="./Pleasant%20Valley%20Farmstead.md" class="wikilink" title="Pleasant Valley Farmstead">Pleasant Valley Farmstead</a> (4)
+- [Bunker Beta](./Bunker%20Beta.md) (Must be unlocked)
+- Cabin near [Point of Disagreement](./Point%20of%20Disagreement.md) (sometimes spawns ruined)
+- [Draft Dodger's Cabin](./Draft%20Dodger%27s%20Cabin.md) (ruined on Misery)
+- [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) (4)
   - Farmhouse
   - Farmhouse Basement
   - Front Porch
-  - <a href="./Barn%20%28Molly%27s%29.md" class="wikilink" title="Barn (Molly&#39;s)">Barn (Molly's)</a>
-- <a href="./Pleasant%20Valley%20Outbuildings.md" class="wikilink" title="Pleasant Valley Outbuildings">Pleasant Valley Outbuildings</a>
-- <a href="./Prepper%27s%20Abandoned%20Cache.md" class="wikilink" title="Prepper&#39;s Abandoned Cache">Prepper's Abandoned Cache</a> (will be permanently destroyed by completing <a href="./Sutherland%27s%20Tale.md" class="wikilink" title="Sutherland&#39;s Tale">Sutherland's Tale</a>)
-- <a href="./Signal%20Hill.md" class="wikilink" title="Signal Hill">Signal Hill</a>
-- <a href="./Skeeter%27s%20Ridge.md" class="wikilink" title="Skeeter&#39;s Ridge">Skeeter's Ridge</a> Basement
-- <a href="./Thomson%27s%20Crossing.md" class="wikilink" title="Thomson&#39;s Crossing">Thomson's Crossing</a> (6)
-  - <a href="./Community%20Hall.md" class="wikilink" title="Community Hall">Community Hall</a>
-  - <a href="./Crossroads%20House.md" class="wikilink" title="Crossroads House">Crossroads House</a> 3 (2 houses, 1 shed)
-  - <a href="./Pleasant%20Valley%20Church.md" class="wikilink" title="Pleasant Valley Church">Pleasant Valley Church</a>
-  - <a href="./Rural%20Store.md" class="wikilink" title="Rural Store">Rural Store</a>
-- <a href="./Prepper%20Cache.md" class="wikilink" title="Prepper Cache">Prepper Cache</a> in the region
+  - [Barn (Molly's)](./Barn%20%28Molly%27s%29.md)
+- [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)
+- [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) (will be permanently destroyed by completing [Sutherland's Tale](./Sutherland%27s%20Tale.md))
+- [Signal Hill](./Signal%20Hill.md)
+- [Skeeter's Ridge](./Skeeter%27s%20Ridge.md) Basement
+- [Thomson's Crossing](./Thomson%27s%20Crossing.md) (6)
+  - [Community Hall](./Community%20Hall.md)
+  - [Crossroads House](./Crossroads%20House.md) 3 (2 houses, 1 shed)
+  - [Pleasant Valley Church](./Pleasant%20Valley%20Church.md)
+  - [Rural Store](./Rural%20Store.md)
+- [Prepper Cache](./Prepper%20Cache.md) in the region
 
-#### <a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a> (2)
+#### [Timberwolf Mountain](./Timberwolf%20Mountain.md) (2)
 
-- <a href="./Mountaineer%27s%20Hut.md" class="wikilink" title="Mountaineer&#39;s Hut">Mountaineer's Hut</a>
-- <a href="./Prepper%20Cache.md" class="wikilink" title="Prepper Cache">Prepper Cache</a> in the region
+- [Mountaineer's Hut](./Mountaineer%27s%20Hut.md)
+- [Prepper Cache](./Prepper%20Cache.md) in the region
 
 ### Transitions
 
-#### <a href="./Crumbling%20Highway.md" class="wikilink" title="Crumbling Highway">Crumbling Highway</a> (1)
+#### [Crumbling Highway](./Crumbling%20Highway.md) (1)
 
-- <a href="./Abandoned%20Harris%20Home.md" class="wikilink" title="Abandoned Harris Home">Abandoned Harris Home</a> Basement
+- [Abandoned Harris Home](./Abandoned%20Harris%20Home.md) Basement
 
-#### <a href="./Keeper%27s%20Pass%20North.md" class="wikilink" title="Keeper&#39;s Pass North">Keeper's Pass North</a> (0)
-
-- None
-
-#### <a href="./Keeper%27s%20Pass%20South.md" class="wikilink" title="Keeper&#39;s Pass South">Keeper's Pass South</a> (1)
-
-- <a href="./Mirthless%20Fork.md" class="wikilink" title="Mirthless Fork">Mirthless Fork</a> Trailer
-
-### <a href="./The%20Ravine.md" class="wikilink" title="The Ravine">The Ravine</a> (0)
+#### [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) (0)
 
 - None
 
-### <a href="./Winding%20River.md" class="wikilink" title="Winding River">Winding River</a> (0)
+#### [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) (1)
+
+- [Mirthless Fork](./Mirthless%20Fork.md) Trailer
+
+### [The Ravine](./The%20Ravine.md) (0)
+
+- None
+
+### [Winding River](./Winding%20River.md) (0)
 
 - None
 
 ### The Far Territory
 
-#### <a href="./Forsaken%20Airfield.md" class="wikilink" title="Forsaken Airfield">Forsaken Airfield</a> (10)
+#### [Forsaken Airfield](./Forsaken%20Airfield.md) (10)
 
-- <a href="./Control%20Tower.md" class="wikilink" title="Control Tower">Control Tower</a> (2)
+- [Control Tower](./Control%20Tower.md) (2)
   - Ground floor room and tower
   - Storage closet near Transmitter
-- <a href="./Bunker%20Omega.md" class="wikilink" title="Bunker Omega">Bunker Omega</a> (Must be unlocked)
-- <a href="./Terminal.md" class="wikilink" title="Terminal">Terminal</a>
-- <a href="./Main%20Hangar.md" class="wikilink" title="Main Hangar">Main Hangar</a> and <a href="./Hangar%20Basement.md" class="wikilink" title="Hangar Basement">Hangar Basement</a> (counts as 1 space)
-- <a href="./Cargomaster%27s%20Trailer.md" class="wikilink" title="Cargomaster&#39;s Trailer">Cargomaster's Trailer</a>
-- <a href="./Justy%27s%20Hovel.md" class="wikilink" title="Justy&#39;s Hovel">Justy's Hovel</a>
-- <a href="./Junker%27s%20Paddock.md" class="wikilink" title="Junker&#39;s Paddock">Junker's Paddock</a>
-- <a href="./Mindful%20Cabin.md" class="wikilink" title="Mindful Cabin">Mindful Cabin</a>
-- <a href="./Island%20Cottage.md" class="wikilink" title="Island Cottage">Island Cottage</a>
+- [Bunker Omega](./Bunker%20Omega.md) (Must be unlocked)
+- [Terminal](./Terminal.md)
+- [Main Hangar](./Main%20Hangar.md) and [Hangar Basement](./Hangar%20Basement.md) (counts as 1 space)
+- [Cargomaster's Trailer](./Cargomaster%27s%20Trailer.md)
+- [Justy's Hovel](./Justy%27s%20Hovel.md)
+- [Junker's Paddock](./Junker%27s%20Paddock.md)
+- [Mindful Cabin](./Mindful%20Cabin.md)
+- [Island Cottage](./Island%20Cottage.md)
 
-#### <a href="./Sundered%20Pass.md" class="wikilink" title="Sundered Pass">Sundered Pass</a> (8)
+#### [Sundered Pass](./Sundered%20Pass.md) (8)
 
-- <a href="./Weather%20Station.md" class="wikilink" title="Weather Station">Weather Station</a> (2)
+- [Weather Station](./Weather%20Station.md) (2)
   - Storage Shed
-  - <a href="./Station%20Bunkhouse.md" class="wikilink" title="Station Bunkhouse">Station Bunkhouse</a>
-- <a href="./Old%20Settlement.md" class="wikilink" title="Old Settlement">Old Settlement</a> (2)
-  - <a href="./Basement%20%28Sundered%20Pass%29.md" class="wikilink" title="Basement (Sundered Pass)">Basement (Sundered Pass)</a> (Must be unlocked)
-  - <a href="./Cabin%20%28Sundered%20Pass%29.md" class="wikilink" title="Cabin (Sundered Pass)">Cabin (Sundered Pass)</a>
-- <a href="./Last%20Lonely%20House.md" class="wikilink" title="Last Lonely House">Last Lonely House</a>
-- <a href="./Lotte%27s%20Rest.md" class="wikilink" title="Lotte&#39;s Rest">Lotte's Rest</a>
-- <a href="./Final%20Refuge.md" class="wikilink" title="Final Refuge">Final Refuge</a>
-- <a href="./Placid%20Notch.md" class="wikilink" title="Placid Notch">Placid Notch</a>
+  - [Station Bunkhouse](./Station%20Bunkhouse.md)
+- [Old Settlement](./Old%20Settlement.md) (2)
+  - [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md) (Must be unlocked)
+  - [Cabin (Sundered Pass)](./Cabin%20%28Sundered%20Pass%29.md)
+- [Last Lonely House](./Last%20Lonely%20House.md)
+- [Lotte's Rest](./Lotte%27s%20Rest.md)
+- [Final Refuge](./Final%20Refuge.md)
+- [Placid Notch](./Placid%20Notch.md)
 
-#### <a href="./Transfer%20Pass.md" class="wikilink" title="Transfer Pass">Transfer Pass</a> (1)
+#### [Transfer Pass](./Transfer%20Pass.md) (1)
 
-- <a href="./Vacant%20Depot.md" class="wikilink" title="Vacant Depot">Vacant Depot</a>
+- [Vacant Depot](./Vacant%20Depot.md)
 
-#### <a href="./Zone%20of%20Contamination.md" class="wikilink" title="Zone of Contamination">Zone of Contamination</a> (10)
+#### [Zone of Contamination](./Zone%20of%20Contamination.md) (10)
 
-- <a href="./Concentrator.md" class="wikilink" title="Concentrator">Concentrator</a>, <a href="./Conveyor%20Room.md" class="wikilink" title="Conveyor Room">Conveyor Room</a>, <a href="./Headframe%20Building.md" class="wikilink" title="Headframe Building">Headframe Building</a> (All 3 of these buildings are connected inside as 1 space)
-- <a href="./Indolent%20Hoppers.md" class="wikilink" title="Indolent Hoppers">Indolent Hoppers</a> (4)
+- [Concentrator](./Concentrator.md), [Conveyor Room](./Conveyor%20Room.md), [Headframe Building](./Headframe%20Building.md) (All 3 of these buildings are connected inside as 1 space)
+- [Indolent Hoppers](./Indolent%20Hoppers.md) (4)
   - The 3 warehouse sheds
   - inside the train station
-- <a href="./Idle%20Camp.md" class="wikilink" title="Idle Camp">Idle Camp</a> (3)
+- [Idle Camp](./Idle%20Camp.md) (3)
   - 2 bunk houses and the mess hall
 - Trailer south-west of the open mine pit
-- <a href="./Pump%20House.md" class="wikilink" title="Pump House">Pump House</a>
+- [Pump House](./Pump%20House.md)
 
 ### Transitions
 
-#### <a href="./Far%20Range%20Branch%20Line.md" class="wikilink" title="Far Range Branch Line">Far Range Branch Line</a> (0)
+#### [Far Range Branch Line](./Far%20Range%20Branch%20Line.md) (0)
 
 - None
 
 ### Cauldron Island
 
-#### <a href="./Port%20Remnant.md" class="wikilink" title="Port Remnant">Port Remnant</a> (5)
+#### [Port Remnant](./Port%20Remnant.md) (5)
 
-- <a href="./Lighthouse%20Keeper%27s%20Cabin.md" class="wikilink" title="Lighthouse Keeper&#39;s Cabin">Lighthouse Keeper's Cabin</a> (1)
-- <a href="./Departure%27s%20Memory.md" class="wikilink" title="Departure&#39;s Memory">Departure's Memory</a> (1 cabin to the west)
-- <a href="./Looted%20Grotto.md" class="wikilink" title="Looted Grotto">Looted Grotto</a> (1)
-- 2 Cabins west of the second <a href="./Whale%20Bone%20Shrine.md" class="wikilink" title="Whale Bone Shrine">Whale Bone Shrine</a> (2)
+- [Lighthouse Keeper's Cabin](./Lighthouse%20Keeper%27s%20Cabin.md) (1)
+- [Departure's Memory](./Departure%27s%20Memory.md) (1 cabin to the west)
+- [Looted Grotto](./Looted%20Grotto.md) (1)
+- 2 Cabins west of the second [Whale Bone Shrine](./Whale%20Bone%20Shrine.md) (2)
 
-#### <a href="./Anna%20Island%20--%20Track%20Section%201.md" class="wikilink" title="Anna Island -- Track Section 1">Anna Island -- Track Section 1</a> (1)
+#### [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) (1)
 
-- <a href="./Huts.md" class="wikilink" title="Huts">Huts</a> (1 cabin)
+- [Huts](./Huts.md) (1 cabin)
 
-#### <a href="./Anna%20Island%20--%20Track%20Section%202.md" class="wikilink" title="Anna Island -- Track Section 2">Anna Island -- Track Section 2</a> (1)
+#### [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) (1)
 
-- <a href="./Repair%20Depot.md" class="wikilink" title="Repair Depot">Repair Depot</a> at Western <a href="./Railyard%20%28Track%20Section%202%29.md" class="wikilink" title="Railyard (Track Section 2)">Railyard (Track Section 2)</a> (1)
+- [Repair Depot](./Repair%20Depot.md) at Western [Railyard (Track Section 2)](./Railyard%20%28Track%20Section%202%29.md) (1)
 
-#### <a href="./Anna%20Island%20--%20Track%20Section%203.md" class="wikilink" title="Anna Island -- Track Section 3">Anna Island -- Track Section 3</a> (1)
+#### [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) (1)
 
-- <a href="./Cove%20%28Track%20Section%203%29.md" class="wikilink" title="Cove (Track Section 3)">Cove (Track Section 3)</a> (1 cabin)
+- [Cove (Track Section 3)](./Cove%20%28Track%20Section%203%29.md) (1 cabin)
 
-#### <a href="./Anna%20Island%20--%20Track%20Section%204.md" class="wikilink" title="Anna Island -- Track Section 4">Anna Island -- Track Section 4</a> (1)
+#### [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) (1)
 
-- <a href="./Repair%20Depot.md" class="wikilink" title="Repair Depot">Repair Depot</a>
+- [Repair Depot](./Repair%20Depot.md)
 
-#### <a href="./Anna%20Island%20--%20Track%20Section%205.md" class="wikilink" title="Anna Island -- Track Section 5">Anna Island -- Track Section 5</a> (0)
+#### [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) (0)
 
 - None
 
-#### <a href="./Anna%20Island%20--%20Track%20Section%206.md" class="wikilink" title="Anna Island -- Track Section 6">Anna Island -- Track Section 6</a> (0)
+#### [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) (0)
 
 - None
 
@@ -395,39 +377,17 @@ The number of safehouses in this region are lowered if playing on <a href="./Int
 
 There are about two dozen places in the game that players cannot build Safehouses in. These include:
 
-- <a href="./The%20Riken.md" class="wikilink" title="The Riken">The Riken</a>, <a href="./Stone%20Church.md" class="wikilink" title="Stone Church">Stone Church</a>, the radar dome at the <a href="./Weather%20Station.md" class="wikilink" title="Weather Station">Weather Station</a>, <a href="./Old%20Spence%20Family%20Homestead.md" class="wikilink" title="Old Spence Family Homestead">Old Spence Family Homestead</a>, the train tunnel maintenance passage in <a href="./Far%20Range%20Branch%20Line.md" class="wikilink" title="Far Range Branch Line">Far Range Branch Line</a>, <a href="./Destroyed%20Lookout.md" class="wikilink" title="Destroyed Lookout">Destroyed Lookout</a>, <a href="./Tail%20Section.md" class="wikilink" title="Tail Section">Tail Section</a>, <a href="./Crash%20Site%20%28Pleasant%20Valley%29.md" class="wikilink" title="Crash Site (Pleasant Valley)">Crash Site (Pleasant Valley)</a>, <a href="./Fallen%20Lighthouse.md" class="wikilink" title="Fallen Lighthouse">Fallen Lighthouse</a>.
-- Ruined outdoor buildings that can be entered (such as <a href="./Hermit%27s%20Cabin.md" class="wikilink" title="Hermit&#39;s Cabin">Hermit's Cabin</a>, <a href="./Deadfall%20Area.md" class="wikilink" title="Deadfall Area">Deadfall Area</a>, <a href="./Boss%27s%20Settlement.md" class="wikilink" title="Boss&#39;s Settlement">Boss's Settlement</a>, <a href="./Forester%27s%20Hermitage.md" class="wikilink" title="Forester&#39;s Hermitage">Forester's Hermitage</a>, <a href="./Jailer%27s%20Residence.md" class="wikilink" title="Jailer&#39;s Residence">Jailer's Residence</a>, etc.).
-- <a href="./Fishing%20Hut.md" class="wikilink" title="Fishing Huts">Fishing Huts</a>, checkpoint/toll booths, sheds, and open train box cars (<a href="./Poacher%27s%20Camp.md" class="wikilink" title="Poacher&#39;s Camp">Poacher's Camp</a>, car near <a href="./Remnant%20Cave.md" class="wikilink" title="Remnant Cave">Remnant Cave</a>, car in <a href="./The%20Ravine.md" class="wikilink" title="The Ravine">The Ravine</a>).
-- The Coal Tipple tower next to <a href="./Vacant%20Depot.md" class="wikilink" title="Vacant Depot">Vacant Depot</a>.
-- <a href="./Warm%20Cave.md" class="wikilink" title="Warm Caves">Warm Caves</a> and indoor Transition Zone Caves (<a href="./Cave%20%28Transition%20Zone%29.md" class="wikilink" title="Cave (Transition Zone)">Cave (Transition Zone)</a>, <a href="./Cinder%20Hills%20Coal%20Mine.md" class="wikilink" title="Cinder Hills Coal Mine">Cinder Hills Coal Mine</a>, <a href="./Abandoned%20Mine%20No.%205.md" class="wikilink" title="Abandoned Mine No. 5">Abandoned Mine No. 5</a>, <a href="./No.%203%20Coal%20Mine.md" class="wikilink" title="Abandoned Mine No. 3">Abandoned Mine No. 3</a>, <a href="./Steam%20Tunnels.md" class="wikilink" title="Steam Tunnels">Steam Tunnels</a>).
-- Mines (<a href="./Gold%20Mine.md" class="wikilink" title="Gold Mine">Gold Mine</a>, <a href="./Last%20Prospect.md" class="wikilink" title="Last Prospect">Last Prospect</a>, <a href="./Langston%20Mine.md" class="wikilink" title="Langston Mine">Langston Mine</a>, <a href="./Abandoned%20Mine.md" class="wikilink" title="Abandoned Mine">Abandoned Mine</a>).
+- [The Riken](./The%20Riken.md), [Stone Church](./Stone%20Church.md), the radar dome at the [Weather Station](./Weather%20Station.md), [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md), the train tunnel maintenance passage in [Far Range Branch Line](./Far%20Range%20Branch%20Line.md), [Destroyed Lookout](./Destroyed%20Lookout.md), [Tail Section](./Tail%20Section.md), [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md), [Fallen Lighthouse](./Fallen%20Lighthouse.md).
+- Ruined outdoor buildings that can be entered (such as [Hermit's Cabin](./Hermit%27s%20Cabin.md), [Deadfall Area](./Deadfall%20Area.md), [Boss's Settlement](./Boss%27s%20Settlement.md), [Forester's Hermitage](./Forester%27s%20Hermitage.md), [Jailer's Residence](./Jailer%27s%20Residence.md), etc.).
+- [Fishing Huts](./Fishing%20Hut.md), checkpoint/toll booths, sheds, and open train box cars ([Poacher's Camp](./Poacher%27s%20Camp.md), car near [Remnant Cave](./Remnant%20Cave.md), car in [The Ravine](./The%20Ravine.md)).
+- The Coal Tipple tower next to [Vacant Depot](./Vacant%20Depot.md).
+- [Warm Caves](./Warm%20Cave.md) and indoor Transition Zone Caves ([Cave (Transition Zone)](./Cave%20%28Transition%20Zone%29.md), [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md), [Abandoned Mine No. 5](./Abandoned%20Mine%20No.%205.md), [Abandoned Mine No. 3](./No.%203%20Coal%20Mine.md), [Steam Tunnels](./Steam%20Tunnels.md)).
+- Mines ([Gold Mine](./Gold%20Mine.md), [Last Prospect](./Last%20Prospect.md), [Langston Mine](./Langston%20Mine.md), [Abandoned Mine](./Abandoned%20Mine.md)).
 
 ## Gallery
 
-<table class="gallery">
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Safehouse-custom-before-comp.jpg" title="The Trapper&#39;s Homestead before being customized" loading="lazy" width="140" />
-<figcaption>The <a href="./Trapper%27s%20Homestead.md" class="wikilink" title="Trapper&#39;s Homestead">Trapper's Homestead</a> before being customized</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Safehouse_after-comp.jpg" title="The Homestead after being customized" loading="lazy" width="140" />
-<figcaption>The Homestead after being customized</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Safe_House_Customization_Concept_Art.jpg" title="Safe House furniture Concept Art" loading="lazy" width="140" />
-<figcaption>Safe House furniture Concept Art</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table>
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| ![The Trapper's Homestead before being customized](../assets/Safehouse-custom-before-comp.jpg) / *The [Trapper's Homestead](./Trapper%27s%20Homestead.md) before being customized* | ![The Homestead after being customized](../assets/Safehouse_after-comp.jpg) / *The Homestead after being customized* | ![Safe House furniture Concept Art](../assets/Safe_House_Customization_Concept_Art.jpg) / *Safe House furniture Concept Art* |
 
-**Lua execution error in Module:Navbox function navbox** <a href="ru:%D0%9E%D0%B1%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D1%83%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B0" class="wikilink" title="ru:Обустройство убежища">ru:Обустройство убежища</a>
-
-</div>
+**Lua execution error in Module:Navbox function navbox** [ru:Обустройство убежища](ru:%D0%9E%D0%B1%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D1%83%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B0)

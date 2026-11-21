@@ -7,92 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Foreman's_Site_Report_Day_45"
 
 # Foreman's Site Report Day 45
 
-<div>
+**Foreman's Site Report, Day 45**
 
-<table class="infobox">
-<caption>Foreman's Site Report, Day 45</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Foreman%27s_Site_Report_Day_45_icon.png" loading="lazy" width="250" />
-<figcaption>Foreman's_Site_Report_Day_45_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25" class="wikilink" title="5 December 2023">5 December 2023</a></p></td>
-</tr>
-<tr>
-<td><p>Wintermute</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Item type</p></td>
-<td><p><a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Stackable</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><p>Examine</p></td>
-<td><p>Pages from a technical notebook.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>0 kg (0 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Advanced data</strong></p></td>
-</tr>
-<tr>
-<td><p>Item key</p></td>
-<td><p>GAMEPLAY_Tale2_ForemanLog2</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Foreman%27s_Site_Report_Day_45_icon.png) / *Foreman's\_Site\_Report\_Day\_45\_icon.png* |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Pages from a technical notebook. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Tale2\_ForemanLog2 |
 
-**Foreman's Site Report Day 45** is a <a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a> found in <a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a> as part of the <a href="./Buried%20Echoes.md" class="wikilink" title="Buried Echoes">Buried Echoes</a> <a href="./Tales.md" class="wikilink" title="Tale">Tale</a>. It is found at the bottom of the <a href="./Headframe%20Building.md" class="wikilink" title="Headframe Building">Headframe Building</a> elevator shaft on Level 3 of the <a href="./Langston%20Mine.md" class="wikilink" title="Langston Mine">Langston Mine</a> inside a locked room that needs the <a href="./Foreman%27s%20Key.md" class="wikilink" title="Foreman&#39;s Key">Foreman's Key</a> to open.
+**Foreman's Site Report Day 45** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found at the bottom of the [Headframe Building](./Headframe%20Building.md) elevator shaft on Level 3 of the [Langston Mine](./Langston%20Mine.md) inside a locked room that needs the [Foreman's Key](./Foreman%27s%20Key.md) to open.
 
 ## Transcript
 
-<div style="margin: 0.8em 1.6em;font-style: italic;">
+*The following text is transcribed from **Foreman's Site Report Day 45***
 
-The following text is transcribed from **Foreman's Site Report Day 45**
-
-</div>
-
-<div style="background: #2D3035; border: 1px solid #2D3035; border-radius: 0 0 120px 120px / 0 0 8px 8px; box-shadow: 0 5px 7px -7px rgb(0 0 0 / 40%); max-width: 90ch; overflow: hidden; padding: 2em; margin-bottom: 1em;">
-
-All our temporary scaffolding is coming apart now. Earthquakes and nervous hands will do that.
+**All our temporary scaffolding is coming apart now. Earthquakes and nervous hands will do that.
 
 The final cables are set and insulated. We still don’t know if it’s enough.
 
-The generators they brought in could power a small town through the winter.
-
-</div>
+The generators they brought in could power a small town through the winter.**
 
 ## Update history
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **5 December 2023 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-</div>
 
 **Lua execution error in Module:Navbox function navbox**
 
-<a href="ru:%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B8%D1%80%D0%B0,_%D0%B4%D0%B5%D0%BD%D1%8C_45" class="wikilink" title="ru:Отчет бригадира, день 45">ru:Отчет бригадира, день 45</a>
-
-</div>
+[ru:Отчет бригадира, день 45](ru:%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B8%D1%80%D0%B0,_%D0%B4%D0%B5%D0%BD%D1%8C_45)

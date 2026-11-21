@@ -7,88 +7,42 @@ source: "https://thelongdark.fandom.com/wiki/Hyperglycemic_Risk"
 
 # Hyperglycemic Risk
 
-<div>
-
 **Contents**
 
-- [Overview](#Overview)
-- [Treatment](#Treatment)
-- [Trivia](#Trivia)
-- [Update history](#Update_history)
+- [Overview](#overview)
+- [Treatment](#treatment)
+- [Trivia](#trivia)
+- [Update history](#update-history)
 
-<table class="infobox">
-<caption>Hyperglycemic Risk</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Hyperglycemic_Risk_icon.png]</span>
-<figcaption>Hyperglycemic_Risk_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60" class="wikilink" title="22 October 2019">22 October 2019</a></p></td>
-</tr>
-<tr>
-<td><p>Update</p></td>
-<td><p>1.60</p></td>
-</tr>
-<tr>
-<td><p>Story</p></td>
-<td><p><a href="./Episode%203%20-%20Crossroads%20Elegy.md" class="wikilink" title="Episode 3">Episode 3</a> - <a href="./Fallen%20Star.md" class="wikilink" title="Fallen Star">Fallen Star</a></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Category</p></td>
-<td><p><a href="./Afflictions.md" class="wikilink" title="Afflictions">Afflictions</a></p></td>
-</tr>
-<tr>
-<td><p>Caused By</p></td>
-<td><p>Type-1 Diabetes</p></td>
-</tr>
-<tr>
-<td><p>Effect</p></td>
-<td><p>Negative</p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Disease</p></td>
-</tr>
-<tr>
-<td><p>Affliction Duration</p></td>
-<td><p>Scripted</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Treatment</strong></p></td>
-</tr>
-<tr>
-<td><p>Treatment</p></td>
-<td><p>Administer <a href="./Insulin.md" class="wikilink" title="Insulin">Insulin</a> to Dimitri</p></td>
-</tr>
-<tr>
-<td><p>Recovery Time</p></td>
-<td><p>Instant</p></td>
-</tr>
-</tbody>
-</table>
+**Hyperglycemic Risk**
 
-**Hyperglycemia Risk** is a unique <a href="./Afflictions.md" class="wikilink" title="Affliction">Affliction</a> in *<a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark">The Long Dark</a>* only encountered in <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a> during the mission <a href="./Fallen%20Star.md" class="wikilink" title="Fallen Star">Fallen Star</a> in <a href="./Episode%203%20-%20Crossroads%20Elegy.md" class="wikilink" title="Episode 3: Crossroads Elegy">Episode 3: Crossroads Elegy</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Hyperglycemic_Risk_icon.png) / *Hyperglycemic\_Risk\_icon.png* |
+| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
+| Update | 1.60 |
+| Story | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Caused By | Type-1 Diabetes |
+| Effect | Negative |
+| Type | Disease |
+| Affliction Duration | Scripted |
+| **Treatment** |  |
+| Treatment | Administer [Insulin](./Insulin.md) to Dimitri |
+| Recovery Time | Instant |
+
+**Hyperglycemia Risk** is a unique [Affliction](./Afflictions.md) in *[The Long Dark](./The%20Long%20Dark.md)* only encountered in [Wintermute](./Wintermute.md) during the mission [Fallen Star](./Fallen%20Star.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
 ## Overview
 
-Hyperglycemia is a unique Affliction Risk that affects Dimitri, a <a href="./Crash%20Survivor.md" class="wikilink" title="Crash Survivor">Crash Survivor</a>. Since he has Type-1 Diabetes and his body cannot produce insulin on its own, <a href="./Astrid%20Greenwood.md" class="wikilink" title="Astrid Greenwood">Astrid Greenwood</a> is tasked with retrieving his <a href="./Insulin.md" class="wikilink" title="Insulin">Insulin</a> in order to prolong his life, which has been left in his suitcase (<a href="./Suitcase%20belonging%20to%20Dimitri%20S..md" class="wikilink" title="Suitcase belonging to Dimitri S.">Suitcase belonging to Dimitri S.</a>) at the <a href="./Crash%20Site%20%28Pleasant%20Valley%29.md" class="wikilink" title="Crash Site">Crash Site</a>. Astrid, after bringing the Insulin back to <a href="./Thomson%27s%20Crossing.md" class="wikilink" title="Thomson&#39;s Crossing">Thomson's Crossing</a>, administers the hormone to Dimitri.
+Hyperglycemia is a unique Affliction Risk that affects Dimitri, a [Crash Survivor](./Crash%20Survivor.md). Since he has Type-1 Diabetes and his body cannot produce insulin on its own, [Astrid Greenwood](./Astrid%20Greenwood.md) is tasked with retrieving his [Insulin](./Insulin.md) in order to prolong his life, which has been left in his suitcase ([Suitcase belonging to Dimitri S.](./Suitcase%20belonging%20to%20Dimitri%20S..md)) at the [Crash Site](./Crash%20Site%20%28Pleasant%20Valley%29.md). Astrid, after bringing the Insulin back to [Thomson's Crossing](./Thomson%27s%20Crossing.md), administers the hormone to Dimitri.
 
 Due to gameplay reasons, Dimitri will never truly develop Hyperglycemia and die, no matter how much time passes.
 
 ## Treatment
 
-Simply administering <a href="./Insulin.md" class="wikilink" title="Insulin">Insulin</a> to Dimitri cures the Affliction Risk.
+Simply administering [Insulin](./Insulin.md) to Dimitri cures the Affliction Risk.
 
 ## Trivia
 
@@ -96,13 +50,7 @@ Though not seen in game, it can be inferred that Dimitri will likely begin suffe
 
 ## Update history
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **22 October 2019 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
 
-</div>
-
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

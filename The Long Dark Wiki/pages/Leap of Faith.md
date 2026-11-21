@@ -7,43 +7,22 @@ source: "https://thelongdark.fandom.com/wiki/Leap_of_Faith"
 
 # Leap of Faith
 
-<div>
+**Leap of Faith**
 
-<table class="infobox">
-<caption>Leap of Faith</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Leap_of_Faith_icon.png" loading="lazy" width="250" />
-<figcaption>Leap_of_Faith_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>Escape Blackrock and Complete Episode Four.</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Leap_of_Faith_icon.png) / *Leap\_of\_Faith\_icon.png* |
+| Description | Escape Blackrock and Complete Episode Four. |
 
-**Leap of Faith** is a <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a> <a href="./The%20Long%20Dark%20%E2%80%94%20Achievements.md" class="wikilink" title="achievement">achievement</a> in <a href="./Episode%204%20-%20Fury%2C%20Then%20Silence.md" class="wikilink" title="Episode 4: Fury, then Silence">Episode 4: Fury, then Silence</a> of *<a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark">The Long Dark</a>*.
+**Leap of Faith** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
 
 ## Guide
 
-This is an unmissable story achievement achieved after completing the mission <a href="./Donner%20%28mission%29.md" class="wikilink" title="Donner (mission)">Donner (mission)</a>. After the <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> explodes and you make your way to the <a href="./Power%20Plant.md" class="wikilink" title="Power Plant">Power Plant</a>, a final cutscene will play. Completing Episode 4 will award the achivement.
+This is an unmissable story achievement achieved after completing the mission [Donner (mission)](./Donner%20%28mission%29.md). After the [Blackrock Prison](./Blackrock%20Prison.md) explodes and you make your way to the [Power Plant](./Power%20Plant.md), a final cutscene will play. Completing Episode 4 will award the achivement.
 
 ## Game History
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **6 October 2021 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
 
-</div>
-
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

@@ -7,41 +7,16 @@ source: "https://thelongdark.fandom.com/wiki/Old_Bedroll"
 
 # Old Bedroll
 
-<div>
+**Old Bedroll**
 
-<table class="infobox">
-<caption>Old Bedroll</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: OldBedroll.jpg]</span>
-<figcaption>OldBedroll.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Item Type</p></td>
-<td><p>Item</p></td>
-</tr>
-<tr>
-<td><p>Wintermute</p></td>
-<td><p>Yes|-</p></td>
-</tr>
-<tr>
-<td><p>Harvest</p></td>
-<td><p>6 x <a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a></p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/OldBedroll.jpg) / *OldBedroll.jpg* |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | Yes\|- |
+| Harvest | 6 x [Cloth](./Cloth.md) |
 
-An **Old Bedroll** is a harvestable object found in many trailers across the Island often near <a href="./Pillow.md" class="wikilink" title="Pillows">Pillows</a>. They can be harvested with a <a href="./Hunting%20Knife.md" class="wikilink" title="Hunting Knife">Hunting Knife</a> for 27 minutes and provide 6 <a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a>.
+An **Old Bedroll** is a harvestable object found in many trailers across the Island often near [Pillows](./Pillow.md). They can be harvested with a [Hunting Knife](./Hunting%20Knife.md) for 27 minutes and provide 6 [Cloth](./Cloth.md).
 
-They cannot be used as a <a href="./Bed.md" class="wikilink" title="Bed">Bed</a>. **Lua execution error in Module:Navbox function navbox**
-
-</div>
+They cannot be used as a [Bed](./Bed.md). **Lua execution error in Module:Navbox function navbox**

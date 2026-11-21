@@ -7,50 +7,14 @@ source: "https://thelongdark.fandom.com/wiki/Hangar_Basement"
 
 # Hangar Basement
 
-<div>
+**Hangar Basement**
 
-<table class="infobox">
-<caption>Hangar Basement</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: HangarBasementLights.jpg]</span>
-<figcaption>HangarBasementLights.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Forsaken%20Airfield.md" class="wikilink" title="Forsaken Airfield">Forsaken Airfield</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Firebox</p></td>
-<td></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Bed_icon.png" loading="lazy" width="30" />
-<figcaption>bed_icon.png</figcaption>
-</figure></td>
-<td><p>Has a bed</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Forge_icon_green.png" loading="lazy" width="30" />
-<figcaption>forge_icon_green.png</figcaption>
-</figure></td>
-<td><p>Has a forge|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/HangarBasementLights.jpg) / *HangarBasementLights.jpg* |
+| **Location** |  |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| **General** |  |
+| Firebox |  |
+| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
+| ![](../assets/Forge_icon_green.png) / *forge\_icon\_green.png* | Has a forge\|- |

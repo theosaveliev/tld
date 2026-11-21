@@ -6,52 +6,20 @@ source: "https://thelongdark.fandom.com/wiki/Memories%2FTranscript"
 
 # Memories/Transcript
 
-<div>
+**Memories/Transcript**
 
-<table class="infobox">
-<caption>Memories/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Memories.png" loading="lazy" width="250" />
-<figcaption>Memories.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41" class="wikilink" title="17 December 2018">17 December 2018</a></p></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%201%20-%20Do%20Not%20Go%20Gentle.md" class="wikilink" title="Episode 1: Do Not Go Gentle">Episode 1: Do Not Go Gentle</a></p></td>
-</tr>
-<tr>
-<td><p>Mission Type</p></td>
-<td><p>Primary</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Missions</strong></p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p>None</p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>Memories/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./The%20Crash%20%E2%80%94%20Transcript.md" class="wikilink" title="The Crash/Transcript">The Crash/Transcript</a></p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Memories.png) / *Memories.png* |
+| Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41) |
+| Episode | [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
+| Mission Type | Primary |
+| **Missions** |  |
+| Previous | None |
+| Current | Memories/Transcript |
+| Next | [The Crash/Transcript](./The%20Crash%20%E2%80%94%20Transcript.md) |
 
-This is the mission transcript for mission 1 <a href="./Memories.md" class="wikilink" title="Memories">Memories</a> of <a href="./Episode%201%20-%20Do%20Not%20Go%20Gentle.md" class="wikilink" title="Episode 1: Do Not Go Gentle">Episode 1: Do Not Go Gentle</a>.
+This is the mission transcript for mission 1 [Memories](./Memories.md) of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
 ## Transcript
 
@@ -59,11 +27,11 @@ The intro cutscene "By the Lion's Roar" plays.
 
 ### Intro
 
-*The game begins with the sound of a man grunting in pain and gasping for air, and then the noise of a beating heart, and a person's vision slowly coming to as they blink back into consciousness. The ambient electrical wail of an <a href="./Aurora.md" class="wikilink" title="Aurora">Aurora</a> plays overhead as the camera shifts to reveal trees, fire, smoke, and wreckage of a crashed plane. The survivor begins to get up, before the man cries out:*
+*The game begins with the sound of a man grunting in pain and gasping for air, and then the noise of a beating heart, and a person's vision slowly coming to as they blink back into consciousness. The ambient electrical wail of an [Aurora](./Aurora.md) plays overhead as the camera shifts to reveal trees, fire, smoke, and wreckage of a crashed plane. The survivor begins to get up, before the man cries out:*
 
-**<a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a>: "**...Astrid?"
+**[Will Mackenzie](./Will%20Mackenzie.md): "**...Astrid?"
 
-*The man gets up, and notices a piece of metal lodged in his left hand, hesitating before deciding to pull it out. The process is slow, and is not without consequence, as the man's cries of pain ring out during the pulling. After the <a href="./Scrap%20Metal%20Shard.md" class="wikilink" title="Scrap Metal Shard">Scrap Metal Shard</a> is pulled out, the man shouts to the hills around him.*
+*The man gets up, and notices a piece of metal lodged in his left hand, hesitating before deciding to pull it out. The process is slow, and is not without consequence, as the man's cries of pain ring out during the pulling. After the [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) is pulled out, the man shouts to the hills around him.*
 
 **Mackenzie:** "Astrid!"
 
@@ -75,7 +43,7 @@ The intro cutscene "By the Lion's Roar" plays.
 
 ***At this point, the player has access to the camera and movement controls.***
 
-*The location "<a href="./Jackrabbit%20Hangar.md" class="wikilink" title="Jackrabbit Hangar">Jackrabbit Hangar</a>" appears in the top right corner of the screen, as a first person cutscene of a man is shown playing Solitaire at a desk.*
+*The location "[Jackrabbit Hangar](./Jackrabbit%20Hangar.md)" appears in the top right corner of the screen, as a first person cutscene of a man is shown playing Solitaire at a desk.*
 
 **Mackenzie:** "The Joker. Seems about right."
 
@@ -87,12 +55,12 @@ CHAPTER ONE
 
 MEMORIES
 
-*The man then picks up some <a href="./Wood%20Matches.md" class="wikilink" title="Wood Matches">Wood Matches</a> off the table's corner, some Tinder, and some fuel, and then starts a fire in the nearby <a href="./Wood%20Stove.md" class="wikilink" title="Wood Stove">Wood Stove</a>.*
+*The man then picks up some [Wood Matches](./Wood%20Matches.md) off the table's corner, some Tinder, and some fuel, and then starts a fire in the nearby [Wood Stove](./Wood%20Stove.md).*
 
 *At this point, the player can walk around the hanger and interact with a few items to get a response from the man. Attempting to sleep in the bed will give the message "NOT SLEEPY ENOUGH FOR A NAP."*
 
 - Office
-  - *Map - located next to the <a href="./Wood%20Stove.md" class="wikilink" title="Wood Stove">Wood Stove</a>*. "<a href="./Great%20Bear%20Island.md" class="wikilink" title="Great Bear Island">Great Bear Island</a>. Dad used to fly there all the time. He said it used to be beautiful. Not much reason to go there these days... since the quakes and all."
+  - *Map - located next to the [Wood Stove](./Wood%20Stove.md)*. "[Great Bear Island](./Great%20Bear%20Island.md). Dad used to fly there all the time. He said it used to be beautiful. Not much reason to go there these days... since the quakes and all."
   - *Photo - located on the filing cabinet near the window.* "Ah...a rare Mackenzie family photo. Miss you, dad."
 - Hanger
   - *Floatplane - located in the center of the hanger.* "Well...here we are old girl. your best flights may be behind you, but you're still beautiful to me. And anyways... you're all I've got. I'd sure love to take you on one last great adventure."
@@ -115,7 +83,7 @@ MEMORIES
 
 **Mackenzie:** "Jackrabbit Remote Transport. Mackenzie Speaking."
 
-**<a href="./Characters.md#Maureen" class="wikilink" title="Maureen">Maureen</a>: (Phone)** "I told her not to come up. I told her you couldn't fly in this weather. For once, would you not be so damn stubborn and listen to me..."
+**[Maureen](./Characters.md#Maureen): (Phone)** "I told her not to come up. I told her you couldn't fly in this weather. For once, would you not be so damn stubborn and listen to me..."
 
 **Mackenzie:** "Woah woah...slow down, Maureen. What are you talking about?"
 
@@ -129,7 +97,7 @@ MEMORIES
 
 **Mackenzie:** "Uhh..."
 
-**<a href="./Astrid%20Greenwood.md" class="wikilink" title="Astrid">Astrid</a>:** "Hello Will."
+**[Astrid](./Astrid%20Greenwood.md):** "Hello Will."
 
 **Mackenzie:** "Wha...What are you doing here?"
 
@@ -217,17 +185,17 @@ MEMORIES
 
 *At this point Mackenzie picks up 5 items, and will comment on each one of them.*
 
-- <a href="./Astrid%27s%20Hardcase.md" class="wikilink" title="Astrid&#39;s Hardcase">Astrid's Hardcase</a> - "The mysterious case. Astrid definitely doesn't want to talk about what's inside. Which means...she's probably not supposed to have it."
-- <a href="./Astrid%27s%20Backpack.md" class="wikilink" title="Astrid&#39;s Backpack">Astrid's Backpack</a> - "Astrid's travelling pretty light. Wherever she's going, she must not be planning to stay long."
-- <a href="./First%20Aid%20Kit%20%28tool%29.md" class="wikilink" title="First Aid Kit (tool)">First Aid Kit (tool)</a> - "Astrid's a doctor so we're covered there, but...probably best to have some extra meds just in case."
-- <a href="./Distress%20Pistol%20Kit.md" class="wikilink" title="Distress Pistol Kit">Distress Pistol Kit</a> - "The distress pistol kit is heavy, but I'd hate to end up in an emergency situation without it."
-- <a href="./Emergency%20Food.md" class="wikilink" title="Emergency Food">Emergency Food</a> - "Water, energy bars, purification tablets. Breakfast of champions."
+- [Astrid's Hardcase](./Astrid%27s%20Hardcase.md) - "The mysterious case. Astrid definitely doesn't want to talk about what's inside. Which means...she's probably not supposed to have it."
+- [Astrid's Backpack](./Astrid%27s%20Backpack.md) - "Astrid's travelling pretty light. Wherever she's going, she must not be planning to stay long."
+- [First Aid Kit (tool)](./First%20Aid%20Kit%20%28tool%29.md) - "Astrid's a doctor so we're covered there, but...probably best to have some extra meds just in case."
+- [Distress Pistol Kit](./Distress%20Pistol%20Kit.md) - "The distress pistol kit is heavy, but I'd hate to end up in an emergency situation without it."
+- [Emergency Food](./Emergency%20Food.md) - "Water, energy bars, purification tablets. Breakfast of champions."
 
 *Ultimately he loads Astrid's Backpack and Hardcase, and possibly an optional item.*
 
 **Mackenzie:** "Just let me grab my parka and we can go."
 
-*Mackenzie grabs his Parka and the final cutscene begins. The floatplane engine whirs as it flies over a forest high above <a href="./Great%20Bear%20Island.md" class="wikilink" title="Great Bear Island">Great Bear Island</a>. The camera switches to Mackenzie operating the controls with him and Astrid both wearing communication headsets.*
+*Mackenzie grabs his Parka and the final cutscene begins. The floatplane engine whirs as it flies over a forest high above [Great Bear Island](./Great%20Bear%20Island.md). The camera switches to Mackenzie operating the controls with him and Astrid both wearing communication headsets.*
 
 **Astrid (COM):** "I see you're still wearing it."
 
@@ -317,6 +285,4 @@ MEMORIES
 
 *Astrid and Mackenzie hold hands as the plane continues to fall. The final shot of the cutscene shows the floatplane barely scrapping the canopy of several trees of the forest below them before the scene fades to black.*
 
-Chapter 2 <a href="./The%20Crash%20%E2%80%94%20Transcript.md" class="wikilink" title="The Crash">The Crash</a> begins **Lua execution error in Module:Navbox function navbox**
-
-</div>
+Chapter 2 [The Crash](./The%20Crash%20%E2%80%94%20Transcript.md) begins **Lua execution error in Module:Navbox function navbox**

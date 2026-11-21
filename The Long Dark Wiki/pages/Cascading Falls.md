@@ -7,42 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/Cascading_Falls"
 
 # Cascading Falls
 
-<div>
+**Cascading Falls**
 
-<table class="infobox">
-<caption>Cascading Falls</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Cascading_Falls.jpg]</span>
-<figcaption>Cascading_Falls.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Cascading_Falls_Location.png]</span>
-<figcaption>Cascading_Falls_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Landmark|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Cascading_Falls.jpg) / *Cascading\_Falls.jpg* |
+| **Location** |  |
+|  | ![](../assets/Cascading_Falls_Location.png) / *Cascading\_Falls\_Location.png* |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| **General** |  |
+| Type | Landmark\|- |

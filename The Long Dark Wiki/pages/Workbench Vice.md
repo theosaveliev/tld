@@ -7,67 +7,34 @@ source: "https://thelongdark.fandom.com/wiki/Workbench_Vice"
 
 # Workbench Vice
 
-<div>
+**Workbench Vice**
 
-<table class="infobox">
-<caption>Workbench Vice</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Workbench_Vice_icon.png" loading="lazy" width="250" />
-<figcaption>Workbench_Vice_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33" class="wikilink" title="TFTFT Part 6 Broken Silence">TFTFT Part 6 Broken Silence</a></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Item type</p></td>
-<td><p><a href="./Materials.md" class="wikilink" title="Materials">Materials</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>2.00 kg (4.4 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Actions</strong></p></td>
-</tr>
-<tr>
-<td><p>Backpack</p></td>
-<td><p>Examine, Drop, Pick up</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Workbench_Vice_icon.png) / *Workbench\_Vice\_icon.png* |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Properties** |  |
+| Item type | [Materials](./Materials.md)\|- |
+| **Values** |  |
+| Weight | 2.00 kg (4.4 lbs) |
+| **Actions** |  |
+| Backpack | Examine, Drop, Pick up |
 
-A **Workbench Vice** is a <a href="./Materials.md" class="wikilink" title="Materials">Materials</a> obtained from <a href="./Harvesting.md" class="wikilink" title="Harvesting">Harvesting</a> a wooden or metal <a href="./Work%20Bench.md" class="wikilink" title="Work Bench">Work Bench</a>. It allows the player to create a new Work Bench as part of the <a href="./Safehouse%20Customization.md" class="wikilink" title="Safehouse Customization">Safehouse Customization</a> feature, and place it in any Safehouse.
+A **Workbench Vice** is a [Materials](./Materials.md) obtained from [Harvesting](./Harvesting.md) a wooden or metal [Work Bench](./Work%20Bench.md). It allows the player to create a new Work Bench as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature, and place it in any Safehouse.
 
 ## Overview
 
-- <a href="./Harvesting.md" class="wikilink" title="Harvesting">Harvesting</a> a Metal <a href="./Work%20Bench.md" class="wikilink" title="Work Bench">Work Bench</a> with a <a href="./Hacksaw.md" class="wikilink" title="Hacksaw">Hacksaw</a> will produce 10 Scrap Metal and 1 Workbench Vice in 4 hours.
-- Harvesting a Wooden Work Bench with a Hacksaw will produce 8 <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a> and 1 Workbench Vice in 3 hours.
-- The player crafted Work Bench can be harvested with a <a href="./Hatchet.md" class="wikilink" title="Hatchet">Hatchet</a> to produce a Workbench Vice and 10 <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a> in 1.45 hours.
+- [Harvesting](./Harvesting.md) a Metal [Work Bench](./Work%20Bench.md) with a [Hacksaw](./Hacksaw.md) will produce 10 Scrap Metal and 1 Workbench Vice in 4 hours.
+- Harvesting a Wooden Work Bench with a Hacksaw will produce 8 [Reclaimed Wood](./Reclaimed%20Wood.md) and 1 Workbench Vice in 3 hours.
+- The player crafted Work Bench can be harvested with a [Hatchet](./Hatchet.md) to produce a Workbench Vice and 10 [Cedar Firewood](./Cedar%20Firewood.md) in 1.45 hours.
 - Workbench Vices cannot be created, only harvested from existing Work Benches.
 
 There are currently 50 Work Benches found in the game, producing a limited amount of Vices to prevent the player from easily making infinite Work Benches.
 
-  
-<span class="dablink">*For a full list of locations with a Work Bench, see :Category:Locations with a workbench.*</span>
+*For a full list of locations with a Work Bench, see :Category:Locations with a workbench.*
 
 ## Products
 
 ## Game History
 
-**Template:update historyLua execution error in Module:Navbox function navbox**
-
-</div>
+**Template:update history****Lua execution error in Module:Navbox function navbox**

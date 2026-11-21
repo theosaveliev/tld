@@ -7,131 +7,80 @@ source: "https://thelongdark.fandom.com/wiki/Old_Bear"
 
 # Old Bear
 
-<div>
-
 **Contents**
 
-- [Episode 1](#Episode_1)
-- [Paradise Lost](#Paradise_Lost)
-- [Episode 2](#Episode_2)
-- [The Wounded Trapper](#The_Wounded_Trapper)
-- [The Best Defense](#The_Best_Defense)
-- [Signal to Noise](#Signal_to_Noise)
-- [What One Man Can Do](#What_One_Man_Can_Do)
-- [Challenges](#Challenges)
-- [Part One](#Part_One)
-- [Part Two](#Part_Two)
-- [Part Three](#Part_Three)
-- [Gallery](#Gallery)
-- [Redux Episode 2](#Redux_Episode_2)
-- [Predux Episode 2](#Predux_Episode_2)
-- [The Hunted Challenges](#The_Hunted_Challenges)
-- [Trivia](#Trivia)
+- [Episode 1](#episode-1)
+- [Paradise Lost](#paradise-lost)
+- [Episode 2](#episode-2)
+- [The Wounded Trapper](#the-wounded-trapper)
+- [The Best Defense](#the-best-defense)
+- [Signal to Noise](#signal-to-noise)
+- [What One Man Can Do](#what-one-man-can-do)
+- [Challenges](#challenges)
+- [Part One](#part-one)
+- [Part Two](#part-two)
+- [Part Three](#part-three)
+- [Gallery](#gallery)
+- [Redux Episode 2](#redux-episode-2)
+- [Predux Episode 2](#predux-episode-2)
+- [The Hunted Challenges](#the-hunted-challenges)
+- [Trivia](#trivia)
 
-<table class="infobox">
-<caption>Old Bear</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Old_Bear.png" loading="lazy" width="250" />
-<figcaption>Old_Bear.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Basic Information</strong></p></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321" class="wikilink" title="21 April 2016">21 April 2016</a></p></td>
-</tr>
-<tr>
-<td><p>Role</p></td>
-<td><p>Predator</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Physical Information</strong></p></td>
-</tr>
-<tr>
-<td><p>Color</p></td>
-<td><p>Black</p></td>
-</tr>
-<tr>
-<td><p>Size</p></td>
-<td><p>Large</p></td>
-</tr>
-<tr>
-<td><p>Eyes</p></td>
-<td><p>Brown</p></td>
-</tr>
-</tbody>
-</table>
+**Old Bear**
 
-<div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Old_Bear.png) / *Old\_Bear.png* |
+| **Basic Information** |  |
+| Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.321) |
+| Role | Predator |
+| **Physical Information** |  |
+| Color | Black |
+| Size | Large |
+| Eyes | Brown |
 
-**Spoiler Warning:**<span class="small">*This page may contain spoilers from the <a href="./Wintermute.md" class="wikilink" title="story">story</a> of The Long Dark.*</span>
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
-</div>
+> “**M - What's the story with this bear?  
+ J - Story's real simple. That bear and me, we have unfinished business...Yeah. You could call it a trade in kind. Every time we meet, we each leave with a little of the other's blood.**”
+>
+> — [Mackenzie](./Will%20Mackenzie.md) and [Jeremiah](./Jeremiah.md) discussing the Old Bear.
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="vertical-align: top; font-size: 3em; color: #5d5980; padding-right: 10px"><p>“</p></td>
-<td><p><span style="font-style:italic">M - What's the story with this bear?<br />
-J - Story's real simple. That bear and me, we have unfinished business...Yeah. You could call it a trade in kind. Every time we meet, we each leave with a little of the other's blood.</span></p>
-<div style="clear:both">
-&#10;</div>
-<div style="float:right; font-size:9pt">
-<p><a href="./Will%20Mackenzie.md" class="wikilink" title="Mackenzie">Mackenzie</a> and <a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a> discussing the Old Bear.</p>
-</div></td>
-<td style="vertical-align: bottom; font-size: 3em; color: #5d5980; padding-left: 10px"><p>”</p></td>
-</tr>
-</tbody>
-</table>
-
-The **Old Bear** is a unique <a href="./Bear.md" class="wikilink" title="Bear">Bear</a> and the primary antagonist of <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2: Luminance Fugue">Episode 2: Luminance Fugue</a> in <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a>. He also appears as the antagonist of <a href="./The%20Hunted%2C%20Part%20One.md" class="wikilink" title="The Hunted Part One">The Hunted Part One</a>, <a href="./The%20Hunted%2C%20Part%20Two.md" class="wikilink" title="Part Two">Part Two</a>, and <a href="./The%20Hunted%2C%20Part%20Three.md" class="wikilink" title="Part Three">Part Three</a> <a href="./Challenge.md" class="wikilink" title="Challenges">Challenges</a>.
+The **Old Bear** is a unique [Bear](./Bear.md) and the primary antagonist of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) in [Wintermute](./Wintermute.md). He also appears as the antagonist of [The Hunted Part One](./The%20Hunted%2C%20Part%20One.md), [Part Two](./The%20Hunted%2C%20Part%20Two.md), and [Part Three](./The%20Hunted%2C%20Part%20Three.md) [Challenges](./Challenge.md).
 
 ## Episode 1
 
-### <a href="./Paradise%20Lost.md" class="wikilink" title="Paradise Lost">Paradise Lost</a>
+### [Paradise Lost](./Paradise%20Lost.md)
 
-The Old Bear is first seen in the closing seconds of <a href="./Episode%201%20-%20Do%20Not%20Go%20Gentle.md" class="wikilink" title="Episode 1">Episode 1</a>, where <a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a> sees him attacking <a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a>, who takes the trapper's rifle to shoot it as the episode ends.
+The Old Bear is first seen in the closing seconds of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), where [Will Mackenzie](./Will%20Mackenzie.md) sees him attacking [Jeremiah](./Jeremiah.md), who takes the trapper's rifle to shoot it as the episode ends.
 
 ## Episode 2
 
-### <a href="./The%20Wounded%20Trapper.md" class="wikilink" title="The Wounded Trapper">The Wounded Trapper</a>
+### [The Wounded Trapper](./The%20Wounded%20Trapper.md)
 
-In <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a>, the Old Bear makes his first appearance at the <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a>, where he charges Mackenzie right as he enters the fenced-in Staging Area. Mackenzie manages to close the gate, stopping the charge but is knocked out. When Mackenzie awakens some time later, the bear is gone.
+In [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md), the Old Bear makes his first appearance at the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md), where he charges Mackenzie right as he enters the fenced-in Staging Area. Mackenzie manages to close the gate, stopping the charge but is knocked out. When Mackenzie awakens some time later, the bear is gone.
 
-After finding meds for the old trapper, Jeremiah tells Mackenzie that the bear will hunt them both across the island unless they kill him since the Old Bear has a taste for the blood of men. He recounts a story where a similar Old Bear from 150 years ago was nicknamed the "Demon Bear" after a Hunting party of three members failed to kill him despite allegedly unloading their rifles into him. Jeremiah concludes that the only possible way to kill the bear is with the legendary <a href="./Bear%20Spear.md" class="wikilink" title="Bear Spear">Bear Spear</a>, and directs a reluctant Mackenzie to the <a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a> in <a href="./Broken%20Railroad.md" class="wikilink" title="Broken Railroad">Broken Railroad</a> to retrieve it.
+After finding meds for the old trapper, Jeremiah tells Mackenzie that the bear will hunt them both across the island unless they kill him since the Old Bear has a taste for the blood of men. He recounts a story where a similar Old Bear from 150 years ago was nicknamed the "Demon Bear" after a Hunting party of three members failed to kill him despite allegedly unloading their rifles into him. Jeremiah concludes that the only possible way to kill the bear is with the legendary [Bear Spear](./Bear%20Spear.md), and directs a reluctant Mackenzie to the [Hunting Lodge](./Hunting%20Lodge.md) in [Broken Railroad](./Broken%20Railroad.md) to retrieve it.
 
-### <a href="./The%20Best%20Defense.md" class="wikilink" title="The Best Defense">The Best Defense</a>
+### [The Best Defense](./The%20Best%20Defense.md)
 
-The Old Bear is encountered again in Broken Railroad, where he pushes over a <a href="./Train%20Shuttle.md" class="wikilink" title="Train Shuttle">Train Shuttle</a> that Mackenzie is inside of, knocking him unconscious. When he awakes, Mackenzie finds the bear missing, replaced instead by <a href="./Methuselah.md" class="wikilink" title="Methuselah">Methuselah</a> sitting by a fire under an <a href="./Aurora.md" class="wikilink" title="Aurora">Aurora</a>.
+The Old Bear is encountered again in Broken Railroad, where he pushes over a [Train Shuttle](./Train%20Shuttle.md) that Mackenzie is inside of, knocking him unconscious. When he awakes, Mackenzie finds the bear missing, replaced instead by [Methuselah](./Methuselah.md) sitting by a fire under an [Aurora](./Aurora.md).
 
 After Mackenzie find and repairs the Bear Spear, the Old Bear is seen keeping his distance from the pilot on a nearby ledge as he makes his way through Forlorn Muskeg back to Mystery Lake. Mackenzie wonders that perhaps the Bear Spear does have some magical protection to it, at least for now, before taunting the retreating Old Bear.
 
-### <a href="./Signal%20to%20Noise.md" class="wikilink" title="Signal to Noise">Signal to Noise</a>
+### [Signal to Noise](./Signal%20to%20Noise.md)
 
-In the third mission, the Bear guards one/two of the Shortwave Towers required to get the <a href="./Transponder%20Parts.md" class="wikilink" title="Transponder Parts">Transponder Parts</a> to boost Jeremiah's shortwave radio. He can be driven away by using the Bear Spear before struggling with him.
+In the third mission, the Bear guards one/two of the Shortwave Towers required to get the [Transponder Parts](./Transponder%20Parts.md) to boost Jeremiah's shortwave radio. He can be driven away by using the Bear Spear before struggling with him.
 
 When attempting to return to Mystery Lake after getting all the parts, the Old Bear ambushes Mackenzie and then drags him to his den.
 
-### <a href="./What%20One%20Man%20Can%20Do.md" class="wikilink" title="What One Man Can Do">What One Man Can Do</a>
+### [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)
 
-The player must navigate through the <a href="./Old%20Bear%27s%20Den.md" class="wikilink" title="Old Bear&#39;s Den">Old Bear's Den</a> while avoiding the bear in order to retrieve the Bear Spear. Mackenzie successfully kills the Old Bear for good with the spear, apologizing to the creature's remains that he did not intend to kill him, but unfortunately "this world will make murders of us all." Mackenzie later returns to the Trapper's Homestead with the Transponder Parts and informs Jeremiah that the bear is dead, before passing out.
+The player must navigate through the [Old Bear's Den](./Old%20Bear%27s%20Den.md) while avoiding the bear in order to retrieve the Bear Spear. Mackenzie successfully kills the Old Bear for good with the spear, apologizing to the creature's remains that he did not intend to kill him, but unfortunately "this world will make murders of us all." Mackenzie later returns to the Trapper's Homestead with the Transponder Parts and informs Jeremiah that the bear is dead, before passing out.
 
 ## Challenges
 
-As well as his role in the story, the Old Bear appears in <a href="./The%20Hunted%2C%20Part%20One.md" class="wikilink" title="The Hunted, Part One">The Hunted, Part One</a>, <a href="./The%20Hunted%2C%20Part%20Two.md" class="wikilink" title="The Hunted, Part Two">The Hunted, Part Two</a>, and <a href="./The%20Hunted%2C%20Part%20Three.md" class="wikilink" title="The Hunted, Part Three">The Hunted, Part Three</a> <a href="./Challenge.md" class="wikilink" title="Challenges">Challenges</a>. In the first two challenges, the bear is invincible and cannot be killed.
+As well as his role in the story, the Old Bear appears in [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md), [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md), and [The Hunted, Part Three](./The%20Hunted%2C%20Part%20Three.md) [Challenges](./Challenge.md). In the first two challenges, the bear is invincible and cannot be killed.
 
 ### Part One
 
@@ -149,140 +98,32 @@ The Old Bear is slated to appear in a third challenge.
 
 ### Redux Episode 2
 
-<table class="gallery">
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Old_Bear_Steam_Card_Preview.png" title="Steam Trading Card" loading="lazy" width="140" />
-<figcaption>Steam Trading Card</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Old_Bear_Steam_Card.jpg]</span>
-<figcaption>Ditto, full screen</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Demonbear.jpg]</span>
-<figcaption>Demon Bear / Old Bear</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: 20190222163731_1.jpg]</span>
-<figcaption>The Spear Used To Kill The Bear</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Bear_attack_2.jpg]</span>
-<figcaption>The Bear Knocking Down The Train Car You're In.</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Bear_attack.jpg]</span>
-<figcaption>The Bear Backing Off After Getting The Spear.</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: The_Long_Dark_-_episode_two_-_jeremiahs_bear.png]</span>
-<figcaption>The Old Bear attacking the player</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Old_Bear_Scars.jpg]</span>
-<figcaption>The 2 scars on his right side</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table>
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| --- | --- | --- | --- |
+| ![Steam Trading Card](../assets/Old_Bear_Steam_Card_Preview.png) / *Steam Trading Card* | ![Ditto, full screen](../assets/Old_Bear_Steam_Card.jpg) / *Ditto, full screen* | ![Demon Bear / Old Bear](../assets/Demonbear.jpg) / *Demon Bear / Old Bear* | ![The Spear Used To Kill The Bear](../assets/20190222163731_1.jpg) / *The Spear Used To Kill The Bear* |
+| ![The Bear Knocking Down The Train Car You're In.](../assets/Bear_attack_2.jpg) / *The Bear Knocking Down The Train Car You're In.* | ![The Bear Backing Off After Getting The Spear.](../assets/Bear_attack.jpg) / *The Bear Backing Off After Getting The Spear.* | ![The Old Bear attacking the player](../assets/The_Long_Dark_-_episode_two_-_jeremiahs_bear.png) / *The Old Bear attacking the player* | ![The 2 scars on his right side](../assets/Old_Bear_Scars.jpg) / *The 2 scars on his right side* |
 
 ### Predux Episode 2
 
-<table class="gallery">
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<span>[Missing image: Jeremiah's_Folly.jpg]</span>
-<figcaption>The Old Bear attacking Mackenzie (Predux)</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: The_Old_Bear_dead.jpg]</span>
-<figcaption>The Old Bear slain in <a href="./Jeremiah%27s%20Folly.md" class="wikilink" title="Jeremiah&#39;s Folly">Jeremiah's Folly</a> (Predux)</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Dead_Old_Bear_Arrows.jpg]</span>
-<figcaption>The arrows stuck in the Old Bear (Predux)</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/The_Old_Bear%27s_Ear_icon.png" title="The Old Bear&#39;s Ear (Predux)" loading="lazy" width="140" />
-<figcaption><a href="./The%20Old%20Bear%27s%20Ear.md" class="wikilink" title="The Old Bear&#39;s Ear">The Old Bear's Ear</a> (Predux)</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table>
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| --- | --- | --- | --- |
+| ![The Old Bear attacking Mackenzie (Predux)](../assets/Jeremiah%27s_Folly.jpg) / *The Old Bear attacking Mackenzie (Predux)* | ![The Old Bear slain in Jeremiah's Folly (Predux)](../assets/The_Old_Bear_dead.jpg) / *The Old Bear slain in [Jeremiah's Folly](./Jeremiah%27s%20Folly.md) (Predux)* | ![The arrows stuck in the Old Bear (Predux)](../assets/Dead_Old_Bear_Arrows.jpg) / *The arrows stuck in the Old Bear (Predux)* | ![The Old Bear's Ear (Predux)](../assets/The_Old_Bear%27s_Ear_icon.png) / *[The Old Bear's Ear](./The%20Old%20Bear%27s%20Ear.md) (Predux)* |
 
 ### The Hunted Challenges
 
-<table class="gallery">
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Challenge_Hunted.png" title="The Hunted, Part One" loading="lazy" width="140" />
-<figcaption><a href="./The%20Hunted%2C%20Part%20One.md" class="wikilink" title="The Hunted, Part One">The Hunted, Part One</a></figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: The_Hunted,_Part_One.png]</span>
-<figcaption>Ditto, old icon</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Badge_challenge_huntedPart2.png" title="The Hunted, Part One Badge" loading="lazy" width="140" />
-<figcaption>The Hunted, Part One Badge</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Hunted_1.jpg" title="The Hunted, Part One fanart" loading="lazy" width="140" />
-<figcaption>The Hunted, Part One fanart</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Challenge_Hunted2.png" title="The Hunted, Part Two" loading="lazy" width="140" />
-<figcaption><a href="./The%20Hunted%2C%20Part%20Two.md" class="wikilink" title="The Hunted, Part Two">The Hunted, Part Two</a></figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/The_Hunted_Part_One_icon.png" title="The Badge awarded from The Hunted, Part Two" loading="lazy" width="140" />
-<figcaption>The Badge awarded from The Hunted, Part Two</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Hunted_2.jpg]</span>
-<figcaption>The Hunted, Part Two fanart</figcaption>
-</figure></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| --- | --- | --- | --- |
+| ![The Hunted, Part One](../assets/Challenge_Hunted.png) / *[The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md)* | ![Ditto, old icon](../assets/The_Hunted%2C_Part_One.png) / *Ditto, old icon* | ![The Hunted, Part One Badge](../assets/Badge_challenge_huntedPart2.png) / *The Hunted, Part One Badge* | ![The Hunted, Part One fanart](../assets/Hunted_1.jpg) / *The Hunted, Part One fanart* |
+| ![The Hunted, Part Two](../assets/Challenge_Hunted2.png) / *[The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md)* | ![The Badge awarded from The Hunted, Part Two](../assets/The_Hunted_Part_One_icon.png) / *The Badge awarded from The Hunted, Part Two* | ![The Hunted, Part Two fanart](../assets/Hunted_2.jpg) / *The Hunted, Part Two fanart* |  |
 
 ## Trivia
 
 - Jeremiah constantly refers to the bear as "He" despite no genitals being present on the body.
 - The Old Bear differs in appearance from normal bears; having 3 arrows imbedded behind the bear's head (with one broken off), blood all over the mouth, a scar below the right eye, small scars on the muzzle, longer leg and back hair, and 2 scars on the right side of his body above the belly.
-- Aside from aesthetics, the bear is mechanically similar to any other bear the player might encounter (albeit immune to being killed). <a href="./Wolf.md" class="wikilink" title="Wolves">Wolves</a> will run from the Old Bear.
-- The Old Bear's home is situated in <a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a>, inside the <a href="./Old%20Bear%27s%20Den.md" class="wikilink" title="Old Bear&#39;s Den">Old Bear's Den</a>.
+- Aside from aesthetics, the bear is mechanically similar to any other bear the player might encounter (albeit immune to being killed). [Wolves](./Wolf.md) will run from the Old Bear.
+- The Old Bear's home is situated in [Forlorn Muskeg](./Forlorn%20Muskeg.md), inside the [Old Bear's Den](./Old%20Bear%27s%20Den.md).
 - In The Hunted, Part Two, the bear follows a very specific path as it runs across Mystery Lake. If the player doesn't see the old bear, they might need to walk along a certain path to get it to spawn.
-- In Episode 2, unlike normal bears The Old Bear when charging at the Mackenzie is unaffected by the <a href="./Distress%20Pistol.md" class="wikilink" title="distress pistol">distress pistol</a>, although in the <a href="./The%20Hunted%2C%20Part%20One.md" class="wikilink" title="Challenge: The Hunted">Challenge: The Hunted</a> it is deterred by distress pistol shots.
-- Old Bear especially by its other names ("Demon Bear" or "Evil Spirit") and the <a href="./Bear%20Spear.md" class="wikilink" title="The Bear Spear">The Bear Spear</a> and <a href="./Old%20Spence%20Family%20Homestead.md" class="wikilink" title="Old Spence&#39;s">Old Spence's</a> story are references to the fantasy manga ["Ushio & Tora" (うしおととら)](https://en.wikipedia.org/wiki/Ushio_%26_Tora) written and illustrated by Kazuhiro Fujita. Both stories feature a supernatural spear with red cloth around its neck forged by a character driven mad for revenge to kill "evil spirits".
+- In Episode 2, unlike normal bears The Old Bear when charging at the Mackenzie is unaffected by the [distress pistol](./Distress%20Pistol.md), although in the [Challenge: The Hunted](./The%20Hunted%2C%20Part%20One.md) it is deterred by distress pistol shots.
+- Old Bear especially by its other names ("Demon Bear" or "Evil Spirit") and the [The Bear Spear](./Bear%20Spear.md) and [Old Spence's](./Old%20Spence%20Family%20Homestead.md) story are references to the fantasy manga ["Ushio &amp; Tora" (うしおととら)](https://en.wikipedia.org/wiki/Ushio_%26_Tora) written and illustrated by Kazuhiro Fujita. Both stories feature a supernatural spear with red cloth around its neck forged by a character driven mad for revenge to kill "evil spirits".
 
-**Lua execution error in Module:Navbox function navbox** <a href="ru:%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C" class="wikilink" title="ru:Старина Медведь">ru:Старина Медведь</a>
-
-</div>
+**Lua execution error in Module:Navbox function navbox** [ru:Старина Медведь](ru:%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C)

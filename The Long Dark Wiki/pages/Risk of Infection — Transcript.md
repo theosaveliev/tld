@@ -7,57 +7,26 @@ source: "https://thelongdark.fandom.com/wiki/Risk_of_Infection%2FTranscript"
 
 # Risk of Infection/Transcript
 
-<div>
-
 **Contents**
 
-- [Opening cutscene](#Opening_cutscene)
-- [Find, and enter the abandoned dam.](#Find%2C_and_enter_the_abandoned_dam.)
-- [Search for medical supplies that can help the old trapper.](#Search_for_medical_supplies_that_can_help_the_old_trapper.)
-- [Get the meds back to the trapper before he dies.](#Get_the_meds_back_to_the_trapper_before_he_dies.)
+- [Opening cutscene](#opening-cutscene)
+- [Find, and enter the abandoned dam.](#find-and-enter-the-abandoned-dam)
+- [Search for medical supplies that can help the old trapper.](#search-for-medical-supplies-that-can-help-the-old-trapper)
+- [Get the meds back to the trapper before he dies.](#get-the-meds-back-to-the-trapper-before-he-dies)
 
-<table class="infobox">
-<caption>Risk of Infection/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Risk_of_Infection.jpg]</span>
-<figcaption>Risk_of_Infection.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md" class="wikilink" title="Paradise Lost (Predux)/Transcript">Paradise Lost (Predux)/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>Risk of Infection/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p>You Fix My Rifle?/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake (region)">Mystery Lake (region)</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a><br />
-<a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a></p></td>
-</tr>
-</tbody>
-</table>
+**Risk of Infection/Transcript**
 
-This is the transcript for Chapter 1 <a href="./Risk%20of%20Infection.md" class="wikilink" title="Risk of Infection">Risk of Infection</a> for Predux <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2: Luminance Fugue">Episode 2: Luminance Fugue</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Risk_of_Infection.jpg) / *Risk\_of\_Infection.jpg* |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [Paradise Lost (Predux)/Transcript](./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md) |
+| Current | Risk of Infection/Transcript |
+| Next | You Fix My Rifle?/Transcript |
+| Region | [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) |
+
+This is the transcript for Chapter 1 [Risk of Infection](./Risk%20of%20Infection.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
 ## Opening cutscene
 
@@ -65,11 +34,11 @@ This is the transcript for Chapter 1 <a href="./Risk%20of%20Infection.md" class=
 
 *The scene starts with Mackenzie sitting in a chair, as the man he saved from the bear is sitting on a cot in a cabin. A Wood Stove burning by their side. Eventually the man awakes grunting in pain, and Mackenzie goes over to check on him.*
 
-<a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a>: "...where...bear...aaah!!"
+[Jeremiah](./Jeremiah.md): "...where...bear...aaah!!"
 
 *The wounded man struggles to get out of bed as Mackenzie walks over*
 
-<a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a>: "Easy...easy. You're ok now. The bear's gone."
+[Will Mackenzie](./Will%20Mackenzie.md): "Easy...easy. You're ok now. The bear's gone."
 
 *Mackenzie takes a seat on the bench next to him*
 
@@ -129,11 +98,11 @@ Mackenzie: "Hang in there...whatever your name is."
 
 Mackenzie: "That trapper's my key to getting out of here. He'd better not die on me."
 
-*If the player attempts to enter <a href="./The%20Ravine.md" class="wikilink" title="The Ravine">The Ravine</a> by the Carter Staging Area, <a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a> by the <a href="./Rail%20Tunnel.md" class="wikilink" title="Rail Tunnel">Rail Tunnel</a>, or re-enter <a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a> by Trapper's Cabin, Mackenzie will say:*
+*If the player attempts to enter [The Ravine](./The%20Ravine.md) by the Carter Staging Area, [Forlorn Muskeg](./Forlorn%20Muskeg.md) by the [Rail Tunnel](./Rail%20Tunnel.md), or re-enter [Mountain Town](./Mountain%20Town.md) by Trapper's Cabin, Mackenzie will say:*
 
 Mackenzie: "I have to stay focused on the task at hand."
 
-*Otherwise, Mackenzie wastes no time making his way to the Dam, walking over the hills and then taking the tracks to reach his destination. Upon finding the Dam, he finds the gate locked. Mackenzie sees two trailers nearby and enters them, finding the <a href="./Carter%20Hydro%20Staging%20Area%20Gate%20Key.md" class="wikilink" title="Carter Hydro Staging Area Gate Key">Carter Hydro Staging Area Gate Key</a> in a Locker and returning to open the gate*
+*Otherwise, Mackenzie wastes no time making his way to the Dam, walking over the hills and then taking the tracks to reach his destination. Upon finding the Dam, he finds the gate locked. Mackenzie sees two trailers nearby and enters them, finding the [Carter Hydro Staging Area Gate Key](./Carter%20Hydro%20Staging%20Area%20Gate%20Key.md) in a Locker and returning to open the gate*
 
 Mackenzie: "Carter Dam...hmm. This place has seen better days."
 
@@ -145,7 +114,7 @@ Mackenzie: "Carter Dam...hmm. This place has seen better days."
 
 *Mackenzie: "If the old trapper gets sick and dies...what he knows will die with him."*
 
-*Approaching the two doors near the reception, a cutscene plays. Mackenzie ducks under two fallen girders pinned between two Metal Shelves. He ducks under another fallen girder before finding a door with the words CONTROL ROOM on it, with a <a href="./Keypad.md" class="wikilink" title="Keypad">Keypad</a> nearby*
+*Approaching the two doors near the reception, a cutscene plays. Mackenzie ducks under two fallen girders pinned between two Metal Shelves. He ducks under another fallen girder before finding a door with the words CONTROL ROOM on it, with a [Keypad](./Keypad.md) nearby*
 
 *Mackenzie: "What the hell happened here, anyways? Control room? That sounds promising."*
 
@@ -155,11 +124,11 @@ Mackenzie: "Carter Dam...hmm. This place has seen better days."
 
 *Mackenzie enters a nearby room with an elevator, but the "Call Elevator" buttons do not work either. He turns around and sees a stairwell downstairs, but it is blocked by a locked gate. He turns around and finds a bathroom with a Frozen Corpse inside*
 
-*He reluctantly frisks the body, and finds an <a href="./Admin%20Office%20Key.md" class="wikilink" title="Admin Office Key">Admin Office Key</a>. Mackenzie finds another stairwell near the bathroom, and heads upstairs to an office space, and spots a <a href="./Medical%20Locker.md" class="wikilink" title="Medical Locker">Medical Locker</a> under a sign labeled "AIDS STATION".*
+*He reluctantly frisks the body, and finds an [Admin Office Key](./Admin%20Office%20Key.md). Mackenzie finds another stairwell near the bathroom, and heads upstairs to an office space, and spots a [Medical Locker](./Medical%20Locker.md) under a sign labeled "AIDS STATION".*
 
 *Mackenzie: "A ha....here it is."*
 
-*He finds it locked, and walks to the nearby office and unlocks it with the Admin Office Key. He finds the <a href="./Aid%20Station%20Medical%20Locker%20Key.md" class="wikilink" title="Aid Station Medical Locker Key">Aid Station Medical Locker Key</a> and <a href="./Elevator%20Maintenance%20Note.md" class="wikilink" title="Elevator Maintenance Note">Elevator Maintenance Note</a>, and takes both. He returns to unlock the Medical Locker, finding <a href="./Carter%20Hydro%20Medical%20Supplies.md" class="wikilink" title="Carter Hydro Medical Supplies">Carter Hydro Medical Supplies</a> inside.*
+*He finds it locked, and walks to the nearby office and unlocks it with the Admin Office Key. He finds the [Aid Station Medical Locker Key](./Aid%20Station%20Medical%20Locker%20Key.md) and [Elevator Maintenance Note](./Elevator%20Maintenance%20Note.md), and takes both. He returns to unlock the Medical Locker, finding [Carter Hydro Medical Supplies](./Carter%20Hydro%20Medical%20Supplies.md) inside.*
 
 *Mackenzie: "This is what I'm looking for. There - - that should help. And...morphine? Looks expired but...you never know."*
 
@@ -169,7 +138,7 @@ Mackenzie: "Carter Dam...hmm. This place has seen better days."
 
 Mackenzie: "I'd better check in on that old Trapper."
 
-*He and makes his way back to the Trapper's Cabin while passing a Wolf feasting on a Deer Carcass near the <a href="./Train%20Bridge.md" class="wikilink" title="Train Bridge">Train Bridge</a>, and eventually reaches the front door.*
+*He and makes his way back to the Trapper's Cabin while passing a Wolf feasting on a Deer Carcass near the [Train Bridge](./Train%20Bridge.md), and eventually reaches the front door.*
 
 *A 3rd person cutscene begins. Mackenzie walks up to the old trapper*
 
@@ -365,7 +334,7 @@ Mackenzie: "Great. Where?"
 
 Jeremiah: "Old railway yard, about a day's travel south, along the tracks. There's a machine shop there. I used to trade for time on the tools, to keep my gear in order. Bush pilot like you should be able to handle 'em."
 
-*Jeremiah hands his <a href="./Jeremiah%27s%20Broken%20Rifle.md" class="wikilink" title="Broken Rifle">Broken Rifle</a> to Mackenzie*
+*Jeremiah hands his [Broken Rifle](./Jeremiah%27s%20Broken%20Rifle.md) to Mackenzie*
 
 Mackenzie: "I'll see what I can do."
 
@@ -376,5 +345,3 @@ Mackenzie: "Got it."
 Jeremiah: "Good luck, pilot. Maybe we'll make a survivor out of you yet."
 
 The story continues in You Fix My Rifle?/Transcript. **Lua execution error in Module:Navbox function navbox**
-
-</div>

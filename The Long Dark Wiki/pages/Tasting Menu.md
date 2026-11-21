@@ -7,39 +7,19 @@ source: "https://thelongdark.fandom.com/wiki/Tasting_Menu"
 
 # Tasting Menu
 
-<div>
+**Tasting Menu**
 
-<table class="infobox">
-<caption>Tasting Menu</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Tasting_Menu_icon.png" loading="lazy" width="250" />
-<figcaption>Tasting_Menu_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>Find and Cook 9 Unique Recipes.</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Tasting_Menu_icon.png) / *Tasting\_Menu\_icon.png* |
+| Description | Find and Cook 9 Unique Recipes. |
 
-**Tasting Menu** is an <a href="./The%20Long%20Dark%20%E2%80%94%20Achievements.md" class="wikilink" title="achievement">achievement</a> in *<a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark">The Long Dark</a>*.
+**Tasting Menu** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
 
 ## Guide
 
-This achievement is easiest to unlock when playing on <a href="./Pilgrim.md" class="wikilink" title="Pilgrim">Pilgrim</a>. The player must find 9 of 13 <a href="./Recipe%20Cards.md" class="wikilink" title="Recipe Cards">Recipe Cards</a> and then cook the corresponding dishes.
+This achievement is easiest to unlock when playing on [Pilgrim](./Pilgrim.md). The player must find 9 of 13 [Recipe Cards](./Recipe%20Cards.md) and then cook the corresponding dishes.
 
-If the player runs out of materials for recipes (or cannot find non-ruined ones), consider trading with the <a href="./Trader.md" class="wikilink" title="Trader">Trader</a> to acquire fresh cooking ingredients.
+If the player runs out of materials for recipes (or cannot find non-ruined ones), consider trading with the [Trader](./Trader.md) to acquire fresh cooking ingredients.
 
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

@@ -7,54 +7,29 @@ source: "https://thelongdark.fandom.com/wiki/Furniture_Workbench"
 
 # Furniture Workbench
 
-<div>
-
 **Contents**
 
-- [Overview](#Overview)
-- [Crafting](#Crafting)
-- [Craftable Items](#Craftable_Items)
-- [Update History](#Update_History)
+- [Overview](#overview)
+- [Crafting](#crafting)
+- [Craftable Items](#craftable-items)
+- [Update History](#update-history)
 
-<table class="infobox">
-<caption>Furniture Workbench</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Furniture_Workbench_icon.png" loading="lazy" width="250" />
-<figcaption>Furniture_Workbench_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33" class="wikilink" title="TFTFT Part 6 Broken Silence">TFTFT Part 6 Broken Silence</a></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>15.00 kg (33 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Actions</strong></p></td>
-</tr>
-<tr>
-<td><p>Backpack</p></td>
-<td><p>Drop, Place</p></td>
-</tr>
-</tbody>
-</table>
+**Furniture Workbench**
 
-The **Furniture Workbench** is a <a href="./Decorations.md" class="wikilink" title="Decorations">Decorations</a> item that can be <a href="./Crafting.md" class="wikilink" title="Crafted">Crafted</a> as part of the <a href="./Safehouse%20Customization.md" class="wikilink" title="Safehouse Customization">Safehouse Customization</a> feature.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Furniture_Workbench_icon.png) / *Furniture\_Workbench\_icon.png* |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 15.00 kg (33 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
+
+The **Furniture Workbench** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
 ## Overview
 
-The Furniture Workbench is the primary crafting facility used to build large decorative furniture items within any interior Safehouse. It can be crafted and carried anywhere (though it weighs as much as a <a href="./Car%20Battery.md" class="wikilink" title="Car Battery">Car Battery</a>), but requires the very rare <a href="./Woodworking%20Tools.md" class="wikilink" title="Woodworking Tools">Woodworking Tools</a> before it can be built. The Furniture Workbench can only be placed on a wide, clear space on the floor when in Customization Mode.
+The Furniture Workbench is the primary crafting facility used to build large decorative furniture items within any interior Safehouse. It can be crafted and carried anywhere (though it weighs as much as a [Car Battery](./Car%20Battery.md)), but requires the very rare [Woodworking Tools](./Woodworking%20Tools.md) before it can be built. The Furniture Workbench can only be placed on a wide, clear space on the floor when in Customization Mode.
 
 Once placed in a Safehouse, the Furniture Workbench cannot be picked up and placed back into the player's inventory, and so it cannot be carried from one base to another. The only option is to move or destroy it (destroying the Furniture Workbench will yield no resources, so consider the material cost/time investment before placing this item).
 
@@ -66,405 +41,70 @@ Any large in-progress/created Decorations made at a Furniture Workbench are depo
 - Smaller crafted items are placed in the player's inventory instead.
 - An unlimited amount of large completed furniture can be stored in the Furniture Workbench's container, and will remain there until placed in the surrounding Safehouse.
 
-<table class="infobox">
-<caption>Furniture Workbench</caption>
-<tbody>
-<tr>
-<td colspan="2"><p>-</p></td>
-</tr>
-<tr>
-<td colspan="2"><p>-</p></td>
-</tr>
-<tr>
-<td colspan="2"><p>240 minutes (4 hour 0 minutes)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Requirements</strong></p></td>
-</tr>
-<tr>
-<td><p>Facility</p></td>
-<td><p>[[File:Anywhere icon.png</p></td>
-</tr>
-<tr>
-<td><p>Tool</p></td>
-<td><p><strong>Template:iconlink</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Materials</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Template:iconlink plain</strong></p></td>
-</tr>
-<tr>
-<td><p>Item</p></td>
-<td><p><a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a></p></td>
-</tr>
-<tr>
-<td><p>Quantity</p></td>
-<td><p>10</p></td>
-</tr>
-</tbody>
-</table>
+**Furniture Workbench**
+
+| Property | Details |
+| --- | --- |
+|  | - |
+|  | - |
+|  | 240 minutes (4 hour 0 minutes) |
+| **Requirements** |  |
+| Facility | \[\[File:Anywhere icon.png |
+| Tool | **Template:iconlink** |
+| **Materials** |  |
+| **Template:iconlink plain** |  |
+| Item | [Cedar Firewood](./Cedar%20Firewood.md) |
+| Quantity | 10 |
 
 ## Craftable Items
 
 Once crafted, the following Decorations crafted at a Furniture Workbench will be placed in a container in that Workbench (they can be placed your Safehouse by opening the Furniture Workbench and selecting them). They cannot be placed in the player's inventory despite having a weight class, and furniture with containers cannot be broken down to regain some of their resources once placed in the Safehouse.
 
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Recipe</p></th>
-<th><p>Materials</p></th>
-<th><p>Time</p></th>
-<th><p>Weight</p></th>
-<th><p>Crafted</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p><img src="../assets/Bear_Hide_Bed_icon.png" loading="lazy" width="29" height="29" alt="Bear_Hide_Bed_icon.png" /> <a href="./Bear%20Hide%20Bed.md" class="wikilink" title="Bear Hide Bed">Bear Hide Bed</a></p></td>
-<td><p>18x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 4x<img src="../assets/Cured_Gut_icon.png" loading="lazy" width="29" height="29" alt="Cured_Gut_icon.png" /> <a href="./Cured%20Gut.md" class="wikilink" title="Cured Gut">Cured Gut</a></p>
-<p>1x <img src="../assets/Cured_Black_Bear_Hide_icon.png" loading="lazy" width="29" height="29" alt="Cured_Black_Bear_Hide_icon.png" /> <a href="./Cured%20Black%20Bear%20Hide.md" class="wikilink" title="Cured Black Bear Hide">Cured Black Bear Hide</a></p>
-<p>16x <img src="../assets/Ptarmigan_Down_icon.png" loading="lazy" width="29" height="29" alt="Ptarmigan_Down_icon.png" /> <a href="./Ptarmigan%20Down.md" class="wikilink" title="Ptarmigan Down">Ptarmigan Down</a></p></td>
-<td><p>24 Hours</p></td>
-<td><p>10.00 kg<br />
-<span class="small">(22 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Coffee_Table_icon.png" loading="lazy" width="29" height="29" alt="Coffee_Table_icon.png" /> <a href="./Coffee%20Table.md" class="wikilink" title="Coffee Table">Coffee Table</a></p></td>
-<td><p>6x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Rustic_End_Table_icon.png" loading="lazy" width="29" height="29" alt="Rustic_End_Table_icon.png" /> <a href="./Rustic%20End%20Table.md" class="wikilink" title="Rustic End Table">Rustic End Table</a></p></td>
-<td><p>6x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a> 2x <img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" alt="Reclaimed_Wood_icon.png" /> <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p></td>
-<td><p>6 Hours</p></td>
-<td><p>20.00 kg<br />
-<span class="small">(44 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Round_Table_icon.png" loading="lazy" width="29" height="29" alt="Round_Table_icon.png" /> <a href="./Round%20Table.md" class="wikilink" title="Round Table">Round Table</a></p></td>
-<td><p>12x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-<td><p>9 Hours</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Rustic_Table_icon.png" loading="lazy" width="29" height="29" alt="Rustic_Table_icon.png" /> <a href="./Rustic%20Table.md" class="wikilink" title="Rustic Table">Rustic Table</a></p></td>
-<td><p>10x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-<td><p>8 Hours</p></td>
-<td><p>8.00 kg<br />
-<span class="small">(17.6 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Square_Table_icon.png" loading="lazy" width="29" height="29" alt="Square_Table_icon.png" /> <a href="./Square%20Table.md" class="wikilink" title="Square Table">Square Table</a></p></td>
-<td><p>8x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-<td><p>7 Hours</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Rustic_Chair_icon.png" loading="lazy" width="29" height="29" alt="Rustic_Chair_icon.png" /> <a href="./Rustic%20Chair.md" class="wikilink" title="Rustic Chair">Rustic Chair</a></p></td>
-<td><p>4x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a> 2x <img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" alt="Reclaimed_Wood_icon.png" /> <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>2.00 kg<br />
-<span class="small">(4.4 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Rustic_Bench_icon.png" loading="lazy" width="29" height="29" alt="Rustic_Bench_icon.png" /> <a href="./Rustic%20Bench.md" class="wikilink" title="Rustic Bench">Rustic Bench</a></p></td>
-<td><p>10x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a> 2x <img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" alt="Reclaimed_Wood_icon.png" /> <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p></td>
-<td><p>8 Hours</p></td>
-<td><p>2.00 kg<br />
-<span class="small">(4.4 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Dresser_icon.png" loading="lazy" width="29" height="29" alt="Dresser_icon.png" /> <a href="./Dresser.md" class="wikilink" title="Dresser">Dresser</a></p></td>
-<td><p>10x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a> 4x <img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" alt="Reclaimed_Wood_icon.png" /> <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p></td>
-<td><p>8 Hours</p></td>
-<td><p>25.00 kg<br />
-<span class="small">(55 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Wide_Dresser_icon.png" loading="lazy" width="29" height="29" alt="Wide_Dresser_icon.png" /> <a href="./Wide%20Dresser.md" class="wikilink" title="Wide Dresser">Wide Dresser</a></p></td>
-<td><p>16x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 6x <img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" alt="Reclaimed_Wood_icon.png" /> <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p></td>
-<td><p>11 Hours</p></td>
-<td><p>25.00 kg<br />
-<span class="small">(55 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Rustic_Shelf_icon.png" loading="lazy" width="29" height="29" alt="Rustic_Shelf_icon.png" /> <a href="./Rustic%20Shelf.md" class="wikilink" title="Rustic Shelf">Rustic Shelf</a></p></td>
-<td><p>8x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a></p></td>
-<td><p>6 Hours</p></td>
-<td><p>6.00 kg<br />
-<span class="small">(13.2 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Tall_Rustic_Shelf_icon.png" loading="lazy" width="29" height="29" alt="Tall_Rustic_Shelf_icon.png" /> <a href="./Tall%20Rustic%20Shelf.md" class="wikilink" title="Tall Rustic Shelf">Tall Rustic Shelf</a></p></td>
-<td><p>10x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a></p></td>
-<td><p>8 Hours</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Display_Shelf_icon.png" loading="lazy" width="29" height="29" alt="Display_Shelf_icon.png" /> <a href="./Display%20Shelf.md" class="wikilink" title="Display Shelf">Display Shelf</a></p></td>
-<td><p>12x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 4x <img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" alt="Reclaimed_Wood_icon.png" /> <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p></td>
-<td><p>10 Hours</p></td>
-<td><p>20.00 kg<br />
-<span class="small">(44 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Rustic_Closet_icon.png" loading="lazy" width="29" height="29" alt="Rustic_Closet_icon.png" /> <a href="./Rustic%20Closet.md" class="wikilink" title="Rustic Closet">Rustic Closet</a></p></td>
-<td><p>18x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 3x <img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" alt="Reclaimed_Wood_icon.png" /> <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p>
-<p>2x <img src="../assets/Scrap_Metal_icon.png" loading="lazy" width="29" height="29" alt="Scrap_Metal_icon.png" /> <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a></p></td>
-<td><p>9 Hours</p></td>
-<td><p>15.00 kg<br />
-<span class="small">(33 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Tall_Rustic_Closet_icon.png" loading="lazy" width="29" height="29" alt="Tall_Rustic_Closet_icon.png" /> <a href="./Tall%20Rustic%20Closet.md" class="wikilink" title="Tall Rustic Closet">Tall Rustic Closet</a></p></td>
-<td><p>24x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 4x <img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" alt="Reclaimed_Wood_icon.png" /> <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p>
-<p>2x <img src="../assets/Scrap_Metal_icon.png" loading="lazy" width="29" height="29" alt="Scrap_Metal_icon.png" /> <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a></p></td>
-<td><p>10 Hours</p></td>
-<td><p>15.00 kg<br />
-<span class="small">(33 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Rustic_Cupboard_icon.png" loading="lazy" width="29" height="29" alt="Rustic_Cupboard_icon.png" /> <a href="./Rustic%20Cupboard.md" class="wikilink" title="Rustic Cupboard">Rustic Cupboard</a></p></td>
-<td><p>10x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 2x <img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" alt="Reclaimed_Wood_icon.png" /> <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p>
-<p>1x <img src="../assets/Scrap_Metal_icon.png" loading="lazy" width="29" height="29" alt="Scrap_Metal_icon.png" /> <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a></p></td>
-<td><p>8 Hours</p></td>
-<td><p>15.00 kg<br />
-<span class="small">(33 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Rustic_Storage_Box_icon.png" loading="lazy" width="29" height="29" alt="Rustic_Storage_Box_icon.png" /> <a href="./Rustic%20Storage%20Box.md" class="wikilink" title="Rustic Storage Box">Rustic Storage Box</a></p></td>
-<td><p>8x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a></p></td>
-<td><p>6 Hours</p></td>
-<td><p>2.00 kg<br />
-<span class="small">(4.4 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Rustic_Storage_Trunk_icon.png" loading="lazy" width="29" height="29" alt="Rustic_Storage_Trunk_icon.png" /> <a href="./Rustic%20Storage%20Trunk.md" class="wikilink" title="Rustic Storage Trunk">Rustic Storage Trunk</a></p></td>
-<td><p>9x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Wide_Display_Shelf_icon.png" loading="lazy" width="29" height="29" alt="Wide_Display_Shelf_icon.png" /> <a href="./Wide%20Display%20Shelf.md" class="wikilink" title="Wide Display Shelf">Wide Display Shelf</a></p></td>
-<td><p>18x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 4x <img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" alt="Reclaimed_Wood_icon.png" /> <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p></td>
-<td><p>11 Hours</p></td>
-<td><p>20.00 kg<br />
-<span class="small">(44 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Rustic_Display_Shelf_icon.png" loading="lazy" width="29" height="29" alt="Rustic_Display_Shelf_icon.png" /> <a href="./Rustic%20Display%20Shelf.md" class="wikilink" title="Rustic Display Shelf">Rustic Display Shelf</a></p></td>
-<td><p>10x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 2x <img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" alt="Reclaimed_Wood_icon.png" /> <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p></td>
-<td><p>9 Hours</p></td>
-<td><p>20.00 kg<br />
-<span class="small">(44 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Rustic_Bed_icon.png" loading="lazy" width="29" height="29" alt="Rustic_Bed_icon.png" /> <a href="./Rustic%20Bed.md" class="wikilink" title="Rustic Bed">Rustic Bed</a></p></td>
-<td><p>10x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a> 12x <img src="../assets/Cloth_icon.png" loading="lazy" width="29" height="29" alt="Cloth_icon.png" /> <a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a></p>
-<p>2x<img src="../assets/Cured_Gut_icon.png" loading="lazy" width="29" height="29" alt="Cured_Gut_icon.png" /> <a href="./Cured%20Gut.md" class="wikilink" title="Cured Gut">Cured Gut</a></p></td>
-<td><p>12 Hours</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Workbench_icon.png" loading="lazy" width="29" height="29" alt="Workbench_icon.png" /> <a href="./Work%20Bench.md" class="wikilink" title="Work Bench">Work Bench</a></p></td>
-<td><p>15x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a> 1x <img src="../assets/Workbench_Vice_icon.png" loading="lazy" width="29" height="29" alt="Workbench_Vice_icon.png" /> <a href="./Workbench%20Vice.md" class="wikilink" title="Workbench Vice">Workbench Vice</a></p></td>
-<td><p>18 Hours</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Meat_Curing_Box_icon.png" loading="lazy" width="29" height="29" alt="Meat_Curing_Box_icon.png" /> <a href="./Meat%20Curing%20Box.md" class="wikilink" title="Meat Curing Box">Meat Curing Box</a></p></td>
-<td><p>10x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 8.00kg x <img src="../assets/Salt_icon.png" loading="lazy" width="29" height="29" alt="Salt_icon.png" /> <a href="./Salt.md" class="wikilink" title="Salt">Salt</a></p></td>
-<td><p>6 Hours</p></td>
-<td><p>10.00 kg<br />
-<span class="small">(22 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Quilted_Bed_icon.png" loading="lazy" width="29" height="29" alt="Quilted_Bed_icon.png" /> <a href="./Quilted%20Bed.md" class="wikilink" title="Quilted Bed">Quilted Bed</a></p></td>
-<td><p>12x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 10x <img src="../assets/Cloth_icon.png" loading="lazy" width="29" height="29" alt="Cloth_icon.png" /> <a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a></p>
-<p>6x<img src="../assets/Cured_Gut_icon.png" loading="lazy" width="29" height="29" alt="Cured_Gut_icon.png" /> <a href="./Cured%20Gut.md" class="wikilink" title="Cured Gut">Cured Gut</a></p>
-<p>16x <img src="../assets/Ptarmigan_Down_icon.png" loading="lazy" width="29" height="29" alt="Ptarmigan_Down_icon.png" /> <a href="./Ptarmigan%20Down.md" class="wikilink" title="Ptarmigan Down">Ptarmigan Down</a></p></td>
-<td><p>20 Hours</p></td>
-<td><p>10.00 kg<br />
-<span class="small">(22 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Hide_Couch_icon.png" loading="lazy" width="29" height="29" alt="Hide_Couch_icon.png" /> <a href="./Hide%20Couch.md" class="wikilink" title="Hide Couch">Hide Couch</a></p></td>
-<td><p>15x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 4x <img src="../assets/Cured_Deer_Hide_icon.png" loading="lazy" width="29" height="29" alt="Cured_Deer_Hide_icon.png" /> <a href="./Cured%20Deer%20Hide.md" class="wikilink" title="Cured Deer Hide">Cured Deer Hide</a></p>
-<p>16x <img src="../assets/Ptarmigan_Down_icon.png" loading="lazy" width="29" height="29" alt="Ptarmigan_Down_icon.png" /> <a href="./Ptarmigan%20Down.md" class="wikilink" title="Ptarmigan Down">Ptarmigan Down</a></p>
-<p>5x<img src="../assets/Cured_Gut_icon.png" loading="lazy" width="29" height="29" alt="Cured_Gut_icon.png" /> <a href="./Cured%20Gut.md" class="wikilink" title="Cured Gut">Cured Gut</a></p></td>
-<td><p>16 Hours</p></td>
-<td><p>10.00 kg<br />
-<span class="small">(22 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Hide_Chair_icon.png" loading="lazy" width="29" height="29" alt="Hide_Chair_icon.png" /> <a href="./Hide%20Chair.md" class="wikilink" title="Hide Chair">Hide Chair</a></p></td>
-<td><p>8x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 2x <img src="../assets/Cured_Deer_Hide_icon.png" loading="lazy" width="29" height="29" alt="Cured_Deer_Hide_icon.png" /> <a href="./Cured%20Deer%20Hide.md" class="wikilink" title="Cured Deer Hide">Cured Deer Hide</a></p>
-<p>8x <img src="../assets/Ptarmigan_Down_icon.png" loading="lazy" width="29" height="29" alt="Ptarmigan_Down_icon.png" /> <a href="./Ptarmigan%20Down.md" class="wikilink" title="Ptarmigan Down">Ptarmigan Down</a></p>
-<p>3x<img src="../assets/Cured_Gut_icon.png" loading="lazy" width="29" height="29" alt="Cured_Gut_icon.png" /> <a href="./Cured%20Gut.md" class="wikilink" title="Cured Gut">Cured Gut</a></p></td>
-<td><p>13 Hours</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-</tbody>
-</table>
+| Recipe | Materials | Time | Weight | Crafted |
+| --- | --- | --- | --- | --- |
+| ![Bear\_Hide\_Bed\_icon.png](../assets/Bear_Hide_Bed_icon.png) [Bear Hide Bed](./Bear%20Hide%20Bed.md) | 18x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / 1x ![Cured\_Black\_Bear\_Hide\_icon.png](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / 16x ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | 24 Hours | 10.00 kg / *(22 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Coffee\_Table\_icon.png](../assets/Coffee_Table_icon.png) [Coffee Table](./Coffee%20Table.md) | 6x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 4 Hours | 5.00 kg / *(11 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_End\_Table\_icon.png](../assets/Rustic_End_Table_icon.png) [Rustic End Table](./Rustic%20End%20Table.md) | 6x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 6 Hours | 20.00 kg / *(44 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Round\_Table\_icon.png](../assets/Round_Table_icon.png) [Round Table](./Round%20Table.md) | 12x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 9 Hours | 5.00 kg / *(11 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_Table\_icon.png](../assets/Rustic_Table_icon.png) [Rustic Table](./Rustic%20Table.md) | 10x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 8 Hours | 8.00 kg / *(17.6 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Square\_Table\_icon.png](../assets/Square_Table_icon.png) [Square Table](./Square%20Table.md) | 8x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 7 Hours | 5.00 kg / *(11 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_Chair\_icon.png](../assets/Rustic_Chair_icon.png) [Rustic Chair](./Rustic%20Chair.md) | 4x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 4 Hours | 2.00 kg / *(4.4 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_Bench\_icon.png](../assets/Rustic_Bench_icon.png) [Rustic Bench](./Rustic%20Bench.md) | 10x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 8 Hours | 2.00 kg / *(4.4 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Dresser\_icon.png](../assets/Dresser_icon.png) [Dresser](./Dresser.md) | 10x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 4x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 8 Hours | 25.00 kg / *(55 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Wide\_Dresser\_icon.png](../assets/Wide_Dresser_icon.png) [Wide Dresser](./Wide%20Dresser.md) | 16x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 6x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 11 Hours | 25.00 kg / *(55 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_Shelf\_icon.png](../assets/Rustic_Shelf_icon.png) [Rustic Shelf](./Rustic%20Shelf.md) | 8x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 6 Hours | 6.00 kg / *(13.2 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Tall\_Rustic\_Shelf\_icon.png](../assets/Tall_Rustic_Shelf_icon.png) [Tall Rustic Shelf](./Tall%20Rustic%20Shelf.md) | 10x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 8 Hours | 5.00 kg / *(11 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Display\_Shelf\_icon.png](../assets/Display_Shelf_icon.png) [Display Shelf](./Display%20Shelf.md) | 12x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 10 Hours | 20.00 kg / *(44 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_Closet\_icon.png](../assets/Rustic_Closet_icon.png) [Rustic Closet](./Rustic%20Closet.md) | 18x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 3x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) / 2x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 9 Hours | 15.00 kg / *(33 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Tall\_Rustic\_Closet\_icon.png](../assets/Tall_Rustic_Closet_icon.png) [Tall Rustic Closet](./Tall%20Rustic%20Closet.md) | 24x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) / 2x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 10 Hours | 15.00 kg / *(33 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_Cupboard\_icon.png](../assets/Rustic_Cupboard_icon.png) [Rustic Cupboard](./Rustic%20Cupboard.md) | 10x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) / 1x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) | 8 Hours | 15.00 kg / *(33 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_Storage\_Box\_icon.png](../assets/Rustic_Storage_Box_icon.png) [Rustic Storage Box](./Rustic%20Storage%20Box.md) | 8x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 6 Hours | 2.00 kg / *(4.4 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_Storage\_Trunk\_icon.png](../assets/Rustic_Storage_Trunk_icon.png) [Rustic Storage Trunk](./Rustic%20Storage%20Trunk.md) | 9x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 4 Hours | 5.00 kg / *(11 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Wide\_Display\_Shelf\_icon.png](../assets/Wide_Display_Shelf_icon.png) [Wide Display Shelf](./Wide%20Display%20Shelf.md) | 18x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 11 Hours | 20.00 kg / *(44 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_Display\_Shelf\_icon.png](../assets/Rustic_Display_Shelf_icon.png) [Rustic Display Shelf](./Rustic%20Display%20Shelf.md) | 10x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 9 Hours | 20.00 kg / *(44 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_Bed\_icon.png](../assets/Rustic_Bed_icon.png) [Rustic Bed](./Rustic%20Bed.md) | 10x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 12x ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 12 Hours | 5.00 kg / *(11 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Workbench\_icon.png](../assets/Workbench_icon.png) [Work Bench](./Work%20Bench.md) | 15x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 1x ![Workbench\_Vice\_icon.png](../assets/Workbench_Vice_icon.png) [Workbench Vice](./Workbench%20Vice.md) | 18 Hours | 5.00 kg / *(11 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Meat\_Curing\_Box\_icon.png](../assets/Meat_Curing_Box_icon.png) [Meat Curing Box](./Meat%20Curing%20Box.md) | 10x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 8.00kg x ![Salt\_icon.png](../assets/Salt_icon.png) [Salt](./Salt.md) | 6 Hours | 10.00 kg / *(22 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Quilted\_Bed\_icon.png](../assets/Quilted_Bed_icon.png) [Quilted Bed](./Quilted%20Bed.md) | 12x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 10x ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md) / 6x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / 16x ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | 20 Hours | 10.00 kg / *(22 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Hide\_Couch\_icon.png](../assets/Hide_Couch_icon.png) [Hide Couch](./Hide%20Couch.md) | 15x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x ![Cured\_Deer\_Hide\_icon.png](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) / 16x ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) / 5x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 16 Hours | 10.00 kg / *(22 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Hide\_Chair\_icon.png](../assets/Hide_Chair_icon.png) [Hide Chair](./Hide%20Chair.md) | 8x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 2x ![Cured\_Deer\_Hide\_icon.png](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) / 8x ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) / 3x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 13 Hours | 5.00 kg / *(11 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
 
 The following Decorations are automatically placed into the player's inventory once crafted.
 
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Recipe</p></th>
-<th><p>Materials</p></th>
-<th><p>Time</p></th>
-<th><p>Weight</p></th>
-<th><p>Crafted</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p><img src="../assets/Framed_Hockey_Jersey_icon.png" loading="lazy" width="29" height="29" alt="Framed_Hockey_Jersey_icon.png" /> <a href="./Framed%20Hockey%20Jersey.md" class="wikilink" title="Framed Hockey Jersey">Framed Hockey Jersey</a></p></td>
-<td><p>2x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Scrap_Metal_icon.png" loading="lazy" width="29" height="29" alt="Scrap_Metal_icon.png" /> <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a></p>
-<p>1x <img src="../assets/Hockey_Jersey_icon.png" loading="lazy" width="29" height="29" alt="Hockey_Jersey_icon.png" /> <a href="./Hockey%20Jersey.md" class="wikilink" title="Hockey Jersey">Hockey Jersey</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>2.00 kg<br />
-<span class="small">(4.4 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Framed_Photo_icon.png" loading="lazy" width="29" height="29" alt="Framed_Photo_icon.png" /> <a href="./Framed%20Photo.md" class="wikilink" title="Framed Photo">Framed Photo</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Camera_icon.png" loading="lazy" width="29" height="29" alt="Camera_icon.png" /> <a href="./Camera.md" class="wikilink" title="Camera">Camera</a> Photo</p></td>
-<td><p>2 Hours</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Burbot_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Burbot_icon.png" /> <a href="./Mounted%20Burbot.md" class="wikilink" title="Mounted Burbot">Mounted Burbot</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Burbot_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Burbot_(Raw)_icon.png" /> <a href="./Burbot%20%28Raw%29.md" class="wikilink" title="Burbot (Raw)">Burbot (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Coho_Salmon_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Coho_Salmon_icon.png" /> <a href="./Mounted%20Coho%20Salmon.md" class="wikilink" title="Mounted Coho Salmon">Mounted Coho Salmon</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Coho_Salmon_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Coho_Salmon_(Raw)_icon.png" /> <a href="./Coho%20Salmon%20%28Raw%29.md" class="wikilink" title="Coho Salmon (Raw)">Coho Salmon (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>1.00 kg<br />
-<span class="small">(2.2 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Goldeye_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Goldeye_icon.png" /> <a href="./Mounted%20Goldeye.md" class="wikilink" title="Mounted Goldeye">Mounted Goldeye</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Goldeye_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Goldeye_(Raw)_icon.png" /> <a href="./Goldeye%20%28Raw%29.md" class="wikilink" title="Goldeye (Raw)">Goldeye (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Lake_Whitefish_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Lake_Whitefish_icon.png" /> <a href="./Mounted%20Lake%20Whitefish.md" class="wikilink" title="Mounted Lake Whitefish">Mounted Lake Whitefish</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Lake_Whitefish_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Lake_Whitefish_(Raw)_icon.png" /> <a href="./Lake%20Whitefish%20%28Raw%29.md" class="wikilink" title="Lake Whitefish (Raw)">Lake Whitefish (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Rainbow_Trout_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Rainbow_Trout_icon.png" /> <a href="./Mounted%20Rainbow%20Trout.md" class="wikilink" title="Mounted Rainbow Trout">Mounted Rainbow Trout</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Rainbow_Trout_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Rainbow_Trout_(Raw)_icon.png" /> <a href="./Rainbow%20Trout%20%28Raw%29.md" class="wikilink" title="Rainbow Trout (Raw)">Rainbow Trout (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Red_Irish_Lord_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Red_Irish_Lord_icon.png" /> <a href="./Mounted%20Red%20Irish%20Lord.md" class="wikilink" title="Mounted Red Irish Lord">Mounted Red Irish Lord</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Red_Irish_Lord_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Red_Irish_Lord_(Raw)_icon.png" /> <a href="./Red%20Irish%20Lord%20%28Raw%29.md" class="wikilink" title="Red Irish Lord (Raw)">Red Irish Lord (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Rockfish_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Rockfish_icon.png" /> <a href="./Mounted%20Rockfish.md" class="wikilink" title="Mounted Rockfish">Mounted Rockfish</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Rockfish_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Rockfish_(Raw)_icon.png" /> <a href="./Rockfish%20%28Raw%29.md" class="wikilink" title="Rockfish (Raw)">Rockfish (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Smallmouth_Bass_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Smallmouth_Bass_icon.png" /> <a href="./Mounted%20Smallmouth%20Bass.md" class="wikilink" title="Mounted Smallmouth Bass">Mounted Smallmouth Bass</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Smallmouth_Bass_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Smallmouth_Bass_(Raw)_icon.png" /> <a href="./Smallmouth%20Bass%20%28Raw%29.md" class="wikilink" title="Smallmouth Bass (Raw)">Smallmouth Bass (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Rustic_Stool_icon.png" loading="lazy" width="29" height="29" alt="Rustic_Stool_icon.png" /> <a href="./Rustic%20Stool.md" class="wikilink" title="Rustic Stool">Rustic Stool</a></p></td>
-<td><p>4x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-<td><p>2 Hours</p></td>
-<td><p>2.00 kg<br />
-<span class="small">(4.4 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-</tbody>
-</table>
+| Recipe | Materials | Time | Weight | Crafted |
+| --- | --- | --- | --- | --- |
+| ![Framed\_Hockey\_Jersey\_icon.png](../assets/Framed_Hockey_Jersey_icon.png) [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | 2x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![Hockey\_Jersey\_icon.png](../assets/Hockey_Jersey_icon.png) [Hockey Jersey](./Hockey%20Jersey.md) | 4 Hours | 2.00 kg / *(4.4 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Framed\_Photo\_icon.png](../assets/Framed_Photo_icon.png) [Framed Photo](./Framed%20Photo.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Camera\_icon.png](../assets/Camera_icon.png) [Camera](./Camera.md) Photo | 2 Hours | 0.25 kg / *(0.55 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Burbot\_icon.png](../assets/Mounted_Burbot_icon.png) [Mounted Burbot](./Mounted%20Burbot.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Burbot\_(Raw)\_icon.png](../assets/Burbot_%28Raw%29_icon.png) [Burbot (Raw)](./Burbot%20%28Raw%29.md) | 4 Hours | 0.50 kg / *(1.1 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Coho\_Salmon\_icon.png](../assets/Mounted_Coho_Salmon_icon.png) [Mounted Coho Salmon](./Mounted%20Coho%20Salmon.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Coho\_Salmon\_(Raw)\_icon.png](../assets/Coho_Salmon_%28Raw%29_icon.png) [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) | 4 Hours | 1.00 kg / *(2.2 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Goldeye\_icon.png](../assets/Mounted_Goldeye_icon.png) [Mounted Goldeye](./Mounted%20Goldeye.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Goldeye\_(Raw)\_icon.png](../assets/Goldeye_%28Raw%29_icon.png) [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) | 4 Hours | 0.50 kg / *(1.1 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Lake\_Whitefish\_icon.png](../assets/Mounted_Lake_Whitefish_icon.png) [Mounted Lake Whitefish](./Mounted%20Lake%20Whitefish.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Lake\_Whitefish\_(Raw)\_icon.png](../assets/Lake_Whitefish_%28Raw%29_icon.png) [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) | 4 Hours | 0.50 kg / *(1.1 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Rainbow\_Trout\_icon.png](../assets/Mounted_Rainbow_Trout_icon.png) [Mounted Rainbow Trout](./Mounted%20Rainbow%20Trout.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Rainbow\_Trout\_(Raw)\_icon.png](../assets/Rainbow_Trout_%28Raw%29_icon.png) [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) | 4 Hours | 0.50 kg / *(1.1 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Red\_Irish\_Lord\_icon.png](../assets/Mounted_Red_Irish_Lord_icon.png) [Mounted Red Irish Lord](./Mounted%20Red%20Irish%20Lord.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Red\_Irish\_Lord\_(Raw)\_icon.png](../assets/Red_Irish_Lord_%28Raw%29_icon.png) [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) | 4 Hours | 0.50 kg / *(1.1 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Rockfish\_icon.png](../assets/Mounted_Rockfish_icon.png) [Mounted Rockfish](./Mounted%20Rockfish.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Rockfish\_(Raw)\_icon.png](../assets/Rockfish_%28Raw%29_icon.png) [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) | 4 Hours | 0.50 kg / *(1.1 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Smallmouth\_Bass\_icon.png](../assets/Mounted_Smallmouth_Bass_icon.png) [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Smallmouth\_Bass\_(Raw)\_icon.png](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) | 4 Hours | 0.50 kg / *(1.1 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_Stool\_icon.png](../assets/Rustic_Stool_icon.png) [Rustic Stool](./Rustic%20Stool.md) | 4x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 2 Hours | 2.00 kg / *(4.4 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
 
 ## Update History
 
-**Template:update historyLua execution error in Module:Navbox function navbox**
-
-</div>
+**Template:update history****Lua execution error in Module:Navbox function navbox**

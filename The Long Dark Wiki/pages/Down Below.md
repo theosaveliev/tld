@@ -7,41 +7,21 @@ source: "https://thelongdark.fandom.com/wiki/Down_Below"
 
 # Down Below
 
-<div>
+**Down Below**
 
-<table class="infobox">
-<caption>Down Below</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Down_Below_icon.png" loading="lazy" width="250" />
-<figcaption>Down_Below_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>Enter all 9 Prepper Cache locations (single game).</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Down_Below_icon.png) / *Down\_Below\_icon.png* |
+| Description | Enter all 9 Prepper Cache locations (single game). |
 
-**Down Below** is an <a href="./The%20Long%20Dark%20%E2%80%94%20Achievements.md" class="wikilink" title="achievement">achievement</a> in *<a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark">The Long Dark</a>*.
+**Down Below** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
 
 ## Guide
 
-This achievement is easiest to unlock when playing on <a href="./Pilgrim.md" class="wikilink" title="Pilgrim">Pilgrim</a>.
+This achievement is easiest to unlock when playing on [Pilgrim](./Pilgrim.md).
 
-The player must find all 9 <a href="./Prepper%20Cache.md" class="wikilink" title="Prepper Cache">Prepper Cache</a> locations in a single <a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a> save file.
+The player must find all 9 [Prepper Cache](./Prepper%20Cache.md) locations in a single [Survival Mode](./Survival%20Mode.md) save file.
 
-the <a href="./Prepper%27s%20Abandoned%20Cache.md" class="wikilink" title="Prepper&#39;s Abandoned Cache">Prepper's Abandoned Cache</a> in <a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a> ( 10th cache the player can find) does not count for this achievement.
+the [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) in [Pleasant Valley](./Pleasant%20Valley.md) ( 10th cache the player can find) does not count for this achievement.
 
-Keeping track of visited Caches is quite easy if the player keeps a list in the General Notes notepad in the <a href="./Journal.md" class="wikilink" title="Journal">Journal</a>.**Lua execution error in Module:Navbox function navbox**
-
-</div>
+Keeping track of visited Caches is quite easy if the player keeps a list in the General Notes notepad in the [Journal](./Journal.md).**Lua execution error in Module:Navbox function navbox**

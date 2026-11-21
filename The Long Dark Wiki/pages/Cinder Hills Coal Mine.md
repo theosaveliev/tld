@@ -7,83 +7,53 @@ source: "https://thelongdark.fandom.com/wiki/Cinder_Hills_Coal_Mine"
 
 # Cinder Hills Coal Mine
 
-<div>
-
 **Contents**
 
-- [Overview](#Overview)
-- [Supplies](#Supplies)
-- [Navigating](#Navigating)
-- [Trivia](#Trivia)
-- [Gallery](#Gallery)
+- [Overview](#overview)
+- [Supplies](#supplies)
+- [Navigating](#navigating)
+- [Trivia](#trivia)
+- [Gallery](#gallery)
 
-<table class="infobox">
-<caption>Cinder Hills Coal Mine</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/RegionAtlas-resources.assets-562_%284%29.png" loading="lazy" />
-<figcaption>RegionAtlas-resources.assets-562_(4).png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Cinder_Hills_Coal_Mine_map.png" loading="lazy" width="250" />
-<figcaption>Cinder_Hills_Coal_Mine_map.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Coastal%20Highway.md" class="wikilink" title="Coastal Highway">Coastal Highway</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Cave|-</p></td>
-</tr>
-<tr>
-<td><p>Missions</p></td>
-<td><p><a href="./Aftermath.md" class="wikilink" title="Aftermath">Aftermath</a></p></td>
-</tr>
-</tbody>
-</table>
+**Cinder Hills Coal Mine**
 
-**Cinder Hills Coal Mine,**also known as "Abandoned Mine", is a series of mine tunnels located in <a href="./Coastal%20Highway.md" class="wikilink" title="Coastal Highway">Coastal Highway</a>, with one section that acts as a connection to <a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/RegionAtlas-resources.assets-562_%284%29.png) / *RegionAtlas-resources.assets-562\_(4).png* |
+| **Location** |  |
+|  | ![](../assets/Cinder_Hills_Coal_Mine_map.png) / *Cinder\_Hills\_Coal\_Mine\_map.png* |
+| Region | [Coastal Highway](./Coastal%20Highway.md)\|- |
+| **General** |  |
+| Type | Cave\|- |
+| Missions | [Aftermath](./Aftermath.md) |
+
+**Cinder Hills Coal Mine,**also known as "Abandoned Mine", is a series of mine tunnels located in [Coastal Highway](./Coastal%20Highway.md), with one section that acts as a connection to [Pleasant Valley](./Pleasant%20Valley.md).
 
 ## Overview
 
-This mine has three levels: in <a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a> these levels are separate areas, and in <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a> all three mine sections are interconnected.
+This mine has three levels: in [Survival Mode](./Survival%20Mode.md) these levels are separate areas, and in [Wintermute](./Wintermute.md) all three mine sections are interconnected.
 
-- The Upper Level of the mine connects northern <a href="./Coastal%20Highway.md" class="wikilink" title="Coastal Highway">Coastal Highway</a> (near <a href="./Abandoned%20Lookout.md" class="wikilink" title="Abandoned Lookout">Abandoned Lookout</a>) to southern <a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a> (near <a href="./Thomson%27s%20Crossing.md" class="wikilink" title="Thomson&#39;s Crossing">Thomson's Crossing</a>).
-- The Lower Level of the mine is in <a href="./Coastal%20Highway.md" class="wikilink" title="Coastal Highway">Coastal Highway</a> near the <a href="./Log%20Sort.md" class="wikilink" title="Log Sort">Log Sort</a> and is relatively small. An electric-powered elevator in its depths leads up to the Middle Level of the mine, which becomes useable only when powered at night during an active <a href="./Aurora.md" class="wikilink" title="Aurora">Aurora</a>.
-- The Middle Level offers a series of interconnected tunnels with rich loot, but also <a href="./Burns.md" class="wikilink" title="electrified hazards">electrified hazards</a>. It can only be accessed via entering the Lower Level and using the elevator during an active <a href="./Aurora.md" class="wikilink" title="Aurora">Aurora</a>.
+- The Upper Level of the mine connects northern [Coastal Highway](./Coastal%20Highway.md) (near [Abandoned Lookout](./Abandoned%20Lookout.md)) to southern [Pleasant Valley](./Pleasant%20Valley.md) (near [Thomson's Crossing](./Thomson%27s%20Crossing.md)).
+- The Lower Level of the mine is in [Coastal Highway](./Coastal%20Highway.md) near the [Log Sort](./Log%20Sort.md) and is relatively small. An electric-powered elevator in its depths leads up to the Middle Level of the mine, which becomes useable only when powered at night during an active [Aurora](./Aurora.md).
+- The Middle Level offers a series of interconnected tunnels with rich loot, but also [electrified hazards](./Burns.md). It can only be accessed via entering the Lower Level and using the elevator during an active [Aurora](./Aurora.md).
 
-The Feels Like temperature inside of mines is very warm on all Game Modes, and since no animals spawn inside they can serve as dark but safe shelter.
+The Feels Like temperature inside of mines is very warm on all Game Modes, and since no animals spawn inside they can serve as dark but safe shelter.
 
-Cinder Hills Coal Mine is similar to <a href="./No.%203%20Coal%20Mine.md" class="wikilink" title="Abandoned Mine No. 3">Abandoned Mine No. 3</a>. They both have long, dark tunnels that connect the two regions together.
+Cinder Hills Coal Mine is similar to [Abandoned Mine No. 3](./No.%203%20Coal%20Mine.md). They both have long, dark tunnels that connect the two regions together.
 
-Caution should be taken when exploring the Middle Level of the mine: electrified wires and electrified water can kill the reckless, and those who take too long will become trapped when the <a href="./Aurora.md" class="wikilink" title="Aurora">Aurora</a> ends and the elevator becomes unpowered. This hazard can be partially offset by leaving a stockpile of food, water, and a <a href="./Bedroll.md" class="wikilink" title="Bedroll">Bedroll</a> inside the middle level beyond the elevator.
+Caution should be taken when exploring the Middle Level of the mine: electrified wires and electrified water can kill the reckless, and those who take too long will become trapped when the [Aurora](./Aurora.md) ends and the elevator becomes unpowered. This hazard can be partially offset by leaving a stockpile of food, water, and a [Bedroll](./Bedroll.md) inside the middle level beyond the elevator.
 
 ### Supplies
 
-The Cinder Hills Coal Mine is an abundant and renewable source of <a href="./Coal.md" class="wikilink" title="Coal">Coal</a> fuel. Coal is highly valuable to heat a <a href="./Furnace.md" class="wikilink" title="Furnace">Furnace</a> hot enough to forge <a href="./Arrowhead.md" class="wikilink" title="Arrowhead">Arrowheads</a>, <a href="./Improvised%20Hatchet.md" class="wikilink" title="Improvised Hatchets">Improvised Hatchets</a>, and <a href="./Improvised%20Knife.md" class="wikilink" title="Improvised Knives">Improvised Knives</a>. Coal is also useful on Stalker and Interloper in extremely cold survival situations, to increase Ambient Temperature hotter than wood fires. Coal respawns inside mines after several days.
+The Cinder Hills Coal Mine is an abundant and renewable source of [Coal](./Coal.md) fuel. Coal is highly valuable to heat a [Furnace](./Furnace.md) hot enough to forge [Arrowheads](./Arrowhead.md), [Improvised Hatchets](./Improvised%20Hatchet.md), and [Improvised Knives](./Improvised%20Knife.md). Coal is also useful on Stalker and Interloper in extremely cold survival situations, to increase Ambient Temperature hotter than wood fires. Coal respawns inside mines after several days.
 
-<a href="./Tools.md" class="wikilink" title="Tools">Tools</a>, First Aid supplies, and <a href="./Clothing.md" class="wikilink" title="Clothing">Clothing</a> can be found on Corpses, in <a href="./Prybar.md" class="wikilink" title="Lockers">Lockers</a>, or scattered about. A <a href="./Work%20Bench.md" class="wikilink" title="Work Bench">Work Bench</a> can also be found in a room in the center of the mine, though it requires a light source to use.
+[Tools](./Tools.md), First Aid supplies, and [Clothing](./Clothing.md) can be found on Corpses, in [Lockers](./Prybar.md), or scattered about. A [Work Bench](./Work%20Bench.md) can also be found in a room in the center of the mine, though it requires a light source to use.
 
-<a href="./Revolver.md" class="wikilink" title="Firearms">Firearms</a> and other high-quality loot can spawn in the Middle Level.
+[Firearms](./Revolver.md) and other high-quality loot can spawn in the Middle Level.
 
 ### Navigating
 
-Mines are not large but are pitch black beyond their entrances at all hours of day, and feature numerous dead ends or circuits. They can make navigation extremely difficult without a light source. It is advised to bring a <a href="./Storm%20Lantern.md" class="wikilink" title="Storm Lantern">Storm Lantern</a>, <a href="./Torch.md" class="wikilink" title="Torch">Torch</a>, or <a href="./Flare.md" class="wikilink" title="Flare">Flare</a> while exploring them.
+Mines are not large but are pitch black beyond their entrances at all hours of day, and feature numerous dead ends or circuits. They can make navigation extremely difficult without a light source. It is advised to bring a [Storm Lantern](./Storm%20Lantern.md), [Torch](./Torch.md), or [Flare](./Flare.md) while exploring them.
 
 If you get trapped within the mine, there will always be another aurora scripted to start at 8:30pm the following night, allowing the player to escape.
 
@@ -91,68 +61,14 @@ If you get trapped within the mine, there will always be another aurora scripted
 
 - Ensure that any supplies you wish to transport between levels are on your person rather than the elevator floor; mechanically, the elevator does not physically 'travel' between levels, so items dropped onto it are not carried up or down, and will instead remain on the floor they were originally placed.
 
- 
-
 ## Gallery
 
-<table class="gallery">
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<span>[Missing image: SS-PV-CHCM_(1).jpg]</span>
-<figcaption>Road sign to the entrance 1 (Pleasant Valley)</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: SS-PV-CHCM_(3).jpg]</span>
-<figcaption>Road sign to the entrance 2 (Pleasant Valley)</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: SS-PV-CHCM_(2).jpg]</span>
-<figcaption>The entrance (Pleasant Valley)</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Costal_highway_Abandoned_mine_leads_to_Pleasant_valley_map_zpslvkwlyyp.jpg]</span>
-<figcaption>A map of the mines (outdate with Episode 3)</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Map-CinderHillsCoalMine-SV.png" title="Abandoned mine Map (Top layer) v.1.62" loading="lazy" width="140" />
-<figcaption>Abandoned mine Map (Top layer) v.1.62</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Map-AuroraMine-SV.png" title="Abandoned mine (Middle layer and Bottom layer) v.1.62" loading="lazy" width="140" />
-<figcaption>Abandoned mine (Middle layer and Bottom layer) v.1.62</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: SS-AM-Aurora-1F.jpg]</span>
-<figcaption>Elevator (bottom layer)</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: SS-AM-Aurora-2F.jpg]</span>
-<figcaption>Elevator (middle layer)</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: SS-AM-Aurora-01.jpg]</span>
-<figcaption>Middle layer (During Aurora)</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| --- | --- | --- | --- |
+| ![Road sign to the entrance 1 (Pleasant Valley)](../assets/SS-PV-CHCM_%281%29.jpg) / *Road sign to the entrance 1 (Pleasant Valley)* | ![Road sign to the entrance 2 (Pleasant Valley)](../assets/SS-PV-CHCM_%283%29.jpg) / *Road sign to the entrance 2 (Pleasant Valley)* | ![The entrance (Pleasant Valley)](../assets/SS-PV-CHCM_%282%29.jpg) / *The entrance (Pleasant Valley)* | ![A map of the mines (outdate with Episode 3)](../assets/Costal_highway_Abandoned_mine_leads_to_Pleasant_valley_map_zpslvkwlyyp.jpg) / *A map of the mines (outdate with Episode 3)* |
+| ![Abandoned mine Map (Top layer) v.1.62](../assets/Map-CinderHillsCoalMine-SV.png) / *Abandoned mine Map (Top layer) v.1.62* | ![Abandoned mine (Middle layer and Bottom layer) v.1.62](../assets/Map-AuroraMine-SV.png) / *Abandoned mine (Middle layer and Bottom layer) v.1.62* | ![Elevator (bottom layer)](../assets/SS-AM-Aurora-1F.jpg) / *Elevator (bottom layer)* | ![Elevator (middle layer)](../assets/SS-AM-Aurora-2F.jpg) / *Elevator (middle layer)* |
+| ![Middle layer (During Aurora)](../assets/SS-AM-Aurora-01.jpg) / *Middle layer (During Aurora)* |  |  |  |
 
-<a href="ru:%D0%A3%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%88%D0%B0%D1%85%D1%82%D0%B0_%22%D0%9F%D1%8B%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%85%D0%BE%D0%BB%D0%BC%D1%8B%22" class="wikilink" title="ru:Угольная шахта &quot;Пыльные холмы&quot;">ru:Угольная шахта "Пыльные холмы"</a> <a href="es:Mina_de_carb%C3%B3n_del_incendio" class="wikilink" title="es:Mina de carbón del incendio">es:Mina de carbón del incendio</a>
+[ru:Угольная шахта "Пыльные холмы"](ru:%D0%A3%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%88%D0%B0%D1%85%D1%82%D0%B0_"%D0%9F%D1%8B%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%85%D0%BE%D0%BB%D0%BC%D1%8B") [es:Mina de carbón del incendio](es:Mina_de_carb%C3%B3n_del_incendio)
 
 **Lua execution error in Module:Navbox function navbox** **Lua execution error in Module:Navbox function navbox**
-
-</div>

@@ -7,57 +7,16 @@ source: "https://thelongdark.fandom.com/wiki/Indolent_Hoppers"
 
 # Indolent Hoppers
 
-<div>
+**Indolent Hoppers**
 
-<table class="infobox">
-<caption>Indolent Hoppers</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Indolent_Hoppers.jpg]</span>
-<figcaption>Indolent_Hoppers.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Indolent_Hoppers_Location.png]</span>
-<figcaption>Indolent_Hoppers_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Zone%20of%20Contamination.md" class="wikilink" title="Zone of Contamination">Zone of Contamination</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>A polluted trainyard close to the <a href="./Headframe%20Building.md" class="wikilink" title="Headframe Building">Headframe Building</a></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td></td>
-</tr>
-<tr>
-<td><p>Firebox</p></td>
-<td></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Workbench_icon_green.png" loading="lazy" width="30" />
-<figcaption>workbench_icon_green.png</figcaption>
-</figure></td>
-<td><p>Has a workbench|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Indolent_Hoppers.jpg) / *Indolent\_Hoppers.jpg* |
+| **Location** |  |
+|  | ![](../assets/Indolent_Hoppers_Location.png) / *Indolent\_Hoppers\_Location.png* |
+| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
+| Description | A polluted trainyard close to the [Headframe Building](./Headframe%20Building.md) |
+| **General** |  |
+| Type |  |
+| Firebox |  |
+| ![](../assets/Workbench_icon_green.png) / *workbench\_icon\_green.png* | Has a workbench\|- |

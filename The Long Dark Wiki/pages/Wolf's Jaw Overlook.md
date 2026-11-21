@@ -7,42 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/Wolf's_Jaw_Overlook"
 
 # Wolf's Jaw Overlook
 
-<div>
+**Wolf's Jaw Overlook**
 
-<table class="infobox">
-<caption>Wolf's Jaw Overlook</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: 20201209231328_1.jpg]</span>
-<figcaption>20201209231328_1.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Wolf's_Jaw_Overlook_Location.png]</span>
-<figcaption>Wolf's_Jaw_Overlook_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Ash%20Canyon.md" class="wikilink" title="Ash Canyon">Ash Canyon</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Landmark|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/20201209231328_1.jpg) / *20201209231328\_1.jpg* |
+| **Location** |  |
+|  | ![](../assets/Wolf%27s_Jaw_Overlook_Location.png) / *Wolf's\_Jaw\_Overlook\_Location.png* |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| **General** |  |
+| Type | Landmark\|- |

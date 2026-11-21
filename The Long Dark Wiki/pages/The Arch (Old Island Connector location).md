@@ -7,42 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/The_Arch_(Old_Island_Connector_loca
 
 # The Arch \(Old Island Connector location\)
 
-<div>
+**The Arch**
 
-<table class="infobox">
-<caption>The Arch</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Arch2.jpg]</span>
-<figcaption>Arch2.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: The_Arch_(Old_Island_Connector_location)_Location.png]</span>
-<figcaption>The_Arch_(Old_Island_Connector_location)_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Crumbling%20Highway.md" class="wikilink" title="Old Island Connector">Old Island Connector</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Landmark|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Arch2.jpg) / *Arch2.jpg* |
+| **Location** |  |
+|  | ![](../assets/The_Arch_%28Old_Island_Connector_location%29_Location.png) / *The\_Arch\_(Old\_Island\_Connector\_location)\_Location.png* |
+| Region | [Old Island Connector](./Crumbling%20Highway.md)\|- |
+| **General** |  |
+| Type | Landmark\|- |

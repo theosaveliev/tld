@@ -7,46 +7,14 @@ source: "https://thelongdark.fandom.com/wiki/Matt's_Truck"
 
 # Matt's Truck
 
-<div>
+**Matt's Truck**
 
-<table class="infobox">
-<caption>Matt's Truck</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Matt's_Truck.jpg]</span>
-<figcaption>Matt's_Truck.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Matt's_Truck_Location.png]</span>
-<figcaption>Matt's_Truck_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Desolation%20Point.md" class="wikilink" title="Desolation Point">Desolation Point</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>A truck that has fallen from the roadway</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Matt%27s_Truck.jpg) / *Matt's\_Truck.jpg* |
+| **Location** |  |
+|  | ![](../assets/Matt%27s_Truck_Location.png) / *Matt's\_Truck\_Location.png* |
+| Region | [Desolation Point](./Desolation%20Point.md)\|- |
+| Description | A truck that has fallen from the roadway |
+| **General** |  |
+| Type | Outdoors\|- |

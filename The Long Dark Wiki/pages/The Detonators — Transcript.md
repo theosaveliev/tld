@@ -6,56 +6,20 @@ source: "https://thelongdark.fandom.com/wiki/The_Detonators%2FTranscript"
 
 # The Detonators/Transcript
 
-<div>
+**The Detonators/Transcript**
 
-<table class="infobox">
-<caption>The Detonators/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/The_Detonators.png" loading="lazy" width="250" />
-<figcaption>The_Detonators.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Missions</strong></p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./The%20Power%20Plant%20%E2%80%94%20Transcript.md" class="wikilink" title="The Power Plant/Transcript">The Power Plant/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>The Detonators/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./Donner%20%28mission%29%20%E2%80%94%20Transcript.md" class="wikilink" title="Donner (mission)/Transcript">Donner (mission)/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Blackrock.md" class="wikilink" title="Blackrock Region">Blackrock Region</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a><br />
-<a href="./Mathis.md" class="wikilink" title="Mathis">Mathis</a><br />
-<a href="./Vachon.md" class="wikilink" title="Vachon">Vachon</a><br />
-<a href="./Heller.md" class="wikilink" title="Heller">Heller</a><br />
-<a href="./Jace.md" class="wikilink" title="Jace">Jace</a></p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/The_Detonators.png) / *The\_Detonators.png* |
+| Episode |  |
+| **Missions** |  |
+| Previous | [The Power Plant/Transcript](./The%20Power%20Plant%20%E2%80%94%20Transcript.md) |
+| Current | The Detonators/Transcript |
+| Next | [Donner (mission)/Transcript](./Donner%20%28mission%29%20%E2%80%94%20Transcript.md) |
+| Region | [Blackrock Region](./Blackrock.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jace](./Jace.md) |
 
-This is the transcript for Chapter 3 <a href="./The%20Detonators.md" class="wikilink" title="The Detonators">The Detonators</a> for <a href="./Episode%204%20-%20Fury%2C%20Then%20Silence.md" class="wikilink" title="Episode 4: Fury, Then Silence">Episode 4: Fury, Then Silence</a>.
+This is the transcript for Chapter 3 [The Detonators](./The%20Detonators.md) for [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
 CHAPTER THREE
 
@@ -67,7 +31,7 @@ THE DETONATORS
 
 Mackenzie: "What a blizzard. I won't be much use to Franklin if I get killed."
 
-*He runs back to the <a href="./Contraband%20Storage.md" class="wikilink" title="Contraband Storage">Contraband Storage</a> and grabs his gear, then waits it out as the sun rises. After it clears, he heads up the road to the old mine, and finds <a href="./Mule%20Bridge.md" class="wikilink" title="Mule Bridge">Mule Bridge</a> and crosses it, entering <a href="./Last%20Prospect.md" class="wikilink" title="Last Prospect">Last Prospect</a>*
+*He runs back to the [Contraband Storage](./Contraband%20Storage.md) and grabs his gear, then waits it out as the sun rises. After it clears, he heads up the road to the old mine, and finds [Mule Bridge](./Mule%20Bridge.md) and crosses it, entering [Last Prospect](./Last%20Prospect.md)*
 
 Mackenzie: "Ok. Where are those detonators?"
 
@@ -75,7 +39,7 @@ Mackenzie: "Ok. Where are those detonators?"
 
 Mackenzie: "Gotta get some fresh air in here."
 
-*He dives into the gas and finds a <a href="./Valve%20Socket%20Handle.md" class="wikilink" title="Valve Socket Handle">Valve Socket Handle</a>, turning a valve as fresh air is pumped into the area clearing the gas*
+*He dives into the gas and finds a [Valve Socket Handle](./Valve%20Socket%20Handle.md), turning a valve as fresh air is pumped into the area clearing the gas*
 
 Mackenzie: "Clean air..."
 
@@ -102,13 +66,13 @@ Mackenzie: "This has to be the way..."
 
 Mackenzie: "Hmm...locked."
 
-*Mackenzie walks around and sees a red toolbox holding the <a href="./Detonators.md" class="wikilink" title="Detonators">Detonators</a>. He walks across a beam over a pit, and picks them up*
+*Mackenzie walks around and sees a red toolbox holding the [Detonators](./Detonators.md). He walks across a beam over a pit, and picks them up*
 
 Mackenzie: "That's what I'm looking for."
 
-*Mackenzie then finds a pair of <a href="./Bolt%20Cutters.md" class="wikilink" title="Bolt Cutters">Bolt Cutters</a> to cut the locked fence gate open and uses the elevator to go back up to level 1. He heads for the entrance after cutting through another locked gate and almost leaves the mine until he hears a ringing phone, and answers it*
+*Mackenzie then finds a pair of [Bolt Cutters](./Bolt%20Cutters.md) to cut the locked fence gate open and uses the elevator to go back up to level 1. He heads for the entrance after cutting through another locked gate and almost leaves the mine until he hears a ringing phone, and answers it*
 
-<a href="./Jace.md" class="wikilink" title="Jace">Jace</a>: "So, how'd it all work out?"
+[Jace](./Jace.md): "So, how'd it all work out?"
 
 Mackenzie: "Hello again. Well...I managed to sabotage the locking mechanism. But that won't change much. Mathis found dynamite. And soon...thanks to me, he'll have detonators too. He plans to blast through solitary and get Donner out that way."
 
@@ -144,7 +108,7 @@ Jace: "O...ok. How do you know about her? And what about Mathis? And Donner? If 
 
 Mackenzie: "Where is she?"
 
-Jace: "The <a href="./Suzuki%20Radio%20Telescope.md" class="wikilink" title="Suzuki Radio Telescope">Suzuki Radio Telescope</a>. It's...about 15-20 clicks from here. That's where I was headed when my car stopped working. I've been living there, doing research, for months. Alongside Dr. Atwood. Mackenzie, if the convicts find out about the radio telescope...it'll be bad. It's an old government facility, so there's all kinds of supplies there... food, medical equipment, vehicles. Radios. They could hunker down for weeks, months. It'd make a hell of a base of operations for all manner of evil shit they might get up to. They could...prey upon everyone within 100 clicks. Blackrock is a fortress, but it's broken. It's been broken by the aurora and everything else that's been going on right now."
+Jace: "The [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md). It's...about 15-20 clicks from here. That's where I was headed when my car stopped working. I've been living there, doing research, for months. Alongside Dr. Atwood. Mackenzie, if the convicts find out about the radio telescope...it'll be bad. It's an old government facility, so there's all kinds of supplies there... food, medical equipment, vehicles. Radios. They could hunker down for weeks, months. It'd make a hell of a base of operations for all manner of evil shit they might get up to. They could...prey upon everyone within 100 clicks. Blackrock is a fortress, but it's broken. It's been broken by the aurora and everything else that's been going on right now."
 
 Mackenzie: "But what the hell is going on right now?"
 
@@ -200,6 +164,4 @@ Mackenzie: "Woah...wait, fellas..."
 
 *Mackenzie is dragged into the prison, and the scene ends*
 
-The story continues in <a href="./Donner%20%28mission%29%20%E2%80%94%20Transcript.md" class="wikilink" title="Donner (mission)/Transcript">Donner (mission)/Transcript</a>. **Lua execution error in Module:Navbox function navbox**
-
-</div>
+The story continues in [Donner (mission)/Transcript](./Donner%20%28mission%29%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**

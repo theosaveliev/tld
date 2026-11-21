@@ -7,84 +7,38 @@ source: "https://thelongdark.fandom.com/wiki/The_Crash"
 
 # The Crash
 
-<div>
-
 **Contents**
 
-- [Official description](#Official_description)
-- [Objectives](#Objectives)
-- [Survive the night](#Survive_the_night)
-- [Stop the Blood Loss](#Stop_the_Blood_Loss)
-- [Survive the night](#Survive_the_night_2)
-- [Search for Astrid](#Search_for_Astrid)
-- [Climb out of the Ravine](#Climb_out_of_the_Ravine)
-- [Travel to town](#Travel_to_town)
-- [Transcript](#Transcript)
-- [Update history](#Update_history)
+- [Official description](#official-description)
+- [Objectives](#objectives)
+- [Survive the night](#survive-the-night)
+- [Stop the Blood Loss](#stop-the-blood-loss)
+- [Survive the night](#survive-the-night-1)
+- [Search for Astrid](#search-for-astrid)
+- [Climb out of the Ravine](#climb-out-of-the-ravine)
+- [Travel to town](#travel-to-town)
+- [Transcript](#transcript)
+- [Update history](#update-history)
 
-<table class="infobox">
-<caption>The Crash</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/The_Crash.png" loading="lazy" width="250" />
-<figcaption>The_Crash.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%201%20-%20Do%20Not%20Go%20Gentle.md" class="wikilink" title="Episode 1">Episode 1</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./Memories.md" class="wikilink" title="Memories">Memories</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>The Crash</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./The%20Grey%20Mother.md" class="wikilink" title="The Grey Mother">The Grey Mother</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a> <a href="./Grey%20Mother.md" class="wikilink" title="Grey Mother">Grey Mother</a></p></td>
-</tr>
-</tbody>
-</table>
+**The Crash**
 
-**Memories** is the second mission in <a href="./Episode%201%20-%20Do%20Not%20Go%20Gentle.md" class="wikilink" title="Episode One">Episode One</a> of <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a>, where <a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a> must survive through the night after his plane crashes and search for signs of <a href="./Astrid%20Greenwood.md" class="wikilink" title="Astrid">Astrid</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/The_Crash.png) / *The\_Crash.png* |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
+| Previous | [Memories](./Memories.md) |
+| Current | The Crash |
+| Next | [The Grey Mother](./The%20Grey%20Mother.md) |
+| Region | [Mountain Town](./Mountain%20Town.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md) |
+
+**Memories** is the second mission in [Episode One](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md), where [Will Mackenzie](./Will%20Mackenzie.md) must survive through the night after his plane crashes and search for signs of [Astrid](./Astrid%20Greenwood.md).
 
 ## Official description
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="vertical-align: top; font-size: 3em; color: #5d5980; padding-right: 10px"><p>“</p></td>
-<td><p><span style="font-style:italic">Mackenzie fights to stay alive while searching for signs of Astrid. What happened to her?</span></p>
-<div style="clear:both">
-&#10;</div>
-<div style="float:right; font-size:9pt">
-<p>In-game description</p>
-</div></td>
-<td style="vertical-align: bottom; font-size: 3em; color: #5d5980; padding-left: 10px"><p>”</p></td>
-</tr>
-</tbody>
-</table>
+> “**Mackenzie fights to stay alive while searching for signs of Astrid. What happened to her?**”
+>
+> — In-game description
 
 ## Objectives
 
@@ -98,8 +52,6 @@ This section contains a list of the journal entries for the mission:
   - Sleep in the cave.
   - Climb out of the Ravine.
 
-<!-- -->
-
 - Search for Astrid
 - Look for clues.
 - Look for a nearby town.
@@ -109,44 +61,35 @@ This section contains a list of the journal entries for the mission:
 
 ### Stop the Blood Loss
 
-<figure>
-<span>[Missing image: Scrap_Metal_Knife_Injury.jpg]</span>
-<figcaption>XTHUMB</figcaption>
-</figure>
+![](../assets/Scrap_Metal_Knife_Injury.jpg)
 
-After waking up in the ravine, the player must stop the blood loss using the bandage in the inventory. The bandage can be applied by activating the <a href="./Radial%20Menu.md" class="wikilink" title="Radial Menu">Radial Menu</a>, navigating to the <a href="./First%20Aid.md" class="wikilink" title="first aid">first aid</a> tab, and then using the bandage on the blood loss <a href="./Afflictions.md" class="wikilink" title="affliction">affliction</a>. If the blood loss is not stopped, the player will continue to lose condition.
+After waking up in the ravine, the player must stop the blood loss using the bandage in the inventory. The bandage can be applied by activating the [Radial Menu](./Radial%20Menu.md), navigating to the [first aid](./First%20Aid.md) tab, and then using the bandage on the blood loss [affliction](./Afflictions.md). If the blood loss is not stopped, the player will continue to lose condition.
 
 ### Survive the night
 
-The player should then make their way to the cave, collecting some of the materials strewn about on the way. Spending too much time outside will cause the player to become freezing and lose <a href="./Condition.md" class="wikilink" title="Condition">Condition</a>. Breaking down items, such as breaking branches into <a href="./Stick.md" class="wikilink" title="Stick">Sticks</a>, is a **time accelerated activity**, meaning that time will pass rapidly and therefore the player's Condition may drain quicker.
+The player should then make their way to the cave, collecting some of the materials strewn about on the way. Spending too much time outside will cause the player to become freezing and lose [Condition](./Condition.md). Breaking down items, such as breaking branches into [Sticks](./Stick.md), is a **time accelerated activity**, meaning that time will pass rapidly and therefore the player's Condition may drain quicker.
 
-Once in the cave, the player must start a <a href="./Campfire.md" class="wikilink" title="Campfire">Campfire</a>. This can be done by activating the radial menu again, navigating to the campcraft tab, and selecting the <a href="./Fire.md" class="wikilink" title="fire">fire</a> option.
+Once in the cave, the player must start a [Campfire](./Campfire.md). This can be done by activating the radial menu again, navigating to the campcraft tab, and selecting the [fire](./Fire.md) option.
 
-Once a Campfire has been successfully started, the player can select the moss on the cave floor to sleep on. The player has no control over the amount of time slept and the amount of fuel available at the crash site is very limited, so the Campfire is practically guaranteed to go out while sleeping, meaning some Condition loss will unavoidably occur. Drinking a <a href="./Cup%20of%20Herbal%20Tea.md" class="wikilink" title="Cup of Herbal Tea">Cup of Herbal Tea</a> just before leaving in <a href="./Memories.md" class="wikilink" title="Memories">Memories</a> provides <a href="./Warming%20Up.md" class="wikilink" title="Warming Up">Warming Up</a> and <a href="./Improved%20Rest.md" class="wikilink" title="Improved Rest">Improved Rest</a>; the former helps slow down heat loss, and the latter can help restore Condition when sleeping while the Campfire is still keeping the player warm.
+Once a Campfire has been successfully started, the player can select the moss on the cave floor to sleep on. The player has no control over the amount of time slept and the amount of fuel available at the crash site is very limited, so the Campfire is practically guaranteed to go out while sleeping, meaning some Condition loss will unavoidably occur. Drinking a [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) just before leaving in [Memories](./Memories.md) provides [Warming Up](./Warming%20Up.md) and [Improved Rest](./Improved%20Rest.md); the former helps slow down heat loss, and the latter can help restore Condition when sleeping while the Campfire is still keeping the player warm.
 
 ## Search for Astrid
 
 ### Climb out of the Ravine
 
-\[Missing image: Plane.jpg\] The next morning, the player can leave the ravine by walking up the fallen tree and then climbing the vines. At the top, the player will pass <a href="./Mackenzie%27s%20Crashed%20Plane.md" class="wikilink" title="Mackenzie&#39;s Crashed Plane">Mackenzie's Crashed Plane</a>. Underneath the plane is <a href="./Mackenzie%27s%20Parka.md" class="wikilink" title="Mackenzie&#39;s Parka">Mackenzie's Parka</a>, a <a href="./Bedroll.md" class="wikilink" title="Bedroll">Bedroll</a>, <a href="./Astrid%27s%20Backpack.md" class="wikilink" title="Astrid&#39;s Backpack">Astrid's Backpack</a>, and <a href="./Astrid%27s%20Hardcase.md" class="wikilink" title="Astrid&#39;s Hardcase">Astrid's Hardcase</a>. Further along the cliff, the extra supplies chosen by the player in <a href="./Memories.md" class="wikilink" title="the previous mission">the previous mission</a> can be found on the ground. The player then makes their way past the <a href="./Radio%20Tower.md" class="wikilink" title="Radio Tower">Radio Tower</a>.
+![](../assets/Plane.jpg) The next morning, the player can leave the ravine by walking up the fallen tree and then climbing the vines. At the top, the player will pass [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md). Underneath the plane is [Mackenzie's Parka](./Mackenzie%27s%20Parka.md), a [Bedroll](./Bedroll.md), [Astrid's Backpack](./Astrid%27s%20Backpack.md), and [Astrid's Hardcase](./Astrid%27s%20Hardcase.md). Further along the cliff, the extra supplies chosen by the player in [the previous mission](./Memories.md) can be found on the ground. The player then makes their way past the [Radio Tower](./Radio%20Tower.md).
 
 ### Travel to town
 
-Mackenzie will notice the <a href="./Milton%20House%20%28Grey%20Mother%27s%29.md" class="wikilink" title="Milton House (Grey Mother&#39;s)">Milton House (Grey Mother's)</a> with smoke rising from the chimney. Approaching the house, there is a shed with a dead prisoner. A <a href="./Hatchet.md" class="wikilink" title="hatchet">hatchet</a> may be on top of the toolbox. Entering the house will start the <a href="./The%20Grey%20Mother.md" class="wikilink" title="next mission">next mission</a>.
+Mackenzie will notice the [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) with smoke rising from the chimney. Approaching the house, there is a shed with a dead prisoner. A [hatchet](./Hatchet.md) may be on top of the toolbox. Entering the house will start the [next mission](./The%20Grey%20Mother.md).
 
 ## Transcript
 
-<a href="./The%20Crash%20%E2%80%94%20Transcript.md" class="wikilink" title="The Crash/Transcript">The Crash/Transcript</a>
+[The Crash/Transcript](./The%20Crash%20%E2%80%94%20Transcript.md)
 
 ## Update history
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **17 December 2018 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Added to the game.
 
-</div>
-
-**Lua execution error in Module:Navbox function navboxLua execution error in Module:Navbox function navbox**
-
-</div>
+**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox**

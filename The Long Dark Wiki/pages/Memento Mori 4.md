@@ -7,87 +7,34 @@ source: "https://thelongdark.fandom.com/wiki/Memento_Mori_4"
 
 # Memento Mori 4
 
-<div>
+**Memento Mori 4**
 
-<table class="infobox">
-<caption>Memento Mori 4</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Memento_Mori_4_icon.png" loading="lazy" width="250" />
-<figcaption>Memento_Mori_4_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98" class="wikilink" title="10 December 2019">10 December 2019</a></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Item type</p></td>
-<td><p><a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Stackable</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><p>Examine</p></td>
-<td><p>Why couldn't you hold out? Why couldn't I let go? Are you at rest? Is there sky above where you are?</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>0.00 kg (0 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Actions</strong></p></td>
-</tr>
-<tr>
-<td><p>Backpack</p></td>
-<td><p>Examine</p></td>
-</tr>
-<tr>
-<td><p>On ground</p></td>
-<td><p>Take It, Read Text, Leave It</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Memento_Mori_4_icon.png) / *Memento\_Mori\_4\_icon.png* |
+| Release | [10 December 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.98) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Why couldn't you hold out? Why couldn't I let go? Are you at rest? Is there sky above where you are? |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
-**Memento More 4** is a <a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a> found in the <a href="./Challenge.md" class="wikilink" title="Challenge">Challenge</a> <a href="./As%20the%20Dead%20Sleep.md" class="wikilink" title="As the Dead Sleep">As the Dead Sleep</a>. It is generated in the player's inventory as a note after visiting the fourth grave.
+**Memento More 4** is a [Collectibles](./Collectibles.md) found in the [Challenge](./Challenge.md) [As the Dead Sleep](./As%20the%20Dead%20Sleep.md). It is generated in the player's inventory as a note after visiting the fourth grave.
 
 ## Transcript
 
-<div style="margin: 0.8em 1.6em;font-style: italic;">
+*The following text is transcribed from **Memento Mori 4***
 
-The following text is transcribed from **Memento Mori 4**
-
-</div>
-
-<div style="background: #2D3035; border: 1px solid #2D3035; border-radius: 0 0 120px 120px / 0 0 8px 8px; box-shadow: 0 5px 7px -7px rgb(0 0 0 / 40%); max-width: 90ch; overflow: hidden; padding: 2em; margin-bottom: 1em;">
-
-Why couldn't you hold out? Why couldn't I let go? Are you at rest? Is there sky above where you are?
-
-</div>
+**Why couldn't you hold out? Why couldn't I let go? Are you at rest? Is there sky above where you are?**
 
 ## Update history
 
-<div class="update-history">
-
-<span class="update-list"><span class="update-type update">UPDATE</span> **10 December 2019 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md" class="wikilink" title="Update">Update</a>):**</span>
+UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Added to game
 
-</div>
-
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

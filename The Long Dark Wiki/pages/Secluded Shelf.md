@@ -7,42 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/Secluded_Shelf"
 
 # Secluded Shelf
 
-<div>
+**Secluded Shelf**
 
-<table class="infobox">
-<caption>Secluded Shelf</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Secluded_Shelf.jpg]</span>
-<figcaption>Secluded_Shelf.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Secluded_Shelf_Location.png]</span>
-<figcaption>Secluded_Shelf_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Secluded_Shelf.jpg) / *Secluded\_Shelf.jpg* |
+| **Location** |  |
+|  | ![](../assets/Secluded_Shelf_Location.png) / *Secluded\_Shelf\_Location.png* |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| **General** |  |
+| Type | Outdoors\|- |

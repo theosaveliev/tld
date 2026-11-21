@@ -7,47 +7,22 @@ source: "https://thelongdark.fandom.com/wiki/Rustic_Display_Shelf"
 
 # Rustic Display Shelf
 
-<div>
+**Rustic Display Shelf**
 
-<table class="infobox">
-<caption>Rustic Display Shelf</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Rustic_Display_Shelf_icon.png" loading="lazy" width="250" />
-<figcaption>Rustic_Display_Shelf_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33" class="wikilink" title="TFTFT Part 6 Broken Silence">TFTFT Part 6 Broken Silence</a></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>20.00 kg (44 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Actions</strong></p></td>
-</tr>
-<tr>
-<td><p>Backpack</p></td>
-<td><p>Drop, Place</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Rustic_Display_Shelf_icon.png) / *Rustic\_Display\_Shelf\_icon.png* |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 20.00 kg (44 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
-The **Rustic Display Shelf** is a <a href="./Decorations.md" class="wikilink" title="Decorations">Decorations</a> item that can be <a href="./Crafting.md" class="wikilink" title="Crafted">Crafted</a> as part of the <a href="./Safehouse%20Customization.md" class="wikilink" title="Safehouse Customization">Safehouse Customization</a> feature.
+The **Rustic Display Shelf** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
 ## Overview
 
-A makeshift wooden display shelf, a Rustic Display Shelf can be crafted at a <a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a>, but requires <a href="./Woodworking%20Tools.md" class="wikilink" title="Woodworking Tools">Woodworking Tools</a>.
+A makeshift wooden display shelf, a Rustic Display Shelf can be crafted at a [Furniture Workbench](./Furniture%20Workbench.md), but requires [Woodworking Tools](./Woodworking%20Tools.md).
 
 There are 4 shelves for displaying items, with a single drawer at the bottom that has a storage capacity of 10.00 kg.
 
@@ -57,57 +32,24 @@ Despite having a Backpack carry weight value, the shelf cannot be picked up and 
 
 ## Crafting
 
-<table class="infobox">
-<caption>Rustic Display Shelf</caption>
-<tbody>
-<tr>
-<td colspan="2"><p>-</p></td>
-</tr>
-<tr>
-<td colspan="2"><p>-</p></td>
-</tr>
-<tr>
-<td colspan="2"><p>540 minutes (9 hour 0 minutes)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Requirements</strong></p></td>
-</tr>
-<tr>
-<td><p>Facility</p></td>
-<td><p><strong>Template:iconlink</strong></p></td>
-</tr>
-<tr>
-<td><p>Tool</p></td>
-<td><p><strong>Template:iconlink</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Materials</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Template:iconlink plain</strong></p></td>
-</tr>
-<tr>
-<td><p>Item</p></td>
-<td><p><a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-</tr>
-<tr>
-<td><p>Quantity</p></td>
-<td><p>10</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Template:iconlink plain</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><p><a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p></td>
-</tr>
-<tr>
-<td colspan="2"><p>2</p></td>
-</tr>
-</tbody>
-</table>
+**Rustic Display Shelf**
+
+| Property | Details |
+| --- | --- |
+|  | - |
+|  | - |
+|  | 540 minutes (9 hour 0 minutes) |
+| **Requirements** |  |
+| Facility | **Template:iconlink** |
+| Tool | **Template:iconlink** |
+| **Materials** |  |
+| **Template:iconlink plain** |  |
+| Item | [Fir Firewood](./Fir%20Firewood.md) |
+| Quantity | 10 |
+| **Template:iconlink plain** |  |
+|  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
+|  | 2 |
 
 ## Update History
 
-**Template:update historyLua execution error in Module:Navbox function navbox** <a href="ru:%D0%A1%D1%82%D0%B5%D0%BB%D0%BB%D0%B0%D0%B6_%D0%B2_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D1%81%D1%82%D0%B8%D0%BB%D0%B5" class="wikilink" title="ru:Стеллаж в деревенском стиле">ru:Стеллаж в деревенском стиле</a>
-
-</div>
+**Template:update history****Lua execution error in Module:Navbox function navbox** [ru:Стеллаж в деревенском стиле](ru:%D0%A1%D1%82%D0%B5%D0%BB%D0%BB%D0%B0%D0%B6_%D0%B2_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D1%81%D1%82%D0%B8%D0%BB%D0%B5)

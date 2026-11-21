@@ -7,39 +7,12 @@ source: "https://thelongdark.fandom.com/wiki/Mammoth_Falls"
 
 # Mammoth Falls
 
-<div>
+**Mammoth Falls**
 
-<table class="infobox">
-<caption>Mammoth Falls</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Mammoth_Falls.jpg]</span>
-<figcaption>Mammoth_Falls.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Mammoth_Falls_Location.png]</span>
-<figcaption>Mammoth_Falls_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Mammoth_Falls.jpg) / *Mammoth\_Falls.jpg* |
+| **Location** |  |
+|  | ![](../assets/Mammoth_Falls_Location.png) / *Mammoth\_Falls\_Location.png* |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| Type | Outdoors\|- |

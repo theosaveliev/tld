@@ -7,63 +7,27 @@ source: "https://thelongdark.fandom.com/wiki/Trauma%2FTranscript"
 
 # Trauma/Transcript
 
-<div>
-
 **Contents**
 
-- [Transcript](#Transcript)
-- [Molly](#Molly)
-- [Molly's Farmhouse.](#Molly%27s_Farmhouse.)
-- [Molly has phoned from her barn, and she needs your help.](#Molly_has_phoned_from_her_barn%2C_and_she_needs_your_help.)
-- [Find someone who can help guide you out of Pleasant Valley.](#Find_someone_who_can_help_guide_you_out_of_Pleasant_Valley.)
+- [Transcript](#transcript)
+- [Molly](#molly)
+- [Molly's Farmhouse.](#mollys-farmhouse)
+- [Molly has phoned from her barn, and she needs your help.](#molly-has-phoned-from-her-barn-and-she-needs-your-help)
+- [Find someone who can help guide you out of Pleasant Valley.](#find-someone-who-can-help-guide-you-out-of-pleasant-valley)
 
-<table class="infobox">
-<caption>Trauma/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Missions_story_ep3_Trauma.png" loading="lazy" width="250" />
-<figcaption>Missions_story_ep3_Trauma.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%203%20-%20Crossroads%20Elegy.md" class="wikilink" title="Episode 3">Episode 3</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./Renewed%20Hope%20%E2%80%94%20Transcript.md" class="wikilink" title="Renewed Hope/Transcript">Renewed Hope/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>Trauma/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./Fallen%20Star%20%E2%80%94%20Transcript.md" class="wikilink" title="Fallen Star/Transcript">Fallen Star/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a> <a href="./Keeper%27s%20Pass%20South.md" class="wikilink" title="Keeper&#39;s Pass South">Keeper's Pass South</a>-(Opening cutscene)</p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Astrid%20Greenwood.md" class="wikilink" title="Astrid Greenwood">Astrid Greenwood</a> <a href="./Molly.md" class="wikilink" title="Molly">Molly</a><br />
-<a href="./Grey%20Mother.md" class="wikilink" title="Grey Mother">Grey Mother</a> (opening cutscene)<br />
-<a href="./Hobbs.md" class="wikilink" title="Hobbs">Hobbs</a> (opening cutscene)<br />
-<a href="./Mathis.md" class="wikilink" title="Mathis">Mathis</a> (opening cutscene)<br />
-<a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a> (opening cutscene)<br />
-<a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a> (opening cutscene)<br />
-<a href="./Characters.md#Radio_Voice_Man" class="wikilink" title="Radio Voice Man">Radio Voice Man</a> (opening cutscene)</p></td>
-</tr>
-</tbody>
-</table>
+**Trauma/Transcript**
 
-This is the mission transcript for mission 1 <a href="./Trauma.md" class="wikilink" title="Trauma">Trauma</a> of <a href="./Episode%203%20-%20Crossroads%20Elegy.md" class="wikilink" title="Episode 3: Crossroads Elegy">Episode 3: Crossroads Elegy</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Missions_story_ep3_Trauma.png) / *Missions\_story\_ep3\_Trauma.png* |
+| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Previous | [Renewed Hope/Transcript](./Renewed%20Hope%20%E2%80%94%20Transcript.md) |
+| Current | Trauma/Transcript |
+| Next | [Fallen Star/Transcript](./Fallen%20Star%20%E2%80%94%20Transcript.md) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)-(Opening cutscene) |
+| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) [Molly](./Molly.md) / [Grey Mother](./Grey%20Mother.md) (opening cutscene) / [Hobbs](./Hobbs.md) (opening cutscene) / [Mathis](./Mathis.md) (opening cutscene) / [Will Mackenzie](./Will%20Mackenzie.md) (opening cutscene) / [Jeremiah](./Jeremiah.md) (opening cutscene) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) (opening cutscene) |
+
+This is the mission transcript for mission 1 [Trauma](./Trauma.md) of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
 ## Transcript
 
@@ -71,23 +35,23 @@ This is the mission transcript for mission 1 <a href="./Trauma.md" class="wikili
 
 PREVIOUSLY ON THE LONG DARK
 
-*Panning shot of a wilderness on <a href="./Great%20Bear%20Island.md" class="wikilink" title="Great Bear Island">Great Bear Island</a> during snowy weather, followed by the prerendered cutscene from Episode 1.*
+*Panning shot of a wilderness on [Great Bear Island](./Great%20Bear%20Island.md) during snowy weather, followed by the prerendered cutscene from Episode 1.*
 
-<a href="./Astrid%20Greenwood.md" class="wikilink" title="Astrid Greenwood">Astrid Greenwood</a>: "I need your help. There's an isolated community in the Northern part of Great Bear. Someone there is very sick and..."
+[Astrid Greenwood](./Astrid%20Greenwood.md): "I need your help. There's an isolated community in the Northern part of Great Bear. Someone there is very sick and..."
 
-<a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a>: "Great Bear? There's nothing there anymore. Not since..."
+[Will Mackenzie](./Will%20Mackenzie.md): "Great Bear? There's nothing there anymore. Not since..."
 
 Astrid: "I know...but, I have to get there."
 
 *Scene shifts to show Mackenzie's Plane falling out of the sky during the First Flare. Scene shifts to show Grey Mother.*
 
-<a href="./Grey%20Mother.md" class="wikilink" title="Grey Mother">Grey Mother</a>: "I seem to recall...a town somewhere up north. Far. What was it called... That's it - - Perseverance Mills.
+[Grey Mother](./Grey%20Mother.md): "I seem to recall...a town somewhere up north. Far. What was it called... That's it - - Perseverance Mills.
 
-*Scene shows Mackenzie wiping the frost off of the <a href="./Crashed%20Prison%20Transport%20Bus.md" class="wikilink" title="Crashed Prison Transport Bus">Crashed Prison Transport Bus</a> and peering inside, seeing the word PERSERVERANCE. Scene shifts to show Hobbs.*
+*Scene shows Mackenzie wiping the frost off of the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) and peering inside, seeing the word PERSERVERANCE. Scene shifts to show Hobbs.*
 
-<a href="./Hobbs.md" class="wikilink" title="Hobbs">Hobbs</a>: "...it was like sparks everywhere and then fire.
+[Hobbs](./Hobbs.md): "...it was like sparks everywhere and then fire.
 
-*Scene shifts to show Mackenzie with a Torch walking up to the burned down <a href="./Old%20Schoolhouse.md" class="wikilink" title="Old Schoolhouse">Old Schoolhouse</a> at night.*
+*Scene shifts to show Mackenzie with a Torch walking up to the burned down [Old Schoolhouse](./Old%20Schoolhouse.md) at night.*
 
 Hobbs: "She fought like hell trying to get them out."
 
@@ -97,11 +61,11 @@ Hobbs: "We tried to stop her but she ended up on the bus...somehow, she was smal
 
 *Scene shifts to show the Aurora humming in the night sky*
 
-<a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a>: "Did you see the lights in the night sky, the aurora? Well, when that flared up, the radio came to life. It just lit up, and started spitting out noise, but it was all gibberish."
+[Jeremiah](./Jeremiah.md): "Did you see the lights in the night sky, the aurora? Well, when that flared up, the radio came to life. It just lit up, and started spitting out noise, but it was all gibberish."
 
 *Scene shifts to show Jeremiah, then to Mackenzie turning on the shortwave radio*
 
-<a href="./Characters.md#Radio_Voice_Man" class="wikilink" title="Radio Voice Man">Radio Voice Man</a>: "...\[static\]... This is...Mills...come in..."
+[Radio Voice Man](./Characters.md#Radio_Voice_Man): "...\[static\]... This is...Mills...come in..."
 
 Mackenzie: "Hello? Is this the radio station at Perseverance Mills? Is there a doctor with you?"
 
@@ -109,7 +73,7 @@ Radio Voice Man: "We need help...Some kind of...quarantine...We need a...doctor.
 
 *Scene shifts to inside the Carter Hydro Dam, at the end of Episode 2. Mackenzie is assaulted by Mathis*
 
-<a href="./Mathis.md" class="wikilink" title="Mathis">Mathis</a>: "What's in the case?"
+[Mathis](./Mathis.md): "What's in the case?"
 
 Mackenzie: "I have no idea."
 
@@ -129,7 +93,7 @@ CROSSROADS ELEGY
 
 *A single crow can be heard cawing, as machines that sound like ICU units operate and pump air. Heartbeat monitors beep, before the cawing and machinery stop as two blurry artificial lights appear in the ceiling before the player. Astrid has just woken up, finding herself inside a cabin and she shields her eyes from the brightness of a nearby fire. She sees that her left hand and right wrist has a bandage on it and studies it, before turning her gaze to the fire. A woman, presumably the one that saved her, is sitting in a coach and casually smokes a ciggerete as the house is in the dead of night. Astrid tries to get out of bed and stumbles, alerting the woman, who comes over.*
 
-<a href="./Molly.md" class="wikilink" title="Molly">Molly</a>: "So...she lives."
+[Molly](./Molly.md): "So...she lives."
 
 Astrid: "...wh..where am I?"
 
@@ -407,7 +371,7 @@ CHAPTER ONE
 
 TRAUMA
 
-*From this point the player can walk around the house. Astrid limps with a <a href="./Sprained%20Ankle.md" class="wikilink" title="Sprained Ankle">Sprained Ankle</a> and her vision is blurred with <a href="./Pain.md" class="wikilink" title="Pain">Pain</a> from her Plane Crash Injuries*
+*From this point the player can walk around the house. Astrid limps with a [Sprained Ankle](./Sprained%20Ankle.md) and her vision is blurred with [Pain](./Pain.md) from her Plane Crash Injuries*
 
 Astrid: "This place...am I really trapped in here?"
 
@@ -465,15 +429,15 @@ Molly: "Go straight to the gun locker. Stay out of everything else. Got it?"
 
 ## Molly has phoned from her barn, and she needs your help.
 
-*Molly hangs up, and Astrid puts the phone back on the Receiver. She goes to the living room and looks under the <a href="./Vase.md" class="wikilink" title="Vase">Vase</a>*
+*Molly hangs up, and Astrid puts the phone back on the Receiver. She goes to the living room and looks under the [Vase](./Vase.md)*
 
 Astrid: "Ha. Got it!"
 
-*Astrid unlocks the basement and goes downstairs, finding her <a href="./Astrid%27s%20Jacket.md" class="wikilink" title="Jacket">Jacket</a>, <a href="./Astrid%27s%20Gloves.md" class="wikilink" title="Gloves">Gloves</a>, and <a href="./Astrid%27s%20Toque.md" class="wikilink" title="Toque">Toque</a> on a table. She walks across the room when suddenly an earthquake rocks the house. An arm falls down from under a cloth on table.*
+*Astrid unlocks the basement and goes downstairs, finding her [Jacket](./Astrid%27s%20Jacket.md), [Gloves](./Astrid%27s%20Gloves.md), and [Toque](./Astrid%27s%20Toque.md) on a table. She walks across the room when suddenly an earthquake rocks the house. An arm falls down from under a cloth on table.*
 
 Astrid: "Wha...?"
 
-*Astrid approaches the table and pulls the cloth back, revealing the bloody, purples remains of <a href="./Molly%27s%20Husband.md" class="wikilink" title="Molly&#39;s Husband">Molly's Husband</a>*
+*Astrid approaches the table and pulls the cloth back, revealing the bloody, purples remains of [Molly's Husband](./Molly%27s%20Husband.md)*
 
 Astrid: "Holy shi..."
 
@@ -513,7 +477,7 @@ Astrid: "Hmm. An old flyer for a town meeting of some kind. Looks like the town'
 
 ## Find someone who can help guide you out of Pleasant Valley.
 
-*Astrid leaves the barn, with the raging blizzard dying down into light snowfall, obscuring the horizon but still providing plenty of visibility. If the player walks back to the Farmstead, all the doors are indeed padlocked from the outside as Molly said they were. Astrid eventually makes her way across the nearby road and bridge by following the <a href="./Community%20Hall%20Flyer.md" class="wikilink" title="Community Hall Flyer">Community Hall Flyer</a> map, and sees smoke off of the horizon.*
+*Astrid leaves the barn, with the raging blizzard dying down into light snowfall, obscuring the horizon but still providing plenty of visibility. If the player walks back to the Farmstead, all the doors are indeed padlocked from the outside as Molly said they were. Astrid eventually makes her way across the nearby road and bridge by following the [Community Hall Flyer](./Community%20Hall%20Flyer.md) map, and sees smoke off of the horizon.*
 
 Astrid: "Smoke. Maybe that Community Hall from the flyer?"
 
@@ -527,7 +491,7 @@ Astrid: "That's got to be the Community Hall."
 
 *Astrid steps inside and sees lit candles near the entrance. She opens the inner doors to the building and sees a scene of bodies all over the floor, all wrapped in blankets and sleeping on the floor. Many of them cough and moan in pain as Astrid carefully steps around them, seeing a man standing among them. As she approaches, the man turns around as he hears her approach.*
 
-<a href="./Father%20Thomas.md" class="wikilink" title="Father Thomas">Father Thomas</a>: "Oh...hello. Did you come from the crash site, like the others? All the cots are take...but you can sit by the fire, warm up a bit."
+[Father Thomas](./Father%20Thomas.md): "Oh...hello. Did you come from the crash site, like the others? All the cots are take...but you can sit by the fire, warm up a bit."
 
 *The man wears a clerical collar on his neck, and gestures Astrid over to the fireplace in the hall*
 
@@ -585,8 +549,6 @@ Astrid: "I'm a...doctor. I can have a look at the survivors and uh...see how to 
 
 Father Thomas: "That sounds like a good place to start. Once you've had a chance to check on them, come back and we can and we can try to figure out...what can be done for them."
 
-The story continues in <a href="./Fallen%20Star%20%E2%80%94%20Transcript.md" class="wikilink" title="Fallen Star/Transcript">Fallen Star/Transcript</a>
+The story continues in [Fallen Star/Transcript](./Fallen%20Star%20%E2%80%94%20Transcript.md)
 
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

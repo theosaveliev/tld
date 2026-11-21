@@ -7,51 +7,19 @@ source: "https://thelongdark.fandom.com/wiki/Jeremiah's_Folly%2FTranscript"
 
 # Jeremiah's Folly/Transcript
 
-<div>
+**Jeremiah's Folly/Transcript**
 
-<table class="infobox">
-<caption>Jeremiah's Folly/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Jeremiah's_Folly.jpg]</span>
-<figcaption>Jeremiah's_Folly.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md" class="wikilink" title="Survival School (Predux)/Transcript">Survival School (Predux)/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>Jeremiah's Folly/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./Renewed%20Hope%20%28Predux%29%20%E2%80%94%20Transcript.md" class="wikilink" title="Renewed Hope (Predux)/Transcript">Renewed Hope (Predux)/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake (region)">Mystery Lake (region)</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a><br />
-<a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a><br />
-<a href="./Old%20Bear.md" class="wikilink" title="Old Bear">Old Bear</a></p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Jeremiah%27s_Folly.jpg) / *Jeremiah's\_Folly.jpg* |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [Survival School (Predux)/Transcript](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md) |
+| Current | Jeremiah's Folly/Transcript |
+| Next | [Renewed Hope (Predux)/Transcript](./Renewed%20Hope%20%28Predux%29%20%E2%80%94%20Transcript.md) |
+| Region | [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
 
-This is the transcript for Chapter 4 <a href="./Jeremiah%27s%20Folly.md" class="wikilink" title="Jeremiah&#39;s Folly">Jeremiah's Folly</a> for Predux <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2: Luminance Fugue">Episode 2: Luminance Fugue</a>.
+This is the transcript for Chapter 4 [Jeremiah's Folly](./Jeremiah%27s%20Folly.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
 ## Use your map to track the bear to his favourite haunts in Mystery Lake.
 
@@ -59,9 +27,9 @@ CHAPTER FOUR
 
 JEREMIAH'S FOLLY
 
-*The mission starts at the door to <a href="./Trapper%27s%20Homestead.md" class="wikilink" title="Trapper&#39;s Homestead">Trapper's Homestead</a>. The moment Mackenzie steps out, the <a href="./Old%20Bear.md" class="wikilink" title="Old Bear">Old Bear</a> is waiting for him. He stands on both legs, either being driven off by Mackenzie's <a href="./Hunting%20Lodge%20Rifle.md" class="wikilink" title="Hunting Lodge Rifle">Hunting Lodge Rifle</a> or attacking the pilot. If Mackenzie is attacked, he is mercilessly mauled in the struggle, eventually passing out. After passing out, the Old Bear can be heard walking off, and Mackenzie wakes up some time later*
+*The mission starts at the door to [Trapper's Homestead](./Trapper%27s%20Homestead.md). The moment Mackenzie steps out, the [Old Bear](./Old%20Bear.md) is waiting for him. He stands on both legs, either being driven off by Mackenzie's [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) or attacking the pilot. If Mackenzie is attacked, he is mercilessly mauled in the struggle, eventually passing out. After passing out, the Old Bear can be heard walking off, and Mackenzie wakes up some time later*
 
-*After tracking down and continuously shooting the Old Bear, Mackenzie eventually kills the seemingly invulnerable beast, and cuts <a href="./The%20Old%20Bear%27s%20Ear.md" class="wikilink" title="The Old Bear&#39;s Ear">The Old Bear's Ear</a> off.*
+*After tracking down and continuously shooting the Old Bear, Mackenzie eventually kills the seemingly invulnerable beast, and cuts [The Old Bear's Ear](./The%20Old%20Bear%27s%20Ear.md) off.*
 
 ## Bring The Old Bear's Ear back to Jeremiah, as proof of your hunting prowess.
 
@@ -147,6 +115,4 @@ Jeremiah: "Good luck, pilot. You're going to need it. And now, I have my own pat
 
 *Jeremiah gets off the cot clutching his chest and walks over to the floor, flipping open a hidden floor panel containing a Shortwave Radio inside. The cutscene ends as he flips the power switch*
 
-The story continues in <a href="./Renewed%20Hope%20%28Predux%29%20%E2%80%94%20Transcript.md" class="wikilink" title="Renewed Hope (Predux)/Transcript">Renewed Hope (Predux)/Transcript</a>. **Lua execution error in Module:Navbox function navbox**
-
-</div>
+The story continues in [Renewed Hope (Predux)/Transcript](./Renewed%20Hope%20%28Predux%29%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**

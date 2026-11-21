@@ -7,59 +7,26 @@ source: "https://thelongdark.fandom.com/wiki/The_Best_Defense%2FTranscript"
 
 # The Best Defense/Transcript
 
-<div>
-
 **Contents**
 
-- [Transcript](#Transcript)
-- [Retrieve the legendary spear from the Hunting Lodge.](#Retrieve_the_legendary_spear_from_the_Hunting_Lodge.)
-- [Repair the broken spear at the forge.](#Repair_the_broken_spear_at_the_forge.)
-- [Get back to Jeremiah](#Get_back_to_Jeremiah)
+- [Transcript](#transcript)
+- [Retrieve the legendary spear from the Hunting Lodge.](#retrieve-the-legendary-spear-from-the-hunting-lodge)
+- [Repair the broken spear at the forge.](#repair-the-broken-spear-at-the-forge)
+- [Get back to Jeremiah](#get-back-to-jeremiah)
 
-<table class="infobox">
-<caption>The Best Defense/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Missions_story_ep2_The_Best_Defense.png" loading="lazy" width="250" />
-<figcaption>Missions_story_ep2_The_Best_Defense.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md" class="wikilink" title="The Wounded Trapper/Transcript">The Wounded Trapper/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>The Best Defense/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./Signal%20to%20Noise%20%E2%80%94%20Transcript.md" class="wikilink" title="Signal to Noise/Transcript">Signal to Noise/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mystery%20Lake%20%28disambiguation%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a> <a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a><br />
-<a href="./Broken%20Railroad.md" class="wikilink" title="Broken Railroad">Broken Railroad</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a> <a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a><br />
-<a href="./Old%20Bear.md" class="wikilink" title="Old Bear">Old Bear</a><br />
-<a href="./Methuselah.md" class="wikilink" title="Methuselah">Methuselah</a></p></td>
-</tr>
-</tbody>
-</table>
+**The Best Defense/Transcript**
 
-This is the mission transcript for mission 2 <a href="./The%20Best%20Defense.md" class="wikilink" title="The Best Defense">The Best Defense</a> of <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2: Luminance Fugue">Episode 2: Luminance Fugue</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Missions_story_ep2_The_Best_Defense.png) / *Missions\_story\_ep2\_The\_Best\_Defense.png* |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [The Wounded Trapper/Transcript](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md) |
+| Current | The Best Defense/Transcript |
+| Next | [Signal to Noise/Transcript](./Signal%20to%20Noise%20%E2%80%94%20Transcript.md) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) / [Methuselah](./Methuselah.md) |
+
+This is the mission transcript for mission 2 [The Best Defense](./The%20Best%20Defense.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
 ## Transcript
 
@@ -67,9 +34,9 @@ CHAPTER TWO
 
 THE BEST DEFENSE
 
-## Retrieve the <a href="./Broken%20Bear%20Spear.md" class="wikilink" title="legendary spear">legendary spear</a> from the <a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a>.
+## Retrieve the [legendary spear](./Broken%20Bear%20Spear.md) from the [Hunting Lodge](./Hunting%20Lodge.md).
 
-*Mackenzie leaves the <a href="./Trapper%27s%20Homestead.md" class="wikilink" title="Trapper&#39;s Homestead">Trapper's Homestead</a> and heads south, entering <a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a>. He passes through the region without any eventful encounters, aside from a scripted Wolf feeding on a Deer Carcass in the middle of the tracks. He passes through the region into <a href="./Broken%20Railroad.md" class="wikilink" title="Broken Railroad">Broken Railroad</a>, and navigates around a <a href="./Landslide.md" class="wikilink" title="Landslide">Landslide</a>, before passing a <a href="./Locomotive%20Engine.md" class="wikilink" title="Locomotive Engine">Locomotive Engine</a> and walks up a <a href="./Train%20Shuttle.md" class="wikilink" title="Train Shuttle">Train Shuttle</a> blocking his way forward, then walks into a broken window. Entering the vehicle, he walks to the grated door and the <a href="./Old%20Bear.md" class="wikilink" title="Old Bear">Old Bear</a> appears around a tree. It spots Mackenzie, and walks up to the grated door as the pilot slowly backs away from it.*
+*Mackenzie leaves the [Trapper's Homestead](./Trapper%27s%20Homestead.md) and heads south, entering [Forlorn Muskeg](./Forlorn%20Muskeg.md). He passes through the region without any eventful encounters, aside from a scripted Wolf feeding on a Deer Carcass in the middle of the tracks. He passes through the region into [Broken Railroad](./Broken%20Railroad.md), and navigates around a [Landslide](./Landslide.md), before passing a [Locomotive Engine](./Locomotive%20Engine.md) and walks up a [Train Shuttle](./Train%20Shuttle.md) blocking his way forward, then walks into a broken window. Entering the vehicle, he walks to the grated door and the [Old Bear](./Old%20Bear.md) appears around a tree. It spots Mackenzie, and walks up to the grated door as the pilot slowly backs away from it.*
 
 Mackenzie: "Oh...shi..."
 
@@ -81,7 +48,7 @@ Mackenzie: "Oh...shi..."
 
 Mackenzie: "Look...at the lights."
 
-*The sky is filled with the <a href="./Aurora.md" class="wikilink" title="Aurora">Aurora</a>, and a nearby lamppost is functioning, bathing the pilot in a white artificial light. Mackenzie steps forward and sees an active campfire*
+*The sky is filled with the [Aurora](./Aurora.md), and a nearby lamppost is functioning, bathing the pilot in a white artificial light. Mackenzie steps forward and sees an active campfire*
 
 Mackenzie: "Is that a campfire?"
 
@@ -89,7 +56,7 @@ Mackenzie: "Is that a campfire?"
 
 Mackenzie: "Y...you again?"
 
-<a href="./Methuselah.md" class="wikilink" title="Methuselah">Methuselah</a>: "How goes the war, my friend?"
+[Methuselah](./Methuselah.md): "How goes the war, my friend?"
 
 Mackenzie: "Uhh...war?"
 
@@ -151,7 +118,7 @@ Mackenzie: "So...you think the aurora is...influencing the wildlife too?"
 
 Methuselah: "There is much in nature we cannot understand. Would it be so strange?"
 
-*After warming himself by the fire and finishing his conversation with the strange old man, Mackenzie turns his attention to a powered truck and more powered lights, heading down the path to a large <a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a>. Several glowing Wolves who become unusually aggressive block his path in the yard, and Mackenzie evades or kills them. The front and back door of the Maintenance Shed is locked, but an office building is open, with the message "THEY HATE THE LIGHT" written above the bed, illumined by an artificial light. Entering the Shed, the overhead lights hum with electricity and several wires burn and smoke on the floors, with Mackenzie avoiding them. A dead <a href="./Forest%20Talkers.md" class="wikilink" title="Forest Talker">Forest Talker</a> lies a room close to the bathroom, with a message (<a href="./Forest%20Talker%20Flyer.md" class="wikilink" title="Forest Talker Flyer">Forest Talker Flyer</a>) directing fellow activists to the <a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a>.*
+*After warming himself by the fire and finishing his conversation with the strange old man, Mackenzie turns his attention to a powered truck and more powered lights, heading down the path to a large [Maintenance Yard](./Maintenance%20Yard.md). Several glowing Wolves who become unusually aggressive block his path in the yard, and Mackenzie evades or kills them. The front and back door of the Maintenance Shed is locked, but an office building is open, with the message "THEY HATE THE LIGHT" written above the bed, illumined by an artificial light. Entering the Shed, the overhead lights hum with electricity and several wires burn and smoke on the floors, with Mackenzie avoiding them. A dead [Forest Talker](./Forest%20Talkers.md) lies a room close to the bathroom, with a message ([Forest Talker Flyer](./Forest%20Talker%20Flyer.md)) directing fellow activists to the [Hunting Lodge](./Hunting%20Lodge.md).*
 
 *Mackenzie leaves the Shed, and travels behind it as he follows a trail of lampposts into the mountain. He passes through a gate and continues to follow the lamps, as Wolves avoid the artificial light. He eventually spots the Lodge*
 
@@ -161,15 +128,15 @@ Mackenzie: "Wow...this must have been really nice, once upon a time."
 
 Mackenzie: "Now...to find that spear."
 
-*The Lodge appears messy, with many food supplies scattered and left behind by the Forest Talkers. If Mackenzie enters the basement then he will find a <a href="./Flashlight.md" class="wikilink" title="Flashlight">Flashlight</a>, but will also hear a ringing phone coming from upstairs. Mackenzie picks up the Flashlight, causing a cutscene to occur as he slowly looks it over, cracked lens and all. Returning upstairs as the phone continues to ring and opening the <a href="./Phone%20Box.md" class="wikilink" title="Phone Box">Phone Box</a>, the ringing stops before he can answer the caller.*
+*The Lodge appears messy, with many food supplies scattered and left behind by the Forest Talkers. If Mackenzie enters the basement then he will find a [Flashlight](./Flashlight.md), but will also hear a ringing phone coming from upstairs. Mackenzie picks up the Flashlight, causing a cutscene to occur as he slowly looks it over, cracked lens and all. Returning upstairs as the phone continues to ring and opening the [Phone Box](./Phone%20Box.md), the ringing stops before he can answer the caller.*
 
 *By this point, dawn breaks and the lights in the sky begin to fade. Cars and lightbulbs go out, along with the Flashlight's battery. Mackenzie eventually finds the Bear Spear, placed on a mantle above a Fireplace in the kitchen. He takes it into his hands, and notices the shattered spearhead.*
 
 Mackenzie: "Damn...looks like one little detail got missed in the trapper's "legend" of the old bear: The spear didn't survive the fight. Must be something I can use to fix it at the old machine shed."
 
-## Repair the broken spear at the <a href="./Forge.md" class="wikilink" title="forge">forge</a>.
+## Repair the broken spear at the [forge](./Forge.md).
 
-*Mackenzie then travels back to the Maintenance Shed, <a href="./Broken%20Bear%20Spear.md" class="wikilink" title="Broken Bear Spear">Broken Bear Spear</a> in tow, and manages finds several pieces of <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a>, a <a href="./Heavy%20Hammer.md" class="wikilink" title="Heavy Hammer">Heavy Hammer</a>, and enough wood to forge a new <a href="./Spear%20Head.md" class="wikilink" title="Spear Head">Spear Head</a>. Mackenzie then lights the <a href="./Furnace.md" class="wikilink" title="Furnace">Furnace</a>.*
+*Mackenzie then travels back to the Maintenance Shed, [Broken Bear Spear](./Broken%20Bear%20Spear.md) in tow, and manages finds several pieces of [Scrap Metal](./Scrap%20Metal.md), a [Heavy Hammer](./Heavy%20Hammer.md), and enough wood to forge a new [Spear Head](./Spear%20Head.md). Mackenzie then lights the [Furnace](./Furnace.md).*
 
 Mackenzie: "That should do it."
 
@@ -181,13 +148,13 @@ Mackenzie: "Let's do this."
 
 Mackenzie: "Guess I can add "blacksmith" to my growing list of skills."
 
-*Mackenzie holds up the <a href="./Bear%20Spear.md" class="wikilink" title="Bear Spear">Bear Spear</a>, showing off its restored glory, then puts it away.*
+*Mackenzie holds up the [Bear Spear](./Bear%20Spear.md), showing off its restored glory, then puts it away.*
 
 Mackenzie: "Let's hope I don't have to put this spear to the test."
 
 ## Get back to Jeremiah
 
-*Mackenzie then leaves the Maintenance Shed, choosing to craft a set of improvised tools or to just leave. He passes by the spot that Methuselah was the night before, but he is long gone by now and the campfire burned out. The return trip to <a href="./Trapper%27s%20Homestead.md" class="wikilink" title="Trapper&#39;s Homestead">Trapper's Homestead</a> is uneventful, as Mackenzie passes through Broken Railroad and the Muskeg with no trouble, until he reaches the transition to Mystery Lake and spots the Old Bear in the nearby mountain.*
+*Mackenzie then leaves the Maintenance Shed, choosing to craft a set of improvised tools or to just leave. He passes by the spot that Methuselah was the night before, but he is long gone by now and the campfire burned out. The return trip to [Trapper's Homestead](./Trapper%27s%20Homestead.md) is uneventful, as Mackenzie passes through Broken Railroad and the Muskeg with no trouble, until he reaches the transition to Mystery Lake and spots the Old Bear in the nearby mountain.*
 
 *The bear growls, then lowers its ears in fear, as if sensing the danger of the Bear Spear.*
 
@@ -265,6 +232,4 @@ Mackenzie: "Hmph. Let's get on with it."
 
 *The screen fades to black.*
 
-The story continues in <a href="./Signal%20to%20Noise%20%E2%80%94%20Transcript.md" class="wikilink" title="Signal to Noise/Transcript">Signal to Noise/Transcript</a>. **Lua execution error in Module:Navbox function navbox**
-
-</div>
+The story continues in [Signal to Noise/Transcript](./Signal%20to%20Noise%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**

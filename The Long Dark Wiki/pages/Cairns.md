@@ -7,18 +7,14 @@ source: "https://thelongdark.fandom.com/wiki/Cairns"
 
 # Cairns
 
-<div>
+![](../assets/Cairn_icon.png)
 
-<figure class="thumb">
-<img src="../assets/Cairn_icon.png" loading="lazy" width="220" />
-</figure>
-
-**Cairns** are <a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a> that appear in <a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a>. They are small rockpiles with a red piece of cloth that sways in the wind and serve as tributes to supporters from the kickstarter campaign, with each message having been written by a patron. There are currently 165 cairns in the game spread across most of Lower Great Bear.
+**Cairns** are [Collectibles](./Collectibles.md) that appear in [Survival Mode](./Survival%20Mode.md). They are small rockpiles with a red piece of cloth that sways in the wind and serve as tributes to supporters from the kickstarter campaign, with each message having been written by a patron. There are currently 165 cairns in the game spread across most of Lower Great Bear.
 
 Most Cairns display the message "Its story is not yet written..." because many backers did not submit a message for their Cairn.
 
-|  |  |  |  |  |
-|:--:|:--:|:--:|:--:|:--:|
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
+| --- | --- | --- | --- | --- |
 | Region | Cairn | Name | Message | Backer No. |
 | Broken Railroad | 17 | MILES' OVERLOOK | Damn pretty, ain't it? | PP-527 |
 | Broken Railroad | 28 | THE GOLTEN | The Golten's Cairn | 5946 |
@@ -75,7 +71,7 @@ Most Cairns display the message "Its story is not yet written..." because many b
 | Forlorn Muskeg | 9 | ERIC | I can't wait to get home… | 5114 |
 | Forlorn Muskeg | 24 | FRIEDHELM AND BIRGIT | The stars shone bright that day. | 2702 |
 | Forlorn Muskeg | 35 | THE MYLES | The Myles's Cairn | 2543 |
-| Forlorn Muskeg | 40 | LOST TRAVELLER | Blizzard's rising.  Wish me luck. | 3143 |
+| Forlorn Muskeg | 40 | LOST TRAVELLER | Blizzard's rising. Wish me luck. | 3143 |
 | Forlorn Muskeg | 52 | LOST CAIRN | Its story is not yet written… | 549 |
 | Forlorn Muskeg | 55 | LOST CAIRN | Its story is not yet written… | 1638 |
 | Forlorn Muskeg | 74 | LOST CAIRN | Its story is not yet written… | 6100 |
@@ -116,7 +112,7 @@ Most Cairns display the message "Its story is not yet written..." because many b
 | Pleasant Valley | 25 | PAPPA | He thought it was alright here. | 2951 |
 | Pleasant Valley | 27 | KAIRI | She lost her favorite shoes here. | 18 |
 | Pleasant Valley | 30 | MEOWSKI | For Leo | 6277 |
-| Pleasant Valley | 34 | VAN LIEROP'S ROCK | Logan & Emrik were here | 3921 |
+| Pleasant Valley | 34 | VAN LIEROP'S ROCK | Logan &amp; Emrik were here | 3921 |
 | Pleasant Valley | 42 | CLOUDREACH | Cloudreach's Cairn | 4094 |
 | Pleasant Valley | 73 | LOST CAIRN | Its story is not yet written… | 5937 |
 | Pleasant Valley | 75 | LOST CAIRN | Its story is not yet written… | 6559 |
@@ -147,7 +143,7 @@ Most Cairns display the message "Its story is not yet written..." because many b
 | Ravine | 142 | LOST CAIRN | Its story is not yet written… | 1553 |
 | Ravine | 145 | LOST CAIRN | Its story is not yet written… | 1239 |
 | Timberwolf Mt | 5 | FRANKLIN | Start on tomorrow for Back's Fish River. | 11 |
-| Timberwolf Mt | 12 | LOST PIXEL | All alone in space and time.  Nothing's here, but what's here is mine. | 4068 |
+| Timberwolf Mt | 12 | LOST PIXEL | All alone in space and time. Nothing's here, but what's here is mine. | 4068 |
 | Timberwolf Mt | 26 | CORTHIA AND JOHN | To many adventures beyond the stars. | 4963 |
 | Timberwolf Mt | 43 | LUO KUI | To dispel our doubts. | 1504 |
 | Timberwolf Mt | 45 | BALTUS ROLL HILL | Find me where the cedars meet the sea | 165 |
@@ -168,7 +164,7 @@ Most Cairns display the message "Its story is not yet written..." because many b
 | Winding River | 2 | GRIEF POINT | Grief Point's Cairn | 1987 |
 | Winding River | 7 | MALAKIE TESARN - 2017 | Kilroy was here - 2017 | 1378 |
 | Winding River | 10 | KAPLAND | Kapland's Cairn | 6360 |
-| Winding River | 32 | WILLIAM LEAB | A great son, a better man.  Godspeed | 6517 |
+| Winding River | 32 | WILLIAM LEAB | A great son, a better man. Godspeed | 6517 |
 | Winding River | 51 | LOST CAIRN | Its story is not yet written… | 342 |
 | Winding River | 54 | LOST CAIRN | Its story is not yet written… | 1111 |
 | Winding River | 56 | LOST CAIRN | Its story is not yet written… | 1990 |
@@ -186,6 +182,4 @@ Most Cairns display the message "Its story is not yet written..." because many b
 | Winding River | 153 | LOST CAIRN | Its story is not yet written… | 6580 |
 | Winding River | 165 | LOST CAIRN | Its story is not yet written… | 5298 |
 
-**Lua execution error in Module:Navbox function navboxLua execution error in Module:Navbox function navbox** <a href="ru:%D0%9A%D1%83%D1%87%D0%B0_%D0%BA%D0%B0%D0%BC%D0%BD%D0%B5%D0%B9" class="wikilink" title="ru:Куча камней">ru:Куча камней</a>
-
-</div>
+**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Куча камней](ru:%D0%9A%D1%83%D1%87%D0%B0_%D0%BA%D0%B0%D0%BC%D0%BD%D0%B5%D0%B9)

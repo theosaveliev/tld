@@ -7,103 +7,45 @@ source: "https://thelongdark.fandom.com/wiki/Mounted_Smallmouth_Bass"
 
 # Mounted Smallmouth Bass
 
-<div>
+**Mounted Smallmouth Bass**
 
-<table class="infobox">
-<caption>Mounted Smallmouth Bass</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Mounted_Smallmouth_Bass_icon.png" loading="lazy" width="250" />
-<figcaption>Mounted_Smallmouth_Bass_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33" class="wikilink" title="TFTFT Part 6 Broken Silence">TFTFT Part 6 Broken Silence</a></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>0.50 kg (1.1 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Actions</strong></p></td>
-</tr>
-<tr>
-<td><p>Backpack</p></td>
-<td><p>Drop, Place</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Mounted_Smallmouth_Bass_icon.png) / *Mounted\_Smallmouth\_Bass\_icon.png* |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 0.50 kg (1.1 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
-The **Mounted Smallmouth Bass** is a <a href="./Decorations.md" class="wikilink" title="Decorations">Decorations</a> item that can be <a href="./Crafting.md" class="wikilink" title="Crafted">Crafted</a> as part of the <a href="./Safehouse%20Customization.md" class="wikilink" title="Safehouse Customization">Safehouse Customization</a> feature.
+The **Mounted Smallmouth Bass** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
 ## Overview
 
-A taxidermized <a href="./Smallmouth%20Bass%20%28Raw%29.md" class="wikilink" title="Smallmouth Bass">Smallmouth Bass</a> with a makeshift mount, a Mounted Smallmouth Bass can be crafted at a <a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a>, but requires <a href="./Woodworking%20Tools.md" class="wikilink" title="Woodworking Tools">Woodworking Tools</a>.
+A taxidermized [Smallmouth Bass](./Smallmouth%20Bass%20%28Raw%29.md) with a makeshift mount, a Mounted Smallmouth Bass can be crafted at a [Furniture Workbench](./Furniture%20Workbench.md), but requires [Woodworking Tools](./Woodworking%20Tools.md).
 
 Once crafted, the item is automatically placed into the player's inventory. It can only be placed on walls when in Customization Mode. It can later be picked up and placed back into the player's inventory or destroyed (yielding no resources).
 
 ## Crafting
 
-<table class="infobox">
-<caption>Mounted Smallmouth Bass</caption>
-<tbody>
-<tr>
-<td colspan="2"><p>-</p></td>
-</tr>
-<tr>
-<td colspan="2"><p>-</p></td>
-</tr>
-<tr>
-<td colspan="2"><p>240 minutes (4 hour 0 minutes)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Requirements</strong></p></td>
-</tr>
-<tr>
-<td><p>Facility</p></td>
-<td><p><strong>Template:iconlink</strong></p></td>
-</tr>
-<tr>
-<td><p>Tool</p></td>
-<td><p><strong>Template:iconlink</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Materials</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Template:iconlink plain</strong></p></td>
-</tr>
-<tr>
-<td><p>Item</p></td>
-<td><p><a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-</tr>
-<tr>
-<td><p>Quantity</p></td>
-<td><p>1</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Template:iconlink plain</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><p><a href="./Smallmouth%20Bass%20%28Raw%29.md" class="wikilink" title="Smallmouth Bass (Raw)">Smallmouth Bass (Raw)</a></p></td>
-</tr>
-<tr>
-<td colspan="2"><p>1</p></td>
-</tr>
-</tbody>
-</table>
+**Mounted Smallmouth Bass**
+
+| Property | Details |
+| --- | --- |
+|  | - |
+|  | - |
+|  | 240 minutes (4 hour 0 minutes) |
+| **Requirements** |  |
+| Facility | **Template:iconlink** |
+| Tool | **Template:iconlink** |
+| **Materials** |  |
+| **Template:iconlink plain** |  |
+| Item | [Fir Firewood](./Fir%20Firewood.md) |
+| Quantity | 1 |
+| **Template:iconlink plain** |  |
+|  | [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) |
+|  | 1 |
 
 ## Update History
 
-**Template:update historyLua execution error in Module:Navbox function navbox**
-
-</div>
+**Template:update history****Lua execution error in Module:Navbox function navbox**

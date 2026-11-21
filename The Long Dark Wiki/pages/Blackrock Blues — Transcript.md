@@ -6,64 +6,27 @@ source: "https://thelongdark.fandom.com/wiki/Blackrock_Blues%2FTranscript"
 
 # Blackrock Blues/Transcript
 
-<div>
-
 **Contents**
 
-- [Prison Opening Sequence](#Prison_Opening_Sequence)
-- [Find Medical Supplies for the Warden.](#Find_Medical_Supplies_for_the_Warden.)
-- [Track down the prison truck and medicine.](#Track_down_the_prison_truck_and_medicine.)
-- [Return to Blackrock.](#Return_to_Blackrock.)
+- [Prison Opening Sequence](#prison-opening-sequence)
+- [Find Medical Supplies for the Warden.](#find-medical-supplies-for-the-warden)
+- [Track down the prison truck and medicine.](#track-down-the-prison-truck-and-medicine)
+- [Return to Blackrock.](#return-to-blackrock)
 
-<table class="infobox">
-<caption>Blackrock Blues/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Blackrock_Blues.png" loading="lazy" width="250" />
-<figcaption>Blackrock_Blues.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Missions</strong></p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./Prologue%20%E2%80%94%20Transcript.md" class="wikilink" title="Prologue/Transcript">Prologue/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>Blackrock Blues/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./The%20Power%20Plant%20%E2%80%94%20Transcript.md" class="wikilink" title="The Power Plant/Transcript">The Power Plant/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Blackrock.md" class="wikilink" title="Blackrock Region">Blackrock Region</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a><br />
-<a href="./Mathis.md" class="wikilink" title="Mathis">Mathis</a><br />
-<a href="./Franklin.md" class="wikilink" title="Franklin">Franklin</a><br />
-<a href="./Vachon.md" class="wikilink" title="Vachon">Vachon</a><br />
-<a href="./Heller.md" class="wikilink" title="Heller">Heller</a><br />
-<a href="./Jace.md" class="wikilink" title="Jace">Jace</a></p></td>
-</tr>
-</tbody>
-</table>
+**Blackrock Blues/Transcript**
 
-This is the transcript for Chapter 1 <a href="./Blackrock%20Blues.md" class="wikilink" title="Blackrock Blues">Blackrock Blues</a> for <a href="./Episode%204%20-%20Fury%2C%20Then%20Silence.md" class="wikilink" title="Episode 4: Fury, Then Silence">Episode 4: Fury, Then Silence</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Blackrock_Blues.png) / *Blackrock\_Blues.png* |
+| Episode |  |
+| **Missions** |  |
+| Previous | [Prologue/Transcript](./Prologue%20%E2%80%94%20Transcript.md) |
+| Current | Blackrock Blues/Transcript |
+| Next | [The Power Plant/Transcript](./The%20Power%20Plant%20%E2%80%94%20Transcript.md) |
+| Region | [Blackrock Region](./Blackrock.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Mathis](./Mathis.md) / [Franklin](./Franklin.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jace](./Jace.md) |
+
+This is the transcript for Chapter 1 [Blackrock Blues](./Blackrock%20Blues.md) for [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
 ## Prison Opening Sequence
 
@@ -89,7 +52,7 @@ Mackenzie: "That doesn't seem to be working out too well for you."
 
 ???: "Yes well, normally I'm on the other side of the bars. Name's Franklin. I'm Warden here at Blackrock."
 
-<a href="./Franklin.md" class="wikilink" title="Franklin">Franklin</a>: "And you are?"
+[Franklin](./Franklin.md): "And you are?"
 
 Mackenzie: "Mackenzie. Franklin. What's going on here?"
 
@@ -327,11 +290,11 @@ Mackenzie: "I need to find some way in."
 
 Mackenzie: "Now to find some meds for the Warden..."
 
-*He heads to the back but only finds a <a href="./Memo.md" class="wikilink" title="Memo">Memo</a> with an attached key saying that a supply shipment is coming, with the med bay itself empty. Suddenly a <a href="./Receiver.md" class="wikilink" title="Receiver">Receiver</a> begins ringing and he picks up the phone.*
+*He heads to the back but only finds a [Memo](./Memo.md) with an attached key saying that a supply shipment is coming, with the med bay itself empty. Suddenly a [Receiver](./Receiver.md) begins ringing and he picks up the phone.*
 
 Mackenzie: "He...hello? Hello?..."
 
-<a href="./Jace.md" class="wikilink" title="???">???</a>: "Who the hell are you?"
+[???](./Jace.md): "Who the hell are you?"
 
 Mackenzie: "I could ask you the same question."
 
@@ -401,7 +364,7 @@ Mackenzie: "Well. That was weird."
 
 ## Track down the prison truck and medicine.
 
-*Mackenzie goes to the front gate and unlocks it with the key he found. Inside he finds a <a href="./Weapon%20Locker.md" class="wikilink" title="Weapon Locker">Weapon Locker</a> containing supplies, and <a href="./Noisemaker.md" class="wikilink" title="Noisemakers">Noisemakers</a>*
+*Mackenzie goes to the front gate and unlocks it with the key he found. Inside he finds a [Weapon Locker](./Weapon%20Locker.md) containing supplies, and [Noisemakers](./Noisemaker.md)*
 
 Mackenzie: "Well well...what do we have here?"
 
@@ -409,19 +372,19 @@ Mackenzie: "Well well...what do we have here?"
 
 Mackenzie: "This is just...terrible. Can't tell if anyone made it.""
 
-*Mackenzie begins is search, leaving the prison, passing a wooden bridge, going past <a href="./Cook%27s%20Farm.md" class="wikilink" title="Cook&#39;s Farm">Cook's Farm</a>, then finding a bloody backpack in the snow near a prison truck.*
+*Mackenzie begins is search, leaving the prison, passing a wooden bridge, going past [Cook's Farm](./Cook%27s%20Farm.md), then finding a bloody backpack in the snow near a prison truck.*
 
 Mackenzie: "Looks like someone's been here recently."
 
-*He follows the trail of blood in the snow, and finds a <a href="./Dead%20Prison%20Guard.md" class="wikilink" title="Dead Prison Guard">Dead Prison Guard</a> being eaten by a Wolf near a cave. Dispatching it, Mackenzie finds the <a href="./Blackrock%20Infirmary%20Medication.md" class="wikilink" title="Blackrock Infirmary Medication">Blackrock Infirmary Medication</a> in a nearby <a href="./First%20Aid%20Kit.md" class="wikilink" title="First Aid Kit">First Aid Kit</a> and returns to the Prison.*
+*He follows the trail of blood in the snow, and finds a [Dead Prison Guard](./Dead%20Prison%20Guard.md) being eaten by a Wolf near a cave. Dispatching it, Mackenzie finds the [Blackrock Infirmary Medication](./Blackrock%20Infirmary%20Medication.md) in a nearby [First Aid Kit](./First%20Aid%20Kit.md) and returns to the Prison.*
 
 ## Return to Blackrock.
 
-*If the player explores the region, Mackenzie will refuse to cross certain areas. The player tries to cross <a href="./Narrow%20Bridge.md" class="wikilink" title="Narrow Bridge">Narrow Bridge</a> early, Mackenzie will refuse to cross and say*
+*If the player explores the region, Mackenzie will refuse to cross certain areas. The player tries to cross [Narrow Bridge](./Narrow%20Bridge.md) early, Mackenzie will refuse to cross and say*
 
 Mackenzie: "That doesn't look safe."
 
-*If the player tries to enter <a href="./Last%20Prospect.md" class="wikilink" title="Last Prospect">Last Prospect</a> early, Mackenzie will say*
+*If the player tries to enter [Last Prospect](./Last%20Prospect.md) early, Mackenzie will say*
 
 Mackenzie: "I don't think that's where I need to go."
 
@@ -439,6 +402,4 @@ Vachon: "Yeah, you'd better get in there to see him. He doesn't look too good. B
 
 *Vachon checks Mackenzie as the screen fades to black*
 
-The story continues in <a href="./The%20Power%20Plant%20%E2%80%94%20Transcript.md" class="wikilink" title="The Power Plant/Transcript">The Power Plant/Transcript</a>.**Lua execution error in Module:Navbox function navbox**
-
-</div>
+The story continues in [The Power Plant/Transcript](./The%20Power%20Plant%20%E2%80%94%20Transcript.md).**Lua execution error in Module:Navbox function navbox**

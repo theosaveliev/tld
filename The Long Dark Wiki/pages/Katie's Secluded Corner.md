@@ -7,42 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/Katie's_Secluded_Corner"
 
 # Katie's Secluded Corner
 
-<div>
+**Katie's Secluded Corner**
 
-<table class="infobox">
-<caption>Katie's Secluded Corner</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Katie's_secluded_corner.jpg]</span>
-<figcaption>Katie's_secluded_corner.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Katie's_Secluded_Corner_Location.png]</span>
-<figcaption>Katie's_Secluded_Corner_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Desolation%20Point.md" class="wikilink" title="Desolation Point">Desolation Point</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Katie%27s_secluded_corner.jpg) / *Katie's\_secluded\_corner.jpg* |
+| **Location** |  |
+|  | ![](../assets/Katie%27s_Secluded_Corner_Location.png) / *Katie's\_Secluded\_Corner\_Location.png* |
+| Region | [Desolation Point](./Desolation%20Point.md)\|- |
+| **General** |  |
+| Type | Outdoors\|- |

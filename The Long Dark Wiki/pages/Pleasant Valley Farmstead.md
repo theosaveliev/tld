@@ -7,56 +7,15 @@ source: "https://thelongdark.fandom.com/wiki/Pleasant_Valley_Farmstead"
 
 # Pleasant Valley Farmstead
 
-<div>
+**Pleasant Valley Farmstead**
 
-<table class="infobox">
-<caption>Pleasant Valley Farmstead</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Pleasant_valley_farmstead.png" loading="lazy" width="250" />
-<figcaption>Pleasant_valley_farmstead.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Pleasant_Valley_Farmstead_Location.png]</span>
-<figcaption>Pleasant_Valley_Farmstead_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Residential|-</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Bed_icon.png" loading="lazy" width="30" />
-<figcaption>bed_icon.png</figcaption>
-</figure></td>
-<td><p>Has a bed</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Workbench_icon_green.png" loading="lazy" width="30" />
-<figcaption>workbench_icon_green.png</figcaption>
-</figure></td>
-<td><p>Has a workbench|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Pleasant_valley_farmstead.png) / *Pleasant\_valley\_farmstead.png* |
+| **Location** |  |
+|  | ![](../assets/Pleasant_Valley_Farmstead_Location.png) / *Pleasant\_Valley\_Farmstead\_Location.png* |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| **General** |  |
+| Type | Residential\|- |
+| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
+| ![](../assets/Workbench_icon_green.png) / *workbench\_icon\_green.png* | Has a workbench\|- |

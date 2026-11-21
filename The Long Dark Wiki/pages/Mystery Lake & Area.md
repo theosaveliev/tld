@@ -7,76 +7,31 @@ source: "https://thelongdark.fandom.com/wiki/Mystery_Lake_%26_Area"
 
 # Mystery Lake & Area
 
-<div>
+**Mystery Lake &amp; Area**
 
-<table class="infobox">
-<caption>Mystery Lake &amp; Area</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Mystery_Lake_%26_Area_icon.png" loading="lazy" width="250" />
-<figcaption>Mystery_Lake_&amp;_Area_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Wintermute</p></td>
-<td><p><a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Item type</p></td>
-<td><p><a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Stackable</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><p>Examine</p></td>
-<td><p>Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>0.00 kg (0 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Actions</strong></p></td>
-</tr>
-<tr>
-<td><p>Backpack</p></td>
-<td><p>Examine</p></td>
-</tr>
-<tr>
-<td><p>On ground</p></td>
-<td><p>Take It, Read Text, Leave It</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Mystery_Lake_%26_Area_icon.png) / *Mystery\_Lake\_&amp;\_Area\_icon.png* |
+| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
-**Mystery Lake & Area** is a <a href="./Collectibles.md" class="wikilink" title="Collectible">Collectible</a> item found in <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a> of the <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a> story mode.
+**Mystery Lake &amp; Area** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode.
 
-It is found on top of a <a href="./Cupboard.md" class="wikilink" title="Cupboard">Cupboard</a> in the <a href="./Camp%20Office.md" class="wikilink" title="Camp Office">Camp Office</a> on the upper floor.
+It is found on top of a [Cupboard](./Cupboard.md) in the [Camp Office](./Camp%20Office.md) on the upper floor.
 
 ## Transcript
 
-<div style="margin: 0.8em 1.6em;font-style: italic;">
+*The following text is transcribed from **Mystery Lake &amp; Area***
 
-The following text is transcribed from **Mystery Lake & Area**
-
-</div>
-
-<div style="background: #2D3035; border: 1px solid #2D3035; border-radius: 0 0 120px 120px / 0 0 8px 8px; box-shadow: 0 5px 7px -7px rgb(0 0 0 / 40%); max-width: 90ch; overflow: hidden; padding: 2em; margin-bottom: 1em;">
-
-The Mystery Lake region is an Alpine valley, average altitude of 1200 meters above sea level, named for the large lake that dominates its South-Eastern quadrant. The region is fringed by mountains on the West and South, and the foothills of the Inner Island Range to the North and East. The region is bisected by a section of the North-South line of the Trans-Island Railway.
+**The Mystery Lake region is an Alpine valley, average altitude of 1200 meters above sea level, named for the large lake that dominates its South-Eastern quadrant. The region is fringed by mountains on the West and South, and the foothills of the Inner Island Range to the North and East. The region is bisected by a section of the North-South line of the Trans-Island Railway.
 
 The region’s main characteristics are its heavily forested and hilly terrain, as well as abundance of wildlife. The region’s high altitude leads to low average temperatures, as well as some of the coldest night-time temperatures on Great Bear Island. Heavy snowfalls are common.
 
@@ -86,20 +41,13 @@ The region’s harsh inaccessibility has been both a blessing and a curse over t
 
 In the 1960s, ambitious industrialist Richard Carter selected the Mystery Lake area for a new hydro-electric project, meant to provide power to a large mining operation in the next valley. The lake’s continuous replenishment by a vibrant aquifer network as well as mountain streams that channeled annual Spring runoff, made Mystery Lake a natural reservoir with untapped hydro-electric potential. Yet other than a small test dam constructed in 1962, this project was abandoned when the region’s inaccessibility and seismic instability made it cost-prohibitive.
 
-To this day, apart from the railway line that passes through, the only connection between the Mystery Lake region and the adjoining valleys are the hiking trails that pass through the mountains. These trails often become impassable during the Winter months, due to cold temperatures and heavy snowfall. Also, due to the region’s generally uninhabited nature, wildlife have not become habituated to the presence of humans, which can make them threatening. Hikers and campers are warned to avoid the area during the Winter months, as well as to store all food and waste in “bear safe” containers.
-
-</div>
+To this day, apart from the railway line that passes through, the only connection between the Mystery Lake region and the adjoining valleys are the hiking trails that pass through the mountains. These trails often become impassable during the Winter months, due to cold temperatures and heavy snowfall. Also, due to the region’s generally uninhabited nature, wildlife have not become habituated to the presence of humans, which can make them threatening. Hikers and campers are warned to avoid the area during the Winter months, as well as to store all food and waste in “bear safe” containers.**
 
 ## Game History
 
-<div class="update-history">
+\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
 
-\* <span class="update-list"><span class="update-type update">UPDATE</span> **17 December 2018 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41" class="wikilink" title="Update">Update</a>):**</span>
-
-- - Added to game.
-
-</div>
+- 
+  - Added to game.
 
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

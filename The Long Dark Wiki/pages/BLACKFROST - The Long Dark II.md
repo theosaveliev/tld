@@ -6,91 +6,48 @@ source: "https://thelongdark.fandom.com/wiki/BLACKFROST%3A_The_Long_Dark_II"
 
 # BLACKFROST: The Long Dark II
 
-<div>
-
 **Contents**
 
-- [Blurb](#Blurb)
-- [Hinterland Description](#Hinterland_Description)
-- [Features](#Features)
-- [Brave New World](#Brave_New_World)
-- [Live Together. Die Alone](#Live_Together._Die_Alone)
-- [The Next-generation Survival RPG](#The_Next-generation_Survival_RPG)
-- [Urban Survival](#Urban_Survival)
-- [The Will to Live](#The_Will_to_Live)
-- [New Hazards](#New_Hazards)
-- [Permalife](#Permalife)
-- [Early Access](#Early_Access)
-- [Gameplay](#Gameplay)
-- [Videos](#Videos)
-- [Gallery](#Gallery)
-- [Concept](#Concept)
-- [Announcement Trailer](#Announcement_Trailer)
-- [External links](#External_links)
+- [Blurb](#blurb)
+- [Hinterland Description](#hinterland-description)
+- [Features](#features)
+- [Brave New World](#brave-new-world)
+- [Live Together. Die Alone](#live-together-die-alone)
+- [The Next-generation Survival RPG](#the-next-generation-survival-rpg)
+- [Urban Survival](#urban-survival)
+- [The Will to Live](#the-will-to-live)
+- [New Hazards](#new-hazards)
+- [Permalife](#permalife)
+- [Early Access](#early-access)
+- [Gameplay](#gameplay)
+- [Videos](#videos)
+- [Gallery](#gallery)
+- [Concept](#concept)
+- [Announcement Trailer](#announcement-trailer)
+- [External links](#external-links)
 
-<table class="infobox">
-<caption>BLACKFROST: The Long Dark II</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Bf-wishlist.jpg]</span>
-<figcaption>Bf-wishlist.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p><strong>Developer(s)</strong></p></td>
-<td><p><a href="./Hinterland%20Studio%20Inc..md" class="wikilink" title="Hinterland Studio Inc.">Hinterland Studio Inc.</a></p></td>
-</tr>
-<tr>
-<td><p><strong>Director(s)</strong></p></td>
-<td><p>Raphael Van Lierop</p></td>
-</tr>
-<tr>
-<td><p>Platform</p></td>
-<td><p>PC-Steam</p></td>
-</tr>
-<tr>
-<td><p>Released</p></td>
-<td><p>2027</p></td>
-</tr>
-<tr>
-<td><p><strong>Genre(s)</strong></p></td>
-<td><p>First-Person, Open World, Survival, RPG, CO-OP, Single Player</p></td>
-</tr>
-</tbody>
-</table>
+**BLACKFROST: The Long Dark II**
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="vertical-align: top; font-size: 3em; color: #5d5980; padding-right: 10px"><p>“</p></td>
-<td><p><span style="font-style:italic">Live together. Die alone.</span></p>
-<div style="clear:both">
-&#10;</div>
-<div style="float:right; font-size:9pt">
-<p>Official Tagline</p>
-</div></td>
-<td style="vertical-align: bottom; font-size: 3em; color: #5d5980; padding-left: 10px"><p>”</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Bf-wishlist.jpg) / *Bf-wishlist.jpg* |
+| **Developer(s)** | [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) |
+| **Director(s)** | Raphael Van Lierop |
+| Platform | PC-Steam |
+| Released | 2027 |
+| **Genre(s)** | First-Person, Open World, Survival, RPG, CO-OP, Single Player |
 
-***BLACKFROST: The Long Dark II*** is the sequel to <a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark"><em>The Long Dark</em></a>. It is a first-person, open-world, survival, RPG video game developed by <a href="./Hinterland%20Studio%20Inc..md" class="wikilink" title="Hinterland Studio Inc.">Hinterland Studio Inc.</a>
+> “**Live together. Die alone.**”
+>
+> — Official Tagline
 
-A teaser was announced in 2025 and the game was set to release in Early Access in 2026, after the completion of <a href="./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md" class="wikilink" title="Episode 5: The Light At The End Of All Things">Episode 5: The Light At The End Of All Things</a> for *The Long Dark*. However, at the beginning of 2026, the Early Access was delayed to 2027 as developers were taken off the *BLACKFROST* team to aid in planned updates and DLC for *The Long Dark.*
+***BLACKFROST: The Long Dark II*** is the sequel to [*The Long Dark*](./The%20Long%20Dark.md). It is a first-person, open-world, survival, RPG video game developed by [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md)
+
+A teaser was announced in 2025 and the game was set to release in Early Access in 2026, after the completion of [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) for *The Long Dark*. However, at the beginning of 2026, the Early Access was delayed to 2027 as developers were taken off the *BLACKFROST* team to aid in planned updates and DLC for *The Long Dark.*
 
 ## Blurb
 
-"A year after the Aurora’s appearance & the world went dark, the people of Harmont & its vast wild environs struggle to survive the Quiet Apocalypse. Survive alone or with others against a host of new hazards & a fresh new survival sandbox from a pioneer of the genre. Live together. Die alone."
+"A year after the Aurora’s appearance &amp; the world went dark, the people of Harmont &amp; its vast wild environs struggle to survive the Quiet Apocalypse. Survive alone or with others against a host of new hazards &amp; a fresh new survival sandbox from a pioneer of the genre. Live together. Die alone."
 
 ## Hinterland Description
 
@@ -118,7 +75,7 @@ For now, please take a moment in your busy day to enjoy this view into the new w
 
 BLACKFROST: The Long Dark 2 is the sequel to the hit survival game, THE LONG DARK, launched on Early Access and honed over 10 years of open development. It is the evolution of the survival sandbox, refining every aspect of the original, and introducing co-op to the formula. Conceived of and developed by Hinterland, the same creative team that brought you the original.
 
-The game will feature the return of various <a href="./Wildlife.md" class="wikilink" title="Wildlife">Wildlife</a> and Tools already familiar to those who have visited <a href="./Great%20Bear%20Island.md" class="wikilink" title="Great Bear Island">Great Bear Island</a>.
+The game will feature the return of various [Wildlife](./Wildlife.md) and Tools already familiar to those who have visited [Great Bear Island](./Great%20Bear%20Island.md).
 
 ### Brave New World
 
@@ -156,212 +113,31 @@ BLACKFROST is being built using Early Access to maximize the player feedback loo
 
 ## Videos
 
-<table class="gallery">
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<span>[Missing image: BLACKFROST_--_The_Long_Dark_2_--_Announcement_Trailer]</span>
-<figcaption>BLACKFROST_--_The_Long_Dark_2_--_Announcement_Trailer</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table>
+| Column 1 |
+| --- |
+| ![](../assets/BLACKFROST_--_The_Long_Dark_2_--_Announcement_Trailer) / *BLACKFROST\_--\_The\_Long\_Dark\_2\_--\_Announcement\_Trailer* |
 
 ## Gallery
 
 ### Concept
 
-<table class="gallery">
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<span>[Missing image: Ss_e5378287fdd892338b443571a5a758374ae7739a.1920x1080.jpg]</span>
-<figcaption>Ss_e5378287fdd892338b443571a5a758374ae7739a.1920x1080.jpg</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Ss_648223251dff8a82a61a44012b03d781052ed32e.1920x1080.jpg]</span>
-<figcaption>Ss_648223251dff8a82a61a44012b03d781052ed32e.1920x1080.jpg</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Ss_9b5c817e88291c0fbaa6b9af5e9565aa25a249fc.1920x1080.jpg]</span>
-<figcaption>Ss_9b5c817e88291c0fbaa6b9af5e9565aa25a249fc.1920x1080.jpg</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Ss_eaeb0c04df28e8506b90fdf59fc8d449856bbb67.1920x1080.jpg]</span>
-<figcaption>Ss_eaeb0c04df28e8506b90fdf59fc8d449856bbb67.1920x1080.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Ss_40f114a22efd2e091cada59fd46e9c9ddb9858df.1920x1080.jpg]</span>
-<figcaption>Ss_40f114a22efd2e091cada59fd46e9c9ddb9858df.1920x1080.jpg</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Ss_64496beb07de3088513d094eb6d2927cc9069982.1920x1080.jpg]</span>
-<figcaption>Ss_64496beb07de3088513d094eb6d2927cc9069982.1920x1080.jpg</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Ss_ef4094f21a5901d9bb24e390e5856930970e5c60.1920x1080.jpg]</span>
-<figcaption>Ss_ef4094f21a5901d9bb24e390e5856930970e5c60.1920x1080.jpg</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: BF_Trainyards_SteelMill_01.jpg]</span>
-<figcaption>From the Steam page</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: BF_WILDERNESS_NORTH.jpg]</span>
-<figcaption>Steam page</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: BF_WILDERNESS_VISTA_WEST_11zon.jpg]</span>
-<figcaption>Steam page</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: BF_HARMONT_THEATRE_SUNNY_11zon.jpg]</span>
-<figcaption>Steam page</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Bf_Image_0.jpg" title="Website image showing a survivor with a horse" loading="lazy" width="140" />
-<figcaption>Website image showing a survivor with a horse</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Bf_Image_3.jpg" title="Website image showing dogs chasing a deer" loading="lazy" width="140" />
-<figcaption>Website image showing dogs chasing a deer</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Bf_Image_0_1.jpg" title="Website image showing a rundown safehouse" loading="lazy" width="140" />
-<figcaption>Website image showing a rundown safehouse</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Blackfrost_twitter_teaser_1.png" title="Twitter teaser showing the safehouse less rundown" loading="lazy" width="140" />
-<figcaption>Twitter teaser showing the safehouse less rundown</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/BF_twitterx_teaser.gif" loading="lazy" width="140" />
-<figcaption>BF_twitterx_teaser.gif</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Blackfrost-concept-art-wolf-encounter-Feb_04_2025.jpeg]</span>
-<figcaption>First-person combat concept shared on the official TLD2 subreddit</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/BF_bsky_mar_16_2025.jpg" title="Concept shared on Bluesky" loading="lazy" width="140" />
-<figcaption>Concept shared on Bluesky</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| --- | --- | --- | --- |
+| ![](../assets/Ss_e5378287fdd892338b443571a5a758374ae7739a.1920x1080.jpg) / *Ss\_e5378287fdd892338b443571a5a758374ae7739a.1920x1080.jpg* | ![](../assets/Ss_648223251dff8a82a61a44012b03d781052ed32e.1920x1080.jpg) / *Ss\_648223251dff8a82a61a44012b03d781052ed32e.1920x1080.jpg* | ![](../assets/Ss_9b5c817e88291c0fbaa6b9af5e9565aa25a249fc.1920x1080.jpg) / *Ss\_9b5c817e88291c0fbaa6b9af5e9565aa25a249fc.1920x1080.jpg* | ![](../assets/Ss_eaeb0c04df28e8506b90fdf59fc8d449856bbb67.1920x1080.jpg) / *Ss\_eaeb0c04df28e8506b90fdf59fc8d449856bbb67.1920x1080.jpg* |
+| ![](../assets/Ss_40f114a22efd2e091cada59fd46e9c9ddb9858df.1920x1080.jpg) / *Ss\_40f114a22efd2e091cada59fd46e9c9ddb9858df.1920x1080.jpg* | ![](../assets/Ss_64496beb07de3088513d094eb6d2927cc9069982.1920x1080.jpg) / *Ss\_64496beb07de3088513d094eb6d2927cc9069982.1920x1080.jpg* | ![](../assets/Ss_ef4094f21a5901d9bb24e390e5856930970e5c60.1920x1080.jpg) / *Ss\_ef4094f21a5901d9bb24e390e5856930970e5c60.1920x1080.jpg* | ![From the Steam page](../assets/BF_Trainyards_SteelMill_01.jpg) / *From the Steam page* |
+| ![Steam page](../assets/BF_WILDERNESS_NORTH.jpg) / *Steam page* | ![Steam page](../assets/BF_WILDERNESS_VISTA_WEST_11zon.jpg) / *Steam page* | ![Steam page](../assets/BF_HARMONT_THEATRE_SUNNY_11zon.jpg) / *Steam page* | ![Website image showing a survivor with a horse](../assets/Bf_Image_0.jpg) / *Website image showing a survivor with a horse* |
+| ![Website image showing dogs chasing a deer](../assets/Bf_Image_3.jpg) / *Website image showing dogs chasing a deer* | ![Website image showing a rundown safehouse](../assets/Bf_Image_0_1.jpg) / *Website image showing a rundown safehouse* | ![Twitter teaser showing the safehouse less rundown](../assets/Blackfrost_twitter_teaser_1.png) / *Twitter teaser showing the safehouse less rundown* | ![](../assets/BF_twitterx_teaser.gif) / *BF\_twitterx\_teaser.gif* |
+| ![First-person combat concept shared on the official TLD2 subreddit](../assets/Blackfrost-concept-art-wolf-encounter-Feb_04_2025.jpeg) / *First-person combat concept shared on the official TLD2 subreddit* | ![Concept shared on Bluesky](../assets/BF_bsky_mar_16_2025.jpg) / *Concept shared on Bluesky* |  |  |
 
 ### Announcement Trailer
 
-<table class="gallery">
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_forest_scenery.png" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_forest_scenery.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_deer.png" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_deer.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_tree_chopping.gif" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_tree_chopping.gif</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_ice_plane.png" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_ice_plane.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_survivors_shelter.png" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_survivors_shelter.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_broken_bridge.png" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_broken_bridge.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_dead_moose.png" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_dead_moose.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_peaches.gif" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_peaches.gif</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_horse.gif" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_horse.gif</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_campfire.png" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_campfire.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_horse_travois.png" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_horse_travois.png</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_armed_man.png" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_armed_man.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_teamwork.gif" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_teamwork.gif</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_safehouse.gif" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_safehouse.gif</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_wolves.gif" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_wolves.gif</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_powerplant.png" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_powerplant.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/BF_announcement_trailer_-_aurora.gif" loading="lazy" width="140" />
-<figcaption>BF_announcement_trailer_-_aurora.gif</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| --- | --- | --- | --- |
+| ![](../assets/BF_announcement_trailer_-_forest_scenery.png) / *BF\_announcement\_trailer\_-\_forest\_scenery.png* | ![](../assets/BF_announcement_trailer_-_deer.png) / *BF\_announcement\_trailer\_-\_deer.png* | ![](../assets/BF_announcement_trailer_-_tree_chopping.gif) / *BF\_announcement\_trailer\_-\_tree\_chopping.gif* | ![](../assets/BF_announcement_trailer_-_ice_plane.png) / *BF\_announcement\_trailer\_-\_ice\_plane.png* |
+| ![](../assets/BF_announcement_trailer_-_survivors_shelter.png) / *BF\_announcement\_trailer\_-\_survivors\_shelter.png* | ![](../assets/BF_announcement_trailer_-_broken_bridge.png) / *BF\_announcement\_trailer\_-\_broken\_bridge.png* | ![](../assets/BF_announcement_trailer_-_dead_moose.png) / *BF\_announcement\_trailer\_-\_dead\_moose.png* | ![](../assets/BF_announcement_trailer_-_peaches.gif) / *BF\_announcement\_trailer\_-\_peaches.gif* |
+| ![](../assets/BF_announcement_trailer_-_horse.gif) / *BF\_announcement\_trailer\_-\_horse.gif* | ![](../assets/BF_announcement_trailer_-_campfire.png) / *BF\_announcement\_trailer\_-\_campfire.png* | ![](../assets/BF_announcement_trailer_-_horse_travois.png) / *BF\_announcement\_trailer\_-\_horse\_travois.png* | ![](../assets/BF_announcement_trailer_-_armed_man.png) / *BF\_announcement\_trailer\_-\_armed\_man.png* |
+| ![](../assets/BF_announcement_trailer_-_teamwork.gif) / *BF\_announcement\_trailer\_-\_teamwork.gif* | ![](../assets/BF_announcement_trailer_-_safehouse.gif) / *BF\_announcement\_trailer\_-\_safehouse.gif* | ![](../assets/BF_announcement_trailer_-_wolves.gif) / *BF\_announcement\_trailer\_-\_wolves.gif* | ![](../assets/BF_announcement_trailer_-_powerplant.png) / *BF\_announcement\_trailer\_-\_powerplant.png* |
+| ![](../assets/BF_announcement_trailer_-_aurora.gif) / *BF\_announcement\_trailer\_-\_aurora.gif* |  |  |  |
 
 ## External links
 
@@ -369,5 +145,3 @@ BLACKFROST is being built using Early Access to maximize the player feedback loo
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/46089-announcing-blackfrost-the-long-dark-2/)[1](https://store.steampowered.com/app/1586260/BLACKFROST_The_Long_Dark_2/)
 
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

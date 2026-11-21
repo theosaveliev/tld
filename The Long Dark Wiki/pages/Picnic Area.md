@@ -7,46 +7,14 @@ source: "https://thelongdark.fandom.com/wiki/Picnic_Area"
 
 # Picnic Area
 
-<div>
+**Picnic Area**
 
-<table class="infobox">
-<caption>Picnic Area</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Milton_Park_Picnic_Area.jpg]</span>
-<figcaption>A 'Climbing Area' signpost for the Picnic Area</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Picnic_Area_Location.png]</span>
-<figcaption>Picnic_Area_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>A picnic spot and climbing area</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![A 'Climbing Area' signpost for the Picnic Area](../assets/Milton_Park_Picnic_Area.jpg) / *A 'Climbing Area' signpost for the Picnic Area* |
+| **Location** |  |
+|  | ![](../assets/Picnic_Area_Location.png) / *Picnic\_Area\_Location.png* |
+| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Description | A picnic spot and climbing area |
+| **General** |  |
+| Type | Outdoors\|- |

@@ -7,42 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/Stony_Passage"
 
 # Stony Passage
 
-<div>
+**Stony Passage**
 
-<table class="infobox">
-<caption>Stony Passage</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Stony.png" loading="lazy" width="250" />
-<figcaption>Stony.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Stoney_Passage_Location.png]</span>
-<figcaption>Stoney_Passage_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Forsaken%20Airfield.md" class="wikilink" title="Forsaken Airfield">Forsaken Airfield</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Cave|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Stony.png) / *Stony.png* |
+| **Location** |  |
+|  | ![](../assets/Stoney_Passage_Location.png) / *Stoney\_Passage\_Location.png* |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| **General** |  |
+| Type | Cave\|- |

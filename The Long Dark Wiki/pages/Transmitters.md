@@ -7,47 +7,41 @@ source: "https://thelongdark.fandom.com/wiki/Transmitters"
 
 # Transmitters
 
-<div>
+![A Transmitter box in Forsaken Airfield, repaired with a car battery, scrap metal, fuses, and wires.](../assets/The_Long_Dark_Screenshot_2023.03.31_-_23.30.33.32.png)*A Transmitter box in Forsaken Airfield, repaired with a car battery, scrap metal, fuses, and wires.*{| class="messagebox" | width="40px" | ![Ptarmigan\_icon.png](../assets/Ptarmigan_icon.png) |**DLC-Exclusive content.**
 
-<span class="thumb"><img src="../assets/The_Long_Dark_Screenshot_2023.03.31_-_23.30.33.32.png" loading="lazy" width="394" height="394" alt="A Transmitter box in Forsaken Airfield, repaired with a car battery, scrap metal, fuses, and wires." /><span class="thumbcaption">A Transmitter box in Forsaken Airfield, repaired with a car battery, scrap metal, fuses, and wires.</span></span>{\| class="messagebox" \| width="40px" \| \[Missing image: Ptarmigan_icon.png\] \|**DLC-Exclusive content.**\
+This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-<div style="font-size:0.85em; line-height:1.5em;">
-
-This content requires the <a href="./Tales%20from%20the%20Far%20Territory.md" class="wikilink" title="Tales from the Far Territory">Tales from the Far Territory</a> addon to be installed before it can be seen or used in regular gameplay.
-
-</div>
-
-\|\|} A **Transmitter** is a radio tower that is used in conjunction with the <a href="./Handheld%20Shortwave%20Radio.md" class="wikilink" title="Handheld Shortwave Radio">Handheld Shortwave Radio</a> to find items in the <a href="./Tales.md" class="wikilink" title="Tale">Tale</a> <a href="./Signal%20Void.md" class="wikilink" title="Signal Void">Signal Void</a> in the <a href="./Tales%20from%20the%20Far%20Territory.md" class="wikilink" title="Tales from the Far Territory">Tales from the Far Territory</a> DLC. They are added to the <a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a> menu in the <a href="./Journal.md" class="wikilink" title="Journal">Journal</a> once the door is opened, and the Journal can be used to keep track of inactive or active Transmitters, as well as their broadcast range.
+||} A **Transmitter** is a radio tower that is used in conjunction with the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) to find items in the [Tale](./Tales.md) [Signal Void](./Signal%20Void.md) in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC. They are added to the [Collectibles](./Collectibles.md) menu in the [Journal](./Journal.md) once the door is opened, and the Journal can be used to keep track of inactive or active Transmitters, as well as their broadcast range.
 
 ## Overview
 
-As detailed in the <a href="./Field%2031%20Operation%20Memo.md" class="wikilink" title="Field 31 Operation Memo">Field 31 Operation Memo</a>, the Search And Rescue (SAR) **Transmitter Towers** need to be repaired to find Transponder Caches and Tale Bunkers using the Handheld Shortwave Radio.
+As detailed in the [Field 31 Operation Memo](./Field%2031%20Operation%20Memo.md), the Search And Rescue (SAR) **Transmitter Towers** need to be repaired to find Transponder Caches and Tale Bunkers using the Handheld Shortwave Radio.
 
 Repairing a Transmitter will require:
 
-- 1 <a href="./Car%20Battery.md" class="wikilink" title="Car Battery">Car Battery</a>
-- 2 <a href="./Wires.md" class="wikilink" title="Wire Bundles">Wire Bundles</a>
-- 3 <a href="./Replacement%20Fuse.md" class="wikilink" title="Replacement Fuse">Replacement Fuses</a>
-- 5 <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metals">Scrap Metals</a>
+- 1 [Car Battery](./Car%20Battery.md)
+- 2 [Wire Bundles](./Wires.md)
+- 3 [Replacement Fuses](./Replacement%20Fuse.md)
+- 5 [Scrap Metals](./Scrap%20Metal.md)
 - Once repaired the Transmitter must be **TURNED ON** using the switch located in the box
 
-These materials are not always located close to each tower (Except the one in <a href="./Forsaken%20Airfield.md" class="wikilink" title="Forsaken Airfield">Forsaken Airfield</a> which has all materials on hand). Car batteries are commonly located close to each Transmitter, or in nearby Cars/Trucks:
+These materials are not always located close to each tower (Except the one in [Forsaken Airfield](./Forsaken%20Airfield.md) which has all materials on hand). Car batteries are commonly located close to each Transmitter, or in nearby Cars/Trucks:
 
-- In the supply bin next to the tower at <a href="./Muskeg%20Overlook.md" class="wikilink" title="Muskeg Overlook">Muskeg Overlook</a>
-- On the shelf to the right when entering the radio hut at <a href="./Signal%20Hill.md" class="wikilink" title="Signal Hill">Signal Hill</a>
-- In the corner of a control room in <a href="./Old%20Substation.md" class="wikilink" title="Old Substation">Old Substation</a>
-- <a href="./Mountain%20Town.md" class="wikilink" title="Mountain town">Mountain town</a> has a many cars close to the tower.
+- In the supply bin next to the tower at [Muskeg Overlook](./Muskeg%20Overlook.md)
+- On the shelf to the right when entering the radio hut at [Signal Hill](./Signal%20Hill.md)
+- In the corner of a control room in [Old Substation](./Old%20Substation.md)
+- [Mountain town](./Mountain%20Town.md) has a many cars close to the tower.
 
 There are a total of 6 Transmitter Towers scattered across Great Bear:
 
-1.  The <a href="./Control%20Tower.md" class="wikilink" title="Control Tower">Control Tower</a> in <a href="./Forsaken%20Airfield.md" class="wikilink" title="Forsaken Airfield">Forsaken Airfield</a>
-2.  The Shortwave Radio Tower at <a href="./Muskeg%20Overlook.md" class="wikilink" title="Muskeg Overlook">Muskeg Overlook</a> in Southeastern <a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a>
-3.  The <a href="./Radio%20Tower.md" class="wikilink" title="Shortwave Radio Tower">Shortwave Radio Tower</a> in <a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a>
-4.  The Shortwave Radio Tower at <a href="./Signal%20Hill.md" class="wikilink" title="Signal Hill">Signal Hill</a> in <a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>
-5.  At <a href="./Hibernia%20Processing.md" class="wikilink" title="Hibernia Processing">Hibernia Processing</a> in <a href="./Desolation%20Point.md" class="wikilink" title="Desolation Point">Desolation Point</a>, assigned to a group of conjoined trailers
-6.  The <a href="./Old%20Substation.md" class="wikilink" title="Old Substation">Old Substation</a> in <a href="./Blackrock.md" class="wikilink" title="Blackrock">Blackrock</a>
+1. The [Control Tower](./Control%20Tower.md) in [Forsaken Airfield](./Forsaken%20Airfield.md)
+2. The Shortwave Radio Tower at [Muskeg Overlook](./Muskeg%20Overlook.md) in Southeastern [Forlorn Muskeg](./Forlorn%20Muskeg.md)
+3. The [Shortwave Radio Tower](./Radio%20Tower.md) in [Mountain Town](./Mountain%20Town.md)
+4. The Shortwave Radio Tower at [Signal Hill](./Signal%20Hill.md) in [Pleasant Valley](./Pleasant%20Valley.md)
+5. At [Hibernia Processing](./Hibernia%20Processing.md) in [Desolation Point](./Desolation%20Point.md), assigned to a group of conjoined trailers
+6. The [Old Substation](./Old%20Substation.md) in [Blackrock](./Blackrock.md)
 
-Transmitters have a broad transmission array, and can broadcast to other regions besides the one in which they are located. For example, repairing the transmitter in <a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a> allows locating <a href="./Supply%20Cache.md" class="wikilink" title="Supply Cache">Supply Caches</a> in <a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>. The range of each tower is shown in the Journal once the Transmitter door opened, even before picking up the Handheld Shortwave Radio.
+Transmitters have a broad transmission array, and can broadcast to other regions besides the one in which they are located. For example, repairing the transmitter in [Pleasant Valley](./Pleasant%20Valley.md) allows locating [Supply Caches](./Supply%20Cache.md) in [Mystery Lake](./Mystery%20Lake%20%28region%29.md). The range of each tower is shown in the Journal once the Transmitter door opened, even before picking up the Handheld Shortwave Radio.
 
 - Forsaken Airfield covers the entire Far Territory
 - Forlorn Muskeg covers Bleak Inlet and Broken Railroad
@@ -58,34 +52,12 @@ Transmitters have a broad transmission array, and can broadcast to other regions
 
 Transmitter Towers CAN be repaired before starting the Tale Signal Void by picking up the radio - no need to trek back and forth too much if you start your run in Lower Great Bear.
 
-**Note:** the transmitters in <a href="./Desolation%20Point.md" class="wikilink" title="Desolation Point">Desolation Point</a> and <a href="./Blackrock.md" class="wikilink" title="Blackrock">Blackrock</a> are not required for the <a href="./Tales.md" class="wikilink" title="Tale">Tale</a> <a href="./Signal%20Void.md" class="wikilink" title="Signal Void">Signal Void</a>, although they do enable hidden <a href="./Supply%20Cache.md" class="wikilink" title="Supply Cache">Supply Caches</a>.
+**Note:** the transmitters in [Desolation Point](./Desolation%20Point.md) and [Blackrock](./Blackrock.md) are not required for the [Tale](./Tales.md) [Signal Void](./Signal%20Void.md), although they do enable hidden [Supply Caches](./Supply%20Cache.md).
 
 ## Gallery
 
-<table class="gallery">
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Transmitters_icon.png" title="The icon displayed when a Transmitter is repaired in the Collections menu" loading="lazy" width="140" />
-<figcaption>The icon displayed when a Transmitter is repaired in the Collections menu</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Transmitter_Broken_Icon.png" title="The symbol for a broken Transmitter needing repairs in the Collections menu" loading="lazy" width="140" />
-<figcaption>The symbol for a broken Transmitter needing repairs in the Collections menu</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Transmitter_Journal.png" title="The Journal Menu showing all discovered Transmitters" loading="lazy" width="140" />
-<figcaption>The Journal Menu showing all discovered Transmitters</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table>
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| ![The icon displayed when a Transmitter is repaired in the Collections menu](../assets/Transmitters_icon.png) / *The icon displayed when a Transmitter is repaired in the Collections menu* | ![The symbol for a broken Transmitter needing repairs in the Collections menu](../assets/Transmitter_Broken_Icon.png) / *The symbol for a broken Transmitter needing repairs in the Collections menu* | ![The Journal Menu showing all discovered Transmitters](../assets/Transmitter_Journal.png) / *The Journal Menu showing all discovered Transmitters* |
 
-**Lua execution error in Module:Navbox function navboxLua execution error in Module:Navbox function navbox** <a href="ru:%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8" class="wikilink" title="ru:Передатчики">ru:Передатчики</a>
-
-</div>
+**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [ru:Передатчики](ru:%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8)

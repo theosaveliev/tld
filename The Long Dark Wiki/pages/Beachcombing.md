@@ -7,20 +7,18 @@ source: "https://thelongdark.fandom.com/wiki/Beachcombing"
 
 # Beachcombing
 
-<div>
-
 **Contents**
 
-- [Item Spawns](#Item_Spawns)
-- [Standard](#Standard)
-- [Post-blizzard](#Post-blizzard)
-- [Container and Large Object Spawns](#Container_and_Large_Object_Spawns)
-- [Boat Spawns](#Boat_Spawns)
-- [Strategy](#Strategy)
+- [Item Spawns](#item-spawns)
+- [Standard](#standard)
+- [Post-blizzard](#post-blizzard)
+- [Container and Large Object Spawns](#container-and-large-object-spawns)
+- [Boat Spawns](#boat-spawns)
+- [Strategy](#strategy)
 
-\[Missing image: rowboat.png\] A rowboat and loose items found while beachcombing. **Beachcombing** is a gameplay mechanic in *<a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark">The Long Dark</a>,*which allows the player to acquire otherwise non-renewable items.
+![A rowboat and loose items found while beachcombing.](../assets/Rowboat.png)*A rowboat and loose items found while beachcombing.* **Beachcombing** is a gameplay mechanic in *[The Long Dark](./The%20Long%20Dark.md),*which allows the player to acquire otherwise non-renewable items.
 
-Items can wash up along the icy shoreline regions of <a href="./Great%20Bear%20Island.md" class="wikilink" title="Great Bear Island">Great Bear Island</a> (<a href="./Desolation%20Point.md" class="wikilink" title="Desolation Point">Desolation Point</a>, <a href="./Coastal%20Highway.md" class="wikilink" title="Coastal Highway">Coastal Highway</a>, <a href="./Bleak%20Inlet.md" class="wikilink" title="Bleak Inlet">Bleak Inlet</a> and <a href="./Crumbling%20Highway.md" class="wikilink" title="Crumbling Highway">Crumbling Highway</a>). Rarely the player's character must stand atop <a href="./Weak%20Ice.md" class="wikilink" title="Weak Ice">Weak Ice</a> to gather these items, but most of the time a player can safely stay on normal ice or the shore.
+Items can wash up along the icy shoreline regions of [Great Bear Island](./Great%20Bear%20Island.md) ([Desolation Point](./Desolation%20Point.md), [Coastal Highway](./Coastal%20Highway.md), [Bleak Inlet](./Bleak%20Inlet.md) and [Crumbling Highway](./Crumbling%20Highway.md)). Rarely the player's character must stand atop [Weak Ice](./Weak%20Ice.md) to gather these items, but most of the time a player can safely stay on normal ice or the shore.
 
 ## Item Spawns
 
@@ -28,4268 +26,530 @@ These small, lootable items can be found in many locations along the water, usua
 
 ### Standard
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr>
-<th style="width: 50px"></th>
-<th style="width: 250px"><p>Item</p></th>
-<th style="width: 75px"><p>Rarity</p></th>
-<th style="text-align: center; width: 50px;"><figure>
-<img src="../assets/Misery_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Misery_icon.png</figcaption>
-</figure></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Stick_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Stick_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Stick.md" class="wikilink" title="Stick">Stick</a></p></td>
-<td><p>22.22%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Reclaimed_Wood_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p></td>
-<td><p>7.41%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cedar_Firewood_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a></p></td>
-<td><p>5.93%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cloth_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cloth_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a></p></td>
-<td><p>5.93%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Smallmouth_Bass_%28Raw%29_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Smallmouth_Bass_(Raw)_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Smallmouth%20Bass%20%28Raw%29.md" class="wikilink" title="Smallmouth Bass (Raw)">Smallmouth Bass (Raw)</a></p></td>
-<td><p>4.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cat_Tail_Stalk_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cat_Tail_Stalk_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cat%20Tail%20Stalk.md" class="wikilink" title="Cat Tail Stalk">Cat Tail Stalk</a></p></td>
-<td><p>4.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Birch_Bark_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Birch_Bark_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Birch%20Bark.md" class="wikilink" title="Birch Bark">Birch Bark</a></p></td>
-<td><p>4.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cat_Tail_Head_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cat_Tail_Head_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cat%20Tail%20Head.md" class="wikilink" title="Cat Tail Head">Cat Tail Head</a></p></td>
-<td><p>3.7%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Green_Birch_Sapling_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Green_Birch_Sapling_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Green%20Birch%20Sapling.md" class="wikilink" title="Green Birch Sapling">Green Birch Sapling</a></p></td>
-<td><p>3.7%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Fir_Firewood_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-<td><p>3.7%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Scrap_Metal_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Scrap_Metal_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a></p></td>
-<td><p>3.7%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Rifle_Shell_Casing_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Rifle_Shell_Casing_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Rifle%20Shell%20Casing.md" class="wikilink" title="Rifle Shell Casing">Rifle Shell Casing</a></p></td>
-<td><p>2.96%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Coho_Salmon_%28Raw%29_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Coho_Salmon_(Raw)_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Coho%20Salmon%20%28Raw%29.md" class="wikilink" title="Coho Salmon (Raw)">Coho Salmon (Raw)</a></p></td>
-<td><p>2.96%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Broken_Arrow_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Broken_Arrow_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Simple%20Arrow.md" class="wikilink" title="Broken Arrow">Broken Arrow</a></p></td>
-<td><p>2.22%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Green_Maple_Sapling_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Green_Maple_Sapling_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Green%20Maple%20Sapling.md" class="wikilink" title="Green Maple Sapling">Green Maple Sapling</a></p></td>
-<td><p>1.48%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Old_Man%27s_Beard_Lichen_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Old_Man's_Beard_Lichen_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Old%20Man%27s%20Beard%20Lichen.md" class="wikilink" title="Old Man&#39;s Beard Lichen">Old Man's Beard Lichen</a></p></td>
-<td><p>1.48%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Rifle_Cartridge_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Rifle_Cartridge_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Rifle%20Ammunition.md" class="wikilink" title="Rifle Cartridge">Rifle Cartridge</a></p></td>
-<td><p>1.48%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flare_Shell_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flare_Shell_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flare%20Shell.md" class="wikilink" title="Flare Shell">Flare Shell</a></p></td>
-<td><p>1.48%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cotton_Toque_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cotton_Toque_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cotton%20Toque.md" class="wikilink" title="Cotton Toque">Cotton Toque</a></p></td>
-<td><p>1.48%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Bandage_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Bandage_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Bandage.md" class="wikilink" title="Bandage">Bandage</a></p></td>
-<td><p>1.48%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Painkillers_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Painkillers_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Painkillers.md" class="wikilink" title="Painkillers">Painkillers</a></p></td>
-<td><p>1.48%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Sports_Socks_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sports_Socks_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sports%20Socks.md" class="wikilink" title="Sports Socks">Sports Socks</a></p></td>
-<td><p>1.48%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Baseball_Cap_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Baseball_Cap_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Baseball%20Cap.md" class="wikilink" title="Baseball Cap">Baseball Cap</a></p></td>
-<td><p>1.48%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Broken_Fire_Hardened_Arrow_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Broken_Fire_Hardened_Arrow_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fire%20Hardened%20Arrow.md" class="wikilink" title="Broken Fire Hardened Arrow">Broken Fire Hardened Arrow</a></p></td>
-<td><p>1.48%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wires_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wires_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wires.md" class="wikilink" title="Wires">Wires</a></p></td>
-<td><p>1.48%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cured_Leather_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cured_Leather_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cured%20Leather.md" class="wikilink" title="Cured Leather">Cured Leather</a></p></td>
-<td><p>1.48%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Improvised_Knife_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Improvised_Knife_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Improvised%20Knife.md" class="wikilink" title="Improvised Knife">Improvised Knife</a></p></td>
-<td><p>0.74%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Tin_of_Sardines_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Tin_of_Sardines_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Tin%20of%20Sardines.md" class="wikilink" title="Tin of Sardines">Tin of Sardines</a></p></td>
-<td><p>0.74%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Running_Shoes_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Running_Shoes_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Running%20Shoes.md" class="wikilink" title="Running Shoes">Running Shoes</a></p></td>
-<td><p>0.74%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Leather_Shoes_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Leather_Shoes_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Leather%20Shoes.md" class="wikilink" title="Leather Shoes">Leather Shoes</a></p></td>
-<td><p>0.74%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Recycled_Can_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Recycled_Can_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Recycled%20Can.md" class="wikilink" title="Recycled Can">Recycled Can</a></p></td>
-<td><p>0.74%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cured_Leather_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cured_Leather_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cured%20Leather.md" class="wikilink" title="Cured Leather">Cured Leather</a></p></td>
-<td><p>0.74%</p></td>
-<td><p>Yes</p></td>
-</tr>
-</tbody>
-</table>
+|  | Item | Rarity | ![](../assets/Misery_icon.png) / *Misery\_icon.png* |
+| --- | --- | --- | --- |
+| ![](../assets/Stick_icon.png) / *Stick\_icon.png* | [Stick](./Stick.md) | 22.22% | Yes |
+| ![](../assets/Reclaimed_Wood_icon.png) / *Reclaimed\_Wood\_icon.png* | [Reclaimed Wood](./Reclaimed%20Wood.md) | 7.41% | Yes |
+| ![](../assets/Cedar_Firewood_icon.png) / *Cedar\_Firewood\_icon.png* | [Cedar Firewood](./Cedar%20Firewood.md) | 5.93% | Yes |
+| ![](../assets/Cloth_icon.png) / *Cloth\_icon.png* | [Cloth](./Cloth.md) | 5.93% | Yes |
+| ![](../assets/Smallmouth_Bass_%28Raw%29_icon.png) / *Smallmouth\_Bass\_(Raw)\_icon.png* | [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) | 4.44% | Yes |
+| ![](../assets/Cat_Tail_Stalk_icon.png) / *Cat\_Tail\_Stalk\_icon.png* | [Cat Tail Stalk](./Cat%20Tail%20Stalk.md) | 4.44% | Yes |
+| ![](../assets/Birch_Bark_icon.png) / *Birch\_Bark\_icon.png* | [Birch Bark](./Birch%20Bark.md) | 4.44% | Yes |
+| ![](../assets/Cat_Tail_Head_icon.png) / *Cat\_Tail\_Head\_icon.png* | [Cat Tail Head](./Cat%20Tail%20Head.md) | 3.7% | Yes |
+| ![](../assets/Green_Birch_Sapling_icon.png) / *Green\_Birch\_Sapling\_icon.png* | [Green Birch Sapling](./Green%20Birch%20Sapling.md) | 3.7% | Yes |
+| ![](../assets/Fir_Firewood_icon.png) / *Fir\_Firewood\_icon.png* | [Fir Firewood](./Fir%20Firewood.md) | 3.7% | Yes |
+| ![](../assets/Scrap_Metal_icon.png) / *Scrap\_Metal\_icon.png* | [Scrap Metal](./Scrap%20Metal.md) | 3.7% | Yes |
+| ![](../assets/Rifle_Shell_Casing_icon.png) / *Rifle\_Shell\_Casing\_icon.png* | [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) | 2.96% | No |
+| ![](../assets/Coho_Salmon_%28Raw%29_icon.png) / *Coho\_Salmon\_(Raw)\_icon.png* | [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) | 2.96% | Yes |
+| ![](../assets/Broken_Arrow_icon.png) / *Broken\_Arrow\_icon.png* | [Broken Arrow](./Simple%20Arrow.md) | 2.22% | No |
+| ![](../assets/Green_Maple_Sapling_icon.png) / *Green\_Maple\_Sapling\_icon.png* | [Green Maple Sapling](./Green%20Maple%20Sapling.md) | 1.48% | Yes |
+| ![](../assets/Old_Man%27s_Beard_Lichen_icon.png) / *Old\_Man's\_Beard\_Lichen\_icon.png* | [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) | 1.48% | Yes |
+| ![](../assets/Rifle_Cartridge_icon.png) / *Rifle\_Cartridge\_icon.png* | [Rifle Cartridge](./Rifle%20Ammunition.md) | 1.48% | No |
+| ![](../assets/Flare_Shell_icon.png) / *Flare\_Shell\_icon.png* | [Flare Shell](./Flare%20Shell.md) | 1.48% | No |
+| ![](../assets/Cotton_Toque_icon.png) / *Cotton\_Toque\_icon.png* | [Cotton Toque](./Cotton%20Toque.md) | 1.48% | Yes |
+| ![](../assets/Bandage_icon.png) / *Bandage\_icon.png* | [Bandage](./Bandage.md) | 1.48% | Yes |
+| ![](../assets/Painkillers_icon.png) / *Painkillers\_icon.png* | [Painkillers](./Painkillers.md) | 1.48% | Yes |
+| ![](../assets/Sports_Socks_icon.png) / *Sports\_Socks\_icon.png* | [Sports Socks](./Sports%20Socks.md) | 1.48% | Yes |
+| ![](../assets/Baseball_Cap_icon.png) / *Baseball\_Cap\_icon.png* | [Baseball Cap](./Baseball%20Cap.md) | 1.48% | Yes |
+| ![](../assets/Broken_Fire_Hardened_Arrow_icon.png) / *Broken\_Fire\_Hardened\_Arrow\_icon.png* | [Broken Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | 1.48% | No |
+| ![](../assets/Wires_icon.png) / *Wires\_icon.png* | [Wires](./Wires.md) | 1.48% | Yes |
+| ![](../assets/Cured_Leather_icon.png) / *Cured\_Leather\_icon.png* | [Cured Leather](./Cured%20Leather.md) | 1.48% | Yes |
+| ![](../assets/Improvised_Knife_icon.png) / *Improvised\_Knife\_icon.png* | [Improvised Knife](./Improvised%20Knife.md) | 0.74% | No |
+| ![](../assets/Tin_of_Sardines_icon.png) / *Tin\_of\_Sardines\_icon.png* | [Tin of Sardines](./Tin%20of%20Sardines.md) | 0.74% | Yes |
+| ![](../assets/Running_Shoes_icon.png) / *Running\_Shoes\_icon.png* | [Running Shoes](./Running%20Shoes.md) | 0.74% | Yes |
+| ![](../assets/Leather_Shoes_icon.png) / *Leather\_Shoes\_icon.png* | [Leather Shoes](./Leather%20Shoes.md) | 0.74% | Yes |
+| ![](../assets/Recycled_Can_icon.png) / *Recycled\_Can\_icon.png* | [Recycled Can](./Recycled%20Can.md) | 0.74% | Yes |
+| ![](../assets/Cured_Leather_icon.png) / *Cured\_Leather\_icon.png* | [Cured Leather](./Cured%20Leather.md) | 0.74% | Yes |
 
 ### Post-blizzard
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr>
-<th style="width: 50px"></th>
-<th style="width: 250px"><p>Item</p></th>
-<th style="width: 75px"><p>Rarity</p></th>
-<th style="text-align: center; width: 50px;"><figure>
-<img src="../assets/Misery_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Misery_icon.png</figcaption>
-</figure></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Cat_Tail_Head_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cat_Tail_Head_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cat%20Tail%20Head.md" class="wikilink" title="Cat Tail Head">Cat Tail Head</a></p></td>
-<td><p>5.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Green_Birch_Sapling_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Green_Birch_Sapling_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Green%20Birch%20Sapling.md" class="wikilink" title="Green Birch Sapling">Green Birch Sapling</a></p></td>
-<td><p>5.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Fir_Firewood_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-<td><p>5.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Smallmouth_Bass_%28Raw%29_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Smallmouth_Bass_(Raw)_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Smallmouth%20Bass%20%28Raw%29.md" class="wikilink" title="Smallmouth Bass (Raw)">Smallmouth Bass (Raw)</a></p></td>
-<td><p>5.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cat_Tail_Stalk_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cat_Tail_Stalk_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cat%20Tail%20Stalk.md" class="wikilink" title="Cat Tail Stalk">Cat Tail Stalk</a></p></td>
-<td><p>5.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Birch_Bark_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Birch_Bark_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Birch%20Bark.md" class="wikilink" title="Birch Bark">Birch Bark</a></p></td>
-<td><p>5.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cedar_Firewood_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a></p></td>
-<td><p>5.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cloth_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cloth_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a></p></td>
-<td><p>5.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Reclaimed_Wood_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p></td>
-<td><p>5.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Stick_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Stick_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Stick.md" class="wikilink" title="Stick">Stick</a></p></td>
-<td><p>5.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Rifle_Shell_Casing_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Rifle_Shell_Casing_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Rifle%20Shell%20Casing.md" class="wikilink" title="Rifle Shell Casing">Rifle Shell Casing</a></p></td>
-<td><p>4.3%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Coho_Salmon_%28Raw%29_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Coho_Salmon_(Raw)_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Coho%20Salmon%20%28Raw%29.md" class="wikilink" title="Coho Salmon (Raw)">Coho Salmon (Raw)</a></p></td>
-<td><p>4.3%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Broken_Arrow_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Broken_Arrow_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Simple%20Arrow.md" class="wikilink" title="Broken Arrow">Broken Arrow</a></p></td>
-<td><p>3.23%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Green_Maple_Sapling_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Green_Maple_Sapling_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Green%20Maple%20Sapling.md" class="wikilink" title="Green Maple Sapling">Green Maple Sapling</a></p></td>
-<td><p>2.15%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Old_Man%27s_Beard_Lichen_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Old_Man's_Beard_Lichen_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Old%20Man%27s%20Beard%20Lichen.md" class="wikilink" title="Old Man&#39;s Beard Lichen">Old Man's Beard Lichen</a></p></td>
-<td><p>2.15%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Rifle_Cartridge_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Rifle_Cartridge_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Rifle%20Ammunition.md" class="wikilink" title="Rifle Cartridge">Rifle Cartridge</a></p></td>
-<td><p>2.15%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flare_Shell_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flare_Shell_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flare%20Shell.md" class="wikilink" title="Flare Shell">Flare Shell</a></p></td>
-<td><p>2.15%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Toque_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Toque_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Toque.md" class="wikilink" title="Wool Toque">Wool Toque</a></p></td>
-<td><p>2.15%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Painkillers_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Painkillers_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Painkillers.md" class="wikilink" title="Painkillers">Painkillers</a></p></td>
-<td><p>2.15%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Climbing_Socks_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Climbing_Socks_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Climbing%20Socks.md" class="wikilink" title="Climbing Socks">Climbing Socks</a></p></td>
-<td><p>2.15%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cured_Leather_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cured_Leather_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cured%20Leather.md" class="wikilink" title="Cured Leather">Cured Leather</a></p></td>
-<td><p>2.15%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Hunting_Knife_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Hunting_Knife_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Hunting%20Knife.md" class="wikilink" title="Hunting Knife">Hunting Knife</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Ketchup_Chips_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Ketchup_Chips_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Ketchup%20Chips.md" class="wikilink" title="Ketchup Chips">Ketchup Chips</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Leather_Shoes_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Leather_Shoes_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Leather%20Shoes.md" class="wikilink" title="Leather Shoes">Leather Shoes</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Hacksaw_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Hacksaw_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Hacksaw.md" class="wikilink" title="Hacksaw">Hacksaw</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Emergency_Stim_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Emergency_Stim_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Emergency%20Stim.md" class="wikilink" title="Emergency Stim">Emergency Stim</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Longjohns_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Longjohns_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Longjohns.md" class="wikilink" title="Wool Longjohns">Wool Longjohns</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Simple_Arrow_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Simple_Arrow_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Simple%20Arrow.md" class="wikilink" title="Simple Arrow">Simple Arrow</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Fire_Hardened_Arrow_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Fire_Hardened_Arrow_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fire%20Hardened%20Arrow.md" class="wikilink" title="Fire Hardened Arrow">Fire Hardened Arrow</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Broken_Fire_Hardened_Arrow_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Broken_Fire_Hardened_Arrow_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fire%20Hardened%20Arrow.md" class="wikilink" title="Broken Fire Hardened Arrow">Broken Fire Hardened Arrow</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Quality_Tools_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Quality_Tools_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Quality%20Tools.md" class="wikilink" title="Quality Tools">Quality Tools</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Spray_Paint_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Spray_Paint_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Spray%20Paint.md" class="wikilink" title="Spray Paint">Spray Paint</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Rabbit_Carcass_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Rabbit_Carcass_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Rabbit%20Carcass.md" class="wikilink" title="Rabbit Carcass">Rabbit Carcass</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Military-Grade_MRE_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Military-Grade_MRE_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Military-Grade%20MRE.md" class="wikilink" title="Military-Grade MRE">Military-Grade MRE</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Marine_Flare_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Marine_Flare_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Marine%20Flare.md" class="wikilink" title="Marine Flare">Marine Flare</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cured_Rabbit_Pelt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cured_Rabbit_Pelt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cured%20Rabbit%20Pelt.md" class="wikilink" title="Cured Rabbit Pelt">Cured Rabbit Pelt</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/The_Frozen_Angler_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>The_Frozen_Angler_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./The%20Frozen%20Angler.md" class="wikilink" title="The Frozen Angler">The Frozen Angler</a></p></td>
-<td><p>1.08%</p></td>
-<td><p>Yes</p></td>
-</tr>
-</tbody>
-</table>
+|  | Item | Rarity | ![](../assets/Misery_icon.png) / *Misery\_icon.png* |
+| --- | --- | --- | --- |
+| ![](../assets/Cat_Tail_Head_icon.png) / *Cat\_Tail\_Head\_icon.png* | [Cat Tail Head](./Cat%20Tail%20Head.md) | 5.38% | Yes |
+| ![](../assets/Green_Birch_Sapling_icon.png) / *Green\_Birch\_Sapling\_icon.png* | [Green Birch Sapling](./Green%20Birch%20Sapling.md) | 5.38% | Yes |
+| ![](../assets/Fir_Firewood_icon.png) / *Fir\_Firewood\_icon.png* | [Fir Firewood](./Fir%20Firewood.md) | 5.38% | Yes |
+| ![](../assets/Smallmouth_Bass_%28Raw%29_icon.png) / *Smallmouth\_Bass\_(Raw)\_icon.png* | [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) | 5.38% | Yes |
+| ![](../assets/Cat_Tail_Stalk_icon.png) / *Cat\_Tail\_Stalk\_icon.png* | [Cat Tail Stalk](./Cat%20Tail%20Stalk.md) | 5.38% | Yes |
+| ![](../assets/Birch_Bark_icon.png) / *Birch\_Bark\_icon.png* | [Birch Bark](./Birch%20Bark.md) | 5.38% | Yes |
+| ![](../assets/Cedar_Firewood_icon.png) / *Cedar\_Firewood\_icon.png* | [Cedar Firewood](./Cedar%20Firewood.md) | 5.38% | Yes |
+| ![](../assets/Cloth_icon.png) / *Cloth\_icon.png* | [Cloth](./Cloth.md) | 5.38% | Yes |
+| ![](../assets/Reclaimed_Wood_icon.png) / *Reclaimed\_Wood\_icon.png* | [Reclaimed Wood](./Reclaimed%20Wood.md) | 5.38% | Yes |
+| ![](../assets/Stick_icon.png) / *Stick\_icon.png* | [Stick](./Stick.md) | 5.38% | Yes |
+| ![](../assets/Rifle_Shell_Casing_icon.png) / *Rifle\_Shell\_Casing\_icon.png* | [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) | 4.3% | No |
+| ![](../assets/Coho_Salmon_%28Raw%29_icon.png) / *Coho\_Salmon\_(Raw)\_icon.png* | [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) | 4.3% | Yes |
+| ![](../assets/Broken_Arrow_icon.png) / *Broken\_Arrow\_icon.png* | [Broken Arrow](./Simple%20Arrow.md) | 3.23% | No |
+| ![](../assets/Green_Maple_Sapling_icon.png) / *Green\_Maple\_Sapling\_icon.png* | [Green Maple Sapling](./Green%20Maple%20Sapling.md) | 2.15% | Yes |
+| ![](../assets/Old_Man%27s_Beard_Lichen_icon.png) / *Old\_Man's\_Beard\_Lichen\_icon.png* | [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) | 2.15% | Yes |
+| ![](../assets/Rifle_Cartridge_icon.png) / *Rifle\_Cartridge\_icon.png* | [Rifle Cartridge](./Rifle%20Ammunition.md) | 2.15% | No |
+| ![](../assets/Flare_Shell_icon.png) / *Flare\_Shell\_icon.png* | [Flare Shell](./Flare%20Shell.md) | 2.15% | No |
+| ![](../assets/Wool_Toque_icon.png) / *Wool\_Toque\_icon.png* | [Wool Toque](./Wool%20Toque.md) | 2.15% | Yes |
+| ![](../assets/Painkillers_icon.png) / *Painkillers\_icon.png* | [Painkillers](./Painkillers.md) | 2.15% | Yes |
+| ![](../assets/Climbing_Socks_icon.png) / *Climbing\_Socks\_icon.png* | [Climbing Socks](./Climbing%20Socks.md) | 2.15% | No |
+| ![](../assets/Cured_Leather_icon.png) / *Cured\_Leather\_icon.png* | [Cured Leather](./Cured%20Leather.md) | 2.15% | Yes |
+| ![](../assets/Hunting_Knife_icon.png) / *Hunting\_Knife\_icon.png* | [Hunting Knife](./Hunting%20Knife.md) | 1.08% | No |
+| ![](../assets/Ketchup_Chips_icon.png) / *Ketchup\_Chips\_icon.png* | [Ketchup Chips](./Ketchup%20Chips.md) | 1.08% | Yes |
+| ![](../assets/Leather_Shoes_icon.png) / *Leather\_Shoes\_icon.png* | [Leather Shoes](./Leather%20Shoes.md) | 1.08% | Yes |
+| ![](../assets/Hacksaw_icon.png) / *Hacksaw\_icon.png* | [Hacksaw](./Hacksaw.md) | 1.08% | No |
+| ![](../assets/Emergency_Stim_icon.png) / *Emergency\_Stim\_icon.png* | [Emergency Stim](./Emergency%20Stim.md) | 1.08% | No |
+| ![](../assets/Wool_Longjohns_icon.png) / *Wool\_Longjohns\_icon.png* | [Wool Longjohns](./Wool%20Longjohns.md) | 1.08% | No |
+| ![](../assets/Simple_Arrow_icon.png) / *Simple\_Arrow\_icon.png* | [Simple Arrow](./Simple%20Arrow.md) | 1.08% | No |
+| ![](../assets/Fire_Hardened_Arrow_icon.png) / *Fire\_Hardened\_Arrow\_icon.png* | [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | 1.08% | No |
+| ![](../assets/Broken_Fire_Hardened_Arrow_icon.png) / *Broken\_Fire\_Hardened\_Arrow\_icon.png* | [Broken Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | 1.08% | No |
+| ![](../assets/Quality_Tools_icon.png) / *Quality\_Tools\_icon.png* | [Quality Tools](./Quality%20Tools.md) | 1.08% | Yes |
+| ![](../assets/Spray_Paint_icon.png) / *Spray\_Paint\_icon.png* | [Spray Paint](./Spray%20Paint.md) | 1.08% | Yes |
+| ![](../assets/Rabbit_Carcass_icon.png) / *Rabbit\_Carcass\_icon.png* | [Rabbit Carcass](./Rabbit%20Carcass.md) | 1.08% | Yes |
+| ![](../assets/Military-Grade_MRE_icon.png) / *Military-Grade\_MRE\_icon.png* | [Military-Grade MRE](./Military-Grade%20MRE.md) | 1.08% | No |
+| ![](../assets/Marine_Flare_icon.png) / *Marine\_Flare\_icon.png* | [Marine Flare](./Marine%20Flare.md) | 1.08% | Yes |
+| ![](../assets/Cured_Rabbit_Pelt_icon.png) / *Cured\_Rabbit\_Pelt\_icon.png* | [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) | 1.08% | Yes |
+| ![](../assets/The_Frozen_Angler_icon.png) / *The\_Frozen\_Angler\_icon.png* | [The Frozen Angler](./The%20Frozen%20Angler.md) | 1.08% | Yes |
 
 ## Container and Large Object Spawns
 
-Each time a <a href="./Weather.md" class="wikilink" title="blizzard">blizzard</a> occurs, several larger objects and containers have a possibility of appearing in specific locations along the ice. These locations are not shared with the other small items or boats.
+Each time a [blizzard](./Weather.md) occurs, several larger objects and containers have a possibility of appearing in specific locations along the ice. These locations are not shared with the other small items or boats.
 
 Harvestable large objects:
 
-- A ravaged <a href="./Deer%20Carcass.md" class="wikilink" title="Deer Carcass">Deer Carcass</a> (and associated <a href="./Crow%20Feather.md" class="wikilink" title="Crow Feather">Crow Feathers</a>)
-- A ravaged <a href="./Wolf%20Carcass.md" class="wikilink" title="Wolf Carcass">Wolf Carcass</a> (and associated <a href="./Crow%20Feather.md" class="wikilink" title="Crow Feather">Crow Feathers</a>)
-- <a href="./Pallet.md" class="wikilink" title="Pallet">Pallet</a>
-- <a href="./Plank.md" class="wikilink" title="Plank">Planks</a>
+- A ravaged [Deer Carcass](./Deer%20Carcass.md) (and associated [Crow Feathers](./Crow%20Feather.md))
+- A ravaged [Wolf Carcass](./Wolf%20Carcass.md) (and associated [Crow Feathers](./Crow%20Feather.md))
+- [Pallet](./Pallet.md)
+- [Planks](./Plank.md)
 
 Containers:
 
-<table>
-<caption>style="width:100%; text-align: left;" | <a href="./Frozen%20Corpse.md" class="wikilink" title="Frozen Corpse">Frozen Corpse</a></caption>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Icon</p></th>
-<th><p>Item</p></th>
-<th><p>Rarity</p></th>
-<th><figure>
-<img src="../assets/Misery_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Misery_icon.png</figcaption>
-</figure></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Beef_Jerky_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Beef_Jerky_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Beef%20Jerky.md" class="wikilink" title="Beef Jerky">Beef Jerky</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Tinder_Plug_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Tinder_Plug_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Tinder%20Plug.md" class="wikilink" title="Tinder Plug">Tinder Plug</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wood_Matches_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wood_Matches_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wood%20Matches.md" class="wikilink" title="Wood Matches">Wood Matches</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Toque_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Toque_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Toque.md" class="wikilink" title="Wool Toque">Wool Toque</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Summit_Soda_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Summit_Soda_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Summit%20Soda.md" class="wikilink" title="Summit Soda">Summit Soda</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Chocolate_Bar_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Chocolate_Bar_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Chocolate%20Bar.md" class="wikilink" title="Chocolate Bar">Chocolate Bar</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Stacy%27s_Grape_Soda_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Stacy's_Grape_Soda_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Stacy%27s%20Grape%20Soda.md" class="wikilink" title="Stacy&#39;s Grape Soda">Stacy's Grape Soda</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Trail_Boots_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Trail_Boots_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Trail%20Boots.md" class="wikilink" title="Trail Boots">Trail Boots</a></p></td>
-<td><p>4.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Running_Shoes_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Running_Shoes_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Running%20Shoes.md" class="wikilink" title="Running Shoes">Running Shoes</a></p></td>
-<td><p>4.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Ketchup_Chips_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Ketchup_Chips_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Ketchup%20Chips.md" class="wikilink" title="Ketchup Chips">Ketchup Chips</a></p></td>
-<td><p>4.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flare_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flare_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flare.md" class="wikilink" title="Flare">Flare</a></p></td>
-<td><p>3.6%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Tin_of_Sardines_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Tin_of_Sardines_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Tin%20of%20Sardines.md" class="wikilink" title="Tin of Sardines">Tin of Sardines</a></p></td>
-<td><p>3.6%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/T-Shirt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>T-Shirt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./T-Shirt.md" class="wikilink" title="T-Shirt">T-Shirt</a></p></td>
-<td><p>3.6%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Hoodie_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Hoodie_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Hoodie.md" class="wikilink" title="Hoodie">Hoodie</a></p></td>
-<td><p>3%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Revolver_Cartridge_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Revolver_Cartridge_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Revolver%20Ammunition.md" class="wikilink" title="Revolver Cartridge">Revolver Cartridge</a></p></td>
-<td><p>2.5%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Charcoal_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Charcoal_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Charcoal.md" class="wikilink" title="Charcoal">Charcoal</a></p></td>
-<td><p>2.5%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Energy_Bar_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Energy_Bar_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Energy%20Bar.md" class="wikilink" title="Energy Bar">Energy Bar</a></p></td>
-<td><p>2.5%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Lantern_Fuel_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Lantern_Fuel_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Lantern%20Fuel.md" class="wikilink" title="Lantern Fuel">Lantern Fuel</a></p></td>
-<td><p>2.5%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Rifle_Cartridge_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Rifle_Cartridge_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Rifle%20Ammunition.md" class="wikilink" title="Rifle Cartridge">Rifle Cartridge</a></p></td>
-<td><p>2.5%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cotton_Scarf_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cotton_Scarf_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cotton%20Scarf.md" class="wikilink" title="Cotton Scarf">Cotton Scarf</a></p></td>
-<td><p>2.5%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Bandage_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Bandage_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Bandage.md" class="wikilink" title="Bandage">Bandage</a></p></td>
-<td><p>2%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Sport_Vest_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sport_Vest_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sport%20Vest.md" class="wikilink" title="Sport Vest">Sport Vest</a></p></td>
-<td><p>2%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Windbreaker_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Windbreaker_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Windbreaker.md" class="wikilink" title="Windbreaker">Windbreaker</a></p></td>
-<td><p>2%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Sports_Socks_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sports_Socks_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sports%20Socks.md" class="wikilink" title="Sports Socks">Sports Socks</a></p></td>
-<td><p>2%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Thermal_Underwear_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Thermal_Underwear_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Thermal%20Underwear.md" class="wikilink" title="Thermal Underwear">Thermal Underwear</a></p></td>
-<td><p>1.5%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Dog_Food_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Dog_Food_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Dog%20Food.md" class="wikilink" title="Dog Food">Dog Food</a></p></td>
-<td><p>1.5%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Fishing_Tackle_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Fishing_Tackle_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fishing%20Tackle.md" class="wikilink" title="Fishing Tackle">Fishing Tackle</a></p></td>
-<td><p>1.5%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Marine_Flare_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Marine_Flare_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Marine%20Flare.md" class="wikilink" title="Marine Flare">Marine Flare</a></p></td>
-<td><p>1.5%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Thick_Wool_Sweater_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Thick_Wool_Sweater_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Thick%20Wool%20Sweater.md" class="wikilink" title="Thick Wool Sweater">Thick Wool Sweater</a></p></td>
-<td><p>1%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Condensed_Milk_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Condensed_Milk_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Condensed%20Milk.md" class="wikilink" title="Condensed Milk">Condensed Milk</a></p></td>
-<td><p>1%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Spray_Paint_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Spray_Paint_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Spray%20Paint.md" class="wikilink" title="Spray Paint">Spray Paint</a></p></td>
-<td><p>1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Arrowhead_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Arrowhead_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Arrowhead.md" class="wikilink" title="Arrowhead">Arrowhead</a></p></td>
-<td><p>1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Antibiotics_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Antibiotics_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Antibiotics.md" class="wikilink" title="Antibiotics">Antibiotics</a></p></td>
-<td><p>0.5%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Painkillers_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Painkillers_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Painkillers.md" class="wikilink" title="Painkillers">Painkillers</a></p></td>
-<td><p>0.5%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flare_Shell_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flare_Shell_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flare%20Shell.md" class="wikilink" title="Flare Shell">Flare Shell</a></p></td>
-<td><p>0.5%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Combat_Boots_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Combat_Boots_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Combat%20Boots.md" class="wikilink" title="Combat Boots">Combat Boots</a></p></td>
-<td><p>0.5%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Recycled_Can_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Recycled_Can_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Recycled%20Can.md" class="wikilink" title="Recycled Can">Recycled Can</a></p></td>
-<td><p>0.5%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Go!_Energy_Drink_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Go!_Energy_Drink_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Go!%20Energy%20Drink.md" class="wikilink" title="Go! Energy Drink">Go! Energy Drink</a></p></td>
-<td><p>0.5%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Maple_Syrup_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Maple_Syrup_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Maple%20Syrup.md" class="wikilink" title="Maple Syrup">Maple Syrup</a></p></td>
-<td><p>0.5%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Whetstone_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Whetstone_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Whetstone.md" class="wikilink" title="Whetstone">Whetstone</a></p></td>
-<td><p>0.5%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Sewing_Kit_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sewing_Kit_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sewing%20Kit.md" class="wikilink" title="Sewing Kit">Sewing Kit</a></p></td>
-<td><p>0.5%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flashlight_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flashlight_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flashlight.md" class="wikilink" title="Flashlight">Flashlight</a></p></td>
-<td><p>0.5%</p></td>
-<td><p>No</p></td>
-</tr>
-</tbody>
-</table>
+**style="width:100%; text-align: left;" | [Frozen Corpse](./Frozen%20Corpse.md)**
 
-<table>
-<caption>style="width:100%; text-align: left;" | <a href="./Trunk.md" class="wikilink" title="Trunk">Trunk</a></caption>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Icon</p></th>
-<th><p>Item</p></th>
-<th><p>Rarity</p></th>
-<th><figure>
-<img src="../assets/Misery_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Misery_icon.png</figcaption>
-</figure></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Ski_Jacket_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Ski_Jacket_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Ski%20Jacket.md" class="wikilink" title="Ski Jacket">Ski Jacket</a></p></td>
-<td><p>8.57%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Windbreaker_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Windbreaker_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Windbreaker.md" class="wikilink" title="Windbreaker">Windbreaker</a></p></td>
-<td><p>8.57%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Sport_Vest_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sport_Vest_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sport%20Vest.md" class="wikilink" title="Sport Vest">Sport Vest</a></p></td>
-<td><p>8.57%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Simple_Parka_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Simple_Parka_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Simple%20Parka.md" class="wikilink" title="Simple Parka">Simple Parka</a></p></td>
-<td><p>8.57%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Light_Shell_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Light_Shell_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Light%20Shell.md" class="wikilink" title="Light Shell">Light Shell</a></p></td>
-<td><p>8.57%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cotton_Toque_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cotton_Toque_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cotton%20Toque.md" class="wikilink" title="Cotton Toque">Cotton Toque</a></p></td>
-<td><p>5.71%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Fleece_Mittens_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Fleece_Mittens_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fleece%20Mittens.md" class="wikilink" title="Fleece Mittens">Fleece Mittens</a></p></td>
-<td><p>5.71%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Down_Vest_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Down_Vest_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Down%20Vest.md" class="wikilink" title="Down Vest">Down Vest</a></p></td>
-<td><p>3.43%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Old_Fashioned_Parka_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Old_Fashioned_Parka_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Old%20Fashioned%20Parka.md" class="wikilink" title="Old Fashioned Parka">Old Fashioned Parka</a></p></td>
-<td><p>3.43%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Scarf_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Scarf_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Scarf.md" class="wikilink" title="Wool Scarf">Wool Scarf</a></p></td>
-<td><p>3.43%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Toque_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Toque_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Toque.md" class="wikilink" title="Wool Toque">Wool Toque</a></p></td>
-<td><p>3.43%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Trail_Boots_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Trail_Boots_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Trail%20Boots.md" class="wikilink" title="Trail Boots">Trail Boots</a></p></td>
-<td><p>3.43%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Mittens_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Mittens_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Mittens.md" class="wikilink" title="Wool Mittens">Wool Mittens</a></p></td>
-<td><p>3.43%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Driving_Gloves_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Driving_Gloves_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Driving%20Gloves.md" class="wikilink" title="Driving Gloves">Driving Gloves</a></p></td>
-<td><p>3.43%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Hoodie_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Hoodie_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Hoodie.md" class="wikilink" title="Hoodie">Hoodie</a></p></td>
-<td><p>3.43%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Running_Shoes_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Running_Shoes_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Running%20Shoes.md" class="wikilink" title="Running Shoes">Running Shoes</a></p></td>
-<td><p>3.43%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Ski_Gloves_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Ski_Gloves_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Ski%20Gloves.md" class="wikilink" title="Ski Gloves">Ski Gloves</a></p></td>
-<td><p>1.71%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Urban_Parka_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Urban_Parka_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Urban%20Parka.md" class="wikilink" title="Urban Parka">Urban Parka</a></p></td>
-<td><p>1.71%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Military_Coat_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Military_Coat_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Military%20Coat.md" class="wikilink" title="Military Coat">Military Coat</a></p></td>
-<td><p>1.71%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Newsprint_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Newsprint_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Newsprint.md" class="wikilink" title="Newsprint">Newsprint</a></p></td>
-<td><p>1.71%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cloth_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cloth_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a></p></td>
-<td><p>1.71%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Mackinaw_Jacket_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Mackinaw_Jacket_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Mackinaw%20Jacket.md" class="wikilink" title="Mackinaw Jacket">Mackinaw Jacket</a></p></td>
-<td><p>0.57%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Mariner%27s_Pea_Coat_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Mariner's_Pea_Coat_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Mariner%27s%20Pea%20Coat.md" class="wikilink" title="Mariner&#39;s Pea Coat">Mariner's Pea Coat</a></p></td>
-<td><p>0.57%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Long_Wool_Scarf_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Long_Wool_Scarf_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Long%20Wool%20Scarf.md" class="wikilink" title="Long Wool Scarf">Long Wool Scarf</a></p></td>
-<td><p>0.57%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Insulated_Boots_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Insulated_Boots_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Insulated%20Boots.md" class="wikilink" title="Insulated Boots">Insulated Boots</a></p></td>
-<td><p>0.57%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Mukluks_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Mukluks_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Mukluks.md" class="wikilink" title="Mukluks">Mukluks</a></p></td>
-<td><p>0.57%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Ski_Boots_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Ski_Boots_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Ski%20Boots.md" class="wikilink" title="Ski Boots">Ski Boots</a></p></td>
-<td><p>0.57%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Snow_Pants_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Snow_Pants_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Snow%20Pants.md" class="wikilink" title="Snow Pants">Snow Pants</a></p></td>
-<td><p>0.57%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flare_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flare_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flare.md" class="wikilink" title="Flare">Flare</a></p></td>
-<td><p>0.57%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cowichan_Sweater_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cowichan_Sweater_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cowichan%20Sweater.md" class="wikilink" title="Cowichan Sweater">Cowichan Sweater</a></p></td>
-<td><p>0.57%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Expedition_Parka_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Expedition_Parka_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Expedition%20Parka.md" class="wikilink" title="Expedition Parka">Expedition Parka</a></p></td>
-<td><p>0.57%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flight_Jacket_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flight_Jacket_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flight%20Jacket.md" class="wikilink" title="Flight Jacket">Flight Jacket</a></p></td>
-<td><p>0.57%</p></td>
-<td><p>No</p></td>
-</tr>
-</tbody>
-</table>
+| Icon | Item | Rarity | ![](../assets/Misery_icon.png) / *Misery\_icon.png* |
+| --- | --- | --- | --- |
+| ![](../assets/Beef_Jerky_icon.png) / *Beef\_Jerky\_icon.png* | [Beef Jerky](./Beef%20Jerky.md) | 5.1% | Yes |
+| ![](../assets/Tinder_Plug_icon.png) / *Tinder\_Plug\_icon.png* | [Tinder Plug](./Tinder%20Plug.md) | 5.1% | Yes |
+| ![](../assets/Wood_Matches_icon.png) / *Wood\_Matches\_icon.png* | [Wood Matches](./Wood%20Matches.md) | 5.1% | Yes |
+| ![](../assets/Wool_Toque_icon.png) / *Wool\_Toque\_icon.png* | [Wool Toque](./Wool%20Toque.md) | 5.1% | Yes |
+| ![](../assets/Summit_Soda_icon.png) / *Summit\_Soda\_icon.png* | [Summit Soda](./Summit%20Soda.md) | 5.1% | Yes |
+| ![](../assets/Chocolate_Bar_icon.png) / *Chocolate\_Bar\_icon.png* | [Chocolate Bar](./Chocolate%20Bar.md) | 5.1% | Yes |
+| ![](../assets/Stacy%27s_Grape_Soda_icon.png) / *Stacy's\_Grape\_Soda\_icon.png* | [Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md) | 5.1% | No |
+| ![](../assets/Trail_Boots_icon.png) / *Trail\_Boots\_icon.png* | [Trail Boots](./Trail%20Boots.md) | 4.1% | Yes |
+| ![](../assets/Running_Shoes_icon.png) / *Running\_Shoes\_icon.png* | [Running Shoes](./Running%20Shoes.md) | 4.1% | Yes |
+| ![](../assets/Ketchup_Chips_icon.png) / *Ketchup\_Chips\_icon.png* | [Ketchup Chips](./Ketchup%20Chips.md) | 4.1% | Yes |
+| ![](../assets/Flare_icon.png) / *Flare\_icon.png* | [Flare](./Flare.md) | 3.6% | Yes |
+| ![](../assets/Tin_of_Sardines_icon.png) / *Tin\_of\_Sardines\_icon.png* | [Tin of Sardines](./Tin%20of%20Sardines.md) | 3.6% | Yes |
+| ![](../assets/T-Shirt_icon.png) / *T-Shirt\_icon.png* | [T-Shirt](./T-Shirt.md) | 3.6% | Yes |
+| ![](../assets/Hoodie_icon.png) / *Hoodie\_icon.png* | [Hoodie](./Hoodie.md) | 3% | Yes |
+| ![](../assets/Revolver_Cartridge_icon.png) / *Revolver\_Cartridge\_icon.png* | [Revolver Cartridge](./Revolver%20Ammunition.md) | 2.5% | No |
+| ![](../assets/Charcoal_icon.png) / *Charcoal\_icon.png* | [Charcoal](./Charcoal.md) | 2.5% | Yes |
+| ![](../assets/Energy_Bar_icon.png) / *Energy\_Bar\_icon.png* | [Energy Bar](./Energy%20Bar.md) | 2.5% | No |
+| ![](../assets/Lantern_Fuel_icon.png) / *Lantern\_Fuel\_icon.png* | [Lantern Fuel](./Lantern%20Fuel.md) | 2.5% | Yes |
+| ![](../assets/Rifle_Cartridge_icon.png) / *Rifle\_Cartridge\_icon.png* | [Rifle Cartridge](./Rifle%20Ammunition.md) | 2.5% | No |
+| ![](../assets/Cotton_Scarf_icon.png) / *Cotton\_Scarf\_icon.png* | [Cotton Scarf](./Cotton%20Scarf.md) | 2.5% | Yes |
+| ![](../assets/Bandage_icon.png) / *Bandage\_icon.png* | [Bandage](./Bandage.md) | 2% | Yes |
+| ![](../assets/Sport_Vest_icon.png) / *Sport\_Vest\_icon.png* | [Sport Vest](./Sport%20Vest.md) | 2% | Yes |
+| ![](../assets/Windbreaker_icon.png) / *Windbreaker\_icon.png* | [Windbreaker](./Windbreaker.md) | 2% | Yes |
+| ![](../assets/Sports_Socks_icon.png) / *Sports\_Socks\_icon.png* | [Sports Socks](./Sports%20Socks.md) | 2% | Yes |
+| ![](../assets/Thermal_Underwear_icon.png) / *Thermal\_Underwear\_icon.png* | [Thermal Underwear](./Thermal%20Underwear.md) | 1.5% | Yes |
+| ![](../assets/Dog_Food_icon.png) / *Dog\_Food\_icon.png* | [Dog Food](./Dog%20Food.md) | 1.5% | Yes |
+| ![](../assets/Fishing_Tackle_icon.png) / *Fishing\_Tackle\_icon.png* | [Fishing Tackle](./Fishing%20Tackle.md) | 1.5% | No |
+| ![](../assets/Marine_Flare_icon.png) / *Marine\_Flare\_icon.png* | [Marine Flare](./Marine%20Flare.md) | 1.5% | Yes |
+| ![](../assets/Thick_Wool_Sweater_icon.png) / *Thick\_Wool\_Sweater\_icon.png* | [Thick Wool Sweater](./Thick%20Wool%20Sweater.md) | 1% | No |
+| ![](../assets/Condensed_Milk_icon.png) / *Condensed\_Milk\_icon.png* | [Condensed Milk](./Condensed%20Milk.md) | 1% | No |
+| ![](../assets/Spray_Paint_icon.png) / *Spray\_Paint\_icon.png* | [Spray Paint](./Spray%20Paint.md) | 1% | Yes |
+| ![](../assets/Arrowhead_icon.png) / *Arrowhead\_icon.png* | [Arrowhead](./Arrowhead.md) | 1% | Yes |
+| ![](../assets/Antibiotics_icon.png) / *Antibiotics\_icon.png* | [Antibiotics](./Antibiotics.md) | 0.5% | Yes |
+| ![](../assets/Painkillers_icon.png) / *Painkillers\_icon.png* | [Painkillers](./Painkillers.md) | 0.5% | Yes |
+| ![](../assets/Flare_Shell_icon.png) / *Flare\_Shell\_icon.png* | [Flare Shell](./Flare%20Shell.md) | 0.5% | No |
+| ![](../assets/Combat_Boots_icon.png) / *Combat\_Boots\_icon.png* | [Combat Boots](./Combat%20Boots.md) | 0.5% | Yes |
+| ![](../assets/Recycled_Can_icon.png) / *Recycled\_Can\_icon.png* | [Recycled Can](./Recycled%20Can.md) | 0.5% | Yes |
+| ![](../assets/Go!_Energy_Drink_icon.png) / *Go!\_Energy\_Drink\_icon.png* | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 0.5% | No |
+| ![](../assets/Maple_Syrup_icon.png) / *Maple\_Syrup\_icon.png* | [Maple Syrup](./Maple%20Syrup.md) | 0.5% | Yes |
+| ![](../assets/Whetstone_icon.png) / *Whetstone\_icon.png* | [Whetstone](./Whetstone.md) | 0.5% | Yes |
+| ![](../assets/Sewing_Kit_icon.png) / *Sewing\_Kit\_icon.png* | [Sewing Kit](./Sewing%20Kit.md) | 0.5% | Yes |
+| ![](../assets/Flashlight_icon.png) / *Flashlight\_icon.png* | [Flashlight](./Flashlight.md) | 0.5% | No |
 
-<table>
-<caption>style="width:100%; text-align: left;" | <a href="./Suitcase.md" class="wikilink" title="Suitcase">Suitcase</a></caption>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Icon</p></th>
-<th><p>Item</p></th>
-<th><p>Rarity</p></th>
-<th><figure>
-<img src="../assets/Misery_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Misery_icon.png</figcaption>
-</figure></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Sport_Vest_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sport_Vest_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sport%20Vest.md" class="wikilink" title="Sport Vest">Sport Vest</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Toque_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Toque_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Toque.md" class="wikilink" title="Wool Toque">Wool Toque</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Light_Shell_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Light_Shell_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Light%20Shell.md" class="wikilink" title="Light Shell">Light Shell</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cotton_Scarf_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cotton_Scarf_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cotton%20Scarf.md" class="wikilink" title="Cotton Scarf">Cotton Scarf</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Simple_Parka_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Simple_Parka_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Simple%20Parka.md" class="wikilink" title="Simple Parka">Simple Parka</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Running_Shoes_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Running_Shoes_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Running%20Shoes.md" class="wikilink" title="Running Shoes">Running Shoes</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Leather_Shoes_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Leather_Shoes_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Leather%20Shoes.md" class="wikilink" title="Leather Shoes">Leather Shoes</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Fleece_Mittens_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Fleece_Mittens_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fleece%20Mittens.md" class="wikilink" title="Fleece Mittens">Fleece Mittens</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Scarf_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Scarf_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Scarf.md" class="wikilink" title="Wool Scarf">Wool Scarf</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cotton_Toque_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cotton_Toque_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cotton%20Toque.md" class="wikilink" title="Cotton Toque">Cotton Toque</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Shirt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Shirt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Shirt.md" class="wikilink" title="Wool Shirt">Wool Shirt</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Down_Vest_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Down_Vest_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Down%20Vest.md" class="wikilink" title="Down Vest">Down Vest</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Thick_Wool_Sweater_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Thick_Wool_Sweater_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Thick%20Wool%20Sweater.md" class="wikilink" title="Thick Wool Sweater">Thick Wool Sweater</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Plaid_Shirt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Plaid_Shirt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Plaid%20Shirt.md" class="wikilink" title="Plaid Shirt">Plaid Shirt</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Socks_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Socks_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Socks.md" class="wikilink" title="Wool Socks">Wool Socks</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Baseball_Cap_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Baseball_Cap_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Baseball%20Cap.md" class="wikilink" title="Baseball Cap">Baseball Cap</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cargo_Pants_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cargo_Pants_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cargo%20Pants.md" class="wikilink" title="Cargo Pants">Cargo Pants</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Thin_Wool_Sweater_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Thin_Wool_Sweater_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Thin%20Wool%20Sweater.md" class="wikilink" title="Thin Wool Sweater">Thin Wool Sweater</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Hoodie_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Hoodie_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Hoodie.md" class="wikilink" title="Hoodie">Hoodie</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Dress_Shirt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Dress_Shirt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Dress%20Shirt.md" class="wikilink" title="Dress Shirt">Dress Shirt</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Sweatshirt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sweatshirt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sweatshirt.md" class="wikilink" title="Sweatshirt">Sweatshirt</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Thermal_Underwear_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Thermal_Underwear_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Thermal%20Underwear.md" class="wikilink" title="Thermal Underwear">Thermal Underwear</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/T-Shirt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>T-Shirt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./T-Shirt.md" class="wikilink" title="T-Shirt">T-Shirt</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Sports_Socks_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sports_Socks_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sports%20Socks.md" class="wikilink" title="Sports Socks">Sports Socks</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Jeans_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Jeans_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Jeans.md" class="wikilink" title="Jeans">Jeans</a></p></td>
-<td><p>3.26%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Ski_Jacket_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Ski_Jacket_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Ski%20Jacket.md" class="wikilink" title="Ski Jacket">Ski Jacket</a></p></td>
-<td><p>1.63%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Combat_Pants_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Combat_Pants_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Combat%20Pants.md" class="wikilink" title="Combat Pants">Combat Pants</a></p></td>
-<td><p>1.63%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Climbing_Socks_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Climbing_Socks_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Climbing%20Socks.md" class="wikilink" title="Climbing Socks">Climbing Socks</a></p></td>
-<td><p>1.63%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Longjohns_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Longjohns_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Longjohns.md" class="wikilink" title="Wool Longjohns">Wool Longjohns</a></p></td>
-<td><p>1.63%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Mittens_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Mittens_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Mittens.md" class="wikilink" title="Wool Mittens">Wool Mittens</a></p></td>
-<td><p>1.63%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Book_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Book_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Book.md" class="wikilink" title="Book">Book</a></p></td>
-<td><p>1.63%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Book_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Book_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Book.md" class="wikilink" title="Book">Book</a></p></td>
-<td><p>1.63%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Sewing_Kit_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sewing_Kit_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sewing%20Kit.md" class="wikilink" title="Sewing Kit">Sewing Kit</a></p></td>
-<td><p>1.63%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Book_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Book_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Book.md" class="wikilink" title="Book">Book</a></p></td>
-<td><p>1.63%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Hockey_Jersey_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Hockey_Jersey_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Hockey%20Jersey.md" class="wikilink" title="Hockey Jersey">Hockey Jersey</a></p></td>
-<td><p>1.63%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Antibiotics_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Antibiotics_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Antibiotics.md" class="wikilink" title="Antibiotics">Antibiotics</a></p></td>
-<td><p>0.82%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Painkillers_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Painkillers_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Painkillers.md" class="wikilink" title="Painkillers">Painkillers</a></p></td>
-<td><p>0.82%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Fisherman%27s_Sweater_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Fisherman's_Sweater_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fisherman%27s%20Sweater.md" class="wikilink" title="Fisherman&#39;s Sweater">Fisherman's Sweater</a></p></td>
-<td><p>0.16%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Fishing_Tackle_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Fishing_Tackle_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fishing%20Tackle.md" class="wikilink" title="Fishing Tackle">Fishing Tackle</a></p></td>
-<td><p>0.16%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Firearm_Cleaning_Kit_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Firearm_Cleaning_Kit_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Firearm%20Cleaning%20Kit.md" class="wikilink" title="Firearm Cleaning Kit">Firearm Cleaning Kit</a></p></td>
-<td><p>0.16%</p></td>
-<td><p>No</p></td>
-</tr>
-</tbody>
-</table>
+**style="width:100%; text-align: left;" | [Trunk](./Trunk.md)**
 
-<table>
-<caption>style="width:100%; text-align: left;" | <a href="./Backpack.md" class="wikilink" title="Backpack">Backpack</a></caption>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Icon</p></th>
-<th><p>Item</p></th>
-<th><p>Rarity</p></th>
-<th><figure>
-<img src="../assets/Misery_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Misery_icon.png</figcaption>
-</figure></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Beef_Jerky_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Beef_Jerky_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Beef%20Jerky.md" class="wikilink" title="Beef Jerky">Beef Jerky</a></p></td>
-<td><p>7.46%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Chocolate_Bar_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Chocolate_Bar_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Chocolate%20Bar.md" class="wikilink" title="Chocolate Bar">Chocolate Bar</a></p></td>
-<td><p>7.46%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Ketchup_Chips_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Ketchup_Chips_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Ketchup%20Chips.md" class="wikilink" title="Ketchup Chips">Ketchup Chips</a></p></td>
-<td><p>6.72%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Granola_Bar_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Granola_Bar_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Granola%20Bar.md" class="wikilink" title="Granola Bar">Granola Bar</a></p></td>
-<td><p>6.72%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Summit_Soda_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Summit_Soda_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Summit%20Soda.md" class="wikilink" title="Summit Soda">Summit Soda</a></p></td>
-<td><p>5.97%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Stacy%27s_Grape_Soda_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Stacy's_Grape_Soda_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Stacy%27s%20Grape%20Soda.md" class="wikilink" title="Stacy&#39;s Grape Soda">Stacy's Grape Soda</a></p></td>
-<td><p>5.97%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wood_Matches_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wood_Matches_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wood%20Matches.md" class="wikilink" title="Wood Matches">Wood Matches</a></p></td>
-<td><p>5.22%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Dog_Food_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Dog_Food_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Dog%20Food.md" class="wikilink" title="Dog Food">Dog Food</a></p></td>
-<td><p>5.22%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Spray_Paint_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Spray_Paint_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Spray%20Paint.md" class="wikilink" title="Spray Paint">Spray Paint</a></p></td>
-<td><p>5.22%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Water_%28Potable%29_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Water_(Potable)_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Water%20%28Potable%29.md" class="wikilink" title="Water (Potable)">Water (Potable)</a></p></td>
-<td><p>4.48%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Tin_of_Sardines_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Tin_of_Sardines_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Tin%20of%20Sardines.md" class="wikilink" title="Tin of Sardines">Tin of Sardines</a></p></td>
-<td><p>4.48%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Accelerant_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Accelerant_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Accelerant.md" class="wikilink" title="Accelerant">Accelerant</a></p></td>
-<td><p>3.73%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Salty_Crackers_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Salty_Crackers_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Salty%20Crackers.md" class="wikilink" title="Salty Crackers">Salty Crackers</a></p></td>
-<td><p>3.73%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Pinnacle_Peaches_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Pinnacle_Peaches_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Pinnacle%20Peaches.md" class="wikilink" title="Pinnacle Peaches">Pinnacle Peaches</a></p></td>
-<td><p>2.99%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Energy_Bar_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Energy_Bar_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Energy%20Bar.md" class="wikilink" title="Energy Bar">Energy Bar</a></p></td>
-<td><p>2.99%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Toque_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Toque_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Toque.md" class="wikilink" title="Wool Toque">Wool Toque</a></p></td>
-<td><p>2.24%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Mittens_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Mittens_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Mittens.md" class="wikilink" title="Wool Mittens">Wool Mittens</a></p></td>
-<td><p>2.24%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/T-Shirt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>T-Shirt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./T-Shirt.md" class="wikilink" title="T-Shirt">T-Shirt</a></p></td>
-<td><p>2.24%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Baseball_Cap_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Baseball_Cap_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Baseball%20Cap.md" class="wikilink" title="Baseball Cap">Baseball Cap</a></p></td>
-<td><p>2.24%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Socks_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Socks_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Socks.md" class="wikilink" title="Wool Socks">Wool Socks</a></p></td>
-<td><p>1.49%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Down_Vest_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Down_Vest_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Down%20Vest.md" class="wikilink" title="Down Vest">Down Vest</a></p></td>
-<td><p>1.49%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Hoodie_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Hoodie_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Hoodie.md" class="wikilink" title="Hoodie">Hoodie</a></p></td>
-<td><p>1.49%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Military-Grade_MRE_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Military-Grade_MRE_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Military-Grade%20MRE.md" class="wikilink" title="Military-Grade MRE">Military-Grade MRE</a></p></td>
-<td><p>0.75%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Thin_Wool_Sweater_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Thin_Wool_Sweater_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Thin%20Wool%20Sweater.md" class="wikilink" title="Thin Wool Sweater">Thin Wool Sweater</a></p></td>
-<td><p>0.75%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Rifle_Cartridge_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Rifle_Cartridge_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Rifle%20Ammunition.md" class="wikilink" title="Rifle Cartridge">Rifle Cartridge</a></p></td>
-<td><p>0.75%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Fishing_Tackle_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Fishing_Tackle_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fishing%20Tackle.md" class="wikilink" title="Fishing Tackle">Fishing Tackle</a></p></td>
-<td><p>0.75%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flare_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flare_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flare.md" class="wikilink" title="Flare">Flare</a></p></td>
-<td><p>0.75%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Climbing_Socks_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Climbing_Socks_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Climbing%20Socks.md" class="wikilink" title="Climbing Socks">Climbing Socks</a></p></td>
-<td><p>0.75%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Recycled_Can_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Recycled_Can_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Recycled%20Can.md" class="wikilink" title="Recycled Can">Recycled Can</a></p></td>
-<td><p>0.75%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Go!_Energy_Drink_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Go!_Energy_Drink_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Go!%20Energy%20Drink.md" class="wikilink" title="Go! Energy Drink">Go! Energy Drink</a></p></td>
-<td><p>0.75%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Revolver_Cartridge_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Revolver_Cartridge_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Revolver%20Ammunition.md" class="wikilink" title="Revolver Cartridge">Revolver Cartridge</a></p></td>
-<td><p>0.75%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Marine_Flare_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Marine_Flare_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Marine%20Flare.md" class="wikilink" title="Marine Flare">Marine Flare</a></p></td>
-<td><p>0.75%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Maple_Syrup_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Maple_Syrup_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Maple%20Syrup.md" class="wikilink" title="Maple Syrup">Maple Syrup</a></p></td>
-<td><p>0.75%</p></td>
-<td><p>Yes</p></td>
-</tr>
-</tbody>
-</table>
+| Icon | Item | Rarity | ![](../assets/Misery_icon.png) / *Misery\_icon.png* |
+| --- | --- | --- | --- |
+| ![](../assets/Ski_Jacket_icon.png) / *Ski\_Jacket\_icon.png* | [Ski Jacket](./Ski%20Jacket.md) | 8.57% | Yes |
+| ![](../assets/Windbreaker_icon.png) / *Windbreaker\_icon.png* | [Windbreaker](./Windbreaker.md) | 8.57% | Yes |
+| ![](../assets/Sport_Vest_icon.png) / *Sport\_Vest\_icon.png* | [Sport Vest](./Sport%20Vest.md) | 8.57% | Yes |
+| ![](../assets/Simple_Parka_icon.png) / *Simple\_Parka\_icon.png* | [Simple Parka](./Simple%20Parka.md) | 8.57% | Yes |
+| ![](../assets/Light_Shell_icon.png) / *Light\_Shell\_icon.png* | [Light Shell](./Light%20Shell.md) | 8.57% | Yes |
+| ![](../assets/Cotton_Toque_icon.png) / *Cotton\_Toque\_icon.png* | [Cotton Toque](./Cotton%20Toque.md) | 5.71% | Yes |
+| ![](../assets/Fleece_Mittens_icon.png) / *Fleece\_Mittens\_icon.png* | [Fleece Mittens](./Fleece%20Mittens.md) | 5.71% | Yes |
+| ![](../assets/Down_Vest_icon.png) / *Down\_Vest\_icon.png* | [Down Vest](./Down%20Vest.md) | 3.43% | Yes |
+| ![](../assets/Old_Fashioned_Parka_icon.png) / *Old\_Fashioned\_Parka\_icon.png* | [Old Fashioned Parka](./Old%20Fashioned%20Parka.md) | 3.43% | No |
+| ![](../assets/Wool_Scarf_icon.png) / *Wool\_Scarf\_icon.png* | [Wool Scarf](./Wool%20Scarf.md) | 3.43% | Yes |
+| ![](../assets/Wool_Toque_icon.png) / *Wool\_Toque\_icon.png* | [Wool Toque](./Wool%20Toque.md) | 3.43% | Yes |
+| ![](../assets/Trail_Boots_icon.png) / *Trail\_Boots\_icon.png* | [Trail Boots](./Trail%20Boots.md) | 3.43% | Yes |
+| ![](../assets/Wool_Mittens_icon.png) / *Wool\_Mittens\_icon.png* | [Wool Mittens](./Wool%20Mittens.md) | 3.43% | No |
+| ![](../assets/Driving_Gloves_icon.png) / *Driving\_Gloves\_icon.png* | [Driving Gloves](./Driving%20Gloves.md) | 3.43% | Yes |
+| ![](../assets/Hoodie_icon.png) / *Hoodie\_icon.png* | [Hoodie](./Hoodie.md) | 3.43% | Yes |
+| ![](../assets/Running_Shoes_icon.png) / *Running\_Shoes\_icon.png* | [Running Shoes](./Running%20Shoes.md) | 3.43% | Yes |
+| ![](../assets/Ski_Gloves_icon.png) / *Ski\_Gloves\_icon.png* | [Ski Gloves](./Ski%20Gloves.md) | 1.71% | No |
+| ![](../assets/Urban_Parka_icon.png) / *Urban\_Parka\_icon.png* | [Urban Parka](./Urban%20Parka.md) | 1.71% | No |
+| ![](../assets/Military_Coat_icon.png) / *Military\_Coat\_icon.png* | [Military Coat](./Military%20Coat.md) | 1.71% | No |
+| ![](../assets/Newsprint_icon.png) / *Newsprint\_icon.png* | [Newsprint](./Newsprint.md) | 1.71% | Yes |
+| ![](../assets/Cloth_icon.png) / *Cloth\_icon.png* | [Cloth](./Cloth.md) | 1.71% | Yes |
+| ![](../assets/Mackinaw_Jacket_icon.png) / *Mackinaw\_Jacket\_icon.png* | [Mackinaw Jacket](./Mackinaw%20Jacket.md) | 0.57% | Yes |
+| ![](../assets/Mariner%27s_Pea_Coat_icon.png) / *Mariner's\_Pea\_Coat\_icon.png* | [Mariner's Pea Coat](./Mariner%27s%20Pea%20Coat.md) | 0.57% | No |
+| ![](../assets/Long_Wool_Scarf_icon.png) / *Long\_Wool\_Scarf\_icon.png* | [Long Wool Scarf](./Long%20Wool%20Scarf.md) | 0.57% | No |
+| ![](../assets/Insulated_Boots_icon.png) / *Insulated\_Boots\_icon.png* | [Insulated Boots](./Insulated%20Boots.md) | 0.57% | No |
+| ![](../assets/Mukluks_icon.png) / *Mukluks\_icon.png* | [Mukluks](./Mukluks.md) | 0.57% | No |
+| ![](../assets/Ski_Boots_icon.png) / *Ski\_Boots\_icon.png* | [Ski Boots](./Ski%20Boots.md) | 0.57% | No |
+| ![](../assets/Snow_Pants_icon.png) / *Snow\_Pants\_icon.png* | [Snow Pants](./Snow%20Pants.md) | 0.57% | No |
+| ![](../assets/Flare_icon.png) / *Flare\_icon.png* | [Flare](./Flare.md) | 0.57% | Yes |
+| ![](../assets/Cowichan_Sweater_icon.png) / *Cowichan\_Sweater\_icon.png* | [Cowichan Sweater](./Cowichan%20Sweater.md) | 0.57% | No |
+| ![](../assets/Expedition_Parka_icon.png) / *Expedition\_Parka\_icon.png* | [Expedition Parka](./Expedition%20Parka.md) | 0.57% | No |
+| ![](../assets/Flight_Jacket_icon.png) / *Flight\_Jacket\_icon.png* | [Flight Jacket](./Flight%20Jacket.md) | 0.57% | No |
 
-<table>
-<caption>style="width:100%; text-align: left;" | <a href="./Locker.md" class="wikilink" title="Locker">Locker</a> (single or double)</caption>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Icon</p></th>
-<th><p>Item</p></th>
-<th><p>Rarity</p></th>
-<th><figure>
-<img src="../assets/Misery_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Misery_icon.png</figcaption>
-</figure></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Trail_Boots_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Trail_Boots_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Trail%20Boots.md" class="wikilink" title="Trail Boots">Trail Boots</a></p></td>
-<td><p>3.45%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Running_Shoes_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Running_Shoes_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Running%20Shoes.md" class="wikilink" title="Running Shoes">Running Shoes</a></p></td>
-<td><p>3.45%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Leather_Shoes_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Leather_Shoes_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Leather%20Shoes.md" class="wikilink" title="Leather Shoes">Leather Shoes</a></p></td>
-<td><p>3.45%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Driving_Gloves_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Driving_Gloves_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Driving%20Gloves.md" class="wikilink" title="Driving Gloves">Driving Gloves</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Windbreaker_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Windbreaker_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Windbreaker.md" class="wikilink" title="Windbreaker">Windbreaker</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cotton_Toque_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cotton_Toque_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cotton%20Toque.md" class="wikilink" title="Cotton Toque">Cotton Toque</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Hoodie_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Hoodie_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Hoodie.md" class="wikilink" title="Hoodie">Hoodie</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Sweatshirt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sweatshirt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sweatshirt.md" class="wikilink" title="Sweatshirt">Sweatshirt</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Sport_Vest_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sport_Vest_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sport%20Vest.md" class="wikilink" title="Sport Vest">Sport Vest</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Jeans_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Jeans_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Jeans.md" class="wikilink" title="Jeans">Jeans</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Newsprint_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Newsprint_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Newsprint.md" class="wikilink" title="Newsprint">Newsprint</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Plaid_Shirt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Plaid_Shirt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Plaid%20Shirt.md" class="wikilink" title="Plaid Shirt">Plaid Shirt</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/T-Shirt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>T-Shirt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./T-Shirt.md" class="wikilink" title="T-Shirt">T-Shirt</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wood_Matches_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wood_Matches_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wood%20Matches.md" class="wikilink" title="Wood Matches">Wood Matches</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Book_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Book_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Book.md" class="wikilink" title="Book">Book</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Book_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Book_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Book.md" class="wikilink" title="Book">Book</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cloth_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cloth_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cotton_Scarf_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cotton_Scarf_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cotton%20Scarf.md" class="wikilink" title="Cotton Scarf">Cotton Scarf</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Ketchup_Chips_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Ketchup_Chips_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Ketchup%20Chips.md" class="wikilink" title="Ketchup Chips">Ketchup Chips</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Lantern_Fuel_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Lantern_Fuel_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Lantern%20Fuel.md" class="wikilink" title="Lantern Fuel">Lantern Fuel</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Simple_Parka_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Simple_Parka_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Simple%20Parka.md" class="wikilink" title="Simple Parka">Simple Parka</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Newsprint_Roll_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Newsprint_Roll_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Newsprint%20Roll.md" class="wikilink" title="Newsprint Roll">Newsprint Roll</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Scrap_Metal_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Scrap_Metal_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Light_Shell_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Light_Shell_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Light%20Shell.md" class="wikilink" title="Light Shell">Light Shell</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Accelerant_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Accelerant_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Accelerant.md" class="wikilink" title="Accelerant">Accelerant</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Scarf_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Scarf_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Scarf.md" class="wikilink" title="Wool Scarf">Wool Scarf</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Marine_Flare_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Marine_Flare_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Marine%20Flare.md" class="wikilink" title="Marine Flare">Marine Flare</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Antiseptic_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Antiseptic_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Antiseptic.md" class="wikilink" title="Antiseptic">Antiseptic</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Painkillers_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Painkillers_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Painkillers.md" class="wikilink" title="Painkillers">Painkillers</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Chocolate_Bar_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Chocolate_Bar_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Chocolate%20Bar.md" class="wikilink" title="Chocolate Bar">Chocolate Bar</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Pork_and_Beans_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Pork_and_Beans_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Pork%20and%20Beans.md" class="wikilink" title="Pork and Beans">Pork and Beans</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Down_Vest_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Down_Vest_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Down%20Vest.md" class="wikilink" title="Down Vest">Down Vest</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flare_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flare_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flare.md" class="wikilink" title="Flare">Flare</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Fleece_Mittens_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Fleece_Mittens_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fleece%20Mittens.md" class="wikilink" title="Fleece Mittens">Fleece Mittens</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Revolver_Cartridge_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Revolver_Cartridge_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Revolver%20Ammunition.md" class="wikilink" title="Revolver Cartridge">Revolver Cartridge</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Summit_Soda_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Summit_Soda_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Summit%20Soda.md" class="wikilink" title="Summit Soda">Summit Soda</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Go!_Energy_Drink_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Go!_Energy_Drink_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Go!%20Energy%20Drink.md" class="wikilink" title="Go! Energy Drink">Go! Energy Drink</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Stacy%27s_Grape_Soda_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Stacy's_Grape_Soda_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Stacy%27s%20Grape%20Soda.md" class="wikilink" title="Stacy&#39;s Grape Soda">Stacy's Grape Soda</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Spray_Paint_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Spray_Paint_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Spray%20Paint.md" class="wikilink" title="Spray Paint">Spray Paint</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Toque_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Toque_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Toque.md" class="wikilink" title="Wool Toque">Wool Toque</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Water_Purification_Tablets_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Water_Purification_Tablets_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Water%20Purification%20Tablets.md" class="wikilink" title="Water Purification Tablets">Water Purification Tablets</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Thin_Wool_Sweater_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Thin_Wool_Sweater_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Thin%20Wool%20Sweater.md" class="wikilink" title="Thin Wool Sweater">Thin Wool Sweater</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Work_Boots_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Work_Boots_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Work%20Boots.md" class="wikilink" title="Work Boots">Work Boots</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Work_Gloves_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Work_Gloves_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Work%20Gloves.md" class="wikilink" title="Work Gloves">Work Gloves</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cargo_Pants_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cargo_Pants_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cargo%20Pants.md" class="wikilink" title="Cargo Pants">Cargo Pants</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Combat_Boots_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Combat_Boots_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Combat%20Boots.md" class="wikilink" title="Combat Boots">Combat Boots</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flare_Shell_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flare_Shell_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flare%20Shell.md" class="wikilink" title="Flare Shell">Flare Shell</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Replacement_Fuse_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Replacement_Fuse_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Replacement%20Fuse.md" class="wikilink" title="Replacement Fuse">Replacement Fuse</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cured_Leather_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cured_Leather_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cured%20Leather.md" class="wikilink" title="Cured Leather">Cured Leather</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Line_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Line_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Line.md" class="wikilink" title="Line">Line</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Thermal_Underwear_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Thermal_Underwear_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Thermal%20Underwear.md" class="wikilink" title="Thermal Underwear">Thermal Underwear</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Mittens_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Mittens_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Mittens.md" class="wikilink" title="Wool Mittens">Wool Mittens</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Stack_of_Papers_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Stack_of_Papers_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Stack%20of%20Papers.md" class="wikilink" title="Stack of Papers">Stack of Papers</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Simple_Tools_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Simple_Tools_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Simple%20Tools.md" class="wikilink" title="Simple Tools">Simple Tools</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Tinder_Plug_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Tinder_Plug_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Tinder%20Plug.md" class="wikilink" title="Tinder Plug">Tinder Plug</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Tomato_Soup_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Tomato_Soup_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Tomato%20Soup.md" class="wikilink" title="Tomato Soup">Tomato Soup</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Water_%28Potable%29_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Water_(Potable)_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Water%20%28Potable%29.md" class="wikilink" title="Water (Potable)">Water (Potable)</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wires_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wires_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wires.md" class="wikilink" title="Wires">Wires</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Work_Pants_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Work_Pants_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Work%20Pants.md" class="wikilink" title="Work Pants">Work Pants</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Arrowhead_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Arrowhead_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Arrowhead.md" class="wikilink" title="Arrowhead">Arrowhead</a></p></td>
-<td><p>0.42%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Rifle_Shell_Casing_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Rifle_Shell_Casing_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Rifle%20Shell%20Casing.md" class="wikilink" title="Rifle Shell Casing">Rifle Shell Casing</a></p></td>
-<td><p>0.42%</p></td>
-<td><p>No</p></td>
-</tr>
-</tbody>
-</table>
+**style="width:100%; text-align: left;" | [Suitcase](./Suitcase.md)**
+
+| Icon | Item | Rarity | ![](../assets/Misery_icon.png) / *Misery\_icon.png* |
+| --- | --- | --- | --- |
+| ![](../assets/Sport_Vest_icon.png) / *Sport\_Vest\_icon.png* | [Sport Vest](./Sport%20Vest.md) | 3.26% | Yes |
+| ![](../assets/Wool_Toque_icon.png) / *Wool\_Toque\_icon.png* | [Wool Toque](./Wool%20Toque.md) | 3.26% | Yes |
+| ![](../assets/Light_Shell_icon.png) / *Light\_Shell\_icon.png* | [Light Shell](./Light%20Shell.md) | 3.26% | Yes |
+| ![](../assets/Cotton_Scarf_icon.png) / *Cotton\_Scarf\_icon.png* | [Cotton Scarf](./Cotton%20Scarf.md) | 3.26% | Yes |
+| ![](../assets/Simple_Parka_icon.png) / *Simple\_Parka\_icon.png* | [Simple Parka](./Simple%20Parka.md) | 3.26% | Yes |
+| ![](../assets/Running_Shoes_icon.png) / *Running\_Shoes\_icon.png* | [Running Shoes](./Running%20Shoes.md) | 3.26% | Yes |
+| ![](../assets/Leather_Shoes_icon.png) / *Leather\_Shoes\_icon.png* | [Leather Shoes](./Leather%20Shoes.md) | 3.26% | Yes |
+| ![](../assets/Fleece_Mittens_icon.png) / *Fleece\_Mittens\_icon.png* | [Fleece Mittens](./Fleece%20Mittens.md) | 3.26% | Yes |
+| ![](../assets/Wool_Scarf_icon.png) / *Wool\_Scarf\_icon.png* | [Wool Scarf](./Wool%20Scarf.md) | 3.26% | Yes |
+| ![](../assets/Cotton_Toque_icon.png) / *Cotton\_Toque\_icon.png* | [Cotton Toque](./Cotton%20Toque.md) | 3.26% | Yes |
+| ![](../assets/Wool_Shirt_icon.png) / *Wool\_Shirt\_icon.png* | [Wool Shirt](./Wool%20Shirt.md) | 3.26% | No |
+| ![](../assets/Down_Vest_icon.png) / *Down\_Vest\_icon.png* | [Down Vest](./Down%20Vest.md) | 3.26% | Yes |
+| ![](../assets/Thick_Wool_Sweater_icon.png) / *Thick\_Wool\_Sweater\_icon.png* | [Thick Wool Sweater](./Thick%20Wool%20Sweater.md) | 3.26% | No |
+| ![](../assets/Plaid_Shirt_icon.png) / *Plaid\_Shirt\_icon.png* | [Plaid Shirt](./Plaid%20Shirt.md) | 3.26% | Yes |
+| ![](../assets/Wool_Socks_icon.png) / *Wool\_Socks\_icon.png* | [Wool Socks](./Wool%20Socks.md) | 3.26% | Yes |
+| ![](../assets/Baseball_Cap_icon.png) / *Baseball\_Cap\_icon.png* | [Baseball Cap](./Baseball%20Cap.md) | 3.26% | Yes |
+| ![](../assets/Cargo_Pants_icon.png) / *Cargo\_Pants\_icon.png* | [Cargo Pants](./Cargo%20Pants.md) | 3.26% | No |
+| ![](../assets/Thin_Wool_Sweater_icon.png) / *Thin\_Wool\_Sweater\_icon.png* | [Thin Wool Sweater](./Thin%20Wool%20Sweater.md) | 3.26% | Yes |
+| ![](../assets/Hoodie_icon.png) / *Hoodie\_icon.png* | [Hoodie](./Hoodie.md) | 3.26% | Yes |
+| ![](../assets/Dress_Shirt_icon.png) / *Dress\_Shirt\_icon.png* | [Dress Shirt](./Dress%20Shirt.md) | 3.26% | Yes |
+| ![](../assets/Sweatshirt_icon.png) / *Sweatshirt\_icon.png* | [Sweatshirt](./Sweatshirt.md) | 3.26% | Yes |
+| ![](../assets/Thermal_Underwear_icon.png) / *Thermal\_Underwear\_icon.png* | [Thermal Underwear](./Thermal%20Underwear.md) | 3.26% | Yes |
+| ![](../assets/T-Shirt_icon.png) / *T-Shirt\_icon.png* | [T-Shirt](./T-Shirt.md) | 3.26% | Yes |
+| ![](../assets/Sports_Socks_icon.png) / *Sports\_Socks\_icon.png* | [Sports Socks](./Sports%20Socks.md) | 3.26% | Yes |
+| ![](../assets/Jeans_icon.png) / *Jeans\_icon.png* | [Jeans](./Jeans.md) | 3.26% | Yes |
+| ![](../assets/Ski_Jacket_icon.png) / *Ski\_Jacket\_icon.png* | [Ski Jacket](./Ski%20Jacket.md) | 1.63% | Yes |
+| ![](../assets/Combat_Pants_icon.png) / *Combat\_Pants\_icon.png* | [Combat Pants](./Combat%20Pants.md) | 1.63% | Yes |
+| ![](../assets/Climbing_Socks_icon.png) / *Climbing\_Socks\_icon.png* | [Climbing Socks](./Climbing%20Socks.md) | 1.63% | No |
+| ![](../assets/Wool_Longjohns_icon.png) / *Wool\_Longjohns\_icon.png* | [Wool Longjohns](./Wool%20Longjohns.md) | 1.63% | No |
+| ![](../assets/Wool_Mittens_icon.png) / *Wool\_Mittens\_icon.png* | [Wool Mittens](./Wool%20Mittens.md) | 1.63% | No |
+| ![](../assets/Book_icon.png) / *Book\_icon.png* | [Book](./Book.md) | 1.63% | Yes |
+| ![](../assets/Book_icon.png) / *Book\_icon.png* | [Book](./Book.md) | 1.63% | Yes |
+| ![](../assets/Sewing_Kit_icon.png) / *Sewing\_Kit\_icon.png* | [Sewing Kit](./Sewing%20Kit.md) | 1.63% | Yes |
+| ![](../assets/Book_icon.png) / *Book\_icon.png* | [Book](./Book.md) | 1.63% | Yes |
+| ![](../assets/Hockey_Jersey_icon.png) / *Hockey\_Jersey\_icon.png* | [Hockey Jersey](./Hockey%20Jersey.md) | 1.63% | Yes |
+| ![](../assets/Antibiotics_icon.png) / *Antibiotics\_icon.png* | [Antibiotics](./Antibiotics.md) | 0.82% | Yes |
+| ![](../assets/Painkillers_icon.png) / *Painkillers\_icon.png* | [Painkillers](./Painkillers.md) | 0.82% | Yes |
+| ![](../assets/Fisherman%27s_Sweater_icon.png) / *Fisherman's\_Sweater\_icon.png* | [Fisherman's Sweater](./Fisherman%27s%20Sweater.md) | 0.16% | No |
+| ![](../assets/Fishing_Tackle_icon.png) / *Fishing\_Tackle\_icon.png* | [Fishing Tackle](./Fishing%20Tackle.md) | 0.16% | No |
+| ![](../assets/Firearm_Cleaning_Kit_icon.png) / *Firearm\_Cleaning\_Kit\_icon.png* | [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) | 0.16% | No |
+
+**style="width:100%; text-align: left;" | [Backpack](./Backpack.md)**
+
+| Icon | Item | Rarity | ![](../assets/Misery_icon.png) / *Misery\_icon.png* |
+| --- | --- | --- | --- |
+| ![](../assets/Beef_Jerky_icon.png) / *Beef\_Jerky\_icon.png* | [Beef Jerky](./Beef%20Jerky.md) | 7.46% | Yes |
+| ![](../assets/Chocolate_Bar_icon.png) / *Chocolate\_Bar\_icon.png* | [Chocolate Bar](./Chocolate%20Bar.md) | 7.46% | Yes |
+| ![](../assets/Ketchup_Chips_icon.png) / *Ketchup\_Chips\_icon.png* | [Ketchup Chips](./Ketchup%20Chips.md) | 6.72% | Yes |
+| ![](../assets/Granola_Bar_icon.png) / *Granola\_Bar\_icon.png* | [Granola Bar](./Granola%20Bar.md) | 6.72% | Yes |
+| ![](../assets/Summit_Soda_icon.png) / *Summit\_Soda\_icon.png* | [Summit Soda](./Summit%20Soda.md) | 5.97% | Yes |
+| ![](../assets/Stacy%27s_Grape_Soda_icon.png) / *Stacy's\_Grape\_Soda\_icon.png* | [Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md) | 5.97% | No |
+| ![](../assets/Wood_Matches_icon.png) / *Wood\_Matches\_icon.png* | [Wood Matches](./Wood%20Matches.md) | 5.22% | Yes |
+| ![](../assets/Dog_Food_icon.png) / *Dog\_Food\_icon.png* | [Dog Food](./Dog%20Food.md) | 5.22% | Yes |
+| ![](../assets/Spray_Paint_icon.png) / *Spray\_Paint\_icon.png* | [Spray Paint](./Spray%20Paint.md) | 5.22% | Yes |
+| ![](../assets/Water_%28Potable%29_icon.png) / *Water\_(Potable)\_icon.png* | [Water (Potable)](./Water%20%28Potable%29.md) | 4.48% | No |
+| ![](../assets/Tin_of_Sardines_icon.png) / *Tin\_of\_Sardines\_icon.png* | [Tin of Sardines](./Tin%20of%20Sardines.md) | 4.48% | Yes |
+| ![](../assets/Accelerant_icon.png) / *Accelerant\_icon.png* | [Accelerant](./Accelerant.md) | 3.73% | Yes |
+| ![](../assets/Salty_Crackers_icon.png) / *Salty\_Crackers\_icon.png* | [Salty Crackers](./Salty%20Crackers.md) | 3.73% | Yes |
+| ![](../assets/Pinnacle_Peaches_icon.png) / *Pinnacle\_Peaches\_icon.png* | [Pinnacle Peaches](./Pinnacle%20Peaches.md) | 2.99% | Yes |
+| ![](../assets/Energy_Bar_icon.png) / *Energy\_Bar\_icon.png* | [Energy Bar](./Energy%20Bar.md) | 2.99% | No |
+| ![](../assets/Wool_Toque_icon.png) / *Wool\_Toque\_icon.png* | [Wool Toque](./Wool%20Toque.md) | 2.24% | Yes |
+| ![](../assets/Wool_Mittens_icon.png) / *Wool\_Mittens\_icon.png* | [Wool Mittens](./Wool%20Mittens.md) | 2.24% | No |
+| ![](../assets/T-Shirt_icon.png) / *T-Shirt\_icon.png* | [T-Shirt](./T-Shirt.md) | 2.24% | Yes |
+| ![](../assets/Baseball_Cap_icon.png) / *Baseball\_Cap\_icon.png* | [Baseball Cap](./Baseball%20Cap.md) | 2.24% | Yes |
+| ![](../assets/Wool_Socks_icon.png) / *Wool\_Socks\_icon.png* | [Wool Socks](./Wool%20Socks.md) | 1.49% | Yes |
+| ![](../assets/Down_Vest_icon.png) / *Down\_Vest\_icon.png* | [Down Vest](./Down%20Vest.md) | 1.49% | Yes |
+| ![](../assets/Hoodie_icon.png) / *Hoodie\_icon.png* | [Hoodie](./Hoodie.md) | 1.49% | Yes |
+| ![](../assets/Military-Grade_MRE_icon.png) / *Military-Grade\_MRE\_icon.png* | [Military-Grade MRE](./Military-Grade%20MRE.md) | 0.75% | No |
+| ![](../assets/Thin_Wool_Sweater_icon.png) / *Thin\_Wool\_Sweater\_icon.png* | [Thin Wool Sweater](./Thin%20Wool%20Sweater.md) | 0.75% | Yes |
+| ![](../assets/Rifle_Cartridge_icon.png) / *Rifle\_Cartridge\_icon.png* | [Rifle Cartridge](./Rifle%20Ammunition.md) | 0.75% | No |
+| ![](../assets/Fishing_Tackle_icon.png) / *Fishing\_Tackle\_icon.png* | [Fishing Tackle](./Fishing%20Tackle.md) | 0.75% | No |
+| ![](../assets/Flare_icon.png) / *Flare\_icon.png* | [Flare](./Flare.md) | 0.75% | Yes |
+| ![](../assets/Climbing_Socks_icon.png) / *Climbing\_Socks\_icon.png* | [Climbing Socks](./Climbing%20Socks.md) | 0.75% | No |
+| ![](../assets/Recycled_Can_icon.png) / *Recycled\_Can\_icon.png* | [Recycled Can](./Recycled%20Can.md) | 0.75% | Yes |
+| ![](../assets/Go!_Energy_Drink_icon.png) / *Go!\_Energy\_Drink\_icon.png* | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 0.75% | No |
+| ![](../assets/Revolver_Cartridge_icon.png) / *Revolver\_Cartridge\_icon.png* | [Revolver Cartridge](./Revolver%20Ammunition.md) | 0.75% | No |
+| ![](../assets/Marine_Flare_icon.png) / *Marine\_Flare\_icon.png* | [Marine Flare](./Marine%20Flare.md) | 0.75% | Yes |
+| ![](../assets/Maple_Syrup_icon.png) / *Maple\_Syrup\_icon.png* | [Maple Syrup](./Maple%20Syrup.md) | 0.75% | Yes |
+
+**style="width:100%; text-align: left;" | [Locker](./Locker.md) (single or double)**
+
+| Icon | Item | Rarity | ![](../assets/Misery_icon.png) / *Misery\_icon.png* |
+| --- | --- | --- | --- |
+| ![](../assets/Trail_Boots_icon.png) / *Trail\_Boots\_icon.png* | [Trail Boots](./Trail%20Boots.md) | 3.45% | Yes |
+| ![](../assets/Running_Shoes_icon.png) / *Running\_Shoes\_icon.png* | [Running Shoes](./Running%20Shoes.md) | 3.45% | Yes |
+| ![](../assets/Leather_Shoes_icon.png) / *Leather\_Shoes\_icon.png* | [Leather Shoes](./Leather%20Shoes.md) | 3.45% | Yes |
+| ![](../assets/Driving_Gloves_icon.png) / *Driving\_Gloves\_icon.png* | [Driving Gloves](./Driving%20Gloves.md) | 2.76% | Yes |
+| ![](../assets/Windbreaker_icon.png) / *Windbreaker\_icon.png* | [Windbreaker](./Windbreaker.md) | 2.76% | Yes |
+| ![](../assets/Cotton_Toque_icon.png) / *Cotton\_Toque\_icon.png* | [Cotton Toque](./Cotton%20Toque.md) | 2.76% | Yes |
+| ![](../assets/Hoodie_icon.png) / *Hoodie\_icon.png* | [Hoodie](./Hoodie.md) | 2.76% | Yes |
+| ![](../assets/Sweatshirt_icon.png) / *Sweatshirt\_icon.png* | [Sweatshirt](./Sweatshirt.md) | 2.76% | Yes |
+| ![](../assets/Sport_Vest_icon.png) / *Sport\_Vest\_icon.png* | [Sport Vest](./Sport%20Vest.md) | 2.76% | Yes |
+| ![](../assets/Jeans_icon.png) / *Jeans\_icon.png* | [Jeans](./Jeans.md) | 2.76% | Yes |
+| ![](../assets/Newsprint_icon.png) / *Newsprint\_icon.png* | [Newsprint](./Newsprint.md) | 2.76% | Yes |
+| ![](../assets/Plaid_Shirt_icon.png) / *Plaid\_Shirt\_icon.png* | [Plaid Shirt](./Plaid%20Shirt.md) | 2.76% | Yes |
+| ![](../assets/T-Shirt_icon.png) / *T-Shirt\_icon.png* | [T-Shirt](./T-Shirt.md) | 2.76% | Yes |
+| ![](../assets/Wood_Matches_icon.png) / *Wood\_Matches\_icon.png* | [Wood Matches](./Wood%20Matches.md) | 2.76% | Yes |
+| ![](../assets/Book_icon.png) / *Book\_icon.png* | [Book](./Book.md) | 2.07% | Yes |
+| ![](../assets/Book_icon.png) / *Book\_icon.png* | [Book](./Book.md) | 2.07% | Yes |
+| ![](../assets/Cloth_icon.png) / *Cloth\_icon.png* | [Cloth](./Cloth.md) | 2.07% | Yes |
+| ![](../assets/Cotton_Scarf_icon.png) / *Cotton\_Scarf\_icon.png* | [Cotton Scarf](./Cotton%20Scarf.md) | 2.07% | Yes |
+| ![](../assets/Ketchup_Chips_icon.png) / *Ketchup\_Chips\_icon.png* | [Ketchup Chips](./Ketchup%20Chips.md) | 2.07% | Yes |
+| ![](../assets/Lantern_Fuel_icon.png) / *Lantern\_Fuel\_icon.png* | [Lantern Fuel](./Lantern%20Fuel.md) | 2.07% | Yes |
+| ![](../assets/Simple_Parka_icon.png) / *Simple\_Parka\_icon.png* | [Simple Parka](./Simple%20Parka.md) | 2.07% | Yes |
+| ![](../assets/Newsprint_Roll_icon.png) / *Newsprint\_Roll\_icon.png* | [Newsprint Roll](./Newsprint%20Roll.md) | 2.07% | Yes |
+| ![](../assets/Scrap_Metal_icon.png) / *Scrap\_Metal\_icon.png* | [Scrap Metal](./Scrap%20Metal.md) | 2.07% | Yes |
+| ![](../assets/Light_Shell_icon.png) / *Light\_Shell\_icon.png* | [Light Shell](./Light%20Shell.md) | 2.07% | Yes |
+| ![](../assets/Accelerant_icon.png) / *Accelerant\_icon.png* | [Accelerant](./Accelerant.md) | 1.38% | Yes |
+| ![](../assets/Wool_Scarf_icon.png) / *Wool\_Scarf\_icon.png* | [Wool Scarf](./Wool%20Scarf.md) | 1.38% | Yes |
+| ![](../assets/Marine_Flare_icon.png) / *Marine\_Flare\_icon.png* | [Marine Flare](./Marine%20Flare.md) | 1.38% | Yes |
+| ![](../assets/Antiseptic_icon.png) / *Antiseptic\_icon.png* | [Antiseptic](./Antiseptic.md) | 1.38% | Yes |
+| ![](../assets/Painkillers_icon.png) / *Painkillers\_icon.png* | [Painkillers](./Painkillers.md) | 1.38% | Yes |
+| ![](../assets/Chocolate_Bar_icon.png) / *Chocolate\_Bar\_icon.png* | [Chocolate Bar](./Chocolate%20Bar.md) | 1.38% | Yes |
+| ![](../assets/Pork_and_Beans_icon.png) / *Pork\_and\_Beans\_icon.png* | [Pork and Beans](./Pork%20and%20Beans.md) | 1.38% | Yes |
+| ![](../assets/Down_Vest_icon.png) / *Down\_Vest\_icon.png* | [Down Vest](./Down%20Vest.md) | 1.38% | Yes |
+| ![](../assets/Flare_icon.png) / *Flare\_icon.png* | [Flare](./Flare.md) | 1.38% | Yes |
+| ![](../assets/Fleece_Mittens_icon.png) / *Fleece\_Mittens\_icon.png* | [Fleece Mittens](./Fleece%20Mittens.md) | 1.38% | Yes |
+| ![](../assets/Revolver_Cartridge_icon.png) / *Revolver\_Cartridge\_icon.png* | [Revolver Cartridge](./Revolver%20Ammunition.md) | 1.38% | No |
+| ![](../assets/Summit_Soda_icon.png) / *Summit\_Soda\_icon.png* | [Summit Soda](./Summit%20Soda.md) | 1.38% | Yes |
+| ![](../assets/Go!_Energy_Drink_icon.png) / *Go!\_Energy\_Drink\_icon.png* | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 1.38% | No |
+| ![](../assets/Stacy%27s_Grape_Soda_icon.png) / *Stacy's\_Grape\_Soda\_icon.png* | [Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md) | 1.38% | No |
+| ![](../assets/Spray_Paint_icon.png) / *Spray\_Paint\_icon.png* | [Spray Paint](./Spray%20Paint.md) | 1.38% | Yes |
+| ![](../assets/Wool_Toque_icon.png) / *Wool\_Toque\_icon.png* | [Wool Toque](./Wool%20Toque.md) | 1.38% | Yes |
+| ![](../assets/Water_Purification_Tablets_icon.png) / *Water\_Purification\_Tablets\_icon.png* | [Water Purification Tablets](./Water%20Purification%20Tablets.md) | 1.38% | Yes |
+| ![](../assets/Thin_Wool_Sweater_icon.png) / *Thin\_Wool\_Sweater\_icon.png* | [Thin Wool Sweater](./Thin%20Wool%20Sweater.md) | 1.38% | Yes |
+| ![](../assets/Work_Boots_icon.png) / *Work\_Boots\_icon.png* | [Work Boots](./Work%20Boots.md) | 1.38% | Yes |
+| ![](../assets/Work_Gloves_icon.png) / *Work\_Gloves\_icon.png* | [Work Gloves](./Work%20Gloves.md) | 1.38% | Yes |
+| ![](../assets/Cargo_Pants_icon.png) / *Cargo\_Pants\_icon.png* | [Cargo Pants](./Cargo%20Pants.md) | 0.69% | No |
+| ![](../assets/Combat_Boots_icon.png) / *Combat\_Boots\_icon.png* | [Combat Boots](./Combat%20Boots.md) | 0.69% | Yes |
+| ![](../assets/Flare_Shell_icon.png) / *Flare\_Shell\_icon.png* | [Flare Shell](./Flare%20Shell.md) | 0.69% | No |
+| ![](../assets/Replacement_Fuse_icon.png) / *Replacement\_Fuse\_icon.png* | [Replacement Fuse](./Replacement%20Fuse.md) | 0.69% | Yes |
+| ![](../assets/Cured_Leather_icon.png) / *Cured\_Leather\_icon.png* | [Cured Leather](./Cured%20Leather.md) | 0.69% | Yes |
+| ![](../assets/Line_icon.png) / *Line\_icon.png* | [Line](./Line.md) | 0.69% | Yes |
+| ![](../assets/Thermal_Underwear_icon.png) / *Thermal\_Underwear\_icon.png* | [Thermal Underwear](./Thermal%20Underwear.md) | 0.69% | Yes |
+| ![](../assets/Wool_Mittens_icon.png) / *Wool\_Mittens\_icon.png* | [Wool Mittens](./Wool%20Mittens.md) | 0.69% | No |
+| ![](../assets/Stack_of_Papers_icon.png) / *Stack\_of\_Papers\_icon.png* | [Stack of Papers](./Stack%20of%20Papers.md) | 0.69% | Yes |
+| ![](../assets/Simple_Tools_icon.png) / *Simple\_Tools\_icon.png* | [Simple Tools](./Simple%20Tools.md) | 0.69% | Yes |
+| ![](../assets/Tinder_Plug_icon.png) / *Tinder\_Plug\_icon.png* | [Tinder Plug](./Tinder%20Plug.md) | 0.69% | Yes |
+| ![](../assets/Tomato_Soup_icon.png) / *Tomato\_Soup\_icon.png* | [Tomato Soup](./Tomato%20Soup.md) | 0.69% | Yes |
+| ![](../assets/Water_%28Potable%29_icon.png) / *Water\_(Potable)\_icon.png* | [Water (Potable)](./Water%20%28Potable%29.md) | 0.69% | No |
+| ![](../assets/Wires_icon.png) / *Wires\_icon.png* | [Wires](./Wires.md) | 0.69% | Yes |
+| ![](../assets/Work_Pants_icon.png) / *Work\_Pants\_icon.png* | [Work Pants](./Work%20Pants.md) | 0.69% | No |
+| ![](../assets/Arrowhead_icon.png) / *Arrowhead\_icon.png* | [Arrowhead](./Arrowhead.md) | 0.42% | Yes |
+| ![](../assets/Rifle_Shell_Casing_icon.png) / *Rifle\_Shell\_Casing\_icon.png* | [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) | 0.42% | No |
 
 ## Boat Spawns
 
-\[Missing image: Beachcombing.jpg\] A fishing boat found while beachcombing. Boats may also appear after Blizzards in their own set of specific locations. One or more additional small lootable items can spawn along with them (depending on difficulty setting) and may remain even if the boat later disappears.
+![A fishing boat found while beachcombing.](../assets/Beachcombing.jpg)*A fishing boat found while beachcombing.* Boats may also appear after Blizzards in their own set of specific locations. One or more additional small lootable items can spawn along with them (depending on difficulty setting) and may remain even if the boat later disappears.
 
-- Canoe with <a href="./Simple%20Arrow.md" class="wikilink" title="Simple Arrow">Simple Arrows</a>, <a href="./Broken%20Arrow.md" class="wikilink" title="Broken Arrow">Broken Arrows</a>, or <a href="./Beef%20Jerky.md" class="wikilink" title="Beef Jerky">Beef Jerky</a>
-- Rowboat with <a href="./Paddle.md" class="wikilink" title="Paddle">Paddle</a>, <a href="./Hatchet.md" class="wikilink" title="Hatchet">Hatchet</a>, <a href="./Fishing%20Tackle.md" class="wikilink" title="Fishing Tackle">Fishing Tackle</a>, or <a href="./Coho%20Salmon%20%28Raw%29.md" class="wikilink" title="Coho Salmon (Raw)">Coho Salmon (Raw)</a>
-- Fishing boat which has 4 containers, <a href="./Smallmouth%20Bass%20%28Raw%29.md" class="wikilink" title="Smallmouth Bass (Raw)">Smallmouth Bass (Raw)</a> in the rear hold, and may also have <a href="./Distress%20Pistol.md" class="wikilink" title="Distress pistol">Distress pistol</a>, <a href="./Flare%20Shell.md" class="wikilink" title="Flare Shell">Flare Shells</a>, <a href="./Marine%20Flare.md" class="wikilink" title="Marine flare">Marine flares</a>, <a href="./Tin%20of%20Sardines.md" class="wikilink" title="Tin of sardines">Tin of sardines</a>
+- Canoe with [Simple Arrows](./Simple%20Arrow.md), [Broken Arrows](./Broken%20Arrow.md), or [Beef Jerky](./Beef%20Jerky.md)
+- Rowboat with [Paddle](./Paddle.md), [Hatchet](./Hatchet.md), [Fishing Tackle](./Fishing%20Tackle.md), or [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md)
+- Fishing boat which has 4 containers, [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) in the rear hold, and may also have [Distress pistol](./Distress%20Pistol.md), [Flare Shells](./Flare%20Shell.md), [Marine flares](./Marine%20Flare.md), [Tin of sardines](./Tin%20of%20Sardines.md)
 
-<table>
-<caption>style="width:100%; text-align: left;" | Fishing Boat - Large Container</caption>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Icon</p></th>
-<th><p>Item</p></th>
-<th><p>Rarity</p></th>
-<th><figure>
-<img src="../assets/Misery_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Misery_icon.png</figcaption>
-</figure></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Newsprint_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Newsprint_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Newsprint.md" class="wikilink" title="Newsprint">Newsprint</a></p></td>
-<td><p>9.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Running_Shoes_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Running_Shoes_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Running%20Shoes.md" class="wikilink" title="Running Shoes">Running Shoes</a></p></td>
-<td><p>4.88%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Scrap_Metal_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Scrap_Metal_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a></p></td>
-<td><p>4.88%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Light_Shell_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Light_Shell_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Light%20Shell.md" class="wikilink" title="Light Shell">Light Shell</a></p></td>
-<td><p>4.88%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Windbreaker_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Windbreaker_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Windbreaker.md" class="wikilink" title="Windbreaker">Windbreaker</a></p></td>
-<td><p>4.88%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cotton_Scarf_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cotton_Scarf_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cotton%20Scarf.md" class="wikilink" title="Cotton Scarf">Cotton Scarf</a></p></td>
-<td><p>4.88%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cloth_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cloth_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a></p></td>
-<td><p>4.88%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Beef_Jerky_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Beef_Jerky_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Beef%20Jerky.md" class="wikilink" title="Beef Jerky">Beef Jerky</a></p></td>
-<td><p>4.88%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Granola_Bar_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Granola_Bar_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Granola%20Bar.md" class="wikilink" title="Granola Bar">Granola Bar</a></p></td>
-<td><p>3.41%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Marine_Flare_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Marine_Flare_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Marine%20Flare.md" class="wikilink" title="Marine Flare">Marine Flare</a></p></td>
-<td><p>3.41%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Scarf_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Scarf_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Scarf.md" class="wikilink" title="Wool Scarf">Wool Scarf</a></p></td>
-<td><p>2.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Baseball_Cap_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Baseball_Cap_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Baseball%20Cap.md" class="wikilink" title="Baseball Cap">Baseball Cap</a></p></td>
-<td><p>2.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Work_Boots_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Work_Boots_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Work%20Boots.md" class="wikilink" title="Work Boots">Work Boots</a></p></td>
-<td><p>2.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Orange_Soda_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Orange_Soda_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Orange%20Soda.md" class="wikilink" title="Orange Soda">Orange Soda</a></p></td>
-<td><p>2.44%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Leather_Shoes_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Leather_Shoes_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Leather%20Shoes.md" class="wikilink" title="Leather Shoes">Leather Shoes</a></p></td>
-<td><p>2.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Fleece_Mittens_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Fleece_Mittens_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fleece%20Mittens.md" class="wikilink" title="Fleece Mittens">Fleece Mittens</a></p></td>
-<td><p>2.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cotton_Toque_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cotton_Toque_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cotton%20Toque.md" class="wikilink" title="Cotton Toque">Cotton Toque</a></p></td>
-<td><p>2.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Hoodie_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Hoodie_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Hoodie.md" class="wikilink" title="Hoodie">Hoodie</a></p></td>
-<td><p>2.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Trail_Boots_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Trail_Boots_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Trail%20Boots.md" class="wikilink" title="Trail Boots">Trail Boots</a></p></td>
-<td><p>2.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Down_Vest_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Down_Vest_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Down%20Vest.md" class="wikilink" title="Down Vest">Down Vest</a></p></td>
-<td><p>2.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Spray_Paint_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Spray_Paint_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Spray%20Paint.md" class="wikilink" title="Spray Paint">Spray Paint</a></p></td>
-<td><p>2.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Hockey_Jersey_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Hockey_Jersey_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Hockey%20Jersey.md" class="wikilink" title="Hockey Jersey">Hockey Jersey</a></p></td>
-<td><p>2.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Sweatshirt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sweatshirt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sweatshirt.md" class="wikilink" title="Sweatshirt">Sweatshirt</a></p></td>
-<td><p>2.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wires_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wires_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wires.md" class="wikilink" title="Wires">Wires</a></p></td>
-<td><p>2.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Replacement_Fuse_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Replacement_Fuse_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Replacement%20Fuse.md" class="wikilink" title="Replacement Fuse">Replacement Fuse</a></p></td>
-<td><p>2.44%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Simple_Parka_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Simple_Parka_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Simple%20Parka.md" class="wikilink" title="Simple Parka">Simple Parka</a></p></td>
-<td><p>1.46%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Toque_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Toque_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Toque.md" class="wikilink" title="Wool Toque">Wool Toque</a></p></td>
-<td><p>1.46%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Chocolate_Bar_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Chocolate_Bar_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Chocolate%20Bar.md" class="wikilink" title="Chocolate Bar">Chocolate Bar</a></p></td>
-<td><p>1.46%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cardboard_Matches_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cardboard_Matches_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cardboard%20Matches.md" class="wikilink" title="Cardboard Matches">Cardboard Matches</a></p></td>
-<td><p>1.46%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Plaid_Shirt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Plaid_Shirt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Plaid%20Shirt.md" class="wikilink" title="Plaid Shirt">Plaid Shirt</a></p></td>
-<td><p>1.46%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Stone_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Stone_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Stone.md" class="wikilink" title="Stone">Stone</a></p></td>
-<td><p>1.46%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Mittens_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Mittens_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Mittens.md" class="wikilink" title="Wool Mittens">Wool Mittens</a></p></td>
-<td><p>0.49%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Rifle_Cartridge_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Rifle_Cartridge_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Rifle%20Ammunition.md" class="wikilink" title="Rifle Cartridge">Rifle Cartridge</a></p></td>
-<td><p>0.49%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Insulated_Boots_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Insulated_Boots_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Insulated%20Boots.md" class="wikilink" title="Insulated Boots">Insulated Boots</a></p></td>
-<td><p>0.49%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Revolver_Cartridge_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Revolver_Cartridge_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Revolver%20Ammunition.md" class="wikilink" title="Revolver Cartridge">Revolver Cartridge</a></p></td>
-<td><p>0.49%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Simple_Arrow_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Simple_Arrow_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Simple%20Arrow.md" class="wikilink" title="Simple Arrow">Simple Arrow</a></p></td>
-<td><p>0.49%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Hacksaw_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Hacksaw_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Hacksaw.md" class="wikilink" title="Hacksaw">Hacksaw</a></p></td>
-<td><p>0.49%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Jerry_Can_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Jerry_Can_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Jerry%20Can.md" class="wikilink" title="Jerry Can">Jerry Can</a></p></td>
-<td><p>0.49%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flare_Shell_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flare_Shell_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flare%20Shell.md" class="wikilink" title="Flare Shell">Flare Shell</a></p></td>
-<td><p>0.49%</p></td>
-<td><p>No</p></td>
-</tr>
-</tbody>
-</table>
+**style="width:100%; text-align: left;" | Fishing Boat - Large Container**
 
-<table>
-<caption>style="width:100%; text-align: left;" | Fishing Boat - Left Small Container</caption>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Icon</p></th>
-<th><p>Item</p></th>
-<th><p>Rarity</p></th>
-<th><figure>
-<img src="../assets/Misery_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Misery_icon.png</figcaption>
-</figure></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Scrap_Metal_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Scrap_Metal_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cloth_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cloth_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Beef_Jerky_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Beef_Jerky_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Beef%20Jerky.md" class="wikilink" title="Beef Jerky">Beef Jerky</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cured_Leather_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cured_Leather_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cured%20Leather.md" class="wikilink" title="Cured Leather">Cured Leather</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Line_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Line_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Line.md" class="wikilink" title="Line">Line</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Lantern_Fuel_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Lantern_Fuel_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Lantern%20Fuel.md" class="wikilink" title="Lantern Fuel">Lantern Fuel</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cardboard_Matches_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cardboard_Matches_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cardboard%20Matches.md" class="wikilink" title="Cardboard Matches">Cardboard Matches</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Charcoal_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Charcoal_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Charcoal.md" class="wikilink" title="Charcoal">Charcoal</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Chocolate_Bar_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Chocolate_Bar_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Chocolate%20Bar.md" class="wikilink" title="Chocolate Bar">Chocolate Bar</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Bandage_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Bandage_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Bandage.md" class="wikilink" title="Bandage">Bandage</a></p></td>
-<td><p>5.1%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wires_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wires_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wires.md" class="wikilink" title="Wires">Wires</a></p></td>
-<td><p>3.06%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Hook_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Hook_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Hook.md" class="wikilink" title="Hook">Hook</a></p></td>
-<td><p>3.06%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Newsprint_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Newsprint_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Newsprint.md" class="wikilink" title="Newsprint">Newsprint</a></p></td>
-<td><p>3.06%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Arrow_Shaft_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Arrow_Shaft_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Arrow%20Shaft.md" class="wikilink" title="Arrow Shaft">Arrow Shaft</a></p></td>
-<td><p>3.06%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Crow_Feather_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Crow_Feather_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Crow%20Feather.md" class="wikilink" title="Crow Feather">Crow Feather</a></p></td>
-<td><p>3.06%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Sewing_Kit_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sewing_Kit_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sewing%20Kit.md" class="wikilink" title="Sewing Kit">Sewing Kit</a></p></td>
-<td><p>3.06%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Painkillers_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Painkillers_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Painkillers.md" class="wikilink" title="Painkillers">Painkillers</a></p></td>
-<td><p>3.06%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flare_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flare_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flare.md" class="wikilink" title="Flare">Flare</a></p></td>
-<td><p>3.06%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Tinder_Plug_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Tinder_Plug_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Tinder%20Plug.md" class="wikilink" title="Tinder Plug">Tinder Plug</a></p></td>
-<td><p>3.06%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Replacement_Fuse_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Replacement_Fuse_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Replacement%20Fuse.md" class="wikilink" title="Replacement Fuse">Replacement Fuse</a></p></td>
-<td><p>3.06%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Rifle_Cartridge_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Rifle_Cartridge_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Rifle%20Ammunition.md" class="wikilink" title="Rifle Cartridge">Rifle Cartridge</a></p></td>
-<td><p>3.06%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Canister_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Canister_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Canister.md" class="wikilink" title="Canister">Canister</a></p></td>
-<td><p>3.06%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Work_Gloves_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Work_Gloves_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Work%20Gloves.md" class="wikilink" title="Work Gloves">Work Gloves</a></p></td>
-<td><p>2.04%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Arrowhead_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Arrowhead_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Arrowhead.md" class="wikilink" title="Arrowhead">Arrowhead</a></p></td>
-<td><p>2.04%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flare_Shell_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flare_Shell_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flare%20Shell.md" class="wikilink" title="Flare Shell">Flare Shell</a></p></td>
-<td><p>2.04%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Stump_Remover_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Stump_Remover_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Stump%20Remover.md" class="wikilink" title="Stump Remover">Stump Remover</a></p></td>
-<td><p>2.04%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Birch_Bark_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Birch_Bark_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Birch%20Bark.md" class="wikilink" title="Birch Bark">Birch Bark</a></p></td>
-<td><p>2.04%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Sewing_Kit_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sewing_Kit_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sewing%20Kit.md" class="wikilink" title="Sewing Kit">Sewing Kit</a></p></td>
-<td><p>2.04%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Gauntlets_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Gauntlets_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Gauntlets.md" class="wikilink" title="Gauntlets">Gauntlets</a></p></td>
-<td><p>1.02%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Revolver_Cartridge_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Revolver_Cartridge_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Revolver%20Ammunition.md" class="wikilink" title="Revolver Cartridge">Revolver Cartridge</a></p></td>
-<td><p>1.02%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Rifle_Shell_Casing_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Rifle_Shell_Casing_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Rifle%20Shell%20Casing.md" class="wikilink" title="Rifle Shell Casing">Rifle Shell Casing</a></p></td>
-<td><p>1.02%</p></td>
-<td><p>No</p></td>
-</tr>
-</tbody>
-</table>
+| Icon | Item | Rarity | ![](../assets/Misery_icon.png) / *Misery\_icon.png* |
+| --- | --- | --- | --- |
+| ![](../assets/Newsprint_icon.png) / *Newsprint\_icon.png* | [Newsprint](./Newsprint.md) | 9.76% | Yes |
+| ![](../assets/Running_Shoes_icon.png) / *Running\_Shoes\_icon.png* | [Running Shoes](./Running%20Shoes.md) | 4.88% | Yes |
+| ![](../assets/Scrap_Metal_icon.png) / *Scrap\_Metal\_icon.png* | [Scrap Metal](./Scrap%20Metal.md) | 4.88% | Yes |
+| ![](../assets/Light_Shell_icon.png) / *Light\_Shell\_icon.png* | [Light Shell](./Light%20Shell.md) | 4.88% | Yes |
+| ![](../assets/Windbreaker_icon.png) / *Windbreaker\_icon.png* | [Windbreaker](./Windbreaker.md) | 4.88% | Yes |
+| ![](../assets/Cotton_Scarf_icon.png) / *Cotton\_Scarf\_icon.png* | [Cotton Scarf](./Cotton%20Scarf.md) | 4.88% | Yes |
+| ![](../assets/Cloth_icon.png) / *Cloth\_icon.png* | [Cloth](./Cloth.md) | 4.88% | Yes |
+| ![](../assets/Beef_Jerky_icon.png) / *Beef\_Jerky\_icon.png* | [Beef Jerky](./Beef%20Jerky.md) | 4.88% | Yes |
+| ![](../assets/Granola_Bar_icon.png) / *Granola\_Bar\_icon.png* | [Granola Bar](./Granola%20Bar.md) | 3.41% | Yes |
+| ![](../assets/Marine_Flare_icon.png) / *Marine\_Flare\_icon.png* | [Marine Flare](./Marine%20Flare.md) | 3.41% | Yes |
+| ![](../assets/Wool_Scarf_icon.png) / *Wool\_Scarf\_icon.png* | [Wool Scarf](./Wool%20Scarf.md) | 2.44% | Yes |
+| ![](../assets/Baseball_Cap_icon.png) / *Baseball\_Cap\_icon.png* | [Baseball Cap](./Baseball%20Cap.md) | 2.44% | Yes |
+| ![](../assets/Work_Boots_icon.png) / *Work\_Boots\_icon.png* | [Work Boots](./Work%20Boots.md) | 2.44% | Yes |
+| ![](../assets/Orange_Soda_icon.png) / *Orange\_Soda\_icon.png* | [Orange Soda](./Orange%20Soda.md) | 2.44% | No |
+| ![](../assets/Leather_Shoes_icon.png) / *Leather\_Shoes\_icon.png* | [Leather Shoes](./Leather%20Shoes.md) | 2.44% | Yes |
+| ![](../assets/Fleece_Mittens_icon.png) / *Fleece\_Mittens\_icon.png* | [Fleece Mittens](./Fleece%20Mittens.md) | 2.44% | Yes |
+| ![](../assets/Cotton_Toque_icon.png) / *Cotton\_Toque\_icon.png* | [Cotton Toque](./Cotton%20Toque.md) | 2.44% | Yes |
+| ![](../assets/Hoodie_icon.png) / *Hoodie\_icon.png* | [Hoodie](./Hoodie.md) | 2.44% | Yes |
+| ![](../assets/Trail_Boots_icon.png) / *Trail\_Boots\_icon.png* | [Trail Boots](./Trail%20Boots.md) | 2.44% | Yes |
+| ![](../assets/Down_Vest_icon.png) / *Down\_Vest\_icon.png* | [Down Vest](./Down%20Vest.md) | 2.44% | Yes |
+| ![](../assets/Spray_Paint_icon.png) / *Spray\_Paint\_icon.png* | [Spray Paint](./Spray%20Paint.md) | 2.44% | Yes |
+| ![](../assets/Hockey_Jersey_icon.png) / *Hockey\_Jersey\_icon.png* | [Hockey Jersey](./Hockey%20Jersey.md) | 2.44% | Yes |
+| ![](../assets/Sweatshirt_icon.png) / *Sweatshirt\_icon.png* | [Sweatshirt](./Sweatshirt.md) | 2.44% | Yes |
+| ![](../assets/Wires_icon.png) / *Wires\_icon.png* | [Wires](./Wires.md) | 2.44% | Yes |
+| ![](../assets/Replacement_Fuse_icon.png) / *Replacement\_Fuse\_icon.png* | [Replacement Fuse](./Replacement%20Fuse.md) | 2.44% | Yes |
+| ![](../assets/Simple_Parka_icon.png) / *Simple\_Parka\_icon.png* | [Simple Parka](./Simple%20Parka.md) | 1.46% | Yes |
+| ![](../assets/Wool_Toque_icon.png) / *Wool\_Toque\_icon.png* | [Wool Toque](./Wool%20Toque.md) | 1.46% | Yes |
+| ![](../assets/Chocolate_Bar_icon.png) / *Chocolate\_Bar\_icon.png* | [Chocolate Bar](./Chocolate%20Bar.md) | 1.46% | Yes |
+| ![](../assets/Cardboard_Matches_icon.png) / *Cardboard\_Matches\_icon.png* | [Cardboard Matches](./Cardboard%20Matches.md) | 1.46% | No |
+| ![](../assets/Plaid_Shirt_icon.png) / *Plaid\_Shirt\_icon.png* | [Plaid Shirt](./Plaid%20Shirt.md) | 1.46% | Yes |
+| ![](../assets/Stone_icon.png) / *Stone\_icon.png* | [Stone](./Stone.md) | 1.46% | Yes |
+| ![](../assets/Wool_Mittens_icon.png) / *Wool\_Mittens\_icon.png* | [Wool Mittens](./Wool%20Mittens.md) | 0.49% | No |
+| ![](../assets/Rifle_Cartridge_icon.png) / *Rifle\_Cartridge\_icon.png* | [Rifle Cartridge](./Rifle%20Ammunition.md) | 0.49% | No |
+| ![](../assets/Insulated_Boots_icon.png) / *Insulated\_Boots\_icon.png* | [Insulated Boots](./Insulated%20Boots.md) | 0.49% | No |
+| ![](../assets/Revolver_Cartridge_icon.png) / *Revolver\_Cartridge\_icon.png* | [Revolver Cartridge](./Revolver%20Ammunition.md) | 0.49% | No |
+| ![](../assets/Simple_Arrow_icon.png) / *Simple\_Arrow\_icon.png* | [Simple Arrow](./Simple%20Arrow.md) | 0.49% | No |
+| ![](../assets/Hacksaw_icon.png) / *Hacksaw\_icon.png* | [Hacksaw](./Hacksaw.md) | 0.49% | No |
+| ![](../assets/Jerry_Can_icon.png) / *Jerry\_Can\_icon.png* | [Jerry Can](./Jerry%20Can.md) | 0.49% | Yes |
+| ![](../assets/Flare_Shell_icon.png) / *Flare\_Shell\_icon.png* | [Flare Shell](./Flare%20Shell.md) | 0.49% | No |
 
-<table>
-<caption>style="width:100%; text-align: left;" | Fishing Boat - Right Small Container</caption>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Icon</p></th>
-<th><p>Item</p></th>
-<th><p>Rarity</p></th>
-<th><figure>
-<img src="../assets/Misery_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Misery_icon.png</figcaption>
-</figure></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Cloth_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cloth_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a></p></td>
-<td><p>11.72%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Newsprint_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Newsprint_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Newsprint.md" class="wikilink" title="Newsprint">Newsprint</a></p></td>
-<td><p>11.72%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Scrap_Metal_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Scrap_Metal_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a></p></td>
-<td><p>7.81%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cardboard_Matches_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cardboard_Matches_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cardboard%20Matches.md" class="wikilink" title="Cardboard Matches">Cardboard Matches</a></p></td>
-<td><p>6.25%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Line_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Line_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Line.md" class="wikilink" title="Line">Line</a></p></td>
-<td><p>4.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Recycled_Can_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Recycled_Can_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Recycled%20Can.md" class="wikilink" title="Recycled Can">Recycled Can</a></p></td>
-<td><p>3.91%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flare_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flare_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flare.md" class="wikilink" title="Flare">Flare</a></p></td>
-<td><p>3.91%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Charcoal_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Charcoal_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Charcoal.md" class="wikilink" title="Charcoal">Charcoal</a></p></td>
-<td><p>3.91%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Spray_Paint_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Spray_Paint_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Spray%20Paint.md" class="wikilink" title="Spray Paint">Spray Paint</a></p></td>
-<td><p>2.34%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Work_Gloves_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Work_Gloves_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Work%20Gloves.md" class="wikilink" title="Work Gloves">Work Gloves</a></p></td>
-<td><p>2.34%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Ketchup_Chips_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Ketchup_Chips_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Ketchup%20Chips.md" class="wikilink" title="Ketchup Chips">Ketchup Chips</a></p></td>
-<td><p>2.34%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Toque_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Toque_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Toque.md" class="wikilink" title="Wool Toque">Wool Toque</a></p></td>
-<td><p>2.34%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Stone_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Stone_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Stone.md" class="wikilink" title="Stone">Stone</a></p></td>
-<td><p>2.34%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Rifle_Cartridge_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Rifle_Cartridge_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Rifle%20Ammunition.md" class="wikilink" title="Rifle Cartridge">Rifle Cartridge</a></p></td>
-<td><p>2.34%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Scarf_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Scarf_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Scarf.md" class="wikilink" title="Wool Scarf">Wool Scarf</a></p></td>
-<td><p>2.34%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Fishing_Tackle_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Fishing_Tackle_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fishing%20Tackle.md" class="wikilink" title="Fishing Tackle">Fishing Tackle</a></p></td>
-<td><p>2.34%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Hook_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Hook_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Hook.md" class="wikilink" title="Hook">Hook</a></p></td>
-<td><p>2.34%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Fleece_Mittens_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Fleece_Mittens_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fleece%20Mittens.md" class="wikilink" title="Fleece Mittens">Fleece Mittens</a></p></td>
-<td><p>2.34%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Tin_of_Sardines_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Tin_of_Sardines_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Tin%20of%20Sardines.md" class="wikilink" title="Tin of Sardines">Tin of Sardines</a></p></td>
-<td><p>2.34%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Revolver_Cartridge_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Revolver_Cartridge_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Revolver%20Ammunition.md" class="wikilink" title="Revolver Cartridge">Revolver Cartridge</a></p></td>
-<td><p>2.34%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Long_Wool_Scarf_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Long_Wool_Scarf_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Long%20Wool%20Scarf.md" class="wikilink" title="Long Wool Scarf">Long Wool Scarf</a></p></td>
-<td><p>1.56%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Summit_Soda_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Summit_Soda_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Summit%20Soda.md" class="wikilink" title="Summit Soda">Summit Soda</a></p></td>
-<td><p>1.56%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Herbal_Tea_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Herbal_Tea_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Herbal%20Tea.md" class="wikilink" title="Herbal Tea">Herbal Tea</a></p></td>
-<td><p>1.56%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Marine_Flare_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Marine_Flare_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Marine%20Flare.md" class="wikilink" title="Marine Flare">Marine Flare</a></p></td>
-<td><p>1.56%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Energy_Bar_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Energy_Bar_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Energy%20Bar.md" class="wikilink" title="Energy Bar">Energy Bar</a></p></td>
-<td><p>1.56%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Dusting_Sulfur_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Dusting_Sulfur_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Dusting%20Sulfur.md" class="wikilink" title="Dusting Sulfur">Dusting Sulfur</a></p></td>
-<td><p>1.56%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Tomato_Soup_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Tomato_Soup_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Tomato%20Soup.md" class="wikilink" title="Tomato Soup">Tomato Soup</a></p></td>
-<td><p>1.56%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wires_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wires_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wires.md" class="wikilink" title="Wires">Wires</a></p></td>
-<td><p>1.56%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Balaclava_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Balaclava_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Balaclava.md" class="wikilink" title="Balaclava">Balaclava</a></p></td>
-<td><p>0.78%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Climbing_Socks_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Climbing_Socks_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Climbing%20Socks.md" class="wikilink" title="Climbing Socks">Climbing Socks</a></p></td>
-<td><p>0.78%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Aviator_Cap_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Aviator_Cap_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Aviator%20Cap.md" class="wikilink" title="Aviator Cap">Aviator Cap</a></p></td>
-<td><p>0.78%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Salty_Crackers_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Salty_Crackers_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Salty%20Crackers.md" class="wikilink" title="Salty Crackers">Salty Crackers</a></p></td>
-<td><p>0.78%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flare_Shell_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flare_Shell_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flare%20Shell.md" class="wikilink" title="Flare Shell">Flare Shell</a></p></td>
-<td><p>0.78%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Down_Vest_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Down_Vest_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Down%20Vest.md" class="wikilink" title="Down Vest">Down Vest</a></p></td>
-<td><p>0.78%</p></td>
-<td><p>Yes</p></td>
-</tr>
-</tbody>
-</table>
+**style="width:100%; text-align: left;" | Fishing Boat - Left Small Container**
 
-<table>
-<caption>style="width:100%; text-align: left;" | Fishing Boat - Cabin Container</caption>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Icon</p></th>
-<th><p>Item</p></th>
-<th><p>Rarity</p></th>
-<th><figure>
-<img src="../assets/Misery_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Misery_icon.png</figcaption>
-</figure></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Trail_Boots_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Trail_Boots_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Trail%20Boots.md" class="wikilink" title="Trail Boots">Trail Boots</a></p></td>
-<td><p>3.45%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Running_Shoes_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Running_Shoes_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Running%20Shoes.md" class="wikilink" title="Running Shoes">Running Shoes</a></p></td>
-<td><p>3.45%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Leather_Shoes_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Leather_Shoes_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Leather%20Shoes.md" class="wikilink" title="Leather Shoes">Leather Shoes</a></p></td>
-<td><p>3.45%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Driving_Gloves_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Driving_Gloves_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Driving%20Gloves.md" class="wikilink" title="Driving Gloves">Driving Gloves</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Windbreaker_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Windbreaker_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Windbreaker.md" class="wikilink" title="Windbreaker">Windbreaker</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cotton_Toque_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cotton_Toque_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cotton%20Toque.md" class="wikilink" title="Cotton Toque">Cotton Toque</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Hoodie_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Hoodie_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Hoodie.md" class="wikilink" title="Hoodie">Hoodie</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Sweatshirt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sweatshirt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sweatshirt.md" class="wikilink" title="Sweatshirt">Sweatshirt</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Sport_Vest_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Sport_Vest_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Sport%20Vest.md" class="wikilink" title="Sport Vest">Sport Vest</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Jeans_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Jeans_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Jeans.md" class="wikilink" title="Jeans">Jeans</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Newsprint_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Newsprint_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Newsprint.md" class="wikilink" title="Newsprint">Newsprint</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Plaid_Shirt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Plaid_Shirt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Plaid%20Shirt.md" class="wikilink" title="Plaid Shirt">Plaid Shirt</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/T-Shirt_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>T-Shirt_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./T-Shirt.md" class="wikilink" title="T-Shirt">T-Shirt</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wood_Matches_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wood_Matches_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wood%20Matches.md" class="wikilink" title="Wood Matches">Wood Matches</a></p></td>
-<td><p>2.76%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Book_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Book_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Book.md" class="wikilink" title="Book">Book</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Book_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Book_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Book.md" class="wikilink" title="Book">Book</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cloth_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cloth_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cotton_Scarf_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cotton_Scarf_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cotton%20Scarf.md" class="wikilink" title="Cotton Scarf">Cotton Scarf</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Ketchup_Chips_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Ketchup_Chips_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Ketchup%20Chips.md" class="wikilink" title="Ketchup Chips">Ketchup Chips</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Lantern_Fuel_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Lantern_Fuel_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Lantern%20Fuel.md" class="wikilink" title="Lantern Fuel">Lantern Fuel</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Simple_Parka_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Simple_Parka_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Simple%20Parka.md" class="wikilink" title="Simple Parka">Simple Parka</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Newsprint_Roll_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Newsprint_Roll_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Newsprint%20Roll.md" class="wikilink" title="Newsprint Roll">Newsprint Roll</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Scrap_Metal_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Scrap_Metal_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Light_Shell_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Light_Shell_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Light%20Shell.md" class="wikilink" title="Light Shell">Light Shell</a></p></td>
-<td><p>2.07%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Accelerant_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Accelerant_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Accelerant.md" class="wikilink" title="Accelerant">Accelerant</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Scarf_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Scarf_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Scarf.md" class="wikilink" title="Wool Scarf">Wool Scarf</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Marine_Flare_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Marine_Flare_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Marine%20Flare.md" class="wikilink" title="Marine Flare">Marine Flare</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Antiseptic_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Antiseptic_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Antiseptic.md" class="wikilink" title="Antiseptic">Antiseptic</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Painkillers_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Painkillers_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Painkillers.md" class="wikilink" title="Painkillers">Painkillers</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Chocolate_Bar_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Chocolate_Bar_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Chocolate%20Bar.md" class="wikilink" title="Chocolate Bar">Chocolate Bar</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Pork_and_Beans_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Pork_and_Beans_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Pork%20and%20Beans.md" class="wikilink" title="Pork and Beans">Pork and Beans</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Down_Vest_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Down_Vest_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Down%20Vest.md" class="wikilink" title="Down Vest">Down Vest</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flare_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flare_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flare.md" class="wikilink" title="Flare">Flare</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Fleece_Mittens_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Fleece_Mittens_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Fleece%20Mittens.md" class="wikilink" title="Fleece Mittens">Fleece Mittens</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Revolver_Cartridge_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Revolver_Cartridge_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Revolver%20Ammunition.md" class="wikilink" title="Revolver Cartridge">Revolver Cartridge</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Summit_Soda_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Summit_Soda_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Summit%20Soda.md" class="wikilink" title="Summit Soda">Summit Soda</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Go!_Energy_Drink_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Go!_Energy_Drink_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Go!%20Energy%20Drink.md" class="wikilink" title="Go! Energy Drink">Go! Energy Drink</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Stacy%27s_Grape_Soda_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Stacy's_Grape_Soda_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Stacy%27s%20Grape%20Soda.md" class="wikilink" title="Stacy&#39;s Grape Soda">Stacy's Grape Soda</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Spray_Paint_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Spray_Paint_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Spray%20Paint.md" class="wikilink" title="Spray Paint">Spray Paint</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Toque_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Toque_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Toque.md" class="wikilink" title="Wool Toque">Wool Toque</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Water_Purification_Tablets_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Water_Purification_Tablets_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Water%20Purification%20Tablets.md" class="wikilink" title="Water Purification Tablets">Water Purification Tablets</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Thin_Wool_Sweater_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Thin_Wool_Sweater_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Thin%20Wool%20Sweater.md" class="wikilink" title="Thin Wool Sweater">Thin Wool Sweater</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Work_Boots_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Work_Boots_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Work%20Boots.md" class="wikilink" title="Work Boots">Work Boots</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Work_Gloves_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Work_Gloves_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Work%20Gloves.md" class="wikilink" title="Work Gloves">Work Gloves</a></p></td>
-<td><p>1.38%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cargo_Pants_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cargo_Pants_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cargo%20Pants.md" class="wikilink" title="Cargo Pants">Cargo Pants</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Combat_Boots_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Combat_Boots_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Combat%20Boots.md" class="wikilink" title="Combat Boots">Combat Boots</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Flare_Shell_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Flare_Shell_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Flare%20Shell.md" class="wikilink" title="Flare Shell">Flare Shell</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Replacement_Fuse_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Replacement_Fuse_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Replacement%20Fuse.md" class="wikilink" title="Replacement Fuse">Replacement Fuse</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Cured_Leather_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Cured_Leather_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Cured%20Leather.md" class="wikilink" title="Cured Leather">Cured Leather</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Line_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Line_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Line.md" class="wikilink" title="Line">Line</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Thermal_Underwear_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Thermal_Underwear_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Thermal%20Underwear.md" class="wikilink" title="Thermal Underwear">Thermal Underwear</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wool_Mittens_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wool_Mittens_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wool%20Mittens.md" class="wikilink" title="Wool Mittens">Wool Mittens</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Stack_of_Papers_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Stack_of_Papers_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Stack%20of%20Papers.md" class="wikilink" title="Stack of Papers">Stack of Papers</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Simple_Tools_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Simple_Tools_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Simple%20Tools.md" class="wikilink" title="Simple Tools">Simple Tools</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Tinder_Plug_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Tinder_Plug_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Tinder%20Plug.md" class="wikilink" title="Tinder Plug">Tinder Plug</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Tomato_Soup_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Tomato_Soup_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Tomato%20Soup.md" class="wikilink" title="Tomato Soup">Tomato Soup</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Water_%28Potable%29_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Water_(Potable)_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Water%20%28Potable%29.md" class="wikilink" title="Water (Potable)">Water (Potable)</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Wires_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Wires_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Wires.md" class="wikilink" title="Wires">Wires</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Work_Pants_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Work_Pants_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Work%20Pants.md" class="wikilink" title="Work Pants">Work Pants</a></p></td>
-<td><p>0.69%</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Arrowhead_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Arrowhead_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Arrowhead.md" class="wikilink" title="Arrowhead">Arrowhead</a></p></td>
-<td><p>0.42%</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Rifle_Shell_Casing_icon.png" loading="lazy" width="29" height="29" />
-<figcaption>Rifle_Shell_Casing_icon.png</figcaption>
-</figure></td>
-<td><p><a href="./Rifle%20Shell%20Casing.md" class="wikilink" title="Rifle Shell Casing">Rifle Shell Casing</a></p></td>
-<td><p>0.42%</p></td>
-<td><p>No</p></td>
-</tr>
-</tbody>
-</table>
+| Icon | Item | Rarity | ![](../assets/Misery_icon.png) / *Misery\_icon.png* |
+| --- | --- | --- | --- |
+| ![](../assets/Scrap_Metal_icon.png) / *Scrap\_Metal\_icon.png* | [Scrap Metal](./Scrap%20Metal.md) | 5.1% | Yes |
+| ![](../assets/Cloth_icon.png) / *Cloth\_icon.png* | [Cloth](./Cloth.md) | 5.1% | Yes |
+| ![](../assets/Beef_Jerky_icon.png) / *Beef\_Jerky\_icon.png* | [Beef Jerky](./Beef%20Jerky.md) | 5.1% | Yes |
+| ![](../assets/Cured_Leather_icon.png) / *Cured\_Leather\_icon.png* | [Cured Leather](./Cured%20Leather.md) | 5.1% | Yes |
+| ![](../assets/Line_icon.png) / *Line\_icon.png* | [Line](./Line.md) | 5.1% | Yes |
+| ![](../assets/Lantern_Fuel_icon.png) / *Lantern\_Fuel\_icon.png* | [Lantern Fuel](./Lantern%20Fuel.md) | 5.1% | Yes |
+| ![](../assets/Cardboard_Matches_icon.png) / *Cardboard\_Matches\_icon.png* | [Cardboard Matches](./Cardboard%20Matches.md) | 5.1% | No |
+| ![](../assets/Charcoal_icon.png) / *Charcoal\_icon.png* | [Charcoal](./Charcoal.md) | 5.1% | Yes |
+| ![](../assets/Chocolate_Bar_icon.png) / *Chocolate\_Bar\_icon.png* | [Chocolate Bar](./Chocolate%20Bar.md) | 5.1% | Yes |
+| ![](../assets/Bandage_icon.png) / *Bandage\_icon.png* | [Bandage](./Bandage.md) | 5.1% | Yes |
+| ![](../assets/Wires_icon.png) / *Wires\_icon.png* | [Wires](./Wires.md) | 3.06% | Yes |
+| ![](../assets/Hook_icon.png) / *Hook\_icon.png* | [Hook](./Hook.md) | 3.06% | Yes |
+| ![](../assets/Newsprint_icon.png) / *Newsprint\_icon.png* | [Newsprint](./Newsprint.md) | 3.06% | Yes |
+| ![](../assets/Arrow_Shaft_icon.png) / *Arrow\_Shaft\_icon.png* | [Arrow Shaft](./Arrow%20Shaft.md) | 3.06% | Yes |
+| ![](../assets/Crow_Feather_icon.png) / *Crow\_Feather\_icon.png* | [Crow Feather](./Crow%20Feather.md) | 3.06% | Yes |
+| ![](../assets/Sewing_Kit_icon.png) / *Sewing\_Kit\_icon.png* | [Sewing Kit](./Sewing%20Kit.md) | 3.06% | Yes |
+| ![](../assets/Painkillers_icon.png) / *Painkillers\_icon.png* | [Painkillers](./Painkillers.md) | 3.06% | Yes |
+| ![](../assets/Flare_icon.png) / *Flare\_icon.png* | [Flare](./Flare.md) | 3.06% | Yes |
+| ![](../assets/Tinder_Plug_icon.png) / *Tinder\_Plug\_icon.png* | [Tinder Plug](./Tinder%20Plug.md) | 3.06% | Yes |
+| ![](../assets/Replacement_Fuse_icon.png) / *Replacement\_Fuse\_icon.png* | [Replacement Fuse](./Replacement%20Fuse.md) | 3.06% | Yes |
+| ![](../assets/Rifle_Cartridge_icon.png) / *Rifle\_Cartridge\_icon.png* | [Rifle Cartridge](./Rifle%20Ammunition.md) | 3.06% | No |
+| ![](../assets/Canister_icon.png) / *Canister\_icon.png* | [Canister](./Canister.md) | 3.06% | Yes |
+| ![](../assets/Work_Gloves_icon.png) / *Work\_Gloves\_icon.png* | [Work Gloves](./Work%20Gloves.md) | 2.04% | Yes |
+| ![](../assets/Arrowhead_icon.png) / *Arrowhead\_icon.png* | [Arrowhead](./Arrowhead.md) | 2.04% | Yes |
+| ![](../assets/Flare_Shell_icon.png) / *Flare\_Shell\_icon.png* | [Flare Shell](./Flare%20Shell.md) | 2.04% | No |
+| ![](../assets/Stump_Remover_icon.png) / *Stump\_Remover\_icon.png* | [Stump Remover](./Stump%20Remover.md) | 2.04% | Yes |
+| ![](../assets/Birch_Bark_icon.png) / *Birch\_Bark\_icon.png* | [Birch Bark](./Birch%20Bark.md) | 2.04% | Yes |
+| ![](../assets/Sewing_Kit_icon.png) / *Sewing\_Kit\_icon.png* | [Sewing Kit](./Sewing%20Kit.md) | 2.04% | Yes |
+| ![](../assets/Gauntlets_icon.png) / *Gauntlets\_icon.png* | [Gauntlets](./Gauntlets.md) | 1.02% | No |
+| ![](../assets/Revolver_Cartridge_icon.png) / *Revolver\_Cartridge\_icon.png* | [Revolver Cartridge](./Revolver%20Ammunition.md) | 1.02% | No |
+| ![](../assets/Rifle_Shell_Casing_icon.png) / *Rifle\_Shell\_Casing\_icon.png* | [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) | 1.02% | No |
+
+**style="width:100%; text-align: left;" | Fishing Boat - Right Small Container**
+
+| Icon | Item | Rarity | ![](../assets/Misery_icon.png) / *Misery\_icon.png* |
+| --- | --- | --- | --- |
+| ![](../assets/Cloth_icon.png) / *Cloth\_icon.png* | [Cloth](./Cloth.md) | 11.72% | Yes |
+| ![](../assets/Newsprint_icon.png) / *Newsprint\_icon.png* | [Newsprint](./Newsprint.md) | 11.72% | Yes |
+| ![](../assets/Scrap_Metal_icon.png) / *Scrap\_Metal\_icon.png* | [Scrap Metal](./Scrap%20Metal.md) | 7.81% | Yes |
+| ![](../assets/Cardboard_Matches_icon.png) / *Cardboard\_Matches\_icon.png* | [Cardboard Matches](./Cardboard%20Matches.md) | 6.25% | No |
+| ![](../assets/Line_icon.png) / *Line\_icon.png* | [Line](./Line.md) | 4.69% | Yes |
+| ![](../assets/Recycled_Can_icon.png) / *Recycled\_Can\_icon.png* | [Recycled Can](./Recycled%20Can.md) | 3.91% | Yes |
+| ![](../assets/Flare_icon.png) / *Flare\_icon.png* | [Flare](./Flare.md) | 3.91% | Yes |
+| ![](../assets/Charcoal_icon.png) / *Charcoal\_icon.png* | [Charcoal](./Charcoal.md) | 3.91% | Yes |
+| ![](../assets/Spray_Paint_icon.png) / *Spray\_Paint\_icon.png* | [Spray Paint](./Spray%20Paint.md) | 2.34% | Yes |
+| ![](../assets/Work_Gloves_icon.png) / *Work\_Gloves\_icon.png* | [Work Gloves](./Work%20Gloves.md) | 2.34% | Yes |
+| ![](../assets/Ketchup_Chips_icon.png) / *Ketchup\_Chips\_icon.png* | [Ketchup Chips](./Ketchup%20Chips.md) | 2.34% | Yes |
+| ![](../assets/Wool_Toque_icon.png) / *Wool\_Toque\_icon.png* | [Wool Toque](./Wool%20Toque.md) | 2.34% | Yes |
+| ![](../assets/Stone_icon.png) / *Stone\_icon.png* | [Stone](./Stone.md) | 2.34% | Yes |
+| ![](../assets/Rifle_Cartridge_icon.png) / *Rifle\_Cartridge\_icon.png* | [Rifle Cartridge](./Rifle%20Ammunition.md) | 2.34% | No |
+| ![](../assets/Wool_Scarf_icon.png) / *Wool\_Scarf\_icon.png* | [Wool Scarf](./Wool%20Scarf.md) | 2.34% | Yes |
+| ![](../assets/Fishing_Tackle_icon.png) / *Fishing\_Tackle\_icon.png* | [Fishing Tackle](./Fishing%20Tackle.md) | 2.34% | No |
+| ![](../assets/Hook_icon.png) / *Hook\_icon.png* | [Hook](./Hook.md) | 2.34% | Yes |
+| ![](../assets/Fleece_Mittens_icon.png) / *Fleece\_Mittens\_icon.png* | [Fleece Mittens](./Fleece%20Mittens.md) | 2.34% | Yes |
+| ![](../assets/Tin_of_Sardines_icon.png) / *Tin\_of\_Sardines\_icon.png* | [Tin of Sardines](./Tin%20of%20Sardines.md) | 2.34% | Yes |
+| ![](../assets/Revolver_Cartridge_icon.png) / *Revolver\_Cartridge\_icon.png* | [Revolver Cartridge](./Revolver%20Ammunition.md) | 2.34% | No |
+| ![](../assets/Long_Wool_Scarf_icon.png) / *Long\_Wool\_Scarf\_icon.png* | [Long Wool Scarf](./Long%20Wool%20Scarf.md) | 1.56% | No |
+| ![](../assets/Summit_Soda_icon.png) / *Summit\_Soda\_icon.png* | [Summit Soda](./Summit%20Soda.md) | 1.56% | Yes |
+| ![](../assets/Herbal_Tea_icon.png) / *Herbal\_Tea\_icon.png* | [Herbal Tea](./Herbal%20Tea.md) | 1.56% | Yes |
+| ![](../assets/Marine_Flare_icon.png) / *Marine\_Flare\_icon.png* | [Marine Flare](./Marine%20Flare.md) | 1.56% | Yes |
+| ![](../assets/Energy_Bar_icon.png) / *Energy\_Bar\_icon.png* | [Energy Bar](./Energy%20Bar.md) | 1.56% | No |
+| ![](../assets/Dusting_Sulfur_icon.png) / *Dusting\_Sulfur\_icon.png* | [Dusting Sulfur](./Dusting%20Sulfur.md) | 1.56% | Yes |
+| ![](../assets/Tomato_Soup_icon.png) / *Tomato\_Soup\_icon.png* | [Tomato Soup](./Tomato%20Soup.md) | 1.56% | Yes |
+| ![](../assets/Wires_icon.png) / *Wires\_icon.png* | [Wires](./Wires.md) | 1.56% | Yes |
+| ![](../assets/Balaclava_icon.png) / *Balaclava\_icon.png* | [Balaclava](./Balaclava.md) | 0.78% | No |
+| ![](../assets/Climbing_Socks_icon.png) / *Climbing\_Socks\_icon.png* | [Climbing Socks](./Climbing%20Socks.md) | 0.78% | No |
+| ![](../assets/Aviator_Cap_icon.png) / *Aviator\_Cap\_icon.png* | [Aviator Cap](./Aviator%20Cap.md) | 0.78% | Yes |
+| ![](../assets/Salty_Crackers_icon.png) / *Salty\_Crackers\_icon.png* | [Salty Crackers](./Salty%20Crackers.md) | 0.78% | Yes |
+| ![](../assets/Flare_Shell_icon.png) / *Flare\_Shell\_icon.png* | [Flare Shell](./Flare%20Shell.md) | 0.78% | No |
+| ![](../assets/Down_Vest_icon.png) / *Down\_Vest\_icon.png* | [Down Vest](./Down%20Vest.md) | 0.78% | Yes |
+
+**style="width:100%; text-align: left;" | Fishing Boat - Cabin Container**
+
+| Icon | Item | Rarity | ![](../assets/Misery_icon.png) / *Misery\_icon.png* |
+| --- | --- | --- | --- |
+| ![](../assets/Trail_Boots_icon.png) / *Trail\_Boots\_icon.png* | [Trail Boots](./Trail%20Boots.md) | 3.45% | Yes |
+| ![](../assets/Running_Shoes_icon.png) / *Running\_Shoes\_icon.png* | [Running Shoes](./Running%20Shoes.md) | 3.45% | Yes |
+| ![](../assets/Leather_Shoes_icon.png) / *Leather\_Shoes\_icon.png* | [Leather Shoes](./Leather%20Shoes.md) | 3.45% | Yes |
+| ![](../assets/Driving_Gloves_icon.png) / *Driving\_Gloves\_icon.png* | [Driving Gloves](./Driving%20Gloves.md) | 2.76% | Yes |
+| ![](../assets/Windbreaker_icon.png) / *Windbreaker\_icon.png* | [Windbreaker](./Windbreaker.md) | 2.76% | Yes |
+| ![](../assets/Cotton_Toque_icon.png) / *Cotton\_Toque\_icon.png* | [Cotton Toque](./Cotton%20Toque.md) | 2.76% | Yes |
+| ![](../assets/Hoodie_icon.png) / *Hoodie\_icon.png* | [Hoodie](./Hoodie.md) | 2.76% | Yes |
+| ![](../assets/Sweatshirt_icon.png) / *Sweatshirt\_icon.png* | [Sweatshirt](./Sweatshirt.md) | 2.76% | Yes |
+| ![](../assets/Sport_Vest_icon.png) / *Sport\_Vest\_icon.png* | [Sport Vest](./Sport%20Vest.md) | 2.76% | Yes |
+| ![](../assets/Jeans_icon.png) / *Jeans\_icon.png* | [Jeans](./Jeans.md) | 2.76% | Yes |
+| ![](../assets/Newsprint_icon.png) / *Newsprint\_icon.png* | [Newsprint](./Newsprint.md) | 2.76% | Yes |
+| ![](../assets/Plaid_Shirt_icon.png) / *Plaid\_Shirt\_icon.png* | [Plaid Shirt](./Plaid%20Shirt.md) | 2.76% | Yes |
+| ![](../assets/T-Shirt_icon.png) / *T-Shirt\_icon.png* | [T-Shirt](./T-Shirt.md) | 2.76% | Yes |
+| ![](../assets/Wood_Matches_icon.png) / *Wood\_Matches\_icon.png* | [Wood Matches](./Wood%20Matches.md) | 2.76% | Yes |
+| ![](../assets/Book_icon.png) / *Book\_icon.png* | [Book](./Book.md) | 2.07% | Yes |
+| ![](../assets/Book_icon.png) / *Book\_icon.png* | [Book](./Book.md) | 2.07% | Yes |
+| ![](../assets/Cloth_icon.png) / *Cloth\_icon.png* | [Cloth](./Cloth.md) | 2.07% | Yes |
+| ![](../assets/Cotton_Scarf_icon.png) / *Cotton\_Scarf\_icon.png* | [Cotton Scarf](./Cotton%20Scarf.md) | 2.07% | Yes |
+| ![](../assets/Ketchup_Chips_icon.png) / *Ketchup\_Chips\_icon.png* | [Ketchup Chips](./Ketchup%20Chips.md) | 2.07% | Yes |
+| ![](../assets/Lantern_Fuel_icon.png) / *Lantern\_Fuel\_icon.png* | [Lantern Fuel](./Lantern%20Fuel.md) | 2.07% | Yes |
+| ![](../assets/Simple_Parka_icon.png) / *Simple\_Parka\_icon.png* | [Simple Parka](./Simple%20Parka.md) | 2.07% | Yes |
+| ![](../assets/Newsprint_Roll_icon.png) / *Newsprint\_Roll\_icon.png* | [Newsprint Roll](./Newsprint%20Roll.md) | 2.07% | Yes |
+| ![](../assets/Scrap_Metal_icon.png) / *Scrap\_Metal\_icon.png* | [Scrap Metal](./Scrap%20Metal.md) | 2.07% | Yes |
+| ![](../assets/Light_Shell_icon.png) / *Light\_Shell\_icon.png* | [Light Shell](./Light%20Shell.md) | 2.07% | Yes |
+| ![](../assets/Accelerant_icon.png) / *Accelerant\_icon.png* | [Accelerant](./Accelerant.md) | 1.38% | Yes |
+| ![](../assets/Wool_Scarf_icon.png) / *Wool\_Scarf\_icon.png* | [Wool Scarf](./Wool%20Scarf.md) | 1.38% | Yes |
+| ![](../assets/Marine_Flare_icon.png) / *Marine\_Flare\_icon.png* | [Marine Flare](./Marine%20Flare.md) | 1.38% | Yes |
+| ![](../assets/Antiseptic_icon.png) / *Antiseptic\_icon.png* | [Antiseptic](./Antiseptic.md) | 1.38% | Yes |
+| ![](../assets/Painkillers_icon.png) / *Painkillers\_icon.png* | [Painkillers](./Painkillers.md) | 1.38% | Yes |
+| ![](../assets/Chocolate_Bar_icon.png) / *Chocolate\_Bar\_icon.png* | [Chocolate Bar](./Chocolate%20Bar.md) | 1.38% | Yes |
+| ![](../assets/Pork_and_Beans_icon.png) / *Pork\_and\_Beans\_icon.png* | [Pork and Beans](./Pork%20and%20Beans.md) | 1.38% | Yes |
+| ![](../assets/Down_Vest_icon.png) / *Down\_Vest\_icon.png* | [Down Vest](./Down%20Vest.md) | 1.38% | Yes |
+| ![](../assets/Flare_icon.png) / *Flare\_icon.png* | [Flare](./Flare.md) | 1.38% | Yes |
+| ![](../assets/Fleece_Mittens_icon.png) / *Fleece\_Mittens\_icon.png* | [Fleece Mittens](./Fleece%20Mittens.md) | 1.38% | Yes |
+| ![](../assets/Revolver_Cartridge_icon.png) / *Revolver\_Cartridge\_icon.png* | [Revolver Cartridge](./Revolver%20Ammunition.md) | 1.38% | No |
+| ![](../assets/Summit_Soda_icon.png) / *Summit\_Soda\_icon.png* | [Summit Soda](./Summit%20Soda.md) | 1.38% | Yes |
+| ![](../assets/Go!_Energy_Drink_icon.png) / *Go!\_Energy\_Drink\_icon.png* | [Go! Energy Drink](./Go!%20Energy%20Drink.md) | 1.38% | No |
+| ![](../assets/Stacy%27s_Grape_Soda_icon.png) / *Stacy's\_Grape\_Soda\_icon.png* | [Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md) | 1.38% | No |
+| ![](../assets/Spray_Paint_icon.png) / *Spray\_Paint\_icon.png* | [Spray Paint](./Spray%20Paint.md) | 1.38% | Yes |
+| ![](../assets/Wool_Toque_icon.png) / *Wool\_Toque\_icon.png* | [Wool Toque](./Wool%20Toque.md) | 1.38% | Yes |
+| ![](../assets/Water_Purification_Tablets_icon.png) / *Water\_Purification\_Tablets\_icon.png* | [Water Purification Tablets](./Water%20Purification%20Tablets.md) | 1.38% | Yes |
+| ![](../assets/Thin_Wool_Sweater_icon.png) / *Thin\_Wool\_Sweater\_icon.png* | [Thin Wool Sweater](./Thin%20Wool%20Sweater.md) | 1.38% | Yes |
+| ![](../assets/Work_Boots_icon.png) / *Work\_Boots\_icon.png* | [Work Boots](./Work%20Boots.md) | 1.38% | Yes |
+| ![](../assets/Work_Gloves_icon.png) / *Work\_Gloves\_icon.png* | [Work Gloves](./Work%20Gloves.md) | 1.38% | Yes |
+| ![](../assets/Cargo_Pants_icon.png) / *Cargo\_Pants\_icon.png* | [Cargo Pants](./Cargo%20Pants.md) | 0.69% | No |
+| ![](../assets/Combat_Boots_icon.png) / *Combat\_Boots\_icon.png* | [Combat Boots](./Combat%20Boots.md) | 0.69% | Yes |
+| ![](../assets/Flare_Shell_icon.png) / *Flare\_Shell\_icon.png* | [Flare Shell](./Flare%20Shell.md) | 0.69% | No |
+| ![](../assets/Replacement_Fuse_icon.png) / *Replacement\_Fuse\_icon.png* | [Replacement Fuse](./Replacement%20Fuse.md) | 0.69% | Yes |
+| ![](../assets/Cured_Leather_icon.png) / *Cured\_Leather\_icon.png* | [Cured Leather](./Cured%20Leather.md) | 0.69% | Yes |
+| ![](../assets/Line_icon.png) / *Line\_icon.png* | [Line](./Line.md) | 0.69% | Yes |
+| ![](../assets/Thermal_Underwear_icon.png) / *Thermal\_Underwear\_icon.png* | [Thermal Underwear](./Thermal%20Underwear.md) | 0.69% | Yes |
+| ![](../assets/Wool_Mittens_icon.png) / *Wool\_Mittens\_icon.png* | [Wool Mittens](./Wool%20Mittens.md) | 0.69% | No |
+| ![](../assets/Stack_of_Papers_icon.png) / *Stack\_of\_Papers\_icon.png* | [Stack of Papers](./Stack%20of%20Papers.md) | 0.69% | Yes |
+| ![](../assets/Simple_Tools_icon.png) / *Simple\_Tools\_icon.png* | [Simple Tools](./Simple%20Tools.md) | 0.69% | Yes |
+| ![](../assets/Tinder_Plug_icon.png) / *Tinder\_Plug\_icon.png* | [Tinder Plug](./Tinder%20Plug.md) | 0.69% | Yes |
+| ![](../assets/Tomato_Soup_icon.png) / *Tomato\_Soup\_icon.png* | [Tomato Soup](./Tomato%20Soup.md) | 0.69% | Yes |
+| ![](../assets/Water_%28Potable%29_icon.png) / *Water\_(Potable)\_icon.png* | [Water (Potable)](./Water%20%28Potable%29.md) | 0.69% | No |
+| ![](../assets/Wires_icon.png) / *Wires\_icon.png* | [Wires](./Wires.md) | 0.69% | Yes |
+| ![](../assets/Work_Pants_icon.png) / *Work\_Pants\_icon.png* | [Work Pants](./Work%20Pants.md) | 0.69% | No |
+| ![](../assets/Arrowhead_icon.png) / *Arrowhead\_icon.png* | [Arrowhead](./Arrowhead.md) | 0.42% | Yes |
+| ![](../assets/Rifle_Shell_Casing_icon.png) / *Rifle\_Shell\_Casing\_icon.png* | [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) | 0.42% | No |
 
 ## Strategy
 
-- Wearing <a href="./Crampons.md" class="wikilink" title="Crampons">Crampons</a> increases the timer of weak ice (from 5 to 6 seconds).
-- <a href="./Stamina.md" class="wikilink" title="Sprinting">Sprinting</a> is useful or even necessary to collect beachcombing items without getting wet.
-- Not being <a href="./Encumbrance.md" class="wikilink" title="Encumbered">Encumbered</a> or <a href="./Needs.md" class="wikilink" title="Fatigued">Fatigued</a> greatly affects movement. Dropping heavy items before an attempt increases speed.
+- Wearing [Crampons](./Crampons.md) increases the timer of weak ice (from 5 to 6 seconds).
+- [Sprinting](./Stamina.md) is useful or even necessary to collect beachcombing items without getting wet.
+- Not being [Encumbered](./Encumbrance.md) or [Fatigued](./Needs.md) greatly affects movement. Dropping heavy items before an attempt increases speed.
 - Fleeing to the thicker ice and starting over from a failed attempt is often safer than risking getting wet.
 - Beachcombing items spawn every few days at finite spawn locations; however, no item will spawn if there is already an item present, regardless of condition or usefulness. Thus, undesirable items should still be gathered to allow new items to spawn.
-- Bringing <a href="./Fire%20Starting.md" class="wikilink" title="firestarting">firestarting</a> materials to warm up should one fall in, or removing clothes pre-emptively so they will be dry if the player fails.
-- Some of the items found when beachcombing can be heavy. If you have <a href="./Tales%20from%20the%20Far%20Territory.md" class="wikilink" title="Tales from the Far Territory">Tales from the Far Territory</a> installed, consider bringing along a <a href="./Travois.md" class="wikilink" title="Travois">Travois</a> to maximize efficiency.
+- Bringing [firestarting](./Fire%20Starting.md) materials to warm up should one fall in, or removing clothes pre-emptively so they will be dry if the player fails.
+- Some of the items found when beachcombing can be heavy. If you have [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) installed, consider bringing along a [Travois](./Travois.md) to maximize efficiency.
 
-**Lua execution error in Module:Navbox function navbox** <a href="ru:%D0%91%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE" class="wikilink" title="ru:Береговое собирательство">ru:Береговое собирательство</a>
-
-</div>
+**Lua execution error in Module:Navbox function navbox** [ru:Береговое собирательство](ru:%D0%91%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)

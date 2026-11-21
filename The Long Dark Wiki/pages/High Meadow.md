@@ -7,39 +7,12 @@ source: "https://thelongdark.fandom.com/wiki/High_Meadow"
 
 # High Meadow
 
-<div>
+**High Meadow**
 
-<table class="infobox">
-<caption>High Meadow</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: High_Meadows.jpg]</span>
-<figcaption>High_Meadows.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: High_Meadow_Location.png]</span>
-<figcaption>High_Meadow_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Ash%20Canyon.md" class="wikilink" title="Ash Canyon">Ash Canyon</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/High_Meadows.jpg) / *High\_Meadows.jpg* |
+| **Location** |  |
+|  | ![](../assets/High_Meadow_Location.png) / *High\_Meadow\_Location.png* |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| Type | Outdoors\|- |

@@ -7,44 +7,24 @@ source: "https://thelongdark.fandom.com/wiki/Storage_Cupboard"
 
 # Storage Cupboard
 
-<div>
+**Storage Cupboard**
 
-<table class="infobox">
-<caption>Storage Cupboard</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Storage_Cupboard.jpg]</span>
-<figcaption>Storage_Cupboard.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p>1.60</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Container</strong></p></td>
-</tr>
-<tr>
-<td><p>Capacity</p></td>
-<td><p>200.00 kg(440 lbs)</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Storage_Cupboard.jpg) / *Storage\_Cupboard.jpg* |
+| Release | 1.60 |
+| **Container** |  |
+| Capacity | 200.00 kg(440 lbs) |
 
-The **Storage Cupboard** is a unique stationary interactable object, and is a large <a href="./Cabinet.md" class="wikilink" title="Cabinet">Cabinet</a> found in the kitchen of the <a href="./Community%20Hall.md" class="wikilink" title="Community Hall">Community Hall</a>. It appears in both <a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a> and <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a>. It is currently the largest storage container in the game, having a massive 200.00 kg (440 lb).
+The **Storage Cupboard** is a unique stationary interactable object, and is a large [Cabinet](./Cabinet.md) found in the kitchen of the [Community Hall](./Community%20Hall.md). It appears in both [Survival Mode](./Survival%20Mode.md) and [Wintermute](./Wintermute.md). It is currently the largest storage container in the game, having a massive 200.00 kg (440 lb).
 
 ## Survival Mode
 
-It can be looted as an ordinary container in Survival Mode, serving as a large storage container for items cooked on the nearby <a href="./Stove.md" class="wikilink" title="Stove">Stove</a>. As of TFTFT, it only stores 60.00 kg (132 lb) storage capacity compared to Wintermute, but still boasts the record as the largest container in the game.
+It can be looted as an ordinary container in Survival Mode, serving as a large storage container for items cooked on the nearby [Stove](./Stove.md). As of TFTFT, it only stores 60.00 kg (132 lb) storage capacity compared to Wintermute, but still boasts the record as the largest container in the game.
 
 ## Wintermute
 
-A large amount of supplies must be stored in this container as part of the <a href="./Coming%20Storm.md" class="wikilink" title="Coming Storm">Coming Storm</a> mission, including:
+A large amount of supplies must be stored in this container as part of the [Coming Storm](./Coming%20Storm.md) mission, including:
 
 - Add supplies to the hall's kitchen storage
   - (x8) Antiseptic/Old man's beard dressing
@@ -57,5 +37,3 @@ A large amount of supplies must be stored in this container as part of the <a hr
   - (x4) Distress pistol shells
 
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

@@ -7,161 +7,54 @@ source: "https://thelongdark.fandom.com/wiki/Goldeye_(Cooked)"
 
 # Goldeye \(Cooked\)
 
-<div>
+*For the raw version, see [Goldeye (Raw)](./Goldeye%20%28Raw%29.md).*
 
-  
-<span class="dablink">*For the raw version, see <a href="./Goldeye%20%28Raw%29.md" class="wikilink" title="Goldeye (Raw)">Goldeye (Raw)</a>.*</span>
+**Goldeye (Cooked)**
 
-<table class="infobox">
-<caption>Goldeye (Cooked)</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Goldeye_%28Cooked%29_icon.png" loading="lazy" width="250" />
-<figcaption>Goldeye_(Cooked)_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17" class="wikilink" title="21 June 2023">21 June 2023</a></p></td>
-</tr>
-<tr>
-<td><p>Wintermute</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Item type</p></td>
-<td><p><a href="./Food%20And%20Drink.md" class="wikilink" title="Food And Drink">Food And Drink</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Stackable</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><p>Examine</p></td>
-<td><p>Cooked Goldeye. A bland flavor on its own.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Calories</p></td>
-<td><p>720 kcal</p></td>
-</tr>
-<tr>
-<td><p>Hydration</p></td>
-<td><p>-5.0%</p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>1.6 kg (3.52 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Advanced data</strong></p></td>
-</tr>
-<tr>
-<td><p>Item key</p></td>
-<td><p>GAMEPLAY_CookedGoldeye</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Goldeye_%28Cooked%29_icon.png) / *Goldeye\_(Cooked)\_icon.png* |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Cooked Goldeye. A bland flavor on its own. |
+| **Values** |  |
+| Calories | 720 kcal |
+| Hydration | -5.0% |
+| Weight | 1.6 kg (3.52 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_CookedGoldeye |
 
-**Goldeye (Cooked)** is a cooked <a href="./Food%20And%20Drink.md" class="wikilink" title="food">food</a> item in *The Long Dark*. Cooked goldeye have a minimum raw weight of 0.21 kg and a maximum raw weight of 1.6 kg.
+**Goldeye (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in *The Long Dark*. Cooked goldeye have a minimum raw weight of 0.21 kg and a maximum raw weight of 1.6 kg.
 
 ## Recipe
 
-<table class="infobox">
-<caption>Goldeye (Cooked)</caption>
-<tbody>
-<tr>
-<td colspan="2"><p><strong>Template:pic link plain</strong><a href="./Cooking.md" class="wikilink" title="Cooking">Cooking</a></p></td>
-</tr>
-<tr>
-<td colspan="2"><p>-</p></td>
-</tr>
-<tr>
-<td colspan="2"><p>-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Requirements</strong></p></td>
-</tr>
-<tr>
-<td><p>Facility</p></td>
-<td><p><strong>Template:iconlink</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Materials</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Template:iconlink plain</strong></p></td>
-</tr>
-<tr>
-<td><p>Item</p></td>
-<td><p><a href="./Goldeye%20%28Raw%29.md" class="wikilink" title="Goldeye (Raw)">Goldeye (Raw)</a></p></td>
-</tr>
-<tr>
-<td><p>Quantity</p></td>
-<td><p>1</p></td>
-</tr>
-</tbody>
-</table>
+**Goldeye (Cooked)**
+
+| Property | Details |
+| --- | --- |
+| **Template:pic link plain**[Cooking](./Cooking.md)** |  |
+|  | - |
+|  | - |
+| **Requirements** |  |
+| Facility | **Template:iconlink** |
+| **Materials** |  |
+| **Template:iconlink plain** |  |
+| Item | [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) |
+| Quantity | 1 |
 
 ## Gallery
 
-<table class="gallery">
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Goldeye_%28Cooked%29_icon.png" title="Fresh" loading="lazy" width="140" />
-<figcaption>Fresh</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Goldeye_%28Cooked%29_Gamey_icon.png" title="Gamey" loading="lazy" width="140" />
-<figcaption>Gamey</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Goldeye_%28Cooked%29_Mouldy_icon.png" title="Mouldy" loading="lazy" width="140" />
-<figcaption>Mouldy</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Goldeye_%28Cooked%29_Rancid_icon.png" title="Rancid" loading="lazy" width="140" />
-<figcaption>Rancid</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Goldeye_%28Cooked%29_Ruined_icon.png" title="Ruined" loading="lazy" width="140" />
-<figcaption>Ruined</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| --- | --- | --- | --- |
+| ![Fresh](../assets/Goldeye_%28Cooked%29_icon.png) / *Fresh* | ![Gamey](../assets/Goldeye_%28Cooked%29_Gamey_icon.png) / *Gamey* | ![Mouldy](../assets/Goldeye_%28Cooked%29_Mouldy_icon.png) / *Mouldy* | ![Rancid](../assets/Goldeye_%28Cooked%29_Rancid_icon.png) / *Rancid* |
+| ![Ruined](../assets/Goldeye_%28Cooked%29_Ruined_icon.png) / *Ruined* |  |  |  |
 
 ## Update history
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **21 June 2023 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
 
-</div>
-
-**Lua execution error in Module:Navbox function navbox** <a href="ru:%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B3%D0%BB%D0%B0%D0%B7%D0%BA%D0%B0_(%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F)" class="wikilink" title="ru:Золотоглазка (приготовленная)">ru:Золотоглазка (приготовленная)</a>
-
-</div>
+**Lua execution error in Module:Navbox function navbox** [ru:Золотоглазка (приготовленная)](ru:%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B3%D0%BB%D0%B0%D0%B7%D0%BA%D0%B0_%28%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%29)

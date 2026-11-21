@@ -7,37 +7,17 @@ source: "https://thelongdark.fandom.com/wiki/You_Made_It!"
 
 # You Made It\!
 
-<div>
+**You Made It!**
 
-<table class="infobox">
-<caption>You Made It!</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/You_Made_It!_icon.png" loading="lazy" width="250" />
-<figcaption>You_Made_It!_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>You survived 10 days in a single Survival mode game.</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/You_Made_It!_icon.png) / *You\_Made\_It!\_icon.png* |
+| Description | You survived 10 days in a single Survival mode game. |
 
-**You Made It!** is an <a href="./The%20Long%20Dark%20%E2%80%94%20Achievements.md" class="wikilink" title="achievement">achievement</a> in *<a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark">The Long Dark</a>*.
+**You Made It!** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
 
 ## Guide
 
-This achievement is obtained after surviving for ten whole days in a single <a href="./Survival%20Mode.md" class="wikilink" title="Survival mode">Survival mode</a> game. It is most easily done on Pilgrim.
+This achievement is obtained after surviving for ten whole days in a single [Survival mode](./Survival%20Mode.md) game. It is most easily done on Pilgrim.
 
-**Lua execution error in Module:Navbox function navbox**<a href="ru:%D0%94%D0%BE%D1%81%D1%82%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_Steam" class="wikilink" title="ru:Достижения Steam">ru:Достижения Steam</a>
-
-</div>
+**Lua execution error in Module:Navbox function navbox**[ru:Достижения Steam](ru:%D0%94%D0%BE%D1%81%D1%82%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_Steam)

@@ -7,90 +7,39 @@ source: "https://thelongdark.fandom.com/wiki/Scurvy_Risk"
 
 # Scurvy Risk
 
-<div>
-
 **Contents**
 
-- [Overview](#Overview)
-- [Enable Option](#Enable_Option)
-- [Risk and Prevention](#Risk_and_Prevention)
-- [Affliction](#Affliction)
-- [Treatment](#Treatment)
-- [Cooked Meals vs Ingredients](#Cooked_Meals_vs_Ingredients)
-- [Vitamin-C Foods](#Vitamin-C_Foods)
-- [Trivia](#Trivia)
-- [Update history](#Update_history)
+- [Overview](#overview)
+- [Enable Option](#enable-option)
+- [Risk and Prevention](#risk-and-prevention)
+- [Affliction](#affliction)
+- [Treatment](#treatment)
+- [Cooked Meals vs Ingredients](#cooked-meals-vs-ingredients)
+- [Vitamin-C Foods](#vitamin-c-foods)
+- [Trivia](#trivia)
+- [Update history](#update-history)
 
-<table class="infobox">
-<caption>Scurvy Risk</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Scurvy_Risk_icon.png]</span>
-<figcaption>Scurvy_Risk_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25" class="wikilink" title="5 December 2023">5 December 2023</a></p></td>
-</tr>
-<tr>
-<td><p>Update</p></td>
-<td><p>2.25</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Category</p></td>
-<td><p><a href="./Afflictions.md" class="wikilink" title="Afflictions">Afflictions</a></p></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>Your diet is too low in Vitamin-C.</p></td>
-</tr>
-<tr>
-<td><p>Caused By</p></td>
-<td><p>Diet low in Vitamin-C</p></td>
-</tr>
-<tr>
-<td><p>Effect</p></td>
-<td><p>Negative</p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Risk</p></td>
-</tr>
-<tr>
-<td><p>Affliction Duration</p></td>
-<td><p>Until Treated</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Treatment</strong></p></td>
-</tr>
-<tr>
-<td><p>Treatment</p></td>
-<td><p>Consume foods high in Vitamin-C to cure Scurvy Risk</p></td>
-</tr>
-<tr>
-<td><p>Recovery Time</p></td>
-<td><p>Immediate</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Advanced Data</strong></p></td>
-</tr>
-<tr>
-<td><p>Item Key</p></td>
-<td><p>GAMEPLAY_Scurvy</p></td>
-</tr>
-</tbody>
-</table>
+**Scurvy Risk**
 
-**Scurvy Risk** is an <a href="./Afflictions.md" class="wikilink" title="Affliction">Affliction</a> in *The Long Dark*. It is caused by consuming a diet with low/no Vitamin-C, and results in <a href="./Scurvy.md" class="wikilink" title="Scurvy">Scurvy</a> if left untreated.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Scurvy_Risk_icon.png) / *Scurvy\_Risk\_icon.png* |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Update | 2.25 |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Description | Your diet is too low in Vitamin-C. |
+| Caused By | Diet low in Vitamin-C |
+| Effect | Negative |
+| Type | Risk |
+| Affliction Duration | Until Treated |
+| **Treatment** |  |
+| Treatment | Consume foods high in Vitamin-C to cure Scurvy Risk |
+| Recovery Time | Immediate |
+| **Advanced Data** |  |
+| Item Key | GAMEPLAY\_Scurvy |
+
+**Scurvy Risk** is an [Affliction](./Afflictions.md) in *The Long Dark*. It is caused by consuming a diet with low/no Vitamin-C, and results in [Scurvy](./Scurvy.md) if left untreated.
 
 ## Overview
 
@@ -100,26 +49,18 @@ Scurvy is a long-term affliction caused by Vitamin-C deficiency: failing to cons
 
 Scurvy Risk appears when below 20% of the Vitamin-C maximum, and will progress into the Scurvy affliction unless more Vitamin-C is consumed.
 
-Most Vitamin-C food sources are finite (artificial foods and cattails), which can make Scurvy an increasing challenge in the late-game. However fish, and to a lesser extent <a href="./Birch%20Bark%20Tea.md" class="wikilink" title="Birch Bark Tea">Birch Bark Tea</a>, are renewable sources.
+Most Vitamin-C food sources are finite (artificial foods and cattails), which can make Scurvy an increasing challenge in the late-game. However fish, and to a lesser extent [Birch Bark Tea](./Birch%20Bark%20Tea.md), are renewable sources.
 
 ## Enable Option
 
-\[Missing image: Scurvy_Warning.jpg\] Scurvy Enable option warning{\| style="margin:auto" \| style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" \|“ \| <span style="font-style:italic">Fail to eat a balanced diet and Scurvy will hound you relentlessly. While the onset is slow, the consequences can be disastrous to your health. The choice is yours.\
-Disable if you do not want to be pressured to find Vitamin-C rich foods.</span>
-
-<div style="clear:both">
-
-</div>
-
-<div style="float:right; font-size:9pt">
+![Scurvy Enable option warning](../assets/Scurvy_Warning.jpg)*Scurvy Enable option warning*{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Fail to eat a balanced diet and Scurvy will hound you relentlessly. While the onset is slow, the consequences can be disastrous to your health. The choice is yours.  
+ Disable if you do not want to be pressured to find Vitamin-C rich foods.**
 
 In-game description
 
-</div>
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}Starting a Survival Mode save file presents the option to enable Scurvy to that save. If enabled, foods with Vitamin-C will be labeled as a Minor, Moderate, or Major source of Vitamin-C when examined.
 
-\| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" \|” \|}Starting a Survival Mode save file presents the option to enable Scurvy to that save. If enabled, foods with Vitamin-C will be labeled as a Minor, Moderate, or Major source of Vitamin-C when examined.
-
-Scurvy is present on <a href="./Voyageur.md" class="wikilink" title="Voyageur">Voyageur</a>, <a href="./Stalker.md" class="wikilink" title="Stalker">Stalker</a>, <a href="./Interloper.md" class="wikilink" title="Interloper">Interloper</a>, and <a href="./Misery.md" class="wikilink" title="Misery">Misery</a> modes, and is disabled in <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a> and <a href="./Pilgrim.md" class="wikilink" title="Pilgrim">Pilgrim</a>.
+Scurvy is present on [Voyageur](./Voyageur.md), [Stalker](./Stalker.md), [Interloper](./Interloper.md), and [Misery](./Misery.md) modes, and is disabled in [Wintermute](./Wintermute.md) and [Pilgrim](./Pilgrim.md).
 
 This option to disable Scurvy is not available when playing on Misery.
 
@@ -127,7 +68,7 @@ This option to disable Scurvy is not available when playing on Misery.
 
 Scurvy can be prevented by regularly consuming enough Vitamin-C foods to prevent Scurvy Risk from reaching 100%. Scurvy Risk will appear when the survivor's hidden Vitamin-C stat drops below 20% remaining, giving the survivor a warning several days before the true affliction occurs.
 
-- Vitamin-C is a hidden survivor statistic, and is not displayed on the <a href="./Survival%20Menu.md" class="wikilink" title="Status Screen">Status Screen</a>.
+- Vitamin-C is a hidden survivor statistic, and is not displayed on the [Status Screen](./Survival%20Menu.md).
 - Vitamin-C begins at 500 units at the start of a new Survival Sandbox (or upon treating Scurvy)
 - A small amount of Vitamin-C is drained each day (10 units on Voyageur or 20 units on Stalker/Interloper).
 - Scurvy Risk manifests at/below 100 units of Vitamin-C (20% remaining) on the Status Screen.
@@ -141,9 +82,7 @@ Because Vitamin-C drains at a consistent rate, it is possible to estimate the su
 
 ## Affliction
 
-|  |  |  |
-|----|----|----|
-| “ | <span style="font-style:italic">You consumed a diet low in Vitamin-C for too long and now have Scurvy. If left untreated you will continue to weaken and lose condition until you succumb and die.</span> | ” |
+> “**You consumed a diet low in Vitamin-C for too long and now have Scurvy. If left untreated you will continue to weaken and lose condition until you succumb and die.**”
 
 Scurvy manifests when Scurvy Risk reaches 100% (0 Vitamin-C), which causes constant slow Condition loss and multiple debilitating effects until treatment or death. Scurvy is cured immediately by consuming food containing Vitamin-C and fully emptying the recovery time bar (tracked at 500 units of Vitamin-C)
 
@@ -151,13 +90,13 @@ When the survivor is afflicted with Scurvy, the recovery time bar will not incre
 
 Effects of Scurvy:
 
-- -0.5% <a href="./Condition.md" class="wikilink" title="Condition">Condition</a> per hour (-12% per day)
-- Disables Condition recovery while awake (when all four <a href="./Needs.md" class="wikilink" title="Needs">Needs</a> are met)\*
+- -0.5% [Condition](./Condition.md) per hour (-12% per day)
+- Disables Condition recovery while awake (when all four [Needs](./Needs.md) are met)\*
 - -5.00kg of carry weight
-- +50% <a href="./Fatigue.md" class="wikilink" title="Fatigue">Fatigue</a> drain
-- +50% <a href="./Stamina.md" class="wikilink" title="Stamina">Stamina</a> drain
+- +50% [Fatigue](./Fatigue.md) drain
+- +50% [Stamina](./Stamina.md) drain
 
-\*Note: While afflicted with Scurvy, Condition can still be recovered from <a href="./Sleep.md" class="wikilink" title="Sleep">Sleep</a> (if all four <a href="./Needs.md" class="wikilink" title="Needs">Needs</a> are met), but Condition recovery will be reduced as the -0.5% Condition loss will occur each hour even while asleep. The Condition restoring effects of <a href="./Birch%20Bark%20Tea.md" class="wikilink" title="Birch Bark Tea">Birch Bark Tea</a>, <a href="./Emergency%20Stim.md" class="wikilink" title="Emergency Stims">Emergency Stims</a> and some <a href="./Cooking.md" class="wikilink" title="Cooked Foods">Cooked Foods</a> retain their full effect.
+\*Note: While afflicted with Scurvy, Condition can still be recovered from [Sleep](./Sleep.md) (if all four [Needs](./Needs.md) are met), but Condition recovery will be reduced as the -0.5% Condition loss will occur each hour even while asleep. The Condition restoring effects of [Birch Bark Tea](./Birch%20Bark%20Tea.md), [Emergency Stims](./Emergency%20Stim.md) and some [Cooked Foods](./Cooking.md) retain their full effect.
 
 ## Treatment
 
@@ -165,9 +104,9 @@ Scurvy and Scurvy Risk is cured by consuming food containing Vitamin-C until the
 
 Eating a single piece food that has Minor levels of Vitamin-C will only prevent Scurvy Risk for a brief amount of time, reappearing 1-2 days or less. Because of this, it is better to consume Moderate or Major level foods (or many Minor level foods) to keep Scurvy Risk away for longer.
 
-Artificial Foods and <a href="./Ice%20Fishing.md" class="wikilink" title="Fish">Fish</a> hold the largest values of Vitamin-C, catching, cooking, and eating a large amount of cooked fish should be the player's immediate priority. Cooking Fish reduces the amount of Vitamin-C, but Raw Fish carry the high likelihood of causing <a href="./Food%20Poisoning.md" class="wikilink" title="Food Poisoning">Food Poisoning</a>. Another consideration is Calorie-to-Vitamin-C density, since the survivor cannot eat food beyond <a href="./Hunger.md" class="wikilink" title="2500 stored Calories">2500 stored Calories</a>.
+Artificial Foods and [Fish](./Ice%20Fishing.md) hold the largest values of Vitamin-C, catching, cooking, and eating a large amount of cooked fish should be the player's immediate priority. Cooking Fish reduces the amount of Vitamin-C, but Raw Fish carry the high likelihood of causing [Food Poisoning](./Food%20Poisoning.md). Another consideration is Calorie-to-Vitamin-C density, since the survivor cannot eat food beyond [2500 stored Calories](./Hunger.md).
 
-If the player has the Tales from the Far Territory addon installed, reaching maximum Trust with the <a href="./Trader.md" class="wikilink" title="Trader">Trader</a> unlocks access to <a href="./Vitamin-C%20Pills.md" class="wikilink" title="Vitamin-C Pills">Vitamin-C Pills</a>, a powerful, renewable set of pills that can eliminate Scurvy instantly.
+If the player has the Tales from the Far Territory addon installed, reaching maximum Trust with the [Trader](./Trader.md) unlocks access to [Vitamin-C Pills](./Vitamin-C%20Pills.md), a powerful, renewable set of pills that can eliminate Scurvy instantly.
 
 Curing Scurvy will resume the daily Vitamin-C drain, with the survivor starting at 500 units of Vitamin-C.
 
@@ -190,73 +129,67 @@ Examples (in order of added/lost Vitamin-C)
 
 ## Vitamin-C Foods
 
-Note that fish are the only food where the higher their weight, the higher their Vitamin-C levels becomes (average fish weight increases when caught with higher <a href="./Ice%20Fishing.md" class="wikilink" title="Ice Fishing">Ice Fishing</a> Levels). All other Vitamin-C levels in foods are static.
+Note that fish are the only food where the higher their weight, the higher their Vitamin-C levels becomes (average fish weight increases when caught with higher [Ice Fishing](./Ice%20Fishing.md) Levels). All other Vitamin-C levels in foods are static.
 
 | Item | Vitamin C | Hidden% | Vitamin C/kg | Vitamin C/1000 kcal |
-|----|----|----|----|----|
-| <img src="../assets/Vitamin-C_Pills_icon.png" loading="lazy" width="29" height="29" alt="Vitamin-C_Pills_icon.png" /> <a href="./Vitamin-C%20Pills.md" class="wikilink" title="Vitamin-C Pills">Vitamin-C Pills</a> | Major | 125 | 6250 | 25000 |
-| <img src="../assets/Thomson_Family_Stew_icon.png" loading="lazy" width="29" height="29" alt="Thomson_Family_Stew_icon.png" /> <a href="./Thomson%20Family%20Stew.md" class="wikilink" title="Thomson Family Stew">Thomson Family Stew</a> | Major | 80 | 228 | 88.89 |
-| <img src="../assets/Airline_Food_-_Vegetarian_icon.png" loading="lazy" width="29" height="29" alt="Airline_Food_-_Vegetarian_icon.png" /> <a href="./Airline%20Food%20-%20Vegetarian.md" class="wikilink" title="Airline Food - Vegetarian">Airline Food - Vegetarian</a> | Major | 73 | 292 | 130.36 |
-| <img src="../assets/Dockworker%27s_Pie_icon.png" loading="lazy" width="29" height="29" alt="Dockworker&#39;s_Pie_icon.png" /> <a href="./Dockworker%27s%20Pie.md" class="wikilink" title="Dockworker&#39;s Pie">Dockworker's Pie</a> | Major | 68 | 226 | 45.33 |
-| <img src="../assets/Military-Grade_MRE_icon.png" loading="lazy" width="29" height="29" alt="Military-Grade_MRE_icon.png" /> <a href="./Military-Grade%20MRE.md" class="wikilink" title="Military-Grade MRE">Military-Grade MRE</a> | Major | 65 | 130 | 37.14 |
-| <img src="../assets/Camber_Flight_Porridge_icon.png" loading="lazy" width="29" height="29" alt="Camber_Flight_Porridge_icon.png" /> <a href="./Camber%20Flight%20Porridge.md" class="wikilink" title="Camber Flight Porridge">Camber Flight Porridge</a> | Moderate | 59 | 197 | 47.20 |
-| <img src="../assets/Last_Resort_Soup_icon.png" loading="lazy" width="29" height="29" alt="Last_Resort_Soup_icon.png" /> <a href="./Last%20Resort%20Soup.md" class="wikilink" title="Last Resort Soup">Last Resort Soup</a> | Moderate | 40 | 114 | 50 |
-| <img src="../assets/Lily%27s_Pancakes_icon.png" loading="lazy" width="29" height="29" alt="Lily&#39;s_Pancakes_icon.png" /> <a href="./Lily%27s%20Pancakes.md" class="wikilink" title="Lily&#39;s Pancakes">Lily's Pancakes</a> | Moderate | 57 | 285 | 57.00 |
-| <img src="../assets/Pinnacle_Peaches_icon.png" loading="lazy" width="29" height="29" alt="Pinnacle_Peaches_icon.png" /> <a href="./Pinnacle%20Peaches.md" class="wikilink" title="Pinnacle Peaches">Pinnacle Peaches</a> | Moderate | 56 | 112 | 124.44 |
-| <img src="../assets/Canned_Pineapple_icon.png" loading="lazy" width="29" height="29" alt="Canned_Pineapple_icon.png" /> <a href="./Canned%20Pineapple.md" class="wikilink" title="Canned Pineapple">Canned Pineapple</a> | Moderate | 56 | 140 | 189.83 |
-| <img src="../assets/Canned_Corn_icon.png" loading="lazy" width="29" height="29" alt="Canned_Corn_icon.png" /> <a href="./Canned%20Corn.md" class="wikilink" title="Canned Corn">Canned Corn</a> | Moderate | 52 | 173 | 176.27 |
-| <img src="../assets/Pickles_icon.png" loading="lazy" width="29" height="29" alt="Pickles_icon.png" /> <a href="./Pickles.md" class="wikilink" title="Pickles">Pickles</a> | Moderate | 50 | 83 | 76.92 |
-| <img src="../assets/Ranger_Stew_icon.png" loading="lazy" width="29" height="29" alt="Ranger_Stew_icon.png" /> <a href="./Ranger%20Stew.md" class="wikilink" title="Ranger Stew">Ranger Stew</a> | Moderate | 42 | 105 | 26.25 |
-| <img src="../assets/Tomato_Soup_icon.png" loading="lazy" width="29" height="29" alt="Tomato_Soup_icon.png" /> <a href="./Tomato%20Soup.md" class="wikilink" title="Tomato Soup">Tomato Soup</a> | Moderate | 30 | 116 | 100 |
-| <img src="../assets/Airline_Food_-_Chicken_icon.png" loading="lazy" width="29" height="29" alt="Airline_Food_-_Chicken_icon.png" /> <a href="./Airline%20Food%20-%20Chicken.md" class="wikilink" title="Airline Food - Chicken">Airline Food - Chicken</a> | Moderate | 29 | 116 | 46.77 |
-| <img src="../assets/Porter%27s_Soup_icon.png" loading="lazy" width="29" height="29" alt="Porter&#39;s_Soup_icon.png" /> <a href="./Porter%27s%20Soup.md" class="wikilink" title="Porter&#39;s Soup">Porter's Soup</a> | Moderate | 24 | 240 | 20 |
-| <img src="../assets/Cooked_Potato_icon.png" loading="lazy" width="29" height="29" alt="Cooked_Potato_icon.png" /> <a href="./Cooked%20Potato.md" class="wikilink" title="Cooked Potato">Cooked Potato</a> | Moderate | 24 | 160 | 96 |
-| <img src="../assets/Prepper%27s_Pie_icon.png" loading="lazy" width="29" height="29" alt="Prepper&#39;s_Pie_icon.png" /> <a href="./Prepper%27s%20Pie.md" class="wikilink" title="Prepper&#39;s Pie">Prepper's Pie</a> | Moderate | 22 | 110 | 24.44 |
-| <img src="../assets/Lake_Whitefish_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Lake_Whitefish_(Raw)_icon.png" /> <a href="./Lake%20Whitefish%20%28Raw%29.md" class="wikilink" title="Lake Whitefish (Raw) 1kg">Lake Whitefish (Raw) 1kg</a> | Moderate | 22 | 22 | 38.26 |
-| <img src="../assets/Rainbow_Trout_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Rainbow_Trout_(Raw)_icon.png" /> <a href="./Rainbow%20Trout%20%28Raw%29.md" class="wikilink" title="Rainbow Trout (Raw) 1kg">Rainbow Trout (Raw) 1kg</a> | Moderate | 20 | 20 | 34.78 |
-| <img src="../assets/Peach_Pie_icon.png" loading="lazy" width="29" height="29" alt="Peach_Pie_icon.png" /> <a href="./Peach%20Pie.md" class="wikilink" title="Peach Pie">Peach Pie</a> | Minor | 19 | 190 | 76 |
-| <img src="../assets/Trout_Stew_icon.png" loading="lazy" width="29" height="29" alt="Trout_Stew_icon.png" /> <a href="./Trout%20Stew.md" class="wikilink" title="Trout Stew">Trout Stew</a> | Minor | 17 | 48 | 22.67 |
-| <img src="../assets/Lake_Whitefish_%28Cooked%29_icon.png" loading="lazy" width="29" height="29" alt="Lake_Whitefish_(Cooked)_icon.png" /> <a href="./Lake%20Whitefish%20%28Cooked%29.md" class="wikilink" title="Lake Whitefish (Cooked) 1kg">Lake Whitefish (Cooked) 1kg</a> | Minor | 16 | 16 | 27.83 |
-| <img src="../assets/Rainbow_Trout_%28Cooked%29_icon.png" loading="lazy" width="29" height="29" alt="Rainbow_Trout_(Cooked)_icon.png" /> <a href="./Rainbow%20Trout%20%28Cooked%29.md" class="wikilink" title="Rainbow Trout (Cooked) 1kg">Rainbow Trout (Cooked) 1kg</a> | Minor | 15 | 15 | 26.09 |
-| <img src="../assets/Coastal_Fishcakes_icon.png" loading="lazy" width="29" height="29" alt="Coastal_Fishcakes_icon.png" /> <a href="./Coastal%20Fishcakes.md" class="wikilink" title="Coastal Fishcakes">Coastal Fishcakes</a> | Minor | 14 | 266 | 44.87 |
-| <img src="../assets/Pemmican_Bar_icon.png" loading="lazy" width="29" height="29" alt="Pemmican_Bar_icon.png" /> <a href="./Pemmican%20Bar.md" class="wikilink" title="Pemmican Bar">Pemmican Bar</a> | Minor | 14 | 224 | 31.1 |
-| <img src="../assets/Rose_Hip_Tea_icon.png" loading="lazy" width="29" height="29" alt="Rose_Hip_Tea_icon.png" /> <a href="./Rose%20Hip%20Tea.md" class="wikilink" title="Rose Hip Tea">Rose Hip Tea</a> | Minor | 13 | 130 | 130 |
-| <img src="../assets/Condensed_Milk_icon.png" loading="lazy" width="29" height="29" alt="Condensed_Milk_icon.png" /> <a href="./Condensed%20Milk.md" class="wikilink" title="Condensed Milk">Condensed Milk</a> | Minor | 12 | 48 | 16 |
-| <img src="../assets/Coho_Salmon_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Coho_Salmon_(Raw)_icon.png" /> <a href="./Coho%20Salmon%20%28Raw%29.md" class="wikilink" title="Coho Salmon (Raw) 1kg">Coho Salmon (Raw) 1kg</a> | Minor | 12 | 12 | 7.27 |
-| <img src="../assets/Cup_of_Herbal_Tea_icon.png" loading="lazy" width="29" height="29" alt="Cup_of_Herbal_Tea_icon.png" /> <a href="./Cup%20of%20Herbal%20Tea.md" class="wikilink" title="Cup of Herbal Tea">Cup of Herbal Tea</a> | Minor | 11 | 110 | 110 |
-| <img src="../assets/Smallmouth_Bass_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Smallmouth_Bass_(Raw)_icon.png" /> <a href="./Smallmouth%20Bass%20%28Raw%29.md" class="wikilink" title="Smallmouth Bass (Raw) 1kg">Smallmouth Bass (Raw) 1kg</a> | Minor | 11 | 11 | 7.33 |
-| <img src="../assets/Carrot_icon.png" loading="lazy" width="29" height="29" alt="Carrot_icon.png" /> <a href="./Carrot.md" class="wikilink" title="Carrot">Carrot</a> | Minor | 9 | 90 | 51.43 |
-| <img src="../assets/Coho_Salmon_%28Cooked%29_icon.png" loading="lazy" width="29" height="29" alt="Coho_Salmon_(Cooked)_icon.png" /> <a href="./Coho%20Salmon%20%28Cooked%29.md" class="wikilink" title="Coho Salmon (Cooked) 1kg">Coho Salmon (Cooked) 1kg</a> | Minor | 9 | 9 | 5.45 |
-| <img src="../assets/Prepared_Burdock_icon.png" loading="lazy" width="29" height="29" alt="Prepared_Burdock_icon.png" /> <a href="./Prepared%20Burdock.md" class="wikilink" title="Prepared Burdock">Prepared Burdock</a> | Minor | 8 | 80 | 29.09 |
-| <img src="../assets/Smallmouth_Bass_%28Cooked%29_icon.png" loading="lazy" width="29" height="29" alt="Smallmouth_Bass_(Cooked)_icon.png" /> <a href="./Smallmouth%20Bass%20%28Cooked%29.md" class="wikilink" title="Smallmouth Bass (Cooked) 1kg">Smallmouth Bass (Cooked) 1kg</a> | Minor | 8 | 8 | 5.33 |
-| <img src="../assets/Burdock_Tea_icon.png" loading="lazy" width="29" height="29" alt="Burdock_Tea_icon.png" /> <a href="./Burdock%20Tea.md" class="wikilink" title="Burdock Tea">Burdock Tea</a> | Minor | 7 | 70 | 70 |
-| <img src="../assets/Birch_Bark_Tea_icon.png" loading="lazy" width="29" height="29" alt="Birch_Bark_Tea_icon.png" /> <a href="./Birch%20Bark%20Tea.md" class="wikilink" title="Birch Bark Tea">Birch Bark Tea</a> | Minor | 6 | 60 | 60 |
-| <img src="../assets/Rose_Hip_Pie_icon.png" loading="lazy" width="29" height="29" alt="Rose_Hip_Pie_icon.png" /> <a href="./Rose%20Hip%20Pie.md" class="wikilink" title="Rose Hip Pie">Rose Hip Pie</a> | Minor | 6 | 60 | 26.67 |
-| <img src="../assets/Ketchup_Chips_icon.png" loading="lazy" width="29" height="29" alt="Ketchup_Chips_icon.png" /> <a href="./Ketchup%20Chips.md" class="wikilink" title="Ketchup Chips">Ketchup Chips</a> | Minor | 5 | 50 | 16.67 |
-| <img src="../assets/Reishi_Tea_icon.png" loading="lazy" width="29" height="29" alt="Reishi_Tea_icon.png" /> <a href="./Reishi%20Tea.md" class="wikilink" title="Reishi Tea">Reishi Tea</a> | Minor | 5 | 50 | 50 |
-| <img src="../assets/Energy_Bar_icon.png" loading="lazy" width="29" height="29" alt="Energy_Bar_icon.png" /> <a href="./Energy%20Bar.md" class="wikilink" title="Energy Bar">Energy Bar</a> | Minor | 4 | 40 | 8 |
-| <img src="../assets/Dried_Apples_icon.png" loading="lazy" width="29" height="29" alt="Dried_Apples_icon.png" /> <a href="./Dried%20Apples.md" class="wikilink" title="Dried Apples">Dried Apples</a> | Minor | 4 | 26 | 10 |
-| <img src="../assets/Tin_of_Sardines_icon.png" loading="lazy" width="29" height="29" alt="Tin_of_Sardines_icon.png" /> <a href="./Tin%20of%20Sardines.md" class="wikilink" title="Tin of Sardines">Tin of Sardines</a> | Minor | 3 | 30 | 10 |
-| <img src="../assets/Granola_Bar_icon.png" loading="lazy" width="29" height="29" alt="Granola_Bar_icon.png" /> <a href="./Granola%20Bar.md" class="wikilink" title="Granola Bar">Granola Bar</a> | Minor | 2 | 20 | 6.67 |
-| <img src="../assets/Pork_and_Beans_icon.png" loading="lazy" width="29" height="29" alt="Pork_and_Beans_icon.png" /> <a href="./Pork%20and%20Beans.md" class="wikilink" title="Pork and Beans">Pork and Beans</a> | Minor | 2 | 8 | 3.33 |
-| <img src="../assets/Cat_Tail_Stalk_icon.png" loading="lazy" width="29" height="29" alt="Cat_Tail_Stalk_icon.png" /> <a href="./Cat%20Tail%20Stalk.md" class="wikilink" title="Cat Tail Stalk">Cat Tail Stalk</a> | Minor | 1 | 20 | 6.67 |
+| --- | --- | --- | --- | --- |
+| ![Vitamin-C\_Pills\_icon.png](../assets/Vitamin-C_Pills_icon.png) [Vitamin-C Pills](./Vitamin-C%20Pills.md) | Major | 125 | 6250 | 25000 |
+| ![Thomson\_Family\_Stew\_icon.png](../assets/Thomson_Family_Stew_icon.png) [Thomson Family Stew](./Thomson%20Family%20Stew.md) | Major | 80 | 228 | 88.89 |
+| ![Airline\_Food\_-\_Vegetarian\_icon.png](../assets/Airline_Food_-_Vegetarian_icon.png) [Airline Food - Vegetarian](./Airline%20Food%20-%20Vegetarian.md) | Major | 73 | 292 | 130.36 |
+| ![Dockworker's\_Pie\_icon.png](../assets/Dockworker%27s_Pie_icon.png) [Dockworker's Pie](./Dockworker%27s%20Pie.md) | Major | 68 | 226 | 45.33 |
+| ![Military-Grade\_MRE\_icon.png](../assets/Military-Grade_MRE_icon.png) [Military-Grade MRE](./Military-Grade%20MRE.md) | Major | 65 | 130 | 37.14 |
+| ![Camber\_Flight\_Porridge\_icon.png](../assets/Camber_Flight_Porridge_icon.png) [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | Moderate | 59 | 197 | 47.20 |
+| ![Last\_Resort\_Soup\_icon.png](../assets/Last_Resort_Soup_icon.png) [Last Resort Soup](./Last%20Resort%20Soup.md) | Moderate | 40 | 114 | 50 |
+| ![Lily's\_Pancakes\_icon.png](../assets/Lily%27s_Pancakes_icon.png) [Lily's Pancakes](./Lily%27s%20Pancakes.md) | Moderate | 57 | 285 | 57.00 |
+| ![Pinnacle\_Peaches\_icon.png](../assets/Pinnacle_Peaches_icon.png) [Pinnacle Peaches](./Pinnacle%20Peaches.md) | Moderate | 56 | 112 | 124.44 |
+| ![Canned\_Pineapple\_icon.png](../assets/Canned_Pineapple_icon.png) [Canned Pineapple](./Canned%20Pineapple.md) | Moderate | 56 | 140 | 189.83 |
+| ![Canned\_Corn\_icon.png](../assets/Canned_Corn_icon.png) [Canned Corn](./Canned%20Corn.md) | Moderate | 52 | 173 | 176.27 |
+| ![Pickles\_icon.png](../assets/Pickles_icon.png) [Pickles](./Pickles.md) | Moderate | 50 | 83 | 76.92 |
+| ![Ranger\_Stew\_icon.png](../assets/Ranger_Stew_icon.png) [Ranger Stew](./Ranger%20Stew.md) | Moderate | 42 | 105 | 26.25 |
+| ![Tomato\_Soup\_icon.png](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md) | Moderate | 30 | 116 | 100 |
+| ![Airline\_Food\_-\_Chicken\_icon.png](../assets/Airline_Food_-_Chicken_icon.png) [Airline Food - Chicken](./Airline%20Food%20-%20Chicken.md) | Moderate | 29 | 116 | 46.77 |
+| ![Porter's\_Soup\_icon.png](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md) | Moderate | 24 | 240 | 20 |
+| ![Cooked\_Potato\_icon.png](../assets/Cooked_Potato_icon.png) [Cooked Potato](./Cooked%20Potato.md) | Moderate | 24 | 160 | 96 |
+| ![Prepper's\_Pie\_icon.png](../assets/Prepper%27s_Pie_icon.png) [Prepper's Pie](./Prepper%27s%20Pie.md) | Moderate | 22 | 110 | 24.44 |
+| ![Lake\_Whitefish\_(Raw)\_icon.png](../assets/Lake_Whitefish_%28Raw%29_icon.png) [Lake Whitefish (Raw) 1kg](./Lake%20Whitefish%20%28Raw%29.md) | Moderate | 22 | 22 | 38.26 |
+| ![Rainbow\_Trout\_(Raw)\_icon.png](../assets/Rainbow_Trout_%28Raw%29_icon.png) [Rainbow Trout (Raw) 1kg](./Rainbow%20Trout%20%28Raw%29.md) | Moderate | 20 | 20 | 34.78 |
+| ![Peach\_Pie\_icon.png](../assets/Peach_Pie_icon.png) [Peach Pie](./Peach%20Pie.md) | Minor | 19 | 190 | 76 |
+| ![Trout\_Stew\_icon.png](../assets/Trout_Stew_icon.png) [Trout Stew](./Trout%20Stew.md) | Minor | 17 | 48 | 22.67 |
+| ![Lake\_Whitefish\_(Cooked)\_icon.png](../assets/Lake_Whitefish_%28Cooked%29_icon.png) [Lake Whitefish (Cooked) 1kg](./Lake%20Whitefish%20%28Cooked%29.md) | Minor | 16 | 16 | 27.83 |
+| ![Rainbow\_Trout\_(Cooked)\_icon.png](../assets/Rainbow_Trout_%28Cooked%29_icon.png) [Rainbow Trout (Cooked) 1kg](./Rainbow%20Trout%20%28Cooked%29.md) | Minor | 15 | 15 | 26.09 |
+| ![Coastal\_Fishcakes\_icon.png](../assets/Coastal_Fishcakes_icon.png) [Coastal Fishcakes](./Coastal%20Fishcakes.md) | Minor | 14 | 266 | 44.87 |
+| ![Pemmican\_Bar\_icon.png](../assets/Pemmican_Bar_icon.png) [Pemmican Bar](./Pemmican%20Bar.md) | Minor | 14 | 224 | 31.1 |
+| ![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md) | Minor | 13 | 130 | 130 |
+| ![Condensed\_Milk\_icon.png](../assets/Condensed_Milk_icon.png) [Condensed Milk](./Condensed%20Milk.md) | Minor | 12 | 48 | 16 |
+| ![Coho\_Salmon\_(Raw)\_icon.png](../assets/Coho_Salmon_%28Raw%29_icon.png) [Coho Salmon (Raw) 1kg](./Coho%20Salmon%20%28Raw%29.md) | Minor | 12 | 12 | 7.27 |
+| ![Cup\_of\_Herbal\_Tea\_icon.png](../assets/Cup_of_Herbal_Tea_icon.png) [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | Minor | 11 | 110 | 110 |
+| ![Smallmouth\_Bass\_(Raw)\_icon.png](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw) 1kg](./Smallmouth%20Bass%20%28Raw%29.md) | Minor | 11 | 11 | 7.33 |
+| ![Carrot\_icon.png](../assets/Carrot_icon.png) [Carrot](./Carrot.md) | Minor | 9 | 90 | 51.43 |
+| ![Coho\_Salmon\_(Cooked)\_icon.png](../assets/Coho_Salmon_%28Cooked%29_icon.png) [Coho Salmon (Cooked) 1kg](./Coho%20Salmon%20%28Cooked%29.md) | Minor | 9 | 9 | 5.45 |
+| ![Prepared\_Burdock\_icon.png](../assets/Prepared_Burdock_icon.png) [Prepared Burdock](./Prepared%20Burdock.md) | Minor | 8 | 80 | 29.09 |
+| ![Smallmouth\_Bass\_(Cooked)\_icon.png](../assets/Smallmouth_Bass_%28Cooked%29_icon.png) [Smallmouth Bass (Cooked) 1kg](./Smallmouth%20Bass%20%28Cooked%29.md) | Minor | 8 | 8 | 5.33 |
+| ![Burdock\_Tea\_icon.png](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md) | Minor | 7 | 70 | 70 |
+| ![Birch\_Bark\_Tea\_icon.png](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md) | Minor | 6 | 60 | 60 |
+| ![Rose\_Hip\_Pie\_icon.png](../assets/Rose_Hip_Pie_icon.png) [Rose Hip Pie](./Rose%20Hip%20Pie.md) | Minor | 6 | 60 | 26.67 |
+| ![Ketchup\_Chips\_icon.png](../assets/Ketchup_Chips_icon.png) [Ketchup Chips](./Ketchup%20Chips.md) | Minor | 5 | 50 | 16.67 |
+| ![Reishi\_Tea\_icon.png](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md) | Minor | 5 | 50 | 50 |
+| ![Energy\_Bar\_icon.png](../assets/Energy_Bar_icon.png) [Energy Bar](./Energy%20Bar.md) | Minor | 4 | 40 | 8 |
+| ![Dried\_Apples\_icon.png](../assets/Dried_Apples_icon.png) [Dried Apples](./Dried%20Apples.md) | Minor | 4 | 26 | 10 |
+| ![Tin\_of\_Sardines\_icon.png](../assets/Tin_of_Sardines_icon.png) [Tin of Sardines](./Tin%20of%20Sardines.md) | Minor | 3 | 30 | 10 |
+| ![Granola\_Bar\_icon.png](../assets/Granola_Bar_icon.png) [Granola Bar](./Granola%20Bar.md) | Minor | 2 | 20 | 6.67 |
+| ![Pork\_and\_Beans\_icon.png](../assets/Pork_and_Beans_icon.png) [Pork and Beans](./Pork%20and%20Beans.md) | Minor | 2 | 8 | 3.33 |
+| ![Cat\_Tail\_Stalk\_icon.png](../assets/Cat_Tail_Stalk_icon.png) [Cat Tail Stalk](./Cat%20Tail%20Stalk.md) | Minor | 1 | 20 | 6.67 |
 
 ## Trivia
 
 - Scurvy was originally not retroactively enabled on save files created before Part Four: Buried Echoes (December 5th 2023), regardless of difficulty, "to avoid the risk that players have already harvested most of the Vitamin-C rich foods in their game world." The ability to enable it on older saves was eventually added in the Part Five update however.
 - Scurvy is a real-world affliction caused by a severe Vitamin-C deficiency, usually by a diet lacking fruits or vegetables. It is most commonly attributed to 17th and 18th century sailors who may be at-sea for months without access to fruits or vegetables or means to preserve them.
-- The icon for Scurvy depicts a human tooth and blood droplet, both symptoms of real-world scurvy which causes tooth loosening and loss, as well as bruising (bleeding under the skin) and poor healing. Despite this, in-game Scurvy does not cause permanent damage to the survivor like <a href="./Frostbite.md" class="wikilink" title="Frostbite">Frostbite</a>, or cause/increase the likelihood of <a href="./Blood%20Loss.md" class="wikilink" title="Blood Loss">Blood Loss</a>.
+- The icon for Scurvy depicts a human tooth and blood droplet, both symptoms of real-world scurvy which causes tooth loosening and loss, as well as bruising (bleeding under the skin) and poor healing. Despite this, in-game Scurvy does not cause permanent damage to the survivor like [Frostbite](./Frostbite.md), or cause/increase the likelihood of [Blood Loss](./Blood%20Loss.md).
 - Real-world people who inhabit arctic conditions, such as the indigenous peoples of Alaska, Canada and northern Russia primarily received their Vitamin-C from eating fish like what is depicted in-game.
 
 ## Update history
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **5 December 2023 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25_%28Steam%29" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25_%28Steam%29)):**
   - Added to game.
 
-</div>
-
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

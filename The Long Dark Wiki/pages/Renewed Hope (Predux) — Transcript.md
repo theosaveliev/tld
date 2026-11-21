@@ -7,59 +7,26 @@ source: "https://thelongdark.fandom.com/wiki/Renewed_Hope_(Predux)%2FTranscript"
 
 # Renewed Hope \(Predux\)/Transcript
 
-<div>
-
 **Contents**
 
-- [Get into the Dam at night, when the Aurora is in the sky.](#Get_into_the_Dam_at_night%2C_when_the_Aurora_is_in_the_sky.)
-- [Find your way through the Carter Dam.](#Find_your_way_through_the_Carter_Dam.)
-- [Use Jeremiah's code to access the control room.](#Use_Jeremiah%27s_code_to_access_the_control_room.)
-- [Explore the guts of the Dam. Get through before daylight.](#Explore_the_guts_of_the_Dam._Get_through_before_daylight.)
+- [Get into the Dam at night, when the Aurora is in the sky.](#get-into-the-dam-at-night-when-the-aurora-is-in-the-sky)
+- [Find your way through the Carter Dam.](#find-your-way-through-the-carter-dam)
+- [Use Jeremiah's code to access the control room.](#use-jeremiahs-code-to-access-the-control-room)
+- [Explore the guts of the Dam. Get through before daylight.](#explore-the-guts-of-the-dam-get-through-before-daylight)
 
-<table class="infobox">
-<caption>Renewed Hope (Predux)/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Carter_hydro_dam_in_story_mode.jpg]</span>
-<figcaption>Carter_hydro_dam_in_story_mode.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md" class="wikilink" title="Jeremiah&#39;s Folly/Transcript">Jeremiah's Folly/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>Renewed Hope (Predux)/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p>none</p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake (region)">Mystery Lake (region)</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a><br />
-<a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a><br />
-<a href="./Methuselah.md" class="wikilink" title="Methuselah">Methuselah</a><br />
-<a href="./Mathis.md" class="wikilink" title="Mathis">Mathis</a></p></td>
-</tr>
-</tbody>
-</table>
+**Renewed Hope (Predux)/Transcript**
 
-This is the transcript for Chapter 5 <a href="./Renewed%20Hope%20%28Predux%29.md" class="wikilink" title="Renewed Hope (Predux)">Renewed Hope (Predux)</a> for Predux <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2: Luminance Fugue">Episode 2: Luminance Fugue</a>, and is the last mission for the Predux timeline.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Carter_hydro_dam_in_story_mode.jpg) / *Carter\_hydro\_dam\_in\_story\_mode.jpg* |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [Jeremiah's Folly/Transcript](./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md) |
+| Current | Renewed Hope (Predux)/Transcript |
+| Next | none |
+| Region | [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Methuselah](./Methuselah.md) / [Mathis](./Mathis.md) |
+
+This is the transcript for Chapter 5 [Renewed Hope (Predux)](./Renewed%20Hope%20%28Predux%29.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), and is the last mission for the Predux timeline.
 
 ## Get into the Dam at night, when the Aurora is in the sky.
 
@@ -69,7 +36,7 @@ RENEWED HOPE
 
 *Mackenzie leaves Jeremiah and heads for the trailers outside the Carter Staging Area. He waits for the night to fall, and eventually the Aurora appears in the sky. As he prepares to pass into the Dam, a campfire catches his eye, and he sees a man sitting nearby. He approaches and talks to the man as a cutscene plays*
 
-<a href="./Methuselah.md" class="wikilink" title="Methuselah">Methuselah</a>: "The night is unforgiving. Join me by the fire."
+[Methuselah](./Methuselah.md): "The night is unforgiving. Join me by the fire."
 
 Mackenzie: "Who are you?"
 
@@ -133,9 +100,9 @@ Mackenzie: "Holy shit, what was that?"
 
 Mackenzie: "I'd better watch out."
 
-*He finds another switch box and turns the power off, then crosses the room and ascends a stairwell. After reaching the top, he spots a doorway off in the distance with another exit sign. As he approaches it, an unseen force hits him in the back of the head and knocks him out. As he comes too, a figure approaches him and places <a href="./Astrid%27s%20Hardcase.md" class="wikilink" title="Astrid&#39;s Hardcase">Astrid's Hardcase</a> on the floor at Mackenzie's feet. Mackenzie snaps awake and sees a man in a sheepskin coat wearing an orange jumpsuit, and realizes he is tied to a chair.*
+*He finds another switch box and turns the power off, then crosses the room and ascends a stairwell. After reaching the top, he spots a doorway off in the distance with another exit sign. As he approaches it, an unseen force hits him in the back of the head and knocks him out. As he comes too, a figure approaches him and places [Astrid's Hardcase](./Astrid%27s%20Hardcase.md) on the floor at Mackenzie's feet. Mackenzie snaps awake and sees a man in a sheepskin coat wearing an orange jumpsuit, and realizes he is tied to a chair.*
 
-<a href="./Mathis.md" class="wikilink" title="Mathis">Mathis</a>: "A locked case. Well, that is interesting."
+[Mathis](./Mathis.md): "A locked case. Well, that is interesting."
 
 *The man walks behind Mackenzie's chair and then in front of him.*
 
@@ -165,7 +132,7 @@ Mackenzie: "My plane wouldn't do you any good."
 
 Mathis: "Ya. Should I show you what happened to the last person who tried to lie to me?
 
-*The man reaches for a <a href="./Hatchet.md" class="wikilink" title="Hatchet">Hatchet</a> on a nearby shelf*
+*The man reaches for a [Hatchet](./Hatchet.md) on a nearby shelf*
 
 Mathis: "She didn't look so pretty after I was done."
 
@@ -179,6 +146,4 @@ Mathis: "Don't worry, pilot. You'll be with her soon."
 
 *The man strikes Mackenzie with the back of the axe, and the episode ends.*
 
-This is the end of the Predux timeline.<span class="missing-template" title="Template:Renewed Hope (Predux) is not in the dump">\[Renewed Hope (Predux)\]</span>
-
-</div>
+This is the end of the Predux timeline.\[Renewed Hope (Predux)\]

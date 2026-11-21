@@ -7,1762 +7,245 @@ source: "https://thelongdark.fandom.com/wiki/Decorations"
 
 # Decorations
 
-<div>
-
 **Contents**
 
-- [Limitations](#Limitations)
-- [Craftable Decorations](#Craftable_Decorations)
-- [Anywhere](#Anywhere)
-- [Work Bench](#Work_Bench)
-- [Furniture Workbench](#Furniture_Workbench)
-- [Lootable Decorations](#Lootable_Decorations)
-- [Destroyable Decorations](#Destroyable_Decorations)
+- [Limitations](#limitations)
+- [Craftable Decorations](#craftable-decorations)
+- [Anywhere](#anywhere)
+- [Work Bench](#work-bench)
+- [Furniture Workbench](#furniture-workbench)
+- [Lootable Decorations](#lootable-decorations)
+- [Destroyable Decorations](#destroyable-decorations)
 
-<table class="gallery">
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Safehouse-custom-before-comp.jpg" title="A Safehouse before decorating" loading="lazy" width="140" />
-<figcaption>A <a href="./Safehouse.md" class="wikilink" title="Safehouse">Safehouse</a> before decorating</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Safehouse_after-comp.jpg" title="A Safehouse after being decorated" loading="lazy" width="140" />
-<figcaption>A Safehouse after being decorated</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table>
+| Column 1 | Column 2 |
+| --- | --- |
+| ![A Safehouse before decorating](../assets/Safehouse-custom-before-comp.jpg) / *A [Safehouse](./Safehouse.md) before decorating* | ![A Safehouse after being decorated](../assets/Safehouse_after-comp.jpg) / *A Safehouse after being decorated* |
 
-**Decorations** is a section of the Backpack in the <a href="./Survival%20Menu.md" class="wikilink" title="Survival Menu">Survival Menu</a> that contains all items that can be carried around and placed inside an interior as part of the <a href="./Safehouse%20Customization.md" class="wikilink" title="Safehouse Customization">Safehouse Customization</a> feature. It was added as part of a free update for <a href="./Tales%20from%20the%20Far%20Territory.md" class="wikilink" title="Tales from the Far Territory">Tales from the Far Territory</a> Part 6: Broken Silence.
+**Decorations** is a section of the Backpack in the [Survival Menu](./Survival%20Menu.md) that contains all items that can be carried around and placed inside an interior as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature. It was added as part of a free update for [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) Part 6: Broken Silence.
 
 ## Limitations
 
 Some Decorations have limitations on where they can be placed.
 
-- Some items can only be placed on walls (mirrors, <a href="./First%20Aid%20Kit.md" class="wikilink" title="First Aid Kit">First Aid Kit</a>, <a href="./Medicine%20Shelf.md" class="wikilink" title="Medicine Shelf">Medicine Shelf</a>).
+- Some items can only be placed on walls (mirrors, [First Aid Kit](./First%20Aid%20Kit.md), [Medicine Shelf](./Medicine%20Shelf.md)).
 - Most items can only be placed on the floor or on top of other objects.
-- Computer Monitors that contain <a href="./Buffer%20Memories.md" class="wikilink" title="Buffer Memories">Buffer Memories</a> cannot be picked up.
+- Computer Monitors that contain [Buffer Memories](./Buffer%20Memories.md) cannot be picked up.
 - All Decorations that can be carried have weight and a unique icon.
-  - If these items are dropped on the ground, a <a href="./Safehouse%20Decoration%20Box.md" class="wikilink" title="Safehouse Decoration Box">Safehouse Decoration Box</a> is produced to contain them, with each box having 100.00 kg of space.
-  - Very large furniture decorations created at a <a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a> cannot be carried around (despite having weight) and can only be harvested to partially regain materials once they are created (or they can be outright destroyed as usual).
+  - If these items are dropped on the ground, a [Safehouse Decoration Box](./Safehouse%20Decoration%20Box.md) is produced to contain them, with each box having 100.00 kg of space.
+  - Very large furniture decorations created at a [Furniture Workbench](./Furniture%20Workbench.md) cannot be carried around (despite having weight) and can only be harvested to partially regain materials once they are created (or they can be outright destroyed as usual).
 
 ## Craftable Decorations
 
-These Decorations can be <a href="./Crafting.md" class="wikilink" title="Crafted">Crafted</a> with the aid of <a href="./Woodworking%20Tools.md" class="wikilink" title="Woodworking Tools">Woodworking Tools</a> (except for <a href="./Bear%20Hide%20Rug.md" class="wikilink" title="Bear Hide Rug">Bear Hide Rug</a>).
+These Decorations can be [Crafted](./Crafting.md) with the aid of [Woodworking Tools](./Woodworking%20Tools.md) (except for [Bear Hide Rug](./Bear%20Hide%20Rug.md)).
 
 ### Anywhere
 
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Recipe</p></th>
-<th><p>Materials</p></th>
-<th><p>Time</p></th>
-<th><p>Weight</p></th>
-<th><p>Crafted</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p><img src="../assets/Carved_Bear_Figurine_icon.png" loading="lazy" width="29" height="29" alt="Carved_Bear_Figurine_icon.png" /> <a href="./Carved%20Bear%20Figurine.md" class="wikilink" title="Carved Bear Figurine">Carved Bear Figurine</a></p></td>
-<td><p>1x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Anywhere</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Carved_Cougar_Figurine_icon.png" loading="lazy" width="29" height="29" alt="Carved_Cougar_Figurine_icon.png" /> <a href="./Carved%20Cougar%20Figurine.md" class="wikilink" title="Carved Cougar Figurine">Carved Cougar Figurine</a></p></td>
-<td><p>1x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Anywhere</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Carved_Wolf_Figurine_icon.png" loading="lazy" width="29" height="29" alt="Carved_Wolf_Figurine_icon.png" /> <a href="./Carved%20Wolf%20Figurine.md" class="wikilink" title="Carved Wolf Figurine">Carved Wolf Figurine</a></p></td>
-<td><p>1x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Anywhere</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Decorative_End_Table_icon.png" loading="lazy" width="29" height="29" alt="Decorative_End_Table_icon.png" /> <a href="./Decorative%20End%20Table.md" class="wikilink" title="Decorative End Table">Decorative End Table</a></p></td>
-<td><p>6x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a></p></td>
-<td><p>5 Hours</p></td>
-<td><p>2.00 kg<br />
-<span class="small">(4.4 lb)</span></p></td>
-<td><p>Anywhere</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Decorative_Art_icon.png" loading="lazy" width="29" height="29" alt="Decorative_Art_icon.png" /> <a href="./Decorative%20Art.md" class="wikilink" title="Decorative Art">Decorative Art</a></p></td>
-<td><p>2x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a></p>
-<p>1x <img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" alt="Reclaimed_Wood_icon.png" /> <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p></td>
-<td><p>5 Hours</p></td>
-<td><p>1.00 kg<br />
-<span class="small">(2.2 lb)</span></p></td>
-<td><p>Anywhere</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Decorative_Art_%282%29_icon.png" loading="lazy" width="29" height="29" alt="Decorative_Art_(2)_icon.png" /> <a href="./Decorative%20Art%20%282%29.md" class="wikilink" title="Decorative Art (2)">Decorative Art (2)</a></p></td>
-<td><p>2x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a></p>
-<p>1x <img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" alt="Reclaimed_Wood_icon.png" /> <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p></td>
-<td><p>5 Hours</p></td>
-<td><p>1.00 kg<br />
-<span class="small">(2.2 lb)</span></p></td>
-<td><p>Anywhere</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Furniture_Workbench_icon.png" loading="lazy" width="29" height="29" alt="Furniture_Workbench_icon.png" /> <a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-<td><p>10x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>15.00 kg<br />
-<span class="small">(33 lb)</span></p></td>
-<td><p>Anywhere</p></td>
-</tr>
-</tbody>
-</table>
+| Recipe | Materials | Time | Weight | Crafted |
+| --- | --- | --- | --- | --- |
+| ![Carved\_Bear\_Figurine\_icon.png](../assets/Carved_Bear_Figurine_icon.png) [Carved Bear Figurine](./Carved%20Bear%20Figurine.md) | 1x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 4 Hours | 0.25 kg / *(0.55 lb)* | Anywhere |
+| ![Carved\_Cougar\_Figurine\_icon.png](../assets/Carved_Cougar_Figurine_icon.png) [Carved Cougar Figurine](./Carved%20Cougar%20Figurine.md) | 1x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 4 Hours | 0.25 kg / *(0.55 lb)* | Anywhere |
+| ![Carved\_Wolf\_Figurine\_icon.png](../assets/Carved_Wolf_Figurine_icon.png) [Carved Wolf Figurine](./Carved%20Wolf%20Figurine.md) | 1x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 4 Hours | 0.25 kg / *(0.55 lb)* | Anywhere |
+| ![Decorative\_End\_Table\_icon.png](../assets/Decorative_End_Table_icon.png) [Decorative End Table](./Decorative%20End%20Table.md) | 6x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 5 Hours | 2.00 kg / *(4.4 lb)* | Anywhere |
+| ![Decorative\_Art\_icon.png](../assets/Decorative_Art_icon.png) [Decorative Art](./Decorative%20Art.md) | 2x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / 1x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 5 Hours | 1.00 kg / *(2.2 lb)* | Anywhere |
+| ![Decorative\_Art\_(2)\_icon.png](../assets/Decorative_Art_%282%29_icon.png) [Decorative Art (2)](./Decorative%20Art%20%282%29.md) | 2x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) / 1x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 5 Hours | 1.00 kg / *(2.2 lb)* | Anywhere |
+| ![Furniture\_Workbench\_icon.png](../assets/Furniture_Workbench_icon.png) [Furniture Workbench](./Furniture%20Workbench.md) | 10x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) | 4 Hours | 15.00 kg / *(33 lb)* | Anywhere |
 
 ### Work Bench
 
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Recipe</p></th>
-<th><p>Materials</p></th>
-<th><p>Time</p></th>
-<th><p>Weight</p></th>
-<th><p>Crafted</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p><img src="../assets/Bear_Hide_Rug_icon.png" loading="lazy" width="29" height="29" alt="Bear_Hide_Rug_icon.png" /> <a href="./Bear%20Hide%20Rug.md" class="wikilink" title="Bear Hide Rug">Bear Hide Rug</a></p></td>
-<td><p>1x<img src="../assets/Cured_Deer_Hide_icon.png" loading="lazy" width="29" height="29" alt="Cured_Deer_Hide_icon.png" /> <a href="./Cured%20Deer%20Hide.md" class="wikilink" title="Cured Deer Hide">Cured Deer Hide</a> 1x<img src="../assets/Cured_Black_Bear_Hide_icon.png" loading="lazy" width="29" height="29" alt="Cured_Black_Bear_Hide_icon.png" /> <a href="./Cured%20Black%20Bear%20Hide.md" class="wikilink" title="Cured Black Bear Hide">Cured Black Bear Hide</a></p>
-<p>2x<img src="../assets/Cured_Gut_icon.png" loading="lazy" width="29" height="29" alt="Cured_Gut_icon.png" /> <a href="./Cured%20Gut.md" class="wikilink" title="Cured Gut">Cured Gut</a></p></td>
-<td><p>8 Hours</p></td>
-<td><p>12.00 kg<br />
-<span class="small">(26.4 lb)</span></p></td>
-<td><p><a href="./Work%20Bench.md" class="wikilink" title="Work Bench">Work Bench</a></p></td>
-</tr>
-</tbody>
-</table>
+| Recipe | Materials | Time | Weight | Crafted |
+| --- | --- | --- | --- | --- |
+| ![Bear\_Hide\_Rug\_icon.png](../assets/Bear_Hide_Rug_icon.png) [Bear Hide Rug](./Bear%20Hide%20Rug.md) | 1x![Cured\_Deer\_Hide\_icon.png](../assets/Cured_Deer_Hide_icon.png) [Cured Deer Hide](./Cured%20Deer%20Hide.md) 1x![Cured\_Black\_Bear\_Hide\_icon.png](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / 2x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) | 8 Hours | 12.00 kg / *(26.4 lb)* | [Work Bench](./Work%20Bench.md) |
 
 ### Furniture Workbench
 
 Once crafted, the following Decorations crafted at a Furniture Workbench will be placed in a container in that Workbench (they can be placed your Safehouse by opening the Furniture Workbench and selecting them). They cannot be placed in the player's inventory despite having a weight class, and furniture with containers cannot be broken down to regain some of their resources once placed in the Safehouse.
 
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Recipe</p></th>
-<th><p>Materials</p></th>
-<th><p>Time</p></th>
-<th><p>Weight</p></th>
-<th><p>Crafted</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p><img src="../assets/Bear_Hide_Bed_icon.png" loading="lazy" width="29" height="29" alt="Bear_Hide_Bed_icon.png" /> <a href="./Bear%20Hide%20Bed.md" class="wikilink" title="Bear Hide Bed">Bear Hide Bed</a></p></td>
-<td><p>18x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 4x<img src="../assets/Cured_Gut_icon.png" loading="lazy" width="29" height="29" alt="Cured_Gut_icon.png" /> <a href="./Cured%20Gut.md" class="wikilink" title="Cured Gut">Cured Gut</a></p>
-<p>1x <img src="../assets/Cured_Black_Bear_Hide_icon.png" loading="lazy" width="29" height="29" alt="Cured_Black_Bear_Hide_icon.png" /> <a href="./Cured%20Black%20Bear%20Hide.md" class="wikilink" title="Cured Black Bear Hide">Cured Black Bear Hide</a></p>
-<p>16x <img src="../assets/Ptarmigan_Down_icon.png" loading="lazy" width="29" height="29" alt="Ptarmigan_Down_icon.png" /> <a href="./Ptarmigan%20Down.md" class="wikilink" title="Ptarmigan Down">Ptarmigan Down</a></p></td>
-<td><p>24 Hours</p></td>
-<td><p>10.00 kg<br />
-<span class="small">(22 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Coffee_Table_icon.png" loading="lazy" width="29" height="29" alt="Coffee_Table_icon.png" /> <a href="./Coffee%20Table.md" class="wikilink" title="Coffee Table">Coffee Table</a></p></td>
-<td><p>6x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Rustic_End_Table_icon.png" loading="lazy" width="29" height="29" alt="Rustic_End_Table_icon.png" /> <a href="./Rustic%20End%20Table.md" class="wikilink" title="Rustic End Table">Rustic End Table</a></p></td>
-<td><p>6x <img src="../assets/Cedar_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Cedar_Firewood_icon.png" /> <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a> 2x <img src="../assets/Reclaimed_Wood_icon.png" loading="lazy" width="29" height="29" alt="Reclaimed_Wood_icon.png" /> <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a></p></td>
-<td><p>6 Hours</p></td>
-<td><p>20.00 kg<br />
-<span class="small">(44 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Round_Table_icon.png" loading="lazy" width="29" height="29" alt="Round_Table_icon.png" /> <a href="./Round%20Table.md" class="wikilink" title="Round Table">Round Table</a></p></td>
-<td><p>12x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-<td><p>9 Hours</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Rustic_Table_icon.png" loading="lazy" width="29" height="29" alt="Rustic_Table_icon.png" /> <a href="./Rustic%20Table.md" class="wikilink" title="Rustic Table">Rustic Table</a></p></td>
-<td><p>10x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-<td><p>8 Hours</p></td>
-<td><p>8.00 kg<br />
-<span class="small">(17.6 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Square_Table_icon.png" loading="lazy" width="29" height="29" alt="Square_Table_icon.png" /> <a href="./Square%20Table.md" class="wikilink" title="Square Table">Square Table</a></p></td>
-<td><p>8x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-<td><p>7 Hours</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><span>[Missing image: [[File:Rustic_Chair_icon.png]</span> <a href="./Rustic%20Chair.md" class="wikilink" title="Rustic Chair">Rustic Chair</a></p>
-<p><code>icon.png|link=</code><img src="../assets/Rustic_Chair_icon.png" loading="lazy" width="29" height="29" alt="Rustic_Chair_icon.png" /><code> </code><a href="./Rustic%20Chair.md" class="wikilink" title="Rustic Chair"><code>Rustic Chair</code></a></p></td>
-<td><p>29x29px]] link=Rustic Chair|29x29px <a href="./Rustic%20Chair.md" class="wikilink" title="Rustic Chair">Rustic Chair</a></p></td>
-<td><p><img src="../assets/Rustic_Chair_icon.png" loading="lazy" width="29" height="29" alt="Rustic_Chair_icon.png" /> <a href="./Rustic%20Chair.md" class="wikilink" title="Rustic Chair">Rustic Chair</a> ]]</p>
-<p>The following Decorations are automatically placed into the player's inventory once crafted.</p>
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Recipe</p></th>
-<th><p>Materials</p></th>
-<th><p>Time</p></th>
-<th><p>Weight</p></th>
-<th><p>Crafted</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p><img src="../assets/Framed_Hockey_Jersey_icon.png" loading="lazy" width="29" height="29" alt="Framed_Hockey_Jersey_icon.png" /> <a href="./Framed%20Hockey%20Jersey.md" class="wikilink" title="Framed Hockey Jersey">Framed Hockey Jersey</a></p></td>
-<td><p>2x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Scrap_Metal_icon.png" loading="lazy" width="29" height="29" alt="Scrap_Metal_icon.png" /> <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a></p>
-<p>1x <img src="../assets/Hockey_Jersey_icon.png" loading="lazy" width="29" height="29" alt="Hockey_Jersey_icon.png" /> <a href="./Hockey%20Jersey.md" class="wikilink" title="Hockey Jersey">Hockey Jersey</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>2.00 kg<br />
-<span class="small">(4.4 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Framed_Photo_icon.png" loading="lazy" width="29" height="29" alt="Framed_Photo_icon.png" /> <a href="./Framed%20Photo.md" class="wikilink" title="Framed Photo">Framed Photo</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Camera_icon.png" loading="lazy" width="29" height="29" alt="Camera_icon.png" /> <a href="./Camera.md" class="wikilink" title="Camera">Camera</a> Photo</p></td>
-<td><p>2 Hours</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Burbot_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Burbot_icon.png" /> <a href="./Mounted%20Burbot.md" class="wikilink" title="Mounted Burbot">Mounted Burbot</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Burbot_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Burbot_(Raw)_icon.png" /> <a href="./Burbot%20%28Raw%29.md" class="wikilink" title="Burbot (Raw)">Burbot (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Coho_Salmon_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Coho_Salmon_icon.png" /> <a href="./Mounted%20Coho%20Salmon.md" class="wikilink" title="Mounted Coho Salmon">Mounted Coho Salmon</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Coho_Salmon_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Coho_Salmon_(Raw)_icon.png" /> <a href="./Coho%20Salmon%20%28Raw%29.md" class="wikilink" title="Coho Salmon (Raw)">Coho Salmon (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>1.00 kg<br />
-<span class="small">(2.2 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Goldeye_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Goldeye_icon.png" /> <a href="./Mounted%20Goldeye.md" class="wikilink" title="Mounted Goldeye">Mounted Goldeye</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Goldeye_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Goldeye_(Raw)_icon.png" /> <a href="./Goldeye%20%28Raw%29.md" class="wikilink" title="Goldeye (Raw)">Goldeye (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Lake_Whitefish_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Lake_Whitefish_icon.png" /> <a href="./Mounted%20Lake%20Whitefish.md" class="wikilink" title="Mounted Lake Whitefish">Mounted Lake Whitefish</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Lake_Whitefish_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Lake_Whitefish_(Raw)_icon.png" /> <a href="./Lake%20Whitefish%20%28Raw%29.md" class="wikilink" title="Lake Whitefish (Raw)">Lake Whitefish (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Rainbow_Trout_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Rainbow_Trout_icon.png" /> <a href="./Mounted%20Rainbow%20Trout.md" class="wikilink" title="Mounted Rainbow Trout">Mounted Rainbow Trout</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Rainbow_Trout_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Rainbow_Trout_(Raw)_icon.png" /> <a href="./Rainbow%20Trout%20%28Raw%29.md" class="wikilink" title="Rainbow Trout (Raw)">Rainbow Trout (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Red_Irish_Lord_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Red_Irish_Lord_icon.png" /> <a href="./Mounted%20Red%20Irish%20Lord.md" class="wikilink" title="Mounted Red Irish Lord">Mounted Red Irish Lord</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Red_Irish_Lord_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Red_Irish_Lord_(Raw)_icon.png" /> <a href="./Red%20Irish%20Lord%20%28Raw%29.md" class="wikilink" title="Red Irish Lord (Raw)">Red Irish Lord (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Rockfish_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Rockfish_icon.png" /> <a href="./Mounted%20Rockfish.md" class="wikilink" title="Mounted Rockfish">Mounted Rockfish</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Rockfish_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Rockfish_(Raw)_icon.png" /> <a href="./Rockfish%20%28Raw%29.md" class="wikilink" title="Rockfish (Raw)">Rockfish (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Mounted_Smallmouth_Bass_icon.png" loading="lazy" width="29" height="29" alt="Mounted_Smallmouth_Bass_icon.png" /> <a href="./Mounted%20Smallmouth%20Bass.md" class="wikilink" title="Mounted Smallmouth Bass">Mounted Smallmouth Bass</a></p></td>
-<td><p>1x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 1x <img src="../assets/Smallmouth_Bass_%28Raw%29_icon.png" loading="lazy" width="29" height="29" alt="Smallmouth_Bass_(Raw)_icon.png" /> <a href="./Smallmouth%20Bass%20%28Raw%29.md" class="wikilink" title="Smallmouth Bass (Raw)">Smallmouth Bass (Raw)</a></p></td>
-<td><p>4 Hours</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Rustic_Stool_icon.png" loading="lazy" width="29" height="29" alt="Rustic_Stool_icon.png" /> <a href="./Rustic%20Stool.md" class="wikilink" title="Rustic Stool">Rustic Stool</a></p></td>
-<td><p>4x <img src="../assets/Fir_Firewood_icon.png" loading="lazy" width="29" height="29" alt="Fir_Firewood_icon.png" /> <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a></p></td>
-<td><p>2 Hours</p></td>
-<td><p>2.00 kg<br />
-<span class="small">(4.4 lb)</span></p></td>
-<td><p><a href="./Furniture%20Workbench.md" class="wikilink" title="Furniture Workbench">Furniture Workbench</a></p></td>
-</tr>
-</tbody>
-</table>
-<h2 id="Lootable_Decorations">Lootable Decorations</h2>
-<p>The following Decorations cannot be crafted, but are already present within many interiors. They can be moved as normal while in Customization Mode, but can also be placed inside the player's backpack and carried around between <a href="./Safehouse.md" class="wikilink" title="safehouses">safehouses</a>.</p>
-<ul>
-<li>The option to take or destroy these items appears when examined.
-<ul>
-<li>When taken, this type of Decoration has a unique icon and weight, cannot be harvested for materials, and is placed in the Decorations section of the Backpack inventory.</li>
-<li>When destroyed, they are permanently removed from the interior. Caution is advised when doing this, as destroying these Decorations means they cannot be crafted/taken from another location to be placed into another interior.</li>
-<li>Lootable Decorations cannot be destroyed in the player's Inventory or in a <a href="./Safehouse%20Decoration%20Box.md" class="wikilink" title="Safehouse Decoration Box">Safehouse Decoration Box</a>. They must be placed in a Saferoom before the option appears.</li>
-</ul></li>
-<li>There can be multiple versions of an item with the same name, but with different weights and models.</li>
-<li>Some of these items display a different name when examined in Customization Mode (ex <a href="./Backpack.md" class="wikilink" title="Backpack">Backpack</a> is "Back Pack" or <a href="./Metal%20Lamp.md" class="wikilink" title="Metal Lamp">Metal Lamp</a> is "Lamp").</li>
-<li>Fish Mounts are different from the player crafted versions and are found in cabins.</li>
-<li>Carrying multiple Decorations adds up quickly. The heaviest Decorations are 5.00kg, while the lightest tend to be 0.05kg. Using a <a href="./Travois.md" class="wikilink" title="Travois">Travois</a> can be helpful for transporting large amounts of heavy Decorations.</li>
-</ul>
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Icon</p></th>
-<th><p>Name</p></th>
-<th><p>Weight</p></th>
-<th><p>Location Found</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><p><img src="../assets/ChurchBannerA.png" loading="lazy" width="100" height="100" alt="ChurchBannerA.png" /><img src="../assets/ChurchBannerB.png" loading="lazy" width="100" height="100" alt="ChurchBannerB.png" /></p></td>
-<td><p>Banner</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./St.%20Christopher%27s%20Church.md" class="wikilink" title="St. Christopher&#39;s Church">St. Christopher's Church</a>, <a href="./Pleasant%20Valley%20Church.md" class="wikilink" title="Pleasant Valley Church">Pleasant Valley Church</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Baseball.png" loading="lazy" width="100" height="100" />
-<figcaption>Baseball.png</figcaption>
-</figure></td>
-<td><p>Baseball</p></td>
-<td><p>0.05 kg<br />
-<span class="small">(0.11 lb)</span></p></td>
-<td><p><a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> Warden's Office, <a href="./Main%20Hangar.md" class="wikilink" title="Main Hangar">Main Hangar</a> office (where <a href="./Stained%20Paper.md" class="wikilink" title="Stained Paper">Stained Paper</a> is found)</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/BaseballBat.png" loading="lazy" width="100" height="100" />
-<figcaption>BaseballBat.png</figcaption>
-</figure></td>
-<td><p>Baseball Bat</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p><a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> Warden's Office</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Basin_Decoration.png" loading="lazy" width="100" height="100" />
-<figcaption>Basin_Decoration.png</figcaption>
-</figure></td>
-<td><p><a href="./Basin.md" class="wikilink" title="Basin">Basin</a></p></td>
-<td><p>2.00 kg<br />
-<span class="small">(4.4 lb)</span></p></td>
-<td><p><a href="./Quonset%20Garage.md" class="wikilink" title="Quonset Garage">Quonset Garage</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/HandBasketA.png" loading="lazy" width="100" height="100" alt="HandBasketA.png" /><img src="../assets/HandBasketB.png" loading="lazy" width="100" height="100" alt="HandBasketB.png" /></p></td>
-<td><p>Basket</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Main%20Hangar.md" class="wikilink" title="Main Hangar">Main Hangar</a>, <a href="./Convenience%20Store.md" class="wikilink" title="Convenience Store">Convenience Store</a>, <a href="./Basement%20%28Sundered%20Pass%29.md" class="wikilink" title="Basement (Sundered Pass)">Basement (Sundered Pass)</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Blender.png" loading="lazy" width="100" height="100" />
-<figcaption>Blender.png</figcaption>
-</figure></td>
-<td><p>Blender</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Trailers, <a href="./Paradise%20Meadows%20Farm.md" class="wikilink" title="Paradise Meadows Farm">Paradise Meadows Farm</a>, Houses</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/DishBowlA1.png" loading="lazy" width="100" height="100" alt="DishBowlA1.png" /><img src="../assets/DishBowlA2.png" loading="lazy" width="100" height="100" alt="DishBowlA2.png" /></p></td>
-<td><p>Bowl</p></td>
-<td><p>0.05 kg<br />
-<span class="small">(0.11 lb)</span></p></td>
-<td><p>Houses, Trailers</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/CandyBoxA.png" loading="lazy" width="100" height="100" alt="CandyBoxA.png" /><img src="../assets/CandyBoxB.png" loading="lazy" width="100" height="100" alt="CandyBoxB.png" /><img src="../assets/CandyBoxC.png" loading="lazy" width="100" height="100" alt="CandyBoxC.png" /><img src="../assets/CandyBoxD.png" loading="lazy" width="100" height="100" alt="CandyBoxD.png" /></p></td>
-<td><p><a href="./Cardboard%20Box.md" class="wikilink" title="Box">Box</a></p></td>
-<td><p>0.10 kg<br />
-<span class="small">(0.22 lb)</span></p></td>
-<td><p>Houses, <a href="./Convenience%20Store.md" class="wikilink" title="Convenience Store">Convenience Store</a>, <a href="./Rural%20Store.md" class="wikilink" title="Rural Store">Rural Store</a>, Trailers</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/MetalFileCabinetDrawerA2.png" loading="lazy" width="100" height="100" />
-<figcaption>MetalFileCabinetDrawerA2.png</figcaption>
-</figure></td>
-<td><p>Broken Drawer</p></td>
-<td><p>1.00 kg<br />
-<span class="small">(2.2 lb)</span></p></td>
-<td><p>Offices</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/BroomStickA.png" loading="lazy" width="100" height="100" alt="BroomStickA.png" /><img src="../assets/BroomStickB.png" loading="lazy" width="100" height="100" alt="BroomStickB.png" /></p></td>
-<td><p><a href="./Broom.md" class="wikilink" title="Broom">Broom</a></p></td>
-<td><p>0.20 kg<br />
-<span class="small">(0.44 lb)</span></p></td>
-<td><p>Houses, Industrial Areas</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/MetalBucketA.png" loading="lazy" width="100" height="100" />
-<figcaption>MetalBucketA.png</figcaption>
-</figure></td>
-<td><p><a href="./Metal%20Pail.md" class="wikilink" title="Bucket">Bucket</a></p></td>
-<td><p>1.00 kg<br />
-<span class="small">(2.2 lb)</span></p></td>
-<td><p>Houses, Industrial Areas</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/BulletinBoardA.png" loading="lazy" width="100" height="100" alt="BulletinBoardA.png" /><img src="../assets/BulletinBoardB.png" loading="lazy" width="100" height="100" alt="BulletinBoardB.png" /><img src="../assets/BulletinBoardC.png" loading="lazy" width="100" height="100" alt="BulletinBoardC.png" /></p></td>
-<td><p>Bulletin Board</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p>Industrial Areas</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/CalendarDeco.png" loading="lazy" width="100" height="100" alt="CalendarDeco.png" /><img src="../assets/CalendarDecoB.png" loading="lazy" width="100" height="100" alt="CalendarDecoB.png" /></p></td>
-<td><p>Calendar</p></td>
-<td><p>0.10 kg<br />
-<span class="small">(0.22 lb)</span></p></td>
-<td><p>Houses, Industrial Areas</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/VistaCalendar.png" loading="lazy" width="100" height="100" />
-<figcaption>VistaCalendar.png</figcaption>
-</figure></td>
-<td><p>Calendar</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Houses, Industrial Areas</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Trolley_A.png" loading="lazy" width="100" height="100" />
-<figcaption>Trolley_A.png</figcaption>
-</figure></td>
-<td><p>Cart</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Idle%20Camp.md" class="wikilink" title="Idle Camp">Idle Camp</a> mess hall</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/StereoCassetteTape.png" loading="lazy" width="100" height="100" />
-<figcaption>StereoCassetteTape.png</figcaption>
-</figure></td>
-<td><p>Cassete</p></td>
-<td><p>0.10 kg<br />
-<span class="small">(0.22 lb)</span></p></td>
-<td><p><a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> Warden's Office, <a href="./Cabin.md" class="wikilink" title="Cabin">Cabin</a>, <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/ChairFoldng_A_Folded.png" loading="lazy" width="100" height="100" alt="ChairFoldng_A_Folded.png" /><img src="../assets/ChairFoldng_A_Open.png" loading="lazy" width="100" height="100" alt="ChairFoldng_A_Open.png" /></p></td>
-<td><p>Chair</p></td>
-<td><p>4.00 kg<br />
-<span class="small">(8.8 lb)</span></p></td>
-<td><p><a href="./Main%20Hangar.md" class="wikilink" title="Main Hangar">Main Hangar</a>, <a href="./Community%20Hall.md" class="wikilink" title="Community Hall">Community Hall</a>, <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> Offices/Infirmary</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/RockingChair.png" loading="lazy" width="100" height="100" alt="RockingChair.png" /><img src="../assets/RockingChairB2.png" loading="lazy" width="100" height="100" alt="RockingChairB2.png" /><img src="../assets/Lab_Chair.png" loading="lazy" width="100" height="100" alt="Lab_Chair.png" /></p></td>
-<td><p>Chair</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p>Houses, <a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a>, Metal chair <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> (Infirmary),</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/WallClock.png" loading="lazy" width="100" height="100" />
-<figcaption>WallClock.png</figcaption>
-</figure></td>
-<td><p>Clock</p></td>
-<td><p>1.00 kg<br />
-<span class="small">(2.2 lb)</span></p></td>
-<td><p>Houses</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/CoffeeMachine.png" loading="lazy" width="100" height="100" alt="CoffeeMachine.png" /><img src="../assets/CoffeeMachineB.png" loading="lazy" width="100" height="100" alt="CoffeeMachineB.png" /></p></td>
-<td><p>Coffee Machine</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p>Kitchens, Trailers, Cabins</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/ComputerLaptop.png" loading="lazy" width="100" height="100" alt="ComputerLaptop.png" /><img src="../assets/ComputerTowerA.png" loading="lazy" width="100" height="100" alt="ComputerTowerA.png" /><img src="../assets/ComputerTowerB.png" loading="lazy" width="100" height="100" alt="ComputerTowerB.png" /><img src="../assets/OldBoxyComputer.png" loading="lazy" width="100" height="100" alt="OldBoxyComputer.png" /></p></td>
-<td><p>Computer</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p>Industrial Areas</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Traffic_Cone_A.png" loading="lazy" width="100" height="100" />
-<figcaption>Traffic_Cone_A.png</figcaption>
-</figure></td>
-<td><p>Cone</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Main%20Hangar.md" class="wikilink" title="Main Hangar">Main Hangar</a> (2 different cone models but display the same Backpack icon)</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/CratesA.png" loading="lazy" width="100" height="100" alt="CratesA.png" /><img src="../assets/CratesB.png" loading="lazy" width="100" height="100" alt="CratesB.png" /></p></td>
-<td><p><a href="./Crate.md" class="wikilink" title="Crate">Crate</a></p></td>
-<td><p>0.30 kg<br />
-<span class="small">(0.66 lb)</span></p></td>
-<td><p>Industrial Areas</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/BabyCrib.png" loading="lazy" width="100" height="100" />
-<figcaption>BabyCrib.png</figcaption>
-</figure></td>
-<td><p>Crib</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Milton%20House.md" class="wikilink" title="Milton House">Milton House</a> (house close to Grey Mother's leading to <a href="./Radio%20Tower.md" class="wikilink" title="Radio Tower">Radio Tower</a>)</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/CupA.png" loading="lazy" width="100" height="100" alt="CupA.png" /><img src="../assets/CupB.png" loading="lazy" width="100" height="100" alt="CupB.png" /><img src="../assets/CupC.png" loading="lazy" width="100" height="100" alt="CupC.png" /><img src="../assets/CupE.png" loading="lazy" width="100" height="100" alt="CupE.png" /><img src="../assets/CupF.png" loading="lazy" width="100" height="100" alt="CupF.png" /><img src="../assets/CupG.png" loading="lazy" width="100" height="100" alt="CupG.png" /></p></td>
-<td><p>Cup</p></td>
-<td><p>0.05 kg<br />
-<span class="small">(0.11 lb)</span></p></td>
-<td><p>Houses, <a href="./Convenience%20Store.md" class="wikilink" title="Convenience Store">Convenience Store</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/PaperCupA.png" loading="lazy" width="100" height="100" />
-<figcaption>PaperCupA.png</figcaption>
-</figure></td>
-<td><p>Cup</p></td>
-<td><p>0.10 kg<br />
-<span class="small">(0.22 lb)</span></p></td>
-<td><p><a href="./Concentrator.md" class="wikilink" title="Concentrator">Concentrator</a>, <a href="./Control%20Tower.md" class="wikilink" title="Control Tower">Control Tower</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/CuttingBoardA.png" loading="lazy" width="100" height="100" />
-<figcaption>CuttingBoardA.png</figcaption>
-</figure></td>
-<td><p>Cutting Board</p></td>
-<td><p>0.10 kg<br />
-<span class="small">(0.22 lb)</span></p></td>
-<td><p>House Kitchens</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/CuttingBoardB.png" loading="lazy" width="100" height="100" />
-<figcaption>CuttingBoardB.png</figcaption>
-</figure></td>
-<td><p>Cutting Board</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>House Kitchens</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/DeerMount.png" loading="lazy" width="100" height="100" />
-<figcaption>DeerMount.png</figcaption>
-</figure></td>
-<td><p>Deer Mount</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a>, Hunting <a href="./Prepper%20Cache.md" class="wikilink" title="Prepper Cache">Prepper Cache</a>, Places with animal trophies</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/ComputerFloppy.png" loading="lazy" width="100" height="100" />
-<figcaption>ComputerFloppy.png</figcaption>
-</figure></td>
-<td><p>Disk</p></td>
-<td><p>0.02 kg<br />
-<span class="small">(0.044 lb)</span></p></td>
-<td><p>Near Computers, <a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a>, <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/DreamCatcher.png" loading="lazy" width="100" height="100" />
-<figcaption>DreamCatcher.png</figcaption>
-</figure></td>
-<td><p>Dream Catcher</p></td>
-<td><p>0.10 kg<br />
-<span class="small">(0.22 lb)</span></p></td>
-<td><p><a href="./Camp%20Office.md" class="wikilink" title="Camp Office">Camp Office</a>, <a href="./Mindful%20Cabin.md" class="wikilink" title="Mindful Cabin">Mindful Cabin</a>, <a href="./Lake%20Cabins.md" class="wikilink" title="Lake Cabins">Lake Cabins</a>, Cabin under <a href="./Abandoned%20Lookout.md" class="wikilink" title="Abandoned Lookout">Abandoned Lookout</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Ico_GearItem_LightChristmas_B.png" loading="lazy" width="100" height="100" alt="Ico_GearItem_LightChristmas_B.png" /><img src="../assets/Ico_GearItem_LightChristmas_C.png" loading="lazy" width="100" height="100" alt="Ico_GearItem_LightChristmas_C.png" /></p></td>
-<td><p>Festive Lights</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Hangar%20Basement.md" class="wikilink" title="Hangar Basement">Hangar Basement</a>, <a href="./Community%20Hall.md" class="wikilink" title="Community Hall">Community Hall</a>, <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a> (office stairwell), <a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a> (<a href="./Festive%20Sweater.md" class="wikilink" title="Festive Sweater">Festive Sweater</a> is usually nearby)</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Fish_Mount_Bass.png" loading="lazy" width="100" height="100" alt="Fish_Mount_Bass.png" /><img src="../assets/CohoSalmonMount.png" loading="lazy" width="100" height="100" alt="CohoSalmonMount.png" /><img src="../assets/RainbowTroutMount.png" loading="lazy" width="100" height="100" alt="RainbowTroutMount.png" /></p></td>
-<td><p>Fish Mount</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Cabins, <a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a>, <a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/InteriorFlagA.png" loading="lazy" width="100" height="100" alt="InteriorFlagA.png" /><img src="../assets/InteriorFlagB.png" loading="lazy" width="100" height="100" alt="InteriorFlagB.png" /><img src="../assets/InteriorFlagC.png" loading="lazy" width="100" height="100" alt="InteriorFlagC.png" /></p></td>
-<td><p>Flag</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Milton%20Post%20Office.md" class="wikilink" title="Milton Post Office">Milton Post Office</a>, <a href="./Concentrator.md" class="wikilink" title="Concentrator">Concentrator</a> (7th Floor Offices)</p>
-<p>Large flags on the <a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a> Shed ceiling (can be reached in <a href="./Safehouse%20Customization.md" class="wikilink" title="Safe House Customization">Safe House Customization</a> with a plank), <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a> Turbine Room (can be reached in <a href="./Safehouse%20Customization.md" class="wikilink" title="Safe House Customization">Safe House Customization</a> with various stacked items, flag keeps "swaying" property when placed in new locations)</p>
-<p>Small table flag in <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> Warden's office</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/OldPictureFrameA.png" loading="lazy" width="100" height="100" alt="OldPictureFrameA.png" /><img src="../assets/OldPictureFrameB.png" loading="lazy" width="100" height="100" alt="OldPictureFrameB.png" /><img src="../assets/PictureFrameE2.png" loading="lazy" width="100" height="100" alt="PictureFrameE2.png" /><img src="../assets/PictureFrameF.png" loading="lazy" width="100" height="100" alt="PictureFrameF.png" /><img src="../assets/PictureFrameG.png" loading="lazy" width="100" height="100" alt="PictureFrameG.png" /></p></td>
-<td><p>Frame</p></td>
-<td><p>0.15 kg<br />
-<span class="small">(0.33 lb)</span></p></td>
-<td><p>Houses</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/PhotoWolf_A.png" loading="lazy" width="100" height="100" alt="PhotoWolf_A.png" /><img src="../assets/PhotoWolf_B.png" loading="lazy" width="100" height="100" alt="PhotoWolf_B.png" /><img src="../assets/PictureFrame_GM_A.png" loading="lazy" width="100" height="100" alt="PictureFrame_GM_A.png" /><img src="../assets/PictureFrame_GM_B.png" loading="lazy" width="100" height="100" alt="PictureFrame_GM_B.png" /><img src="../assets/PictureFrame_GM_C.png" loading="lazy" width="100" height="100" alt="PictureFrame_GM_C.png" /></p></td>
-<td><p>Frame (Table)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Houses (these are table picture frames)</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/PictureFrameC2.png" loading="lazy" width="100" height="100" alt="PictureFrameC2.png" /><img src="../assets/PictureFrameA2.png" loading="lazy" width="100" height="100" alt="PictureFrameA2.png" /><img src="../assets/PictureFrameB2.png" loading="lazy" width="100" height="100" alt="PictureFrameB2.png" /><img src="../assets/PictureFrameA1.png" loading="lazy" width="100" height="100" alt="PictureFrameA1.png" /><img src="../assets/PictureFrameE.png" loading="lazy" width="100" height="100" alt="PictureFrameE.png" /><img src="../assets/PictureFrameE1.png" loading="lazy" width="100" height="100" alt="PictureFrameE1.png" /><img src="../assets/PictureFrameB.png" loading="lazy" width="100" height="100" alt="PictureFrameB.png" /><img src="../assets/PictureFrameB1.png" loading="lazy" width="100" height="100" alt="PictureFrameB1.png" /><img src="../assets/PictureFrameB3.png" loading="lazy" width="100" height="100" alt="PictureFrameB3.png" /><img src="../assets/PictureFrameI.png" loading="lazy" width="100" height="100" alt="PictureFrameI.png" /><img src="../assets/PictureFrameC.png" loading="lazy" width="100" height="100" alt="PictureFrameC.png" /><img src="../assets/PictureFrameC1.png" loading="lazy" width="100" height="100" alt="PictureFrameC1.png" /><img src="../assets/PictureFrameC3.png" loading="lazy" width="100" height="100" alt="PictureFrameC3.png" /><img src="../assets/PictureFrameD.png" loading="lazy" width="100" height="100" alt="PictureFrameD.png" /><img src="../assets/PictureFrameD1.png" loading="lazy" width="100" height="100" alt="PictureFrameD1.png" /><img src="../assets/PictureFrameF2.png" loading="lazy" width="100" height="100" alt="PictureFrameF2.png" /><img src="../assets/PictureFrameG2.png" loading="lazy" width="100" height="100" alt="PictureFrameG2.png" /><img src="../assets/PictureFrameH.png" loading="lazy" width="100" height="100" alt="PictureFrameH.png" /><img src="../assets/PictureFrameH2.png" loading="lazy" width="100" height="100" alt="PictureFrameH2.png" /><img src="../assets/PictureFrameI2.png" loading="lazy" width="100" height="100" alt="PictureFrameI2.png" /><img src="../assets/PictureFrameA3.png" loading="lazy" width="100" height="100" alt="PictureFrameA3.png" /><img src="../assets/PictureFrame_GM_D.png" loading="lazy" width="100" height="100" alt="PictureFrame_GM_D.png" /><img src="../assets/PictureFrame_GM_e.png" loading="lazy" width="100" height="100" alt="PictureFrame_GM_e.png" /><img src="../assets/PictureFrame_GM_F.png" loading="lazy" width="100" height="100" alt="PictureFrame_GM_F.png" /></p></td>
-<td><p>Frame</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Houses</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/PictureFrameC4.png" loading="lazy" width="100" height="100" alt="PictureFrameC4.png" /><img src="../assets/PictureFrameA4.png" loading="lazy" width="100" height="100" alt="PictureFrameA4.png" /><img src="../assets/PictureFrameB4.png" loading="lazy" width="100" height="100" alt="PictureFrameB4.png" /></p></td>
-<td><p>Frame (Frame 2)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Houses</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/PictureFrameWelcomeSign.png" loading="lazy" width="100" height="100" />
-<figcaption>PictureFrameWelcomeSign.png</figcaption>
-</figure></td>
-<td><p>Frame</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Camp%20Office.md" class="wikilink" title="Camp Office">Camp Office</a> welcome sign</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/PictureFrameK1.png" loading="lazy" width="100" height="100" alt="PictureFrameK1.png" /><img src="../assets/PictureFrameL1.png" loading="lazy" width="100" height="100" alt="PictureFrameL1.png" /><img src="../assets/PictureFrameM1.png" loading="lazy" width="100" height="100" alt="PictureFrameM1.png" /><img src="../assets/PictureFrameO1.png" loading="lazy" width="100" height="100" alt="PictureFrameO1.png" /><img src="../assets/PictureFrameQ1.png" loading="lazy" width="100" height="100" alt="PictureFrameQ1.png" /><img src="../assets/PictureFrameS1.png" loading="lazy" width="100" height="100" alt="PictureFrameS1.png" /><img src="../assets/PictureFrameT.png" loading="lazy" width="100" height="100" alt="PictureFrameT.png" /><img src="../assets/PictureFrameU.png" loading="lazy" width="100" height="100" alt="PictureFrameU.png" /><img src="../assets/PictureFrameV.png" loading="lazy" width="100" height="100" alt="PictureFrameV.png" /><img src="../assets/PictureFrameN1.png" loading="lazy" width="100" height="100" alt="PictureFrameN1.png" /><img src="../assets/PictureFrameP1.png" loading="lazy" width="100" height="100" alt="PictureFrameP1.png" /><img src="../assets/PictureFrameR1.png" loading="lazy" width="100" height="100" alt="PictureFrameR1.png" /><img src="../assets/PictureFrame_T02.png" loading="lazy" width="100" height="100" alt="PictureFrame_T02.png" /><img src="../assets/PictureFrame_T03.png" loading="lazy" width="100" height="100" alt="PictureFrame_T03.png" /><img src="../assets/PictureFrame_T04.png" loading="lazy" width="100" height="100" alt="PictureFrame_T04.png" /><img src="../assets/PictureFrame_T05.png" loading="lazy" width="100" height="100" alt="PictureFrame_T05.png" /><img src="../assets/PictureFrame_T14.png" loading="lazy" width="100" height="100" alt="PictureFrame_T14.png" /><img src="../assets/PictureFrame_T15.png" loading="lazy" width="100" height="100" alt="PictureFrame_T15.png" /><img src="../assets/PictureFrame_T16.png" loading="lazy" width="100" height="100" alt="PictureFrame_T16.png" /><img src="../assets/PictureFrame_T17.png" loading="lazy" width="100" height="100" alt="PictureFrame_T17.png" /><img src="../assets/PhotoC_MountainVista_Stand.png" loading="lazy" width="100" height="100" alt="PhotoC_MountainVista_Stand.png" /><img src="../assets/PhotoC_Sleding_Stand.png" loading="lazy" width="100" height="100" alt="PhotoC_Sleding_Stand.png" /><img src="../assets/PhotoD_Snowman_Stand.png" loading="lazy" width="100" height="100" alt="PhotoD_Snowman_Stand.png" /></p></td>
-<td><p>Frame (FT)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>These are found in houses/buildings in the Far Territory. <a href="./Vacant%20Depot.md" class="wikilink" title="Vacant Depot">Vacant Depot</a>, <a href="./Idle%20Camp.md" class="wikilink" title="Idle Camp">Idle Camp</a>, <a href="./Last%20Lonely%20House.md" class="wikilink" title="Last Lonely House">Last Lonely House</a>, etc</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/PictureFrameK2.png" loading="lazy" width="100" height="100" alt="PictureFrameK2.png" /><img src="../assets/PictureFrameL2.png" loading="lazy" width="100" height="100" alt="PictureFrameL2.png" /><img src="../assets/PictureFrameM2.png" loading="lazy" width="100" height="100" alt="PictureFrameM2.png" /><img src="../assets/PictureFrameO2.png" loading="lazy" width="100" height="100" alt="PictureFrameO2.png" /><img src="../assets/PictureFrameQ2.png" loading="lazy" width="100" height="100" alt="PictureFrameQ2.png" /><img src="../assets/PictureFrameS2.png" loading="lazy" width="100" height="100" alt="PictureFrameS2.png" /></p></td>
-<td><p>Frame (FT)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>These are found in houses/buildings in the Far Territory. <a href="./Vacant%20Depot.md" class="wikilink" title="Vacant Depot">Vacant Depot</a>, <a href="./Idle%20Camp.md" class="wikilink" title="Idle Camp">Idle Camp</a>, <a href="./Last%20Lonely%20House.md" class="wikilink" title="Last Lonely House">Last Lonely House</a>, etc</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/PicturePhoto_T01.png" loading="lazy" width="100" height="100" alt="PicturePhoto_T01.png" /><img src="../assets/PicturePhoto_T02.png" loading="lazy" width="100" height="100" alt="PicturePhoto_T02.png" /><img src="../assets/PicturePhoto_T03.png" loading="lazy" width="100" height="100" alt="PicturePhoto_T03.png" /><img src="../assets/PicturePhoto_T04.png" loading="lazy" width="100" height="100" alt="PicturePhoto_T04.png" /><img src="../assets/PicturePhoto_T05.png" loading="lazy" width="100" height="100" alt="PicturePhoto_T05.png" /><img src="../assets/PicturePhoto_T06.png" loading="lazy" width="100" height="100" alt="PicturePhoto_T06.png" /><img src="../assets/PicturePhoto_T07.png" loading="lazy" width="100" height="100" alt="PicturePhoto_T07.png" /><img src="../assets/PicturePhoto_T08.png" loading="lazy" width="100" height="100" alt="PicturePhoto_T08.png" /><img src="../assets/PictureFrame_T06.png" loading="lazy" width="100" height="100" alt="PictureFrame_T06.png" /><img src="../assets/PictureFrame_T07.png" loading="lazy" width="100" height="100" alt="PictureFrame_T07.png" /><img src="../assets/PictureFrame_T08.png" loading="lazy" width="100" height="100" alt="PictureFrame_T08.png" /><img src="../assets/PictureFrame_T09.png" loading="lazy" width="100" height="100" alt="PictureFrame_T09.png" /><img src="../assets/PictureFrame_T10.png" loading="lazy" width="100" height="100" alt="PictureFrame_T10.png" /><img src="../assets/PictureFrame_T11.png" loading="lazy" width="100" height="100" alt="PictureFrame_T11.png" /><img src="../assets/PictureFrame_T12.png" loading="lazy" width="100" height="100" alt="PictureFrame_T12.png" /><img src="../assets/PictureFrame_T13.png" loading="lazy" width="100" height="100" alt="PictureFrame_T13.png" /><img src="../assets/PictureFrame_T18.png" loading="lazy" width="100" height="100" alt="PictureFrame_T18.png" /><img src="../assets/PictureFrame_T19.png" loading="lazy" width="100" height="100" alt="PictureFrame_T19.png" /><img src="../assets/PictureFrame_T20.png" loading="lazy" width="100" height="100" alt="PictureFrame_T20.png" /><img src="../assets/PictureFrame_T21.png" loading="lazy" width="100" height="100" alt="PictureFrame_T21.png" /><img src="../assets/PictureFrame_T22.png" loading="lazy" width="100" height="100" alt="PictureFrame_T22.png" /></p></td>
-<td><p>Frame (Miner)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Vacant%20Depot.md" class="wikilink" title="Vacant Depot">Vacant Depot</a>, <a href="./Idle%20Camp.md" class="wikilink" title="Idle Camp">Idle Camp</a>, <a href="./Concentrator.md" class="wikilink" title="Concentrator">Concentrator</a> Offices</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/DeskGlobe.png" loading="lazy" width="100" height="100" />
-<figcaption>DeskGlobe.png</figcaption>
-</figure></td>
-<td><p>Globe</p></td>
-<td><p>1.00 kg<br />
-<span class="small">(2.2 lb)</span></p></td>
-<td><p><a href="./Paradise%20Meadows%20Farm.md" class="wikilink" title="Paradise Meadows Farm">Paradise Meadows Farm</a>, <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> Warden's Office, <a href="./Main%20Hangar.md" class="wikilink" title="Main Hangar">Main Hangar</a>, <a href="./Bunker%20Alpha.md" class="wikilink" title="Bunker Alpha">Bunker Alpha</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/HockeyStickA.png" loading="lazy" width="100" height="100" />
-<figcaption>HockeyStickA.png</figcaption>
-</figure></td>
-<td><p>Hockey Stick</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Last%20Resort%20Cannery.md" class="wikilink" title="Last Resort Cannery">Last Resort Cannery</a> Trailer, <a href="./Island%20Cottage.md" class="wikilink" title="Island Cottage">Island Cottage</a>, <a href="./Basement%20%28Sundered%20Pass%29.md" class="wikilink" title="Basement (Sundered Pass)">Basement (Sundered Pass)</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/WallHook.png" loading="lazy" width="100" height="100" />
-<figcaption>WallHook.png</figcaption>
-</figure></td>
-<td><p>Hook</p></td>
-<td><p>0.10 kg<br />
-<span class="small">(0.22 lb)</span></p></td>
-<td><p>Houses</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Horseshoe.png" loading="lazy" width="100" height="100" />
-<figcaption>Horseshoe.png</figcaption>
-</figure></td>
-<td><p>Horseshoe</p></td>
-<td><p>0.10 kg<br />
-<span class="small">(0.22 lb)</span></p></td>
-<td><p><a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a> Basement, <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> Warden's Office</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Kettle_A.png" loading="lazy" width="100" height="100" alt="Kettle_A.png" /><img src="../assets/Kettle_B.png" loading="lazy" width="100" height="100" alt="Kettle_B.png" /></p></td>
-<td><p>Kettle</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Last%20Resort%20Cannery.md" class="wikilink" title="Last Resort Cannery">Last Resort Cannery</a> Trailer, <a href="./Station%20Bunkhouse.md" class="wikilink" title="Station Bunkhouse">Station Bunkhouse</a>, <a href="./Pensive%20Lookout.md" class="wikilink" title="Pensive Lookout">Pensive Lookout</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/ComputerKeyboard.png" loading="lazy" width="100" height="100" />
-<figcaption>ComputerKeyboard.png</figcaption>
-</figure></td>
-<td><p>Keyboard</p></td>
-<td><p>0.20 kg<br />
-<span class="small">(0.44 lb)</span></p></td>
-<td><p>Near Computers</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/DialKnob.png" loading="lazy" width="100" height="100" />
-<figcaption>DialKnob.png</figcaption>
-</figure></td>
-<td><p>Knob</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Concentrator.md" class="wikilink" title="Concentrator">Concentrator</a> (6th Floor, to the right of where the Woodworking Tools spawn in a machine), <a href="./Conveyor%20Room.md" class="wikilink" title="Conveyor Room">Conveyor Room</a> near the entrance to Langston Mine</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/WardenLamp.png" loading="lazy" width="100" height="100" alt="WardenLamp.png" /><img src="../assets/Lab_DeskLamp_A.png" loading="lazy" width="100" height="100" alt="Lab_DeskLamp_A.png" /></p></td>
-<td><p>Lamp</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Green lamp found in <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> Warden's Office Signal Void bunkers, Blackrock Prison (Infirmary), <a href="./Main%20Hangar.md" class="wikilink" title="Main Hangar">Main Hangar</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/LampA.png" loading="lazy" width="100" height="100" alt="LampA.png" /><img src="../assets/LampA2.png" loading="lazy" width="100" height="100" alt="LampA2.png" /><img src="../assets/LampB.png" loading="lazy" width="100" height="100" alt="LampB.png" /></p></td>
-<td><p>Lamp</p></td>
-<td><p>1.00 kg<br />
-<span class="small">(2.2 lb)</span></p></td>
-<td><p>Houses</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/LampC2.png" loading="lazy" width="100" height="100" alt="LampC2.png" /><img src="../assets/LampC.png" loading="lazy" width="100" height="100" alt="LampC.png" /></p></td>
-<td><p>Lamp</p></td>
-<td><p>2.00 kg<br />
-<span class="small">(4.4 lb)</span></p></td>
-<td><p>Houses</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/LampD.png" loading="lazy" width="100" height="100" alt="LampD.png" /><img src="../assets/LampD2.png" loading="lazy" width="100" height="100" alt="LampD2.png" /><img src="../assets/LampB2.png" loading="lazy" width="100" height="100" alt="LampB2.png" /><img src="../assets/LampG.png" loading="lazy" width="100" height="100" alt="LampG.png" /><img src="../assets/LampN.png" loading="lazy" width="100" height="100" alt="LampN.png" /></p></td>
-<td><p><a href="./Metal%20Lamp.md" class="wikilink" title="Lamp">Lamp</a></p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p>Houses</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/LightChristmas_A.png" loading="lazy" width="100" height="100" />
-<figcaption>LightChristmas_A.png</figcaption>
-</figure></td>
-<td><p>Light</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Camp%20Office.md" class="wikilink" title="Camp Office">Camp Office</a>, <a href="./Cannery%20Worker%20Residences.md" class="wikilink" title="Cannery Worker Residences">Cannery Worker Residences</a>, <a href="./Justy%27s%20Hovel.md" class="wikilink" title="Justy&#39;s Hovel">Justy's Hovel</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/PaintCanALid.png" loading="lazy" width="100" height="100" alt="PaintCanALid.png" /><img src="../assets/PaintCanBLid.png" loading="lazy" width="100" height="100" alt="PaintCanBLid.png" /></p></td>
-<td><p>Lid (Paintcan)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Sheds, Industrial Areas</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Lab_Microscope.png" loading="lazy" width="100" height="100" />
-<figcaption>Lab_Microscope.png</figcaption>
-</figure></td>
-<td><p>Microscope</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> (Infirmary), <a href="./Bunker%20Alpha.md" class="wikilink" title="Bunker Alpha">Bunker Alpha</a>, <a href="./Bunker%20Beta.md" class="wikilink" title="Bunker Beta">Bunker Beta</a>, <a href="./Bunker%20Gamma.md" class="wikilink" title="Bunker Gamma">Bunker Gamma</a>, <a href="./Bunker%20Omega.md" class="wikilink" title="Bunker Omega">Bunker Omega</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/WallMirrorA.png" loading="lazy" width="100" height="100" alt="WallMirrorA.png" /><img src="../assets/WallMirrorB.png" loading="lazy" width="100" height="100" alt="WallMirrorB.png" /><img src="../assets/MirrorMetal_A.png" loading="lazy" width="100" height="100" alt="MirrorMetal_A.png" /></p></td>
-<td><p>Mirror</p></td>
-<td><p>3.00 kg<br />
-<span class="small">(6.6 lb)</span></p></td>
-<td><p><a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a>, <a href="./Vacant%20Depot.md" class="wikilink" title="Vacant Depot">Vacant Depot</a>, <a href="./Bunker%20Omega.md" class="wikilink" title="Bunker Omega">Bunker Omega</a>, <a href="./Foreman%27s%20Retreat.md" class="wikilink" title="Foreman&#39;s Retreat">Foreman's Retreat</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/ComputerMonitorA.png" loading="lazy" width="100" height="100" alt="ComputerMonitorA.png" /><img src="../assets/ComputerMonitorB.png" loading="lazy" width="100" height="100" alt="ComputerMonitorB.png" /></p></td>
-<td><p>Monitor</p></td>
-<td><p>4.00 kg<br />
-<span class="small">(8.8 lb)</span></p></td>
-<td><p>Industrial Areas</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/MooseMount_A.png" loading="lazy" width="100" height="100" />
-<figcaption>MooseMount_A.png</figcaption>
-</figure></td>
-<td><p>Moose Mount</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Community%20Hall.md" class="wikilink" title="Community Hall">Community Hall</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/ComputerMouse.png" loading="lazy" width="100" height="100" />
-<figcaption>ComputerMouse.png</figcaption>
-</figure></td>
-<td><p>Mouse</p></td>
-<td><p>0.05 kg<br />
-<span class="small">(0.11 lb)</span></p></td>
-<td><p>Near Computers</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/NumberPlate100.png" loading="lazy" width="100" height="100" alt="NumberPlate100.png" /><img src="../assets/NumberPlate110A.png" loading="lazy" width="100" height="100" alt="NumberPlate110A.png" /><img src="../assets/NumberPlate110B.png" loading="lazy" width="100" height="100" alt="NumberPlate110B.png" /><img src="../assets/NumberPlate120.png" loading="lazy" width="100" height="100" alt="NumberPlate120.png" /><img src="../assets/NumberPlate140.png" loading="lazy" width="100" height="100" alt="NumberPlate140.png" /><img src="../assets/NumberPlate150.png" loading="lazy" width="100" height="100" alt="NumberPlate150.png" /><img src="../assets/NumberPlate200.png" loading="lazy" width="100" height="100" alt="NumberPlate200.png" /><img src="../assets/NumberPlate210.png" loading="lazy" width="100" height="100" alt="NumberPlate210.png" /><img src="../assets/NumberPlate300.png" loading="lazy" width="100" height="100" alt="NumberPlate300.png" /><img src="../assets/NumberPlate310.png" loading="lazy" width="100" height="100" alt="NumberPlate310.png" /><img src="../assets/NumberPlateCB1.png" loading="lazy" width="100" height="100" alt="NumberPlateCB1.png" /><img src="../assets/NumberPlateCB2.png" loading="lazy" width="100" height="100" alt="NumberPlateCB2.png" /><img src="../assets/NumberPlateCB3.png" loading="lazy" width="100" height="100" alt="NumberPlateCB3.png" /></p></td>
-<td><p>Number</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> (inside the prison)</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/ToasterOven.png" loading="lazy" width="100" height="100" />
-<figcaption>ToasterOven.png</figcaption>
-</figure></td>
-<td><p><a href="./Toaster.md" class="wikilink" title="Oven">Oven</a></p></td>
-<td><p>1.00 kg<br />
-<span class="small">(2.2 lb)</span></p></td>
-<td><p>Kitchens</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/MicrowaveOven.png" loading="lazy" width="100" height="100" />
-<figcaption>MicrowaveOven.png</figcaption>
-</figure></td>
-<td><p><a href="./Microwave.md" class="wikilink" title="Oven">Oven</a></p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Milton%20House.md" class="wikilink" title="Milton House">Milton House</a> (only one microwave can be picked up)</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/PaintCanABase.png" loading="lazy" width="100" height="100" alt="PaintCanABase.png" /><img src="../assets/PaintCanBBase.png" loading="lazy" width="100" height="100" alt="PaintCanBBase.png" /></p></td>
-<td><p>Paintcan</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Sheds, Industrial Areas</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/PaintBrush.png" loading="lazy" width="100" height="100" />
-<figcaption>PaintBrush.png</figcaption>
-</figure></td>
-<td><p>Paintbrush</p></td>
-<td><p>0.10 kg<br />
-<span class="small">(0.22 lb)</span></p></td>
-<td><p>Sheds, Industrial Areas</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/WallPhoneA.png" loading="lazy" width="100" height="100" alt="WallPhoneA.png" /><img src="../assets/WallPhoneB.png" loading="lazy" width="100" height="100" alt="WallPhoneB.png" /><img src="../assets/OfficePhone_A.png" loading="lazy" width="100" height="100" alt="OfficePhone_A.png" /><img src="../assets/OfficePhone_B.png" loading="lazy" width="100" height="100" alt="OfficePhone_B.png" /></p></td>
-<td><p>Phone</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Wall Phones - Industrial areas Office Phone - Offices</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Pillow_Decoration.png" loading="lazy" width="100" height="100" />
-<figcaption>Pillow_Decoration.png</figcaption>
-</figure></td>
-<td><p>Pillow</p></td>
-<td><p>0.15 kg<br />
-<span class="small">(0.33 lb)</span></p></td>
-<td><p>Trailers</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/PitcherA.png" loading="lazy" width="100" height="100" />
-<figcaption>PitcherA.png</figcaption>
-</figure></td>
-<td><p>Pitcher</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Kitchens</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/PottedPlantA.png" loading="lazy" width="100" height="100" alt="PottedPlantA.png" /><img src="../assets/PottedPlantB.png" loading="lazy" width="100" height="100" alt="PottedPlantB.png" /><img src="../assets/PottedPlantC.png" loading="lazy" width="100" height="100" alt="PottedPlantC.png" /></p></td>
-<td><p>Plant</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span> 1.00 kg<br />
-<span class="small">(2.2 lb)</span></p></td>
-<td><p>Houses</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/MountainPosterDeco.png" loading="lazy" width="100" height="100" />
-<figcaption>MountainPosterDeco.png</figcaption>
-</figure></td>
-<td><p>Poster</p></td>
-<td><p>0.05 kg<br />
-<span class="small">(0.11 lb)</span></p></td>
-<td><p>Houses</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/PosterDecoB.png" loading="lazy" width="100" height="100" alt="PosterDecoB.png" /><img src="../assets/PosterDecoC.png" loading="lazy" width="100" height="100" alt="PosterDecoC.png" /><img src="../assets/PosterDecoE.png" loading="lazy" width="100" height="100" alt="PosterDecoE.png" /></p></td>
-<td><p>Poster</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Houses</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/CoatRackB.png" loading="lazy" width="100" height="100" />
-<figcaption>CoatRackB.png</figcaption>
-</figure></td>
-<td><p>Rack</p></td>
-<td><p>0.20 kg<br />
-<span class="small">(0.44 lb)</span></p></td>
-<td><p>Houses</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/CoatRackA.png" loading="lazy" width="100" height="100" alt="CoatRackA.png" /><img src="../assets/CoatRackC.png" loading="lazy" width="100" height="100" alt="CoatRackC.png" /></p></td>
-<td><p>Rack</p></td>
-<td><p>0.30 kg<br />
-<span class="small">(0.66 lb)</span></p></td>
-<td><p>Houses</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/CoatRackD.png" loading="lazy" width="100" height="100" alt="CoatRackD.png" /><img src="../assets/GunRackSingle.png" loading="lazy" width="100" height="100" alt="GunRackSingle.png" /></p></td>
-<td><p>Rack</p></td>
-<td><p>0.50 kg<br />
-<span class="small">(1.1 lb)</span></p></td>
-<td><p>Houses. Gun Rack - <a href="./Forestry%20Lookout.md" class="wikilink" title="Forestry Lookout">Forestry Lookout</a>, <a href="./Pensive%20Lookout.md" class="wikilink" title="Pensive Lookout">Pensive Lookout</a>, <a href="./Abandoned%20Lookout.md" class="wikilink" title="Abandoned Lookout">Abandoned Lookout</a>, <a href="./Trapper%27s%20Homestead.md" class="wikilink" title="Trapper&#39;s Homestead">Trapper's Homestead</a>, <a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a>, <a href="./Foreman%27s%20Retreat.md" class="wikilink" title="Foreman&#39;s Retreat">Foreman's Retreat</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/GunRackDouble.png" loading="lazy" width="100" height="100" />
-<figcaption>GunRackDouble.png</figcaption>
-</figure></td>
-<td><p>Rack</p></td>
-<td><p>0.75 kg<br />
-<span class="small">(1.65 lb)</span></p></td>
-<td><p>Hunting Prepper Cache, <a href="./Last%20Lonely%20House.md" class="wikilink" title="Last Lonely House">Last Lonely House</a>, <a href="./Milton%20House%20%28Grey%20Mother%27s%29.md" class="wikilink" title="Milton House (Grey Mother&#39;s)">Milton House (Grey Mother's)</a>, <a href="./Last%20Resort%20Cannery.md" class="wikilink" title="Last Resort Cannery">Last Resort Cannery</a> (trailer)</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/ClockRadio.png" loading="lazy" width="100" height="100" alt="ClockRadio.png" /><img src="../assets/RadioB.png" loading="lazy" width="100" height="100" alt="RadioB.png" /></p></td>
-<td><p>Radio</p></td>
-<td><p>0.10 kg<br />
-<span class="small">(0.22 lb)</span></p></td>
-<td><p>House Bedrooms, <a href="./Bunker%20Alpha.md" class="wikilink" title="Bunker Alpha">Bunker Alpha</a> <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> (room with <a href="./Note%20%28Survival%202%29.md" class="wikilink" title="Note (Survival 2)">Note (Survival 2)</a> closest to the cells), <a href="./Control%20Tower.md" class="wikilink" title="Control Tower">Control Tower</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Ico_GearItem_RadioA.png" loading="lazy" width="100" height="100" />
-<figcaption>Ico_GearItem_RadioA.png</figcaption>
-</figure></td>
-<td><p><a href="./Radio.md" class="wikilink" title="Radio">Radio</a></p></td>
-<td><p>2.00 kg<br />
-<span class="small">(4.4 lb)</span></p></td>
-<td><p>Found in various buildings</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/RakeA.png" loading="lazy" width="100" height="100" />
-<figcaption>RakeA.png</figcaption>
-</figure></td>
-<td><p>Rake</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Basement%20%28Sundered%20Pass%29.md" class="wikilink" title="Basement (Sundered Pass)">Basement (Sundered Pass)</a>, <a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/RugI.png" loading="lazy" width="100" height="100" alt="RugI.png" /><img src="../assets/RugU.png" loading="lazy" width="100" height="100" alt="RugU.png" /></p></td>
-<td><p>Rug</p></td>
-<td><p>1.00 kg<br />
-<span class="small">(2.2 lb)</span></p></td>
-<td><p>Houses, Industrial Areas</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/RugE.png" loading="lazy" width="100" height="100" alt="RugE.png" /><img src="../assets/RugF.png" loading="lazy" width="100" height="100" alt="RugF.png" /><img src="../assets/RugH.png" loading="lazy" width="100" height="100" alt="RugH.png" /><img src="../assets/RugC.png" loading="lazy" width="100" height="100" alt="RugC.png" /><img src="../assets/RugS.png" loading="lazy" width="100" height="100" alt="RugS.png" /><img src="../assets/RugJ.png" loading="lazy" width="100" height="100" alt="RugJ.png" /><img src="../assets/RugP.png" loading="lazy" width="100" height="100" alt="RugP.png" /><img src="../assets/RugQ.png" loading="lazy" width="100" height="100" alt="RugQ.png" /><img src="../assets/RugR.png" loading="lazy" width="100" height="100" alt="RugR.png" /><img src="../assets/RugW.png" loading="lazy" width="100" height="100" alt="RugW.png" /><img src="../assets/RugD.png" loading="lazy" width="100" height="100" alt="RugD.png" /><img src="../assets/RugG.png" loading="lazy" width="100" height="100" alt="RugG.png" /><img src="../assets/RugK.png" loading="lazy" width="100" height="100" alt="RugK.png" /><img src="../assets/RugL.png" loading="lazy" width="100" height="100" alt="RugL.png" /><img src="../assets/RugM.png" loading="lazy" width="100" height="100" alt="RugM.png" /><img src="../assets/RugN.png" loading="lazy" width="100" height="100" alt="RugN.png" /><img src="../assets/RugO.png" loading="lazy" width="100" height="100" alt="RugO.png" /><img src="../assets/RugT.png" loading="lazy" width="100" height="100" alt="RugT.png" /><img src="../assets/RugV.png" loading="lazy" width="100" height="100" alt="RugV.png" /><img src="../assets/RugX.png" loading="lazy" width="100" height="100" alt="RugX.png" /><img src="../assets/RugY.png" loading="lazy" width="100" height="100" alt="RugY.png" /></p></td>
-<td><p>Rug</p></td>
-<td><p>2.00 kg<br />
-<span class="small">(4.4 lb)</span></p></td>
-<td><p>Houses, Industrial Areas</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/RugA.png" loading="lazy" width="100" height="100" alt="RugA.png" /><img src="../assets/RugB.png" loading="lazy" width="100" height="100" alt="RugB.png" /></p></td>
-<td><p>Rug</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p>Houses, Industrial Areas</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/ToyRockingHorse.png" loading="lazy" width="100" height="100" />
-<figcaption>ToyRockingHorse.png</figcaption>
-</figure></td>
-<td><p>Rocking Horse</p></td>
-<td><p>3.00 kg<br />
-<span class="small">(6.6 lb)</span></p></td>
-<td><p><a href="./Milton%20House.md" class="wikilink" title="Milton House">Milton House</a> (house close to Grey Mother's leading to <a href="./Radio%20Tower.md" class="wikilink" title="Radio Tower">Radio Tower</a>)</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/GardenBoxShelf_A.png" loading="lazy" width="100" height="100" />
-<figcaption>GardenBoxShelf_A.png</figcaption>
-</figure></td>
-<td><p>Shelf (Corner)</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Idle%20Camp.md" class="wikilink" title="Idle Camp">Idle Camp</a> mess hall kitchen, <a href="./Island%20Cottage.md" class="wikilink" title="Island Cottage">Island Cottage</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/GardenBoxShelf_B.png" loading="lazy" width="100" height="100" alt="GardenBoxShelf_B.png" /><img src="../assets/WallShelfA.png" loading="lazy" width="100" height="100" alt="WallShelfA.png" /><img src="../assets/WallShelfB.png" loading="lazy" width="100" height="100" alt="WallShelfB.png" /></p></td>
-<td><p>Shelf</p></td>
-<td><p>2.00 kg<br />
-<span class="small">(4.4 lb)</span></p></td>
-<td><p>Houses</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/BoneStagSkullC.png" loading="lazy" width="100" height="100" />
-<figcaption>BoneStagSkullC.png</figcaption>
-</figure></td>
-<td><p>Skull</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a>, Hunting <a href="./Prepper%20Cache.md" class="wikilink" title="Prepper Cache">Prepper Cache</a>, <a href="./Camp%20Office.md" class="wikilink" title="Camp Office">Camp Office</a>, Found on Mounts in places with animal trophies</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/BoneStagSkullB.png" loading="lazy" width="100" height="100" alt="BoneStagSkullB.png" /><img src="../assets/BoneStagSkullA.png" loading="lazy" width="100" height="100" alt="BoneStagSkullA.png" /></p></td>
-<td><p>Skull</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Hunting <a href="./Prepper%20Cache.md" class="wikilink" title="Prepper Cache">Prepper Cache</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/AirfieldTerminalSignA.png" loading="lazy" width="100" height="100" alt="AirfieldTerminalSignA.png" /><img src="../assets/AirfieldTerminalSignB.png" loading="lazy" width="100" height="100" alt="AirfieldTerminalSignB.png" /></p></td>
-<td><p>Sign (Terminal)</p></td>
-<td><p>0.10 kg<br />
-<span class="small">(0.22 lb)</span></p></td>
-<td><p><a href="./Terminal.md" class="wikilink" title="Terminal">Terminal</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/RailStation_Sign_A.png" loading="lazy" width="100" height="100" alt="RailStation_Sign_A.png" /><img src="../assets/RailStation_Sign_C.png" loading="lazy" width="100" height="100" alt="RailStation_Sign_C.png" /></p></td>
-<td><p>Sign (Depot)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Vacant%20Depot.md" class="wikilink" title="Vacant Depot">Vacant Depot</a> (currently cannot take second one as it is outside)</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Hotsteam_A.png" loading="lazy" width="100" height="100" alt="Hotsteam_A.png" /><img src="../assets/Steamtunnel_A.png" loading="lazy" width="100" height="100" alt="Steamtunnel_A.png" /><img src="../assets/Steamtunnel_B.png" loading="lazy" width="100" height="100" alt="Steamtunnel_B.png" /><img src="../assets/Steamtunnel_C.png" loading="lazy" width="100" height="100" alt="Steamtunnel_C.png" /><img src="../assets/Steamtunnel_D.png" loading="lazy" width="100" height="100" alt="Steamtunnel_D.png" /><img src="../assets/Steamtunnel_E.png" loading="lazy" width="100" height="100" alt="Steamtunnel_E.png" /></p></td>
-<td><p>Sign (Steam)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Steam%20Tunnels.md" class="wikilink" title="Steam Tunnels">Steam Tunnels</a> (currently cannot take these)</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/SignDeco_7.png" loading="lazy" width="100" height="100" alt="SignDeco_7.png" /><img src="../assets/SignDeco_8.png" loading="lazy" width="100" height="100" alt="SignDeco_8.png" /><img src="../assets/SignDeco_9.png" loading="lazy" width="100" height="100" alt="SignDeco_9.png" /><img src="../assets/SignDeco_10.png" loading="lazy" width="100" height="100" alt="SignDeco_10.png" /><img src="../assets/SignDeco_11.png" loading="lazy" width="100" height="100" alt="SignDeco_11.png" /><img src="../assets/SignDeco_12.png" loading="lazy" width="100" height="100" alt="SignDeco_12.png" /><img src="../assets/SignDeco_13.png" loading="lazy" width="100" height="100" alt="SignDeco_13.png" /><img src="../assets/SignDeco_14.png" loading="lazy" width="100" height="100" alt="SignDeco_14.png" /><img src="../assets/SignDeco_15.png" loading="lazy" width="100" height="100" alt="SignDeco_15.png" /><img src="../assets/SignDeco_16.png" loading="lazy" width="100" height="100" alt="SignDeco_16.png" /><img src="../assets/SignDeco_17.png" loading="lazy" width="100" height="100" alt="SignDeco_17.png" /><img src="../assets/SignDeco_18.png" loading="lazy" width="100" height="100" alt="SignDeco_18.png" /></p></td>
-<td><p>Sign (Small)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Industrial Areas</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Blackrock_Mine_Floor_sign_A.png" loading="lazy" width="100" height="100" alt="Blackrock_Mine_Floor_sign_A.png" /><img src="../assets/Blackrock_Mine_Floor_sign_B.png" loading="lazy" width="100" height="100" alt="Blackrock_Mine_Floor_sign_B.png" /><img src="../assets/Blackrock_Mine_Floor_sign_C.png" loading="lazy" width="100" height="100" alt="Blackrock_Mine_Floor_sign_C.png" /><img src="../assets/Blackrock_Mine_sign_A.png" loading="lazy" width="100" height="100" alt="Blackrock_Mine_sign_A.png" /><img src="../assets/Blackrock_Mine_sign_B.png" loading="lazy" width="100" height="100" alt="Blackrock_Mine_sign_B.png" /><img src="../assets/Blackrock_Mine_sign_C.png" loading="lazy" width="100" height="100" alt="Blackrock_Mine_sign_C.png" /><img src="../assets/Blackrock_Mine_sign_D.png" loading="lazy" width="100" height="100" alt="Blackrock_Mine_sign_D.png" /><img src="../assets/Blackrock_Mine_sign_E.png" loading="lazy" width="100" height="100" alt="Blackrock_Mine_sign_E.png" /><img src="../assets/Blackrock_Mine_sign_F.png" loading="lazy" width="100" height="100" alt="Blackrock_Mine_sign_F.png" /><img src="../assets/Blackrock_Mine_sign_G.png" loading="lazy" width="100" height="100" alt="Blackrock_Mine_sign_G.png" /><img src="../assets/Blackrock_Mine_sign_wood_A.png" loading="lazy" width="100" height="100" alt="Blackrock_Mine_sign_wood_A.png" /><img src="../assets/Blackrock_Mine_ToxicGas_Sign.png" loading="lazy" width="100" height="100" alt="Blackrock_Mine_ToxicGas_Sign.png" /><img src="../assets/MineArea_Sign_100ft.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_100ft.png" /><img src="../assets/MineArea_Sign_200ft.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_200ft.png" /><img src="../assets/MineArea_Sign_300ft.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_300ft.png" /><img src="../assets/MineArea_Sign_400ft.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_400ft.png" /><img src="../assets/MineArea_Sign_500ft.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_500ft.png" /><img src="../assets/MineArea_Sign_Active_Mining.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_Active_Mining.png" /><img src="../assets/MineArea_Sign_Caution.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_Caution.png" /><img src="../assets/Sign_Contaminated.png" loading="lazy" width="100" height="100" alt="Sign_Contaminated.png" /><img src="../assets/MineArea_Sign_Danger.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_Danger.png" /><img src="../assets/MineArea_Sign_Danger_Keep_Out.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_Danger_Keep_Out.png" /><img src="../assets/MineArea_Sign_E1.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_E1.png" /><img src="../assets/MineArea_Sign_Exit.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_Exit.png" /><img src="../assets/MineArea_Sign_F5.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_F5.png" /><img src="../assets/MineArea_Sign_Keep_Hands_Clear.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_Keep_Hands_Clear.png" /><img src="../assets/MineArea_Sign_Keep_Out.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_Keep_Out.png" /><img src="../assets/MineArea_Sign_This_Way_Out.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_This_Way_Out.png" /><img src="../assets/MineArea_Sign_Unstable.png" loading="lazy" width="100" height="100" alt="MineArea_Sign_Unstable.png" /><img src="../assets/MineArea_SignD.png" loading="lazy" width="100" height="100" alt="MineArea_SignD.png" /><img src="../assets/MineArea_SignE.png" loading="lazy" width="100" height="100" alt="MineArea_SignE.png" /><img src="../assets/MineArea_SignK.png" loading="lazy" width="100" height="100" alt="MineArea_SignK.png" /><img src="../assets/MineSignA.png" loading="lazy" width="100" height="100" alt="MineSignA.png" /><img src="../assets/MineSignB.png" loading="lazy" width="100" height="100" alt="MineSignB.png" /><img src="../assets/MineSignC.png" loading="lazy" width="100" height="100" alt="MineSignC.png" /><img src="../assets/MineSignD.png" loading="lazy" width="100" height="100" alt="MineSignD.png" /><img src="../assets/MineSignE.png" loading="lazy" width="100" height="100" alt="MineSignE.png" /><img src="../assets/MineSignF.png" loading="lazy" width="100" height="100" alt="MineSignF.png" /><img src="../assets/MineSignG.png" loading="lazy" width="100" height="100" alt="MineSignG.png" /></p></td>
-<td><p>Sign (Mine)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Industrial Mine areas (Many of these are from the <a href="./Langston%20Mine.md" class="wikilink" title="Langston Mine">Langston Mine</a>, <a href="./Last%20Prospect.md" class="wikilink" title="Last Prospect">Last Prospect</a>, and <a href="./Cinder%20Hills%20Coal%20Mine.md" class="wikilink" title="Cinder Hills Coal Mine">Cinder Hills Coal Mine</a> middle level, which you cannot take)</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/PrisonCafeteriaSignA.png" loading="lazy" width="100" height="100" alt="PrisonCafeteriaSignA.png" /><img src="../assets/PrisonDoNotEnterSignA.png" loading="lazy" width="100" height="100" alt="PrisonDoNotEnterSignA.png" /><img src="../assets/PrisonExitSignA.png" loading="lazy" width="100" height="100" alt="PrisonExitSignA.png" /><img src="../assets/PrisonInfirmarySignA.png" loading="lazy" width="100" height="100" alt="PrisonInfirmarySignA.png" /><img src="../assets/PrisonInspectionSignA.png" loading="lazy" width="100" height="100" alt="PrisonInspectionSignA.png" /><img src="../assets/PrisonKeepLockedSignA.png" loading="lazy" width="100" height="100" alt="PrisonKeepLockedSignA.png" /><img src="../assets/PrisonLibrarySignA.png" loading="lazy" width="100" height="100" alt="PrisonLibrarySignA.png" /><img src="../assets/PrisonLoadingAreaSignA.png" loading="lazy" width="100" height="100" alt="PrisonLoadingAreaSignA.png" /><img src="../assets/PrisonNoInmateSignA.png" loading="lazy" width="100" height="100" alt="PrisonNoInmateSignA.png" /><img src="../assets/PrisonNotAnExitSignA.png" loading="lazy" width="100" height="100" alt="PrisonNotAnExitSignA.png" /><img src="../assets/PrisonPerimeterSignA.png" loading="lazy" width="100" height="100" alt="PrisonPerimeterSignA.png" /><img src="../assets/PrisonRecRoomSignA.png" loading="lazy" width="100" height="100" alt="PrisonRecRoomSignA.png" /><img src="../assets/PrisonRestrictedSignA.png" loading="lazy" width="100" height="100" alt="PrisonRestrictedSignA.png" /><img src="../assets/PrisonSecureAreaSignA.png" loading="lazy" width="100" height="100" alt="PrisonSecureAreaSignA.png" /><img src="../assets/PrisonSignB.png" loading="lazy" width="100" height="100" alt="PrisonSignB.png" /><img src="../assets/PrisonSignD.png" loading="lazy" width="100" height="100" alt="PrisonSignD.png" /><img src="../assets/PrisonSignE.png" loading="lazy" width="100" height="100" alt="PrisonSignE.png" /><img src="../assets/PrisonSignF.png" loading="lazy" width="100" height="100" alt="PrisonSignF.png" /><img src="../assets/PrisonStopCheckSignA.png" loading="lazy" width="100" height="100" alt="PrisonStopCheckSignA.png" /><img src="../assets/PrisonSurveillanceSignA.png" loading="lazy" width="100" height="100" alt="PrisonSurveillanceSignA.png" /><img src="../assets/PrisonWardensOfficeSignA.png" loading="lazy" width="100" height="100" alt="PrisonWardensOfficeSignA.png" /></p></td>
-<td><p>Sign (Prison)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> and Infirmary</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/StoreSign1.png" loading="lazy" width="100" height="100" alt="StoreSign1.png" /><img src="../assets/StoreSign2.png" loading="lazy" width="100" height="100" alt="StoreSign2.png" /><img src="../assets/StoreSign3.png" loading="lazy" width="100" height="100" alt="StoreSign3.png" /><img src="../assets/StoreSign4.png" loading="lazy" width="100" height="100" alt="StoreSign4.png" /><img src="../assets/StoreSign5.png" loading="lazy" width="100" height="100" alt="StoreSign5.png" /><img src="../assets/StoreSign11.png" loading="lazy" width="100" height="100" alt="StoreSign11.png" /></p></td>
-<td><p>Sign (Store)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Convenience%20Store.md" class="wikilink" title="Convenience Store">Convenience Store</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/StoreSign9.png" loading="lazy" width="100" height="100" alt="StoreSign9.png" /><img src="../assets/StoreSign10.png" loading="lazy" width="100" height="100" alt="StoreSign10.png" /><img src="../assets/StoreSign12.png" loading="lazy" width="100" height="100" alt="StoreSign12.png" /><img src="../assets/StoreSign13.png" loading="lazy" width="100" height="100" alt="StoreSign13.png" /></p></td>
-<td><p>Sign (Store)</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Convenience%20Store.md" class="wikilink" title="Convenience Store">Convenience Store</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/SignDeco_1.png" loading="lazy" width="100" height="100" alt="SignDeco_1.png" /><img src="../assets/SignDeco_2.png" loading="lazy" width="100" height="100" alt="SignDeco_2.png" /><img src="../assets/SignDeco_3.png" loading="lazy" width="100" height="100" alt="SignDeco_3.png" /><img src="../assets/SignDeco_4.png" loading="lazy" width="100" height="100" alt="SignDeco_4.png" /><img src="../assets/IndustrialSignDecoA.png" loading="lazy" width="100" height="100" alt="IndustrialSignDecoA.png" /><img src="../assets/IndustrialSignDecoB.png" loading="lazy" width="100" height="100" alt="IndustrialSignDecoB.png" /><img src="../assets/IndustrialSignDecoC.png" loading="lazy" width="100" height="100" alt="IndustrialSignDecoC.png" /><img src="../assets/IndustrialSignDecoD.png" loading="lazy" width="100" height="100" alt="IndustrialSignDecoD.png" /><img src="../assets/IndustrialSignDecoE.png" loading="lazy" width="100" height="100" alt="IndustrialSignDecoE.png" /><img src="../assets/SignAidStation_A.png" loading="lazy" width="100" height="100" alt="SignAidStation_A.png" /><img src="../assets/SignAidStation_B.png" loading="lazy" width="100" height="100" alt="SignAidStation_B.png" /><img src="../assets/SignControlRoom_A.png" loading="lazy" width="100" height="100" alt="SignControlRoom_A.png" /><img src="../assets/SignDam_C.png" loading="lazy" width="100" height="100" alt="SignDam_C.png" /><img src="../assets/SignDamTresspassing.png" loading="lazy" width="100" height="100" alt="SignDamTresspassing.png" /><img src="../assets/SignDanger_A.png" loading="lazy" width="100" height="100" alt="SignDanger_A.png" /><img src="../assets/SignDeco_5.png" loading="lazy" width="100" height="100" alt="SignDeco_5.png" /><img src="../assets/SignDeco_6.png" loading="lazy" width="100" height="100" alt="SignDeco_6.png" /><img src="../assets/Phone_Sign.png" loading="lazy" width="100" height="100" alt="Phone_Sign.png" /><img src="../assets/SignDrownA.png" loading="lazy" width="100" height="100" alt="SignDrownA.png" /><img src="../assets/Sign_DangerA.png" loading="lazy" width="100" height="100" alt="Sign_DangerA.png" /><img src="../assets/SignElevator_A.png" loading="lazy" width="100" height="100" alt="SignElevator_A.png" /><img src="../assets/SignExit_A.png" loading="lazy" width="100" height="100" alt="SignExit_A.png" /><img src="../assets/SignExplosion_A.png" loading="lazy" width="100" height="100" alt="SignExplosion_A.png" /><img src="../assets/SignFirstAid_A.png" loading="lazy" width="100" height="100" alt="SignFirstAid_A.png" /><img src="../assets/SignPoison_A.png" loading="lazy" width="100" height="100" alt="SignPoison_A.png" /><img src="../assets/SignRestroom_A.png" loading="lazy" width="100" height="100" alt="SignRestroom_A.png" /><img src="../assets/SignThink_A.png" loading="lazy" width="100" height="100" alt="SignThink_A.png" /></p></td>
-<td><p>Sign (Industrial)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Industrial Areas, <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a>, <a href="./Concentrator.md" class="wikilink" title="Concentrator">Concentrator</a>, <a href="./Conveyor%20Room.md" class="wikilink" title="Conveyor Room">Conveyor Room</a>, <a href="./Headframe%20Building.md" class="wikilink" title="Headframe Building">Headframe Building</a>, <a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Refuge_Cabin_Avalanche.png" loading="lazy" width="100" height="100" alt="Refuge_Cabin_Avalanche.png" /><img src="../assets/Sign_Refuge_Cabin_A.png" loading="lazy" width="100" height="100" alt="Sign_Refuge_Cabin_A.png" /><img src="../assets/Sign_Refuge_Cabin_B.png" loading="lazy" width="100" height="100" alt="Sign_Refuge_Cabin_B.png" /><img src="../assets/Sign_Refuge_Cabin_C.png" loading="lazy" width="100" height="100" alt="Sign_Refuge_Cabin_C.png" /></p></td>
-<td><p>Sign (Refuge)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Placid%20Notch.md" class="wikilink" title="Placid Notch">Placid Notch</a>, <a href="./Final%20Refuge.md" class="wikilink" title="Final Refuge">Final Refuge</a>, <a href="./Lotte%27s%20Rest.md" class="wikilink" title="Lotte&#39;s Rest">Lotte's Rest</a> (currently cannot take lettered signs)</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/SignPostalCoastal.png" loading="lazy" width="100" height="100" alt="SignPostalCoastal.png" /><img src="../assets/SignPostalLake.png" loading="lazy" width="100" height="100" alt="SignPostalLake.png" /><img src="../assets/SignPostalWhaling.png" loading="lazy" width="100" height="100" alt="SignPostalWhaling.png" /></p></td>
-<td><p>Sign (Poster)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a>, <a href="./Terminal.md" class="wikilink" title="Terminal">Terminal</a>, <a href="./Main%20Hangar.md" class="wikilink" title="Main Hangar">Main Hangar</a>, <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/WetFloorSign.png" loading="lazy" width="100" height="100" />
-<figcaption>WetFloorSign.png</figcaption>
-</figure></td>
-<td><p>Sign (Wet)</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Industrial/Commercial Bathrooms</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/SoapA.png" loading="lazy" width="100" height="100" />
-<figcaption>SoapA.png</figcaption>
-</figure></td>
-<td><p>Soap</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Trapper%27s%20Homestead.md" class="wikilink" title="Trapper&#39;s Homestead">Trapper's Homestead</a>, Bathrooms, <a href="./Bunker%20Omega.md" class="wikilink" title="Bunker Omega">Bunker Omega</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/StereoSpeaker.png" loading="lazy" width="100" height="100" />
-<figcaption>StereoSpeaker.png</figcaption>
-</figure></td>
-<td><p>Speaker</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Idle%20Camp.md" class="wikilink" title="Idle Camp">Idle Camp</a>, <a href="./Community%20Hall.md" class="wikilink" title="Community Hall">Community Hall</a>, <a href="./Main%20Hangar.md" class="wikilink" title="Main Hangar">Main Hangar</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Electric_Stovetop.png" loading="lazy" width="100" height="100" />
-<figcaption>Electric_Stovetop.png</figcaption>
-</figure></td>
-<td><p>Stove</p></td>
-<td><p>3.00 kg<br />
-<span class="small">(6.6 lb)</span></p></td>
-<td><p>Trailers, <a href="./Paradise%20Meadows%20Farm.md" class="wikilink" title="Paradise Meadows Farm">Paradise Meadows Farm</a>, <a href="./Last%20Resort%20Cannery.md" class="wikilink" title="Last Resort Cannery">Last Resort Cannery</a> Trailer</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Suitcase_A.png" loading="lazy" width="100" height="100" alt="Suitcase_A.png" /><img src="../assets/Suitcase_B.png" loading="lazy" width="100" height="100" alt="Suitcase_B.png" /><img src="../assets/Suitcase_C.png" loading="lazy" width="100" height="100" alt="Suitcase_C.png" /><img src="../assets/Suitcase_D.png" loading="lazy" width="100" height="100" alt="Suitcase_D.png" /><img src="../assets/Suitcase_E.png" loading="lazy" width="100" height="100" alt="Suitcase_E.png" /><img src="../assets/Suitcase_F.png" loading="lazy" width="100" height="100" alt="Suitcase_F.png" /></p></td>
-<td><p><a href="./Suitcase.md" class="wikilink" title="Suitcase">Suitcase</a></p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Terminal.md" class="wikilink" title="Terminal">Terminal</a>, <a href="./Concentrator.md" class="wikilink" title="Concentrator">Concentrator</a> (Offices), occasionally near bathrooms in houses</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/ToyTeddyBearA.png" loading="lazy" width="100" height="100" />
-<figcaption>ToyTeddyBearA.png</figcaption>
-</figure></td>
-<td><p>Teddy Bear</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Milton%20House.md" class="wikilink" title="Milton House">Milton House</a> (house close to Grey Mother's leading to <a href="./Radio%20Tower.md" class="wikilink" title="Radio Tower">Radio Tower</a>), <a href="./Main%20Hangar.md" class="wikilink" title="Main Hangar">Main Hangar</a>, <a href="./Cabin%20%28Sundered%20Pass%29.md" class="wikilink" title="Cabin (Sundered Pass)">Cabin (Sundered Pass)</a>, <a href="./Bunker%20Omega.md" class="wikilink" title="Bunker Omega">Bunker Omega</a>, <a href="./Basement%20%28Sundered%20Pass%29.md" class="wikilink" title="Basement (Sundered Pass)">Basement (Sundered Pass)</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/OldTelevision.png" loading="lazy" width="100" height="100" alt="OldTelevision.png" /><img src="../assets/Ico_GearItem_Television.png" loading="lazy" width="100" height="100" alt="Ico_GearItem_Television.png" /><img src="../assets/TelevisionB.png" loading="lazy" width="100" height="100" alt="TelevisionB.png" /><img src="../assets/TelevisionWall.png" loading="lazy" width="100" height="100" alt="TelevisionWall.png" /></p></td>
-<td><p>Television</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p>Homes, Industrial areas</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/TimeCardPunchClock.png" loading="lazy" width="100" height="100" />
-<figcaption>TimeCardPunchClock.png</figcaption>
-</figure></td>
-<td><p>Time Clock</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p>Industrial Areas</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/TireA.png" loading="lazy" width="100" height="100" alt="TireA.png" /><img src="../assets/TireB.png" loading="lazy" width="100" height="100" alt="TireB.png" /></p></td>
-<td><p>Tire</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p><a href="./Quonset%20Garage.md" class="wikilink" title="Quonset Garage">Quonset Garage</a>, <a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a>, <a href="./Main%20Hangar.md" class="wikilink" title="Main Hangar">Main Hangar</a>, <a href="./Weather%20Station.md" class="wikilink" title="Weather Station">Weather Station</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/ToiletSeat_A.png" loading="lazy" width="100" height="100" />
-<figcaption>ToiletSeat_A.png</figcaption>
-</figure></td>
-<td><p>Toilet Seat</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Idle%20Camp.md" class="wikilink" title="Idle Camp">Idle Camp</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/ToyTractor.png" loading="lazy" width="100" height="100" />
-<figcaption>ToyTractor.png</figcaption>
-</figure></td>
-<td><p>Tractor</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Milton%20House.md" class="wikilink" title="Milton House">Milton House</a> (house close to Grey Mother's leading to <a href="./Radio%20Tower.md" class="wikilink" title="Radio Tower">Radio Tower</a>)</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Trophy.png" loading="lazy" width="100" height="100" alt="Trophy.png" /><img src="../assets/TrophyB.png" loading="lazy" width="100" height="100" alt="TrophyB.png" /></p></td>
-<td><p>Trophy</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p><a href="./Milton%20House%20%28Grey%20Mother%27s%29.md" class="wikilink" title="Milton House (Grey Mother&#39;s)">Milton House (Grey Mother's)</a>, <a href="./Paradise%20Meadows%20Farm.md" class="wikilink" title="Paradise Meadows Farm">Paradise Meadows Farm</a>, <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> Warden's Office, <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a> (admin office)</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/WagonWheelB.png" loading="lazy" width="100" height="100" />
-<figcaption>WagonWheelB.png</figcaption>
-</figure></td>
-<td><p>Wheel</p></td>
-<td><p>2.00 kg<br />
-<span class="small">(4.4 lb)</span></p></td>
-<td><p><a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a>, <a href="./Camp%20Office.md" class="wikilink" title="Camp Office">Camp Office</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Ico_GearItem_WagonWheelA.png" loading="lazy" width="100" height="100" />
-<figcaption>Ico_GearItem_WagonWheelA.png</figcaption>
-</figure></td>
-<td><p>Wheel</p></td>
-<td><p>4.00 kg<br />
-<span class="small">(8.8 lb)</span></p></td>
-<td><p><a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a>, <a href="./Camp%20Office.md" class="wikilink" title="Camp Office">Camp Office</a>, <a href="./Headframe%20Building.md" class="wikilink" title="Headframe Building">Headframe Building</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Ico_GearItem_WoodSpatula.png" loading="lazy" width="100" height="100" alt="Ico_GearItem_WoodSpatula.png" /><img src="../assets/Ico_GearItem_WoodSpatulaSpoon.png" loading="lazy" width="100" height="100" alt="Ico_GearItem_WoodSpatulaSpoon.png" /></p></td>
-<td><p>Wooden Spoon</p></td>
-<td><p>1.00 kg<br />
-<span class="small">(2.2 lb)</span></p></td>
-<td><p>Kitchens</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/Thomson_Foreclosure_A.png" loading="lazy" width="100" height="100" alt="Thomson_Foreclosure_A.png" /><img src="../assets/Thomson_Foreclosure_A_Variant.png" loading="lazy" width="100" height="100" alt="Thomson_Foreclosure_A_Variant.png" /><img src="../assets/BonesBearSkullA.png" loading="lazy" width="100" height="100" alt="BonesBearSkullA.png" /><img src="../assets/BonesBearSkullB.png" loading="lazy" width="100" height="100" alt="BonesBearSkullB.png" /><img src="../assets/BoneHumanSkullB.png" loading="lazy" width="100" height="100" alt="BoneHumanSkullB.png" /></p></td>
-<td><p>Unobtainable</p></td>
-<td></td>
-<td><p>These are icons of items currently outside of customization areas but can technically be picked up</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/ShowerCurtainC.png" loading="lazy" width="100" height="100" alt="ShowerCurtainC.png" /><img src="../assets/CurtainB2.png" loading="lazy" width="100" height="100" alt="CurtainB2.png" /><img src="../assets/JackOLantern.png" loading="lazy" width="100" height="100" alt="JackOLantern.png" /><img src="../assets/LightCandle_D.png" loading="lazy" width="100" height="100" alt="LightCandle_D.png" /><img src="../assets/LightCandle_E.png" loading="lazy" width="100" height="100" alt="LightCandle_E.png" /><img src="../assets/BarrelWood_B_Snow.png" loading="lazy" width="100" height="100" alt="BarrelWood_B_Snow.png" /><img src="../assets/BedFrame_A.png" loading="lazy" width="100" height="100" alt="BedFrame_A.png" /><img src="../assets/Workbench_icon_Old.png" loading="lazy" width="100" height="100" alt="Workbench_icon_Old.png" /><img src="../assets/Trolley_A02.png" loading="lazy" width="100" height="100" alt="Trolley_A02.png" /></p></td>
-<td><p>Unknown</p></td>
-<td></td>
-<td><p>These items are in the game files but many either do not exist or cannot be pick up inside Customization zones.</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/CashRegisterBank.png" loading="lazy" width="100" height="100" />
-<figcaption>CashRegisterBank.png</figcaption>
-</figure></td>
-<td><p>Cash Machine</p></td>
-<td><p>5.00 kg<br />
-<span class="small">(11 lb)</span></p></td>
-<td><p>Cash Machine has been removed from <a href="./Milton%20Credit%20Union.md" class="wikilink" title="Milton Credit Union">Milton Credit Union</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/BoneHumanSkullA.png" loading="lazy" width="100" height="100" />
-<figcaption>BoneHumanSkullA.png</figcaption>
-</figure></td>
-<td><p>Skull</p></td>
-<td><p>0.25 kg<br />
-<span class="small">(0.55 lb)</span></p></td>
-<td><p>Skull has been removed from <a href="./Bunker%20Omega.md" class="wikilink" title="Bunker Omega">Bunker Omega</a> (<a href="./Dr.%20R%C3%BCdiger.md" class="wikilink" title="Dr. Rüdiger">Dr. Rüdiger</a>'s skull is now a skeleton that can be destroyed)</p></td>
-</tr>
-</tbody>
-</table>
-<h2 id="Destroyable_Decorations">Destroyable Decorations</h2>
-<p>The following items are found in some interiors and can be moved around in Customization Mode, but cannot be placed into the player's inventory. This makes them specific only to the interior they are found in.</p>
-<ul>
-<li>Moderately large/very large objects (large pipes, <a href="./Vehicle.md" class="wikilink" title="Vehicles">Vehicles</a>, whale bones in <a href="./Hibernia%20Processing.md" class="wikilink" title="Hibernia Processing">Hibernia Processing</a>, girders, live wires) cannot be destroyed.</li>
-<li>If the option to destroy large highlighted items is present, this will permanently remove them from the interior. Caution is advised when doing this, as destroyed items cannot be returned.</li>
-<li>90% destroyable items are Containers or Harvestable Interactable Objects, and are not listed here due to having their own dedicated pages.
-<ul>
-<li>Destroying Harvestable items is faster than harvesting them, but the player does not gain resources.</li>
-<li>Larger <a href="./Crate.md" class="wikilink" title="Crates">Crates</a> and <a href="./Cardboard%20Box.md" class="wikilink" title="Cardboard Boxes">Cardboard Boxes</a> are destroyed rather than picked up as Lootable Decorative items.</li>
-<li>Most items take 12-30 minutes to destroy, with the largest items taking the most time to destroy.</li>
-<li>Unsearched containers or containers that have items stored inside cannot be destroyed, and produce an error message. They must be searched/cleared out before they can be destroyed.
-<ul>
-<li><a href="./Frozen%20Corpse.md" class="wikilink" title="Frozen Corpses">Frozen Corpses</a> and <a href="./Corpse.md" class="wikilink" title="Corpses">Corpses</a> are the only container that cannot be destroyed, but rather "Respectfully Removed." A candle icon will display as the Corpse is removed over time.</li>
-</ul></li>
-</ul></li>
-</ul>
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr>
-<th></th>
-<th><p>Name</p></th>
-<th><p>Location</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure>
-<span>[Missing image: Bandsaw.jpg]</span>
-<figcaption>Bandsaw.jpg</figcaption>
-</figure></td>
-<td><p>Bandsaw</p></td>
-<td><p><a href="./Bunker%20Omega.md" class="wikilink" title="Bunker Omega">Bunker Omega</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Metal_Barrel.jpg]</span>
-<figcaption>Metal_Barrel.jpg</figcaption>
-</figure></td>
-<td><p>Barrel (Metal)</p></td>
-<td><p>Industrial Areas</p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Bin.jpg]</span>
-<figcaption>Bin.jpg</figcaption>
-</figure></td>
-<td><p>Bin</p></td>
-<td><p><a href="./Idle%20Camp.md" class="wikilink" title="Idle Camp">Idle Camp</a>, <a href="./Last%20Lonely%20House.md" class="wikilink" title="Last Lonely House">Last Lonely House</a>, <a href="./Cabin%20%28Sundered%20Pass%29.md" class="wikilink" title="Cabin (Sundered Pass)">Cabin (Sundered Pass)</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Blackboard.jpg]</span>
-<figcaption>Blackboard.jpg</figcaption>
-</figure></td>
-<td><p>Blackboard</p></td>
-<td><p><a href="./Signal%20Void.md" class="wikilink" title="Signal Void">Signal Void</a> bunkers, <a href="./Station%20Bunkhouse.md" class="wikilink" title="Station Bunkhouse">Station Bunkhouse</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/WindowBlindsA.png" loading="lazy" width="100" height="100" alt="WindowBlindsA.png" /><img src="../assets/WindowBlindsB.png" loading="lazy" width="100" height="100" alt="WindowBlindsB.png" /><img src="../assets/WindowBlindsC.png" loading="lazy" width="100" height="100" alt="WindowBlindsC.png" /><img src="../assets/WindowBlindsD.png" loading="lazy" width="100" height="100" alt="WindowBlindsD.png" /><img src="../assets/WindowBlindsE.png" loading="lazy" width="100" height="100" alt="WindowBlindsE.png" /></p></td>
-<td><p>Blinds</p></td>
-<td><p>House/cabin/kitchen/office windows</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/BulletinBoardD.png" loading="lazy" width="100" height="100" />
-<figcaption>BulletinBoardD.png</figcaption>
-</figure></td>
-<td><p>Board</p></td>
-<td><p><a href="./Pensive%20Lookout.md" class="wikilink" title="Pensive Lookout">Pensive Lookout</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Brick.jpg]</span>
-<figcaption>Brick.jpg</figcaption>
-</figure></td>
-<td><p>Brick</p></td>
-<td><p><a href="./Hibernia%20Processing.md" class="wikilink" title="Hibernia Processing">Hibernia Processing</a>, <a href="./Concentrator.md" class="wikilink" title="Concentrator">Concentrator</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Bricks.jpg]</span>
-<figcaption>Bricks.jpg</figcaption>
-</figure></td>
-<td><p>Bricks</p></td>
-<td><p><a href="./Hibernia%20Processing.md" class="wikilink" title="Hibernia Processing">Hibernia Processing</a>, <a href="./Concentrator.md" class="wikilink" title="Concentrator">Concentrator</a>, <a href="./Last%20Resort%20Cannery.md" class="wikilink" title="Last Resort Cannery">Last Resort Cannery</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Candy_Machine.jpg]</span>
-<figcaption>Candy_Machine.jpg</figcaption>
-</figure></td>
-<td><p>Candy Machine</p></td>
-<td><p><a href="./Milton%20Post%20Office.md" class="wikilink" title="Milton Post Office">Milton Post Office</a>, <a href="./Convenience%20Store.md" class="wikilink" title="Convenience Store">Convenience Store</a>, <a href="./Milton%20Credit%20Union.md" class="wikilink" title="Milton Credit Union">Milton Credit Union</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Canister.jpg]</span>
-<figcaption>Canister.jpg</figcaption>
-</figure></td>
-<td><p>Canister (Garbage Can)</p></td>
-<td><p>Bathrooms, <a href="./Terminal.md" class="wikilink" title="Terminal">Terminal</a>, <a href="./Milton%20Credit%20Union.md" class="wikilink" title="Milton Credit Union">Milton Credit Union</a>, <a href="./Milton%20Post%20Office.md" class="wikilink" title="Milton Post Office">Milton Post Office</a>, <a href="./Last%20Resort%20Cannery.md" class="wikilink" title="Last Resort Cannery">Last Resort Cannery</a> Trailer</p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Case.jpg]</span>
-<figcaption>Case.jpg</figcaption>
-</figure></td>
-<td><p>Case</p></td>
-<td><p><a href="./Convenience%20Store.md" class="wikilink" title="Convenience Store">Convenience Store</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Cash_Machine.jpg]</span>
-<figcaption>Cash_Machine.jpg</figcaption>
-</figure></td>
-<td><p>Cash Machine (ATM)</p></td>
-<td><p><a href="./Terminal.md" class="wikilink" title="Terminal">Terminal</a>, <a href="./Rural%20Store.md" class="wikilink" title="Rural Store">Rural Store</a>, <a href="./Convenience%20Store.md" class="wikilink" title="Convenience Store">Convenience Store</a>, <a href="./Milton%20Credit%20Union.md" class="wikilink" title="Milton Credit Union">Milton Credit Union</a>, <a href="./Concentrator.md" class="wikilink" title="Concentrator">Concentrator</a> Offices</p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Clipboard.jpg]</span>
-<figcaption>Clipboard.jpg</figcaption>
-</figure></td>
-<td><p>Clipboard</p></td>
-<td><p>Industrial Areas</p></td>
-</tr>
-<tr>
-<td></td>
-<td><p>Clock (Grandfather)</p></td>
-<td><p><a href="./Milton%20House%20%28Grey%20Mother%27s%29.md" class="wikilink" title="Milton House (Grey Mother&#39;s)">Milton House (Grey Mother's)</a>, <a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Coat_Stand.jpg]</span>
-<figcaption>Coat_Stand.jpg</figcaption>
-</figure></td>
-<td><p>Coat Stand</p></td>
-<td><p><a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> Warden's Office, <a href="./Main%20Hangar.md" class="wikilink" title="Main Hangar">Main Hangar</a></p></td>
-</tr>
-<tr>
-<td></td>
-<td><p>Counter</p></td>
-<td><p><a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a>, <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/CurtainBarA.png" loading="lazy" width="100" height="100" alt="CurtainBarA.png" /><img src="../assets/CurtainBarA2.png" loading="lazy" width="100" height="100" alt="CurtainBarA2.png" /><img src="../assets/CurtainBarB.png" loading="lazy" width="100" height="100" alt="CurtainBarB.png" /><img src="../assets/CurtainBarB2.png" loading="lazy" width="100" height="100" alt="CurtainBarB2.png" /><img src="../assets/CurtainBarC.png" loading="lazy" width="100" height="100" alt="CurtainBarC.png" /></p></td>
-<td><p>Curtain (Curtain/Towel rack)</p></td>
-<td><p>Bathrooms</p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Cups.jpg]</span>
-<figcaption>Cups.jpg</figcaption>
-</figure></td>
-<td><p>Cups</p></td>
-<td><p><a href="./Convenience%20Store.md" class="wikilink" title="Convenience Store">Convenience Store</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Debris.jpg]</span>
-<figcaption>Debris.jpg</figcaption>
-</figure></td>
-<td><p>Debris</p></td>
-<td><p>Rubble - <a href="./Concentrator.md" class="wikilink" title="Concentrator">Concentrator</a>, <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> (inside prison) Ceiling Tiles - <a href="./Convenience%20Store.md" class="wikilink" title="Convenience Store">Convenience Store</a>, <a href="./Milton%20Credit%20Union.md" class="wikilink" title="Milton Credit Union">Milton Credit Union</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Door_destroyable.jpg]</span>
-<figcaption>Door_destroyable.jpg</figcaption>
-</figure></td>
-<td><p>Door</p></td>
-<td><p><a href="./Hibernia%20Processing.md" class="wikilink" title="Hibernia Processing">Hibernia Processing</a>, <a href="./Concentrator.md" class="wikilink" title="Concentrator">Concentrator</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/PictureFrameLong.png" loading="lazy" width="100" height="100" />
-<figcaption>PictureFrameLong.png</figcaption>
-</figure></td>
-<td><p>Frame</p></td>
-<td><p><a href="./Vacant%20Depot.md" class="wikilink" title="Vacant Depot">Vacant Depot</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Fire_Poker.jpg]</span>
-<figcaption>Fire_Poker.jpg</figcaption>
-</figure></td>
-<td><p>Fire Poker</p></td>
-<td><p><a href="./Mindful%20Cabin.md" class="wikilink" title="Mindful Cabin">Mindful Cabin</a>, <a href="./Cabin%20%28Sundered%20Pass%29.md" class="wikilink" title="Cabin (Sundered Pass)">Cabin (Sundered Pass)</a>, <a href="./Island%20Cottage.md" class="wikilink" title="Island Cottage">Island Cottage</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Hand_Truck.jpg]</span>
-<figcaption>Hand_Truck.jpg</figcaption>
-</figure></td>
-<td><p>Hand Truck</p></td>
-<td><p>Industrial Areas</p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Hand_Truck_2.jpg]</span>
-<figcaption>Hand_Truck_2.jpg</figcaption>
-</figure></td>
-<td><p>Hand Truck</p></td>
-<td><p>Industrial Areas</p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Lamp_broken.jpg]</span>
-<figcaption>Lamp_broken.jpg</figcaption>
-</figure></td>
-<td><p>Lamp (Broken)</p></td>
-<td></td>
-</tr>
-<tr>
-<td><p><img src="../assets/LampJ.png" loading="lazy" width="100" height="100" alt="LampJ.png" /><img src="../assets/LampN.png" loading="lazy" width="100" height="100" alt="LampN.png" /></p></td>
-<td><p>Light</p></td>
-<td></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Light_Rack.jpg]</span>
-<figcaption>Light_Rack.jpg</figcaption>
-</figure></td>
-<td><p>Light</p></td>
-<td><p><a href="./Paradise%20Meadows%20Farm.md" class="wikilink" title="Paradise Meadows Farm">Paradise Meadows Farm</a></p></td>
-</tr>
-<tr>
-<td></td>
-<td><p>Hangar</p></td>
-<td><p>Homes</p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Glasses.jpg]</span>
-<figcaption>Glasses.jpg</figcaption>
-</figure></td>
-<td><p>Glasses</p></td>
-<td><p><a href="./Concentrator.md" class="wikilink" title="Concentrator">Concentrator</a> Office, <a href="./Island%20Cottage.md" class="wikilink" title="Island Cottage">Island Cottage</a></p></td>
-</tr>
-<tr>
-<td></td>
-<td><p>Map</p></td>
-<td><p><a href="./Pensive%20Lookout.md" class="wikilink" title="Pensive Lookout">Pensive Lookout</a> (map of Coastal Highway on the Board)</p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Metal_Sheet.jpg]</span>
-<figcaption>Metal_Sheet.jpg</figcaption>
-</figure></td>
-<td><p>Metal (Sheet)</p></td>
-<td><p>Industrial Areas</p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/MirrorMetal_A.png" loading="lazy" width="100" height="100" alt="MirrorMetal_A.png" /><img src="../assets/MirrorMetal_B.png" loading="lazy" width="100" height="100" alt="MirrorMetal_B.png" /><img src="../assets/MirrorMetal_C.png" loading="lazy" width="100" height="100" alt="MirrorMetal_C.png" /></p></td>
-<td><p>Mirror (Broken)</p></td>
-<td><p>Bathrooms (most mirrors like this are shattered)</p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Mount.jpg]</span>
-<figcaption>Mount.jpg</figcaption>
-</figure></td>
-<td><p>Mount</p></td>
-<td><p><a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a>, Hunting <a href="./Prepper%20Cache.md" class="wikilink" title="Prepper Cache">Prepper Cache</a>, Places with animal trophies</p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Organ.jpg]</span>
-<figcaption>Organ.jpg</figcaption>
-</figure></td>
-<td><p>Organ</p></td>
-<td><p><a href="./St.%20Christopher%27s%20Church.md" class="wikilink" title="St. Christopher&#39;s Church">St. Christopher's Church</a>, <a href="./Pleasant%20Valley%20Church.md" class="wikilink" title="Pleasant Valley Church">Pleasant Valley Church</a></p></td>
-</tr>
-<tr>
-<td><p><img src="../assets/DishPlateB1.png" loading="lazy" width="100" height="100" alt="DishPlateB1.png" /><img src="../assets/DishPlateB2.png" loading="lazy" width="100" height="100" alt="DishPlateB2.png" /><img src="../assets/DishPlateB3.png" loading="lazy" width="100" height="100" alt="DishPlateB3.png" /><img src="../assets/DishServeB1.png" loading="lazy" width="100" height="100" alt="DishServeB1.png" /><img src="../assets/DishServeB2.png" loading="lazy" width="100" height="100" alt="DishServeB2.png" /><img src="../assets/DishServeB3.png" loading="lazy" width="100" height="100" alt="DishServeB3.png" /></p></td>
-<td><p>Plate</p></td>
-<td><p>Kitchens</p></td>
-</tr>
-<tr>
-<td></td>
-<td><p>Podium</p></td>
-<td><p><a href="./St.%20Christopher%27s%20Church.md" class="wikilink" title="St. Christopher&#39;s Church">St. Christopher's Church</a>, <a href="./Pleasant%20Valley%20Church.md" class="wikilink" title="Pleasant Valley Church">Pleasant Valley Church</a>, <a href="./Community%20Hall.md" class="wikilink" title="Community Hall">Community Hall</a></p></td>
-</tr>
-<tr>
-<td></td>
-<td><p>Piano</p></td>
-<td><p><a href="./Community%20Hall.md" class="wikilink" title="Community Hall">Community Hall</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Pipes.jpg]</span>
-<figcaption>Pipes.jpg</figcaption>
-</figure></td>
-<td><p>Pipe (Bundle)</p></td>
-<td><p>Industrial Areas</p></td>
-</tr>
-<tr>
-<td></td>
-<td><p>Rack</p></td>
-<td><p>Houses</p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Slush_Machine.jpg]</span>
-<figcaption>Slush_Machine.jpg</figcaption>
-</figure></td>
-<td><p>Slush Machine</p></td>
-<td><p><a href="./Convenience%20Store.md" class="wikilink" title="Convenience Store">Convenience Store</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Soda_Machine.jpg]</span>
-<figcaption>Soda_Machine.jpg</figcaption>
-</figure></td>
-<td><p>Soda Machine</p></td>
-<td><p><a href="./Convenience%20Store.md" class="wikilink" title="Convenience Store">Convenience Store</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Stereo.jpg]</span>
-<figcaption>Stereo.jpg</figcaption>
-</figure></td>
-<td><p>Stereo</p></td>
-<td><p>Near Speakers, <a href="./Paradise%20Meadows%20Farm.md" class="wikilink" title="Paradise Meadows Farm">Paradise Meadows Farm</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Storage.jpg]</span>
-<figcaption>Storage.jpg</figcaption>
-</figure></td>
-<td><p>Storage</p></td>
-<td><p>Offices</p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Tank.jpg]</span>
-<figcaption>Tank.jpg</figcaption>
-</figure></td>
-<td><p>Tank</p></td>
-<td><p>Industrial Areas</p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Tire_Rack.jpg]</span>
-<figcaption>Tire_Rack.jpg</figcaption>
-</figure></td>
-<td><p>Tire Rack</p></td>
-<td><p><a href="./Quonset%20Garage.md" class="wikilink" title="Quonset Garage">Quonset Garage</a>, <a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a>, <a href="./Main%20Hangar.md" class="wikilink" title="Main Hangar">Main Hangar</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Tray.jpg]</span>
-<figcaption>Tray.jpg</figcaption>
-</figure></td>
-<td><p>Tray</p></td>
-<td><p><a href="./Idle%20Camp.md" class="wikilink" title="Idle Camp">Idle Camp</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Traffic_Cone.jpg]</span>
-<figcaption>Traffic_Cone.jpg</figcaption>
-</figure></td>
-<td><p>Cone (stand)</p></td>
-<td><p><a href="./Main%20Hangar.md" class="wikilink" title="Main Hangar">Main Hangar</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Trough.jpg]</span>
-<figcaption>Trough.jpg</figcaption>
-</figure></td>
-<td><p>Trough</p></td>
-<td><p>Industrial Areas, <a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a>, <a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a>, <a href="./Mindful%20Cabin.md" class="wikilink" title="Mindful Cabin">Mindful Cabin</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Vending_Machine.jpg]</span>
-<figcaption>Vending_Machine.jpg</figcaption>
-</figure></td>
-<td><p>Vending Machine</p></td>
-<td><p><a href="./Milton%20Park.md" class="wikilink" title="Milton Park">Milton Park</a>, <a href="./Convenience%20Store.md" class="wikilink" title="Convenience Store">Convenience Store</a>, <a href="./Concentrator.md" class="wikilink" title="Concentrator">Concentrator</a> Offices, <a href="./Terminal.md" class="wikilink" title="Terminal">Terminal</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Wheelbarrow.jpg]</span>
-<figcaption>Wheelbarrow.jpg</figcaption>
-</figure></td>
-<td><p>Wheelbarrow</p></td>
-<td><p>Sheds, Industrial Buildings</p></td>
-</tr>
-</tbody>
-</table>
-<p><strong>Lua execution error in Module:Navbox function navbox</strong> <a href="ru:%D0%9C%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C_%D0%B8_%D0%B4%D0%B5%D0%BA%D0%BE%D1%80" class="wikilink" title="ru:Мебель и декор">ru:Мебель и декор</a></p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Recipe | Materials | Time | Weight | Crafted |
+| --- | --- | --- | --- | --- |
+| ![Bear\_Hide\_Bed\_icon.png](../assets/Bear_Hide_Bed_icon.png) [Bear Hide Bed](./Bear%20Hide%20Bed.md) | 18x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / 1x ![Cured\_Black\_Bear\_Hide\_icon.png](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / 16x ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | 24 Hours | 10.00 kg / *(22 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Coffee\_Table\_icon.png](../assets/Coffee_Table_icon.png) [Coffee Table](./Coffee%20Table.md) | 6x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 4 Hours | 5.00 kg / *(11 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_End\_Table\_icon.png](../assets/Rustic_End_Table_icon.png) [Rustic End Table](./Rustic%20End%20Table.md) | 6x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 6 Hours | 20.00 kg / *(44 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Round\_Table\_icon.png](../assets/Round_Table_icon.png) [Round Table](./Round%20Table.md) | 12x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 9 Hours | 5.00 kg / *(11 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_Table\_icon.png](../assets/Rustic_Table_icon.png) [Rustic Table](./Rustic%20Table.md) | 10x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 8 Hours | 8.00 kg / *(17.6 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Square\_Table\_icon.png](../assets/Square_Table_icon.png) [Square Table](./Square%20Table.md) | 8x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 7 Hours | 5.00 kg / *(11 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| \[Missing image: \[\[File:Rustic\_Chair\_icon.png\] [Rustic Chair](./Rustic%20Chair.md) / `icon.png\|link=`![Rustic\_Chair\_icon.png](../assets/Rustic_Chair_icon.png)[`Rustic Chair`](./Rustic%20Chair.md) | 29x29px\]\] link=Rustic Chair\|29x29px [Rustic Chair](./Rustic%20Chair.md) | ![Rustic\_Chair\_icon.png](../assets/Rustic_Chair_icon.png) [Rustic Chair](./Rustic%20Chair.md) \]\] / The following Decorations are automatically placed into the player's inventory once crafted. / \| Recipe \| Materials \| Time \| Weight \| Crafted \| / \| --- \| --- \| --- \| --- \| --- \| / \| ![Framed\_Hockey\_Jersey\_icon.png](../assets/Framed_Hockey_Jersey_icon.png) [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) \| 2x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![Hockey\_Jersey\_icon.png](../assets/Hockey_Jersey_icon.png) [Hockey Jersey](./Hockey%20Jersey.md) \| 4 Hours \| 2.00 kg / *(4.4 lb)* \| [Furniture Workbench](./Furniture%20Workbench.md) \| / \| ![Framed\_Photo\_icon.png](../assets/Framed_Photo_icon.png) [Framed Photo](./Framed%20Photo.md) \| 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Camera\_icon.png](../assets/Camera_icon.png) [Camera](./Camera.md) Photo \| 2 Hours \| 0.25 kg / *(0.55 lb)* \| [Furniture Workbench](./Furniture%20Workbench.md) \| / \| ![Mounted\_Burbot\_icon.png](../assets/Mounted_Burbot_icon.png) [Mounted Burbot](./Mounted%20Burbot.md) \| 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Burbot\_(Raw)\_icon.png](../assets/Burbot_%28Raw%29_icon.png) [Burbot (Raw)](./Burbot%20%28Raw%29.md) \| 4 Hours \| 0.50 kg / *(1.1 lb)* \| [Furniture Workbench](./Furniture%20Workbench.md) \| / \| ![Mounted\_Coho\_Salmon\_icon.png](../assets/Mounted_Coho_Salmon_icon.png) [Mounted Coho Salmon](./Mounted%20Coho%20Salmon.md) \| 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Coho\_Salmon\_(Raw)\_icon.png](../assets/Coho_Salmon_%28Raw%29_icon.png) [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) \| 4 Hours \| 1.00 kg / *(2.2 lb)* \| [Furniture Workbench](./Furniture%20Workbench.md) \| / \| ![Mounted\_Goldeye\_icon.png](../assets/Mounted_Goldeye_icon.png) [Mounted Goldeye](./Mounted%20Goldeye.md) \| 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Goldeye\_(Raw)\_icon.png](../assets/Goldeye_%28Raw%29_icon.png) [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) \| 4 Hours \| 0.50 kg / *(1.1 lb)* \| [Furniture Workbench](./Furniture%20Workbench.md) \| / \| ![Mounted\_Lake\_Whitefish\_icon.png](../assets/Mounted_Lake_Whitefish_icon.png) [Mounted Lake Whitefish](./Mounted%20Lake%20Whitefish.md) \| 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Lake\_Whitefish\_(Raw)\_icon.png](../assets/Lake_Whitefish_%28Raw%29_icon.png) [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) \| 4 Hours \| 0.50 kg / *(1.1 lb)* \| [Furniture Workbench](./Furniture%20Workbench.md) \| / \| ![Mounted\_Rainbow\_Trout\_icon.png](../assets/Mounted_Rainbow_Trout_icon.png) [Mounted Rainbow Trout](./Mounted%20Rainbow%20Trout.md) \| 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Rainbow\_Trout\_(Raw)\_icon.png](../assets/Rainbow_Trout_%28Raw%29_icon.png) [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) \| 4 Hours \| 0.50 kg / *(1.1 lb)* \| [Furniture Workbench](./Furniture%20Workbench.md) \| / \| ![Mounted\_Red\_Irish\_Lord\_icon.png](../assets/Mounted_Red_Irish_Lord_icon.png) [Mounted Red Irish Lord](./Mounted%20Red%20Irish%20Lord.md) \| 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Red\_Irish\_Lord\_(Raw)\_icon.png](../assets/Red_Irish_Lord_%28Raw%29_icon.png) [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) \| 4 Hours \| 0.50 kg / *(1.1 lb)* \| [Furniture Workbench](./Furniture%20Workbench.md) \| / \| ![Mounted\_Rockfish\_icon.png](../assets/Mounted_Rockfish_icon.png) [Mounted Rockfish](./Mounted%20Rockfish.md) \| 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Rockfish\_(Raw)\_icon.png](../assets/Rockfish_%28Raw%29_icon.png) [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) \| 4 Hours \| 0.50 kg / *(1.1 lb)* \| [Furniture Workbench](./Furniture%20Workbench.md) \| / \| ![Mounted\_Smallmouth\_Bass\_icon.png](../assets/Mounted_Smallmouth_Bass_icon.png) [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md) \| 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Smallmouth\_Bass\_(Raw)\_icon.png](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) \| 4 Hours \| 0.50 kg / *(1.1 lb)* \| [Furniture Workbench](./Furniture%20Workbench.md) \| / \| ![Rustic\_Stool\_icon.png](../assets/Rustic_Stool_icon.png) [Rustic Stool](./Rustic%20Stool.md) \| 4x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) \| 2 Hours \| 2.00 kg / *(4.4 lb)* \| [Furniture Workbench](./Furniture%20Workbench.md) \| / ## Lootable Decorations / The following Decorations cannot be crafted, but are already present within many interiors. They can be moved as normal while in Customization Mode, but can also be placed inside the player's backpack and carried around between [safehouses](./Safehouse.md). / - The option to take or destroy these items appears when examined. / - When taken, this type of Decoration has a unique icon and weight, cannot be harvested for materials, and is placed in the Decorations section of the Backpack inventory. / - When destroyed, they are permanently removed from the interior. Caution is advised when doing this, as destroying these Decorations means they cannot be crafted/taken from another location to be placed into another interior. / - Lootable Decorations cannot be destroyed in the player's Inventory or in a [Safehouse Decoration Box](./Safehouse%20Decoration%20Box.md). They must be placed in a Saferoom before the option appears. / - There can be multiple versions of an item with the same name, but with different weights and models. / - Some of these items display a different name when examined in Customization Mode (ex [Backpack](./Backpack.md) is "Back Pack" or [Metal Lamp](./Metal%20Lamp.md) is "Lamp"). / - Fish Mounts are different from the player crafted versions and are found in cabins. / - Carrying multiple Decorations adds up quickly. The heaviest Decorations are 5.00kg, while the lightest tend to be 0.05kg. Using a [Travois](./Travois.md) can be helpful for transporting large amounts of heavy Decorations. / \| Icon \| Name \| Weight \| Location Found \| / \| --- \| --- \| --- \| --- \| / \| ![ChurchBannerA.png](../assets/ChurchBannerA.png)![ChurchBannerB.png](../assets/ChurchBannerB.png) \| Banner \| 5.00 kg / *(11 lb)* \| [St. Christopher's Church](./St.%20Christopher%27s%20Church.md), [Pleasant Valley Church](./Pleasant%20Valley%20Church.md) \| / \| ![](../assets/Baseball.png) / *Baseball.png* \| Baseball \| 0.05 kg / *(0.11 lb)* \| [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office, [Main Hangar](./Main%20Hangar.md) office (where [Stained Paper](./Stained%20Paper.md) is found) \| / \| ![](../assets/BaseballBat.png) / *BaseballBat.png* \| Baseball Bat \| 0.50 kg / *(1.1 lb)* \| [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office \| / \| ![](../assets/Basin_Decoration.png) / *Basin\_Decoration.png* \| [Basin](./Basin.md) \| 2.00 kg / *(4.4 lb)* \| [Quonset Garage](./Quonset%20Garage.md) \| / \| ![HandBasketA.png](../assets/HandBasketA.png)![HandBasketB.png](../assets/HandBasketB.png) \| Basket \| 0.25 kg / *(0.55 lb)* \| [Main Hangar](./Main%20Hangar.md), [Convenience Store](./Convenience%20Store.md), [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md) \| / \| ![](../assets/Blender.png) / *Blender.png* \| Blender \| 0.25 kg / *(0.55 lb)* \| Trailers, [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), Houses \| / \| ![DishBowlA1.png](../assets/DishBowlA1.png)![DishBowlA2.png](../assets/DishBowlA2.png) \| Bowl \| 0.05 kg / *(0.11 lb)* \| Houses, Trailers \| / \| ![CandyBoxA.png](../assets/CandyBoxA.png)![CandyBoxB.png](../assets/CandyBoxB.png)![CandyBoxC.png](../assets/CandyBoxC.png)![CandyBoxD.png](../assets/CandyBoxD.png) \| [Box](./Cardboard%20Box.md) \| 0.10 kg / *(0.22 lb)* \| Houses, [Convenience Store](./Convenience%20Store.md), [Rural Store](./Rural%20Store.md), Trailers \| / \| ![](../assets/MetalFileCabinetDrawerA2.png) / *MetalFileCabinetDrawerA2.png* \| Broken Drawer \| 1.00 kg / *(2.2 lb)* \| Offices \| / \| ![BroomStickA.png](../assets/BroomStickA.png)![BroomStickB.png](../assets/BroomStickB.png) \| [Broom](./Broom.md) \| 0.20 kg / *(0.44 lb)* \| Houses, Industrial Areas \| / \| ![](../assets/MetalBucketA.png) / *MetalBucketA.png* \| [Bucket](./Metal%20Pail.md) \| 1.00 kg / *(2.2 lb)* \| Houses, Industrial Areas \| / \| ![BulletinBoardA.png](../assets/BulletinBoardA.png)![BulletinBoardB.png](../assets/BulletinBoardB.png)![BulletinBoardC.png](../assets/BulletinBoardC.png) \| Bulletin Board \| 5.00 kg / *(11 lb)* \| Industrial Areas \| / \| ![CalendarDeco.png](../assets/CalendarDeco.png)![CalendarDecoB.png](../assets/CalendarDecoB.png) \| Calendar \| 0.10 kg / *(0.22 lb)* \| Houses, Industrial Areas \| / \| ![](../assets/VistaCalendar.png) / *VistaCalendar.png* \| Calendar \| 0.25 kg / *(0.55 lb)* \| Houses, Industrial Areas \| / \| ![](../assets/Trolley_A.png) / *Trolley\_A.png* \| Cart \| 5.00 kg / *(11 lb)* \| [Idle Camp](./Idle%20Camp.md) mess hall \| / \| ![](../assets/StereoCassetteTape.png) / *StereoCassetteTape.png* \| Cassete \| 0.10 kg / *(0.22 lb)* \| [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office, [Cabin](./Cabin.md), [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) \| / \| ![ChairFoldng\_A\_Folded.png](../assets/ChairFoldng_A_Folded.png)![ChairFoldng\_A\_Open.png](../assets/ChairFoldng_A_Open.png) \| Chair \| 4.00 kg / *(8.8 lb)* \| [Main Hangar](./Main%20Hangar.md), [Community Hall](./Community%20Hall.md), [Blackrock Prison](./Blackrock%20Prison.md) Offices/Infirmary \| / \| ![RockingChair.png](../assets/RockingChair.png)![RockingChairB2.png](../assets/RockingChairB2.png)![Lab\_Chair.png](../assets/Lab_Chair.png) \| Chair \| 5.00 kg / *(11 lb)* \| Houses, [Hunting Lodge](./Hunting%20Lodge.md), Metal chair [Blackrock Prison](./Blackrock%20Prison.md) (Infirmary), \| / \| ![](../assets/WallClock.png) / *WallClock.png* \| Clock \| 1.00 kg / *(2.2 lb)* \| Houses \| / \| ![CoffeeMachine.png](../assets/CoffeeMachine.png)![CoffeeMachineB.png](../assets/CoffeeMachineB.png) \| Coffee Machine \| 0.50 kg / *(1.1 lb)* \| Kitchens, Trailers, Cabins \| / \| ![ComputerLaptop.png](../assets/ComputerLaptop.png)![ComputerTowerA.png](../assets/ComputerTowerA.png)![ComputerTowerB.png](../assets/ComputerTowerB.png)![OldBoxyComputer.png](../assets/OldBoxyComputer.png) \| Computer \| 5.00 kg / *(11 lb)* \| Industrial Areas \| / \| ![](../assets/Traffic_Cone_A.png) / *Traffic\_Cone\_A.png* \| Cone \| 0.25 kg / *(0.55 lb)* \| [Main Hangar](./Main%20Hangar.md) (2 different cone models but display the same Backpack icon) \| / \| ![CratesA.png](../assets/CratesA.png)![CratesB.png](../assets/CratesB.png) \| [Crate](./Crate.md) \| 0.30 kg / *(0.66 lb)* \| Industrial Areas \| / \| ![](../assets/BabyCrib.png) / *BabyCrib.png* \| Crib \| 5.00 kg / *(11 lb)* \| [Milton House](./Milton%20House.md) (house close to Grey Mother's leading to [Radio Tower](./Radio%20Tower.md)) \| / \| ![CupA.png](../assets/CupA.png)![CupB.png](../assets/CupB.png)![CupC.png](../assets/CupC.png)![CupE.png](../assets/CupE.png)![CupF.png](../assets/CupF.png)![CupG.png](../assets/CupG.png) \| Cup \| 0.05 kg / *(0.11 lb)* \| Houses, [Convenience Store](./Convenience%20Store.md) \| / \| ![](../assets/PaperCupA.png) / *PaperCupA.png* \| Cup \| 0.10 kg / *(0.22 lb)* \| [Concentrator](./Concentrator.md), [Control Tower](./Control%20Tower.md) \| / \| ![](../assets/CuttingBoardA.png) / *CuttingBoardA.png* \| Cutting Board \| 0.10 kg / *(0.22 lb)* \| House Kitchens \| / \| ![](../assets/CuttingBoardB.png) / *CuttingBoardB.png* \| Cutting Board \| 0.25 kg / *(0.55 lb)* \| House Kitchens \| / \| ![](../assets/DeerMount.png) / *DeerMount.png* \| Deer Mount \| 5.00 kg / *(11 lb)* \| [Hunting Lodge](./Hunting%20Lodge.md), Hunting [Prepper Cache](./Prepper%20Cache.md), Places with animal trophies \| / \| ![](../assets/ComputerFloppy.png) / *ComputerFloppy.png* \| Disk \| 0.02 kg / *(0.044 lb)* \| Near Computers, [Maintenance Yard](./Maintenance%20Yard.md), [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) \| / \| ![](../assets/DreamCatcher.png) / *DreamCatcher.png* \| Dream Catcher \| 0.10 kg / *(0.22 lb)* \| [Camp Office](./Camp%20Office.md), [Mindful Cabin](./Mindful%20Cabin.md), [Lake Cabins](./Lake%20Cabins.md), Cabin under [Abandoned Lookout](./Abandoned%20Lookout.md) \| / \| ![Ico\_GearItem\_LightChristmas\_B.png](../assets/Ico_GearItem_LightChristmas_B.png)![Ico\_GearItem\_LightChristmas\_C.png](../assets/Ico_GearItem_LightChristmas_C.png) \| Festive Lights \| 0.25 kg / *(0.55 lb)* \| [Hangar Basement](./Hangar%20Basement.md), [Community Hall](./Community%20Hall.md), [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) (office stairwell), [Hunting Lodge](./Hunting%20Lodge.md) ([Festive Sweater](./Festive%20Sweater.md) is usually nearby) \| / \| ![Fish\_Mount\_Bass.png](../assets/Fish_Mount_Bass.png)![CohoSalmonMount.png](../assets/CohoSalmonMount.png)![RainbowTroutMount.png](../assets/RainbowTroutMount.png) \| Fish Mount \| 0.25 kg / *(0.55 lb)* \| Cabins, [Hunting Lodge](./Hunting%20Lodge.md), [Maintenance Yard](./Maintenance%20Yard.md) \| / \| ![InteriorFlagA.png](../assets/InteriorFlagA.png)![InteriorFlagB.png](../assets/InteriorFlagB.png)![InteriorFlagC.png](../assets/InteriorFlagC.png) \| Flag \| 0.25 kg / *(0.55 lb)* \| [Milton Post Office](./Milton%20Post%20Office.md), [Concentrator](./Concentrator.md) (7th Floor Offices) / Large flags on the [Maintenance Yard](./Maintenance%20Yard.md) Shed ceiling (can be reached in [Safe House Customization](./Safehouse%20Customization.md) with a plank), [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) Turbine Room (can be reached in [Safe House Customization](./Safehouse%20Customization.md) with various stacked items, flag keeps "swaying" property when placed in new locations) / Small table flag in [Blackrock Prison](./Blackrock%20Prison.md) Warden's office \| / \| ![OldPictureFrameA.png](../assets/OldPictureFrameA.png)![OldPictureFrameB.png](../assets/OldPictureFrameB.png)![PictureFrameE2.png](../assets/PictureFrameE2.png)![PictureFrameF.png](../assets/PictureFrameF.png)![PictureFrameG.png](../assets/PictureFrameG.png) \| Frame \| 0.15 kg / *(0.33 lb)* \| Houses \| / \| ![PhotoWolf\_A.png](../assets/PhotoWolf_A.png)![PhotoWolf\_B.png](../assets/PhotoWolf_B.png)![PictureFrame\_GM\_A.png](../assets/PictureFrame_GM_A.png)![PictureFrame\_GM\_B.png](../assets/PictureFrame_GM_B.png)![PictureFrame\_GM\_C.png](../assets/PictureFrame_GM_C.png) \| Frame (Table) \| 0.25 kg / *(0.55 lb)* \| Houses (these are table picture frames) \| / \| ![PictureFrameC2.png](../assets/PictureFrameC2.png)![PictureFrameA2.png](../assets/PictureFrameA2.png)![PictureFrameB2.png](../assets/PictureFrameB2.png)![PictureFrameA1.png](../assets/PictureFrameA1.png)![PictureFrameE.png](../assets/PictureFrameE.png)![PictureFrameE1.png](../assets/PictureFrameE1.png)![PictureFrameB.png](../assets/PictureFrameB.png)![PictureFrameB1.png](../assets/PictureFrameB1.png)![PictureFrameB3.png](../assets/PictureFrameB3.png)![PictureFrameI.png](../assets/PictureFrameI.png)![PictureFrameC.png](../assets/PictureFrameC.png)![PictureFrameC1.png](../assets/PictureFrameC1.png)![PictureFrameC3.png](../assets/PictureFrameC3.png)![PictureFrameD.png](../assets/PictureFrameD.png)![PictureFrameD1.png](../assets/PictureFrameD1.png)![PictureFrameF2.png](../assets/PictureFrameF2.png)![PictureFrameG2.png](../assets/PictureFrameG2.png)![PictureFrameH.png](../assets/PictureFrameH.png)![PictureFrameH2.png](../assets/PictureFrameH2.png)![PictureFrameI2.png](../assets/PictureFrameI2.png)![PictureFrameA3.png](../assets/PictureFrameA3.png)![PictureFrame\_GM\_D.png](../assets/PictureFrame_GM_D.png)![PictureFrame\_GM\_e.png](../assets/PictureFrame_GM_e.png)![PictureFrame\_GM\_F.png](../assets/PictureFrame_GM_F.png) \| Frame \| 0.25 kg / *(0.55 lb)* \| Houses \| / \| ![PictureFrameC4.png](../assets/PictureFrameC4.png)![PictureFrameA4.png](../assets/PictureFrameA4.png)![PictureFrameB4.png](../assets/PictureFrameB4.png) \| Frame (Frame 2) \| 0.25 kg / *(0.55 lb)* \| Houses \| / \| ![](../assets/PictureFrameWelcomeSign.png) / *PictureFrameWelcomeSign.png* \| Frame \| 0.25 kg / *(0.55 lb)* \| [Camp Office](./Camp%20Office.md) welcome sign \| / \| ![PictureFrameK1.png](../assets/PictureFrameK1.png)![PictureFrameL1.png](../assets/PictureFrameL1.png)![PictureFrameM1.png](../assets/PictureFrameM1.png)![PictureFrameO1.png](../assets/PictureFrameO1.png)![PictureFrameQ1.png](../assets/PictureFrameQ1.png)![PictureFrameS1.png](../assets/PictureFrameS1.png)![PictureFrameT.png](../assets/PictureFrameT.png)![PictureFrameU.png](../assets/PictureFrameU.png)![PictureFrameV.png](../assets/PictureFrameV.png)![PictureFrameN1.png](../assets/PictureFrameN1.png)![PictureFrameP1.png](../assets/PictureFrameP1.png)![PictureFrameR1.png](../assets/PictureFrameR1.png)![PictureFrame\_T02.png](../assets/PictureFrame_T02.png)![PictureFrame\_T03.png](../assets/PictureFrame_T03.png)![PictureFrame\_T04.png](../assets/PictureFrame_T04.png)![PictureFrame\_T05.png](../assets/PictureFrame_T05.png)![PictureFrame\_T14.png](../assets/PictureFrame_T14.png)![PictureFrame\_T15.png](../assets/PictureFrame_T15.png)![PictureFrame\_T16.png](../assets/PictureFrame_T16.png)![PictureFrame\_T17.png](../assets/PictureFrame_T17.png)![PhotoC\_MountainVista\_Stand.png](../assets/PhotoC_MountainVista_Stand.png)![PhotoC\_Sleding\_Stand.png](../assets/PhotoC_Sleding_Stand.png)![PhotoD\_Snowman\_Stand.png](../assets/PhotoD_Snowman_Stand.png) \| Frame (FT) \| 0.25 kg / *(0.55 lb)* \| These are found in houses/buildings in the Far Territory. [Vacant Depot](./Vacant%20Depot.md), [Idle Camp](./Idle%20Camp.md), [Last Lonely House](./Last%20Lonely%20House.md), etc \| / \| ![PictureFrameK2.png](../assets/PictureFrameK2.png)![PictureFrameL2.png](../assets/PictureFrameL2.png)![PictureFrameM2.png](../assets/PictureFrameM2.png)![PictureFrameO2.png](../assets/PictureFrameO2.png)![PictureFrameQ2.png](../assets/PictureFrameQ2.png)![PictureFrameS2.png](../assets/PictureFrameS2.png) \| Frame (FT) \| 0.25 kg / *(0.55 lb)* \| These are found in houses/buildings in the Far Territory. [Vacant Depot](./Vacant%20Depot.md), [Idle Camp](./Idle%20Camp.md), [Last Lonely House](./Last%20Lonely%20House.md), etc \| / \| ![PicturePhoto\_T01.png](../assets/PicturePhoto_T01.png)![PicturePhoto\_T02.png](../assets/PicturePhoto_T02.png)![PicturePhoto\_T03.png](../assets/PicturePhoto_T03.png)![PicturePhoto\_T04.png](../assets/PicturePhoto_T04.png)![PicturePhoto\_T05.png](../assets/PicturePhoto_T05.png)![PicturePhoto\_T06.png](../assets/PicturePhoto_T06.png)![PicturePhoto\_T07.png](../assets/PicturePhoto_T07.png)![PicturePhoto\_T08.png](../assets/PicturePhoto_T08.png)![PictureFrame\_T06.png](../assets/PictureFrame_T06.png)![PictureFrame\_T07.png](../assets/PictureFrame_T07.png)![PictureFrame\_T08.png](../assets/PictureFrame_T08.png)![PictureFrame\_T09.png](../assets/PictureFrame_T09.png)![PictureFrame\_T10.png](../assets/PictureFrame_T10.png)![PictureFrame\_T11.png](../assets/PictureFrame_T11.png)![PictureFrame\_T12.png](../assets/PictureFrame_T12.png)![PictureFrame\_T13.png](../assets/PictureFrame_T13.png)![PictureFrame\_T18.png](../assets/PictureFrame_T18.png)![PictureFrame\_T19.png](../assets/PictureFrame_T19.png)![PictureFrame\_T20.png](../assets/PictureFrame_T20.png)![PictureFrame\_T21.png](../assets/PictureFrame_T21.png)![PictureFrame\_T22.png](../assets/PictureFrame_T22.png) \| Frame (Miner) \| 0.25 kg / *(0.55 lb)* \| [Vacant Depot](./Vacant%20Depot.md), [Idle Camp](./Idle%20Camp.md), [Concentrator](./Concentrator.md) Offices \| / \| ![](../assets/DeskGlobe.png) / *DeskGlobe.png* \| Globe \| 1.00 kg / *(2.2 lb)* \| [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office, [Main Hangar](./Main%20Hangar.md), [Bunker Alpha](./Bunker%20Alpha.md) \| / \| ![](../assets/HockeyStickA.png) / *HockeyStickA.png* \| Hockey Stick \| 0.25 kg / *(0.55 lb)* \| [Last Resort Cannery](./Last%20Resort%20Cannery.md) Trailer, [Island Cottage](./Island%20Cottage.md), [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md) \| / \| ![](../assets/WallHook.png) / *WallHook.png* \| Hook \| 0.10 kg / *(0.22 lb)* \| Houses \| / \| ![](../assets/Horseshoe.png) / *Horseshoe.png* \| Horseshoe \| 0.10 kg / *(0.22 lb)* \| [Hunting Lodge](./Hunting%20Lodge.md) Basement, [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office \| / \| ![Kettle\_A.png](../assets/Kettle_A.png)![Kettle\_B.png](../assets/Kettle_B.png) \| Kettle \| 0.25 kg / *(0.55 lb)* \| [Last Resort Cannery](./Last%20Resort%20Cannery.md) Trailer, [Station Bunkhouse](./Station%20Bunkhouse.md), [Pensive Lookout](./Pensive%20Lookout.md) \| / \| ![](../assets/ComputerKeyboard.png) / *ComputerKeyboard.png* \| Keyboard \| 0.20 kg / *(0.44 lb)* \| Near Computers \| / \| ![](../assets/DialKnob.png) / *DialKnob.png* \| Knob \| 0.25 kg / *(0.55 lb)* \| [Concentrator](./Concentrator.md) (6th Floor, to the right of where the Woodworking Tools spawn in a machine), [Conveyor Room](./Conveyor%20Room.md) near the entrance to Langston Mine \| / \| ![WardenLamp.png](../assets/WardenLamp.png)![Lab\_DeskLamp\_A.png](../assets/Lab_DeskLamp_A.png) \| Lamp \| 0.25 kg / *(0.55 lb)* \| Green lamp found in [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office Signal Void bunkers, Blackrock Prison (Infirmary), [Main Hangar](./Main%20Hangar.md) \| / \| ![LampA.png](../assets/LampA.png)![LampA2.png](../assets/LampA2.png)![LampB.png](../assets/LampB.png) \| Lamp \| 1.00 kg / *(2.2 lb)* \| Houses \| / \| ![LampC2.png](../assets/LampC2.png)![LampC.png](../assets/LampC.png) \| Lamp \| 2.00 kg / *(4.4 lb)* \| Houses \| / \| ![LampD.png](../assets/LampD.png)![LampD2.png](../assets/LampD2.png)![LampB2.png](../assets/LampB2.png)![LampG.png](../assets/LampG.png)![LampN.png](../assets/LampN.png) \| [Lamp](./Metal%20Lamp.md) \| 5.00 kg / *(11 lb)* \| Houses \| / \| ![](../assets/LightChristmas_A.png) / *LightChristmas\_A.png* \| Light \| 0.25 kg / *(0.55 lb)* \| [Camp Office](./Camp%20Office.md), [Cannery Worker Residences](./Cannery%20Worker%20Residences.md), [Justy's Hovel](./Justy%27s%20Hovel.md) \| / \| ![PaintCanALid.png](../assets/PaintCanALid.png)![PaintCanBLid.png](../assets/PaintCanBLid.png) \| Lid (Paintcan) \| 0.25 kg / *(0.55 lb)* \| Sheds, Industrial Areas \| / \| ![](../assets/Lab_Microscope.png) / *Lab\_Microscope.png* \| Microscope \| 0.25 kg / *(0.55 lb)* \| [Blackrock Prison](./Blackrock%20Prison.md) (Infirmary), [Bunker Alpha](./Bunker%20Alpha.md), [Bunker Beta](./Bunker%20Beta.md), [Bunker Gamma](./Bunker%20Gamma.md), [Bunker Omega](./Bunker%20Omega.md) \| / \| ![WallMirrorA.png](../assets/WallMirrorA.png)![WallMirrorB.png](../assets/WallMirrorB.png)![MirrorMetal\_A.png](../assets/MirrorMetal_A.png) \| Mirror \| 3.00 kg / *(6.6 lb)* \| [Hunting Lodge](./Hunting%20Lodge.md), [Vacant Depot](./Vacant%20Depot.md), [Bunker Omega](./Bunker%20Omega.md), [Foreman's Retreat](./Foreman%27s%20Retreat.md) \| / \| ![ComputerMonitorA.png](../assets/ComputerMonitorA.png)![ComputerMonitorB.png](../assets/ComputerMonitorB.png) \| Monitor \| 4.00 kg / *(8.8 lb)* \| Industrial Areas \| / \| ![](../assets/MooseMount_A.png) / *MooseMount\_A.png* \| Moose Mount \| 5.00 kg / *(11 lb)* \| [Community Hall](./Community%20Hall.md) \| / \| ![](../assets/ComputerMouse.png) / *ComputerMouse.png* \| Mouse \| 0.05 kg / *(0.11 lb)* \| Near Computers \| / \| ![NumberPlate100.png](../assets/NumberPlate100.png)![NumberPlate110A.png](../assets/NumberPlate110A.png)![NumberPlate110B.png](../assets/NumberPlate110B.png)![NumberPlate120.png](../assets/NumberPlate120.png)![NumberPlate140.png](../assets/NumberPlate140.png)![NumberPlate150.png](../assets/NumberPlate150.png)![NumberPlate200.png](../assets/NumberPlate200.png)![NumberPlate210.png](../assets/NumberPlate210.png)![NumberPlate300.png](../assets/NumberPlate300.png)![NumberPlate310.png](../assets/NumberPlate310.png)![NumberPlateCB1.png](../assets/NumberPlateCB1.png)![NumberPlateCB2.png](../assets/NumberPlateCB2.png)![NumberPlateCB3.png](../assets/NumberPlateCB3.png) \| Number \| 0.25 kg / *(0.55 lb)* \| [Blackrock Prison](./Blackrock%20Prison.md) (inside the prison) \| / \| ![](../assets/ToasterOven.png) / *ToasterOven.png* \| [Oven](./Toaster.md) \| 1.00 kg / *(2.2 lb)* \| Kitchens \| / \| ![](../assets/MicrowaveOven.png) / *MicrowaveOven.png* \| [Oven](./Microwave.md) \| 5.00 kg / *(11 lb)* \| [Milton House](./Milton%20House.md) (only one microwave can be picked up) \| / \| ![PaintCanABase.png](../assets/PaintCanABase.png)![PaintCanBBase.png](../assets/PaintCanBBase.png) \| Paintcan \| 0.25 kg / *(0.55 lb)* \| Sheds, Industrial Areas \| / \| ![](../assets/PaintBrush.png) / *PaintBrush.png* \| Paintbrush \| 0.10 kg / *(0.22 lb)* \| Sheds, Industrial Areas \| / \| ![WallPhoneA.png](../assets/WallPhoneA.png)![WallPhoneB.png](../assets/WallPhoneB.png)![OfficePhone\_A.png](../assets/OfficePhone_A.png)![OfficePhone\_B.png](../assets/OfficePhone_B.png) \| Phone \| 0.25 kg / *(0.55 lb)* \| Wall Phones - Industrial areas Office Phone - Offices \| / \| ![](../assets/Pillow_Decoration.png) / *Pillow\_Decoration.png* \| Pillow \| 0.15 kg / *(0.33 lb)* \| Trailers \| / \| ![](../assets/PitcherA.png) / *PitcherA.png* \| Pitcher \| 0.25 kg / *(0.55 lb)* \| Kitchens \| / \| ![PottedPlantA.png](../assets/PottedPlantA.png)![PottedPlantB.png](../assets/PottedPlantB.png)![PottedPlantC.png](../assets/PottedPlantC.png) \| Plant \| 5.00 kg / *(11 lb)* 1.00 kg / *(2.2 lb)* \| Houses \| / \| ![](../assets/MountainPosterDeco.png) / *MountainPosterDeco.png* \| Poster \| 0.05 kg / *(0.11 lb)* \| Houses \| / \| ![PosterDecoB.png](../assets/PosterDecoB.png)![PosterDecoC.png](../assets/PosterDecoC.png)![PosterDecoE.png](../assets/PosterDecoE.png) \| Poster \| 0.25 kg / *(0.55 lb)* \| Houses \| / \| ![](../assets/CoatRackB.png) / *CoatRackB.png* \| Rack \| 0.20 kg / *(0.44 lb)* \| Houses \| / \| ![CoatRackA.png](../assets/CoatRackA.png)![CoatRackC.png](../assets/CoatRackC.png) \| Rack \| 0.30 kg / *(0.66 lb)* \| Houses \| / \| ![CoatRackD.png](../assets/CoatRackD.png)![GunRackSingle.png](../assets/GunRackSingle.png) \| Rack \| 0.50 kg / *(1.1 lb)* \| Houses. Gun Rack - [Forestry Lookout](./Forestry%20Lookout.md), [Pensive Lookout](./Pensive%20Lookout.md), [Abandoned Lookout](./Abandoned%20Lookout.md), [Trapper's Homestead](./Trapper%27s%20Homestead.md), [Hunting Lodge](./Hunting%20Lodge.md), [Foreman's Retreat](./Foreman%27s%20Retreat.md) \| / \| ![](../assets/GunRackDouble.png) / *GunRackDouble.png* \| Rack \| 0.75 kg / *(1.65 lb)* \| Hunting Prepper Cache, [Last Lonely House](./Last%20Lonely%20House.md), [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), [Last Resort Cannery](./Last%20Resort%20Cannery.md) (trailer) \| / \| ![ClockRadio.png](../assets/ClockRadio.png)![RadioB.png](../assets/RadioB.png) \| Radio \| 0.10 kg / *(0.22 lb)* \| House Bedrooms, [Bunker Alpha](./Bunker%20Alpha.md) [Blackrock Prison](./Blackrock%20Prison.md) (room with [Note (Survival 2)](./Note%20%28Survival%202%29.md) closest to the cells), [Control Tower](./Control%20Tower.md) \| / \| ![](../assets/Ico_GearItem_RadioA.png) / *Ico\_GearItem\_RadioA.png* \| [Radio](./Radio.md) \| 2.00 kg / *(4.4 lb)* \| Found in various buildings \| / \| ![](../assets/RakeA.png) / *RakeA.png* \| Rake \| 0.25 kg / *(0.55 lb)* \| [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md), [Maintenance Yard](./Maintenance%20Yard.md) \| / \| ![RugI.png](../assets/RugI.png)![RugU.png](../assets/RugU.png) \| Rug \| 1.00 kg / *(2.2 lb)* \| Houses, Industrial Areas \| / \| ![RugE.png](../assets/RugE.png)![RugF.png](../assets/RugF.png)![RugH.png](../assets/RugH.png)![RugC.png](../assets/RugC.png)![RugS.png](../assets/RugS.png)![RugJ.png](../assets/RugJ.png)![RugP.png](../assets/RugP.png)![RugQ.png](../assets/RugQ.png)![RugR.png](../assets/RugR.png)![RugW.png](../assets/RugW.png)![RugD.png](../assets/RugD.png)![RugG.png](../assets/RugG.png)![RugK.png](../assets/RugK.png)![RugL.png](../assets/RugL.png)![RugM.png](../assets/RugM.png)![RugN.png](../assets/RugN.png)![RugO.png](../assets/RugO.png)![RugT.png](../assets/RugT.png)![RugV.png](../assets/RugV.png)![RugX.png](../assets/RugX.png)![RugY.png](../assets/RugY.png) \| Rug \| 2.00 kg / *(4.4 lb)* \| Houses, Industrial Areas \| / \| ![RugA.png](../assets/RugA.png)![RugB.png](../assets/RugB.png) \| Rug \| 5.00 kg / *(11 lb)* \| Houses, Industrial Areas \| / \| ![](../assets/ToyRockingHorse.png) / *ToyRockingHorse.png* \| Rocking Horse \| 3.00 kg / *(6.6 lb)* \| [Milton House](./Milton%20House.md) (house close to Grey Mother's leading to [Radio Tower](./Radio%20Tower.md)) \| / \| ![](../assets/GardenBoxShelf_A.png) / *GardenBoxShelf\_A.png* \| Shelf (Corner) \| 5.00 kg / *(11 lb)* \| [Idle Camp](./Idle%20Camp.md) mess hall kitchen, [Island Cottage](./Island%20Cottage.md) \| / \| ![GardenBoxShelf\_B.png](../assets/GardenBoxShelf_B.png)![WallShelfA.png](../assets/WallShelfA.png)![WallShelfB.png](../assets/WallShelfB.png) \| Shelf \| 2.00 kg / *(4.4 lb)* \| Houses \| / \| ![](../assets/BoneStagSkullC.png) / *BoneStagSkullC.png* \| Skull \| 0.25 kg / *(0.55 lb)* \| [Hunting Lodge](./Hunting%20Lodge.md), Hunting [Prepper Cache](./Prepper%20Cache.md), [Camp Office](./Camp%20Office.md), Found on Mounts in places with animal trophies \| / \| ![BoneStagSkullB.png](../assets/BoneStagSkullB.png)![BoneStagSkullA.png](../assets/BoneStagSkullA.png) \| Skull \| 0.25 kg / *(0.55 lb)* \| Hunting [Prepper Cache](./Prepper%20Cache.md) \| / \| ![AirfieldTerminalSignA.png](../assets/AirfieldTerminalSignA.png)![AirfieldTerminalSignB.png](../assets/AirfieldTerminalSignB.png) \| Sign (Terminal) \| 0.10 kg / *(0.22 lb)* \| [Terminal](./Terminal.md) \| / \| ![RailStation\_Sign\_A.png](../assets/RailStation_Sign_A.png)![RailStation\_Sign\_C.png](../assets/RailStation_Sign_C.png) \| Sign (Depot) \| 0.25 kg / *(0.55 lb)* \| [Vacant Depot](./Vacant%20Depot.md) (currently cannot take second one as it is outside) \| / \| ![Hotsteam\_A.png](../assets/Hotsteam_A.png)![Steamtunnel\_A.png](../assets/Steamtunnel_A.png)![Steamtunnel\_B.png](../assets/Steamtunnel_B.png)![Steamtunnel\_C.png](../assets/Steamtunnel_C.png)![Steamtunnel\_D.png](../assets/Steamtunnel_D.png)![Steamtunnel\_E.png](../assets/Steamtunnel_E.png) \| Sign (Steam) \| 0.25 kg / *(0.55 lb)* \| [Steam Tunnels](./Steam%20Tunnels.md) (currently cannot take these) \| / \| ![SignDeco\_7.png](../assets/SignDeco_7.png)![SignDeco\_8.png](../assets/SignDeco_8.png)![SignDeco\_9.png](../assets/SignDeco_9.png)![SignDeco\_10.png](../assets/SignDeco_10.png)![SignDeco\_11.png](../assets/SignDeco_11.png)![SignDeco\_12.png](../assets/SignDeco_12.png)![SignDeco\_13.png](../assets/SignDeco_13.png)![SignDeco\_14.png](../assets/SignDeco_14.png)![SignDeco\_15.png](../assets/SignDeco_15.png)![SignDeco\_16.png](../assets/SignDeco_16.png)![SignDeco\_17.png](../assets/SignDeco_17.png)![SignDeco\_18.png](../assets/SignDeco_18.png) \| Sign (Small) \| 0.25 kg / *(0.55 lb)* \| Industrial Areas \| / \| ![Blackrock\_Mine\_Floor\_sign\_A.png](../assets/Blackrock_Mine_Floor_sign_A.png)![Blackrock\_Mine\_Floor\_sign\_B.png](../assets/Blackrock_Mine_Floor_sign_B.png)![Blackrock\_Mine\_Floor\_sign\_C.png](../assets/Blackrock_Mine_Floor_sign_C.png)![Blackrock\_Mine\_sign\_A.png](../assets/Blackrock_Mine_sign_A.png)![Blackrock\_Mine\_sign\_B.png](../assets/Blackrock_Mine_sign_B.png)![Blackrock\_Mine\_sign\_C.png](../assets/Blackrock_Mine_sign_C.png)![Blackrock\_Mine\_sign\_D.png](../assets/Blackrock_Mine_sign_D.png)![Blackrock\_Mine\_sign\_E.png](../assets/Blackrock_Mine_sign_E.png)![Blackrock\_Mine\_sign\_F.png](../assets/Blackrock_Mine_sign_F.png)![Blackrock\_Mine\_sign\_G.png](../assets/Blackrock_Mine_sign_G.png)![Blackrock\_Mine\_sign\_wood\_A.png](../assets/Blackrock_Mine_sign_wood_A.png)![Blackrock\_Mine\_ToxicGas\_Sign.png](../assets/Blackrock_Mine_ToxicGas_Sign.png)![MineArea\_Sign\_100ft.png](../assets/MineArea_Sign_100ft.png)![MineArea\_Sign\_200ft.png](../assets/MineArea_Sign_200ft.png)![MineArea\_Sign\_300ft.png](../assets/MineArea_Sign_300ft.png)![MineArea\_Sign\_400ft.png](../assets/MineArea_Sign_400ft.png)![MineArea\_Sign\_500ft.png](../assets/MineArea_Sign_500ft.png)![MineArea\_Sign\_Active\_Mining.png](../assets/MineArea_Sign_Active_Mining.png)![MineArea\_Sign\_Caution.png](../assets/MineArea_Sign_Caution.png)![Sign\_Contaminated.png](../assets/Sign_Contaminated.png)![MineArea\_Sign\_Danger.png](../assets/MineArea_Sign_Danger.png)![MineArea\_Sign\_Danger\_Keep\_Out.png](../assets/MineArea_Sign_Danger_Keep_Out.png)![MineArea\_Sign\_E1.png](../assets/MineArea_Sign_E1.png)![MineArea\_Sign\_Exit.png](../assets/MineArea_Sign_Exit.png)![MineArea\_Sign\_F5.png](../assets/MineArea_Sign_F5.png)![MineArea\_Sign\_Keep\_Hands\_Clear.png](../assets/MineArea_Sign_Keep_Hands_Clear.png)![MineArea\_Sign\_Keep\_Out.png](../assets/MineArea_Sign_Keep_Out.png)![MineArea\_Sign\_This\_Way\_Out.png](../assets/MineArea_Sign_This_Way_Out.png)![MineArea\_Sign\_Unstable.png](../assets/MineArea_Sign_Unstable.png)![MineArea\_SignD.png](../assets/MineArea_SignD.png)![MineArea\_SignE.png](../assets/MineArea_SignE.png)![MineArea\_SignK.png](../assets/MineArea_SignK.png)![MineSignA.png](../assets/MineSignA.png)![MineSignB.png](../assets/MineSignB.png)![MineSignC.png](../assets/MineSignC.png)![MineSignD.png](../assets/MineSignD.png)![MineSignE.png](../assets/MineSignE.png)![MineSignF.png](../assets/MineSignF.png)![MineSignG.png](../assets/MineSignG.png) \| Sign (Mine) \| 0.25 kg / *(0.55 lb)* \| Industrial Mine areas (Many of these are from the [Langston Mine](./Langston%20Mine.md), [Last Prospect](./Last%20Prospect.md), and [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) middle level, which you cannot take) \| / \| ![PrisonCafeteriaSignA.png](../assets/PrisonCafeteriaSignA.png)![PrisonDoNotEnterSignA.png](../assets/PrisonDoNotEnterSignA.png)![PrisonExitSignA.png](../assets/PrisonExitSignA.png)![PrisonInfirmarySignA.png](../assets/PrisonInfirmarySignA.png)![PrisonInspectionSignA.png](../assets/PrisonInspectionSignA.png)![PrisonKeepLockedSignA.png](../assets/PrisonKeepLockedSignA.png)![PrisonLibrarySignA.png](../assets/PrisonLibrarySignA.png)![PrisonLoadingAreaSignA.png](../assets/PrisonLoadingAreaSignA.png)![PrisonNoInmateSignA.png](../assets/PrisonNoInmateSignA.png)![PrisonNotAnExitSignA.png](../assets/PrisonNotAnExitSignA.png)![PrisonPerimeterSignA.png](../assets/PrisonPerimeterSignA.png)![PrisonRecRoomSignA.png](../assets/PrisonRecRoomSignA.png)![PrisonRestrictedSignA.png](../assets/PrisonRestrictedSignA.png)![PrisonSecureAreaSignA.png](../assets/PrisonSecureAreaSignA.png)![PrisonSignB.png](../assets/PrisonSignB.png)![PrisonSignD.png](../assets/PrisonSignD.png)![PrisonSignE.png](../assets/PrisonSignE.png)![PrisonSignF.png](../assets/PrisonSignF.png)![PrisonStopCheckSignA.png](../assets/PrisonStopCheckSignA.png)![PrisonSurveillanceSignA.png](../assets/PrisonSurveillanceSignA.png)![PrisonWardensOfficeSignA.png](../assets/PrisonWardensOfficeSignA.png) \| Sign (Prison) \| 0.25 kg / *(0.55 lb)* \| [Blackrock Prison](./Blackrock%20Prison.md) and Infirmary \| / \| ![StoreSign1.png](../assets/StoreSign1.png)![StoreSign2.png](../assets/StoreSign2.png)![StoreSign3.png](../assets/StoreSign3.png)![StoreSign4.png](../assets/StoreSign4.png)![StoreSign5.png](../assets/StoreSign5.png)![StoreSign11.png](../assets/StoreSign11.png) \| Sign (Store) \| 0.25 kg / *(0.55 lb)* \| [Convenience Store](./Convenience%20Store.md) \| / \| ![StoreSign9.png](../assets/StoreSign9.png)![StoreSign10.png](../assets/StoreSign10.png)![StoreSign12.png](../assets/StoreSign12.png)![StoreSign13.png](../assets/StoreSign13.png) \| Sign (Store) \| 5.00 kg / *(11 lb)* \| [Convenience Store](./Convenience%20Store.md) \| / \| ![SignDeco\_1.png](../assets/SignDeco_1.png)![SignDeco\_2.png](../assets/SignDeco_2.png)![SignDeco\_3.png](../assets/SignDeco_3.png)![SignDeco\_4.png](../assets/SignDeco_4.png)![IndustrialSignDecoA.png](../assets/IndustrialSignDecoA.png)![IndustrialSignDecoB.png](../assets/IndustrialSignDecoB.png)![IndustrialSignDecoC.png](../assets/IndustrialSignDecoC.png)![IndustrialSignDecoD.png](../assets/IndustrialSignDecoD.png)![IndustrialSignDecoE.png](../assets/IndustrialSignDecoE.png)![SignAidStation\_A.png](../assets/SignAidStation_A.png)![SignAidStation\_B.png](../assets/SignAidStation_B.png)![SignControlRoom\_A.png](../assets/SignControlRoom_A.png)![SignDam\_C.png](../assets/SignDam_C.png)![SignDamTresspassing.png](../assets/SignDamTresspassing.png)![SignDanger\_A.png](../assets/SignDanger_A.png)![SignDeco\_5.png](../assets/SignDeco_5.png)![SignDeco\_6.png](../assets/SignDeco_6.png)![Phone\_Sign.png](../assets/Phone_Sign.png)![SignDrownA.png](../assets/SignDrownA.png)![Sign\_DangerA.png](../assets/Sign_DangerA.png)![SignElevator\_A.png](../assets/SignElevator_A.png)![SignExit\_A.png](../assets/SignExit_A.png)![SignExplosion\_A.png](../assets/SignExplosion_A.png)![SignFirstAid\_A.png](../assets/SignFirstAid_A.png)![SignPoison\_A.png](../assets/SignPoison_A.png)![SignRestroom\_A.png](../assets/SignRestroom_A.png)![SignThink\_A.png](../assets/SignThink_A.png) \| Sign (Industrial) \| 0.25 kg / *(0.55 lb)* \| Industrial Areas, [Carter Hydro Dam](./Carter%20Hydro%20Dam.md), [Concentrator](./Concentrator.md), [Conveyor Room](./Conveyor%20Room.md), [Headframe Building](./Headframe%20Building.md), [Maintenance Yard](./Maintenance%20Yard.md) \| / \| ![Refuge\_Cabin\_Avalanche.png](../assets/Refuge_Cabin_Avalanche.png)![Sign\_Refuge\_Cabin\_A.png](../assets/Sign_Refuge_Cabin_A.png)![Sign\_Refuge\_Cabin\_B.png](../assets/Sign_Refuge_Cabin_B.png)![Sign\_Refuge\_Cabin\_C.png](../assets/Sign_Refuge_Cabin_C.png) \| Sign (Refuge) \| 0.25 kg / *(0.55 lb)* \| [Placid Notch](./Placid%20Notch.md), [Final Refuge](./Final%20Refuge.md), [Lotte's Rest](./Lotte%27s%20Rest.md) (currently cannot take lettered signs) \| / \| ![SignPostalCoastal.png](../assets/SignPostalCoastal.png)![SignPostalLake.png](../assets/SignPostalLake.png)![SignPostalWhaling.png](../assets/SignPostalWhaling.png) \| Sign (Poster) \| 0.25 kg / *(0.55 lb)* \| [Maintenance Yard](./Maintenance%20Yard.md), [Terminal](./Terminal.md), [Main Hangar](./Main%20Hangar.md), [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) \| / \| ![](../assets/WetFloorSign.png) / *WetFloorSign.png* \| Sign (Wet) \| 0.25 kg / *(0.55 lb)* \| Industrial/Commercial Bathrooms \| / \| ![](../assets/SoapA.png) / *SoapA.png* \| Soap \| 0.25 kg / *(0.55 lb)* \| [Trapper's Homestead](./Trapper%27s%20Homestead.md), Bathrooms, [Bunker Omega](./Bunker%20Omega.md) \| / \| ![](../assets/StereoSpeaker.png) / *StereoSpeaker.png* \| Speaker \| 0.25 kg / *(0.55 lb)* \| [Idle Camp](./Idle%20Camp.md), [Community Hall](./Community%20Hall.md), [Main Hangar](./Main%20Hangar.md) \| / \| ![](../assets/Electric_Stovetop.png) / *Electric\_Stovetop.png* \| Stove \| 3.00 kg / *(6.6 lb)* \| Trailers, [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), [Last Resort Cannery](./Last%20Resort%20Cannery.md) Trailer \| / \| ![Suitcase\_A.png](../assets/Suitcase_A.png)![Suitcase\_B.png](../assets/Suitcase_B.png)![Suitcase\_C.png](../assets/Suitcase_C.png)![Suitcase\_D.png](../assets/Suitcase_D.png)![Suitcase\_E.png](../assets/Suitcase_E.png)![Suitcase\_F.png](../assets/Suitcase_F.png) \| [Suitcase](./Suitcase.md) \| 0.25 kg / *(0.55 lb)* \| [Terminal](./Terminal.md), [Concentrator](./Concentrator.md) (Offices), occasionally near bathrooms in houses \| / \| ![](../assets/ToyTeddyBearA.png) / *ToyTeddyBearA.png* \| Teddy Bear \| 0.25 kg / *(0.55 lb)* \| [Milton House](./Milton%20House.md) (house close to Grey Mother's leading to [Radio Tower](./Radio%20Tower.md)), [Main Hangar](./Main%20Hangar.md), [Cabin (Sundered Pass)](./Cabin%20%28Sundered%20Pass%29.md), [Bunker Omega](./Bunker%20Omega.md), [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md) \| / \| ![OldTelevision.png](../assets/OldTelevision.png)![Ico\_GearItem\_Television.png](../assets/Ico_GearItem_Television.png)![TelevisionB.png](../assets/TelevisionB.png)![TelevisionWall.png](../assets/TelevisionWall.png) \| Television \| 5.00 kg / *(11 lb)* \| Homes, Industrial areas \| / \| ![](../assets/TimeCardPunchClock.png) / *TimeCardPunchClock.png* \| Time Clock \| 5.00 kg / *(11 lb)* \| Industrial Areas \| / \| ![TireA.png](../assets/TireA.png)![TireB.png](../assets/TireB.png) \| Tire \| 5.00 kg / *(11 lb)* \| [Quonset Garage](./Quonset%20Garage.md), [Maintenance Yard](./Maintenance%20Yard.md), [Main Hangar](./Main%20Hangar.md), [Weather Station](./Weather%20Station.md) \| / \| ![](../assets/ToiletSeat_A.png) / *ToiletSeat\_A.png* \| Toilet Seat \| 0.25 kg / *(0.55 lb)* \| [Idle Camp](./Idle%20Camp.md) \| / \| ![](../assets/ToyTractor.png) / *ToyTractor.png* \| Tractor \| 0.25 kg / *(0.55 lb)* \| [Milton House](./Milton%20House.md) (house close to Grey Mother's leading to [Radio Tower](./Radio%20Tower.md)) \| / \| ![Trophy.png](../assets/Trophy.png)![TrophyB.png](../assets/TrophyB.png) \| Trophy \| 0.25 kg / *(0.55 lb)* \| [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office, [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) (admin office) \| / \| ![](../assets/WagonWheelB.png) / *WagonWheelB.png* \| Wheel \| 2.00 kg / *(4.4 lb)* \| [Hunting Lodge](./Hunting%20Lodge.md), [Camp Office](./Camp%20Office.md) \| / \| ![](../assets/Ico_GearItem_WagonWheelA.png) / *Ico\_GearItem\_WagonWheelA.png* \| Wheel \| 4.00 kg / *(8.8 lb)* \| [Hunting Lodge](./Hunting%20Lodge.md), [Camp Office](./Camp%20Office.md), [Headframe Building](./Headframe%20Building.md) \| / \| ![Ico\_GearItem\_WoodSpatula.png](../assets/Ico_GearItem_WoodSpatula.png)![Ico\_GearItem\_WoodSpatulaSpoon.png](../assets/Ico_GearItem_WoodSpatulaSpoon.png) \| Wooden Spoon \| 1.00 kg / *(2.2 lb)* \| Kitchens \| / \| ![Thomson\_Foreclosure\_A.png](../assets/Thomson_Foreclosure_A.png)![Thomson\_Foreclosure\_A\_Variant.png](../assets/Thomson_Foreclosure_A_Variant.png)![BonesBearSkullA.png](../assets/BonesBearSkullA.png)![BonesBearSkullB.png](../assets/BonesBearSkullB.png)![BoneHumanSkullB.png](../assets/BoneHumanSkullB.png) \| Unobtainable \|  \| These are icons of items currently outside of customization areas but can technically be picked up \| / \| ![ShowerCurtainC.png](../assets/ShowerCurtainC.png)![CurtainB2.png](../assets/CurtainB2.png)![JackOLantern.png](../assets/JackOLantern.png)![LightCandle\_D.png](../assets/LightCandle_D.png)![LightCandle\_E.png](../assets/LightCandle_E.png)![BarrelWood\_B\_Snow.png](../assets/BarrelWood_B_Snow.png)![BedFrame\_A.png](../assets/BedFrame_A.png)![Workbench\_icon\_Old.png](../assets/Workbench_icon_Old.png)![Trolley\_A02.png](../assets/Trolley_A02.png) \| Unknown \|  \| These items are in the game files but many either do not exist or cannot be pick up inside Customization zones. \| / \| ![](../assets/CashRegisterBank.png) / *CashRegisterBank.png* \| Cash Machine \| 5.00 kg / *(11 lb)* \| Cash Machine has been removed from [Milton Credit Union](./Milton%20Credit%20Union.md) \| / \| ![](../assets/BoneHumanSkullA.png) / *BoneHumanSkullA.png* \| Skull \| 0.25 kg / *(0.55 lb)* \| Skull has been removed from [Bunker Omega](./Bunker%20Omega.md) ([Dr. Rüdiger](./Dr.%20R%C3%BCdiger.md)'s skull is now a skeleton that can be destroyed) \| / ## Destroyable Decorations / The following items are found in some interiors and can be moved around in Customization Mode, but cannot be placed into the player's inventory. This makes them specific only to the interior they are found in. / - Moderately large/very large objects (large pipes, [Vehicles](./Vehicle.md), whale bones in [Hibernia Processing](./Hibernia%20Processing.md), girders, live wires) cannot be destroyed. / - If the option to destroy large highlighted items is present, this will permanently remove them from the interior. Caution is advised when doing this, as destroyed items cannot be returned. / - 90% destroyable items are Containers or Harvestable Interactable Objects, and are not listed here due to having their own dedicated pages. / - Destroying Harvestable items is faster than harvesting them, but the player does not gain resources. / - Larger [Crates](./Crate.md) and [Cardboard Boxes](./Cardboard%20Box.md) are destroyed rather than picked up as Lootable Decorative items. / - Most items take 12-30 minutes to destroy, with the largest items taking the most time to destroy. / - Unsearched containers or containers that have items stored inside cannot be destroyed, and produce an error message. They must be searched/cleared out before they can be destroyed. / - [Frozen Corpses](./Frozen%20Corpse.md) and [Corpses](./Corpse.md) are the only container that cannot be destroyed, but rather "Respectfully Removed." A candle icon will display as the Corpse is removed over time. / \|  \| Name \| Location \| / \| --- \| --- \| --- \| / \| ![](../assets/Bandsaw.jpg) / *Bandsaw.jpg* \| Bandsaw \| [Bunker Omega](./Bunker%20Omega.md) \| / \| ![](../assets/Metal_Barrel.jpg) / *Metal\_Barrel.jpg* \| Barrel (Metal) \| Industrial Areas \| / \| ![](../assets/Bin.jpg) / *Bin.jpg* \| Bin \| [Idle Camp](./Idle%20Camp.md), [Last Lonely House](./Last%20Lonely%20House.md), [Cabin (Sundered Pass)](./Cabin%20%28Sundered%20Pass%29.md) \| / \| ![](../assets/Blackboard.jpg) / *Blackboard.jpg* \| Blackboard \| [Signal Void](./Signal%20Void.md) bunkers, [Station Bunkhouse](./Station%20Bunkhouse.md) \| / \| ![WindowBlindsA.png](../assets/WindowBlindsA.png)![WindowBlindsB.png](../assets/WindowBlindsB.png)![WindowBlindsC.png](../assets/WindowBlindsC.png)![WindowBlindsD.png](../assets/WindowBlindsD.png)![WindowBlindsE.png](../assets/WindowBlindsE.png) \| Blinds \| House/cabin/kitchen/office windows \| / \| ![](../assets/BulletinBoardD.png) / *BulletinBoardD.png* \| Board \| [Pensive Lookout](./Pensive%20Lookout.md) \| / \| ![](../assets/Brick.jpg) / *Brick.jpg* \| Brick \| [Hibernia Processing](./Hibernia%20Processing.md), [Concentrator](./Concentrator.md) \| / \| ![](../assets/Bricks.jpg) / *Bricks.jpg* \| Bricks \| [Hibernia Processing](./Hibernia%20Processing.md), [Concentrator](./Concentrator.md), [Last Resort Cannery](./Last%20Resort%20Cannery.md) \| / \| ![](../assets/Candy_Machine.jpg) / *Candy\_Machine.jpg* \| Candy Machine \| [Milton Post Office](./Milton%20Post%20Office.md), [Convenience Store](./Convenience%20Store.md), [Milton Credit Union](./Milton%20Credit%20Union.md) \| / \| ![](../assets/Canister.jpg) / *Canister.jpg* \| Canister (Garbage Can) \| Bathrooms, [Terminal](./Terminal.md), [Milton Credit Union](./Milton%20Credit%20Union.md), [Milton Post Office](./Milton%20Post%20Office.md), [Last Resort Cannery](./Last%20Resort%20Cannery.md) Trailer \| / \| ![](../assets/Case.jpg) / *Case.jpg* \| Case \| [Convenience Store](./Convenience%20Store.md) \| / \| ![](../assets/Cash_Machine.jpg) / *Cash\_Machine.jpg* \| Cash Machine (ATM) \| [Terminal](./Terminal.md), [Rural Store](./Rural%20Store.md), [Convenience Store](./Convenience%20Store.md), [Milton Credit Union](./Milton%20Credit%20Union.md), [Concentrator](./Concentrator.md) Offices \| / \| ![](../assets/Clipboard.jpg) / *Clipboard.jpg* \| Clipboard \| Industrial Areas \| / \|  \| Clock (Grandfather) \| [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), [Hunting Lodge](./Hunting%20Lodge.md) \| / \| ![](../assets/Coat_Stand.jpg) / *Coat\_Stand.jpg* \| Coat Stand \| [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office, [Main Hangar](./Main%20Hangar.md) \| / \|  \| Counter \| [Hunting Lodge](./Hunting%20Lodge.md), [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) \| / \| ![CurtainBarA.png](../assets/CurtainBarA.png)![CurtainBarA2.png](../assets/CurtainBarA2.png)![CurtainBarB.png](../assets/CurtainBarB.png)![CurtainBarB2.png](../assets/CurtainBarB2.png)![CurtainBarC.png](../assets/CurtainBarC.png) \| Curtain (Curtain/Towel rack) \| Bathrooms \| / \| ![](../assets/Cups.jpg) / *Cups.jpg* \| Cups \| [Convenience Store](./Convenience%20Store.md) \| / \| ![](../assets/Debris.jpg) / *Debris.jpg* \| Debris \| Rubble - [Concentrator](./Concentrator.md), [Blackrock Prison](./Blackrock%20Prison.md) (inside prison) Ceiling Tiles - [Convenience Store](./Convenience%20Store.md), [Milton Credit Union](./Milton%20Credit%20Union.md) \| / \| ![](../assets/Door_destroyable.jpg) / *Door\_destroyable.jpg* \| Door \| [Hibernia Processing](./Hibernia%20Processing.md), [Concentrator](./Concentrator.md) \| / \| ![](../assets/PictureFrameLong.png) / *PictureFrameLong.png* \| Frame \| [Vacant Depot](./Vacant%20Depot.md) \| / \| ![](../assets/Fire_Poker.jpg) / *Fire\_Poker.jpg* \| Fire Poker \| [Mindful Cabin](./Mindful%20Cabin.md), [Cabin (Sundered Pass)](./Cabin%20%28Sundered%20Pass%29.md), [Island Cottage](./Island%20Cottage.md) \| / \| ![](../assets/Hand_Truck.jpg) / *Hand\_Truck.jpg* \| Hand Truck \| Industrial Areas \| / \| ![](../assets/Hand_Truck_2.jpg) / *Hand\_Truck\_2.jpg* \| Hand Truck \| Industrial Areas \| / \| ![](../assets/Lamp_broken.jpg) / *Lamp\_broken.jpg* \| Lamp (Broken) \|  \| / \| ![LampJ.png](../assets/LampJ.png)![LampN.png](../assets/LampN.png) \| Light \|  \| / \| ![](../assets/Light_Rack.jpg) / *Light\_Rack.jpg* \| Light \| [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) \| / \|  \| Hangar \| Homes \| / \| ![](../assets/Glasses.jpg) / *Glasses.jpg* \| Glasses \| [Concentrator](./Concentrator.md) Office, [Island Cottage](./Island%20Cottage.md) \| / \|  \| Map \| [Pensive Lookout](./Pensive%20Lookout.md) (map of Coastal Highway on the Board) \| / \| ![](../assets/Metal_Sheet.jpg) / *Metal\_Sheet.jpg* \| Metal (Sheet) \| Industrial Areas \| / \| ![MirrorMetal\_A.png](../assets/MirrorMetal_A.png)![MirrorMetal\_B.png](../assets/MirrorMetal_B.png)![MirrorMetal\_C.png](../assets/MirrorMetal_C.png) \| Mirror (Broken) \| Bathrooms (most mirrors like this are shattered) \| / \| ![](../assets/Mount.jpg) / *Mount.jpg* \| Mount \| [Hunting Lodge](./Hunting%20Lodge.md), Hunting [Prepper Cache](./Prepper%20Cache.md), Places with animal trophies \| / \| ![](../assets/Organ.jpg) / *Organ.jpg* \| Organ \| [St. Christopher's Church](./St.%20Christopher%27s%20Church.md), [Pleasant Valley Church](./Pleasant%20Valley%20Church.md) \| / \| ![DishPlateB1.png](../assets/DishPlateB1.png)![DishPlateB2.png](../assets/DishPlateB2.png)![DishPlateB3.png](../assets/DishPlateB3.png)![DishServeB1.png](../assets/DishServeB1.png)![DishServeB2.png](../assets/DishServeB2.png)![DishServeB3.png](../assets/DishServeB3.png) \| Plate \| Kitchens \| / \|  \| Podium \| [St. Christopher's Church](./St.%20Christopher%27s%20Church.md), [Pleasant Valley Church](./Pleasant%20Valley%20Church.md), [Community Hall](./Community%20Hall.md) \| / \|  \| Piano \| [Community Hall](./Community%20Hall.md) \| / \| ![](../assets/Pipes.jpg) / *Pipes.jpg* \| Pipe (Bundle) \| Industrial Areas \| / \|  \| Rack \| Houses \| / \| ![](../assets/Slush_Machine.jpg) / *Slush\_Machine.jpg* \| Slush Machine \| [Convenience Store](./Convenience%20Store.md) \| / \| ![](../assets/Soda_Machine.jpg) / *Soda\_Machine.jpg* \| Soda Machine \| [Convenience Store](./Convenience%20Store.md) \| / \| ![](../assets/Stereo.jpg) / *Stereo.jpg* \| Stereo \| Near Speakers, [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) \| / \| ![](../assets/Storage.jpg) / *Storage.jpg* \| Storage \| Offices \| / \| ![](../assets/Tank.jpg) / *Tank.jpg* \| Tank \| Industrial Areas \| / \| ![](../assets/Tire_Rack.jpg) / *Tire\_Rack.jpg* \| Tire Rack \| [Quonset Garage](./Quonset%20Garage.md), [Maintenance Yard](./Maintenance%20Yard.md), [Main Hangar](./Main%20Hangar.md) \| / \| ![](../assets/Tray.jpg) / *Tray.jpg* \| Tray \| [Idle Camp](./Idle%20Camp.md) \| / \| ![](../assets/Traffic_Cone.jpg) / *Traffic\_Cone.jpg* \| Cone (stand) \| [Main Hangar](./Main%20Hangar.md) \| / \| ![](../assets/Trough.jpg) / *Trough.jpg* \| Trough \| Industrial Areas, [Maintenance Yard](./Maintenance%20Yard.md), [Hunting Lodge](./Hunting%20Lodge.md), [Mindful Cabin](./Mindful%20Cabin.md) \| / \| ![](../assets/Vending_Machine.jpg) / *Vending\_Machine.jpg* \| Vending Machine \| [Milton Park](./Milton%20Park.md), [Convenience Store](./Convenience%20Store.md), [Concentrator](./Concentrator.md) Offices, [Terminal](./Terminal.md) \| / \| ![](../assets/Wheelbarrow.jpg) / *Wheelbarrow.jpg* \| Wheelbarrow \| Sheds, Industrial Buildings \| / **Lua execution error in Module:Navbox function navbox** [ru:Мебель и декор](ru:%D0%9C%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C_%D0%B8_%D0%B4%D0%B5%D0%BA%D0%BE%D1%80) |  |  |
+| Recipe | Materials | Time | Weight | Crafted |
+| ![Framed\_Hockey\_Jersey\_icon.png](../assets/Framed_Hockey_Jersey_icon.png) [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | 2x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) / 1x ![Hockey\_Jersey\_icon.png](../assets/Hockey_Jersey_icon.png) [Hockey Jersey](./Hockey%20Jersey.md) | 4 Hours | 2.00 kg / *(4.4 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Framed\_Photo\_icon.png](../assets/Framed_Photo_icon.png) [Framed Photo](./Framed%20Photo.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Camera\_icon.png](../assets/Camera_icon.png) [Camera](./Camera.md) Photo | 2 Hours | 0.25 kg / *(0.55 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Burbot\_icon.png](../assets/Mounted_Burbot_icon.png) [Mounted Burbot](./Mounted%20Burbot.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Burbot\_(Raw)\_icon.png](../assets/Burbot_%28Raw%29_icon.png) [Burbot (Raw)](./Burbot%20%28Raw%29.md) | 4 Hours | 0.50 kg / *(1.1 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Coho\_Salmon\_icon.png](../assets/Mounted_Coho_Salmon_icon.png) [Mounted Coho Salmon](./Mounted%20Coho%20Salmon.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Coho\_Salmon\_(Raw)\_icon.png](../assets/Coho_Salmon_%28Raw%29_icon.png) [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) | 4 Hours | 1.00 kg / *(2.2 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Goldeye\_icon.png](../assets/Mounted_Goldeye_icon.png) [Mounted Goldeye](./Mounted%20Goldeye.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Goldeye\_(Raw)\_icon.png](../assets/Goldeye_%28Raw%29_icon.png) [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) | 4 Hours | 0.50 kg / *(1.1 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Lake\_Whitefish\_icon.png](../assets/Mounted_Lake_Whitefish_icon.png) [Mounted Lake Whitefish](./Mounted%20Lake%20Whitefish.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Lake\_Whitefish\_(Raw)\_icon.png](../assets/Lake_Whitefish_%28Raw%29_icon.png) [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) | 4 Hours | 0.50 kg / *(1.1 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Rainbow\_Trout\_icon.png](../assets/Mounted_Rainbow_Trout_icon.png) [Mounted Rainbow Trout](./Mounted%20Rainbow%20Trout.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Rainbow\_Trout\_(Raw)\_icon.png](../assets/Rainbow_Trout_%28Raw%29_icon.png) [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) | 4 Hours | 0.50 kg / *(1.1 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Red\_Irish\_Lord\_icon.png](../assets/Mounted_Red_Irish_Lord_icon.png) [Mounted Red Irish Lord](./Mounted%20Red%20Irish%20Lord.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Red\_Irish\_Lord\_(Raw)\_icon.png](../assets/Red_Irish_Lord_%28Raw%29_icon.png) [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) | 4 Hours | 0.50 kg / *(1.1 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Rockfish\_icon.png](../assets/Mounted_Rockfish_icon.png) [Mounted Rockfish](./Mounted%20Rockfish.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Rockfish\_(Raw)\_icon.png](../assets/Rockfish_%28Raw%29_icon.png) [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) | 4 Hours | 0.50 kg / *(1.1 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Mounted\_Smallmouth\_Bass\_icon.png](../assets/Mounted_Smallmouth_Bass_icon.png) [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md) | 1x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x ![Smallmouth\_Bass\_(Raw)\_icon.png](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) | 4 Hours | 0.50 kg / *(1.1 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_Stool\_icon.png](../assets/Rustic_Stool_icon.png) [Rustic Stool](./Rustic%20Stool.md) | 4x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 2 Hours | 2.00 kg / *(4.4 lb)* | [Furniture Workbench](./Furniture%20Workbench.md) |
+| Icon | Name | Weight | Location Found |  |
+| ![ChurchBannerA.png](../assets/ChurchBannerA.png)![ChurchBannerB.png](../assets/ChurchBannerB.png) | Banner | 5.00 kg / *(11 lb)* | [St. Christopher's Church](./St.%20Christopher%27s%20Church.md), [Pleasant Valley Church](./Pleasant%20Valley%20Church.md) |  |
+| ![](../assets/Baseball.png) / *Baseball.png* | Baseball | 0.05 kg / *(0.11 lb)* | [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office, [Main Hangar](./Main%20Hangar.md) office (where [Stained Paper](./Stained%20Paper.md) is found) |  |
+| ![](../assets/BaseballBat.png) / *BaseballBat.png* | Baseball Bat | 0.50 kg / *(1.1 lb)* | [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office |  |
+| ![](../assets/Basin_Decoration.png) / *Basin\_Decoration.png* | [Basin](./Basin.md) | 2.00 kg / *(4.4 lb)* | [Quonset Garage](./Quonset%20Garage.md) |  |
+| ![HandBasketA.png](../assets/HandBasketA.png)![HandBasketB.png](../assets/HandBasketB.png) | Basket | 0.25 kg / *(0.55 lb)* | [Main Hangar](./Main%20Hangar.md), [Convenience Store](./Convenience%20Store.md), [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md) |  |
+| ![](../assets/Blender.png) / *Blender.png* | Blender | 0.25 kg / *(0.55 lb)* | Trailers, [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), Houses |  |
+| ![DishBowlA1.png](../assets/DishBowlA1.png)![DishBowlA2.png](../assets/DishBowlA2.png) | Bowl | 0.05 kg / *(0.11 lb)* | Houses, Trailers |  |
+| ![CandyBoxA.png](../assets/CandyBoxA.png)![CandyBoxB.png](../assets/CandyBoxB.png)![CandyBoxC.png](../assets/CandyBoxC.png)![CandyBoxD.png](../assets/CandyBoxD.png) | [Box](./Cardboard%20Box.md) | 0.10 kg / *(0.22 lb)* | Houses, [Convenience Store](./Convenience%20Store.md), [Rural Store](./Rural%20Store.md), Trailers |  |
+| ![](../assets/MetalFileCabinetDrawerA2.png) / *MetalFileCabinetDrawerA2.png* | Broken Drawer | 1.00 kg / *(2.2 lb)* | Offices |  |
+| ![BroomStickA.png](../assets/BroomStickA.png)![BroomStickB.png](../assets/BroomStickB.png) | [Broom](./Broom.md) | 0.20 kg / *(0.44 lb)* | Houses, Industrial Areas |  |
+| ![](../assets/MetalBucketA.png) / *MetalBucketA.png* | [Bucket](./Metal%20Pail.md) | 1.00 kg / *(2.2 lb)* | Houses, Industrial Areas |  |
+| ![BulletinBoardA.png](../assets/BulletinBoardA.png)![BulletinBoardB.png](../assets/BulletinBoardB.png)![BulletinBoardC.png](../assets/BulletinBoardC.png) | Bulletin Board | 5.00 kg / *(11 lb)* | Industrial Areas |  |
+| ![CalendarDeco.png](../assets/CalendarDeco.png)![CalendarDecoB.png](../assets/CalendarDecoB.png) | Calendar | 0.10 kg / *(0.22 lb)* | Houses, Industrial Areas |  |
+| ![](../assets/VistaCalendar.png) / *VistaCalendar.png* | Calendar | 0.25 kg / *(0.55 lb)* | Houses, Industrial Areas |  |
+| ![](../assets/Trolley_A.png) / *Trolley\_A.png* | Cart | 5.00 kg / *(11 lb)* | [Idle Camp](./Idle%20Camp.md) mess hall |  |
+| ![](../assets/StereoCassetteTape.png) / *StereoCassetteTape.png* | Cassete | 0.10 kg / *(0.22 lb)* | [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office, [Cabin](./Cabin.md), [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) |  |
+| ![ChairFoldng\_A\_Folded.png](../assets/ChairFoldng_A_Folded.png)![ChairFoldng\_A\_Open.png](../assets/ChairFoldng_A_Open.png) | Chair | 4.00 kg / *(8.8 lb)* | [Main Hangar](./Main%20Hangar.md), [Community Hall](./Community%20Hall.md), [Blackrock Prison](./Blackrock%20Prison.md) Offices/Infirmary |  |
+| ![RockingChair.png](../assets/RockingChair.png)![RockingChairB2.png](../assets/RockingChairB2.png)![Lab\_Chair.png](../assets/Lab_Chair.png) | Chair | 5.00 kg / *(11 lb)* | Houses, [Hunting Lodge](./Hunting%20Lodge.md), Metal chair [Blackrock Prison](./Blackrock%20Prison.md) (Infirmary), |  |
+| ![](../assets/WallClock.png) / *WallClock.png* | Clock | 1.00 kg / *(2.2 lb)* | Houses |  |
+| ![CoffeeMachine.png](../assets/CoffeeMachine.png)![CoffeeMachineB.png](../assets/CoffeeMachineB.png) | Coffee Machine | 0.50 kg / *(1.1 lb)* | Kitchens, Trailers, Cabins |  |
+| ![ComputerLaptop.png](../assets/ComputerLaptop.png)![ComputerTowerA.png](../assets/ComputerTowerA.png)![ComputerTowerB.png](../assets/ComputerTowerB.png)![OldBoxyComputer.png](../assets/OldBoxyComputer.png) | Computer | 5.00 kg / *(11 lb)* | Industrial Areas |  |
+| ![](../assets/Traffic_Cone_A.png) / *Traffic\_Cone\_A.png* | Cone | 0.25 kg / *(0.55 lb)* | [Main Hangar](./Main%20Hangar.md) (2 different cone models but display the same Backpack icon) |  |
+| ![CratesA.png](../assets/CratesA.png)![CratesB.png](../assets/CratesB.png) | [Crate](./Crate.md) | 0.30 kg / *(0.66 lb)* | Industrial Areas |  |
+| ![](../assets/BabyCrib.png) / *BabyCrib.png* | Crib | 5.00 kg / *(11 lb)* | [Milton House](./Milton%20House.md) (house close to Grey Mother's leading to [Radio Tower](./Radio%20Tower.md)) |  |
+| ![CupA.png](../assets/CupA.png)![CupB.png](../assets/CupB.png)![CupC.png](../assets/CupC.png)![CupE.png](../assets/CupE.png)![CupF.png](../assets/CupF.png)![CupG.png](../assets/CupG.png) | Cup | 0.05 kg / *(0.11 lb)* | Houses, [Convenience Store](./Convenience%20Store.md) |  |
+| ![](../assets/PaperCupA.png) / *PaperCupA.png* | Cup | 0.10 kg / *(0.22 lb)* | [Concentrator](./Concentrator.md), [Control Tower](./Control%20Tower.md) |  |
+| ![](../assets/CuttingBoardA.png) / *CuttingBoardA.png* | Cutting Board | 0.10 kg / *(0.22 lb)* | House Kitchens |  |
+| ![](../assets/CuttingBoardB.png) / *CuttingBoardB.png* | Cutting Board | 0.25 kg / *(0.55 lb)* | House Kitchens |  |
+| ![](../assets/DeerMount.png) / *DeerMount.png* | Deer Mount | 5.00 kg / *(11 lb)* | [Hunting Lodge](./Hunting%20Lodge.md), Hunting [Prepper Cache](./Prepper%20Cache.md), Places with animal trophies |  |
+| ![](../assets/ComputerFloppy.png) / *ComputerFloppy.png* | Disk | 0.02 kg / *(0.044 lb)* | Near Computers, [Maintenance Yard](./Maintenance%20Yard.md), [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) |  |
+| ![](../assets/DreamCatcher.png) / *DreamCatcher.png* | Dream Catcher | 0.10 kg / *(0.22 lb)* | [Camp Office](./Camp%20Office.md), [Mindful Cabin](./Mindful%20Cabin.md), [Lake Cabins](./Lake%20Cabins.md), Cabin under [Abandoned Lookout](./Abandoned%20Lookout.md) |  |
+| ![Ico\_GearItem\_LightChristmas\_B.png](../assets/Ico_GearItem_LightChristmas_B.png)![Ico\_GearItem\_LightChristmas\_C.png](../assets/Ico_GearItem_LightChristmas_C.png) | Festive Lights | 0.25 kg / *(0.55 lb)* | [Hangar Basement](./Hangar%20Basement.md), [Community Hall](./Community%20Hall.md), [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) (office stairwell), [Hunting Lodge](./Hunting%20Lodge.md) ([Festive Sweater](./Festive%20Sweater.md) is usually nearby) |  |
+| ![Fish\_Mount\_Bass.png](../assets/Fish_Mount_Bass.png)![CohoSalmonMount.png](../assets/CohoSalmonMount.png)![RainbowTroutMount.png](../assets/RainbowTroutMount.png) | Fish Mount | 0.25 kg / *(0.55 lb)* | Cabins, [Hunting Lodge](./Hunting%20Lodge.md), [Maintenance Yard](./Maintenance%20Yard.md) |  |
+| ![InteriorFlagA.png](../assets/InteriorFlagA.png)![InteriorFlagB.png](../assets/InteriorFlagB.png)![InteriorFlagC.png](../assets/InteriorFlagC.png) | Flag | 0.25 kg / *(0.55 lb)* | [Milton Post Office](./Milton%20Post%20Office.md), [Concentrator](./Concentrator.md) (7th Floor Offices) / Large flags on the [Maintenance Yard](./Maintenance%20Yard.md) Shed ceiling (can be reached in [Safe House Customization](./Safehouse%20Customization.md) with a plank), [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) Turbine Room (can be reached in [Safe House Customization](./Safehouse%20Customization.md) with various stacked items, flag keeps "swaying" property when placed in new locations) / Small table flag in [Blackrock Prison](./Blackrock%20Prison.md) Warden's office |  |
+| ![OldPictureFrameA.png](../assets/OldPictureFrameA.png)![OldPictureFrameB.png](../assets/OldPictureFrameB.png)![PictureFrameE2.png](../assets/PictureFrameE2.png)![PictureFrameF.png](../assets/PictureFrameF.png)![PictureFrameG.png](../assets/PictureFrameG.png) | Frame | 0.15 kg / *(0.33 lb)* | Houses |  |
+| ![PhotoWolf\_A.png](../assets/PhotoWolf_A.png)![PhotoWolf\_B.png](../assets/PhotoWolf_B.png)![PictureFrame\_GM\_A.png](../assets/PictureFrame_GM_A.png)![PictureFrame\_GM\_B.png](../assets/PictureFrame_GM_B.png)![PictureFrame\_GM\_C.png](../assets/PictureFrame_GM_C.png) | Frame (Table) | 0.25 kg / *(0.55 lb)* | Houses (these are table picture frames) |  |
+| ![PictureFrameC2.png](../assets/PictureFrameC2.png)![PictureFrameA2.png](../assets/PictureFrameA2.png)![PictureFrameB2.png](../assets/PictureFrameB2.png)![PictureFrameA1.png](../assets/PictureFrameA1.png)![PictureFrameE.png](../assets/PictureFrameE.png)![PictureFrameE1.png](../assets/PictureFrameE1.png)![PictureFrameB.png](../assets/PictureFrameB.png)![PictureFrameB1.png](../assets/PictureFrameB1.png)![PictureFrameB3.png](../assets/PictureFrameB3.png)![PictureFrameI.png](../assets/PictureFrameI.png)![PictureFrameC.png](../assets/PictureFrameC.png)![PictureFrameC1.png](../assets/PictureFrameC1.png)![PictureFrameC3.png](../assets/PictureFrameC3.png)![PictureFrameD.png](../assets/PictureFrameD.png)![PictureFrameD1.png](../assets/PictureFrameD1.png)![PictureFrameF2.png](../assets/PictureFrameF2.png)![PictureFrameG2.png](../assets/PictureFrameG2.png)![PictureFrameH.png](../assets/PictureFrameH.png)![PictureFrameH2.png](../assets/PictureFrameH2.png)![PictureFrameI2.png](../assets/PictureFrameI2.png)![PictureFrameA3.png](../assets/PictureFrameA3.png)![PictureFrame\_GM\_D.png](../assets/PictureFrame_GM_D.png)![PictureFrame\_GM\_e.png](../assets/PictureFrame_GM_e.png)![PictureFrame\_GM\_F.png](../assets/PictureFrame_GM_F.png) | Frame | 0.25 kg / *(0.55 lb)* | Houses |  |
+| ![PictureFrameC4.png](../assets/PictureFrameC4.png)![PictureFrameA4.png](../assets/PictureFrameA4.png)![PictureFrameB4.png](../assets/PictureFrameB4.png) | Frame (Frame 2) | 0.25 kg / *(0.55 lb)* | Houses |  |
+| ![](../assets/PictureFrameWelcomeSign.png) / *PictureFrameWelcomeSign.png* | Frame | 0.25 kg / *(0.55 lb)* | [Camp Office](./Camp%20Office.md) welcome sign |  |
+| ![PictureFrameK1.png](../assets/PictureFrameK1.png)![PictureFrameL1.png](../assets/PictureFrameL1.png)![PictureFrameM1.png](../assets/PictureFrameM1.png)![PictureFrameO1.png](../assets/PictureFrameO1.png)![PictureFrameQ1.png](../assets/PictureFrameQ1.png)![PictureFrameS1.png](../assets/PictureFrameS1.png)![PictureFrameT.png](../assets/PictureFrameT.png)![PictureFrameU.png](../assets/PictureFrameU.png)![PictureFrameV.png](../assets/PictureFrameV.png)![PictureFrameN1.png](../assets/PictureFrameN1.png)![PictureFrameP1.png](../assets/PictureFrameP1.png)![PictureFrameR1.png](../assets/PictureFrameR1.png)![PictureFrame\_T02.png](../assets/PictureFrame_T02.png)![PictureFrame\_T03.png](../assets/PictureFrame_T03.png)![PictureFrame\_T04.png](../assets/PictureFrame_T04.png)![PictureFrame\_T05.png](../assets/PictureFrame_T05.png)![PictureFrame\_T14.png](../assets/PictureFrame_T14.png)![PictureFrame\_T15.png](../assets/PictureFrame_T15.png)![PictureFrame\_T16.png](../assets/PictureFrame_T16.png)![PictureFrame\_T17.png](../assets/PictureFrame_T17.png)![PhotoC\_MountainVista\_Stand.png](../assets/PhotoC_MountainVista_Stand.png)![PhotoC\_Sleding\_Stand.png](../assets/PhotoC_Sleding_Stand.png)![PhotoD\_Snowman\_Stand.png](../assets/PhotoD_Snowman_Stand.png) | Frame (FT) | 0.25 kg / *(0.55 lb)* | These are found in houses/buildings in the Far Territory. [Vacant Depot](./Vacant%20Depot.md), [Idle Camp](./Idle%20Camp.md), [Last Lonely House](./Last%20Lonely%20House.md), etc |  |
+| ![PictureFrameK2.png](../assets/PictureFrameK2.png)![PictureFrameL2.png](../assets/PictureFrameL2.png)![PictureFrameM2.png](../assets/PictureFrameM2.png)![PictureFrameO2.png](../assets/PictureFrameO2.png)![PictureFrameQ2.png](../assets/PictureFrameQ2.png)![PictureFrameS2.png](../assets/PictureFrameS2.png) | Frame (FT) | 0.25 kg / *(0.55 lb)* | These are found in houses/buildings in the Far Territory. [Vacant Depot](./Vacant%20Depot.md), [Idle Camp](./Idle%20Camp.md), [Last Lonely House](./Last%20Lonely%20House.md), etc |  |
+| ![PicturePhoto\_T01.png](../assets/PicturePhoto_T01.png)![PicturePhoto\_T02.png](../assets/PicturePhoto_T02.png)![PicturePhoto\_T03.png](../assets/PicturePhoto_T03.png)![PicturePhoto\_T04.png](../assets/PicturePhoto_T04.png)![PicturePhoto\_T05.png](../assets/PicturePhoto_T05.png)![PicturePhoto\_T06.png](../assets/PicturePhoto_T06.png)![PicturePhoto\_T07.png](../assets/PicturePhoto_T07.png)![PicturePhoto\_T08.png](../assets/PicturePhoto_T08.png)![PictureFrame\_T06.png](../assets/PictureFrame_T06.png)![PictureFrame\_T07.png](../assets/PictureFrame_T07.png)![PictureFrame\_T08.png](../assets/PictureFrame_T08.png)![PictureFrame\_T09.png](../assets/PictureFrame_T09.png)![PictureFrame\_T10.png](../assets/PictureFrame_T10.png)![PictureFrame\_T11.png](../assets/PictureFrame_T11.png)![PictureFrame\_T12.png](../assets/PictureFrame_T12.png)![PictureFrame\_T13.png](../assets/PictureFrame_T13.png)![PictureFrame\_T18.png](../assets/PictureFrame_T18.png)![PictureFrame\_T19.png](../assets/PictureFrame_T19.png)![PictureFrame\_T20.png](../assets/PictureFrame_T20.png)![PictureFrame\_T21.png](../assets/PictureFrame_T21.png)![PictureFrame\_T22.png](../assets/PictureFrame_T22.png) | Frame (Miner) | 0.25 kg / *(0.55 lb)* | [Vacant Depot](./Vacant%20Depot.md), [Idle Camp](./Idle%20Camp.md), [Concentrator](./Concentrator.md) Offices |  |
+| ![](../assets/DeskGlobe.png) / *DeskGlobe.png* | Globe | 1.00 kg / *(2.2 lb)* | [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office, [Main Hangar](./Main%20Hangar.md), [Bunker Alpha](./Bunker%20Alpha.md) |  |
+| ![](../assets/HockeyStickA.png) / *HockeyStickA.png* | Hockey Stick | 0.25 kg / *(0.55 lb)* | [Last Resort Cannery](./Last%20Resort%20Cannery.md) Trailer, [Island Cottage](./Island%20Cottage.md), [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md) |  |
+| ![](../assets/WallHook.png) / *WallHook.png* | Hook | 0.10 kg / *(0.22 lb)* | Houses |  |
+| ![](../assets/Horseshoe.png) / *Horseshoe.png* | Horseshoe | 0.10 kg / *(0.22 lb)* | [Hunting Lodge](./Hunting%20Lodge.md) Basement, [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office |  |
+| ![Kettle\_A.png](../assets/Kettle_A.png)![Kettle\_B.png](../assets/Kettle_B.png) | Kettle | 0.25 kg / *(0.55 lb)* | [Last Resort Cannery](./Last%20Resort%20Cannery.md) Trailer, [Station Bunkhouse](./Station%20Bunkhouse.md), [Pensive Lookout](./Pensive%20Lookout.md) |  |
+| ![](../assets/ComputerKeyboard.png) / *ComputerKeyboard.png* | Keyboard | 0.20 kg / *(0.44 lb)* | Near Computers |  |
+| ![](../assets/DialKnob.png) / *DialKnob.png* | Knob | 0.25 kg / *(0.55 lb)* | [Concentrator](./Concentrator.md) (6th Floor, to the right of where the Woodworking Tools spawn in a machine), [Conveyor Room](./Conveyor%20Room.md) near the entrance to Langston Mine |  |
+| ![WardenLamp.png](../assets/WardenLamp.png)![Lab\_DeskLamp\_A.png](../assets/Lab_DeskLamp_A.png) | Lamp | 0.25 kg / *(0.55 lb)* | Green lamp found in [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office Signal Void bunkers, Blackrock Prison (Infirmary), [Main Hangar](./Main%20Hangar.md) |  |
+| ![LampA.png](../assets/LampA.png)![LampA2.png](../assets/LampA2.png)![LampB.png](../assets/LampB.png) | Lamp | 1.00 kg / *(2.2 lb)* | Houses |  |
+| ![LampC2.png](../assets/LampC2.png)![LampC.png](../assets/LampC.png) | Lamp | 2.00 kg / *(4.4 lb)* | Houses |  |
+| ![LampD.png](../assets/LampD.png)![LampD2.png](../assets/LampD2.png)![LampB2.png](../assets/LampB2.png)![LampG.png](../assets/LampG.png)![LampN.png](../assets/LampN.png) | [Lamp](./Metal%20Lamp.md) | 5.00 kg / *(11 lb)* | Houses |  |
+| ![](../assets/LightChristmas_A.png) / *LightChristmas\_A.png* | Light | 0.25 kg / *(0.55 lb)* | [Camp Office](./Camp%20Office.md), [Cannery Worker Residences](./Cannery%20Worker%20Residences.md), [Justy's Hovel](./Justy%27s%20Hovel.md) |  |
+| ![PaintCanALid.png](../assets/PaintCanALid.png)![PaintCanBLid.png](../assets/PaintCanBLid.png) | Lid (Paintcan) | 0.25 kg / *(0.55 lb)* | Sheds, Industrial Areas |  |
+| ![](../assets/Lab_Microscope.png) / *Lab\_Microscope.png* | Microscope | 0.25 kg / *(0.55 lb)* | [Blackrock Prison](./Blackrock%20Prison.md) (Infirmary), [Bunker Alpha](./Bunker%20Alpha.md), [Bunker Beta](./Bunker%20Beta.md), [Bunker Gamma](./Bunker%20Gamma.md), [Bunker Omega](./Bunker%20Omega.md) |  |
+| ![WallMirrorA.png](../assets/WallMirrorA.png)![WallMirrorB.png](../assets/WallMirrorB.png)![MirrorMetal\_A.png](../assets/MirrorMetal_A.png) | Mirror | 3.00 kg / *(6.6 lb)* | [Hunting Lodge](./Hunting%20Lodge.md), [Vacant Depot](./Vacant%20Depot.md), [Bunker Omega](./Bunker%20Omega.md), [Foreman's Retreat](./Foreman%27s%20Retreat.md) |  |
+| ![ComputerMonitorA.png](../assets/ComputerMonitorA.png)![ComputerMonitorB.png](../assets/ComputerMonitorB.png) | Monitor | 4.00 kg / *(8.8 lb)* | Industrial Areas |  |
+| ![](../assets/MooseMount_A.png) / *MooseMount\_A.png* | Moose Mount | 5.00 kg / *(11 lb)* | [Community Hall](./Community%20Hall.md) |  |
+| ![](../assets/ComputerMouse.png) / *ComputerMouse.png* | Mouse | 0.05 kg / *(0.11 lb)* | Near Computers |  |
+| ![NumberPlate100.png](../assets/NumberPlate100.png)![NumberPlate110A.png](../assets/NumberPlate110A.png)![NumberPlate110B.png](../assets/NumberPlate110B.png)![NumberPlate120.png](../assets/NumberPlate120.png)![NumberPlate140.png](../assets/NumberPlate140.png)![NumberPlate150.png](../assets/NumberPlate150.png)![NumberPlate200.png](../assets/NumberPlate200.png)![NumberPlate210.png](../assets/NumberPlate210.png)![NumberPlate300.png](../assets/NumberPlate300.png)![NumberPlate310.png](../assets/NumberPlate310.png)![NumberPlateCB1.png](../assets/NumberPlateCB1.png)![NumberPlateCB2.png](../assets/NumberPlateCB2.png)![NumberPlateCB3.png](../assets/NumberPlateCB3.png) | Number | 0.25 kg / *(0.55 lb)* | [Blackrock Prison](./Blackrock%20Prison.md) (inside the prison) |  |
+| ![](../assets/ToasterOven.png) / *ToasterOven.png* | [Oven](./Toaster.md) | 1.00 kg / *(2.2 lb)* | Kitchens |  |
+| ![](../assets/MicrowaveOven.png) / *MicrowaveOven.png* | [Oven](./Microwave.md) | 5.00 kg / *(11 lb)* | [Milton House](./Milton%20House.md) (only one microwave can be picked up) |  |
+| ![PaintCanABase.png](../assets/PaintCanABase.png)![PaintCanBBase.png](../assets/PaintCanBBase.png) | Paintcan | 0.25 kg / *(0.55 lb)* | Sheds, Industrial Areas |  |
+| ![](../assets/PaintBrush.png) / *PaintBrush.png* | Paintbrush | 0.10 kg / *(0.22 lb)* | Sheds, Industrial Areas |  |
+| ![WallPhoneA.png](../assets/WallPhoneA.png)![WallPhoneB.png](../assets/WallPhoneB.png)![OfficePhone\_A.png](../assets/OfficePhone_A.png)![OfficePhone\_B.png](../assets/OfficePhone_B.png) | Phone | 0.25 kg / *(0.55 lb)* | Wall Phones - Industrial areas Office Phone - Offices |  |
+| ![](../assets/Pillow_Decoration.png) / *Pillow\_Decoration.png* | Pillow | 0.15 kg / *(0.33 lb)* | Trailers |  |
+| ![](../assets/PitcherA.png) / *PitcherA.png* | Pitcher | 0.25 kg / *(0.55 lb)* | Kitchens |  |
+| ![PottedPlantA.png](../assets/PottedPlantA.png)![PottedPlantB.png](../assets/PottedPlantB.png)![PottedPlantC.png](../assets/PottedPlantC.png) | Plant | 5.00 kg / *(11 lb)* 1.00 kg / *(2.2 lb)* | Houses |  |
+| ![](../assets/MountainPosterDeco.png) / *MountainPosterDeco.png* | Poster | 0.05 kg / *(0.11 lb)* | Houses |  |
+| ![PosterDecoB.png](../assets/PosterDecoB.png)![PosterDecoC.png](../assets/PosterDecoC.png)![PosterDecoE.png](../assets/PosterDecoE.png) | Poster | 0.25 kg / *(0.55 lb)* | Houses |  |
+| ![](../assets/CoatRackB.png) / *CoatRackB.png* | Rack | 0.20 kg / *(0.44 lb)* | Houses |  |
+| ![CoatRackA.png](../assets/CoatRackA.png)![CoatRackC.png](../assets/CoatRackC.png) | Rack | 0.30 kg / *(0.66 lb)* | Houses |  |
+| ![CoatRackD.png](../assets/CoatRackD.png)![GunRackSingle.png](../assets/GunRackSingle.png) | Rack | 0.50 kg / *(1.1 lb)* | Houses. Gun Rack - [Forestry Lookout](./Forestry%20Lookout.md), [Pensive Lookout](./Pensive%20Lookout.md), [Abandoned Lookout](./Abandoned%20Lookout.md), [Trapper's Homestead](./Trapper%27s%20Homestead.md), [Hunting Lodge](./Hunting%20Lodge.md), [Foreman's Retreat](./Foreman%27s%20Retreat.md) |  |
+| ![](../assets/GunRackDouble.png) / *GunRackDouble.png* | Rack | 0.75 kg / *(1.65 lb)* | Hunting Prepper Cache, [Last Lonely House](./Last%20Lonely%20House.md), [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), [Last Resort Cannery](./Last%20Resort%20Cannery.md) (trailer) |  |
+| ![ClockRadio.png](../assets/ClockRadio.png)![RadioB.png](../assets/RadioB.png) | Radio | 0.10 kg / *(0.22 lb)* | House Bedrooms, [Bunker Alpha](./Bunker%20Alpha.md) [Blackrock Prison](./Blackrock%20Prison.md) (room with [Note (Survival 2)](./Note%20%28Survival%202%29.md) closest to the cells), [Control Tower](./Control%20Tower.md) |  |
+| ![](../assets/Ico_GearItem_RadioA.png) / *Ico\_GearItem\_RadioA.png* | [Radio](./Radio.md) | 2.00 kg / *(4.4 lb)* | Found in various buildings |  |
+| ![](../assets/RakeA.png) / *RakeA.png* | Rake | 0.25 kg / *(0.55 lb)* | [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md), [Maintenance Yard](./Maintenance%20Yard.md) |  |
+| ![RugI.png](../assets/RugI.png)![RugU.png](../assets/RugU.png) | Rug | 1.00 kg / *(2.2 lb)* | Houses, Industrial Areas |  |
+| ![RugE.png](../assets/RugE.png)![RugF.png](../assets/RugF.png)![RugH.png](../assets/RugH.png)![RugC.png](../assets/RugC.png)![RugS.png](../assets/RugS.png)![RugJ.png](../assets/RugJ.png)![RugP.png](../assets/RugP.png)![RugQ.png](../assets/RugQ.png)![RugR.png](../assets/RugR.png)![RugW.png](../assets/RugW.png)![RugD.png](../assets/RugD.png)![RugG.png](../assets/RugG.png)![RugK.png](../assets/RugK.png)![RugL.png](../assets/RugL.png)![RugM.png](../assets/RugM.png)![RugN.png](../assets/RugN.png)![RugO.png](../assets/RugO.png)![RugT.png](../assets/RugT.png)![RugV.png](../assets/RugV.png)![RugX.png](../assets/RugX.png)![RugY.png](../assets/RugY.png) | Rug | 2.00 kg / *(4.4 lb)* | Houses, Industrial Areas |  |
+| ![RugA.png](../assets/RugA.png)![RugB.png](../assets/RugB.png) | Rug | 5.00 kg / *(11 lb)* | Houses, Industrial Areas |  |
+| ![](../assets/ToyRockingHorse.png) / *ToyRockingHorse.png* | Rocking Horse | 3.00 kg / *(6.6 lb)* | [Milton House](./Milton%20House.md) (house close to Grey Mother's leading to [Radio Tower](./Radio%20Tower.md)) |  |
+| ![](../assets/GardenBoxShelf_A.png) / *GardenBoxShelf\_A.png* | Shelf (Corner) | 5.00 kg / *(11 lb)* | [Idle Camp](./Idle%20Camp.md) mess hall kitchen, [Island Cottage](./Island%20Cottage.md) |  |
+| ![GardenBoxShelf\_B.png](../assets/GardenBoxShelf_B.png)![WallShelfA.png](../assets/WallShelfA.png)![WallShelfB.png](../assets/WallShelfB.png) | Shelf | 2.00 kg / *(4.4 lb)* | Houses |  |
+| ![](../assets/BoneStagSkullC.png) / *BoneStagSkullC.png* | Skull | 0.25 kg / *(0.55 lb)* | [Hunting Lodge](./Hunting%20Lodge.md), Hunting [Prepper Cache](./Prepper%20Cache.md), [Camp Office](./Camp%20Office.md), Found on Mounts in places with animal trophies |  |
+| ![BoneStagSkullB.png](../assets/BoneStagSkullB.png)![BoneStagSkullA.png](../assets/BoneStagSkullA.png) | Skull | 0.25 kg / *(0.55 lb)* | Hunting [Prepper Cache](./Prepper%20Cache.md) |  |
+| ![AirfieldTerminalSignA.png](../assets/AirfieldTerminalSignA.png)![AirfieldTerminalSignB.png](../assets/AirfieldTerminalSignB.png) | Sign (Terminal) | 0.10 kg / *(0.22 lb)* | [Terminal](./Terminal.md) |  |
+| ![RailStation\_Sign\_A.png](../assets/RailStation_Sign_A.png)![RailStation\_Sign\_C.png](../assets/RailStation_Sign_C.png) | Sign (Depot) | 0.25 kg / *(0.55 lb)* | [Vacant Depot](./Vacant%20Depot.md) (currently cannot take second one as it is outside) |  |
+| ![Hotsteam\_A.png](../assets/Hotsteam_A.png)![Steamtunnel\_A.png](../assets/Steamtunnel_A.png)![Steamtunnel\_B.png](../assets/Steamtunnel_B.png)![Steamtunnel\_C.png](../assets/Steamtunnel_C.png)![Steamtunnel\_D.png](../assets/Steamtunnel_D.png)![Steamtunnel\_E.png](../assets/Steamtunnel_E.png) | Sign (Steam) | 0.25 kg / *(0.55 lb)* | [Steam Tunnels](./Steam%20Tunnels.md) (currently cannot take these) |  |
+| ![SignDeco\_7.png](../assets/SignDeco_7.png)![SignDeco\_8.png](../assets/SignDeco_8.png)![SignDeco\_9.png](../assets/SignDeco_9.png)![SignDeco\_10.png](../assets/SignDeco_10.png)![SignDeco\_11.png](../assets/SignDeco_11.png)![SignDeco\_12.png](../assets/SignDeco_12.png)![SignDeco\_13.png](../assets/SignDeco_13.png)![SignDeco\_14.png](../assets/SignDeco_14.png)![SignDeco\_15.png](../assets/SignDeco_15.png)![SignDeco\_16.png](../assets/SignDeco_16.png)![SignDeco\_17.png](../assets/SignDeco_17.png)![SignDeco\_18.png](../assets/SignDeco_18.png) | Sign (Small) | 0.25 kg / *(0.55 lb)* | Industrial Areas |  |
+| ![Blackrock\_Mine\_Floor\_sign\_A.png](../assets/Blackrock_Mine_Floor_sign_A.png)![Blackrock\_Mine\_Floor\_sign\_B.png](../assets/Blackrock_Mine_Floor_sign_B.png)![Blackrock\_Mine\_Floor\_sign\_C.png](../assets/Blackrock_Mine_Floor_sign_C.png)![Blackrock\_Mine\_sign\_A.png](../assets/Blackrock_Mine_sign_A.png)![Blackrock\_Mine\_sign\_B.png](../assets/Blackrock_Mine_sign_B.png)![Blackrock\_Mine\_sign\_C.png](../assets/Blackrock_Mine_sign_C.png)![Blackrock\_Mine\_sign\_D.png](../assets/Blackrock_Mine_sign_D.png)![Blackrock\_Mine\_sign\_E.png](../assets/Blackrock_Mine_sign_E.png)![Blackrock\_Mine\_sign\_F.png](../assets/Blackrock_Mine_sign_F.png)![Blackrock\_Mine\_sign\_G.png](../assets/Blackrock_Mine_sign_G.png)![Blackrock\_Mine\_sign\_wood\_A.png](../assets/Blackrock_Mine_sign_wood_A.png)![Blackrock\_Mine\_ToxicGas\_Sign.png](../assets/Blackrock_Mine_ToxicGas_Sign.png)![MineArea\_Sign\_100ft.png](../assets/MineArea_Sign_100ft.png)![MineArea\_Sign\_200ft.png](../assets/MineArea_Sign_200ft.png)![MineArea\_Sign\_300ft.png](../assets/MineArea_Sign_300ft.png)![MineArea\_Sign\_400ft.png](../assets/MineArea_Sign_400ft.png)![MineArea\_Sign\_500ft.png](../assets/MineArea_Sign_500ft.png)![MineArea\_Sign\_Active\_Mining.png](../assets/MineArea_Sign_Active_Mining.png)![MineArea\_Sign\_Caution.png](../assets/MineArea_Sign_Caution.png)![Sign\_Contaminated.png](../assets/Sign_Contaminated.png)![MineArea\_Sign\_Danger.png](../assets/MineArea_Sign_Danger.png)![MineArea\_Sign\_Danger\_Keep\_Out.png](../assets/MineArea_Sign_Danger_Keep_Out.png)![MineArea\_Sign\_E1.png](../assets/MineArea_Sign_E1.png)![MineArea\_Sign\_Exit.png](../assets/MineArea_Sign_Exit.png)![MineArea\_Sign\_F5.png](../assets/MineArea_Sign_F5.png)![MineArea\_Sign\_Keep\_Hands\_Clear.png](../assets/MineArea_Sign_Keep_Hands_Clear.png)![MineArea\_Sign\_Keep\_Out.png](../assets/MineArea_Sign_Keep_Out.png)![MineArea\_Sign\_This\_Way\_Out.png](../assets/MineArea_Sign_This_Way_Out.png)![MineArea\_Sign\_Unstable.png](../assets/MineArea_Sign_Unstable.png)![MineArea\_SignD.png](../assets/MineArea_SignD.png)![MineArea\_SignE.png](../assets/MineArea_SignE.png)![MineArea\_SignK.png](../assets/MineArea_SignK.png)![MineSignA.png](../assets/MineSignA.png)![MineSignB.png](../assets/MineSignB.png)![MineSignC.png](../assets/MineSignC.png)![MineSignD.png](../assets/MineSignD.png)![MineSignE.png](../assets/MineSignE.png)![MineSignF.png](../assets/MineSignF.png)![MineSignG.png](../assets/MineSignG.png) | Sign (Mine) | 0.25 kg / *(0.55 lb)* | Industrial Mine areas (Many of these are from the [Langston Mine](./Langston%20Mine.md), [Last Prospect](./Last%20Prospect.md), and [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) middle level, which you cannot take) |  |
+| ![PrisonCafeteriaSignA.png](../assets/PrisonCafeteriaSignA.png)![PrisonDoNotEnterSignA.png](../assets/PrisonDoNotEnterSignA.png)![PrisonExitSignA.png](../assets/PrisonExitSignA.png)![PrisonInfirmarySignA.png](../assets/PrisonInfirmarySignA.png)![PrisonInspectionSignA.png](../assets/PrisonInspectionSignA.png)![PrisonKeepLockedSignA.png](../assets/PrisonKeepLockedSignA.png)![PrisonLibrarySignA.png](../assets/PrisonLibrarySignA.png)![PrisonLoadingAreaSignA.png](../assets/PrisonLoadingAreaSignA.png)![PrisonNoInmateSignA.png](../assets/PrisonNoInmateSignA.png)![PrisonNotAnExitSignA.png](../assets/PrisonNotAnExitSignA.png)![PrisonPerimeterSignA.png](../assets/PrisonPerimeterSignA.png)![PrisonRecRoomSignA.png](../assets/PrisonRecRoomSignA.png)![PrisonRestrictedSignA.png](../assets/PrisonRestrictedSignA.png)![PrisonSecureAreaSignA.png](../assets/PrisonSecureAreaSignA.png)![PrisonSignB.png](../assets/PrisonSignB.png)![PrisonSignD.png](../assets/PrisonSignD.png)![PrisonSignE.png](../assets/PrisonSignE.png)![PrisonSignF.png](../assets/PrisonSignF.png)![PrisonStopCheckSignA.png](../assets/PrisonStopCheckSignA.png)![PrisonSurveillanceSignA.png](../assets/PrisonSurveillanceSignA.png)![PrisonWardensOfficeSignA.png](../assets/PrisonWardensOfficeSignA.png) | Sign (Prison) | 0.25 kg / *(0.55 lb)* | [Blackrock Prison](./Blackrock%20Prison.md) and Infirmary |  |
+| ![StoreSign1.png](../assets/StoreSign1.png)![StoreSign2.png](../assets/StoreSign2.png)![StoreSign3.png](../assets/StoreSign3.png)![StoreSign4.png](../assets/StoreSign4.png)![StoreSign5.png](../assets/StoreSign5.png)![StoreSign11.png](../assets/StoreSign11.png) | Sign (Store) | 0.25 kg / *(0.55 lb)* | [Convenience Store](./Convenience%20Store.md) |  |
+| ![StoreSign9.png](../assets/StoreSign9.png)![StoreSign10.png](../assets/StoreSign10.png)![StoreSign12.png](../assets/StoreSign12.png)![StoreSign13.png](../assets/StoreSign13.png) | Sign (Store) | 5.00 kg / *(11 lb)* | [Convenience Store](./Convenience%20Store.md) |  |
+| ![SignDeco\_1.png](../assets/SignDeco_1.png)![SignDeco\_2.png](../assets/SignDeco_2.png)![SignDeco\_3.png](../assets/SignDeco_3.png)![SignDeco\_4.png](../assets/SignDeco_4.png)![IndustrialSignDecoA.png](../assets/IndustrialSignDecoA.png)![IndustrialSignDecoB.png](../assets/IndustrialSignDecoB.png)![IndustrialSignDecoC.png](../assets/IndustrialSignDecoC.png)![IndustrialSignDecoD.png](../assets/IndustrialSignDecoD.png)![IndustrialSignDecoE.png](../assets/IndustrialSignDecoE.png)![SignAidStation\_A.png](../assets/SignAidStation_A.png)![SignAidStation\_B.png](../assets/SignAidStation_B.png)![SignControlRoom\_A.png](../assets/SignControlRoom_A.png)![SignDam\_C.png](../assets/SignDam_C.png)![SignDamTresspassing.png](../assets/SignDamTresspassing.png)![SignDanger\_A.png](../assets/SignDanger_A.png)![SignDeco\_5.png](../assets/SignDeco_5.png)![SignDeco\_6.png](../assets/SignDeco_6.png)![Phone\_Sign.png](../assets/Phone_Sign.png)![SignDrownA.png](../assets/SignDrownA.png)![Sign\_DangerA.png](../assets/Sign_DangerA.png)![SignElevator\_A.png](../assets/SignElevator_A.png)![SignExit\_A.png](../assets/SignExit_A.png)![SignExplosion\_A.png](../assets/SignExplosion_A.png)![SignFirstAid\_A.png](../assets/SignFirstAid_A.png)![SignPoison\_A.png](../assets/SignPoison_A.png)![SignRestroom\_A.png](../assets/SignRestroom_A.png)![SignThink\_A.png](../assets/SignThink_A.png) | Sign (Industrial) | 0.25 kg / *(0.55 lb)* | Industrial Areas, [Carter Hydro Dam](./Carter%20Hydro%20Dam.md), [Concentrator](./Concentrator.md), [Conveyor Room](./Conveyor%20Room.md), [Headframe Building](./Headframe%20Building.md), [Maintenance Yard](./Maintenance%20Yard.md) |  |
+| ![Refuge\_Cabin\_Avalanche.png](../assets/Refuge_Cabin_Avalanche.png)![Sign\_Refuge\_Cabin\_A.png](../assets/Sign_Refuge_Cabin_A.png)![Sign\_Refuge\_Cabin\_B.png](../assets/Sign_Refuge_Cabin_B.png)![Sign\_Refuge\_Cabin\_C.png](../assets/Sign_Refuge_Cabin_C.png) | Sign (Refuge) | 0.25 kg / *(0.55 lb)* | [Placid Notch](./Placid%20Notch.md), [Final Refuge](./Final%20Refuge.md), [Lotte's Rest](./Lotte%27s%20Rest.md) (currently cannot take lettered signs) |  |
+| ![SignPostalCoastal.png](../assets/SignPostalCoastal.png)![SignPostalLake.png](../assets/SignPostalLake.png)![SignPostalWhaling.png](../assets/SignPostalWhaling.png) | Sign (Poster) | 0.25 kg / *(0.55 lb)* | [Maintenance Yard](./Maintenance%20Yard.md), [Terminal](./Terminal.md), [Main Hangar](./Main%20Hangar.md), [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) |  |
+| ![](../assets/WetFloorSign.png) / *WetFloorSign.png* | Sign (Wet) | 0.25 kg / *(0.55 lb)* | Industrial/Commercial Bathrooms |  |
+| ![](../assets/SoapA.png) / *SoapA.png* | Soap | 0.25 kg / *(0.55 lb)* | [Trapper's Homestead](./Trapper%27s%20Homestead.md), Bathrooms, [Bunker Omega](./Bunker%20Omega.md) |  |
+| ![](../assets/StereoSpeaker.png) / *StereoSpeaker.png* | Speaker | 0.25 kg / *(0.55 lb)* | [Idle Camp](./Idle%20Camp.md), [Community Hall](./Community%20Hall.md), [Main Hangar](./Main%20Hangar.md) |  |
+| ![](../assets/Electric_Stovetop.png) / *Electric\_Stovetop.png* | Stove | 3.00 kg / *(6.6 lb)* | Trailers, [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), [Last Resort Cannery](./Last%20Resort%20Cannery.md) Trailer |  |
+| ![Suitcase\_A.png](../assets/Suitcase_A.png)![Suitcase\_B.png](../assets/Suitcase_B.png)![Suitcase\_C.png](../assets/Suitcase_C.png)![Suitcase\_D.png](../assets/Suitcase_D.png)![Suitcase\_E.png](../assets/Suitcase_E.png)![Suitcase\_F.png](../assets/Suitcase_F.png) | [Suitcase](./Suitcase.md) | 0.25 kg / *(0.55 lb)* | [Terminal](./Terminal.md), [Concentrator](./Concentrator.md) (Offices), occasionally near bathrooms in houses |  |
+| ![](../assets/ToyTeddyBearA.png) / *ToyTeddyBearA.png* | Teddy Bear | 0.25 kg / *(0.55 lb)* | [Milton House](./Milton%20House.md) (house close to Grey Mother's leading to [Radio Tower](./Radio%20Tower.md)), [Main Hangar](./Main%20Hangar.md), [Cabin (Sundered Pass)](./Cabin%20%28Sundered%20Pass%29.md), [Bunker Omega](./Bunker%20Omega.md), [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md) |  |
+| ![OldTelevision.png](../assets/OldTelevision.png)![Ico\_GearItem\_Television.png](../assets/Ico_GearItem_Television.png)![TelevisionB.png](../assets/TelevisionB.png)![TelevisionWall.png](../assets/TelevisionWall.png) | Television | 5.00 kg / *(11 lb)* | Homes, Industrial areas |  |
+| ![](../assets/TimeCardPunchClock.png) / *TimeCardPunchClock.png* | Time Clock | 5.00 kg / *(11 lb)* | Industrial Areas |  |
+| ![TireA.png](../assets/TireA.png)![TireB.png](../assets/TireB.png) | Tire | 5.00 kg / *(11 lb)* | [Quonset Garage](./Quonset%20Garage.md), [Maintenance Yard](./Maintenance%20Yard.md), [Main Hangar](./Main%20Hangar.md), [Weather Station](./Weather%20Station.md) |  |
+| ![](../assets/ToiletSeat_A.png) / *ToiletSeat\_A.png* | Toilet Seat | 0.25 kg / *(0.55 lb)* | [Idle Camp](./Idle%20Camp.md) |  |
+| ![](../assets/ToyTractor.png) / *ToyTractor.png* | Tractor | 0.25 kg / *(0.55 lb)* | [Milton House](./Milton%20House.md) (house close to Grey Mother's leading to [Radio Tower](./Radio%20Tower.md)) |  |
+| ![Trophy.png](../assets/Trophy.png)![TrophyB.png](../assets/TrophyB.png) | Trophy | 0.25 kg / *(0.55 lb)* | [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office, [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) (admin office) |  |
+| ![](../assets/WagonWheelB.png) / *WagonWheelB.png* | Wheel | 2.00 kg / *(4.4 lb)* | [Hunting Lodge](./Hunting%20Lodge.md), [Camp Office](./Camp%20Office.md) |  |
+| ![](../assets/Ico_GearItem_WagonWheelA.png) / *Ico\_GearItem\_WagonWheelA.png* | Wheel | 4.00 kg / *(8.8 lb)* | [Hunting Lodge](./Hunting%20Lodge.md), [Camp Office](./Camp%20Office.md), [Headframe Building](./Headframe%20Building.md) |  |
+| ![Ico\_GearItem\_WoodSpatula.png](../assets/Ico_GearItem_WoodSpatula.png)![Ico\_GearItem\_WoodSpatulaSpoon.png](../assets/Ico_GearItem_WoodSpatulaSpoon.png) | Wooden Spoon | 1.00 kg / *(2.2 lb)* | Kitchens |  |
+| ![Thomson\_Foreclosure\_A.png](../assets/Thomson_Foreclosure_A.png)![Thomson\_Foreclosure\_A\_Variant.png](../assets/Thomson_Foreclosure_A_Variant.png)![BonesBearSkullA.png](../assets/BonesBearSkullA.png)![BonesBearSkullB.png](../assets/BonesBearSkullB.png)![BoneHumanSkullB.png](../assets/BoneHumanSkullB.png) | Unobtainable |  | These are icons of items currently outside of customization areas but can technically be picked up |  |
+| ![ShowerCurtainC.png](../assets/ShowerCurtainC.png)![CurtainB2.png](../assets/CurtainB2.png)![JackOLantern.png](../assets/JackOLantern.png)![LightCandle\_D.png](../assets/LightCandle_D.png)![LightCandle\_E.png](../assets/LightCandle_E.png)![BarrelWood\_B\_Snow.png](../assets/BarrelWood_B_Snow.png)![BedFrame\_A.png](../assets/BedFrame_A.png)![Workbench\_icon\_Old.png](../assets/Workbench_icon_Old.png)![Trolley\_A02.png](../assets/Trolley_A02.png) | Unknown |  | These items are in the game files but many either do not exist or cannot be pick up inside Customization zones. |  |
+| ![](../assets/CashRegisterBank.png) / *CashRegisterBank.png* | Cash Machine | 5.00 kg / *(11 lb)* | Cash Machine has been removed from [Milton Credit Union](./Milton%20Credit%20Union.md) |  |
+| ![](../assets/BoneHumanSkullA.png) / *BoneHumanSkullA.png* | Skull | 0.25 kg / *(0.55 lb)* | Skull has been removed from [Bunker Omega](./Bunker%20Omega.md) ([Dr. Rüdiger](./Dr.%20R%C3%BCdiger.md)'s skull is now a skeleton that can be destroyed) |  |
+|  | Name | Location |  |  |
+| ![](../assets/Bandsaw.jpg) / *Bandsaw.jpg* | Bandsaw | [Bunker Omega](./Bunker%20Omega.md) |  |  |
+| ![](../assets/Metal_Barrel.jpg) / *Metal\_Barrel.jpg* | Barrel (Metal) | Industrial Areas |  |  |
+| ![](../assets/Bin.jpg) / *Bin.jpg* | Bin | [Idle Camp](./Idle%20Camp.md), [Last Lonely House](./Last%20Lonely%20House.md), [Cabin (Sundered Pass)](./Cabin%20%28Sundered%20Pass%29.md) |  |  |
+| ![](../assets/Blackboard.jpg) / *Blackboard.jpg* | Blackboard | [Signal Void](./Signal%20Void.md) bunkers, [Station Bunkhouse](./Station%20Bunkhouse.md) |  |  |
+| ![WindowBlindsA.png](../assets/WindowBlindsA.png)![WindowBlindsB.png](../assets/WindowBlindsB.png)![WindowBlindsC.png](../assets/WindowBlindsC.png)![WindowBlindsD.png](../assets/WindowBlindsD.png)![WindowBlindsE.png](../assets/WindowBlindsE.png) | Blinds | House/cabin/kitchen/office windows |  |  |
+| ![](../assets/BulletinBoardD.png) / *BulletinBoardD.png* | Board | [Pensive Lookout](./Pensive%20Lookout.md) |  |  |
+| ![](../assets/Brick.jpg) / *Brick.jpg* | Brick | [Hibernia Processing](./Hibernia%20Processing.md), [Concentrator](./Concentrator.md) |  |  |
+| ![](../assets/Bricks.jpg) / *Bricks.jpg* | Bricks | [Hibernia Processing](./Hibernia%20Processing.md), [Concentrator](./Concentrator.md), [Last Resort Cannery](./Last%20Resort%20Cannery.md) |  |  |
+| ![](../assets/Candy_Machine.jpg) / *Candy\_Machine.jpg* | Candy Machine | [Milton Post Office](./Milton%20Post%20Office.md), [Convenience Store](./Convenience%20Store.md), [Milton Credit Union](./Milton%20Credit%20Union.md) |  |  |
+| ![](../assets/Canister.jpg) / *Canister.jpg* | Canister (Garbage Can) | Bathrooms, [Terminal](./Terminal.md), [Milton Credit Union](./Milton%20Credit%20Union.md), [Milton Post Office](./Milton%20Post%20Office.md), [Last Resort Cannery](./Last%20Resort%20Cannery.md) Trailer |  |  |
+| ![](../assets/Case.jpg) / *Case.jpg* | Case | [Convenience Store](./Convenience%20Store.md) |  |  |
+| ![](../assets/Cash_Machine.jpg) / *Cash\_Machine.jpg* | Cash Machine (ATM) | [Terminal](./Terminal.md), [Rural Store](./Rural%20Store.md), [Convenience Store](./Convenience%20Store.md), [Milton Credit Union](./Milton%20Credit%20Union.md), [Concentrator](./Concentrator.md) Offices |  |  |
+| ![](../assets/Clipboard.jpg) / *Clipboard.jpg* | Clipboard | Industrial Areas |  |  |
+|  | Clock (Grandfather) | [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md), [Hunting Lodge](./Hunting%20Lodge.md) |  |  |
+| ![](../assets/Coat_Stand.jpg) / *Coat\_Stand.jpg* | Coat Stand | [Blackrock Prison](./Blackrock%20Prison.md) Warden's Office, [Main Hangar](./Main%20Hangar.md) |  |  |
+|  | Counter | [Hunting Lodge](./Hunting%20Lodge.md), [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) |  |  |
+| ![CurtainBarA.png](../assets/CurtainBarA.png)![CurtainBarA2.png](../assets/CurtainBarA2.png)![CurtainBarB.png](../assets/CurtainBarB.png)![CurtainBarB2.png](../assets/CurtainBarB2.png)![CurtainBarC.png](../assets/CurtainBarC.png) | Curtain (Curtain/Towel rack) | Bathrooms |  |  |
+| ![](../assets/Cups.jpg) / *Cups.jpg* | Cups | [Convenience Store](./Convenience%20Store.md) |  |  |
+| ![](../assets/Debris.jpg) / *Debris.jpg* | Debris | Rubble - [Concentrator](./Concentrator.md), [Blackrock Prison](./Blackrock%20Prison.md) (inside prison) Ceiling Tiles - [Convenience Store](./Convenience%20Store.md), [Milton Credit Union](./Milton%20Credit%20Union.md) |  |  |
+| ![](../assets/Door_destroyable.jpg) / *Door\_destroyable.jpg* | Door | [Hibernia Processing](./Hibernia%20Processing.md), [Concentrator](./Concentrator.md) |  |  |
+| ![](../assets/PictureFrameLong.png) / *PictureFrameLong.png* | Frame | [Vacant Depot](./Vacant%20Depot.md) |  |  |
+| ![](../assets/Fire_Poker.jpg) / *Fire\_Poker.jpg* | Fire Poker | [Mindful Cabin](./Mindful%20Cabin.md), [Cabin (Sundered Pass)](./Cabin%20%28Sundered%20Pass%29.md), [Island Cottage](./Island%20Cottage.md) |  |  |
+| ![](../assets/Hand_Truck.jpg) / *Hand\_Truck.jpg* | Hand Truck | Industrial Areas |  |  |
+| ![](../assets/Hand_Truck_2.jpg) / *Hand\_Truck\_2.jpg* | Hand Truck | Industrial Areas |  |  |
+| ![](../assets/Lamp_broken.jpg) / *Lamp\_broken.jpg* | Lamp (Broken) |  |  |  |
+| ![LampJ.png](../assets/LampJ.png)![LampN.png](../assets/LampN.png) | Light |  |  |  |
+| ![](../assets/Light_Rack.jpg) / *Light\_Rack.jpg* | Light | [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) |  |  |
+|  | Hangar | Homes |  |  |
+| ![](../assets/Glasses.jpg) / *Glasses.jpg* | Glasses | [Concentrator](./Concentrator.md) Office, [Island Cottage](./Island%20Cottage.md) |  |  |
+|  | Map | [Pensive Lookout](./Pensive%20Lookout.md) (map of Coastal Highway on the Board) |  |  |
+| ![](../assets/Metal_Sheet.jpg) / *Metal\_Sheet.jpg* | Metal (Sheet) | Industrial Areas |  |  |
+| ![MirrorMetal\_A.png](../assets/MirrorMetal_A.png)![MirrorMetal\_B.png](../assets/MirrorMetal_B.png)![MirrorMetal\_C.png](../assets/MirrorMetal_C.png) | Mirror (Broken) | Bathrooms (most mirrors like this are shattered) |  |  |
+| ![](../assets/Mount.jpg) / *Mount.jpg* | Mount | [Hunting Lodge](./Hunting%20Lodge.md), Hunting [Prepper Cache](./Prepper%20Cache.md), Places with animal trophies |  |  |
+| ![](../assets/Organ.jpg) / *Organ.jpg* | Organ | [St. Christopher's Church](./St.%20Christopher%27s%20Church.md), [Pleasant Valley Church](./Pleasant%20Valley%20Church.md) |  |  |
+| ![DishPlateB1.png](../assets/DishPlateB1.png)![DishPlateB2.png](../assets/DishPlateB2.png)![DishPlateB3.png](../assets/DishPlateB3.png)![DishServeB1.png](../assets/DishServeB1.png)![DishServeB2.png](../assets/DishServeB2.png)![DishServeB3.png](../assets/DishServeB3.png) | Plate | Kitchens |  |  |
+|  | Podium | [St. Christopher's Church](./St.%20Christopher%27s%20Church.md), [Pleasant Valley Church](./Pleasant%20Valley%20Church.md), [Community Hall](./Community%20Hall.md) |  |  |
+|  | Piano | [Community Hall](./Community%20Hall.md) |  |  |
+| ![](../assets/Pipes.jpg) / *Pipes.jpg* | Pipe (Bundle) | Industrial Areas |  |  |
+|  | Rack | Houses |  |  |
+| ![](../assets/Slush_Machine.jpg) / *Slush\_Machine.jpg* | Slush Machine | [Convenience Store](./Convenience%20Store.md) |  |  |
+| ![](../assets/Soda_Machine.jpg) / *Soda\_Machine.jpg* | Soda Machine | [Convenience Store](./Convenience%20Store.md) |  |  |
+| ![](../assets/Stereo.jpg) / *Stereo.jpg* | Stereo | Near Speakers, [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) |  |  |
+| ![](../assets/Storage.jpg) / *Storage.jpg* | Storage | Offices |  |  |
+| ![](../assets/Tank.jpg) / *Tank.jpg* | Tank | Industrial Areas |  |  |
+| ![](../assets/Tire_Rack.jpg) / *Tire\_Rack.jpg* | Tire Rack | [Quonset Garage](./Quonset%20Garage.md), [Maintenance Yard](./Maintenance%20Yard.md), [Main Hangar](./Main%20Hangar.md) |  |  |
+| ![](../assets/Tray.jpg) / *Tray.jpg* | Tray | [Idle Camp](./Idle%20Camp.md) |  |  |
+| ![](../assets/Traffic_Cone.jpg) / *Traffic\_Cone.jpg* | Cone (stand) | [Main Hangar](./Main%20Hangar.md) |  |  |
+| ![](../assets/Trough.jpg) / *Trough.jpg* | Trough | Industrial Areas, [Maintenance Yard](./Maintenance%20Yard.md), [Hunting Lodge](./Hunting%20Lodge.md), [Mindful Cabin](./Mindful%20Cabin.md) |  |  |
+| ![](../assets/Vending_Machine.jpg) / *Vending\_Machine.jpg* | Vending Machine | [Milton Park](./Milton%20Park.md), [Convenience Store](./Convenience%20Store.md), [Concentrator](./Concentrator.md) Offices, [Terminal](./Terminal.md) |  |  |
+| ![](../assets/Wheelbarrow.jpg) / *Wheelbarrow.jpg* | Wheelbarrow | Sheds, Industrial Buildings |  |  |

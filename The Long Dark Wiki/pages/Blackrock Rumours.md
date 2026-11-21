@@ -6,72 +6,40 @@ source: "https://thelongdark.fandom.com/wiki/Blackrock_Rumours"
 
 # Blackrock Rumours
 
-<div>
-
 **Contents**
 
-- [Overview](#Overview)
-- [Tasks](#Tasks)
-- [Starting Note Locations](#Starting_Note_Locations)
-- [Walkthrough](#Walkthrough)
-- [Late Employee](#Late_Employee)
-- [Aggressive wolf](#Aggressive_wolf)
-- [Suspicious person](#Suspicious_person)
-- [Rewards](#Rewards)
-- [Late Employee](#Late_Employee_2)
-- [An aggressive wolf](#An_aggressive_wolf)
-- [Suspicious person](#Suspicious_person_2)
+- [Overview](#overview)
+- [Tasks](#tasks)
+- [Starting Note Locations](#starting-note-locations)
+- [Walkthrough](#walkthrough)
+- [Late Employee](#late-employee)
+- [Aggressive wolf](#aggressive-wolf)
+- [Suspicious person](#suspicious-person)
+- [Rewards](#rewards)
+- [Late Employee](#late-employee-1)
+- [An aggressive wolf](#an-aggressive-wolf)
+- [Suspicious person](#suspicious-person-1)
 
 **Template:spoiler**
 
-<table class="infobox">
-<caption>Blackrock Rumours</caption>
-<thead>
-<tr>
-<th><p>Episode</p></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th colspan="2" class="section"><p><strong>Missions</strong></p></th>
-</tr>
-&#10;<tr>
-<th><p>Current</p></th>
-<td><p>Blackrock Rumours</p></td>
-</tr>
-<tr>
-<th><p>Region</p></th>
-<td><p><a href="./Blackrock%20Mountain.md" class="wikilink" title="Blackrock Mountain">Blackrock Mountain</a></p></td>
-</tr>
-</tbody>
-</table>
+**Blackrock Rumours**
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="vertical-align: top; font-size: 3em; color: #5d5980; padding-right: 10px"><p>“</p></td>
-<td><p><span style="font-style:italic">Security memos describing unusual activity in the Blackrock area.</span></p>
-<div style="clear:both">
-&#10;</div>
-<div style="float:right; font-size:9pt">
-<p>In-game description</p>
-</div></td>
-<td style="vertical-align: bottom; font-size: 3em; color: #5d5980; padding-left: 10px"><p>”</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+| Episode |  |
+| **Missions** |  |
+| Current | Blackrock Rumours |
+| Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 
-**Blackrock Rumors** is a side mission in <a href="./Episode%204%20-%20Fury%2C%20Then%20Silence.md" class="wikilink" title="Episode 4">Episode 4</a>.
+> “**Security memos describing unusual activity in the Blackrock area.**”
+>
+> — In-game description
+
+**Blackrock Rumors** is a side mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
 ## Overview
 
-To start the mission, the player must find any of three security memos, scattered around the <a href="./Blackrock%20Mountain.md" class="wikilink" title="Blackrock Mountain">Blackrock Mountain</a> region. Each memo adds a sub-objective to the mission, completing all 3 sub objectives completes the mission.
+To start the mission, the player must find any of three security memos, scattered around the [Blackrock Mountain](./Blackrock%20Mountain.md) region. Each memo adds a sub-objective to the mission, completing all 3 sub objectives completes the mission.
 
 ## Tasks
 
@@ -79,13 +47,9 @@ To start the mission, the player must find any of three security memos, scattere
   - Search for the signs of the late Blackrock employee.
   - Search for the prospector's lockbox.
 
-<!-- -->
-
 - An aggressive wolf is stalking the region.
   - Locate the aggressive wolf's cave.
   - Search the wolf's cave.
-
-<!-- -->
 
 - A suspicious person has been sighted.
   - Search for Clues at the old Cabin.
@@ -96,22 +60,18 @@ To start the mission, the player must find any of three security memos, scattere
 - Blackrock Memo - Late Employee
   - Located in Blackrock prison Infirmary, in the second room, on the ground under the notice board.
 
-<!-- -->
-
 - Blackrock Memo - Highly aggressive Wolf
   - Located in the Blackrock gate room.
 
-<!-- -->
-
 - Blackrock Memo - Suspicious person
-  - Located in the Blue truck on the access road right next to <a href="./Old%20Substation.md" class="wikilink" title="Old Substation">Old Substation</a>.
+  - Located in the Blue truck on the access road right next to [Old Substation](./Old%20Substation.md).
 
 ## Walkthrough
 
 ### Late Employee
 
-- Best way to reach the bottom of the ravine is by going up the steep mountain path behind the barn at <a href="./Jailer%27s%20Residence.md" class="wikilink" title="Jailer&#39;s Residence">Jailer's Residence</a>, then keeping to the right where a fallen tree leads to the bottom of the ravine, beware of a wolf walking the ice. It is also possible to climb down a rope when following the creek upstream from the bridge (on the other bank) and then use the previous route to get out of the ravine.
-- Don't forget to visit the Barn, as the truck inside contains a key to <a href="./Blackrock%20Lockers.md" class="wikilink" title="locker #3">locker #3</a>.
+- Best way to reach the bottom of the ravine is by going up the steep mountain path behind the barn at [Jailer's Residence](./Jailer%27s%20Residence.md), then keeping to the right where a fallen tree leads to the bottom of the ravine, beware of a wolf walking the ice. It is also possible to climb down a rope when following the creek upstream from the bridge (on the other bank) and then use the previous route to get out of the ravine.
+- Don't forget to visit the Barn, as the truck inside contains a key to [locker #3](./Blackrock%20Lockers.md).
 
 ### Aggressive wolf
 
@@ -120,60 +80,54 @@ To start the mission, the player must find any of three security memos, scattere
 
 ### Suspicious person
 
-- The cache you are looking for is behind a rock couple steps behind the <a href="./Bricklayer%27s%20Retreat.md" class="wikilink" title="Bricklayer&#39;s Retreat">Bricklayer's Retreat</a>.
+- The cache you are looking for is behind a rock couple steps behind the [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md).
 - After you recovered the cache, you will be looking for a prepper cache like hatch.
-- Return in the direction of <a href="./Foreman%27s%20Clearcut.md" class="wikilink" title="Foreman&#39;s Clearcut">Foreman's Clearcut</a>, and slightly towards the road bend between <a href="./Foreman%27s%20Clearcut.md" class="wikilink" title="Foreman&#39;s Clearcut">Foreman's Clearcut</a> and <a href="./Cook%27s%20Farm.md" class="wikilink" title="Cook&#39;s Farm">Cook's Farm</a> , best way is by crossing the top/right part of the little lake, then crossing the road and going through a stone arch. Follow the road towards the bend and the cache will be between the canyon walls just after it, near the left wall.
+- Return in the direction of [Foreman's Clearcut](./Foreman%27s%20Clearcut.md), and slightly towards the road bend between [Foreman's Clearcut](./Foreman%27s%20Clearcut.md) and [Cook's Farm](./Cook%27s%20Farm.md) , best way is by crossing the top/right part of the little lake, then crossing the road and going through a stone arch. Follow the road towards the bend and the cache will be between the canyon walls just after it, near the left wall.
 
 ## Rewards
 
 ### Late Employee
 
 - Near the body
-  - **<a href="./Survival%20Bow.md" class="wikilink" title="Survival Bow">Survival Bow</a>**
-  - **2x <a href="./Simple%20Arrow.md" class="wikilink" title="Simple Arrow">Simple Arrow</a>**
-  - Contents of a Backpack (<a href="./Arrowhead.md" class="wikilink" title="Arrowhead">Arrowhead</a>,<a href="./Sewing%20Kit.md" class="wikilink" title="Sewing Kit">Sewing Kit</a>)
-  - 3x <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a>
-  - A key to a lockbox under a bed in the Blackrock guard room, the one with <a href="./Blackrock%20Lockers.md" class="wikilink" title="the lockers">the lockers</a>.
-
-<!-- -->
+  - **[Survival Bow](./Survival%20Bow.md)**
+  - **2x [Simple Arrow](./Simple%20Arrow.md)**
+  - Contents of a Backpack ([Arrowhead](./Arrowhead.md),[Sewing Kit](./Sewing%20Kit.md))
+  - 3x [Fir Firewood](./Fir%20Firewood.md)
+  - A key to a lockbox under a bed in the Blackrock guard room, the one with [the lockers](./Blackrock%20Lockers.md).
 
 - Inside the lockbox
-- New <a href="./Rabbitskin%20Hat.md" class="wikilink" title="Rabbitskin Hat">Rabbitskin Hat</a>
-- <a href="./Gold%20Nugget.md" class="wikilink" title="Gold Nugget">Gold Nugget</a>
+- New [Rabbitskin Hat](./Rabbitskin%20Hat.md)
+- [Gold Nugget](./Gold%20Nugget.md)
 
 ### An aggressive wolf
 
-- <a href="./Stacy%27s%20Grape%20Soda.md" class="wikilink" title="Stacy&#39;s Grape Soda">Stacy's Grape Soda</a>
-- deer carcass with ~1,5kg of <a href="./Venison%20%28Cooked%29.md" class="wikilink" title="Venison">Venison</a>
+- [Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md)
+- deer carcass with ~1,5kg of [Venison](./Venison%20%28Cooked%29.md)
 
 ### Suspicious person
 
 - Cache behind bricklayer's retreat
 - Quest-related note
-  - **1x <a href="./Go!%20Energy%20Drink.md" class="wikilink" title="Go! Energy Drink">Go! Energy Drink</a>**
-  - **2x <a href="./Marine%20Flare.md" class="wikilink" title="Marine Flare">Marine Flare</a>**
-  - Decent <a href="./Wool%20Socks.md" class="wikilink" title="Wool Socks">Wool Socks</a>
-  - Decent <a href="./Wool%20Mittens.md" class="wikilink" title="Wool Mittens">Wool Mittens</a>
-
-<!-- -->
+  - **1x [Go! Energy Drink](./Go!%20Energy%20Drink.md)**
+  - **2x [Marine Flare](./Marine%20Flare.md)**
+  - Decent [Wool Socks](./Wool%20Socks.md)
+  - Decent [Wool Mittens](./Wool%20Mittens.md)
 
 - Preppers hatch
-  - **<a href="./Moose-Hide%20Satchel.md" class="wikilink" title="Moose-Hide Satchel">Moose-Hide Satchel</a>**
-  - Inside a vent **5x <a href="./Rifle%20Ammunition.md" class="wikilink" title="Rifle Ammunition">Rifle Ammunition</a>**, **5x <a href="./Revolver%20Ammunition.md" class="wikilink" title="Revolver Ammunition">Revolver Ammunition</a>**
-  - **2x <a href="./Revolver%20Ammunition.md" class="wikilink" title="Revolver Ammunition">Revolver Ammunition</a>**
-  - **<a href="./Flashlight.md" class="wikilink" title="Flashlight">Flashlight</a>**
-  - **1x <a href="./Go!%20Energy%20Drink.md" class="wikilink" title="Go! Energy Drink">Go! Energy Drink</a>**
-  - 1x <a href="./Military-Grade%20MRE.md" class="wikilink" title="Military-Grade MRE">Military-Grade MRE</a>
-  - <a href="./Storm%20Lantern.md" class="wikilink" title="Storm Lantern">Storm Lantern</a> +0,14l of fuel
-  - Locked (requires <a href="./Prybar.md" class="wikilink" title="Prybar">Prybar</a>) locker, possibly contains (<a href="./Water%20%28Potable%29.md" class="wikilink" title="Water (Potable)">Water (Potable)</a>,1x <a href="./Flare%20Shell.md" class="wikilink" title="Flare Shell">Flare Shell</a> / Decent <a href="./Wool%20Mittens.md" class="wikilink" title="Wool Mittens">Wool Mittens</a>)
-  - 1x <a href="./Can%20of%20Gunpowder.md" class="wikilink" title="Can of Gunpowder">Can of Gunpowder</a>
-  - 4x <a href="./Flare.md" class="wikilink" title="Flare">Flare</a>
-  - 1x <a href="./Maple%20Syrup.md" class="wikilink" title="Maple Syrup">Maple Syrup</a>
+  - **[Moose-Hide Satchel](./Moose-Hide%20Satchel.md)**
+  - Inside a vent **5x [Rifle Ammunition](./Rifle%20Ammunition.md)**, **5x [Revolver Ammunition](./Revolver%20Ammunition.md)**
+  - **2x [Revolver Ammunition](./Revolver%20Ammunition.md)**
+  - **[Flashlight](./Flashlight.md)**
+  - **1x [Go! Energy Drink](./Go!%20Energy%20Drink.md)**
+  - 1x [Military-Grade MRE](./Military-Grade%20MRE.md)
+  - [Storm Lantern](./Storm%20Lantern.md) +0,14l of fuel
+  - Locked (requires [Prybar](./Prybar.md)) locker, possibly contains ([Water (Potable)](./Water%20%28Potable%29.md),1x [Flare Shell](./Flare%20Shell.md) / Decent [Wool Mittens](./Wool%20Mittens.md))
+  - 1x [Can of Gunpowder](./Can%20of%20Gunpowder.md)
+  - 4x [Flare](./Flare.md)
+  - 1x [Maple Syrup](./Maple%20Syrup.md)
   - 2450kcal of various other food
-  - Firewood, <a href="./Book.md" class="wikilink" title="Books">Books</a>, Tinder, <a href="./Wood%20Matches.md" class="wikilink" title="Wood Matches">Wood Matches</a>, Bandages, <a href="./Antibiotics.md" class="wikilink" title="Antibiotics">Antibiotics</a>
+  - Firewood, [Books](./Book.md), Tinder, [Wood Matches](./Wood%20Matches.md), Bandages, [Antibiotics](./Antibiotics.md)
   - 11 randomized containers
   - Shelter and bed
 
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

@@ -7,56 +7,15 @@ source: "https://thelongdark.fandom.com/wiki/Mountaineer's_Hut"
 
 # Mountaineer's Hut
 
-<div>
+**Mountaineer's Hut**
 
-<table class="infobox">
-<caption>Mountaineer's Hut</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Mountaineer%27s_Hut.png" loading="lazy" width="250" />
-<figcaption>Mountaineer's_Hut.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Mountaineer's_Hut_Location.png]</span>
-<figcaption>Mountaineer's_Hut_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Firebox</p></td>
-<td></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Bed_icon.png" loading="lazy" width="30" />
-<figcaption>bed_icon.png</figcaption>
-</figure></td>
-<td><p>Has a bed</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Workbench_icon_green.png" loading="lazy" width="30" />
-<figcaption>workbench_icon_green.png</figcaption>
-</figure></td>
-<td><p>Has a workbench|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Mountaineer%27s_Hut.png) / *Mountaineer's\_Hut.png* |
+| **Location** |  |
+|  | ![](../assets/Mountaineer%27s_Hut_Location.png) / *Mountaineer's\_Hut\_Location.png* |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| **General** |  |
+| Firebox |  |
+| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
+| ![](../assets/Workbench_icon_green.png) / *workbench\_icon\_green.png* | Has a workbench\|- |

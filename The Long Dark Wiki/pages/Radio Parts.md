@@ -7,77 +7,30 @@ source: "https://thelongdark.fandom.com/wiki/Radio_Parts"
 
 # Radio Parts
 
-<div>
+**Radio Parts**
 
-<table class="infobox">
-<caption>Radio Parts</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Radio_Parts_icon.png" loading="lazy" width="250" />
-<figcaption>Radio_Parts_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00" class="wikilink" title="1 August 2017">1 August 2017</a></p></td>
-</tr>
-<tr>
-<td><p>Wintermute</p></td>
-<td><p><a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a> - <a href="./The%20Wounded%20Trapper.md" class="wikilink" title="The Wounded Trapper">The Wounded Trapper</a></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Item type</p></td>
-<td><p><a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Stackable</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><p>Examine</p></td>
-<td><p>A collection of mis. electronic odds and ends torn out of old radios.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>0.20 kg (0.44 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Actions</strong></p></td>
-</tr>
-<tr>
-<td><p>Backpack</p></td>
-<td><p>Examine</p></td>
-</tr>
-<tr>
-<td><p>On ground</p></td>
-<td><p>Take It, Leave It</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Radio_Parts_icon.png) / *Radio\_Parts\_icon.png* |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
+| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Wounded Trapper](./The%20Wounded%20Trapper.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A collection of mis. electronic odds and ends torn out of old radios. |
+| **Values** |  |
+| Weight | 0.20 kg (0.44 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
-**Radio Parts** is a <a href="./Collectibles.md" class="wikilink" title="Collectible">Collectible</a> item found in <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a> of the <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a> story mode. It is found on a <a href="./Work%20Bench.md" class="wikilink" title="Work Bench">Work Bench</a> near the admin office of the upper <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a>. It is needed to complete the quest <a href="./The%20Wounded%20Trapper.md" class="wikilink" title="The Wounded Trapper">The Wounded Trapper</a>. It is one of the few Collectibles to have weight.
+**Radio Parts** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found on a [Work Bench](./Work%20Bench.md) near the admin office of the upper [Carter Hydro Dam](./Carter%20Hydro%20Dam.md). It is needed to complete the quest [The Wounded Trapper](./The%20Wounded%20Trapper.md). It is one of the few Collectibles to have weight.
 
 ## Update history
 
-<div class="update-history">
+\* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
 
-\* <span class="update-list"><span class="update-type update">UPDATE</span> **17 December 2018 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41" class="wikilink" title="Update">Update</a>):**</span>
-
-- - Added to game.
-
-</div>
+- 
+  - Added to game.
 
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

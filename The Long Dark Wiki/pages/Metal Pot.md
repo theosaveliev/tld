@@ -7,59 +7,24 @@ source: "https://thelongdark.fandom.com/wiki/Metal_Pot"
 
 # Metal Pot
 
-<div>
+**Metal Pot**
 
-<table class="infobox">
-<caption>Metal Pot</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Metal_Pot.jpg]</span>
-<figcaption>Metal_Pot.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Item Type</p></td>
-<td><p>Item</p></td>
-</tr>
-<tr>
-<td><p>Wintermute</p></td>
-<td><p>Yes|-</p></td>
-</tr>
-<tr>
-<td><p>Harvest</p></td>
-<td><p>15 minutes 1 x <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a></p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Metal_Pot.jpg) / *Metal\_Pot.jpg* |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | Yes\|- |
+| Harvest | 15 minutes 1 x [Scrap Metal](./Scrap%20Metal.md) |
 
-A **Metal Pot** was an interactable object that could be harvested for <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a> with a <a href="./Hacksaw.md" class="wikilink" title="Hacksaw">Hacksaw</a>. It was cut from the game following the Vigilant Flame update, and would immediately be replaced by the <a href="./Cooking%20Pot.md" class="wikilink" title="Cooking Pot">Cooking Pot</a> (of which they share the same model). They are often found in homes on an <a href="./Oven.md" class="wikilink" title="Oven">Oven</a>, <a href="./Pot%20Belly%20Stove.md" class="wikilink" title="Pot Belly Stove">Pot Belly Stove</a>, <a href="./Wood%20Stove.md" class="wikilink" title="Wood Stove">Wood Stove</a>, <a href="./Stove.md" class="wikilink" title="Stove">Stove</a>, or countertops. They are often found next to a <a href="./Metal%20Pan.md" class="wikilink" title="Metal Pan">Metal Pan</a>.
+A **Metal Pot** was an interactable object that could be harvested for [Scrap Metal](./Scrap%20Metal.md) with a [Hacksaw](./Hacksaw.md). It was cut from the game following the Vigilant Flame update, and would immediately be replaced by the [Cooking Pot](./Cooking%20Pot.md) (of which they share the same model). They are often found in homes on an [Oven](./Oven.md), [Pot Belly Stove](./Pot%20Belly%20Stove.md), [Wood Stove](./Wood%20Stove.md), [Stove](./Stove.md), or countertops. They are often found next to a [Metal Pan](./Metal%20Pan.md).
 
-| Object    | Scrap Metal | Time       | Calories | Condition (of Hacksaw) |
-|-----------|-------------|------------|----------|------------------------|
-| Metal Pot | 1           | 15 minutes | 31       | -5%                    |
+| Object | Scrap Metal | Time | Calories | Condition (of Hacksaw) |
+| --- | --- | --- | --- | --- |
+| Metal Pot | 1 | 15 minutes | 31 | -5% |
 
-<table class="gallery">
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<span>[Missing image: PVPumpkin.jpg]</span>
-<figcaption>A Metal Pan and Metal Pot together</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table>
+| Column 1 |
+| --- |
+| ![A Metal Pan and Metal Pot together](../assets/PVPumpkin.jpg) / *A Metal Pan and Metal Pot together* |
 
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

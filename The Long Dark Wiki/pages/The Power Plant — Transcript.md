@@ -6,64 +6,27 @@ source: "https://thelongdark.fandom.com/wiki/The_Power_Plant%2FTranscript"
 
 # The Power Plant/Transcript
 
-<div>
-
 **Contents**
 
-- [Transcript](#Transcript)
-- [Head to the Power Plant.](#Head_to_the_Power_Plant.)
-- [Sabotage the locking mechanisms.](#Sabotage_the_locking_mechanisms.)
-- [Check on the Warden.](#Check_on_the_Warden.)
+- [Transcript](#transcript)
+- [Head to the Power Plant.](#head-to-the-power-plant)
+- [Sabotage the locking mechanisms.](#sabotage-the-locking-mechanisms)
+- [Check on the Warden.](#check-on-the-warden)
 
-<table class="infobox">
-<caption>The Power Plant/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/The_Power_Plant.png" loading="lazy" width="250" />
-<figcaption>The_Power_Plant.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Missions</strong></p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./Blackrock%20Blues%20%E2%80%94%20Transcript.md" class="wikilink" title="Blackrock Blues/Transcript">Blackrock Blues/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>The Power Plant/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./The%20Detonators%20%E2%80%94%20Transcript.md" class="wikilink" title="The Detonators/Transcript">The Detonators/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Blackrock.md" class="wikilink" title="Blackrock Region">Blackrock Region</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a><br />
-<a href="./Franklin.md" class="wikilink" title="Franklin">Franklin</a><br />
-<a href="./Mathis.md" class="wikilink" title="Mathis">Mathis</a><br />
-<a href="./Vachon.md" class="wikilink" title="Vachon">Vachon</a><br />
-<a href="./Heller.md" class="wikilink" title="Heller">Heller</a><br />
-<a href="./Jace.md" class="wikilink" title="Jace">Jace</a></p></td>
-</tr>
-</tbody>
-</table>
+**The Power Plant/Transcript**
 
-This is the transcript for Chapter 2 <a href="./The%20Power%20Plant.md" class="wikilink" title="The Power Plant">The Power Plant</a> for <a href="./Episode%204%20-%20Fury%2C%20Then%20Silence.md" class="wikilink" title="Episode 4: Fury, Then Silence">Episode 4: Fury, Then Silence</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/The_Power_Plant.png) / *The\_Power\_Plant.png* |
+| Episode |  |
+| **Missions** |  |
+| Previous | [Blackrock Blues/Transcript](./Blackrock%20Blues%20%E2%80%94%20Transcript.md) |
+| Current | The Power Plant/Transcript |
+| Next | [The Detonators/Transcript](./The%20Detonators%20%E2%80%94%20Transcript.md) |
+| Region | [Blackrock Region](./Blackrock.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Franklin](./Franklin.md) / [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jace](./Jace.md) |
+
+This is the transcript for Chapter 2 [The Power Plant](./The%20Power%20Plant.md) for [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
 ## Transcript
 
@@ -73,9 +36,9 @@ THE POWER PLANT
 
 *Mackenzie is injecting the Warden with medicine from a syringe. The man is tied to a chair, hands bound behind his back, as draws a sharp breath and wakes up.*
 
-<a href="./Franklin.md" class="wikilink" title="Franklin">Franklin</a>: "Who the hell are you?"
+[Franklin](./Franklin.md): "Who the hell are you?"
 
-<a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a>: "Relax. I'm your neighbour in cell fifteen."
+[Will Mackenzie](./Will%20Mackenzie.md): "Relax. I'm your neighbour in cell fifteen."
 
 Franklin: "Ah...yeah, Mathis' pilot."
 
@@ -131,13 +94,13 @@ Franklin: "The enemy of my enemy is my friend."
 
 *Mackenzie runs back to his cell and closes both Franklin's cell door and his own, even though they do not lock, and sits in his bunk. Mathis walks by and grab's Mackenzie's cell door, and pushes it open*
 
-<a href="./Vachon.md" class="wikilink" title="Vachon">Vachon</a>: "He...hey, how'd that happen?"
+[Vachon](./Vachon.md): "He...hey, how'd that happen?"
 
-<a href="./Heller.md" class="wikilink" title="Heller">Heller</a>: "Wow yeah...must be glitchy."
+[Heller](./Heller.md): "Wow yeah...must be glitchy."
 
 *Mathis walks into the cell chuckling and shaking his head*
 
-<a href="./Mathis.md" class="wikilink" title="Mathis">Mathis</a>: "Ha ha...these idiots think I'm a fool. They don't think I can figure out what happened here. But they were too chicken-shit to take care of the Warden themselves...and sent you out into the cold to do their dirty work. And you...risking your life to save a guy you don't even know. What a fucking boy scout."
+[Mathis](./Mathis.md): "Ha ha...these idiots think I'm a fool. They don't think I can figure out what happened here. But they were too chicken-shit to take care of the Warden themselves...and sent you out into the cold to do their dirty work. And you...risking your life to save a guy you don't even know. What a fucking boy scout."
 
 Mackenzie: "That's me."
 
@@ -196,11 +159,11 @@ Mackenzie: "Bastards. At least this map looks real enough."
 
 ## Head to the Power Plant.
 
-*Mackenzie walks down the mountain road and enters an <a href="./Old%20Substation.md" class="wikilink" title="Old Substation">Old Substation</a>*
+*Mackenzie walks down the mountain road and enters an [Old Substation](./Old%20Substation.md)*
 
 Mackenzie: "Abandoned...some kind of substation control. And shelter, for me anyways."
 
-*Mackenzie eventually makes it to the almost destroyed <a href="./Narrow%20Bridge.md" class="wikilink" title="Narrow Bridge">Narrow Bridge</a>*
+*Mackenzie eventually makes it to the almost destroyed [Narrow Bridge](./Narrow%20Bridge.md)*
 
 Mackenzie: "Woah...easy does it."
 
@@ -212,7 +175,7 @@ Mackenzie: "Now let's see about that power."
 
 Mackenzie: "Hello?"
 
-<a href="./Jace.md" class="wikilink" title="???">???</a>: "Me again. So, they sent you to check on the power plant."
+[???](./Jace.md): "Me again. So, they sent you to check on the power plant."
 
 Mackenzie: "Y...yeah. I mean, that's what they asked me to do."
 
@@ -422,7 +385,7 @@ Mackenzie: "That seemed to work."
 
 Mackenzie: "Making progress..."
 
-*He opens 2 more valves and finds a <a href="./Heavy%20Hammer.md" class="wikilink" title="Heavy Hammer">Heavy Hammer</a> along the way, then returns to finally thaw out the doors of the locking mechanisms room*
+*He opens 2 more valves and finds a [Heavy Hammer](./Heavy%20Hammer.md) along the way, then returns to finally thaw out the doors of the locking mechanisms room*
 
 Mackenzie: "It worked."
 
@@ -526,6 +489,4 @@ Franklin: "Wait...Mathis..."
 
 *The screen goes black*
 
-The story continues in <a href="./The%20Detonators%20%E2%80%94%20Transcript.md" class="wikilink" title="The Detonators/Transcript">The Detonators/Transcript</a>. **Lua execution error in Module:Navbox function navbox**
-
-</div>
+The story continues in [The Detonators/Transcript](./The%20Detonators%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**

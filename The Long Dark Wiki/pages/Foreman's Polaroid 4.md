@@ -7,84 +7,35 @@ source: "https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_4"
 
 # Foreman's Polaroid 4
 
-<div>
+**Foreman's Polaroid 4**
 
-<table class="infobox">
-<caption>Foreman's Polaroid 4</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Foreman%27s_Polaroid_4_icon.png" loading="lazy" width="250" />
-<figcaption>Foreman's_Polaroid_4_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28" class="wikilink" title="24 June 2024">24 June 2024</a></p></td>
-</tr>
-<tr>
-<td><p>Wintermute</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Item type</p></td>
-<td><p><a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Stackable</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><p>Examine</p></td>
-<td><p>An old photo found inside the Foreman's Clipboard.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>0 kg (0 lbs)</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Foreman%27s_Polaroid_4_icon.png) / *Foreman's\_Polaroid\_4\_icon.png* |
+| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | An old photo found inside the Foreman's Clipboard. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
 
-**Foreman's Polaroid 4** is a <a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a> found in <a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a> as part of the <a href="./Last%20Horizon.md" class="wikilink" title="Last Horizon">Last Horizon</a> <a href="./Tales.md" class="wikilink" title="Tale">Tale</a>. It is found after reading <a href="./Foreman%27s%20Technical%20Log%204.md" class="wikilink" title="Foreman&#39;s Technical Log 4">Foreman's Technical Log 4</a>.
+**Foreman's Polaroid 4** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md). It is found after reading [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md).
 
 ## Transcript
 
-<div style="margin: 0.8em 1.6em;font-style: italic;">
+*The following text is transcribed from **Foreman's Polaroid 4***
 
-The following text is transcribed from **Foreman's Polaroid 4**
-
-</div>
-
-<div style="background: #2D3035; border: 1px solid #2D3035; border-radius: 0 0 120px 120px / 0 0 8px 8px; box-shadow: 0 5px 7px -7px rgb(0 0 0 / 40%); max-width: 90ch; overflow: hidden; padding: 2em; margin-bottom: 1em;">
-
-Me and the Chief on that final day. I saw something in her eyes. Did she know?
-
-</div>
+**Me and the Chief on that final day. I saw something in her eyes. Did she know?**
 
 ## Update history
 
-<div class="update-history">
+- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
 
-- <span class="update-list"><span class="update-type update">UPDATE</span> **24 June 2024 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28" class="wikilink" title="Update">Update</a>):**</span>
-
-<!-- -->
-
-- - Added to game.
-
-</div>
+- 
+  - Added to game.
 
 **Lua execution error in Module:Navbox function navbox**
 
-<a href="ru:%D0%A4%D0%BE%D1%82%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B8%D1%80%D0%B0_4" class="wikilink" title="ru:Фотоснимок бригадира 4">ru:Фотоснимок бригадира 4</a>
-
-</div>
+[ru:Фотоснимок бригадира 4](ru:%D0%A4%D0%BE%D1%82%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B8%D1%80%D0%B0_4)

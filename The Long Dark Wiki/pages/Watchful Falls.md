@@ -7,46 +7,14 @@ source: "https://thelongdark.fandom.com/wiki/Watchful_Falls"
 
 # Watchful Falls
 
-<div>
+**Watchful Falls**
 
-<table class="infobox">
-<caption>Watchful Falls</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Watchful_Falls.jpg]</span>
-<figcaption>Watchful_Falls.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Watchful_Falls_Location.png]</span>
-<figcaption>Watchful_Falls_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>A waterfall.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Watchful_Falls.jpg) / *Watchful\_Falls.jpg* |
+| **Location** |  |
+|  | ![](../assets/Watchful_Falls_Location.png) / *Watchful\_Falls\_Location.png* |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| Description | A waterfall. |
+| **General** |  |
+| Type | Outdoors\|- |

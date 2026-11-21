@@ -7,86 +7,38 @@ source: "https://thelongdark.fandom.com/wiki/Suffocation_Risk"
 
 # Suffocation Risk
 
-<div>
-
 **Contents**
 
-- [Overview](#Overview)
-- [Affliction](#Affliction)
-- [Notes](#Notes)
-- [Update history](#Update_history)
+- [Overview](#overview)
+- [Affliction](#affliction)
+- [Notes](#notes)
+- [Update history](#update-history)
 
-<table class="infobox">
-<caption>Suffocation Risk</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Suffocation_Risk_icon.png]</span>
-<figcaption>Suffocation_Risk_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95" class="wikilink" title="6 October 2021">6 October 2021</a></p></td>
-</tr>
-<tr>
-<td><p>Update</p></td>
-<td><p>1.95</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Category</p></td>
-<td><p><a href="./Afflictions.md" class="wikilink" title="Afflictions">Afflictions</a></p></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>You are running out of air to breathe. Find a pocket of clear air or equip a Respirator before you die.</p></td>
-</tr>
-<tr>
-<td><p>Caused By</p></td>
-<td><p>Polluted Air</p></td>
-</tr>
-<tr>
-<td><p>Effect</p></td>
-<td><p>Negative</p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Risk</p></td>
-</tr>
-<tr>
-<td><p>Affliction Duration</p></td>
-<td><p>Until Treated</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Treatment</strong></p></td>
-</tr>
-<tr>
-<td><p>Treatment</p></td>
-<td><p>Find breathable air or equip a <img src="../assets/Respirator_icon.png" loading="lazy" width="29" height="29" alt="Respirator_icon.png" /> <a href="./Respirator.md" class="wikilink" title="Respirator">Respirator</a> with <img src="../assets/Canister_icon.png" loading="lazy" width="29" height="29" alt="Canister_icon.png" /> <a href="./Canister.md" class="wikilink" title="Canister">Canister</a></p></td>
-</tr>
-<tr>
-<td><p>Recovery Time</p></td>
-<td><p>Immediate</p></td>
-</tr>
-</tbody>
-</table>
+**Suffocation Risk**
 
-**Suffocation Risk** is a very short but highly lethal <a href="./Afflictions.md" class="wikilink" title="Affliction">Affliction</a> that occurs when the player character is exposed to toxic airborne gases. It is a rare but incredibly dangerous Affliction to encounter in <a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a>, being present only within the <a href="./Last%20Prospect.md" class="wikilink" title="Last Prospect">Last Prospect</a> mine and the <a href="./Langston%20Mine.md" class="wikilink" title="Langston Mine">Langston Mine</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Suffocation_Risk_icon.png) / *Suffocation\_Risk\_icon.png* |
+| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95) |
+| Update | 1.95 |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Description | You are running out of air to breathe. Find a pocket of clear air or equip a Respirator before you die. |
+| Caused By | Polluted Air |
+| Effect | Negative |
+| Type | Risk |
+| Affliction Duration | Until Treated |
+| **Treatment** |  |
+| Treatment | Find breathable air or equip a ![Respirator\_icon.png](../assets/Respirator_icon.png) [Respirator](./Respirator.md) with ![Canister\_icon.png](../assets/Canister_icon.png) [Canister](./Canister.md) |
+| Recovery Time | Immediate |
 
-It was first present in <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a>, specifically <a href="./Episode%204%20-%20Fury%2C%20Then%20Silence.md" class="wikilink" title="Episode 4: Fury, then Silence">Episode 4: Fury, then Silence</a>, where it can be encountered in three separate locations. Several areas of the Last Prospect mine, <a href="./Donner.md" class="wikilink" title="one smoke filled section">one smoke filled section</a> of <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a>, and the destroyed <a href="./Steam%20Tunnels.md" class="wikilink" title="Steam Tunnels">Steam Tunnels</a> near the end of the episode.
+**Suffocation Risk** is a very short but highly lethal [Affliction](./Afflictions.md) that occurs when the player character is exposed to toxic airborne gases. It is a rare but incredibly dangerous Affliction to encounter in [Survival Mode](./Survival%20Mode.md), being present only within the [Last Prospect](./Last%20Prospect.md) mine and the [Langston Mine](./Langston%20Mine.md).
+
+It was first present in [Wintermute](./Wintermute.md), specifically [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md), where it can be encountered in three separate locations. Several areas of the Last Prospect mine, [one smoke filled section](./Donner.md) of [Blackrock Prison](./Blackrock%20Prison.md), and the destroyed [Steam Tunnels](./Steam%20Tunnels.md) near the end of the episode.
 
 ## Overview
 
-|  |  |  |
-|----|----|----|
-| “ | <span style="font-style:italic">You are running out of air to breathe. Find a pocket of clear air or equip a Respirator before you die.</span> | ” |
+> “**You are running out of air to breathe. Find a pocket of clear air or equip a Respirator before you die.**”
 
 Unlike most other Afflictions, Suffocation Risk does not build up over time, instead being replaced with a timer in the bottom left corner of the screen that counts down in real seconds as long as the player character remains within a toxic cloud's area of effect. The player's vision will also begin to blur as the player character begins coughing and tearing up from breathing in the gas, along with a noticeable loss of hearing.
 
@@ -95,30 +47,24 @@ The maximum amount of time on the timer is as follows:
 - Survival Mode: 50 second timer across all Expereinces.
 - Wintermute: 30-60 second timer depending on difficulty chosen.
 
-Wearing a <a href="./Respirator.md" class="wikilink" title="Respirator">Respirator</a> with sufficient <a href="./Canister.md" class="wikilink" title="Canisters">Canisters</a> may also be equipped to prevent Suffocation and adds 45 seconds of breathable air when passing through a gas cloud. Once the Condition of air Canisters is ruined, the player will begin to suffocate again if they run out of replacements, even when wearing the Respirator.
+Wearing a [Respirator](./Respirator.md) with sufficient [Canisters](./Canister.md) may also be equipped to prevent Suffocation and adds 45 seconds of breathable air when passing through a gas cloud. Once the Condition of air Canisters is ruined, the player will begin to suffocate again if they run out of replacements, even when wearing the Respirator.
 
 ## Affliction
 
-Once the timer reaches 0, <u>**the player will die instantly**</u>, regardless of how much <a href="./Condition.md" class="wikilink" title="Condition">Condition</a> they have left (similar to falling from an extreme height). Reaching an area with clean air will reset the countdown and slowly restore the player character's vision and hearing. Forcing clean air into the gas clouds using nearby machinery, such as in the Last Prospect mines in Episode 4 with a <a href="./Valve%20Socket%20Handle.md" class="wikilink" title="Valve Socket Handle">Valve Socket Handle</a> (Wintermute Only), will also reset the countdown.
+Once the timer reaches 0, ***the player will die instantly***, regardless of how much [Condition](./Condition.md) they have left (similar to falling from an extreme height). Reaching an area with clean air will reset the countdown and slowly restore the player character's vision and hearing. Forcing clean air into the gas clouds using nearby machinery, such as in the Last Prospect mines in Episode 4 with a [Valve Socket Handle](./Valve%20Socket%20Handle.md) (Wintermute Only), will also reset the countdown.
 
 ## Notes
 
-- Suffocation was introduced in <a href="./Episode%204%20-%20Fury%2C%20Then%20Silence.md" class="wikilink" title="Episode 4">Episode 4</a> of the Wintermute story mode campaign. It was later added to Survival Mode in the Perilous Constraint update. Further more, it was reintroduced in the Langston Mine in the Buried Echoes update in the <a href="./Zone%20of%20Contamination.md" class="wikilink" title="Zone of Contamination">Zone of Contamination</a>.
-- It is impossible to burn toxic mineshaft gas up with any fire source, such as <a href="./Campfire.md" class="wikilink" title="campfires">campfires</a>, <a href="./Noisemaker.md" class="wikilink" title="noisemakers">noisemakers</a>, <a href="./Torch.md" class="wikilink" title="torches">torches</a>, <a href="./Wood%20Matches.md" class="wikilink" title="matches">matches</a>, or gunfire, as the gas is not flammable.
+- Suffocation was introduced in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the Wintermute story mode campaign. It was later added to Survival Mode in the Perilous Constraint update. Further more, it was reintroduced in the Langston Mine in the Buried Echoes update in the [Zone of Contamination](./Zone%20of%20Contamination.md).
+- It is impossible to burn toxic mineshaft gas up with any fire source, such as [campfires](./Campfire.md), [noisemakers](./Noisemaker.md), [torches](./Torch.md), [matches](./Wood%20Matches.md), or gunfire, as the gas is not flammable.
 
 ## Update history
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type hotfix">HOTFIX</span> **14 April 2023 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.14" class="wikilink" title="Update">Update</a>):**</span>
+- HOTFIX **14 April 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.14)):**
   - Fixed an issue that caused graphical corruption when entering areas that contain a risk of Suffocation (such as the Steam Tunnels in Episode Four), or when enabling the Heritage Filter in the Display Options.
-- <span class="update-list"><span class="update-type update">UPDATE</span> **6 April 2023 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.00" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **6 April 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.00)):**
   - \[EP 4\] Fixed an issue that would cause Players to become stuck in the Suffocating state if they saved and reloaded while suffocating.
-- <span class="update-list"><span class="update-type update">UPDATE</span> **6 October 2021 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.95)):**
   - Added to game.
 
-</div>
-
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

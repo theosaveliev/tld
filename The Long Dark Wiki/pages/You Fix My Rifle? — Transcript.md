@@ -7,82 +7,49 @@ source: "https://thelongdark.fandom.com/wiki/You_Fix_My_Rifle%3F%2FTranscript"
 
 # You Fix My Rifle?/Transcript
 
-<div>
-
 **Contents**
 
-- [Find the Railway Maintenance Yard and get into the repair shed.](#Find_the_Railway_Maintenance_Yard_and_get_into_the_repair_shed.)
-- [Use the hand-driven milling machine to repair Jeremiah's rifle.](#Use_the_hand-driven_milling_machine_to_repair_Jeremiah%27s_rifle.)
-- [Look for more info about the Forest Talkers at the old Hunting Lodge.](#Look_for_more_info_about_the_Forest_Talkers_at_the_old_Hunting_Lodge.)
-- [Search the Lodge for supplies. Something here could save your life.](#Search_the_Lodge_for_supplies._Something_here_could_save_your_life.)
-- [Get back to Jeremiah.](#Get_back_to_Jeremiah.)
-- [Jeremiah's Trust](#Jeremiah%27s_Trust)
-- [Items That Increase Trust](#Items_That_Increase_Trust)
-- [Things that lose Trust](#Things_that_lose_Trust)
-- [Trust Levels And Unlocks](#Trust_Levels_And_Unlocks)
+- [Find the Railway Maintenance Yard and get into the repair shed.](#find-the-railway-maintenance-yard-and-get-into-the-repair-shed)
+- [Use the hand-driven milling machine to repair Jeremiah's rifle.](#use-the-hand-driven-milling-machine-to-repair-jeremiahs-rifle)
+- [Look for more info about the Forest Talkers at the old Hunting Lodge.](#look-for-more-info-about-the-forest-talkers-at-the-old-hunting-lodge)
+- [Search the Lodge for supplies. Something here could save your life.](#search-the-lodge-for-supplies-something-here-could-save-your-life)
+- [Get back to Jeremiah.](#get-back-to-jeremiah)
+- [Jeremiah's Trust](#jeremiahs-trust)
+- [Items That Increase Trust](#items-that-increase-trust)
+- [Things that lose Trust](#things-that-lose-trust)
+- [Trust Levels And Unlocks](#trust-levels-and-unlocks)
 
-<table class="infobox">
-<caption>You Fix My Rifle?/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: The_Long_Dark_-_episode_two_milling_machine_for_rifle.png]</span>
-<figcaption>The_Long_Dark_-_episode_two_milling_machine_for_rifle.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./Risk%20of%20Infection%20%E2%80%94%20Transcript.md" class="wikilink" title="Risk of Infection/Transcript">Risk of Infection/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>You Fix My Rifle?/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md" class="wikilink" title="Survival School (Predux)/Transcript">Survival School (Predux)/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake (region)">Mystery Lake (region)</a> <a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a><br />
-<a href="./Broken%20Railroad.md" class="wikilink" title="Broken Railroad">Broken Railroad</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a><br />
-<a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a><br />
-<a href="./Old%20Bear.md" class="wikilink" title="Old Bear">Old Bear</a></p></td>
-</tr>
-</tbody>
-</table>
+**You Fix My Rifle?/Transcript**
 
-This is the transcript for Chapter 2 You Fix My Rifle? for Predux <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2: Luminance Fugue">Episode 2: Luminance Fugue</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) / *The\_Long\_Dark\_-\_episode\_two\_milling\_machine\_for\_rifle.png* |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md) |
+| Current | You Fix My Rifle?/Transcript |
+| Next | [Survival School (Predux)/Transcript](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md) |
+| Region | [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
 
-## Find the Railway <a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a> and get into the repair shed.
+This is the transcript for Chapter 2 You Fix My Rifle? for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
+
+## Find the Railway [Maintenance Yard](./Maintenance%20Yard.md) and get into the repair shed.
 
 CHAPTER TWO
 
 YOU FIX MY RIFLE?
 
-*After leaving the <a href="./Trapper%27s%20Homestead.md" class="wikilink" title="Trapper&#39;s Homestead">Trapper's Homestead</a>, if the player attempts to enter <a href="./The%20Ravine.md" class="wikilink" title="The Ravine">The Ravine</a> by the Carter Staging Area or re-enter <a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a> by Trapper's Cabin, Mackenzie will say:*
+*After leaving the [Trapper's Homestead](./Trapper%27s%20Homestead.md), if the player attempts to enter [The Ravine](./The%20Ravine.md) by the Carter Staging Area or re-enter [Mountain Town](./Mountain%20Town.md) by Trapper's Cabin, Mackenzie will say:*
 
 - Mackenzie: "I'd better stay focused."
 - Mackenzie: "I can't afford to get distracted."
 - Mackenzie: "That's not the right way."
 
-*Mackenzie leaves the <a href="./Trapper%27s%20Homestead.md" class="wikilink" title="Trapper&#39;s Homestead">Trapper's Homestead</a> and heads south, entering <a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a>. He passes through the region without any eventful encounters, aside from a scripted Wolf feeding on a Deer Carcass in the middle of the tracks. He passes through the region into <a href="./Broken%20Railroad.md" class="wikilink" title="Broken Railroad">Broken Railroad</a>, and navigates around a <a href="./Landslide.md" class="wikilink" title="Landslide">Landslide</a>, before passing a <a href="./Locomotive%20Engine.md" class="wikilink" title="Locomotive Engine">Locomotive Engine</a>. He walks past it, entering the <a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a> and the Shed.*
+*Mackenzie leaves the [Trapper's Homestead](./Trapper%27s%20Homestead.md) and heads south, entering [Forlorn Muskeg](./Forlorn%20Muskeg.md). He passes through the region without any eventful encounters, aside from a scripted Wolf feeding on a Deer Carcass in the middle of the tracks. He passes through the region into [Broken Railroad](./Broken%20Railroad.md), and navigates around a [Landslide](./Landslide.md), before passing a [Locomotive Engine](./Locomotive%20Engine.md). He walks past it, entering the [Maintenance Yard](./Maintenance%20Yard.md) and the Shed.*
 
 ## Use the hand-driven milling machine to repair Jeremiah's rifle.
 
-*Inside, he spots the <a href="./Hand-Powered%20Milling%20Tool.md" class="wikilink" title="Hand-Powered Milling Tool">Hand-Powered Milling Tool</a> and walks to it as a cutscene plays*
+*Inside, he spots the [Hand-Powered Milling Tool](./Hand-Powered%20Milling%20Tool.md) and walks to it as a cutscene plays*
 
 *Mackenzie trips on a corpse and hits his head into the corner of the metal table, staggering on the floor and holding his head with his hand*
 
@@ -104,7 +71,7 @@ Mackenzie: "I have to stay focused on the task at hand."
 
 Mackenzie: "This is what I'm looking for."
 
-*He picks up a pair of <a href="./Bolt%20Cutters.md" class="wikilink" title="Bolt Cutters">Bolt Cutters</a> lying nearby and then starts repairing <a href="./Jeremiah%27s%20Broken%20Rifle.md" class="wikilink" title="Jeremiah&#39;s Broken Rifle">Jeremiah's Broken Rifle</a>. After some time passes, Mackenzie <a href="./Jeremiah%27s%20Repaired%20Rifle.md" class="wikilink" title="repairs the Rifle">repairs the Rifle</a> and leaves the shed, preparing to go to the Lodge mentioned in the note*
+*He picks up a pair of [Bolt Cutters](./Bolt%20Cutters.md) lying nearby and then starts repairing [Jeremiah's Broken Rifle](./Jeremiah%27s%20Broken%20Rifle.md). After some time passes, Mackenzie [repairs the Rifle](./Jeremiah%27s%20Repaired%20Rifle.md) and leaves the shed, preparing to go to the Lodge mentioned in the note*
 
 ## Look for more info about the Forest Talkers at the old Hunting Lodge.
 
@@ -134,30 +101,22 @@ Mackenzie: "Wow...this must have been really nice, once upon a time."
 
 Mackenzie: "Hmm...looks like this might be where those eco-terrorists were hiding out. Let's see if they left anything useful."
 
-*Mackenzie heads downstairs and finds a <a href="./Flashlight.md" class="wikilink" title="Flashlight">Flashlight</a> and a cutscene plays. He picks it up, shaking it and slowly smacking the head, but it does not work*
+*Mackenzie heads downstairs and finds a [Flashlight](./Flashlight.md) and a cutscene plays. He picks it up, shaking it and slowly smacking the head, but it does not work*
 
 Mackenzie: "Battery's probably dead. Still...might come in handy at night."
 
 *He puts it in his back pocket and the cutscene ends. A tutorial message pops up*
 
-Flashlight{\| style="margin:auto" \| style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" \|“ \| <span style="font-style:italic">They Hate the Light\
-As you explore the world, you may discover that some electrical tools that have been inert since the First Flare, like Flashlights, are brought to life by the strange aurora lights in the night sky. The Flashlight can help you find your way in the darkness. It may also have unexpected effects on wildlife.</span>
-
-<div style="clear:both">
-
-</div>
-
-<div style="float:right; font-size:9pt">
+Flashlight{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **They Hate the Light  
+ As you explore the world, you may discover that some electrical tools that have been inert since the First Flare, like Flashlights, are brought to life by the strange aurora lights in the night sky. The Flashlight can help you find your way in the darkness. It may also have unexpected effects on wildlife.**
 
 What I Know description
 
-</div>
-
-\| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" \|” \|}*A phone begins ringing upstairs. If the player heads back downstairs and check the table at the end of the basement, Mackenzie will find the <a href="./Forest%20Talker%20Map%20Note.md" class="wikilink" title="Forest Talker Map Note">Forest Talker Map Note</a>*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}*A phone begins ringing upstairs. If the player heads back downstairs and check the table at the end of the basement, Mackenzie will find the [Forest Talker Map Note](./Forest%20Talker%20Map%20Note.md)*
 
 Mackenzie: "Well well...what do we have here?"
 
-*Mackenzie eventually goes up to check on the ringing, and finds a <a href="./Phone%20Box.md" class="wikilink" title="Phone Box">Phone Box</a> near the front door, but the call goes silent the moment he leaves the basement. His attention instead turns to the <a href="./Hunting%20Lodge%20Rifle.md" class="wikilink" title="Hunting Lodge Rifle">Hunting Lodge Rifle</a> over the nearby fireplace, and a cutscene begins*
+*Mackenzie eventually goes up to check on the ringing, and finds a [Phone Box](./Phone%20Box.md) near the front door, but the call goes silent the moment he leaves the basement. His attention instead turns to the [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) over the nearby fireplace, and a cutscene begins*
 
 *He takes it off the gun rack and looks it over, blowing dust off it. Mackenzie then aims it and looks down the iron sites*
 
@@ -165,26 +124,18 @@ Mackenzie: "Not much for guns, but...after what I've been through lately - - bet
 
 *The cutscene ends and a tutorial message pops up once the player leaves the Lodge*
 
-Rifle{\| style="margin:auto" \| style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" \|“ \| <span style="font-style:italic">Use Guns Wisely\
-Rifle condition affects its reliability. Use a Rifle Cleaning Kit to keep it in good-working order. Take care of your rifle, and it'll take care of you. You wouldn't want it to jam when you need it most.</span>
-
-<div style="clear:both">
-
-</div>
-
-<div style="float:right; font-size:9pt">
+Rifle{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Use Guns Wisely  
+ Rifle condition affects its reliability. Use a Rifle Cleaning Kit to keep it in good-working order. Take care of your rifle, and it'll take care of you. You wouldn't want it to jam when you need it most.**
 
 What I Know description
 
-</div>
-
-\| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" \|” \|}*Mackenzie prepares to return to Jeremiah with his repaired Rifle, and a few other goodies he found at the Lodge.*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}*Mackenzie prepares to return to Jeremiah with his repaired Rifle, and a few other goodies he found at the Lodge.*
 
 ## Get back to Jeremiah.
 
 *The walk back to Jeremiah is largely an uneventful one, but once Mackenzie enters Forlorn Muskeg and walks past the timber rail cars, he sees the Old Bear. Doing what Jeremiah said, he avoids the beast, and makes his way back to Mystery Lake and eventually the Trapper's Homestead. A cutscene begins as Mackenzie walks inside*
 
-*Jeremiah is sitting on his cot, looking much better. Empty cans of <a href="./Pork%20and%20Beans.md" class="wikilink" title="Pork and Beans">Pork and Beans</a> and <a href="./Pinnacle%20Peaches.md" class="wikilink" title="Pinnacle Peaches">Pinnacle Peaches</a> lie at his feet and all over his Work Bench, as well as a bonus Cariboo alcohol bottle. He laughs as he sees Mackenzie walk in*
+*Jeremiah is sitting on his cot, looking much better. Empty cans of [Pork and Beans](./Pork%20and%20Beans.md) and [Pinnacle Peaches](./Pinnacle%20Peaches.md) lie at his feet and all over his Work Bench, as well as a bonus Cariboo alcohol bottle. He laughs as he sees Mackenzie walk in*
 
 Jeremiah: "Ha. Well... You look like hell, Mackenzie."
 
@@ -218,12 +169,12 @@ Mackenzie: "Hmph."
 
 #### Items That Increase Trust
 
-- +1 <a href="./Stick.md" class="wikilink" title="Stick">Stick</a>
-- +3 <a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a>
-- +3 <a href="./Old%20Man%27s%20Beard%20Wound%20Dressing.md" class="wikilink" title="Old Man&#39;s Beard Wound Dressing">Old Man's Beard Wound Dressing</a>
-- +10 <a href="./Pork%20and%20Beans.md" class="wikilink" title="Pork and Beans">Pork and Beans</a>
-- +25 <a href="./Fresh%20Rabbit%20Pelt.md" class="wikilink" title="Fresh Rabbit Pelt">Fresh Rabbit Pelt</a> or <a href="./Cured%20Rabbit%20Pelt.md" class="wikilink" title="Cured Rabbit Pelt">Cured Rabbit Pelt</a>
-- +30 <a href="./Fresh%20Deer%20Hide.md" class="wikilink" title="Fresh Deer Hide">Fresh Deer Hide</a> or <a href="./Cured%20Deer%20Hide.md" class="wikilink" title="Cured Deer Hide">Cured Deer Hide</a>
+- +1 [Stick](./Stick.md)
+- +3 [Cloth](./Cloth.md)
+- +3 [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md)
+- +10 [Pork and Beans](./Pork%20and%20Beans.md)
+- +25 [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md) or [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)
+- +30 [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) or [Cured Deer Hide](./Cured%20Deer%20Hide.md)
 
 ### Things that lose Trust
 
@@ -233,14 +184,14 @@ Mackenzie: "Hmph."
 
 #### Trust Levels And Unlocks
 
-- 25 Trust: Knowledge: Mystery Lake - Worldbuilding information about Mystery Lake. (Unlocks <a href="./Mystery%20Lake%20%26%20Area.md" class="wikilink" title="Mystery Lake &amp; Area">Mystery Lake &amp; Area</a> <a href="./What%20I%20Know.md" class="wikilink" title="What I Know">What I Know</a> Knowledge)
-- 50 Trust: Cache Location - The location of a Supply Cache, updated on your Map. (Unlocks a cache for <a href="./Mystery%20Lake%20Supply%20Caches.md" class="wikilink" title="Mystery Lake Supply Caches">Mystery Lake Supply Caches</a>)
-- 75 Trust: Knowledge: Blueprint: Improvised Hatchet - Unlocks the Crafting Blueprint for Improvised Hatchet (unlocks the <a href="./Forge%20Blueprints.md" class="wikilink" title="Forge Blueprints">Forge Blueprints</a> side mission)
-- 125 Trust: Knowledge: Carter Dam - Worldbuilding information about Carter Hydro Dam. (Unlocks <a href="./Carter%20Hydro%20Dam%20%28Collectible%29.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a> <a href="./What%20I%20Know.md" class="wikilink" title="What I Know">What I Know</a> Knowledge)
+- 25 Trust: Knowledge: Mystery Lake - Worldbuilding information about Mystery Lake. (Unlocks [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md) [What I Know](./What%20I%20Know.md) Knowledge)
+- 50 Trust: Cache Location - The location of a Supply Cache, updated on your Map. (Unlocks a cache for [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md))
+- 75 Trust: Knowledge: Blueprint: Improvised Hatchet - Unlocks the Crafting Blueprint for Improvised Hatchet (unlocks the [Forge Blueprints](./Forge%20Blueprints.md) side mission)
+- 125 Trust: Knowledge: Carter Dam - Worldbuilding information about Carter Hydro Dam. (Unlocks [Carter Hydro Dam](./Carter%20Hydro%20Dam%20%28Collectible%29.md) [What I Know](./What%20I%20Know.md) Knowledge)
 - 175 Trust: Blueprint: Deerskin Pants and Deerskin Boots - Unlocks the Crafting Blueprint for Deerskin Pants and Deerskin Boots.
 - 225 Trust: Blueprint: Snow Shelter - Unlocks the Crafting Blueprint for the Snow Shelter.
-- 300 Trust: Knowledge: Aurora Observations - Worldbuilding information about the Aurora. (Unlocks <a href="./History%20of%20The%20Collapse.md" class="wikilink" title="History of The Collapse">History of The Collapse</a> Part 3 and 4 <a href="./What%20I%20Know.md" class="wikilink" title="What I Know">What I Know</a> Knowledge)
-- 375 Trust: Side Mission: Old Letters - Jeremiah Wants you to find and destroy some of his old letters. (Unlocks <a href="./Jeremiah%27s%20Hideout.md" class="wikilink" title="Jeremiah&#39;s Hideout">Jeremiah's Hideout</a> side mission)
+- 300 Trust: Knowledge: Aurora Observations - Worldbuilding information about the Aurora. (Unlocks [History of The Collapse](./History%20of%20The%20Collapse.md) Part 3 and 4 [What I Know](./What%20I%20Know.md) Knowledge)
+- 375 Trust: Side Mission: Old Letters - Jeremiah Wants you to find and destroy some of his old letters. (Unlocks [Jeremiah's Hideout](./Jeremiah%27s%20Hideout.md) side mission)
 
 Jeremiah **(Text)**: "Something on your mind?"
 
@@ -358,6 +309,4 @@ Mackenzie **(Text)**: "What do you need a bunker for out here?"
 
 Jeremiah **(Text)**: "I have my reasons. Burn those letters. And take whatever else you need from there."
 
-The story continues in <a href="./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md" class="wikilink" title="Survival School (Predux)/Transcript">Survival School (Predux)/Transcript</a>. **Lua execution error in Module:Navbox function navbox**
-
-</div>
+The story continues in [Survival School (Predux)/Transcript](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**

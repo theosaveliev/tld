@@ -7,177 +7,67 @@ source: "https://thelongdark.fandom.com/wiki/Moose_Meat_(Cooked)"
 
 # Moose Meat \(Cooked\)
 
-<div>
-
 **Contents**
 
-- [Overview](#Overview)
-- [Recipe](#Recipe)
-- [Gallery](#Gallery)
-- [Update history](#Update_history)
+- [Overview](#overview)
+- [Recipe](#recipe)
+- [Gallery](#gallery)
+- [Update history](#update-history)
 
-<table class="infobox">
-<caption>Moose Meat (Cooked)</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Moose_Meat_%28Cooked%29_icon.png" loading="lazy" width="250" />
-<figcaption>Moose_Meat_(Cooked)_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16" class="wikilink" title="7 December 2017">7 December 2017</a></p></td>
-</tr>
-<tr>
-<td><p>Wintermute</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Item type</p></td>
-<td><p><a href="./Food%20And%20Drink.md" class="wikilink" title="Food And Drink">Food And Drink</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Stackable</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><p>Examine</p></td>
-<td><p>Cooked flesh from a Moose. Tastier than you would expect.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Calories</p></td>
-<td><p>900 kcal</p></td>
-</tr>
-<tr>
-<td><p>Hydration</p></td>
-<td><p>-5%</p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>1.00 kg (2.2 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Advanced data</strong></p></td>
-</tr>
-<tr>
-<td><p>Item key</p></td>
-<td><p>GAMEPLAY_CookedMeatMoose</p></td>
-</tr>
-</tbody>
-</table>
+**Moose Meat (Cooked)**
 
-  
-<span class="dablink">*For the raw version, see <a href="./Moose%20Meat%20%28Raw%29.md" class="wikilink" title="Moose Meat (Raw)">Moose Meat (Raw)</a>.*</span>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Moose_Meat_%28Cooked%29_icon.png) / *Moose\_Meat\_(Cooked)\_icon.png* |
+| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Cooked flesh from a Moose. Tastier than you would expect. |
+| **Values** |  |
+| Calories | 900 kcal |
+| Hydration | -5% |
+| Weight | 1.00 kg (2.2 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_CookedMeatMoose |
 
-**Moose Meat (Cooked)** is a cooked <a href="./Food%20And%20Drink.md" class="wikilink" title="food">food</a> item in *The Long Dark*.
+*For the raw version, see [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md).*
+
+**Moose Meat (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in *The Long Dark*.
 
 ## Overview
 
-Cooked Moose Meat is obtained by using a lit <a href="./Fire.md" class="wikilink" title="Fire">Fire</a> and improves the <a href="./Cooking.md" class="wikilink" title="Cooking">Cooking</a> skill. Cooking increases its condition by 50%, makes it decay 4 times slower than raw meat, and adds a reduced chance of <a href="./Food%20Poisoning.md" class="wikilink" title="Food Poisoning">Food Poisoning</a> over raw meat.
+Cooked Moose Meat is obtained by using a lit [Fire](./Fire.md) and improves the [Cooking](./Cooking.md) skill. Cooking increases its condition by 50%, makes it decay 4 times slower than raw meat, and adds a reduced chance of [Food Poisoning](./Food%20Poisoning.md) over raw meat.
 
-Using a <a href="./Cooking%20Pot.md" class="wikilink" title="Cooking Pot">Cooking Pot</a> reduces cooking time by 25%. Cooked food on an active fire for too long will burn it, destroying the item and damaging a Cooking Pot if used.
+Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked food on an active fire for too long will burn it, destroying the item and damaging a Cooking Pot if used.
 
 ## Recipe
 
-<table class="infobox">
-<caption>Moose Meat (Cooked)</caption>
-<tbody>
-<tr>
-<td colspan="2"><p><strong>Template:pic link plain</strong><a href="./Cooking.md" class="wikilink" title="Cooking">Cooking</a></p></td>
-</tr>
-<tr>
-<td colspan="2"><p>-</p></td>
-</tr>
-<tr>
-<td colspan="2"><p>81.25 minutes (1 hour 21.25 minutes)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Requirements</strong></p></td>
-</tr>
-<tr>
-<td><p>Facility</p></td>
-<td><p><strong>Template:iconlink</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Materials</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Template:iconlink plain</strong></p></td>
-</tr>
-<tr>
-<td><p>Item</p></td>
-<td><p><a href="./Moose%20Meat%20%28Raw%29.md" class="wikilink" title="Moose Meat (Raw)">Moose Meat (Raw)</a></p></td>
-</tr>
-<tr>
-<td><p>Quantity</p></td>
-<td><p>1.00 kg</p></td>
-</tr>
-</tbody>
-</table>
+**Moose Meat (Cooked)**
+
+| Property | Details |
+| --- | --- |
+| **Template:pic link plain**[Cooking](./Cooking.md)** |  |
+|  | - |
+|  | 81.25 minutes (1 hour 21.25 minutes) |
+| **Requirements** |  |
+| Facility | **Template:iconlink** |
+| **Materials** |  |
+| **Template:iconlink plain** |  |
+| Item | [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) |
+| Quantity | 1.00 kg |
 
 ## Gallery
 
-<table class="gallery">
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Moose_Meat_%28Cooked%29_Gamey_icon.png" title="Fresh" loading="lazy" width="140" />
-<figcaption>Fresh</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Moose_Meat_%28Cooked%29_Gamey_icon.png" title="Gamey" loading="lazy" width="140" />
-<figcaption>Gamey</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Moose_Meat_%28Cooked%29_Mouldy_icon.png" title="Mouldy" loading="lazy" width="140" />
-<figcaption>Mouldy</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Moose_Meat_%28Cooked%29_Rancid_icon.png" title="Rancid" loading="lazy" width="140" />
-<figcaption>Rancid</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Moose_Meat_%28Cooked%29_Ruined_icon.png" title="Ruined" loading="lazy" width="140" />
-<figcaption>Ruined</figcaption>
-</figure></td>
-<td><figure>
-<img src="../assets/Moose_Meat_%28Cooked%29_Old_Model.png" title="Old Model" loading="lazy" width="140" />
-<figcaption>Old Model</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| --- | --- | --- | --- |
+| ![Fresh](../assets/Moose_Meat_%28Cooked%29_Gamey_icon.png) / *Fresh* | ![Gamey](../assets/Moose_Meat_%28Cooked%29_Gamey_icon.png) / *Gamey* | ![Mouldy](../assets/Moose_Meat_%28Cooked%29_Mouldy_icon.png) / *Mouldy* | ![Rancid](../assets/Moose_Meat_%28Cooked%29_Rancid_icon.png) / *Rancid* |
+| ![Ruined](../assets/Moose_Meat_%28Cooked%29_Ruined_icon.png) / *Ruined* | ![Old Model](../assets/Moose_Meat_%28Cooked%29_Old_Model.png) / *Old Model* |  |  |
 
 ## Update history
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **7 December 2017 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)):**
   - Added to game.
 
-</div>
-
-**Lua execution error in Module:Navbox function navbox** <a href="ru:%D0%9C%D1%8F%D1%81%D0%BE_%D0%BB%D0%BE%D1%81%D1%8F_(%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5)" class="wikilink" title="ru:Мясо лося (приготовленное)">ru:Мясо лося (приготовленное)</a>
-
-</div>
+**Lua execution error in Module:Navbox function navbox** [ru:Мясо лося (приготовленное)](ru:%D0%9C%D1%8F%D1%81%D0%BE_%D0%BB%D0%BE%D1%81%D1%8F_%28%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%29)

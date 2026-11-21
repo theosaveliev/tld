@@ -7,64 +7,32 @@ source: "https://thelongdark.fandom.com/wiki/The_Grey_Mother%2FTranscript"
 
 # The Grey Mother/Transcript
 
-<div>
-
 **Contents**
 
-- [Transcript](#Transcript)
-- [Find supplies to help keep Grey Mother alive.](#Find_supplies_to_help_keep_Grey_Mother_alive.)
-- [Return to Grey Mother](#Return_to_Grey_Mother)
-- [Grey Mother thinks something happened at the tunnel leading out from Milton. Investigate.](#Grey_Mother_thinks_something_happened_at_the_tunnel_leading_out_from_Milton._Investigate.)
-- [Something precious was stolen from Grey Mother. Find it, and return it to her.](#Something_precious_was_stolen_from_Grey_Mother._Find_it%2C_and_return_it_to_her.)
-- [Dealing with Hobbs](#Dealing_with_Hobbs)
+- [Transcript](#transcript)
+- [Find supplies to help keep Grey Mother alive.](#find-supplies-to-help-keep-grey-mother-alive)
+- [Return to Grey Mother](#return-to-grey-mother)
+- [Grey Mother thinks something happened at the tunnel leading out from Milton. Investigate.](#grey-mother-thinks-something-happened-at-the-tunnel-leading-out-from-milton-investigate)
+- [Something precious was stolen from Grey Mother. Find it, and return it to her.](#something-precious-was-stolen-from-grey-mother-find-it-and-return-it-to-her)
+- [Dealing with Hobbs](#dealing-with-hobbs)
 
-<table class="infobox">
-<caption>The Grey Mother/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/The_Grey_Mother.png" loading="lazy" width="250" />
-<figcaption>The_Grey_Mother.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%201%20-%20Do%20Not%20Go%20Gentle.md" class="wikilink" title="Episode 1">Episode 1</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./The%20Crash%20%E2%80%94%20Transcript.md" class="wikilink" title="The Crash/Transcript">The Crash/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>The Grey Mother/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./Paradise%20Lost%20%E2%80%94%20Transcript.md" class="wikilink" title="Paradise Lost/Transcript">Paradise Lost/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a> <a href="./Grey%20Mother.md" class="wikilink" title="Grey Mother">Grey Mother</a><br />
-<a href="./Methuselah.md" class="wikilink" title="Methuselah">Methuselah</a><br />
-<a href="./Hobbs.md" class="wikilink" title="Hobbs">Hobbs</a></p></td>
-</tr>
-</tbody>
-</table>
+**The Grey Mother/Transcript**
 
-This is the mission transcript for mission 3 <a href="./The%20Grey%20Mother.md" class="wikilink" title="The Grey Mother">The Grey Mother</a> of <a href="./Episode%201%20-%20Do%20Not%20Go%20Gentle.md" class="wikilink" title="Episode 1: Do Not Go Gentle">Episode 1: Do Not Go Gentle</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/The_Grey_Mother.png) / *The\_Grey\_Mother.png* |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
+| Previous | [The Crash/Transcript](./The%20Crash%20%E2%80%94%20Transcript.md) |
+| Current | The Grey Mother/Transcript |
+| Next | [Paradise Lost/Transcript](./Paradise%20Lost%20%E2%80%94%20Transcript.md) |
+| Region | [Mountain Town](./Mountain%20Town.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md) / [Methuselah](./Methuselah.md) / [Hobbs](./Hobbs.md) |
+
+This is the mission transcript for mission 3 [The Grey Mother](./The%20Grey%20Mother.md) of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
 ## Transcript
 
-*The chapter name appears on the screen shortly after speaking with <a href="./Grey%20Mother.md" class="wikilink" title="Grey Mother">Grey Mother</a>.*
+*The chapter name appears on the screen shortly after speaking with [Grey Mother](./Grey%20Mother.md).*
 
 CHAPTER 3
 
@@ -74,13 +42,13 @@ THE GREY MOTHER
 
 - Mainlander?
 
-<a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a>: "You keep calling me a Mainlander. Why?"
+[Will Mackenzie](./Will%20Mackenzie.md): "You keep calling me a Mainlander. Why?"
 
 Grey Mother: "It's what you are, isn't it? From the Mainland? An Outsider? You don't really belong here, do you?"
 
 Will Mackenzie: "Ok, but you sound bitter about it."
 
-Grey Mother: "We lost everything in <a href="./The%20Collapse.md" class="wikilink" title="the Collapse">the Collapse</a>. People didn't realize how dependent we'd become. Some were fine with it. Others didn't want the scraps from your table. It created deep rifts in families, communities. Scars that never healed. The Mainland had become our lifeline. And it was suddenly cut. And so, we suffered."
+Grey Mother: "We lost everything in [the Collapse](./The%20Collapse.md). People didn't realize how dependent we'd become. Some were fine with it. Others didn't want the scraps from your table. It created deep rifts in families, communities. Scars that never healed. The Mainland had become our lifeline. And it was suddenly cut. And so, we suffered."
 
 Will Mackenzie: "I guess I don't know much about that history."
 
@@ -126,11 +94,11 @@ Grey Mother: "I'm not sure. The voices were...thin. Far. The blizzard was waking
 
 ### Find supplies to help keep Grey Mother alive.
 
-*Having exhausted all dialogue with Grey Mother, Mackenzie leaves the house and begins searching for food and fuel for the old woman. If the player travels to the <a href="./Old%20Schoolhouse.md" class="wikilink" title="Old Schoolhouse">Old Schoolhouse</a>, Mackenzie will say:*
+*Having exhausted all dialogue with Grey Mother, Mackenzie leaves the house and begins searching for food and fuel for the old woman. If the player travels to the [Old Schoolhouse](./Old%20Schoolhouse.md), Mackenzie will say:*
 
 Will Mackenzie: "This is just...terrible."
 
-*A small amount of blood is at the ruined front steps of the remains of the school, along with burned glasses and a burned pair of child sized sneakers. Most of the homes that are still standing in the town have been ransacked, most likely by the "bad men" Grey Mother mentioned. Eventually Mackenzie makes his way to the <a href="./Orca%20Gas%20Station.md" class="wikilink" title="Orca Gas Station">Orca Gas Station</a>, and if the player arrives at night, they will see a glow coming from inside the building, as if the power is still on inside, despite the pumps and outdoor lights not being powered. Stepping inside through the front door, he sees an old man in front of the register, with his walking stick leaning against a pillar to his left, a <a href="./Green%20Birch%20Sapling.md" class="wikilink" title="Green Birch Sapling">Green Birch Sapling</a> and <a href="./Cup%20of%20Coffee.md" class="wikilink" title="Cup of Coffee">Cup of Coffee</a> to his right, and an active fire in a <a href="./Rim%20Grill.md" class="wikilink" title="Rim Grill">Rim Grill</a> right in front of him. Mackenzie walks up to him and speaks to him.*
+*A small amount of blood is at the ruined front steps of the remains of the school, along with burned glasses and a burned pair of child sized sneakers. Most of the homes that are still standing in the town have been ransacked, most likely by the "bad men" Grey Mother mentioned. Eventually Mackenzie makes his way to the [Orca Gas Station](./Orca%20Gas%20Station.md), and if the player arrives at night, they will see a glow coming from inside the building, as if the power is still on inside, despite the pumps and outdoor lights not being powered. Stepping inside through the front door, he sees an old man in front of the register, with his walking stick leaning against a pillar to his left, a [Green Birch Sapling](./Green%20Birch%20Sapling.md) and [Cup of Coffee](./Cup%20of%20Coffee.md) to his right, and an active fire in a [Rim Grill](./Rim%20Grill.md) right in front of him. Mackenzie walks up to him and speaks to him.*
 
 Unknown: "Well...another stranger. Have you escaped the town?"
 
@@ -140,7 +108,7 @@ Unknown: "Not a refugee from the highways then. You look weary, traveler. Come, 
 
 Will Mackenzie: "Who are you?"
 
-Unknown: "I'm nobody. But you can call me <a href="./Methuselah.md" class="wikilink" title="Methuselah">Methuselah</a>. I'm here to witness the passing of an age."
+Unknown: "I'm nobody. But you can call me [Methuselah](./Methuselah.md). I'm here to witness the passing of an age."
 
 Will Mackenzie: "What do you mean, the passing..."
 
@@ -210,9 +178,9 @@ Will Mackenzie: "Have you been able to remember anything else about that night? 
 
 Grey Mother: "I'm back in that night. The wind howling." *Grey Mother places her Hunting Rifle behind her chair.* "Voices passing through town. I can hear them just outside the window. It's windy but the voices carry. They are yelling. Her voice...it passes through town. She's running. She's alone. Calling for help. But no one comes."
 
-Will Mackenzie: "Why didn't anyone help <a href="./Astrid%20Greenwood.md" class="wikilink" title="her">her</a>?"
+Will Mackenzie: "Why didn't anyone help [her](./Astrid%20Greenwood.md)?"
 
-Grey Mother: "Yes, why didn't they? They should have! <a href="./Lilith%20Barker.md" class="wikilink" title="They should have found her">They should have found her</a> before it was too late."
+Grey Mother: "Yes, why didn't they? They should have! [They should have found her](./Lilith%20Barker.md) before it was too late."
 
 Will Mackenzie: "Anything else you can remember might help."
 
@@ -242,11 +210,11 @@ Grey Mother: "If they were outsiders, they might have stayed in the old schoolho
 
 ### Grey Mother thinks something happened at the tunnel leading out from Milton. Investigate.
 
-*Mackenzie then heads to the tunnel just outside of town, and happens upon a <a href="./Crashed%20Prison%20Transport%20Bus.md" class="wikilink" title="Crashed Prison Transport Bus">Crashed Prison Transport Bus</a>.*
+*Mackenzie then heads to the tunnel just outside of town, and happens upon a [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md).*
 
 Will Mackenzie: "What happened here?"
 
-*He walks up to the back of the bus and wipes the frost off the back window and peers inside only to see that the tunnel has collapsed and filled the bus with snow. Before leaving, Mackenzie finds a message written in red inside the bus: PERSERVERANCE. He returns to Grey Mother and tells her his findings. A wolf is found in the road feasting on a deer carcass near Grey Mother's home, further adding to the ruined state of the town. Walking inside, a pot of <a href="./Home-made%20Soup.md" class="wikilink" title="Home-made Soup">Home-made Soup</a> is sitting next to the fireplace.*
+*He walks up to the back of the bus and wipes the frost off the back window and peers inside only to see that the tunnel has collapsed and filled the bus with snow. Before leaving, Mackenzie finds a message written in red inside the bus: PERSERVERANCE. He returns to Grey Mother and tells her his findings. A wolf is found in the road feasting on a deer carcass near Grey Mother's home, further adding to the ruined state of the town. Walking inside, a pot of [Home-made Soup](./Home-made%20Soup.md) is sitting next to the fireplace.*
 
 **White Dialogue**
 
@@ -310,15 +278,15 @@ Grey Mother: "That will be a long road."
 
 Will Mackenzie: "I'm starting to get pretty worried about my friend."
 
-Grey Mother: "There's only one thing left to be done. You need to <a href="./Lilith%20Barker.md" class="wikilink" title="put her to rest">put her to rest</a>."
+Grey Mother: "There's only one thing left to be done. You need to [put her to rest](./Lilith%20Barker.md)."
 
 Will Mackenzie: "Put her to...I'm not giving up yet!"
 
-Grey Mother: "I remember something...a farmhouse. On the other side of town. That night...the memories are confused. But...somehow I remember the farmhouse. You'll find a key, to a safety deposit box somewhere in there. Go to the bank, and bring me the box that matches the key. Then you'll understand what <a href="./Lilith%20Barker.md" class="wikilink" title="happened to her">happened to her</a>."
+Grey Mother: "I remember something...a farmhouse. On the other side of town. That night...the memories are confused. But...somehow I remember the farmhouse. You'll find a key, to a safety deposit box somewhere in there. Go to the bank, and bring me the box that matches the key. Then you'll understand what [happened to her](./Lilith%20Barker.md)."
 
 Will Mackenzie: "Wait...farm? Bank? What's this have to do with my friend?"
 
-Grey Mother: "<a href="./Lilith%20Barker.md" class="wikilink" title="They left her">They left her</a>, didn't they? She needed help and <a href="./Martin%20Barker.md" class="wikilink" title="they let her go">they let her go</a>. This is how we make it right."
+Grey Mother: "[They left her](./Lilith%20Barker.md), didn't they? She needed help and [they let her go](./Martin%20Barker.md). This is how we make it right."
 
 Will Mackenzie: "I don't understand..."
 
@@ -326,16 +294,14 @@ Grey Mother: "In the bank. You'll find the answers. Now go."
 
 ### Something precious was stolen from Grey Mother. Find it, and return it to her.
 
-*Mackenzie heads to <a href="./Paradise%20Meadows%20Farm.md" class="wikilink" title="Paradise Meadows Farm">Paradise Meadows Farm</a> down the road. Along the way, a piece of orange fabric can be seen swaying in the wind, stuck to the barb wire fence. Walking past the Mailbox, fresh blood can be seen in the snow leading to the Farmhouse. Taking a detour to the nearby shed close to the farmhouse, Mackenzie finds the <a href="./Martin%20Barker.md" class="wikilink" title="body of a dead man">body of a dead man</a> being eaten by a wolf.*
+*Mackenzie heads to [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) down the road. Along the way, a piece of orange fabric can be seen swaying in the wind, stuck to the barb wire fence. Walking past the Mailbox, fresh blood can be seen in the snow leading to the Farmhouse. Taking a detour to the nearby shed close to the farmhouse, Mackenzie finds the [body of a dead man](./Martin%20Barker.md) being eaten by a wolf.*
 
 Will Mackenzie: "Holy shit!!"
 
-*Scaring the wolf off, Mackenzie either loots the corpse or continues exploring the area. Entering the <a href="./Tractor.md" class="wikilink" title="Tractor">Tractor</a> and <a href="./Truck.md" class="wikilink" title="Truck">Truck</a> on the farm generates unique dialogue depending on which order they are entered.*
+*Scaring the wolf off, Mackenzie either loots the corpse or continues exploring the area. Entering the [Tractor](./Tractor.md) and [Truck](./Truck.md) on the farm generates unique dialogue depending on which order they are entered.*
 
 - Tractor entered first: "Hmm...maybe a dead battery?"
 - Truck entered second: "Just like the Tractor."
-
-<!-- -->
 
 - Truck entered first: "Truck seems to be dead. Engine won't even turn."
 - Tractor entered second: "Damn...just like the Truck."
@@ -344,11 +310,11 @@ Will Mackenzie: "Holy shit!!"
 
 Will Mackenzie: "That's a bad sign."
 
-*He enters, seeing a dying convict in an bloody orange jumpsuit on the sofa to the right. He is clutching his abdomen, with a knife poking out of it. To his right, a lockbox broken open with a <a href="./Prybar.md" class="wikilink" title="Prybar">Prybar</a> containing a key and several wades of Cash lie on the couch. A blue scarf with birds can be seen wrapped around his right arm, and Mackenzie sees it and points at it as he approaches the dying man.*
+*He enters, seeing a dying convict in an bloody orange jumpsuit on the sofa to the right. He is clutching his abdomen, with a knife poking out of it. To his right, a lockbox broken open with a [Prybar](./Prybar.md) containing a key and several wades of Cash lie on the couch. A blue scarf with birds can be seen wrapped around his right arm, and Mackenzie sees it and points at it as he approaches the dying man.*
 
 Will Mackenzie: "That scarf wrapped around your arm. Where'd you get it?"
 
-<a href="./Hobbs.md" class="wikilink" title="Hobbs">Hobbs</a>: *Chuckles* "You're never gonna find her."
+[Hobbs](./Hobbs.md): *Chuckles* "You're never gonna find her."
 
 Will Mackenzie: *pointing at the man* "What did you do to my friend?"
 
@@ -426,7 +392,7 @@ Hobbs: "Noooooo...you sonofa..."
 
 *The convict struggles to breath, drawing what little strength he has left to reach for the knife in order to pull it out before breathing his last and dying on the couch and closing his eyes. Mackenzie raises his hands, in shock of what he has just done, before lowering them.*
 
-*Regardless of the choice made, Mackenzie takes the key, then heads to the <a href="./Milton%20Credit%20Union.md" class="wikilink" title="Milton Credit Union">Milton Credit Union</a>, but finds the vault inside the bank locked.*
+*Regardless of the choice made, Mackenzie takes the key, then heads to the [Milton Credit Union](./Milton%20Credit%20Union.md), but finds the vault inside the bank locked.*
 
 Will Mackenzie: "Locked. Can't get in here yet."
 
@@ -434,7 +400,7 @@ Will Mackenzie: "Locked. Can't get in here yet."
 
 Will Mackenzie: "This must be the key to the bank manager's house."
 
-*Mackenzie finds the <a href="./Bank%20Manager%27s%20House.md" class="wikilink" title="Bank Manager&#39;s House">Bank Manager's House</a>, and finds the <a href="./Bank%20Vault%20Code.md" class="wikilink" title="Bank Vault Code">Bank Vault Code</a> inside, then heads back to the bank to open the vault. After doing so, he opens vault 15 and finds a lockbox inside, then returns to Grey Mother.*
+*Mackenzie finds the [Bank Manager's House](./Bank%20Manager%27s%20House.md), and finds the [Bank Vault Code](./Bank%20Vault%20Code.md) inside, then heads back to the bank to open the vault. After doing so, he opens vault 15 and finds a lockbox inside, then returns to Grey Mother.*
 
 **Blue Dialogue**
 
@@ -482,8 +448,6 @@ Will Mackenzie: "Ok...if you're sure. Thank you."
 
 Grey Mother: "Now...leave me to my memories, outsider. Go out there, and find your friend. And don't stop to think about Milton, or Grey Mother, again. We're of the old world. This new world is for the strong to survive."
 
-Chapter 4 <a href="./Paradise%20Lost%20%E2%80%94%20Transcript.md" class="wikilink" title="Paradise Lost">Paradise Lost</a> begins.
+Chapter 4 [Paradise Lost](./Paradise%20Lost%20%E2%80%94%20Transcript.md) begins.
 
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

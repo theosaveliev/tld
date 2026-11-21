@@ -7,117 +7,20 @@ source: "https://thelongdark.fandom.com/wiki/Whale_Bone_Shrine"
 
 # Whale Bone Shrine
 
-<div>
-
 **Contents**
 
-- [Overview](#Overview)
-- [Shrine 1](#Shrine_1)
-- [Shrine 2](#Shrine_2)
-- [Shrine 3](#Shrine_3)
+- [Overview](#overview)
+- [Shrine 1](#shrine-1)
+- [Shrine 2](#shrine-2)
+- [Shrine 3](#shrine-3)
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td width="40px"><figure>
-<img src="../assets/Seal_icon.png" loading="lazy" width="30" />
-<figcaption>Seal_icon.png</figcaption>
-</figure></td>
-<td><p><strong>DLC-Exclusive content.</strong><br />
-</p>
-<div style="font-size:0.85em; line-height:1.5em;">
-<p>This content requires the <a href="./Iron%20Road.md" class="wikilink" title="Iron Road">Iron Road</a> addon to be installed before it can be seen or used in regular gameplay.</p>
-</div></td>
-<td><p>|}</p>
-<table class="infobox">
-<caption>Whale Bone Shrine</caption>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><p>[[File:</p>
-<table class="gallery">
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<span>[Missing image: Whale_Bone_Shrine.jpg]</span>
-<figcaption>Shrine 1</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Whale_Bone_Shrine_2.jpg]</span>
-<figcaption>Shrine 2</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Whale_Bone_Shrine_3.jpg]</span>
-<figcaption>Shrine 3</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
-<td><p>250px]]</p></td>
-</tr>
-<tr>
-<td colspan="2"><p><strong>Location</strong></p></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Whale_Bone_Shrine_Location.png]</span>
-<figcaption>Whale_Bone_Shrine_Location.png</figcaption>
-</figure></td>
-<td></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Port%20Remnant.md" class="wikilink" title="Port Remnant">Port Remnant</a>|-</p></td>
-<td><p>Description</p></td>
-</tr>
-<tr>
-<td colspan="2"><p><strong>General</strong></p></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td><p>Has no shelter|} <strong>Whale Bone Shrine</strong> is a set of 3 locations in <a href="./Port%20Remnant.md" class="wikilink" title="Port Remnant">Port Remnant</a>.</p>
-<h2 id="Overview">Overview</h2>
-<p>All 3 locations play a music cue when first approached. Most locations have no notable loot, save for the 3rd shrine's story items. There is currently no explanation as to why these shrines were built, but <a href="./Wax%20Cylinder%203.md" class="wikilink" title="Wax Cylinder 3">Wax Cylinder 3</a>, <a href="./Wax%20Cylinder%205.md" class="wikilink" title="5">5</a>, and <a href="./Wax%20Cylinder%206.md" class="wikilink" title="6">6</a> comment on the shrines and the events at the <a href="./Desecrated%20Church.md" class="wikilink" title="Desecrated Church">Desecrated Church</a>.</p>
-<h3 id="Shrine_1">Shrine 1</h3>
-<figure>
-<span>[Missing image: Whale_Bone_Shrine.jpg]</span>
-<figcaption>Whale_Bone_Shrine.jpg</figcaption>
-</figure>
-<p>The most eastern shrine, there is a large circular shrine of whale bones tied together, almost looking like a small round building. A path to a waterfall lies to the north that leads to a hidden section of the map and a <a href="./Deer%20Carcass.md" class="wikilink" title="Deer Carcass">Deer Carcass</a>, but not much is located near the shrine itself.</p>
-<h3 id="Shrine_2">Shrine 2</h3>
-<figure>
-<span>[Missing image: Whale_Bone_Shrine_2.jpg]</span>
-<figcaption>Whale_Bone_Shrine_2.jpg</figcaption>
-</figure>
-<p>Located slightly south west of the previous shrine, this shrine much smaller, with a few whale bone arches and not much more. There are not much else of note around the area, except for 2 cabins to the north.</p>
-<h3 id="Shrine_3">Shrine 3</h3>
-<figure>
-<span>[Missing image: Whale_Bone_Shrine_3.jpg]</span>
-<figcaption>Whale_Bone_Shrine_3.jpg</figcaption>
-</figure>
-<p>Located to the southwest of the map near the <a href="./Desecrated%20Church.md" class="wikilink" title="Desecrated Church">Desecrated Church</a>, this location is possibly the first shrine the player will encounter if they are following the story. <a href="./Wax%20Cylinder%206.md" class="wikilink" title="Wax Cylinder 6">Wax Cylinder 6</a>, <a href="./Map%20%28Train%29.md" class="wikilink" title="Map (Train)">Map (Train)</a>, and an <a href="./Improvised%20Knife.md" class="wikilink" title="Improvised Knife">Improvised Knife</a> driven through the knife can be found here. Several <a href="./Rose%20Hip.md" class="wikilink" title="Rose Hip">Rose Hip</a> bushes are also found around the main shrine. <strong>Lua execution error in Module:Navbox function navbox</strong></p></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| ![](../assets/Seal_icon.png) / *Seal\_icon.png* | **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / **Whale Bone Shrine** / \| Property \| Details \| / \| --- \| --- \| / \| \[\[File: / \\| Column 1 \\| Column 2 \\| Column 3 \\| / \\| --- \\| --- \\| --- \\| / \\| ![Shrine 1](../assets/Whale_Bone_Shrine.jpg) / *Shrine 1* \\| ![Shrine 2](../assets/Whale_Bone_Shrine_2.jpg) / *Shrine 2* \\| ![Shrine 3](../assets/Whale_Bone_Shrine_3.jpg) / *Shrine 3* \\| \| 250px\]\] \| / \| ![Shrine 1](../assets/Whale_Bone_Shrine.jpg) / *Shrine 1* \| ![Shrine 2](../assets/Whale_Bone_Shrine_2.jpg) / *Shrine 2* / ![Shrine 3](../assets/Whale_Bone_Shrine_3.jpg) / *Shrine 3* \| / \| **Location** \|  \| / \| ![](../assets/Whale_Bone_Shrine_Location.png) / *Whale\_Bone\_Shrine\_Location.png* \|  \| / \| Region \| [Port Remnant](./Port%20Remnant.md)\\|- / Description \| / \| **General** \|  \| / \|  \| Has no shelter\\|} **Whale Bone Shrine** is a set of 3 locations in [Port Remnant](./Port%20Remnant.md). / ## Overview / All 3 locations play a music cue when first approached. Most locations have no notable loot, save for the 3rd shrine's story items. There is currently no explanation as to why these shrines were built, but [Wax Cylinder 3](./Wax%20Cylinder%203.md), [5](./Wax%20Cylinder%205.md), and [6](./Wax%20Cylinder%206.md) comment on the shrines and the events at the [Desecrated Church](./Desecrated%20Church.md). / ### Shrine 1 / ![](../assets/Whale_Bone_Shrine.jpg) / *Whale\_Bone\_Shrine.jpg* / The most eastern shrine, there is a large circular shrine of whale bones tied together, almost looking like a small round building. A path to a waterfall lies to the north that leads to a hidden section of the map and a [Deer Carcass](./Deer%20Carcass.md), but not much is located near the shrine itself. / ### Shrine 2 / ![](../assets/Whale_Bone_Shrine_2.jpg) / *Whale\_Bone\_Shrine\_2.jpg* / Located slightly south west of the previous shrine, this shrine much smaller, with a few whale bone arches and not much more. There are not much else of note around the area, except for 2 cabins to the north. / ### Shrine 3 / ![](../assets/Whale_Bone_Shrine_3.jpg) / *Whale\_Bone\_Shrine\_3.jpg* / Located to the southwest of the map near the [Desecrated Church](./Desecrated%20Church.md), this location is possibly the first shrine the player will encounter if they are following the story. [Wax Cylinder 6](./Wax%20Cylinder%206.md), [Map (Train)](./Map%20%28Train%29.md), and an [Improvised Knife](./Improvised%20Knife.md) driven through the knife can be found here. Several [Rose Hip](./Rose%20Hip.md) bushes are also found around the main shrine. **Lua execution error in Module:Navbox function navbox** \| |
+| \[\[File: / \| Column 1 \| Column 2 \| Column 3 \| / \| --- \| --- \| --- \| / \| ![Shrine 1](../assets/Whale_Bone_Shrine.jpg) / *Shrine 1* \| ![Shrine 2](../assets/Whale_Bone_Shrine_2.jpg) / *Shrine 2* \| ![Shrine 3](../assets/Whale_Bone_Shrine_3.jpg) / *Shrine 3* \| | 250px\]\] |  |
+| ![Shrine 1](../assets/Whale_Bone_Shrine.jpg) / *Shrine 1* | ![Shrine 2](../assets/Whale_Bone_Shrine_2.jpg) / *Shrine 2* | ![Shrine 3](../assets/Whale_Bone_Shrine_3.jpg) / *Shrine 3* |
+| **Location** |  |  |
+| ![](../assets/Whale_Bone_Shrine_Location.png) / *Whale\_Bone\_Shrine\_Location.png* |  |  |
+| Region | [Port Remnant](./Port%20Remnant.md)\|- | Description |
+| **General** |  |  |
+|  | Has no shelter\|} **Whale Bone Shrine** is a set of 3 locations in [Port Remnant](./Port%20Remnant.md). / ## Overview / All 3 locations play a music cue when first approached. Most locations have no notable loot, save for the 3rd shrine's story items. There is currently no explanation as to why these shrines were built, but [Wax Cylinder 3](./Wax%20Cylinder%203.md), [5](./Wax%20Cylinder%205.md), and [6](./Wax%20Cylinder%206.md) comment on the shrines and the events at the [Desecrated Church](./Desecrated%20Church.md). / ### Shrine 1 / ![](../assets/Whale_Bone_Shrine.jpg) / *Whale\_Bone\_Shrine.jpg* / The most eastern shrine, there is a large circular shrine of whale bones tied together, almost looking like a small round building. A path to a waterfall lies to the north that leads to a hidden section of the map and a [Deer Carcass](./Deer%20Carcass.md), but not much is located near the shrine itself. / ### Shrine 2 / ![](../assets/Whale_Bone_Shrine_2.jpg) / *Whale\_Bone\_Shrine\_2.jpg* / Located slightly south west of the previous shrine, this shrine much smaller, with a few whale bone arches and not much more. There are not much else of note around the area, except for 2 cabins to the north. / ### Shrine 3 / ![](../assets/Whale_Bone_Shrine_3.jpg) / *Whale\_Bone\_Shrine\_3.jpg* / Located to the southwest of the map near the [Desecrated Church](./Desecrated%20Church.md), this location is possibly the first shrine the player will encounter if they are following the story. [Wax Cylinder 6](./Wax%20Cylinder%206.md), [Map (Train)](./Map%20%28Train%29.md), and an [Improvised Knife](./Improvised%20Knife.md) driven through the knife can be found here. Several [Rose Hip](./Rose%20Hip.md) bushes are also found around the main shrine. **Lua execution error in Module:Navbox function navbox** |  |

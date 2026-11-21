@@ -7,57 +7,25 @@ source: "https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do%2FTranscript"
 
 # What One Man Can Do/Transcript
 
-<div>
+**What One Man Can Do/Transcript**
 
-<table class="infobox">
-<caption>What One Man Can Do/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Missions_story_ep2_What_One_Man_Can_Do.png" loading="lazy" width="250" />
-<figcaption>Missions_story_ep2_What_One_Man_Can_Do.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./Signal%20to%20Noise%20%E2%80%94%20Transcript.md" class="wikilink" title="Signal to Noise/Transcript">Signal to Noise/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>What One Man Can Do/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./Renewed%20Hope%20%E2%80%94%20Transcript.md" class="wikilink" title="Renewed Hope/Transcript">Renewed Hope/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Mackenzie">Mackenzie</a> <a href="./Old%20Bear.md" class="wikilink" title="Old Bear">Old Bear</a><br />
-<a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a><br />
-<a href="./Characters.md#Radio_Voice_Man" class="wikilink" title="Radio Voice Man">Radio Voice Man</a></p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Missions_story_ep2_What_One_Man_Can_Do.png) / *Missions\_story\_ep2\_What\_One\_Man\_Can\_Do.png* |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [Signal to Noise/Transcript](./Signal%20to%20Noise%20%E2%80%94%20Transcript.md) |
+| Current | What One Man Can Do/Transcript |
+| Next | [Renewed Hope/Transcript](./Renewed%20Hope%20%E2%80%94%20Transcript.md) |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
+| Characters | [Mackenzie](./Will%20Mackenzie.md) [Old Bear](./Old%20Bear.md) / [Jeremiah](./Jeremiah.md) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) |
 
-This is the mission transcript for mission 4 <a href="./What%20One%20Man%20Can%20Do.md" class="wikilink" title="What One Man Can Do">What One Man Can Do</a> of <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2: Luminance Fugue">Episode 2: Luminance Fugue</a>.
+This is the mission transcript for mission 4 [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
 ## Transcript
 
 *Mackenzie pushes himself off of a cave floor.*
 
-Mackenzie: "Whe...where am I? Holy shit. The <a href="./Old%20Bear.md" class="wikilink" title="bear">bear</a>. It's...right...there."
+Mackenzie: "Whe...where am I? Holy shit. The [bear](./Old%20Bear.md). It's...right...there."
 
 CHAPTER FOUR
 
@@ -65,7 +33,7 @@ WHAT ONE MAN CAN DO
 
 Mackenzie: "Damn. Where the hell's that spear?"
 
-*Mackenzie realizes all of his belongings, aside from the torn clothes on his back, are all gone. He begins walking away from the bear, as it feasts on a <a href="./Wolf%20Carcass.md" class="wikilink" title="Wolf Carcass">Wolf Carcass</a>. As he slowly walks to a nearby <a href="./Rock%20Climb.md" class="wikilink" title="Rock Climb">Rock Climb</a> past the bear, he says:*
+*Mackenzie realizes all of his belongings, aside from the torn clothes on his back, are all gone. He begins walking away from the bear, as it feasts on a [Wolf Carcass](./Wolf%20Carcass.md). As he slowly walks to a nearby [Rock Climb](./Rock%20Climb.md) past the bear, he says:*
 
 Mackenzie: "Way too close."
 
@@ -73,7 +41,7 @@ Mackenzie: "Way too close."
 
 Mackenzie: "If I don't keep my distance, I'm done for. Got to find that spear."
 
-*Weaving through rocky passages too small for the bear to reach, Mackenzie eventually passes through a waterfall chamber as the bear feasts on a <a href="./Frozen%20Corpse.md" class="wikilink" title="Frozen Corpse">Frozen Corpse</a>. No matter what path lies ahead, the Old Bear follows through the tunnels. Eventually the Pilot finds a body with a <a href="./Torn%20Paper.md" class="wikilink" title="Torn Paper">Torn Paper</a> on it and some medical supplies, and moves on to not join the doomed man and finds another large cavern.*
+*Weaving through rocky passages too small for the bear to reach, Mackenzie eventually passes through a waterfall chamber as the bear feasts on a [Frozen Corpse](./Frozen%20Corpse.md). No matter what path lies ahead, the Old Bear follows through the tunnels. Eventually the Pilot finds a body with a [Torn Paper](./Torn%20Paper.md) on it and some medical supplies, and moves on to not join the doomed man and finds another large cavern.*
 
 Mackenzie: "Have to stay back."
 
@@ -93,7 +61,7 @@ Mackenzie: "I'm...I'm sorry. Such a majestic creature. I didn't want to kill you
 
 Jeremiah: "Mackenzie?"
 
-*The Trapper's <a href="./Deerskin%20Boots.md" class="wikilink" title="Deerskin Boots">Deerskin Boots</a> appear as Jeremiah walks over to the exhausted pilot and picks him up.*
+*The Trapper's [Deerskin Boots](./Deerskin%20Boots.md) appear as Jeremiah walks over to the exhausted pilot and picks him up.*
 
 Mackenzie: "The bear...is dead."
 
@@ -115,7 +83,7 @@ Jeremiah: "I've already set the frequency. Just toggle the CALL button and cross
 
 Mackenzie: "Here goes nothing."
 
-<a href="./Characters.md#Radio_Voice_Man" class="wikilink" title="Radio Voice Man">Radio Voice Man</a>: "...\[static\]... This is...Mills...come in..."
+[Radio Voice Man](./Characters.md#Radio_Voice_Man): "...\[static\]... This is...Mills...come in..."
 
 Mackenzie: "Hello? Is this the radio station at Perseverance Mills?"
 
@@ -203,6 +171,4 @@ Mackenzie: "Take care of yourself, Jeremiah."
 
 *The screen fades to black.*
 
-The story continues in <a href="./Renewed%20Hope%20%E2%80%94%20Transcript.md" class="wikilink" title="Renewed Hope/Transcript">Renewed Hope/Transcript</a>. **Lua execution error in Module:Navbox function navbox**
-
-</div>
+The story continues in [Renewed Hope/Transcript](./Renewed%20Hope%20%E2%80%94%20Transcript.md). **Lua execution error in Module:Navbox function navbox**

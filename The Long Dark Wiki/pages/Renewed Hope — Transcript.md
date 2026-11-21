@@ -7,56 +7,23 @@ source: "https://thelongdark.fandom.com/wiki/Renewed_Hope%2FTranscript"
 
 # Renewed Hope/Transcript
 
-<div>
+**Renewed Hope/Transcript**
 
-<table class="infobox">
-<caption>Renewed Hope/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Missions_story_ep2_Renewed_Hope.png" loading="lazy" width="250" />
-<figcaption>Missions_story_ep2_Renewed_Hope.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./What%20One%20Man%20Can%20Do%20%E2%80%94%20Transcript.md" class="wikilink" title="What One Man Can Do/Transcript">What One Man Can Do/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>Renewed Hope/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./Trauma%20%E2%80%94%20Transcript.md" class="wikilink" title="Trauma/Transcript">Trauma/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a><br />
-<a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a><br />
-<a href="./Methuselah.md" class="wikilink" title="Methuselah">Methuselah</a><br />
-<a href="./Mathis.md" class="wikilink" title="Mathis">Mathis</a></p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Missions_story_ep2_Renewed_Hope.png) / *Missions\_story\_ep2\_Renewed\_Hope.png* |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [What One Man Can Do/Transcript](./What%20One%20Man%20Can%20Do%20%E2%80%94%20Transcript.md) |
+| Current | Renewed Hope/Transcript |
+| Next | [Trauma/Transcript](./Trauma%20%E2%80%94%20Transcript.md) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Methuselah](./Methuselah.md) / [Mathis](./Mathis.md) |
 
-This is the mission transcript for mission 5 <a href="./Renewed%20Hope.md" class="wikilink" title="Renewed Hope">Renewed Hope</a> of <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2: Luminance Fugue">Episode 2: Luminance Fugue</a>.
+This is the mission transcript for mission 5 [Renewed Hope](./Renewed%20Hope.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
 ## Transcript
 
-*Mackenzie is standing outside the <a href="./Trapper%27s%20Homestead.md" class="wikilink" title="Trapper&#39;s Homestead">Trapper's Homestead</a> as the chapter begins*
+*Mackenzie is standing outside the [Trapper's Homestead](./Trapper%27s%20Homestead.md) as the chapter begins*
 
 CHAPTER FIVE
 
@@ -84,7 +51,7 @@ Methuselah: "I have wandered these paths a long time, friend. I was a walker, no
 
 Mackenzie: "As strange as it is running into you again, it's good to meet a familiar face in all this frigid wilderness. And keep to your paths. If this is a reckoning, as you say, I hope our paths cross again."
 
-*The player can wait for the <a href="./Aurora.md" class="wikilink" title="Aurora">Aurora</a> to appear at night while in the company of Methuselah, or go complete side missions in the meantime. Once the lights appear in the sky, Mackenzie walks to the Dam. He opens the door the the control room and turns a switch box on to the main elevators.*
+*The player can wait for the [Aurora](./Aurora.md) to appear at night while in the company of Methuselah, or go complete side missions in the meantime. Once the lights appear in the sky, Mackenzie walks to the Dam. He opens the door the the control room and turns a switch box on to the main elevators.*
 
 Mackenzie: "There it is."
 
@@ -100,9 +67,9 @@ Mackenzie: "Holy shit, what was that?"
 
 Mackenzie: "I'd better watch out."
 
-*He finds another switch box and turns the power off, then crosses the room and ascends a stairwell. After reaching the top, he spots a doorway off in the distance with another exit sign. As he approaches it, an unseen force hits him in the back of the head and knocks him out. As he comes too, a figure approaches him and places <a href="./Astrid%27s%20Hardcase.md" class="wikilink" title="Astrid&#39;s Hardcase">Astrid's Hardcase</a> on the floor at Mackenzie's feet. Mackenzie snaps awake and sees a man in a sheepskin coat wearing an orange jumpsuit, and realizes he is tied to a chair.*
+*He finds another switch box and turns the power off, then crosses the room and ascends a stairwell. After reaching the top, he spots a doorway off in the distance with another exit sign. As he approaches it, an unseen force hits him in the back of the head and knocks him out. As he comes too, a figure approaches him and places [Astrid's Hardcase](./Astrid%27s%20Hardcase.md) on the floor at Mackenzie's feet. Mackenzie snaps awake and sees a man in a sheepskin coat wearing an orange jumpsuit, and realizes he is tied to a chair.*
 
-<a href="./Mathis.md" class="wikilink" title="Mathis">Mathis</a>: "A locked case. Well, that is interesting."
+[Mathis](./Mathis.md): "A locked case. Well, that is interesting."
 
 *The man walks behind Mackenzie's chair and then in front of him.*
 
@@ -136,12 +103,10 @@ Mackenzie: "She?"
 
 Mathis: "Oh so now he's ready to talk."
 
-*The man reaches for a <a href="./Hatchet.md" class="wikilink" title="Hatchet">Hatchet</a> and approaches Mackenzie. The pilot looks around frantically, searching for a way to escape.*
+*The man reaches for a [Hatchet](./Hatchet.md) and approaches Mackenzie. The pilot looks around frantically, searching for a way to escape.*
 
 Mathis: "Well, don't worry, pilot. You'll be with her soon."
 
 *The man strikes Mackenzie with the back of the axe, and the episode ends.*
 
-The story continues in <a href="./Trauma%20%E2%80%94%20Transcript.md" class="wikilink" title="Trauma">Trauma</a>.**Lua execution error in Module:Navbox function navbox**
-
-</div>
+The story continues in [Trauma](./Trauma%20%E2%80%94%20Transcript.md).**Lua execution error in Module:Navbox function navbox**

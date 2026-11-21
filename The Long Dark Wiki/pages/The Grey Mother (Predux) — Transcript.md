@@ -7,67 +7,37 @@ source: "https://thelongdark.fandom.com/wiki/The_Grey_Mother_(Predux)%2FTranscri
 
 # The Grey Mother \(Predux\)/Transcript
 
-<div>
-
 **Contents**
 
-- [There's a Firewood Bin outside Grey Mother's house. Stock it with fuel you find around town -- Sticks, Firewood, broken down furniture, or Coal if you can find any.](#There%27s_a_Firewood_Bin_outside_Grey_Mother%27s_house._Stock_it_with_fuel_you_find_around_town_--_Sticks%2C_Firewood%2C_broken_down_furniture%2C_or_Coal_if_you_can_find_any.)
-- [3rd Person Cutscene](#3rd_Person_Cutscene)
-- [Grey Mother will starve unless you stock her pantry with food. Scavenge what you can from the environment around you. Some food sources are easier to find than others.](#Grey_Mother_will_starve_unless_you_stock_her_pantry_with_food._Scavenge_what_you_can_from_the_environment_around_you._Some_food_sources_are_easier_to_find_than_others.)
-- [Stole from the Gas Station](#Stole_from_the_Gas_Station)
-- [Did not steal from the Gas Station](#Did_not_steal_from_the_Gas_Station)
-- [3rd Person Cutscene](#3rd_Person_Cutscene_2)
-- [Grey Mother seems tired. Try Talking to her after she's had some time to rest.](#Grey_Mother_seems_tired._Try_Talking_to_her_after_she%27s_had_some_time_to_rest.)
-- [3rd Person Cutscene](#3rd_Person_Cutscene_3)
-- [Investigate the tunnels leading out of Milton. Grey Mother wants to know what happened there.](#Investigate_the_tunnels_leading_out_of_Milton._Grey_Mother_wants_to_know_what_happened_there.)
-- [Grey Mother seems deep in thought. Return to her once she's rested a while.](#Grey_Mother_seems_deep_in_thought._Return_to_her_once_she%27s_rested_a_while.)
-- [Something precious was stolen from Grey Mother. Find it, and return it to her.](#Something_precious_was_stolen_from_Grey_Mother._Find_it%2C_and_return_it_to_her.)
-- [Search the Milton Farmhouse for a Safety Deposit Box Key.](#Search_the_Milton_Farmhouse_for_a_Safety_Deposit_Box_Key.)
-- [Retrieve the contents of the Safety Deposit Box and return it to Grey Mother.](#Retrieve_the_contents_of_the_Safety_Deposit_Box_and_return_it_to_Grey_Mother.)
-- [Find Lily's grave marker and pay service to her memory.](#Find_Lily%27s_grave_marker_and_pay_service_to_her_memory.)
-- [Grey Mother's Trust](#Grey_Mother%27s_Trust)
+- [There's a Firewood Bin outside Grey Mother's house. Stock it with fuel you find around town -- Sticks, Firewood, broken down furniture, or Coal if you can find any.](#theres-a-firewood-bin-outside-grey-mothers-house-stock-it-with-fuel-you-find-around-town----sticks-firewood-broken-down-furniture-or-coal-if-you-can-find-any)
+- [3rd Person Cutscene](#3rd-person-cutscene)
+- [Grey Mother will starve unless you stock her pantry with food. Scavenge what you can from the environment around you. Some food sources are easier to find than others.](#grey-mother-will-starve-unless-you-stock-her-pantry-with-food-scavenge-what-you-can-from-the-environment-around-you-some-food-sources-are-easier-to-find-than-others)
+- [Stole from the Gas Station](#stole-from-the-gas-station)
+- [Did not steal from the Gas Station](#did-not-steal-from-the-gas-station)
+- [3rd Person Cutscene](#3rd-person-cutscene-1)
+- [Grey Mother seems tired. Try Talking to her after she's had some time to rest.](#grey-mother-seems-tired-try-talking-to-her-after-shes-had-some-time-to-rest)
+- [3rd Person Cutscene](#3rd-person-cutscene-2)
+- [Investigate the tunnels leading out of Milton. Grey Mother wants to know what happened there.](#investigate-the-tunnels-leading-out-of-milton-grey-mother-wants-to-know-what-happened-there)
+- [Grey Mother seems deep in thought. Return to her once she's rested a while.](#grey-mother-seems-deep-in-thought-return-to-her-once-shes-rested-a-while)
+- [Something precious was stolen from Grey Mother. Find it, and return it to her.](#something-precious-was-stolen-from-grey-mother-find-it-and-return-it-to-her)
+- [Search the Milton Farmhouse for a Safety Deposit Box Key.](#search-the-milton-farmhouse-for-a-safety-deposit-box-key)
+- [Retrieve the contents of the Safety Deposit Box and return it to Grey Mother.](#retrieve-the-contents-of-the-safety-deposit-box-and-return-it-to-grey-mother)
+- [Find Lily's grave marker and pay service to her memory.](#find-lilys-grave-marker-and-pay-service-to-her-memory)
+- [Grey Mother's Trust](#grey-mothers-trust)
 
-<table class="infobox">
-<caption>The Grey Mother (Predux)/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: The_Grey_Mother_(Predux).jpg]</span>
-<figcaption>The_Grey_Mother_(Predux).jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%201%20-%20Do%20Not%20Go%20Gentle.md" class="wikilink" title="Episode 1">Episode 1</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./Echoes%20Of%20Astrid%20%E2%80%94%20Transcript.md" class="wikilink" title="Echoes Of Astrid/Transcript">Echoes Of Astrid/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>The Grey Mother (Predux)/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md" class="wikilink" title="Paradise Lost (Predux)/Transcript">Paradise Lost (Predux)/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a> <a href="./Grey%20Mother.md" class="wikilink" title="Grey Mother">Grey Mother</a></p></td>
-</tr>
-</tbody>
-</table>
+**The Grey Mother (Predux)/Transcript**
 
-This is the transcript for Chapter 3 <a href="./The%20Grey%20Mother%20%28Predux%29.md" class="wikilink" title="The Grey Mother (Predux)">The Grey Mother (Predux)</a> for Predux <a href="./Episode%201%20-%20Do%20Not%20Go%20Gentle.md" class="wikilink" title="Episode 1: Do Not Go Gentle">Episode 1: Do Not Go Gentle</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/The_Grey_Mother_%28Predux%29.jpg) / *The\_Grey\_Mother\_(Predux).jpg* |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
+| Previous | [Echoes Of Astrid/Transcript](./Echoes%20Of%20Astrid%20%E2%80%94%20Transcript.md) |
+| Current | The Grey Mother (Predux)/Transcript |
+| Next | [Paradise Lost (Predux)/Transcript](./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md) |
+| Region | [Mountain Town](./Mountain%20Town.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md) |
+
+This is the transcript for Chapter 3 [The Grey Mother (Predux)](./The%20Grey%20Mother%20%28Predux%29.md) for Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
 ## There's a Firewood Bin outside Grey Mother's house. Stock it with fuel you find around town -- Sticks, Firewood, broken down furniture, or Coal if you can find any.
 
@@ -77,20 +47,12 @@ THE GREY MOTHER
 
 *Mackenzie sets out to find fuel for Grey Mother's fire. Eventually he finds 24 hours worth of fuel and puts it in Grey Mother's firewood bin, prompting another tutorial message*
 
-Containers{\| style="margin:auto" \| style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" \|“ \| <span style="font-style:italic">Search Everything!\
-Search all the containers you find, as you never know when one might hold life-saving supplies! You can also store things in Containers, to be retrieved later.</span>
-
-<div style="clear:both">
-
-</div>
-
-<div style="float:right; font-size:9pt">
+Containers{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Search Everything!  
+ Search all the containers you find, as you never know when one might hold life-saving supplies! You can also store things in Containers, to be retrieved later.**
 
 What I Know description
 
-</div>
-
-\| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" \|” \|}*Mackenzie walks inside and triggers a cutscene*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}*Mackenzie walks inside and triggers a cutscene*
 
 ### 3rd Person Cutscene
 
@@ -168,7 +130,7 @@ Grey Mother **(Text)**: "I'll worry about that. You worry about finding me food 
 
 Mackenzie **(Text)**: "But...what if people come back? Won't I be taking what they need to survive?"
 
-Grey Mother **(Text)**: "You mean...stealing? Maybe so. But it's fair. <a href="./Lilith%20Barker.md" class="wikilink" title="They stole from me all those years ago">They stole from me all those years ago</a> and now it's their turn."
+Grey Mother **(Text)**: "You mean...stealing? Maybe so. But it's fair. [They stole from me all those years ago](./Lilith%20Barker.md) and now it's their turn."
 
 Mackenzie **(Text)**: "What did they steal from you?"
 
@@ -230,7 +192,7 @@ Grey Mother **(Text)**: "You'll understand when you find it."
 
 ## Grey Mother will starve unless you stock her pantry with food. Scavenge what you can from the environment around you. Some food sources are easier to find than others.
 
-*This objective is a very quiet one like the firewood objective. Once the player gathers enough food, they must speak to Grey Mother. There are 4 different responses depending on whether or not the player breaks into the <a href="./Orca%20Gas%20Station.md" class="wikilink" title="Orca Gas Station">Orca Gas Station</a> (even if they do not steal anything). Grey Mother will somehow know the weight of your honesty depending on how you get her food*
+*This objective is a very quiet one like the firewood objective. Once the player gathers enough food, they must speak to Grey Mother. There are 4 different responses depending on whether or not the player breaks into the [Orca Gas Station](./Orca%20Gas%20Station.md) (even if they do not steal anything). Grey Mother will somehow know the weight of your honesty depending on how you get her food*
 
 Grey Mother **(Text)**: "So, tell me Mainlander. Did you do what I asked? Did you ransack the gas station? Did you clean them out?"
 
@@ -278,9 +240,9 @@ Mackenzie: "You already said that. Where did she go?"
 
 Grey Mother: "She passed through town. too many closed doors, broken houses. Nowhere to run, to hide."
 
-Mackenzie: "Why didn't anyone help <a href="./Astrid%20Greenwood.md" class="wikilink" title="her">her</a>?
+Mackenzie: "Why didn't anyone help [her](./Astrid%20Greenwood.md)?
 
-Grey Mother: "Yes, why didn't they? They should have! They should have found <a href="./Lilith%20Barker.md" class="wikilink" title="her">her</a> before it was too late."
+Grey Mother: "Yes, why didn't they? They should have! They should have found [her](./Lilith%20Barker.md) before it was too late."
 
 ## Grey Mother seems tired. Try Talking to her after she's had some time to rest.
 
@@ -334,15 +296,15 @@ Grey Mother **(Text)**: "They wander in circles, only to die within reach of the
 
 - FINISHED
 
-Grey Mother **(Text)**: "It's been a while since Grey Mother had anyone to cook for. Take some <a href="./Home-made%20Soup.md" class="wikilink" title="soup">soup</a> before you go..."
+Grey Mother **(Text)**: "It's been a while since Grey Mother had anyone to cook for. Take some [soup](./Home-made%20Soup.md) before you go..."
 
 Mackenzie **(Text)**: "Uhh...thanks."
 
-*A <a href="./Metal%20Pot.md" class="wikilink" title="Metal Pot">Metal Pot</a> with some <a href="./Home-made%20Soup.md" class="wikilink" title="Home-made Soup">Home-made Soup</a> is near the fireplace. A single green cup is available for the taking*
+*A [Metal Pot](./Metal%20Pot.md) with some [Home-made Soup](./Home-made%20Soup.md) is near the fireplace. A single green cup is available for the taking*
 
 ## Investigate the tunnels leading out of Milton. Grey Mother wants to know what happened there.
 
-*Mackenzie travels to the tunnel, and a cutscene plays as Mackenzie finds a <a href="./Crashed%20Prison%20Transport%20Bus.md" class="wikilink" title="Crashed Prison Transport Bus">Crashed Prison Transport Bus</a> with a dead convict on the ground. He spots a piece of Astrid's scarf and rips it out of the back right window. He then uses his parka to rub the frost off the back door window and peers inside. The camera changes to show the inside, with a message written in blood on the floor: PERSERVERANCE*
+*Mackenzie travels to the tunnel, and a cutscene plays as Mackenzie finds a [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) with a dead convict on the ground. He spots a piece of Astrid's scarf and rips it out of the back right window. He then uses his parka to rub the frost off the back door window and peers inside. The camera changes to show the inside, with a message written in blood on the floor: PERSERVERANCE*
 
 *Mackenzie then makes his way back to Grey Mother to report what he has found, triggering another 3rd person cutscene*
 
@@ -380,15 +342,15 @@ Grey Mother **(Text)**: "Leave me to rest, outsider."
 
 Mackenzie: "I can't be here any more. My friend is out there and she needs my help. Please...tell me how to find her, and I'll do whatever I can to help you get out of here."
 
-Grey Mother: "There's only one thing left to be done. You need to put <a href="./Lilith%20Barker.md" class="wikilink" title="her">her</a> to rest."
+Grey Mother: "There's only one thing left to be done. You need to put [her](./Lilith%20Barker.md) to rest."
 
 Mackenzie: "Put her to...I'm not giving up yet!"
 
-Grey Mother: "On the other side of town, there's a farmhouse. You'll find a key to a safety deposit box somewhere in there. Go to the bank, and bring me the box that matches the key. Then you'll understand what <a href="./Lilith%20Barker.md" class="wikilink" title="happened to her">happened to her</a>."
+Grey Mother: "On the other side of town, there's a farmhouse. You'll find a key to a safety deposit box somewhere in there. Go to the bank, and bring me the box that matches the key. Then you'll understand what [happened to her](./Lilith%20Barker.md)."
 
 Mackenzie: "Wait...farm? Bank? What's this have to do with my friend?"
 
-Grey Mother: "<a href="./Lilith%20Barker.md" class="wikilink" title="They left her">They left her</a>, didn't they? She needed help and <a href="./Martin%20Barker.md" class="wikilink" title="they let her go">they let her go</a>. This is how we make it right."
+Grey Mother: "[They left her](./Lilith%20Barker.md), didn't they? She needed help and [they let her go](./Martin%20Barker.md). This is how we make it right."
 
 Will Mackenzie: "I don't understand..."
 
@@ -400,11 +362,11 @@ Grey Mother: "In the bank. You'll find the answers. Now go."
 
 Mackenzie **(Text)**: "You seem...distracted. Tired. Are you ok?"
 
-Grey Mother **(Text)**: "I'm old. Some times the mind wanders, Outsider. Travels to other places. Other times. I think about <a href="./Lilith%20Barker.md" class="wikilink" title="her">her</a>. Cold and alone."
+Grey Mother **(Text)**: "I'm old. Some times the mind wanders, Outsider. Travels to other places. Other times. I think about [her](./Lilith%20Barker.md). Cold and alone."
 
 Mackenzie **(Text)**: "Are you talking about my friend?"
 
-Grey Mother **(Text)**: "They should have helped <a href="./Lilith%20Barker.md" class="wikilink" title="her">her</a>."
+Grey Mother **(Text)**: "They should have helped [her](./Lilith%20Barker.md)."
 
 - BUS?
 
@@ -428,7 +390,7 @@ Mackenzie **(Text)**: "No. Because she wrote in her own blood."
 
 Grey Mother **(Text)**: "There is a town. Far to the North. Perseverance Mills. Maybe she was showing you the way."
 
-Mackenzie **(Text)**: "<a href="./Perseverance%20Mills.md" class="wikilink" title="Perseverance Mills">Perseverance Mills</a>. How do I get there?"
+Mackenzie **(Text)**: "[Perseverance Mills](./Perseverance%20Mills.md). How do I get there?"
 
 Grey Mother **(Text)**: "There is no way now. By car, perhaps. On foot? No path that Grey Mother knows of."
 
@@ -440,7 +402,7 @@ Grey Mother **(Text)**: "Yes...on the other side of town. The old Barker Farm."
 
 Mackenzie **(Text)**: "Barker?"
 
-Grey Mother **(Text)**: "Yes. A liar and a <a href="./Grey%20Mother%27s%20Pearls.md" class="wikilink" title="thief">thief</a>, mostly."
+Grey Mother **(Text)**: "Yes. A liar and a [thief](./Grey%20Mother%27s%20Pearls.md), mostly."
 
 Mackenzie **(Text)**: "Right."
 
@@ -472,44 +434,34 @@ Mackenzie **(Text)**: "I'll see what I can find."
 
 ### Search the Milton Farmhouse for a Safety Deposit Box Key.
 
-*Mackenzie heads to <a href="./Paradise%20Meadows%20Farm.md" class="wikilink" title="Paradise Meadows Farm">Paradise Meadows Farm</a> down the road. Taking a detour to the nearby shed close to the farmhouse, Mackenzie finds the <a href="./Martin%20Barker.md" class="wikilink" title="body of a dead man">body of a dead man</a> being eaten by a wolf.*
+*Mackenzie heads to [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) down the road. Taking a detour to the nearby shed close to the farmhouse, Mackenzie finds the [body of a dead man](./Martin%20Barker.md) being eaten by a wolf.*
 
 Will Mackenzie: "Holy shit!!"
 
-*Scaring the wolf off, Mackenzie either loots the corpse for a <a href="./Lock%20Box%20Key%20%28Predux%29.md" class="wikilink" title="Lock Box Key (Predux)">Lock Box Key (Predux)</a> or ignores the corpse. Picking up the <a href="./Snare.md" class="wikilink" title="Snare">Snare</a> on the Work Bench generates a tutorial message*
+*Scaring the wolf off, Mackenzie either loots the corpse for a [Lock Box Key (Predux)](./Lock%20Box%20Key%20%28Predux%29.md) or ignores the corpse. Picking up the [Snare](./Snare.md) on the Work Bench generates a tutorial message*
 
-Snares{\| style="margin:auto" \| style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" \|“ \| <span style="font-style:italic">Setting Up A Trapline\
-You can use your energy chasing Rabbits and trying to stun them with stones, or you can use a more long-term strategy: Snares. Look for areas of high Rabbit activity, and place a Snare nearby. Check on it daily. You may get lucky and catch a Rabbit. You can set up multiple snares to increase your chances. A well maintained Trapline can be an excellent long-term source of food. Just remember, it may attract other wildlife!</span>
-
-<div style="clear:both">
-
-</div>
-
-<div style="float:right; font-size:9pt">
+Snares{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **Setting Up A Trapline  
+ You can use your energy chasing Rabbits and trying to stun them with stones, or you can use a more long-term strategy: Snares. Look for areas of high Rabbit activity, and place a Snare nearby. Check on it daily. You may get lucky and catch a Rabbit. You can set up multiple snares to increase your chances. A well maintained Trapline can be an excellent long-term source of food. Just remember, it may attract other wildlife!**
 
 What I Know description
 
-</div>
-
-\| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" \|” \|}*Entering the <a href="./Tractor.md" class="wikilink" title="Tractor">Tractor</a> and <a href="./Truck.md" class="wikilink" title="Truck">Truck</a> on the farm generates unique dialogue depending on which order they are entered.*
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |}*Entering the [Tractor](./Tractor.md) and [Truck](./Truck.md) on the farm generates unique dialogue depending on which order they are entered.*
 
 - Tractor entered first: "Hmm...maybe a dead battery?"
 - Truck entered second: "Just like the Tractor."
 
-<!-- -->
-
 - Truck entered first: "Truck seems to be dead. Engine won't even turn."
 - Tractor entered second: "Damn...just like the Truck."
 
-*The <a href="./Paradise%20Meadows%20Farm%20Key.md" class="wikilink" title="Paradise Meadows Farm Key">Paradise Meadows Farm Key</a> is found on the dashboard of the Truck, and Mackenzie uses it to open the Farm House*
+*The [Paradise Meadows Farm Key](./Paradise%20Meadows%20Farm%20Key.md) is found on the dashboard of the Truck, and Mackenzie uses it to open the Farm House*
 
 Mackenzie: "The old lady said the key was here somewhere."
 
-*After some snooping, Mackenzie finds the key hidden in an <a href="./Urn.md" class="wikilink" title="Urn">Urn</a>*
+*After some snooping, Mackenzie finds the key hidden in an [Urn](./Urn.md)*
 
 ### Retrieve the contents of the Safety Deposit Box and return it to Grey Mother.
 
-*Mackenzie leaves the farm and heads to <a href="./Milton%20Credit%20Union.md" class="wikilink" title="Milton Credit Union">Milton Credit Union</a>, but finds the vault locked*
+*Mackenzie leaves the farm and heads to [Milton Credit Union](./Milton%20Credit%20Union.md), but finds the vault locked*
 
 Mackenzie: "Now where would they hide the combination to this vault?"
 
@@ -517,11 +469,11 @@ Mackenzie: "Now where would they hide the combination to this vault?"
 
 Mackenzie: "Locked. Can't get in here yet."
 
-*Mackenzie goes to the office area and finds the <a href="./Bank%20Manager%27s%20House%20Key.md" class="wikilink" title="Bank Manager&#39;s House Key">Bank Manager's House Key</a>*
+*Mackenzie goes to the office area and finds the [Bank Manager's House Key](./Bank%20Manager%27s%20House%20Key.md)*
 
 Mackenzie: "This must be the key to the bank manager's house."
 
-*Mackenzie finds the <a href="./Bank%20Manager%27s%20House.md" class="wikilink" title="Bank Manager&#39;s House">Bank Manager's House</a>, and finds the <a href="./Bank%20Vault%20Code.md" class="wikilink" title="Bank Vault Code">Bank Vault Code</a> inside, then heads back to the bank to open the vault. After doing so, he opens vault 15 and finds a lockbox inside, then returns to Grey Mother, activating a 3rd person cutscene*
+*Mackenzie finds the [Bank Manager's House](./Bank%20Manager%27s%20House.md), and finds the [Bank Vault Code](./Bank%20Vault%20Code.md) inside, then heads back to the bank to open the vault. After doing so, he opens vault 15 and finds a lockbox inside, then returns to Grey Mother, activating a 3rd person cutscene*
 
 Grey Mother: "Did you find it?"
 
@@ -599,7 +551,7 @@ Mackenzie **(Text)**: "Ok...this better help me find my friend..."
 
 ## Find Lily's grave marker and pay service to her memory.
 
-*Mackenzie travels to the <a href="./Graveyard.md" class="wikilink" title="Graveyard">Graveyard</a> near the church and a cutscene plays. Mackenzie stands before a tombstone with Grey Mother's Pearls, then kneels down on one knee and rubs the face iff to clean it. He then places the pearls on top of the tombstone. The camera pans around to show the name on the tombstone, Lilith Barker.*
+*Mackenzie travels to the [Graveyard](./Graveyard.md) near the church and a cutscene plays. Mackenzie stands before a tombstone with Grey Mother's Pearls, then kneels down on one knee and rubs the face iff to clean it. He then places the pearls on top of the tombstone. The camera pans around to show the name on the tombstone, Lilith Barker.*
 
 *Mackenzie returns to Grey Mother and another cutscene plays as he walks over to her*
 
@@ -653,20 +605,20 @@ Grey Mother **(Text)**: "Leave me, Outsider. Your fate in this world is no longe
 
 *Mackenzie then goes upstairs and unlocks Lily's Trunk with the key, and takes the contents. The mission ends afterwards*
 
-The story continues in <a href="./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md" class="wikilink" title="Paradise Lost (Predux)/Transcript">Paradise Lost (Predux)/Transcript</a>.
+The story continues in [Paradise Lost (Predux)/Transcript](./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md).
 
 ## Grey Mother's Trust
 
 *At any point in the mission, the player has the option to raise Grey Mother's Trust. The following dialogue options are unlocked once sufficient Trust is earned*
 
-- 25 Trust: Knowledge: Milton History - Worldbuilding information about the history of Milton. (Gives <a href="./Town%20of%20Milton.md" class="wikilink" title="Town of Milton">Town of Milton</a> <a href="./What%20I%20Know.md" class="wikilink" title="What I Know">What I Know</a> Knowledge)
-- 50 Trust: Gameplay Tip: Sharpening - Gameplay tip about how to maintain Bladed tools. (Gives <a href="./Whetstone.md" class="wikilink" title="Whetstone">Whetstone</a>)
-- 75 Trust: Knowledge: The Collapse - Worldbuilding information about the Collapse. (Gives <a href="./History%20of%20The%20Collapse.md" class="wikilink" title="History of The Collapse">History of The Collapse</a> Part One <a href="./What%20I%20Know.md" class="wikilink" title="What I Know">What I Know</a> Knowledge)
-- 125 Trust: Cache Location - The location of a Supply Cache, updated on your Map. (Gives new <a href="./Milton%20Supply%20Caches.md" class="wikilink" title="Milton Supply Caches">Milton Supply Caches</a>)
-- 175 Trust: Side Mission: Distress Pistol - Information about where you might find a Distress Pistol. (<a href="./Light%20Up%20The%20Night.md" class="wikilink" title="Light Up The Night">Light Up The Night</a>)
+- 25 Trust: Knowledge: Milton History - Worldbuilding information about the history of Milton. (Gives [Town of Milton](./Town%20of%20Milton.md) [What I Know](./What%20I%20Know.md) Knowledge)
+- 50 Trust: Gameplay Tip: Sharpening - Gameplay tip about how to maintain Bladed tools. (Gives [Whetstone](./Whetstone.md))
+- 75 Trust: Knowledge: The Collapse - Worldbuilding information about the Collapse. (Gives [History of The Collapse](./History%20of%20The%20Collapse.md) Part One [What I Know](./What%20I%20Know.md) Knowledge)
+- 125 Trust: Cache Location - The location of a Supply Cache, updated on your Map. (Gives new [Milton Supply Caches](./Milton%20Supply%20Caches.md))
+- 175 Trust: Side Mission: Distress Pistol - Information about where you might find a Distress Pistol. ([Light Up The Night](./Light%20Up%20The%20Night.md))
 - 225 Trust: Blueprint: Rabbit Skin Mittens - Unlocks the Crafting Blueprint for Rabbit Skin Mittens.
-- 300 Trust: Knowledge: <a href="./Perseverance%20Mills.md" class="wikilink" title="Perseverance Mills">Perseverance Mills</a> - Worldbuilding information about Perseverance Mills. (Gives <a href="./History%20of%20The%20Collapse.md" class="wikilink" title="History of The Collapse">History of The Collapse</a> Part Two <a href="./What%20I%20Know.md" class="wikilink" title="What I Know">What I Know</a> Knowledge)
-- 375 Trust: Item: <a href="./Mountaineering%20Boots.md" class="wikilink" title="Mountaineering Boots">Mountaineering Boots</a> - Grey Mother gives you with Mountaineering Boots. (sic) (Gives <a href="./Mountaineering%20Boots.md" class="wikilink" title="Mountaineering Boots">Mountaineering Boots</a>)
+- 300 Trust: Knowledge: [Perseverance Mills](./Perseverance%20Mills.md) - Worldbuilding information about Perseverance Mills. (Gives [History of The Collapse](./History%20of%20The%20Collapse.md) Part Two [What I Know](./What%20I%20Know.md) Knowledge)
+- 375 Trust: Item: [Mountaineering Boots](./Mountaineering%20Boots.md) - Grey Mother gives you with Mountaineering Boots. (sic) (Gives [Mountaineering Boots](./Mountaineering%20Boots.md))
 
 *Upon selecting "Trust"*
 
@@ -768,6 +720,4 @@ Grey Mother **(Text)**: "You may have to take what you find left behind."
 
 Mackenzie **(Text)**: "My feet are fine."
 
-Grey Mother **(Text)**: "Don't be so stubborn, Mainlander. Here... Take these old boots. <a href="./Lilith%20Barker.md" class="wikilink" title="They belonged to my">They belonged to my</a>...oh, never mind. Just take them. They are some of the best you can get for climbing. They'll help you keep going."<span class="missing-template" title="Template:The Grey Mother (Predux) is not in the dump">\[The Grey Mother (Predux)\]</span>
-
-</div>
+Grey Mother **(Text)**: "Don't be so stubborn, Mainlander. Here... Take these old boots. [They belonged to my](./Lilith%20Barker.md)...oh, never mind. Just take them. They are some of the best you can get for climbing. They'll help you keep going."\[The Grey Mother (Predux)\]

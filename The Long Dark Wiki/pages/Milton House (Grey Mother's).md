@@ -7,85 +7,40 @@ source: "https://thelongdark.fandom.com/wiki/Milton_House_(Grey_Mother's)"
 
 # Milton House \(Grey Mother's\)
 
-<div>
-
 **Contents**
 
-- [Overview](#Overview)
-- [Wintermute](#Wintermute)
-- [Survival](#Survival)
-- [Notable Loot](#Notable_Loot)
+- [Overview](#overview)
+- [Wintermute](#wintermute)
+- [Survival](#survival)
+- [Notable Loot](#notable-loot)
 
-<table class="infobox">
-<caption>Milton House (Grey Mother's)</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Milton_House_%28Grey_Mother%27s%29.png" loading="lazy" width="250" />
-<figcaption>Milton_House_(Grey_Mother's).png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Milton_House_(Grey_Mother's)_Location.png]</span>
-<figcaption>Milton_House_(Grey_Mother's)_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>A large two-story house with a lit fireplace</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Residential|-</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Bed_icon.png" loading="lazy" width="30" />
-<figcaption>bed_icon.png</figcaption>
-</figure></td>
-<td><p>Has a bed</p></td>
-</tr>
-<tr>
-<td></td>
-<td><p>Has an interior|-</p></td>
-</tr>
-<tr>
-<td><p>Missions</p></td>
-<td><p><a href="./Episode%201%20-%20Do%20Not%20Go%20Gentle.md" class="wikilink" title="Episode 1">Episode 1</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Grey%20Mother.md" class="wikilink" title="Grey Mother">Grey Mother</a></p></td>
-</tr>
-</tbody>
-</table>
+**Milton House (Grey Mother's)**
 
-The **Milton House (Grey Mother's)**is a location featured in <a href="./Episode%201%20-%20Do%20Not%20Go%20Gentle.md" class="wikilink" title="Episode 1">Episode 1</a> of *The Long Dark*. It is a large two-story house in the town of <a href="./Milton.md" class="wikilink" title="Milton">Milton</a> and is home to <a href="./Grey%20Mother.md" class="wikilink" title="Grey Mother">Grey Mother</a>, and is distinguished as being the largest <a href="./Milton%20House.md" class="wikilink" title="Milton House">Milton House</a> in the town.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Milton_House_%28Grey_Mother%27s%29.png) / *Milton\_House\_(Grey\_Mother's).png* |
+| **Location** |  |
+|  | ![](../assets/Milton_House_%28Grey_Mother%27s%29_Location.png) / *Milton\_House\_(Grey\_Mother's)\_Location.png* |
+| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Description | A large two-story house with a lit fireplace |
+| **General** |  |
+| Type | Residential\|- |
+| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |
+|  | Has an interior\|- |
+| Missions | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
+| Characters | [Grey Mother](./Grey%20Mother.md) |
+
+The **Milton House (Grey Mother's)**is a location featured in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of *The Long Dark*. It is a large two-story house in the town of [Milton](./Milton.md) and is home to [Grey Mother](./Grey%20Mother.md), and is distinguished as being the largest [Milton House](./Milton%20House.md) in the town.
 
 ## Overview
 
-The house is located on top of a small hill near the town entrance. It has two bedrooms, a bathroom, a kitchen with a <a href="./Stove.md" class="wikilink" title="Stove">Stove</a>, and a living room with a <a href="./Fireplace.md" class="wikilink" title="Fireplace">Fireplace</a>. Various loot items can be found in the containers throughout the house.
+The house is located on top of a small hill near the town entrance. It has two bedrooms, a bathroom, a kitchen with a [Stove](./Stove.md), and a living room with a [Fireplace](./Fireplace.md). Various loot items can be found in the containers throughout the house.
 
-In the backyard, there is a small shed with a <a href="./Hatchet.md" class="wikilink" title="Hatchet">Hatchet</a> and <a href="./Prybar.md" class="wikilink" title="Prybar">Prybar</a>. Near the end of Episode 1, Grey Mother will give you a key to unlock a <a href="./Trunk.md" class="wikilink" title="Trunk">Trunk</a> in the second bedroom, giving you access to a <a href="./Mountaineering%20Rope.md" class="wikilink" title="Mountaineering Rope">Mountaineering Rope</a>. She will also cook some <a href="./Home-made%20Soup.md" class="wikilink" title="Home-made Soup">Home-made Soup</a> for the player to show her hospitality.
+In the backyard, there is a small shed with a [Hatchet](./Hatchet.md) and [Prybar](./Prybar.md). Near the end of Episode 1, Grey Mother will give you a key to unlock a [Trunk](./Trunk.md) in the second bedroom, giving you access to a [Mountaineering Rope](./Mountaineering%20Rope.md). She will also cook some [Home-made Soup](./Home-made%20Soup.md) for the player to show her hospitality.
 
 ## Wintermute
 
-The house is occupied by Grey Mother, a blind old woman with a loaded rifle and a distrust for outsiders. She is the only remaining resident in the town of Milton and is effectively trapped due to the collapsed tunnel out of town. From her house, she gives <a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a> various missions and allows him to use the house as shelter from the cold and the wolves.
+The house is occupied by Grey Mother, a blind old woman with a loaded rifle and a distrust for outsiders. She is the only remaining resident in the town of Milton and is effectively trapped due to the collapsed tunnel out of town. From her house, she gives [Will Mackenzie](./Will%20Mackenzie.md) various missions and allows him to use the house as shelter from the cold and the wolves.
 
 ## Survival
 
@@ -93,11 +48,9 @@ In survival, the house is devoid of Grey Mother, with just her chair tipped onto
 
 ### Notable Loot
 
-- A <a href="./Revolver.md" class="wikilink" title="Revolver">Revolver</a> may spawn in the first bedroom beneath the bed, with two cartridges scattered around.
-- The Storage room on the first floor may hide a box of <a href="./Revolver%20Ammunition.md" class="wikilink" title="Revolver Ammunition">Revolver Ammunition</a> behind the leaning plank and another loot spawn behind a piece of harvestable cloth. It usually spawns a soda of some kind and can not be accessed without tearing up the cloth/towel (yields 3 <a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a>) first.
-- A <a href="./Distress%20Pistol.md" class="wikilink" title="Distress Pistol">Distress Pistol</a> may spawn in the bathtub on the second floor.
-- A pair of <a href="./Wool%20Longjohns.md" class="wikilink" title="Wool Longjohns">Wool Longjohns</a> (or other high quality clothing) may spawn on the ground in the second bedroom, or in the bathtub.
+- A [Revolver](./Revolver.md) may spawn in the first bedroom beneath the bed, with two cartridges scattered around.
+- The Storage room on the first floor may hide a box of [Revolver Ammunition](./Revolver%20Ammunition.md) behind the leaning plank and another loot spawn behind a piece of harvestable cloth. It usually spawns a soda of some kind and can not be accessed without tearing up the cloth/towel (yields 3 [Cloth](./Cloth.md)) first.
+- A [Distress Pistol](./Distress%20Pistol.md) may spawn in the bathtub on the second floor.
+- A pair of [Wool Longjohns](./Wool%20Longjohns.md) (or other high quality clothing) may spawn on the ground in the second bedroom, or in the bathtub.
 
-\[Missing image: Greymotherhouse.jpg\]**Lua execution error in Module:Navbox function navbox**
-
-</div>
+![Greymotherhouse.jpg](../assets/Greymotherhouse.jpg)**Lua execution error in Module:Navbox function navbox**

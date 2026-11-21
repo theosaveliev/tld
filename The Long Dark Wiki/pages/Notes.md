@@ -7,215 +7,167 @@ source: "https://thelongdark.fandom.com/wiki/Notes"
 
 # Notes
 
-<div>
-
 **Contents**
 
-- [A Note Left Behind](#A_Note_Left_Behind)
-- [Desolation Point](#Desolation_Point)
-- [Climber's Journal Page](#Climber%27s_Journal_Page)
-- [Timberwolf Mountain](#Timberwolf_Mountain)
-- [Other Notes](#Other_Notes)
-- [Ash Canyon](#Ash_Canyon)
-- [Bleak Inlet](#Bleak_Inlet)
-- [Blackrock](#Blackrock)
-- [Forsaken Airfield](#Forsaken_Airfield)
-- [Zone of Contamination](#Zone_of_Contamination)
-- [Sundered Pass](#Sundered_Pass)
-- [Transfer Pass](#Transfer_Pass)
-- [Mystery Lake (region)](#Mystery_Lake_%28region%29)
-- [Mountain Town](#Mountain_Town)
-- [Tales from the Far Territory](#Tales_from_the_Far_Territory)
-- [Signal Void](#Signal_Void)
-- [Buried Echoes](#Buried_Echoes)
-- [Last Horizon](#Last_Horizon)
-- [History](#History)
-- [Gallery](#Gallery)
-- [References](#References)
+- [A Note Left Behind](#a-note-left-behind)
+- [Desolation Point](#desolation-point)
+- [Climber's Journal Page](#climbers-journal-page)
+- [Timberwolf Mountain](#timberwolf-mountain)
+- [Other Notes](#other-notes)
+- [Ash Canyon](#ash-canyon)
+- [Bleak Inlet](#bleak-inlet)
+- [Blackrock](#blackrock)
+- [Forsaken Airfield](#forsaken-airfield)
+- [Zone of Contamination](#zone-of-contamination)
+- [Sundered Pass](#sundered-pass)
+- [Transfer Pass](#transfer-pass)
+- [Mystery Lake (region)](#mystery-lake-region)
+- [Mountain Town](#mountain-town)
+- [Tales from the Far Territory](#tales-from-the-far-territory)
+- [Signal Void](#signal-void)
+- [Buried Echoes](#buried-echoes)
+- [Last Horizon](#last-horizon)
+- [History](#history)
+- [Gallery](#gallery)
+- [References](#references)
 
-<span class="thumb"><img src="../assets/Note_icon.png" loading="lazy" width="220" /></span> **Notes** are <a href="./Collectibles.md" class="wikilink" title="Collectible">Collectibles</a> found scattered around the map in <a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a>. The notes are in-keeping with the game's setting: Some are letters, written as if the authors had been visiting <a href="./Great%20Bear%20Island.md" class="wikilink" title="Great Bear Island">Great Bear Island</a>, while others are poems. Some notes stand alone, others tell a continuing story.
+![](../assets/Note_icon.png) **Notes** are [Collectibles](./Collectibles.md) found scattered around the map in [Survival Mode](./Survival%20Mode.md). The notes are in-keeping with the game's setting: Some are letters, written as if the authors had been visiting [Great Bear Island](./Great%20Bear%20Island.md), while others are poems. Some notes stand alone, others tell a continuing story.
 
-Notes found while playing <a href="./Tales%20from%20the%20Far%20Territory.md" class="wikilink" title="Tales from the Far Territory">Tales from the Far Territory</a> are also stored here.
+Notes found while playing [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) are also stored here.
 
 There are currently 102 notes in total to find.
 
-<div style="float:right; clear:right; margin-bottom:.5em; padding:.5em 0 .8em 1.4em; background:transparent; max-width:20em;">
+## [A Note Left Behind](./A%20Note%20Left%20Behind.md)
 
-</div>
+[Pleasant Valley](./Pleasant%20Valley.md)
 
-## <a href="./A%20Note%20Left%20Behind.md" class="wikilink" title="A Note Left Behind">A Note Left Behind</a>
+- [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) - Inside the house to the table right of the [Stove](./Stove.md).
 
-<a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>
+- [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md) - Inside the red barn on the table metal table near the [Truck](./Truck.md).
 
-- <a href="./Pleasant%20Valley%20Farmstead.md" class="wikilink" title="Pleasant Valley Farmstead">Pleasant Valley Farmstead</a> - Inside the house to the table right of the <a href="./Stove.md" class="wikilink" title="Stove">Stove</a>.
+[Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
-<!-- -->
+- [Camp Office](./Camp%20Office.md) - on the table on the top floor next to the bunk beds.
 
-- <a href="./Pleasant%20Valley%20Outbuildings.md" class="wikilink" title="Pleasant Valley Outbuildings">Pleasant Valley Outbuildings</a> - Inside the red barn on the table metal table near the <a href="./Truck.md" class="wikilink" title="Truck">Truck</a>.
+- [Trapper's Homestead](./Trapper%27s%20Homestead.md) - beside the armchair
 
-<a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>
+- [Lone Lake Cabin](./Lone%20Lake%20Cabin.md) - outside on the front porch
 
-- <a href="./Camp%20Office.md" class="wikilink" title="Camp Office">Camp Office</a> - on the table on the top floor next to the bunk beds.
+[Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
-<!-- -->
+- [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) - on bed on the loft above the [Forge](./Forge.md).
 
-- <a href="./Trapper%27s%20Homestead.md" class="wikilink" title="Trapper&#39;s Homestead">Trapper's Homestead</a> - beside the armchair
+[Old Island Connector](./Crumbling%20Highway.md)
 
-<!-- -->
+- [Abandoned Harris Home](./Abandoned%20Harris%20Home.md) - outside in the car.
 
-- <a href="./Lone%20Lake%20Cabin.md" class="wikilink" title="Lone Lake Cabin">Lone Lake Cabin</a> - outside on the front porch
+### [Desolation Point](./Desolation%20Point.md)
 
-<a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a>
+- [Hibernia Processing](./Hibernia%20Processing.md) - Downstairs on the [Work Bench](./Work%20Bench.md).
 
-- <a href="./Old%20Spence%20Family%20Homestead.md" class="wikilink" title="Old Spence Family Homestead">Old Spence Family Homestead</a> - on bed on the loft above the <a href="./Forge.md" class="wikilink" title="Forge">Forge</a>.
+- [Lonely Lighthouse](./Lonely%20Lighthouse.md) - 2nd floor windowsill.
 
-<a href="./Crumbling%20Highway.md" class="wikilink" title="Old Island Connector">Old Island Connector</a>
+[Coastal Highway](./Coastal%20Highway.md)
 
-- <a href="./Abandoned%20Harris%20Home.md" class="wikilink" title="Abandoned Harris Home">Abandoned Harris Home</a> - outside in the car.
+- [Abandoned Lookout](./Abandoned%20Lookout.md)
 
-### <a href="./Desolation%20Point.md" class="wikilink" title="Desolation Point">Desolation Point</a>
+- [Quonset Garage](./Quonset%20Garage.md) - Table in the back.
 
-- <a href="./Hibernia%20Processing.md" class="wikilink" title="Hibernia Processing">Hibernia Processing</a> - Downstairs on the <a href="./Work%20Bench.md" class="wikilink" title="Work Bench">Work Bench</a>.
-
-<!-- -->
-
-- <a href="./Lonely%20Lighthouse.md" class="wikilink" title="Lonely Lighthouse">Lonely Lighthouse</a> - 2nd floor windowsill.
-
-<a href="./Coastal%20Highway.md" class="wikilink" title="Coastal Highway">Coastal Highway</a>
-
-- <a href="./Abandoned%20Lookout.md" class="wikilink" title="Abandoned Lookout">Abandoned Lookout</a>
-
-<!-- -->
-
-- <a href="./Quonset%20Garage.md" class="wikilink" title="Quonset Garage">Quonset Garage</a> - Table in the back.
-
-<!-- -->
-
-- <a href="./Rockfall.md" class="wikilink" title="Rockfall">Rockfall</a> - in the backseat of the car on the bridge.
+- [Rockfall](./Rockfall.md) - in the backseat of the car on the bridge.
 
 ## Climber's Journal Page
 
-### <a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>
+### [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
-- <a href="./Mountaineer%27s%20Hut.md" class="wikilink" title="Mountaineer&#39;s Hut">Mountaineer's Hut</a> - on the <a href="./Work%20Bench.md" class="wikilink" title="Work Bench">Work Bench</a> - <a href="./Climber%27s%20Journal%20Page.md" class="wikilink" title="Climber&#39;s Journal Page">Climber's Journal Page</a>
+- [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) - on the [Work Bench](./Work%20Bench.md) - [Climber's Journal Page](./Climber%27s%20Journal%20Page.md)
 
 ## Other Notes
 
-### <a href="./Ash%20Canyon.md" class="wikilink" title="Ash Canyon">Ash Canyon</a>
+### [Ash Canyon](./Ash%20Canyon.md)
 
-- <a href="./Angler%27s%20Den.md" class="wikilink" title="Angler&#39;s Den">Angler's Den</a> - <a href="./Diary%20Page.md" class="wikilink" title="Diary Page">Diary Page</a>
+- [Angler's Den](./Angler%27s%20Den.md) - [Diary Page](./Diary%20Page.md)
 
-<!-- -->
+- [Gold Mine](./Gold%20Mine.md) - by the [Technical Backpack](./Technical%20Backpack.md) - [Notebook Page (Survival 2)](./Notebook%20Page%20%28Survival%202%29.md)
 
-- <a href="./Gold%20Mine.md" class="wikilink" title="Gold Mine">Gold Mine</a> - by the <a href="./Technical%20Backpack.md" class="wikilink" title="Technical Backpack">Technical Backpack</a> - <a href="./Notebook%20Page%20%28Survival%202%29.md" class="wikilink" title="Notebook Page (Survival 2)">Notebook Page (Survival 2)</a>
+- [Climber's Cave](./Climber%27s%20Cave.md) - [Notebook Page (Survival)](./Notebook%20Page%20%28Survival%29.md)
 
-<!-- -->
+- [Miner's Folly](./Miner%27s%20Folly.md) - On the table to the left inside the bunkhouse - [Mining Log Page](./Mining%20Log%20Page.md)
 
-- <a href="./Climber%27s%20Cave.md" class="wikilink" title="Climber&#39;s Cave">Climber's Cave</a> - <a href="./Notebook%20Page%20%28Survival%29.md" class="wikilink" title="Notebook Page (Survival)">Notebook Page (Survival)</a>
+### [Bleak Inlet](./Bleak%20Inlet.md)
 
-<!-- -->
+- [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md) - in the control hut - [Communication Report](./Communication%20Report.md)
 
-- <a href="./Miner%27s%20Folly.md" class="wikilink" title="Miner&#39;s Folly">Miner's Folly</a> - On the table to the left inside the bunkhouse - <a href="./Mining%20Log%20Page.md" class="wikilink" title="Mining Log Page">Mining Log Page</a>
+- [Last Resort Cannery](./Last%20Resort%20Cannery.md) - [The Technician's Notebook](./The%20Technician%27s%20Notebook.md)
 
-### <a href="./Bleak%20Inlet.md" class="wikilink" title="Bleak Inlet">Bleak Inlet</a>
+- [Last Resort Cannery](./Last%20Resort%20Cannery.md) - [Cannery Memo](./Cannery%20Memo.md)
 
-- <a href="./Echo%20One%20Radio%20Tower.md" class="wikilink" title="Echo One Radio Tower">Echo One Radio Tower</a> - in the control hut - <a href="./Communication%20Report.md" class="wikilink" title="Communication Report">Communication Report</a>
+### [Blackrock](./Blackrock.md)
 
-<!-- -->
+- [Blackrock Prison](./Blackrock%20Prison.md) yard - on the [Keypad](./Keypad.md) door next to the [Steam Tunnels](./Steam%20Tunnels.md) entrance - [Blackrock Memo](./Blackrock%20Memo.md)
 
-- <a href="./Last%20Resort%20Cannery.md" class="wikilink" title="Last Resort Cannery">Last Resort Cannery</a> - <a href="./The%20Technician%27s%20Notebook.md" class="wikilink" title="The Technician&#39;s Notebook">The Technician's Notebook</a>
+- [Blackrock Prison](./Blackrock%20Prison.md) yard - in the guard tower behind the infirmary - [Note (Survival)](./Note%20%28Survival%29.md)
 
-<!-- -->
+- [Blackrock Prison](./Blackrock%20Prison.md) interior - 2nd floor, under a desk in room no. 200 - [Page](./Page.md)
 
-- <a href="./Last%20Resort%20Cannery.md" class="wikilink" title="Last Resort Cannery">Last Resort Cannery</a> - <a href="./Cannery%20Memo.md" class="wikilink" title="Cannery Memo">Cannery Memo</a>
+- [Blackrock Prison](./Blackrock%20Prison.md) interior - 1st floor, in the guard room next to cell no. 11 - [Note (Survival 2)](./Note%20%28Survival%202%29.md)
 
-### <a href="./Blackrock.md" class="wikilink" title="Blackrock">Blackrock</a>
+- [Last Prospect](./Last%20Prospect.md) - in the mine, floor 2, the lockers next to the mattress - [Handwritten Note (Survival)](./Handwritten%20Note%20%28Survival%29.md)
 
-- <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> yard - on the <a href="./Keypad.md" class="wikilink" title="Keypad">Keypad</a> door next to the <a href="./Steam%20Tunnels.md" class="wikilink" title="Steam Tunnels">Steam Tunnels</a> entrance - <a href="./Blackrock%20Memo.md" class="wikilink" title="Blackrock Memo">Blackrock Memo</a>
+### [Forsaken Airfield](./Forsaken%20Airfield.md)
 
-<!-- -->
+- [Control Tower](./Control%20Tower.md) - at the top - [Note (Forsaken Airfield)](./Note%20%28Forsaken%20Airfield%29.md)
 
-- <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> yard - in the guard tower behind the infirmary - <a href="./Note%20%28Survival%29.md" class="wikilink" title="Note (Survival)">Note (Survival)</a>
+- [Cargomaster's Trailer](./Cargomaster%27s%20Trailer.md). In the back of the trailer under the lockers - [Paper](./Paper.md)
 
-<!-- -->
+- [Justy's Hovel](./Justy%27s%20Hovel.md) - on a table as soon as you enter the front door - [Page (2)](./Page%20%282%29.md)
 
-- <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> interior - 2nd floor, under a desk in room no. 200 - <a href="./Page.md" class="wikilink" title="Page">Page</a>
+- [Junker's Paddock](./Junker%27s%20Paddock.md) - on the floor of the junked truck - [Journal Page](./Journal%20Page.md)
 
-<!-- -->
+- [Main Hangar Basement](./Hangar%20Basement.md) - on a table on the right upon entering - [Memo (Survival)](./Memo%20%28Survival%29.md)
 
-- <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> interior - 1st floor, in the guard room next to cell no. 11 - <a href="./Note%20%28Survival%202%29.md" class="wikilink" title="Note (Survival 2)">Note (Survival 2)</a>
+- [Main Hangar](./Main%20Hangar.md) - Right side corner office next to the stairs. Inside an overturned filing cabinet, far left side of the room. - [Stained Paper](./Stained%20Paper.md)
 
-<!-- -->
+- [Mindful Cabin](./Mindful%20Cabin.md) - under the stairs in some Loose Boards behind the left shelves, behind the potted plant. - [Faded Paper](./Faded%20Paper.md)
 
-- <a href="./Last%20Prospect.md" class="wikilink" title="Last Prospect">Last Prospect</a> - in the mine, floor 2, the lockers next to the mattress - <a href="./Handwritten%20Note%20%28Survival%29.md" class="wikilink" title="Handwritten Note (Survival)">Handwritten Note (Survival)</a>
+### [Zone of Contamination](./Zone%20of%20Contamination.md)
 
-### <a href="./Forsaken%20Airfield.md" class="wikilink" title="Forsaken Airfield">Forsaken Airfield</a>
+- [Pump House](./Pump%20House.md) - "[Langston Mine Memo](./Langston%20Mine%20Memo.md)" on the right under the shelves.
+- [Idle Camp](./Idle%20Camp.md) - in the left worker barracks. - [Mining Newsletter](./Mining%20Newsletter.md)
 
-- <a href="./Control%20Tower.md" class="wikilink" title="Control Tower">Control Tower</a> - at the top - <a href="./Note%20%28Forsaken%20Airfield%29.md" class="wikilink" title="Note (Forsaken Airfield)">Note (Forsaken Airfield)</a>
+### [Sundered Pass](./Sundered%20Pass.md)
 
-<!-- -->
+- [Final Refuge](./Final%20Refuge.md) - on the shelf. - [Note (Sundered Pass)](./Note%20%28Sundered%20Pass%29.md)
+- [Weather Station](./Weather%20Station.md) - in the radar dome building, northwest corner floor. -[Bloody note](./Bloody%20note.md)
+- [Ambler's Lake](./Ambler%27s%20Lake.md) [Fishing Hut](./Fishing%20Hut.md) - [Naturalist Notebook 2](./Naturalist%20Notebook%202.md)
 
-- <a href="./Cargomaster%27s%20Trailer.md" class="wikilink" title="Cargomaster&#39;s Trailer">Cargomaster's Trailer</a>. In the back of the trailer under the lockers - <a href="./Paper.md" class="wikilink" title="Paper">Paper</a>
+### [Transfer Pass](./Transfer%20Pass.md)
 
-<!-- -->
+- Coal tower near [Vacant Depot](./Vacant%20Depot.md) - on the shelf - [Naturalist Notebook 1](./Naturalist%20Notebook%201.md)
 
-- <a href="./Justy%27s%20Hovel.md" class="wikilink" title="Justy&#39;s Hovel">Justy's Hovel</a> - on a table as soon as you enter the front door - <a href="./Page%20%282%29.md" class="wikilink" title="Page (2)">Page (2)</a>
+### [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
 
-<!-- -->
+- [Camp Office](./Camp%20Office.md) inside front door - [Cougar Warning Flyer](./Cougar%20Warning%20Flyer.md)
+- [Camp Office](./Camp%20Office.md) table next to the Radio - [A page from an old newsletter.](./A%20page%20from%20an%20old%20newsletter..md)
 
-- <a href="./Junker%27s%20Paddock.md" class="wikilink" title="Junker&#39;s Paddock">Junker's Paddock</a> - on the floor of the junked truck - <a href="./Journal%20Page.md" class="wikilink" title="Journal Page">Journal Page</a>
+### [Mountain Town](./Mountain%20Town.md)
 
-<!-- -->
+- [Milton Park](./Milton%20Park.md) inside front door - [Cougar Warning Flyer (2)](./Cougar%20Warning%20Flyer%20%282%29.md)
 
-- <a href="./Hangar%20Basement.md" class="wikilink" title="Main Hangar Basement">Main Hangar Basement</a> - on a table on the right upon entering - <a href="./Memo%20%28Survival%29.md" class="wikilink" title="Memo (Survival)">Memo (Survival)</a>
+## [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)
 
-<!-- -->
+### [Signal Void](./Signal%20Void.md)
 
-- <a href="./Main%20Hangar.md" class="wikilink" title="Main Hangar">Main Hangar</a> - Right side corner office next to the stairs. Inside an overturned filing cabinet, far left side of the room. - <a href="./Stained%20Paper.md" class="wikilink" title="Stained Paper">Stained Paper</a>
+- ![Field\_31\_Operation\_Memo\_icon.png](../assets/Field_31_Operation_Memo_icon.png) [Field 31 Operation Memo](./Field%2031%20Operation%20Memo.md)
+- ![Security\_Chief's\_Log\_6\_icon.png](../assets/Security_Chief%27s_Log_6_icon.png) [Security Chief's Log 6](./Security%20Chief%27s%20Log%206.md)
+- ![Security\_Chief's\_Log\_14\_icon.png](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)
+- ![Security\_Chief's\_Log\_23\_icon.png](../assets/Security_Chief%27s_Log_23_icon.png) [Security Chief's Log 23](./Security%20Chief%27s%20Log%2023.md)
+- ![Security\_Chief's\_Log\_29\_icon.png](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
+- ![Interview\_Transcript\_4\_icon.png](../assets/Interview_Transcript_4_icon.png) [Interview Transcript 4](./Interview%20Transcript%204.md)
+- ![Interview\_Transcript\_12\_icon.png](../assets/Interview_Transcript_12_icon.png) [Interview Transcript 12](./Interview%20Transcript%2012.md)
+- ![Interview\_Transcript\_14\_icon.png](../assets/Interview_Transcript_14_icon.png) [Interview Transcript 14](./Interview%20Transcript%2014.md)
+- ![Interview\_Transcript\_17\_icon.png](../assets/Interview_Transcript_17_icon.png) [Interview Transcript 17](./Interview%20Transcript%2017.md)
 
-<!-- -->
-
-- <a href="./Mindful%20Cabin.md" class="wikilink" title="Mindful Cabin">Mindful Cabin</a> - under the stairs in some Loose Boards behind the left shelves, behind the potted plant. - <a href="./Faded%20Paper.md" class="wikilink" title="Faded Paper">Faded Paper</a>
-
-### <a href="./Zone%20of%20Contamination.md" class="wikilink" title="Zone of Contamination">Zone of Contamination</a>
-
-- <a href="./Pump%20House.md" class="wikilink" title="Pump House">Pump House</a> - "<a href="./Langston%20Mine%20Memo.md" class="wikilink" title="Langston Mine Memo">Langston Mine Memo</a>" on the right under the shelves.
-- <a href="./Idle%20Camp.md" class="wikilink" title="Idle Camp">Idle Camp</a> - in the left worker barracks. - <a href="./Mining%20Newsletter.md" class="wikilink" title="Mining Newsletter">Mining Newsletter</a>
-
-### <a href="./Sundered%20Pass.md" class="wikilink" title="Sundered Pass">Sundered Pass</a>
-
-- <a href="./Final%20Refuge.md" class="wikilink" title="Final Refuge">Final Refuge</a> - on the shelf. - <a href="./Note%20%28Sundered%20Pass%29.md" class="wikilink" title="Note (Sundered Pass)">Note (Sundered Pass)</a>
-- <a href="./Weather%20Station.md" class="wikilink" title="Weather Station">Weather Station</a> - in the radar dome building, northwest corner floor. -<a href="./Bloody%20note.md" class="wikilink" title="Bloody note">Bloody note</a>
-- <a href="./Ambler%27s%20Lake.md" class="wikilink" title="Ambler&#39;s Lake">Ambler's Lake</a> <a href="./Fishing%20Hut.md" class="wikilink" title="Fishing Hut">Fishing Hut</a> - <a href="./Naturalist%20Notebook%202.md" class="wikilink" title="Naturalist Notebook 2">Naturalist Notebook 2</a>
-
-### <a href="./Transfer%20Pass.md" class="wikilink" title="Transfer Pass">Transfer Pass</a>
-
-- Coal tower near <a href="./Vacant%20Depot.md" class="wikilink" title="Vacant Depot">Vacant Depot</a> - on the shelf - <a href="./Naturalist%20Notebook%201.md" class="wikilink" title="Naturalist Notebook 1">Naturalist Notebook 1</a>
-
-### <a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake (region)">Mystery Lake (region)</a>
-
-- <a href="./Camp%20Office.md" class="wikilink" title="Camp Office">Camp Office</a> inside front door - <a href="./Cougar%20Warning%20Flyer.md" class="wikilink" title="Cougar Warning Flyer">Cougar Warning Flyer</a>
-- <a href="./Camp%20Office.md" class="wikilink" title="Camp Office">Camp Office</a> table next to the Radio - <a href="./A%20page%20from%20an%20old%20newsletter..md" class="wikilink" title="A page from an old newsletter.">A page from an old newsletter.</a>
-
-### <a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a>
-
-- <a href="./Milton%20Park.md" class="wikilink" title="Milton Park">Milton Park</a> inside front door - <a href="./Cougar%20Warning%20Flyer%20%282%29.md" class="wikilink" title="Cougar Warning Flyer (2)">Cougar Warning Flyer (2)</a>
-
-## <a href="./Tales%20from%20the%20Far%20Territory.md" class="wikilink" title="Tales from the Far Territory">Tales from the Far Territory</a>
-
-### <a href="./Signal%20Void.md" class="wikilink" title="Signal Void">Signal Void</a>
-
-- <img src="../assets/Field_31_Operation_Memo_icon.png" loading="lazy" width="29" height="29" alt="Field_31_Operation_Memo_icon.png" /> <a href="./Field%2031%20Operation%20Memo.md" class="wikilink" title="Field 31 Operation Memo">Field 31 Operation Memo</a>
-- <img src="../assets/Security_Chief%27s_Log_6_icon.png" loading="lazy" width="29" height="29" alt="Security_Chief&#39;s_Log_6_icon.png" /> <a href="./Security%20Chief%27s%20Log%206.md" class="wikilink" title="Security Chief&#39;s Log 6">Security Chief's Log 6</a>
-- <img src="../assets/Security_Chief%27s_Log_14_icon.png" loading="lazy" width="29" height="29" alt="Security_Chief&#39;s_Log_14_icon.png" /> <a href="./Security%20Chief%27s%20Log%2014.md" class="wikilink" title="Security Chief&#39;s Log 14">Security Chief's Log 14</a>
-- <img src="../assets/Security_Chief%27s_Log_23_icon.png" loading="lazy" width="29" height="29" alt="Security_Chief&#39;s_Log_23_icon.png" /> <a href="./Security%20Chief%27s%20Log%2023.md" class="wikilink" title="Security Chief&#39;s Log 23">Security Chief's Log 23</a>
-- <img src="../assets/Security_Chief%27s_Log_29_icon.png" loading="lazy" width="29" height="29" alt="Security_Chief&#39;s_Log_29_icon.png" /> <a href="./Security%20Chief%27s%20Log%2029.md" class="wikilink" title="Security Chief&#39;s Log 29">Security Chief's Log 29</a>
-- <img src="../assets/Interview_Transcript_4_icon.png" loading="lazy" width="29" height="29" alt="Interview_Transcript_4_icon.png" /> <a href="./Interview%20Transcript%204.md" class="wikilink" title="Interview Transcript 4">Interview Transcript 4</a>
-- <img src="../assets/Interview_Transcript_12_icon.png" loading="lazy" width="29" height="29" alt="Interview_Transcript_12_icon.png" /> <a href="./Interview%20Transcript%2012.md" class="wikilink" title="Interview Transcript 12">Interview Transcript 12</a>
-- <img src="../assets/Interview_Transcript_14_icon.png" loading="lazy" width="29" height="29" alt="Interview_Transcript_14_icon.png" /> <a href="./Interview%20Transcript%2014.md" class="wikilink" title="Interview Transcript 14">Interview Transcript 14</a>
-- <img src="../assets/Interview_Transcript_17_icon.png" loading="lazy" width="29" height="29" alt="Interview_Transcript_17_icon.png" /> <a href="./Interview%20Transcript%2017.md" class="wikilink" title="Interview Transcript 17">Interview Transcript 17</a>
-
-### <a href="./Buried%20Echoes.md" class="wikilink" title="Buried Echoes">Buried Echoes</a>
+### [Buried Echoes](./Buried%20Echoes.md)
 
 - **Template:iconlink**
 - **Template:iconlink**
@@ -229,7 +181,7 @@ There are currently 102 notes in total to find.
 - **Template:iconlink**
 - **Template:iconlink**
 
-### <a href="./Last%20Horizon.md" class="wikilink" title="Last Horizon">Last Horizon</a>
+### [Last Horizon](./Last%20Horizon.md)
 
 - **Template:iconlink**
 - **Template:iconlink**
@@ -243,36 +195,24 @@ There are currently 102 notes in total to find.
 
 ## History
 
-- The first 13 notes (A Note Left Behind) were written by the game's Kickstarter backers and were added to the game's first <a href="./Region.md" class="wikilink" title="regions">regions</a> as a reward for certain levels of pledges.
-  - <a href="./Climber%27s%20Journal%20Page.md" class="wikilink" title="Climber&#39;s Journal Page">Climber's Journal Page</a> was the only one that was authored by <a href="./Hinterland%20Studio%20Inc..md" class="wikilink" title="Hinterland">Hinterland</a>.
-- When <a href="./Bleak%20Inlet.md" class="wikilink" title="Bleak Inlet">Bleak Inlet</a> was added to the game with the **Errant Pilgrim** update in the year 2019, it included 3 new notes authored by Hinterland.
-- When <a href="./Ash%20Canyon.md" class="wikilink" title="Ash Canyon">Ash Canyon</a> was added to the game with the **Hesitant Prospect** update in the year 2020, it included 4 new notes authored by Hinterland.
-- When <a href="./Blackrock.md" class="wikilink" title="Blackrock">Blackrock</a> was added to the game with the **Perilous Constraint** update in the year 2021, it included 5 new notes authored by Hinterland.
-- When <a href="./Forsaken%20Airfield.md" class="wikilink" title="Forsaken Airfield">Forsaken Airfield</a> was added to the game as part of the Part 1 <a href="./Tales%20from%20the%20Far%20Territory.md" class="wikilink" title="Tales From The Far Territory Expansion">Tales From The Far Territory Expansion</a> update, it added 7 new notes authored by Hinterland.
-- When the <a href="./Zone%20of%20Contamination.md" class="wikilink" title="Zone of Contamination">Zone of Contamination</a> was added to the game as part of the Part 4 Tales from the Far Territory update, it added 2 new notes authored by Hinterland.
-- When the <a href="./Sundered%20Pass.md" class="wikilink" title="Sundered Pass">Sundered Pass</a> was added to the game as part of the Part 5 Tales from the Far Territory update, it added 2 new notes authored by Hinterland.
+- The first 13 notes (A Note Left Behind) were written by the game's Kickstarter backers and were added to the game's first [regions](./Region.md) as a reward for certain levels of pledges.
+  - [Climber's Journal Page](./Climber%27s%20Journal%20Page.md) was the only one that was authored by [Hinterland](./Hinterland%20Studio%20Inc..md).
+- When [Bleak Inlet](./Bleak%20Inlet.md) was added to the game with the **Errant Pilgrim** update in the year 2019, it included 3 new notes authored by Hinterland.
+- When [Ash Canyon](./Ash%20Canyon.md) was added to the game with the **Hesitant Prospect** update in the year 2020, it included 4 new notes authored by Hinterland.
+- When [Blackrock](./Blackrock.md) was added to the game with the **Perilous Constraint** update in the year 2021, it included 5 new notes authored by Hinterland.
+- When [Forsaken Airfield](./Forsaken%20Airfield.md) was added to the game as part of the Part 1 [Tales From The Far Territory Expansion](./Tales%20from%20the%20Far%20Territory.md) update, it added 7 new notes authored by Hinterland.
+- When the [Zone of Contamination](./Zone%20of%20Contamination.md) was added to the game as part of the Part 4 Tales from the Far Territory update, it added 2 new notes authored by Hinterland.
+- When the [Sundered Pass](./Sundered%20Pass.md) was added to the game as part of the Part 5 Tales from the Far Territory update, it added 2 new notes authored by Hinterland.
 - When the Tales From The Far Territory Part 6 Broken Silence was added to the game, it added 5 new notes authored by Hinterland.
 
 ## Gallery
 
-<table class="gallery">
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<span>[Missing image: A_Note_Left_Behind.jpg]</span>
-<figcaption>A_Note_Left_Behind.jpg</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table>
+| Column 1 |
+| --- |
+| ![](../assets/A_Note_Left_Behind.jpg) / *A\_Note\_Left\_Behind.jpg* |
 
 ## References
 
-\<div class="references-small" ;"\>
+&lt;div class="references-small" ;"&gt;
 
-**Lua execution error in Module:Navbox function navboxLua execution error in Module:Navbox function navbox** <a href="es:Nota_dejada_atras" class="wikilink" title="es:Nota dejada atras">es:Nota dejada atras</a> <a href="ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8" class="wikilink" title="ru:Записки">ru:Записки</a>
-
-</div>
+**Lua execution error in Module:Navbox function navbox****Lua execution error in Module:Navbox function navbox** [es:Nota dejada atras](es:Nota_dejada_atras) [ru:Записки](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8)

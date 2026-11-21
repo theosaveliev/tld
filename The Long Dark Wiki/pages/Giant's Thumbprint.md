@@ -7,46 +7,14 @@ source: "https://thelongdark.fandom.com/wiki/Giant's_Thumbprint"
 
 # Giant's Thumbprint
 
-<div>
+**Giant's Thumbprint**
 
-<table class="infobox">
-<caption>Giant's Thumbprint</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Giant's_Thumbprint.jpg]</span>
-<figcaption>Giant's_Thumbprint.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Giant's_Thumbprint_Location.png]</span>
-<figcaption>Giant's_Thumbprint_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Sundered%20Pass.md" class="wikilink" title="Sundered Pass">Sundered Pass</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>A small pond surrounded by a forest.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Landmark|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Giant%27s_Thumbprint.jpg) / *Giant's\_Thumbprint.jpg* |
+| **Location** |  |
+|  | ![](../assets/Giant%27s_Thumbprint_Location.png) / *Giant's\_Thumbprint\_Location.png* |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| Description | A small pond surrounded by a forest. |
+| **General** |  |
+| Type | Landmark\|- |

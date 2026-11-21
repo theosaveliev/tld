@@ -7,47 +7,26 @@ source: "https://thelongdark.fandom.com/wiki/Lights_in_the_Sky"
 
 # Lights in the Sky
 
-<div>
+**Lights in the Sky**
 
-<table class="infobox">
-<caption>Lights in the Sky</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Lights_in_the_Sky_icon.png" loading="lazy" width="250" />
-<figcaption>Lights_in_the_Sky_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>Survive the first Aurora event.</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Lights_in_the_Sky_icon.png) / *Lights\_in\_the\_Sky\_icon.png* |
+| Description | Survive the first Aurora event. |
 
-**Lights in the Sky** is a <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a> <a href="./The%20Long%20Dark%20%E2%80%94%20Achievements.md" class="wikilink" title="achievement">achievement</a> in <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2: Luminance Fugue">Episode 2: Luminance Fugue</a> of *<a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark">The Long Dark</a>*.
+**Lights in the Sky** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of *[The Long Dark](./The%20Long%20Dark.md)*.
 
 ## Guide
 
-This is an unmissable story achievement achieved during the mission <a href="./The%20Best%20Defense.md" class="wikilink" title="The Best Defense">The Best Defense</a> after the encounter with the <a href="./Old%20Bear.md" class="wikilink" title="Old Bear">Old Bear</a>. Simply make your way to the <a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a> and fall asleep inside the Maintenance Shed for the night or continue onwards to the <a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a> and after the night ends, the achievement will unlock.
+This is an unmissable story achievement achieved during the mission [The Best Defense](./The%20Best%20Defense.md) after the encounter with the [Old Bear](./Old%20Bear.md). Simply make your way to the [Maintenance Yard](./Maintenance%20Yard.md) and fall asleep inside the Maintenance Shed for the night or continue onwards to the [Hunting Lodge](./Hunting%20Lodge.md) and after the night ends, the achievement will unlock.
 
 ## Trivia
 
-The achievement's name is a reference to a quote from <a href="./Methuselah.md" class="wikilink" title="Methuselah">Methuselah</a>: "The lights in the sky are a reckoning. The wonder of humanity and all its creations, laid bare."
+The achievement's name is a reference to a quote from [Methuselah](./Methuselah.md): "The lights in the sky are a reckoning. The wonder of humanity and all its creations, laid bare."
 
 ## Game History
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **1 August 2017 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
 
-</div>
-
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

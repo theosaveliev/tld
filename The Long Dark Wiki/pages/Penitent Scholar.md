@@ -7,36 +7,19 @@ source: "https://thelongdark.fandom.com/wiki/Penitent_Scholar"
 
 # Penitent Scholar
 
-<div>
+**Penitent Scholar**
 
-<table class="infobox">
-<caption>Penitent Scholar</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Penitent_Scholar_icon.png" loading="lazy" width="250" />
-<figcaption>Penitent_Scholar_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>Complete all Research books.</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Penitent_Scholar_icon.png) / *Penitent\_Scholar\_icon.png* |
+| Description | Complete all Research books. |
 
-**Penitent Scholar** is an <a href="./The%20Long%20Dark%20%E2%80%94%20Achievements.md" class="wikilink" title="achievement">achievement</a> in *<a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark">The Long Dark</a>*.
+**Penitent Scholar** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
 
 ## Guide
 
-This achievement is obtained after fully researching one of every <a href="./Research%20Book.md" class="wikilink" title="Research Book">Research Book</a> in a single <a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a> game. It is most easily done on Pilgrim.
+This achievement is obtained after fully researching one of every [Research Book](./Research%20Book.md) in a single [Survival Mode](./Survival%20Mode.md) game. It is most easily done on Pilgrim.
 
 ## Trivia
 
 This achievement's name is a reference to the V0.349 update Penitent Scholar.**Lua execution error in Module:Navbox function navbox**
-
-</div>

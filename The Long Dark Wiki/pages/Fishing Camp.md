@@ -7,70 +7,15 @@ source: "https://thelongdark.fandom.com/wiki/Fishing_Camp"
 
 # Fishing Camp
 
-<div>
+**Fishing Camp**
 
-<table class="infobox">
-<caption>Fishing Camp</caption>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><p>[[File:</p>
-<table class="gallery">
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<span>[Missing image: Fishing_Camp_-_fishing_cabins.jpg]</span>
-<figcaption>Fishing_Camp_-_fishing_cabins.jpg</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
-<td><p>250px]]</p></td>
-</tr>
-<tr>
-<td colspan="2"><p><strong>Location</strong></p></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Fishing_Camp_map.png" loading="lazy" width="250" />
-<figcaption>Fishing_Camp_map.png</figcaption>
-</figure></td>
-<td></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Coastal%20Highway.md" class="wikilink" title="Coastal Highway">Coastal Highway</a>|-</p></td>
-<td><p>Location</p></td>
-</tr>
-<tr>
-<td colspan="2"><p><strong>General</strong></p></td>
-<td></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Residential|-</p></td>
-<td><figure>
-<img src="../assets/Bed_icon.png" loading="lazy" width="30" />
-<figcaption>bed_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Workbench_icon_green.png" loading="lazy" width="30" />
-<figcaption>workbench_icon_green.png</figcaption>
-</figure></td>
-<td><p>Has a workbench|-</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+| \[\[File: / \| Column 1 \| / \| --- \| / \| ![](../assets/Fishing_Camp_-_fishing_cabins.jpg) / *Fishing\_Camp\_-\_fishing\_cabins.jpg* \| | 250px\]\] |
+|  | ![](../assets/Fishing_Camp_-_fishing_cabins.jpg) / *Fishing\_Camp\_-\_fishing\_cabins.jpg* |
+| **Location** |  |
+| ![](../assets/Fishing_Camp_map.png) / *Fishing\_Camp\_map.png* |  |
+| Region | [Coastal Highway](./Coastal%20Highway.md)\|- / Location |
+| **General** |  |
+| Type | Residential\|- / ![](../assets/Bed_icon.png) / *bed\_icon.png* |
+| ![](../assets/Workbench_icon_green.png) / *workbench\_icon\_green.png* | Has a workbench\|- |

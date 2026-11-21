@@ -7,42 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/Mysterious_Signal_Fire"
 
 # Mysterious Signal Fire
 
-<div>
+**Mysterious Signal Fire**
 
-<table class="infobox">
-<caption>Mysterious Signal Fire</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: 20180909115732_1.jpg]</span>
-<figcaption>20180909115732_1.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Mysterious_Signal_Fire_Location.png]</span>
-<figcaption>Mysterious_Signal_Fire_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/20180909115732_1.jpg) / *20180909115732\_1.jpg* |
+| **Location** |  |
+|  | ![](../assets/Mysterious_Signal_Fire_Location.png) / *Mysterious\_Signal\_Fire\_Location.png* |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| **General** |  |
+| Type | Outdoors\|- |

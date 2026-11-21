@@ -6,99 +6,62 @@ source: "https://thelongdark.fandom.com/wiki/Prologue%2FTranscript"
 
 # Prologue/Transcript
 
-<div>
+**Prologue/Transcript**
 
-<table class="infobox">
-<caption>Prologue/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Prologue.png" loading="lazy" width="250" />
-<figcaption>Prologue.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Missions</strong></p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./Aftermath%20%E2%80%94%20Transcript.md" class="wikilink" title="Aftermath/Transcript">Aftermath/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>Prologue/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./Blackrock%20Blues%20%E2%80%94%20Transcript.md" class="wikilink" title="Blackrock Blues/Transcript">Blackrock Blues/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Keeper%27s%20Pass%20North.md" class="wikilink" title="Keeper&#39;s Pass North">Keeper's Pass North</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a> <a href="./Mathis.md" class="wikilink" title="Mathis">Mathis</a><br />
-<a href="./Vachon.md" class="wikilink" title="Vachon">Vachon</a><br />
-<a href="./Heller.md" class="wikilink" title="Heller">Heller</a><br />
-<a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a> (Opening cutscene)<br />
-<a href="./Hobbs.md" class="wikilink" title="Hobbs">Hobbs</a> (Opening cutscene)<br />
-<a href="./Characters.md#Radio_Voice_Man" class="wikilink" title="Radio Voice Man">Radio Voice Man</a> (Opening cutscene)</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Prologue.png) / *Prologue.png* |
+| Episode |  |
+| **Missions** |  |
+| Previous | [Aftermath/Transcript](./Aftermath%20%E2%80%94%20Transcript.md) |
+| Current | Prologue/Transcript |
+| Next | [Blackrock Blues/Transcript](./Blackrock%20Blues%20%E2%80%94%20Transcript.md) |
+| Region | [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jeremiah](./Jeremiah.md) (Opening cutscene) / [Hobbs](./Hobbs.md) (Opening cutscene) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) (Opening cutscene) |
 
-This is the mission transcript for the opening <a href="./Prologue.md" class="wikilink" title="Prologue">Prologue</a> of <a href="./Episode%204%20-%20Fury%2C%20Then%20Silence.md" class="wikilink" title="Episode 4: Fury, Then Silence">Episode 4: Fury, Then Silence</a>.
+This is the mission transcript for the opening [Prologue](./Prologue.md) of [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
 ## Recap
 
 *A story recap begins as the opening cutscene*
 
-*A shot of the <a href="./Crashed%20Prison%20Transport%20Bus.md" class="wikilink" title="Crashed Prison Transport Bus">Crashed Prison Transport Bus</a> in <a href="./Milton.md" class="wikilink" title="Milton">Milton</a> appears*
+*A shot of the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) in [Milton](./Milton.md) appears*
 
 PREVIOUSLY ON THE LONG DARK
 
-<a href="./Hobbs.md" class="wikilink" title="Hobbs">Hobbs</a>: "You think they put me on that bus for my good behaviour?"
+[Hobbs](./Hobbs.md): "You think they put me on that bus for my good behaviour?"
 
-*The scene shifts to a dying Hobbs on the couch in the <a href="./Paradise%20Meadows%20Farm.md" class="wikilink" title="Paradise Meadows Farm">Paradise Meadows Farm</a> farmhouse*
+*The scene shifts to a dying Hobbs on the couch in the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) farmhouse*
 
 Hobbs: "That's the bus to Blackrock."
 
-<a href="./Will%20Mackenzie.md" class="wikilink" title="Mackenzie">Mackenzie</a>: "Black rock?"
+[Mackenzie](./Will%20Mackenzie.md): "Black rock?"
 
 Hobbs: "Yeah, you know. Blackrock Federal Pen. Ha ha."
 
-*Scene shifts to a <a href="./Dead%20Prison%20Guard.md" class="wikilink" title="Dead Prison Guard">Dead Prison Guard</a> from <a href="./Episode%203%20-%20Crossroads%20Elegy.md" class="wikilink" title="Episode 3: Crossroads Elegy">Episode 3: Crossroads Elegy</a>*
+*Scene shifts to a [Dead Prison Guard](./Dead%20Prison%20Guard.md) from [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md)*
 
 Hobbs: "Where they put the worst of the bad people..."
 
-*Scene shifts to a dead <a href="./Convicts.md" class="wikilink" title="Convict">Convict</a> in a shed*
+*Scene shifts to a dead [Convict](./Convicts.md) in a shed*
 
 Hobbs: "People too bad for the Mainland."
 
-*Scene shifts to Mackenzie turning on the radio in <a href="./Trapper%27s%20Homestead.md" class="wikilink" title="Trapper&#39;s Homestead">Trapper's Homestead</a> in <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2: Luminance Fugue">Episode 2: Luminance Fugue</a>*
+*Scene shifts to Mackenzie turning on the radio in [Trapper's Homestead](./Trapper%27s%20Homestead.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md)*
 
-Mackenzie: "Hello? Is this the radio station at <a href="./Perseverance%20Mills.md" class="wikilink" title="Perseverance Mills">Perseverance Mills</a>? Is there a doctor with you?"
+Mackenzie: "Hello? Is this the radio station at [Perseverance Mills](./Perseverance%20Mills.md)? Is there a doctor with you?"
 
-*Scene shifts to the broken <a href="./Shortwave%20Tower%20West.md" class="wikilink" title="Shortwave Tower West">Shortwave Tower West</a> at night during a full moon*
+*Scene shifts to the broken [Shortwave Tower West](./Shortwave%20Tower%20West.md) at night during a full moon*
 
-<a href="./Characters.md#Radio_Voice_Man" class="wikilink" title="Radio Voice Man">Radio Voice Man</a>: "We need a doctor...or...medical assistance. Anything"
+[Radio Voice Man](./Characters.md#Radio_Voice_Man): "We need a doctor...or...medical assistance. Anything"
 
-<a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a>: "You need to take my message. You need to deliver it for me. It's important. Ask for "<a href="./Atwood.md" class="wikilink" title="Atwood">Atwood</a>."
+[Jeremiah](./Jeremiah.md): "You need to take my message. You need to deliver it for me. It's important. Ask for "[Atwood](./Atwood.md)."
 
 Mackenzie: "Atwood. Got it. What's the message?"
 
 Jeremiah: " "Wintermute." "
 
-*Scene changes to the <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a> Staging Area at night during the aurora*
+*Scene changes to the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) Staging Area at night during the aurora*
 
 Jeremiah: "Just that. Atwood will know what it means."
 
@@ -106,7 +69,7 @@ Jeremiah: "Just that. Atwood will know what it means."
 
 Mackenzie: "Ah...ah..."
 
-<a href="./Mathis.md" class="wikilink" title="Mathis">Mathis</a>: "What's in the case?"
+[Mathis](./Mathis.md): "What's in the case?"
 
 Mackenzie: "I have no idea."
 
@@ -122,17 +85,17 @@ Mathis: "Don't worry, pilot. You'll be with her soon."
 
 *The sound of a wolf howl echoes across a black screen before the sounds of footsteps join in.*
 
-<a href="./Vachon.md" class="wikilink" title="Vachon">Vachon</a>: "Why do we have to carry this sack of shit? He's heavy as hell."
+[Vachon](./Vachon.md): "Why do we have to carry this sack of shit? He's heavy as hell."
 
 *Mackenzie opens his eyes. The sky is moving, as if he is on his back being carried*
 
-<a href="./Heller.md" class="wikilink" title="Heller">Heller</a>: "Shut the fuck up. Mathis says carry the asshole, we carry him."
+[Heller](./Heller.md): "Shut the fuck up. Mathis says carry the asshole, we carry him."
 
 *Mackenzie closes his eyes again, with more wolves howling in the background. The sound of crows circling overhead can also be heard*
 
 Vachon: "They're getting closer. You hear about what happened to Leclerc?"
 
-*A <a href="./Crow.md" class="wikilink" title="Crow">Crow</a> begins circling overhead*
+*A [Crow](./Crow.md) begins circling overhead*
 
 EPISODE FOUR
 
@@ -150,7 +113,7 @@ Heller: "Mathis'll figure it out."
 
 Vachon: "What the hell we even doing out here."
 
-Heller: "Remember the plan. First we get <a href="./Donner.md" class="wikilink" title="Donner">Donner</a> out..."
+Heller: "Remember the plan. First we get [Donner](./Donner.md) out..."
 
 Vachon: "Donner. That crazy fucker...this is bullshi..."
 
@@ -158,7 +121,7 @@ Heller: "Shh...he's coming back here."
 
 *Mackenzie looks up to see Heller's back and mutters*
 
-<a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a>: "Wa...water."
+[Will Mackenzie](./Will%20Mackenzie.md): "Wa...water."
 
 Vachon: "Hey...hey Mathis."
 
@@ -204,7 +167,7 @@ Mackenzie: "I...it doesn't matter."
 
 Mathis: "Could it have anything to do with this?"
 
-*Mathis produces <a href="./Astrid%27s%20Hardcase.md" class="wikilink" title="Astrid&#39;s Hardcase">Astrid's Hardcase</a>*
+*Mathis produces [Astrid's Hardcase](./Astrid%27s%20Hardcase.md)*
 
 Mackenzie: "I told you, I don't know what that is."
 
@@ -230,7 +193,7 @@ Heller: "Shut up, man."
 
 Mathis: "That heavy bastard may be our ticket off this rock. So carry him. And like the man says -- shut the fuck up."
 
-*A <a href="./Timberwolf.md" class="wikilink" title="Timberwolf">Timberwolf</a> pack begins howling in the distance, likely lead to the 4 by the circling crow, hurried footsteps ring out*
+*A [Timberwolf](./Timberwolf.md) pack begins howling in the distance, likely lead to the 4 by the circling crow, hurried footsteps ring out*
 
 Vachon: "They found us!"
 
@@ -246,7 +209,7 @@ Heller: "Damn it...I need a weapon."
 
 Mathis: "COME AND GET SOME YOU FUCKERS!!!!!"
 
-*Mackenzie turns around to see Mathis kick a Timberwolf and it flinches with a yelp. Vachon is overwhelmed in a <a href="./Struggle.md" class="wikilink" title="Struggle">Struggle</a> with a Timberwolf, while Heller stands around panicking without a weapon. Mackenzie then turns his attention back to the cliff*
+*Mackenzie turns around to see Mathis kick a Timberwolf and it flinches with a yelp. Vachon is overwhelmed in a [Struggle](./Struggle.md) with a Timberwolf, while Heller stands around panicking without a weapon. Mackenzie then turns his attention back to the cliff*
 
 Mackenzie: "Got to move."
 
@@ -271,8 +234,6 @@ Mathis: "Where'd he go?"
 - Mathis: "Are those his footprints?"
 - Mathis: "I hear wolves everywhere."
 
-<!-- -->
-
 - Heller: "Where'd he go?"
 - Heller: "Gotta find this jackass..."
 - Heller: "I don't see him."
@@ -286,8 +247,6 @@ Mathis: "Where'd he go?"
 - Heller: "Gotta be around here somewhere."
 - Heller: "Where the hell is this guy?"
 - Heller: "You hear yourself?"
-
-<!-- -->
 
 - Vachon: "Gonna lose a toe out here."
 - Vachon: "Don't see him yet."
@@ -351,11 +310,11 @@ Vachon: "Let's go. Between Mathis and the wolves...I have a bad feeling about th
 
 Mackenzie: "Better keep going."
 
-*Mackenzie keeps going, until he finds <a href="./Forester%27s%20Hermitage.md" class="wikilink" title="Forester&#39;s Hermitage">Forester's Hermitage</a> and a rusty two man saw stuck in a tree stump*
+*Mackenzie keeps going, until he finds [Forester's Hermitage](./Forester%27s%20Hermitage.md) and a rusty two man saw stuck in a tree stump*
 
 Mackenzie: "Rusty saw blade. Might be sharp enough to cut this rope."
 
-*If the player tries to use the <a href="./Rock%20Climb.md" class="wikilink" title="Rock Climb">Rock Climb</a> across the pond before cutting your bindings, Mackenzie will say*
+*If the player tries to use the [Rock Climb](./Rock%20Climb.md) across the pond before cutting your bindings, Mackenzie will say*
 
 Mackenzie: "I need to get my hands free."
 
@@ -373,8 +332,6 @@ Mathis: "We have unfinished business, pilot. Stick around."
 
 *Mackenzie blacks out*
 
-The story continues in <a href="./Blackrock%20Blues%20%E2%80%94%20Transcript.md" class="wikilink" title="Blackrock Blues/Transcript">Blackrock Blues/Transcript</a>.
+The story continues in [Blackrock Blues/Transcript](./Blackrock%20Blues%20%E2%80%94%20Transcript.md).
 
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

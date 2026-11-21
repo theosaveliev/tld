@@ -7,103 +7,62 @@ source: "https://thelongdark.fandom.com/wiki/Lake_Gunshots"
 
 # Lake Gunshots
 
-<div>
-
 **Contents**
 
-- [Unlocking](#Unlocking)
-- [Objectives](#Objectives)
-- [Walkthrough](#Walkthrough)
-- [Redux Transcript](#Redux_Transcript)
-- [Predux Transcript](#Predux_Transcript)
-- [Trivia](#Trivia)
-- [Game History](#Game_History)
+- [Unlocking](#unlocking)
+- [Objectives](#objectives)
+- [Walkthrough](#walkthrough)
+- [Redux Transcript](#redux-transcript)
+- [Predux Transcript](#predux-transcript)
+- [Trivia](#trivia)
+- [Game History](#game-history)
 
-<table class="infobox">
-<caption>Lake Gunshots</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: lake_cabin4.jpg]</span>
-<figcaption>lake_cabin4.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>Lake Gunshots</p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mystery%20Lake%20%28disambiguation%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Forest%20Talkers.md" class="wikilink" title="Forest Talkers">Forest Talkers</a></p></td>
-</tr>
-</tbody>
-</table>
+**Lake Gunshots**
+
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Lake_cabin4.jpg) / *lake\_cabin4.jpg* |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Current | Lake Gunshots |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) |
+| Characters | [Forest Talkers](./Forest%20Talkers.md) |
 
 **Template:spoiler**
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="vertical-align: top; font-size: 3em; color: #5d5980; padding-right: 10px"><p>“</p></td>
-<td><p><span style="font-style:italic">You found a note with some details on possible Forest Talker activity around Mystery Lake.</span></p>
-<div style="clear:both">
-&#10;</div>
-<div style="float:right; font-size:9pt">
-<p>In-game description</p>
-</div></td>
-<td style="vertical-align: bottom; font-size: 3em; color: #5d5980; padding-left: 10px"><p>”</p></td>
-</tr>
-</tbody>
-</table>
+> “**You found a note with some details on possible Forest Talker activity around Mystery Lake.**”
+>
+> — In-game description
 
-**Lake Gunshots** is a side mission in <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a> of the <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a>. In this mission, <a href="./Will%20Mackenzie.md" class="wikilink" title="Mackenzie">Mackenzie</a> investigates the <a href="./Forest%20Talkers.md" class="wikilink" title="Forest Talkers">Forest Talkers</a>.
+**Lake Gunshots** is a side mission in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) investigates the [Forest Talkers](./Forest%20Talkers.md).
 
 ## Unlocking
 
-The Quest is unlocked by finding a note <a href="./Crumpled%20Note%20%282%29.md" class="wikilink" title="Crumpled Note (2)">Crumpled Note (2)</a> in the <a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a> in the <a href="./Broken%20Railroad.md" class="wikilink" title="Broken Railroad">Broken Railroad</a> region.
+The Quest is unlocked by finding a note [Crumpled Note (2)](./Crumpled%20Note%20%282%29.md) in the [Maintenance Yard](./Maintenance%20Yard.md) in the [Broken Railroad](./Broken%20Railroad.md) region.
 
 ## Objectives
 
 - Head to the far side of Mystery Lake, near the cabins.
 - Follow the trail of blood.
-- Find the supply bag in the <a href="./Logging%20Camp.md" class="wikilink" title="Logging Camp">Logging Camp</a> trailer.
-- Go to the dam and retrieve the documents. Search under a <a href="./Loose%20Tile.md" class="wikilink" title="Loose Tile">Loose Tile</a> at the bottom of the stairs leading to the admin area.
+- Find the supply bag in the [Logging Camp](./Logging%20Camp.md) trailer.
+- Go to the dam and retrieve the documents. Search under a [Loose Tile](./Loose%20Tile.md) at the bottom of the stairs leading to the admin area.
 - Return to the Forest Talker in the lake cabin.
 - Check on the lake cabin tomorrow.
 
 ## Walkthrough
 
-- Head to the far side of <a href="./Mystery%20Lake%20%28location%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>, near the cabins.
+- Head to the far side of [Mystery Lake](./Mystery%20Lake%20%28location%29.md), near the cabins.
 - You will find a corpse on the ice. Follow the trail of blood to a cabin.
 - Speak to the Forest Talker behind the door and Mackenzie will offer to help him.
-- Pick up the <a href="./Logging%20Camp%20Trailer%20Key.md" class="wikilink" title="Logging Camp Trailer Key">Logging Camp Trailer Key</a> and find the <a href="./Forest%20Talker%20Supplies.md" class="wikilink" title="Forest Talker Supplies">Forest Talker Supplies</a> in the <a href="./Logging%20Camp.md" class="wikilink" title="Logging Camp">Logging Camp</a> trailer.
-- Go to the <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Dam">Dam</a> and retrieve the <a href="./Forest%20Talker%20Documents.md" class="wikilink" title="Forest Talker Documents">Forest Talker Documents</a>. Search under a loose tile at the bottom of the stairs leading to the admin area.
+- Pick up the [Logging Camp Trailer Key](./Logging%20Camp%20Trailer%20Key.md) and find the [Forest Talker Supplies](./Forest%20Talker%20Supplies.md) in the [Logging Camp](./Logging%20Camp.md) trailer.
+- Go to the [Dam](./Carter%20Hydro%20Dam.md) and retrieve the [Forest Talker Documents](./Forest%20Talker%20Documents.md). Search under a loose tile at the bottom of the stairs leading to the admin area.
 - Return to the Forest Talker in the Lake Cabin.
-- You will face a choice determining your reward. Take the ammo (2 <a href="./Rifle%20Ammunition.md" class="wikilink" title="Rifle Ammunition">Rifle Ammunition</a>) and leave the supplies or just leave the supplies.
+- You will face a choice determining your reward. Take the ammo (2 [Rifle Ammunition](./Rifle%20Ammunition.md)) and leave the supplies or just leave the supplies.
 - Check on the Lake Cabin tomorrow.
-- If you choose to take ammo out, the Forest Talker will die and will have <a href="./Blood%20Soaked%20Forest%20Talker%20Documents.md" class="wikilink" title="Blood Soaked Forest Talker Documents">Blood Soaked Forest Talker Documents</a> on him. Otherwise, you will get new <a href="./Deerskin%20Pants.md" class="wikilink" title="Deerskin Pants">Deerskin Pants</a>. Both outcomes always leave a <a href="./Forest%20Talker%20Note.md" class="wikilink" title="Forest Talker Note">Forest Talker Note</a> for Mackenzie inside the cabin, but with a different message depending on what choice you made.
+- If you choose to take ammo out, the Forest Talker will die and will have [Blood Soaked Forest Talker Documents](./Blood%20Soaked%20Forest%20Talker%20Documents.md) on him. Otherwise, you will get new [Deerskin Pants](./Deerskin%20Pants.md). Both outcomes always leave a [Forest Talker Note](./Forest%20Talker%20Note.md) for Mackenzie inside the cabin, but with a different message depending on what choice you made.
 
-<figure>
-<span>[Missing image: Lake_Gunshots_Forest_Talker.jpg]</span>
-<figcaption>XTHUMB The Forest Talker's fate if you take his ammunition</figcaption>
-</figure>
+![The Forest Talker's fate if you take his ammunition](../assets/Lake_Gunshots_Forest_Talker.jpg)
+
+*The Forest Talker's fate if you take his ammunition*
 
 ## Redux Transcript
 
@@ -137,7 +96,7 @@ Forest Talker: "Did you find our stuff yet? The supplies? And the documents? I n
 
 Mackenzie: "I'm working on it."
 
-*Mackenzie heads to the <a href="./Logging%20Camp.md" class="wikilink" title="Logging Camp">Logging Camp</a>, and unlocks a door with the key, taking the <a href="./Forest%20Talker%20Supplies.md" class="wikilink" title="Forest Talker Supplies">Forest Talker Supplies</a>. Then he heads to the Carter Hydro Dam and finds the Loose Tile mentioned, and finds the <a href="./Forest%20Talker%20Documents.md" class="wikilink" title="Forest Talker Documents">Forest Talker Documents</a>.*
+*Mackenzie heads to the [Logging Camp](./Logging%20Camp.md), and unlocks a door with the key, taking the [Forest Talker Supplies](./Forest%20Talker%20Supplies.md). Then he heads to the Carter Hydro Dam and finds the Loose Tile mentioned, and finds the [Forest Talker Documents](./Forest%20Talker%20Documents.md).*
 
 Mackenzie: "There you are."
 
@@ -168,35 +127,19 @@ Forest Talker: "Thank you, stranger. You may not care, but you've made a huge di
 
 Mackenzie: "Let's see if he left anything useful."
 
-*The Forest Talker left a note on the table, thanking Mackenzie for his help, along with a <a href="./Deerskin%20Pants.md" class="wikilink" title="Deerskin Pants">Deerskin Pants</a>.*
+*The Forest Talker left a note on the table, thanking Mackenzie for his help, along with a [Deerskin Pants](./Deerskin%20Pants.md).*
 
-*If the player instead took the man's ammo, Mackenzie will see the corpse of the Forest Talker the next day dead on the ground outside the cabin with an arrow through him. It is presumed that whomever wrote the Crumpled Note, a <a href="./Breyerhouse.md" class="wikilink" title="Breyerhouse">Breyerhouse</a> worker, came to finish the Forest Talker off like his friend. The note inside will be angrier, with no Deerskin pants.*
+*If the player instead took the man's ammo, Mackenzie will see the corpse of the Forest Talker the next day dead on the ground outside the cabin with an arrow through him. It is presumed that whomever wrote the Crumpled Note, a [Breyerhouse](./Breyerhouse.md) worker, came to finish the Forest Talker off like his friend. The note inside will be angrier, with no Deerskin pants.*
 
 ## Predux Transcript
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="vertical-align: top; font-size: 3em; color: #5d5980; padding-right: 10px"><p>“</p></td>
-<td><p><span style="font-style:italic">Jeremiah says he heard gunshots from across Mystery Lake. Could it have something to do with the Forest Talkers?</span></p>
-<div style="clear:both">
-&#10;</div>
-<div style="float:right; font-size:9pt">
-<p>In-game description</p>
-</div></td>
-<td style="vertical-align: bottom; font-size: 3em; color: #5d5980; padding-left: 10px"><p>”</p></td>
-</tr>
-</tbody>
-</table>
+> “**Jeremiah says he heard gunshots from across Mystery Lake. Could it have something to do with the Forest Talkers?**”
+>
+> — In-game description
 
 There are a few differences in the script in the Predux version of this game.
 
-*Mackenzie heads to the lake cabins after <a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a> mentions hearing gunshots by the lake*
+*Mackenzie heads to the lake cabins after [Jeremiah](./Jeremiah.md) mentions hearing gunshots by the lake*
 
 - FOREST TALKERS?
 
@@ -254,7 +197,7 @@ Forest Talker (Text): "You got my stuff yet?"
 
 Mackenzie (Text): "I'm working on it..."
 
-*Mackenzie heads to the <a href="./Logging%20Camp.md" class="wikilink" title="Logging Camp">Logging Camp</a>, and unlocks a door with the key, taking the <a href="./Forest%20Talker%20Supplies.md" class="wikilink" title="Forest Talker Supplies">Forest Talker Supplies</a>. Then he heads to the Carter Hydro Dam and finds the Loose Tile mentioned, and finds the <a href="./Forest%20Talker%20Documents.md" class="wikilink" title="Forest Talker Documents">Forest Talker Documents</a>.*
+*Mackenzie heads to the [Logging Camp](./Logging%20Camp.md), and unlocks a door with the key, taking the [Forest Talker Supplies](./Forest%20Talker%20Supplies.md). Then he heads to the Carter Hydro Dam and finds the Loose Tile mentioned, and finds the [Forest Talker Documents](./Forest%20Talker%20Documents.md).*
 
 Mackenzie : "There you are."
 
@@ -283,7 +226,7 @@ Forest Talker (Text): "Yes... Trying to get some rest before I head off."
 
 Mackenzie: "Let's see if he left anything useful."
 
-*The Forest Talker left a note on the table, thanking Mackenzie for his help, along with a <a href="./Deerskin%20Pants.md" class="wikilink" title="Deerskin Pants">Deerskin Pants</a>.*
+*The Forest Talker left a note on the table, thanking Mackenzie for his help, along with a [Deerskin Pants](./Deerskin%20Pants.md).*
 
 *If the player instead took the man's ammo, Mackenzie will see the corpse of the Forest Talker the next day dead on the ground outside the cabin with an arrow through him. It is unknown who killed him and his friend on the ice. The note inside will be angrier, with no Deerskin pants.*
 
@@ -295,15 +238,9 @@ It is presumed that if the player takes the Forest Talker's ammo, the assailant 
 
 ## Game History
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **1 August 2017 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Added to game.
-- <span class="update-list"><span class="update-type update">UPDATE</span> **17 December 2018 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41" class="wikilink" title="Update">Update</a>):**</span>
-  - The note <a href="./Crumpled%20Note%20%282%29.md" class="wikilink" title="Crumpled Note (2)">Crumpled Note (2)</a> must be found to activate the side mission as part of the Redux edition. Previously, it was given after talking to <a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a> during the mission <a href="./Survival%20School%20%28Predux%29.md" class="wikilink" title="Survival School (Predux)">Survival School (Predux)</a>
-
-</div>
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+  - The note [Crumpled Note (2)](./Crumpled%20Note%20%282%29.md) must be found to activate the side mission as part of the Redux edition. Previously, it was given after talking to [Jeremiah](./Jeremiah.md) during the mission [Survival School (Predux)](./Survival%20School%20%28Predux%29.md)
 
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

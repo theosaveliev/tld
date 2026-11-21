@@ -7,44 +7,18 @@ source: "https://thelongdark.fandom.com/wiki/Vegetable_Rack"
 
 # Vegetable Rack
 
-<div>
+**Vegetable Rack**
 
-<table class="infobox">
-<caption>Vegetable Rack</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: IngrediantDrawer.jpg]</span>
-<figcaption>IngrediantDrawer.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p>TBD</p></td>
-</tr>
-<tr>
-<td><p>Update</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17" class="wikilink" title="2.17">2.17</a></p></td>
-</tr>
-<tr>
-<td><p>Story item</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Container</strong></p></td>
-</tr>
-<tr>
-<td><p>Capacity</p></td>
-<td><p>10.00 kg(22 lbs)</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/IngrediantDrawer.jpg) / *IngrediantDrawer.jpg* |
+| Release | TBD |
+| Update | [2.17](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Story item | Yes |
+| **Container** |  |
+| Capacity | 10.00 kg(22 lbs) |
 
-A **Vegetable Rack** is an interactable storage item in *<a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark">The Long Dark</a>*. It has 3 drawers that often contain large amounts of <a href="./Carrot.md" class="wikilink" title="Carrots">Carrots</a> and <a href="./Potato.md" class="wikilink" title="Potatoes">Potatoes</a>, and each drawer has 10.00 kg of storage capacity.
+A **Vegetable Rack** is an interactable storage item in *[The Long Dark](./The%20Long%20Dark.md)*. It has 3 drawers that often contain large amounts of [Carrots](./Carrot.md) and [Potatoes](./Potato.md), and each drawer has 10.00 kg of storage capacity.
 
 ## Overview
 
@@ -54,12 +28,10 @@ They are often found in many basements of large homes.
 
 ## Locations
 
-- <a href="./Hunting%20Lodge.md" class="wikilink" title="Hunting Lodge">Hunting Lodge</a> basement
-- <a href="./Paradise%20Meadows%20Farm.md" class="wikilink" title="Paradise Meadows Farm">Paradise Meadows Farm</a> next to the Work Bench in the outdoor barn
-- <a href="./Pleasant%20Valley%20Farmstead.md" class="wikilink" title="Pleasant Valley Farmstead">Pleasant Valley Farmstead</a> basement
-- <a href="./Rural%20Store.md" class="wikilink" title="Rural Store">Rural Store</a> back room
-- <a href="./Idle%20Camp.md" class="wikilink" title="Idle Camp">Idle Camp</a> mess hall building, next to the kitchen
+- [Hunting Lodge](./Hunting%20Lodge.md) basement
+- [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) next to the Work Bench in the outdoor barn
+- [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) basement
+- [Rural Store](./Rural%20Store.md) back room
+- [Idle Camp](./Idle%20Camp.md) mess hall building, next to the kitchen
 
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

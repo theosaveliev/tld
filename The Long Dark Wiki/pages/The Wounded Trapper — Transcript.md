@@ -7,63 +7,31 @@ source: "https://thelongdark.fandom.com/wiki/The_Wounded_Trapper%2FTranscript"
 
 # The Wounded Trapper/Transcript
 
-<div>
-
 **Contents**
 
-- [Transcript](#Transcript)
-- [Enter the abandoned Dam](#Enter_the_abandoned_Dam)
-- [Find medical supplies for the old trapper. Find the radio parts the trapper needs.](#Find_medical_supplies_for_the_old_trapper._Find_the_radio_parts_the_trapper_needs.)
-- [Get the medical supplies back to the old trapper before he dies.](#Get_the_medical_supplies_back_to_the_old_trapper_before_he_dies.)
-- [The Legend of the Spence family](#The_Legend_of_the_Spence_family)
+- [Transcript](#transcript)
+- [Enter the abandoned Dam](#enter-the-abandoned-dam)
+- [Find medical supplies for the old trapper. Find the radio parts the trapper needs.](#find-medical-supplies-for-the-old-trapper-find-the-radio-parts-the-trapper-needs)
+- [Get the medical supplies back to the old trapper before he dies.](#get-the-medical-supplies-back-to-the-old-trapper-before-he-dies)
+- [The Legend of the Spence family](#the-legend-of-the-spence-family)
 
-<table class="infobox">
-<caption>The Wounded Trapper/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Missions_story_ep2_The_Wounded_Trapper.png" loading="lazy" width="250" />
-<figcaption>Missions_story_ep2_The_Wounded_Trapper.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./Paradise%20Lost%20%E2%80%94%20Transcript.md" class="wikilink" title="Paradise Lost/Transcript">Paradise Lost/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>The Wounded Trapper/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./The%20Best%20Defense%20%E2%80%94%20Transcript.md" class="wikilink" title="The Best Defense/Transcript">The Best Defense/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mystery%20Lake%20%28disambiguation%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a><br />
-<a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a><br />
-<a href="./Old%20Bear.md" class="wikilink" title="Old Bear">Old Bear</a></p></td>
-</tr>
-</tbody>
-</table>
+**The Wounded Trapper/Transcript**
 
-This is the mission transcript for mission 1 <a href="./The%20Wounded%20Trapper.md" class="wikilink" title="The Wounded Trapper">The Wounded Trapper</a> of <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2: Luminance Fugue">Episode 2: Luminance Fugue</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Missions_story_ep2_The_Wounded_Trapper.png) / *Missions\_story\_ep2\_The\_Wounded\_Trapper.png* |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [Paradise Lost/Transcript](./Paradise%20Lost%20%E2%80%94%20Transcript.md) |
+| Current | The Wounded Trapper/Transcript |
+| Next | [The Best Defense/Transcript](./The%20Best%20Defense%20%E2%80%94%20Transcript.md) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
+
+This is the mission transcript for mission 1 [The Wounded Trapper](./The%20Wounded%20Trapper.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
 ## Transcript
 
-*A cutscene begins with <a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a> in front of the Wood Stove of the <a href="./Trapper%27s%20Homestead.md" class="wikilink" title="Trapper&#39;s Homestead">Trapper's Homestead</a>, warming his hands and body repeatedly for a good moment. His attention regarding the stove is broken when he hears a grunt come from the <a href="./Jeremiah.md" class="wikilink" title="man he rescued">man he rescued</a>.*
+*A cutscene begins with [Will Mackenzie](./Will%20Mackenzie.md) in front of the Wood Stove of the [Trapper's Homestead](./Trapper%27s%20Homestead.md), warming his hands and body repeatedly for a good moment. His attention regarding the stove is broken when he hears a grunt come from the [man he rescued](./Jeremiah.md).*
 
 Jeremiah: "Bear...damn it...not again...not the lights..."
 
@@ -97,7 +65,7 @@ Mackenzie: "Glad your memory's coming back."
 
 Jeremiah: "Shit...he got me good this time."
 
-*The man looks over his chest and chuckles at the damage the <a href="./Old%20Bear.md" class="wikilink" title="Old Bear">Old Bear</a> has done to him.*
+*The man looks over his chest and chuckles at the damage the [Old Bear](./Old%20Bear.md) has done to him.*
 
 Mackenzie: "This time?"
 
@@ -107,7 +75,7 @@ Mackenzie: "I bandaged you up but you're in bad shape. Is there anywhere to get 
 
 Jeremiah: "Wha...You mean like a hospital? Out here? Nah. Nothing like that."
 
-*Mackenzie looks over and points at the radio on the Work Bench. The Trapper's <a href="./Hunting%20Rifle.md" class="wikilink" title="Hunting Rifle">Hunting Rifle</a> lays on the bench in front of it.*
+*Mackenzie looks over and points at the radio on the Work Bench. The Trapper's [Hunting Rifle](./Hunting%20Rifle.md) lays on the bench in front of it.*
 
 Mackenzie: "I see you have a radio. Can we call for help?"
 
@@ -167,7 +135,7 @@ THE WOUNDED TRAPPER.
 
 Mackenzie: "That trapper's my key to getting out of here. He'd better not die on me."
 
-*If the player attempts to enter <a href="./The%20Ravine.md" class="wikilink" title="The Ravine">The Ravine</a> by the Carter Staging Area, <a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a> by the <a href="./Rail%20Tunnel.md" class="wikilink" title="Rail Tunnel">Rail Tunnel</a>, or re-enter <a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a> by Trapper's Cabin, Mackenzie will say:*
+*If the player attempts to enter [The Ravine](./The%20Ravine.md) by the Carter Staging Area, [Forlorn Muskeg](./Forlorn%20Muskeg.md) by the [Rail Tunnel](./Rail%20Tunnel.md), or re-enter [Mountain Town](./Mountain%20Town.md) by Trapper's Cabin, Mackenzie will say:*
 
 Mackenzie: "That's not the right way."
 
@@ -179,7 +147,7 @@ Mackenzie: "Carter Dam...hmm. This place has seen better days."
 
 Mackenzie: "Locked up tight. Must be a key or something around here..."
 
-*Mackenzie sees two trailers nearby, and enters on. The <a href="./Carter%20Hydro%20Staging%20Area%20Gate%20Key.md" class="wikilink" title="Carter Hydro Staging Area Gate Key">Carter Hydro Staging Area Gate Key</a> is found on a table with a <a href="./Breyerhouse%20Crew%20Winter%20Warning.md" class="wikilink" title="Breyerhouse Crew Winter Warning">Breyerhouse Crew Winter Warning</a>, and the pilot returns to unlock the gate. He opens the gate and walks inside, only to hear a roar behind him. The pilot turns around to see the Old Bear, with 2 arrows in his back, slowly walking up to him, before it stands up on two legs and roars.*
+*Mackenzie sees two trailers nearby, and enters on. The [Carter Hydro Staging Area Gate Key](./Carter%20Hydro%20Staging%20Area%20Gate%20Key.md) is found on a table with a [Breyerhouse Crew Winter Warning](./Breyerhouse%20Crew%20Winter%20Warning.md), and the pilot returns to unlock the gate. He opens the gate and walks inside, only to hear a roar behind him. The pilot turns around to see the Old Bear, with 2 arrows in his back, slowly walking up to him, before it stands up on two legs and roars.*
 
 Mackenzie: "Holy shit!!!"
 
@@ -205,21 +173,21 @@ Mackenzie: "Seems like the quakes did some damage here. Must be what the old guy
 
 Mackenzie: "Looks like this thing isn't opening unless I can get the power working again. But that's a problem for later. I have to get those radio parts."
 
-- Note, if the player gets the <a href="./Radio%20Parts.md" class="wikilink" title="Radio Parts">Radio Parts</a> first and then interacts with the Keypad, Mackenzie will omit the last two lines.
+- Note, if the player gets the [Radio Parts](./Radio%20Parts.md) first and then interacts with the Keypad, Mackenzie will omit the last two lines.
 
 *Mackenzie enters a nearby room with an elevator, but the "Call Elevator" buttons do not work either. He turns around and sees a stairwell downstairs, but it is blocked by a locked gate. He turns around and finds a bathroom with a Frozen Corpse inside, and a Flare Gun kit.*
 
 Mackenzie: "What the..."
 
-*Mackenzie reluctantly frisks the body, and finds an <a href="./Admin%20Office%20Key.md" class="wikilink" title="Admin Office Key">Admin Office Key</a>, as well as a <a href="./Forest%20Talker%20Dam%20Note.md" class="wikilink" title="Forest Talker Dam Note">Forest Talker Dam Note</a>. Mackenzie finds another stairwell near the bathroom, and heads upstairs to an office space, and spots a <a href="./Medical%20Locker.md" class="wikilink" title="Medical Locker">Medical Locker</a> under a sign labeled "AIDS STATION".*
+*Mackenzie reluctantly frisks the body, and finds an [Admin Office Key](./Admin%20Office%20Key.md), as well as a [Forest Talker Dam Note](./Forest%20Talker%20Dam%20Note.md). Mackenzie finds another stairwell near the bathroom, and heads upstairs to an office space, and spots a [Medical Locker](./Medical%20Locker.md) under a sign labeled "AIDS STATION".*
 
 Mackenzie: "Aid Station. That sounds like what the trapper needs."
 
-*He finds it locked, and walks to the nearby office and unlocks it with the Admin Office Key. He finds the <a href="./Aid%20Station%20Medical%20Locker%20Key.md" class="wikilink" title="Aid Station Medical Locker Key">Aid Station Medical Locker Key</a> and <a href="./Elevator%20Maintenance%20Note.md" class="wikilink" title="Elevator Maintenance Note">Elevator Maintenance Note</a>, and takes both. He* *leaves the office, and spots a Work Bench with a radio and several parts.*
+*He finds it locked, and walks to the nearby office and unlocks it with the Admin Office Key. He finds the [Aid Station Medical Locker Key](./Aid%20Station%20Medical%20Locker%20Key.md) and [Elevator Maintenance Note](./Elevator%20Maintenance%20Note.md), and takes both. He* *leaves the office, and spots a Work Bench with a radio and several parts.*
 
 Mackenzie: "Must be something we can use to fix the shortwave."
 
-*He picks up some radio parts, then returns to unlock the Medical Locker, finding <a href="./Carter%20Hydro%20Medical%20Supplies.md" class="wikilink" title="Carter Hydro Medical Supplies">Carter Hydro Medical Supplies</a> inside.*
+*He picks up some radio parts, then returns to unlock the Medical Locker, finding [Carter Hydro Medical Supplies](./Carter%20Hydro%20Medical%20Supplies.md) inside.*
 
 Mackenzie: "Industrial-strength antibiotics and... \*very\* strong painkillers. Dangerous...you could get hooked on this stuff. Let's hope we don't need it."
 
@@ -299,7 +267,7 @@ Jeremiah: "You won't get far with that bear on the prowl. What we need is to get
 
 - PERSERVERANCE MILLS
 
-Mackenzie: "The woman I'm looking for...she might be on her way to a place called <a href="./Perseverance%20Mills.md" class="wikilink" title="Perseverance Mills">Perseverance Mills</a>. You know it?"
+Mackenzie: "The woman I'm looking for...she might be on her way to a place called [Perseverance Mills](./Perseverance%20Mills.md). You know it?"
 
 Jeremiah: "Shit-nothing town, north part of the island?"
 
@@ -449,6 +417,4 @@ Mackenzie: "Right."
 
 *Mackenzie gets up and the chapter ends.*
 
-The story continues in <a href="./The%20Best%20Defense%20%E2%80%94%20Transcript.md" class="wikilink" title="The Best Defense/Transcript">The Best Defense/Transcript</a> **Lua execution error in Module:Navbox function navbox**
-
-</div>
+The story continues in [The Best Defense/Transcript](./The%20Best%20Defense%20%E2%80%94%20Transcript.md) **Lua execution error in Module:Navbox function navbox**

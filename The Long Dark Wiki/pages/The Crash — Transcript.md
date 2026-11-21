@@ -6,69 +6,37 @@ source: "https://thelongdark.fandom.com/wiki/The_Crash%2FTranscript"
 
 # The Crash/Transcript
 
-<div>
-
 **Contents**
 
-- [Transcript](#Transcript)
-- [Try to climb out of the ravine](#Try_to_climb_out_of_the_ravine)
-- [Find shelter from the cold](#Find_shelter_from_the_cold)
-- [Search for Astrid](#Search_for_Astrid)
-- [Look for clues](#Look_for_clues)
-- [Investigate the house](#Investigate_the_house)
+- [Transcript](#transcript)
+- [Try to climb out of the ravine](#try-to-climb-out-of-the-ravine)
+- [Find shelter from the cold](#find-shelter-from-the-cold)
+- [Search for Astrid](#search-for-astrid)
+- [Look for clues](#look-for-clues)
+- [Investigate the house](#investigate-the-house)
 
-<table class="infobox">
-<caption>The Crash/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/The_Crash.png" loading="lazy" width="250" />
-<figcaption>The_Crash.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41" class="wikilink" title="17 December 2018">17 December 2018</a></p></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%201%20-%20Do%20Not%20Go%20Gentle.md" class="wikilink" title="Episode 1: Do Not Go Gentle">Episode 1: Do Not Go Gentle</a></p></td>
-</tr>
-<tr>
-<td><p>Mission Type</p></td>
-<td><p>Primary</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Missions</strong></p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p><a href="./Memories%20%E2%80%94%20Transcript.md" class="wikilink" title="Memories/Transcript">Memories/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>The Crash/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./The%20Grey%20Mother%20%E2%80%94%20Transcript.md" class="wikilink" title="The Grey Mother/Transcript">The Grey Mother/Transcript</a></p></td>
-</tr>
-</tbody>
-</table>
+**The Crash/Transcript**
 
-This is the mission transcript for mission 2 <a href="./The%20Crash.md" class="wikilink" title="The Crash">The Crash</a> of <a href="./Episode%201%20-%20Do%20Not%20Go%20Gentle.md" class="wikilink" title="Episode 1: Do Not Go Gentle">Episode 1: Do Not Go Gentle</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/The_Crash.png) / *The\_Crash.png* |
+| Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41) |
+| Episode | [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
+| Mission Type | Primary |
+| **Missions** |  |
+| Previous | [Memories/Transcript](./Memories%20%E2%80%94%20Transcript.md) |
+| Current | The Crash/Transcript |
+| Next | [The Grey Mother/Transcript](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) |
+
+This is the mission transcript for mission 2 [The Crash](./The%20Crash.md) of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
 ## Transcript
 
-*The mission begins right where it did in <a href="./Memories.md" class="wikilink" title="Memories">Memories</a>, with Mackenzie grunting in pain and gasping for air as he slowly blinks back into consciousness at the crash site. The ambient electrical wail of an <a href="./Aurora.md" class="wikilink" title="Aurora">Aurora</a> plays overhead as the camera shifts to reveal trees, fire, smoke, and wreckage of a crashed plane. Mackenzie gets up and cries out:*
+*The mission begins right where it did in [Memories](./Memories.md), with Mackenzie grunting in pain and gasping for air as he slowly blinks back into consciousness at the crash site. The ambient electrical wail of an [Aurora](./Aurora.md) plays overhead as the camera shifts to reveal trees, fire, smoke, and wreckage of a crashed plane. Mackenzie gets up and cries out:*
 
-<a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a>: "...Astrid?"
+[Will Mackenzie](./Will%20Mackenzie.md): "...Astrid?"
 
-*The man gets up, and notices a piece of metal lodged in his left hand, hesitating before deciding to pull it out. The process is slow, and is not without consequence, as the man's cries of pain ring out during the pulling. After the <a href="./Scrap%20Metal%20Shard.md" class="wikilink" title="Scrap Metal Shard">Scrap Metal Shard</a> is pulled out, the man shouts to the hills around him.*
+*The man gets up, and notices a piece of metal lodged in his left hand, hesitating before deciding to pull it out. The process is slow, and is not without consequence, as the man's cries of pain ring out during the pulling. After the [Scrap Metal Shard](./Scrap%20Metal%20Shard.md) is pulled out, the man shouts to the hills around him.*
 
 Mackenzie: "Astrid!"
 
@@ -82,11 +50,11 @@ CHAPTER TWO
 
 THE CRASH
 
-*Mackenzie uses a <a href="./Bandage.md" class="wikilink" title="Bandage">Bandage</a> to stop the bleeding from his hand, then begins to hobble with a <a href="./Sprained%20Ankle.md" class="wikilink" title="Sprained Ankle">Sprained Ankle</a>. Fire and debris scour a ravine that the pilot finds himself in, with various crates from the plane able to be broken down for supplies.*
+*Mackenzie uses a [Bandage](./Bandage.md) to stop the bleeding from his hand, then begins to hobble with a [Sprained Ankle](./Sprained%20Ankle.md). Fire and debris scour a ravine that the pilot finds himself in, with various crates from the plane able to be broken down for supplies.*
 
 ## Try to climb out of the ravine
 
-*If the player attempts to walk up the fallen tree bridge to use the <a href="./Rock%20Climb.md" class="wikilink" title="Rock Climb">Rock Climb</a> out of the gorge, the camera will stop to show the climb and Mackenzie will say:*
+*If the player attempts to walk up the fallen tree bridge to use the [Rock Climb](./Rock%20Climb.md) out of the gorge, the camera will stop to show the climb and Mackenzie will say:*
 
 Mackenzie: "I could probably climb that."
 
@@ -122,11 +90,11 @@ Mackenzie: "My plane...not sure which of us looks worse. Poor girl, this isn't h
 
 Mackenzie: "There must be signs of Astrid around here somewhere."
 
-*Mackenzie then finds his <a href="./Mackenzie%27s%20Parka.md" class="wikilink" title="Parka">Parka</a> and puts it on.*
+*Mackenzie then finds his [Parka](./Mackenzie%27s%20Parka.md) and puts it on.*
 
 Mackenzie: "I've been looking for you."
 
-*Walking further under the wreckage, Will finds <a href="./Astrid%27s%20Backpack.md" class="wikilink" title="Astrid&#39;s Backpack">Astrid's Backpack</a> and <a href="./Astrid%27s%20Hardcase.md" class="wikilink" title="Astrid&#39;s Hardcase">Astrid's Hardcase</a>.*
+*Walking further under the wreckage, Will finds [Astrid's Backpack](./Astrid%27s%20Backpack.md) and [Astrid's Hardcase](./Astrid%27s%20Hardcase.md).*
 
 Mackenzie: "Astrid's pack."
 
@@ -234,7 +202,7 @@ Unknown Woman: "I had a name...once. But for years the townsfolk have called me 
 
 Mackenzie: "So, I should call you..."
 
-<a href="./Grey%20Mother.md" class="wikilink" title="Grey Mother">Grey Mother</a>: "You should call me Grey Mother also."
+[Grey Mother](./Grey%20Mother.md): "You should call me Grey Mother also."
 
 - TOWN
 
@@ -330,6 +298,4 @@ Grey Mother: "What about your friend? Aren't you in a hurry to find her?"
 
 Mackenzie: "Yes, I am. And I'll be looking for signs of her. But there's a lot of ground to cover, and without gear I won't make it. So while I'm looking for supplies, you see what you can remember about the night of the lights, and if she might passed through town. That way, we can both help each other."
 
-Grey Mother: "Ok, Outsider. Grey Mother can't promise she can unlock the secrets in the dark cupboards of her mind, but she'll try." Chapter 3 <a href="./The%20Grey%20Mother%20%E2%80%94%20Transcript.md" class="wikilink" title="The Grey Mother">The Grey Mother</a> begins.**Lua execution error in Module:Navbox function navbox**
-
-</div>
+Grey Mother: "Ok, Outsider. Grey Mother can't promise she can unlock the secrets in the dark cupboards of her mind, but she'll try." Chapter 3 [The Grey Mother](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) begins.**Lua execution error in Module:Navbox function navbox**

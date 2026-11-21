@@ -7,42 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/Forest_Cave_(Timberwolf_Mountain_lo
 
 # Forest Cave \(Timberwolf Mountain location\)
 
-<div>
+**Forest Cave**
 
-<table class="infobox">
-<caption>Forest Cave</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Forest_Cave_-_entrance_(Timberwolf_Mountain_location).jpg]</span>
-<figcaption>Forest_Cave_-_entrance_(Timberwolf_Mountain_location).jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Forest_Cave_(Timberwolf_Mountain_location)_Location.png]</span>
-<figcaption>Forest_Cave_(Timberwolf_Mountain_location)_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Cave|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Forest_Cave_-_entrance_%28Timberwolf_Mountain_location%29.jpg) / *Forest\_Cave\_-\_entrance\_(Timberwolf\_Mountain\_location).jpg* |
+| **Location** |  |
+|  | ![](../assets/Forest_Cave_%28Timberwolf_Mountain_location%29_Location.png) / *Forest\_Cave\_(Timberwolf\_Mountain\_location)\_Location.png* |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| **General** |  |
+| Type | Cave\|- |

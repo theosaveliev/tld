@@ -7,43 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/River_(Northern_Access)"
 
 # River \(Northern Access\)
 
-<div>
+**River (Northern Access)**
 
-<table class="infobox">
-<caption>River (Northern Access)</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: River_Northern_Access.jpg]</span>
-<figcaption>River_Northern_Access.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: River_(Northern_Access)_Location.png]</span>
-<figcaption>River_(Northern_Access)_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td></td>
-<td><p>Has no shelter|} The <strong>River (Northern Access)</strong> is an unmarked location in <a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>. It is located not far from <a href="./Train%20Bridge.md" class="wikilink" title="Train Bridge">Train Bridge</a>.</p>
-<p>The river connects <a href="./Mystery%20Lake%20%28location%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a> to the <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a> and runs under the <a href="./Train%20Bridge.md" class="wikilink" title="Train Bridge">Train Bridge</a>. Along the river many <a href="./Cat%20Tail.md" class="wikilink" title="Cat Tail">Cat Tail</a> Plants and <a href="./Stone.md" class="wikilink" title="Stones">Stones</a> can be found. <a href="./Alan%27s%20Cave.md" class="wikilink" title="Alan&#39;s Cave">Alan's Cave</a> can be easily accessed by following the river. Many <a href="./Deer.md" class="wikilink" title="Deer">Deer</a> and occasionally a <a href="./Moose.md" class="wikilink" title="Moose">Moose</a> spawn in the area. A small birch tree forest is nearby, providing <a href="./Birch%20Bark.md" class="wikilink" title="Birch Bark">Birch Bark</a>.<strong>Lua execution error in Module:Navbox function navbox</strong></p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/River_Northern_Access.jpg) / *River\_Northern\_Access.jpg* |
+| **Location** |  |
+|  | ![](../assets/River_%28Northern_Access%29_Location.png) / *River\_(Northern\_Access)\_Location.png* |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| **General** |  |
+|  | Has no shelter\|} The **River (Northern Access)** is an unmarked location in [Mystery Lake](./Mystery%20Lake%20%28region%29.md). It is located not far from [Train Bridge](./Train%20Bridge.md). / The river connects [Mystery Lake](./Mystery%20Lake%20%28location%29.md) to the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) and runs under the [Train Bridge](./Train%20Bridge.md). Along the river many [Cat Tail](./Cat%20Tail.md) Plants and [Stones](./Stone.md) can be found. [Alan's Cave](./Alan%27s%20Cave.md) can be easily accessed by following the river. Many [Deer](./Deer.md) and occasionally a [Moose](./Moose.md) spawn in the area. A small birch tree forest is nearby, providing [Birch Bark](./Birch%20Bark.md).**Lua execution error in Module:Navbox function navbox** |

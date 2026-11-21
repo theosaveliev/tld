@@ -7,134 +7,121 @@ source: "https://thelongdark.fandom.com/wiki/The_Long_Dark%2FChangelog"
 
 # The Long Dark/Changelog
 
-<div>
-
 **Contents**
 
-- [Current Versions](#Current_Versions)
-- [Version 2.59](#Version_2.59)
-- [Past Versions](#Past_Versions)
-- [Version 2.58 (Iron Road Part One)](#Version_2.58_%28Iron_Road_Part_One%29)
-- [Version 2.55](#Version_2.55)
-- [Version 2.54](#Version_2.54)
-- [Version 2.52](#Version_2.52)
-- [Version 2.51](#Version_2.51)
-- [Version 2.50](#Version_2.50)
-- [Version 2.44](#Version_2.44)
-- [Version 2.40](#Version_2.40)
-- [Version 2.38](#Version_2.38)
-- [Version 2.36](#Version_2.36)
-- [Version 2.35 (Steam)](#Version_2.35_%28Steam%29)
-- [Version 2.33 (Tales from the Far Territory Part 6: Broken Silence)](#Version_2.33_%28Tales_from_the_Far_Territory_Part_6%3A_Broken_Silence%29)
-- [CRASHES](#CRASHES)
-- [GAMEPLAY, UI, CONTROLS](#GAMEPLAY%2C_UI%2C_CONTROLS)
-- [ART & ENVIRONMENTS](#ART_%26_ENVIRONMENTS)
-- [ANIMATION](#ANIMATION)
-- [PLATFORM-SPECIFIC](#PLATFORM-SPECIFIC)
-- [2.32 (Steam, Epic Games)](#2.32_%28Steam%2C_Epic_Games%29)
-- [Bug Fixes](#Bug_Fixes)
-- [GAMEPLAY, UI, CONTROLS](#GAMEPLAY%2C_UI%2C_CONTROLS_2)
-- [ART & ENVIRONMENTS](#ART_%26_ENVIRONMENTS_2)
-- [2.31 (Steam, Epic Games)](#2.31_%28Steam%2C_Epic_Games%29)
-- [Bug Fixes](#Bug_Fixes_2)
-- [GAMEPLAY, UI, CONTROLS](#GAMEPLAY%2C_UI%2C_CONTROLS_3)
-- [ART & ENVIRONMENTS](#ART_%26_ENVIRONMENTS_3)
-- [AUDIO](#AUDIO)
-- [PLATFORM-SPECIFIC](#PLATFORM-SPECIFIC_2)
-- [2.30 (Steam)](#2.30_%28Steam%29)
-- [2.29 (Steam, Epic Games, Xbox, PlayStation)](#2.29_%28Steam%2C_Epic_Games%2C_Xbox%2C_PlayStation%29)
-- [2.28 (Steam, Epic Games, Xbox, PlayStation) (TFTFT PART FIVE: Last Horizon Update)](#2.28_%28Steam%2C_Epic_Games%2C_Xbox%2C_PlayStation%29_%28TFTFT_PART_FIVE%3A_Last_Horizon_Update%29)
-- [2.27 (Steam, Epic Games)](#2.27_%28Steam%2C_Epic_Games%29)
-- [2.26 (Steam)](#2.26_%28Steam%29)
-- [2.25 (Steam) (TFTFT PART FOUR: Buried Echoes Update)](#2.25_%28Steam%29_%28TFTFT_PART_FOUR%3A_Buried_Echoes_Update%29)
-- [2.24 (Xbox, PlayStation, Epic Games Store)](#2.24_%28Xbox%2C_PlayStation%2C_Epic_Games_Store%29)
-- [GENERAL](#GENERAL)
-- [2.23 (Steam)](#2.23_%28Steam%29)
-- [2.22 (Xbox, PlayStation, Epic Games Store)](#2.22_%28Xbox%2C_PlayStation%2C_Epic_Games_Store%29)
-- [2.22 (Steam)](#2.22_%28Steam%29)
-- [2.21 (Steam)](#2.21_%28Steam%29)
-- [2.20 (Steam)](#2.20_%28Steam%29)
-- [2.19 (Xbox, PlayStation, Epic Games Store)](#2.19_%28Xbox%2C_PlayStation%2C_Epic_Games_Store%29)
-- [2.19 (Steam)](#2.19_%28Steam%29)
-- [2.18 (Linux)](#2.18_%28Linux%29)
-- [PLATFORM-SPECIFIC ISSUE](#PLATFORM-SPECIFIC_ISSUE)
-- [2.17 (TFTFT Part Three: Frontier Comforts Update)](#2.17_%28TFTFT_Part_Three%3A_Frontier_Comforts_Update%29)
-- [2.16 (Xbox/PlayStation)](#2.16_%28Xbox%2FPlayStation%29)
-- [GENERAL](#GENERAL_2)
-- [2.16 (PC/Mac)](#2.16_%28PC%2FMac%29)
-- [GENERAL](#GENERAL_3)
-- [2.15](#2.15)
-- [GENERAL](#GENERAL_4)
-- [2.14](#2.14)
-- [GENERAL](#GENERAL_5)
-- [2.12 (Xbox/PlayStation)](#2.12_%28Xbox%2FPlayStation%29)
-- [GENERAL](#GENERAL_6)
-- [2.12 (PC/Mac)](#2.12_%28PC%2FMac%29)
-- [PC/Mac](#PC%2FMac)
-- [2.11](#2.11)
-- [Xbox](#Xbox)
-- [2.09 & 2.10 (TFTFT Part Two: Signal Void)](#2.09_%26_2.10_%28TFTFT_Part_Two%3A_Signal_Void%29)
-- [PART ONE: FORSAKEN AIRFIELD](#PART_ONE%3A_FORSAKEN_AIRFIELD)
-- [PART ONE: FREE STREAM](#PART_ONE%3A_FREE_STREAM)
-- [PART TWO: SIGNAL VOID](#PART_TWO%3A_SIGNAL_VOID)
-- [PART TWO: FREE STREAM](#PART_TWO%3A_FREE_STREAM)
-- [DETAILED RELEASE NOTES](#DETAILED_RELEASE_NOTES)
-- [USER INTERFACE](#USER_INTERFACE)
-- [ENVIRONMENT and AUDIO](#ENVIRONMENT_and_AUDIO)
-- [SURVIVAL](#SURVIVAL)
-- [CHALLENGE MODES](#CHALLENGE_MODES)
-- [WINTERMUTE](#WINTERMUTE)
-- [MAC](#MAC)
-- [CONSOLES](#CONSOLES)
-- [FURTHER INFORMATION](#FURTHER_INFORMATION)
-- [2.08](#2.08)
-- [USER INTERFACE](#USER_INTERFACE_2)
-- [SURVIVAL MODE](#SURVIVAL_MODE)
-- [TALES FROM THE FAR TERRITORY](#TALES_FROM_THE_FAR_TERRITORY)
-- [GENERAL](#GENERAL_7)
-- [2.07](#2.07)
-- [USER INTERFACE](#USER_INTERFACE_3)
-- [WINTERMUTE](#WINTERMUTE_2)
-- [WINDOWS 10](#WINDOWS_10)
-- [MAC](#MAC_2)
-- [2.06](#2.06)
-- [2.05](#2.05)
-- [2.04](#2.04)
-- [2.03 (TFTFT Part 1: Forsaken Airfield Update)](#2.03_%28TFTFT_Part_1%3A_Forsaken_Airfield_Update%29)
-- [GENERAL FIXES](#GENERAL_FIXES)
-- [MORE INFORMATION](#MORE_INFORMATION)
-- [2.02](#2.02)
-- [USER INTERFACE](#USER_INTERFACE_4)
-- [SURVIVAL](#SURVIVAL_2)
-- [WINTERMUTE](#WINTERMUTE_3)
-- [PLAYSTATION 4](#PLAYSTATION_4)
-- [2.00](#2.00)
-- [GENERAL FIXES](#GENERAL_FIXES_2)
-- [USER INTERFACE](#USER_INTERFACE_5)
-- [ART FIXES](#ART_FIXES)
-- [SURVIVAL](#SURVIVAL_3)
-- [WINTERMUTE](#WINTERMUTE_4)
-- [CUSTOM MODE](#CUSTOM_MODE)
-- [CHALLENGE MODES](#CHALLENGE_MODES_2)
+- [Current Versions](#current-versions)
+- [Version 2.59](#version-259)
+- [Past Versions](#past-versions)
+- [Version 2.58 (Iron Road Part One)](#version-258-iron-road-part-one)
+- [Version 2.55](#version-255)
+- [Version 2.54](#version-254)
+- [Version 2.52](#version-252)
+- [Version 2.51](#version-251)
+- [Version 2.50](#version-250)
+- [Version 2.44](#version-244)
+- [Version 2.40](#version-240)
+- [Version 2.38](#version-238)
+- [Version 2.36](#version-236)
+- [Version 2.35 (Steam)](#version-235-steam)
+- [Version 2.33 (Tales from the Far Territory Part 6: Broken Silence)](#version-233-tales-from-the-far-territory-part-6-broken-silence)
+- [CRASHES](#crashes)
+- [GAMEPLAY, UI, CONTROLS](#gameplay-ui-controls)
+- [ART &amp; ENVIRONMENTS](#art-environments)
+- [ANIMATION](#animation)
+- [PLATFORM-SPECIFIC](#platform-specific)
+- [2.32 (Steam, Epic Games)](#232-steam-epic-games)
+- [Bug Fixes](#bug-fixes)
+- [GAMEPLAY, UI, CONTROLS](#gameplay-ui-controls-1)
+- [ART &amp; ENVIRONMENTS](#art-environments-1)
+- [2.31 (Steam, Epic Games)](#231-steam-epic-games)
+- [Bug Fixes](#bug-fixes-1)
+- [GAMEPLAY, UI, CONTROLS](#gameplay-ui-controls-2)
+- [ART &amp; ENVIRONMENTS](#art-environments-2)
+- [AUDIO](#audio)
+- [PLATFORM-SPECIFIC](#platform-specific-1)
+- [2.30 (Steam)](#230-steam)
+- [2.29 (Steam, Epic Games, Xbox, PlayStation)](#229-steam-epic-games-xbox-playstation)
+- [2.28 (Steam, Epic Games, Xbox, PlayStation) (TFTFT PART FIVE: Last Horizon Update)](#228-steam-epic-games-xbox-playstation-tftft-part-five-last-horizon-update)
+- [2.27 (Steam, Epic Games)](#227-steam-epic-games)
+- [2.26 (Steam)](#226-steam)
+- [2.25 (Steam) (TFTFT PART FOUR: Buried Echoes Update)](#225-steam-tftft-part-four-buried-echoes-update)
+- [2.24 (Xbox, PlayStation, Epic Games Store)](#224-xbox-playstation-epic-games-store)
+- [GENERAL](#general)
+- [2.23 (Steam)](#223-steam)
+- [2.22 (Xbox, PlayStation, Epic Games Store)](#222-xbox-playstation-epic-games-store)
+- [2.22 (Steam)](#222-steam)
+- [2.21 (Steam)](#221-steam)
+- [2.20 (Steam)](#220-steam)
+- [2.19 (Xbox, PlayStation, Epic Games Store)](#219-xbox-playstation-epic-games-store)
+- [2.19 (Steam)](#219-steam)
+- [2.18 (Linux)](#218-linux)
+- [PLATFORM-SPECIFIC ISSUE](#platform-specific-issue)
+- [2.17 (TFTFT Part Three: Frontier Comforts Update)](#217-tftft-part-three-frontier-comforts-update)
+- [2.16 (Xbox/PlayStation)](#216-xboxplaystation)
+- [GENERAL](#general-1)
+- [2.16 (PC/Mac)](#216-pcmac)
+- [GENERAL](#general-2)
+- [2.15](#215)
+- [GENERAL](#general-3)
+- [2.14](#214)
+- [GENERAL](#general-4)
+- [2.12 (Xbox/PlayStation)](#212-xboxplaystation)
+- [GENERAL](#general-5)
+- [2.12 (PC/Mac)](#212-pcmac)
+- [PC/Mac](#pcmac)
+- [2.11](#211)
+- [Xbox](#xbox)
+- [2.09 &amp; 2.10 (TFTFT Part Two: Signal Void)](#209-210-tftft-part-two-signal-void)
+- [PART ONE: FORSAKEN AIRFIELD](#part-one-forsaken-airfield)
+- [PART ONE: FREE STREAM](#part-one-free-stream)
+- [PART TWO: SIGNAL VOID](#part-two-signal-void)
+- [PART TWO: FREE STREAM](#part-two-free-stream)
+- [DETAILED RELEASE NOTES](#detailed-release-notes)
+- [USER INTERFACE](#user-interface)
+- [ENVIRONMENT and AUDIO](#environment-and-audio)
+- [SURVIVAL](#survival)
+- [CHALLENGE MODES](#challenge-modes)
+- [WINTERMUTE](#wintermute)
+- [MAC](#mac)
+- [CONSOLES](#consoles)
+- [FURTHER INFORMATION](#further-information)
+- [2.08](#208)
+- [USER INTERFACE](#user-interface-1)
+- [SURVIVAL MODE](#survival-mode)
+- [TALES FROM THE FAR TERRITORY](#tales-from-the-far-territory)
+- [GENERAL](#general-6)
+- [2.07](#207)
+- [USER INTERFACE](#user-interface-2)
+- [WINTERMUTE](#wintermute-1)
+- [WINDOWS 10](#windows-10)
+- [MAC](#mac-1)
+- [2.06](#206)
+- [2.05](#205)
+- [2.04](#204)
+- [2.03 (TFTFT Part 1: Forsaken Airfield Update)](#203-tftft-part-1-forsaken-airfield-update)
+- [GENERAL FIXES](#general-fixes)
+- [MORE INFORMATION](#more-information)
+- [2.02](#202)
+- [USER INTERFACE](#user-interface-3)
+- [SURVIVAL](#survival-1)
+- [WINTERMUTE](#wintermute-2)
+- [PLAYSTATION 4](#playstation-4)
+- [2.00](#200)
+- [GENERAL FIXES](#general-fixes-1)
+- [USER INTERFACE](#user-interface-4)
+- [ART FIXES](#art-fixes)
+- [SURVIVAL](#survival-2)
+- [WINTERMUTE](#wintermute-3)
+- [CUSTOM MODE](#custom-mode)
+- [CHALLENGE MODES](#challenge-modes-1)
 
-<div style="float:right; clear:right; margin-bottom:.5em; padding:.5em 0 .8em 1.4em; background:transparent; max-width:20em;">
+This is a changelog for full-release versions of *[The Long Dark](./The%20Long%20Dark.md)*.
 
-</div>
+*For the changelog for versions 1.50 to 1.99, see [The Long Dark/Changelog/Archive 2](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md).*
 
-This is a changelog for full-release versions of *<a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark">The Long Dark</a>*.
+*For the changelog for versions 1.00 to 1.49, see [The Long Dark/Changelog/Archive 1](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md).*
 
-  
-<span class="dablink">*For the changelog for versions 1.50 to 1.99, see <a href="./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md" class="wikilink" title="The Long Dark/Changelog/Archive 2">The Long Dark/Changelog/Archive 2</a>.*</span>
-
-<!-- -->
-
-  
-<span class="dablink">*For the changelog for versions 1.00 to 1.49, see <a href="./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md" class="wikilink" title="The Long Dark/Changelog/Archive 1">The Long Dark/Changelog/Archive 1</a>.*</span>
-
-<!-- -->
-
-  
-<span class="dablink">*For the early access changelog (pre-v1.00), see <a href="./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md" class="wikilink" title="The Long Dark/Early Access Changelog">The Long Dark/Early Access Changelog</a>.*</span>
+*For the early access changelog (pre-v1.00), see [The Long Dark/Early Access Changelog](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md).*
 
 ## Current Versions
 
@@ -142,7 +129,7 @@ This is a changelog for full-release versions of *<a href="./The%20Long%20Dark.m
 
 Emergency Hotfix
 
-THE LONG DARK - IRON ROAD UPDATED TO VERSION 2.59 - PRIORITY FIXES[^1]
+THE LONG DARK - IRON ROAD UPDATED TO VERSION 2.59 - PRIORITY FIXES[¹](#fn1)
 
 Steam
 
@@ -150,7 +137,6 @@ Hello players,
 
 We have just updated THE LONG DARK to:
 
-  
 Survival: 2.59 189140
 
 Episode Five: 2.56 182347
@@ -159,11 +145,7 @@ WINTERMUTE: 2.25 181842
 
 This is a Hotfix targeted at THE LONG DARK: IRON ROAD, addressing priority bugs, and additional fixes for issues included with the initial release.
 
-Bug Fixes
-
 This Update includes fixes for the following issues:
-
-GAMEPLAY, UI, CONTROLS
 
 - Fixed an issue where Research Books, Polaroids, Weapon Variants and Interloper Item tables were not correctly spawning in new games. Unfortunately, players who started new games while this bug was active will not find these playthroughs retroactively fixed.
 - Fixed an issue where the Cabin in Looted Grotto would load the incorrect scene when entered.
@@ -176,8 +158,6 @@ GAMEPLAY, UI, CONTROLS
 - Fixed an issue where the door to Train Repair Depots could be opened without initiating a transition.
 - Removed Safehouse Customization as an option in the Desecrated Church.
 
-ART & ENVIRONMENTS
-
 - Fixed an issue where players could climb around and over the gate to Track Section 1 from Port Remnant.
 - Fixed an issue where Carter Hydro Dam bins could be found in Track Section 2.
 - Fixed an issue with invisible collision around a damaged Cabin in Port Remnant.
@@ -185,11 +165,7 @@ ART & ENVIRONMENTS
 - Fixed an issue where duplicate Lockers were placed in the same location in Train Repair Depots.
 - Fixed a visible gap in doorways on the exterior of Train Repair Depots.
 
-ANIMATION
-
 - Fixed an issue where Distress Pistol skipped the aiming animation, resulting in a jarring motion.
-
-AUDIO
 
 - Fixed an issue that resulted in snow footstep sound effects while walking inside Train Repair Depots.
 
@@ -197,13 +173,12 @@ AUDIO
 
 ### Version 2.58 (Iron Road Part One)
 
-October 27, 2026: Update to support launch of <a href="./Iron%20Road.md" class="wikilink" title="Iron Road">Iron Road</a> Early Access (Steam only). Features Anna Island release.
+October 27, 2026: Update to support launch of [Iron Road](./Iron%20Road.md) Early Access (Steam only). Features Anna Island release.
 
 ### Version 2.55
 
-Hotfix THE LONG DARK - EPISODE FIVE HOTFIX 1 (WINTERMUTE v 2.24 -- EPISODE FIVE v 2.54)[^2]
+Hotfix THE LONG DARK - EPISODE FIVE HOTFIX 1 (WINTERMUTE v 2.24 -- EPISODE FIVE v 2.54)[²](#fn2)
 
-  
 Steam
 
 \[UPDATED: Now available on Steam, Epic Games Store, GoG, and WeGame\]
@@ -214,7 +189,6 @@ Hello players,
 
 We have just updated THE LONG DARK to:
 
-  
 Survival: 2.55 181032
 
 Episode Five: 2.54 181117
@@ -223,8 +197,6 @@ WINTERMUTE: 2.24 181038
 
 This is a Steam only Hotfix for THE LONG DARK: WINTERMUTE, addressing bugs introduced with the Episode Five release. Other platforms will follow shortly.
 
-Known Issues
-
 Spoilers Ahead!
 
 The team is currently aware of the following issues in the game and hard at work addressing them:
@@ -232,8 +204,6 @@ The team is currently aware of the following issues in the game and hard at work
 - Players who Alt-Tab away from the “Previously On” cinematic shown when beginning Episode Five, will find that the video restarts upon returning to the application.
 - PlayStation players may find that Survival Mode Photos taken prior to the Episode Five release appear blank.
 - PlayStation players may encounter an error that reads "Cannot create more saved data for this application" when launching the game. These players may not be able to generate new save files or save existing games while playing. Deleting save data until the total used space is less than 50% will remedy this issue for the time being.
-
-Bug Fixes
 
 This Update includes fixes for the following issues:
 
@@ -296,7 +266,7 @@ GAMEPLAY, UI, CONTROLS
 - Removed the erroneously placed Spray Paint Glyph Can from Blackrock Foothills and the Mine.
 - Fixed an issue where dying from falling through ice and then reloading the last available save file would result in the ability to walk across weak ice without limit.
 
-ART & ENVIRONMENTS
+ART &amp; ENVIRONMENTS
 
 - Fixed multiple terrain traps in Perseverance Mills.
 - Fixed multiple issues in Perseverance Mills where snow would not blend against building bases.
@@ -343,15 +313,14 @@ PLATFORM-SPECIFIC
 
 ### Version 2.54
 
-Hotfix THE LONG DARK - EPISODE FIVE HOTFIX 1 (WINTERMUTE v 2.23)[^3]
+Hotfix THE LONG DARK - EPISODE FIVE HOTFIX 1 (WINTERMUTE v 2.23)[³](#fn3)
 
-Steam \[UPDATED: Now available on Steam, Xbox One & Series X/S, PlayStation 4 & 5, EGS, GoG\]
+Steam \[UPDATED: Now available on Steam, Xbox One &amp; Series X/S, PlayStation 4 &amp; 5, EGS, GoG\]
 
 Hello players,
 
 We have just updated THE LONG DARK to:
 
-  
 Survival: 2.54 180535
 
 Episode Five: 2.23 180559
@@ -359,8 +328,6 @@ Episode Five: 2.23 180559
 WINTERMUTE: 2.53 180603
 
 This is a Steam only Hotfix for THE LONG DARK: WINTERMUTE, addressing bugs introduced with the Episode Five release. Other platforms will follow shortly.
-
-Known Issues
 
 Spoilers Ahead!
 
@@ -371,8 +338,6 @@ The team is currently aware of the following issues in the game. If you encounte
 - The player location indicator may be displaced or incorrect when viewing the Map screen from some interior locations, such as the Abandoned Mine or Suzuki Radio Telescope Facility.
 - Some Mission objectives are missing Map objective markers and have been added, however additional markers will be included in Hotfix 2.
 - PlayStation 4 players will find Jace’s dream cinematic plays with no visuals if they play without loading or restarting the game from the start of Episode Five until that point.
-
-Bug Fixes
 
 This Update includes fixes for the following issues:
 
@@ -459,7 +424,7 @@ GAMEPLAY, UI, CONTROLS
 - Fixed multiple items in the Clinic to allow them to be interactable where they previously were not.
 - Fixed an issue where the Ice Caves icon on the map was visible when it shouldn't be.
 
-ART & ENVIRONMENTS
+ART &amp; ENVIRONMENTS
 
 - Fixed hundreds of general environment art issues including floating items; too numerous to list them all.
 - Fixed an issue that resulted in floating train tracks at the SAR Station.
@@ -544,7 +509,7 @@ PLATFORM-SPECIFIC
 
 ### Version 2.52
 
-THE LONG DARK - EPISODE FIVE UPDATE (SURVIVAL/TALES v 2.52, WINTERMUTE v 2.22)[^4]
+THE LONG DARK - EPISODE FIVE UPDATE (SURVIVAL/TALES v 2.52, WINTERMUTE v 2.22)[⁴](#fn4)
 
 Steam, Epic Games Store, GOG, WeGame, Xbox, and PlayStation
 
@@ -552,7 +517,6 @@ Hello players,
 
 We have just updated THE LONG DARK to:
 
-  
 Survival: 2.52 179852
 
 Episode Five: 2.52 180269
@@ -563,8 +527,6 @@ WINTERMUTE: 2.22 180167
 
 This is a Major Update to THE LONG DARK: WINTERMUTE, introducing Episode Five and completing Story Mode.
 
-Known Issues
-
 Spoilers Ahead!
 
 The team is currently aware of the following issues in the game. If you encounter one of these issues, there is no need to report it to the Support Portal.
@@ -573,8 +535,6 @@ The team is currently aware of the following issues in the game. If you encounte
 - Story save files from before 2023 (prior to the Survival/Story application split) will not appear in the Episode Five executable. These files will only be visible from the Episode 1-4 executable. This can be accessed by starting a new Episode 1-4 game and then quitting at your earliest convenience.
 - PlayStation players that load the autosave after the Atwood story cinematic and then open their Journal will encounter a consistent crash.
 - PlayStation 4 players will find Jace’s dream cinematic plays with no visuals if they play without loading or restarting the game from the start of Episode Five until that point.
-
-Bug Fixes
 
 This Update includes fixes for the following issues:
 
@@ -589,7 +549,7 @@ CRASHES
 
 Hotfix
 
-THE LONG DARK - UPDATE (SURVIVAL/TALES v 2.51, WINTERMUTE v 2.20)[^5]
+THE LONG DARK - UPDATE (SURVIVAL/TALES v 2.51, WINTERMUTE v 2.20)[⁵](#fn5)
 
 Steam, Epic Games Store, Xbox, and PlayStation
 
@@ -599,14 +559,10 @@ We have just updated THE LONG DARK to version 2.51, build 170901.
 
 This is a Hotfix to THE LONG DARK and THE LONG DARK: SURVIVAL MODE and contains multiple bug fixes.
 
-Known Issues
-
 The team is currently aware of the following issues in the game. If you encounter one of these issues, there is no need to report it to the Support Portal.
 
 - MacOS and Linux - Please note that we have temporarily disabled Additional Shadows for Structures and Terrain to address an engine level visual bug. We are working to fix the problem and will re-enable this visual enhancement as soon as possible. This impacts both MacOS and Linux versions of the game.
 - In some rare cases when launching the game while using HDR, the display may appear completely black. This is caused by brightness somehow being set to 0. Using a non HDR display and setting the brightness to a higher value before swapping back is the only workaround for the time being.
-
-Bug Fixes
 
 This Hotfix includes fixes for the following issues:
 
@@ -666,11 +622,11 @@ This Hotfix includes fixes for the following issues:
 - Fixed an issue that could cause the game to soft-lock when a player attempted a Rope Climb with no Stamina, resulting in the player becoming stuck on the rope.
 - Fixed an issue that could cause a soft-lock if a Lantern ran out of fuel while being lit, resulting in a state where the player could move, but not interact with anything.
 - Fixed a rare issue where retrieving a Manufactured Arrow from a Carcass could result in a Simple Arrow being added to the player's Backpack instead.
-- Fixed an issue where Transmitters were shown in the Journal-\>Collections tab even when the Tales From the Far Territory DLC was not installed.
+- Fixed an issue where Transmitters were shown in the Journal-&gt;Collections tab even when the Tales From the Far Territory DLC was not installed.
 - Fixed an issue that allowed a player to carry the Travois into a Snow Shelter with them.
 - Fixed an issue that prevented the Cougar Claw Knife from being used as a Crafting Tool.
 
-*ART & ENVIRONMENTS*
+*ART &amp; ENVIRONMENTS*
 
 - Fixed multiple instances of items being hidden beneath snow by the Terrain Blending setting.
 - Fixed an issue in Broken Railroad where smoke would not appear from the chimney of the Hunting Lodge when the fireplace was lit.
@@ -729,7 +685,7 @@ This Minor Update includes fixes for the following issues:
 - Fixed an issue in WINTERMUTE Episodes Three and Four that resulted in mistimed subtitles during the recap videos.
 - Fixed an issue that prevented WINTERMUTE saves from being renamed.
 
-*ART & ENVIRONMENTS*
+*ART &amp; ENVIRONMENTS*
 
 - Fixed an issue in Sundered Pass that resulted in some areas displaying noticeably darkened sections with "Additional Shadows - Structures" enabled.
 - Fixed an issue in Sundered Pass cave transition that resulted in noticeably darkened sections and incorrect terrain blending with "Additional Shadows - Structures" and "Terrain Blending" enabled.
@@ -768,7 +724,7 @@ Bug Fixes
 
 This Hotfix includes fixes for the following issues:
 
-*PERFORMANCE & OPTIMIZATION*
+*PERFORMANCE &amp; OPTIMIZATION*
 
 - Adjusted asset groupings to improve memory performance in-game.
 - Adjusted collider settings on hundreds of objects, resulting in performance improvement and more accurate object detection.
@@ -861,7 +817,7 @@ This Hotfix includes fixes for the following issues:
 - Fixed an issue in Blackrock Steam Tunnels that impeded player passage with invisible collision.
 - Adjusted Carcass Harvesting to disallow players from attempting to Harvest Carcasses on Weak Ice.
 
-*ART & ENVIRONMENTS*
+*ART &amp; ENVIRONMENTS*
 
 - Fixed an issue where Rifles were left floating in mid-air if the Gun Rack they were placed on was disassembled.
 - Fixed an issue in a Coastal Highway Cabin Crate where a Candy Bar would spawn, but remain invisible to the player.
@@ -891,8 +847,6 @@ This Hotfix includes fixes for the following issues:
 
 - Fixed an issue where Xbox button prompts were displayed when using a PS5 controller on PC.
 - Fixed an issue for Xbox and PlayStation players that resulted in Safehouse Customization Decoration capacity incorrectly tabulating the number of items in a scene, severely limiting the number of items a player could place.
-
-<!-- -->
 
 - [1](https://hinterlandforums.com/forums/topic/46927-the-long-dark-updated-to-v-240/)
 
@@ -1078,8 +1032,6 @@ Trader
 
 General
 
-   
-
 \*Fixed an issue in Coastal Highway near the Southwestern bridge where players could get stuck.
 
 \*Fixed an issue in Pleasant Valley's Farmhouse Barn where a player could get stuck trying to drop down past the ladder.
@@ -1128,7 +1080,7 @@ General
 
 \*Fixed an issue with a rug in the Pleasant Valley Community Hall which caused it to flicker during and after being placed.
 
-ART & ENVIRONMENTS
+ART &amp; ENVIRONMENTS
 
 \* Fixed an issue that caused incorrect and inconsistent exterior lighting when moving in and out of caves.
 
@@ -1232,7 +1184,7 @@ GAMEPLAY, UI, CONTROLS
 
 \* Tuned Misery Experience Mode Trader values to be more in line with the expected Misery experience.
 
-ART & ENVIRONMENTS
+ART &amp; ENVIRONMENTS
 
 \* Fixed an issue where no icons were present in the Trader Radio interface for raw fish, animal meat, dried hides or harvestable plants.
 
@@ -1296,7 +1248,7 @@ This Major Update includes fixes for the following issues:
 - Fixed an issue in Sundered Pass where a backpack could not be searched.
 - Fixed an issue where Beachcombing containers and items could duplicate when exiting and re-entering the Region.
 
-#### ART & ENVIRONMENTS
+#### ART &amp; ENVIRONMENTS
 
 - Fixed an issue where inspecting Polaroids resulted in a visible incorrect watermark on the object.
 - Improved the detail on all vehicle engines.
@@ -1344,8 +1296,6 @@ This Major Update includes fixes for the following issues:
 - \[PS4/Switch\] Fixed memory leak when loading into a new level.
 - \[PS4/Switch\] Reduced memory usage for falling snow effect.
 - \[PS4/Switch\] Reduced memory usage for post fx by reusing render textures between passes.
-
-<!-- -->
 
 - [1](https://hinterlandforums.com/forums/topic/45808-tales-from-the-far-territory-part-six-broken-silence-now-live/)
 
@@ -1395,7 +1345,7 @@ This Hotfix includes fixes for the following issues:
 - Fixed an issue where the Survivor could spawn into a cabin awning when Cheating Death.
 - Fixed an issue that could result in a save error in Sundered Pass.
 
-##### ART & ENVIRONMENTS
+##### ART &amp; ENVIRONMENTS
 
 - Fixed an issue where players could incorrectly get on top of a broken trailer in Sundered Pass.
 - Fixed multiple issues where the player could become stuck in terrain in Sundered Pass.
@@ -1451,7 +1401,7 @@ This Hotfix includes fixes for the following issues:
 - Fixed an issue in Sundered Pass that prevented the Survivor from returning up a Rope Climb.
 - Fixed an issue that caused reduced performance in the Carter Hydro Dam.
 
-##### ART & ENVIRONMENTS
+##### ART &amp; ENVIRONMENTS
 
 - Updated the "Last Horizon" text on the main menu to be more visible.
 
@@ -1508,8 +1458,8 @@ Released June 24, 2024
 
 We have just updated THE LONG DARK to version 2.28, Build 136607.
 
-This update includes Part Five of TALES FROM THE FAR TERRITORY, “Last Horizon”, as well as a free update to the base Survival Mode for THE LONG DARK. It also includes a series of bug fixes.\
-***External links:***
+This update includes Part Five of TALES FROM THE FAR TERRITORY, “Last Horizon”, as well as a free update to the base Survival Mode for THE LONG DARK. It also includes a series of bug fixes.  
+ ***External links:***
 
 - [6](https://hinterlandforums.com/forums/topic/45180-tales-from-the-far-territory-part-five-is-here/)
 
@@ -1519,8 +1469,8 @@ Released January 24, 2024
 
 We have just updated THE LONG DARK to version 2.27, build 127976.
 
-This is a Hotfix to THE LONG DARK and THE LONG DARK: SURVIVAL EDITION and contains fixes for issues introduced with our Part Four release.\
-***External links:***
+This is a Hotfix to THE LONG DARK and THE LONG DARK: SURVIVAL EDITION and contains fixes for issues introduced with our Part Four release.  
+ ***External links:***
 
 - [7](https://hinterlandforums.com/forums/topic/44689-the-long-dark-updated-to-v-227/)
 
@@ -1528,8 +1478,8 @@ This is a Hotfix to THE LONG DARK and THE LONG DARK: SURVIVAL EDITION and contai
 
 We have just updated THE LONG DARK to version 2.26, build 126828.
 
-This is a Hotfix to THE LONG DARK and THE LONG DARK: SURVIVAL EDITION and contains fixes for issues introduced with our Part Four release.\
-***External links:***
+This is a Hotfix to THE LONG DARK and THE LONG DARK: SURVIVAL EDITION and contains fixes for issues introduced with our Part Four release.  
+ ***External links:***
 
 - [8](https://hinterlandforums.com/forums/topic/44488-the-long-dark-updated-to-v-226/)
 
@@ -1539,8 +1489,8 @@ Released December 5, 2023
 
 We have just updated THE LONG DARK to version 2.25, build 126227.
 
-This is the latest Expansion Pass update TALES FROM THE FAR TERRITORY, Part Four: BURIED ECHOES, along with a free update available to anyone who owns THE LONG DARK or SURVIVAL EDITION, and various bug fixes and quality of life improvements.\
-***External links:***
+This is the latest Expansion Pass update TALES FROM THE FAR TERRITORY, Part Four: BURIED ECHOES, along with a free update available to anyone who owns THE LONG DARK or SURVIVAL EDITION, and various bug fixes and quality of life improvements.  
+ ***External links:***
 
 - [9](https://hinterlandforums.com/forums/topic/44363-tales-from-the-far-territory-part-four-is-here/#comment-271030)
 
@@ -1550,57 +1500,57 @@ We have just released our v2.24 (121035) Hotfix for THE LONG DARK (including Sur
 
 #### GENERAL
 
-Fixed an issue that caused a crash to occur if a Bow broke while being shot.\
-***External links:***
+Fixed an issue that caused a crash to occur if a Bow broke while being shot.  
+ ***External links:***
 
 - [10](https://hinterlandforums.com/forums/topic/44075-the-long-dark-updated-to-v224/)
 
 ### 2.23 (Steam)
 
-We have just released our v2.23 (120705) Quality of Life Update for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on all platforms.\
-***External links:***
+We have just released our v2.23 (120705) Quality of Life Update for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on all platforms.  
+ ***External links:***
 
 - [11](https://hinterlandforums.com/forums/topic/44051-the-long-dark-quality-of-life-update-v223/)
 
 ### 2.22 (Xbox, PlayStation, Epic Games Store)
 
-We have just released our v2.22 (118386) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Xbox and PlayStation. Please note that the update for Epic Games Store will also follow in the next 24-48 hours.\
-***External links:***
+We have just released our v2.22 (118386) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Xbox and PlayStation. Please note that the update for Epic Games Store will also follow in the next 24-48 hours.  
+ ***External links:***
 
 - [12](https://hinterlandforums.com/forums/topic/43784-the-long-dark-updated-to-v-222-on-xbox-playstation-and-epic-games-store/)
 
 ### 2.22 (Steam)
 
-We have just released our v2.22 (118386) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Steam following the release of v2.21.\
-***External links:***
+We have just released our v2.22 (118386) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Steam following the release of v2.21.  
+ ***External links:***
 
 - [13](https://hinterlandforums.com/forums/topic/43756-the-long-dark-updated-to-v-222-steam/)
 
 ### 2.21 (Steam)
 
-We have just released our v2.21 (118182) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Steam following the release of v2.20.\
-***External links:***
+We have just released our v2.21 (118182) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Steam following the release of v2.20.  
+ ***External links:***
 
 - [14](https://hinterlandforums.com/forums/topic/43722-the-long-dark-updated-to-v-221-steam/)
 
 ### 2.20 (Steam)
 
-We have just released our v2.20 (118045) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Steam. (Please note that we will provide a separate update when the Hotfix is available for Epic Games Store, Xbox, and PlayStation in the coming days.)\
-***External links:***
+We have just released our v2.20 (118045) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Steam. (Please note that we will provide a separate update when the Hotfix is available for Epic Games Store, Xbox, and PlayStation in the coming days.)  
+ ***External links:***
 
 - [15](https://hinterlandforums.com/forums/topic/43713-the-long-dark-updated-to-v220-steam/)
 
 ### 2.19 (Xbox, PlayStation, Epic Games Store)
 
-We have just released our v2.19 (117518) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Xbox, PlayStation, and Epic Games Store. Please note that it may take time for the update to appear on your chosen platform.\
-***External links:***
+We have just released our v2.19 (117518) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Xbox, PlayStation, and Epic Games Store. Please note that it may take time for the update to appear on your chosen platform.  
+ ***External links:***
 
 - [16](https://hinterlandforums.com/forums/topic/43627-the-long-dark-updated-to-v219-xbox-playstation-and-epic-games-store/)
 
 ### 2.19 (Steam)
 
-We have just released our v2.19 (117518) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Steam. *(Please note that we will provide a separate update when the Hotfix is available for Epic Games Store, Xbox, and PlayStation in the coming days.)*\
-***External links:***
+We have just released our v2.19 (117518) Hotfix for THE LONG DARK (including Survival Edition), and TALES FROM THE FAR TERRITORY on Steam. *(Please note that we will provide a separate update when the Hotfix is available for Epic Games Store, Xbox, and PlayStation in the coming days.)*  
+ ***External links:***
 
 - [17](https://hinterlandforums.com/forums/topic/43620-the-long-dark-updated-to-v219-steam/)
 
@@ -1628,8 +1578,8 @@ We have just released our v2.17 (117074) update for THE LONG DARK (including Sur
 
 This update includes the latest Expansion Pass update TALES FROM THE FAR TERRITORY, Part Three: FRONTIER COMFORTS, along with a free update available to anyone who owns THE LONG DARK or SURVIVAL EDITION, and various bug fixes and quality of life improvements.
 
-TALES FROM THE FAR TERRITORY, Part Three: FRONTIER COMFORTS\
-***External links:***
+TALES FROM THE FAR TERRITORY, Part Three: FRONTIER COMFORTS  
+ ***External links:***
 
 - [19](https://hinterlandforums.com/forums/topic/43517-tales-from-the-far-territory-part-three-released-the-long-dark-updated-to-version-217-xbox-playstation-pc-mac/)
 
@@ -1648,9 +1598,9 @@ We have just released our v2.16 (113628) Hotfix for THE LONG DARK (including Sur
 - The bunkers discovered in Signal Void have been adjusted to provide less loot on Interloper.
 - A few extra Transmitter repair supplies will be newly available in Interloper to ensure the initial repairs are possible (applies to both existing saves or new).
 
-To check current releases on each platform, please visit our new Build Status Page.\
-Please visit our Support Portal (or consult our Known Issues page) if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game \| Studio).\
-***External links:***
+To check current releases on each platform, please visit our new Build Status Page.  
+ Please visit our Support Portal (or consult our Known Issues page) if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).  
+ ***External links:***
 
 - [20](https://hinterlandforums.com/forums/topic/43328-the-long-dark-updated-to-v216-xboxplaystation/)
 
@@ -1662,11 +1612,11 @@ We have just released our v2.16 (113628) Hotfix for THE LONG DARK (including Sur
 
 #### GENERAL
 
-\[TALES\] Fixed an issue where Transmitters in Forlorn Muskeg and Pleasant Valley reverted to being unrepaired, even when players had previously repaired them during the Tale. Players who previously lost progress will once again find their Transmitters in the appropriate repaired state.\
-To check current releases on each platform, please visit our new Build Status Page.
+\[TALES\] Fixed an issue where Transmitters in Forlorn Muskeg and Pleasant Valley reverted to being unrepaired, even when players had previously repaired them during the Tale. Players who previously lost progress will once again find their Transmitters in the appropriate repaired state.  
+ To check current releases on each platform, please visit our new Build Status Page.
 
-Please visit our Support Portal (or consult our Known Issues page) if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game \| Studio).\
-***External links:***
+Please visit our Support Portal (or consult our Known Issues page) if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).  
+ ***External links:***
 
 - [21](https://hinterlandforums.com/forums/topic/43322-the-long-dark-updated-to-v216-pcmac/)
 
@@ -1687,8 +1637,8 @@ We have just released our v2.16 (113628) Hotfix for THE LONG DARK (including Sur
 
 To check current releases on each platform, please visit our new Build Status Page.
 
-Please visit our Support Portal (or consult our Known Issues page) if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game \| Studio).\
-***External links:***
+Please visit our Support Portal (or consult our Known Issues page) if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).  
+ ***External links:***
 
 - [22](https://hinterlandforums.com/forums/topic/43286-the-long-dark-updated-to-v215-pcmac/)
 
@@ -1705,9 +1655,9 @@ We just released our v2.14 (112927) Hotfix on Xbox for THE LONG DARK (including 
 - Fixed an issue that caused graphical corruption when entering areas that contain a risk of Suffocation (such as the Steam Tunnels in Episode Four), or when enabling the Heritage Filter in the Display Options.
 - Fixed an issue that prevented the game from auto-saving if the player resumed playing from Standby, or used Quick Resume on an Xbox Series X or S system.
 
-To check current releases on each platform, please visit our new Build Status Page.\
-Please visit our Support Portal (or consult our Known Issues page) if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game \| Studio).\
-**External links:**
+To check current releases on each platform, please visit our new Build Status Page.  
+ Please visit our Support Portal (or consult our Known Issues page) if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).  
+ **External links:**
 
 - [23](https://hinterlandforums.com/forums/topic/43243-the-long-dark-updated-to-v-214-xbox/)
 
@@ -1722,9 +1672,9 @@ We just released our v2.12 (112469) Hotfix for THE LONG DARK (including Survival
 - \[TALES\] Fixed an issue where, if a player selected a save file containing TALES content while the DLC was not installed, the game would crash. An error message is now displayed when selecting the save file, informing the player of the missing content.
 - \[TALES\] Fixed an issue in the Tale in Part Two: SIGNAL VOID, where, if already holding an item in their hand, players could get stuck and fail to progress after picking up the Memo and Handheld Shortwave.
 
-For a list of release numbers and Known Issues for each platform, please visit our new Build Status Page.\
-Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game \| Studio).\
-**External links:**
+For a list of release numbers and Known Issues for each platform, please visit our new Build Status Page.  
+ Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).  
+ **External links:**
 
 - [24](https://hinterlandforums.com/forums/topic/43192-the-long-dark-updated-to-v212-xboxplaystation/)
 
@@ -1738,9 +1688,9 @@ We just released our v2.12 (112469) Hotfix for THE LONG DARK (including Survival
 
 - \[TALES\] Fixed an issue in the Tale in Part Two: SIGNAL VOID, where, if already holding an item in their hand, players could get stuck and fail to progress after picking up the Memo and Handheld Shortwave.
 
-For a list of release numbers and Known Issues for each platform, please visit our new Build Status Page.\
-Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game \| Studio).\
-**External links:**
+For a list of release numbers and Known Issues for each platform, please visit our new Build Status Page.  
+ Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).  
+ **External links:**
 
 - [25](https://hinterlandforums.com/forums/topic/43186-the-long-dark-updated-to-v212-pcmac/)
 
@@ -1754,15 +1704,15 @@ We just released our v2.11 Hotfix for THE LONG DARK on Xbox (112312) and WINTERM
 
 #### Xbox
 
-\[WINTERMUTE\] Fixed an issue where WINTERMUTE saves were not recognized by the game for some players following the TALES FROM THE FAR TERRITORY update, resulting in an inability to play Story Mode from saved files. Players who lost WINTERMUTE saves following the update are encouraged to reach out to us via the Support Portal for assistance. Please note that WINTERMUTE saves will work as intended for anyone accessing the Expansion Pass update for the first time following this update.\
-Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game \| Studio).
+\[WINTERMUTE\] Fixed an issue where WINTERMUTE saves were not recognized by the game for some players following the TALES FROM THE FAR TERRITORY update, resulting in an inability to play Story Mode from saved files. Players who lost WINTERMUTE saves following the update are encouraged to reach out to us via the Support Portal for assistance. Please note that WINTERMUTE saves will work as intended for anyone accessing the Expansion Pass update for the first time following this update.  
+ Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).
 
-\### END OF RELEASE NOTES \###\
-**External links:**
+### END OF RELEASE NOTES ###  
+ **External links:**
 
 - [26](https://hinterlandforums.com/forums/topic/43109-the-long-dark-updated-to-v211-on-xbox/)
 
-### 2.09 & 2.10 (TFTFT Part Two: Signal Void)
+### 2.09 &amp; 2.10 (TFTFT Part Two: Signal Void)
 
 Released March 30, 2023
 
@@ -1783,8 +1733,6 @@ The following paid features and content were included in TALES FROM THE FAR TERR
 - Forsaken Airfield Region: An abandoned airfield on a vast snowy plain. It includes the Hangar, Control Tower, Ranger’s Cabin, and other points of interest. Watch for the Aurora.
 - Tool Variants: Vaughan’s Rifle, Barb’s Rifle, Curator’s Rifle, Woodwright’s Bow, Spelunker’s Lantern: Modifications of the base Tools, with custom stats and cosmetics.
 
-<!-- -->
-
 - Glimmer Fog: Beware this phenomenon. It comes during the day, and getting stuck in it for too long will trigger the new Insomnia Affliction.
 - Insomnia Affliction: Too much time in the Glimmer Fog can affect your sleep patterns.
 
@@ -1794,7 +1742,7 @@ Please note that when you first start your adventures in the Far Territory, you 
 
 Along with the contents of Part One for the paid Expansion Pass, the following free updates were applied to the base Survival game.
 
-- Complete Loot & Resource refresh: All loot tables have been updated, and the location of in-world spawned objects has been refreshed. The locations and amounts of all high-value Tools and Items have also been modified. Do not expect things to appear in the same place, or quantity, as you may have experienced them before, and also know that an element of randomness to loot spawns is present in any game. Interloper balance has been preserved in the loot refresh. (For more information please visit this post.)
+- Complete Loot &amp; Resource refresh: All loot tables have been updated, and the location of in-world spawned objects has been refreshed. The locations and amounts of all high-value Tools and Items have also been modified. Do not expect things to appear in the same place, or quantity, as you may have experienced them before, and also know that an element of randomness to loot spawns is present in any game. Interloper balance has been preserved in the loot refresh. (For more information please visit this post.)
 
 Starting Spawn Points refresh: When you start a new Survival game, the locations you can potentially spawn in each region have been changed. Feel lost again.
 
@@ -1822,7 +1770,7 @@ Along with the contents of Part Two for the paid Expansion Pass, the following f
 - Fire-Hardened Arrows: Good for hunting small game
 - Enhanced Prepper Bunkers: Including visual updates, loot updates, and a spawn refresh. Prepper Bunkers are now spread out over more regions and there are more hatches than before, however only 3 are fully-stocked.
 - Enhanced Beachcombing: Watch for new loot and larger items after Blizzards
-- Acorns & more Oak Trees: Prepare and eat Acorns, or use them to make delicious Acorn Coffee
+- Acorns &amp; more Oak Trees: Prepare and eat Acorns, or use them to make delicious Acorn Coffee
 
 ##### DETAILED RELEASE NOTES
 
@@ -1912,11 +1860,11 @@ In addition to the above changes, we have also provided the following general fi
 
 ###### FURTHER INFORMATION
 
-For a list of Known Issues, please click here.\
-Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game \| Studio).
+For a list of Known Issues, please click here.  
+ Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).
 
-\### END OF RELEASE NOTES \###\
-***External links:***
+### END OF RELEASE NOTES ###  
+ ***External links:***
 
 - [27](https://hinterlandforums.com/forums/topic/43078-tales-from-the-far-territory-part-two-released-the-long-dark-updated-to-version-209-xbox-windows-store-and-210-steam-epic-games-store-playstation/)
 
@@ -1943,7 +1891,7 @@ CL Versions Displayed In-Game:
 - Windows - Survival Mode / TALES - 111676
 - Mac - Survival Mode / TALES - 111676
 
-Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game \| Studio).
+Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).
 
 #### USER INTERFACE
 
@@ -1971,8 +1919,8 @@ Please visit our Support Portal if you encounter any issues while playing the ga
 - \[General\] Fixed an issue that caused WINTERMUTE to ignore Launch Options set in the Steam client, such as video mode and resolution overrides.
 - \[Audio\] Fixed an issue that caused waterfall sounds to play at unintended locations.
 
-\### END OF RELEASE NOTES \###\
-***External links:***
+### END OF RELEASE NOTES ###  
+ ***External links:***
 
 - [28](https://hinterlandforums.com/forums/topic/43023-the-long-dark-updated-to-v208/)
 
@@ -1984,8 +1932,8 @@ Hello Community,
 
 We just released our v2.07 Quality of Life Update for THE LONG DARK, including Survival Edition. This update includes some significant bug fixes, along with game and performance improvements.
 
-CL Versions Displayed In-Game:\
-You can confirm that you have the latest update by checking the CL number displayed in the top left corner of your Home screen in-game.
+CL Versions Displayed In-Game:  
+ You can confirm that you have the latest update by checking the CL number displayed in the top left corner of your Home screen in-game.
 
 **Steam:**
 
@@ -2003,7 +1951,7 @@ You can confirm that you have the latest update by checking the CL number displa
 - Mac - Survival Mode / TALES - 111371
 - Mac - WINTERMUTE - 111213
 
-Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game \| Studio).
+Please visit our Support Portal if you encounter any issues while playing the game. For additional news and information, don’t forget to sign up for our newsletter and follow us on Twitter (Game | Studio).
 
 #### USER INTERFACE
 
@@ -2024,8 +1972,8 @@ Please visit our Support Portal if you encounter any issues while playing the ga
 - \[General\] Fixed an issue on OS 10.14 that would prevent players from being able to launch the game.
 - \[General\] Fixed an issue preventing players from accessing WINTERMUTE and TALES FROM THE FAR TERRITORY DLC on OS 10.14 and older.
 
-\### END OF RELEASE NOTES \###\
-***External links:***
+### END OF RELEASE NOTES ###  
+ ***External links:***
 
 - [29](https://hinterlandforums.com/forums/topic/43001-the-long-dark-updated-to-v207/)
 
@@ -2096,10 +2044,10 @@ We can confirm that a more comprehensive change list is coming, however, we have
 - Please note that the Mac build isn't currently live for TALES FROM THE FAR TERRITORY, and Mac players should not attempt to download the update.
 - As a reminder, your previous Survival saves WILL NOT work with the game once it has been updated. This is true even if you don't buy the Expansion Pass. You will, however, be able to continue to use your current Save Games on an older version of the game on Steam, using our Time Capsule feature. Since this is an older version, you won't have access to any of the new content or enhancements that are going into both the Base Game, and the Expansion Pass.
 
-For more information, please visit the Expansion Pass FAQ: <https://www.thelongdark.com/expansion/faq/>
+For more information, please visit the Expansion Pass FAQ: [https://www.thelongdark.com/expansion/faq/](https://www.thelongdark.com/expansion/faq/)
 
-Thank you for your ongoing patience and support. Please remember to visit our Support Portal if you encounter any issues while playing the game.\
-***External Links:***
+Thank you for your ongoing patience and support. Please remember to visit our Support Portal if you encounter any issues while playing the game.  
+ ***External Links:***
 
 - [The Long Dark Updated to v2.03 \[105581](https://hinterlandforums.com/forums/topic/42404-the-long-dark-updated-to-v203-105581/)\]
 
@@ -2115,20 +2063,20 @@ Hello Community,
 
 *Thank you for your patience.*
 
-------------------------------------------------------------------------
+---
 
 We just released our v2.02 (99904) Quality of Life Update for The Long Dark. This update includes some significant bug fixes, along with game and performance improvements.
 
 Thank you for your patience and support. We look forward to sharing more information about future updates and other exciting news about The Long Dark in a Dev Diary toward the end of September.
 
-Please remember to visit our Support Portal if you encounter any issues while playing the game. For additional news and information, please sign up for our newsletter and follow us on Twitter (Game \| Studio).
+Please remember to visit our Support Portal if you encounter any issues while playing the game. For additional news and information, please sign up for our newsletter and follow us on Twitter (Game | Studio).
 
 #### USER INTERFACE
 
 - \[UI\] Fixed an issue that prevented the Surveyed Locations from displaying the correct number of locations when viewed in the Journal.
 - \[UI\] Fixed an issue that prevented the Voice Audio slider from responding correctly when adjusted in Audio Options.
 - \[UI\] Fixed an issue that caused the subtitles to appear underneath the Radial Menu, preventing players from being able to read the subtitles.
-- \[UI\] Fixed an issue that caused the Manage Data button (found under Privacy -\> Options) to link incorrectly to Unity’s Cloud Analytics.
+- \[UI\] Fixed an issue that caused the Manage Data button (found under Privacy -&gt; Options) to link incorrectly to Unity’s Cloud Analytics.
 - \[UI\] Added a check to the Fire Starting Menu to prevent players from being able to open the menu if they do not have all of the items required.
 
 #### SURVIVAL
@@ -2150,7 +2098,7 @@ Please remember to visit our Support Portal if you encounter any issues while pl
 
 - \[HDR\] Fixed an issue that prevented the game from enabling HDR mode on HDR-enabled devices.
 
-\### END OF RELEASE NOTES \### ***External Links:***
+### END OF RELEASE NOTES ### ***External Links:***
 
 - [33](https://hinterlandforums.com/forums/topic/42084-updated-090722-the-long-dark-quality-of-life-update-v202-99904/)
 
@@ -2164,9 +2112,9 @@ We have released our v2.00 (91441) Quality of Life Update for The Long Dark. Thi
 
 Thank you for your patience and support. Please remember to visit our Support Portal if you encounter any issues while playing the game. You can also access a current list of Known Issues.
 
-For additional news and information about The Long Dark and Hinterland, please sign up for our newsletter and follow us on Twitter (Game \| Studio).
+For additional news and information about The Long Dark and Hinterland, please sign up for our newsletter and follow us on Twitter (Game | Studio).
 
-------------------------------------------------------------------------
+---
 
 A note about the Unity Upgrade:
 
@@ -2198,7 +2146,7 @@ Please note that this update will likely impact any mods you may have installed 
 - \[UI\] Fixed an issue that caused some locations to report as newly discovered when they had already been discovered.
 - \[UI\] Fixed an issue where the Journal displayed the incorrect number of collectable Buffer Memories.
 - \[UI\] Fixed an issue where the Blackrock Region map was missing some roads.
-- \[UI\] Fixed an issue that would cause an empty UI box to appear if the Player pressed “Escape” when viewing the Cooking Slot menu.  
+- \[UI\] Fixed an issue that would cause an empty UI box to appear if the Player pressed “Escape” when viewing the Cooking Slot menu.
 
 #### ART FIXES
 
@@ -2206,7 +2154,7 @@ Please note that this update will likely impact any mods you may have installed 
 - \[Enviro\] Fixed numerous locations where bushes and grass would clip through the environment or other objects.
 - \[Enviro\] Fixed a number of floating objects found throughout the world.
 - \[Enviro\] Fixed a small hole found on the interior geometry of cars.
-- \[Enviro\] Blackrock Region: Fixed a misaligned water trigger so that Players will no longer drown before reaching the water below the Power Plant entrance.  
+- \[Enviro\] Blackrock Region: Fixed a misaligned water trigger so that Players will no longer drown before reaching the water below the Power Plant entrance.
 - \[Enviro\] Blackrock Region: Fixed an issue that caused light effects to appear in the Steam Tunnels during the Aurora, even if there are no electrical items in the area.
 - \[Enviro\] Blackrock Region: Fixed numerous locations that provided Players with access to invalid areas of the Region.
 - \[Enviro\] Blackrock Region: Fixed many floating or misplaced objects.
@@ -2242,7 +2190,7 @@ Please note that this update will likely impact any mods you may have installed 
 
 - \[EP 2\] Fixed an issue that could prevent the Player from being able to open the gate to the Carter Dam.
 - \[EP 2\] Fixed missing dialogue audio when asking Methuselah about Wildlife.
-- \[EP 4\] Fixed a bug that could cause the game to hang or enter other incorrect states if an autosave occurred while a cinematic was playing. This addresses numerous issues including NPCs becoming stuck or the game loading to a black screen.  
+- \[EP 4\] Fixed a bug that could cause the game to hang or enter other incorrect states if an autosave occurred while a cinematic was playing. This addresses numerous issues including NPCs becoming stuck or the game loading to a black screen.
 - \[EP 4\] Fixed an issue that would cause Players to become stuck in the Suffocating state if they saved and reloaded while suffocating.
 - \[EP 4\] Blackrock Blues: Fixed an issue that prevented Players from being able to climb through the window leading to the Infirmary.
 
@@ -2253,29 +2201,21 @@ Please note that this update will likely impact any mods you may have installed 
 #### CHALLENGE MODES
 
 - \[Darkwalker\] Fixed an issue that prevented Players from resting when suffering from the Anxious/Afraid Affliction.
-- \[Archivist\As the Dead Sleep\] Fixed an issue that would cause locations to incorrectly appear as “Surveyed” at the start of the Challenge.
-- \[As the Dead Sleep\] Fixed an issue that would cause the Journal to appear corrupted if the challenge ended while the Journal was open.   
+- \[Archivist\\As the Dead Sleep\] Fixed an issue that would cause locations to incorrectly appear as “Surveyed” at the start of the Challenge.
+- \[As the Dead Sleep\] Fixed an issue that would cause the Journal to appear corrupted if the challenge ended while the Journal was open.
 
 ***External Link:***
 
 - [34](https://hinterlandforums.com/forums/topic/41705-the-long-dark-updated-to-v200-91441/#comment-236292)
 
-<a href="ru:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D0%B2_%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9" class="wikilink" title="ru:Категория:Архив_обновлений">ru:Категория:Архив_обновлений</a>
-
-<div id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+[ru:Категория:Архив\_обновлений](ru:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D0%B2_%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9)
 
 ## Notes
 
-</div>
+---
 
-</div>
-
-[^1]: [THE LONG DARK - IRON ROAD Updated to Version 2.59 - Priority Fixes](https://hinterlandforums.com/forums/topic/48698-the-long-dark-iron-road-updated-to-version-259-priority-fixes/)
-
-[^2]: [THE LONG DARK - EPISODE FIVE HOTFIX 1 (WINTERMUTE v 2.24 -- EPISODE FIVE v 2.54) (sic)](https://hinterlandforums.com/forums/topic/48191-ep5-hotfix-2-the-long-dark-wintermute-updated-to-version-224/), April 23, 2026
-
-[^3]: [\[EP5 HOTFIX \#1\] The Long Dark WINTERMUTE Updated to version 2.23](https://hinterlandforums.com/forums/topic/48130-ep5-hotfix-1-the-long-dark-wintermute-updated-to-version-223/), April 8, 2026
-
-[^4]: [THE LONG DARK Updated to 2.52 - EPISODE FIVE RELEASED](https://hinterlandforums.com/forums/topic/48060-the-long-dark-updated-to-252-episode-five-released/), March 31, 2026
-
-[^5]: [THE LONG DARK Updated to v 2.51](https://hinterlandforums.com/forums/topic/47749-the-long-dark-updated-to-v-251/), December 11, 2025
+1. [THE LONG DARK - IRON ROAD Updated to Version 2.59 - Priority Fixes](https://hinterlandforums.com/forums/topic/48698-the-long-dark-iron-road-updated-to-version-259-priority-fixes/)[↩︎](#fnref1)
+2. [THE LONG DARK - EPISODE FIVE HOTFIX 1 (WINTERMUTE v 2.24 -- EPISODE FIVE v 2.54) (sic)](https://hinterlandforums.com/forums/topic/48191-ep5-hotfix-2-the-long-dark-wintermute-updated-to-version-224/), April 23, 2026[↩︎](#fnref2)
+3. [\[EP5 HOTFIX #1\] The Long Dark WINTERMUTE Updated to version 2.23](https://hinterlandforums.com/forums/topic/48130-ep5-hotfix-1-the-long-dark-wintermute-updated-to-version-223/), April 8, 2026[↩︎](#fnref3)
+4. [THE LONG DARK Updated to 2.52 - EPISODE FIVE RELEASED](https://hinterlandforums.com/forums/topic/48060-the-long-dark-updated-to-252-episode-five-released/), March 31, 2026[↩︎](#fnref4)
+5. [THE LONG DARK Updated to v 2.51](https://hinterlandforums.com/forums/topic/47749-the-long-dark-updated-to-v-251/), December 11, 2025[↩︎](#fnref5)

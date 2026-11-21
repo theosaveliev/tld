@@ -7,91 +7,38 @@ source: "https://thelongdark.fandom.com/wiki/ID_-_F._Leblanc"
 
 # ID \- F\. Leblanc
 
-<div>
+**ID - F. Leblanc**
 
-<table class="infobox">
-<caption>ID - F. Leblanc</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/ID_-_D._Belanger_icon.png" loading="lazy" width="250" />
-<figcaption>ID_-_D._Belanger_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60" class="wikilink" title="22 October 2019">22 October 2019</a></p></td>
-</tr>
-<tr>
-<td><p>Wintermute</p></td>
-<td><p><a href="./Episode%203%20-%20Crossroads%20Elegy.md" class="wikilink" title="Episode 3">Episode 3</a> - <a href="./Fallen%20Star.md" class="wikilink" title="Fallen Star">Fallen Star</a></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Item type</p></td>
-<td><p><a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Stackable</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><p>Examine</p></td>
-<td><p>An identification card belonging to F. Leblanc.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>0.00 kg (0 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Actions</strong></p></td>
-</tr>
-<tr>
-<td><p>Backpack</p></td>
-<td><p>Examine</p></td>
-</tr>
-<tr>
-<td><p>On ground</p></td>
-<td><p>Take It, Read Text, Leave It</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/ID_-_D._Belanger_icon.png) / *ID\_-\_D.\_Belanger\_icon.png* |
+| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
+| Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | An identification card belonging to F. Leblanc. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
-**ID - F. Leblanc** is a <a href="./Collectibles.md" class="wikilink" title="Collectible">Collectible</a> item found in <a href="./Episode%203%20-%20Crossroads%20Elegy.md" class="wikilink" title="Episode 3">Episode 3</a> of the <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a> story mode as a part of the <a href="./Fallen%20Star.md" class="wikilink" title="Fallen Star">Fallen Star</a> mission.
+**ID - F. Leblanc** is a [Collectible](./Collectibles.md) item found in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [Wintermute](./Wintermute.md) story mode as a part of the [Fallen Star](./Fallen%20Star.md) mission.
 
-During the course of the mission, Astrid finds the ID on a corpse at the <a href="./Crash%20Site%20%28Pleasant%20Valley%29.md" class="wikilink" title="Crash Site (Pleasant Valley)">Crash Site (Pleasant Valley)</a>.
+During the course of the mission, Astrid finds the ID on a corpse at the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md).
 
 ## Location
 
-<div>
+The ID is located on a [Frozen Corpse](./Frozen%20Corpse.md) found after immediately falling from the main body of the plane and turning to the left, over the hill in a ditch near a nearby tree with the corpse of [K. Morrison](./ID%20-%20K.%20Morrison.md). The ID is later returned to Chloe at the [Community Hall](./Community%20Hall.md), with Astrid giving her sympathies.
 
-The ID is located on a <a href="./Frozen%20Corpse.md" class="wikilink" title="Frozen Corpse">Frozen Corpse</a> found after immediately falling from the main body of the plane and turning to the left, over the hill in a ditch near a nearby tree with the corpse of <a href="./ID%20-%20K.%20Morrison.md" class="wikilink" title="K. Morrison">K. Morrison</a>. The ID is later returned to Chloe at the <a href="./Community%20Hall.md" class="wikilink" title="Community Hall">Community Hall</a>, with Astrid giving her sympathies.
+![](../assets/K._Morrison_and_F._Leblanc_location.jpg)
 
-<figure>
-<span>[Missing image: K._Morrison_and_F._Leblanc_location.jpg]</span>
-<figcaption>K._Morrison_and_F._Leblanc_location.jpg</figcaption>
-</figure>
-
-</div>
+*K.\_Morrison\_and\_F.\_Leblanc\_location.jpg*
 
 ## Update history
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **22 October 2019 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
 
-</div>
-
 **Lua execution error in Module:Navbox function navbox**
-
-</div>

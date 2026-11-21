@@ -7,49 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/Langston_Mine"
 
 # Langston Mine
 
-<div>
+**Langston Mine**
 
-<table class="infobox">
-<caption>Langston Mine</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Langston_Mine_Outside_Buildings.png" loading="lazy" width="250" />
-<figcaption>Langston_Mine_Outside_Buildings.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Langston_Mine_Location.png]</span>
-<figcaption>Langston_Mine_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Zone%20of%20Contamination.md" class="wikilink" title="Zone of Contamination">Zone of Contamination</a>|-</p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Bed_icon.png" loading="lazy" width="30" />
-<figcaption>bed_icon.png</figcaption>
-</figure></td>
-<td></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Workbench_icon_green.png" loading="lazy" width="30" />
-<figcaption>workbench_icon_green.png</figcaption>
-</figure></td>
-<td><p>Has a workbench|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Langston_Mine_Outside_Buildings.png) / *Langston\_Mine\_Outside\_Buildings.png* |
+| **Location** |  |
+|  | ![](../assets/Langston_Mine_Location.png) / *Langston\_Mine\_Location.png* |
+| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
+| ![](../assets/Bed_icon.png) / *bed\_icon.png* |  |
+| ![](../assets/Workbench_icon_green.png) / *workbench\_icon\_green.png* | Has a workbench\|- |

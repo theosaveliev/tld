@@ -7,46 +7,14 @@ source: "https://thelongdark.fandom.com/wiki/Old_Schoolhouse"
 
 # Old Schoolhouse
 
-<div>
+**Old Schoolhouse**
 
-<table class="infobox">
-<caption>Old Schoolhouse</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: TLD-SSb-MT-Oldschool.jpg]</span>
-<figcaption><a href="./Milton.md" class="wikilink" title="Milton">Milton</a>'s Old Schoolhouse.</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Old_Schoolhouse_Location.png]</span>
-<figcaption>Old_Schoolhouse_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>A destroyed schoolhouse</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![Milton's Old Schoolhouse.](../assets/TLD-SSb-MT-Oldschool.jpg) / *[Milton](./Milton.md)'s Old Schoolhouse.* |
+| **Location** |  |
+|  | ![](../assets/Old_Schoolhouse_Location.png) / *Old\_Schoolhouse\_Location.png* |
+| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Description | A destroyed schoolhouse |
+| **General** |  |
+| Type | Outdoors\|- |

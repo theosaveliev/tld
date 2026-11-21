@@ -7,94 +7,44 @@ source: "https://thelongdark.fandom.com/wiki/Hacksaw"
 
 # Hacksaw
 
-<div>
+**Hacksaw**
 
-<table class="infobox">
-<caption>Hacksaw</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Hacksaw_icon.png" loading="lazy" width="250" />
-<figcaption>Hacksaw_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Item Type</p></td>
-<td><p>Tool|-</p></td>
-</tr>
-<tr>
-<td><p>Renewable</p></td>
-<td><p>Yes</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Statistics</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p><img src="../assets/Weight_icon.png" loading="lazy" height="30" alt="weight_icon.png" />1.00 kg(2.2 lbs)</p></td>
-</tr>
-<tr>
-<td><p>Harvest</p></td>
-<td><p>2 × <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a> 1 Hour</p></td>
-</tr>
-<tr>
-<td><p>Repair</p></td>
-<td><p><a href="./Simple%20Tools.md" class="wikilink" title="Simple Tools">Simple Tools</a> or <a href="./Quality%20Tools.md" class="wikilink" title="Quality Tools">Quality Tools</a><br />
-1 × <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a><br />
-25% Condition<br />
-45 to 30 min</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Hacksaw_icon.png) / *Hacksaw\_icon.png* |
+| **General** |  |
+| Item Type | Tool\|- |
+| Renewable | Yes |
+| **Statistics** |  |
+| Weight | ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
+| Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) 1 Hour |
+| Repair | [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) / 1 × [Scrap Metal](./Scrap%20Metal.md) / 25% Condition / 45 to 30 min |
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="vertical-align: top; font-size: 3em; color: #5d5980; padding-right: 10px"><p>“</p></td>
-<td><p><span style="font-style:italic">Heavy-duty saw made to cut through metal.</span></p>
-<div style="clear:both">
-&#10;</div>
-<div style="float:right; font-size:9pt">
-<p>In-game description</p>
-</div></td>
-<td style="vertical-align: bottom; font-size: 3em; color: #5d5980; padding-left: 10px"><p>”</p></td>
-</tr>
-</tbody>
-</table>
+> “**Heavy-duty saw made to cut through metal.**”
+>
+> — In-game description
 
-The **Hacksaw** is a tool with several critical functions, including harvesting saplings and furniture made of a variety of materials. <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a> is required to repair it.
+The **Hacksaw** is a tool with several critical functions, including harvesting saplings and furniture made of a variety of materials. [Scrap Metal](./Scrap%20Metal.md) is required to repair it.
 
 ## Uses
 
-The hacksaw is the only tool able to break down <a href="./Metal%20Shelf.md" class="wikilink" title="Metal Shelves">Metal Shelves</a> and other metal items to obtain scrap metal. It is required to open <a href="./Cargo%20Container.md" class="wikilink" title="Cargo Container">Cargo Containers</a> on <a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>, and it can be used instead of a <a href="./Hatchet.md" class="wikilink" title="Hatchet">Hatchet</a> to cut small tree limbs (a hatchet must be used for the largest limbs) and saplings. It also can be used to harvest carcasses for meat, hides, or guts, although it may be more efficient to use bare hands or other tools. It cannot be used as a weapon in struggles.
+The hacksaw is the only tool able to break down [Metal Shelves](./Metal%20Shelf.md) and other metal items to obtain scrap metal. It is required to open [Cargo Containers](./Cargo%20Container.md) on [Timberwolf Mountain](./Timberwolf%20Mountain.md), and it can be used instead of a [Hatchet](./Hatchet.md) to cut small tree limbs (a hatchet must be used for the largest limbs) and saplings. It also can be used to harvest carcasses for meat, hides, or guts, although it may be more efficient to use bare hands or other tools. It cannot be used as a weapon in struggles.
 
-One scrap metal and a set of <a href="./Simple%20Tools.md" class="wikilink" title="Simple Tools">Simple Tools</a> or <a href="./Quality%20Tools.md" class="wikilink" title="Quality Tools">Quality Tools</a> are needed to repair the hacksaw. Although it requires a tool set for repair (which are reasonably common), the hacksaw is a reliable way to harvest firewood without relying on hatchets and <a href="./Whetstone.md" class="wikilink" title="Whetstone">Whetstones</a>, which can be in limited supply, or an <a href="./Improvised%20Hatchet.md" class="wikilink" title="Improvised Hatchet">Improvised Hatchet</a>, which requires <a href="./Forge.md" class="wikilink" title="Forge">Forge</a> to craft.
+One scrap metal and a set of [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) are needed to repair the hacksaw. Although it requires a tool set for repair (which are reasonably common), the hacksaw is a reliable way to harvest firewood without relying on hatchets and [Whetstones](./Whetstone.md), which can be in limited supply, or an [Improvised Hatchet](./Improvised%20Hatchet.md), which requires [Forge](./Forge.md) to craft.
 
 Uses of Hacksaw:
 
-- Breaking down metal furniture (for <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a> and <a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a>).
-- Open locked <a href="./Cargo%20Container.md" class="wikilink" title="Cargo Containers">Cargo Containers</a> in <a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a> region. (N.B. a hacksaw breaking while opening one of these can make it **permanently inaccessible**. See <a href="./Repair.md" class="wikilink" title="Repair">Repair</a> section.)
-- <a href="./Carcass%20Harvesting.md" class="wikilink" title="Harvest frozen carcasses">Harvest frozen carcasses</a> (Hacksaws have the same meat harvesting speeds as <a href="./Hatchet.md" class="wikilink" title="Hatchets">Hatchets</a>, which means they are better used on frozen meat, but have worse speeds for hide or gut harvesting).
-- Harvest downed tree limbs (for <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> or <a href="./Cedar%20Firewood.md" class="wikilink" title="Cedar Firewood">Cedar Firewood</a>).
-- Harvest <a href="./Green%20Maple%20Sapling.md" class="wikilink" title="Green Maple Sapling">Green Maple Sapling</a> and <a href="./Green%20Birch%20Sapling.md" class="wikilink" title="Green Birch Sapling">Green Birch Sapling</a>.
+- Breaking down metal furniture (for [Scrap Metal](./Scrap%20Metal.md) and [Cloth](./Cloth.md)).
+- Open locked [Cargo Containers](./Cargo%20Container.md) in [Timberwolf Mountain](./Timberwolf%20Mountain.md) region. (N.B. a hacksaw breaking while opening one of these can make it **permanently inaccessible**. See [Repair](./Repair.md) section.)
+- [Harvest frozen carcasses](./Carcass%20Harvesting.md) (Hacksaws have the same meat harvesting speeds as [Hatchets](./Hatchet.md), which means they are better used on frozen meat, but have worse speeds for hide or gut harvesting).
+- Harvest downed tree limbs (for [Fir Firewood](./Fir%20Firewood.md) or [Cedar Firewood](./Cedar%20Firewood.md)).
+- Harvest [Green Maple Sapling](./Green%20Maple%20Sapling.md) and [Green Birch Sapling](./Green%20Birch%20Sapling.md).
 
-Unlike most other tools, Hacksaws cannot be selected as a tool for self-defense during a Wolf Struggle. For more information on Struggles, see: <a href="./Struggle.md" class="wikilink" title="Wildlife Struggles">Wildlife Struggles</a>.
+Unlike most other tools, Hacksaws cannot be selected as a tool for self-defense during a Wolf Struggle. For more information on Struggles, see: [Wildlife Struggles](./Struggle.md).
 
 ## Repair
 
-Hacksaws are repairable with <a href="./Simple%20Tools.md" class="wikilink" title="Tools">Tools</a> using <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a>. Also the <a href="./Milling%20Machine.md" class="wikilink" title="Milling Machine">Milling Machine</a> in <a href="./Bleak%20Inlet.md" class="wikilink" title="Bleak Inlet">Bleak Inlet</a> or <a href="./Blackrock.md" class="wikilink" title="Blackrock">Blackrock</a> may repair a non-ruined hacksaw to 100% condition for one <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a>, during an active <a href="./Aurora.md" class="wikilink" title="Aurora">Aurora</a>. N.B. The hacksaw has a breaking threshold at 25% condition, usage below this number risks ruining it for good.
+Hacksaws are repairable with [Tools](./Simple%20Tools.md) using [Scrap Metal](./Scrap%20Metal.md). Also the [Milling Machine](./Milling%20Machine.md) in [Bleak Inlet](./Bleak%20Inlet.md) or [Blackrock](./Blackrock.md) may repair a non-ruined hacksaw to 100% condition for one [Scrap Metal](./Scrap%20Metal.md), during an active [Aurora](./Aurora.md). N.B. The hacksaw has a breaking threshold at 25% condition, usage below this number risks ruining it for good.
 
 ## Locations
 
@@ -102,87 +52,85 @@ As with other items, the hacksaw will randomly spawn in any of several different
 
 Some observed spawn points include:
 
-<a href="./Mystery%20Lake%20%28disambiguation%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>
+[Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)
 
-- On a shelf in the control room of <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a> in the Upper Dam.
+- On a shelf in the control room of [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) in the Upper Dam.
 - Under the Workbench in the Trapper's Cabin.
 - Under the stairs in the Lower Dam.
-- Under the chair in front of the entrance in <a href="./Trapper%27s%20Homestead.md" class="wikilink" title="Trapper&#39;s Homestead">Trapper's Homestead</a>.
+- Under the chair in front of the entrance in [Trapper's Homestead](./Trapper%27s%20Homestead.md).
 - Under a bench near the workbench in the Lower Dam.
 
-<a href="./Desolation%20Point.md" class="wikilink" title="Desolation Point">Desolation Point</a>
+[Desolation Point](./Desolation%20Point.md)
 
-- On the barrel or a shelf along the wall in the engine room, 1st floor, <a href="./Hibernia%20Processing.md" class="wikilink" title="Hibernia Processing">Hibernia Processing</a>.
+- On the barrel or a shelf along the wall in the engine room, 1st floor, [Hibernia Processing](./Hibernia%20Processing.md).
 
-<a href="./No.%203%20Coal%20Mine.md" class="wikilink" title="Abandoned Mine No. 3">Abandoned Mine No. 3</a>
+[Abandoned Mine No. 3](./No.%203%20Coal%20Mine.md)
 
-- In a drawer at <a href="./Desolation%20Point.md" class="wikilink" title="Desolation Point">Desolation Point</a> exit side.
+- In a drawer at [Desolation Point](./Desolation%20Point.md) exit side.
 
-<a href="./Coastal%20Highway.md" class="wikilink" title="Coastal Highway">Coastal Highway</a>
+[Coastal Highway](./Coastal%20Highway.md)
 
-- On a metal shelf, and under the large tool chest, inside <a href="./Quonset%20Garage.md" class="wikilink" title="Quonset Garage">Quonset Garage</a>.
-- In the <a href="./Abandoned%20Lookout.md" class="wikilink" title="Abandoned Lookout">Abandoned Lookout</a>.
+- On a metal shelf, and under the large tool chest, inside [Quonset Garage](./Quonset%20Garage.md).
+- In the [Abandoned Lookout](./Abandoned%20Lookout.md).
 
-<a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>
+[Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
-- On the workbench in the <a href="./Mountaineer%27s%20Hut.md" class="wikilink" title="Mountaineer&#39;s Hut">Mountaineer's Hut</a>.
-- Beside a corpse on a plateau near the <a href="./Mountaineer%27s%20Hut.md" class="wikilink" title="Mountaineer&#39;s Hut">Mountaineer's Hut</a>.
-- Next to a corpse by the <a href="./Wing.md" class="wikilink" title="Wing">Wing</a> between <a href="./Forest%20Cave%20%28Timberwolf%20Mountain%20location%29.md" class="wikilink" title="Forest Cave">Forest Cave</a> and the entrance to <a href="./Echo%20Ravine.md" class="wikilink" title="Echo Ravine">Echo Ravine</a>.
-- Beside a corpse near the <a href="./Engine%20%28East%29.md" class="wikilink" title="Engine">Engine</a> in <a href="./Echo%20Ravine.md" class="wikilink" title="Echo Ravine">Echo Ravine</a>.
-- In the <a href="./Tail%20Section.md" class="wikilink" title="Tail Section">Tail Section</a> (on the <a href="./Summit.md" class="wikilink" title="Summit">Summit</a>).
+- On the workbench in the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md).
+- Beside a corpse on a plateau near the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md).
+- Next to a corpse by the [Wing](./Wing.md) between [Forest Cave](./Forest%20Cave%20%28Timberwolf%20Mountain%20location%29.md) and the entrance to [Echo Ravine](./Echo%20Ravine.md).
+- Beside a corpse near the [Engine](./Engine%20%28East%29.md) in [Echo Ravine](./Echo%20Ravine.md).
+- In the [Tail Section](./Tail%20Section.md) (on the [Summit](./Summit.md)).
 
-<a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a>
+[Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 - Beside a corpse. (near the [Old Spence Family Homestead](https://thelongdark.fandom.com/wiki/Old_Spence_Family_Homestead))
-- Near the <a href="./Bunkhouses.md" class="wikilink" title="Bunkhouses">Bunkhouses</a>.
-- <a href="./Poacher%27s%20Camp.md" class="wikilink" title="Poacher&#39;s Camp">Poacher's Camp</a>.
-- On the workbench in the <a href="./Old%20Spence%20Family%20Homestead.md" class="wikilink" title="Old Spence Family Homestead">Old Spence Family Homestead</a>
-- In the ruined house by the shore next to a chair at the <a href="./Old%20Spence%20Family%20Homestead.md" class="wikilink" title="Old Spence Family Homestead.">Old Spence Family Homestead.</a>
-- In the <a href="./High%20Blind.md" class="wikilink" title="High Blind">High Blind</a>.
-- In the <a href="./Low%20Blind.md" class="wikilink" title="Low Blind">Low Blind</a>.
-- Under the <a href="./Shortwave%20Tower.md" class="wikilink" title="Shortwave Tower">Shortwave Tower</a>, to the East of the <a href="./Hat%20Creek.md" class="wikilink" title="Hat Creek">Hat Creek</a>
-- In a cave next to a corpse, the cave is located a ways to the right of the <a href="./Poacher%27s%20Camp.md" class="wikilink" title="Poachers camp">Poachers camp</a>, when facing it from the <a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a> side.
+- Near the [Bunkhouses](./Bunkhouses.md).
+- [Poacher's Camp](./Poacher%27s%20Camp.md).
+- On the workbench in the [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md)
+- In the ruined house by the shore next to a chair at the [Old Spence Family Homestead.](./Old%20Spence%20Family%20Homestead.md)
+- In the [High Blind](./High%20Blind.md).
+- In the [Low Blind](./Low%20Blind.md).
+- Under the [Shortwave Tower](./Shortwave%20Tower.md), to the East of the [Hat Creek](./Hat%20Creek.md)
+- In a cave next to a corpse, the cave is located a ways to the right of the [Poachers camp](./Poacher%27s%20Camp.md), when facing it from the [Mystery Lake](./Mystery%20Lake%20%28region%29.md) side.
 
-<a href="./Broken%20Railroad.md" class="wikilink" title="Broken Railroad">Broken Railroad</a>
+[Broken Railroad](./Broken%20Railroad.md)
 
 - [Maintenance Yard](https://thelongdark.fandom.com/wiki/Maintenance_Yard).
 
-<a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>
+[Pleasant Valley](./Pleasant%20Valley.md)
 
-- In the toolbox in the <a href="./Pleasant%20Valley%20Outbuildings.md" class="wikilink" title="barn">barn</a>.
+- In the toolbox in the [barn](./Pleasant%20Valley%20Outbuildings.md).
 - Molly's barn.
-- Behind a fallen shelf or on the workbench in the basement of <a href="./Pleasant%20Valley%20Farmstead.md" class="wikilink" title="Pleasant Valley Farmstead">Pleasant Valley Farmstead</a>.
-- On the workbench in the <a href="./Prepper%27s%20Abandoned%20Cache.md" class="wikilink" title="Prepper&#39;s Abandoned Cache">Prepper's Abandoned Cache</a>.
-- In the car immediately outside <a href="./Pleasant%20Valley%20Farmstead.md" class="wikilink" title="Pleasant Valley Farmstead">Pleasant Valley Farmstead</a>.
-- On the ground in an outbuilding near the big red barn at <a href="./Pleasant%20Valley%20Outbuildings.md" class="wikilink" title="Pleasant Valley Outbuildings">Pleasant Valley Outbuildings</a>.
+- Behind a fallen shelf or on the workbench in the basement of [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md).
+- On the workbench in the [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md).
+- In the car immediately outside [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md).
+- On the ground in an outbuilding near the big red barn at [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md).
 
-<a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a>
+[Mountain Town](./Mountain%20Town.md)
 
-- Between the metal shelf and standing mattresses inside the <a href="./Trailer%20%28Mountain%20Town%20Region%29.md" class="wikilink" title="Trailer">Trailer</a>.
-- Town of Milton, <a href="./Milton%20House%20%28Grey%20Mother%27s%29.md" class="wikilink" title="Milton House (Grey Mother&#39;s)">Milton House (Grey Mother's)</a>
-- <a href="./Paradise%20Meadows%20Farm.md" class="wikilink" title="Paradise Meadows Farm">Paradise Meadows Farm</a>, on a workbench
-- On a chair behind cash register in <a href="./Orca%20Gas%20Station.md" class="wikilink" title="Orca Gas Station">Orca Gas Station</a>
+- Between the metal shelf and standing mattresses inside the [Trailer](./Trailer%20%28Mountain%20Town%20Region%29.md).
+- Town of Milton, [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md)
+- [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), on a workbench
+- On a chair behind cash register in [Orca Gas Station](./Orca%20Gas%20Station.md)
 
-<a href="./Bleak%20Inlet.md" class="wikilink" title="Bleak Inlet">Bleak Inlet</a>
+[Bleak Inlet](./Bleak%20Inlet.md)
 
-- On a shelf in the <a href="./Last%20Resort%20Cannery.md" class="wikilink" title="Last Resort Cannery">Last Resort Cannery</a> Workshop
-- Under a beam that makes up part of the <a href="./Last%20Resort%20Cannery.md" class="wikilink" title="Cannery obstacle course">Cannery obstacle course</a>
+- On a shelf in the [Last Resort Cannery](./Last%20Resort%20Cannery.md) Workshop
+- Under a beam that makes up part of the [Cannery obstacle course](./Last%20Resort%20Cannery.md)
 - Inside the pickup closest to the "Cannery Worker Residences" next to the long bridge, just forward of the shifter.
 
-<a href="./Ash%20Canyon.md" class="wikilink" title="Ash Canyon">Ash Canyon</a>
+[Ash Canyon](./Ash%20Canyon.md)
 
-- In the Cabin at <a href="./Miner%27s%20Folly.md" class="wikilink" title="Miner&#39;s Folly">Miner's Folly</a>.
-- By a Campfire on <a href="./Fire%20Overlook.md" class="wikilink" title="Fire Overlook">Fire Overlook</a>.
+- In the Cabin at [Miner's Folly](./Miner%27s%20Folly.md).
+- By a Campfire on [Fire Overlook](./Fire%20Overlook.md).
 
-<a href="./Blackrock.md" class="wikilink" title="Blackrock">Blackrock</a>
+[Blackrock](./Blackrock.md)
 
-- In the Barn at <a href="./Cook%27s%20Farm.md" class="wikilink" title="Cook&#39;s Farm">Cook's Farm</a>.
-- In <a href="./Bricklayer%27s%20Retreat.md" class="wikilink" title="Bricklayer&#39;s Retreat">Bricklayer's Retreat</a>.
+- In the Barn at [Cook's Farm](./Cook%27s%20Farm.md).
+- In [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md).
 
-<a href="./Keeper%27s%20Pass%20South.md" class="wikilink" title="Keeper&#39;s Pass South">Keeper's Pass South</a>
+[Keeper's Pass South](./Keeper%27s%20Pass%20South.md)
 
-- Can be found on top of the workbench inside the <a href="./Mirthless%20Fork.md" class="wikilink" title="Mirthless Fork">Mirthless Fork</a> trailer.**Lua execution error in Module:Navbox function navbox**
+- Can be found on top of the workbench inside the [Mirthless Fork](./Mirthless%20Fork.md) trailer.**Lua execution error in Module:Navbox function navbox**
 
-<a href="ru:%D0%9D%D0%BE%D0%B6%D0%BE%D0%B2%D0%BA%D0%B0" class="wikilink" title="ru:Ножовка">ru:Ножовка</a> <a href="es:Sierra_de_arco" class="wikilink" title="es:Sierra de arco">es:Sierra de arco</a>
-
-</div>
+[ru:Ножовка](ru:%D0%9D%D0%BE%D0%B6%D0%BE%D0%B2%D0%BA%D0%B0) [es:Sierra de arco](es:Sierra_de_arco)

@@ -7,42 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/Upper_Falls"
 
 # Upper Falls
 
-<div>
+**Upper Falls**
 
-<table class="infobox">
-<caption>Upper Falls</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: 2021-05-23_23-00-55.jpg]</span>
-<figcaption>2021-05-23_23-00-55.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Upper_Falls_Location.png]</span>
-<figcaption>Upper_Falls_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Landmark|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/2021-05-23_23-00-55.jpg) / *2021-05-23\_23-00-55.jpg* |
+| **Location** |  |
+|  | ![](../assets/Upper_Falls_Location.png) / *Upper\_Falls\_Location.png* |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| **General** |  |
+| Type | Landmark\|- |

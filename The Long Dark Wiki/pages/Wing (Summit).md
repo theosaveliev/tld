@@ -7,46 +7,14 @@ source: "https://thelongdark.fandom.com/wiki/Wing_(Summit)"
 
 # Wing \(Summit\)
 
-<div>
+**Wing (Summit)**
 
-<table class="infobox">
-<caption>Wing (Summit)</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Wing_(Summit).jpg]</span>
-<figcaption>Wing_(Summit).jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Wing_(Summit)_Location.png]</span>
-<figcaption>Wing_(Summit)_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>A wing from the crashed aircraft</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Wing_%28Summit%29.jpg) / *Wing\_(Summit).jpg* |
+| **Location** |  |
+|  | ![](../assets/Wing_%28Summit%29_Location.png) / *Wing\_(Summit)\_Location.png* |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| Description | A wing from the crashed aircraft |
+| **General** |  |
+| Type | Outdoors\|- |

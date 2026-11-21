@@ -7,59 +7,28 @@ source: "https://thelongdark.fandom.com/wiki/Survival_School_(Predux)%2FTranscri
 
 # Survival School \(Predux\)/Transcript
 
-<div>
-
 **Contents**
 
-- [Opening conversation](#Opening_conversation)
-- [Learn to craft Fishing Tackle, then catch fish from Mystery Lake.](#Learn_to_craft_Fishing_Tackle%2C_then_catch_fish_from_Mystery_Lake.)
-- [Learn to find, track, shoot, and butcher a Deer.](#Learn_to_find%2C_track%2C_shoot%2C_and_butcher_a_Deer.)
-- [Learn to mend and maintain clothing. It'll save your life some day.](#Learn_to_mend_and_maintain_clothing._It%27ll_save_your_life_some_day.)
-- [Learn to identify and harvest some of the edible, medicinal flora native to Great Bear Island. (Place in the container at Jeremiah's Cabin)](#Learn_to_identify_and_harvest_some_of_the_edible%2C_medicinal_flora_native_to_Great_Bear_Island._%28Place_in_the_container_at_Jeremiah%27s_Cabin%29)
-- [Return to Jeremiah.](#Return_to_Jeremiah.)
+- [Opening conversation](#opening-conversation)
+- [Learn to craft Fishing Tackle, then catch fish from Mystery Lake.](#learn-to-craft-fishing-tackle-then-catch-fish-from-mystery-lake)
+- [Learn to find, track, shoot, and butcher a Deer.](#learn-to-find-track-shoot-and-butcher-a-deer)
+- [Learn to mend and maintain clothing. It'll save your life some day.](#learn-to-mend-and-maintain-clothing-itll-save-your-life-some-day)
+- [Learn to identify and harvest some of the edible, medicinal flora native to Great Bear Island. (Place in the container at Jeremiah's Cabin)](#learn-to-identify-and-harvest-some-of-the-edible-medicinal-flora-native-to-great-bear-island-place-in-the-container-at-jeremiahs-cabin)
+- [Return to Jeremiah.](#return-to-jeremiah)
 
-<table class="infobox">
-<caption>Survival School (Predux)/Transcript</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: The_Long_Dark_-_episode_two_-_survival_school.png]</span>
-<figcaption>The_Long_Dark_-_episode_two_-_survival_school.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Episode</p></td>
-<td><p><a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2">Episode 2</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Previous</p></td>
-<td><p>You Fix My Rifle?/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Current</p></td>
-<td><p>Survival School (Predux)/Transcript</p></td>
-</tr>
-<tr>
-<td><p>Next</p></td>
-<td><p><a href="./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md" class="wikilink" title="Jeremiah&#39;s Folly/Transcript">Jeremiah's Folly/Transcript</a></p></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake (region)">Mystery Lake (region)</a></p></td>
-</tr>
-<tr>
-<td><p>Characters</p></td>
-<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a><br />
-<a href="./Jeremiah.md" class="wikilink" title="Jeremiah">Jeremiah</a></p></td>
-</tr>
-</tbody>
-</table>
+**Survival School (Predux)/Transcript**
 
-This is the transcript for Chapter 3 <a href="./Survival%20School%20%28Predux%29.md" class="wikilink" title="Survival School (Predux)">Survival School (Predux)</a> for Predux <a href="./Episode%202%20-%20Luminance%20Fugue.md" class="wikilink" title="Episode 2: Luminance Fugue">Episode 2: Luminance Fugue</a>.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/The_Long_Dark_-_episode_two_-_survival_school.png) / *The\_Long\_Dark\_-\_episode\_two\_-\_survival\_school.png* |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | You Fix My Rifle?/Transcript |
+| Current | Survival School (Predux)/Transcript |
+| Next | [Jeremiah's Folly/Transcript](./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md) |
+| Region | [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) |
+
+This is the transcript for Chapter 3 [Survival School (Predux)](./Survival%20School%20%28Predux%29.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
 ## Opening conversation
 
@@ -265,7 +234,7 @@ Jeremiah **(Text)**: "Nothing thinly veiled about it. Look at me, Mackenzie. Tha
 
 Mackenzie **(Text)**: "I think I'd rather try something else first."
 
-Jeremiah **(Text)**: "Suit yourself. But you'll have to <a href="./Fishing%20Tackle.md" class="wikilink" title="tackle">tackle</a> it some time. Ha!"
+Jeremiah **(Text)**: "Suit yourself. But you'll have to [tackle](./Fishing%20Tackle.md) it some time. Ha!"
 
 - YES
 
@@ -273,7 +242,7 @@ Mackenzie **(Text)**: "I'll be back with the fish."
 
 Jeremiah **(Text)**: "I can smell it already."
 
-*Mackenzie heads to the <a href="./Camp%20Office.md" class="wikilink" title="Camp Office">Camp Office</a> and crafts a Fishing Tackle, the Ice Fishes at Mystery Lake. He returns to the Homestead, and then places the raw fish in the nearby Supply Bin. If the player asks about this lesson again after completing it*
+*Mackenzie heads to the [Camp Office](./Camp%20Office.md) and crafts a Fishing Tackle, the Ice Fishes at Mystery Lake. He returns to the Homestead, and then places the raw fish in the nearby Supply Bin. If the player asks about this lesson again after completing it*
 
 Jeremiah **(Text)**: "You know what you need to know about Ice Fishing now. Not much more that I can tell you."
 
@@ -305,15 +274,13 @@ Jeremiah **(Text)**: "Ok, but don't wait too long. You won't get better at shoot
 
 - YES
 
-<!-- -->
-
 - 
 
 Mackenzie **(Text)**: "Yeah, I'll give it a shot."
 
 Jeremiah **(Text)**: "Then good luck. Come back to me when you've bagged one."
 
-*Mackenzie heads to the <a href="./Unnamed%20Pond.md" class="wikilink" title="Unnamed Pond">Unnamed Pond</a>, kills a <a href="./Deer.md" class="wikilink" title="Deer">Deer</a> or two, then places the raw meat in the nearby Supply Bin outside the Homestead. If the player asks about this lesson again after completing it*
+*Mackenzie heads to the [Unnamed Pond](./Unnamed%20Pond.md), kills a [Deer](./Deer.md) or two, then places the raw meat in the nearby Supply Bin outside the Homestead. If the player asks about this lesson again after completing it*
 
 Jeremiah **(Text)**: "I think you've shot enough deer for one day. You're done with that."
 
@@ -361,7 +328,7 @@ Mackenzie **(Text)**: "Alright, I'll be back with your damn coat. Good as new."
 
 Jeremiah **(Text)**: "That's the spirit."
 
-*Mackenzie heads to the <a href="./Forestry%20Lookout.md" class="wikilink" title="Forestry Lookout">Forestry Lookout</a>, repairs <a href="./Jeremiah%27s%20Bearskin%20Coat.md" class="wikilink" title="Jeremiah&#39;s Bearskin Coat">Jeremiah's Bearskin Coat</a> with a <a href="./Cured%20Black%20Bear%20Hide.md" class="wikilink" title="Cured Black Bear Hide">Cured Black Bear Hide</a> lying up there, and then returns to the Homestead to give it to Jeremiah.*
+*Mackenzie heads to the [Forestry Lookout](./Forestry%20Lookout.md), repairs [Jeremiah's Bearskin Coat](./Jeremiah%27s%20Bearskin%20Coat.md) with a [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) lying up there, and then returns to the Homestead to give it to Jeremiah.*
 
 Mackenzie **(Text)**: "I've got your coat. Good as new."
 
@@ -413,7 +380,7 @@ Mackenzie: "Yeah, well...thanks for the help. I think I'm ready to get out of he
 
 Jeremiah: "I have a little graduation present for you."
 
-*Jeremiah reaches behind him and produces <a href="./Jeremiah%27s%20Knife.md" class="wikilink" title="his personal Knife">his personal Knife</a>*
+*Jeremiah reaches behind him and produces [his personal Knife](./Jeremiah%27s%20Knife.md)*
 
 Mackenzie: "Oh yeah?"
 
@@ -495,6 +462,4 @@ Jeremiah: "It's not something you can understand with your head, Mackenzie. No m
 
 *Mackenzie nods, then turns to pick up his Rifle at the bench. He walks off with the Rifle on his back, turning around and pulling out Jeremiah's Knife, and then cutting his left palm and showing it to the Trapper. He is now the bait. Mackenzie walks off and the cutscene ends*
 
-The story continues in <a href="./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md" class="wikilink" title="Jeremiah&#39;s Folly/Transcript">Jeremiah's Folly/Transcript</a>. <span class="missing-template" title="Template:Survival School (Predux) is not in the dump">\[Survival School (Predux)\]</span>
-
-</div>
+The story continues in [Jeremiah's Folly/Transcript](./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md). \[Survival School (Predux)\]

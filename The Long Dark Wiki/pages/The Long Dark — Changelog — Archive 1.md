@@ -6,63 +6,50 @@ source: "https://thelongdark.fandom.com/wiki/The_Long_Dark%2FChangelog%2FArchive
 
 # The Long Dark/Changelog/Archive 1
 
-<div>
-
 **Contents**
 
-- [1.49](#1.49)
-- [1.48 (Steadfast Ranger)](#1.48_%28Steadfast_Ranger%29)
-- [1.47](#1.47)
-- [1.46](#1.46)
-- [1.44](#1.44)
-- [1.43](#1.43)
-- [1.42](#1.42)
-- [1.41 (Wintermute Redux Update)](#1.41_%28Wintermute_Redux_Update%29)
-- [1.40](#1.40)
-- [1.39](#1.39)
-- [1.38](#1.38)
-- [1.37](#1.37)
-- [1.36](#1.36)
-- [1.35](#1.35)
-- [1.34](#1.34)
-- [1.33 (Vigilant Flame Update)](#1.33_%28Vigilant_Flame_Update%29)
-- [1.30](#1.30)
-- [1.29](#1.29)
-- [1.27](#1.27)
-- [1.21](#1.21)
-- [1.19](#1.19)
-- [1.17](#1.17)
-- [1.16 (Rugged Sentinel Update)](#1.16_%28Rugged_Sentinel_Update%29)
-- [1.15](#1.15)
-- [1.14](#1.14)
-- [1.12](#1.12)
-- [1.10](#1.10)
-- [1.08](#1.08)
-- [1.07](#1.07)
-- [1.05](#1.05)
-- [1.03](#1.03)
-- [1.02](#1.02)
-- [1.01](#1.01)
-- [1.00 (Wintermute 1.0 Launch Update(Predux release))](#1.00_%28Wintermute_1.0_Launch_Update%28Predux_release%29%29)
+- [1.49](#149)
+- [1.48 (Steadfast Ranger)](#148-steadfast-ranger)
+- [1.47](#147)
+- [1.46](#146)
+- [1.44](#144)
+- [1.43](#143)
+- [1.42](#142)
+- [1.41 (Wintermute Redux Update)](#141-wintermute-redux-update)
+- [1.40](#140)
+- [1.39](#139)
+- [1.38](#138)
+- [1.37](#137)
+- [1.36](#136)
+- [1.35](#135)
+- [1.34](#134)
+- [1.33 (Vigilant Flame Update)](#133-vigilant-flame-update)
+- [1.30](#130)
+- [1.29](#129)
+- [1.27](#127)
+- [1.21](#121)
+- [1.19](#119)
+- [1.17](#117)
+- [1.16 (Rugged Sentinel Update)](#116-rugged-sentinel-update)
+- [1.15](#115)
+- [1.14](#114)
+- [1.12](#112)
+- [1.10](#110)
+- [1.08](#108)
+- [1.07](#107)
+- [1.05](#105)
+- [1.03](#103)
+- [1.02](#102)
+- [1.01](#101)
+- [1.00 (Wintermute 1.0 Launch Update(Predux release))](#100-wintermute-10-launch-updatepredux-release)
 
-<div style="float:right; clear:right; margin-bottom:.5em; padding:.5em 0 .8em 1.4em; background:transparent; max-width:20em;">
+This is a changelog for full-release versions of *[The Long Dark](./The%20Long%20Dark.md)* from 1.00 to 1.49.
 
-</div>
+*For the latest changelog, see [The Long Dark/Changelog](./The%20Long%20Dark%20%E2%80%94%20Changelog.md).*
 
-This is a changelog for full-release versions of *<a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark">The Long Dark</a>* from 1.00 to 1.49.
+*For Archive 2 changelog with versions 1.50 to 1.99, see [The\_Long\_Dark/Changelog/Archive\_2](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md).*
 
-  
-<span class="dablink">*For the latest changelog, see <a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md" class="wikilink" title="The Long Dark/Changelog">The Long Dark/Changelog</a>.*</span>
-
-<!-- -->
-
-  
-<span class="dablink">*For Archive 2 changelog with versions 1.50 to 1.99, see <a href="./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md" class="wikilink" title="The_Long_Dark/Changelog/Archive_2">The_Long_Dark/Changelog/Archive_2</a>.*</span>
-
-<!-- -->
-
-  
-<span class="dablink">*For Early Access changelog (pre-v1.00), see <a href="./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md" class="wikilink" title="The_Long_Dark/Early_Access_Changelog">The_Long_Dark/Early_Access_Changelog</a>.*</span>
+*For Early Access changelog (pre-v1.00), see [The\_Long\_Dark/Early\_Access\_Changelog](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md).*
 
 ### 1.49
 
@@ -389,7 +376,8 @@ As part of the Redux overhaul, we’ve also made the following changes to the Us
 
 ... in addition to the dozens of general improvements listed below.
 
-- - 
+- 
+  - 
 
 THE LONG DARK v. 1.41 CHANGELIST
 
@@ -832,7 +820,7 @@ Released 9 April 2018
 - General optimizations to improve performance
 - Fixed several rare crashes
 
-Gameplay & User Interface
+Gameplay &amp; User Interface
 
 - \[Both\] Update to allow Player to save their Journal from the Skills screen
 - \[Both\] Players are now prevented from deleting in-use saves
@@ -885,9 +873,9 @@ Art
 - \[Wintermute\] Fixed issue where chimney smoke would incorrectly appear coming from homes in Milton.
 - \[Wintermute\] Fixed issue where a gap could be seen in Jeremiah's neck during Episode Two cinematics.
 - \[Wintermute\] Fixed issues with incorrect Rifle movement in Episode Two cinematics.
-- \[Wintermute\] Fixed issue with incorrect item texture on Lake Cabin Key \#2.
+- \[Wintermute\] Fixed issue with incorrect item texture on Lake Cabin Key #2.
 
-Gameplay & User Interface
+Gameplay &amp; User Interface
 
 - \[Both\] Added Clothing UI Icons and tooltips when pressing R3 on gamepads.
 - \[Both\] Removed reticle when aiming the Survival Bow (as intended)
@@ -1035,8 +1023,6 @@ Size 420.0 MB
 
 - [Steam - The Long Dark -- Hotfix to version 1.19](http://steamcommunity.com/games/305620/announcements/detail/2783653064176173106)
 
-<!-- -->
-
 - [Hinterland Forums - The Long Dark -- Hotfix to version 1.19 on STEAM](http://www.hinterlandforums.com/forums/topic/17792-the-long-dark-hotfix-to-version-119-33943-on-steam/)
 
 ### 1.17
@@ -1164,7 +1150,7 @@ Size 318.4 MB
 - Episode Two: Fixed issue preventing Jeremiah's Flare Trust mission from triggering correctly.
 - Episode Two: Fixed issue that could prevent Old Bear from progressing to next waypoint in Bear Hunt mission.
 - Episode Two: Fix for Lake Cabin key using the incorrect key asset.
-- Episode Two & Survival Mode: Added Rope Climb to River area in Broken Railroad region.
+- Episode Two &amp; Survival Mode: Added Rope Climb to River area in Broken Railroad region.
 - Survival Mode: Tuned Aurora frequency values to make it more rare.
 - Survival Mode: Fixed duplicated gear items in Trailer.
 - Added scrolling for Journal text that won't fit entirely on screen.
@@ -1396,5 +1382,3 @@ Size: 2.7 GB
 - Improvements and additions to first person animations.
 - Added to and removed from the list of achievements.
 - Removed Fluffy from the Carter Hydro Dam.
-
-</div>

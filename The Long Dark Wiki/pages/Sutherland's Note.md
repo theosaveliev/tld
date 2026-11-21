@@ -7,74 +7,29 @@ source: "https://thelongdark.fandom.com/wiki/Sutherland's_Note"
 
 # Sutherland's Note
 
-<div>
+**Sutherland's Note**
 
-<table class="infobox">
-<caption>Sutherland's Note</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Sutherland%27s_Note_icon.png" loading="lazy" width="250" />
-<figcaption>Sutherland's_Note_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33" class="wikilink" title="TFTFT Part 6 Broken Silence">TFTFT Part 6 Broken Silence</a></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Item type</p></td>
-<td><p><a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Stackable</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><p>Examine</p></td>
-<td><p>A dusty piece of paper.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>0.00 kg (0 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Actions</strong></p></td>
-</tr>
-<tr>
-<td><p>Backpack</p></td>
-<td><p>Examine</p></td>
-</tr>
-<tr>
-<td><p>On ground</p></td>
-<td><p>Take It, Read Text, Leave It</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Sutherland%27s_Note_icon.png) / *Sutherland's\_Note\_icon.png* |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A dusty piece of paper. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
-**Sutherland's Note** is a <a href="./Collectibles.md" class="wikilink" title="Collectible">Collectible</a> in <a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a> as part of <a href="./Sutherland%27s%20Tale.md" class="wikilink" title="Sutherland&#39;s Tale">Sutherland's Tale</a>.
+**Sutherland's Note** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
 ## Transcript
 
-<div style="margin: 0.8em 1.6em;font-style: italic;">
+*The following text is transcribed from **Sutherland's Note***
 
-The following text is transcribed from **Sutherland's Note**
-
-</div>
-
-<div style="background: #2D3035; border: 1px solid #2D3035; border-radius: 0 0 120px 120px / 0 0 8px 8px; box-shadow: 0 5px 7px -7px rgb(0 0 0 / 40%); max-width: 90ch; overflow: hidden; padding: 2em; margin-bottom: 1em;">
-
-\[shaky, delicate handwriting\]
+**\[shaky, delicate handwriting\]
 
 It made sense to leave you here. In your first build, the one for Joplin. He was the only one who didn't turn on you, so it seemed right. You were always bugging me to write more, so I followed your lead and scratched down a few words to see you off I guess.
 
@@ -88,12 +43,8 @@ There's a big storm comin', they say. All the wildlife is spooked. No one's stan
 
 Maybe you got out just in time.
 
-\- Sutherland
-
-</div>
+- Sutherland**
 
 ## Game history
 
-**Template:update historyLua execution error in Module:Navbox function navbox**
-
-</div>
+**Template:update history****Lua execution error in Module:Navbox function navbox**

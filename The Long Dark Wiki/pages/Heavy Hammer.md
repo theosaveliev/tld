@@ -7,249 +7,180 @@ source: "https://thelongdark.fandom.com/wiki/Heavy_Hammer"
 
 # Heavy Hammer
 
-<div>
-
 **Contents**
 
-- [Overview](#Overview)
-- [Harvesting Reclaimed Wood](#Harvesting_Reclaimed_Wood)
-- [Locations](#Locations)
-- [Ash Canyon](#Ash_Canyon)
-- [Blackrock](#Blackrock)
-- [Bleak Inlet](#Bleak_Inlet)
-- [Mystery Lake (region)](#Mystery_Lake_%28region%29)
-- [Coastal Highway](#Coastal_Highway)
-- [Pleasant Valley](#Pleasant_Valley)
-- [Desolation Point](#Desolation_Point)
-- [Forlorn Muskeg](#Forlorn_Muskeg)
-- [Hushed River Valley](#Hushed_River_Valley)
-- [Timberwolf Mountain](#Timberwolf_Mountain)
-- [Broken Railroad](#Broken_Railroad)
-- [Ravine](#Ravine)
-- [Mountain Town (Milton)](#Mountain_Town_%28Milton%29)
-- [Notes](#Notes)
-- [Gallery](#Gallery)
-- [Game History](#Game_History)
+- [Overview](#overview)
+- [Harvesting Reclaimed Wood](#harvesting-reclaimed-wood)
+- [Locations](#locations)
+- [Ash Canyon](#ash-canyon)
+- [Blackrock](#blackrock)
+- [Bleak Inlet](#bleak-inlet)
+- [Mystery Lake (region)](#mystery-lake-region)
+- [Coastal Highway](#coastal-highway)
+- [Pleasant Valley](#pleasant-valley)
+- [Desolation Point](#desolation-point)
+- [Forlorn Muskeg](#forlorn-muskeg)
+- [Hushed River Valley](#hushed-river-valley)
+- [Timberwolf Mountain](#timberwolf-mountain)
+- [Broken Railroad](#broken-railroad)
+- [Ravine](#ravine)
+- [Mountain Town (Milton)](#mountain-town-milton)
+- [Notes](#notes)
+- [Gallery](#gallery)
+- [Game History](#game-history)
 
-<table class="infobox">
-<caption>Heavy Hammer</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Heavy_Hammer_icon.png" loading="lazy" width="250" />
-<figcaption>Heavy_Hammer_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Item Type</p></td>
-<td><p>Tool|-</p></td>
-</tr>
-<tr>
-<td><p>Renewable</p></td>
-<td><p>Yes (<a href="./Trader.md" class="wikilink" title="Trader">Trader</a> only) No (<a href="./Interloper.md" class="wikilink" title="Interloper">Interloper</a>)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Statistics</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p><img src="../assets/Weight_icon.png" loading="lazy" height="30" alt="weight_icon.png" />2.00 kg(4.4 lbs)</p></td>
-</tr>
-<tr>
-<td><p>Harvest</p></td>
-<td><p>2 × <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a> 1 × <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a><br />
-30 minutes</p></td>
-</tr>
-<tr>
-<td><p>Repair</p></td>
-<td><p>1 × <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> 20% Condition<br />
-45 to 30 minutes</p></td>
-</tr>
-</tbody>
-</table>
+**Heavy Hammer**
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="vertical-align: top; font-size: 3em; color: #5d5980; padding-right: 10px"><p>“</p></td>
-<td><p><span style="font-style:italic">A hammer suitable for metalworking.</span></p>
-<div style="clear:both">
-&#10;</div>
-<div style="float:right; font-size:9pt">
-<p>In-game description</p>
-</div></td>
-<td style="vertical-align: bottom; font-size: 3em; color: #5d5980; padding-left: 10px"><p>”</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Heavy_Hammer_icon.png) / *Heavy\_Hammer\_icon.png* |
+| **General** |  |
+| Item Type | Tool\|- |
+| Renewable | Yes ([Trader](./Trader.md) only) No ([Interloper](./Interloper.md)) |
+| **Statistics** |  |
+| Weight | ![weight\_icon.png](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
+| Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) 1 × [Fir Firewood](./Fir%20Firewood.md) / 30 minutes |
+| Repair | 1 × [Fir Firewood](./Fir%20Firewood.md) 20% Condition / 45 to 30 minutes |
 
-**Heavy Hammer** is a tool in *The Long Dark*. It is used for <a href="./Forge.md" class="wikilink" title="forging">forging</a>, <a href="./Harvesting.md" class="wikilink" title="breaking">breaking</a> down furniture, making <a href="./Ice%20Fishing.md" class="wikilink" title="holes in the ice for fishing">holes in the ice for fishing</a>, or self defense during <a href="./Struggle.md" class="wikilink" title="wildlife struggles">wildlife struggles</a>.
+> “**A hammer suitable for metalworking.**”
+>
+> — In-game description
+
+**Heavy Hammer** is a tool in *The Long Dark*. It is used for [forging](./Forge.md), [breaking](./Harvesting.md) down furniture, making [holes in the ice for fishing](./Ice%20Fishing.md), or self defense during [wildlife struggles](./Struggle.md).
 
 ## Overview
 
-The Heavy Hammer is a multi-purpose tool, but is essential for <a href="./Forge.md" class="wikilink" title="Forging">Forging</a>: which is the only means for the survivor to craft their own tools, the <a href="./Improvised%20Hatchet.md" class="wikilink" title="Improvised Hatchet">Improvised Hatchet</a>, <a href="./Improvised%20Knife.md" class="wikilink" title="Improvised Knife">Improvised Knife</a> and <a href="./Arrowhead.md" class="wikilink" title="Arrowheads">Arrowheads</a>. Hammers lose small amounts of condition when used to forge, break furniture, or make holes in the ice, or during a struggle if selected.
+The Heavy Hammer is a multi-purpose tool, but is essential for [Forging](./Forge.md): which is the only means for the survivor to craft their own tools, the [Improvised Hatchet](./Improvised%20Hatchet.md), [Improvised Knife](./Improvised%20Knife.md) and [Arrowheads](./Arrowhead.md). Hammers lose small amounts of condition when used to forge, break furniture, or make holes in the ice, or during a struggle if selected.
 
-Hammers are essential for long-term play as efficient and repairable tools for making holes for <a href="./Ice%20Fishing.md" class="wikilink" title="Ice Fishing">Ice Fishing</a> (for food or to avoid <a href="./Scurvy.md" class="wikilink" title="Scurvy">Scurvy</a>). On <a href="./Survival%20Mode.md" class="wikilink" title="Interloper mode">Interloper mode</a> where all Hatchets, Knives and Arrows never spawn, Heavy Hammers are essential to forge these items for self defense, and crafting <a href="./Wolfskin%20Coat.md" class="wikilink" title="animal-skin clothing">animal-skin clothing</a>, and using the <a href="./Survival%20Bow.md" class="wikilink" title="Survival Bow">Survival Bow</a>.
+Hammers are essential for long-term play as efficient and repairable tools for making holes for [Ice Fishing](./Ice%20Fishing.md) (for food or to avoid [Scurvy](./Scurvy.md)). On [Interloper mode](./Survival%20Mode.md) where all Hatchets, Knives and Arrows never spawn, Heavy Hammers are essential to forge these items for self defense, and crafting [animal-skin clothing](./Wolfskin%20Coat.md), and using the [Survival Bow](./Survival%20Bow.md).
 
-Heavy Hammers are repairable with <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> and <a href="./Simple%20Tools.md" class="wikilink" title="Tools">Tools</a>.
+Heavy Hammers are repairable with [Fir Firewood](./Fir%20Firewood.md) and [Tools](./Simple%20Tools.md).
 
 Uses of Heavy Hammer:
 
-- Self Defense during a <a href="./Struggle.md" class="wikilink" title="Wolf Struggle">Wolf Struggle</a>.
-- Forging: <a href="./Improvised%20Hatchet.md" class="wikilink" title="Improvised Hatchet">Improvised Hatchet</a>, <a href="./Improvised%20Knife.md" class="wikilink" title="Improvised Knife">Improvised Knife</a>, and <a href="./Arrowhead.md" class="wikilink" title="Arrowheads">Arrowheads</a> (for crafting <a href="./Simple%20Arrow.md" class="wikilink" title="Simple Arrow">Simple Arrow</a>).
-- Breaking down Furniture and Crates (for <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a> or <a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a>).
-- Open or maintain holes in the ice for <a href="./Ice%20Fishing.md" class="wikilink" title="Ice Fishing">Ice Fishing</a>.
-- Crafting <a href="./Acorn%20Grounds.md" class="wikilink" title="Acorns Grounds">Acorns Grounds</a>.
+- Self Defense during a [Wolf Struggle](./Struggle.md).
+- Forging: [Improvised Hatchet](./Improvised%20Hatchet.md), [Improvised Knife](./Improvised%20Knife.md), and [Arrowheads](./Arrowhead.md) (for crafting [Simple Arrow](./Simple%20Arrow.md)).
+- Breaking down Furniture and Crates (for [Reclaimed Wood](./Reclaimed%20Wood.md) or [Cloth](./Cloth.md)).
+- Open or maintain holes in the ice for [Ice Fishing](./Ice%20Fishing.md).
+- Crafting [Acorns Grounds](./Acorn%20Grounds.md).
 
-When carried and selected for self-defense at the start of a Wolf Struggle, Heavy Hammers deal middling damage with a high chance per-hit to cause the wolf to flee. Hammers take low damage from being used in a struggle, and never inflict Blood Loss to the Wolf. For more information on Struggles, see: <a href="./Struggle.md" class="wikilink" title="Wildlife Struggles">Wildlife Struggles</a>.
+When carried and selected for self-defense at the start of a Wolf Struggle, Heavy Hammers deal middling damage with a high chance per-hit to cause the wolf to flee. Hammers take low damage from being used in a struggle, and never inflict Blood Loss to the Wolf. For more information on Struggles, see: [Wildlife Struggles](./Struggle.md).
 
 ## Harvesting Reclaimed Wood
 
-Heavy Hammer may be used to break down most (but not all) furniture for <a href="./Reclaimed%20Wood.md" class="wikilink" title="Reclaimed Wood">Reclaimed Wood</a> and <a href="./Cloth.md" class="wikilink" title="Cloth">Cloth</a>. Destroying furniture in this way is more calorie and time expensive than with a Hatchet, but is faster than by hand and allows breaking some furniture which cannot be broken down with bare hands. Heavy Hammers also weigh more than a Hatchet or Improvised Hatchet, but despite these drawbacks they are easier to repair: requiring <a href="./Simple%20Tools.md" class="wikilink" title="Simple Tools">Simple Tools</a> (Repair time: 45 minutes) or <a href="./Quality%20Tools.md" class="wikilink" title="Quality Tools">Quality Tools</a> (Repair time: 30 minutes) and <a href="./Fir%20Firewood.md" class="wikilink" title="Fir Firewood">Fir Firewood</a> (rather than the rare <a href="./Whetstone.md" class="wikilink" title="Whetstone">Whetstone</a> or <a href="./Milling%20Machine.md" class="wikilink" title="Milling Machine">Milling Machine</a> for Hatchets).
+Heavy Hammer may be used to break down most (but not all) furniture for [Reclaimed Wood](./Reclaimed%20Wood.md) and [Cloth](./Cloth.md). Destroying furniture in this way is more calorie and time expensive than with a Hatchet, but is faster than by hand and allows breaking some furniture which cannot be broken down with bare hands. Heavy Hammers also weigh more than a Hatchet or Improvised Hatchet, but despite these drawbacks they are easier to repair: requiring [Simple Tools](./Simple%20Tools.md) (Repair time: 45 minutes) or [Quality Tools](./Quality%20Tools.md) (Repair time: 30 minutes) and [Fir Firewood](./Fir%20Firewood.md) (rather than the rare [Whetstone](./Whetstone.md) or [Milling Machine](./Milling%20Machine.md) for Hatchets).
 
 ## Locations
 
 Some particular observed locations in which a heavy hammer may be found include:
 
-### <a href="./Ash%20Canyon.md" class="wikilink" title="Ash Canyon">Ash Canyon</a>
+### [Ash Canyon](./Ash%20Canyon.md)
 
-- On the floor in the ruins near the entrance of the <a href="./Gold%20Mine.md" class="wikilink" title="Gold Mine">Gold Mine</a>.
+- On the floor in the ruins near the entrance of the [Gold Mine](./Gold%20Mine.md).
 
-### <a href="./Blackrock.md" class="wikilink" title="Blackrock">Blackrock</a>
+### [Blackrock](./Blackrock.md)
 
-- In Cell Block 3 at <a href="./Blackrock%20Prison.md" class="wikilink" title="Blackrock Prison">Blackrock Prison</a> building, in the room where the went exits on a shelf.
-- In the <a href="./Steam%20Tunnels.md" class="wikilink" title="Steam Tunnels">Steam Tunnels</a> closest to the <a href="./Power%20Plant.md" class="wikilink" title="Power Plant">Power Plant</a> entrance on the ground.
+- In Cell Block 3 at [Blackrock Prison](./Blackrock%20Prison.md) building, in the room where the went exits on a shelf.
+- In the [Steam Tunnels](./Steam%20Tunnels.md) closest to the [Power Plant](./Power%20Plant.md) entrance on the ground.
 
-### <a href="./Bleak%20Inlet.md" class="wikilink" title="Bleak Inlet">Bleak Inlet</a>
+### [Bleak Inlet](./Bleak%20Inlet.md)
 
-- Near The Harbinger at <a href="./Last%20Resort%20Cannery.md" class="wikilink" title="Last Resort Cannery">Last Resort Cannery</a>.
+- Near The Harbinger at [Last Resort Cannery](./Last%20Resort%20Cannery.md).
 
-### <a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake (region)">Mystery Lake (region)</a>
+### [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
 
-- At <a href="./Carter%20Hydro%20Dam.md" class="wikilink" title="Carter Hydro Dam">Carter Hydro Dam</a> inside the dam complex, at the workbench.
-- In the <a href="./Forestry%20Lookout.md" class="wikilink" title="Forestry Lookout">Forestry Lookout</a>.
+- At [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) inside the dam complex, at the workbench.
+- In the [Forestry Lookout](./Forestry%20Lookout.md).
 - At a fishing hut under the fireplace.
-- At <a href="./Trapper%27s%20Homestead.md" class="wikilink" title="Trapper&#39;s Homestead">Trapper's Homestead</a> on the workbench.
+- At [Trapper's Homestead](./Trapper%27s%20Homestead.md) on the workbench.
 - At Trapper's Homestead in the outbuilding
-- Inside of the train car at <a href="./Derailment.md" class="wikilink" title="Derailment">Derailment</a>.
-- Inside a trailer by the <a href="./Logging%20Camp.md" class="wikilink" title="Logging Camp">Logging Camp</a>.
+- Inside of the train car at [Derailment](./Derailment.md).
+- Inside a trailer by the [Logging Camp](./Logging%20Camp.md).
 
-### <a href="./Coastal%20Highway.md" class="wikilink" title="Coastal Highway">Coastal Highway</a>
+### [Coastal Highway](./Coastal%20Highway.md)
 
-- In one of the cars at <a href="./Coastal%20Highway.md" class="wikilink" title="Coastal Highway">Coastal Highway</a> near <a href="./Log%20Sort.md" class="wikilink" title="Log Sort">Log Sort</a> or at <a href="./Coastal%20Townsite.md" class="wikilink" title="Coastal Townsite">Coastal Townsite</a>.
-- On the outside wall of the blue trailer at <a href="./Log%20Sort.md" class="wikilink" title="Log Sort">Log Sort</a>.
-- On a metal shelf, and in the large toolbox in the garage work area, <a href="./Quonset%20Garage.md" class="wikilink" title="Quonset Garage">Quonset Garage</a>.
-- On a metal barrel outside the <a href="./Quonset%20Garage.md" class="wikilink" title="Quonset Garage">Quonset Garage</a>.
+- In one of the cars at [Coastal Highway](./Coastal%20Highway.md) near [Log Sort](./Log%20Sort.md) or at [Coastal Townsite](./Coastal%20Townsite.md).
+- On the outside wall of the blue trailer at [Log Sort](./Log%20Sort.md).
+- On a metal shelf, and in the large toolbox in the garage work area, [Quonset Garage](./Quonset%20Garage.md).
+- On a metal barrel outside the [Quonset Garage](./Quonset%20Garage.md).
 - In one of the ice fishing huts under the fireplace.
-- At the <a href="./Abandoned%20Lookout.md" class="wikilink" title="Abandoned Lookout">Abandoned Lookout</a>, under the chair.
-- Under the workbench in <a href="./Fishing%20Camp.md" class="wikilink" title="Fishing Camp">Fishing Camp</a>
-- In the <a href="./Cinder%20Hills%20Coal%20Mine.md" class="wikilink" title="Cinder Hills Coal Mine">Cinder Hills Coal Mine</a>
+- At the [Abandoned Lookout](./Abandoned%20Lookout.md), under the chair.
+- Under the workbench in [Fishing Camp](./Fishing%20Camp.md)
+- In the [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md)
 - On the ground next to a door at the house on Jackrabbit Island
 
-### <a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>
+### [Pleasant Valley](./Pleasant%20Valley.md)
 
-- On the upper level of the <a href="./Pleasant%20Valley%20Outbuildings.md" class="wikilink" title="Barn">Barn</a> in <a href="./Pleasant%20Valley.md" class="wikilink" title="Pleasant Valley">Pleasant Valley</a>.
-- In the basement at <a href="./Pleasant%20Valley%20Farmstead.md" class="wikilink" title="Pleasant Valley Farmstead">Pleasant Valley Farmstead</a>.
-- Under a shelf at <a href="./Signal%20Hill.md" class="wikilink" title="Signal Hill">Signal Hill</a>.
+- On the upper level of the [Barn](./Pleasant%20Valley%20Outbuildings.md) in [Pleasant Valley](./Pleasant%20Valley.md).
+- In the basement at [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md).
+- Under a shelf at [Signal Hill](./Signal%20Hill.md).
 
-### <a href="./Desolation%20Point.md" class="wikilink" title="Desolation Point">Desolation Point</a>
+### [Desolation Point](./Desolation%20Point.md)
 
-- At <a href="./Hibernia%20Processing.md" class="wikilink" title="Hibernia Processing">Hibernia Processing</a> on the workbench or the tool rack shelves.
-- Laying up against a knocked over barrel by the fire barrel in <a href="./Hibernia%20Processing.md" class="wikilink" title="Hibernia Processing">Hibernia Processing</a> lower level. (very easy to miss in low light conditions- near the railing with pallets behind it.)
+- At [Hibernia Processing](./Hibernia%20Processing.md) on the workbench or the tool rack shelves.
+- Laying up against a knocked over barrel by the fire barrel in [Hibernia Processing](./Hibernia%20Processing.md) lower level. (very easy to miss in low light conditions- near the railing with pallets behind it.)
 
-### <a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a>
+### [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
-- In a red box in the <a href="./Old%20Spence%20Family%20Homestead.md" class="wikilink" title="Old Spence Family Homestead">Old Spence Family Homestead</a>. (or under the workbench, or outside the wall)
-- Near one of the pallets at the <a href="./Bunkhouses.md" class="wikilink" title="Bunk Houses">Bunk Houses</a>.
+- In a red box in the [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md). (or under the workbench, or outside the wall)
+- Near one of the pallets at the [Bunk Houses](./Bunkhouses.md).
 
-### <a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>
+### [Hushed River Valley](./Hushed%20River%20Valley.md)
 
-- Near the <a href="./Mysterious%20Signal%20Fire.md" class="wikilink" title="Mysterious Signal Fire">Mysterious Signal Fire</a>.
-- Near a corpse in the southern <a href="./Ice%20Cave.md" class="wikilink" title="Ice Cave">Ice Cave</a>.
+- Near the [Mysterious Signal Fire](./Mysterious%20Signal%20Fire.md).
+- Near a corpse in the southern [Ice Cave](./Ice%20Cave.md).
 
-### <a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>
+### [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
-- In one of the <a href="./Cargo%20Container.md" class="wikilink" title="Cargo Container">Cargo Containers</a> in the <a href="./Tail%20Section.md" class="wikilink" title="Tail Section">Tail Section</a> of <a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>.
-- Under the workbench at the <a href="./Mountaineer%27s%20Hut.md" class="wikilink" title="Mountaineer&#39;s Hut.">Mountaineer's Hut.</a>
-- Under the stove in the fishing hut on <a href="./Crystal%20Lake.md" class="wikilink" title="Crystal Lake">Crystal Lake</a>.
-- In one of the fishing boats next to the dock on <a href="./Crystal%20Lake.md" class="wikilink" title="Crystal Lake">Crystal Lake</a>.
+- In one of the [Cargo Containers](./Cargo%20Container.md) in the [Tail Section](./Tail%20Section.md) of [Timberwolf Mountain](./Timberwolf%20Mountain.md).
+- Under the workbench at the [Mountaineer's Hut.](./Mountaineer%27s%20Hut.md)
+- Under the stove in the fishing hut on [Crystal Lake](./Crystal%20Lake.md).
+- In one of the fishing boats next to the dock on [Crystal Lake](./Crystal%20Lake.md).
 
-### <a href="./Broken%20Railroad.md" class="wikilink" title="Broken Railroad">Broken Railroad</a>
+### [Broken Railroad](./Broken%20Railroad.md)
 
-- At a shelf in the <a href="./Maintenance%20Yard.md" class="wikilink" title="Maintenance Yard">Maintenance Yard</a>, in one of the toolboxes, or underneath the workbench.
+- At a shelf in the [Maintenance Yard](./Maintenance%20Yard.md), in one of the toolboxes, or underneath the workbench.
 
-### <a href="./The%20Ravine.md" class="wikilink" title="Ravine">Ravine</a>
+### [Ravine](./The%20Ravine.md)
 
 - In a train carriage.
 - In the fallen gondola.
 - In a cave
 
-### <a href="./Mountain%20Town.md" class="wikilink" title="Mountain Town">Mountain Town</a> (Milton)
+### [Mountain Town](./Mountain%20Town.md) (Milton)
 
 - In the back of the truck in front of Bank Manager's house.
 - In one of the low tier houses on a crate.
 - In one of the low tier houses on a metal shelf.
-- In the closet at <a href="./Paradise%20Meadows%20Farm.md" class="wikilink" title="Paradise Meadows Farm">Paradise Meadows Farmstead</a>.
+- In the closet at [Paradise Meadows Farmstead](./Paradise%20Meadows%20Farm.md).
 - In the small guard shed in front of the Orca Gas Station.
 
 ## Notes
 
 - The shape of the hammer is similar to a real-world [mini-sledge](https://www.google.com/search?q=mini+sledge).
 - In real world metalworking, numerous different hammers (each with their own unique head shapes and weights) would be used for different applications, but for all intents and purposes the picture suits as merely just a reference.
-- It's sometimes called a "Wolf Bonker" due to its high melee stats, capable of crippling limbs and ending Wolf <a href="./Struggle.md" class="wikilink" title="Struggles">Struggles</a> rapidly (15% chance to scare off immediately, 5% chance to kill instantly).
+- It's sometimes called a "Wolf Bonker" due to its high melee stats, capable of crippling limbs and ending Wolf [Struggles](./Struggle.md) rapidly (15% chance to scare off immediately, 5% chance to kill instantly).
 
 ## Gallery
 
-<table class="gallery">
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Heavy_hammer.png" title="Old model." loading="lazy" width="140" />
-<figcaption>Old model.</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table>
+| Column 1 |
+| --- |
+| ![Old model.](../assets/Heavy_hammer.png) / *Old model.* |
 
 ## Game History
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **5 December 2022 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
   - Interloper has had its loot positions refreshed and more position randomness added to its important items (like hammers) to add less predictability.
 
-<!-- -->
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **16 December 2015 (<a href="./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
   - Fixed issue where the Hammer could not be used to clear Ice Fishing holes.
 
-<!-- -->
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **18 September 2015 (<a href="./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.264" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **18 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.264)):**
   - Added Heavy Hammer (previously known as 'Hammer').
   - Modified struggle damage modifiers for various tools, and added modifiers for the new Hammer.
   - You can now clear ice-fishing holes with Hammers.
   - Hammers can be used to break down crates, furniture, etc.
 
-</div>
-
 **Lua execution error in Module:Navbox function navbox**
 
-<a href="ru:%D0%A2%D1%8F%D0%B6%D0%B5%D0%BB%D1%8B%D0%B9_%D0%BC%D0%BE%D0%BB%D0%BE%D1%82" class="wikilink" title="ru:Тяжелый молот">ru:Тяжелый молот</a>
-
-</div>
+[ru:Тяжелый молот](ru:%D0%A2%D1%8F%D0%B6%D0%B5%D0%BB%D1%8B%D0%B9_%D0%BC%D0%BE%D0%BB%D0%BE%D1%82)

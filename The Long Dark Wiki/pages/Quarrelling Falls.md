@@ -7,46 +7,14 @@ source: "https://thelongdark.fandom.com/wiki/Quarrelling_Falls"
 
 # Quarrelling Falls
 
-<div>
+**Quarrelling Falls**
 
-<table class="infobox">
-<caption>Quarrelling Falls</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Quarreling_Falls.jpg]</span>
-<figcaption>Quarreling_Falls.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Quarrelling_Falls_Location.png]</span>
-<figcaption>Quarrelling_Falls_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>Two high waterfalls.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Quarreling_Falls.jpg) / *Quarreling\_Falls.jpg* |
+| **Location** |  |
+|  | ![](../assets/Quarrelling_Falls_Location.png) / *Quarrelling\_Falls\_Location.png* |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| Description | Two high waterfalls. |
+| **General** |  |
+| Type | Outdoors\|- |

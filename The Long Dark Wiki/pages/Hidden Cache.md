@@ -7,62 +7,31 @@ source: "https://thelongdark.fandom.com/wiki/Hidden_Cache"
 
 # Hidden Cache
 
-<div>
-
 **Contents**
 
-- [Locations](#Locations)
-- [Hushed River Valley](#Hushed_River_Valley)
-- [Ash Canyon](#Ash_Canyon)
-- [Blackrock](#Blackrock)
-- [Bleak Inlet](#Bleak_Inlet)
-- [Sundered Pass](#Sundered_Pass)
+- [Locations](#locations)
+- [Hushed River Valley](#hushed-river-valley)
+- [Ash Canyon](#ash-canyon)
+- [Blackrock](#blackrock)
+- [Bleak Inlet](#bleak-inlet)
+- [Sundered Pass](#sundered-pass)
 
-<table class="infobox">
-<caption>Hidden Cache</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Hidden_Cache.png" loading="lazy" width="250" />
-<figcaption>Hidden_Cache.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p>14 June 2018</p></td>
-</tr>
-<tr>
-<td><p>Update</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33" class="wikilink" title="1.33">1.33</a></p></td>
-</tr>
-<tr>
-<td><p>Story item</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Container</strong></p></td>
-</tr>
-<tr>
-<td><p>Capacity</p></td>
-<td><p>15 kg(33 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Advanced data</strong></p></td>
-</tr>
-<tr>
-<td><p>Object key</p></td>
-<td><p>STORY_HiddenCacheContainer</p></td>
-</tr>
-</tbody>
-</table>
+**Hidden Cache**
 
-**Hidden Caches** are small containers filled with useful loot found consistently through the many Episodes of <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a> as part of various side missions.
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Hidden_Cache.png) / *Hidden\_Cache.png* |
+| Release | 14 June 2018 |
+| Update | [1.33](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.33) |
+| Story item | No |
+| **Container** |  |
+| Capacity | 15 kg(33 lbs) |
+| **Advanced data** |  |
+| Object key | STORY\_HiddenCacheContainer |
 
-They can also be found in <a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a>. Currently, they only exist in <a href="./Ash%20Canyon.md" class="wikilink" title="Ash Canyon">Ash Canyon</a>, <a href="./Blackrock.md" class="wikilink" title="Blackrock">Blackrock</a>, <a href="./Bleak%20Inlet.md" class="wikilink" title="Bleak Inlet">Bleak Inlet</a>, <a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a> and <a href="./Sundered%20Pass.md" class="wikilink" title="Sundered Pass">Sundered Pass</a>. They spawn in different locations for each playthrough, their number depending on the [difficulty](https://thelongdark.fandom.com/wiki/Survival_Mode#Experience). <a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a> which has the highest \# of them, will spawn a minimum of 7 (min of 1 on <a href="./Interloper.md" class="wikilink" title="interloper">interloper</a>/<a href="./Misery.md" class="wikilink" title="misery">misery</a>).
+**Hidden Caches** are small containers filled with useful loot found consistently through the many Episodes of [Wintermute](./Wintermute.md) as part of various side missions.
+
+They can also be found in [Survival Mode](./Survival%20Mode.md). Currently, they only exist in [Ash Canyon](./Ash%20Canyon.md), [Blackrock](./Blackrock.md), [Bleak Inlet](./Bleak%20Inlet.md), [Hushed River Valley](./Hushed%20River%20Valley.md) and [Sundered Pass](./Sundered%20Pass.md). They spawn in different locations for each playthrough, their number depending on the [difficulty](https://thelongdark.fandom.com/wiki/Survival_Mode#Experience). [Hushed River Valley](./Hushed%20River%20Valley.md) which has the highest # of them, will spawn a minimum of 7 (min of 1 on [interloper](./Interloper.md)/[misery](./Misery.md)).
 
 They contain medium-high level food and clothes and, sometimes, even books. A Hidden Cache has a total capacity of 15.00 kg.
 
@@ -70,73 +39,71 @@ They contain medium-high level food and clothes and, sometimes, even books. A Hi
 
 ### Hushed River Valley
 
-- **Only guaranteed spawn**. Inside the southernmost entrance for the northern <a href="./Ice%20Cave.md" class="wikilink" title="Ice Cave">Ice Cave</a> system. Enter at <a href="./Reclusive%20Falls.md" class="wikilink" title="Reclusive Falls">Reclusive Falls</a>, follow the stream and get past the inner waterfall, look inside raised area on right side, dead end of a tunnel to the left or end of a tunnel to the right. Contains: <a href="./Revolver.md" class="wikilink" title="Revolver">Revolver</a>, <a href="./Revolver%20Ammunition.md" class="wikilink" title="Revolver Ammunition">Revolver Ammunition</a>, <a href="./Condensed%20Milk.md" class="wikilink" title="condensed milk">condensed milk</a>/<a href="./Military-Grade%20MRE.md" class="wikilink" title="MRE">MRE</a>/<a href="./Peanut%20Butter.md" class="wikilink" title="Peanut Butter">Peanut Butter</a> and <a href="./Balaclava.md" class="wikilink" title="balaclava">balaclava</a>/<a href="./Long%20Wool%20Scarf.md" class="wikilink" title="Long Wool Scarf">Long Wool Scarf</a>/<a href="./Wool%20Ear%20Wrap.md" class="wikilink" title="Wool Ear Wrap">Wool Ear Wrap</a>.
-  - Interloper loot: <a href="./Combat%20Pants.md" class="wikilink" title="Combat Pants">Combat Pants</a>/<a href="./Jeans.md" class="wikilink" title="Jeans">Jeans</a>, <a href="./Rabbitskin%20Hat.md" class="wikilink" title="Rabbitskin Hat">Rabbitskin Hat</a>/<a href="./Wool%20Ear%20Wrap.md" class="wikilink" title="Wool Ear Wrap">Wool Ear Wrap</a>, <a href="./Pork%20and%20Beans.md" class="wikilink" title="Pork and Beans">Pork and Beans</a>/<a href="./Salty%20Crackers.md" class="wikilink" title="Salty Crackers">Salty Crackers</a> and <a href="./Can%20Opener.md" class="wikilink" title="Can Opener">Can Opener</a>/<a href="./Whetstone.md" class="wikilink" title="Whetstone">Whetstone</a>/-.
+- **Only guaranteed spawn**. Inside the southernmost entrance for the northern [Ice Cave](./Ice%20Cave.md) system. Enter at [Reclusive Falls](./Reclusive%20Falls.md), follow the stream and get past the inner waterfall, look inside raised area on right side, dead end of a tunnel to the left or end of a tunnel to the right. Contains: [Revolver](./Revolver.md), [Revolver Ammunition](./Revolver%20Ammunition.md), [condensed milk](./Condensed%20Milk.md)/[MRE](./Military-Grade%20MRE.md)/[Peanut Butter](./Peanut%20Butter.md) and [balaclava](./Balaclava.md)/[Long Wool Scarf](./Long%20Wool%20Scarf.md)/[Wool Ear Wrap](./Wool%20Ear%20Wrap.md).
+  - Interloper loot: [Combat Pants](./Combat%20Pants.md)/[Jeans](./Jeans.md), [Rabbitskin Hat](./Rabbitskin%20Hat.md)/[Wool Ear Wrap](./Wool%20Ear%20Wrap.md), [Pork and Beans](./Pork%20and%20Beans.md)/[Salty Crackers](./Salty%20Crackers.md) and [Can Opener](./Can%20Opener.md)/[Whetstone](./Whetstone.md)/-.
 
-<a href="./Pilgrim.md" class="wikilink" title="Pilgrim">Pilgrim</a>/<a href="./Voyageur.md" class="wikilink" title="Voyageur">Voyageur</a>/<a href="./Stalker.md" class="wikilink" title="Stalker">Stalker</a>
+[Pilgrim](./Pilgrim.md)/[Voyageur](./Voyageur.md)/[Stalker](./Stalker.md)
 
-<a href="./Stairsteps%20Lake.md" class="wikilink" title="Stairsteps Lake">Stairsteps Lake</a> Plateau Caches 1-7 (4/3/2 spawns):
+[Stairsteps Lake](./Stairsteps%20Lake.md) Plateau Caches 1-7 (4/3/2 spawns):
 
-- In a nook behind a rock, below a small waterfall - on the pool dividing the stream starting from <a href="./Cloudtop%20Falls.md" class="wikilink" title="Cloudtop Falls">Cloudtop Falls</a> into a stream for Stairsteps Lake
-- Behind the nook of a large rock formation, on the shore of the stream (near the end) starting from <a href="./Cloudtop%20Falls.md" class="wikilink" title="Cloudtop Falls">Cloudtop Falls</a>, downstream of all the small waterfalls
-- Inside a hollow tree next to a <a href="./Rock%20Climb.md" class="wikilink" title="Rock Climb">Rock Climb</a>, southeast of <a href="./Offset%20Falls.md" class="wikilink" title="Offset Falls">Offset Falls</a>
-- On the shore of a deer pond, between a gaggle of trees, on the plateau above and just east of <a href="./Reclusive%20Falls.md" class="wikilink" title="Reclusive Falls">Reclusive Falls</a>. Access from the river by balancing across a log bridge
+- In a nook behind a rock, below a small waterfall - on the pool dividing the stream starting from [Cloudtop Falls](./Cloudtop%20Falls.md) into a stream for Stairsteps Lake
+- Behind the nook of a large rock formation, on the shore of the stream (near the end) starting from [Cloudtop Falls](./Cloudtop%20Falls.md), downstream of all the small waterfalls
+- Inside a hollow tree next to a [Rock Climb](./Rock%20Climb.md), southeast of [Offset Falls](./Offset%20Falls.md)
+- On the shore of a deer pond, between a gaggle of trees, on the plateau above and just east of [Reclusive Falls](./Reclusive%20Falls.md). Access from the river by balancing across a log bridge
 - Inside a hollow tree just east of the big rock formation, see below
-- Inside a small open hollow, the entrance is blocked by <a href="./Scrub%20Brush.md" class="wikilink" title="scrub brush">scrub brush</a>. Located underneath a big rock formation, north of the Stairsteps bear cave
+- Inside a small open hollow, the entrance is blocked by [scrub brush](./Scrub%20Brush.md). Located underneath a big rock formation, north of the Stairsteps bear cave
 - Under the upturned roots of an extended tree stump, just south of the central Stairsteps cave
 
 Northwestern Plateau Caches 8-12 (3/2/1 spawns):
 
-- On a shelf just northwest of <a href="./Twin%20Sisters%20Falls.md" class="wikilink" title="Twin Sisters Falls">Twin Sisters Falls</a>, between some rocks. Access from the plateau by balancing across a log bridge
-- Next to a stone block, just north of an island on the <a href="./Hushed%20River.md" class="wikilink" title="Hushed River">Hushed River</a>. Halfway between <a href="./Offset%20Falls.md" class="wikilink" title="Offset Falls">Offset Falls</a> and <a href="./Reclusive%20Falls.md" class="wikilink" title="Reclusive Falls">Reclusive Falls</a>
+- On a shelf just northwest of [Twin Sisters Falls](./Twin%20Sisters%20Falls.md), between some rocks. Access from the plateau by balancing across a log bridge
+- Next to a stone block, just north of an island on the [Hushed River](./Hushed%20River.md). Halfway between [Offset Falls](./Offset%20Falls.md) and [Reclusive Falls](./Reclusive%20Falls.md)
 - Under the upturned roots of an extended tree stump, on the shore of a tiny pond, just north of the plateau's bear cave
-- On the shore of a deer pond, underneath a fallen tree and behind some <a href="./Scrub%20Brush.md" class="wikilink" title="scrub brush">scrub brush</a>, between <a href="./Mammoth%20Falls.md" class="wikilink" title="Mammoth Falls">Mammoth Falls</a> <a href="./Rope%20Climbing.md" class="wikilink" title="rope climb">rope climb</a> and an entrance to the northern <a href="./Ice%20Cave.md" class="wikilink" title="Ice Cave">Ice Cave</a> system
-- Between a rock wall and a tree, north of <a href="./Reclusive%20Falls.md" class="wikilink" title="Reclusive Falls">Reclusive Falls</a>, south of an entrance to the northern <a href="./Ice%20Cave.md" class="wikilink" title="Ice Cave">Ice Cave</a> system and the nearby camp
+- On the shore of a deer pond, underneath a fallen tree and behind some [scrub brush](./Scrub%20Brush.md), between [Mammoth Falls](./Mammoth%20Falls.md) [rope climb](./Rope%20Climbing.md) and an entrance to the northern [Ice Cave](./Ice%20Cave.md) system
+- Between a rock wall and a tree, north of [Reclusive Falls](./Reclusive%20Falls.md), south of an entrance to the northern [Ice Cave](./Ice%20Cave.md) system and the nearby camp
 
 Monolith Lake Caches 13-15 (1 spawn):
 
-- Behind a short stone pillar next to a small waterfall. On the stream halfway between <a href="./Quarrelling%20Falls.md" class="wikilink" title="Quarrelling Falls">Quarrelling Falls</a> and <a href="./Little%20Bear%20and%20Cub%20Falls.md" class="wikilink" title="Little Bear and Cub Falls">Little Bear and Cub Falls</a>
-- Behind the nook of a stone wall underneath <a href="./Banner%20Falls.md" class="wikilink" title="Banner Falls">Banner Falls</a>, on the eastern side
-- A short walk north of <a href="./Peak%20Cave.md" class="wikilink" title="Peak Cave">Peak Cave</a>. Behind the nook of a stone wall, due west from the furthest <a href="./Oak%20Tree.md" class="wikilink" title="Oak Tree">Oak Tree</a>
+- Behind a short stone pillar next to a small waterfall. On the stream halfway between [Quarrelling Falls](./Quarrelling%20Falls.md) and [Little Bear and Cub Falls](./Little%20Bear%20and%20Cub%20Falls.md)
+- Behind the nook of a stone wall underneath [Banner Falls](./Banner%20Falls.md), on the eastern side
+- A short walk north of [Peak Cave](./Peak%20Cave.md). Behind the nook of a stone wall, due west from the furthest [Oak Tree](./Oak%20Tree.md)
 
 The Valley Caches 16-18 (1 spawn):
 
-- Behind a nook, on a narrow path just underneath the <a href="./Little%20Bear%20and%20Cub%20Falls.md" class="wikilink" title="Little Bear and Cub Falls">Little Bear and Cub Falls</a>
-- In a narrow rock passage close to the bottom for the <a href="./Pensive%20Vista.md" class="wikilink" title="Pensive Vista">Pensive Vista</a> <a href="./Rope%20Climbing.md" class="wikilink" title="rope climbs">rope climbs</a>
-- Behind a tree, on a higher slope above the Valley river, close to the southern cliff face. Between <a href="./Landslide.md" class="wikilink" title="Landslide">Landslide</a> and <a href="./Moose%20Overlook.md" class="wikilink" title="Moose Overlook">Moose Overlook</a>
+- Behind a nook, on a narrow path just underneath the [Little Bear and Cub Falls](./Little%20Bear%20and%20Cub%20Falls.md)
+- In a narrow rock passage close to the bottom for the [Pensive Vista](./Pensive%20Vista.md) [rope climbs](./Rope%20Climbing.md)
+- Behind a tree, on a higher slope above the Valley river, close to the southern cliff face. Between [Landslide](./Landslide.md) and [Moose Overlook](./Moose%20Overlook.md)
 
-Southern <a href="./Ice%20Cave.md" class="wikilink" title="Ice Caves">Ice Caves</a> Exterior Caches 19-24 (1-3 spawns, 1 possible spawn on interloper/misery):
+Southern [Ice Caves](./Ice%20Cave.md) Exterior Caches 19-24 (1-3 spawns, 1 possible spawn on interloper/misery):
 
-- Next to a tree at <a href="./Valley%20View%20Point.md" class="wikilink" title="Valley View Point">Valley View Point</a>. Accessible by breaking down <a href="./Scrub%20Brush.md" class="wikilink" title="scrub brush">scrub brush</a> on the southern side
-- 2 cache spawns on a small ledge overlooking the Valley. Access through a low arch blocked by <a href="./Scrub%20Brush.md" class="wikilink" title="scrub brushes">scrub brushes</a>. Found on the narrow pathway visible below Valley View Point, close to a double <a href="./Rock%20Climb.md" class="wikilink" title="Rock Climb">Rock Climb</a>
-- Next to a rock wall on top of an archway overlooking the plateau, right next to a <a href="./Rope%20Climbing.md" class="wikilink" title="climbing rope">climbing rope</a> that leads to the southern upper plateau for HRV. Accessible by a narrow path and a log bridge from the plateau, or by a longer path and a series of log bridges from the entrance to the region
-- Next to a low rock, on a hill right above an entrance for the southern <a href="./Ice%20Cave.md" class="wikilink" title="Ice Cave">Ice Cave</a> System. Reach this level through the <a href="./Ice%20Cave.md" class="wikilink" title="Ice Cave">Ice Cave</a> system or by a <a href="./Rope%20Climbing.md" class="wikilink" title="rope climb">rope climb</a> (see above)
-- Next to a low stone wall, on a ledge southeast of a <a href="./Rope%20Climbing.md" class="wikilink" title="rope climb">rope climb</a> and an entrance for the South <a href="./Ice%20Cave.md" class="wikilink" title="Ice Cave">Ice Cave</a> System. Accessible by a log bridge
+- Next to a tree at [Valley View Point](./Valley%20View%20Point.md). Accessible by breaking down [scrub brush](./Scrub%20Brush.md) on the southern side
+- 2 cache spawns on a small ledge overlooking the Valley. Access through a low arch blocked by [scrub brushes](./Scrub%20Brush.md). Found on the narrow pathway visible below Valley View Point, close to a double [Rock Climb](./Rock%20Climb.md)
+- Next to a rock wall on top of an archway overlooking the plateau, right next to a [climbing rope](./Rope%20Climbing.md) that leads to the southern upper plateau for HRV. Accessible by a narrow path and a log bridge from the plateau, or by a longer path and a series of log bridges from the entrance to the region
+- Next to a low rock, on a hill right above an entrance for the southern [Ice Cave](./Ice%20Cave.md) System. Reach this level through the [Ice Cave](./Ice%20Cave.md) system or by a [rope climb](./Rope%20Climbing.md) (see above)
+- Next to a low stone wall, on a ledge southeast of a [rope climb](./Rope%20Climbing.md) and an entrance for the South [Ice Cave](./Ice%20Cave.md) System. Accessible by a log bridge
 
 ### Ash Canyon
 
-- Near one end of the tree bridge connecting the <a href="./Climber%27s%20Cave.md" class="wikilink" title="Climber&#39;s Cave">Climber's Cave</a> and <a href="./Pillar%27s%20Footrest.md" class="wikilink" title="Pillar&#39;s Footrest">Pillar's Footrest</a> regions.
-- North of <a href="./Wolf%27s%20Jaw%20Overlook.md" class="wikilink" title="Wolf&#39;s Jaw Overlook">Wolf's Jaw Overlook</a>
-- At the top of the lowest rope climb between <a href="./Stone%20Shelf%20Cave.md" class="wikilink" title="Stone Shelf Cave">Stone Shelf Cave</a> and the <a href="./Gold%20Mine.md" class="wikilink" title="Gold Mine">Gold Mine</a>.
+- Near one end of the tree bridge connecting the [Climber's Cave](./Climber%27s%20Cave.md) and [Pillar's Footrest](./Pillar%27s%20Footrest.md) regions.
+- North of [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md)
+- At the top of the lowest rope climb between [Stone Shelf Cave](./Stone%20Shelf%20Cave.md) and the [Gold Mine](./Gold%20Mine.md).
 
 ### Blackrock
 
-- Ravine east of <a href="./Blocked%20Bridge.md" class="wikilink" title="Blocked Bridge">Blocked Bridge</a>
-- Ravine east of <a href="./Jailer%27s%20Residence.md" class="wikilink" title="Jailer&#39;s Residence">Jailer's Residence</a>
-- Ravine west of <a href="./Cook%27s%20Farm.md" class="wikilink" title="Cook&#39;s Farm">Cook's Farm</a>
-- Ravine southwest of <a href="./Fool%27s%20Corner.md" class="wikilink" title="Fool&#39;s Corner">Fool's Corner</a>
-- Ravine underneath <a href="./Mule%20Bridge.md" class="wikilink" title="Mule Bridge">Mule Bridge</a>
+- Ravine east of [Blocked Bridge](./Blocked%20Bridge.md)
+- Ravine east of [Jailer's Residence](./Jailer%27s%20Residence.md)
+- Ravine west of [Cook's Farm](./Cook%27s%20Farm.md)
+- Ravine southwest of [Fool's Corner](./Fool%27s%20Corner.md)
+- Ravine underneath [Mule Bridge](./Mule%20Bridge.md)
 
 ### Bleak Inlet
 
-- South of <a href="./Pensive%20Lookout.md" class="wikilink" title="Pensive Lookout">Pensive Lookout</a>.
-- On top of the Trailer in <a href="./Last%20Resort%20Cannery.md" class="wikilink" title="Last Resort Cannery">Last Resort Cannery</a> (reached via the obstacle course).
+- South of [Pensive Lookout](./Pensive%20Lookout.md).
+- On top of the Trailer in [Last Resort Cannery](./Last%20Resort%20Cannery.md) (reached via the obstacle course).
 
 ### Sundered Pass
 
-- In the middle of <a href="./Abandoned%20Mine.md" class="wikilink" title="Abandoned Mine">Abandoned Mine</a>.
-- At the collapsed bridge. To reach it you need to follow the road leading down from the <a href="./Weather%20Station.md" class="wikilink" title="Weather Station">Weather Station</a>.
+- In the middle of [Abandoned Mine](./Abandoned%20Mine.md).
+- At the collapsed bridge. To reach it you need to follow the road leading down from the [Weather Station](./Weather%20Station.md).
 
-**Lua execution error in Module:Navbox function navbox** <a href="ru:%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80_(%D1%82%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA)" class="wikilink" title="ru:Металлический контейнер (тайник)">ru:Металлический контейнер (тайник)</a>
-
-</div>
+**Lua execution error in Module:Navbox function navbox** [ru:Металлический контейнер (тайник)](ru:%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80_%28%D1%82%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA%29)

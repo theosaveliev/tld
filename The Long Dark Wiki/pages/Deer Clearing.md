@@ -7,39 +7,12 @@ source: "https://thelongdark.fandom.com/wiki/Deer_Clearing"
 
 # Deer Clearing
 
-<div>
+**Deer Clearing**
 
-<table class="infobox">
-<caption>Deer Clearing</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Deer_Clearing.jpg]</span>
-<figcaption>Deer_Clearing.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Deer_Clearing_Location.png]</span>
-<figcaption>Deer_Clearing_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Deer_Clearing.jpg) / *Deer\_Clearing.jpg* |
+| **Location** |  |
+|  | ![](../assets/Deer_Clearing_Location.png) / *Deer\_Clearing\_Location.png* |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| Type | Outdoors\|- |

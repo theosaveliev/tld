@@ -7,130 +7,17 @@ source: "https://thelongdark.fandom.com/wiki/Train_Shelter"
 
 # Train Shelter
 
-<div>
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td width="40px"><figure>
-<img src="../assets/Seal_icon.png" loading="lazy" width="30" />
-<figcaption>Seal_icon.png</figcaption>
-</figure></td>
-<td><p><strong>DLC-Exclusive content.</strong><br />
-</p>
-<div style="font-size:0.85em; line-height:1.5em;">
-<p>This content requires the <a href="./Iron%20Road.md" class="wikilink" title="Iron Road">Iron Road</a> addon to be installed before it can be seen or used in regular gameplay.</p>
-</div></td>
-<td><p>|}</p>
-<table class="infobox">
-<caption>Train Shelter</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Train_Shelter.jpg]</span>
-<figcaption>Train_Shelter.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Train_Shelter_Location.png]</span>
-<figcaption>Train_Shelter_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Anna%20Island%20--%20Track%20Section%206.md" class="wikilink" title="Anna Island -- Track Section 6">Anna Island -- Track Section 6</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>A Train repair station hidden in the mountains.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Firebox</p></td>
-<td><p><a href="./Pot%20Belly%20Stove.md" class="wikilink" title="Pot Belly Stove">Pot Belly Stove</a> <a href="./Fire%20Barrel.md" class="wikilink" title="Fire Barrel">Fire Barrel</a></p></td>
-</tr>
-<tr>
-<td><figure>
-<img src="../assets/Bed_icon.png" loading="lazy" width="30" />
-<figcaption>bed_icon.png</figcaption>
-</figure></td>
-<td><p>Has a bed</p></td>
-</tr>
-<tr>
-<td></td>
-<td><p>Has an interior|} <strong>Train Shelter</strong> is the sole named location in <a href="./Anna%20Island%20--%20Track%20Section%206.md" class="wikilink" title="Anna Island -- Track Section 6">Anna Island -- Track Section 6</a>.</p>
-<h2 id="Overview">Overview</h2>
-<p>An isolated shelter that was used by Alice McLeod to hide the <a href="./Prototype%20Train.md" class="wikilink" title="Prototype Train">Prototype Train</a>. This location is the only marked location on the entire map.</p>
-<p>The Train Shelter itself has very few resources that can be picked up or harvested. Items of note include:</p>
-<ul>
-<li>A <a href="./Fire%20Barrel.md" class="wikilink" title="Fire Barrel">Fire Barrel</a> can be found along with 2 <a href="./Metal%20Container.md" class="wikilink" title="Metal Containers">Metal Containers</a> in the middle area, along with some <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a>.</li>
-<li>A small shelter at the back of the Train Shelter.
-<ul>
-<li>There is a single bed, <a href="./Pot%20Belly%20Stove.md" class="wikilink" title="Pot Belly Stove">Pot Belly Stove</a>, and <a href="./Bed.md" class="wikilink" title="Bed">Bed</a> at the shelter at the Train Shelter. 3 <a href="./Carrot.md" class="wikilink" title="Carrots">Carrots</a> and a <a href="./Heavy%20Hammer.md" class="wikilink" title="Heavy Hammer">Heavy Hammer</a> can also be found inside.</li>
-<li>Several Clothes and some <a href="./Drawer.md" class="wikilink" title="Drawers">Drawers</a>.</li>
-</ul></li>
-<li>A <a href="./Wax%20Cylinder%207.md" class="wikilink" title="Wax Cylinder 7">Wax Cylinder 7</a>, <a href="./Train%20Key.md" class="wikilink" title="Train Key">Train Key</a>, and <a href="./Alice%20McLeod%27s%20Journal%2001.md" class="wikilink" title="Alice McLeod&#39;s Journal 01">Alice McLeod's Journal 01</a> can all be found on the same table.</li>
-</ul>
-<p>The Train Shelter's home cannot be used for <a href="./Safehouse%20Customization.md" class="wikilink" title="Safehouse Customization">Safehouse Customization</a>.</p>
-<h2 id="Gallery">Gallery</h2>
-<table class="gallery">
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<span>[Missing image: Train_Shelter_Approach.jpg]</span>
-<figcaption>The Train Shelter upon first approach</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Train_Shelter.jpg]</span>
-<figcaption>The Train Shelter</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Prototype_Train.jpg]</span>
-<figcaption>Finding the Prototype Train in the Shelter</figcaption>
-</figure></td>
-<td><figure>
-<span>[Missing image: Train_Shelter_Bed.jpg]</span>
-<figcaption>The small house inside the Train Shelter</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><figure>
-<span>[Missing image: Train_Shelter_Interior.jpg]</span>
-<figcaption>Train Shelter interior</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><strong>Lua execution error in Module:Navbox function navbox</strong></p></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| --- | --- | --- | --- |
+| ![](../assets/Seal_icon.png) / *Seal\_icon.png* | **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay. | \|} / **Train Shelter** / \| Property \| Details \| / \| --- \| --- \| / \|  \| ![](../assets/Train_Shelter.jpg) / *Train\_Shelter.jpg* \| / \| **Location** \|  \| / \|  \| ![](../assets/Train_Shelter_Location.png) / *Train\_Shelter\_Location.png* \| / \| Region \| [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)\\|- \| / \| Description \| A Train repair station hidden in the mountains. \| / \| **General** \|  \| / \| Firebox \| [Pot Belly Stove](./Pot%20Belly%20Stove.md) [Fire Barrel](./Fire%20Barrel.md) \| / \| ![](../assets/Bed_icon.png) / *bed\_icon.png* \| Has a bed \| / \|  \| Has an interior\\|} **Train Shelter** is the sole named location in [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md). / ## Overview / An isolated shelter that was used by Alice McLeod to hide the [Prototype Train](./Prototype%20Train.md). This location is the only marked location on the entire map. / The Train Shelter itself has very few resources that can be picked up or harvested. Items of note include: / - A [Fire Barrel](./Fire%20Barrel.md) can be found along with 2 [Metal Containers](./Metal%20Container.md) in the middle area, along with some [Scrap Metal](./Scrap%20Metal.md). / - A small shelter at the back of the Train Shelter. / - There is a single bed, [Pot Belly Stove](./Pot%20Belly%20Stove.md), and [Bed](./Bed.md) at the shelter at the Train Shelter. 3 [Carrots](./Carrot.md) and a [Heavy Hammer](./Heavy%20Hammer.md) can also be found inside. / - Several Clothes and some [Drawers](./Drawer.md). / - A [Wax Cylinder 7](./Wax%20Cylinder%207.md), [Train Key](./Train%20Key.md), and [Alice McLeod's Journal 01](./Alice%20McLeod%27s%20Journal%2001.md) can all be found on the same table. / The Train Shelter's home cannot be used for [Safehouse Customization](./Safehouse%20Customization.md). / ## Gallery / \\| Column 1 \\| Column 2 \\| Column 3 \\| Column 4 \\| / \\| --- \\| --- \\| --- \\| --- \\| / \\| ![The Train Shelter upon first approach](../assets/Train_Shelter_Approach.jpg) / *The Train Shelter upon first approach* \\| ![The Train Shelter](../assets/Train_Shelter.jpg) / *The Train Shelter* \\| ![Finding the Prototype Train in the Shelter](../assets/Prototype_Train.jpg) / *Finding the Prototype Train in the Shelter* \\| ![The small house inside the Train Shelter](../assets/Train_Shelter_Bed.jpg) / *The small house inside the Train Shelter* \\| / \\| ![Train Shelter interior](../assets/Train_Shelter_Interior.jpg) / *Train Shelter interior* \\|  \\|  \\|  \\| / **Lua execution error in Module:Navbox function navbox** \| / \| ![The Train Shelter upon first approach](../assets/Train_Shelter_Approach.jpg) / *The Train Shelter upon first approach* \| ![The Train Shelter](../assets/Train_Shelter.jpg) / *The Train Shelter* / ![Finding the Prototype Train in the Shelter](../assets/Prototype_Train.jpg) / *Finding the Prototype Train in the Shelter* / ![The small house inside the Train Shelter](../assets/Train_Shelter_Bed.jpg) / *The small house inside the Train Shelter* \| / \| ![Train Shelter interior](../assets/Train_Shelter_Interior.jpg) / *Train Shelter interior* \|  \| |  |
+| ![](../assets/Train_Shelter.jpg) / *Train\_Shelter.jpg* |  |  |  |
+| **Location** |  |  |  |
+| ![](../assets/Train_Shelter_Location.png) / *Train\_Shelter\_Location.png* |  |  |  |
+| Region | [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)\|- |  |  |
+| Description | A Train repair station hidden in the mountains. |  |  |
+| **General** |  |  |  |
+| Firebox | [Pot Belly Stove](./Pot%20Belly%20Stove.md) [Fire Barrel](./Fire%20Barrel.md) |  |  |
+| ![](../assets/Bed_icon.png) / *bed\_icon.png* | Has a bed |  |  |
+|  | Has an interior\|} **Train Shelter** is the sole named location in [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md). / ## Overview / An isolated shelter that was used by Alice McLeod to hide the [Prototype Train](./Prototype%20Train.md). This location is the only marked location on the entire map. / The Train Shelter itself has very few resources that can be picked up or harvested. Items of note include: / - A [Fire Barrel](./Fire%20Barrel.md) can be found along with 2 [Metal Containers](./Metal%20Container.md) in the middle area, along with some [Scrap Metal](./Scrap%20Metal.md). / - A small shelter at the back of the Train Shelter. / - There is a single bed, [Pot Belly Stove](./Pot%20Belly%20Stove.md), and [Bed](./Bed.md) at the shelter at the Train Shelter. 3 [Carrots](./Carrot.md) and a [Heavy Hammer](./Heavy%20Hammer.md) can also be found inside. / - Several Clothes and some [Drawers](./Drawer.md). / - A [Wax Cylinder 7](./Wax%20Cylinder%207.md), [Train Key](./Train%20Key.md), and [Alice McLeod's Journal 01](./Alice%20McLeod%27s%20Journal%2001.md) can all be found on the same table. / The Train Shelter's home cannot be used for [Safehouse Customization](./Safehouse%20Customization.md). / ## Gallery / \| Column 1 \| Column 2 \| Column 3 \| Column 4 \| / \| --- \| --- \| --- \| --- \| / \| ![The Train Shelter upon first approach](../assets/Train_Shelter_Approach.jpg) / *The Train Shelter upon first approach* \| ![The Train Shelter](../assets/Train_Shelter.jpg) / *The Train Shelter* \| ![Finding the Prototype Train in the Shelter](../assets/Prototype_Train.jpg) / *Finding the Prototype Train in the Shelter* \| ![The small house inside the Train Shelter](../assets/Train_Shelter_Bed.jpg) / *The small house inside the Train Shelter* \| / \| ![Train Shelter interior](../assets/Train_Shelter_Interior.jpg) / *Train Shelter interior* \|  \|  \|  \| / **Lua execution error in Module:Navbox function navbox** |  |  |
+| ![The Train Shelter upon first approach](../assets/Train_Shelter_Approach.jpg) / *The Train Shelter upon first approach* | ![The Train Shelter](../assets/Train_Shelter.jpg) / *The Train Shelter* | ![Finding the Prototype Train in the Shelter](../assets/Prototype_Train.jpg) / *Finding the Prototype Train in the Shelter* | ![The small house inside the Train Shelter](../assets/Train_Shelter_Bed.jpg) / *The small house inside the Train Shelter* |
+| ![Train Shelter interior](../assets/Train_Shelter_Interior.jpg) / *Train Shelter interior* |  |  |  |

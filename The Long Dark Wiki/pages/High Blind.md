@@ -7,39 +7,12 @@ source: "https://thelongdark.fandom.com/wiki/High_Blind"
 
 # High Blind
 
-<div>
+**High Blind**
 
-<table class="infobox">
-<caption>High Blind</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Forlorn_Muskleg_High_Blind.jpg]</span>
-<figcaption>Forlorn_Muskleg_High_Blind.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: High_Blind_Location.png]</span>
-<figcaption>High_Blind_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Forlorn%20Muskeg.md" class="wikilink" title="Forlorn Muskeg">Forlorn Muskeg</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Forlorn_Muskleg_High_Blind.jpg) / *Forlorn\_Muskleg\_High\_Blind.jpg* |
+| **Location** |  |
+|  | ![](../assets/High_Blind_Location.png) / *High\_Blind\_Location.png* |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
+| Type | Outdoors\|- |

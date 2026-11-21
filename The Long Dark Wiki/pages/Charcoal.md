@@ -7,76 +7,37 @@ source: "https://thelongdark.fandom.com/wiki/Charcoal"
 
 # Charcoal
 
-<div>
-
 **Contents**
 
-- [Overview](#Overview)
-- [Charcoal Surveying](#Charcoal_Surveying)
-- [Polaroid Vistas](#Polaroid_Vistas)
-- [Products](#Products)
-- [Gallery](#Gallery)
-- [Trivia](#Trivia)
-- [Update history](#Update_history)
+- [Overview](#overview)
+- [Charcoal Surveying](#charcoal-surveying)
+- [Polaroid Vistas](#polaroid-vistas)
+- [Products](#products)
+- [Gallery](#gallery)
+- [Trivia](#trivia)
+- [Update history](#update-history)
 
-<table class="infobox">
-<caption>Charcoal</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Charcoal_icon.png" loading="lazy" width="250" />
-<figcaption>Charcoal_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423" class="wikilink" title="8 June 2017">8 June 2017</a></p></td>
-</tr>
-<tr>
-<td><p>Wintermute</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Item type</p></td>
-<td><p><a href="./Tools.md" class="wikilink" title="Tools">Tools</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Stackable</p></td>
-<td><p>yes</p></td>
-</tr>
-<tr>
-<td><p>Examine</p></td>
-<td><p>A piece of charcoal typically found in burned out campfires. Useful for sketching.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>0.10 kg (0.22 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Actions</strong></p></td>
-</tr>
-<tr>
-<td><p>On ground</p></td>
-<td><p>Take It, Leave It</p></td>
-</tr>
-</tbody>
-</table>
+**Charcoal**
 
-**Charcoal** is a tool in *<a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark">The Long Dark</a>.*
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Charcoal_icon.png) / *Charcoal\_icon.png* |
+| Release | [8 June 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.423) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | yes |
+| Examine | A piece of charcoal typically found in burned out campfires. Useful for sketching. |
+| **Values** |  |
+| Weight | 0.10 kg (0.22 lbs) |
+| **Actions** |  |
+| On ground | Take It, Leave It |
+
+**Charcoal** is a tool in *[The Long Dark](./The%20Long%20Dark.md).*
 
 ## Overview
 
-It can be acquired easily after <a href="./Fire%20Starting.md" class="wikilink" title="lighting a fire">lighting a fire</a> and allowing it to burn out or by looting containers, either outdoors or in a <a href="./Fire.md#Contained_fires" class="wikilink" title="firebox">firebox</a>. Once a fire has burned out, the charcoal can be looted from the remnants. Stoves and naturally-generated campfires normally already contain some charcoal.
+It can be acquired easily after [lighting a fire](./Fire%20Starting.md) and allowing it to burn out or by looting containers, either outdoors or in a [firebox](./Fire.md#Contained_fires). Once a fire has burned out, the charcoal can be looted from the remnants. Stoves and naturally-generated campfires normally already contain some charcoal.
 
 A fire must burn for at least one hour before charcoal will generate after the fire burns out. Charcoal will continue to "pile up" as wood is burned in a firebox/campfire, and will not be destroyed even when new fires are started (Charcoal generated will always stay in that firebox until it is removed).
 
@@ -84,37 +45,27 @@ A fire must burn for at least one hour before charcoal will generate after the f
 
 The primary use of Charcoal is sketching Maps. The player must be outdoors, and only the area within the player's view can be sketched. Equip the Charcoal and an option will appear asking the player if they wish to survey the local area. The player can't survey when visibility is poor:
 
-- Dark nights without full moon/<a href="./Aurora.md" class="wikilink" title="Aurora">Aurora</a>
+- Dark nights without full moon/[Aurora](./Aurora.md)
 - Blizzard weather
-- Light fog/heavy fog/<a href="./Glimmer%20Fog.md" class="wikilink" title="Glimmer Fog">Glimmer Fog</a>
+- Light fog/heavy fog/[Glimmer Fog](./Glimmer%20Fog.md)
 
 Surveying takes 15 minutes of in-game time, which will be sped up for the player and consume 1 Charcoal in the process. This will fill out the map with the player's immediate surroundings, including resources and carcasses that are directly visible to the character. The higher the player's current elevation, the more of the surrounding map is filled out.
 
-Surveying can also be used to "ping" the area a player is in, even if it is already mapped. This can be useful if you find yourself lost.
+Surveying can also be used to "ping" the area a player is in, even if it is already mapped. This can be useful if you find yourself lost.
 
-There is no Charcoal in <a href="./Wintermute.md" class="wikilink" title="Wintermute">Wintermute</a>, since maps are automatically given filled out to the player.
+There is no Charcoal in [Wintermute](./Wintermute.md), since maps are automatically given filled out to the player.
 
 ## Polaroid Vistas
 
-If the player finds a <a href="./Polaroids.md" class="wikilink" title="Polaroid">Polaroid</a> and travels to the survey spot located on the map, the player can survey large swaths of the local region map instantly.
+If the player finds a [Polaroid](./Polaroids.md) and travels to the survey spot located on the map, the player can survey large swaths of the local region map instantly.
 
 ## Products
 
 ## Gallery
 
-<table class="gallery">
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<span>[Missing image: charcoal_viewmodel.jpg]</span>
-<figcaption>Charcoal's viewmodel</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table>
+| Column 1 |
+| --- |
+| ![Charcoal's viewmodel](../assets/Charcoal_viewmodel.jpg) / *Charcoal's viewmodel* |
 
 ## Trivia
 
@@ -122,15 +73,9 @@ If the player finds a <a href="./Polaroids.md" class="wikilink" title="Polaroid"
 
 ## Update history
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **1 August 2017 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
   - Inventory icon updated.
-- <span class="update-list"><span class="update-type update">UPDATE</span> **8 June 2017 (<a href="./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**
   - Added to game.
 
-</div>
-
-**Lua execution error in Module:Navbox function navbox** <a href="ru:%D0%94%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B9_%D1%83%D0%B3%D0%BE%D0%BB%D1%8C" class="wikilink" title="ru:Древесный уголь">ru:Древесный уголь</a>
-
-</div>
+**Lua execution error in Module:Navbox function navbox** [ru:Древесный уголь](ru:%D0%94%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B9_%D1%83%D0%B3%D0%BE%D0%BB%D1%8C)

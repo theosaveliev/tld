@@ -7,42 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/Echo_Peak_East"
 
 # Echo Peak East
 
-<div>
+**Echo Peak East**
 
-<table class="infobox">
-<caption>Echo Peak East</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: echo_peak_east.jpg]</span>
-<figcaption>echo_peak_east.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Echo_Peak_East_Location.png]</span>
-<figcaption>Echo_Peak_East_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Timberwolf%20Mountain.md" class="wikilink" title="Timberwolf Mountain">Timberwolf Mountain</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Echo_peak_east.jpg) / *echo\_peak\_east.jpg* |
+| **Location** |  |
+|  | ![](../assets/Echo_Peak_East_Location.png) / *Echo\_Peak\_East\_Location.png* |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| **General** |  |
+| Type | Outdoors\|- |

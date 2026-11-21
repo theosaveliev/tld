@@ -7,39 +7,12 @@ source: "https://thelongdark.fandom.com/wiki/Lookout_(Mystery_Lake_location)"
 
 # Lookout \(Mystery Lake location\)
 
-<div>
+**Lookout (Mystery Lake location)**
 
-<table class="infobox">
-<caption>Lookout (Mystery Lake location)</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: lookout_closeup.jpg]</span>
-<figcaption>lookout_closeup.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Lookout_Location.png]</span>
-<figcaption>Lookout_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Lookout_closeup.jpg) / *lookout\_closeup.jpg* |
+| **Location** |  |
+|  | ![](../assets/Lookout_Location.png) / *Lookout\_Location.png* |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Type | Outdoors\|- |

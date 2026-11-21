@@ -7,58 +7,32 @@ source: "https://thelongdark.fandom.com/wiki/Lost_and_Found"
 
 # Lost and Found
 
-<div>
-
 **Contents**
 
-- [Overview](#Overview)
-- [Locations](#Locations)
-- [History](#History)
-- [Trivia](#Trivia)
-- [References](#References)
+- [Overview](#overview)
+- [Locations](#locations)
+- [History](#history)
+- [Trivia](#trivia)
+- [References](#references)
 
-<table class="infobox">
-<caption>Lost and Found</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Lost_and_Found.png" loading="lazy" width="250" />
-<figcaption>Lost_and_Found.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p>22 October 2019</p></td>
-</tr>
-<tr>
-<td><p>Update</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60" class="wikilink" title="1.60">1.60</a></p></td>
-</tr>
-<tr>
-<td><p>Story item</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Advanced data</strong></p></td>
-</tr>
-<tr>
-<td><p>Object key</p></td>
-<td><p>GAMEPLAY_InaccessibleGearContainer</p></td>
-</tr>
-</tbody>
-</table>
+**Lost and Found**
 
-**Lost and Found** are a special type of container in *The Long Dark*. They look like a <a href="./Metal%20Container.md" class="wikilink" title="metal container">metal container</a>, but are red in colour and have the <a href="./Hinterland%20Studio%20Inc..md" class="wikilink" title="Hinterland">Hinterland</a> logo on its cover and tin, and do not naturally spawn in the game world.[^1]
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Lost_and_Found.png) / *Lost\_and\_Found.png* |
+| Release | 22 October 2019 |
+| Update | [1.60](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
+| Story item | No |
+| **Advanced data** |  |
+| Object key | GAMEPLAY\_InaccessibleGearContainer |
+
+**Lost and Found** are a special type of container in *The Long Dark*. They look like a [metal container](./Metal%20Container.md), but are red in colour and have the [Hinterland](./Hinterland%20Studio%20Inc..md) logo on its cover and tin, and do not naturally spawn in the game world.[¹](#fn1)
 
 ## Overview
 
-Lost and Found containers spawn in <a href="./Region.md" class="wikilink" title="Regions">Regions</a> or indoors locations when the player loses items because of a game update or glitch (eg, containers or terrain are altered during an update, items fall through the map, or the player falls victim to the disappearing-travois bug). A Lost and Found container will spawn containing the lost items near the doors of indoor locations and near major buildings/areas in outdoor areas.
+Lost and Found containers spawn in [Regions](./Region.md) or indoors locations when the player loses items because of a game update or glitch (eg, containers or terrain are altered during an update, items fall through the map, or the player falls victim to the disappearing-travois bug). A Lost and Found container will spawn containing the lost items near the doors of indoor locations and near major buildings/areas in outdoor areas.
 
-Lost and Found containers are unique in that they do not naturally generate upon world creation (like most containers do), and cannot be created by the player (such as <a href="./Rock%20Cache.md" class="wikilink" title="Rock Caches">Rock Caches</a>). They will be present only when a relevant glitch has occurred. Lost and Found are also unique in that items cannot be placed inside them, only removed. Once a Lost and Found is emptied, it will despawn upon reloading the location.
+Lost and Found containers are unique in that they do not naturally generate upon world creation (like most containers do), and cannot be created by the player (such as [Rock Caches](./Rock%20Cache.md)). They will be present only when a relevant glitch has occurred. Lost and Found are also unique in that items cannot be placed inside them, only removed. Once a Lost and Found is emptied, it will despawn upon reloading the location.
 
 ## Locations
 
@@ -189,14 +163,14 @@ Lost and Found containers are unique in that they do not naturally generate upon
 
 ## History
 
-Lost and Found containers were first introduced in the <a href="./Episode%203%20-%20Crossroads%20Elegy.md" class="wikilink" title="Crossroads Elegy">Crossroads Elegy</a> update. Upon introduction, Lost and Found containers would spawn in <a href="./Region.md" class="wikilink" title="Regions">Regions</a> or indoors locations which were explored in the current savefile in a previous version of the game, and were subsequently altered in an <a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md" class="wikilink" title="update">update</a>. The reason for the existence of these containers is to prevent players from losing items when regions are altered in the previous update (Example, furniture is moved with items on them/Containers removed with items in them).
+Lost and Found containers were first introduced in the [Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) update. Upon introduction, Lost and Found containers would spawn in [Regions](./Region.md) or indoors locations which were explored in the current savefile in a previous version of the game, and were subsequently altered in an [update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md). The reason for the existence of these containers is to prevent players from losing items when regions are altered in the previous update (Example, furniture is moved with items on them/Containers removed with items in them).
 
 ## Trivia
 
 - Lost and Found generate inside of maps (Regions or indoors locations/caves with a Loading Transition) directly beside their entry point. For locations with multiple entry points, only one Lost and Found will be present at one of them.
 - Prior to the implementation of the "Lost and Found" system, in previous updates to Regions or locations items could become inaccessible inside/outside/above map geometry or concealed by added/relocated doodads (such as indestructible furniture).
 - Lost and Found are retextured Metal Containers.
-- Hinterlands logos are present on two objects in-game: Lost and Found containers and <a href="./Cup%20of%20Coffee.md" class="wikilink" title="Cup of Coffee">Cup of Coffee</a>.
+- Hinterlands logos are present on two objects in-game: Lost and Found containers and [Cup of Coffee](./Cup%20of%20Coffee.md).
 
 ## References
 
@@ -204,12 +178,8 @@ Lost and Found containers were first introduced in the <a href="./Episode%203%20
 
 **Lua execution error in Module:Navbox function navbox**
 
-<div id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
-
 ## Notes
 
-</div>
+---
 
-</div>
-
-[^1]: Hinterland Support - "Lost & Found Boxes", <https://hinterlandgames.zendesk.com/hc/en-us/articles/360038137951-Lost-Found-Boxes>
+1. Hinterland Support - "Lost &amp; Found Boxes", [https://hinterlandgames.zendesk.com/hc/en-us/articles/360038137951-Lost-Found-Boxes](https://hinterlandgames.zendesk.com/hc/en-us/articles/360038137951-Lost-Found-Boxes)[↩︎](#fnref1)

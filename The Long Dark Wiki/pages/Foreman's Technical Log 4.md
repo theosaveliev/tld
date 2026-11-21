@@ -7,69 +7,29 @@ source: "https://thelongdark.fandom.com/wiki/Foreman's_Technical_Log_4"
 
 # Foreman's Technical Log 4
 
-<div>
+**Foreman's Technical Log 4**
 
-<table class="infobox">
-<caption>Foreman's Technical Log 4</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Foreman%27s_Technical_Log_4_icon.png" loading="lazy" width="250" />
-<figcaption>Foreman's_Technical_Log_4_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28" class="wikilink" title="24 June 2024">24 June 2024</a></p></td>
-</tr>
-<tr>
-<td><p>Wintermute</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Item type</p></td>
-<td><p><a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Stackable</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><p>Examine</p></td>
-<td><p>An entry in a technical logbook.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>0 kg (0 lbs)</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Foreman%27s_Technical_Log_4_icon.png) / *Foreman's\_Technical\_Log\_4\_icon.png* |
+| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | An entry in a technical logbook. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
 
-**Foreman's Technical Log 4** is a <a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a> found in <a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a> as part of the <a href="./Last%20Horizon.md" class="wikilink" title="Last Horizon">Last Horizon</a> <a href="./Tales.md" class="wikilink" title="Tale">Tale</a>. It is found in a hidden room in <a href="./Bunker%20Omega.md" class="wikilink" title="Bunker Omega">Bunker Omega</a> in <a href="./Forsaken%20Airfield.md" class="wikilink" title="Forsaken Airfield">Forsaken Airfield</a> near the end of the Tale.
+**Foreman's Technical Log 4** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md). It is found in a hidden room in [Bunker Omega](./Bunker%20Omega.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) near the end of the Tale.
 
-The voice acting of this Collectible doesn't match the on-screen text and is missing the last section of the transcript about the <a href="./Cougar.md" class="wikilink" title="Cougar">Cougar</a>.
+The voice acting of this Collectible doesn't match the on-screen text and is missing the last section of the transcript about the [Cougar](./Cougar.md).
 
 ## Transcript
 
-<div style="margin: 0.8em 1.6em;font-style: italic;">
+*The following text is transcribed from **Foreman's Technical Log 4***
 
-The following text is transcribed from **Foreman's Technical Log 4**
-
-</div>
-
-<div style="background: #2D3035; border: 1px solid #2D3035; border-radius: 0 0 120px 120px / 0 0 8px 8px; box-shadow: 0 5px 7px -7px rgb(0 0 0 / 40%); max-width: 90ch; overflow: hidden; padding: 2em; margin-bottom: 1em;">
-
-\[barely legible handwriting...\]
+**\[barely legible handwriting...\]
 
 Writing this, while I still can. So there's no question. So someone knows. So it all wasn't for nothing.
 
@@ -123,24 +83,15 @@ Can't even keep these pages straight. Going to rest a bit and then see how far I
 
 With whatever's left of me.
 
-But...maybe I shouldn't make it?
-
-</div>
+But...maybe I shouldn't make it?**
 
 ## Update history
 
-<div class="update-history">
+- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
 
-- <span class="update-list"><span class="update-type update">UPDATE</span> **24 June 2024 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28" class="wikilink" title="Update">Update</a>):**</span>
-
-<!-- -->
-
-- - Added to game.
-
-</div>
+- 
+  - Added to game.
 
 **Lua execution error in Module:Navbox function navbox**
 
-<a href="ru:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB_%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B8%D1%80%D0%B0_4" class="wikilink" title="ru:Технический журнал бригадира 4">ru:Технический журнал бригадира 4</a>
-
-</div>
+[ru:Технический журнал бригадира 4](ru:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB_%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B8%D1%80%D0%B0_4)

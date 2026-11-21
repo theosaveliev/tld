@@ -7,40 +7,23 @@ source: "https://thelongdark.fandom.com/wiki/Don't_Starve"
 
 # Don't Starve
 
-<div>
+**Don't Starve**
 
-<table class="infobox">
-<caption>Don't Starve</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Don%27t_Starve_icon.png" loading="lazy" width="250" />
-<figcaption>Don't_Starve_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>Keep calorie store above zero for 10 days.</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Don%27t_Starve_icon.png) / *Don't\_Starve\_icon.png* |
+| Description | Keep calorie store above zero for 10 days. |
 
-**Don't Starve** is an <a href="./The%20Long%20Dark%20%E2%80%94%20Achievements.md" class="wikilink" title="achievement">achievement</a> in *<a href="./The%20Long%20Dark.md" class="wikilink" title="The Long Dark">The Long Dark</a>*.
+**Don't Starve** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in *[The Long Dark](./The%20Long%20Dark.md)*.
 
 ## Guide
 
-This achievement is obtained after keeping Calorie store (<a href="./Hunger.md" class="wikilink" title="Hunger">Hunger</a>) from reaching 0 calories for 10 days in a single <a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a> game. Although it is easiest to obtain on <a href="./Pilgrim.md" class="wikilink" title="Pilgrim">Pilgrim</a>, there is generally enough manufactured food available in most regions early on that it will often be obtained through normal gameplay on <a href="./Voyageur.md" class="wikilink" title="Voyageur">Voyageur</a> and <a href="./Stalker.md" class="wikilink" title="Stalker">Stalker</a>.
+This achievement is obtained after keeping Calorie store ([Hunger](./Hunger.md)) from reaching 0 calories for 10 days in a single [Survival Mode](./Survival%20Mode.md) game. Although it is easiest to obtain on [Pilgrim](./Pilgrim.md), there is generally enough manufactured food available in most regions early on that it will often be obtained through normal gameplay on [Voyageur](./Voyageur.md) and [Stalker](./Stalker.md).
 
 ## Game history
 
-This achievement was introduced on 1 April 2015 in <a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212" class="wikilink" title="version 0.212">version 0.212</a>.
+This achievement was introduced on 1 April 2015 in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#0.212).
 
 ## Trivia
 
 This achievement name may be a reference to the Don't Starve video games.**Lua execution error in Module:Navbox function navbox**
-
-</div>

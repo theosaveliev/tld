@@ -7,59 +7,14 @@ source: "https://thelongdark.fandom.com/wiki/Banner_Falls"
 
 # Banner Falls
 
-<div>
+**Banner Falls**
 
-<table class="infobox">
-<caption>Banner Falls</caption>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><p>[[File:</p>
-<table class="gallery">
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><figure>
-<span>[Missing image: Watchfull_Falls.jpg]</span>
-<figcaption>Banner falls (Left) Watchfull Falls (right)</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
-<td><p>250px]]</p></td>
-</tr>
-<tr>
-<td colspan="2"><p><strong>Location</strong></p></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Banner_Falls_Location.png]</span>
-<figcaption>Banner_Falls_Location.png</figcaption>
-</figure></td>
-<td></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Hushed%20River%20Valley.md" class="wikilink" title="Hushed River Valley">Hushed River Valley</a>|-</p></td>
-<td><p>Location</p></td>
-</tr>
-<tr>
-<td colspan="2"><p><strong>General</strong></p></td>
-<td></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+| \[\[File: / \| Column 1 \| / \| --- \| / \| ![Banner falls (Left) Watchfull Falls (right)](../assets/Watchfull_Falls.jpg) / *Banner falls (Left) Watchfull Falls (right)* \| | 250px\]\] |
+|  | ![Banner falls (Left) Watchfull Falls (right)](../assets/Watchfull_Falls.jpg) / *Banner falls (Left) Watchfull Falls (right)* |
+| **Location** |  |
+| ![](../assets/Banner_Falls_Location.png) / *Banner\_Falls\_Location.png* |  |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- / Location |
+| **General** |  |
+| Type | Outdoors\|- |

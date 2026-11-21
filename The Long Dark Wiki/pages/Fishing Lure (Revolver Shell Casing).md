@@ -7,176 +7,63 @@ source: "https://thelongdark.fandom.com/wiki/Fishing_Lure_(Revolver_Shell_Casing
 
 # Fishing Lure \(Revolver Shell Casing\)
 
-<div>
+**Fishing Lure (Revolver Shell Casing)**
 
-<table class="infobox">
-<caption>Fishing Lure (Revolver Shell Casing)</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png" loading="lazy" width="250" />
-<figcaption>Fishing_Lure_(Revolver_Shell_Casing)_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17" class="wikilink" title="21 June 2023">21 June 2023</a></p></td>
-</tr>
-<tr>
-<td><p>Wintermute</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Item type</p></td>
-<td><p><a href="./Tools.md" class="wikilink" title="Tools">Tools</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Stackable</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><p>Examine</p></td>
-<td><p>A solid, enticing lure. Improves the odds when fishing.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>0.01 kg (0.02 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Advanced data</strong></p></td>
-</tr>
-<tr>
-<td><p>Item key</p></td>
-<td><p>GAMEPLAY_FishingLure</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) / *Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png* |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | A solid, enticing lure. Improves the odds when fishing. |
+| **Values** |  |
+| Weight | 0.01 kg (0.02 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_FishingLure |
 
-**Fishing Lure (Revolver Shell Casing)** is the unofficial name given to one of 3 different fishing lures sharing the same name of **<a href="./Fishing%20Lure%20%28disambiguation%29.md" class="wikilink" title="Fishing Lure">Fishing Lure</a>**. It was introduced in the free update portion of the Part 3: Frontier Comforts portion of the <a href="./Tales%20from%20the%20Far%20Territory.md" class="wikilink" title="Tales from the Far Territory">Tales from the Far Territory</a> expansion.
+**Fishing Lure (Revolver Shell Casing)** is the unofficial name given to one of 3 different fishing lures sharing the same name of **[Fishing Lure](./Fishing%20Lure%20%28disambiguation%29.md)**. It was introduced in the free update portion of the Part 3: Frontier Comforts portion of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
 ## Overview
 
-Fishing Lures are accessories added to a <a href="./Fishing%20Tackle.md" class="wikilink" title="Fishing Tackle">Fishing Tackle</a> to increase the user's chances to catch fish while <a href="./Ice%20Fishing.md" class="wikilink" title="Ice Fishing">Ice Fishing</a> (including some of the more rare fish). Fishing Lures are a step up from the <a href="./Simple%20Fishing%20Lure.md" class="wikilink" title="Simple Fishing Lure">Simple Fishing Lure</a>. Each lure has the same name and item description, but 1 unique item used in their craftsmanship results in a design that mimics a different insect.
+Fishing Lures are accessories added to a [Fishing Tackle](./Fishing%20Tackle.md) to increase the user's chances to catch fish while [Ice Fishing](./Ice%20Fishing.md) (including some of the more rare fish). Fishing Lures are a step up from the [Simple Fishing Lure](./Simple%20Fishing%20Lure.md). Each lure has the same name and item description, but 1 unique item used in their craftsmanship results in a design that mimics a different insect.
 
 If a Fishing Tackle is equipped with a Lure and snaps when fishing, the Lure will be lost and must be crafted again.
 
-It is impossible to craft this lure on <a href="./Interloper.md" class="wikilink" title="Interloper">Interloper</a> or <a href="./Misery.md" class="wikilink" title="Misery">Misery</a>, as Revolver Ammunition and Casings are disabled.
+It is impossible to craft this lure on [Interloper](./Interloper.md) or [Misery](./Misery.md), as Revolver Ammunition and Casings are disabled.
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-</colgroup>
-<thead>
-<tr>
-<th><p>Image</p></th>
-<th><p>Lure</p></th>
-<th><p>Rare Fish Bonus</p></th>
-<th><p>Maximum Wait Penalty</p></th>
-<th><p>Materials</p></th>
-<th><p>Creation Time</p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><figure>
-<img src="../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png" loading="lazy" width="64" height="64" />
-<figcaption>Fishing_Lure_(Revolver_Shell_Casing)_icon.png</figcaption>
-</figure></td>
-<td><p>Fishing Lure (Casing)</p></td>
-<td><p>+800%</p></td>
-<td><p>+50%</p></td>
-<td><ul>
-<li>1 <a href="./Revolver%20Shell%20Casing.md" class="wikilink" title="Revolver Shell Casing">Revolver Shell Casing</a></li>
-<li>1 <a href="./Crow%20Feather.md" class="wikilink" title="Crow Feather">Crow Feather</a></li>
-<li>1 <a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a></li>
-</ul></td>
-<td><p>50 min</p></td>
-</tr>
-</tbody>
-</table>
+| Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
+| --- | --- | --- | --- | --- | --- |
+| ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) / *Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png* | Fishing Lure (Casing) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
 
 ## Crafting
 
-<table class="infobox">
-<caption>Fishing Lure (Revolver Shell Casing)</caption>
-<tbody>
-<tr>
-<td colspan="2"><p>-</p></td>
-</tr>
-<tr>
-<td colspan="2"><p>-</p></td>
-</tr>
-<tr>
-<td colspan="2"><p>50.0 minutes</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Requirements</strong></p></td>
-</tr>
-<tr>
-<td><p>Facility</p></td>
-<td><p><strong>Template:iconlink</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Materials</strong></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Template:iconlink plain</strong></p></td>
-</tr>
-<tr>
-<td><p>Item</p></td>
-<td><p><a href="./Scrap%20Metal.md" class="wikilink" title="Scrap Metal">Scrap Metal</a></p></td>
-</tr>
-<tr>
-<td><p>Quantity</p></td>
-<td><p>1</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Template:iconlink plain</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><p><a href="./Crow%20Feather.md" class="wikilink" title="Crow Feather">Crow Feather</a></p></td>
-</tr>
-<tr>
-<td colspan="2"><p>1</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Template:iconlink plain</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><p><a href="./Revolver%20Shell%20Casing.md" class="wikilink" title="Revolver Shell Casing">Revolver Shell Casing</a></p></td>
-</tr>
-<tr>
-<td colspan="2"><p>1</p></td>
-</tr>
-</tbody>
-</table>
+**Fishing Lure (Revolver Shell Casing)**
+
+| Property | Details |
+| --- | --- |
+|  | - |
+|  | - |
+|  | 50.0 minutes |
+| **Requirements** |  |
+| Facility | **Template:iconlink** |
+| **Materials** |  |
+| **Template:iconlink plain** |  |
+| Item | [Scrap Metal](./Scrap%20Metal.md) |
+| Quantity | 1 |
+| **Template:iconlink plain** |  |
+|  | [Crow Feather](./Crow%20Feather.md) |
+|  | 1 |
+| **Template:iconlink plain** |  |
+|  | [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) |
+|  | 1 |
 
 ## Update history
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **21 June 2023 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-</div>
 
 **Lua execution error in Module:Navbox function navbox**
 
-<a href="ru:%D0%A0%D1%8B%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0_(%D0%B3%D0%B8%D0%BB%D1%8C%D0%B7%D0%B0)" class="wikilink" title="ru:Рыбная приманка (гильза)">ru:Рыбная приманка (гильза)</a>
-
-</div>
+[ru:Рыбная приманка (гильза)](ru:%D0%A0%D1%8B%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0_%28%D0%B3%D0%B8%D0%BB%D1%8C%D0%B7%D0%B0%29)

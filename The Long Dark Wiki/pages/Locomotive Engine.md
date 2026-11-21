@@ -7,46 +7,14 @@ source: "https://thelongdark.fandom.com/wiki/Locomotive_Engine"
 
 # Locomotive Engine
 
-<div>
+**Locomotive Engine**
 
-<table class="infobox">
-<caption>Locomotive Engine</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: locomotive_engine.jpg]</span>
-<figcaption>locomotive_engine.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Locomotive_Engine_Location.png]</span>
-<figcaption>Locomotive_Engine_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Broken%20Railroad.md" class="wikilink" title="Broken Railroad">Broken Railroad</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Description</p></td>
-<td><p>A derailed train</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Landmark|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Locomotive_engine.jpg) / *locomotive\_engine.jpg* |
+| **Location** |  |
+|  | ![](../assets/Locomotive_Engine_Location.png) / *Locomotive\_Engine\_Location.png* |
+| Region | [Broken Railroad](./Broken%20Railroad.md)\|- |
+| Description | A derailed train |
+| **General** |  |
+| Type | Landmark\|- |

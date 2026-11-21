@@ -7,42 +7,13 @@ source: "https://thelongdark.fandom.com/wiki/Mystery_Lake_(Western_Access)"
 
 # Mystery Lake \(Western Access\)
 
-<div>
+**Mystery Lake (Western Access)**
 
-<table class="infobox">
-<caption>Mystery Lake (Western Access)</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Mystery_Lake_(Western_Access)_photo.jpg]</span>
-<figcaption>Mystery_Lake_(Western_Access)_photo.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Mystery_Lake_(Western_Access)_Location.png]</span>
-<figcaption>Mystery_Lake_(Western_Access)_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td><p><a href="./Mystery%20Lake%20%28region%29.md" class="wikilink" title="Mystery Lake">Mystery Lake</a>|-</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Outdoors|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Mystery_Lake_%28Western_Access%29_photo.jpg) / *Mystery\_Lake\_(Western\_Access)\_photo.jpg* |
+| **Location** |  |
+|  | ![](../assets/Mystery_Lake_%28Western_Access%29_Location.png) / *Mystery\_Lake\_(Western\_Access)\_Location.png* |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| **General** |  |
+| Type | Outdoors\|- |

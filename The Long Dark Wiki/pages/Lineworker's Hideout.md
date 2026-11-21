@@ -7,46 +7,14 @@ source: "https://thelongdark.fandom.com/wiki/Lineworker's_Hideout"
 
 # Lineworker's Hideout
 
-<div>
+**Lineworker's Hideout**
 
-<table class="infobox">
-<caption>Lineworker's Hideout</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Lineworker's_Hideout.jpg]</span>
-<figcaption>Lineworker's_Hideout.jpg</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Location</strong></p></td>
-</tr>
-<tr>
-<td colspan="2"><figure>
-<span>[Missing image: Lineworker's_Hideout_Location.png]</span>
-<figcaption>Lineworker's_Hideout_Location.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Region</p></td>
-<td></td>
-</tr>
-<tr>
-<td><p>Location</p></td>
-<td><p>Between the Old Substation and Narrow Bridge</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>General</strong></p></td>
-</tr>
-<tr>
-<td><p>Type</p></td>
-<td><p>Cave|-</p></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Lineworker%27s_Hideout.jpg) / *Lineworker's\_Hideout.jpg* |
+| **Location** |  |
+|  | ![](../assets/Lineworker%27s_Hideout_Location.png) / *Lineworker's\_Hideout\_Location.png* |
+| Region |  |
+| Location | Between the Old Substation and Narrow Bridge |
+| **General** |  |
+| Type | Cave\|- |

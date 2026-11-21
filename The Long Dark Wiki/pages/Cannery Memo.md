@@ -7,74 +7,29 @@ source: "https://thelongdark.fandom.com/wiki/Cannery_Memo"
 
 # Cannery Memo
 
-<div>
+**Cannery Memo**
 
-<table class="infobox">
-<caption>Cannery Memo</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><figure>
-<img src="../assets/Cannery_Memo_icon.png" loading="lazy" width="250" />
-<figcaption>Cannery_Memo_icon.png</figcaption>
-</figure></td>
-</tr>
-<tr>
-<td><p>Release</p></td>
-<td><p><a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60" class="wikilink" title="22 October 2019">22 October 2019</a></p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Properties</strong></p></td>
-</tr>
-<tr>
-<td><p>Item type</p></td>
-<td><p><a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a>|-</p></td>
-</tr>
-<tr>
-<td><p>Stackable</p></td>
-<td><p>No</p></td>
-</tr>
-<tr>
-<td><p>Examine</p></td>
-<td><p>A dusty piece of paper, the writing faded and scratched.</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Values</strong></p></td>
-</tr>
-<tr>
-<td><p>Weight</p></td>
-<td><p>0.00 kg (0 lbs)</p></td>
-</tr>
-<tr>
-<td colspan="2" class="section"><p><strong>Actions</strong></p></td>
-</tr>
-<tr>
-<td><p>Backpack</p></td>
-<td><p>Examine</p></td>
-</tr>
-<tr>
-<td><p>On ground</p></td>
-<td><p>Take It, Read Text, Leave It</p></td>
-</tr>
-</tbody>
-</table>
+| Property | Details |
+| --- | --- |
+|  | ![](../assets/Cannery_Memo_icon.png) / *Cannery\_Memo\_icon.png* |
+| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A dusty piece of paper, the writing faded and scratched. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
-**Cannery Memo** is a <a href="./Collectibles.md" class="wikilink" title="Collectibles">Collectibles</a> found in <a href="./Survival%20Mode.md" class="wikilink" title="Survival Mode">Survival Mode</a> at <a href="./Bleak%20Inlet.md" class="wikilink" title="Bleak Inlet">Bleak Inlet</a> at the locked door near the <a href="./Keypad.md" class="wikilink" title="Keypad">Keypad</a> at the <a href="./Workshop.md" class="wikilink" title="Workshop">Workshop</a>.
+**Cannery Memo** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Bleak Inlet](./Bleak%20Inlet.md) at the locked door near the [Keypad](./Keypad.md) at the [Workshop](./Workshop.md).
 
 ## Transcript
 
-<div style="margin: 0.8em 1.6em;font-style: italic;">
+*The following text is transcribed from **Cannery Memo***
 
-The following text is transcribed from **Cannery Memo**
-
-</div>
-
-<div style="background: #2D3035; border: 1px solid #2D3035; border-radius: 0 0 120px 120px / 0 0 8px 8px; box-shadow: 0 5px 7px -7px rgb(0 0 0 / 40%); max-width: 90ch; overflow: hidden; padding: 2em; margin-bottom: 1em;">
-
-\[names scratched out\]
+**\[names scratched out\]
 
 That old radio tower is supposed to relay the weather, but half the time the damn thing is offline. And since the landslide last summer we can't even get up the road anymore to check out what's going on.
 
@@ -86,21 +41,13 @@ I know there's a technician kid someplace on the Island attached to that tower c
 
 And don't forget to get a copy of the workshop's door code while you're up there.
 
-(illegible name\]
-
-</div>
+(illegible name\]**
 
 ## Update history
 
-<div class="update-history">
-
-- <span class="update-list"><span class="update-type update">UPDATE</span> **22 October 2019 (<a href="./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60" class="wikilink" title="Update">Update</a>):**</span>
+- UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
   - Added to game.
-
-</div>
 
 **Lua execution error in Module:Navbox function navbox**
 
-<a href="ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D1%81_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0" class="wikilink" title="ru:Записка с завода">ru:Записка с завода</a>
-
-</div>
+[ru:Записка с завода](ru:%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D1%81_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0)

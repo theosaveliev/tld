@@ -1262,85 +1262,118 @@
 
 > Core survivor needs and status measures, including hunger, thirst, fatigue, sleep, warmth, stamina, and overall condition.
 
+### Primary Meters
+
 - [Condition](https://thelongdark.fandom.com/wiki/Condition)
 - [Encumbrance](https://thelongdark.fandom.com/wiki/Encumbrance)
-- [Energy Boost](https://thelongdark.fandom.com/wiki/Energy_Boost)
-- [Fatigue](https://thelongdark.fandom.com/wiki/Fatigue)
-- [Fatigue Reduced](https://thelongdark.fandom.com/wiki/Fatigue_Reduced)
-- [Feels Like](https://thelongdark.fandom.com/wiki/Feels_Like)
-- [Gorged](https://thelongdark.fandom.com/wiki/Gorged)
-- [High Energy](https://thelongdark.fandom.com/wiki/High_Energy)
-- [Hunger](https://thelongdark.fandom.com/wiki/Hunger)
-- [Needs](https://thelongdark.fandom.com/wiki/Needs)
-- [Nourished](https://thelongdark.fandom.com/wiki/Nourished)
-- [Restore Condition](https://thelongdark.fandom.com/wiki/Restore_Condition)
 - [Sleep](https://thelongdark.fandom.com/wiki/Sleep)
 - [Stamina](https://thelongdark.fandom.com/wiki/Stamina)
+
+### Core Needs
+
+- [Fatigue](https://thelongdark.fandom.com/wiki/Fatigue)
+- [Hunger](https://thelongdark.fandom.com/wiki/Hunger)
 - [Thirst](https://thelongdark.fandom.com/wiki/Thirst)
 - [Warmth](https://thelongdark.fandom.com/wiki/Warmth)
-- [Well Fed](https://thelongdark.fandom.com/wiki/Well_Fed)
 
+### Need References
+
+- [Feels Like](https://thelongdark.fandom.com/wiki/Feels_Like)
+- [Needs](https://thelongdark.fandom.com/wiki/Needs)
 ## 12. Afflictions
 
-> Injuries, illnesses, and other harmful survivor states, including their risk stages and treatment-related effects.
+> Positive and negative survivor effects, including benefits, injuries, illnesses, risks, and mode-specific conditions.
 
-- [Afflictions](https://thelongdark.fandom.com/wiki/Afflictions)
-- [Anxiety](https://thelongdark.fandom.com/wiki/Anxiety)
+### Benefits
+
 - [Armoured](https://thelongdark.fandom.com/wiki/Armoured)
+- [Energy Boost](https://thelongdark.fandom.com/wiki/Energy_Boost)
+- [Fatigue Reduced](https://thelongdark.fandom.com/wiki/Fatigue_Reduced)
+- [Heat Pack (Affliction)](https://thelongdark.fandom.com/wiki/Heat_Pack_(Affliction))
+- [Nourished](https://thelongdark.fandom.com/wiki/Nourished)
+- [Restore Condition](https://thelongdark.fandom.com/wiki/Restore_Condition)
+- [Unburdened](https://thelongdark.fandom.com/wiki/Unburdened)
+- [Well Fed](https://thelongdark.fandom.com/wiki/Well_Fed)
+
+### Injury Risks
+
+- [Chemical Poisoning Risk](https://thelongdark.fandom.com/wiki/Chemical_Poisoning_Risk)
+- [Frostbite Risk](https://thelongdark.fandom.com/wiki/Frostbite_Risk)
+- [Sprain Risk](https://thelongdark.fandom.com/wiki/Sprain_Risk)
+- [Suffocation Risk](https://thelongdark.fandom.com/wiki/Suffocation_Risk)
+
+### Injuries & Physical Effects
+
 - [Blood Loss](https://thelongdark.fandom.com/wiki/Blood_Loss)
-- [Broken Body](https://thelongdark.fandom.com/wiki/Broken_Body)
 - [Broken Ribs](https://thelongdark.fandom.com/wiki/Broken_Ribs)
 - [Burdened](https://thelongdark.fandom.com/wiki/Burdened)
 - [Burns](https://thelongdark.fandom.com/wiki/Burns)
-- [Cabin Fever](https://thelongdark.fandom.com/wiki/Cabin_Fever)
-- [Cabin Fever Risk](https://thelongdark.fandom.com/wiki/Cabin_Fever_Risk)
 - [Chemical Poisoning](https://thelongdark.fandom.com/wiki/Chemical_Poisoning)
-- [Chemical Poisoning Risk](https://thelongdark.fandom.com/wiki/Chemical_Poisoning_Risk)
-- [Concussion](https://thelongdark.fandom.com/wiki/Concussion)
-- [Dehydrated](https://thelongdark.fandom.com/wiki/Dehydrated)
-- [Dehydration Risk](https://thelongdark.fandom.com/wiki/Dehydration_Risk)
-- [Diminished Form](https://thelongdark.fandom.com/wiki/Diminished_Form)
-- [Dysentery](https://thelongdark.fandom.com/wiki/Dysentery)
-- [Fear](https://thelongdark.fandom.com/wiki/Fear)
-- [Food Poisoning](https://thelongdark.fandom.com/wiki/Food_Poisoning)
-- [Frigid Bones](https://thelongdark.fandom.com/wiki/Frigid_Bones)
 - [Frostbite](https://thelongdark.fandom.com/wiki/Frostbite)
-- [Frostbite Risk](https://thelongdark.fandom.com/wiki/Frostbite_Risk)
-- [Haunted Mind](https://thelongdark.fandom.com/wiki/Haunted_Mind)
+- [Gorged](https://thelongdark.fandom.com/wiki/Gorged)
 - [Headache](https://thelongdark.fandom.com/wiki/Headache)
-- [Heat Pack (Affliction)](https://thelongdark.fandom.com/wiki/Heat_Pack_(Affliction))
-- [Hyperglycemic Risk](https://thelongdark.fandom.com/wiki/Hyperglycemic_Risk)
-- [Hypothermia](https://thelongdark.fandom.com/wiki/Hypothermia)
-- [Hypothermia Risk](https://thelongdark.fandom.com/wiki/Hypothermia_Risk)
-- [Infection](https://thelongdark.fandom.com/wiki/Infection)
-- [Infection Risk](https://thelongdark.fandom.com/wiki/Infection_Risk)
-- [Insomnia](https://thelongdark.fandom.com/wiki/Insomnia)
-- [Insomnia Risk](https://thelongdark.fandom.com/wiki/Insomnia_Risk)
-- [Intestinal Parasites](https://thelongdark.fandom.com/wiki/Intestinal_Parasites)
 - [Laceration](https://thelongdark.fandom.com/wiki/Laceration)
 - [Major Bruising](https://thelongdark.fandom.com/wiki/Major_Bruising)
 - [Minor Bruising](https://thelongdark.fandom.com/wiki/Minor_Bruising)
-- [Misery](https://thelongdark.fandom.com/wiki/Misery)
 - [Pain](https://thelongdark.fandom.com/wiki/Pain)
-- [Plane Crash Injuries](https://thelongdark.fandom.com/wiki/Plane_Crash_Injuries)
-- [Rheumatic Joints](https://thelongdark.fandom.com/wiki/Rheumatic_Joints)
-- [Risk of Infection](https://thelongdark.fandom.com/wiki/Risk_of_Infection)
-- [Risk of Infection/Transcript](https://thelongdark.fandom.com/wiki/Risk_of_Infection/Transcript)
-- [Risk of Intestinal Parasites](https://thelongdark.fandom.com/wiki/Risk_of_Intestinal_Parasites)
-- [Scurvy](https://thelongdark.fandom.com/wiki/Scurvy)
-- [Scurvy Risk](https://thelongdark.fandom.com/wiki/Scurvy_Risk)
 - [Severe Lacerations](https://thelongdark.fandom.com/wiki/Severe_Lacerations)
-- [Sour Stomach](https://thelongdark.fandom.com/wiki/Sour_Stomach)
-- [Sprain Risk](https://thelongdark.fandom.com/wiki/Sprain_Risk)
 - [Sprained Ankle](https://thelongdark.fandom.com/wiki/Sprained_Ankle)
 - [Sprained Wrist](https://thelongdark.fandom.com/wiki/Sprained_Wrist)
 - [Suffocation](https://thelongdark.fandom.com/wiki/Suffocation)
-- [Suffocation Risk](https://thelongdark.fandom.com/wiki/Suffocation_Risk)
 - [Torn Clothing](https://thelongdark.fandom.com/wiki/Torn_Clothing)
-- [Trauma](https://thelongdark.fandom.com/wiki/Trauma)
-- [Unburdened](https://thelongdark.fandom.com/wiki/Unburdened)
+
+### Disease Risks
+
+- [Cabin Fever Risk](https://thelongdark.fandom.com/wiki/Cabin_Fever_Risk)
+- [Hypothermia Risk](https://thelongdark.fandom.com/wiki/Hypothermia_Risk)
+- [Infection Risk](https://thelongdark.fandom.com/wiki/Infection_Risk)
+- [Insomnia Risk](https://thelongdark.fandom.com/wiki/Insomnia_Risk)
+- [Risk of Infection](https://thelongdark.fandom.com/wiki/Risk_of_Infection)
+- [Risk of Intestinal Parasites](https://thelongdark.fandom.com/wiki/Risk_of_Intestinal_Parasites)
+- [Scurvy Risk](https://thelongdark.fandom.com/wiki/Scurvy_Risk)
+
+### Diseases & Illnesses
+
+- [Cabin Fever](https://thelongdark.fandom.com/wiki/Cabin_Fever)
+- [Dysentery](https://thelongdark.fandom.com/wiki/Dysentery)
+- [Food Poisoning](https://thelongdark.fandom.com/wiki/Food_Poisoning)
+- [Hypothermia](https://thelongdark.fandom.com/wiki/Hypothermia)
+- [Infection](https://thelongdark.fandom.com/wiki/Infection)
+- [Insomnia](https://thelongdark.fandom.com/wiki/Insomnia)
+- [Intestinal Parasites](https://thelongdark.fandom.com/wiki/Intestinal_Parasites)
+- [Scurvy](https://thelongdark.fandom.com/wiki/Scurvy)
+
+### Darkwalker Effects
+
+- [Anxiety](https://thelongdark.fandom.com/wiki/Anxiety)
+- [Fear](https://thelongdark.fandom.com/wiki/Fear)
+
+### Misery Mode Effects
+
+- [Broken Body](https://thelongdark.fandom.com/wiki/Broken_Body)
+- [Diminished Form](https://thelongdark.fandom.com/wiki/Diminished_Form)
+- [Frigid Bones](https://thelongdark.fandom.com/wiki/Frigid_Bones)
+- [Haunted Mind](https://thelongdark.fandom.com/wiki/Haunted_Mind)
+- [Misery](https://thelongdark.fandom.com/wiki/Misery)
+- [Rheumatic Joints](https://thelongdark.fandom.com/wiki/Rheumatic_Joints)
+- [Sour Stomach](https://thelongdark.fandom.com/wiki/Sour_Stomach)
+
+### Wintermute Effects
+
+- [Concussion](https://thelongdark.fandom.com/wiki/Concussion)
+- [Dehydrated](https://thelongdark.fandom.com/wiki/Dehydrated)
+- [Dehydration Risk](https://thelongdark.fandom.com/wiki/Dehydration_Risk)
+- [Hyperglycemic Risk](https://thelongdark.fandom.com/wiki/Hyperglycemic_Risk)
+- [Plane Crash Injuries](https://thelongdark.fandom.com/wiki/Plane_Crash_Injuries)
+
+### Cheat Death Effects
+
 - [Weakened State](https://thelongdark.fandom.com/wiki/Weakened_State)
 
+### Reference Pages
+
+- [Afflictions](https://thelongdark.fandom.com/wiki/Afflictions)
+- [Risk of Infection/Transcript](https://thelongdark.fandom.com/wiki/Risk_of_Infection/Transcript)
 ## 13. Environmental Hazards
 
 > External conditions and environmental effects that create danger or change how the world can be traversed, such as weather, auroras, toxic environments, and weak ice.
@@ -2307,6 +2340,7 @@
 - [First Flare](https://thelongdark.fandom.com/wiki/First_Flare)
 - [Forest Talkers (side mission)](https://thelongdark.fandom.com/wiki/Forest_Talkers_(side_mission))
 - [Forge Blueprints (mission)](https://thelongdark.fandom.com/wiki/Forge_Blueprints_(mission))
+- [High Energy](https://thelongdark.fandom.com/wiki/High_Energy)
 - [Interview Transcript 4](https://thelongdark.fandom.com/wiki/Interview_Transcript_4)
 - [Interview Transcript 12](https://thelongdark.fandom.com/wiki/Interview_Transcript_12)
 - [Interview Transcript 14](https://thelongdark.fandom.com/wiki/Interview_Transcript_14)
@@ -2352,6 +2386,7 @@
 - [The Wounded Trapper/Transcript](https://thelongdark.fandom.com/wiki/The_Wounded_Trapper/Transcript)
 - [To SAR And Back](https://thelongdark.fandom.com/wiki/To_SAR_And_Back)
 - [To Those Who Are Missing](https://thelongdark.fandom.com/wiki/To_Those_Who_Are_Missing)
+- [Trauma](https://thelongdark.fandom.com/wiki/Trauma)
 - [Trauma/Transcript](https://thelongdark.fandom.com/wiki/Trauma/Transcript)
 - [What I Know](https://thelongdark.fandom.com/wiki/What_I_Know)
 - [What One Man Can Do](https://thelongdark.fandom.com/wiki/What_One_Man_Can_Do)

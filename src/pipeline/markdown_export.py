@@ -1135,6 +1135,12 @@ def _inline_span_markdown(node: lhtml.HtmlElement, content: str) -> str | None:
     return None
 
 
+def _styled_markdown_content(node: lhtml.HtmlElement, content: str) -> str:
+    """Apply a Markdown approximation for visual inline styles."""
+    styled = _inline_span_markdown(node, content)
+    return content if styled is None else styled
+
+
 def _inline_markdown_emphasis(tag: str, content: str) -> str | None:
     """Convert inline emphasis and strike-through tags to Markdown."""
     if tag in {"strong", "b", "mark", "big"}:
@@ -1155,9 +1161,11 @@ def _inline_markdown_semantics(
         return _unicode_superscript(content)
     if tag == "sub":
         return _unicode_subscript(content)
+    styled = _inline_span_markdown(node, content)
+    if styled is not None:
+        return styled
     if tag == "span":
-        styled = _inline_span_markdown(node, content)
-        return styled if styled is not None else content
+        return content
     if tag == "abbr":
         title = node.get("title", "").strip()
         if title and title.casefold() != content.casefold():
@@ -1482,13 +1490,15 @@ def _render_html_block(node: lhtml.HtmlElement) -> str:
         return special
     if tag in {"h1", "h2", "h3", "h4", "h5", "h6"}:
         level = int(tag[1])
-        return f"{'#' * level} {_inline_markdown(node).strip()}"
+        content = _styled_markdown_content(node, _inline_markdown(node).strip())
+        return f"{'#' * level} {content}"
     if tag == "p":
-        return _inline_markdown(node).strip()
+        content = _inline_markdown(node).strip()
+        return _styled_markdown_content(node, content)
     if tag == "figcaption":
         caption = _inline_markdown(node).strip()
         return f"*{caption}*" if caption else ""
-    content = _render_html_children(node)
+    content = _styled_markdown_content(node, _render_html_children(node))
     if "footnotes" in (node.get("class") or "").split():
         if not content.startswith("## Notes"):
             content = f"## Notes\n\n{content}" if content else "## Notes"

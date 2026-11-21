@@ -512,7 +512,7 @@ def test_uses_material_list_template_is_replaced_with_recipe_table() -> None:
     assert count == 0
     assert 'class="wikitable uses-material-list"' in expanded
     assert "Meat Curing Box" in expanded
-    assert "8.00 kg \u00d7 Salt" in expanded
+    assert '8.00 kg \u00d7 <a href="Salt">Salt</a>' in expanded
 
     markdown, note, failed = _convert_html_to_markdown("unused", expanded, "")
 

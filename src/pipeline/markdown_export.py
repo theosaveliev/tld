@@ -33,8 +33,8 @@ INFOBOX_VALUE_CELL_COUNT = 2
 QUOTE_TABLE_CELL_COUNT = 3
 MINIMUM_HEADINGS_FOR_TOC = 4
 NAVBOX_ERROR_LINE_RE = re.compile(
-    r"(?im)^[ \t]*(?:\*\*|__)?Lua execution error in Module:Navbox function navbox"
-    r"(?:\*\*|__)?(?:\[[^\]\n]*\]\([^\)]*\))?[ \t]*(?:\r?\n|$)"
+    r"(?im)^[ \\t]*(?:\\*\\*|__)?Lua execution error in Module:Navbox function navbox"
+    + r"(?:\\*\\*|__)?(?:\\[[^\\]\\n]*\\]\\([^)]*\\))?[ \\t]*(?:\\r?\\n|$)"
 )
 ITALIC_ASTERISK_RE = re.compile(
     r"(?<![\\*])\*(?!\*)(?P<content>\S(?:[^*\n]*?\S)?)\*(?!\*)"
@@ -629,29 +629,31 @@ def _build_image_index(image_dir: Path | None) -> dict[str, Path]:
 
 def _detect_image_suffix(source: Path) -> str:
     """Detect a useful image extension when the dumped filename has none."""
+    header = b""
     try:
         with source.open("rb") as image_file:
             header = image_file.read(512)
     except OSError:
-        return ""
+        header = b""
 
+    suffix = ""
     if header.startswith(b"\xff\xd8\xff"):
-        return ".jpg"
-    if header.startswith(b"\x89PNG\r\n\x1a\n"):
-        return ".png"
-    if header.startswith((b"GIF87a", b"GIF89a")):
-        return ".gif"
-    if header.startswith(b"RIFF") and header[8:12] == b"WEBP":
-        return ".webp"
-    if header.startswith(b"BM"):
-        return ".bmp"
-    if header.startswith((b"II*\x00", b"MM\x00*")):
-        return ".tif"
-    if header.startswith(b"\x00\x00\x01\x00"):
-        return ".ico"
-    if b"<svg" in header.lower():
-        return ".svg"
-    return ""
+        suffix = ".jpg"
+    elif header.startswith(b"\x89PNG\r\n\x1a\n"):
+        suffix = ".png"
+    elif header.startswith((b"GIF87a", b"GIF89a")):
+        suffix = ".gif"
+    elif header.startswith(b"RIFF") and header[8:12] == b"WEBP":
+        suffix = ".webp"
+    elif header.startswith(b"BM"):
+        suffix = ".bmp"
+    elif header.startswith((b"II*\x00", b"MM\x00*")):
+        suffix = ".tif"
+    elif header.startswith(b"\x00\x00\x01\x00"):
+        suffix = ".ico"
+    elif b"<svg" in header.lower():
+        suffix = ".svg"
+    return suffix
 
 
 def _copy_image(

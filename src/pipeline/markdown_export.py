@@ -33,8 +33,7 @@ INFOBOX_VALUE_CELL_COUNT = 2
 QUOTE_TABLE_CELL_COUNT = 3
 MINIMUM_HEADINGS_FOR_TOC = 4
 NAVBOX_ERROR_LINE_RE = re.compile(
-    r"(?im)^[ \\t]*(?:\\*\\*|__)?Lua execution error in Module:Navbox function navbox"
-    + r"(?:\\*\\*|__)?(?:\\[[^\\]\\n]*\\]\\([^)]*\\))?[ \\t]*(?:\\r?\\n|$)"
+    r"(?im)^.*Lua execution error in Module:Navbox function navbox.*$"
 )
 ITALIC_ASTERISK_RE = re.compile(
     r"(?<![\\*])\*(?!\*)(?P<content>\S(?:[^*\n]*?\S)?)\*(?!\*)"

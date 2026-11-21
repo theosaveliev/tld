@@ -44,6 +44,26 @@ class FakeContext:
         return text
 
 
+def identity_preprocess(
+    text: str,
+    context: WikiContext,
+    infobox_defs: Mapping[str, object],
+    page_title: str,
+    stats: RenderStats,
+) -> str:
+    """Return the input text unchanged using the production callback signature."""
+    _ = (context, infobox_defs, page_title, stats)
+    return text
+
+
+def identity_postprocess(
+    text: str, categories: list[str], stats: RenderStats
+) -> str:
+    """Return expanded text unchanged using the production callback signature."""
+    _ = (categories, stats)
+    return text
+
+
 def test_markdown_label_escapes_punctuation() -> None:
     assert _markdown_label("The Long Dark (Episode 1) *Test*") == (
         "The Long Dark \\(Episode 1\\) \\*Test\\*"
@@ -334,7 +354,7 @@ def test_export_retries_pandoc_after_closing_unterminated_wikitext_table(
             if "|}" not in text:
                 raise RuntimeError(
                     "Pandoc conversion failed: Error at (line 4, column 1): "
-                    "unexpected end of input"
+                    + "unexpected end of input"
                 )
             return "<p>Recovered article text</p>"
         assert (source_format, target_format) == ("html", "gfm")
@@ -360,7 +380,7 @@ def test_export_retries_pandoc_after_closing_unterminated_wikitext_table(
         {"Sample": "Sample.md"},
         FakeContext(),
         preprocess,
-        lambda text, _categories, _stats: text,
+        identity_postprocess,
         {},
         "pandoc",
         {},
@@ -403,8 +423,8 @@ def test_export_preserves_rendered_html_when_gfm_conversion_fails(
         DumpPage("Sample", 0, "wikitext", "original source", None),
         {"Sample": "Sample.md"},
         FakeContext(),
-        lambda text, *_args: text,
-        lambda text, _categories, _stats: text,
+        identity_preprocess,
+        identity_postprocess,
         {},
         "pandoc",
         {},
@@ -442,7 +462,7 @@ def test_export_renders_original_source_if_expanded_wikitext_stays_invalid(
                 return "<p>Original source prose</p>"
             raise RuntimeError(
                 "Pandoc conversion failed: Error at (line 4, column 1): "
-                "unexpected end of input"
+                + "unexpected end of input"
             )
         assert (source_format, target_format) == ("html", "gfm")
         return "Original source prose"
@@ -467,7 +487,7 @@ def test_export_renders_original_source_if_expanded_wikitext_stays_invalid(
         {"Sample": "Sample.md"},
         FakeContext(),
         preprocess,
-        lambda text, _categories, _stats: text,
+        identity_postprocess,
         {},
         "pandoc",
         {},

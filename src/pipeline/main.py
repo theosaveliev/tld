@@ -14,6 +14,7 @@ from pipeline.templates import (
     build_template_category_report,
     write_template_category_report,
 )
+from pipeline.filename_audit import audit_dump
 from pipeline.wiki import load_wiki
 
 __all__ = ["cli"]
@@ -157,3 +158,47 @@ def template_categories(wiki_dump: Path, output_dir: Path) -> None:
         click.echo(f"{name}: {value}", err=True)
 
     click.echo(f"Reports written to {output_dir}", err=True)
+
+
+
+@cli.command("audit-filenames")
+@click.argument("wiki_dump", type=IN_PATH)
+@click.option(
+    "--include-redirects/--exclude-redirects",
+    default=False,
+    show_default=True,
+    help="Include redirect pages as separate Markdown files.",
+)
+@click.option(
+    "--output",
+    "output_path",
+    type=OUT_PATH,
+    help="Write the full title-to-filename mapping and issues as JSON.",
+)
+def audit_filenames(
+    wiki_dump: Path, include_redirects: bool, output_path: Path | None
+) -> None:
+    """Audit wiki page titles for portable Markdown filenames."""
+    report = audit_dump(wiki_dump, include_redirects=include_redirects)
+
+    click.echo(f"Article pages: {report['article_pages']}")
+    click.echo(f"Unique titles: {report['unique_titles']}")
+    click.echo(f"Redirects seen: {report['redirects_seen']}")
+    click.echo(f"Redirects excluded: {report['redirects_excluded']}")
+    click.echo(f"Issues found: {len(report['issues'])}")
+
+    for issue in report["issues"]:
+        click.echo(f"\n[{issue['kind']}] {', '.join(issue['titles'])}")
+        click.echo(f"  {issue['detail']}")
+        click.echo(f"  Filenames: {', '.join(issue['filenames'])}")
+
+    if output_path is not None:
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        output_path.write_text(
+            json.dumps(report, ensure_ascii=False, indent=2) + "\\n",
+            encoding="utf-8",
+        )
+        click.echo(f"JSON report written to {output_path}")
+
+    if not report["issues"]:
+        click.echo("No filename issues found.")

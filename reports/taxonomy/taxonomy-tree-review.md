@@ -973,6 +973,8 @@
 
 ## 7. Tools & Equipment
 
+- [Tools](https://thelongdark.fandom.com/wiki/Tools)
+
 ### Bedrolls & Sleeping Gear
 
 > Bedrolls and deployable shelters used for sleeping and taking shelter.
@@ -1011,6 +1013,7 @@
 
 > Handheld tools used to harvest resources, open containers, cut materials, or perform other practical tasks.
 
+- [Bolt Cutters](https://thelongdark.fandom.com/wiki/Bolt_Cutters)
 - [Can Opener](https://thelongdark.fandom.com/wiki/Can_Opener)
 - [Cougar Claw Knife](https://thelongdark.fandom.com/wiki/Cougar_Claw_Knife)
 - [Elevator Crank](https://thelongdark.fandom.com/wiki/Elevator_Crank)
@@ -1021,12 +1024,13 @@
 - [Improvised Hatchet](https://thelongdark.fandom.com/wiki/Improvised_Hatchet)
 - [Improvised Knife](https://thelongdark.fandom.com/wiki/Improvised_Knife)
 - [Prybar](https://thelongdark.fandom.com/wiki/Prybar)
+- [Scrap Metal Shard](https://thelongdark.fandom.com/wiki/Scrap_Metal_Shard)
 - [Survival Knife](https://thelongdark.fandom.com/wiki/Survival_Knife)
 - [Valve Socket Handle](https://thelongdark.fandom.com/wiki/Valve_Socket_Handle)
 
 ### Repair & Crafting Equipment
 
-> Portable tools used to repair, maintain, sharpen, or craft equipment. Fixed workstations are grouped separately under Workbenches.
+> Portable tools used to repair, maintain, sharpen, or craft equipment. Fixed workstations are grouped separately under Workbenches & Crafting Stations.
 
 - [Firearm Cleaning Kit](https://thelongdark.fandom.com/wiki/Firearm_Cleaning_Kit)
 - [Quality Tools](https://thelongdark.fandom.com/wiki/Quality_Tools)
@@ -1035,64 +1039,28 @@
 - [Whetstone](https://thelongdark.fandom.com/wiki/Whetstone)
 - [Woodworking Tools](https://thelongdark.fandom.com/wiki/Woodworking_Tools)
 
-### Keys & Access Items
+### Photography
 
-> Keys, codes and credentials used to open locked containers, doors and restricted areas.
+> Camera equipment and film used to take and process photographs.
 
-- [Admin Office Key](https://thelongdark.fandom.com/wiki/Admin_Office_Key)
-- [Aid Station Medical Locker Key](https://thelongdark.fandom.com/wiki/Aid_Station_Medical_Locker_Key)
-- [An Old House Key](https://thelongdark.fandom.com/wiki/An_Old_House_Key)
-- [Bank Deposit Box Key 7](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_7)
-- [Bank Deposit Box Key 13](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_13)
-- [Bank Deposit Box Key 15](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_15)
-- [Bank Deposit Box Key 20](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_20)
-- [Bank Manager's House Key](https://thelongdark.fandom.com/wiki/Bank_Manager's_House_Key)
-- [Bank Vault Code](https://thelongdark.fandom.com/wiki/Bank_Vault_Code)
-- [Basement Key](https://thelongdark.fandom.com/wiki/Basement_Key)
-- [Blackrock Gate Key](https://thelongdark.fandom.com/wiki/Blackrock_Gate_Key)
-- [Blackrock Locker Key 2](https://thelongdark.fandom.com/wiki/Blackrock_Locker_Key_2)
-- [Blackrock Locker Key 3](https://thelongdark.fandom.com/wiki/Blackrock_Locker_Key_3)
-- [Blackrock Locker Key 8](https://thelongdark.fandom.com/wiki/Blackrock_Locker_Key_8)
-- [Brass Key](https://thelongdark.fandom.com/wiki/Brass_Key)
-- [Brass Key (2)](https://thelongdark.fandom.com/wiki/Brass_Key_(2))
-- [Carter Hydro Staging Area Gate Key](https://thelongdark.fandom.com/wiki/Carter_Hydro_Staging_Area_Gate_Key)
-- [Crane Key](https://thelongdark.fandom.com/wiki/Crane_Key)
-- [Dam Control Room Code](https://thelongdark.fandom.com/wiki/Dam_Control_Room_Code)
-- [Foreman's Key](https://thelongdark.fandom.com/wiki/Foreman's_Key)
-- [Garage Key](https://thelongdark.fandom.com/wiki/Garage_Key)
-- [Key To Lake Cabin 1](https://thelongdark.fandom.com/wiki/Key_To_Lake_Cabin_1)
-- [Key To Lake Cabin 2](https://thelongdark.fandom.com/wiki/Key_To_Lake_Cabin_2)
-- [Key To Lake Cabin 3](https://thelongdark.fandom.com/wiki/Key_To_Lake_Cabin_3)
-- [Lily's Trunk Key](https://thelongdark.fandom.com/wiki/Lily's_Trunk_Key)
-- [Lock Box Key](https://thelongdark.fandom.com/wiki/Lock_Box_Key)
-- [Lock Box Key (Predux)](https://thelongdark.fandom.com/wiki/Lock_Box_Key_(Predux))
-- [Locker Key](https://thelongdark.fandom.com/wiki/Locker_Key)
-- [Logging Camp Trailer Key](https://thelongdark.fandom.com/wiki/Logging_Camp_Trailer_Key)
-- [Milton Safety Deposit Box Keys](https://thelongdark.fandom.com/wiki/Milton_Safety_Deposit_Box_Keys)
-- [Mine Gate Key](https://thelongdark.fandom.com/wiki/Mine_Gate_Key)
-- [Mine Lockbox Key](https://thelongdark.fandom.com/wiki/Mine_Lockbox_Key)
-- [Mine Office Key](https://thelongdark.fandom.com/wiki/Mine_Office_Key)
-- [Paradise Meadows Farm Key](https://thelongdark.fandom.com/wiki/Paradise_Meadows_Farm_Key)
-- [Rusty Key](https://thelongdark.fandom.com/wiki/Rusty_Key)
-- [Supply Room Key](https://thelongdark.fandom.com/wiki/Supply_Room_Key)
-- [Train Key](https://thelongdark.fandom.com/wiki/Train_Key)
-
-### Field & Utility Equipment
-
-> Portable equipment used for exploration, navigation, access, photography, and other field tasks.
-
-- [Astrid's Backpack](https://thelongdark.fandom.com/wiki/Astrid's_Backpack)
 - [Camera](https://thelongdark.fandom.com/wiki/Camera)
 - [FastFilm-500](https://thelongdark.fandom.com/wiki/FastFilm-500)
 - [FastFilm-500BW](https://thelongdark.fandom.com/wiki/FastFilm-500BW)
 - [FastFilm-500SPA](https://thelongdark.fandom.com/wiki/FastFilm-500SPA)
+
+### Field & Utility Equipment
+
+> Portable equipment used for exploration, navigation, access, and other field tasks.
+
+- [Astrid's Backpack](https://thelongdark.fandom.com/wiki/Astrid's_Backpack)
+- [Charcoal](https://thelongdark.fandom.com/wiki/Charcoal)
 - [First Aid Kit (tool)](https://thelongdark.fandom.com/wiki/First_Aid_Kit_(tool))
 - [Handheld Shortwave Radio](https://thelongdark.fandom.com/wiki/Handheld_Shortwave_Radio)
 - [Spray Paint](https://thelongdark.fandom.com/wiki/Spray_Paint)
 - [Spray Paint - Glyph](https://thelongdark.fandom.com/wiki/Spray_Paint_-_Glyph)
 - [Travois](https://thelongdark.fandom.com/wiki/Travois)
 
-### Workbenches
+### Workbenches & Crafting Stations
 
 > Dedicated work areas and specialized stations for crafting, ammunition production, furniture making, and milling.
 
@@ -1102,13 +1070,6 @@
 - [Furniture Workbench](https://thelongdark.fandom.com/wiki/Furniture_Workbench)
 - [Milling Machine](https://thelongdark.fandom.com/wiki/Milling_Machine)
 - [Work Bench](https://thelongdark.fandom.com/wiki/Work_Bench)
-
-### Other & Reference
-
-> General tool references and tool-related pages that do not fit a more specific equipment group.
-
-- [The Detonators](https://thelongdark.fandom.com/wiki/The_Detonators)
-- [Tools](https://thelongdark.fandom.com/wiki/Tools)
 
 ## 8. Fire, Light & Fuel
 
@@ -1137,6 +1098,7 @@
 - [Magnifying Lens](https://thelongdark.fandom.com/wiki/Magnifying_Lens)
 - [Marine Flare](https://thelongdark.fandom.com/wiki/Marine_Flare)
 - [Matches (disambiguation)](https://thelongdark.fandom.com/wiki/Matches_(disambiguation))
+- [McLeod Ultra-Efficiency Whale Oil Heater](https://thelongdark.fandom.com/wiki/McLeod_Ultra-Efficiency_Whale_Oil_Heater)
 - [Miner's Flashlight](https://thelongdark.fandom.com/wiki/Miner's_Flashlight)
 - [Practical Gunsmithing](https://thelongdark.fandom.com/wiki/Practical_Gunsmithing)
 - [Small Arms Handbook](https://thelongdark.fandom.com/wiki/Small_Arms_Handbook)
@@ -1161,7 +1123,6 @@
 - [Burned Out Fuse](https://thelongdark.fandom.com/wiki/Burned_Out_Fuse)
 - [Car Battery](https://thelongdark.fandom.com/wiki/Car_Battery)
 - [Cedar Limb](https://thelongdark.fandom.com/wiki/Cedar_Limb)
-- [Charcoal](https://thelongdark.fandom.com/wiki/Charcoal)
 - [Cloth](https://thelongdark.fandom.com/wiki/Cloth)
 - [Cloth (Object)](https://thelongdark.fandom.com/wiki/Cloth_(Object))
 - [Coal](https://thelongdark.fandom.com/wiki/Coal)
@@ -1200,7 +1161,6 @@
 - [Salt Deposit](https://thelongdark.fandom.com/wiki/Salt_Deposit)
 - [Scrap Lead](https://thelongdark.fandom.com/wiki/Scrap_Lead)
 - [Scrap Metal](https://thelongdark.fandom.com/wiki/Scrap_Metal)
-- [Scrap Metal Shard](https://thelongdark.fandom.com/wiki/Scrap_Metal_Shard)
 - [Stick](https://thelongdark.fandom.com/wiki/Stick)
 - [Stump Remover](https://thelongdark.fandom.com/wiki/Stump_Remover)
 - [Transponder Parts](https://thelongdark.fandom.com/wiki/Transponder_Parts)
@@ -1218,7 +1178,6 @@
 > The in-game Decorations inventory contains carryable objects that can be placed inside customizable interiors, while this list covers dedicated decoration articles and furniture craftable for Safehouses. The wider Safehouse Customization system affects more than 800 movable, breakable, or craftable objects; fixed containers, appliances, and other environmental fixtures remain under Gameplay → World Objects.
 
 - [Jack-o-Lantern](https://thelongdark.fandom.com/wiki/Jack-o-Lantern)
-- [McLeod Ultra-Efficiency Whale Oil Heater](https://thelongdark.fandom.com/wiki/McLeod_Ultra-Efficiency_Whale_Oil_Heater)
 
 ### Craftable Decorations
 
@@ -1319,7 +1278,6 @@
 ### Afflictions
 
 > Injuries, illnesses, and other harmful survivor states, including their risk stages and treatment-related effects.
-
 
 - [Afflictions](https://thelongdark.fandom.com/wiki/Afflictions)
 - [Anxiety](https://thelongdark.fandom.com/wiki/Anxiety)
@@ -1456,6 +1414,46 @@
 ### Collectibles
 
 > Documents, mementos, notes, photographs, recordings, and other discoverable collectibles. Story-specific versions of books and quest clues are kept here when their purpose is collection or narrative discovery.
+
+#### Keys & Access Items
+
+> Keys, codes and credentials used to open locked containers, doors and restricted areas.
+
+- [Admin Office Key](https://thelongdark.fandom.com/wiki/Admin_Office_Key)
+- [Aid Station Medical Locker Key](https://thelongdark.fandom.com/wiki/Aid_Station_Medical_Locker_Key)
+- [An Old House Key](https://thelongdark.fandom.com/wiki/An_Old_House_Key)
+- [Bank Deposit Box Key 7](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_7)
+- [Bank Deposit Box Key 13](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_13)
+- [Bank Deposit Box Key 15](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_15)
+- [Bank Deposit Box Key 20](https://thelongdark.fandom.com/wiki/Bank_Deposit_Box_Key_20)
+- [Bank Manager's House Key](https://thelongdark.fandom.com/wiki/Bank_Manager's_House_Key)
+- [Bank Vault Code](https://thelongdark.fandom.com/wiki/Bank_Vault_Code)
+- [Basement Key](https://thelongdark.fandom.com/wiki/Basement_Key)
+- [Blackrock Gate Key](https://thelongdark.fandom.com/wiki/Blackrock_Gate_Key)
+- [Blackrock Locker Key 2](https://thelongdark.fandom.com/wiki/Blackrock_Locker_Key_2)
+- [Blackrock Locker Key 3](https://thelongdark.fandom.com/wiki/Blackrock_Locker_Key_3)
+- [Blackrock Locker Key 8](https://thelongdark.fandom.com/wiki/Blackrock_Locker_Key_8)
+- [Brass Key](https://thelongdark.fandom.com/wiki/Brass_Key)
+- [Brass Key (2)](https://thelongdark.fandom.com/wiki/Brass_Key_(2))
+- [Carter Hydro Staging Area Gate Key](https://thelongdark.fandom.com/wiki/Carter_Hydro_Staging_Area_Gate_Key)
+- [Crane Key](https://thelongdark.fandom.com/wiki/Crane_Key)
+- [Foreman's Key](https://thelongdark.fandom.com/wiki/Foreman's_Key)
+- [Garage Key](https://thelongdark.fandom.com/wiki/Garage_Key)
+- [Key To Lake Cabin 1](https://thelongdark.fandom.com/wiki/Key_To_Lake_Cabin_1)
+- [Key To Lake Cabin 2](https://thelongdark.fandom.com/wiki/Key_To_Lake_Cabin_2)
+- [Key To Lake Cabin 3](https://thelongdark.fandom.com/wiki/Key_To_Lake_Cabin_3)
+- [Lily's Trunk Key](https://thelongdark.fandom.com/wiki/Lily's_Trunk_Key)
+- [Lock Box Key](https://thelongdark.fandom.com/wiki/Lock_Box_Key)
+- [Locker Key](https://thelongdark.fandom.com/wiki/Locker_Key)
+- [Logging Camp Trailer Key](https://thelongdark.fandom.com/wiki/Logging_Camp_Trailer_Key)
+- [Milton Safety Deposit Box Keys](https://thelongdark.fandom.com/wiki/Milton_Safety_Deposit_Box_Keys)
+- [Mine Gate Key](https://thelongdark.fandom.com/wiki/Mine_Gate_Key)
+- [Mine Lockbox Key](https://thelongdark.fandom.com/wiki/Mine_Lockbox_Key)
+- [Mine Office Key](https://thelongdark.fandom.com/wiki/Mine_Office_Key)
+- [Paradise Meadows Farm Key](https://thelongdark.fandom.com/wiki/Paradise_Meadows_Farm_Key)
+- [Rusty Key](https://thelongdark.fandom.com/wiki/Rusty_Key)
+- [Supply Room Key](https://thelongdark.fandom.com/wiki/Supply_Room_Key)
+- [Train Key](https://thelongdark.fandom.com/wiki/Train_Key)
 
 - [A Cry For Help](https://thelongdark.fandom.com/wiki/A_Cry_For_Help)
 - [A Handwritten Letter](https://thelongdark.fandom.com/wiki/A_Handwritten_Letter)
@@ -1753,7 +1751,6 @@
 ### World Objects
 
 > Fixed or stationary objects found in the environment, including containers, furniture, appliances, vehicles, and miscellaneous fixtures. These describe what the player encounters in the world; they are not portable inventory items or wearable gear.
-
 
 - [Airplane](https://thelongdark.fandom.com/wiki/Airplane)
 - [Backpack](https://thelongdark.fandom.com/wiki/Backpack)
@@ -2195,10 +2192,10 @@
 - [First Flare](https://thelongdark.fandom.com/wiki/First_Flare)
 - [Forest Talkers (side mission)](https://thelongdark.fandom.com/wiki/Forest_Talkers_(side_mission))
 - [Forge Blueprints (mission)](https://thelongdark.fandom.com/wiki/Forge_Blueprints_(mission))
+- [Interview Transcript 4](https://thelongdark.fandom.com/wiki/Interview_Transcript_4)
 - [Interview Transcript 12](https://thelongdark.fandom.com/wiki/Interview_Transcript_12)
 - [Interview Transcript 14](https://thelongdark.fandom.com/wiki/Interview_Transcript_14)
 - [Interview Transcript 17](https://thelongdark.fandom.com/wiki/Interview_Transcript_17)
-- [Interview Transcript 4](https://thelongdark.fandom.com/wiki/Interview_Transcript_4)
 - [Jeremiah's Folly](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly)
 - [Jeremiah's Folly/Transcript](https://thelongdark.fandom.com/wiki/Jeremiah's_Folly/Transcript)
 - [Lost in the Storm](https://thelongdark.fandom.com/wiki/Lost_in_the_Storm)
@@ -2227,6 +2224,7 @@
 - [The Collapse](https://thelongdark.fandom.com/wiki/The_Collapse)
 - [The Crash](https://thelongdark.fandom.com/wiki/The_Crash)
 - [The Crash/Transcript](https://thelongdark.fandom.com/wiki/The_Crash/Transcript)
+- [The Detonators](https://thelongdark.fandom.com/wiki/The_Detonators)
 - [The Detonators/Transcript](https://thelongdark.fandom.com/wiki/The_Detonators/Transcript)
 - [The Foreman](https://thelongdark.fandom.com/wiki/The_Foreman)
 - [The Grey Mother](https://thelongdark.fandom.com/wiki/The_Grey_Mother)
@@ -2250,13 +2248,13 @@
 
 > Legacy and miscellaneous reference pages preserved for historical context or future review.
 
-
 - [Broken Bridge (disambiguation)](https://thelongdark.fandom.com/wiki/Broken_Bridge_(disambiguation))
 - [Cave (disambiguation)](https://thelongdark.fandom.com/wiki/Cave_(disambiguation))
 - [Cave (Transition Zone)](https://thelongdark.fandom.com/wiki/Cave_(Transition_Zone))
 - [Characters](https://thelongdark.fandom.com/wiki/Characters)
 - [Clothing](https://thelongdark.fandom.com/wiki/Clothing)
 - [Cut/Discontinued Content](https://thelongdark.fandom.com/wiki/Cut/Discontinued_Content)
+- [Dam Control Room Code](https://thelongdark.fandom.com/wiki/Dam_Control_Room_Code)
 - [Easter Eggs](https://thelongdark.fandom.com/wiki/Easter_Eggs)
 - [Emergency Food](https://thelongdark.fandom.com/wiki/Emergency_Food)
 - [Fishing Lure (disambiguation)](https://thelongdark.fandom.com/wiki/Fishing_Lure_(disambiguation))
@@ -2265,6 +2263,7 @@
 - [Hunter's Blind (disambiguation)](https://thelongdark.fandom.com/wiki/Hunter's_Blind_(disambiguation))
 - [Jeremiah's Bearskin Coat](https://thelongdark.fandom.com/wiki/Jeremiah's_Bearskin_Coat)
 - [Locations](https://thelongdark.fandom.com/wiki/Locations)
+- [Lock Box Key (Predux)](https://thelongdark.fandom.com/wiki/Lock_Box_Key_(Predux))
 - [Lookout (disambiguation)](https://thelongdark.fandom.com/wiki/Lookout_(disambiguation))
 - [Materials](https://thelongdark.fandom.com/wiki/Materials)
 - [Mountain Pass](https://thelongdark.fandom.com/wiki/Mountain_Pass)

@@ -122,6 +122,44 @@ def _safe_destination(filename: str) -> str:
     return urllib.parse.quote(filename, safe="!~-._")
 
 
+def _portable_asset_name(name: str) -> str:
+    """Make a dumped image basename portable to macOS and within byte limits."""
+    normalized = unicodedata.normalize("NFC", Path(name).name).rstrip(" .")
+    suffix = Path(normalized).suffix
+    stem = normalized[: -len(suffix)] if suffix else normalized
+    stem = " - ".join(part.strip() for part in stem.split(":"))
+    stem = "".join(
+        "_" if unicodedata.category(char) == "Cc" else char for char in stem
+    ).rstrip(" .")
+    if not stem:
+        stem = "asset"
+
+    suffix = "".join(
+        "_" if unicodedata.category(char) == "Cc" else char for char in suffix
+    )
+    available_bytes = MAX_FILENAME_BYTES - len(suffix.encode("utf-8"))
+    if available_bytes < 1:
+        raise ValueError(f"Image extension is too long to store portably: {name!r}")
+
+    if len(stem.encode("utf-8")) > available_bytes:
+        digest = hashlib.sha256(normalized.encode("utf-8")).hexdigest()[:8]
+        marker = f"-{digest}"
+        budget = available_bytes - len(marker.encode("utf-8"))
+        if budget < 1:
+            raise ValueError(f"Image filename is too long to store portably: {name!r}")
+        kept: list[str] = []
+        used_bytes = 0
+        for char in stem:
+            char_bytes = len(char.encode("utf-8"))
+            if used_bytes + char_bytes > budget:
+                break
+            kept.append(char)
+            used_bytes += char_bytes
+        stem = unicodedata.normalize("NFC", "".join(kept).rstrip(" .")) + marker
+
+    return f"{stem}{suffix}"
+
+
 def resolve_internal_href(
     href: str,
     current_title: str,
@@ -418,18 +456,19 @@ def _copy_image(
     if source in copied:
         return copied[source]
 
-    output_name = source.name
-    key = output_name.casefold()
+    output_name = _portable_asset_name(source.name)
+    key = unicodedata.normalize("NFC", output_name).casefold()
     previous = used_names.get(key)
     if previous is not None and previous != source:
         relative_source = str(source.relative_to(image_dir))
         digest = hashlib.sha256(relative_source.encode()).hexdigest()[:8]
-        output_name = f"{source.stem}-{digest}{source.suffix}"
-        key = output_name.casefold()
+        output_name = _portable_asset_name(f"{source.stem}-{digest}{source.suffix}")
+        key = unicodedata.normalize("NFC", output_name).casefold()
         suffix = 2
         while key in used_names and used_names[key] != source:
-            output_name = f"{source.stem}-{digest}-{suffix}{source.suffix}"
-            key = output_name.casefold()
+            candidate = f"{source.stem}-{digest}-{suffix}{source.suffix}"
+            output_name = _portable_asset_name(candidate)
+            key = unicodedata.normalize("NFC", output_name).casefold()
             suffix += 1
 
     asset_dir.mkdir(parents=True, exist_ok=True)

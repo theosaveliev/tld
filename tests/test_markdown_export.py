@@ -295,9 +295,13 @@ def test_repair_unclosed_mediawiki_tables_appends_missing_closers() -> None:
     repaired, count = _repair_unclosed_mediawiki_tables(source)
 
     assert count == 2
-    assert repaired == source + """|}
+    assert (
+        repaired
+        == source
+        + """|}
 |}
 """
+    )
 
 
 def test_repair_unclosed_mediawiki_tables_ignores_literal_and_comment_content() -> None:

@@ -546,9 +546,7 @@ def _strip_wikitext_literal_content(
             return "", literal_tag
         visible = visible[closing.end() :]
 
-    opening = re.search(
-        r"<(nowiki|pre|source|syntaxhighlight)\b[^>]*>", visible, re.I
-    )
+    opening = re.search(r"<(nowiki|pre|source|syntaxhighlight)\b[^>]*>", visible, re.I)
     if opening is None:
         return visible, None
 
@@ -977,9 +975,7 @@ def _render_mediawiki_html(
             and repaired_tables
         ):
             try:
-                html_fragment = _run_pandoc(
-                    pandoc, repaired_text, "mediawiki", "html"
-                )
+                html_fragment = _run_pandoc(pandoc, repaired_text, "mediawiki", "html")
             except Exception as repair_error:
                 conversion_note = (
                     f"{conversion_stage} still failed after closing "
@@ -997,9 +993,7 @@ def _render_mediawiki_html(
             )
 
         html_fragment = _run_pandoc(pandoc, page.text, "mediawiki", "html")
-        conversion_note = (
-            f"{conversion_note} Used the unexpanded source as a fallback."
-        )
+        conversion_note = f"{conversion_note} Used the unexpanded source as a fallback."
         return html_fragment, "raw_fallback", conversion_note
 
     return html_fragment, "ok", ""
@@ -1192,6 +1186,7 @@ def _export_one_page(
         "error": conversion.note[:1000],
     }
     return result, expansion_errors, conversion.conversion_errors
+
 
 def _write_workspace_index(
     page_results: list[PageExportResult], output_dir: Path

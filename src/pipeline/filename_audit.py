@@ -82,8 +82,7 @@ def _allocate_filenames(titles: list[str]) -> list[FilenameMapping]:
     """Allocate deterministic, case-insensitively unique Markdown filenames."""
     proposed = {title: filename_for_title(title) for title in titles}
     ordered_titles = sorted(
-        proposed,
-        key=lambda title: (proposed[title].casefold(), title),
+        proposed, key=lambda title: (proposed[title].casefold(), title)
     )
     reserved = {filename.casefold() for filename in proposed.values()}
     allocated: set[str] = set()

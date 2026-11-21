@@ -85,9 +85,7 @@ def test_collision_suffix_respects_filename_byte_limit() -> None:
         len(mapping["filename"].encode("utf-8")) <= 255
         for mapping in report["mappings"]
     )
-    assert len(
-        {mapping["filename"].casefold() for mapping in report["mappings"]}
-    ) == 2
+    assert len({mapping["filename"].casefold() for mapping in report["mappings"]}) == 2
 
 
 def test_extract_page_titles_skips_redirects_and_non_article_namespaces(

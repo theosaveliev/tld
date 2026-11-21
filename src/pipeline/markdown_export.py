@@ -261,7 +261,8 @@ def _create_wtp() -> Any:
         setattr(luaexec, "re", RegexShim())
 
     processor = importlib.import_module("wikitextprocessor")
-    return processor.Wtp(quiet=True, num_threads=1)
+    wtp_factory = getattr(processor, "Wtp")
+    return wtp_factory(quiet=True, num_threads=1)
 
 
 def _load_wiki_context(
@@ -289,7 +290,8 @@ def _pandoc_path() -> str:
     """Find Pandoc bundled by pypandoc-binary or installed on PATH."""
     try:
         pypandoc = importlib.import_module("pypandoc")
-        return str(pypandoc.get_pandoc_path())
+        get_pandoc_path = getattr(pypandoc, "get_pandoc_path")
+        return str(get_pandoc_path())
     except (ImportError, OSError, RuntimeError):
         binary = shutil.which("pandoc")
         if binary is None:
@@ -499,8 +501,11 @@ def export_dump_to_markdown(
     """Convert a dump into linked Markdown files using the audited filename map."""
     title_to_filename = load_filename_mapping(mapping_path)
     renderer = importlib.import_module("pipeline.wiki_to_html")
+    load_infobox_defs = getattr(renderer, "load_infobox_defs")
+    preprocess = getattr(renderer, "prepass")
+    postprocess = getattr(renderer, "postexpand")
     context, articles, redirects = _load_wiki_context(dump_path)
-    infobox_defs = renderer.load_infobox_defs(context)
+    infobox_defs = load_infobox_defs(context)
 
     article_titles = {normalize_title(page.title) for page in articles}
     missing_mappings = sorted(article_titles - title_to_filename.keys())
@@ -540,7 +545,7 @@ def export_dump_to_markdown(
 
         if page.model == "wikitext":
             try:
-                expanded = renderer.prepass(
+                expanded = preprocess(
                     page.text, context, infobox_defs, page.title, stats
                 )
                 context.start_page(page.title)
@@ -550,7 +555,7 @@ def export_dump_to_markdown(
                 expansion_error = str(exc)[:300]
 
         try:
-            expanded = renderer.postexpand(expanded, categories, stats)
+            expanded = postprocess(expanded, categories, stats)
             categories = sorted(set(categories), key=str.casefold)
             categories_seen.update(categories)
             html_fragment = _run_pandoc(pandoc, expanded, "mediawiki", "html")

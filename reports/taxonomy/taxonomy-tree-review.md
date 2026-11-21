@@ -1450,6 +1450,12 @@
 - [Trapping](https://thelongdark.fandom.com/wiki/Trapping)
 - [Warming Up](https://thelongdark.fandom.com/wiki/Warming_Up)
 
+### Tales
+
+- [Buried Echoes](https://thelongdark.fandom.com/wiki/Buried_Echoes)
+- [Signal Void](https://thelongdark.fandom.com/wiki/Signal_Void)
+- [Tales](https://thelongdark.fandom.com/wiki/Tales)
+
 ## 17. Collectibles
 
 > Documents, mementos, notes, photographs, recordings, and other discoverable collectibles.
@@ -2263,68 +2269,7 @@
 
 - [The Long Dark/Achievements](https://thelongdark.fandom.com/wiki/The_Long_Dark/Achievements)
 
-## 25. DLC
-
-> A cross-index of pages associated with downloadable content. A page listed here retains its primary home elsewhere in the taxonomy under Locations, Nature, Clothing & Climbing Gear, an inventory group, Gameplay, Challenges, Achievements, or Archive; this section does not replace those classifications.
-
-- [Aviator Cap](https://thelongdark.fandom.com/wiki/Aviator_Cap)
-- [Barb's Rifle](https://thelongdark.fandom.com/wiki/Barb's_Rifle)
-- [Broth](https://thelongdark.fandom.com/wiki/Broth)
-- [Buried Echoes](https://thelongdark.fandom.com/wiki/Buried_Echoes)
-- [Canned Corn](https://thelongdark.fandom.com/wiki/Canned_Corn)
-- [Canned Ham](https://thelongdark.fandom.com/wiki/Canned_Ham)
-- [Carrot](https://thelongdark.fandom.com/wiki/Carrot)
-- [Chemical Boots](https://thelongdark.fandom.com/wiki/Chemical_Boots)
-- [Chemical Hazard](https://thelongdark.fandom.com/wiki/Chemical_Hazard)
-- [Chemical Poisoning](https://thelongdark.fandom.com/wiki/Chemical_Poisoning)
-- [Cooking Oil](https://thelongdark.fandom.com/wiki/Cooking_Oil)
-- [Cougar Hide Wrap](https://thelongdark.fandom.com/wiki/Cougar_Hide_Wrap)
-- [Curator's Rifle](https://thelongdark.fandom.com/wiki/Curator's_Rifle)
-- [Far Range Branch Line](https://thelongdark.fandom.com/wiki/Far_Range_Branch_Line)
-- [Flight Jacket](https://thelongdark.fandom.com/wiki/Flight_Jacket)
-- [Foreman's Tool Belt](https://thelongdark.fandom.com/wiki/Foreman's_Tool_Belt)
-- [Forester's Revolver](https://thelongdark.fandom.com/wiki/Forester's_Revolver)
-- [Forsaken Airfield](https://thelongdark.fandom.com/wiki/Forsaken_Airfield)
-- [Glimmer Fog](https://thelongdark.fandom.com/wiki/Glimmer_Fog)
-- [Gold Nugget](https://thelongdark.fandom.com/wiki/Gold_Nugget)
-- [Handheld Shortwave Radio](https://thelongdark.fandom.com/wiki/Handheld_Shortwave_Radio)
-- [Hockey Jersey](https://thelongdark.fandom.com/wiki/Hockey_Jersey)
-- [Hunter's Revolver](https://thelongdark.fandom.com/wiki/Hunter's_Revolver)
-- [Improvised Down Bedroll](https://thelongdark.fandom.com/wiki/Improvised_Down_Bedroll)
-- [Improvised Insulation](https://thelongdark.fandom.com/wiki/Improvised_Insulation)
-- [Insomnia](https://thelongdark.fandom.com/wiki/Insomnia)
-- [Iron Road](https://thelongdark.fandom.com/wiki/Iron_Road)
-- [Miner's Flashlight](https://thelongdark.fandom.com/wiki/Miner's_Flashlight)
-- [Miner's Jacket](https://thelongdark.fandom.com/wiki/Miner's_Jacket)
-- [Miner's Pants](https://thelongdark.fandom.com/wiki/Miner's_Pants)
-- [Old Mill Flour](https://thelongdark.fandom.com/wiki/Old_Mill_Flour)
-- [Poisoned Wolf](https://thelongdark.fandom.com/wiki/Poisoned_Wolf)
-- [Ptarmigan](https://thelongdark.fandom.com/wiki/Ptarmigan)
-- [Ptarmigan (Cooked)](https://thelongdark.fandom.com/wiki/Ptarmigan_(Cooked))
-- [Ptarmigan (Raw)](https://thelongdark.fandom.com/wiki/Ptarmigan_(Raw))
-- [Ptarmigan Down](https://thelongdark.fandom.com/wiki/Ptarmigan_Down)
-- [Replacement Fuse](https://thelongdark.fandom.com/wiki/Replacement_Fuse)
-- [Running River Oats](https://thelongdark.fandom.com/wiki/Running_River_Oats)
-- [Salt](https://thelongdark.fandom.com/wiki/Salt)
-- [Security Chief's Rifle Holster](https://thelongdark.fandom.com/wiki/Security_Chief's_Rifle_Holster)
-- [Signal Void](https://thelongdark.fandom.com/wiki/Signal_Void)
-- [Spelunker's Lantern](https://thelongdark.fandom.com/wiki/Spelunker's_Lantern)
-- [Sport Bow](https://thelongdark.fandom.com/wiki/Sport_Bow)
-- [Supply Cache](https://thelongdark.fandom.com/wiki/Supply_Cache)
-- [Tales](https://thelongdark.fandom.com/wiki/Tales)
-- [Tales from the Far Territory](https://thelongdark.fandom.com/wiki/Tales_from_the_Far_Territory)
-- [Technical Balaclava](https://thelongdark.fandom.com/wiki/Technical_Balaclava)
-- [Transfer Pass](https://thelongdark.fandom.com/wiki/Transfer_Pass)
-- [Transmitters](https://thelongdark.fandom.com/wiki/Transmitters)
-- [Vaughn's Rifle](https://thelongdark.fandom.com/wiki/Vaughn's_Rifle)
-- [Warden's Revolver](https://thelongdark.fandom.com/wiki/Warden's_Revolver)
-- [Wires](https://thelongdark.fandom.com/wiki/Wires)
-- [Wolfskin Hat](https://thelongdark.fandom.com/wiki/Wolfskin_Hat)
-- [Wolfskin Pants](https://thelongdark.fandom.com/wiki/Wolfskin_Pants)
-- [Woodwright's Bow](https://thelongdark.fandom.com/wiki/Woodwright's_Bow)
-- [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination)
-
-## 26. Archive
+## 25. Archive
 
 > Pages retained for historical, legacy, or story-reference purposes that are not part of the main navigational taxonomy. Archived pages remain linked and are not deleted.
 
@@ -2463,6 +2408,7 @@
 - [Hand-Powered Milling Tool](https://thelongdark.fandom.com/wiki/Hand-Powered_Milling_Tool)
 - [Hinterland Studio Inc.](https://thelongdark.fandom.com/wiki/Hinterland_Studio_Inc.)
 - [Hunter's Blind (disambiguation)](https://thelongdark.fandom.com/wiki/Hunter's_Blind_(disambiguation))
+- [Iron Road](https://thelongdark.fandom.com/wiki/Iron_Road)
 - [Jeremiah's Bearskin Coat](https://thelongdark.fandom.com/wiki/Jeremiah's_Bearskin_Coat)
 - [Kerosene](https://thelongdark.fandom.com/wiki/Kerosene)
 - [Locations](https://thelongdark.fandom.com/wiki/Locations)
@@ -2475,6 +2421,7 @@
 - [Region](https://thelongdark.fandom.com/wiki/Region)
 - [Roads](https://thelongdark.fandom.com/wiki/Roads)
 - [Soda (disambiguation)](https://thelongdark.fandom.com/wiki/Soda_(disambiguation))
+- [Tales from the Far Territory](https://thelongdark.fandom.com/wiki/Tales_from_the_Far_Territory)
 - [The Long Dark](https://thelongdark.fandom.com/wiki/The_Long_Dark)
 - [The Long Dark Original Soundtrack](https://thelongdark.fandom.com/wiki/The_Long_Dark_Original_Soundtrack)
 - [The Long Dark Wiki](https://thelongdark.fandom.com/wiki/The_Long_Dark_Wiki)
@@ -2490,7 +2437,7 @@
 ## Notes on this draft
 
 - This is a review tree, not an automatic conversion plan. Source categories remain provenance metadata.
-- Each article appears once in the primary groups. The DLC cross-index intentionally repeats pages.
+- Each article appears once in the primary groups.
 - Location subheadings use the existing `Locations in …` memberships as a suggestion. Pages that do not belong to a single region, including recurring structure types, are listed once under Other locations.
 - The template analyzer reports potential transcluded memberships, but does not yet provide a fully evaluated MediaWiki expansion. Those memberships are not used to guess primary placement here.
 - Page names are preserved exactly as in the source report. URL spaces are converted to underscores and special characters are URL-encoded.

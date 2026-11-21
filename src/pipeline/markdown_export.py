@@ -16,7 +16,7 @@ import unicodedata
 import urllib.parse
 from dataclasses import dataclass
 from pathlib import Path
-from typing import TYPE_CHECKING, Any, TypedDict, cast
+from typing import TYPE_CHECKING, TypedDict, cast
 
 import defusedxml.ElementTree as SafeET
 from lxml import etree
@@ -24,6 +24,7 @@ from lxml import html as lhtml
 
 if TYPE_CHECKING:
     from collections.abc import Iterator
+    from typing import Any
     from xml.etree.ElementTree import Element
 
 

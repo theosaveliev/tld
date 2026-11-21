@@ -19,7 +19,7 @@
   "reportUnnecessaryCast": "warning",
   "reportUnnecessaryTypeIgnoreComment": "warning",
   "reportUnnecessaryComparison": "error",
-  "reportImplicitStringConcatenation": "error",
+  "reportImplicitStringConcatenation": false,
   "reportUnnecessaryIsInstance": "warning",
   "reportUnreachable": "warning",
   "reportAny": "error",

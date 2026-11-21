@@ -509,6 +509,51 @@ def test_html_fragment_to_markdown_converts_wikitext_strong_markers() -> None:
     assert r"**gear\_hardwood**" in markdown
 
 
+def test_html_strong_formatting_handles_blank_lines_from_breaks() -> None:
+    fragment = """<p><strong>First statement.<br/><br/>Second statement.</strong></p>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "**First statement.**" in markdown
+    assert "**Second statement.**" in markdown
+    assert "**First statement.  \n  \nSecond statement.**" not in markdown
+
+
+def test_page_markdown_strips_wikitext_table_row_artifacts() -> None:
+    body = r"**Item type:** [Collectibles](./Collectibles.md)\|-"
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert r"\|-" not in markdown
+    assert "**Item type:** [Collectibles](./Collectibles.md)" in markdown
+
+
+def test_page_markdown_removes_empty_sections_and_contents_links() -> None:
+    body = """**Contents**
+
+- [Overview](#overview)
+- [Products](#products)
+- [Update history](#update-history)
+
+## Overview
+
+Overview text.
+
+## Products
+
+## Update history
+
+Version added.
+"""
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "## Overview" in markdown
+    assert "## Products" not in markdown
+    assert "- [Products](#products)" not in markdown
+    assert "## Update history" in markdown
+
+
 def test_page_markdown_normalizes_strong_underscores() -> None:
     markdown = _page_markdown("Sample", [], "__Bold text__", None)
 

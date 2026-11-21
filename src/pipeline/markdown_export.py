@@ -1174,7 +1174,9 @@ def _expand_page(
     preprocess: PreprocessFunction,
     infobox_defs: Mapping[str, object],
     stats: RenderStats,
-    material_usage_index: dict[str, list[tuple[str, str, list[tuple[str, str]]]]] | None = None,
+    material_usage_index: dict[
+        str, list[tuple[str, str, list[tuple[str, str]]]]
+    ] | None = None,
 ) -> tuple[str, str, int]:
     """Expand one page, retaining its source and recording expansion failures."""
     expanded = page.text
@@ -2158,7 +2160,9 @@ def _export_one_page(
     missing_images: set[str],
     categories_seen: set[str],
     source_url: str | None,
-    material_usage_index: dict[str, list[tuple[str, str, list[tuple[str, str]]]]] | None = None,
+    material_usage_index: dict[
+        str, list[tuple[str, str, list[tuple[str, str]]]]
+    ] | None = None,
 ) -> tuple[PageExportResult, int, int]:
     """Expand and convert one article, recovering gracefully from parser failures."""
     filename = title_to_filename[normalize_title(page.title)]

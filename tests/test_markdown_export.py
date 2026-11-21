@@ -502,7 +502,7 @@ def test_image_bearing_layout_table_renders_images_and_quote_as_blocks(
 def test_html_fragment_to_markdown_converts_wikitext_strong_markers() -> None:
     markdown = _html_fragment_to_markdown(
         "<p>__Full wool head covering with holes for the eyes.__ "
-        "and __gear_hardwood__</p>"
+        + "and __gear_hardwood__</p>"
     )
 
     assert "**Full wool head covering with holes for the eyes.**" in markdown

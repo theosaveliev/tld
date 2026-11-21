@@ -7,8 +7,8 @@ from pipeline.markdown_export import (
     DumpPage,
     _iter_dump_pages,  # pyright: ignore[reportPrivateUsage]
     _markdown_label,  # pyright: ignore[reportPrivateUsage]
-    _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
     _portable_asset_name,  # pyright: ignore[reportPrivateUsage]
+    _rewrite_html_links,  # pyright: ignore[reportPrivateUsage]
     load_filename_mapping,
     normalize_image_name,
     normalize_title,

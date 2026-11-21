@@ -1,0 +1,205 @@
+---
+title: "The Detonators/Transcript"
+wiki_namespace: 0
+source: "https://thelongdark.fandom.com/wiki/The_Detonators%2FTranscript"
+---
+
+# The Detonators/Transcript
+
+<div>
+
+<table class="infobox">
+<caption>The Detonators/Transcript</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><figure>
+<img src="../assets/The_Detonators.png" loading="lazy" width="250" />
+<figcaption>The_Detonators.png</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td><p>Episode</p></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" class="section"><p><strong>Missions</strong></p></td>
+</tr>
+<tr>
+<td><p>Previous</p></td>
+<td><p><a href="./The%20Power%20Plant%20%E2%80%94%20Transcript.md" class="wikilink" title="The Power Plant/Transcript">The Power Plant/Transcript</a></p></td>
+</tr>
+<tr>
+<td><p>Current</p></td>
+<td><p>The Detonators/Transcript</p></td>
+</tr>
+<tr>
+<td><p>Next</p></td>
+<td><p><a href="./Donner%20%28mission%29%20%E2%80%94%20Transcript.md" class="wikilink" title="Donner (mission)/Transcript">Donner (mission)/Transcript</a></p></td>
+</tr>
+<tr>
+<td><p>Region</p></td>
+<td><p><a href="./Blackrock.md" class="wikilink" title="Blackrock Region">Blackrock Region</a></p></td>
+</tr>
+<tr>
+<td><p>Characters</p></td>
+<td><p><a href="./Will%20Mackenzie.md" class="wikilink" title="Will Mackenzie">Will Mackenzie</a><br />
+<a href="./Mathis.md" class="wikilink" title="Mathis">Mathis</a><br />
+<a href="./Vachon.md" class="wikilink" title="Vachon">Vachon</a><br />
+<a href="./Heller.md" class="wikilink" title="Heller">Heller</a><br />
+<a href="./Jace.md" class="wikilink" title="Jace">Jace</a></p></td>
+</tr>
+</tbody>
+</table>
+
+This is the transcript for Chapter 3 <a href="./The%20Detonators.md" class="wikilink" title="The Detonators">The Detonators</a> for <a href="./Episode%204%20-%20Fury%2C%20Then%20Silence.md" class="wikilink" title="Episode 4: Fury, Then Silence">Episode 4: Fury, Then Silence</a>.
+
+CHAPTER THREE
+
+THE DETONATORS
+
+## Reach the mine entrance.
+
+*Mackenzie appears outside of the front steps to the Prison at dawn, at the start of a blizzard*
+
+Mackenzie: "What a blizzard. I won't be much use to Franklin if I get killed."
+
+*He runs back to the <a href="./Contraband%20Storage.md" class="wikilink" title="Contraband Storage">Contraband Storage</a> and grabs his gear, then waits it out as the sun rises. After it clears, he heads up the road to the old mine, and finds <a href="./Mule%20Bridge.md" class="wikilink" title="Mule Bridge">Mule Bridge</a> and crosses it, entering <a href="./Last%20Prospect.md" class="wikilink" title="Last Prospect">Last Prospect</a>*
+
+Mackenzie: "Ok. Where are those detonators?"
+
+*Light earthquakes occasionally rock the mine as Mackenzie delves deeper. A path across from him is boarded up so he turns around and chooses the other pathway into the mine. He eventually finds an elevator and goes to floor 3, finding the air filled with toxic gas*
+
+Mackenzie: "Gotta get some fresh air in here."
+
+*He dives into the gas and finds a <a href="./Valve%20Socket%20Handle.md" class="wikilink" title="Valve Socket Handle">Valve Socket Handle</a>, turning a valve as fresh air is pumped into the area clearing the gas*
+
+Mackenzie: "Clean air..."
+
+*He takes the handle and continues down the path, opening another valve. The handle remains stuck to the valve after use.*
+
+Mackenzie: "Won't be able to move that again..."
+
+*If the player tries to remove the handle, it won't come off*
+
+- Mackenzie: "Damn it, it's stuck."
+- Mackenzie: "Stuck."
+- Mackenzie: "Damn it! Won't budge."
+- Mackenzie: "Won't turn at all."
+
+*He turns to try and open a door, but it is locked. He eventually braves the toxic gas down the hall and finds a dead Forest Talker with a key and another valve handle, in a pocket of clean air.*
+
+Mackenzie: "An air pocket, ah."
+
+*He returns and unlocks the door that goes deeper into the mine.*
+
+Mackenzie: "This has to be the way..."
+
+*He braves another corridor filled with earthquakes and toxic mine gas, and finds another elevator and takes it to floor 2. He steps off and finds a fenced off area with a locked gate*
+
+Mackenzie: "Hmm...locked."
+
+*Mackenzie walks around and sees a red toolbox holding the <a href="./Detonators.md" class="wikilink" title="Detonators">Detonators</a>. He walks across a beam over a pit, and picks them up*
+
+Mackenzie: "That's what I'm looking for."
+
+*Mackenzie then finds a pair of <a href="./Bolt%20Cutters.md" class="wikilink" title="Bolt Cutters">Bolt Cutters</a> to cut the locked fence gate open and uses the elevator to go back up to level 1. He heads for the entrance after cutting through another locked gate and almost leaves the mine until he hears a ringing phone, and answers it*
+
+<a href="./Jace.md" class="wikilink" title="Jace">Jace</a>: "So, how'd it all work out?"
+
+Mackenzie: "Hello again. Well...I managed to sabotage the locking mechanism. But that won't change much. Mathis found dynamite. And soon...thanks to me, he'll have detonators too. He plans to blast through solitary and get Donner out that way."
+
+Jace: "Shit. Time for the nuclear option."
+
+Mackenzie: "But, I thought you said you didn't have a..."
+
+Jace: "Relax, Mack. Figure of speech, right?"
+
+Mackenzie: "What are you gonna do?"
+
+Jace: "We're out of time. I've been gone for too long. Atwood's gonna be pissed."
+
+Mackenzie: "Wa...what did you say?"
+
+Jace: "Huh? Nothing. Just that we're running out of time."
+
+Mackenzie: "No, no...after that."
+
+Jace: "Oh right...just...my thesis advisor. She's the only reason I'm out here at all, Mackenzie. I'm a grad student. Astrophysics."
+
+Mackenzie: "So..."
+
+Jace: "So, it just so happens that this part of Great Bear offers one of the best unconcluded zones...ideal for setting up sensitive instruments for my research so that..."
+
+Mackenzie: "I have to see her."
+
+Jace: "You have to see...my thesis advisor? You aren't making any sense, Mackenzie."
+
+Mackenzie: "It'll take too long to explain. We need to get out of here and get to Atwood, as soon as possible."
+
+Jace: "O...ok. How do you know about her? And what about Mathis? And Donner? If they make it out, there's a good chance they end up finding Atwood. And that's a big part of what I'm trying to prevent."
+
+Mackenzie: "Where is she?"
+
+Jace: "The <a href="./Suzuki%20Radio%20Telescope.md" class="wikilink" title="Suzuki Radio Telescope">Suzuki Radio Telescope</a>. It's...about 15-20 clicks from here. That's where I was headed when my car stopped working. I've been living there, doing research, for months. Alongside Dr. Atwood. Mackenzie, if the convicts find out about the radio telescope...it'll be bad. It's an old government facility, so there's all kinds of supplies there... food, medical equipment, vehicles. Radios. They could hunker down for weeks, months. It'd make a hell of a base of operations for all manner of evil shit they might get up to. They could...prey upon everyone within 100 clicks. Blackrock is a fortress, but it's broken. It's been broken by the aurora and everything else that's been going on right now."
+
+Mackenzie: "But what the hell is going on right now?"
+
+Jace: "I'm not a hundred percent sure. But, astrophysically speaking..."
+
+Mackenzie: "Yeah?"
+
+Jace: "It's pretty messed up. Look, Suzuki is shielded. Due to the kind of work they do there. It's shielded from electromagnetic radiation. There's a good chance that all the shit that's been going on out here...that it hasn't been affected in the same way."
+
+Mackenzie: "Which means?"
+
+Jace: "It means, Suzuki may be the key."
+
+Mackenzie: "So, how do we get out of here, and stop Mathis and Donner at the same time?"
+
+Jace: "I'm...not sure. But I have an idea. Just...buy me some time."
+
+Mackenzie: "I'll do what I can."
+
+Jace: "Good luck to us both, Mackenzie."
+
+*As Mackenzie tries to leave to go back to Mule Bridge, a massive earthquake hits the mine, far worse than the light earthquakes from before,*
+
+Mackenzie: "Oh...shi....."
+
+*The rocks in the ceiling above him cave in, burying him and knocking him out. He wakes up pushing a rock out of the way and sees mine entrance is blocked*
+
+Mackenzie: "There's no going back that way."
+
+*He turns around to see the lights in the mine are on, with sparks flying from wires. The aurora is back, and he has been knocked out until night. Another exit to the mine is present across from him and has been broken open by the earthquake, so he steps outside. Attempting to go back to Mule Bridge, the path is blocked by a massive landslide, so Mackenzie goes the other way, having to rope climb his way back down the mountain to get to the Prison. When he gets to the front doors of the Prison, Mathis, Vachon, and Heller come out to greet him*
+
+Mathis: "So, pilot. Did you finish the job?"
+
+Mackenzie: "I found the detonators."
+
+*Mackenzie throws the bag at the feet of Vachon.*
+
+Mathis: "Well I guess the Warden was telling the truth after all."
+
+*Vachon picks up the bag and hands it to Mathis, who holds it like a prize*
+
+Mackenzie: "Now what?"
+
+Mathis: "Now, we blow a hole in the wall. But first, let's you and I have a little chat."
+
+*Mathis gestures to Heller and Vachon, who come over and grab Mackenzie and start dragging him inside*
+
+Mackenzie: "He...hey. Mathis. I did everything you asked."
+
+Mathis: "Oh, I know, pilot. You've been a good dog. But every dog has its day."
+
+Mackenzie: "Woah...wait, fellas..."
+
+*Mackenzie is dragged into the prison, and the scene ends*
+
+The story continues in <a href="./Donner%20%28mission%29%20%E2%80%94%20Transcript.md" class="wikilink" title="Donner (mission)/Transcript">Donner (mission)/Transcript</a>. **Lua execution error in Module:Navbox function navbox**
+
+</div>

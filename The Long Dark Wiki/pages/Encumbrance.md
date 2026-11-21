@@ -1,0 +1,307 @@
+---
+title: "Encumbrance"
+wiki_namespace: 0
+categories: ["Gameplay"]
+source: "https://thelongdark.fandom.com/wiki/Encumbrance"
+---
+
+# Encumbrance
+
+<div>
+
+**Contents**
+
+- [Mechanics](#Mechanics)
+- [Baseline Capacity and Increasing Carry Capacity](#Baseline_Capacity_and_Increasing_Carry_Capacity)
+- [Decreasing Carrying Capacity](#Decreasing_Carrying_Capacity)
+- [Movement Thresholds](#Movement_Thresholds)
+- [Carry Weight Over-Encumbrance](#Carry_Weight_Over-Encumbrance)
+- [Wind and Terrain](#Wind_and_Terrain)
+- [Travois](#Travois)
+- [Strategy](#Strategy)
+- [Character quotes](#Character_quotes)
+
+<span class="thumb"><img src="../assets/Weight_icon.png" loading="lazy" width="220" /></span> **Encumbrance** is a player statistic that represents the total amount of weight the player can carry and how it effects their movement speed in the world.
+
+Players can see the total weight of the items they are carrying on the Backpack screen from the Status <a href="./Survival%20Menu.md" class="wikilink" title="Survival Menu">Survival Menu</a>. This will include items they have equipped as well as those carried in the inventory. The Backpack screen truncates the amount of weight to two decimal places.
+
+## Mechanics
+
+### Baseline Capacity and Increasing Carry Capacity
+
+The player's normal carrying capacity starts at 30 kg (66 lb). This baseline can be increased by:
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr>
+<th><p>Image</p></th>
+<th><p>Name</p></th>
+<th><p>Carrying capacity increase</p></th>
+<th><p>Requirments</p></th>
+<th><p>Expires</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><figure>
+<img src="../assets/Moose-Hide_Satchel_icon.png" loading="lazy" width="64" />
+<figcaption>Moose-Hide_Satchel_icon.png</figcaption>
+</figure></td>
+<td><p><a href="./Moose-Hide%20Satchel.md" class="wikilink" title="Moose-Hide Satchel">Moose-Hide Satchel</a></p></td>
+<td><p>5.00 kg<br />
+<span class="small">(11 lb)</span></p></td>
+<td><p>Wear Satchel</p></td>
+<td><p>Satchel is taken off or ruined</p></td>
+</tr>
+<tr>
+<td><figure>
+<img src="../assets/Well_Fed_icon.png" loading="lazy" width="64" height="64" />
+<figcaption>Well_fed_icon.png</figcaption>
+</figure></td>
+<td><p><a href="./Well%20Fed.md" class="wikilink" title="Well Fed">Well Fed</a></p></td>
+<td><p>5.00 kg<br />
+<span class="small">(11 lb)</span></p></td>
+<td><p>Avoid starvation for 72 hours</p></td>
+<td><p>When Calorie Store reaches 0</p></td>
+</tr>
+<tr>
+<td><figure>
+<img src="../assets/Technical_Backpack_icon.png" loading="lazy" width="60" height="60" />
+<figcaption>Technical_Backpack_icon.png</figcaption>
+</figure></td>
+<td><p><a href="./Technical%20Backpack.md" class="wikilink" title="Technical Backpack">Technical Backpack</a></p></td>
+<td><p>5.00 kg<br />
+<span class="small">(11 lb)</span></p></td>
+<td><p>Acquire Backpack</p></td>
+<td><p>Never</p></td>
+</tr>
+<tr>
+<td><figure>
+<span>[Missing image: Unburdened_icon.png]</span>
+<figcaption>Unburdened_icon.png</figcaption>
+</figure></td>
+<td><p><a href="./Unburdened.md" class="wikilink" title="Unburdened">Unburdened</a></p></td>
+<td><p>3.00 kg<br />
+<span class="small">(6.6 lb)</span></p></td>
+<td><p>Consume: <img src="../assets/Ptarmigan_Pie_icon.png" loading="lazy" width="29" height="29" alt="Ptarmigan_Pie_icon.png" /> <a href="./Ptarmigan%20Pie.md" class="wikilink" title="Ptarmigan Pie">Ptarmigan Pie</a><img src="../assets/Rabbit_Pie_icon.png" loading="lazy" width="29" height="29" alt="Rabbit_Pie_icon.png" /> <a href="./Rabbit%20Pie.md" class="wikilink" title="Rabbit Pie">Rabbit Pie</a><img src="../assets/Venison_Pie_icon.png" loading="lazy" width="29" height="29" alt="Venison_Pie_icon.png" /> <a href="./Venison%20Pie.md" class="wikilink" title="Venison Pie">Venison Pie</a><img src="../assets/Porter%27s_Soup_icon.png" loading="lazy" width="29" height="29" alt="Porter&#39;s_Soup_icon.png" /> <a href="./Porter%27s%20Soup.md" class="wikilink" title="Porter&#39;s Soup">Porter's Soup</a><img src="../assets/Pemmican_Bar_icon.png" loading="lazy" width="29" height="29" alt="Pemmican_Bar_icon.png" /> <a href="./Pemmican%20Bar.md" class="wikilink" title="Pemmican Bar">Pemmican Bar</a></p></td>
+<td><p>3 hours</p></td>
+</tr>
+<tr>
+<td><figure>
+<span>[Missing image: Travois_concept.jpg]</span>
+<figcaption>Travois_concept.jpg</figcaption>
+</figure></td>
+<td><p><a href="./Travois.md" class="wikilink" title="Travois">Travois</a></p></td>
+<td><p>75.00 kg<br />
+<span class="small">(165 lb)</span></p></td>
+<td><p>Carry Travois</p></td>
+<td><p>When put down</p></td>
+</tr>
+</tbody>
+</table>
+
+These effects can be stacked, meaning that the player can increase their normal carrying capacity by up to 15 kg (33 lb). However, since there is a limit to how many satchels/backpacks the player can equip (only one of each can be equipped at a time), 45 kg (99 lb) is the highest-possible carrying capacity in the base game.
+
+If <a href="./Tales%20from%20the%20Far%20Territory.md" class="wikilink" title="Tales from the Far Territory">Tales from the Far Territory</a> has been purchased, players can temporarily increase their normal carrying capacity by an extra 3 kg by achieving the <a href="./Unburdened.md" class="wikilink" title="Unburdened">Unburdened</a> Affliction, gained by eating <a href="./Ptarmigan%20Pie.md" class="wikilink" title="Ptarmigan Pie">Ptarmigan Pie</a>, <a href="./Rabbit%20Pie.md" class="wikilink" title="Rabbit Pie">Rabbit Pie</a>, or <a href="./Venison%20Pie.md" class="wikilink" title="Venison Pie">Venison Pie</a>. Unburdened only lasts for 3 hours but if all other ways to increase max carry weight are acquired, this extra 3 kg creates the highest-possible carrying capacity in-game at 48 kg (105 lb).
+
+Using a <a href="./Travois.md" class="wikilink" title="Travois">Travois</a> does not directly increase a player's carry weight, but it's capacity to carry up to 75 kg while also being dragged behind the player is a notable addition to the carry weight formula. Keep in mind that more weight on a Travois will slow the player down.
+
+### Decreasing Carrying Capacity
+
+The amount of weight the character is carrying increases the rate of <a href="./Fatigue.md" class="wikilink" title="Fatigue">Fatigue</a>. When Fatigue reaches 50%, the max carrying capacity will begin to decrease, slowly at first but the rate will rapidly increase as your Fatigue gets closer to 0%. Encumbrance penalties apply as normal as a survivor becomes more drained. Once the 'Exhausted' Fatigue state is reached, the max carry limit will be half the normal value (30 kg becomes 15 kg). The fatigue meter is primarily restored with <a href="./Sleep.md" class="wikilink" title="Sleep">Sleep</a>, and, once the player has regained at least 50% of their fatigue, (equivalent to 6 hours of sleep) the maximum carrying capacity is restored. <a href="./Cup%20of%20Coffee.md" class="wikilink" title="Coffee">Coffee</a> may also offer minor relief from a low fatigue meter.
+
+<a href="./Broken%20Ribs.md" class="wikilink" title="Broken Ribs">Broken Ribs</a> from a <a href="./Moose.md" class="wikilink" title="Moose">Moose</a> <a href="./Struggle.md" class="wikilink" title="Struggle">Struggle</a> will remove 25% of maximum carrying capacity until healed. <a href="./Scurvy.md" class="wikilink" title="Scurvy">Scurvy</a> will also weaken a survivor to the point where they will lose 5 kg of carrying capacity until healed. If the <a href="./Burdened.md" class="wikilink" title="Burdened">Burdened</a> Affliction is gained, then max carry capacity will be reduced by 3 kg for 1 hour.
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th><p>Image</p></th>
+<th><p>Name</p></th>
+<th><p>Carrying capacity increase</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><figure>
+<span>[Missing image: Fatigue_Reduced_icon.png]</span>
+<figcaption>Fatigue_Reduced_icon.png</figcaption>
+</figure></td>
+<td><p>Low <a href="./Fatigue.md" class="wikilink" title="Fatigue">Fatigue</a></p></td>
+<td><p>-0.01 kg to -15.00 kg<br />
+<span class="small">(0.02 - 33.09 lbs)</span></p></td>
+</tr>
+<tr>
+<td><figure>
+<span>[Missing image: Burdened_icon.png]</span>
+<figcaption>Burdened_icon.png</figcaption>
+</figure></td>
+<td><p><a href="./Burdened.md" class="wikilink" title="Burdened">Burdened</a></p></td>
+<td><p>-3.00 kg (-6.6 lb) for 1 hour</p></td>
+</tr>
+<tr>
+<td><figure>
+<span>[Missing image: Broken_Ribs_icon.png]</span>
+<figcaption>Broken_Ribs_icon.png</figcaption>
+</figure></td>
+<td><p><a href="./Broken%20Ribs.md" class="wikilink" title="Broken Ribs">Broken Ribs</a></p></td>
+<td><p>25% reduction until healed</p></td>
+</tr>
+<tr>
+<td><figure>
+<span>[Missing image: Scurvy_icon.png]</span>
+<figcaption>Scurvy_icon.png</figcaption>
+</figure></td>
+<td><p><a href="./Scurvy.md" class="wikilink" title="Scurvy">Scurvy</a></p></td>
+<td><p>-5 kg (-11 lb)</p></td>
+</tr>
+<tr>
+<td><figure>
+<span>[Missing image: Diminished_Form_icon.png]</span>
+<figcaption>Diminished_Form_icon.png</figcaption>
+</figure></td>
+<td><p><a href="./Diminished%20Form.md" class="wikilink" title="Diminished Form">Diminished Form</a></p></td>
+<td><p>permanent -5 kg (-11 lb)</p></td>
+</tr>
+</tbody>
+</table>
+
+## Movement Thresholds
+
+### Carry Weight Over-Encumbrance
+
+Detrimental effects to movement occur gradually relative to the amount of weight over capacity. There are certain thresholds that heavily affect movement speed, for example a player with exactly 9.99 kg (22.02 lbs) over capacity can still sprint, but a player with 10.00 kg over capacity cannot. Being more than 29.5 kg over capacity makes the player unable to move. Being aware of these thresholds is important to properly select the amount of loot you can carry.
+
+The baseline Carrying Weight for this example starts at 30/30kg. For every 1kg over Carry Weight, -3.3% movement penalty is applied.
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th><p>Carrying Capacity</p></th>
+<th><p>Movement Penalty</p></th>
+<th><p>Effect</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>30/30 kg</p></td>
+<td><p>0%</p></td>
+<td><p>The maximum weight a player can carry without penalty.</p>
+<p>The maximum weight for <a href="./Rope%20Climbing.md" class="wikilink" title="Rope Climbing">Rope Climbing</a>.</p></td>
+</tr>
+<tr>
+<td><p>31/30 kg</p></td>
+<td><p>-3.3%</p></td>
+<td><p>Slight slowdown. Player can no longer Rope Climb.</p>
+<p><a href="./Sprain%20Risk.md" class="wikilink" title="Sprain Risk">Sprain Risk</a> appears.</p></td>
+</tr>
+<tr>
+<td><p>40/30 kg</p></td>
+<td><p>-33.3%</p></td>
+<td><p>The player can no longer <a href="./Stamina.md" class="wikilink" title="Sprint">Sprint</a>.</p></td>
+</tr>
+<tr>
+<td><p>50/30 kg</p></td>
+<td><p>-66.6%</p></td>
+<td><p>The player's walking speed is significantly decreased to a crawl.</p></td>
+</tr>
+<tr>
+<td><p>60/30 kg</p></td>
+<td><p>-100%</p></td>
+<td><p>The player is completely immobile, and can no longer walk.</p></td>
+</tr>
+</tbody>
+</table>
+
+### Wind and Terrain
+
+Harsh winds and the terrain directly effect a player's movement as they traverse the world, slowing or speeding the player when encountered. Note that the Celestial Navigator <a href="./Feats.md" class="wikilink" title="Feat">Feat</a> adds a 10% bonus walking speed during a clear night or aurora.
+
+Do note that light winds currently slow down the player more than heavy winds do, likely due to a bug.
+
+| Terrain        | Max Bonus    | Max Penalty  |
+|----------------|--------------|--------------|
+| Roads[^1]      | 15%          | 0%           |
+| Slopes         | -100%        | -20%         |
+| Heavy Wind[^2] | 20%          | 50%          |
+| Indoors[^3]    | 0% (Outside) | 33% (Inside) |
+| Blizzard[^4]   | 0%           | 0%           |
+| Crab Walk[^5]  | 3-21%        | 0            |
+| Sprinting      | 45%          | 0            |
+
+### Travois
+
+The <a href="./Travois.md" class="wikilink" title="Travois">Travois</a> will apply a penalty to the player's movement speed when dragged behind them. This penalty increases as more items are added to the satchel. Putting items into the Travois instead of carrying them on player's person is always the better choice, as it does not slow the player down as much.
+
+| Maximum weight  | Movement Penalty |
+|-----------------|------------------|
+| 0/75 kilograms  | 0%               |
+| 25/75 kilograms | -4.9%            |
+| 50/75 kilograms | -19.2%           |
+| 75/75 kilograms | -50.3%           |
+
+## Strategy
+
+It is very easy to exceed your carry capacity in The Long Dark, especially on more loot-rich game modes such as Voyageur or Pilgrim. A well equipped character carrying minimum reserves of food and firewood, a basic assortment of tools and a weapon will almost automatically exceed the base capacity. It is hence not always desirable to stay within capacity. Especially when transporting greater amounts of loot, like after successfully hunting an animal, or when moving acquired loot out of a region, exceeding capacity often cannot be avoided.
+
+However, aware of this limitation, a player should carefully consider what equipment to bring, and what to leave behind at a shelter. This especially includes tools and weapons, as those usually weigh in very heavily, but also food and firewood. Even the selection of clothing can be put to question. Balancing the amount of equipment you deem useful against your desired mobility is a key strategic element of The Long Dark.
+
+- Within carry capacity: desirable, but with good equipment can be hard to achieve without adding to it with the Well Fed buff or the Moose-Hide Satchel.
+- Up to 5 kg (11 lbs) above capacity: adequate if <a href="./Rope%20Climbing.md" class="wikilink" title="Rope Climbing">Rope Climbing</a> is not on the player's route as the slow down is negligible. It is advisable to stay within this limit for tasks that require substantial mobility and carry reserves, such as exploring and looting part of a region.
+- 5 kg (11 lbs) to 10 kg (22 lbs) above capacity: generally acceptable as the amount of slow down is moderate, chances for sprains are still within reason, and sprinting for emergencies is still available. This is the sane maximum of equipment a player should bring for any task other than reallocating loot to a different shelter.
+- 10 kg (22 lbs) to 15 kg (33 lbs) above capacity: still within reason for hauling loot over relatively safe and open terrain, but the inability to sprint must be kept in mind to properly alter behavior towards predators.
+- 15 kg (33 lbs) to 20 kg (44 lbs) above capacity: generally inadvisable as the slow down is very pronounced, and even <a href="./Bear.md" class="wikilink" title="bear">bears</a> can no longer be escaped. At this point it is probably faster and definitively safer to take a route twice with considerably less weight.
+- More than 20 kg (44 lbs) above capacity: the player is so slow that dropping excess loot becomes inevitable. Highly dangerous, and in any case inefficient.
+
+## Character quotes
+
+- "This pack is gettin' kinda heavy!"
+- "This pack is getting too heavy to carry!"
+- "I might have to drop something."
+- "Not sure I can carry much more."
+- "MMMGH, somethin's gotta go."
+- "Feels like a lot of gear."
+- "I'm not going to be able to carry this load for much longer."
+
+Totally encumbered
+
+- "Too heavy, can't move."
+- "TOO, MUCH, TO CARRY!!!"
+
+**Lua execution error in Module:Navbox function navbox**
+
+<a href="ru:%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D1%81" class="wikilink" title="ru:Перевес">ru:Перевес</a> <a href="es:capacidad_de_carga" class="wikilink" title="es:capacidad de carga">es:capacidad de carga</a>
+
+<div id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+
+## Notes
+
+</div>
+
+</div>
+
+[^1]: Roads provide 50% walking speed boost compared to snow, concrete, or metal terrain.
+
+[^2]: Max Bonus & Penalty for Heavy Wind are applied when walking with or against oncoming winds respectively.
+
+[^3]: Stepping indoors (Back of a <a href="./Warm%20Cave.md" class="wikilink" title="Warm Cave">Warm Cave</a> or building interiors) slows the player down instantly
+
+[^4]: Blizzards do not slow the player down despite the raging windstorm, likely for balancing reasons.
+
+[^5]: Moving diagonally at a 45° angle increases movement by 3%, 50° angle by 21% (controller only), and using a controller emulator to hit both angles increases speeds by 42%.

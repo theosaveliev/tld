@@ -1448,9 +1448,8 @@ def _normalize_markdown_anchor_hrefs(root: lhtml.HtmlElement) -> None:
             continue
         decoded = urllib.parse.unquote(fragment)
         slug = heading_slugs.get(decoded)
-        if slug is None:
-            slug = _markdown_heading_slug(decoded)
-        link.set("href", path + "#" + slug)
+        if slug is not None:
+            link.set("href", path + "#" + slug)
 
 
 def _html_fragment_to_markdown(fragment: str) -> str:

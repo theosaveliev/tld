@@ -41,9 +41,12 @@ Open the workspace folder in Zettlr and start with `Index.md`. Article files
 include YAML front matter with the original wiki title, detected categories,
 and source URL. Article links are rewritten to the allocated local Markdown
 filenames, redirects resolve to their destination articles, and referenced
-images are copied into `assets/`. Templates are expanded with
-wikitextprocessor; calls to templates missing from the dump remain visible with
-their parameter values.
+images are copied into `assets/`. Alongside the primary `--image-dir`, the
+exporter searches a sibling directory named `<image-dir-name>_mismatch` for
+images not found in the primary directory; for the default `tld/images`, this
+uses `tld/images_mismatch`. Primary-directory matches take precedence.
+Templates are expanded with wikitextprocessor; calls to templates missing from
+the dump remain visible with their parameter values.
 
 The export checks that the mapping and XML dump contain the same set of
 main-namespace article titles. The conversion report records expansion or

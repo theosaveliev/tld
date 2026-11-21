@@ -56,9 +56,7 @@ def identity_preprocess(
     return text
 
 
-def identity_postprocess(
-    text: str, categories: list[str], stats: RenderStats
-) -> str:
+def identity_postprocess(text: str, categories: list[str], stats: RenderStats) -> str:
     """Return expanded text unchanged using the production callback signature."""
     _ = (categories, stats)
     return text
@@ -352,9 +350,7 @@ def test_export_retries_pandoc_after_closing_unterminated_wikitext_table(
     ) -> str:
         if source_format == "mediawiki":
             if "|}" not in text:
-                raise RuntimeError(
-                    "unexpected end of input at line 4, column 1"
-                )
+                raise RuntimeError("unexpected end of input at line 4, column 1")
             return "<p>Recovered article text</p>"
         assert (source_format, target_format) == ("html", "gfm")
         return "Recovered article text"
@@ -459,9 +455,7 @@ def test_export_renders_original_source_if_expanded_wikitext_stays_invalid(
             mediawiki_html_inputs.append(text)
             if text == "original source":
                 return "<p>Original source prose</p>"
-            raise RuntimeError(
-                "unexpected end of input at line 4, column 1"
-            )
+            raise RuntimeError("unexpected end of input at line 4, column 1")
         assert (source_format, target_format) == ("html", "gfm")
         return "Original source prose"
 

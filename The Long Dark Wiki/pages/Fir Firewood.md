@@ -8,7 +8,6 @@
 - [Fire Starting info](#fire-starting-info)
 - [Obtaining](#obtaining)
 - [Tips](#tips)
-- [Products](#products)
 - [Update history](#update-history)
 
 **Fir Firewood**
@@ -25,7 +24,7 @@ _Fir\_Firewood\_icon.png_
 
 **Properties**
 
-**Item type:** [Fire Starting](./Fire%20Starting.md)\|-
+**Item type:** [Fire Starting](./Fire%20Starting.md)
 
 **Stackable:** yes
 
@@ -71,8 +70,6 @@ Fir Firewood can be harvested from downed Fir Limbs found outdoors with a [tool]
 ## Tips
 
 Since a single piece of Fir Firewood has a fire duration of 1 hour and 30 minutes, so it's 90 min/kg is less efficient per weight than [Cedar Firewood](./Cedar%20Firewood.md) at 120 min/kg. However, Fir Firewood is more time-efficient to harvest compared to [Cedar Firewood](./Cedar%20Firewood.md), since each piece of Fir burns for 30 minutes longer. A small Fir Limb will burn for 4.5 hours(3 pieces of Fir) whereas a small [Cedar](./Cedar%20Firewood.md) Limb provides 3 hours of burn-time. This is specifically useful when the player decides to chop wood outside but has limited time to do so because of cold weather, maintaining [Fire](./Fire.md), etc.
-
-## Products
 
 ## Update history
 

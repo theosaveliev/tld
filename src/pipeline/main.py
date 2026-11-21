@@ -10,6 +10,7 @@ from pipeline.bfs import bfs, depth_histogram, render_json, render_text
 from pipeline.categories import build_category_report, write_category_report
 from pipeline.click_types import IN_PATH, OUT_PATH
 from pipeline.filename_audit import audit_dump
+from pipeline.markdown_export import export_dump_to_markdown
 from pipeline.links import LinkExtractor
 from pipeline.templates import (
     build_template_category_report,
@@ -217,3 +218,52 @@ def audit_filenames(
 
     if not report["issues"]:
         click.echo("No filename issues found.")
+
+@cli.command("export-markdown")
+@click.argument("wiki_dump", type=IN_PATH)
+@click.option(
+    "--mapping",
+    type=IN_PATH,
+    default=Path("reports/quality/filename-audit.json"),
+    show_default=True,
+    help="Audited title-to-filename mapping JSON.",
+)
+@click.option(
+    "--output-dir",
+    type=click.Path(file_okay=False, path_type=Path),
+    default=Path("The Long Dark Wiki"),
+    show_default=True,
+    help="Workspace directory to create or update.",
+)
+@click.option(
+    "--image-dir",
+    type=click.Path(file_okay=False, path_type=Path),
+    default=Path("tld/images"),
+    show_default=True,
+    help="WikiTeam images directory copied into the workspace.",
+)
+@click.option(
+    "--source-url",
+    default="https://thelongdark.fandom.com",
+    show_default=True,
+    help="Base URL recorded in each article's source metadata.",
+)
+def export_markdown(
+    wiki_dump: Path,
+    mapping: Path,
+    output_dir: Path,
+    image_dir: Path,
+    source_url: str,
+) -> None:
+    """Export main-namespace wiki articles into a linked Markdown workspace."""
+    report = export_dump_to_markdown(
+        wiki_dump,
+        mapping,
+        output_dir,
+        image_dir=image_dir,
+        source_url=source_url or None,
+    )
+    for name, value in report["summary"].items():
+        click.echo(f"{name}: {value}")
+    click.echo(f"Workspace written to {output_dir}")
+    click.echo(f"Start here: {output_dir / 'Index.md'}")

@@ -671,7 +671,7 @@ def _add_mediawiki_heading_ids(root: lhtml.HtmlElement) -> None:
 
     nav = cast(lhtml.HtmlElement, etree.Element("nav"))
     nav.set("class", "toc")
-    toc_heading = cast(lhtml.HtmlElement, etree.SubElement(nav, "strong"))
+    toc_heading = etree.SubElement(nav, "strong")
     toc_heading.text = "Contents"
     items = etree.SubElement(nav, "ul")
     for level, label, identifier in headings:

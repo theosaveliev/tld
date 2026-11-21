@@ -442,7 +442,8 @@ def _rewrite_anchor_nodes(
             continue
 
         raw = urllib.parse.unquote(href).lstrip(":")
-        if re.match(r"^(?:file|image|media)\\s*:", raw, re.IGNORECASE):
+        prefix, separator, _ = raw.partition(":")
+        if separator and prefix.casefold() in {"file", "image", "media"}:
             output_name = _copy_image(
                 raw,
                 image_index,

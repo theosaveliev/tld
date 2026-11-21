@@ -92,16 +92,16 @@ def _allocate_filenames(titles: list[str]) -> list[FilenameMapping]:
     for title in ordered_titles:
         original_filename = proposed[title]
         filename = original_filename
-        number = 2
 
-        while filename.casefold() in allocated:
-            filename = _filename_with_suffix(original_filename, number)
-            number += 1
-
-        # Reserve original names so generated suffixes cannot steal a real title.
-        while filename.casefold() in reserved and filename != original_filename:
-            filename = _filename_with_suffix(original_filename, number)
-            number += 1
+        if filename.casefold() in allocated:
+            number = 2
+            while True:
+                candidate = _filename_with_suffix(original_filename, number)
+                candidate_key = candidate.casefold()
+                if candidate_key not in allocated and candidate_key not in reserved:
+                    filename = candidate
+                    break
+                number += 1
 
         allocated.add(filename.casefold())
         mappings.append(

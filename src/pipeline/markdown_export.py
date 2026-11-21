@@ -16,20 +16,21 @@ import unicodedata
 import urllib.parse
 from dataclasses import dataclass
 from pathlib import Path
-from typing import TYPE_CHECKING, TypedDict, cast
+from typing import TYPE_CHECKING, Protocol, TypedDict, cast
 
 import defusedxml.ElementTree as SafeET
 from lxml import etree
 from lxml import html as lhtml
 
 if TYPE_CHECKING:
-    from collections.abc import Iterator
-    from typing import Any
+    from collections.abc import Callable, Iterator, Mapping
     from xml.etree.ElementTree import Element
 
 
 REDIRECT_RE = re.compile(r"\s*#redirect\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
 MAX_FILENAME_BYTES = 255
+INFOBOX_VALUE_CELL_COUNT = 2
+MINIMUM_HEADINGS_FOR_TOC = 4
 EXTERNAL_SCHEMES = frozenset({"ftp", "http", "https", "mailto", "tel"})
 LOCAL_WIKI_SCHEMES = frozenset(
     {"category", "file", "image", "media", "module", "special", "template"}
@@ -80,15 +81,63 @@ class DumpPage:
     redirect: str | None
 
 
+class RenderStats(TypedDict):
+    infoboxes: int
+    missing_templates: list[str]
+    infobox_left: int
+    missing_images: list[str]
+    redlinks: int
+    unrendered: int
+
+
+class WikiContext(Protocol):
+    """Methods used from wikitextprocessor's Wtp context."""
+
+    def add_page(self, model: str, title: str, text: str) -> object: ...
+
+    def analyze_templates(self) -> None: ...
+
+    def start_page(self, title: str) -> None: ...
+
+    def expand(self, text: str, timeout: int) -> str: ...
+
+
+class WtpFactory(Protocol):
+    """Callable constructor exposed by wikitextprocessor."""
+
+    def __call__(self, *, quiet: bool, num_threads: int) -> WikiContext: ...
+
+
+class PreprocessFunction(Protocol):
+    """Fandom preprocessing function signature."""
+
+    def __call__(
+        self,
+        text: str,
+        context: WikiContext,
+        infobox_defs: Mapping[str, object],
+        page_title: str,
+        stats: RenderStats,
+    ) -> str: ...
+
+
+class PostprocessFunction(Protocol):
+    """Fandom post-expansion function signature."""
+
+    def __call__(
+        self, text: str, categories: list[str], stats: RenderStats
+    ) -> str: ...
+
+
 class ExportState(TypedDict):
     title_to_filename: dict[str, str]
-    context: Any
+    context: WikiContext
     articles: list[DumpPage]
     redirects: dict[str, str]
     redirect_count: int
-    preprocess: Any
-    postprocess: Any
-    infobox_defs: Any
+    preprocess: PreprocessFunction
+    postprocess: PostprocessFunction
+    infobox_defs: Mapping[str, object]
     pandoc: str
     image_index: dict[str, Path]
     image_dir: Path | None
@@ -102,6 +151,7 @@ class ExportState(TypedDict):
     categories_seen: set[str]
     expansion_errors: int
     conversion_errors: int
+
 
 
 def normalize_title(title: str) -> str:
@@ -185,6 +235,28 @@ def _follow_redirects(
     return title, fragment
 
 
+def _resolve_page_destination(
+    raw_target: str,
+    fragment: str,
+    current_title: str,
+    title_to_filename: dict[str, str],
+    redirects: dict[str, str],
+) -> str | None:
+    """Resolve a local page target and preserve its section fragment."""
+    key = normalize_title(raw_target.lstrip(":"))
+    key, fragment = _follow_redirects(key, fragment, redirects)
+    filename = title_to_filename.get(key)
+    if filename is None:
+        return None
+
+    destination = "./" + _safe_destination(filename)
+    if key == normalize_title(current_title) and fragment:
+        destination = "#" + _safe_destination(fragment)
+    elif fragment:
+        destination += "#" + _safe_destination(fragment)
+    return destination
+
+
 def resolve_internal_href(
     href: str,
     current_title: str,
@@ -197,34 +269,32 @@ def resolve_internal_href(
     wiki links return None so the caller can retain their label.
     """
     if not href or href.startswith("//"):
-        return href
-    if href.startswith("#"):
+        destination = href
+    elif href.startswith("#"):
         fragment = urllib.parse.unquote(href[1:]).replace(" ", "_")
-        return "#" + _safe_destination(fragment)
-
-    parsed = urllib.parse.urlsplit(href)
-    scheme = parsed.scheme.casefold()
-    if _is_external_scheme(scheme):
-        return href
-
-    raw_path = parsed.path if not scheme else href
-    raw_target = urllib.parse.unquote(raw_path).strip()
-    raw_target = raw_target.removeprefix("./").removeprefix("/")
-    fragment = urllib.parse.unquote(parsed.fragment).replace(" ", "_")
-    if not raw_target:
-        return "#" + _safe_destination(fragment) if fragment else None
-
-    key = normalize_title(raw_target.lstrip(":"))
-    key, fragment = _follow_redirects(key, fragment, redirects)
-    filename = title_to_filename.get(key)
-    if filename is None:
-        return None
-
-    destination = "./" + _safe_destination(filename)
-    if key == normalize_title(current_title) and fragment:
-        return "#" + _safe_destination(fragment)
-    if fragment:
-        destination += "#" + _safe_destination(fragment)
+        destination = "#" + _safe_destination(fragment)
+    else:
+        parsed = urllib.parse.urlsplit(href)
+        scheme = parsed.scheme.casefold()
+        if _is_external_scheme(scheme):
+            destination = href
+        else:
+            raw_path = parsed.path if not scheme else href
+            raw_target = urllib.parse.unquote(raw_path).strip()
+            raw_target = raw_target.removeprefix("./").removeprefix("/")
+            fragment = urllib.parse.unquote(parsed.fragment).replace(" ", "_")
+            if not raw_target:
+                destination = (
+                    "#" + _safe_destination(fragment) if fragment else None
+                )
+            else:
+                destination = _resolve_page_destination(
+                    raw_target,
+                    fragment,
+                    current_title,
+                    title_to_filename,
+                    redirects,
+                )
     return destination
 
 
@@ -386,8 +456,8 @@ def _iter_dump_pages(path: Path) -> Iterator[DumpPage]:
 
 
 def _load_wiki_context(
-    dump_path: Path, wtp_factory: Any
-) -> tuple[Any, list[DumpPage], dict[str, str], int]:
+    dump_path: Path, wtp_factory: WtpFactory
+) -> tuple[WikiContext, list[DumpPage], dict[str, str], int]:
     """Load templates/modules and retain main-namespace article records."""
     context = wtp_factory(quiet=True, num_threads=1)
     articles: list[DumpPage] = []
@@ -419,7 +489,7 @@ def _pandoc_path() -> str:
         if binary is None:
             raise RuntimeError(
                 "Pandoc was not found. Install the project dependencies first."
-            )
+            ) from None
         return binary
 
 
@@ -499,11 +569,11 @@ def _copy_image(
     return output_name
 
 
-def _restore_infobox_headers(table: Any) -> None:
+def _restore_infobox_headers(table: etree._Element) -> None:
     """Turn infobox data cells into semantic table headers."""
     for row in table.iter("tr"):
         cells = [child for child in row if child.tag == "td"]
-        if len(cells) == 2:
+        if len(cells) == INFOBOX_VALUE_CELL_COUNT:
             cells[0].tag = "th"
         elif len(cells) == 1 and cells[0].get("colspan") == "2":
             paragraphs = [child for child in cells[0] if child.tag == "p"]
@@ -517,7 +587,7 @@ def _restore_infobox_headers(table: Any) -> None:
                 cells[0].set("class", "section")
 
 
-def _restore_generated_tables(root: Any) -> None:
+def _restore_generated_tables(root: etree._Element) -> None:
     """Restore infobox and gallery semantics tagged by the Fandom preprocessor."""
     for table in root.iter("table"):
         caption = table.find("caption")
@@ -535,7 +605,7 @@ def _restore_generated_tables(root: Any) -> None:
             _restore_infobox_headers(table)
 
 
-def _restore_thumbnail_captions(root: Any) -> None:
+def _restore_thumbnail_captions(root: etree._Element) -> None:
     """Turn XTHUMB image alt markers into visible figure or span captions."""
     for image in list(root.iter("img")):
         label = image.get("alt") or image.get("title") or ""
@@ -576,7 +646,7 @@ def _restore_thumbnail_captions(root: Any) -> None:
         wrapper.tail = old_tail
 
 
-def _add_mediawiki_heading_ids(root: Any) -> None:
+def _add_mediawiki_heading_ids(root: etree._Element) -> None:
     """Assign stable MediaWiki-style heading IDs and insert a compact TOC."""
     used: set[str] = set()
     headings: list[tuple[int, str, str]] = []
@@ -592,7 +662,7 @@ def _add_mediawiki_heading_ids(root: Any) -> None:
         heading.set("id", identifier)
         headings.append((int(heading.tag[1]), label, identifier))
 
-    if len(headings) < 4:
+    if len(headings) < MINIMUM_HEADINGS_FOR_TOC:
         return
 
     nav = etree.Element("nav")
@@ -609,7 +679,7 @@ def _add_mediawiki_heading_ids(root: Any) -> None:
     root.insert(0, nav)
 
 
-def _add_footnote_heading(root: Any) -> None:
+def _add_footnote_heading(root: etree._Element) -> None:
     """Add a Notes heading when Pandoc emits a footnotes section without one."""
     for section in root.iter("section", "aside"):
         if "footnotes" not in (section.get("class") or ""):
@@ -622,7 +692,7 @@ def _add_footnote_heading(root: Any) -> None:
 
 
 def _rewrite_image_nodes(
-    root: Any,
+    root: etree._Element,
     image_index: dict[str, Path],
     image_dir: Path | None,
     asset_dir: Path,
@@ -671,7 +741,7 @@ def _rewrite_image_nodes(
 
 
 def _rewrite_anchor_nodes(
-    root: Any,
+    root: etree._Element,
     current_title: str,
     title_to_filename: dict[str, str],
     redirects: dict[str, str],
@@ -807,10 +877,10 @@ def _markdown_label(title: str) -> str:
 def _export_one_page(
     page: DumpPage,
     title_to_filename: dict[str, str],
-    context: Any,
-    preprocess: Any,
-    postprocess: Any,
-    infobox_defs: Any,
+    context: WikiContext,
+    preprocess: PreprocessFunction,
+    postprocess: PostprocessFunction,
+    infobox_defs: Mapping[str, object],
     pandoc: str,
     redirects: dict[str, str],
     image_index: dict[str, Path],
@@ -829,7 +899,7 @@ def _export_one_page(
     filename = title_to_filename[title_key]
     expansion_error = ""
     expanded = page.text
-    stats: dict[str, Any] = {
+    stats: RenderStats = {
         "infoboxes": 0,
         "missing_templates": [],
         "infobox_left": 0,
@@ -931,14 +1001,26 @@ def _write_conversion_report(report: ExportReport, output_dir: Path) -> None:
 
 def _load_renderer_pipeline(
     dump_path: Path,
-) -> tuple[Any, list[DumpPage], dict[str, str], Any, Any, Any, Any, int]:
+) -> tuple[
+    WikiContext,
+    list[DumpPage],
+    dict[str, str],
+    PreprocessFunction,
+    PostprocessFunction,
+    Mapping[str, object],
+    Callable[[str], str],
+    int,
+]:
     """Load the existing Fandom renderer helpers and the expanded wiki context."""
     renderer = importlib.import_module("pipeline.wiki_to_html")
-    preprocess = getattr(renderer, "prepass")
-    postprocess = getattr(renderer, "postexpand")
-    load_infobox_defs = getattr(renderer, "load_infobox_defs")
-    wtp_factory = getattr(renderer, "Wtp")
-    pandoc_selftest = getattr(renderer, "pandoc_selftest")
+    preprocess = cast(PreprocessFunction, getattr(renderer, "prepass"))
+    postprocess = cast(PostprocessFunction, getattr(renderer, "postexpand"))
+    load_infobox_defs = cast(
+        Callable[[WikiContext], Mapping[str, object]],
+        getattr(renderer, "load_infobox_defs"),
+    )
+    wtp_factory = cast(WtpFactory, getattr(renderer, "Wtp"))
+    pandoc_selftest = cast(Callable[[str], str], getattr(renderer, "pandoc_selftest"))
     context, articles, redirects, redirect_count = _load_wiki_context(
         dump_path, wtp_factory
     )
@@ -953,6 +1035,7 @@ def _load_renderer_pipeline(
         pandoc_selftest,
         redirect_count,
     )
+
 
 
 def _prepare_export(

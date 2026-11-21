@@ -247,8 +247,7 @@ def _create_wtp() -> Any:
         setattr(package_resources, "resource_filename", resource_filename)
         sys.modules["pkg_resources"] = package_resources
 
-    import re as regex_module
-
+    regex_module = re
     luaexec = importlib.import_module("wikitextprocessor.luaexec")
 
     class RegexShim:
@@ -325,9 +324,7 @@ def _pandoc_path() -> str:
         pypandoc = importlib.import_module("pypandoc")
         return str(pypandoc.get_pandoc_path())
     except (ImportError, OSError):
-        from shutil import which
-
-        binary = which("pandoc")
+        binary = shutil.which("pandoc")
         if binary is None:
             raise RuntimeError(
                 "Pandoc was not found. Install the project dependencies first."

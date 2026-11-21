@@ -489,6 +489,51 @@ def test_export_converts_rendered_html_when_gfm_conversion_fails(
     assert conversion_errors == 0
 
 
+def test_export_converts_html_retained_by_pandoc_to_markdown(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    def fake_pandoc(
+        _pandoc: str, _text: str, source_format: str, target_format: str
+    ) -> str:
+        if source_format == "mediawiki" and target_format == "html":
+            return "<p><strong>Important</strong> article text</p>"
+        assert (source_format, target_format) == ("html", "gfm")
+        return "<p><strong>Important</strong> article text</p>"
+
+    monkeypatch.setattr(markdown_export_module, "_run_pandoc", fake_pandoc)
+    pages_dir = tmp_path / "pages"
+    pages_dir.mkdir()
+
+    result, expansion_errors, conversion_errors = _export_one_page(
+        DumpPage("Sample", 0, "wikitext", "original source", None),
+        {"Sample": "Sample.md"},
+        FakeContext(),
+        identity_preprocess,
+        identity_postprocess,
+        {},
+        "pandoc",
+        {},
+        {},
+        None,
+        pages_dir,
+        tmp_path / "assets",
+        {},
+        {},
+        set(),
+        set(),
+        set(),
+        None,
+    )
+
+    output = (pages_dir / "Sample.md").read_text(encoding="utf-8")
+    assert result["status"] == "html_fallback"
+    assert "**Important** article text" in output
+    assert "<p>" not in output
+    assert "<strong>" not in output
+    assert expansion_errors == 0
+    assert conversion_errors == 0
+
+
 def test_export_renders_original_source_if_expanded_wikitext_stays_invalid(
     tmp_path: Path, monkeypatch: pytest.MonkeyPatch
 ) -> None:

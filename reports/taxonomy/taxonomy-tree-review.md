@@ -1070,7 +1070,7 @@
 
 ## 8. Fire, Light & Fuel
 
-> Items classified by their in-game role as fire-starting supplies, fuel, or light sources. Books are grouped here because the game treats burnable books and Research Books as fuel; Research Books also remain referenced under Skills.
+> Fire-starting supplies, fuel, or light sources.
 
 - [A Sewing Primer](https://thelongdark.fandom.com/wiki/A_Sewing_Primer)
 - [Accelerant](https://thelongdark.fandom.com/wiki/Accelerant)

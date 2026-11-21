@@ -8,6 +8,7 @@
 - [Fire Starting info](#fire-starting-info)
 - [Obtaining](#obtaining)
 - [Tips](#tips)
+- [Products](#products)
 - [Update history](#update-history)
 
 **Fir Firewood**
@@ -70,6 +71,41 @@ Fir Firewood can be harvested from downed Fir Limbs found outdoors with a [tool]
 ## Tips
 
 Since a single piece of Fir Firewood has a fire duration of 1 hour and 30 minutes, so it's 90 min/kg is less efficient per weight than [Cedar Firewood](./Cedar%20Firewood.md) at 120 min/kg. However, Fir Firewood is more time-efficient to harvest compared to [Cedar Firewood](./Cedar%20Firewood.md), since each piece of Fir burns for 30 minutes longer. A small Fir Limb will burn for 4.5 hours(3 pieces of Fir) whereas a small [Cedar](./Cedar%20Firewood.md) Limb provides 3 hours of burn-time. This is specifically useful when the player decides to chop wood outside but has limited time to do so because of cold weather, maintaining [Fire](./Fire.md), etc.
+
+## Products
+
+| Item | Skills | Materials |
+| --- | --- | --- |
+| Meat Curing Box | None | 10 × Fir Firewood; 8 × Salt |
+| Tall Rustic Closet | None | 24 × Fir Firewood; 4 × Reclaimed Wood; 2 × Scrap Metal |
+| Bear Hide Bed | None | 18 × Fir Firewood; 4 × Cured Gut; 1 × Cured Black Bear Hide; 16 × Ptarmigan Down |
+| Framed Photo | None | 1 × Fir Firewood; 1 × Camera |
+| Decorative Art | None | 2 × Fir Firewood; 1 × Cedar Firewood; 1 × Reclaimed Wood |
+| Decorative Art (2) | None | 2 × Fir Firewood; 1 × Cedar Firewood; 1 × Reclaimed Wood |
+| Rustic Closet | None | 18 × Fir Firewood; 3 × Reclaimed Wood; 2 × Scrap Metal |
+| Rustic Cupboard | None | 10 × Fir Firewood; 4 × Reclaimed Wood; 2 × Scrap Metal |
+| Framed Hockey Jersey | None | 2 × Fir Firewood; 1 × Scrap Metal; 1 × Hockey Jersey |
+| Square Table | None | 8 × Fir Firewood |
+| Hide Chair | None | 8 × Fir Firewood; 2 × Cured Deer Hide; 8 × Ptarmigan Down; 3 × Cured Gut |
+| Hide Couch | None | 15 × Fir Firewood; 4 × Cured Deer Hide; 16 × Ptarmigan Down; 5 × Cured Gut |
+| Coffee Table | None | 6 × Fir Firewood |
+| Mounted Burbot | None | 1 × Fir Firewood; 1 × Burbot (Raw) |
+| Mounted Coho Salmon | None | 1 × Fir Firewood; 1 × Coho Salmon (Raw) |
+| Mounted Goldeye | None | 1 × Fir Firewood; 1 × Goldeye (Raw) |
+| Mounted Red Irish Lord | None | 1 × Fir Firewood; 1 × Red Irish Lord (Raw) |
+| Mounted Smallmouth Bass | None | 1 × Fir Firewood; 1 × Smallmouth Bass (Raw) |
+| Mounted Rainbow Trout | None | 1 × Fir Firewood; 1 × Rainbow Trout (Raw) |
+| Mounted Lake Whitefish | None | 1 × Fir Firewood; 1 × Lake Whitefish (Raw) |
+| Mounted Rockfish | None | 1 × Fir Firewood; 1 × Rockfish (Raw) |
+| Rustic Table | None | 10 × Fir Firewood |
+| Round Table | None | 12 × Fir Firewood |
+| Rustic Stool | None | 4 × Fir Firewood |
+| Quilted Bed | None | 12 × Fir Firewood; 10 × Cloth; 6 × Cured Gut; 16 × Ptarmigan Down |
+| Rustic Storage Trunk | None | 9 × Fir Firewood |
+| Wide Dresser | None | 16 × Fir Firewood; 6 × Reclaimed Wood |
+| Wide Display Shelf | None | 18 × Fir Firewood; 4 × Reclaimed Wood |
+| Rustic Display Shelf | None | 10 × Fir Firewood; 2 × Reclaimed Wood |
+| Display Shelf | None | 12 × Fir Firewood; 4 × Reclaimed Wood |
 
 ## Update history
 

@@ -428,7 +428,8 @@ def test_convert_html_gallery_to_standalone_markdown_images(
 
 def test_background_styled_transcript_div_is_not_rendered_as_bold() -> None:
     fragment = """<div style="background: #2D3035; padding: 2em;">
-Find me at the mine. East and up the hill, looking up at the mountain. I got a lead on this door.
+Find me at the mine. East and up the hill, looking up at the mountain.
+I got a lead on this door.
 <br/><br/>
 -- M (Who is M?)
 </div>"""
@@ -514,6 +515,15 @@ def test_uses_material_list_template_is_replaced_with_recipe_table() -> None:
     assert 'class="wikitable uses-material-list"' in expanded
     assert "Meat Curing Box" in expanded
     assert "8.00 kg \u00d7 Salt" in expanded
+
+    markdown, note, failed = _convert_html_to_markdown("unused", expanded, "")
+
+    assert not note
+    assert not failed
+    assert "| Item | Skills | Materials |" in markdown
+    assert "Meat Curing Box" in markdown
+    assert "8.00 kg" in markdown
+    assert "Salt" in markdown
 
 
 def test_wide_sparse_table_keeps_product_rows_and_compacts_columns(

@@ -187,7 +187,7 @@ def resolve_internal_href(
 
     key = normalize_title(raw_target.lstrip(":"))
     current_key = normalize_title(current_title)
-    fragment = parsed.fragment
+    fragment = urllib.parse.unquote(parsed.fragment).replace(" ", "_")
     visited: set[str] = set()
 
     while key in redirects and key not in visited:
@@ -565,6 +565,13 @@ def _rewrite_image_nodes(
     """Rewrite local image tags and copy their source assets."""
     for image in list(root.iter("img")):
         source_name = image.get("src", "")
+        image.set("loading", "lazy")
+        if image.get("title") and (
+            normalize_image_name(image.get("title"))
+            == normalize_image_name(source_name)
+        ):
+            image.attrib.pop("title")
+
         scheme = urllib.parse.urlsplit(source_name).scheme
         if scheme in {"http", "https", "data"}:
             continue
@@ -582,11 +589,17 @@ def _rewrite_image_nodes(
             continue
 
         missing_images.add(normalize_image_name(source_name))
+        label = image.get("alt") or ""
+        caption = label[len("XTHUMB") :].strip() if label.startswith("XTHUMB") else ""
         placeholder = etree.Element("span")
         placeholder.text = f"[Missing image: {source_name}]"
+        if caption:
+            placeholder.tail = " " + caption
         parent = image.getparent()
         if parent is not None:
             parent.replace(image, placeholder)
+
+    _restore_thumbnail_captions(root)
 
 
 def _rewrite_anchor_nodes(
@@ -652,6 +665,7 @@ def _rewrite_html_links(
 ) -> str:
     """Rewrite HTML links/images to local Markdown workspace paths."""
     root = lhtml.fragment_fromstring(fragment or "", create_parent="div")
+    _restore_generated_tables(root)
     _rewrite_image_nodes(
         root,
         image_index,
@@ -674,6 +688,8 @@ def _rewrite_html_links(
         missing_links,
         missing_images,
     )
+    _add_mediawiki_heading_ids(root)
+    _add_footnote_heading(root)
     return etree.tostring(root, encoding="unicode", method="html")
 
 

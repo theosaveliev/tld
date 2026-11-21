@@ -62,6 +62,10 @@ def test_resolve_internal_href_rewrites_local_page_links() -> None:
         == "./Bear.md"
     )
     assert resolve_internal_href("#History", "Main Page", mapping, {}) == "#History"
+    assert (
+        resolve_internal_href("#Habitat Area", "Main Page", mapping, {})
+        == "#Habitat_Area"
+    )
 
 
 def test_resolve_internal_href_preserves_external_links() -> None:

@@ -386,8 +386,44 @@ def _copy_image(
     return output_name
 
 
-def _rewrite_html_links(
-    fragment: str,
+def _rewrite_image_nodes(
+    root: Any,
+    image_index: dict[str, Path],
+    image_dir: Path | None,
+    asset_dir: Path,
+    copied_images: dict[Path, str],
+    used_asset_names: dict[str, Path],
+    missing_images: set[str],
+) -> None:
+    """Rewrite local image tags and copy their source assets."""
+    for image in list(root.iter("img")):
+        source_name = image.get("src", "")
+        scheme = urllib.parse.urlsplit(source_name).scheme
+        if scheme in {"http", "https", "data"}:
+            continue
+
+        output_name = _copy_image(
+            source_name,
+            image_index,
+            image_dir,
+            asset_dir,
+            copied_images,
+            used_asset_names,
+        )
+        if output_name is not None:
+            image.set("src", "../assets/" + _safe_destination(output_name))
+            continue
+
+        missing_images.add(normalize_image_name(source_name))
+        placeholder = etree.Element("span")
+        placeholder.text = f"[Missing image: {source_name}]"
+        parent = image.getparent()
+        if parent is not None:
+            parent.replace(image, placeholder)
+
+
+def _rewrite_anchor_nodes(
+    root: Any,
     current_title: str,
     title_to_filename: dict[str, str],
     redirects: dict[str, str],
@@ -398,38 +434,15 @@ def _rewrite_html_links(
     used_asset_names: dict[str, Path],
     missing_links: set[str],
     missing_images: set[str],
-) -> str:
-    """Rewrite HTML links/images to local Markdown workspace paths."""
-    root = lhtml.fragment_fromstring(fragment or "", create_parent="div")
-
-    for image in list(root.iter("img")):
-        source_name = image.get("src", "")
-        if urllib.parse.urlsplit(source_name).scheme in {"http", "https", "data"}:
-            continue
-        output_name = _copy_image(
-            source_name,
-            image_index,
-            image_dir,
-            asset_dir,
-            copied_images,
-            used_asset_names,
-        )
-        if output_name is None:
-            missing_images.add(normalize_image_name(source_name))
-            placeholder = etree.Element("span")
-            placeholder.text = f"[Missing image: {source_name}]"
-            parent = image.getparent()
-            if parent is not None:
-                parent.replace(image, placeholder)
-        else:
-            image.set("src", "../assets/" + _safe_destination(output_name))
-
+) -> None:
+    """Rewrite article and file anchors to local Markdown destinations."""
     for link in list(root.iter("a")):
         href = link.get("href")
         if not href:
             continue
+
         raw = urllib.parse.unquote(href).lstrip(":")
-        if re.match(r"^(?:file|image|media)\s*:", raw, re.IGNORECASE):
+        if re.match(r"^(?:file|image|media)\\s*:", raw, re.IGNORECASE):
             output_name = _copy_image(
                 raw,
                 image_index,
@@ -455,6 +468,44 @@ def _rewrite_html_links(
         elif destination != href:
             link.set("href", destination)
 
+
+def _rewrite_html_links(
+    fragment: str,
+    current_title: str,
+    title_to_filename: dict[str, str],
+    redirects: dict[str, str],
+    image_index: dict[str, Path],
+    image_dir: Path | None,
+    asset_dir: Path,
+    copied_images: dict[Path, str],
+    used_asset_names: dict[str, Path],
+    missing_links: set[str],
+    missing_images: set[str],
+) -> str:
+    """Rewrite HTML links/images to local Markdown workspace paths."""
+    root = lhtml.fragment_fromstring(fragment or "", create_parent="div")
+    _rewrite_image_nodes(
+        root,
+        image_index,
+        image_dir,
+        asset_dir,
+        copied_images,
+        used_asset_names,
+        missing_images,
+    )
+    _rewrite_anchor_nodes(
+        root,
+        current_title,
+        title_to_filename,
+        redirects,
+        image_index,
+        image_dir,
+        asset_dir,
+        copied_images,
+        used_asset_names,
+        missing_links,
+        missing_images,
+    )
     return etree.tostring(root, encoding="unicode", method="html")
 
 

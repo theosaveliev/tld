@@ -1088,6 +1088,19 @@ def _inline_markdown(node: lhtml.HtmlElement) -> str:
     return "".join(pieces)
 
 
+def _inline_span_markdown(node: lhtml.HtmlElement, content: str) -> str | None:
+    """Translate visual span styling into nearby Markdown emphasis."""
+    style = (node.get("style") or "").casefold().replace(" ", "")
+    classes = (node.get("class") or "").split()
+    if "font-style:italic" in style or "thumbcaption" in classes:
+        return f"*{content}*" if content else ""
+    if "font-weight:bold" in style:
+        return f"**{content}**" if content else ""
+    if "text-decoration:line-through" in style:
+        return f"~~{content}~~" if content else ""
+    return None
+
+
 def _inline_markdown_formatting(
     node: lhtml.HtmlElement, tag: str, content: str
 ) -> str | None:
@@ -1105,14 +1118,9 @@ def _inline_markdown_formatting(
     if tag == "sub":
         return _unicode_subscript(content)
     if tag == "span":
-        style = (node.get("style") or "").casefold().replace(" ", "")
-        if "font-style:italic" in style:
-            return f"*{content}*" if content else ""
-        if "font-weight:bold" in style:
-            return f"**{content}**" if content else ""
-        if "text-decoration:line-through" in style:
-            return f"~~{content}~~" if content else ""
-    if "math" in (node.get("class") or "").split():
+        styled = _inline_span_markdown(node, content)
+        return styled if styled is not None else content
+    if tag == "math" or "math" in (node.get("class") or "").split():
         return "$" + content + "$" if content else ""
     if tag in {"u", "mark"}:
         return f"*{content}*" if content else ""

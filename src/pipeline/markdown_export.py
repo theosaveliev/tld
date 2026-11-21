@@ -268,6 +268,7 @@ def resolve_internal_href(
     External URLs and same-page anchors are returned unchanged. Unresolved
     wiki links return None so the caller can retain their label.
     """
+    destination: str | None
     if not href or href.startswith("//"):
         destination = href
     elif href.startswith("#"):
@@ -627,18 +628,18 @@ def _restore_thumbnail_captions(root: lhtml.HtmlElement) -> None:
             if old_caption is not None:
                 parent.remove(old_caption)
             if caption:
-                figcaption = etree.Element("figcaption")
+                figcaption = cast(lhtml.HtmlElement, etree.Element("figcaption"))
                 figcaption.text = caption
                 parent.append(figcaption)
             continue
 
-        wrapper = etree.Element("span")
+        wrapper = cast(lhtml.HtmlElement, etree.Element("span"))
         wrapper.set("class", "thumb")
         old_tail = image.tail
         image.addprevious(wrapper)
         wrapper.append(image)
         if caption:
-            caption_node = etree.Element("span")
+            caption_node = cast(lhtml.HtmlElement, etree.Element("span"))
             caption_node.set("class", "thumbcaption")
             caption_node.text = caption
             wrapper.append(caption_node)
@@ -660,15 +661,18 @@ def _add_mediawiki_heading_ids(root: lhtml.HtmlElement) -> None:
             identifier = f"{base}_{suffix}"
         used.add(identifier)
         heading.set("id", identifier)
-        headings.append((int(heading.tag[1]), label, identifier))
+        tag = heading.tag
+        if not isinstance(tag, str):
+            continue
+        headings.append((int(tag[1]), label, identifier))
 
     if len(headings) < MINIMUM_HEADINGS_FOR_TOC:
         return
 
-    nav = etree.Element("nav")
+    nav = cast(lhtml.HtmlElement, etree.Element("nav"))
     nav.set("class", "toc")
-    heading = etree.SubElement(nav, "strong")
-    heading.text = "Contents"
+    toc_heading = cast(lhtml.HtmlElement, etree.SubElement(nav, "strong"))
+    toc_heading.text = "Contents"
     items = etree.SubElement(nav, "ul")
     for level, label, identifier in headings:
         item = etree.SubElement(items, "li")
@@ -686,7 +690,7 @@ def _add_footnote_heading(root: lhtml.HtmlElement) -> None:
             continue
         previous = section.getprevious()
         if previous is None or previous.tag not in {"h1", "h2", "h3", "h4"}:
-            heading = etree.Element("h2")
+            heading = cast(lhtml.HtmlElement, etree.Element("h2"))
             heading.text = "Notes"
             section.insert(0, heading)
 
@@ -729,7 +733,7 @@ def _rewrite_image_nodes(
         missing_images.add(normalize_image_name(source_name))
         label = image.get("alt") or ""
         caption = label[len("XTHUMB") :].strip() if label.startswith("XTHUMB") else ""
-        placeholder = etree.Element("span")
+        placeholder = cast(lhtml.HtmlElement, etree.Element("span"))
         placeholder.text = f"[Missing image: {source_name}]"
         parent = image.getparent()
         if parent is not None:

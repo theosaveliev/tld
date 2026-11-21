@@ -1148,19 +1148,35 @@ def _render_material_usage_table(
     )
 
 
-def _replace_uses_material_list_templates(
+def _defer_uses_material_list_templates(
     text: str,
     page_title: str,
     usage_index: dict[str, list[tuple[str, str, list[tuple[str, str]]]]],
-) -> str:
-    """Replace DPL material-list calls with rows indexed from recipe templates."""
+) -> tuple[str, dict[str, str]]:
+    """Replace material-list calls with safe tokens until wikitext expansion ends."""
+    deferred_tables: dict[str, str] = {}
 
-    def render(match: re.Match[str]) -> str:
+    def defer(match: re.Match[str]) -> str:
         target = match.group(1) or page_title
         rows = usage_index.get(normalize_title(target).casefold(), [])
-        return _render_material_usage_table(rows) if rows else match.group(0)
+        table = _render_material_usage_table(rows)
+        if not table:
+            return match.group(0)
 
-    return USES_MATERIAL_LIST_RE.sub(render, text)
+        token = f"TLDGENERATEDMATERIALLIST{len(deferred_tables)}TOKEN"
+        while token in text or token in deferred_tables:
+            token += "X"
+        deferred_tables[token] = table
+        return token
+
+    return USES_MATERIAL_LIST_RE.sub(defer, text), deferred_tables
+
+
+def _restore_deferred_material_tables(text: str, deferred_tables: dict[str, str]) -> str:
+    """Restore generated HTML tables after the wikitext expander has finished."""
+    for token, table in deferred_tables.items():
+        text = text.replace(token, table)
+    return text
 
 
 def _expand_page(
@@ -1177,21 +1193,26 @@ def _expand_page(
     if page.model != "wikitext":
         return expanded, "", 0
 
+    deferred_material_tables: dict[str, str] = {}
     try:
         context.start_page(page.title)
         expanded = preprocess(page.text, context, infobox_defs, page.title, stats)
         if material_usage_index is not None:
-            expanded = _replace_uses_material_list_templates(
+            expanded, deferred_material_tables = _defer_uses_material_list_templates(
                 expanded, page.title, material_usage_index
             )
     except Exception as exc:
+        expanded = _restore_deferred_material_tables(expanded, deferred_material_tables)
         return expanded, str(exc)[:300], 1
 
     try:
         with contextlib.redirect_stdout(io.StringIO()):
             expanded = context.expand(expanded, timeout=30)
     except Exception as exc:
+        expanded = _restore_deferred_material_tables(expanded, deferred_material_tables)
         return expanded, str(exc)[:300], 1
+
+    expanded = _restore_deferred_material_tables(expanded, deferred_material_tables)
     return expanded, "", 0
 
 

@@ -492,9 +492,15 @@ def test_uses_material_list_template_is_replaced_with_recipe_table() -> None:
     ]
     usage = _build_material_usage_index(pages)
 
+    class ContextThatRejectsGeneratedHtml(FakeContext):
+        def expand(self, text: str, timeout: int) -> str:
+            assert "<table" not in text
+            assert "<a href=" not in text
+            return super().expand(text, timeout)
+
     expanded, error, count = _expand_page(
         DumpPage("Fir Firewood", 0, "wikitext", "{{Uses material list}}", None),
-        FakeContext(),
+        ContextThatRejectsGeneratedHtml(),
         identity_preprocess,
         {},
         {
@@ -519,9 +525,11 @@ def test_uses_material_list_template_is_replaced_with_recipe_table() -> None:
     assert not note
     assert not failed
     assert "| Item | Skills | Materials |" in markdown
-    assert "Meat Curing Box" in markdown
+    assert "[Meat Curing Box](Meat%20Curing%20Box)" in markdown
+    assert "[Salt](Salt)" in markdown
     assert "8.00 kg" in markdown
-    assert "Salt" in markdown
+    assert not re.search(r"</?a\\b", markdown, re.IGNORECASE)
+    assert "&lt;a" not in markdown
 
 
 def test_wide_sparse_table_keeps_product_rows_and_compacts_columns(

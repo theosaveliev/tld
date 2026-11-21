@@ -48,9 +48,7 @@ INLINE_CODE_SPAN_RE = re.compile(
     + re.escape(BACKTICK)
     + r"+)"
 )
-FENCED_CODE_RE = re.compile(
-    r"^[ \t]{0,3}(" + re.escape(BACKTICK) + r"{3,}|~{3,})"
-)
+FENCED_CODE_RE = re.compile(r"^[ \t]{0,3}(" + re.escape(BACKTICK) + r"{3,}|~{3,})")
 EXTERNAL_SCHEMES = frozenset({"ftp", "http", "https", "mailto", "tel"})
 LOCAL_WIKI_SCHEMES = frozenset(
     {"category", "file", "image", "media", "module", "special", "template"}
@@ -1745,8 +1743,7 @@ def _contains_gallery_table(fragment: str) -> bool:
     """Return whether rewritten HTML contains a semantic Fandom gallery table."""
     root = lhtml.fragment_fromstring(fragment or "", create_parent="div")
     return any(
-        "gallery" in (table.get("class") or "").split()
-        for table in root.iter("table")
+        "gallery" in (table.get("class") or "").split() for table in root.iter("table")
     )
 
 

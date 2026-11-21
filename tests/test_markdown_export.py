@@ -445,13 +445,13 @@ def test_html_fragment_to_markdown_converts_fandom_elements() -> None:
     assert "## Overview" in markdown
     assert "**Important** [Bear](./Bear.md) details" in markdown
     assert "- First item" in markdown
-    assert "- Second *item*" in markdown
+    assert "- Second _item_" in markdown
     assert "**Bear**" in markdown
     assert "| Property | Details |" in markdown
     assert "| Release | 2017 |" in markdown
     assert "**Properties**" in markdown
     assert "![Bear](../assets/Bear.png)" in markdown
-    assert "*Bear icon*" in markdown
+    assert "_Bear icon_" in markdown
     assert not re.search(r"</?[A-Za-z][A-Za-z0-9-]*(?=\s|/?>)[^>]*>", markdown)
 
 

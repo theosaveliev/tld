@@ -869,7 +869,7 @@ def _write_conversion_report(report: ExportReport, output_dir: Path) -> None:
 
 def _load_renderer_pipeline(
     dump_path: Path,
-) -> tuple[Any, list[DumpPage], dict[str, str], Any, Any, Any, Any]:
+) -> tuple[Any, list[DumpPage], dict[str, str], Any, Any, Any, Any, int]:
     """Load the existing Fandom renderer helpers and the expanded wiki context."""
     renderer = importlib.import_module("pipeline.wiki_to_html")
     preprocess = getattr(renderer, "prepass")

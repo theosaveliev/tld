@@ -1151,19 +1151,10 @@ def _inline_markdown_emphasis(tag: str, content: str) -> str | None:
         return f"~~{content}~~" if content else ""
     return None
 
-def _inline_markdown_semantics(
+def _inline_markdown_special_semantics(
     node: lhtml.HtmlElement, tag: str, content: str
 ) -> str | None:
-    """Convert code, math, and baseline formatting tags to Markdown."""
-    if tag in {"code", "kbd", "samp"}:
-        return _markdown_code_span(node.text_content())
-    if tag == "sup":
-        return _unicode_superscript(content)
-    if tag == "sub":
-        return _unicode_subscript(content)
-    styled = _inline_span_markdown(node, content)
-    if styled is not None:
-        return styled
+    """Translate semantic inline elements without retaining their HTML tags."""
     if tag == "span":
         return content
     if tag == "abbr":
@@ -1177,6 +1168,22 @@ def _inline_markdown_semantics(
         return ""
     is_math = tag == "math" or "math" in (node.get("class") or "").split()
     return "$" + content + "$" if is_math and content else None
+
+
+def _inline_markdown_semantics(
+    node: lhtml.HtmlElement, tag: str, content: str
+) -> str | None:
+    """Convert code, math, and baseline formatting tags to Markdown."""
+    if tag in {"code", "kbd", "samp"}:
+        return _markdown_code_span(node.text_content())
+    if tag == "sup":
+        return _unicode_superscript(content)
+    if tag == "sub":
+        return _unicode_subscript(content)
+    styled = _inline_span_markdown(node, content)
+    if styled is not None:
+        return styled
+    return _inline_markdown_special_semantics(node, tag, content)
 
 def _inline_markdown_formatting(
     node: lhtml.HtmlElement, tag: str, content: str

@@ -74,6 +74,39 @@ Since a single piece of Fir Firewood has a fire duration of 1 hour and 30 minute
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| [Bear Hide Bed](./Bear%20Hide%20Bed.md) | None | 18 × Fir Firewood; 4 × Cured Gut; 1 × Cured Black Bear Hide; 16 × Ptarmigan Down |
+| [Coffee Table](./Coffee%20Table.md) | None | 6 × Fir Firewood |
+| [Decorative Art](./Decorative%20Art.md) | None | 2 × Fir Firewood; 1 × Cedar Firewood; 1 × Reclaimed Wood |
+| [Decorative Art (2)](./Decorative%20Art%20(2).md) | None | 2 × Fir Firewood; 1 × Cedar Firewood; 1 × Reclaimed Wood |
+| [Display Shelf](./Display%20Shelf.md) | None | 12 × Fir Firewood; 4 × Reclaimed Wood |
+| [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | None | 2 × Fir Firewood; 1 × Scrap Metal; 1 × Hockey Jersey |
+| [Framed Photo](./Framed%20Photo.md) | None | 1 × Fir Firewood; 1 × Camera |
+| [Hide Chair](./Hide%20Chair.md) | None | 8 × Fir Firewood; 2 × Cured Deer Hide; 8 × Ptarmigan Down; 3 × Cured Gut |
+| [Hide Couch](./Hide%20Couch.md) | None | 15 × Fir Firewood; 4 × Cured Deer Hide; 16 × Ptarmigan Down; 5 × Cured Gut |
+| [Meat Curing Box](./Meat%20Curing%20Box.md) | None | 10 × Fir Firewood; 8.00 kg × Salt |
+| [Mounted Burbot](./Mounted%20Burbot.md) | None | 1 × Fir Firewood; 1 × Burbot (Raw) |
+| [Mounted Coho Salmon](./Mounted%20Coho%20Salmon.md) | None | 1 × Fir Firewood; 1 × Coho Salmon (Raw) |
+| [Mounted Goldeye](./Mounted%20Goldeye.md) | None | 1 × Fir Firewood; 1 × Goldeye (Raw) |
+| [Mounted Lake Whitefish](./Mounted%20Lake%20Whitefish.md) | None | 1 × Fir Firewood; 1 × Lake Whitefish (Raw) |
+| [Mounted Rainbow Trout](./Mounted%20Rainbow%20Trout.md) | None | 1 × Fir Firewood; 1 × Rainbow Trout (Raw) |
+| [Mounted Red Irish Lord](./Mounted%20Red%20Irish%20Lord.md) | None | 1 × Fir Firewood; 1 × Red Irish Lord (Raw) |
+| [Mounted Rockfish](./Mounted%20Rockfish.md) | None | 1 × Fir Firewood; 1 × Rockfish (Raw) |
+| [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md) | None | 1 × Fir Firewood; 1 × Smallmouth Bass (Raw) |
+| [Quilted Bed](./Quilted%20Bed.md) | None | 12 × Fir Firewood; 10 × Cloth; 6 × Cured Gut; 16 × Ptarmigan Down |
+| [Round Table](./Round%20Table.md) | None | 12 × Fir Firewood |
+| [Rustic Closet](./Rustic%20Closet.md) | None | 18 × Fir Firewood; 3 × Reclaimed Wood; 2 × Scrap Metal |
+| [Rustic Cupboard](./Rustic%20Cupboard.md) | None | 10 × Fir Firewood; 4 × Reclaimed Wood; 2 × Scrap Metal |
+| [Rustic Display Shelf](./Rustic%20Display%20Shelf.md) | None | 10 × Fir Firewood; 2 × Reclaimed Wood |
+| [Rustic Stool](./Rustic%20Stool.md) | None | 4 × Fir Firewood |
+| [Rustic Storage Trunk](./Rustic%20Storage%20Trunk.md) | None | 9 × Fir Firewood |
+| [Rustic Table](./Rustic%20Table.md) | None | 10 × Fir Firewood |
+| [Square Table](./Square%20Table.md) | None | 8 × Fir Firewood |
+| [Tall Rustic Closet](./Tall%20Rustic%20Closet.md) | None | 24 × Fir Firewood; 4 × Reclaimed Wood; 2 × Scrap Metal |
+| [Wide Display Shelf](./Wide%20Display%20Shelf.md) | None | 18 × Fir Firewood; 4 × Reclaimed Wood |
+| [Wide Dresser](./Wide%20Dresser.md) | None | 16 × Fir Firewood; 6 × Reclaimed Wood |
+
 ## Update history
 
 - UPDATE **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.073)):**

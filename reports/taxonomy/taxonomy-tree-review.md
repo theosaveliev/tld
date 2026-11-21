@@ -991,11 +991,10 @@
 
 ### Portable Heating & Cooking Equipment
 
-> Portable equipment and supplies used to provide warmth or cooking heat.
 
+- [Heat Pack](https://thelongdark.fandom.com/wiki/Heat_Pack)
 - [McLeod Ultra-Efficiency Whale Oil Heater](https://thelongdark.fandom.com/wiki/McLeod_Ultra-Efficiency_Whale_Oil_Heater)
 - [Whale Oil Can](https://thelongdark.fandom.com/wiki/Whale_Oil_Can)
-- [Heat Pack](https://thelongdark.fandom.com/wiki/Heat_Pack)
 
 ### Fishing & Trapping Gear
 

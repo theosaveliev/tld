@@ -8,14 +8,14 @@ from __future__ import annotations
 
 import unicodedata
 from collections import Counter, defaultdict
-from collections.abc import Iterator
 from typing import TYPE_CHECKING, TypedDict, cast
-from xml.etree.ElementTree import Element
 
 import defusedxml.ElementTree as SafeET
 
 if TYPE_CHECKING:
+    from collections.abc import Iterator
     from pathlib import Path
+    from xml.etree.ElementTree import Element
 
 MAX_FILENAME_BYTES = 255
 MARKDOWN_SUFFIX = ".md"
@@ -65,7 +65,7 @@ def extract_page_titles(
     titles: list[str] = []
     redirects_seen = 0
     events = cast(
-        Iterator[tuple[str, Element]],
+        "Iterator[tuple[str, Element]]",
         SafeET.iterparse(str(dump_path), events=("start", "end")),
     )
 

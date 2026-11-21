@@ -1201,13 +1201,7 @@
 - [Cured Leather](https://thelongdark.fandom.com/wiki/Cured_Leather)
 - [Fresh Leather](https://thelongdark.fandom.com/wiki/Fresh_Leather)
 
-## 10. Item Attributes
-
-> Reference pages describing properties of inventory items, rather than needs or conditions experienced by the survivor.
-
-- [Decay](https://thelongdark.fandom.com/wiki/Decay)
-
-## 11. Decorations & Safehouse Items
+## 10. Decorations & Safehouse Items
 
 > The in-game Decorations inventory contains carryable objects that can be placed inside customizable interiors, while this list covers dedicated decoration articles and furniture craftable for Safehouses. The wider Safehouse Customization system affects more than 800 movable, breakable, or craftable objects; fixed containers, appliances, and other environmental fixtures remain under Gameplay → World Objects.
 
@@ -1283,13 +1277,13 @@
 
 - [Decorations](https://thelongdark.fandom.com/wiki/Decorations)
 
-## 12. Gameplay
+## 11. Gameplay
 
 > This section covers the systems, mechanics, activities, and interactions that shape play. Portable inventory items are classified in their relevant functional groups; most fixed objects encountered in the environment belong under World Objects, while crafting workbenches and stations are grouped under Tools & Equipment.
 
 ### Needs & Conditions
 
-> Core survivor needs and status measures, including hunger, thirst, fatigue, sleep, warmth, stamina, and overall condition. Item deterioration is not a survivor need or condition and is classified under Item Attributes.
+> Core survivor needs and status measures, including hunger, thirst, fatigue, sleep, warmth, stamina, and overall condition.
 
 - [Condition](https://thelongdark.fandom.com/wiki/Condition)
 - [Encumbrance](https://thelongdark.fandom.com/wiki/Encumbrance)
@@ -1414,6 +1408,7 @@
 - [Cheat Death](https://thelongdark.fandom.com/wiki/Cheat_Death)
 - [Crouch](https://thelongdark.fandom.com/wiki/Crouch)
 - [Daisy Chaining](https://thelongdark.fandom.com/wiki/Daisy_Chaining)
+- [Decay](https://thelongdark.fandom.com/wiki/Decay)
 - [Foraging](https://thelongdark.fandom.com/wiki/Foraging)
 - [Hibernation](https://thelongdark.fandom.com/wiki/Hibernation)
 - [Hunting](https://thelongdark.fandom.com/wiki/Hunting)
@@ -1980,7 +1975,7 @@
 - [Voyageur](https://thelongdark.fandom.com/wiki/Voyageur)
 - [Winter's Embrace](https://thelongdark.fandom.com/wiki/Winter's_Embrace)
 
-## 13. Challenges
+## 12. Challenges
 
 > This section contains the game's standalone challenge modes and the pages that explain or document their objectives and completion.
 
@@ -1998,7 +1993,7 @@
 - [The Hunted, Part Two](https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_Two)
 - [Whiteout](https://thelongdark.fandom.com/wiki/Whiteout)
 
-## 14. Achievements
+## 13. Achievements
 
 > Achievements, Feats, and related progress records are grouped here. These pages describe milestone-based goals rather than the moment-to-moment survival systems in Gameplay.
 
@@ -2110,7 +2105,7 @@
 - [You'll Be With Her Soon](https://thelongdark.fandom.com/wiki/You'll_Be_With_Her_Soon)
 - [Your Journey Begins](https://thelongdark.fandom.com/wiki/Your_Journey_Begins)
 
-## 15. DLC
+## 14. DLC
 
 > A cross-index of pages associated with downloadable content. A page listed here retains its primary home elsewhere in the taxonomy under Locations, Nature, Clothing & Climbing Gear, an inventory group, Gameplay, Challenges, Achievements, or Archive; this section does not replace those classifications.
 
@@ -2171,7 +2166,7 @@
 - [Woodwright's Bow](https://thelongdark.fandom.com/wiki/Woodwright's_Bow)
 - [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination)
 
-## 16. Archive
+## 15. Archive
 
 > Pages retained for historical, legacy, or story-reference purposes that are not part of the main navigational taxonomy. Archived pages remain linked and are not deleted.
 
@@ -2343,5 +2338,4 @@
 - Fixed environmental objects and fixtures belong under Gameplay → World Objects; wearable gear and climbing aids belong under Clothing & Climbing Gear.
 - Items in the Decorations inventory, and furniture crafted for Safehouses, belong under Decorations & Safehouse Items. This is distinct from the wider set of fixed objects affected by Safehouse Customization.
 - Trader Special Request pages and their quest-only items belong under Gameplay → Trader Quests.
-- Item properties such as Decay belong under Item Attributes, not under survivor Needs & Conditions.
 - Link labels always preserve the exact wiki article title. Taxonomy headings classify pages but never rename them.

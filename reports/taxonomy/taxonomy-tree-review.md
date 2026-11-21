@@ -1439,6 +1439,8 @@
 - [Mountain Goating](https://thelongdark.fandom.com/wiki/Mountain_Goating)
 - [Rock Climb](https://thelongdark.fandom.com/wiki/Rock_Climb)
 - [Rope Climbing](https://thelongdark.fandom.com/wiki/Rope_Climbing)
+- [Safehouse](https://thelongdark.fandom.com/wiki/Safehouse)
+- [Safehouse Customization](https://thelongdark.fandom.com/wiki/Safehouse_Customization)
 - [Scent](https://thelongdark.fandom.com/wiki/Scent)
 - [Struggle](https://thelongdark.fandom.com/wiki/Struggle)
 - [Survivor Monologue](https://thelongdark.fandom.com/wiki/Survivor_Monologue)
@@ -1919,6 +1921,7 @@
 - [Oil Tank](https://thelongdark.fandom.com/wiki/Oil_Tank)
 - [Plastic Container](https://thelongdark.fandom.com/wiki/Plastic_Container)
 - [Potato Sack](https://thelongdark.fandom.com/wiki/Potato_Sack)
+- [Safehouse Decoration Box](https://thelongdark.fandom.com/wiki/Safehouse_Decoration_Box)
 - [Stored Water](https://thelongdark.fandom.com/wiki/Stored_Water)
 - [Supply Bin](https://thelongdark.fandom.com/wiki/Supply_Bin)
 - [Trash Can](https://thelongdark.fandom.com/wiki/Trash_Can)
@@ -2028,16 +2031,7 @@
 - [Salt Deposit](https://thelongdark.fandom.com/wiki/Salt_Deposit)
 - [Wheel](https://thelongdark.fandom.com/wiki/Wheel)
 
-## 20. Safehouse Systems
-
-> Systems and reference pages for designating and customizing Safehouses.
-
-- [Decorations](https://thelongdark.fandom.com/wiki/Decorations)
-- [Safehouse](https://thelongdark.fandom.com/wiki/Safehouse)
-- [Safehouse Customization](https://thelongdark.fandom.com/wiki/Safehouse_Customization)
-- [Safehouse Decoration Box](https://thelongdark.fandom.com/wiki/Safehouse_Decoration_Box)
-
-## 21. Carcasses & Remains
+## 20. Carcasses & Remains
 
 > Animal carcasses and harvested remains, including quarters taken from animals. Living animal species themselves are listed under Nature → Fauna.
 
@@ -2060,7 +2054,7 @@
 - [Wolf Carcass](https://thelongdark.fandom.com/wiki/Wolf_Carcass)
 - [Wolf Quarter](https://thelongdark.fandom.com/wiki/Wolf_Quarter)
 
-## 22. Trader Quests
+## 21. Trader Quests
 
 > Sutherland's Special Requests and their associated quest pages and quest-only items. This group keeps the Trader storyline together, including the Document Stashes and Broken Hatch Wheel.
 
@@ -2084,12 +2078,13 @@
 - [Wyatt's Lost Papers 3](https://thelongdark.fandom.com/wiki/Wyatt's_Lost_Papers_3)
 - [Wyatt's Skeleton](https://thelongdark.fandom.com/wiki/Wyatt's_Skeleton)
 
-## 23. Modes & Interface
+## 22. Modes & Interface
 
 > Game modes, menus, overlays, and interface-specific pages. This is retained as a reference group at the bottom of Gameplay.
 
 - [4 Days of Night Event](https://thelongdark.fandom.com/wiki/4_Days_of_Night_Event)
 - [Custom](https://thelongdark.fandom.com/wiki/Custom)
+- [Decorations](https://thelongdark.fandom.com/wiki/Decorations)
 - [Interloper](https://thelongdark.fandom.com/wiki/Interloper)
 - [Jack-o-Lantern](https://thelongdark.fandom.com/wiki/Jack-o-Lantern)
 - [Load Screen](https://thelongdark.fandom.com/wiki/Load_Screen)
@@ -2105,7 +2100,7 @@
 - [Voyageur](https://thelongdark.fandom.com/wiki/Voyageur)
 - [Winter's Embrace](https://thelongdark.fandom.com/wiki/Winter's_Embrace)
 
-## 24. Challenges
+## 23. Challenges
 
 > This section contains the game's standalone challenge modes and the pages that explain or document their objectives and completion.
 
@@ -2123,7 +2118,7 @@
 - [The Hunted, Part Two](https://thelongdark.fandom.com/wiki/The_Hunted%2C_Part_Two)
 - [Whiteout](https://thelongdark.fandom.com/wiki/Whiteout)
 
-## 25. Achievements
+## 24. Achievements
 
 > Achievements, Feats, and related progress records are grouped here. These pages describe milestone-based goals rather than the moment-to-moment survival systems in Gameplay.
 
@@ -2235,7 +2230,7 @@
 - [You'll Be With Her Soon](https://thelongdark.fandom.com/wiki/You'll_Be_With_Her_Soon)
 - [Your Journey Begins](https://thelongdark.fandom.com/wiki/Your_Journey_Begins)
 
-## 26. DLC
+## 25. DLC
 
 > A cross-index of pages associated with downloadable content. A page listed here retains its primary home elsewhere in the taxonomy under Locations, Nature, Clothing & Climbing Gear, an inventory group, Gameplay, Challenges, Achievements, or Archive; this section does not replace those classifications.
 
@@ -2296,7 +2291,7 @@
 - [Woodwright's Bow](https://thelongdark.fandom.com/wiki/Woodwright's_Bow)
 - [Zone of Contamination](https://thelongdark.fandom.com/wiki/Zone_of_Contamination)
 
-## 27. Archive
+## 26. Archive
 
 > Pages retained for historical, legacy, or story-reference purposes that are not part of the main navigational taxonomy. Archived pages remain linked and are not deleted.
 

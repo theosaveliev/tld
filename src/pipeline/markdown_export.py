@@ -1100,8 +1100,7 @@ def _build_material_usage_index(
                 material = parameters.get(f"mat{slot}", "").strip()
                 quantity = parameters.get(f"mat{slot}qty", "").strip()
                 if material and quantity:
-                    materials.append((quantity, material)
-                    )
+                    materials.append((quantity, material))
             if not materials:
                 continue
 
@@ -1125,7 +1124,7 @@ def _render_material_usage_table(
         material_items = "".join(
             "<li>"
             + html.escape(quantity)
-            + " × <a href=\""
+            + " &#215; <a href=\""
             + html.escape(material, quote=True)
             + "\">"
             + html.escape(material)

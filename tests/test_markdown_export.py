@@ -457,7 +457,7 @@ def test_image_bearing_infobox_renders_images_outside_pipe_tables(
     )
     assert expected_weight in markdown
     assert "| Property | Details |" not in markdown
-    assert r"\\|-" not in markdown
+    assert r"\|-" not in markdown
 
 
 def test_image_bearing_layout_table_renders_images_and_quote_as_blocks(
@@ -497,6 +497,15 @@ def test_image_bearing_layout_table_renders_images_and_quote_as_blocks(
     assert expected_quote in markdown
     assert "| Column 1 |" not in markdown
     assert "<table" not in markdown
+
+
+def test_html_fragment_to_markdown_converts_wikitext_strong_markers() -> None:
+    markdown = _html_fragment_to_markdown(
+        "<p>__Full wool head covering with holes for the eyes.__</p>"
+    )
+
+    assert "**Full wool head covering with holes for the eyes.**" in markdown
+    assert "__Full wool" not in markdown
 
 
 def test_page_markdown_normalizes_strong_underscores() -> None:

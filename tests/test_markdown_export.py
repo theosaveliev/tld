@@ -468,14 +468,9 @@ def test_material_usage_index_reads_recipe_infoboxes() -> None:
 
     usage = _build_material_usage_index(pages)
 
-    assert [
-        (row[0], row[2]) for row in usage["fir firewood"]
-    ] == [
+    assert [(row[0], row[2]) for row in usage["fir firewood"]] == [
         ("Coffee Table", [("6", "Fir Firewood")]),
-        (
-            "Meat Curing Box",
-            [("10", "Fir Firewood"), ("8.00 kg", "Salt")],
-        ),
+        ("Meat Curing Box", [("10", "Fir Firewood"), ("8.00 kg", "Salt")]),
     ]
 
 

@@ -41,12 +41,9 @@ ITALIC_ASTERISK_RE = re.compile(
 )
 STRONG_UNDERSCORE_RE = re.compile(r"(?<!_)__(?P<content>\S(?:[^\n]*?\S)?)__(?!_)")
 LANGUAGE_INTERWIKI_SCHEME_RE = re.compile(r"^[a-z]{2,3}$")
-RECIPE_TEMPLATE_RE = re.compile(
-    r"\{\{\s*Infobox recipe\b([\s\S]*?)\}\}", re.IGNORECASE
-)
+RECIPE_TEMPLATE_RE = re.compile(r"\{\{\s*Infobox recipe\b([\s\S]*?)\}\}", re.IGNORECASE)
 USES_MATERIAL_LIST_RE = re.compile(
-    r"\{\{\s*Uses material list(?:\s*\|\s*([^{}]*?))?\s*\}\}",
-    re.IGNORECASE,
+    r"\{\{\s*Uses material list(?:\s*\|\s*([^{}]*?))?\s*\}\}", re.IGNORECASE
 )
 BACKTICK = chr(96)
 INLINE_CODE_SPAN_RE = re.compile(
@@ -1124,17 +1121,17 @@ def _render_material_usage_table(
         material_items = "".join(
             "<li>"
             + html.escape(quantity)
-            + " \u00d7 <a href=\""
+            + ' \u00d7 <a href="'
             + html.escape(material, quote=True)
-            + "\">"
+            + '">'
             + html.escape(material)
             + "</a></li>"
             for quantity, material in materials
         )
         rendered_rows.append(
-            "<tr><td><a href=\""
+            '<tr><td><a href="'
             + recipe_link
-            + "\">"
+            + '">'
             + html.escape(recipe_name)
             + "</a></td><td>"
             + html.escape(skills)
@@ -1147,9 +1144,7 @@ def _render_material_usage_table(
     return (
         '<table class="wikitable uses-material-list">'
         "<thead><tr><th>Item</th><th>Skills</th><th>Materials</th></tr></thead>"
-        "<tbody>"
-        + "".join(rendered_rows)
-        + "</tbody></table>"
+        "<tbody>" + "".join(rendered_rows) + "</tbody></table>"
     )
 
 
@@ -1174,9 +1169,8 @@ def _expand_page(
     preprocess: PreprocessFunction,
     infobox_defs: Mapping[str, object],
     stats: RenderStats,
-    material_usage_index: dict[
-        str, list[tuple[str, str, list[tuple[str, str]]]]
-    ] | None = None,
+    material_usage_index: dict[str, list[tuple[str, str, list[tuple[str, str]]]]]
+    | None = None,
 ) -> tuple[str, str, int]:
     """Expand one page, retaining its source and recording expansion failures."""
     expanded = page.text
@@ -2160,9 +2154,8 @@ def _export_one_page(
     missing_images: set[str],
     categories_seen: set[str],
     source_url: str | None,
-    material_usage_index: dict[
-        str, list[tuple[str, str, list[tuple[str, str]]]]
-    ] | None = None,
+    material_usage_index: dict[str, list[tuple[str, str, list[tuple[str, str]]]]]
+    | None = None,
 ) -> tuple[PageExportResult, int, int]:
     """Expand and convert one article, recovering gracefully from parser failures."""
     filename = title_to_filename[normalize_title(page.title)]
@@ -2188,12 +2181,7 @@ def _export_one_page(
     )
 
     expanded, expansion_error, expansion_errors = _expand_page(
-        page,
-        context,
-        preprocess,
-        infobox_defs,
-        stats,
-        material_usage_index,
+        page, context, preprocess, infobox_defs, stats, material_usage_index
     )
     conversion = _convert_page_body(
         page,

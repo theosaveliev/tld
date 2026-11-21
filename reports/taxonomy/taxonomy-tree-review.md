@@ -2027,6 +2027,7 @@
 - [Planks](https://thelongdark.fandom.com/wiki/Planks)
 - [Salt Deposit](https://thelongdark.fandom.com/wiki/Salt_Deposit)
 - [Wheel](https://thelongdark.fandom.com/wiki/Wheel)
+
 ## 20. Safehouse Systems
 
 > Systems and reference pages for designating and customizing Safehouses.

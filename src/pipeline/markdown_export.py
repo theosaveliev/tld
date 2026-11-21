@@ -1188,6 +1188,7 @@ def _restore_deferred_material_tables_in_html(
             html_fragment = html_fragment.replace(token, table)
     return html_fragment
 
+
 def _expand_page(
     page: DumpPage,
     context: WikiContext,

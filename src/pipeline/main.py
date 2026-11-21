@@ -184,7 +184,19 @@ def audit_filenames(
     click.echo(f"Unique titles: {report['unique_titles']}")
     click.echo(f"Redirects seen: {report['redirects_seen']}")
     click.echo(f"Redirects excluded: {report['redirects_excluded']}")
+    adjusted = [
+        mapping
+        for mapping in report["mappings"]
+        if mapping["filename"] != mapping["original_filename"]
+    ]
+    click.echo(f"Filename collisions resolved: {len(adjusted)}")
     click.echo(f"Issues found: {len(report['issues'])}")
+
+    for mapping in adjusted:
+        click.echo(
+            f"  {mapping['title']}: "
+            f"{mapping['original_filename']} -> {mapping['filename']}"
+        )
 
     for issue in report["issues"]:
         click.echo(f"\n[{issue['kind']}] {', '.join(issue['titles'])}")

@@ -1101,16 +1101,21 @@ def _inline_span_markdown(node: lhtml.HtmlElement, content: str) -> str | None:
     return None
 
 
-def _inline_markdown_formatting(
-    node: lhtml.HtmlElement, tag: str, content: str
-) -> str | None:
-    """Convert inline emphasis, code, math, and baseline formatting."""
+def _inline_markdown_emphasis(tag: str, content: str) -> str | None:
+    """Convert inline emphasis and strike-through tags to Markdown."""
     if tag in {"strong", "b"}:
         return f"**{content}**" if content else ""
-    if tag in {"em", "i", "cite", "var"}:
+    if tag in {"em", "i", "cite", "var", "u", "mark"}:
         return f"*{content}*" if content else ""
     if tag in {"del", "s", "strike"}:
         return f"~~{content}~~" if content else ""
+    return None
+
+
+def _inline_markdown_semantics(
+    node: lhtml.HtmlElement, tag: str, content: str
+) -> str | None:
+    """Convert code, math, and baseline formatting tags to Markdown."""
     if tag in {"code", "kbd", "samp"}:
         return _markdown_code_span(node.text_content())
     if tag == "sup":
@@ -1120,11 +1125,18 @@ def _inline_markdown_formatting(
     if tag == "span":
         styled = _inline_span_markdown(node, content)
         return styled if styled is not None else content
-    if tag == "math" or "math" in (node.get("class") or "").split():
-        return "$" + content + "$" if content else ""
-    if tag in {"u", "mark"}:
-        return f"*{content}*" if content else ""
-    return None
+    is_math = tag == "math" or "math" in (node.get("class") or "").split()
+    return "$" + content + "$" if is_math and content else None
+
+
+def _inline_markdown_formatting(
+    node: lhtml.HtmlElement, tag: str, content: str
+) -> str | None:
+    """Convert inline emphasis, code, math, and baseline formatting."""
+    emphasis = _inline_markdown_emphasis(tag, content)
+    if emphasis is not None:
+        return emphasis
+    return _inline_markdown_semantics(node, tag, content)
 
 
 def _inline_markdown_media(

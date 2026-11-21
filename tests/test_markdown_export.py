@@ -343,6 +343,8 @@ def test_html_fragment_to_markdown_handles_custom_tags() -> None:
 <p><q>Stay warm</q> <abbr title="The Long Dark">TLD</abbr> <mark>Warning</mark></p>
 <custom-card style="display: block"><p>Second block</p></custom-card>
 <!-- This comment is not visible content. -->
+<script>hidden script content</script>
+<style>.hidden { display: none; }</style>
 </fandom-widget>"""
 
     markdown = _html_fragment_to_markdown(fragment)
@@ -353,6 +355,8 @@ def test_html_fragment_to_markdown_handles_custom_tags() -> None:
     assert "**Warning**" in markdown
     assert "Second block" in markdown
     assert "This comment is not visible content" not in markdown
+    assert "hidden script content" not in markdown
+    assert ".hidden" not in markdown
     assert not markdown_export_module.HTML_TAG_RE.search(markdown)
     assert "<!--" not in markdown
 

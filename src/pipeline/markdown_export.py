@@ -494,6 +494,24 @@ def _copy_image(
     return output_name
 
 
+def _restore_infobox_headers(table: Any) -> None:
+    """Turn infobox data cells into semantic table headers."""
+    for row in table.iter("tr"):
+        cells = [child for child in row if child.tag == "td"]
+        if len(cells) == 2:
+            cells[0].tag = "th"
+        elif len(cells) == 1 and cells[0].get("colspan") == "2":
+            paragraphs = [child for child in cells[0] if child.tag == "p"]
+            if (
+                len(paragraphs) == 1
+                and len(paragraphs[0]) == 1
+                and paragraphs[0][0].tag == "strong"
+                and not (paragraphs[0].text or "").strip()
+            ):
+                cells[0].tag = "th"
+                cells[0].set("class", "section")
+
+
 def _restore_generated_tables(root: Any) -> None:
     """Restore infobox and gallery semantics tagged by the Fandom preprocessor."""
     for table in root.iter("table"):
@@ -508,23 +526,8 @@ def _restore_generated_tables(root: Any) -> None:
         caption.text = caption_text
         if not caption.text.strip() and len(caption) == 0:
             table.remove(caption)
-        if table_class != "infobox":
-            continue
-
-        for row in table.iter("tr"):
-            cells = [child for child in row if child.tag == "td"]
-            if len(cells) == 2:
-                cells[0].tag = "th"
-            elif len(cells) == 1 and cells[0].get("colspan") == "2":
-                paragraphs = [child for child in cells[0] if child.tag == "p"]
-                if (
-                    len(paragraphs) == 1
-                    and len(paragraphs[0]) == 1
-                    and paragraphs[0][0].tag == "strong"
-                    and not (paragraphs[0].text or "").strip()
-                ):
-                    cells[0].tag = "th"
-                    cells[0].set("class", "section")
+        if table_class == "infobox":
+            _restore_infobox_headers(table)
 
 
 def _restore_thumbnail_captions(root: Any) -> None:

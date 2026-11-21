@@ -600,8 +600,6 @@ def _rewrite_image_nodes(
         caption = label[len("XTHUMB") :].strip() if label.startswith("XTHUMB") else ""
         placeholder = etree.Element("span")
         placeholder.text = f"[Missing image: {source_name}]"
-        if caption:
-            placeholder.tail = " " + caption
         parent = image.getparent()
         if parent is not None:
             placeholder.tail = (" " + caption if caption else "") + (image.tail or "")
@@ -879,7 +877,9 @@ def _load_renderer_pipeline(
     load_infobox_defs = getattr(renderer, "load_infobox_defs")
     wtp_factory = getattr(renderer, "Wtp")
     pandoc_selftest = getattr(renderer, "pandoc_selftest")
-    context, articles, redirects = _load_wiki_context(dump_path, wtp_factory)
+    context, articles, redirects, redirect_count = _load_wiki_context(
+        dump_path, wtp_factory
+    )
     infobox_defs = load_infobox_defs(context)
     return (
         context,
@@ -889,6 +889,7 @@ def _load_renderer_pipeline(
         postprocess,
         infobox_defs,
         pandoc_selftest,
+        redirect_count,
     )
 
 

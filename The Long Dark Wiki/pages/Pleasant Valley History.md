@@ -48,25 +48,25 @@ _Knowledge.png_
 
 _The following text is transcribed from **Pleasant Valley History Part One**_
 
-**Pleasant Valley’s harsh and remote location, even for Great Bear Island, has shaped much of its history and the character of its residents. The Valley’s geography -- wide, open fields ringed by jagged mountain ranges -- creates unusually strong weather events. Locals have long told of multi-day storms, high winds, and a deep, endless cold during the Winter months.
+Pleasant Valley’s harsh and remote location, even for Great Bear Island, has shaped much of its history and the character of its residents. The Valley’s geography -- wide, open fields ringed by jagged mountain ranges -- creates unusually strong weather events. Locals have long told of multi-day storms, high winds, and a deep, endless cold during the Winter months.
 
-But these conditions didn’t keep Great Bear Islanders from settling there. In fact, some saw the Valley’s wild and desolate hills as an ideal place to homestead.**
+But these conditions didn’t keep Great Bear Islanders from settling there. In fact, some saw the Valley’s wild and desolate hills as an ideal place to homestead.
 
 ### **Pleasant Valley History Part Two**
 
 _The following text is transcribed from **Pleasant Valley History Part Two**_
 
-**Founded in 1919, Thomson’s Crossing remains the only significant community in Pleasant Valley. With a history tied to the farming and mining concerns of its residents, the isolated town followed its own path along the boom and bust cycle of Great Bear Island industry.
+Founded in 1919, Thomson’s Crossing remains the only significant community in Pleasant Valley. With a history tied to the farming and mining concerns of its residents, the isolated town followed its own path along the boom and bust cycle of Great Bear Island industry.
 
-With greater and greater instability due to seismic activity, the workings in the nearby mines proved too dangerous for later generations to exploit. And with the arrival of local activists, determined to keep new industry from taking root in Pleasant Valley, Thomson’s Crossing began its steady decline.**
+With greater and greater instability due to seismic activity, the workings in the nearby mines proved too dangerous for later generations to exploit. And with the arrival of local activists, determined to keep new industry from taking root in Pleasant Valley, Thomson’s Crossing began its steady decline.
 
 ### **Pleasant Valley History Part Three**
 
 _The following text is transcribed from **Pleasant Valley History Part Three**_
 
-**With the onset of The Collapse, Pleasant Valley locals didn’t notice the brunt of change all that quickly. Being so accustomed to remote living already, it took several years before life shifted in any dramatic fashion.
+With the onset of The Collapse, Pleasant Valley locals didn’t notice the brunt of change all that quickly. Being so accustomed to remote living already, it took several years before life shifted in any dramatic fashion.
 
-Residents did begin to notice the growing scarcity of the few creature comforts imported to the Island. But connected as they were through regular reports from the regional weather service radio station, their post-Collapse isolation took some years to set in.**
+Residents did begin to notice the growing scarcity of the few creature comforts imported to the Island. But connected as they were through regular reports from the regional weather service radio station, their post-Collapse isolation took some years to set in.
 
 ## Update history
 

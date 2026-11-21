@@ -42,7 +42,7 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Pleasant Valley Collectible, Part Two**_
 
-**Parnell was out checking road conditions for his next delivery, and saw some of those tree speaker maniacs lurking near the highway passes in and out of the Valley. He wasn't sure what they were doing, but we need to stay vigilant!**
+Parnell was out checking road conditions for his next delivery, and saw some of those tree speaker maniacs lurking near the highway passes in and out of the Valley. He wasn't sure what they were doing, but we need to stay vigilant!
 
 ## Update history
 

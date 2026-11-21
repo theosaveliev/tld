@@ -34,13 +34,13 @@ _Foreman's\_Site\_Report\_Day\_64\_icon.png_
 
 _The following text is transcribed from **Foreman's Site Report, Day 64**_
 
-**Their latest big idea is to bring some kind of doctor in. Just to talk, they said.
+Their latest big idea is to bring some kind of doctor in. Just to talk, they said.
 
 None of the guys on my team believe a word of it.
 
 Ever since we flipped the switch on that machine, no one seems settled. We want to get paid, sure. But we want to make it out of this hole in the ground, too.
 
-I’ve gotta put a stop to this.**
+I’ve gotta put a stop to this.
 
 ## Update history
 

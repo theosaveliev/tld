@@ -42,7 +42,7 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Forest Talker Collectible, Part Three**_
 
-**...as the years fall away in front of us, so fall the boulders from the hills. All this will look like a victory for Great Bear. Even as Mother Nature recovers Pleasant Valley, whoever remains will be forced to adapt, die, or move on.**
+...as the years fall away in front of us, so fall the boulders from the hills. All this will look like a victory for Great Bear. Even as Mother Nature recovers Pleasant Valley, whoever remains will be forced to adapt, die, or move on.
 
 ## Update history
 

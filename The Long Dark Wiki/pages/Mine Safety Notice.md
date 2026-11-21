@@ -36,13 +36,13 @@ _Mine\_Safety\_Notice\_icon.png_
 
 _The following text is transcribed from **Mine Safety Notice**_
 
-**WARNING!
+WARNING!
 
 Due to recent funding shortfalls, we've had to carry out additional blasting on Level 2 sooner than expected.
 
 We're aware this may impact air quality containment controls on lower levels.
 
-We only ask that you follow posted guidelines when working in areas of the facility that may be impacted by any noxious vapors.**
+We only ask that you follow posted guidelines when working in areas of the facility that may be impacted by any noxious vapors.
 
 ## Update history
 

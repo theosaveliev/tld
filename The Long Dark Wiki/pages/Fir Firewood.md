@@ -76,36 +76,36 @@ Since a single piece of Fir Firewood has a fire duration of 1 hour and 30 minute
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Bear Hide Bed](./Bear%20Hide%20Bed.md) | None | 18 × Fir Firewood; 4 × Cured Gut; 1 × Cured Black Bear Hide; 16 × Ptarmigan Down |
-| [Coffee Table](./Coffee%20Table.md) | None | 6 × Fir Firewood |
-| [Decorative Art](./Decorative%20Art.md) | None | 2 × Fir Firewood; 1 × Cedar Firewood; 1 × Reclaimed Wood |
-| [Decorative Art (2)](./Decorative%20Art%20%282%29.md) | None | 2 × Fir Firewood; 1 × Cedar Firewood; 1 × Reclaimed Wood |
-| [Display Shelf](./Display%20Shelf.md) | None | 12 × Fir Firewood; 4 × Reclaimed Wood |
-| [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | None | 2 × Fir Firewood; 1 × Scrap Metal; 1 × Hockey Jersey |
-| [Framed Photo](./Framed%20Photo.md) | None | 1 × Fir Firewood; 1 × Camera |
-| [Hide Chair](./Hide%20Chair.md) | None | 8 × Fir Firewood; 2 × Cured Deer Hide; 8 × Ptarmigan Down; 3 × Cured Gut |
-| [Hide Couch](./Hide%20Couch.md) | None | 15 × Fir Firewood; 4 × Cured Deer Hide; 16 × Ptarmigan Down; 5 × Cured Gut |
-| [Meat Curing Box](./Meat%20Curing%20Box.md) | None | 10 × Fir Firewood; 8.00 kg × Salt |
-| [Mounted Burbot](./Mounted%20Burbot.md) | None | 1 × Fir Firewood; 1 × Burbot (Raw) |
-| [Mounted Coho Salmon](./Mounted%20Coho%20Salmon.md) | None | 1 × Fir Firewood; 1 × Coho Salmon (Raw) |
-| [Mounted Goldeye](./Mounted%20Goldeye.md) | None | 1 × Fir Firewood; 1 × Goldeye (Raw) |
-| [Mounted Lake Whitefish](./Mounted%20Lake%20Whitefish.md) | None | 1 × Fir Firewood; 1 × Lake Whitefish (Raw) |
-| [Mounted Rainbow Trout](./Mounted%20Rainbow%20Trout.md) | None | 1 × Fir Firewood; 1 × Rainbow Trout (Raw) |
-| [Mounted Red Irish Lord](./Mounted%20Red%20Irish%20Lord.md) | None | 1 × Fir Firewood; 1 × Red Irish Lord (Raw) |
-| [Mounted Rockfish](./Mounted%20Rockfish.md) | None | 1 × Fir Firewood; 1 × Rockfish (Raw) |
-| [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md) | None | 1 × Fir Firewood; 1 × Smallmouth Bass (Raw) |
-| [Quilted Bed](./Quilted%20Bed.md) | None | 12 × Fir Firewood; 10 × Cloth; 6 × Cured Gut; 16 × Ptarmigan Down |
-| [Round Table](./Round%20Table.md) | None | 12 × Fir Firewood |
-| [Rustic Closet](./Rustic%20Closet.md) | None | 18 × Fir Firewood; 3 × Reclaimed Wood; 2 × Scrap Metal |
-| [Rustic Cupboard](./Rustic%20Cupboard.md) | None | 10 × Fir Firewood; 4 × Reclaimed Wood; 2 × Scrap Metal |
-| [Rustic Display Shelf](./Rustic%20Display%20Shelf.md) | None | 10 × Fir Firewood; 2 × Reclaimed Wood |
-| [Rustic Stool](./Rustic%20Stool.md) | None | 4 × Fir Firewood |
-| [Rustic Storage Trunk](./Rustic%20Storage%20Trunk.md) | None | 9 × Fir Firewood |
-| [Rustic Table](./Rustic%20Table.md) | None | 10 × Fir Firewood |
-| [Square Table](./Square%20Table.md) | None | 8 × Fir Firewood |
-| [Tall Rustic Closet](./Tall%20Rustic%20Closet.md) | None | 24 × Fir Firewood; 4 × Reclaimed Wood; 2 × Scrap Metal |
-| [Wide Display Shelf](./Wide%20Display%20Shelf.md) | None | 18 × Fir Firewood; 4 × Reclaimed Wood |
-| [Wide Dresser](./Wide%20Dresser.md) | None | 16 × Fir Firewood; 6 × Reclaimed Wood |
+| &lt;a href="Bear Hide Bed"&gt;Bear Hide Bed&lt;/a&gt; | None | - 18 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; / - 1 × &lt;a href="Cured Black Bear Hide"&gt;Cured Black Bear Hide&lt;/a&gt; / - 16 × &lt;a href="Ptarmigan Down"&gt;Ptarmigan Down&lt;/a&gt; |
+| &lt;a href="Coffee Table"&gt;Coffee Table&lt;/a&gt; | None | - 6 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; |
+| &lt;a href="Decorative Art"&gt;Decorative Art&lt;/a&gt; | None | - 2 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 1 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Decorative Art (2)"&gt;Decorative Art (2)&lt;/a&gt; | None | - 2 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 1 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Display Shelf"&gt;Display Shelf&lt;/a&gt; | None | - 12 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Framed Hockey Jersey"&gt;Framed Hockey Jersey&lt;/a&gt; | None | - 2 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Hockey Jersey"&gt;Hockey Jersey&lt;/a&gt; |
+| &lt;a href="Framed Photo"&gt;Framed Photo&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Camera"&gt;Camera&lt;/a&gt; |
+| &lt;a href="Hide Chair"&gt;Hide Chair&lt;/a&gt; | None | - 8 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 2 × &lt;a href="Cured Deer Hide"&gt;Cured Deer Hide&lt;/a&gt; / - 8 × &lt;a href="Ptarmigan Down"&gt;Ptarmigan Down&lt;/a&gt; / - 3 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
+| &lt;a href="Hide Couch"&gt;Hide Couch&lt;/a&gt; | None | - 15 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Cured Deer Hide"&gt;Cured Deer Hide&lt;/a&gt; / - 16 × &lt;a href="Ptarmigan Down"&gt;Ptarmigan Down&lt;/a&gt; / - 5 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
+| &lt;a href="Meat Curing Box"&gt;Meat Curing Box&lt;/a&gt; | None | - 10 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 8.00 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt; |
+| &lt;a href="Mounted Burbot"&gt;Mounted Burbot&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Burbot (Raw)"&gt;Burbot (Raw)&lt;/a&gt; |
+| &lt;a href="Mounted Coho Salmon"&gt;Mounted Coho Salmon&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Coho Salmon (Raw)"&gt;Coho Salmon (Raw)&lt;/a&gt; |
+| &lt;a href="Mounted Goldeye"&gt;Mounted Goldeye&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Goldeye (Raw)"&gt;Goldeye (Raw)&lt;/a&gt; |
+| &lt;a href="Mounted Lake Whitefish"&gt;Mounted Lake Whitefish&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Lake Whitefish (Raw)"&gt;Lake Whitefish (Raw)&lt;/a&gt; |
+| &lt;a href="Mounted Rainbow Trout"&gt;Mounted Rainbow Trout&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Rainbow Trout (Raw)"&gt;Rainbow Trout (Raw)&lt;/a&gt; |
+| &lt;a href="Mounted Red Irish Lord"&gt;Mounted Red Irish Lord&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Red Irish Lord (Raw)"&gt;Red Irish Lord (Raw)&lt;/a&gt; |
+| &lt;a href="Mounted Rockfish"&gt;Mounted Rockfish&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Rockfish (Raw)"&gt;Rockfish (Raw)&lt;/a&gt; |
+| &lt;a href="Mounted Smallmouth Bass"&gt;Mounted Smallmouth Bass&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Smallmouth Bass (Raw)"&gt;Smallmouth Bass (Raw)&lt;/a&gt; |
+| &lt;a href="Quilted Bed"&gt;Quilted Bed&lt;/a&gt; | None | - 12 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 10 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 6 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; / - 16 × &lt;a href="Ptarmigan Down"&gt;Ptarmigan Down&lt;/a&gt; |
+| &lt;a href="Round Table"&gt;Round Table&lt;/a&gt; | None | - 12 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; |
+| &lt;a href="Rustic Closet"&gt;Rustic Closet&lt;/a&gt; | None | - 18 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 3 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; / - 2 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
+| &lt;a href="Rustic Cupboard"&gt;Rustic Cupboard&lt;/a&gt; | None | - 10 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; / - 2 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
+| &lt;a href="Rustic Display Shelf"&gt;Rustic Display Shelf&lt;/a&gt; | None | - 10 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 2 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Rustic Stool"&gt;Rustic Stool&lt;/a&gt; | None | - 4 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; |
+| &lt;a href="Rustic Storage Trunk"&gt;Rustic Storage Trunk&lt;/a&gt; | None | - 9 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; |
+| &lt;a href="Rustic Table"&gt;Rustic Table&lt;/a&gt; | None | - 10 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; |
+| &lt;a href="Square Table"&gt;Square Table&lt;/a&gt; | None | - 8 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; |
+| &lt;a href="Tall Rustic Closet"&gt;Tall Rustic Closet&lt;/a&gt; | None | - 24 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; / - 2 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
+| &lt;a href="Wide Display Shelf"&gt;Wide Display Shelf&lt;/a&gt; | None | - 18 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Wide Dresser"&gt;Wide Dresser&lt;/a&gt; | None | - 16 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 6 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
 
 ## Update history
 

@@ -42,7 +42,7 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Forest Talker Collectible, Part Two**_
 
-**...people aren't ready for this kind of change. They live among nature, but not with it. Inviting the machines in, well, they'll see how that goes for them down the road. It's on the road where we'll make our stand.**
+...people aren't ready for this kind of change. They live among nature, but not with it. Inviting the machines in, well, they'll see how that goes for them down the road. It's on the road where we'll make our stand.
 
 ## Update history
 

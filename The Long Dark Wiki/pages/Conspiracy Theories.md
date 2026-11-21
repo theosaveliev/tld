@@ -36,13 +36,13 @@ _Conspiracy\_Theories\_icon.png_
 
 _The following text is transcribed from **Conspiracy Theories**_
 
-**Those lights keep coming back, over and over. Never stops. Ever since that first night. And the wolves are strange critters now. It's gotta be down to somethin at Blackrock, but I just don't know...
+Those lights keep coming back, over and over. Never stops. Ever since that first night. And the wolves are strange critters now. It's gotta be down to somethin at Blackrock, but I just don't know...
 
 It's all gettin fuzzy around the edges. I keep dreaming of the sea, being back on the water again...see myself tumblin down the mountain, can't stop myself. River swallows me up.
 
 Never shoulda stayed round here after I got out. Was like a big hole and now I'm sitting on the edge of it looking back down. Down where I already was.
 
-Like the doc said back then, keep writin...if you're writin you're breathin.**
+Like the doc said back then, keep writin...if you're writin you're breathin.
 
 ## Trivia
 

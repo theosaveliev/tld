@@ -34,7 +34,7 @@ _A\_Page\_From\_A\_Journal\_icon.png_
 
 _The following text is transcribed from **A Page From A Journal**_
 
-**This mine is a graveyard. Maybe my own too, if I’m not careful. The wolves here are unwell. All this pollution in the ground. Awful.
+This mine is a graveyard. Maybe my own too, if I’m not careful. The wolves here are unwell. All this pollution in the ground. Awful.
 
 Whatever happened, it goes beyond any of the stories Poppy told me about Langston Corp and the bad old days of uranium extraction.
 
@@ -44,7 +44,7 @@ I couldn't access the lowest levels without suffocating, but there seems to be a
 
 And there’s that downed helicopter in the hills above the old water extraction ponds I need to check out. Might be some tools to scavenge there, or in the concentrator and headframe building.
 
-For now, a moment to rest.**
+For now, a moment to rest.
 
 ## Update history
 

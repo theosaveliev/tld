@@ -42,9 +42,9 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Local Legends - Ghost Stag**_
 
-**Long battered by harsh winters and isolation, Pleasant Valley residents often sought refuge and comfort in nature. A favourite pastime was standing watch for a legendary stag, which the older locals claimed could bring about a special insight.
+Long battered by harsh winters and isolation, Pleasant Valley residents often sought refuge and comfort in nature. A favourite pastime was standing watch for a legendary stag, which the older locals claimed could bring about a special insight.
 
-That is if you could ever find the wild creature. Whether it was the mysterious animal itself, or the very act of peaceful observation which brought this new awareness to light, no one rightly knows any more.**
+That is if you could ever find the wild creature. Whether it was the mysterious animal itself, or the very act of peaceful observation which brought this new awareness to light, no one rightly knows any more.
 
 ## Update history
 

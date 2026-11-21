@@ -34,11 +34,11 @@ _Foreman's\_Site\_Report\_Day\_45\_icon.png_
 
 _The following text is transcribed from **Foreman's Site Report Day 45**_
 
-**All our temporary scaffolding is coming apart now. Earthquakes and nervous hands will do that.
+All our temporary scaffolding is coming apart now. Earthquakes and nervous hands will do that.
 
 The final cables are set and insulated. We still don’t know if it’s enough.
 
-The generators they brought in could power a small town through the winter.**
+The generators they brought in could power a small town through the winter.
 
 ## Update history
 

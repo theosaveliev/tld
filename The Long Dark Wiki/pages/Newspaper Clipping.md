@@ -42,9 +42,9 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Newspaper Clipping**_
 
-**...stolen from a church in Thomson's Crossing, the artifact was gifted to the parish by a prominent local landowner decades ago, according to Father Thomas, the local parish priest.
+...stolen from a church in Thomson's Crossing, the artifact was gifted to the parish by a prominent local landowner decades ago, according to Father Thomas, the local parish priest.
 
-"Although its monetary value is considerable, for members of our church it is a spiritual matter as well," he said...**
+"Although its monetary value is considerable, for members of our church it is a spiritual matter as well," he said...
 
 ## Update history
 

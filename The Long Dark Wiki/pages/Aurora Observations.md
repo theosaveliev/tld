@@ -36,9 +36,9 @@ _Aurora\_Observations\_icon.png_
 
 _The following text is transcribed from **Aurora Observations**_
 
-**Those lights in the sky are doing some funny things to the machines around here. We found this old shed, and the computers started turning on by themselves, lamps lighting up. We've been trying to call down the main office when the aurora or whatever it's called is out, but we're not getting through. Can't tell if the phones even work. There are just a handful of us from the winter crew holed up here. Some of them want to try for the Coast and the settlements there. If you find this, that's where we've gone.
+Those lights in the sky are doing some funny things to the machines around here. We found this old shed, and the computers started turning on by themselves, lamps lighting up. We've been trying to call down the main office when the aurora or whatever it's called is out, but we're not getting through. Can't tell if the phones even work. There are just a handful of us from the winter crew holed up here. Some of them want to try for the Coast and the settlements there. If you find this, that's where we've gone.
 
-We're still hoping Breyerhouse sends a team up before it comes to that. Even with the fire barrel we brought indoors, it's a bitter cold.**
+We're still hoping Breyerhouse sends a team up before it comes to that. Even with the fire barrel we brought indoors, it's a bitter cold.
 
 ## Update history
 

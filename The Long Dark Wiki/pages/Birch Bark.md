@@ -69,6 +69,10 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Prepared Birch Bark"&gt;Prepared Birch Bark&lt;/a&gt; | None | - 2 × &lt;a href="Birch Bark"&gt;Birch Bark&lt;/a&gt; |
+
 ## Tips
 
 - Birch forests are present near the [Lonely Homestead](./Lonely%20Homestead.md) ([Pleasant Valley](./Pleasant%20Valley.md)), western [Ravine](./The%20Ravine.md), the western bank of the river heading south from [Carter Dam](./Carter%20Hydro%20Dam.md) in [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md), the northwestern corner of [Milton Basin](./Milton%20Basin.md), and north-western [Bleak Inlet](./Bleak%20Inlet.md). One of the largest birch forests is in [Ash Canyon](./Ash%20Canyon.md), South/Southwest of [Stone Shelf Cave](./Stone%20Shelf%20Cave.md). Lone birch trees can be found sporadically in all regions.

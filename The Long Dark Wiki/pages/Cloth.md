@@ -30,6 +30,23 @@ It can be used to repair [Clothing](./Clothing.md) in conjunction with a [Sewing
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Bandage"&gt;Bandage&lt;/a&gt; | None | - 1 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; |
+| &lt;a href="Bear Skin Bedroll"&gt;Bear Skin Bedroll&lt;/a&gt; | None | - 2 × &lt;a href="Cured Black Bear Hide"&gt;Cured Black Bear Hide&lt;/a&gt; / - 5 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 6 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
+| &lt;a href="Fishing Tip-Up"&gt;Fishing Tip-Up&lt;/a&gt; | None | - 2 × &lt;a href="Stick"&gt;Stick&lt;/a&gt; / - 1 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Fishing Tackle"&gt;Fishing Tackle&lt;/a&gt; |
+| &lt;a href="Improvised Down Bedroll"&gt;Improvised Down Bedroll&lt;/a&gt; | None | - 1 × &lt;a href="Bedroll"&gt;Bedroll&lt;/a&gt; / - 3 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 10 × &lt;a href="Ptarmigan Down"&gt;Ptarmigan Down&lt;/a&gt; |
+| &lt;a href="Improvised Hand Wraps"&gt;Improvised Hand Wraps&lt;/a&gt; | None | - 4 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; |
+| &lt;a href="Improvised Hatchet"&gt;Improvised Hatchet&lt;/a&gt; | None | - 5 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; |
+| &lt;a href="Improvised Head Wrap"&gt;Improvised Head Wrap&lt;/a&gt; | None | - 2 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; |
+| &lt;a href="Improvised Insulation"&gt;Improvised Insulation&lt;/a&gt; | None | - 4 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 5 × &lt;a href="Ptarmigan Down"&gt;Ptarmigan Down&lt;/a&gt; |
+| &lt;a href="Improvised Knife"&gt;Improvised Knife&lt;/a&gt; | None | - 3 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; |
+| &lt;a href="Noisemaker"&gt;Noisemaker&lt;/a&gt; | None | - 1 × &lt;a href="Recycled Can"&gt;Recycled Can&lt;/a&gt; / - 1 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 0.10 kg × &lt;a href="Can of Gunpowder"&gt;Can of Gunpowder&lt;/a&gt; |
+| &lt;a href="Quilted Bed"&gt;Quilted Bed&lt;/a&gt; | None | - 12 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 10 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 6 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; / - 16 × &lt;a href="Ptarmigan Down"&gt;Ptarmigan Down&lt;/a&gt; |
+| &lt;a href="Rustic Bed"&gt;Rustic Bed&lt;/a&gt; | None | - 10 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 12 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
+| &lt;a href="Snow Shelter"&gt;Snow Shelter&lt;/a&gt; | None | - 15 × &lt;a href="Stick"&gt;Stick&lt;/a&gt; / - 5 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; |
+| &lt;a href="Torch"&gt;Torch&lt;/a&gt; | None | - 3 × &lt;a href="Stick"&gt;Stick&lt;/a&gt; / - 1 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 0.10 L × &lt;a href="Lantern Fuel"&gt;Lantern Fuel&lt;/a&gt; |
+
 ## Gallery
 
 ![3D model](../assets/Cloth.png)

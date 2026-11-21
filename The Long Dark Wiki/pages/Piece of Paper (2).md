@@ -36,7 +36,7 @@ _Piece\_of\_Paper\_icon.png_
 
 _The following text is transcribed from **Piece of Paper**_
 
-**Dear Mia,
+Dear Mia,
 
 I've been thinkin' we should see about finally letting "Goose" have a rest.
 
@@ -50,7 +50,7 @@ Might stir up some trouble in town - no one likes a good idea these days. Much l
 
 What do ya think?
 
-K.**
+K.
 
 ## Update history
 

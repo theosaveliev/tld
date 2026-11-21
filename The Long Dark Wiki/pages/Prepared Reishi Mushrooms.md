@@ -71,6 +71,10 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Reishi Tea"&gt;Reishi Tea&lt;/a&gt; | None | - 1 × &lt;a href="Prepared Reishi Mushrooms"&gt;Prepared Reishi Mushrooms&lt;/a&gt; / - 0.25 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; |
+
 ## Tips
 
 - Reishi Mushrooms are found sporadically in all regions on the trunks of dead pine trees.

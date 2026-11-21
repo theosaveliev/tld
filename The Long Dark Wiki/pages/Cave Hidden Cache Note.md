@@ -42,7 +42,7 @@ During the course of the mission, the survivor finds the note _Cave Hidden Cache
 
 _The following text is transcribed from **Cave Hidden Cache Note**_
 
-**I don't trust anyone anymore. People are getting desperate, and it's only been a few days since the power went out. I'm going to stash some supplies in our special place above town. You know, near where we look at the stars together? We may need them before help gets here.**
+I don't trust anyone anymore. People are getting desperate, and it's only been a few days since the power went out. I'm going to stash some supplies in our special place above town. You know, near where we look at the stars together? We may need them before help gets here.
 
 ## Update history
 

@@ -34,13 +34,13 @@ _Pastor's\_Note\_icon.png_
 
 _The following text is transcribed from **Pastor's Note**_
 
-**Dear Parishioners,
+Dear Parishioners,
 
 It is with a Heavy heart that I inform you of the Archdiocese's decision to withdraw me from St. Christopher's parish, due to lack of activity. Though there have never been more than a few of you in recent years, your dedication to the Church and support of my efforts here will not be forgotten. Henceforth, services will be available via Skype only. Continued Latin lessons, also!
 
 Please accept my apologies. God bless.
 
-- Father Francis McGill**
+- Father Francis McGill
 
 ## Update history
 

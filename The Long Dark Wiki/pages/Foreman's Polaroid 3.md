@@ -30,7 +30,7 @@ _Foreman's\_Polaroid\_3\_icon.png_
 
 _The following text is transcribed from **Foreman's Polaroid 3**_
 
-**Got to double back and recheck the big bunker. The hidden room.**
+Got to double back and recheck the big bunker. The hidden room.
 
 ## Update history
 

@@ -52,6 +52,10 @@ _Prepared\_Burdock\_icon.png_
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Burdock Tea"&gt;Burdock Tea&lt;/a&gt; | None | - 1 × &lt;a href="Prepared Burdock"&gt;Prepared Burdock&lt;/a&gt; / - 0.25 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; |
+
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

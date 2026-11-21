@@ -38,7 +38,7 @@ in [Perseverance Wilds](./Perseverance%20Wilds.md) in the main mission [To Those
 
 _The following text is transcribed from **Water Stained Paper**_
 
-**I'm starting to get it. Starting to see the BIG PICTURE.
+I'm starting to get it. Starting to see the BIG PICTURE.
 
 These damn, dark places every night. A bitter, cold. But I can't warm up.
 
@@ -46,7 +46,7 @@ I have to wash it away. -THEY- knew it too, and they left. They all left.
 
 \[writing smudged out\]
 
-I can go deeper.**
+I can go deeper.
 
 ## Update history
 

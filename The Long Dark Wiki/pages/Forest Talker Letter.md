@@ -38,43 +38,43 @@ _The first is found on the barrel with the [Elevator Crank](./Elevator%20Crank.m
 
 _The following text is transcribed from **Forest Talker Letter**_
 
-**We finally reached the mine and found the supply cache. If that last transmission was right, this could be what I've been looking for all along.
+We finally reached the mine and found the supply cache. If that last transmission was right, this could be what I've been looking for all along.
 
 We know that 18 was the last number in the padlock combination, now I just have to find the other two. There must be more clues left behind.
 
-There's a creeping darkness in here. I hate it. But I have to go deeper.**
+There's a creeping darkness in here. I hate it. But I have to go deeper.
 
 _The second letter is found on a corpse holding the [Mine Gate Key](./Mine%20Gate%20Key.md). The letter reads:_
 
 _The following text is transcribed from **Forest Talker Letter**_
 
-**The gas, my god.
+The gas, my god.
 
 There's some kind (Sic) light system rigged up to deliver one of the numbers for the padlock.
 
-I have to find a way to reach the right spot on the second floor so I can see it and decipher the number from the flashing light. The others went on without me. Just need to rest here a while.**
+I have to find a way to reach the right spot on the second floor so I can see it and decipher the number from the flashing light. The others went on without me. Just need to rest here a while.
 
 _The third letter is found on a corpse below the [Detonators](./Detonators.md). The letter is soaked in blood and reads:_
 
 _The following text is transcribed from **Forest Talker Letter**_
 
-**High explosives. Toxic gas. Bottomless pits.
+High explosives. Toxic gas. Bottomless pits.
 
 A fool's errand, but we did decipher the final part of the padlock combination -- they marked the signs leading to the elevator. Clever!
 
-Now to get the hell out of here.**
+Now to get the hell out of here.
 
 _Once all 3 notes are found, the examine text for the **Forest Talker Letter** note reads:_
 
 _The following text is transcribed from **Forest Talker Letter**_
 
-**Notes on a dark riddle:
+Notes on a dark riddle:
 
 - Last number is 18.
 
 - One of the numbers involves a light system on the second floor. Find the marker to see the light.
 
-- One of the numbers is connected to the yellow markings found on some of the signs.**
+- One of the numbers is connected to the yellow markings found on some of the signs.
 
 ## Update history
 

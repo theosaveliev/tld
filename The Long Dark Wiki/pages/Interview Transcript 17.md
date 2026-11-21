@@ -34,7 +34,7 @@ _Interview\_Transcript\_17\_icon.png_
 
 _The following text is transcribed from **Interview Transcript 17**_
 
-**Entry 17, Project Medical Officer.
+Entry 17, Project Medical Officer.
 
 We have attempted various psychological interventions with the team members.
 
@@ -58,7 +58,7 @@ Wha...what did we do? What did they make us do? They can’t get away with this.
 
 –
 
-End recording.**
+End recording.
 
 ## Update history
 

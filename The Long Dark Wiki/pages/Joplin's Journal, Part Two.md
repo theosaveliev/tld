@@ -42,9 +42,9 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Joplin's Journal, Part Two**_
 
-**All these quakes are a sign. Old world’s comin down around me. Got to be on the move, can't stay still.
+All these quakes are a sign. Old world’s comin down around me. Got to be on the move, can't stay still.
 
-Got to get away, got to get up higher. Someplace in the open sky. Past the timberline. Way up.**
+Got to get away, got to get up higher. Someplace in the open sky. Past the timberline. Way up.
 
 ## Update history
 

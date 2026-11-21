@@ -36,7 +36,7 @@ _Letter\_(Car)\_icon.png_
 
 _The following text is transcribed from **Letter**_
 
-**\[heading on the letter is smudged and unreadable\]
+\[heading on the letter is smudged and unreadable\]
 
 We are pleased to inform you that your paper, "Black Hole Collisions and a New Architecture for Dark Energy Cosmology" has been accepted for evaluation and potential publication in Canadian Physics Review.
 
@@ -46,7 +46,7 @@ Warm regards,
 
 B. Tonkov
 
-Editor-in-Chief**
+Editor-in-Chief
 
 ## Update history
 

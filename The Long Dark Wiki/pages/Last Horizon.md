@@ -48,8 +48,8 @@ _Ptarmigan\_icon.png_
 
 ## Preface
 
-** _SPOILER WARNING_  
- _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._ **
+_SPOILER WARNING_  
+ _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._
 
 Continuing the events of the last Tale, the survivor buries the remains of the Security Chief and follows a nearby pass from [Enduring Waterfall](./Enduring%20Waterfall.md) into a hidden mountain installation, then sets out to find any evidence of Rüdiger's escape. Head to [Sundered Pass](./Sundered%20Pass.md), where a Weather Station that was mentioned in the Security Chief's notes may hold clues as to the fate of Rüdiger, along with any successful results of his project.
 

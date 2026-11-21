@@ -34,7 +34,7 @@ _Memento\_Mori\_3\_icon.png_
 
 _The following text is transcribed from **Memento Mori 3**_
 
-**I left you behind. My guts freezing. My feet on fire. Each step a hundred years. It was too far, too far.**
+I left you behind. My guts freezing. My feet on fire. Each step a hundred years. It was too far, too far.
 
 ## Update history
 

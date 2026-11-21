@@ -42,9 +42,9 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Local Legends - The Lost Cave**_
 
-**A rite of passage for the few younger folk who remained in Pleasant Valley during recent years, hunting for the cave was one way to seek refuge from the reality of the region's extreme isolation.
+A rite of passage for the few younger folk who remained in Pleasant Valley during recent years, hunting for the cave was one way to seek refuge from the reality of the region's extreme isolation.
 
-A way to leave, without leaving.**
+A way to leave, without leaving.
 
 ## Update history
 

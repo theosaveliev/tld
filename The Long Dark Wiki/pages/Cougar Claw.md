@@ -37,3 +37,15 @@ _Cougar\_Claw\_icon.png_
 _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+Item
+
+Skills
+
+Materials
+
+&lt;a href="Cougar Claw Knife"&gt;Cougar Claw Knife&lt;/a&gt;
+
+None
+
+- 1 × &lt;a href="Cougar Claw"&gt;Cougar Claw&lt;/a&gt; / - 3 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Cured Leather"&gt;Cured Leather&lt;/a&gt;

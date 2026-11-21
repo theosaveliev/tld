@@ -61,6 +61,12 @@ Gunpowder is used to craft [Revolver Ammunition](./Revolver%20Ammunition.md), [R
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Noisemaker"&gt;Noisemaker&lt;/a&gt; | None | - 1 × &lt;a href="Recycled Can"&gt;Recycled Can&lt;/a&gt; / - 1 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 0.10 kg × &lt;a href="Can of Gunpowder"&gt;Can of Gunpowder&lt;/a&gt; |
+| &lt;a href="Revolver Cartridge"&gt;Revolver Cartridge&lt;/a&gt; | None | - 1 × &lt;a href="Bullet"&gt;Bullet&lt;/a&gt; / - 1 × &lt;a href="Revolver Shell Casing"&gt;Revolver Shell Casing&lt;/a&gt; / - 0.01 kg × &lt;a href="Can of Gunpowder"&gt;Can of Gunpowder&lt;/a&gt; |
+| &lt;a href="Rifle Cartridge"&gt;Rifle Cartridge&lt;/a&gt; | None | - 1 × &lt;a href="Bullet"&gt;Bullet&lt;/a&gt; / - 1 × &lt;a href="Rifle Shell Casing"&gt;Rifle Shell Casing&lt;/a&gt; / - 0.01 kg × &lt;a href="Can of Gunpowder"&gt;Can of Gunpowder&lt;/a&gt; |
+
 ## Locations
 
 Cans of Gunpowder can spawn rarely in high loot quality locations of [Great Bear Island](./Great%20Bear%20Island.md), such as [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md), [Maintenance Yard](./Maintenance%20Yard.md), or [Skeeter's Ridge](./Skeeter%27s%20Ridge.md) basement. They can also be found in [Prepper Caches](./Prepper%20Cache.md) of any type and inside of [Safes](./Safe.md).

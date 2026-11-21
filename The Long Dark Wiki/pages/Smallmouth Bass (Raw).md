@@ -71,6 +71,11 @@ At 0% condition food disappears if inside of a container, but not outside of con
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Mounted Smallmouth Bass"&gt;Mounted Smallmouth Bass&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Smallmouth Bass (Raw)"&gt;Smallmouth Bass (Raw)&lt;/a&gt; |
+| &lt;a href="Smallmouth Bass (Cooked)"&gt;Smallmouth Bass (Cooked)&lt;/a&gt; | None | - 1.00 kg × &lt;a href="Smallmouth Bass (Raw)"&gt;Smallmouth Bass (Raw)&lt;/a&gt; |
+
 ## Gallery
 
 ![Old model.](../assets/Smallmouth_bass_raw.png)

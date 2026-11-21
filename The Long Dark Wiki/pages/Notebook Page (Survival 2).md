@@ -34,9 +34,9 @@ _Notebook\_Page\_(Survival)\_icon.png_
 
 _The following text is transcribed from **Notebook Page**_
 
-**Glad I had my good pack with me on this trip. Some chest pain on the trek past the high falls, but I expected that after the last surgery.
+Glad I had my good pack with me on this trip. Some chest pain on the trek past the high falls, but I expected that after the last surgery.
 
-Just going to hunker down in here until the storm passes. Tomorrow — high point at Wolf’s Jaw and head for home!**
+Just going to hunker down in here until the storm passes. Tomorrow — high point at Wolf’s Jaw and head for home!
 
 ## Update history
 

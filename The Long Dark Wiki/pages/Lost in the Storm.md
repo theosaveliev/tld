@@ -36,9 +36,9 @@ To access the note, you will have to go east from the Bridge, then head south be
 
 _The following text is transcribed from **Lost in the Storm**_
 
-**I left with the others but the storm turned bad and I couldn't keep up. Some turned back to see if they could wait it out at the old Church. I kept going but I think I took a wrong turn. I'll backtrack in the morning and see if I can find their trail.
+I left with the others but the storm turned bad and I couldn't keep up. Some turned back to see if they could wait it out at the old Church. I kept going but I think I took a wrong turn. I'll backtrack in the morning and see if I can find their trail.
 
-The letter is signed: "Alice"**
+The letter is signed: "Alice"
 
 ## Update history
 

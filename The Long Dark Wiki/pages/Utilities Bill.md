@@ -36,7 +36,7 @@ It is found on a table inside the [Paradise Meadows Farm](./Paradise%20Meadows%2
 
 _The following text is transcribed from **Utilities Bill**_
 
-**OVERDUE -- FINAL WARNING
+OVERDUE -- FINAL WARNING
 
 Dear Mr. Barker,
 
@@ -52,7 +52,7 @@ If you would like to make a payment, or communicate with us about your account s
 
 Thank you, and have a nice day.
 
-MAINLAND POWER CORP.**
+MAINLAND POWER CORP.
 
 ## Update history
 

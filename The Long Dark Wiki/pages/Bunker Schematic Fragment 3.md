@@ -34,7 +34,7 @@ _Bunker\_Schematic\_Fragment\_3\_icon.png_
 
 _The following text is transcribed from **Bunker Schematic Fragment 3**_
 
-**\[faded handwriting in the margins of a technical drawing\] ...just a single piece of wiring will be enough to close the mechanical circuit. It'll fire the charges on its own with a stored charge from the back up battery.
+\[faded handwriting in the margins of a technical drawing\] ...just a single piece of wiring will be enough to close the mechanical circuit. It'll fire the charges on its own with a stored charge from the back up battery.
 
 Just make sure you get everything out of there once it's triggered - there's no going back.
 
@@ -42,6 +42,6 @@ Wyatt knows it's a flaw in his countermeasures design, but as long as we keep it
 
 And as for Wyatt, we're going to sort out our business next week. The four of us. That should be the end of it.
 
-MAKE HIM UNDERSTAND**
+MAKE HIM UNDERSTAND
 
 ## Game history

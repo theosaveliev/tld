@@ -36,11 +36,11 @@ _Blackrock\_Memo\_-\_Suspicious\_Person\_icon.png_
 
 _The following text is transcribed from **Blackrock Memo - Suspicious Person**_
 
-**ATTN: Officers and Staff
+ATTN: Officers and Staff
 
 we are getting additional reports of a suspicious person wandering the valley. For security purposes we are asking that any additional sightings note the place and time.
 
-The most recent report indicates that the person's path intersects with the old stone cabin on the lake east of Blackrock.**
+The most recent report indicates that the person's path intersects with the old stone cabin on the lake east of Blackrock.
 
 ## Update history
 

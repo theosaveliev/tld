@@ -36,9 +36,9 @@ _Convict\_Journal\_Entry\_icon.png_
 
 _The following text is transcribed from **Convict Journal Entry**_
 
-**They got me set up with the usual hard cases. Nothin I haven't seen before, but this place feels like the end of some kinda road. Have to find a way back anyhow.
+They got me set up with the usual hard cases. Nothin I haven't seen before, but this place feels like the end of some kinda road. Have to find a way back anyhow.
 
-Storms out this way are worst I've seen. Days go by, same wind blowin. They packed us away, pop. Froze us up out here. To cold to work, just sit thinkin all the time. Stuck with what I done.**
+Storms out this way are worst I've seen. Days go by, same wind blowin. They packed us away, pop. Froze us up out here. To cold to work, just sit thinkin all the time. Stuck with what I done.
 
 ## Update history
 

@@ -68,6 +68,10 @@ A [Can](./Can.md) can also be harvested for a Recycled Can.
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Noisemaker"&gt;Noisemaker&lt;/a&gt; | None | - 1 × &lt;a href="Recycled Can"&gt;Recycled Can&lt;/a&gt; / - 1 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 0.10 kg × &lt;a href="Can of Gunpowder"&gt;Can of Gunpowder&lt;/a&gt; |
+
 ## Trivia
 
 - All [Fires](./Fire.md) have the same cooking, boiling, and melting times for food and drink items used with a Recycled Can. The cooking speed is not dependent on the temperature of the fire.

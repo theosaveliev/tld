@@ -71,6 +71,11 @@ Preparing Acorns can be a time and resource-intensive process, taking 10 minutes
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Acorns (Cooked)"&gt;Acorns (Cooked)&lt;/a&gt; | None | - 1 × &lt;a href="Prepared Acorns"&gt;Prepared Acorns&lt;/a&gt; / - 0.25L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; |
+| &lt;a href="Prepared Acorns (Large Portion)"&gt;Prepared Acorns (Large Portion)&lt;/a&gt; | None | - 4 × &lt;a href="Prepared Acorns"&gt;Prepared Acorns&lt;/a&gt; |
+
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

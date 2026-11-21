@@ -30,13 +30,13 @@ _Foreman's\_Technical\_Log\_1\_icon.png_
 
 _The following text is transcribed from **Foreman's Technical Log 1**_
 
-**\[clear, deliberate handwriting...\]
+\[clear, deliberate handwriting...\]
 
 I think I'm the only one who made it out. The other guys...just lost it. Started wandering off. I'm not immune to whatever happened. It just didn't hit me as bad as the others. The Chief either. I don't know why.
 
 She held out a long time. A damn long time. But the she just locked herself in there with that blasted machine.
 
-She died before she could learn the truth about my real mission here.**
+She died before she could learn the truth about my real mission here.
 
 ## Update history
 

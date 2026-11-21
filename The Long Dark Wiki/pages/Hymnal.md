@@ -36,7 +36,7 @@ _Hymnal\_icon.png_
 
 _The following text is transcribed from **Hymnal**_
 
-**Latin column:
+Latin column:
 
 Dies iræ, dies illa,
 
@@ -86,7 +86,7 @@ Death is struck, and nature quaking,
 
 All creation is awaking,
 
-To its Judge an answer making.**
+To its Judge an answer making.
 
 ## Trivia
 

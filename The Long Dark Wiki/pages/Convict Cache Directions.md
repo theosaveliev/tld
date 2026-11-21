@@ -42,7 +42,7 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Convict Cache Directions**_
 
-**Use this stuff to push on up and and out of this place. No end to these hills but we got no other way. That thing is still out there.**
+Use this stuff to push on up and and out of this place. No end to these hills but we got no other way. That thing is still out there.
 
 ## Update history
 

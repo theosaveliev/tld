@@ -36,7 +36,7 @@ _Newspaper\_Clipping\_2\_icon.png_
 
 _The following text is transcribed from **Newspaper Clipping**_
 
-**---
+---
 
 Five men, all serving life sentences at Blackrock Penitentiary, reportedly escaped the prison grounds last month.
 
@@ -44,7 +44,7 @@ Authorities revealed the escape in a leaked memo acquired by a coalition of medi
 
 Prison officials seemed confident all three also died navigating the rough terrain that surrounds the notorious prison, according to the leaked memo.
 
----**
+---
 
 ## Update history
 

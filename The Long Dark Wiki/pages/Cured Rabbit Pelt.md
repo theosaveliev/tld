@@ -36,6 +36,11 @@ Cured Rabbit Pelts are widely used for [trading](./Trader.md), as they are the f
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Rabbitskin Hat"&gt;Rabbitskin Hat&lt;/a&gt; | None | - 3 × &lt;a href="Cured Rabbit Pelt"&gt;Cured Rabbit Pelt&lt;/a&gt; / - 1 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
+| &lt;a href="Rabbitskin Mitts"&gt;Rabbitskin Mitts&lt;/a&gt; | None | - 4 × &lt;a href="Cured Rabbit Pelt"&gt;Cured Rabbit Pelt&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
+
 ## Update history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**

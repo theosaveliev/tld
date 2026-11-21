@@ -47,6 +47,14 @@ As a feather touches the ground, it makes a small sound that can be heard if nea
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Fire Hardened Arrow"&gt;Fire Hardened Arrow&lt;/a&gt; | None | - 5 × &lt;a href="Stick"&gt;Stick&lt;/a&gt; / - 5 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; |
+| &lt;a href="Fishing Lure (Acorns)"&gt;Fishing Lure (Acorns)&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; / - 1 × &lt;a href="Acorns"&gt;Acorns&lt;/a&gt; |
+| &lt;a href="Fishing Lure (Revolver Shell Casing)"&gt;Fishing Lure (Revolver Shell Casing)&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; / - 1 × &lt;a href="Revolver Shell Casing"&gt;Revolver Shell Casing&lt;/a&gt; |
+| &lt;a href="Fishing Lure (Wire Bundle)"&gt;Fishing Lure (Wire Bundle)&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; / - 1 × &lt;a href="Wires"&gt;Wires&lt;/a&gt; |
+| &lt;a href="Simple Arrow"&gt;Simple Arrow&lt;/a&gt; | None | - 1 × &lt;a href="Arrowhead"&gt;Arrowhead&lt;/a&gt; / - 1 × &lt;a href="Arrow Shaft"&gt;Arrow Shaft&lt;/a&gt; / - 3 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; |
+
 ## Gallery
 
 ![Old model.](../assets/Crow_feather.png)

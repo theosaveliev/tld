@@ -40,7 +40,7 @@ _Medicinal\_Plants\_of\_Great\_Bear\_(Note)\_icon.png_
 
 _The following text is transcribed from **Medicinal Plants of Great Bear**_
 
-**ANNOUNCEMENT:  
+ANNOUNCEMENT:  
  This came up the last time that Mainland doctor dropped in to see us, and now we're ready to kick it off. To add to our shrinking pharmacy here in town, we'll be keeping an inventory of local plants that might supplement some of our traditional meds. So if you're out in the woods, or even just around town, things to keep an eye out for are the following:  
    
  (\*)Reishi Mushrooms, to brew into an antibiotic tea.  
@@ -48,7 +48,7 @@ _The following text is transcribed from **Medicinal Plants of Great Bear**_
  (\*)Rose hips, which we can process into an anti-inflammatory, pain-killing tea.
 
 Stuart has volunteered to maintain the inventory and record the items as we collect them, as well as check for quality. This is especially important with the mushrooms. We don't want to make anyone even sicker, or worse.  
- We know times are tough, but some of us have been through this sort of thing before. We can make it.**
+ We know times are tough, but some of us have been through this sort of thing before. We can make it.
 
 ## Update history
 

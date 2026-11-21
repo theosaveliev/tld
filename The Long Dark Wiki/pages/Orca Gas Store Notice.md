@@ -28,7 +28,7 @@ The following text is transcribed from the note **Orca Gas Store Notice**, found
 
 _The following text is transcribed from **Orca Gas Store Notice**_
 
-**General Notice to Orca Gas locations on Great Bear Island. As we are no longer in a position to ensure adequate and timely supply deliveries from our mainland distribution centres, we regret to inform you that we must reduce the frequency of our supply deliveries to once per quarter. As such, we are relaxing restrictions on using local suppliers. This applies to our remote locations \*only\*. All Orca Gas locations on mainland must continue to source their merchandise from approved providers.**
+General Notice to Orca Gas locations on Great Bear Island. As we are no longer in a position to ensure adequate and timely supply deliveries from our mainland distribution centres, we regret to inform you that we must reduce the frequency of our supply deliveries to once per quarter. As such, we are relaxing restrictions on using local suppliers. This applies to our remote locations \*only\*. All Orca Gas locations on mainland must continue to source their merchandise from approved providers.
 
 ## Update history
 

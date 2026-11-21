@@ -51,6 +51,12 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Prepared Reishi Mushrooms"&gt;Prepared Reishi Mushrooms&lt;/a&gt; | None | - 2 × &lt;a href="Reishi Mushroom"&gt;Reishi Mushroom&lt;/a&gt; |
+| &lt;a href="Prepper's Pie"&gt;Prepper's Pie&lt;/a&gt; | None | - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 4 × &lt;a href="Reishi Mushroom"&gt;Reishi Mushroom&lt;/a&gt; / - 2 × &lt;a href="Burdock Root"&gt;Burdock Root&lt;/a&gt; / - 0.10 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt; |
+| &lt;a href="Thomson Family Stew"&gt;Thomson Family Stew&lt;/a&gt; | None | - 0.30 kg × &lt;a href="Canned Corn"&gt;Canned Corn&lt;/a&gt; / - 0.40 kg × &lt;a href="Carrot"&gt;Carrot&lt;/a&gt; / - 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 2 × &lt;a href="Reishi Mushroom"&gt;Reishi Mushroom&lt;/a&gt; / - 0.40 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.05 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt; |
+
 ## Tips
 
 - Reishi Mushrooms are found sporadically in all regions on the stumps of dead trees.

@@ -34,11 +34,11 @@ _Security\_Chief's\_Log\_32\_icon.png_
 
 _The following text is transcribed from **Security Chief's Log 32**_
 
-**I can probably make it back to the surface before the weather turns again. Moving slowly now.
+I can probably make it back to the surface before the weather turns again. Moving slowly now.
 
 Recording as much as I can, the writing helps keep me here. Otherwise my mind wanders.
 
-To the sea. To small ships and deep water. My mother’s voice.**
+To the sea. To small ships and deep water. My mother’s voice.
 
 ## Update history
 

@@ -34,7 +34,7 @@ _Cannery\_Memo\_icon.png_
 
 _The following text is transcribed from **Cannery Memo**_
 
-**\[names scratched out\]
+\[names scratched out\]
 
 That old radio tower is supposed to relay the weather, but half the time the damn thing is offline. And since the landslide last summer we can't even get up the road anymore to check out what's going on.
 
@@ -46,7 +46,7 @@ I know there's a technician kid someplace on the Island attached to that tower c
 
 And don't forget to get a copy of the workshop's door code while you're up there.
 
-(illegible name\]**
+(illegible name\]
 
 ## Update history
 

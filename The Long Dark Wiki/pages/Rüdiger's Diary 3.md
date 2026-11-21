@@ -30,7 +30,7 @@ _Rüdiger's\_Diary\_3\_icon.png_
 
 _The following text is transcribed from **Rüdiger's Diary 3**_
 
-**Just waiting now. Trapped in squalor, brought low by my ambition.
+Just waiting now. Trapped in squalor, brought low by my ambition.
 
 Still, I believed I was right.
 
@@ -42,7 +42,7 @@ Eras when it wipes the slate clean and starts again.
 
 I wanted to profit from this knowledge. Probabilistically my chances were good. A dice roll, yes. But the numbers suggest a favorable one.
 
-Based on my current condition, I overestimated my chances.**
+Based on my current condition, I overestimated my chances.
 
 ## Update history
 

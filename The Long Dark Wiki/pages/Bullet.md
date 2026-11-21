@@ -60,6 +60,11 @@ Bullets may also be acquired by harvesting Revolver or Hunting Rifle Ammunition 
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Revolver Cartridge"&gt;Revolver Cartridge&lt;/a&gt; | None | - 1 × &lt;a href="Bullet"&gt;Bullet&lt;/a&gt; / - 1 × &lt;a href="Revolver Shell Casing"&gt;Revolver Shell Casing&lt;/a&gt; / - 0.01 kg × &lt;a href="Can of Gunpowder"&gt;Can of Gunpowder&lt;/a&gt; |
+| &lt;a href="Rifle Cartridge"&gt;Rifle Cartridge&lt;/a&gt; | None | - 1 × &lt;a href="Bullet"&gt;Bullet&lt;/a&gt; / - 1 × &lt;a href="Rifle Shell Casing"&gt;Rifle Shell Casing&lt;/a&gt; / - 0.01 kg × &lt;a href="Can of Gunpowder"&gt;Can of Gunpowder&lt;/a&gt; |
+
 ## Tips
 
 - Crafting Bullets requires a lot of fuel and time: 1 hour per Scrap Lead (6 Bullets) produced.

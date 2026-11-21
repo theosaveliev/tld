@@ -42,7 +42,7 @@ Currently, the collectible serves no additional purpose during [Episode 1](./Epi
 
 _The following text is transcribed from **Betrayal**_
 
-**I left him like I promised I would, and I waited here like you asked. Where are you? It's getting too cold to sit here. Pick me up at the old PO when you can and let's get out of here. If you don't pick me up by midnight, I'm out of here on my own.**
+I left him like I promised I would, and I waited here like you asked. Where are you? It's getting too cold to sit here. Pick me up at the old PO when you can and let's get out of here. If you don't pick me up by midnight, I'm out of here on my own.
 
 ## Update history
 

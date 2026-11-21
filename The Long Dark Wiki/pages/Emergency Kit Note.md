@@ -36,9 +36,9 @@ _Emergency\_Kit\_Note\_icon.png_
 
 _The following text is transcribed from **Emergency Kit Note**_
 
-**This Emergency Kit is distributed, free of charge, by the Great Bear Earthquake Memorial Society (GBEMS). Our non-profit work helps guarantee full preparedness for any future emergencies on Great Bear.
+This Emergency Kit is distributed, free of charge, by the Great Bear Earthquake Memorial Society (GBEMS). Our non-profit work helps guarantee full preparedness for any future emergencies on Great Bear.
 
-Our Motto: WE REMEMBER.**
+Our Motto: WE REMEMBER.
 
 ## Update history
 

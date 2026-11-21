@@ -36,7 +36,7 @@ _Dusty\_Paper\_icon.png_
 
 _The following text is transcribed from **Dusty Paper**_
 
-**Plant Engineer's Log
+Plant Engineer's Log
 
 \[page ripped from a notebook\]
 
@@ -50,7 +50,7 @@ A power plant I'm holing together wit spit and duct tape attached to a facility 
 
 None of it makes sense.
 
-\[name scratched out\]**
+\[name scratched out\]
 
 ## Update history
 

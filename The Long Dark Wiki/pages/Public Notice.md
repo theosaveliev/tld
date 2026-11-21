@@ -40,11 +40,11 @@ _Public\_Notice\_icon.png_
 
 _The following text is transcribed from **Public Notice**_
 
-**June 30th, 2012
+June 30th, 2012
 
 Due to recent seismic activity, the underground water mains in Milton have been shut down. An outbreak of E.coli exposed several faults in the system. We recommend using bottled water until further notice.
 
-Great Bear Water Authority**
+Great Bear Water Authority
 
 ## Update history
 

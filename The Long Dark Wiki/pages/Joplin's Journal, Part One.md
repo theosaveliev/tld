@@ -42,7 +42,7 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Joplin's Journal, Part One**_
 
-**A storm’s comin. No man knows when, but I can smell it. Can’t stop it. All a man can do is hide out while it blows over.**
+A storm’s comin. No man knows when, but I can smell it. Can’t stop it. All a man can do is hide out while it blows over.
 
 ## Update history
 

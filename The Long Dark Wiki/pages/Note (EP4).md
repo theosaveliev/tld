@@ -36,7 +36,7 @@ _Note\_(EP4)\_icon.png_
 
 _The following text is transcribed from **Note**_
 
-**Re: Donated food packs
+Re: Donated food packs
 
 We're going to need some volunteers to dig into a few of these rations that got dropped on us.
 
@@ -44,7 +44,7 @@ We'll be in the barracks tonight with the cook to open them up. If they're any g
 
 Show up at 7 if you're interested.
 
--- Howie**
+-- Howie
 
 ## Update history
 

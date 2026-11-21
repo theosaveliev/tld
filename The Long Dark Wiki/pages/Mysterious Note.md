@@ -36,11 +36,11 @@ _Mysterious\_Note\_icon.png_
 
 _The following text is transcribed from **Mysterious Note**_
 
-**If you all made it this far, you've still got a ways to go. But there's help.
+If you all made it this far, you've still got a ways to go. But there's help.
 
 Look for these supplies on the way. This is all you're gonna get from me. I'd wish you luck but there's none left to go around.
 
-\[hand-sketched map with supply locations\]**
+\[hand-sketched map with supply locations\]
 
 ## Update history
 

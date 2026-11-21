@@ -36,11 +36,11 @@ _Notebook\_Page\_icon.png_
 
 _The following text is transcribed from **Notebook Page**_
 
-**...something decent this time. Prices climbing.
+...something decent this time. Prices climbing.
 
 Check possible bleed off down by that low creek -- warm day melts the shallow ice?
 
-Red gold or something better? Gotta try.**
+Red gold or something better? Gotta try.
 
 ## Update history
 

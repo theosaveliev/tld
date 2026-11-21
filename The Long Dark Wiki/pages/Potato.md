@@ -47,6 +47,48 @@ _Potato\_icon.png_
 
 **Weight:** 0.20 kg (0.44 lbs)
 
+Item
+
+Skills
+
+Materials
+
+&lt;a href="Coastal Fishcakes"&gt;Coastal Fishcakes&lt;/a&gt;
+
+None
+
+- 0.50 Kg × &lt;a href="Rainbow Trout (Raw)"&gt;Rainbow Trout (Raw)&lt;/a&gt; / - 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+
+&lt;a href="Cooked Potato"&gt;Cooked Potato&lt;/a&gt;
+
+None
+
+- 1 × &lt;a href="Potato"&gt;Potato&lt;/a&gt;
+
+&lt;a href="Dockworker's Pie"&gt;Dockworker's Pie&lt;/a&gt;
+
+None
+
+- 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.50 kg × &lt;a href="Coho Salmon (Raw)"&gt;Coho Salmon (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Rockfish (Raw)"&gt;Rockfish (Raw)&lt;/a&gt; / - 0.10 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+
+&lt;a href="Last Resort Soup"&gt;Last Resort Soup&lt;/a&gt;
+
+None
+
+- 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.40 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+
+&lt;a href="Ranger Stew"&gt;Ranger Stew&lt;/a&gt;
+
+None
+
+- 0.50 kg × &lt;a href="Venison (Raw)"&gt;Venison (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Rabbit (Raw)"&gt;Rabbit (Raw)&lt;/a&gt; / - 1 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.20 kg × &lt;a href="Carrot"&gt;Carrot&lt;/a&gt; / - 0.40 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.05 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt;
+
+&lt;a href="Thomson Family Stew"&gt;Thomson Family Stew&lt;/a&gt;
+
+None
+
+- 0.30 kg × &lt;a href="Canned Corn"&gt;Canned Corn&lt;/a&gt; / - 0.40 kg × &lt;a href="Carrot"&gt;Carrot&lt;/a&gt; / - 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 2 × &lt;a href="Reishi Mushroom"&gt;Reishi Mushroom&lt;/a&gt; / - 0.40 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.05 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt;
+
 ![Vegetable cart.](../assets/Vegetable_cart.png)
 
 _Vegetable cart._

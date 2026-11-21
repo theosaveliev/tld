@@ -36,7 +36,7 @@ _Aurora\_Hatch\_Door\_Entry\_Code\_icon.png_
 
 _The following text is transcribed from **Aurora Hatch Door Entry Code**_
 
-**Deb,
+Deb,
 
 If you're reading this it's because I've left the Island and the last treatment didn't work. You're probably still out there somewhere in the woods, doing what you've been doing. I always admired that about you, even if I didn't agree. Hopefully what's left of my old bunker can be of some use to you.
 
@@ -44,7 +44,7 @@ Just because you hide, doesn't mean you're lost.
 
 Remember that, and this number -- 0794. That will let you in.
 
-- G**
+- G
 
 ## Update history
 

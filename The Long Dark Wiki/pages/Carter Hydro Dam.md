@@ -131,8 +131,8 @@ The entrance from Winding River is also one-way. It may be accessed through a hi
 
 ## Story
 
-** _SPOILER WARNING_  
- _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._ **
+_SPOILER WARNING_  
+ _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._
 
 ![The Generator Room in story mode.](../assets/Carter_hydro_dam_in_story_mode.jpg)_The Generator Room in story mode._ The dam plays an important role as a location in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of story mode. In story mode, the dam has a significantly different layout, with walkways across the Generator Room, an elevator, additional rooms, and a staircase leading up to the offices on the floor above the [Mystery Lake](./Mystery%20Lake%20%28region%29.md) entrance level.
 

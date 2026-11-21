@@ -44,13 +44,13 @@ During the course of the mission, the surivor finds the note _Highway Robbery_ f
 
 _The following text is transcribed from **Highway Robbery**_
 
-**Hey Bud, sorry to leave you hanging like this with the storm and the power and everything. But it sounds like it's all gone to hell out at the upper bridge tonight. Cars broken down, a mess. And some rich Mainlander won't budge from his truck. Probably thinks we're all a bunch of bandits waiting to rip him off, usual story.
+Hey Bud, sorry to leave you hanging like this with the storm and the power and everything. But it sounds like it's all gone to hell out at the upper bridge tonight. Cars broken down, a mess. And some rich Mainlander won't budge from his truck. Probably thinks we're all a bunch of bandits waiting to rip him off, usual story.
 
 Anyway me and Jason are going to go up there and see if we can talk some sense into him, before the storm gets even worse. I'll sort you out in the morning.
 
 Thanks,
 
-Peter**
+Peter
 
 ## Update history
 

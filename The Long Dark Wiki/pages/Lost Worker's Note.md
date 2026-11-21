@@ -36,7 +36,7 @@ _Lost\_Worker's\_Note\_icon.png_
 
 _The following text is transcribed from **Lost Worker's Note**_
 
-**\[a page of a journal, torn out\]
+\[a page of a journal, torn out\]
 
 Keep writing. Writing helps give me focus, and focus keeps me still.
 
@@ -44,7 +44,7 @@ I can't remember why I'm here, what I do, or who this woman is. I think we work 
 
 I keep seeing a river in my head, rushing water to the edge of something. Into a deep foggy place.
 
-I just can't remember anymore...**
+I just can't remember anymore...
 
 ## Update history
 

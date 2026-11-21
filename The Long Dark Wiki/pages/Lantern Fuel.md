@@ -50,6 +50,10 @@ Bottles of Lantern Fuel can usually be found fairly frequently throughout the wo
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Torch"&gt;Torch&lt;/a&gt; | None | - 3 × &lt;a href="Stick"&gt;Stick&lt;/a&gt; / - 1 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 0.10 L × &lt;a href="Lantern Fuel"&gt;Lantern Fuel&lt;/a&gt; |
+
 ## Gallery
 
 ![old model](../assets/Lantern_fuel.png)

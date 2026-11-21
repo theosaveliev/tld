@@ -34,11 +34,11 @@ _The\_Technician's\_Notebook\_icon.png_
 
 _The following text is transcribed from **The Technician's Notebook**_
 
-**RHEA COSMAT CANADA
+RHEA COSMAT CANADA
 
 Wolves won't let up. I put up a track to get above them, but they won't leave. Most food here is spoiled. Going to try and rig up something in that old cannery workshop but i'm starin' down a deep hole here guys. Can only hope you reach me soon.
 
-Just leave this here in case it gets worse.**
+Just leave this here in case it gets worse.
 
 ## Update history
 

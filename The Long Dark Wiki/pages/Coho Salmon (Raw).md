@@ -76,6 +76,12 @@ Cooking Salmon improves the [cooking skill](./Skills.md#Cooking) and requires a 
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Coho Salmon (Cooked)"&gt;Coho Salmon (Cooked)&lt;/a&gt; | None | - 1.00 kg × &lt;a href="Coho Salmon (Raw)"&gt;Coho Salmon (Raw)&lt;/a&gt; |
+| &lt;a href="Dockworker's Pie"&gt;Dockworker's Pie&lt;/a&gt; | None | - 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.50 kg × &lt;a href="Coho Salmon (Raw)"&gt;Coho Salmon (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Rockfish (Raw)"&gt;Rockfish (Raw)&lt;/a&gt; / - 0.10 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt; |
+| &lt;a href="Mounted Coho Salmon"&gt;Mounted Coho Salmon&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Coho Salmon (Raw)"&gt;Coho Salmon (Raw)&lt;/a&gt; |
+
 ## Gallery
 
 ![Old model.](../assets/Coho_salmon.png)

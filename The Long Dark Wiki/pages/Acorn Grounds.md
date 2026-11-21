@@ -79,6 +79,15 @@ Acorn Grounds can be used to make [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Cof
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Acorn Bannock"&gt;Acorn Bannock&lt;/a&gt; | None | - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; |
+| &lt;a href="Acorn Pancakes"&gt;Acorn Pancakes&lt;/a&gt; | None | - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 0.05 Kg × &lt;a href="Maple Syrup"&gt;Maple Syrup&lt;/a&gt; / - 0.10 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; |
+| &lt;a href="Cup of Acorn Coffee"&gt;Cup of Acorn Coffee&lt;/a&gt; | None | - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 0.25 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; |
+| &lt;a href="Lily's Pancakes"&gt;Lily's Pancakes&lt;/a&gt; | None | - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 0.05 kg × &lt;a href="Maple Syrup"&gt;Maple Syrup&lt;/a&gt; / - 0.50 kg × &lt;a href="Pinnacle Peaches"&gt;Pinnacle Peaches&lt;/a&gt; / - 0.10 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; |
+| &lt;a href="Prepper's Pie"&gt;Prepper's Pie&lt;/a&gt; | None | - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 4 × &lt;a href="Reishi Mushroom"&gt;Reishi Mushroom&lt;/a&gt; / - 2 × &lt;a href="Burdock Root"&gt;Burdock Root&lt;/a&gt; / - 0.10 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt; |
+| &lt;a href="Stalker's Pie"&gt;Stalker's Pie&lt;/a&gt; | None | - 0.50 kg × &lt;a href="Bear Meat (Raw)"&gt;Bear Meat (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Wolf Meat (Raw)"&gt;Wolf Meat (Raw)&lt;/a&gt; / - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt; |
+
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

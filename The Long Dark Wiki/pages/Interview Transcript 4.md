@@ -34,7 +34,7 @@ _Interview\_Transcript\_4\_icon.png_
 
 _The following text is transcribed from **Interview Transcript 4**_
 
-**Q: Session 5, Project Medical Officer interviewing Patient 7.
+Q: Session 5, Project Medical Officer interviewing Patient 7.
 
 Let’s visit the second instance again, first occurrence. What do you remember?
 
@@ -58,7 +58,7 @@ A: Ah...my hand reaching for a flat, grey stone at the water’s edge. I...I gra
 
 Was the sun out…? I thought...ah, the rain…no, no, no. That wasn’t it.
 
-Q: Keep hold of that image. It’s OK if it fades a little. Breathe. Try going again. Second instance.**
+Q: Keep hold of that image. It’s OK if it fades a little. Breathe. Try going again. Second instance.
 
 ## Update history
 

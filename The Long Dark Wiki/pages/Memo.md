@@ -36,7 +36,7 @@ _Memo\_icon.png_
 
 _The following text is transcribed from **Memo**_
 
-**Dr. Childs,
+Dr. Childs,
 
 We got a call from the main gate about some kind of accident down the hill. I turned over our emergency kit to one of the officers who was going to take a truck down and check it out. What with all the wolf activity lately.
 
@@ -46,7 +46,7 @@ Please make sure to check inventory and put a restock order in as soon as you ca
 
 Thanks,
 
-Bud**
+Bud
 
 ## Update history
 

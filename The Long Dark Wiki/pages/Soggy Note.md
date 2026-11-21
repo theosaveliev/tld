@@ -38,7 +38,7 @@ the main mission [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.m
 
 _The following text is transcribed from **Soggy Note**_
 
-**\[unintelligible\]
+\[unintelligible\]
 
 Grid search continues.
 
@@ -46,7 +46,7 @@ Perez -- favourite fishing cabin on the lake?
 
 Jacob -- loner, but knew Perez. Old enemies maybe? Bad blood?
 
-Two sets of tracks -- the lake and towards the shore. Old fishing cove?**
+Two sets of tracks -- the lake and towards the shore. Old fishing cove?
 
 ## Update history
 

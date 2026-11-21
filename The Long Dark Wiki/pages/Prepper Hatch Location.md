@@ -36,11 +36,11 @@ _Prepper\_Hatch\_Location\_icon.png_
 
 _The following text is transcribed from **Prepper Hatch Location**_
 
-**If you're reading this you've gone and found my cache behind the old Bricklayer place.
+If you're reading this you've gone and found my cache behind the old Bricklayer place.
 
 I've reopened my old bunker. Things are getting bad round here.
 
-Head north from Foreman's Clearcut, go beyond the road and then up a small rise into the rocks. Follow the meadow grass and you should be just fine. We should be able to wait this thing out there.**
+Head north from Foreman's Clearcut, go beyond the road and then up a small rise into the rocks. Follow the meadow grass and you should be just fine. We should be able to wait this thing out there.
 
 ## Update history
 

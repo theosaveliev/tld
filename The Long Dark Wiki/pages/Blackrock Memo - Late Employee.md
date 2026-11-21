@@ -36,7 +36,7 @@ _Blackrock\_Memo\_-\_Late\_Employee\_icon.png_
 
 _The following text is transcribed from **Blackrock Memo - Late Employee**_
 
-**ATTN: Red Shift Supervisors
+ATTN: Red Shift Supervisors
 
 CC: Dr. Childs.
 
@@ -48,7 +48,7 @@ but first we need to find him. He was seen previously heading down the low river
 
 We are all aware of what isolation can do out here, but we have a job to do just the same.
 
-Blackrock Admin Team**
+Blackrock Admin Team
 
 ## Update history
 

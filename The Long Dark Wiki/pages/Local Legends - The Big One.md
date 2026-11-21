@@ -42,9 +42,9 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Local Legends - The Big One**_
 
-**Children playing along Pensive Pond know him as Big Eddie. He'd eat every bit of bread, meat or other foodstuffs they would toss into the water, hoping to lure the massive fish to the surface. Of course, being children, their fascination with the creature meant they could spend hours along the banks of the pond, waiting for him to appear.
+Children playing along Pensive Pond know him as Big Eddie. He'd eat every bit of bread, meat or other foodstuffs they would toss into the water, hoping to lure the massive fish to the surface. Of course, being children, their fascination with the creature meant they could spend hours along the banks of the pond, waiting for him to appear.
 
-Others in the Valley, being of more restrained disposition, felt obliged to leave the fish in peace. Who can say what the truth of the story might be?**
+Others in the Valley, being of more restrained disposition, felt obliged to leave the fish in peace. Who can say what the truth of the story might be?
 
 ## Update history
 

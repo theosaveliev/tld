@@ -54,6 +54,14 @@ _Stick\_icon.png_
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Fire Hardened Arrow"&gt;Fire Hardened Arrow&lt;/a&gt; | None | - 5 × &lt;a href="Stick"&gt;Stick&lt;/a&gt; / - 5 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; |
+| &lt;a href="Fishing Tip-Up"&gt;Fishing Tip-Up&lt;/a&gt; | None | - 2 × &lt;a href="Stick"&gt;Stick&lt;/a&gt; / - 1 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Fishing Tackle"&gt;Fishing Tackle&lt;/a&gt; |
+| &lt;a href="Snow Shelter"&gt;Snow Shelter&lt;/a&gt; | None | - 15 × &lt;a href="Stick"&gt;Stick&lt;/a&gt; / - 5 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; |
+| &lt;a href="Tinder Plug"&gt;Tinder Plug&lt;/a&gt; | None | - 1 × &lt;a href="Stick"&gt;Stick&lt;/a&gt; |
+| &lt;a href="Torch"&gt;Torch&lt;/a&gt; | None | - 3 × &lt;a href="Stick"&gt;Stick&lt;/a&gt; / - 1 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 0.10 L × &lt;a href="Lantern Fuel"&gt;Lantern Fuel&lt;/a&gt; |
+
 ## Tips
 
 Torches (including Ruined Torches) may be harvested into a stick, for just 2 minutes (in-game).

@@ -36,13 +36,13 @@ _Simple\_Note\_icon.png_
 
 _The following text is transcribed from **Simple Note**_
 
-**This small note looks to have been left for someone in particular. Hard to imagine, as the area is quite sparse.
+This small note looks to have been left for someone in particular. Hard to imagine, as the area is quite sparse.
 
 "A,
 
 I'm heading to the clear cut - put some supplies aside for us. Away from prying eyes. If you need something, look for the old stump between two log piles.
 
-- K"**
+- K"
 
 ## Update history
 

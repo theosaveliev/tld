@@ -38,13 +38,13 @@ The code 1859 is a reference to the [Carrington Event](https://en.wikipedia.org/
 
 _The following text is transcribed from **Shopping List**_
 
-**Oranges  
+Oranges  
  Prunes  
  Green tea - not the crappy brand  
  Milk  
  Goat cheese if you can find some
 
-The code for our PO box is 1859 Make sure they sent the proper spare parts this time, otherwise don't bother bringing them up here. And remember our security protocols: cash only, no names, and don't mention where you work.**
+The code for our PO box is 1859 Make sure they sent the proper spare parts this time, otherwise don't bother bringing them up here. And remember our security protocols: cash only, no names, and don't mention where you work.
 
 ## Update history
 

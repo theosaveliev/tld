@@ -36,7 +36,7 @@ It is found on top of a [Cupboard](./Cupboard.md) in the [Camp Office](./Camp%20
 
 _The following text is transcribed from **Mystery Lake &amp; Area**_
 
-**The Mystery Lake region is an Alpine valley, average altitude of 1200 meters above sea level, named for the large lake that dominates its South-Eastern quadrant. The region is fringed by mountains on the West and South, and the foothills of the Inner Island Range to the North and East. The region is bisected by a section of the North-South line of the Trans-Island Railway.
+The Mystery Lake region is an Alpine valley, average altitude of 1200 meters above sea level, named for the large lake that dominates its South-Eastern quadrant. The region is fringed by mountains on the West and South, and the foothills of the Inner Island Range to the North and East. The region is bisected by a section of the North-South line of the Trans-Island Railway.
 
 The region’s main characteristics are its heavily forested and hilly terrain, as well as abundance of wildlife. The region’s high altitude leads to low average temperatures, as well as some of the coldest night-time temperatures on Great Bear Island. Heavy snowfalls are common.
 
@@ -46,7 +46,7 @@ The region’s harsh inaccessibility has been both a blessing and a curse over t
 
 In the 1960s, ambitious industrialist Richard Carter selected the Mystery Lake area for a new hydro-electric project, meant to provide power to a large mining operation in the next valley. The lake’s continuous replenishment by a vibrant aquifer network as well as mountain streams that channeled annual Spring runoff, made Mystery Lake a natural reservoir with untapped hydro-electric potential. Yet other than a small test dam constructed in 1962, this project was abandoned when the region’s inaccessibility and seismic instability made it cost-prohibitive.
 
-To this day, apart from the railway line that passes through, the only connection between the Mystery Lake region and the adjoining valleys are the hiking trails that pass through the mountains. These trails often become impassable during the Winter months, due to cold temperatures and heavy snowfall. Also, due to the region’s generally uninhabited nature, wildlife have not become habituated to the presence of humans, which can make them threatening. Hikers and campers are warned to avoid the area during the Winter months, as well as to store all food and waste in “bear safe” containers.**
+To this day, apart from the railway line that passes through, the only connection between the Mystery Lake region and the adjoining valleys are the hiking trails that pass through the mountains. These trails often become impassable during the Winter months, due to cold temperatures and heavy snowfall. Also, due to the region’s generally uninhabited nature, wildlife have not become habituated to the presence of humans, which can make them threatening. Hikers and campers are warned to avoid the area during the Winter months, as well as to store all food and waste in “bear safe” containers.
 
 ## Game History
 

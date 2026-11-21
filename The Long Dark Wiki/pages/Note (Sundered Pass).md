@@ -30,7 +30,7 @@ _Note\_(Sundered\_Pass)\_icon.png_
 
 _The following text is transcribed from **Note**_
 
-**Dear Steven,
+Dear Steven,
 
 Our blasting plan for the north ridge failed.
 
@@ -42,7 +42,7 @@ But you've been out here on these trips. You know.
 
 I'm writing this to send ahead so you can expect us back early. Just waiting for the courier to arrive before this storm rolls in.
 
-See you soon, - D**
+See you soon, - D
 
 ## Update history
 

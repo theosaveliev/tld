@@ -36,14 +36,14 @@ _A\_Handwritten\_Note\_icon.png_
 
 _The following text is transcribed from **A Handwritten Note**_
 
-**Dear Constable Pete,
+Dear Constable Pete,
 
 I've conducted autopsies on our last two victims. Again, saltwater in the lungs.  
  Please come to the morgue whenever is convenient and we can discuss more.
 
 I'll also need you to sign the paperwork in order to release the bodies to the families.
 
-Dr Larsen**
+Dr Larsen
 
 ## Update history
 

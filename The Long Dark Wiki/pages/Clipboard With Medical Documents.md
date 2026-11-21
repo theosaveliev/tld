@@ -36,13 +36,13 @@ _Clipboard\_With\_Medical\_Documents\_icon.png_
 
 _The following text is transcribed from **Clipboard With Medical Documents**_
 
-**Brain scans received for patients Jacob D., Claudia R., Freya W., Ben T.
+Brain scans received for patients Jacob D., Claudia R., Freya W., Ben T.
 
 The results are consistent with early signs of dementia. Which can be expected in elderly patients. What I don't understand is how you find the exact same symptoms in children. It cannot be dementia. not this sudden, and with several cases in town appearing just months apart. A virus having similar effects? Contaminated water perhaps?
 
 Whatever this is, it seems to be affecting weaker, fragile people. For now, at least.
 
-My diagnostic tools remain inadequate for this strange malady.**
+My diagnostic tools remain inadequate for this strange malady.
 
 ## Update history
 

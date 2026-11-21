@@ -60,6 +60,23 @@ Reclaimed wood has a burning duration of 30 minutes.
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Decorative Art"&gt;Decorative Art&lt;/a&gt; | None | - 2 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 1 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Decorative Art (2)"&gt;Decorative Art (2)&lt;/a&gt; | None | - 2 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 1 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Display Shelf"&gt;Display Shelf&lt;/a&gt; | None | - 12 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Dresser"&gt;Dresser&lt;/a&gt; | None | - 10 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Rustic Bench"&gt;Rustic Bench&lt;/a&gt; | None | - 10 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 2 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Rustic Chair"&gt;Rustic Chair&lt;/a&gt; | None | - 4 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 2 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Rustic Closet"&gt;Rustic Closet&lt;/a&gt; | None | - 18 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 3 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; / - 2 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
+| &lt;a href="Rustic Cupboard"&gt;Rustic Cupboard&lt;/a&gt; | None | - 10 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; / - 2 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
+| &lt;a href="Rustic Display Shelf"&gt;Rustic Display Shelf&lt;/a&gt; | None | - 10 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 2 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Rustic End Table"&gt;Rustic End Table&lt;/a&gt; | None | - 6 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 2 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Snare"&gt;Snare&lt;/a&gt; | None | - 1 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; / - 1 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Tall Rustic Closet"&gt;Tall Rustic Closet&lt;/a&gt; | None | - 24 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; / - 2 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
+| &lt;a href="Wide Display Shelf"&gt;Wide Display Shelf&lt;/a&gt; | None | - 18 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Wide Dresser"&gt;Wide Dresser&lt;/a&gt; | None | - 16 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 6 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+
 ## Tips
 
 - Reclaimed wood can be found inside and near buildings, fishing huts, or by harvesting crates, shelves, tables, chairs and etc. with a [Heavy Hammer](./Heavy%20Hammer.md), [Improvised Knife](./Improvised%20Knife.md), or [Improvised Hatchet](./Improvised%20Hatchet.md). Small wooden items may be broken down with bare hands, expending more calories and taking more time however.

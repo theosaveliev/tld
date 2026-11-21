@@ -80,6 +80,10 @@ It is much more efficient to turn [Prepared Acorns](./Prepared%20Acorns.md) into
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; | None | - 1 × &lt;a href="Acorns (Cooked - Large Portion)"&gt;Acorns (Cooked - Large Portion)&lt;/a&gt; |
+
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

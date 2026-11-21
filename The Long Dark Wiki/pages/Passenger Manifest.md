@@ -42,7 +42,7 @@ During the course of the mission, Astrid finds the _Passenger Manifest_ on the [
 
 _The following text is transcribed from **Passenger Manifest**_
 
-**\[piece of torn paper, barely legible\]
+\[piece of torn paper, barely legible\]
 
 North Star Charters Flight 7030 Passenger Manifest
 
@@ -63,7 +63,7 @@ D. Belanger
  V. Singh  
  ...  
  A. Roy  
- R. Tan**
+ R. Tan
 
 ## Update history
 

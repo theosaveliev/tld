@@ -34,7 +34,7 @@ _Note\_(Forsaken\_Airfield)\_icon.png_
 
 _The following text is transcribed from **Note**_
 
-**WE'RE LEAVING! Can't stand the lights any longer. No sleep. Just no sleep. We're walking out of here.**
+WE'RE LEAVING! Can't stand the lights any longer. No sleep. Just no sleep. We're walking out of here.
 
 ## Update history
 

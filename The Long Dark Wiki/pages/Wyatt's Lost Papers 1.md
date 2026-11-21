@@ -34,10 +34,10 @@ _Wyatt's\_Lost\_Papers\_1\_icon.png_
 
 _The following text is transcribed from **Wyatt's Lost Papers 1**_
 
-**I designed these things to save us from threats far away. The other side of the damn world.
+I designed these things to save us from threats far away. The other side of the damn world.
 
 But that was the easy part. The real threat was a lot closer. The people we see every day. \[scratched out\].
 
-- Wyatt**
+- Wyatt
 
 ## Game history

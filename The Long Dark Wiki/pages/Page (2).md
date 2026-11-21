@@ -34,7 +34,7 @@ _Page\_(2)\_icon.png_
 
 _The following text is transcribed from **Page**_
 
-**Seeing the helicopters come over the mountains again this year. I counted three last month, and two already this month. Always as the weather turns colder. I know they can't all be tourists. Not anymore and not for a long while anyway.**
+Seeing the helicopters come over the mountains again this year. I counted three last month, and two already this month. Always as the weather turns colder. I know they can't all be tourists. Not anymore and not for a long while anyway.
 
 ## Update history
 

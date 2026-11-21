@@ -30,7 +30,7 @@ _Rüdiger's\_Diary\_2\_icon.png_
 
 _The following text is transcribed from **Rüdiger's Diary 2**_
 
-**This island was meant to give up its secrets to me. Knowledge wired into its very bones. The rocks, the mountains, the deep places under the earth.
+This island was meant to give up its secrets to me. Knowledge wired into its very bones. The rocks, the mountains, the deep places under the earth.
 
 A \*new\* geology.
 
@@ -52,7 +52,7 @@ And I am only getting weaker.
 
 There is a terrible shadow across my mind. Gnawing on its edges.
 
-I cannot...focus my thoughts. My dreams are strange. A deep, wide ocean, unending.**
+I cannot...focus my thoughts. My dreams are strange. A deep, wide ocean, unending.
 
 ## Update history
 

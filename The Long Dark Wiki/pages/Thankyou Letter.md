@@ -42,7 +42,7 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) re
 
 _The following text is transcribed from **Thankyou Letter**_
 
-**I can only thank you for what you have done for us, and for letting God's light shine through you. Whoever you are, I sense that you have endured worse than a storm or two in order to return this humble treasure of ours. We will never forget you. -- Fr. Thomas.**
+I can only thank you for what you have done for us, and for letting God's light shine through you. Whoever you are, I sense that you have endured worse than a storm or two in order to return this humble treasure of ours. We will never forget you. -- Fr. Thomas.
 
 ## Update history
 

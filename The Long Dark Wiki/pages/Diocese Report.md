@@ -42,7 +42,7 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Diocese Report**_
 
-**From: Diocese of the Northern Coast
+From: Diocese of the Northern Coast
 
 To: Fr. Thomas, Thomson’s Crossing Parish
 
@@ -56,7 +56,7 @@ Has he not been in contact? He promised me he would look into it further, but it
 
 Do keep in touch,
 
-Bishop Stevens**
+Bishop Stevens
 
 ## Update history
 

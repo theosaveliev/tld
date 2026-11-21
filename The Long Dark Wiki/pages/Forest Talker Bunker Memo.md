@@ -42,7 +42,7 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Forest Talker Bunker Memo**_
 
-**This old guy has struck off who knows where. But there's bound to be some gear left behind. Anyway we're out of options. -- M.**
+This old guy has struck off who knows where. But there's bound to be some gear left behind. Anyway we're out of options. -- M.
 
 ## Update history
 

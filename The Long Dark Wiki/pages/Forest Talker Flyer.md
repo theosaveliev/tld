@@ -36,7 +36,7 @@ _Forest\_Talker\_Flyer\_icon.png_
 
 _The following text is transcribed from **Forest Talker Flyer**_
 
-**It's time to rise up! We can no longer stand idle and watch our beloved Great Bear continue to be raped by the resource companies. If you care about saving this island, meet up at the old lodge on the outskirts of Mystery Lake provincial park. Cell service and satphone access is spotty so use the sneakernet! Remember, they're watching, so be careful who you trust.**
+It's time to rise up! We can no longer stand idle and watch our beloved Great Bear continue to be raped by the resource companies. If you care about saving this island, meet up at the old lodge on the outskirts of Mystery Lake provincial park. Cell service and satphone access is spotty so use the sneakernet! Remember, they're watching, so be careful who you trust.
 
 ## Update history
 

@@ -36,11 +36,11 @@ _Blood\_Soaked\_Note\_icon.png_
 
 _The following text is transcribed from **Blood Soaked Note**_
 
-**Judging by the amount of blood frozen on this page, the author wasn't doing too well when they wrote it.
+Judging by the amount of blood frozen on this page, the author wasn't doing too well when they wrote it.
 
 "First it was the EXPLETIVE rancid meat. Then the sprained ankle. Then the EXPLETIVE convict out of nowhere. Gave him the slip by falling down into a damn ravine. Of course, that's when the EXPLETIVE wolves cam. Dropped my stuff and ran. As much as I could with a sprained ankle. If you're reading this - this is as far as I got.
 
-Should've never tried to leave Milton."**
+Should've never tried to leave Milton."
 
 ## Update history
 

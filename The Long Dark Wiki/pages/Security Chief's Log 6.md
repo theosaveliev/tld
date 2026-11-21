@@ -34,13 +34,13 @@ _Security\_Chief's\_Log\_6\_icon.png_
 
 _The following text is transcribed from **Security Chief's Log 6**_
 
-**The island hasn’t been making our lives any easier. Hauling loads from the coast to the inland bases has been slow and costly. And people are starting to notice our operation around the Airfield and Mine. It's getting harder to stay under the radar.
+The island hasn’t been making our lives any easier. Hauling loads from the coast to the inland bases has been slow and costly. And people are starting to notice our operation around the Airfield and Mine. It's getting harder to stay under the radar.
 
 But the character of the locals, both here and far inland, seems in our favour.
 
 There aren’t any helping hands. Outsiders get ignored and then forgotten.
 
-And we play the part.**
+And we play the part.
 
 ## Update history
 

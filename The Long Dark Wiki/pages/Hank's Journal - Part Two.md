@@ -40,7 +40,7 @@ _Hank's\_Journal\_-\_Part\_Two\_icon.png_
 
 _The following text is transcribed from **Hank's Journal - Part Two**_
 
-**Things have not turned out the way I hoped. I guess that's why they say "hope is not a plan". I was on my way to drop some supplies off in the bunker, but wolves hunted me the whole way here and I couldn't escape them. One managed to take a chunk out of my leg just before I could get in here and slam the hatch door. It feels like it's on fire -- I think it's infected. And now I hear something like scratching on the hatch door. I'm afraid to open up. Angela -- I pray to god it isn't you or your mother. But it can't be -- it's just too soon. I'm just going to hold out down here for a bit, and will check when it's daylight again. Just have to find a way to keep track of the time down here...**
+Things have not turned out the way I hoped. I guess that's why they say "hope is not a plan". I was on my way to drop some supplies off in the bunker, but wolves hunted me the whole way here and I couldn't escape them. One managed to take a chunk out of my leg just before I could get in here and slam the hatch door. It feels like it's on fire -- I think it's infected. And now I hear something like scratching on the hatch door. I'm afraid to open up. Angela -- I pray to god it isn't you or your mother. But it can't be -- it's just too soon. I'm just going to hold out down here for a bit, and will check when it's daylight again. Just have to find a way to keep track of the time down here...
 
 ## Update history
 

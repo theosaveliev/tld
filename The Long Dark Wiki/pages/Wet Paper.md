@@ -38,9 +38,9 @@ in [Perseverance Wilds](./Perseverance%20Wilds.md) in the main mission [To Those
 
 _The following text is transcribed from **Wet Paper**_
 
-**Nothing, nothing will stop the voices. Going to go deeper somehow.
+Nothing, nothing will stop the voices. Going to go deeper somehow.
 
-Weigh myself down where they can't find me. Where it's cold enough and dark enough.**
+Weigh myself down where they can't find me. Where it's cold enough and dark enough.
 
 ## Update history
 

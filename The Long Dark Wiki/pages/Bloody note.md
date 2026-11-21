@@ -30,7 +30,7 @@ _Bloody\_note\_icon.png_
 
 _The following text is transcribed from **Bloody note**_
 
-**They cut the science team and sent me. I guess they don't think much of the weather forecasts out here.,
+They cut the science team and sent me. I guess they don't think much of the weather forecasts out here.,
 
 At least I can keep the lights on.
 
@@ -38,7 +38,7 @@ But now they tell me the supply deliveries are being halved, too. Something abou
 
 I can't eat my ammo supply, so it's jut me and my old Rifle for now.
 
-It should be enough.**
+It should be enough.
 
 ## Update history
 

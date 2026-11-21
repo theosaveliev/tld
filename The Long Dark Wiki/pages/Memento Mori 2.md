@@ -34,7 +34,7 @@ _Memento\_Mori\_2\_icon.png_
 
 _The following text is transcribed from **Memento Mori 2**_
 
-**We were all so cold. More than we could take. No escape from it. Please forgive me.**
+We were all so cold. More than we could take. No escape from it. Please forgive me.
 
 ## Update history
 

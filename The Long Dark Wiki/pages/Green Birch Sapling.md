@@ -53,6 +53,10 @@ Once dried, the green birch sapling will become a cured birch sapling and will a
 
 2 Green Birch Saplings are required to craft the [Trader](./Trader.md) blueprint item the [Bushcraft Bow](./Bushcraft%20Bow.md), being the only tool in the game requiring the uncured saplings.
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Bushcraft Bow"&gt;Bushcraft Bow&lt;/a&gt; | None | - 2 × &lt;a href="Green Birch Sapling"&gt;Green Birch Sapling&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
+
 ## Trivia
 
 [Methuselah](./Methuselah.md) uses a Green Birch Sapling to poke at his various Campfires in [Wintermute](./Wintermute.md) in Episode 1.

@@ -56,6 +56,12 @@ Rockfish can be harvested to obtain [Fishing Bait](./Fishing%20Bait.md), yieldin
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Dockworker's Pie"&gt;Dockworker's Pie&lt;/a&gt; | None | - 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.50 kg × &lt;a href="Coho Salmon (Raw)"&gt;Coho Salmon (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Rockfish (Raw)"&gt;Rockfish (Raw)&lt;/a&gt; / - 0.10 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt; |
+| &lt;a href="Mounted Rockfish"&gt;Mounted Rockfish&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Rockfish (Raw)"&gt;Rockfish (Raw)&lt;/a&gt; |
+| &lt;a href="Rockfish (Cooked)"&gt;Rockfish (Cooked)&lt;/a&gt; | None | - 1.00 kg × &lt;a href="Rockfish (Raw)"&gt;Rockfish (Raw)&lt;/a&gt; |
+
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

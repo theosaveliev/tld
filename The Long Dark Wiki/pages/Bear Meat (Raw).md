@@ -57,6 +57,11 @@ Bear Meat is harvested from [Bear](./Bear.md) carcasses, which contain between 2
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Bear Meat (Cooked)"&gt;Bear Meat (Cooked)&lt;/a&gt; | None | - 1.00 kg × &lt;a href="Bear Meat (Raw)"&gt;Bear Meat (Raw)&lt;/a&gt; |
+| &lt;a href="Stalker's Pie"&gt;Stalker's Pie&lt;/a&gt; | None | - 0.50 kg × &lt;a href="Bear Meat (Raw)"&gt;Bear Meat (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Wolf Meat (Raw)"&gt;Wolf Meat (Raw)&lt;/a&gt; / - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt; |
+
 ## Gallery
 
 ![Fresh](../assets/Bear_Meat_%28Raw%29_icon.png)

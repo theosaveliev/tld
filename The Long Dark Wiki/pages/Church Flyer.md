@@ -42,11 +42,11 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Church Flyer**_
 
-**The investigation into our missing artifact continues.
+The investigation into our missing artifact continues.
 
 Please contact Father Thomas directly with any information you have.
 
--- Parish Council**
+-- Parish Council
 
 ## Update history
 

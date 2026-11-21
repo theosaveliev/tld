@@ -36,7 +36,7 @@ _Handwritten\_Note\_(3)\_icon.png_
 
 _The following text is transcribed from **Handwritten Note**_
 
-**Constable Pete,
+Constable Pete,
 
 I hope you find this note, I don't know how to contact you while you're away.
 
@@ -44,7 +44,7 @@ I know you'd tell me to wait for you to handle it but I can't lose another patie
 
 I've only started to see a faint patter, to connect the dots. I can see now that for each of them, it started with insomnia, confusion, weird dreams. I was the only one who could see that connection, and I saw it too late.
 
-Now more people are missing. I'm afraid it's spreading**
+Now more people are missing. I'm afraid it's spreading
 
 ## Update history
 

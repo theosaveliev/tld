@@ -34,11 +34,11 @@ _Mining\_Newsletter\_icon.png_
 
 _The following text is transcribed from **Mining Newsletter**_
 
-**NEW OPPORTUNITIES IN URANIUM MARKETS
+NEW OPPORTUNITIES IN URANIUM MARKETS
 
 Increasing numbers of Canadian mine operators are turning to uranium production. While licensing and weak capital support continue to slow growth in the sector, several ambitious projects are already off the ground. And others wait in the wings.
 
-Regulators are also keen to stamp out unlicensed operations as they surface. But with each new energy crisis, many existing mines are turning to uranium as a way to shore up their core businesses.**
+Regulators are also keen to stamp out unlicensed operations as they surface. But with each new energy crisis, many existing mines are turning to uranium as a way to shore up their core businesses.
 
 ## Update history
 

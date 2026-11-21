@@ -58,6 +58,14 @@ Frozen deer carcasses created during world generation always contain 1 [deer hid
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Breyerhouse Pie"&gt;Breyerhouse Pie&lt;/a&gt; | None | - 0.50 kg × &lt;a href="Ptarmigan (Raw)"&gt;Ptarmigan (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Rabbit (Raw)"&gt;Rabbit (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Venison (Raw)"&gt;Venison (Raw)&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.20 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt; |
+| &lt;a href="Ranger Stew"&gt;Ranger Stew&lt;/a&gt; | None | - 0.50 kg × &lt;a href="Venison (Raw)"&gt;Venison (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Rabbit (Raw)"&gt;Rabbit (Raw)&lt;/a&gt; / - 1 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.20 kg × &lt;a href="Carrot"&gt;Carrot&lt;/a&gt; / - 0.40 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.05 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt; |
+| &lt;a href="Venison (Cooked)"&gt;Venison (Cooked)&lt;/a&gt; | None | - 1.00 kg × &lt;a href="Venison (Raw)"&gt;Venison (Raw)&lt;/a&gt; |
+| &lt;a href="Venison Pie"&gt;Venison Pie&lt;/a&gt; | None | - 0.50 kg × &lt;a href="Venison (Raw)"&gt;Venison (Raw)&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.20 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt; |
+| &lt;a href="Venison Stew"&gt;Venison Stew&lt;/a&gt; | None | - 0.50 kg × &lt;a href="Venison (Raw)"&gt;Venison (Raw)&lt;/a&gt; / - 0.20 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.05 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt; |
+
 ## Gallery
 
 ![Fresh](../assets/Venison_%28Raw%29_icon.png)

@@ -36,7 +36,7 @@ _Dam\_Control\_Room\_Code\_icon.png_
 
 _The following text is transcribed from **Dam Control Room Code**_
 
-**Jeremiah's code for the Dam's Control Room: 7611 Use it when the aurora is in the sky!**
+Jeremiah's code for the Dam's Control Room: 7611 Use it when the aurora is in the sky!
 
 ## Update history
 

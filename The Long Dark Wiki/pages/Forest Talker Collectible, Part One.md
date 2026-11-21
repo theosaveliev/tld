@@ -42,7 +42,7 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Forest Talker Collectible, Part One**_
 
-**...pristine wilderness, with barely a hint of humanity to spoil it. If we can bring our message here, and succeed, it will show the rest of Great Bear what is possible. Pleasant Valley is where we make our stand.**
+...pristine wilderness, with barely a hint of humanity to spoil it. If we can bring our message here, and succeed, it will show the rest of Great Bear what is possible. Pleasant Valley is where we make our stand.
 
 ## Update history
 

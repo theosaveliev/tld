@@ -36,10 +36,10 @@ The note refers to the behavior of the local [Cougars](./Cougar.md) on [Great Be
 
 _The following text is transcribed from **Naturalist Notebook 2**_
 
-**I can already tell if I cross paths with one of these cats it's going to go bad for me if I'm not prepared.
+I can already tell if I cross paths with one of these cats it's going to go bad for me if I'm not prepared.
 
 The eviscerated deer I stumbled on yesterday gave me an idea. I doubt I can outrun one if it tries to make a fight of it.
 
-My gear is durable, but will it be enough? They sent me here to study these animals, not cull them. That's my mission.**
+My gear is durable, but will it be enough? They sent me here to study these animals, not cull them. That's my mission.
 
 ## Game history

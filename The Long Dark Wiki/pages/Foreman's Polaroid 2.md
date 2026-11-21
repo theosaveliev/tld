@@ -30,7 +30,7 @@ _Foreman's\_Polaroid\_2\_icon.png_
 
 _The following text is transcribed from **Foreman's Polaroid 2**_
 
-**Snow tends to cover the entrance, but it's there among the ruins of that old settlement. Where the roads converge higher up.**
+Snow tends to cover the entrance, but it's there among the ruins of that old settlement. Where the roads converge higher up.
 
 ## Update history
 

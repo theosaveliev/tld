@@ -66,6 +66,10 @@ If the player finds a [Polaroid](./Polaroids.md) and travels to the survey spot 
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Can of Gunpowder"&gt;Can of Gunpowder&lt;/a&gt; | None | - 1 × &lt;a href="Stump Remover"&gt;Stump Remover&lt;/a&gt; / - 1 × &lt;a href="Dusting Sulfur"&gt;Dusting Sulfur&lt;/a&gt; / - 2 × &lt;a href="Charcoal"&gt;Charcoal&lt;/a&gt; |
+
 ## Gallery
 
 ![Charcoal's viewmodel](../assets/Charcoal_viewmodel.jpg)

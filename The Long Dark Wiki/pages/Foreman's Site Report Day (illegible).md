@@ -34,13 +34,13 @@ _Foreman's\_Site\_Report\_Day\_(illegible)\_icon.png_
 
 _The following text is transcribed from **Foreman's Site Report Day (illegible)**_
 
-**We’re just waiting now. I’ve been walking the tunnels, up and down. Air’s getting bad again.
+We’re just waiting now. I’ve been walking the tunnels, up and down. Air’s getting bad again.
 
 Just scribblin’ these reports. Not sure why, though. Not anymore.
 
 It’s like they turned the lights off in my head. All dark.
 
-Where’d it all go?**
+Where’d it all go?
 
 ## Update history
 

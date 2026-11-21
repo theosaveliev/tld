@@ -42,7 +42,7 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Local Legends - Sasquatch**_
 
-**No one knows how long rumors of Sasquatch activity have persisted among Valley residents. But it's common knowledge that the longer people have lived in this region, the more strange tales have emerged about figures in the woods.**
+No one knows how long rumors of Sasquatch activity have persisted among Valley residents. But it's common knowledge that the longer people have lived in this region, the more strange tales have emerged about figures in the woods.
 
 ## Update history
 

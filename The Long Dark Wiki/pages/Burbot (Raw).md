@@ -56,6 +56,11 @@ Burbot can be harvested to obtain [Fishing Bait](./Fishing%20Bait.md), yielding 
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Burbot (Cooked)"&gt;Burbot (Cooked)&lt;/a&gt; | None | - 1.00 kg × &lt;a href="Burbot (Raw)"&gt;Burbot (Raw)&lt;/a&gt; |
+| &lt;a href="Mounted Burbot"&gt;Mounted Burbot&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Burbot (Raw)"&gt;Burbot (Raw)&lt;/a&gt; |
+
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

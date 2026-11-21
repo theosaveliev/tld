@@ -42,6 +42,18 @@ Examine
 
 **Item key:** GAMEPLAY\_RawBigMouthBass
 
+Item
+
+Skills
+
+Materials
+
+&lt;a href="Big Bass (Cooked)"&gt;Big Bass (Cooked)&lt;/a&gt;
+
+None
+
+- 15.00 kg × &lt;a href="Big Bass (Raw)"&gt;Big Bass (Raw)&lt;/a&gt;
+
 ![The size of the Big Bass compared to a regular Smallmouth Bass (Raw) (with hunting knife for reference)](../assets/Big_Bass_Raw_Size.png)
 
 _The size of the Big Bass compared to a regular [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) (with hunting knife for reference)_

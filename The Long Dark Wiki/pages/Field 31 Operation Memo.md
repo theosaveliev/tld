@@ -34,7 +34,7 @@ _Field\_31\_Operation\_Memo\_icon.png_
 
 _The following text is transcribed from **Field 31 Operation Memo**_
 
-**Re: Field 31 Search and Rescue Upgrades
+Re: Field 31 Search and Rescue Upgrades
 
 Hey crew,
 
@@ -54,7 +54,7 @@ Without these Transmitters working, we’ll have a hell of a time locating any t
 
 Signed,
 
-Captain Redrick, 14th Wing, SAR**
+Captain Redrick, 14th Wing, SAR
 
 ## Update history
 

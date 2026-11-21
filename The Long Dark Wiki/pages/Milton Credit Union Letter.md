@@ -42,13 +42,13 @@ Currently, the collectible serves no additional purpose during [Episode 1](./Epi
 
 _The following text is transcribed from **Milton Credit Union Letter**_
 
-**September, 2012
+September, 2012
 
 Dear members,
 
 Due to global economic realities that are well known to you, we are unfortunately unable to remain in operation. All banking services are hereby suspended until further notice.
 
-- Management**
+- Management
 
 ## Update history
 

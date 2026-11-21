@@ -42,7 +42,7 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Pleasant Valley Collectible, Part Three**_
 
-**It all happened during a storm, so we'll never know exactly what the hell went on out there. All we do know is we're cut off from the highway now. Tonnes and tonnes of rock stand between us and the rest of Great Bear. An earthquake? Maybe.**
+It all happened during a storm, so we'll never know exactly what the hell went on out there. All we do know is we're cut off from the highway now. Tonnes and tonnes of rock stand between us and the rest of Great Bear. An earthquake? Maybe.
 
 ## Update history
 

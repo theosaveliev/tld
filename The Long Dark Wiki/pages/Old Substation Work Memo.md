@@ -36,11 +36,11 @@ _Old\_Substation\_Work\_Memo\_icon.png_
 
 _The following text is transcribed from **Old Substation Work Memo**_
 
-**\[letterhead from a prison support company sub-contractor\]
+\[letterhead from a prison support company sub-contractor\]
 
 Linda, I know this is a touchy subject for you given it's just you and him trading shifts this season, but please take a hard look at Sam when you see him. His check-ins are getting more infrequent and less coherent by the week.
 
-We're doing our best down here in Central to get you guys some more help this year, but you know how that goes these days.**
+We're doing our best down here in Central to get you guys some more help this year, but you know how that goes these days.
 
 ## Update history
 

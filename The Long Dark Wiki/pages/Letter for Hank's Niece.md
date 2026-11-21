@@ -40,7 +40,7 @@ _Letter\_for\_Hank's\_Niece\_icon.png_
 
 _The following text is transcribed from **Letter for Hank's Niece**_
 
-**Dear Angela,
+Dear Angela,
 
 You know I always told you that a time might come where you'd need to hide out for a while?
 
@@ -48,7 +48,7 @@ I figured it might be because of the quake, but I didn't really think about how 
 
 Your loving uncle,
 
-Hank**
+Hank
 
 ## Update history
 

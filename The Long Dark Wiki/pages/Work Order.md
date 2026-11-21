@@ -36,11 +36,11 @@ _Work\_Order\_icon.png_
 
 _The following text is transcribed from **Work Order**_
 
-**Maintenance Shift, #355
+Maintenance Shift, #355
 
 Staff reports instances of pressure loss when drawing power for internal detention cell control, notably in segregation unites 4-7.
 
-Check for adequate thermal regulation at steam junctions and valve switches. And see to scheduling any repairs as needed.**
+Check for adequate thermal regulation at steam junctions and valve switches. And see to scheduling any repairs as needed.
 
 ## Update history
 

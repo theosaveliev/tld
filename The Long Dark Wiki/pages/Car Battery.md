@@ -66,6 +66,10 @@ A select number of special areas contains around 5 Batteries in an indoor space.
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Scrap Lead"&gt;Scrap Lead&lt;/a&gt; | None | - 1 × &lt;a href="Car Battery"&gt;Car Battery&lt;/a&gt; |
+
 ## Tips
 
 Eventually all [Hunting Rifle](./Hunting%20Rifle.md) and [Revolver](./Revolver.md) ammunition will become depleted; crafting is the only way to obtain more ammunition outside of trading with the Trader.

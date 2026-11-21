@@ -34,13 +34,13 @@ _Security\_Chief's\_Log\_23\_icon.png_
 
 _The following text is transcribed from **Security Chief's Log 23**_
 
-**We ran power to Rüdiger's machine for the first time yesterday. It was nothing like what they predicted, even at half-energy.
+We ran power to Rüdiger's machine for the first time yesterday. It was nothing like what they predicted, even at half-energy.
 
 I still have no idea what the endgame for all of this will be. The whole project. And I’m seeing now that few of the men building it do either. It’s all over their faces. All this time underground isn’t helping their morale, but I’m confident our fragile truce will hold until we’re finished.
 
 We worked hard to make it this far after what happened to Team 3.
 
-But afterwards? Impossible to say.**
+But afterwards? Impossible to say.
 
 ## Update history
 

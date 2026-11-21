@@ -36,7 +36,7 @@ _Forest\_Talker\_Memo\_icon.png_
 
 _The following text is transcribed from **Forest Talker Memo**_
 
-**\[a leaf of paper -- written as a letter but undated and unsigned\]
+\[a leaf of paper -- written as a letter but undated and unsigned\]
 
 We built out a waystation of sorts in an old mine in the shadow of Blackrock Mountain. It's not far from the Penitentiary, so we figure it'll sit undisturbed as a stockpile. There's a powerful energy to the place that I can't quite describe. I feel renewed each time I visit.
 
@@ -44,7 +44,7 @@ Our other hope is that since the mine is more modern than many of the other work
 
 We've got to cut them off from the Mainland. Resilience is the only way forward for us. Dependence on Mainland support will only mean more ecological devastation.
 
-The time for half-measures is over.**
+The time for half-measures is over.
 
 ## Update history
 

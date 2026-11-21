@@ -30,7 +30,7 @@ _Foreman's\_Polaroid\_1\_icon.png_
 
 _The following text is transcribed from **Foreman's Polaroid 1**_
 
-**My low camp while I track his movements through the pass. Below the treeline with good access to water.**
+My low camp while I track his movements through the pass. Below the treeline with good access to water.
 
 ## Update history
 

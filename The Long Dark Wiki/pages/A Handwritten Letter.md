@@ -36,14 +36,14 @@ _A\_Handwritten\_Letter\_icon.png_
 
 _The following text is transcribed from **A Handwritten Letter**_
 
-**Dear Constable Pete,  
+Dear Constable Pete,  
  Please find me when you can. My husband Martin has gone missing.
 
 It happened last Friday. I woke up and he was gone. The front door was wide open, snow all over the carpet. And he didn't even take his coat! It's not like him to leave without saying anything. But he's be (sic) sleep-walking these past few weeks.
 
 I hope you find this note very soon. Please contact me when you're back.
 
-Jen**
+Jen
 
 ## Update history
 

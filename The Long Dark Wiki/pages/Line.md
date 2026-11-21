@@ -57,6 +57,10 @@ A **Line** is a tool that is required for building a [Fishing Tackle](./Fishing%
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Fishing Tackle"&gt;Fishing Tackle&lt;/a&gt; | None | - 1 × &lt;a href="Hook"&gt;Hook&lt;/a&gt; / - 1 × &lt;a href="Line"&gt;Line&lt;/a&gt; |
+
 ## Gallery
 
 ![Old model.](../assets/Line.png)

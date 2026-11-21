@@ -32,7 +32,7 @@ The voice acting of this Collectible doesn't match the on-screen text and is mis
 
 _The following text is transcribed from **Foreman's Technical Log 4**_
 
-**\[barely legible handwriting...\]
+\[barely legible handwriting...\]
 
 Writing this, while I still can. So there's no question. So someone knows. So it all wasn't for nothing.
 
@@ -86,7 +86,7 @@ Can't even keep these pages straight. Going to rest a bit and then see how far I
 
 With whatever's left of me.
 
-But...maybe I shouldn't make it?**
+But...maybe I shouldn't make it?
 
 ## Update history
 

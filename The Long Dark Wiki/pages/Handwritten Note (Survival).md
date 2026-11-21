@@ -34,11 +34,11 @@ _Handwritten\_Note\_(Survival)\_icon.png_
 
 _The following text is transcribed from **Handwritten Note**_
 
-**Found the backpack I was looking for. I expect you'll be along soon to read this. The workshop code's gotta be 3445. I'll meet you back down at the gate so we can crack open that shop when the lights show up again.  
+Found the backpack I was looking for. I expect you'll be along soon to read this. The workshop code's gotta be 3445. I'll meet you back down at the gate so we can crack open that shop when the lights show up again.  
    
  I just gotta check something out on the lower level.  
    
- -- M**
+ -- M
 
 ## Update history
 

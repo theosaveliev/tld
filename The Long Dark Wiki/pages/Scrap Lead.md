@@ -57,6 +57,10 @@ Scrap Lead can also be found occasionally as a single piece when exploring the w
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Bullet"&gt;Bullet&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Lead"&gt;Scrap Lead&lt;/a&gt; |
+
 ## Tips
 
 - Car Batteries may be found by lifting the hoods of cars and trucks.

@@ -36,9 +36,9 @@ _Charcoal\_Note\_icon.png_
 
 _The following text is transcribed from **Charcoal Note**_
 
-**This letter appears to have been written in charcoal and is smeared with dirt.
+This letter appears to have been written in charcoal and is smeared with dirt.
 
-"I've been stuck in this damn truck for eight hours while those wolves circle. Not sure I'll be able to get to the supply stash I left along the rail line in the marsh."**
+"I've been stuck in this damn truck for eight hours while those wolves circle. Not sure I'll be able to get to the supply stash I left along the rail line in the marsh."
 
 ## Update history
 

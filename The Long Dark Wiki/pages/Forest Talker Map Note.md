@@ -36,7 +36,7 @@ _Forest\_Talker\_Map\_Note\_icon.png_
 
 _The following text is transcribed from **Forest Talker Map Note**_
 
-**Meet up at the abandoned hunting lodge on the outskirts of Mystery Lake park, GPS coordinates \[unreadable\]. We have to stop those Breyerhouse corporate \[expletive\].**
+Meet up at the abandoned hunting lodge on the outskirts of Mystery Lake park, GPS coordinates \[unreadable\]. We have to stop those Breyerhouse corporate \[expletive\].
 
 ## Update history
 

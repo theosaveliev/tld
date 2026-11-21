@@ -34,12 +34,12 @@ _Bunker\_Schematic\_Fragment\_2\_icon.png_
 
 _The following text is transcribed from **Bunker Schematic Fragment 2**_
 
-**\[faded handwriting in the margins of a technical drawing\]
+\[faded handwriting in the margins of a technical drawing\]
 
 ...once triggered, it can't be stopped. You're either out or you're in. But it'll be the safest place on Great Bear.
 
 SOLVE THE MISFIRE PROBLEM!!!
 
-Wyatt is distracted, getting sloppy. Without these bunkers, what good is he. Or his brother. If he can't fix this one of us could be having a real bad day. There's even a chance the countermeasure could be triggered on purpose, and in that case hold on to your...**
+Wyatt is distracted, getting sloppy. Without these bunkers, what good is he. Or his brother. If he can't fix this one of us could be having a real bad day. There's even a chance the countermeasure could be triggered on purpose, and in that case hold on to your...
 
 ## Game history

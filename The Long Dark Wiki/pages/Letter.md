@@ -36,7 +36,7 @@ _Letter\_icon.png_
 
 _The following text is transcribed from **Letter**_
 
-**Thinking of you out here, all alone.
+Thinking of you out here, all alone.
 
 Did it bring you something special? Leaving us like you did. And for what, for Blackrock?
 
@@ -46,7 +46,7 @@ I'm glad I came all this way, finally. If only to see what it was all about, liv
 
 With a warm heart,
 
-Bonnie**
+Bonnie
 
 ## Update history
 

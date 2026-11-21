@@ -36,11 +36,11 @@ _Notebook\_Paper\_icon.png_
 
 _The following text is transcribed from **Notebook Paper**_
 
-**I gotta get out of here. Nothing here is helping. I keep hearing voices. Things following me.
+I gotta get out of here. Nothing here is helping. I keep hearing voices. Things following me.
 
 I have this IDEA -- if I can get BEHIND the water, maybe the voices will stop. Where I used to go when I was little. That one place that always calmed me down.
 
-Gustavo P.**
+Gustavo P.
 
 ## Update history
 

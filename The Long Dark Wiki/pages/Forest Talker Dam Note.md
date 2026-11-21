@@ -36,11 +36,11 @@ _Forest\_Talker\_Dam\_Note\_icon.png_
 
 _The following text is transcribed from **Forest Talker Dam Note**_
 
-**Phil,
+Phil,
 
 Jackson's seen some wolves around the area, and last week Emily said she thought she saw a bear skulking around the camp. I'm not convinced it isn't those Breyerhouse thugs trying to scare us off, but just in case, keep this flare gun handy. It's the closest thing we have to a firearm.
 
-John.**
+John.
 
 ## Update history
 

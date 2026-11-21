@@ -34,11 +34,11 @@ _Torn\_Paper\_icon.png_
 
 _The following text is transcribed from **Torn Paper**_
 
-**Papa,
+Papa,
 
 When the lights came, we had to leave. We thought you might stop here, on your old trail, but we couldn't wait. The hunting is good, just like we remembered. Should be even better for you. If you find this, rest a while. We'll be waiting on the coast.
 
-Eliza**
+Eliza
 
 ## Update history
 

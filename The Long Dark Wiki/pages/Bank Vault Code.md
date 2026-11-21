@@ -36,7 +36,7 @@ It is found in the [Bank Manager's House](./Bank%20Manager%27s%20House.md) and i
 
 _The following text is transcribed from **Bank Vault Code**_
 
-**19-30-08**
+19-30-08
 
 ## Update history
 

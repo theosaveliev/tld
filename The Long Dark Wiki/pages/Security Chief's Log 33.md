@@ -34,13 +34,13 @@ _Security\_Chief's\_Log\_33\_icon.png_
 
 _The following text is transcribed from **Security Chief's Log 33**_
 
-**…I’m never leaving this place. I see that now. I tried to reason with him, to get him to see what this had all cost us. Rüdiger had other plans. The transmission site over the mountains. He’s always had a way out, always. He risked nothing.
+…I’m never leaving this place. I see that now. I tried to reason with him, to get him to see what this had all cost us. Rüdiger had other plans. The transmission site over the mountains. He’s always had a way out, always. He risked nothing.
 
 So I came back down. To try and smash this thing. Or do something.
 
 Anything.
 
-I think I’ll just close my eyes for a little while.**
+I think I’ll just close my eyes for a little while.
 
 ## Update history
 

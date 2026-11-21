@@ -34,7 +34,7 @@ _Faded\_Paper\_icon.png_
 
 _The following text is transcribed from **Faded Paper**_
 
-**12 June 1991  
+12 June 1991  
    
  Poppy always talked about the beauty out here. And after a few weeks on this survey I can see that. It cost him a lot, all this endless sky. Still haven't reached the mine yet. My own work keeps getting in the way.  
    
@@ -42,7 +42,7 @@ _The following text is transcribed from **Faded Paper**_
    
    
    
- But he got sick and all I've found out here are the bones and whispers of a dead company. Even the name seems forgotten. No sense to it yet.**
+ But he got sick and all I've found out here are the bones and whispers of a dead company. Even the name seems forgotten. No sense to it yet.
 
 ## Update history
 

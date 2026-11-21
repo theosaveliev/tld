@@ -31,3 +31,21 @@ _Cured\_Meat\_icon.png_
 **Hydration:** -5%
 
 **Weight:** 0.25 kg (0.55 lbs)
+
+Item
+
+Skills
+
+Materials
+
+&lt;a href="Pemmican Bar"&gt;Pemmican Bar&lt;/a&gt;
+
+None
+
+- 0.50 kg × &lt;a href="Cured Meat"&gt;Cured Meat&lt;/a&gt; / - 15 × &lt;a href="Rose Hip"&gt;Rose Hip&lt;/a&gt; / - 0.50 kg × &lt;a href="Animal Fat"&gt;Animal Fat&lt;/a&gt; / - 0.05 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+
+&lt;a href="Pemmican Bar"&gt;Pemmican Bar&lt;/a&gt;
+
+None
+
+- 0.50 kg × &lt;a href="Cured Meat"&gt;Cured Meat&lt;/a&gt; / - 15 × &lt;a href="Rose Hip"&gt;Rose Hip&lt;/a&gt; / - 0.50 kg × &lt;a href="Animal Fat"&gt;Animal Fat&lt;/a&gt; / - 0.05 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;

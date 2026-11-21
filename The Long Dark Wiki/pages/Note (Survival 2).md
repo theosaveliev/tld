@@ -34,11 +34,11 @@ _Note\_(Survival\_2)\_icon.png_
 
 _The following text is transcribed from **Note**_
 
-**We broke into the store rooms. There was lots to grab. More than we expected.  
+We broke into the store rooms. There was lots to grab. More than we expected.  
    
  From the look of the place, it went real bad here. And I don't think we're the first to get inside. I'm going to scout the perimeter again, just to be sure. See what else you can find.  
    
- -- J**
+ -- J
 
 ## Update history
 

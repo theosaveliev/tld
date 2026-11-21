@@ -34,4 +34,4 @@ _Tearful\_Letter\_icon.png_
 
 _The following text is transcribed from **Tearful Letter**_
 
-**I don't want to do this but I don't have a choice. I just can't stay in Milton anymore. It's just too...empty, and sad. I know I promised to stick with you through thick and thin, but I never signed up for this. I'm sorry. I'll send food when I get to the mainland. I hear they have more there. Love, N.**
+I don't want to do this but I don't have a choice. I just can't stay in Milton anymore. It's just too...empty, and sad. I know I promised to stick with you through thick and thin, but I never signed up for this. I'm sorry. I'll send food when I get to the mainland. I hear they have more there. Love, N.

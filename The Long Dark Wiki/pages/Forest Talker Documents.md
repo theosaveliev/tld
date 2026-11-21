@@ -36,7 +36,7 @@ _Forest\_Talker\_Documents\_icon.png_
 
 _The following text is transcribed from **Forest Talker Documents**_
 
-**"We finally have the evidence we've been looking for. All the photos of the logging we shared on social media have been totally ignored -- and I mean, who can blame them. Nobody believes what they see anymore. BUT, we stole some documents from a logging camp that prove that Breyerhouse is here \*illegally\*. Like, they don't actually have the correct permits or even permission to be here. And they are cutting down OLD GROWTH trees out here. It's exactly the kind of ammunition we need to take them down. Even if the lawyers and the corporate shills try to bury this -- and they will -- we'll be able to use this to drive up our recruitment, as well as cash for our crowdfunding campaign. With this, we can finally takes (sic) things to the \*next level\*."**
+"We finally have the evidence we've been looking for. All the photos of the logging we shared on social media have been totally ignored -- and I mean, who can blame them. Nobody believes what they see anymore. BUT, we stole some documents from a logging camp that prove that Breyerhouse is here \*illegally\*. Like, they don't actually have the correct permits or even permission to be here. And they are cutting down OLD GROWTH trees out here. It's exactly the kind of ammunition we need to take them down. Even if the lawyers and the corporate shills try to bury this -- and they will -- we'll be able to use this to drive up our recruitment, as well as cash for our crowdfunding campaign. With this, we can finally takes (sic) things to the \*next level\*."
 
 ## Update history
 

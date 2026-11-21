@@ -36,7 +36,7 @@ _Blackrock\_Prisoner\_Release\_Record\_icon.png_
 
 _The following text is transcribed from **Blackrock Prisoner Release Record**_
 
-**Medical Evaluation -- Inmate #5627
+Medical Evaluation -- Inmate #5627
 
 Board Summary:
 
@@ -51,7 +51,7 @@ Extensive evidence of both pre- and post-incarceration trauma.
 
 Regards,
 
-Blackrock Penitentiary Medical Committee**
+Blackrock Penitentiary Medical Committee
 
 ## Update history
 

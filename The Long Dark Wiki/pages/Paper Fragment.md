@@ -36,7 +36,7 @@ _Paper\_Fragment\_icon.png_
 
 _The following text is transcribed from **Paper Fragment**_
 
-**\[damp paper, partially legible\]
+\[damp paper, partially legible\]
 
 ...batteries all seem drained. Even the "good" ones I had shipped in last summer.
 
@@ -44,7 +44,7 @@ All this damn equipment, just sittin' here. Dead.
 
 We know people are hurting since the lights in the sky showed up, so we're closing up here. Zoe made the long trek into Perseverance and back and things seemed quiet there, she said.
 
-The plan's to go inland, and then head south to one of the other hamlets along the coast. Probably \[illegible\]. We figure they might have some equipment that's still working. Maybe get the word out to the Mainland about what the hell's going on out here.**
+The plan's to go inland, and then head south to one of the other hamlets along the coast. Probably \[illegible\]. We figure they might have some equipment that's still working. Maybe get the word out to the Mainland about what the hell's going on out here.
 
 ## Update history
 

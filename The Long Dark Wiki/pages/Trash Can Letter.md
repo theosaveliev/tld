@@ -36,7 +36,7 @@ _Trash\_Can\_Letter\_icon.png_
 
 _The following text is transcribed from **Trash Can Letter**_
 
-**"I'm so \*\*\*\*ed off at you. You told me the Forest Talkers were legit and that we'd be doing "good work" out here. All I've seen is a ragtag bunch of dumbies who are disorganized and have no plan. It's way too cold to be out here this time of year, and the wildlife -- I mean, you didn't tell me there would be \*actual\* wolves out here. This is crazy. You can hear them outside at night, howling. It's making me crazy. What are we doing out here? People said Great Bear was hit hard by the quakes but man, I had no idea it was so tuck in the...dark ages. You owe big time for bringing those supplies, and if the weather doesn't warm up soon, I'm outta here, and you will not be seeing me again any time soon."**
+"I'm so \*\*\*\*ed off at you. You told me the Forest Talkers were legit and that we'd be doing "good work" out here. All I've seen is a ragtag bunch of dumbies who are disorganized and have no plan. It's way too cold to be out here this time of year, and the wildlife -- I mean, you didn't tell me there would be \*actual\* wolves out here. This is crazy. You can hear them outside at night, howling. It's making me crazy. What are we doing out here? People said Great Bear was hit hard by the quakes but man, I had no idea it was so tuck in the...dark ages. You owe big time for bringing those supplies, and if the weather doesn't warm up soon, I'm outta here, and you will not be seeing me again any time soon."
 
 ## Update history
 

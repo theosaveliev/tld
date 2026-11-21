@@ -40,7 +40,7 @@ _Hank's\_Prepper\_Cache\_Code\_icon.png_
 
 _The following text is transcribed from **Hank's Prepper Cache Code**_
 
-**Hank's prepper hatch code: 45 - 18 - 32**
+Hank's prepper hatch code: 45 - 18 - 32
 
 ## Update history
 

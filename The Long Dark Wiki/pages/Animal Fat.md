@@ -38,6 +38,36 @@ _Animal\_Fat\_icon.png_
 
 **Weight:** 1.00 kg (2.2 lbs)
 
+Item
+
+Skills
+
+Materials
+
+&lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt;
+
+None
+
+- 1.00 kg × &lt;a href="Animal Fat"&gt;Animal Fat&lt;/a&gt;
+
+&lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt;
+
+None
+
+- 1.00 kg × &lt;a href="Animal Fat"&gt;Animal Fat&lt;/a&gt;
+
+&lt;a href="Pemmican Bar"&gt;Pemmican Bar&lt;/a&gt;
+
+None
+
+- 0.50 kg × &lt;a href="Cured Meat"&gt;Cured Meat&lt;/a&gt; / - 15 × &lt;a href="Rose Hip"&gt;Rose Hip&lt;/a&gt; / - 0.50 kg × &lt;a href="Animal Fat"&gt;Animal Fat&lt;/a&gt; / - 0.05 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+
+&lt;a href="Pemmican Bar"&gt;Pemmican Bar&lt;/a&gt;
+
+None
+
+- 0.50 kg × &lt;a href="Cured Meat"&gt;Cured Meat&lt;/a&gt; / - 15 × &lt;a href="Rose Hip"&gt;Rose Hip&lt;/a&gt; / - 0.50 kg × &lt;a href="Animal Fat"&gt;Animal Fat&lt;/a&gt; / - 0.05 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt;
+
 ![Fresh](../assets/Animal_Fat_icon.png)
 
 _Fresh_

@@ -42,7 +42,7 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Undelivered Letter**_
 
-**My Cindi,
+My Cindi,
 
 What now, honey?
 
@@ -50,7 +50,7 @@ No cash, nothing coming. I had to do something. Everyone’s gone.
 
 I don’t know where this ends, but I’m sorry either way. Thing’s up above on the Ridge, in that empty basement. Maybe we can trade it for a way out of here.
 
-- Sam**
+- Sam
 
 ## Update history
 

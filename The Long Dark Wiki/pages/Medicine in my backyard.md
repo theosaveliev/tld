@@ -34,11 +34,11 @@ _Medicine\_in\_my\_backyard\_icon.png_
 
 _The following text is transcribed from **Medicine in my backyard**_
 
-**Susan, the meds I found on my last trip are at my place, out back. You know the spot. Remember, we have to make these last as long as we can.
+Susan, the meds I found on my last trip are at my place, out back. You know the spot. Remember, we have to make these last as long as we can.
 
 I know things are bad right now, but please, help me with this. If you get sick again, I don't know what I'll do.
 
-- T**
+- T
 
 ## Update history
 

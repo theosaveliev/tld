@@ -34,7 +34,7 @@ _A\_page\_from\_an\_old\_newsletter.\_icon.png_
 
 _The following text is transcribed from **A page from an old newsletter.**_
 
-**Dear Civilian Corps members.
+Dear Civilian Corps members.
 
 As discussed at our last meeting, we're pleased with how many volunteers have stepped up to host a radio for our new emergency network plan. As of tomorrow, we'll have civilian broadcast capability from nearly every community on Great Bear. We're confident this will give us good coverage for enabling two-way emergency transmission from the coast all the way to the Far Territory.
 
@@ -44,6 +44,6 @@ With tremors increasing, building a durable radio network could make all the dif
 
 With gratitude,
 
-Jen Whitney, Executive Officer**
+Jen Whitney, Executive Officer
 
 ## Game history

@@ -56,6 +56,11 @@ Wolf Meat is harvested from [Wolf](./Wolf.md) and [Timberwolf](./Timberwolf.md) 
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Stalker's Pie"&gt;Stalker's Pie&lt;/a&gt; | None | - 0.50 kg × &lt;a href="Bear Meat (Raw)"&gt;Bear Meat (Raw)&lt;/a&gt; / - 0.50 kg × &lt;a href="Wolf Meat (Raw)"&gt;Wolf Meat (Raw)&lt;/a&gt; / - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt; |
+| &lt;a href="Wolf Meat (Cooked)"&gt;Wolf Meat (Cooked)&lt;/a&gt; | None | - 1.00 kg × &lt;a href="Wolf Meat (Raw)"&gt;Wolf Meat (Raw)&lt;/a&gt; |
+
 ## Gallery
 
 ![Fresh](../assets/Wolf_Meat_%28Raw%29_icon.png)

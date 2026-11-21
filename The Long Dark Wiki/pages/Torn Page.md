@@ -36,7 +36,7 @@ _Torn\_Page\_icon.png_
 
 _The following text is transcribed from **Torn Page**_
 
-**\[paper fragment\]
+\[paper fragment\]
 
 ...went as deep into the mine as we could.
 
@@ -48,7 +48,7 @@ If the missing are in there, they're on their own.
 
 Jesse Edgar
 
-SAR Lead District 4**
+SAR Lead District 4
 
 ## Update history
 

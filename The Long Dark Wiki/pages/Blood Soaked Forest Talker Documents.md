@@ -36,7 +36,7 @@ _Blood\_Soaked\_Forest\_Talker\_Documents\_icon.png_
 
 _The following text is transcribed from **Blood Soaked Forest Talker Documents**_
 
-**A variety of documents, some with barely visible Breyerhouse logos on them. Soaked in blood to the point of being ruined. Whatever useful info they contained is now lost.**
+A variety of documents, some with barely visible Breyerhouse logos on them. Soaked in blood to the point of being ruined. Whatever useful info they contained is now lost.
 
 ## Update history
 

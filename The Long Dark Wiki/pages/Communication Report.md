@@ -34,7 +34,7 @@ _Communication\_Report\_icon.png_
 
 _The following text is transcribed from **Communications Report**_
 
-**Request extraction. Wolves everywhere. Chased out of the Muskeg to the coast. All predator deterrents failed.
+Request extraction. Wolves everywhere. Chased out of the Muskeg to the coast. All predator deterrents failed.
 
 No food left. Going to check out the work site down below tower 12, for supplies -- use code 154 to bypass security doors. Hurry.
 
@@ -42,7 +42,7 @@ No food left. Going to check out the work site down below tower 12, for supplies
 
 Sector 12 Tower Failure. Remote service for Automated Relay. Extreme Predator Threat.
 
-Partner Specialist 81926**
+Partner Specialist 81926
 
 ## Update history
 

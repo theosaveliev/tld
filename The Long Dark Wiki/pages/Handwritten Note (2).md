@@ -36,7 +36,7 @@ _Handwritten\_Note\_(2)\_icon.png_
 
 _The following text is transcribed from **Handwritten Note**_
 
-**REMINDER  
+REMINDER  
  IN CASE OF ABSENCE
 
 If you need to use first aid supplies, Cooper keeps a spare key to the Clinic.
@@ -48,7 +48,7 @@ For serious injuries and emergencies, Jane and Gary are your first responder's p
 
 Thanks.
 
-Dr Larsen**
+Dr Larsen
 
 ## Update history
 

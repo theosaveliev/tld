@@ -34,7 +34,7 @@ _Security\_Chief's\_Log\_29\_icon.png_
 
 _The following text is transcribed from **Security Chief's Log 29**_
 
-**Whatever happened here, it’s not a virus, or any known pathogen. At least, that's what the doctor tells me. There are no visible injuries, only invisible ones.
+Whatever happened here, it’s not a virus, or any known pathogen. At least, that's what the doctor tells me. There are no visible injuries, only invisible ones.
 
 My symptoms have just started, but they track what the others have gone through. Things are starting to get fuzzy, just like with them.
 
@@ -48,7 +48,7 @@ I've changed, somehow. The men, the medical officer, all of us. But not him. Not
 
 He’ll want the research. It shows some bizarre benefits, even if it’s come at a price. Rüdiger found what he was looking for.
 
-He can keep it.**
+He can keep it.
 
 ## Update history
 

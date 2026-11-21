@@ -30,6 +30,10 @@ Newsprints fill the role of tinder, which is used for [fire starting](./Fire%20S
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Tinder Plug"&gt;Tinder Plug&lt;/a&gt; | None | - 1 × &lt;a href="Newsprint"&gt;Newsprint&lt;/a&gt; |
+
 ## Gallery
 
 ![Old model.](../assets/Newsprint.png)

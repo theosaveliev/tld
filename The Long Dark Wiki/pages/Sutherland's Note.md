@@ -34,7 +34,7 @@ _Sutherland's\_Note\_icon.png_
 
 _The following text is transcribed from **Sutherland's Note**_
 
-**\[shaky, delicate handwriting\]
+\[shaky, delicate handwriting\]
 
 It made sense to leave you here. In your first build, the one for Joplin. He was the only one who didn't turn on you, so it seemed right. You were always bugging me to write more, so I followed your lead and scratched down a few words to see you off I guess.
 
@@ -48,6 +48,6 @@ There's a big storm comin', they say. All the wildlife is spooked. No one's stan
 
 Maybe you got out just in time.
 
-- Sutherland**
+- Sutherland
 
 ## Game history

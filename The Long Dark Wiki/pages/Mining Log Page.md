@@ -34,13 +34,13 @@ _Mining\_Log\_Page\_icon.png_
 
 _The following text is transcribed from **Notebook Page**_
 
-**...
+...
 
 It’s gold all right! Can’t believe how much. Jesse wants to go even deeper, but we’re all waiting on the Foreman to give us the thumbs up.
 
 The vein we opened looks like it could go on and on. Just have to be careful how we…
 
-...**
+...
 
 ## Update history
 

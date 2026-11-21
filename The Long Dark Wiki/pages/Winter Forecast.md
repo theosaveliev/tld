@@ -48,13 +48,13 @@ _**Note:** If something is placed on the sofa before completing [The Grey Mother
 
 _The following text is transcribed from **Winter Forecast**_
 
-**WEATHER WARNING
+WEATHER WARNING
 
 HEAVY SNOW AND RECORD LOW TEMPERATURES EXPECTED
 
 \[Scrawled in handwriting below\]
 
-“She won't like it one bit, but we'll need to check on her. Someone has to."**
+“She won't like it one bit, but we'll need to check on her. Someone has to."
 
 ## Update history
 

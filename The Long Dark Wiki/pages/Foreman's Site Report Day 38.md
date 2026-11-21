@@ -34,7 +34,7 @@ _Foreman's\_Site\_Report\_Day\_38\_icon.png_
 
 _The following text is transcribed from **Foreman's Site Report Day 38**_
 
-**Was our first day back down below since the boss and his people arrived.
+Was our first day back down below since the boss and his people arrived.
 
 He called us together and had us all sign new paperwork. Boilerplate stuff, but it had us wondering. What’s changed?
 
@@ -42,7 +42,7 @@ Then he gave a speech, as he likes to do. Only this time in front of the gadget.
 
 He talked for a long time, but in the end we were able to restart our work on the machine’s electrical system. We also stabilized the track connecting the top of the Concentrator to the ridge above. Makes access easier if we need to move in more generators. This thing needs all the juice we can find.
 
-Did I mention I need to get the hell out of here?**
+Did I mention I need to get the hell out of here?
 
 ## Update history
 

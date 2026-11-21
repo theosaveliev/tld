@@ -71,6 +71,10 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Birch Bark Tea"&gt;Birch Bark Tea&lt;/a&gt; | None | - 1 × &lt;a href="Prepared Birch Bark"&gt;Prepared Birch Bark&lt;/a&gt; / - 0.25 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; |
+
 ## Tips
 
 - Birch Forests are present near the [Lonely Homestead](./Lonely%20Homestead.md) ([Pleasant Valley](./Pleasant%20Valley.md)), western [The Ravine](./The%20Ravine.md), and north-western [Bleak Inlet](./Bleak%20Inlet.md). Lone birch trees can be found sporadically in all regions.

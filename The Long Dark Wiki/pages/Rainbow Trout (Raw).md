@@ -66,6 +66,13 @@ Cooking trout improves the [cooking skill](./Skills.md#Cooking). Using a [Cookin
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Coastal Fishcakes"&gt;Coastal Fishcakes&lt;/a&gt; | None | - 0.50 Kg × &lt;a href="Rainbow Trout (Raw)"&gt;Rainbow Trout (Raw)&lt;/a&gt; / - 2 × &lt;a href="Potato"&gt;Potato&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.01 kg × &lt;a href="Salt"&gt;Salt&lt;/a&gt; |
+| &lt;a href="Mounted Rainbow Trout"&gt;Mounted Rainbow Trout&lt;/a&gt; | None | - 1 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Rainbow Trout (Raw)"&gt;Rainbow Trout (Raw)&lt;/a&gt; |
+| &lt;a href="Rainbow Trout (Cooked)"&gt;Rainbow Trout (Cooked)&lt;/a&gt; | None | - 1 × &lt;a href="Rainbow Trout (Raw)"&gt;Rainbow Trout (Raw)&lt;/a&gt; |
+| &lt;a href="Trout Stew"&gt;Trout Stew&lt;/a&gt; | None | - 0.50 kg × &lt;a href="Rainbow Trout (Raw)"&gt;Rainbow Trout (Raw)&lt;/a&gt; / - 0.20 L × &lt;a href="Broth"&gt;Broth&lt;/a&gt; / - 0.05 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt; |
+
 ## Gallery
 
 ![Old model.](../assets/Rainbow_trout.png)

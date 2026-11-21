@@ -33,3 +33,15 @@ _Wires\_icon.png_
 **Advanced data**
 
 **Item key:** GAMEPLAY\_Wires
+
+Item
+
+Skills
+
+Materials
+
+&lt;a href="Fishing Lure (Wire Bundle)"&gt;Fishing Lure (Wire Bundle)&lt;/a&gt;
+
+None
+
+- 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; / - 1 × &lt;a href="Wires"&gt;Wires&lt;/a&gt;

@@ -40,9 +40,9 @@ _Hank's\_Journal\_-\_Part\_One\_icon.png_
 
 _The following text is transcribed from **Hank's Journal - Part One**_
 
-**I've spent a lot of years in this damn lookout tower, watching the forest around Mystery Lake, and it's given me nothing but time to think about my life and the world around me and what I hear is happening. Sitting in a tower like this for days, weeks, months on end is enough to drive anyone crazy. Even if I didn't have anyone to talk to on the radio -- and just let me say I wish that chatty lady would shut up once in a while. I mean, I came out here to be alone, to be away from other people. It's almost enough to make you wish all the radios, all the satellite phones and internet and stuff...would just...disappear.
+I've spent a lot of years in this damn lookout tower, watching the forest around Mystery Lake, and it's given me nothing but time to think about my life and the world around me and what I hear is happening. Sitting in a tower like this for days, weeks, months on end is enough to drive anyone crazy. Even if I didn't have anyone to talk to on the radio -- and just let me say I wish that chatty lady would shut up once in a while. I mean, I came out here to be alone, to be away from other people. It's almost enough to make you wish all the radios, all the satellite phones and internet and stuff...would just...disappear.
 
-Anyway, I've been putting aside some supplies every season, leftovers or whatever I can spare, and it's added up to quite the little stash of food and equipment. Hopefully I never need it. But if I do -- the ends justify the means, right? I don't think anyone needs that weird old bunker thing I found, and it makes the perfect place to hide out if the SHTF, you know what I mean?**
+Anyway, I've been putting aside some supplies every season, leftovers or whatever I can spare, and it's added up to quite the little stash of food and equipment. Hopefully I never need it. But if I do -- the ends justify the means, right? I don't think anyone needs that weird old bunker thing I found, and it makes the perfect place to hide out if the SHTF, you know what I mean?
 
 ## Update history
 

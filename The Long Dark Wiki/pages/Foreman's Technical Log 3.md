@@ -30,7 +30,7 @@ _Foreman's\_Technical\_Log\_3\_icon.png_
 
 _The following text is transcribed from **Foreman's Technical Log 3**_
 
-**\[paper fragment with shaky handwriting...\]
+\[paper fragment with shaky handwriting...\]
 
 Tracked the slippery creep up here, but he's moving fast. Stronger than he looks, and just as I'm starting to fade.
 
@@ -46,7 +46,7 @@ Well then.
 
 It's almost kinda nice when the sun's up. And the wind stops howling.
 
-Onward. Gotta fix this. Finish it.**
+Onward. Gotta fix this. Finish it.
 
 ## Update history
 

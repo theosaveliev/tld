@@ -36,7 +36,7 @@ _ID\_Card\_icon.png_
 
 _The following text is transcribed from **ID Card**_
 
-**Dr. Kojo Fujimaru**
+Dr. Kojo Fujimaru
 
 ## Update history
 

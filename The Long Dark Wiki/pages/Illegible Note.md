@@ -36,7 +36,7 @@ _Illegible\_Note\_icon.png_
 
 _The following text is transcribed from **Illegible Note**_
 
-**The text on this note is largely unreadable. If this message was meant for someone, hopefully they were able to decipher it. Fortunately, there are a handful of recognizable landmarks - and a bold arrow pointing to a large 'X'.**
+The text on this note is largely unreadable. If this message was meant for someone, hopefully they were able to decipher it. Fortunately, there are a handful of recognizable landmarks - and a bold arrow pointing to a large 'X'.
 
 ## Update history
 

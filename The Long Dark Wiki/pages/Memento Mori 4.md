@@ -34,7 +34,7 @@ _Memento\_Mori\_4\_icon.png_
 
 _The following text is transcribed from **Memento Mori 4**_
 
-**Why couldn't you hold out? Why couldn't I let go? Are you at rest? Is there sky above where you are?**
+Why couldn't you hold out? Why couldn't I let go? Are you at rest? Is there sky above where you are?
 
 ## Update history
 

@@ -32,9 +32,9 @@ _Notebook\_Page\_(Survival\_2)\_icon.png_
 
 _The following text is transcribed from **Notebook Page**_
 
-**Guiding these Mainland tourist climbers isn’t worth all their moaning.
+Guiding these Mainland tourist climbers isn’t worth all their moaning.
 
-After we hit the High Meadow I’m going to bow out and head for that old gold mine my dad showed me. I’m already a week overdue on this trip…**
+After we hit the High Meadow I’m going to bow out and head for that old gold mine my dad showed me. I’m already a week overdue on this trip…
 
 ## Update history
 

@@ -34,9 +34,9 @@ _Diary\_Page\_icon.png_
 
 _The following text is transcribed from **Diary Page**_
 
-**Just about run out of excuses for keeping my mouth shut. Those miners might look down on me now, but if they keep digging on like they are…
+Just about run out of excuses for keeping my mouth shut. Those miners might look down on me now, but if they keep digging on like they are…
 
-Too deep if you ask me. Much too deep.**
+Too deep if you ask me. Much too deep.
 
 ## Update history
 

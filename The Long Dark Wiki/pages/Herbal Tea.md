@@ -55,6 +55,10 @@ Herbal Tea is packaged as a product called _Sweet Dreams Herbal Tea_.
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Cup of Herbal Tea"&gt;Cup of Herbal Tea&lt;/a&gt; | None | - 1 × &lt;a href="Herbal Tea"&gt;Herbal Tea&lt;/a&gt; / - 0.25 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; |
+
 ## Medical Applications
 
 Herbal Tea, when drunk hot or cold, will give you the "[Improved Rest](./Improved%20Rest.md)" [Affliction](./Afflictions.md#Improved_rest_affliction), which will increase condition gained while sleeping by 2% an hour one's next 6 hours of sleep (whether this be all at once or across multiple sleep sessions), meaning one glass of Herbal Tea can restore up to an additional 12% condition.

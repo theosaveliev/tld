@@ -40,7 +40,7 @@ _Prison\_Transport\_Manifest\_icon.png_
 
 _The following text is transcribed from **Prison Transport Manifest**_
 
-**The following felons are slated for immediate transport to Blackrock Federal Penitentiary. Scheduled arrival: Thursday, November XX, 20XX:
+The following felons are slated for immediate transport to Blackrock Federal Penitentiary. Scheduled arrival: Thursday, November XX, 20XX:
 
 - WHITE, S.
 - IRVINE, K.
@@ -60,7 +60,7 @@ _The following text is transcribed from **Prison Transport Manifest**_
 
 Total roster: 15 inmates
 
-Known medical conditions: None.**
+Known medical conditions: None.
 
 ## Trivia
 

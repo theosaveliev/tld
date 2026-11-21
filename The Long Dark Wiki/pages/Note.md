@@ -36,11 +36,11 @@ _Note\_icon.png_
 
 _The following text is transcribed from **Note**_
 
-**I hear them.  
+I hear them.  
  I hear them under the waves.  
  Black tides, black water. Endless wailing.  
  I can't go in the water.  
- Not me, not me...send me deep but not there. Not again.**
+ Not me, not me...send me deep but not there. Not again.
 
 ## Update history
 

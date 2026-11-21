@@ -42,7 +42,7 @@ During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) journe
 
 _The following text is transcribed from the label on **Blackrock Infirmary Medication**_
 
-**High-quality, injectable medication. The label reads, “FOR EMERGENCIES ONLY”.**
+High-quality, injectable medication. The label reads, “FOR EMERGENCIES ONLY”.
 
 ## Update history
 

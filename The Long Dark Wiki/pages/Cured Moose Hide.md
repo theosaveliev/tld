@@ -34,6 +34,11 @@ Fresh Moose Hides are a very rare resource to obtain, since they require first f
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Moose-Hide Cloak"&gt;Moose-Hide Cloak&lt;/a&gt; | None | - 1 × &lt;a href="Cured Moose Hide"&gt;Cured Moose Hide&lt;/a&gt; / - 4 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
+| &lt;a href="Moose-Hide Satchel"&gt;Moose-Hide Satchel&lt;/a&gt; | None | - 1 × &lt;a href="Cured Moose Hide"&gt;Cured Moose Hide&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
+
 ## Update history
 
 - UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.16)):**

@@ -30,7 +30,7 @@ _Foreman's\_Polaroid\_4\_icon.png_
 
 _The following text is transcribed from **Foreman's Polaroid 4**_
 
-**Me and the Chief on that final day. I saw something in her eyes. Did she know?**
+Me and the Chief on that final day. I saw something in her eyes. Did she know?
 
 ## Update history
 

@@ -42,7 +42,7 @@ During the course of the mission, Astrid finds the note _Blackrock Penitentiary 
 
 _The following text is transcribed from **Blackrock Penitentiary Memo**_
 
-**TO: Officer Gray
+TO: Officer Gray
 
 FROM: Regional Deputy Commissioner Stevens
 
@@ -58,7 +58,7 @@ Regards,
 
 R. Stevens
 
-Deputy Commissioner**
+Deputy Commissioner
 
 ## Update history
 

@@ -36,7 +36,7 @@ _Elevator\_Maintenance\_Note\_icon.png_
 
 _The following text is transcribed from **Elevator Maintenance Note**_
 
-**Carter Hydro Dam Maintenance Ticket: The elevator is acting up again. We've checked the mechanicals and they seem fine. Must be something glitchy in the electrical system. Keep an eye on it. It's really the only way to the Turbine Room. If the elevator gets stuck, it'll be a LONG walk before you can get back into the Control Room.**
+Carter Hydro Dam Maintenance Ticket: The elevator is acting up again. We've checked the mechanicals and they seem fine. Must be something glitchy in the electrical system. Keep an eye on it. It's really the only way to the Turbine Room. If the elevator gets stuck, it'll be a LONG walk before you can get back into the Control Room.
 
 ## Update history
 

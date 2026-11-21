@@ -34,13 +34,13 @@ _Langston\_Mine\_Memo\_icon.png_
 
 _The following text is transcribed from **Langston Mine Memo**_
 
-**You tell him the valves were never designed to take this kind of abuse. It’s just too corrosive.
+You tell him the valves were never designed to take this kind of abuse. It’s just too corrosive.
 
 There’s a limit to what we can keep pumping into the ground here, even the way we do things.
 
 I’m not talking right and wrong here, just basic physics.
 
-It’s a dirty business.**
+It’s a dirty business.
 
 ## Update history
 

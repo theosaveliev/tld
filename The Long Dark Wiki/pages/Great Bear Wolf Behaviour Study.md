@@ -36,7 +36,7 @@ _Great\_Bear\_Wolf\_Behaviour\_Study\_icon.png_
 
 _The following text is transcribed from **Great Bear Wolf Behaviour Study**_
 
-**\[a journal page, partially torn and soaked with blood\]
+\[a journal page, partially torn and soaked with blood\]
 
 ...mistake to come here. The Staging Report from Blackrock Admin, was incomplete. Clearly this animal has survived some deep trauma or starvation period to develop aberrant predatory behaviours to this degree.
 
@@ -44,7 +44,7 @@ I'm going to recommend sedation, tagging, and relocation in order to give it a f
 
 It's a magnificent creature and worthy of study.
 
-There's an unusual...**
+There's an unusual...
 
 ## Update history
 

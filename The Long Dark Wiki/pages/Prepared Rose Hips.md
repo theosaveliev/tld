@@ -60,6 +60,10 @@ Prepared Rose Hips have about 1/5 the weight of their raw form, and do not [Deca
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Rose Hip Tea"&gt;Rose Hip Tea&lt;/a&gt; | None | - 1 × &lt;a href="Prepared Rose Hips"&gt;Prepared Rose Hips&lt;/a&gt; / - 0.25 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; |
+
 ## Tips
 
 - Harvesting 3 Rose Bushes (at 8 Rose Hips each) is required to craft 1 unit of Prepared Rose Hips/Rose Hip Tea.

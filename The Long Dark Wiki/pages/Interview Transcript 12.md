@@ -34,7 +34,7 @@ _Interview\_Transcript\_12\_icon.png_
 
 _The following text is transcribed from **Interview Transcript 12**_
 
-**Q: Session 12, Project Medical Officer interviewing Patient 7.
+Q: Session 12, Project Medical Officer interviewing Patient 7.
 
 Back to the third instance. Find the bridge between them.
 
@@ -62,7 +62,7 @@ It moves to the edge of the hole. No face, just a moving shape. Uh...a shadow.
 
 Is it me? My face? Goddammit.
 
-And that’s when I wake up. Every damn time.**
+And that’s when I wake up. Every damn time.
 
 ## Update history
 

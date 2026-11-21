@@ -36,11 +36,11 @@ It is found on a the refrigerator inside the [Paradise Meadows Farm](./Paradise%
 
 _The following text is transcribed from **Neighbour's Note**_
 
-**Hey Martin,
+Hey Martin,
 
 We found Molly! Alice was so relieved. Thanks for helping us look. Looks like this time maybe a wolf went after her. They (sic) seem to be more and more since the quake, and closer to town -- fewer people to keep them in check I guess. Molly's hurt but I think she'll make it. Watch out because the wolves might come after your dog too. I know how you feel about wildlife and that you wouldn't shoot a wolf even if you had to, but I hear they don't like loud noises. Roadside flare might do the trick. Stay safe and come visit us when you can. It's not good to spend too much time on your own.
 
--- John**
+-- John
 
 ## Trivia
 

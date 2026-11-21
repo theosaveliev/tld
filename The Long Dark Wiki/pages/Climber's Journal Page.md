@@ -40,7 +40,7 @@ _Climber's\_Journal\_Page\_icon.png_
 
 _The following text is transcribed from **Climber's Journal Page**_
 
-**Sept 5th
+Sept 5th
 
 Arrived at the base of Timberwolf Mountain. Looks like there are some nice cracks, just like Clive said. Going to set up a top rope and do some bouldering until the others show up. Hopefully soon.
 
@@ -50,7 +50,7 @@ Wondering if my friends got lost as they still haven't arrived. Woke up in the n
 
 Sept 7th
 
-Clear day. I went out again. Found some metal cargo crates. They look like they might have come from a plane. There's still smoke coming from the summit. I'm heading out to see if I can make it to the peak and learn more about what's going on.**
+Clear day. I went out again. Found some metal cargo crates. They look like they might have come from a plane. There's still smoke coming from the summit. I'm heading out to see if I can make it to the peak and learn more about what's going on.
 
 ## Gallery
 

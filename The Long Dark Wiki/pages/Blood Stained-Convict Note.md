@@ -42,7 +42,7 @@ During the course of the mission, the Astrid finds the note _Blood Stained-Convi
 
 _The following text is transcribed from **Blood Stained-Convict Note**_
 
-**I'm soakin right through this paper. All that's left of me those cowards. Like somethin jump up and bit me. Was wrong to follow [Mathis](./Mathis.md). No leader. Don't trust him. Won't lead you home.**
+I'm soakin right through this paper. All that's left of me those cowards. Like somethin jump up and bit me. Was wrong to follow [Mathis](./Mathis.md). No leader. Don't trust him. Won't lead you home.
 
 ## Update history
 

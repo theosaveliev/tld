@@ -32,13 +32,13 @@ _Cougar\_Warning\_Flyer\_icon.png_
 
 _The following text is transcribed from **Cougar Warning Flyer**_
 
-**WILDERNESS SAFTEY GUIDE
+WILDERNESS SAFTEY GUIDE
 
 - You may hear a Cougar before your (sic) see it
 
 - Watch for fresh kills - a Cougar may be near
 
-- Leave its territory to reduce risk of attack**
+- Leave its territory to reduce risk of attack
 
 ![The Flyer before it is picked up.](../assets/Cougar_Warning_Flyer.jpg)
 

@@ -30,4 +30,4 @@ It appears to be related to [Escape the Darkwalker](./Escape%20the%20Darkwalker.
 
 _The following text is transcribed from **ID: Naomi Moore**_
 
-**Affiliate Researcher, Institute for New Awakenings.**
+Affiliate Researcher, Institute for New Awakenings.

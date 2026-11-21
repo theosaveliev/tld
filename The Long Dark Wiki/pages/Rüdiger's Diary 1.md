@@ -30,7 +30,7 @@ _Rüdiger's\_Diary\_1\_icon.png_
 
 _The following text is transcribed from **Rüdiger's Diary 1**_
 
-**Someone is stalking me.
+Someone is stalking me.
 
 Even now, huddled here with the rats and the filth, he is searching. The mole I had feared, or \[scratched out\]?
 
@@ -42,7 +42,7 @@ But it's also trapped me here, with no retreat from these frozen peaks. I \*need
 
 All I hold in my hands is a closed book.
 
-I must. Get. Higher.**
+I must. Get. Higher.
 
 ## Update history
 

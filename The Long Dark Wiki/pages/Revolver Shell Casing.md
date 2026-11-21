@@ -39,6 +39,11 @@ Revolver Shell Casings are an ingredient in the crafting of [Revolver Ammunition
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Fishing Lure (Revolver Shell Casing)"&gt;Fishing Lure (Revolver Shell Casing)&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; / - 1 × &lt;a href="Revolver Shell Casing"&gt;Revolver Shell Casing&lt;/a&gt; |
+| &lt;a href="Revolver Cartridge"&gt;Revolver Cartridge&lt;/a&gt; | None | - 1 × &lt;a href="Bullet"&gt;Bullet&lt;/a&gt; / - 1 × &lt;a href="Revolver Shell Casing"&gt;Revolver Shell Casing&lt;/a&gt; / - 0.01 kg × &lt;a href="Can of Gunpowder"&gt;Can of Gunpowder&lt;/a&gt; |
+
 ## Notes
 
 - The revolver casing is one of the first items (along with [bullet](./Bullet.md)) to have a weight of less than the minimum displayed weight in-game (0.005 kg vs 0.01 kg). Having one casing in the inventory will therefore appear to weigh 0.00 kg.

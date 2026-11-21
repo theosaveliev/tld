@@ -49,6 +49,18 @@ _Ptarmigan\_icon.png_
 >
 > — In-game description
 
+Item
+
+Skills
+
+Materials
+
+&lt;a href="Framed Hockey Jersey"&gt;Framed Hockey Jersey&lt;/a&gt;
+
+None
+
+- 2 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Hockey Jersey"&gt;Hockey Jersey&lt;/a&gt;
+
 ![Clothing model icon](../assets/Hockey_Jersey_Model_icon.png)
 
 _Clothing model icon_

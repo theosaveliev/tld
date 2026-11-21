@@ -34,7 +34,7 @@ _My\_Testament\_icon.png_
 
 _The following text is transcribed from **My Testament**_
 
-**In every man’s journey there is a moment of total clarity. When a blue sky or an empty road shows the way forward.
+In every man’s journey there is a moment of total clarity. When a blue sky or an empty road shows the way forward.
 
 I have had several moments like this during my life. But they always carried with them a spark of unpredictability. An energy I did not control.
 
@@ -52,7 +52,7 @@ It is only a matter of WHEN, and it is in uncovering the WHEN that I will define
 
 Once again.
 
-I have seen the new horizon.**
+I have seen the new horizon.
 
 ## Update history
 

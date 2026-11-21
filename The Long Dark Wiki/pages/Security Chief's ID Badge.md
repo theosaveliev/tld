@@ -32,7 +32,7 @@ Obtaining the ID Badge unlocks the Settled Mind and Celestial Navigator [Feats](
 
 _The following text is transcribed from **Security Chief's ID Badge**_
 
-**A piece of corporate identification. Scratched by use and faded by time.**
+A piece of corporate identification. Scratched by use and faded by time.
 
 ![Front and back of the card](../assets/OBJ_PictureIDSecurityChief.png)
 

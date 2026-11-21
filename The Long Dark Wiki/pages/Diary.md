@@ -36,7 +36,7 @@ _Diary\_icon.png_
 
 _The following text is transcribed from **Diary**_
 
-**\[last entry\]
+\[last entry\]
 
 Another sleepless night trying not to hear old Joseph snoring and Carol muttering in her sleep. I can't wait for all of this to be over so I can finally sleep in my bed. And read at night with a normal electric lamp. And crank the heating up to the max. Or even better, go for a weekend on the mainland. I'm so sick of this quarantine. It's scary to think we're on our own, cut off from the rest of the world.
 
@@ -44,7 +44,7 @@ I'll admit, at least it's mildly entertaining to try and decipher what Carol is 
 
 How can she even hear the waterfall from here? Now that I think of it, it's true that for a couple of nights, when it's really quiet outside, I have been noticing an unusual hum.  
  It's not just the sea. Though it sometimes does sound like waves.  
- Waves beneath the ice. Something deep, like it's barely there. I wonder what's up with that.**
+ Waves beneath the ice. Something deep, like it's barely there. I wonder what's up with that.
 
 ## Update history
 

@@ -34,7 +34,7 @@ _Faded\_Photograph\_icon.png_
 
 _The following text is transcribed from the note **Faded photograph**_
 
-**The locals call this the Enduring Waterfall. Wanted to capture the view from my usual spot.**
+The locals call this the Enduring Waterfall. Wanted to capture the view from my usual spot.
 
 ## Update history
 

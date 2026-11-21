@@ -32,7 +32,7 @@ _Cougar\_Warning\_Flyer\_icon.png_
 
 _The following text is transcribed from **Cougar Warning Flyer**_
 
-**WARNING
+WARNING
 
 COUGAR COUNTRY
 
@@ -40,7 +40,7 @@ COUGAR COUNTRY
 
 - Never approach Cougars
 
-- Hike in groups whenever possible**
+- Hike in groups whenever possible
 
 ![The Flyer before it is picked up.](../assets/Cougar_Warning_Flyer_2.jpg)
 

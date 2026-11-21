@@ -42,7 +42,7 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Pleasant Valley Collectible, Part One**_
 
-**This might be our one chance to survive out here, as a community again instead of individual homesteads. The mines aren't producing any more. Timber is plentiful and access is easy. We need those jobs!**
+This might be our one chance to survive out here, as a community again instead of individual homesteads. The mines aren't producing any more. Timber is plentiful and access is easy. We need those jobs!
 
 ## Update history
 

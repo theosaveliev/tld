@@ -42,7 +42,7 @@ During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) fi
 
 _The following text is transcribed from **Convict Note**_
 
-**Something out there huntin us. Didn't see em comin. Thought we lost the hacks down low by the road. Eyes open fellas or we'll never get outta here.**
+Something out there huntin us. Didn't see em comin. Thought we lost the hacks down low by the road. Eyes open fellas or we'll never get outta here.
 
 ## Update history
 

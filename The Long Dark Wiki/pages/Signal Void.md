@@ -56,8 +56,8 @@ Signal Void begins when the player finds a note located on the top floor of the 
 
 After reading and pocketing the note, the player will automatically receive a [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md), and a new section in the Journal menu (a flag submenu icon labeled Tales) will appear to keep track of the memo's objectives.
 
-** _SPOILER WARNING_  
- _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._ **
+_SPOILER WARNING_  
+ _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._
 
 ## Objectives
 

@@ -34,13 +34,13 @@ This note always appears beside the player in the region they first spawn in, ne
 
 _The following text is transcribed from **On the Nature of Darkwalkers**_
 
-**Glyphs of Power and their Uses:
+Glyphs of Power and their Uses:
 
 Lure -- Attract the Darkwalker  
  Ward -- A shield, if only for a little while.  
  Dispel -- Push back the choking fog. But only once.
 
-Darkwalkers spread fear and feed on oblivion - knowledge will help you defeat the entity for good.**
+Darkwalkers spread fear and feed on oblivion - knowledge will help you defeat the entity for good.
 
 ## Update history
 

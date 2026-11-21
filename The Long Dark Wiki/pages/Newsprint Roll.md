@@ -41,6 +41,10 @@ Like all other types of tinder, it does not increase the chance to successfully 
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Tinder Plug"&gt;Tinder Plug&lt;/a&gt; | None | - 1 × &lt;a href="Newsprint Roll"&gt;Newsprint Roll&lt;/a&gt; |
+
 ## Trivia
 
 - A single newsprint roll weighs 0.10kg. However, if you [harvest](./Harvesting.md) the item, you get 0.20kg of tinder plugs, doubling the weight. Harvesting should be delayed until tinder is required.

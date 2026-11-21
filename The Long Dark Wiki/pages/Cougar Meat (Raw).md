@@ -44,6 +44,18 @@ _Cougar\_Meat\_(Raw)\_icon.png_
 
 **Item key:** GAMEPLAY\_RawMeatCougar
 
+Item
+
+Skills
+
+Materials
+
+&lt;a href="Cougar Meat (Cooked)"&gt;Cougar Meat (Cooked)&lt;/a&gt;
+
+None
+
+- 1.00 kg × &lt;a href="Cougar Meat (Raw)"&gt;Cougar Meat (Raw)&lt;/a&gt;
+
 ![Fresh](../assets/Cougar_Meat_%28Raw%29_icon.png)
 
 _Fresh_

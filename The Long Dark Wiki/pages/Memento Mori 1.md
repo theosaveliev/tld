@@ -34,7 +34,7 @@ _Memento\_Mori\_1\_icon.png_
 
 _The following text is transcribed from **Memento Mori 1**_
 
-**I found the water. Like I promised. Where the rivers meet the sea. A bitter and empty place. You were right.**
+I found the water. Like I promised. Where the rivers meet the sea. A bitter and empty place. You were right.
 
 ## Update history
 

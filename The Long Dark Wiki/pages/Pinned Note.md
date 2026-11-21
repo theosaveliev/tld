@@ -36,7 +36,7 @@ _Pinned\_Note\_icon.png_
 
 _The following text is transcribed from **Pinned Note**_
 
-**Dear community,
+Dear community,
 
 The current events have prevented us from getting our usual deliveries. We have decided to ration whatever supplies we have left until we have more clarity on a date for deliveries to resume as normal.
 
@@ -48,7 +48,7 @@ If you have any surplus of homemade canned fruits and veggies, dry fish and meat
 
 The Co-Op team will put together food packages for members of our community most in need, and in particular families who have recently lost a loved one.
 
-Thank you for your help, patience, and resilience.**
+Thank you for your help, patience, and resilience.
 
 ## Update history
 

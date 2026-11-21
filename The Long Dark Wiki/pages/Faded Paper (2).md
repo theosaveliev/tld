@@ -36,7 +36,7 @@ _Faded\_Paper\_icon.png_
 
 _The following text is transcribed from **Faded Paper**_
 
-**Excavation Log  
+Excavation Log  
  Day 74
 
 The blasting crew had to stop work again today. It's slow progress, but they tell me the density of the rock is unlike anything they've seen before.
@@ -54,7 +54,7 @@ Their verdict seems to carry all the weight of this project.
 We will see.
 
 K.Rice  
- Project Manager**
+ Project Manager
 
 ## Update history
 

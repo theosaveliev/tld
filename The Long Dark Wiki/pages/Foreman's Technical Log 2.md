@@ -30,7 +30,7 @@ _Foreman's\_Technical\_Log\_2\_icon.png_
 
 _The following text is transcribed from **Foreman's Technical Log 2**_
 
-**\[lazy handwriting, with some passages scratched out...\]
+\[lazy handwriting, with some passages scratched out...\]
 
 Rüdiger’s here somewhere – the Chief’s logbook said as much. I’ll keep looking. There’s a settlement nearby I need to check out.
 
@@ -38,7 +38,7 @@ I’m gonna try and keep a record of all this, as long as I’m able. Photos, wh
 
 \*They\* will want to know.
 
-But I keep losing things, leaving them behind…can’t hold it together.**
+But I keep losing things, leaving them behind…can’t hold it together.
 
 ## Update history
 

@@ -36,7 +36,7 @@ During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) finds 
 
 _The following text is transcribed from **Milton Hidden Cache Note**_
 
-**Hey girl -- that grumpy jerk at Orca left the back door open so I snuck in and took some stuff. I thought we might need it for when we get out of here. I can't wait to get over to the mainland with you, where we can finally be together "for real". I'll meet you there tomorrow night like we planned. I stashed the stuff near that big fallen tree in the marshy area behind St. Christopher's. You know, where we met that one time and drank your dad's contraband.**
+Hey girl -- that grumpy jerk at Orca left the back door open so I snuck in and took some stuff. I thought we might need it for when we get out of here. I can't wait to get over to the mainland with you, where we can finally be together "for real". I'll meet you there tomorrow night like we planned. I stashed the stuff near that big fallen tree in the marshy area behind St. Christopher's. You know, where we met that one time and drank your dad's contraband.
 
 ## Update history
 

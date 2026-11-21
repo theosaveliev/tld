@@ -36,9 +36,9 @@ _Piece\_Of\_Paper\_icon.png_
 
 _The following text is transcribed from **Piece Of Paper**_
 
-**Do not untie them
+Do not untie them
 
-Leave Tied**
+Leave Tied
 
 ## Update history
 

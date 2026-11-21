@@ -34,11 +34,11 @@ _Stained\_Paper\_icon.png_
 
 _The following text is transcribed from **Stained Paper**_
 
-**\[...ineligible...\]to say for certain what security will be like out here. Told the boss a single exit point at the current air strip would never satisfy our usual standard for evac. Nowhere else in the world would we set him up for a risk like this. But his eyes are open. And so are mine.  
+\[...ineligible...\]to say for certain what security will be like out here. Told the boss a single exit point at the current air strip would never satisfy our usual standard for evac. Nowhere else in the world would we set him up for a risk like this. But his eyes are open. And so are mine.  
    
  The build has the green light.  
    
- 25.9.82.**
+ 25.9.82.
 
 ## Update history
 

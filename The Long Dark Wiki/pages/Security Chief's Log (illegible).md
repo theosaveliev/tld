@@ -34,13 +34,13 @@ _Security\_Chief's\_Log\_(illegible)\_icon.png_
 
 _The following text is transcribed from **Security Chief's Log \[illegible\]**_
 
-**I wanted to see you again. I wanted to feel your hand on my hip, your smile in my eyes.
+I wanted to see you again. I wanted to feel your hand on my hip, your smile in my eyes.
 
 I can’t picture what this thing is without that. Or you.
 
 Everything is fading away here. I can’t remember.
 
-The only thing I know is if I write it down it might get to you. Some way.**
+The only thing I know is if I write it down it might get to you. Some way.
 
 ## Update history
 

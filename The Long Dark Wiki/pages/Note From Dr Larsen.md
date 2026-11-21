@@ -36,10 +36,10 @@ _Note\_From\_Dr\_Larsen\_icon.png_
 
 _The following text is transcribed from **Note From Dr Larsen**_
 
-**KEEP LOCKED. See Dr. Larsen or Constable Pete for access.
+KEEP LOCKED. See Dr. Larsen or Constable Pete for access.
 
 \[in different handwriting...\]  
- (Keep the windows open.)**
+ (Keep the windows open.)
 
 ## Update history
 

@@ -34,13 +34,13 @@ _Security\_Chief's\_Log\_14\_icon.png_
 
 _The following text is transcribed from **Security Chief's Log 14**_
 
-**The mine is a real shithole. If my job is to shepherd the men, then their job is to keep the roof from landing on all of us. But this week we found a decent chamber to start building Rüdiger's gadget.
+The mine is a real shithole. If my job is to shepherd the men, then their job is to keep the roof from landing on all of us. But this week we found a decent chamber to start building Rüdiger's gadget.
 
 Teams 1 and 2 are with the program, but on shaky ground. Team 3 is getting volatile again. While it’s unclear what they have planned, I’ve called for additional security to fly in immediately. The Medical Officer has been conducting alignment interviews and has made some troubling observations.
 
 I’m still considering the implications, both for the men as well as project viability. My hope is the crew can keep their shit together long enough to finish phase one, and we can get out of this godforsaken place.
 
-It's starting to get to me.**
+It's starting to get to me.
 
 ## Update history
 

@@ -44,6 +44,10 @@ Stones can also be used to lower the morale of an attacking [Timberwolf](./Timbe
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Rock Cache"&gt;Rock Cache&lt;/a&gt; | None | - 50 × &lt;a href="Stone"&gt;Stone&lt;/a&gt; |
+
 ## Hunting
 
 Rabbits and Ptarmigans are stunned by a direct hit with a stone, which requires some practice with sneaking near enough to the small animals and aiming roughly in the center of the thumb and forefinger "reticule." If the player picks up the animal within a few seconds, the game gives you the option to kill or release it, otherwise it will recover from its stunned state and flee the area.

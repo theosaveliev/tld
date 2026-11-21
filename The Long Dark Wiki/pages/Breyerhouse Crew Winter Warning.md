@@ -36,7 +36,7 @@ _Breyerhouse\_Crew\_Winter\_Warning\_icon.png_
 
 _The following text is transcribed from **Breyerhouse Crew Winter Warning**_
 
-**To; Breyerhouse Winter Teams
+To; Breyerhouse Winter Teams
 
 Re: Carter Dam Reminder
 
@@ -44,7 +44,7 @@ We know some of you like to hang out in the Dam during your breaks and off-hours
 
 If you need another reason, our insurance won't kick in if you hurt yourself in there. You'll be on your own.
 
-- Crew 17 Foreman**
+- Crew 17 Foreman
 
 ## Update history
 

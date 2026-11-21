@@ -36,11 +36,11 @@ _Office\_Memo\_icon.png_
 
 _The following text is transcribed from **Office Memo**_
 
-**We found more contraband noisemakers on the last sweep. Well-made, all things considered.
+We found more contraband noisemakers on the last sweep. Well-made, all things considered.
 
 And with all the wolves moving into the region, maybe we can put them to good use. I bet they're damn loud, so don't go light them off unless you mean it!
 
--- K.**
+-- K.
 
 ## Update history
 

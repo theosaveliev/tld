@@ -60,6 +60,25 @@ Scrap metal can be obtained by harvesting various pieces of furniture in-game by
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Arrowhead"&gt;Arrowhead&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
+| &lt;a href="Cougar Claw Knife"&gt;Cougar Claw Knife&lt;/a&gt; | None | - 1 × &lt;a href="Cougar Claw"&gt;Cougar Claw&lt;/a&gt; / - 3 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Cured Leather"&gt;Cured Leather&lt;/a&gt; |
+| &lt;a href="Fishing Lure (Acorns)"&gt;Fishing Lure (Acorns)&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; / - 1 × &lt;a href="Acorns"&gt;Acorns&lt;/a&gt; |
+| &lt;a href="Fishing Lure (Revolver Shell Casing)"&gt;Fishing Lure (Revolver Shell Casing)&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; / - 1 × &lt;a href="Revolver Shell Casing"&gt;Revolver Shell Casing&lt;/a&gt; |
+| &lt;a href="Fishing Lure (Wire Bundle)"&gt;Fishing Lure (Wire Bundle)&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Crow Feather"&gt;Crow Feather&lt;/a&gt; / - 1 × &lt;a href="Wires"&gt;Wires&lt;/a&gt; |
+| &lt;a href="Fishing Tip-Up"&gt;Fishing Tip-Up&lt;/a&gt; | None | - 2 × &lt;a href="Stick"&gt;Stick&lt;/a&gt; / - 1 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Fishing Tackle"&gt;Fishing Tackle&lt;/a&gt; |
+| &lt;a href="Framed Hockey Jersey"&gt;Framed Hockey Jersey&lt;/a&gt; | None | - 2 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Hockey Jersey"&gt;Hockey Jersey&lt;/a&gt; |
+| &lt;a href="Hook"&gt;Hook&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
+| &lt;a href="Improvised Crampons"&gt;Improvised Crampons&lt;/a&gt; | None | - 4 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 2 × &lt;a href="Cured Leather"&gt;Cured Leather&lt;/a&gt; |
+| &lt;a href="Improvised Hatchet"&gt;Improvised Hatchet&lt;/a&gt; | None | - 5 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; |
+| &lt;a href="Improvised Knife"&gt;Improvised Knife&lt;/a&gt; | None | - 3 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; / - 1 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; |
+| &lt;a href="Rustic Closet"&gt;Rustic Closet&lt;/a&gt; | None | - 18 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 3 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; / - 2 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
+| &lt;a href="Rustic Cupboard"&gt;Rustic Cupboard&lt;/a&gt; | None | - 10 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; / - 2 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
+| &lt;a href="Simple Fishing Lure"&gt;Simple Fishing Lure&lt;/a&gt; | None | - 1 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
+| &lt;a href="Spear Head"&gt;Spear Head&lt;/a&gt; | None | - 2 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
+| &lt;a href="Tall Rustic Closet"&gt;Tall Rustic Closet&lt;/a&gt; | None | - 24 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; / - 2 × &lt;a href="Scrap Metal"&gt;Scrap Metal&lt;/a&gt; |
+
 ## Gallery
 
 ![Old model.](../assets/Scrap_metal.png)

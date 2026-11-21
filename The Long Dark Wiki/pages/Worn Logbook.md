@@ -38,7 +38,7 @@ The note is narrated by the Captain.
 
 _The following text is transcribed from **Worn Logbook**_
 
-**They had jury-rigged some diesel contraption that kept the screw turning, but barely. Crazy, but smart as hell these guys. At least what's left of them after their old captain wandered overboard. And we keep coming across small boats with some survivors. They all have the same story. The lights showed up and their ships went dark. No power.
+They had jury-rigged some diesel contraption that kept the screw turning, but barely. Crazy, but smart as hell these guys. At least what's left of them after their old captain wandered overboard. And we keep coming across small boats with some survivors. They all have the same story. The lights showed up and their ships went dark. No power.
 
 A few speak English, but they can't seem to tell me what the hell happened after the lights showed up. As much as I'm grateful they found me, they dropped me into a big mess by electing me captain. But I know these waters and based on how badly the crew is holding up I wouldn't trust them to find a port anyway.
 
@@ -46,7 +46,7 @@ Guys tied to their bunks, men throwing themselves into the sea, never seen or he
 
 They keep jabbering about the "call of the lights" and a "burning fire." It's for sure a damn strong aurora some nights but I don't see what's so mystical about it all.
 
-But we have enough food for now, calm seas, and a good course for landfall soon.**
+But we have enough food for now, calm seas, and a good course for landfall soon.
 
 ## Update history
 

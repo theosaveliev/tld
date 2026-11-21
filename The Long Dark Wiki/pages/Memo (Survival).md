@@ -34,7 +34,7 @@ _Memo\_(Survival)\_icon.png_
 
 _The following text is transcribed from **Memo**_
 
-**Welcome Associate!  
+Welcome Associate!  
    
  Here at Field 31 we take pride in being a pilot's best resource in the wilderness. From refueling to resupplying to a hot cup of coffee, our goal is to be a welcome waystation to all visitors.  
    
@@ -44,7 +44,7 @@ _The following text is transcribed from **Memo**_
    
  We hope you find your work at our little outpost rewarding!  
    
- --Dayshift supervisor**
+ --Dayshift supervisor
 
 ## Update history
 

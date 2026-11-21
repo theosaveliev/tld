@@ -34,12 +34,12 @@ _Wyatt's\_Lost\_Papers\_1\_icon.png_
 
 _The following text is transcribed from **Wyatt's Lost Papers 2**_
 
-**I feel more or less resigned to it now, the deadline of the whole damn human idea. At least out here, surrounded by all this cold water, all this wilderness, we'll be able to see the end coming. On the Mainland, too many distractions. Too many fake people. People with their hands out. But there are some like that on the island, too.
+I feel more or less resigned to it now, the deadline of the whole damn human idea. At least out here, surrounded by all this cold water, all this wilderness, we'll be able to see the end coming. On the Mainland, too many distractions. Too many fake people. People with their hands out. But there are some like that on the island, too.
 
 We've kept things pretty quiet, but I know there is someone, or some people, trying to foul up my plans for this cache network on the island
 
 Our little group should be fine though. As long as we stick to the plan. Stick together.
 
-- Wyatt**
+- Wyatt
 
 ## Game history

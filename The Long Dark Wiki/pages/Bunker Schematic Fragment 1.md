@@ -34,12 +34,12 @@ _Bunker\_Schematic\_Fragment\_1\_icon.png_
 
 _The following text is transcribed from **Bunker Schematic Fragment 1**_
 
-**\[faded handwriting in the margins of a technical drawing\]
+\[faded handwriting in the margins of a technical drawing\]
 
 ...means of protection, really. We already know there are people tracking our project. and when the time comes, they're going to want in. They'll call it "requesting shelter," or some other nonsense. Appealing to our pity.
 
 But we didn't build these for them, we built them for us. And we sure as hell didn't build them for people like Wyatt's asshole brother.
 
-After a little more refinement we can make it a fully mechanical loop, no power needed. With some more insulation to guarantee we can...**
+After a little more refinement we can make it a fully mechanical loop, no power needed. With some more insulation to guarantee we can...
 
 ## Game history

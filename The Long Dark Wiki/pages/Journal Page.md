@@ -34,7 +34,7 @@ _Journal\_Page\_icon.png_
 
 _The following text is transcribed from **Journal Page**_
 
-**I'll keep writing as long as my hands hold up. The old road can't all be broken. I didn't fly in here and there's no way they can make me fly out. No matter what the hell they say is going on.**
+I'll keep writing as long as my hands hold up. The old road can't all be broken. I didn't fly in here and there's no way they can make me fly out. No matter what the hell they say is going on.
 
 ## Update history
 

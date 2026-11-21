@@ -83,6 +83,10 @@ Some observed spawn points include:
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Can of Gunpowder"&gt;Can of Gunpowder&lt;/a&gt; | None | - 1 × &lt;a href="Stump Remover"&gt;Stump Remover&lt;/a&gt; / - 1 × &lt;a href="Dusting Sulfur"&gt;Dusting Sulfur&lt;/a&gt; / - 2 × &lt;a href="Charcoal"&gt;Charcoal&lt;/a&gt; |
+
 ## Trivia
 
 - Dusting Sulfur is branded as the product "Grow Well", with dusting sulfur as an active ingredient. It is likely meant to be an insecticide/fungicide/Disease repellant used in gardens and landscaping.

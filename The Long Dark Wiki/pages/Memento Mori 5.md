@@ -34,7 +34,7 @@ _Memento\_Mori\_5\_icon.png_
 
 _The following text is transcribed from **Memento Mori 5**_
 
-**The world falling away. Did you know already, somehow? Before you left us? The lights, they used to go on.**
+The world falling away. Did you know already, somehow? Before you left us? The lights, they used to go on.
 
 ## Update history
 

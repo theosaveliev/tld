@@ -78,6 +78,10 @@ Cooked Acorns, while not a calorically dense food, having just over half the cal
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; | None | - 4 × &lt;a href="Acorns (Cooked)"&gt;Acorns (Cooked)&lt;/a&gt; |
+
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

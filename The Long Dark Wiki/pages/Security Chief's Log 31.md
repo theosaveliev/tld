@@ -34,7 +34,7 @@ _Security\_Chief's\_Log\_31\_icon.png_
 
 _The following text is transcribed from **Security Chief's Log 31**_
 
-**If this message has reached you, it means they made it out, and to the Mainland.
+If this message has reached you, it means they made it out, and to the Mainland.
 
 What a mess, old friend. I sent them your way after we managed to get a chopper flight-worthy.
 
@@ -44,7 +44,7 @@ It's gone bad over here, and strange beyond everything. But it's on me now. And 
 
 Take care, and keep an eye on the horizon. You never know.
 
--- Vertasky**
+-- Vertasky
 
 ## Update history
 

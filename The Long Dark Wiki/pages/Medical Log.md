@@ -38,14 +38,14 @@ The log is narrated by the Medical Officer.
 
 _The following text is transcribed from **Medical Log**_
 
-**\[Date scratched out\]  
+\[Date scratched out\]  
  Crew issues are escalating. Personality disorders. ongoing insomnia, bizarres (sic) lapses in judgement.
 
 The new Captain has tasked me with resolving the situation, but none of my interventions have had any effect, medically. Only strong sedation has kept some of the crew from self-harm and emotional breakdowns.
 
 Talking and writing has seen some benefit, if only for camaraderie. But I'm no psychologist. Their sense of self, of their relationship to time and identity...all dissolving.
 
-The Captain seems intent on keeping any estimate of rescue or landfall to himself. And without more help, I don't see a peaceful end to what's taking place among us. All that's left is doubt, and the face I present to the men.**
+The Captain seems intent on keeping any estimate of rescue or landfall to himself. And without more help, I don't see a peaceful end to what's taking place among us. All that's left is doubt, and the face I present to the men.
 
 ## Update history
 

@@ -38,13 +38,13 @@ This note has two possible transcripts. If the player takes the ammo from the pa
 
 _The following text is transcribed from **Forest Talker Note**_
 
-**"While I appreciate what you've done to help me, stealing ammo may be my death sentence out here. I have a long way to go and with hungry wolves and angry people out there, I have no idea how far I'll get. I hope you can sleep at night. Remember: As You Sow, So Shall You Reap."**
+"While I appreciate what you've done to help me, stealing ammo may be my death sentence out here. I have a long way to go and with hungry wolves and angry people out there, I have no idea how far I'll get. I hope you can sleep at night. Remember: As You Sow, So Shall You Reap."
 
 If the player leaves the ammo inside the backpack, this note will be left behind on the desk for Mackenzie, along with a pair of [Deerskin Pants](./Deerskin%20Pants.md):
 
 _The following text is transcribed from **Forest Talker Note**_
 
-**Thank you for helping me, not everyone would have done that. I left this item for you, it belonged to my friend, hopefully you'll be able to make use of it? Maybe our paths will cross again.**
+Thank you for helping me, not everyone would have done that. I left this item for you, it belonged to my friend, hopefully you'll be able to make use of it? Maybe our paths will cross again.
 
 ## Update history
 

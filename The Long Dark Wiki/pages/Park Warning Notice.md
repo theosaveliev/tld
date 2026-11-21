@@ -34,7 +34,7 @@ _Park\_Warning\_Notice\_icon.png_
 
 _The following text is transcribed from **Park Warning Notice**_
 
-**Due to the unfortunate accident, the Milton &amp; Area Parks Board can no longer condone the use of the climbing area within the park boundaries. Additionally, recent seismic activity has brought the safety of several some (sic) common routes and climbing sections into question. We are reviewing safety policies and will publish findings as soon as possible. Until then, please refrain from using designated climbing areas in the Park. - Signed, M. Antonides, Milton &amp; Area parks Board.**
+Due to the unfortunate accident, the Milton &amp; Area Parks Board can no longer condone the use of the climbing area within the park boundaries. Additionally, recent seismic activity has brought the safety of several some (sic) common routes and climbing sections into question. We are reviewing safety policies and will publish findings as soon as possible. Until then, please refrain from using designated climbing areas in the Park. - Signed, M. Antonides, Milton &amp; Area parks Board.
 
 ## Update history
 

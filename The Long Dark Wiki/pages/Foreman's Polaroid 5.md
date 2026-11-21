@@ -30,7 +30,7 @@ _Foreman's\_Polaroid\_5\_icon.png_
 
 _The following text is transcribed from **Foreman's Polaroid 5**_
 
-**Beyond the settlement, past the lake, though (sic) the gully and up the short climb. This is his high path.**
+Beyond the settlement, past the lake, though (sic) the gully and up the short climb. This is his high path.
 
 ## Update history
 

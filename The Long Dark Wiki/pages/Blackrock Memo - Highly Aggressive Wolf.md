@@ -36,7 +36,7 @@ _Blackrock\_Memo\_-\_Highly\_Aggressive\_Wolf\_icon.png_
 
 _The following text is transcribed from **Blackrock Memo - Highly Aggressive Wolf**_
 
-**ATTN: Officers and Staff
+ATTN: Officers and Staff
 
 To make a tough winter even tougher, we have got some new reports of that unusual wolf we dealt with last year. It's back, apparently. We had hoped its roaming had taken it far afield and away from the grounds, but these sightings, and its aggressive behaviour, are conclusive.
 
@@ -46,7 +46,7 @@ In the meantime, stay vigilant when outside the grounds or away from your vehicl
 
 D. Gordon
 
-Blue Shift Supervisor**
+Blue Shift Supervisor
 
 ## Update history
 

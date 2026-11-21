@@ -36,9 +36,9 @@ _Crumpled\_Note\_icon.png_
 
 _The following text is transcribed from **Crumpled Note**_
 
-**The penmanship on this note suggests the author was in a hurry.
+The penmanship on this note suggests the author was in a hurry.
 
-"I left it in the cave. Head back out from the dam. Follow the river. Look for a cave near a clearing with a hunter's blind."**
+"I left it in the cave. Head back out from the dam. Follow the river. Look for a cave near a clearing with a hunter's blind."
 
 ## Update history
 

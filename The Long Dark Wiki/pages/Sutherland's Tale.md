@@ -68,8 +68,8 @@ _Ptarmigan\_icon.png_
 
 **Sutherland's Tale** is the fourth and final [Tale](./Tales.md) released for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon in [Survival Mode](./Survival%20Mode.md). Completing this Tale is not needed to unlock the [Rüdiger's Dream](./R%C3%BCdiger%27s%20Dream.md) Achievement.
 
-** _SPOILER WARNING_  
- _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._ **
+_SPOILER WARNING_  
+ _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._
 
 ## Objectives
 

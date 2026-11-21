@@ -36,7 +36,7 @@ _Crumpled\_Note\_(2)\_icon.png_
 
 _The following text is transcribed from **Crumpled Note**_
 
-**...months without pay. Making us deal with those forest crazies. Now they're sending me after them? I've had it. After this trip, I'm done. No matter what. If you're coming to help, meet me on the far side of Mystery Lake, near the summer cabins. We'll start there. Either we...**
+...months without pay. Making us deal with those forest crazies. Now they're sending me after them? I've had it. After this trip, I'm done. No matter what. If you're coming to help, meet me on the far side of Mystery Lake, near the summer cabins. We'll start there. Either we...
 
 ## Update history
 

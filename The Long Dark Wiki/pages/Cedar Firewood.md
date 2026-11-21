@@ -73,6 +73,25 @@ Cedar Firewood can be harvested from downed Cedar Limbs found outdoors with a [t
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Carved Bear Figurine"&gt;Carved Bear Figurine&lt;/a&gt; | None | - 1 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; |
+| &lt;a href="Carved Cougar Figurine"&gt;Carved Cougar Figurine&lt;/a&gt; | None | - 1 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; |
+| &lt;a href="Carved Wolf Figurine"&gt;Carved Wolf Figurine&lt;/a&gt; | None | - 1 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; |
+| &lt;a href="Decorative Art"&gt;Decorative Art&lt;/a&gt; | None | - 2 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 1 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Decorative Art (2)"&gt;Decorative Art (2)&lt;/a&gt; | None | - 2 × &lt;a href="Fir Firewood"&gt;Fir Firewood&lt;/a&gt; / - 1 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 1 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Decorative End Table"&gt;Decorative End Table&lt;/a&gt; | None | - 6 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; |
+| &lt;a href="Dresser"&gt;Dresser&lt;/a&gt; | None | - 10 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 4 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Furniture Workbench"&gt;Furniture Workbench&lt;/a&gt; | None | - 10 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; |
+| &lt;a href="Rustic Bed"&gt;Rustic Bed&lt;/a&gt; | None | - 10 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 12 × &lt;a href="Cloth"&gt;Cloth&lt;/a&gt; / - 2 × &lt;a href="Cured Gut"&gt;Cured Gut&lt;/a&gt; |
+| &lt;a href="Rustic Bench"&gt;Rustic Bench&lt;/a&gt; | None | - 10 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 2 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Rustic Chair"&gt;Rustic Chair&lt;/a&gt; | None | - 4 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 2 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Rustic End Table"&gt;Rustic End Table&lt;/a&gt; | None | - 6 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 2 × &lt;a href="Reclaimed Wood"&gt;Reclaimed Wood&lt;/a&gt; |
+| &lt;a href="Rustic Shelf"&gt;Rustic Shelf&lt;/a&gt; | None | - 8 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; |
+| &lt;a href="Rustic Storage Box"&gt;Rustic Storage Box&lt;/a&gt; | None | - 8 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; |
+| &lt;a href="Tall Rustic Shelf"&gt;Tall Rustic Shelf&lt;/a&gt; | None | - 10 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; |
+| &lt;a href="Workbench"&gt;Workbench&lt;/a&gt; | None | - 15 × &lt;a href="Cedar Firewood"&gt;Cedar Firewood&lt;/a&gt; / - 1 × &lt;a href="Workbench Vice"&gt;Workbench Vice&lt;/a&gt; |
+
 ## Update history
 
 - UPDATE **31 July 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#.073)):**

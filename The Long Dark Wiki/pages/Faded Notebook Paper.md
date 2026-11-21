@@ -32,10 +32,10 @@ _Faded\_Notebook\_Paper\_icon.png_
 
 _The following text is transcribed from **Faded Notebook Paper**_
 
-**All I see are wolves. Not sure what happened.
+All I see are wolves. Not sure what happened.
 
 I don't like it, but if this keeps up I'll do what I gotta do, like always.
 
-Wolves do the same, anyways. Got to keep movin'. Can't get backed into a corner again.**
+Wolves do the same, anyways. Got to keep movin'. Can't get backed into a corner again.
 
 ## Update history

@@ -36,9 +36,9 @@ _Handwritten\_Note\_icon.png_
 
 _The following text is transcribed from **Handwritten Note**_
 
-**The penmanship on this scrap paper seems out of place in this wilderness.
+The penmanship on this scrap paper seems out of place in this wilderness.
 
-"I never really expected to be back here. Nor truly expected that you would be here either. But I had hoped. If you find this, know that I left something for you. Hidden away from those who simply take what they will."**
+"I never really expected to be back here. Nor truly expected that you would be here either. But I had hoped. If you find this, know that I left something for you. Hidden away from those who simply take what they will."
 
 ## Update history
 

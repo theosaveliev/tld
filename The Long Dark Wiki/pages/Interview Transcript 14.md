@@ -34,7 +34,7 @@ _Interview\_Transcript\_14\_icon.png_
 
 _The following text is transcribed from **Interview Transcript 14**_
 
-**Q: Session 14, Project Medical Officer interviewing Patient 7.
+Q: Session 14, Project Medical Officer interviewing Patient 7.
 
 Return to the first instance. What did you see?
 
@@ -48,7 +48,7 @@ Wha...what do you think when you’re that little? Always wondered why it was th
 
 Q: Focus on the ending, the final frame.
 
-A: They lost me...just a little kid.**
+A: They lost me...just a little kid.
 
 ## Update history
 

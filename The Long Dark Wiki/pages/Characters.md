@@ -61,8 +61,8 @@
 
 **Images Needed:****This article is in need of more images and/or higher quality images. You can help by uploading an image and \[//dummy.host/index.php?title=Characters&amp;action=edit adding it to the article\].**
 
-** _SPOILER WARNING_  
- _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._ **
+_SPOILER WARNING_  
+ _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._
 
 [Great Bear Island](./Great%20Bear%20Island.md) contains many residents that once thrived in the various regions and towns across the Island before and after the [First Flare](./First%20Flare.md). Many are found and interacted with in [Wintermute](./Wintermute.md). [Survival Mode](./Survival%20Mode.md) also contains its own references to many of the Island's inhabitants, but many characters and locations found within Wintermute have been changed, suggesting an alternate timeline of events takes place in Survival Mode.
 

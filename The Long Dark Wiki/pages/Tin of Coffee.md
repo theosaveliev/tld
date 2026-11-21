@@ -71,6 +71,10 @@ Coffee is a renewable resource since the introduction of the [Trader](./Trader.m
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Cup of Coffee"&gt;Cup of Coffee&lt;/a&gt; | None | - 1 × &lt;a href="Tin of Coffee"&gt;Tin of Coffee&lt;/a&gt; / - 0.25 × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; |
+
 ## Update history
 
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**

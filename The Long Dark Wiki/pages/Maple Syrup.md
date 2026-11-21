@@ -54,6 +54,13 @@ Maple Syrup can never cause [Food Poisoning](./Food%20Poisoning.md) above 20% co
 
 ## Products
 
+| Item | Skills | Materials |
+| --- | --- | --- |
+| &lt;a href="Acorn Pancakes"&gt;Acorn Pancakes&lt;/a&gt; | None | - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 0.05 Kg × &lt;a href="Maple Syrup"&gt;Maple Syrup&lt;/a&gt; / - 0.10 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; |
+| &lt;a href="Camber Flight Porridge"&gt;Camber Flight Porridge&lt;/a&gt; | None | - 0.05 kg × &lt;a href="Maple Syrup"&gt;Maple Syrup&lt;/a&gt; / - 4 × &lt;a href="Rose Hip"&gt;Rose Hip&lt;/a&gt; / - 0.50 kg × &lt;a href="Pinnacle Peaches"&gt;Pinnacle Peaches&lt;/a&gt; / - 0.20 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.10 kg × &lt;a href="Running River Oats"&gt;Running River Oats&lt;/a&gt; |
+| &lt;a href="Lily's Pancakes"&gt;Lily's Pancakes&lt;/a&gt; | None | - 1 × &lt;a href="Acorn Grounds"&gt;Acorn Grounds&lt;/a&gt; / - 0.05 kg × &lt;a href="Maple Syrup"&gt;Maple Syrup&lt;/a&gt; / - 0.50 kg × &lt;a href="Pinnacle Peaches"&gt;Pinnacle Peaches&lt;/a&gt; / - 0.10 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; |
+| &lt;a href="Pancakes"&gt;Pancakes&lt;/a&gt; | None | - 0.05 kg × &lt;a href="Maple Syrup"&gt;Maple Syrup&lt;/a&gt; / - 0.15 L × &lt;a href="Water (Potable)"&gt;Water (Potable)&lt;/a&gt; / - 0.05 L × &lt;a href="Cooking Oil"&gt;Cooking Oil&lt;/a&gt; / - 0.12 kg × &lt;a href="Old Mill Flour"&gt;Old Mill Flour&lt;/a&gt; |
+
 ## Fixed Spawns
 
 These are places where the syrup may be placed directly in the world, not a container.

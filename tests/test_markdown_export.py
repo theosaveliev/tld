@@ -157,6 +157,14 @@ def test_iter_dump_pages_extracts_page_text_and_redirects(tmp_path: Path) -> Non
     <title>Bear alias</title><ns>0</ns><redirect title="Bear" />
     <revision><text>#REDIRECT [[Bear]]</text></revision>
   </page>
+  <page>
+    <title>Bear behavior</title><ns>0</ns>
+    <revision>
+      <slots><slot role="main">
+        <model>wikitext</model><text>Slot article body</text>
+      </slot></slots>
+    </revision>
+  </page>
 </mediawiki>
 """,
         encoding="utf-8",
@@ -167,6 +175,7 @@ def test_iter_dump_pages_extracts_page_text_and_redirects(tmp_path: Path) -> Non
     assert pages == [
         DumpPage("Bear", 0, "wikitext", "Bear article", None),
         DumpPage("Bear alias", 0, "wikitext", "#REDIRECT [[Bear]]", "Bear"),
+        DumpPage("Bear behavior", 0, "wikitext", "Slot article body", None),
     ]
 
 

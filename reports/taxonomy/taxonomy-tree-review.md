@@ -1647,18 +1647,13 @@
 
 ### Photographs & Polaroids
 
-#### Vista Polaroids
-
-- [Polaroids](https://thelongdark.fandom.com/wiki/Polaroids)
-
-#### Tales Polaroids
-
 - [Faded Photograph](https://thelongdark.fandom.com/wiki/Faded_Photograph)
 - [Foreman's Polaroid 1](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_1)
 - [Foreman's Polaroid 2](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_2)
 - [Foreman's Polaroid 3](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_3)
 - [Foreman's Polaroid 4](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_4)
 - [Foreman's Polaroid 5](https://thelongdark.fandom.com/wiki/Foreman's_Polaroid_5)
+- [Polaroids](https://thelongdark.fandom.com/wiki/Polaroids)
 
 ### Maps & Charts
 

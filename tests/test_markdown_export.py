@@ -1,5 +1,6 @@
+from __future__ import annotations
+
 import json
-from collections.abc import Mapping
 from typing import TYPE_CHECKING
 
 import pytest
@@ -22,6 +23,7 @@ from pipeline.markdown_export import (
 )
 
 if TYPE_CHECKING:
+    from collections.abc import Mapping
     from pathlib import Path
 
 

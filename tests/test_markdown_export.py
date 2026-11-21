@@ -199,9 +199,9 @@ def test_rewrite_html_links_resolves_articles_and_reports_missing_pages(
     missing_links: set[str] = set()
     missing_images: set[str] = set()
     html_fragment = (
-        '<p><a href="Bear">Bear</a>'
-        '<a href="Missing page">Missing page</a>'
-        '<a href="https://example.com">External</a></p>'
+        "<p><a href='Bear'>Bear</a>"
+        + "<a href='Missing page'>Missing page</a>"
+        + "<a href='https://example.com'>External</a></p>"
     )
 
     rewritten = _rewrite_html_links(
@@ -235,13 +235,11 @@ def test_html_rewriter_restores_infoboxes_thumbnails_and_section_ids(
     asset_dir = tmp_path / "workspace" / "assets"
     missing_links: set[str] = set()
     missing_images: set[str] = set()
-    fragment = (
-        '<table><caption>XSENT:infobox:Wolf</caption>'
-        '<tr><td>Habitat</td><td>Forest</td></tr></table>'
-        '<figure><img src="File:Bear.png" alt="XTHUMB A bear" /></figure>'
-        '<h2>Section One</h2><h2>Section Two</h2>'
-        '<h2>Section Three</h2><h2>Section Four</h2>'
-    )
+    fragment = """<table><caption>XSENT:infobox:Wolf</caption>
+<tr><td>Habitat</td><td>Forest</td></tr></table>
+<figure><img src="File:Bear.png" alt="XTHUMB A bear" /></figure>
+<h2>Section One</h2><h2>Section Two</h2>
+<h2>Section Three</h2><h2>Section Four</h2>"""
 
     rewritten = _rewrite_html_links(
         fragment,

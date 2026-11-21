@@ -361,6 +361,13 @@ def test_html_fragment_to_markdown_handles_custom_tags() -> None:
     assert "<!--" not in markdown
 
 
+def test_html_markup_detection_preserves_markdown_url_autolinks() -> None:
+    assert not markdown_export_module.HTML_TAG_RE.search("<https://example.com>")
+    assert markdown_export_module.HTML_TAG_RE.search(
+        "<mw:widget>visible</mw:widget>"
+    )
+
+
 def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
     fragment = (
         '<nav><a href="#Section_One">Section One</a></nav>'

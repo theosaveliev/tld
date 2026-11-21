@@ -424,6 +424,96 @@ def test_convert_html_gallery_to_standalone_markdown_images(
     assert "<table" not in markdown
 
 
+def test_background_styled_transcript_div_is_not_rendered_as_bold() -> None:
+    fragment = """<div style="background: #2D3035; padding: 2em;">
+Find me at the mine. East and up the hill, looking up at the mountain. I got a lead on this door.
+<br/><br/>
+-- M (Who is M?)
+</div>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "Find me at the mine." in markdown
+    assert "-- M (Who is M?)" in markdown
+    assert "**Find me at the mine." not in markdown
+    assert "**-- M" not in markdown
+
+
+def test_material_usage_index_reads_recipe_infoboxes() -> None:
+    pages = [
+        DumpPage(
+            "Meat Curing Box",
+            0,
+            "wikitext",
+            """{{Infobox recipe
+|name = Meat Curing Box
+|mat1 = Fir Firewood
+|mat1qty = 10
+|mat2 = Salt
+|mat2qty = 8.00 kg
+}}""",
+            None,
+        ),
+        DumpPage(
+            "Coffee Table",
+            0,
+            "wikitext",
+            """{{Infobox recipe|name=Coffee Table|mat1=Fir Firewood|mat1qty=6}}""",
+            None,
+        ),
+    ]
+
+    usage = markdown_export_module._build_material_usage_index(pages)
+
+    assert len(usage["fir firewood"]) == 2
+    assert usage["fir firewood"][0][0] == "Coffee Table"
+    assert usage["fir firewood"][1][2] == [
+        ("10", "Fir Firewood"),
+        ("8.00 kg", "Salt"),
+    ]
+
+
+def test_uses_material_list_template_is_replaced_with_recipe_table() -> None:
+    pages = [
+        DumpPage(
+            "Meat Curing Box",
+            0,
+            "wikitext",
+            """{{Infobox recipe
+|name = Meat Curing Box
+|mat1 = Fir Firewood
+|mat1qty = 10
+|mat2 = Salt
+|mat2qty = 8.00 kg
+}}""",
+            None,
+        )
+    ]
+    usage = markdown_export_module._build_material_usage_index(pages)
+
+    expanded, error, count = markdown_export_module._expand_page(
+        DumpPage("Fir Firewood", 0, "wikitext", "{{Uses material list}}", None),
+        FakeContext(),
+        identity_preprocess,
+        {},
+        {
+            "infoboxes": 0,
+            "missing_templates": [],
+            "infobox_left": 0,
+            "missing_images": [],
+            "redlinks": 0,
+            "unrendered": 0,
+        },
+        usage,
+    )
+
+    assert not error
+    assert count == 0
+    assert 'class="wikitable uses-material-list"' in expanded
+    assert "Meat Curing Box" in expanded
+    assert "8.00 kg × Salt" in expanded
+
+
 def test_wide_sparse_table_keeps_product_rows_and_compacts_columns(
     monkeypatch: pytest.MonkeyPatch,
 ) -> None:

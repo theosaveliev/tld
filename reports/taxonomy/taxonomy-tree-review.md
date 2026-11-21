@@ -1761,16 +1761,20 @@
 - [Transponder Parts](https://thelongdark.fandom.com/wiki/Transponder_Parts)
 - [Trauma Kit](https://thelongdark.fandom.com/wiki/Trauma_Kit)
 
-### Story & Reference Pages
+### Story Missions
 
 - [A Cry For Help](https://thelongdark.fandom.com/wiki/A_Cry_For_Help)
 - [A Riddle Among the Shadows](https://thelongdark.fandom.com/wiki/A_Riddle_Among_the_Shadows)
-- [Collectibles](https://thelongdark.fandom.com/wiki/Collectibles)
 - [Lake Gunshots](https://thelongdark.fandom.com/wiki/Lake_Gunshots)
 - [Memories](https://thelongdark.fandom.com/wiki/Memories)
+
+### Reference Pages
+
+- [Collectibles](https://thelongdark.fandom.com/wiki/Collectibles)
 - [Memories/Transcript](https://thelongdark.fandom.com/wiki/Memories/Transcript)
 - [The Long Dark/Changelog/Archive 1](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog/Archive_1)
 - [The Long Dark/Changelog/Archive 2](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog/Archive_2)
+
 ## 19. Exploration & Caches
 
 > Cache systems, stash mechanics, and cache-focused discoveries. Named physical cache locations remain under Locations, while Trader quest documents and quest objects are grouped under Trader Quests.

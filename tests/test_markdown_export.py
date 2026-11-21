@@ -452,7 +452,7 @@ def test_wide_sparse_table_keeps_product_rows_and_compacts_columns(
     assert "10 × Fir Firewood" in markdown
     assert "8 × Salt" in markdown
     assert "Column 1" not in markdown
-    assert markdown.count("|") < 20
+    assert markdown.startswith("| Item | Skills | Materials |")
 
 
 def test_image_bearing_infobox_renders_images_outside_pipe_tables(

@@ -44,6 +44,9 @@ class ExportSummary(TypedDict):
     redirects: int
     expansion_errors: int
     conversion_errors: int
+    repaired_pages: int
+    raw_fallback_pages: int
+    html_fallback_pages: int
     unresolved_links: int
     missing_images: int
     categories: int
@@ -488,6 +491,74 @@ def _run_pandoc(binary: str, text: str, source_format: str, target_format: str) 
     return result.stdout.strip()
 
 
+
+
+def _repair_unclosed_mediawiki_tables(text: str) -> tuple[str, int]:
+    """Close unterminated top-level MediaWiki table blocks before retrying Pandoc.
+
+    Pandoc reports an unexpected end of input when an expanded template leaves
+    a table open. Count only table markers at the beginning of a line, and
+    ignore markers inside comments and literal wikitext tags.
+    """
+    depth = 0
+    in_comment = False
+    literal_tag: str | None = None
+
+    for line in text.splitlines():
+        visible = line
+
+        if in_comment:
+            _, separator, visible = visible.partition("-->")
+            if not separator:
+                continue
+            in_comment = False
+
+        while "<!--" in visible:
+            before, _, remainder = visible.partition("<!--")
+            _, separator, after = remainder.partition("-->")
+            visible = before + after if separator else before
+            if not separator:
+                in_comment = True
+                break
+        if in_comment:
+            continue
+
+        if literal_tag is not None:
+            closing = re.search(rf"</{re.escape(literal_tag)}\\s*>", visible, re.I)
+            if closing is None:
+                continue
+            visible = visible[closing.end() :]
+            literal_tag = None
+
+        opening = re.search(
+            r"<(nowiki|pre|source|syntaxhighlight)\\b[^>]*>", visible, re.I
+        )
+        if opening is not None:
+            tag = opening.group(1)
+            closing = re.search(
+                rf"</{re.escape(tag)}\\s*>", visible[opening.end() :], re.I
+            )
+            if closing is None:
+                visible = visible[: opening.start()]
+                literal_tag = tag
+            else:
+                closing_end = opening.end() + closing.end()
+                visible = visible[: opening.start()] + visible[closing_end:]
+
+        marker = visible.lstrip()
+        if marker.startswith("{|"):
+            depth += 1
+        elif marker.startswith("|}") and depth:
+            depth -= 1
+
+    if depth == 0:
+        return text, 0
+
+    suffix = "\\n".join("|}" for _ in range(depth))
+    repaired = text.rstrip() + "\\n" + suffix + "\\n"
+    return repaired, depth
+
+
 def _build_image_index(image_dir: Path | None) -> dict[str, Path]:
     """Index image assets by normalized basename."""
     if image_dir is None or not image_dir.is_dir():
@@ -853,10 +924,13 @@ def _export_one_page(
     categories_seen: set[str],
     source_url: str | None,
 ) -> tuple[PageExportResult, int, int]:
-    """Expand and convert one article into its allocated Markdown file."""
+    """Expand and convert one article, recovering gracefully from parser failures."""
     title_key = normalize_title(page.title)
     filename = title_to_filename[title_key]
     expansion_error = ""
+    conversion_note = ""
+    conversion_stage = "wikitext preprocessing"
+    conversion_status = "ok"
     expanded = page.text
     stats: RenderStats = {
         "infoboxes": 0,
@@ -868,6 +942,7 @@ def _export_one_page(
     }
     categories: list[str] = []
     expansion_errors = 0
+    conversion_errors = 0
 
     if page.model == "wikitext":
         try:
@@ -884,32 +959,123 @@ def _export_one_page(
                 expansion_errors = 1
                 expansion_error = str(exc)[:300]
 
-    conversion_errors = 0
     try:
+        conversion_stage = "post-expansion cleanup"
         expanded = postprocess(expanded, categories, stats)
         categories = sorted(set(categories), key=str.casefold)
         categories_seen.update(categories)
-        html_fragment = _run_pandoc(pandoc, expanded, "mediawiki", "html")
-        rewritten_html = _rewrite_html_links(
-            html_fragment,
-            page.title,
-            title_to_filename,
-            redirects,
-            image_index,
-            image_dir,
-            asset_dir,
-            copied_images,
-            used_asset_names,
-            missing_links,
-            missing_images,
-        )
-        markdown_body = _run_pandoc(pandoc, rewritten_html, "html", "gfm")
-        status = "ok" if not expansion_error else "expand_failed"
+
+        conversion_stage = "Pandoc MediaWiki-to-HTML"
+        try:
+            html_fragment = _run_pandoc(pandoc, expanded, "mediawiki", "html")
+        except Exception as initial_error:
+            repaired_text, repaired_tables = _repair_unclosed_mediawiki_tables(
+                expanded
+            )
+            if (
+                "unexpected end of input" in str(initial_error).casefold()
+                and repaired_tables
+            ):
+                try:
+                    html_fragment = _run_pandoc(
+                        pandoc, repaired_text, "mediawiki", "html"
+                    )
+                except Exception as repair_error:
+                    conversion_note = (
+                        f"{conversion_stage} still failed after closing "
+                        f"{repaired_tables} unterminated table(s): {repair_error}"
+                    )
+                else:
+                    expanded = repaired_text
+                    conversion_status = "repaired"
+                    conversion_note = (
+                        "Recovered from Pandoc's unexpected end of input by "
+                        f"closing {repaired_tables} unterminated MediaWiki table(s)."
+                    )
+            else:
+                conversion_note = f"{conversion_stage} rejected expanded wikitext: {initial_error}"
+
+            if conversion_status != "repaired":
+                # The original source is often still parseable when an expanded
+                # template has emitted malformed table syntax. Keep its prose and
+                # links instead of replacing the entire page with a blockquote.
+                conversion_stage = "Pandoc source-wikitext fallback"
+                html_fragment = _run_pandoc(
+                    pandoc, page.text, "mediawiki", "html"
+                )
+                conversion_status = "raw_fallback"
+                conversion_note = (
+                    f"{conversion_note} Used the unexpanded source as a fallback."
+                )
+
+        conversion_stage = "HTML link and image rewriting"
+        try:
+            rewritten_html = _rewrite_html_links(
+                html_fragment,
+                page.title,
+                title_to_filename,
+                redirects,
+                image_index,
+                image_dir,
+                asset_dir,
+                copied_images,
+                used_asset_names,
+                missing_links,
+                missing_images,
+            )
+        except Exception as rewrite_error:
+            # Preserve the actual rendered article even if one post-processing
+            # rewrite encounters unexpected HTML from a template.
+            rewritten_html = html_fragment
+            conversion_status = "html_fallback"
+            conversion_note = (
+                f"{conversion_note} HTML link/image rewriting failed; kept the "
+                f"Pandoc HTML fragment: {rewrite_error}"
+            ).strip()
+
+        conversion_stage = "Pandoc HTML-to-GFM"
+        try:
+            markdown_body = _run_pandoc(pandoc, rewritten_html, "html", "gfm")
+        except Exception as markdown_error:
+            # Raw HTML is valid in Markdown and renders far better than quoting
+            # the original, unexpanded wikitext as a blockquote.
+            markdown_body = rewritten_html
+            conversion_status = "html_fallback"
+            conversion_note = (
+                f"{conversion_note} HTML-to-Markdown conversion failed; kept "
+                f"rendered HTML: {markdown_error}"
+            ).strip()
+
+        if expansion_error and conversion_status == "ok":
+            status = "expand_failed"
+        else:
+            status = conversion_status
     except Exception as exc:
-        conversion_errors = 1
-        markdown_body = "\n".join("> " + line for line in page.text.splitlines())
-        status = "conversion_failed"
-        expansion_error = str(exc)[:300]
+        conversion_stage_error = f"{conversion_stage} failed: {exc}"
+        try:
+            # Last-resort fallback: ask Pandoc to render the source wikitext
+            # directly. This retains headings, lists, links and prose.
+            markdown_body = _run_pandoc(pandoc, page.text, "mediawiki", "gfm")
+            status = "raw_fallback"
+            conversion_note = (
+                f"{conversion_stage_error} Direct source-to-Markdown fallback used."
+            )
+        except Exception as fallback_error:
+            conversion_errors = 1
+            markdown_body = "\\n".join(
+                "> " + line for line in page.text.splitlines()
+            )
+            status = "conversion_failed"
+            conversion_note = (
+                f"{conversion_stage_error}; source fallback failed: {fallback_error}"
+            )
+
+    if expansion_error:
+        conversion_note = (
+            f"{conversion_note} {expansion_error}".strip()
+            if conversion_note
+            else expansion_error
+        )
 
     document = _page_markdown(page.title, categories, markdown_body, source_url)
     (pages_dir / filename).write_text(document, encoding="utf-8")
@@ -921,7 +1087,7 @@ def _export_one_page(
         "infoboxes": stats["infoboxes"],
         "infoboxes_unconverted": stats["infobox_left"],
         "missing_templates": sorted(set(stats["missing_templates"]), key=str.casefold),
-        "error": expansion_error,
+        "error": conversion_note[:1000],
     }
     return result, expansion_errors, conversion_errors
 
@@ -1082,6 +1248,13 @@ def export_dump_to_markdown(
         "redirects": state["redirect_count"],
         "expansion_errors": state["expansion_errors"],
         "conversion_errors": state["conversion_errors"],
+        "repaired_pages": sum(page["status"] == "repaired" for page in state["page_results"]),
+        "raw_fallback_pages": sum(
+            page["status"] == "raw_fallback" for page in state["page_results"]
+        ),
+        "html_fallback_pages": sum(
+            page["status"] == "html_fallback" for page in state["page_results"]
+        ),
         "unresolved_links": len(state["missing_links"]),
         "missing_images": len(state["missing_images"]),
         "categories": len(state["categories_seen"]),

@@ -45,6 +45,10 @@ def test_resolve_internal_href_rewrites_local_page_links() -> None:
         == "./Bear.md#Habitat"
     )
     assert (
+        resolve_internal_href("Bear#Habitat Area", "Main Page", mapping, {})
+        == "./Bear.md#Habitat_Area"
+    )
+    assert (
         resolve_internal_href(
             "Bear_alias", "Main Page", mapping, {"Bear alias": "Bear"}
         )
@@ -195,5 +199,48 @@ def test_rewrite_html_links_resolves_articles_and_reports_missing_pages(
     assert 'href="https://example.com"' in rewritten
     assert "Missing page" in rewritten
     assert missing_links == {"Missing page"}
+    assert missing_images == set()
+
+
+def test_html_rewriter_restores_infoboxes_thumbnails_and_section_ids(
+    tmp_path: Path,
+) -> None:
+    image_dir = tmp_path / "images"
+    image_dir.mkdir()
+    image = image_dir / "Bear.png"
+    image.write_bytes(b"image")
+    asset_dir = tmp_path / "workspace" / "assets"
+    missing_links: set[str] = set()
+    missing_images: set[str] = set()
+    fragment = (
+        '<table><caption>XSENT:infobox:Wolf</caption>'
+        '<tr><td>Habitat</td><td>Forest</td></tr></table>'
+        '<figure><img src="File:Bear.png" alt="XTHUMB A bear" /></figure>'
+        '<h2>Section One</h2><h2>Section Two</h2>'
+        '<h2>Section Three</h2><h2>Section Four</h2>'
+    )
+
+    rewritten = _rewrite_html_links(
+        fragment,
+        "Main Page",
+        {},
+        {},
+        {"bear.png": image},
+        image_dir,
+        asset_dir,
+        {},
+        {},
+        missing_links,
+        missing_images,
+    )
+
+    assert '<table class="infobox">' in rewritten
+    assert "<th>Habitat</th>" in rewritten
+    assert '<figure class="thumb">' in rewritten
+    assert "<figcaption>A bear</figcaption>" in rewritten
+    assert 'id="Section_One"' in rewritten
+    assert 'href="#Section_One"' in rewritten
+    assert (asset_dir / "Bear.png").read_bytes() == b"image"
+    assert missing_links == set()
     assert missing_images == set()
 

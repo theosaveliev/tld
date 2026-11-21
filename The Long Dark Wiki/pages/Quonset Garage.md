@@ -20,7 +20,7 @@ _Quonset\_Garage\_map.png_
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)\|-
+[Coastal Highway](./Coastal%20Highway.md)
 
 Location
 
@@ -30,7 +30,7 @@ Location
 
 Type
 
-IndustrialStore\|-
+IndustrialStore
 
 Firebox
 
@@ -44,4 +44,4 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

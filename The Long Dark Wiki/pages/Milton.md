@@ -24,13 +24,13 @@ _Milton.jpg_
 
 _Milton\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **Description:** A small town nestled in the mountains
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Bed_icon.png)
 
@@ -38,7 +38,7 @@ _bed\_icon.png_
 
 Has a bed
 
-Has an interior\|-
+Has an interior
 
 **Characters:** [Grey Mother](./Grey%20Mother.md)
 

@@ -14,11 +14,11 @@ _Milton\_Park\_Office.jpg_
 
 _Milton\_Park\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Bed_icon.png)
 
@@ -26,7 +26,7 @@ _bed\_icon.png_
 
 Has a bed
 
-Provides some shelter\|-
+Provides some shelter
 
 **Missions:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

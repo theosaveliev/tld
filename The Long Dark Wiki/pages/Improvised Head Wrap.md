@@ -10,7 +10,7 @@ _improvised\_Head\_Wrap\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Clothing Slot:** Head
 

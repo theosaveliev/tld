@@ -21,11 +21,11 @@ _20201212120850\_1.jpg_
 
 _Foreman's\_Retreat\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Bed_icon.png)
 

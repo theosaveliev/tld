@@ -14,10 +14,10 @@ _Crystal\_Lake.png_
 
 _Crystal\_Lake\_Location.png_
 
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 **Description:** A small freshwater lake
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

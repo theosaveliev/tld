@@ -19,7 +19,7 @@ _Cash\_icon.png_
 
 **Properties**
 
-**Item type:** [Fire Starting](./Fire%20Starting.md)\|-
+**Item type:** [Fire Starting](./Fire%20Starting.md)
 
 **Stackable:** yes
 

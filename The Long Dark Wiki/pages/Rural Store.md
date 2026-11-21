@@ -24,7 +24,7 @@ _Rural\_Store\_Location.png_
 
 Region
 
-[Pleasant Valley](./Pleasant%20Valley.md)\|-
+[Pleasant Valley](./Pleasant%20Valley.md)
 
 Location
 

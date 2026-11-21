@@ -20,7 +20,7 @@ _Hatchet\_icon.png_
 
 **General**
 
-**Item Type:** Tool\|-
+**Item Type:** Tool
 
 **Statistics**
 

@@ -14,6 +14,6 @@ _tail\_section2.jpg_
 
 _Tail\_Section\_Location.png_
 
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

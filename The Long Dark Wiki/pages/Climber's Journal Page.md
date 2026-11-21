@@ -14,7 +14,7 @@ _Climber's\_Journal\_Page\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)\|-
+**Item type:** [Collectibles](./Collectibles.md)
 
 **Stackable:** No
 

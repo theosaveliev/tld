@@ -24,7 +24,7 @@ _Platelayer's\_Shortcut\_Location.png_
 
 Region
 
-[Far Range Branch Line](./Far%20Range%20Branch%20Line.md)\|-
+[Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 
 Description
 

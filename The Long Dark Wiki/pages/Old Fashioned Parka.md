@@ -10,7 +10,7 @@ _Old\_Fashioned\_Parka\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Clothing Slot:** Outer torso
 

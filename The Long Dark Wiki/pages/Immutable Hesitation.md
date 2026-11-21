@@ -14,7 +14,7 @@ _Immutable\_Hesitation.jpg_
 
 _Immutable\_Hesitation\_Location.png_
 
-**Region:** [Transfer Pass](./Transfer%20Pass.md)\|-
+**Region:** [Transfer Pass](./Transfer%20Pass.md)
 
 **General**
 

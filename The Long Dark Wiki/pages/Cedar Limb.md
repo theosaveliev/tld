@@ -22,7 +22,7 @@ _Large_
 
 Wintermute
 
-Yes\|-
+Yes
 
 **Statistics**
 

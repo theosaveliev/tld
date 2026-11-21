@@ -14,10 +14,10 @@ _TwinSisterFallsRainbow.png_
 
 _Twin\_Sisters\_Falls\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 **Description:** Two waterfalls.
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

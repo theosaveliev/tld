@@ -14,7 +14,7 @@ _Ep1\_Water\_Tower.png_
 
 _Milton\_Water\_Tower\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **General**
 

@@ -14,7 +14,7 @@ _SS-BI-secret\_mountaion\_path002.jpg_
 
 _Secret\_Mountain\_Path\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **General**
 

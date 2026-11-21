@@ -14,7 +14,7 @@ _Carter\_Hydro\_Medical\_Supplies\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)\|-
+**Item type:** [Collectibles](./Collectibles.md)
 
 **Stackable:** No
 

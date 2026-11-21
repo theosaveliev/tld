@@ -10,7 +10,7 @@ _improvised\_Hand\_Wraps\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Clothing Slot:** Hands
 

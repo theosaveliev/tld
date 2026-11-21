@@ -14,10 +14,10 @@ _20201209233317\_1.jpg_
 
 _Mining\_Camp\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
 **Description:** A derelict mining camp connecting to the [Gold Mine](./Gold%20Mine.md)
 
 **General**
 
-**Type:** Industrial\|-
+**Type:** Industrial

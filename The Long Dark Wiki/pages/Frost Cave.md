@@ -14,10 +14,10 @@ _Frost\_Cave\_Interior.png_
 
 _Frost\_Cave\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **Description:** A cave next to a frozen river
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave

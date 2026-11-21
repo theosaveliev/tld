@@ -10,7 +10,7 @@ _Stack\_of\_Papers\_icon.png_
 
 **General**
 
-**Item Type:** Fire Starting\|-
+**Item Type:** Fire Starting
 
 **Statistics**
 

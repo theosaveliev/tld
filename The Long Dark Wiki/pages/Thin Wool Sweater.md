@@ -10,7 +10,7 @@ _Thin\_Wool\_Sweater\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Statistics**
 

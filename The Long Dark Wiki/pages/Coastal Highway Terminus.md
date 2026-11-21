@@ -14,8 +14,8 @@ _SS-BI-Terminus01.jpg_
 
 _Coastal\_Highway\_Terminus\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

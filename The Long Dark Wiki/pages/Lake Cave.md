@@ -14,10 +14,10 @@ _Lake\_Cave.jpg_
 
 _Lake\_Cave\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 **Description:** A small cave on the shore of [Monolith Lake](./Monolith%20Lake.md).
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave

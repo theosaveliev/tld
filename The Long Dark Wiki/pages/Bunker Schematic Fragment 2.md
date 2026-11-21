@@ -12,7 +12,7 @@ _Bunker\_Schematic\_Fragment\_2\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)\|-
+**Item type:** [Collectibles](./Collectibles.md)
 
 **Stackable:** No
 

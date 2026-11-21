@@ -18,7 +18,7 @@ _Cave\_(Track\_Section\_5).jpg_
 
 _Cave\_Track\_Section\_5\_Location.png_
 
-**Region:** [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)\|-
+**Region:** [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)
 
 **Description:** A warm cave
 

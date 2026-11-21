@@ -18,7 +18,7 @@ _Mackenzie's\_Shirt\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Statistics**
 

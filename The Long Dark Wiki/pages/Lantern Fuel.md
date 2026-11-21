@@ -18,7 +18,7 @@ _Lantern\_Fuel\_icon.png_
 
 **General**
 
-**Item Type:** Fire Starting\|-
+**Item Type:** Fire Starting
 
 **Renewable:** Yes
 

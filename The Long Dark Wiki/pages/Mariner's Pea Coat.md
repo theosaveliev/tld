@@ -10,7 +10,7 @@ _Mariner's\_Pea\_Coat\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Clothing Slot:** Outer torso
 

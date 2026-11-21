@@ -14,10 +14,10 @@ _Bolt\_Choppers\_Haven.jpg_
 
 _Bolt\_Chopper's\_Haven\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **Description:** A cave in the mountain
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave

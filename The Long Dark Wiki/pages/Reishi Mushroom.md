@@ -25,7 +25,7 @@ _Reishi\_Mushroom\_icon.png_
 
 **Properties**
 
-**Item type:** [Materials](./Materials.md)\|-
+**Item type:** [Materials](./Materials.md)
 
 **Stackable:** Yes
 

@@ -14,13 +14,13 @@ _Molly's\_Barn\_2.jpg_
 
 _Barn\_(Molly's)\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **Sublocations:** West of Heartbreak Bridge
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Bed_icon.png)
 

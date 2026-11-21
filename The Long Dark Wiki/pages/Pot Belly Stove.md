@@ -10,7 +10,7 @@ _Pot\_belly\_stove.png_
 
 **General**
 
-**Type:** Fire Starting\|-
+**Type:** Fire Starting
 
 **Max temperature:** 80 °C / _(144 °F)_
 

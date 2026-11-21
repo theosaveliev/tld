@@ -17,7 +17,7 @@ _Wolfskin\_Pants\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 Clothing Slot
 

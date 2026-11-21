@@ -14,6 +14,6 @@ _Miner's\_Footpath.jpg_
 
 _Miner's\_Footpath\_Location.png_
 
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 **General**

@@ -20,7 +20,7 @@ Region
 
 **General**
 
-**Type:** Industrial\|-
+**Type:** Industrial
 
 ![](../assets/Bed_icon.png)
 
@@ -32,4 +32,4 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

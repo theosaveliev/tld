@@ -29,7 +29,7 @@ _Portion_
 
 Item type
 
-[Food And Drink](./Food%20And%20Drink.md)\|-
+[Food And Drink](./Food%20And%20Drink.md)
 
 Equipable
 

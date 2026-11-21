@@ -10,7 +10,7 @@ _Wool\_Mittens\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Renewable:** Yes
 

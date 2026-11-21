@@ -24,7 +24,7 @@ _Bank\_Manager's\_House\_Location.png_
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)\|-
+[Mountain Town](./Mountain%20Town.md)
 
 Location
 
@@ -34,7 +34,7 @@ Location
 
 Type
 
-Residential\|-
+Residential
 
 Firebox
 

@@ -14,10 +14,10 @@ _Milton\_cave.png_
 
 _Cave\_Mountain\_Town\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **Description:** A moderately sized explorable cave
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave

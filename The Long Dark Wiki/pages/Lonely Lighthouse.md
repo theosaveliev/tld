@@ -31,7 +31,7 @@ _Lonely\_Lighthouse\_Location.png_
 
 Region
 
-[Desolation Point](./Desolation%20Point.md)\|-
+[Desolation Point](./Desolation%20Point.md)
 
 Location
 
@@ -39,7 +39,7 @@ Location
 
 Type
 
-Residential\|-
+Residential
 
 Firebox
 

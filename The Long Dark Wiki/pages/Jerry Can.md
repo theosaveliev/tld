@@ -17,7 +17,7 @@ _Jerry\_Can\_icon.png_
 
 **General**
 
-**Item Type:** Tool\|-
+**Item Type:** Tool
 
 **Renewable:** Yes (very rarely through [Beachcombing](./Beachcombing.md))
 

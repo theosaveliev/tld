@@ -15,7 +15,7 @@
 
 _Carter\_hydro\_dam\_in\_story\_mode.jpg_
 
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
 **Previous:** [Jeremiah's Folly/Transcript](./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md)
 

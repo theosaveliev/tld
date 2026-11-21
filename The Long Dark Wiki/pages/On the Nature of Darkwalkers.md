@@ -12,7 +12,7 @@ _On\_the\_Nature\_of\_Darkwalkers\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)\|-
+**Item type:** [Collectibles](./Collectibles.md)
 
 **Stackable:** No
 

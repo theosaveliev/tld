@@ -18,7 +18,7 @@ _Fallow\_Field.jpg_
 
 _Fallow\_Field\_Location.png_
 
-**Region:** [Port Remnant](./Port%20Remnant.md)\|-
+**Region:** [Port Remnant](./Port%20Remnant.md)
 
 **Description:** A field and pond below Desecrated Church
 

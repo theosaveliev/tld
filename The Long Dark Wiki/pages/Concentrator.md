@@ -14,7 +14,7 @@ _Concentrator.png_
 
 _Concentrator\_Location.png_
 
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 **General**
 
@@ -28,4 +28,4 @@ _bed\_icon.png_
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

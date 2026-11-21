@@ -14,6 +14,6 @@ _Desperate\_Elevation.jpg_
 
 _Desperate\_Elevation\_Location.png_
 
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 **General**

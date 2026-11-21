@@ -20,7 +20,7 @@ Region
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave
 
 ![Creek Bed Cave entrance](../assets/Creek_Bed_Cave.jpg)
 

@@ -14,7 +14,7 @@ _Remnant\_Cave.jpg_
 
 _Remnant\_Cave\_Location.png_
 
-**Region:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)\|-
+**Region:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 
 **General**
 

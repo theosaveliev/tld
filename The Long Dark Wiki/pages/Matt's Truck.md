@@ -14,10 +14,10 @@ _Matt's\_Truck.jpg_
 
 _Matt's\_Truck\_Location.png_
 
-**Region:** [Desolation Point](./Desolation%20Point.md)\|-
+**Region:** [Desolation Point](./Desolation%20Point.md)
 
 **Description:** A truck that has fallen from the roadway
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

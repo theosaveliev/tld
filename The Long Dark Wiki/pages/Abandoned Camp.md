@@ -14,6 +14,6 @@ _abandoned\_camp.jpg_
 
 _Abandoned\_Camp\_Location.png_
 
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|-
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

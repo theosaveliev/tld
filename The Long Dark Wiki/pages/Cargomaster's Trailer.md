@@ -14,7 +14,7 @@ _Cargomaster's\_Trailer.jpg_
 
 _Cargomaster's\_Trailer\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **General**
 

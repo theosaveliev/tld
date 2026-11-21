@@ -14,6 +14,6 @@ _SS-BI-FrozenDelta003.jpg_
 
 _Frozen\_Delta\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

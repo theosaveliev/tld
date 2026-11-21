@@ -21,7 +21,7 @@ _hermits\_cabin.jpg_
 
 _Hermit's\_Cabin\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **General**
 

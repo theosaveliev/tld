@@ -14,8 +14,8 @@ _Forest\_Cave\_-\_entrance\_(Timberwolf\_Mountain\_location).jpg_
 
 _Forest\_Cave\_(Timberwolf\_Mountain\_location)\_Location.png_
 
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave

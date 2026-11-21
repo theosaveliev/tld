@@ -14,6 +14,6 @@ _Train\_Loading\_Area\_1.jpg_
 
 _Train\_Loading\_Area\_Location.png_
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
-**Type:** Landmark\|-
+**Type:** Landmark

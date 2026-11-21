@@ -22,4 +22,4 @@ Region
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave

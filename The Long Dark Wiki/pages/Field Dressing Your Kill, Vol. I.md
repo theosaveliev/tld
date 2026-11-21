@@ -28,7 +28,7 @@ _Field\_Dressing\_Your\_Kill,\_Vol.\_I\_icon.png_
 
 **Properties**
 
-**Item type:** [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|-
+**Item type:** [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)
 
 **Stackable:** No
 

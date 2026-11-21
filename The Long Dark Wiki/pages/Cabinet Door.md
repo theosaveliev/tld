@@ -12,6 +12,6 @@ _Cabinet\_Door.jpg_
 
 Item Type
 
-**Wintermute:** Yes\|-
+**Wintermute:** Yes
 
 **Harvest:** 8 Minutes 1 x [Reclaimed Wood](./Reclaimed%20Wood.md)

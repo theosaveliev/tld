@@ -14,4 +14,4 @@ _Cascading\_Gap.jpg_
 
 _Cascading\_Gap\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)

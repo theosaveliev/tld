@@ -12,7 +12,7 @@ _Mystery\_Lake\_&amp;\_Area\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)\|-
+**Item type:** [Collectibles](./Collectibles.md)
 
 **Stackable:** No
 

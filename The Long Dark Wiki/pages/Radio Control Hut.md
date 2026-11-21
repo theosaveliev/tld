@@ -14,11 +14,11 @@ _RadioControlHutOutside.jpg_
 
 _RadioControlHutMap.jpg_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **General**
 
-**Type:** Industrial\|-
+**Type:** Industrial
 
 ![](../assets/Bed_icon.png)
 

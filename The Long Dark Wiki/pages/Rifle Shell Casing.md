@@ -10,7 +10,7 @@ _Rifle\_Shell\_Casing\_icon.png_
 
 **General**
 
-**Item Type:** Material\|-
+**Item Type:** Material
 
 **Renewable:** Yes ([Trader](./Trader.md)) no (Interloper)
 

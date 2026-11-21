@@ -14,10 +14,10 @@ _Shoulder\_Lake\_Airplane.png_
 
 _Shoulder\_Lake\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **Description:** A large lake containing a few islands.
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

@@ -32,7 +32,7 @@ _Heavy\_Hammer\_icon.png_
 
 **General**
 
-**Item Type:** Tool\|-
+**Item Type:** Tool
 
 **Renewable:** Yes ([Trader](./Trader.md) only) No ([Interloper](./Interloper.md))
 

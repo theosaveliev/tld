@@ -18,7 +18,7 @@
 
 _lake\_cabin4.jpg_
 
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
 **Current:** Lake Gunshots
 

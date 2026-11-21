@@ -8,7 +8,7 @@
 
 _Missions\_story\_ep2\_Renewed\_Hope.png_
 
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
 **Previous:** [What One Man Can Do/Transcript](./What%20One%20Man%20Can%20Do%20%E2%80%94%20Transcript.md)
 

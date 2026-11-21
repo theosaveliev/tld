@@ -14,7 +14,7 @@ _Local\_Legends\_-\_The\_Lost\_Cave\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)\|-
+**Item type:** [Collectibles](./Collectibles.md)
 
 **Stackable:** No
 

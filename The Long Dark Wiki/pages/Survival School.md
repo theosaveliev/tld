@@ -16,7 +16,7 @@
 
 _Advanced\_Guns\_Guns\_Guns!\_icon.png_
 
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
 **Previous:** [The Basics of Survival](./The%20Basics%20of%20Survival.md)
 
@@ -30,7 +30,7 @@ _Advanced\_Guns\_Guns\_Guns!\_icon.png_
 >
 > — In-game description
 
-**Survival School **is a side mission in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [story](./Wintermute.md).
+**Survival School**is a side mission in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [story](./Wintermute.md).
 
 ## Overview
 

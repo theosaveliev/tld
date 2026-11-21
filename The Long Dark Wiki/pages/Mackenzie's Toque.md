@@ -18,7 +18,7 @@ _Mackenzie's\_Toque\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Statistics**
 

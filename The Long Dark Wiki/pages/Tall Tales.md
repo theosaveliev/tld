@@ -37,7 +37,7 @@ _Lost Cave_
 
 Episode
 
-[Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|-
+[Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 
 **Missions**
 

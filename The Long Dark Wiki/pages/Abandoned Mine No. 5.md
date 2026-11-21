@@ -24,8 +24,8 @@ _Abandoned\_Mine\_No.\_5\_Location.png_
 
 Region
 
-[Desolation Point](./Desolation%20Point.md)\|-
+[Desolation Point](./Desolation%20Point.md)
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave

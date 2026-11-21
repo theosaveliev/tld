@@ -14,6 +14,6 @@ _Feedwater\_Cave.jpg_
 
 _Feedwater\_Cave\_Location.png_
 
-**Region:** [Transfer Pass](./Transfer%20Pass.md)\|-
+**Region:** [Transfer Pass](./Transfer%20Pass.md)
 
 **General**

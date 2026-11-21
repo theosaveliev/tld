@@ -40,7 +40,7 @@ _Carter\_Hydro\_Dam\_Location.png_
 
 Region
 
-[Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+[Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 Location
 
@@ -50,7 +50,7 @@ Location
 
 Type
 
-Industrial\|-
+Industrial
 
 Firebox
 
@@ -58,7 +58,7 @@ Firebox
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench
 
 **Missions:** [The Wounded Trapper](./Episode%202%20-%20Luminance%20Fugue.md#The_Wounded_Trapper) / [Renewed Hope](./Episode%202%20-%20Luminance%20Fugue.md#Renewed_Hope)
 

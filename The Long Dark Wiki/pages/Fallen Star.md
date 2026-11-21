@@ -8,7 +8,7 @@
 
 _Missions\_story\_ep3\_Triage.png_
 
-**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|-
+**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 
 **Previous:** [Trauma](./Trauma.md)
 
@@ -42,9 +42,9 @@ _Missions\_story\_ep3\_Triage.png_
 
 ## Walkthrough
 
-| Mission details |  |
-| --- | --- |
-|  |  |
+| Mission details |
+| --- |
+|  |
 
 The mission starts in the [Community Hall](./Community%20Hall.md). Walk to each survivor in the hall and diagnose them.
 

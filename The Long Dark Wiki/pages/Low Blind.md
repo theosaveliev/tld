@@ -14,6 +14,6 @@ _20170304103515\_1.jpg_
 
 _Low\_Blind\_Location.png_
 
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|-
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

@@ -14,14 +14,14 @@ _20201210004606\_1.jpg_
 
 _Miner's\_Folly\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
 **General**
 
-**Type:** Industrial\|-
+**Type:** Industrial
 
 ![](../assets/Workbench_icon_green.png)
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

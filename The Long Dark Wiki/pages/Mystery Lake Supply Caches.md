@@ -16,7 +16,7 @@
 
 _One of the hidden supply caches._
 
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
 **Current:** Mystery Lake Supply Caches
 

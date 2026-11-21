@@ -14,10 +14,10 @@ _Wing\_-\_Timberwolf\_Mountain\_location.jpg_
 
 _Wing\_Location.png_
 
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 **Description:** A wing from the crashed aircraft
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

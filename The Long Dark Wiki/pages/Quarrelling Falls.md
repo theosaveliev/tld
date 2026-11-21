@@ -14,10 +14,10 @@ _Quarreling\_Falls.jpg_
 
 _Quarrelling\_Falls\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 **Description:** Two high waterfalls.
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

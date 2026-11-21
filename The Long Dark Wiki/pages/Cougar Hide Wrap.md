@@ -10,7 +10,7 @@ _Cougar\_Hide\_Wrap\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Clothing Slot:** Head
 

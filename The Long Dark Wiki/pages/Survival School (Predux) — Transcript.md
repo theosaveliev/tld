@@ -17,7 +17,7 @@
 
 _The\_Long\_Dark\_-\_episode\_two\_-\_survival\_school.png_
 
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
 **Previous:** You Fix My Rifle?/Transcript
 

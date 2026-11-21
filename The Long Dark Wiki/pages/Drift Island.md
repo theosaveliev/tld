@@ -14,10 +14,10 @@ _Drift\_Island.png_
 
 _Drift\_Island\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **Description:** A tall island in a lake.
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

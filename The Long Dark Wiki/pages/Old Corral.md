@@ -14,7 +14,7 @@ _Old\_Corral.jpg_
 
 _Old\_Corral\_Location.png_
 
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 **General**
 

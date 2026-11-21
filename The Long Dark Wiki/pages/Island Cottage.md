@@ -14,16 +14,16 @@ _Island\_Cottage.png_
 
 _Island\_Cottage\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **Description:** A cabin overlooking [Shoulder Lake](./Shoulder%20Lake.md).
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Workbench_icon_green.png)
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

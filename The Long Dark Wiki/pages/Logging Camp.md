@@ -14,9 +14,9 @@ _Logging\_camp\_01.jpg_
 
 _Logging\_Camp\_Location.png_
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Forge_icon_green.png)
 

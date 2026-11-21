@@ -14,7 +14,7 @@ _Final\_Approach\_Close.jpg_
 
 _Final\_Approach\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **Description:** A rescue helicopter crashed near a frozen pond
 

@@ -14,7 +14,7 @@ _Flagman's\_Gap.jpg_
 
 _Flagman's\_Gap\_Location.png_
 
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 **Description:** A small road passing through a gap between large boulders
 

@@ -14,8 +14,8 @@ _tail\_section\_and\_wing2.jpg_
 
 _Summit\_Location.png_
 
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

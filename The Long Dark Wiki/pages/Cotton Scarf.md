@@ -10,7 +10,7 @@ _Cotton\_Scarf\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Clothing Slot:** Head
 

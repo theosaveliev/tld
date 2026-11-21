@@ -17,7 +17,7 @@ _Revolver\_Shell\_Casing\_icon.png_
 
 **General**
 
-**Item Type:** Material\|-
+**Item Type:** Material
 
 **Statistics**
 

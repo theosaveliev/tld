@@ -14,6 +14,6 @@ _Long\_Shot\_Falls\_(2).jpg_
 
 _Long\_Shot\_Falls\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

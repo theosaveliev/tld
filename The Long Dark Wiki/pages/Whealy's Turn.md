@@ -14,4 +14,4 @@ _Whealy's\_Turn.jpg_
 
 _Whealey's\_Turn\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)

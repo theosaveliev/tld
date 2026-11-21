@@ -14,13 +14,13 @@ _screen\_cff25cc7-7169-49a4-81a8-b5e18afd70ae\_hi.jpg_
 
 _Cannery\_Worker\_Residences\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **Description:** small cabins in varying states of disrepair
 
 **General**
 
-**Type:** IndustrialMilitary/Sporting\|-
+**Type:** IndustrialMilitary/Sporting
 
 ![](../assets/Bed_icon.png)
 

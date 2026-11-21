@@ -14,4 +14,4 @@ _Enduring\_Waterfall.jpg_
 
 _Enduring\_Waterfall\_Location.png_
 
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)

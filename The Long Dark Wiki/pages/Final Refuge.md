@@ -14,11 +14,11 @@ _Final\_Refuge.png_
 
 _Final\_Refuge\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Bed_icon.png)
 

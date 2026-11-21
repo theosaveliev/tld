@@ -16,7 +16,7 @@ _Fresh\_Gut\_icon.png_
 
 **Properties**
 
-**Item type:** [Materials](./Materials.md)\|-
+**Item type:** [Materials](./Materials.md)
 
 **Stackable:** No
 

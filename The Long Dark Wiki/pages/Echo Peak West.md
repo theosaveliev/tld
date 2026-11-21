@@ -14,6 +14,6 @@ _echo\_peak\_west.jpg_
 
 _Echo\_Peak\_West\_Location.png_
 
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

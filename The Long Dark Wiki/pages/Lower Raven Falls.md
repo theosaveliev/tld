@@ -14,8 +14,8 @@ _SS-BI-LowerRavenFall.jpg_
 
 _Lower\_Raven\_Falls\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

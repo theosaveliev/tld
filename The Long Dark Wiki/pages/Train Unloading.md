@@ -20,7 +20,7 @@ _Train\_Unloading\_map.png_
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)\|-
+[Coastal Highway](./Coastal%20Highway.md)
 
 Location
 
@@ -28,7 +28,7 @@ Location
 
 Type
 
-Outdoors\|-
+Outdoors
 
 ![](../assets/Bed_icon.png)
 

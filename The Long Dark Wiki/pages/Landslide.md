@@ -24,7 +24,7 @@ _Landslide\_Location.png_
 
 Region
 
-[Broken Railroad](./Broken%20Railroad.md)\|-
+[Broken Railroad](./Broken%20Railroad.md)
 
 Location
 
@@ -32,4 +32,4 @@ Location
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

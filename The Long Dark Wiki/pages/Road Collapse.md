@@ -14,8 +14,8 @@ _Road\_Collapse.jpg_
 
 _Road\_Collapse\_Location.png_
 
-**Region:** [Old Island Connector](./Crumbling%20Highway.md)\|-
+**Region:** [Old Island Connector](./Crumbling%20Highway.md)
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

@@ -10,7 +10,7 @@ _Field\_31\_Sign.jpg_
 
 **Location**
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **Description:** A small abandoned airfield in the Far Territory
 
@@ -26,4 +26,4 @@ Has a bed
 
 _forge\_icon\_green.png_
 
-Has a forge\|-
+Has a forge

@@ -14,6 +14,6 @@ _Muskeg\_Overlook.jpg_
 
 _Muskeg\_Overlook\_Location.png_
 
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|-
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

@@ -10,7 +10,7 @@ _Old\_Bear's\_Den.jpg_
 
 **Location**
 
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|-
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 **General**
 

@@ -14,16 +14,16 @@ _The\_Riken.jpg_
 
 _The\_Riken\_Location.png_
 
-**Region:** [Desolation Point](./Desolation%20Point.md)\|-
+**Region:** [Desolation Point](./Desolation%20Point.md)
 
 **Description:** An old whaling ship
 
 **General**
 
-**Type:** Industrial\|-
+**Type:** Industrial
 
 ![](../assets/Forge_icon_green.png)
 
 _forge\_icon\_green.png_
 
-Has a forge\|-
+Has a forge

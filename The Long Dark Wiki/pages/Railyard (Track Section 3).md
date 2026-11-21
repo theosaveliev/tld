@@ -18,7 +18,7 @@ _No\_picture.png_
 
 _Railyard\_Track\_3\_Location.png_
 
-**Region:** [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md)\|-
+**Region:** [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md)
 
 **Description:** A railyard
 

@@ -14,11 +14,11 @@ _Pleasant\_valley\_farmstead.png_
 
 _Pleasant\_Valley\_Farmstead\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Bed_icon.png)
 
@@ -30,4 +30,4 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

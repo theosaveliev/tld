@@ -10,7 +10,7 @@ _Hoodie\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Renewable:** Yes (rare [Beachcombing](./Beachcombing.md))
 

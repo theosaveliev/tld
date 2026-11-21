@@ -8,7 +8,7 @@
 
 _Missions\_story\_ep2\_What\_One\_Man\_Can\_Do.png_
 
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
 **Previous:** [Signal to Noise/Transcript](./Signal%20to%20Noise%20%E2%80%94%20Transcript.md)
 

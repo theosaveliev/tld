@@ -14,6 +14,6 @@ _Welkin's\_Window.png_
 
 _Welkin's\_Window\_Location.png_
 
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
-**Type:** Cave\|-
+**Type:** Cave

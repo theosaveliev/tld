@@ -22,7 +22,7 @@ _Survive\_the\_Outdoors!\_icon.png_
 
 **Properties**
 
-**Item type:** [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|-
+**Item type:** [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)
 
 **Stackable:** No
 

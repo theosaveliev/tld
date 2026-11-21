@@ -14,4 +14,4 @@ _Unyielding\_Inundation.jpg_
 
 _Unyielding\_Inundation\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)

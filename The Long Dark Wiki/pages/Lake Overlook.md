@@ -14,6 +14,6 @@ _Mystery\_Lake\_Overlook.jpg_
 
 _Lake\_Overlook\_Location.png_
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

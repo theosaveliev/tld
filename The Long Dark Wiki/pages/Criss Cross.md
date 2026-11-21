@@ -18,7 +18,7 @@ _Criss\_Cross.jpg_
 
 _Criss\_Cross\_Location.png_
 
-**Region:** [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)\|-
+**Region:** [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)
 
 **Description:** 2 sets of train tracks with track switchers
 

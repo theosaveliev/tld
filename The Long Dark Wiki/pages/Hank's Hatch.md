@@ -18,7 +18,7 @@
 
 _Hank's\_prepper\_cache.jpg_
 
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
 **Current:** Hank's Hatch
 

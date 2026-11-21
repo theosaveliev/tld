@@ -14,10 +14,10 @@ _20190302003955\_1.jpg_
 
 _Offset\_Falls\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 **Description:** Two waterfalls.
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

@@ -14,13 +14,13 @@ _The main road in Thomson's Crossing_
 
 _Thomson's\_Crossing\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **Description:** A small town with several houses
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Bed_icon.png)
 

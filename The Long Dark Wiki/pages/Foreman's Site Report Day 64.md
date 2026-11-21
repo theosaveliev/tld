@@ -14,7 +14,7 @@ _Foreman's\_Site\_Report\_Day\_64\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)\|-
+**Item type:** [Collectibles](./Collectibles.md)
 
 **Stackable:** No
 

@@ -18,7 +18,7 @@ _Looted\_Grotto.jpg_
 
 _Looted\_Grotto\_Location.png_
 
-**Region:** [Port Remnant](./Port%20Remnant.md)\|-
+**Region:** [Port Remnant](./Port%20Remnant.md)
 
 **Description:** A set of ruined buildings and trailers built under the cliffs
 

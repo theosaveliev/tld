@@ -18,7 +18,7 @@ _Train\_Shelter.jpg_
 
 _Train\_Shelter\_Location.png_
 
-**Region:** [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)\|-
+**Region:** [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)
 
 **Description:** A Train repair station hidden in the mountains.
 

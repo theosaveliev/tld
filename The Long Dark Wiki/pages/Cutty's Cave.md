@@ -22,7 +22,7 @@ Region
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave
 
 **Missions:** [Blackrock Blues](./Blackrock%20Blues.md)
 

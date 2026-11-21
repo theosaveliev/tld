@@ -14,10 +14,10 @@ _Trestle at Ravine's End_
 
 _Raven\_Falls\_Trestle\_Location.png_
 
-**Region:** [The Ravine](./The%20Ravine.md)\|-
+**Region:** [The Ravine](./The%20Ravine.md)
 
 **Description:** A partially damaged wooden train trestle.
 
 **General**
 
-**Type:** Industrial\|-
+**Type:** Industrial

@@ -24,7 +24,7 @@ _Western Railway_
 
 Region
 
-[Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md)\|-
+[Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md)
 
 Location
 

@@ -18,7 +18,7 @@ _Last\_Quarrel.jpg_
 
 _Last\_Quarrel\_Location.png_
 
-**Region:** [Port Remnant](./Port%20Remnant.md)\|-
+**Region:** [Port Remnant](./Port%20Remnant.md)
 
 **Description:** A large cave hidden behind 2 waterfalls.
 

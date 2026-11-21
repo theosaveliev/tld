@@ -16,7 +16,7 @@
 
 _Missions\_story\_ep2\_The\_Wounded\_Trapper.png_
 
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
 **Previous:** [Paradise Lost/Transcript](./Paradise%20Lost%20%E2%80%94%20Transcript.md)
 

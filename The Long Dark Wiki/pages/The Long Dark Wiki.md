@@ -4,8 +4,7 @@
 
 &lt;mainpage-leftcolumn-start /&gt;
 
-**Welcome to _The Long Dark_ Wiki  
- **_[The Long Dark](./The%20Long%20Dark.md)_ is a thoughtful, first-person survival simulation that emphasizes quiet exploration in a stark, yet hauntingly beautiful post-disaster setting. The breathtakingly picturesque Northern Canadian wilderness frames the backdrop for the drama of _The Long Dark_.
+**Welcome to _The Long Dark_ Wiki**_[The Long Dark](./The%20Long%20Dark.md)_ is a thoughtful, first-person survival simulation that emphasizes quiet exploration in a stark, yet hauntingly beautiful post-disaster setting. The breathtakingly picturesque Northern Canadian wilderness frames the backdrop for the drama of _The Long Dark_.
 
 ![BLACKFROST: The Long Dark II\|link=BLACKFROST:\_The\_Long\_Dark\_II\|linktext=Upcoming sequel to The Long Dark.](../assets/Bf-wishlist.jpg)
 

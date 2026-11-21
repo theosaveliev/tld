@@ -14,6 +14,6 @@ _erics\_falls.jpg_
 
 _Eric's\_Falls\_Location.png_
 
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
-**Type:** Landmark\|-
+**Type:** Landmark

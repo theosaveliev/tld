@@ -12,7 +12,7 @@ _Workbench\_Vice\_icon.png_
 
 **Properties**
 
-**Item type:** [Materials](./Materials.md)\|-
+**Item type:** [Materials](./Materials.md)
 
 **Values**
 

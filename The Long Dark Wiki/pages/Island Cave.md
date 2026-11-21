@@ -10,10 +10,10 @@ _IslandCave.png_
 
 **Location**
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **Description:** A small cave on an offshore island.
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave

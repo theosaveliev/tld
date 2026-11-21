@@ -14,13 +14,13 @@ _Screen\_8fe81024-1225-4d19-8ee2-cab3a9a3a50c\_hi.jpg_
 
 _Pensive\_Lookout\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **Description:** An abandoned fire lookout
 
 **General**
 
-**Type:** Military/Sporting\|-
+**Type:** Military/Sporting
 
 ![](../assets/Bed_icon.png)
 

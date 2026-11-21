@@ -14,7 +14,7 @@ _Harrowed\_Residence.jpg_
 
 _Harrowed\_Residence\_Location.png_
 
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 **Description:** A burned down trailer tucked away in the mountains
 

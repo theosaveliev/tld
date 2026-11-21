@@ -10,7 +10,7 @@ _Chemical\_Boots\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Renewable:** Yes ([Trader](./Trader.md))
 

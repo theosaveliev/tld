@@ -14,6 +14,6 @@ _BroadFallsCloseup\_1080p.png_
 
 _Broad\_Falls\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
-**Type:** Landmark\|-
+**Type:** Landmark

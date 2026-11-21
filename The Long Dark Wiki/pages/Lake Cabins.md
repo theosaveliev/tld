@@ -17,13 +17,13 @@ _Lake\_cabin4.jpg_
 
 **Location**
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 **Description:** A small group of cabins.
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![The interior of a cabin](../assets/Lake_cabin.jpg)
 

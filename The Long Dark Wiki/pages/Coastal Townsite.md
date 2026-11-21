@@ -28,7 +28,7 @@ Region
 
 Type
 
-Residential\|-
+Residential
 
 ![](../assets/Bed_icon.png)
 
@@ -38,4 +38,4 @@ _bed\_icon.png_
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

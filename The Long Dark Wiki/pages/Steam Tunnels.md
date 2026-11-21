@@ -20,9 +20,9 @@ Region
 
 **General**
 
-**Type:** Industrial\|-
+**Type:** Industrial
 
-Has an interior\|-
+Has an interior
 
 **Missions:** [The Power Plant](./The%20Power%20Plant.md) / [Donner](./Donner.md)
 

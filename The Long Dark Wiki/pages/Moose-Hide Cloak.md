@@ -18,7 +18,7 @@ _Moose-Hide\_Cloak\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Clothing Slot:** Outer torso
 

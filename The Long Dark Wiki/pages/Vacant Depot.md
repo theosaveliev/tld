@@ -14,13 +14,13 @@ _Vacant\_Depot.png_
 
 _Vacant\_Depot\_Location.png_
 
-**Region:** [Transfer Pass](./Transfer%20Pass.md)\|-
+**Region:** [Transfer Pass](./Transfer%20Pass.md)
 
 **Description:** An abandoned train station next to a coal tipple and water tower.
 
 **General**
 
-**Type:** Industrial\|-
+**Type:** Industrial
 
 ![The timetable outside](../assets/Vacant_Depot_Timetable.jpg)
 

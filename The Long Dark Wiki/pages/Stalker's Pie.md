@@ -28,7 +28,7 @@ _Stalker's\_Pie\_icon.png_
 
 **Properties**
 
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)
 
 **Values**
 

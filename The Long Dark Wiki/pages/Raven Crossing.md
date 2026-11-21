@@ -14,8 +14,8 @@ _SS-BI-RavenCrossing01.jpg_
 
 _Raven\_Crossing\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

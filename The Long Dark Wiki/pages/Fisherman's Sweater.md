@@ -10,7 +10,7 @@ _Fisherman's\_Sweater\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Clothing Slot:** Inner torso
 

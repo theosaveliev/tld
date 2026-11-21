@@ -24,7 +24,7 @@ _Forgotten\_Exploration\_Location.png_
 
 Region
 
-[Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+[Zone of Contamination](./Zone%20of%20Contamination.md)
 
 Description
 

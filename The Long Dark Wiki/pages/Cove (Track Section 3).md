@@ -28,7 +28,7 @@ _Cove\_Track\_3\_Location.png_
 
 Region
 
-[Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md)\|-
+[Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md)
 
 Location
 

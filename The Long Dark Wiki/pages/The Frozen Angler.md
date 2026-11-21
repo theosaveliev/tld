@@ -24,7 +24,7 @@ _The\_Frozen\_Angler\_icon.png_
 
 **Properties**
 
-**Item type:** [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|-
+**Item type:** [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)
 
 **Stackable:** No
 

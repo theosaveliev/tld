@@ -22,7 +22,7 @@ Region
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![The road from Milton leading to the Church and Graveyard through the Wood Lot](../assets/St._Christopher%27s_Church_2.png)
 

@@ -14,6 +14,6 @@ _Broken\_Bridge.jpg_
 
 _Broken\_Bridge\_(Desolation\_Point\_location)\_Location.png_
 
-**Region:** [Desolation Point](./Desolation%20Point.md)\|-
+**Region:** [Desolation Point](./Desolation%20Point.md)
 
-**Type:** Landmark\|-
+**Type:** Landmark

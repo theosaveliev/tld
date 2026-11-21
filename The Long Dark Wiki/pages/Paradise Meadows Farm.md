@@ -47,7 +47,7 @@ _Paradise\_Meadows\_Farm\_Location.png_
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)\|-
+[Mountain Town](./Mountain%20Town.md)
 
 Location
 
@@ -57,7 +57,7 @@ Location
 
 Type
 
-Residential\|-
+Residential
 
 Firebox
 
@@ -71,7 +71,7 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench
 
 **Missions:** [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3)
 

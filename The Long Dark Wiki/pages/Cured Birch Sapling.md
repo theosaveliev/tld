@@ -16,7 +16,7 @@ _Cured\_Birch\_Sapling\_icon.png_
 
 **Properties**
 
-**Item type:** [Materials](./Materials.md)\|-
+**Item type:** [Materials](./Materials.md)
 
 **Stackable:** No
 

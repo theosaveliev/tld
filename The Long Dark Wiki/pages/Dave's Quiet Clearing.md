@@ -14,10 +14,10 @@ _Dave's\_quiet\_clearing.jpg_
 
 _Dave's\_Quiet\_Clearing\_Location.png_
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 **Description:** A cave-like formation with a mostly open roof.
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

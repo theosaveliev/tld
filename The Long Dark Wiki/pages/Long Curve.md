@@ -14,8 +14,8 @@ _Longcurveupdated.png_
 
 _Long\_Curve\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

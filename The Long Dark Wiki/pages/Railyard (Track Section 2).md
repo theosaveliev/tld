@@ -28,7 +28,7 @@ _Railyard\_Track\_2\_Location.png_
 
 Region
 
-[Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)\|-
+[Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)
 
 Location
 

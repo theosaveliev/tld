@@ -14,7 +14,7 @@ _Improvised\_Down\_Bedroll\_icon.png_
 
 **General**
 
-**Item Type:** Tool\|-
+**Item Type:** Tool
 
 **Statistics**
 

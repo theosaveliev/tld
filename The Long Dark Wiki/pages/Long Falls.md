@@ -14,6 +14,6 @@ _Long\_Falls.png_
 
 _Long\_Falls\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
-**Type:** Landmark\|-
+**Type:** Landmark

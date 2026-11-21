@@ -14,10 +14,10 @@ _Valley\_View\_Point.jpg_
 
 _Valley\_View\_Point\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 **Description:** A lookoff offering a view of [Valley Cave](./Valley%20Cave.md) and area.
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

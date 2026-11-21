@@ -14,7 +14,7 @@ _305620\_20160918104124\_1.png_
 
 _Pleasant\_Valley\_Outbuildings\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **Firebox:** [Fire Barrel](./Fire%20Barrel.md)
 
@@ -28,4 +28,4 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

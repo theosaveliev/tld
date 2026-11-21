@@ -28,7 +28,7 @@ _Bridge\_Track\_Section\_1\_Location.png_
 
 Region
 
-[Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md)\|-
+[Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md)
 
 Location
 

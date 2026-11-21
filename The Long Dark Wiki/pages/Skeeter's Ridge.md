@@ -14,11 +14,11 @@ _Skeeters\_ridge.jpg_
 
 _Skeeter's\_Ridge\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors
 
 ![](../assets/Skeeters_ridge_basement_door.jpg)
 

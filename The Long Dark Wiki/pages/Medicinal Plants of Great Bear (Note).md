@@ -14,7 +14,7 @@ _Medicinal\_Plants\_of\_Great\_Bear\_(Note)\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)\|-
+**Item type:** [Collectibles](./Collectibles.md)
 
 **Stackable:** No
 

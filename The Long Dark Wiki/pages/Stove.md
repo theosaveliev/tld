@@ -10,7 +10,7 @@ _Stove.png_
 
 **General**
 
-**Type:** Fire Starting\|-
+**Type:** Fire Starting
 
 **Cooking slots:** 6
 

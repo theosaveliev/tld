@@ -10,7 +10,7 @@ _The Bunkhouse next to the Radar dome_
 
 **Location**
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **Firebox:** [Pot Belly Stove](./Pot%20Belly%20Stove.md)
 

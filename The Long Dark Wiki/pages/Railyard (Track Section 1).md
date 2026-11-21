@@ -18,7 +18,7 @@ _No\_picture.png_
 
 _Railyard\_Track\_Section\_1\_Location.png_
 
-**Region:** [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md)\|-
+**Region:** [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md)
 
 **Description:** 2 railyards
 

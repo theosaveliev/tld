@@ -14,6 +14,6 @@ _Prayerful\_Window.jpg_
 
 _Prayerful\_Window\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **General**

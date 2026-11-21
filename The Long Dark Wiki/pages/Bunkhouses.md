@@ -14,6 +14,6 @@ _Forlorn\_Muskeg\_Bunkhouses.jpg_
 
 _Bunkhouses\_Location.png_
 
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|-
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

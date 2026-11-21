@@ -14,6 +14,6 @@ _Cave\_in\_Desolation\_Point\_interior\_entrance.jpg_
 
 _Cave\_(Desolation\_Point\_location)\_Location.png_
 
-**Region:** [Desolation Point](./Desolation%20Point.md)\|-
+**Region:** [Desolation Point](./Desolation%20Point.md)
 
-**Type:** Cave\|-
+**Type:** Cave

@@ -17,7 +17,7 @@ _Newsprint\_Roll\_icon.png_
 
 **General**
 
-**Item Type:** Fire Starting\|-
+**Item Type:** Fire Starting
 
 **Firestarting Slot:** Tinder
 

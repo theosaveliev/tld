@@ -14,6 +14,6 @@ _Marsh\_Ridge\_aerial\_view.jpg_
 
 _Marsh\_Ridge\_Location.png_
 
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|-
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

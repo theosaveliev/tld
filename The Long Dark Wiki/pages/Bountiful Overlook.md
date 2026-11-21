@@ -14,6 +14,6 @@ _Bountiful\_Overlook.jpg_
 
 _Bountiful\_Overlook\_Location.png_
 
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 **General**

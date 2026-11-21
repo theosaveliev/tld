@@ -10,7 +10,7 @@ _Fire\_place.png_
 
 **General**
 
-**Type:** Fire Starting\|-
+**Type:** Fire Starting
 
 **Cooking slots:** 2
 

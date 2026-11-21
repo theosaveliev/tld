@@ -24,7 +24,7 @@ _Crashed\_Prison\_Transport\_Bus\_Location.png_
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)\|-
+[Mountain Town](./Mountain%20Town.md)
 
 Location
 
@@ -32,7 +32,7 @@ Location
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors
 
 **Missions:** [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3)
 

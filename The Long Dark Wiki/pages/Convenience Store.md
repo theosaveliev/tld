@@ -31,7 +31,7 @@ _Orca\_Gas\_Station\_Location.png_
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)\|-
+[Mountain Town](./Mountain%20Town.md)
 
 Location
 
@@ -41,7 +41,7 @@ Location
 
 Type
 
-Store\|-
+Store
 
 Firebox
 

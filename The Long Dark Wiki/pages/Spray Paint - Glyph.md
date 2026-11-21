@@ -20,7 +20,7 @@ _Spray\_Paint\_-\_Glyph\_icon.png_
 
 **General**
 
-**Item Type:** Tool\|-
+**Item Type:** Tool
 
 **Statistics**
 

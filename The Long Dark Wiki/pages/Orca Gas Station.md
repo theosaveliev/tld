@@ -21,15 +21,15 @@ _SS-MT-Orca-04.jpg_
 
 _Orca\_Gas\_Station\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **Description:** An abandoned gas station
 
 **General**
 
-**Type:** Store\|-
+**Type:** Store
 
-Has an interior\|-
+Has an interior
 
 **Missions:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

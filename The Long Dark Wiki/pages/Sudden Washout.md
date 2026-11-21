@@ -14,10 +14,10 @@ _Sudden\_Washout.png_
 
 _Sudden\_Washout\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **Description:** A cave
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave

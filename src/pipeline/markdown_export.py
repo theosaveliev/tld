@@ -1602,9 +1602,7 @@ def _render_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
 
 def _render_generic_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     """Convert ordinary HTML tables to Markdown, dropping empty spacer columns."""
-    rendered_rows = [
-        [_markdown_table_cell(cell) for cell in row] for row in rows
-    ]
+    rendered_rows = [[_markdown_table_cell(cell) for cell in row] for row in rows]
     width = max(len(row) for row in rendered_rows)
     retained_columns = [
         index
@@ -1879,9 +1877,7 @@ def _contains_custom_render_table(fragment: str) -> bool:
         "gallery" in (table.get("class") or "").split()
         or any(_html_tag(child) == "img" for child in table.iter())
         or any(
-            sum(
-                _html_tag(cell) in {"td", "th"} for cell in row
-            )
+            sum(_html_tag(cell) in {"td", "th"} for cell in row)
             > WIDE_TABLE_COLUMN_THRESHOLD
             for row in table.iter("tr")
         )

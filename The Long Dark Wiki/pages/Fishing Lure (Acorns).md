@@ -14,7 +14,7 @@ _Fishing\_Lure\_(Acorns)\_icon.png_
 
 **Properties**
 
-**Item type:** [Tools](./Tools.md)\|-
+**Item type:** [Tools](./Tools.md)
 
 **Stackable:** No
 

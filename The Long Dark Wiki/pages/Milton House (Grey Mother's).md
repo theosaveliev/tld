@@ -21,13 +21,13 @@ _Milton\_House\_(Grey\_Mother's).png_
 
 _Milton\_House\_(Grey\_Mother's)\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **Description:** A large two-story house with a lit fireplace
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Bed_icon.png)
 
@@ -35,7 +35,7 @@ _bed\_icon.png_
 
 Has a bed
 
-Has an interior\|-
+Has an interior
 
 **Missions:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 

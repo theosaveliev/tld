@@ -14,6 +14,6 @@ _Idle\_Hideout.jpg_
 
 _Idle\_Hideout\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **General**

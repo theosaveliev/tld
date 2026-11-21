@@ -17,7 +17,7 @@ _Prybar\_icon.png_
 
 **General**
 
-**Item Type:** Tool\|-
+**Item Type:** Tool
 
 **Statistics**
 

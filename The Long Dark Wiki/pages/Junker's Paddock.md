@@ -14,7 +14,7 @@ _Junker.jpg_
 
 _Junker's\_Paddock\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **General**
 
@@ -30,4 +30,4 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

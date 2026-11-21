@@ -21,7 +21,7 @@ _McLeod\_Ultra-Efficiency\_Whale\_Oil\_Heater\_icon.png_
 
 **General**
 
-**Item Type:** Tool\|-
+**Item Type:** Tool
 
 **Renewable:** No
 

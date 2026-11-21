@@ -14,7 +14,7 @@ _Terminal.jpg_
 
 _Terminal\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **Description:** An air baggage claims building next to the [Control Tower](./Control%20Tower.md)
 

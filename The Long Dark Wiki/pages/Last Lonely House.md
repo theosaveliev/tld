@@ -14,13 +14,13 @@ _Last\_Lonely\_House\_resized.png_
 
 _Last\_Lonely\_House\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **Description:** A small cabin atop a ridge.
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Bed_icon.png)
 
@@ -32,4 +32,4 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

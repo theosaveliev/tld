@@ -10,7 +10,7 @@ _Tactical\_Gloves\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Statistics**
 

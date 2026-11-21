@@ -14,7 +14,7 @@ _Distress\_Pistol\_Kit\_icon.png_
 
 **General**
 
-**Item Type:** Tool\|-
+**Item Type:** Tool
 
 **Weight:** ![weight\_icon.png](../assets/Weight_icon.png)5.00 kg(11 lbs)
 

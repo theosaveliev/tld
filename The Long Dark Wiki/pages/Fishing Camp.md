@@ -20,7 +20,7 @@ _Fishing\_Camp\_map.png_
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)\|-
+[Coastal Highway](./Coastal%20Highway.md)
 
 Location
 
@@ -28,7 +28,7 @@ Location
 
 Type
 
-Residential\|-
+Residential
 
 ![](../assets/Bed_icon.png)
 
@@ -38,4 +38,4 @@ _bed\_icon.png_
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

@@ -14,9 +14,9 @@ _SS-PV-3strike-001.jpg_
 
 _Three\_Strikes\_Farmstead\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors
 
 ![](../assets/SS-PV-3strike-001.jpg)
 

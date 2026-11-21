@@ -14,8 +14,8 @@ _HushedRiverValleyFromPensiveVista.png_
 
 _Hushed\_River\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

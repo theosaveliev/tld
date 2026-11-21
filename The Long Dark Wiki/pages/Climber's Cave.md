@@ -14,6 +14,6 @@ _20201212011633\_1.jpg_
 
 _Climber's\_Cave\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
-**Type:** Cave\|-
+**Type:** Cave

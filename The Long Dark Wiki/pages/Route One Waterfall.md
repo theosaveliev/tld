@@ -14,6 +14,6 @@ _Route\_One\_Waterfall.jpg_
 
 _Route\_One\_Waterfall\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **General**

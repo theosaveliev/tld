@@ -14,13 +14,13 @@ _Lotte's\_Rest\_.jpg_
 
 _Lotte's\_Rest\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **Description:** A small cabin atop a ridge.
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Bed_icon.png)
 

@@ -14,7 +14,7 @@ _Seedling\_Spring.jpg_
 
 _Seedling\_Spring\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **Description:** a small pond in the forest.
 

@@ -26,13 +26,13 @@ _SS-BI-Cannery03.jpg_
 
 _Last\_Resort\_Cannery\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **Description:** Fenced Industrial compound
 
 **General**
 
-**Type:** Industrial\|-
+**Type:** Industrial
 
 ![Cannery](../assets/SS-BI-Cannery01.jpg)
 

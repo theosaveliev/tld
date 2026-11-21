@@ -14,7 +14,7 @@ _Blackrock\_Prisoner\_Release\_Record\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)\|-
+**Item type:** [Collectibles](./Collectibles.md)
 
 **Stackable:** No
 

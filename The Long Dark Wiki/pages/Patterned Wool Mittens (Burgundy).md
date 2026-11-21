@@ -10,7 +10,7 @@ _Patterned\_Wool\_Mittens\_(Burgundy)\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Clothing Slot:** Hands
 

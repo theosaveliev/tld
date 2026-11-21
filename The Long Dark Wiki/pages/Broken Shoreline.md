@@ -18,7 +18,7 @@ _Broken\_Shoreline.jpg_
 
 _Broken\_Shoreline\_Location.png_
 
-**Region:** [Port Remnant](./Port%20Remnant.md)\|-
+**Region:** [Port Remnant](./Port%20Remnant.md)
 
 **Description:** A partially sunken ship frozen in the water
 

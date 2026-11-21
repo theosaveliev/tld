@@ -14,6 +14,6 @@ _River\_Southern\_Access.png_
 
 _River\_(Southern\_Access)\_Location.png_
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 **General**

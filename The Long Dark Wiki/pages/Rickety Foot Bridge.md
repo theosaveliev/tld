@@ -14,6 +14,6 @@ _Broken\_railroad\_hidden\_bridge.jpg_
 
 _Rickety\_Foot\_Bridge\_Location.png_
 
-**Region:** [Broken Railroad](./Broken%20Railroad.md)\|-
+**Region:** [Broken Railroad](./Broken%20Railroad.md)
 
-**Type:** Landmark\|-
+**Type:** Landmark

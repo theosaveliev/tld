@@ -17,7 +17,7 @@ _Stump\_Remover\_icon.png_
 
 **General**
 
-**Item Type:** Material\|-
+**Item Type:** Material
 
 **Renewable:** Yes (very rare [Beachcombing](./Beachcombing.md))
 

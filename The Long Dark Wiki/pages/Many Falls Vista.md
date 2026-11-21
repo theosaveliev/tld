@@ -10,10 +10,10 @@ _ManyFallsVistaView.png_
 
 **Location**
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 **Description:** A lookoff over the eastern Hushed River Valley.
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

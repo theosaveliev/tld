@@ -18,7 +18,7 @@ _Forgotten\_Trestle.jpg_
 
 _Forgotten\_Trestle\_Location.png_
 
-**Region:** [Port Remnant](./Port%20Remnant.md)\|-
+**Region:** [Port Remnant](./Port%20Remnant.md)
 
 **Description:** A small train bridge near [Obstructed Transit](./Obstructed%20Transit.md)
 

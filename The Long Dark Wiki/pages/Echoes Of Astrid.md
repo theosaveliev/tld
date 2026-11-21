@@ -17,7 +17,7 @@
 
 _Echoes\_Of\_Astrid.jpg_
 
-**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
 **Previous:** [Survival Of The Fittest](./Survival%20Of%20The%20Fittest.md)
 

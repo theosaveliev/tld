@@ -14,10 +14,10 @@ _Hunters\_blind2.jpg_
 
 _Hunter's\_Blind\_Location.png_
 
-**Region:** [Broken Railroad](./Broken%20Railroad.md)\|-
+**Region:** [Broken Railroad](./Broken%20Railroad.md)
 
 **Description:** A [Hunters Blind](./Hunter%27s%20Blinds.md) overlooking a lake
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

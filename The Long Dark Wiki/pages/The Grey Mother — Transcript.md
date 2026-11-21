@@ -17,7 +17,7 @@
 
 _The\_Grey\_Mother.png_
 
-**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
 **Previous:** [The Crash/Transcript](./The%20Crash%20%E2%80%94%20Transcript.md)
 

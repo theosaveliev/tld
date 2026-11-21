@@ -14,10 +14,10 @@ _Monolith\_Lake\_from\_Peak\_Cave.png_
 
 _Monolith\_Lake\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 **Description:** A large lake.
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

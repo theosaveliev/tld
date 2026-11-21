@@ -24,7 +24,7 @@ _Trapper's\_Homestead\_Location.png_
 
 Region
 
-[Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+[Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 Location
 
@@ -34,7 +34,7 @@ Location
 
 Type
 
-Military/Sporting\|-
+Military/Sporting
 
 Firebox
 
@@ -48,4 +48,4 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

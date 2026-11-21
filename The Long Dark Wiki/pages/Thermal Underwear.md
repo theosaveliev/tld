@@ -10,7 +10,7 @@ _Thermal\_Underwear\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Clothing Slot:** Inner legs
 

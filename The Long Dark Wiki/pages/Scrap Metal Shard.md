@@ -24,7 +24,7 @@ _Scrap\_Metal\_Shard\_icon.png_
 
 **General**
 
-**Item Type:** Tool\|-
+**Item Type:** Tool
 
 **Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
 

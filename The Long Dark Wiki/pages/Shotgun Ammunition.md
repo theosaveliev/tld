@@ -33,7 +33,7 @@ _Slug_
 
 Item type
 
-[Tools](./Tools.md)\|-
+[Tools](./Tools.md)
 
 Equipable
 

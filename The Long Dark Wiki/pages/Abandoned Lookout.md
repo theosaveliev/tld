@@ -23,13 +23,13 @@ _new\_forestry\_lookout.jpg_
 
 _Abandoned\_Lookout\_map.png_
 
-**Region:** [Coastal Highway](./Coastal%20Highway.md)\|-
+**Region:** [Coastal Highway](./Coastal%20Highway.md)
 
 **Description:** A fire lookout tower
 
 **General**
 
-**Type:** Military/Sporting\|-
+**Type:** Military/Sporting
 
 ![](../assets/Bed_icon.png)
 

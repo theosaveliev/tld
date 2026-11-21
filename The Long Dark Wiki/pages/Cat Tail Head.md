@@ -23,7 +23,7 @@ _Cat\_Tail\_Head\_icon.png_
 
 **Properties**
 
-**Item type:** [Fire Starting](./Fire%20Starting.md)\|-
+**Item type:** [Fire Starting](./Fire%20Starting.md)
 
 **Stackable:** Yes
 

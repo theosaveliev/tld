@@ -14,13 +14,13 @@ _Miserable\_Haunt.jpg_
 
 _Miserable\_Haunt\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **Description:** A cave in the southwestern most section of the map
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave
 
 ![The rock climb leading to the cave](../assets/Miserable_Haunt_Climb.jpg)
 

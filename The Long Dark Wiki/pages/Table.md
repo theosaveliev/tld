@@ -51,7 +51,7 @@ _Dining_
 
 Wintermute
 
-Yes\|-
+Yes
 
 **Statistics**
 

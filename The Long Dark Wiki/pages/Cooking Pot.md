@@ -24,7 +24,7 @@ _Cooking\_Pot\_icon.png_
 
 **Properties**
 
-**Item type:** [Tools](./Tools.md)\|-
+**Item type:** [Tools](./Tools.md)
 
 **Stackable:** No
 

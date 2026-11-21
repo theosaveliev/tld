@@ -14,8 +14,8 @@ _20201209231328\_1.jpg_
 
 _Wolf's\_Jaw\_Overlook\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

@@ -10,7 +10,7 @@ _Broken\_Arrow\_icon.png_
 
 **General**
 
-**Item Type:** Tool\|-
+**Item Type:** Tool
 
 **Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
 

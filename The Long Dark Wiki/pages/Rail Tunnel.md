@@ -14,8 +14,8 @@ _Rail\_Tunnel.jpg_
 
 _Rail\_Tunnel\_Location.png_
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

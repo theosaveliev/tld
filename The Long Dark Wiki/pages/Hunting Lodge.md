@@ -26,13 +26,13 @@ _Hunting\_lodge.jpg_
 
 _Hunting\_Lodge\_Location.png_
 
-**Region:** [Broken Railroad](./Broken%20Railroad.md)\|-
+**Region:** [Broken Railroad](./Broken%20Railroad.md)
 
 **Description:** A two-story house
 
 **General**
 
-**Type:** ResidentialMilitary/Sporting\|-
+**Type:** ResidentialMilitary/Sporting
 
 ![](../assets/Bed_icon.png)
 
@@ -44,7 +44,7 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench
 
 **Missions:** [The Best Defense](./Episode%202%20-%20Luminance%20Fugue.md#The_Best_Defense%3F)
 

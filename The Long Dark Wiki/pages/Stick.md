@@ -24,7 +24,7 @@ _Stick\_icon.png_
 
 **Properties**
 
-**Item type:** [Fire Starting](./Fire%20Starting.md)[Materials](./Materials.md)\|-
+**Item type:** [Fire Starting](./Fire%20Starting.md)[Materials](./Materials.md)
 
 **Stackable:** Yes
 

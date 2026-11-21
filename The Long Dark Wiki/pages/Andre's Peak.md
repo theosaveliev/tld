@@ -14,10 +14,10 @@ _andres\_peak.jpg_
 
 _Andre's\_Peak\_Location.png_
 
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 **Description:** A small area on the top of a hill
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

@@ -28,7 +28,7 @@ _Before Crash_
 
 Item Type
 
-Clothing\|-
+Clothing
 
 Wintermute
 

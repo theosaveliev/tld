@@ -22,7 +22,7 @@ Region
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![Graveyard in front of St. Christopher's Church](../assets/Graveyard.png)
 

@@ -14,8 +14,8 @@ _Buildersbridge.png_
 
 _Builder's\_Bridge\_Location.png_
 
-**Region:** [Keeper's Pass North](./Keeper%27s%20Pass%20North.md)\|-
+**Region:** [Keeper's Pass North](./Keeper%27s%20Pass%20North.md)
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

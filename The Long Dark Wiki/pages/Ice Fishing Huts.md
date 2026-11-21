@@ -18,4 +18,4 @@ Region
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

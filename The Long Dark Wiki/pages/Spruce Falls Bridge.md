@@ -14,10 +14,10 @@ _Spruce Falls Bridge with a sign to [Milton](./Milton.md)_
 
 _Spruce\_Falls\_Bridge\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **Description:** A bridge
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

@@ -14,7 +14,7 @@ _Bunker\_Gamma.jpg_
 
 _Bunker\_Gamma\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 **Description:** A reinforced underground shelter.
 
@@ -30,4 +30,4 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

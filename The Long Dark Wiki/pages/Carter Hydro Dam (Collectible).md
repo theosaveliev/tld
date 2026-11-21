@@ -12,7 +12,7 @@ _Carter\_Hydro\_Dam\_(Collectible)\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)\|-
+**Item type:** [Collectibles](./Collectibles.md)
 
 **Stackable:** No
 

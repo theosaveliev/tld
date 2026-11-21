@@ -17,7 +17,7 @@ _Jeremiah's\_Bearskin\_Coat\_icon.png_
 
 **General**
 
-**Item Type:** Clothing\|-
+**Item Type:** Clothing
 
 **Statistics**
 

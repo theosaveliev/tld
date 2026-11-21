@@ -14,8 +14,8 @@ _Stony.png_
 
 _Stoney\_Passage\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave

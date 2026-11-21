@@ -14,6 +14,6 @@ _Ravine\_Basin.jpg_
 
 _Ravine\_Basin\_Location.png_
 
-**Region:** [The Ravine](./The%20Ravine.md)\|-
+**Region:** [The Ravine](./The%20Ravine.md)
 
 **General**

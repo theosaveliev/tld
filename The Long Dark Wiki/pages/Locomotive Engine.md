@@ -14,10 +14,10 @@ _locomotive\_engine.jpg_
 
 _Locomotive\_Engine\_Location.png_
 
-**Region:** [Broken Railroad](./Broken%20Railroad.md)\|-
+**Region:** [Broken Railroad](./Broken%20Railroad.md)
 
 **Description:** A derailed train
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

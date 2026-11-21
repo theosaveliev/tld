@@ -18,7 +18,7 @@ _Sewing\_Kit\_icon.png_
 
 **General**
 
-**Item Type:** Tool\|-
+**Item Type:** Tool
 
 **Renewable:** Yes
 

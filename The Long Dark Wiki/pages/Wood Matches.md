@@ -17,7 +17,7 @@ _Wood\_Matches\_icon.png_
 
 **General**
 
-**Item Type:** Fire Starting\|-
+**Item Type:** Fire Starting
 
 **Renewable:** Yes
 

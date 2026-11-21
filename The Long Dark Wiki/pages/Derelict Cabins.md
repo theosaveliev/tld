@@ -14,10 +14,10 @@ _Derelict\_Cabins.jpg_
 
 _Derelict\_Cabins\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **Description:** Several burnt-out cabins
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

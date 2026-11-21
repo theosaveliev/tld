@@ -14,6 +14,6 @@ _20170304105847\_1.jpg_
 
 _Hat\_Creek\_Location.png_
 
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|-
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
-**Type:** Landmark\|-
+**Type:** Landmark

@@ -14,6 +14,6 @@ _Forlorn\_Muskleg\_High\_Blind.jpg_
 
 _High\_Blind\_Location.png_
 
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|-
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

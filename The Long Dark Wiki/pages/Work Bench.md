@@ -34,7 +34,7 @@ _Wood_
 
 Wintermute
 
-Yes\|-
+Yes
 
 **Statistics**
 

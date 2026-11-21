@@ -16,7 +16,7 @@ _Abandoned\_Mine\_No.3\_(West)\_interior.jpg_
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)\|-
+[Coastal Highway](./Coastal%20Highway.md)
 
 Location
 
@@ -24,7 +24,7 @@ Location
 
 Type
 
-Cave\|-
+Cave
 
 ![](../assets/Workbench_icon_green.png)
 

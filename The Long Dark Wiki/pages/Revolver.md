@@ -41,7 +41,7 @@ _Revolver\_icon.png_
 
 **General**
 
-**Item Type:** Tool\|-
+**Item Type:** Tool
 
 **Renewable:** Yes ([Trader](./Trader.md) only)
 

@@ -16,7 +16,7 @@
 
 _Missions\_story\_ep3\_Triage.png_
 
-**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|-
+**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 
 **Previous:** [Trauma/Transcript](./Trauma%20%E2%80%94%20Transcript.md)
 

@@ -18,7 +18,7 @@ _Lighthouse\_Keepers\_Cabin.png_
 
 _Lighthouse\_(Port\_Remnant)\_Location.png_
 
-**Region:** [Port Remnant](./Port%20Remnant.md)\|-
+**Region:** [Port Remnant](./Port%20Remnant.md)
 
 **Description:** A lighthouse keeper's cabin
 

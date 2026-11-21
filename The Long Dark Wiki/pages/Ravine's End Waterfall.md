@@ -14,6 +14,6 @@ _SS-BI-Ravine'sEndWaterfall.jpg_
 
 _Ravine's\_End\_Waterfall\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

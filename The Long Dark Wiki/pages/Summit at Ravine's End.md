@@ -14,7 +14,7 @@ _Summit\_at\_Ravine's\_End.jpg_
 
 _Summit\_at\_Ravine's\_End\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 ![](../assets/Bed_icon.png)
 

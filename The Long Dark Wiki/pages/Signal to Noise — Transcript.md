@@ -8,7 +8,7 @@
 
 _Missions\_story\_ep2\_Signal\_to\_Noise.png_
 
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|-
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
 **Previous:** [The Best Defense/Transcript](./The%20Best%20Defense%20%E2%80%94%20Transcript.md)
 

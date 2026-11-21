@@ -14,6 +14,6 @@ _Canyon.jpg_
 
 **Location**
 
-**Region:** [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md)\|-
+**Region:** [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md)
 
 **General**

@@ -14,10 +14,10 @@ _A 'Climbing Area' signpost for the Picnic Area_
 
 _Picnic\_Area\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **Description:** A picnic spot and climbing area
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

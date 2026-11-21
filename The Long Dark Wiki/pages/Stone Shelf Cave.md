@@ -14,6 +14,6 @@ _20201212003001\_1.jpg_
 
 _Stone\_Shelf\_Cave\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
-**Type:** Cave\|-
+**Type:** Cave

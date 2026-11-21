@@ -14,10 +14,10 @@ _Landslide\_HRV.png_
 
 _Landslide\_HRV\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 **Description:** A landslide across the river.
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

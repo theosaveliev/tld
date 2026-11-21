@@ -12,7 +12,7 @@ _SwitchBox.jpg_
 
 **Item Type:** Item
 
-**Wintermute:** Yes\|-
+**Wintermute:** Yes
 
 **Harvest:** 30 minutes 2 x [Scrap Metal](./Scrap%20Metal.md)
 

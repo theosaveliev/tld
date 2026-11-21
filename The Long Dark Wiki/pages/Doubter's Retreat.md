@@ -10,8 +10,8 @@ _Doubter's\_Retreat.jpg_
 
 **Location**
 
-**Region:** [Perseverance Wilds](./Perseverance%20Wilds.md)\|-
+**Region:** [Perseverance Wilds](./Perseverance%20Wilds.md)
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential

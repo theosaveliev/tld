@@ -12,7 +12,7 @@ _Lily's\_Map\_icon.png_
 
 Item Type
 
-**Wintermute:** Yes\|-
+**Wintermute:** Yes
 
 **Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.0 kg(0 lbs)
 

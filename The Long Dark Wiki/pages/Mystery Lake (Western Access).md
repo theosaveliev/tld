@@ -14,8 +14,8 @@ _Mystery\_Lake\_(Western\_Access)\_photo.jpg_
 
 _Mystery\_Lake\_(Western\_Access)\_Location.png_
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

@@ -14,10 +14,10 @@ _[Milton](./Milton.md)'s Old Schoolhouse._
 
 _Old\_Schoolhouse\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **Description:** A destroyed schoolhouse
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

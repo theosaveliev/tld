@@ -14,9 +14,9 @@ _Draft\_Dodger's\_Cabin.jpg_
 
 _Draft\_Dodger's\_Cabin\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Bed_icon.png)
 

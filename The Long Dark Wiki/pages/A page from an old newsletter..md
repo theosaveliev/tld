@@ -12,7 +12,7 @@ _A\_page\_from\_an\_old\_newsletter.\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)\|-
+**Item type:** [Collectibles](./Collectibles.md)
 
 **Stackable:** No
 

@@ -14,8 +14,8 @@ _Katie's\_secluded\_corner.jpg_
 
 _Katie's\_Secluded\_Corner\_Location.png_
 
-**Region:** [Desolation Point](./Desolation%20Point.md)\|-
+**Region:** [Desolation Point](./Desolation%20Point.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

@@ -24,7 +24,7 @@ _Misty\_Falls\_Picnic\_Area\_Location.png_
 
 Region
 
-[Pleasant Valley](./Pleasant%20Valley.md)\|-
+[Pleasant Valley](./Pleasant%20Valley.md)
 
 Location
 
@@ -32,4 +32,4 @@ Location
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

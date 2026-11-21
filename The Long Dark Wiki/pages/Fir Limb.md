@@ -22,7 +22,7 @@ Item Type
 
 Wintermute
 
-Yes\|-
+Yes
 
 **Statistics**
 

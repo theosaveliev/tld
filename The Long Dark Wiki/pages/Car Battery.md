@@ -21,7 +21,7 @@ _Car\_Battery\_icon.png_
 
 **General**
 
-**Item Type:** Tool\|-
+**Item Type:** Tool
 
 **Statistics**
 

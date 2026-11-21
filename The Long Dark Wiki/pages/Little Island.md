@@ -14,6 +14,6 @@ _Little\_Island\_01.jpg_
 
 _Little\_Island\_Location.png_
 
-**Region:** [Desolation Point](./Desolation%20Point.md)\|-
+**Region:** [Desolation Point](./Desolation%20Point.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

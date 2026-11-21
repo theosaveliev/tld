@@ -14,11 +14,11 @@ _AnglersDenOutside\_1080p.png_
 
 _Angler's\_Den\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
 **General**
 
-**Type:** Military/Sporting\|-
+**Type:** Military/Sporting
 
 ![](../assets/Bed_icon.png)
 
@@ -30,4 +30,4 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

@@ -20,8 +20,8 @@ _Bear\_Creek\_Campground\_map.png_
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)\|-
+[Coastal Highway](./Coastal%20Highway.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

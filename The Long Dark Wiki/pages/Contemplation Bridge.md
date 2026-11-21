@@ -14,8 +14,8 @@ _Contemplation\_Bridge.jpg_
 
 _Contemplation\_Bridge\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

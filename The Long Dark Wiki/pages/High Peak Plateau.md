@@ -14,7 +14,7 @@ _High\_Peak\_Plateau\_Area.jpg_
 
 _High\_Peak\_Plateau\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **General**
 

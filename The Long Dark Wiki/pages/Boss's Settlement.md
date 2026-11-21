@@ -14,4 +14,4 @@ _Boss's\_Settlement.jpg_
 
 _Boss's\_Settlement\_Location.png_
 
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)

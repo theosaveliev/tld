@@ -8,7 +8,7 @@
 
 _Paradise\_Lost.png_
 
-**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
 **Previous:** [The Grey Mother/Transcript](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md)
 

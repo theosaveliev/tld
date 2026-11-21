@@ -14,13 +14,13 @@ _Grip's\_Cave.jpg_
 
 _Grip's\_Cave\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **Description:** A cave on a ridge
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave
 
 ![A Wolf Carcass and a corpse of a hunter inside the cave](../assets/Grip%27s_Cave_inside.jpg)
 

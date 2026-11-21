@@ -14,13 +14,13 @@ _Milton\_Credit\_Union\_exterior.jpg_
 
 _Milton\_Credit\_Union\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **Description:** A former bank with several rooms, including a bank vault.
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 **Missions:** [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3)
 

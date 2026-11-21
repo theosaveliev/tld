@@ -20,7 +20,7 @@ _Marine\_Flare\_icon.png_
 
 **General**
 
-**Item Type:** Tool\|-
+**Item Type:** Tool
 
 **Firestarting Slot:** Starter
 

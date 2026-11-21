@@ -14,10 +14,10 @@ _The\_Arch\_-\_Milton.jpg_
 
 _The\_Arch\_Mountain\_Town\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **Description:** A natural stone arch formation
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

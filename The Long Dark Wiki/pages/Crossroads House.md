@@ -27,7 +27,7 @@ _Shed_
 
 Region
 
-[Pleasant Valley](./Pleasant%20Valley.md)\|-
+[Pleasant Valley](./Pleasant%20Valley.md)
 
 Location
 
@@ -35,7 +35,7 @@ Location
 
 Type
 
-Residential\|-
+Residential
 
 Firebox
 

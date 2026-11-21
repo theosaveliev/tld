@@ -17,7 +17,7 @@
 
 _One of the rewards for this mission is a [Distress Pistol](./Distress%20Pistol.md)_
 
-**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
 **Current:** Highway Robbery (mission)
 

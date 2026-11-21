@@ -14,8 +14,8 @@ _Waterfall\_cave.jpg_
 
 _Waterfall\_Cave\_Location.png_
 
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave

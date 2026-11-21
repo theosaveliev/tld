@@ -14,6 +14,6 @@ _Broad\_Aerie.jpg_
 
 _Broad\_Aerie\_Location.png_
 
-**Region:** [Transfer Pass](./Transfer%20Pass.md)\|-
+**Region:** [Transfer Pass](./Transfer%20Pass.md)
 
 **General**

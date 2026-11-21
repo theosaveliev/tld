@@ -14,13 +14,13 @@ _20201210111120\_1.jpg_
 
 _Bitter\_Marsh\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
 **Description:** A small, shallow lake with a destroyed fishing hut.
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark
 
 ![Sunset at Bitter Marsh](../assets/20201210111520_1.jpg)
 

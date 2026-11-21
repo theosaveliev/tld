@@ -14,6 +14,6 @@ _High\_Meadows.jpg_
 
 _High\_Meadow\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

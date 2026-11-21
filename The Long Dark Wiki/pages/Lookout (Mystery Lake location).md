@@ -14,6 +14,6 @@ _lookout\_closeup.jpg_
 
 _Lookout\_Location.png_
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

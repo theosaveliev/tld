@@ -18,7 +18,7 @@ _Scrap\_Metal\_icon.png_
 
 **General**
 
-**Item Type:** Material\|-
+**Item Type:** Material
 
 **Renewable:** Yes ([Beachcombing](./Beachcombing.md))
 

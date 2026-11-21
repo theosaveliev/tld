@@ -18,8 +18,8 @@ _Cave\_(Timberwolf\_Mountain\_location\_1)\_exterior.jpg_
 
 Region
 
-[Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+[Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave

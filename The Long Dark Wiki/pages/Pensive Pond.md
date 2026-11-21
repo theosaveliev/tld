@@ -14,11 +14,11 @@ _SS-PV-PensivePond\_(1).jpg_
 
 _Pensive\_Pond\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors
 
 ![](../assets/SS-PV-PensivePond_%281%29.jpg)
 

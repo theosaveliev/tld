@@ -28,7 +28,7 @@ _Sheltered\_Access\_Location.png_
 
 Region
 
-[Port Remnant](./Port%20Remnant.md)\|-
+[Port Remnant](./Port%20Remnant.md)
 
 Location
 

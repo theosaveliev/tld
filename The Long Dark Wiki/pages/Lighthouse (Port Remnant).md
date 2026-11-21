@@ -18,7 +18,7 @@ _Lighthouse\_(Port\_Remnant).jpg_
 
 _Lighthouse\_(Port\_Remnant)\_Location.png_
 
-**Region:** [Port Remnant](./Port%20Remnant.md)\|-
+**Region:** [Port Remnant](./Port%20Remnant.md)
 
 **Description:** A ruined lighthouse with an interior cave system below it.
 

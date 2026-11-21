@@ -14,10 +14,10 @@ _Milton\_basin\_aerial\_view.jpg_
 
 _Milton\_Basin\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **Description:** A large lake that connects to [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

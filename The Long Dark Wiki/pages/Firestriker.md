@@ -22,7 +22,7 @@ _firestriker\_icon.png_
 
 **General**
 
-**Item Type:** Fire Starting\|-
+**Item Type:** Fire Starting
 
 **Renewable:** Yes ([Trader](./Trader.md) only)
 

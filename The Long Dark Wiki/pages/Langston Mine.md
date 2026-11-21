@@ -14,7 +14,7 @@ _Langston\_Mine\_Outside\_Buildings.png_
 
 _Langston\_Mine\_Location.png_
 
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 ![](../assets/Bed_icon.png)
 
@@ -24,4 +24,4 @@ _bed\_icon.png_
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

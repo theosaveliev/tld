@@ -14,6 +14,6 @@ _20201212011141\_1.jpg_
 
 _Pillar's\_Footrest\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
-**Type:** Landmark\|-
+**Type:** Landmark

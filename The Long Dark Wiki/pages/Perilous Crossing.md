@@ -14,7 +14,7 @@ _Perilous\_Crossing.jpg_
 
 _Perilous\_Crossing\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **General**
 

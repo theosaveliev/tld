@@ -22,4 +22,4 @@ _The\_Tooth\_map.png_
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

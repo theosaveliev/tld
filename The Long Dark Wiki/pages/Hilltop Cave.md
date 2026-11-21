@@ -24,13 +24,13 @@ _Hilltop\_Cave\_Location.png_
 
 Region
 
-[Pleasant Valley](./Pleasant%20Valley.md)\|-
+[Pleasant Valley](./Pleasant%20Valley.md)
 
 **General**
 
 Type
 
-Cave\|-
+Cave
 
 ![](../assets/Bed_icon.png)
 

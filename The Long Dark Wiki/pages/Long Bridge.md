@@ -14,7 +14,7 @@ _Screen\_ff04f5c7-2496-4839-b372-ddcf19507a70\_hi.jpg_
 
 _Long\_Bridge\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **Description:** The long bridge connecting both sides of the region
 

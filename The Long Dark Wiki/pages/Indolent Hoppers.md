@@ -14,7 +14,7 @@ _Indolent\_Hoppers.jpg_
 
 _Indolent\_Hoppers\_Location.png_
 
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 **Description:** A polluted trainyard close to the [Headframe Building](./Headframe%20Building.md)
 
@@ -28,4 +28,4 @@ Firebox
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

@@ -20,10 +20,10 @@ _Rockfall\_map.png_
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)\|-
+[Coastal Highway](./Coastal%20Highway.md)
 
 Description
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

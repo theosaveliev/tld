@@ -18,7 +18,7 @@ _Path.jpg_
 
 _Path\_Track\_Section\_5\_Location.png_
 
-**Region:** [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)\|-
+**Region:** [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)
 
 **Description:** A pathway that leads to the surrounding ice flats
 

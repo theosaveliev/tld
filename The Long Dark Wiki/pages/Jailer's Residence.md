@@ -18,7 +18,7 @@ Region
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors
 
 > “**Blackrock's Wardens have traditionally kept a home not far from the Penitentiary grounds. After the Collapse, arsonists set fire to the empty building. No motive was ever disclosed.**”
 >

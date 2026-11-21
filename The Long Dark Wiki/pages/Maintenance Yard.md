@@ -14,13 +14,13 @@ _maintenance\_yard\_building.jpg_
 
 _Maintenance\_Yard\_Location.png_
 
-**Region:** [Broken Railroad](./Broken%20Railroad.md)\|-
+**Region:** [Broken Railroad](./Broken%20Railroad.md)
 
 **Description:** A large indoor maintenance yard and office
 
 **General**
 
-**Type:** Industrial\|-
+**Type:** Industrial
 
 ![](../assets/Bed_icon.png)
 
@@ -32,7 +32,7 @@ Has a bed
 
 _forge\_icon\_green.png_
 
-Has a forge\|-
+Has a forge
 
 **Missions:** ["You Fix My Rifle?"](./Episode%202%20-%20Luminance%20Fugue.md#You_Fix_My_Rifle%3F) ["The Best Defense"](./Episode%202%20-%20Luminance%20Fugue.md#The_Best_Defense)
 

@@ -14,7 +14,7 @@ _SS-BI-WashedOut01.jpg_
 
 _Washed\_Out\_Trailers\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **General**
 

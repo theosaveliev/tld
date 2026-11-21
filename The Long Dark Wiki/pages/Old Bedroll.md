@@ -12,7 +12,7 @@ _OldBedroll.jpg_
 
 **Item Type:** Item
 
-**Wintermute:** Yes\|-
+**Wintermute:** Yes
 
 **Harvest:** 6 x [Cloth](./Cloth.md)
 

@@ -31,7 +31,7 @@ _Portion_
 
 Item type
 
-[Materials](./Materials.md)\|-
+[Materials](./Materials.md)
 
 Equipable
 

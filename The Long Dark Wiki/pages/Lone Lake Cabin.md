@@ -10,11 +10,11 @@ _Lone\_Lake\_Cabin.png_
 
 **Location**
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 

@@ -14,8 +14,8 @@ _Lonely\_Homestead.jpg_
 
 _Lonely\_Homestead\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

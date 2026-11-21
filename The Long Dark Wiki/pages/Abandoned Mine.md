@@ -24,7 +24,7 @@ _Abandoned\_Mine\_Location.png_
 
 Region
 
-[Sundered Pass](./Sundered%20Pass.md)\|-
+[Sundered Pass](./Sundered%20Pass.md)
 
 Description
 
@@ -32,7 +32,7 @@ Description
 
 Type
 
-Cave\|-
+Cave
 
 Firebox
 

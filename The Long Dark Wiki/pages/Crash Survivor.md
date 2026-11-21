@@ -14,7 +14,7 @@
 
 Father Thomas
 
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Crash Survivors **are a group of passengers who survived an airline crash in the [Pleasant Valley](./Pleasant%20Valley.md) region. They are only found in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) in [Wintermute](./Wintermute.md).
+| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Crash Survivors**are a group of passengers who survived an airline crash in the [Pleasant Valley](./Pleasant%20Valley.md) region. They are only found in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) in [Wintermute](./Wintermute.md).
 
 ## Basic Details
 

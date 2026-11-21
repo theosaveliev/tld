@@ -21,7 +21,7 @@ _Cured\_Wolf\_Pelt\_icon.png_
 
 **Properties**
 
-**Item type:** [Materials](./Materials.md)\|-
+**Item type:** [Materials](./Materials.md)
 
 **Stackable:** No
 

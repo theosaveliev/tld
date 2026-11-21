@@ -14,6 +14,6 @@ _NarrowFallsCave\_1080p.png_
 
 _Narrow\_Falls\_Cave\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
-**Type:** Cave\|-
+**Type:** Cave

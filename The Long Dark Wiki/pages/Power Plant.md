@@ -27,7 +27,7 @@ Region
 
 **General**
 
-**Type:** Industrial\|-
+**Type:** Industrial
 
 **Missions:** [The Power Plant](./The%20Power%20Plant.md) / [Donner](./Donner.md)
 

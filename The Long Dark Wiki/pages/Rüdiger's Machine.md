@@ -14,7 +14,7 @@ _Rüdiger's\_Machine.jpg_
 
 _Rüdiger's\_Machine\_Location.png_
 
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 **General**
 

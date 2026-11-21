@@ -14,8 +14,8 @@ _Shortwave\_Tower\_East.jpg_
 
 _Shortwave\_Tower\_East\_Location.png_
 
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|-
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 **General**
 
-**Type:** OutdoorsMilitary/Sporting\|-
+**Type:** OutdoorsMilitary/Sporting

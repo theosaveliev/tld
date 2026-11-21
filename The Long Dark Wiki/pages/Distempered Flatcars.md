@@ -14,10 +14,10 @@ _Distempered\_Flatcars\_.jpg_
 
 _Distempered\_Flatcars\_Location.png_
 
-**Region:** [Transfer Pass](./Transfer%20Pass.md)\|-
+**Region:** [Transfer Pass](./Transfer%20Pass.md)
 
 **Description:** several derailed flatcars loaded with logs.
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

@@ -24,7 +24,7 @@ _Reclaimed\_Wood\_icon.png_
 
 **Properties**
 
-**Item type:** [Fire Starting](./Fire%20Starting.md)[Materials](./Materials.md)\|-
+**Item type:** [Fire Starting](./Fire%20Starting.md)[Materials](./Materials.md)
 
 **Stackable:** yes
 

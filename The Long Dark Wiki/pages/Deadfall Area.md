@@ -14,8 +14,8 @@ _Deadfall\_area.jpg_
 
 _Deadfall\_Area\_Location.png_
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

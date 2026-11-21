@@ -14,10 +14,10 @@ _Cove.png_
 
 _Cove\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **Description:** A cove along the lakeshore, surrounded by cliffs, with stairs leading up.
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

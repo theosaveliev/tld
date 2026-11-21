@@ -18,4 +18,4 @@ Region
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

@@ -14,8 +14,8 @@ _SS-PV-ForestCave\_(1).jpg_
 
 _Forest\_Cave\_PV\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave

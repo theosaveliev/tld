@@ -14,6 +14,6 @@ _Hushed\_river\_valley\_cloudtop\_falls\_20201031.png_
 
 _Cloudtop\_Falls\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

@@ -24,7 +24,7 @@ _Stone\_Church\_Location.png_
 
 Region
 
-[Desolation Point](./Desolation%20Point.md)\|-
+[Desolation Point](./Desolation%20Point.md)
 
 Location
 
@@ -32,7 +32,7 @@ Location
 
 Type
 
-Outdoors\|-
+Outdoors
 
 Firebox
 

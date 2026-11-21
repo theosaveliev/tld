@@ -14,10 +14,10 @@ _Valley\_Cave.jpg_
 
 _Valley\_Cave\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 **Description:** An open cave offering some warmth and shelter from the elements
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave

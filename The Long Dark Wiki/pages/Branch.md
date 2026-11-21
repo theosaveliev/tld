@@ -14,7 +14,7 @@ _Branch.png_
 
 Item Type
 
-**Wintermute:** Yes\|-
+**Wintermute:** Yes
 
 **Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.45 kg(0.99 lbs)
 

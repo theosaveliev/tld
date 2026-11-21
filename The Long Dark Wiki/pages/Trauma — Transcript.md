@@ -16,7 +16,7 @@
 
 _Missions\_story\_ep3\_Trauma.png_
 
-**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|-
+**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 
 **Previous:** [Renewed Hope/Transcript](./Renewed%20Hope%20%E2%80%94%20Transcript.md)
 

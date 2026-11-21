@@ -14,8 +14,8 @@ _broken\_bridge3.jpg_
 
 _Broken\_Bridge\_Location\_(Railroad).png_
 
-**Region:** [Broken Railroad](./Broken%20Railroad.md)\|-
+**Region:** [Broken Railroad](./Broken%20Railroad.md)
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

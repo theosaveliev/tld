@@ -14,13 +14,13 @@ _Refuge\_Cabin\_B\_resized.png_
 
 _Placid\_Notch\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **Description:** A refuge cabin.
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Bed_icon.png)
 

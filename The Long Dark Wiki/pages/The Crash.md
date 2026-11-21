@@ -21,7 +21,7 @@
 
 _The\_Crash.png_
 
-**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
 **Previous:** [Memories](./Memories.md)
 

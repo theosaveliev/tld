@@ -14,8 +14,8 @@ _Arch2.jpg_
 
 _The\_Arch\_(Old\_Island\_Connector\_location)\_Location.png_
 
-**Region:** [Old Island Connector](./Crumbling%20Highway.md)\|-
+**Region:** [Old Island Connector](./Crumbling%20Highway.md)
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

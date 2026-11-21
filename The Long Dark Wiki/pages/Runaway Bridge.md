@@ -14,6 +14,6 @@ _Runaway\_Bridge.jpg_
 
 _Runaway\_Bridge\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

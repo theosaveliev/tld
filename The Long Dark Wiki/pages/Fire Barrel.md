@@ -24,7 +24,7 @@ _Fire\_barrel.png_
 
 **General**
 
-**Type:** Fire Starting\|-
+**Type:** Fire Starting
 
 **Cooking slots:** 2
 

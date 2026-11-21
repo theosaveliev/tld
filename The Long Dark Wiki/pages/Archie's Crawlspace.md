@@ -14,7 +14,7 @@ _Screen\_07396e10-f97f-47ed-8f34-e3083be6fa00\_hi.png_
 
 _Archie's\_Crawlspace\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **General**
 

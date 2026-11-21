@@ -10,7 +10,7 @@ _cloth\_icon.png_
 
 **General**
 
-**Item Type:** Material\|-
+**Item Type:** Material
 
 **Renewable:** Yes ([Beachcombing](./Beachcombing.md))
 

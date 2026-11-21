@@ -24,7 +24,7 @@ _Trailer\_MT\_Location.png_
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)\|-
+[Mountain Town](./Mountain%20Town.md)
 
 Location
 
@@ -42,4 +42,4 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

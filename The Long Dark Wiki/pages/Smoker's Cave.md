@@ -14,4 +14,4 @@ _Smoker's\_Cave.jpg_
 
 _Smoker's\_Cave\_Location.png_
 
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)

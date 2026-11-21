@@ -20,10 +20,10 @@ _Banner\_Falls\_Location.png_
 
 Region
 
-[Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+[Hushed River Valley](./Hushed%20River%20Valley.md)
 
 Location
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

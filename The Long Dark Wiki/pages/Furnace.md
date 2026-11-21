@@ -10,7 +10,7 @@ _Furnace.png_
 
 **General**
 
-**Type:** Fire Starting\|-
+**Type:** Fire Starting
 
 **Max temperature:** 200 °C / _(360 °F)_
 

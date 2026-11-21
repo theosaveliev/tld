@@ -14,8 +14,8 @@ _The Wood Lot beside the [Orca Gas Station](./Orca%20Gas%20Station.md)_
 
 _Wood\_Lot\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

@@ -27,7 +27,7 @@ _Handheld\_Shortwave\_Radio\_icon.png_
 
 **Properties**
 
-**Item type:** [Tools](./Tools.md)\|-
+**Item type:** [Tools](./Tools.md)
 
 **Stackable:** No
 

@@ -21,13 +21,13 @@ _Screen\_fb3efe93-48fa-4cfb-9acc-e75dadcb821b\_hi.jpg_
 
 _Echo\_One\_Radio\_Tower\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **Description:** A radio hut and tower
 
 **General**
 
-**Type:** IndustrialMilitary/Sporting\|-
+**Type:** IndustrialMilitary/Sporting
 
 ![](../assets/Bed_icon.png)
 

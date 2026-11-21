@@ -22,10 +22,10 @@ Region
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors
 
 ![](../assets/Workbench_icon_green.png)
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

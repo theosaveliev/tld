@@ -14,7 +14,7 @@ _Fulmar\_Desolation\_Point\_GBI.png_
 
 **Location**
 
-**Region:** [Desolation Point](./Desolation%20Point.md)\|-
+**Region:** [Desolation Point](./Desolation%20Point.md)
 
 ![Fulmar Port Remnant Cauldron Island](../assets/Fulmar_Port_Remnant_Cauldron_Island.png)
 

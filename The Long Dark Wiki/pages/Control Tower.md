@@ -14,7 +14,7 @@ _Control\_Tower.jpg_
 
 _Control\_Tower\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **Description:** The control tower of the airfield
 

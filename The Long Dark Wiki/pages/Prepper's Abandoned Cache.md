@@ -22,9 +22,9 @@ _preppers\_abandoned\_cache3.jpg_
 
 _Prepper's\_Abandoned\_Cache\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
-**Type:** Industrial\|-
+**Type:** Industrial
 
 ![](../assets/Bed_icon.png)
 
@@ -36,7 +36,7 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench
 
 **Prepper's Abandoned Cache**is a location in [Pleasant Valley](./Pleasant%20Valley.md).
 

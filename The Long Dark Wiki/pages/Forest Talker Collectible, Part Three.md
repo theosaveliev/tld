@@ -14,7 +14,7 @@ _Forest\_Talker\_Collectible,\_Part\_Three\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)\|-
+**Item type:** [Collectibles](./Collectibles.md)
 
 **Stackable:** No
 

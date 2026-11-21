@@ -46,7 +46,7 @@ _Grey Mother's_
 
 Region
 
-[Mountain Town](./Mountain%20Town.md)\|-
+[Mountain Town](./Mountain%20Town.md)
 
 Location
 
@@ -54,7 +54,7 @@ Location
 
 Type
 
-Residential\|-
+Residential
 
 Firebox
 

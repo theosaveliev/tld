@@ -24,7 +24,7 @@ _Insulated\_Flasks\_animation.gif_
 
 **Properties**
 
-**Item type:** [Tools](./Tools.md)\|-
+**Item type:** [Tools](./Tools.md)
 
 **Stackable:** No
 

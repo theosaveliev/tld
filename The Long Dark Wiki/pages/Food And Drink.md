@@ -155,7 +155,7 @@ _Bear\_Meat\_(Raw)\_icon.png_
 
 900 kcal / kg / _(409 kcal / lb)_
 
-\|- \|-
+\|- 
 
 ![](../assets/Burbot_%28Cooked%29_icon.png)
 

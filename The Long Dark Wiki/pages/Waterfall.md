@@ -14,6 +14,6 @@ _Waterfall.jpg_
 
 _Waterfall\_Location.png_
 
-**Region:** [Desolation Point](./Desolation%20Point.md)\|-
+**Region:** [Desolation Point](./Desolation%20Point.md)
 
-**Type:** Landmark\|-
+**Type:** Landmark

@@ -14,7 +14,7 @@ _Juniper\_Runoff.jpg_
 
 _Juniper\_Runoff\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **Description:** A large slope below Perilous Crossing
 

@@ -22,4 +22,4 @@ Region
 
 **General**
 
-**Type:** Industrial\|-
+**Type:** Industrial

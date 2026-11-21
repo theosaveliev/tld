@@ -14,11 +14,11 @@ _SS-BI-Workshop01.jpg_
 
 _Workshop\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **General**
 
-**Type:** Industrial\|-
+**Type:** Industrial
 
 ![](../assets/Bed_icon.png)
 
@@ -28,4 +28,4 @@ _bed\_icon.png_
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

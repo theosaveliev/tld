@@ -14,6 +14,6 @@ _Pensive\_Vista.jpg_
 
 _Pensive\_Vista\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

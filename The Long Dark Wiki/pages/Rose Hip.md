@@ -19,7 +19,7 @@ _Rose\_Hip\_icon.png_
 
 **General**
 
-**Item Type:** Material\|-
+**Item Type:** Material
 
 **Statistics**
 

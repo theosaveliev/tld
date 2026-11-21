@@ -10,7 +10,7 @@ _Old\_Settlement\_Cabin.jpg_
 
 **Location**
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **General**
 

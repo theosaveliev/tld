@@ -14,8 +14,8 @@ _End\_of\_the\_Road.jpg_
 
 _End\_of\_the\_Road\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

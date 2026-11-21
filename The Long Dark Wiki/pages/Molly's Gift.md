@@ -10,7 +10,7 @@
 
 _Mollys\_gift.jpg_
 
-**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|-
+**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 
 **Current:** Molly's Gift
 

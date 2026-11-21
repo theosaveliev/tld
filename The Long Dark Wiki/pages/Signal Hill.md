@@ -20,7 +20,7 @@ _Signal\_Hill\_Location.png_
 
 Region
 
-[Pleasant Valley](./Pleasant%20Valley.md)\|-
+[Pleasant Valley](./Pleasant%20Valley.md)
 
 Description
 
@@ -28,7 +28,7 @@ Description
 
 Type
 
-Military/Sporting\|-
+Military/Sporting
 
 Firebox
 
@@ -42,4 +42,4 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

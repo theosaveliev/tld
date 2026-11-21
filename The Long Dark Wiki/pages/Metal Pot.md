@@ -12,7 +12,7 @@ _Metal\_Pot.jpg_
 
 **Item Type:** Item
 
-**Wintermute:** Yes\|-
+**Wintermute:** Yes
 
 **Harvest:** 15 minutes 1 x [Scrap Metal](./Scrap%20Metal.md)
 

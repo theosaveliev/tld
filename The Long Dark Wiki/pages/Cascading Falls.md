@@ -14,8 +14,8 @@ _Cascading\_Falls.jpg_
 
 _Cascading\_Falls\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

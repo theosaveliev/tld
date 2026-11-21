@@ -14,6 +14,6 @@ _point\_of\_disagreement.jpg_
 
 _Point\_of\_Disagreement\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

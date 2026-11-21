@@ -14,6 +14,6 @@ _Thetoe.jpg_
 
 _The\_Toe\_Location.png_
 
-**Region:** [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)\|-
+**Region:** [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)
 
-**Type:** Landmark\|-
+**Type:** Landmark

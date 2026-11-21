@@ -20,7 +20,7 @@ _Vitamin-C\_Pills\_icon.png_
 
 **Properties**
 
-**Item type:** [First Aid](./First%20Aid.md)\|-
+**Item type:** [First Aid](./First%20Aid.md)
 
 **Stackable:** Yes
 

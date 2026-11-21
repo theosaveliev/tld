@@ -14,8 +14,8 @@ _20201210005637\_1.jpg_
 
 _Fire\_Overlook\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

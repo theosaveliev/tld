@@ -26,7 +26,7 @@ _Bench_
 
 Wintermute
 
-Yes\|-
+Yes
 
 **Statistics**
 

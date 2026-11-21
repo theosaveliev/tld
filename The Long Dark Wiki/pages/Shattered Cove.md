@@ -14,8 +14,8 @@ _ShatteredCove.png_
 
 _Shattered\_Cove\_Location.png_
 
-**Region:** [Ash Canyon](./Ash%20Canyon.md)\|-
+**Region:** [Ash Canyon](./Ash%20Canyon.md)
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

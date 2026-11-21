@@ -14,8 +14,8 @@ _Echo\_Ravine.jpg_
 
 _Echo\_Ravine\_Location.png_
 
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

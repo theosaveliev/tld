@@ -14,7 +14,7 @@ _Blackrock\_Memo\_-\_Highly\_Aggressive\_Wolf\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)\|-
+**Item type:** [Collectibles](./Collectibles.md)
 
 **Stackable:** No
 

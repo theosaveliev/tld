@@ -14,8 +14,8 @@ _Blocked\_Highway.jpg_
 
 _Blocked\_Highway\_Location.png_
 
-**Region:** [Desolation Point](./Desolation%20Point.md)\|-
+**Region:** [Desolation Point](./Desolation%20Point.md)
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

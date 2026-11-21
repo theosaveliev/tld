@@ -14,7 +14,7 @@ _Aurora\_Hatch\_Door\_Entry\_Code\_icon.png_
 
 **Properties**
 
-**Item type:** [Collectibles](./Collectibles.md)\|-
+**Item type:** [Collectibles](./Collectibles.md)
 
 **Stackable:** No
 

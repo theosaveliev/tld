@@ -17,7 +17,7 @@ _Cooper's\_Blind.jpg_
 
 **Location**
 
-**Region:** [Perseverance Mills](./Perseverance%20Mills.md)\|-
+**Region:** [Perseverance Mills](./Perseverance%20Mills.md)
 
 **General**
 

@@ -16,7 +16,7 @@ _Burdock\_Tea\_icon.png_
 
 **Properties**
 
-**Item type:** [First Aid](./First%20Aid.md)\|-
+**Item type:** [First Aid](./First%20Aid.md)
 
 **Examine:** A tea brewed from prepared Burdock Root. A natural antibiotic.
 

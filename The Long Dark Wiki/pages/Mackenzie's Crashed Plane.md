@@ -22,15 +22,15 @@ _The wreckage of the plane_
 
 _Mackenzie's\_Crashed\_Plane\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **Description:** Mackenzie's Crashed Plane
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark
 
-Provides some shelter\|-
+Provides some shelter
 
 **Missions:** [Episode 1: Chapter 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_One)
 

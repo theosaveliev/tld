@@ -14,10 +14,10 @@ _Derailment\_2.jpg_
 
 _Derailment\_Location.png_
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 **Description:** A small train wreck
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

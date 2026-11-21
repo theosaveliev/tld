@@ -14,13 +14,13 @@ _SS-BI-CanneryPier02.jpg_
 
 _Cannery\_Pier\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **Description:** A wharf isolated from the rest of the Cannery due to pier deterioration
 
 **General**
 
-**Type:** Industrial\|-
+**Type:** Industrial
 
 ![](../assets/Bed_icon.png)
 

@@ -14,7 +14,7 @@ _Ogre's\_Teardrop.jpg_
 
 _Ogre's\_Teardrop\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **General**
 

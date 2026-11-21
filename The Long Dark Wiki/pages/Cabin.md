@@ -14,7 +14,7 @@ _screen\_76a1ab96-202f-48fe-b28f-7d60e07bc4ea\_hi.png_
 
 _Cabin\_Bleak\_Inlet\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **Sublocations:** Near the [Lower Raven Falls](./Lower%20Raven%20Falls.md)
 
@@ -22,7 +22,7 @@ _Cabin\_Bleak\_Inlet\_Location.png_
 
 **General**
 
-**Type:** ResidentialMilitary/Sporting\|-
+**Type:** ResidentialMilitary/Sporting
 
 ![](../assets/Bed_icon.png)
 

@@ -14,8 +14,8 @@ _Milton\_Shortwave\_Tower.jpg_
 
 _Radio\_Tower\_Location.png_
 
-**Region:** [Mountain Town](./Mountain%20Town.md)\|-
+**Region:** [Mountain Town](./Mountain%20Town.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

@@ -24,11 +24,11 @@ _New\_forestry\_lookout5.jpg_
 
 _Forestry\_Lookout\_Location.png_
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 **General**
 
-**Type:** Military/Sporting\|-
+**Type:** Military/Sporting
 
 ![](../assets/Bed_icon.png)
 

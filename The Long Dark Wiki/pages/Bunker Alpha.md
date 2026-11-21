@@ -23,11 +23,11 @@ _Bunker\_Alpha.jpg_
 
 _Bunker\_Alpha\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **General**
 
-**Type:** OutdoorsMilitary/Sporting\|-
+**Type:** OutdoorsMilitary/Sporting
 
 ![The kitchen](../assets/Bunker_Alpha_Kitchen.jpg)
 

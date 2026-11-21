@@ -14,4 +14,4 @@ _Loitering\_Marsh.jpg_
 
 _Loitering\_Marsh\_Location.png_
 
-**Region:** [Transfer Pass](./Transfer%20Pass.md)\|-
+**Region:** [Transfer Pass](./Transfer%20Pass.md)

@@ -23,7 +23,7 @@ _Old\_Settlement\_Close.jpg_
 
 _Old\_Settlement\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **General**
 

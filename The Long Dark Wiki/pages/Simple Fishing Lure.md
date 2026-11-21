@@ -14,7 +14,7 @@ _Simple\_Fishing\_Lure\_icon.png_
 
 **Properties**
 
-**Item type:** [Tools](./Tools.md)\|-
+**Item type:** [Tools](./Tools.md)
 
 **Values**
 

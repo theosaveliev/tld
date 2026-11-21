@@ -14,10 +14,10 @@ _Hushed\_river\_valley\_reclusive\_falls\_20201031.png_
 
 _Reclusive\_Falls\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 **Description:** A waterfall with an entrance to the [ice cave](./Ice%20Cave.md) behind it.
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

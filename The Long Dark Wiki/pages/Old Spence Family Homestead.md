@@ -14,11 +14,11 @@ _20170304095533\_1.jpg_
 
 _Old\_Spence\_Family\_Homestead\_Location.png_
 
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|-
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 **General**
 
-**Type:** Industrial\|-
+**Type:** Industrial
 
 ![](../assets/Bed_icon.png)
 
@@ -30,4 +30,4 @@ Has a bed
 
 _forge\_icon\_green.png_
 
-Has a forge\|-
+Has a forge

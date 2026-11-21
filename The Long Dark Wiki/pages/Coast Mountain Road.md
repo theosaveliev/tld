@@ -14,8 +14,8 @@ _SS-BI-CoastMountainRoad01.jpg_
 
 _Coast\_Mountain\_Road\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

@@ -14,13 +14,13 @@ _SS-BI-Trailer02.jpg_
 
 _Trailers\_west\_of\_the\_Cannery\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **Description:** This place has no official name
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Local_Legends_-_The_Lost_Cave_icon.png)
 

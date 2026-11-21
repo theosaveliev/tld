@@ -16,7 +16,7 @@ _Airline\_Food\_-\_Chicken\_icon.png_
 
 **Properties**
 
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)\|-
+**Item type:** [Food And Drink](./Food%20And%20Drink.md)
 
 **Stackable:** No
 

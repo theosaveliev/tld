@@ -23,7 +23,7 @@ _Can\_of\_Gunpowder\_icon.png_
 
 **Properties**
 
-**Item type:** [Tools](./Tools.md)\|-
+**Item type:** [Tools](./Tools.md)
 
 **Values**
 

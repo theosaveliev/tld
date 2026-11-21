@@ -14,13 +14,13 @@ _Screen\_90db8986-f54b-4fe3-aaeb-2254c5171b56\_hi.png_
 
 _Surveyor's\_Memory\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **Description:** The ruins of an old house
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark
 
 ![](../assets/Bed_icon.png)
 

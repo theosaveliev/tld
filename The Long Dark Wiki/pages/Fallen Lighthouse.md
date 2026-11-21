@@ -14,13 +14,13 @@ _The Fallen Lighthouse, with the cannery in the background_
 
 _Fallen\_Lighthouse\_Location.png_
 
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)\|-
+**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
 
 **Description:** The crumbling remains of a once-standing lighthouse
 
 **General**
 
-**Type:** OutdoorsMilitary/Sporting\|-
+**Type:** OutdoorsMilitary/Sporting
 
 ![](../assets/Bed_icon.png)
 

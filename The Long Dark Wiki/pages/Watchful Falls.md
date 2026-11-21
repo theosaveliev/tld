@@ -14,10 +14,10 @@ _Watchful\_Falls.jpg_
 
 _Watchful\_Falls\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 **Description:** A waterfall.
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

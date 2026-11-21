@@ -14,8 +14,8 @@ _20180909115732\_1.jpg_
 
 _Mysterious\_Signal\_Fire\_Location.png_
 
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)\|-
+**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

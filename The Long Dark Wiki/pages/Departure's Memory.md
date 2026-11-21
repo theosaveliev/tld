@@ -20,7 +20,7 @@ _Departure's\_Memory.jpg_
 
 _Departure's\_Memory\_Location.png_
 
-**Region:** [Port Remnant](./Port%20Remnant.md)\|-
+**Region:** [Port Remnant](./Port%20Remnant.md)
 
 **Description:** A series of ruined warehouses near the frozen bay
 
@@ -38,4 +38,4 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

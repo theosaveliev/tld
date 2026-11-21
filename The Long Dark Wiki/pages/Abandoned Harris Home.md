@@ -14,8 +14,8 @@ _Abandoned\_Harris\_Home.jpg_
 
 _Abandoned\_Harris\_Home\_Location.png_
 
-**Region:** [Old Island Connector](./Crumbling%20Highway.md)\|-
+**Region:** [Old Island Connector](./Crumbling%20Highway.md)
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential

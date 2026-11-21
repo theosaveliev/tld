@@ -14,4 +14,4 @@ _Craggy\_Passage.jpg_
 
 _Craggy\_Passage\_Location.png_
 
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)\|-
+**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)

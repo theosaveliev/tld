@@ -10,7 +10,7 @@ _HangarBasementLights.jpg_
 
 **Location**
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **General**
 
@@ -26,4 +26,4 @@ Has a bed
 
 _forge\_icon\_green.png_
 
-Has a forge\|-
+Has a forge

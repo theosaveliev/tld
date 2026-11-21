@@ -24,7 +24,7 @@ _Conductor's\_Dropoff\_Location.png_
 
 Region
 
-[Transfer Pass](./Transfer%20Pass.md)\|-
+[Transfer Pass](./Transfer%20Pass.md)
 
 Description
 

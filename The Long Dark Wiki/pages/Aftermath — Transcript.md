@@ -17,7 +17,7 @@
 
 _Missions\_story\_ep3\_Aftermath.png_
 
-**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|-
+**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
 
 **Previous:** [Coming Storm/Transcript](./Coming%20Storm%20%E2%80%94%20Transcript.md)
 

@@ -8,7 +8,7 @@
 
 **Location**
 
-**Region:** [Perseverance Mills](./Perseverance%20Mills.md)\|-
+**Region:** [Perseverance Mills](./Perseverance%20Mills.md)
 
 **General**
 

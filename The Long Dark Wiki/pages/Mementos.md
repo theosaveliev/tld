@@ -51,7 +51,7 @@ _Key 2_
 
 Item type
 
-[Collectibles](./Collectibles.md)\|-
+[Collectibles](./Collectibles.md)
 
 Examine
 

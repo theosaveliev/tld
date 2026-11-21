@@ -24,7 +24,7 @@ _Cave\_(Ash\_Canyon\_location)\_Location.png_
 
 Region
 
-[Ash Canyon](./Ash%20Canyon.md)\|-
+[Ash Canyon](./Ash%20Canyon.md)
 
 Location
 
@@ -34,7 +34,7 @@ Location
 
 Type
 
-Military/Sporting\|-
+Military/Sporting
 
 ![](../assets/Bed_icon.png)
 

@@ -14,7 +14,7 @@ _Bunker\_Omega\_outside.png_
 
 _Bunker\_Omega\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **Description:** A large, reinforced underground shelter.
 
@@ -30,4 +30,4 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

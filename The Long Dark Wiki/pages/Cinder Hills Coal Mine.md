@@ -22,11 +22,11 @@ _RegionAtlas-resources.assets-562\_(4).png_
 
 _Cinder\_Hills\_Coal\_Mine\_map.png_
 
-**Region:** [Coastal Highway](./Coastal%20Highway.md)\|-
+**Region:** [Coastal Highway](./Coastal%20Highway.md)
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave
 
 **Missions:** [Aftermath](./Aftermath.md)
 

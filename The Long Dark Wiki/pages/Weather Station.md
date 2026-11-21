@@ -14,10 +14,10 @@ _Main\_Menu\_Weather\_Station.jpg_
 
 _Weather\_Station\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 ![](../assets/Workbench_icon_green.png)
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

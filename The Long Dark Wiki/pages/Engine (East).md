@@ -14,10 +14,10 @@ _Engine\_-\_Timberwolf\_Mountain\_location.jpg_
 
 _Engine\_(East)\_Location.png_
 
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|-
+**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 **Description:** An engine from the crashed aircraft with several [Cargo Containers](./Cargo%20Container.md) nearby
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

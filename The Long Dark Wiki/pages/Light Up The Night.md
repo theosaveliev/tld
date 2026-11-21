@@ -18,7 +18,7 @@
 
 _Distress\_Pistol\_icon.png_
 
-**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|-
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
 **Current:** Light Up The Night
 

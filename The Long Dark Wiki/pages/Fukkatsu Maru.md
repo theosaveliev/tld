@@ -16,7 +16,7 @@ Region
 
 **General**
 
-Has no shelter\|-
+Has no shelter
 
 **Missions:** [A Cry For Help](./A%20Cry%20For%20Help.md)
 

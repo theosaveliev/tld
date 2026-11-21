@@ -24,13 +24,13 @@ _Community\_Hall\_Location.png_
 
 Region
 
-[Pleasant Valley](./Pleasant%20Valley.md)\|-
+[Pleasant Valley](./Pleasant%20Valley.md)
 
 **General**
 
 Type
 
-Residential\|-
+Residential
 
 Firebox
 

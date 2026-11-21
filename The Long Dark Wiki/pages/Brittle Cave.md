@@ -14,10 +14,10 @@ _Brittle\_Cave\_Outside.png_
 
 _Brittle\_Cave\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **Description:** A cave
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave

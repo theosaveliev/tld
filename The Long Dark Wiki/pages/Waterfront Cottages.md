@@ -20,7 +20,7 @@ _Waterfront\_Cottages\_map.png_
 
 Region
 
-[Coastal Highway](./Coastal%20Highway.md)\|-
+[Coastal Highway](./Coastal%20Highway.md)
 
 Location
 
@@ -30,7 +30,7 @@ Location
 
 Type
 
-Residential\|-
+Residential
 
 ![](../assets/Bed_icon.png)
 

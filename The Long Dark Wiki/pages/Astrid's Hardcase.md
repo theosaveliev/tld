@@ -22,7 +22,7 @@ _Astrid's\_Hardcase\_icon.png_
 
 **Item Type:** Item
 
-**Wintermute:** Yes\|-
+**Wintermute:** Yes
 
 **Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0 kg(0 lbs)
 

@@ -14,7 +14,7 @@ _30995.png_
 
 _Main\_Hangar\_Location.png_
 
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)\|-
+**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 **Sublocations:** [Hangar Basement](./Hangar%20Basement.md)
 
@@ -36,4 +36,4 @@ Has a bed
 
 _forge\_icon\_green.png_
 
-Has a forge\|-
+Has a forge

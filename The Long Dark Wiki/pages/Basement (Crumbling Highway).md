@@ -10,13 +10,13 @@ _Crumbling\_Highway\_Basement.jpg_
 
 **Location**
 
-**Region:** [Old Island Connector](./Crumbling%20Highway.md)\|-
+**Region:** [Old Island Connector](./Crumbling%20Highway.md)
 
 **Description:** A basement underneath the [Abandoned Harris Home](./Abandoned%20Harris%20Home.md)
 
 **General**
 
-**Type:** Residential\|-
+**Type:** Residential
 
 ![](../assets/Bed_icon.png)
 

@@ -14,10 +14,10 @@ _Giant's\_Thumbprint.jpg_
 
 _Giant's\_Thumbprint\_Location.png_
 
-**Region:** [Sundered Pass](./Sundered%20Pass.md)\|-
+**Region:** [Sundered Pass](./Sundered%20Pass.md)
 
 **Description:** A small pond surrounded by a forest.
 
 **General**
 
-**Type:** Landmark\|-
+**Type:** Landmark

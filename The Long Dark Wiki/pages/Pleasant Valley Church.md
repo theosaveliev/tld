@@ -10,7 +10,7 @@ _Pleasant\_Valley\_Church.jpg_
 
 **Location**
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **Description:** A local community church
 

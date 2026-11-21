@@ -24,7 +24,7 @@ _Hibernia\_Processing\_Location.png_
 
 Region
 
-[Desolation Point](./Desolation%20Point.md)\|-
+[Desolation Point](./Desolation%20Point.md)
 
 Location
 
@@ -34,7 +34,7 @@ Location
 
 Type
 
-Industrial\|-
+Industrial
 
 Firebox
 
@@ -48,4 +48,4 @@ Has a bed
 
 _workbench\_icon\_green.png_
 
-Has a workbench\|-
+Has a workbench

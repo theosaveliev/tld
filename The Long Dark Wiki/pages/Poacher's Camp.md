@@ -14,11 +14,11 @@ _Poacher's\_Camp.png_
 
 _Poacher's\_Camp\_Location.png_
 
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|-
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors
 
 ![Aerial view of Poacher's Camp](../assets/Forlorn_Muskeg_Poacher%27s_Camp.jpg)
 

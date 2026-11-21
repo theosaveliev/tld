@@ -14,11 +14,11 @@ _SS-PV-BurnedRidgeCave-01.jpg_
 
 _Burned\_Ridge\_Cave\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **General**
 
-**Type:** Cave\|-
+**Type:** Cave
 
 ![v.1.6](../assets/SS-PV-BurnedRidgeCave-02.jpg)
 

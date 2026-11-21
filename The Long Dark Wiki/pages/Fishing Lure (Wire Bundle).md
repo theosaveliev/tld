@@ -14,7 +14,7 @@ _Fishing\_Lure\_(Wire\_Bundle)\_icon.png_
 
 **Properties**
 
-**Item type:** [Tools](./Tools.md)\|-
+**Item type:** [Tools](./Tools.md)
 
 **Stackable:** No
 

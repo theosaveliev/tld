@@ -14,10 +14,10 @@ _Misty\_Falls\_Picnic\_Area\_Cave.jpg_
 
 _Misty\_Falls\_Cave\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **Description:** A large cave with a decent amount of loot
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

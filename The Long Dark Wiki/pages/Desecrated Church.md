@@ -32,7 +32,7 @@ _Desecrated\_Church\_Location.png_
 
 Region
 
-[Port Remnant](./Port%20Remnant.md)\|-
+[Port Remnant](./Port%20Remnant.md)
 
 Location
 

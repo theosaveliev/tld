@@ -14,6 +14,6 @@ _Max's\_last\_stand.jpg_
 
 _Max's\_Last\_Stand\_Location.png_
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

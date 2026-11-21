@@ -14,6 +14,6 @@ _Frozen\_Creek\_upstream.jpg_
 
 _Frozen\_Creek\_Location.png_
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

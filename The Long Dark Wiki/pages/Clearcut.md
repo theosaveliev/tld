@@ -14,10 +14,10 @@ _Clearcut\_01.jpg_
 
 _Clearcut\_Location.png_
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|-
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 **Description:** A clear cut logging area.
 
 **General**
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

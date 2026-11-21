@@ -10,7 +10,7 @@ _Brake\_Shoe\_icon.png_
 
 **General**
 
-**Item Type:** Material\|-
+**Item Type:** Material
 
 **Statistics**
 

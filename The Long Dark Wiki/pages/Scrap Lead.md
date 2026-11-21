@@ -18,7 +18,7 @@ _Scrap\_Lead\_icon.png_
 
 **General**
 
-**Item Type:** Material\|-
+**Item Type:** Material
 
 **Renewable:** No
 

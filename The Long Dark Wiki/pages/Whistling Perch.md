@@ -20,4 +20,4 @@ Region
 
 **General**
 
-**Type:** Military/Sporting\|-
+**Type:** Military/Sporting

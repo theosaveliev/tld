@@ -12,7 +12,7 @@ _Toaster.jpg_
 
 **Item Type:** Item
 
-**Wintermute:** Yes\|-
+**Wintermute:** Yes
 
 **Harvest:** 1 x [Scrap Metal](./Scrap%20Metal.md)
 

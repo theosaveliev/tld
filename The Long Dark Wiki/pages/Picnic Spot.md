@@ -14,6 +14,6 @@ _Picnic\_Spot.jpg_
 
 _Picnic\_Spot\_Location.png_
 
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)\|-
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
-**Type:** Outdoors\|-
+**Type:** Outdoors

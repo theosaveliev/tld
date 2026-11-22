@@ -59,7 +59,7 @@ Scrap Lead can also be found occasionally as a single piece when exploring the w
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [![Bullet](../assets/Bullet_icon.png)](./Bullet.md) [Bullet](./Bullet.md) | None | - 1 × [Scrap Lead](./Scrap%20Lead.md) |
+| ![Bullet](../assets/Bullet_icon.png) [Bullet](./Bullet.md) | None | - 1 × [Scrap Lead](./Scrap%20Lead.md) |
 
 ## Tips
 

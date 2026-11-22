@@ -34,27 +34,27 @@ Cured Gut is an item required for crafting or repairing many items, such as [lin
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [![Bear Hide Bed](../assets/Bear_Hide_Bed_icon.png)](./Bear%20Hide%20Bed.md) [Bear Hide Bed](./Bear%20Hide%20Bed.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Cured Gut](./Cured%20Gut.md) / - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| [![Bear Hide Rug](../assets/Bear_Hide_Rug_icon.png)](./Bear%20Hide%20Rug.md) [Bear Hide Rug](./Bear%20Hide%20Rug.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
-| [![Bear Skin Bedroll](../assets/Bear_Skin_Bedroll_icon.png)](./Bear%20Skin%20Bedroll.md) [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 5 × [Cloth](./Cloth.md) / - 6 × [Cured Gut](./Cured%20Gut.md) |
-| [![Bearskin Coat](../assets/Bearskin_Coat_icon.png)](./Bearskin%20Coat.md) [Bearskin Coat](./Bearskin%20Coat.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
-| [![Bushcraft Bow](../assets/Bushcraft_Bow_icon.png)](./Bushcraft%20Bow.md) [Bushcraft Bow](./Bushcraft%20Bow.md) | None | - 2 × [Green Birch Sapling](./Green%20Birch%20Sapling.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
-| [![Cougar Hide Wrap](../assets/Cougar_Hide_Wrap_icon.png)](./Cougar%20Hide%20Wrap.md) [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) | None | - 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
-| [![Deerskin Boots](../assets/Deerskin_Boots_icon.png)](./Deerskin%20Boots.md) [Deerskin Boots](./Deerskin%20Boots.md) | None | - 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
-| [![Deerskin Pants](../assets/Deerskin_Pants_icon.png)](./Deerskin%20Pants.md) [Deerskin Pants](./Deerskin%20Pants.md) | None | - 3 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
-| [![Hide Chair](../assets/Hide_Chair_icon.png)](./Hide%20Chair.md) [Hide Chair](./Hide%20Chair.md) | None | - 8 × [Fir Firewood](./Fir%20Firewood.md) / - 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 8 × [Ptarmigan Down](./Ptarmigan%20Down.md) / - 3 × [Cured Gut](./Cured%20Gut.md) |
-| [![Hide Couch](../assets/Hide_Couch_icon.png)](./Hide%20Couch.md) [Hide Couch](./Hide%20Couch.md) | None | - 15 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) / - 5 × [Cured Gut](./Cured%20Gut.md) |
-| [![Line](../assets/Line_icon.png)](./Line.md) [Line](./Line.md) | None | - 1 × [Cured Gut](./Cured%20Gut.md) |
-| [![Moose-Hide Cloak](../assets/Moose-Hide_Cloak_icon.png)](./Moose-Hide%20Cloak.md) [Moose-Hide Cloak](./Moose-Hide%20Cloak.md) | None | - 1 × [Cured Moose Hide](./Cured%20Moose%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
-| [![Moose-Hide Satchel](../assets/Moose-Hide_Satchel_icon.png)](./Moose-Hide%20Satchel.md) [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) | None | - 1 × [Cured Moose Hide](./Cured%20Moose%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
-| [![Quilted Bed](../assets/Quilted_Bed_icon.png)](./Quilted%20Bed.md) [Quilted Bed](./Quilted%20Bed.md) | None | - 12 × [Fir Firewood](./Fir%20Firewood.md) / - 10 × [Cloth](./Cloth.md) / - 6 × [Cured Gut](./Cured%20Gut.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| [![Rabbitskin Hat](../assets/Rabbitskin_Hat_icon.png)](./Rabbitskin%20Hat.md) [Rabbitskin Hat](./Rabbitskin%20Hat.md) | None | - 3 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / - 1 × [Cured Gut](./Cured%20Gut.md) |
-| [![Rabbitskin Mitts](../assets/Rabbitskin_Mitts_icon.png)](./Rabbitskin%20Mitts.md) [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) | None | - 4 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
-| [![Rustic Bed](../assets/Rustic_Bed_icon.png)](./Rustic%20Bed.md) [Rustic Bed](./Rustic%20Bed.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) / - 12 × [Cloth](./Cloth.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
-| [![Snare](../assets/Snare_icon.png)](./Snare.md) [Snare](./Snare.md) | None | - 1 × [Cured Gut](./Cured%20Gut.md) / - 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| [![Survival Bow](../assets/Survival_Bow_icon.png)](./Survival%20Bow.md) [Survival Bow](./Survival%20Bow.md) | None | - 1 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
-| [![Travois](../assets/Travois_Icon.png)](./Travois.md) [Travois](./Travois.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) / - 4 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
-| [![Wolfskin Coat](../assets/Wolfskin_Coat_icon.png)](./Wolfskin%20Coat.md) [Wolfskin Coat](./Wolfskin%20Coat.md) | None | - 4 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
+| ![Bear Hide Bed](../assets/Bear_Hide_Bed_icon.png) [Bear Hide Bed](./Bear%20Hide%20Bed.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Cured Gut](./Cured%20Gut.md) / - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
+| ![Bear Hide Rug](../assets/Bear_Hide_Rug_icon.png) [Bear Hide Rug](./Bear%20Hide%20Rug.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| ![Bear Skin Bedroll](../assets/Bear_Skin_Bedroll_icon.png) [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 5 × [Cloth](./Cloth.md) / - 6 × [Cured Gut](./Cured%20Gut.md) |
+| ![Bearskin Coat](../assets/Bearskin_Coat_icon.png) [Bearskin Coat](./Bearskin%20Coat.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
+| ![Bushcraft Bow](../assets/Bushcraft_Bow_icon.png) [Bushcraft Bow](./Bushcraft%20Bow.md) | None | - 2 × [Green Birch Sapling](./Green%20Birch%20Sapling.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| ![Cougar Hide Wrap](../assets/Cougar_Hide_Wrap_icon.png) [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) | None | - 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| ![Deerskin Boots](../assets/Deerskin_Boots_icon.png) [Deerskin Boots](./Deerskin%20Boots.md) | None | - 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
+| ![Deerskin Pants](../assets/Deerskin_Pants_icon.png) [Deerskin Pants](./Deerskin%20Pants.md) | None | - 3 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
+| ![Hide Chair](../assets/Hide_Chair_icon.png) [Hide Chair](./Hide%20Chair.md) | None | - 8 × [Fir Firewood](./Fir%20Firewood.md) / - 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 8 × [Ptarmigan Down](./Ptarmigan%20Down.md) / - 3 × [Cured Gut](./Cured%20Gut.md) |
+| ![Hide Couch](../assets/Hide_Couch_icon.png) [Hide Couch](./Hide%20Couch.md) | None | - 15 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) / - 5 × [Cured Gut](./Cured%20Gut.md) |
+| ![Line](../assets/Line_icon.png) [Line](./Line.md) | None | - 1 × [Cured Gut](./Cured%20Gut.md) |
+| ![Moose-Hide Cloak](../assets/Moose-Hide_Cloak_icon.png) [Moose-Hide Cloak](./Moose-Hide%20Cloak.md) | None | - 1 × [Cured Moose Hide](./Cured%20Moose%20Hide.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
+| ![Moose-Hide Satchel](../assets/Moose-Hide_Satchel_icon.png) [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) | None | - 1 × [Cured Moose Hide](./Cured%20Moose%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| ![Quilted Bed](../assets/Quilted_Bed_icon.png) [Quilted Bed](./Quilted%20Bed.md) | None | - 12 × [Fir Firewood](./Fir%20Firewood.md) / - 10 × [Cloth](./Cloth.md) / - 6 × [Cured Gut](./Cured%20Gut.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
+| ![Rabbitskin Hat](../assets/Rabbitskin_Hat_icon.png) [Rabbitskin Hat](./Rabbitskin%20Hat.md) | None | - 3 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / - 1 × [Cured Gut](./Cured%20Gut.md) |
+| ![Rabbitskin Mitts](../assets/Rabbitskin_Mitts_icon.png) [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) | None | - 4 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| ![Rustic Bed](../assets/Rustic_Bed_icon.png) [Rustic Bed](./Rustic%20Bed.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) / - 12 × [Cloth](./Cloth.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| ![Snare](../assets/Snare_icon.png) [Snare](./Snare.md) | None | - 1 × [Cured Gut](./Cured%20Gut.md) / - 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| ![Survival Bow](../assets/Survival_Bow_icon.png) [Survival Bow](./Survival%20Bow.md) | None | - 1 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| ![Travois](../assets/Travois_Icon.png) [Travois](./Travois.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) / - 4 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
+| ![Wolfskin Coat](../assets/Wolfskin_Coat_icon.png) [Wolfskin Coat](./Wolfskin%20Coat.md) | None | - 4 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / - 4 × [Cured Gut](./Cured%20Gut.md) |
 
 ## Update history
 

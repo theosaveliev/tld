@@ -49,11 +49,11 @@ As a feather touches the ground, it makes a small sound that can be heard if nea
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [![Fire Hardened Arrow](../assets/Fire_Hardened_Arrow_icon.png)](./Fire%20Hardened%20Arrow.md) [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | None | - 5 × [Stick](./Stick.md) / - 5 × [Crow Feather](./Crow%20Feather.md) |
-| [![Fishing Lure (Acorns)](../assets/Fishing_Lure_%28Acorns%29_icon.png)](./Fishing%20Lure%20%28Acorns%29.md) [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Acorns](./Acorns.md) |
-| [![Fishing Lure (Revolver Shell Casing)](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) [Fishing Lure (Revolver Shell Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) |
-| [![Fishing Lure (Wire Bundle)](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Wires](./Wires.md) |
-| [![Simple Arrow](../assets/Simple_Arrow_icon.png)](./Simple%20Arrow.md) [Simple Arrow](./Simple%20Arrow.md) | None | - 1 × [Arrowhead](./Arrowhead.md) / - 1 × [Arrow Shaft](./Arrow%20Shaft.md) / - 3 × [Crow Feather](./Crow%20Feather.md) |
+| ![Fire Hardened Arrow](../assets/Fire_Hardened_Arrow_icon.png) [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | None | - 5 × [Stick](./Stick.md) / - 5 × [Crow Feather](./Crow%20Feather.md) |
+| ![Fishing Lure (Acorns)](../assets/Fishing_Lure_%28Acorns%29_icon.png) [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Acorns](./Acorns.md) |
+| ![Fishing Lure (Revolver Shell Casing)](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) [Fishing Lure (Revolver Shell Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) |
+| ![Fishing Lure (Wire Bundle)](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Wires](./Wires.md) |
+| ![Simple Arrow](../assets/Simple_Arrow_icon.png) [Simple Arrow](./Simple%20Arrow.md) | None | - 1 × [Arrowhead](./Arrowhead.md) / - 1 × [Arrow Shaft](./Arrow%20Shaft.md) / - 3 × [Crow Feather](./Crow%20Feather.md) |
 
 ## Gallery
 

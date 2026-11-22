@@ -53,9 +53,9 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [![Prepared Reishi Mushrooms](../assets/Prepared_Reishi_Mushrooms_icon.png)](./Prepared%20Reishi%20Mushrooms.md) [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md) | None | - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) |
-| [![Prepper's Pie](../assets/Prepper%27s_Pie_icon.png)](./Prepper%27s%20Pie.md) [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 4 × [Reishi Mushroom](./Reishi%20Mushroom.md) / - 2 × [Burdock Root](./Burdock%20Root.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md) |
-| [![Thomson Family Stew](../assets/Thomson_Family_Stew_icon.png)](./Thomson%20Family%20Stew.md) [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md) / - 0.40 kg × [Carrot](./Carrot.md) / - 2 × [Potato](./Potato.md) / - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) / - 0.40 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| ![Prepared Reishi Mushrooms](../assets/Prepared_Reishi_Mushrooms_icon.png) [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md) | None | - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) |
+| ![Prepper's Pie](../assets/Prepper%27s_Pie_icon.png) [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 4 × [Reishi Mushroom](./Reishi%20Mushroom.md) / - 2 × [Burdock Root](./Burdock%20Root.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md) |
+| ![Thomson Family Stew](../assets/Thomson_Family_Stew_icon.png) [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md) / - 0.40 kg × [Carrot](./Carrot.md) / - 2 × [Potato](./Potato.md) / - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) / - 0.40 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
 ## Tips
 

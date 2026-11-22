@@ -40,7 +40,7 @@ Skills
 
 Materials
 
-[![Fishing Lure (Wire Bundle)](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md)
+![Fishing Lure (Wire Bundle)](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md)
 
 None
 

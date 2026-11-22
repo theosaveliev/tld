@@ -42,37 +42,37 @@ Skills
 
 Materials
 
-[![Bear Hide Bed](../assets/Bear_Hide_Bed_icon.png)](./Bear%20Hide%20Bed.md) [Bear Hide Bed](./Bear%20Hide%20Bed.md)
+![Bear Hide Bed](../assets/Bear_Hide_Bed_icon.png) [Bear Hide Bed](./Bear%20Hide%20Bed.md)
 
 None
 
 - 18 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Cured Gut](./Cured%20Gut.md) / - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md)
 
-[![Hide Chair](../assets/Hide_Chair_icon.png)](./Hide%20Chair.md) [Hide Chair](./Hide%20Chair.md)
+![Hide Chair](../assets/Hide_Chair_icon.png) [Hide Chair](./Hide%20Chair.md)
 
 None
 
 - 8 × [Fir Firewood](./Fir%20Firewood.md) / - 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 8 × [Ptarmigan Down](./Ptarmigan%20Down.md) / - 3 × [Cured Gut](./Cured%20Gut.md)
 
-[![Hide Couch](../assets/Hide_Couch_icon.png)](./Hide%20Couch.md) [Hide Couch](./Hide%20Couch.md)
+![Hide Couch](../assets/Hide_Couch_icon.png) [Hide Couch](./Hide%20Couch.md)
 
 None
 
 - 15 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) / - 5 × [Cured Gut](./Cured%20Gut.md)
 
-[![Improvised Down Bedroll](../assets/Improvised_Down_Bedroll_icon.png)](./Improvised%20Down%20Bedroll.md) [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md)
+![Improvised Down Bedroll](../assets/Improvised_Down_Bedroll_icon.png) [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md)
 
 None
 
 - 1 × [Bedroll](./Bedroll.md) / - 3 × [Cloth](./Cloth.md) / - 10 × [Ptarmigan Down](./Ptarmigan%20Down.md)
 
-[![Improvised Insulation](../assets/Improvised_Insulation_icon.png)](./Improvised%20Insulation.md) [Improvised Insulation](./Improvised%20Insulation.md)
+![Improvised Insulation](../assets/Improvised_Insulation_icon.png) [Improvised Insulation](./Improvised%20Insulation.md)
 
 None
 
 - 4 × [Cloth](./Cloth.md) / - 5 × [Ptarmigan Down](./Ptarmigan%20Down.md)
 
-[![Quilted Bed](../assets/Quilted_Bed_icon.png)](./Quilted%20Bed.md) [Quilted Bed](./Quilted%20Bed.md)
+![Quilted Bed](../assets/Quilted_Bed_icon.png) [Quilted Bed](./Quilted%20Bed.md)
 
 None
 

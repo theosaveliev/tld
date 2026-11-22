@@ -44,7 +44,7 @@ Skills
 
 Materials
 
-[![Cougar Claw Knife](../assets/Cougar_Claw_Knife_icon.png)](./Cougar%20Claw%20Knife.md) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md)
+![Cougar Claw Knife](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md)
 
 None
 

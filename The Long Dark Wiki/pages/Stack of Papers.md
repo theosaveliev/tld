@@ -30,7 +30,7 @@ Stacks of papers fill the role of tinder, which is used for [Fire Starting](./Fi
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [![Tinder Plug](../assets/Tinder_Plug_icon.png)](./Tinder%20Plug.md) [Tinder Plug](./Tinder%20Plug.md) | None | - 1 × [Stack of Papers](./Stack%20of%20Papers.md) |
+| ![Tinder Plug](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md) | None | - 1 × [Stack of Papers](./Stack%20of%20Papers.md) |
 
 ## Gallery
 

@@ -82,7 +82,7 @@ It is much more efficient to turn [Prepared Acorns](./Prepared%20Acorns.md) into
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [![Acorn Grounds](../assets/Acorn_Grounds_icon.png)](./Acorn%20Grounds.md) [Acorn Grounds](./Acorn%20Grounds.md) | None | - 1 × [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md) |
+| ![Acorn Grounds](../assets/Acorn_Grounds_icon.png) [Acorn Grounds](./Acorn%20Grounds.md) | None | - 1 × [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md) |
 
 ## Update history
 

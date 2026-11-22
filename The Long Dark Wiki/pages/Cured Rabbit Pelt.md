@@ -38,8 +38,8 @@ Cured Rabbit Pelts are widely used for [trading](./Trader.md), as they are the f
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [![Rabbitskin Hat](../assets/Rabbitskin_Hat_icon.png)](./Rabbitskin%20Hat.md) [Rabbitskin Hat](./Rabbitskin%20Hat.md) | None | - 3 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / - 1 × [Cured Gut](./Cured%20Gut.md) |
-| [![Rabbitskin Mitts](../assets/Rabbitskin_Mitts_icon.png)](./Rabbitskin%20Mitts.md) [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) | None | - 4 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| ![Rabbitskin Hat](../assets/Rabbitskin_Hat_icon.png) [Rabbitskin Hat](./Rabbitskin%20Hat.md) | None | - 3 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / - 1 × [Cured Gut](./Cured%20Gut.md) |
+| ![Rabbitskin Mitts](../assets/Rabbitskin_Mitts_icon.png) [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) | None | - 4 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
 
 ## Update history
 

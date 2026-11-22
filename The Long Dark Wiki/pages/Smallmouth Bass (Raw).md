@@ -73,8 +73,8 @@ At 0% condition food disappears if inside of a container, but not outside of con
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [![Mounted Smallmouth Bass](../assets/Mounted_Smallmouth_Bass_icon.png)](./Mounted%20Smallmouth%20Bass.md) [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) |
-| [![Smallmouth Bass (Cooked)](../assets/Smallmouth_Bass_%28Cooked%29_icon.png)](./Smallmouth%20Bass%20%28Cooked%29.md) [Smallmouth Bass (Cooked)](./Smallmouth%20Bass%20%28Cooked%29.md) | None | - 1.00 kg × [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) |
+| ![Mounted Smallmouth Bass](../assets/Mounted_Smallmouth_Bass_icon.png) [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) |
+| ![Smallmouth Bass (Cooked)](../assets/Smallmouth_Bass_%28Cooked%29_icon.png) [Smallmouth Bass (Cooked)](./Smallmouth%20Bass%20%28Cooked%29.md) | None | - 1.00 kg × [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) |
 
 ## Gallery
 

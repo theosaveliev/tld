@@ -40,7 +40,7 @@ The player can use a [Hunting Knife](./Hunting%20Knife.md) or Hatchet (or their 
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [![Arrow Shaft](../assets/Arrow_Shaft_icon.png)](./Arrow%20Shaft.md) [Arrow Shaft](./Arrow%20Shaft.md) | None | - 1 × [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) |
+| ![Arrow Shaft](../assets/Arrow_Shaft_icon.png) [Arrow Shaft](./Arrow%20Shaft.md) | None | - 1 × [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) |
 
 ## Gallery
 

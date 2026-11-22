@@ -2396,12 +2396,16 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
         table = _render_generic_table(rows)
     elif _is_recipe_infobox(rows):
         table = _render_recipe_infobox_table(rows)
+    elif _table_has_list_content(rows):
+        table = (
+            _render_list_content_table(rows)
+            if _table_is_single_column(rows)
+            else _render_generic_table(rows)
+        )
     elif has_images:
         table = _render_image_layout_table(rows)
     elif _table_has_wide_row(rows):
         table = _render_generic_table(rows)
-    elif _table_has_list_content(rows) and _table_is_single_column(rows):
-        table = _render_list_content_table(rows)
     else:
         table = _render_other_html_table(rows, table_classes, has_images, caption)
     return f"**{caption}**\n\n{table}" if caption else table

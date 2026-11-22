@@ -477,7 +477,7 @@ def test_recipe_infobox_parses_single_cell_item_and_quantity_headers() -> None:
 <tr><td>Cooking</td></tr>
 <tr><td>2</td></tr>
 <tr><td>40.0 minutes</td></tr>
-<tr><td><strong>Requirements</strong></td></tr>
+<tr><td colspan="2"><strong>Requirements</strong></td></tr>
 <tr><td>Required level</td><td>2</td></tr>
 <tr><td>Facility</td><td>Fire</td></tr>
 <tr><td>Tool</td><td>Cooking Skillet</td></tr>

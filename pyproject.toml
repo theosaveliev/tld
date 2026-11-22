@@ -55,4 +55,4 @@ mypy = "mypy ."
 pyright = "basedpyright ."
 test = "pytest"
 dev = ["format", "lint", "mypy", "pyright"]
-run = "run read-dump tld/thelongdark.fandom.com-20261117-current.xml"
+run = "run export-markdown tld/thelongdark.fandom.com-20261117-current.xml && cambium"

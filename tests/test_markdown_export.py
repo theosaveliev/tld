@@ -1805,6 +1805,7 @@ def test_mediawiki_heading_ids_map_to_markdown_slugs_without_html_anchors() -> N
 
 def test_custom_html_renderer_converts_footnotes_to_native_markdown() -> None:
     fragment = """<p>A citation <a id="fnref1" href="#fn1">1</a>.</p>
+<p>A separate-page link <a href="Other.md#fn1">note</a>.</p>
 <section class="footnotes"><ol>
 <li id="fn1">A footnote <a id="fnref1" href="#fnref1">↩</a></li>
 </ol></section>"""
@@ -1812,6 +1813,7 @@ def test_custom_html_renderer_converts_footnotes_to_native_markdown() -> None:
     markdown = _html_fragment_to_markdown(fragment)
 
     assert "A citation [^1]." in markdown
+    assert "[note](Other.md#fn1)" in markdown
     assert "## Notes" in markdown
     assert "[^1]: A footnote" in markdown
     assert "↩" not in markdown

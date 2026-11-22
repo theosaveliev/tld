@@ -2655,14 +2655,18 @@ def _markdown_footnote_number(identifier: str) -> str | None:
 
 
 def _markdown_footnote_number_from_href(href: str) -> str | None:
-    """Resolve an HTML footnote link to its Markdown footnote number."""
-    fragment = urllib.parse.unquote(urllib.parse.urlsplit(href).fragment)
+    """Resolve a fragment-only HTML footnote link to its Markdown footnote number."""
+    if not href.startswith("#"):
+        return None
+    fragment = urllib.parse.unquote(href[1:])
     return _markdown_footnote_number(fragment)
 
 
 def _is_markdown_footnote_backlink(href: str) -> bool:
-    """Identify a return link from a footnote definition to its reference."""
-    fragment = urllib.parse.unquote(urllib.parse.urlsplit(href).fragment)
+    """Identify a fragment-only return link to a footnote reference."""
+    if not href.startswith("#"):
+        return False
+    fragment = urllib.parse.unquote(href[1:])
     return FOOTNOTE_REFERENCE_ID_RE.fullmatch(fragment) is not None
 
 

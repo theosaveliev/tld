@@ -1,0 +1,3 @@
+# Run all built-in mdlint rules. In particular, keep the no-inline-HTML
+# rule enabled so exported Markdown does not expose raw HTML tags.
+ignore = []

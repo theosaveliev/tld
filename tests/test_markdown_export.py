@@ -969,7 +969,7 @@ def test_multi_column_table_with_long_lists_keeps_list_line_breaks() -> None:
     markdown = _html_fragment_to_markdown(fragment)
 
     assert "| Region | Locations |" in markdown
-    assert "<br>- Location 1<br>- Location 2" in markdown
+    assert "| Sample Region | - Location 1<br>- Location 2" in markdown
     assert "- Location 9 |" in markdown
     assert " / - Location 1" not in markdown
 

@@ -1547,6 +1547,16 @@ def _heading_precedes_another_anchored_heading(
     )
 
 
+def _append_heading_anchor_aliases(
+    output: list[str], identifiers: list[str], preferred: str
+) -> None:
+    """Preserve nonpreferred heading aliases as hidden compatibility comments."""
+    aliases = list(dict.fromkeys(identifier for identifier in identifiers if identifier))
+    for alias in aliases:
+        if alias != preferred:
+            output.extend((f"<!-- #{alias} -->", "\u200b", ""))
+
+
 def _rewrite_heading_anchor_spans(value: str) -> str:
     """Replace visible empty heading spans with hidden Cambium-compatible anchors."""
     lines = value.splitlines()
@@ -1603,12 +1613,7 @@ def _rewrite_heading_anchor_spans(value: str) -> str:
             ),
             slug or identifiers[0],
         )
-        aliases = list(
-            dict.fromkeys(identifier for identifier in identifiers if identifier)
-        )
-        for alias in aliases:
-            if alias != preferred:
-                output.extend((f"<!-- #{alias} -->", "\u200b", ""))
+        _append_heading_anchor_aliases(output, identifiers, preferred)
         output.append(f"<!-- #{preferred} -->")
         output.append(heading)
         index = next_index + 1

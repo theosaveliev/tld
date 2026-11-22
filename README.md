@@ -57,7 +57,20 @@ to templates missing from the dump remain visible with their parameter values.
 
 The export checks that the mapping and XML dump contain the same set of
 main-namespace article titles. The conversion report records expansion or
-conversion errors, unresolved links, and missing local images.
+conversion errors, unresolved links, and missing local images. Every Markdown
+file under `pages/` is also scanned for unrendered HTML tags, comments,
+declarations, and leaked MediaWiki file or table markup. The export writes
+`markup-audit.json` and fails when any unrendered markup remains. Literal code
+examples in fenced or inline code are excluded from this audit.
+
+To rescan an existing workspace without running the exporter again:
+
+```bash
+run audit-markdown "The Long Dark Wiki"
+```
+
+The audit prints each affected filename and line number and writes the same
+findings to `markup-audit.json`.
 
 The initial workspace keeps articles together in `pages/`; detected
 categories are retained as visible metadata for a later taxonomy/folder-layout

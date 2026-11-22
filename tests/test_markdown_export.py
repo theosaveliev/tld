@@ -807,13 +807,15 @@ def test_html_strong_formatting_handles_blank_lines_from_breaks() -> None:
 
 
 def test_page_markdown_converts_leaked_quote2_tables_to_blockquotes() -> None:
-    body = """**Template:quote2**{| style="margin:auto" | style="vertical-align:top; font-size:3em; color:#5d5980; padding-right:10px" |“ | **A quotation spanning multiple lines.
-
-The second sentence.**
-
-Speaker Name
-| style="vertical-align:bottom; font-size:3em; color:#5d5980; padding-left:10px" |” |} **Following paragraph.**
-"""
+    body = (
+        '**Template:quote2**{| style="margin:auto" '
+        '| style="vertical-align:top; font-size:3em; color:#5d5980; '
+        'padding-right:10px" |“ | **A quotation spanning multiple lines.\n\n'
+        'The second sentence.**\n\n'
+        'Speaker Name\n'
+        '| style="vertical-align:bottom; font-size:3em; color:#5d5980; '
+        'padding-left:10px" |” |} **Following paragraph.**\n'
+    )
 
     markdown = _page_markdown("Sample", [], body, None)
 

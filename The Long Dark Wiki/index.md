@@ -1,4 +1,4 @@
-# The Long Dark — Taxonomy Review Tree
+# The Long Dark — Fandom Mirror
 
 ## 1. Locations
 

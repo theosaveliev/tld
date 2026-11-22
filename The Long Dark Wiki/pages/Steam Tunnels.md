@@ -20,16 +20,12 @@ Region
 
 Has an interior
 
-**Missions:** [The Power Plant](./The%20Power%20Plant.md)<br>[Donner](./Donner.md)
+**Missions:** [The Power Plant](./The%20Power%20Plant.md) [Donner](./Donner.md)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 The Blackrock Dam **Steam Tunnels** are a sprawling system of Dark tunnels located in the region Blackrock, added in the Perilous Constraint Update on December 8th 2021.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Steam Tunnels can be accessed through an entrance across the bridge from the main Blackrock Electric Dam as well as a small structure alongside the [Blackrock Penitentiary](./Blackrock%20Prison.md).
@@ -40,16 +36,6 @@ Within the tunnels there are several Fire Barrels, with plenty of firewood and o
 
 If entering from the prison, taking the first right turn will lead to the power plant. Vice versa, if entering from the power plant, taking the first left turn will lead to the prison.
 
-<!-- #story_mode -->
-​
-
-<!-- #Story_Mode -->
-​
-
-<!-- #Story_mode -->
-​
-
-<!-- #story-mode -->
 ## Story Mode
 
 A main task of [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md), [The Power Plant](./The%20Power%20Plant.md), [Mathis](./Mathis.md) asks you to restore the electrical system. You talk to [Jace](./Jace.md) at the Dam and your Mission changes to sabotage. In the Steam Tunnels you open and close the valves, melting the ice at the right temperature and pressure, opening the doors and making it difficult to open the solitary cell from the main engine.

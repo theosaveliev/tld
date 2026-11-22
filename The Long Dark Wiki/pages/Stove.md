@@ -18,10 +18,6 @@ Stoves are considered the most valuable firebox, as they have _six_ [Cooking](./
 
 The Stove can be re-lit indefinitely, though it requires fresh starter, tinder, and fuel each time.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 Stoves have fixed locations that do not change between games. Only seven exist in-game:

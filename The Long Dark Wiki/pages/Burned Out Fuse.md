@@ -30,26 +30,12 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Burned Out Fuse** is an item that's exclusive to [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) in [Wintermute](./Wintermute.md) in the final mission, [Aftermath](./Aftermath.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 These fuses are found in the electrical [Fuse Boxes](./Fuse%20Box.md) in [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md). To get out of [Pleasant Valley](./Pleasant%20Valley.md), they need to be removed and replaced with intact [Replacement Fuses](./Replacement%20Fuse.md) to power up the elevator. They always have a Condition of around 20-24% when taken out, and serve no other gameplay purpose than to be replaced.
 
 While the model for this item can be found inside the [Transmitters](./Transmitters.md) in Survival Mode, there's no way to actually obtain the item.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

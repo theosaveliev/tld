@@ -38,7 +38,7 @@
 
 **Harvest:** Cannot Harvest
 
-**Repair:** 2 × [Scrap Metal](./Scrap%20Metal.md)<br>60 minutes<br>20% condition
+**Repair:** 2 × [Scrap Metal](./Scrap%20Metal.md) 60 minutes 20% condition
 
 > “**Traction, for your feet. Rope climbing drains less Stamina, Sprains are less frequent, and you can travel with more confidence over Weak Ice.**”
 >
@@ -46,10 +46,6 @@
 
 **Crampons** are a [Clothing](./Clothing.md) accessory in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 When worn in any accessory slot, Crampons grant the Benefit [Sure Footing](./Sure%20Footing.md), which has several effects:
@@ -63,10 +59,6 @@ Note: Crampons **do not** decrease the amount of Fatigue lost during climbing, a
 
 Crampons are particularly useful in [regions](./Region.md) with multiple [Mountaineering Rope](./Mountaineering%20Rope.md) climbs, such as [Timberwolf Mountain](./Timberwolf%20Mountain.md), [Ash Canyon](./Ash%20Canyon.md), [Mountain Town](./Mountain%20Town.md), and [Hushed River Valley](./Hushed%20River%20Valley.md), or in areas with Weak Ice such as [Forlorn Muskeg](./Forlorn%20Muskeg.md) or when [Beachcombing](./Beachcombing.md). Shoes/Boots must be worn in order to equip Crampons.
 
-<!-- #Location -->
-​
-
-<!-- #location -->
 ## Location
 
 There are 2 pairs of Crampons that can appear in the game:
@@ -76,18 +68,10 @@ There are 2 pairs of Crampons that can appear in the game:
 
 [Improvised Crampons](./Improvised%20Crampons.md) are a more easily acquired--though less effective--alternative that can be crafted at a [Work Bench](./Work%20Bench.md).
 
-<!-- #Repairing -->
-​
-
-<!-- #repairing -->
 ## Repairing
 
 Crampons can be repaired with 2 [Scrap Metal](./Scrap%20Metal.md) using [Quality Tools](./Quality%20Tools.md) or [Simple Tools](./Simple%20Tools.md). Repairing Crampons counts towards the [Mending](./Mending.md) skill, rather than the [Repair](./Repair.md) skill.
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - If the player's footwear (shoes and 2 socks slots) are removed (whether by the player or their footwear is ruined) then their Crampons will automatically be removed, removing the [Sure Footing](./Sure%20Footing.md) affliction.
@@ -96,10 +80,6 @@ Crampons can be repaired with 2 [Scrap Metal](./Scrap%20Metal.md) using [Quality
 - Crampons are very useful for [Beachcombing](./Beachcombing.md), as they increase the fall time by 1 second.
 - Like other clothing, Crampons [Decay](./Decay.md) slowly over time, even slower indoors. Decay is persistent across all Regions and is based on in-game date.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - In the [Perilous Constraint](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog/Archive_2#1.98_%28Perilous_Constraint_Update%29) update, when attempting to repair the Crampons without the Simple Tools or Quality Tools would give an error message stating a Sewing Kit is required.
@@ -109,24 +89,10 @@ Crampons can be repaired with 2 [Scrap Metal](./Scrap%20Metal.md) using [Quality
 - Originally after launch crampons could not be repaired, making their durability finite, until a repair function was later added. (between [Errant Pilgrim (Dec 2019) and Perilous Constraint (Dec 2020)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)).
 - Scrap Metal may be obtained by [Beachcombing](./Beachcombing.md), making the repair of crampons renewable (provided they are not at 0% condition).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Clothing model icon](../assets/Crampons_Model_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **9 December 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)):**

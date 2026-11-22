@@ -16,10 +16,6 @@
 
 **Type:** Landmark
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 There isn't really much of note about this location, but it is one of two vista locations in the region; weather permitting, it provides a great view of much of the region. Sometimes, a few leftover supplies can spawn here, and there's the possibility of a [Mountaineering Rope](./Mountaineering%20Rope.md) and a [Bearskin Coat](./Bearskin%20Coat.md) to spawn nearby. This rope can be used to rappel down to the gold mine, farther along the path from the overlook. A frozen corpse on a ledge nearby is also a possible spawn location for the [Curator's Rifle](./Curator%27s%20Rifle.md).
@@ -28,10 +24,6 @@ A handwritten note from a mountain dweller also speaks of this summit, which was
 
 The nearby rope bridge has up to 40 [Cardboard Matches](./Cardboard%20Matches.md) lying on the side farther from the Overlook (on the wooden ramp leading up to it).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![20201209231351 1](../assets/20201209231351_1.jpg)

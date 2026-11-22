@@ -6,8 +6,8 @@
 
 - [Locations sorted by region](#locations-sorted-by-region)
 - [Lower Great Bear](#lower-great-bear)
-- [Main Regions](#main-regions)
-- [Transition Regions](#transition-regions)
+- [Main Regions](#main-regions-1)
+- [Transition Regions](#transition-regions-1)
 - [The Far Territory](#the-far-territory)
 - [Main Regions](#main-regions-1)
 - [Transition Regions](#transition-regions-1)
@@ -20,42 +20,24 @@ Caves with a loading screen are usually warm enough to keep even a poorly equipp
 
 Because each playthrough has semi-random equipment and loot spawns, there is no guarantee which locations will have the best gear each game. However, as a general rule, locations that are off the beaten path or that are major sites on the map are likely to have the rarer loot in the game. Sometimes, supplies can be found in un-named locations, as well.
 
-<!-- #main_regions -->
-​
+## Locations sorted by region
 
-<!-- #Main_Regions -->
-​
+### Lower Great Bear
 
-<!-- #Main_regions -->
-​
-
-<!-- #main-regions -->
 #### Main Regions
 
 | Column 1 | Column 2 |
 | --- | --- |
-| - Ash Canyon<br>- Blackrock<br>- Bleak Inlet<br>- Broken Railroad<br>- Coastal Highway<br>- Desolation Point<br>- Forlorn Muskeg | - Hushed River Valley<br>- Mountain Town<br>- Mystery Lake<br>- Pleasant Valley<br>- Timberwolf Mountain |
+| - Ash Canyon - Blackrock - Bleak Inlet - Broken Railroad - Coastal Highway - Desolation Point - Forlorn Muskeg | - Hushed River Valley - Mountain Town - Mystery Lake - Pleasant Valley - Timberwolf Mountain |
 
-<!-- #transition_regions -->
-​
-
-<!-- #Transition_Regions -->
-​
-
-<!-- #Transition_regions -->
-​
-
-<!-- #transition-regions -->
 #### Transition Regions
 
 | Column 1 | Column 2 |
 | --- | --- |
-| - Crumbling Highway<br>- Keeper's Pass North<br>- Keeper's Pass South<br>- The Ravine | - [Winding River](./Winding%20River.md) (Only has 2 Region Transition Icons but no named locations) |
+| - Crumbling Highway - Keeper's Pass North - Keeper's Pass South - The Ravine | - [Winding River](./Winding%20River.md) (Only has 2 Region Transition Icons but no named locations) |
 
-<!-- #main_regions_1 -->
-​
+### The Far Territory
 
-<!-- #main-regions-1 -->
 #### Main Regions
 
 - [Forsaken Airfield](./Forsaken%20Airfield.md)
@@ -63,10 +45,6 @@ Because each playthrough has semi-random equipment and loot spawns, there is no 
 - [Transfer Pass](./Transfer%20Pass.md)
 - [Zone of Contamination](./Zone%20of%20Contamination.md)
 
-<!-- #transition_regions_1 -->
-​
-
-<!-- #transition-regions-1 -->
 #### Transition Regions
 
 - Far Range Branch Line

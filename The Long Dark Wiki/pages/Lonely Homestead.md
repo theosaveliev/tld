@@ -16,10 +16,6 @@
 
 **Type:** Outdoors
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Lonely Homestead lies to the northeast of [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md). The player can't enter into the burnt cabins, however several [frozen corpses](./Frozen%20Corpse.md) may be found in the snow with some loot scattered about the area.
@@ -28,14 +24,8 @@ The surrounding woods are also populous with [birch bark](./Birch%20Bark.md) fro
 
 A [Bear](./Bear.md) often patrols the forest, so watch out.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Lonely Homestead2](../assets/Lonely_Homestead2.jpg)
 
 ![The bear in the nearby forest](../assets/BearTorch.png)
-
-[ru:Одинокий зверолов](https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B2%D0%B5%D1%80%D0%BE%D0%BB%D0%BE%D0%B2)

@@ -30,10 +30,6 @@ Has a bed
 
 Has an interior **Rabbit Grove** is a location in [Coastal Highway](./Coastal%20Highway.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Rabbit Grove lies just northwest of [Bear Creek Campground](./Bear%20Creek%20Campground.md), on the opposite side of the creek.

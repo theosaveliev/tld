@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 3 × [Cured Leather](./Cured%20Leather.md)<br>30 minutes
+**Harvest:** 3 × [Cured Leather](./Cured%20Leather.md) 30 minutes
 
-**Repair:** 2 × [Cured Leather](./Cured%20Leather.md)<br>60 minutes<br>40% condition
+**Repair:** 2 × [Cured Leather](./Cured%20Leather.md) 60 minutes 40% condition
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -42,20 +42,12 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 A **Flight Jacket** is a type of [Clothing](./Clothing.md) in The Long Dark. It is part of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Flight Jackets are rare, mostly located in places related to airplanes like the multiple planes around [Field 31](./Field%2031.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) or the occasional [crashed planes](./Plane%20Crashes.md) in Lower Great Bear. This clothing piece offers an excellent windproof bonus and a good amount of warmth, plus balanced stats overall, making a great choice if you don't have an [Expedition Parka](./Expedition%20Parka.md) or a better clothing piece.
 
 Note: While it used to spawn, it is no longer available on [Interloper](./Interloper.md) difficulty.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 - On the bed in the [Hangar Basement](./Hangar%20Basement.md) of the [Main Hangar.](./Main%20Hangar.md)
@@ -68,19 +60,7 @@ Note: While it used to spawn, it is no longer available on [Interloper](./Interl
 
 ![Clothing model icon damaged](../assets/Flight_Jacket_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
-
-[ru:Куртка лётчика](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D1%82%D0%BA%D0%B0_%D0%BB%D1%91%D1%82%D1%87%D0%B8%D0%BA%D0%B0)

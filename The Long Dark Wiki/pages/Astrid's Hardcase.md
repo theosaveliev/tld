@@ -26,10 +26,8 @@
 
 **Astrid's Hardcase** is a [Tool](./Tools.md) and [Collectible](./Collectibles.md) found throughout most episodes of [Wintermute](./Wintermute.md). It belongs to [Astrid Greenwood](./Astrid%20Greenwood.md) and is one of the main plot points of the Wintermute story.
 
-<!-- #Memories -->
-​
+## Episode 1
 
-<!-- #memories -->
 ### Memories
 
 > “**A protective case. It looks like it could survive just about anything.**”
@@ -43,48 +41,20 @@
 
 In the mission [Memories](./Memories.md), Astrid arrives with it at the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) hangar and after a short cutscene is treated as a tool. It is treated as a tool and weighs 5.00 kg, and is a required object to be placed inside the floatplane in order to progress the mission.
 
-<!-- #the_crash -->
-​
-
-<!-- #The_Crash -->
-​
-
-<!-- #The_crash -->
-​
-
-<!-- #the-crash -->
 ### The Crash
 
 > “**Hardcase found with Astrid's backpack at the crash site.**”
 
 It is found near the wreckage of the [crash site](./Mackenzie%27s%20Crashed%20Plane.md) in the beginning of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and is picked up by [Will Mackenzie](./Will%20Mackenzie.md) and carried for the rest of the episode. It weighs 0.00 kg after at this point and acts as a Collectible for the rest of the game.
 
-<!-- #episode_2 -->
-​
-
-<!-- #Episode_2 -->
-​
-
-<!-- #episode-2 -->
 ## Episode 2
 
 The Hardcase is carried over into [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) as a key item but does not play much role in the story until the ending cutscene, where [Mathis](./Mathis.md) finds Mackenzie and tortures him for information on how to open it. The episode ends with Mathis knocking out Mackenzie.
 
-<!-- #episode_4 -->
-​
-
-<!-- #Episode_4 -->
-​
-
-<!-- #episode-4 -->
 ## Episode 4
 
 [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) requires the player to retrieve it once more after it is stolen by [Convicts](./Convicts.md). It is re-acquired near the end of the Episode, in the Warden's office.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 As of Episode 4, it is revealed that the case contains the cure for an unknown illness which is affecting the inhabitants of [Perseverance Mills](./Perseverance%20Mills.md), and that [Mathis](./Mathis.md) intensely desires having the case for his own curiosity, as well as to spite [Mackenzie](./Will%20Mackenzie.md).
@@ -105,16 +75,6 @@ Gallery
 
 _The Hardcase and [Astrid's Backpack](./Astrid%27s%20Backpack.md)_
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**

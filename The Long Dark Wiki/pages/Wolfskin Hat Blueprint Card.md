@@ -28,14 +28,10 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 **Wolfskin Hat Blueprint Card** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md). It is acquired from a trade from the [Trader](./Trader.md) and unlocks the ability to craft a [Wolfskin Hat](./Wolfskin%20Hat.md) at a [Work Bench](./Work%20Bench.md).
 
-<!-- #Trade -->
-​
-
-<!-- #trade -->
 ## Trade
 
 This item sometimes appears as a potential trade, and costs:

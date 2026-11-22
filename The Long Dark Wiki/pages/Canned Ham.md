@@ -40,14 +40,10 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 **Canned Ham** is a packaged [food](./Food%20And%20Drink.md) which reduces hydration by 5% and provides 550 calories.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Consuming a Canned Ham provides up to 550 Calories and reduces hydration by 5%. [Canned Corn](./Canned%20Corn.md) and Canned Ham can generally only be found after entering the Far Territory, specifically inside:
@@ -63,24 +59,10 @@ Consuming a Canned Ham provides up to 550 Calories and reduces hydration by 5%. 
 
 Like [Tins of Sardines](./Tin%20of%20Sardines.md), Canned Ham can be opened without a [Can Opener](./Can%20Opener.md) (thanks to their pull-tab), and consuming them yields no [Recycled Can](./Recycled%20Can.md).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 The side of the can lists "Ingredients: Ham (Cured With Water, Salt, Sugar, Sodium Phosphate, Carrageenan, Smoke Flavouring.)"
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

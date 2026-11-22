@@ -10,46 +10,16 @@
 
 The **First Flare**refers to the first appearance of an intense [Aurora](./Aurora.md) in _The Long Dark_'s Story Mode [Wintermute](./Wintermute.md). It is the primary cause of the so-called "quiet apocalypse" seen in both Wintermute and [Survival Mode](./Survival%20Mode.md).
 
-<!-- #History -->
-​
-
-<!-- #history -->
 ## History
 
 According to the [Prison Transport Manifest](./Prison%20Transport%20Manifest.md), the First Flare specifically took place on the night of Thursday, November XX, 20XX. The First Flare event took place at least 10 years after [The Collapse](./The%20Collapse.md), the colloquial name for the economic collapse of the Canadian - and wider North American - economy, based on conversations between [Grey Mother](./Grey%20Mother.md) and [Will Mackenzie](./Will%20Mackenzie.md) (Grey Mother mentions that Milton needed help 10 years ago, but this information has since been removed in the Redux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) release. It is unknown if the 10 years is still canon).
 
-<!-- #cause_effects -->
-​
-
-<!-- #Cause_&_Effects -->
-​
-
-<!-- #cause_&_effects -->
-​
-
-<!-- #Cause_&_effects -->
-​
-
-<!-- #cause-effects -->
 ## Cause &amp; Effects
 
 The cause of the First Flare and subsequent Aurora has been labelled as a [geomagnetic storm](https://en.wikipedia.org/wiki/Geomagnetic_storm). Its most immediate effect was the widespread disruption of electronic devices; including lights, cell phones, computers, televisions, radios, power plants, and vehicles. One of the Flare's slower but more devastating effects is the destabilization of weather patterns and wildlife behavior, leading to extreme weather and unusual animal activity in many areas.
 
 Due to the loss of worldwide communication and the isolation of the game's setting of [Great Bear Island](./Great%20Bear%20Island.md), it is impossible to determine the exact scope of the First Flare's destruction; however given the widespread electronic EMP devastation visible throughout the Island, the First Flare was most likely a [Carrington Class](https://en.m.wikipedia.org/wiki/Carrington_Event) Coronal Mass Ejection Event that struck Earth. It can thus be inferred that the entire world has been affected, leading to the collapse of human civilization and a much "louder apocalypse" for those currently residing in major human settlements.
 
-<!-- #notable_incidents_caused_by_the_first_flare -->
-​
-
-<!-- #Notable_Incidents_Caused_by_the_First_Flare -->
-​
-
-<!-- #Notable_incidents_caused_by_the_first_flare -->
-​
-
-<!-- #Notable_Incidents_Caused_By_The_First_Flare -->
-​
-
-<!-- #notable-incidents-caused-by-the-first-flare -->
 ## Notable Incidents Caused by the First Flare
 
 - Electronic devices across northern [Canada](./The%20Collapse.md) and presumably the rest of the world (not mentioned, confirmed or refuted by Wintermute story) stop working, leading to total blackouts and loss of communication, and possibly the collapse of most nation states.

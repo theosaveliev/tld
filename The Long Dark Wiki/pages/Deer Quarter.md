@@ -26,10 +26,6 @@
 
 **Outside:** 10.0% per day
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 **Deer Quarter**s are sections harvested from a [Deer](./Deer.md) carcass. Deer quarters can be obtained by going into the harvest menu after killing a deer. While in the harvest screen, switch to the right side of the screen putting you in the quartering screen. Unlike harvesting the meat directly, you cannot quarter a deer with your bare hands, even if the carcass is not frozen. You cannot quarter an animal if it is 50% frozen or more.
@@ -40,16 +36,6 @@ When a deer is quartered, you also get the [Fresh Gut](./Fresh%20Gut.md) and [Fr
 
 Also, only 50% of a quarters weight will be useable meat, more than likely as a drawback for the quick harvesting time.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**

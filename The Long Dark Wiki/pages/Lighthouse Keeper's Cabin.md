@@ -32,4 +32,4 @@ Has a bed
 
 [Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has an interior<br>**Lighthouse Keeper´s Cabin** is a location in [Port Remnant](./Port%20Remnant.md). It is located next to the [Lighthouse (Port Remnant)](./Lighthouse%20%28Port%20Remnant%29.md).
+Has an interior **Lighthouse Keeper´s Cabin** is a location in [Port Remnant](./Port%20Remnant.md). It is located next to the [Lighthouse (Port Remnant)](./Lighthouse%20%28Port%20Remnant%29.md).

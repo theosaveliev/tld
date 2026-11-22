@@ -28,9 +28,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 2 × [Cured leather](./Cured%20Leather.md)<br>75 minutes
+**Harvest:** 2 × [Cured leather](./Cured%20Leather.md) 75 minutes
 
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md), 1 [Cloth](./Cloth.md)<br>90 minutes<br>20% condition
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md), 1 [Cloth](./Cloth.md) 90 minutes 20% condition
 
 > “**Light nylon shoes designed to feel weightless. Better than running around barefoot but ... not much.**”
 >
@@ -38,18 +38,10 @@
 
 **Running Shoes** are a type of [footwear](./Clothing.md) in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The running shoes are a common starting item. They're lightweight, but they don't offer much warmth or protection, and the waterproofing is nonexistent. It is recommended to replace them, as they don't offer much of anything, and it is highly ill-advised to repair them, as they require valuable cured leather for repairs, and they only give 20% condition back per repair, making it extremely expensive to repair, especially for an inferior item. However, the shoes should still be picked up when found, as they can be harvested for two pieces of cured leather, which can be used to repair top-tier shoes such as [Mukluks](./Mukluks.md) and [Insulated Boots](./Insulated%20Boots.md).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Sneakers.png)
@@ -58,16 +50,6 @@ The running shoes are a common starting item. They're lightweight, but they don'
 
 ![Clothing model icon](../assets/Running_Shoes_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

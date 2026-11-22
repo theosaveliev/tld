@@ -36,26 +36,12 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Pleasant Valley Collectible, Part Three_ from in the control room for the radio tower on [Signal Hill](./Signal%20Hill.md) which you go to [later in the story](./Aftermath.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Pleasant Valley Collectible, Part Three**_
 
 It all happened during a storm, so we'll never know exactly what the hell went on out there. All we do know is we're cut off from the highway now. Tonnes and tonnes of rock stand between us and the rest of Great Bear. An earthquake? Maybe.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

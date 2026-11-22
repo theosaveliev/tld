@@ -18,10 +18,6 @@
 
 Has an interior **Skeeter's Ridge** is a location in [Pleasant Valley](./Pleasant%20Valley.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Skeeter's Ridge lies close to [Burned Ridge Cave](./Burned%20Ridge%20Cave.md) and west of [Draft Dodger's Cabin](./Draft%20Dodger%27s%20Cabin.md). The region's [Prepper Cache](./Prepper%20Cache.md) lies further north-west.
@@ -36,12 +32,6 @@ Also, the basement is one of the required survival locations in The [Nomad](./No
 
 There is a [wolf](./Wolf.md) spawn point in the nearby forest. The player may encounter one when entering or exiting the basement, so caution is warranted.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Skeeters ridge basement door](../assets/Skeeters_ridge_basement_door.jpg)
-
-[ru:Гребень Скитера](https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D1%8C_%D0%A1%D0%BA%D0%B8%D1%82%D0%B5%D1%80%D0%B0)

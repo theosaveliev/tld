@@ -24,26 +24,22 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-3%
 
-**Harvest:** 1 × [Leather](./Cured%20Leather.md)<br>90 minutes
+**Harvest:** 1 × [Leather](./Cured%20Leather.md) 90 minutes
 
-**Repair:** 1 × [Leather](./Cured%20Leather.md)<br>30 minutes<br>25% condition
+**Repair:** 1 × [Leather](./Cured%20Leather.md) 30 minutes 25% condition
 
 [2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.** This content only appears in [Wintermute](./Wintermute.md).
 
 “
 
-**Made of strong but supple leather, these boots are built to last.**<br>In-game description
+**Made of strong but supple leather, these boots are built to last.** In-game description
 
 ”
 
 **Astrid's Boots** are a [Clothing](./Clothing.md) item worn on the player's outer feet obtained at the start of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Astrid's boots are equipped as default clothing when the player regains consciousness after being saved by [Molly](./Molly.md) from dying of exposure during [Trauma](./Trauma.md), the first chapter of [Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). They can not be acquired in Survival Mode, nor at any later stage in the [Story](./Wintermute.md).
@@ -54,16 +50,6 @@ The statistics of Astrid's boots are identical to those of [Trail Boots](./Trail
 
 ![Clothing model icon](../assets/Astrid%27s_Boots_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

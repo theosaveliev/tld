@@ -10,7 +10,7 @@
 
 **Type:** Fire Starting
 
-**Max temperature:** 200 °C<br>_(360 °F)_
+**Max temperature:** 200 °C _(360 °F)_
 
 **Cooking slots:** 1
 
@@ -18,27 +18,10 @@ A **Furnace** is an unmovable [contained fire](./Fire.md#Contained_fires). Notab
 
 The furnace can be re-lit indefinitely, though it requires fresh starter, tinder, and fuel each time.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 Furnaces have fixed locations that do not change between games.
 
-<!-- #known_locations_incomplete -->
-​
-
-<!-- #Known_locations_(incomplete) -->
-​
-
-<!-- #known_locations_(incomplete) -->
-​
-
-<!-- #Known_Locations_(incomplete) -->
-​
-
-<!-- #known-locations-incomplete -->
 ### Known locations (incomplete)
 
 - [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) in [Forlorn Muskeg](./Forlorn%20Muskeg.md)

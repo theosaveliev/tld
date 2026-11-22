@@ -20,7 +20,7 @@
 
 **Next:** [Aurora Hatch](./Aurora%20Hatch.md)
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)<br>[Forlorn Muskeg](./Forlorn%20Muskeg.md)<br>[Broken Railroad](./Broken%20Railroad.md)
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) [Broken Railroad](./Broken%20Railroad.md)
 
 **Template:spoiler**
 
@@ -30,10 +30,6 @@
 
 **Mystery Lake Supply Caches** is a side mission in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [story](./Wintermute.md). There are six caches to be found in total. To unlock the individual tasks, one has to find a corresponding note or letter first.
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Find the cache near the old [Hunting Lodge](./Hunting%20Lodge.md) in the [Broken Railroad region](./Broken%20Railroad.md).
@@ -43,10 +39,6 @@
 - Find the cache in [Alan's Cave](./Alan%27s%20Cave.md) in Mystery Lake.
 - Find the cache near the entrance to Forlorn Muskeg region from [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
-<!-- #Loot -->
-​
-
-<!-- #loot -->
 ## Loot
 
 - The cache near the old Hunting Lodge.
@@ -62,10 +54,6 @@
 - The cache near the entrance to Forlorn Muskeg region from Mystery Lake.
   - 3 [Accelerant](./Accelerant.md), [Pinnacle Peaches](./Pinnacle%20Peaches.md), and a [Tinder Plug](./Tinder%20Plug.md).
 
-<!-- #Walkthrough -->
-​
-
-<!-- #walkthrough -->
 ## Walkthrough
 
 To find the caches, you first have to find the matching note or letter. These can be found in the following places:
@@ -77,10 +65,6 @@ To find the caches, you first have to find the matching note or letter. These ca
 - On a metal desk on the second floor of the Carter Hydro Dam; leading towards the cache in Alan's Cave.
 - On the table inside the new Forestry Lookout; leading towards the cache near the entrance to Forlorn Muskeg.
 
-<!-- #Transcripts -->
-​
-
-<!-- #transcripts -->
 ## Transcripts
 
 _Whenever Mackenzie finds a Hidden Cache, he will say a variation of these lines:_
@@ -92,10 +76,6 @@ _Whenever Mackenzie finds a Hidden Cache, he will say a variation of these lines
 - Mackenzie: "Found it!"
 - Mackenzie: "Ah ha...here it is."
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![One of the hidden supply caches.](../assets/Cache.png)

@@ -43,10 +43,6 @@
 
 **Energy Bar** is a packaged [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Consuming an Energy bar provides up to 500 calories, and does not [dehydrate](./Thirst.md). It weighs a mere 0.10 kg, and has high energy density of 5,000 calories-per-kilogram (second only to [Salty Crackers](./Salty%20Crackers.md)). Like other packaged food and drink, the Energy Bar can be found anywhere uncommonly, most often inside of houses, shops, [Vehicles](./Vehicle.md), and on [frozen corpses](./Frozen%20Corpse.md). It is also the only food item that can be found in a [First Aid Kit](./First%20Aid%20Kit.md).
@@ -55,10 +51,6 @@ Because of its small weight, energy efficiency, and not causing dehydration (unl
 
 Energy Bars [decay](./Decay.md) very slowly, especially when outdoors.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Energy Bars do not spawn on Interloper mode.
@@ -66,24 +58,10 @@ Energy Bars [decay](./Decay.md) very slowly, especially when outdoors.
 - The ingredients on the back list: "Dates, Almonds, Flax Seeds, Coca Nibs, Honey, Salt, Natural Flavours."
 - The energy bar bears the logo of the in-game company "ZAP." The same logo can be found on the [car battery](./Car%20Battery.md).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model](../assets/Energy_Bar.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**

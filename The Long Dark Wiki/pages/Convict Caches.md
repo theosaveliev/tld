@@ -26,18 +26,10 @@
 
 **Convict Caches** is a side mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 To start the mission, the player must find a note at [Cook's Farm](./Cook%27s%20Farm.md) in [Blackrock Mountain](./Blackrock%20Mountain.md) region. This will add 4 points of interest on the survivors map.
 
-<!-- #Tasks -->
-​
-
-<!-- #tasks -->
 ## Tasks
 
 - Find All the Convict´s hidden caches
@@ -46,19 +38,6 @@ To start the mission, the player must find a note at [Cook's Farm](./Cook%27s%20
   - Convict cache 3
   - Convict cache 4
 
-<!-- #cache_locationsroutes -->
-​
-
-<!-- #Cache_locations/routes -->
-​
-
-<!-- #cache_locations/routes -->
-​
-
-<!-- #Cache_Locations/routes -->
-​
-
-<!-- #cache-locationsroutes -->
 ## Cache locations/routes
 
 - Cache 1 is located behind a stone in the "roots" of a fallen tree where the cliff face and the mountain meet above the [Old Substation](./Old%20Substation.md). Getting there is very easy, start at the [Old Substation](./Old%20Substation.md) and go towards the Mountain then along the bottom of it to the left. In survival a [Prepper cache](./Prepper%20Cache.md) may spawn in this location instead.
@@ -69,10 +48,6 @@ To start the mission, the player must find a note at [Cook's Farm](./Cook%27s%20
 
 - Cache 4 is located at the foot of the second electrical power pole that is on the right side of the road (when going from [Blackrock Prison](./Blackrock%20Prison.md)), it´s the one visible but unreachable from the road. One way of reaching it is by going through the "tunnel/pass" and then backtracking a long way around it´s outside face, beware of a pack of timberwolves near the farm. The other way is to climb up to the previous Power pole, then climbing down a mountaineering rope (survivor must not be over-encumbered) and taking the first left up a steep path. After reaching the pole the cache should be easily visible on the right.
 
-<!-- #Rewards -->
-​
-
-<!-- #rewards -->
 ## Rewards
 
 - Cache 1 contains:

@@ -34,24 +34,10 @@
 
 During the course of the mission, Mackenzie delivers the pearls to the [gravesite](./Graveyard.md) of [Lilith Barker](./Lilith%20Barker.md) across from [St. Christopher's Church](./St.%20Christopher%27s%20Church.md) outside [Milton](./Milton.md).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 [Grey Mother](./Grey%20Mother.md) reveals that these pearls were her mother's and that she gave them to Lily Barker on her 16th birthday, the same year that she died.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

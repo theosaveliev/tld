@@ -14,10 +14,6 @@ If you own the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Terri
 
 NOTE: In the current version, an in-game menu with the [Surveyed Locations](./Surveyed%20Locations.md) can be checked. This is the easiest way to keep track and check whether you have mapped something correctly or not. Undiscovered places will be hidden by default, but using the "force reveal" button will make them show, not affecting the achievement.
 
-<!-- #Guide -->
-​
-
-<!-- #guide -->
 ## Guide
 
 **ALL LOCATIONS CAN BE FOUND IN [Surveyed Locations](./Surveyed%20Locations.md).**
@@ -28,10 +24,6 @@ _Icons_: Major Locations and Region Transitions that you will see on your in-gam
 
 _Location Triggers_: These also appear on your in-game map, but as text-only when zoomed out.
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ### Tips
 
 - **_The most reliable way to get a proper survey is to survey as soon as the location pops on to your screen_**

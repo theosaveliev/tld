@@ -34,35 +34,17 @@
 
 **Burdock Roots** are the edible portion obtained from harvesting a [Burdock](./Burdock.md) plant.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 After harvesting a Burdock plant, you'll obtain a single Burdock Root. The root itself cannot be eaten on the spot, however it can be [prepared and eaten](./Prepared%20Burdock.md), (providing 275 calories) or brewed into [Burdock Tea](./Burdock%20Tea.md) (which provides 100 calories and antibiotic benefits). Burdock root is also an ingredient used in the [Prepper's Pie](./Prepper%27s%20Pie.md) recipe.
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Prepared Burdock](./Prepared%20Burdock.md) | None | - 1 × [Burdock Root](./Burdock%20Root.md) |
-| [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 4 × [Reishi Mushroom](./Reishi%20Mushroom.md)<br>- 2 × [Burdock Root](./Burdock%20Root.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+| [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) - 4 × [Reishi Mushroom](./Reishi%20Mushroom.md) - 2 × [Burdock Root](./Burdock%20Root.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.01 kg × [Salt](./Salt.md) |
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

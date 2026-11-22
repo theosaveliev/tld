@@ -18,7 +18,7 @@
 
 **Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 1 Hour
 
-**Repair:** [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md)<br>1 × [Scrap Metal](./Scrap%20Metal.md)<br>25% Condition<br>45 to 30 min
+**Repair:** [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) 1 × [Scrap Metal](./Scrap%20Metal.md) 25% Condition 45 to 30 min
 
 > “**Heavy-duty saw made to cut through metal.**”
 >
@@ -26,10 +26,6 @@
 
 The **Hacksaw** is a tool with several critical functions, including harvesting saplings and furniture made of a variety of materials. [Scrap Metal](./Scrap%20Metal.md) is required to repair it.
 
-<!-- #Uses -->
-​
-
-<!-- #uses -->
 ## Uses
 
 The hacksaw is the only tool able to break down [Metal Shelves](./Metal%20Shelf.md) and other metal items to obtain scrap metal. It is required to open [Cargo Containers](./Cargo%20Container.md) on [Timberwolf Mountain](./Timberwolf%20Mountain.md), and it can be used instead of a [Hatchet](./Hatchet.md) to cut small tree limbs (a hatchet must be used for the largest limbs) and saplings. It also can be used to harvest carcasses for meat, hides, or guts, although it may be more efficient to use bare hands or other tools. It cannot be used as a weapon in struggles.
@@ -46,18 +42,10 @@ Uses of Hacksaw:
 
 Unlike most other tools, Hacksaws cannot be selected as a tool for self-defense during a Wolf Struggle. For more information on Struggles, see: [Wildlife Struggles](./Struggle.md).
 
-<!-- #Repair -->
-​
-
-<!-- #repair -->
 ## Repair
 
 Hacksaws are repairable with [Tools](./Simple%20Tools.md) using [Scrap Metal](./Scrap%20Metal.md). Also the [Milling Machine](./Milling%20Machine.md) in [Bleak Inlet](./Bleak%20Inlet.md) or [Blackrock](./Blackrock.md) may repair a non-ruined hacksaw to 100% condition for one [Scrap Metal](./Scrap%20Metal.md), during an active [Aurora](./Aurora.md). N.B. The hacksaw has a breaking threshold at 25% condition, usage below this number risks ruining it for good.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 As with other items, the hacksaw will randomly spawn in any of several different locations on different play-throughs.

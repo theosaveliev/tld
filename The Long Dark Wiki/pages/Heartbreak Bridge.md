@@ -16,10 +16,6 @@
 
 **Type:** Landmark
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Heartbreak Bridge is one of many bridges in the region. It serves to connect the main road that runs from [Long Curve](./Long%20Curve.md) to [End of the Road](./End%20of%20the%20Road.md).

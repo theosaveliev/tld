@@ -30,10 +30,6 @@
 
 To access the note, you will have to go east from the Bridge, then head south before the end of the road to find the cave at the end of the path. Continuing through the cave will lead you mid-way on a path from the plane to [Mountain Town](./Mountain%20Town.md). The note is on a corpse of a woman.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Lost in the Storm**_
@@ -42,16 +38,6 @@ I left with the others but the storm turned bad and I couldn't keep up. Some tur
 
 The letter is signed: "Alice"
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

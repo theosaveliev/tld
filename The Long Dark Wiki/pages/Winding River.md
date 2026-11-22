@@ -23,7 +23,7 @@
 
 **Description:** An unremarkable valley located on the other side of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md)
 
-**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md),<br>[Pleasant Valley](./Pleasant%20Valley.md)
+**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Pleasant Valley](./Pleasant%20Valley.md)
 
 **Locations:** 2
 
@@ -31,10 +31,6 @@
 
 **Winding River** (also known in-lore as the **Carter River**) is a Transition Zone [Region](./Region.md) behind [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) that connects [Mystery Lake](./Mystery%20Lake%20%28region%29.md) to a [Cave](./Cave%20%28Transition%20Zone%29.md) and then subsequently to [Pleasant Valley](./Pleasant%20Valley.md). It was the 2nd Transition Zone to be released in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Resident wildlife consists of [Rabbits](./Rabbit.md) and occasionally a [Wolf](./Wolf.md) patrol is often found near the base of the Dam itself. [Reishi Mushrooms](./Reishi%20Mushroom.md) and other plants can be harvested in the area near the banks of the river. [Ice Fishing](./Ice%20Fishing.md) is possible on the ice below the Dam using Free Form Ice Holes.
@@ -43,16 +39,6 @@ The area has few notable locations, aside from a [Warm Cave](./Warm%20Cave.md) t
 
 The Carter Hydro Dam can not be re-entered by walking back into the push door if exited from inside the Dam, nor can it be propped open as the door automatically closes and locks behind you. A broken window across from the dam exit can be used to regain entry into the Dam, doing so requires walking across the other side of the Dam by via a ledge.
 
-<!-- #wildlife_availability -->
-​
-
-<!-- #Wildlife_Availability -->
-​
-
-<!-- #Wildlife_availability -->
-​
-
-<!-- #wildlife-availability -->
 ## Wildlife Availability
 
 Only 2 animals are found in this region.
@@ -61,10 +47,6 @@ Only 2 animals are found in this region.
 - [Wolves](./Wolf.md) often spawn in the area directly below the Dam spillway.
 - 2 [Deer Carcasses](./Deer%20Carcass.md) can sometimes spawn.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 Despite having no marked locations, 2 Region Transition icons can be found:
@@ -74,10 +56,6 @@ Despite having no marked locations, 2 Region Transition icons can be found:
 
 The exit door to the dam does not count as a Region Transition icon.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![A detailed map of Winding River v2.35 (includes spoilers)](../assets/WR_map.png)

@@ -21,16 +21,8 @@ Volume One was released on Steam as DLC on August 28, 2017 and later on Bandcamp
 
 The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode](./Survival%20Mode.md), and [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).
 
-<!-- #volume_one -->
-​
+## Tracklist
 
-<!-- #Volume_One -->
-​
-
-<!-- #Volume_one -->
-​
-
-<!-- #volume-one -->
 ### Volume One
 
 ![AlbumArtwork](../assets/AlbumArtwork.png)
@@ -122,16 +114,6 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 25 | Trepidation | 0:39 | — |
 | 26 | Void | 0:18 | — |
 
-<!-- #volume_two -->
-​
-
-<!-- #Volume_Two -->
-​
-
-<!-- #Volume_two -->
-​
-
-<!-- #volume-two -->
 ### Volume Two
 
 ![Original 2020 cover](../assets/Cover.png)_Original 2020 cover_ ![Updated 2026 cover](../assets/Coverv2.png)_Updated 2026 cover_
@@ -180,16 +162,6 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 11 | Ash Canyon | 2:45 | — |
 | 12 | Blackrock [a] | 3:08 | — |
 
-<!-- #volume_three -->
-​
-
-<!-- #Volume_Three -->
-​
-
-<!-- #Volume_three -->
-​
-
-<!-- #volume-three -->
 ### Volume Three
 
 ![SoundtrackVolume3](../assets/SoundtrackVolume3.png)
@@ -257,38 +229,14 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 15 | You Should Not Be Here | 2:21 | — |
 | 16 | Life After Death | 1:15 | — |
 
-<!-- #licensed_tracks -->
-​
+## Other
 
-<!-- #Licensed_Tracks -->
-​
-
-<!-- #Licensed_tracks -->
-​
-
-<!-- #licensed-tracks -->
 ### Licensed Tracks
 
 | No. | Title | Artist | Length | Appearance |
 | --- | --- | --- | --- | --- |
 | 1 | The Lion's Roar | [First Aid Kit](./First%20Aid%20Kit.md) | 2:00 | Intro cinematic for Story Mode. |
 
-<!-- #removedunreleased_tracks -->
-​
-
-<!-- #Removed/Unreleased_Tracks -->
-​
-
-<!-- #removed/unreleased_tracks -->
-​
-
-<!-- #Removed/unreleased_tracks -->
-​
-
-<!-- #Removed/unreleased_Tracks -->
-​
-
-<!-- #removedunreleased-tracks -->
 ### Removed/Unreleased Tracks
 
 | No. | Title | Length | Notes |
@@ -302,10 +250,6 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | — | Darkwalker theme | ? | Not found in any official release |
 | — | Cougar theme | ? | Not found in any official release |
 
-<!-- #Footnotes -->
-​
-
-<!-- #footnotes -->
 ## Footnotes
 
 Working titles sourced from the composers' websites and SoundCloud: [b]–[e], [q]–[r] from [Cris Velasco's website](http://crisvelasco.com/); [a], [f]–[p] from [Sascha Dikiciyan's website](https://www.sonicmayhem.com/) and SoundCloud playlist.
@@ -329,10 +273,6 @@ Working titles sourced from the composers' websites and SoundCloud: [b]–[e], [
 - [q] Renamed from "The Facility" to "Atwood".
 - [r] Renamed from "Mackenzie's Radio Message" to "There's One More Thing I Gotta Do".
 
-<!-- #Notes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 **May 5, 2026 Update:** With the release of Volume Three, Hinterland made several changes to the soundtracks:
@@ -344,16 +284,6 @@ Working titles sourced from the composers' websites and SoundCloud: [b]–[e], [
 - **Minor title variations:** The promotional artwork for Volume Three lists the track as "Rüdiger's Dream" (with umlaut), while the Steam release uses "Rudiger's Dream".
 - **The Silent Hunter** (V3D3 #13) shares its name with the May 2015 update "Silent Hunter" which introduced bow hunting and other mechanics.
 
-<!-- #external_links -->
-​
-
-<!-- #External_Links -->
-​
-
-<!-- #External_links -->
-​
-
-<!-- #external-links -->
 ## External Links
 
 - [Soundtrack on Steam](https://store.steampowered.com/dlc/305620/)

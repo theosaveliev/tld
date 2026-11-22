@@ -34,10 +34,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Cured Fish** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Cured Fish can only be acquired by placing any type of raw fish with condition higher than 40% inside a [Meat Curing Box](./Meat%20Curing%20Box.md) filled with [Salt](./Salt.md) for 7 in-game days. Placing meat inside a Meat Curing Box will instead produce [Cured Meat](./Cured%20Meat.md).

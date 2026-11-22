@@ -25,7 +25,7 @@
 
 **Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 1 hour
 
-**Repair:** [Whetstone](./Whetstone.md) 12-5 minutes<br>3%-5%
+**Repair:** [Whetstone](./Whetstone.md) 12-5 minutes 3%-5%
 
 > “**An improvised hatchet. Basically a heavy piece of metal with sharpened edge. Not fancy, but utilitarian.**”
 >
@@ -33,10 +33,6 @@
 
 The **Improvised Hatchet** is a tool in _The Long Dark_, primarily for woodcutting and self defense.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Functioning similarly to the hatchet, improvised hatchets may be used to harvest [sticks](./Stick.md) from branches, [Cedar Firewood](./Cedar%20Firewood.md) and [Fir Firewood](./Fir%20Firewood.md) from tree limbs, [Reclaimed Wood](./Reclaimed%20Wood.md) from furniture or to break ice for [Ice Fishing](./Ice%20Fishing.md).
@@ -58,10 +54,6 @@ Uses of Improvised Hatchet:
 
 When carried and selected for self-defense at the start of a Wolf Struggle, Improvised Hatchets deal high damage with a low chance per-hit to cause the wolf to flee, as well as a moderate chance to inflict [Blood Loss](./Blood%20Loss.md) on the Wolf (which is lethal over time). Improvised Hatchets take low damage from being used in a struggle, and are inferior to Hatchets when used in this way. For more information on Struggles, see: [Wildlife Struggles](./Struggle.md).
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Improvised Hatchet**
@@ -84,20 +76,12 @@ Forging improvised hatchets is only possible at a [furnace](./Furnace.md) with a
 
 In Interloper mode hatchets and improvised hatchets will never spawn; requiring forging to create.
 
-<!-- #Repair -->
-​
-
-<!-- #repair -->
 ## Repair
 
 Improvised Hatchets may be repaired using a [Whetstone](./Whetstone.md) and the [Sharpening](./Sharpening.md) skill, restoring 3% condition to the hatchet and causing 5% condition damage to the whetstone.
 
 The [Milling Machine](./Milling%20Machine.md) in [Bleak Inlet](./Bleak%20Inlet.md) or [Blackrock](./Blackrock.md) may repair a non-ruined improvised hatchet to 100% condition for one scrap metal, during an active [Aurora](./Aurora.md). Repairing Improvised Hatchet or Improvised Knife with the Milling Machine is more efficient with Scrap Metal than [forging](./Forge.md) new ones.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - A broken Hatchet is the icon and logo for _The Long Dark_ on all platforms, including [the official Hinterlands website](https://hinterlandgames.com/), [forums](https://hinterlandforums.com/forums/) and [merchandise](https://www.hinterlandstore.com/).

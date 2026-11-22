@@ -32,10 +32,6 @@
 
 in [Perseverance Wilds](./Perseverance%20Wilds.md) in the main mission [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Wet Paper**_
@@ -44,16 +40,6 @@ Nothing, nothing will stop the voices. Going to go deeper somehow.
 
 Weigh myself down where they can't find me. Where it's cold enough and dark enough.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**

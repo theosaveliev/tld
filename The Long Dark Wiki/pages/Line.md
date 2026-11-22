@@ -37,10 +37,6 @@
 
 A **Line** is a tool that is required for building a [Fishing Tackle](./Fishing%20Tackle.md). Line can either constructed at a [Work Bench](./Work%20Bench.md) from [Cured Gut](./Cured%20Gut.md), or can occasionally be found when searching containers.
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Line**
@@ -53,20 +49,12 @@ A **Line** is a tool that is required for building a [Fishing Tackle](./Fishing%
 
 **Quantity:** 1
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Fishing Tackle](./Fishing%20Tackle.md) | None | - 1 × [Hook](./Hook.md)<br>- 1 × [Line](./Line.md) |
+| [Fishing Tackle](./Fishing%20Tackle.md) | None | - 1 × [Hook](./Hook.md) - 1 × [Line](./Line.md) |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Line.png)

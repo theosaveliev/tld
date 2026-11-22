@@ -47,18 +47,10 @@ Harvest
 
 10 x [Scrap Metal](./Scrap%20Metal.md) (Large)
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Metal shelves can be harvested for their [Scrap Metal](./Scrap%20Metal.md) with a [Hacksaw](./Hacksaw.md). Metal shelves are very common and can have a large variety of loot on them and may hold containers on each shelf. They are most common in industrial locations but can be found in other locations such as mines and [Prepper Caches](./Prepper%20Cache.md), as well.
 
-<!-- #Sizes -->
-​
-
-<!-- #sizes -->
 ## Sizes
 
 There are 5 different sizes of metal shelves.
@@ -69,10 +61,6 @@ There are 5 different sizes of metal shelves.
 - Large shelves have 4 levels of shelves.
 - Extra Large shelves also have 4 rows but are wider than medium shelves.
 
-<!-- #Harvesting -->
-​
-
-<!-- #harvesting -->
 ## Harvesting
 
 Most metal shelves may be harvested for scrap metal; however, it is most efficient to harvest Large metal shelves. The amount of Scrap Metal received per unit time, per calorie, and per condition of the Hacksaw are higher. One location with a large number of these shelves is in the first-floor employee area of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md#Upper_levels).
@@ -87,10 +75,6 @@ Most metal shelves may be harvested for scrap metal; however, it is most efficie
 | Large | 8 | 180 minutes | 750 | -5% |
 | Extra Large | 10 | 210 minutes | 875 | -5% |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![3 different types of metal shelves in lower Carter Hydro Dam. Left: 1 small one (4 rows but narrow) Middle: 2 small ones (3 rows but wide) Right: 1 medium one Next to the door on the right is an extra small one.](../assets/20210324171359_1.jpg)

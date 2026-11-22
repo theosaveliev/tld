@@ -34,9 +34,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>30 minutes
+**Harvest:** 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) 30 minutes
 
-**Repair:** 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md),<br>1 × [Cured Gut](./Cured%20Gut.md)<br>100 minutes<br>30% condition
+**Repair:** 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md), 1 × [Cured Gut](./Cured%20Gut.md) 100 minutes 30% condition
 
 > “**Warm, supple, and tough. Offers a great combination of mobility and warmth. Wear these to feel like the Mad Max of the North.**”
 >
@@ -44,20 +44,12 @@
 
 **Deerskin Pants** are a type of craftable [Clothing](./Clothing.md) made from [Cured Deer Hide](./Cured%20Deer%20Hide.md) and [Cured Gut](./Cured%20Gut.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Deerskin Pants are less warm compared to [Deerskin Boots](./Deerskin%20Boots.md), yet require more materials to craft. However, in an early [Interloper](./Interloper.md) game when the player has only a single pair of [Jeans](./Jeans.md), crafting the deerskin pants may be slightly preferable because they can be _added_ onto the player's existing outfit (two slots for outer legs), whereas using the Deerskin Boots would require swapping out whatever boots the player is already wearing.
 
 They offer the highest protection, water- and windproofing bonuses of all available outer legwear and are only surpassed by the rare [Snow Pants](./Snow%20Pants.md) and the hard to obtain [Wolfskin Pants](./Wolfskin%20Pants.md) in terms of warmth. They are, however, also second only to Wolfskin Pants in terms of weight, and are tied for both the worst warmth-to-weight ratio and mobility penalty.
 
-<!-- #Strategy -->
-​
-
-<!-- #strategy -->
 ## Strategy
 
 Deerskin pants are an excellent outer layer if combined with lighter pants that focus on warmth bonus or warmth-to-weight ratio. Wearing two pairs of deerskin pants is possible but will add up to significant mobility reduction and encumbrance.
@@ -66,10 +58,6 @@ Since they can be repaired with deer hides instead of cloth they are arguably on
 
 They are possible to obtain reliably and relatively early in the game by harvesting [Deer Carcasses](./Deer%20Carcass.md) that can be found at several locations in all [regions](./Region.md) or obtained by actively [hunting](./Hunting.md).
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Deerskin Pants**
@@ -86,10 +74,6 @@ They are possible to obtain reliably and relatively early in the game by harvest
 
 **Quantity:** 3
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Clothing model icon](../assets/Deerskin_Pants_Model_icon.png)
@@ -98,16 +82,6 @@ They are possible to obtain reliably and relatively early in the game by harvest
 
 ![Old model.](../assets/Deerskin_pants_%28historical%29.png)
 
-<!-- #game_history -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #game-history -->
 ## Game history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**

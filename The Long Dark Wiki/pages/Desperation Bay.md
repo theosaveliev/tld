@@ -28,18 +28,10 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Desperation Bay** is a [Wintermute](./Wintermute.md)-exclusive region, which consists of a coastline and bay near the town of [Perseverance Mills](./Perseverance%20Mills.md), to which it connects.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A rugged coastline to the north of Perseverance Mills. It consists of a small strip of land butting up against the ocean much like Desolation Point. There are a few cabins scattered throughout the coastline but the main attractions are the lighthouse to the South and the Fukkatsu Maru an ice locked Japanese cargo ship to the North.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 The region has very few named locations:

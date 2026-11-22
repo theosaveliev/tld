@@ -14,20 +14,10 @@
 
 **Type:** Landmark
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The creek is a good source of [Cat Tail](./Cat%20Tail.md). Right next to its waterfall is the entrance to an explorable cave that leads to the [Marsh Ridge](./Marsh%20Ridge.md). You can find a [Mountaineering Rope](./Mountaineering%20Rope.md), a [Deer Carcass](./Deer%20Carcass.md), and [Coal](./Coal.md) in this cave. Further right of the creek is the [Shortwave Tower.](./Shortwave%20Tower.md)
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![20170304105849 1](../assets/20170304105849_1.jpg)
-
-[ru:Заводь](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B2%D0%BE%D0%B4%D1%8C)

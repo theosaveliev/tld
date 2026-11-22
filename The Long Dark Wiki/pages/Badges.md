@@ -9,10 +9,6 @@
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Badges are unique unlockable challenge based achievements (not to be confused with regular [achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md)) that can be acquired from playing [_The Long Dark_](./The%20Long%20Dark.md).
@@ -21,19 +17,6 @@ As their name implies, Badges are awarded as commemorative status symbols, and a
 
 Badges can be viewed in Survival Mode main menu, under the Challenges and Badges menu, alongside Feats. They can also be viewed in the Badges section of the in-game pause menu while in Survival Mode.
 
-<!-- #list_of_badges -->
-​
-
-<!-- #List_of_Badges -->
-​
-
-<!-- #List_of_badges -->
-​
-
-<!-- #List_Of_Badges -->
-​
-
-<!-- #list-of-badges -->
 ## List of Badges
 
 **Survival Mode Challenge Badges**
@@ -65,27 +48,19 @@ Survival Feats
 
 | Badge | Badge Name | Unlock Requirements | Availability |
 | --- | --- | --- | --- |
-| [Badge challenge FourDaysOfNightHalf](../assets/Badge_challenge_FourDaysOfNightHalf.png) | 4DON Twilight Badge (2018) | Survived for 2 nights within the [4 Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md)<br>[Must survive for 2 real world hours each day of the event for badge progress to accumulate\*] | 27 October 10 PM PST- November 10 AM PST 2018 |
-| [Badge challenge FourDaysOfNightFull](../assets/Badge_challenge_FourDaysOfNightFull.png) | 4DON Midnight Badge (2018) | Survived all 4 nights within the [4Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md)<br>[Must survive for 2 real world hours each day of the event for badge progress to accumulate\*] | 27 October 10 PM PST- November 10 AM PST 2018 |
-| [Badge challenge FourDaysOfNight2019Half](../assets/Badge_challenge_FourDaysOfNight2019Half.png) | 4DON Twilight Badge (2019) | Survived for 2 nights within the [4 Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md)<br>[Must survive for 2 real world hours each day of the event for badge progress to accumulate\*] | 27 October 10 PM PST- November 10 AM PST 2019 |
-| [Badge challenge FourDaysOfNight2019Full](../assets/Badge_challenge_FourDaysOfNight2019Full.png) | 4DON Midnight Badge (2019) | Survived all 4 nights within the [4 Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md)<br>[Must survive for 2 real world hours each day of the event for badge progress to accumulate\*] | 27 October 10 PM PST- November 10 AM PST 2019 |
+| [Badge challenge FourDaysOfNightHalf](../assets/Badge_challenge_FourDaysOfNightHalf.png) | 4DON Twilight Badge (2018) | Survived for 2 nights within the [4 Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md) [Must survive for 2 real world hours each day of the event for badge progress to accumulate\*] | 27 October 10 PM PST- November 10 AM PST 2018 |
+| [Badge challenge FourDaysOfNightFull](../assets/Badge_challenge_FourDaysOfNightFull.png) | 4DON Midnight Badge (2018) | Survived all 4 nights within the [4Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md) [Must survive for 2 real world hours each day of the event for badge progress to accumulate\*] | 27 October 10 PM PST- November 10 AM PST 2018 |
+| [Badge challenge FourDaysOfNight2019Half](../assets/Badge_challenge_FourDaysOfNight2019Half.png) | 4DON Twilight Badge (2019) | Survived for 2 nights within the [4 Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md) [Must survive for 2 real world hours each day of the event for badge progress to accumulate\*] | 27 October 10 PM PST- November 10 AM PST 2019 |
+| [Badge challenge FourDaysOfNight2019Full](../assets/Badge_challenge_FourDaysOfNight2019Full.png) | 4DON Midnight Badge (2019) | Survived all 4 nights within the [4 Days Of Night Event Challenge](./4%20Days%20of%20Night%20Event.md) [Must survive for 2 real world hours each day of the event for badge progress to accumulate\*] | 27 October 10 PM PST- November 10 AM PST 2019 |
 | [Badge CanadianFeast](../assets/Badge_CanadianFeast.png) | Winter's Embrace Canadian Feast Badge (2020) | Consume 25 bottles of [Maple Syrups](./Maple%20Syrup.md) and 25 bags of [Ketchup Chips](./Ketchup%20Chips.md) within the [Winter's Embrace Event Challenge](./Winter%27s%20Embrace.md) | June 29th-July 31st 2020 |
 | [Badge WinterInJuly](../assets/Badge_WinterInJuly.png) | Winter's Embrace Winter In July Badge (2020) | Survived for 25 days within the [Winter's Embrace Event Challenge](./Winter%27s%20Embrace.md) | June 29th-July 31st 2020 |
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - It is entirely possible to miss the 4DON Twilight and Midnight Badges (2018 or 2019) despite meeting the requirements of surviving 2 to 4 days in game. The player has a Journel Objective that tracks the remaining survival time progress each day of the event (starting at 2 real world hours), yet the game does not autosave once the allotted time has passed (despite showing a check mark in the Objective). This requires the player to remember to force an autosave (sleeping, walking through transition doors), or else they will miss earning the Badges.
 - [Escape The Darkwalker](./Escape%20the%20Darkwalker.md) was originally a two week seasonal event for Halloween 2020 from October 29th to November 12th. A month later it was added as a permanent Challenge mode.
 - The victory condition for the original (Halloween) version of Escape The Darkwalker was surving for 60 minutes (real-time) in a single game, this was changed with the [Challenge](./Challenge.md) version of Escape the Darkwalker to banishing the entity.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old version of the Whiteout Badge](../assets/Whiteout_badge.png)

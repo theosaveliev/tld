@@ -30,26 +30,12 @@
 
 During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) finds the note inside a car on the road to the [Orca Gas Station](./Orca%20Gas%20Station.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Milton Hidden Cache Note**_
 
 Hey girl -- that grumpy jerk at Orca left the back door open so I snuck in and took some stuff. I thought we might need it for when we get out of here. I can't wait to get over to the mainland with you, where we can finally be together "for real". I'll meet you there tomorrow night like we planned. I stashed the stuff near that big fallen tree in the marshy area behind St. Christopher's. You know, where we met that one time and drank your dad's contraband.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

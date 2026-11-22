@@ -36,10 +36,6 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 The Cylinder is narrated by Chief Engineer Best.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Wax Cylinder 8**_
@@ -67,17 +63,3 @@ And McLeod is going to throw it all away.
 I'll be damned if I'll let it happen.
 
 I'll find a way to save as much as I can.
-
-<!-- #game_history -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #game-history -->
-## Game history
-
-[ru:Восковой валик 08](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D0%B0%D0%BB%D0%B8%D0%BA_08)

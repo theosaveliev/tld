@@ -30,10 +30,6 @@
 
 It is found on a table inside the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) house.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Utilities Bill**_
@@ -56,16 +52,6 @@ Thank you, and have a nice day.
 
 MAINLAND POWER CORP.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

@@ -24,10 +24,6 @@
 
 **Gunsmithing** is a Survival [Skill](./Skills.md) that enables the player to craft ammunition for the [Revolver](./Revolver.md) and [Hunting Rifle](./Hunting%20Rifle.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Gunsmithing skill allows the crafting of [Rifle Ammunition](./Rifle%20Ammunition.md) and [Revolver Ammunition](./Revolver%20Ammunition.md), but may only be utilized at the [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) and [Ammunition Forge](./Ammunition%20Forge.md) inside:
@@ -43,26 +39,12 @@ At the Ammunition Workbench, three ingredients are needed to craft ammunition:
 2. [Can of Gunpowder](./Can%20of%20Gunpowder.md): crafted from one [Stump Remover](./Stump%20Remover.md), [Dusting Sulfur](./Dusting%20Sulfur.md) and two [Charcoal](./Charcoal.md) (producing 0.5kg of Gunpowder), or found rarely as loot. 0.01kg of gunpowder is required per round, so one Can of Gunpowder can produce 50 rounds.
 3. [Bullet](./Bullet.md): crafted from [Scrap Lead](./Scrap%20Lead.md) harvested from [Car Batteries](./Car%20Battery.md) with a [Hacksaw](./Hacksaw.md). One Car Battery contains 6 Scrap Lead, and each Scrap Lead can be made into 6 Bullet, so one Car Battery can produce 36 rounds.
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 1. To craft bullets, you need to have the [Ammunition Forge](./Ammunition%20Forge.md) active and fueled. While active, you can craft Bullets at the [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) in sets of 6 in one hour. Each set of 6 Bullets crafted awards 1 skill point.
 2. When crafting Gunpowder, it takes 30 minutes, but the forge does not need to be active to craft. Each container of gunpowder crafted awards 1 skill point.
 3. Crafted ammunition takes just 5 minutes per cartridge and does not require the forge to be active to craft. Each individual round awards 1 skill point when crafted.
 
-<!-- #crafted_ammunition -->
-​
-
-<!-- #Crafted_Ammunition -->
-​
-
-<!-- #Crafted_ammunition -->
-​
-
-<!-- #crafted-ammunition -->
 ## Crafted Ammunition
 
 Crafting quality Condition Revolver/Rifle Ammunition is based on the Gunsmithing skill Level, with lower levels producing lower quality cartridges that are more likely to misfire, no matter the Condition of the Hunting Rifle or Revolver. The quality and Condition of the crafted ammunition will always be found next to the name of the ammo:
@@ -75,16 +57,6 @@ Crafting quality Condition Revolver/Rifle Ammunition is based on the Gunsmithing
 
 Ammunition that is found in the game world will always be in "Perfect" condition.
 
-<!-- #harvesting_ammunition -->
-​
-
-<!-- #Harvesting_Ammunition -->
-​
-
-<!-- #Harvesting_ammunition -->
-​
-
-<!-- #harvesting-ammunition -->
 ## Harvesting Ammunition
 
 A single Revolver/Rifle Cartridge can be harvested anywhere, and has a chance to produce the following after 5 minutes of [Harvesting](./Harvesting.md):
@@ -95,10 +67,6 @@ A single Revolver/Rifle Cartridge can be harvested anywhere, and has a chance to
 
 Higher level Gunsmithing Skill leads to a higher chance to recover most or all materials, but lower Gunsmithing Skill has a chance to successfully recover only 1 or 2 of the cartridge's components. One way to quickly level up Gunsmithing is to craft Poor quality ammunition and then simply harvest it at higher skill levels, then craft new ammunition again. Harvesting multiple rounds of ammunition can only be done one at a time however, making the process very tedious.
 
-<!-- #Notes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 - It's possible to increase Gunsmithing skill to 5 before crafting any actual ammunition by reading enough Research Books and crafting Bullets (or Gunpowder). Players can avoid ever crafting ammo capable of misfiring.
@@ -108,16 +76,6 @@ Higher level Gunsmithing Skill leads to a higher chance to recover most or all m
 - In Interloper difficulty Car Batteries, Scrap Lead and crafted Bullets are useless since no Hunting Rifle or Revolver will ever spawn. However, Gunpowder (and in turn, Dusting Sulfur and Stump Remover) can still be used as a [Fire Accelerant](./Fire%20Starting.md) (though finite and rarer than [Lantern Fuel](./Lantern%20Fuel.md)) as well as for crafting [Noisemakers](./Noisemaker.md).
 - Gunsmithing is the fastest skill to level up, as long as you have the materials to craft ammunition. Each Rifle Cartridge or Revolver Cartridge crafted grants one skill point, and takes only 5 in game minutes to craft. You can craft as many as 24 rounds in only 2 in game hours, resulting in 24 skill points, or about 1/4 of all the skill points you need to get to level 5. Of course, the ammunition you will receive will not be full quality until you reach level 5.
 
-<!-- #skill_levels -->
-​
-
-<!-- #Skill_levels -->
-​
-
-<!-- #Skill_Levels -->
-​
-
-<!-- #skill-levels -->
 ## Skill levels
 
 Players can increase their Gunsmithing skill by:
@@ -128,28 +86,14 @@ Players can increase their Gunsmithing skill by:
 - By repairing a firearm at a [Milling Machine](./Milling%20Machine.md)
 - A limited increase can be obtained from the [Research Book](./Research%20Book.md) _[Practical Gunsmithing](./Practical%20Gunsmithing.md)_, which increases the Gunsmithing by 10 skill points with 5 hours of research.
 
-&lt;table-progress-tracking table-id="7" unique-column-index="1"&gt;
-
 | Level | Skill points needed | Points to next level | Effects | Flavor text |
 | --- | --- | --- | --- | --- |
-| 1 | 0 | 15 | - Crafted ammunition condition is 20%<br>- 50% chance of ammunition component harvesting | You're new to Gunsmithing. You Craft poor-quality Ammunition that is likely to Misfire. When Harvesting Ammunition, you have an average chance to recover Bullets, Gunpowder and Shell Casings. |
-| 2 | 15 | 15 | - Crafted ammunition condition is 40%<br>- 60% chance of ammunition component harvesting | You have rudimentary Gunsmithing skills. You Craft mediocre Ammunition that tends to Misfire. When Harvesting existing Ammunition, you have a better-than average chance to recover Bullets, Gunpowder and Shell Casings. |
-| 3 | 30 | 20 | - Crafted ammunition condition is 60%<br>- 70% chance of ammunition component harvesting | You have well-developed Gunsmithing skills. You Craft good-quality Ammunition that is unlikely to Misfire. When Harvesting existing Ammunition, you have a good chance to recover Bullets, Gunpowder and Shell Casings. |
-| 4 | 50 | 50 | - Crafted ammunition condition is 80%<br>- 80% chance of ammunition component harvesting | You very experinced at Gunsmithing. You Craft great Ammunition that almost never Misfires. When Harvesting existing Ammunition, you have a high chance to recover Bullets, Gunpowder and Shell Casings. |
-| 5 | 100 | Max level | - Crafted ammunition condition is 100%<br>- 100% chance of ammunition component harvesting | You're an expert Gunsmith. You Craft exquisite Ammunition that will never Misfire. When Harvesting existing Ammunition, you will always successfully recover Bullets, Gunpowder and Shell Casings. |
+| 1 | 0 | 15 | - Crafted ammunition condition is 20% - 50% chance of ammunition component harvesting | You're new to Gunsmithing. You Craft poor-quality Ammunition that is likely to Misfire. When Harvesting Ammunition, you have an average chance to recover Bullets, Gunpowder and Shell Casings. |
+| 2 | 15 | 15 | - Crafted ammunition condition is 40% - 60% chance of ammunition component harvesting | You have rudimentary Gunsmithing skills. You Craft mediocre Ammunition that tends to Misfire. When Harvesting existing Ammunition, you have a better-than average chance to recover Bullets, Gunpowder and Shell Casings. |
+| 3 | 30 | 20 | - Crafted ammunition condition is 60% - 70% chance of ammunition component harvesting | You have well-developed Gunsmithing skills. You Craft good-quality Ammunition that is unlikely to Misfire. When Harvesting existing Ammunition, you have a good chance to recover Bullets, Gunpowder and Shell Casings. |
+| 4 | 50 | 50 | - Crafted ammunition condition is 80% - 80% chance of ammunition component harvesting | You very experinced at Gunsmithing. You Craft great Ammunition that almost never Misfires. When Harvesting existing Ammunition, you have a high chance to recover Bullets, Gunpowder and Shell Casings. |
+| 5 | 100 | Max level | - Crafted ammunition condition is 100% - 100% chance of ammunition component harvesting | You're an expert Gunsmith. You Craft exquisite Ammunition that will never Misfire. When Harvesting existing Ammunition, you will always successfully recover Bullets, Gunpowder and Shell Casings. |
 
-&lt;/table-progress-tracking&gt;
-
-<!-- #update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #update-history -->
 ## Update History
 
 \* HOTFIX **18 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.69)):**

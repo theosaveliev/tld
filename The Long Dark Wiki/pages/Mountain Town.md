@@ -46,10 +46,6 @@
 
 It is the setting for [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md), as well as the 8th region added to [Survival Mode](./Survival%20Mode.md). Milton is accessible via [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) (through a cave near the [Trapper's Homestead](./Trapper%27s%20Homestead.md)), [Forlorn Muskeg](./Forlorn%20Muskeg.md) (at [Marsh Ridge ](./Marsh%20Ridge.md)through a Rose Bush climb to [Milton Basin](./Milton%20Basin.md)), and to [Hushed River Valley](./Hushed%20River%20Valley.md) (through a cave between the [Trailer](./Trailer%20%28Mountain%20Town%20Region%29.md) and [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md)).
 
-<!-- #Description -->
-​
-
-<!-- #description -->
 ## Description
 
 Milton, the major point of interest in this region, is located approximately in the center of the map, and features a number of houses that can be searched for supplies, along with vehicles, a [post office](./Milton%20Post%20Office.md) and a [bank](./Milton%20Credit%20Union.md). While [wolves](./Wolf.md) do occasionally wander into town, they can often be avoided by ducking into a vehicle or building.
@@ -64,31 +60,17 @@ Finally, players can head out of town towards the west. The first major destinat
 
 Players who wish to have their [safe house](./Safehouse.md) in this region should keep in mind that entering/leaving Mountain Town from any other [region](./Region.md) besides the Hushed River Valley will require the use of [rope climbing](./Rope%20Climbing.md), making a [Travois](./Travois.md) impractical and limiting the amount of gear a player can take along.
 
-<!-- #harvestable_plants -->
-​
-
-<!-- #Harvestable_Plants -->
-​
-
-<!-- #Harvestable_plants -->
-​
-
-<!-- #harvestable-plants -->
 ## Harvestable Plants
 
 Mountain Town is a region rich in [Cat Tails](./Cat%20Tail.md) and [Rose Hips](./Rose%20Hip.md). Cat Tails can be found in abundance along the banks of the river passing by [Milton](./Milton.md) and at a pond in town, throughout the [Milton Basin](./Milton%20Basin.md), behind [St. Christopher's Church](./St.%20Christopher%27s%20Church.md), near the [Trailer](./Trailer%20%28Mountain%20Town%20Region%29.md), under the [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md), and near the [Radio Tower](./Radio%20Tower.md). The region also features high density of Rose Hips, particularly around and near [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md). There is also the highest concentration of [Oak Trees](./Oak%20Tree.md) of all regions, along with corresponding high amount of harvestable [Acorns](./Acorns.md), present especially around the Milton Park and Picnic Area.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 The region has a number of distinctive areas and named locations, most of which are located in or a short distance from the town itself:
 
 | Column 1 | Column 2 |
 | --- | --- |
-| - [Bank Manager's House](./Bank%20Manager%27s%20House.md) (Wintermute [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) only)<br>- [Cave (Mountain Town location)](./Cave%20%28Mountain%20Town%20location%29.md)<br>- Crashed Plane ([Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md))<br>- [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md)<br>- [Graveyard](./Graveyard.md)<br>- [Hermit's Cabin](./Hermit%27s%20Cabin.md)<br>- [Milton Basin](./Milton%20Basin.md)<br>- [Milton Credit Union](./Milton%20Credit%20Union.md)<br>- [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md)<br>- [Milton Park](./Milton%20Park.md)<br>- [Milton Post Office](./Milton%20Post%20Office.md)<br>- [Old Schoolhouse](./Old%20Schoolhouse.md)<br>- [Orca Gas Station](./Orca%20Gas%20Station.md)<br>- [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) | - [Picnic Area](./Picnic%20Area.md)<br>- [Radio Tower](./Radio%20Tower.md)<br>- [Rocky Refuge](./Rocky%20Refuge.md)<br>- [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md)<br>- [St. Christopher's Church](./St.%20Christopher%27s%20Church.md)<br>- [The Arch](./The%20Arch%20%28Mountain%20Town%20location%29.md)<br>- To Cave System (Region Transition to [Hushed River Valley](./Hushed%20River%20Valley.md))<br>- To Cave System (Region Transition to [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md))<br>- To Forlorn Muskeg (Region Transitions to [Forlorn Muskeg](./Forlorn%20Muskeg.md))<br>- Town of Milton ([Milton](./Milton.md))<br>- [Wood Lot](./Wood%20Lot.md)<br>- [Wood Lot](./Wood%20Lot.md) 3 separate Wood Lots<br>- [Wood Lot](./Wood%20Lot.md) |
+| - [Bank Manager's House](./Bank%20Manager%27s%20House.md) (Wintermute [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) only) - [Cave (Mountain Town location)](./Cave%20%28Mountain%20Town%20location%29.md) - Crashed Plane ([Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md)) - [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) - [Graveyard](./Graveyard.md) - [Hermit's Cabin](./Hermit%27s%20Cabin.md) - [Milton Basin](./Milton%20Basin.md) - [Milton Credit Union](./Milton%20Credit%20Union.md) - [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) - [Milton Park](./Milton%20Park.md) - [Milton Post Office](./Milton%20Post%20Office.md) - [Old Schoolhouse](./Old%20Schoolhouse.md) - [Orca Gas Station](./Orca%20Gas%20Station.md) - [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) | - [Picnic Area](./Picnic%20Area.md) - [Radio Tower](./Radio%20Tower.md) - [Rocky Refuge](./Rocky%20Refuge.md) - [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) - [St. Christopher's Church](./St.%20Christopher%27s%20Church.md) - [The Arch](./The%20Arch%20%28Mountain%20Town%20location%29.md) - To Cave System (Region Transition to [Hushed River Valley](./Hushed%20River%20Valley.md)) - To Cave System (Region Transition to [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)) - To Forlorn Muskeg (Region Transitions to [Forlorn Muskeg](./Forlorn%20Muskeg.md)) - Town of Milton ([Milton](./Milton.md)) - [Wood Lot](./Wood%20Lot.md) - [Wood Lot](./Wood%20Lot.md) 3 separate Wood Lots - [Wood Lot](./Wood%20Lot.md) |
 
 A few other locations can be found in the region:
 
@@ -96,20 +78,12 @@ A few other locations can be found in the region:
 - A [Trailer](./Trailer%20%28Mountain%20Town%20Region%29.md) can be found in the mountains near the Region Transition to [Hushed River Valley](./Hushed%20River%20Valley.md).
 - Several [Milton Houses](./Milton%20House.md) can be found in the town.
 
-<!-- #Notes -->
-​
-
-<!-- #notes -->
 ## Notes
 
-- According to the game's developer, the name _Mountain Town_ was intended to be an "internal name only" for the Milton area;<span id="fnref1"></span>[¹](#fn1) however the name appears on both the Great Bear Island map and the region map of the area.
+- According to the game's developer, the name _Mountain Town_ was intended to be an "internal name only" for the Milton area;[^1] however the name appears on both the Great Bear Island map and the region map of the area.
 - In Survival Mode, 'returning' to the original plane crash site (the starting area in [Wintermute](./Wintermute.md)) is actually worthwhile, as the site itself (or rarely, a car leading to the site) may yield a copy of "[_Advanced Guns, Guns, Guns!_](./Skills.md)" and a number of [Rose Hips](./Rose%20Hip.md). Also, the green crates at the site can be broken down, potentially revealing loot inside. In addition, the [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) holds numerous lootable cars, of which one single trunk/frozen corpse will contain a mid-to-high tier coat or parka (randomly placed).
 - The region has an unusually high number of [Wolves](./Wolf.md) in Survival Mode, even on lower difficulties. In Story mode, [Grey Mother](./Grey%20Mother.md) and [Will](./Will%20Mackenzie.md) discuss the inordinately large number of wolves in the area, with Grey Mother commenting that _"wolves are quick to move in when the people go"_.
 
-<!-- #Maps -->
-​
-
-<!-- #maps -->
 ## Maps
 
 ![A detailed map of Mountain Town v2.35 (spoilers)](../assets/MT_map_default.png)
@@ -128,38 +102,20 @@ A few other locations can be found in the region:
 
 _The map found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) is different from Survival Mode_
 
-<!-- #game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #game-history -->
 ## Game History
 
 - Mountain Town was added to the game on 1 August 2017 in the [Wintermute update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00).
 - Mountain Town became available in Survival Mode on 7 December 2017 in the [Rugged Sentinel](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16) update.
 - Mountain Town map has changed with Wintermute Redux update.
 
-<!-- #References -->
-​
-
-<!-- #references -->
 ## References
 
 [ru:Милтон](https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D1%82%D0%BE%D0%BD)
 
 [es:Pueblo de montaña](https://es.wikipedia.org/wiki/Pueblo_de_monta%C3%B1a) [fr:Milton](https://fr.wikipedia.org/wiki/Milton)
 
-<!-- #footnotes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 ---
 
-1. <span id="fn1"></span>Raphael van Lierop‏, _Twitter_, 5 August 2017 [https://twitter.com/RaphLife/status/893702535973752832](https://twitter.com/RaphLife/status/893702535973752832)[↩︎](#fnref1)
+[^1]: Raphael van Lierop‏, _Twitter_, 5 August 2017 [https://twitter.com/RaphLife/status/893702535973752832](https://twitter.com/RaphLife/status/893702535973752832)

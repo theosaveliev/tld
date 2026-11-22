@@ -16,10 +16,6 @@
 
 **Type:** Landmark
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The canyon leading from Shattered Cove to Angler's Den](../assets/ShatteredCoveToAnglersDenCanyon.png)

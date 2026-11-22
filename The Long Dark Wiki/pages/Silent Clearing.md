@@ -16,10 +16,6 @@
 
 **Type:** Outdoors
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Silent Clearing is located to the northeast of [Coastal Townsite](./Coastal%20Townsite.md).

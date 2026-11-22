@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md) 20 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>25% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 25% condition
 
 > “**Cheap nylon outer layer that's good for blocking wind and that's about it.**”
 >
@@ -36,10 +36,6 @@
 
 The **Windbreaker** is a type of [clothing](./Clothing.md) in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Low-tier outer layer. It grants highly windproof and light, but offers almost no warmth. It should be worn as an outer layer to make use of it's windproofing.
@@ -48,16 +44,6 @@ Low-tier outer layer. It grants highly windproof and light, but offers almost no
 
 ![Clothing model icon damaged](../assets/Windbreaker_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

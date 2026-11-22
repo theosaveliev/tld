@@ -44,10 +44,6 @@
 
 **Cup of Herbal Tea**is a [drink](./Food%20And%20Drink.md) item in _The Long Dark._
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Cup of Herbal Tea is cooked at a [Fire](./Fire.md) from one Herbal Tea package and 0.25 liters of [Water (Potable)](./Water%20%28Potable%29.md). Drinking Herbal Tea restores hydration and a small amount of calories, as well as the benefit "[Improved Rest](./Improved%20Rest.md)" which increases the [Condition](./Condition.md) restored by [Sleep](./Sleep.md) by an additional 2% (1% for Interloper) per hour, if all four [needs](./Needs.md) are met. This benefit lasts for 12 hours once drunk or 6 hours of sleep.
@@ -56,10 +52,6 @@ Herbal Tea may be heated at a fire to apply the [Warming Up](./Warming%20Up.md) 
 
 The benefit of Herbal Tea is similar to that of [Birch Bark Tea](./Birch%20Bark%20Tea.md), being slightly more powerful but non-renewable and requires rest for the benefit to apply.
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 **Cup of Herbal Tea**
@@ -76,10 +68,6 @@ The benefit of Herbal Tea is similar to that of [Birch Bark Tea](./Birch%20Bark%
 
 **Quantity:** 1
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Most Herbal Tea on [Great Bear Island](./Great%20Bear%20Island.md) can be found inside of [Cargo Containers](./Cargo%20Container.md) in [Timberwolf Mountain](./Timberwolf%20Mountain.md), and also rarely in all regions: usually inside cupboards (tins) or inside of microwaves (cups).
@@ -87,26 +75,12 @@ The benefit of Herbal Tea is similar to that of [Birch Bark Tea](./Birch%20Bark%
 - Teas and Coffee never spoil once cooked.
 - Teas and Coffee may be heated to grant Warming Up by playing them on a fire's cooking spot, or simply nearby a lit fire.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![old model](../assets/Herbal_tea_cup.png)
 
 ![Old icon](../assets/Cup_of_herbal_tea_icon_old.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - HOTFIX **20 March 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.27)):**

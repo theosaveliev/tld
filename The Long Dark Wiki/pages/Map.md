@@ -19,32 +19,14 @@ _For Individual maps, see [Region](./Region.md)._
 
 The **Map** is a [Survival Menu](./Survival%20Menu.md) menu showing a region of [Great Bear Island](./Great%20Bear%20Island.md). On the world map, the player can view major geographic markers, as well as regions' relative locations to one another. Each regional map shows more detailed geographic features, as well as informational icons for specific locations and buildings.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The map is useful for navigating and displays important features in the areas the player has visited. The map does not label the position of the player, so determining where the player is may require comparing the surroundings to the features on the map. The map also contains a sketch which lays out the positions of all of the [Regions](./Region.md) relative to each other, as well as some of the transition zones.
 
-<!-- #survival_mode -->
-​
-
-<!-- #Survival_Mode -->
-​
-
-<!-- #Survival_mode -->
-​
-
-<!-- #survival-mode -->
 ## Survival Mode
 
 In [Survival Mode](./Survival%20Mode.md), the map starts out blank for each region. The map can be gradually filled in by surveying an area with [Charcoal](./Charcoal.md). Both the map and charcoal can be easily accessed through the "navigation" section of the [Radial Menu](./Radial%20Menu.md).
 
-<!-- #Surveying -->
-​
-
-<!-- #surveying -->
 ### Surveying
 
 ![The navigation radial options](../assets/Mapping_radial2.jpg)_The navigation radial options_ Selecting Charcoal will equip it, and after this, left-clicking will survey the surrounding area. The area mapped after surveying is based on the player's current altitude (i.e. surveying from higher altitudes increases how much of the map is revealed). However, if the player is adjacent to a cliff, the area mapped will stop at the cliff face. This is true both if the player is surveying from the top of the cliff, or the bottom. Although the map does not label the position of the player, surveying an area will put the player's position in the center of the circle added to the map, from which it can be easily determined where the player is located. ![A partially explored map](../assets/Map_mechanic3.jpg)_A partially explored map_ Surveying can only be done outdoors during the daytime while the [Weather](./Weather.md) is clear. "Daytime" can extend further into dusk than is immediately intuitive (until the sun has entirely set on the HUD's time indicator). Surveying can only be done at night during a full moon or [Aurora](./Aurora.md).
@@ -53,16 +35,6 @@ The player's altitude affects the amount of area revealed when surveying. It is 
 
 The passage of time (roughly 20 game minutes per survey) is accelerated while surveying. A player's empty [Stamina](./Stamina.md) bar can be completely refilled by surveying an area. Likewise, the player's [Needs](./Needs.md) will deteriorate and the player may develop an [Affliction](./Afflictions.md) or suffer loss of [Condition](./Condition.md) if they are not careful. It is necessary to survey many times in order to completely map out a region, and it is more efficient to only survey areas of interest.
 
-<!-- #named_locations -->
-​
-
-<!-- #Named_Locations -->
-​
-
-<!-- #Named_locations -->
-​
-
-<!-- #named-locations -->
 ### Named Locations
 
 Occasionally while exploring, a message will appear in the top left corner of the screen denoting the current area you have discovered. These named locations can be either marked or unmarked on the Map. Named locations appear as major building icons in a region or as black text on the Map. Surveying a named location will have it be recorded in the [Surveyed Locations](./Surveyed%20Locations.md) tab in the Collections submenu of the [Journal](./Journal.md).
@@ -71,18 +43,10 @@ This collectible is a checklist of all surveyable locations within the game that
 
 There are currently 215 locations that can be surveyed on Great Bear Island.
 
-<!-- #Vistas -->
-​
-
-<!-- #vistas -->
 ### Vistas
 
 [Polaroids](./Polaroids.md) are hidden in some areas that will mark a vista location on the map. Traveling to the vista and surveying the area will reveal a very large portion of the map. Note that it is necessary to find the Polaroid associated with a given vista before it can be mapped in this fashion. Once at the vista, an in-game message will alert the player that the area is ready to be mapped.
 
-<!-- #Display -->
-​
-
-<!-- #display -->
 ### Display
 
 The map will display most important buildings with unique icons and also include the title of named locations. The map can be filtered to display or remove the following icons:
@@ -122,20 +86,12 @@ Notes:
 - Some symbols are removed when the marked items are harvested (e.g. carcasses), others are not (e.g. mushrooms). Actively surveying the area has no effect on this behavior.
 - If rock caches and/or spray paint markers are placed too close together only a single symbol will appear on the map, but with a small plus sign denoting multiple markers. Hovering over the map symbol will list the markers in close proximity.
 
-<!-- #Wintermute -->
-​
-
-<!-- #wintermute -->
 ## Wintermute
 
 In [Wintermute](./Wintermute.md) episode 1-4, it is not possible to survey an area. Likewise, Charcoal does not exist. Instead, the map is given to the player with the regions in the current episode fully mapped out and an arrow representing their current position and direction they are facing.
 
 In episode 5, Charcoal is obtainable and usable, but not very helpful since the full map is given.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Surveying all of the named locations in survival mode will yield the "[Faithful Cartographer](./Faithful%20Cartographer.md)" [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md).

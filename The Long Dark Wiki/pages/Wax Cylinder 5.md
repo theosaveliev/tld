@@ -36,10 +36,6 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 The Cylinder is narrated by Elsa.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Wax Cylinder 5**_
@@ -75,17 +71,3 @@ And the truth can be known.
 I love you, Erik. I will hide this cylinder if I can't find anyone to take it off the island.
 
 But know that I think of you, always.
-
-<!-- #game_history -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #game-history -->
-## Game history
-
-[ru:Восковой валик 05](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D0%B0%D0%BB%D0%B8%D0%BA_05)

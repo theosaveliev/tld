@@ -19,7 +19,7 @@
 
 **Date:** 5 December 2022
 
-**Mission:** [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md)<br>[Last Horizon](./Last%20Horizon.md)
+**Mission:** [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) [Last Horizon](./Last%20Horizon.md)
 
 **Biographical Information**
 
@@ -51,18 +51,10 @@
 
 **Dr. Rüdiger** (Initials **AR**) is a major character in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) storyline.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 [Tales](./Tales.md) in [Survival Mode](./Survival%20Mode.md).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The man's fate at the end of Last Horizon, long since perished.](../assets/R%C3%BCdiger%27s_fate.jpg)

@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-7%
 
-**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md) 20 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md)<br>60 minutes<br>30% condition
+**Repair:** 2 × [Cloth](./Cloth.md) 60 minutes 30% condition
 
 > “**Bulky parka that uses old-fashioned materials. What is sacrifices in weight it makes up for in warmth and durability.**”
 >
@@ -40,16 +40,6 @@ The **Old Fashioned Parka** is a type of [Clothing](./Clothing.md) in _[The Long
 
 ![Clothing model damaged](../assets/Old_Fashioned_Parka_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

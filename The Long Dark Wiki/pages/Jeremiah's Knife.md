@@ -39,10 +39,6 @@
 
 **Jeremiah's Knife** was a tool in pre-redux [Wintermute](./Wintermute.md) from [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md). it was removed in the 2018 Redux release of Episode 2.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Jeremiah's knife functions identically to a [Hunting Knife](./Hunting%20Knife.md): a self-defense tool, harvesting [animal](./Wildlife.md) carcasses, [Cloth](./Cloth.md) from curtains/pillows, tinder from cardboard, breaking ice for [Ice Fishing](./Ice%20Fishing.md), and crafting at a [Work Bench](./Work%20Bench.md).
@@ -51,53 +47,27 @@ It was given to [Will Mackenzie](./Will%20Mackenzie.md) after graduating from Je
 
 It was removed during the Redux of Wintermute: Episodes 1 and 2 and is now unobtainable, but is still present in the Wintermute game files.
 
-<!-- #Repair -->
-​
-
-<!-- #repair -->
 ## Repair
 
 Jeremiah's knife can be repaired with a [Whetstone](./Whetstone.md) and the [Sharpening](./Sharpening.md) skill, restoring 3% condition to the knife.
 
-<!-- #Harvest -->
-​
-
-<!-- #harvest -->
 ## Harvest
 
 It can be harvested for 1 [Scrap Metal](./Scrap%20Metal.md).
 
-<!-- #Combat -->
-​
-
-<!-- #combat -->
 ## Combat
 
 Jeremiah's Knife cannot be equipped, but may be selected to defend one's self at the start of a [Wolf](./Wolf.md) [Struggle](./Struggle.md), causing it some Condition damage.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - On December 3rd, 2023, Jeremiah's Knife can be seen at 5:00 in the Part 4: Buried Echoes update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) (as seen in the video below). The knife, however, was not released in the update. This is the first time the knife has officially been seen since its removal in 2018.
-- Jeremiah's Knife was once again spotted in the May 13th, 2024 [official developer update](https://www.thelongdark.com/news/dev-diary-may-2024/), as part of the Misery Mode concept art. <span id="fnref1"></span>[¹](#fn1)
+- Jeremiah's Knife was once again spotted in the May 13th, 2024 [official developer update](https://www.thelongdark.com/news/dev-diary-may-2024/), as part of the Misery Mode concept art. [^1]
 
 ![The Knife seen at 5:00](../assets/The_Long_Dark_--_TALES_FROM_THE_FAR_TERRITORY_--_Part_Four_Update_Video.jpg)
 
 ![The knife seen in Misery Mode](../assets/Misery_Mode.jpg)
 
-<!-- #game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #game-history -->
 ## Game History
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
@@ -105,12 +75,8 @@ Jeremiah's Knife cannot be equipped, but may be selected to defend one's self at
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Removed from the game as part of the Redux edition, however it is still in the game files and can sometimes be seen as a crafting icon in Survival Mode.
 
-<!-- #footnotes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 ---
 
-1. <span id="fn1"></span>[https://hinterlandforums.com/forums/topic/45028-may-developer-diary/#comment-277941](https://hinterlandforums.com/forums/topic/45028-may-developer-diary/#comment-277941)[↩︎](#fnref1)
+[^1]: [https://hinterlandforums.com/forums/topic/45028-may-developer-diary/#comment-277941](https://hinterlandforums.com/forums/topic/45028-may-developer-diary/#comment-277941)

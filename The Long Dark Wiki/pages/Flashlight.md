@@ -34,10 +34,6 @@ _For the unique version of the Flashlight, see [Miner's Flashlight](./Miner%27s%
 
 The **Flashlight**is a light emitting, self-defense tool in _[The Long Dark](./The%20Long%20Dark.md)_. It is available in both Wintermute and Survival mode, and was added in the launch of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md)_._
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Flashlight is battery-powered portable light source used as a modern industrial age era replacement of the [Torch](./Torch.md) and [Storm Lantern](./Storm%20Lantern.md), but is unfortunately no longer functional due to the effects of the [First Flare](./First%20Flare.md) (much like all modern electronics currently).
@@ -46,44 +42,22 @@ When equipped and used by the player, they will receive a message informing them
 
 Flashlight is not available on Interloper.
 
-<!-- #Powered -->
-​
-
-<!-- #powered -->
 ### Powered
 
 Turning the Flashlight on creates a cone of light, but will slowly drain its battery. While a Flashlight is on and wielded, its "high beam" mode (RMB) can be used, rapidly draining its battery but greatly lighting the surrounding area.
 
 A 100% charged flashlight will last 1 hour of continuous use, or around 25 seconds when using the high beam mode. When used and turned off, Flashlights will slowly recharge back to their maximum storage capacity, as long as an Aurora/Glimmer Fog event remains active. Once these events end, the battery will immediately die, and the Flashlight will become unusable until the next event.
 
-<!-- #high_beam -->
-​
-
-<!-- #High_Beam -->
-​
-
-<!-- #High_beam -->
-​
-
-<!-- #high-beam -->
 ### High Beam
 
 The high beam setting of the Flashlight can be used as a temporary defense against charging Aurora predators: (aurora [Wolf](./Wolf.md), aurora [Timberwolf](./Timberwolf.md), and aurora [Poisoned Wolf](./Poisoned%20Wolf.md), and aurora [Bear](./Bear.md)), but only so long as the battery is not completely drained. Flashlight high beams have absolutely no effect on aurora [Cougar](./Cougar.md).
 
 Flashlight do not effect wildlife when powered by [Glimmer Fog](./Glimmer%20Fog.md) (since they are currently not aurora predators).
 
-<!-- #Decay -->
-​
-
-<!-- #decay -->
 ### Decay
 
 Storm Lanterns and Flashlights are the only tools that do not [Decay](./Decay.md), even when equipped during a [Struggle](./Struggle.md). However they spawn with various levels of Condition and can be repaired with [Scrap Metal](./Scrap%20Metal.md).
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - When turned on, a Flashlight provides light, but slowly drains its battery. The battery will be instantly full at the start of an Aurora/Glimmer Fog event, but will immediately be drained once these events end.
@@ -94,10 +68,6 @@ Storm Lanterns and Flashlights are the only tools that do not [Decay](./Decay.md
 - The Flashlight requires [tools](./Simple%20Tools.md) and Scrap Metal to repair.
 - Scrapping a Flashlight will give 1 Scrap Metal.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 During an Aurora or Glimmer Fog event, using the Flashlight on High will cause the tip of the Flashlight to emit sparks, visually explaining why the battery power dies so quickly. Despite the obviously high power consumption, the battery will never short circuit/suffer critical operational damage from being overcharged.
@@ -106,10 +76,6 @@ The light the Flashlight emits in High Beam Mode flashes between the colors Purp
 
 The Flashlight appears to be loosely based on a 1920s vintage Ever-Ready flashlight, however uses a LED bulb as opposed to the Ever-Ready's fluorescent bulb.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The flashlight in use](../assets/Flashlight_in_action.jpg)

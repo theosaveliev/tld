@@ -18,10 +18,6 @@
 
 **Type:** Cave
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The cave doesn't have a bed, but may spawn a frozen corpse alongside a campfire with minor food items scattered about.
@@ -32,10 +28,6 @@ The cave is a source of [Coal](./Coal.md).
 
 _The slope that leads to the cave as seen from [Prayerful Window](./Prayerful%20Window.md) (the slope is in the middle mountain)_
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - A Bolt-Chopper is a climber term referring to someone who deliberately removes the bolts from rock faces on rock climbing routes; this is either done to preserve traditional climbing routes which specifically do not employ the use of pre-placed bolts to climb, or it may even be done in ecological protest to preserve the natural beauty of rock faces, though this practice is largely frowned upon due to the inherent dangers of scaling non-bolted rock faces for the average sport climber.

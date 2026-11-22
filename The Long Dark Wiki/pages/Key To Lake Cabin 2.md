@@ -30,16 +30,6 @@
 
 **Key To Lake Cabin #2** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode that opens one of the [Lake Cabins](./Lake%20Cabins.md) at [Mystery Lake (location)](./Mystery%20Lake%20%28location%29.md). It is found on a corpse near the Hunting Blind near [Alan's Cave](./Alan%27s%20Cave.md) and opens the door to Cabin 2.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

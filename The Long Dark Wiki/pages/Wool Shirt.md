@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>35% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 35% condition
 
 > “**A heavy insulated wool shirt designed to keep you warm in the Winter. Retains good warmth when wet.**”
 >
@@ -36,10 +36,6 @@
 
 The **Wool Shirt** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Wool Shirt's stats are nearly identical to the [Thin Wool Sweater](./Thin%20Wool%20Sweater.md), but it is more waterproof and faster to repair. It can be found in residential locations and other clothing spawns, and is somewhat rare.
@@ -50,16 +46,6 @@ The Wool Shirt is not available in [Interloper](./Interloper.md) difficulty.
 
 ![Clothing model icon damaged](../assets/Wool_Shirt_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

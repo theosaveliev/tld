@@ -30,10 +30,6 @@
 
 **Severe Lacerations** is a physical Injury acquired from a [Cougar](./Cougar.md) [Struggle](./Struggle.md).
 
-<!-- #Affliction -->
-​
-
-<!-- #affliction -->
 ## Affliction
 
 > “**You have sustained multiple deep slashing cuts from the Cougar's claws. Your Condition and Stamina are compromised, and you are at greater risk of Infection and Blood Loss until you are healed.**”
@@ -48,16 +44,6 @@ Severe Lacerations is always applied to the survivor after a Cougar Struggle and
 - The survivor's claw wounds periodically open up again over time, generating new instances of [Blood Loss](./Blood%20Loss.md) and [Infection Risk](./Infection%20Risk.md) (which require fresh [Bandages](./Bandage.md) and [Antiseptic](./Antiseptic.md)). Both Afflictions are generated every 12 hours after first receiving Severe Lacerations, with up to 5 sets occurring until the Affliction fully heals.
   - A notification that Blood Loss has been applied will not appear, but the screen will briefly turn red (as if suffering from a Sprain) and the survivor's Condition will begin to rapidly drop. Keep an eye on your Condition bar when passing time and be prepared to cancel your activity.
 
-<!-- #time_acceleration_warning -->
-​
-
-<!-- #Time_Acceleration_Warning -->
-​
-
-<!-- #Time_acceleration_warning -->
-​
-
-<!-- #time-acceleration-warning -->
 ## Time Acceleration Warning
 
 **Note**: Time Accelerating tasks (Sleep, Pass Time, Crafting, Harvesting, etc) are **extremely dangerous** while afflicted with Severe Lacerations at the 12 hour mark, as new instances of Blood Loss can appear and rapidly kill the survivor (e.g. while asleep). As Blood Loss leads to a 30% loss of Condition per hour spent with it, sleeping in intervals higher than one hour at a time on any difficulty above Voyager is not recommended as you do not wake up from Condition loss and as you have a chance to "instantly" die.

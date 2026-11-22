@@ -34,10 +34,6 @@
 
 **Hank's Journal - Part One** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode during the [Hank's Hatch](./Hank%27s%20Hatch.md) side mission.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Hank's Journal - Part One**_
@@ -46,16 +42,6 @@ I've spent a lot of years in this damn lookout tower, watching the forest around
 
 Anyway, I've been putting aside some supplies every season, leftovers or whatever I can spare, and it's added up to quite the little stash of food and equipment. Hopefully I never need it. But if I do -- the ends justify the means, right? I don't think anyone needs that weird old bunker thing I found, and it makes the perfect place to hide out if the SHTF, you know what I mean?
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

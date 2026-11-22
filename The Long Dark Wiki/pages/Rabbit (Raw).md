@@ -43,10 +43,6 @@ _For the cooked version, see [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md)._
 
 **Rabbit Meat (Raw)** is a raw food item in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Rabbit Meat is harvested from [Rabbit](./Rabbit.md) carcasses, which contain between 0.8 and 1.5 kg of raw meat. Consuming raw meat carries a high chance of contracting [Food Poisoning](./Food%20Poisoning.md).
@@ -56,25 +52,17 @@ Rabbit Meat is harvested from [Rabbit](./Rabbit.md) carcasses, which contain bet
 
 Carcasses of rabbits slain by [wolves](./Wolf.md) will have reduced yields (including meat) proportional to the time the wolf has been feeding, until "ravaged" where the carcass is un-harvestable.
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Breyerhouse Pie](./Breyerhouse%20Pie.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)<br>- 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Breyerhouse Pie](./Breyerhouse%20Pie.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 | [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md) | None | - 1.00 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) |
-| [Rabbit Pie](./Rabbit%20Pie.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Rabbit Stew](./Rabbit%20Stew.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 0.20 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Ranger Stew](./Ranger%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 1 × [Potato](./Potato.md)<br>- 0.20 kg × [Carrot](./Carrot.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Vagabond Soup](./Vagabond%20Soup.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+| [Rabbit Pie](./Rabbit%20Pie.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Rabbit Stew](./Rabbit%20Stew.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 0.20 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Ranger Stew](./Ranger%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 1 × [Potato](./Potato.md) - 0.20 kg × [Carrot](./Carrot.md) - 0.40 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Vagabond Soup](./Vagabond%20Soup.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 0.40 L × [Broth](./Broth.md) - 0.01 kg × [Salt](./Salt.md) |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Fresh](../assets/Rabbit_%28Raw%29_icon.png)
@@ -89,19 +77,7 @@ Carcasses of rabbits slain by [wolves](./Wolf.md) will have reduced yields (incl
 
 ![Old model](../assets/Rabbit_raw.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152)):**
   - Added to game.
-
-[ru:Крольчатина (сырая)](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%BB%D1%8C%D1%87%D0%B0%D1%82%D0%B8%D0%BD%D0%B0_%28%D1%81%D1%8B%D1%80%D0%B0%D1%8F%29)

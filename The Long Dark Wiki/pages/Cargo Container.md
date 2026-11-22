@@ -16,10 +16,6 @@
 
 **Cargo Containers** are locked containers found in [Timberwolf Mountain](./Timberwolf%20Mountain.md) that can only be opened with a [Hacksaw](./Hacksaw.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Cargo Containers are loot-filled blue-green shipping devices scattered across Timberwolf Mountain from a crashed cargo aircraft on the [Summit](./Summit.md). All Cargo Containers feature two locked compartments which require a Hacksaw to open. Each compartment holds a specific type of resource (e.g. Canned Food, Firestarting, Clothes, Medical), some of which may be found near the container beside/on a [Frozen Corpse](./Frozen%20Corpse.md).
@@ -34,10 +30,6 @@ Cargo Containers are loot-filled blue-green shipping devices scattered across Ti
 
 ![The containers were gray Until the 1.00 update](../assets/Cargo_container.jpg)
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 Cargo containers can be found at the following locations in Timberwolf Mountain:

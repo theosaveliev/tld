@@ -35,16 +35,8 @@ They can also be found in [Survival Mode](./Survival%20Mode.md). Currently, they
 
 They contain medium-high level food and clothes and, sometimes, even books. A Hidden Cache has a total capacity of 15.00 kg.
 
-<!-- #hushed_river_valley -->
-​
+## Locations
 
-<!-- #Hushed_River_Valley -->
-​
-
-<!-- #Hushed_river_valley -->
-​
-
-<!-- #hushed-river-valley -->
 ### Hushed River Valley
 
 - **Only guaranteed spawn**. Inside the southernmost entrance for the northern [Ice Cave](./Ice%20Cave.md) system. Enter at [Reclusive Falls](./Reclusive%20Falls.md), follow the stream and get past the inner waterfall, look inside raised area on right side, dead end of a tunnel to the left or end of a tunnel to the right. Contains: [Revolver](./Revolver.md), [Revolver Ammunition](./Revolver%20Ammunition.md), [condensed milk](./Condensed%20Milk.md)/[MRE](./Military-Grade%20MRE.md)/[Peanut Butter](./Peanut%20Butter.md) and [balaclava](./Balaclava.md)/[Long Wool Scarf](./Long%20Wool%20Scarf.md)/[Wool Ear Wrap](./Wool%20Ear%20Wrap.md).
@@ -90,26 +82,12 @@ Southern [Ice Caves](./Ice%20Cave.md) Exterior Caches 19-24 (1-3 spawns, 1 possi
 - Next to a low rock, on a hill right above an entrance for the southern [Ice Cave](./Ice%20Cave.md) System. Reach this level through the [Ice Cave](./Ice%20Cave.md) system or by a [rope climb](./Rope%20Climbing.md) (see above)
 - Next to a low stone wall, on a ledge southeast of a [rope climb](./Rope%20Climbing.md) and an entrance for the South [Ice Cave](./Ice%20Cave.md) System. Accessible by a log bridge
 
-<!-- #ash_canyon -->
-​
-
-<!-- #Ash_Canyon -->
-​
-
-<!-- #Ash_canyon -->
-​
-
-<!-- #ash-canyon -->
 ### Ash Canyon
 
 - Near one end of the tree bridge connecting the [Climber's Cave](./Climber%27s%20Cave.md) and [Pillar's Footrest](./Pillar%27s%20Footrest.md) regions.
 - North of [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md)
 - At the top of the lowest rope climb between [Stone Shelf Cave](./Stone%20Shelf%20Cave.md) and the [Gold Mine](./Gold%20Mine.md).
 
-<!-- #Blackrock -->
-​
-
-<!-- #blackrock -->
 ### Blackrock
 
 - Ravine east of [Blocked Bridge](./Blocked%20Bridge.md)
@@ -118,31 +96,11 @@ Southern [Ice Caves](./Ice%20Cave.md) Exterior Caches 19-24 (1-3 spawns, 1 possi
 - Ravine southwest of [Fool's Corner](./Fool%27s%20Corner.md)
 - Ravine underneath [Mule Bridge](./Mule%20Bridge.md)
 
-<!-- #bleak_inlet -->
-​
-
-<!-- #Bleak_Inlet -->
-​
-
-<!-- #Bleak_inlet -->
-​
-
-<!-- #bleak-inlet -->
 ### Bleak Inlet
 
 - South of [Pensive Lookout](./Pensive%20Lookout.md).
 - On top of the Trailer in [Last Resort Cannery](./Last%20Resort%20Cannery.md) (reached via the obstacle course).
 
-<!-- #sundered_pass -->
-​
-
-<!-- #Sundered_Pass -->
-​
-
-<!-- #Sundered_pass -->
-​
-
-<!-- #sundered-pass -->
 ### Sundered Pass
 
 - In the middle of [Abandoned Mine](./Abandoned%20Mine.md).

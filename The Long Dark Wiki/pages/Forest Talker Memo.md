@@ -30,10 +30,6 @@
 
 **Forest Talker Memo** is a [Collectible](./Collectibles.md) found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story as part of the [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md) side mission. It is found inside the cache inside the [Last Prospect](./Last%20Prospect.md) mine once Mackenzie collects the three [Forest Talker Letter](./Forest%20Talker%20Letter.md) notes and opens the padlock.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Forest Talker Memo**_
@@ -48,16 +44,6 @@ We've got to cut them off from the Mainland. Resilience is the only way forward 
 
 The time for half-measures is over.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**

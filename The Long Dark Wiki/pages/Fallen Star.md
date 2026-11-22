@@ -16,7 +16,7 @@
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Father Thomas](./Father%20Thomas.md)<br>[Crash Survivor](./Crash%20Survivor.md)<br>[Molly](./Molly.md)<br>[Jane Yang](./Jane%20Yang.md) (flashback)
+**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Father Thomas](./Father%20Thomas.md) [Crash Survivor](./Crash%20Survivor.md) [Molly](./Molly.md) [Jane Yang](./Jane%20Yang.md) (flashback)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -24,10 +24,6 @@
 
 **Fallen Star** is the second mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) meets [Father Thomas](./Father%20Thomas.md) and learns about her predicament.
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Check on the plane crash survivors in the hall. [0/6]
@@ -42,10 +38,6 @@
 - Return IDs [0/10].
 - Talk to Father Thomas.
 
-<!-- #Walkthrough -->
-​
-
-<!-- #walkthrough -->
 ## Walkthrough
 
 | Mission details | Mission details |
@@ -72,19 +64,6 @@ Head back down the hill, but turn towards the right. The path the player entered
 
 Be wary of Timberwolves along the way back to the Community Hall. Gwen must be placed on the ground to draw a weapon or interact with objects. Bring Gwen back to Community Hall and place her on the newly preplaced unoccupied bed. Give Dimitri his Insulin and then talk to the 12 survivors already in the hall to break the news of the missing/dead plane passengers, then talk to Father Thomas, and the mission will end.
 
-<!-- #id_quantity_clarifications -->
-​
-
-<!-- #ID_quantity_clarifications -->
-​
-
-<!-- #Id_quantity_clarifications -->
-​
-
-<!-- #Id_Quantity_Clarifications -->
-​
-
-<!-- #id-quantity-clarifications -->
 ### ID quantity clarifications
 
 ![Survivor count](../assets/Survivor_count.jpg) Some confusion has been caused by the number of ID's required by the journal.

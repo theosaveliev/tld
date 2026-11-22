@@ -16,10 +16,6 @@ _For an ordinary backpack, see [Backpack](./Backpack.md)._
 
 A **Recovery Backpack** is a stationary interactable object in [_The Long Dark_](./The%20Long%20Dark.md). It only spawns when the player decides to [Cheat Death](./Cheat%20Death.md) in [Survival Mode](./Survival%20Mode.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 If the player dies and decides to continue their save file then most of their items will remain on their person, but many of their items will disappear from their inventory. A Recovery Backpack will appear in set spawn location in the [Region](./Region.md) they died in to hold these lost items as a punishment for Cheating Death. Checking the local Region map will reveal the location of the Backpack, represented by a Campfire icon.
@@ -28,19 +24,6 @@ When the player finds their Recovery Backpack, a small Campfire will always be f
 
 It is currently unknown if Experience difficulty affects the rate or priority of how items/tools are lost or which items appear outside of the backpack.
 
-<!-- #failing_to_recover_a_recovery_backpack -->
-​
-
-<!-- #Failing_to_recover_a_Recovery_Backpack -->
-​
-
-<!-- #Failing_to_recover_a_recovery_backpack -->
-​
-
-<!-- #Failing_To_Recover_A_Recovery_Backpack -->
-​
-
-<!-- #failing-to-recover-a-recovery-backpack -->
 ### Failing to recover a Recovery Backpack
 
 If the player dies a second time and Cheats Death before recovering the first Recovery Backpack, a second new Recovery Backpack will appear in the game world and override the first Recovery Backpack:

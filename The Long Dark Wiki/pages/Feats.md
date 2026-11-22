@@ -13,10 +13,6 @@
 
 ![A player achieving the Free Running feat](../assets/Feat.jpg)_A player achieving the Free Running feat_ **Feats** are passive perk bonuses that can be unlocked in _[The Long Dark](./The%20Long%20Dark.md)_ and enabled in [Survival Mode](./Survival%20Mode.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Feats are a form of persistent progression, offering passive bonuses to Survival Mode characters. They cannot be used while playing [Wintermute](./Wintermute.md), [Challenges](./Challenge.md) or [Misery Mode](./Misery.md). As of Tales from the Far Territory Part 5 (June 2024) there are 13 different Feats, each with unique effects. Feat progression is acquired while playing Survival Mode or Challenges.
@@ -43,36 +39,11 @@ The number of active Feats allowed in a game depends on the selected difficulty:
 
 Feat slots may be left empty for added challenge.
 
-<!-- #list_of_feats -->
-​
-
-<!-- #List_of_Feats -->
-​
-
-<!-- #List_of_feats -->
-​
-
-<!-- #List_Of_Feats -->
-​
-
-<!-- #list-of-feats -->
 ## List of Feats
 
 Each obtainable Feat is listed below, along with their requirements for unlocking and unique effects.
 
-<!-- #base_game -->
-​
-
-<!-- #Base_Game -->
-​
-
-<!-- #Base_game -->
-​
-
-<!-- #base-game -->
 ### Base Game
-
-&lt;table-progress-tracking table-id="1" unique-column-index="2"&gt;
 
 | [Feats icon](../assets/Feats_icon.png) | Feat | Requirement | Benefit | Notes | Added |
 | --- | --- | --- | --- | --- | --- |
@@ -87,52 +58,23 @@ Each obtainable Feat is listed below, along with their requirements for unlockin
 | [Badge feat snowWalker](../assets/Badge_feat_snowWalker.png) | Snow Walker | You've travelled 1000 km in the game. (621.37 miles) | Your [Stamina](./Stamina.md) bar recharges 20% faster. | Has no effect on single short Sprints and negligible use in Rope Climbing. | 2016-06-23 |
 | [Badge feat StraightToTheHeart](../assets/Badge_feat_StraightToTheHeart.png) | Straight To The Heart | Use or consume 250 [Coffee](./Cup%20of%20Coffee.md), [Energy Drinks](./Go!%20Energy%20Drink.md), or [Emergency Stims](./Emergency%20Stim.md). | You now experience the effects of Coffee, Energy Drinks, and Emergency Stims for 25% longer. | Increases the duration of [Benefits](./Afflictions.md#Benefits) from [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md), [Cup of Coffee](./Cup%20of%20Coffee.md), [Go! Energy Drink](./Go!%20Energy%20Drink.md), and [Emergency Stims](./Emergency%20Stim.md) (e.g. "[Fatigue Reduced](./Fatigue%20Reduced.md)" from 1 hour to 1 hour and 15 minutes), but has no effect on the [hydration](./Thirst.md), calories, or other effects of these items. | 2019-12-10 |
 
-&lt;/table-progress-tracking&gt;
-
-<!-- #dlc_content -->
-​
-
-<!-- #DLC_Content -->
-​
-
-<!-- #Dlc_content -->
-​
-
-<!-- #Dlc_Content -->
-​
-
-<!-- #dlc-content -->
 ### DLC Content
 
 The following feats require the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion to be installed to be unlocked and used.
-
-&lt;table-progress-tracking table-id="2" unique-column-index="2"&gt;
 
 | [Feats icon](../assets/Feats_icon.png) | Feat | Requirement | Benefit | Notes | Added |
 | --- | --- | --- | --- | --- | --- |
 | [Celestial Navigator icon](../assets/Celestial_Navigator_icon.png) | Celestial Navigator | You recovered a Tales from the Far Territory [Relic](./R%C3%BCdiger%27s%20Watch.md)) | You walk faster during a clear night or during an [Aurora](./Aurora.md). | Movement speed increased by 10% at night while the stars are visible. It is useful when paired with Darkwalker during an "Endless Night" Custom game. | 2024-06-24 |
 | [Settled Mind icon](../assets/Settled_Mind_icon.png) | Settled Mind | You recovered a Tales from the Far Territory [Relic](./Security%20Chief%27s%20ID%20Badge.md)) | You are immune from [Cabin Fever](./Cabin%20Fever.md) and Research actions happen 20% faster. | Permanent avoidance of [Cabin Fever Risk](./Cabin%20Fever%20Risk.md)/[Cabin Fever](./Cabin%20Fever.md) (not present on Pilgrim). The reduced research time will negatively impact the ability to unlock Book Smarts. | 2024-06-24 |
 
-&lt;/table-progress-tracking&gt;
-
-<!-- #Legacy -->
-​
-
-<!-- #legacy -->
 ### Legacy
 
-The following feat is a legacy Feat that can no longer be unlocked on the current game version. &lt;table-progress-tracking table-id="3" unique-column-index="2"&gt;
+The following feat is a legacy Feat that can no longer be unlocked on the current game version.  
 
 | [Feats icon](../assets/Feats_icon.png) | Feat | Acquisition | Benefit | Notes | Added |
 | --- | --- | --- | --- | --- | --- |
 | [Master Hunter icon](../assets/Master_Hunter_icon.png) | [Big Cat Killer](./Big%20Cat%20Killer.md) | You've successfully killed 3 [Cougars](./Cougar.md) in a single game. | Wildlife are less aware of your presence. | Halves all animal detection ranges (sight, smell, sound). | 2024-06-24 |
 
-&lt;/table-progress-tracking&gt;
-
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 2 unreleased icons for the Feats Expert Crafter and Mountain Goat have been in the game files since 2019, but are considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md).

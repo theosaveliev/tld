@@ -12,7 +12,7 @@
 
 **Description:** Your skin is directly exposed to the cold. If it remains exposed for long enough, you'll get Frostbite.
 
-**Caused By:** No [Clothing](./Clothing.md) on body parts<br>Bare Skin exposed to inner layer Frozen Clothing
+**Caused By:** No [Clothing](./Clothing.md) on body parts Bare Skin exposed to inner layer Frozen Clothing
 
 **Effect:** Negative
 
@@ -26,10 +26,6 @@
 
 **Frostbite Risk** is incurred when a player's bare skin is exposed to freezing conditions, particularly with severe windchill.
 
-<!-- #Risk -->
-​
-
-<!-- #risk -->
 ## Risk
 
 > “**Your skin is directly exposed to the cold. If it remains exposed for long enough, you'll get Frostbite.**”
@@ -42,10 +38,6 @@ It is possible to have multiple Risks develop on multiple limbs at once, but thi
 
 Wearing Accessories, such as [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) (shown on the head) or [Improvised Insulation](./Improvised%20Insulation.md) (shown on the body), will still cause Frostbite Risk to develop for those body parts. As long as one Clothing slot (except Accessories) has any kind of unfrozen Clothing on it, Frostbite Risk will not develop for that extremity.
 
-<!-- #Mechanics -->
-​
-
-<!-- #mechanics -->
 ## Mechanics
 
 ![Outer and inner layers on the 5 body parts](../assets/Outer_and_inner_layers.jpg)

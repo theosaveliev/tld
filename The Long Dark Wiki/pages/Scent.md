@@ -18,16 +18,6 @@
 
 ![Three Degrees of Stench|center](../assets/ScentMeter.png)**Scent** is a mechanic in _[The Long Dark](./The%20Long%20Dark.md)_ which increases the distance which [predators](./Wildlife.md) can detect the survivor by smell. Scent is increased when the survivor is carrying meat and fresh guts, and is affected by wind speed, wind direction, and game difficulty experience. An approximation of current Scent is represented by the "Scent Meter."
 
-<!-- #the_scent_meter -->
-​
-
-<!-- #The_Scent_Meter -->
-​
-
-<!-- #The_scent_meter -->
-​
-
-<!-- #the-scent-meter -->
 ## The Scent Meter
 
 A player's Scent makes them detectable to wandering wildlife. Meat and guts increase the character's odor when carried. Prepackaged foods produced before the Quiet Apocalypse have no odor and are therefore no longer detectable by animals at all, making them safer to transport.
@@ -36,19 +26,6 @@ If the player has 1 fresh gut, 1 raw meat/fish, or 3 cooked meat items in the in
 
 Wind is a factor that the player should be aware of; being upwind of an animal will decrease the range at which it can smell you; however, it may still see or hear you regardless of wind direction. The Scent Meter is a toggled element which approximates the survivor's current Scent amount; the more "Scent Marks" the survivor has (colored white), the higher the survivor's scent and radius they can be detected by predators. It can be viewed under Quick Stats (TAB key) or Status (F key). ![Scent Upwind Downwind](../assets/Scent_Upwind-Downwind.jpg)
 
-<!-- #mechanics_of_scent -->
-​
-
-<!-- #Mechanics_of_Scent -->
-​
-
-<!-- #Mechanics_of_scent -->
-​
-
-<!-- #Mechanics_Of_Scent -->
-​
-
-<!-- #mechanics-of-scent -->
 ### Mechanics of Scent
 
 - Scent only affects predators ([Wolves](./Wolf.md), [Timberwolves](./Timberwolf.md), [Poisoned Wolves](./Poisoned%20Wolf.md), [Bear](./Bear.md), and [Cougar](./Cougar.md)): attracting them to the player's general area, but not necessarily to their current location.
@@ -64,19 +41,6 @@ Wind is a factor that the player should be aware of; being upwind of an animal w
 - [Blood Loss](./Blood%20Loss.md) yields maximum Scent until treated.
 - Dropped Scented items instantly reduces Scent.
 
-<!-- #scent_value_and_meter -->
-​
-
-<!-- #Scent_Value_and_Meter -->
-​
-
-<!-- #Scent_value_and_meter -->
-​
-
-<!-- #Scent_Value_And_Meter -->
-​
-
-<!-- #scent-value-and-meter -->
 ### Scent Value and Meter
 
 | Total Scent Value | Scent Meter Icon |
@@ -86,53 +50,23 @@ Wind is a factor that the player should be aware of; being upwind of an animal w
 | 45-79 | 2 |
 | 80+ | 3 |
 
-<!-- #scent_values -->
-​
-
-<!-- #Scent_Values -->
-​
-
-<!-- #Scent_values -->
-​
-
-<!-- #scent-values -->
 ### Scent Values
 
 | Gear Type | Scent Value | Item | Item |
 | --- | --- | --- | --- |
 | Bleeding | 80 | Suffering from [Blood Loss icon](../assets/Blood_Loss_icon.png) [Blood Loss](./Blood%20Loss.md) |  |
-| Carcass Quarters | 50 | - [Bear Quarter icon](../assets/Bear_Quarter_icon.png) [Bear Quarter](./Bear%20Quarter.md)<br>- [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) [Cougar Quarter](./Cougar%20Quarter.md)<br>- [Deer Quarter icon](../assets/Deer_Quarter_icon.png) [Deer Quarter](./Deer%20Quarter.md)<br>- [Moose Quarter icon](../assets/Moose_Quarter_icon.png) [Moose Quarter](./Moose%20Quarter.md)<br>- [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) [Wolf Quarter](./Wolf%20Quarter.md) |  |
-| Small Carcasses | 30 | - [Ptarmigan Carcass icon](../assets/Ptarmigan_Carcass_icon.png) [Ptarmigan Carcass](./Ptarmigan%20Carcass.md)<br>- [Rabbit Carcass icon](../assets/Rabbit_Carcass_icon.png) [Rabbit Carcass](./Rabbit%20Carcass.md) |  |
-| Fresh Gut | 20 | [Fresh Gut icon](../assets/Fresh_Gut_icon.png) [Fresh Gut](./Fresh%20Gut.md)<span id="fnref1"></span>[¹](#fn1) |  |
-| Raw meat/fish | 15 | Raw Animal<br>- [Bear Meat (Raw) icon](../assets/Bear_Meat_%28Raw%29_icon.png) [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)<br>- [Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)<br>- [Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png) [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md)<br>- [Ptarmigan (Raw) icon](../assets/Ptarmigan_%28Raw%29_icon.png) [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)<br>- [Rabbit (Raw) icon](../assets/Rabbit_%28Raw%29_icon.png) [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- [Venison (Raw) icon](../assets/Venison_%28Raw%29_icon.png) [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | Raw Fish<br>- [Coho Salmon (Raw) icon](../assets/Coho_Salmon_%28Raw%29_icon.png) [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md)<br>- [Lake Whitefish (Raw) icon](../assets/Lake_Whitefish_%28Raw%29_icon.png) [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md)<br>- [Rainbow Trout (Raw) icon](../assets/Rainbow_Trout_%28Raw%29_icon.png) [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md)<br>- [Smallmouth Bass (Raw) icon](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md)<br>- [Burbot (Raw) icon](../assets/Burbot_%28Raw%29_icon.png) [Burbot (Raw)](./Burbot%20%28Raw%29.md)<br>- [Goldeye (Raw) icon](../assets/Goldeye_%28Raw%29_icon.png) [Goldeye (Raw)](./Goldeye%20%28Raw%29.md)<br>- [Red Irish Lord (Raw) icon](../assets/Red_Irish_Lord_%28Raw%29_icon.png) [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md)<br>- [Rockfish (Raw) icon](../assets/Rockfish_%28Raw%29_icon.png) [Rockfish (Raw)](./Rockfish%20%28Raw%29.md)<br>- [Big Bass (Raw) icon](../assets/Big_Bass_%28Raw%29_icon.png) [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md) |
-| Raw animal products | 5 | [Animal Fat icon](../assets/Animal_Fat_icon.png) [Animal Fat](./Animal%20Fat.md) | [Fishing Bait icon](../assets/Fishing_Bait_icon.png) [Fishing Bait](./Fishing%20Bait.md)<span id="fnref2"></span>[²](#fn2) |
-| Cooked meat/fish | 5 | Cooked Animal<br>- [Bear Meat (Cooked) icon](../assets/Bear_Meat_%28Cooked%29_icon.png) [Bear Meat (Cooked)](./Bear%20Meat%20%28Cooked%29.md)<br>- [Cougar Meat (Cooked) icon](../assets/Cougar_Meat_%28Cooked%29_icon.png) [Cougar Meat (Cooked)](./Cougar%20Meat%20%28Cooked%29.md)<br>- [Moose Meat (Cooked) icon](../assets/Moose_Meat_%28Cooked%29_icon.png) [Moose Meat (Cooked)](./Moose%20Meat%20%28Cooked%29.md)<br>- [Ptarmigan (Cooked) icon](../assets/Ptarmigan_%28Cooked%29_icon.png) [Ptarmigan (Cooked)](./Ptarmigan%20%28Cooked%29.md)<br>- [Rabbit (Cooked) icon](../assets/Rabbit_%28Cooked%29_icon.png) [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md)<br>- [Venison (Cooked) icon](../assets/Venison_%28Cooked%29_icon.png) [Venison (Cooked)](./Venison%20%28Cooked%29.md)<br>- [Wolf Meat (Cooked) icon](../assets/Wolf_Meat_%28Cooked%29_icon.png) [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md) | Cooked Fish<br>- [Coho Salmon (Cooked) icon](../assets/Coho_Salmon_%28Cooked%29_icon.png) [Coho Salmon (Cooked)](./Coho%20Salmon%20%28Cooked%29.md)<br>- [Lake Whitefish (Cooked) icon](../assets/Lake_Whitefish_%28Cooked%29_icon.png) [Lake Whitefish (Cooked)](./Lake%20Whitefish%20%28Cooked%29.md)<br>- [Rainbow Trout (Cooked) icon](../assets/Rainbow_Trout_%28Cooked%29_icon.png) [Rainbow Trout (Cooked)](./Rainbow%20Trout%20%28Cooked%29.md)<br>- [Smallmouth Bass (Cooked) icon](../assets/Smallmouth_Bass_%28Cooked%29_icon.png) [Smallmouth Bass (Cooked)](./Smallmouth%20Bass%20%28Cooked%29.md)<br>- [Burbot (Cooked) icon](../assets/Burbot_%28Cooked%29_icon.png) [Burbot (Cooked)](./Burbot%20%28Cooked%29.md)<br>- [Goldeye (Cooked) icon](../assets/Goldeye_%28Cooked%29_icon.png) [Goldeye (Cooked)](./Goldeye%20%28Cooked%29.md)<br>- [Red Irish Lord (Cooked) icon](../assets/Red_Irish_Lord_%28Cooked%29_icon.png) [Red Irish Lord (Cooked)](./Red%20Irish%20Lord%20%28Cooked%29.md)<br>- [Rockfish (Cooked) icon](../assets/Rockfish_%28Cooked%29_icon.png) [Rockfish (Cooked)](./Rockfish%20%28Cooked%29.md)<br>- [Big Bass (Cooked) icon](../assets/Big_Bass_%28Cooked%29_icon.png) [Big Bass (Cooked)](./Big%20Bass%20%28Cooked%29.md) |
-| Recipes containing meat | 5 | Stew<br>- [Ptarmigan Stew icon](../assets/Ptarmigan_Stew_icon.png) [Ptarmigan Stew](./Ptarmigan%20Stew.md)<br>- [Rabbit Stew icon](../assets/Rabbit_Stew_icon.png) [Rabbit Stew](./Rabbit%20Stew.md)<br>- [Ranger Stew icon](../assets/Ranger_Stew_icon.png) [Ranger Stew](./Ranger%20Stew.md)<br>- [Trout Stew icon](../assets/Trout_Stew_icon.png) [Trout Stew](./Trout%20Stew.md)<br>- [Venison Stew icon](../assets/Venison_Stew_icon.png) [Venison Stew](./Venison%20Stew.md)<br>Soup<br>- [Porter's Soup icon](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md)<br>- [Last Resort Soup icon](../assets/Last_Resort_Soup_icon.png) [Last Resort Soup](./Last%20Resort%20Soup.md)<br>- [Vagabond Soup icon](../assets/Vagabond_Soup_icon.png) [Vagabond Soup](./Vagabond%20Soup.md) | Pie<br>- [Breyerhouse Pie icon](../assets/Breyerhouse_Pie_icon.png) [Breyerhouse Pie](./Breyerhouse%20Pie.md)<br>- [Dockworker's Pie icon](../assets/Dockworker%27s_Pie_icon.png) [Dockworker's Pie](./Dockworker%27s%20Pie.md)<br>- [Ptarmigan Pie icon](../assets/Ptarmigan_Pie_icon.png) [Ptarmigan Pie](./Ptarmigan%20Pie.md)<br>- [Rabbit Pie icon](../assets/Rabbit_Pie_icon.png) [Rabbit Pie](./Rabbit%20Pie.md)<br>- [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md)<br>- [Venison Pie icon](../assets/Venison_Pie_icon.png) [Venison Pie](./Venison%20Pie.md)<br>Other<br>- [Coastal Fishcakes icon](../assets/Coastal_Fishcakes_icon.png) [Coastal Fishcakes](./Coastal%20Fishcakes.md)<span id="fnref3"></span>[³](#fn3) |
+| Carcass Quarters | 50 | - [Bear Quarter icon](../assets/Bear_Quarter_icon.png) [Bear Quarter](./Bear%20Quarter.md) - [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) [Cougar Quarter](./Cougar%20Quarter.md) - [Deer Quarter icon](../assets/Deer_Quarter_icon.png) [Deer Quarter](./Deer%20Quarter.md) - [Moose Quarter icon](../assets/Moose_Quarter_icon.png) [Moose Quarter](./Moose%20Quarter.md) - [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) [Wolf Quarter](./Wolf%20Quarter.md) |  |
+| Small Carcasses | 30 | - [Ptarmigan Carcass icon](../assets/Ptarmigan_Carcass_icon.png) [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) - [Rabbit Carcass icon](../assets/Rabbit_Carcass_icon.png) [Rabbit Carcass](./Rabbit%20Carcass.md) |  |
+| Fresh Gut | 20 | [Fresh Gut icon](../assets/Fresh_Gut_icon.png) [Fresh Gut](./Fresh%20Gut.md)[^1] |  |
+| Raw meat/fish | 15 | Raw Animal - [Bear Meat (Raw) icon](../assets/Bear_Meat_%28Raw%29_icon.png) [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) - [Cougar Meat (Raw) icon](../assets/Cougar_Meat_%28Raw%29_icon.png) [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md) - [Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png) [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) - [Ptarmigan (Raw) icon](../assets/Ptarmigan_%28Raw%29_icon.png) [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) - [Rabbit (Raw) icon](../assets/Rabbit_%28Raw%29_icon.png) [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - [Venison (Raw) icon](../assets/Venison_%28Raw%29_icon.png) [Venison (Raw)](./Venison%20%28Raw%29.md) - [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | Raw Fish - [Coho Salmon (Raw) icon](../assets/Coho_Salmon_%28Raw%29_icon.png) [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) - [Lake Whitefish (Raw) icon](../assets/Lake_Whitefish_%28Raw%29_icon.png) [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) - [Rainbow Trout (Raw) icon](../assets/Rainbow_Trout_%28Raw%29_icon.png) [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) - [Smallmouth Bass (Raw) icon](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) - [Burbot (Raw) icon](../assets/Burbot_%28Raw%29_icon.png) [Burbot (Raw)](./Burbot%20%28Raw%29.md) - [Goldeye (Raw) icon](../assets/Goldeye_%28Raw%29_icon.png) [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) - [Red Irish Lord (Raw) icon](../assets/Red_Irish_Lord_%28Raw%29_icon.png) [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) - [Rockfish (Raw) icon](../assets/Rockfish_%28Raw%29_icon.png) [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) - [Big Bass (Raw) icon](../assets/Big_Bass_%28Raw%29_icon.png) [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md) |
+| Raw animal products | 5 | [Animal Fat icon](../assets/Animal_Fat_icon.png) [Animal Fat](./Animal%20Fat.md) | [Fishing Bait icon](../assets/Fishing_Bait_icon.png) [Fishing Bait](./Fishing%20Bait.md)[^2] |
+| Cooked meat/fish | 5 | Cooked Animal - [Bear Meat (Cooked) icon](../assets/Bear_Meat_%28Cooked%29_icon.png) [Bear Meat (Cooked)](./Bear%20Meat%20%28Cooked%29.md) - [Cougar Meat (Cooked) icon](../assets/Cougar_Meat_%28Cooked%29_icon.png) [Cougar Meat (Cooked)](./Cougar%20Meat%20%28Cooked%29.md) - [Moose Meat (Cooked) icon](../assets/Moose_Meat_%28Cooked%29_icon.png) [Moose Meat (Cooked)](./Moose%20Meat%20%28Cooked%29.md) - [Ptarmigan (Cooked) icon](../assets/Ptarmigan_%28Cooked%29_icon.png) [Ptarmigan (Cooked)](./Ptarmigan%20%28Cooked%29.md) - [Rabbit (Cooked) icon](../assets/Rabbit_%28Cooked%29_icon.png) [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md) - [Venison (Cooked) icon](../assets/Venison_%28Cooked%29_icon.png) [Venison (Cooked)](./Venison%20%28Cooked%29.md) - [Wolf Meat (Cooked) icon](../assets/Wolf_Meat_%28Cooked%29_icon.png) [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md) | Cooked Fish - [Coho Salmon (Cooked) icon](../assets/Coho_Salmon_%28Cooked%29_icon.png) [Coho Salmon (Cooked)](./Coho%20Salmon%20%28Cooked%29.md) - [Lake Whitefish (Cooked) icon](../assets/Lake_Whitefish_%28Cooked%29_icon.png) [Lake Whitefish (Cooked)](./Lake%20Whitefish%20%28Cooked%29.md) - [Rainbow Trout (Cooked) icon](../assets/Rainbow_Trout_%28Cooked%29_icon.png) [Rainbow Trout (Cooked)](./Rainbow%20Trout%20%28Cooked%29.md) - [Smallmouth Bass (Cooked) icon](../assets/Smallmouth_Bass_%28Cooked%29_icon.png) [Smallmouth Bass (Cooked)](./Smallmouth%20Bass%20%28Cooked%29.md) - [Burbot (Cooked) icon](../assets/Burbot_%28Cooked%29_icon.png) [Burbot (Cooked)](./Burbot%20%28Cooked%29.md) - [Goldeye (Cooked) icon](../assets/Goldeye_%28Cooked%29_icon.png) [Goldeye (Cooked)](./Goldeye%20%28Cooked%29.md) - [Red Irish Lord (Cooked) icon](../assets/Red_Irish_Lord_%28Cooked%29_icon.png) [Red Irish Lord (Cooked)](./Red%20Irish%20Lord%20%28Cooked%29.md) - [Rockfish (Cooked) icon](../assets/Rockfish_%28Cooked%29_icon.png) [Rockfish (Cooked)](./Rockfish%20%28Cooked%29.md) - [Big Bass (Cooked) icon](../assets/Big_Bass_%28Cooked%29_icon.png) [Big Bass (Cooked)](./Big%20Bass%20%28Cooked%29.md) |
+| Recipes containing meat | 5 | Stew - [Ptarmigan Stew icon](../assets/Ptarmigan_Stew_icon.png) [Ptarmigan Stew](./Ptarmigan%20Stew.md) - [Rabbit Stew icon](../assets/Rabbit_Stew_icon.png) [Rabbit Stew](./Rabbit%20Stew.md) - [Ranger Stew icon](../assets/Ranger_Stew_icon.png) [Ranger Stew](./Ranger%20Stew.md) - [Trout Stew icon](../assets/Trout_Stew_icon.png) [Trout Stew](./Trout%20Stew.md) - [Venison Stew icon](../assets/Venison_Stew_icon.png) [Venison Stew](./Venison%20Stew.md) Soup - [Porter's Soup icon](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md) - [Last Resort Soup icon](../assets/Last_Resort_Soup_icon.png) [Last Resort Soup](./Last%20Resort%20Soup.md) - [Vagabond Soup icon](../assets/Vagabond_Soup_icon.png) [Vagabond Soup](./Vagabond%20Soup.md) | Pie - [Breyerhouse Pie icon](../assets/Breyerhouse_Pie_icon.png) [Breyerhouse Pie](./Breyerhouse%20Pie.md) - [Dockworker's Pie icon](../assets/Dockworker%27s_Pie_icon.png) [Dockworker's Pie](./Dockworker%27s%20Pie.md) - [Ptarmigan Pie icon](../assets/Ptarmigan_Pie_icon.png) [Ptarmigan Pie](./Ptarmigan%20Pie.md) - [Rabbit Pie icon](../assets/Rabbit_Pie_icon.png) [Rabbit Pie](./Rabbit%20Pie.md) - [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md) - [Venison Pie icon](../assets/Venison_Pie_icon.png) [Venison Pie](./Venison%20Pie.md) Other - [Coastal Fishcakes icon](../assets/Coastal_Fishcakes_icon.png) [Coastal Fishcakes](./Coastal%20Fishcakes.md)[^3] |
 
-<!-- #Baiting/Decoys -->
-​
-
-<!-- #baiting/decoys -->
-​
-
-<!-- #Baiting/decoys -->
-​
-
-<!-- #baitingdecoys -->
 ## Baiting/Decoys
 
 [Wolves](./Wolf.md), [Timberwolves](./Timberwolf.md), [Poisoned Wolves](./Poisoned%20Wolf.md), [Bears](./Bear.md), and [Cougar](./Cougar.md) are attracted to the smell of game. This can be troublesome when the character is carrying fresh steaks back to camp after quartering a carcass and predators begin to stalk and attack the player. **Decoys/Baiting** can be used to a player's advantage to distract or lure these animals away from/to the player.
 
-<!-- #drop_decoy -->
-​
-
-<!-- #Drop_Decoy -->
-​
-
-<!-- #Drop_decoy -->
-​
-
-<!-- #drop-decoy -->
 ### Drop Decoy
 
 The 'Drop Decoy' button is provided to automatically drop the smelliest item in inventory. Repeated pressing will repeatedly drop bait until none remains. Bait items may still be manually dropped from inventory, but this is a slower process than some players would like when facing a predator.
@@ -142,22 +76,6 @@ The 'Drop Decoy' button is provided to automatically drop the smelliest item in 
 - Manually selecting the Drop Decoy option in the [Radial Menu](./Radial%20Menu.md).
 - Manually selecting a piece of meat in the Radial Menu, then placing it on the ground.
 
-<!-- #making_baitdecoys -->
-​
-
-<!-- #Making_Bait/Decoys -->
-​
-
-<!-- #making_bait/decoys -->
-​
-
-<!-- #Making_bait/decoys -->
-​
-
-<!-- #Making_Bait/decoys -->
-​
-
-<!-- #making-baitdecoys -->
 ## Making Bait/Decoys
 
 Giving up a whole salmon to avoid being mauled may seem like a fair trade, but there is an even more economical way. A 0.01kg sliver of cooked meat will be just as effective as a whole 1.00kg piece of cooked meat.
@@ -168,16 +86,6 @@ The game is a little stingy in how it lets you handle your meat, but there are q
 - Increasing a harvest option to maximum and then reducing back down may result in a partial portion being selected for harvest. Repeat the harvesting action to obtain multiple small portions.
 - Harvesting Fish will produce Fishing Bait.
 
-<!-- #animal_reactions_to_food -->
-​
-
-<!-- #Animal_reactions_to_food -->
-​
-
-<!-- #Animal_Reactions_To_Food -->
-​
-
-<!-- #animal-reactions-to-food -->
 ## Animal reactions to food
 
 Predators are the only animals to be affected by Scented Decoys, and follow a predictable set of behaviors:
@@ -195,19 +103,6 @@ Predators are the only animals to be affected by Scented Decoys, and follow a pr
   - The player can still be attacked even if they drop all scented items before sleeping, should said items be close to them.
 - Fleeing animals ignore all Decoys.
 
-<!-- #specific_animal_reactions_to_decoys -->
-​
-
-<!-- #Specific_Animal_reactions_to_Decoys -->
-​
-
-<!-- #Specific_animal_reactions_to_decoys -->
-​
-
-<!-- #Specific_Animal_Reactions_To_Decoys -->
-​
-
-<!-- #specific-animal-reactions-to-decoys -->
 ### Specific Animal reactions to Decoys
 
 **Undetected:**
@@ -226,16 +121,6 @@ Predators are the only animals to be affected by Scented Decoys, and follow a pr
 - Decoys will distract a Bear that is stalking the player. They will ignore Decoys if they start charging.
 - Cougars ignore Decoys the moment they detect the player.
 
-<!-- #baiting_animals -->
-​
-
-<!-- #Baiting_animals -->
-​
-
-<!-- #Baiting_Animals -->
-​
-
-<!-- #baiting-animals -->
 ## Baiting animals
 
 While a predator is tracking bait, it is not tracking the player, so you could drop the bait and just walk away.
@@ -243,16 +128,6 @@ While a predator is tracking bait, it is not tracking the player, so you could d
 - Since you now know the animal will walk directly to your offering, you might take the opportunity and line-up a clean shot, positioning yourself to have the bait directly between you and the predator so it walks head first toward you.
 - Another tactic can be to use the animal's retreat to position it where you like. Since the animal will retreat away from the player when it reaches the bait, you can determine in which direction that will be. As noted above, you can also now follow it to herd it along perhaps even shooting it in the back when it gets to where you want it.
 
-<!-- #additional_tips -->
-​
-
-<!-- #Additional_Tips -->
-​
-
-<!-- #Additional_tips -->
-​
-
-<!-- #additional-tips -->
 ## Additional Tips
 
 - The Decoy key ('3' key) may be used to quickly reduce Scent. Each time it is pressed, a carried Scented item will be dropped.
@@ -264,14 +139,10 @@ While a predator is tracking bait, it is not tracking the player, so you could d
 - Crouching while manipulating Scent (picking up and dropping scented items) can be used to manipulate predators to specific locations, or to attack other wildlife.
 - [Cat Tails](./Cat%20Tail%20Stalk.md) and artificial foods are a scent-free way of traveling if the player is worried about Wildlife attacks. This is especially helpful when passing through Timberwolf or Cougar territory.
 
-<!-- #footnotes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 ---
 
-1. <span id="fn1"></span>
-2. <span id="fn2"></span>
-3. <span id="fn3"></span>1 Scent bar is added only when 3 separate stacks of these items are in the player's inventory due to bug[↩︎](#fnref3)
+[^1]: 
+[^2]: 
+[^3]: 1 Scent bar is added only when 3 separate stacks of these items are in the player's inventory due to bug

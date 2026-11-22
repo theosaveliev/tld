@@ -14,10 +14,6 @@
 
 **Type:** Cave
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The cave itself doesn't contain any notable loot, but some [Rose Hip](./Rose%20Hip.md) can be found at the entrance, and there are [Deer](./Deer.md) to hunt just outside, too. If the [Moose](./Moose.md) happens to spawn nearby, this cave can make for a good location to cure the hide and guts. South of the cave, up on the plateau one can find one of the largest [Birch Forests](./Birch%20Bark.md) of [Great Bear Island](./Great%20Bear%20Island.md).

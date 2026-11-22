@@ -18,10 +18,6 @@
 
 **Type:** Landmark
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A [Deer Carcass](./Deer%20Carcass.md) may be found in a small cove to the north-east. Many waterfalls can be found on the southern end of the lake. Both [wolves](./Wolf.md) and deer may be found wandering around on the ice of the frozen lake.
@@ -30,16 +26,6 @@ A [Deer Carcass](./Deer%20Carcass.md) may be found in a small cove to the north-
 
 The lake is NOT suitable for [Ice Fishing](./Ice%20Fishing.md) holes.
 
-<!-- #nearby_cave -->
-​
-
-<!-- #Nearby_Cave -->
-​
-
-<!-- #Nearby_cave -->
-​
-
-<!-- #nearby-cave -->
 ## Nearby Cave
 
 While the lake doesn't offer any shelter, there is a cave a short walk to the northeast, which can make for a short-term decent campsite for weary travelers who have recently entered the region and/or want to explore the southwestern part of the map. This cave offers a warmth bonus, like most of the small caves scattered throughout Great Bear Island. A [frozen corpse](./Frozen%20Corpse.md) often spawns in the cave, and the cave is a possible spawn point for the [Expedition Parka](./Expedition%20Parka.md) and [Hunting Rifle](./Hunting%20Rifle.md).

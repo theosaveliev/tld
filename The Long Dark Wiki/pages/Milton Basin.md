@@ -18,10 +18,6 @@
 
 **Type:** Outdoors
 
-<!-- #Location -->
-​
-
-<!-- #location -->
 ## Location
 
 Milton Basin lies near the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md). In order to access the zone, the player has to either climb down a rope by the farmstead or follow a rock climbing passage near [Marsh Ridge](./Marsh%20Ridge.md) in Forlorn Muskeg. The area consists of a large lake surrounded by hills and a steep cliff. Many [Cat Tails](./Cat%20Tail.md) are scattered around the lake, with a small birch forest in the northwest providing some birch bark. [Wolves](./Wolf.md), possibly a [Moose](./Moose.md) may roam the area, along with many [rabbits](./Rabbit.md) near the Hermit's Cabin. Thanks to 3 concentrated [Deer](./Deer.md) spawns on the lake and 2 more along the Northern passage, the area may offer rich hunting grounds with as many as 7 deer simultaneously in sight.
@@ -33,18 +29,10 @@ There are two locations in the basin:
 - [Rocky Refuge](./Rocky%20Refuge.md)
 - [Hermit's Cabin](./Hermit%27s%20Cabin.md)
 
-<!-- #Notes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 - Milton Basin is not accessible in Wintermute, making transition between Forlorn Muskeg and Milton impossible.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Camping by the Hermit's Cabin](../assets/Milton_Basin_Cabin.jpg)

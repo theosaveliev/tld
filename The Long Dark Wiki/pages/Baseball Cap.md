@@ -28,9 +28,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>75% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 75% condition
 
 > “**Why would anyone wear one of these in the Winter?**”
 >
@@ -38,18 +38,10 @@
 
 The **Baseball Cap** is a type of hat that can be found in _[The Long Dark](./The%20Long%20Dark.md)._
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Baseball Cap is a simple black and white hat that can commonly be found in many locations.
 
-<!-- #Usefulness -->
-​
-
-<!-- #usefulness -->
 ### Usefulness
 
 The Baseball Cap is effectively useless for providing [Warmth](./Warmth.md), and it is usually best to harvest it for a piece of [Cloth](./Cloth.md).
@@ -64,16 +56,6 @@ Wearing it is better than nothing though, as it at least prevents [Frostbite](./
 
 ![Current 3d model is not squished](../assets/Baseball_Cap_3d_model_current.jpg)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

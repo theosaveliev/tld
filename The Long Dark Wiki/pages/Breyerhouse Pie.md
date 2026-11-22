@@ -50,10 +50,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Breyerhouse Pie** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Skillet](./Cooking%20Skillet.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Breyerhouse Pie offers significant benefits to a survivor with a maxed cooking skill. Its meat ingredients contain only 850 calories (1062 with level 5 cooking) when cooked separately, but a cooked pie doubles the calorie count to 1700 (In reality 2125 calories because of level 5 cooking). It also uses the same amount of oil and flour needed to make two bannocks, which would be 500 calories at level 5 cooking, so it's more efficient in that regard as well. On top of its nutritional value, it has a weight of just 0.3 kg. This gives it an effective energy density of 7083 calories per kilogram (easily beating all packaged foods) and making it one of the most energy dense foods in the game.
@@ -64,16 +60,6 @@ While the game interface shows it is intended to have a positive impact on [Cabi
 
 Breyerhouse Pie produces a [Scent](./Scent.md) which attracts [predators](./Wolf.md), and may be dropped as a [decoy](./Scent.md#Baiting/Decoys).
 
-<!-- #additional_effects -->
-​
-
-<!-- #Additional_effects -->
-​
-
-<!-- #Additional_Effects -->
-​
-
-<!-- #additional-effects -->
 ## Additional effects
 
 - +10% [Condition](./Condition.md) (instantly)
@@ -82,10 +68,6 @@ Breyerhouse Pie produces a [Scent](./Scent.md) which attracts [predators](./Wolf
 - [Cabin Fever](./Cabin%20Fever.md) outside time increase (minimal)
 - [Gorged](./Gorged.md) -15% Maximum [Stamina](./Stamina.md) (for 1 hour)
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 The ingredients of this pie are the opposite of [Stalker's Pie](./Stalker%27s%20Pie.md), requiring Prey [Wildlife](./Wildlife.md) meat instead.
@@ -122,26 +104,12 @@ The ingredients of this pie are the opposite of [Stalker's Pie](./Stalker%27s%20
 
 **Quantity:** 0.50 kg
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 Given the location of the Recipe Card for this food is located in the old Hunting Lodge despite being a [Breyerhouse](./Breyerhouse.md) Recipe, the [Forest Talkers](./Forest%20Talkers.md) most likely stole the card and stashed it in their operating center in the Lodge.
 
 While the cooking menu and uncooked version of the Breyerhouse Pie list its weight as 0.2 kg, the final cooked pie masses 0.3 kg.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

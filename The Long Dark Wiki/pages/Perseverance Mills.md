@@ -29,19 +29,19 @@
 
 **Description:** An old, inhabited logging and milling town suffering from a quarantine
 
-**Connecting Regions:** [Desperation Bay](./Desperation%20Bay.md)<br>[Perseverance Wilds](./Perseverance%20Wilds.md)<br>[Railway](./Railway.md) (unused)
+**Connecting Regions:** [Desperation Bay](./Desperation%20Bay.md) [Perseverance Wilds](./Perseverance%20Wilds.md) [Railway](./Railway.md) (unused)
 
-**Characters:** [Jane Yang](./Jane%20Yang.md)<br>[Cooper](./Cooper.md)<br>[Terry](./Terry.md)<br>Freya<br>Dr. Larson<br>Constable Pete<br>Townsperson One and Two<br>Mill Worker<br>Bar Patrons
+**Characters:** [Jane Yang](./Jane%20Yang.md) [Cooper](./Cooper.md) [Terry](./Terry.md) Freya Dr. Larson Constable Pete Townsperson One and Two Mill Worker Bar Patrons
 
 **Date Added:** 31 March 2026
 
 [2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.** This content only appears in [Wintermute](./Wintermute.md).
 
 “
 
-**Shit-nothing town, north part of the island? Yeah...I know it.**<br>[Jeremiah](./Jeremiah.md)
+**Shit-nothing town, north part of the island? Yeah...I know it.** [Jeremiah](./Jeremiah.md)
 
 ”
 
@@ -49,10 +49,6 @@
 
 The region connects to the nearby regions of [Desperation Bay](./Desperation%20Bay.md) and [Perseverance Wilds](./Perseverance%20Wilds.md). The region is currently Wintermute exclusive, and does not appear in [Survival Mode](./Survival%20Mode.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 > “**I seem to recall...a town somewhere up north. Far. What was it called...That's it -- Perseverance Mills**”
@@ -67,10 +63,6 @@ As of [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) and [Episode 3](./Ep
 
 The town is ultimately burned to the ground by [Mathis](./Mathis.md) and his [Convicts](./Convicts.md) at the end of [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md), with the survivors fleeing to a bunker under the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md).
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 Despite being the largest town on Great Bear Island, the region has very few locations to explore.
@@ -86,103 +78,36 @@ The town has several houses that are not boarded up, but most cannot be entered.
 
 2 [Coastal Houses](./Coastal%20House.md) can be entered, with one be found close to Jane's House and another close to Cooper's Blind. All other homes are either locked or boarded up.
 
-<!-- #episode_1_do_not_go_gentle -->
-​
+## Wintermute
 
-<!-- #Episode_1:_Do_Not_Go_Gentle -->
-​
-
-<!-- #episode_1:_do_not_go_gentle -->
-​
-
-<!-- #Episode_1:_do_not_go_gentle -->
-​
-
-<!-- #episode-1-do-not-go-gentle -->
 ### [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
 
 [Astrid Greenwood](./Astrid%20Greenwood.md) charters a plane from her ex husband [Will Mackenzie](./Will%20Mackenzie.md) at the [Jackrabbit Hangar](./Jackrabbit%20Hangar.md) to deliver her and her Hardcase to the Northern part of Great Bear Island. Their plane crashes after the [First Flare](./First%20Flare.md) and the two become separated. Astrid makes her way to the town of Milton and escapes the town after [Convicts](./Convicts.md) take it over, heading through the tunnel to [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) and eventually passing through before it collapses, but not before leaving a message in her own blood for Mackenzie in the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md): "PERSEVERANCE".
 
 A day later, Mackenzie escapes the ravine he was crashed in and finds both her message and Hardcase, with Grey Mother eventually providing him with a way to leave Milton and continue to the Mills.
 
-<!-- #episode_2_luminance_fugue -->
-​
-
-<!-- #Episode_2:_Luminance_Fugue -->
-​
-
-<!-- #episode_2:_luminance_fugue -->
-​
-
-<!-- #Episode_2:_luminance_fugue -->
-​
-
-<!-- #episode-2-luminance-fugue -->
 ### [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md)
 
 [Jeremiah](./Jeremiah.md) confirms the location of [Mystery Lake](./Mystery%20Lake%20%28region%29.md) is not on the same road that Astrid took, but Mackenzie is heading the right way regardless. Mackenzie eventually repairs Jeremiah's shortwave radio to send a message out to the Mills, but the radio is destroyed during the Aurora. Jeremiah says the Mills can be reached by taking the road north out of [Pleasant Valley](./Pleasant%20Valley.md), but it would take days to get there on foot.
 
 Jeremiah eventually requests Mackenzie with delivering a message to a person named Atwood, "WINTERMUTE". He also tells Mackenzie that he would need to pass through the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md), the [Winding River](./Winding%20River.md), and send another message to the Mills via [Signal Hill](./Signal%20Hill.md). Mackenzie is eventually captured by [Mathis](./Mathis.md) in the Dam however.
 
-<!-- #episode_3_crossroads_elegy -->
-​
-
-<!-- #Episode_3:_Crossroads_Elegy -->
-​
-
-<!-- #episode_3:_crossroads_elegy -->
-​
-
-<!-- #Episode_3:_crossroads_elegy -->
-​
-
-<!-- #episode-3-crossroads-elegy -->
 ### [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md)
 
 Astrid wakes up in [Pleasant Valley](./Pleasant%20Valley.md) and manages to use Signal Hill to contact the Mills, but cannot get a message out. She overhears the same transmission that Mackenzie made in Episode 2, and realizes he is alive. She eventually makes her way to [Coastal Highway](./Coastal%20Highway.md) and takes the coastline to reach the Mills.
 
 A flashback in Episode 3 reveals that an illness is spreading in Perseverance Mills, and that she stole the cure inside the Hardcase before chartering Mackenzie for a plane.
 
-<!-- #episode_4_fury_then_silence -->
-​
-
-<!-- #Episode_4:_Fury,_Then_Silence -->
-​
-
-<!-- #episode_4:_fury,_then_silence -->
-​
-
-<!-- #Episode_4:_fury,_then_silence -->
-​
-
-<!-- #episode-4-fury-then-silence -->
 ### [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
 
 Mackenzie is imprisoned by a group of convicts and must comply with their demands after the Hardcase is confiscated. He eventually makes contact with [Jace](./Jace.md), a woman who has been spending time near the mills at the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md), along with Atwood. After retrieving the Hardcase, destroying [Blackrock Prison](./Blackrock%20Prison.md), and escaping, Mackenzie and Jace both make their way to Suzuiki.
 
 A post credits cutscene shows Astrid in a canoe arriving by the docks of the town. Jane Yang finds her and rescues her, but questions why Astrid does not have the case. A quarantine is currently afflicting the town.
 
-<!-- #episode_5_the_light_at_the_end_of_all_things -->
-​
-
-<!-- #Episode_5:_The_Light_At_The_End_Of_All_Things -->
-​
-
-<!-- #episode_5:_the_light_at_the_end_of_all_things -->
-​
-
-<!-- #Episode_5:_the_light_at_the_end_of_all_things -->
-​
-
-<!-- #episode-5-the-light-at-the-end-of-all-things -->
 ### [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
 
 No spoilers.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - This location has currently taken the longest development time to implement into the game, longer than any other location on Great Bear Island.
@@ -190,10 +115,6 @@ No spoilers.
   - The town would finally be introduced as a playable location and Region with the release of Episode 5 on March 31st, 2026.
 - There is a connection between Perseverance Mills and the [Railway](./Railway.md) behind the sawmill, though it is inaccessible from the Perseverance Mills end and can only be accessed from the Railway by [Mountain Goating](./Mountain%20Goating.md) along a cliff.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The docks at the end of Episode 4.](../assets/Perseverance_Mills.png)

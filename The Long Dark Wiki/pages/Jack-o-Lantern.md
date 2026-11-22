@@ -14,10 +14,6 @@
 
 A **Jack-o-Lantern** is a non-interactable object that appear during the [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md). Jack-o-Lantern served as a marker for [Hidden Caches](./Hidden%20Cache.md) or other loot, during the event, by emitting a permanent light similar to a camp fire.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 While the event was active, Jack-o-Lanterns had a chance to appear in the following locations:
@@ -33,10 +29,6 @@ While the event was active, Jack-o-Lanterns had a chance to appear in the follow
 | [Pleasant Valley](./Pleasant%20Valley.md) | [Pensive Pond](./Pensive%20Pond.md) | On the dock. |
 | [Pleasant Valley](./Pleasant%20Valley.md) | [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) | In the sheds towards [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md). |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![A Jack-o-Lantern with a supply box nearby](../assets/Jack_o_lantern.jpg)

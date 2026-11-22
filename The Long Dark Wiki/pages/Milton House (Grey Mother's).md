@@ -37,42 +37,20 @@ Has an interior
 
 The **Milton House (Grey Mother's)**is a location featured in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _The Long Dark_. It is a large two-story house in the town of [Milton](./Milton.md) and is home to [Grey Mother](./Grey%20Mother.md), and is distinguished as being the largest [Milton House](./Milton%20House.md) in the town.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The house is located on top of a small hill near the town entrance. It has two bedrooms, a bathroom, a kitchen with a [Stove](./Stove.md), and a living room with a [Fireplace](./Fireplace.md). Various loot items can be found in the containers throughout the house.
 
 In the backyard, there is a small shed with a [Hatchet](./Hatchet.md) and [Prybar](./Prybar.md). Near the end of Episode 1, Grey Mother will give you a key to unlock a [Trunk](./Trunk.md) in the second bedroom, giving you access to a [Mountaineering Rope](./Mountaineering%20Rope.md). She will also cook some [Home-made Soup](./Home-made%20Soup.md) for the player to show her hospitality.
 
-<!-- #Wintermute -->
-​
-
-<!-- #wintermute -->
 ## Wintermute
 
 The house is occupied by Grey Mother, a blind old woman with a loaded rifle and a distrust for outsiders. She is the only remaining resident in the town of Milton and is effectively trapped due to the collapsed tunnel out of town. From her house, she gives [Will Mackenzie](./Will%20Mackenzie.md) various missions and allows him to use the house as shelter from the cold and the wolves.
 
-<!-- #Survival -->
-​
-
-<!-- #survival -->
 ## Survival
 
 In survival, the house is devoid of Grey Mother, with just her chair tipped onto its side and bullet holes in the walls face away from the chair, suggesting signs of a struggle. It makes a good base despite its lack of workbench. The building has a 6-slot stove, a 2-slot fireplace, and warm beds, making it a great place to cook large amounts of meat and use as a safehouse. It's centrally located within the region and is atop a hill, making spotting wolves easier.
 
-<!-- #notable_loot -->
-​
-
-<!-- #Notable_Loot -->
-​
-
-<!-- #Notable_loot -->
-​
-
-<!-- #notable-loot -->
 ### Notable Loot
 
 - A [Revolver](./Revolver.md) may spawn in the first bedroom beneath the bed, with two cartridges scattered around.

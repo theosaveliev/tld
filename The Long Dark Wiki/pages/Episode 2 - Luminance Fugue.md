@@ -36,24 +36,12 @@
 
 > “**Mackenzie's search for Astrid takes him deeper into the savage wilderness. A mysterious trapper may be the key to finding Astrid. But can he be trusted?**”
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 **_Luminance Fugue_** is the second episode in the [story](./Wintermute.md) of [The Long Dark](./The%20Long%20Dark.md). It is preceded by [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and is followed by [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
-<!-- #the_wounded_trapper -->
-​
+## Main missions
 
-<!-- #The_Wounded_Trapper -->
-​
-
-<!-- #The_wounded_trapper -->
-​
-
-<!-- #the-wounded-trapper -->
 ### The Wounded Trapper
 
 ![Missions story ep2 The Wounded Trapper](../assets/Missions_story_ep2_The_Wounded_Trapper.png)
@@ -64,16 +52,6 @@ _Main article: [The Wounded Trapper](./The%20Wounded%20Trapper.md)_
 
 — In-game description
 
-<!-- #the_best_defense -->
-​
-
-<!-- #The_Best_Defense -->
-​
-
-<!-- #The_best_defense -->
-​
-
-<!-- #the-best-defense -->
 ### The Best Defense
 
 ![Missions story ep2 The Best Defense](../assets/Missions_story_ep2_The_Best_Defense.png)
@@ -84,19 +62,6 @@ _Main article: [The Best Defense](./The%20Best%20Defense.md)_
 
 — In-game description
 
-<!-- #signal_to_noise -->
-​
-
-<!-- #Signal_to_Noise -->
-​
-
-<!-- #Signal_to_noise -->
-​
-
-<!-- #Signal_To_Noise -->
-​
-
-<!-- #signal-to-noise -->
 ### Signal to Noise
 
 ![Missions story ep2 Signal to Noise](../assets/Missions_story_ep2_Signal_to_Noise.png)
@@ -107,16 +72,6 @@ _Main article: [Signal to Noise](./Signal%20to%20Noise.md)_
 
 — In-game description
 
-<!-- #what_one_man_can_do -->
-​
-
-<!-- #What_One_Man_Can_Do -->
-​
-
-<!-- #What_one_man_can_do -->
-​
-
-<!-- #what-one-man-can-do -->
 ### What One Man Can Do
 
 ![Missions story ep2 What One Man Can Do](../assets/Missions_story_ep2_What_One_Man_Can_Do.png)
@@ -127,16 +82,6 @@ _Main article: [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)_
 
 — In-game description
 
-<!-- #renewed_hope -->
-​
-
-<!-- #Renewed_Hope -->
-​
-
-<!-- #Renewed_hope -->
-​
-
-<!-- #renewed-hope -->
 ### **Renewed Hope**
 
 ![Missions story ep2 Renewed Hope](../assets/Missions_story_ep2_Renewed_Hope.png)
@@ -147,16 +92,8 @@ _Main article: [Renewed Hope](./Renewed%20Hope.md)_
 
 — In-game description
 
-<!-- #forest_talker_supply_caches -->
-​
+## Side Missions
 
-<!-- #Forest_Talker_Supply_Caches -->
-​
-
-<!-- #Forest_talker_supply_caches -->
-​
-
-<!-- #forest-talker-supply-caches -->
 ### Forest Talker Supply Caches
 
 ![Missions story ep2 Side](../assets/Missions_story_ep2_Side.png)
@@ -167,16 +104,6 @@ _Main article: [Forest Talker Supply Caches](./Forest%20Talker%20Supply%20Caches
 
 — In-game description
 
-<!-- #mystery_lake_supply_caches -->
-​
-
-<!-- #Mystery_Lake_Supply_Caches -->
-​
-
-<!-- #Mystery_lake_supply_caches -->
-​
-
-<!-- #mystery-lake-supply-caches -->
 ### Mystery Lake Supply Caches
 
 _Main article: [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md)_
@@ -185,16 +112,6 @@ _Main article: [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.m
 
 — In-game description
 
-<!-- #aurora_hatch -->
-​
-
-<!-- #Aurora_Hatch -->
-​
-
-<!-- #Aurora_hatch -->
-​
-
-<!-- #aurora-hatch -->
 ### Aurora Hatch
 
 _Main article: [Aurora Hatch](./Aurora%20Hatch.md)_
@@ -203,19 +120,6 @@ _Main article: [Aurora Hatch](./Aurora%20Hatch.md)_
 
 — In-game description
 
-<!-- #hanks_hatch -->
-​
-
-<!-- #Hank's_Hatch -->
-​
-
-<!-- #hank's_hatch -->
-​
-
-<!-- #Hank's_hatch -->
-​
-
-<!-- #hanks-hatch -->
 ### Hank's Hatch
 
 _Main article: [Hank's Hatch](./Hank%27s%20Hatch.md)_
@@ -224,16 +128,6 @@ _Main article: [Hank's Hatch](./Hank%27s%20Hatch.md)_
 
 — In-game description
 
-<!-- #lake_gunshots -->
-​
-
-<!-- #Lake_Gunshots -->
-​
-
-<!-- #Lake_gunshots -->
-​
-
-<!-- #lake-gunshots -->
 ### Lake Gunshots
 
 _Main article: [Lake Gunshots](./Lake%20Gunshots.md)_
@@ -242,16 +136,6 @@ _Main article: [Lake Gunshots](./Lake%20Gunshots.md)_
 
 — In-game description
 
-<!-- #survival_school -->
-​
-
-<!-- #Survival_School -->
-​
-
-<!-- #Survival_school -->
-​
-
-<!-- #survival-school -->
 ### Survival School
 
 _Main article: [Survival School](./Survival%20School.md)_
@@ -260,19 +144,6 @@ _Main article: [Survival School](./Survival%20School.md)_
 
 — In-game description
 
-<!-- #non_mission_objective -->
-​
-
-<!-- #Non-mission_objective -->
-​
-
-<!-- #non-mission_objective -->
-​
-
-<!-- #Non-mission_Objective -->
-​
-
-<!-- #non-mission-objective -->
 ## Non-mission objective
 
 In addition to the side missions, the player can also find three keys to the locked lake cabins. The cabins contain various loot.
@@ -281,32 +152,14 @@ In addition to the side missions, the player can also find three keys to the loc
 - Key to cabin #2 is found in the hunter's blind near [Alan's cave](./Alan%27s%20Cave.md) in [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md).
 - Key to cabin #3 is found within the [Camp Office](./Camp%20Office.md) in [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md).
 
-<!-- #major_characters -->
-​
+## Cast
 
-<!-- #Major_Characters -->
-​
-
-<!-- #Major_characters -->
-​
-
-<!-- #major-characters -->
 ### Major Characters
 
 - [Will Mackenzie](./Will%20Mackenzie.md) - (playable character) Mark Meer
 - [Jeremiah](./Jeremiah.md) - David Hayter
 - [Methuselah](./Methuselah.md) - Richard Newman
 
-<!-- #minor_characters -->
-​
-
-<!-- #Minor_Characters -->
-​
-
-<!-- #Minor_characters -->
-​
-
-<!-- #minor-characters -->
 ### Minor Characters
 
 - [Mathis](./Mathis.md) - (ending cameo) Elias Toufexis (formerly voiced by Gord Marriott)
@@ -314,30 +167,12 @@ In addition to the side missions, the player can also find three keys to the loc
 - Radio Voice - (man on the radio calling from Perseverance Mills) - Noel Johansen
 - Forest Talker ([Lake Gunshots](./Lake%20Gunshots.md)) - Brian Drummond
 
-<!-- #positive_benefit -->
-​
+## Affliction Availability
 
-<!-- #Positive_Benefit -->
-​
-
-<!-- #Positive_benefit -->
-​
-
-<!-- #positive-benefit -->
 ### Positive Benefit
 
 - [Well Fed](./Well%20Fed.md)/[Fatigue Reduced](./Fatigue%20Reduced.md)/[Restore Condition](./Restore%20Condition.md)/[Improved Rest](./Improved%20Rest.md)/[Energy Boost](./Energy%20Boost.md)/[Warming Up](./Warming%20Up.md)
 
-<!-- #negative_affliction -->
-​
-
-<!-- #Negative_Affliction -->
-​
-
-<!-- #Negative_affliction -->
-​
-
-<!-- #negative-affliction -->
 ### Negative Affliction
 
 - [Torn Clothing](./Torn%20Clothing.md)/[Minor Bruising](./Minor%20Bruising.md)/[Major Bruising](./Major%20Bruising.md)/[Laceration](./Laceration.md)
@@ -347,19 +182,8 @@ In addition to the side missions, the player can also find three keys to the loc
 - [Hypothermia](./Hypothermia.md) / Hypothermia Risk / [Frostbite](./Frostbite.md) /Frostbite Risk
 - [Sprained Ankle](./Sprained%20Ankle.md) / [Sprained Wrist](./Sprained%20Wrist.md) / Sprain Risk / [Pain](./Pain.md)
 
-<!-- #player_and_workbench_unlocks -->
-​
+## Craft-able Unlocks
 
-<!-- #Player_and_Workbench_Unlocks -->
-​
-
-<!-- #Player_and_workbench_unlocks -->
-​
-
-<!-- #Player_And_Workbench_Unlocks -->
-​
-
-<!-- #player-and-workbench-unlocks -->
 ### Player and Workbench Unlocks
 
 - [Rabbitskin Mitts](./Rabbitskin%20Mitts.md)
@@ -395,16 +219,6 @@ In addition to the side missions, the player can also find three keys to the loc
 - [Torch](./Torch.md)
   - Unlocks during Episode 1.
 
-<!-- #forge_unlocks -->
-​
-
-<!-- #Forge_Unlocks -->
-​
-
-<!-- #Forge_unlocks -->
-​
-
-<!-- #forge-unlocks -->
 ### Forge Unlocks
 
 - [Spear Head](./Spear%20Head.md)
@@ -413,10 +227,6 @@ In addition to the side missions, the player can also find three keys to the loc
 - [Improvised Hatchet](./Improvised%20Hatchet.md)
   - After successfully crafting a Spear Head, then it will unlock this ability.
 
-<!-- #Achievements -->
-​
-
-<!-- #achievements -->
 ## Achievements
 
 - ![The Old Trapper icon](../assets/The_Old_Trapper_icon.png) [The Old Trapper](./The%20Old%20Trapper.md)
@@ -427,18 +237,10 @@ In addition to the side missions, the player can also find three keys to the loc
 - ![Sounds Like Some Kind of Indie Band icon](../assets/Sounds_Like_Some_Kind_of_Indie_Band_icon.png) [Sounds Like Some Kind of Indie Band](./Sounds%20Like%20Some%20Kind%20of%20Indie%20Band.md)
 - ![Cache Mastery icon](../assets/Cache_Mastery_icon.png) [Cache Mastery](./Cache%20Mastery.md)
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The Episode 2 Menu Background](../assets/Episode_2_Menu_Background.png)
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Of all the episodes of Wintermute, Episode 2 is the most similar to [Survival Mode](./Survival%20Mode.md).

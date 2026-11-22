@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 30 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>30% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 30% condition
 
 > “**Heavy duty military pants, with reinforced knees and articulated for good mobility. Designed to take a beating.**”
 >
@@ -48,16 +48,6 @@ Possible spawns: [Signal Hill](./Signal%20Hill.md), [Crash Site](./Crash%20Site%
 
 ![Clothing model icon damaged](../assets/Combat_Pants_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

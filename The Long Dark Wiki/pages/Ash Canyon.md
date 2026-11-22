@@ -47,26 +47,12 @@
 
 Ash Canyon can be accessed from two locations in eastern [Timberwolf Mountain](./Timberwolf%20Mountain.md): the eastern end of the [Echo Ravine](./Echo%20Ravine.md) basin which leads to [Bitter Marsh](./Bitter%20Marsh.md), and a transition cave east of [Deer Clearing](./Deer%20Clearing.md) to [Pillar's Footrest](./Pillar%27s%20Footrest.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The region is relatively cold (-25°C / -13°F) and consists almost entirely of wilderness: charred forests, frozen wetlands and high plateaus separated by deep canyons. A variety of bridges (artificial and natural) connect the higher elevation areas.
 
 Traveling to higher elevations requires either lengthy detours or multiple rope climbs from the lower areas of the region. While traveling at higher elevations, there is little risk of hostile wildlife, but traversing rope bridges can pose serious risks since falling from them is fatal. In addition, the limited availability of food, especially on Stalker and Interloper with the presence of [Intestinal Parasites](./Intestinal%20Parasites.md) in wolf and bear meat, will likely prevent lengthy stays in the upper areas without utilization of starvation tactics.
 
-<!-- #exclusive_gear -->
-​
-
-<!-- #Exclusive_gear -->
-​
-
-<!-- #Exclusive_Gear -->
-​
-
-<!-- #exclusive-gear -->
 ## Exclusive gear
 
 Three pieces of gear are exclusive to Ash Canyon: the [Curator's Rifle](./Curator%27s%20Rifle.md), [Crampons](./Crampons.md) and the [Technical Backpack](./Technical%20Backpack.md) (not to be confused with [Moose-Hide Satchel](./Moose-Hide%20Satchel.md)).
@@ -75,10 +61,6 @@ The crampons and technical backpack are located inside of the [Gold Mine](./Gold
 
 Despite the challenging environment, these items make exploring Ash Canyon and other regions easier. The backpack increases carry weight, and crampons help during rope climbs and navigating steep hills. The Curator's Rifle has 33% longer range than a normal rifle, which makes hunting [Bears](./Bear.md) and [Moose](./Moose.md) somewhat safer.
 
-<!-- #Survivability -->
-​
-
-<!-- #survivability -->
 ## Survivability
 
 Ash Canyon features steep terrain and numerous plateaus separating lowland areas (like [Hushed River Valley](./Hushed%20River%20Valley.md)), and offers a few man-made shelters, many of which have been severely damaged (like [Pleasant Valley](./Pleasant%20Valley.md)).
@@ -93,16 +75,6 @@ Similar to [Hushed River Valley](./Hushed%20River%20Valley.md), Ash Canyon conta
 
 Work Benches are also present, including one inside Angler's Den and an outdoor bench at Miner's Folly. Arrowheads may be found at some locations (e.g., Angler's Den), enabling limited access to hunting without the need to cross several regions to the closest [Forge](./Forge.md).
 
-<!-- #base_locations -->
-​
-
-<!-- #Base_locations -->
-​
-
-<!-- #Base_Locations -->
-​
-
-<!-- #base-locations -->
 ### Base locations
 
 [Homesteader's Respite](./Homesteader%27s%20Respite.md) provides an attractive base option. Once reached for the first time (from above), a climbing rope may be deployed for easier future access from below. It is also not necessary to climb down, as the landslide near the homestead provides a safe path to scramble down. With the nearby broken fishing hut and a lack of nearby predators, this is possibly the most sustainable base in the region, although fuel will have to be carried up as none spawns on the ledge the cabin is on.
@@ -111,24 +83,16 @@ Work Benches are also present, including one inside Angler's Den and an outdoor 
 
 A final option for a base is [Miner's Folly](./Miner%27s%20Folly.md). Most players will prefer to live in the [Foreman's Retreat](./Foreman%27s%20Retreat.md) nearby, as it offers a stove, fireplace, and plenty of storage. The nearby Bear can be hunted, providing a large amount of food, and a few Deer can spawn nearby. A [Fire Barrel](./Fire%20Barrel.md) near a Work Bench allows crafting without catching [Cabin Fever](./Cabin%20Fever.md). Fuel is somewhat limited, however [Coal](./Coal.md) can be found in a large [Cave](./Cave%20%28Ash%20Canyon%20location%29.md) nearby.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 There are a number of discoverable locations in this region.
 
 | Column 1 | Column 2 |
 | --- | --- |
-| - [Angler's Den](./Angler%27s%20Den.md)<br>- [Bitter Marsh](./Bitter%20Marsh.md)<br>- [Broad Falls](./Broad%20Falls.md)<br>- [Climber's Cave](./Climber%27s%20Cave.md)<br>- [Fire Overlook](./Fire%20Overlook.md)<br>- [Foreman's Retreat](./Foreman%27s%20Retreat.md)<br>- [Gold Mine](./Gold%20Mine.md)<br>- [High Meadow](./High%20Meadow.md)<br>- [Homesteader's Respite](./Homesteader%27s%20Respite.md)<br>- [Long Falls](./Long%20Falls.md)<br>- [Pillar's Footrest](./Pillar%27s%20Footrest.md) | - [Miner's Folly](./Miner%27s%20Folly.md)<br>- [Mining Camp](./Mining%20Camp.md)<br>- [Narrow Falls Cave](./Narrow%20Falls%20Cave.md)<br>- [Runaway Bridge](./Runaway%20Bridge.md)<br>- [Shattered Cove](./Shattered%20Cove.md)<br>- [Stone Shelf Cave](./Stone%20Shelf%20Cave.md)<br>- [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md)<br>- To Cave System (Region Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md))<br>- To Timberwolf Mountain (Region Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md)) |
+| - [Angler's Den](./Angler%27s%20Den.md) - [Bitter Marsh](./Bitter%20Marsh.md) - [Broad Falls](./Broad%20Falls.md) - [Climber's Cave](./Climber%27s%20Cave.md) - [Fire Overlook](./Fire%20Overlook.md) - [Foreman's Retreat](./Foreman%27s%20Retreat.md) - [Gold Mine](./Gold%20Mine.md) - [High Meadow](./High%20Meadow.md) - [Homesteader's Respite](./Homesteader%27s%20Respite.md) - [Long Falls](./Long%20Falls.md) - [Pillar's Footrest](./Pillar%27s%20Footrest.md) | - [Miner's Folly](./Miner%27s%20Folly.md) - [Mining Camp](./Mining%20Camp.md) - [Narrow Falls Cave](./Narrow%20Falls%20Cave.md) - [Runaway Bridge](./Runaway%20Bridge.md) - [Shattered Cove](./Shattered%20Cove.md) - [Stone Shelf Cave](./Stone%20Shelf%20Cave.md) - [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md) - To Cave System (Region Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md)) - To Timberwolf Mountain (Region Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md)) |
 
 There is also 1 [Prepper Cache](./Prepper%20Cache.md) close to the Cave Region Transition.
 
-<!-- #Map -->
-​
-
-<!-- #map -->
 ## Map
 
 ![A detailed map of Ash Canyon v2.35 (spoilers)](../assets/AC_map_default.png)
@@ -137,10 +101,6 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) close to the Cave Region T
 
 ![Older map variant v1.94](../assets/Ash_Canyon_map.png)
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Fog at higher elevations can make traversal difficult, with bridges looking as though they lead to nowhere](../assets/Ash_Canyon_Rope_Bridge_Fog.jpg)

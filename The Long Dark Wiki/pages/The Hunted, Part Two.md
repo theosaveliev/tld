@@ -36,10 +36,6 @@
 
 **The Hunted, Part Two** is one of eight [challenges](./Challenge.md) in [_The Long Dark_](./The%20Long%20Dark.md), and is the sequel to [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) and can only be played when finishing the first challenge. Completing Part Two unlocks [The Hunted, Part Three](./The%20Hunted%2C%20Part%20Three.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 > “**Track the Old Bear and kill it.**”
@@ -48,16 +44,6 @@
 
 The Hunted, Part One must be completed to unlock this challenge. During the challenge, the player chases the [Old Bear](./Old%20Bear.md) throughout [Mystery Lake](./Mystery%20Lake%20%28region%29.md). The bear will stop at numerous locations and wait until the player is close enough to attack, where they must shoot the bear with the rifle so it will continue driving it of to its den. The Challenge ends when the player confronts the bear at the den.
 
-<!-- #challenge_start -->
-​
-
-<!-- #Challenge_start -->
-​
-
-<!-- #Challenge_Start -->
-​
-
-<!-- #challenge-start -->
 ## Challenge start
 
 The Challenge begins right where Part One left off, with the player having entered the [Trapper's Homestead](./Trapper%27s%20Homestead.md) but now having taken up arms.
@@ -66,20 +52,12 @@ The Challenge begins with the player already having a [Hunting Rifle](./Hunting%
 
 - The [Trapper's Homestead](./Trapper%27s%20Homestead.md) will always contain one [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) inside, along with several supplies to loot.
 
-<!-- #Guide -->
-​
-
-<!-- #guide -->
 ## Guide
 
 The Old Bear will be directly outside the homestead and must be shot with the rifle immediately or else it will attack the player. The bear cannot be killed so it is best to only shoot the bear when it has stopped at the designated locations. The bear will follow a path and must be shot to force it to continue retreating to the bear den.
 
 The easiest way to track the bear is to follow the bear prints in the snow and the drops of fresh blood. If the player stops for an extended period, or if it snows heavily, the tracks will disappear. Ammunition can be found all over the region, and is best looted along the way as the player tracks the Old Bear.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ### Locations
 
 The following list is the locations that the bear will stop at in order from the Trapper's Homestead to the den.
@@ -96,10 +74,6 @@ The following list is the locations that the bear will stop at in order from the
 10. Ice Fishing Huts
 11. Bear Den
 
-<!-- #Ending -->
-​
-
-<!-- #ending -->
 ## Ending
 
 **Warning: \***Do not read if you do not want to be spoiled on the ending of the challenge.*
@@ -108,10 +82,6 @@ Once the player has finally reached the cave where the bear is hiding and gets c
 
 The story is concluded in [The Hunted, Part Three](./The%20Hunted%2C%20Part%20Three.md).
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - [Wolves](./Wolf.md) can be found roaming near the trail the bear takes. It is recommended to use flares or alternative ways of making wolves flee instead of shooting them. Ammunition is extremely limited and the rifle is the only weapon that can make the bear retreat.
@@ -122,18 +92,10 @@ The story is concluded in [The Hunted, Part Three](./The%20Hunted%2C%20Part%20Th
 - There's no time limit to the challenge.
 - curiously, you can visit any region outside Mystery Lake. The Old Bear won't follow and will remain in its last scripted location.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 This Challenge is quite similar to the mission [Jeremiah's Folly](./Jeremiah%27s%20Folly.md), which was eventually cut from [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) (removed in the Redux version). Both the Challenge and mission involve the Old Bear being right outside the Trapper's Homestead at the start, following the bear from location to location, wounding it with the Hunting Rifle, and chasing it to a new location to hopefully kill it.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The badge awarded upon completing the challenge](../assets/Badge_challenge_huntedPart2.png)

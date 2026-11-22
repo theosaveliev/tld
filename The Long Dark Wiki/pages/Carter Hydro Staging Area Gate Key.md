@@ -30,16 +30,6 @@
 
 **Carter Hydro Staging Area Gate Key** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found on a desk of the trailers near [Carter Hydro Dam](./Carter%20Hydro%20Dam.md), next to the [Breyerhouse Crew Winter Warning](./Breyerhouse%20Crew%20Winter%20Warning.md) note. It is needed to unlock the gate to enter the Dam.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

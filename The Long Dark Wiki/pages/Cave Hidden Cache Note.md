@@ -36,26 +36,12 @@
 
 During the course of the mission, the survivor finds the note _Cave Hidden Cache Note_ from inside a residential home outside of [Milton](./Milton.md), located at the top of the hill southwest of the [Old Schoolhouse](./Old%20Schoolhouse.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Cave Hidden Cache Note**_
 
 I don't trust anyone anymore. People are getting desperate, and it's only been a few days since the power went out. I'm going to stash some supplies in our special place above town. You know, near where we look at the stars together? We may need them before help gets here.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

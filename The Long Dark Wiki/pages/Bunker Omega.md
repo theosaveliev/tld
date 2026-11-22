@@ -31,18 +31,10 @@ Has a bed
 
 Has a workbench
 
-<!-- #Unlocking -->
-​
-
-<!-- #unlocking -->
 ## Unlocking
 
 This bunker can only be found after having fixed all the [Transmitters](./Transmitters.md) in Lower Great Bear AND visiting all three other bunkers, as required by the mission objectives. Then return to Forsaken Airfield when the [Aurora](./Aurora.md) or a [Glimmer Fog](./Glimmer%20Fog.md) event is active to locate it. Prior to this, the entrance is completely covered by snow, and cannot be uncovered without the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 This is the largest of all the bunkers discovered in the [Signal Void](./Signal%20Void.md) tale, and features a bedroom with four beds, a bathroom, a kitchen, a workshop, an office, and several storage rooms. This location counts as "underground" in the Frontier, therefore staying here when Glimmer Fog is active will prevent the player from getting [Insomnia](./Insomnia.md). In addition to the notes required to complete the Tale, the bunker contains a wide variety of high-tier [food](./Food%20And%20Drink.md), [clothing](./Clothing.md), and [tools](./Tools.md). The [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md) can be found here, inside the kitchen area, as well as 5 [Canned Corn](./Canned%20Corn.md) and 5 [Canned Ham](./Canned%20Ham.md).
@@ -51,18 +43,10 @@ Despite the bunker's large size and plentiful loot, it is not a particularly pra
 
 The player is required to return here as part of [Last Horizon](./Last%20Horizon.md), to find one final secret hidden within the bunker; a hidden room in a closet storage area.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Given the size of the bunker, it is highly likely that it, along with the [other](./Bunker%20Alpha.md) [three](./Bunker%20Beta.md) [bunkers](./Bunker%20Gamma.md) and the [prepper caches](./Prepper%20Cache.md), were built as fallout shelters in case of nuclear war.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The bunker's bathroom](../assets/Bunker_Omega_bathroom.png)

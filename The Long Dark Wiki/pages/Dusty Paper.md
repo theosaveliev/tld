@@ -30,10 +30,6 @@
 
 **Dusty Paper** is a [Collectibles](./Collectibles.md) found in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story. It is found during the main mission [High Energy](./High%20Energy.md), found on a table in the first Geothermal Station in the [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Dusty Paper**_
@@ -54,16 +50,6 @@ None of it makes sense.
 
 [name scratched out]
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**

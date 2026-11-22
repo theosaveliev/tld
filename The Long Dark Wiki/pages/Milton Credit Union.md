@@ -30,10 +30,6 @@
 
 **Milton Credit Union** is a bank and location in [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. According to a letter pinned outside the front door in Story mode, banking services were suspended in September 2012.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The bank is located across the street from [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) and a truck and car are parked beside it. The [Old Schoolhouse](./Old%20Schoolhouse.md) can be found behind the bank.
@@ -51,10 +47,6 @@ The following keys can be found as part of the [Milton Safety Deposit Box Keys](
 - Key #15: West Farm – Go to the farm following the road west from Milton. Get the key lying next to Hobbs when you enter.
 - Key #20: South Gas Station – South of Milton, there’s a gas station. Look for the truck parked by a pair of blue port-a-potties. The key is inside that truck.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The interior of Milton Credit Union](../assets/Milton_Credit_Union_-_Interior.jpg)
@@ -68,5 +60,3 @@ The following keys can be found as part of the [Milton Safety Deposit Box Keys](
 ![Frozen corpse (robbery?) with a knife in the main bank vault](../assets/TLD-SS-Milton-CU_%283%29.jpg)
 
 ![Exterior sign](../assets/Milton_credit_union_sign.png)
-
-[ru:Кредитный союз Милтона](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7_%D0%9C%D0%B8%D0%BB%D1%82%D0%BE%D0%BD%D0%B0)

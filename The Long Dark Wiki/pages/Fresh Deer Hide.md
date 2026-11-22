@@ -23,7 +23,7 @@
 
 **Stackable:** No
 
-**Examine:** Freshly harvested hide from a Deer.<br>Can be used for crafting and repair after air-drying indoors for 5 days.
+**Examine:** Freshly harvested hide from a Deer. Can be used for crafting and repair after air-drying indoors for 5 days.
 
 **Values**
 
@@ -31,52 +31,24 @@
 
 **Fresh Deer Hide** is the raw hide of a [Deer](./Deer.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Deerskin Pants](./Deerskin%20Pants.md) or [Deerskin Boots](./Deerskin%20Boots.md) once they have [Cured](./Curing.md) into a [Cured Deer Hide](./Cured%20Deer%20Hide.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Fresh Deer Hide are acquired by harvesting a [Deer Carcass](./Deer%20Carcass.md). They can be cured by leaving them indoors for 5 days (in-game). Fresh Deer Hide [Decay](./Decay.md) at a rate of 3.333 Condition a day (Stalker difficulty) and will decay into Ruined status if not left to cure indoors. The current curing status can be checked by hovering your reticle over the item, where it will display a "X% Cured" progress. This increases until the item is 100% cured, where the item will automatically become fully cured, will change to a darker texture, and is ready for crafting use. Completely cured items never decay.
 
 Deer are quite common and can often be found in pairs of 2 or 3. Occasionally, a [Deer Carcass](./Deer%20Carcass.md) can be found in several places across [Great Bear Island](./Great%20Bear%20Island.md). Multiple Carcasses can be found within a region, and can be harvested for their pelts even when a survivor lacks [weapons](./Tools.md) to hunt Deer.
 
-<!-- #drop_sources -->
-​
-
-<!-- #Drop_sources -->
-​
-
-<!-- #Drop_Sources -->
-​
-
-<!-- #drop-sources -->
 ## Drop sources
 
 | Source | Quantity | Rarity |
 | --- | --- | --- |
 | [Deer](./Deer.md) | 1 | Always |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Fresh_deer_hide.png)
 
 ![old model](../assets/Deer_Hide_old_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
@@ -87,5 +59,3 @@ Deer are quite common and can often be found in pairs of 2 or 3. Occasionally, a
   - Fixed issue where some containers could be inactive when containing hides.
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
   - Added to game.
-
-[ru:Свежая оленья шкура](https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D0%B6%D0%B0%D1%8F_%D0%BE%D0%BB%D0%B5%D0%BD%D1%8C%D1%8F_%D1%88%D0%BA%D1%83%D1%80%D0%B0)

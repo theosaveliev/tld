@@ -28,35 +28,19 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 A **Cured Cougar Hide** is a [Material](./Materials.md) that can be crafted into a [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md).
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) | None | - 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md)<br>- 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) | None | - 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) - 2 × [Cured Gut](./Cured%20Gut.md) |
 
 ![Old Icon](../assets/Old_Cured_Cougar_Hide_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added to game.
-
-[ru:Высушенная шкура пумы](https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D1%81%D1%83%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%88%D0%BA%D1%83%D1%80%D0%B0_%D0%BF%D1%83%D0%BC%D1%8B)

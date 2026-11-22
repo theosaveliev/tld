@@ -16,34 +16,16 @@
 - [Trader](#trader)
 - [Photo Album](#photo-album)
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Journal is a menu item in The Long Dark. It can be accessed by the default hotkey "J" or from the book icon at the top of the game menu.
 
 The Journal contains eight menus: Log, Skills, Collections, Rock Caches, General Notes, Stats, Trader, and Photo Album.
 
-<!-- #Log -->
-​
-
-<!-- #log -->
 ## Log
 
 The Log menu provides a day by day overview of each day played on the current sandbox. There are two submenu tabs for this section.
 
-<!-- #daily_log -->
-​
-
-<!-- #Daily_Log -->
-​
-
-<!-- #Daily_log -->
-​
-
-<!-- #daily-log -->
 ### Daily Log
 
 The following highlights are recorded in the Log:
@@ -55,18 +37,10 @@ The following highlights are recorded in the Log:
 5. Calories Burned - Displayed as an integer.
 6. Injuries sustained - Displayed as an integer, without any details about how the injuries were sustained.
 
-<!-- #Notes -->
-​
-
-<!-- #notes -->
 ### Notes
 
 Contains a single "notepad" where players can jot down notes. While this is marginally useful to remember storage cache locations or directions, it is currently not possible to make more than one "thread" or organize notes in any way other than manual editing, thereby limiting it's utility compared to a simple in-game word processor.
 
-<!-- #Skills -->
-​
-
-<!-- #skills -->
 ## Skills
 
 The [Skills](./Skills.md) submenu provides details about current skill levels (primary skills only), perks of those levels, and progress to the next skill level within the current sandbox. Note that this menu scrolls down to reveal additional skills, depending on display settings.
@@ -85,10 +59,6 @@ Currently, the following primary skills are displayed within the skills menu:
 
 Note that secondary skills (cleaning, sharpening, and repair) are not listed in this menu and can only be tracked indirectly when attempting to perform an action related to that skill within the game menu.
 
-<!-- #Collections -->
-​
-
-<!-- #collections -->
 ## Collections
 
 The Collections menu provides information about 8 [Collectibles](./Collectibles.md) that are available within the game, including:
@@ -104,38 +74,14 @@ The Collections menu provides information about 8 [Collectibles](./Collectibles.
 
 All collections are entirely optional components of gameplay, but may be linked to various achievements.
 
-<!-- #rock_caches -->
-​
-
-<!-- #Rock_Caches -->
-​
-
-<!-- #Rock_caches -->
-​
-
-<!-- #rock-caches -->
 ## Rock Caches
 
 The Rock Cache menu contains a list of all ![Rock Cache icon](../assets/Rock_Cache_icon.png) [Rock Caches](./Rock%20Cache.md), subdivided by [Region](./Region.md), that have been created in the current sandbox. Note that there is a limit of five (5) rock caches per region. From this menu, rock cache names and notes can be viewed/edited. The locations of each individual cache can also be viewed from this menu.
 
-<!-- #general_notes -->
-​
-
-<!-- #General_Notes -->
-​
-
-<!-- #General_notes -->
-​
-
-<!-- #general-notes -->
 ## General Notes
 
 The General Notes menu behaves exactly like the Notes section of the Log, being a general notepad where players can jot down notes but as it's own dedicated menu.
 
-<!-- #Stats -->
-​
-
-<!-- #stats -->
 ## Stats
 
 The Stats menu contains detailed stats about each playthrough, and compares those stats with the player's all-time high scores, subdivided by difficulty level. The following stats are tracked:
@@ -225,24 +171,10 @@ The Stats menu contains detailed stats about each playthrough, and compares thos
 - Blizzards Survived
 - Camera Photos Taken
 
-<!-- #Trader -->
-​
-
-<!-- #trader -->
 ## Trader
 
 The Trader menu keeps track of active trades or promises made to the [Trader](./Trader.md).
 
-<!-- #photo_album -->
-​
-
-<!-- #Photo_Album -->
-​
-
-<!-- #Photo_album -->
-​
-
-<!-- #photo-album -->
 ## Photo Album
 
 The Photo Album menu keeps track of photographs capture by the [Camera](./Camera.md).

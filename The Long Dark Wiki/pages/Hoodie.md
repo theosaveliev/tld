@@ -28,9 +28,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 [Cloth](./Cloth.md)<br>45 minutes
+**Harvest:** 1 [Cloth](./Cloth.md) 45 minutes
 
-**Repair:** 1 [Cloth](./Cloth.md)<br>60 minutes<br>30% condition
+**Repair:** 1 [Cloth](./Cloth.md) 60 minutes 30% condition
 
 > “**Hooded cotton sweatshirt. You know, the kind that passes for high fashion with game developers these days.**”
 >
@@ -38,10 +38,6 @@
 
 The **Hoodie** is a type of [Clothing](./Clothing.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A low tier inner torso shirt, a Hoodie offers little warmth and windproofing, along with a small waterproof and protection bonus. A Hoodie harbors a 1% additional protection bonus over a [Plaid Shirt](./Plaid%20Shirt.md), but 10% less waterproofing, and somewhat less cost efficient to repair than the latter.
@@ -54,16 +50,6 @@ A [Sweatshirt](./Sweatshirt.md) is a slight, but direct upgrade to the hoodie, t
 
 ![Clothing model damaged](../assets/Hoodie_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

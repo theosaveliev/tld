@@ -30,16 +30,6 @@
 
 **Admin Office Key** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found inside the bathroom of the upper [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) on a corpse and is used to open the upstairs admin office door so that Mackenzie can recover the [Aid Station Medical Locker Key](./Aid%20Station%20Medical%20Locker%20Key.md).
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

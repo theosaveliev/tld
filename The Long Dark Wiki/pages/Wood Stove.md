@@ -10,7 +10,7 @@
 
 **Type:** Fire Starting
 
-**Max temperature:** 80 °C<br>_(144 °F)_
+**Max temperature:** 80 °C _(144 °F)_
 
 **Cooking slots:** 2
 
@@ -18,10 +18,6 @@ A **Wood Stove** is an immovable [contained fire](./Fire.md#Contained_fires). Th
 
 The wood stove can be re-lit indefinitely, though it requires fresh starter, tinder, and fuel each time.
 
-<!-- #Location -->
-​
-
-<!-- #location -->
 ## Location
 
 Wood stoves have fixed locations that do not change between games. They are found in many indoor locations in _The Long Dark_, including houses, trailers, and huts.

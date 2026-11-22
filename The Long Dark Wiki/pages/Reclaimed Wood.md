@@ -34,29 +34,12 @@
 
 **Reclaimed Wood** is a fuel and crafting material in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Reclaimed Wood is a relatively common resource harvested from furniture, or found near settlements, especially destroyed buildings. Reclaimed Wood may be used as fuel for [campfires](./Campfire.md), and crafting [snares](./Snare.md). Using Reclaimed Wood to start a campfire decreases the probability of it lighting by 5%.
 
 Reclaimed wood has a burning duration of 30 minutes.
 
-<!-- #fire_starting_info -->
-​
-
-<!-- #Fire_Starting_info -->
-​
-
-<!-- #Fire_starting_info -->
-​
-
-<!-- #Fire_Starting_Info -->
-​
-
-<!-- #fire-starting-info -->
 ## Fire Starting info
 
 **Reclaimed Wood**
@@ -73,49 +56,31 @@ Reclaimed wood has a burning duration of 30 minutes.
 
 **Burn Density:** 2 hr/kg (0.91 hr/lb)
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Decorative Art](./Decorative%20Art.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Cedar Firewood](./Cedar%20Firewood.md)<br>- 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| [Decorative Art (2)](./Decorative%20Art%20%282%29.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Cedar Firewood](./Cedar%20Firewood.md)<br>- 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| [Display Shelf](./Display%20Shelf.md) | None | - 12 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| [Dresser](./Dresser.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md)<br>- 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| [Rustic Bench](./Rustic%20Bench.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md)<br>- 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| [Rustic Chair](./Rustic%20Chair.md) | None | - 4 × [Cedar Firewood](./Cedar%20Firewood.md)<br>- 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| [Rustic Closet](./Rustic%20Closet.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md)<br>- 3 × [Reclaimed Wood](./Reclaimed%20Wood.md)<br>- 2 × [Scrap Metal](./Scrap%20Metal.md) |
-| [Rustic Cupboard](./Rustic%20Cupboard.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Reclaimed Wood](./Reclaimed%20Wood.md)<br>- 2 × [Scrap Metal](./Scrap%20Metal.md) |
-| [Rustic Display Shelf](./Rustic%20Display%20Shelf.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md)<br>- 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| [Rustic End Table](./Rustic%20End%20Table.md) | None | - 6 × [Cedar Firewood](./Cedar%20Firewood.md)<br>- 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| [Snare](./Snare.md) | None | - 1 × [Cured Gut](./Cured%20Gut.md)<br>- 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| [Tall Rustic Closet](./Tall%20Rustic%20Closet.md) | None | - 24 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Reclaimed Wood](./Reclaimed%20Wood.md)<br>- 2 × [Scrap Metal](./Scrap%20Metal.md) |
-| [Wide Display Shelf](./Wide%20Display%20Shelf.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| [Wide Dresser](./Wide%20Dresser.md) | None | - 16 × [Fir Firewood](./Fir%20Firewood.md)<br>- 6 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Decorative Art](./Decorative%20Art.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md) - 1 × [Cedar Firewood](./Cedar%20Firewood.md) - 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Decorative Art (2)](./Decorative%20Art%20%282%29.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md) - 1 × [Cedar Firewood](./Cedar%20Firewood.md) - 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Display Shelf](./Display%20Shelf.md) | None | - 12 × [Fir Firewood](./Fir%20Firewood.md) - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Dresser](./Dresser.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Rustic Bench](./Rustic%20Bench.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) - 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Rustic Chair](./Rustic%20Chair.md) | None | - 4 × [Cedar Firewood](./Cedar%20Firewood.md) - 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Rustic Closet](./Rustic%20Closet.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) - 3 × [Reclaimed Wood](./Reclaimed%20Wood.md) - 2 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Rustic Cupboard](./Rustic%20Cupboard.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md) - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) - 2 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Rustic Display Shelf](./Rustic%20Display%20Shelf.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md) - 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Rustic End Table](./Rustic%20End%20Table.md) | None | - 6 × [Cedar Firewood](./Cedar%20Firewood.md) - 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Snare](./Snare.md) | None | - 1 × [Cured Gut](./Cured%20Gut.md) - 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Tall Rustic Closet](./Tall%20Rustic%20Closet.md) | None | - 24 × [Fir Firewood](./Fir%20Firewood.md) - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) - 2 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Wide Display Shelf](./Wide%20Display%20Shelf.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Wide Dresser](./Wide%20Dresser.md) | None | - 16 × [Fir Firewood](./Fir%20Firewood.md) - 6 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - Reclaimed wood can be found inside and near buildings, fishing huts, or by harvesting crates, shelves, tables, chairs and etc. with a [Heavy Hammer](./Heavy%20Hammer.md), [Improvised Knife](./Improvised%20Knife.md), or [Improvised Hatchet](./Improvised%20Hatchet.md). Small wooden items may be broken down with bare hands, expending more calories and taking more time however.
 - Reclaimed Wood and [Cedar Firewood](./Cedar%20Firewood.md) are efficient sources of fuel per weight, at 120 min/kg. Since pieces of Reclaimed Wood are smaller than Cedar Firewood, they give more control of a fire's duration, allowing more efficient fuel without waste.
 - A single piece of Reclaimed Wood will heat a canned food or drink without it burning, as the fire will extinguish 10-20 minutes after the food or drink is done.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152)):**

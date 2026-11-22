@@ -7,7 +7,7 @@
 - [Overview](#overview)
 - [Advanced uses](#advanced-uses)
 - [Fire Starting info](#fire-starting-info)
-- [Crafting](#crafting)
+- [Crafting](#crafting-1)
 - [Crafting](#crafting-1)
 - [Harvesting](#harvesting)
 - [Gallery](#gallery)
@@ -41,10 +41,6 @@
 
 A **Torch** is a craftable tool that creates light and a small amount of heat, adding +3°C to your "Feels Like" temperature. If more than one is dropped on the ground (at your feet) while burning, the warmth bonus they provide stacks, unless a fire is nearby, in which case it overrides the warmth from torches.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Torches are a mobile light source the can be ignited anywhere with either [Wood Matches](./Wood%20Matches.md), [Cardboard Matches](./Cardboard%20Matches.md), or a [Firestriker](./Firestriker.md). They can also be ignited with a pre-existing [Fire](./Fire.md), such as from an active Firebox, or even another lit Torch, [Flare](./Flare.md), or [Marine Flare](./Marine%20Flare.md) (the later being a process known as [Daisy Chaining](./Daisy%20Chaining.md)).
@@ -55,16 +51,6 @@ A lit Torch can be extinguished for later use and can be re-lit when the weather
 
 Unlike the Flare or Storm Lantern, Torches cannot be lit in overly windy [Weather](./Weather.md), and their flames will burn out if winds become too harsh. Torches can also become extinguished if walking through a waterfall.
 
-<!-- #advanced_uses -->
-​
-
-<!-- #Advanced_uses -->
-​
-
-<!-- #Advanced_Uses -->
-​
-
-<!-- #advanced-uses -->
 ## Advanced uses
 
 In more difficult game modes, where matches are much less common, a good practice is to start all fires by first lighting a Torch and then using the burning Torch to light the fire. If the attempt fails, just try again. This eliminates the chance of wasting a match on a failed fire-starting attempt.
@@ -75,19 +61,6 @@ A **guaranteed** way to scare off a Wolf is to throw or place a lit Torch or Fla
 
 Pulling torches out of a lit fire and throwing them at [Timberwolves](./Timberwolf.md) is a **very effective** strategy to deplete pack morale and scare off the pack.
 
-<!-- #fire_starting_info -->
-​
-
-<!-- #Fire_Starting_info -->
-​
-
-<!-- #Fire_starting_info -->
-​
-
-<!-- #Fire_Starting_Info -->
-​
-
-<!-- #fire-starting-info -->
 ## Fire Starting info
 
 A [Torch](./Torch.md) can be used either as a Starter or as Fuel. The properties of a Torch when used as a Starter are:
@@ -116,20 +89,12 @@ The properties of a Torch when used as Fuel are:
 
 **Burn Density:** 0.55 hr/kg (0.25 hr/lb)
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 Crafting a 100% durability Torch uses 0.10 liters of [Lantern Fuel](./Lantern%20Fuel.md), and it will burn for 7.5 minutes (1.5 in-game hours). In that same period of time, a Storm Lantern will burn over three times as much fuel. This makes crafted Torches a much more efficient choice of light source for the player who wants to conserve their fuel store, but at the cost of using a match (if a fire is not already present)
 
 You can also pull a Torch from any fire, but their condition will always be randomly between 20-50% durability, and this will reduce your fire by 10 minutes and 1°C per Torch (the fire must have at least 10 minutes duration remaining to perform this action).
 
-<!-- #crafting_1 -->
-​
-
-<!-- #crafting-1 -->
 ## Crafting
 
 **Torch**
@@ -152,18 +117,10 @@ You can also pull a Torch from any fire, but their condition will always be rand
 
 **Quantity:** 3
 
-<!-- #Harvesting -->
-​
-
-<!-- #harvesting -->
 ## Harvesting
 
 Torches cannot be repaired. They can be 'recycled' by adding them to fires or harvested for 1 x [Stick](./Stick.md) in 2 minutes.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model - unused](../assets/Torch_-_unused.png)
@@ -172,16 +129,6 @@ Torches cannot be repaired. They can be 'recycled' by adding them to fires or ha
 
 ![Old model - ruined](../assets/Torch.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)):**

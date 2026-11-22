@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-4%
 
-**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md) 20 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md)<br>45 minutes<br>30% condition
+**Repair:** 2 × [Cloth](./Cloth.md) 45 minutes 30% condition
 
 > “**A simple winter coat constructed using modern materials. Good weight to warmth ratio.**”
 >
@@ -36,10 +36,6 @@
 
 **Simple Parka** is a type of [Clothing](./Clothing.md) in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Simple Parka is a low-tier coat and common starting item.
@@ -52,16 +48,6 @@ Similar to the [Ski Jacket](./Ski%20Jacket.md), but the parka weighs 0.25 kg (0.
 
 ![old model](../assets/Basic_winter_coat_%28historical%29.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

@@ -40,14 +40,10 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-<br>**Travois** (pronounced Trav-wah) are a crafted vehicle for item transportation and storage in _The Long Dark_. They can be loaded with large amounts of items, then manually dragged to move them. It was introduced in Part 4 "Buried Echoes" update for [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).<br>**Warning**: As of [patch 2.50](https://store.steampowered.com/news/app/305620?updates=true&emclan=103582791436288468&emgid=526487474953781659) (December, 2025) on PC, the Travois can still fall under the terrain if left outside in a loaded state before transitioning through a loading screen, forcing the player to retrieve **ALL** its contents (with the exception of [Decorations](./Decorations.md), which will all be **LOST**) from a [Lost and Found](./Lost%20and%20Found.md) box appropriate to the [region](./Region.md) it was lost in. (Note: the Lost and Found box will always be found outdoors, in a predetermined place within the region.) As an added inconvenience, the Travois may be in a Ruined state when it is found. The Travois can even fly up in the air, instead of disappearing and being placed in a Lost and Found box, if left on the ground near certain locations (such as [Mountaineer's Hut](./Mountaineer%27s%20Hut.md)), which will make the recovery of its contents impossible. To be completely safe, **NEVER** leave a loaded Travois on the ground before going through a loading screen.
+ **Travois** (pronounced Trav-wah) are a crafted vehicle for item transportation and storage in _The Long Dark_. They can be loaded with large amounts of items, then manually dragged to move them. It was introduced in Part 4 "Buried Echoes" update for [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md). **Warning**: As of [patch 2.50](https://store.steampowered.com/news/app/305620?updates=true&emclan=103582791436288468&emgid=526487474953781659) (December, 2025) on PC, the Travois can still fall under the terrain if left outside in a loaded state before transitioning through a loading screen, forcing the player to retrieve **ALL** its contents (with the exception of [Decorations](./Decorations.md), which will all be **LOST**) from a [Lost and Found](./Lost%20and%20Found.md) box appropriate to the [region](./Region.md) it was lost in. (Note: the Lost and Found box will always be found outdoors, in a predetermined place within the region.) As an added inconvenience, the Travois may be in a Ruined state when it is found. The Travois can even fly up in the air, instead of disappearing and being placed in a Lost and Found box, if left on the ground near certain locations (such as [Mountaineer's Hut](./Mountaineer%27s%20Hut.md)), which will make the recovery of its contents impossible. To be completely safe, **NEVER** leave a loaded Travois on the ground before going through a loading screen.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Travois are a crafted [tool](./Tools.md) for storing and transporting up to 75.00kg of cargo; functionally a travois is a deerskin backpack attached to a sled, which is dragged by the survivor to new locations. When used, a travois will lose condition over time from wear and tear; they may be repaired with [Cured Gut](./Cured%20Gut.md) and a [Cured Deer Hide](./Cured%20Deer%20Hide.md) for 70% condition. Harvesting a Travois produces 3 [Cured Maple Sapling](./Cured%20Maple%20Sapling.md).
@@ -62,10 +58,6 @@ When the survivor transitions between Regions while using a Travois, they will s
 
 A Travois will leave 2 large lines in the snow as the player travels, similar to a player's footsteps.
 
-<!-- #Uses -->
-​
-
-<!-- #uses -->
 ## Uses
 
 The Travois are most useful in [regions](./Region.md) with large expanses of relatively flat, open ground. These include [Forsaken Airfield](./Forsaken%20Airfield.md), [Pleasant Valley](./Pleasant%20Valley.md), [Coastal Highway](./Coastal%20Highway.md), [Desolation Point](./Desolation%20Point.md), and [Forlorn Muskeg](./Forlorn%20Muskeg.md), as well as parts of [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Mountain Town](./Mountain%20Town.md), [Bleak Inlet](./Bleak%20Inlet.md), and [Blackrock](./Blackrock.md).
@@ -84,10 +76,6 @@ Some uses of Travois include:
 - Moving Salt harvested from a [Salt Deposit](./Salt%20Deposit.md).
 - Moving items to [Coastal Highway](./Coastal%20Highway.md) to trade with the [Trader](./Trader.md).
 
-<!-- #Limitations -->
-​
-
-<!-- #limitations -->
 ## Limitations
 
 When deployed and carried, a Travois has a number of limitations in exchange for their benefits:
@@ -123,10 +111,6 @@ Regions difficult to use a Travois in often have narrow/winding paths, rope clim
 
 Travois are not practical tools to use in most [Challenges](./Challenge.md) due to various time/hostile wildlife stipulations.
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Travois**
@@ -147,18 +131,10 @@ Travois are not practical tools to use in most [Challenges](./Challenge.md) due 
 
 **Quantity:** 1
 
-<!-- #Repair -->
-​
-
-<!-- #repair -->
 ## Repair
 
 Travois lose condition over time when stored or moved and also when deployed in a blizzard. They can be repaired in 2 hours (Using no tool) from the survivor's inventory with 1 [Cured Deer Hide](./Cured%20Deer%20Hide.md) and 1 [Cured Gut](./Cured%20Gut.md) and also provide a skill point increase. Time taken will depend on [Repair](./Repair.md) skill level and the tool selected. Repairing with a [Hunting Knife](./Hunting%20Knife.md), [Hatchet](./Hatchet.md) or their improvised versions reduces repair time.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Icon used in The Far Territory marketing](../assets/Travois_Icon.png)
@@ -171,16 +147,6 @@ Travois lose condition over time when stored or moved and also when deployed in 
 
 ![UI for loading and unloading the Travois](../assets/Travois_ui.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**

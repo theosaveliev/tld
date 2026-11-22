@@ -41,32 +41,20 @@
 
 **Reishi Mushrooms** are a natural material that can be used to create both food and first aid treatments that are used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Reishi Mushrooms can be found in the wilderness growing on the trunks or stumps of dead trees, typically in clusters of 1-3 units. They can be crafted into [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md) to be able to be cooked into [Reishi Tea](./Reishi%20Tea.md). Raw Mushrooms can be used in the [Prepper's Pie](./Prepper%27s%20Pie.md) and [Thomson Family Stew](./Thomson%20Family%20Stew.md) recipes.
 
 Prepared Reishi Mushrooms have half the weight of their raw form, and no form of Reishi Mushroom decays.
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md) | None | - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) |
-| [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 4 × [Reishi Mushroom](./Reishi%20Mushroom.md)<br>- 2 × [Burdock Root](./Burdock%20Root.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
-| [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md)<br>- 0.40 kg × [Carrot](./Carrot.md)<br>- 2 × [Potato](./Potato.md)<br>- 2 × [Reishi Mushroom](./Reishi%20Mushroom.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) - 4 × [Reishi Mushroom](./Reishi%20Mushroom.md) - 2 × [Burdock Root](./Burdock%20Root.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.01 kg × [Salt](./Salt.md) |
+| [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md) - 0.40 kg × [Carrot](./Carrot.md) - 2 × [Potato](./Potato.md) - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) - 0.40 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - Reishi Mushrooms are found sporadically in all regions on the stumps of dead trees.
@@ -78,10 +66,6 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 - [Infections](./Infection.md), [Dysentery](./Dysentery.md) and [Intestinal Parasites](./Intestinal%20Parasites.md) are permanent and lethal if left untreated, though [Food Poisoning](./Food%20Poisoning.md) is not lethal in of itself and will dissipate naturally with time (12-24 hours), but will reduce maximum Condition to 15%, making it potentially dangerous.
 - [Antibiotics](./Antibiotics.md) are not a renewable resource and cannot be crafted; however Reishi Tea is functionally similar to Antibiotics, but is made from natural materials found abundantly in the wilds.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Reishi Mushrooms are a real-world bracket fungus (Species: [_G. lingzhi_](https://en.wikipedia.org/wiki/Lingzhi_%28mushroom%29)) common to the Pacific North-West (United States and Canada), as well as north-eastern China, Korea, Japan and Russia.
@@ -91,10 +75,6 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 - Antibiotics are typically a prescription-grade drug derived from penicillin, which is the case in _The Long Dark_ as they are labeled as "Pharmacillin".
 - In The Long Dark, Antibiotics and Reishi Tea must be applied directly to treat a specific injury (similar to a Bandage), unlike real-world orally-taken drugs which become generally distributable through the body.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![A pair of reishi mushrooms growing on a tree stump in Pleasant Valley.](../assets/Reishi_mushrooms_on_tree_stump.jpg)
@@ -107,16 +87,6 @@ _A pair of reishi mushrooms growing on a tree stump in [Pleasant Valley](./Pleas
 
 ![Early pre alpha model](../assets/Reishi_mushroom.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **7 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)):**

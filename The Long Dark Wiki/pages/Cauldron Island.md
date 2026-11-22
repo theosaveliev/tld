@@ -11,19 +11,14 @@
 - [Freya Island](#freya-island)
 - [Morag Island](#morag-island)
 - [Skye Island](#skye-island)
-- [Gallery](#gallery)
 - [Trivia](#trivia)
 
 [Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.** This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-<br>**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Cauldron+Island&amp;action=edit expanding it].**<br>[Cauldron Island Logo](../assets/Cauldron_Island_Logo.png)**Cauldron Island** is a major location in [_The Long Dark_](./The%20Long%20Dark.md), being the second playable area in the game. It is located even father north of [Great Bear Island](./Great%20Bear%20Island.md) in northern Canada and is the primary setting of [_Iron Road_](./Iron%20Road.md).
+ **Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Cauldron+Island&amp;action=edit expanding it].** [Cauldron Island Logo](../assets/Cauldron_Island_Logo.png)**Cauldron Island** is a major location in [_The Long Dark_](./The%20Long%20Dark.md), being the second playable area in the game. It is located even father north of [Great Bear Island](./Great%20Bear%20Island.md) in northern Canada and is the primary setting of [_Iron Road_](./Iron%20Road.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A remote location composed of 5 major islands, Cauldron Island is a volcanic caldera that gets its name from its cauldron like shape. It is reached from [Desolation Point](./Desolation%20Point.md), by taking the [Fulmar Autopilot Boat](./Fulmar%20Autopilot%20Boat.md) to [Port Remnant](./Port%20Remnant.md). The island's regions cannot be selected when starting a new [Survival Mode](./Survival%20Mode.md) game, and the Fulmar must be used to reach the island on each new playthrough.
@@ -32,24 +27,10 @@ Not much is known about the history of the island at this time, but it has a his
 
 Hamish McLeod, industrialist tycoon, named each island after his 5 daughters.
 
-<!-- #anna_island -->
-​
-
-<!-- #Anna_Island -->
-​
-
-<!-- #Anna_island -->
-​
-
-<!-- #anna-island -->
 ## Anna Island
 
 An island focused primarily on a port for new arrivals and a few railways that connect to other islands.
 
-<!-- #Regions -->
-​
-
-<!-- #regions -->
 ### Regions
 
 - [Port Remnant](./Port%20Remnant.md)

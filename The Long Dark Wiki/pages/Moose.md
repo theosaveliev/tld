@@ -59,26 +59,18 @@
 
 **Moose** are large, solitary animals in _[The Long Dark](./The%20Long%20Dark.md)_. They appear rarely in most regions and can be difficult to find. Their hides and meat are useful, but they are aggressive and can cause serious injury when provoked.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Moose are the largest and toughest of prey animals and can be dangerous if provoked. Their movements resemble [Deer](./Deer.md), but a Moose will charge the player if approached close (similar to the behavior of [Bears](./Bear.md)). A moose will first adopt a stiff, threatening posture before charging and snorts to attempt to intimidate the player into backing off. If the player does not leave the immediate vicinity, the moose will charge the player.
 
-<!-- #Drops -->
-​
-
-<!-- #drops -->
 ## Drops
 
 A [Moose Carcass](./Moose%20Carcass.md) may be harvested for 30.00-45.00 kg of raw meat, 1 [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) and 12 guts. Moose hides can be cured to craft [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) or [Moose-Hide Cloak](./Moose-Hide%20Cloak.md).
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| [Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png) | [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) | 30 - 45 | Always<span id="fnref1"></span>[¹](#fn1) |
-| [Moose Quarter icon](../assets/Moose_Quarter_icon.png) | [Moose Quarter](./Moose%20Quarter.md) | 6 - 9 | Always<span id="fnref2"></span>[²](#fn2) |
+| [Moose Meat (Raw) icon](../assets/Moose_Meat_%28Raw%29_icon.png) | [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) | 30 - 45 | Always[^1] |
+| [Moose Quarter icon](../assets/Moose_Quarter_icon.png) | [Moose Quarter](./Moose%20Quarter.md) | 6 - 9 | Always[^2] |
 | [Fresh Moose Hide icon](../assets/Fresh_Moose_Hide_icon.png) | [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) | 1 | Always |
 | [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 12 | Always |
 
@@ -88,83 +80,34 @@ Animal Fat is produced automatically when harvesting raw meat. It cannot be harv
 | --- | --- | --- | --- |
 | [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.15 per kg of meat | Always |
 
-<!-- #Behaviour -->
-​
-
-<!-- #behaviour -->
 ## Behaviour
 
 Moose have three paces: walking, fleeing, and charging. They behave similar to deer when roaming, stopping to sniff the ground or raise their head to listen. Moose do not actively hunt the player but will attack if approached or provoked. Possible locations for moose are marked by scratches on trees; moose are rarely far from these marked areas, though they may despawn for extended periods.
 
-<!-- #interactions_with_wildlife -->
-​
-
-<!-- #Interactions_with_Wildlife -->
-​
-
-<!-- #Interactions_with_wildlife -->
-​
-
-<!-- #Interactions_With_Wildlife -->
-​
-
-<!-- #interactions-with-wildlife -->
 ## Interactions with Wildlife
 
 ![A Moose and Bear ignoring one another](../assets/Moose_and_Bear.jpg)_A Moose and Bear ignoring one another_ Moose will ignore [Rabbit](./Rabbit.md), [Ptarmigan](./Ptarmigan.md), [Deer](./Deer.md), and [Bear](./Bear.md), but will flee from the presence of a [Cougar](./Cougar.md), [Wolf](./Wolf.md), [Timberwolf](./Timberwolf.md), [Poisoned Wolf](./Poisoned%20Wolf.md). Wolves will not attack and kill a Moose, but instead will flee, making the Moose the only prey animal they will not hunt.
 
-<!-- #tree_rubbings -->
-​
-
-<!-- #Tree_Rubbings -->
-​
-
-<!-- #Tree_rubbings -->
-​
-
-<!-- #tree-rubbings -->
 ### Tree Rubbings
 
 While wandering within close proximity of a suitable tree, an antler rub on a tree can be found. These markings can be used to triangulate a Moose's location within a region. This can make tree rubbings useful indicators for finding (or avoiding) a Moose.
 
-<!-- #Hostility -->
-​
-
-<!-- #hostility -->
 ### Hostility
 
 ![Moose in hostile posture - The player is too close.](../assets/Moosewarning.png)_Moose in hostile posture - The player is too close._ Moose have a detection radius within which they become aware of the player. When the player is within the radius, Moose will stop walking and turn to stare at the player, grunting and stomping on the ground as a warning. If the player fails to leave the radius immediately, the Moose will charge and attempt to trample the player (except on Pilgrim, where they stomp and then flee unless provoked).
 
 A Moose will immediately charge any player that fires a projectile or otherwise attacks/attempts to attack it. Similar to Bears, Moose will only charge if it can access the player's location; otherwise it will flee.
 
-<!-- #Trampling -->
-​
-
-<!-- #trampling -->
 ### Trampling
 
 Should a charging Moose reach the player, a one-sided [Struggle](./Struggle.md) will ensue (similar to bear struggles, in that the animal always wins). After which the player will pass out, and wake up 10%-50% [Condition](./Condition.md) lost, the Broken Ribs affliction (see below), their equipped weapon on the ground, and distorted vision. The moose will still be nearby, and may attack again should the player not flee immediately.
 
-<!-- #broken_ribs -->
-​
-
-<!-- #Broken_Ribs -->
-​
-
-<!-- #Broken_ribs -->
-​
-
-<!-- #broken-ribs -->
 ### Broken Ribs
 
 Moose attacks inflict a unique [Affliction](./Afflictions.md): [Broken Ribs](./Broken%20Ribs.md), which reduces carrying capacity and greatly reduces [Stamina](./Stamina.md) for 120 Hours (in-game) while your character fully heals, even with treatment. Additionally Broken Ribs makes it impossible to [rope climb](./Rope%20Climbing.md) until the affliction is healed (except temporarily, while under the effects of an [Emergency Stim](./Emergency%20Stim.md)).
 
 If your character is trampled again whilst already suffering from Broken Ribs, subsequent Broken Ribs Afflictions will take incrementally longer to heal.
 
-<!-- #Fleeing -->
-​
-
-<!-- #fleeing -->
 ### Fleeing
 
 Charging Moose are not deterred by [flares](./Flare.md), [torches](./Torch.md), or [arrows](./Simple%20Arrow.md): only being fired upon by any firearm will deter it. Also, Moose will turn and retreat if no navigable path to the player is available (e.g., in tight spaces like rock crevice or elevated position such as a rock formation).
@@ -174,10 +117,6 @@ Charging Moose are not deterred by [flares](./Flare.md), [torches](./Torch.md), 
 - [Noisemakers](./Noisemaker.md) will scare off an unprovoked Moose.
 - Close-impact arrows will also scare off an unprovoked Moose.
 
-<!-- #Hunting -->
-​
-
-<!-- #hunting -->
 ## Hunting
 
 Unlike other [Wildlife](./Wildlife.md), Moose do not suffer from [Blood Loss](./Blood%20Loss.md). This makes killing Moose more difficult, likely requiring multiple shots to bring one down. It is possible to kill a Moose with one shot, most likely a critical hit on their head, but Moose typically require four or more shots from any weapon to down ([Hunting Rifle](./Hunting%20Rifle.md), [Survival Bow](./Survival%20Bow.md), and [Distress Pistol](./Distress%20Pistol.md) all roughly equivalent). It is possible to kill Moose without a ranged weapon by using [Noisemakers](./Noisemaker.md), but this is generally very inefficient as it will require multiple Noisemakers. As there is a lot of [meat](./Moose%20Meat%20%28Raw%29.md) on a moose, not to mention a heavy [hide](./Fresh%20Moose%20Hide.md) and multiple [guts](./Fresh%20Gut.md), is is advisable to travel light or bring a [Travois](./Travois.md) before going hunting, otherwise the [carcass](./Moose%20Carcass.md) contents will be [too heavy to transport](./Encumbrance.md).
@@ -188,16 +127,6 @@ Unlike other [Wildlife](./Wildlife.md), Moose do not suffer from [Blood Loss](./
 - Moose hunting with a Revolver is dangerous due to the weapon's low stopping power and range. (e.g. 8 Headshots, or Chest: 14, Hind: 16, Foot: 16 on Voyageur)
 - An exploding Noisemaker will hurt a moose, and can even kill it if it has been previously injured.
 
-<!-- #critical_hits -->
-​
-
-<!-- #Critical_hits -->
-​
-
-<!-- #Critical_Hits -->
-​
-
-<!-- #critical-hits -->
 ### Critical hits
 
 Critical hits cause the animal to instantly die after being hit by a shot. The following table contains the critical hit chance based on the location that was shot on the animal.
@@ -209,40 +138,16 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 | [Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 10% | 10% | 3% | 0% | 0% |
 | [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 0% | 0% | 0% | 0% | 0% |
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 Moose may spawn rarely in all major [Regions](./Region.md) except [Zone of Contamination](./Zone%20of%20Contamination.md), often spawning then despawning for long periods of time. It may take many days before they respawn in the same location.
 
 In particular, most active moose areas have a 25% chance every in-game 48 hours of spawning a moose. Exceptions to this are [Hushed River Valley](./Hushed%20River%20Valley.md) spawns with a 35% chance and [Camp Office](./Camp%20Office.md) spawn in [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) with a 30% chance. There are also special areas near [Trapper's Cabin](./Trapper%27s%20Homestead.md), [Quonset Garage](./Quonset%20Garage.md), [Last Resort Cannery](./Last%20Resort%20Cannery.md) and [Matt's Truck](./Matt%27s%20Truck.md) where no moose rubbings are present. These rare spawn locations have a 5% chance of spawning a moose every in-game 48 hours. If a moose spawns, it will stay for a 48 hour period until again despawning. After the 48 hour period is over, the moose will despawn when next entering through a loading screen or reloading the game.
 
-<!-- #tree_bark_marks -->
-​
-
-<!-- #Tree_Bark_Marks -->
-​
-
-<!-- #Tree_bark_marks -->
-​
-
-<!-- #tree-bark-marks -->
 ### Tree Bark Marks
 
 ![Tree Marks on Birch](../assets/Moose_tree_marks.jpg)_Tree Marks on Birch_ Tree Trunks with bark scratch marks indicate a possible Moose spawn location; typically several marked trees form a rough ring around a possible spawn area.
 
-<!-- #ash_canyon -->
-​
-
-<!-- #Ash_Canyon -->
-​
-
-<!-- #Ash_canyon -->
-​
-
-<!-- #ash-canyon -->
 ### Ash Canyon
 
 - [Miner's Folly](./Miner%27s%20Folly.md)
@@ -250,32 +155,12 @@ In particular, most active moose areas have a 25% chance every in-game 48 hours 
 - On the ice by the eastern (non-cave) entrance from Timberwolf Mountain.
 - Near [Pillar's Footrest](./Pillar%27s%20Footrest.md), east of the Timberwolf Mountain transition cave entrance.
 
-<!-- #blackrock_region -->
-​
-
-<!-- #Blackrock_Region -->
-​
-
-<!-- #Blackrock_region -->
-​
-
-<!-- #blackrock-region -->
 ### Blackrock Region
 
 - In the [Prison](./Blackrock%20Prison.md) Parking lot.
 - By the river bank near [Grand Meadow](./Grand%20Meadow.md).
 - Near [Cliff Cave](./Cliff%20Cave.md).
 
-<!-- #bleak_inlet -->
-​
-
-<!-- #Bleak_Inlet -->
-​
-
-<!-- #Bleak_inlet -->
-​
-
-<!-- #bleak-inlet -->
 ### Bleak Inlet
 
 - Next to the northernmost [Hunter's Blind](./Hunter%27s%20Blind.md).
@@ -284,123 +169,43 @@ In particular, most active moose areas have a 25% chance every in-game 48 hours 
 - On the pond below the [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md) where the [Mountain Path](./Secret%20Mountain%20Path.md) starts in [Bleak Inlet](./Bleak%20Inlet.md).
 - By the road near [Last Resort Cannery](./Last%20Resort%20Cannery.md) (rare spawn).
 
-<!-- #broken_railroad -->
-​
-
-<!-- #Broken_Railroad -->
-​
-
-<!-- #Broken_railroad -->
-​
-
-<!-- #broken-railroad -->
 ### Broken Railroad
 
 - South of the wooden bridge leading to the [Hunting Lodge](./Hunting%20Lodge.md).
 - Below the rope climb near the [Maintenance Yard](./Maintenance%20Yard.md) in [Broken Railroad](./Broken%20Railroad.md).
 
-<!-- #coastal_highway -->
-​
-
-<!-- #Coastal_Highway -->
-​
-
-<!-- #Coastal_highway -->
-​
-
-<!-- #coastal-highway -->
 ### Coastal Highway
 
 - At the [Coastal Townsite](./Coastal%20Townsite.md) north of [Quonset Garage](./Quonset%20Garage.md) (rare spawn).
 
-<!-- #desolation_point -->
-​
-
-<!-- #Desolation_Point -->
-​
-
-<!-- #Desolation_point -->
-​
-
-<!-- #desolation-point -->
 ### Desolation Point
 
 - Along the road near [Matt's Truck](./Matt%27s%20Truck.md) (rare spawn).
 - On the sea ice and on the rocks between the [Lonely Lighthouse](./Lonely%20Lighthouse.md) and [the Riken](./The%20Riken.md) (rare spawn).
 
-<!-- #forlorn_muskeg -->
-​
-
-<!-- #Forlorn_Muskeg -->
-​
-
-<!-- #Forlorn_muskeg -->
-​
-
-<!-- #forlorn-muskeg -->
 ### Forlorn Muskeg
 
 - Northwest of the rail tunnel to [Mystery Lake](./Mystery%20Lake%20%28region%29.md), near a cave.
 - Southeast area close to the [Bleak Inlet](./Bleak%20Inlet.md) transition cave.
 - East of [Marsh Ridge](./Marsh%20Ridge.md), near the entrance to the cave next to the Mountain Town transition.
 
-<!-- #hushed_river_valley -->
-​
-
-<!-- #Hushed_River_Valley -->
-​
-
-<!-- #Hushed_river_valley -->
-​
-
-<!-- #hushed-river-valley -->
 ### Hushed River Valley
 
 - On [Monolith Lake](./Monolith%20Lake.md).
 - On [Stairsteps Lake](./Stairsteps%20Lake.md).
 - Close to the [Landslide](./Landslide%20%28Hushed%20River%20Valley%29.md) in the valley.
 
-<!-- #mountain_town -->
-​
-
-<!-- #Mountain_Town -->
-​
-
-<!-- #Mountain_town -->
-​
-
-<!-- #mountain-town -->
 ### Mountain Town
 
 - In the [Picnic area](./Picnic%20Area.md), near [Milton Park](./Milton%20Park.md) office.
 - Behind [Grey Mother's House](./Milton%20House%20%28Grey%20Mother%27s%29.md).
 
-<!-- #mystery_lake -->
-​
-
-<!-- #Mystery_Lake -->
-​
-
-<!-- #Mystery_lake -->
-​
-
-<!-- #mystery-lake -->
 ### Mystery Lake
 
 - Behind [Trapper's Homestead](./Trapper%27s%20Homestead.md) (rare spawn)
 - Around the train tracks at [Camp Office](./Camp%20Office.md).
 - Between the [Logging Camp](./Logging%20Camp.md) and the [Train Loading Area](./Train%20Loading%20Area.md).
 
-<!-- #pleasant_valley -->
-​
-
-<!-- #Pleasant_Valley -->
-​
-
-<!-- #Pleasant_valley -->
-​
-
-<!-- #pleasant-valley -->
 ### Pleasant Valley
 
 - West of the [Lonely Homestead](./Lonely%20Homestead.md).
@@ -410,70 +215,32 @@ In particular, most active moose areas have a 25% chance every in-game 48 hours 
 - On the river close to [End of the Road](./End%20of%20the%20Road.md).
 - On [Skeeter's Ridge](./Skeeter%27s%20Ridge.md) near the basement.
 
-<!-- #timberwolf_mountain -->
-​
-
-<!-- #Timberwolf_Mountain -->
-​
-
-<!-- #Timberwolf_mountain -->
-​
-
-<!-- #timberwolf-mountain -->
 ### Timberwolf Mountain
 
 - East of [Echo Peak West](./Echo%20Peak%20West.md), near the fallen tree bridge above the entrance to Ash Canyon.
 - On the ice below the waterfall next to [Andre's Peak](./Andre%27s%20Peak.md).
 - Near the crates north of [Crystal Lake](./Crystal%20Lake.md).
 
-<!-- #forsaken_airfield -->
-​
-
-<!-- #Forsaken_Airfield -->
-​
-
-<!-- #Forsaken_airfield -->
-​
-
-<!-- #forsaken-airfield -->
 ### Forsaken Airfield
 
 - On the lake near [Final Approach](./Final%20Approach.md).
 - On the pond east of [Spotter's Blind](./Spotter%27s%20Blind.md).
 - On [Shoulder Lake](./Shoulder%20Lake.md) in the [Cove](./Cove.md) below [Island Cottage](./Island%20Cottage.md).
 
-<!-- #sundered_pass -->
-​
-
-<!-- #Sundered_Pass -->
-​
-
-<!-- #Sundered_pass -->
-​
-
-<!-- #sundered-pass -->
 ### Sundered Pass
 
 - On [Ambler's Lake](./Ambler%27s%20Lake.md).
 - At [Ogre's Teardrop](./Ogre%27s%20Teardrop.md).
 - On a pond northwest of the [Weather Station](./Weather%20Station.md).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Moose are based off the real world [Moose](https://en.wikipedia.org/wiki/Moose) (**_Alces alces_**), the largest species of Cervidae. All Moose in game are male bulls.[1](https://en.wikipedia.org/wiki/Moose)
-- Raphael van Lierop initially joked about removing Moose if he wouldn't get good programmers in his vacant positions.<span id="fnref3"></span>[³](#fn3)
+- Raphael van Lierop initially joked about removing Moose if he wouldn't get good programmers in his vacant positions.[^3]
 - [Tin of Coffee](./Tin%20of%20Coffee.md) is branded as "_Big Moose Kicks Coffee"_ with an image of a moose and their tracks.
 - Tree Rubs are a real-world phenomena made by male moose during mating season. They occur when moose rub their antlers on trees annually in September when they finish growing, and again in November-March to shed them.
 - In real life Moose are one of the deadliest animals in Canada and Alaska, causing [40 deaths and 500 injuries annually](https://books.google.com/books?id=kpBOpT1oszIC&printsec=frontcover&dq=Don%27t+Get+Eaten:+The+Dangers+of+Animals+that+Charge+or+Attack&hl=en&sa=X&ved=2ahUKEwjE3a3N1M7kAhUOWa0KHWw3DfAQ6AEwAHoECAAQAg#v=onepage&q=Don't%20Get%20Eaten%3A%20The%20Dangers%20of%20Animals%20that%20Charge%20or%20Attack&f=false) (mostly from car accidents); more than Black Bear and Grizzly Bear combined).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Moose before attacking the player](../assets/Mooseattack.jpg)
@@ -504,16 +271,6 @@ _Moose on [Tin of Coffee](./Tin%20of%20Coffee.md)_
 
 ![A real world Cup of Coffee Tin cup with a moose](../assets/Moose_Mug_Coffee_Real.webp)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64)):**
@@ -545,14 +302,10 @@ _Moose on [Tin of Coffee](./Tin%20of%20Coffee.md)_
 
 [ru:Лось](https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%81%D1%8C) [es:Alce](https://es.wikipedia.org/wiki/Alce)
 
-<!-- #footnotes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 ---
 
-1. <span id="fn1"></span>If carcass is harvested[↩︎](#fnref1)
-2. <span id="fn2"></span>If carcass is quartered.[↩︎](#fnref2)
-3. <span id="fn3"></span>[Twitter. Raphael van Lierop on Twitter. 14 November 2017.](https://twitter.com/RaphLife/status/930584907968954368)[↩︎](#fnref3)
+[^1]: If carcass is harvested
+[^2]: If carcass is quartered.
+[^3]: [Twitter. Raphael van Lierop on Twitter. 14 November 2017.](https://twitter.com/RaphLife/status/930584907968954368)

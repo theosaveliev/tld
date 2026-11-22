@@ -35,10 +35,6 @@
 
 **Cured Black Bear Hide** is the Cured fur and skin of a [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Bearskin Coat](./Bearskin%20Coat.md) and [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Fresh Black Bear Hide acquired by harvesting a [Bear Carcass](./Black%20Bear%20Carcass.md) and can be cured by leaving them indoors for 12 days (in-game). Cured black bear hides are used for crafting or repairing Bearskin Coats and Bear Skin Bedrolls. Once cured, the hide will take on a darker complexion, and can then be used for crafting.
@@ -47,37 +43,19 @@ Black bear hides can be hard and resource-expensive to obtain, since they requir
 
 One Cured Black Bear Hide can be found in a [Memento Cache](./Mementos.md) inside [Peak Cave](./Peak%20Cave.md), in the [Hushed River Valley](./Hushed%20River%20Valley.md).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Cured_Black_Bear_Hide.png)
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Bear Hide Bed](./Bear%20Hide%20Bed.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Cured Gut](./Cured%20Gut.md)<br>- 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)<br>- 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| [Bear Hide Rug](./Bear%20Hide%20Rug.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)<br>- 2 × [Cured Gut](./Cured%20Gut.md) |
-| [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)<br>- 5 × [Cloth](./Cloth.md)<br>- 6 × [Cured Gut](./Cured%20Gut.md) |
-| [Bearskin Coat](./Bearskin%20Coat.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)<br>- 4 × [Cured Gut](./Cured%20Gut.md) |
+| [Bear Hide Bed](./Bear%20Hide%20Bed.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) - 4 × [Cured Gut](./Cured%20Gut.md) - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
+| [Bear Hide Rug](./Bear%20Hide%20Rug.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) - 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) - 5 × [Cloth](./Cloth.md) - 6 × [Cured Gut](./Cured%20Gut.md) |
+| [Bearskin Coat](./Bearskin%20Coat.md) | None | - 2 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) - 4 × [Cured Gut](./Cured%20Gut.md) |
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**

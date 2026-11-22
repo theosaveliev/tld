@@ -30,10 +30,6 @@
 
 **Old Substation Work Memo** is a [Collectible](./Collectibles.md) note found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story. It is found on a wooden bench near the door inside the [Old Substation](./Old%20Substation.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Old Substation Work Memo**_
@@ -44,16 +40,6 @@ Linda, I know this is a touchy subject for you given it's just you and him tradi
 
 We're doing our best down here in Central to get you guys some more help this year, but you know how that goes these days.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**

@@ -25,10 +25,6 @@
 
 The **Rustic Table** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A makeshift wooden table, a Rustic Table can be crafted at a [Furniture Workbench](./Furniture%20Workbench.md), but requires [Woodworking Tools](./Woodworking%20Tools.md).
@@ -37,18 +33,10 @@ Progress for Crafting this item will be stored in the Furniture Workbench's cont
 
 Despite having a Backpack carry weight value, the table cannot be picked up and placed back into the player's inventory once crafted, and so it cannot be carried from one base to another. The only option is to move or destroy it (destroying the table will yield no resources, so consider the material cost/time investment before creating this item).
 
-<!-- #Harvesting -->
-​
-
-<!-- #harvesting -->
 ## Harvesting
 
 The Rustic Table can be harvested with a [Hatchet](./Hatchet.md) in 1 hour 30 minutes for 6 [Fir Firewood](./Fir%20Firewood.md).
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Rustic Table**

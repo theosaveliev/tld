@@ -15,5 +15,3 @@
 [Bed icon](../assets/Bed_icon.png)
 
 Has no shelter **Summit at Ravine's End** is located in [Bleak Inlet](./Bleak%20Inlet.md) near the Region Transition to [The Ravine](./The%20Ravine.md).
-
-<span id="gallery"></span><span id="Gallery"></span>

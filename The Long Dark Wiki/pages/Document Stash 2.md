@@ -30,10 +30,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Document Stash 2** is an item found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 It is found in a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) in the Hunter [Prepper Cache](./Prepper%20Cache.md) and contains [Wyatt's Lost Papers 2](./Wyatt%27s%20Lost%20Papers%202.md) and [Bunker Schematic Fragment 2](./Bunker%20Schematic%20Fragment%202.md). It must be placed in the [Trade Drop Box](./Trade%20Drop%20Box.md) as the 2nd Special Request to Sutherland to advance his questline.

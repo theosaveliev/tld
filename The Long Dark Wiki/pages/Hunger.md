@@ -13,36 +13,10 @@
 
 ![Hunger icon](../assets/Hunger_icon.png) **Hunger** is one of the four essential [Needs](./Needs.md). Hunger is a measure of how many calories the player consumes and expends. The player's hunger is restored by consuming calories, which come in the form of [Foods and Drink](./Food%20And%20Drink.md). The player will begin to lose [Condition](./Condition.md) when their hunger is completely depleted.
 
-<!-- #hunger_bar_calorie_store -->
-​
-
-<!-- #Hunger_bar_/_Calorie_store -->
-​
-
-<!-- #hunger_bar_/_calorie_store -->
-​
-
-<!-- #Hunger_bar_/_calorie_store -->
-​
-
-<!-- #Hunger_Bar_/_Calorie_Store -->
-​
-
-<!-- #hunger-bar-calorie-store -->
 ## Hunger bar / Calorie store
 
 Hunger on the Survival Tab is represented twice. Graphically as a bar (like the other Needs) and also as 'Calorie Store', an exact quantity of internal calories. The two are directly linked and are not distinct variables. Maximum calories are 2500, minimum is 0, corresponding to a full and empty hunger bar respectively. Hunger is the inverse of what the hunger bar displays; the character is hungriest when the bar is depleted and least hungry when the bar is full. Above the bar is a descriptor that changes as the bar fills to describe the current state of hunger. Its five possible states are Starving ↔︎ Ravenous ↔︎ Hungry ↔︎ Peckish ↔︎ Full. A red outline of an empty stomach appears on the HUD when Ravenous or Starving.
 
-<!-- #calorie_usage -->
-​
-
-<!-- #Calorie_usage -->
-​
-
-<!-- #Calorie_Usage -->
-​
-
-<!-- #calorie-usage -->
 ## Calorie usage
 
 | Activity | Burn rate |
@@ -60,61 +34,18 @@ Hunger on the Survival Tab is represented twice. Graphically as a bar (like the 
 
 The above table lists calorie burn rate in [Interloper](./Interloper.md) difficulty. Calories are burned more slowly in lower difficulties. Calories are burned constantly, at a rate dependent on activity level. Having zero calories (starving) does not prevent work from being done.
 
-<!-- #eating_and_drinking -->
-​
-
-<!-- #Eating_and_Drinking -->
-​
-
-<!-- #Eating_and_drinking -->
-​
-
-<!-- #Eating_And_Drinking -->
-​
-
-<!-- #eating-and-drinking -->
 ## Eating and Drinking
 
 Eating is done through either the radial menu or the inventory page. All [Foods and Drink](./Food%20And%20Drink.md) except [water](./Water%20%28Potable%29.md) offer some calories when consumed. When consuming a food that would result in hunger being satisfied more than the limit of 2500 calories, that food will be only partially consumed. The remainder will stay in the inventory with appropriately reduced calorie and weight attributes. Eating can be manually interrupted by pressing the escape key.
 
-<!-- #affecting_condition -->
-​
-
-<!-- #Affecting_condition -->
-​
-
-<!-- #Affecting_Condition -->
-​
-
-<!-- #affecting-condition -->
 ## Affecting condition
 
 When no more calories are in the calorie store, [Condition](./Condition.md) drains at a rate of 1% each hour. Dying of starvation will, therefore, take a little while, and will require four game days if starting from 100% condition. Living without eating food every day is a game strategy known as [Hibernation](./Hibernation.md).
 
-<!-- #affecting_fatigue -->
-​
-
-<!-- #Affecting_fatigue -->
-​
-
-<!-- #Affecting_Fatigue -->
-​
-
-<!-- #affecting-fatigue -->
 ## Affecting fatigue
 
 ![UI Long Hunger](../assets/UI_Long-Hunger.jpg) A player that remains starving for more than 24 hours will start to have their [Fatigue](./Fatigue.md) affected; similar to [Intestinal Parasites](./Intestinal%20Parasites.md). The maximal amount of energy that the player will be able to acquire through sleep will start to decrease, which is represented by the red color that starts filling up the inside of the fatigue bar, as well as by the yellow exclamation mark that appears next to the fatigue bar. The maximum amount of fatigue that a player can have will decrease by 2% per hour, with a maximum decrease of 50%. Once the player has started eating, the fatigue cap will decrease by 5% per hour until it is fully removed. This issue is easily solved by consuming food, the red color won't vanish immediately, but the player will be allowed to gain full energy from sleep right away.
 
-<!-- #character_quotes -->
-​
-
-<!-- #Character_quotes -->
-​
-
-<!-- #Character_Quotes -->
-​
-
-<!-- #character-quotes -->
 ## Character quotes
 
 - "I need to find food."

@@ -16,7 +16,7 @@
 
 **Stackable:** No
 
-**Examine:** Freshly harvested skin of a Moose.<br>Can be used for crafting and repairs after air-drying indoors for 10 days.
+**Examine:** Freshly harvested skin of a Moose. Can be used for crafting and repairs after air-drying indoors for 10 days.
 
 **Values**
 
@@ -24,45 +24,19 @@
 
 **Fresh Moose Hide** is the raw hide of a [Moose](./Moose.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) or [Moose-Hide Cloak](./Moose-Hide%20Cloak.md) once they have [Cured](./Curing.md) into a [Cured Moose Hide](./Cured%20Moose%20Hide.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Fresh Moose Hide are acquired by harvesting a [Moose Carcass](./Moose%20Carcass.md). They can be cured by leaving them indoors for 10 days (in-game). Fresh Moose Hide [Decay](./Decay.md) at a rate of 2.857 Condition a day (Stalker difficulty) and will decay into Ruined status if not left to cure indoors. The current curing status can be checked by hovering your reticle over the item, where it will display a "X% Cured" progress. This increases until the item is 100% cured, where the item will automatically become fully cured, will change to a darker texture, and is ready for crafting use. Completely cured items never decay.
 
 Fresh Moose Hides are a very rare resource to obtain, since they require first finding a very rare encounter with a [Moose](./Moose.md) and it's hunting it with a [weapon](./Tools.md). Each Moose Carcass will always have one hide, along with [meat](./Moose%20Meat%20%28Raw%29.md) and [Cured Gut](./Cured%20Gut.md).
 
-<!-- #drop_sources -->
-​
-
-<!-- #Drop_sources -->
-​
-
-<!-- #Drop_Sources -->
-​
-
-<!-- #drop-sources -->
 ## Drop sources
 
 | Source | Quantity | Rarity |
 | --- | --- | --- |
 | [Moose](./Moose.md) | 1 | Always |
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)):**
   - Added to the game.
-
-[ru:Свежая лосиная шкура](https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D0%B6%D0%B0%D1%8F_%D0%BB%D0%BE%D1%81%D0%B8%D0%BD%D0%B0%D1%8F_%D1%88%D0%BA%D1%83%D1%80%D0%B0)

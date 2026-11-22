@@ -31,10 +31,6 @@
 
 **Cured Wolf Pelt** is the cured hide of a [Wolf](./Wolf.md), [Timberwolf](./Timberwolf.md), or [Poisoned Wolf](./Poisoned%20Wolf.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Wolfskin Coats](./Wolfskin%20Coat.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Fresh Wolf Pelts are acquired from harvesting a [Wolf](./Wolf%20Carcass.md), [Timberwolf](./Timberwolf%20Carcass.md), or [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md). They can then be cured by leaving them indoors for 7 days (in-game). Cured Wolf Pelts are used for crafting the Wolfskin Coat, or repairing it. Once cured, the hide will take on a darker complexion, and can then be used for crafting.
@@ -47,34 +43,16 @@ If the player is unable or unwilling to kill a wolf, there are also a few [ravag
 
 Each Wolf Carcass will have one pelt, along with [meat](./Wolf%20Meat%20%28Raw%29.md) and [Fresh Gut](./Cured%20Gut.md). Limited numbers of dead wolves may be found across Great Bear Island.
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Wolfskin Coat](./Wolfskin%20Coat.md) | None | - 4 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)<br>- 4 × [Cured Gut](./Cured%20Gut.md) |
+| [Wolfskin Coat](./Wolfskin%20Coat.md) | None | - 4 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) - 4 × [Cured Gut](./Cured%20Gut.md) |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Cured_wolf_pelt.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**

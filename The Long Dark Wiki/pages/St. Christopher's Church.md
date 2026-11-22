@@ -22,10 +22,6 @@ Region
 
 Has an interior **St Christopher's Church** is a location a short distance from [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. The church is a possible spawn location for the region and the [Graveyard](./Graveyard.md) is located across the street.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 According to a note found in the church, the pastor was Father Francis McGill. He was withdrawn by the Archdiocese due to a lack of activity; however, church services and Latin lessons continued over Skype. A [Hymnal](./Hymnal.md) can be found in the church with the lyrics to the hymn _[Dies Irae](https://en.wikipedia.org/wiki/Dies_Irae)_ ("Day of Wrath") in both Latin and English.
@@ -34,10 +30,6 @@ The church appears to have served as a shelter to someone recently, as there are
 
 Although the church can serve as a base with its bed, nearby rabbit grove, and indoor fireplace, the roof has several holes in it, so it isn't a particularly cozy location to live in. Storage is also limited, and wolves may be a minor hazard when coming and going. [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) just down the road is generally a better base location, with its six-burner stove and abundant storage containers.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - "St. Christopher" is a real-world Christian saint, and is the patron saint of traveling and athletics.

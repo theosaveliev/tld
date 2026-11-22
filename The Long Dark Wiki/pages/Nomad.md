@@ -29,10 +29,6 @@
 
 **Nomad** is one of eight [challenges](./Challenge.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 > “**Spend 3 days each location in your journal.**”
@@ -43,24 +39,10 @@ The Nomad challenge is one of eight challenges in the Long Dark. It requires the
 
 Prior knowledge of the game world will make this challenge exceptionally easier.
 
-<!-- #Journal -->
-​
-
-<!-- #journal -->
 ### Journal
 
 The journal automatically tracks how long the player has been at each location in increments of a tenth of a day. Once the player has been at any location for three days, a notification will appear at the top right of the screen stating that the location is complete, and a green checkmark will appear next to the location in the journal. When the final location is complete, the challenge immediately ends, and the player cannot go back and look at the journal.
 
-<!-- #other_information -->
-​
-
-<!-- #Other_information -->
-​
-
-<!-- #Other_Information -->
-​
-
-<!-- #other-information -->
 ### Other information
 
 - The locations can be visited in any order.
@@ -72,10 +54,6 @@ The journal automatically tracks how long the player has been at each location i
 - There is no danger of [Cabin Fever](./Cabin%20Fever.md), as the overall difficulty of the challenge uses Voyageur settings.
 - In early 2021 it took six days instead of the intended three, due to a bug. Since 2021-04-29 this should be fixed.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 ![Nomad](../assets/Nomad.png) ![Current (Crossroads Elegy) journal entry](../assets/20191118161857_1.jpg)_Current (Crossroads Elegy) journal entry_ The locations you need to spend 3 days in are listed in your journal. They are:
@@ -98,10 +76,6 @@ The journal automatically tracks how long the player has been at each location i
 | [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) | [Abandoned Mine](./Abandoned%20Mine.md) | Cinder Hills Coal Mine |
 | [Old Island Connector](./Crumbling%20Highway.md) | [Abandoned Harris Home](./Abandoned%20Harris%20Home.md) | Crumbling Highway (Basement) |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The screen displayed at the completion of the challenge](../assets/Nomad_endscreen.jpg)

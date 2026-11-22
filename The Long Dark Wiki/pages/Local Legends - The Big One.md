@@ -36,10 +36,6 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the book _Local Legends - The Big One_ from the second [bunker](./Joplin%27s%20Bunker%20Raid.md) south of [Heartbreak Bridge](./Heartbreak%20Bridge.md), and are tasked to catch a [giant fish](./Big%20Bass%20%28Raw%29.md) at [Pensive Pond](./Pensive%20Pond.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Local Legends - The Big One**_
@@ -48,16 +44,6 @@ Children playing along Pensive Pond know him as Big Eddie. He'd eat every bit of
 
 Others in the Valley, being of more restrained disposition, felt obliged to leave the fish in peace. Who can say what the truth of the story might be?
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

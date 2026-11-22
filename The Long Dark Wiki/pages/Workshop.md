@@ -22,10 +22,6 @@
 
 Has a workbench
 
-<!-- #Workshop -->
-​
-
-<!-- #workshop -->
 ## Workshop
 
 ![Locked door](../assets/SS-BI-Workshop-Keypad.jpg)_Locked door_The Cannery workshop is one of the two locations on [Great Bear Island](./Great%20Bear%20Island.md) that contains an [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) and a [Milling Machine](./Milling%20Machine.md) (the other one being [Blackrock](./Blackrock.md)).
@@ -42,10 +38,6 @@ The first time, the player will only be able to enter the workshop during an [Au
 
 Whenever the player passes through the workshop's door, there is a random chance of encountering a wolf. Once the wolf is dealt with, the player will be able to access the milling machine and the ammunition workbench. As the aurora appears frequently in this region, use caution around the live wires scattered about.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Cannery Pier and the workshop](../assets/SS-BI-CanneryPier02.jpg)

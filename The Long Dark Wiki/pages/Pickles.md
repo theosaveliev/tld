@@ -38,10 +38,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Pickles** is a rare [Food And Drink](./Food%20And%20Drink.md) item in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 This item is only found only when trading with the [Trader](./Trader.md). It has a chance to appear in any trade and does not require the player to raise Trust with the Trader.

@@ -33,9 +33,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 30 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>60 minutes<br>40% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 60 minutes 40% condition
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -49,44 +49,22 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 A **Hockey Jersey** is a type of clothing in _[The Long Dark](./The%20Long%20Dark.md)_. It is part of the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Light and warm mid-tier sweater, which spawns rarely on all game modes. The Hockey Jersey has similar stats to the [Thin Wool Sweater](./Thin%20Wool%20Sweater.md). The Hockey Jersey is 0.05 kg heavier, but 2.5 °C more Windproof, 1% more Protective and 5% less Waterproof. The Hockey Jersey [decays](./Decay.md) condition half as fast as Thin Wool Sweater.
 
 It is one of the best Inner Torso clothing which can spawn on [Interloper](./Interloper.md) mode, along with the Thin Wool Sweater.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 - Rare but can spawn in most regions on all game modes.
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Hockey Jersey](./Hockey%20Jersey.md) |
+| [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md) - 1 × [Scrap Metal](./Scrap%20Metal.md) - 1 × [Hockey Jersey](./Hockey%20Jersey.md) |
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

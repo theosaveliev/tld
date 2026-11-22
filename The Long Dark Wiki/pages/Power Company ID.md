@@ -30,10 +30,6 @@
 
 **Power Company ID** are 2 different [Collectibles](./Collectibles.md) found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story as part of the [Lost Power Workers](./Lost%20Power%20Workers.md) side mission.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 The dead female corpse in a trailer on the road to the [Power Plant](./Power%20Plant.md) reads:
@@ -44,16 +40,6 @@ The ID found in a [Backpack](./Backpack.md) near the dead corpse in the ravine r
 
 Samual Franks, Journeyman Electrician
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**

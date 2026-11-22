@@ -30,10 +30,6 @@ Yields 3-4 [Fir Firewood](./Fir%20Firewood.md)
 
 The **Fir Limb** is one of the many stationary interactable objects found in _[The Long Dark](./The%20Long%20Dark.md)_. They respawn randomly in the world over time under trees, making them a renewable [material](./Materials.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 There are two variants of this object: the small and the large. Both can be turned into [Fir Firewood](./Fir%20Firewood.md).
@@ -42,16 +38,6 @@ Compared to the [Cedar Limb](./Cedar%20Limb.md), the Fir Limb provides more minu
 
 It's commonly believed that limbs respawn after strong winds or blizzards, but this is untrue. Radial spawns (sticks, branches, coal, stones ect.) simply spawn on a randomized timer, independent of any weather conditions.
 
-<!-- #small_limb -->
-​
-
-<!-- #Small_Limb -->
-​
-
-<!-- #Small_limb -->
-​
-
-<!-- #small-limb -->
 ### Small Limb
 
 Small limbs will provide 3 firewood and can be cut up using a [Hatchet](./Hatchet.md) (45 min), [Improvised Hatchet](./Improvised%20Hatchet.md) (58 min), or [Hacksaw](./Hacksaw.md) (90 min). Unlike their [Cedar Limbs](./Cedar%20Limb.md), these limbs offer no [Tinder Plug](./Tinder%20Plug.md) when harvested.
@@ -62,16 +48,6 @@ Small limbs will provide 3 firewood and can be cut up using a [Hatchet](./Hatche
 | 3 | 58 minutes | 176 | -2% Improvised Hatchet |
 | 3 | 1 hour 30 minutes | 270 | -5% Hacksaw |
 
-<!-- #large_limb -->
-​
-
-<!-- #Large_Limb -->
-​
-
-<!-- #Large_limb -->
-​
-
-<!-- #large-limb -->
 #### Large Limb
 
 Large limbs cannot be cut up with a hacksaw, and take 60 min to harvest with a normal hatchet, or 77 min with an improvised tool. Large Fir Limbs are very rare and only appear in set locations:

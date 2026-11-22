@@ -18,20 +18,12 @@
 
 A **Vegetable Rack** is an interactable storage item in _[The Long Dark](./The%20Long%20Dark.md)_. It has 3 drawers that often contain large amounts of [Carrots](./Carrot.md) and [Potatoes](./Potato.md), and each drawer has 10.00 kg of storage capacity.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The top drawer always spawns Carrots, the bottom drawer always spawns Potatos, and the middle drawer spawns a mix of the two (or sometimes nothing).
 
 They are often found in many basements of large homes.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 - [Hunting Lodge](./Hunting%20Lodge.md) basement

@@ -33,20 +33,12 @@ Has a bed
 
 Provides some shelter **Abandoned Lookout** is small, abandoned lookout tower located to the north in [Coastal Highway](./Coastal%20Highway.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Abandoned Lookout is a tower that sits on a hill to the far north-west of the [Coastal Townsite](./Coastal%20Townsite.md) and north-east of [Log Sort](./Log%20Sort.md). The Abandoned Lookout is situated very close to the [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) transition area for [Pleasant Valley](./Pleasant%20Valley.md). This makes it a stop for almost anyone heading to Pleasant Valley. The lookout is much more sparsely decorated compared to the [Forestry Lookout](./Forestry%20Lookout.md) in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
 It's possible to deploy a [Mountaineering Rope](./Mountaineering%20Rope.md) from the embankment on the south side of the lookout.
 
-<!-- #Furnishings -->
-​
-
-<!-- #furnishings -->
 ## Furnishings
 
 Abandoned Lookout contains the following:
@@ -56,16 +48,6 @@ Abandoned Lookout contains the following:
 - Cabinet
 - Shelf
 
-<!-- #possible_loot -->
-​
-
-<!-- #Possible_Loot -->
-​
-
-<!-- #Possible_loot -->
-​
-
-<!-- #possible-loot -->
 ## Possible Loot
 
 Abandoned Lookout has less loot than many of the other buildings.
@@ -79,20 +61,12 @@ Abandoned Lookout has less loot than many of the other buildings.
 - [Magnifying Lens](./Magnifying%20Lens.md)
 - [Whetstone](./Whetstone.md)
 
-<!-- #Safehouse -->
-​
-
-<!-- #safehouse -->
 ## Safehouse
 
 While it can be a useful camp, Abandoned Lookout generally makes a poor base. It lacks the luxury of having many storage containers, which is a problem for anyone looking to survive for a long period of time. It also lacks a [Work Bench](./Work%20Bench.md), and is very far from any buildings to scavenge from. It also does not have many renewable sources of food (i.e., game or fish), fuel, or medicinal flora close by.
 
 The [Quonset Garage](./Quonset%20Garage.md) and [Jackrabbit Island](./Jackrabbit%20Island.md) make for much more suitable safehouses.
 
-<!-- #Notes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 - Unlike other houses and non-destroyed structures, entering Abandoned Lookout does not cause a loading screen to appear. Instead, the when the door is opened, the player may walk inside, with no change of scene. This allows the player to see through the windows outside, as well as a quick way to enter and exit the safety of a home.
@@ -101,10 +75,6 @@ The [Quonset Garage](./Quonset%20Garage.md) and [Jackrabbit Island](./Jackrabbit
 - The height of the lookout also allows the player to get a view of their surroundings without having to do much exploration.
 - The top of the Lookout serves as a [Vista](./Polaroids.md) location.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![A close up view of the lookout](../assets/Abandoned_Lookout.jpg)
@@ -114,5 +84,3 @@ The [Quonset Garage](./Quonset%20Garage.md) and [Jackrabbit Island](./Jackrabbit
 ![New forestry lookout2](../assets/New_forestry_lookout2.jpg)
 
 ![Overview at dawn](../assets/Abandonned_lookout_overview_at_dawn.jpg)
-
-[ru:Заброшенный наблюдательный пункт (Прибрежное шоссе)](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BB%D1%8E%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%83%D0%BD%D0%BA%D1%82_%28%D0%9F%D1%80%D0%B8%D0%B1%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D0%B5_%D1%88%D0%BE%D1%81%D1%81%D0%B5%29)

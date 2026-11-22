@@ -24,9 +24,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md) 20 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md)<br>90 minutes<br>30% condition
+**Repair:** 2 × [Cloth](./Cloth.md) 90 minutes 30% condition
 
 > “**Winter version of the traditional coat used by the military. Doesn't use the best technical materials, but is tough as hell. Takes a beating, as you can while wearing it.**”
 >
@@ -34,10 +34,6 @@
 
 The **Military Coat** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 High-tier coat giving good warmth, waterproofness and protection compared to other clothing of its rank. The Military Coat is, for the most part, a direct upgrade to the [Old Fashioned Parka](./Old%20Fashioned%20Parka.md), giving better waterproofing, more protection, and a lower mobility penalty. The coat does take longer to repair than the parka, though, and doesn't gain much condition restoration per repair.
@@ -46,16 +42,6 @@ High-tier coat giving good warmth, waterproofness and protection compared to oth
 
 ![Clothing model icon damaged](../assets/Military_Coat_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

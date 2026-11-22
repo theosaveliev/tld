@@ -18,10 +18,6 @@
 
 **Type:** Outdoors
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Matt's Truck is found underneath a large unnamed viaduct-style bridge in [Desolation Point](./Desolation%20Point.md) along the main road. A pale blue pick-up [Truck](./Truck.md) appears to have fallen from the bridge, broken through the ice, and is lodged nose-down in a river that feeds out into the ocean.
@@ -32,10 +28,6 @@ In the bed of the truck there may be a random tool or resource, such as [Mountai
 
 Matt's Truck lies roughly between [Stone Church](./Stone%20Church.md) and [The Riken](./The%20Riken.md). [Green Birch Saplings](./Green%20Birch%20Sapling.md) occasionally spawn upstream from here, and [Reishi Mushrooms](./Reishi%20Mushroom.md) can be found slightly inland. A [Moose](./Moose.md) can spawn on the bridge above.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - The truck shows signs of rust and is in relatively poor condition suggesting is may have been in the river for a long time, or Matt himself may have not respected his possessions.

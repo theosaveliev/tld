@@ -2,10 +2,6 @@
 
 **Categories:** Interactable Objects, Story items · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Branch)
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 **Branch**

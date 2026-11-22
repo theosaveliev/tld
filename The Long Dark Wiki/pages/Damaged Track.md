@@ -20,10 +20,6 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Damaged Track** are stationary interactable objects in [_The Long Dark_](./The%20Long%20Dark.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 **Damaged Tracks** are sections of train tracks that are highly damaged on [Cauldron Island](./Cauldron%20Island.md). They appear as warped, rusted, and chipped train track, with damaged cross ties. Driving over them can damage the [Prototype Train's](./Prototype%20Train.md) Wheels.

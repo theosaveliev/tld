@@ -34,26 +34,12 @@
 
 **Park Notice** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of [Wintermute](./Wintermute.md). It is found in the [Camp Office](./Camp%20Office.md) on the front counter.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Park Notice**_
 
 "Due to unusually cold weather this year, we're shutting down Mystery Lake provincial park a little earlier than usual. Make sure all the campers are packed up and ready to bug out by rail-truck. Anyone left behind will have to get out on foot -- not a nice prospect. As per the usual procedure, lock up all lake cabins and make sure all provisions are stored in bear-proof containers. And please take the flag down this year -- we had to replace it after last Winter. The winds just tear it to shreds. After you're finished closing down the camp, make sure to check in at the Forestry Service Lookout as requested. Apparently those guys think [someone's](./Jeremiah.md) been using their lookout to store hunting gear, and drying old animal skins? Man, I don't envy you that backwater posting. Great Bear has sure gone downhill since the quakes."
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

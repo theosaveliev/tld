@@ -25,28 +25,16 @@
 
 The **Bear Hide Rug** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Bear Hide Rug is the only Decorations item crafted by the player that does not need the [Woodworking Tools](./Woodworking%20Tools.md) or a [Furniture Workbench](./Furniture%20Workbench.md) to craft. Instead, it can be crafted at any [Work Bench](./Work%20Bench.md), but need [Quality Tools](./Quality%20Tools.md).
 
 The rug is quite large, being the size of a [Car](./Car.md) or [Truck](./Truck.md). As such, it requires a lot of clear space and thus will not fit into smaller Safehouses due to how much room it takes up. The head of the bear is the only part of the Rug that is not flat, and can be walked over as if it is a small bump in the floor.
 
-<!-- #Harvesting -->
-​
-
-<!-- #harvesting -->
 ## Harvesting
 
 This item cannot be harvested. The only option is to pick up, move or destroy it (destroying the rug will yield no resources, so consider the material cost/time investment before creating this item).
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Bear Hide Rug**

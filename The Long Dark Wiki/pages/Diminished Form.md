@@ -14,7 +14,7 @@
 
 **Category:** [Afflictions](./Afflictions.md)
 
-**Description:** A morbid decay has set in.<br>You have less Stamina, and your carrying capacity is reduced. Sensing your vulnerability, Wolves are less likely to Flee during a Struggle.
+**Description:** A morbid decay has set in. You have less Stamina, and your carrying capacity is reduced. Sensing your vulnerability, Wolves are less likely to Flee during a Struggle.
 
 **Caused By:** [Misery Mode](./Misery.md)
 
@@ -30,10 +30,6 @@
 
 **Diminished Form** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 > “__A morbid decay has set in.  
@@ -46,10 +42,6 @@ Diminished Form is a permanent Affliction unique to [Misery Mode](./Misery.md) w
 
 Note: Diminished Form does 'not' affect Climbing Stamina, if starting a climb at 100% of **_current_** Stamina, similar to other Stamina penalties like wearing [Bearskin Coat](./Bearskin%20Coat.md).
 
-<!-- #Effects -->
-​
-
-<!-- #effects -->
 ## Effects
 
 - -5kg [Carry Weight](./Encumbrance.md)

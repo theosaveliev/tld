@@ -29,18 +29,10 @@
 
 The **Milling Machine** is a workstation used for repairs in _[The Long Dark](./The%20Long%20Dark.md)._ It was introduced in the Errant Pilgrim update.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Milling Machine is a workstation which is used to repair certain tools and weapons. Operating the Milling Machine requires one [Scrap Metal](./Scrap%20Metal.md) and an active [Aurora](./Aurora.md). While an Aurora is active, the Milling Machine will whir and its lights will be on. Once the Aurora ends, the sound of the machine powering off is heard. Milling Machines are always accompanied by the [Ammunition Work Bench](./Ammunition%20Work%20Bench.md).
 
-<!-- #Repairing -->
-​
-
-<!-- #repairing -->
 ## Repairing
 
 The chance of success and amount repaired is determined by either [Repair Skill](./Repair.md) when repairing tools.
@@ -80,10 +72,6 @@ The Milling Machine may be used to repair the following items:
 | [Curator's Rifle icon](../assets/Curator%27s_Rifle_icon.png) [Curator's Rifle](./Curator%27s%20Rifle.md) | 30.0 minutes | 90.0 minutes |
 | [Vaughn's Rifle icon](../assets/Vaughn%27s_Rifle_icon.png) [Vaughn's Rifle](./Vaughn%27s%20Rifle.md) | 30.0 minutes | 90.0 minutes |
 
-<!-- #Location -->
-​
-
-<!-- #location -->
 ## Location
 
 The Milling Machine can be found at:
@@ -97,10 +85,6 @@ The Access Code to unlock The Last Resort Cannery and Blackrock Prison's doors n
 
 Caution should be taken inside of the Last Resort Cannery Workshop during an Aurora, since electrified wires are present around the room which cause [Burns](./Burns.md) on contact and can quickly kill, on the other hand, the Blackrock Prison Workshop is relatively safe, however gaining access to it requires, arguably, a more arduous journey.
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - Repairing a Hacksaw with the Milling Machine grants more condition per Scrap Metal than repair with [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md); but only if the repair is successful. At low Repair skill the Milling Machine is less efficient on average, but as Repair skill increases it becomes far more efficient.
@@ -108,18 +92,10 @@ Caution should be taken inside of the Last Resort Cannery Workshop during an Aur
 - No [Bed](./Bed.md) is present inside or conveniently near either of the workshops. It is recommended to bring a [Bedroll](./Bedroll.md) to spend extended periods of time in the crafting ammunition.
 - An early prototype of this item could be found during the cut mission [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md), known as the [Hand-Powered Milling Tool](./Hand-Powered%20Milling%20Tool.md).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Milling Machines were introduced in the Errant Pilgrim update along with its region: [Bleak Inlet](./Bleak%20Inlet.md). The Perilous Constraint update introduced it to the [Blackrock](./Blackrock.md) region.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The ammunition workbench and milling machine](../assets/SS-BI-Workshop02.jpg)

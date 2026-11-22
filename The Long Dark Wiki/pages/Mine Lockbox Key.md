@@ -30,16 +30,6 @@ The **Mine Lockbox Key** is a [Collectible](./Collectibles.md) found on Level 1 
 
 It unlocks a lockbox inside a cabin on the same level that has multiple stored items, including a [Gold Nugget](./Gold%20Nugget.md).
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**

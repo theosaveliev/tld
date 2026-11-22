@@ -19,32 +19,14 @@
 
 **Dark Star** is a side mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 To start the mission, the player must find any of four [Archival Report](./Archival%20Report.md) objects scattered across the [Blackrock](./Blackrock.md) region. Finding all four will complete the mission.
 
-<!-- #Tasks -->
-​
-
-<!-- #tasks -->
 ## Tasks
 
 - Search for bloodstained pages inside and outside the Blackrock grounds.
 
-<!-- #key_locations -->
-​
-
-<!-- #Key_locations -->
-​
-
-<!-- #Key_Locations -->
-​
-
-<!-- #key-locations -->
 ## Key locations
 
 - [Volume A](./Archival%20Report.md#Volume_A) is found in Blackrock Locker #3 (requires a key to open and is an objective of the [Blackrock Lockers](./Blackrock%20Lockers.md) side mission).

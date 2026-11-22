@@ -24,9 +24,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-3%
 
-**Harvest:** 2 × [Cured leather](./Cured%20Leather.md)<br>90 minutes
+**Harvest:** 2 × [Cured leather](./Cured%20Leather.md) 90 minutes
 
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md),<br>1 × [Cloth](./Cloth.md)<br>90 minutes<br>50% condition
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md), 1 × [Cloth](./Cloth.md) 90 minutes 50% condition
 
 > “**Manufactured boot inspired by the traditional hunter's footwear. Designed for mobility and warmth using leather and fur. You can stay warm and move quickly.**”
 >
@@ -34,10 +34,6 @@
 
 **Mukluks** are a type of [footwear](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Mukluks are high tier boots and one of the rarest items in _The Long Dark_. Few containers have Mukluks in their loot table, most notable being Safes and similar high-loot tier locations. Mukluks cannot spawn on Interloper.
@@ -67,16 +63,6 @@ Mukluks are similar to the [Deerskin Boots](./Deerskin%20Boots.md) in stats, off
 
 ![Clothing model icon](../assets/Mukluks_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

@@ -34,10 +34,6 @@
 
 An **Infection** is a life threating [Affliction](./Afflictions.md) acquired from a [Wolf](./Wolf.md), [Timberwolf](./Timberwolf.md), [Poisoned Wolf](./Poisoned%20Wolf.md), [Cougar](./Cougar.md), or [Bear](./Bear.md) [Struggle](./Struggle.md).
 
-<!-- #Affliction -->
-​
-
-<!-- #affliction -->
 ## Affliction
 
 > “**You have an infection that could kill you if left untreated.**”
@@ -50,10 +46,6 @@ Infection is treated by consuming either 2 x [Antibiotics](./Antibiotics.md) or 
 
 It is very important to note that one can have multiple Infections at once, even from the same [Struggle](./Struggle.md).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old icon.](../assets/Infection_risk.png)

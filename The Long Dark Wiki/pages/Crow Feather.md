@@ -35,10 +35,6 @@ Repair
 
 The **crow feather** is a material item in _[The Long Dark](./The%20Long%20Dark.md)._
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Feathers are used to create [arrows](./Simple%20Arrow.md) and [fire hardened arrows](./Fire%20Hardened%20Arrow.md).
@@ -47,38 +43,20 @@ They are dropped by [crows](./Crow.md), and are usually found near animal carcas
 
 As a feather touches the ground, it makes a small sound that can be heard if nearby.
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | None | - 5 × [Stick](./Stick.md)<br>- 5 × [Crow Feather](./Crow%20Feather.md) |
-| [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Crow Feather](./Crow%20Feather.md)<br>- 1 × [Acorns](./Acorns.md) |
-| [Fishing Lure (Revolver Shell Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Crow Feather](./Crow%20Feather.md)<br>- 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) |
-| [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Crow Feather](./Crow%20Feather.md)<br>- 1 × [Wires](./Wires.md) |
-| [Simple Arrow](./Simple%20Arrow.md) | None | - 1 × [Arrowhead](./Arrowhead.md)<br>- 1 × [Arrow Shaft](./Arrow%20Shaft.md)<br>- 3 × [Crow Feather](./Crow%20Feather.md) |
+| [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | None | - 5 × [Stick](./Stick.md) - 5 × [Crow Feather](./Crow%20Feather.md) |
+| [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) - 1 × [Crow Feather](./Crow%20Feather.md) - 1 × [Acorns](./Acorns.md) |
+| [Fishing Lure (Revolver Shell Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) - 1 × [Crow Feather](./Crow%20Feather.md) - 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) |
+| [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) - 1 × [Crow Feather](./Crow%20Feather.md) - 1 × [Wires](./Wires.md) |
+| [Simple Arrow](./Simple%20Arrow.md) | None | - 1 × [Arrowhead](./Arrowhead.md) - 1 × [Arrow Shaft](./Arrow%20Shaft.md) - 3 × [Crow Feather](./Crow%20Feather.md) |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Crow_feather.png)
 
-<!-- #game_history -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #game-history -->
 ## Game history
 
 - Crow feathers were introduced on 22 May 2015 in [version 0.233](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233).

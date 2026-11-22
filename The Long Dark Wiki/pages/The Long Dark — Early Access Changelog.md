@@ -108,13 +108,6 @@ _For the changelog for versions 1.50 to 1.99, see [The Long Dark/Changelog/Archi
 
 _For the changelog for versions 1.00 to 1.49, see [The Long Dark/Changelog/Archive 1](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md)._
 
-<!-- #section -->
-​
-
-<!-- #0.426 -->
-​
-
-<!-- #0426 -->
 ### 0.426
 
 Released: 15 June 2017
@@ -152,22 +145,6 @@ Size: 229.0 MB
 - Fixed issue with Lantern sometimes not equipping after leaving a UI screen
 - Use LT/RT instead of LB/RB for top level navigation in Fire UI
 
-<!-- #faithful_cartographer_update -->
-​
-
-<!-- #0.423_(Faithful_Cartographer_Update) -->
-​
-
-<!-- #0.423_(faithful_cartographer_update) -->
-​
-
-<!-- #0.423_(faithful_Cartographer_Update) -->
-​
-
-<!-- #0.423 -->
-​
-
-<!-- #0423-faithful-cartographer-update -->
 ### 0.423 (Faithful Cartographer Update)
 
 Released: 8 June 2017
@@ -197,13 +174,6 @@ Size: 1.2 GB
 - [Steam - The Long Dark -- Sandbox Alpha Updated to v.423 -- "Faithful Cartographer"](http://steamcommunity.com/games/305620/announcements/detail/1315462370961876654)
 - [Hinterland Forums - The Long Dark Sandbox Updated to v.423 -- “Faithful Cartographer” -- Release Notes](http://www.hinterlandforums.com/index.php?/topic/15498-the-long-dark-sandbox-updated-to-v423-faithful-cartographer/)
 
-<!-- #section_1 -->
-​
-
-<!-- #0.393 -->
-​
-
-<!-- #0393 -->
 ### 0.393
 
 Released: 13 January 2017
@@ -217,13 +187,6 @@ Size: 187.9 MB
 - [Steam - The Long Dark -- Hotfixed to v.393](http://steamcommunity.com/games/305620/announcements/detail/248095943889774000)
 - [Hinterland Forums - The Long Dark -- Hotfixed to v.393](http://www.hinterlandforums.com/index.php?/topic/14083-the-long-dark-hotfixed-to-v393/)
 
-<!-- #section_2 -->
-​
-
-<!-- #0.392 -->
-​
-
-<!-- #0392 -->
 ### 0.392
 
 Released: 12 January 2017
@@ -258,13 +221,6 @@ Size: 308.6 MB
 - Fixed issue with Snares not being visible at moderate distance
 - Updated copyright notice on main menu
 
-<!-- #section_3 -->
-​
-
-<!-- #0.388 -->
-​
-
-<!-- #0388 -->
 ### 0.388
 
 Released: 21 December 2016
@@ -278,22 +234,6 @@ Size: 313.6 MB
 - Fixed bear getting stuck inside rail car in Forlorn Muskeg region
 - Fixed broken stats for old save games
 
-<!-- #resolute_outfitter_update -->
-​
-
-<!-- #0.386_(Resolute_Outfitter_Update) -->
-​
-
-<!-- #0.386_(resolute_outfitter_update) -->
-​
-
-<!-- #0.386_(resolute_Outfitter_Update) -->
-​
-
-<!-- #0.386 -->
-​
-
-<!-- #0386-resolute-outfitter-update -->
 ### 0.386 (Resolute Outfitter Update)
 
 Released: 19 December 2016
@@ -325,16 +265,6 @@ Size: 308.4 MB
 - [Bug] Fix issues with Distress Pistol not animating and playing audio
 - [Bug] Fixed snow shelter rendering glitches
 
-<!-- #t -->
-​
-
-<!-- #0.377T -->
-​
-
-<!-- #0.377t -->
-​
-
-<!-- #0377t -->
 ### 0.377T
 
 Released: 2 December 2016
@@ -343,13 +273,6 @@ Size: ? MB
 
 - Enhanced clothing system testing
 
-<!-- #section_4 -->
-​
-
-<!-- #0.375 -->
-​
-
-<!-- #0375 -->
 ### 0.375
 
 Released: 3 November 2016
@@ -360,13 +283,6 @@ Size: 166.8 MB
 - Fixed issue where Glowing Red Eyes persisted in wolves past the end of the 4 Days of Night Event.
 - [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md) disabled
 
-<!-- #section_5 -->
-​
-
-<!-- #0.373 -->
-​
-
-<!-- #0373 -->
 ### 0.373
 
 Released: 30 October 2016
@@ -375,13 +291,6 @@ Size: ? MB
 
 - Removed Parasites and Cabin Fever afflictions for the duration of the "4 Days of Night" event
 
-<!-- #section_6 -->
-​
-
-<!-- #0.365 -->
-​
-
-<!-- #0365 -->
 ### 0.365
 
 Released: 28 September 2016
@@ -401,22 +310,6 @@ Size: 284.7 MB
 - Optimized audio in Desolation Point to prevent potential sound hitches
 - General fixes to Environment art and collision
 
-<!-- #vigilant_trespass_update -->
-​
-
-<!-- #0.364_(Vigilant_Trespass_Update) -->
-​
-
-<!-- #0.364_(vigilant_trespass_update) -->
-​
-
-<!-- #0.364_(vigilant_Trespass_Update) -->
-​
-
-<!-- #0.364 -->
-​
-
-<!-- #0364-vigilant-trespass-update -->
 ### 0.364 (Vigilant Trespass Update)
 
 Released: 23 September 2016
@@ -502,22 +395,6 @@ Size: 989.1 MB
 - [Steam - The Long Dark - THE LONG DARK SANDBOX UPDATED to v.364: "VIGILANT TRESPASS"](http://steamcommunity.com/games/305620/announcements/detail/580226264172519097)
 - [Hinterland Forums - THE LONG DARK SANDBOX UPDATED to v.364, “VIGILANT TRESPASS”](http://hinterlandforums.com/index.php?/topic/12714-the-long-dark-sandbox-updated-to-v364-%E2%80%9Cvigilant-trespass%E2%80%9D/#comment-81620)
 
-<!-- #penitent_scholar_update -->
-​
-
-<!-- #0.349_(Penitent_Scholar_Update) -->
-​
-
-<!-- #0.349_(penitent_scholar_update) -->
-​
-
-<!-- #0.349_(penitent_Scholar_Update) -->
-​
-
-<!-- #0.349 -->
-​
-
-<!-- #0349-penitent-scholar-update -->
 ### 0.349 (Penitent Scholar Update)
 
 Released: 1 July 2016
@@ -537,13 +414,6 @@ Size: 197.9 MB
 - [Steam - The Long Dark - The Long Dark Hotfixed to v.349](http://steamcommunity.com/games/305620/announcements/detail/577966826615311512)
 - [Hinterland Forums - HOTFIX to v.349 for "Penitent Scholar"](http://hinterlandforums.com/index.php?/topic/11851-hotfix-to-v349-for-penitent-scholar/&do=findComment&comment=72856)
 
-<!-- #section_7 -->
-​
-
-<!-- #0.348 -->
-​
-
-<!-- #0348 -->
 ### 0.348
 
 Released: 25 June 2016
@@ -558,13 +428,6 @@ Size: 187.3 MB
 - [Steam - The Long Dark - THE LONG DARK SANDBOX HOTFIXED to v.348](http://steamcommunity.com/games/305620/announcements/detail/577966219961825778)
 - [Hinterland Forums - THE LONG DARK SANDBOX HOTFIXED to v.348](http://hinterlandforums.com/index.php?/topic/11714-the-long-dark-sandbox-hotfixed-to-v348/&do=findComment&comment=71838)
 
-<!-- #section_8 -->
-​
-
-<!-- #0.347 -->
-​
-
-<!-- #0347 -->
 ### 0.347
 
 Released: 24 June 2016
@@ -582,13 +445,6 @@ Size: 64.7 MB
 - [Steam - The Long Dark - THE LONG DARK SANDBOX HOTFIXED to v.347](http://steamcommunity.com/games/305620/announcements/detail/577966219958462842)
 - [Hinterland Forums - THE LONG DARK SANDBOX HOTFIXED to v.347](http://hinterlandforums.com/index.php?/topic/11693-the-long-dark-sandbox-hotfixed-to-v347/&do=findComment&comment=71745)
 
-<!-- #section_9 -->
-​
-
-<!-- #0.346 -->
-​
-
-<!-- #0346 -->
 ### 0.346
 
 Released: 23 June 2016
@@ -633,13 +489,6 @@ Size: 329.2 MB
 - [Steam - The Long Dark - The Long Dark -- Sandbox Alpha Updated to v.346 -- "Penitent Scholar"](http://steamcommunity.com/games/305620/announcements/detail/577966219955222312)
 - [Hinterland Forums - The Long Dark Sandbox Alpha Updated to v.346 -- "PENITENT SCHOLAR"](http://hinterlandforums.com/index.php?/topic/11661-the-long-dark-sandbox-alpha-updated-to-v346-penitent-scholar/&do=findComment&comment=71596)
 
-<!-- #section_10 -->
-​
-
-<!-- #0.338 -->
-​
-
-<!-- #0338 -->
 ### 0.338
 
 Released: 25 May 2016
@@ -666,13 +515,6 @@ Size: 105.4 MB
 - [Steam - The Long Dark - The Long Dark Hotfixed to v.338 -- Crash, Lighting, Gameplay Fixes](http://steamcommunity.com/games/305620/announcements/detail/5835931856)
 - [Hinterland Forums - HOTFIX: The Long Dark Sandbox Hotfixed to v.338 -- Crash, Lighting, and Gameplay Fixes](http://hinterlandforums.com/index.php?/topic/11138-hotfix-the-long-dark-sandbox-hotfixed-to-v338-crash-lighting-and-gameplay-fixes/&do=findComment&comment=68191)
 
-<!-- #section_11 -->
-​
-
-<!-- #0.332 -->
-​
-
-<!-- #0332 -->
 ### 0.332
 
 Released: 30 April 2016
@@ -699,13 +541,6 @@ Size: 90.3 MB
 - [Steam - The Long Dark -- HOTFIX! The Long Dark Sandbox Hotfixed to v.332](http://steamcommunity.com/games/305620/announcements/detail/590346047949108349)
 - [Hinterland Forums - HOTFIX to v.332](http://hinterlandforums.com/index.php?/topic/10860-hotfix-to-v332/&do=findComment&comment=65360)
 
-<!-- #section_12 -->
-​
-
-<!-- #0.327 -->
-​
-
-<!-- #0327 -->
 ### 0.327
 
 Released: 24 April 2016
@@ -719,13 +554,6 @@ Size: 59.7 MB
 - [Steam - The Long Dark -- HOTFIX! The Long Dark Sandbox Hotfixed to v.327](http://steamcommunity.com/games/305620/announcements/detail/590345732302820300)
 - [Hinterland Forums - HOTFIX! The Long Dark Sandbox v.327](http://hinterlandforums.com/index.php?/topic/10701-hotfix-the-long-dark-sandbox-v327/&do=findComment&comment=64106)
 
-<!-- #section_13 -->
-​
-
-<!-- #0.326 -->
-​
-
-<!-- #0326 -->
 ### 0.326
 
 Released: 23 April 2016
@@ -744,13 +572,6 @@ Size: 80.5 MB
 
 - [Steam - The Long Dark -- HOTFIX! The Long Dark Sandbox Hotfixed to v.326](http://steamcommunity.com/games/305620/announcements/detail/590345412507052974)
 
-<!-- #section_14 -->
-​
-
-<!-- #0.325 -->
-​
-
-<!-- #0325 -->
 ### 0.325
 
 Released: 21 April 2016
@@ -770,22 +591,6 @@ Size: 77.8 MB
 
 - [Steam - The Long Dark -- HOTFIX! The Long Dark Sandbox Hotfixed to v.325](http://steamcommunity.com/games/305620/announcements/detail/590345412500735735)
 
-<!-- #tireless_menace_update -->
-​
-
-<!-- #0.321_(Tireless_Menace_Update) -->
-​
-
-<!-- #0.321_(tireless_menace_update) -->
-​
-
-<!-- #0.321_(tireless_Menace_Update) -->
-​
-
-<!-- #0.321 -->
-​
-
-<!-- #0321-tireless-menace-update -->
 ### 0.321 (Tireless Menace Update)
 
 Released: 21 April 2016
@@ -874,22 +679,6 @@ Size: 730.2 MB
 
 - [Steam - The Long Dark -- New Update! The Long Dark Sandbox Updated to v.321: "Tireless Menace"](http://steamcommunity.com/games/305620/announcements/detail/590345412499151795)
 
-<!-- #xbox_one -->
-​
-
-<!-- #0.304_(Xbox_One) -->
-​
-
-<!-- #0.304_(xbox_one) -->
-​
-
-<!-- #0.304_(xbox_One) -->
-​
-
-<!-- #0.304 -->
-​
-
-<!-- #0304-xbox-one -->
 ### 0.304 (Xbox One)
 
 Released: 19 February 2016
@@ -898,19 +687,6 @@ Released: 19 February 2016
 
 - [Hinterland - The Long Dark Sandbox — The Long Dark Sandbox — Hotfix to v.304 (Xbox One)](http://hinterlandgames.com/the-long-dark-sandbox-hotfix-to-v-304-xbox-one/)
 
-<!-- #other_platforms -->
-​
-
-<!-- #0.302_(other_platforms) -->
-​
-
-<!-- #0.302_(other_Platforms) -->
-​
-
-<!-- #0.302 -->
-​
-
-<!-- #0302-other-platforms -->
 ### 0.302 (Other platforms)
 
 Released: 8 January 2016
@@ -927,22 +703,6 @@ Size: 73.5 MB
 - [Steam - The Long Dark -- Hotfixed to v.302](http://steamcommunity.com/games/305620/announcements/detail/58911146464959586)
 - [Hinterland - The Long Dark Sandbox — Hotfix to v.302](http://hinterlandgames.com/hotfix-to-v302/)
 
-<!-- #xbox_one_1 -->
-​
-
-<!-- #0.303_(Xbox_One) -->
-​
-
-<!-- #0.303_(xbox_one) -->
-​
-
-<!-- #0.303_(xbox_One) -->
-​
-
-<!-- #0.303 -->
-​
-
-<!-- #0303-xbox-one -->
 ### 0.303 (Xbox One)
 
 Released: 3 February 2016
@@ -952,13 +712,6 @@ Released: 3 February 2016
 
 - [Hinterland - The Long Dark Sandbox — Hotfix to v.303 to fix XBox One Savegame Issues](http://hinterlandgames.com/hotfix-v303/)
 
-<!-- #section_15 -->
-​
-
-<!-- #0.301 -->
-​
-
-<!-- #0301 -->
 ### 0.301
 
 Released: 18 December 2015
@@ -985,22 +738,6 @@ Released: 18 December 2015
 - [Steam - The Long Dark Sandbox Hotfixed to v.301](http://steamcommunity.com/games/305620/announcements/detail/82553140672342660)
 - [Hinterland - The Long Dark Sandbox Hotfixed to v.301](http://hinterlandgames.com/the-long-dark-alpha-hotfix-to-v-301/)
 
-<!-- #timberwolf_mountain_update -->
-​
-
-<!-- #0.298_(Timberwolf_Mountain_Update) -->
-​
-
-<!-- #0.298_(timberwolf_mountain_update) -->
-​
-
-<!-- #0.298_(timberwolf_Mountain_Update) -->
-​
-
-<!-- #0.298 -->
-​
-
-<!-- #0298-timberwolf-mountain-update -->
 ### 0.298 (Timberwolf Mountain Update)
 
 Released: 16 December 2015
@@ -1084,22 +821,6 @@ Blog post: User blog:LegendFPS/The Long Dark — December Update (v.298), “Tim
 - [Steam - The Long Dark December Update: "Timberwolf Mountain"](http://steamcommunity.com/games/305620/announcements/detail/82553040176884572)
 - [Hinterland - The Long Dark — December Update (v.298), “Timberwolf Mountain”](http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/)
 
-<!-- #mac_only -->
-​
-
-<!-- #0.284_(Mac_only) -->
-​
-
-<!-- #0.284_(mac_only) -->
-​
-
-<!-- #0.284_(mac_Only) -->
-​
-
-<!-- #0.284 -->
-​
-
-<!-- #0284-mac-only -->
 ### 0.284 (Mac only)
 
 Released: 8 November 2015
@@ -1132,22 +853,6 @@ For more info, or to follow up with additional issues, please check the Technica
 - [Steam - The Long Dark - Mac "El Capitan" Save Loss Fix -- Hotfix to v.284 (Mac only)](http://steamcommunity.com/games/305620/announcements/detail/82549337353087323)
 - [Hinterland - Mac “El Capitan” Save Loss Fix — Hotfix to v.284 (Mac only)](http://hinterlandgames.com/mac-el-capitan-save-loss-fix-hotfix-to-v-284-mac-only/)
 
-<!-- #linux_and_steam_os -->
-​
-
-<!-- #0.283_(Linux_and_Steam_OS) -->
-​
-
-<!-- #0.283_(linux_and_steam_os) -->
-​
-
-<!-- #0.283_(linux_And_Steam_Os) -->
-​
-
-<!-- #0.283 -->
-​
-
-<!-- #0283-linux-and-steam-os -->
 ### 0.283 (Linux and Steam OS)
 
 Released: 16 November 2015
@@ -1170,22 +875,6 @@ Thank you!
 - [Steam - The Long Dark -- SteamOS/Linux Branch Hotfixed](http://steamcommunity.com/games/305620/announcements/detail/82550414453361091)
 - [Hinterland Forums - The Long Dark -- SteamOS/Linux Hotfix](http://www.hinterlandforums.com/viewtopic.php?f=55&t=9121)
 
-<!-- #pc_and_xbox_one -->
-​
-
-<!-- #0.282_(PC_and_Xbox_One) -->
-​
-
-<!-- #0.282_(pc_and_xbox_one) -->
-​
-
-<!-- #0.282_(pc_And_Xbox_One) -->
-​
-
-<!-- #0.282 -->
-​
-
-<!-- #0282-pc-and-xbox-one -->
 ### 0.282 (PC and Xbox One)
 
 Released: 30 October 2015
@@ -1197,13 +886,6 @@ Released: 30 October 2015
 - [Steam - The Long Dark -- Steam Halloween Sale!](http://steamcommunity.com/games/305620/announcements/detail/82548700180916783)
 - [Hinterland Forums - The Long Dark Sandbox Alpha — Hotfix to v.282](http://www.hinterlandforums.com/viewtopic.php?f=55&t=8873)
 
-<!-- #section_16 -->
-​
-
-<!-- #0.281 -->
-​
-
-<!-- #0281 -->
 ### 0.281
 
 Released: 30 October 2015
@@ -1212,13 +894,6 @@ Released: 30 October 2015
 
 - [Steam - The Long Dark -- Steam Halloween Sale!](http://steamcommunity.com/games/305620/announcements/detail/82548700180916783)
 
-<!-- #section_17 -->
-​
-
-<!-- #0.280 -->
-​
-
-<!-- #0280 -->
 ### 0.280
 
 Released: 16 October 2015
@@ -1275,13 +950,6 @@ Released: 16 October 2015
 
 - [Steam - The Long Dark Sandbox -- Updated to v.280 &amp; SteamOS/Linux News](http://steamcommunity.com/games/305620/announcements/detail/82547431661367900)
 
-<!-- #section_18 -->
-​
-
-<!-- #0.271 -->
-​
-
-<!-- #0271 -->
 ### 0.271
 
 Released: 30 September 2015
@@ -1291,13 +959,6 @@ Released: 30 September 2015
 
 - [Steam - The Long Dark Sandbox Alpha Hotfixed to v.271](http://steamcommunity.com/games/305620/announcements/detail/96056782367536634)
 
-<!-- #section_19 -->
-​
-
-<!-- #0.270 -->
-​
-
-<!-- #0270 -->
 ### 0.270
 
 Released: 26 September 2015
@@ -1329,13 +990,6 @@ Released: 26 September 2015
 
 - [Steam - The Long Dark Sandbox -- Hotfixed to v.270](http://steamcommunity.com/games/305620/announcements/detail/96056326898136984)
 
-<!-- #section_20 -->
-​
-
-<!-- #0.265 -->
-​
-
-<!-- #0265 -->
 ### 0.265
 
 Released: 19 September 2015
@@ -1346,22 +1000,6 @@ Released: 19 September 2015
 
 - [Steam - The Long Dark Sandbox -- Hotfixed to v.265](http://steamcommunity.com/games/305620/announcements/detail/96055688703565671)
 
-<!-- #desolation_point_update -->
-​
-
-<!-- #0.264_(Desolation_Point_Update) -->
-​
-
-<!-- #0.264_(desolation_point_update) -->
-​
-
-<!-- #0.264_(desolation_Point_Update) -->
-​
-
-<!-- #0.264 -->
-​
-
-<!-- #0264-desolation-point-update -->
 ### 0.264 (Desolation Point Update)
 
 Released: 18 September 2015
@@ -1411,13 +1049,6 @@ Released: 18 September 2015
 
 - [Steam - The Long Dark Sandbox Update to v264 -- "Desolation Point"](http://steamcommunity.com/games/305620/announcements/detail/96055688700158317)
 
-<!-- #section_21 -->
-​
-
-<!-- #0.258 -->
-​
-
-<!-- #0258 -->
 ### 0.258
 
 Released: 14 August 2015
@@ -1436,13 +1067,6 @@ Released: 14 August 2015
 
 - [Steam - The Long Dark Sandbox Alpha — Hotfix to v.258](http://steamcommunity.com/games/305620/announcements/detail/97178423059977959)
 
-<!-- #section_22 -->
-​
-
-<!-- #0.257 -->
-​
-
-<!-- #0257 -->
 ### 0.257
 
 Released: 8 August 2015
@@ -1467,22 +1091,6 @@ The following changes apply to **PC/Mac players only**, and will be included in 
 
 - [Steam - The Long Dark Sandbox Alpha — Hotfix to v.257](http://steamcommunity.com/games/305620/announcements/detail/97177909039539268)
 
-<!-- #deep_forest_update -->
-​
-
-<!-- #0.256_(Deep_Forest_Update) -->
-​
-
-<!-- #0.256_(deep_forest_update) -->
-​
-
-<!-- #0.256_(deep_Forest_Update) -->
-​
-
-<!-- #0.256 -->
-​
-
-<!-- #0256-deep-forest-update -->
 ### 0.256 (Deep Forest Update)
 
 Released: 1 August 2015
@@ -1525,13 +1133,6 @@ Released: 1 August 2015
 
 - [Steam - The Long Dark Sandbox Alpha - Update to v.256 "Deep Forest"](http://steamcommunity.com/games/305620/announcements/detail/97177212554769290)
 
-<!-- #section_23 -->
-​
-
-<!-- #0.244 -->
-​
-
-<!-- #0244 -->
 ### 0.244
 
 Released: 19 June 2015
@@ -1541,13 +1142,6 @@ Released: 19 June 2015
 
 - [Steam - The Long Dark Sandbox Alpha -- HOTFIX to v.244](http://steamcommunity.com/games/305620/announcements/detail/233407377996717555)
 
-<!-- #section_24 -->
-​
-
-<!-- #0.243 -->
-​
-
-<!-- #0243 -->
 ### 0.243
 
 Released: 16 June 2015
@@ -1568,13 +1162,6 @@ Released: 16 June 2015
 
 - [Steam - The Long Dark - The Long Dark Sandbox Update: We've Added Full Controller Support!](http://steamcommunity.com/games/305620/announcements/detail/233406786358759990)
 
-<!-- #section_25 -->
-​
-
-<!-- #0.236 -->
-​
-
-<!-- #0236 -->
 ### 0.236
 
 Released: 27 May 2015
@@ -1590,13 +1177,6 @@ Released: 27 May 2015
 
 - [Steam - The Long Dark - HOTFIX to v.236 -- Audio, Repair, Saplings, Crash Fixes!](http://steamcommunity.com/games/305620/announcements/detail/235657109041114422)
 
-<!-- #section_26 -->
-​
-
-<!-- #0.235 -->
-​
-
-<!-- #0235 -->
 ### 0.235
 
 Released: 23 May 2015
@@ -1608,13 +1188,6 @@ Released: 23 May 2015
 
 - [Steam - The Long Dark - HOTFIX to v.235 - Fix for Repair Bug, Missing Containers, Audio Crash](http://steamcommunity.com/games/305620/announcements/detail/235656499658908087)
 
-<!-- #section_27 -->
-​
-
-<!-- #0.234 -->
-​
-
-<!-- #0234 -->
 ### 0.234
 
 Released: 22 May 2015
@@ -1628,22 +1201,6 @@ Released: 22 May 2015
 
 - [Steam - The Long Dark - HOTFIX to v.234: Fix for crash](http://steamcommunity.com/games/305620/announcements/detail/235656499655331481)
 
-<!-- #silent_hunter_update -->
-​
-
-<!-- #0.233_(Silent_Hunter_Update) -->
-​
-
-<!-- #0.233_(silent_hunter_update) -->
-​
-
-<!-- #0.233_(silent_Hunter_Update) -->
-​
-
-<!-- #0.233 -->
-​
-
-<!-- #0233-silent-hunter-update -->
 ### 0.233 (Silent Hunter Update)
 
 Released: 22 May 2015
@@ -1687,13 +1244,6 @@ Released: 22 May 2015
 
 - [Steam - The Long Dark - The "Silent Hunter" Update (v.233) -- We've Added Bows &amp; Improved Hunting!](http://steamcommunity.com/games/305620/announcements/detail/235656499654813808)
 
-<!-- #section_28 -->
-​
-
-<!-- #0.228 -->
-​
-
-<!-- #0228 -->
 ### 0.228
 
 Released: 29 April 2015
@@ -1710,13 +1260,6 @@ We've just hotfixed The Long Dark Sandbox to v.228, to address a few bugs.
 
 - [Steam - The Long Dark - HOTFIX to v.228 -- Additional Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/234528665970283642)
 
-<!-- #section_29 -->
-​
-
-<!-- #0.227 -->
-​
-
-<!-- #0227 -->
 ### 0.227
 
 Released: 25 April 2015
@@ -1734,13 +1277,6 @@ We've just hotfixed The Long Dark Sandbox to v.227 to address some bugs introduc
 
 - [Steam - The Long Dark - HOTFIX v.227 -- General Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/234528063093662356)
 
-<!-- #section_30 -->
-​
-
-<!-- #0.226 -->
-​
-
-<!-- #0226 -->
 ### 0.226
 
 Released: 24 April 2015
@@ -1770,13 +1306,6 @@ We have just updated The Long Dark Sandbox to v.226. This update introduces majo
 
 - [Steam - The Long Dark - New: The Long Dark Now Runs on Unity 5! (Updated to v.226)](http://steamcommunity.com/games/305620/announcements/detail/234528063089314274)
 
-<!-- #section_31 -->
-​
-
-<!-- #0.218 -->
-​
-
-<!-- #0218 -->
 ### 0.218
 
 Released: 9 April 2015
@@ -1789,13 +1318,6 @@ Hello! We've just updated The Long Dark's Sandbox to v.218, to address a few bug
 
 - [Steam - The Long Dark - HOTFIX! The Long Dark Sandbox Updated to v.218](http://steamcommunity.com/games/305620/announcements/detail/234526842606341106)
 
-<!-- #section_32 -->
-​
-
-<!-- #0.217 -->
-​
-
-<!-- #0217 -->
 ### 0.217
 
 Released: 7 April 2015
@@ -1811,13 +1333,6 @@ Hello! We have just updated The Long Dark's Sandbox to v.217, to address some bu
 
 - [Steam - The Long Dark - HOTFIX! The Long Dark Sandbox Updated to v.217](http://steamcommunity.com/games/305620/announcements/detail/234526162478674523)
 
-<!-- #section_33 -->
-​
-
-<!-- #0.215 -->
-​
-
-<!-- #0215 -->
 ### 0.215
 
 Released: 3 April 2015
@@ -1831,13 +1346,6 @@ Hello! We've just updated The Long Dark Sandbox to v.215, fixing the following b
 
 - [Steam - The Long Dark - HOTFIX! The Long Dark Sandbox Updated to v.215](http://steamcommunity.com/games/305620/announcements/detail/234526162463641678)
 
-<!-- #section_34 -->
-​
-
-<!-- #0.214 -->
-​
-
-<!-- #0214 -->
 ### 0.214
 
 Released: 2 April 2015
@@ -1851,13 +1359,6 @@ We've just released another quick update to address a couple of bugs. Thanks for
 
 - [Steam - The Long Dark - HOTFIX! The Long Dark Sandbox Updated to v.214](http://steamcommunity.com/games/305620/announcements/detail/234526162460011080)
 
-<!-- #section_35 -->
-​
-
-<!-- #0.213 -->
-​
-
-<!-- #0213 -->
 ### 0.213
 
 Released: 1 April 2015
@@ -1871,13 +1372,6 @@ We fixed a few bugs introduced in today's v.212 update. Thanks for helping us fi
 
 - [Steam - The Long Dark - HOTFIX! The Long Dark Sandbox Updated to v.213](http://steamcommunity.com/games/305620/announcements/detail/234526162457234393)
 
-<!-- #section_36 -->
-​
-
-<!-- #0.212 -->
-​
-
-<!-- #0212 -->
 ### 0.212
 
 Released: 1 April 2015
@@ -1928,13 +1422,6 @@ Released: 1 April 2015
 
 - [Steam - The Long Dark - NEW! The Long Dark Sandbox Update #35 to v.212 Now Live!](http://steamcommunity.com/games/305620/announcements/detail/234526123004900919)
 
-<!-- #section_37 -->
-​
-
-<!-- #0.200 -->
-​
-
-<!-- #0200 -->
 ### 0.200
 
 Released: 17 February 2015
@@ -1948,13 +1435,6 @@ We've just hotfixed The Long Dark Sandbox to v.200.
 
 - [Steam - The Long Dark - Hotfix v.200 -- Fix for Crash Due to Low Memory (PC), UI Crash](http://steamcommunity.com/games/305620/announcements/detail/218759127674326203)
 
-<!-- #section_38 -->
-​
-
-<!-- #0.199 -->
-​
-
-<!-- #0199 -->
 ### 0.199
 
 Released: 13 February 2015
@@ -1964,13 +1444,6 @@ Released: 13 February 2015
 - [Steam - The Long Dark - HOTFIX: v.197, v.198, &amp; v.199 -- Optimization, Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/218759127663603163)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
-<!-- #section_39 -->
-​
-
-<!-- #0.198 -->
-​
-
-<!-- #0198 -->
 ### 0.198
 
 Released: 13 February 2015
@@ -1986,13 +1459,6 @@ Released: 13 February 2015
 - [Steam - The Long Dark - HOTFIX: v.197, v.198, &amp; v.199 -- Optimization, Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/218759127663603163)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
-<!-- #section_40 -->
-​
-
-<!-- #0.197 -->
-​
-
-<!-- #0197 -->
 ### 0.197
 
 Released: 13 February 2015
@@ -2002,13 +1468,6 @@ Released: 13 February 2015
 - [Steam - The Long Dark - HOTFIX: v.197, v.198, &amp; v.199 -- Optimization, Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/218759127663603163)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
-<!-- #section_41 -->
-​
-
-<!-- #0.196 -->
-​
-
-<!-- #0196 -->
 ### 0.196
 
 Released: 12 February 2015
@@ -2031,13 +1490,6 @@ Note: This update will not interfere with current Game Saves.
 
 - [Steam - The Long Dark - HOTFIX to v.196 -- Crash Fix, More Optimization, Harvestable Cat Tails, Coastal Wolf Population](http://steamcommunity.com/games/305620/announcements/detail/218759127657305553)
 
-<!-- #section_42 -->
-​
-
-<!-- #0.193 -->
-​
-
-<!-- #0193 -->
 ### 0.193
 
 Released: 10 February 2015
@@ -2059,13 +1511,6 @@ We've just hotfixed The Long Dark Sandbox to v.193. Changes below.
 
 - [Steam - The Long Dark - HOTFIX v.193 -- Optimization, AI fixes, Tuning](http://steamcommunity.com/games/305620/announcements/detail/217632592970403967)
 
-<!-- #section_43 -->
-​
-
-<!-- #0.192 -->
-​
-
-<!-- #0192 -->
 ### 0.192
 
 Released: 7 February 2015
@@ -2137,13 +1582,6 @@ The Long Dark -- Sandbox Alpha -- v.192 Changelist
 
 - [Steam - The Long Dark - NEW! The Long Dark Sandbox Update Now Live! (v.192): New Region, New Wildlife, Harvestable Plants, and More!](http://steamcommunity.com/games/305620/announcements/detail/217632592959182000)
 
-<!-- #section_44 -->
-​
-
-<!-- #0.183 -->
-​
-
-<!-- #0183 -->
 ### 0.183
 
 Released: 18 December 2014
@@ -2167,13 +1605,6 @@ v.183 Changelist
 
 - [Steam - The Long Dark - HOTFIX: v.183 -- General Bug Fixing](http://steamcommunity.com/games/305620/announcements/detail/228887153614504833)
 
-<!-- #section_45 -->
-​
-
-<!-- #0.182 -->
-​
-
-<!-- #0182 -->
 ### 0.182
 
 Released: 17 December 2014
@@ -2192,13 +1623,6 @@ Changelist for v.182 Hotfix
 
 - [Steam - The Long Dark - HOTFIX: v.182 -- General Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/228886520391745688)
 
-<!-- #section_46 -->
-​
-
-<!-- #0.181 -->
-​
-
-<!-- #0181 -->
 ### 0.181
 
 Released: 17 December 2014
@@ -2257,13 +1681,6 @@ _NOTE: All gameplay tuning is WIP. Balance issues and bugs will be addressed in 
 
 - [Steam - The Long Dark - NEW! Sandbox Alpha Update v.181 - Experience Modes, German &amp; Russian, Craftable Clothing, Hot Drinks!](http://steamcommunity.com/games/305620/announcements/detail/228886520353695750)
 
-<!-- #section_47 -->
-​
-
-<!-- #0.170 -->
-​
-
-<!-- #0170 -->
 ### 0.170
 
 Released: 3 December 2014
@@ -2295,13 +1712,6 @@ Released: 3 December 2014
 
 - [Steam - The Long Dark - Hotfix v170 -- Fixes to Struggle UI, Food Poisoning, Weak Ice, and General Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/226633361587723251)
 
-<!-- #section_48 -->
-​
-
-<!-- #0.166 -->
-​
-
-<!-- #0166 -->
 ### 0.166
 
 Released: 29 November 2014
@@ -2327,13 +1737,6 @@ Released: 29 November 2014
 
 - [Steam - The Long Dark - HOTFIX v.166 -- Gameplay Tuning &amp; Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/226633361112863152)
 
-<!-- #section_49 -->
-​
-
-<!-- #0.164 -->
-​
-
-<!-- #0164 -->
 ### 0.164
 
 Released: 27 November 2014
@@ -2343,13 +1746,6 @@ Released: 27 November 2014
 
 - [Steam - The Long Dark - HOTFIX! Sandbox Alpha Update v.164 -- Fix to Wolf Over-Spawning Issue](http://steamcommunity.com/games/305620/announcements/detail/226633360888150919)
 
-<!-- #section_50 -->
-​
-
-<!-- #0.163 -->
-​
-
-<!-- #0163 -->
 ### 0.163
 
 Released: 27 November 2014
@@ -2418,13 +1814,6 @@ Gameplay tuning and game balance is always a Work in Progress. That's part of wh
 
 - [Steam - The Long Dark - NEW! Sandbox Alpha v.163 -- Major Gameplay Update!](http://steamcommunity.com/games/305620/announcements/detail/226633360860235633)
 
-<!-- #section_51 -->
-​
-
-<!-- #0.154 -->
-​
-
-<!-- #0154 -->
 ### 0.154
 
 Released: 31 October 2014
@@ -2450,13 +1839,6 @@ Released: 31 October 2014
 
 - [Steam - The Long Dark - HOTFIX! Alpha Sandbox v.154 -- Balance Update!](http://steamcommunity.com/games/305620/announcements/detail/225505017368162289)
 
-<!-- #section_52 -->
-​
-
-<!-- #0.153 -->
-​
-
-<!-- #0153 -->
 ### 0.153
 
 Released: 30 October 2014
@@ -2470,13 +1852,6 @@ Note that saves from v.152 should still work after the v.153 update.
 
 - [Steam - The Long Dark - HOTFIX! Alpha Sandbox v.153](http://steamcommunity.com/games/305620/announcements/detail/225505017267197565)
 
-<!-- #section_53 -->
-​
-
-<!-- #0.152 -->
-​
-
-<!-- #0152 -->
 ### 0.152
 
 Released: 30 October 2014
@@ -2541,13 +1916,6 @@ Game tuning around the new region is WIP and will be constantly modified based o
 
 - [Steam - The Long Dark - NEW! "Coastal Highway" Region More Than Doubles The Long Dark's Sandbox!](http://steamcommunity.com/games/305620/announcements/detail/225505017232410012)
 
-<!-- #section_54 -->
-​
-
-<!-- #0.138 -->
-​
-
-<!-- #0138 -->
 ### 0.138
 
 Released: 4 October 2014
@@ -2558,13 +1926,6 @@ Released: 4 October 2014
 
 - [Steam - The Long Dark - Sandbox Alpha HOTFIX: v.138](http://steamcommunity.com/games/305620/announcements/detail/225502475229095884)
 
-<!-- #section_55 -->
-​
-
-<!-- #0.137 -->
-​
-
-<!-- #0137 -->
 ### 0.137
 
 Released: 3 October 2014
@@ -2577,13 +1938,6 @@ Released: 3 October 2014
 
 - [Steam - The Long Dark - Sandbox Alpha HOTFIX: v.137](http://steamcommunity.com/games/305620/announcements/detail/225502475145891592)
 
-<!-- #section_56 -->
-​
-
-<!-- #0.136 -->
-​
-
-<!-- #0136 -->
 ### 0.136
 
 Released: 2 October 2014
@@ -2613,13 +1967,6 @@ Released: 2 October 2014
 
 - [Steam - The Long Dark - Sandbox Alpha Update -- v.136: Performance Improvements, Exploits Fixed, Gameplay Tuning](http://steamcommunity.com/games/305620/announcements/detail/225502475058722270)
 
-<!-- #section_57 -->
-​
-
-<!-- #0.127 -->
-​
-
-<!-- #0127 -->
 ### 0.127
 
 Released: 27 September 2014
@@ -2647,13 +1994,6 @@ Released: 27 September 2014
 
 - [Steam - The Long Dark - Sandbox Alpha Update v.127 - Major Gameplay Update](http://steamcommunity.com/games/305620/announcements/detail/225501838968982052)
 
-<!-- #section_58 -->
-​
-
-<!-- #0.125 -->
-​
-
-<!-- #0125 -->
 ### 0.125
 
 Released: 26 September 2014
@@ -2670,13 +2010,6 @@ Apologies for any inconvenience, and thanks for your support.
 
 - [Steam - The Long Dark - Sandbox Alpha Update v.125](http://steamcommunity.com/games/305620/announcements/detail/225501838875606585)
 
-<!-- #section_59 -->
-​
-
-<!-- #0.124 -->
-​
-
-<!-- #0124 -->
 ### 0.124
 
 Released: 26 September 2014
@@ -2697,13 +2030,6 @@ tld.exe -force-d3d9
 
 - [Steam - The Long Dark - Sandbox Alpha Update v.124](http://steamcommunity.com/games/305620/announcements/detail/225501838844828672)
 
-<!-- #section_60 -->
-​
-
-<!-- #0.122 -->
-​
-
-<!-- #0122 -->
 ### 0.122
 
 Released: 25 September 2014
@@ -2730,22 +2056,6 @@ Released: 25 September 2014
 
 - [Steam - The Long Dark - Sandbox Alpha Update v.122](http://steamcommunity.com/games/305620/announcements/detail/225501838789453090)
 
-<!-- #early_access_launch_update -->
-​
-
-<!-- #0.119_(Early_Access_Launch_Update) -->
-​
-
-<!-- #0.119_(early_access_launch_update) -->
-​
-
-<!-- #0.119_(early_Access_Launch_Update) -->
-​
-
-<!-- #0.119 -->
-​
-
-<!-- #0119-early-access-launch-update -->
 ### 0.119 (Early Access Launch Update)
 
 Released: 23 September 2014
@@ -2757,13 +2067,6 @@ Released: 23 September 2014
 - [Steam - The Long Dark - The Long Dark Launches on Early Access; Sandbox Alpha Update v.117 + v.118/v.119 Hotfixes](http://steamcommunity.com/games/305620/announcements/detail/225501228602994079)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
-<!-- #section_61 -->
-​
-
-<!-- #0.118 -->
-​
-
-<!-- #0118 -->
 ### 0.118
 
 Released: 23 September 2014
@@ -2775,13 +2078,6 @@ Released: 23 September 2014
 - [Steam - The Long Dark - The Long Dark Launches on Early Access; Sandbox Alpha Update v.117 + v.118/v.119 Hotfixes](http://steamcommunity.com/games/305620/announcements/detail/225501228602994079)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
-<!-- #section_62 -->
-​
-
-<!-- #0.117 -->
-​
-
-<!-- #0117 -->
 ### 0.117
 
 Released: 22 September 2014
@@ -2823,13 +2119,6 @@ Released: 22 September 2014
 - [Steam - The Long Dark - The Long Dark Launches on Early Access; Sandbox Alpha Update v.117 + v.118/v.119 Hotfixes](http://steamcommunity.com/games/305620/announcements/detail/225501228602994079)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
-<!-- #section_63 -->
-​
-
-<!-- #0.107 -->
-​
-
-<!-- #0107 -->
 ### 0.107
 
 Released: 5 September 2014
@@ -2870,13 +2159,6 @@ For information on what was added/changed in v.10x, please refer to the Changeli
 
 - [Steam - The Long Dark -- Sandbox Alpha Updated to v.107](http://steamcommunity.com/games/305620/announcements/detail/225499936421435352)
 
-<!-- #section_64 -->
-​
-
-<!-- #0.106 -->
-​
-
-<!-- #0106 -->
 ### 0.106
 
 Released: 5 September 2014
@@ -2890,13 +2172,6 @@ Released: 5 September 2014
 
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
-<!-- #section_65 -->
-​
-
-<!-- #0.105 -->
-​
-
-<!-- #0105 -->
 ### 0.105
 
 Released: 5 September 2014
@@ -2908,13 +2183,6 @@ Released: 5 September 2014
 
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
-<!-- #section_66 -->
-​
-
-<!-- #0.104 -->
-​
-
-<!-- #0104 -->
 ### 0.104
 
 Released: 5 September 2014
@@ -2923,13 +2191,6 @@ Released: 5 September 2014
 
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
-<!-- #section_67 -->
-​
-
-<!-- #0.103 -->
-​
-
-<!-- #0103 -->
 ### 0.103
 
 Released: 5 September 2014
@@ -2940,13 +2201,6 @@ Released: 5 September 2014
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/890-sandbox-alpha-updated-to-v103-changelist/)
 
-<!-- #section_68 -->
-​
-
-<!-- #0.097 -->
-​
-
-<!-- #0097 -->
 ### 0.097
 
 Released: 29 August 2014
@@ -2957,13 +2211,6 @@ Released: 29 August 2014
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/844-alpha-sandbox-updated-to-v097/)
 
-<!-- #section_69 -->
-​
-
-<!-- #0.096 -->
-​
-
-<!-- #0096 -->
 ### 0.096
 
 Released: 27 August 2014
@@ -2974,13 +2221,6 @@ Released: 27 August 2014
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/826-alpha-sandbox-updated-to-v096/)
 
-<!-- #section_70 -->
-​
-
-<!-- #0.095 -->
-​
-
-<!-- #0095 -->
 ### 0.095
 
 Released: 25 August 2014
@@ -2990,13 +2230,6 @@ Released: 25 August 2014
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/810-alpha-sandbox-updated-to-v095/)
 
-<!-- #section_71 -->
-​
-
-<!-- #0.094 -->
-​
-
-<!-- #0094 -->
 ### 0.094
 
 Released: 22 August 2014
@@ -3007,13 +2240,6 @@ Released: 22 August 2014
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/752-new-update-alpha-sandbox-v094-released-for-pc-and-mac/)
 
-<!-- #section_72 -->
-​
-
-<!-- #0.083 -->
-​
-
-<!-- #0083 -->
 ### 0.083
 
 Released: 13 August 2014
@@ -3023,13 +2249,6 @@ Released: 13 August 2014
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/695-new-update-alpha-sandbox-v083-released-for-pc-and-mac/)
 
-<!-- #section_73 -->
-​
-
-<!-- #0.077 -->
-​
-
-<!-- #0077 -->
 ### 0.077
 
 Released: 9 August 2014
@@ -3039,13 +2258,6 @@ Released: 9 August 2014
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/665-alpha-sandbox-updated-to-v077/)
 
-<!-- #section_74 -->
-​
-
-<!-- #0.076 -->
-​
-
-<!-- #0076 -->
 ### 0.076
 
 Released: 5 August 2014
@@ -3054,13 +2266,6 @@ Released: 5 August 2014
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/636-alpha-sandbox-updated-to-v076/)
 
-<!-- #section_75 -->
-​
-
-<!-- #0.075 -->
-​
-
-<!-- #0075 -->
 ### 0.075
 
 Released: 4 August 2014
@@ -3072,13 +2277,6 @@ Released: 4 August 2014
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/627-alpha-sandbox-updated-to-v075/)
 
-<!-- #section_76 -->
-​
-
-<!-- #0.074 -->
-​
-
-<!-- #0074 -->
 ### 0.074
 
 Released: 1 August 2014
@@ -3087,13 +2285,6 @@ Released: 1 August 2014
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/611-alpha-sandbox-updated-to-v074/)
 
-<!-- #section_77 -->
-​
-
-<!-- #0.073 -->
-​
-
-<!-- #0073 -->
 ### 0.073
 
 Released: 31 July 2014
@@ -3104,5 +2295,3 @@ Released: 31 July 2014
   - F9 now takes a debug screenshot, which loads up the debug HUD info for the screenshot, then reverts the HUD to whatever mode it was previously in. (Used for bug-fixing purposes.)
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/597-new-update-alpha-sandbox-v073-released-for-pc-and-mac/)
-
-[ru:Архив\_обновлений](https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%B2_%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9)

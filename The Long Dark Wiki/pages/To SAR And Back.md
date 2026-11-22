@@ -18,16 +18,12 @@ Episode
 
 **Region:** [Railway](./Railway.md)
 
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md)<br>[Mathis](./Mathis.md)<br>[Jane Yang](./Jane%20Yang.md)<br>[Donner](./Donner.md)<br>[Heller](./Heller.md)<br>[Vachon](./Vachon.md)<br>[Jeremiah](./Jeremiah.md)<br>[Molly](./Molly.md)
+**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Mathis](./Mathis.md) [Jane Yang](./Jane%20Yang.md) [Donner](./Donner.md) [Heller](./Heller.md) [Vachon](./Vachon.md) [Jeremiah](./Jeremiah.md) [Molly](./Molly.md)
 
 > “**Save Donner to save the townsfolk.**”
 
 **To SAR And Back** is the only mission of Part Three: Do No Harm in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Retrieve the Trauma Kit
@@ -38,10 +34,6 @@ Episode
   - Get the Firebox to temperature.
 - Return to Mathis with Trauma Kit.
 
-<!-- #Walkthrough -->
-​
-
-<!-- #walkthrough -->
 ## Walkthrough
 
 After the cutscene and talk about the locomotive, climb the locomotive and examine it's dashboard. You need to find the throttle lever.

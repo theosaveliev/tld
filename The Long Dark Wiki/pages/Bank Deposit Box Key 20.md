@@ -30,16 +30,6 @@
 
 It is located behind [Orca Gas Station](./Orca%20Gas%20Station.md) in a blue pickup truck parked on the trail leading to the climbing area. The truck is next to two port-a-potties.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

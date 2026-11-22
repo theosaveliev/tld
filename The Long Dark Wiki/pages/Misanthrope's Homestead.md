@@ -43,10 +43,6 @@ Has an interior
 
 **Misanthrope's Homestead** is a two-story house on a small island in [Coastal Highway](./Coastal%20Highway.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Misanthrope's Homestead can be reached by traversing over the frozen ice. The house has ample loot including processed [foods](./Food%20And%20Drink.md), clothing, and other useful supplies.
@@ -59,26 +55,14 @@ For players that have the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Ra
 
 As of the Part 6 Broken Silence update, a Pier is now found behind the island containing a [Trade Drop Box](./Trade%20Drop%20Box.md), which can be used to trade with the [Trader](./Trader.md).
 
-<!-- #Safehouse -->
-​
-
-<!-- #safehouse -->
 ## Safehouse
 
 Due to the island's proximity to Sutherland's Trade Drop Box, the two story house on the island has become a popular [safehouse](./Safehouse.md) in the region. The house is sufficiently spacious to accommodate [custom furniture](./Safehouse%20Customization.md) and has excellent hunting, fishing, and [beachcombing](./Beachcombing.md) nearby. Furthermore, the [radio](./Radio.md) in the [Quonset Garage](./Quonset%20Garage.md) is a short walk away. While it does not have a built in [workbench](./Work%20Bench.md), one of the benches from the Quonset can easily be disassembled and rebuilt here. One of the few weaknesses is the lack of an indoor fireplace.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 [Sutherland](./Sutherland%27s%20Tale.md) lived here before the [First Flare](./First%20Flare.md), at which point he embarked onto his sailboat, never to set foot on Great Bear again. He will bring up that his father, his brother Wyatt, and he himself once lived in the home. Sutherland mentions that he has no desire to go back to his home and that the survivor can do with the property as they please.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![A view of the island.](../assets/Misanthrope%27s_Homestead_distant.jpg)

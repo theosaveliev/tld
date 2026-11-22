@@ -16,10 +16,6 @@ Region
 
 **Type:** Cave
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Not much to say... quite bare landscape in the surrounding, the cave at least offer a warmer place than sleep outside.

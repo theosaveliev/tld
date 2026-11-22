@@ -4,10 +4,6 @@
 
 **Ice caves** are interior locations mainly found in the [Hushed River Valley](./Hushed%20River%20Valley.md) region. Another ice cave connects [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) with [Keeper's Pass South](./Keeper%27s%20Pass%20South.md), and a small ice cave can be found in [Pleasant Valley](./Pleasant%20Valley.md), located in the back of the cave at [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Ice caves have small patches of bio-luminescent moss along some of the walls. Ice caves act as interior environments (i.e., there is a loading screen when entering and leaving a cave) and are typically warm enough to prevent even a poorly clothed character from freezing. When inside an ice cave, near-constant creaking, presumably from the shifting of the ice, can be heard.
@@ -18,10 +14,6 @@ There are two ice cave systems in the Hushed River Valley region, each with mult
 
 Just like normal caves, lumps of [coal](./Coal.md) may occasionally be found lying on the ground, except in the small ice cave at Misty Falls.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Ice Caves were added to the game as part of the Vigilant Flame update released for PC on 14 June 2018 and for XBOX on 15 June 2018
@@ -29,10 +21,6 @@ Just like normal caves, lumps of [coal](./Coal.md) may occasionally be found lyi
 - The ambient temperature of most ice caves is above freezing (0+ °C and 32+ °F).
 - A [wolf](./Wolf.md) can spawn in the cave without the waterfalls. Be careful, since it may not spawn initially. Once dealt with, it will respawn.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Map IceCave wtM 100](../assets/Map-IceCave-wtM-100.png)

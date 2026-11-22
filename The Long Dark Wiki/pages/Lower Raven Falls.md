@@ -16,10 +16,6 @@
 
 **Type:** Outdoors
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 It is located a short walk to the north-west of the [Cabin](./Cabin.md). There are plenty of [Cat tails](./Cat%20Tail.md) on the river, and [Deer](./Deer.md) may spawn there too, making it a convenient hunting ground for players living in the nearby cabin. Hunting here is made safer by there being fewer [timberwolves](./Timberwolf.md) than in most other parts of the map.

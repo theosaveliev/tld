@@ -18,16 +18,12 @@ Episode
 
 **Region:** [Blackrock Foothills](./Blackrock%20Foothills.md) [Suzuki Environs](./Suzuki%20Environs.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jace](./Jace.md)<br>[Atwood](./Atwood.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jace](./Jace.md) [Atwood](./Atwood.md)
 
 > “**Find Atwood.**”
 
 **The Cold, Broken Road** is the first mission of Part Two: Strange History in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Find a way to the Suzuki Radio Telescope.

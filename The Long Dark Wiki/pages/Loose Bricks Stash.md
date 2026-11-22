@@ -8,10 +8,6 @@
 
 **Loose Bricks Stash** are a unique type of container only found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 These containers can be found inside stocked [Prepper Caches](./Prepper%20Cache.md), and are only accessible if the player accepts the Special Request required to loot these stashes (otherwise they cannot be interacted with).
@@ -20,10 +16,6 @@ These containers can be found inside stocked [Prepper Caches](./Prepper%20Cache.
 
 _There's still a Known Issue with Sutherland's Tale where there is a chance the Loose Brick Stash in the Hunter Prepper Cache does not spawn. If this is the case the Document Stash 2 can be found at the Special Request 4 location (Joplin's Prepper Cache)._
 
-<!-- #Loot -->
-​
-
-<!-- #loot -->
 ## Loot
 
 Stockpile Cache (1st cache)

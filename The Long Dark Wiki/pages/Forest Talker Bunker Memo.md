@@ -36,26 +36,12 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Forest Talker Bunker Memo_ from in the [Rural Store](./Rural%20Store.md) of [Thomson's Crossing](./Thomson%27s%20Crossing.md) on Green and Capable Survivor difficulty. On Hardened Survivor, the note is found in a backpack next to a corpse at the [Derelict Cabins](./Derelict%20Cabins.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Forest Talker Bunker Memo**_
 
 This old guy has struck off who knows where. But there's bound to be some gear left behind. Anyway we're out of options. -- M.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

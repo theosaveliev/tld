@@ -10,26 +10,12 @@
 
 **Face the Impossible** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Guide -->
-​
-
-<!-- #guide -->
 ## Guide
 
 This achievement is obtained after you have survived a whole day on [Interloper](./Interloper.md) Experience mode in [Survival Mode](./Survival%20Mode.md).
 
 The easiest way to unlock this achievement is to find a [Bed](./Bed.md) indoors and simply stay put while sleep/pass time until 1 day passes. For players intending on surviving for longer periods of time, a guide to Interloper can be found [Here](./Survival%20Mode%20%E2%80%94%20Interloper%20Tips.md).
 
-<!-- #general_tips -->
-​
-
-<!-- #General_Tips -->
-​
-
-<!-- #General_tips -->
-​
-
-<!-- #general-tips -->
 ### General Tips
 
 - Try to find an indoors location as fast as possible, the cold weather will kill you in a few minutes/hours.

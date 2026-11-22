@@ -13,71 +13,30 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**Tales** are narrative-based objectives in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC for [Survival Mode](./Survival%20Mode.md).<br>They are not to be confused with the short, self-contained [Challenge](./Challenge.md) scenarios that can be selected in the Survival menu.<br>Triggering a Tale within Survival Mode will cause a new submenu in the [Survival Menu](./Survival%20Menu.md) to appear (flag shaped tab). Similar to the mission objectives menu in [Wintermute](./Wintermute.md), this menu keeps track of all current tasks related to a Tale.<br>During the Course of the update, a total of 3 Tales were added to the game. A bonus 4th Tale was added in Part 6, but has its own method to track objectives.<br>As of update V2.27, all Tales become active and can be completed out of order once the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) is acquired in a playthrough, as long that Tale has been previously completed on another playthrough and its associated Badge is acquired. This requires each Tale to be completed in the original order at least once first, with the exception of [Sutherland's Tale](./Sutherland%27s%20Tale.md), which does not require the Handheld Shortwave Radio to be acquired, and can be started as soon as sufficient Trust is earned with [Sutherland](./Trader.md).
+**Tales** are narrative-based objectives in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC for [Survival Mode](./Survival%20Mode.md). They are not to be confused with the short, self-contained [Challenge](./Challenge.md) scenarios that can be selected in the Survival menu. Triggering a Tale within Survival Mode will cause a new submenu in the [Survival Menu](./Survival%20Menu.md) to appear (flag shaped tab). Similar to the mission objectives menu in [Wintermute](./Wintermute.md), this menu keeps track of all current tasks related to a Tale. During the Course of the update, a total of 3 Tales were added to the game. A bonus 4th Tale was added in Part 6, but has its own method to track objectives. As of update V2.27, all Tales become active and can be completed out of order once the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) is acquired in a playthrough, as long that Tale has been previously completed on another playthrough and its associated Badge is acquired. This requires each Tale to be completed in the original order at least once first, with the exception of [Sutherland's Tale](./Sutherland%27s%20Tale.md), which does not require the Handheld Shortwave Radio to be acquired, and can be started as soon as sufficient Trust is earned with [Sutherland](./Trader.md).
 
-<!-- #signal_void -->
-​
+## List of Tales
 
-<!-- #Signal_Void -->
-​
-
-<!-- #Signal_void -->
-​
-
-<!-- #signal-void -->
 ### [Signal Void](./Signal%20Void.md)
 
 > “**Track down the mysterious radio transmissions across Great Bear Island.**”
 
 Repair [Transmitters](./Transmitters.md) and use your newly acquired [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) in order to track down mysterious radio transmissions and buried supply caches across Great Bear Island, and possibly uncover something more sinister along the way.
 
-<!-- #buried_echoes -->
-​
-
-<!-- #Buried_Echoes -->
-​
-
-<!-- #Buried_echoes -->
-​
-
-<!-- #buried-echoes -->
 ### [Buried Echoes](./Buried%20Echoes.md)
 
 > “**Search the Langston mine for remnants of Rüdiger and his project.**”
 
 Continue investigating the mysterious events surrounding Dr. Rüdiger and his mysterious project in the abandoned Langston Mine complex in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 
-<!-- #last_horizon -->
-​
-
-<!-- #Last_Horizon -->
-​
-
-<!-- #Last_horizon -->
-​
-
-<!-- #last-horizon -->
 ### [Last Horizon](./Last%20Horizon.md)
 
 > “**Enter Sundered Pass to look for evidence of Rüdiger's escape.**”
 
 Dr. Rüdiger escaped from the Langston Mine, track down where he could have gone in the nearby [Sundered Pass](./Sundered%20Pass.md).
 
-<!-- #sutherlands_tale -->
-​
-
-<!-- #Sutherland's_Tale -->
-​
-
-<!-- #sutherland's_tale -->
-​
-
-<!-- #Sutherland's_tale -->
-​
-
-<!-- #sutherlands-tale -->
 ### [Sutherland's Tale](./Sutherland%27s%20Tale.md)
 
 > “**We all get to to tell our own stories, right? This is mine.**”
@@ -86,10 +45,6 @@ Dr. Rüdiger escaped from the Langston Mine, track down where he could have gone
 
 A radio crackles to life one night and a mysterious voice fills the air. This is the first time you've heard another living soul since your plane crashed. Who could he be?
 
-<!-- #Notes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 - Completing a Tale will unlock a unique [Badge](./Badges.md) per Tale. Completing all 3 Tales will unlock 2 unique [Feats](./Feats.md).

@@ -16,10 +16,6 @@
 
 **Type:** Cave
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Forest Cave lies just north-north-west of [Pensive Pond](./Pensive%20Pond.md) and west-south-west of [Picnic Spot](./Picnic%20Spot.md). A [Green Maple Sapling](./Green%20Maple%20Sapling.md) and possibly a [Frozen Corpse](./Frozen%20Corpse.md) can be found just west of the cave.

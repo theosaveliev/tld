@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-6%
 
-**Harvest:** 2 × [Cloth](./Cloth.md)<br>90 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md) 90 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md)<br>90 minutes<br>40% condition
+**Repair:** 2 × [Cloth](./Cloth.md) 90 minutes 40% condition
 
 > “**Heavy wool coat designed for seafaring types. Not the warmest coat out there, but close to it. Does a good job of blocking the wind but gets very heavy when wet. Stylish.**”
 >
@@ -36,18 +36,10 @@
 
 The **Mariner's Pea Coat** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The mariner's pea coat is a high tier clothing item with good [warmth](./Warmth.md) and protection values but its drawback is its heavy weight and high expense to maintain.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Mariner%27s_pea_coat_%28historical%29.png)
@@ -56,16 +48,6 @@ The mariner's pea coat is a high tier clothing item with good [warmth](./Warmth.
 
 ![Clothing model icon damaged](../assets/Mariner%27s_Pea_Coat_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

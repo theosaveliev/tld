@@ -25,7 +25,7 @@
 
 **Stackable:** No
 
-**Examine:** Freshly harvested rabbit pelt.<br>Can be used for crafting and repairs after air-drying indoors for 3 days.
+**Examine:** Freshly harvested rabbit pelt. Can be used for crafting and repairs after air-drying indoors for 3 days.
 
 **Values**
 
@@ -33,50 +33,22 @@
 
 **Fresh Rabbit Pelt** is the raw hide of a [Rabbit](./Rabbit.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Rabbitskin Hats](./Rabbitskin%20Hat.md) and [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) once they have [Cured](./Curing.md) into a [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Fresh Rabbit Pelts are acquired by harvesting a [Rabbit Carcass](./Rabbit%20Carcass.md). They can then be cured by leaving them indoors for 3 days (in-game). Fresh Rabbit Pelts [Decay](./Decay.md) at a rate of 6.667 Condition a day (Stalker difficulty) and will decay into Ruined status if not left to cure indoors. The current curing status can be checked by hovering your reticle over the item, where it will display a "X% Cured" progress. This increases until the item is 100% cured, where the item will automatically become fully cured, will change to a darker texture, and is ready for crafting use. Completely cured items never decay.
 
 Rabbit Pelts are acquired by [Trapping](./Trapping.md), stunning Rabbits with a [Stone](./Stone.md), or shooting a Rabbit. Each Rabbit Carcass will have one pelt, along with [meat](./Rabbit%20%28Raw%29.md) and [Fresh Guts](./Fresh%20Gut.md).
 
-<!-- #drop_sources -->
-​
-
-<!-- #Drop_sources -->
-​
-
-<!-- #Drop_Sources -->
-​
-
-<!-- #drop-sources -->
 ## Drop sources
 
 | Source | Quantity | Rarity |
 | --- | --- | --- |
 | [Rabbit](./Rabbit.md) | 1 | Always |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Rabbit_pelt.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**
@@ -84,5 +56,3 @@ Rabbit Pelts are acquired by [Trapping](./Trapping.md), stunning Rabbits with a 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212)):**
   - Rabbit Pelt is now used to repair Rabbitskin Mitts.
   - Added to game.
-
-[ru:Свежая шкура кролика](https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D0%B6%D0%B0%D1%8F_%D1%88%D0%BA%D1%83%D1%80%D0%B0_%D0%BA%D1%80%D0%BE%D0%BB%D0%B8%D0%BA%D0%B0)

@@ -32,32 +32,12 @@
 
 **Cave** could refer to:
 
-<!-- #general_caves -->
-​
-
-<!-- #General_Caves -->
-​
-
-<!-- #General_caves -->
-​
-
-<!-- #general-caves -->
 ## General Caves
 
 - [Warm Cave](./Warm%20Cave.md), caves that are outdoors but still warm the player.
 - [Ice Cave](./Ice%20Cave.md), caves with bioluminescent moss and smoothed ice walls found in [Hushed River Valley](./Hushed%20River%20Valley.md).
 - [Cave (Transition zone)](./Cave%20%28Transition%20Zone%29.md), caves that serve as transitions between a number of regions in the game.
 
-<!-- #ash_canyon -->
-​
-
-<!-- #Ash_Canyon -->
-​
-
-<!-- #Ash_canyon -->
-​
-
-<!-- #ash-canyon -->
 ## Ash Canyon
 
 - [Cave (Ash Canyon location)](./Cave%20%28Ash%20Canyon%20location%29.md), a large, explorable cave connecting [Long Falls](./Long%20Falls.md) to [Miner's Folly](./Miner%27s%20Folly.md).
@@ -70,10 +50,6 @@
 - The **cave** halfway between [High Meadow](./High%20Meadow.md) and [Miner's Folly](./Miner%27s%20Folly.md).
 - The two **caves** northwest of [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md).
 
-<!-- #Blackrock -->
-​
-
-<!-- #blackrock -->
 ## Blackrock
 
 - [Cliff Cave](./Cliff%20Cave.md)
@@ -84,16 +60,6 @@
 - [Wedge Cave](./Wedge%20Cave.md)
 - 4 unnamed caves throughout the region
 
-<!-- #bleak_inlet -->
-​
-
-<!-- #Bleak_Inlet -->
-​
-
-<!-- #Bleak_inlet -->
-​
-
-<!-- #bleak-inlet -->
 ## Bleak Inlet
 
 - Two small **caves**, located east and west of [Frozen Delta](./Frozen%20Delta.md), respectively.
@@ -101,105 +67,35 @@
 - A **cave** located north-northeast of [Pensive Lookout](./Pensive%20Lookout.md).
 - Bear cave east of [Cannery Worker Residences](./Cannery%20Worker%20Residences.md).
 
-<!-- #broken_railroad -->
-​
-
-<!-- #Broken_Railroad -->
-​
-
-<!-- #Broken_railroad -->
-​
-
-<!-- #broken-railroad -->
 ## Broken Railroad
 
 - The **cave** located southwest of [Hunter's Blind](./Hunter%27s%20Blind.md).
 - A **cave** located about halfway between [Rickety Foot Bridge](./Rickety%20Foot%20Bridge.md) and [Hunting Lodge](./Hunting%20Lodge.md).
 
-<!-- #coastal_highway -->
-​
-
-<!-- #Coastal_Highway -->
-​
-
-<!-- #Coastal_highway -->
-​
-
-<!-- #coastal-highway -->
 ## Coastal Highway
 
 - The **cave** just south of [Abandoned Lookout](./Abandoned%20Lookout.md).
 
-<!-- #crumbling_highway -->
-​
-
-<!-- #Crumbling_Highway -->
-​
-
-<!-- #Crumbling_highway -->
-​
-
-<!-- #crumbling-highway -->
 ## Crumbling Highway
 
 - Cave near [The Arch (Old Island Connector location)](./The%20Arch%20%28Old%20Island%20Connector%20location%29.md).
 - Cave near [Road Collapse](./Road%20Collapse.md).
 
-<!-- #desolation_point -->
-​
-
-<!-- #Desolation_Point -->
-​
-
-<!-- #Desolation_point -->
-​
-
-<!-- #desolation-point -->
 ## Desolation Point
 
 - Bear Cave near [Broken Bridge (Desolation Point location)](./Broken%20Bridge%20%28Desolation%20Point%20location%29.md)
 - [Cave (Desolation Point location)](./Cave%20%28Desolation%20Point%20location%29.md), a large, explorable cave near the north of [Desolation Point](./Desolation%20Point.md)
 
-<!-- #far_range_branch_line -->
-​
-
-<!-- #Far_Range_Branch_Line -->
-​
-
-<!-- #Far_range_branch_line -->
-​
-
-<!-- #far-range-branch-line -->
 ## Far Range Branch Line
 
 - [Remnant Cave](./Remnant%20Cave.md)
 
-<!-- #forlorn_muskeg -->
-​
-
-<!-- #Forlorn_Muskeg -->
-​
-
-<!-- #Forlorn_muskeg -->
-​
-
-<!-- #forlorn-muskeg -->
 ## Forlorn Muskeg
 
 - A large, explorable **cave** connecting the [Waterfall](./Waterfall.md) to [Marsh Ridge](./Marsh%20Ridge.md).
 - A small **cave** due east of [Shortwave Tower](./Shortwave%20Tower.md).
 - Two small **caves** located east and west of the [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md), along the southern cliff.
 
-<!-- #forsaken_airfield -->
-​
-
-<!-- #Forsaken_Airfield -->
-​
-
-<!-- #Forsaken_airfield -->
-​
-
-<!-- #forsaken-airfield -->
 ## Forsaken Airfield
 
 - [Archie's Crawlspace](./Archie%27s%20Crawlspace.md)
@@ -213,16 +109,6 @@
 - Cave east of [Sudden Washout](./Sudden%20Washout.md)
 - Cave northwest of [Justy's Hovel](./Justy%27s%20Hovel.md)
 
-<!-- #mountain_town -->
-​
-
-<!-- #Mountain_Town -->
-​
-
-<!-- #Mountain_town -->
-​
-
-<!-- #mountain-town -->
 ## Mountain Town
 
 - An explorable **cave** running from [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) to [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md).
@@ -234,16 +120,6 @@
 - A small **cave** located halfway between the [Picnic Area](./Picnic%20Area.md) and the transition cave connecting Mountain Town to Mystery Lake.
 - A small **cave** between the two ropes connecting [Milton Basin](./Milton%20Basin.md) to [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md).
 
-<!-- #mystery_lake -->
-​
-
-<!-- #Mystery_Lake -->
-​
-
-<!-- #Mystery_lake -->
-​
-
-<!-- #mystery-lake -->
 ## Mystery Lake
 
 - [Alan's Cave](./Alan%27s%20Cave.md), a cave on the eastern side of Mystery Lake
@@ -252,16 +128,6 @@
 - The **cave** north of the [Lake Cabins](./Lake%20Cabins.md).
 - The **cave** south of the [Rail Tunnel](./Rail%20Tunnel.md).
 
-<!-- #hushed_river_valley -->
-​
-
-<!-- #Hushed_River_Valley -->
-​
-
-<!-- #Hushed_river_valley -->
-​
-
-<!-- #hushed-river-valley -->
 ## Hushed River Valley
 
 - The [ice cave network](./Ice%20Cave.md) connecting key parts of the region.
@@ -275,16 +141,6 @@
 - [Lake Cave](./Lake%20Cave.md), a small cave located next to [Watchful Falls](./Watchful%20Falls.md).
 - [Peak Cave](./Peak%20Cave.md), a small cave located near the highest point in the region, southeast of [Monolith Lake](./Monolith%20Lake.md).
 
-<!-- #pleasant_valley -->
-​
-
-<!-- #Pleasant_Valley -->
-​
-
-<!-- #Pleasant_valley -->
-​
-
-<!-- #pleasant-valley -->
 ## Pleasant Valley
 
 - [Hilltop Cave](./Hilltop%20Cave.md), a small cave in the south-east side of Pleasant Valley
@@ -296,32 +152,12 @@
 - The **cave** just east of [Upper Falls](./Upper%20Falls.md).
 - The **cave** southeast of the mining road.
 
-<!-- #the_ravine -->
-​
-
-<!-- #The_Ravine -->
-​
-
-<!-- #The_ravine -->
-​
-
-<!-- #the-ravine -->
 ## The Ravine
 
 - 1 cave in the middle of the map above [Ravine Basin](./Ravine%20Basin.md)
 - 1 cave past the bottom of the Ravine Basin
 - 1 cave west of Ravine Basin
 
-<!-- #timberwolf_mountain -->
-​
-
-<!-- #Timberwolf_Mountain -->
-​
-
-<!-- #Timberwolf_mountain -->
-​
-
-<!-- #timberwolf-mountain -->
 ## Timberwolf Mountain
 
 - [Cave (Timberwolf Mountain location 1)](./Cave%20%28Timberwolf%20Mountain%20location%201%29.md), an explorable cave in [Timberwolf Mountain](./Timberwolf%20Mountain.md)
@@ -338,30 +174,10 @@
 - The **cave** halfway between the fallen tree bridge over [Echo Ravine](./Echo%20Ravine.md) and [Deer Clearing](./Deer%20Clearing.md)
 - The **cave** on the level below the [Summit](./Summit.md) of Timberwolf Mountain.
 
-<!-- #transfer_pass -->
-​
-
-<!-- #Transfer_Pass -->
-​
-
-<!-- #Transfer_pass -->
-​
-
-<!-- #transfer-pass -->
 ## Transfer Pass
 
 - [Feedwater Cave](./Feedwater%20Cave.md)
 
-<!-- #sundered_pass -->
-​
-
-<!-- #Sundered_Pass -->
-​
-
-<!-- #Sundered_pass -->
-​
-
-<!-- #sundered-pass -->
 ## Sundered Pass
 
 - [Bolt Chopper's Haven](./Bolt%20Chopper%27s%20Haven.md)
@@ -371,33 +187,10 @@
 - **Cave system** with 4 entry points connecting [Idle Hideout](./Idle%20Hideout.md), [Prayerful Window](./Prayerful%20Window.md), and [Cascading Gap](./Cascading%20Gap.md).
 - [Abandoned Mine](./Abandoned%20Mine.md) with 2 cave entrances.
 
-<!-- #winding_river -->
-​
-
-<!-- #Winding_River -->
-​
-
-<!-- #Winding_river -->
-​
-
-<!-- #winding-river -->
 ## Winding River
 
 - 1 cave near at northwest portion of the map
 
-<!-- #zone_of_contamination -->
-​
-
-<!-- #Zone_of_Contamination -->
-​
-
-<!-- #Zone_of_contamination -->
-​
-
-<!-- #Zone_Of_Contamination -->
-​
-
-<!-- #zone-of-contamination -->
 ## Zone of Contamination
 
 - [Welkin's Window](./Welkin%27s%20Window.md)

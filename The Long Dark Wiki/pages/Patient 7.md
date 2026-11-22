@@ -26,24 +26,10 @@
 
 Patient 7 is the codename given to one of the patients treated by the [Project Medical Officer](./Project%20Medical%20Officer.md) after the incident with [Rüdiger's Machine](./R%C3%BCdiger%27s%20Machine.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Presumably one of the mine workers in [Langston Mine](./Langston%20Mine.md), Patient 7 is a side character from the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) storyline in [Survival Mode](./Survival%20Mode.md).
 
-<!-- #signal_void -->
-​
-
-<!-- #Signal_Void -->
-​
-
-<!-- #Signal_void -->
-​
-
-<!-- #signal-void -->
 ## Signal Void
 
 After turning on the machine, several people involved or close to the project, including [The Foreman](./The%20Foreman.md), [The Security Chief](./The%20Security%20Chief.md), and the mine workers, started developing symptoms of mental deterioration. Because of that, [Dr. Rüdiger](./Dr.%20R%C3%BCdiger.md) had a medical officer flown in to evaluate the patients.
@@ -60,10 +46,6 @@ Even with the efforts of the Doctor, we can witness the mental deterioration of 
 
 The whereabouts of Patient 7, or if he's even alive or dead, are unknown.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - We can infer that he's the patient being recorded in [Interview Transcript 17](./Interview%20Transcript%2017.md), although it's unclear

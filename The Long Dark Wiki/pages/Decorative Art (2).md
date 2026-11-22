@@ -18,20 +18,12 @@
 
 The **Decorative Art** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A small, octagonal portrait of scraped together wood painted and shaped in the image of a mountain backdrop, Decorative Art can be crafted anywhere by the player, but requires [Woodworking Tools](./Woodworking%20Tools.md).
 
 Once crafted, the item is automatically placed into the player's inventory. It can only be placed on walls when in Customization Mode. It can later be picked up and placed back into the player's inventory or destroyed (yielding no resources).
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Decorative Art (2)**

@@ -19,26 +19,12 @@
 
 **Misery** is 5th and most challenging [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_. Misery was added on June 24th, 2024 as part of the Part 5 update of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion. It is the standard "impossible" difficulty, being almost on the same level of difficulty as [Interloper](./Interloper.md), but with more handicaps to make survival even harder.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Misery features an extremely cold world with limited loot, abundant hostile wildlife and unique and permanent [Afflictions](./Afflictions.md) that appear after surviving long enough. Misery was developed by [Hinterland Studio](./Hinterland%20Studio%20Inc..md) to instill a sense of apocalyptic hopelessness and to recreate a punishing game mode akin to the initial release of Interloper in 2016. This mode was made specifically to keep players from surviving for very long.
 
 Misery is an extremely hard difficulty mode, even for the most hardcore of _The Long Dark_ players. The average life expectancy is around 20-40 days.
 
-<!-- #misery_settings -->
-​
-
-<!-- #Misery_Settings -->
-​
-
-<!-- #Misery_settings -->
-​
-
-<!-- #misery-settings -->
 ## Misery Settings
 
 - No [Feats](./Feats.md) are permitted (Feat progress is allowed)
@@ -68,19 +54,6 @@ Misery is an extremely hard difficulty mode, even for the most hardcore of _The 
 - Struggle Progress: Very Low.
 - [Beachcombing](./Beachcombing.md) Modifier: 0.5 (half the normal loot than Interloper)
 
-<!-- #stages_of_misery -->
-​
-
-<!-- #5_Stages_of_Misery -->
-​
-
-<!-- #5_stages_of_misery -->
-​
-
-<!-- #5_Stages_Of_Misery -->
-​
-
-<!-- #5-stages-of-misery -->
 ## 5 Stages of Misery
 
 Over time at fixed intervals, the survivor will be [Afflicted](./Afflictions.md) with the 5 Stages of Misery, permanent conditions unique to Misery Mode making survival increasingly challenging.
@@ -100,10 +73,6 @@ Note that [Research Books](./Research%20Book.md) can still be studied even with 
 - Stage 5: Ruin
   - 46 days survived: [Broken Body](./Broken%20Body.md)
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Hinterland designed Misery as an _"apocalyptic challenge even for the really hardcore players"_ who are able to survive for hundreds of days on Interloper mode.
@@ -112,27 +81,11 @@ Note that [Research Books](./Research%20Book.md) can still be studied even with 
 - During the Misery Mode beta, "Diminished Form" was named "Weak Constitution" with the [Status](./Survival%20Overlay.md) icon for [Broken Ribs](./Broken%20Ribs.md). Its text read: _"Weak Constitution: Caused by Misery. Weak Constitution Placeholder Description -Reduced stamina bar -Reduced carry capacity -Struggle wolf flee less likely to occur"_
 - During the Misery Mode beta, all Misery Mode affliction prevented the reading of Research Books: _"You're not healthy enough to focus on research"_, similar to non-Misery afflictions. This was removed before release.
 
-<!-- #Achievements -->
-​
-
-<!-- #achievements -->
 ## Achievements
 
 - ![Broken Body (Achievement) icon](../assets/Broken_Body_%28Achievement%29_icon.png) [Broken Body (Achievement)](./Broken%20Body%20%28Achievement%29.md)
 
-<!-- #game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #game-history -->
 ## Game History
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added to game.
-
-[ru:Страдания](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)

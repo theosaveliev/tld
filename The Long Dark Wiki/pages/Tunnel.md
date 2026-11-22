@@ -36,10 +36,6 @@ Description
 
 Has no shelter **Tunnel** is a set of 2 locations in [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 There are two tunnels in this region that are considered named locations. One is to the semi-mid west, and the other to the semi-mid east. There is nothing remarkable about them, as they eventually converge to the [Criss Cross](./Criss%20Cross.md) location.

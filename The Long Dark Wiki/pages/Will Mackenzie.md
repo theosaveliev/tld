@@ -22,9 +22,9 @@
 
 **Date:** 1 August 2017
 
-**Wintermute:** **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)<br>**•** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)<br>**•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) Episode 5
+**Wintermute:** **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) **•** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) **•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) Episode 5
 
-**Mission:** **•** [Memories](./Memories.md)<br>**•** [The Crash](./The%20Crash.md)<br>**•** [The Grey Mother](./The%20Grey%20Mother.md)<br>**•** [Paradise Lost](./Paradise%20Lost.md)<br>**•** [The Wounded Trapper](./The%20Wounded%20Trapper.md)<br>**•** [The Best Defense](./The%20Best%20Defense.md)<br>**•** [Signal to Noise](./Signal%20to%20Noise.md)<br>**•** [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)<br>**•** [Renewed Hope](./Renewed%20Hope.md)<br>**•** [Prologue](./Prologue.md)<br>**•** [Blackrock Blues](./Blackrock%20Blues.md)<br>**•** [The Power Plant](./The%20Power%20Plant.md)<br>**•** [The Detonators](./The%20Detonators.md)<br>**•** [Donner (mission)](./Donner%20%28mission%29.md)
+**Mission:** **•** [Memories](./Memories.md) **•** [The Crash](./The%20Crash.md) **•** [The Grey Mother](./The%20Grey%20Mother.md) **•** [Paradise Lost](./Paradise%20Lost.md) **•** [The Wounded Trapper](./The%20Wounded%20Trapper.md) **•** [The Best Defense](./The%20Best%20Defense.md) **•** [Signal to Noise](./Signal%20to%20Noise.md) **•** [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) **•** [Renewed Hope](./Renewed%20Hope.md) **•** [Prologue](./Prologue.md) **•** [Blackrock Blues](./Blackrock%20Blues.md) **•** [The Power Plant](./The%20Power%20Plant.md) **•** [The Detonators](./The%20Detonators.md) **•** [Donner (mission)](./Donner%20%28mission%29.md)
 
 **Biographical Information**
 
@@ -34,7 +34,7 @@
 
 **Hometown:** Black Creek, BC, Canada.
 
-**Relatives:** **•** [Astrid Greenwood](./Astrid%20Greenwood.md) (Ex-Wife)<br>**•** Jack (Son) - Deceased Unnamed Father - Deceased
+**Relatives:** **•** [Astrid Greenwood](./Astrid%20Greenwood.md) (Ex-Wife) **•** Jack (Son) - Deceased Unnamed Father - Deceased
 
 **Occupation:** Bush Pilot
 
@@ -60,39 +60,20 @@ After a tense conversation between Will and Astrid about a shared, traumatizing 
 
 Stranded far from the closest human civilization while being lost, wounded and alone, Mackenzie must quickly master basic wilderness survival skills if he's to last long enough to find Astrid and understand how his world has just changed forever.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Will Mackenzie was a bush pilot prior to the "First Flare" event, a geomagnetic disaster that brought modern civilization to its knees.
 
 Players experience [Story mode](./Wintermute.md) through both [Astrid Greenwood](./Astrid%20Greenwood.md)'s and Will's point of view.
 
-<!-- #Description -->
-​
-
-<!-- #description -->
 ## Description
 
 Will has short, brown hair and blue eyes. He also sports a relatively unkept beard and a faded red toque. He wears a light green sweater underneath an orange and blue parka, he has greyish black pants and brown leather boots.
 
-<!-- #Background -->
-​
-
-<!-- #background -->
 ## Background
 
 Through the course of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), we learn that Mackenzie was married to [Astrid Greenwood](./Astrid%20Greenwood.md). The two separated some time ago, but both still wear their wedding rings. It is implied that they had a child together who passed away. His drinking is a source of disagreement; Astrid implies that it is excessive while Mackenzie himself states that it is under control.
 
-<!-- #episode_1 -->
-​
-
-<!-- #Episode_1 -->
-​
-
-<!-- #episode-1 -->
 ## Episode 1
 
 After waking up and recovering from the plane crash a day after the First Flare occurred, Mackenzie makes his way out of the ravine he was stuck in, looking for Astrid along the way. He finds his way to a road leading him to the Town of Milton.
@@ -113,13 +94,6 @@ Upon returning, she tells him the story of how her daughter died. Grey Mother gi
 
 Mackenzie bids farewell to Grey Mother and leaves Milton through the back mountains. His rope snaps on the way down, but he recovers and continues on to a cave. Upon entering and going through the cave he finds his way to [Mystery Lake](./Mystery%20Lake%20%28region%29.md), where he encounters [Jeremiah](./Jeremiah.md), the old Trapper, being attacked by the Old Bear. He grabs the Trapper's rifle and fires at the Old Bear, ending the episode.
 
-<!-- #episode_2 -->
-​
-
-<!-- #Episode_2 -->
-​
-
-<!-- #episode-2 -->
 ## Episode 2
 
 After helping Jeremiah to his cabin and healing him up. Mackenzie awaits the Old Trapper's awakening. After Jeremiah wakes up, he tells Mackenzie to go search for better medication at the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md).
@@ -144,13 +118,6 @@ When Mackenzie reaches the Dam when the Aurora in the sky he encounters [Methuse
 
 He leaves Methuselah behind and enters the Dam. He makes his way through the Dam into the back room where he is hit on the head and knocked out. He awakens to find [Mathis](./Mathis.md) standing there, he begins to interrogate and punch Mackenzie, questioning him about Astrid's locked case. Mackenzie responds with some snarky comments just before Mathis reveals he may have encountered Astrid. After responding with desperation, Mathis picks up a hatchet and knocks him out. Ending Episode 2.
 
-<!-- #episode_4 -->
-​
-
-<!-- #Episode_4 -->
-​
-
-<!-- #episode-4 -->
 ## Episode 4
 
 At the start of [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md), Will awakens on a stretcher being carried by two convicts, [Heller](./Heller.md) and [Vachon](./Vachon.md). Led by [Mathis](./Mathis.md), the gang makes their way to [Blackrock Prison](./Blackrock%20Prison.md) before being ambushed by [timber wolves.](./Timberwolf.md) During the scuffle, Will falls down a cliff, and manages to escape the convicts temporarily, before being caught by Mathis to end the [prologue](./Prologue.md).
@@ -163,10 +130,6 @@ The [third chapter](./The%20Detonators.md) begins yet again in Will's cell, with
 
 The [final chapter](./Donner.md) of the episode begins with [Franklin's](./Franklin.md) corpse being wheeled past Will's cell, as [Mathis](./Mathis.md) reveals that Franklin told him everything that Will had done and how [Jace](./Jace.md) had guided him the entire way. Before Mathis can execute Will, however, the detonators set the dynamite off prematurely, engulfing much of the prison in flames. Will escapes his cell, and Jace blocks Mathis from getting to Will via manipulating the prison doors, as an [Aurora](./Aurora.md) has provided temporary electricity to the prison again. Will then runs through the prison, retrieves the [hardcase](./Astrid%27s%20Hardcase.md) from the warden's office, and escapes into [the steam tunnels](./The%20Power%20Plant.md) from earlier. He then meets with Jace at the power plant, before they are cornered by Mathis and his gang. After a struggle with Mathis, Will and Jace dive into the river running through the plant, and wash ashore downstream. Will offers to start a fire to warm the half-frozen Jace before the episode ends.
 
-<!-- #Belongings -->
-​
-
-<!-- #belongings -->
 ## Belongings
 
 - ![Mackenzie's Toque icon](../assets/Mackenzie%27s_Toque_icon.png) [Mackenzie's Toque](./Mackenzie%27s%20Toque.md)
@@ -176,10 +139,6 @@ The [final chapter](./Donner.md) of the episode begins with [Franklin's](./Frank
 - ![Mackenzie's Pants icon](../assets/Mackenzie%27s_Pants_icon.png) [Mackenzie's Pants](./Mackenzie%27s%20Pants.md)
 - ![Mackenzie's Boots icon](../assets/Mackenzie%27s_Boots_icon.png) [Mackenzie's Boots](./Mackenzie%27s%20Boots.md)
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Steam Trading Card](../assets/William_Mackenzie_Steam_Card_Preview.png)
@@ -202,10 +161,6 @@ The [final chapter](./Donner.md) of the episode begins with [Franklin's](./Frank
 
 ![Will Mackenzie's paperdoll (Wintermute clothes are on 100% condition)](../assets/Will_Mackenzie_haha.png)
 
-<!-- #Notes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 - Will Mackenzie is voiced by [Mark Meer](https://en.wikipedia.org/wiki/Mark_Meer). Meer's most notable voice work include [Commander Shepard](https://masseffect.fandom.com/wiki/Commander_Shepard) (male) in the _[Mass Effect](https://masseffect.fandom.com/wiki/Category:Games)_ series.

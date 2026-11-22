@@ -36,10 +36,6 @@ Residential|-
 
 Has a workbench|-
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Coastal Townsite has several buildings, including the [Quonset Gas Station](./Quonset%20Garage.md) in the middle of the town. This is a good place to stock up on supplies, including (possibly) some important tools such as the [hacksaw](./Hacksaw.md).
@@ -50,10 +46,6 @@ Cars are usually parked near the houses, and loot can be found in the trunks (ma
 
 In addition to a relatively large number of wolves often patrolling the area, a [bear](./Bear.md) and a [moose](./Moose.md) may also wander by, so caution outdoors is almost always advisable.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Coastal townsite 1](../assets/Coastal_townsite_1.jpg)

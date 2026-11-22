@@ -34,20 +34,12 @@
 
 A **Cup of Acorn Coffee** is a brewed drink in The Long Dark, made from [Acorn Grounds](./Acorn%20Grounds.md), which in turn are made out of [Cooked Acorns](./Acorns%20%28Cooked%29.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 It can be thought of as a weaker version of the [commercial coffee](./Tin%20of%20Coffee.md) found in the game. Drinking a [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) will help to reduce fatigue usage. "[Fatigue Reduced](./Fatigue%20Reduced.md)" lasts 30 minutes and while in effect, the player's fatigue is immediately restored by 5% and fatigue loss rate is reduced by 25%. Sprinting will also use 25% less energy. Fatigue Reduced does not affect the fatigue loss rate when climbing ropes.
 
 Acorn Coffee is a non-renewable resource.
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 **Cup of Acorn Coffee**
@@ -62,19 +54,7 @@ Acorn Coffee is a non-renewable resource.
 
 **Quantity:** 1
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
-
-[ru:Чашка желудевого кофе](https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D1%88%D0%BA%D0%B0_%D0%B6%D0%B5%D0%BB%D1%83%D0%B4%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D1%84%D0%B5)

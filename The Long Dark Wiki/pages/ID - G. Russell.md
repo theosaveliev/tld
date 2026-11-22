@@ -34,16 +34,6 @@ During the course of the mission, Astrid finds the ID after finding [Gwen](./Cha
 
 The ID disappears when Gwen is returned to the [Community Hall](./Community%20Hall.md) and placed on a bed.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 \* UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

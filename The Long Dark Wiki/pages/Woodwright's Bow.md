@@ -31,7 +31,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Stackable:** No
 
-**Examine:** Crafted at a master's Work Bench. Every shape and angle reflects a careful and knowing touch.<br>A more durable and agile Survival Bow.
+**Examine:** Crafted at a master's Work Bench. Every shape and angle reflects a careful and knowing touch. A more durable and agile Survival Bow.
 
 **Values**
 
@@ -49,39 +49,18 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Woodwright's Bow** is a unique variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Woodwright's bow is a hand-carved hardwood bow with a red cloth wrapped handle, red stripes painted on the tips, and a metal arrow rest. It functions like the normal Survival Bow, but has double durability, less sway, and the downside of weighing an additional 0.25 kg more than its Survival counterpart.
 
 Like other bows, the Woodwright's Bow cannot be repaired.
 
-<!-- #differences_from_survival_bow -->
-​
-
-<!-- #Differences_from_Survival_Bow -->
-​
-
-<!-- #Differences_from_survival_bow -->
-​
-
-<!-- #Differences_From_Survival_Bow -->
-​
-
-<!-- #differences-from-survival-bow -->
 ## Differences from Survival Bow
 
 - Base weight is 0.25kg more than the Survival Bow
 - Sway is 30% less than Survival Bow
 - Total durability is 100% more than Survival Bow (uses 1%-0.5% condition per shot based on [archery skill](./Archery.md))
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 The bow will spawn a single time per world at 100% condition in one of several random [Hushed River Valley](./Hushed%20River%20Valley.md) locations including:
@@ -91,20 +70,12 @@ The bow will spawn a single time per world at 100% condition in one of several r
 - Next to a frozen corpse to the west of [Valley View Point](./Valley%20View%20Point.md) on the small pond south of [Hushed River](./Hushed%20River.md).
 - Just outside the ice cave under a rock overhang, at the top of [Long Shot Falls](./Long%20Shot%20Falls.md).
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - The Woodright's bow will not spawn on [Interloper](./Interloper.md) or [Misery](./Misery.md) difficulty.
 - At base archery skill the bow can fire a total of 85 times before the risk of breaking starts at the 15% condition threshold.
 - At Archery skill level 4 and above, the survivor can fire the Woodright's bow a total of 170 times before reaching the 15% condition breaking threshold at which the bow will have the chance to break with each shot; starting at a 4% break chance at 12% condition, and increasing to 16% break chance at 9% condition, then to 64% break chance at 3% condition. Because only one spawns per world, it may be wise to attain archery skill level 4 or above before using it to get the most potential shots out of the bow.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The Woodright's bow as seen in the survivors hands.](../assets/Woodrights_bow_holding.png)
@@ -119,16 +90,6 @@ The bow will spawn a single time per world at 100% condition in one of several r
 
 ![Woodwrights bow in-game ground model](../assets/Woodwrights_Bow_Dropped.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**

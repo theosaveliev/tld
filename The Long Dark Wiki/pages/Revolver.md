@@ -59,10 +59,6 @@ _This article is about the normal revolver. For variants, see [Hunter's Revolver
 
 The **Revolver** is a double-action weapon with a six-round cylinder used primarily for self-defense against hostile wildlife. The [Revolver Firearm](./Revolver%20Firearm.md) Skill is improved when a living animal is hit, or by reading the [Research Book](./Research%20Book.md) _Small Arms Handbook._
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Revolver is the second firearm added to [_The Long Dark_](./The%20Long%20Dark.md), and unlike its counterparts the [Hunting Rifle](./Hunting%20Rifle.md) and the [Survival Bow](./Survival%20Bow.md), it is less than ideal for hunting with limited damage, range, and accuracy.
@@ -83,10 +79,8 @@ Although the Revolver can be used to kill any [Wildlife](./Wildlife.md), it is l
 - Spent casings are not immediately ejected, but contained in the cylinder until the next reload, when they will then be dropped on the ground
 - Unloading the Revolver from the Inventory menu places spent and unspent rounds directly into the Inventory
 
-<!-- #Loading -->
-​
+## Mechanics
 
-<!-- #loading -->
 ### Loading
 
 The Revolver holds 1-6 rounds, each of which must be loaded individually. It is possible to unload a Revolver through the Actions menu in the inventory.
@@ -95,65 +89,30 @@ Firing a Revolver will leave a [Revolver Shell Casing](./Revolver%20Shell%20Casi
 
 Manually unloading the gun in the player's Backpack will automatically place casings in your inventory. Spent casings still within the chamber do not add to the gun's weight. Some Revolvers can be found with live ammo and casings already inside though there is currently no way to identify if casings are inside a gun until it is unloaded.
 
-<!-- #Aiming -->
-​
-
-<!-- #aiming -->
 ### Aiming
 
 The default action of the Revolver is a hipfire. Aiming using the gun's sight improves accuracy but disables walking. Aiming is also improved as Revolver Firearm Skill improves. Aiming at a hostile wolf will cause it to immediately charge.
 
 Sway with the Revolver is lower than that of the Hunting Rifle, but increases if some [Needs](./Needs.md) are low ([Fatigued](./Fatigue.md) or Freezing), making aiming more difficult.
 
-<!-- #Jamming -->
-​
-
-<!-- #jamming -->
 ### Jamming
 
 The Revolver will begin jamming under the 30% condition threshold, then it has the chance to improperly fire the next cartridge. Attempting to fire will result in a misfire jam. To clear the jam, the cylinder must be opened manually by pressing the reload button/key. Doing so will eject the unspent live cartridge onto the ground near the player, from where it can be picked up and used again. Unloading and reloading the Revolver in the player's backpack will also clear the jam without dropping any ammo.
 
 Low quality Ammunition created from [Gunsmithing](./Gunsmithing.md) can also cause a misfire, even if the gun is in relatively good condition.
 
-<!-- #jamming_chances -->
-​
-
-<!-- #Jamming_Chances -->
-​
-
-<!-- #Jamming_chances -->
-​
-
-<!-- #jamming-chances -->
 ### Jamming Chances
 
 | Condition | 30% | 25% | 20% | 15% | 10% | 5% | 1% | 0% |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Jamming Chance | 0% | 2.5% | 5% | 7.5% | 10% | 12.5% | 14.5% | 15% |
 
-<!-- #Cleaning -->
-​
-
-<!-- #cleaning -->
 ### Cleaning
 
 Firing a Revolver degrades it's condition by 1%, and 0.5% if the player has a level 5 revolver firearm skill. Non-ruined Revolvers may be repaired with a [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md), which will increase the [Cleaning Skill](./Cleaning.md), or repaired at a [Milling Machine](./Milling%20Machine.md) during an active [Aurora](./Aurora.md) for 1 [Scrap Metal](./Scrap%20Metal.md), increasing [Gunsmithing Skill](./Gunsmithing.md).
 
 At 0% Condition, the Revolver will become "Ruined" and cannot be fired. Ruined Revolvers can be repaired for use again at a Milling Machine for 4 [Scrap Metal](./Scrap%20Metal.md), 1 [Fir Firewood](./Fir%20Firewood.md), and takes 4 hours.
 
-<!-- #use_in_struggle -->
-​
-
-<!-- #Use_in_Struggle -->
-​
-
-<!-- #Use_in_struggle -->
-​
-
-<!-- #Use_In_Struggle -->
-​
-
-<!-- #use-in-struggle -->
 ### Use in Struggle
 
 Revolvers may be selected for self-defense during a struggle with a Wolf. If selected at the Struggle's start, the butt of the revolver will be used to strike the Wolf.
@@ -162,10 +121,6 @@ At half the struggle bar the option to "Take a shot" will appear during a strugg
 
 - Note: a single non-fatal shot fired at a _charging_ wolf will usually not deter it, but multiple have a high chance of a kill as the head of the wolf is the most exposed, making critical hits (headshots) easier. A charging wolf will often flee if several shots are fired in quick succession, even if said shots miss.
 
-<!-- #Variants -->
-​
-
-<!-- #variants -->
 ## Variants
 
 The revolver has 3 variants, each having distinct differences from the base revolver.
@@ -174,47 +129,19 @@ The revolver has 3 variants, each having distinct differences from the base revo
 - [Hunter's Revolver](./Hunter%27s%20Revolver.md) - Longer effective firing range, but heavier
 - [Warden's Revolver](./Warden%27s%20Revolver.md) - Lighter and faster, but shorter effective firing range
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 The Revolver may spawn in any of following locations in all survival modes except Interloper. It is possible for more than one revolver to spawn in any given game.
 
-<!-- #ash_canyon -->
-​
-
-<!-- #Ash_Canyon -->
-​
-
-<!-- #Ash_canyon -->
-​
-
-<!-- #ash-canyon -->
 ### **[Ash Canyon](./Ash%20Canyon.md)**
 
 - [Homesteader's Respite](./Homesteader%27s%20Respite.md), on a table next to the armchair
 - Next to a corpse at the [Mining Camp](./Mining%20Camp.md), along the frozen stream heading east
 
-<!-- #Blackrock -->
-​
-
-<!-- #blackrock -->
 ### **[Blackrock](./Blackrock.md)**
 
 - In Cellblock 3 at [Blackrock Prison](./Blackrock%20Prison.md) building, in the room where the went exits, behind the big grey piece of machinery in one of the outcoves.
 
-<!-- #bleak_inlet -->
-​
-
-<!-- #Bleak_Inlet -->
-​
-
-<!-- #Bleak_inlet -->
-​
-
-<!-- #bleak-inlet -->
 ### **[Bleak Inlet](./Bleak%20Inlet.md)**
 
 - Cannery Workshop, under the locker
@@ -224,16 +151,6 @@ The Revolver may spawn in any of following locations in all survival modes excep
 - Ice fishing hut, in a plastic container
 - Cannery, inside the [Safe](./Safe.md)
 
-<!-- #broken_railroad -->
-​
-
-<!-- #Broken_Railroad -->
-​
-
-<!-- #Broken_railroad -->
-​
-
-<!-- #broken-railroad -->
 ### **[Broken Railroad](./Broken%20Railroad.md)**
 
 - On a metal shelf in the basement of the [Hunting Lodge](./Hunting%20Lodge.md)
@@ -242,16 +159,6 @@ The Revolver may spawn in any of following locations in all survival modes excep
 - In the sheltered office attached to the [Maintenance Yard](./Maintenance%20Yard.md) in a flower pot
 - Next to a corpse located near the Maintenance Yard bathroom adjacent to the forge
 
-<!-- #coastal_highway -->
-​
-
-<!-- #Coastal_Highway -->
-​
-
-<!-- #Coastal_highway -->
-​
-
-<!-- #coastal-highway -->
 ### **[Coastal Highway](./Coastal%20Highway.md)**
 
 - Behind the counter in [Quonset Gas Station](./Quonset%20Garage.md)
@@ -260,16 +167,6 @@ The Revolver may spawn in any of following locations in all survival modes excep
 - Next to a corpse leaning against a tree on an island between misanthrope's homestead and jackrabbit Island.
 - In the fishing hut in between misanthrope's homestead and jackrabbit Island.
 
-<!-- #desolation_point -->
-​
-
-<!-- #Desolation_Point -->
-​
-
-<!-- #Desolation_point -->
-​
-
-<!-- #desolation-point -->
 ### **[Desolation Point](./Desolation%20Point.md)**
 
 - Under a pillow on the bed in the [Lonely Lighthouse](./Lonely%20Lighthouse.md)
@@ -281,31 +178,11 @@ The Revolver may spawn in any of following locations in all survival modes excep
 - Near the corpse on the snowdrift of the processing hall inside Hibernia Processing
 - On a ledge inside Hibernia Processing access by going the slanted pipe near the red toolbox in the main warehouse.
 
-<!-- #forsaken_airfield -->
-​
-
-<!-- #Forsaken_Airfield -->
-​
-
-<!-- #Forsaken_airfield -->
-​
-
-<!-- #forsaken-airfield -->
 ### **[Forsaken Airfield](./Forsaken%20Airfield.md)**
 
 - Behind the loose boards at [Mindful Cabin](./Mindful%20Cabin.md).
 - On a table in the [Cargomaster's Trailer](./Cargomaster%27s%20Trailer.md)
 
-<!-- #mountain_town -->
-​
-
-<!-- #Mountain_Town -->
-​
-
-<!-- #Mountain_town -->
-​
-
-<!-- #mountain-town -->
 ### **[Mountain Town](./Mountain%20Town.md)**
 
 - Under Grey Mother's bed in the [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md)
@@ -317,16 +194,6 @@ The Revolver may spawn in any of following locations in all survival modes excep
 - Next to a [Frozen Corpse](./Frozen%20Corpse.md) under [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) (post-refresh)
 - Next to a bed in the house on a hill just outside Milton.
 
-<!-- #mystery_lake -->
-​
-
-<!-- #Mystery_Lake -->
-​
-
-<!-- #Mystery_lake -->
-​
-
-<!-- #mystery-lake -->
 ### **[Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)**
 
 - Lower [Dam](./Carter%20Hydro%20Dam.md), on a desk by the turbines, next to a computer
@@ -335,35 +202,15 @@ The Revolver may spawn in any of following locations in all survival modes excep
 - On the table at Trapper's Cabin
 - Next to a dead body in the cave at [Lake Overlook](./Lake%20Overlook.md)
 - Upper [Dam](./Carter%20Hydro%20Dam.md), in the safe
-- Upper Dam, turbine hall<span id="fnref1"></span>[¹](#fn1), under a staircase
+- Upper Dam, turbine hall[^1], under a staircase
 - [Destroyed Lookout](./Destroyed%20Lookout.md), next to a corpse on the stairs
 - In the derailment next to a corpse
 
-<!-- #timberwolf_mountain -->
-​
-
-<!-- #Timberwolf_Mountain -->
-​
-
-<!-- #Timberwolf_mountain -->
-​
-
-<!-- #timberwolf-mountain -->
 ### **[Timberwolf Mountain](./Timberwolf%20Mountain.md)**
 
 - Cave on Summit, next to the dead body
 - Next to a frozen corpse on [Echo Peak West](./Echo%20Peak%20West.md).
 
-<!-- #forlorn_muskeg -->
-​
-
-<!-- #Forlorn_Muskeg -->
-​
-
-<!-- #Forlorn_muskeg -->
-​
-
-<!-- #forlorn-muskeg -->
 ### **[Forlorn Muskeg](./Forlorn%20Muskeg.md)**
 
 - Near the bed above the forge at [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md)
@@ -372,16 +219,6 @@ The Revolver may spawn in any of following locations in all survival modes excep
 - Next to the corpse on the plateau south of [Broken Railroad](./Broken%20Railroad.md) passage
 - Next to a body underneath the bridge leading to the [Bunkhouses](./Bunkhouses.md)
 
-<!-- #pleasant_valley -->
-​
-
-<!-- #Pleasant_Valley -->
-​
-
-<!-- #Pleasant_valley -->
-​
-
-<!-- #pleasant-valley -->
 ### **[Pleasant Valley](./Pleasant%20Valley.md)**
 
 - In the fishing hut on [Pensive Pond](./Pensive%20Pond.md)
@@ -394,26 +231,12 @@ The Revolver may spawn in any of following locations in all survival modes excep
 - In one of the houses at [Rural Crossroads](./Thomson%27s%20Crossing.md) (under a bed)
 - In Story Mode, the revolver is found in the locker the farmstead's basement
 
-<!-- #hushed_river_valley -->
-​
-
-<!-- #Hushed_River_Valley -->
-​
-
-<!-- #Hushed_river_valley -->
-​
-
-<!-- #hushed-river-valley -->
 ### **[Hushed River Valley](./Hushed%20River%20Valley.md)**
 
 - At the [Mysterious Signal Fire](./Mysterious%20Signal%20Fire.md)
 - Next to the backpack in the [Lake Cave](./Lake%20Cave.md)
 - Next to the backpack near the deer carcass across the three log bridges below the first ice cave
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - The Revolver in-game most closely resembles a [Smith &amp; Wesson Model 27](https://guns.fandom.com/wiki/Smith_%26_Wesson_Model_27) or [28](https://guns.fandom.com/wiki/Smith_%26_Wesson_Model_28) (leaning more towards the former), which both use .357 Magnum ammunition; however, in-game Revolver Ammunition appears to be .32 S&amp;W Long or .38 Special.
@@ -421,10 +244,8 @@ The Revolver may spawn in any of following locations in all survival modes excep
 - The Revolver is the first weapon equipped by the Weapons Hotkey ("2"), second in priority to the Hunting Rifle.
 - Shooting a [Recycled Can](./Recycled%20Can.md) or [Spray Paint](./Spray%20Paint.md) with a Revolver will cause the cans to fly through the air a moderate distance. These are the only items with physics that react to bullet projectiles.
 
-<!-- #Photos -->
-​
+## Gallery
 
-<!-- #photos -->
 ### Photos
 
 ![The Revolvers iron sights](../assets/Revolver_Iron_Sights.png)
@@ -441,16 +262,6 @@ _The\_Long\_Dark\_--\_STEADFAST\_RANGER\_(Survival\_Mode\_Update)_
 
 _A Revolver found hidden behind a [Grate](./Grate.md)_
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**
@@ -460,12 +271,8 @@ _A Revolver found hidden behind a [Grate](./Grate.md)_
 
 [ru:Револьвер](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%8C%D0%B2%D0%B5%D1%80) [fr:Revolver](https://fr.wikipedia.org/wiki/Revolver)
 
-<!-- #footnotes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 ---
 
-1. <span id="fn1"></span>[https://steamcommunity.com/app/305620/discussions/0/5545618081298867512/](https://steamcommunity.com/app/305620/discussions/0/5545618081298867512/)[↩︎](#fnref1)
+[^1]: [https://steamcommunity.com/app/305620/discussions/0/5545618081298867512/](https://steamcommunity.com/app/305620/discussions/0/5545618081298867512/)

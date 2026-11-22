@@ -28,10 +28,6 @@ This page is about content that was not officially created by [Hinterland Studio
 
 **Precarious Causeway** is the 1st [Modded Region](./The%20Long%20Development.md) added to the game, as part of The Long Development's unofficial region mods. The region is accessed from [Desolation Point](./Desolation%20Point.md) via the now mostly fixed [Broken Bridge](./Broken%20Bridge%20%28Desolation%20Point%20location%29.md). It connects to both [Rocky Thoroughfare](./Rocky%20Thoroughfare.md) to the east and [Shattered Marsh](./Shattered%20Marsh.md) to the west (via the [Transition Zone Cave](./Cave%20%28Transition%20Zone%29.md) Luminous Cavern).
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 - Trucker's Demise

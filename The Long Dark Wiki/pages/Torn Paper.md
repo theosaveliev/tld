@@ -28,10 +28,6 @@
 
 **Torn Paper** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found on a corpse inside the [Old Bear's Den](./Old%20Bear%27s%20Den.md) during the mission [What One Man Can Do](./What%20One%20Man%20Can%20Do.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Torn Paper**_
@@ -42,16 +38,6 @@ When the lights came, we had to leave. We thought you might stop here, on your o
 
 Eliza
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**

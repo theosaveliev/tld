@@ -28,10 +28,6 @@
 
 ![Ice Fishing](../assets/Ice_Fishing.png) **Ice Fishing** is the [Skill](./Skills.md) to catch fish in _The Long Dark_. It is performed at fishing holes, which are cut in the ice of fish-bearing bodies of water.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 ![A fishing hut is one of the safest and simplest locations to ice fish.](../assets/Fishing_hut_outside.jpg)_A fishing hut is one of the safest and simplest locations to ice fish._ Ice Fishing is the skill to catch fish for [food](./Food%20And%20Drink.md), [lantern oil](./Lantern%20Fuel.md) and source renewable Vitamin-C to avoid [Scurvy](./Scurvy.md). It is performed at any fish-bearing body of water, at hole(s) cut in its ice. These holes are found inside all Fishing Huts, and can also be made manually with any Tool (via the [Radial Menu](./Radial%20Menu.md)). The Survivor can fish manually with a [Fishing Tackle](./Fishing%20Tackle.md), or semi-automatically with [Fishing Tip-Ups](./Fishing%20Tip-Up.md) (crafted fish traps). When choosing to fish the survivor can select to use bait, lures and how long to fish for. While fishing time is accelerated, and the task may be canceled early (ESC or "Cancel").
@@ -63,59 +59,35 @@ There are two types of fish: saltwater and freshwater, and four rarity: common, 
 
 | Image | Name | Rarity | Type | Minimum weight | Maximum weight | Raw caloric density | Fuel ¹ | Odds |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Lake Whitefish (Raw) icon](../assets/Lake_Whitefish_%28Raw%29_icon.png) | [Lake Whitefish](./Lake%20Whitefish%20%28Raw%29.md) | Common | Fresh water | 1.50 kg<br>_(3.3 lb)_ | 2.30 kg<br>_(5.06 lb)_ | 250 cal/kg | 0.015 L/kg | 70 |
-| [Rainbow Trout (Raw) icon](../assets/Rainbow_Trout_%28Raw%29_icon.png) | [Rainbow Trout](./Rainbow%20Trout%20%28Raw%29.md) | Common | Salt water | 0.50 kg<br>_(1.1 lb)_ | 2.30 kg<br>_(5.06 lb)_ | 250 cal/kg | 0.025 L/kg | 70 |
-| [Coho Salmon (Raw) icon](../assets/Coho_Salmon_%28Raw%29_icon.png) | [Coho Salmon](./Coho%20Salmon%20%28Raw%29.md) | Uncommon | Salt water | 2.80 kg<br>_(6.16 lb)_ | 5.50 kg<br>_(12.1 lb)_ | 300 cal/kg | 0.032 L/kg | 30 |
-| [Smallmouth Bass (Raw) icon](../assets/Smallmouth_Bass_%28Raw%29_icon.png) | [Smallmouth Bass](./Smallmouth%20Bass%20%28Raw%29.md) | Uncommon | Fresh water | 1.80 kg<br>_(3.96 lb)_ | 5.00 kg<br>_(11 lb)_ | 300 cal/kg | 0.025 L/kg | 30 |
-| [Goldeye icon](../assets/Goldeye_icon.png) | [Goldeye](./Goldeye%20%28Raw%29.md) | Rare | Fresh water | 0.50 kg<br>_(1.1 lb)_ | 2.10 kg<br>_(4.62 lb)_ | 300 cal/kg | 0.015 L/kg | 5 |
-| [Burbot icon](../assets/Burbot_icon.png) | [Burbot](./Burbot%20%28Raw%29.md) | Rare | Fresh water | 3.90 kg<br>_(8.58 lb)_ | 6.00 kg<br>_(13.2 lb)_ | 325 cal/kg | 0.030 L/kg | 2 |
-| [Rockfish icon](../assets/Rockfish_icon.png) | [Rockfish](./Rockfish%20%28Raw%29.md) | Rare | Salt water | 1.80 kg<br>_(3.96 lb)_ | 5.00 kg<br>_(11 lb)_ | 300 cal/kg | 0.025 L/kg | 5 |
-| [Red Irish Lord icon](../assets/Red_Irish_Lord_icon.png) | [Red Irish Lord](./Red%20Irish%20Lord%20%28Raw%29.md) | Rare | Salt water | 1.50 kg<br>_(3.3 lb)_ | 3.10 kg<br>_(6.82 lb)_ | 300 cal/kg | 0.020 L/kg | 2 |
-| [Big Bass (Raw) icon](../assets/Big_Bass_%28Raw%29_icon.png) | _[Big Bass\*](./Big%20Bass%20%28Raw%29.md)_ | Unique | Fresh water | 15.00 kg<br>_(33 lb)_ | 15.00 kg<br>_(33 lb)_ | 300 cal/kg | 0.37L | Scripted |
+| [Lake Whitefish (Raw) icon](../assets/Lake_Whitefish_%28Raw%29_icon.png) | [Lake Whitefish](./Lake%20Whitefish%20%28Raw%29.md) | Common | Fresh water | 1.50 kg _(3.3 lb)_ | 2.30 kg _(5.06 lb)_ | 250 cal/kg | 0.015 L/kg | 70 |
+| [Rainbow Trout (Raw) icon](../assets/Rainbow_Trout_%28Raw%29_icon.png) | [Rainbow Trout](./Rainbow%20Trout%20%28Raw%29.md) | Common | Salt water | 0.50 kg _(1.1 lb)_ | 2.30 kg _(5.06 lb)_ | 250 cal/kg | 0.025 L/kg | 70 |
+| [Coho Salmon (Raw) icon](../assets/Coho_Salmon_%28Raw%29_icon.png) | [Coho Salmon](./Coho%20Salmon%20%28Raw%29.md) | Uncommon | Salt water | 2.80 kg _(6.16 lb)_ | 5.50 kg _(12.1 lb)_ | 300 cal/kg | 0.032 L/kg | 30 |
+| [Smallmouth Bass (Raw) icon](../assets/Smallmouth_Bass_%28Raw%29_icon.png) | [Smallmouth Bass](./Smallmouth%20Bass%20%28Raw%29.md) | Uncommon | Fresh water | 1.80 kg _(3.96 lb)_ | 5.00 kg _(11 lb)_ | 300 cal/kg | 0.025 L/kg | 30 |
+| [Goldeye icon](../assets/Goldeye_icon.png) | [Goldeye](./Goldeye%20%28Raw%29.md) | Rare | Fresh water | 0.50 kg _(1.1 lb)_ | 2.10 kg _(4.62 lb)_ | 300 cal/kg | 0.015 L/kg | 5 |
+| [Burbot icon](../assets/Burbot_icon.png) | [Burbot](./Burbot%20%28Raw%29.md) | Rare | Fresh water | 3.90 kg _(8.58 lb)_ | 6.00 kg _(13.2 lb)_ | 325 cal/kg | 0.030 L/kg | 2 |
+| [Rockfish icon](../assets/Rockfish_icon.png) | [Rockfish](./Rockfish%20%28Raw%29.md) | Rare | Salt water | 1.80 kg _(3.96 lb)_ | 5.00 kg _(11 lb)_ | 300 cal/kg | 0.025 L/kg | 5 |
+| [Red Irish Lord icon](../assets/Red_Irish_Lord_icon.png) | [Red Irish Lord](./Red%20Irish%20Lord%20%28Raw%29.md) | Rare | Salt water | 1.50 kg _(3.3 lb)_ | 3.10 kg _(6.82 lb)_ | 300 cal/kg | 0.020 L/kg | 2 |
+| [Big Bass (Raw) icon](../assets/Big_Bass_%28Raw%29_icon.png) | _[Big Bass\*](./Big%20Bass%20%28Raw%29.md)_ | Unique | Fresh water | 15.00 kg _(33 lb)_ | 15.00 kg _(33 lb)_ | 300 cal/kg | 0.37L | Scripted |
 
 _*Big Bass is found only in Wintermute_
 
 ¹ Amount Oil / Latern Fuel gained when fish is cooked. Source: Detailed analysis by Bashrobe, [https://www.youtube.com/watch?v=l8BIygi4K\_k&amp;t=174s](https://www.youtube.com/watch?v=l8BIygi4K_k&t=174s)
 
-<!-- #Equipment -->
-​
-
-<!-- #equipment -->
 ## Equipment
 
 Fishing Tackle and a tool to cut hole(s) in the ice are required for fishing. Optionally Bait and/or Lures can be used to increase bite-rate, or the odds of catching rare fish. Fishing on the ice for hours is very cold, so a lit fire with fuel and/or [Snow Shelter](./Snow%20Shelter.md) is often required. Before fishing, it's advisable to travel light or bring along a [Travois](./Travois.md), since the weight of multiple freshly-caught fish can [add up quickly](./Encumbrance.md).
 
-<!-- #fishing_tackle -->
-​
-
-<!-- #Fishing_Tackle -->
-​
-
-<!-- #Fishing_tackle -->
-​
-
-<!-- #fishing-tackle -->
 ### Fishing Tackle
 
 ![Fishing Tackle icon](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) are the primary tool for fishing. They are crafted from a [Hook](./Hook.md) and [Line](./Line.md). Tackle lasts until they break during fishing, and only degrade condition when used to Repair clothing (Tackle durability has no effect on break rate).
 
-<!-- #ice_breaker -->
-​
-
-<!-- #Ice_Breaker -->
-​
-
-<!-- #Ice_breaker -->
-​
-
-<!-- #ice-breaker -->
 ### Ice Breaker
 
 Ice breakers are any tool used to clear ice holes. Fully clearing a hole takes the full break time, with a partially frozen hole taking much less. Prybar and Heavy Hammer take longer to clear than bladed tools, but sustain less condition loss when doing so. Prybars are non-renewable or repairable, but Heavy Hammers may be repaired sustainably (but not replaced if ruined).
 
 Tip: On PC, pressing Enter also acts as clicking the Break Ice button.
 
-| Tool | Tool | Break rate<br>(minutes to clear ice) | Tool decay |
+| Tool | Tool | Break rate (minutes to clear ice) | Tool decay |
 | --- | --- | --- | --- |
 | [Prybar icon](../assets/Prybar_icon.png) | [Prybar](./Prybar.md) | 45.0 min | 2.0% |
 | [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) | [Heavy Hammer](./Heavy%20Hammer.md) | 45.0 min | 2.0% |
@@ -126,22 +98,6 @@ Tip: On PC, pressing Enter also acts as clicking the Break Ice button.
 | [Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) | [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | 40.0 min | 5.0% |
 | [Survival Knife icon](../assets/Survival_Knife_icon.png) | [Survival Knife](./Survival%20Knife.md) | 40.0 min | 2.5% |
 
-<!-- #fishing_tip_ups -->
-​
-
-<!-- #Fishing_Tip-Ups -->
-​
-
-<!-- #fishing_tip-ups -->
-​
-
-<!-- #Fishing_tip-ups -->
-​
-
-<!-- #Fishing_Tip-ups -->
-​
-
-<!-- #fishing-tip-ups -->
 ### Fishing Tip-Ups
 
 ![Fishing Tip Up icon](../assets/Fishing_Tip-Up_icon.png) [Fishing Tip-Ups](./Fishing%20Tip-Up.md) are tools to trap fish at Fishing Holes (including those inside of Fishing Huts). They can be fitted with Lures or Bait, and function similar to [Snares](./Snare.md), but unlike Snares are not effective when used passively: as they require regular ice-clearing to function, and will lose condition while deployed.
@@ -150,30 +106,10 @@ After clearing an ice hole and placing the Tip-Up in the water the tool will aut
 
 Any number of Tip-Ups may be deployed in a region, but deploying more than 6 per separate body of water will result in 'overfishing penalties', yielding diminishing return catch rates (4 max in [Zone of Contamination](./Zone%20of%20Contamination.md)).
 
-<!-- #fishing_bait -->
-​
-
-<!-- #Fishing_Bait -->
-​
-
-<!-- #Fishing_bait -->
-​
-
-<!-- #fishing-bait -->
 ### Fishing Bait
 
 ![Fishing Bait icon](../assets/Fishing_Bait_icon.png) [Fishing Bait](./Fishing%20Bait.md) are an optional tool to catch larger fish. Using Bait increases average fish size by +30%, but one piece of Bait will be consumed for each fish caught. Bait is crafted by harvesting any raw fish and takes 30 minutes regardless of fish weight. Heavier fish yield more Bait when harvested (3 Bait per 1kg of Raw Fish weight).
 
-<!-- #fishing_lures -->
-​
-
-<!-- #Fishing_Lures -->
-​
-
-<!-- #Fishing_lures -->
-​
-
-<!-- #fishing-lures -->
 ### Fishing Lures
 
 [Fishing Lures](./Fishing%20Lure%20%28disambiguation%29.md) are an optional tool for catching rare fish. Using lures increases the odds of catching a rare fish by 5-10x, but increases the maximum possible wait time for a fish to bite by +20%-75%. Lures are crafted at a [Work Bench](./Work%20Bench.md) and do not lose condition when used, but will be lost if a Fishing Tackle breaks or Tip-Up's line breaks while fishing. All fishing lures weigh 0.01kg.
@@ -181,20 +117,10 @@ Any number of Tip-Ups may be deployed in a region, but deploying more than 6 per
 | Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
 | --- | --- | --- | --- | --- | --- |
 | [Simple Fishing Lure icon](../assets/Simple_Fishing_Lure_icon.png) | [Simple Fishing Lure](./Simple%20Fishing%20Lure.md) | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
-| [Fishing Lure (Acorns) icon](../assets/Fishing_Lure_%28Acorns%29_icon.png) | [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | +800% | +50% | - 1 [Acorns](./Acorns.md)<br>- 1 [Crow Feather](./Crow%20Feather.md)<br>- 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
-| [Fishing Lure (Revolver Shell Casing) icon](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) | [Fishing Lure (Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md)<br>- 1 [Crow Feather](./Crow%20Feather.md)<br>- 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
-| [Fishing Lure (Wire Bundle) icon](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) | [Fishing Lure (Wire)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | +1000% | +75% | - 1 [Wire Bundle](./Wires.md)<br>- 1 [Crow Feather](./Crow%20Feather.md)<br>- 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| [Fishing Lure (Acorns) icon](../assets/Fishing_Lure_%28Acorns%29_icon.png) | [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | +800% | +50% | - 1 [Acorns](./Acorns.md) - 1 [Crow Feather](./Crow%20Feather.md) - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| [Fishing Lure (Revolver Shell Casing) icon](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) | [Fishing Lure (Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) - 1 [Crow Feather](./Crow%20Feather.md) - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| [Fishing Lure (Wire Bundle) icon](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) | [Fishing Lure (Wire)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | +1000% | +75% | - 1 [Wire Bundle](./Wires.md) - 1 [Crow Feather](./Crow%20Feather.md) - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
 
-<!-- #fishing_holes -->
-​
-
-<!-- #Fishing_Holes -->
-​
-
-<!-- #Fishing_holes -->
-​
-
-<!-- #fishing-holes -->
 ## Fishing Holes
 
 Ice Fishing by the survivor or their Tip-Ups requires holes cut in the ice of fishable bodies of water. These holes may be found inside of all Fishing Huts (small green structures found on the ice in many Regions), or cut manually by the water with any Tool. Holes will gradually re-freeze over, and must be manually cleared periodically to continue use. Completely clearing ice holes will pause freezing progress for 10 in-game minutes.
@@ -211,38 +137,12 @@ Fishing inside of Fishing Huts is more efficient than survivor-cut holes. The Fi
 
 *Time to Catch on Interloper mode progressively increases up to a maximum of twice as long at Day 50, while beginning at the same value as Pilgrim/Voyageur/Stalker.
 
-<!-- #fishing_huts -->
-​
-
-<!-- #Fishing_Huts -->
-​
-
-<!-- #Fishing_huts -->
-​
-
-<!-- #fishing-huts -->
 ### Fishing Huts
 
 [Fishing Huts](./Fishing%20Hut.md) are small structures on the ice which provide protection from the elements and wildlife. All fishing huts contain a pre-cut hole in the ice for fishing. Huts also contain a [Pot Belly Stove](./Pot%20Belly%20Stove.md) to keep warm, cook or boil water, and some have door and provide a warmth bonus in their interior. Wildlife cannot enter a fishing hut even when the door is open.
 
 All fishing holes inside Fishing Huts are more efficient than survivor-made ones outside, with all Fishing Huts being identical except for Ash Canyon's which has a higher bite-rate
 
-<!-- #free_form_ice_fishing_holes -->
-​
-
-<!-- #Free-Form_Ice_Fishing_Holes -->
-​
-
-<!-- #free-form_ice_fishing_holes -->
-​
-
-<!-- #Free-form_ice_fishing_holes -->
-​
-
-<!-- #Free-form_Ice_Fishing_Holes -->
-​
-
-<!-- #free-form-ice-fishing-holes -->
 ### Free-Form Ice Fishing Holes
 
 ![Free Form Fishing Hole icon](../assets/Free_Form_Fishing_Hole_icon.png)
@@ -253,22 +153,6 @@ Fishing at cut Ice Fishing Holes catches fewer fish per hour, cause double Tip-U
 
 Free-Formed ice fishing holes will disappear if left to freeze back to 100% unless the player exits and re-enters the area via loading screen while a cut ice hole is open, which will result in that hole becoming permanent and impossible to remove.
 
-<!-- #valid_areas_for_free_form_ice_fishing -->
-​
-
-<!-- #Valid_Areas_for_Free-Form_Ice_Fishing: -->
-​
-
-<!-- #valid_areas_for_free-form_ice_fishing: -->
-​
-
-<!-- #Valid_areas_for_free-form_ice_fishing: -->
-​
-
-<!-- #Valid_Areas_For_Free-form_Ice_Fishing: -->
-​
-
-<!-- #valid-areas-for-free-form-ice-fishing -->
 ### Valid Areas for Free-Form Ice Fishing:
 
 | [Region](./Region.md) | Hut Present? | Location | Water type |
@@ -304,38 +188,20 @@ Free-Formed ice fishing holes will disappear if left to freeze back to 100% unle
 
 ![The Free Form Ice Fishing spots on the river in Pleasant Valley](../assets/Pleasant_Valley_Ice_Fishing_Spots.jpg)
 
-<!-- #skill_levels -->
-​
-
-<!-- #Skill_Levels -->
-​
-
-<!-- #Skill_levels -->
-​
-
-<!-- #skill-levels -->
 ## Skill Levels
 
 Players can increase their Ice Fishing skill by catching any fish.
 
 A limited increase can be obtained from the [Research Book](./Research%20Book.md) _[The Frozen Angler](./The%20Frozen%20Angler.md)_, which increases the Ice Fishing by 10 skill points with 5 hours of research. This means that you can reach level 2 directly by reading your first book.
 
-&lt;table-progress-tracking table-id="3" unique-column-index="1"&gt;
-
 | Level | Skill points needed | Points to next level | Effects | Flavor text |
 | --- | --- | --- | --- | --- |
 | 1 | 0 | 10 | - Basic ice fishing skill | You don't really know what you're doing yet. You know which end of the line the hook goes on. |
-| 2 | 10 | 40 | - Fishing time reduced by 5%<br>- 8% chance of line break on catch | You're getting more comfortable with fishing in the Winter. You're better with your fishing gear, and you're developing a feel for when a fish is on the line. |
-| 3 | 50 | 100 | - Fishing time reduced by 10%<br>- 5% chance of line break on catch | You're quite good at ice fishing. You rarely break your lines now, and you catch more fish per hour. |
-| 4 | 150 | 100 | - 10% to average fish weight<br>- Fishing time reduced by 20%<br>- 3% chance of line break on catch | You are fantastic at ice fishing. You seem to catch fish more often, more quickly, and somehow you get the bigger ones too! |
-| 5 | 250 | Max level | - 25% to average fish weight<br>- Fishing time reduced by 30%<br>- 1% chance of line break on catch | You are the Pied Piper of ice fishers. You barely have to clear the ice hole for fish to nearly jump out of the water. You catch bigger fish, more often, and in less time. |
+| 2 | 10 | 40 | - Fishing time reduced by 5% - 8% chance of line break on catch | You're getting more comfortable with fishing in the Winter. You're better with your fishing gear, and you're developing a feel for when a fish is on the line. |
+| 3 | 50 | 100 | - Fishing time reduced by 10% - 5% chance of line break on catch | You're quite good at ice fishing. You rarely break your lines now, and you catch more fish per hour. |
+| 4 | 150 | 100 | - 10% to average fish weight - Fishing time reduced by 20% - 3% chance of line break on catch | You are fantastic at ice fishing. You seem to catch fish more often, more quickly, and somehow you get the bigger ones too! |
+| 5 | 250 | Max level | - 25% to average fish weight - Fishing time reduced by 30% - 1% chance of line break on catch | You are the Pied Piper of ice fishers. You barely have to clear the ice hole for fish to nearly jump out of the water. You catch bigger fish, more often, and in less time. |
 
-&lt;/table-progress-tracking&gt;
-
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Cooked Fish yield a small amount of [Lantern Oil](./Lantern%20Fuel.md) when picked up. This is automatically added to existing oil containers in the survivor's inventory. [Jerry Cans](./Jerry%20Can.md) hold fuel more efficiently than "Lantern Fuel" bottles.

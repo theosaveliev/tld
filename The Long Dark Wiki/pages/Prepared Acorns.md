@@ -59,20 +59,12 @@ Item key
 
 GAMEPLAY\_AcornShelled
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 **Prepared Acorns** are the shelled version of regular [Acorns](./Acorns.md). They can be cooked into [Acorns (Cooked)](./Acorns%20%28Cooked%29.md), which can then be either eaten or turned into [Acorn Grounds](./Acorn%20Grounds.md) (after cooking).
 
 Preparing Acorns can be a time and resource-intensive process, taking 10 minutes to shell each batch (removing the cap and its hard shell, based on the graphical representation). It costs 0.25 liters of [water](./Water%20%28Potable%29.md) per acorn you wish to cook, or 0.5 liters to cook 4 at once, which is the benefit of making the "large portion" variants.
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 **Prepared Acorns**
@@ -87,27 +79,13 @@ Preparing Acorns can be a time and resource-intensive process, taking 10 minutes
 
 **Quantity:** 1
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) | None | - 1 × [Prepared Acorns](./Prepared%20Acorns.md)<br>- 0.25L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) | None | - 1 × [Prepared Acorns](./Prepared%20Acorns.md) - 0.25L × [Water (Potable)](./Water%20%28Potable%29.md) |
 | [Prepared Acorns (Large Portion)](./Prepared%20Acorns%20%28Large%20Portion%29.md) | None | - 4 × [Prepared Acorns](./Prepared%20Acorns.md) |
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

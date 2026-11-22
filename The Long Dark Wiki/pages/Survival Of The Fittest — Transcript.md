@@ -25,14 +25,10 @@
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Astrid Greenwood](./Astrid%20Greenwood.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Astrid Greenwood](./Astrid%20Greenwood.md)
 
 This is the transcript for Chapter 1 [Survival Of The Fittest](./Survival%20Of%20The%20Fittest.md) for Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
-<!-- #Intro -->
-​
-
-<!-- #intro -->
 ## Intro
 
 _The game begins with the sound of a man grunting in pain and gasping for air, and then the noise of a beating heart, and a person's vision slowly coming to as they blink back into consciousness. The ambient electrical wail of an [Aurora](./Aurora.md) plays overhead as the camera shifts to reveal trees, fire, smoke, and wreckage of a crashed plane as he closes his eyes._
@@ -57,13 +53,6 @@ _The process is slow, and is not without consequence, as the man's cries of pain
 
 THE LONG DARK
 
-<!-- #day_1 -->
-​
-
-<!-- #Day_1 -->
-​
-
-<!-- #day-1 -->
 ## Day 1
 
 Mackenzie: "I need to find some shelter from this wind."
@@ -105,13 +94,6 @@ Mackenzie: "That's all I have in me. Need to lay down before I fall down."
 
 _The man passes out for the night_
 
-<!-- #day_2 -->
-​
-
-<!-- #Day_2 -->
-​
-
-<!-- #day-2 -->
 ## Day 2
 
 The man wakes up the next morning. _The various fires from the night before have all but died down, with only vapors of smoke rising from the wreckage._
@@ -143,13 +125,6 @@ Mackenzie: "I don't feel so good. I need to rest up."
 
 _The man sleeps for the day_
 
-<!-- #day_3 -->
-​
-
-<!-- #Day_3 -->
-​
-
-<!-- #day-3 -->
 ## Day 3
 
 _When the pilot next wakes up the following day, a massive blizzard is developing outside_
@@ -168,13 +143,6 @@ _The pilot warms himself up fully by the fire_
 
 Mackenzie: "That should last me through the night. So...tired..."
 
-<!-- #day_4 -->
-​
-
-<!-- #Day_4 -->
-​
-
-<!-- #day-4 -->
 ## Day 4
 
 _As the man wakes up from the night, about 1 hour of fuel remains in the fire_
@@ -337,13 +305,6 @@ _Slowly limping his way back over the fallen tree to the still active cave, he p
 
 Mackenzie: "May as well rest up. No telling what tomorrow will bring."
 
-<!-- #day_5 -->
-​
-
-<!-- #Day_5 -->
-​
-
-<!-- #day-5 -->
 ## Day 5
 
 Mackenzie: "I feel stronger today. I think I can climb out of here now."

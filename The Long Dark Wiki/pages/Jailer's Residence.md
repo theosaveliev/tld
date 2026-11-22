@@ -26,20 +26,12 @@ Provides some shelter
 
 **Jailer's Residence** is a location in [Blackrock](./Blackrock.md), located not far from [Blocked Bridge](./Blocked%20Bridge.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Jailer's Residence is completely burned to the ground, with some [Reclaimed Wood](./Reclaimed%20Wood.md) found in the surroundings of the ruins as well as a [Metal Container](./Metal%20Container.md).
 
 A nearby barn houses a car and a [Fire Barrel](./Fire%20Barrel.md), providing some shelter for the area. [Timberwolves](./Timberwolf.md) patrol the field near the Residence, and can be a problem if the player is spotted.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Jailer's Residence back](../assets/Jailer%27s_Residence_-_back.jpg)

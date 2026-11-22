@@ -20,24 +20,16 @@
 
 Has an interior **Rüdiger's Machine** is the unofficial name given to a location found inside the [Langston Mine](./Langston%20Mine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md). The location can only be accessed by completing the [Buried Echoes](./Buried%20Echoes.md) Tale.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A mountainside entrance near the 6th floor of the [Concentrator](./Concentrator.md) is initially locked when playing in Survival Mode, but can be opened as part of Buried Echoes. The [Mine Gate Key](./Mine%20Gate%20Key.md) to the mountain entrance can be found deeper in Level 3 after progressing through the Tale, and then passing through the mountain. When reaching the room with the device, the survivor will attempt to touch it but pass out, only to reawaken to find it powered at midnight during an [Aurora](./Aurora.md).
 
 A nearby control room contains several collectibles for the Tale, as well as the [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md). The Machine does not have any amenities inside, such as Beds, Work Benches, or Fireplaces.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - The Machine is what caused the mental deterioration of [The Foreman](./The%20Foreman.md), the mine workers, [The Security Chief](./The%20Security%20Chief.md), and [Dr. Rüdiger](./Dr.%20R%C3%BCdiger.md), among others.
-- Though the Machine is associated with the [Glimmer Fog](./Glimmer%20Fog.md) that plagues the Far Territory, it is not the source of it.<span id="fnref1"></span>[¹](#fn1)
+- Though the Machine is associated with the [Glimmer Fog](./Glimmer%20Fog.md) that plagues the Far Territory, it is not the source of it.[^1]
 
 ![The machine room when unpowered](../assets/The_Machine_unpowered.jpg)
 
@@ -45,12 +37,8 @@ A nearby control room contains several collectibles for the Tale, as well as the
 
 ![The Security Chief's Remains in the control room.](../assets/The_Security_Chief.jpg)
 
-<!-- #footnotes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 ---
 
-1. <span id="fn1"></span>[Post by Raphael van Lierop on the Hinterland Forums](https://hinterlandforums.com/forums/topic/48715-dont-forget-to-leave-a-review-_/page/2/#comment-311778)[↩︎](#fnref1)
+[^1]: [Post by Raphael van Lierop on the Hinterland Forums](https://hinterlandforums.com/forums/topic/48715-dont-forget-to-leave-a-review-_/page/2/#comment-311778)

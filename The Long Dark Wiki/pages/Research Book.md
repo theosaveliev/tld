@@ -12,10 +12,6 @@
 
 ![Research1](../assets/Research1.jpg) A **Research Book** or **Skill Book** is both a Fuel and Tool item in [Survival Mode](./Survival%20Mode.md) that can be researched to increase [Skills](./Skills.md), and can be found as 10 separate in game items.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Research Books are items that may be used as fuel for [Fire Starting](./Fire%20Starting.md) and have the same weight (0.50kg) as normal books. However, they may also be read, which grants skill points to their respective Survival Skills when completed. Because of this, Research Books can be found in both the Fuel and Tools categories. Attempting to burn a Research Book that has not been fully read will give a confirmation warning before it can be burned. Once a Research Book is fully researched, it will no longer appear in the Tools section of the Backpack.
@@ -32,28 +28,13 @@ Multiple copies of the same book may be researched for additional benefit.
 - Since Skills cap at Level 5, any category of Research Books related to that Skill cannot be read, and can only be used as fuel at that point.
 - On [Interloper](./Interloper.md), researching Skill Books burns calories at the rate of "Standing" (125 cal/h).
 
-<!-- #list_of_research_books -->
-​
-
-<!-- #List_of_Research_Books -->
-​
-
-<!-- #List_of_research_books -->
-​
-
-<!-- #List_Of_Research_Books -->
-​
-
-<!-- #list-of-research-books -->
 ## List of Research Books
 
 The [Feat](./Feats.md) "Book Smarts" increases the skill points gained from completing a research book by 10% (e.g. with the feat active, reading a "Small Arms Handbook" yields 11 revolver skill points instead of 10).
 
 The Feat "Settled Mind" makes the user immune to [Cabin Fever](./Cabin%20Fever.md), but also causes Research actions to happen 20% faster.
 
-&lt;table-progress-tracking table-id="1" header-label="Collected?" unique-column-index="2"&gt;
-
-| Image | Title | Skill | Points<br>gained | W/ Book Smarts | Hours to<br>research | W/ Settled Mind |
+| Image | Title | Skill | Points gained | W/ Book Smarts | Hours to research | W/ Settled Mind |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Stay on Target icon](../assets/Stay_on_Target_icon.png) | _[Stay on Target](./Stay%20on%20Target.md)_ | [Archery](./Archery.md) | 10 | 11 | 5 | 4 |
 | [Field Dressing Your Kill, Vol. I icon](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) | _[Field Dressing Your Kill, Vol. I](./Field%20Dressing%20Your%20Kill%2C%20Vol.%20I.md)_ | [Carcass Harvesting](./Carcass%20Harvesting.md) | 10 | 11 | 10 | 8 |
@@ -66,15 +47,9 @@ The Feat "Settled Mind" makes the user immune to [Cabin Fever](./Cabin%20Fever.m
 | [Small Arms Handbook icon](../assets/Small_Arms_Handbook_icon.png) | _[Small Arms Handbook](./Small%20Arms%20Handbook.md)_ | [Revolver Firearm](./Revolver%20Firearm.md) | 10 | 11 | 5 | 4 |
 | [Practical Gunsmithing icon](../assets/Practical_Gunsmithing_icon.png) | _[Practical Gunsmithing](./Practical%20Gunsmithing.md)_ | [Gunsmithing](./Gunsmithing.md) | 10 | 11 | 5 | 4 |
 
-&lt;/table-progress-tracking&gt;
-
-<!-- #Wintermute -->
-​
-
-<!-- #wintermute -->
 ## Wintermute
 
-**Template:spoiler**In [Wintermute](./Wintermute.md), items that resemble Research Books may be found, but these items are instantly turned into [Collectibles](./Collectibles.md) when picked up and instead unlock side missions. &lt;table-progress-tracking table-id="2" header-label="Collected?" unique-column-index="2"&gt;
+**Template:spoiler**In [Wintermute](./Wintermute.md), items that resemble Research Books may be found, but these items are instantly turned into [Collectibles](./Collectibles.md) when picked up and instead unlock side missions.  
 
 | Image | Title | Episode | Unlocks Side Mission |
 | --- | --- | --- | --- |
@@ -89,12 +64,6 @@ The Feat "Settled Mind" makes the user immune to [Cabin Fever](./Cabin%20Fever.m
 | [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png) | _[Local Legends - The Lost Cave](./Local%20Legends%20-%20The%20Lost%20Cave.md)_ | Episode 3 | [Tall Tales](./Tall%20Tales.md) Locals tell of a glowing cave... |
 | [Local Legends Ghost Stag icon](../assets/Local_Legends_-_Ghost_Stag_icon.png) | _[Local Legends - Ghost Stag](./Local%20Legends%20-%20Ghost%20Stag.md)_ | Episode 3 | [Tall Tales](./Tall%20Tales.md) Locals tell of a hidden ghostly stag... |
 
-&lt;/table-progress-tracking&gt;
-
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Survival Skills levels are dependent to each save file.
@@ -102,10 +71,6 @@ The Feat "Settled Mind" makes the user immune to [Cabin Fever](./Cabin%20Fever.m
 - The [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) "Penitent Scholar" requires reading all varieties of Research Books in a single save file.
 - Research Books originally featured more varied sizes and cover art; however, currently their art and size are more uniform.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Field Dressing Your Kill, Vol 1. Old Model](../assets/Field_Dressing_Your_Kill_Old.png)

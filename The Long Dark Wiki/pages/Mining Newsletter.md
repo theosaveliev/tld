@@ -42,4 +42,3 @@ Regulators are also keen to stamp out unlicensed operations as they surface. But
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-

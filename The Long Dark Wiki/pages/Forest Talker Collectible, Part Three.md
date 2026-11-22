@@ -36,26 +36,12 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Forest Talker Collectible, Part Three_ from in a barn with a deer carcass at the [Three Strikes Farmstead](./Three%20Strikes%20Farmstead.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Forest Talker Collectible, Part Three**_
 
 ...as the years fall away in front of us, so fall the boulders from the hills. All this will look like a victory for Great Bear. Even as Mother Nature recovers Pleasant Valley, whoever remains will be forced to adapt, die, or move on.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

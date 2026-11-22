@@ -30,26 +30,8 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **A Skeleton And Note** is an item found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 It is found in a walled up room in the [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) and comes with [Sutherland's Note](./Sutherland%27s%20Note.md). It must be placed in the [Trade Drop Box](./Trade%20Drop%20Box.md) as the 4th Special Request to Sutherland to advance his questline.
 
 It cannot be dropped or placed in a container, so it cannot be lost.
-
-<!-- #update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #update-history -->
-## Update History
-
-[ru:Скелет и записка](https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BB%D0%B5%D1%82_%D0%B8_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0)

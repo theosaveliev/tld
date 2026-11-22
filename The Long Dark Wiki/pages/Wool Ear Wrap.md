@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>75% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 75% condition
 
 > “**Covers your ears with an extra layer of Wool.**”
 >
@@ -36,18 +36,10 @@
 
 **Wool Ear Wrap** is a type of accessory [Clothing](./Clothing.md) in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Wool Ear Wrap is a rare clothing item worn in the accessory slot and gives a warmth and windproof bonus.
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 Considering how rare they are, and as they offer only minimal protection but cannot withstand a lot of damage, it is advised to take wool ear wraps off when there is a high chance of encountering a predator.
@@ -62,16 +54,6 @@ Considering how rare they are, and as they offer only minimal protection but can
 
 ![Clothing model icon damaged](../assets/Wool_Ear_Wrap_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

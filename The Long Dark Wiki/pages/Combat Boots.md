@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-7%
 
-**Harvest:** 1 × [Cured leather](./Cured%20Leather.md)<br>90 minutes
+**Harvest:** 1 × [Cured leather](./Cured%20Leather.md) 90 minutes
 
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md)<br>30 minutes<br>25% condition
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md) 30 minutes 25% condition
 
 > “**Boots designed for war zones. Too bad they weren't made for Winter. Heavy-duty leather with good ankle support. Would offer fair resistance to animal bites.**”
 >
@@ -36,10 +36,6 @@
 
 **Combat Boots** are a type of [Clothing](./Clothing.md) in _The Long Dark_.
 
-<!-- #Usefulness -->
-​
-
-<!-- #usefulness -->
 ## Usefulness
 
 Mid-tier boots. They are heavier than the [Work Boots](./Work%20Boots.md) and offer less [warmth](./Warmth.md) and mobility, but are more waterproof and offer more protection. Expensive to repair but their protection is useful during wildlife [struggles](./Struggle.md), and they are only a half the weight of [Ski Boots](./Ski%20Boots.md).
@@ -48,16 +44,6 @@ Mid-tier boots. They are heavier than the [Work Boots](./Work%20Boots.md) and of
 
 ![Clothing model damaged](../assets/Combat_Boots_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

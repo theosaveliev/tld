@@ -22,10 +22,6 @@ Has a bed
 
 Has a workbench
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The barn is an important source of supplies and makes for a decent [base](./Safehouse.md). It provides a [Fire Barrel](./Fire%20Barrel.md), a [Work Bench](./Work%20Bench.md), and a [Truck](./Truck.md) that is warm enough to sleep in without a bedroll. However, the overall temperature in the barn is not very warm, so it may be too cold to stay in for players who are wearing poor quality [Clothing](./Clothing.md), unless they light a fire or stay in the truck.
@@ -34,19 +30,6 @@ Behind the barn there is also a target with multiple [Simple Arrows](./Simple%20
 
 Two [Tractors](./Tractor.md) can be found around the barn. These tractors may contain low-grade supplies similar to those found in most vehicles, and can serve as a place to sleep if the player catches [Cabin Fever](./Cabin%20Fever.md).
 
-<!-- #forest_talkers_side_mission -->
-​
-
-<!-- #"Forest_Talkers"_Side_Mission -->
-​
-
-<!-- #"forest_talkers"_side_mission -->
-​
-
-<!-- #"forest_Talkers"_Side_Mission -->
-​
-
-<!-- #forest-talkers-side-mission -->
 ## "Forest Talkers" Side Mission
 
 FOREST TALKERS 2 is past the workbench near a metal container on the upper floor of the barn as part of the [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mission%29.md).

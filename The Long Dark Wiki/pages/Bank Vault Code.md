@@ -30,26 +30,12 @@
 
 It is found in the [Bank Manager's House](./Bank%20Manager%27s%20House.md) and is needed to open the vault located inside the [Milton Credit Union](./Milton%20Credit%20Union.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Bank Vault Code**_
 
 19-30-08
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

@@ -23,12 +23,6 @@ These containers can be found already open in Survival Mode.
 
 In Wintermute, the Carter Dam locker is locked and needs the [Aid Station Medical Locker Key](./Aid%20Station%20Medical%20Locker%20Key.md), which is necessary to open as part of [The Wounded Trapper](./The%20Wounded%20Trapper.md) mission in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
-<!-- #Loot -->
-​
-
-<!-- #loot -->
 ## Loot
 
 Medical Lockers only contain [First Aid](./First%20Aid.md) supplies.
-
-<span id="gallery"></span><span id="Gallery"></span>

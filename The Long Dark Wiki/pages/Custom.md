@@ -15,26 +15,12 @@
 
 **Custom** is the 6th [Survival Mode](./Survival%20Mode.md) Experience in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Custom is different from the other 5 difficulty Experiences in that it allows the player to instead create their own difficulty. This mode presents over 50 different variables which can be adjusted to the player's liking. Creating a Custom Experience Mode generates a code, which may be shared with other users for the same experience, including across game platforms.
 
 **NOTE:** [Feats](./Feats.md) progression will not occur when playing on a Custom Experience save file, but [Achievements](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) can still be earned.
 
-<!-- #custom_settings -->
-​
-
-<!-- #Custom_Settings -->
-​
-
-<!-- #Custom_settings -->
-​
-
-<!-- #custom-settings -->
 ## Custom Settings
 
 The following settings can be customized when starting a Custom save file:
@@ -51,16 +37,6 @@ The following settings can be customized when starting a Custom save file:
 - Endless Night (The sun will never rise): Completing the [Challenge](./Challenge.md): [Escape The Darkwalker](./Escape%20the%20Darkwalker.md) is required to unlock this.
 - ...as well as many others.
 
-<!-- #length_of_day_multiplier -->
-​
-
-<!-- #Length_of_day_multiplier -->
-​
-
-<!-- #Length_Of_Day_Multiplier -->
-​
-
-<!-- #length-of-day-multiplier -->
 ### Length of day multiplier
 
 Concretely, this setting affects the timespace aspect of the Experience, slowing various aspects of the game world down. In x4 you can walk 4x more before a day ends unlike in 1x. This essentially makes the world feel "slower".
@@ -70,16 +46,6 @@ Concretely, this setting affects the timespace aspect of the Experience, slowing
 3. [Needs](./Needs.md) drain/[Afflictions](./Afflictions.md) accumulation/item Decay is significantly slowed the higher the length of day multiplier is. Example: you can travel 4x farther in 3 miles with poor clothing on before [Frostbite Risk](./Frostbite%20Risk.md) develops into [Frostbite](./Frostbite.md), as the Frostbite Risk meter fills slower. This can essentially make the game far easier than normal, as the player doesn't have to worry about carrying as much food/worrying about Affliction Risks. The downside to this setting is that it can result in the game feeling too unchallenging/Afflictions taking MUCH longer to heal.
 4. Time speeds up normally when your character starts an "action" (ex: passing time for sleep, crafting, harvesting, researching a book for 1 hour will still count as 1 hour as if it was 1x length).
 
-<!-- #common_custom_options -->
-​
-
-<!-- #Common_Custom_Options -->
-​
-
-<!-- #Common_custom_options -->
-​
-
-<!-- #common-custom-options -->
 ## Common Custom Options
 
 The player community has given unofficial names to two of the most commonly used custom experiences. One of them has been dubbed **Gunloper**, which is an Interloper base game where rifle/revolver spawns are enabled. The other is **Deadman**, which is an Interloper base game where passive healing is disabled, and Birch Bark Tea cannot be crafted (similar to [As the Dead Sleep](./As%20the%20Dead%20Sleep.md)).
@@ -93,16 +59,6 @@ The player community has given unofficial names to two of the most commonly used
 
 More custom challenges can be found [Here](https://steamcommunity.com/app/305620/discussions/9/4515505814159739321/).
 
-<!-- #custom_difficulty_customization_options -->
-​
-
-<!-- #Custom_Difficulty_Customization_Options -->
-​
-
-<!-- #Custom_difficulty_customization_options -->
-​
-
-<!-- #custom-difficulty-customization-options -->
 ## Custom Difficulty Customization Options
 
 The following is a list of settings the player can manipulate as they create their own Survival Experience. Selecting a difficulty will generate a preset variable list, and the player can further modify the list to their liking.

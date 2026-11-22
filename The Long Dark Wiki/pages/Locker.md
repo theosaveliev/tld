@@ -38,10 +38,6 @@ GAMEPLAY\_Locker
 
 A **Locker** can be found in many places in the game, generally industrial-like places, and serves as a container for storing items. Some Lockers are locked and require a [Prybar](./Prybar.md) to open. Lockers are one of the most common containers found in the game, along with the metal and plastic containers.
 
-<!-- #Variants -->
-​
-
-<!-- #variants -->
 ## Variants
 
 There are 4 variants of lockers; Single, Double, and Triple Lockers, and a single Green Locker.
@@ -55,10 +51,6 @@ Occasionally 5th type of locker, a [Medical Locker](./Medical%20Locker.md), can 
 
 ![Pre Alpha Lockers](../assets/Pre_Alpha_Lockers.jpg)
 
-<!-- #Loot -->
-​
-
-<!-- #loot -->
 ## Loot
 
 |  | Item | Rarity |

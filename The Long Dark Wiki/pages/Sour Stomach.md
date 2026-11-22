@@ -14,7 +14,7 @@
 
 **Category:** [Afflictions](./Afflictions.md)
 
-**Description:** Your questionable diet has caught up with you.<br>You cannot eat as much before you feel full. You also are more likely to experience Food Poisoning, no matter your Skill level.
+**Description:** Your questionable diet has caught up with you. You cannot eat as much before you feel full. You also are more likely to experience Food Poisoning, no matter your Skill level.
 
 **Caused By:** [Misery Mode](./Misery.md)
 
@@ -30,10 +30,6 @@
 
 **Sour Stomach** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 > “__Your questionable diet has caught up with you.  
@@ -44,10 +40,6 @@
 
 Sour Stomach is a permanent Affliction unique to [Misery Mode](./Misery.md) which occurs from Stage 2-4 of Misery. It permanently reduces the maximum calories the survivor can store in their body. Sour Stomach also disables both of the benefits from Cooking Skill level 5: you now have a chance of [Food Poisoning](./Food%20Poisoning.md) when [eating cooked or artificial food](./Food%20And%20Drink.md), as well as [Risk of Intestinal Parasites](./Risk%20of%20Intestinal%20Parasites.md) when eating cooked predator meat again.
 
-<!-- #Effects -->
-​
-
-<!-- #effects -->
 ## Effects
 
 - Maximum [Calories Stored](./Needs.md) reduced by 1000 (1500 maximum)

@@ -22,10 +22,6 @@
 
 The **Metal Container**is a common stationary interactable object that can be found at many locations in [The Long Dark](./The%20Long%20Dark.md). Upon first encountering one, the player has the option to 'search' the container, a function shared with other item containers in the game. To search a container, the player must hold left-click while hovering over the object. It will then prompt the player with one of the items that spawned in the container, giving them the option to take it, leave it, or press space to interact with the object in some other way if possible. Once an action has been taken, it will cycle on to the next item, and continue until no items are left in the container. By hold-clicking again on an already searched container, the player can place items from their inventory into the container. It can hold up to 15kg (33lbs) of items.
 
-<!-- #Loot -->
-​
-
-<!-- #loot -->
 ## Loot
 
 |  | Item | Rarity |
@@ -78,10 +74,6 @@ The **Metal Container**is a common stationary interactable object that can be fo
 | [Prybar icon](../assets/Prybar_icon.png) | [Prybar](./Prybar.md) | 0.56% |
 | [Flashlight icon](../assets/Flashlight_icon.png) | [Flashlight](./Flashlight.md) | 0.56% |
 
-<!-- #Wintermute -->
-​
-
-<!-- #wintermute -->
 ## Wintermute
 
 Occasionally, a [Forest Talker Supply Cache](./Forest%20Talker%20Supply%20Caches.md) can be found with the [Forest Talkers](./Forest%20Talkers.md) logo, and large amounts of loot. These can be found in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) and [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).

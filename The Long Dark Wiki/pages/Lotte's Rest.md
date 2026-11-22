@@ -24,10 +24,6 @@ Has a bed
 
 Has an interior **Lotte's Rest**, also known as Refuge Cabin A, is a small cabin located in [Sundered Pass](./Sundered%20Pass.md) found on the main mountain road located closest to the region transition to [Transfer Pass](./Transfer%20Pass.md), just past [Baneful Bridge](./Baneful%20Bridge.md). Past the area on the road is [Cascading Gap](./Cascading%20Gap.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The cabin can provide life-saving shelter if the weather conditions turn poor. It offers a small amount of loot and limited storage:

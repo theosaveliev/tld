@@ -10,10 +10,6 @@
 
 **Something Warm to Drink** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Guide -->
-​
-
-<!-- #guide -->
 ## Guide
 
 This achievement is easiest to unlock when playing on [Pilgrim](./Pilgrim.md). The player must collect the 7 different unique variants of an [Insulated Flask](./Insulated%20Flask.md) in a single [Survival Mode](./Survival%20Mode.md) game.

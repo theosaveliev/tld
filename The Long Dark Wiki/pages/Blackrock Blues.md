@@ -18,7 +18,7 @@ Episode
 
 **Region:** [Blackrock Region](./Blackrock.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Mathis](./Mathis.md)<br>[Franklin](./Franklin.md)<br>[Vachon](./Vachon.md)<br>[Heller](./Heller.md)<br>[Jace](./Jace.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md) [Franklin](./Franklin.md) [Vachon](./Vachon.md) [Heller](./Heller.md) [Jace](./Jace.md)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -28,10 +28,6 @@ Episode
 
 **Blackrock Blues** is the first mission in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md). In this episode, Will has to get medical supplies to help heal [Franklin](./Franklin.md) after [Mathis](./Mathis.md) beat him up.
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Check on the voice next door.
@@ -42,10 +38,6 @@ Episode
   - Track down the prison truck and medicine.
   - Return to Blackrock.
 
-<!-- #Walkthrough -->
-​
-
-<!-- #walkthrough -->
 ## Walkthrough
 
 | Mission details — Start location | Mission details — Blackrock Federal Penitentiary |
@@ -65,10 +57,6 @@ Shortly before exiting, the player will come to a weapons locker. This can provi
 
 With the medicine in hand, follow the main road back to the prison. Before dropping off the medicine, place any items found along the way in a safe location (the locker in the guardhouse is recommended), else they'll be confiscated. The mission ends when the drugs are delivered at the jail's door.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - The name of this mission may have been inspired by "Folsom Prison Blues" a country song about prison life written by Johnny Cash.

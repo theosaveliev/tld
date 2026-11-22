@@ -36,10 +36,6 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 The Cylinder is narrated by Chief Engineer Best.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Wax Cylinder 15**_
@@ -69,17 +65,3 @@ McLeod is driving the men harder and harder, with unsustainable quotas. Someone 
 Until we know more, I suggest we double the track monitoring crews and increase the frequency of your team's sweeps.
 
 The trains are coming through at greater and greater speeds and I'm concerned things will end in catastrophe if not for our constant vigilance.
-
-<!-- #game_history -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #game-history -->
-## Game history
-
-[ru:Восковой валик 15](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D0%B0%D0%BB%D0%B8%D0%BA_15)

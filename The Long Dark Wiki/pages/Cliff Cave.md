@@ -18,12 +18,8 @@ Region
 
 **Type:** Cave
 
-Provides some shelter<br>**Cliff's Cave** is just one of the many small caves located in [Blackrock](./Blackrock.md).
+Provides some shelter **Cliff's Cave** is just one of the many small caves located in [Blackrock](./Blackrock.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A dead body with a [Hunting Rifle](./Hunting%20Rifle.md) can be found just outside the cave. A [bear](./Bear.md) has a chance of spawning from this cave; be careful if there are yellowed bones inside said cave.

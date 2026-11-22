@@ -79,10 +79,6 @@ GAMEPLAY\_TomatoSoupCan
 
 **Tomato Soup** is a packaged [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Consuming Tomato Soup restores a small amount of calories and hydration, it has relatively low energy density, making it heavy for the calories it provides. It may also be warmed by a [fire](./Fire.md) to grant the benefit [Warming Up](./Warming%20Up.md).
@@ -91,33 +87,15 @@ Like other canned foods, Tomato Soup may be opened with a [Can Opener](./Can%20O
 
 Tomato Soup is relatively common inside homes: usually in cupboards or on shelfs.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Tomato Soup is branded as "_Mom's Kitchen_".
 - The ingredients on the back list: "Tomatoes, Water, Salt." and that it is a "Product of Canada."
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model](../assets/Tomato_soup.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - HOTFIX **18 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.183)):**

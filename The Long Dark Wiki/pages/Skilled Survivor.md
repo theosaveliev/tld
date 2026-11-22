@@ -17,10 +17,6 @@
 
 **Description:** Get all skills to level 5 in a single Survival Mode game.
 
-<!-- #Guide -->
-​
-
-<!-- #guide -->
 ## Guide
 
 This achievement is obtained by getting all [Skills](./Skills.md) to level five in a single game in [Survival Mode](./Survival%20Mode.md).
@@ -39,19 +35,13 @@ The skills required are as follows:
 
 **Note:** Because some of the skills require access to firearms, the achievement is unobtainable on [Interloper](./Interloper.md) or [Misery](./Misery.md). (This may no longer be true after introduction of Trader, as he sells rifle and revolver books in Interloper mode too.)
 
-<!-- #Tips -->
-​
+## Strategy
 
-<!-- #tips -->
 ### Tips
 
 - [Research Books](./Research%20Book.md) can be very helpful in leveling up skills faster and with less resources.
 - If the player has the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) installed, the [Trader](./Trader.md) has a chance to offer Research Books for every skill.
 
-<!-- #Skills -->
-​
-
-<!-- #skills -->
 ### Skills
 
 Most skills require 100 points to level up, unless noted. Generally, one successful action will provide 1 point towards the relevant skill.

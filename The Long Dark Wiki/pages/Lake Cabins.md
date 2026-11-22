@@ -25,10 +25,6 @@
 
 Has an interior **Lake Cabins** is an unmarked location [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The lake cabins are located along the southern shore of [Mystery Lake](./Mystery%20Lake%20%28location%29.md). The cabins can be looted for a moderate number of items. They also provide good protection from the elements. Each cabin has a [bunk bed](./Bed.md), and a couple containers
@@ -37,16 +33,6 @@ Each of the cabins had a chance of being "ruined" in which their roofs will have
 
 Beware of [wolves](./Wolf.md) that commonly patrol north of the cabins, and wolves that may wander in from the lake.
 
-<!-- #common_loot -->
-​
-
-<!-- #Common_Loot -->
-​
-
-<!-- #Common_loot -->
-​
-
-<!-- #common-loot -->
 ## Common Loot
 
 - Assorted [Food And Drink](./Food%20And%20Drink.md)
@@ -54,18 +40,10 @@ Beware of [wolves](./Wolf.md) that commonly patrol north of the cabins, and wolv
 - [Fire](./Fire.md) starting materials (e.g., matches, [accelerant](./Accelerant.md), tinder)
 - A [hatchet](./Hatchet.md) can be found near a backpack by the second set of lake cabins
 
-<!-- #Notes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 - In episode 2 of story mode, two of the accessible Lake Cabins (as well as the [Lone Lake Cabin](./Lone%20Lake%20Cabin.md)) need a key to be unlocked.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The interior of a cabin](../assets/Lake_cabin.jpg)

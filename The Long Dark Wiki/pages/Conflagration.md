@@ -16,16 +16,12 @@ Episode
 
 **Region:** [Perseverance Mills](./Perseverance%20Mills.md)
 
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md)<br>[Mathis](./Mathis.md)<br>[Jane Yang](./Jane%20Yang.md)<br>[Donner](./Donner.md)<br>[Heller](./Heller.md)<br>[Vachon](./Vachon.md)<br>[Jeremiah](./Jeremiah.md)<br>[Molly](./Molly.md)<br>[Methuselah](./Methuselah.md)<br>[Convicts](./Convicts.md)
+**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Mathis](./Mathis.md) [Jane Yang](./Jane%20Yang.md) [Donner](./Donner.md) [Heller](./Heller.md) [Vachon](./Vachon.md) [Jeremiah](./Jeremiah.md) [Molly](./Molly.md) [Methuselah](./Methuselah.md) [Convicts](./Convicts.md)
 
 > “**Prepare for the Quiet Apocalypse.**”
 
 **Conflagration** is the only mission of Part Four: Terminus in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md). It is the last mission in the Episode, and the last mission of the Wintermute story.
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Infiltrate the town. Sneak by or take down the marauding Convicts.

@@ -32,10 +32,6 @@
 
 The note is narrated by the Captain.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Worn Logbook**_
@@ -50,16 +46,6 @@ They keep jabbering about the "call of the lights" and a "burning fire." It's fo
 
 But we have enough food for now, calm seas, and a good course for landfall soon.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**

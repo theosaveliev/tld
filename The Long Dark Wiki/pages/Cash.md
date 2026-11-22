@@ -33,27 +33,10 @@
 
 **Cash** is a [Fire Starting](./Fire%20Starting.md) item that can be used as tinder to start [fires](./Fire.md). Its appearance is of a green [Canadian $20 note](https://en.wikipedia.org/wiki/Canadian_Journey_Series) - the former currency of [Great Bear Island](./Great%20Bear%20Island.md) and Canada before [The Collapse](./The%20Collapse.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Cash fills the role of tinder, which is used for Fire Starting. Cash is the lightest tinder, tied with the [Cat Tail Head](./Cat%20Tail%20Head.md), [Birch Bark](./Birch%20Bark.md), and [Tinder Plug](./Tinder%20Plug.md), and weighs only 0.05 kg per unit. Like all other types of tinder, it does not increase the chance to successfully light a fire.
 
-<!-- #fire_starting_info -->
-​
-
-<!-- #Fire_Starting_info -->
-​
-
-<!-- #Fire_starting_info -->
-​
-
-<!-- #Fire_Starting_Info -->
-​
-
-<!-- #fire-starting-info -->
 ## Fire Starting info
 
 **Cash**
@@ -64,24 +47,10 @@ Cash fills the role of tinder, which is used for Fire Starting. Cash is the ligh
 
 **Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) 0%
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![3d model](../assets/Cash_item.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

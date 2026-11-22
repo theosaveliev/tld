@@ -24,10 +24,6 @@
 
 It appears to be related to [Escape the Darkwalker](./Escape%20the%20Darkwalker.md), but it cannot be found (listed in game files as Darkwalker ID).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **ID: Naomi Moore**_

@@ -36,18 +36,10 @@
 
 **Mountaineering Rope** is a tool used for [climbing](./Rope%20Climbing.md) cliff faces.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The mountaineering rope is used in conjunction with the [rope climbing](./Rope%20Climbing.md) gameplay mechanic to allow the player to ascend and descend vertical cliffs. The rope must be attached to a certain type of rock feature at the top of a climbable cliff before the climb can be made. While important for traversing mountainous terrain in some regions and caves, using mountaineering ropes can quickly exhaust the player, possibly leading to injury or death from a fall or trapping the player on an inhospitable cliff side.
 
-<!-- #Locating -->
-​
-
-<!-- #locating -->
 ## Locating
 
 Many ropes are already deployed from rocks over climbable cliffs, but these can be removed and deployed from other cliffs instead. Non-deployed ropes might be found in the following areas:
@@ -91,42 +83,16 @@ Many ropes are already deployed from rocks over climbable cliffs, but these can 
 - [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
   - Inside the [Train Shuttle](./Train%20Shuttle.md) on [Surfeit Trestle](./Surfeit%20Trestle.md)
 
-<!-- #game_history -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #game-history -->
 ### Game history
 
 - The mountaineering rope was added on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298).
 - [Version 0.321](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321) extends the use of ropes to maps other than [Timberwolf Mountain](./Timberwolf%20Mountain.md) and makes the spawn locations Added.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Mountaineering rope secured to a rock near a cliff face. old version](../assets/Mountaineering_rope_secured_on_rock.jpg)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
   - Added to game.
-
-[ru:Альпинистский трос](https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%BF%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%BE%D1%81)

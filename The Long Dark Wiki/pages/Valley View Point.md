@@ -18,10 +18,6 @@
 
 **Type:** Outdoors
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A [Hatchet](./Hatchet.md) is needed to hack through some [Scrub Brush](./Scrub%20Brush.md) to reach the top. A corpse and a few miscellaneous items may spawn in the area, next to a Campfire.

@@ -30,10 +30,6 @@
 
 **Blackrock Memo - Highly Aggressive Wolf** is a [Collectible](./Collectibles.md) note found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story. It is found in the [Locker](./Locker.md) used to store the player's items to prevent them from being confiscated when returning to the Prison. In the room unlocked by the [Blackrock Gate Key](./Blackrock%20Gate%20Key.md), where the first [Noisemaker](./Noisemaker.md) is found. It is part of the side mission [Blackrock Rumours](./Blackrock%20Rumours.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Blackrock Memo - Highly Aggressive Wolf**_
@@ -50,16 +46,6 @@ D. Gordon
 
 Blue Shift Supervisor
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**

@@ -30,10 +30,6 @@ Has a bed
 
 Has an interior **Train Shelter** is the sole named location in [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 An isolated shelter that was used by Alice McLeod to hide the [Prototype Train](./Prototype%20Train.md). This location is the only marked location on the entire map.
@@ -48,10 +44,6 @@ The Train Shelter itself has very few resources that can be picked up or harvest
 
 The Train Shelter's home cannot be used for [Safehouse Customization](./Safehouse%20Customization.md).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The Train Shelter upon first approach](../assets/Train_Shelter_Approach.jpg)

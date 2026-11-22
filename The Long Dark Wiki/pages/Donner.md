@@ -50,35 +50,16 @@ _For the mission of the same name, see [Donner (mission)](./Donner%20%28mission%
 >
 > — [Franklin](./Franklin.md)
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 **Donner** is an unseen character that is the driving motivational force behind the actions of [Mathis](./Mathis.md) and the [Convicts](./Convicts.md) in [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md), eventually making a brief appearance in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md).
 
-<!-- #Appearance -->
-​
-
-<!-- #appearance -->
 ## Appearance
 
 In Episode 5, he wears glasses.
 
-<!-- #episode_4_fury_then_silence -->
-​
+## History
 
-<!-- #Episode_4:_Fury,_Then_Silence -->
-​
-
-<!-- #episode_4:_fury,_then_silence -->
-​
-
-<!-- #Episode_4:_fury,_then_silence -->
-​
-
-<!-- #episode-4-fury-then-silence -->
 ### [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
 
 > “**Donner is a once-in-a-generation criminal. Donner gets out...he will make it his personal mission to find and hurt every living human he can get his hands on...between Blackrock and the Mainland. Just for shits and giggles.**”
@@ -91,19 +72,6 @@ Mathis cares deeply for his son and is willing to do anything to free him, going
 
 Due to the combined actions of Will Mackenzie and [Jace](./Jace.md), an explosion destroyed Blackrock Prison and unintentionally freed Donner. He is last mentioned by Heller at the [Power Plant](./Power%20Plant.md) to be critically wounded but alive, and needs immediate medical attention.
 
-<!-- #episode_5_the_light_at_the_end_of_all_things -->
-​
-
-<!-- #Episode_5:_The_Light_At_The_End_Of_All_Things -->
-​
-
-<!-- #episode_5:_the_light_at_the_end_of_all_things -->
-​
-
-<!-- #Episode_5:_the_light_at_the_end_of_all_things -->
-​
-
-<!-- #episode-5-the-light-at-the-end-of-all-things -->
 ### [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
 
 > “**D.... Dad? I saw it. Lights. The lights. They called to me. And. I found... water. Black water. It was all... lights and black water. Then... nothing. Nothing but dark.**”

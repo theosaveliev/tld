@@ -14,10 +14,6 @@
 
 **Type:** Residential
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![20260406234153 1](../assets/20260406234153_1.jpg)

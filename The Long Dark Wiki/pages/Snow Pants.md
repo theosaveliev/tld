@@ -24,9 +24,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 30 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>30% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 30% condition
 
 > “**Insulated pants with a nylon windproof layer. Designed for spending a day in the snow without getting too wet!**”
 >
@@ -50,16 +50,6 @@ Not available on [Interloper](./Interloper.md).
 
 ![Clothing model icon damaged](../assets/Snow_Pants_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

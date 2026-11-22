@@ -18,12 +18,8 @@
 
 **Type:** Cave
 
-Has an interior<br>**Cave** is a named [Warm Cave](./Warm%20Cave.md) in [Mountain Town](./Mountain%20Town.md). It is located just behind the [Radio Tower](./Radio%20Tower.md).
+Has an interior **Cave** is a named [Warm Cave](./Warm%20Cave.md) in [Mountain Town](./Mountain%20Town.md). It is located just behind the [Radio Tower](./Radio%20Tower.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Not much can be found inside aside from large amounts of [Coal](./Coal.md) and a [Frozen Corpse](./Frozen%20Corpse.md), but the cave may make a decent place to sleep if travelling to [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md). The interior is a constant temperature and is warm enough to keep the player character from freezing, if they have proper warm clothing.

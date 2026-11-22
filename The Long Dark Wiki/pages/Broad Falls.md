@@ -14,10 +14,6 @@
 
 **Type:** Landmark
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Broad Falls as seen from Angler's Den at nightfall](../assets/BroadFallsFromAnglersDen_1080p.png)

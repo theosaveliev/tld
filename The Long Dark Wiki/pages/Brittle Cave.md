@@ -18,12 +18,8 @@
 
 **Type:** Cave
 
-Provides some shelter<br>**Brittle Cave** is a cave found in [Forsaken Airfield](./Forsaken%20Airfield.md) in the north eastern most section of the map.
+Provides some shelter **Brittle Cave** is a cave found in [Forsaken Airfield](./Forsaken%20Airfield.md) in the north eastern most section of the map.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 It is a small cave located a short walk east of [Drift Island](./Drift%20Island.md) next to an unnamed waterfall. It has a tuffet [Bed](./Bed.md) and spawns decent loot, such as a [Mackinaw Jacket](./Mackinaw%20Jacket.md), [Expedition Parka](./Expedition%20Parka.md), a [Prybar](./Prybar.md), [flares](./Flare.md) and food. The cave is also a source of [Coal](./Coal.md).

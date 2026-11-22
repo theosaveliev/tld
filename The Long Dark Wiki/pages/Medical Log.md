@@ -32,10 +32,6 @@
 
 The log is narrated by the Medical Officer.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Medical Log**_
@@ -49,16 +45,6 @@ Talking and writing has seen some benefit, if only for camaraderie. But I'm no p
 
 The Captain seems intent on keeping any estimate of rescue or landfall to himself. And without more help, I don't see a peaceful end to what's taking place among us. All that's left is doubt, and the face I present to the men.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**

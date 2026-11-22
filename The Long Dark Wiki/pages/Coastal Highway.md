@@ -34,7 +34,7 @@
 
 **Description:** A large frozen bay and coastline with a ruined highway crossing around it.
 
-**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md) (via [The Ravine](./The%20Ravine.md))<br>[Bleak Inlet](./Bleak%20Inlet.md) (via [The Ravine](./The%20Ravine.md))<br>[Pleasant Valley](./Pleasant%20Valley.md) (via [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md))<br>[Desolation Point](./Desolation%20Point.md) (via [Old Island Connector](./Crumbling%20Highway.md))
+**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md) (via [The Ravine](./The%20Ravine.md)) [Bleak Inlet](./Bleak%20Inlet.md) (via [The Ravine](./The%20Ravine.md)) [Pleasant Valley](./Pleasant%20Valley.md) (via [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md)) [Desolation Point](./Desolation%20Point.md) (via [Old Island Connector](./Crumbling%20Highway.md))
 
 **Difficulty:** Intermediate
 
@@ -52,10 +52,6 @@
 
 **Coastal Highway** is the 2nd [Region](./Region.md) released in _[The Long Dark](./The%20Long%20Dark.md)_. The region is named after a section of the [Great Bear Highway](./Great%20Bear%20Highway.md) that wraps itself around a local lagoon, giving the region a C shape.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The region is a relatively warm crescent of steep hills and switchbacks surrounding an icy bay; a highway follows the coast with settlements along it. The bay's ice shelf features many [Fishing huts](./Fishing%20Hut.md), and further out two islands: [Jackrabbit Island](./Jackrabbit%20Island.md) and [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md). Several [Wolf](./Wolf.md) packs live in the area, and further out the bay's ice becomes thin and dangerous to walk upon.
@@ -66,10 +62,6 @@ Compared to the nearby [Mystery Lake](./Mystery%20Lake%20%28region%29.md), it ha
 
 Coastal Highway also has two notable benefits compared to regions further inland. First, like in other coastal regions, [beachcombing](./Beachcombing.md) is possible, giving the player easy and renewable sources of clothing, tools, medications, and fish, among other items. Second, Coastal Highway is the only region in the game with a [Trade Drop Box](./Trade%20Drop%20Box.md), meaning that it is the only region where goods can be directly exchanged with the [Trader](./Trader.md). This makes Coastal Highway a prime candidate for long-term habitation, and makes it one of the most important regions in the late-game.
 
-<!-- #Peculiarities -->
-​
-
-<!-- #peculiarities -->
 ## Peculiarities
 
 Coastal Highway differs from most other regions in some regards, which may require adaptations to playing style.
@@ -83,24 +75,10 @@ One notable feature of this region is that, depending on the Experience chosen, 
 
 This is the only region that features this type of change on higher difficulties.
 
-<!-- #exclusive_gear -->
-​
-
-<!-- #Exclusive_gear -->
-​
-
-<!-- #Exclusive_Gear -->
-​
-
-<!-- #exclusive-gear -->
 ## Exclusive gear
 
 One piece of exclusive gear will be found in the region: [Barb's Rifle](./Barb%27s%20Rifle.md). This rifle is considerably more durable than the normal rifle, but is 0.50 kg heavier. Its exact location will vary in each playthrough.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 There are many named locations within Coastal Highway, including:
@@ -126,16 +104,6 @@ There are many named locations within Coastal Highway, including:
 - To Crumbling Highway (Transition to [Crumbling Highway](./Crumbling%20Highway.md))
 - To Ravine (Transition to [The Ravine](./The%20Ravine.md))
 
-<!-- #unmarked_locations -->
-​
-
-<!-- #Unmarked_Locations -->
-​
-
-<!-- #Unmarked_locations -->
-​
-
-<!-- #unmarked-locations -->
 ### Unmarked Locations
 
 Additionally, there are several indoor locations spread across the region that are recorded in the [Journal](./Journal.md). These locations are labeled [Coastal House](./Coastal%20House.md), Cabin, Fishing Cabin, and Trailer.
@@ -150,16 +118,6 @@ Many of these buildings will spawn destroyed if playing on [Interloper](./Interl
 - [Rabbit Grove](./Rabbit%20Grove.md) has 1 Cabin.
 - [Waterfront Cottages](./Waterfront%20Cottages.md) can contain 1-2 [Coastal Houses](./Coastal%20House.md) (0 on I/M).
 
-<!-- #miscellaneous_structures -->
-​
-
-<!-- #Miscellaneous_Structures -->
-​
-
-<!-- #Miscellaneous_structures -->
-​
-
-<!-- #miscellaneous-structures -->
 ### Miscellaneous Structures
 
 Several Trailers and Cabins can be found farther away from named locations.
@@ -174,71 +132,31 @@ Several Trailers and Cabins can be found farther away from named locations.
 
 Additionally, a [crashed plane](./Plane%20Crashes.md) can be found to the east of Coastal Townsite, up in the hills past the Cabin on the outskirt of town.
 
-<!-- #Safehouses -->
-​
-
-<!-- #safehouses -->
 ## Safehouses
 
 There are several locations for [Safehouses](./Safehouse.md) in the Coastal Highway, including Jackrabbit Island and Quonset Garage.
 
-<!-- #quonset_garage -->
-​
-
-<!-- #Quonset_Garage -->
-​
-
-<!-- #Quonset_garage -->
-​
-
-<!-- #quonset-garage -->
 ### Quonset Garage
 
 - Pros: A central location with plentiful resources, abundant storage, an indoor workbench, bed, and fire barrel. Numerous vehicles nearby for storage or escape from predators.
 - Cons: Multiple predators around the Quonset, including wolves, a bear and moose spawn. Very dangerous, especially if on Stalker and Interloper. No nearby cave (but fishing huts) for Cabin Fever; vehicles are quite cold.
 
-<!-- #jackrabbit_island -->
-​
-
-<!-- #Jackrabbit_Island -->
-​
-
-<!-- #Jackrabbit_island -->
-​
-
-<!-- #jackrabbit-island -->
 ### Jackrabbit Island
 
 - Pros: Centrally located, direct access to multiple key regions and to the [Trader](./Trader.md) while being secluded from predators. Has 2 rabbit groves on the island, and 1 nearby (towards Misanthrope) as well as fishing, abundant sticks, and close access for [Beachcombing](./Beachcombing.md). Several possible bear spawns in the vicinity but none come close to the island.
 - Cons: Somewhat unreliable [Fir Limb](./Fir%20Limb.md) / [Cedar Limb](./Cedar%20Limb.md) spawns, a [Travois](./Travois.md) is recommended to haul in bigger loads from elsewhere. No place for indoor fires ([Fireplace](./Fireplace.md), [barrel](./Fire%20Barrel.md) or [Pot Belly Stove](./Pot%20Belly%20Stove.md)). No nearby cave for Cabin Fever, only Fishing Huts. Wolves and Timberwolves can spawn near Fishing huts.
 
-<!-- #fishing_camp -->
-​
-
-<!-- #Fishing_Camp -->
-​
-
-<!-- #Fishing_camp -->
-​
-
-<!-- #fishing-camp -->
 ### Fishing Camp
 
 - Pros: multiple rabbit groves (2 over hill, 1 near the bridge, 2 at Jackrabbit Island) and fishing shacks, and close to the coast for beachcombing. Centrally located in the region, and has a workbench (outdoors).
 - Cons: Multiple wolves may spawn nearby, as well as a bear up the road or atop the hill. Workbench is outdoors. No place for indoor fires (fireplace, barrel or pot belly stove). No nearby cave for Cabin Fever.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Many photographs on walls or nightstands inside the houses of Coastal Highway are [Hinterland's](./Hinterland%20Studio%20Inc..md) developers, or their friends and family; this includes "Stacyplays" (aka Stacy Hinojosa) a YouTuber who ran a "let's play" series during The Long Dark's alpha/beta (2014-2016). The item [Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md) is also named after her.
 
-<!-- #Maps -->
-​
+## Gallery
 
-<!-- #maps -->
 ### Maps
 
 ![A detailed map of Coastal Highway v2.35 (spoilers)](../assets/Coastal_Highway_%28Pilgrim-Stalker%29.jpg)
@@ -251,19 +169,6 @@ There are several locations for [Safehouses](./Safehouse.md) in the Coastal High
 
 ![Coastal Highway map by Sniper Bob](../assets/Coastal_Highway_map_by_Sniper_Bob.jpg)
 
-<!-- #locations_old -->
-​
-
-<!-- #Locations_(Old) -->
-​
-
-<!-- #locations_(old) -->
-​
-
-<!-- #Locations_(old) -->
-​
-
-<!-- #locations-old -->
 ### Locations (Old)
 
 ![Abandoned Lookout](../assets/Abandoned_Lookout.jpg)
@@ -302,10 +207,6 @@ _Quonset Gas Station_
 
 [ru:Прибрежное шоссе](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B1%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D0%B5_%D1%88%D0%BE%D1%81%D1%81%D0%B5)
 
-<!-- #Miscellaneous -->
-​
-
-<!-- #miscellaneous -->
 ### Miscellaneous
 
 ![A poster of Coastal Highway](../assets/Coastal_highway_poster.png)

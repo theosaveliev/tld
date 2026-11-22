@@ -28,34 +28,16 @@
 
 A **Laceration** may be inflicted during a [Struggle](./Struggle.md). Lacerations instantly damage condition but do not require any treatment to remove, and because of this it never appears directly on the afflictions menu.
 
-<!-- #Cause -->
-​
-
-<!-- #cause -->
 ## Cause
 
 The player can receive a Laceration during a [Struggle](./Struggle.md) with a [Bear](./Bear.md), [Timberwolf](./Timberwolf.md), [Poisoned Wolf](./Poisoned%20Wolf.md), or [Wolf](./Wolf.md).
 
-<!-- #Effect -->
-​
-
-<!-- #effect -->
 ## Effect
 
 -10% to -15% instant condition loss. Cannot be treated and disappears immediately after being inflicted.
 
 ![Old icon](../assets/Laceration_png.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.256)):**

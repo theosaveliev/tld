@@ -34,19 +34,6 @@
 
 **Sticks** are a crafting material and fuel material in _The Long Dark_.
 
-<!-- #fire_starting_info -->
-​
-
-<!-- #Fire_Starting_info -->
-​
-
-<!-- #Fire_starting_info -->
-​
-
-<!-- #Fire_Starting_Info -->
-​
-
-<!-- #fire-starting-info -->
 ## Fire Starting info
 
 **Stick**
@@ -63,24 +50,16 @@
 
 **Burn Density:** 0.83 hr/kg (0.38 hr/lb)
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | None | - 5 × [Stick](./Stick.md)<br>- 5 × [Crow Feather](./Crow%20Feather.md) |
-| [Fishing Tip-Up](./Fishing%20Tip-Up.md) | None | - 2 × [Stick](./Stick.md)<br>- 1 × [Cloth](./Cloth.md)<br>- 1 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Fishing Tackle](./Fishing%20Tackle.md) |
-| [Snow Shelter](./Snow%20Shelter.md) | None | - 15 × [Stick](./Stick.md)<br>- 5 × [Cloth](./Cloth.md) |
+| [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) | None | - 5 × [Stick](./Stick.md) - 5 × [Crow Feather](./Crow%20Feather.md) |
+| [Fishing Tip-Up](./Fishing%20Tip-Up.md) | None | - 2 × [Stick](./Stick.md) - 1 × [Cloth](./Cloth.md) - 1 × [Scrap Metal](./Scrap%20Metal.md) - 1 × [Fishing Tackle](./Fishing%20Tackle.md) |
+| [Snow Shelter](./Snow%20Shelter.md) | None | - 15 × [Stick](./Stick.md) - 5 × [Cloth](./Cloth.md) |
 | [Tinder Plug](./Tinder%20Plug.md) | None | - 1 × [Stick](./Stick.md) |
-| [Torch](./Torch.md) | None | - 3 × [Stick](./Stick.md)<br>- 1 × [Cloth](./Cloth.md)<br>- 0.10 L × [Lantern Fuel](./Lantern%20Fuel.md) |
+| [Torch](./Torch.md) | None | - 3 × [Stick](./Stick.md) - 1 × [Cloth](./Cloth.md) - 0.10 L × [Lantern Fuel](./Lantern%20Fuel.md) |
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 Torches (including Ruined Torches) may be harvested into a stick, for just 2 minutes (in-game).
@@ -95,24 +74,10 @@ Sticks can also be used as a basic compass, because when dropped they will point
 
 It's commonly believed that sticks respawn after strong winds or blizzards, but this is untrue. Radial spawns (sticks, branches, coal, stones ect.) simply spawn on a randomized timer, independent of any weather conditions.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![An arrow for navigation purposes made out of four sticks.](../assets/ArrowMadeOfSticks.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.256)):**

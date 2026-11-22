@@ -52,10 +52,6 @@ _For the smaller Salt jars, see [Salt](./Salt.md)._
 
 **Salt** is a [seasoning](./Food%20And%20Drink.md) and preservative in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Usage -->
-​
-
-<!-- #usage -->
 ## Usage
 
 Salt is used as an ingredient in numerous cooking recipes. Most recipes that uses Salt tend to need 0.01 kg of Salt, meaning one Bag of Salt can be used in 1000 recipes. However, they are far more useful for creating a [Meat Curing Box](./Meat%20Curing%20Box.md), which is a survivor-made [Decoration](./Decorations.md).
@@ -64,20 +60,12 @@ Salt is used as an ingredient in numerous cooking recipes. Most recipes that use
 
 Salt is one of the few items that is not affected by [Decay](./Decay.md).
 
-<!-- #Acquisition -->
-​
-
-<!-- #acquisition -->
 ## Acquisition
 
 Smaller jars of [Salt](./Salt.md) (0.25kg) can be found as loot usually in kitchens or food-related areas, while large bags of salt (10.00kg) can be usually acquired from [The Trader](./Trader.md) as they rarely can be found in the world.
 
 [Salt Deposits](./Salt%20Deposit.md) can be found on coastal rock formations (e.g. outdoors on [Jackrabbit Island](./Jackrabbit%20Island.md), or inside [Abandoned Mine No. 3](./No.%203%20Coal%20Mine.md)) and harvested by hand. Each Salt Deposit yields multiple units (0.25kg) units of salt, with multiple deposits appearing in groups.
 
-<!-- #Location -->
-​
-
-<!-- #location -->
 ## Location
 
 Locations that can spawn a Salt Bag include:
@@ -102,10 +90,6 @@ Locations that can spawn a Salt Bag include:
   - [Concentrator](./Concentrator.md) in the kitchen of the top floor
   - [Langston Mine](./Langston%20Mine.md)
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - The bag is branded as "Salt Co. Genuine"

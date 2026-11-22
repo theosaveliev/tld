@@ -28,19 +28,6 @@
 
 Has a workbench
 
-<!-- #access_to_the_area -->
-​
-
-<!-- #Access_to_the_Area -->
-​
-
-<!-- #Access_to_the_area -->
-​
-
-<!-- #Access_To_The_Area -->
-​
-
-<!-- #access-to-the-area -->
 ## Access to the Area
 
 Initially, there are only three access points to this area:
@@ -53,10 +40,6 @@ Once the area is visited another access can be opened, if the player deploys a [
 
 It is possible to reach [Homesteader's Respite](./Homesteader%27s%20Respite.md) from [Bitter Marsh](./Bitter%20Marsh.md) without a rope by walking up a nearby slope and sticking to the cliff-face, then dropping onto the ledge below. This path is the fastest for reaching Miner's Folly, however it clearly isn't a path Hinterland intended for players to take, and the steep angle may cause multiple sprains, which will require treatment before climbing the long rope to [Fire Overlook](./Fire%20Overlook.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A [Work Bench](./Work%20Bench.md), [First Aid cabinet](./First%20Aid%20Kit.md), [Woodworking Tools](./Woodworking%20Tools.md) as well as a [Fire Barrel](./Fire%20Barrel.md) are available in the main ruined barn, which is partly open to the elements and predators. Reclaimed wood and a few other miscellaneous supplies may be found scattered around the site or in containers. Fixed containers include a coal bin and a backpack.
@@ -69,10 +52,6 @@ There may be [deer](./Deer.md) around to hunt, but when hunting or crafting at t
 
 Although technically a separate location, the [Foreman's Retreat](./Foreman%27s%20Retreat.md) is located close-by up on the ridge.
 
-<!-- #Resources -->
-​
-
-<!-- #resources -->
 ## Resources
 
 - Up to 5 [Ptarmigan](./Ptarmigan.md) will land near [Foreman's Retreat](./Foreman%27s%20Retreat.md).
@@ -85,16 +64,6 @@ Although technically a separate location, the [Foreman's Retreat](./Foreman%27s%
 - A [Wolf](./Wolf.md) pack can spawn around the shack that contains the Workbench. • To be confirmed, but while the Bear, Moose and Deer can spawn alongside each other, it seems like the Bear and the Wolf pack are mutually exclusive.
 - 5-8 [Reclaimed Wood](./Reclaimed%20Wood.md) will spawn around the open shack where the Workbench is, under the smaller overhang open structures as well as near the Cabin where the Memento Note is pinned.
 
-<!-- #nearby_unnamed_locations -->
-​
-
-<!-- #Nearby_unnamed_locations -->
-​
-
-<!-- #Nearby_Unnamed_Locations -->
-​
-
-<!-- #nearby-unnamed-locations -->
 ## Nearby unnamed locations
 
 - There is a open walkthrough cave with a stick bed and possibly some minor loot in the rocks next to [Foreman's Retreat](./Foreman%27s%20Retreat.md).
@@ -102,10 +71,6 @@ Although technically a separate location, the [Foreman's Retreat](./Foreman%27s%
 - A Rope bridge leads from [Miner's Folly](./Miner%27s%20Folly.md) south-east (down and right on in-game map) towards a cave with a container and eventually to [High Meadow](./High%20Meadow.md).
   - When crossing, pay attention to the ground and wooden supports on both edges of the bridge as up to 80 [Cardboard Matches](./Cardboard%20Matches.md) spawn there, 20 on the northern side on the wood platform, 40 on the southern side just lazing on the ground and 20 on the southern side on nearby rocks (on the right side). This spot may be very important to check on Interloper, as sources of fire are scarce.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Bear at Miner's Folly](../assets/20201210003719_1.jpg)

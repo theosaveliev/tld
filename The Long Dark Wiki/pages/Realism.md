@@ -21,16 +21,6 @@ In _[The Long Dark](./The%20Long%20Dark.md)_, besides the core survival [mechani
 
 This game is constantly tuned to create interesting gameplay and not to conform to real-world expectations. Thus a new player could, after reading this article, be less surprised of the way things work in game both in possibly a positive or a negative way - depending on the type of player.
 
-<!-- #basic_human_needs -->
-​
-
-<!-- #Basic_human_needs -->
-​
-
-<!-- #Basic_Human_Needs -->
-​
-
-<!-- #basic-human-needs -->
 ## Basic human needs
 
 The core gameplay in _[The Long Dark](./The%20Long%20Dark.md)_ can be said to be based on the lowest level of Maslow's hierarchy of needs - food, water, warmth and rest. Other needs, such as [safety](./Safehouse.md) and love needs (only [story](./Wintermute.md) mode), are not directly measured in the game's interface (with exception of somewhat related to love - trust in the story mode) but instead meant for the player to experience individually. The deprivation of the measured needs leads to the player loosing overall Condition and ultimately death. Both the basic 4 needs as well as condition directly can be affected by many [Afflictions](./Afflictions.md).
@@ -41,10 +31,6 @@ Things worth noting:
 - The player can die of starvation in about 4 game days if all other needs are satisfied (which could mean that the game simply does not include the mechanic which lets human body break down its proteins and fat)
 - Drinking water to satisfy the thirst need from toilet bowls does not carry any risk of [Dysentery](./Dysentery.md) or [Food Poisoning](./Food%20Poisoning.md).
 
-<!-- #Environment -->
-​
-
-<!-- #environment -->
 ## Environment
 
 The game's environment graphics were created by choice to be of artistic style instead of photorealistic. The Long Dark environment features such realistic features as rising and setting sun and moon, wind that affects the player and fires, snow that can make clothes wet, fog that limits visibility for both the player and wildlife.
@@ -54,16 +40,6 @@ Notable departures from the real world:
 - Some players noticed that, more often than it would occur naturally, the wind changes direction to oppose the player's movement or blow out fires that are protected from the wind. Whether or not this is actually true remains a speculation.
 - Not all water surfaces freezes even in very low temperatures resulting in constant weak ice in some areas. Note also that the player can fall through weak ice where at the same exact place heavier than player [bears](./Bear.md) and other animals do not fall through.
 
-<!-- #geomagnetic_disaster -->
-​
-
-<!-- #Geomagnetic_disaster -->
-​
-
-<!-- #Geomagnetic_Disaster -->
-​
-
-<!-- #geomagnetic-disaster -->
 ### Geomagnetic disaster
 
 The Long Dark is set in a universe after huge [geomagnetic disaster](./Aurora.md) with some of after effects still felt in the present game time. There also apparently have been major earthquakes which rendered roads and railroads collapsed and useless. This said universe is different from the real world in the following ways:
@@ -72,10 +48,6 @@ The Long Dark is set in a universe after huge [geomagnetic disaster](./Aurora.md
 - Most electronics function during an aurora event - lights flicker, computers display emails. Otherwise, without an aurora, they are useless.
 - During an aurora some animals will have a glowing body (a mini aurora around them)
 
-<!-- #Time -->
-​
-
-<!-- #time -->
 ## Time
 
 ![Normal flare. It lasts for 5 real-time minutes](../assets/Flare.jpeg)_Normal flare. It lasts for 5 real-time minutes_ The time in game runs 12 times faster than real time. The game developers were therefore at liberty to decide if some actions should run in real-time, game-time or somewhere in between (because it does not break immersion either way).
@@ -91,10 +63,6 @@ The Long Dark is set in a universe after huge [geomagnetic disaster](./Aurora.md
 
 Time can be further accelerated by engaging in activities such as chopping wood, fishing, repairing, crafting, forging, sleeping or just passing time. Eating is almost instant - it takes only very little time whether measured by game-time or real-time. In Custom Mode - time can be set to run slower, but there is no way to make the time run at real-time.
 
-<!-- #Specificity -->
-​
-
-<!-- #specificity -->
 ## Specificity
 
 Most events in the player's survival experience are explicit, immediate and constant:
@@ -106,16 +74,6 @@ Most events in the player's survival experience are explicit, immediate and cons
 
 Notable exception is carrying capacity lost due to [fatigue](./Fatigue.md). The two are somewhat gradually related.
 
-<!-- #player_skills -->
-​
-
-<!-- #Player_skills -->
-​
-
-<!-- #Player_Skills -->
-​
-
-<!-- #player-skills -->
 ## Player skills
 
 The player can acquire skills that speed up or make some actions more efficient. In addition some skill levels appear to somewhat change in-game reality instead of affecting only the player himself:

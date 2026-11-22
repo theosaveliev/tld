@@ -30,10 +30,6 @@
 
 **Blackrock Memo - Late Employee** is a [Collectible](./Collectibles.md) note found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story. It is found in the phone room of the Blackrock Infirmary, just below the corkboard on the floor.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Blackrock Memo - Late Employee**_
@@ -52,16 +48,6 @@ We are all aware of what isolation can do out here, but we have a job to do just
 
 Blackrock Admin Team
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**

@@ -32,16 +32,6 @@ It is located on a corpse near the frozen river between [Orca Gas Station](./Orc
 
 ![Key is located here.](../assets/Location.Key.13.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

@@ -14,10 +14,6 @@
 
 **Type:** Outdoors
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The area lies just south of [Pensive Pond](./Pensive%20Pond.md), with [Cascading Falls](./Cascading%20Falls.md) to the south west.

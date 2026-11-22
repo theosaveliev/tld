@@ -42,7 +42,7 @@
 
 **Alternate Treatment:** 1 x [Reishi Tea icon](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)/[Burdock Tea icon](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md)
 
-**Recovery Time:** 10 hours (treated)<br>12 - 24 hours (untreated)
+**Recovery Time:** 10 hours (treated) 12 - 24 hours (untreated)
 
 **Advanced Data**
 
@@ -50,10 +50,6 @@
 
 **Food Poisoning** is a negative affliction that is contracted by eating raw meat, or food with a low item [Condition](./Condition.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Food Poisoning occurs randomly when consuming [food items](./Food%20And%20Drink.md). Raw meat and low-condition foods pose the highest risk, whereas high-condition cooked, canned, or processed foods are generally safer options.
@@ -64,35 +60,17 @@ Food above 75% condition will never cause food poisoning, except raw meat and fi
 
 After achieving Level 5 in [Cooking](./Cooking.md), only raw meat, raw fish, and animal fat will cause Food Poisoning. Contracting [Sour Stomach](./Sour%20Stomach.md) (acquired from playing on [Misery](./Misery.md)) will remove this benefit however.
 
-<!-- #Effects -->
-​
-
-<!-- #effects -->
 ## Effects
 
 While suffering from Food Poisoning, the player's Condition while not sleeping will decrease by 10% per hour (to a minimum of 15%) and the player's [Fatigue](./Fatigue.md) will decrease by 30% per hour. Food Poisoning cannot kill the player directly, but being at such low condition makes hazards like predator encounters, cold weather, dehydration, or even short falls likely to be deadly.
 
 Instances of Food Poisoning do not stack, but a second instance will reset the duration of the first.
 
-<!-- #Treatment -->
-​
-
-<!-- #treatment -->
 ## Treatment
 
 - Treatment requires consuming one dose (two pills) of [Antibiotics](./Antibiotics.md) or one cup of [Reishi Tea](./Reishi%20Tea.md)/[Burdock Tea](./Burdock%20Tea.md), followed by resting for a total of 10 hours. Condition will not drain after treatment and while sleeping, but the condition drain will resume upon waking if the player has not slept for the full 10 hours required. Condition regeneration from sleep is disabled while the affliction remains.
 - Left untreated, Food Poisoning will pass automatically after 12 - 24 hours. This clock is not visible and the exact duration is decided at random. This can allow the strategic consumption of spoiled food at a safe location without having to consume antibiotics, but care should be taken to ensure [Cabin Fever](./Cabin%20Fever.md) is not a risk.
 
-<!-- #risk_by_item -->
-​
-
-<!-- #Risk_by_item -->
-​
-
-<!-- #Risk_By_Item -->
-​
-
-<!-- #risk-by-item -->
 ## Risk by item
 
 The food poisoning chance depends on both the type of food and the condition of that food item:
@@ -159,19 +137,6 @@ The food poisoning chance depends on both the type of food and the condition of 
 | [Wolf Meat (Cooked) icon](../assets/Wolf_Meat_%28Cooked%29_icon.png) | [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md) | 0% | 3% | 30% | 60% |
 | [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | 55% | 55% | 95% | 95% |
 
-<!-- #tales_from_the_far_territory_food -->
-​
-
-<!-- #Tales_from_the_Far_Territory_Food -->
-​
-
-<!-- #Tales_from_the_far_territory_food -->
-​
-
-<!-- #Tales_From_The_Far_Territory_Food -->
-​
-
-<!-- #tales-from-the-far-territory-food -->
 ### Tales from the Far Territory Food
 
 | [Cooking](../assets/Cooking.png) | Item | Above 75% | Between 20 - 75% | Below 20% | Ruined (0%) |
@@ -215,16 +180,6 @@ The food poisoning chance depends on both the type of food and the condition of 
 | [Venison Pie icon](../assets/Venison_Pie_icon.png) | [Venison Pie](./Venison%20Pie.md) | 0% | 0% | 5% | 10% |
 | [Venison Stew icon](../assets/Venison_Stew_icon.png) | [Venison Stew](./Venison%20Stew.md) | 0% | 0% | 5% | 10% |
 
-<!-- #wintermute_foods -->
-​
-
-<!-- #Wintermute_Foods -->
-​
-
-<!-- #Wintermute_foods -->
-​
-
-<!-- #wintermute-foods -->
 ### Wintermute Foods
 
 | [Cooking](../assets/Cooking.png) | Item | Above 75% | Between 20 - 75% | Below 20% | Ruined (0%) |
@@ -233,16 +188,6 @@ The food poisoning chance depends on both the type of food and the condition of 
 | [Big Bass (Raw) icon](../assets/Big_Bass_%28Raw%29_icon.png) | [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md) |  |  |  |  |
 | [Home Made Soup icon](../assets/Home-Made_Soup_icon.png) | [Home-Made Soup](./Home-made%20Soup.md) |  |  |  |  |
 
-<!-- #seasonal_foods -->
-​
-
-<!-- #Seasonal_Foods -->
-​
-
-<!-- #Seasonal_foods -->
-​
-
-<!-- #seasonal-foods -->
 ### Seasonal Foods
 
 | [Cooking](../assets/Cooking.png) | Item | Above 75% | Between 20 - 75% | Below 20% | Ruined (0%) |
@@ -250,26 +195,12 @@ The food poisoning chance depends on both the type of food and the condition of 
 | [Pumpkin Pie icon](../assets/Pumpkin_Pie_icon.png) | [Pumpkin Pie](./Pumpkin%20Pie.md) | 0% | 0% | 25% | 50% |
 | [Chocolate Bar icon](../assets/Chocolate_Bar_icon.png) | [Candy Bar](./Chocolate%20Bar%20%284%20Days%20of%20Night%29.md) | 0% | 1% | 5% | 10% |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Food poisoning and Decay (outdated)](../assets/Food_poisoning_and_Decay_-2b.png)
 
 ![Old icon.](../assets/Food_poisoning.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **18 September 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.264)):**

@@ -41,20 +41,12 @@ _For the raw version, see [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)._
 
 **Rabbit Meat (Cooked)** is a cooked food item in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Cooked Rabbit Meat is obtained by using a lit [Fire](./Fire.md) and improves the [Cooking](./Cooking.md) skill. Cooking increases its condition by 50%, makes it decay 4 times slower than raw meat, and adds a reduced chance of [Food Poisoning](./Food%20Poisoning.md) over raw meat.
 
 Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked food on an active fire for too long will burn it, destroying the item and damaging a Cooking Pot if used.
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 **Rabbit (Cooked)**
@@ -65,10 +57,6 @@ Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked fo
 
 **Quantity:** 1.00 kg
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Fresh](../assets/Rabbit_%28Cooked%29_icon.png)
@@ -83,16 +71,6 @@ Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked fo
 
 ![Old Model](../assets/Rabbit_cooked.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 October 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152)):**

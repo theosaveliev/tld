@@ -16,7 +16,7 @@
 
 **Description:** A transition zone between [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md) featuring the ruins of the [Great Bear Highway](./Great%20Bear%20Highway.md).
 
-**Connecting Regions:** [Coastal Highway](./Coastal%20Highway.md),<br>[Desolation Point](./Desolation%20Point.md)
+**Connecting Regions:** [Coastal Highway](./Coastal%20Highway.md), [Desolation Point](./Desolation%20Point.md)
 
 **Locations:** 5
 
@@ -26,16 +26,6 @@ The eastern end of the area sits [No. 3 Coal Mine](./No.%203%20Coal%20Mine.md), 
 
 There is also a relatively large amount of fuel and medicinal resources scattered about, as well as two vehicles and two shallow caves.
 
-<!-- #wildlife_availability -->
-​
-
-<!-- #Wildlife_Availability -->
-​
-
-<!-- #Wildlife_availability -->
-​
-
-<!-- #wildlife-availability -->
 ## Wildlife Availability
 
 2 types of animals can be found in the region, [Rabbit](./Rabbit.md) and [Wolves](./Wolf.md).
@@ -44,10 +34,6 @@ A couple of wolves patrol this zone in 3 different areas. Because the region is 
 
 One or two [Deer Carcasses](./Deer%20Carcass.md) can sometimes spawn in the region.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 This transition zone has 5 named locations to discover.
@@ -63,10 +49,6 @@ There are also 2 unmarked locations in the region.
 - [Basement (Crumbling Highway)](./Basement%20%28Crumbling%20Highway%29.md) (unmarked indoor location tracked in the [Journal](./Journal.md))
 - 2 [Warm Caves](./Warm%20Cave.md) that can be found near Road Collapse and The Arch.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![A detailed map of Crumbling Highway (all difficulties) v2.35](../assets/CRH_map.png)

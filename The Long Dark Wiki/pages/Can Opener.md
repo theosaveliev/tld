@@ -32,10 +32,6 @@
 
 A **Can Opener** is a tool primarily used for opening food cans.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Can openers allows players to open [canned foods](./Cooking.md#Canned) without losing between 10% and 30% of the food as spillage via smashing open. While either a [Knife](./Hunting%20Knife.md) or [Hatchet](./Hatchet.md) will also allow the player to open a can without spillage, a Can Opener is only used to open cans. Using a Can Opener allows the player to preserve those tools' condition for other uses. Using a Can Opener also allows the canned food to be eaten and yield a [Recycled Can](./Recycled%20Can.md) after consumption, whereas smashing the can open will not.
@@ -46,24 +42,10 @@ A Can Opener can be harvested for 1 unit of [Scrap Metal](./Scrap%20Metal.md).
 
 It can also be repaired 1 unit of Scrap Metal. Repairing restores 25% condition and takes 45 minutes.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Can_opener.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - HOTFIX **5 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.103)):**

@@ -53,10 +53,6 @@ A **Tin of Coffee** is a [drink](./Food%20And%20Drink.md) which can be brewed in
 
 Survivors cannot directly consume a Tin of Coffee.
 
-<!-- #Obtaining -->
-​
-
-<!-- #obtaining -->
 ## Obtaining
 
 Tins of Coffee can be found in all difficulty levels, though they may be difficult to find in Interloper. There are several (up to 10) tins in the [Cargo Containers](./Cargo%20Container.md) around [Timberwolf Mountain](./Timberwolf%20Mountain.md), specifically in the [Echo Ravine](./Echo%20Ravine.md) and at the [Summit](./Summit.md). Aside from that, Tins of Coffee are most commonly found in kitchens of houses, where they may spawn on countertops or in the cabinets. [Filing Cabinets](./File%20Cabinet.md) are also a relatively reliable source of coffee. Coffee may also occasionally be found in [Metal Containers](./Metal%20Container.md), which can be found in cabins and trailers.
@@ -71,26 +67,12 @@ Each of these locations will usually yield at least one or two tins, even on har
 
 Coffee is a renewable resource since the introduction of the [Trader](./Trader.md).
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Cup of Coffee](./Cup%20of%20Coffee.md) | None | - 1 × [Tin of Coffee](./Tin%20of%20Coffee.md)<br>- 0.25 × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Cup of Coffee](./Cup%20of%20Coffee.md) | None | - 1 × [Tin of Coffee](./Tin%20of%20Coffee.md) - 0.25 × [Water (Potable)](./Water%20%28Potable%29.md) |
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**
@@ -101,10 +83,6 @@ Coffee is a renewable resource since the introduction of the [Trader](./Trader.m
 - The tin is branded as _Big Moose Kicks Coffee_.
 - The back of the tin lists "Ingredients: Coffee Beans" and "Product of Canada."
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Pre-Alpha model (Historic)](../assets/Tin_of_coffee.png)

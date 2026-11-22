@@ -33,47 +33,25 @@
 
 **Cured Deer Hide** is the dried hide of a [Fresh Deer Hide](./Fresh%20Deer%20Hide.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Deerskin Pants](./Deerskin%20Pants.md) and [Deerskin Boots](./Deerskin%20Boots.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Cured Deer Hide is acquired by leaving [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) indoors for 5 days (in-game). Once cured, the hide will take on a darker complexion, and can then be used for crafting.
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Bear Hide Rug](./Bear%20Hide%20Rug.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)<br>- 2 × [Cured Gut](./Cured%20Gut.md) |
-| [Deerskin Boots](./Deerskin%20Boots.md) | None | - 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 4 × [Cured Gut](./Cured%20Gut.md) |
-| [Deerskin Pants](./Deerskin%20Pants.md) | None | - 3 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 4 × [Cured Gut](./Cured%20Gut.md) |
-| [Hide Chair](./Hide%20Chair.md) | None | - 8 × [Fir Firewood](./Fir%20Firewood.md)<br>- 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 8 × [Ptarmigan Down](./Ptarmigan%20Down.md)<br>- 3 × [Cured Gut](./Cured%20Gut.md) |
-| [Hide Couch](./Hide%20Couch.md) | None | - 15 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 16 × [Ptarmigan Down](./Ptarmigan%20Down.md)<br>- 5 × [Cured Gut](./Cured%20Gut.md) |
-| [Travois](./Travois.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 2 × [Cured Gut](./Cured%20Gut.md)<br>- 4 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
+| [Bear Hide Rug](./Bear%20Hide%20Rug.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) - 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Deerskin Boots](./Deerskin%20Boots.md) | None | - 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) - 4 × [Cured Gut](./Cured%20Gut.md) |
+| [Deerskin Pants](./Deerskin%20Pants.md) | None | - 3 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) - 4 × [Cured Gut](./Cured%20Gut.md) |
+| [Hide Chair](./Hide%20Chair.md) | None | - 8 × [Fir Firewood](./Fir%20Firewood.md) - 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) - 8 × [Ptarmigan Down](./Ptarmigan%20Down.md) - 3 × [Cured Gut](./Cured%20Gut.md) |
+| [Hide Couch](./Hide%20Couch.md) | None | - 15 × [Fir Firewood](./Fir%20Firewood.md) - 4 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) - 5 × [Cured Gut](./Cured%20Gut.md) |
+| [Travois](./Travois.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) - 2 × [Cured Gut](./Cured%20Gut.md) - 4 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model](../assets/Cured_deer_hide.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

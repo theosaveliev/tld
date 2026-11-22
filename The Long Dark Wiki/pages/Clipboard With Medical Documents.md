@@ -30,10 +30,6 @@
 
 **Clipboard With Medical Documents** is a [Collectibles](./Collectibles.md) found in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story. It is found inside Dr Larsen's Clinic during the main mission [Perseverance](./Perseverance.md). It is found inside the top left [File Cabinet](./File%20Cabinet.md) drawer, across from the door to the Morgue.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Clipboard With Medical Documents**_
@@ -46,16 +42,6 @@ Whatever this is, it seems to be affecting weaker, fragile people. For now, at l
 
 My diagnostic tools remain inadequate for this strange malady.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**

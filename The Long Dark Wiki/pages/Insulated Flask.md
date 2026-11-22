@@ -40,10 +40,6 @@ The **Insulated Flask** (otherwise known as a **Thermos**) is a [Tool](./Tools.m
 
 There are 6 variants in the game, but a 7th is available for players that own the Tales expansion.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 An Insulated Flask's primary function acts as both a storage container and an insulator, keeping heated drinks warmer for much longer if placed inside to preserve their [Hot](./Warming%20Up.md) status. Insulated Flasks come in 7 different versions that, aside from aesthetics, all function exactly the same. Selecting the Thermos in the Backpack allows the player to Transfer any drink the player has, Hot or Cold, into the Thermos for storage.
@@ -66,23 +62,13 @@ The following foods and drinks can be placed inside an Insulated Flask:
 | \|Drinks | \|Foods |
 | --- | --- |
 | [Birch Bark Tea icon](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md) | [Broth icon](../assets/Broth_icon.png) [Broth](./Broth.md) |
-| [Burdock Tea icon](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md) | [Tomato Soup icon](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md)<span id="fnref1"></span>[¹](#fn1) |
+| [Burdock Tea icon](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md) | [Tomato Soup icon](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md)[^1] |
 | [Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | [Last Resort Soup icon](../assets/Last_Resort_Soup_icon.png) [Last Resort Soup](./Last%20Resort%20Soup.md) |
 | [Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md) | [Porter's Soup icon](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md) |
 | [Cup of Herbal Tea icon](../assets/Cup_of_Herbal_Tea_icon.png) [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | [Vagabond Soup icon](../assets/Vagabond_Soup_icon.png) [Vagabond Soup](./Vagabond%20Soup.md) |
 | [Reishi Tea icon](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md) |  |
 | [Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md) |  |
 
-<!-- #heat_capacity -->
-​
-
-<!-- #Heat_Capacity -->
-​
-
-<!-- #Heat_capacity -->
-​
-
-<!-- #heat-capacity -->
 ## Heat Capacity
 
 When Hot drinks are placed inside a Flask, a bar on the Flask will designate how much heat remains inside (100% heat capacity at max) until the contents go Cold. The contents of a Flask lose internal heat per minute at a rate of:
@@ -92,16 +78,6 @@ When Hot drinks are placed inside a Flask, a bar on the Flask will designate how
 
 Loss of heat in a Flask begins when a player walks more than 2 meters away from an active fire. As stated before, contents of a Flask cannot be reheated by placing the Flask near an active fire, and must be reheated one at a time and reinserted in order to regain 100% heat capacity.
 
-<!-- #possible_spawns -->
-​
-
-<!-- #Possible_Spawns -->
-​
-
-<!-- #Possible_spawns -->
-​
-
-<!-- #possible-spawns -->
 ## Possible Spawns
 
 Typically, only one flask will spawn per region in one of the below locations. Additional flasks can very rarely be found in unsearched containers, such as a combination [Safe](./Safe.md).
@@ -197,10 +173,6 @@ Note: Red Plaid Flask has a chance to spawn in any [Safe](./Safe.md).
 
 - Available to players that own the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon, the [Trader](./Trader.md) has a chance to trade a unique "Sticker" Insulated Flask to the player at higher Trust levels.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Insulated Flasks are a real world containers for insulating food and beverage.
@@ -224,10 +196,6 @@ The "Sticker" Insulated Flask has many stickers across it depicting [Great Bear 
 - Canadian Flag
 - "Mountain Time" with mountains
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Orange](../assets/Insulated_Flask_%28orange%29_icon.png)
@@ -248,24 +216,10 @@ The "Sticker" Insulated Flask has many stickers across it depicting [Great Bear 
 
 ![All Flasks with various drinks in front of them](../assets/Insulated_Flasks.png)
 
-<!-- #Achievements -->
-​
-
-<!-- #achievements -->
 ## Achievements
 
 - ![Something Warm to Drink icon](../assets/Something_Warm_to_Drink_icon.png) [Something Warm to Drink](./Something%20Warm%20to%20Drink.md)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25_%28Steam%29)):**
@@ -275,12 +229,8 @@ The "Sticker" Insulated Flask has many stickers across it depicting [Great Bear 
 
 [ru:Термос](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D1%81)
 
-<!-- #footnotes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 ---
 
-1. <span id="fn1"></span>Tomato Soup cannot be placed inside a Flask until the can has been opened.[↩︎](#fnref1)
+[^1]: Tomato Soup cannot be placed inside a Flask until the can has been opened.

@@ -24,9 +24,9 @@
 
 **Date:** 1 August 2017
 
-**Wintermute:** **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)<br>**•** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)<br>**•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
+**Wintermute:** **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) **•** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) **•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
 
-**Mission:** **•** [Memories](./Memories.md)<br>**•** [Trauma](./Trauma.md)<br>**•** [Fallen Star](./Fallen%20Star.md)<br>**•** [Coming Storm](./Coming%20Storm.md)<br>**•** [Aftermath](./Aftermath.md)<br>**•** [Donner](./Donner.md)
+**Mission:** **•** [Memories](./Memories.md) **•** [Trauma](./Trauma.md) **•** [Fallen Star](./Fallen%20Star.md) **•** [Coming Storm](./Coming%20Storm.md) **•** [Aftermath](./Aftermath.md) **•** [Donner](./Donner.md)
 
 **Biographical Information**
 
@@ -34,7 +34,7 @@
 
 **Status:** Alive
 
-**Relatives:** **•** [Will Mackenzie](./Will%20Mackenzie.md) (Ex-Husband)<br>**•** Jack (Son)
+**Relatives:** **•** [Will Mackenzie](./Will%20Mackenzie.md) (Ex-Husband) **•** Jack (Son)
 
 **Occupation:** Doctor
 
@@ -52,54 +52,28 @@
 
 **Doctor Astrid Greenwood** is one of two playable protagonists in _[The Long Dark](./The%20Long%20Dark.md)_. She is playable in Episode 3 and Episode 5.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Dr. Astrid Greenwood is a freelance medical doctor and the ex-wife of Will Mackenzie. After an unexpected confrontation between the two sometime before the [First Flare](./First%20Flare.md), Astrid seeks Will out after years of being apart. Will's skill and determination as a bush pilot make him Astrid's best hope to reach an isolated town in the north of Great Bear Island, where a patient of hers awaits treatment. After hesitating at first, Mackenzie agrees to fly her out in bad weather. During a tense conversation alluding to a shared, devastating loss, a bright flash of light blazes across the sky. The First Flare event sends their small plane crashing to the ground in the northern wilderness. The two are separated and forced to survive in the unforgiving reality of the Quiet Apocalypse.
 
 Players experience [Story mode](./Wintermute.md) through both [Will Mackenzie's](./Will%20Mackenzie.md) and Astrid's point of view.
 
-<!-- #Description -->
-​
-
-<!-- #description -->
 ## Description
 
 Astrid is indigenous with short, brown hair and green eyes. She wears a tan jacket over a red sweater, with a green scarf, a pair of blue jeans, and brown boots.
 
 Astrid is a doctor--a researcher more than a medical provider, she says--who goes above and beyond to try to help those in need. She generally has a serious, no-nonsense demeanor, in comparison to [Will Mackenzie's](./Will%20Mackenzie.md) much more sarcastic tendencies.
 
-<!-- #Background -->
-​
-
-<!-- #background -->
 ## Background
 
 Through Episode 1, we learn that Astrid was married to Will Mackenzie, but they were separated due to an unknown incident, likely the death of their child. She is a doctor who used to work at The Center, which is implied to be a health research department. It was brought to her attention that someone was sick in [Perseverance Mills](./Perseverance%20Mills.md), likely by someone she knows. She had left The Center, and implied to have stolen something from it.
 
-<!-- #episode_1 -->
-​
-
-<!-- #Episode_1 -->
-​
-
-<!-- #episode-1 -->
 ## Episode 1
 
 She meets Will an unknown amount of time after asking to be sent to Great Bear Island in poor weather conditions, and he reluctantly agrees. After having a shared conversation about their loss, Astrid witnesses the First Flare along with Mackenzie and crashes into Great Bear.
 
 Shortly after the crash, Astrid makes her way to [Milton](./Milton.md), leaving the case and her pack behind, possibly due to injuries. Upon arrival, she finds the [schoolhouse](./Old%20Schoolhouse.md) burning down, along with the people inside it. She tries to save them, but is attacked by a group of convicts, including [Hobbs](./Hobbs.md), and is forced to defend herself, which includes stabbing Hobbs. She is pursued to the Tunnel and crawls under the prison bus, writing 'PERSEVERANCE' in blood before escaping to the other side.
 
-<!-- #episode_3 -->
-​
-
-<!-- #Episode_3 -->
-​
-
-<!-- #episode-3 -->
 ## Episode 3
 
 [Molly](./Molly.md) is out hunting and makes her way to the other side of the tunnel. After looking into a car with a frozen corpse, she hears a crow cawing behind her. She goes to investigate to find Astrid frozen and half-dead, buried in the snow.
@@ -130,38 +104,17 @@ With the knowledge that her ex-husband is alive and newfound hope, Astrid leaves
 
 She rides the elevator up and exits the mine into Desolation Point, and witnesses several beached whales and a shipwreck. The episode ends while she delivers a monologue.
 
-<!-- #episode_4 -->
-​
-
-<!-- #Episode_4 -->
-​
-
-<!-- #episode-4 -->
 ## Episode 4
 
 Astrid is seen very briefly at the end of Episode 4. Having commandeered a boat and some blankets from the Coastal Highway region, Astrid has sailed her way to Perseverance Mills, where she is encountered by the locals. A guard initially mistakes her for a runaway who has broken quarantine, but recognizes her as an outsider. A [woman](./Jane%20Yang.md) that had been on the phone call in the Episode 3 flashback appears, but realizes that Astrid does not have the hardcase with her.
 
-<!-- #ingame_stats -->
-​
-
-<!-- #Ingame_stats -->
-​
-
-<!-- #Ingame_Stats -->
-​
-
-<!-- #ingame-stats -->
 ## Ingame stats
 
 In [Story](./Wintermute.md) mode each survivor has slightly different skills, these skills are not shown in game directly, but some can be extrapolated from gameplay. Astrid has:
 
-- lvl 2 [Rifle Firearm](./Rifle%20Firearm.md) skill <span id="fnref1"></span>[¹](#fn1)
-- lvl 3 [Cooking](./Cooking.md) skill <span id="fnref2"></span>[²](#fn2)
+- lvl 2 [Rifle Firearm](./Rifle%20Firearm.md) skill [^1]
+- lvl 3 [Cooking](./Cooking.md) skill [^2]
 
-<!-- #Belongings -->
-​
-
-<!-- #belongings -->
 ## Belongings
 
 - ![Astrid's Toque icon](../assets/Astrid%27s_Toque_icon.png) [Astrid's Toque](./Astrid%27s%20Toque.md)
@@ -173,10 +126,6 @@ In [Story](./Wintermute.md) mode each survivor has slightly different skills, th
 - ![Astrid's Hardcase icon](../assets/Astrid%27s_Hardcase_icon.png) [Astrid's Hardcase](./Astrid%27s%20Hardcase.md)
 - Astrid wears a blue scarf with birds on it at the start of Episode 1, but it is mostly destroyed and its remains are used by Hobbs to make a makeshift arm sling.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Steam Trading Card](../assets/Dr._Astrid_Greenwood_Steam_Card_Preview.png)
@@ -209,10 +158,6 @@ _A photo of Will and Astrid in the [Jackrabbit Remote Transport](./Jackrabbit%20
 
 ![Astrid's magnetic stripe card](../assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_%283%29.png)
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Astrid Greenwood is voiced by [Jennifer Hale](https://en.wikipedia.org/wiki/Jennifer_Hale). Hale's other notable works include [Commander Shepard](https://masseffect.fandom.com/wiki/Commander_Shepard) (female) in the _[Mass Effect](https://masseffect.fandom.com/wiki/Category:Games)_ series, [Jennifer Mui](https://mercenaries.fandom.com/wiki/Jennifer_Mui) in the _[Mercenaries](https://mercenaries.fandom.com/wiki/Category:Games)_ series, and [Naomi Hunter](https://metalgear.fandom.com/wiki/Naomi_Hunter) in the _[Metal Gear Solid](https://metalgear.fandom.com/wiki/Category:Games)_ series, among many others.
@@ -220,13 +165,9 @@ _A photo of Will and Astrid in the [Jackrabbit Remote Transport](./Jackrabbit%20
 
 [fr:Astrid\_Greenwood](https://fr.wikipedia.org/wiki/Astrid_Greenwood) [ru:Астрид Гринвуд](https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B8%D0%B4_%D0%93%D1%80%D0%B8%D0%BD%D0%B2%D1%83%D0%B4)
 
-<!-- #footnotes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 ---
 
-1. <span id="fn1"></span>Visible as +2% condition gain when cleaning rifle instead of the revolver[↩︎](#fnref1)
-2. <span id="fn2"></span>Visible as +15% calories from cooked food, for example a [Cup of Coffee](./Cup%20of%20Coffee.md) having 115 kcal instead of 100.[↩︎](#fnref2)
+[^1]: Visible as +2% condition gain when cleaning rifle instead of the revolver
+[^2]: Visible as +15% calories from cooked food, for example a [Cup of Coffee](./Cup%20of%20Coffee.md) having 115 kcal instead of 100.

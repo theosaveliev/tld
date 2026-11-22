@@ -38,26 +38,12 @@ _For Buffer Memories, see [Buffer Memories](./Buffer%20Memories.md)._
 
 **Memories** is the first mission in [Episode One](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md), where [Will Mackenzie](./Will%20Mackenzie.md) sits around the [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) hanger until he receives a visitor that requests a flight to [Great Bear Island](./Great%20Bear%20Island.md).
 
-<!-- #official_description -->
-​
-
-<!-- #Official_Description -->
-​
-
-<!-- #Official_description -->
-​
-
-<!-- #official-description -->
 ## Official Description
 
 > “**Mackenzie hangs around the Jackrabbit Transport hangar, waiting for something to happen.**”
 >
 > — In-game description
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 This section contains a list of the journal entries for the mission:
@@ -73,36 +59,10 @@ This section contains a list of the journal entries for the mission:
   - Select extra cargo (optional).
   - Grab your [Parka](./Mackenzie%27s%20Parka.md).
 
-<!-- #waiting_in_jackrabbit_hangar -->
-​
-
-<!-- #Waiting_in_Jackrabbit_Hangar -->
-​
-
-<!-- #Waiting_in_jackrabbit_hangar -->
-​
-
-<!-- #Waiting_In_Jackrabbit_Hangar -->
-​
-
-<!-- #waiting-in-jackrabbit-hangar -->
 ## Waiting in Jackrabbit Hangar
 
 **Any extra items found in the hanger will not be taken with you to the next level, so do not worry about finding loot. Just focus on objectives.**
 
-<!-- #start_a_fire -->
-​
-
-<!-- #Start_a_Fire -->
-​
-
-<!-- #Start_a_fire -->
-​
-
-<!-- #Start_A_Fire -->
-​
-
-<!-- #start-a-fire -->
 ### Start a Fire
 
 ![Office (Memories)](../assets/Office_%28Memories%29.png) Mackenzie will state he is getting cold. Pick up the following items within the office:
@@ -120,19 +80,6 @@ This section contains a list of the journal entries for the mission:
 
 Go to the [Wood Stove](./Wood%20Stove.md) located in the corner of the office and start a [Fire](./Fire.md) with the acquired materials.
 
-<!-- #explore_the_hanger -->
-​
-
-<!-- #Explore_the_Hanger -->
-​
-
-<!-- #Explore_the_hanger -->
-​
-
-<!-- #Explore_The_Hanger -->
-​
-
-<!-- #explore-the-hanger -->
 ### Explore the Hanger
 
 Open the Door to the office and exit into the hanger. Explore the Hanger, and examine the following items within:
@@ -153,33 +100,12 @@ Open the Door to the office and exit into the hanger. Explore the Hanger, and ex
 
 After examining several of the objects listed above, you announce that you are ready for a nap. Go to the sleeping quarters and select the bed to go to sleep. You'll eventually be woken up by the sound of a ringing phone. Go back to the office.
 
-<!-- #astrid_arrives -->
-​
-
-<!-- #Astrid_Arrives -->
-​
-
-<!-- #Astrid_arrives -->
-​
-
-<!-- #astrid-arrives -->
 ### Astrid Arrives
 
 Mackenzie will answer the ringing phone, with another Jackrabbit Remote Transport employee, Maureen, telling him over the phone that "she" arrived and was convinced you would fly her north. The door opens to reveal Astrid Greenwood. Astrid needs you to fly her to a settlement on the north coast of Great Bear Island to treat an ill person. You reluctantly agree, despite the "no questions asked" policy about this flight.
 
-<!-- #load_the_plane -->
-​
+## Flight Preparation
 
-<!-- #Load_the_Plane -->
-​
-
-<!-- #Load_the_plane -->
-​
-
-<!-- #Load_The_Plane -->
-​
-
-<!-- #load-the-plane -->
 ### Load the Plane
 
 ![Jackrabbit hanger](../assets/Jackrabbit_hanger.jpg) Load the following items from the central hanger into the Hatch located on the Floatplane:
@@ -188,35 +114,14 @@ Optionally, load one the three following items also located on the table by the 
 
 Select [Mackenzie's Parka](./Mackenzie%27s%20Parka.md) after loading the plane to complete the mission and start the next cutscene.
 
-<!-- #flight_to_great_bear -->
-​
-
-<!-- #Flight_to_Great_Bear -->
-​
-
-<!-- #Flight_to_great_bear -->
-​
-
-<!-- #Flight_To_Great_Bear -->
-​
-
-<!-- #flight-to-great-bear -->
 ### Flight to Great Bear
 
 A cutscene triggers, where you fly through bad weather and experience an [Aurora](./First%20Flare.md). The electrical systems within the plane short circuit, and you crash into the wilderness of Great Bear.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 [Memories/Transcript](./Memories%20%E2%80%94%20Transcript.md)
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Mackenzie's unique Clothing have different models and item descriptions compared to their post plane crash counterparts.
@@ -227,10 +132,6 @@ A cutscene triggers, where you fly through bad weather and experience an [Aurora
   - The Cooking Pot can be used to melt snow and boiled to create [Water (Potable)](./Water%20%28Potable%29.md), which can then be used with the Herbal Tea to prepare a [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md). Both the water and tea are removed when progressing like the rest of the items. However, the tea can be consumed before leaving the hangar, providing the [Warming Up](./Warming%20Up.md) and [Improved Rest](./Improved%20Rest.md) benefits, which will carry over to [The Crash](./The%20Crash.md).
 - Several normally interactable items can be found in the hangar but cannot be selected, such as a [Heavy Hammer](./Heavy%20Hammer.md), [Books](./Book.md), a [Metal Container](./Metal%20Container.md), [Plastic Container](./Plastic%20Container.md), [File Cabinet](./File%20Cabinet.md), [Cupboard](./Cupboard.md), a small mini [Fridge](./Fridge.md), a tool [Drawer](./Drawer.md), and a [Trash Can](./Trash%20Can.md).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The interior of the hanger](../assets/Jackrabbit_hanger.jpg)
@@ -251,16 +152,6 @@ A cutscene triggers, where you fly through bad weather and experience an [Aurora
 
 ![Mackenzie eyeing the Great Bear Island brochure](../assets/Great_Bear_Island_brochure.jpg)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**

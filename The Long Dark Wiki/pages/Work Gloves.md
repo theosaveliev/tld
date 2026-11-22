@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-2%
 
-**Harvest:** 1 × [Cured leather](./Cured%20Leather.md)<br>10 minutes
+**Harvest:** 1 × [Cured leather](./Cured%20Leather.md) 10 minutes
 
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md)<br>30 minutes<br>25% condition
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md) 30 minutes 25% condition
 
 > “**Heavy leather gloves designed to protect the hands on the worksite. Unfortunately, not really designed for warmth.**”
 >
@@ -36,10 +36,6 @@
 
 **Work Gloves** are a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Work gloves have similar stats and appearance to the [Ski Gloves](./Ski%20Gloves.md), but provide more protection, less windchill bonus, and no waterproof bonus.
@@ -48,16 +44,6 @@ Work gloves have similar stats and appearance to the [Ski Gloves](./Ski%20Gloves
 
 ![Clothing Model](../assets/Work_Gloves_Model_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

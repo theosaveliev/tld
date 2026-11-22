@@ -6,7 +6,7 @@
 
 [Breyerhouse logo](../assets/Breyerhouse_logo.png)
 
-**Industry:** Forest products<br>Hydroelectric power
+**Industry:** Forest products Hydroelectric power
 
 ![Breyerhouse trucks in the Maintenance Yard.](../assets/Maintenance_yard.jpg)_Breyerhouse trucks in the Maintenance Yard._ **Breyerhouse** was a logging company which was active in multiple regions of [Great Bear Island](./Great%20Bear%20Island.md) the prior to [The First Flare](./First%20Flare.md).
 
@@ -14,10 +14,6 @@ The company performed logging in [Mystery Lake](./Mystery%20Lake%20%28region%29.
 
 It is unclear if Breyerhouse constructed the Trans-Island Railway Line, or merely acquired it after [coal mining](./Cinder%20Hills%20Coal%20Mine.md) or the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) ceased operations.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - The name Breyerhouse is possibly inspired by [Weyerhaeuser](https://en.wikipedia.org/wiki/Weyerhaeuser), a timberland real-estate trust and wood product company headquartered in Seattle, Washington.

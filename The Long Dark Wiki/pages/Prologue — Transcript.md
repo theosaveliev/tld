@@ -18,14 +18,10 @@ Episode
 
 **Region:** [Keeper's Pass North](./Keeper%27s%20Pass%20North.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md)<br>[Vachon](./Vachon.md)<br>[Heller](./Heller.md)<br>[Jeremiah](./Jeremiah.md) (Opening cutscene)<br>[Hobbs](./Hobbs.md) (Opening cutscene)<br>[Radio Voice Man](./Characters.md#Radio_Voice_Man) (Opening cutscene)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md) [Vachon](./Vachon.md) [Heller](./Heller.md) [Jeremiah](./Jeremiah.md) (Opening cutscene) [Hobbs](./Hobbs.md) (Opening cutscene) [Radio Voice Man](./Characters.md#Radio_Voice_Man) (Opening cutscene)
 
 This is the mission transcript for the opening [Prologue](./Prologue.md) of [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
-<!-- #Recap -->
-​
-
-<!-- #recap -->
 ## Recap
 
 _A story recap begins as the opening cutscene_
@@ -86,10 +82,6 @@ Mathis: "Don't worry, pilot. You'll be with her soon."
 
 _The man strikes Mackenzie with the back of the axe, and the scene ends._
 
-<!-- #Prologue -->
-​
-
-<!-- #prologue -->
 ## Prologue
 
 _The sound of a wolf howl echoes across a black screen before the sounds of footsteps join in._
@@ -230,19 +222,6 @@ _Mackenzie turns his focus to a path ahead of him in the ravine_
 
 Mackenzie: "Can't let them find me." _He looks at the bindings on his wrists_ "need my hands free."
 
-<!-- #escape_the_convicts. -->
-​
-
-<!-- #Escape_the_Convicts. -->
-​
-
-<!-- #Escape_the_convicts. -->
-​
-
-<!-- #Escape_The_Convicts. -->
-​
-
-<!-- #escape-the-convicts -->
 ## Escape the Convicts.
 
 _The player has control at this point and Mackenzie starts walking._

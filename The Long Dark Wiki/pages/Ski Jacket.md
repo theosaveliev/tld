@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-2%
 
-**Harvest:** 2 × [Cloth](./Cloth.md)<br>90 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md) 90 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md)<br>45 minutes<br>30% condition
+**Repair:** 2 × [Cloth](./Cloth.md) 45 minutes 30% condition
 
 > “**Winter jacket made out of synthetic materials. Highly Windproof but not well insulated.**”
 >
@@ -36,20 +36,12 @@
 
 The **Ski Jacket** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Ski Jacket is a low-tier jacket and a common starting item.
 
 It is a direct upgrade to the [Simple Parka](./Simple%20Parka.md). It weighs 0.25 kg less and has a 2% lower mobility penalty.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Clothing model icon](../assets/Ski_Jacket_Model_icon.png)
@@ -58,16 +50,6 @@ It is a direct upgrade to the [Simple Parka](./Simple%20Parka.md). It weighs 0.2
 
 ![Old model.](../assets/Down_ski_jacket_%28historical%29.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

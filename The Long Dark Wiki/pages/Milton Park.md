@@ -30,18 +30,10 @@ Provides some shelter
 
 **Milton Park** is a location in the [Mountain Town](./Mountain%20Town.md) region. It can be found by taking a right at the [Orca Gas Station](./Orca%20Gas%20Station.md) south of [Milton](./Milton.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A noticeboard can be found at the entrance, and there is a park office further up the hill. At the top of the cliff is a [Picnic Area](./Picnic%20Area.md) with a [Rope Climbing](./Rope%20Climbing.md) spot that leads to [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md). The Park office counts as being outdoors and is warmer than any of the local caves in the region, has a bed, storage, and a [Pot Belly Stove](./Pot%20Belly%20Stove.md) making in the best location in Milton to remove or prevent cabin fever.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Milton Park inside](../assets/Milton_Park_inside.jpg)

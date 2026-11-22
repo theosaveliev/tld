@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>35% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 35% condition
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -42,10 +42,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 The **T-Shirt (Snappy)** is the name given to a unique variation of the [T-Shirt](./T-Shirt.md) that can be acquired from the [Trader](./Trader.md), and is a type of [Clothing](./Clothing.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The T-shirt is the worst inner torso clothing in the game. This is more rare than the regular [T-Shirt](./T-Shirt.md), due to how it is acquired from the Trader. It offers a small amount of warmth, and nothing else.

@@ -24,20 +24,12 @@ Type
 
 Landmark|-
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Tooth is located close to the region's coast, just west of [Log Sort](./Log%20Sort.md).
 
 A [frozen corpse](./Frozen%20Corpse.md) can usually be found half-crushed under the rock.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The Tooth as it appeared in 2015.](../assets/The_Tooth.jpg)

@@ -47,10 +47,6 @@ _This article is about the normal Bow. For variants, see [Woodwright's Bow](./Wo
 
 The **Survival Bow** is a maple self-backed longbow that shoots [Simple Arrows](./Simple%20Arrow.md), [Fire Hardened Arrows](./Fire%20Hardened%20Arrow.md), and [Manufactured Arrows](./Manufactured%20Arrow.md) at targets such as [Wildlife](./Wildlife.md). Hitting a living target with a fired arrow provides experience to the [Archery](./Archery.md) skill.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Survival Bow is an effective ranged weapon and hunting tool. It features unique advantages and disadvantages from other weapons, such as the [Hunting Rifle](./Hunting%20Rifle.md). The Survival Bow is the primary weapon in Interloper mode, considering the limited availability of [Distress Pistols](./Distress%20Pistol.md) and its [ammunition](./Flare%20Shell.md), and the limited utility of [Stones](./Stone.md).
@@ -65,10 +61,6 @@ Arrows travel slower than bullets and at a steep arc, making their accuracy more
 
 The only time when the Rifle is objectively better is when fighting Moose or Cougar. Because neither do not bleed, the Bow's more effective bleed-out is rendered useless; making the Rifle's higher critical hit chance superior.
 
-<!-- #Mechanics -->
-​
-
-<!-- #mechanics -->
 ## Mechanics
 
 To fire a Survival Bow, it must first be carried and wielded (1) with at least 1 [Simple Arrow](./Simple%20Arrow.md) or [Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) in the player's inventory. Wielding it will cause an arrow to be loaded. To fire the bow, it must first be drawn (LMB), and then released (RMB). Left-clicking twice will cause the bow to lower again, as it will if the Stamina meter is depleted (which drains constantly, when the bow is drawn).
@@ -87,27 +79,10 @@ The bow requires practice to use effectively, but also becomes easier to handle 
 
 Drawing a loaded bow will cause the player's view to zoom, enabling the bow to be used as a weak optic or pointing tool.
 
-<!-- #Hunting -->
-​
-
-<!-- #hunting -->
 ## Hunting
 
 _Main article: [Hunting](./Hunting.md)_The Survival Bow is a crafted tool which fires Simple Arrows. Arrows may kill animals instantly with a critical hit, they more commonly cause bleeding wounds that drain the animal's health over time. When hunting it is wise to consider the weather, time of day, and ability to track a wounded animal as it flees. Arrows may be retrieved from the ground or an animal's carcass by left-clicking on it.![20201128184359 1](../assets/20201128184359_1.jpg)
 
-<!-- #bleed_out_time -->
-​
-
-<!-- #Bleed-out_time -->
-​
-
-<!-- #bleed-out_time -->
-​
-
-<!-- #Bleed-out_Time -->
-​
-
-<!-- #bleed-out-time -->
 ### Bleed-out time
 
 Each species of animal takes a specific amount of time to bleed out, as follows:
@@ -123,10 +98,6 @@ Each species of animal takes a specific amount of time to bleed out, as follows:
 
 Note: The bleed-out time diminishes with higher levels of the [Archery](./Archery.md) survival skill.
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Survival Bow**
@@ -143,38 +114,14 @@ Note: The bleed-out time diminishes with higher levels of the [Archery](./Archer
 
 **Quantity:** 1
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 The survival bow can randomly spawn in the game world (excluding Interloper) on different playthroughs. Some observed spawn points include:
 
-<!-- #desolation_point -->
-​
-
-<!-- #Desolation_Point -->
-​
-
-<!-- #Desolation_point -->
-​
-
-<!-- #desolation-point -->
 ### [Desolation Point](./Desolation%20Point.md)
 
 - On the edge of a glade in [Katie's Secluded Corner](./Katie%27s%20Secluded%20Corner.md)
 
-<!-- #mystery_lake -->
-​
-
-<!-- #Mystery_Lake -->
-​
-
-<!-- #Mystery_lake -->
-​
-
-<!-- #mystery-lake -->
 ### [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 - In the hut at the [Unnamed Pond](./Unnamed%20Pond.md)
@@ -182,60 +129,20 @@ The survival bow can randomly spawn in the game world (excluding Interloper) on 
 - Next to a corpse in a clearing north of the cabin that is north of unnamed pond. (Post refresh).
 - Next to a corpse in the [Lake Overlook](./Lake%20Overlook.md) cave.
 
-<!-- #pleasant_valley -->
-​
-
-<!-- #Pleasant_Valley -->
-​
-
-<!-- #Pleasant_valley -->
-​
-
-<!-- #pleasant-valley -->
 ### [Pleasant Valley](./Pleasant%20Valley.md)
 
 - [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md), the cave which is an indoor area with arrows and bedroll
 
-<!-- #forlorn_muskeg -->
-​
-
-<!-- #Forlorn_Muskeg -->
-​
-
-<!-- #Forlorn_muskeg -->
-​
-
-<!-- #forlorn-muskeg -->
 ### [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 - By a corpse on the [Marsh Ridge](./Marsh%20Ridge.md).
 - In the [High Blind](./High%20Blind.md)
 
-<!-- #broken_railroad -->
-​
-
-<!-- #Broken_Railroad -->
-​
-
-<!-- #Broken_railroad -->
-​
-
-<!-- #broken-railroad -->
 ### [Broken Railroad](./Broken%20Railroad.md)
 
 - Near the [Hunting Lodge](./Hunting%20Lodge.md), by the corpse close to the fallen trees.
 - Near the crashed Train next to a deer carcass
 
-<!-- #hushed_river_valley -->
-​
-
-<!-- #Hushed_River_Valley -->
-​
-
-<!-- #Hushed_river_valley -->
-​
-
-<!-- #hushed-river-valley -->
 ### [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 - Next to a frozen corpse inside an ice room, in the [Ice Cave](./Ice%20Cave.md) containing waterfalls.
@@ -243,10 +150,6 @@ The survival bow can randomly spawn in the game world (excluding Interloper) on 
 - In an unnamed cave near the northern edge of the map, somewhat west of [Mammoth Falls](./Mammoth%20Falls.md).
 - Next to a frozen corpse at [Moose Overlook](./Moose%20Overlook.md).
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - The Survival Bow cannot be used with a [Sprained Wrist](./Sprained%20Wrist.md).
@@ -256,10 +159,6 @@ The survival bow can randomly spawn in the game world (excluding Interloper) on 
 - Arrows are less likely to cause a critical wound than bullets.
 - Arrows cause more bleeding than bullets, causing a shorter bleed-out time.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old Survival Bow model](../assets/Oldsurvivalbowmodel.jpg)

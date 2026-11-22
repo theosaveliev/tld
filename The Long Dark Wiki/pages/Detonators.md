@@ -34,19 +34,7 @@
 
 During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) journeys to the [Last Prospect](./Last%20Prospect.md) mines above [Blackrock Federal Penitentiary](./Blackrock%20Prison.md), and retrieves the detonators for [Mathis](./Mathis.md).
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
   - Added to game.
-
-[ru:Детонаторы](https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%82%D0%BE%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D1%8B)

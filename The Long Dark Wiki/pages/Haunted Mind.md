@@ -14,7 +14,7 @@
 
 **Category:** [Afflictions](./Afflictions.md)
 
-**Description:** You experience an endless inner turmoil.<br>Your maximum Sleep time is reduced, and you recover 50% less Condition from Resting.
+**Description:** You experience an endless inner turmoil. Your maximum Sleep time is reduced, and you recover 50% less Condition from Resting.
 
 **Caused By:** [Misery Mode](./Misery.md)
 
@@ -30,10 +30,6 @@
 
 **Haunted Mind** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 > “__You experience an endless inner turmoil.  
@@ -44,10 +40,6 @@
 
 Haunted Mind is a permanent Affliction unique to [Misery Mode](./Misery.md) which occurs from Stages 2-4 of Misery. It reduces the survivor's Condition recovery while Sleeping and limits the maximum number of hours they can sleep consecutively.
 
-<!-- #Effects -->
-​
-
-<!-- #effects -->
 ## Effects
 
 - Maximum consecutive [Sleep](./Sleep.md) hours capped at 7 (normally 12)

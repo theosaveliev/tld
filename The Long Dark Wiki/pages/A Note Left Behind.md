@@ -45,16 +45,8 @@
 
 **A Note Left Behind** is a set of 12 [Collectibles](./Collectibles.md) found across several regions within [Survival Mode](./Survival%20Mode.md). They were authored by several backers of _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #pleasant_valley -->
-​
+## Locations and Transcripts
 
-<!-- #Pleasant_Valley -->
-​
-
-<!-- #Pleasant_valley -->
-​
-
-<!-- #pleasant-valley -->
 ### [Pleasant Valley](./Pleasant%20Valley.md)
 
 - [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) - Inside the house to the table right of the [Stove](./Stove.md).
@@ -73,16 +65,6 @@ As a plant goes to seed in the fall, a period of hibernation sets in until sprin
 
 (Contributed by Backer #3781)
 
-<!-- #mystery_lake -->
-​
-
-<!-- #Mystery_Lake -->
-​
-
-<!-- #Mystery_lake -->
-​
-
-<!-- #mystery-lake -->
 ### [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 - [Camp Office](./Camp%20Office.md) - on the table on the top floor next to the bunk beds.
@@ -115,16 +97,6 @@ A dull knife. A rock. A length of rope. It's like one of those jokes you hear ab
 
 (Contributed by Backer #4675)
 
-<!-- #forlorn_muskeg -->
-​
-
-<!-- #Forlorn_Muskeg -->
-​
-
-<!-- #Forlorn_muskeg -->
-​
-
-<!-- #forlorn-muskeg -->
 ### [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) - on bed on the loft above the [Forge](./Forge.md).
@@ -135,16 +107,6 @@ Do you see the stars? Do you see that you are there? It's a fault of the mind to
 
 (Contributed by Backer #4783)
 
-<!-- #coastal_highway -->
-​
-
-<!-- #Coastal_Highway -->
-​
-
-<!-- #Coastal_highway -->
-​
-
-<!-- #coastal-highway -->
 ### [Coastal Highway](./Coastal%20Highway.md)
 
 - [Abandoned Lookout](./Abandoned%20Lookout.md)
@@ -179,16 +141,6 @@ Heather
 
 (Contributed by Backer #4675)
 
-<!-- #old_island_connector -->
-​
-
-<!-- #Old_Island_Connector -->
-​
-
-<!-- #Old_island_connector -->
-​
-
-<!-- #old-island-connector -->
 ### [Old Island Connector](./Crumbling%20Highway.md)
 
 - [Abandoned Harris Home](./Abandoned%20Harris%20Home.md) - Outside in the car.
@@ -203,16 +155,6 @@ I wonder if she's still alive?
 
 (Contributed by Backer #644)
 
-<!-- #desolation_point -->
-​
-
-<!-- #Desolation_Point -->
-​
-
-<!-- #Desolation_point -->
-​
-
-<!-- #desolation-point -->
 ### [Desolation Point](./Desolation%20Point.md)
 
 - [Hibernia Processing](./Hibernia%20Processing.md) - Downstairs on the [Work Bench](./Work%20Bench.md).
@@ -235,19 +177,7 @@ Sean wouldn't wake up.
 
 (Contributed by Backer #644)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**
   - Added to game.
-
-[ru:Оставленная записка](https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0)

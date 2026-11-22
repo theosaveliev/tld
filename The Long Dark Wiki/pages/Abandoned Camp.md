@@ -14,18 +14,10 @@
 
 **Type:** Outdoors
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The camp consists of a [Snow Shelter](./Snow%20Shelter.md) and some loot. This location has more 4 potential spawn locations and will only spawn once in the region.
 
-<!-- #Spawn -->
-​
-
-<!-- #spawn -->
 ### Spawn
 
 The four possible spawn locations for the snow shelter are:
@@ -54,5 +46,3 @@ North-east of [Low Blind](./Low%20Blind.md)
 ![Forlorn Muskeg Abandoned Camp In game View](../assets/Forlorn_Muskeg_-_Abandoned_Camp_-_In_game_View.jpg)
 
 ![Forlorn Muskeg Abandoned Camp In game View2](../assets/Forlorn_Muskeg_-_Abandoned_Camp_-_In_game_View2.jpg)
-
-[ru:Заброшенный лагерь](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C)

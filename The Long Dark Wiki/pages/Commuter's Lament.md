@@ -28,10 +28,6 @@ Type
 
 Landmark|-
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Commuter's Lament leads to [Crumbling Highway](./Crumbling%20Highway.md).

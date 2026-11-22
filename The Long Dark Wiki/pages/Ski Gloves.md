@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-1%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>25% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 25% condition
 
 > “**Nylon ski gloves that go well beyond the wrist. Synthetic insulation keeps the hands warm, and the outer layer is nicely waterproof.**”
 >

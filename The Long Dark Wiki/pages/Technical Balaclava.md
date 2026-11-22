@@ -26,9 +26,9 @@ Clothing Slot
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>75% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 75% condition
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -40,20 +40,12 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Technical Balaclava** is a type of clothing in The Long Dark. It is part of the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ DLC.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Only 1 Technical Balaclava can be worn at a time, specifically in the inner head slot. It is a direct upgrade to the [Balaclava](./Balaclava.md) in terms of clothing stats.
 
 That means it only provides Windproof bonus if no other hat is worn in the outer hat slot; this usually means it's Windproof bonus over other headwear like the [Wool Toque](./Wool%20Toque.md) or [Rabbitskin Hat](./Rabbitskin%20Hat.md) is wasted. The Technical Balaclava weighs 0.05kg less than a regular Balaclava or Wool Toque and decays much slower, retaining it's stats for longer and costing less [Cloth](./Cloth.md) to repair over time.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 - Inside some [Supply Caches](./Supply%20Cache.md)
@@ -65,16 +57,6 @@ Unlike the Balaclava, the Technical Balaclava is available on [Interloper](./Int
 
 ![Model icon damaged](../assets/Technical_Balaclava_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

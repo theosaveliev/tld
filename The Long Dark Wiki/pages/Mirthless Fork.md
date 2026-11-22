@@ -22,10 +22,6 @@ Has a bed
 
 Has a workbench
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Trailerkeeper 1](../assets/Trailerkeeper_1.jpg)

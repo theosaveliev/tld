@@ -16,7 +16,7 @@
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md) [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)-(Opening cutscene)
 
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Molly](./Molly.md)<br>[Grey Mother](./Grey%20Mother.md) (opening cutscene)<br>[Hobbs](./Hobbs.md) (opening cutscene)<br>[Mathis](./Mathis.md) (opening cutscene)<br>[Will Mackenzie](./Will%20Mackenzie.md) (opening cutscene)<br>[Jeremiah](./Jeremiah.md) (opening cutscene)<br>[Radio Voice Man](./Characters.md#Radio_Voice_Man) (opening cutscene)
+**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Molly](./Molly.md) [Grey Mother](./Grey%20Mother.md) (opening cutscene) [Hobbs](./Hobbs.md) (opening cutscene) [Mathis](./Mathis.md) (opening cutscene) [Will Mackenzie](./Will%20Mackenzie.md) (opening cutscene) [Jeremiah](./Jeremiah.md) (opening cutscene) [Radio Voice Man](./Characters.md#Radio_Voice_Man) (opening cutscene)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -24,10 +24,6 @@
 
 **Trauma** is the first mission in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of [Wintermute](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) meets [Molly](./Molly.md) and learns about her predicament.
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Molly's Farmhouse
@@ -44,10 +40,6 @@
   - Find [Thomson's Crossing](./Thomson%27s%20Crossing.md).
   - Investigate the Community Hall.
 
-<!-- #Walkthrough -->
-​
-
-<!-- #walkthrough -->
 ## Walkthrough
 
 | Mission details | Mission details |
@@ -59,10 +51,6 @@ The episode starts in Pleasant Valley Farmstead with a cutscene. When Molly leav
 
 Leave the barn and head up the road past [Heartbreak Bridge](./Heartbreak%20Bridge.md). Keep going past [Contemplation Bridge](./Contemplation%20Bridge.md) to [Thomson's Crossing](./Thomson%27s%20Crossing.md). Enter the [Community Hall](./Community%20Hall.md) and talk to [Father Thomas](./Father%20Thomas.md) to advance to Chapter 2: [Fallen Star](./Fallen%20Star.md).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - [Mathis](./Mathis.md) is voiced by Gord Marriott in story recap intro, despite the cutscene being from the reworked Redux Episode 2 and Elias Toufexis having voiced him in that version.

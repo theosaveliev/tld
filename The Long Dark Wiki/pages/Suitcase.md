@@ -23,10 +23,6 @@
 
 A **Suitcase** is a storage item found in various locations across the Island. They come in various colors (blue, brown, red, orange). Clothing is the main item that can be looted from Suitcases. They can often be found at the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md) and [Terminal](./Terminal.md) in [Forsaken Airfield](./Forsaken%20Airfield.md), as well as inside a few cabins across the Island in the Far Territory. They are also found near [Plane Crashes](./Plane%20Crashes.md).
 
-<!-- #Loot -->
-​
-
-<!-- #loot -->
 ## Loot
 
 **Head:** [Baseball Cap](./Baseball%20Cap.md), [Cotton Scarf](./Cotton%20Scarf.md), [Cotton Toque](./Cotton%20Toque.md), [Wool Toque](./Wool%20Toque.md).
@@ -47,13 +43,9 @@ A **Suitcase** is a storage item found in various locations across the Island. T
 
 **FastFilm:** [FastFilm-500](./FastFilm-500.md), [FastFilm-500BW](./FastFilm-500BW.md), [FastFilm-500SPA](./FastFilm-500SPA.md)
 
-<!-- #Exploit -->
-​
-
-<!-- #exploit -->
 ## Exploit
 
-from: [https://www.reddit.com/r/thelongdark/comments/1hwkmra/the\_magic\_suitcase\_glitch\_aka\_infinite\_cloth/](https://www.reddit.com/r/thelongdark/comments/1hwkmra/the_magic_suitcase_glitch_aka_infinite_cloth/)<span id="fnref1"></span>[¹](#fn1)
+from: [https://www.reddit.com/r/thelongdark/comments/1hwkmra/the\_magic\_suitcase\_glitch\_aka\_infinite\_cloth/](https://www.reddit.com/r/thelongdark/comments/1hwkmra/the_magic_suitcase_glitch_aka_infinite_cloth/)[^1]
 
 1. place suitcases indoors, loot if available
 2. pick up suitcases
@@ -69,18 +61,10 @@ note: In practice, this exploit works for 3 things.
 2. getting mid-tire clothing (which could work for misery or interloper since there is one in homesteader's respite in Ash Canyon and being in an interior, even though the loot is reduced, following the rules of those modes), or to equip yourself quickly if you appear near a place with suitcases
 3. getting cured leather and cloth to mend clothes and trade with the trader
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 You can use the "keep construction mode out of customizable areas" bug/exploit to get air crash suitcases, or places like the terminal at Forsaken Airfield, to get more if you want to do the exploit or simply want to use them as a container.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Navy Suitcase](../assets/Navy_Suitcase.png)
@@ -95,12 +79,8 @@ You can use the "keep construction mode out of customizable areas" bug/exploit t
 
 ![Dark Brown Suitcase](../assets/Dark_Brown_Suitcase.png)
 
-<!-- #footnotes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 ---
 
-1. <span id="fn1"></span>[https://www.reddit.com/r/thelongdark/comments/1hwkmra/the\_magic\_suitcase\_glitch\_aka\_infinite\_cloth/](https://www.reddit.com/r/thelongdark/comments/1hwkmra/the_magic_suitcase_glitch_aka_infinite_cloth/)[↩︎](#fnref1)
+[^1]: [https://www.reddit.com/r/thelongdark/comments/1hwkmra/the\_magic\_suitcase\_glitch\_aka\_infinite\_cloth/](https://www.reddit.com/r/thelongdark/comments/1hwkmra/the_magic_suitcase_glitch_aka_infinite_cloth/)

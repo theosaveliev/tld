@@ -36,10 +36,6 @@ Has an interior
 
 The **Rural Store**, also known as the Rural Gas Station or Thomson's Market, is a small convenience store in [Thomson's Crossing](./Thomson%27s%20Crossing.md) in [Pleasant Valley](./Pleasant%20Valley.md), across the road from the [Community Hall](./Community%20Hall.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Rural Store consists of two rooms: The main store in the front area, and a back room.
@@ -48,10 +44,6 @@ The main area has several shelves, a checkout place with a [Register](./Register
 
 The back room holds a [Metal Shelf](./Metal%20Shelf.md) with a [Microwave](./Microwave.md) and [First Aid Kit](./First%20Aid%20Kit.md) with 2 [Lockers](./Locker.md). Ammunition casings can sometimes be found under the shelf and lockers.
 
-<!-- #Wintermute -->
-​
-
-<!-- #wintermute -->
 ## Wintermute
 
 In Wintermute, the store holds 2 [Collectibles](./Collectibles.md) related to 2 quests. The first is a book called [Local Legends - Sasquatch](./Local%20Legends%20-%20Sasquatch.md) related to the mission [Tall Tales](./Tall%20Tales.md).

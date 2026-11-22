@@ -40,14 +40,10 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-<br>**Old Mill Flour** is an [ingredient](./Food%20And%20Drink.md) in [_The Long Dark_](./The%20Long%20Dark.md).
+ **Old Mill Flour** is an [ingredient](./Food%20And%20Drink.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Old Mill Flour can often be found alongside other cooking materials such as [Cooking Oil](./Cooking%20Oil.md) and [Salt](./Salt.md).
@@ -56,10 +52,6 @@ It can be considered a renewable resource if obtained via the [Trader](./Trader.
 
 It is currently impossible to divide a bag of flour into smaller portions, or to consolidate multiple smaller bags.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 Known spawn locations include:
@@ -87,47 +79,29 @@ Known spawn locations include:
 - [Zone of Contamination](./Zone%20of%20Contamination.md)
   - 2 in the mess hall kitchen of [Idle Camp](./Idle%20Camp.md).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 The side of the bag lists "Ingredients: Bleached Wheat Flour, Malted Barley Flour, Niacim, Reduced Iron, Riboflavin, Folic Acid."
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Bannock](./Bannock.md) | None | - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Breyerhouse Pie](./Breyerhouse%20Pie.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)<br>- 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Pancakes](./Pancakes.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.12 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Peach Pie](./Peach%20Pie.md) | None | - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Ptarmigan Pie](./Ptarmigan%20Pie.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Ptarmigan Stew](./Ptarmigan%20Stew.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)<br>- 0.20 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Rabbit Pie](./Rabbit%20Pie.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Rabbit Stew](./Rabbit%20Stew.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 0.20 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Ranger Stew](./Ranger%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 1 × [Potato](./Potato.md)<br>- 0.20 kg × [Carrot](./Carrot.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Rose Hip Pie](./Rose%20Hip%20Pie.md) | None | - 8 × [Rose Hip](./Rose%20Hip.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md)<br>- 0.40 kg × [Carrot](./Carrot.md)<br>- 2 × [Potato](./Potato.md)<br>- 2 × [Reishi Mushroom](./Reishi%20Mushroom.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Trout Stew](./Trout%20Stew.md) | None | - 0.50 kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md)<br>- 0.20 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Venison Pie](./Venison%20Pie.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Venison Stew](./Venison%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.20 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Bannock](./Bannock.md) | None | - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Breyerhouse Pie](./Breyerhouse%20Pie.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Pancakes](./Pancakes.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.12 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Peach Pie](./Peach%20Pie.md) | None | - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Ptarmigan Pie](./Ptarmigan%20Pie.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Ptarmigan Stew](./Ptarmigan%20Stew.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) - 0.20 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Rabbit Pie](./Rabbit%20Pie.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Rabbit Stew](./Rabbit%20Stew.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 0.20 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Ranger Stew](./Ranger%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 1 × [Potato](./Potato.md) - 0.20 kg × [Carrot](./Carrot.md) - 0.40 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Rose Hip Pie](./Rose%20Hip%20Pie.md) | None | - 8 × [Rose Hip](./Rose%20Hip.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md) - 0.40 kg × [Carrot](./Carrot.md) - 2 × [Potato](./Potato.md) - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) - 0.40 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Trout Stew](./Trout%20Stew.md) | None | - 0.50 kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) - 0.20 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Venison Pie](./Venison%20Pie.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Venison Stew](./Venison%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) - 0.20 L × [Broth](./Broth.md) - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

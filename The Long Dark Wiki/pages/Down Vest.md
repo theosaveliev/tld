@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md) 20 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>25% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 25% condition
 
 > “**Down-filled top-layer that warms the core but leaves the arms exposed. Very light.**”
 >
@@ -36,10 +36,6 @@
 
 The **Down Vest** is a type of [Clothing](./Clothing.md) found in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Only 1 Down Vest can be worn at a time, specifically in the inner torso jacket slot.
@@ -48,10 +44,6 @@ Commonly found in cabins and houses alike, the down vest is often something that
 
 This is often a clothing item your survivor may start with.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Insulated_vest_%28historical%29.png)

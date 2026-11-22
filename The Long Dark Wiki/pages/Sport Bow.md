@@ -49,38 +49,17 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Sport Bow** is a unique variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The sport bow is a commercially manufactured fiberglass bow with a black handle, red and white paint highlights on its limbs, and an overall dark gray appearance. It is the lightest bow variant in the game while also boasting the second highest durability, just behind the heavy [Woodwright's Bow](./Woodwright%27s%20Bow.md). It is a direct upgrade to the survival bow, however only 2 sport bows can be found per save with no way to obtain more.
 
 Like other bows, the Sport Bow cannot be repaired.
 
-<!-- #differences_from_survival_bow -->
-​
-
-<!-- #Differences_from_Survival_Bow -->
-​
-
-<!-- #Differences_from_survival_bow -->
-​
-
-<!-- #Differences_From_Survival_Bow -->
-​
-
-<!-- #differences-from-survival-bow -->
 ## Differences from Survival Bow
 
 - Base weight is 0.15kg less than the Survival Bow
 - Total durability is 60% more than Survival Bow (uses 1.25%-0.625% condition per shot based on [archery skill](./Archery.md))
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 There are two sports bows available per game with one located in [Forsaken Airfield](./Forsaken%20Airfield.md) and the other in the [Langston Mine](./Langston%20Mine.md). Both spawn at 100% condition. The bow's location may differ between saves.
@@ -96,39 +75,19 @@ There are two sports bows available per game with one located in [Forsaken Airfi
 
 - By a corpse inside of the [Langston Mine](./Langston%20Mine.md), alongside intact and broken arrows on the ground. The corpse also has various bow-related items on it like arrowheads and crow feathers. There is also a spawn of the [Stay on Target!](./Research%20Book.md) archery research book on the picnic table right next to the corpse. The easiest way to find the room with the corpse is to enter the mine via the map's west-side entrance instead of via the [Conveyor](./Conveyor%20Room.md) entrance. At the intersection where the player can either keep going down or walk up a plank onto a wooden platform, choose the plank. You'll enter an open, high ceiling room with scaffolding at the end of which is a mess hall area for the mine workers. The corpse is laying in the puddle of water at the other end of the mess hall.
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - The sport bow will not spawn on [Interloper](./Interloper.md) or [Misery](./Misery.md) difficulty.
 - At base archery skill the sport bow can fire a total of 68 times before the risk of breaking starts at the 15% condition threshold.
 - At Archery skill level 4 and above, the survivor can fire the Sport bow a total of 136 times before reaching the 15% condition breaking threshold at which the bow will have the chance to break with each shot; starting at a 4% break chance at 12% condition, and increasing to 16% break chance at 9% condition, then to 64% break chance at 3% condition. Because only two sport bows spawn per world, it may be wise to attain archery skill level 4 or above before using them to get the most potential shots per bow.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The bow in the crashed helicopter](../assets/SportBowHelicopter.jpg)
 
 ![Sport bow in-game ground model](../assets/Sports_Bow_Dropped.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-[ru:Спортивный лук](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BB%D1%83%D0%BA)

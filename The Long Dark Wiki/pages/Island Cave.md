@@ -16,10 +16,6 @@
 
 **Type:** Cave
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Until the release of [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md), this was the only cave in the game that was located on an island, aside from the small bear cave at [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md). The cave provides a +10oC warmth bonus inside, and a [campfire](./Campfire.md) spawns near the entrance, which can be lit if the player is still too cold.
@@ -28,10 +24,6 @@ The cave must be accessed using a footpath which starts from the northern side o
 
 A [frozen corpse](./Frozen%20Corpse.md) may spawn in the cave, along with some random food and drink and pieces of mid-grade clothing.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![View from the path leading to the cave](../assets/IslandCavePath.png)

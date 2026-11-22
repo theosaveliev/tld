@@ -18,10 +18,6 @@
 
 **Type:** Landmark
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The pond is located in a depression and is surrounded by forest on all sides. [Rabbits](./Rabbit.md) can be found on the pond, as can [Deer](./Deer.md). Hunters should take care, as several [Wolves](./Wolf.md) can be found in the forest immediately surrounding the pond. Several [Cat Tail](./Cat%20Tail.md) and [Burdock](./Burdock.md) plants are found near the pond.

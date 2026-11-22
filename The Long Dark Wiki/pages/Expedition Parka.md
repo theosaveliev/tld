@@ -35,9 +35,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md) 20 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md)<br>45 minutes<br>30% condition
+**Repair:** 2 × [Cloth](./Cloth.md) 45 minutes 30% condition
 
 > “**Heavy down-filled parka made using high-end materials. The kind of parka worn by people who know what they're doing.**”
 >
@@ -45,20 +45,12 @@
 
 The **Expedition Parka** is a type of clothing in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Expedition Parkas are rare, warm and very lightweight clothing. It offers a warmth bonus of 4.0 °C and windproof bonus of 6.0 °C, with a small mobility penalty, protection bonus, and 50% waterproofing, all while weighing only 1.5 kg. The [Wolfskin Coat](./Wolfskin%20Coat.md) offers the same warmth bonus, a much bigger protection bonus, and slightly better waterproofing, however it is twice the weight of the Parka, offers less wind proofing, and has a much higher mobility penalty. The [Bearskin Coat](./Bearskin%20Coat.md) offers more warmth, waterproofing, and protection, but weighs 5 kg, and has a high mobility penalty. This makes the Expedition Parka not only the best man-made coat in the game, but arguably the best coat in the game as well, due to its well-rounded stats.
 
 The Expedition Parka is unavailable in [Interloper](./Interloper.md) mode.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ### Locations
 
 An Expedition Parka is very likely to spawn inside one of the cargo containers in the [Tail Section](./Tail%20Section.md), in [Timberwolf Mountain](./Timberwolf%20Mountain.md) (except on Interloper). One is likely to spawn inside, but up to 5 may be present inside the [container](./Cargo%20Container.md).
@@ -69,10 +61,6 @@ The Expedition Parka is also known to spawn in the cabin of the first blue picku
 
 It can also spawn in the train car in the abandoned passenger rail car in the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Expedition_parka_%28historical%29.png)
@@ -81,16 +69,6 @@ It can also spawn in the train car in the abandoned passenger rail car in the [F
 
 ![Clothing model icon damaged](../assets/Expedition_Parka_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

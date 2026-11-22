@@ -34,10 +34,6 @@
 
 **Medicinal Plants of Great Bear** is a [Collectible](./Collectibles.md) item cut from the Redux version of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode. It is unknown if this note was intended to be found inside of a pharmacy, as there is currently no pharmacy in [Milton](./Milton.md). Regardless, it was replaced by the book [Medicinal Plants of Great Bear](./Medicinal%20Plants%20of%20Great%20Bear.md) and is considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Medicinal Plants of Great Bear**_
@@ -52,16 +48,6 @@ ANNOUNCEMENT:
 Stuart has volunteered to maintain the inventory and record the items as we collect them, as well as check for quality. This is especially important with the mushrooms. We don't want to make anyone even sicker, or worse.  
  We know times are tough, but some of us have been through this sort of thing before. We can make it.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**

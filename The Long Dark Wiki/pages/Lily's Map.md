@@ -20,10 +20,6 @@ Item Type
 
 **Lily's Map** is a [collectible](./Collectibles.md) item obtained during [Chapter Four - Paradise Lost](./Paradise%20Lost.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Lily's map is found in the locked blue [Trunk](./Trunk.md) upstairs in Lily's room in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md). The trunk can only be only be opened with [Lily's Trunk Key](./Lily%27s%20Trunk%20Key.md), which is received as a reward from the [Grey Mother](./Grey%20Mother.md) after completing [Chapter Three - The Grey Mother](./The%20Grey%20Mother.md).

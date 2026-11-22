@@ -42,19 +42,8 @@
 - Part Two is found on a corkboard near the bed in the [Old Substation](./Old%20Substation.md)
 - Part Three is found in a [Backpack](./Backpack.md) inside [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md)
 
-<!-- #part_one -->
-​
+## Transcript
 
-<!-- #Part_One: -->
-​
-
-<!-- #part_one: -->
-​
-
-<!-- #Part_one: -->
-​
-
-<!-- #part-one -->
 ### Part One:
 
 _The following text is transcribed from **Building Blackrock, Part One**_
@@ -65,19 +54,6 @@ Local communities, almost as a rule, steer clear of the Penitentiary. Whether th
 
 There are still others who claim that nothing can match the harshness of winter living on Great Bear, and that Islanders should feel secure in their own hardy resilience. They are tougher than any prison inmate.
 
-<!-- #part_two -->
-​
-
-<!-- #Part_Two: -->
-​
-
-<!-- #part_two: -->
-​
-
-<!-- #Part_two: -->
-​
-
-<!-- #part-two -->
 ### Part Two:
 
 _The following text is transcribed from **Building Blackrock, Part Two**_
@@ -88,19 +64,6 @@ In terms of his design influences, the official records only note his intense in
 
 All in all, his work, and the prison itself, make for a remarkable and unusual contribution to the rugged landscape of Great Bear Island.
 
-<!-- #part_three -->
-​
-
-<!-- #Part_Three: -->
-​
-
-<!-- #part_three: -->
-​
-
-<!-- #Part_three: -->
-​
-
-<!-- #part-three -->
 ### Part Three:
 
 _The following text is transcribed from **Building Blackrock, Part Three**_
@@ -111,16 +74,6 @@ Before the first stone was laid for the Penitentiary, gold miners and prospector
 
 Still, it's said the many streams and rivers that surround the prison grounds still carry gold, even in winter.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**

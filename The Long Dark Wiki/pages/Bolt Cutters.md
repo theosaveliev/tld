@@ -40,77 +40,26 @@
 
 **Bolt Cutters** are a [Tool](./Tools.md) used briefly in [Wintermute](./Wintermute.md) to open locked gates at specific points in the story. Bolt Cutter can then be carried or dropped after this point and serve no other function for the remainder of the Episode.
 
-<!-- #episode_3_crossroads_elegy -->
-​
+## Wintermute
 
-<!-- #Episode_3:_Crossroads_Elegy -->
-​
-
-<!-- #episode_3:_crossroads_elegy -->
-​
-
-<!-- #Episode_3:_crossroads_elegy -->
-​
-
-<!-- #episode-3-crossroads-elegy -->
 ### [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md)
 
 In the mission [Aftermath](./Aftermath.md), they are found in the [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) middle level after [Astrid Greenwood](./Astrid%20Greenwood.md) falls deeper inside the mine due to an earthquake. They are used to open a single locked gate in order to access more of the mine level, but serve no other purpose afterwards for the rest of the Episode.
 
-<!-- #episode_4_fury_then_silence -->
-​
-
-<!-- #Episode_4:_Fury,_Then_Silence -->
-​
-
-<!-- #episode_4:_fury,_then_silence -->
-​
-
-<!-- #Episode_4:_fury,_then_silence -->
-​
-
-<!-- #episode-4-fury-then-silence -->
 ### [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
 
 In the mission [The Detonators](./The%20Detonators.md), they are once again used to open a single gate after finding the [Detonators](./Detonators.md), but serve no other purpose afterwards for the rest of the Episode.
 
-<!-- #episode_5_the_light_at_the_end_of_all_things -->
-​
-
-<!-- #Episode_5:_The_Light_At_The_End_Of_All_Things -->
-​
-
-<!-- #episode_5:_the_light_at_the_end_of_all_things -->
-​
-
-<!-- #Episode_5:_the_light_at_the_end_of_all_things -->
-​
-
-<!-- #episode-5-the-light-at-the-end-of-all-things -->
 ### [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
 
 In the mission [The Cold, Broken Road](./The%20Cold%2C%20Broken%20Road.md), a pair of Bolt Cutters is seen in an unreachable area with several supplies before the floor collapses. A wieldable pair is found later in the mine, and are used to open a single locked gate.
 
-<!-- #survival_mode -->
-​
-
-<!-- #Survival_Mode -->
-​
-
-<!-- #Survival_mode -->
-​
-
-<!-- #survival-mode -->
 ## Survival Mode
 
 Bolt Cutters appear in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) questline in the [Zone of Contamination](./Zone%20of%20Contamination.md). It is now classified as a Collectible instead of a Tool, and is stored in the Mementos section once obtained.
 
 Location: head to the [Headframe Building](./Headframe%20Building.md) to open a locked door (with the [Foreman's Key](./Foreman%27s%20Key.md)) in order to obtain [Foreman's Site Report Day 45](./Foreman%27s%20Site%20Report%20Day%2045.md) and some [Bolt Cutters](./Bolt%20Cutters.md). Going to the bottom level of the [Langston Mine](./Langston%20Mine.md), the Bolt Cutters and are used to open a single gate in order to obtain the [Mine Gate Key](./Mine%20Gate%20Key.md).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 This Tool was first introduced in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) to cut open the gate to the [Hunting Lodge](./Hunting%20Lodge.md) in [Broken Railroad](./Broken%20Railroad.md) in the mission [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md), but have been removed since the Redux version was released.
@@ -119,16 +68,6 @@ This Tool was first introduced in [Episode 2: Luminance Fugue](./Episode%202%20-
 
 ![The Bolt Cutters in Episode 2 with the old Milling Machine](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
@@ -143,5 +82,3 @@ This Tool was first introduced in [Episode 2: Luminance Fugue](./Episode%202%20-
   - Added to Survival Mode as part of Buried Echoes.
 - UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**
   - Added to Episode 5.
-
-[ru:Болторез](https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%82%D0%BE%D1%80%D0%B5%D0%B7)

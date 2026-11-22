@@ -32,9 +32,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)<br>10 minutes
+**Harvest:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) 10 minutes
 
-**Repair:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md),<br>1 × [Cured Gut](./Cured%20Gut.md)<br>30 minutes<br>50% condition
+**Repair:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md), 1 × [Cured Gut](./Cured%20Gut.md) 30 minutes 50% condition
 
 > “**A warm hat made from rabbit fur.**”
 >
@@ -42,10 +42,6 @@
 
 The **Rabbitskin Hat** is a type of craftable headgear in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Rabbitskin hat is crafted using [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md).
@@ -56,10 +52,6 @@ It is the third warmest outer hat (tied with the [Wool Toque](./Wool%20Toque.md)
 
 Being one of the heaviest headgear also makes it the third lowest weight-to-warmth ratio, behind [Cotton scarf](./Cotton%20Scarf.md) and even [Baseball cap](./Baseball%20Cap.md). However, the outer hat slot (left) is only one of six clothing slots which affects [windproofing](./Clothing.md). Although it beats the [Wool Toque](./Wool%20Toque.md) in stats, the Rabbitskin Hat is harder to repair, but also renewable.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 Has a chance to spawn in a [Hidden Cache](./Hidden%20Cache.md) located under the collapsed [Mule Bridge](./Mule%20Bridge.md) in the [Blackrock](./Blackrock.md) region, and possibly in other Hidden Caches in the region.
@@ -68,10 +60,6 @@ Has a chance to spawn in [Barn (Molly's)](./Barn%20%28Molly%27s%29.md) in [Pleas
 
 Has a chance to spawn in a cache in the [Ice Caves](./Ice%20Cave.md) of [Hushed River Valley](./Hushed%20River%20Valley.md), including on Interloper.
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Rabbitskin Hat**
@@ -88,26 +76,12 @@ Has a chance to spawn in a cache in the [Ice Caves](./Ice%20Cave.md) of [Hushed 
 
 **Quantity:** 3
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Clothing model](../assets/Rabbitskin_Hat_Model_icon.png)
 
 ![Clothing model damaged](../assets/Rabbitskin_Hat_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**

@@ -10,7 +10,7 @@
 
 **Type:** Fire Starting
 
-**Max temperature:** 80 °C<br>_(144 °F)_
+**Max temperature:** 80 °C _(144 °F)_
 
 **Cooking slots:** 1
 
@@ -18,27 +18,10 @@ The **Pot Belly Stove** is an immovable [contained fire](./Fire.md#Contained_fir
 
 The pot belly stove can be re-lit indefinitely, though it requires fresh starter, tinder, and fuel each time.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 Pot belly stoves have fixed locations that do not change between games. A pot belly stove is located in every [Fishing Hut](./Fishing%20Hut.md) as well as in some other structures.
 
-<!-- #known_locations_incomplete -->
-​
-
-<!-- #Known_locations_(incomplete): -->
-​
-
-<!-- #known_locations_(incomplete): -->
-​
-
-<!-- #Known_Locations_(incomplete): -->
-​
-
-<!-- #known-locations-incomplete -->
 ### Known locations (incomplete):
 
 - [Bank Manager's House](./Bank%20Manager%27s%20House.md)

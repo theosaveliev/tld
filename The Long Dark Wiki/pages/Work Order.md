@@ -30,10 +30,6 @@
 
 **Work Order** is a [Collectible](./Collectibles.md) note found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story. It is found in the boiler room of the [Steam Tunnels](./Steam%20Tunnels.md), next to a [Bedroll](./Bedroll.md) and some supplies.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Work Order**_
@@ -44,16 +40,6 @@ Staff reports instances of pressure loss when drawing power for internal detenti
 
 Check for adequate thermal regulation at steam junctions and valve switches. And see to scheduling any repairs as needed.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**

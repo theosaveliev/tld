@@ -5,7 +5,7 @@
 **Contents**
 
 - [Overview](#overview)
-- [Locations](#locations)
+- [Locations](#locations-1)
 - [Wildlife management](#wildlife-management)
 - [Survivability](#survivability)
 - [Gallery](#gallery)
@@ -41,10 +41,6 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Anna Island -- Track Section 2** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A continuation of the coastline from the previously numbered region.
@@ -57,10 +53,6 @@ A continuation of the coastline from the previously numbered region.
 
 A small set of tracks goes into a mountain tunnel in this region, but the tunnel there is collapsed. Turning the train around and attempting to ram the tunnel will result in possibly getting the train stuck.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 There are 7 named locations within Track Section 2, including:
@@ -87,25 +79,11 @@ Some other notable locations in this region include:
   - The second campfire is in a cave just south of the middle section of Criss Cross, direct center of the map. 2 entrances give way to a rock tunnel, with the campfire located in the middle with some [Cedar Firewood](./Cedar%20Firewood.md), a [Bedroll](./Bedroll.md), and some [Reclaimed Wood](./Reclaimed%20Wood.md).
     - There is an unmarked [Whale Bone Shrine](./Whale%20Bone%20Shrine.md) just south of the previous Campfire tunnel, though there is no loot nearby.
 
-<!-- #wildlife_management -->
-​
-
-<!-- #Wildlife_management -->
-​
-
-<!-- #Wildlife_Management -->
-​
-
-<!-- #wildlife-management -->
 ## Wildlife management
 
 - Some [wolves](./Wolf.md) can be found in several places in the region. Notably, at the Railyards and Criss Cross.
 - Rabbits can also be found at the eastern Railyard.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Transition to Track Section 1](../assets/Transition_to_Track_Section_1.png)
@@ -128,10 +106,6 @@ _**Repair Depot**_
 
 ![The inaccessible collapsed tunnel](../assets/Anna_Island_Track_2_Collapsed_Tunnel.jpg)
 
-<!-- #locations_1 -->
-​
-
-<!-- #locations-1 -->
 ### Locations
 
 ![Railyard west](../assets/Track_Section_2_Repair_Depot.jpg)
@@ -144,10 +118,6 @@ _**Repair Depot**_
 
 ![Railyard East](../assets/Railyard_%28Track_Section_2_East%29.jpg)
 
-<!-- #Miscellaneous -->
-​
-
-<!-- #miscellaneous -->
 ### Miscellaneous
 
 ![The unmarked Whale Bone Shrine in the middle of the map](../assets/Whale_Bone_Shrine_Track_Section_2.jpg)

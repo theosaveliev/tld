@@ -40,50 +40,14 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 The **Valve Socket Handle** is a [Collectible](./Collectibles.md) Tools item found in the [Wintermute](./Wintermute.md) story mode of [_The Long Dark_](./The%20Long%20Dark.md).
 
-<!-- #episode_4_fury_then_silence -->
-​
-
-<!-- #Episode_4:_Fury,_Then_Silence -->
-​
-
-<!-- #episode_4:_fury,_then_silence -->
-​
-
-<!-- #Episode_4:_fury,_then_silence -->
-​
-
-<!-- #episode-4-fury-then-silence -->
 ## [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
 
 During the mission [The Detonators](./The%20Detonators.md), [Will Mackenzie](./Will%20Mackenzie.md) journeys to the [Last Prospect](./Last%20Prospect.md) mine and uses 2 of these to redirect airflow throughout certain sections of the mine. At a few points, the handle gets stuck and cannot be dislodged in the ON position.
 
-<!-- #episode_5_the_light_at_the_end_of_all_things -->
-​
-
-<!-- #Episode_5:_The_Light_At_The_End_Of_All_Things -->
-​
-
-<!-- #episode_5:_the_light_at_the_end_of_all_things -->
-​
-
-<!-- #Episode_5:_the_light_at_the_end_of_all_things -->
-​
-
-<!-- #episode-5-the-light-at-the-end-of-all-things -->
 ## [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
 
 Will performs the same task to clear away toxic gas in the [Blackrock Foothills](./Blackrock%20Foothills.md) Mine for [Jace](./Jace.md) during Episode 5, with a single handle being found in the episode.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**

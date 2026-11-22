@@ -25,7 +25,7 @@
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) [Old Bear](./Old%20Bear.md)
 
 **Template:spoiler**
 > **It looks like Astrid made it out of Milton. Follow Lily's path to continue your search beyond the town's borders.**
@@ -37,19 +37,11 @@
 
 This episode has since been replaced by the current version of [Paradise Lost](./Paradise%20Lost.md).
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Find the climbing area on the outskirts of Milton.
 - Find the route that leads through the mountains.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 This mission is a point of no return. Finish all side missions and exploration before continuing to [Milton Park](./Milton%20Park.md).
@@ -60,44 +52,14 @@ Continue traveling until you find another Rope Climb. If you are too tired to cl
 
 Note that any items kept in this episode pass over to Episode 2.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 [Paradise Lost (Predux)/Transcript](./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md)
 
-<!-- #differences_from_redux_episode_1 -->
-​
-
-<!-- #Differences_from_Redux_Episode_1 -->
-​
-
-<!-- #Differences_from_redux_episode_1 -->
-​
-
-<!-- #Differences_From_Redux_Episode_1 -->
-​
-
-<!-- #differences-from-redux-episode-1 -->
 ## Differences from Redux Episode 1
 
 Several plot points and locations have been replaced/altered since the Redux re-release of Episode 1:
 
-<!-- #plot_points_and_gameplay_changes -->
-​
-
-<!-- #Plot_Points_and_Gameplay_Changes -->
-​
-
-<!-- #Plot_points_and_gameplay_changes -->
-​
-
-<!-- #Plot_Points_And_Gameplay_Changes -->
-​
-
-<!-- #plot-points-and-gameplay-changes -->
 ### Plot Points and Gameplay Changes
 
 - [Methuselah](./Methuselah.md) is not present after the fall.
@@ -105,16 +67,6 @@ Several plot points and locations have been replaced/altered since the Redux re-
 - Jeremiah is not wearing his [Bearskin Coat](./Bearskin%20Coat.md), but the redux changes this to include him wearing his coat in the ending cutscene.
   - Despite this, [Jeremiah's Bearskin Coat](./Jeremiah%27s%20Bearskin%20Coat.md) is damaged and needs to be repaired in Episode 2 after the bear attack.
 
-<!-- #game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #game-history -->
 ## Game History
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

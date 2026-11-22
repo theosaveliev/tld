@@ -18,10 +18,6 @@
 
 The **Safehouse Decoration Box** is a Container that is created when [Decorations](./Decorations.md) are dropped on the ground. It was introduced as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Any Decoration dropped onto the ground will appear inside this box. Each box is immovable, like all containers, which can be a problem if placed inside a doorway since the player cannot walk over them.

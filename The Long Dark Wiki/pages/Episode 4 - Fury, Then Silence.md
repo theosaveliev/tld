@@ -30,20 +30,14 @@
 
 **Template:spoiler**![Episode 4](../assets/Episode_4.png) _"A murderous gang of convicts has captured Mackenzie. Desperate to escape one of the darkest corners of Great Bear Island, he must somehow survive his fiercest enemy yet. Can Mackenzie recover the Hardcase, continue his search for Astrid, and also save the innocents caught up in this deadly confrontation?"_
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 **_Fury, Then Silence_** is the fourth episode in the [story](./Wintermute.md) of [The Long Dark](./The%20Long%20Dark.md), following [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). The episode takes place entirely within the [Blackrock Mountain](./Blackrock%20Mountain.md) region with [Will Mackenzie](./Will%20Mackenzie.md) as the protagonist, and precedes [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md): the conclusion to the story of Wintermute. [Mathis](./Mathis.md) serves as the episode's main antagonist.
 
 The Episode 4 was released on October 6th, 2021.
 
-<!-- #Prologue -->
-​
+## Missions
 
-<!-- #prologue -->
 ### Prologue
 
 _Main article: [Prologue](./Prologue.md)_
@@ -54,16 +48,6 @@ _Main article: [Prologue](./Prologue.md)_
 
 — In-game description
 
-<!-- #blackrock_blues -->
-​
-
-<!-- #Blackrock_Blues -->
-​
-
-<!-- #Blackrock_blues -->
-​
-
-<!-- #blackrock-blues -->
 ### Blackrock Blues
 
 _Main article: [Blackrock Blues](./Blackrock%20Blues.md)_
@@ -74,16 +58,6 @@ _Main article: [Blackrock Blues](./Blackrock%20Blues.md)_
 
 — In-game description
 
-<!-- #the_power_plant -->
-​
-
-<!-- #The_Power_Plant -->
-​
-
-<!-- #The_power_plant -->
-​
-
-<!-- #the-power-plant -->
 ### The Power Plant
 
 _Main article: [The Power Plant](./The%20Power%20Plant.md)_
@@ -94,16 +68,6 @@ _Main article: [The Power Plant](./The%20Power%20Plant.md)_
 
 — In-game description
 
-<!-- #the_detonators -->
-​
-
-<!-- #The_Detonators -->
-​
-
-<!-- #The_detonators -->
-​
-
-<!-- #the-detonators -->
 ### The Detonators
 
 _Main article: [The Detonators](./The%20Detonators.md)_
@@ -114,10 +78,6 @@ _Main article: [The Detonators](./The%20Detonators.md)_
 
 — In-game description
 
-<!-- #Donner -->
-​
-
-<!-- #donner -->
 ### Donner
 
 _Main article: [Donner (mission)](./Donner%20%28mission%29.md)_
@@ -126,16 +86,8 @@ _Main article: [Donner (mission)](./Donner%20%28mission%29.md)_
 
 — In-game description
 
-<!-- #blackrock_lockers -->
-​
+## Side Missions
 
-<!-- #Blackrock_Lockers -->
-​
-
-<!-- #Blackrock_lockers -->
-​
-
-<!-- #blackrock-lockers -->
 ### Blackrock Lockers
 
 _Main article: [Blackrock Lockers](./Blackrock%20Lockers.md)_
@@ -146,16 +98,6 @@ _Main article: [Blackrock Lockers](./Blackrock%20Lockers.md)_
 
 — In-game description
 
-<!-- #blackrock_rumours -->
-​
-
-<!-- #Blackrock_Rumours -->
-​
-
-<!-- #Blackrock_rumours -->
-​
-
-<!-- #blackrock-rumours -->
 ### Blackrock Rumours
 
 _Main article: [Blackrock Rumours](./Blackrock%20Rumours.md)_
@@ -164,16 +106,6 @@ _Main article: [Blackrock Rumours](./Blackrock%20Rumours.md)_
 
 — In-game description
 
-<!-- #convict_caches -->
-​
-
-<!-- #Convict_Caches -->
-​
-
-<!-- #Convict_caches -->
-​
-
-<!-- #convict-caches -->
 ### Convict Caches
 
 _Main article: [Convict Caches](./Convict%20Caches.md)_
@@ -182,16 +114,6 @@ _Main article: [Convict Caches](./Convict%20Caches.md)_
 
 — In-game description
 
-<!-- #dark_star -->
-​
-
-<!-- #Dark_Star -->
-​
-
-<!-- #Dark_star -->
-​
-
-<!-- #dark-star -->
 ### Dark Star
 
 _Main article: [Dark Star](./Dark%20Star.md)_
@@ -200,16 +122,6 @@ _Main article: [Dark Star](./Dark%20Star.md)_
 
 — In-game description
 
-<!-- #lost_power_workers -->
-​
-
-<!-- #Lost_Power_Workers -->
-​
-
-<!-- #Lost_power_workers -->
-​
-
-<!-- #lost-power-workers -->
 ### Lost Power Workers
 
 _Main article: [Lost Power Workers](./Lost%20Power%20Workers.md)_
@@ -218,19 +130,6 @@ _Main article: [Lost Power Workers](./Lost%20Power%20Workers.md)_
 
 — In-game description
 
-<!-- #a_riddle_among_the_shadows -->
-​
-
-<!-- #A_Riddle_Among_the_Shadows -->
-​
-
-<!-- #A_riddle_among_the_shadows -->
-​
-
-<!-- #A_Riddle_Among_The_Shadows -->
-​
-
-<!-- #a-riddle-among-the-shadows -->
 ### A Riddle Among the Shadows
 
 _Main article: [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md)_
@@ -239,16 +138,8 @@ _Main article: [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows
 
 — In-game description
 
-<!-- #major_characters -->
-​
+## Cast
 
-<!-- #Major_Characters -->
-​
-
-<!-- #Major_characters -->
-​
-
-<!-- #major-characters -->
 ### Major Characters
 
 - [Will Mackenzie](./Will%20Mackenzie.md) - (Playable Character) Mark Meer
@@ -256,16 +147,6 @@ _Main article: [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows
 - [Franklin](./Franklin.md) - Laurie McGinnis
 - [Jace](./Jace.md) - Tina Grant
 
-<!-- #minor_characters -->
-​
-
-<!-- #Minor_Characters -->
-​
-
-<!-- #Minor_characters -->
-​
-
-<!-- #minor-characters -->
 ### Minor Characters
 
 - [Astrid Greenwood](./Astrid%20Greenwood.md) (ending cameo) - Jennifer Hale
@@ -278,30 +159,12 @@ _Main article: [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows
 - Townsperson Two (ending cameo) - Jason McKinnon
 - [Convicts](./Convicts.md) - Jordan Waunch and Jacques Lalonde
 
-<!-- #positive_benefit -->
-​
+## Affliction Availability
 
-<!-- #Positive_Benefit -->
-​
-
-<!-- #Positive_benefit -->
-​
-
-<!-- #positive-benefit -->
 ### Positive Benefit
 
 - [Well Fed](./Well%20Fed.md)/[Fatigue Reduced](./Fatigue%20Reduced.md)/[Restore Condition](./Restore%20Condition.md)/[Improved Rest](./Improved%20Rest.md)/[Energy Boost](./Energy%20Boost.md)/[Warming Up](./Warming%20Up.md)
 
-<!-- #negative_affliction -->
-​
-
-<!-- #Negative_Affliction -->
-​
-
-<!-- #Negative_affliction -->
-​
-
-<!-- #negative-affliction -->
 ### Negative Affliction
 
 - [Torn Clothing](./Torn%20Clothing.md)/[Minor Bruising](./Minor%20Bruising.md)/[Major Bruising](./Major%20Bruising.md)/[Laceration](./Laceration.md)
@@ -312,10 +175,6 @@ _Main article: [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows
 - [Hypothermia](./Hypothermia.md) / Hypothermia Risk / [Frostbite](./Frostbite.md) /Frostbite Risk
 - [Sprained Ankle](./Sprained%20Ankle.md) / [Sprained Wrist](./Sprained%20Wrist.md) / Sprain Risk / [Pain](./Pain.md)
 
-<!-- #Achievements -->
-​
-
-<!-- #achievements -->
 ## Achievements
 
 - ![Welcome to the S\**t Show icon](../assets/Welcome_to_the_S%2A%2At_Show_icon.png) [Welcome to the S\**t Show](./Welcome%20to%20the%20S%2A%2At%20Show.md)
@@ -327,10 +186,6 @@ _Main article: [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows
 - ![Hard Times icon](../assets/Hard_Times_icon.png) [Hard Times](./Hard%20Times.md)
 - ![No Half Measures icon](../assets/No_Half-Measures_icon.png) [No Half-Measures](./No%20Half-Measures.md)
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![poster](../assets/Fury_then_silence_banner.png)

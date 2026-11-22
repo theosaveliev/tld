@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-3%
 
-**Harvest:** 1 × [Cured leather](./Cured%20Leather.md)<br>90 minutes
+**Harvest:** 1 × [Cured leather](./Cured%20Leather.md) 90 minutes
 
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md)<br>30 minutes<br>25% condition
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md) 30 minutes 25% condition
 
 > “**Rugged leather hiking boot. Designed to last for long-distance journeys on rocky terrain. Leather upper and heavy rubber sole.**”
 >
@@ -36,10 +36,6 @@
 
 **Trail Boots** are a type of [footwear](./Clothing.md) in _The Long Dark_.
 
-<!-- #Usefulness -->
-​
-
-<!-- #usefulness -->
 ## Usefulness
 
 Trail Boots are low-tier footwear and provide very little warmth for their weight, but decent protection against struggles and water. They are relatively easy to find, and are a common early game upgrade when clothing weight and mobility is less important but protection against predators is pivotal.
@@ -48,10 +44,6 @@ From a warmth perspective they are not much better than [Leather Shoes](./Leathe
 
 Counterintuitively, while bulkier and heavier than similar footwear they only require 1 [cured leather](./Cured%20Leather.md) to repair, but also only yield 1 cured leather when harvested.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Trail Boots old model](../assets/Basic_boots_%28historical%29.png)
@@ -60,16 +52,6 @@ Counterintuitively, while bulkier and heavier than similar footwear they only re
 
 ![Clothing model icon damaged](../assets/Trail_Boots_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

@@ -32,10 +32,6 @@
 >
 > — In-game description
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 **Lantern Fuel** is a container of kerosene fuel for the [Storm Lantern](./Storm%20Lantern.md). It can also be used as an optional accelerant for starting fires or an ingredient for crafting a [Torch](./Torch.md).
@@ -46,36 +42,20 @@ Jerry Cans are noticeably more efficient per kilogram than Lantern Fuel, weighin
 
 Refueling a lantern with both a Jerry Can and Lantern Fuel in the player's inventory will use the Jerry Can first. Therefore it is best to drop the Jerry Can before refueling so the Lantern Fuel is used first. It is also better to use up multiple emptier packages than one full one.
 
-<!-- #Obtaining -->
-​
-
-<!-- #obtaining -->
 ## Obtaining
 
 Bottles of Lantern Fuel can usually be found fairly frequently throughout the world, most often in houses and cabins. They an also be created by cooking [fish](./Ice%20Fishing.md).
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Torch](./Torch.md) | None | - 3 × [Stick](./Stick.md)<br>- 1 × [Cloth](./Cloth.md)<br>- 0.10 L × [Lantern Fuel](./Lantern%20Fuel.md) |
+| [Torch](./Torch.md) | None | - 3 × [Stick](./Stick.md) - 1 × [Cloth](./Cloth.md) - 0.10 L × [Lantern Fuel](./Lantern%20Fuel.md) |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![old model](../assets/Lantern_fuel.png)
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Lantern Fuel features the fictional brand name "Ever-Flame," and the container lists the volume as "350mL" or 0.35 L.

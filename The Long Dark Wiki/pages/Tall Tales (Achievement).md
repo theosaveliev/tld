@@ -17,24 +17,10 @@
 
 **Tall Tales** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Guide -->
-​
-
-<!-- #guide -->
 ## Guide
 
 This achievement is earned after finding all 4 Lost Legends books and tracking down the urban legends associated with them as part of the side mission [Tall Tales](./Tall%20Tales.md).
 
-<!-- #location_of_the_books -->
-​
-
-<!-- #Location_of_the_books -->
-​
-
-<!-- #Location_Of_The_Books -->
-​
-
-<!-- #location-of-the-books -->
 ## Location of the books
 
 - [Local Legends - Sasquatch](./Local%20Legends%20-%20Sasquatch.md) can be found in the bathroom of [Community Hall](./Community%20Hall.md).
@@ -42,10 +28,6 @@ This achievement is earned after finding all 4 Lost Legends books and tracking d
 - [Local Legends - Ghost Stag](./Local%20Legends%20-%20Ghost%20Stag.md) can be found in the [Draft Dodger's Cabin](./Draft%20Dodger%27s%20Cabin.md).
 - [Local Legends - The Lost Cave](./Local%20Legends%20-%20The%20Lost%20Cave.md) can be found in the Rural Store in [Thomson's Crossing](./Thomson%27s%20Crossing.md).
 
-<!-- #Tasks -->
-​
-
-<!-- #tasks -->
 ## Tasks
 
 - Locals tell of a Sasquatch...
@@ -61,16 +43,6 @@ This achievement is earned after finding all 4 Lost Legends books and tracking d
   - Go to the [Misty Falls Cave](./Misty%20Falls%20Cave.md).
   - Investigate the cave
 
-<!-- #game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #game-history -->
 ## Game History
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

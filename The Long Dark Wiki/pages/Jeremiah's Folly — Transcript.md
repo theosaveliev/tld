@@ -16,23 +16,10 @@
 
 **Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) [Old Bear](./Old%20Bear.md)
 
 This is the transcript for Chapter 4 [Jeremiah's Folly](./Jeremiah%27s%20Folly.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
-<!-- #use_your_map_to_track_the_bear_to_his_favourite_haunts_in_mystery_lake. -->
-​
-
-<!-- #Use_your_map_to_track_the_bear_to_his_favourite_haunts_in_Mystery_Lake. -->
-​
-
-<!-- #Use_your_map_to_track_the_bear_to_his_favourite_haunts_in_mystery_lake. -->
-​
-
-<!-- #Use_Your_Map_To_Track_The_Bear_To_His_Favourite_Haunts_In_Mystery_Lake. -->
-​
-
-<!-- #use-your-map-to-track-the-bear-to-his-favourite-haunts-in-mystery-lake -->
 ## Use your map to track the bear to his favourite haunts in Mystery Lake.
 
 CHAPTER FOUR
@@ -43,22 +30,6 @@ _The mission starts at the door to [Trapper's Homestead](./Trapper%27s%20Homeste
 
 _After tracking down and continuously shooting the Old Bear, Mackenzie eventually kills the seemingly invulnerable beast, and cuts [The Old Bear's Ear](./The%20Old%20Bear%27s%20Ear.md) off._
 
-<!-- #bring_the_old_bears_ear_back_to_jeremiah_as_proof_of_your_hunting_prowess. -->
-​
-
-<!-- #Bring_The_Old_Bear's_Ear_back_to_Jeremiah,_as_proof_of_your_hunting_prowess. -->
-​
-
-<!-- #bring_the_old_bear's_ear_back_to_jeremiah,_as_proof_of_your_hunting_prowess. -->
-​
-
-<!-- #Bring_the_old_bear's_ear_back_to_jeremiah,_as_proof_of_your_hunting_prowess. -->
-​
-
-<!-- #Bring_The_Old_Bear's_Ear_Back_To_Jeremiah,_As_Proof_Of_Your_Hunting_Prowess. -->
-​
-
-<!-- #bring-the-old-bears-ear-back-to-jeremiah-as-proof-of-your-hunting-prowess -->
 ## Bring The Old Bear's Ear back to Jeremiah, as proof of your hunting prowess.
 
 _Mackenzie returns to the Trapper's Homestead and a 3rd person cutscene begins._

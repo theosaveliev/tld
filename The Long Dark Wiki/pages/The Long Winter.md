@@ -10,24 +10,10 @@
 
 **The Long Winter** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Guide -->
-​
-
-<!-- #guide -->
 ## Guide
 
 This is an unmissable story achievement achieved after completing the mission [The Grey Mother](./The%20Grey%20Mother.md). Gather her supplies and then give her the [Grey Mother's Safety Deposit Box](./Grey%20Mother%27s%20Safety%20Deposit%20Box.md) and the achievement will unlock.
 
-<!-- #game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #game-history -->
 ## Game History
 
 \* UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

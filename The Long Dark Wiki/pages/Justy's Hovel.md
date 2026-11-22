@@ -26,12 +26,8 @@ Has a bed
 
 [Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has an interior<br>**Justy's Hovel** is an indoor location in [Forsaken Airfield](./Forsaken%20Airfield.md).
+Has an interior **Justy's Hovel** is an indoor location in [Forsaken Airfield](./Forsaken%20Airfield.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Justy's Hovel is a small cabin located on a plateau on the south-east corner of the map.

@@ -18,10 +18,6 @@
 
 **Type:** Outdoors
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Two [Cargo Containers](./Cargo%20Container.md), as well as crates and cardboard boxes, can be found scattered about the area.
@@ -44,10 +40,6 @@ The containers contain the following:
 
 The crates and the cardboard boxes don't contain anything but can be broken down for materials.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ### Gallery
 
 ![A view showing the two cargo containers](../assets/Engine4.jpg)

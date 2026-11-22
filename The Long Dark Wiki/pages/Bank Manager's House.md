@@ -50,35 +50,18 @@ Missions
 
 The **Bank Manager's House** is a location in [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. It is labeled as **[Milton House](./Milton%20House.md)** in Survival Mode.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 It is a residential building consisting of a kitchen with a [Pot Belly Stove](./Pot%20Belly%20Stove.md), a bedroom and bathroom. The Bank Manager's House needs to be opened with its own respective key before entering in Story mode.
 
 The house is located in [Milton](./Milton.md) a short walk from [Milton Post Office](./Milton%20Post%20Office.md) in the direction of [The Arch](./The%20Arch%20%28Mountain%20Town%20location%29.md) and the [Shortwave Tower](./Radio%20Tower.md). From the outside, the house can be identified as a green colored building with stairs up to the front door and a Canadian flag. The interior has a unique floor plan and yellow striped wallpaper. It is also one of the few smaller houses in Milton with a wood-burning stove.
 
-<!-- #episode_1 -->
-​
-
-<!-- #Episode_1 -->
-​
-
-<!-- #episode-1 -->
 ## Episode 1
 
 The house is initially locked but can be opened once [Will](./Will%20Mackenzie.md) has found the [Bank Manager's House Key](./Bank%20Manager%27s%20House%20Key.md) in a desk drawer in [Milton Credit Union](./Milton%20Credit%20Union.md). The code to the bank vault can also be found in the house, making the house a compulsory location for the main questline of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The kitchen area](../assets/Bank_managers_house_interior.jpg)
 
 ![The bedroom](../assets/Bed_2.jpg)
-
-[ru:Дом управляющего банком](https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B5%D0%B3%D0%BE_%D0%B1%D0%B0%D0%BD%D0%BA%D0%BE%D0%BC)

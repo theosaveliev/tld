@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>35% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 35% condition
 
 > “**A simple cotton button-down shirt you'd wear to a boring office job. Good thing computers don't seem to work anymore!**”
 >
@@ -36,13 +36,9 @@
 
 The **Dress Shirt** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
-A common starting item, the dress shirt is one of the worst clothing items in the game. The Dress Shirt only offers a little warmth and a small windproof bonus. While the windproof bonus does at least allow it to outclass the [T-Shirt](./T-Shirt.md#Overview), if it is worn as an inner layer the windproof bonus will be lost, thus rendering the Dress Shirt to the exact stats of a T-Shirt. As a result, the Dress Shirt should be replaced and harvested for [Cloth](./Cloth.md) as soon as possible, as almost anything will be better.
+A common starting item, the dress shirt is one of the worst clothing items in the game. The Dress Shirt only offers a little warmth and a small windproof bonus. While the windproof bonus does at least allow it to outclass the [T-Shirt](./T-Shirt.md#overview), if it is worn as an inner layer the windproof bonus will be lost, thus rendering the Dress Shirt to the exact stats of a T-Shirt. As a result, the Dress Shirt should be replaced and harvested for [Cloth](./Cloth.md) as soon as possible, as almost anything will be better.
 
 The [Sweatshirt](./Sweatshirt.md) serves as a direct upgrade, offering all of the stats of a Dress Shirt alongside a slight waterproofing and protection bonus.
 
@@ -50,16 +46,6 @@ The [Sweatshirt](./Sweatshirt.md) serves as a direct upgrade, offering all of th
 
 ![Clothing model damaged](../assets/Dress_Shirt_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

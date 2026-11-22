@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-1%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 30 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>30% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 30% condition
 
 > “**Cotton pants with reinforced areas. Will take a bit of punishment.**”
 >
@@ -36,10 +36,6 @@
 
 **Cargo Pants** are a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
-<!-- #Usefulnes -->
-​
-
-<!-- #usefulnes -->
 ## Usefulnes
 
 The cargo pants are a low-tier type of pants in the game although giving 50% more warmth and weight than [Jeans](./Jeans.md). They don't need frequent repairs but, like all low-tier pants, have a bad repair to warmth ratio.

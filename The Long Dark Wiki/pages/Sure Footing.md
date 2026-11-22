@@ -22,7 +22,7 @@
 
 **Type:** Benefit
 
-**Benefit Duration:** Until<br>[Crampons icon](../assets/Crampons_icon.png) [Crampons](./Crampons.md)<br>or<br>[Improvised Crampons icon](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md) are taken off or ruined
+**Benefit Duration:** Until [Crampons icon](../assets/Crampons_icon.png) [Crampons](./Crampons.md) or [Improvised Crampons icon](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md) are taken off or ruined
 
 **Advanced Data**
 
@@ -34,10 +34,6 @@
 
 **Sure Footing** is a positive [Affliction](./Afflictions.md) obtained when wearing [Crampons](./Crampons.md) or [Improvised Crampons](./Improvised%20Crampons.md) in the [accessories](./Clothing.md#Accessories) slot. The effect remains in effect as long as the accessory remains equipped. If the player's footwear (shoes and 2 socks slots) are removed (whether by the player or their footwear is ruined) then their Crampons will automatically be removed, removing the affliction.
 
-<!-- #Causes -->
-​
-
-<!-- #causes -->
 ## Causes
 
 Sure Footing is received when wearing any of the following items:
@@ -47,10 +43,6 @@ Sure Footing is received when wearing any of the following items:
 |  | [Crampons](./Crampons.md) |
 |  | [Improvised Crampons](./Improvised%20Crampons.md) |
 
-<!-- #Effects -->
-​
-
-<!-- #effects -->
 ## Effects
 
 This affliction causes the following effects:
@@ -62,16 +54,6 @@ This affliction causes the following effects:
 |  | [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) | 60 per second |
 |  | [Weak Ice](./Weak%20Ice.md) time increase | 1 second |
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - HOTFIX **6 April 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.93)):**

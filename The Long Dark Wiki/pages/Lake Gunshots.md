@@ -32,18 +32,10 @@
 
 **Lake Gunshots** is a side mission in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) investigates the [Forest Talkers](./Forest%20Talkers.md).
 
-<!-- #Unlocking -->
-​
-
-<!-- #unlocking -->
 ## Unlocking
 
 The Quest is unlocked by finding a note [Crumpled Note (2)](./Crumpled%20Note%20%282%29.md) in the [Maintenance Yard](./Maintenance%20Yard.md) in the [Broken Railroad](./Broken%20Railroad.md) region.
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Head to the far side of Mystery Lake, near the cabins.
@@ -53,10 +45,6 @@ The Quest is unlocked by finding a note [Crumpled Note (2)](./Crumpled%20Note%20
 - Return to the Forest Talker in the lake cabin.
 - Check on the lake cabin tomorrow.
 
-<!-- #Walkthrough -->
-​
-
-<!-- #walkthrough -->
 ## Walkthrough
 
 - Head to the far side of [Mystery Lake](./Mystery%20Lake%20%28location%29.md), near the cabins.
@@ -71,16 +59,6 @@ The Quest is unlocked by finding a note [Crumpled Note (2)](./Crumpled%20Note%20
 
 ![The Forest Talker's fate if you take his ammunition](../assets/Lake_Gunshots_Forest_Talker.jpg)
 
-<!-- #redux_transcript -->
-​
-
-<!-- #Redux_Transcript -->
-​
-
-<!-- #Redux_transcript -->
-​
-
-<!-- #redux-transcript -->
 ## Redux Transcript
 
 _Mackenzie heads to the lake cabins after reading the Crumpled Note, and finds crows flying over the lake ice, circling a body with blood all around it._
@@ -148,16 +126,6 @@ _The Forest Talker left a note on the table, thanking Mackenzie for his help, al
 
 _If the player instead took the man's ammo, Mackenzie will see the corpse of the Forest Talker the next day dead on the ground outside the cabin with an arrow through him. It is presumed that whomever wrote the Crumpled Note, a [Breyerhouse](./Breyerhouse.md) worker, came to finish the Forest Talker off like his friend. The note inside will be angrier, with no Deerskin pants._
 
-<!-- #predux_transcript -->
-​
-
-<!-- #Predux_Transcript -->
-​
-
-<!-- #Predux_transcript -->
-​
-
-<!-- #predux-transcript -->
 ## Predux Transcript
 
 > “**Jeremiah says he heard gunshots from across Mystery Lake. Could it have something to do with the Forest Talkers?**”
@@ -257,26 +225,12 @@ _The Forest Talker left a note on the table, thanking Mackenzie for his help, al
 
 _If the player instead took the man's ammo, Mackenzie will see the corpse of the Forest Talker the next day dead on the ground outside the cabin with an arrow through him. It is unknown who killed him and his friend on the ice. The note inside will be angrier, with no Deerskin pants._
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 The Forest Talker is voiced by Brian Drummond in the Redux.
 
 It is presumed that if the player takes the Forest Talker's ammo, the assailant that kills him takes the activist's hunting rifle, hence why one is never found. If the player leaves the ammo, the Forest Talker safely drives the assailant off, though no casings are found in the snow.
 
-<!-- #game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #game-history -->
 ## Game History
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

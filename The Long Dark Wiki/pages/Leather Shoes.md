@@ -28,9 +28,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-3%
 
-**Harvest:** 2 × [Cured leather](./Cured%20Leather.md)<br>75 minutes
+**Harvest:** 2 × [Cured leather](./Cured%20Leather.md) 75 minutes
 
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md), 1 × [Cloth](./Cloth.md)<br>90 minutes<br>20% condition
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md), 1 × [Cloth](./Cloth.md) 90 minutes 20% condition
 
 > “**Simple leather shoes that look good on Bay Street but will probably get you killed out here. Hope you have some warm socks!**”
 >
@@ -38,10 +38,6 @@
 
 **Leather Shoes** are a type of [footwear](./Clothing.md) in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Low tier shoes and a common starting item. They offer more protection and waterproofing than [Running Shoes](./Running%20Shoes.md), but also have a 3% movement penalty. typically not worth repairing, but harvesting them yields 2 [Leather](./Cured%20Leather.md).
@@ -50,16 +46,6 @@ Low tier shoes and a common starting item. They offer more protection and waterp
 
 ![Clothing model icon](../assets/Leather_Shoes_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

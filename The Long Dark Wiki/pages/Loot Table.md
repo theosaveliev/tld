@@ -20,16 +20,6 @@ Every Survival Mode sandbox belongs to one of four loot tables. There is a stand
 
 The loot table system is active regardless of sandbox difficulty. It is common for [Interloper](./Interloper.md) and [Misery](./Misery.md) players to identify which loot table their game is on so that they can quickly find crucial loot. For example, finding a hammer in [Molly's Barn](./Barn%20%28Molly%27s%29.md) means that you are on Loot Table 1, which guarantees that you can find a [magnifying lens](./Magnifying%20Lens.md) in the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) basement and a [firestriker](./Firestriker.md) in [Abandoned Mine No. 5](./Abandoned%20Mine%20No.%205.md).
 
-<!-- #what_is_and_is_not_affected_by_loot_tables -->
-​
-
-<!-- #What_is_and_is_not_affected_by_loot_tables -->
-​
-
-<!-- #What_Is_And_Is_Not_Affected_By_Loot_Tables -->
-​
-
-<!-- #what-is-and-is-not-affected-by-loot-tables -->
 ## What is and is not affected by loot tables
 
 Loot tables determine the locations of these items:
@@ -54,36 +44,10 @@ Loot tables do **not** appear to be linked to the locations of these items:
 - [Jerry Can](./Jerry%20Can.md)
 - High-value clothing
 
-<!-- #items_by_loot_table_interloper -->
-​
-
-<!-- #Items_by_loot_table_(Interloper) -->
-​
-
-<!-- #items_by_loot_table_(interloper) -->
-​
-
-<!-- #Items_by_loot_table_(interloper) -->
-​
-
-<!-- #Items_By_Loot_Table_(interloper) -->
-​
-
-<!-- #items-by-loot-table-interloper -->
 ## Items by loot table (Interloper)
 
 Note: the following tables were compiled for [Interloper](./Interloper.md) players; games on difficulties other than [Interloper](./Interloper.md) and [Misery](./Misery.md) may have more spawns than those below.
 
-<!-- #magnifying_lens -->
-​
-
-<!-- #Magnifying_Lens -->
-​
-
-<!-- #Magnifying_lens -->
-​
-
-<!-- #magnifying-lens -->
 ### Magnifying Lens
 
 Three [magnifying lenses](./Magnifying%20Lens.md) are guaranteed to spawn in every game, connected to the loot table system:
@@ -106,10 +70,6 @@ Three [magnifying lenses](./Magnifying%20Lens.md) are guaranteed to spawn in eve
 | [Timberwolf Mountain](./Timberwolf%20Mountain.md) | [Mountaineer's Hut](./Mountaineer%27s%20Hut.md), under the bed |  | guaranteed |  |  |
 | [Timberwolf Mountain](./Timberwolf%20Mountain.md) | [Secluded Shelf](./Secluded%20Shelf.md) cave system |  |  | guaranteed |  |
 
-<!-- #Firestriker -->
-​
-
-<!-- #firestriker -->
 ### Firestriker
 
 Four [firestrikers](./Firestriker.md) are guaranteed to spawn in every game, connected to the loot table system. Three firestrikers follow the same spawn pattern across all four loot tables (in Broken Railroad, Timberwolf Mountain, and Zone of Contamination); only one of these firestrikers varies by loot table.
@@ -128,19 +88,6 @@ Four [firestrikers](./Firestriker.md) are guaranteed to spawn in every game, con
 | [Timberwolf Mountain](./Timberwolf%20Mountain.md) | [Tail Section](./Tail%20Section.md) | guaranteed | guaranteed | guaranteed | guaranteed |
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | [Langston Mine](./Langston%20Mine.md), [Miner's Footpath](./Miner%27s%20Footpath.md) side | guaranteed, but random where in the mine it spawns | guaranteed, but random where in the mine it spawns | guaranteed, but random where in the mine it spawns | guaranteed, but random where in the mine it spawns |
 
-<!-- #spelunkers_lantern -->
-​
-
-<!-- #Spelunker's_Lantern -->
-​
-
-<!-- #spelunker's_lantern -->
-​
-
-<!-- #Spelunker's_lantern -->
-​
-
-<!-- #spelunkers-lantern -->
 ### Spelunker's Lantern
 
 On [Interloper](./Interloper.md), the [Spelunker's Lantern](./Spelunker%27s%20Lantern.md) will appear in one of four locations based on the loot table. On other difficulty settings, there are four more possible spawn locations.
@@ -152,16 +99,6 @@ On [Interloper](./Interloper.md), the [Spelunker's Lantern](./Spelunker%27s%20La
 | [Timberwolf Mountain](./Timberwolf%20Mountain.md) | [Waterfall Cave](./Waterfall%20Cave.md) |  |  | guaranteed |  |
 | [Timberwolf Mountain](./Timberwolf%20Mountain.md) | [Echo Peak East](./Echo%20Peak%20East.md) |  |  |  | guaranteed |
 
-<!-- #heavy_hammer -->
-​
-
-<!-- #Heavy_Hammer -->
-​
-
-<!-- #Heavy_hammer -->
-​
-
-<!-- #heavy-hammer -->
 ### Heavy Hammer
 
 Depending on loot table, 7-9 [heavy hammers](./Heavy%20Hammer.md) are guaranteed to spawn connected to the loot table system:
@@ -211,38 +148,14 @@ Depending on loot table, 7-9 [heavy hammers](./Heavy%20Hammer.md) are guaranteed
 | [Timberwolf Mountain](./Timberwolf%20Mountain.md) | [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) | one of four possible locations in this region |  | one of four possible locations in this region | one of four possible locations in this region |
 | [Timberwolf Mountain](./Timberwolf%20Mountain.md) | [Tail Section](./Tail%20Section.md) | one of four possible locations in this region |  | one of four possible locations in this region | one of four possible locations in this region |
 
-<!-- #vista_polaroids -->
-​
-
-<!-- #Vista_Polaroids -->
-​
-
-<!-- #Vista_polaroids -->
-​
-
-<!-- #vista-polaroids -->
 ### Vista Polaroids
 
 See [Polaroids](./Polaroids.md) for where these spawn, listed by loot table.
 
-<!-- #supply_caches -->
-​
-
-<!-- #Supply_Caches -->
-​
-
-<!-- #Supply_caches -->
-​
-
-<!-- #supply-caches -->
 ### Supply Caches
 
 See [Supply Cache](./Supply%20Cache.md) for where these spawn, listed by loot table.
 
-<!-- #References -->
-​
-
-<!-- #references -->
 ## References
 
 - [Interloper loot tables post-TFTFT by Bashrobe](https://docs.google.com/spreadsheets/d/1sFqnIM9BPeI3ZitcDRekWeWEWfJL7BLyqyirBT3Y53E/edit?gid=44065179#gid=44065179)

@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-12%
 
-**Harvest:** 1 × [Cured leather](./Cured%20Leather.md)<br>90 minutes
+**Harvest:** 1 × [Cured leather](./Cured%20Leather.md) 90 minutes
 
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md),<br>1 × [Cloth](./Cloth.md)<br>90 minutes<br>30% condition
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md), 1 × [Cloth](./Cloth.md) 90 minutes 30% condition
 
 > “**Highly waterproof boots made of synthetic materials. The felt inner liner keeps your feet nice and warm. Their bulk will slow you down.**”
 >
@@ -36,20 +36,12 @@
 
 **Insulated Boots** are a type of [Clothing](./Clothing.md) footwear in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 They are the best non-craftable footwear available for overall statistics. [Ski Boots](./Ski%20Boots.md) provide equivalent warmth and better windchill, but at more than twice the weight and with a high 20% mobility penalty.
 
 The rare [Mukluks](./Mukluks.md) are half a degree colder and 10% less waterproof, but also have just 3% of sprint penalty.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Insulated_boots_%28historical%29.png)

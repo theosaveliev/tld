@@ -4,10 +4,6 @@
 
 **Curing** is a mechanic in [_The Long Dark_](./The%20Long%20Dark.md), which converts raw resources into crafting items.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Some raw resources from [plants](./Wildlife.md#Plant_and_Fungal_Species) and [animals](./Wildlife.md) cannot be used for crafting in their initial state, and must first be cured: these include [Birch Sapling](./Green%20Birch%20Sapling.md) and [Maple Sapling](./Green%20Maple%20Sapling.md), all types of [Animal Pelts/Hides](https://thelongdark.fandom.com/wiki/Materials#Fresh_Hides), and [Fresh Gut](./Fresh%20Gut.md) from animals.
@@ -20,16 +16,6 @@ These items may be cured by dropping them on the floor or otherwise placing them
 
 - Curing items placed inside a container indoors will also cure, but at a slower rate. Many small caves can also be used for curing, but items should be placed as far as possible from the entrance; if they are curing, the "Cure%" will appear on the item.
 
-<!-- #curing_time -->
-​
-
-<!-- #Curing_Time -->
-​
-
-<!-- #Curing_time -->
-​
-
-<!-- #curing-time -->
 ## Curing Time
 
 | Item | Days to cure |
@@ -45,10 +31,6 @@ These items may be cured by dropping them on the floor or otherwise placing them
 | [Fresh Moose Hide](./Fresh%20Moose%20Hide.md) | 10 |
 | [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md) | 12 |
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - In-Game time is required to cure items, and is a fixed rate, not dependent on temperature.

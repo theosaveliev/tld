@@ -24,10 +24,6 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 Has no shelter **Last Quarrel** is a location in [Port Remnant](./Port%20Remnant.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 This location is found at the mid-eastern section of the map, north of the eastern most [Whale Bone Shrine](./Whale%20Bone%20Shrine.md).

@@ -26,7 +26,7 @@
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
-**Characters:** [Astrid](./Astrid%20Greenwood.md)<br>[Father Thomas](./Father%20Thomas.md)<br>[Survivors](./Crash%20Survivor.md)
+**Characters:** [Astrid](./Astrid%20Greenwood.md) [Father Thomas](./Father%20Thomas.md) [Survivors](./Crash%20Survivor.md)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -34,10 +34,6 @@
 
 **Coming Storm** is the third mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) must find the remaining survivors and stock supplies in the [Community Hall](./Community%20Hall.md) to last through the blizzard.
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Locate and return the missing survivors.
@@ -56,10 +52,6 @@
 
 Note The quantities above match that of the Capable Survivor [difficulty](./Wintermute.md#Difficulty). In the Hardened Survivor difficulty, the supplies required are approximately 20-25% more.
 
-<!-- #Walkthrough -->
-​
-
-<!-- #walkthrough -->
 ## Walkthrough
 
 | Mission details | Mission details |
@@ -68,16 +60,6 @@ Note The quantities above match that of the Capable Survivor [difficulty](./Wint
 
 The mission begins in Community Hall and is divided into two parts: Find and return three survivors, and stock the hall kitchen in preparation for a blizzard.
 
-<!-- #returning_survivors -->
-​
-
-<!-- #Returning_survivors -->
-​
-
-<!-- #Returning_Survivors -->
-​
-
-<!-- #returning-survivors -->
 ### Returning survivors
 
 There are three crash survivors in Pleasant Valley. To find a survivor, travel within the radius marked on the player's map. Once inside the radius, the player can shoot a flare into the sky with a [Distress Pistol](./Distress%20Pistol.md). A few seconds later, the survivor will shoot a flare into the sky, alerting the player to their location. If the survivor still cannot be found, a second flare can be fired and the survivor will respond.
@@ -86,52 +68,18 @@ Each survivor is found lying next to a [campfire](./Campfire.md). This campfire 
 
 Each survivor needs to be carried back to Community Hall. These survivors have the same mechanics as Gwen. For instance, they have condition (health) as well as warmth and hydration needs. Survivor condition will go down if they are attacked by [timberwolves](./Timberwolf.md) or if either of their needs are depleted. The player can address a survivor's warmth need by placing them near a fire or indoors, and can address their thirst need by using the "diagnose" interface to give potable water. The Survivor's condition will improve as long as their needs are met.
 
-<!-- #known_bug -->
-​
-
-<!-- #Known_Bug -->
-​
-
-<!-- #Known_bug -->
-​
-
-<!-- #known-bug -->
 ### Known Bug
 
 You can equip a pistol or marine flare while carrying a survivor on the PC version. Simply pick up the survivor, press the right mouse button to put them back down but instead of left clicking to do so, press your flare or gun hotkeys (1 or 2 respectively on the keyboard). It will select the first of that item in the list so if you want a marine flare be sure not to carry a standard red flare. If you equip a pistol you can fire and reload it while carrying. You can also equip a rifle but you won't be able to fire it unfortunately.
 
-<!-- #stocking_the_kitchen -->
-​
-
-<!-- #Stocking_the_kitchen -->
-​
-
-<!-- #Stocking_The_Kitchen -->
-​
-
-<!-- #stocking-the-kitchen -->
 ### Stocking the kitchen
 
 Inside the kitchen is a large cupboard, with a unique interface that shows the same list as the journal. Items placed in the cupboard will be noted in the progress towards the needed amount. Items can be added and removed from the cupboard at will until all of the needed quantities are inserted. At that point, it is no longer possible to add or remove items from the cupboard. Note, if extra quantities of a type of item are inside the cupboard at the time of completing the task, the player can no longer remove them. For that reason, it is wise to keep any extras outside the cupboard, either on the ground or in other cabinets.
 
-<!-- #community_hall_bug -->
-​
-
-<!-- #Community_Hall_Bug -->
-​
-
-<!-- #Community_hall_bug -->
-​
-
-<!-- #community-hall-bug -->
 ### Community Hall Bug
 
 Details can be found on the [Community Hall](./Community%20Hall.md) page.
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 #### Tips
 
 - (x8) Antiseptic/Old man's beard dressing

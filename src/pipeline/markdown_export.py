@@ -69,8 +69,7 @@ WIKITEXT_REFERENCE_TAG_RE = re.compile(
     r"<(?P<closing>/)?ref\b(?P<attributes>[^>]*)>", re.IGNORECASE
 )
 WIKITEXT_IMAGEMAP_RE = re.compile(
-    r"<imagemap\b[^>]*>(?P<body>.*?)</imagemap\s*>",
-    re.IGNORECASE | re.DOTALL,
+    r"<imagemap\b[^>]*>(?P<body>.*?)</imagemap\s*>", re.IGNORECASE | re.DOTALL
 )
 WIKITEXT_IMAGEMAP_RECT_RE = re.compile(
     r"\brect\s+-?\d+\s+-?\d+\s+-?\d+\s+-?\d+\s+"
@@ -835,12 +834,8 @@ def _repair_malformed_wikitext_table_attributes(value: str) -> str:
         ),
         cleaned,
     )
-    cleaned = WIKITEXT_NBSP_CELL_RE.sub(
-        r"\g<marker>\g<line_ending>", cleaned
-    )
-    return WIKITEXT_EMPTY_CELL_LINE_RE.sub(
-        r"\g<marker>\g<line_ending>", cleaned
-    )
+    cleaned = WIKITEXT_NBSP_CELL_RE.sub(r"\g<marker>\g<line_ending>", cleaned)
+    return WIKITEXT_EMPTY_CELL_LINE_RE.sub(r"\g<marker>\g<line_ending>", cleaned)
 
 
 def _imagemap_file_markup(header: str) -> str:
@@ -852,9 +847,7 @@ def _imagemap_file_markup(header: str) -> str:
 
     display_options = [part.strip() for part in parts[1:4] if part.strip()]
     caption = (
-        parts[4].strip()
-        if len(parts) == WIKITEXT_IMAGEMAP_CAPTION_PART_COUNT
-        else ""
+        parts[4].strip() if len(parts) == WIKITEXT_IMAGEMAP_CAPTION_PART_COUNT else ""
     )
     caption = re.sub(
         r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]",
@@ -895,9 +888,7 @@ def _render_one_wikitext_imagemap(match: re.Match[str]) -> str:
         return ""
 
     header = lines[0].strip()
-    rect_start = re.search(
-        r"\brect\s+-?\d+\s+-?\d+\s+-?\d+\s+-?\d+\s+\[", header
-    )
+    rect_start = re.search(r"\brect\s+-?\d+\s+-?\d+\s+-?\d+\s+-?\d+\s+\[", header)
     if rect_start is not None:
         header = header[: rect_start.start()].strip()
 
@@ -919,6 +910,7 @@ def _render_one_wikitext_imagemap(match: re.Match[str]) -> str:
 def _replace_wikitext_imagemaps(value: str) -> str:
     """Render MediaWiki imagemaps as an image followed by linked regions."""
     return WIKITEXT_IMAGEMAP_RE.sub(_render_one_wikitext_imagemap, value)
+
 
 def _sanitize_expanded_wikitext(value: str) -> str:
     """Normalize parser metadata, image maps, and malformed table/reference markup."""
@@ -1536,17 +1528,14 @@ MARKDOWN_ANCHOR_SPAN_RE = re.compile(
     r'<span\s+id="(?P<identifier>[^"]+)"\s*></span>', re.IGNORECASE
 )
 INTERWIKI_FOOTER_LINE_RE = re.compile(
-    r"^\s*\[[a-z]{2,3}:[^\]]+\]\(https?://[^)]+\)\s*$",
-    re.IGNORECASE,
+    r"^\s*\[[a-z]{2,3}:[^\]]+\]\(https?://[^)]+\)\s*$", re.IGNORECASE
 )
 FOOTNOTE_DEFINITION_ID_RE = re.compile(
     r"^(?:fn|footnote|cite_note)[-_]?(?P<number>\d+)$", re.IGNORECASE
 )
 FOOTNOTE_REFERENCE_ID_RE = re.compile(
-    r"^(?:fnref|footnote_ref|cite_ref)[-_]?(?P<number>\d+)(?:[-_]\d+)?$",
-    re.IGNORECASE,
+    r"^(?:fnref|footnote_ref|cite_ref)[-_]?(?P<number>\d+)(?:[-_]\d+)?$", re.IGNORECASE
 )
-
 
 
 def _strip_trailing_empty_markdown_sections(value: str) -> str:
@@ -1566,6 +1555,7 @@ def _strip_trailing_empty_markdown_sections(value: str) -> str:
         while lines and _is_markdown_anchor_artifact_line(lines[-1]):
             lines.pop()
     return "\n".join(lines).rstrip() + ("\n" if lines else "")
+
 
 def _advance_markdown_fence(
     line: str, fence: tuple[str, int] | None
@@ -1587,7 +1577,10 @@ def _is_markdown_anchor_artifact_line(line: str) -> bool:
     cleaned = MARKDOWN_ANCHOR_SPAN_RE.sub("", line)
     cleaned = re.sub(r"\\?\s*<!--.*?-->", "", cleaned)
     cleaned = re.sub(r"[\u200b\u200e\ufeff]", "", cleaned)
-    return not cleaned.strip() or INTERWIKI_FOOTER_LINE_RE.fullmatch(cleaned.strip()) is not None
+    return (
+        not cleaned.strip()
+        or INTERWIKI_FOOTER_LINE_RE.fullmatch(cleaned.strip()) is not None
+    )
 
 
 def _strip_empty_markdown_sections(value: str) -> str:
@@ -1634,17 +1627,14 @@ def _strip_leaked_html_markup(value: str) -> str:
         cleaned,
         flags=re.IGNORECASE,
     )
-    cleaned = re.sub(
-        r"</?[A-Za-z][A-Za-z0-9:-]*(?:\s+[^<>]*?)?\s*/?>",
-        " ",
-        cleaned,
-    )
+    cleaned = re.sub(r"</?[A-Za-z][A-Za-z0-9:-]*(?:\s+[^<>]*?)?\s*/?>", " ", cleaned)
     return re.sub(r"[\u200b\u200e\ufeff]", "", cleaned)
 
 
 def _rewrite_heading_anchor_spans(value: str) -> str:
     """Remove legacy empty span anchors while separating adjacent words."""
     return MARKDOWN_ANCHOR_SPAN_RE.sub(" ", value)
+
 
 def _normalize_markdown_blank_lines(value: str) -> str:
     """Collapse repeated blank lines outside fenced code blocks."""
@@ -2653,6 +2643,7 @@ def _inline_markdown_media(
         result = _inline_markdown_embedded_media(node, content)
     return result
 
+
 def _unicode_superscript(value: str) -> str:
     """Use Unicode superscript glyphs where Markdown has no superscript syntax."""
     table = str.maketrans("0123456789+-=()", "⁰¹²³⁴⁵⁶⁷⁸⁹⁺⁻⁼⁽⁾")
@@ -3634,6 +3625,7 @@ def _render_html_list(node: lhtml.HtmlElement, depth: int = 0) -> str:
         lines.extend(part for part in nested if part)
     return "\n".join(lines)
 
+
 def _render_html_pre(node: lhtml.HtmlElement) -> str:
     """Convert a preformatted HTML block to a fenced Markdown code block."""
     code = node.text_content().strip("\n")
@@ -3697,6 +3689,7 @@ def _markdown_anchor_for_node(node: lhtml.HtmlElement) -> str:
     """Do not emit HTML anchor tags in Markdown output."""
     _ = node
     return ""
+
 
 def _render_html_block(node: lhtml.HtmlElement) -> str:
     """Convert one HTML block element into Markdown, retaining its anchor ID."""
@@ -3808,6 +3801,7 @@ def _normalize_markdown_anchor_hrefs(root: lhtml.HtmlElement) -> None:
         normalized_slug = heading_slugs.get(decoded)
         if normalized_slug is not None:
             link.set("href", path + "#" + normalized_slug)
+
 
 def _table_has_spanned_cells(rows: list[list[lhtml.HtmlElement]]) -> bool:
     """Return whether an HTML table uses merged rows or columns."""

@@ -31,10 +31,6 @@ Has a bed
 
 Has a forge
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Old Spence Family Homestead is surrounded by a thicket on one side and fields of snowbanks and weak ice on the other. It consists mostly of buildings in various degrees of disrepair, but one of the main buildings generally contains useful items such as [Fir Firewood](./Fir%20Firewood.md), [Coal](./Coal.md), a [Heavy Hammer](./Heavy%20Hammer.md), [Food And Drink](./Food%20And%20Drink.md), and [Scrap Metal](./Scrap%20Metal.md), as well as the second [forge](./Forge.md) to appear in the game. The main building also contains a work bench, a [safe](./Safe.md) (hidden behind several crates) and a [bed](./Bed.md).
@@ -47,24 +43,10 @@ A wolf pack tends to patrol near the fence on the side closest to the ice, so ta
 
 With the Redux update (December 2018), another forge has been added to the [Maintenance Yard](./Maintenance%20Yard.md) in the [Broken Railroad](./Broken%20Railroad.md) region. Consider traveling a little farther to reach the Maintenance Yard if you don't have enough equipment to protect against the harsh weather conditions in Forlorn Muskeg.
 
-<!-- #signal_void -->
-​
-
-<!-- #Signal_Void -->
-​
-
-<!-- #Signal_void -->
-​
-
-<!-- #signal-void -->
 ## Signal Void
 
 Some [Replacement Fuses](./Replacement%20Fuse.md), along with some [Wire Bundle](./Wires.md), may be found here, which can prove helpful to players who wish to repair the transmitter tower near [Muskeg Overlook](./Muskeg%20Overlook.md).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - One of the large crates near the bed in the main building always contains 3 accelerants under it when destroyed.
@@ -72,10 +54,6 @@ Some [Replacement Fuses](./Replacement%20Fuse.md), along with some [Wire Bundle]
 - The docks contains several pieces of loot.
 - Old Spence Family Homestead in [Wintermute (Story Mode) Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) is a references the fantasy manga ["Ushio &amp; Tora" (うしおととら)](https://en.wikipedia.org/wiki/Ushio_%26_Tora) written and illustrated by Kazuhiro Fujita. Both stories involve characters driven driven mad for revenge to kill 'evil spirits' with [similar weapons](./Bear%20Spear.md).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old Spence Family Homestead](../assets/Old_Spence_Family_Homestead.png)
@@ -83,5 +61,3 @@ Some [Replacement Fuses](./Replacement%20Fuse.md), along with some [Wire Bundle]
 ![View inside main building, with Forge visible on left behind wooden slats.](../assets/Old_Spence_Family_Homestead_Forge.png)
 
 ![The Forge illuminated by a flare, with coal nearby.](../assets/20161220215121_1.jpg)
-
-[ru:Семейная ферма старого Спенса](https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%84%D0%B5%D1%80%D0%BC%D0%B0_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B3%D0%BE_%D0%A1%D0%BF%D0%B5%D0%BD%D1%81%D0%B0)

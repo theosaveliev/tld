@@ -41,10 +41,6 @@ _For the cooked version, see [Moose Meat (Cooked)](./Moose%20Meat%20%28Cooked%29
 
 **Moose Meat** is a raw [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Moose Meat is harvested from [Moose](./Moose.md) carcasses, which contain between 30.0 and 45.0 kg of raw meat. Consuming raw meat carries a high chance of contracting [Food Poisoning](./Food%20Poisoning.md).
@@ -55,20 +51,12 @@ Moose Meat is harvested from [Moose](./Moose.md) carcasses, which contain betwee
 
 Often considered the best meat in _The Long Dark_, moose meat carries no risk of [Intestinal Parasites](./Intestinal%20Parasites.md), has the highest energy density (900 cal/kg) of all meat (along with [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)), and the slowest [Decay](./Decay.md) of all meat items but is much harder to obtain in general.
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Moose Meat (Cooked)](./Moose%20Meat%20%28Cooked%29.md) | None | - 1.00 kg × [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Fresh](../assets/Moose_Meat_%28Raw%29_icon.png)
@@ -83,16 +71,6 @@ Often considered the best meat in _The Long Dark_, moose meat carries no risk of
 
 ![old model](../assets/Raw_moose_meat_icon_old.webp)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **7 December 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)):**

@@ -41,10 +41,6 @@
 
 **Prepared Reishi Mushrooms** are a natural medical item used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Prepared Reishi Mushrooms are crafted from 2 [Reishi Mushrooms](./Reishi%20Mushroom.md) and take 15 minutes (in-game) to create; Reishi Tea requires 1 Prepared Reishi Mushrooms, 0.25L of [Potable Water](./Water%20%28Potable%29.md) and 10 minutes at a lit [Fire](./Fire.md).
@@ -55,10 +51,6 @@ Reishi Mushrooms can be found in the wilderness growing on the trunks or stumps 
 
 Prepared Reishi Mushrooms have half the weight of their raw form, and no form of Reishi Mushroom [decays](./Decay.md).
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 **Prepared Reishi Mushrooms**
@@ -73,46 +65,24 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 **Quantity:** 2
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Reishi Tea](./Reishi%20Tea.md) | None | - 1 × [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md)<br>- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Reishi Tea](./Reishi%20Tea.md) | None | - 1 × [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md) - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - Reishi Mushrooms are found sporadically in all regions on the trunks of dead pine trees.
 - Reishi Mushrooms (and thus Reishi Tea) are finite in all regions and do not regrow, but are renewable via [Beachcombing](./Beachcombing.md).
 - Antibiotics are not a renewable resource and cannot be crafted; however [Reishi Tea](./Reishi%20Tea.md) is functionally similar to Antibiotics, but is made from natural materials found abundantly in the wilds.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The old icon for prepared mushrooms](../assets/Prepared_Reishi_Mushrooms_icon_historic.png)
 
 ![ditto, 3D model](../assets/Prepared_mushrooms.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

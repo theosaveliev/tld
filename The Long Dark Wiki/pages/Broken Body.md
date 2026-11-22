@@ -14,7 +14,7 @@
 
 **Category:** [Afflictions](./Afflictions.md)
 
-**Description:** Your body carries the weight of a dying world.<br>You have lost the ability to recover Condition and are twice as vulnerable to physical damage.
+**Description:** Your body carries the weight of a dying world. You have lost the ability to recover Condition and are twice as vulnerable to physical damage.
 
 **Caused By:** [Misery Mode](./Misery.md)
 
@@ -30,10 +30,6 @@
 
 **Broken Body** is an [Affliction](./Afflictions.md) found within _[The Long Dark](./The%20Long%20Dark.md)_. It is one of 6 unique Afflictions that can be encountered only within Misery Mode experience.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 > “__Your body carries the weight of a dying world.  
@@ -44,19 +40,11 @@
 
 Broken Body is a permanent Affliction unique to [Misery Mode](./Misery.md) which occurs from Stage 5 of Misery (Day 47). It completely disables Condition recovery and doubles all sources of Condition drain.
 
-<!-- #Effects -->
-​
-
-<!-- #effects -->
 ## Effects
 
 - All forms of [Condition](./Condition.md) recovery are disabled (Passive from met [Needs](./Needs.md), [Sleep](./Sleep.md) and all [Items](./Emergency%20Stim.md))
 - +100% Condition damage taken
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - All negative condition drains are affected. This includes negative afflictions, falling into [weak ice](./Weak%20Ice.md), fall damage, starvation, contact with [fire hazards](./Burns.md) (electricity and flames), and so on.

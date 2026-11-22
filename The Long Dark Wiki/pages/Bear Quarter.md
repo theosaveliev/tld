@@ -26,10 +26,6 @@
 
 **Outside:** 10.0% per day
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A **Bear Quarter** is a section harvested from a _[bear](./Bear.md)_. You can obtain bear quarters by _quartering_ a bear carcass. To quarter an animal, you have to go into the harvest menu, then select the quartering action. For a bear, this will always take 2 hours. You can only quarter a bear if its less than 50% frozen.
@@ -38,16 +34,6 @@ After quartering, the carcass will despawn, leaving behind 5-8 quarters, as well
 
 Unlike directly harvesting a fresh carcass' meat, you will still need to harvest a quarter for its meat. 50% of the quarters total weight will be turned into usable [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md). Any remaining raw meat left inside the bag will be lost if the Quarter's Condition reaches 0%, with bags spoiling within 1 day of harvesting.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **8 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.423)):**

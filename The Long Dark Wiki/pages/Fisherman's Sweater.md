@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-1%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>45 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 45 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>60 minutes<br>30% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 60 minutes 30% condition
 
 > “**Heavy cable-knit wool sweater, of the kind worn by people on cold boats. High necked and generally very warm. Also, heavy.**”
 >
@@ -36,10 +36,6 @@
 
 **Fisherman's Sweater** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Fisherman's Sweater is a thick, heavy clothing item with a nautical fashion style. It is quite warm but rare, and has one of the best weight-to-warmth ratio of all sweaters, with warmth similar (but slightly inferior to) the rare [Cowichan Sweater](./Cowichan%20Sweater.md), while weighing half as much. It is a direct upgrade to the [Thick Wool Sweater](./Thick%20Wool%20Sweater.md), with better stats while weighing the same. It also looks like an [Aran-Knit Sweater](https://en.wikipedia.org/wiki/Aran_jumper).
@@ -52,16 +48,6 @@ Fisherman's Sweater is not available on [Interloper](./Interloper.md) mode.
 
 ![Clothing model damaged](../assets/Fisherman%27s_Sweater_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

@@ -22,12 +22,8 @@
 
 Has a bed
 
-Has an interior<br>**Placid Notch** is a location in [Sundered Pass](./Sundered%20Pass.md), and is where Refuge Cabin B is located.
+Has an interior **Placid Notch** is a location in [Sundered Pass](./Sundered%20Pass.md), and is where Refuge Cabin B is located.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 This location consists of the road cutting through the region and a small refuge cabin. The cabin can provide life-saving shelter if the weather conditions turn poor. It offers a small amount of loot and limited storage:
@@ -48,10 +44,6 @@ Heading north will lead to the destroyed bridge leading to the [Weather Station]
 
 The area surrounding field is home to multiple large [Timberwolf](./Timberwolf.md) packs, so travelers will want to be well-armed prior to visiting.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![An avalanche warning sign in the cabin](../assets/Avalanche_Warning_Sign.png)

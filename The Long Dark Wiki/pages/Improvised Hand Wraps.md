@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>25% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 25% condition
 
 > “**Hand wrappings made from scraps of cloth.**”
 >
@@ -42,10 +42,6 @@ Crafting the hand wraps takes about 37 minutes and requires 4 pieces of [Cloth](
 
 ![Model icon damaged](../assets/Improvised_Hand_Wraps_Model_Damaged_icon.png)
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Improvised Hand Wraps**
@@ -60,16 +56,6 @@ Crafting the hand wraps takes about 37 minutes and requires 4 pieces of [Cloth](
 
 **Quantity:** 4
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**

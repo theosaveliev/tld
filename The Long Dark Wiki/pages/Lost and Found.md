@@ -24,22 +24,14 @@
 
 **Object key:** GAMEPLAY\_InaccessibleGearContainer
 
-**Lost and Found** are a special type of container in _The Long Dark_. They look like a [metal container](./Metal%20Container.md), but are red in colour and have the [Hinterland](./Hinterland%20Studio%20Inc..md) logo on its cover and tin, and do not naturally spawn in the game world.<span id="fnref1"></span>[¹](#fn1)
+**Lost and Found** are a special type of container in _The Long Dark_. They look like a [metal container](./Metal%20Container.md), but are red in colour and have the [Hinterland](./Hinterland%20Studio%20Inc..md) logo on its cover and tin, and do not naturally spawn in the game world.[^1]
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Lost and Found containers spawn in [Regions](./Region.md) or indoors locations when the player loses items because of a game update or glitch (eg, containers or terrain are altered during an update, items fall through the map, or the player falls victim to the disappearing-travois bug). A Lost and Found container will spawn containing the lost items near the doors of indoor locations and near major buildings/areas in outdoor areas.
 
 Lost and Found containers are unique in that they do not naturally generate upon world creation (like most containers do), and cannot be created by the player (such as [Rock Caches](./Rock%20Cache.md)). They will be present only when a relevant glitch has occurred. Lost and Found are also unique in that items cannot be placed inside them, only removed. Once a Lost and Found is emptied, it will despawn upon reloading the location.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 **Multiple regions**
@@ -167,18 +159,10 @@ Lost and Found containers are unique in that they do not naturally generate upon
 - Outside the double doors at the front of the Concentrator Building
 - Concentrator (by side double doors in the main large building)
 
-<!-- #History -->
-​
-
-<!-- #history -->
 ## History
 
 Lost and Found containers were first introduced in the [Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) update. Upon introduction, Lost and Found containers would spawn in [Regions](./Region.md) or indoors locations which were explored in the current savefile in a previous version of the game, and were subsequently altered in an [update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md). The reason for the existence of these containers is to prevent players from losing items when regions are altered in the previous update (Example, furniture is moved with items on them/Containers removed with items in them).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Lost and Found generate inside of maps (Regions or indoors locations/caves with a Loading Transition) directly beside their entry point. For locations with multiple entry points, only one Lost and Found will be present at one of them.
@@ -186,12 +170,8 @@ Lost and Found containers were first introduced in the [Crossroads Elegy](./Epis
 - Lost and Found are retextured Metal Containers.
 - Hinterlands logos are present on two objects in-game: Lost and Found containers and [Cup of Coffee](./Cup%20of%20Coffee.md).
 
-<!-- #footnotes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 ---
 
-1. <span id="fn1"></span>Hinterland Support - "Lost &amp; Found Boxes", [https://hinterlandgames.zendesk.com/hc/en-us/articles/360038137951-Lost-Found-Boxes](https://hinterlandgames.zendesk.com/hc/en-us/articles/360038137951-Lost-Found-Boxes)[↩︎](#fnref1)
+[^1]: Hinterland Support - "Lost &amp; Found Boxes", [https://hinterlandgames.zendesk.com/hc/en-us/articles/360038137951-Lost-Found-Boxes](https://hinterlandgames.zendesk.com/hc/en-us/articles/360038137951-Lost-Found-Boxes)

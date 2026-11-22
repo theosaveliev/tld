@@ -33,10 +33,6 @@
 
 **Cat Tail Heads** are tinder item in _[The Long Dark](./The%20Long%20Dark.md),_ obtained by harvesting [Cat Tail](./Cat%20Tail.md) plants.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Cat Tail Heads can be used as tinder when starting a [fire](./Fire.md), being among the lightest types of tinder at only 0.05 kg each. It has the same chance to successfully light a fire as other tinders.
@@ -45,19 +41,6 @@ Cat Tails can be found in all regions, and are abundant in [Forlorn Muskeg](./Fo
 
 Like all other plants, Cat Tails do not regrow.
 
-<!-- #fire_starting_info -->
-​
-
-<!-- #Fire_Starting_info -->
-​
-
-<!-- #Fire_starting_info -->
-​
-
-<!-- #Fire_Starting_Info -->
-​
-
-<!-- #fire-starting-info -->
 ## Fire Starting info
 
 **Birch Bark**
@@ -68,24 +51,10 @@ Like all other plants, Cat Tails do not regrow.
 
 **Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) 0%
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![old model](../assets/Cat_tail_head.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **11 February 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.196)):**

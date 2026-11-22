@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>60% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 60% condition
 
 > “**A hand-knit thick wool scarf. Nice and warm.**”
 >
@@ -36,10 +36,6 @@
 
 The **Wool Scarf** is a type of headgear in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Wool Scarf has identical stats to the [Cotton Toque](./Cotton%20Toque.md), with the exception of being 10% more waterproof.
@@ -48,10 +44,6 @@ It shares the the highest warmth-to-weight ratio of any headgear with the Cotton
 
 As of the [Resolute Outfitter](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386) update, the Wool Scarf was moved to the headgear slot (it was formerly an accessory).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Model icon](../assets/Wool_Scarf_Model_icon.png)
@@ -60,16 +52,6 @@ As of the [Resolute Outfitter](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%
 
 ![Old model.](../assets/Basic_wool_scarf_%28historical%29.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

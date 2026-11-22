@@ -30,10 +30,6 @@
 
 **Mine Safety Notice** is a [Collectible](./Collectibles.md) found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story. It is located next to the first elevator inside the [Last Prospect](./Last%20Prospect.md) Mine.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Mine Safety Notice**_
@@ -46,16 +42,6 @@ We're aware this may impact air quality containment controls on lower levels.
 
 We only ask that you follow posted guidelines when working in areas of the facility that may be impacted by any noxious vapors.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**

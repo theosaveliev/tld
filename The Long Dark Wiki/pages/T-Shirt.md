@@ -28,9 +28,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>35% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 35% condition
 
 > “**Short-sleeved cotton t-shirt. Doesn't offer much warmth, particularly when wet.**”
 >
@@ -38,10 +38,6 @@
 
 The **T-Shirt** is a type of [clothing](./Clothing.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The shirt is the worst inner torso clothing in the game. It offers a small amount of warmth, and nothing else. It should be replaced and harvested for [Cloth](./Cloth.md) as soon as possible, as every other inner torso clothing outclasses it in some way.
@@ -50,16 +46,6 @@ The shirt is the worst inner torso clothing in the game. It offers a small amoun
 
 ![Clothing model icon damaged](../assets/T-Shirt_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

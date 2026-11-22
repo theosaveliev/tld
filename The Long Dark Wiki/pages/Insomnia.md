@@ -39,26 +39,18 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 “
 
-**Exposure to certain influences may trigger an Insomnia Affliction, introducing a new series of risks for you to manage as you do your best to avoid their cause.**<br>[Official Hinterland description](https://www.thelongdark.com/expansion/)
+**Exposure to certain influences may trigger an Insomnia Affliction, introducing a new series of risks for you to manage as you do your best to avoid their cause.** [Official Hinterland description](https://www.thelongdark.com/expansion/)
 
 ”
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 **Insomnia** is an [Affliction](./Afflictions.md) added to the Part 1 Update of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon, and is contracted from spending too much time in [Glimmer Fog](./Glimmer%20Fog.md) found within certain [Regions](./Region.md) within the Far Territory Frontier. At present, it can only be contracted in the [Forsaken Airfield](./Forsaken%20Airfield.md), [Zone of Contamination](./Zone%20of%20Contamination.md), and [Sundered Pass](./Sundered%20Pass.md) Regions.
 
-<!-- #Affliction -->
-​
-
-<!-- #affliction -->
 ## Affliction
 
 "_Your sleep is troubled and Rest is frequently interrupted._"
@@ -71,10 +63,6 @@ Eating certain Recipes created from Frontier Cooking has a chance to lower the e
 
 Escaping regions that Glimmer Fog frequents will not remove the affliction at this stage. Curing the affliction only requires the player to wait the allotted hours for the disease to pass. Further Glimmer Fog events will not increase the affliction time until it returns to Risk status.
 
-<!-- #Hazards -->
-​
-
-<!-- #hazards -->
 ### Hazards
 
 To a healthy survivor with high [condition](./Condition.md), Insomnia is generally quite inconsequential, as interrupted sleep restores [fatigue](./Fatigue.md) just as effectively as uninterrupted sleep. In this situation, its only adverse affect is that sleeping may require a bit more clicking than normal, which is mildly annoying at most.
@@ -85,16 +73,6 @@ In rare cases, Insomnia could save the survivor's life: if they're sleeping in a
 
 In late-game [Misery](./Misery.md) where healing is impossible, Insomnia has little impact on gameplay, aside from the interrupted sleep.
 
-<!-- #survivor_quotes -->
-​
-
-<!-- #Survivor_Quotes -->
-​
-
-<!-- #Survivor_quotes -->
-​
-
-<!-- #survivor-quotes -->
 ## Survivor Quotes
 
 - "I'm tired...can't sleep"
@@ -102,10 +80,6 @@ In late-game [Misery](./Misery.md) where healing is impossible, Insomnia has lit
 - "I can close my eyes but I just can't sleep."
 - "Just...can't sleep!"
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 Insomnia was introduced in the [Tales From The Far Territory DLC.](./Tales%20from%20the%20Far%20Territory.md)
@@ -116,10 +90,6 @@ Like other afflictions, contracting Insomnia results in the player character pro
 
 A [Note](./Note%20%28Forsaken%20Airfield%29.md) can be found from a survivor detailing their desire to leave the area that Glimmer Fog regularly envelopes, due to them being unable to get any sleep.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![An example of a survivor suffering from Insomnia](../assets/Insomnia_Risk.jpg)

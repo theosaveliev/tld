@@ -9,7 +9,7 @@
     "raw_fallback_pages": 1,
     "html_fallback_pages": 0,
     "unresolved_links": 37,
-    "missing_images": 27,
+    "missing_images": 25,
     "categories": 104,
     "infoboxes": 1853,
     "unconverted_infoboxes": 3,
@@ -16474,7 +16474,7 @@
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 13, column 2):\nunexpected '&'\n|&nbsp;\n ^ Used sanitized source as a fallback."
+      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 13, column 2):\nunexpected '\\n'\n|\n ^ Used sanitized source as a fallback."
     },
     {
       "title": "Tractor",
@@ -18257,13 +18257,11 @@
     "cat_tail_plant.png",
     "constable's_office.jpg",
     "fa_polaroid.png",
-    "far",
     "fire_icon.png",
     "flashlight_long_lasting_icon.png",
     "gut_icon.png",
     "hunting_rifle_icon_(story).png",
     "landslide_bleak_inlet.jpg",
-    "lower",
     "medical_clinic.jpg",
     "mountaineer_cabin.png",
     "needs.png",

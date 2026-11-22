@@ -10,10 +10,6 @@
 
 **Something Wicked** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Guide -->
-​
-
-<!-- #guide -->
 ## Guide
 
 Simply surviving for 1000 days in [Survival Mode](./Survival%20Mode.md) without using [Cheat Death](./Cheat%20Death.md) at all in the save will unlock this. Surviving 1000 days after using Cheat Death will not grant the achievement.
@@ -25,10 +21,6 @@ Simply surviving for 1000 days in [Survival Mode](./Survival%20Mode.md) without 
 - Simply closing the game should you be attacked and you know you will die in the ensuing [Struggle](./Struggle.md) is a method to avoid death (though this will send you back to your last save upon reloading). This method does not work should the game save for any reason during the attack (ex, [Timberwolf](./Timberwolf.md)/Cougar bites)
   - Making a manual backup of your save files every so often can be a good (albeit dishonorable) method to restore a save should you fade into The Long Dark.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 The achievement name is an [Easter Egg](./Easter%20Eggs.md) reference to a quote from one of the three witches in Shakespeare's [Macbeth](https://nosweatshakespeare.com/quotes/famous/something-wicked-this-way-comes/):

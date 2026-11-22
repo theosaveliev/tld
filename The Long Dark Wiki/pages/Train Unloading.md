@@ -30,10 +30,6 @@ Outdoors|-
 
 Has an interior **Train Unloading** is a location in [Coastal Highway](./Coastal%20Highway.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Train Unloading is located in the northernmost area of the region and to the east of the train tracks leading from [The Ravine](./The%20Ravine.md).

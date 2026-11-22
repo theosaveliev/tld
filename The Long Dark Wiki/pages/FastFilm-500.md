@@ -34,24 +34,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **FastFilm-500** is a tool used with the [Camera](./Camera.md) to take photos.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 1 box contains 6 film Shots, and takes pictures in Colour. They are commonly found in various locations around Great Bear Island, mostly hidden in houses and cabins.
-
-<!-- #game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #game-history -->
-## Game History
-
-[ru:FASTFILM-500](https://ru.wikipedia.org/wiki/FASTFILM-500)

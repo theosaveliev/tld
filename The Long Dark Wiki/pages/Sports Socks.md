@@ -28,9 +28,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>15 minutes<br>75% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 15 minutes 75% condition
 
 > “**Thin cotton socks. Not very warm and useless when wet.**”
 >
@@ -38,20 +38,12 @@
 
 **Sports Socks** are a type of Clothing in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Sports Socks are a common starting item and are the worst type of socks; they also have the highest rate of decay of all socks (requiring them to be repaired more often). They should be replaced at the first opportunity. Their warmth bonus is so low that it makes little difference even wearing them, and they do not offer any other protection (e.g., from wind) since they are an inner layer clothing item (unless the player has no shoes).
 
 Despite this, they may still be worth picking up, especially in higher difficulty levels, as they can be harvested for one piece of [Cloth](./Cloth.md), which can be used for fixing warmer clothing.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Cotton_socks_%28historical%29.png)
@@ -60,16 +52,6 @@ Despite this, they may still be worth picking up, especially in higher difficult
 
 ![Clothing model icon damaged.](../assets/Sports_Socks_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

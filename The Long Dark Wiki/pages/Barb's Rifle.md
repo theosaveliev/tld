@@ -33,7 +33,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Stackable:** No
 
-**Examine:** A pale green .303 with a custom stock. A trucker's companion and a durable friend on the open road.<br>Reliable beyond all else.
+**Examine:** A pale green .303 with a custom stock. A trucker's companion and a durable friend on the open road. Reliable beyond all else.
 
 **Values**
 
@@ -51,10 +51,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Barb's Rifle** is a unique variant of the [Hunting Rifle](./Hunting%20Rifle.md) in _[The Long Dark](./The%20Long%20Dark.md)_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The unique perk of Barb's Rifle's is that it degrades 18% slower than the standard hunting rifle, this means a full condition Barb's Rifle can fire up to 89 shots at base [Rifle Skill](./Rifle%20Firearm.md) before breaking. This durability comes at the cost of weight as it's custom stock increases the gun's base weight to 4.50 kg, which is 0.50 kg heavier than the Hunting Rifle.
@@ -63,10 +59,6 @@ Barb's rifle also features a unique set of iron sights with a pointed front sigh
 
 Successful hits on live animals provide experience to the [Rifle Firearm](./Rifle%20Firearm.md) skill.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 Barb's Rifle will spawn once per world in various states of repair. It is found in a set of randomly selected [Coastal Highway](./Coastal%20Highway.md) locations, such as:
@@ -76,28 +68,11 @@ Barb's Rifle will spawn once per world in various states of repair. It is found 
 - In a train log car near the trailer at [Train Unloading](./Train%20Unloading.md).
 - Under the concrete bridge near [Rockfall](./Rockfall.md).
 
-<!-- #differences_from_hunting_rifle -->
-​
-
-<!-- #Differences_from_Hunting_Rifle -->
-​
-
-<!-- #Differences_from_hunting_rifle -->
-​
-
-<!-- #Differences_From_Hunting_Rifle -->
-​
-
-<!-- #differences-from-hunting-rifle -->
 ## Differences from Hunting Rifle
 
 - Base weight is 0.50 kg more than the Hunting Rifle
 - Total durability is 18% more than Hunting Rifle (Uses 1.125%-0.5625% condition per shot based on [Rifle Skill](./Rifle%20Firearm.md))
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - With [Rifle Skill Level 5](./Rifle%20Firearm.md)'s 50% reduction in per shot durability use, Barb's Rifle can fire up to 178 shots from full condition before breaking. This makes it one of the best rifles for use on [Stalker](./Stalker.md), since it's higher durability and the reduced amount of cleaning kits available means you can stretch your materials further and spend less time repairing at a [milling machine.](./Milling%20Machine.md)
@@ -108,10 +83,6 @@ Barb's Rifle will spawn once per world in various states of repair. It is found 
 - Barb's rifle belongs to Barbara Quincy, owner of the [Quonset Garage](./Quonset%20Garage.md), according to a [Buffer Memory.](./Buffer%20Memories.md#Coastal_Highway)
 - Barb's rifle is based on the No. 4 Rifle, a later version of the Lee-Enfield rifle, albeit with a different magazine. On the actual rifles, the magazine did not change much.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Barbs Rifle Inspect](../assets/Barbs_Rifle_Inspect.png)
@@ -130,16 +101,6 @@ Barb's Rifle will spawn once per world in various states of repair. It is found 
 
 ![Ditto](../assets/Barb%27s_Rifle_Bridge.jpg)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #update-history -->
 ## Update History
 
 - UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**

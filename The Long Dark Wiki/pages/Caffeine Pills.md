@@ -38,10 +38,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Caffeine Pills** are a [First Aid](./First%20Aid.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Caffeine Pills are used to help eliminate [Fatigue](./Fatigue.md), and are only acquired from the [Trader](./Trader.md).
@@ -61,10 +57,6 @@ Each pill weighs 0.02 kg, for 0.10kg a pack.
 - 3.00 L [Water (Potable)](./Water%20%28Potable%29.md)
 - 3 [Crow Feather](./Crow%20Feather.md)
 
-<!-- #Location -->
-​
-
-<!-- #location -->
 ## Location
 
 Caffeine Pills are acquired by trading with the [Trader](./Trader.md), and are only unlocked after reaching 400 [Trust](./Trader.md#Trust).

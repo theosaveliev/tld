@@ -36,10 +36,6 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 The Cylinder is narrated by Alice McLeod.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Wax Cylinder 6**_
@@ -71,17 +67,3 @@ Get back on board, engage the autopilot, and go back to Great Bear.
 It means the future's not for you.
 
 The future is for the brave.
-
-<!-- #game_history -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #game-history -->
-## Game history
-
-[ru:Восковой валик 06](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D0%B0%D0%BB%D0%B8%D0%BA_06)

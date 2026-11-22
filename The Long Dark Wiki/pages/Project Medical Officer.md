@@ -21,7 +21,7 @@
 
 **Date:** 5 December 2022
 
-**Mission:** [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md)<br>[Last Horizon](./Last%20Horizon.md)
+**Mission:** [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) [Last Horizon](./Last%20Horizon.md)
 
 **Biographical Information**
 
@@ -43,10 +43,6 @@
 
 Known only as the **Project Medical Officer**, he is a major character in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) storyline.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 After the incident with Team 3 in the [Langston Mine](./Langston%20Mine.md) after the Machine was powered on, [Dr. Rüdiger](./Dr.%20R%C3%BCdiger.md) had a doctor flown in to evaluate the miners' symptoms.
@@ -60,16 +56,6 @@ Several medical and psychological tests were performed on the men, with the doct
 
 It is unknown what became of the Medical Officer after his experiments were concluded. Aside from a note from the Security Chief Officer mentioning that he was affected by The Machine, no information on whether he successful evacuated the Island being present.
 
-<!-- #signal_void -->
-​
-
-<!-- #Signal_Void -->
-​
-
-<!-- #Signal_void -->
-​
-
-<!-- #signal-void -->
 ## Signal Void
 
 > “__Whatever happened here, it’s not a virus, or any known pathogen. At least, that's what the doctor tells me. There are no visible injuries, only invisible ones.  
@@ -79,16 +65,6 @@ It is unknown what became of the Medical Officer after his experiments were conc
 
 The Project Medical Officer is the Deuteragonist of the Tale [Signal Void](./Signal%20Void.md).
 
-<!-- #buried_echoes -->
-​
-
-<!-- #Buried_Echoes -->
-​
-
-<!-- #Buried_echoes -->
-​
-
-<!-- #buried-echoes -->
 ## Buried Echoes
 
 > “__Their latest big idea is to bring some kind of doctor in. Just to talk, they said.  
@@ -98,16 +74,6 @@ The Project Medical Officer is the Deuteragonist of the Tale [Signal Void](./Sig
 
 A single note written by [The Foreman](./The%20Foreman.md) ([Foreman's Site Report Day 64](./Foreman%27s%20Site%20Report%20Day%2064.md)) mentions Rüdiger flying in the Medical Officer to perform evaluations on the miners. No other mention is made of him.
 
-<!-- #last_horizon -->
-​
-
-<!-- #Last_Horizon -->
-​
-
-<!-- #Last_horizon -->
-​
-
-<!-- #last-horizon -->
 ## Last Horizon
 
 > “__It's getting colder, and I'm starting to lose it.  
@@ -118,10 +84,8 @@ A single note written by [The Foreman](./The%20Foreman.md) ([Foreman's Site Repo
 
 The Medical Officer does not appear in [Last Horizon](./Last%20Horizon.md), but is mentioned in [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md), as The Foreman mentions continuing the writing and breathing exercises to keep his mind from wandering/deteriorating.
 
-<!-- #Collectibles -->
-​
+## Belongings
 
-<!-- #collectibles -->
 ### Collectibles
 
 - ![Interview Transcript 4 icon](../assets/Interview_Transcript_4_icon.png) [Interview Transcript 4](./Interview%20Transcript%204.md)
@@ -129,10 +93,6 @@ The Medical Officer does not appear in [Last Horizon](./Last%20Horizon.md), but 
 - ![Interview Transcript 14 icon](../assets/Interview_Transcript_14_icon.png) [Interview Transcript 14](./Interview%20Transcript%2014.md)
 - ![Interview Transcript 17 icon](../assets/Interview_Transcript_17_icon.png) [Interview Transcript 17](./Interview%20Transcript%2017.md)
 
-<!-- #Mentioned -->
-​
-
-<!-- #mentioned -->
 ### Mentioned
 
 - ![Security Chief's Log 14 icon](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)

@@ -16,7 +16,7 @@
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
-**Characters:** [Astrid](./Astrid%20Greenwood.md) [Molly](./Molly.md)<br>[Radio Voice Man](./Characters.md#Radio_Voice_Man)<br>[Will Mackenzie](./Will%20Mackenzie.md)<br>[Father Thomas](./Father%20Thomas.md) (ending cameo)
+**Characters:** [Astrid](./Astrid%20Greenwood.md) [Molly](./Molly.md) [Radio Voice Man](./Characters.md#Radio_Voice_Man) [Will Mackenzie](./Will%20Mackenzie.md) [Father Thomas](./Father%20Thomas.md) (ending cameo)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -24,10 +24,6 @@
 
 **Aftermath** is the fourth mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) prepares to leave [Pleasant Valley](./Pleasant%20Valley.md) and make her way to [Perseverance Mills](./Perseverance%20Mills.md) through the [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md).
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Leave the Community Hall.
@@ -44,10 +40,6 @@
 
 ![Abandoned Mine (Episode.3 - Finish)](../assets/Map-AuroraMine-EP3-.png)
 
-<!-- #Walkthrough -->
-​
-
-<!-- #walkthrough -->
 ## Walkthrough
 
 | Mission details | Mission details |

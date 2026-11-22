@@ -44,10 +44,6 @@
 
 **Bleak Inlet** is the 10th [Region](./Region.md) to be added to [_The Long Dark_](./The%20Long%20Dark.md). It was released in the Errant Pilgrim update in December 2019. The region connects to [Forlorn Muskeg](./Forlorn%20Muskeg.md) and [The Ravine](./The%20Ravine.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Bleak Inlet is a cold and windy region of ruined coastal industry, and a ring of wilderness around its namesake inlet of [Weak Ice](./Weak%20Ice.md). Entry to Bleak Inlet can be gained through a cave system from [Forlorn Muskeg](./Forlorn%20Muskeg.md) or via a ledge by climbing into [The Ravine's](./The%20Ravine.md) basin.
@@ -60,16 +56,6 @@ Initially, the high elevation areas around [Echo One Radio Tower](./Echo%20One%2
 
 An electrically powered keypad-activated door seals the [Last Resort Cannery](./Last%20Resort%20Cannery.md) (similar to those in [Wintermute](./Wintermute.md)).
 
-<!-- #the_cannery -->
-​
-
-<!-- #The_Cannery -->
-​
-
-<!-- #The_cannery -->
-​
-
-<!-- #the-cannery -->
 ## The Cannery
 
 Bleak Inlet was formerly an industrial region which supported the now ruined [Last Resort Cannery](./Last%20Resort%20Cannery.md) (maker of the [Tin of Sardines](./Tin%20of%20Sardines.md) brand food). The cannery complex consists of ruined warehouses, docks, piers, sheds, semi-trailers, a sealed trawler and a trailer. All of these structures are extremely cold, with only the trailer providing proper shelter.
@@ -82,20 +68,12 @@ The Cannery plant off the pier is a [Workshop](./Workshop.md) that houses specia
 - A breakroom with a door off the docks contains a [Fire Barrel](./Fire%20Barrel.md) and [Bed](./Bed.md); however, like all the ruined buildings in the cannery complex, this room is only partially sheltered. To avoid freezing, it may be necessary to sleep in the cannery trailer.
 - The breakroom and the room with the locked door have the same behavior as [warm caves](./Warm%20Cave.md): they have an air temperature bonus, do not contribute to cabin fever risk, and campfires can be lit on the floor, including with a [Magnifying Lens](./Magnifying%20Lens.md) if the player stands in the doorway, which acts like a shallow cave. These can make ideal locations for cooking because they are wind-sheltered and the full campfire duration bonus can be achieved by standing in the doorway.
 
-<!-- #Safehouses -->
-​
-
-<!-- #safehouses -->
 ## Safehouses
 
 Bleak Inlet is a little short of houses, let alone _safe_houses. There are two enterable structures that could serve this purpose: the first being the [Cannery Worker Residences](./Cannery%20Worker%20Residences.md). One of the four of these buildings has a [bed](./Bed.md), [Fireplace](./Fireplace.md), and some storage. Some wildlife might spawn nearby, including a Bear, as well as a notable Rabbit and Deer spawn near the [Fallen Lighthouse](./Fallen%20Lighthouse.md).
 
 Another possible safehouse is a small cabin located in a secluded corner of the map. It contains a [Rim Grill](./Rim%20Grill.md), bed, and decent storage. Deer and Rabbits will spawn nearby, as well as Rose Hips and occasionally [Timberwolf](./Timberwolf.md).
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 Bleak Inlet is a moderately large map with a cold, windy climate and few indoor locations, making it challenging for even skilled survivors. |- |
@@ -127,20 +105,12 @@ Bleak Inlet is a moderately large map with a cold, windy climate and few indoor 
 
 Additionally, 1 [Prepper Cache](./Prepper%20Cache.md) spawns in the hills between Summit at Ravine's End and Pensive Lookout. There are also a number of small, unnamed caves scattered throughout the region. A single [Cabin](./Cabin.md) is found to the northeastern most portion of the map and several [Trailers west of the Cannery](./Trailers%20west%20of%20the%20Cannery.md) can be found.
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - [Bleak Inlet](./Bleak%20Inlet.md) is home to multiple packs of [Timberwolves](./Timberwolf.md) and several [Moose](./Moose.md) and [Bear](./Bear.md).
 - The weather of Bleak Inlet is very cold and windy with few shelters, natural or artificial, and has an above-average number of Auroras at night. On average its weather is less severe weather than [Pleasant Valley](./Pleasant%20Valley.md), but comparably cold to that of [Timberwolf Mountain](./Timberwolf%20Mountain.md).
 - Accessing Bleak Inlet can be difficult: requiring either traversing [Forlorn Muskeg](./Forlorn%20Muskeg.md) and a cave, or two [rope climbs](./Mountaineering%20Rope.md) from [The Ravine](./The%20Ravine.md).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Bleak Inlet (view from the fallen lighthouse)](../assets/SS-BI-Inlet01.jpg)
@@ -207,10 +177,6 @@ Additionally, 1 [Prepper Cache](./Prepper%20Cache.md) spawns in the hills betwee
 
 ![20210111173156 1](../assets/20210111173156_1.jpg)
 
-<!-- #Maps -->
-​
-
-<!-- #maps -->
 ## Maps
 
 ![A detailed map of Bleak Inlet v2.35](../assets/BI_map_default.png.png)

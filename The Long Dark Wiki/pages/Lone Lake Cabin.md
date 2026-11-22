@@ -22,14 +22,10 @@ Has an interior
 
 | Column 1 | Column 2 |
 | --- | --- |
-| [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png) | **This article's name is conjectural.**<br>Although this article is based on information contained within [The Long Dark](./The%20Long%20Dark.md), the actual name of this subject is pure conjecture |
+| [Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png) | **This article's name is conjectural.** Although this article is based on information contained within [The Long Dark](./The%20Long%20Dark.md), the actual name of this subject is pure conjecture |
 
 The **Lone Lake Cabin** is the unofficial name given to a single cabin in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Lone Lake Cabin is located along the eastern shore of [Mystery Lake](./Mystery%20Lake%20%28location%29.md).
@@ -38,10 +34,6 @@ Some supplies can be found inside the cabin, which also provides good protection
 
 A possible [bear](./Bear.md) and a cave may spawn north of the cabin. For players wishing to hunt the bear, the cabin can make a good place to cure the bear's guts and hide.
 
-<!-- #Notes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 - In Episode 2 - Luminance Fugue, this cabin needs a key to be unlocked.

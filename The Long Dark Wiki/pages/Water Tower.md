@@ -16,14 +16,10 @@
 
 [Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.** This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
-<br>A **Water Tower** is a stationary interactable object in [_The Long Dark_](./The%20Long%20Dark.md) only found in railyards on [Cauldron Island](./Cauldron%20Island.md).
+ A **Water Tower** is a stationary interactable object in [_The Long Dark_](./The%20Long%20Dark.md) only found in railyards on [Cauldron Island](./Cauldron%20Island.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A **Water Tower** initially contains 6,000 liters of [Unsafe Water](./Water%20%28Unsafe%29.md), and is accompanied by two yellow signs labelled "WATER". When the Survivor pulls the train up close to the tower, a small sign under the signpost will flip a black panel to green a green one, letting them know that the [train](./Prototype%20Train.md) is in position to be filled (fuel and water caps must be in the middle of the signs to trigger this).
@@ -44,10 +40,6 @@ Water can also be transferred into the Survivor's backpack, 5.00 liters at a tim
 - Water Towers refuel over time, so that the player will never run out of water for the train.
   - If the water level in the tower falls below 4,900 liters, it will immediately refill, allowing the tower to serve as an infinite source of Unsafe Water.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ### Locations
 
 Water Towers can be found at:

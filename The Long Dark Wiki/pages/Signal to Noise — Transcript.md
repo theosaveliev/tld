@@ -14,16 +14,12 @@
 
 **Next:** [What One Man Can Do/Transcript](./What%20One%20Man%20Can%20Do%20%E2%80%94%20Transcript.md)
 
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)<br>[Forlorn Muskeg](./Forlorn%20Muskeg.md)
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) [Old Bear](./Old%20Bear.md)
 
 This is the mission transcript for mission 3 [Signal to Noise](./Signal%20to%20Noise.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 CHAPTER THREE

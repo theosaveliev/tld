@@ -16,26 +16,14 @@
 
 **Type:** OutdoorsMilitary/Sporting
 
-<!-- #Surroundings -->
-​
-
-<!-- #surroundings -->
 ## Surroundings
 
 There are no supplies near the tower, however there is a [Warm Cave](./Warm%20Cave.md) not far away where some supplies can be found. A [Mementos](./Mementos.md) is stuck to the tower leg facing the marsh cliff side.
 
-<!-- #Story -->
-​
-
-<!-- #story -->
 ## Story
 
 In Episode 2 this is one of the radio towers that has to be reached to gather radio components in the mission [Signal to Noise](./Signal%20to%20Noise.md).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The Old Bear at the Shortwave Tower West in Episode 2](../assets/Shortwave_bear.jpg)

@@ -28,9 +28,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cured Leather](./Cured%20Leather.md)<br>10 minutes
+**Harvest:** 1 × [Cured Leather](./Cured%20Leather.md) 10 minutes
 
-**Repair:** 1 × [Cured Leather](./Cured%20Leather.md)<br>25 minutes<br>60% condition
+**Repair:** 1 × [Cured Leather](./Cured%20Leather.md) 25 minutes 60% condition
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -42,20 +42,12 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Aviator Cap** is a type of clothing in The Long Dark. It is part of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Aviator Caps are a rare hat with superior stats to the crafted [Rabbitskin Hat](./Rabbitskin%20Hat.md) (0.05kg lighter, and 0.5*C more windproof), making it the third best outer-layer hat after the [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) and the [Wolfskin Hat](./Wolfskin%20Hat.md). Like other clothing made of [Cured Leather](./Cured%20Leather.md), Aviator Caps are considerably more durable than cloth or animal hide clothing (losing less condition over time, from blizzards, or animals struggles) but requires Cured Leather for repair.
 
 Aviator Caps spawn rarely on all game modes.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 - Inside [Main Hangar](./Main%20Hangar.md) in [Forsaken Airfield](./Forsaken%20Airfield.md), on the bed in the basement.
@@ -73,16 +65,6 @@ Aviator Caps spawn rarely on all game modes.
 
 ![Model icon damaged](../assets/Aviator_Cap_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

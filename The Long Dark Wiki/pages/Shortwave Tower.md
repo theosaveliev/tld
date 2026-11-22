@@ -14,26 +14,14 @@
 
 **Type:** OutdoorsMilitary/Sporting
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The tower is easily visible in clear weather. Looking from the entrance of Forlorn Muskeg, it is located on top of a mountain to the east. Its appearance is similar to the tower from [Signal Hill](./Signal%20Hill.md). Climbing to the top of the tower offers an expansive view of the muskeg, weather permitting. Several wolves can patrol the area, however, so take caution.
 
-<!-- #Supplies -->
-​
-
-<!-- #supplies -->
 ## Supplies
 
 There are three crates which can be broken down for [reclaimed wood](./Reclaimed%20Wood.md). There is also a corpse and a backpack with food and sometimes matches or a [magnifying lens](./Magnifying%20Lens.md). There can also spawn up to three metal containers that often contain decent loot, such as high-level [clothing](./Clothing.md). In the area there are also [Green Birch Saplings](./Green%20Birch%20Sapling.md) to craft arrows. Strangely enough, there is a laptop sitting at the foot of the structure, which activates one of the buffer memories for the [Archivist](./Archivist.md) challenge.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![20170304170301 1](../assets/20170304170301_1.jpg)
@@ -41,5 +29,3 @@ There are three crates which can be broken down for [reclaimed wood](./Reclaimed
 ![20170304170439 1](../assets/20170304170439_1.jpg)
 
 ![Laptop and Aurora in the Archivist Challenge](../assets/20190113203759_1.jpg)
-
-[ru:Радиовышка](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%D0%B2%D1%8B%D1%88%D0%BA%D0%B0)

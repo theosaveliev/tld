@@ -8,10 +8,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | A **Transmitter** is a radio tower that is used in conjunction with the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) to find items in the [Tale](./Tales.md) [Signal Void](./Signal%20Void.md) in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC. They are added to the [Collectibles](./Collectibles.md) menu in the [Journal](./Journal.md) once the door is opened, and the Journal can be used to keep track of inactive or active Transmitters, as well as their broadcast range.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 As detailed in the [Field 31 Operation Memo](./Field%2031%20Operation%20Memo.md), the Search And Rescue (SAR) **Transmitter Towers** need to be repaired to find Transponder Caches and Tale Bunkers using the Handheld Shortwave Radio.
@@ -53,10 +49,6 @@ Transmitter Towers CAN be repaired before starting the Tale Signal Void by picki
 
 **Note:** the transmitters in [Desolation Point](./Desolation%20Point.md) and [Blackrock](./Blackrock.md) are not required for the [Tale](./Tales.md) [Signal Void](./Signal%20Void.md), although they do enable hidden [Supply Caches](./Supply%20Cache.md).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The icon displayed when a Transmitter is repaired in the Collections menu](../assets/Transmitters_icon.png)

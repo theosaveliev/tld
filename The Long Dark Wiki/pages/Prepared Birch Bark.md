@@ -39,10 +39,6 @@
 
 **Prepared Birch Bark** is a natural medical and food item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Prepared Birch Bark is an ingredient for cooking [Birch Bark Tea](./Birch%20Bark%20Tea.md), a food and medical item and is crafted from 2 [Birch Bark](./Birch%20Bark.md). Crafting takes 5 minutes and doesn't require a tool or light.
@@ -55,10 +51,6 @@ The Benefit "Restore Condition" heals 5% Condition (2.5% per hour, for 2 hours),
 
 Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark, 0.10kg), Neither Birch Bark or Birch Bark Tea [decays](./Decay.md).
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Prepared Birch Bark**
@@ -73,20 +65,12 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 
 **Quantity:** 2
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Birch Bark Tea](./Birch%20Bark%20Tea.md) | None | - 1 × [Prepared Birch Bark](./Prepared%20Birch%20Bark.md)<br>- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Birch Bark Tea](./Birch%20Bark%20Tea.md) | None | - 1 × [Prepared Birch Bark](./Prepared%20Birch%20Bark.md) - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - Birch Forests are present near the [Lonely Homestead](./Lonely%20Homestead.md) ([Pleasant Valley](./Pleasant%20Valley.md)), western [The Ravine](./The%20Ravine.md), and north-western [Bleak Inlet](./Bleak%20Inlet.md). Lone birch trees can be found sporadically in all regions.
@@ -94,26 +78,12 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 - Birch Bark may be found via [Beachcombing](./Beachcombing.md).
 - Birch Bark, Prepared Birch Bark and Birch Bark Tea never [decay](./Decay.md).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - It is possible to survive exclusively on Birch Bark Tea, especially on easier difficulties or by using the starvation strategy (only eating just before sleep).
 - Birch Bark Tea is disabled during the [Challenge](./Challenge.md): [As the Dead Sleep](./As%20the%20Dead%20Sleep.md), but Birch Bark may still be collected and used as Tinder.
 - [Cup of Coffee](./Cup%20of%20Coffee.md) is the only item which can restore all 4 [Needs](./Needs.md) (if consumed while hot), but Birch Bark Tea functions similarly with its Benefit "Restore Condition", since this heals Condition (2.5% hourly) faster than Fatigue damages it (1% hourly), so it is possible to survive indefinitely without Sleep by drinking 1 cup of Birch Bark Tea every 5 hours (albeit at 0% Fatigue, moving slowly and unable to climb/sprint).
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)):**

@@ -31,10 +31,6 @@
 
 This is the mission transcript for mission 2 [The Crash](./The%20Crash.md) of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The mission begins right where it did in [Memories](./Memories.md), with Mackenzie grunting in pain and gasping for air as he slowly blinks back into consciousness at the crash site. The ambient electrical wail of an [Aurora](./Aurora.md) plays overhead as the camera shifts to reveal trees, fire, smoke, and wreckage of a crashed plane. Mackenzie gets up and cries out:_
@@ -57,16 +53,6 @@ THE CRASH
 
 _Mackenzie uses a [Bandage](./Bandage.md) to stop the bleeding from his hand, then begins to hobble with a [Sprained Ankle](./Sprained%20Ankle.md). Fire and debris scour a ravine that the pilot finds himself in, with various crates from the plane able to be broken down for supplies._
 
-<!-- #try_to_climb_out_of_the_ravine -->
-​
-
-<!-- #Try_to_climb_out_of_the_ravine -->
-​
-
-<!-- #Try_To_Climb_Out_Of_The_Ravine -->
-​
-
-<!-- #try-to-climb-out-of-the-ravine -->
 ## Try to climb out of the ravine
 
 _If the player attempts to walk up the fallen tree bridge to use the [Rock Climb](./Rock%20Climb.md) out of the gorge, the camera will stop to show the climb and Mackenzie will say:_
@@ -77,16 +63,6 @@ _A special cutscene plays of Mackenzie failing to climb out and falling down._
 
 Mackenzie: "Damn... arm's too weak. I need to find some shelter from this wind."
 
-<!-- #find_shelter_from_the_cold -->
-​
-
-<!-- #Find_shelter_from_the_cold -->
-​
-
-<!-- #Find_Shelter_From_The_Cold -->
-​
-
-<!-- #find-shelter-from-the-cold -->
 ## Find shelter from the cold
 
 _Mackenzie makes his way back down the tree bridge and into a nearby cave. A bed is inside, but attempting to sleep gives the message BANDAGE WOUND AND WARM THE CAVE UP FIRST. It is too cold to rest up so he makes a fire._
@@ -109,19 +85,6 @@ _Mackenzie then walks around a bend and up to the wreckage of his floatplane._
 
 Mackenzie: "My plane...not sure which of us looks worse. Poor girl, this isn't how things were supposed to end."
 
-<!-- #search_for_astrid -->
-​
-
-<!-- #Search_for_Astrid -->
-​
-
-<!-- #Search_for_astrid -->
-​
-
-<!-- #Search_For_Astrid -->
-​
-
-<!-- #search-for-astrid -->
 ## Search for Astrid
 
 _If the player tries to leave the crash site via the wing serving as a ramp, Mackenzie will hit an invisible wall and say:_
@@ -140,16 +103,6 @@ _The man then picks up the hardcase, eyeing the lock before taking it._
 
 Mackenzie: "Hmm...locked. Whatever's in this case, Astrid was willing to die for it. I hope she hasn't already died for it."
 
-<!-- #look_for_clues -->
-​
-
-<!-- #Look_for_clues -->
-​
-
-<!-- #Look_For_Clues -->
-​
-
-<!-- #look-for-clues -->
 ## Look for clues
 
 _Mackenzie then pilfers whatever is left of the crash site before using a piece of his plane's wing as a ramp to leave the area, before noticing something caught on a tree branch fluttering in the wind. A piece of Astrid's scarf._
@@ -184,16 +137,6 @@ _Mackenzie makes his way down a path leading to the town before spotting a house
 
 Mackenzie: "Look. Smoke from that chimney. That means someone's home."
 
-<!-- #investigate_the_house -->
-​
-
-<!-- #Investigate_the_house -->
-​
-
-<!-- #Investigate_The_House -->
-​
-
-<!-- #investigate-the-house -->
 ## Investigate the house
 
 _Mackenzie walks into the town, looking for other signs of life and begins shouting:_

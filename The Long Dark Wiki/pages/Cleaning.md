@@ -15,26 +15,12 @@
 
 **Cleaning** or **Firearm Cleaning** is a secondary Survival [Skill](./Skills.md) that is used to repair [Hunting Rifles](./Hunting%20Rifle.md) and [Revolvers](./Revolver.md). Higher levels in the cleaning skill reduce the amount of time required to clean and increase the amount of condition restored to a firearm by cleaning.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Cleaning involves using the [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) to keep a firearm in optimal condition.
 
 The Cleaning skill is only visible when maintaining a hunting rifle or revolver and is not an official survival skill in the player's journal. Players start with 30 skill points, and gain 1 additional skill point each time a gun is cleaned.
 
-<!-- #how_to_clean_firearms -->
-​
-
-<!-- #How_to_clean_firearms -->
-​
-
-<!-- #How_To_Clean_Firearms -->
-​
-
-<!-- #how-to-clean-firearms -->
 ## How to clean firearms
 
 Players can clean their firearms with an aptly named firearm cleaning kit any time of day; light is not required.
@@ -43,26 +29,12 @@ To clean a weapon, players have to select the "Clean" menu option while viewing 
 
 Currently, players will always have a 100% chance of success while cleaning and cannot fail. Activating the start button on the bottom right will launch an attempt.
 
-Cleaning a firearm consumes 5% condition from the firearm cleaning kit and restores some condition to the weapon based on the player's [skill level](#Skill_levels). Each rifle cleaning kit can be used up to 20 times for repairing a firearm.
+Cleaning a firearm consumes 5% condition from the firearm cleaning kit and restores some condition to the weapon based on the player's [skill level](#skill-levels). Each rifle cleaning kit can be used up to 20 times for repairing a firearm.
 
-<!-- #Equipment -->
-​
-
-<!-- #equipment -->
 ## Equipment
 
 Players need a Firearm Cleaning Kit before they can start cleaning rifles and revolvers. Cleaning kits can be found while scavenging in containers and buildings that are likely to contain tools or guns (e.g., [Signal Hill](./Signal%20Hill.md)). Cleaning Kits are always found in 100% condition.
 
-<!-- #available_firearms -->
-​
-
-<!-- #Available_firearms -->
-​
-
-<!-- #Available_Firearms -->
-​
-
-<!-- #available-firearms -->
 ## Available firearms
 
 The player is able to clean the following firearms to improve their condition:
@@ -82,16 +54,6 @@ The player is able to clean the following firearms to improve their condition:
 
 The player is not currently able to clean the [Distress Pistol](./Distress%20Pistol.md) to improve its condition.
 
-<!-- #skill_levels -->
-​
-
-<!-- #Skill_levels -->
-​
-
-<!-- #Skill_Levels -->
-​
-
-<!-- #skill-levels -->
 ## Skill levels
 
 Players can increase their cleaning skill by cleaning a hunting rifle or revolver.
@@ -113,16 +75,6 @@ The cleaning skill does not unlock any perks, but gives a gradual reduction to t
 | 90 | 5% | 6 minutes | 100% |
 | 100 | 5% | 5 minutes | 100% |
 
-<!-- #rifle_firearms -->
-​
-
-<!-- #Rifle_Firearms -->
-​
-
-<!-- #Rifle_firearms -->
-​
-
-<!-- #rifle-firearms -->
 ### Rifle Firearms
 
 _Main article: [Rifle Firearm](./Rifle%20Firearm.md)_
@@ -136,16 +88,6 @@ Proficiency in the primary survival skill Rifle Firearm can affect the amount of
 | 4 | 50 | - An additional 4 condition per repair action |
 | 5 | 100 | - An additional 5 condition per repair action |
 
-<!-- #revolver_firearms -->
-​
-
-<!-- #Revolver_Firearms -->
-​
-
-<!-- #Revolver_firearms -->
-​
-
-<!-- #revolver-firearms -->
 ### Revolver Firearms
 
 _Main article: [Revolver Firearm](./Revolver%20Firearm.md)_
@@ -159,10 +101,6 @@ Proficiency in the primary survival skill Revolver Firearm can affect the amount
 | 4 | 50 | - An additional 4 condition per repair action |
 | 5 | 100 | - An additional 5 condition per repair action |
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - The rifle cleaning mechanic was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298), also known as the Timberwolf Mountain update.

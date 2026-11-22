@@ -32,26 +32,12 @@
 
 During the course of the mission, Astrid finds the ID on a corpse at the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md).
 
-<!-- #Location -->
-​
-
-<!-- #location -->
 ## Location
 
 The ID is located on a [Frozen Corpse](./Frozen%20Corpse.md) found past the middle plane section and slightly up the middle of the hill. The ID is later returned to Franklin at the [Community Hall](./Community%20Hall.md), with Astrid giving her sympathies.
 
 ![R. Tan location](../assets/R._Tan_location.jpg)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 \* UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

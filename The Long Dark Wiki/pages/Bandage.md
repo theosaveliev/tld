@@ -44,10 +44,6 @@
 
 A **Bandage** is a [First Aid](./First%20Aid.md) cloth used for stopping bleeding or limb immobilization in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Bandages are used to stop [Blood Loss](./Blood%20Loss.md), preventing the player from rapidly losing [Condition](./Condition.md) from bleeding out. They are often found in [First Aid Kits](./First%20Aid%20Kit.md) and [Medicine Shelves](./Medicine%20Shelf.md). They can also easily be created by harvesting a single [Cloth](./Cloth.md) and [Crafting](./Crafting.md) 2 of them anywhere in 15 minutes.
@@ -57,10 +53,6 @@ Crafting Bandages while afflicted Blood Loss can be a relatively dangerous proce
 - Caution is required to prevent bleeding out while crafting them while at already low Condition. As such, it is advisable to keep a few bandages in one's inventory in case of emergency.
 - Blood Loss also attracts predators by giving the player maximum [Scent](./Scent.md), and can quickly lead to death if the player is attacked while crafting Bandages.
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Bandage**
@@ -75,10 +67,6 @@ Crafting Bandages while afflicted Blood Loss can be a relatively dangerous proce
 
 **Quantity:** 1
 
-<!-- #Treatment -->
-​
-
-<!-- #treatment -->
 ## Treatment
 
 Bandages can be used to treat the following afflictions:
@@ -86,29 +74,15 @@ Bandages can be used to treat the following afflictions:
 |  | Affliction | Treatments required |
 | --- | --- | --- |
 |  | [Blood Loss](./Blood%20Loss.md) | - 1 [Bandage](./Bandage.md) |
-|  | [Broken Ribs](./Broken%20Ribs.md) | - 2 [Bandage](./Bandage.md)<br>- 4 [Painkillers](./Painkillers.md) |
-|  | [Burns](./Burns.md) | - 1 [Bandage](./Bandage.md)<br>- 2 [Painkillers](./Painkillers.md) |
+|  | [Broken Ribs](./Broken%20Ribs.md) | - 2 [Bandage](./Bandage.md) - 4 [Painkillers](./Painkillers.md) |
+|  | [Burns](./Burns.md) | - 1 [Bandage](./Bandage.md) - 2 [Painkillers](./Painkillers.md) |
 |  | [Sprained Ankle](./Sprained%20Ankle.md) | - 1 [Bandage](./Bandage.md) |
 |  | [Sprained Wrist](./Sprained%20Wrist.md) | - 1 [Bandage](./Bandage.md) |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![old model](../assets/Bandage.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **15 June 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.426)):**

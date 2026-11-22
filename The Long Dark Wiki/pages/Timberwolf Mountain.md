@@ -46,10 +46,6 @@
 
 **Timberwolf Mountain** is the 5th [Region](./Region.md) to be introduced in _[The Long Dark](./The%20Long%20Dark.md)_. It's commonly considered one of the most difficult regions to survive in due to frigid temperatures (sub -20C / -4F almost every day) and frequent blizzards (usually at least three per week). These conditions limit the time a player can safely travel outside with anything less than top-quality clothing, and the lack of warm indoor shelters means maintaining [campfires](./Campfire.md) is critical.
 
-<!-- #Entrances -->
-​
-
-<!-- #entrances -->
 ## Entrances
 
 Timberwolf Mountain connects to three other regions, via four distinct entrances:
@@ -59,13 +55,9 @@ Timberwolf Mountain connects to three other regions, via four distinct entrances
 - A cave near [Deer Clearing](./Deer%20Clearing.md) leads to [Pillar's Footrest](./Pillar%27s%20Footrest.md) in [Ash Canyon](./Ash%20Canyon.md).
 - A cave at the end of [Echo Ravine](./Echo%20Ravine.md) also leads to [Ash Canyon](./Ash%20Canyon.md), at a ledge overlooking [Bitter Marsh](./Bitter%20Marsh.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
-Timberwolf Mountain is described as pure wilderness with a mountainous expanse almost entirely lacking in man-made shelters. It has steep cliffs and ravines that require [Rope Climbing](./Rope%20Climbing.md) to navigate to several locations.<span id="fnref1"></span>[¹](#fn1)
+Timberwolf Mountain is described as pure wilderness with a mountainous expanse almost entirely lacking in man-made shelters. It has steep cliffs and ravines that require [Rope Climbing](./Rope%20Climbing.md) to navigate to several locations.[^1]
 
 Timberwolf Mountain connects to [Pleasant Valley](./Pleasant%20Valley.md) via a [rope climb](./Rope%20Climbing.md) and treacherously cold mountain pass in the southwest corner of the region, [Ash Canyon](./Ash%20Canyon.md) via the eastern end of [Echo Ravine](./Echo%20Ravine.md) or via a cave in [Deer Clearing](./Deer%20Clearing.md), and [Blackrock](./Blackrock.md) via a cave system to the northwest of [Andre's Peak](./Andre%27s%20Peak.md).
 
@@ -73,10 +65,6 @@ Another defining feature is the large jet that crashed on the summit of the moun
 
 Additionally, there are [Cargo Containers](./Cargo%20Container.md) from the plane scattered across the region, mostly near pieces of the wreckage, and with a huge cache in the tail end at the summit. When opened with a [Hacksaw](./Hacksaw.md), these containers can be looted for large amounts of items in a specific category (e.g., canned foods, medicines, or a class of clothing).
 
-<!-- #Strategy -->
-​
-
-<!-- #strategy -->
 ### Strategy
 
 Timberwolf Mountain hosts extreme environmental conditions, requiring careful preparation to ensure survival during any expedition. Wolves and bears constantly patrol the main areas of the map and there are few safe shelters, with little loot inside of those that exist. Due to the limited resources and abundant wildlife, hunting and defending yourself are necessary to survive for an extended period of time.
@@ -85,26 +73,18 @@ A few hundred meters from the end of the pathway to Pleasant Valley is [Crystal 
 
 The path to the [Summit](./Summit.md) is fairly linear, and the tail end of the plane on the summit contains a huge cache of high-tier supplies. End-game manufactured clothing, multiple MRE's, either a [Distress Pistol](./Distress%20Pistol.md) or a corpse with a bag next to it likely to contain [Crampons](./Crampons.md), multiple cured pelts, and multiple tools/weapons can be found in the tail section.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 There are many accessible locations within the Timberwolf Mountain region, including:
 
 | Column 1 | Column 2 |
 | --- | --- |
-| - [Andre's Peak](./Andre%27s%20Peak.md)<br>- [Cave 2](./Cave%20%28Timberwolf%20Mountain%20location%202%29.md) (2 entrances)<br>- [Cave 1](./Cave%20%28Timberwolf%20Mountain%20location%201%29.md) (2 entrances)<br>- [Chasm Cave](./Chasm%20Cave.md)<br>- [Crystal Lake](./Crystal%20Lake.md)<br>- [Deer Clearing](./Deer%20Clearing.md)<br>- [Echo Peak East](./Echo%20Peak%20East.md)<br>- [Echo Peak West](./Echo%20Peak%20West.md)<br>- [Echo Ravine](./Echo%20Ravine.md)<br>- [Engine (East)](./Engine%20%28East%29.md) (East of mountain)<br>- [Engine (West)](./Engine%20%28West%29.md) (West of mountain)<br>- [Eric's Falls](./Eric%27s%20Falls.md)<br>- [Forest Cave (Timberwolf Mountain location)](./Forest%20Cave%20%28Timberwolf%20Mountain%20location%29.md) | - [Landing Gear](./Landing%20Gear.md) (Near entrance to Pleasant Valley)<br>- [Mountaineer's Hut](./Mountaineer%27s%20Hut.md)<br>- [Secluded Shelf](./Secluded%20Shelf.md)<br>- [Summit](./Summit.md)<br>- [Tail Section](./Tail%20Section.md)<br>- To Ash Canyon (Transition to [Ash Canyon](./Ash%20Canyon.md))<br>- To Cave System (Transition Cave to [Ash Canyon](./Ash%20Canyon.md))<br>- To Cave System (Transition Cave to [Blackrock](./Blackrock.md))<br>- To Pleasant Valley (Transition to [Pleasant Valley](./Pleasant%20Valley.md))<br>- [Waterfall Cave](./Waterfall%20Cave.md)<br>- [Wing](./Wing.md) (Plane wing near Forest Cave)<br>- [Wing (Summit)](./Wing%20%28Summit%29.md) (Plane wing at [Summit](./Summit.md)) |
+| - [Andre's Peak](./Andre%27s%20Peak.md) - [Cave 2](./Cave%20%28Timberwolf%20Mountain%20location%202%29.md) (2 entrances) - [Cave 1](./Cave%20%28Timberwolf%20Mountain%20location%201%29.md) (2 entrances) - [Chasm Cave](./Chasm%20Cave.md) - [Crystal Lake](./Crystal%20Lake.md) - [Deer Clearing](./Deer%20Clearing.md) - [Echo Peak East](./Echo%20Peak%20East.md) - [Echo Peak West](./Echo%20Peak%20West.md) - [Echo Ravine](./Echo%20Ravine.md) - [Engine (East)](./Engine%20%28East%29.md) (East of mountain) - [Engine (West)](./Engine%20%28West%29.md) (West of mountain) - [Eric's Falls](./Eric%27s%20Falls.md) - [Forest Cave (Timberwolf Mountain location)](./Forest%20Cave%20%28Timberwolf%20Mountain%20location%29.md) | - [Landing Gear](./Landing%20Gear.md) (Near entrance to Pleasant Valley) - [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) - [Secluded Shelf](./Secluded%20Shelf.md) - [Summit](./Summit.md) - [Tail Section](./Tail%20Section.md) - To Ash Canyon (Transition to [Ash Canyon](./Ash%20Canyon.md)) - To Cave System (Transition Cave to [Ash Canyon](./Ash%20Canyon.md)) - To Cave System (Transition Cave to [Blackrock](./Blackrock.md)) - To Pleasant Valley (Transition to [Pleasant Valley](./Pleasant%20Valley.md)) - [Waterfall Cave](./Waterfall%20Cave.md) - [Wing](./Wing.md) (Plane wing near Forest Cave) - [Wing (Summit)](./Wing%20%28Summit%29.md) (Plane wing at [Summit](./Summit.md)) |
 
 1 [Prepper Cache](./Prepper%20Cache.md) can be found north of the [Echo Ravine](./Echo%20Ravine.md).
 
 Additionally, a second Landing Gear can be found at the Summit, but this is not considered a location. The cockpit of the crashed plane and the third Landing Gear are also nowhere to be found on or around the mountain.
 
-<!-- #Maps -->
-​
-
-<!-- #maps -->
 ## Maps
 
 ![Timberwolf Mountain map v2.35](../assets/3255435617_preview_TWM_default.jpg)
@@ -115,10 +95,6 @@ Additionally, a second Landing Gear can be found at the Summit, but this is not 
 
 ![Timberwolf mountain titlecard new](../assets/Timberwolf_mountain_titlecard_new.png)
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![A landscape view of the region.](../assets/Timberwolf_Mountain_landscape_01.jpg)
@@ -151,45 +127,21 @@ _Mountaineer's Hut_
 
 ![Forest Cave on Timberwolf Mountain](../assets/TLD66.png)
 
-<!-- #game_history -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #game-history -->
 ## Game history
 
 Timberwolf Mountain was introduced on 16 December 2015 in [version 0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Despite the name, [Timberwolves](./Timberwolf.md) were ironically absent from Timberwolf Mountain until December 2024.
   - Now, a pack may spawn near the [Wing](./Wing.md) and [Crystal Lake](./Crystal%20Lake.md).
 
-<!-- #References -->
-​
-
-<!-- #references -->
 ## References
-
-&lt;div class="references-small" ;"&gt;
 
 [es:Montaña de lobos](https://es.wikipedia.org/wiki/Monta%C3%B1a_de_lobos) [ru:Волчья гора](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%87%D1%8C%D1%8F_%D0%B3%D0%BE%D1%80%D0%B0) [fr:Mont Timberwolf](https://fr.wikipedia.org/wiki/Mont_Timberwolf) [de:Wolfsberg](https://de.wikipedia.org/wiki/Wolfsberg)
 
-<!-- #footnotes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 ---
 
-1. <span id="fn1"></span>Hinterland Games, 2015, _The Long Dark — December Update (v.298), “Timberwolf Mountain”_, viewed 16 December 2015 &lt;[http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/](http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/)&gt;[↩︎](#fnref1)
+[^1]: Hinterland Games, 2015, _The Long Dark — December Update (v.298), “Timberwolf Mountain”_, viewed 16 December 2015 &lt;[http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/](http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/)&gt;

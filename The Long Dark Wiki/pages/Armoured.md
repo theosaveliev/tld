@@ -26,10 +26,6 @@
 
 **Armoured** is a positive [Affliction](./Afflictions.md) obtained when wearing a [Ballistic Vest](./Ballistic%20Vest.md) in the [Accessories](./Clothing.md#Accessories) slot. The Affliction remains in effect as long as the Ballistic Vest remains equipped.
 
-<!-- #Causes -->
-​
-
-<!-- #causes -->
 ## Causes
 
 Armoured is received when wearing the following item:
@@ -38,10 +34,6 @@ Armoured is received when wearing the following item:
 | --- | --- |
 |  | [Ballistic Vest](./Ballistic%20Vest.md) |
 
-<!-- #Effects -->
-​
-
-<!-- #effects -->
 ## Effects
 
 |  | Effect | Magnitude |
@@ -49,18 +41,8 @@ Armoured is received when wearing the following item:
 |  | Reduces [Condition](./Condition.md) lost from [Wildlife](./Wildlife.md) | 50% |
 |  | Reduces [damage caused to clothing](./Torn%20Clothing.md) during a [Struggle](./Struggle.md) | 85% |
 |  | Reduces recovery time from [Broken Ribs](./Broken%20Ribs.md) | 30% |
-|  | Prevents [Blood Loss](./Blood%20Loss.md) to certain body areas | - Chest<br>- Stomach<br>- Neck |
+|  | Prevents [Blood Loss](./Blood%20Loss.md) to certain body areas | - Chest - Stomach - Neck |
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - HOTFIX **6 April 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.00)):**

@@ -26,7 +26,7 @@
 
 **Harvest:** 1 × [Cured leather](./Cured%20Leather.md) 10 minutes
 
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md) 30 minutes<br>65% condition
+**Repair:** 1 × [Cured leather](./Cured%20Leather.md) 30 minutes 65% condition
 
 > “**Heavy duty hand coverings that extend part way up the arm. Leather outers and wool liners. Warm and tough, just like you want to be.**”
 >
@@ -43,26 +43,12 @@
 
 Not available in Interloper mode.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Clothing model](../assets/Gauntlets_Model_icon.png)
 
 ![Clothing model damaged](../assets/Gauntlets_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

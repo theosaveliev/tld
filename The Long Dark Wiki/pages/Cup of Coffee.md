@@ -55,10 +55,6 @@ A **Cup of Coffee** is a [Drink](./Food%20And%20Drink.md) which recovers 30% [Hy
 
 Survivors can brew a Cup of Coffee at a [fire](./Fire.md) with a [Tin of Coffee](./Tin%20of%20Coffee.md) and [Water (Potable)](./Water%20%28Potable%29.md).
 
-<!-- #Creation -->
-​
-
-<!-- #creation -->
 ## Creation
 
 **Cup of Coffee**
@@ -75,10 +71,6 @@ Survivors can brew a Cup of Coffee at a [fire](./Fire.md) with a [Tin of Coffee]
 
 **Quantity:** 1
 
-<!-- #Effects -->
-​
-
-<!-- #effects -->
 ## Effects
 
 A Cup of Coffee can be consumed while either cold or hot. The following effects are applied to the survivor on consumption:
@@ -87,10 +79,6 @@ A Cup of Coffee can be consumed while either cold or hot. The following effects 
 
 **Hot**
 
-<!-- #Uses -->
-​
-
-<!-- #uses -->
 ## Uses
 
 Coffee is useful for [Rope Climbing](./Rope%20Climbing.md) by restoring fatigue, since fatigue affects climbing speed and climbing at low fatigue is dangerous. However, climbing is the only action which coffee does not reduce the rate of fatigue drain through Fatigue Reduced.
@@ -99,20 +87,12 @@ Another application of coffee is to restore [carry capacity](./Encumbrance.md), 
 
 Other items which restore fatigue, such as the [Emergency Stim](./Emergency%20Stim.md) and [Go! Energy Drink](./Go!%20Energy%20Drink.md), are rare. Additionally, these items have other uses, side effects, or may not be obtainable on all difficulty settings. It is advisable to save coffee for more specialized uses and use other hot beverages, such as [Birch Bark Tea](./Birch%20Bark%20Tea.md) or canned food, to obtain [Warming Up](./Warming%20Up.md).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Cup of Coffee features the logo of Hinterland Games, the developers of _The Long Dark._ The base of the cup bears a copyright mark for Hinterland Studios Inc.
 - Hinterland has released a real life Coffee Cup for sale.
 - Similar to other teas Cups of Coffee don't degrade.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Cup of coffee with copyright mark on the base.](../assets/Cup_of_coffee_bottom.jpg)
@@ -121,16 +101,6 @@ Other items which restore fatigue, such as the [Emergency Stim](./Emergency%20St
 
 ![The real world Coffee Cup released by Hinterland](../assets/Cup_of_Coffee_Mug_Real.webp)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 May 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.76)):**

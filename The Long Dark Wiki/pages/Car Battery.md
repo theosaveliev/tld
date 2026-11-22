@@ -31,26 +31,14 @@
 
 **Car Batteries** are a crafting item in **_The Long Dark_**.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Car Batteries are the heaviest object in the game, weighing 15kg (33lbs), found under the hoods of a [Car](./Car.md) or [Truck](./Truck.md) in any region that has them. Regions such as [Mountain Town](./Mountain%20Town.md), [Bleak Inlet](./Bleak%20Inlet.md), and [Coastal Highway](./Coastal%20Highway.md) have the most cars, thus have the most Car Batteries to loot.
 
-<!-- #Harvesting -->
-​
-
-<!-- #harvesting -->
 ### Harvesting
 
 They can be harvested with a [Hacksaw](./Hacksaw.md) for [Scrap Lead](./Scrap%20Lead.md), required for crafting ammunition with the [Gunsmithing](./Gunsmithing.md) skill at the [Ammunition Workbench](./Ammunition%20Work%20Bench.md). It takes 30 minutes to harvest a Car Battery. One Car Battery will always yield six Scrap Lead; each piece of Scrap Lead may be crafted into six [Bullets](./Bullet.md) at an [Ammunition Forge](./Ammunition%20Forge.md), so one Car Battery always allows the crafting of 36 Bullets.
 
-<!-- #Transmitters -->
-​
-
-<!-- #transmitters -->
 ### Transmitters
 
 For players that have the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC installed, one car battery will be needed to fix each [Transmitter](./Transmitters.md). These batteries usually spawn near the transmitting stations, but may have to be looted from nearby vehicles:
@@ -62,24 +50,10 @@ For players that have the [Tales from the Far Territory](./Tales%20from%20the%20
 - [Old Substation](./Old%20Substation.md) has a battery inside the substation for the Transmitter in [Blackrock](./Blackrock.md).
 - [Hibernia Processing](./Hibernia%20Processing.md) has multiple inside for the Transmitter in [Desolation Point](./Desolation%20Point.md).
 
-<!-- #Trading -->
-​
-
-<!-- #trading -->
 ### Trading
 
 The [Trader](./Trader.md) also requests 1 battery in his trades for [Recipe Cards](./Recipe%20Cards.md) or Blueprints.
 
-<!-- #special_locations -->
-​
-
-<!-- #Special_Locations -->
-​
-
-<!-- #Special_locations -->
-​
-
-<!-- #special-locations -->
 ### Special Locations
 
 A select number of special areas contains around 5 Batteries in an indoor space. These batteries are typically not located near a Transmitter, and are useful if the player has run out of Car Batteries to use for trading or Gunsmithing.
@@ -88,20 +62,12 @@ A select number of special areas contains around 5 Batteries in an indoor space.
 - [Hibernia Processing](./Hibernia%20Processing.md) in [Desolation Point](./Desolation%20Point.md)
 - [Blackrock Prison](./Blackrock%20Prison.md) (inside the prison) in [Blackrock](./Blackrock.md)
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Scrap Lead](./Scrap%20Lead.md) | None | - 1 × [Car Battery](./Car%20Battery.md) |
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 Eventually all [Hunting Rifle](./Hunting%20Rifle.md) and [Revolver](./Revolver.md) ammunition will become depleted; crafting is the only way to obtain more ammunition outside of trading with the Trader.
@@ -113,10 +79,6 @@ Eventually all [Hunting Rifle](./Hunting%20Rifle.md) and [Revolver](./Revolver.m
 - Car Batteries and Scrap Lead are finite and non-renewable.
 - A [Travois](./Travois.md) is extremely useful for hauling car batteries over longer distances.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - The Errant Pilgrim update introduced [Gunsmithing](./Gunsmithing.md).

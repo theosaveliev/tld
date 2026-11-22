@@ -24,16 +24,8 @@
 
 This note is separate from the 10 notes, [Diary Page (Darkwalker)](./Diary%20Page%20%28Darkwalker%29.md), found across the Challenge in different locations, and does not need to be collected to complete the Challenge.
 
-<!-- #starting_location -->
-​
+## Transcript
 
-<!-- #Starting_Location -->
-​
-
-<!-- #Starting_location -->
-​
-
-<!-- #starting-location -->
 ### Starting Location
 
 This note always appears beside the player in the region they first spawn in, next to the burned out Campfire.
@@ -48,20 +40,8 @@ Lure -- Attract the Darkwalker
 
 Darkwalkers spread fear and feed on oblivion - knowledge will help you defeat the entity for good.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 \* UPDATE **29 Oct 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86)):**
 
   - Added to game.
-
-[ru:Происхождение Darkwalker](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_Darkwalker)

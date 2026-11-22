@@ -38,10 +38,6 @@ A church ruined by strange whale based graffiti.
 
 Has an interior **Desecrated Church** is a location in [Port Remnant](./Port%20Remnant.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Located on the cliff to the southwest of the map. It can be seen from the field below it, but the road leading to the church is blocked via a landslide. The only path up to the church is revealed by the [Map (Church)](./Map%20%28Church%29.md); a small cave system located to the eastern section of the map leading up to the cliffside.

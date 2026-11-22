@@ -8,7 +8,6 @@
 - [Location](#location)
 - [Far Range Branch Line](#far-range-branch-line)
 - [Zone of Contamination](#zone-of-contamination)
-- [Gallery](#gallery)
 - [Update history](#update-history)
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
@@ -39,10 +38,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Miner's Flashlight** is a variant of the [Flashlight](./Flashlight.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Miner's Flashlight is a yellow, heavy duty electrical torch that has a larger, longer lasting battery than the regular Flashlight, but at the expense of being 0.25 kg heavier. While a 100% charged Miner's Flashlight lasts for up to 1,5 hours of continuous use (50% more than the regular Flashlight), the high beam mode lasts the same 25 seconds.
@@ -51,24 +46,10 @@ Unlike other item variants, multiple Miner's Flashlights may spawn (on Pilgrim, 
 
 Miner's Flashlight was added in [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) update Part 3: "Frontier Comforts".
 
-<!-- #Location -->
-​
-
-<!-- #location -->
 ## Location
 
 The Miner's Flashlight spawns a single time per world in various states of repair. The flashlight's location may differ between saves, but it is found within:
 
-<!-- #far_range_branch_line -->
-​
-
-<!-- #Far_Range_Branch_Line -->
-​
-
-<!-- #Far_range_branch_line -->
-​
-
-<!-- #far-range-branch-line -->
 ### Far Range Branch Line
 
 It can be found in 3 locations within the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md):
@@ -77,38 +58,13 @@ It can be found in 3 locations within the [Far Range Branch Line](./Far%20Range%
 - Inside the [Train Shuttle](./Train%20Shuttle.md) on [Surfeit Trestle](./Surfeit%20Trestle.md)
 - On a shelf in the south train tunnel office.
 
-<!-- #zone_of_contamination -->
-​
-
-<!-- #Zone_of_Contamination -->
-​
-
-<!-- #Zone_of_contamination -->
-​
-
-<!-- #Zone_Of_Contamination -->
-​
-
-<!-- #zone-of-contamination -->
 ### Zone of Contamination
 
 It is also located in the [Zone of Contamination](./Zone%20of%20Contamination.md), inside the [Concentrator](./Concentrator.md) in a control room overlooking 2 large vats. It can be reached by walking further up the facility, jumping into a hopper, and then following the pipes to bypass a broken catwalk. This location will always spawn a Miner's Flashlight (except on Interloper).
 
 It is possible to have 2 versions of this item spawn on one playthrough.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-[ru:Шахтерский фонарик](https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%85%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%BE%D0%BD%D0%B0%D1%80%D0%B8%D0%BA)

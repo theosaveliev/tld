@@ -16,10 +16,6 @@
 
 Has no shelter
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 **Freighthopper's Rockfall** is a wooden rockfall shelter that protects a small section of the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md). It is found in the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md) region, and is located between the train tunnel leading to [Transfer Pass](./Transfer%20Pass.md) and [Remnant Cave](./Remnant%20Cave.md). The structure still remains standing despite being abandoned for decades, and a single Coal car has been left on the track under the wooden structure.

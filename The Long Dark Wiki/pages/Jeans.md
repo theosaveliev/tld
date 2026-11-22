@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-1%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 30 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>30% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 30% condition
 
 > “**Basic denim jeans. Better than nothing.**”
 >
@@ -36,10 +36,6 @@
 
 **Jeans** are a type of [Clothing](./Clothing.md) in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Low tier pants and a common outer layer legs starting item. While light and common, they provide minimal protection and warmth, and should be replaced as soon as possible.

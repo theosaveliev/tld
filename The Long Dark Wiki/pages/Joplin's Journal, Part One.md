@@ -36,26 +36,12 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Joplin's Journal, Part One_ from a bunker near [Skeeter's Ridge](./Skeeter%27s%20Ridge.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Joplin's Journal, Part One**_
 
 A storm’s comin. No man knows when, but I can smell it. Can’t stop it. All a man can do is hide out while it blows over.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

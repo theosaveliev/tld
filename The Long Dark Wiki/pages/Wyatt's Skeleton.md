@@ -35,4 +35,3 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 It is found in the [Trade Drop Box](./Trade%20Drop%20Box.md) after starting the 5th Special Request, and must be returned back to the [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) with a [Wire Bundle](./Wires.md), then destroying the cache to advance Sutherland's questline.
 
 It cannot be dropped or placed in a container, so it cannot be lost.
-

@@ -59,10 +59,6 @@ Take It, Leave It
 
 Transition Regions and the Far Territory regions do not have Mementos.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 These notes are commonly found behind the [Visors](./Visor.md) of [Cars](./Car.md) and [Trucks](./Truck.md), or in various other locations, such as above rope climbs or next to doors. There are a total of 44 notes and keys to be found (there are a total of 52 Mementos with [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) installed).
@@ -73,19 +69,6 @@ These notes are commonly found behind the [Visors](./Visor.md) of [Cars](./Car.m
 - Despite serving a different purpose, the [Paradise Meadows Farm Key](./Paradise%20Meadows%20Farm%20Key.md), [Lock Box Key](./Lock%20Box%20Key.md), [Mine Lockbox Key](./Mine%20Lockbox%20Key.md), and [Mine Office Key](./Mine%20Office%20Key.md) are stored as Mementos when picked up.
 - In [Buried Echoes](./Buried%20Echoes.md)/[Last Horizon](./Last%20Horizon.md), the [Foreman's Key](./Foreman%27s%20Key.md), [Mine Gate Key](./Mine%20Gate%20Key.md), [An Old House Key](./An%20Old%20House%20Key.md), and [Bolt Cutters](./Bolt%20Cutters.md) are also stored as Mementos.
 
-<!-- #memento_caches_loot -->
-​
-
-<!-- #Memento_Caches_(loot) -->
-​
-
-<!-- #memento_caches_(loot) -->
-​
-
-<!-- #Memento_caches_(loot) -->
-​
-
-<!-- #memento-caches-loot -->
 ### Memento Caches _(loot)_
 
 Notes with the examine text "**A Memento with a survival hint.**", lead to Memento caches; various containers filled with useful loot. Sometimes a key accompanies the note, and is used to open a locked container. These containers range from:
@@ -99,38 +82,12 @@ Hidden Caches can only be opened if the corresponding note has been found, and w
 
 Caches contain highly specific and useful resources. This might include tools, materials, clothing, food, fuel, animal hides, or weapons. Some caches have only a specific type of resource (e.g. fish) whereas others contain more general loot.
 
-<!-- #memento_hints_no_loot -->
-​
-
-<!-- #Memento_Hints_(no_loot) -->
-​
-
-<!-- #memento_hints_(no_loot) -->
-​
-
-<!-- #Memento_hints_(no_loot) -->
-​
-
-<!-- #Memento_Hints_(no_Loot) -->
-​
-
-<!-- #memento-hints-no-loot -->
 ### Memento Hints _(no loot)_
 
 Notes with the examine text "**A note with a survival hint.**", Memento hints are notes used to guide the survivor towards points of interest. These range from region transitions to areas with unique supplies. When picked up, they reveal a portion of the map and add a Memento Hint to the area.
 
 These notes are typically more useful for new players who don't know the regions very well.
 
-<!-- #ash_canyon -->
-​
-
-<!-- #Ash_Canyon -->
-​
-
-<!-- #Ash_canyon -->
-​
-
-<!-- #ash-canyon -->
 ## [Ash Canyon](./Ash%20Canyon.md)
 
 Memento Caches:
@@ -146,10 +103,6 @@ Memento Hints:
 | [Mementos Note icon](../assets/Mementos_Note_icon.png) | on the wall of the Fishing Hut at [Bitter Marsh](./Bitter%20Marsh.md), below [Homesteader's Respite](./Homesteader%27s%20Respite.md) | The two rope climbs up to the [Gold Mine](./Gold%20Mine.md) | _"If you wanna climb, you gotta start at the bottom. No better place than the road to Wolf's Jaw."_ |
 | [Mementos Note 3 icon](../assets/Mementos_Note_3_icon.png) | On a corpse in [Shattered Cove](./Shattered%20Cove.md) | [Gold Mine](./Gold%20Mine.md) | _"Storm goes on. Was it only ever the mine? [...writing trails off...]"_ |
 
-<!-- #Blackrock -->
-​
-
-<!-- #blackrock -->
 ## [Blackrock](./Blackrock.md)
 
 Memento Caches:
@@ -165,16 +118,6 @@ Memento Hints:
 | --- | --- | --- | --- |
 | [Mementos Note 2 icon](../assets/Mementos_Note_2_icon.png) | Near fireplace inside [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md) cabin | The rope climb at [Fool's Corner](./Fool%27s%20Corner.md) | _"It's the best way down. Which means the best way up, too."_ |
 
-<!-- #bleak_inlet -->
-​
-
-<!-- #Bleak_Inlet -->
-​
-
-<!-- #Bleak_inlet -->
-​
-
-<!-- #bleak-inlet -->
 ## [Bleak Inlet](./Bleak%20Inlet.md)
 
 Memento Caches:
@@ -190,16 +133,6 @@ Memento Hints:
 | --- | --- | --- | --- |
 | [Mementos Note 3 icon](../assets/Mementos_Note_3_icon.png) | [Long Bridge](./Long%20Bridge.md) - In the car, west of the fallen white trailer | [Fallen Lighthouse](./Fallen%20Lighthouse.md) | _"I left it for you at the very top. Shoot it at midnight so I know you're there. -- Robyn"_ |
 
-<!-- #broken_railroad -->
-​
-
-<!-- #Broken_Railroad -->
-​
-
-<!-- #Broken_railroad -->
-​
-
-<!-- #broken-railroad -->
 ## [Broken Railroad](./Broken%20Railroad.md)
 
 Memento Caches:
@@ -215,16 +148,6 @@ Memento Hints:
 | --- | --- | --- | --- |
 | [Mementos Note 2 icon](../assets/Mementos_Note_2_icon.png) | On the wall of the toll gatehouse at the [Maintenance Yard](./Maintenance%20Yard.md) | Leading to the ravine below the [Broken Bridge](./Broken%20Bridge%20%28Broken%20Railroad%20location%29.md) | _"I told him not to head that way, but stubborn and stupid sometimes ride the same wagon."_ |
 
-<!-- #coastal_highway -->
-​
-
-<!-- #Coastal_Highway -->
-​
-
-<!-- #Coastal_highway -->
-​
-
-<!-- #coastal-highway -->
 ## [Coastal Highway](./Coastal%20Highway.md)
 
 Memento Caches:
@@ -234,16 +157,6 @@ Memento Caches:
 | [Mementos Note 3 icon](../assets/Mementos_Note_3_icon.png) | note found in the car at [Commuter's Lament](./Commuter%27s%20Lament.md) | In a [Loose Tree Bark](./Loose%20Tree%20Bark.md) stump outside the [Rabbit Grove Cabin](./Rabbit%20Grove.md) | Contains [Dog Food](./Dog%20Food.md), [Maple Syrup](./Maple%20Syrup.md), [Revolver Ammo](./Revolver%20Ammunition.md) &amp; [Rifle Ammo](./Rifle%20Ammunition.md) **Not available on Interloper/Misery** | _"You tell me why he keeps his junk under that stump. Just clean it out."_ |
 | [Mementos Note icon](../assets/Mementos_Note_icon.png) | note found in the car on the bridge near [Rockfall](./Rockfall.md) | In the boat by the dock near the [Quonset Garage](./Quonset%20Garage.md) | Contains several [Fishing Tackle](./Fishing%20Tackle.md), a [Tin of Coffee](./Tin%20of%20Coffee.md) and a [Go! Energy Drink](./Go!%20Energy%20Drink.md) (On Interloper only the Tin of Coffee). | _"They're biting fierce right now, I can feel it. Meet me by my boat tomorrow, early light."_ |
 
-<!-- #desolation_point -->
-​
-
-<!-- #Desolation_Point -->
-​
-
-<!-- #Desolation_point -->
-​
-
-<!-- #desolation-point -->
 ## [Desolation Point](./Desolation%20Point.md)
 
 Memento Caches:
@@ -259,16 +172,6 @@ Memento Hints:
 | [Mementos Note icon](../assets/Mementos_Note_icon.png) | In [Matt's Truck](./Matt%27s%20Truck.md) under car visor | The [Cave](./Cave%20%28Desolation%20Point%20location%29.md) near the [Broken Bridge](./Broken%20Bridge%20%28Desolation%20Point%20location%29.md) | _"Please look for your brother and his friends. I don't know what to do."_ |
 | [Mementos Note 3 icon](../assets/Mementos_Note_3_icon.png) | In the truck that is blocking the main gate to the road at [Hibernia Processing](./Hibernia%20Processing.md) | [Katie's Secluded Corner](./Katie%27s%20Secluded%20Corner.md) | _"I used to go here to get out of town, before the quakes. It was some peace anyways."_ |
 
-<!-- #forlorn_muskeg -->
-​
-
-<!-- #Forlorn_Muskeg -->
-​
-
-<!-- #Forlorn_muskeg -->
-​
-
-<!-- #forlorn-muskeg -->
 ## [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 Memento Caches:
@@ -284,16 +187,6 @@ Memento Hints:
 | --- | --- | --- | --- |
 | [Mementos Note 3 icon](../assets/Mementos_Note_3_icon.png) | Note pinned to the destroyed [Shortwave Tower West](./Shortwave%20Tower%20West.md), the leg closest to the cliffside | The climb to [Milton Basin](./Milton%20Basin.md), north of [Marsh Ridge](./Marsh%20Ridge.md) | _"I hope you find this. I'm heading back to town, through the basin. Safe travels, love."_ |
 
-<!-- #hushed_river_valley -->
-​
-
-<!-- #Hushed_River_Valley -->
-​
-
-<!-- #Hushed_river_valley -->
-​
-
-<!-- #hushed-river-valley -->
 ## [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 Memento Caches:
@@ -311,16 +204,6 @@ Memento Hints:
 | --- | --- | --- | --- |
 | [Mementos Note 3 icon](../assets/Mementos_Note_3_icon.png) | Note found at the southern [Signal Fire](./Mysterious%20Signal%20Fire.md) site, regardless of the actual location of the fire | The [Ice Cave](./Ice%20Cave.md) entrance beneath [Reclusive Falls](./Reclusive%20Falls.md) | _"They went in but never came out. I waited five days. No more."_ |
 
-<!-- #mountain_town -->
-​
-
-<!-- #Mountain_Town -->
-​
-
-<!-- #Mountain_town -->
-​
-
-<!-- #mountain-town -->
 ## [Mountain Town](./Mountain%20Town.md)
 
 Memento Caches:
@@ -336,16 +219,6 @@ Memento Hints:
 | --- | --- | --- | --- |
 | [Mementos Note icon](../assets/Mementos_Note_icon.png) | Behind the left Visor in the center car on [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) | The rope climb down to [Milton Basin](./Milton%20Basin.md) | _"I know you can't help but try and go. Just be safe. Love you."_ |
 
-<!-- #mystery_lake -->
-​
-
-<!-- #Mystery_Lake -->
-​
-
-<!-- #Mystery_lake -->
-​
-
-<!-- #mystery-lake -->
 ## [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 Memento Caches
@@ -361,16 +234,6 @@ Memento Hint
 | --- | --- | --- | --- |
 | [Mementos Note 3 icon](../assets/Mementos_Note_3_icon.png) | In the truck Visor on the train tracks, near the staging area of [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) | The cave to Mountain Town next to [Trapper's Homestead](./Trapper%27s%20Homestead.md) | _"A new cave has opened up to Milton. Near the old Trapper's place. Earthquake?"_ |
 
-<!-- #pleasant_valley -->
-​
-
-<!-- #Pleasant_Valley -->
-​
-
-<!-- #Pleasant_valley -->
-​
-
-<!-- #pleasant-valley -->
 ## [Pleasant Valley](./Pleasant%20Valley.md)
 
 Memento Caches:
@@ -386,16 +249,6 @@ Memento Hints:
 | --- | --- | --- | --- |
 | [Mementos Note icon](../assets/Mementos_Note_icon.png) | In the car by [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) | The cave into [Winding River](./Winding%20River.md) | "_Way up to the old Dam seems open again. Better check it out soon."_ |
 
-<!-- #timberwolf_mountain -->
-​
-
-<!-- #Timberwolf_Mountain -->
-​
-
-<!-- #Timberwolf_mountain -->
-​
-
-<!-- #timberwolf-mountain -->
 ## [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 Memento Hints:
@@ -405,10 +258,6 @@ Memento Hints:
 | [Mementos Note 2 icon](../assets/Mementos_Note_2_icon.png) | On the workbench/near Hatch in [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) | The corpse with the laptop in [Chasm Cave](./Chasm%20Cave.md) | _"Corpse with computer found, these coordinates. Can't be a local. Pitiable."_ |
 | [Mementos Note 2 icon](../assets/Mementos_Note_2_icon.png) | In the [Fishing Hut](./Fishing%20Hut.md) at [Crystal Lake](./Crystal%20Lake.md) | The cave to Ash Canyon near [Deer Clearing](./Deer%20Clearing.md). | _"Have to make the Canyon before dark. The howling went all night. [...illegible writing...]"_ |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Example of a memento rock cache](../assets/Memento_Rock_Cache.png)

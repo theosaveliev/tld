@@ -36,26 +36,12 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Pleasant Valley Collectible, Part One_ from on the wall of the [rural store at the crossroads](./Thomson%27s%20Crossing.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Pleasant Valley Collectible, Part One**_
 
 This might be our one chance to survive out here, as a community again instead of individual homesteads. The mines aren't producing any more. Timber is plentiful and access is easy. We need those jobs!
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

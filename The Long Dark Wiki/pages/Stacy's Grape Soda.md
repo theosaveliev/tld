@@ -41,43 +41,21 @@
 
 **Stacy's Grape Soda** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 It can be consumed to restore 250 [calories](./Hunger.md) as well as 30% [hydration](./Thirst.md), the equivalent of 0.20 litres of [water](./Water%20%28Potable%29.md). They are found uncommonly inside all types of structures, [Vehicles](./Vehicle.md), and on [frozen corpses](./Frozen%20Corpse.md).
 
 All three types of soda share the same calories and hydration. Stacy's Grape Soda never causes [Food Poisoning](./Food%20Poisoning.md).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - "Stacy's Grape Soda" was named after [Stacyplays](https://www.youtube.com/user/stacyplays) (aka Stacy Hinojosa), a YouTuber who ran a "let's play" series during The Long Dark's alpha/beta (2014-2016). In her videos she mentions how grape soda is her favorite type of drink. Her photograph is also present hanging inside of some houses in Coastal Highway.
 - The back of a Grape Soda lists "Ingredients: Carbonated Water, High Fructose Corn Syrup, Natural Flavours, Blue 1, Red 40."
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![old model](../assets/Stacy%27s_grape_soda.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**

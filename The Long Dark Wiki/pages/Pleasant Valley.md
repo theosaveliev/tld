@@ -6,14 +6,14 @@
 
 - [Overview](#overview)
 - [Safehouses](#safehouses)
-- [Locations](#locations)
+- [Locations](#locations-1)
 - [Gallery](#gallery)
 - [Maps](#maps)
 - [Locations](#locations-1)
 
 **Pleasant Valley**
 
-[Pleasant Valley Outbuildings](../assets/Pleasant_Valley_title_card.png)<br>_[Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)_
+[Pleasant Valley Outbuildings](../assets/Pleasant_Valley_title_card.png) _[Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)_
 
 **Location on [Great Bear Island](./Great%20Bear%20Island.md)**
 
@@ -25,7 +25,7 @@
 
 **Description:** A large open farmland basin surrounded by mountains on all sides, with a very ironic name.
 
-**Connecting Regions:** [Timberwolf Mountain](./Timberwolf%20Mountain.md),<br>[Coastal Highway](./Coastal%20Highway.md),<br>[Mystery Lake](./Mystery%20Lake%20%28region%29.md) _(via [Winding River](./Winding%20River.md))_,<br>[Blackrock](./Blackrock.md) _(via [Keeper's Pass South](./Keeper%27s%20Pass%20South.md))_
+**Connecting Regions:** [Timberwolf Mountain](./Timberwolf%20Mountain.md), [Coastal Highway](./Coastal%20Highway.md), [Mystery Lake](./Mystery%20Lake%20%28region%29.md) _(via [Winding River](./Winding%20River.md))_, [Blackrock](./Blackrock.md) _(via [Keeper's Pass South](./Keeper%27s%20Pass%20South.md))_
 
 **Difficulty:** Advanced
 
@@ -50,10 +50,6 @@ The region is a massive rural agriculture comprised of farmland and orchards, su
 
 Pleasant Valley connects to [Timberwolf Mountain](./Timberwolf%20Mountain.md) via a rope climb near [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) in the northeast, to [Coastal Highway](./Coastal%20Highway.md) in the southeast through [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md), to [Blackrock](./Blackrock.md) by following the road from [Long Curve](./Long%20Curve.md), which leads through [Keeper's Pass South](./Keeper%27s%20Pass%20South.md) and [Keeper's Pass North](./Keeper%27s%20Pass%20North.md), and to [Mystery Lake](./Mystery%20Lake%20%28region%29.md) through a cave to the southwest, just west of [Cascading Falls](./Cascading%20Falls.md) which leads through [Winding River](./Winding%20River.md) and [Carter Hydro Dam](./Carter%20Hydro%20Dam.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Pleasant Valley is a very large region in [Great Bear Island](./Great%20Bear%20Island.md), the largest of Lower Great Bear. It features few shelters outside of Thompson's Crossing to the southeast, so gameplay focuses on surviving the elements and living off the land while navigating between cabins, caves and landmarks.
@@ -62,10 +58,6 @@ Frequent high winds and [low temperatures](./Hypothermia.md), [snow, fog and bli
 
 Players must time expeditions carefully and make preparations for sudden changes in the [weather](./Weather.md), as the rather ironic name of "Pleasant" is misleading considering that Blizzards are more frequent in this region than any other. Noting landmarks and even marking a path can help navigate through the hills and trees, but beware: [bear](./Bear.md), [moose](./Moose.md), and [wolves](./Wolf.md) (and in [Wintermute](./Wintermute.md): [timberwolves](./Timberwolf.md)) may wait just around the corner.
 
-<!-- #Safehouses -->
-​
-
-<!-- #safehouses -->
 ## Safehouses
 
 Two central indoor shelters serve as good primary bases:
@@ -84,24 +76,18 @@ Two central indoor shelters serve as good primary bases:
 
 The Farmstead is relatively close to the Outbuildings and [Signal Hill](./Signal%20Hill.md), another useful indoor shelter.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 There are many accessible locations within Pleasant Valley, including:
 
 | Column 1 | Column 2 |
 | --- | --- |
-| - [Barn (Molly's)](./Barn%20%28Molly%27s%29.md)<br>- [Burned Ridge Cave](./Burned%20Ridge%20Cave.md)<br>- [Bunker Beta](./Bunker%20Beta.md)<br>- [Cascading Falls](./Cascading%20Falls.md)<br>- [Community Hall](./Community%20Hall.md)<br>- [Contemplation Bridge](./Contemplation%20Bridge.md)<br>- [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md)<br>- [Derelict Cabins](./Derelict%20Cabins.md)<br>- [Draft Dodger's Cabin](./Draft%20Dodger%27s%20Cabin.md)<br>- [End of the Road](./End%20of%20the%20Road.md)<br>- [Forest Cave](./Forest%20Cave%20%28Pleasant%20Valley%20location%29.md)<br>- [Heartbreak Bridge](./Heartbreak%20Bridge.md)<br>- [Hilltop Cave](./Hilltop%20Cave.md)<br>- [Lonely Homestead](./Lonely%20Homestead.md)<br>- [Long Curve](./Long%20Curve.md)<br>- [Lower Falls](./Lower%20Falls.md)<br>- [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md)<br>- [Pensive Pond](./Pensive%20Pond.md) | - [Picnic Spot](./Picnic%20Spot.md)<br>- [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md)<br>- [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md)<br>- [Point of Disagreement](./Point%20of%20Disagreement.md)<br>- [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md)<br>- [Rural Store](./Rural%20Store.md)<br>- [Signal Hill](./Signal%20Hill.md)<br>- [Skeeter's Ridge](./Skeeter%27s%20Ridge.md)<br>- [Thomson's Crossing](./Thomson%27s%20Crossing.md)<br>- [Three Strikes Farmstead](./Three%20Strikes%20Farmstead.md)<br>- To Abandoned Mine (Transition to [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md))<br>- To Cave System (Transition to [Winding River](./Winding%20River.md))<br>- To Keeper's Pass South (Transition to [Keeper's Pass South](./Keeper%27s%20Pass%20South.md))<br>- To Timberwolf Mountain (Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md))<br>- [Upper Falls](./Upper%20Falls.md) |
+| - [Barn (Molly's)](./Barn%20%28Molly%27s%29.md) - [Burned Ridge Cave](./Burned%20Ridge%20Cave.md) - [Bunker Beta](./Bunker%20Beta.md) - [Cascading Falls](./Cascading%20Falls.md) - [Community Hall](./Community%20Hall.md) - [Contemplation Bridge](./Contemplation%20Bridge.md) - [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md) - [Derelict Cabins](./Derelict%20Cabins.md) - [Draft Dodger's Cabin](./Draft%20Dodger%27s%20Cabin.md) - [End of the Road](./End%20of%20the%20Road.md) - [Forest Cave](./Forest%20Cave%20%28Pleasant%20Valley%20location%29.md) - [Heartbreak Bridge](./Heartbreak%20Bridge.md) - [Hilltop Cave](./Hilltop%20Cave.md) - [Lonely Homestead](./Lonely%20Homestead.md) - [Long Curve](./Long%20Curve.md) - [Lower Falls](./Lower%20Falls.md) - [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md) - [Pensive Pond](./Pensive%20Pond.md) | - [Picnic Spot](./Picnic%20Spot.md) - [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) - [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md) - [Point of Disagreement](./Point%20of%20Disagreement.md) - [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) - [Rural Store](./Rural%20Store.md) - [Signal Hill](./Signal%20Hill.md) - [Skeeter's Ridge](./Skeeter%27s%20Ridge.md) - [Thomson's Crossing](./Thomson%27s%20Crossing.md) - [Three Strikes Farmstead](./Three%20Strikes%20Farmstead.md) - To Abandoned Mine (Transition to [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md)) - To Cave System (Transition to [Winding River](./Winding%20River.md)) - To Keeper's Pass South (Transition to [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)) - To Timberwolf Mountain (Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md)) - [Upper Falls](./Upper%20Falls.md) |
 
 There is also 1 [Prepper Cache](./Prepper%20Cache.md) located northwest of the Crash Site.
 
-<!-- #Maps -->
-​
+## Gallery
 
-<!-- #maps -->
 ### Maps
 
 ![A detailed map of Pleasant Valley v2.35 (spoilers)](../assets/PV_map_default.png)
@@ -118,10 +104,6 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) located northwest of the C
 
 ![MAP ingame PV v160 Eng](../assets/MAP-ingame-PV-v160-Eng.jpg)
 
-<!-- #locations_1 -->
-​
-
-<!-- #locations-1 -->
 ### Locations
 
 ![A view showing the expansive Pleasant Valley. Pleasant Valley outbuildings can be seen in the distance.](../assets/Pleasant_Valley_landscape.jpg)

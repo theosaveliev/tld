@@ -51,10 +51,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Thomson Family Stew** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Pot](./Cooking%20Pot.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Calories-wise, Thomson Family Stew is inefficient, with at least a level 4 cooking skill (the minimum to create it), the ingredients separately provide over 2100 kcal, almost double the calories of the finished stew. The weight of Thomson Family Stew (0.35kg) is far more efficient than that of its ingredients (1.5 kg). Cooked at level 5, its energy density is over 3200 kcal per kilogram, one of the densest in the game. This makes Thomson Family Stew an efficient food for travel or exploring.
@@ -74,10 +70,6 @@ Canned Corn is one of the rarest foods in the game and is thus a very hard ingre
 
 [Canned Corn](./Canned%20Corn.md) can also be obtained from the [Trader](./Trader.md).
 
-<!-- #Effects -->
-​
-
-<!-- #effects -->
 ## Effects
 
 - +15% [Stamina](./Stamina.md) (instant)
@@ -85,10 +77,6 @@ Canned Corn is one of the rarest foods in the game and is thus a very hard ingre
 - [Improved Rest](./Improved%20Rest.md) for 3 hours (+1% Condition restored for first 3 hours of sleep, or 18 hours)
 - -15% [Fatigue](./Fatigue.md)
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 **Thomson Family Stew**
@@ -123,19 +111,7 @@ Canned Corn is one of the rarest foods in the game and is thus a very hard ingre
 
 **Quantity:** 0.30 kg
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-[ru:Семейное рагу Томсона](https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D0%B3%D1%83_%D0%A2%D0%BE%D0%BC%D1%81%D0%BE%D0%BD%D0%B0)

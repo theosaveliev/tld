@@ -18,10 +18,6 @@
 
 **Rustic Storage Box** is a [Decorations](./Decorations.md) that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A makeshift wooden storage box, a Rustic Storage Box can be crafted at a [Furniture Workbench](./Furniture%20Workbench.md), but requires [Woodworking Tools](./Woodworking%20Tools.md).
@@ -32,10 +28,6 @@ Progress for Crafting this item will be stored in the Furniture Workbench's cont
 
 The Rustic Storage Box is the only storage furniture item that can be picked up and placed back into the player's inventory once crafted and deployed from the Furniture Workbench. This allows it to be carried from one base to another, should the player wish to reuse it.
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Rustic Storage Box**

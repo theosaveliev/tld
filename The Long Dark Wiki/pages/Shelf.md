@@ -42,16 +42,6 @@ The player can find and store many different usable items such as [Food And Drin
 
 As with most wooden furniture, shelves can be broken down without any tools or using a hatchet for a yield of [Reclaimed Wood](./Reclaimed%20Wood.md).
 
-<!-- #wide_shelf -->
-​
-
-<!-- #Wide_Shelf -->
-​
-
-<!-- #Wide_shelf -->
-​
-
-<!-- #wide-shelf -->
 ## Wide Shelf
 
 A wide Shelf can be harvested for 6 Reclaimed Wood after 1 hour 30 minutes.
@@ -62,22 +52,6 @@ A wide Shelf can be harvested for 6 Reclaimed Wood after 1 hour 30 minutes.
 | 6 |  |  | -3% Improvised Hatchet |
 | 6 |  |  | -0.5% Heavy Hammer |
 
-<!-- #large_shelfbookshelf -->
-​
-
-<!-- #Large_Shelf/Bookshelf -->
-​
-
-<!-- #large_shelf/bookshelf -->
-​
-
-<!-- #Large_shelf/bookshelf -->
-​
-
-<!-- #Large_Shelf/bookshelf -->
-​
-
-<!-- #large-shelfbookshelf -->
 ## Large Shelf/Bookshelf
 
 Bookshelves are thick shelves that usually hold books and supplies. Large Shelves are very tall, even taller than Bookshelves, but are very thin. Both give the same amount of wood and one tinder plug.
@@ -88,30 +62,10 @@ Bookshelves are thick shelves that usually hold books and supplies. Large Shelve
 | 8/1 Tinder Plug |  |  | -3% Improvised Hatchet |
 | 8/1 Tinder Plug |  |  | -0.5% Heavy Hammer |
 
-<!-- #gun_rack_shelf -->
-​
-
-<!-- #Gun_Rack_Shelf -->
-​
-
-<!-- #Gun_rack_shelf -->
-​
-
-<!-- #gun-rack-shelf -->
 ## Gun Rack Shelf
 
 Gun racks allow [Hunting Rifles](./Hunting%20Rifle.md) to be placed on them, but can also be broken down. They either have 1 or 2 racks for placing rifles.
 
-<!-- #double_rack -->
-​
-
-<!-- #Double_Rack -->
-​
-
-<!-- #Double_rack -->
-​
-
-<!-- #double-rack -->
 ### Double Rack
 
 | Reclaimed Wood | Time | Calories | Condition of Tool |
@@ -120,16 +74,6 @@ Gun racks allow [Hunting Rifles](./Hunting%20Rifle.md) to be placed on them, but
 | 2 | 20 minutes | 58 | -3% Improvised Hatchet |
 | 2 | 22 minutes | 68 | -0.5% Heavy Hammer |
 
-<!-- #single_rack -->
-​
-
-<!-- #Single_Rack -->
-​
-
-<!-- #Single_rack -->
-​
-
-<!-- #single-rack -->
 #### Single Rack
 
 | Reclaimed Wood | Time | Calories | Condition of Tool |

@@ -28,10 +28,6 @@
 
 **Communication Report** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) in [Bleak Inlet](./Bleak%20Inlet.md) at the [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Communications Report**_
@@ -46,19 +42,7 @@ Sector 12 Tower Failure. Remote service for Automated Relay. Extreme Predator Th
 
 Partner Specialist 81926
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
   - Added to game.
-
-[ru:Отчет](https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D1%87%D0%B5%D1%82)

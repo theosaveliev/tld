@@ -24,26 +24,22 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-4%
 
-**Harvest:** 2 × [Cloth](./Cloth.md)<br>20 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md) 20 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md)<br>45 minutes<br>30% condition
+**Repair:** 2 × [Cloth](./Cloth.md) 45 minutes 30% condition
 
 [2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.** This content only appears in [Wintermute](./Wintermute.md).
 
 “
 
-**A thin shell lined with sheep's wool, this jacket is lightweight with good insulation.**<br>In-game description
+**A thin shell lined with sheep's wool, this jacket is lightweight with good insulation.** In-game description
 
 ”
 
 **Astrid's Jacket** is a [Clothing](./Clothing.md) item worn on the player's outer torso obtained during [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Astrid's jacket can be found on a table in the basement of [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) during [Trauma](./Trauma.md), the first chapter of [Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). It can not be acquired in Survival Mode, nor at any later stage in the [Story](./Wintermute.md).
@@ -56,16 +52,6 @@ There is a small piece of Astrid's scarf tied to her left arm after her encounte
 
 ![Clothing model icon](../assets/Astrid%27s_Jacket_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

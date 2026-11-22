@@ -26,10 +26,6 @@ Type
 
 Landmark|-
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Rockfall is located to the far southwest end of the region.

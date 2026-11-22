@@ -34,16 +34,6 @@
 
 The key can be found next to [Hobbs](./Hobbs.md) immediately after the interaction with him, regardless of the outcome chosen. This is the only key that is necessary to progress through the story, as Bank Deposit Box #15 holds a plot-sensitive item. The key originally belonged to [Martin Barker](./Martin%20Barker.md), and unlocks the deposit box containing [Grey Mother's Safety Deposit Box](./Grey%20Mother%27s%20Safety%20Deposit%20Box.md).
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

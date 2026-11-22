@@ -45,18 +45,10 @@ Region
 
 **Tall Tales** is a side mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md), as well as an [Achievement](./Tall%20Tales%20%28Achievement%29.md) of the same name which is earned upon completing the mission.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 This mission can be started by finding any of the Local Legends books, including _The Big One_, _The Lost Cave_, _Ghost Stag_, and _Sasquatch_. When any one of these books is picked up, the journal will update to include a new task, and the legend to investigate will be marked on the map. Each legend the player investigates will reward the player with an item or crafting blueprint.
 
-<!-- #Tasks -->
-​
-
-<!-- #tasks -->
 ## Tasks
 
 - Locals tell of a Sasquatch...
@@ -72,16 +64,6 @@ This mission can be started by finding any of the Local Legends books, including
   - Go to the [Misty Falls Cave](./Misty%20Falls%20Cave.md).
   - Investigate the cave
 
-<!-- #location_of_the_books -->
-​
-
-<!-- #Location_of_the_books -->
-​
-
-<!-- #Location_Of_The_Books -->
-​
-
-<!-- #location-of-the-books -->
 ## Location of the books
 
 - [Local Legends - Sasquatch](./Local%20Legends%20-%20Sasquatch.md) can be found in the bathroom of [Community Hall](./Community%20Hall.md).
@@ -89,10 +71,6 @@ This mission can be started by finding any of the Local Legends books, including
 - [Local Legends - Ghost Stag](./Local%20Legends%20-%20Ghost%20Stag.md) can be found in the [Draft Dodger's Cabin](./Draft%20Dodger%27s%20Cabin.md).
 - [Local Legends - The Lost Cave](./Local%20Legends%20-%20The%20Lost%20Cave.md) can be found in the Rural Store in [Thomson's Crossing](./Thomson%27s%20Crossing.md).
 
-<!-- #Rewards -->
-​
-
-<!-- #rewards -->
 ## Rewards
 
 - The _Sasquatch_ mission rewards the player with a [Wolfskin Coat](./Wolfskin%20Coat.md).
@@ -100,18 +78,10 @@ This mission can be started by finding any of the Local Legends books, including
 - The _Ghost Stag_ mission rewards the player with the [Deerskin Boots](./Deerskin%20Boots.md) and [Deerskin Pants](./Deerskin%20Pants.md) crafting blueprints. A pair of [Rabbitskin Mitts](./Rabbitskin%20Mitts.md) is also next to the snow shelter.
 - _The Lost Cave_ Mission rewards the player with a [Moose-Hide Satchel](./Moose-Hide%20Satchel.md), enabling the player to carry an extra 5kg.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - The [Ghost Stag](./Ghost%20Stag.md) cannot be killed.
 
-<!-- #Achievements -->
-​
-
-<!-- #achievements -->
 ## Achievements
 
 - ![Tall Tales (Achievement) icon](../assets/Tall_Tales_%28Achievement%29_icon.png) [Tall Tales (Achievement)](./Tall%20Tales%20%28Achievement%29.md)

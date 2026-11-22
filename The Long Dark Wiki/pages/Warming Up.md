@@ -36,10 +36,6 @@
 
 **Warming Up** is a positive benefit [Affliction](./Afflictions.md) in the **[_The Long Dark_](./The%20Long%20Dark.md).** The buff is gained by eating [Food And Drink](./Food%20And%20Drink.md) that has been warmed up by a [fire](./Fire.md) and currently has the "HOT" status. While Warming Up is active, the rate of depletion of the [Warmth](./Warmth.md) meter while [Feels Like](./Feels%20Like.md) is below 0 is reduced by half.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 **HOT** is an attribute that is granted to some foods immediately upon finishing [Cooking](./Cooking.md) over a Fire.
@@ -51,10 +47,6 @@
 
 "HOT" status is short-lived, wearing off after 15 game minutes indoors or 5 game minutes outdoors. Placing any warm food or drink inside an [Insulated Flask](./Insulated%20Flask.md) will keep food and drink warmer for much longer than keeping it inside its original container, though not all foods can be inserted into a Flask.
 
-<!-- #Benefits -->
-​
-
-<!-- #benefits -->
 ## Benefits
 
 ![Placing teas and canned goods near an active fire will warm/cook them, without sacrificing a cooking slot.](../assets/Warming.jpg)_Placing teas and canned goods near an active fire will warm/cook them, without sacrificing a cooking slot._Consuming items while HOT grants benefits to [Warmth](./Warmth.md) as long as Warming Up is active:
@@ -65,27 +57,10 @@
 
 It is possible to warm up some food and drinks without directly cooking on a fire's cooking slot, thus sparing a cooking slot. By placing them around an active fire, multiple teas and canned goods can be warmed up at once.
 
-<!-- #items_that_can_provide_warming_up -->
-​
-
-<!-- #Items_that_can_provide_Warming_Up -->
-​
-
-<!-- #Items_that_can_provide_warming_up -->
-​
-
-<!-- #Items_That_Can_Provide_Warming_Up -->
-​
-
-<!-- #items-that-can-provide-warming-up -->
 ## Items that can provide Warming Up
 
 Note that some of these items are only available to players who purchased [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md).
 
-<!-- #Food -->
-​
-
-<!-- #food -->
 ### Food
 
 - ![Canned Corn icon](../assets/Canned_Corn_icon.png) [Canned Corn](./Canned%20Corn.md)
@@ -96,10 +71,6 @@ Note that some of these items are only available to players who purchased [Tales
 - ![Pumpkin Pie icon](../assets/Pumpkin_Pie_icon.png) [Pumpkin Pie](./Pumpkin%20Pie.md) (discontinued item)
 - ![Tomato Soup icon](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md)
 
-<!-- #Drink -->
-​
-
-<!-- #drink -->
 ### Drink
 
 - ![Birch Bark Tea icon](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md)
@@ -111,22 +82,6 @@ Note that some of these items are only available to players who purchased [Tales
 - ![Reishi Tea icon](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)
 - ![Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
 
-<!-- #prepared_in_cooking_skillet -->
-​
-
-<!-- #Prepared_in_Cooking_Skillet: -->
-​
-
-<!-- #prepared_in_cooking_skillet: -->
-​
-
-<!-- #Prepared_in_cooking_skillet: -->
-​
-
-<!-- #Prepared_In_Cooking_Skillet: -->
-​
-
-<!-- #prepared-in-cooking-skillet -->
 ### Prepared in [Cooking Skillet](./Cooking%20Skillet.md):
 
 (Pies cannot be reheated once Cooked)
@@ -138,22 +93,6 @@ Note that some of these items are only available to players who purchased [Tales
 - ![Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) [Prepper's Pie](./Prepper%27s%20Pie.md)
 - ![Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md)
 
-<!-- #prepared_in_cooking_pot -->
-​
-
-<!-- #Prepared_in_Cooking_Pot: -->
-​
-
-<!-- #prepared_in_cooking_pot: -->
-​
-
-<!-- #Prepared_in_cooking_pot: -->
-​
-
-<!-- #Prepared_In_Cooking_Pot: -->
-​
-
-<!-- #prepared-in-cooking-pot -->
 ### Prepared in [Cooking Pot](./Cooking%20Pot.md):
 
 (Stews cannot be reheated once Cooked)
@@ -171,18 +110,10 @@ Note that some of these items are only available to players who purchased [Tales
 - ![Porter's Soup icon](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md)
 - ![Vagabond Soup icon](../assets/Vagabond_Soup_icon.png) [Vagabond Soup](./Vagabond%20Soup.md)
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - A notable food that was always found in the HOT state and never went COLD was the [Pumpkin Pie](./Pumpkin%20Pie.md). This is the only food item with this distinction, but it was only found in the seasonal [Challenge](./Challenge.md) [4 Days of Night](./4%20Days%20of%20Night%20Event.md) (currently [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md)).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old icon.](../assets/Warming_up.png)

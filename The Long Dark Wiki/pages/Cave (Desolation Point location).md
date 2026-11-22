@@ -14,10 +14,6 @@
 
 **Type:** Cave
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Cave is one of two in the region, but is the only one that has a loading screen.
@@ -26,14 +22,8 @@ Within the Cave, especially on harder difficulties, a [Wolf](./Wolf.md) may be f
 
 The wolf tends to lurk near the large center portion of Cave, but can wander about through the tunnels. So it is recommended to enter with a weapon readied.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The large interior portion of Cave, showing the upper area where the corpse may appear as well as the deer carcasses.](../assets/20160621021349_1.jpg)
 
 ![The hunter's corpse, with an abundance of loot nearby.](../assets/20160621021238_1.jpg)
-
-[ru:Пещера (у водопада)](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%28%D1%83_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0%29)

@@ -16,14 +16,8 @@
 
 **Type:** Cave
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Alan's Cave is not a true cave but it provides some protection against wind chill. It can be found just west of a hunting stand on the eastern side of the region. A frozen river can be found nearby which leads north to [Carter Hydro Dam](./Carter%20Hydro%20Dam.md), and south to [Mystery Lake](./Mystery%20Lake%20%28location%29.md). There is also a rabbit area there.
 
 In [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), a [Supply Cache](./Supply%20Cache.md) is hidden in this cave. The [Crumpled Note](./Crumpled%20Note.md) marking it on the map can be found on the second level of the dam.
-
-[ru:Пещера Алана](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%90%D0%BB%D0%B0%D0%BD%D0%B0)

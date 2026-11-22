@@ -42,18 +42,10 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Venison Pie** is a food item in _The Long Dark_ made with a [Cooking Skillet](./Cooking%20Skillet.md) and produces 3 pies.
 
-<!-- #Effects -->
-​
-
-<!-- #effects -->
 ## Effects
 
 - [Unburdened](./Unburdened.md) +3kg of Maximum Carry Weight (for 3 hours)
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 **Venison Pie**
@@ -80,16 +72,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Quantity:** 0.50 kg
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

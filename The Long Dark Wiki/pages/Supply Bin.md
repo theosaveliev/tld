@@ -21,16 +21,8 @@
 
 A **Supply Bin** is a storage container often found near Radio Towers, Forestry Lookouts, and certain Mines. They can contain Fuel items such as [Coal](./Coal.md), [Cedar Firewood](./Cedar%20Firewood.md), [Fir Firewood](./Fir%20Firewood.md), or [Charcoal](./Charcoal.md). The one at [Muskeg Overlook](./Muskeg%20Overlook.md) contains a [Car Battery](./Car%20Battery.md) for the nearby [Transmitter](./Transmitters.md).
 
-<!-- #forestry_lookouts -->
-​
+## Locations
 
-<!-- #Forestry_Lookouts -->
-​
-
-<!-- #Forestry_lookouts -->
-​
-
-<!-- #forestry-lookouts -->
 ### Forestry Lookouts
 
 - [Abandoned Lookout](./Abandoned%20Lookout.md)
@@ -38,16 +30,6 @@ A **Supply Bin** is a storage container often found near Radio Towers, Forestry 
 - [Destroyed Lookout](./Destroyed%20Lookout.md)
 - [Pensive Lookout](./Pensive%20Lookout.md)
 
-<!-- #radio_towers -->
-​
-
-<!-- #Radio_Towers -->
-​
-
-<!-- #Radio_towers -->
-​
-
-<!-- #radio-towers -->
 ### Radio Towers
 
 - [Radio Tower](./Radio%20Tower.md)
@@ -56,10 +38,6 @@ A **Supply Bin** is a storage container often found near Radio Towers, Forestry 
 - [Signal Hill](./Signal%20Hill.md)
 - [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md)
 
-<!-- #Mines -->
-​
-
-<!-- #mines -->
 ### Mines
 
 - [Langston Mine](./Langston%20Mine.md)

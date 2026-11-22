@@ -34,34 +34,16 @@
 
 The **Technical Backpack** is a collectible item available in [Survival Mode](./Survival%20Mode.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 When collected it provides a permanent +5kg (11lbs) increase to [Carry Capacity](./Encumbrance.md). This benefit stacks the effects of a worn [Moose-Hide Satchel](./Moose-Hide%20Satchel.md) and [Well Fed](./Well%20Fed.md) benefit, allowing the player to carry up to 45kg (99lbs) without becoming encumbered, a total increase of 50%. The Technical Backpack is classified as a [Collectible](./Collectibles.md), not clothing; this means it has no weight, no durability and cannot be un-equipped once picked up.
 
-<!-- #Location -->
-​
-
-<!-- #location -->
 ## Location
 
 The Technical Backpack is unique to the [Gold Mine](./Gold%20Mine.md) of the [Ash Canyon](./Ash%20Canyon.md) region. The trek to the mine is long and the region near-wilderness, making its low temperatures (-25°C (-13°F)), predators, and maze-like geography dangerous.
 
 The Technical Backpack can be found alongside their sister item, the [Crampons](./Crampons.md) and a nearby [Note](./Notebook%20Page%20%28Survival%202%29.md).
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - HOTFIX **28 Apr 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.94)):**
@@ -79,5 +61,3 @@ The Technical Backpack can be found alongside their sister item, the [Crampons](
 ![Technical Backpack inventory display &amp; icon change](../assets/TechnicalBackpack.jpg)
 
 _**Technical Backpack inventory display &amp; icon change**_
-
-[ru:Улучшенный рюкзак](https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA)

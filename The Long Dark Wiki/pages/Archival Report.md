@@ -45,16 +45,8 @@
 
 During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) finds the four volumes of the note _Archival Report_ within the [Blackrock](./Blackrock.md) region.
 
-<!-- #volume_a -->
-​
+## Transcript
 
-<!-- #Volume_A -->
-​
-
-<!-- #Volume_a -->
-​
-
-<!-- #volume-a -->
 ### Volume A
 
 _The following text is transcribed from **Archival Report Volume A**_
@@ -67,16 +59,6 @@ But we also sourced rock and stone from some quarries at the foot of that big mo
 
 Nice enough place in the summer months, Great Bear, but those winters were evil things, I tell you. Wind came whippin’ down from the mountain, screaming after ya.
 
-<!-- #volume_b -->
-​
-
-<!-- #Volume_B -->
-​
-
-<!-- #Volume_b -->
-​
-
-<!-- #volume-b -->
 ### Volume B
 
 _The following text is transcribed from **Archival Report Volume B**_
@@ -91,16 +73,6 @@ I tried not to think about what went on up there. It changed my husband, somehow
 
 I tended a garden and wrote endless letters to my sisters. That’s how I remember those years. Endless writing, waiting to leave as the seasons passed.
 
-<!-- #volume_c -->
-​
-
-<!-- #Volume_C -->
-​
-
-<!-- #Volume_c -->
-​
-
-<!-- #volume-c -->
 ### Volume C
 
 _The following text is transcribed from **Archival Report Volume C**_
@@ -113,16 +85,6 @@ I mostly shrugged when he tried this on me. What did I know? But I had been doin
 
 He had a good head on his shoulders. Good enough for those kinds of men anyway. But he had some funny ideas about punishment. Lots of lectures and preaching type-stuff, that the land would fix them, the prisoners I mean. The Blackrock Mountain. That being in that terrible place was their mission. I never understood any of it.
 
-<!-- #volume_d -->
-​
-
-<!-- #Volume_D -->
-​
-
-<!-- #Volume_d -->
-​
-
-<!-- #volume-d -->
 ### Volume D
 
 _The following text is transcribed from **Archival Report Volume D**_
@@ -135,19 +97,7 @@ But that was the point, I think. That place shaped the guards as much as the men
 
 After a few years, I did my bit, shook their hands, and left. That was the last I saw of Blackrock.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**
   - Added to game.
-
-[ru:Архивный отчёт](https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BE%D1%82%D1%87%D1%91%D1%82)

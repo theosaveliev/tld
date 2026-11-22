@@ -31,9 +31,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-15%
 
-**Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)<br>90 minutes
+**Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) 90 minutes
 
-**Repair:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md),<br>1 × [Cured Gut](./Cured%20Gut.md)<br>120 minutes<br>30% condition
+**Repair:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md), 1 × [Cured Gut](./Cured%20Gut.md) 120 minutes 30% condition
 
 > “**Handcrafted fur and skin outer layer will keep you warm and remind Wolves that they should keep their distance. Not the way the Wolf expected to end up.**”
 >
@@ -41,10 +41,6 @@
 
 The **Wolfskin Coat** is a type of craftable clothing in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Wolfskin Coats have high warmth, windproof, protection, waterproof and durability along with a chance to frighten nearby wolves when worn; however they also have relatively high weight and mobility penalty. They are comparable in stats to the rare [Expedition Parka](./Expedition%20Parka.md), but can be crafted making them more accessible (such as on Interloper, where parkas cannot spawn). It is produced from cured wolf pelts.
@@ -57,10 +53,6 @@ Since [wolves](./Wolf.md) are less dangerous than [bears](./Bear.md) or [moose](
 
 In [Wintermute](./Wintermute.md), its blueprint is unlocked by preserving nature's balance in the [Survival School](./Survival%20School.md) quest.
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Wolfskin Coat**
@@ -77,10 +69,6 @@ In [Wintermute](./Wintermute.md), its blueprint is unlocked by preserving nature
 
 **Quantity:** 4
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Clothing model icon](../assets/Wolfskin_Coat_Model_icon.png)
@@ -89,16 +77,6 @@ In [Wintermute](./Wintermute.md), its blueprint is unlocked by preserving nature
 
 ![Old model.](../assets/Wolfskin_Coat_-_back.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**

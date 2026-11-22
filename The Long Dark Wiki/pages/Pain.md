@@ -36,10 +36,6 @@
 >
 > — In-game description
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Pain is a negative affliction introduced in the [Steadfast Ranger](https://hinterlandforums.com/forums/topic/22877-the-long-dark-survival-mode-updated-to-v148-steadfast-ranger/) update. It can be caused by a [Sprained Wrist](./Sprained%20Wrist.md), [Sprained Ankle](./Sprained%20Ankle.md), [Struggle](./Struggle.md), or a fall.

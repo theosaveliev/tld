@@ -30,10 +30,6 @@
 
 **Paper Fragment** is a [Collectibles](./Collectibles.md) found in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story. It is found at the SAR Station in the mission [To SAR And Back](./To%20SAR%20And%20Back.md). It is found inside the helicopter at the SAR Station, next to the [Trauma Kit](./Trauma%20Kit.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Paper Fragment**_
@@ -48,16 +44,6 @@ We know people are hurting since the lights in the sky showed up, so we're closi
 
 The plan's to go inland, and then head south to one of the other hamlets along the coast. Probably [illegible]. We figure they might have some equipment that's still working. Maybe get the word out to the Mainland about what the hell's going on out here.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**

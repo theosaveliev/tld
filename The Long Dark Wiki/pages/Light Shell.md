@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-2%
 
-**Harvest:** 2 × [Cloth](./Cloth.md)<br>40 minutes
+**Harvest:** 2 × [Cloth](./Cloth.md) 40 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>45 minutes<br>30% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 45 minutes 30% condition
 
 > “**A light outer layer meant to protect from wind and water. Has no real warmth value of its own, but useful when paired with a decent under layer.**”
 >
@@ -36,10 +36,6 @@
 
 The **Light Shell** is a type of [clothing](./Clothing.md) in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Mid-tier outer torso with similar stats to the [Windbreaker](./Windbreaker.md), but with double the warmth and weight. Good as an outer layer, although not as waterproof as a Windbreaker.
@@ -48,16 +44,6 @@ Mid-tier outer torso with similar stats to the [Windbreaker](./Windbreaker.md), 
 
 ![Clothing model damaged](../assets/Light_Shell_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

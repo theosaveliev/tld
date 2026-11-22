@@ -24,26 +24,22 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>75% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 75% condition
 
 [2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 
-**Wintermute-Exclusive content.**<br>This content only appears in [Wintermute](./Wintermute.md).
+**Wintermute-Exclusive content.** This content only appears in [Wintermute](./Wintermute.md).
 
 “
 
-**Warm and durable, perfect for the wilderness.**<br>In-game description
+**Warm and durable, perfect for the wilderness.** In-game description
 
 ”
 
 **Astrid's Toque** is a [Clothing](./Clothing.md) item worn on the player's head obtained during [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Astrid's toque can be found on a table in the basement of [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) during [Trauma](./Trauma.md), the first chapter of [Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). It can not be acquired in Survival Mode, nor at any later stage in the [Story](./Wintermute.md).
@@ -54,16 +50,6 @@ The statistics of Astrid's toque are in between those of a [Wool Toque](./Wool%2
 
 ![Model icon damaged](../assets/Astrid%27s_Toque_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

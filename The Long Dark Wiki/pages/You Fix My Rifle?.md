@@ -29,9 +29,9 @@
 
 **Next:** [Survival School (Predux)](./Survival%20School%20%28Predux%29.md)
 
-**Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md)<br>[Broken Railroad](./Broken%20Railroad.md)
+**Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) [Broken Railroad](./Broken%20Railroad.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) [Old Bear](./Old%20Bear.md)
 
 **Template:spoiler**
 
@@ -43,10 +43,6 @@
 
 This episode has since been replaced by [The Best Defense](./The%20Best%20Defense.md).
 
-<!-- #Obiectives -->
-​
-
-<!-- #obiectives -->
 ## Obiectives
 
 - Find the Railway [Maintenance Yard](./Maintenance%20Yard.md) and get into the repair shed.
@@ -55,26 +51,12 @@ This episode has since been replaced by [The Best Defense](./The%20Best%20Defens
 - Search the Lodge for supplies. Something here could save your life.
 - Get back to Jeremiah.
 
-<!-- #Walkthrough -->
-​
-
-<!-- #walkthrough -->
 ## Walkthrough
 
 | Mission details — Mission length | Mission details — Long |
 | --- | --- |
 | Start location | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |
 
-<!-- #repair_the_rifle -->
-​
-
-<!-- #Repair_the_rifle -->
-​
-
-<!-- #Repair_The_Rifle -->
-​
-
-<!-- #repair-the-rifle -->
 ### Repair the rifle
 
 - Find the Railway [Maintenance Yard](./Maintenance%20Yard.md) and get into the repair shed.
@@ -85,19 +67,6 @@ Another derailed train is on the track but is not explorable. Beyond that is a p
 
 Following the power lines from the track, players will come into the [Maintenance Yard](./Maintenance%20Yard.md). There are several vehicles to look through. Inside the building is a room with a [bed](./Bed.md). The restricted area door leads to several more rooms . One room will have a corpse on the ground. Walking over it starts a cutscene. Mackenzie trips over the corpse, then finds a note on the floor that refers to "[Forest Talkers](./Forest%20Talkers.md)". The note mentions a [Lodge](./Hunting%20Lodge.md). Also in the same room on a counter is a pair of [Bolt Cutters](./Bolt%20Cutters.md) (these will be needed later), and the milling machine needed to fix the rifle. Clicking on it to update the mission. Mackenzie is still unable to use the rifle himself but will carry [Jeremiah's Repaired Rifle](./Jeremiah%27s%20Repaired%20Rifle.md) as part of the mission.
 
-<!-- #search_the_hunting_lodge -->
-​
-
-<!-- #Search_the_Hunting_Lodge -->
-​
-
-<!-- #Search_the_hunting_lodge -->
-​
-
-<!-- #Search_The_Hunting_Lodge -->
-​
-
-<!-- #search-the-hunting-lodge -->
 ### Search the Hunting Lodge
 
 - Look for more info about the Forest Talkers at the old hunting lodge.
@@ -109,19 +78,6 @@ Head for the Lodge, following the path across the bridge. Players will need the 
 
 Inside the Lodge is a [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) (above the fireplace) and some [Rifle Ammunition](./Rifle%20Ammunition.md) and a [rifle cleaning kit](./Firearm%20Cleaning%20Kit.md) on a bench across from the fireplace. as well as the expected food and supply items. A bed is upstairs. Walking into the basement you will find a [Flashlight](./Flashlight.md) which will play a cutscene, and you can use it if the Aurora is still out. A nearby table has a note on it [Forest Talker Map Note](./Forest%20Talker%20Map%20Note.md).
 
-<!-- #return_to_jeremiah_with_the_repaired_rifle -->
-​
-
-<!-- #Return_to_Jeremiah_with_the_Repaired_Rifle -->
-​
-
-<!-- #Return_to_jeremiah_with_the_repaired_rifle -->
-​
-
-<!-- #Return_To_Jeremiah_With_The_Repaired_Rifle -->
-​
-
-<!-- #return-to-jeremiah-with-the-repaired-rifle -->
 ### Return to Jeremiah with the Repaired Rifle
 
 - Get back to Jeremiah.
@@ -132,33 +88,10 @@ Continue to follow the tracks through the next tunnel into Mystery Lake, then on
 
 If asked about the lights in the sky, the trapper will admit they seem different than the usual aurora borealis. Mackenzie mentions how the lights seem to temporarily 'power things up' but the trapper hasn't seen anything like that. He doesn't have any electricity going to his cabin but won't tell Mackenzie why. After each survival skill, players will need to talk to Jeremiah about 'Survival Skills' again.
 
-<!-- #jeremiahs_trust -->
-​
-
-<!-- #Jeremiah's_Trust -->
-​
-
-<!-- #jeremiah's_trust -->
-​
-
-<!-- #Jeremiah's_trust -->
-​
-
-<!-- #jeremiahs-trust -->
 ## Jeremiah's Trust
 
 From this point on, Jeremiah's Trust can be gained by giving the following items. (Note that completing missions will also gain Trust)
 
-<!-- #items_that_increase_trust -->
-​
-
-<!-- #Items_That_Increase_Trust -->
-​
-
-<!-- #Items_that_increase_trust -->
-​
-
-<!-- #items-that-increase-trust -->
 #### Items That Increase Trust
 
 - +1 [Stick](./Stick.md)
@@ -168,16 +101,6 @@ From this point on, Jeremiah's Trust can be gained by giving the following items
 - +25 [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md) or [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)
 - +30 [Fresh Deer Hide](./Fresh%20Deer%20Hide.md) or [Cured Deer Hide](./Cured%20Deer%20Hide.md)
 
-<!-- #trust_levels_and_unlocks -->
-​
-
-<!-- #Trust_Levels_And_Unlocks -->
-​
-
-<!-- #Trust_levels_and_unlocks -->
-​
-
-<!-- #trust-levels-and-unlocks -->
 #### Trust Levels And Unlocks
 
 - 25 Trust: Knowledge: Mystery Lake - Worldbuilding information about Mystery Lake. (Gives information about The Collapse and Mystery Lake)
@@ -189,44 +112,14 @@ From this point on, Jeremiah's Trust can be gained by giving the following items
 - 300 Trust: Knowledge: Aurora Observations - Worldbuilding information about the Aurora.
 - 375 Trust: Side Mission: Old Letters - Jeremiah Wants you to find and destroy some of his old letters. ([Jeremiah's Hideout](./Jeremiah%27s%20Hideout.md))
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 [You Fix My Rifle?/Transcript](./You%20Fix%20My%20Rifle%3F.md)
 
-<!-- #differences_from_redux_episode_2 -->
-​
-
-<!-- #Differences_from_Redux_Episode_2 -->
-​
-
-<!-- #Differences_from_redux_episode_2 -->
-​
-
-<!-- #Differences_From_Redux_Episode_2 -->
-​
-
-<!-- #differences-from-redux-episode-2 -->
 ## Differences from Redux Episode 2
 
 Several plot points and locations have been replaced/altered since the Redux re-release of Episode 2:
 
-<!-- #plot_points_and_gameplay_changes -->
-​
-
-<!-- #Plot_Points_and_Gameplay_Changes -->
-​
-
-<!-- #Plot_points_and_gameplay_changes -->
-​
-
-<!-- #Plot_Points_And_Gameplay_Changes -->
-​
-
-<!-- #plot-points-and-gameplay-changes -->
 ### Plot Points and Gameplay Changes
 
 - All 3rd person cutscenes have been removed.
@@ -253,16 +146,6 @@ Several plot points and locations have been replaced/altered since the Redux re-
 - The Old Bear appears after finding the Hunting Lodge Rifle and Fixing Jeremiah's rifle in Forlorn Muskeg near the tracks past the timber cars derailment. He is unkillable and will attack the player if they do not heeding Jeremiah's warning to run and hide from it. This is changed in Redux, with the Old Bear appearing near the Radio Towers and having to be driven away with the Bear Spear.
   - The Old Bear also appears in the mountains near the transition to Mystery Lake like in Redux, after Mackenzie repairs the Bear Spear.
 
-<!-- #game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #game-history -->
 ## Game History
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

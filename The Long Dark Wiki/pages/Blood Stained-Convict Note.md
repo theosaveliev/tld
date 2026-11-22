@@ -36,26 +36,12 @@
 
 During the course of the mission, the Astrid finds the note _Blood Stained-Convict Note_ on the body of a dead prisoner in one of the outbuildings off of [Heartbreak Bridge](./Heartbreak%20Bridge.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Blood Stained-Convict Note**_
 
 I'm soakin right through this paper. All that's left of me those cowards. Like somethin jump up and bit me. Was wrong to follow [Mathis](./Mathis.md). No leader. Don't trust him. Won't lead you home.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

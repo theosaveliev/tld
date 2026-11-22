@@ -39,20 +39,12 @@
 
 **Peanut Butter** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Consuming Peanut Butter provides up to 900 calories of [energy](./Hunger.md), at the cost of 5% loss in [hydration](./Thirst.md). They can be found uncommonly in all regions, usually inside cabinets, houses, stores and [vehicles](./Vehicle.md). Peanut Butter has a weight of 0.50 kg and provides modest energy density to weight.
 
 Peanut Butter [decays](./Decay.md) more slowly when outdoors.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Peanut Butter does not spawn on Interloper mode.
@@ -60,24 +52,10 @@ Peanut Butter [decays](./Decay.md) more slowly when outdoors.
 - In real life, a 16 oz/1 lb jar of peanut butter would have well over 2000 kcals. The in-game value is likely less for balancing reasons.
 - The ingredients on the back list: "Roasted Peanuts, Canola Oil, Sugar, Salt." and that it is a "Product Of Canada."
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Peanut_butter.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**

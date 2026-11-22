@@ -18,7 +18,7 @@ Episode
 
 **Region:** [Blackrock Region](./Blackrock.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Mathis](./Mathis.md)<br>[Vachon](./Vachon.md)<br>[Heller](./Heller.md)<br>[Jace](./Jace.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md) [Vachon](./Vachon.md) [Heller](./Heller.md) [Jace](./Jace.md)
 
 This is the transcript for Chapter 3 [The Detonators](./The%20Detonators.md) for [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
@@ -26,16 +26,6 @@ CHAPTER THREE
 
 THE DETONATORS
 
-<!-- #reach_the_mine_entrance. -->
-​
-
-<!-- #Reach_the_mine_entrance. -->
-​
-
-<!-- #Reach_The_Mine_Entrance. -->
-​
-
-<!-- #reach-the-mine-entrance -->
 ## Reach the mine entrance.
 
 _Mackenzie appears outside of the front steps to the Prison at dawn, at the start of a blizzard_

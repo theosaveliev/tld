@@ -30,10 +30,6 @@
 
 **Blackrock Memo - Suspicious Person** is a [Collectible](./Collectibles.md) note found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story. It is found on the dashboard of a [Truck](./Truck.md) on the road near the [Old Substation](./Old%20Substation.md). It is part of the side mission [Blackrock Rumours](./Blackrock%20Rumours.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Blackrock Memo - Suspicious Person**_
@@ -44,16 +40,6 @@ we are getting additional reports of a suspicious person wandering the valley. F
 
 The most recent report indicates that the person's path intersects with the old stone cabin on the lake east of Blackrock.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**

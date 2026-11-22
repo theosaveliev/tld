@@ -1646,10 +1646,7 @@ def test_page_markdown_removes_anchor_tags_comments_and_empty_sections() -> None
 
 
 def test_page_markdown_removes_orphan_language_footer_after_empty_section() -> None:
-    body = (
-        "## Update History\n"
-        "[ru:Скелет Уайетта](https://ru.wikipedia.org/wiki/Wyatt)"
-    )
+    body = "## Update History\n[ru:Скелет Уайетта](https://ru.wikipedia.org/wiki/Wyatt)"
 
     markdown = _page_markdown("Wyatt's Skeleton", [], body, None)
 
@@ -1877,7 +1874,9 @@ def test_sanitize_expanded_wikitext_repairs_common_table_attributes() -> None:
     assert sanitized.endswith("|\n|}")
 
 
-def test_sanitize_expanded_wikitext_renders_imagemaps_as_images_and_region_links() -> None:
+def test_sanitize_expanded_wikitext_renders_imagemaps_as_images_and_region_links() -> (
+    None
+):
     source = (
         "<imagemap>\n"
         "File:Region Map.png|thumb|center|488px|Map of [[Great Bear Island]]\n"
@@ -1890,7 +1889,10 @@ def test_sanitize_expanded_wikitext_renders_imagemaps_as_images_and_region_links
 
     sanitized = _sanitize_expanded_wikitext(source)
 
-    assert "[[File:Region Map.png|thumb|center|488px|Map of Great Bear Island]]" in sanitized
+    assert (
+        "[[File:Region Map.png|thumb|center|488px|Map of Great Bear Island]]"
+        in sanitized
+    )
     assert "* [[Broken Railroad]]" in sanitized
     assert "* [[Forlorn Muskeg]]" in sanitized
     assert "* [[Keen's Farm|Farmstead]]" in sanitized
@@ -1902,7 +1904,6 @@ def test_sanitize_expanded_wikitext_renders_imagemaps_as_images_and_region_links
     )
     assert "Before the map.\n\n" in surrounding
     assert "\n\nAfter the map." in surrounding
-
 
 
 def test_sanitize_expanded_wikitext_normalizes_nbsp_only_table_cells() -> None:

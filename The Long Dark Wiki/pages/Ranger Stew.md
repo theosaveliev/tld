@@ -51,10 +51,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Ranger Stew** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Pot](./Cooking%20Pot.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 In order to craft this item, the player must visit the [Foreman's Retreat](./Foreman%27s%20Retreat.md) in [Ash Canyon](./Ash%20Canyon.md). It can only be created once its [Recipe Card](./Recipe%20Cards.md) is found. It can spawn in various locations within the first room of the cabin near the kitchenette.
@@ -63,10 +59,6 @@ Ranger Stew produces a [Scent](./Scent.md) which attracts [predators](./Wolf.md)
 
 Ranger Stew is much lighter than the ingredients that go into making it, with the meat alone being over double the weight of the finished stew. As [carrots](./Carrot.md) and [potatoes](./Potato.md) are generally rather easy to find, this makes it one of the easier foods to cook in the game. Its increased fatigue, together with instant condition recovery and improved rest, make it best suited for consumption at the end of a long day.
 
-<!-- #Effects -->
-​
-
-<!-- #effects -->
 ## Effects
 
 - +10% [Condition](./Condition.md) (instant)
@@ -74,10 +66,6 @@ Ranger Stew is much lighter than the ingredients that go into making it, with th
 - 3 hours of [Improved Rest](./Improved%20Rest.md) (+1% Condition restored for first 3 hours of sleep, or 18 hours)
 - -15% [Fatigue](./Fatigue.md) (instant)
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 **Ranger Stew**
@@ -112,16 +100,6 @@ Ranger Stew is much lighter than the ingredients that go into making it, with th
 
 **Quantity:** 0.50 kg
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

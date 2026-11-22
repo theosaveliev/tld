@@ -30,10 +30,6 @@
 
 It is found on a the refrigerator inside the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) house.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Neighbour's Note**_
@@ -44,26 +40,12 @@ We found Molly! Alice was so relieved. Thanks for helping us look. Looks like th
 
 -- John
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 Neighbour's Note displays a different physical model compared to the one that appears in the Collections menu. as displayed below.
 
 ![Hymnal icon](../assets/Hymnal_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

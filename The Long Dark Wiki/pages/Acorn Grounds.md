@@ -35,10 +35,6 @@
 
 **Item key:** GAMEPLAY\_AcornGrounds
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 **Acorn Grounds** are produced from grinding Cooked Acorns with a [Heavy Hammer](./Heavy%20Hammer.md).
@@ -47,10 +43,6 @@
 
 Acorn Grounds can be used to make [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md), or can be used as an ingredient to make several Recipes.
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 **Acorn Grounds**
@@ -77,31 +69,17 @@ Acorn Grounds can be used to make [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Cof
 
 **Quantity:** 1
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Acorn Bannock](./Acorn%20Bannock.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
-| [Acorn Pancakes](./Acorn%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.05 Kg × [Maple Syrup](./Maple%20Syrup.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
-| [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
-| [Lily's Pancakes](./Lily%27s%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.05 kg × [Maple Syrup](./Maple%20Syrup.md)<br>- 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
-| [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 4 × [Reishi Mushroom](./Reishi%20Mushroom.md)<br>- 2 × [Burdock Root](./Burdock%20Root.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
-| [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)<br>- 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)<br>- 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+| [Acorn Bannock](./Acorn%20Bannock.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
+| [Acorn Pancakes](./Acorn%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) - 0.05 Kg × [Maple Syrup](./Maple%20Syrup.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
+| [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Lily's Pancakes](./Lily%27s%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
+| [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) - 4 × [Reishi Mushroom](./Reishi%20Mushroom.md) - 2 × [Burdock Root](./Burdock%20Root.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.01 kg × [Salt](./Salt.md) |
+| [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) - 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) - 1 × [Acorn Grounds](./Acorn%20Grounds.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.01 kg × [Salt](./Salt.md) |
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

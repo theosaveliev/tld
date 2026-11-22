@@ -25,20 +25,10 @@ Episode
 
 **Region:** [Blackrock Region](./Blackrock.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Mathis](./Mathis.md)<br>[Franklin](./Franklin.md)<br>[Vachon](./Vachon.md)<br>[Heller](./Heller.md)<br>[Jace](./Jace.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md) [Franklin](./Franklin.md) [Vachon](./Vachon.md) [Heller](./Heller.md) [Jace](./Jace.md)
 
 This is the transcript for Chapter 1 [Blackrock Blues](./Blackrock%20Blues.md) for [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
-<!-- #prison_opening_sequence -->
-​
-
-<!-- #Prison_Opening_Sequence -->
-​
-
-<!-- #Prison_opening_sequence -->
-​
-
-<!-- #prison-opening-sequence -->
 ## Prison Opening Sequence
 
 _Mackenzie awakes in a bed within a prison cell, his head aching from the blow Mathis gave it. A voice rings out from the nearby cell._
@@ -287,19 +277,6 @@ _Vachon closes the door and locks it, with Mackenzie shivering and turning aroun
 
 Mackenzie: "Ah, brutal, deadly cold. How I've missed you."
 
-<!-- #find_medical_supplies_for_the_warden. -->
-​
-
-<!-- #Find_Medical_Supplies_for_the_Warden. -->
-​
-
-<!-- #Find_medical_supplies_for_the_warden. -->
-​
-
-<!-- #Find_Medical_Supplies_For_The_Warden. -->
-​
-
-<!-- #find-medical-supplies-for-the-warden -->
 ## Find Medical Supplies for the Warden.
 
 _Mackenzie makes his way to the infirmary, but finds the front doors locked_
@@ -386,16 +363,6 @@ _Mackenzie hangs up the phone._
 
 Mackenzie: "Well. That was weird."
 
-<!-- #track_down_the_prison_truck_and_medicine. -->
-​
-
-<!-- #Track_down_the_prison_truck_and_medicine. -->
-​
-
-<!-- #Track_Down_The_Prison_Truck_And_Medicine. -->
-​
-
-<!-- #track-down-the-prison-truck-and-medicine -->
 ## Track down the prison truck and medicine.
 
 _Mackenzie goes to the front gate and unlocks it with the key he found. Inside he finds a [Weapon Locker](./Weapon%20Locker.md) containing supplies, and [Noisemakers](./Noisemaker.md)_
@@ -412,19 +379,6 @@ Mackenzie: "Looks like someone's been here recently."
 
 _He follows the trail of blood in the snow, and finds a [Dead Prison Guard](./Dead%20Prison%20Guard.md) being eaten by a Wolf near a cave. Dispatching it, Mackenzie finds the [Blackrock Infirmary Medication](./Blackrock%20Infirmary%20Medication.md) in a nearby [First Aid Kit](./First%20Aid%20Kit.md) and returns to the Prison._
 
-<!-- #return_to_blackrock. -->
-​
-
-<!-- #Return_to_Blackrock. -->
-​
-
-<!-- #Return_to_blackrock. -->
-​
-
-<!-- #Return_To_Blackrock. -->
-​
-
-<!-- #return-to-blackrock -->
 ## Return to Blackrock.
 
 _If the player explores the region, Mackenzie will refuse to cross certain areas. The player tries to cross [Narrow Bridge](./Narrow%20Bridge.md) early, Mackenzie will refuse to cross and say_

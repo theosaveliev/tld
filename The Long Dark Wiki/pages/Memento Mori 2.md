@@ -28,26 +28,12 @@
 
 **Memento More 2** is a [Collectibles](./Collectibles.md) found in the [Challenge](./Challenge.md) [As the Dead Sleep](./As%20the%20Dead%20Sleep.md). It is generated in the player's inventory as a note after visiting the second grave.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Memento Mori 2**_
 
 We were all so cold. More than we could take. No escape from it. Please forgive me.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 UPDATE **10 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**

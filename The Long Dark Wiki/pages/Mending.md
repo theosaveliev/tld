@@ -20,16 +20,6 @@
 
 ![Mending](../assets/Mending.png) **Mending** is a Survival [Skill](./Skills.md) that is used to repair equipment, such as [Clothing](./Clothing.md) and certain [Tools](./Tools.md). Mending also has a large variety of training options relative to most other skills due to the number of types of clothing that can be repaired.
 
-<!-- #repairable_items -->
-​
-
-<!-- #Repairable_Items -->
-​
-
-<!-- #Repairable_items -->
-​
-
-<!-- #repairable-items -->
 ## Repairable Items
 
 The following items can be repaired with the Mending skill:
@@ -40,16 +30,6 @@ The following items can be repaired with the Mending skill:
 
 Ruined Clothing cannot be repaired, only harvested for materials. The Mending skill does not lower clothing crafting times or increase when crafting clothing.
 
-<!-- #how_to_repair_clothing -->
-​
-
-<!-- #How_to_repair_clothing -->
-​
-
-<!-- #How_To_Repair_Clothing -->
-​
-
-<!-- #how-to-repair-clothing -->
 ## How to repair clothing
 
 Mending is the skill used to repair Clothing and Bedrolls in _[The Long Dark](./The%20Long%20Dark.md); a_s the player successfully repairs items, their skill in mending increases. Clothing requires a [Sewing Kit](./Sewing%20Kit.md) or [Fishing Tackle](./Fishing%20Tackle.md), resources the item is made out of (e.g. [Cloth](./Cloth.md) or [Cured Leather](./Cured%20Leather.md)), and sufficient light in order to begin repairs (daylight, full moonlight, [artificial lighting](./Aurora.md) or an active [Fire](./Fire.md)/[Storm Lantern](./Storm%20Lantern.md)).
@@ -58,10 +38,6 @@ To repair a piece of clothing select the item the backpack or the worn clothing 
 
 Failing to repair results in the materials used in the repair to be wasted, but causes no additional condition loss to the item. Repairing clothing successfully or failing causing condition loss to the Sewing Kit/Fishing Tackle used.
 
-<!-- #Equipment -->
-​
-
-<!-- #equipment -->
 ## Equipment
 
 A tool is required to repairing Clothing. Sewing Kits can be found by looting. Fishing Tackle can be found or crafted from [Hook](./Hook.md) and [Line](./Line.md). Fishing Tackle is 100% slower (twice as long) to repair than using Sewing Kits. Some items such as [Crampons](./Crampons.md) and [Improvised Crampons](./Improvised%20Crampons.md) required Scrap Metal and tools to fix.
@@ -73,16 +49,6 @@ A tool is required to repairing Clothing. Sewing Kits can be found by looting. F
 | [Simple Tools icon](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md) |
 | [Quality Tools icon](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md) |
 
-<!-- #repair_materials -->
-​
-
-<!-- #Repair_Materials -->
-​
-
-<!-- #Repair_materials -->
-​
-
-<!-- #repair-materials -->
 ## Repair Materials
 
 | Image | Item | Method |
@@ -101,30 +67,16 @@ A tool is required to repairing Clothing. Sewing Kits can be found by looting. F
 
 _Note_: Fresh Animal hides must be [cured](./Curing.md) before they can be used in crafting/repair. Hides are cured by dropping/placing them indoors (e.g. inside of a house) or sufficiently deep [Warm Cave](./Warm%20Cave.md). If a hide is curing, it will display "X% cured", which will increase over time. Hides do not cure inside of containers or in the player's inventory.
 
-<!-- #skill_levels -->
-​
-
-<!-- #Skill_levels -->
-​
-
-<!-- #Skill_Levels -->
-​
-
-<!-- #skill-levels -->
 ## Skill levels
 
 Mending skill is increased by successfully repairing an article of Clothing (1 point), a Bedroll (1 point), or finishing a [Research Book](./Research%20Book.md) "_[A Sewing Primer](./A%20Sewing%20Primer.md)"_ (10 points, for 5 hours of reading).
 
 Once enough skill points are achieved, a new skill level is reached.
 
-&lt;table-progress-tracking table-id="6" unique-column-index="1"&gt;
-
 | Level | Skill points needed | Points to next level | Effects | Flavor text |
 | --- | --- | --- | --- | --- |
-| 1 | 0 | 25 | - Basic mending skill<br>- 50% chance of successful repair | You have little knowledge or skill with mending cloth items. Although you can make basic repairs, your use of a sewing kit is clumsy and slow |
-| 2 | 25 | 50 | - 65% chance of successful repair<br>- Repair time decreased by 10% | Your sewing skills are improving. You are now making fewer mistakes and making your repairs a little more speedily. |
-| 3 | 75 | 75 | - 75% chance of successful repair<br>- Repair time decreased by 15%<br>- 10% greater item condition increase | You're getting good at mending cloth items. Your repairs are faster than before and more efficient. Mistakes are rare. |
-| 4 | 150 | 200 | - 85% chance of successful repair<br>- Repair time decreased by 25%<br>- 15% greater item condition increase<br>- 25% reduction of Sewing kit wear | An expert with a needle and thread. Your sewing skills allow you to keep your clothing in top condition using less time and less resources than before. |
-| 5 | 350 | Max level | - 100% chance of successful repair<br>- Repair time decreased by 40%<br>- 25% greater item condition increase<br>- 35% reduction of Sewing kit wear | You have mastered the use of a needle and thread. You are fast, efficient and repair cloth items with ease. |
-
-&lt;/table-progress-tracking&gt;
+| 1 | 0 | 25 | - Basic mending skill - 50% chance of successful repair | You have little knowledge or skill with mending cloth items. Although you can make basic repairs, your use of a sewing kit is clumsy and slow |
+| 2 | 25 | 50 | - 65% chance of successful repair - Repair time decreased by 10% | Your sewing skills are improving. You are now making fewer mistakes and making your repairs a little more speedily. |
+| 3 | 75 | 75 | - 75% chance of successful repair - Repair time decreased by 15% - 10% greater item condition increase | You're getting good at mending cloth items. Your repairs are faster than before and more efficient. Mistakes are rare. |
+| 4 | 150 | 200 | - 85% chance of successful repair - Repair time decreased by 25% - 15% greater item condition increase - 25% reduction of Sewing kit wear | An expert with a needle and thread. Your sewing skills allow you to keep your clothing in top condition using less time and less resources than before. |
+| 5 | 350 | Max level | - 100% chance of successful repair - Repair time decreased by 40% - 25% greater item condition increase - 35% reduction of Sewing kit wear | You have mastered the use of a needle and thread. You are fast, efficient and repair cloth items with ease. |

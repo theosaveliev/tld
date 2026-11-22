@@ -24,10 +24,6 @@ Has a bed
 
 Has a workbench
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Farmstead is found at the back of a dead orchard, near the side of the river and at the end of a long driveway off the main road (a car and a wooden arch mark the entrance to down the path, which is lined with telephone poles). The location consists of a derelict barn, a grain silo, and a large farmhouse with a basement. The silo cannot be entered. There is also an abandoned [Car](./Car.md) on the property. Some distance behind the farmstead is another broken stable with a chance to spawn a [Hunting Rifle](./Hunting%20Rifle.md), as well as usually having a [Frozen Corpse](./Frozen%20Corpse.md) and a small amount of supplies.
@@ -42,16 +38,6 @@ It is a tactical choice for a base because of the size, the large amount of loot
 
 Be wary of bears near this location, as there is a den not very far away and the bear tends to wander. Sometimes, there can be **two** bears patrolling around the area.
 
-<!-- #story_mode -->
-​
-
-<!-- #Story_Mode -->
-​
-
-<!-- #Story_mode -->
-​
-
-<!-- #story-mode -->
 ## Story Mode
 
 ***Spoilers\***
@@ -62,10 +48,6 @@ The man is dead as of Episode 3, and his corpse may be found in the farmstead ba
 
 In the story, most of the house is locked and inaccessible for much of the game. The basement may be accessed after the initial opening cutscenes, however.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 Before the [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) update, the farmhouse held a children's playroom upstairs, complete with a crib, toy blocks, and a toy tractor. This was removed because it most likely conflicted with Molly's backstory.

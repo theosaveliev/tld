@@ -70,28 +70,14 @@ _For the cooked version, see [Rockfish (Cooked)](./Rockfish%20%28Cooked%29.md)._
 
 Rockfish can be harvested to obtain [Fishing Bait](./Fishing%20Bait.md), yielding 3 units per kilogram harvested.
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Dockworker's Pie](./Dockworker%27s%20Pie.md) | None | - 2 × [Potato](./Potato.md)<br>- 0.50 kg × [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md)<br>- 0.50 kg × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
-| [Mounted Rockfish](./Mounted%20Rockfish.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) |
+| [Dockworker's Pie](./Dockworker%27s%20Pie.md) | None | - 2 × [Potato](./Potato.md) - 0.50 kg × [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) - 0.50 kg × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.01 kg × [Salt](./Salt.md) |
+| [Mounted Rockfish](./Mounted%20Rockfish.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) - 1 × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) |
 | [Rockfish (Cooked)](./Rockfish%20%28Cooked%29.md) | None | - 1.00 kg × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) |
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

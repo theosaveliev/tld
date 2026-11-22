@@ -14,12 +14,12 @@
 - [Flora](#flora)
 - [Maps](#maps)
 
-![A clickable map of Lower Great Bear Island](../assets/Lower_Great_Bear_Map_2024.png)
+![A clickable map of Lower Great Bear Island.](../assets/Lower_Great_Bear_Map_2024.png)
 
 - [Broken Railroad](./Broken%20Railroad.md)
 - [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 - [Mountain Town](./Mountain%20Town.md)
-- [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
+- [Mystery Lake)](./Mystery%20Lake%20%28region%29.md)
 - [The Ravine](./The%20Ravine.md)
 - [Winding River](./Winding%20River.md)
 - [Pleasant Valley](./Pleasant%20Valley.md)
@@ -32,14 +32,14 @@
 - [Blackrock](./Blackrock.md)
 - [Ash Canyon](./Ash%20Canyon.md)
 
-![A clickable map of the Far Territory](../assets/Far_Territory_Part_5_Map.jpg)
+![A clickable map of the Far Territory.](../assets/Far_Territory_Part_5_Map.jpg)
 
 - [Forsaken Airfield](./Forsaken%20Airfield.md)
 - [Zone of Contamination](./Zone%20of%20Contamination.md)
 - [Transfer Pass](./Transfer%20Pass.md)
 - [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 
-**Great Bear Island** is a fictional island that is the main setting of [_The Long Dark_](./The%20Long%20Dark.md). The Island is geographically located off the northern-western coast of mainland [Canada](./The%20Collapse.md), and is entirely surrounded by the Pacific Ocean. It is also located inside the [Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire), resulting a higher than average amount of earthquakes.
+ **Great Bear Island**is a fictional island that is the main setting of [_The Long Dark_](./The%20Long%20Dark.md). The Island is geographically located off the northern-western coast of mainland [Canada](./The%20Collapse.md), and is entirely surrounded by the Pacific Ocean. It is also located inside the [Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire), resulting a higher than average amount of earthquakes.
 
  The Island is inspired by the real world [Vancouver Island](https://en.wikipedia.org/wiki/Vancouver_Island).
 

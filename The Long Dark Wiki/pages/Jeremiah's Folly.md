@@ -26,7 +26,7 @@
 
 **Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) [Old Bear](./Old%20Bear.md)
 
 **Template:spoiler**
 > **If you don't kill the Old Bear, you'll never make it out of Mystery Lake. Finish what Jeremiah started.**
@@ -38,20 +38,12 @@
 
 This mission was poorly received due to its unfair and confusing method of tracking the [Old Bear](./Old%20Bear.md), and has since been replaced by the mission [What One Man Can Do](./What%20One%20Man%20Can%20Do.md). Chasing the Old Bear with a Rifle was kept in the Challenge [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md) however.
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Use your map to track the bear to his favourite haunts in Mystery Lake.
   - [0/6 Bear Encounters]
 - Bring The Old Bear's Ear back to Jeremiah, as proof of your hunting prowess.
 
-<!-- #Walkthrough -->
-​
-
-<!-- #walkthrough -->
 ## Walkthrough
 
 | Mission details — Mission length | Mission details — Medium |
@@ -61,19 +53,6 @@ This mission was poorly received due to its unfair and confusing method of track
 
 After finishing Jeremiah's Survival School, Mackenzie is now eager to finally leave Mystery Lake in search of Astrid. Jeremiah reels him back in for one more task however, to kill the Old Bear. Mackenzie finally states he has enough of this, as he has Astrid to find, but Jeremiah says that there's something bigger at stake, bigger than Mackenzie finding Astrid, bigger than Jeremiah, and it all begins with killing the Old Bear. Jeremiah then commands Mackenzie to use himself as bait, as bears can smell fresh blood over 20 miles away, and then Mackenzie will be able to take the Old Bear once and for all. Mackenzie agrees to help the crazy trapper one last time, grabs his rifle, makes his way to the door, and then turns around, cutting his left hand with [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) and showing his hand to Jeremiah.
 
-<!-- #find_and_kill_the_old_bear -->
-​
-
-<!-- #Find_and_kill_the_Old_Bear -->
-​
-
-<!-- #Find_and_kill_the_old_bear -->
-​
-
-<!-- #Find_And_Kill_The_Old_Bear -->
-​
-
-<!-- #find-and-kill-the-old-bear -->
 ### Find and kill the Old Bear
 
 After the cutscene ends, IMMEDIATLY arm yourself with the Hunting Rifle, as the Old Bear will be outside the Trapper's Homestead the moment you step outside. There is no warning for this, so to avoid being mauled, have your rifle ready, remove any clothing you don't want ruined, and have some [Bandages](./Bandage.md) on stand by, and make sure you are fully rested for what is to come. You may also notice that 8 [Rifle Ammunition](./Rifle%20Ammunition.md) has been added to your inventory.
@@ -107,60 +86,20 @@ Jeremiah finally tells Mackenzie how to escape the region, go through the guts o
 
 Mackenzie is bewildered as to why Jeremiah didn't just tell him this before, considering how easy this task sounds. This is when Jeremiah reveals that the whole plot to kill the Old Bear was only to prove that Mackenzie was strong enough to reach Perseverance Mills, with a message in tow; "Wintermute." The Trapper begs Mackenzie to find someone living in a cabin in the hills near the town named [Atwood](./Atwood.md), as this message is of utmost importance that it gets out, to the point where Jeremiah prepares to leave the cabin in his injured state to deliver it himself before collapsing. Mackenzie agrees to take the message with him and Jeremiah gives Mackenzie the code to unlocking the powered door inside the Carter Dam, 7611. Mackenzie asks if the trapper needs any more help before he leaves, but Jeremiah declines, wishing Mackenzie that he hopes "She has more sense than you." Mackenzie doesn't remember revealing that his friend he is searching for was a she, but the coy trapper deduced that due to Mackenzie's wedding ring and the look in his eye when talking about her, his friend must have been a woman. Mackenzie tells the hermit to take care of himself, before leaving with the door closing behind him. Jeremiah then states that he has his own path to tread, before getting out of bed and opening a panel in the floorboards containing a ham radio, and flipping the power switch on it.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 [Jeremiah's Folly/Transcript](./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md)
 
-<!-- #differences_from_redux_episode_2 -->
-​
-
-<!-- #Differences_from_Redux_Episode_2 -->
-​
-
-<!-- #Differences_from_redux_episode_2 -->
-​
-
-<!-- #Differences_From_Redux_Episode_2 -->
-​
-
-<!-- #differences-from-redux-episode-2 -->
 ## Differences from Redux Episode 2
 
 Several plot points and locations have been replaced/altered since the Redux re-release of Episode 2:
 
-<!-- #plot_points_and_gameplay_changes -->
-​
-
-<!-- #Plot_Points_and_Gameplay_Changes -->
-​
-
-<!-- #Plot_points_and_gameplay_changes -->
-​
-
-<!-- #Plot_Points_And_Gameplay_Changes -->
-​
-
-<!-- #plot-points-and-gameplay-changes -->
 ### Plot Points and Gameplay Changes
 
 - This entire mission was cut from the game, and was instead replaced by the mission [What One Man Can Do](./What%20One%20Man%20Can%20Do.md). Rather than hunting the Old Bear, the Old Bear now hunts you, before Mackenzie finds the [Bear Spear](./Bear%20Spear.md) and turns the tables on the Old Bear.
 - [Astrid Greenwood](./Astrid%20Greenwood.md) would be the one to use the [Signal Hill](./Signal%20Hill.md) to get a message out to [Perseverance Mills](./Perseverance%20Mills.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md)
 - After Mackenzie leaves, Jeremiah opens a panel in the floorboards containing a ham radio. This plot point was reworked into the open, with the radio being present from the start of the Redux Episode 2 and serving as the way that Jeremiah originally tries to get the message Wintermute out.
 
-<!-- #game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #game-history -->
 ## Game History
 
 \* UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

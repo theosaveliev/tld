@@ -25,20 +25,10 @@
 
 **Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md)
 
 This is the transcript for Chapter 3 [Survival School (Predux)](./Survival%20School%20%28Predux%29.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
-<!-- #opening_conversation -->
-​
-
-<!-- #Opening_conversation -->
-​
-
-<!-- #Opening_Conversation -->
-​
-
-<!-- #opening-conversation -->
 ## Opening conversation
 
 CHAPTER THREE
@@ -223,22 +213,6 @@ Mackenzie **(Text)**: "Let's talk about some survival skills."
 
 Jeremiah **(Text)**: "Survival takes focus. We'll continue when you're done with your current lesson."
 
-<!-- #learn_to_craft_fishing_tackle_then_catch_fish_from_mystery_lake. -->
-​
-
-<!-- #Learn_to_craft_Fishing_Tackle,_then_catch_fish_from_Mystery_Lake. -->
-​
-
-<!-- #learn_to_craft_fishing_tackle,_then_catch_fish_from_mystery_lake. -->
-​
-
-<!-- #Learn_to_craft_fishing_tackle,_then_catch_fish_from_mystery_lake. -->
-​
-
-<!-- #Learn_To_Craft_Fishing_Tackle,_Then_Catch_Fish_From_Mystery_Lake. -->
-​
-
-<!-- #learn-to-craft-fishing-tackle-then-catch-fish-from-mystery-lake -->
 ## Learn to craft Fishing Tackle, then catch fish from Mystery Lake.
 
 - SURVIVAL SCHOOL: FISHING
@@ -271,22 +245,6 @@ _Mackenzie heads to the [Camp Office](./Camp%20Office.md) and crafts a Fishing T
 
 Jeremiah **(Text)**: "You know what you need to know about Ice Fishing now. Not much more that I can tell you."
 
-<!-- #learn_to_find_track_shoot_and_butcher_a_deer. -->
-​
-
-<!-- #Learn_to_find,_track,_shoot,_and_butcher_a_Deer. -->
-​
-
-<!-- #learn_to_find,_track,_shoot,_and_butcher_a_deer. -->
-​
-
-<!-- #Learn_to_find,_track,_shoot,_and_butcher_a_deer. -->
-​
-
-<!-- #Learn_To_Find,_Track,_Shoot,_And_Butcher_A_Deer. -->
-​
-
-<!-- #learn-to-find-track-shoot-and-butcher-a-deer -->
 ## Learn to find, track, shoot, and butcher a Deer.
 
 - SURVIVAL SCHOOL: HUNTING
@@ -323,22 +281,6 @@ _Mackenzie heads to the [Unnamed Pond](./Unnamed%20Pond.md), kills a [Deer](./De
 
 Jeremiah **(Text)**: "I think you've shot enough deer for one day. You're done with that."
 
-<!-- #learn_to_mend_and_maintain_clothing._itll_save_your_life_some_day. -->
-​
-
-<!-- #Learn_to_mend_and_maintain_clothing._It'll_save_your_life_some_day. -->
-​
-
-<!-- #learn_to_mend_and_maintain_clothing._it'll_save_your_life_some_day. -->
-​
-
-<!-- #Learn_to_mend_and_maintain_clothing._it'll_save_your_life_some_day. -->
-​
-
-<!-- #Learn_To_Mend_And_Maintain_Clothing._It'll_Save_Your_Life_Some_Day. -->
-​
-
-<!-- #learn-to-mend-and-maintain-clothing-itll-save-your-life-some-day -->
 ## Learn to mend and maintain clothing. It'll save your life some day.
 
 - SURVIVAL SCHOOL: CLOTHING
@@ -393,22 +335,6 @@ _If the player asks about this lesson again after completing it_
 
 Jeremiah **(Text)**: "Thanks for fixing my coat. That'll do, as far as mending lessons."
 
-<!-- #learn_to_identify_and_harvest_some_of_the_edible_medicinal_flora_native_to_great_bear_island._place_in_the_container_at_jeremiahs_cabin -->
-​
-
-<!-- #Learn_to_identify_and_harvest_some_of_the_edible,_medicinal_flora_native_to_Great_Bear_Island._(Place_in_the_container_at_Jeremiah's_Cabin) -->
-​
-
-<!-- #learn_to_identify_and_harvest_some_of_the_edible,_medicinal_flora_native_to_great_bear_island._(place_in_the_container_at_jeremiah's_cabin) -->
-​
-
-<!-- #Learn_to_identify_and_harvest_some_of_the_edible,_medicinal_flora_native_to_great_bear_island._(place_in_the_container_at_jeremiah's_cabin) -->
-​
-
-<!-- #Learn_To_Identify_And_Harvest_Some_Of_The_Edible,_Medicinal_Flora_Native_To_Great_Bear_Island._(place_In_The_Container_At_Jeremiah's_Cabin) -->
-​
-
-<!-- #learn-to-identify-and-harvest-some-of-the-edible-medicinal-flora-native-to-great-bear-island-place-in-the-container-at-jeremiahs-cabin -->
 ## Learn to identify and harvest some of the edible, medicinal flora native to Great Bear Island. (Place in the container at Jeremiah's Cabin)
 
 - SURVIVAL SCHOOL: HARVESTABLE PLANTS
@@ -441,19 +367,6 @@ _Mackenzie leaves the Trapper's Homestead, finding the necessary amount of plant
 
 Jeremiah **(Text)**: "I suspect you know how to find the plants you need now. Next subject."
 
-<!-- #return_to_jeremiah. -->
-​
-
-<!-- #Return_to_Jeremiah. -->
-​
-
-<!-- #Return_to_jeremiah. -->
-​
-
-<!-- #Return_To_Jeremiah. -->
-​
-
-<!-- #return-to-jeremiah -->
 ## Return to Jeremiah.
 
 _After completing all 4 tasks requested of him, Mackenzie returns to Jeremiah. A 3rd person cutscene begins with Mackenzie walking to Jeremiah_

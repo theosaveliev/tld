@@ -33,26 +33,22 @@ Clothing Slot
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)<br>40 minutes
+**Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) 40 minutes
 
-**Repair:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md),<br>1 × [Cured Gut](./Cured%20Gut.md)<br>125 minutes<br>50% condition
+**Repair:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md), 1 × [Cured Gut](./Cured%20Gut.md) 125 minutes 50% condition
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 “
 
-**Pants crafted from a Wolf hide. Warm and extremely durable.**<br>In-game description
+**Pants crafted from a Wolf hide. Warm and extremely durable.** In-game description
 
 ”
 
 The **Wolfskin Pants** is an article of [Clothing](./Clothing.md) that can be [Crafted](./Crafting.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Blueprint for crafting these pants must first be obtained by trading for the [Wolfskin Pants Blueprint Card](./Wolfskin%20Pants%20Blueprint%20Card.md) from the [Trader](./Trader.md).
@@ -63,10 +59,6 @@ They are also more effective than other pants when wet, due to having higher war
 
 They are warmer and heavier than the [Deerskin Pants](./Deerskin%20Pants.md), and are most useful on [Interloper](./Interloper.md) or [Misery](./Misery.md) given that they outperform [Deerskin pants](./Deerskin%20Pants.md) for warmth, and [Snow Pants](./Snow%20Pants.md) do not spawn.
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Wolfskin Pants**
@@ -83,10 +75,6 @@ They are warmer and heavier than the [Deerskin Pants](./Deerskin%20Pants.md), an
 
 **Quantity:** 4
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![3d model](../assets/Wolfskin_Pants_model.png)

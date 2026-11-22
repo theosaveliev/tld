@@ -37,18 +37,10 @@ Harvest
 
 1-3 [Tinder Plugs](./Tinder%20Plug.md)
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The cardboard box is a cardboard container, coming in various sizes and shapes. Some cardboard boxes may have items hidden inside them, but cardboard boxes cannot be searched. Instead, they must be broken down, similar to [wooden crates](./Crate.md), to access the potential loot inside. However, very few cardboard boxes contain possible loot, and they are usually in very specific locations, so breaking down every cardboard box you see might be a waste of time. Cardboard boxes can be found in almost every [Region](./Region.md) and are mostly present to provide the player with tinder plugs and fill up empty space in a room or outdoor setting.
 
-<!-- #Variants -->
-​
-
-<!-- #variants -->
 ## Variants
 
 There are several variants of cardboard box: small, large, and flat.
@@ -59,30 +51,10 @@ There are several variants of cardboard box: small, large, and flat.
 - Flat boxes are flat pieces of cardboard, usually found leaning against a wall or on the floor. Loot can sometimes be found hidden underneath these boxes. The amount of tinder plugs acquired when breaking one down varies on its size.
 - Torn boxes are flat pieces of cardboard that are frayed and found on the ground. They generate 1-2 plugs.
 
-<!-- #breaking_down -->
-​
-
-<!-- #Breaking_Down -->
-​
-
-<!-- #Breaking_down -->
-​
-
-<!-- #breaking-down -->
 ## Breaking Down
 
 All cardboard boxes can be broken down, yielding 1-3 [Tinder Plugs](./Tinder%20Plug.md). They can be broken down by hand, or using a [Hunting Knife](./Hunting%20Knife.md), to break them down faster. Large cardboard boxes yield 3 tinder plugs and take 27 minutes to harvest. (Add other times here)
 
-<!-- #hidden_loot -->
-​
-
-<!-- #Hidden_Loot -->
-​
-
-<!-- #Hidden_loot -->
-​
-
-<!-- #hidden-loot -->
 ## Hidden Loot
 
 There are only a few places were breaking down these boxes can reveal potential loot, these include:

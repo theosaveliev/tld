@@ -46,16 +46,6 @@ Harvest
 
 The crate is a wooden container which is used to store items. When a crate is broken down, it yields Reclaimed Wood and whatever contents may be inside. Crates are an excellent starter item, if any are found. Crates can be harvested with bare hands, with a hatchet, or with a heavy hammer.
 
-<!-- #crates_containing_loot -->
-​
-
-<!-- #Crates_containing_loot -->
-​
-
-<!-- #Crates_Containing_Loot -->
-​
-
-<!-- #crates-containing-loot -->
 ## Crates containing loot
 
 Crates near can sometimes hide items inside that can be obtained from harvesting the crate, such as [Accelerant](./Accelerant.md) and [MRE](./Military-Grade%20MRE.md).
@@ -71,16 +61,6 @@ Examples of locations where crates are known to contain loot:
 - [Timberwolf Mountain](./Timberwolf%20Mountain.md)
   - [Tail Section](./Tail%20Section.md)
 
-<!-- #large_green_crate -->
-​
-
-<!-- #Large_Green_Crate -->
-​
-
-<!-- #Large_green_crate -->
-​
-
-<!-- #large-green-crate -->
 ## Large Green Crate
 
 | Reclaimed Wood | Time | Calories | Condition of Tool |
@@ -90,19 +70,6 @@ Examples of locations where crates are known to contain loot:
 | 6 | 58 minutes | 176 | -3% Improvised Hatchet |
 | 6 | 1 hour 8 minutes | 202 | -0.5% Heavy Hammer |
 
-<!-- #medium_and_small_green_crate -->
-​
-
-<!-- #Medium_and_Small_Green_Crate -->
-​
-
-<!-- #Medium_and_small_green_crate -->
-​
-
-<!-- #Medium_And_Small_Green_Crate -->
-​
-
-<!-- #medium-and-small-green-crate -->
 ## Medium and Small Green Crate
 
 | Reclaimed Wood | Time | Calories | Condition of Tool |
@@ -112,16 +79,6 @@ Examples of locations where crates are known to contain loot:
 | 4 | 39 mintues | 117 | -3% Improvised Hatchet |
 | 4 | 45 minutes | 135 | -0.5% Heavy Hammer |
 
-<!-- #small_wooden_crate -->
-​
-
-<!-- #Small_Wooden_Crate -->
-​
-
-<!-- #Small_wooden_crate -->
-​
-
-<!-- #small-wooden-crate -->
 ## Small Wooden Crate
 
 | Reclaimed Wood | Time | Calories | Condition of Tool |
@@ -131,16 +88,6 @@ Examples of locations where crates are known to contain loot:
 | 1 | 10 minutes | 29 | -3% Improvised Hatchet |
 | 1 | 11 minutes | 34 | -0.5% Heavy Hammer |
 
-<!-- #wooden_coal_crate -->
-​
-
-<!-- #Wooden_Coal_Crate -->
-​
-
-<!-- #Wooden_coal_crate -->
-​
-
-<!-- #wooden-coal-crate -->
 ## Wooden Coal Crate
 
 | Reclaimed Wood | Time | Calories | Condition of Tool |

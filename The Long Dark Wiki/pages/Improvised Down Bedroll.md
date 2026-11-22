@@ -22,9 +22,9 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Warmth bonus:** [Temp icon](../assets/Temp_icon.png)8.0 °C(14.4 °F)
 
-**Harvest:** 10 × [Cloth](./Cloth.md) 5 × [Ptarmigan Down](./Ptarmigan%20Down.md)<br>90 minutes
+**Harvest:** 10 × [Cloth](./Cloth.md) 5 × [Ptarmigan Down](./Ptarmigan%20Down.md) 90 minutes
 
-**Repair:** 2 × [Cloth](./Cloth.md)<br>5 × [Ptarmigan Down](./Ptarmigan%20Down.md)<br>30% Condition<br>45 mins
+**Repair:** 2 × [Cloth](./Cloth.md) 5 × [Ptarmigan Down](./Ptarmigan%20Down.md) 30% Condition 45 mins
 
 > “__An ordinary Bedroll, but stuffed to bursting with harvested down feathers. Toasty. __”
 >
@@ -34,10 +34,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 The Down Bedroll weighs 0.10 kg more than a regular [Bedroll](./Bedroll.md) and is harder to repair, requiring [Ptarmigan Down](./Ptarmigan%20Down.md) in addition to [Cloth](./Cloth.md), but is also significantly warmer, making it a good alternative to the regular Bedroll.
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 The Improvised Down Bedroll takes an ordinary [Bedroll](./Bedroll.md) and stuffs it full of Ptarmigan Down feathers, resulting in a base warmth increase of the Bedroll by 3°C at 100% (for a total of 8°C). The weight of the Bedroll also increases, from 1 kg to 1.1 kg.
@@ -66,15 +62,9 @@ Note that a completely ruined [Bedroll](./Bedroll.md) (0%) can still be crafted 
 
 **Quantity:** 1
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - The Improvised Down Bedroll provides the same Condition gain when sleeping as the Bedroll, providing for example, +27 Condition from a 10 hour sleep on Interloper difficulty. Compared to +32 Condition from beds (may vary) or the [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) over the same sleep period.
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**
   - Added to game.
-
-[ru:Улучшенный пуховый спальный мешок](https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%83%D1%85%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D1%88%D0%BE%D0%BA)

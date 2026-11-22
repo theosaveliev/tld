@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>65% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 65% condition
 
 > “**Basic fleece mitts. Pretty warm, but useless when wet.**”
 >
@@ -36,20 +36,12 @@
 
 **Fleece mittens** are a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Fleece mittens have identical stats to [Driving Gloves](./Driving%20Gloves.md), with the exception of being more waterproof. Fleece mittens can also be repaired with easily obtained [cloth](./Cloth.md) whereas driving gloves require [cured leather](./Cured%20Leather.md).
 
 They should be replaced with [Wool Mittens](./Wool%20Mittens.md) once a pair is found, as they give an extra 15% waterproofing and 0.5°C (0.9°F) warmth bonus for no downsides.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Pre Alpha model.](../assets/Mittens_%28historical%29.png)
@@ -58,16 +50,6 @@ They should be replaced with [Wool Mittens](./Wool%20Mittens.md) once a pair is 
 
 ![Clothing model damaged](../assets/Fleece_Mittens_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

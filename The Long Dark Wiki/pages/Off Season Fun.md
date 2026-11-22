@@ -30,26 +30,12 @@
 
 **Off Season Fun** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found in one of the locked cabins at the [Lake Cabins](./Lake%20Cabins.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Off Season Fun**_
 
 "We're not supposed to go there off-season, but there's amazing hunting to be had near Mystery Lake. The warden usually shuts down the park for the Winter. The cabins are meant for summer use, so bring warm clothes and a heavy sleeping back. We'll break in, bag a few stags, then truck the meat out of there in a couple of weeks. Stan will pick us up along the old coastal highway. Meet me at the lake cabins on November XX. Come alone. Bring beer. There's been logging in the area so stay out of sight."
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

@@ -25,18 +25,10 @@
 
 **Type:** Residential
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 This post office is the only one on all of Great Bear. It is a small building within close reach of the [Milton Credit Union](./Milton%20Credit%20Union.md), the [Bank Manager's House](./Bank%20Manager%27s%20House.md) and [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md). Blue signs at the front and rear of the post office are bilingual - written in both English (_Milton Post Office_) and French (_Bureau de poste de Milton_).
 
-<!-- #Items -->
-​
-
-<!-- #items -->
 ## Items
 
 > “**Margaret -- we have to stop accepting mail at Milton. We have no way of getting it back to the mainland but we can't tell people that, or they'll know we've been holding onto it all this time.**”
@@ -47,18 +39,10 @@ The post office can contain a pair of [Driving Gloves](./Driving%20Gloves.md), a
 
 Despite there being a back-end of the post office, this part of the building is inaccessible, resulting in the building being very small. It's one of a few locations with a radio that enables players to contact the [Trader](./Trader.md#Radio_Locations).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Being a government building, in Canada, they must be labeled with both French and English lettering.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Exterior](../assets/TLD-SS-Milton-PO-ex.jpg)

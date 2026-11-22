@@ -4,7 +4,7 @@
 
 **Landslide (Bleak Inlet)**
 
-[Missing image: Landslide\_Bleak\_Inlet.jpg]<br>_Landslide\_Bleak\_Inlet.jpg_
+[Missing image: Landslide\_Bleak\_Inlet.jpg] _Landslide\_Bleak\_Inlet.jpg_
 
 **Location**
 
@@ -16,10 +16,6 @@
 
 **Type:** Landmark
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The area is a ruined section of the [Great Bear Highway](./Great%20Bear%20Highway.md) (presumably leading to [Coastal Highway](./Coastal%20Highway.md)) and is blocked off by a landslide. Some shelter may be found in a car nearby. Inside this car may spawn the usual loot found in vehicles.

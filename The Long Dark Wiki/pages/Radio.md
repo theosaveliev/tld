@@ -34,24 +34,10 @@ Both can be interacted with, but will do nothing unless an [Aurora](./Aurora.md)
 
 A special yellow radio with an antenna and microphone will appear if the [Trader](./Trader.md) is enabled, and is used to communicate with him.![Tabletop Radio](../assets/Tabletop_Radio.png)
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 Aside from vehicles, the following locations contain a radio:
 
-<!-- #lower_great_bear -->
-​
-
-<!-- #Lower_Great_Bear -->
-​
-
-<!-- #Lower_great_bear -->
-​
-
-<!-- #lower-great-bear -->
 ### Lower Great Bear
 
 - [Milton Credit Union](./Milton%20Credit%20Union.md)

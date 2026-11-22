@@ -32,9 +32,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
 
-**Harvest:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)<br>10 minutes
+**Harvest:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) 10 minutes
 
-**Repair:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md),<br>1 × [Cured Gut](./Cured%20Gut.md)<br>30 minutes<br>30% condition
+**Repair:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md), 1 × [Cured Gut](./Cured%20Gut.md) 30 minutes 30% condition
 
 > “**Handcrafted mitts. They may make you clumsy, but they're very warm. Kind of like wearing a rabbit on your hands.**”
 >
@@ -42,10 +42,6 @@
 
 **Rabbitskin Mitts** are a type of craftable gloves in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Rabbitskin Mitts are very warm and windproof crafted gloves. They can be manufactured by killing rabbits, by using thrown [stones](./Stone.md) to stun them, or [snares](./Snare.md) to capture them the next day.
@@ -54,18 +50,10 @@ They are significantly warmer and more durable than most other gloves, only comp
 
 In [Wintermute](./Wintermute.md), their blueprint is unlocked by snaring a rabbit in [The Basics of Survival](./The%20Basics%20of%20Survival.md) quest.
 
-<!-- #Location -->
-​
-
-<!-- #location -->
 ## Location
 
 As of the [TFTFT part 4 update](./Tales%20from%20the%20Far%20Territory.md), a pair of Rabbitskin mittens may spawn in the control room in the [Concentrator](./Concentrator.md), near the [Miner's Flashlight](./Miner%27s%20Flashlight.md).
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Rabbitskin Mitts**
@@ -82,10 +70,6 @@ As of the [TFTFT part 4 update](./Tales%20from%20the%20Far%20Territory.md), a pa
 
 **Quantity:** 4
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Pre alpha model.](../assets/Rabbitskin_mitts_%28historical%29.png)
@@ -94,16 +78,6 @@ As of the [TFTFT part 4 update](./Tales%20from%20the%20Far%20Territory.md), a pa
 
 ![Clothing model damaged](../assets/Rabbitskin_Mitts_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**

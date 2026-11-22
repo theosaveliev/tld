@@ -18,20 +18,12 @@
 
 The **Carved Wolf Figurine** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A carefully carved wooden figurine of a [Wolf](./Wolf.md), Carved Wolf Figurine can be crafted anywhere by the player, but requires [Woodworking Tools](./Woodworking%20Tools.md).
 
 Once crafted, the item is automatically placed into the player's inventory. It can only be placed on floors or flat surfaces when in Customization Mode. It can later be picked up and placed back into the player's inventory or destroyed (yielding no resources).
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Carved Wolf Figurine**

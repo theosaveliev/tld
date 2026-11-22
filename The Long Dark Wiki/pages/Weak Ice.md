@@ -17,10 +17,6 @@
 
 **Weak Ice** (also known as **Thin Ice**) is an uncommon but dangerous [Environmental Hazard](./Environmental%20Hazard.md) found within some [Regions](./Region.md) of [_The Long Dark_.](./The%20Long%20Dark.md)
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 ![The Weak Ice icon](../assets/Weak_Ice_icon.png)_The Weak Ice icon_ Most of the icy ground of [Great Bear Island](./Great%20Bear%20Island.md) is traversable but some ice sheets are weak and pose a hazard when the survivor moves on them. When standing on thin ice the "Weak Ice" indicator will appear in the center of the screen, a unique sound will play and cracks will form at survivor's feet. If the survivor does not move off the weak ice in time they will fall into the water below.
@@ -31,16 +27,6 @@ While standing on Weak ice the "Weak Ice" indicator is present and a hidden time
 
 Below is a list of locations where Weak Ice is present:
 
-<!-- #ocean_edge -->
-​
-
-<!-- #Ocean_Edge -->
-​
-
-<!-- #Ocean_edge -->
-​
-
-<!-- #ocean-edge -->
 ### Ocean Edge
 
 - [Coastal Highway](./Coastal%20Highway.md)
@@ -48,16 +34,6 @@ Below is a list of locations where Weak Ice is present:
 - [Desolation Point](./Desolation%20Point.md)
 - [Bleak Inlet](./Bleak%20Inlet.md)
 
-<!-- #Ponds/Rivers -->
-​
-
-<!-- #ponds/rivers -->
-​
-
-<!-- #Ponds/rivers -->
-​
-
-<!-- #pondsrivers -->
 ### Ponds/Rivers
 
 - [Forlorn Muskeg](./Forlorn%20Muskeg.md)
@@ -66,19 +42,6 @@ Below is a list of locations where Weak Ice is present:
 
 [Beachcombing](./Beachcombing.md) is a mechanic which causes items and points-of-interest to appear along the beaches of coastal regions. These items may be looted freely, but may put the survivor at risk of Weak Ice.
 
-<!-- #falling_through_weak_ice -->
-​
-
-<!-- #Falling_through_Weak_Ice -->
-​
-
-<!-- #Falling_through_weak_ice -->
-​
-
-<!-- #Falling_Through_Weak_Ice -->
-​
-
-<!-- #falling-through-weak-ice -->
 ## Falling through Weak Ice
 
 Falling through Weak Ice will result in a fade to black and the player being moved to a nearby safe location to stand. Time will move forward several in-game minutes and a hole will have formed in the ice where they fell initially through.
@@ -92,19 +55,11 @@ Wet clothes are a serious Condition hazard by [Freezing](./Needs.md), this damag
 
 If the survivor falls through Weak Ice, it is recommend to quickly find shelter and build a fire to warm up. Wet Clothing may be dried by being worn or when dropped/placed indoors or near a lit [Campfire](./Campfire.md) or other fire source.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) Part 2 Update added a graphical update to Thin Ice when active as well as the updating the Beachcombing mechanic.
 - In the real world some Weak ice may be traversed by dispersing one's bodyweight such as crawling while prone. This mechanic is not present within _The Long Dark_, and crouching does not affect Weak Ice.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The old warning that showed when stepping over Weak Ice](../assets/Weak_Ice_Old.jpg)

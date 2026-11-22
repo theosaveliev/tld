@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>35% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 35% condition
 
 > “**Crew-neck sweater made of heavy cotton. Will take the edge off on a windy day, but not very warm.**”
 >
@@ -36,10 +36,6 @@
 
 The **Sweatshirt** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A common starting item, the **sweatshirt** has similar, but slightly better stats than the [Hoodie](./Hoodie.md) due to its slightly better wind-proof bonus. However, it is still not very warm, and its wind-proofing is useless if anything is worn over it. As a result, it should be replaced as soon as possible with something warmer.

@@ -22,26 +22,12 @@
 
 The following text is transcribed from the note **Orca Gas Store Notice**, found in the [Orca Gas Station](./Orca%20Gas%20Station.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md). It is found inside the gas station on a corkboard near the register counter.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Orca Gas Store Notice**_
 
 General Notice to Orca Gas locations on Great Bear Island. As we are no longer in a position to ensure adequate and timely supply deliveries from our mainland distribution centres, we regret to inform you that we must reduce the frequency of our supply deliveries to once per quarter. As such, we are relaxing restrictions on using local suppliers. This applies to our remote locations _only\_. All Orca Gas locations on mainland must continue to source their merchandise from approved providers.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

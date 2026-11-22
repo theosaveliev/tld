@@ -28,9 +28,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>20 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 20 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>45 minutes<br>55% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 45 minutes 55% condition
 
 > “**Reinforced, expedition quality wool socks.**”
 >
@@ -38,10 +38,6 @@
 
 **Climbing Socks** are a type of Clothing in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Climbing Socks are the warmest socks, and also have the slowest decay rate of all socks (requiring them to be repaired less often).
@@ -50,16 +46,6 @@ Climbing Socks are the warmest socks, and also have the slowest decay rate of al
 
 ![Clothing model icon damaged](../assets/Climbing_Socks_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

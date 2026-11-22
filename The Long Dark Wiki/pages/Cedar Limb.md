@@ -32,10 +32,6 @@ Yields 3-4 [Cedar Firewood](./Cedar%20Firewood.md), 1 [Tinder Plug](./Tinder%20P
 
 A **Cedar Limb** is one of the many stationary interactable objects found in _The Long Dark_. They respawn randomly in the world over time under trees, making them a renewable [material](./Materials.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 There are two variants of this object: small and large. Both can be turned into [Cedar Firewood](./Cedar%20Firewood.md) and [Tinder Plugs](./Tinder%20Plug.md).
@@ -44,16 +40,6 @@ In addition to Cedar Firewood, these limbs will always yield one [Tinder Plug](.
 
 It's commonly believed that limbs respawn after strong winds or blizzards, but this is untrue. Radial spawns (sticks, branches, coal, stones ect.) simply spawn on a randomized timer, independent of any weather conditions.
 
-<!-- #small_limb -->
-​
-
-<!-- #Small_Limb -->
-​
-
-<!-- #Small_limb -->
-​
-
-<!-- #small-limb -->
 ### Small Limb
 
 Small limbs will provide 3 firewood and 1 and can be cut up using a [Hatchet](./Hatchet.md) (45 min), [Improvised Hatchet](./Improvised%20Hatchet.md) (58 min), or [Hacksaw](./Hacksaw.md) (90 min).
@@ -64,16 +50,6 @@ Small limbs will provide 3 firewood and 1 and can be cut up using a [Hatchet](./
 | 3 / 1 | 58 minutes | 176 | -2% Improvised Hatchet |
 | 3 / 1 | 90 minutes | 270 | -5% Hacksaw |
 
-<!-- #large_limb -->
-​
-
-<!-- #Large_Limb -->
-​
-
-<!-- #Large_limb -->
-​
-
-<!-- #large-limb -->
 ### Large Limb
 
 Large limbs cannot be cut up with a Hacksaw, and take 60 min to harvest with a normal Hatchet, or 78 min with an Improvised Hatchet. Large Cedar Limbs are very rare and only appear in set locations:

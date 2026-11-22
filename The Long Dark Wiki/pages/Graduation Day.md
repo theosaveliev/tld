@@ -10,10 +10,6 @@
 
 **Graduation Day** is a [Wintermute](./Wintermute.md) [Achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) across [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Guide -->
-​
-
-<!-- #guide -->
 ## Guide
 
 This is a side story achievement achieved after finding the following books and completing the following side missions across Episode 1 and 2:
@@ -27,24 +23,10 @@ This is a side story achievement achieved after finding the following books and 
   - [Advanced Guns Guns Guns! (Survival School)](./Advanced%20Guns%20Guns%20Guns!%20%28Survival%20School%29.md)
   - [The Frozen Angler (Survival School)](./The%20Frozen%20Angler%20%28Survival%20School%29.md)
 
-<!-- #Predux -->
-​
-
-<!-- #predux -->
 ## Predux
 
 The achievement is awarded after finishing the mission [Survival School (Predux)](./Survival%20School%20%28Predux%29.md).
 
-<!-- #game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #game-history -->
 ## Game History
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

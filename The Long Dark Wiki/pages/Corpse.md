@@ -20,10 +20,6 @@ The causes of death and identities of frozen corpses are almost universally a my
 
 Occasionally in [Wintermute](./Wintermute.md), a [Dead Prison Guard](./Dead%20Prison%20Guard.md) or dead Convict can be found.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![A corpse inside a Hunting Blind with a hatchet](../assets/Corpse_in_blind.jpg)

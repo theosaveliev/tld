@@ -48,36 +48,22 @@
 
 Starting a Survival Mode game with the Settled Mind [Feat](./Feats.md) selected will automatically prevent [Cabin Fever Risk](./Cabin%20Fever%20Risk.md), and Cabin Fever, from ever developing.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 > “**You've been indoors so long you feel like the walls are closing in. You will be unable to sleep indoors for 24 hours.**”
 >
 > — In-game description
 
-Cabin Fever prevents survivors from [Sleeping](./Sleep.md), Passing Time or [Researching](./Research%20Book.md) indoors for 24 hours. The affliction first appears as "Cabin Fever Risk" if a survivor has spent more than 18.83 hours per day (averaged over the last 6 days) indoors<span id="fnref1"></span>[¹](#fn1). The risk increases by staying indoors until reaching 100% when it is replaced by the affliction Cabin Fever.
+Cabin Fever prevents survivors from [Sleeping](./Sleep.md), Passing Time or [Researching](./Research%20Book.md) indoors for 24 hours. The affliction first appears as "Cabin Fever Risk" if a survivor has spent more than 18.83 hours per day (averaged over the last 6 days) indoors[^1]. The risk increases by staying indoors until reaching 100% when it is replaced by the affliction Cabin Fever.
 
 Cabin Fever Risk can be reduced by spending time outside, whereas full-blown Cabin Fever will expire after 24 hours spent outside.
 
-A grace period for Cabin Fever was introduced in [version 0.326](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.326) during the first 50 days in Voyageur and 25 days in Stalker; there is no risk of cabin fever in Pilgrim, and no grace period in Interloper.<span id="fnref2"></span>[²](#fn2)
+A grace period for Cabin Fever was introduced in [version 0.326](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.326) during the first 50 days in Voyageur and 25 days in Stalker; there is no risk of cabin fever in Pilgrim, and no grace period in Interloper.[^2]
 
 - **Note**: "indoors" includes some locations without a loading transitions to enter them, including the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md), [Pleasant Valley Farmstead's](./Pleasant%20Valley%20Farmstead.md) porch, and the [Lookouts](./Abandoned%20Lookout.md) in [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Coastal Highway](./Coastal%20Highway.md) and [Bleak Inlet](./Bleak%20Inlet.md), and the side passage of the train tunnel in [Far Range Branch Line](./Far%20Range%20Branch%20Line.md).
 
 A reliable way to determine exterior locations is to attempt to create a [Campfire](./Campfire.md), if the error message "CANNOT START CAMPFIRE INDOORS" appears then the location is indoors.
 
-<!-- #special_locations -->
-​
-
-<!-- #Special_Locations -->
-​
-
-<!-- #Special_locations -->
-​
-
-<!-- #special-locations -->
 ### Special Locations
 
 There are also a few exterior buildings that give a warmth bonus and do not progress Cabin Fever despite appearing to be an indoor space:
@@ -95,10 +81,6 @@ The following areas do progress Cabin Fever.
 - The front porch of the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md)
 - The maintenance hallway in the south tunnel in [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
 
-<!-- #Treatment -->
-​
-
-<!-- #treatment -->
 ## Treatment
 
 Cabin Fever and Cabin Fever Risk can be dealt with in a number of ways, even on Interloper (see below for Interloper specific tips).
@@ -119,16 +101,6 @@ Some [Cooking](./Cooking.md) Recipes increases the amount of time considered as 
 | [Prepper's Pie icon](../assets/Prepper%27s_Pie_icon.png) | [Prepper's Pie](./Prepper%27s%20Pie.md) |
 | [Stalker's Pie icon](../assets/Stalker%27s_Pie_icon.png) | [Stalker's Pie](./Stalker%27s%20Pie.md) |
 
-<!-- #Interloper/Misery -->
-​
-
-<!-- #interloper/misery -->
-​
-
-<!-- #Interloper/misery -->
-​
-
-<!-- #interlopermisery -->
 ## Interloper/Misery
 
 On [Interloper](./Interloper.md) or [Misery](./Misery.md) Experience, Cabin Fever Risk can develop immediately since there is no grace period.
@@ -137,16 +109,6 @@ Cars are useful for warding off Cabin Fever, but must be used during the warmest
 
 During late game Interloper, crafted fur clothing are required due to the colder world temperatures, making the rears of [Warm Caves](./Warm%20Cave.md) more effective without risking [Hypothermia](./Hypothermia.md). However if a blizzard occurs inside an outdoors cave, it is possible to freeze full even in high-quality fur clothing and dual bearskin coats, so sleeping/passing time for shorter times is safer, as well as stockpiling hot fuel (sticks, coal) to create a fire if necessary.
 
-<!-- #cabin_fever_emergencies -->
-​
-
-<!-- #Cabin_Fever_Emergencies -->
-​
-
-<!-- #Cabin_fever_emergencies -->
-​
-
-<!-- #cabin-fever-emergencies -->
 ## Cabin Fever Emergencies
 
 In exceptional cases it is possible to get trapped in an indoor area while afflicted with cabin fever, such as in a safe indoor space with a blizzard outside, or becoming trapped in the [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md) middle layer when an aurora ends.
@@ -157,26 +119,12 @@ The main problem of Cabin Fever when trapped indoors can lie purely in gameplay:
 
 [Harvesting](./Harvesting.md) however is also an effective way to make time pass quickly, and is still allowed. In order to not destroy the whole inventory, a player will start to break down any piece of equipment, and then cancel the process before it completes. This can be repeated indefinitely on one single item, ideally passing about 1 hour at a time.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Cabin Fever was first introduced in the [Tireless Menace](https://hinterlandforums.com/forums/topic/10546-the-long-dark-sandbox-updated-to-v321-tireless-menace/) update.
 - When suffering from Cabin Fever Risk, working on an item at a [Work Bench](./Work%20Bench.md)/[Ammunition Work Bench](./Ammunition%20Work%20Bench.md) or reading a [Research Book](./Research%20Book.md) WILL increase the Affliction Risk meter, despite the fact that the survivor is keeping their mind occupied at the time.
-- Cabin Fever is not a diagnosable disorder; however, it can be considered as a syndrome characterized by the overlapping of psychological symptoms that can have real impacts on a person’s behavior and well-being. It’s most often characterized by combinations of boredom, anxiety, irritability, and restlessness. To be restricted indoors and significantly restricted in your choices and activities has been found stressful even for those people used to cold weather.<span id="fnref3"></span>[³](#fn3)
+- Cabin Fever is not a diagnosable disorder; however, it can be considered as a syndrome characterized by the overlapping of psychological symptoms that can have real impacts on a person’s behavior and well-being. It’s most often characterized by combinations of boredom, anxiety, irritability, and restlessness. To be restricted indoors and significantly restricted in your choices and activities has been found stressful even for those people used to cold weather.[^3]
 
-<!-- #game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #game-history -->
 ## Game History
 
 - UPDATE **21 April 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321_%28Tireless_Menace_Update%29)):**
@@ -186,16 +134,10 @@ The main problem of Cabin Fever when trapped indoors can lie purely in gameplay:
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28_%28Steam,_Epic_Games,_Xbox,_PlayStation%29_%28TFTFT_PART_FIVE:_Last_Horizon_Update%29)):**
   - Added the Settled Mind [Feat](./Feats.md) to the game, which eliminates Cabin Fever.
 
-## References
-
-<!-- #footnotes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 ---
 
-1. <span id="fn1"></span>Forum post mentioning tests performed to find exact hour count to trigger CF [https://hinterlandforums.com/forums/topic/13627-snowballs-in-hell/page/15/](https://hinterlandforums.com/forums/topic/13627-snowballs-in-hell/page/15/)[↩︎](#fnref1)
-2. <span id="fn2"></span>_Hinterland Forums_. [HOTFIX! The Long Dark Sandbox v.326](http://hinterlandforums.com/index.php?/topic/10658-hotfix-the-long-dark-sandbox-v326/&do=findComment&comment=63876). Retrieved April 23, 2016.[↩︎](#fnref2)
-3. <span id="fn3"></span>_The Atlantic_. [1](https://www.theatlantic.com/health/archive/2019/01/polar-vortex-stuck-indoors-let-me-out-please/581749/). Retrieved February 2, 2019.[↩︎](#fnref3)
+[^1]: Forum post mentioning tests performed to find exact hour count to trigger CF [https://hinterlandforums.com/forums/topic/13627-snowballs-in-hell/page/15/](https://hinterlandforums.com/forums/topic/13627-snowballs-in-hell/page/15/)
+[^2]: _Hinterland Forums_. [HOTFIX! The Long Dark Sandbox v.326](http://hinterlandforums.com/index.php?/topic/10658-hotfix-the-long-dark-sandbox-v326/&do=findComment&comment=63876). Retrieved April 23, 2016.
+[^3]: _The Atlantic_. [1](https://www.theatlantic.com/health/archive/2019/01/polar-vortex-stuck-indoors-let-me-out-please/581749/). Retrieved February 2, 2019.

@@ -20,28 +20,16 @@
 
 A **Stack of Papers** is a material item used as tinder.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Stacks of papers fill the role of tinder, which is used for [Fire Starting](./Fire%20Starting.md). Stacks of papers are among the heaviest types of tinder, and weigh 0.10 kg per unit. Stacks of papers can be harvested to receive two [Tinder Plugs](./Tinder%20Plug.md), doubling the number of uses while maintaining the same weight. Like all other types of tinder, it does not increase the chance to successfully light a fire.
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Tinder Plug](./Tinder%20Plug.md) | None | - 1 × [Stack of Papers](./Stack%20of%20Papers.md) |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![3D model](../assets/Stack_of_papers.png)

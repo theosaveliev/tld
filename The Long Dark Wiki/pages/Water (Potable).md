@@ -54,10 +54,6 @@ Unsafe water can be created by melting snow at an active fire's Cooking Spot, an
 
 For the effects of drinking water on thirst reduction, see [Thirst](./Thirst.md).
 
-<!-- #Purification -->
-​
-
-<!-- #purification -->
 ## Purification
 
 Unsafe water can be turned into Potable Water through [boiling](./Fire.md#Processing_water) or [purifying](./Water%20Purification%20Tablets.md):
@@ -65,10 +61,6 @@ Unsafe water can be turned into Potable Water through [boiling](./Fire.md#Proces
 - Boiling 1L of Unsafe Water requires 20 minutes at an active fire's Cooking Spot.
 - [Water Purification Tablets](./Water%20Purification%20Tablets.md) can be consumed to convert up to 1L of Unsafe Water into an equivalent amount of Potable Water. They can be found in the "Medical" tab of the Inventory, and then selecting "Use" while carrying them and the Unsafe Water. This sterilization process takes 1 minute (in-game). Alternatively, select "Purify Water" while in the fire menu. Note that a fire/Cooking Spot is not actually required to use purification tablets.
 
-<!-- #Appearance -->
-​
-
-<!-- #appearance -->
 ## Appearance
 
 Water requires no container to carry, and despite displaying as a jug in the inventory, will appear as a water bottle when dropped.
@@ -80,46 +72,38 @@ Water requires no container to carry, and despite displaying as a jug in the inv
 
 Note: Unsafe and Potable water bottles are identical in appearance, and similar in one's inventory. Take care when dropping bottles of Unsafe Water that they are not close to bottles of Potable Water, to prevent accidental drinking.
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Acorn Bannock](./Acorn%20Bannock.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
-| [Acorn Pancakes](./Acorn%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.05 Kg × [Maple Syrup](./Maple%20Syrup.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
-| [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md) | None | - 1 × [Prepared Acorns (Large Portion)](./Prepared%20Acorns%20%28Large%20Portion%29.md)<br>- 0.50L × [Water (Potable)](./Water%20%28Potable%29.md) |
-| [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) | None | - 1 × [Prepared Acorns](./Prepared%20Acorns.md)<br>- 0.25L × [Water (Potable)](./Water%20%28Potable%29.md) |
-| [Bannock](./Bannock.md) | None | - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Birch Bark Tea](./Birch%20Bark%20Tea.md) | None | - 1 × [Prepared Birch Bark](./Prepared%20Birch%20Bark.md)<br>- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
-| [Breyerhouse Pie](./Breyerhouse%20Pie.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)<br>- 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Broth](./Broth.md) | None | - 1.00 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)<br>- 1.50 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.01 kg × [Salt](./Salt.md) |
-| [Burdock Tea](./Burdock%20Tea.md) | None | - 1 × [Prepared Burdock](./Prepared%20Burdock.md)<br>- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
-| [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md)<br>- 4 × [Rose Hip](./Rose%20Hip.md)<br>- 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md)<br>- 0.20 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.10 kg × [Running River Oats](./Running%20River%20Oats.md) |
-| [Coastal Fishcakes](./Coastal%20Fishcakes.md) | None | - 0.50 Kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md)<br>- 2 × [Potato](./Potato.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
-| [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
-| [Cup of Coffee](./Cup%20of%20Coffee.md) | None | - 1 × [Tin of Coffee](./Tin%20of%20Coffee.md)<br>- 0.25 × [Water (Potable)](./Water%20%28Potable%29.md) |
-| [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | None | - 1 × [Herbal Tea](./Herbal%20Tea.md)<br>- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
-| [Dockworker's Pie](./Dockworker%27s%20Pie.md) | None | - 2 × [Potato](./Potato.md)<br>- 0.50 kg × [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md)<br>- 0.50 kg × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
-| [Lily's Pancakes](./Lily%27s%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.05 kg × [Maple Syrup](./Maple%20Syrup.md)<br>- 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
-| [Pancakes](./Pancakes.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.12 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Peach Pie](./Peach%20Pie.md) | None | - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Porridge](./Porridge.md) | None | - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.10 kg × [Running River Oats](./Running%20River%20Oats.md) |
-| [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 4 × [Reishi Mushroom](./Reishi%20Mushroom.md)<br>- 2 × [Burdock Root](./Burdock%20Root.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
-| [Ptarmigan Pie](./Ptarmigan%20Pie.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Rabbit Pie](./Rabbit%20Pie.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Reishi Tea](./Reishi%20Tea.md) | None | - 1 × [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md)<br>- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
-| [Rose Hip Pie](./Rose%20Hip%20Pie.md) | None | - 8 × [Rose Hip](./Rose%20Hip.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Rose Hip Tea](./Rose%20Hip%20Tea.md) | None | - 1 × [Prepared Rose Hips](./Prepared%20Rose%20Hips.md)<br>- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
-| [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)<br>- 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)<br>- 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
-| [Venison Pie](./Venison%20Pie.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Acorn Bannock](./Acorn%20Bannock.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
+| [Acorn Pancakes](./Acorn%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) - 0.05 Kg × [Maple Syrup](./Maple%20Syrup.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
+| [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md) | None | - 1 × [Prepared Acorns (Large Portion)](./Prepared%20Acorns%20%28Large%20Portion%29.md) - 0.50L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) | None | - 1 × [Prepared Acorns](./Prepared%20Acorns.md) - 0.25L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Bannock](./Bannock.md) | None | - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Birch Bark Tea](./Birch%20Bark%20Tea.md) | None | - 1 × [Prepared Birch Bark](./Prepared%20Birch%20Bark.md) - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Breyerhouse Pie](./Breyerhouse%20Pie.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Broth](./Broth.md) | None | - 1.00 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) - 1.50 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.01 kg × [Salt](./Salt.md) |
+| [Burdock Tea](./Burdock%20Tea.md) | None | - 1 × [Prepared Burdock](./Prepared%20Burdock.md) - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) - 4 × [Rose Hip](./Rose%20Hip.md) - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) - 0.20 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.10 kg × [Running River Oats](./Running%20River%20Oats.md) |
+| [Coastal Fishcakes](./Coastal%20Fishcakes.md) | None | - 0.50 Kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) - 2 × [Potato](./Potato.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.01 kg × [Salt](./Salt.md) |
+| [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Cup of Coffee](./Cup%20of%20Coffee.md) | None | - 1 × [Tin of Coffee](./Tin%20of%20Coffee.md) - 0.25 × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | None | - 1 × [Herbal Tea](./Herbal%20Tea.md) - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Dockworker's Pie](./Dockworker%27s%20Pie.md) | None | - 2 × [Potato](./Potato.md) - 0.50 kg × [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) - 0.50 kg × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.01 kg × [Salt](./Salt.md) |
+| [Lily's Pancakes](./Lily%27s%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
+| [Pancakes](./Pancakes.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.12 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Peach Pie](./Peach%20Pie.md) | None | - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Porridge](./Porridge.md) | None | - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.10 kg × [Running River Oats](./Running%20River%20Oats.md) |
+| [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) - 4 × [Reishi Mushroom](./Reishi%20Mushroom.md) - 2 × [Burdock Root](./Burdock%20Root.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.01 kg × [Salt](./Salt.md) |
+| [Ptarmigan Pie](./Ptarmigan%20Pie.md) | None | - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Rabbit Pie](./Rabbit%20Pie.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Reishi Tea](./Reishi%20Tea.md) | None | - 1 × [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md) - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Rose Hip Pie](./Rose%20Hip%20Pie.md) | None | - 8 × [Rose Hip](./Rose%20Hip.md) - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Rose Hip Tea](./Rose%20Hip%20Tea.md) | None | - 1 × [Prepared Rose Hips](./Prepared%20Rose%20Hips.md) - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) - 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) - 1 × [Acorn Grounds](./Acorn%20Grounds.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.01 kg × [Salt](./Salt.md) |
+| [Venison Pie](./Venison%20Pie.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Water (potable), doesn't give a [Warming Up](./Warming%20Up.md) feat when boiled and immediately consumed. This is likely due to in-game balance reasons, as it would take hours for the water to cool down to a state where it can be consumed and even more to no longer be warm. It would also make acquiring the Warming Up feat too easy.
@@ -128,10 +112,6 @@ Note: Unsafe and Potable water bottles are identical in appearance, and similar 
 - Water is non-renewable in the [challenge](./Challenge.md) "[Escape the Darkwalker](./Escape%20the%20Darkwalker.md)" and custom sandbox with the 'endless night' option enabled. This is because matches are finite and non-renewable, and the [magnifying lens](./Magnifying%20Lens.md) is unusable at night.
 - The ingredients on the back list: "Pure Water Fresh From Canadian Glaciers." and the product is labeled "Mainland Spring."
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Water bottles.](../assets/Water_bottles.jpg)
@@ -142,16 +122,6 @@ Note: Unsafe and Potable water bottles are identical in appearance, and similar 
 
 ![old icon 1000ml](../assets/Water1000ml.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **12 June 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)):**

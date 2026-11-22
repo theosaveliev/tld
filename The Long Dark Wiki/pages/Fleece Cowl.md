@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>60% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 60% condition
 
 > “**A thick cotton cap that covers the head but not the face. Designed to be layered under something warmer.**”
 >
@@ -36,10 +36,6 @@
 
 **Fleece Cowl** is a type of headgear in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Despite its description, the fleece cowl is best used as an outer layer for wind protection, as its warmth value isn't as good as items like the [Wool Toque](./Wool%20Toque.md) or the [Balaclava](./Balaclava.md). As a scarf, the [Long Wool Scarf](./Long%20Wool%20Scarf.md) would be better suited to the environment, or any of the aforementioned options.
@@ -48,16 +44,6 @@ Despite its description, the fleece cowl is best used as an outer layer for wind
 
 ![Model icon damaged](../assets/Fleece_Cowl_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

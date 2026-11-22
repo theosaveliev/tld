@@ -36,20 +36,12 @@
 
 During the course of the mission, Mackenzie finds the note _Winter Forecast_ within [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) after completion of [The Grey Mother](./The%20Grey%20Mother.md), and gathers additional supplies to help her survive the upcoming winter weather.
 
-<!-- #Location -->
-​
-
-<!-- #location -->
 ## Location
 
 The note can be found inside the house, on the sofa beside Grey Mother.
 
 _**Note:** If something is placed on the sofa before completing [The Grey Mother](./The%20Grey%20Mother.md), it might hide the note, making it hard to find._
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Winter Forecast**_
@@ -62,16 +54,6 @@ HEAVY SNOW AND RECORD LOW TEMPERATURES EXPECTED
 
 “She won't like it one bit, but we'll need to check on her. Someone has to."
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**

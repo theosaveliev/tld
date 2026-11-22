@@ -18,16 +18,12 @@ Episode
 
 **Region:** [Perseverance Mills](./Perseverance%20Mills.md) [Desperation Bay](./Desperation%20Bay.md)
 
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md)<br>[Jane Yang](./Jane%20Yang.md)<br>[Terry](./Terry.md)
+**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Jane Yang](./Jane%20Yang.md) [Terry](./Terry.md)
 
 > “**Investigate the strange transmission Terry intercepted.**”
 
 **A Cry For Help** is the third mission of Part One: Perseverance in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Go to the radio hut to look for Terry.

@@ -18,7 +18,7 @@
 
 **Stackable:** No
 
-**Examine:** Freshly harvested maple sapling. Needs to be cured before it can be used for crafting and repair.<br>Can be used for crafting and repairs after air-drying indoors for 6 days.
+**Examine:** Freshly harvested maple sapling. Needs to be cured before it can be used for crafting and repair. Can be used for crafting and repairs after air-drying indoors for 6 days.
 
 **Values**
 
@@ -44,10 +44,6 @@ Both Green and Cured Maple Saplings do not [Decay](./Decay.md), and will always 
 
 Green Maple Saplings can be found in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) in the [Forlorn Muskeg](./Forlorn%20Muskeg.md) on the way to the [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md), as well as in [Broken Railroad](./Broken%20Railroad.md). It is not currently known if this is intended.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Maple sapling as it appears on the map](../assets/Maple_sapling.jpg)
@@ -58,16 +54,6 @@ _Maple sapling as it appears on the [map](./Map.md)_
 
 ![Old model.](../assets/Green_Maple_Sapling.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.223)):**

@@ -34,10 +34,6 @@ _For the raw version, see [Rockfish (Raw)](./Rockfish%20%28Raw%29.md)._
 
 **Rockfish (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_. Cooked rockfish have a minimum raw weight of 1.2 kg and a maximum raw weight of 3.25 kg.
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 **Rockfish (Cooked)**
@@ -50,10 +46,6 @@ _For the raw version, see [Rockfish (Raw)](./Rockfish%20%28Raw%29.md)._
 
 **Quantity:** 1.00 kg
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Fresh](../assets/Rockfish_%28Cooked%29_icon.png)
@@ -66,16 +58,6 @@ _For the raw version, see [Rockfish (Raw)](./Rockfish%20%28Raw%29.md)._
 
 ![Ruined](../assets/Rockfish_%28Cooked%29_Ruined_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

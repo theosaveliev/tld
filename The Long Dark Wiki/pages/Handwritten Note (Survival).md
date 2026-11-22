@@ -28,10 +28,6 @@
 
 **Page** is a [Survival Mode](./Survival%20Mode.md) [Collectible](./Collectibles.md) found in [Blackrock](./Blackrock.md). It is found on the 2nd level of [Last Prospect](./Last%20Prospect.md), and unlocks the workshop at [Blackrock Prison](./Blackrock%20Prison.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Handwritten Note**_
@@ -42,20 +38,8 @@ Found the backpack I was looking for. I expect you'll be along soon to read this
    
  -- M
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 UPDATE **7 December 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md)):**
 
 - Added to game
-
-[ru:Записка от руки (Заброшенная шахта)](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D0%BE%D1%82_%D1%80%D1%83%D0%BA%D0%B8_%28%D0%97%D0%B0%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%88%D0%B0%D1%85%D1%82%D0%B0%29)

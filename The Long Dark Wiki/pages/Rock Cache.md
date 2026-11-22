@@ -24,10 +24,6 @@ A **Rock Cache** is a craftable form of storage that appears as a landmark on th
 
 Not to be confused with [Memento Rock Caches](./Mementos.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Rock caches are the only form of outdoors craftable storage.
@@ -40,10 +36,6 @@ Rock caches can be viewed in the Journal, where the player can leave notes of wh
 
 Rock caches do not lose condition over time, but food and clothing items inside them decay as in other containers.
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Rock Cache**
@@ -62,18 +54,10 @@ Rock Caches can be constructed outdoors for 50 [stones](./Stone.md) with the [Ra
 
 Up to 5 Rock Caches can be built per region, including 'transition zones', though they cannot be placed directly next to each other.
 
-<!-- #Harvesting -->
-​
-
-<!-- #harvesting -->
 ## Harvesting
 
 They can be dismantled over 15 in-game minutes for a full refund of 50 stones, however they must be empty.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Rockcache2](../assets/Rockcache2.png)
@@ -82,10 +66,6 @@ They can be dismantled over 15 in-game minutes for a full refund of 50 stones, h
 
 ![How a rock cache appears on the map, shown in orange](../assets/Rockcachemap.png)
 
-<!-- #Notes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 In v. 1.76 meat did not degrade when placed in a rock cache, however this was hotfixed in v. 1.78

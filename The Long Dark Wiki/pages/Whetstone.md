@@ -38,26 +38,14 @@
 
 The **Whetstone**, or **Sharpening Stone**, is a tool used to sharpen bladed tools.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Whetstone weighs 0.10 kilograms and can be found in containers and buildings likely to contain tools. It is always found in 100% condition. It generally spawns in industrial or sporting-type locations, (e.g., [Quonset Gas Station](./Quonset%20Garage.md) or [Trapper's Homestead](./Trapper%27s%20Homestead.md)).
 
-<!-- #Use -->
-​
-
-<!-- #use -->
 ### Use
 
 The Whetstone is used in the [Sharpening](./Sharpening.md) gameplay mechanic to restore the condition of bladed tools. Each use degrades the Whetstone 5% (20 max uses), but restores less than that amount in the target tool.
 
-<!-- #Sharpening -->
-​
-
-<!-- #sharpening -->
 ### Sharpening
 
 The [Sharpening](./Sharpening.md) [Skill](./Skills.md), which is only visible when maintaining a bladed tool and not listed in the player's journal, starts at 30 points. The skill points increase by 1 for each time the blade is sharpened.
@@ -96,24 +84,10 @@ The Whetstone can only be used to sharpen the following tools:
 
 [Improvised Hatchet](./Improvised%20Hatchet.md)
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - New Whetstones can either be very rarely found while [Beachcombing](./Beachcombing.md) or purchased - maximum 1 per trade - from the [Trader](./Trader.md) after completing 4 Special Requests.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **16 December 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)):**

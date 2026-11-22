@@ -26,20 +26,16 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-3
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 30 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>30% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 30% condition
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 The **Miner's Pants** is a unique [Clothing](./Clothing.md) pants found in various locations across the [Zone of Contamination](./Zone%20of%20Contamination.md). They most often spawns somewhere inside the [Langston Mine](./Langston%20Mine.md), [Concentrator](./Concentrator.md), [Conveyor Room](./Conveyor%20Room.md), [Headframe Building](./Headframe%20Building.md), or [Idle Camp](./Idle%20Camp.md).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Clothing model icon](../assets/Miner%27s_Pants_Model_icon.png)
@@ -50,16 +46,6 @@ The **Miner's Pants** is a unique [Clothing](./Clothing.md) pants found in vario
 
 ![One of the locations of a pair of Miner's Pants](../assets/Miner%27s_Pants_location.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 \* UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
@@ -67,5 +53,3 @@ The **Miner's Pants** is a unique [Clothing](./Clothing.md) pants found in vario
   - Added to game.
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added new icon.
-
-[ru:Штаны шахтера](https://ru.wikipedia.org/wiki/%D0%A8%D1%82%D0%B0%D0%BD%D1%8B_%D1%88%D0%B0%D1%85%D1%82%D0%B5%D1%80%D0%B0)

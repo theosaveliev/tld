@@ -24,7 +24,7 @@
 
 **Description:** An abandoned train depot near the edge of the Far Territory
 
-**Connecting Regions:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md) (Leads to [Broken Railroad](./Broken%20Railroad.md)) [Forsaken Airfield](./Forsaken%20Airfield.md)<br>[Zone of Contamination](./Zone%20of%20Contamination.md)<br>[Sundered Pass](./Sundered%20Pass.md)
+**Connecting Regions:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md) (Leads to [Broken Railroad](./Broken%20Railroad.md)) [Forsaken Airfield](./Forsaken%20Airfield.md) [Zone of Contamination](./Zone%20of%20Contamination.md) [Sundered Pass](./Sundered%20Pass.md)
 
 **TFTFT paid content:** Yes
 
@@ -54,10 +54,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 Transfer Pass is set-up as a ''hub'' region, connecting to all other regions in the Far Territory. It connects to [Broken Railroad](./Broken%20Railroad.md) via the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md), to [Forsaken Airfield](./Forsaken%20Airfield.md) via a mountain road, to the [Zone of Contamination](./Zone%20of%20Contamination.md) further along the railroad at [Immutable Hesitation](./Immutable%20Hesitation.md), and to [Sundered Pass](./Sundered%20Pass.md) up north on the road after bypassing a collapsed tunnel.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Getting its name for originally being a hub for miners flown in from [Field 31](./Field%2031.md) waiting to be shipped to the [Zone of Contamination](./Zone%20of%20Contamination.md), Transfer Pass is a relatively small yet linear region located within the Far Territory of [Great Bear](./Great%20Bear%20Island.md). It serves as the "starting hub" for the deeper regions of the Far Territory. The region features a variety of terrains and is centered around the heavily damaged and decaying [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md), with an abandoned train station, coal tipple, and water tower near the center.
@@ -68,16 +64,6 @@ The [Weather](./Weather.md) is comparable to other Far Territory areas, with pot
 
 Given the region's small size and lack of resources, most players will likely use it as a temporary stopover before heading to or from the larger regions of the Far Territory.
 
-<!-- #wildlife_availability -->
-​
-
-<!-- #Wildlife_Availability -->
-​
-
-<!-- #Wildlife_availability -->
-​
-
-<!-- #wildlife-availability -->
 ## Wildlife Availability
 
 Transfer Pass is one of 2 unique regions that contains no [predators](./Wolf.md) of any type (the second being [The Ravine](./The%20Ravine.md)). Only 3 animals are found in this region.
@@ -86,10 +72,6 @@ Transfer Pass is one of 2 unique regions that contains no [predators](./Wolf.md)
 - [Deer](./Deer.md) can be found to the west section of the map, along with the occasional [Deer Carcass](./Deer%20Carcass.md).
 - [Ptarmigan](./Ptarmigan.md) can be found in the field throughout the region.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 There are a number of locations in Transfer Pass, including:
@@ -106,18 +88,10 @@ There are a number of locations in Transfer Pass, including:
 - To Zone of Contamination (Region Transition to [Zone of Contamination](./Zone%20of%20Contamination.md))
 - To Sundered Pass (Region Transition to [Sundered Pass](./Sundered%20Pass.md))
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Despite its small size classifying it as a Transition Region, the player can choose Transfer Pass as a starting Region.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![A detailed map of Transfer Pass v2.35 (contains spoilers)](../assets/TP_map.png)

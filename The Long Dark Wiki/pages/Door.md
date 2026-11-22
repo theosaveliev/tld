@@ -20,16 +20,6 @@ A **Door** is a piece of a clothing [Cabinet](./Cabinet.md) that can be broken d
 
 This item cannot be interacted with currently. An option to remove it does not appear, even in safehouse customization mode.
 
-<!-- #harvest_info -->
-​
-
-<!-- #Harvest_Info -->
-​
-
-<!-- #Harvest_info -->
-​
-
-<!-- #harvest-info -->
 ## Harvest Info
 
 | Reclaimed Wood | Time | Calories | Condition of Tool |

@@ -18,10 +18,6 @@ Has a bed
 
 Has an interior **Basement (Sundered Pass)** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Basement is located under one of the destroyed buildings in [Old Settlement](./Old%20Settlement.md), and can only be accessed through the [Last Horizon](./Last%20Horizon.md) Tale.

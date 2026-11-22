@@ -21,20 +21,12 @@
 
 **Type:** Outdoors
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 At the end of a long series of rope climbs into the upper reaches of Timberwolf Mountain is the Summit, on which rests the Tail Section--one of the larger plane sections scattered across the mountain in a recent crash. The Tail Section is shielded from the wind, so you can start a fire there, which is essential because it gets extremely cold at this altitude, particularly in the morning or when the wind is blowing hard. It contains a number of [Cargo Containers](./Cargo%20Container.md) that can supply you with nearly every kind of item found elsewhere in the game. The wooden crates scattered among the containers also may contain a rope and other loot. Emptying the containers results in well over 100kg of material so it takes quite a few days to loot it completely since the rappel up to the Summit drains around half your [Fatigue](./Fatigue.md), and many rests are required.
 
 There is a [corpse](./Frozen%20Corpse.md) underneath the plane's floor that you can reach by walking towards the abyss (take care). It can be reached via outside the plane or by slowly climbing down from the interior of the plane. Normally, the corpse holds one [Military-Grade MRE](./Military-Grade%20MRE.md), and sometimes, some other random loot such as 1 [Rifle Ammunition](./Rifle%20Ammunition.md), [Flare Shell](./Flare%20Shell.md) or [Advanced Guns Guns Guns!](./Advanced%20Guns%20Guns%20Guns!.md). With careful maneuvering, the player can climb back up to the summit by walking to the right of the plane and back onto flat land. Otherwise, the player has only one way to leave: down. The way back is a bit treacherous and you might fall from &gt;3 m (if you are not careful enough), so make sure you remove your clothes, as they might be damaged in the fall.
 
-<!-- #Loot -->
-​
-
-<!-- #loot -->
 ## Loot
 
 - One of many locations currently known to have the [Distress Pistol](./Distress%20Pistol.md)
@@ -46,16 +38,6 @@ There is a [corpse](./Frozen%20Corpse.md) underneath the plane's floor that you 
 - Several [Reclaimed Wood](./Reclaimed%20Wood.md) are scattered beneath the metal pieces inside, and a box of [Wood Matches](./Wood%20Matches.md) is located underneath a piece of metal in front of cargo container F
 - As of version 2.03, [Crampons](./Crampons.md) can be found by a corpse
 
-<!-- #cargo_containers -->
-​
-
-<!-- #Cargo_containers -->
-​
-
-<!-- #Cargo_Containers -->
-​
-
-<!-- #cargo-containers -->
 ### Cargo containers
 
 Loot in containers has been updated, please correct if you notice a discrepancy!
@@ -72,7 +54,7 @@ Cargo container B
 - Door 1: [Airline Food - Chicken](./Airline%20Food%20-%20Chicken.md), [Airline Food - Vegetarian](./Airline%20Food%20-%20Vegetarian.md) and [MREs](./Military-Grade%20MRE.md)
   - In interloper it contains only 1-2 [pinnacle peaches](./Pinnacle%20Peaches.md), 0-1 [dog food](./Dog%20Food.md) and 1-2 [pork and beans](./Pork%20and%20Beans.md)
 - Door 2: [summit sodas](./Summit%20Soda.md) and [water bottles](./Water%20%28Potable%29.md)
-  - ​In Interloper it contains only 2-5 summit sodas
+  - In Interloper it contains only 2-5 summit sodas
 
 The box behind B may contain accelerant in Interloper.
 
@@ -81,13 +63,13 @@ Cargo container C
 - Door 1: [Go! Energy Drink](./Go!%20Energy%20Drink.md), [summit sodas](./Summit%20Soda.md), [orange sodas](./Orange%20Soda.md), and [Stacy's grape sodas](./Stacy%27s%20Grape%20Soda.md)
   - In Interloper it contains only 1 [fleece mittens](./Fleece%20Mittens.md), 1 [ski jacket](./Ski%20Jacket.md), 0-1 [sport vest](./Sport%20Vest.md), 0-1 [wool ear wrap](./Wool%20Ear%20Wrap.md), 1 [toque](./Wool%20Toque.md)
 - Door 2: [storm lanterns](./Storm%20Lantern.md), [quality tools](./Quality%20Tools.md), and [firestrikers](./Firestriker.md)
-  - ​In Interloper it contains only 1 [leather shoes](./Leather%20Shoes.md), 1 [running shoes](./Running%20Shoes.md), 1 [trail boots](./Trail%20Boots.md) , 1 [wool socks](./Wool%20Socks.md), [work boots](./Work%20Boots.md)
+  - In Interloper it contains only 1 [leather shoes](./Leather%20Shoes.md), 1 [running shoes](./Running%20Shoes.md), 1 [trail boots](./Trail%20Boots.md) , 1 [wool socks](./Wool%20Socks.md), [work boots](./Work%20Boots.md)
 
 Cargo Container D
 
 - Door 1: [tins of coffee](./Tin%20of%20Coffee.md) and [boxes of tea](./Herbal%20Tea.md)
 - Door 2: [Maple Syrup](./Maple%20Syrup.md), [peanut butter](./Peanut%20Butter.md) and [salty crackers](./Salty%20Crackers.md)
-  - ​In Interloper it contains only this: 2-4 salty crackers
+  - In Interloper it contains only this: 2-4 salty crackers
 
 The 4 boxes near D contain nothing in Interloper, but contain 4 [Pinnacle Peaches](./Pinnacle%20Peaches.md) and a [Can Opener](./Can%20Opener.md) on lower difficulties.
 
@@ -109,10 +91,6 @@ Cargo container G
 
 The boxes near G contain nothing in Interloper.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Inside the Tail Section at night](../assets/Tail_section_inside.jpg)
@@ -122,5 +100,3 @@ The boxes near G contain nothing in Interloper.
 _The Tail Section during an [aurora](./Aurora.md)_
 
 ![Crystal Lake viewed from the Tail Section](../assets/Crystal_Lake_from_Tail_Section.png)
-
-[ru:Хвост](https://ru.wikipedia.org/wiki/%D0%A5%D0%B2%D0%BE%D1%81%D1%82)

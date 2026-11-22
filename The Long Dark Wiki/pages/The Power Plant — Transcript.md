@@ -25,14 +25,10 @@ Episode
 
 **Region:** [Blackrock Region](./Blackrock.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Franklin](./Franklin.md)<br>[Mathis](./Mathis.md)<br>[Vachon](./Vachon.md)<br>[Heller](./Heller.md)<br>[Jace](./Jace.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Franklin](./Franklin.md) [Mathis](./Mathis.md) [Vachon](./Vachon.md) [Heller](./Heller.md) [Jace](./Jace.md)
 
 This is the transcript for Chapter 2 [The Power Plant](./The%20Power%20Plant.md) for [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 CHAPTER TWO
@@ -162,19 +158,6 @@ _Heller slams the door shut and Mackenzie picks up the map fragment_
 
 Mackenzie: "Bastards. At least this map looks real enough."
 
-<!-- #head_to_the_power_plant. -->
-​
-
-<!-- #Head_to_the_Power_Plant. -->
-​
-
-<!-- #Head_to_the_power_plant. -->
-​
-
-<!-- #Head_To_The_Power_Plant. -->
-​
-
-<!-- #head-to-the-power-plant -->
 ## Head to the Power Plant.
 
 _Mackenzie walks down the mountain road and enters an [Old Substation](./Old%20Substation.md)_
@@ -365,16 +348,6 @@ _Mackenzie hangs up the phone_
 
 Mackenzie: "Well, ok. Let's find those steam tunnels."
 
-<!-- #sabotage_the_locking_mechanisms. -->
-​
-
-<!-- #Sabotage_the_locking_mechanisms. -->
-​
-
-<!-- #Sabotage_The_Locking_Mechanisms. -->
-​
-
-<!-- #sabotage-the-locking-mechanisms -->
 ## Sabotage the locking mechanisms.
 
 _Mackenzie leaves the Power Plant and finds the doorway in the mountain leading to the Steam Tunnels, and steps inside_
@@ -431,19 +404,6 @@ Vachon: "Too bad. Mathis will be disappointed. Oh well...back in your cage, dog.
 
 _Vachon searches Mackenzie as the screen goes black._
 
-<!-- #check_on_the_warden. -->
-​
-
-<!-- #Check_on_the_Warden. -->
-​
-
-<!-- #Check_on_the_warden. -->
-​
-
-<!-- #Check_On_The_Warden. -->
-​
-
-<!-- #check-on-the-warden -->
 ## Check on the Warden.
 
 HOURS LATER...

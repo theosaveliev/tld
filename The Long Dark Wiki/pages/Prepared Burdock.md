@@ -32,10 +32,6 @@
 
 **Prepared Burdock** is the prepared version of a [Burdock Root](./Burdock%20Root.md) that is ready to be cooked or eaten raw as is. It was introduced in the free update portion of the Part 3: Frontier Comforts update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 **Prepared Burdock**
@@ -50,26 +46,12 @@
 
 **Quantity:** 1
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Burdock Tea](./Burdock%20Tea.md) | None | - 1 × [Prepared Burdock](./Prepared%20Burdock.md)<br>- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Burdock Tea](./Burdock%20Tea.md) | None | - 1 × [Prepared Burdock](./Prepared%20Burdock.md) - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

@@ -34,10 +34,6 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Alice McLeod's Journal 01** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of the [Iron Road](./Iron%20Road.md) expansion. It is found in [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) in the cabin beside the train next to the train key on the table.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Alice McLeod's Journal 01**_

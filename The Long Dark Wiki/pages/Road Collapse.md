@@ -16,10 +16,6 @@
 
 **Type:** Landmark
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Road Collapse, as its name implies, is a large collapsed section of road that runs through Crumbling Highway. It offers a bit of shelter from the wind and can allow the player to quickly escape out of reach of predators (depending on the direction one is fleeing from).

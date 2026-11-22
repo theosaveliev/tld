@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)-3%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>30 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 30 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>30% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 30% condition
 
 > “**A heavier duty type of jean, with some reinforced patches. Worn by construction workers the world round.**”
 >
@@ -36,10 +36,6 @@
 
 **Work Pants** are a type of [clothing](./Clothing.md) in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 High tier pants, Work Pants provide decent warmth and very good protection but are somewhat heavy. They pair well with [Snow Pants](./Snow%20Pants.md) until [Combat Pants](./Combat%20Pants.md) can be found which are generally superior.
@@ -48,16 +44,6 @@ High tier pants, Work Pants provide decent warmth and very good protection but a
 
 ![Clothing model icon damaged](../assets/Work_Pants_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

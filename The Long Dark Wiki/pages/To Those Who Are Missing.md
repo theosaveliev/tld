@@ -18,16 +18,12 @@ Episode
 
 **Region:** [Perseverance Mills](./Perseverance%20Mills.md) [Perseverance Wilds](./Perseverance%20Wilds.md)
 
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md)<br>[Jane Yang](./Jane%20Yang.md)
+**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Jane Yang](./Jane%20Yang.md)
 
 > “**Find the Constable along the river in Perseverance Wilds.**”
 
 **To Those Who Are Missing** is the second mission of Part One: Perseverance in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Search the Wilds.

@@ -37,7 +37,7 @@
 
 **Game Information**
 
-**Equipment:** [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md) [Tactical Gloves](./Tactical%20Gloves.md)<br>[Tactical Jacket](./Tactical%20Jacket.md)
+**Equipment:** [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md) [Tactical Gloves](./Tactical%20Gloves.md) [Tactical Jacket](./Tactical%20Jacket.md)
 
 **Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it].**
 
@@ -52,38 +52,14 @@
 
 **Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it].**
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Appearing only as a voice through notes left behind as part of the [Tales](./Tales.md) in [Survival Mode](./Survival%20Mode.md), The Foreman is one of 4 major characters that participated in a clandestine experiment in The Far Territory. The results were grand, but fatal to many individuals that partook in the project.
 
-<!-- #signal_void -->
-​
-
-<!-- #Signal_Void -->
-​
-
-<!-- #Signal_void -->
-​
-
-<!-- #signal-void -->
 ## Signal Void
 
 The Foreman is not mentioned in any notes in [Signal Void](./Signal%20Void.md).
 
-<!-- #buried_echoes -->
-​
-
-<!-- #Buried_Echoes -->
-​
-
-<!-- #Buried_echoes -->
-​
-
-<!-- #buried-echoes -->
 ## Buried Echoes
 
 The Foreman is introduced as the deuteragonist in the Tale [Buried Echoes](./Buried%20Echoes.md), being one of two characters whose notes are found throughout the tale (the other being [The Security Chief](./The%20Security%20Chief.md)). He was the head foreman of the [Langston Mine](./Langston%20Mine.md), overseeing the construction, maintenance, and instillation of the mine's various hallways and passages, as well as overseeing the construction of a new piece of machinery deep inside the nearby mountain, just above the main mine.
@@ -94,16 +70,6 @@ The last note found written by him reveals that something happened when the mach
 
 His [Tool Belt](./Foreman%27s%20Tool%20Belt.md) is found at the end of the Tale, inside the control room to The Machine.
 
-<!-- #last_horizon -->
-​
-
-<!-- #Last_Horizon -->
-​
-
-<!-- #Last_horizon -->
-​
-
-<!-- #last-horizon -->
 ## Last Horizon
 
 The Foreman is the protagonist of [Last Horizon](./Last%20Horizon.md), being one of two characters whose notes are found throughout the tale (the other being Dr. Rüdiger). Throughout the Tale, The Foreman reveals that he was secretly a special agent inserted as a site foreman to keep tabs on Rüdiger, and is now making it his personal mission to track him down to avenge the many miners killed by his hand.

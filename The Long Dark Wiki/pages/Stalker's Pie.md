@@ -50,10 +50,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Stalker's Pie** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Skillet](./Cooking%20Skillet.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Stalker's Pie is a relatively complex recipe, requiring meat from multiple [predatory wildlife](./Bear.md), and with a recipe card found in the wilderness region of [Hushed River Valley](./Hushed%20River%20Valley.md). It boasts a number of small positive effects and extremely high calorie density at ~6,667 kcal/kg (beating the MRE at 3,500 kcal/kg although losing to Breyerhouse pie with 7,083 kcal/kg) and it has several positive effects. It requires a maximized [Cooking skill](./Cooking.md) and reduces carry weight when consumed, and its ingredients are either limited or difficult to obtain.
@@ -64,10 +60,6 @@ The recipe for Stalker's Pie is found on a [Frozen Corpse](./Frozen%20Corpse.md)
 
 Stalker's Pie produces a [Scent](./Scent.md) which attracts [predators](./Wolf.md), and may be dropped as a [decoy](./Scent.md#Baiting/Decoys).
 
-<!-- #Effects -->
-​
-
-<!-- #effects -->
 ## Effects
 
 - +15% [Stamina](./Stamina.md) (instantly)
@@ -76,10 +68,6 @@ Stalker's Pie produces a [Scent](./Scent.md) which attracts [predators](./Wolf.m
 - [Cabin Fever](./Cabin%20Fever.md) outside time increase (minimal)
 - -3.00kg Decreased Carry Weight ([Burdened](./Burdened.md) for 1 hour)
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 The ingredients of this pie are the similar to [Breyerhouse Pie](./Breyerhouse%20Pie.md), requiring predator [Wildlife](./Wildlife.md) meat and [Acorn Grounds](./Acorn%20Grounds.md) instead of prey meat and [flour](./Old%20Mill%20Flour.md).
@@ -116,26 +104,12 @@ The ingredients of this pie are the similar to [Breyerhouse Pie](./Breyerhouse%2
 
 **Quantity:** 0.50 kg
 
-<!-- #Location -->
-​
-
-<!-- #location -->
 ### Location
 
 ![The locations of the Recipe Card for Stalker's Pie.](../assets/StalkerPieMap.png)
 
 The recipe can be found on a corpse in [Hushed River Valley](./Hushed%20River%20Valley.md). All three locations are located southeast of [Stairsteps Lake](./Stairsteps%20Lake.md). Refer to the map below for details.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

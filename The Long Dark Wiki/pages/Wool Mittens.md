@@ -28,9 +28,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>65% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 65% condition
 
 > “**Wool mitts with a reinforced palm. Will keep your fingers nice and toasty.**”
 >
@@ -44,16 +44,6 @@ Wool mittens have the best warmth-to-weight ratio of any pair of gloves and are 
 
 ![Clothing model damaged](../assets/Wool_Mittens_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

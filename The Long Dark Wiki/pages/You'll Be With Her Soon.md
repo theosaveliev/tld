@@ -10,32 +10,14 @@
 
 **You'll Be With Her Soon** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Guide -->
-​
-
-<!-- #guide -->
 ## Guide
 
 This is an unmissable story achievement achieved after completing the mission [Renewed Hope](./Renewed%20Hope.md). Walk into the final room in the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) and the ending cutscene plays. Upon completing Episode 2, the achievement is unlocked.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 The achievement's name is a reference to the quote from [Mathis](./Mathis.md): "Well, don't worry, pilot. You'll be with her soon."
 
-<!-- #game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #game-history -->
 ## Game History
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

@@ -35,10 +35,8 @@
 
 The **Mine Office Key** is a unique key found only in [Survival Mode](./Survival%20Mode.md), specifically in the [Langston Mine](./Langston%20Mine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 
-<!-- #Location -->
-​
+## Overview
 
-<!-- #location -->
 ### Location
 
 It can be found on a corpse in the mine. Starting from the bottom floor of the [Headframe Building](./Headframe%20Building.md) elevator, take a left through the toxic gas, past a toxic open pit, past another gas cloud, and the player will find themselves crouching and approaching a wooden coal chute under a very low ceiling. A curled up corpse will contain the key, and will be next to a [Metal Container](./Metal%20Container.md).
@@ -47,10 +45,6 @@ It can be found on a corpse in the mine. Starting from the bottom floor of the [
 
 ![The other end of the chute for reference](../assets/Mine_Office_Key_location_2.jpg)
 
-<!-- #Trailer -->
-​
-
-<!-- #trailer -->
 ### Trailer
 
 The key unlocks a mine trailer on a catwalk located in the center of the 3rd level where a (non-accessible) yellow coal chute from the 2nd level ends. A [Lantern](./Lantern.md) is in the center of this room for reference, and an [Insulated Flask](./Insulated%20Flask.md) tends to spawn on a table on the catwalk.
@@ -71,19 +65,7 @@ Loot:
 
 ![The inside of the trailer](../assets/Mine_Office_Key_trailer_3.jpg)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
   - Added to game.
-
-[ru:Ключ от кабинета администратора шахты](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D1%8E%D1%87_%D0%BE%D1%82_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%D0%B0_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0_%D1%88%D0%B0%D1%85%D1%82%D1%8B)

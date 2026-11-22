@@ -32,7 +32,7 @@
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
 “
 
@@ -42,21 +42,13 @@
 
 **Last Horizon** is the third [Tale](./Tales.md) released for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon in [Survival Mode](./Survival%20Mode.md). As of V 2.27, Last Horizon can be started on a new playthrough out of order as soon as the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) is acquired, as long as [Signal Void](./Signal%20Void.md), [Buried Echoes](./Buried%20Echoes.md), and Last Horizon have been completed on another playthrough and their associated [Badges](./Badges.md) are acquired. The [Transmitter](./Transmitters.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) will need to be repaired before this Tale can be started if played out of order, and [Bunker Omega](./Bunker%20Omega.md) will need to be uncovered to finish it. ![Cougar Part 5](../assets/Cougar_Part_5.jpg)
 
-<!-- #Preface -->
-​
-
-<!-- #preface -->
 ## Preface
 
-<span id="stub"></span> _SPOILER WARNING_  
+_SPOILER WARNING_  
  _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._
 
 Continuing the events of the last Tale, the survivor buries the remains of the Security Chief and follows a nearby pass from [Enduring Waterfall](./Enduring%20Waterfall.md) into a hidden mountain installation, then sets out to find any evidence of Rüdiger's escape. Head to [Sundered Pass](./Sundered%20Pass.md), where a Weather Station that was mentioned in the Security Chief's notes may hold clues as to the fate of Rüdiger, along with any successful results of his project.
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Reach the Weather Station and search the area using the Handheld Shortwave during an [aurora](./Aurora.md).
@@ -69,19 +61,6 @@ Continuing the events of the last Tale, the survivor buries the remains of the S
 - Return to the [Omega Bunker](./Bunker%20Omega.md) and investigate the area shown in the Polaroid.
   - Discover Rüdiger's true fate. [0/4]
 
-<!-- #find_out_what_happened_to_rüdiger -->
-​
-
-<!-- #Find_out_what_happened_to_Rüdiger -->
-​
-
-<!-- #Find_out_what_happened_to_rüdiger -->
-​
-
-<!-- #Find_Out_What_Happened_To_Rüdiger -->
-​
-
-<!-- #find-out-what-happened-to-rüdiger -->
 ## Find out what happened to Rüdiger
 
 After burying the [The Security Chief's Remains](./The%20Security%20Chief%27s%20Remains.md) at [Enduring Waterfall](./Enduring%20Waterfall.md), the only thing left to do is find out where Rüdiger may have gone. [Security Chief's Log 33](./Security%20Chief%27s%20Log%2033.md) mentions that Rüdiger had an escape plan in the form of a transmission site over the mountains after the failure of The Machine in the [Langston Mine](./Langston%20Mine.md), in the region known as [Sundered Pass](./Sundered%20Pass.md).
@@ -95,19 +74,6 @@ You have 2 convenient ways to get there from Enduring Waterfall:
 
 Make sure you have enough warm clothing, supplies, and weapons for this trip, as Sundered Pass is not for the faint of heart; with few shelters, very cold weather, and [Timberwolf](./Timberwolf.md) packs spread out across the region. Travel by day, or night if you must, and wait until the [Aurora](./Aurora.md)/[Glimmer Fog](./Glimmer%20Fog.md) appears. Regardless of what path you take, your objective is to reach a [Weather Station](./Weather%20Station.md) in the mountains.
 
-<!-- #go_to_the_weather_station -->
-​
-
-<!-- #Go_to_the_Weather_Station -->
-​
-
-<!-- #Go_to_the_weather_station -->
-​
-
-<!-- #Go_To_The_Weather_Station -->
-​
-
-<!-- #go-to-the-weather-station -->
 ## Go to the Weather Station
 
 **Option 1: The road throughout the mountains**
@@ -130,41 +96,12 @@ At some point you will see the transition cave to [Forsaken Airfield](./Forsaken
 
 Continue to forward past a tree bridge and over a Rock Climb, and eventually you will reach an intersection. The way to your left leads into an open cave and is the way you will come up from if you take Option one. Take the path in front of you, it leads over a suspension bridge, [Perilous Crossing](./Perilous%20Crossing.md), then you have to climb a final rope to Second Pillar to reach the Weather Station.
 
-<!-- #search_the_weather_station -->
-​
-
-<!-- #Search_the_Weather_Station -->
-​
-
-<!-- #Search_the_weather_station -->
-​
-
-<!-- #Search_The_Weather_Station -->
-​
-
-<!-- #search-the-weather-station -->
 ### Search the Weather Station
 
 Searching the 3 buildings at the outpost does not yield anything useful for the investigation (besides a [Bloody note](./Notes.md)). Remember the signal that lead you here? The Handheld Shortwave is always the key, so wait until it is powered and then search the area. Hold up in the [Station Bunkhouse](./Station%20Bunkhouse.md) until then.
 
 When the Radio is powered, it will point in the direction next of a small ledge near the Radar building. Dig through the snow to uncover a [Lock Box](./Lock%20Box.md) and [Foreman's Technical Log 1](./Foreman%27s%20Technical%20Log%201.md). Inside the Lock Box is [An Old House Key](./An%20Old%20House%20Key.md) and some other loot. After listening to the Foreman's log, the survivor will open the clipboard box to find [Foreman's Polaroid 1](./Foreman%27s%20Polaroid%201.md) inside, with a photo of a small cabin.
 
-<!-- #find_the_foremans_refuge -->
-​
-
-<!-- #Find_the_Foreman's_Refuge -->
-​
-
-<!-- #find_the_foreman's_refuge -->
-​
-
-<!-- #Find_the_foreman's_refuge -->
-​
-
-<!-- #Find_The_Foreman's_Refuge -->
-​
-
-<!-- #find-the-foremans-refuge -->
 ## Find the Foreman's Refuge
 
 The text on the back of the Polaroid mentions a forest below the treeline, which can be seen slightly southwest of your position if you walk back to the Second Pillar. Make your way there via the rope bridge and continue past the Transition Cave that leaves the region (rest here if you need to). Climb down the Rope Climbing section and near the bottom you will find the [Last Lonely House](./Last%20Lonely%20House.md). The front door is unlocked but the door to the bedroom is not, requiring An Old House Key.
@@ -173,79 +110,24 @@ The bedroom has the following loot: [Foreman's Technical Log 2](./Foreman%27s%20
 
 Grab the Technical Log and yet another Polaroid is inside, [Foreman's Polaroid 2](./Foreman%27s%20Polaroid%202.md), pointing to a ruined building that the Foreman believed to be Rüdiger's Hideout, a building out in the field near Refuge Cabin B [Placid Notch](./Placid%20Notch.md), in a place called [Old Settlement](./Old%20Settlement.md).
 
-<!-- #find_rüdigers_hideout -->
-​
-
-<!-- #Find_Rüdiger's_Hideout -->
-​
-
-<!-- #find_rüdiger's_hideout -->
-​
-
-<!-- #Find_rüdiger's_hideout -->
-​
-
-<!-- #find-rüdigers-hideout -->
 ## Find Rüdiger's Hideout
 
 Travel south from the door of the Last Lonely House to return back to the collapsed tunnel leading to Transfer Pass, and then follow the road up the mountains out into the field (avoiding Timberwolf packs along the way). Wait inside Placid Notch until the Handheld Shortwave becomes active, and then follow the signal. Unlike the Weather Station signal, this location has a very short detection range.
 
 Behind the ruined building, near the bathroom, is a large mound of snow. Uncover it to find a pair of doors that lead to the building's [Basement](./Basement%20%28Sundered%20Pass%29.md). Look in the back for a table near the [Bed](./Bed.md), where you will find [Rüdiger's Diary 1](./R%C3%BCdiger%27s%20Diary%201.md) and [Foreman's Polaroid 5](./Foreman%27s%20Polaroid%205.md). Rüdiger was aware that someone was stalking him, and he fled to somewhere higher in the region to get a signal for help. The Foreman was also here and left another Polaroid, pointing towards a settlement past a lake, the "high point" Rüdiger mentioned fleeing to.
 
-<!-- #access_to_the_high_peak -->
-​
-
-<!-- #Access_to_the_High_Peak -->
-​
-
-<!-- #Access_to_the_high_peak -->
-​
-
-<!-- #Access_To_The_High_Peak -->
-​
-
-<!-- #access-to-the-high-peak -->
 ## Access to the High Peak
 
 Leave the Basement when **fully rested**, travel north up the road to [Final Refuge](./Final%20Refuge.md) or the [Fishing Hut](./Fishing%20Hut.md) ([Ambler's Lake](./Ambler%27s%20Lake.md)) to get around the avalanche ([Unyielding Inundation](./Unyielding%20Inundation.md)), down a long valley will lead to shear cliff and a upward [rope climb](./Rope%20Climbing.md): **this climb is very long and with no ledges to rest**. **It is so long that it is possible to run out of Stamina without the use of an [Emergency Stim](./Emergency%20Stim.md) or [Crampons](./Crampons.md) or [Improvised Crampons](./Improvised%20Crampons.md)**.
 
 At the top of this climb is [Roamer's Cave](./Roamer%27s%20Cave.md), a [rabbit grove](./Rabbit%20Grove.md) and burned trailer for [reclaimed wood](./Reclaimed%20Wood.md). After you rest from the long climb, follow the wooden steps up to the Polaroid's location and clear the snow out to proceed.
 
-<!-- #reach_the_high_plateau -->
-​
-
-<!-- #Reach_the_High_Plateau -->
-​
-
-<!-- #Reach_the_high_plateau -->
-​
-
-<!-- #Reach_The_High_Plateau -->
-​
-
-<!-- #reach-the-high-plateau -->
 ## Reach the High Plateau
 
 The journey ahead will be extremely cold, becoming colder as The Survivor ascends in elevation and requires three [rope climbs](./Rope%20Climbing.md). Two outdoor caves which provide some warmth and shelter are in the area, and a rock tunnel.
 
 On the other side will be [High Peak Plateau](./High%20Peak%20Plateau.md), with a shed next to a signal dish containing 2 items: [Rüdiger's Diary 2](./R%C3%BCdiger%27s%20Diary%202.md) and [Foreman's Technical Log 3](./Foreman%27s%20Technical%20Log%203.md) (with another Polaroid inside, [Foreman's Polaroid 3](./Foreman%27s%20Polaroid%203.md)). This photo shows an already familiar location you've explored long ago, [Bunker Omega](./Bunker%20Omega.md).
 
-<!-- #return_to_bunker_omega_and_discover_rüdigers_fate -->
-​
-
-<!-- #Return_to_Bunker_Omega_and_discover_Rüdiger's_fate -->
-​
-
-<!-- #return_to_bunker_omega_and_discover_rüdiger's_fate -->
-​
-
-<!-- #Return_to_bunker_omega_and_discover_rüdiger's_fate -->
-​
-
-<!-- #Return_To_Bunker_Omega_And_Discover_Rüdiger's_Fate -->
-​
-
-<!-- #return-to-bunker-omega-and-discover-rüdigers-fate -->
 ## Return to Bunker Omega and discover Rüdiger's fate
 
 (Note: If you have finished Last Horizon before and are playing Tales out of order, Bunker Omega cannot be opened without first completing [Signal Void](./Signal%20Void.md))
@@ -265,19 +147,13 @@ Rüdiger's Diary reveals his goal on [Great Bear Island](./Great%20Bear%20Island
 
 After all 4 narrative items are acquired the Tale ends, awarding a [Badge](./Badges.md) and the [Feats: "Celestial Navigator" and "Settled Mind"](./Feats.md), and completing the Tales from the Far Territory.
 
-<!-- #Clothing -->
-​
+## Collectibles
 
-<!-- #clothing -->
 ### Clothing
 
 - [Tactical Gloves](./Tactical%20Gloves.md)
 - [Tactical Jacket](./Tactical%20Jacket.md)
 
-<!-- #Notes -->
-​
-
-<!-- #notes -->
 ### Notes
 
 - [An Old House Key](./An%20Old%20House%20Key.md)
@@ -296,10 +172,6 @@ After all 4 narrative items are acquired the Tale ends, awarding a [Badge](./Bad
 - [Rüdiger's Watch](./R%C3%BCdiger%27s%20Watch.md)
 - [Security Chief's ID Badge](./Security%20Chief%27s%20ID%20Badge.md)
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Rüdiger's fate and the Tactical Jacket](../assets/R%C3%BCdiger%27s_fate.jpg)
@@ -310,10 +182,6 @@ _Rüdiger's fate and the [Tactical Jacket](./Tactical%20Jacket.md)_
 
 ![Completing the Tale](../assets/Final_Horizon_Badge.jpg)
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Completing Last Horizon unlocks a [Badge](./Badges.md) of the same name, as well as two [Feats](./Feats.md), Settled Mind and Celestial Navigator.

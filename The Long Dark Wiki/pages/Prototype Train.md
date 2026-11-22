@@ -23,32 +23,18 @@
 
 [Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.** This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
- [TLDHOME Survival Expansion IronRoad](../assets/TLDHOME_Survival_Expansion_IronRoad.png)<br>The **Prototype Train** is a [Vehicle](./Vehicle.md) in [_The Long Dark_](./The%20Long%20Dark.md). It is part of the [_Iron Road_](./Iron%20Road.md) expansion for [Survival Mode](./Survival%20Mode.md) and is found exclusively on [Cauldron Island](./Cauldron%20Island.md).
+ [TLDHOME Survival Expansion IronRoad](../assets/TLDHOME_Survival_Expansion_IronRoad.png) The **Prototype Train** is a [Vehicle](./Vehicle.md) in [_The Long Dark_](./The%20Long%20Dark.md). It is part of the [_Iron Road_](./Iron%20Road.md) expansion for [Survival Mode](./Survival%20Mode.md) and is found exclusively on [Cauldron Island](./Cauldron%20Island.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
-An iron fortress on wheels, the Prototype Train is a large steam locomotive and the main method of traversing [Cauldron Island](./Cauldron%20Island.md). Described by its creator Hamish McLeod as "an angel rendered in the finest steel<span id="fnref1"></span>[¹](#fn1)", the train was at one point a state of the art vehicle and despite just being a prototype was the most advanced steam engine ever built.
+An iron fortress on wheels, the Prototype Train is a large steam locomotive and the main method of traversing [Cauldron Island](./Cauldron%20Island.md). Described by its creator Hamish McLeod as "an angel rendered in the finest steel[^1]", the train was at one point a state of the art vehicle and despite just being a prototype was the most advanced steam engine ever built.
 
 Most of the Prototype Train's mechanics are borrowed from the [Steam Train](./Steam%20Train.md) from [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md), though the concept is slightly expanded on. This train does not run on Coal or Firewood, instead being powered by an exotic fuel type: Whale Oil.
 
 Part train, part mobile shelter, part mobile base, the train is designed to be your companion while traversing Cauldron Island. The player will need to take care of the train as they travel, as it will become their most important lifeline that will ensure their survival and open up the secrets of the caldera.
 
-<!-- #basic_train_features -->
-​
-
-<!-- #Basic_Train_Features -->
-​
-
-<!-- #Basic_train_features -->
-​
-
-<!-- #basic-train-features -->
 ## Basic Train Features
 
 The train has various components that can be interacted with. The outside of the train contains:
@@ -67,16 +53,6 @@ The inside of the train contains:
 - The main Engine used to ignite the Boiler, and a single Cooking slot below it.
 - The player can also lean outside of the windows in 2 spots (above the cupboard widow and the slide doors window).
 
-<!-- #main_control_panel -->
-​
-
-<!-- #Main_Control_Panel -->
-​
-
-<!-- #Main_control_panel -->
-​
-
-<!-- #main-control-panel -->
 ### Main Control Panel
 
 ![The main controls](../assets/Prototype_Train_Main_Control_Diagram.png)_The main controls_ The main control panel consists of:
@@ -98,16 +74,6 @@ The inside of the train contains:
 - **Water Gauge** - This is the blue waves gauge, and shows how much water is in the boiler for the train to build PSI.
 - **Horn** - A lever that sounds a steam whistle. Higher stored PSI levels produce a louder whistle. Does not scare off wildlife.
 
-<!-- #miscellaneous_features -->
-​
-
-<!-- #Miscellaneous_Features -->
-​
-
-<!-- #Miscellaneous_features -->
-​
-
-<!-- #miscellaneous-features -->
 ### Miscellaneous Features
 
 A few other features to consider regarding the train include:
@@ -123,30 +89,12 @@ A few other features to consider regarding the train include:
 - Despite having a forward mounted light on the front of the train, it will not power on when the [Aurora](./Aurora.md) is out.
 - Wildlife show very little reaction to the train as it passes by, and will only notice the player if the train stops and they lean out of the window. Wildlife cannot be run over by the train, and are instead pushed out of the way.
 
-<!-- #train_upgrades -->
-​
-
-<!-- #Train_Upgrades -->
-​
-
-<!-- #Train_upgrades -->
-​
-
-<!-- #train-upgrades -->
 ### Train Upgrades
 
 Train upgrades are an upcoming feature that will allow you to upgrade various parts of the train, including personalization of the cabin.
 
-<!-- #train_operation -->
-​
+## Mechanics
 
-<!-- #Train_Operation -->
-​
-
-<!-- #Train_operation -->
-​
-
-<!-- #train-operation -->
 ### Train Operation
 
 The basic operation for the train is as follows:
@@ -165,19 +113,6 @@ Other information to consider:
 - Fuel storage can be viewed at the Main Control panel or in the Train Status section of the [Survival Menu](./Survival%20Menu.md).
 - Ramming into any hard object that instantly stops the train (Aurora gate, some flatbed cars, buffer stops), will set the gear to Neutral but does not damage the train.
 
-<!-- #fuel_storage_and_resupplying -->
-​
-
-<!-- #Fuel_Storage_and_Resupplying -->
-​
-
-<!-- #Fuel_storage_and_resupplying -->
-​
-
-<!-- #Fuel_Storage_And_Resupplying -->
-​
-
-<!-- #fuel-storage-and-resupplying -->
 ### Fuel Storage and Resupplying
 
 ![Whale Oil Refueling Tank](../assets/Whale_Oil_Refueling.jpg)
@@ -199,19 +134,6 @@ The back side of the train must be parked very close to the Water Tower or Oil T
 | Water | 600.00 L (20 H) | 30.00 L | [Water Tower](./Water%20Tower.md) (20.00 L in 5 minutes) | [Water Tower](./Water%20Tower.md) (2 Hrs and 5 Min to fully refuel) |
 | Whale Oil | 500.00 L (17 H) | 30.00 L | [Oil Tank](./Oil%20Tank.md) (20.00 L in 5 minutes) | [Oil Tank](./Oil%20Tank.md) (2 Hrs and 30 Min to fully refuel) |
 
-<!-- #repairing_and_refueling -->
-​
-
-<!-- #Repairing_and_Refueling -->
-​
-
-<!-- #Repairing_and_refueling -->
-​
-
-<!-- #Repairing_And_Refueling -->
-​
-
-<!-- #repairing-and-refueling -->
 ### Repairing and Refueling
 
 ![Train Status Survival Menu](../assets/Train_Status_Survival_Menu.jpg)
@@ -232,24 +154,11 @@ Repairing can take considerable time (up to several hours at a time), so finding
 | --- | --- | --- | --- | --- | --- |
 | Cowcatcher | Running into hard track obstacles | Cannot ram train track obstacles? (untested) Boiler is damaged when ramming objects when Cowcatcher is 50% or lower | N/A | 2 x [Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) | 1 Hour (20%) 1 Hour (25% when starting from ruined) |
 | Boiler | Shifting to 2 speed while PSI over-pressured (chance to drain condition 1% every 3.5 seconds. At 50% or lower, chance to instantly explode boiler.) Ramming hard track hazards with a low condition Cowcatcher | Boiler explodes inside the cabin, causing [Burns](./Burns.md). Boiler condition set to 0%, train immediately loses all stored PSI, Engine cannot be started. Cannot move until Boiler is repaired. | N/A | 2 x[Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) | 1 Hour (20%) 1 Hour (25% when starting from ruined) |
-| Wheels | Riding over [Damaged Track](./Damaged%20Track.md) at high speed Riding over Electrified Track | Wheels do not grip to tracks properly. Acceleration penalty and increased whale oil burn rate penalty applied. | - 75-100% (0% acceleration penalty, +0% whale oil burn rate)<br>- 50-75% (-10% acceleration penalty, +10% whale oil burn rate)<br>- 1-50% (-25% acceleration penalty, +15% whale oil burn rate)<br>- 0% (-50% acceleration penalty, +25% whale oil burn rate) | 2 x[Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) | 1.5 Hours (20%) 1.5 Hours (25% when starting from ruined) |
+| Wheels | Riding over [Damaged Track](./Damaged%20Track.md) at high speed Riding over Electrified Track | Wheels do not grip to tracks properly. Acceleration penalty and increased whale oil burn rate penalty applied. | - 75-100% (0% acceleration penalty, +0% whale oil burn rate) - 50-75% (-10% acceleration penalty, +10% whale oil burn rate) - 1-50% (-25% acceleration penalty, +15% whale oil burn rate) - 0% (-50% acceleration penalty, +25% whale oil burn rate) | 2 x[Scrap Metal icon](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md) [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) | 1.5 Hours (20%) 1.5 Hours (25% when starting from ruined) |
 | Brake Shoes | Brake application | Cannot brake properly. | Takes longer to slow down (possibly bugged, braking does not change even at 0%) | 1 x[Brake Shoe icon](../assets/Brake_Shoe_icon.png) [Brake Shoe](./Brake%20Shoe.md) [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md) | 1.5 Hours (100% when starting from ruined) |
 | Water Tank | Normal use | Cannot build up PSI to move train Engine automatically turns off Boiler and cannot be ignited | N/A | Add[Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)/[Water (Unsafe) icon](../assets/Water_%28Unsafe%29_icon.png) [Water (Unsafe)](./Water%20%28Unsafe%29.md) ([Water Tower](./Water%20Tower.md) refuel station or by hand) | 5 minutes per 20.00 L |
 | Fuel Tank | Normal use | Cannot ignite Boiler | N/A | Add [Whale Oil Can icon](../assets/Whale_Oil_Can_icon.png) [Whale Oil Can](./Whale%20Oil%20Can.md) ([Oil Tank](./Oil%20Tank.md) refuel station or by hand) | 5 minutes per 20.00 L |
 
-<!-- #traveling_and_track_hazards -->
-​
-
-<!-- #Traveling_and_Track_Hazards -->
-​
-
-<!-- #Traveling_and_track_hazards -->
-​
-
-<!-- #Traveling_And_Track_Hazards -->
-​
-
-<!-- #traveling-and-track-hazards -->
 ### Traveling and Track Hazards
 
 ![Chained Metal Gates](../assets/Train_Hazard_Gates.jpg)
@@ -287,10 +196,6 @@ List of obstacles that do not damage the train:
 
 Driving into a [Repair Depot's](./Repair%20Depot.md) doors will never damage the train even at full speed, but will instead transfer you inside the building.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Much like the [Steam Train](./Steam%20Train.md), the Prototype Train cannot be derailed (though it can sometimes appear to be off of the tracks when parked), cannot run over and kill wildlife (they are pushed out of the way), and the main boiler tank cannot be over-pressured until it explodes. Various parts of the Prototype Train can break down however.
@@ -299,10 +204,6 @@ Driving into a [Repair Depot's](./Repair%20Depot.md) doors will never damage the
 - The locomotive is a [4-6-4T](https://en.wikipedia.org/wiki/4-6-4) cab-forward steam locomotive.
   - Cab-forward locomotives were used on the Southern Pacific railroad in the US, to keep smoke away from the cab while operating in tunnels and snow sheds.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Concept art of the train](../assets/Iron_Road_Steam_Train_Art.png)
@@ -321,20 +222,10 @@ Driving into a [Repair Depot's](./Repair%20Depot.md) doors will never damage the
 
 ![Iron Train 2](../assets/Iron_Train_2.jpg)
 
-<!-- #References -->
-​
-
-<!-- #references -->
 ## References
 
-&lt;div class="references-small" ;"&gt;
-
-<!-- #footnotes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 ---
 
-1. <span id="fn1"></span>My great-grandfather's greatest invention. This is the Prototype. In his journal he described it as, "an angel rendered in the finest steel". - [Wax Cylinder 7](./Wax%20Cylinder%207.md)[↩︎](#fnref1)
+[^1]: My great-grandfather's greatest invention. This is the Prototype. In his journal he described it as, "an angel rendered in the finest steel". - [Wax Cylinder 7](./Wax%20Cylinder%207.md)

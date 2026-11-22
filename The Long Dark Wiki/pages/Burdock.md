@@ -31,10 +31,6 @@
 
 **Burdocks** are a sapling plant that were released with the free update Part 3: Frontier Comforts portion of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Burdocks are a dark brown, medium sized sapling that can be found on [Great Bear Island](./Great%20Bear%20Island.md), and can be harvested for a single [Burdock Root](./Burdock%20Root.md).
@@ -45,16 +41,8 @@ Burdocks need a [tool](./Tools.md) to be harvested, similar to [Maple](./Green%2
 
 Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock.md) and eaten raw, or made into a [tea](./Burdock%20Tea.md). Burdocks saplings do not respawn once harvested, and leave a dark hole in the ground where they once grew. Burdock spawns are randomly generated and may vary across playthroughs, leading to spots that had burdocks on previous playthroughs now being empty. The following list of locations cover all possible spawns regardless of loot table.
 
-<!-- #ash_canyon -->
-​
+## Locations
 
-<!-- #Ash_Canyon -->
-​
-
-<!-- #Ash_canyon -->
-​
-
-<!-- #ash-canyon -->
 ### [Ash Canyon](./Ash%20Canyon.md)
 
 - A single plant near the cave after the three root climbing sections with rose hip trees that leads to the bridge going over [Shattered Cove](./Shattered%20Cove.md).
@@ -63,10 +51,6 @@ Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock
 - A couple plants are located close to [Miner's Folly](./Miner%27s%20Folly.md).
 - 5 plants grow in front of the [Angler's Den](./Angler%27s%20Den.md) island.
 
-<!-- #Blackrock -->
-​
-
-<!-- #blackrock -->
 ### [Blackrock](./Blackrock.md)
 
 - 5 plants on an accessible part of the river bank, a short walk from [Narrow Bridge](./Narrow%20Bridge.md) when going towards [Bear's Bend](./Bear%27s%20Bend.md). On the charcoal map, you can see a group of rock formations, the burdocks are in-between those large rocks and easily visible from the road when looking for that piece of river bank.
@@ -75,16 +59,6 @@ Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock
 - A single plant can be found at the bottom of the ravine, to the left-hand side (or south) of the cave facing the double-rope climb that leads to the [Last Prospect](./Last%20Prospect.md) mine.
 - A single plant can be found on the frozen pond to the right of the [prison](./Blackrock%20Prison.md) entrance (where deer roam, not the side where the moose can spawn).
 
-<!-- #broken_railroad -->
-​
-
-<!-- #Broken_Railroad -->
-​
-
-<!-- #Broken_railroad -->
-​
-
-<!-- #broken-railroad -->
 ### [Broken Railroad](./Broken%20Railroad.md)
 
 - 5 plants can be found near some trees on the path on the right side of [Broken Bridge](./Broken%20Bridge%20%28Broken%20Railroad%20location%29.md).
@@ -93,16 +67,6 @@ Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock
 - A single plant can be found in front of the cave near the hunter's blind.
 - 4 plants can be found beneath the tree bridge used to cross to the other side of [Landslide](./Landslide.md).
 
-<!-- #coastal_highway -->
-​
-
-<!-- #Coastal_Highway -->
-​
-
-<!-- #Coastal_highway -->
-​
-
-<!-- #coastal-highway -->
 ### [Coastal Highway](./Coastal%20Highway.md)
 
 - One plant near the northeastern side of the [Abandoned Lookout](./Abandoned%20Lookout.md), near the [old man's beard lichen](./Old%20Man%27s%20Beard%20Lichen.md) spawning trees.
@@ -112,16 +76,6 @@ Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock
 - One plant behind one of the [Coastal Townhouses](./Coastal%20Townsite.md), specifically the house facing the back entrance to [Quonset Garage](./Quonset%20Garage.md).
 - A single plant can be found next to the furthest house to the eastside of the [townsite](./Coastal%20Townsite.md), on your way to the crashed plane.
 
-<!-- #desolation_point -->
-​
-
-<!-- #Desolation_Point -->
-​
-
-<!-- #Desolation_point -->
-​
-
-<!-- #desolation-point -->
 ### [Desolation Point](./Desolation%20Point.md)
 
 - Two plants along the path between the [Church](./Stone%20Church.md) and the Zone entrance, above the [Abandoned Mine No.5](./Abandoned%20Mine%20No.%205.md) entrance.
@@ -130,16 +84,6 @@ Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock
 - Across the road from Hibernia Processing, there's a plant next to a fallen tree with its root exposed. It's along the path that leads into the cave entrance.
 - At [Hibernia Processing](./Hibernia%20Processing.md) near the three trailers, one plant between the three giant metal tubes and the stack of [pallets](./Pallets.md), directly across the broken [radio transmitter](./Transmitters.md) you can fix up
 
-<!-- #forlorn_muskeg -->
-​
-
-<!-- #Forlorn_Muskeg -->
-​
-
-<!-- #Forlorn_muskeg -->
-​
-
-<!-- #forlorn-muskeg -->
 ### [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 
 - A single plant grows near the cliff face (map edge) opposite the [Radio Tower](./Radio%20Tower.md) (East) at [Muskeg Overlook](./Muskeg%20Overlook.md).
@@ -147,16 +91,6 @@ Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock
 - A single plant grows by the [Bunkhouses](./Bunkhouses.md).
 - 3 can be found on a small hill near the [Low Blind](./Low%20Blind.md).
 
-<!-- #hushed_river_valley -->
-​
-
-<!-- #Hushed_River_Valley -->
-​
-
-<!-- #Hushed_river_valley -->
-​
-
-<!-- #hushed-river-valley -->
 ### [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 - A single plant can be found under the tree bridge leading to [Moose Overlook](./Moose%20Overlook.md).
@@ -165,16 +99,6 @@ Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock
 - 3 plants can be found just above towards the right of the 2 plants mentioned above.
 - A single plant can be found near the lichen in [Stairsteps Lake](./Stairsteps%20Lake.md).
 
-<!-- #mountain_town -->
-​
-
-<!-- #Mountain_Town -->
-​
-
-<!-- #Mountain_town -->
-​
-
-<!-- #mountain-town -->
 ### [Mountain Town](./Mountain%20Town.md)
 
 - 5 plants grow near the Silo tower at "Hay storage" unmarked location. The tower, as well as several barns, can be seen on the right just after crossing the bridge, on the road towards [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md).
@@ -183,16 +107,6 @@ Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock
 - A single plant can be found at the bottom of the river below [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md).
 - A single plant grows at the south edge of the Wood Lot that's east of the [Orca Gas Station](./Orca%20Gas%20Station.md).
 
-<!-- #mystery_lake -->
-​
-
-<!-- #Mystery_Lake -->
-​
-
-<!-- #Mystery_lake -->
-​
-
-<!-- #mystery-lake -->
 ### [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 - Two plants just outside [Carter Hydro Dam](./Carter%20Hydro%20Dam.md), inside fence by the top left corner of the entrance.
@@ -202,16 +116,6 @@ Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock
 - One plant below the bridge to Carter Hydro Dam.
 - One plant near the bear cave next to unnamed pond
 
-<!-- #pleasant_valley -->
-​
-
-<!-- #Pleasant_Valley -->
-​
-
-<!-- #Pleasant_valley -->
-​
-
-<!-- #pleasant-valley -->
 ### [Pleasant Valley](./Pleasant%20Valley.md)
 
 - Five plants on the western bend on the river, if you draw a line between [Long Curve](./Long%20Curve.md) and [Three Strikes Homestead](./Three%20Strikes%20Farmstead.md), then a line crossing that coming from the unnamed barn north-west of the [farmhouse](./Pleasant%20Valley%20Farmstead.md).
@@ -219,16 +123,6 @@ Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock
 - One plant under [Heartbreak Bridge](./Heartbreak%20Bridge.md).
 - One plant next to the broken down blue roof of a destroyed cabin, near the bridge just north of [Lonely Homestead](./Lonely%20Homestead.md)
 
-<!-- #sundered_pass -->
-​
-
-<!-- #Sundered_Pass -->
-​
-
-<!-- #Sundered_pass -->
-​
-
-<!-- #sundered-pass -->
 ### [Sundered Pass](./Sundered%20Pass.md)
 
 - A single plant at [Seedling Spring](./Seedling%20Spring.md)
@@ -238,16 +132,6 @@ Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock
 - A single plant on [Ambler's Lake](./Ambler%27s%20Lake.md)
 - A single plant on the lake just above [Perilous Crossing](./Perilous%20Crossing.md)
 
-<!-- #timberwolf_mountain -->
-​
-
-<!-- #Timberwolf_Mountain -->
-​
-
-<!-- #Timberwolf_mountain -->
-​
-
-<!-- #timberwolf-mountain -->
 ### [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 - A single plant on the small hill just before [Mountaineer's Hut](./Mountaineer%27s%20Hut.md), after you've passed the rabbit/[moose](./Moose.md) area and can overlook the Hut.
@@ -258,19 +142,6 @@ Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock
 - A single plant near the wheels of the plane on the [Summit](./Summit.md).
 - 5 plants to the left of the [Blackrock](./Blackrock.md) transition cave.
 
-<!-- #zone_of_contamination -->
-​
-
-<!-- #Zone_of_Contamination -->
-​
-
-<!-- #Zone_of_contamination -->
-​
-
-<!-- #Zone_Of_Contamination -->
-​
-
-<!-- #zone-of-contamination -->
 ### [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 - A single plant can be found near the entrance of the region to the left, on the banks of the frozen pond with the patrolling [Poisoned Wolves](./Poisoned%20Wolf.md).
@@ -279,10 +150,6 @@ Each plant yields one Burdock Root, which can be [prepared](./Prepared%20Burdock
 - Two plants under the tree bridge at Enduring Waterfall (Bug: as of December 2023, one of the plants is phased inside of a rock, making it harder to harvest)
 - A single plant can be found at the mouth of the river that opens into the [Unquenched Extraction](./Unquenched%20Extraction.md) pond.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![A Burdock plant growing under a waterfall in Blackrock region.](../assets/Burdock_plant.png)

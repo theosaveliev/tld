@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>20 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 20 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>25% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 25% condition
 
 > “**Light synthetic vest used by runners. Allows great upper body mobility and a tiny bit of warmth.**”
 >
@@ -36,10 +36,6 @@
 
 The **Sport Vest** is a type of [clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Only 1 Sport Vest can be worn at a time, specifically in the inner torso jacket slot slot.
@@ -52,16 +48,6 @@ It is highly recommended to replace the Sport Vest with the [Down Vest](./Down%2
 
 ![Clothing model icon damaged](../assets/Sport_Vest_Model_Damaged_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

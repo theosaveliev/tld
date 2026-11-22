@@ -38,18 +38,10 @@
 
 **Timberwolves** are hostile wildlife in _[The Long Dark](./The%20Long%20Dark.md)_. They are the tougher and more intelligent counterpart to the common [Wolf](./Wolf.md); unlike regular wolves, Timberwolves always hunt in packs and are more persistent and aggressive.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Timberwolves have silver-gray coats and are larger than their black Wolf cousins, and roam in packs of 2-8. Being highly territorial, most regions that Timberwolves inhabit will be free of normal black wolves in open areas, with many containing [ravaged wolf carcasses](./Wolf%20Carcass.md) near the region entrances as early warnings for the player. ![A slightly smaller Wolf compared to a Timberwolf](../assets/Wolf_and_Timberwolf.jpg)_A slightly smaller Wolf compared to a Timberwolf_ Each pack has a varying degree of morale at the start of every confrontation, with the total amount dependent on the initial size of the pack. Timberwolves will not give up attacking the player until enough of the pack is killed, the player escapes to a safety, 1 pack member is left alive, or morale is fully depleted. Escaping indoors will cause unique audio cues to play, with the Timberwolves growling and clawing at the door in an attempt to get inside, at least until enough time passes for the pack to lose interest in the player.
 
-<!-- #Drops -->
-​
-
-<!-- #drops -->
 ## Drops
 
 A [Timberwolf Carcass](./Timberwolf%20Carcass.md) may be harvested for 4.00-7.00 kg of [raw meat](./Wolf%20Meat%20%28Raw%29.md), 1 [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) and 2 guts.
@@ -58,8 +50,8 @@ Despite having a different colored coat, ordinary black Wolf Hides are produced 
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)* | 4 - 7 | Always<span id="fnref1"></span>[¹](#fn1) |
-| [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 1 - 2 | Always<span id="fnref2"></span>[²](#fn2) |
+| [Wolf Meat (Raw) icon](../assets/Wolf_Meat_%28Raw%29_icon.png) | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)* | 4 - 7 | Always[^1] |
+| [Wolf Quarter icon](../assets/Wolf_Quarter_icon.png) | [Wolf Quarter](./Wolf%20Quarter.md) | 1 - 2 | Always[^2] |
 | [Fresh Wolf Pelt icon](../assets/Fresh_Wolf_Pelt_icon.png) | [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md) | 1 | Always |
 | [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 2 | Always |
 
@@ -71,10 +63,6 @@ Animal Fat is produced automatically when harvesting raw meat. It cannot be harv
 | --- | --- | --- | --- |
 | [Animal Fat icon](../assets/Animal_Fat_icon.png) | [Animal Fat](./Animal%20Fat.md) | 0.10 per kg of meat | Always |
 
-<!-- #Behavior -->
-​
-
-<!-- #behavior -->
 ## Behavior
 
 > “**Nothing good about that sound...**”
@@ -92,10 +80,6 @@ Unlike common Wolves, Timberwolves do not 'stalk' the player, instead howling up
 - Timberwolves will not give up a hunt if the player enters a [Vehicle](./Vehicle.md) or building interior until half a day of not reaching the player passes or the player saves and loads the game. Fleeing into buildings may create a unique audio file to play of Timberwolves growling and attempting to scratch the door down.
 - Like Wolves, Timberwolves may be frightened by a worn [Wolfskin Coat](./Wolfskin%20Coat.md), [Bearskin Coat](./Bearskin%20Coat.md), or [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md), but only before the pack howls/engages a hunt. A single wolf may flee, but if other Timberwolves are nearby and detect the player, they may not be frightened and a hunt may begin.
 
-<!-- #Morale -->
-​
-
-<!-- #morale -->
 ### Morale
 
 ![An example of a partially drained Morale meter](../assets/Timberwolf_Morale_Bar.jpg)
@@ -120,16 +104,6 @@ Timberwolves will continue to attack the player until the following conditions a
 
 Injured Timberwolves do not participate in attacks (though it takes a few seconds for them to realize they are injured), and they flee from the player even if the pack has high morale. If every Timberwolf in the pack is injured, then the player is safe from attack, though the morale bar will only disappear once enough of the Timberwolves have bled to death.
 
-<!-- #lowering_morale -->
-​
-
-<!-- #Lowering_Morale -->
-​
-
-<!-- #Lowering_morale -->
-​
-
-<!-- #lowering-morale -->
 ### Lowering Morale
 
 Morale can be lowered by shooting or throwing objects at the Timberwolves.
@@ -144,35 +118,12 @@ Morale can be lowered by shooting or throwing objects at the Timberwolves.
 
 ![An example of a single Timberwolf defending a Rabbit kill after its pack was culled.](../assets/Timberwolf_Defend_Kill.jpg)
 
-<!-- #lone_wolves_after_pack_dissolvement -->
-​
-
-<!-- #Lone_Wolves_after_Pack_dissolvement -->
-​
-
-<!-- #Lone_wolves_after_pack_dissolvement -->
-​
-
-<!-- #Lone_Wolves_After_Pack_Dissolvement -->
-​
-
-<!-- #lone-wolves-after-pack-dissolvement -->
 ### Lone Wolves after Pack dissolvement
 
 If a Timberwolf pack is thoroughly culled, individual surviving Timberwolves from that pack will flee to a safe distance any time they detect the player. In this state, they will continue to individually hunt [Rabbits](./Rabbit.md), [Ptarmigan](./Ptarmigan.md), and [Deer](./Deer.md) as normal. If they successfully hunt a prey animal and the player approaches them, rather than running away they instead will defend kills like normal Wolves. In this state, they can be scared off by aimed weapons. Unlike regular Wolves defending kills, a lone Timberwolf will always run away when defending a kill if the player gets too close, rather than initiate a Struggle.
 
 Lone Timberwolves will not join another Timberwolf pack should they come across one, and remain treated as individuals.
 
-<!-- #aurora_timberwolf -->
-​
-
-<!-- #Aurora_Timberwolf -->
-​
-
-<!-- #Aurora_timberwolf -->
-​
-
-<!-- #aurora-timberwolf -->
 ### Aurora Timberwolf
 
 ![An Aurora Timberwolf](../assets/Aurora_Timberwolf.jpg)_An Aurora Timberwolf_ During an [Aurora](./Aurora.md), Timberwolves will turn green and become far more aggressive. They take more damage to kill, no longer fear fire, and their pack Morale is much harder to deplete. They do however fear the [Flashlight](./Flashlight.md) and street lights. Great care should be taken when traveling during an Aurora, as Timberwolf packs are more persistent and aggressive when it comes to chasing the player down.
@@ -183,16 +134,6 @@ Lone Timberwolves will not join another Timberwolf pack should they come across 
 - They fear [Flashlight](./Flashlight.md) high beams and will temporarily stop a charge as long as they are on. Flashlight's high beams are also effective at reducing pack morale, as per patch notes from June 2020.
 - They will stay away from lit [Campfires](./Campfire.md), but will still stay close by and stalk to the player.
 
-<!-- #evasion_strategies -->
-​
-
-<!-- #Evasion_Strategies -->
-​
-
-<!-- #Evasion_strategies -->
-​
-
-<!-- #evasion-strategies -->
 ## Evasion Strategies
 
 Timberwolves are competent in fights which makes detecting, avoiding, or escaping them preferable to combat.
@@ -209,16 +150,6 @@ Timberwolves are competent in fights which makes detecting, avoiding, or escapin
 - When entering an indoors area which is outside of the packs territory (example: being chased to the [Foreman's Clearcut](./Foreman%27s%20Clearcut.md) trailer from [Cook's Farm](./Cook%27s%20Farm.md)) listen carefully and if the sound of barking is not heard, you can exit the door immediately after entering, the pack having returned to their territory.
 - During an Aurora the flashlight, streetlights, and vehicle headlights are effective against aurora Timberwolves.
 
-<!-- #fight_strategies -->
-​
-
-<!-- #Fight_Strategies -->
-​
-
-<!-- #Fight_strategies -->
-​
-
-<!-- #fight-strategies -->
 ## Fight Strategies
 
 Timberwolves can be fought with the right tools or tactics.
@@ -231,10 +162,6 @@ Timberwolves can be fought with the right tools or tactics.
 - The [Distress Pistol](./Distress%20Pistol.md) is effective at depleting morale, but its cumbersome reload and relative quietness, opens the survivor up to the other wolves. A well placed shot can deplete up to 1/4 of a pack's morale.
 - As with other predators, it is possible to sneak up close to Timberwolves while crouched and redirect them with thrown stones or by picking up/dropping smelly items. This allows them to be hunted more effectively without starting an attack. A mastered [Survival Bow](./Survival%20Bow.md) (level 5 skill) is well suited for this method.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 Timberwolves are most abundant in the following regions:
@@ -267,10 +194,6 @@ Following the Wildlife Refresh ([December 2024](./Tales%20from%20the%20Far%20Ter
   - On the ice at [Crystal Lake](./Crystal%20Lake.md), next to the [Mountaineer's Hut](./Mountaineer%27s%20Hut.md).
   - Eric's Falls.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Timberwolves are based on [Eastern Wolves](https://en.wikipedia.org/wiki/Eastern_wolf), or the Algonquin Timber Wolf (**_Canis lycaon**''), and are a Canine subspecies of the regular [Wolf](./Wolf.md) (**_Canis lupus**'').
@@ -278,12 +201,8 @@ Following the Wildlife Refresh ([December 2024](./Tales%20from%20the%20Far%20Ter
 - Timberwolves would ironically be absent from the titular [Timberwolf Mountain](./Timberwolf%20Mountain.md) when it was released in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212).
   - Timberwolves were added in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) (V1.60) in Wintermute, then to Survival Mode with the Errant Pilgrim update (V1.64).
   - Timberwolves would finally have a chance to appear in the Timberwolf Mountain region with the Global Wildlife Refresh in the Part 6 Tales from the Far Territory update (V2.33).
-- "The Timberwolf" is a track that originally played during timberwolf encounters in Wintermute Episode 3, later removed in an update. The track is still available to listen to on composer Cris Velasco's website.<span id="fnref3"></span>[³](#fn3)
+- "The Timberwolf" is a track that originally played during timberwolf encounters in Wintermute Episode 3, later removed in an update. The track is still available to listen to on composer Cris Velasco's website.[^3]
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![A Timberwolf alongside a standard Wolf](../assets/TimberWithReg.png)
@@ -308,16 +227,6 @@ _Concept art of Timberwolves at the [Fallen Lighthouse](./Fallen%20Lighthouse.md
 
 ![Timberwolves in the Episode 3 menu](../assets/Episode_3_Menu_Background.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **27 June 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.79)):**
@@ -361,14 +270,10 @@ _Concept art of Timberwolves at the [Fallen Lighthouse](./Fallen%20Lighthouse.md
 
 == References ==  **Template:wildlife** [ru:Лесной волк](https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%BB%D0%BA)
 
-<!-- #footnotes -->
-​
-
-<!-- #notes -->
 ## Notes
 
 ---
 
-1. <span id="fn1"></span>If carcass is harvested[↩︎](#fnref1)
-2. <span id="fn2"></span>If carcass is quartered.[↩︎](#fnref2)
-3. <span id="fn3"></span>[Cris Velasco official website](https://crisvelasco.com)[↩︎](#fnref3)
+[^1]: If carcass is harvested
+[^2]: If carcass is quartered.
+[^3]: [Cris Velasco official website](https://crisvelasco.com)

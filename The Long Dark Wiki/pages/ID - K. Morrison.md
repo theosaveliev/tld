@@ -32,24 +32,10 @@
 
 During the course of the mission, Astrid finds the ID on a corpse at the [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md).
 
-<!-- #Location -->
-​
-
-<!-- #location -->
 ## Location
 
 The ID is located on a [Frozen Corpse](./Frozen%20Corpse.md) found after immediately falling from the main body of the plane and turning to the left, over the hill in a ditch near a nearby tree with the corpse of [ID - F. Leblanc](./ID%20-%20F.%20Leblanc.md). The ID is later returned to Bennett at the [Community Hall](./Community%20Hall.md), with Astrid giving her sympathies. ![K. Morrison and F. Leblanc location](../assets/K._Morrison_and_F._Leblanc_location.jpg)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

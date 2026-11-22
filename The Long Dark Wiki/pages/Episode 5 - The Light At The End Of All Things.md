@@ -38,27 +38,12 @@ Hinterland released Episode 5 of _The Long Dark_ for free to all current owners 
 
 Both Mackenzie and Astrid are playable characters in the Episode, switching perspectives between multiple parts of the story between missions.
 
-<!-- #part_one_perseverance -->
-​
+## Missions
 
-<!-- #Part_One:_Perseverance -->
-​
-
-<!-- #part_one:_perseverance -->
-​
-
-<!-- #Part_one:_perseverance -->
-​
-
-<!-- #part-one-perseverance -->
 ### Part One: Perseverance
 
 Perseverance is the first chapter of Episode 5. [Astrid Greenwood](./Astrid%20Greenwood.md) is the only playable character in this chapter. The chapter takes place at [Perseverance Mills](./Perseverance%20Mills.md) and in the surrounding Perseverance Countryside. It contains 3 different missions. ![Missions story ep5 Perseverance](../assets/Missions_story_ep5_Perseverance.png)
 
-<!-- #Perseverance -->
-​
-
-<!-- #perseverance -->
 #### Perseverance
 
 _Main article: [Perseverance](./Perseverance.md)_
@@ -69,16 +54,6 @@ _Main article: [Perseverance](./Perseverance.md)_
 
 It is the first mission of the game. This mission starts with a conversation between [Astrid](./Astrid%20Greenwood.md) and [Jane Yang](./Jane%20Yang.md). Jane states there are some missing people of the town. Hence, in order to find out what happened to these missing people, Astrid goes to the Cooper's Blind and Dr. Larson's clinic. ![Missions story ep5 ToThoseWhoAreMissing](../assets/Missions_story_ep5_ToThoseWhoAreMissing.png)
 
-<!-- #to_those_who_are_missing -->
-​
-
-<!-- #To_Those_Who_Are_Missing -->
-​
-
-<!-- #To_those_who_are_missing -->
-​
-
-<!-- #to-those-who-are-missing -->
 #### To Those Who Are Missing
 
 _Main article: [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md)_
@@ -89,16 +64,6 @@ _Main article: [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md)
 
 ![Missions story ep5 ACryforHelp](../assets/Missions_story_ep5_ACryforHelp.png)
 
-<!-- #a_cry_for_help -->
-​
-
-<!-- #A_Cry_For_Help -->
-​
-
-<!-- #A_cry_for_help -->
-​
-
-<!-- #a-cry-for-help -->
 #### A Cry For Help
 
 _Main article: [A Cry For Help](./A%20Cry%20For%20Help.md)_
@@ -107,36 +72,10 @@ _Main article: [A Cry For Help](./A%20Cry%20For%20Help.md)_
 
 — In-game description
 
-<!-- #part_two_strange_history -->
-​
-
-<!-- #Part_Two:_Strange_History -->
-​
-
-<!-- #part_two:_strange_history -->
-​
-
-<!-- #Part_two:_strange_history -->
-​
-
-<!-- #part-two-strange-history -->
 ### Part Two: Strange History
 
 The player plays as [Will Mackenzie](./Will%20Mackenzie.md) while accompanying [Jace](./Jace.md) to the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md), containing 2 missions. ![Missions story ep5 TheLongBrokenRoad](../assets/Missions_story_ep5_TheLongBrokenRoad.png)
 
-<!-- #the_cold_broken_road -->
-​
-
-<!-- #The_Cold,_Broken_Road -->
-​
-
-<!-- #the_cold,_broken_road -->
-​
-
-<!-- #The_cold,_broken_road -->
-​
-
-<!-- #the-cold-broken-road -->
 #### The Cold, Broken Road
 
 _Main article: [The Cold, Broken Road](./The%20Cold%2C%20Broken%20Road.md)_
@@ -147,16 +86,6 @@ _Main article: [The Cold, Broken Road](./The%20Cold%2C%20Broken%20Road.md)_
 
 ![Missions story ep5 HighEnergy](../assets/Missions_story_ep5_HighEnergy.png)
 
-<!-- #high_energy -->
-​
-
-<!-- #High_Energy -->
-​
-
-<!-- #High_energy -->
-​
-
-<!-- #high-energy -->
 #### High Energy
 
 _Main article: [High Energy](./High%20Energy.md)_
@@ -165,36 +94,10 @@ _Main article: [High Energy](./High%20Energy.md)_
 
 — In-game description
 
-<!-- #part_three_do_no_harm -->
-​
-
-<!-- #Part_Three:_Do_No_Harm -->
-​
-
-<!-- #part_three:_do_no_harm -->
-​
-
-<!-- #Part_three:_do_no_harm -->
-​
-
-<!-- #part-three-do-no-harm -->
 ### Part Three: Do No Harm
 
 ![Missions story ep5 ToSARandBack](../assets/Missions_story_ep5_ToSARandBack.png) The player takes control of Astrid again for a single mission.
 
-<!-- #to_sar_and_back -->
-​
-
-<!-- #To_SAR_And_Back -->
-​
-
-<!-- #To_sar_and_back -->
-​
-
-<!-- #To_Sar_And_Back -->
-​
-
-<!-- #to-sar-and-back -->
 #### To SAR And Back
 
 _Main article: [To SAR And Back](./To%20SAR%20And%20Back.md)_
@@ -203,27 +106,10 @@ _Main article: [To SAR And Back](./To%20SAR%20And%20Back.md)_
 
 — In-game description
 
-<!-- #part_four_terminus -->
-​
-
-<!-- #Part_Four:_Terminus -->
-​
-
-<!-- #part_four:_terminus -->
-​
-
-<!-- #Part_four:_terminus -->
-​
-
-<!-- #part-four-terminus -->
 ### Part Four: Terminus
 
 The player takes control of Mackenzie again for the last mission. ![Missions story ep5 Conflagration](../assets/Missions_story_ep5_Conflagration.png)
 
-<!-- #Conflagration -->
-​
-
-<!-- #conflagration -->
 #### Conflagration
 
 _Main article: [Conflagration](./Conflagration.md)_
@@ -232,30 +118,12 @@ _Main article: [Conflagration](./Conflagration.md)_
 
 — In-game description
 
-<!-- #side_missions -->
-​
-
-<!-- #Side_Missions -->
-​
-
-<!-- #Side_missions -->
-​
-
-<!-- #side-missions -->
 ## Side Missions
 
 This is the only Episode to not contain any Side Missions.
 
-<!-- #major_characters -->
-​
+## Cast
 
-<!-- #Major_Characters -->
-​
-
-<!-- #Major_characters -->
-​
-
-<!-- #major-characters -->
 ### Major Characters
 
 - [Will Mackenzie](./Will%20Mackenzie.md) - Mark Meer
@@ -265,16 +133,6 @@ This is the only Episode to not contain any Side Missions.
 - [Atwood](./Atwood.md) - Mayumi Yoshida
 - [Jace](./Jace.md) - Tina Grant
 
-<!-- #minor_characters -->
-​
-
-<!-- #Minor_Characters -->
-​
-
-<!-- #Minor_characters -->
-​
-
-<!-- #minor-characters -->
 ### Minor Characters
 
 - [Cooper](./Cooper.md) - Shawn Youngchief
@@ -293,10 +151,6 @@ This is the only Episode to not contain any Side Missions.
 - Medical Officer - Vincent Tong
 - [Convicts](./Convicts.md)/Sentries - Michael Daingerfield, Victor Hunter / Joe Allard, Victor Hunter
 
-<!-- #Achievements -->
-​
-
-<!-- #achievements -->
 ## Achievements
 
 - ![Quarantine icon](../assets/Quarantine_icon.png) [Quarantine](./Quarantine.md)
@@ -312,10 +166,6 @@ This is the only Episode to not contain any Side Missions.
 - ![The Last Light icon](../assets/The_Last_Light_icon.png) [The Last Light](./The%20Last%20Light.md)
 - ![The New World icon](../assets/The_New_World_icon.png) [The New World](./The%20New%20World.md)
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Announcement poster for Episode 5](../assets/Episode_Five_Poster.jpg)
@@ -326,13 +176,7 @@ This is the only Episode to not contain any Side Missions.
 
 ![Tld april dev diary balcony view res resized](../assets/Tld-april-dev-diary-balcony-view-res-resized.jpg)
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - In an interview with the popular YouTuber Zaknafein, Raphael van Lierop said in response to player criticisms that "Episode 5 was made for people who like Wintermute."
   - Of all five episodes, this one focuses the least on [survival](./Survival%20Mode.md), and the most on storytelling.
-
-[ru:Режим истории: эпизод 5](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8:_%D1%8D%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4_5)

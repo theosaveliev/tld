@@ -14,26 +14,12 @@
 
 **Type:** Outdoors
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Max's Last Stand is directly south of Trapper's Homestead in a clearing. Beneath a lone tree, a frozen corpse (presumably Max) lies face-down in the snow. In game difficulties other than Interloper, a firearm and/or ammo might lie nearby.
 
 The continual calls of crows circling the body can serve as a "landmark" of sorts to navigate the hilly landscape around the Trapper's homestead.
 
-<!-- #possible_loot -->
-​
-
-<!-- #Possible_loot -->
-​
-
-<!-- #Possible_Loot -->
-​
-
-<!-- #possible-loot -->
 ## Possible loot
 
 - [Hatchet](./Hatchet.md)

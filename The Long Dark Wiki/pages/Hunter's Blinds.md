@@ -4,10 +4,6 @@
 
 **Hunter's blinds** are a type of small structure used for hunting. ![A Hunter's Blind near Hilltop Cave, Pleasant Valley.](../assets/Hunter%27s_Blind_Hilltop.jpg)_A Hunter's Blind near Hilltop Cave, Pleasant Valley._
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Hunter's blinds are enclosed wooden platforms used as stations from which to hunt deer and other game.
@@ -18,10 +14,6 @@ Blinds may also contain a small amount of useful loot, such as [food](./Food%20A
 
 ![Another Hunter's Blind in Pleasant Valley.](../assets/Screen_Shot_2017-03-06_at_9.26.08_am.png)
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 - Near [Abandoned Prepper's Cache](./Prepper%27s%20Abandoned%20Cache.md), in [Pleasant Valley](./Pleasant%20Valley.md).

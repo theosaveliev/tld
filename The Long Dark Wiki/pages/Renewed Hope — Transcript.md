@@ -16,14 +16,10 @@
 
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Methuselah](./Methuselah.md)<br>[Mathis](./Mathis.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) [Methuselah](./Methuselah.md) [Mathis](./Mathis.md)
 
 This is the mission transcript for mission 5 [Renewed Hope](./Renewed%20Hope.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _Mackenzie is standing outside the [Trapper's Homestead](./Trapper%27s%20Homestead.md) as the chapter begins_

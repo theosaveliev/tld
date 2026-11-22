@@ -23,7 +23,7 @@
 
 **Stackable:** No
 
-**Examine:** Freshly harvested fur from a Wolf. Warm, and striking to look at.<br>Can be used for crafting and repair after air-drying indoors for 7 days.
+**Examine:** Freshly harvested fur from a Wolf. Warm, and striking to look at. Can be used for crafting and repair after air-drying indoors for 7 days.
 
 **Values**
 
@@ -31,10 +31,6 @@
 
 **Fresh Wolf Pelt** is the raw hide of a [Wolf](./Wolf.md), [Timberwolf](./Timberwolf.md), or [Poisoned Wolf](./Poisoned%20Wolf.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Wolfskin Coats](./Wolfskin%20Coat.md) once they have [Cured](./Curing.md) into a [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Fresh Wolf Pelts are acquired by harvesting a [Wolf](./Wolf%20Carcass.md), [Timberwolf](./Timberwolf%20Carcass.md), or [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md). They can then be cured by leaving them indoors for 7 days (in-game). Fresh Wolf Pelts [Decay](./Decay.md) at a rate of 5 Condition a day (Stalker difficulty) and will decay into Ruined status if not left to cure indoors. The current curing status can be checked by hovering your reticle over the item, where it will display a "X% Cured" progress. This increases until the item is 100% cured, where the item will automatically become fully cured, will change to a darker texture, and is ready for crafting use. Completely cured items never decay.
@@ -45,16 +41,6 @@ An alternative but very dangerous method of obtaining a pelt involves allowing a
 
 Each Wolf Carcass (or variant) will always contain one pelt, along with [meat](./Wolf%20Meat%20%28Raw%29.md) and [Fresh Gut](./Fresh%20Gut.md). Occasionally, dead ravaged Wolf Carcasses can be found across [Great Bear Island](./Great%20Bear%20Island.md).
 
-<!-- #drop_sources -->
-​
-
-<!-- #Drop_sources -->
-​
-
-<!-- #Drop_Sources -->
-​
-
-<!-- #drop-sources -->
 ## Drop sources
 
 | Source | Quantity | Rarity |
@@ -63,24 +49,10 @@ Each Wolf Carcass (or variant) will always contain one pelt, along with [meat](.
 | [Timberwolf](./Timberwolf.md) | 1 | Always |
 | [Poisoned Wolf](./Poisoned%20Wolf.md) | 1 | Always |
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Fresh_wolf_pelt.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 May 2015 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)):**

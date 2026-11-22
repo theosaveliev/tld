@@ -16,7 +16,7 @@
 
 **Region:** [Mountain Town](./Mountain%20Town.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md)<br>[Methuselah](./Methuselah.md)<br>[Hobbs](./Hobbs.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md) [Methuselah](./Methuselah.md) [Hobbs](./Hobbs.md)
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -26,10 +26,6 @@
 
 **The Grey Mother** is the third mission of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) meets [Grey Mother](./Grey%20Mother.md) and performs various tasks for her in order to coax information about Astrid's whereabouts out of the old woman, while also learning more about the Town of Milton.
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Find supplies to help keep Grey Mother alive.
@@ -45,10 +41,6 @@
   - Retrieve the contents of the safety deposit box from the bank.
   - Return to Grey Mother.
 
-<!-- #Walkthrough -->
-​
-
-<!-- #walkthrough -->
 ## Walkthrough
 
 | Mission details | Mission details |

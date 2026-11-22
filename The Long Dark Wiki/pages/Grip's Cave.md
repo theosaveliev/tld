@@ -18,12 +18,8 @@
 
 **Type:** Cave
 
-Provides some shelter<br>**Grip's Cave** is a small cave located in [Forsaken Airfield](./Forsaken%20Airfield.md).
+Provides some shelter **Grip's Cave** is a small cave located in [Forsaken Airfield](./Forsaken%20Airfield.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The cave is located directly north of [Junker's Paddock](./Junker%27s%20Paddock.md), but on the other side of the mountain behind [Stony Passage](./Stony%20Passage.md). It is best reached by taking the path south of [Sudden Washout](./Sudden%20Washout.md). It is an isolated cave, requiring the player to turn back the way they came once they are finished exploring the area.
@@ -32,10 +28,6 @@ The cave doesn't have a bed or campfire, but spawns a frozen corpse alongside a 
 
 The cave is a source of [Coal](./Coal.md).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![A Wolf Carcass and a corpse of a hunter inside the cave](../assets/Grip%27s_Cave_inside.jpg)

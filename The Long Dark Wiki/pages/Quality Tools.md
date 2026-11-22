@@ -16,7 +16,7 @@
 
 **Harvest:** 3 × [Scrap Metal](./Scrap%20Metal.md) 1 hour
 
-**Repair:** 1 × [Scrap Metal](./Scrap%20Metal.md) 20% Condition<br>2 hours
+**Repair:** 1 × [Scrap Metal](./Scrap%20Metal.md) 20% Condition 2 hours
 
 > “**Good quality tools for crafting and repair.**”
 >
@@ -24,10 +24,6 @@
 
 **Quality Tools** are a Tool item used for crafting items and repairing equipment.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Quality tools weigh 0.75 kilograms. Quality tools can repair an item 100% faster (halving the repair time) than without any tools. They also increase the chance of a successful repair by 20%. In addition to repairing more quickly and more reliably, quality tools also weigh less than simple tools. However, quality tools are more rare.
@@ -64,26 +60,12 @@ Quality Tools are needed to craft the following item
 
 - [Bear Hide Rug](./Bear%20Hide%20Rug.md)
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Quality_tools.png)
 
 ![Model as of v2.33](../assets/Quality_tools_TFTFTpart6.jpg)
 
-<!-- #game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #game-history -->
 ## Game History
 
 \* unknown date
@@ -91,5 +73,3 @@ Quality Tools are needed to craft the following item
   - Added to game.
 - UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)):**
   - Item received a new model
-
-[ru:Качественный инструмент](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82)

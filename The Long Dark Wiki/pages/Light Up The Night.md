@@ -28,51 +28,25 @@
 
 This side mission has since been replaced by the [Highway Robbery (mission)](./Highway%20Robbery%20%28mission%29.md).
 
-<!-- #official_description -->
-​
-
-<!-- #Official_description -->
-​
-
-<!-- #Official_Description -->
-​
-
-<!-- #official-description -->
 ## Official description
 
 > “**Grey Mother Trusts you enough to tell you about a Distress Pistol stashed away by one of her neighbours. If you can find it, it would make a useful Wolf deterrent.**”
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Search the house and locate the hidden Distress Pistol.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 To start the mission, Mackenzie has to raise the Trust of [Grey Mother](./Grey%20Mother.md) to at least 175 points and speak to her about arming yourself. She will direct you to a nearby house in Milton, where her neighbor, whom used to work in the Coast Guard, has stashed a [Distress Pistol](./Distress%20Pistol.md) somewhere in his home where the neighbor children could not find it.
 
 Make your way down the road to the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) and the house on the left is your objective (can easily be seen on the map). Go inside and go to the dressers next to the bathroom. The rug on the floor holds a hidden cache.
 
-<!-- #Rewards -->
-​
-
-<!-- #rewards -->
 ## Rewards
 
 - [Distress Pistol](./Distress%20Pistol.md)
 - 4 x [Flare Shell](./Flare%20Shell.md)
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following conversation occurs when selected in the Trust menu with Grey Mother._
@@ -103,24 +77,10 @@ Mackenzie: "Old McDermott must have hidden that weapon in here somewhere."
 
 _Mackenzie searches the house, eventually finding a carpet near the clothing dressers and searches a Hidden Cache, finding the flaregun_
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 While this side mission was ultimately cut from the game following the Redux update, Henry McDermott's name can be seen in a [Buffer Memory](./Buffer%20Memories.md) email at the [Orca Gas Station](./Orca%20Gas%20Station.md), suggesting that he was still canonically a resident of Milton before the First Flare (though renamed Hank McDermott).
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

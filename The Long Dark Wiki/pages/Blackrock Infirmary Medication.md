@@ -36,26 +36,12 @@
 
 During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) journeys outside [Blackrock Federal Penitentiary](./Blackrock%20Prison.md) towards [Cutty's Cave](./Cutty%27s%20Cave.md), and retrieves the medication off a [Dead Prison Guard](./Dead%20Prison%20Guard.md) for [Franklin](./Franklin.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from the label on **Blackrock Infirmary Medication**_
 
 High-quality, injectable medication. The label reads, “FOR EMERGENCIES ONLY”.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**

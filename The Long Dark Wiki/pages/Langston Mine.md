@@ -30,10 +30,6 @@
 
 Has a workbench
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Due to the extreme length and dangers of the mine, it is advised to prepare oneself for exploration by:
@@ -47,10 +43,6 @@ Due to the extreme length and dangers of the mine, it is advised to prepare ones
 - Bringing a [Bedroll](./Bedroll.md) if you wish to rest in other parts of the mine. If not, there is one bed in the mine near the third level of the elevator.
 - [Campfires](./Campfire.md) cannot be started in the mine, but [Fire Barrels](./Fire%20Barrel.md) can be found at various places to cook food.
 
-<!-- #Entrances -->
-​
-
-<!-- #entrances -->
 ## Entrances
 
 The mine itself has 4 levels and 7 entrances:
@@ -61,63 +53,28 @@ The mine itself has 4 levels and 7 entrances:
 - An entrance to level 3 in the open pit mine
 - An entrance to Level 3 is near [Miner's Footpath](./Miner%27s%20Footpath.md)
 
-<!-- #Levels -->
-​
-
-<!-- #levels -->
 ## Levels
 
 The levels in the mine are numerous, large and confusing. It is very easy to find yourself trapped or running in circles. Levels may be further split into different isolated sections.
 
 [Fire Barrels](./Fire%20Barrel.md) and [Lanterns](./Lantern.md) can be found scattered around the tunnels and caverns, usually at junctions.
 
-<!-- #mountainside_passage -->
-​
-
-<!-- #Mountainside_Passage -->
-​
-
-<!-- #Mountainside_passage -->
-​
-
-<!-- #mountainside-passage -->
 ### Mountainside Passage
 
 This "Level" is only opened as part of the Tale Buried Echoes Tale. It has two entry points, one from the locked gate in the mountainside entrance near the 6th floor of the Concentrator, and the other via a locked gate on Level 1 below the Conveyor Room.
 
 The key to the mountain entrance can be found deeper in Level 3 after progressing the Buried Echoes. The lower entrance can be unlocked **after** completing the Tale.
 
-<!-- #level_1 -->
-​
-
-<!-- #Level_1 -->
-​
-
-<!-- #level-1 -->
 ### Level 1
 
 Level 1 is accessible from the elevator shaft of the Headframe Building and via the conveyor from the [Conveyor Room](./Conveyor%20Room.md).
 
 When coming from the elevator and keeping to the left, a small cabin can be found. Inside is a locked lockbox that can be opened with a [Mine Lockbox Key](./Mine%20Lockbox%20Key.md). The key can be looted from a corpse found on the same level, but you will need to navigate through toxic gas to reach it. The lockbox contains cash and a [Gold Nugget](./Gold%20Nugget.md).
 
-<!-- #level_2 -->
-​
-
-<!-- #Level_2 -->
-​
-
-<!-- #level-2 -->
 ### Level 2
 
 Level 2 is only accessible from the elevator shaft of the headframe building. This level is characterized by a large crushing machine, presumably used to crush chunks of rock to extract uranium ore/Coal. The area around it has a [Fire Barrel](./Fire%20Barrel.md) and a [Work Bench](./Work%20Bench.md). An accessible (but one-way) chute leads down from the bottom of the machine into Level 3.
 
-<!-- #level_3 -->
-​
-
-<!-- #Level_3 -->
-​
-
-<!-- #level-3 -->
 ### Level 3
 
 This is the bottom floor of the mine, and by far the largest accessible level.
@@ -134,18 +91,10 @@ West of the main elevator is large cavern with a skylight and a chemical pool at
 
 Continuing further through more toxic gas will bring you across some [Supply Bins](./Supply%20Bin.md) and two corpses. The corpse in the section with the low ceiling carries the [Mine Office Key](./Mine%20Office%20Key.md). You can continue further into a crawlspace to reach the pit entrance.
 
-<!-- #Achievements -->
-​
-
-<!-- #achievements -->
 ## Achievements
 
 - ![Too Greedily, too Deep icon](../assets/Too_Greedily%2C_too_Deep_icon.png) [Too Greedily, too Deep](./Too%20Greedily%2C%20too%20Deep.md)
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The southwestern most entrance near Miner's Footpath.](../assets/Langston_Mine_Southwest.jpg)

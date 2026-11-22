@@ -30,10 +30,6 @@
 
 **Newspaper Clipping** is a [Collectible](./Collectibles.md) note found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story. It is found in the room by the [Blackrock Gate Key](./Blackrock%20Gate%20Key.md), where the first [Noisemaker](./Noisemaker.md) is found, on the corkboard.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Newspaper Clipping**_
@@ -48,16 +44,6 @@ Prison officials seemed confident all three also died navigating the rough terra
 
 ---
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**

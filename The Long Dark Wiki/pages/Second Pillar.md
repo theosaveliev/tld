@@ -16,10 +16,6 @@
 
 Has no shelter **Second Pillar** is a location reached after crossing [Perilous Crossing](./Perilous%20Crossing.md) in [Sundered Pass](./Sundered%20Pass.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 It is the anchor point for a [Rope Climbing](./Rope%20Climbing.md) section, and becomes marked once the player reaches the top. [Ptarmigan](./Ptarmigan.md) can be found above and below the rope climb spot.

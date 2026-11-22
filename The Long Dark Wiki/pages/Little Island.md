@@ -14,10 +14,6 @@
 
 **Type:** Outdoors
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Little Island is located to the east of [Lonely Lighthouse](./Lonely%20Lighthouse.md), and south of [Hibernia Processing](./Hibernia%20Processing.md) and [The Riken](./The%20Riken.md).
@@ -26,10 +22,6 @@ Little Island is located to the east of [Lonely Lighthouse](./Lonely%20Lighthous
 
 Also, every few days a couple of [Deer](./Deer.md) will be seen on the island and a [Deer Carcass](./Deer%20Carcass.md) can spawn. A frozen corpse can spawn on the side nearest the water.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Another view of Little Island.](../assets/Little_Island_02.jpg)

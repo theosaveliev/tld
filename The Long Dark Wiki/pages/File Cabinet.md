@@ -40,10 +40,6 @@ A **File Cabinet** is a stationary interactable object in [The Long Dark](./The%
 
 In some cases, filing cabinets can have draws be open or missing, and thus are not searchable (but they still can have items inside). This is most common in larger locations, or in locations that are run-down, like [Carter Hydro Dam.](./Carter%20Hydro%20Dam.md)
 
-<!-- #Loot -->
-​
-
-<!-- #loot -->
 ## Loot
 
 |  | Item | Rarity |

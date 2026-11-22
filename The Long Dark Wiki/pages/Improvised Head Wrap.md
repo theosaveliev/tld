@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>25% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 25% condition
 
 > “**Almost a hat, made from scraps of cloth.**”
 >
@@ -42,10 +42,6 @@ It's stats are mostly identical to the [Cotton Toque](./Cotton%20Toque.md), with
 
 ![Model icon damaged](../assets/Improvised_Head_Wrap_Model_Damaged_icon.png)
 
-<!-- #Crafting -->
-​
-
-<!-- #crafting -->
 ## Crafting
 
 **Improvised Head Wrap**
@@ -60,16 +56,6 @@ It's stats are mostly identical to the [Cotton Toque](./Cotton%20Toque.md), with
 
 **Quantity:** 2
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - HOTFIX **27 May 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.52)):**

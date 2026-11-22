@@ -16,24 +16,10 @@
 
 **Type:** Landmark
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A climbing rope leads down here to travel to Homesteader's Respite. On a clear day (which is rare in Ash Canyon), the lookoff provides a view of much of the southeastern part of the region, all the way from [Bitter Marsh](./Bitter%20Marsh.md) to [Shattered Cove](./Shattered%20Cove.md).
 
-<!-- #resources_available -->
-​
-
-<!-- #Resources_Available -->
-​
-
-<!-- #Resources_available -->
-​
-
-<!-- #resources-available -->
 ## Resources Available
 
 - 0-64 [Sticks](./Stick.md)
@@ -44,10 +30,6 @@ A climbing rope leads down here to travel to Homesteader's Respite. On a clear d
 - 0-2 [Deer Carcasses](./Deer.md)
 - 0-3 [Rabbits](./Rabbit.md)
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Fire Overlook at the Edge Inward](../assets/Fire_Overlook_at_the_Edge_Inward.jpg)

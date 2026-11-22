@@ -16,7 +16,7 @@
 
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)
 
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) [Old Bear](./Old%20Bear.md)
 
 **Template:spoiler**
 
@@ -26,10 +26,6 @@
 
 **The Wounded Trapper** is the first mission in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) must help find medical supplies and radio parts for [Jeremiah](./Jeremiah.md) following his encounter with the [Old Bear](./Old%20Bear.md).
 
-<!-- #Objectives -->
-​
-
-<!-- #objectives -->
 ## Objectives
 
 - Enter the [abandoned dam](./Carter%20Hydro%20Dam.md).
@@ -37,10 +33,6 @@
 - Find the radio parts the trapper needs.
 - Get the medical supplies back to the old trapper before he dies.
 
-<!-- #Walkthrough -->
-​
-
-<!-- #walkthrough -->
 ## Walkthrough
 
 | Mission details | Mission details |
@@ -60,10 +52,6 @@ On a desk in the office space is a note to find a supply cache in [Alan's Cave](
 
 Return to Jeremiah. The mission ends with a cutscene in which Jeremiah attempts to fix the shortwave radio in his cabin using the radio parts Mackenzie brought back from the dam, while telling the story of the [Bear Spear](./Bear%20Spear.md).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![The exterior of the Carter Hydro Dam](../assets/The_Long_Dark_-_episode_2_Carter_Hydro_Dam.png)

@@ -33,22 +33,6 @@ No
 
  **Template:images needed**A **Chair** is a wooden seat which is used primarily as a source of [Reclaimed Wood](./Reclaimed%20Wood.md). They require a [Hatchet](./Hatchet.md) to break down, and some can be broken down by hand.
 
-<!-- #chairrocking_chair -->
-​
-
-<!-- #Chair/Rocking_Chair -->
-​
-
-<!-- #chair/rocking_chair -->
-​
-
-<!-- #Chair/rocking_chair -->
-​
-
-<!-- #Chair/rocking_Chair -->
-​
-
-<!-- #chairrocking-chair -->
 ## Chair/Rocking Chair
 
 Chairs yield 4 Reclaimed Wood, require a Hatchet to harvest, and take 1 hour to harvest.
@@ -60,16 +44,6 @@ Chairs yield 4 Reclaimed Wood, require a Hatchet to harvest, and take 1 hour to 
 | 4 |  | 146 | -3% Improvised Hatchet |
 | 4 |  | 169 | -0.5% Heavy Hammer |
 
-<!-- #cushioned_chair -->
-​
-
-<!-- #Cushioned_chair -->
-​
-
-<!-- #Cushioned_Chair -->
-​
-
-<!-- #cushioned-chair -->
 ## Cushioned chair
 
 Padded chairs yield 3 [Reclaimed Wood](./Reclaimed%20Wood.md), 2 [Cloth](./Cloth.md), require a hatchet to harvest, and take 45 minutes to harvest.
@@ -80,16 +54,6 @@ Padded chairs yield 3 [Reclaimed Wood](./Reclaimed%20Wood.md), 2 [Cloth](./Cloth
 | 3 | 49 minutes | 146 | -3% Improvised Hatchet |
 | 3 | 56 minutes | 169 | -0.5% Heavy Hammer |
 
-<!-- #sofa_chair -->
-​
-
-<!-- #Sofa_chair -->
-​
-
-<!-- #Sofa_Chair -->
-​
-
-<!-- #sofa-chair -->
 ## Sofa chair
 
 Sofa chairs yield 4 Reclaimed Wood, 6 [Cloth](./Cloth.md), 2 [Tinder Plug](./Tinder%20Plug.md), require a hatchet to harvest, and take 1.5 hours to harvest.
@@ -100,10 +64,6 @@ Sofa chairs yield 4 Reclaimed Wood, 6 [Cloth](./Cloth.md), 2 [Tinder Plug](./Tin
 | 4/6 Cloth/2 Tinder Plugs |  | 146 | -3% Improvised Hatchet |
 | 4/6 Cloth/2 Tinder Plugs |  | 169 | -0.5% Heavy Hammer |
 
-<!-- #Stool -->
-​
-
-<!-- #stool -->
 ## Stool
 
 The stool is a wooden seat which is used primarily as a source of reclaimed wood. When a chair is broken down, it yields Reclaimed Wood.

@@ -29,20 +29,12 @@
 
 A **Safe** is a stationary interactable object that can work as a storage container.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Safes have a combination lock and can contain rare items such as [Flare Shells](./Flare%20Shell.md), [MREs](./Military-Grade%20MRE.md) or [Mukluks](./Mukluks.md).
 
 A safe can hold 10kg.
 
-<!-- #Loot -->
-​
-
-<!-- #loot -->
 ## Loot
 
 |  | Item | Rarity |
@@ -70,10 +62,6 @@ A safe can hold 10kg.
 | [Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 1.09% |
 | [Cured Wolf Pelt icon](../assets/Cured_Wolf_Pelt_icon.png) | [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) | 1.09% |
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 There are ten safes in the game. They are located:
@@ -92,10 +80,6 @@ There are ten safes in the game. They are located:
   - [Concentrator](./Concentrator.md) offices
   - [Langston Mine](./Langston%20Mine.md), Level 2
 
-<!-- #Safecracking -->
-​
-
-<!-- #safecracking -->
 ## Safecracking
 
 Opening a safe requires neither resources, nor luck, but can be somewhat time-consuming. The player can turn the dial by using the arrow keys.

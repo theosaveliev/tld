@@ -45,10 +45,6 @@
 
 An **Infection Risk** is an [Affliction](./Afflictions.md) that can develop into an [Infection](./Infection.md) between 8 and 24 hours after receiving the affliction. It is received from getting into a [Struggle](./Struggle.md) with hostile [Wildlife](./Wildlife.md).
 
-<!-- #Risk -->
-​
-
-<!-- #risk -->
 ## Risk
 
 > “**You sustained a wound that could result in Infection if left untreated.**”
@@ -65,18 +61,10 @@ Infection Risk is not an Infection itself, but rather a chance to receive an Inf
 - Within a day of getting the infection risk, a roll will be made against the current Infection Risk percentage and the Infection Risk affliction will be cleared.
 - If the roll is lower than the **Infection Risk** percentage, the player will receive the Infection affliction. The higher your infection risk, the more likely that you will get an infection.
 
-<!-- #Cause -->
-​
-
-<!-- #cause -->
 ## Cause
 
 The player can receive an Infection Risk after surviving a [Struggle](./Struggle.md) with a [Bear](./Bear.md), [Cougar](./Cougar.md), [Poisoned Wolf](./Poisoned%20Wolf.md), [Timberwolf](./Timberwolf.md), or [Wolf](./Wolf.md).
 
-<!-- #Treatment -->
-​
-
-<!-- #treatment -->
 ## Treatment
 
 Infection Risk can be treated by using one of the following items:
@@ -88,16 +76,6 @@ Infection Risk can be treated by using one of the following items:
 
 If a treatment is applied, the Infection Risk is removed without developing further into an Infection. If the player does not receive an infection within this time period, the affliction will be removed without treatment. It is very important to note that one can have multiple Infection Risks at once, even from the same wolf attack. Always carry at least two sets of blood loss and infection risk treatment.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - HOTFIX **4 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.03)):**

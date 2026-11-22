@@ -43,10 +43,6 @@
 
 **Acorns** are a material in **[The Long Dark](./The%20Long%20Dark.md)**.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Hardy seeds of [Oak Trees](./Oak%20Tree.md), **Acorns** can be found at the base of any dormant oak tree, buried underneath patches of snow. The trees themselves are distinguished by their stout stature and sprawling, bare branches compared to the surrounding conifers.
@@ -59,27 +55,15 @@ Acorns must be shelled into [Prepared Acorns](./Prepared%20Acorns.md) before the
 
 As with most non-fuel resources in the game, Acorns do not respawn once harvested.
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Crow Feather](./Crow%20Feather.md)<br>- 1 × [Acorns](./Acorns.md) |
+| [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) - 1 × [Crow Feather](./Crow%20Feather.md) - 1 × [Acorns](./Acorns.md) |
 | [Prepared Acorns](./Prepared%20Acorns.md) | None | - 1 × [Acorns](./Acorns.md) |
 
-<!-- #broken_railroad -->
-​
+## Locations
 
-<!-- #Broken_Railroad -->
-​
-
-<!-- #Broken_railroad -->
-​
-
-<!-- #broken-railroad -->
 ### Broken Railroad
 
 [Broken Railroad](./Broken%20Railroad.md) contains few Oak trees. There are at least:
@@ -88,48 +72,18 @@ As with most non-fuel resources in the game, Acorns do not respawn once harveste
 - 4 Trees in the vicinity of the [Hunting Lodge](./Hunting%20Lodge.md)
 - 6 trees on top of the cliff between the [Rickety Foot Bridge](./Rickety%20Foot%20Bridge.md) and the climbing spot.
 
-<!-- #coastal_highway -->
-​
-
-<!-- #Coastal_Highway -->
-​
-
-<!-- #Coastal_highway -->
-​
-
-<!-- #coastal-highway -->
 ### [Coastal Highway](./Coastal%20Highway.md)
 
 - 2 Trees in the vicinity of the Abandoned Lookout
 - 3 Trees north / northeast of Coastal Town
 - 3 Trees on the path to the tracks near a trailer
 
-<!-- #hushed_river_valley -->
-​
-
-<!-- #Hushed_River_Valley -->
-​
-
-<!-- #Hushed_river_valley -->
-​
-
-<!-- #hushed-river-valley -->
 ### [Hushed River Valley](./Hushed%20River%20Valley.md)
 
 - Several (5) trees near/behind the arch southwards (straight) from the [Many Falls Vista](./Many%20Falls%20Vista.md) climbing spot. This area is patrolled by a wolf most of the time.
 - 1 tree = ~3 patches directly in front of the middle entrance to the northern ice cave. Reachable by going north from the rope climb or [Hushed River](./Hushed%20River.md), passing a small pond and then continuing along the rock.
 - 4 trees = ~10 patches in front of [Peak Cave](./Peak%20Cave.md)
 
-<!-- #mountain_town -->
-​
-
-<!-- #Mountain_Town -->
-​
-
-<!-- #Mountain_town -->
-​
-
-<!-- #mountain-town -->
 ### [Mountain Town](./Mountain%20Town.md)
 
 Mountain town contains several Oak trees in close proximity. There are at least:
@@ -145,32 +99,12 @@ At least:
 - 1 tree = ~2 patches located near the bridge leading to [Carter Hydro Dam](./Carter%20Hydro%20Dam.md)
 - 3 trees = ~8 patches located north of the [Frozen Creek](./Frozen%20Creek.md) and west of the [Forestry Lookout](./Forestry%20Lookout.md)
 
-<!-- #timberwolf_mountain -->
-​
-
-<!-- #Timberwolf_Mountain -->
-​
-
-<!-- #Timberwolf_mountain -->
-​
-
-<!-- #timberwolf-mountain -->
 ### Timberwolf Mountain
 
 Timberwolf Mountain contains several loose groupings of Oak trees. There are at least:
 
 - 7 trees = ~17 patches above the ropeclimb from [Crystal Lake](./Crystal%20Lake.md), around the two [Cargo Containers](./Cargo%20Container.md). Visible from [Mountaineer's Hut](./Mountaineer%27s%20Hut.md), beware a pack of 2-3 [Wolves](./Wolf.md) in the area.
 
-<!-- #transfer_pass -->
-​
-
-<!-- #Transfer_Pass -->
-​
-
-<!-- #Transfer_pass -->
-​
-
-<!-- #transfer-pass -->
 ### Transfer Pass
 
 The [Transfer Pass](./Transfer%20Pass.md) is densely populated by Oak trees, as the region itself is rather small. There are at least:
@@ -178,19 +112,7 @@ The [Transfer Pass](./Transfer%20Pass.md) is densely populated by Oak trees, as 
 - 14 trees = ~32 patches along the short section of rails between [Distempered Flatcars](./Distempered%20Flatcars.md) and [Loitering Marsh](./Loitering%20Marsh.md).
 - 2 trees = ~6 patches near the [Forsaken Airfield](./Forsaken%20Airfield.md) transition spot.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to game.
-
-[ru:Жёлуди](https://ru.wikipedia.org/wiki/%D0%96%D1%91%D0%BB%D1%83%D0%B4%D0%B8)

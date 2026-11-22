@@ -36,36 +36,18 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Wires** are an item found in [Survival Mode](./Survival%20Mode.md) in _[The Long Dark](./The%20Long%20Dark.md)_. They were introduced in Part 2 of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon. They can be found in most industrial areas in the game world.
 
-<!-- #Uses -->
-​
-
-<!-- #uses -->
 ## Uses
 
 - 2 are used to repair [Transmitters](./Transmitters.md) across Great Bear Island.
 - 1 bundle can be used at a [Work Bench](./Work%20Bench.md) to make a [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md).
 - 1 bundle is used to destroy the [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md) at the end of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Crow Feather](./Crow%20Feather.md)<br>- 1 × [Wires](./Wires.md) |
+| [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) - 1 × [Crow Feather](./Crow%20Feather.md) - 1 × [Wires](./Wires.md) |
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

@@ -28,30 +28,14 @@
 
 **Page** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Forsaken Airfield](./Forsaken%20Airfield.md) at [Justy's Hovel](./Justy%27s%20Hovel.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Page**_
 
 Seeing the helicopters come over the mountains again this year. I counted three last month, and two already this month. Always as the weather turns colder. I know they can't all be tourists. Not anymore and not for a long while anyway.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 \* UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
 
   - Added to game.
-
-[ru:Страница (Хибара Джасти)](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%28%D0%A5%D0%B8%D0%B1%D0%B0%D1%80%D0%B0_%D0%94%D0%B6%D0%B0%D1%81%D1%82%D0%B8%29)

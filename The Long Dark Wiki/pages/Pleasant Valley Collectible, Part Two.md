@@ -36,26 +36,12 @@
 
 During the course of the mission, [Astrid Greenwood](./Astrid%20Greenwood.md) finds the note _Pleasant Valley Collectible, Part Two_ from in the office on a desk in the [Community Hall](./Community%20Hall.md).
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Pleasant Valley Collectible, Part Two**_
 
 Parnell was out checking road conditions for his next delivery, and saw some of those tree speaker maniacs lurking near the highway passes in and out of the Valley. He wasn't sure what they were doing, but we need to stay vigilant!
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**

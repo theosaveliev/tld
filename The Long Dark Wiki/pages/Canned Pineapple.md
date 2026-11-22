@@ -48,10 +48,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Canned Pineapple** is a canned [food](./Food%20And%20Drink.md) item in _The Long Dark_ found only when trading with the [Trader](./Trader.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Consuming Canned Pineapple restores a moderate amount of calories and hydration. It may also be warmed by a [Fire](./Fire.md), to make progress in [Cooking](./Cooking.md) [Survival Skill](./Skills.md), and consumed while hot to grant the benefit [Warming Up](./Warming%20Up.md). Canned Pineapple has relatively low energy density (on par with that of cooked meats), making them relatively inefficient as a travel food.
@@ -60,10 +56,6 @@ Like other canned foods, Canned Pineapple may be opened with a [Can Opener](./Ca
 
 Canned Pineapple cannot be found as loot and is only acquired from the Trader, making it more difficult to acquire than similar [Pinnacle Peaches](./Pinnacle%20Peaches.md) but unlike other canned goods Pineapples are renewable.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Canned Pineapple is packaged as "FINE &amp; JUICY PINEAPPLE_"_.

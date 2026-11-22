@@ -22,7 +22,7 @@
 
 **Place of death:** [Milton](./Milton.md)
 
-**Relatives:** **•** [Grey Mother](./Grey%20Mother.md) (ex-Wife)<br>**•** [Lilith Barker](./Lilith%20Barker.md) (Daughter)
+**Relatives:** **•** [Grey Mother](./Grey%20Mother.md) (ex-Wife) **•** [Lilith Barker](./Lilith%20Barker.md) (Daughter)
 
 **Occupation:** Farmer
 
@@ -42,19 +42,11 @@ After Lily's death, Grey Mother wanted [Lilith's Pearls](./Grey%20Mother%27s%20P
 
 His corpse can appear in [Survival Mode](./Survival%20Mode.md), serving as 1 of 3 places the [Paradise Meadows Farm Key](./Paradise%20Meadows%20Farm%20Key.md) to the locked farmhouse can spawn.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Martin is wearing an [Old Fashioned Parka](./Old%20Fashioned%20Parka.md), [Trail Boots](./Trail%20Boots.md), [Cotton Toque](./Cotton%20Toque.md), [Work Pants](./Work%20Pants.md) and [Work Gloves](./Work%20Gloves.md) that cannot be removed from the corpse.
 - Martin Barker shares the same corpse model as [Hank](./Characters.md#Hank).
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![A portrait found in Milton House (Grey Mother's), likely of Martin Barker, Lilith Barker and Grey Mother.](../assets/Barker_Family_Portrait.jpg)

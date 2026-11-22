@@ -32,16 +32,6 @@ Notes found while playing [Tales from the Far Territory](./Tales%20from%20the%20
 
 There are currently 102 notes in total to find.
 
-<!-- #a_note_left_behind -->
-​
-
-<!-- #A_Note_Left_Behind -->
-​
-
-<!-- #A_note_left_behind -->
-​
-
-<!-- #a-note-left-behind -->
 ## [A Note Left Behind](./A%20Note%20Left%20Behind.md)
 
 [Pleasant Valley](./Pleasant%20Valley.md)
@@ -66,16 +56,6 @@ There are currently 102 notes in total to find.
 
 - [Abandoned Harris Home](./Abandoned%20Harris%20Home.md) - outside in the car.
 
-<!-- #desolation_point -->
-​
-
-<!-- #Desolation_Point -->
-​
-
-<!-- #Desolation_point -->
-​
-
-<!-- #desolation-point -->
 ### [Desolation Point](./Desolation%20Point.md)
 
 - [Hibernia Processing](./Hibernia%20Processing.md) - Downstairs on the [Work Bench](./Work%20Bench.md).
@@ -90,30 +70,14 @@ There are currently 102 notes in total to find.
 
 - [Rockfall](./Rockfall.md) - in the backseat of the car on the bridge.
 
-<!-- #timberwolf_mountain -->
-​
+## Climber's Journal Page
 
-<!-- #Timberwolf_Mountain -->
-​
-
-<!-- #Timberwolf_mountain -->
-​
-
-<!-- #timberwolf-mountain -->
 ### [Timberwolf Mountain](./Timberwolf%20Mountain.md)
 
 - [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) - on the [Work Bench](./Work%20Bench.md) - [Climber's Journal Page](./Climber%27s%20Journal%20Page.md)
 
-<!-- #ash_canyon -->
-​
+## Other Notes
 
-<!-- #Ash_Canyon -->
-​
-
-<!-- #Ash_canyon -->
-​
-
-<!-- #ash-canyon -->
 ### [Ash Canyon](./Ash%20Canyon.md)
 
 - [Angler's Den](./Angler%27s%20Den.md) - [Diary Page](./Diary%20Page.md)
@@ -124,16 +88,6 @@ There are currently 102 notes in total to find.
 
 - [Miner's Folly](./Miner%27s%20Folly.md) - On the table to the left inside the bunkhouse - [Mining Log Page](./Mining%20Log%20Page.md)
 
-<!-- #bleak_inlet -->
-​
-
-<!-- #Bleak_Inlet -->
-​
-
-<!-- #Bleak_inlet -->
-​
-
-<!-- #bleak-inlet -->
 ### [Bleak Inlet](./Bleak%20Inlet.md)
 
 - [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md) - in the control hut - [Communication Report](./Communication%20Report.md)
@@ -142,10 +96,6 @@ There are currently 102 notes in total to find.
 
 - [Last Resort Cannery](./Last%20Resort%20Cannery.md) - [Cannery Memo](./Cannery%20Memo.md)
 
-<!-- #Blackrock -->
-​
-
-<!-- #blackrock -->
 ### [Blackrock](./Blackrock.md)
 
 - [Blackrock Prison](./Blackrock%20Prison.md) yard - on the [Keypad](./Keypad.md) door next to the [Steam Tunnels](./Steam%20Tunnels.md) entrance - [Blackrock Memo](./Blackrock%20Memo.md)
@@ -158,16 +108,6 @@ There are currently 102 notes in total to find.
 
 - [Last Prospect](./Last%20Prospect.md) - in the mine, floor 2, the lockers next to the mattress - [Handwritten Note (Survival)](./Handwritten%20Note%20%28Survival%29.md)
 
-<!-- #forsaken_airfield -->
-​
-
-<!-- #Forsaken_Airfield -->
-​
-
-<!-- #Forsaken_airfield -->
-​
-
-<!-- #forsaken-airfield -->
 ### [Forsaken Airfield](./Forsaken%20Airfield.md)
 
 - [Control Tower](./Control%20Tower.md) - at the top - [Note (Forsaken Airfield)](./Note%20%28Forsaken%20Airfield%29.md)
@@ -184,96 +124,32 @@ There are currently 102 notes in total to find.
 
 - [Mindful Cabin](./Mindful%20Cabin.md) - under the stairs in some Loose Boards behind the left shelves, behind the potted plant. - [Faded Paper](./Faded%20Paper.md)
 
-<!-- #zone_of_contamination -->
-​
-
-<!-- #Zone_of_Contamination -->
-​
-
-<!-- #Zone_of_contamination -->
-​
-
-<!-- #Zone_Of_Contamination -->
-​
-
-<!-- #zone-of-contamination -->
 ### [Zone of Contamination](./Zone%20of%20Contamination.md)
 
 - [Pump House](./Pump%20House.md) - "[Langston Mine Memo](./Langston%20Mine%20Memo.md)" on the right under the shelves.
 - [Idle Camp](./Idle%20Camp.md) - in the left worker barracks. - [Mining Newsletter](./Mining%20Newsletter.md)
 
-<!-- #sundered_pass -->
-​
-
-<!-- #Sundered_Pass -->
-​
-
-<!-- #Sundered_pass -->
-​
-
-<!-- #sundered-pass -->
 ### [Sundered Pass](./Sundered%20Pass.md)
 
 - [Final Refuge](./Final%20Refuge.md) - on the shelf. - [Note (Sundered Pass)](./Note%20%28Sundered%20Pass%29.md)
 - [Weather Station](./Weather%20Station.md) - in the radar dome building, northwest corner floor. -[Bloody note](./Bloody%20note.md)
 - [Ambler's Lake](./Ambler%27s%20Lake.md) [Fishing Hut](./Fishing%20Hut.md) - [Naturalist Notebook 2](./Naturalist%20Notebook%202.md)
 
-<!-- #transfer_pass -->
-​
-
-<!-- #Transfer_Pass -->
-​
-
-<!-- #Transfer_pass -->
-​
-
-<!-- #transfer-pass -->
 ### [Transfer Pass](./Transfer%20Pass.md)
 
 - Coal tower near [Vacant Depot](./Vacant%20Depot.md) - on the shelf - [Naturalist Notebook 1](./Naturalist%20Notebook%201.md)
 
-<!-- #mystery_lake_region -->
-​
-
-<!-- #Mystery_Lake_(region) -->
-​
-
-<!-- #mystery_lake_(region) -->
-​
-
-<!-- #Mystery_lake_(region) -->
-​
-
-<!-- #mystery-lake-region -->
 ### [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
 
 - [Camp Office](./Camp%20Office.md) inside front door - [Cougar Warning Flyer](./Cougar%20Warning%20Flyer.md)
 - [Camp Office](./Camp%20Office.md) table next to the Radio - [A page from an old newsletter.](./A%20page%20from%20an%20old%20newsletter..md)
 
-<!-- #mountain_town -->
-​
-
-<!-- #Mountain_Town -->
-​
-
-<!-- #Mountain_town -->
-​
-
-<!-- #mountain-town -->
 ### [Mountain Town](./Mountain%20Town.md)
 
 - [Milton Park](./Milton%20Park.md) inside front door - [Cougar Warning Flyer (2)](./Cougar%20Warning%20Flyer%20%282%29.md)
 
-<!-- #signal_void -->
-​
+## [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)
 
-<!-- #Signal_Void -->
-​
-
-<!-- #Signal_void -->
-​
-
-<!-- #signal-void -->
 ### [Signal Void](./Signal%20Void.md)
 
 - ![Field 31 Operation Memo icon](../assets/Field_31_Operation_Memo_icon.png) [Field 31 Operation Memo](./Field%2031%20Operation%20Memo.md)
@@ -286,10 +162,10 @@ There are currently 102 notes in total to find.
 - ![Interview Transcript 14 icon](../assets/Interview_Transcript_14_icon.png) [Interview Transcript 14](./Interview%20Transcript%2014.md)
 - ![Interview Transcript 17 icon](../assets/Interview_Transcript_17_icon.png) [Interview Transcript 17](./Interview%20Transcript%2017.md)
 
-<!-- #History -->
-​
+### [Buried Echoes](./Buried%20Echoes.md)
 
-<!-- #history -->
+### [Last Horizon](./Last%20Horizon.md)
+
 ## History
 
 - The first 13 notes (A Note Left Behind) were written by the game's Kickstarter backers and were added to the game's first [regions](./Region.md) as a reward for certain levels of pledges.
@@ -302,18 +178,8 @@ There are currently 102 notes in total to find.
 - When the [Sundered Pass](./Sundered%20Pass.md) was added to the game as part of the Part 5 Tales from the Far Territory update, it added 2 new notes authored by Hinterland.
 - When the Tales From The Far Territory Part 6 Broken Silence was added to the game, it added 5 new notes authored by Hinterland.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![A Note Left Behind](../assets/A_Note_Left_Behind.jpg)
 
-<!-- #References -->
-​
-
-<!-- #references -->
 ## References
-
-&lt;div class="references-small" ;"&gt;

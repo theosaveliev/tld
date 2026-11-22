@@ -24,9 +24,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cloth](./Cloth.md)<br>10 minutes
+**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
 
-**Repair:** 1 × [Cloth](./Cloth.md)<br>30 minutes<br>75% condition
+**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 75% condition
 
 > “**Full wool head covering with holes for the eyes and mouth. Warm, even if a bit sinister looking.**”
 >
@@ -40,10 +40,6 @@ When worn along with an outer hat, the Balaclava loses its windproof resistance 
 
 Despite this, the balaclava is just as good as the [Wool Toque](./Wool%20Toque.md), and should always be used as an inner hat slot, as the decay rate is slower than the wool toque.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Clothing model](../assets/Balaclava_Model_icon.png)
@@ -56,16 +52,6 @@ Despite this, the balaclava is just as good as the [Wool Toque](./Wool%20Toque.m
 
 _Balaclava in the clothing interface. _(click to enlarge)__
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

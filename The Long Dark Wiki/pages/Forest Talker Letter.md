@@ -30,10 +30,6 @@
 
 **Forest Talker Letter** is 3 [Collectibles](./Collectibles.md) found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story as part of the [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md) side mission. They are found inside the [Last Prospect](./Last%20Prospect.md) mine at different points and are the key to opening the [Forest Talker](./Forest%20Talkers.md) cache at the start of the mine.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The first is found on the barrel with the [Elevator Crank](./Elevator%20Crank.md). The letter reads:_
@@ -78,16 +74,6 @@ Notes on a dark riddle:
 
 - One of the numbers is connected to the yellow markings found on some of the signs.
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **6 October 2021 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)):**

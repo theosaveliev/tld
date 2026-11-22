@@ -18,10 +18,6 @@
 
 **Type:** Landmark
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The lake itself features many islands, the largest of which, [Drift Island](./Drift%20Island.md) is named and is home to [a cave](./Archie%27s%20Crawlspace.md) and [cottage](./Island%20Cottage.md). A small [Airplane](./Airplane.md) can be found in the south part of the lake and is the only refuge on the lake itself.

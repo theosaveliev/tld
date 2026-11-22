@@ -51,10 +51,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Dockworker's Pie** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Skillet](./Cooking%20Skillet.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Dockworker's Pie is a relatively simple recipe requiring mostly common ingredients and featuring a powerful Condition restoring effect, similar to [Prepper's Pie](./Prepper%27s%20Pie.md). Compared with Prepper's Pie, Dockworker's Pie requires more artificial ingredients, with the most limited being [Potatoes](./Potato.md). [Coho Salmon](./Coho%20Salmon%20%28Raw%29.md) and [Rockfish](./Rockfish%20%28Raw%29.md) are both saltwater fish that can be acquired by [Ice Fishing](./Ice%20Fishing.md) in any Coastal Region (e.g., Bleak Inlet), with Coho being 'uncommon' and Rockfish being 'rare' (note: rare fish can be increased in frequency with [Lures](./Fishing%20Lure%20%28disambiguation%29.md), at the cost of taking longer before a bite).
@@ -63,10 +59,6 @@ The Recipe Card for Dockworker's Pie is found inside of the [Last Resort Cannery
 
 Dockworker's Pie produces a [Scent](./Scent.md) that attracts [predators](./Wolf.md). It may be dropped as a [decoy](./Scent.md#Baiting/Decoys).
 
-<!-- #Effects -->
-​
-
-<!-- #effects -->
 ## Effects
 
 - +35% [Condition](./Condition.md) (instant)
@@ -74,10 +66,6 @@ Dockworker's Pie produces a [Scent](./Scent.md) that attracts [predators](./Wolf
 - [Cabin Fever](./Cabin%20Fever.md) outside time increase (minimal)
 - -10% Maximum [Stamina](./Stamina.md) (3 hours)
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 **Dockworker's Pie**
@@ -112,16 +100,6 @@ Dockworker's Pie produces a [Scent](./Scent.md) that attracts [predators](./Wolf
 
 **Quantity:** 2
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **21 June 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)):**

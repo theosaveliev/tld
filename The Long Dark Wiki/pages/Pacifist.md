@@ -10,10 +10,6 @@
 
 **Pacifist** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Guide -->
-​
-
-<!-- #guide -->
 ## Guide
 
 This achievement is obtained after surviving the first twenty-five days without killing an animal in a single [Survival Mode](./Survival%20Mode.md) game mode. It is most easily done on Pilgrim.

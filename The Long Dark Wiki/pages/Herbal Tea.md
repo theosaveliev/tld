@@ -41,10 +41,6 @@
 
 **Herbal Tea**is an ingredient for making [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 These tea boxes can be found with five packets of tea inside and takes 0.25L/0.07 gallons of [water](./Water%20%28Potable%29.md) to make one cup of herbal tea.
@@ -55,56 +51,24 @@ While the Herbal Tea deteriorates over time, cups of herbal tea do not. Therefor
 
 Herbal Tea is packaged as a product called _Sweet Dreams Herbal Tea_.
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | None | - 1 × [Herbal Tea](./Herbal%20Tea.md)<br>- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | None | - 1 × [Herbal Tea](./Herbal%20Tea.md) - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
 
-<!-- #medical_applications -->
-​
-
-<!-- #Medical_Applications -->
-​
-
-<!-- #Medical_applications -->
-​
-
-<!-- #medical-applications -->
 ## Medical Applications
 
 Herbal Tea, when drunk hot or cold, will give you the "[Improved Rest](./Improved%20Rest.md)" [Affliction](./Afflictions.md#Improved_rest_affliction), which will increase condition gained while sleeping by 2% an hour one's next 6 hours of sleep (whether this be all at once or across multiple sleep sessions), meaning one glass of Herbal Tea can restore up to an additional 12% condition.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 The ingredients on the back list: "Chamomile Flower, Mint Leaf, Natural Flavors." and that it was "Made In Canada."
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model](../assets/Herbal_tea.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **17 December 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)):**

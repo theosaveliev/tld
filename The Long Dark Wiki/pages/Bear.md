@@ -67,8 +67,8 @@ A [Black Bear Carcass](./Black%20Bear%20Carcass.md) may be harvested for 25.00-4
 
 |  | Item | Quantity | Rarity |
 | --- | --- | --- | --- |
-| [Bear Meat (Raw) icon](../assets/Bear_Meat_%28Raw%29_icon.png) | [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)* | 25 - 40 | Always  [^1] |
-| [Bear Quarter icon](../assets/Bear_Quarter_icon.png) | [Bear Quarter](./Bear%20Quarter.md) | 5 - 8 | Always  [^2] |
+| [Bear Meat (Raw) icon](../assets/Bear_Meat_%28Raw%29_icon.png) | [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)* | 25 - 40 | Always[^1] |
+| [Bear Quarter icon](../assets/Bear_Quarter_icon.png) | [Bear Quarter](./Bear%20Quarter.md) | 5 - 8 | Always[^2] |
 | [Fresh Black Bear Hide icon](../assets/Fresh_Black_Bear_Hide_icon.png) | [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md) | 1 | Always |
 | [Fresh Gut icon](../assets/Fresh_Gut_icon.png) | [Fresh Gut](./Fresh%20Gut.md) | 10 | Always |
 
@@ -128,7 +128,7 @@ Bears are only held at bay by certain fires. [Campfires](./Campfire.md) and [fla
 
 Bears flee from [Distress Pistol](./Distress%20Pistol.md) reports and from the landing site of flare rounds; the Distress Pistol can prevent a charging bear from attacking even at very close distance. Bears are also frightened of bullets and arrows striking near them, but only from undetected players; they will charge attackers if they can detect them (barring Distress Pistol fire).
 
-Bears will flee from [bow shots](./Survival%20Bow.md) only under certain conditions  [^3]. If a bear is shot from outside the range from which it can detect the player, the bear will flee  ⁴. If a bear has detected the player, shooting the ground beside the bear (rather than shooting the bear) can cause the bear to flee  ⁵.
+Bears will flee from [bow shots](./Survival%20Bow.md) only under certain conditions[^3]. If a bear is shot from outside the range from which it can detect the player, the bear will flee[^4]. If a bear has detected the player, shooting the ground beside the bear (rather than shooting the bear) can cause the bear to flee[^5].
 
 Hunting Bears with a [Revolver](./Revolver.md) is not advised, as the sheer body weight will absorb any damage from the shot (though they will still bleed to death, even from 1 gunshot wound).
 
@@ -414,6 +414,10 @@ _A bear during an [aurora](./Aurora.md)_
 
 ## Notes
 
+---
+
 [^1]: If carcass is harvested
 [^2]: If carcass is quartered.
 [^3]: BladesTLD, 2023. EVERYTHING you need to know about BEARS (spawning, stats, hunting strategies) [The Long Dark]. YouTube. [https://www.youtube.com/watch?v=3fuvFGDRtiE](https://www.youtube.com/watch?v=3fuvFGDRtiE)
+[^4]: 
+[^5]:

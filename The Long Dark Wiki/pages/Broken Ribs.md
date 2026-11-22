@@ -41,10 +41,6 @@
 
 **Broken Ribs** is an [Affliction](./Afflictions.md) only acquired from a [Moose](./Moose.md) [Struggle](./Struggle.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 > “**One or more of your ribs are broken. You cannot climb, and your mobility will be reduced until this injury heals.**”
@@ -59,10 +55,6 @@ Broken Ribs does not alter movement speed, as the survivor can still sprint (des
 
 Should the player use a Stim in order to climb a rope, the lost carrying capacity is not temporarily restored by the stim: only the ability to climb is granted, hence the player should drop sufficient weight to be unencumbered even with Broken Ribs before using the Stim.
 
-<!-- #Treatment -->
-​
-
-<!-- #treatment -->
 ## Treatment
 
 Healing Broken Ribs requires a treatment of 2 [Bandages](./Bandage.md) and 4 [Painkillers](./Painkillers.md) (or 2 cups of [Rose Hip Tea](./Rose%20Hip%20Tea.md)), followed by a Recovery Time of 120 hours (5 days). Recovery Time **WILL** count down for the Affliction even if medical treatment is not performed, but will never fully heal.
@@ -73,16 +65,6 @@ Healing Broken Ribs requires a treatment of 2 [Bandages](./Bandage.md) and 4 [Pa
   - The second Instance requires a Recovery Time of 168 hours (7 days), the third takes 216 hours (9 days), etc., with the maximum Recovery Time being 991 hours (41 days).
 - It is possible to have a maximum of 28 Broken Ribs Afflictions at once.
 
-<!-- #recovery_strategies -->
-​
-
-<!-- #Recovery_Strategies -->
-​
-
-<!-- #Recovery_strategies -->
-​
-
-<!-- #recovery-strategies -->
 ## Recovery Strategies
 
 One method to quickly pass time is to purposely contract [Hypothermia](./Hypothermia.md) to quickly lose [Fatigue](./Fatigue.md), allowing the player to Sleep for longer periods of time. Any Condition lost from the affliction will be quickly healed while sleeping.

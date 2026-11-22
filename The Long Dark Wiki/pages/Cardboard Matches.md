@@ -35,10 +35,6 @@
 
 **Cardboard Matches** are [Fire Starting](./Fire%20Starting.md) Tools and a small light source in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Each match weighs a mere 5 grams (0.005kg), but there are always 20 found together in one box. Using a Cardboard Match does not increase the base chance of successfully lighting a fire. Irrespective of real-life cardboard matches which are attached to a striker, these matches can be split into smaller stacks and are still usable.
@@ -49,32 +45,18 @@ Lighting a match will cause the survivor to hold it closely in their hand, where
 
 Pressing H with a lit match will cause the survivor to flick the match into the distance, where it disappears and the light is extinguished.
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - [Firestrikers](./Firestriker.md) and [Wood Matches](./Wood%20Matches.md) are preferable to Cardboard Matches at low firestarting skill. This will likely save matches from failed fires, thanks to the firestrikers higher Bonus Chance.
 - When selecting Cardboard Matches as a light source, the handheld model is always that of Wood Matches.
 - Using a lit [Torch](./Torch.md) to start campfires is an effective way to save matches/firestriker durability.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![old model](../assets/Cardboard_Matches.png)
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Cardboard Matches are branded with the logo of "_Trusty Matches"_, the manufacturer of Wood Matches.
 - Selecting Cardboard Matches will always use the Wood Matches model in the first person hand model.
 - Despite being contained inside a cardboard box, no tinder is given or harvestable when wooden matches are used up unlike cardboard boxes present across [Great Bear Island](./Great%20Bear%20Island.md).
-
-[ru:Картонные спички](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%87%D0%BA%D0%B8)

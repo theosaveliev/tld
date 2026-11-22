@@ -21,32 +21,14 @@
 
 **Easter Eggs** are hidden messages, images, or features typically placed in software to reference other forms of media. They may also be well placed hidden secrets found in the game. Below is a list of secrets, obscure knowledge, and Easter Eggs in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #hidden_items -->
-​
+## General Secrets
 
-<!-- #Hidden_Items -->
-​
-
-<!-- #Hidden_items -->
-​
-
-<!-- #hidden-items -->
 ### Hidden Items
 
 - _The Long Dark_ features a large number of hidden loot items both indoors and outside. Such items are usually small (e.g. [firestrikers](./Firestriker.md), [matches](./Wood%20Matches.md), [ammunition](./Revolver%20Ammunition.md)) and atop shelves, desks, between/underneath furniture, or otherwise in difficult to find locations. CROUCHING ("Control" by default) can be helpful or required in finding such hidden items. Most notably a [Magnifying Lens](./Magnifying%20Lens.md) hidden inside the [Camp Office](./Camp%20Office.md) (Mystery Lake), and a hidden stash of supplies inside [Hibernia Processing](./Hibernia%20Processing.md) (Desolation Point) which requires crouching up and inside a pipe.
 - [Safes](./Safe.md): Safes are heavy metal storage containers which are initially locked. They contain some of the highest loot tables in _The Long Dark_, being able to contain rare items such as [Can of Gunpowder](./Can%20of%20Gunpowder.md), [Mukluks](./Mukluks.md) and [Gauntlets](./Gauntlets.md). Safes have static locations ([Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) (Forlorn Muskeg), [Trapper's Homestead](./Trapper%27s%20Homestead.md) (Mystery Lake), [Carter Hydro Dam &amp; Environs](./Carter%20Hydro%20Dam.md) (upper) (Mystery Lake) and are opened by rotating their dial left until a "click" is heard, then right until a second click, and then left again until the third click.
 - [Hidden Caches](./Hidden%20Cache.md): these small, orange-lidded containers are filled with high level loot on all difficulties and are concealed in remote and inhospitable regions, particularly in [Hushed River Valley](./Hushed%20River%20Valley.md).
 
-<!-- #hidden_locations -->
-​
-
-<!-- #Hidden_Locations -->
-​
-
-<!-- #Hidden_locations -->
-​
-
-<!-- #hidden-locations -->
 ### Hidden Locations
 
 - [Secret Mountain Path](./Secret%20Mountain%20Path.md) - this Bleak Inlet area contains a small amount of loot and acts as a shortcut between the eastern and western halves of the region. It is initially walled off by Scrub Bushes from the eastern side, which cannot be traversed until they are harvested by a [Hatchet](./Hatchet.md).
@@ -54,56 +36,26 @@
 - [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md), [Coastal Highway](./Coastal%20Highway.md) - the middle level of the mine is a series of interconnected tunnels with rich loot on all Game Modes, but also [electrified hazards](./Burns.md). It can only be accessed via entering the Lower Level (Coastal Highway) and using the elevator while it is powered during an active [Aurora](./Aurora.md).
 - [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md), [Pleasant Valley](./Pleasant%20Valley.md) - an unnamed cave filled with glowing flora may be found along the mountain beside the picnic area, which features a unique interior layout, as well as potentially frozen corpses and loot.
 
-<!-- #Beachcombing -->
-​
-
-<!-- #beachcombing -->
 ### Beachcombing
 
 - [Beachcombing](./Beachcombing.md) is an obscure game mechanic which causes select items to randomly spawn in coastal regions ([Coastal Highway](./Coastal%20Highway.md), [Desolation Point](./Desolation%20Point.md), [Crumbling Highway](./Crumbling%20Highway.md), and [Bleak Inlet](./Bleak%20Inlet.md)). These items may be found near where the ocean meets the ice, typically in or near areas of dangerous Weak Ice. This allows many otherwise non-renewable resources to theoretically become sustainable (e.g. [Cloth](./Cloth.md), [Cured Leather](./Cured%20Leather.md), Saplings). Note: not all items may be found via Beachcombing, and item(s) present at a Beachcombing location prevent future spawns, requiring their removal before a item may spawn.
 
-<!-- #real_world_people -->
-​
+## Easter Eggs
 
-<!-- #Real_World_People -->
-​
-
-<!-- #Real_world_people -->
-​
-
-<!-- #real-world-people -->
 ### Real World People
 
 - If a survivor's hydration is low, they will mention "That guy who drank his own pee doesn't sound so crazy right now" referencing [Bear Grylls](https://en.wikipedia.org/wiki/Bear_Grylls) [drinking his own urine](https://www.google.com/search?q=bear+grylls+pee&rlz=1C1GCEA_enUS1043US1043&oq=bear+grylls+pee&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMzMTFqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:654e5bb1,vid:axVPg5EtvKs,st:0).
 - In [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), after [Will Mackenzie's](./Will%20Mackenzie.md) 3rd encounter with the [Old Bear](./Old%20Bear.md) after acquiring the [Bear Spear](./Bear%20Spear.md), the bear will back off, with Will remarking "not so tough now that I'm all Grizzly Adams?" referencing [John Adams](https://en.wikipedia.org/wiki/John_%22Grizzly%22_Adams).
 - The director's name of _The Long Dark_, Raphael Von Lierop, can be seen briefly on a computer monitor in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) during the flashback with Astrid.
 
-<!-- #Films -->
-​
-
-<!-- #films -->
 ### Films
 
 The entire mission [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) with the [Old Bear](./Old%20Bear.md) hunting Mackenzie (a crashed bush pilot) is a reference to the film [The Edge](https://en.wikipedia.org/wiki/The_Edge_%281997_film%29).
 
-<!-- #Radio -->
-​
-
-<!-- #radio -->
 ### Radio
 
 - During an [Aurora](./Aurora.md), if you click on a [Radio](./Radio.md), either in a [Car](./Car.md), [Truck](./Truck.md), or on a table, classical music will play. The music that plays has been identified to be Glenn Gould playing Bach on piano.
 
-<!-- #named_locations -->
-​
-
-<!-- #Named_Locations -->
-​
-
-<!-- #Named_locations -->
-​
-
-<!-- #named-locations -->
 ### Named Locations
 
 A number of locations are named after [Hinterland's](./Hinterland%20Studio%20Inc..md) developers.
@@ -116,16 +68,6 @@ A number of locations are named after [Hinterland's](./Hinterland%20Studio%20Inc
 - [Timberwolf Mountain](./Timberwolf%20Mountain.md) - [Eric's Falls](./Eric%27s%20Falls.md)
 - Most of the names on the [Prison Transport Manifest](./Prison%20Transport%20Manifest.md) are named after Hinterland developers
 
-<!-- #great_bear_island -->
-​
-
-<!-- #Great_Bear_Island -->
-​
-
-<!-- #Great_bear_island -->
-​
-
-<!-- #great-bear-island -->
 ### Great Bear Island
 
 - Great Bear Island itself is directly inspired by [Vancouver Island](https://en.wikipedia.org/wiki/Vancouver_Island).
@@ -133,10 +75,6 @@ A number of locations are named after [Hinterland's](./Hinterland%20Studio%20Inc
 - The [Concentrator](./Concentrator.md) is based off of the [Britannia Mine Museum](https://en.m.wikipedia.org/wiki/Britannia_Mine_Museum) in Vancouver, British Columbia, Canada.
   - The [Haul Truck](./Haul%20Truck.md) is most likely based off the one in front of the museum.
 
-<!-- #Items -->
-​
-
-<!-- #items -->
 ### Items
 
 - [Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md) - is named after "Stacyplays" (aka Stacy Hinojosa) a YouTuber who ran a "let's play" series during The Long Dark's alpha/beta (2014-2016). It is slightly rarer than other types: Orange Soda, and Summit Soda.
@@ -162,52 +100,16 @@ A number of locations are named after [Hinterland's](./Hinterland%20Studio%20Inc
 
 ![Old design with old logo](../assets/Cup_of_coffee.png)
 
-<!-- #rock_art -->
-​
-
-<!-- #Rock_Art -->
-​
-
-<!-- #Rock_art -->
-​
-
-<!-- #rock-art -->
 ### Rock Art
 
 A number of rocks contain faint images of cavemen, monsters or graffiti, typically in an abstract art form or extremely low resolution. These rocks are found in all regions, but are most common in [Pleasant Valley](./Pleasant%20Valley.md) near the entrance to [Winding River](./Winding%20River.md), as well as [Bleak Inlet](./Bleak%20Inlet.md).
 
 ![Cave Art (Desolation Point), a monster or animal](../assets/Cave_art.png)
 
-<!-- #hanks_hatch -->
-​
-
-<!-- #Hank's_Hatch -->
-​
-
-<!-- #hank's_hatch -->
-​
-
-<!-- #Hank's_hatch -->
-​
-
-<!-- #hanks-hatch -->
 ### Hank's Hatch
 
 The side mission [Hank's Hatch](./Hank%27s%20Hatch.md) contains many references to [Firewatch](https://en.wikipedia.org/wiki/Firewatch). "Hank" is a nod to the protagonist "Henry" from the game. Hank (a common nickname for Henry) shares many similarities with his counterpart, including taking a job working in a fire tower in a nature park to be away from other people. In his journal, Hank complains about "the chatty lady" on the radio, a reference to Delilah, Henry's supervisor in Firewatch who communicates with him by radio throughout the game and also occasionally refers to him as "Hank". Hank's Journal refers to him finding a "weird old bunker," also a reference to the plot of Firewatch.
 
-<!-- #references_to_previous_game_builds -->
-​
-
-<!-- #References_to_Previous_Game_Builds -->
-​
-
-<!-- #References_to_previous_game_builds -->
-​
-
-<!-- #References_To_Previous_Game_Builds -->
-​
-
-<!-- #references-to-previous-game-builds -->
 ### References to Previous Game Builds
 
 During the mission [Memories](./Memories.md), several callbacks to previous builds of the game can be found in the [Jackrabbit Hangar](./Jackrabbit%20Hangar.md):

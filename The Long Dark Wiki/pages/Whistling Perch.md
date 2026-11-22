@@ -18,10 +18,6 @@ Region
 
 **Type:** Military/Sporting
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Whistling Perch](../assets/Whistling_Perch.jpg)

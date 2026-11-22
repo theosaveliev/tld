@@ -39,12 +39,8 @@ Has a bed
 
 [Workbench icon green](../assets/Workbench_icon_green.png)
 
-Has an interior<br>A **Repair Depot** is a major landmark building that can be found on [Cauldron Island](./Cauldron%20Island.md). There are currently two in the game. Located on [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) and [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md).
+Has an interior A **Repair Depot** is a major landmark building that can be found on [Cauldron Island](./Cauldron%20Island.md). There are currently two in the game. Located on [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) and [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The [Prototype Train](./Prototype%20Train.md) can be driven into the Repair Depot by rolling through the red gate (even at full speed, this does not result in a crash), allowing the train to be transported inside and the Survivor to work on the train without being exposed to the elements. Leaving the Depot with the train inside will automatically spawn it outside, and vice versa when returning inside, until it is moved far enough away from the Depot doors.
@@ -53,54 +49,22 @@ Enough resources can be found to repair the Prototype Train, but there is no [Wo
 
 [Wolves](./Wolf.md) and [Deer](./Deer.md) are common at these locations.
 
-<!-- #anna_island____track_section_4 -->
-​
-
-<!-- #Anna_Island_--_Track_Section_4 -->
-​
-
-<!-- #anna_island_--_track_section_4 -->
-​
-
-<!-- #Anna_island_--_track_section_4 -->
-​
-
-<!-- #anna-island----track-section-4 -->
 ### Anna Island -- Track Section 4
 
 The Repair Depot in [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) has a [Whale Oil Tank](./Oil%20Tank.md) and a [Water Tower](./Water%20Tower.md). It is the first Repair Depot the player will encounter after acquiring the Prototype Train.
 
-<!-- #anna_island____track_section_2 -->
-​
-
-<!-- #Anna_Island_--_Track_Section_2 -->
-​
-
-<!-- #anna_island_--_track_section_2 -->
-​
-
-<!-- #Anna_island_--_track_section_2 -->
-​
-
-<!-- #anna-island----track-section-2 -->
 ### Anna Island -- Track Section 2
 
 The Repair Depot in [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) has a [Water Tower](./Water%20Tower.md) and the unique [McLeod Ultra-Efficiency Whale Oil Heater](./McLeod%20Ultra-Efficiency%20Whale%20Oil%20Heater.md).
 
-<!-- #anna_island____track_section_2_1 -->
-​
+## Gallery
 
-<!-- #anna-island----track-section-2-1 -->
 ### Anna Island -- Track Section 2
 
 ![Repair Depot Track Section 2](../assets/Repair_Depot_Track_Section_2.png)
 
 _**Repair Depot Track Section 2**_
 
-<!-- #anna_island____track_section_4_1 -->
-​
-
-<!-- #anna-island----track-section-4-1 -->
 ### Anna Island -- Track Section 4
 
 ![Repair Depot Track Section 4](../assets/Railyard_%28Track_Section_4_West%29.jpg)

@@ -45,10 +45,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Bunker Rifle** is a unique variant of the [Hunting Rifle](./Hunting%20Rifle.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Bunker Rifle stands out from other rifles on [Great Bear](./Great%20Bear%20Island.md), as it features a grey-blue polymer furniture resembling more modern hunting rifles. Optimized for maximum weight savings, it features cutout holes on the stock and grip; reducing its total unloaded weight to a mere 1.50 Kg, as well as halving the rate of aim stamina drain. The rifle is extremely fragile and will degrade a whopping 4% condition per shot fired. At 100% condition, it can fire up to 25 times before breaking, and up to 50 times total with [Rifle Firearm](./Rifle%20Firearm.md) level 5. As a slight consolation, the rifle is slightly easier to fix with Firearm cleaning kits and gains 1% more condition per repair, however, the player should still expect to burn through a lot of cleaning kits (or time at the [Milling Machine](./Milling%20Machine.md)) if planning on using this weapon.
@@ -57,27 +53,10 @@ The Bunker Rifle also features a unique set of iron sights with a pointed front 
 
 Successful shots on live targets provide experience in the [Rifle Firearm](./Rifle%20Firearm.md) skill.
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 Only obtainable as a trade item through [Sutherland](./Trader.md), the Trader, after completing [Special Request #4](./Sutherland%27s%20Tale.md). It will then appear as a potential trade, and can be ordered repeatedly (this can make them disposable backups to counter the condition loss when multiple are ordered, compensating for the finite number of [Firearm Cleaning Kits](./Firearm%20Cleaning%20Kit.md) in the world).
 
-<!-- #differences_from_hunting_rifle -->
-​
-
-<!-- #Differences_from_Hunting_Rifle -->
-​
-
-<!-- #Differences_from_hunting_rifle -->
-​
-
-<!-- #Differences_From_Hunting_Rifle -->
-​
-
-<!-- #differences-from-hunting-rifle -->
 ## Differences from Hunting Rifle
 
 - Base weight is 2.50 kg less than Hunting Rifle
@@ -85,20 +64,12 @@ Only obtainable as a trade item through [Sutherland](./Trader.md), the Trader, a
 - Aim stamina drains 50% slower than Hunting Rifle
 - Gains an extra 1% condition per repair action with a firearm cleaning kit
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - The name and description of this rifle is related to the various [Prepper Caches](./Prepper%20Cache.md) on the Island, and it may be possible that this rifle originally belonged to Sutherland's brother Wyatt.
   - If so, Wyatt may have ordered several surplus rifles for survival reasons (possibly for his friends and family or as backups). This may also be the reason why Sutherland has so many to trade.
 - Contrary to in-game depictions, polymer furnished hunting rifles are better suited for the harsh temperatures and extreme moisture on the island over the older wooden furniture rifles, as wood is prone to cracking and warping in these severe conditions.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![When inspected](../assets/BunkerRiflePickup.png)

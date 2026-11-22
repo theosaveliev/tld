@@ -35,10 +35,6 @@
 
 **Reishi Tea** is a natural medical and food item used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Reishi Tea functions similar to [Antibiotics](./Antibiotics.md) for treating Afflictions, and is cooked from one [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md) (two [Reishi Mushrooms](./Reishi%20Mushroom.md)) and 0.25 liters of [Potable Water](./Water%20%28Potable%29.md) at a lit [Fire](./Fire.md). Consuming prepared Reishi Tea (even without treating an Affliction) grants 100 Calories, restores 30% Hydration, and potentially grants the benefit [Warming Up](./Warming%20Up.md). Cooking Reishi Tea increases [Cooking Skill](./Skills.md).
@@ -56,10 +52,6 @@ Reishi Mushrooms can be found in the wilderness growing on the trunks or stumps 
 
 Prepared Reishi Mushrooms have half the weight of their raw form, and no form of Reishi Mushroom [Decay](./Decay.md).
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 **Reishi Tea**
@@ -76,10 +68,6 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 **Quantity:** 1
 
-<!-- #Tips -->
-​
-
-<!-- #tips -->
 ## Tips
 
 - Reishi Mushrooms are found sporadically in all regions on the trunks of dead pine tree stumps.
@@ -91,10 +79,6 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 - Infections, Dysentery, and Intestinal Parasites are permanent and lethal if left untreated. Food Poisoning alone is not lethal and will dissipate naturally with time (12-24 hours), but will reduce maximum [Condition](./Condition.md) to 15%, making it potentially dangerous.
 - Reishi Tea is functionally similar to Antibiotics, and is made from natural materials found abundantly in the wilds. In spite of this, Interloper and above require 20 daily doses to treat Parasites, and during a long game the player is liable to accidentally get Intestinal Parasites so it is generally wiser to save Reishi for treatment rather than using it on the Warmth bonus. Antibiotics are also renewable through [Beachcombing](./Beachcombing.md) and [Trading](./Trader.md), but Reishi are not.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Reishi Mushrooms are a real-world bracket fungus (Species: [_G. lingzhi_](https://en.wikipedia.org/wiki/Lingzhi_%28mushroom%29)) common to the Pacific North-West (United States and Canada), as well as north-eastern China, Korea, Japan and Russia.
@@ -104,26 +88,12 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 - Antibiotics are typically a prescription-grade drug derived from Penicillin, which is the case in _The Long Dark_ as they are labeled as "Pharmacillin".
 - In The Long Dark, Antibiotics and Reishi Tea must be applied directly to treat a specific injury (similar to a Bandage), unlike real-world orally-taken drugs which become generally distributed through the body.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Old model.](../assets/Reishi_Tea.png)
 
 ![Old icon](../assets/Reishi_tea_icon_old.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - HOTFIX **20 January 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.71)):**

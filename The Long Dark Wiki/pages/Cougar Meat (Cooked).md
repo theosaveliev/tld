@@ -48,10 +48,6 @@ _For the raw version, see [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)._
 
 **Cougar Meat (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_. It is obtained after cooking [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md) at a fire.
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 **Cougar Meat (Cooked)**
@@ -72,19 +68,7 @@ _For the raw version, see [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)._
 
 ![Ruined](../assets/Cougar_Meat_%28Cooked%29_Ruined.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added to game.
-
-[ru:Мясо пумы (приготовленное)](https://ru.wikipedia.org/wiki/%D0%9C%D1%8F%D1%81%D0%BE_%D0%BF%D1%83%D0%BC%D1%8B_%28%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%29)

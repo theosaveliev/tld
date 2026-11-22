@@ -48,26 +48,12 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Far Range Branch Line** is the 6th Transition Zone [Region](./Region.md) added to [_The Long Dark_](./The%20Long%20Dark.md). It was released on December 5, 2022 for players who purchased the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion pack. The transition region connects to [Broken Railroad](./Broken%20Railroad.md) and [Transfer Pass](./Transfer%20Pass.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 The Far Branch Range Line is a modestly large, highly linear Transition Region located on [Great Bear Island](./Great%20Bear%20Island.md), serving as the barrier between the Lower Great Bear and The Far Territory Regions. Centered on the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md), the Region offers very little in the way of exploration, being composed of a winding railroad that cuts through several mountains and carved out tunnels.
 
 This region is entirely encompassed with unmarked locations and no [surveyable](./Charcoal.md) Region Transition barriers.
 
-<!-- #wildlife_availability -->
-​
-
-<!-- #Wildlife_Availability -->
-​
-
-<!-- #Wildlife_availability -->
-​
-
-<!-- #wildlife-availability -->
 ## Wildlife Availability
 
 The only 3 wildlife that appear in this region:
@@ -78,10 +64,6 @@ The only 3 wildlife that appear in this region:
 
 It is possible for Wolves to be completely absent from the region after surviving for at least 100 days, a trait shared with [Keeper's Pass North](./Keeper%27s%20Pass%20North.md).
 
-<!-- #Locations -->
-​
-
-<!-- #locations -->
 ## Locations
 
 There are a number of unmarked locations in the Far Range Branch Line, including:
@@ -96,19 +78,11 @@ There are a number of unmarked locations in the Far Range Branch Line, including
 - To Transfer Pass (Region Transition to [Transfer Pass](./Transfer%20Pass.md))
 - To Broken Railroad (Region Transition to [Broken Railroad](./Broken%20Railroad.md))
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - All named locations in this region do not show up as marked on the map, even when scouted. Similarly, the entrance/exit areas that transition to new regions are found inside indoor train tunnels, preventing them from being marked down on the map.
 - The description of [Vagabond Soup](./Vagabond%20Soup.md) mentions that it "Originated in the community of people known to hop trains along the Far Range Branch Line, who would harvest the many Rabbits that lived alongside the tracks."
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![A detailed map of the Far Range Branch Line v2.32 (includes spoilers)](../assets/FRBL_map.png)

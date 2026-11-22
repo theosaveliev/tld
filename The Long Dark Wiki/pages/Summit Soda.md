@@ -41,10 +41,6 @@
 
 **Summit Soda** is a packaged [food](./Food%20And%20Drink.md) item in [_The Long Dark_](./The%20Long%20Dark.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 It can be consumed to restore 250 [calories](./Hunger.md) as well as 30% [hydration](./Thirst.md), the equivalent of 0.20 litres of [water](./Water%20%28Potable%29.md). They are found commonly inside all types of structures, [Vehicles](./Vehicle.md), and on [frozen corpses](./Frozen%20Corpse.md).
@@ -53,10 +49,6 @@ There are two other kinds of soda: [Orange Soda](./Orange%20Soda.md) and [Stacy'
 
 Summit Soda never causes [Food Poisoning](./Food%20Poisoning.md).
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Summit Soda is packaged as a product named "_Summit Soda"_, possibly a reference to [Timberwolf Mountain](./Timberwolf%20Mountain.md) or the real-life brand "Mountain Dew."
@@ -64,24 +56,10 @@ Summit Soda never causes [Food Poisoning](./Food%20Poisoning.md).
 - Despite being statistically identical to other Sodas, only Summit Soda will spawn on [Interloper Mode](./Survival%20Mode.md).
 - The ingredients on the back list: "Carbonated Water, High Fructose Corn Syrup, Natural Flavours."
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![old model](../assets/Summit_Soda.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **22 September 2014 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)):**

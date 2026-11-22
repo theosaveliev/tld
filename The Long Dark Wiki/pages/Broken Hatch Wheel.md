@@ -30,10 +30,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Broken Hatch Wheel** is an item found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 It is found after returning [Wyatt's Skeleton](./Wyatt%27s%20Skeleton.md) and then destroying [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md). It must be placed in the [Trade Drop Box](./Trade%20Drop%20Box.md) as the 5th Special Request to Sutherland to advance his questline.

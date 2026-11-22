@@ -51,10 +51,6 @@ Has a bed
 
 Has an interior A **Coastal House**is a type of house found throughout the [Coastal Highway](./Coastal%20Highway.md) region. Many of these buildings have the same layout as the [Crossroads House](./Crossroads%20House.md) and [Milton House](./Milton%20House.md). A few Cabins can be found throughout the region, but none are considered Coastal Houses.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Most of the dwellings throughout the region count as Coastal Houses. They are found in the following locations:
@@ -68,38 +64,14 @@ Most houses at Costal Townsite are in ruins after decades of neglect, with many 
 
 Waterfront Cottages has a chance to have no standing buildings when playing on [Interloper](./Interloper.md) or [Misery](./Misery.md) and most of the houses in Coastal Townsite can be in ruins as well. Higher game difficulty will almost always lead to more ruined buildings spawning.
 
-<!-- #Loot -->
-​
-
-<!-- #loot -->
 ### Loot
 
 Coastal Houses are filled with [Clothing](./Clothing.md), [Food And Drink](./Food%20And%20Drink.md), [Beds](./Bed.md), [Toilets](./Toilet.md) for [Water (Potable)](./Water%20%28Potable%29.md), and furniture for harvesting wood.
 
-<!-- #building_types -->
-​
-
-<!-- #Building_Types -->
-​
-
-<!-- #Building_types -->
-​
-
-<!-- #building-types -->
 ## Building Types
 
 Coastal Houses appear as 5 types of buildings:
 
-<!-- #story_house_type_1 -->
-​
-
-<!-- #1_Story_House_Type_1 -->
-​
-
-<!-- #1_story_house_type_1 -->
-​
-
-<!-- #1-story-house-type-1 -->
 ### 1 Story House Type 1
 
 ![Coastal House 1](../assets/Coastal_House_1.jpg)
@@ -117,16 +89,6 @@ This type of building has only 1 floor, with 2 doors leading outside of the buil
 - A bedroom with a [Bed](./Bed.md) and Clothing Drawers
 - A bathroom next to the bedroom
 
-<!-- #story_house_type_2 -->
-​
-
-<!-- #1_Story_House_Type_2 -->
-​
-
-<!-- #1_story_house_type_2 -->
-​
-
-<!-- #1-story-house-type-2 -->
 ### 1 Story House Type 2
 
 ![Coastal House 3](../assets/Coastal_House_3.jpg)
@@ -142,16 +104,6 @@ This type of building has only 1 floor, with 2 doors leading outside of the buil
 - A bedroom with a [Bed](./Bed.md) and Clothing Drawers
 - A bathroom next to the bedroom
 
-<!-- #story_house_type_3 -->
-​
-
-<!-- #1_Story_House_Type_3 -->
-​
-
-<!-- #1_story_house_type_3 -->
-​
-
-<!-- #1-story-house-type-3 -->
 ### 1 Story House Type 3
 
 ![Coastal House 2](../assets/Coastal_House_2.jpg)
@@ -166,16 +118,6 @@ A very small walk in house with a single door entrance. This building has only 3
 - Bedroom with a Bed and Clothing drawers
 - Bathroom adjacent to the Bedroom
 
-<!-- #story_house_type_4 -->
-​
-
-<!-- #1_Story_House_Type_4 -->
-​
-
-<!-- #1_story_house_type_4 -->
-​
-
-<!-- #1-story-house-type-4 -->
 ### 1 Story House Type 4
 
 ![Jackrabbit Island house](../assets/Jackrabbit_Island_-_house.jpg)
@@ -187,16 +129,6 @@ This building type only appears at [Jackrabbit Island](./Jackrabbit%20Island.md)
 - A bedroom
 - A bathroom next to the bedroom
 
-<!-- #story_house -->
-​
-
-<!-- #2_Story_House -->
-​
-
-<!-- #2_story_house -->
-​
-
-<!-- #2-story-house -->
 ### 2 Story House
 
 ![Coastal House 4](../assets/Coastal_House_4.jpg)

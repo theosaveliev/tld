@@ -10,7 +10,6 @@
 - [Disadvantages](#disadvantages)
 - [Harvesting](#harvesting)
 - [Repair](#repair)
-- [Gallery](#gallery)
 - [Game History](#game-history)
 
 **McLeod Ultra-Efficiency Whale Oil Heater**
@@ -29,24 +28,20 @@
 
 **Harvest:** Cannot Harvest
 
-**Repair:** 1 × [Scrap Metal](./Scrap%20Metal.md) (%) Condition<br>1 hour
+**Repair:** 1 × [Scrap Metal](./Scrap%20Metal.md) (%) Condition 1 hour
 
 [Seal icon](../assets/Seal_icon.png)
 
-**DLC-Exclusive content.**<br>This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+**DLC-Exclusive content.** This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
 “
 
-**A portable heater powered by whale oil, ultra efficient by virtue of modifications by the McLeod Benthic Railway Company. Heavy, windproof. Higher fuel use means higher heat output. Patent pending.**<br>In-game description
+**A portable heater powered by whale oil, ultra efficient by virtue of modifications by the McLeod Benthic Railway Company. Heavy, windproof. Higher fuel use means higher heat output. Patent pending.** In-game description
 
 ”
 
 The **McLeod Ultra-Efficiency Whale Oil Heater** (or Oil Heater for short), is a [Tools](./Tools.md) item exclusively found on [Cauldron Island](./Cauldron%20Island.md) in [_The Long Dark_](./The%20Long%20Dark.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Despite appearing to be a large [Storm Lantern](./Storm%20Lantern.md), the item behaves more like a portable [Pot Belly Stove](./Pot%20Belly%20Stove.md). The item is quite large (about as tall as a large traffic cone), yet is surprisingly light in weight for its size at only 2.50 kg. The Oil Heater runs exclusively on [Whale Oil Cans](./Whale%20Oil%20Can.md), storing up to 2.50 L of oil (making the maximum weight of the Heater 5.00 kg).
@@ -63,24 +58,10 @@ When dropped or placed onto the ground, it can be turned on and used as a portab
   - It can also be used inside a [Warm Cave](./Warm%20Cave.md) or other buildings to increase the already high indoor warmth bonus. This method can also save fuel for the train, by instead sleeping inside a building/cave with the Heater on Low Burn rather than letting the train engine run all night and sleeping in the train cabin.
 - Predators will react to the Oil Heater as though it was a [Campfire](./Campfire.md), hesitating to confront you once you are close to the heater. They can still attack you through the field of the Oil Heater however if you get too close to them.
 
-<!-- #Location -->
-​
-
-<!-- #location -->
 ### Location
 
 The Oil Heater is found in the [Repair Depot](./Repair%20Depot.md) in the [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) Region, on a workbench on the ground floor workshop. There are also several starting Whale Oil Cans located nearby.
 
-<!-- #burn_rates_setting -->
-​
-
-<!-- #Burn_Rates_Setting -->
-​
-
-<!-- #Burn_rates_setting -->
-​
-
-<!-- #burn-rates-setting -->
 ### Burn Rates Setting
 
 The Oil Heater has a temperature setting that can be adjusted to the player's liking. Depending on which burn rate is selected, more fuel is used to create more heat, while also burning stored Whale Oil at a faster rate. Higher burn rates do not result in faster Cooking times. The burn rate cannot be reversed, meaning that the burn rate is always toggled in the Low, Medium, and High burn orders before starting at Low again.
@@ -91,10 +72,6 @@ The Oil Heater has a temperature setting that can be adjusted to the player's li
 | Medium Burn | +20 °C / _(36 °F)_ | 0.50 L | 5 hours |
 | High Burn | +30 °C / _(54 °F)_ | 0.75 L | 3.33 hours |
 
-<!-- #Disadvantages -->
-​
-
-<!-- #disadvantages -->
 ### Disadvantages
 
 - The largest drawback of this device is that a constant supply of Whale Oil Cans must be carried to make the most use of the heater (these cans often weight up to 3.00 kg or more, stopping at 5.10 kg), meaning that the player will need to travel light to carry spare oil for the heater.
@@ -102,32 +79,10 @@ The Oil Heater has a temperature setting that can be adjusted to the player's li
   - Transporting enough fuel to the Fulmar is a chore enough, as several trips would need to be made through the bay of [Port Remnant](./Port%20Remnant.md) to the boat. Carrying the necessary amount of fuel to continue to operate it back on Great Bear Island is also a logistical nightmare unless the [Travois](./Travois.md) is used to carry Whale Oils Cans with you (and you will eventually run out of oil and need to make a costly resupply run back to Cauldron Island to keep using it).
 - The heater cannot be placed inside the [Prototype Train](./Prototype%20Train.md) to further warm the cabin.
 
-<!-- #Harvesting -->
-​
-
-<!-- #harvesting -->
 ## Harvesting
 
 The item cannot be harvested.
 
-<!-- #Repair -->
-​
-
-<!-- #repair -->
 ## Repair
 
 The Oil Heater can be repaired with a pair of [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) in 1 hour with 1 [Scrap Metal](./Scrap%20Metal.md) while in the Backpack.
-
-<!-- #game_history -->
-​
-
-<!-- #Game_History -->
-​
-
-<!-- #Game_history -->
-​
-
-<!-- #game-history -->
-## Game History
-
-[ru:Ультраэффективный обогреватель Маклеода](https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BE%D0%B1%D0%BE%D0%B3%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D0%9C%D0%B0%D0%BA%D0%BB%D0%B5%D0%BE%D0%B4%D0%B0)

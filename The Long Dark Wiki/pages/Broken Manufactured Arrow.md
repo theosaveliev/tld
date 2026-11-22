@@ -30,10 +30,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Broken Manufactured Arrow** is a [Tools](./Tools.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 It is only acquired after a [Manufactured Arrow](./Manufactured%20Arrow.md) finally breaks at low Condition, and cannot be harvested.

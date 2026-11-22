@@ -67,20 +67,12 @@ GAMEPLAY\_AcornCooked
 
 **Acorns (Cooked)** are a natural [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Cooked Acorns, while not a calorically dense food, having just over half the calories of a [Cat Tail Stalk](./Cat%20Tail%20Stalk.md), do have the small perk of not draining thirst. However, since Acorns cannot be eaten raw and require water to cook, they still require the use of extra water and must be prepared first. Cooking [Prepared Acorns](./Prepared%20Acorns.md) in portions of four (0,5L water) is more resource efficient than one at a time (0,25L per acorn)
 
 4 pieces of Acorns (Cooked) or 1 piece of Acorns (Cooked) - Large Portion can be processed into [Acorn Grounds](./Acorn%20Grounds.md) using a [Heavy Hammer](./Heavy%20Hammer.md). The action is performable everywhere and takes 10 minutes of in-game time.
 
-<!-- #Recipe -->
-​
-
-<!-- #recipe -->
 ## Recipe
 
 **Acorns (Cooked)**
@@ -97,26 +89,12 @@ Cooked Acorns, while not a calorically dense food, having just over half the cal
 
 **Quantity:** 1
 
-<!-- #Products -->
-​
-
-<!-- #products -->
 ## Products
 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Acorn Grounds](./Acorn%20Grounds.md) | None | - 4 × [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) |
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**

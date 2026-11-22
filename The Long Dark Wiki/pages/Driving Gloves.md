@@ -26,9 +26,9 @@
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
 
-**Harvest:** 1 × [Cured Leather](./Cured%20Leather.md)<br>10 minutes
+**Harvest:** 1 × [Cured Leather](./Cured%20Leather.md) 10 minutes
 
-**Repair:** 1 × [Cured Leather](./Cured%20Leather.md)<br>30 minutes<br>25% condition
+**Repair:** 1 × [Cured Leather](./Cured%20Leather.md) 30 minutes 25% condition
 
 > “**Thin leather gloves designed for driving. Not much use in the cold.**”
 >
@@ -36,20 +36,12 @@
 
 **Driving Gloves** are a type of [Clothing](./Clothing.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Driving Gloves can commonly be found in [cars](./Car.md) and buildings, but offer very little protection against the [cold](./Warmth.md). Only [Improvised Hand Wraps](./Improvised%20Hand%20Wraps.md) offer less protection from the elements. However, wearing leather gloves if there are no other options will at least prevent [Frostbite](./Frostbite.md).
 
 More notably, driving gloves weigh relatively little and can be harvested for [Cured Leather](./Cured%20Leather.md). Harvesting Driving Gloves is also less time-consuming than harvesting boots or many other common sources of Cured Leather.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![Pre alpha model.](../assets/Basic_gloves_%28historical%29.png)
@@ -58,16 +50,6 @@ More notably, driving gloves weigh relatively little and can be harvested for [C
 
 ![Clothing model damaged](../assets/Driving_Gloves_Damaged_Model_icon.png)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **19 December 2016 ([Update](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.386)):**

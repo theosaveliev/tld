@@ -14,10 +14,6 @@
 
 **Type:** Outdoors
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 A [hunting blind](./Hunter%27s%20Blinds.md) is located a short distance north, which can allow the player to safely hunt the packs of [timberwolves](./Timberwolf.md) which frequent the area. Weak ice is a constant threat when exploring the delta, so caution is advised.

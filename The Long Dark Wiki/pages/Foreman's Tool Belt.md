@@ -26,9 +26,9 @@ Wintermute
 
 **Mobility:** [Mobility icon](../assets/Mobility_icon.png)0
 
-**Harvest:** 2 x [Cured Leather](./Cured%20Leather.md)<br>30 minutes
+**Harvest:** 2 x [Cured Leather](./Cured%20Leather.md) 30 minutes
 
-**Repair:** 1 × [Cured Leather](./Cured%20Leather.md)<br>25 minutes<br>75% condition
+**Repair:** 1 × [Cured Leather](./Cured%20Leather.md) 25 minutes 75% condition
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -42,10 +42,6 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 The **Foreman's Tool Belt** is an accessory [Clothing](./Clothing.md) found in _The Long Dark_, and once belonged to [The Foreman](./The%20Foreman.md) of the [Langston Mine](./Langston%20Mine.md). It is the ultimate prize that can be found from completing the [Tale](./Tales.md) [Buried Echoes](./Buried%20Echoes.md) and is found deep inside the Mine in the [Zone of Contamination](./Zone%20of%20Contamination.md).
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 Wearing it lowers the weight of the following tools if they are in the player's inventory by 50%. This bonus only applies for a maximum of 3 held tools at a given time. If more than 3 qualifying tools are held, the bonus only applies for the heaviest tools held:
@@ -68,16 +64,6 @@ Wearing it lowers the weight of the following tools if they are in the player's 
 
 ![The toolbelt location in game](../assets/Foreman%27s_Tool_Belt_Location.jpg)
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**

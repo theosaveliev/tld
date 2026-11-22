@@ -34,10 +34,6 @@
 
 **Prison Transport Manifest** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode.
 
-<!-- #Transcript -->
-​
-
-<!-- #transcript -->
 ## Transcript
 
 _The following text is transcribed from **Prison Transport Manifest**_
@@ -64,25 +60,11 @@ Total roster: 15 inmates
 
 Known medical conditions: None.
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Originally, only 12 inmates were on the list. After Episode 1's Redux launch however, Hobbs was added to the list resulting in 13 prisoners. After Episode 4 was released, the list was further amended to have Vachon and Heller stealthily added to the list, making the bus list consist of 15 prisoners.
 - LECLERC, Y. is mentioned by [Vachon](./Vachon.md) at the start of [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md), killed with an [arrow through the chest](./Molly.md).
 
-<!-- #update_history -->
-​
-
-<!-- #Update_history -->
-​
-
-<!-- #Update_History -->
-​
-
-<!-- #update-history -->
 ## Update history
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**

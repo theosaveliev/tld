@@ -33,10 +33,6 @@
 
 Early Access launched October 27th, 2026 on Steam only. Updates are planned to be a balance of small and large updates. News regarding other platforms is to be announced.
 
-<!-- #Overview -->
-​
-
-<!-- #overview -->
 ## Overview
 
 ![Cauldron Island](../assets/Cauldron_Island_Logo.png)
@@ -45,22 +41,6 @@ Early Access launched October 27th, 2026 on Steam only. Updates are planned to b
 >
 > — Get to Cauldron Island and uncover the truth. Follow the path laid by Alice McLeod, his great-granddaughter, who came here to crack the mystery of her family legacy. Because uncovering the mystery of Cauldron Island is core to your survival in this new Aurora-blasted world. And the journey Alice started is yours to complete. Official Marketing
 
-<!-- #world_and_setting -->
-​
-
-<!-- #World_and_Setting: -->
-​
-
-<!-- #world_and_setting: -->
-​
-
-<!-- #World_and_setting: -->
-​
-
-<!-- #World_And_Setting: -->
-​
-
-<!-- #world-and-setting -->
 ### World and Setting:
 
 - [Cauldron Island](./Cauldron%20Island.md) is a chain of five islands located near Great Bear Island, with each one being named after one of McLeod’s daughters: Anna, Stella, Freya, Morag, and Skye. Each island can contain multiple Regions and is connected to the others via a hydraulic train bridge that is disabled until it is unlocked as Early Access unfolds.
@@ -72,16 +52,8 @@ Early Access launched October 27th, 2026 on Steam only. Updates are planned to b
 - The game world now reflects the post [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) [Aurora](./Aurora.md) world: as the player travels deeper into Cauldron Island, new dangers beset the player's health.
 - Iron Road features a series of audio collectibles and light narrative missions that provide objectives and motivate your journey across the entirety of Cauldron Island (similar to [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)). Find Wax Cylinders that reveal the history of the caldera and discover more about McLeod's failed operations from a century ago.
 
-<!-- #new_regions -->
-​
+## Part One: Anna Island
 
-<!-- #New_Regions -->
-​
-
-<!-- #New_regions -->
-​
-
-<!-- #new-regions -->
 ### New Regions
 
 - Access to [Anna Island](./Cauldron%20Island.md#Anna_Island) with multiple new Regions:
@@ -93,19 +65,6 @@ Early Access launched October 27th, 2026 on Steam only. Updates are planned to b
   - [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)
   - [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)
 
-<!-- #new_vehicles_and_track_systems -->
-​
-
-<!-- #New_Vehicles_and_Track_Systems -->
-​
-
-<!-- #New_vehicles_and_track_systems -->
-​
-
-<!-- #New_Vehicles_And_Track_Systems -->
-​
-
-<!-- #new-vehicles-and-track-systems -->
 ### New Vehicles and Track Systems
 
 - [Fulmar Autopilot Boat](./Fulmar%20Autopilot%20Boat.md)
@@ -115,16 +74,6 @@ Early Access launched October 27th, 2026 on Steam only. Updates are planned to b
   - Deep Drifts (large snow piles)
   - Fallen Trees
 
-<!-- #new_items -->
-​
-
-<!-- #New_Items -->
-​
-
-<!-- #New_items -->
-​
-
-<!-- #new-items -->
 ### New Items
 
 - [Brake Shoe](./Brake%20Shoe.md)
@@ -132,90 +81,24 @@ Early Access launched October 27th, 2026 on Steam only. Updates are planned to b
 - [McLeod Ultra-Efficiency Whale Oil Heater](./McLeod%20Ultra-Efficiency%20Whale%20Oil%20Heater.md)
 - [Wax Cylinder Player](./Wax%20Cylinder%20Player.md), 16 Wax Cylinders, and 4 other Collectibles
 
-<!-- #part_two -->
-​
-
-<!-- #Part_Two: -->
-​
-
-<!-- #part_two: -->
-​
-
-<!-- #Part_two: -->
-​
-
-<!-- #part-two -->
 ## Part Two:
 
 TBA
 
-<!-- #part_three -->
-​
-
-<!-- #Part_Three: -->
-​
-
-<!-- #part_three: -->
-​
-
-<!-- #Part_three: -->
-​
-
-<!-- #part-three -->
 ## Part Three:
 
 TBA
 
-<!-- #part_four -->
-​
-
-<!-- #Part_Four: -->
-​
-
-<!-- #part_four: -->
-​
-
-<!-- #Part_four: -->
-​
-
-<!-- #part-four -->
 ## Part Four:
 
 TBA
 
-<!-- #part_five -->
-​
-
-<!-- #Part_Five: -->
-​
-
-<!-- #part_five: -->
-​
-
-<!-- #Part_five: -->
-​
-
-<!-- #part-five -->
 ## Part Five:
 
 TBA
 
-<!-- #new_train_and_track_systems -->
-​
+## Upcoming Content
 
-<!-- #New_Train_and_Track_Systems: -->
-​
-
-<!-- #new_train_and_track_systems: -->
-​
-
-<!-- #New_train_and_track_systems: -->
-​
-
-<!-- #New_Train_And_Track_Systems: -->
-​
-
-<!-- #new-train-and-track-systems -->
 ### New Train and Track Systems:
 
 - Train upgrades to various components, unlocking new train-based gameplay tools
@@ -229,22 +112,6 @@ TBA
 - Puzzle Gates
 - Aurora Gates
 
-<!-- #new_gameplay_tools_and_wildlife -->
-​
-
-<!-- #New_Gameplay_Tools_and_Wildlife: -->
-​
-
-<!-- #new_gameplay_tools_and_wildlife: -->
-​
-
-<!-- #New_gameplay_tools_and_wildlife: -->
-​
-
-<!-- #New_Gameplay_Tools_And_Wildlife: -->
-​
-
-<!-- #new-gameplay-tools-and-wildlife -->
 ### New Gameplay Tools and Wildlife:
 
 - New [Safehouse Customization](./Safehouse%20Customization.md) [Decorations](./Decorations.md) themed around the 1920s-30s
@@ -261,19 +128,6 @@ TBA
 - Seabirds
 - New Aurora Hazards
 
-<!-- #new_clothing -->
-​
-
-<!-- #New_Clothing: -->
-​
-
-<!-- #new_clothing: -->
-​
-
-<!-- #New_clothing: -->
-​
-
-<!-- #new-clothing -->
 ### New Clothing:
 
 - Whaler’s Coat
@@ -283,20 +137,12 @@ TBA
 - Islander Sweater
 - Sealskin Boots
 
-<!-- #Trivia -->
-​
-
-<!-- #trivia -->
 ## Trivia
 
 - Players currently cannot start on Cauldron Island when selecting a starting Region on a fresh save file, as Survival Mode's narrative stipulates that the Survivor character had their plane crash in the remote wilderness of Great Bear Island.
   - This means that the player must start in Desolation Point and load up the required materials into the Fulmar in order to access Cauldron Island on every new playthrough.
 - There are no [Frozen Corpses](./Frozen%20Corpse.md) on the caldera due to a lack of human activity in over 100 years.
 
-<!-- #Gallery -->
-​
-
-<!-- #gallery -->
 ## Gallery
 
 ![August 2026 teaser for Cauldron Island.](../assets/Tld-august-dev-diary-site-support-img-1.jpg)
@@ -325,18 +171,4 @@ TBA
 
 ![Iron Road Clothing Logo](../assets/Iron_Road_Clothing_Logo.png)
 
-<!-- #References -->
-​
-
-<!-- #references -->
 ## References
-
-&lt;div class="references-small" ;"&gt;
-
-<!-- #Links -->
-​
-
-<!-- #links -->
-## Links
-
-[ru:Железная дорога](https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0)

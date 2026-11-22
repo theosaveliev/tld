@@ -4,27 +4,19 @@
 
 **The Security Chief's Remains**
 
-[The Security Chief's Remains icon](../assets/The_Security_Chief%27s_Remains_icon.png)
-
-**Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Human bones, weathered by time and memory.
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_Tale2\_SecurityChiefBones
+| Property | Details |
+| --- | --- |
+|  | [The Security Chief's Remains icon](../assets/The_Security_Chief%27s_Remains_icon.png) |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Human bones, weathered by time and memory. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Tale2\_SecurityChiefBones |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

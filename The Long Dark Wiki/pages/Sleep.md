@@ -239,7 +239,7 @@ If the player sleeps at a cloth [bedroll](./Bedroll.md) after drinking [herbal t
 | 5 | 7% | +25% | 75% | 300 | 12 |
 | 6 | 8% | +33% | 67% | 360 | 11 |
 
-Note: If all needs are not met or become unmet, condition loss will continue or begin. It is quite possible to die in one's sleep if not interrupted. [Thirst](./Thirst.md) and [Hunger](./Hunger.md) build as one sleeps -- at 55 ml &amp; 60 calories per hour. Thus, 12 hours of sleep will completely dehydrate a character who had no thirst when starting. Therefore, it is wise to always drink [water](./Water%20%28Potable%29.md) before sleeping.
+Note: If all needs are not met or become unmet, condition loss will continue or begin. It is quite possible to die in one's sleep if not interrupted. [Thirst](./Thirst.md) and [Hunger](./Hunger.md) build as one sleeps -- at 55 ml & 60 calories per hour. Thus, 12 hours of sleep will completely dehydrate a character who had no thirst when starting. Therefore, it is wise to always drink [water](./Water%20%28Potable%29.md) before sleeping.
 
 ## Impaired sleep
 

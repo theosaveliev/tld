@@ -14,21 +14,16 @@
 
 **Woodworking Tools**
 
-[Woodworking Tools icon](../assets/Woodworking_Tools_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Values**
-
-**Weight:** 1.50 kg (3.3 lbs)
-
-**Actions**
-
-**Backpack:** Examine, Drop, Pick up
+| Property | Details |
+| --- | --- |
+|  | [Woodworking Tools icon](../assets/Woodworking_Tools_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| **Values** |  |
+| Weight | 1.50 kg (3.3 lbs) |
+| **Actions** |  |
+| Backpack | Examine, Drop, Pick up |
 
 **Woodworking Tools** is a tool used to craft furniture for the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 

@@ -18,35 +18,23 @@
 
 **Jace**
 
-[Jace](../assets/Jace.png)
-
-**Release:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
-
-**Date:** 6 October 2021
-
-**Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
-
-**Mission:** **•** [Blackrock Blues](./Blackrock%20Blues.md) **•** [The Power Plant](./The%20Power%20Plant.md) **•** [The Detonators](./The%20Detonators.md) **•** [Donner](./Donner.md)
-
-**Location(s):** [Power Plant](./Power%20Plant.md)
-
-**Biographical Information**
-
-**Age:** 20's
-
-**Status:** Alive
-
-**Occupation:** Graduate student in astrophysics
-
-**Physical Information**
-
-**Hair:** Dark Brown
-
-**Eyes:** Dark Brown
-
-**Game Information**
-
-**Voiced by:** Tina Grant
+| Property | Details |
+| --- | --- |
+|  | [Jace](../assets/Jace.png) |
+| Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Date | 6 October 2021 |
+| Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
+| Mission | **•** [Blackrock Blues](./Blackrock%20Blues.md) / **•** [The Power Plant](./The%20Power%20Plant.md) / **•** [The Detonators](./The%20Detonators.md) / **•** [Donner](./Donner.md) |
+| Location(s) | [Power Plant](./Power%20Plant.md) |
+| **Biographical Information** |  |
+| Age | 20's |
+| Status | Alive |
+| Occupation | Graduate student in astrophysics |
+| **Physical Information** |  |
+| Hair | Dark Brown |
+| Eyes | Dark Brown |
+| **Game Information** |  |
+| Voiced by | Tina Grant |
 
 > “__A graduate student in astrophysics, Jace normally has her eyes on the stars. Chance, and the Aurora, have brought her to Blackrock.  
    

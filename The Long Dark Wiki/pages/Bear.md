@@ -31,21 +31,16 @@
 
 **Bear**
 
-[Bear](../assets/Bear.png)
-
-**Basic Information**
-
-**Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)
-
-**Role:** Predator
-
-**Physical Information**
-
-**Color:** Black
-
-**Size:** Large
-
-**Eyes:** Brown
+| Property | Details |
+| --- | --- |
+|  | [Bear](../assets/Bear.png) |
+| **Basic Information** |  |
+| Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192) |
+| Role | Predator |
+| **Physical Information** |  |
+| Color | Black |
+| Size | Large |
+| Eyes | Brown |
 
 _For the unique bear found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md), [The Hunted, Part One](./The%20Hunted%2C%20Part%20One.md) and [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md), see [Old Bear](./Old%20Bear.md)._
 

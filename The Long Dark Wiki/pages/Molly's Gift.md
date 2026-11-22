@@ -6,15 +6,13 @@
 
 **Molly's Gift**
 
-[Mollys gift](../assets/Mollys_gift.jpg)
-
-**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
-
-**Current:** Molly's Gift
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**Characters:** [Molly](./Molly.md)
+| Property | Details |
+| --- | --- |
+|  | [Mollys gift](../assets/Mollys_gift.jpg) |
+| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Current | Molly's Gift |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
+| Characters | [Molly](./Molly.md) |
 
 > “**More help from Astrid's mysterious rescuer. As a local, Molly's help could be vital to surviving the harsh wilderness in Pleasant Valley.**”
 

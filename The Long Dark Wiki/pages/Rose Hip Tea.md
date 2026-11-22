@@ -12,23 +12,17 @@
 
 **Rose Hip Tea**
 
-[Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png)
-
-**Renewable:** No
-
-**Properties**
-
-**Item type:** [First Aid](./First%20Aid.md)
-
-**Values**
-
-**Calories:** 100 kcal
-
-**Hydration:** 30%
-
-**[Vitamin C](./Scurvy.md):** Minor (13%)
-
-**Weight:** 0.10 kg (0.22 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Rose Hip Tea icon](../assets/Rose_Hip_Tea_icon.png) |
+| Renewable | No |
+| **Properties** |  |
+| Item type | [First Aid](./First%20Aid.md)\|- |
+| **Values** |  |
+| Calories | 100 kcal |
+| Hydration | 30% |
+| [Vitamin C](./Scurvy.md) | Minor (13%) |
+| Weight | 0.10 kg (0.22 lbs) |
 
 **Rose Hip Tea** is a natural medical and food item used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 

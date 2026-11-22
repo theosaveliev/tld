@@ -4,15 +4,13 @@
 
 **Muskeg Overlook**
 
-[Muskeg Overlook](../assets/Muskeg_Overlook.jpg)
-
-**Location**
-
-[Muskeg Overlook Location](../assets/Muskeg_Overlook_Location.png)
-
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Muskeg Overlook](../assets/Muskeg_Overlook.jpg) |
+| **Location** |  |
+|  | [Muskeg Overlook Location](../assets/Muskeg_Overlook_Location.png) |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
+| Type | Outdoors\|- |
 
 ## Overview
 

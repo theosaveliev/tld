@@ -11,9 +11,10 @@
 
 **Tough Enough**
 
-[Tough Enough icon](../assets/Tough_Enough_icon.png)
-
-**Description:** Survive 25 Cougar Struggles.
+| Property | Details |
+| --- | --- |
+|  | [Tough Enough icon](../assets/Tough_Enough_icon.png) |
+| Description | Survive 25 Cougar Struggles. |
 
 **Tough Enough** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -36,3 +37,5 @@ The requirements to unlock this achievement necessitates the player being fully 
 - This achievement is one of the hardest to unlock in the game, and thus requires great patience and planning. A guide to hunting and surviving Cougar encounters (including using proper [First Aid](./First%20Aid.md) to heal from [Severe Lacerations](./Severe%20Lacerations.md)) can be found [Here](./Cougar.md#Hunting).
 - Deliberately being attacked by the same Cougar over and over within a short time span will more than likely result in your death, so plan ahead when recovering from injuries.
 - Wearing a [Ballistic Vest](./Ballistic%20Vest.md) significantly lowers Condition damage to the player. Consider also wearing [Clothing](./Clothing.md) with high Protection stats.
+
+## Trivia

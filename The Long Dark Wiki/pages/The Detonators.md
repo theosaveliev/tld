@@ -4,21 +4,16 @@
 
 **The Detonators**
 
-[The Detonators](../assets/The_Detonators.png)
-
-Episode
-
-**Missions**
-
-**Previous:** [The Power Plant](./The%20Power%20Plant.md)
-
-**Current:** The Detonators
-
-**Next:** [Donner\_(mission)](./Donner%20%28mission%29.md)
-
-**Region:** [Blackrock Region](./Blackrock.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md) [Vachon](./Vachon.md) [Heller](./Heller.md) [Jace](./Jace.md)
+| Property | Details |
+| --- | --- |
+|  | [The Detonators](../assets/The_Detonators.png) |
+| Episode |  |
+| **Missions** |  |
+| Previous | [The Power Plant](./The%20Power%20Plant.md) |
+| Current | The Detonators |
+| Next | [Donner\_(mission)](./Donner%20%28mission%29.md) |
+| Region | [Blackrock Region](./Blackrock.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jace](./Jace.md) |
 
 **The Detonators** is the fourth mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of [Wintermute](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) offers to help [Mathis](./Mathis.md) find [Detonators](./Detonators.md) in the old mine, in order to hopefully appease Mathis sufficiently that he avoids killing [Franklin](./Franklin.md).
 

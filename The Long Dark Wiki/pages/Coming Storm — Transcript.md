@@ -4,19 +4,15 @@
 
 **Coming Storm/Transcript**
 
-[Missions story ep3 Coming Storm](../assets/Missions_story_ep3_Coming_Storm.png)
-
-**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
-
-**Previous:** [Fallen Star/Transcript](./Fallen%20Star%20%E2%80%94%20Transcript.md)
-
-**Current:** Coming Storm/Transcript
-
-**Next:** [Aftermath/Transcript](./Aftermath%20%E2%80%94%20Transcript.md)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**Characters:** [Astrid](./Astrid%20Greenwood.md) [Father Thomas](./Father%20Thomas.md) [Crash Survivor](./Crash%20Survivor.md)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep3 Coming Storm](../assets/Missions_story_ep3_Coming_Storm.png) |
+| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Previous | [Fallen Star/Transcript](./Fallen%20Star%20%E2%80%94%20Transcript.md) |
+| Current | Coming Storm/Transcript |
+| Next | [Aftermath/Transcript](./Aftermath%20%E2%80%94%20Transcript.md) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
+| Characters | [Astrid](./Astrid%20Greenwood.md) / [Father Thomas](./Father%20Thomas.md) / [Crash Survivor](./Crash%20Survivor.md) |
 
 This is the mission transcript for mission 3 [Coming Storm](./Coming%20Storm.md) of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 

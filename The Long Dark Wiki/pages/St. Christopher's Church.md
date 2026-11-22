@@ -4,23 +4,17 @@
 
 **St. Christopher's Church**
 
-[St. Christopher's Church](../assets/St._Christopher%27s_Church.png)
-
-**Location**
-
-[St. Christopher's Church Location](../assets/St._Christopher%27s_Church_Location.png)
-
-Region
-
-**Location:** A short walk up the road from [Milton](./Milton.md)
-
-**Description:** A church and graveyard
-
-**General**
-
-**Type:** Residential
-
-Has an interior **St Christopher's Church** is a location a short distance from [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. The church is a possible spawn location for the region and the [Graveyard](./Graveyard.md) is located across the street.
+| Property | Details |
+| --- | --- |
+|  | [St. Christopher's Church](../assets/St._Christopher%27s_Church.png) |
+| **Location** |  |
+|  | [St. Christopher's Church Location](../assets/St._Christopher%27s_Church_Location.png) |
+| Region |  |
+| Location | A short walk up the road from [Milton](./Milton.md) |
+| Description | A church and graveyard |
+| **General** |  |
+| Type | Residential\|- |
+|  | Has an interior **St Christopher's Church** is a location a short distance from [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region. The church is a possible spawn location for the region and the [Graveyard](./Graveyard.md) is located across the street. |
 
 ## Overview
 

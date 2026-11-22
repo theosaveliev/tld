@@ -4,17 +4,14 @@
 
 **Forsaken Shore**
 
-[No picture](../assets/No_picture.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[No picture](../assets/No_picture.png)
-
-**Details**
-
-**Connecting Regions:** [Rocky Thoroughfare](./Rocky%20Thoroughfare.md)
-
-**Difficulty:** Intermediate
+| Property | Details |
+| --- | --- |
+|  | [No picture](../assets/No_picture.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [No picture](../assets/No_picture.png) |
+| **Details** |  |
+| Connecting Regions | [Rocky Thoroughfare](./Rocky%20Thoroughfare.md) |
+| Difficulty | Intermediate |
 
 [The Long Development White Logo](../assets/The_Long_Development_White_Logo.png)
 

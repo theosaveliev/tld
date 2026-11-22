@@ -16,29 +16,20 @@
 
 **Timberwolf Mountain**
 
-[Timberwolf Mountain title card](../assets/Timberwolf_Mountain_title_card.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[Timberwolf Mountain Location](../assets/Timberwolf_Mountain_Location.png)
-
-[Timberwolf Mountain map](../assets/Timberwolf_Mountain_map.png)
-
-**Details**
-
-**Description:** A harsh mountainous region with scarce resources and many [Rope Climbing](./Rope%20Climbing.md) spots.
-
-**Connecting Regions:** [Pleasant Valley](./Pleasant%20Valley.md), [Ash Canyon](./Ash%20Canyon.md), [Blackrock](./Blackrock.md)
-
-**Difficulty:** Advanced
-
-**Interloper Region Spawn:** Yes
-
-**Locations:** 25
-
-**Hazards and Survivability:** The region is known for temperatures below -20 °C, frequent blizzards and scarce resources. Much of the region is divided up by [Rope Climbing](./Rope%20Climbing.md) areas, making navigation tricky.
-
-**Date Added:** Dec 2015
+| Property | Details |
+| --- | --- |
+|  | [Timberwolf Mountain title card](../assets/Timberwolf_Mountain_title_card.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [Timberwolf Mountain Location](../assets/Timberwolf_Mountain_Location.png) |
+|  | [Timberwolf Mountain map](../assets/Timberwolf_Mountain_map.png) |
+| **Details** |  |
+| Description | A harsh mountainous region with scarce resources and many [Rope Climbing](./Rope%20Climbing.md) spots. |
+| Connecting Regions | [Pleasant Valley](./Pleasant%20Valley.md), [Ash Canyon](./Ash%20Canyon.md), [Blackrock](./Blackrock.md) |
+| Difficulty | Advanced |
+| Interloper Region Spawn | Yes |
+| Locations | 25 |
+| Hazards and Survivability | The region is known for temperatures below -20 °C, frequent blizzards and scarce resources. Much of the region is divided up by [Rope Climbing](./Rope%20Climbing.md) areas, making navigation tricky. |
+| Date Added | Dec 2015 |
 
 > “**For advanced players. An isolated alpine region with very few shelters or resources. A true test of wilderness survival skills.**”
 >
@@ -77,9 +68,32 @@ The path to the [Summit](./Summit.md) is fairly linear, and the tail end of the 
 
 There are many accessible locations within the Timberwolf Mountain region, including:
 
-| Column 1 | Column 2 |
-| --- | --- |
-| - [Andre's Peak](./Andre%27s%20Peak.md) - [Cave 2](./Cave%20%28Timberwolf%20Mountain%20location%202%29.md) (2 entrances) - [Cave 1](./Cave%20%28Timberwolf%20Mountain%20location%201%29.md) (2 entrances) - [Chasm Cave](./Chasm%20Cave.md) - [Crystal Lake](./Crystal%20Lake.md) - [Deer Clearing](./Deer%20Clearing.md) - [Echo Peak East](./Echo%20Peak%20East.md) - [Echo Peak West](./Echo%20Peak%20West.md) - [Echo Ravine](./Echo%20Ravine.md) - [Engine (East)](./Engine%20%28East%29.md) (East of mountain) - [Engine (West)](./Engine%20%28West%29.md) (West of mountain) - [Eric's Falls](./Eric%27s%20Falls.md) - [Forest Cave (Timberwolf Mountain location)](./Forest%20Cave%20%28Timberwolf%20Mountain%20location%29.md) | - [Landing Gear](./Landing%20Gear.md) (Near entrance to Pleasant Valley) - [Mountaineer's Hut](./Mountaineer%27s%20Hut.md) - [Secluded Shelf](./Secluded%20Shelf.md) - [Summit](./Summit.md) - [Tail Section](./Tail%20Section.md) - To Ash Canyon (Transition to [Ash Canyon](./Ash%20Canyon.md)) - To Cave System (Transition Cave to [Ash Canyon](./Ash%20Canyon.md)) - To Cave System (Transition Cave to [Blackrock](./Blackrock.md)) - To Pleasant Valley (Transition to [Pleasant Valley](./Pleasant%20Valley.md)) - [Waterfall Cave](./Waterfall%20Cave.md) - [Wing](./Wing.md) (Plane wing near Forest Cave) - [Wing (Summit)](./Wing%20%28Summit%29.md) (Plane wing at [Summit](./Summit.md)) |
+- [Andre's Peak](./Andre%27s%20Peak.md)
+- [Cave 2](./Cave%20%28Timberwolf%20Mountain%20location%202%29.md) (2 entrances)
+- [Cave 1](./Cave%20%28Timberwolf%20Mountain%20location%201%29.md) (2 entrances)
+- [Chasm Cave](./Chasm%20Cave.md)
+- [Crystal Lake](./Crystal%20Lake.md)
+- [Deer Clearing](./Deer%20Clearing.md)
+- [Echo Peak East](./Echo%20Peak%20East.md)
+- [Echo Peak West](./Echo%20Peak%20West.md)
+- [Echo Ravine](./Echo%20Ravine.md)
+- [Engine (East)](./Engine%20%28East%29.md) (East of mountain)
+- [Engine (West)](./Engine%20%28West%29.md) (West of mountain)
+- [Eric's Falls](./Eric%27s%20Falls.md)
+- [Forest Cave (Timberwolf Mountain location)](./Forest%20Cave%20%28Timberwolf%20Mountain%20location%29.md)
+
+- [Landing Gear](./Landing%20Gear.md) (Near entrance to Pleasant Valley)
+- [Mountaineer's Hut](./Mountaineer%27s%20Hut.md)
+- [Secluded Shelf](./Secluded%20Shelf.md)
+- [Summit](./Summit.md)
+- [Tail Section](./Tail%20Section.md)
+- To Ash Canyon (Transition to [Ash Canyon](./Ash%20Canyon.md))
+- To Cave System (Transition Cave to [Ash Canyon](./Ash%20Canyon.md))
+- To Cave System (Transition Cave to [Blackrock](./Blackrock.md))
+- To Pleasant Valley (Transition to [Pleasant Valley](./Pleasant%20Valley.md))
+- [Waterfall Cave](./Waterfall%20Cave.md)
+- [Wing](./Wing.md) (Plane wing near Forest Cave)
+- [Wing (Summit)](./Wing%20%28Summit%29.md) (Plane wing at [Summit](./Summit.md))
 
 1 [Prepper Cache](./Prepper%20Cache.md) can be found north of the [Echo Ravine](./Echo%20Ravine.md).
 
@@ -144,4 +158,4 @@ Timberwolf Mountain was introduced on 16 December 2015 in [version 0.298](./The%
 
 ---
 
-[^1]: Hinterland Games, 2015, _The Long Dark — December Update (v.298), “Timberwolf Mountain”_, viewed 16 December 2015 &lt;[http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/](http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/)&gt;
+[^1]: Hinterland Games, 2015, _The Long Dark — December Update (v.298), “Timberwolf Mountain”_, viewed 16 December 2015 <[http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/](http://hinterlandgames.com/the-long-dark-sandbox-update-to-tm/)>

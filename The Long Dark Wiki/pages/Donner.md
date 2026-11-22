@@ -13,29 +13,20 @@
 
 **Donner**
 
-[Donner](../assets/Donner.png)
-
-**Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
-
-**Location(s):** [Blackrock Prison](./Blackrock%20Prison.md)
-
-**Biographical Information**
-
-**Status:** Deceased
-
-**Relatives:** [Mathis](./Mathis.md) (Father)
-
-**Occupation:** Psychopath Criminal
-
-**Physical Information**
-
-**Sex:** Male
-
-**Hair:** Dirty Blonde
-
-**Game Information**
-
-**Voiced by:** Vincent Tong
+| Property | Details |
+| --- | --- |
+|  | [Donner](../assets/Donner.png) |
+| Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
+| Location(s) | [Blackrock Prison](./Blackrock%20Prison.md) |
+| **Biographical Information** |  |
+| Status | Deceased |
+| Relatives | [Mathis](./Mathis.md) (Father) |
+| Occupation | Psychopath Criminal |
+| **Physical Information** |  |
+| Sex | Male |
+| Hair | Dirty Blonde |
+| **Game Information** |  |
+| Voiced by | Vincent Tong |
 
 _For the mission of the same name, see [Donner (mission)](./Donner%20%28mission%29.md)._
 
@@ -81,3 +72,5 @@ Due to the combined actions of Will Mackenzie and [Jace](./Jace.md), an explosio
 Donner finally makes an appearance in Episode 5, being heavily wounded and suffering from internal bleeding from the Prison explosion. His father travels to [Perseverance Mills](./Perseverance%20Mills.md) with him and forces [Astrid Greenwood](./Astrid%20Greenwood.md) to find a way to heal Donner by threatening to kill [Jane Yang](./Jane%20Yang.md), with the doctor being forced to head to a distant SAR Station to find a [Trauma Kit](./Trauma%20Kit.md) for its advanced First Aid uses.
 
 She eventually retrieves it and heals Donner's external wounds with the kit to the best of her abilities. Astrid tells Mathis that unless she gets better equipment, she won't know how bad the internal damage is to Donner's body. Just before Mathis is about to kill Astrid, Donner then speaks to his father about how he saw the [lights and black water in his dreams](./Aurora.md), before eventually perishing from his wounds.
+
+## Trivia

@@ -12,9 +12,10 @@
 
 **Cache Mastery**
 
-[Cache Mastery icon](../assets/Cache_Mastery_icon.png)
-
-**Description:** Find all hidden caches in Episode One and Episode Two.
+| Property | Details |
+| --- | --- |
+|  | [Cache Mastery icon](../assets/Cache_Mastery_icon.png) |
+| Description | Find all hidden caches in Episode One and Episode Two. |
 
 **Cache Mastery** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) acquired from playing [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

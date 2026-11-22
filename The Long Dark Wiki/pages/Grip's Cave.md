@@ -4,21 +4,16 @@
 
 **Grip's Cave**
 
-[Grip's Cave](../assets/Grip%27s_Cave.jpg)
-
-**Location**
-
-[Grip's Cave Location](../assets/Grip%27s_Cave_Location.png)
-
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
-
-**Description:** A cave on a ridge
-
-**General**
-
-**Type:** Cave
-
-Provides some shelter **Grip's Cave** is a small cave located in [Forsaken Airfield](./Forsaken%20Airfield.md).
+| Property | Details |
+| --- | --- |
+|  | [Grip's Cave](../assets/Grip%27s_Cave.jpg) |
+| **Location** |  |
+|  | [Grip's Cave Location](../assets/Grip%27s_Cave_Location.png) |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| Description | A cave on a ridge |
+| **General** |  |
+| Type | Cave\|- |
+|  | Provides some shelter / **Grip's Cave** is a small cave located in [Forsaken Airfield](./Forsaken%20Airfield.md). |
 
 ## Overview
 

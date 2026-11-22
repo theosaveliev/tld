@@ -13,35 +13,23 @@
 
 **Vaughn's Rifle**
 
-[Vaughn's Rifle icon](../assets/Vaughn%27s_Rifle_icon.png)
-
-**Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)
-
-**Wintermute:** No
-
-**Renewable:** No (unique item)
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** A weathered .303 Rifle covered in epoxy and duct tape. Its patchwork exterior hides an improved firing action. A handy tool when working the various industrial sites and power stations that dot Great Bear Island. Fragile and deadly, just like its owner.
-
-**Values**
-
-**Weight:** 3.00 kg (6.6 lbs)
-
-**Actions**
-
-**Backpack:** Use, Actions, Drop
-
-**On ground:** Take It, Equip It, Leave It
-
-**Advanced data**
-
-**Item key:** GEAR\_Rifle\_Vaughns
+| Property | Details |
+| --- | --- |
+|  | [Vaughn's Rifle icon](../assets/Vaughn%27s_Rifle_icon.png) |
+| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03) |
+| Wintermute | No |
+| Renewable | No (unique item) |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | A weathered .303 Rifle covered in epoxy and duct tape. Its patchwork exterior hides an improved firing action. A handy tool when working the various industrial sites and power stations that dot Great Bear Island. / Fragile and deadly, just like its owner. |
+| **Values** |  |
+| Weight | 3.00 kg (6.6 lbs) |
+| **Actions** |  |
+| Backpack | Use, Actions, Drop |
+| On ground | Take It, Equip It, Leave It |
+| **Advanced data** |  |
+| Item key | GEAR\_Rifle\_Vaughns |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

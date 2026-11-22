@@ -4,17 +4,14 @@
 
 **Lonely Homestead**
 
-[Lonely Homestead](../assets/Lonely_Homestead.jpg)
-
-**Location**
-
-[Lonely Homestead Location](../assets/Lonely_Homestead_Location.png)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Lonely Homestead](../assets/Lonely_Homestead.jpg) |
+| **Location** |  |
+|  | [Lonely Homestead Location](../assets/Lonely_Homestead_Location.png) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

@@ -4,27 +4,19 @@
 
 **Pastor's Note**
 
-[Pastor's Note icon](../assets/Pastor%27s_Note_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A note to the congregation of St. Christopher's parish.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
+| Property | Details |
+| --- | --- |
+|  | [Pastor's Note icon](../assets/Pastor%27s_Note_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A note to the congregation of St. Christopher's parish. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
 
 **Pastor's Note** is a note found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) in [Wintermute](./Wintermute.md) inside [St. Christopher's Church](./St.%20Christopher%27s%20Church.md). It lies on the congregation table.
 

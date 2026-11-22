@@ -4,7 +4,7 @@
 
 **Contents**
 
-- [Furnaces &amp; Forges](#furnaces-forges)
+- [Furnaces & Forges](#furnaces-forges)
 - [Locations](#locations)
 - [Working temperature](#working-temperature)
 - [Burn time](#burn-time)
@@ -15,15 +15,15 @@
 
 **Forge**
 
-[Forge](../assets/Forge.png)
-
-**Release:** 18 September 2015
-
-**Update:** [0.264](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.264)
+| Property | Details |
+| --- | --- |
+|  | [Forge](../assets/Forge.png) |
+| Release | 18 September 2015 |
+| Update | [0.264](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.264) |
 
 A **Forge** is the rectangular space located in the middle of a [Furnace](./Furnace.md) and is used for crafting new items made from [Scrap Metal](./Scrap%20Metal.md). Forging is the only method to [Craft](./Crafting.md) new Arrowheads, Improvised Knives, and Improvised Hatchets.
 
-## Furnaces &amp; Forges
+## Furnaces & Forges
 
 The Furnace can be accessed via the circular hatch and operates like a normal firebox. The forge is the horizontal slot above the furnace hatch, and selecting it will open a crafting interface. Furnaces are unique in that they are the only fire boxes capable of exceeding 80°C in temperature.
 

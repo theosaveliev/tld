@@ -10,33 +10,22 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Ptarmigan Carcass**
 
-[Ptarmigan Carcass icon](../assets/Ptarmigan_Carcass_icon.png)
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** Unharvested Ptarmigan carcass. Harvest it for usable Meat or Down feathers.
-
-**Values**
-
-**Weight:** 3.00 kg (6.6 lbs)
-
-**Decay Rate**
-
-**Inside:** 10.0% per day
-
-**Outside:** 10.0% per day
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_PtarmiganCarcass
+| Property | Details |
+| --- | --- |
+|  | [Ptarmigan Carcass icon](../assets/Ptarmigan_Carcass_icon.png) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Unharvested Ptarmigan carcass. Harvest it for usable Meat or Down feathers. |
+| **Values** |  |
+| Weight | 3.00 kg (6.6 lbs) |
+| **Decay Rate** |  |
+| Inside | 10.0% per day |
+| Outside | 10.0% per day |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_PtarmiganCarcass |
 
 **Ptarmigan Carcass** is a carcass obtained from hunting [Ptarmigans](./Ptarmigan.md).
 

@@ -813,7 +813,7 @@ Released 9 April 2018
 - General optimizations to improve performance
 - Fixed several rare crashes
 
-Gameplay &amp; User Interface
+Gameplay & User Interface
 
 - [Both] Update to allow Player to save their Journal from the Skills screen
 - [Both] Players are now prevented from deleting in-use saves
@@ -868,7 +868,7 @@ Art
 - [Wintermute] Fixed issues with incorrect Rifle movement in Episode Two cinematics.
 - [Wintermute] Fixed issue with incorrect item texture on Lake Cabin Key #2.
 
-Gameplay &amp; User Interface
+Gameplay & User Interface
 
 - [Both] Added Clothing UI Icons and tooltips when pressing R3 on gamepads.
 - [Both] Removed reticle when aiming the Survival Bow (as intended)
@@ -1143,7 +1143,7 @@ _May include spoilers_
 - Episode Two: Fixed issue preventing Jeremiah's Flare Trust mission from triggering correctly.
 - Episode Two: Fixed issue that could prevent Old Bear from progressing to next waypoint in Bear Hunt mission.
 - Episode Two: Fix for Lake Cabin key using the incorrect key asset.
-- Episode Two &amp; Survival Mode: Added Rope Climb to River area in Broken Railroad region.
+- Episode Two & Survival Mode: Added Rope Climb to River area in Broken Railroad region.
 - Survival Mode: Tuned Aurora frequency values to make it more rare.
 - Survival Mode: Fixed duplicated gear items in Trailer.
 - Added scrolling for Journal text that won't fit entirely on screen.

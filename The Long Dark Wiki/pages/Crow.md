@@ -13,21 +13,16 @@
 
 **Crow**
 
-[Crow](../assets/Crow.png)
-
-**Basic Information**
-
-**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
-
-**Role:** Scavenger
-
-**Physical Information**
-
-**Color:** Black
-
-**Size:** Small
-
-**Eyes:** Black
+| Property | Details |
+| --- | --- |
+|  | [Crow](../assets/Crow.png) |
+| **Basic Information** |  |
+| Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
+| Role | Scavenger |
+| **Physical Information** |  |
+| Color | Black |
+| Size | Small |
+| Eyes | Black |
 
 > “**Pay attention to your surroundings and you might glean information that's important for your survival. For example, a murder of Crows circling up ahead might suggest an animal carcass -- or even a human corpse -- might be nearby!**”
 >

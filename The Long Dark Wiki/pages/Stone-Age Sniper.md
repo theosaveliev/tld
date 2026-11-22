@@ -4,9 +4,10 @@
 
 **Stone-Age Sniper**
 
-[Stone Age Sniper icon](../assets/Stone-Age_Sniper_icon.png)
-
-**Description:** Stun a rabbit with a rock from over 25 meters (80 feet) away.
+| Property | Details |
+| --- | --- |
+|  | [Stone Age Sniper icon](../assets/Stone-Age_Sniper_icon.png) |
+| Description | Stun a rabbit with a rock from over 25 meters (80 feet) away. |
 
 **Stone-Age Sniper** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [The Long Dark](./The%20Long%20Dark.md).
 

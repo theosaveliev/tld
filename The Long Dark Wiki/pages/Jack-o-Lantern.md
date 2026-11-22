@@ -4,13 +4,12 @@
 
 **Jack-o-Lantern**
 
-[Jack o Lantern](../assets/Jack-o-Lantern.png)
-
-**Release:** 28 October 2016
-
-**Update:** [0.372](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.372)
-
-**Story item:** No
+| Property | Details |
+| --- | --- |
+|  | [Jack o Lantern](../assets/Jack-o-Lantern.png) |
+| Release | 28 October 2016 |
+| Update | [0.372](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.372) |
+| Story item | No |
 
 A **Jack-o-Lantern** is a non-interactable object that appear during the [4 Days of Night Event](./4%20Days%20of%20Night%20Event.md). Jack-o-Lantern served as a marker for [Hidden Caches](./Hidden%20Cache.md) or other loot, during the event, by emitting a permanent light similar to a camp fire.
 

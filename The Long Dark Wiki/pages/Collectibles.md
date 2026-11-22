@@ -16,3 +16,5 @@ In [Survival Mode](./Survival%20Mode.md), collectibles come in Eight types:
 - [Transmitters](./Transmitters.md) - Transmitters can be repaired to help the player find [Supply Caches](./Supply%20Cache.md).
 - [Mementos](./Mementos.md) - Mementos are useful hints for survivors which might lead to loot or new locations in regions.
 - [Recipe Cards](./Recipe%20Cards.md) - Unlock powerful Unique Recipes for the player to craft with a [Cooking Skillet](./Cooking%20Skillet.md) or [Cooking Pot](./Cooking%20Pot.md).
+
+## Wintermute Collectibles

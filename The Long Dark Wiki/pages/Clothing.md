@@ -203,7 +203,7 @@ Shoes
 
 ![Windproofness icon](../assets/Windproofness_icon.png) The **Windproof** bonus provided by clothing protects against the additional heat loss experienced by the player due to windchill. Even when your gear's warmth rating is higher than the environmental temperature, when its windproof rating is lower than the windchill, you will lose heat. The windproof effect only increases the "Feels Like" temperature by the absolute number of degrees of windchill affecting the player.
 
-Only the outermost layer of clothing contributes to the player's windproof bonus, which severely limits how much you can stack it. There are only 7 clothing slots that count towards the Windproof rating. These are: Head (1st slot), Outer Torso (1st slot), Outer Legs (2nd slot), Hands, Outer Feet (boots), and Accessories (both slots). This means inner hats, 2nd jacket, sweaters &amp; shirts, 2nd pants, inner pants, and socks do not add to the windproof rating when fully geared, even if they have a Windproof score. Their windproof score only applies when no outer layer is worn over them. The accessories are an exception to this rule, however. Both accessory slots contribute to the player's windproof bonus.
+Only the outermost layer of clothing contributes to the player's windproof bonus, which severely limits how much you can stack it. There are only 7 clothing slots that count towards the Windproof rating. These are: Head (1st slot), Outer Torso (1st slot), Outer Legs (2nd slot), Hands, Outer Feet (boots), and Accessories (both slots). This means inner hats, 2nd jacket, sweaters & shirts, 2nd pants, inner pants, and socks do not add to the windproof rating when fully geared, even if they have a Windproof score. Their windproof score only applies when no outer layer is worn over them. The accessories are an exception to this rule, however. Both accessory slots contribute to the player's windproof bonus.
 
 The highest possible Windproof rating is 21°C (37.8°F)
 
@@ -307,7 +307,7 @@ Shoes
   - Fully Wet clothing and 0% Frozen equal -15%°C and 0% Windproof as well as weighing twice as much as normal.
 - Each 1% of Frozen makes clothing warmth decrease by 0.1 Wearing 100% frozen clothing also increases the likelihood of [Hypothermia](./Hypothermia.md) and will ultimately lead to [Frostbite](./Frostbite.md) (even if the player's other clothing is warm enough to counter the frozen clothing).
   - Freezing counters the warmth protection. Each% of freezing diminishes warmth protection, and clothing becomes much heavier.
-  - A clothing at 50% Frozen = -15% + (-37%) more warmth. A 100% Froze clothing = 0% warmth &amp; 0% Windproof.
+  - A clothing at 50% Frozen = -15% + (-37%) more warmth. A 100% Froze clothing = 0% warmth & 0% Windproof.
 - The time needed to reduce Frozen or Wet status depends on weight and Waterproof rating of the clothing as well as if a fire is active and nearby. When unfrozen, clothing becomes 100% wet again.
 
 The highest possible waterproofness value that can currently be achieved is 700%

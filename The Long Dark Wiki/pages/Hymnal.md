@@ -4,29 +4,20 @@
 
 **Hymnal**
 
-[Hymnal icon](../assets/Hymnal_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Lyrics to the hymn DIES IRAE
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Hymnal icon](../assets/Hymnal_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Lyrics to the hymn DIES IRAE |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 **Hymnal** is a [Collectible](./Collectibles.md) item found in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode in [St. Christopher's Church](./St.%20Christopher%27s%20Church.md). It is found on the floor next to the burned out [Campfire](./Campfire.md).
 

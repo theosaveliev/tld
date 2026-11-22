@@ -4,29 +4,20 @@
 
 **Mackinaw Jacket**
 
-[Mackinaw Jacket icon](../assets/Mackinaw_Jacket_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)40%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)5%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-3%
-
-**Harvest:** 2 × [Cloth](./Cloth.md) 20 minutes
-
-**Repair:** 2 × [Cloth](./Cloth.md) 60 minutes 35% condition
+| Property | Details |
+| --- | --- |
+|  | [Mackinaw Jacket icon](../assets/Mackinaw_Jacket_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)40% |
+| Protection | [Protection icon](../assets/Protection_icon.png)5% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-3% |
+| Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
+| Repair | 2 × [Cloth](./Cloth.md) / 60 minutes / 35% condition |
 
 > “**Heavy wool jacket with a decidedly Canadian flavour. Beloved by hunters and lumberjacks alike.**”
 >

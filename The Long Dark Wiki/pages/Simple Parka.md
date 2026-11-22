@@ -4,31 +4,21 @@
 
 **Simple Parka**
 
-[Simple Parka icon](../assets/Simple_Parka_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Outer torso
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.25 kg(2.75 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)30%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)3%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-4%
-
-**Harvest:** 2 × [Cloth](./Cloth.md) 20 minutes
-
-**Repair:** 2 × [Cloth](./Cloth.md) 45 minutes 30% condition
+| Property | Details |
+| --- | --- |
+|  | [Simple Parka icon](../assets/Simple_Parka_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Outer torso |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.25 kg(2.75 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)30% |
+| Protection | [Protection icon](../assets/Protection_icon.png)3% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-4% |
+| Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
+| Repair | 2 × [Cloth](./Cloth.md) / 45 minutes / 30% condition |
 
 > “**A simple winter coat constructed using modern materials. Good weight to warmth ratio.**”
 >

@@ -12,23 +12,17 @@
 
 **Birch Bark Tea**
 
-[Birch Bark Tea icon](../assets/Birch_Bark_Tea_icon.png)
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [First Aid](./First%20Aid.md)
-
-**Values**
-
-**Calories:** 100 kcal
-
-**Hydration:** 30%
-
-**[Vitamin C](./Scurvy.md):** Minor (6%)
-
-**Weight:** 0.10 kg (0.22 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Birch Bark Tea icon](../assets/Birch_Bark_Tea_icon.png) |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [First Aid](./First%20Aid.md)\|- |
+| **Values** |  |
+| Calories | 100 kcal |
+| Hydration | 30% |
+| [Vitamin C](./Scurvy.md) | Minor (6%) |
+| Weight | 0.10 kg (0.22 lbs) |
 
 **Birch Bark Tea** is a natural medical and food item in _The Long Dark_.
 

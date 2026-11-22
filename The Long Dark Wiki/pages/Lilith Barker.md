@@ -6,33 +6,22 @@
 
 **Lilith Barker**
 
-[Lilith Barker](../assets/Lilith_Barker.png)
-
-**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Date:** 1 August 2017
-
-**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Mission:** [The Grey Mother](./The%20Grey%20Mother.md)
-
-**Location(s):** [St. Christopher's Church](./St.%20Christopher%27s%20Church.md)
-
-**Biographical Information**
-
-**Age:** 16
-
-**Status:** Dead
-
-**Place of death:** [Great Bear Island](./Great%20Bear%20Island.md)
-
-**Relatives:** **•** [Martin Barker](./Martin%20Barker.md) (Father) **•** [Grey Mother](./Grey%20Mother.md) (Mother)
-
-**Occupation:** Climber
-
-**Game Information**
-
-**Equipment:** [Lily's map](./Lily%27s%20Map.md)
+| Property | Details |
+| --- | --- |
+|  | [Lilith Barker](../assets/Lilith_Barker.png) |
+| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Date | 1 August 2017 |
+| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
+| Mission | [The Grey Mother](./The%20Grey%20Mother.md) |
+| Location(s) | [St. Christopher's Church](./St.%20Christopher%27s%20Church.md) |
+| **Biographical Information** |  |
+| Age | 16 |
+| Status | Dead |
+| Place of death | [Great Bear Island](./Great%20Bear%20Island.md) |
+| Relatives | **•** [Martin Barker](./Martin%20Barker.md) (Father) / **•** [Grey Mother](./Grey%20Mother.md) (Mother) |
+| Occupation | Climber |
+| **Game Information** |  |
+| Equipment | [Lily's map](./Lily%27s%20Map.md) |
 
 **Lilith "Lily" Barker** (1969 – 1985) was the daughter of [Grey Mother](./Grey%20Mother.md) and [Martin Barker](./Martin%20Barker.md). She lived in the town of [Milton](./Milton.md) in the [Mountain Town](./Mountain%20Town.md) region and was determined to climb all the peaks of [Great Bear](./Great%20Bear%20Island.md) From a young age. One particular day at age 16 she wanted to climb the rock climbing portion of [Milton Park](./Milton%20Park.md); Grey Mother told her not to do so, but her father let her go. Lily fell during the climb and died, with the rock climbing portion of the park being shut down and a [Park Warning Notice](./Park%20Warning%20Notice.md) placed to warn others. The incident caused the permanent separation of Grey Mother and Martin Barker, with Martin keeping Lily's pearl necklace to remember his daughter and keeping it locked in the local bank.
 

@@ -105,7 +105,7 @@ The Trader can only be contacted by special yellow [Radios](./Radio.md) with a m
   - Most items can be traded in multiples (between 1-10).
   - Unique items can only be traded once (equipment/recipes/blueprints).
 - Once a trade is confirmed, the [Trade Drop Box](./Trade%20Drop%20Box.md) must be filled with the requested items (at [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md) in [Coastal Highway](./Coastal%20Highway.md)).
-  - Trade progress is tracked on Journal &gt; Active Trades and at the Trade Drop Box.
+  - Trade progress is tracked on Journal > Active Trades and at the Trade Drop Box.
   - The Trade Drop Box becomes locked when not in use, or when complete and waiting pickup.
   - The Trade Drop Box may be marked early for pickup (even with trades incomplete):
     - Completed trades yield the the requested item(s).
@@ -413,3 +413,5 @@ These special items are only found by trading with Sutherland, and are quite cos
 ## Achievements
 
 - ![Goods and Services icon](../assets/Goods_and_Services_icon.png) [Goods and Services](./Goods%20and%20Services.md) - Reach maximum Trust with the Trader
+
+## Game History

@@ -4,9 +4,10 @@
 
 **Black Black Heart**
 
-[Black Black Heart icon](../assets/Black_Black_Heart_icon.png)
-
-**Description:** Collect all four bloody pages from the Blackrock Archives.
+| Property | Details |
+| --- | --- |
+|  | [Black Black Heart icon](../assets/Black_Black_Heart_icon.png) |
+| Description | Collect all four bloody pages from the Blackrock Archives. |
 
 **Black Black Heart** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

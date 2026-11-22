@@ -14,7 +14,7 @@ The **First Flare**refers to the first appearance of an intense [Aurora](./Auror
 
 According to the [Prison Transport Manifest](./Prison%20Transport%20Manifest.md), the First Flare specifically took place on the night of Thursday, November XX, 20XX. The First Flare event took place at least 10 years after [The Collapse](./The%20Collapse.md), the colloquial name for the economic collapse of the Canadian - and wider North American - economy, based on conversations between [Grey Mother](./Grey%20Mother.md) and [Will Mackenzie](./Will%20Mackenzie.md) (Grey Mother mentions that Milton needed help 10 years ago, but this information has since been removed in the Redux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) release. It is unknown if the 10 years is still canon).
 
-## Cause &amp; Effects
+## Cause & Effects
 
 The cause of the First Flare and subsequent Aurora has been labelled as a [geomagnetic storm](https://en.wikipedia.org/wiki/Geomagnetic_storm). Its most immediate effect was the widespread disruption of electronic devices; including lights, cell phones, computers, televisions, radios, power plants, and vehicles. One of the Flare's slower but more devastating effects is the destabilization of weather patterns and wildlife behavior, leading to extreme weather and unusual animal activity in many areas.
 

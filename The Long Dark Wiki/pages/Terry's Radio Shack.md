@@ -4,15 +4,13 @@
 
 **Terry's Radio Shack**
 
-[TerryRadioShack](../assets/TerryRadioShack.png)
-
-**Location**
-
-**Region:** [Perseverance Mills](./Perseverance%20Mills.md)
-
-**General**
-
-**Type:** Residential
+| Property | Details |
+| --- | --- |
+|  | [TerryRadioShack](../assets/TerryRadioShack.png) |
+| **Location** |  |
+| Region | [Perseverance Mills](./Perseverance%20Mills.md)\|- |
+| **General** |  |
+| Type | Residential\|- |
 
 ## Gallery
 

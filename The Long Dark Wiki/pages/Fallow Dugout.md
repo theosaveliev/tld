@@ -4,23 +4,17 @@
 
 **Fallow Dugout**
 
-[Fallow Dugout](../assets/Fallow_Dugout.jpg)
-
-**Location**
-
-[Fallow Dugout Location](../assets/Fallow_Dugout_Location.png)
-
-Region
-
-**Location:** On the south-east bank of shoulder lake
-
-**Description:** A cave at shoulder lake
-
-**General**
-
-**Type:** Cave
-
-Provides some shelter **Fallow Dugout** is a small cave located in [Forsaken Airfield](./Forsaken%20Airfield.md), east of [Shoulder Lake](./Shoulder%20Lake.md).
+| Property | Details |
+| --- | --- |
+|  | [Fallow Dugout](../assets/Fallow_Dugout.jpg) |
+| **Location** |  |
+|  | [Fallow Dugout Location](../assets/Fallow_Dugout_Location.png) |
+| Region |  |
+| Location | On the south-east bank of shoulder lake |
+| Description | A cave at shoulder lake |
+| **General** |  |
+| Type | Cave\|- |
+|  | Provides some shelter **Fallow Dugout** is a small cave located in [Forsaken Airfield](./Forsaken%20Airfield.md), east of [Shoulder Lake](./Shoulder%20Lake.md). |
 
 ## Overview
 

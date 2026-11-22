@@ -26,15 +26,28 @@ Because each playthrough has semi-random equipment and loot spawns, there is no 
 
 #### Main Regions
 
-| Column 1 | Column 2 |
-| --- | --- |
-| - Ash Canyon - Blackrock - Bleak Inlet - Broken Railroad - Coastal Highway - Desolation Point - Forlorn Muskeg | - Hushed River Valley - Mountain Town - Mystery Lake - Pleasant Valley - Timberwolf Mountain |
+- Ash Canyon
+- Blackrock
+- Bleak Inlet
+- Broken Railroad
+- Coastal Highway
+- Desolation Point
+- Forlorn Muskeg
+
+- Hushed River Valley
+- Mountain Town
+- Mystery Lake
+- Pleasant Valley
+- Timberwolf Mountain
 
 #### Transition Regions
 
-| Column 1 | Column 2 |
-| --- | --- |
-| - Crumbling Highway - Keeper's Pass North - Keeper's Pass South - The Ravine | - [Winding River](./Winding%20River.md) (Only has 2 Region Transition Icons but no named locations) |
+- Crumbling Highway
+- Keeper's Pass North
+- Keeper's Pass South
+- The Ravine
+
+- [Winding River](./Winding%20River.md) (Only has 2 Region Transition Icons but no named locations)
 
 ### The Far Territory
 

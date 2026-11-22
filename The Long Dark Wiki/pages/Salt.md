@@ -17,35 +17,23 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Salt**
 
-[Salt icon](../assets/Salt_icon.png)
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Wintermute:** No
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** Yes
-
-**Examine:** A seasoning and preservative.
-
-**Values**
-
-**Weight:** 0.25 kg (0.55 lbs)
-
-**Decay Rate**
-
-**Inside:** 0.000% per day
-
-**Outside:** 0.000% per day
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_Salt
+| Property | Details |
+| --- | --- |
+|  | [Salt icon](../assets/Salt_icon.png) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | Yes |
+| Examine | A seasoning and preservative. |
+| **Values** |  |
+| Weight | 0.25 kg (0.55 lbs) |
+| **Decay Rate** |  |
+| Inside | 0.000% per day |
+| Outside | 0.000% per day |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Salt |
 
 _For the larger Salt bags, see [Salt (Bag)](./Salt%20%28Bag%29.md)._
 

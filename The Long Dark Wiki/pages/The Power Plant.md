@@ -4,21 +4,16 @@
 
 **The Power Plant**
 
-[The Power Plant](../assets/The_Power_Plant.png)
-
-Episode
-
-**Missions**
-
-**Previous:** [Blackrock Blues](./Blackrock%20Blues.md)
-
-**Current:** The Power Plant
-
-**Next:** [The Detonators](./The%20Detonators.md)
-
-**Region:** [Blackrock Region](./Blackrock.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Franklin](./Franklin.md) [Mathis](./Mathis.md) [Vachon](./Vachon.md) [Heller](./Heller.md) [Jace](./Jace.md)
+| Property | Details |
+| --- | --- |
+|  | [The Power Plant](../assets/The_Power_Plant.png) |
+| Episode |  |
+| **Missions** |  |
+| Previous | [Blackrock Blues](./Blackrock%20Blues.md) |
+| Current | The Power Plant |
+| Next | [The Detonators](./The%20Detonators.md) |
+| Region | [Blackrock Region](./Blackrock.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Franklin](./Franklin.md) / [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jace](./Jace.md) |
 
 > “**Mathis orders you to find the old Power Plant and look for a way to restore power to solitary.**”
 >

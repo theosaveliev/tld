@@ -4,31 +4,21 @@
 
 **Work Boots**
 
-[Work Boots icon](../assets/Work_Boots_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Outer feet
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)5%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)7%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-10%
-
-**Harvest:** 2 × [Cured leather](./Cured%20Leather.md) 90 minutes
-
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md), 1 × [Cloth](./Cloth.md) 90 minutes 50% condition
+| Property | Details |
+| --- | --- |
+|  | [Work Boots icon](../assets/Work_Boots_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Outer feet |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)5% |
+| Protection | [Protection icon](../assets/Protection_icon.png)7% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-10% |
+| Harvest | 2 × [Cured leather](./Cured%20Leather.md) / 90 minutes |
+| Repair | 1 × [Cured leather](./Cured%20Leather.md), / 1 × [Cloth](./Cloth.md) / 90 minutes / 50% condition |
 
 > “**Steel-toed work boots. The kind you'd find on a construction site. Tough but not warm.**”
 >

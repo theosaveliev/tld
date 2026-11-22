@@ -10,13 +10,14 @@
 - [Trivia](#trivia)
 - [Game History](#game-history)
 
-**Freight-Train of Hate &amp; Hunger**
+**Freight-Train of Hate & Hunger**
 
-[Freight Train of Hate &amp; Hunger icon](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png)
+| Property | Details |
+| --- | --- |
+|  | [Freight Train of Hate & Hunger icon](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png) |
+| Description | Kill the Old Bear. |
 
-**Description:** Kill the Old Bear.
-
-**Freight-Train of Hate &amp; Hunger** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
+**Freight-Train of Hate & Hunger** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
 ## Guide
 

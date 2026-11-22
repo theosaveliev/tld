@@ -4,15 +4,13 @@
 
 **Train Bridge**
 
-[Train Bridge](../assets/Train_Bridge.jpg)
-
-**Location**
-
-[Train Bridge Location](../assets/Train_Bridge_Location.png)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Train Bridge](../assets/Train_Bridge.jpg) |
+| **Location** |  |
+|  | [Train Bridge Location](../assets/Train_Bridge_Location.png) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Type | Landmark\|- |
 
 ## Overview
 

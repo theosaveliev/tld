@@ -11,31 +11,21 @@
 
 **Suffocation Risk**
 
-[Suffocation Risk icon](../assets/Suffocation_Risk_icon.png)
-
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
-
-**Update:** 1.95
-
-**Properties**
-
-**Category:** [Afflictions](./Afflictions.md)
-
-**Description:** You are running out of air to breathe. Find a pocket of clear air or equip a Respirator before you die.
-
-**Caused By:** Polluted Air
-
-**Effect:** Negative
-
-**Type:** Risk
-
-**Affliction Duration:** Until Treated
-
-**Treatment**
-
-**Treatment:** Find breathable air or equip a [Respirator icon](../assets/Respirator_icon.png) [Respirator](./Respirator.md) with [Canister icon](../assets/Canister_icon.png) [Canister](./Canister.md)
-
-**Recovery Time:** Immediate
+| Property | Details |
+| --- | --- |
+|  | [Suffocation Risk icon](../assets/Suffocation_Risk_icon.png) |
+| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Update | 1.95 |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Description | You are running out of air to breathe. Find a pocket of clear air or equip a Respirator before you die. |
+| Caused By | Polluted Air |
+| Effect | Negative |
+| Type | Risk |
+| Affliction Duration | Until Treated |
+| **Treatment** |  |
+| Treatment | Find breathable air or equip a [Respirator icon](../assets/Respirator_icon.png) [Respirator](./Respirator.md) with [Canister icon](../assets/Canister_icon.png) [Canister](./Canister.md) |
+| Recovery Time | Immediate |
 
 **Suffocation Risk** is a very short but highly lethal [Affliction](./Afflictions.md) that occurs when the player character is exposed to toxic airborne gases. It is a rare but incredibly dangerous Affliction to encounter in [Survival Mode](./Survival%20Mode.md), being present only within the [Last Prospect](./Last%20Prospect.md) mine and the [Langston Mine](./Langston%20Mine.md).
 

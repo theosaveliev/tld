@@ -4,17 +4,14 @@
 
 **Landing Gear**
 
-[Landing Gear](../assets/Landing_Gear.png)
-
-**Location**
-
-[Landing Gear Location](../assets/Landing_Gear_Location.png)
-
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Landing Gear](../assets/Landing_Gear.png) |
+| **Location** |  |
+|  | [Landing Gear Location](../assets/Landing_Gear_Location.png) |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Overview
 

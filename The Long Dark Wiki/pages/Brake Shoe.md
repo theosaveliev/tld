@@ -4,15 +4,13 @@
 
 **Brake Shoe**
 
-[Brake Shoe icon](../assets/Brake_Shoe_icon.png)
-
-**General**
-
-**Item Type:** Material
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Brake Shoe icon](../assets/Brake_Shoe_icon.png) |
+| **General** |  |
+| Item Type | Material\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
 
 [Seal icon](../assets/Seal_icon.png)
 

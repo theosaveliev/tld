@@ -4,17 +4,14 @@
 
 **No Road Cave**
 
-[Onewaycave](../assets/Onewaycave.jpg)
-
-**Location**
-
-[No Road Cave Location](../assets/No_Road_Cave_Location.png)
-
-Region
-
-**General**
-
-**Type:** Cave
+| Property | Details |
+| --- | --- |
+|  | [Onewaycave](../assets/Onewaycave.jpg) |
+| **Location** |  |
+|  | [No Road Cave Location](../assets/No_Road_Cave_Location.png) |
+| Region |  |
+| **General** |  |
+| Type | Cave\|- |
 
 ## Overview
 

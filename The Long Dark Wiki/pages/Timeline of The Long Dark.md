@@ -4,7 +4,7 @@
 
 **Contents**
 
-- [History &amp; Timeline](#history-timeline)
+- [History & Timeline](#history-timeline)
 - [Known Past Events](#known-past-events)
 - [Wintermute](#wintermute)
 - [Survival Mode](#survival-mode-1)
@@ -67,7 +67,7 @@ Information recorded here is based off of:
 - [Survival Mode's](./Survival%20Mode.md) [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) storyline, as well as Notes, Collectibles, and [Buffer Memories](./Buffer%20Memories.md) found in the world.
 - [Challenges](./Challenge.md) and limited time Events are considered non-canon "what if" scenarios, and are not listed here.
 
-## History &amp; Timeline
+## History & Timeline
 
 ### _Known Past Events_
 
@@ -86,29 +86,29 @@ Vachon: "Wow. I knew it went bad in Montreal but I didn't know that story."
 
 Heller: "Yeah I mean we took off. And Mathis...it took five cops to pull him off that driver. He cared less about being caught than he did about the driver being late."
 
-  - 1 week before the First Flare, [Father Thomas](./Father%20Thomas.md) mentions a massive blizzard rolling through [Pleasant Valley](./Pleasant%20Valley.md), blocking the roads out of the region. The roads remained blocked for a whole week until the Flare hits. (It is actually revealed in the mission [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mission%29.md) that the Forest Talkers caused the landslide) [^2]
-  - 1 week after the First Flare, the backup power at Blackrock Prison gave out and prisoners broke out of their cells, executing prison staff and taking Franklin hostage.[^3]
-    - [Jace's](./Jace.md) testimony conflicts with this information, as she claims that the prisoners broke out immediately after the First Flare hit, as it was only a few hours that she happened upon the Prison before she heard gunshots from the Convicts executing prison staff. [The Power Plant/TranscriptJace](./The%20Power%20Plant%20%E2%80%94%20Transcript.md): "Car broke down when the aurora first appeared. Well, not so much "broke down" as just stopped working. Like most things. It was freezing so I got out and started walking down the road, to see if I might find someone else. Or maybe some shelter. Got turned around in the darkness and snow...everything looked pretty much the same. Wandered for hours. Nearly froze to death. Then I found a fence. Followed it, and found a guard tower. Next thing I knew, I heard gunshots."
+- 1 week before the First Flare, [Father Thomas](./Father%20Thomas.md) mentions a massive blizzard rolling through [Pleasant Valley](./Pleasant%20Valley.md), blocking the roads out of the region. The roads remained blocked for a whole week until the Flare hits. (It is actually revealed in the mission [Forest Talkers (side mission)](./Forest%20Talkers%20%28side%20mission%29.md) that the Forest Talkers caused the landslide) [^2]
+- 1 week after the First Flare, the backup power at Blackrock Prison gave out and prisoners broke out of their cells, executing prison staff and taking Franklin hostage.[^3]
+  - [Jace's](./Jace.md) testimony conflicts with this information, as she claims that the prisoners broke out immediately after the First Flare hit, as it was only a few hours that she happened upon the Prison before she heard gunshots from the Convicts executing prison staff. [The Power Plant/TranscriptJace](./The%20Power%20Plant%20%E2%80%94%20Transcript.md): "Car broke down when the aurora first appeared. Well, not so much "broke down" as just stopped working. Like most things. It was freezing so I got out and started walking down the road, to see if I might find someone else. Or maybe some shelter. Got turned around in the darkness and snow...everything looked pretty much the same. Wandered for hours. Nearly froze to death. Then I found a fence. Followed it, and found a guard tower. Next thing I knew, I heard gunshots."
 
 Jace: "It was...horrible. The shots were...there were so many. I waited...half an hour? Longer? Crept up and I could see them, slumped against the wall. Blood everywhere. It was guards. Prison workers. Civilians. Innocents. They had executed them. I had to get out, but, I know the area a bit. There's nowhere to go, really. Not on foot. I don't know if anyone's coming to help, but I figure...I gotta do what I can to keep those fuckers locked up. Donner...he is evil. If he gets out, nobody within a hundred klicks of this place will be safe. And if this thing lasts as long as I think it will...that would be very, very bad for all of us."
 
-  - 10 years before the First Flare, [Mathis](./Mathis.md) is sent to prison for 10 years for murder. He serves 7 years of his sentence then is released on parole. Franklin was his prison warden back on the Mainland during this time.[^4]
-  - 20 years before the First Flare, 2 convicts escape [Blackrock Prison](./Blackrock%20Prison.md). They came back 3 days later, half dead amd begging to be let back in after being unable to survive in the wilderness on the Island during the middle of summer.[^5]
-  - The [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) was created 60-70 years before the present.[^6]
-  - Jeremiah believes that Great Bear Island has been exploited by Mainland interests for the past 100 years or so. (Predux Reference [^7])
-  - 100 years ago, G.W. Jahnn would found the [Blackrock Federal Penitentiary](./Blackrock%20Prison.md) on Great Bear Island. Some of the prison's building material is used from stone mined from the [Last Prospect](./Last%20Prospect.md) mine.[^8][^9]
-    - Old dynamite was kept in a storage shed at the Prison, with detonators kept in the Last Prospect mine. This was because there was no safe way to transport it back to the Mainland at the time. [The Power Plant/TranscriptMathis](./The%20Power%20Plant%20%E2%80%94%20Transcript.md): "Detonators. Can't do shit with this dynamite, unless we find detonators. Since we found the dynamite in one of the old machine sheds, the detonators should be around here somewhere."
+- 10 years before the First Flare, [Mathis](./Mathis.md) is sent to prison for 10 years for murder. He serves 7 years of his sentence then is released on parole. Franklin was his prison warden back on the Mainland during this time.[^4]
+- 20 years before the First Flare, 2 convicts escape [Blackrock Prison](./Blackrock%20Prison.md). They came back 3 days later, half dead amd begging to be let back in after being unable to survive in the wilderness on the Island during the middle of summer.[^5]
+- The [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) was created 60-70 years before the present.[^6]
+- Jeremiah believes that Great Bear Island has been exploited by Mainland interests for the past 100 years or so. (Predux Reference [^7])
+- 100 years ago, G.W. Jahnn would found the [Blackrock Federal Penitentiary](./Blackrock%20Prison.md) on Great Bear Island. Some of the prison's building material is used from stone mined from the [Last Prospect](./Last%20Prospect.md) mine.[^8][^9]
+  - Old dynamite was kept in a storage shed at the Prison, with detonators kept in the Last Prospect mine. This was because there was no safe way to transport it back to the Mainland at the time. [The Power Plant/TranscriptMathis](./The%20Power%20Plant%20%E2%80%94%20Transcript.md): "Detonators. Can't do shit with this dynamite, unless we find detonators. Since we found the dynamite in one of the old machine sheds, the detonators should be around here somewhere."
 
 Franklin: "The...detonators. That dynamite is old. We kept it in storage because we didn't have a safe way to get it back to the mainland."
 
-  - [Mules](./Mule%20Bridge.md) were essential to all mining activity on Great Bear, and no mine demanded their labour more than Blackrock's. Pulling the ore-laden carts would have been impossible without the sturdy beasts, even as the animals themselves founds the harsh climate on the Island intolerable.[^10]
-  - 150 years before the events of Wintermute, Spence creates [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) with his wife and children as he settles the land in [Forlorn Muskeg](./Forlorn%20Muskeg.md), as well as building [Bunkhouses](./Bunkhouses.md) for the hired hands. A Bear reportedly attacks the Homestead and Spence's wife falls ill, having nightmares regarding the bear. Spence believes that the bear is an evil spirit that is killing his wife, and takes his hired hands attempt to slay it. The beast is unaffected by bullets, and terrifies the locals. Spence forges a Bear Spear and sets out alone to kill the bear, and the wife's fever finally breaks. Men go out looking for Spence and find him half dead in the snow, with his final words being "spear stole the bear's soul. My wife is free now", Spence is buried but the bear carcass is never found. This resulted in the legend of the [Bear Spear](./Bear%20Spear.md) and the Demon Bear.[^11][^12]
-    - Years after the Spence family faded away, the [Bear Spear](./Bear%20Spear.md) would be bought by a wealthy land baron from the Homestead and hung in the [Hunting Lodge](./Hunting%20Lodge.md).
-    - Jeremiah doesn't believe the legend was real, thinking it is probably just a story the land baron made up after he bought the Bear Spear to make it less mundane.
+- [Mules](./Mule%20Bridge.md) were essential to all mining activity on Great Bear, and no mine demanded their labour more than Blackrock's. Pulling the ore-laden carts would have been impossible without the sturdy beasts, even as the animals themselves founds the harsh climate on the Island intolerable.[^10]
+- 150 years before the events of Wintermute, Spence creates [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) with his wife and children as he settles the land in [Forlorn Muskeg](./Forlorn%20Muskeg.md), as well as building [Bunkhouses](./Bunkhouses.md) for the hired hands. A Bear reportedly attacks the Homestead and Spence's wife falls ill, having nightmares regarding the bear. Spence believes that the bear is an evil spirit that is killing his wife, and takes his hired hands attempt to slay it. The beast is unaffected by bullets, and terrifies the locals. Spence forges a Bear Spear and sets out alone to kill the bear, and the wife's fever finally breaks. Men go out looking for Spence and find him half dead in the snow, with his final words being "spear stole the bear's soul. My wife is free now", Spence is buried but the bear carcass is never found. This resulted in the legend of the [Bear Spear](./Bear%20Spear.md) and the Demon Bear.[^11][^12]
+  - Years after the Spence family faded away, the [Bear Spear](./Bear%20Spear.md) would be bought by a wealthy land baron from the Homestead and hung in the [Hunting Lodge](./Hunting%20Lodge.md).
+  - Jeremiah doesn't believe the legend was real, thinking it is probably just a story the land baron made up after he bought the Bear Spear to make it less mundane.
 - [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) was founded by Jack Mackenzie, and he eventually passes the business along to his son [Will Mackenzie](./Will%20Mackenzie.md).
 - The [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md), a government facility, is built on the Island to study the stars due to the Island's lack of light pollution and unique geolocation. The facility is shielded from EMP damage.[^13][^14][^15]
   - [Jace](./Jace.md) and [Atwood](./Atwood.md) come to the Island to study Astrophysics at this facility.[^16][^17]
-- The settlements of Port Mary and [Perseverance Mills](./Perseverance%20Mills.md) are created on the North coast of the Island. (A town called Rupert's Landing is mentioned by Jeremiah and [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md))
+- The settlements of Port Mary and [Perseverance Mills](./Perseverance%20Mills.md) are created on the North coast of the Island. (A town called Rupert's Landing is mentioned by Jeremiah and [Mystery Lake & Area](./Mystery%20Lake%20%26%20Area.md))
 - [Will Mackenzie](./Will%20Mackenzie.md) and [Astrid Greenwood](./Astrid%20Greenwood.md) marry, have a son, and separate after their son dies. Will Mackenzie continues to work at Jackrabbit Hangar, while Astrid Greenwood works for Seraphim Sleep Research Centre. Both keep their wedding bands, despite the divorce.
   - [Jane Yang](./Jane%20Yang.md) contacts Astrid years later, pleading her to bring a cure to [Perseverance Mills](./Perseverance%20Mills.md) after a disease surfaces and overtakes her home. This sets the plot of [Wintermute](./Wintermute.md) into motion after Astrid steals the cure and makes her way to Jackrabbit Remote Transport.
 - Five men, all serving life sentences at Blackrock Penitentiary, reportedly escaped from [Blackrock Prison](./Blackrock%20Prison.md). Of the five, one returned on his own, one was found dead by pursuing officers, and the last three remained missing.[^18]
@@ -167,8 +167,8 @@ Mackenzie: "Meaning?"
 
 Jeremiah: "Dam dates back to the 60s. Industrialist from the mainland wanted to use it to power a mining town he was planning to build. But, bottom fell out of the price of coal and he had to abandon those plans. Some fool tried to get it running again in the 80s but then the Forest Talkers got involved and that was the end of it. Pretty sure the quakes finished the job once and for all."[^37]
 
-  - Jessica Roy is born.
-  - The dirt road between the Town of Milton and the coastline to the north would be replaced by a paved road.[^38]
+- Jessica Roy is born.
+- The dirt road between the Town of Milton and the coastline to the north would be replaced by a paved road.[^38]
 
 - 1961 -
   - Liam Cote is born.
@@ -209,7 +209,7 @@ Jeremiah: "Dam dates back to the 60s. Industrialist from the mainland wanted to 
   - Ryan Smith passes away at age 17, and is buried at the Graveyard across from St. Christopher's Church. His tombstone reads "Into The Sunshine."
   - Goose Books publishes [Medicinal Plants of Great Bear](./Medicinal%20Plants%20of%20Great%20Bear.md).
 - 1985 -
-  - Grey Mother, gives her [mother's pearls](./Grey%20Mother%27s%20Pearls.md) to her daughter [Lilith Barker](./Lilith%20Barker.md) for her 16th birthday. Wishing to summit the great peaks of the Island, Martin Barker urges her to follow her dream, but Grey Mother does not and wishes for their daughter to stay in Milton. Lilith eventually leaves, and falls to her death outside of [Milton Park](./Milton%20Park.md) in a climbing accident, and no one comes to help her until after her death. Milton Park is shut down afterwards by the Milton &amp; Area parks Board, and Lilith is buried in the [Graveyard](./Graveyard.md) across from [St. Christopher's Church](./St.%20Christopher%27s%20Church.md). Her tombstone reads "Our Fallen Angel."[^48][^49]
+  - Grey Mother, gives her [mother's pearls](./Grey%20Mother%27s%20Pearls.md) to her daughter [Lilith Barker](./Lilith%20Barker.md) for her 16th birthday. Wishing to summit the great peaks of the Island, Martin Barker urges her to follow her dream, but Grey Mother does not and wishes for their daughter to stay in Milton. Lilith eventually leaves, and falls to her death outside of [Milton Park](./Milton%20Park.md) in a climbing accident, and no one comes to help her until after her death. Milton Park is shut down afterwards by the Milton & Area parks Board, and Lilith is buried in the [Graveyard](./Graveyard.md) across from [St. Christopher's Church](./St.%20Christopher%27s%20Church.md). Her tombstone reads "Our Fallen Angel."[^48][^49]
     - Grey Mother and Martin Barker separate, with Grey Mother living in [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) and Martin living on the outskirts of town at [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md). Martin keeps Lilith's pearls as a way to remember his daughter, despite Grey Mother wanting the pearls buried with Lilith, and has the pearls locked up in the [Milton Credit Union](./Milton%20Credit%20Union.md).
     - [Lily's Map](./Lily%27s%20Map.md) and most of her climbing gear and clothes would be locked away in a blue chest in her room at Grey Mother's Home.
     - Grey Mother shuns most of the residents of the town as the decades pass for failing to help Lilith fast enough, holding a deep grudge against everyone in Milton. She begins to refer to the town's residents as nothing more than liars, cheats, and [thieves](./Martin%20Barker.md) and keeps only to herself. Eventually she would be given the name "The Grey Mother" by residents of the town, a title she would eventually adopt as her own.
@@ -231,8 +231,8 @@ Mackenzie: "Quake?"
 
 Jeremiah: "Bah. It doesn't matter. Quake put an end to that. And things are changing.")
 
-  - The crew would notice a [Trapper](./Jeremiah.md) regularly skirting their fences to get to Winding River, and wish to contact him for the extra manpower before the Dam was shut down.[^54]
-  - [Forest Talkers](./Forest%20Talkers.md), inhabitants of the Island, form to fight back against the development of Carter Hydro Dam.[^55] [The Wounded Trapper/TranscriptMackenzie](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md): "So...who are the "forest talkers"?"
+- The crew would notice a [Trapper](./Jeremiah.md) regularly skirting their fences to get to Winding River, and wish to contact him for the extra manpower before the Dam was shut down.[^54]
+- [Forest Talkers](./Forest%20Talkers.md), inhabitants of the Island, form to fight back against the development of Carter Hydro Dam.[^55] [The Wounded Trapper/TranscriptMackenzie](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md): "So...who are the "forest talkers"?"
 
 Jeremiah: "Eco-terrorists. Activists, some call them. Depends on who you talk to I guess."
 
@@ -240,11 +240,11 @@ Mackenzie: "Why are they out here?"
 
 Jeremiah: "Well...they've been active for years. They come and go. Mostly here to throw a wrench in the works for a variety of resource projects -- mining and forestry mainly. They want Great Bear to remain a "pristine wilderness"." (Predux Reference[^56])
 
-  - A letter is sent to the skeleton crew maintaining the Dam, informing them that the Dam will be shut down due to the quakes and Forest Talkers.[^57]
-  - Forest Talkers would hold the skeleton crew hostage for days until mediators successfully extract them. The Dam would be officially shut down and locked up after this event, with most site equipment and technology being left behind.[^58]
-  - Earthquakes would continue to ravage the area and the Dam over the decades, turning it into a deathtrap of crumbling infastructure and exposed electrical wiring.
-  - Decades into the future, Breyerhouse management would warn workers to avoid going past the Staging Area into the Dam on their breaks due to the Dam's instability.[^59]
-    - Despite shutting the facility down, Forest Talkers would jump the fence and ironically begin using the Dam as a hiding place for documents and themselves.[^60][^61][^62]
+- A letter is sent to the skeleton crew maintaining the Dam, informing them that the Dam will be shut down due to the quakes and Forest Talkers.[^57]
+- Forest Talkers would hold the skeleton crew hostage for days until mediators successfully extract them. The Dam would be officially shut down and locked up after this event, with most site equipment and technology being left behind.[^58]
+- Earthquakes would continue to ravage the area and the Dam over the decades, turning it into a deathtrap of crumbling infastructure and exposed electrical wiring.
+- Decades into the future, Breyerhouse management would warn workers to avoid going past the Staging Area into the Dam on their breaks due to the Dam's instability.[^59]
+  - Despite shutting the facility down, Forest Talkers would jump the fence and ironically begin using the Dam as a hiding place for documents and themselves.[^60][^61][^62]
 - 12 June 1991 -
   - A traveler hides a diary page in the Loose Boards at [Mindful Cabin](./Mindful%20Cabin.md) as they travel the Far Territory.
 - 18-Jun-91 -
@@ -271,16 +271,16 @@ Mackenzie (Text): "Right"
 
 Grey Mother (Text): "When I was growing up, we understood what that meant. When something wore out, we couldn't just go online and order a new one...have it magically "drone delivered" to your door. Bah. As a little girl, I already knew how to hunt Rabbits, and turn their skins into clothes. I'll tell you how it's done.")
 
-  - The manager of the [Rural Store](./Rural%20Store.md), Dan Presnell, begins furiously emailing Better Food Vendors owner, Mr. Galveston, requesting supplies that he paid for. Many items did not appear in his shipment, and the locals of [Pleasant Valley](./Pleasant%20Valley.md) need many of these items to make life easier. His ATM is eventually taken offline, due to having no cash in it, with a truck never coming to pick it up.[^72]
-  - Without any major local economic drivers of their own, the remaining communities on Great Bear became completely dependent on a supply lifeline from the Mainland -- regular shipments of basic staples designed to keep them alive: fuel, food, medical supplies, etc., in many ways, akin to WW2-era wartime rationing. In exchange for regular supply drops, the “Mainlanders” -- in some cases, at the behest of their economic overlords South of the border -- felt justified in taking whatever supplies and raw materials they needed to maintain the urban communities, including dismantling some of the heavy industrial infrastructure left on Great Bear.[^73] [The Grey Mother/TranscriptGrey](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) Mother: "We lost everything in [the Collapse](./The%20Collapse.md). People didn't realize how dependent we'd become. Some were fine with it. Others didn't want the scraps from your table. It created deep rifts in families, communities. Scars that never healed. The Mainland had become our lifeline. And it was suddenly cut. And so, we suffered."
+- The manager of the [Rural Store](./Rural%20Store.md), Dan Presnell, begins furiously emailing Better Food Vendors owner, Mr. Galveston, requesting supplies that he paid for. Many items did not appear in his shipment, and the locals of [Pleasant Valley](./Pleasant%20Valley.md) need many of these items to make life easier. His ATM is eventually taken offline, due to having no cash in it, with a truck never coming to pick it up.[^72]
+- Without any major local economic drivers of their own, the remaining communities on Great Bear became completely dependent on a supply lifeline from the Mainland -- regular shipments of basic staples designed to keep them alive: fuel, food, medical supplies, etc., in many ways, akin to WW2-era wartime rationing. In exchange for regular supply drops, the “Mainlanders” -- in some cases, at the behest of their economic overlords South of the border -- felt justified in taking whatever supplies and raw materials they needed to maintain the urban communities, including dismantling some of the heavy industrial infrastructure left on Great Bear.[^73] [The Grey Mother/TranscriptGrey](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) Mother: "We lost everything in [the Collapse](./The%20Collapse.md). People didn't realize how dependent we'd become. Some were fine with it. Others didn't want the scraps from your table. It created deep rifts in families, communities. Scars that never healed. The Mainland had become our lifeline. And it was suddenly cut. And so, we suffered."
 
 Will Mackenzie: "I guess I don't know much about that history."
 
 Grey Mother: "I'm not surprised. You Mainlanders have always been focused on your own story. Only interested in Great Bear when it had something to give you. If you can't cut it down or dig it out of the ground, what use is it to you?"[^74] (Predux Reference [^75])
 
-  - A divide is formed among the Great Bear Islanders as they increasingly become segregated into two pseudo-political entities along ideological lines: those who gratefully embraced dependence on the Mainland and viewed the regular supply ships as a charitable gesture in apology for the Mainland’s exploitation of Great Bear’s resource riches, and those who sought ultimate independence and who considered trade and travel between the Mainland to be a necessary evil, viewing Mainlanders with a degree of mistrust.[^76]
-  - This seeds a deep hatred/overall dislike for Mainlanders ever coming to the Great Bear. Many of the Island's native inhabitants, such as the [Forest Talkers](./Forest%20Talkers.md) and [Grey Mother](./Grey%20Mother.md), judge the presence of any Mainlander setting foot on their Island, automatically presuming that they are here to pillage the Island's resources and nothing else, even if they become stranded on the Island.[^77]
-  - Many more open minded/desperate natives begin to leave their communities to see the Mainland civilization, hurting the already small and short staffed local communities.[^78] [The Wounded Trapper/TranscriptMackenzie](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md): "So, no other people living out here?"
+- A divide is formed among the Great Bear Islanders as they increasingly become segregated into two pseudo-political entities along ideological lines: those who gratefully embraced dependence on the Mainland and viewed the regular supply ships as a charitable gesture in apology for the Mainland’s exploitation of Great Bear’s resource riches, and those who sought ultimate independence and who considered trade and travel between the Mainland to be a necessary evil, viewing Mainlanders with a degree of mistrust.[^76]
+- This seeds a deep hatred/overall dislike for Mainlanders ever coming to the Great Bear. Many of the Island's native inhabitants, such as the [Forest Talkers](./Forest%20Talkers.md) and [Grey Mother](./Grey%20Mother.md), judge the presence of any Mainlander setting foot on their Island, automatically presuming that they are here to pillage the Island's resources and nothing else, even if they become stranded on the Island.[^77]
+- Many more open minded/desperate natives begin to leave their communities to see the Mainland civilization, hurting the already small and short staffed local communities.[^78] [The Wounded Trapper/TranscriptMackenzie](./The%20Wounded%20Trapper%20%E2%80%94%20Transcript.md): "So, no other people living out here?"
 
 Jeremiah: "You gotta understand. The Collapse destroyed Great Bear. There's nothing here to stay for. You meet anyone out here, chances are they're hiding from something. Or someone."
 
@@ -288,7 +288,7 @@ Mackenzie: "And you? Why are you here?"
 
 Jeremiah: "I have my reasons." (Predux Reference[^79])
 
-  - Unhappy with their growing dependence on the Mainland for economic support, as well as the Mainlander’s continued view that Great Bear exists solely as a resource clearinghouse for their benefit, some people who chose to remain on Great Bear decided to engage in self-sufficiency. Small-scale local food production efforts, akin to the Victory Garden program of WW2 England and Canada, sprouted up all over Great Bear, with individuals and even communities taking it in their own hands to produce food and power resources. This is the case in [Thomson's Crossing](./Thomson%27s%20Crossing.md), with the Town of Milton having far less success.[^80](Predux References [The Grey Mother (Predux)/Transcript](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md)
+- Unhappy with their growing dependence on the Mainland for economic support, as well as the Mainlander’s continued view that Great Bear exists solely as a resource clearinghouse for their benefit, some people who chose to remain on Great Bear decided to engage in self-sufficiency. Small-scale local food production efforts, akin to the Victory Garden program of WW2 England and Canada, sprouted up all over Great Bear, with individuals and even communities taking it in their own hands to produce food and power resources. This is the case in [Thomson's Crossing](./Thomson%27s%20Crossing.md), with the Town of Milton having far less success.[^80](Predux References [The Grey Mother (Predux)/Transcript](./The%20Grey%20Mother%20%28Predux%29%20%E2%80%94%20Transcript.md)
 
 Grey Mother: "Years ago, when the Collapse happened...we lost everything. The young people didn't understand how dependent we'd become. Some people may have accepted dependence on the Mainland. But I don't want the scraps from your table."
 
@@ -296,24 +296,24 @@ Mackenzie: "Guess I don't know that much...about the history."
 
 Grey Mother: "I'm not surprised. You Mainlanders have always been focused on your own story."[^81])
 
-  - With the onset of The Collapse, [Pleasant Valley](./Pleasant%20Valley.md) locals didn’t notice the brunt of change all that quickly. Being so accustomed to remote living already, it took several years before life shifted in any dramatic fashion, due to their subsistence farming lifestyle.[^82]
-  - Many residents of [Fishing Camp](./Fishing%20Camp.md) and [Coastal Townsite](./Coastal%20Townsite.md) rely on fishing to stay alive, rather than Mainland trading.
-  - Already dependent on The Mainland, the effects of The Collapse intensified the Island's remote character. Deeply scarred by the Collapse, denizens of the Island begin stockpiling and hording supplies should another catastrophe equivalent to the Collapse ever occur in the future again.
-    - Many individuals in Milton would begin creating stashes:
-      - [Medicine in my backyard](./Medicine%20in%20my%20backyard.md)
-      - [Cave Hidden Cache Note](./Cave%20Hidden%20Cache%20Note.md)
-      - [Milton Hidden Cache Note](./Milton%20Hidden%20Cache%20Note.md)
-    - [Martin Barker](./Martin%20Barker.md) would receive an Emergency Kit from the Great Bear Earthquake Memorial Society ([Emergency Kit Note](./Emergency%20Kit%20Note.md) is a Predux Collectible, but the lockbox still exists in front of [Hobbs](./Hobbs.md) in the Redux version).
-    - Several [Mementos](./Mementos.md) reveal hidden caches people left behind.
-    - [Hidden Caches](./Hidden%20Cache.md) can be found all across the Island left by locals and Forest Talkers.
-      - [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md)
-      - [Forest Talker Supply Caches](./Forest%20Talker%20Supply%20Caches.md)
-    - Several individuals create [Prepper Caches](./Prepper%20Cache.md) across the Island:
-      - Tom Joplin creates 3 caches ([Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md))
-      - Hank finds a bunker in Mystery Lake and begins stockpiling it ([Hank's Hatch](./Hank%27s%20Hatch.md)). He sends a letter to his niece to come find him if SHTF in the future.[^83][^84]
-      - 1 Prepper Cache found in [Forlorn Muskeg](./Forlorn%20Muskeg.md) ([Aurora Hatch](./Aurora%20Hatch.md), formerly [Jeremiah's Hideout](./Jeremiah%27s%20Hideout.md) in the Predux timeline)
-      - 1 Prepper Cache in Blackrock ([Blackrock Rumours](./Blackrock%20Rumours.md))
-      - Several other Prepper Caches found across the Island. (unknown if canon, Survival Mode only)
+- With the onset of The Collapse, [Pleasant Valley](./Pleasant%20Valley.md) locals didn’t notice the brunt of change all that quickly. Being so accustomed to remote living already, it took several years before life shifted in any dramatic fashion, due to their subsistence farming lifestyle.[^82]
+- Many residents of [Fishing Camp](./Fishing%20Camp.md) and [Coastal Townsite](./Coastal%20Townsite.md) rely on fishing to stay alive, rather than Mainland trading.
+- Already dependent on The Mainland, the effects of The Collapse intensified the Island's remote character. Deeply scarred by the Collapse, denizens of the Island begin stockpiling and hording supplies should another catastrophe equivalent to the Collapse ever occur in the future again.
+  - Many individuals in Milton would begin creating stashes:
+    - [Medicine in my backyard](./Medicine%20in%20my%20backyard.md)
+    - [Cave Hidden Cache Note](./Cave%20Hidden%20Cache%20Note.md)
+    - [Milton Hidden Cache Note](./Milton%20Hidden%20Cache%20Note.md)
+  - [Martin Barker](./Martin%20Barker.md) would receive an Emergency Kit from the Great Bear Earthquake Memorial Society ([Emergency Kit Note](./Emergency%20Kit%20Note.md) is a Predux Collectible, but the lockbox still exists in front of [Hobbs](./Hobbs.md) in the Redux version).
+  - Several [Mementos](./Mementos.md) reveal hidden caches people left behind.
+  - [Hidden Caches](./Hidden%20Cache.md) can be found all across the Island left by locals and Forest Talkers.
+    - [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md)
+    - [Forest Talker Supply Caches](./Forest%20Talker%20Supply%20Caches.md)
+  - Several individuals create [Prepper Caches](./Prepper%20Cache.md) across the Island:
+    - Tom Joplin creates 3 caches ([Joplin's Bunker Raid](./Joplin%27s%20Bunker%20Raid.md))
+    - Hank finds a bunker in Mystery Lake and begins stockpiling it ([Hank's Hatch](./Hank%27s%20Hatch.md)). He sends a letter to his niece to come find him if SHTF in the future.[^83][^84]
+    - 1 Prepper Cache found in [Forlorn Muskeg](./Forlorn%20Muskeg.md) ([Aurora Hatch](./Aurora%20Hatch.md), formerly [Jeremiah's Hideout](./Jeremiah%27s%20Hideout.md) in the Predux timeline)
+    - 1 Prepper Cache in Blackrock ([Blackrock Rumours](./Blackrock%20Rumours.md))
+    - Several other Prepper Caches found across the Island. (unknown if canon, Survival Mode only)
 
 ## Post Collapse
 
@@ -322,23 +322,23 @@ Grey Mother: "I'm not surprised. You Mainlanders have always been focused on you
 
 **Mackenzie:** "Great Bear? There's nothing there anymore. Not since..." (Predux Reference[^85][^86])
 
-  - The [Vacant Depot](./Vacant%20Depot.md) shows a timetable with the date 20XX, suggesting that the Depot was still being used up until the 21 century.[^87]
-  - Blackrock Penitentiary would remain opened and continue to operate after The Collapse.[^88]
-    - An uneasy truce would exist between the Penitentiary staff and the local population on Great Bear, as it would continue to produce jobs and revenue for remote communities. Resentment still endures for the imposition of Blackrock on the Island by some locals however.[^89]
-    - While seismic activity damaged or the destroyed many of the roads and bridges around [Blackrock](./Blackrock.md), the earthquakes left the Penitentiary itself largely untouched. Over the years, the extensive damage to the roads and bridges around Blackrock were seen as a bonus security feature to dissuade prisoners from escaping.[^90]
-    - Rumors spread of a faction of Forest Talkers becoming active around [Blackrock Mountain](./Blackrock%20Mountain.md) in recent years, due to the Penitentiary grounds serving as a constant reminder of Great Bear Island's ties to the Mainland. Forest Talkers eventually set up a supply cache in the [Last Prospect](./Last%20Prospect.md) mine in [Blackrock](./Blackrock.md), becoming experts at finding ways to make use of Blackrock Region's abandoned infrastructure.[^91]
-    - Blackrock's Wardens have traditionally kept a [home](./Jailer%27s%20Residence.md) not far from the Penitentiary grounds. After the Collapse, arsonists set fire to the empty building. No motive was ever disclosed.[^92]
-    - The remote Penitentiary never used to lack for food. Post-Collapse life on Great Bear, however, has meant lean Winter months for inmates and staff at Blackrock. Clever cooks at the prison have become known as much for their farming prowess as their kitchen skills, as they toil to keep their pantries full.[^93]
-      - New officers always bunked in the Blackrock Barracks. One of their tasks was supplementing the meager food supply at the Penitentiary -- a thankless and often dangerous job.[^94]
-  - Breyerhouse would remain one of the few industries continuing to harvest resources from the Island, with a focus on logging. They begin cutting forests down in Mystery Lake and Broken Railroad, shipping timber back to the coast via The Ravine and Coastal Highway through the Trans-Island Railroad Line.
-    - [Forest Talkers](./Forest%20Talkers.md) continue their eco-activism on the Island, organizing to fight the [Breyerhouse](./Breyerhouse.md) logging company across [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md), and [Broken Railroad](./Broken%20Railroad.md). They also begin annoying the locals of [Pleasant Valley](./Pleasant%20Valley.md) as their influence spread there. Their main base of operations resides at the old [Hunting Lodge](./Hunting%20Lodge.md), just under the noses of the nearby Breyerhouse [Maintenance Yard](./Maintenance%20Yard.md).[^95]
-    - The Forest Talkers eventually steal Documents from Breyerhouse claiming that they are illegibly cutting down Old Growth forests without permits or permission.[^96]
-  - Tourism to the Island would still occur despite the Post Collapse, becoming a niche way to provide revenue to Locals of the Island. [^97][^98]
-    - Earthquakes and seismic activity would continue to dissuade people from visiting the Island however.[^99]
-    - [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Ash Canyon](./Ash%20Canyon.md), and [Timberwolf Mountain](./Timberwolf%20Mountain.md) would often be the most popular tourist destinations.
-    - A company called DeepForest Experience would cause Manny Douglas to become stranded on Great Bear Island after they fail to extract him, as detailed in the [Hibernia Processing](./Hibernia%20Processing.md) [Buffer Memories](./Buffer%20Memories.md).
-    - Will Mackenzie holds a tourism pamphlet showing the Island.[^100]
-  - Earthquakes ravage the local power grid near Milton, and no one from the Mainland comes to fix it. The town is on its last legs at this point. [The Grey Mother/TranscriptGrey](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) Mother: "The power's always been spotty here, since the quakes. No money to fix the broken stuff left behind. And nobody from the Mainland seemed to care enough to do anything about it."
+- The [Vacant Depot](./Vacant%20Depot.md) shows a timetable with the date 20XX, suggesting that the Depot was still being used up until the 21 century.[^87]
+- Blackrock Penitentiary would remain opened and continue to operate after The Collapse.[^88]
+  - An uneasy truce would exist between the Penitentiary staff and the local population on Great Bear, as it would continue to produce jobs and revenue for remote communities. Resentment still endures for the imposition of Blackrock on the Island by some locals however.[^89]
+  - While seismic activity damaged or the destroyed many of the roads and bridges around [Blackrock](./Blackrock.md), the earthquakes left the Penitentiary itself largely untouched. Over the years, the extensive damage to the roads and bridges around Blackrock were seen as a bonus security feature to dissuade prisoners from escaping.[^90]
+  - Rumors spread of a faction of Forest Talkers becoming active around [Blackrock Mountain](./Blackrock%20Mountain.md) in recent years, due to the Penitentiary grounds serving as a constant reminder of Great Bear Island's ties to the Mainland. Forest Talkers eventually set up a supply cache in the [Last Prospect](./Last%20Prospect.md) mine in [Blackrock](./Blackrock.md), becoming experts at finding ways to make use of Blackrock Region's abandoned infrastructure.[^91]
+  - Blackrock's Wardens have traditionally kept a [home](./Jailer%27s%20Residence.md) not far from the Penitentiary grounds. After the Collapse, arsonists set fire to the empty building. No motive was ever disclosed.[^92]
+  - The remote Penitentiary never used to lack for food. Post-Collapse life on Great Bear, however, has meant lean Winter months for inmates and staff at Blackrock. Clever cooks at the prison have become known as much for their farming prowess as their kitchen skills, as they toil to keep their pantries full.[^93]
+    - New officers always bunked in the Blackrock Barracks. One of their tasks was supplementing the meager food supply at the Penitentiary -- a thankless and often dangerous job.[^94]
+- Breyerhouse would remain one of the few industries continuing to harvest resources from the Island, with a focus on logging. They begin cutting forests down in Mystery Lake and Broken Railroad, shipping timber back to the coast via The Ravine and Coastal Highway through the Trans-Island Railroad Line.
+  - [Forest Talkers](./Forest%20Talkers.md) continue their eco-activism on the Island, organizing to fight the [Breyerhouse](./Breyerhouse.md) logging company across [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Forlorn Muskeg](./Forlorn%20Muskeg.md), and [Broken Railroad](./Broken%20Railroad.md). They also begin annoying the locals of [Pleasant Valley](./Pleasant%20Valley.md) as their influence spread there. Their main base of operations resides at the old [Hunting Lodge](./Hunting%20Lodge.md), just under the noses of the nearby Breyerhouse [Maintenance Yard](./Maintenance%20Yard.md).[^95]
+  - The Forest Talkers eventually steal Documents from Breyerhouse claiming that they are illegibly cutting down Old Growth forests without permits or permission.[^96]
+- Tourism to the Island would still occur despite the Post Collapse, becoming a niche way to provide revenue to Locals of the Island. [^97][^98]
+  - Earthquakes and seismic activity would continue to dissuade people from visiting the Island however.[^99]
+  - [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Ash Canyon](./Ash%20Canyon.md), and [Timberwolf Mountain](./Timberwolf%20Mountain.md) would often be the most popular tourist destinations.
+  - A company called DeepForest Experience would cause Manny Douglas to become stranded on Great Bear Island after they fail to extract him, as detailed in the [Hibernia Processing](./Hibernia%20Processing.md) [Buffer Memories](./Buffer%20Memories.md).
+  - Will Mackenzie holds a tourism pamphlet showing the Island.[^100]
+- Earthquakes ravage the local power grid near Milton, and no one from the Mainland comes to fix it. The town is on its last legs at this point. [The Grey Mother/TranscriptGrey](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md) Mother: "The power's always been spotty here, since the quakes. No money to fix the broken stuff left behind. And nobody from the Mainland seemed to care enough to do anything about it."
 
 Will Mackenzie: "I'm sure...someone will come to fix it."
 
@@ -348,8 +348,8 @@ Will Mackenzie: "How can you be so sure?"
 
 Grey Mother: "I've learned to hear the difference between something quiet, and something abandoned. This goes deeper than just stillness. It feels like the moments before the world goes to sleep. We're just the last ones awake to notice it." (Predux Reference[^101])
 
-  - The Town of Milton struggles to maintain an average population above the lower double digits (slightly over 10 people left). The town would become a ghost town by this point, kept alive only by stubborn holdouts.[^102]
-  - Mainland Power Corp sends a recovery crew to seize [Martin Barker's](./Martin%20Barker.md) SOLAR BLOCK MODEL BK1, due to him refusing to pay an accumulated bill of $1256.45 CAD.[^103]
+- The Town of Milton struggles to maintain an average population above the lower double digits (slightly over 10 people left). The town would become a ghost town by this point, kept alive only by stubborn holdouts.[^102]
+- Mainland Power Corp sends a recovery crew to seize [Martin Barker's](./Martin%20Barker.md) SOLAR BLOCK MODEL BK1, due to him refusing to pay an accumulated bill of $1256.45 CAD.[^103]
 - 2010 -
   - Chloe Miller passes away at age 30, and she is buried at Thompson's Crossing.
 - June 30th, 2012 -
@@ -393,20 +393,20 @@ Will Mackenzie: "You're a bastard!"
 
 Hobbs: "That's about right." _Begins laughing uncomfortably_ "We put them all in the old school house so we could keep an eye on them. And then something happened to the lights...the power...it was like sparks everywhere and then fire. Your scarf lady found us while the school was burning. She tried to help get them out. But it was already too late. Smoke already did em' in."
 
-  - Many other prisoners instead travel the road out of Milton rather than going into the town. These Convicts include [Mathis](./Mathis.md), [Heller](./Heller.md), [Vachon](./Vachon.md), and several others. Many make their way to Pleasant Valley in the coming days, with Mathis traveling alone as far as the Carter Hydro Dam.
-  - Astrid Greenwood arrives at the town attempting to save the residents, but they are killed by a fire from a subsequent Aurora event and the Convicts scatter, with one attempting to overtake [Grey Mother's home](./Milton%20House%20%28Grey%20Mother%27s%29.md) before being shot and killed. Astrid attacks one convict and stabs Hobbs with a Hunting Knife, then runs out of town as she is injured during the fight, before squeezing through the crashed prison bus before the tunnel fully collapses. She then travels along the road until she passes out at [Keeper's Pass South](./Keeper%27s%20Pass%20South.md).
-  - One resident of Milton escapes the town after being attacked by a Convict and drops his belongings in Broken Railroad, then bleeds to death in Forlorn Muskeg a day later.[^114]
-  - Alice becomes lost in the storm on that night and dies inside the cave system past [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) when she becomes separated from the other fleeing residents after the storm worsens.[^115]
-  - Wolves begin to overtake the town shortly after, due to a lack of humans. [Martin Barker](./Martin%20Barker.md) is killed by a Wolf in his shed at [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md).
-  - The [Prisoners](./Convicts.md) of [Blackrock Federal Penitentiary](./Blackrock%20Prison.md) break out of their cells and execute the prison's staff after a sudden power loss, turning the prison into their own personal fortress and using it as a base of operations to begin looting nearby locales as they see fit.
-    - [Franklin](./Franklin.md), the warden of the prison, is taken hostage.
-    - [Jace](./Jace.md) is driving through Blackrock to the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) when her car stops functioning. She wanders the region for what seems like hours until she hears gunshots near the Prison. She sees that it is overtaken by criminals, and hides somewhere in the guard towers nearby.
-  - Several helicopters and [planes crash](./Plane%20Crashes.md) across various sections of the Island.
-    - Pilot [Will Mackenzie](./Will%20Mackenzie.md) and [Dr. Astrid Greenwood](./Astrid%20Greenwood.md) crash in the mountains outside of Milton following the total loss of power to [Mackenzie's Plane](./Mackenzie%27s%20Crashed%20Plane.md). Astrid escapes and travels to the town, loosing most of her scarf along the way, while Mackenzie is stranded in a ravine with serious injuries and passes out in a nearby cave for the night.
-    - A motorist named Matt loses control of [his truck](./Matt%27s%20Truck.md) and drives off a bridge in [Desolation Point](./Desolation%20Point.md).
-    - Some hikers heading to Timberwolf Mountain become lost at [Point of Disagreement](./Point%20of%20Disagreement.md) after their cars crash.
-  - Workers at the [Maintenance Yard](./Maintenance%20Yard.md) notice the lights in the sky, and the correlation with it disrupting their electronics. They attempt to call Breyerhouse for help on their radios and stay indoors until help arrives, but eventually disperse into the woods to survive.[^116]
-    - One Breyerhouse worker leaves the Shed and travels to Mystery Lake. Previously fed up with the Forest Talkers' eco-terrorism, they attempt to kill them for all the damages they have caused in the past. A Forest Talker is wounded but [defends himself](./Lake%20Gunshots.md) at Mystery Lake after his friend is killed.[^117]
+- Many other prisoners instead travel the road out of Milton rather than going into the town. These Convicts include [Mathis](./Mathis.md), [Heller](./Heller.md), [Vachon](./Vachon.md), and several others. Many make their way to Pleasant Valley in the coming days, with Mathis traveling alone as far as the Carter Hydro Dam.
+- Astrid Greenwood arrives at the town attempting to save the residents, but they are killed by a fire from a subsequent Aurora event and the Convicts scatter, with one attempting to overtake [Grey Mother's home](./Milton%20House%20%28Grey%20Mother%27s%29.md) before being shot and killed. Astrid attacks one convict and stabs Hobbs with a Hunting Knife, then runs out of town as she is injured during the fight, before squeezing through the crashed prison bus before the tunnel fully collapses. She then travels along the road until she passes out at [Keeper's Pass South](./Keeper%27s%20Pass%20South.md).
+- One resident of Milton escapes the town after being attacked by a Convict and drops his belongings in Broken Railroad, then bleeds to death in Forlorn Muskeg a day later.[^114]
+- Alice becomes lost in the storm on that night and dies inside the cave system past [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) when she becomes separated from the other fleeing residents after the storm worsens.[^115]
+- Wolves begin to overtake the town shortly after, due to a lack of humans. [Martin Barker](./Martin%20Barker.md) is killed by a Wolf in his shed at [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md).
+- The [Prisoners](./Convicts.md) of [Blackrock Federal Penitentiary](./Blackrock%20Prison.md) break out of their cells and execute the prison's staff after a sudden power loss, turning the prison into their own personal fortress and using it as a base of operations to begin looting nearby locales as they see fit.
+  - [Franklin](./Franklin.md), the warden of the prison, is taken hostage.
+  - [Jace](./Jace.md) is driving through Blackrock to the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) when her car stops functioning. She wanders the region for what seems like hours until she hears gunshots near the Prison. She sees that it is overtaken by criminals, and hides somewhere in the guard towers nearby.
+- Several helicopters and [planes crash](./Plane%20Crashes.md) across various sections of the Island.
+  - Pilot [Will Mackenzie](./Will%20Mackenzie.md) and [Dr. Astrid Greenwood](./Astrid%20Greenwood.md) crash in the mountains outside of Milton following the total loss of power to [Mackenzie's Plane](./Mackenzie%27s%20Crashed%20Plane.md). Astrid escapes and travels to the town, loosing most of her scarf along the way, while Mackenzie is stranded in a ravine with serious injuries and passes out in a nearby cave for the night.
+  - A motorist named Matt loses control of [his truck](./Matt%27s%20Truck.md) and drives off a bridge in [Desolation Point](./Desolation%20Point.md).
+  - Some hikers heading to Timberwolf Mountain become lost at [Point of Disagreement](./Point%20of%20Disagreement.md) after their cars crash.
+- Workers at the [Maintenance Yard](./Maintenance%20Yard.md) notice the lights in the sky, and the correlation with it disrupting their electronics. They attempt to call Breyerhouse for help on their radios and stay indoors until help arrives, but eventually disperse into the woods to survive.[^116]
+  - One Breyerhouse worker leaves the Shed and travels to Mystery Lake. Previously fed up with the Forest Talkers' eco-terrorism, they attempt to kill them for all the damages they have caused in the past. A Forest Talker is wounded but [defends himself](./Lake%20Gunshots.md) at Mystery Lake after his friend is killed.[^117]
 
 - Friday, November XX, 20XX -
   - Will Mackenzie climbs out of the ravine near his crashed plane and makes his way to the Town of Milton. The events of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) occur.
@@ -421,9 +421,9 @@ Astrid: "I crashed...but days ago. Far from here."
 
 Father Thomas: "No no...you crashed yesterday. In the hills. A terrible crashing sound. I even heard it over the howling blizzard. Don't you remember?"
 
-  - After killing the Old Bear, Mackenzie passes out and awakens to a functioning shortwave radio Jeremiah rebuilt. He calls Perseverance Mills before the radio is destroyed during the aurora.
-    - Astrid tries to call Perseverance Mills via [Signal Hill](./Signal%20Hill.md) during an aurora, and hears Mackenzie's voice from the previous radio broadcast, confirming that the events of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) and [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) take place almost simultaneously.
-    - (Unknown time after previous events) [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) takes place.
+- After killing the Old Bear, Mackenzie passes out and awakens to a functioning shortwave radio Jeremiah rebuilt. He calls Perseverance Mills before the radio is destroyed during the aurora.
+  - Astrid tries to call Perseverance Mills via [Signal Hill](./Signal%20Hill.md) during an aurora, and hears Mackenzie's voice from the previous radio broadcast, confirming that the events of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) and [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) take place almost simultaneously.
+  - (Unknown time after previous events) [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) takes place.
 
 ## 1 Year after First Flare (events of [BLACKFROST: The Long Dark II](./BLACKFROST%20-%20The%20Long%20Dark%20II.md))
 
@@ -852,7 +852,7 @@ These events are found on various computers, and occur before the First Flare, b
 [^23]: [Town of Milton](./Town%20of%20Milton.md)
 [^24]: 
 [^25]: [Pleasant Valley History](./Pleasant%20Valley%20History.md)
-[^26]: [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md)
+[^26]: [Mystery Lake & Area](./Mystery%20Lake%20%26%20Area.md)
 [^27]: [Archival Report](./Archival%20Report.md)
 [^28]: 
 [^29]: 
@@ -883,7 +883,7 @@ These events are found on various computers, and occur before the First Flare, b
 [^54]: 
 [^55]: 
 [^56]: [Survival School (Predux)/TranscriptMackenzie](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md): "When I was out there...I came across mention of the Forest Talkers". (sic) You know anything about that?" Jeremiah: "Oh yeah, I know all about the Talkers." Mackenzie: "What are they? Some kind of band? Or cult?" Jeremiah: "Nothing like that. Eco-activists. Terrorists, some call them. They've been fighting for years, against further exploitation of Great Bear." Mackenzie: "So...are they dangerous?" Jeremiah: "Not usually...they'll spike the occasional tree. Tie themselves to logging or mining equipment in protest. Don't think they've ever hurt anyone. But I'm not really up to date on current events." Mackenzie: "So, terrorists, or activists. Which is it?" Jeremiah: "Depends on your perspective, I guess. I try to stay out of politics. One thing's for sure - - they've been doing a lot more than just talking lately."
-[^57]: [Carter Hydro Dam -- Safety &amp; Shutdown Notice](./Carter%20Hydro%20Dam%20--%20Safety%20%26%20Shutdown%20Notice.md)
+[^57]: [Carter Hydro Dam -- Safety & Shutdown Notice](./Carter%20Hydro%20Dam%20--%20Safety%20%26%20Shutdown%20Notice.md)
 [^58]: 
 [^59]: [Breyerhouse Crew Winter Warning](./Breyerhouse%20Crew%20Winter%20Warning.md)
 [^60]: [Trash Can Letter](./Trash%20Can%20Letter.md)
@@ -969,7 +969,7 @@ These events are found on various computers, and occur before the First Flare, b
 [^140]: [Security Chief's Log 33](./Security%20Chief%27s%20Log%2033.md)
 [^141]: 
 [^142]: [Foreman's Technical Log 2](./Foreman%27s%20Technical%20Log%202.md) "I’m gonna try and keep a record of all this, as long as I’m able. Photos, whatever I can. These notes. If I make it back I’ll need something to show for how this all went to shit.  [Foreman's Technical Log 3](./Foreman%27s%20Technical%20Log%203.md)
-  - They\* will want to know."
+- They\* will want to know."
 [^143]: [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md) "I could see he'd already had a bad time of it out there. It must have been a cougar."
 [^144]: 
 [^145]: [Characters](./Characters.md#Townsperson_One_and_Two)

@@ -12,29 +12,20 @@
 
 **Rabbitskin Mitts**
 
-[Rabbitskin Mitts icon](../assets/Rabbitskin_Mitts_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)50%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)3%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
-
-**Harvest:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) 10 minutes
-
-**Repair:** 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md), 1 × [Cured Gut](./Cured%20Gut.md) 30 minutes 30% condition
+| Property | Details |
+| --- | --- |
+|  | [Rabbitskin Mitts icon](../assets/Rabbitskin_Mitts_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)50% |
+| Protection | [Protection icon](../assets/Protection_icon.png)3% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-5% |
+| Harvest | 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) / 10 minutes |
+| Repair | 1 × [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 30 minutes / 30% condition |
 
 > “**Handcrafted mitts. They may make you clumsy, but they're very warm. Kind of like wearing a rabbit on your hands.**”
 >

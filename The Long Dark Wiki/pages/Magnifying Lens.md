@@ -4,21 +4,16 @@
 
 **Magnifying Lens**
 
-[Magnifying Lens icon](../assets/Magnifying_Lens_icon.png)
-
-**General**
-
-**Item Type:** Fire Starting
-
-**Renewable:** Yes ([Trader](./Trader.md) only on lower difficulties)
-
-**Firestarting Slot:** Starter
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
-
-**Bonus chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png)+5%
+| Property | Details |
+| --- | --- |
+|  | [Magnifying Lens icon](../assets/Magnifying_Lens_icon.png) |
+| **General** |  |
+| Item Type | Fire Starting\|- |
+| Renewable | Yes ([Trader](./Trader.md) only on lower difficulties) |
+| Firestarting Slot | Starter |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
+| Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+5% |
 
 > “**A magnifying lens that can be used to start a fire during daylight.**”
 >

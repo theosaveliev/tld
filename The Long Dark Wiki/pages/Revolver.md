@@ -35,21 +35,16 @@
 
 **Revolver**
 
-[Revolver icon](../assets/Revolver_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Renewable:** Yes ([Trader](./Trader.md) only)
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
-
-**Harvest:** Unharvestable
-
-**Repair:** [Firearm cleaning kit](./Firearm%20Cleaning%20Kit.md)
+| Property | Details |
+| --- | --- |
+|  | [Revolver icon](../assets/Revolver_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| Renewable | Yes ([Trader](./Trader.md) only) |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
+| Harvest | Unharvestable |
+| Repair | [Firearm cleaning kit](./Firearm%20Cleaning%20Kit.md) |
 
 > “**A powerful handgun, the Revolver has great stopping power in defensive situations. Not a Hunting weapon.**”
 >
@@ -239,8 +234,8 @@ The Revolver may spawn in any of following locations in all survival modes excep
 
 ## Trivia
 
-- The Revolver in-game most closely resembles a [Smith &amp; Wesson Model 27](https://guns.fandom.com/wiki/Smith_%26_Wesson_Model_27) or [28](https://guns.fandom.com/wiki/Smith_%26_Wesson_Model_28) (leaning more towards the former), which both use .357 Magnum ammunition; however, in-game Revolver Ammunition appears to be .32 S&amp;W Long or .38 Special.
-  - A cut image of a [.44 Magnum Bullet](../assets/Revolver_44_Mag_Bullet_icon.png) can be found in the game files, suggesting that the Revolver could also be a [Smith &amp; Wesson Model 29](https://guns.fandom.com/wiki/Smith_%26_Wesson_Model_29).
+- The Revolver in-game most closely resembles a [Smith & Wesson Model 27](https://guns.fandom.com/wiki/Smith_%26_Wesson_Model_27) or [28](https://guns.fandom.com/wiki/Smith_%26_Wesson_Model_28) (leaning more towards the former), which both use .357 Magnum ammunition; however, in-game Revolver Ammunition appears to be .32 S&W Long or .38 Special.
+  - A cut image of a [.44 Magnum Bullet](../assets/Revolver_44_Mag_Bullet_icon.png) can be found in the game files, suggesting that the Revolver could also be a [Smith & Wesson Model 29](https://guns.fandom.com/wiki/Smith_%26_Wesson_Model_29).
 - The Revolver is the first weapon equipped by the Weapons Hotkey ("2"), second in priority to the Hunting Rifle.
 - Shooting a [Recycled Can](./Recycled%20Can.md) or [Spray Paint](./Spray%20Paint.md) with a Revolver will cause the cans to fly through the air a moderate distance. These are the only items with physics that react to bullet projectiles.
 

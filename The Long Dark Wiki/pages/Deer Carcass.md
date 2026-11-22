@@ -4,13 +4,12 @@
 
 **Deer Carcass**
 
-[A Fresh Ravaged Deer](../assets/A_Fresh_Ravaged_Deer.jpg)
-
-**General**
-
-**Item Type:** Item
-
-**Wintermute:** Yes A **Deer Carcass** is a harvestable object found after [Hunting](./Hunting.md) a [Deer](./Deer.md). They can occasionally be found as ravaged carcasses dispersed across [Great Bear Island](./Great%20Bear%20Island.md), or can be left after Deer are hunted by [Wolves](./Wolf.md). [Crows](./Crow.md) will fly around a Deer Carcass and always drop 3-5 [Crow Feathers](./Crow%20Feather.md) around the carcass at any time.
+| Property | Details |
+| --- | --- |
+|  | [A Fresh Ravaged Deer](../assets/A_Fresh_Ravaged_Deer.jpg) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | Yes A **Deer Carcass** is a harvestable object found after [Hunting](./Hunting.md) a [Deer](./Deer.md). They can occasionally be found as ravaged carcasses dispersed across [Great Bear Island](./Great%20Bear%20Island.md), or can be left after Deer are hunted by [Wolves](./Wolf.md). [Crows](./Crow.md) will fly around a Deer Carcass and always drop 3-5 [Crow Feathers](./Crow%20Feather.md) around the carcass at any time. |
 
 ## Drops
 

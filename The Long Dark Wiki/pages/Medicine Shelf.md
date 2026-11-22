@@ -4,21 +4,16 @@
 
 **Medicine Shelf**
 
-[Medicine Shelf](../assets/Medicine_Shelf.png)
-
-**Release:** TBD
-
-**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
-
-**Story item:** No
-
-**Container**
-
-**Capacity:** 5.00 kg(11 lbs)
-
-**Advanced data**
-
-**Object key:** GAMEPLAY\_MedicineShelf
+| Property | Details |
+| --- | --- |
+|  | [Medicine Shelf](../assets/Medicine_Shelf.png) |
+| Release | TBD |
+| Update | [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
+| Story item | No |
+| **Container** |  |
+| Capacity | 5.00 kg(11 lbs) |
+| **Advanced data** |  |
+| Object key | GAMEPLAY\_MedicineShelf |
 
 The **Medicine Shelf** is a type common type of container which can be found in most residential homes and only contains [First Aid](./First%20Aid.md) items such as [Antiseptic](./Antiseptic.md), [Bandages](./Bandage.md), [Antibiotics](./Antibiotics.md), and [Water Purification Tablets](./Water%20Purification%20Tablets.md). Medicine Shelves may also contain [Energy Bars](./Energy%20Bar.md).
 

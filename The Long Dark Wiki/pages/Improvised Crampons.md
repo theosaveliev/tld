@@ -13,31 +13,21 @@
 
 **Improvised Crampons**
 
-[Improvised Crampons icon](../assets/Improvised_Crampons_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Accessory
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0.0 °C(0 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)100%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)3%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
-
-**Harvest:** Cannot Harvest
-
-**Repair:** 2 × [Scrap Metal](./Scrap%20Metal.md) 60 minutes 20% Condition
+| Property | Details |
+| --- | --- |
+|  | [Improvised Crampons icon](../assets/Improvised_Crampons_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Accessory |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.0 °C(0 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)100% |
+| Protection | [Protection icon](../assets/Protection_icon.png)3% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-5% |
+| Harvest | Cannot Harvest |
+| Repair | 2 × [Scrap Metal](./Scrap%20Metal.md) / 60 minutes / 20% Condition |
 
 > “**Makeshift traction for your feet. Better than nothing.**”
 

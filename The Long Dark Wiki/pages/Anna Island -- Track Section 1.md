@@ -21,21 +21,16 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Anna Island -- Track Section 1**
 
-[Anna Island Track Section 1](../assets/Anna_Island_--_Track_Section_1.jpg)
-
-**Location on [Cauldron Island](./Cauldron%20Island.md)**
-
-[No picture](../assets/No_picture.png)
-
-[Anna Island Track Section 1 Map](../assets/Anna_Island_Track_Section_1_Map.png)
-
-**Details**
-
-**Connecting Regions:** [Port Remnant](./Port%20Remnant.md) [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)
-
-**Interloper Region Spawn:** No
-
-**Date Added:** October 27 2026
+| Property | Details |
+| --- | --- |
+|  | [Anna Island Track Section 1](../assets/Anna_Island_--_Track_Section_1.jpg) |
+| **Location on [Cauldron Island](./Cauldron%20Island.md)** |  |
+|  | [No picture](../assets/No_picture.png) |
+|  | [Anna Island Track Section 1 Map](../assets/Anna_Island_Track_Section_1_Map.png) |
+| **Details** |  |
+| Connecting Regions | [Port Remnant](./Port%20Remnant.md) [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) |
+| Interloper Region Spawn | No |
+| Date Added | October 27 2026 |
 
 **Anna Island -- Track Section 1** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 
@@ -50,9 +45,13 @@ A continuation of the coastline from the previously numbered region.
 
 There are 6 named locations within Track Section 1, including:
 
-| Column 1 | Column 2 |
-| --- | --- |
-| - [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (East) - [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (West) - [Bridge](./Bridge.md) - [Huts](./Huts.md) | - To Port Remnant (Region Transition to [Port Remnant](./Port%20Remnant.md)) - To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)) |
+- [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (East)
+- [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (West)
+- [Bridge](./Bridge.md)
+- [Huts](./Huts.md)
+
+- To Port Remnant (Region Transition to [Port Remnant](./Port%20Remnant.md))
+- To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md))
 
 There are also a single [Warm Cave](./Warm%20Cave.md) near the middle of the map.
 

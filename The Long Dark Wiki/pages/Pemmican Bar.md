@@ -18,37 +18,24 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Pemmican Bar**
 
-[Pemmican Bar icon](../assets/Pemmican_Bar_icon.png)
-
-**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Wintermute:** No
-
-**Renewable:** No ([Rose Hip](./Rose%20Hip.md))
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** Yes
-
-**Examine:** A traditional trail food based on dried meats. Fortifies physical Condition and resilience.
-
-**Values**
-
-**Calories:** 450 (562) kcal
-
-**Hydration:** -6%
-
-**[Vitamin C](./Scurvy.md):** Minor (14%)
-
-**Weight:** 0.0625 kg (0.14 lbs)
-
-**Decay Rate**
-
-**Inside:** 4.000% per day
-
-**Outside:** 0.800% per day
+| Property | Details |
+| --- | --- |
+|  | [Pemmican Bar icon](../assets/Pemmican_Bar_icon.png) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Wintermute | No |
+| Renewable | No ([Rose Hip](./Rose%20Hip.md)) |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | Yes |
+| Examine | A traditional trail food based on dried meats. Fortifies physical Condition and resilience. |
+| **Values** |  |
+| Calories | 450 (562) kcal |
+| Hydration | -6% |
+| [Vitamin C](./Scurvy.md) | Minor (14%) |
+| Weight | 0.0625 kg (0.14 lbs) |
+| **Decay Rate** |  |
+| Inside | 4.000% per day |
+| Outside | 0.800% per day |
 
 **Pemmican Bar** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_. It is learned after acquiring its unique [Recipe Card](./Recipe%20Cards.md).
 

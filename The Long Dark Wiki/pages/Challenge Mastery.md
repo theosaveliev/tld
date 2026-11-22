@@ -4,9 +4,10 @@
 
 **Challenge Mastery**
 
-[Challenge Mastery icon](../assets/Challenge_Mastery_icon.png)
-
-**Description:** Complete every Challenge.
+| Property | Details |
+| --- | --- |
+|  | [Challenge Mastery icon](../assets/Challenge_Mastery_icon.png) |
+| Description | Complete every Challenge. |
 
 **Challenge Mastery** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

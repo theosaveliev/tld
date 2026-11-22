@@ -12,31 +12,21 @@
 
 **Transfer Pass**
 
-[Transfer Pass Main Menu](../assets/Transfer_Pass_Main_Menu.jpg)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[Transfer Pass Location](../assets/Transfer_Pass_Location.png)
-
-[TransferPass](../assets/TransferPass.png)
-
-**Details**
-
-**Description:** An abandoned train depot near the edge of the Far Territory
-
-**Connecting Regions:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md) (Leads to [Broken Railroad](./Broken%20Railroad.md)) [Forsaken Airfield](./Forsaken%20Airfield.md) [Zone of Contamination](./Zone%20of%20Contamination.md) [Sundered Pass](./Sundered%20Pass.md)
-
-**TFTFT paid content:** Yes
-
-**Characters:** None
-
-**Difficulty:** Intermediate
-
-**Interloper Region Spawn:** No
-
-**Locations:** 11
-
-**Date Added:** Dec 5, 2022
+| Property | Details |
+| --- | --- |
+|  | [Transfer Pass Main Menu](../assets/Transfer_Pass_Main_Menu.jpg) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [Transfer Pass Location](../assets/Transfer_Pass_Location.png) |
+|  | [TransferPass](../assets/TransferPass.png) |
+| **Details** |  |
+| Description | An abandoned train depot near the edge of the Far Territory |
+| Connecting Regions | [Far Range Branch Line](./Far%20Range%20Branch%20Line.md) (Leads to [Broken Railroad](./Broken%20Railroad.md)) [Forsaken Airfield](./Forsaken%20Airfield.md) / [Zone of Contamination](./Zone%20of%20Contamination.md) / [Sundered Pass](./Sundered%20Pass.md) |
+| TFTFT paid content | Yes |
+| Characters | None |
+| Difficulty | Intermediate |
+| Interloper Region Spawn | No |
+| Locations | 11 |
+| Date Added | Dec 5, 2022 |
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

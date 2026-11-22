@@ -4,21 +4,16 @@
 
 **Cave**
 
-[Milton cave](../assets/Milton_cave.png)
-
-**Location**
-
-[Cave Mountain Town Location](../assets/Cave_Mountain_Town_Location.png)
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
-
-**Description:** A moderately sized explorable cave
-
-**General**
-
-**Type:** Cave
-
-Has an interior **Cave** is a named [Warm Cave](./Warm%20Cave.md) in [Mountain Town](./Mountain%20Town.md). It is located just behind the [Radio Tower](./Radio%20Tower.md).
+| Property | Details |
+| --- | --- |
+|  | [Milton cave](../assets/Milton_cave.png) |
+| **Location** |  |
+|  | [Cave Mountain Town Location](../assets/Cave_Mountain_Town_Location.png) |
+| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Description | A moderately sized explorable cave |
+| **General** |  |
+| Type | Cave\|- |
+|  | Has an interior / **Cave** is a named [Warm Cave](./Warm%20Cave.md) in [Mountain Town](./Mountain%20Town.md). It is located just behind the [Radio Tower](./Radio%20Tower.md). |
 
 ## Overview
 

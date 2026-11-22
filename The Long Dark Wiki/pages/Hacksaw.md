@@ -4,21 +4,16 @@
 
 **Hacksaw**
 
-[Hacksaw icon](../assets/Hacksaw_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Renewable:** Yes
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
-
-**Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 1 Hour
-
-**Repair:** [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) 1 × [Scrap Metal](./Scrap%20Metal.md) 25% Condition 45 to 30 min
+| Property | Details |
+| --- | --- |
+|  | [Hacksaw icon](../assets/Hacksaw_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| Renewable | Yes |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
+| Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) 1 Hour |
+| Repair | [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) / 1 × [Scrap Metal](./Scrap%20Metal.md) / 25% Condition / 45 to 30 min |
 
 > “**Heavy-duty saw made to cut through metal.**”
 >

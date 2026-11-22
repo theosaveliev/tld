@@ -4,29 +4,20 @@
 
 **Trash Can Letter**
 
-[Trash Can Letter icon](../assets/Trash_Can_Letter_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Letter found in garbage can in the bathroom at Carter Hydro Dam.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Trash Can Letter icon](../assets/Trash_Can_Letter_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Letter found in garbage can in the bathroom at Carter Hydro Dam. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 **Trash Can Letter** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found inside the bathroom of the upper [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) in a [Trash Can](./Trash%20Can.md) next to the stall of the dead [Forest Talker](./Forest%20Talkers.md) carrying the [Admin Office Key](./Admin%20Office%20Key.md). It was presumably written by the same man.
 

@@ -22,19 +22,15 @@
 
 **The Grey Mother (Predux)/Transcript**
 
-[The Grey Mother (Predux)](../assets/The_Grey_Mother_%28Predux%29.jpg)
-
-**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Previous:** [Echoes Of Astrid/Transcript](./Echoes%20Of%20Astrid%20%E2%80%94%20Transcript.md)
-
-**Current:** The Grey Mother (Predux)/Transcript
-
-**Next:** [Paradise Lost (Predux)/Transcript](./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md)
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md)
+| Property | Details |
+| --- | --- |
+|  | [The Grey Mother (Predux)](../assets/The_Grey_Mother_%28Predux%29.jpg) |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
+| Previous | [Echoes Of Astrid/Transcript](./Echoes%20Of%20Astrid%20%E2%80%94%20Transcript.md) |
+| Current | The Grey Mother (Predux)/Transcript |
+| Next | [Paradise Lost (Predux)/Transcript](./Paradise%20Lost%20%28Predux%29%20%E2%80%94%20Transcript.md) |
+| Region | [Mountain Town](./Mountain%20Town.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md) |
 
 This is the transcript for Chapter 3 [The Grey Mother (Predux)](./The%20Grey%20Mother%20%28Predux%29.md) for Predux [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 

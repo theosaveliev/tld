@@ -19,19 +19,15 @@
 
 **You Fix My Rifle?**
 
-[The Long Dark episode two milling machine for rifle](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png)
-
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Previous:** [Risk of Infection](./Risk%20of%20Infection.md)
-
-**Current:** You Fix My Rifle?
-
-**Next:** [Survival School (Predux)](./Survival%20School%20%28Predux%29.md)
-
-**Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) [Broken Railroad](./Broken%20Railroad.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) [Old Bear](./Old%20Bear.md)
+| Property | Details |
+| --- | --- |
+|  | [The Long Dark episode two milling machine for rifle](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [Risk of Infection](./Risk%20of%20Infection.md) |
+| Current | You Fix My Rifle? |
+| Next | [Survival School (Predux)](./Survival%20School%20%28Predux%29.md) |
+| Region | [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
 
 **Template:spoiler**
 
@@ -125,7 +121,7 @@ Several plot points and locations have been replaced/altered since the Redux re-
 - All 3rd person cutscenes have been removed.
 - The Trust system has been entirely removed since Redux
   - Certain items, furniture, and containers inside Jeremiah's home have dark red text, signifying that they are owned by him. Taking, searching, or Harvesting any of these items will produce a small message that the player has lost Trust with Jeremiah. This is also true in the previous mission [Risk of Infection](./Risk%20of%20Infection.md), despite Jeremiah not being conscious if you steal from him.
-  - The knowledge unlocks involving Mystery Lake, Carter Dam, and Aurora Observations was replaced by [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md), [Carter Hydro Dam (Collectible)](./Carter%20Hydro%20Dam%20%28Collectible%29.md), and [Aurora Observations](./Aurora%20Observations.md).
+  - The knowledge unlocks involving Mystery Lake, Carter Dam, and Aurora Observations was replaced by [Mystery Lake & Area](./Mystery%20Lake%20%26%20Area.md), [Carter Hydro Dam (Collectible)](./Carter%20Hydro%20Dam%20%28Collectible%29.md), and [Aurora Observations](./Aurora%20Observations.md).
   - The Cache location Jeremiah gives full of [Flares](./Flare.md) near the transition cave to [Mountain Town](./Mountain%20Town.md) was cut entirely and replaced with another Cache.
   - The side mission [Forge Blueprints (mission)](./Forge%20Blueprints%20%28mission%29.md) was cut from the game, and the [Improvised Knife](./Improvised%20Knife.md) and [Improvised Hatchet](./Improvised%20Hatchet.md) blueprints are available from the start of Episode 2. [Hunting Knives](./Hunting%20Knife.md) and [Hatchets](./Hatchet.md) are also far more plentiful throughout Episode 1 and 2 in the Redux, with Hunting Knives being entirely absent in both Predux Episodes (until acquiring [Jeremiah's Knife](./Jeremiah%27s%20Knife.md)).
   - The [Deerskin Pants](./Deerskin%20Pants.md) and [Deerskin Boots](./Deerskin%20Boots.md) blueprints are now unlocked after completing the "Learn to hunt and kill a deer" task in the side mission [Survival School](./Survival%20School.md).

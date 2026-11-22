@@ -6,17 +6,14 @@
 
 **First Aid Kit**
 
-[First Aid Kit](../assets/First_Aid_Kit.png)
-
-**Story item:** No
-
-**Container**
-
-**Capacity:** 5.00 kg(11 lbs)
-
-**Advanced data**
-
-**Object key:** GAMEPLAY\_FirstAidKit
+| Property | Details |
+| --- | --- |
+|  | [First Aid Kit](../assets/First_Aid_Kit.png) |
+| Story item | No |
+| **Container** |  |
+| Capacity | 5.00 kg(11 lbs) |
+| **Advanced data** |  |
+| Object key | GAMEPLAY\_FirstAidKit |
 
 The **First Aid Kit** is a type of container which only contains [First Aid](./First%20Aid.md) items such as [Antiseptic](./Antiseptic.md), [Bandages](./Bandage.md), [Antibiotics](./Antibiotics.md), and [Water Purification Tablets](./Water%20Purification%20Tablets.md). First aid kits may also contain [Energy Bars](./Energy%20Bar.md). and sewing kits
 

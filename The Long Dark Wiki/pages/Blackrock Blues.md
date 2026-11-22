@@ -4,21 +4,16 @@
 
 **Blackrock Blues**
 
-[Blackrock Blues](../assets/Blackrock_Blues.png)
-
-Episode
-
-**Missions**
-
-**Previous:** [Prologue](./Prologue.md)
-
-**Current:** Blackrock Blues
-
-**Next:** [The Power Plant](./The%20Power%20Plant.md)
-
-**Region:** [Blackrock Region](./Blackrock.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Mathis](./Mathis.md) [Franklin](./Franklin.md) [Vachon](./Vachon.md) [Heller](./Heller.md) [Jace](./Jace.md)
+| Property | Details |
+| --- | --- |
+|  | [Blackrock Blues](../assets/Blackrock_Blues.png) |
+| Episode |  |
+| **Missions** |  |
+| Previous | [Prologue](./Prologue.md) |
+| Current | Blackrock Blues |
+| Next | [The Power Plant](./The%20Power%20Plant.md) |
+| Region | [Blackrock Region](./Blackrock.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Mathis](./Mathis.md) / [Franklin](./Franklin.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jace](./Jace.md) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

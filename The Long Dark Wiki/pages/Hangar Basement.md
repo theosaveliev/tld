@@ -4,20 +4,12 @@
 
 **Hangar Basement**
 
-[HangarBasementLights](../assets/HangarBasementLights.jpg)
-
-**Location**
-
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
-
-**General**
-
-Firebox
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-[Forge icon green](../assets/Forge_icon_green.png)
-
-Has a forge
+| Property | Details |
+| --- | --- |
+|  | [HangarBasementLights](../assets/HangarBasementLights.jpg) |
+| **Location** |  |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| **General** |  |
+| Firebox |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| [Forge icon green](../assets/Forge_icon_green.png) | Has a forge\|- |

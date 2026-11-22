@@ -4,27 +4,19 @@
 
 **Interview Transcript 4**
 
-[Interview Transcript 4 icon](../assets/Interview_Transcript_4_icon.png)
-
-**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A printout of a medical consultation.
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_Tale1Transcript2
+| Property | Details |
+| --- | --- |
+|  | [Interview Transcript 4 icon](../assets/Interview_Transcript_4_icon.png) |
+| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A printout of a medical consultation. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Tale1Transcript2 |
 
 **Interview Transcript 4** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Signal Void](./Signal%20Void.md) [Tale](./Tales.md). It is found inside one of the bunkers as the Tale progresses.
 

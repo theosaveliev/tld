@@ -4,17 +4,14 @@
 
 **Broken Bridge**
 
-[Broken bridge3](../assets/Broken_bridge3.jpg)
-
-**Location**
-
-[Broken Bridge Location (Railroad)](../assets/Broken_Bridge_Location_%28Railroad%29.png)
-
-**Region:** [Broken Railroad](./Broken%20Railroad.md)
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Broken bridge3](../assets/Broken_bridge3.jpg) |
+| **Location** |  |
+|  | [Broken Bridge Location (Railroad)](../assets/Broken_Bridge_Location_%28Railroad%29.png) |
+| Region | [Broken Railroad](./Broken%20Railroad.md)\|- |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Overview
 

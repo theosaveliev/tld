@@ -4,27 +4,19 @@
 
 **Naturalist Notebook 2**
 
-[Naturalist Notebook 2 icon](../assets/Naturalist_Notebook_2_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A loose leaf from a technical notebook
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Naturalist Notebook 2 icon](../assets/Naturalist_Notebook_2_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A loose leaf from a technical notebook |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Naturalist Notebook 2** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) found in the [Fishing Hut](./Fishing%20Hut.md) at [Ambler's Lake](./Ambler%27s%20Lake.md) in [Sundered Pass](./Sundered%20Pass.md).
 

@@ -4,9 +4,10 @@
 
 **Faithful Cartographer**
 
-[Faithful Cartographer icon](../assets/Faithful_Cartographer_icon.png)
-
-**Description:** Map all named locations in Survival Mode
+| Property | Details |
+| --- | --- |
+|  | [Faithful Cartographer icon](../assets/Faithful_Cartographer_icon.png) |
+| Description | Map all named locations in Survival Mode |
 
 **Faithful Cartographer** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -29,7 +30,9 @@ _Location Triggers_: These also appear on your in-game map, but as text-only whe
 - **_The most reliable way to get a proper survey is to survey as soon as the location pops on to your screen_**
 - Burn all fires for 1hr + to get at least 1 [Charcoal](./Charcoal.md)
 - Take charcoal from every campfire, fire barrel, stove, etc you find
-- Triple check map &amp; surveyed locations list in-game
+- Triple check map & surveyed locations list in-game
 - _Time moves while surveying (~20mins), make sure it's safe!_
 
 **[Fan made maps](https://steamcommunity.com/sharedfiles/filedetails/?id=1901570789) usually have all the surveyed locations marked with blue text** (there will be locations that aren't needed for the achievement in blue text).
+
+## Trivia

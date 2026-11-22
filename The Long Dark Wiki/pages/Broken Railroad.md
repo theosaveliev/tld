@@ -13,29 +13,20 @@
 
 **Broken Railroad**
 
-[Broken railway titlecard small](../assets/Broken_railway_titlecard_small.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[Broken Railroad Location](../assets/Broken_Railroad_Location.png)
-
-[Broken Railroad region map](../assets/Broken_Railroad_region_map.png)
-
-**Details**
-
-**Description:** An old [Breyerhouse](./Breyerhouse.md) maintenance yard with the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md) running through the mountain.
-
-**Connecting Regions:** [Forlorn Muskeg](./Forlorn%20Muskeg.md) [Transfer Pass](./Transfer%20Pass.md) (through [Far Range Branch Line](./Far%20Range%20Branch%20Line.md))
-
-**Difficulty:** Intermediate
-
-**Interloper Region Spawn:** Yes
-
-**Locations:** 10
-
-**Hazards and Survivability:** Although the weather is fairly mild, many predators roam the region.
-
-**Date Added:** Aug 2017
+| Property | Details |
+| --- | --- |
+|  | [Broken railway titlecard small](../assets/Broken_railway_titlecard_small.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [Broken Railroad Location](../assets/Broken_Railroad_Location.png) |
+|  | [Broken Railroad region map](../assets/Broken_Railroad_region_map.png) |
+| **Details** |  |
+| Description | An old [Breyerhouse](./Breyerhouse.md) maintenance yard with the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md) running through the mountain. |
+| Connecting Regions | [Forlorn Muskeg](./Forlorn%20Muskeg.md) [Transfer Pass](./Transfer%20Pass.md) (through [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)) |
+| Difficulty | Intermediate |
+| Interloper Region Spawn | Yes |
+| Locations | 10 |
+| Hazards and Survivability | Although the weather is fairly mild, many predators roam the region. |
+| Date Added | Aug 2017 |
 
 > “**For intermediate players. Previous seismic activity means this section of the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md) is dramatically interrupted. Be careful you don't become lost in its many twisting routes. Connects to Forlorn Muskeg and the Far Territory.**”
 >

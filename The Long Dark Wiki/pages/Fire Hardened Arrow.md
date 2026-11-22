@@ -12,27 +12,19 @@
 
 **Fire Hardened Arrow**
 
-[Fire Hardened Arrow icon](../assets/Fire_Hardened_Arrow_icon.png)
-
-**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
-
-**Wintermute:** No
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** Yes
-
-**Values**
-
-**Weight:** 0.10 kg (0.22 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_ArrowHardened
+| Property | Details |
+| --- | --- |
+|  | [Fire Hardened Arrow icon](../assets/Fire_Hardened_Arrow_icon.png) |
+| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
+| Wintermute | No |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | Yes |
+| **Values** |  |
+| Weight | 0.10 kg (0.22 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_ArrowHardened |
 
 > “**A crude Arrow hardened in a fire. Fragile, but simple to Craft. Only effective against small game.**”
 

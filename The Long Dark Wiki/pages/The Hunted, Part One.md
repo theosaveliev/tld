@@ -15,15 +15,13 @@
 
 **The Hunted, Part One**
 
-[Challenge Hunted](../assets/Challenge_Hunted.png)
-
-**Details**
-
-**Regions:** [Pleasant Valley](./Pleasant%20Valley.md), [Coastal Highway](./Coastal%20Highway.md), [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**Difficulty:** 5
-
-**Date Added:** April 2016
+| Property | Details |
+| --- | --- |
+|  | [Challenge Hunted](../assets/Challenge_Hunted.png) |
+| **Details** |  |
+| Regions | [Pleasant Valley](./Pleasant%20Valley.md), [Coastal Highway](./Coastal%20Highway.md), [Mystery Lake](./Mystery%20Lake%20%28region%29.md) |
+| Difficulty | 5 |
+| Date Added | April 2016 |
 
 > “**The old bear is after you. Nothing can kill him but the Trapper's old Bearkiller Rifle. Get to Trapper's Cabin before the Bear gets you.**”
 >

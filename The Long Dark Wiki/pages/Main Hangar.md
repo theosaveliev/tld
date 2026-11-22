@@ -4,31 +4,19 @@
 
 **Main Hangar**
 
-[30995](../assets/30995.png)
-
-**Location**
-
-[Main Hangar Location](../assets/Main_Hangar_Location.png)
-
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
-
-**Sublocations:** [Hangar Basement](./Hangar%20Basement.md)
-
-**Description:** A large, derelict airfield hangar
-
-**General**
-
-Type
-
-Firebox
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-[Forge icon green](../assets/Forge_icon_green.png)
-
-Has a forge
+| Property | Details |
+| --- | --- |
+|  | [30995](../assets/30995.png) |
+| **Location** |  |
+|  | [Main Hangar Location](../assets/Main_Hangar_Location.png) |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| Sublocations | [Hangar Basement](./Hangar%20Basement.md) |
+| Description | A large, derelict airfield hangar |
+| **General** |  |
+| Type |  |
+| Firebox |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| [Forge icon green](../assets/Forge_icon_green.png) | Has a forge\|- |
 
 ## Overview
 

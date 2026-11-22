@@ -116,7 +116,7 @@ TBA
 
 - New [Safehouse Customization](./Safehouse%20Customization.md) [Decorations](./Decorations.md) themed around the 1920s-30s
 - Enhanced Gun Oil
-- Harpoon &amp; Seal Hunting
+- Harpoon & Seal Hunting
 
 - Whale Oil Lamp
 - Flensing Knife

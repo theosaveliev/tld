@@ -4,21 +4,16 @@
 
 **Perseverance Wilds**
 
-[No picture](../assets/No_picture.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[No picture](../assets/No_picture.png)
-
-[Perseverance Wilds In Game Map](../assets/Perseverance_Wilds_In-Game_Map.png)
-
-**Details**
-
-**Description:** An empty wilderness near the town of Perseverance Mills with evidence of past logging activity.
-
-**Connecting Regions:** [Perseverance Mills](./Perseverance%20Mills.md)
-
-**Date Added:** 31 March 2026
+| Property | Details |
+| --- | --- |
+|  | [No picture](../assets/No_picture.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [No picture](../assets/No_picture.png) |
+|  | [Perseverance Wilds In Game Map](../assets/Perseverance_Wilds_In-Game_Map.png) |
+| **Details** |  |
+| Description | An empty wilderness near the town of Perseverance Mills with evidence of past logging activity. |
+| Connecting Regions | [Perseverance Mills](./Perseverance%20Mills.md) |
+| Date Added | 31 March 2026 |
 
 [2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 

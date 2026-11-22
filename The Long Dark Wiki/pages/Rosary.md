@@ -4,27 +4,19 @@
 
 **Rosary**
 
-[Rosary icon](../assets/Rosary_icon.png)
-
-**Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A string of prayer beads from Father Thomas
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Rosary icon](../assets/Rosary_icon.png) |
+| Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) - [Fallen Star](./Fallen%20Star.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A string of prayer beads from Father Thomas |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 > “**At least until I can minster to those souls myself, having you carry this rosary while you investigate the crash site...it would bring an old priest some comfort. It will be the closest thing to my being able to pray for them.**”
 >

@@ -4,11 +4,11 @@
 
 **Receiver**
 
-[Receiver](../assets/Receiver.jpg)
-
-**Release:** 1.60
-
-**Story item:** Yes
+| Property | Details |
+| --- | --- |
+|  | [Receiver](../assets/Receiver.jpg) |
+| Release | 1.60 |
+| Story item | Yes |
 
 A **Receiver** is a stationary object across various buildings in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) and [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) in [Wintermute](./Wintermute.md). They occasionally ring for the player, allowing them to receive a phone call as a type of cutscene. They do not appear in [Survival Mode](./Survival%20Mode.md).
 
@@ -32,3 +32,5 @@ Molly calls Astrid several times via phone Receivers in:
 - [Power Plant](./Power%20Plant.md)
 - [Last Prospect](./Last%20Prospect.md)
 - The Warden's Office at Blackrock Prison
+
+## Trivia

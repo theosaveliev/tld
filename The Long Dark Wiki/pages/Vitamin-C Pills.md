@@ -10,33 +10,22 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Vitamin-C Pills**
 
-[Vitamin C Pills icon](../assets/Vitamin-C_Pills_icon.png)
-
-**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Wintermute:** No
-
-**Renewable:** Yes ([Trader](./Trader.md) only, by trading [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) or [Birch Bark](./Birch%20Bark.md))
-
-**Properties**
-
-**Item type:** [First Aid](./First%20Aid.md)
-
-**Stackable:** Yes
-
-**Examine:** Vitamin-C supplement. Delays the onset of Scurvy.
-
-**Values**
-
-**Calories:** 5 kcal
-
-**[Vitamin C](./Scurvy.md):** Major (125%)
-
-**Weight:** 0.10 kg (0.22 lbs)
-
-**Advanced data**
-
-**Item key:** GEAR\_BottleVitaminC
+| Property | Details |
+| --- | --- |
+|  | [Vitamin C Pills icon](../assets/Vitamin-C_Pills_icon.png) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Wintermute | No |
+| Renewable | Yes ([Trader](./Trader.md) only, by trading [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) or [Birch Bark](./Birch%20Bark.md)) |
+| **Properties** |  |
+| Item type | [First Aid](./First%20Aid.md)\|- |
+| Stackable | Yes |
+| Examine | Vitamin-C supplement. Delays the onset of Scurvy. |
+| **Values** |  |
+| Calories | 5 kcal |
+| [Vitamin C](./Scurvy.md) | Major (125%) |
+| Weight | 0.10 kg (0.22 lbs) |
+| **Advanced data** |  |
+| Item key | GEAR\_BottleVitaminC |
 
 **Vitamin-C Pills** are a [First Aid](./First%20Aid.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -52,3 +41,5 @@ Vitamin-C Pills are used to help eliminate [Scurvy Risk](./Scurvy%20Risk.md) or 
 ## Location
 
 Vitamin-C Pills are acquired by trading with the [Trader](./Trader.md), and are only unlocked after reaching 400 Trust.
+
+## Update History

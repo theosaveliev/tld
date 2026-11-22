@@ -16,21 +16,16 @@
 
 **Firestriker**
 
-[Firestriker icon](../assets/Firestriker_icon.png)
-
-**General**
-
-**Item Type:** Fire Starting
-
-**Renewable:** Yes ([Trader](./Trader.md) only)
-
-**Firestarting Slot:** Starter
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
-
-**Bonus chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png)+15%
+| Property | Details |
+| --- | --- |
+|  | [Firestriker icon](../assets/Firestriker_icon.png) |
+| **General** |  |
+| Item Type | Fire Starting\|- |
+| Renewable | Yes ([Trader](./Trader.md) only) |
+| Firestarting Slot | Starter |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
+| Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+15% |
 
 > “**Metal tool designed to help start fires in the wilderness.**”
 >

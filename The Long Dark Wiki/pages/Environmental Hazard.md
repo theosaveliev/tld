@@ -103,3 +103,5 @@ While impossible to see with the naked eye until it is too late, some very rare 
 - The nearby cliff near [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md) leading down to the ravine has a death barrier.
 
 Other minor locations with instant kill barriers can be found in [this video by Bashrobe](https://www.youtube.com/watch?v=NIYBONWH24s).[1](https://www.youtube.com/watch?v=NIYBONWH24s)
+
+## Chemical Hazards

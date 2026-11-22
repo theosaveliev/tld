@@ -17,15 +17,13 @@
 
 **Whiteout**
 
-[Challenge Whiteout](../assets/Challenge_Whiteout.png)
-
-**Details**
-
-**Regions:** [Coastal Highway](./Coastal%20Highway.md)
-
-**Difficulty:** 4
-
-**Date Added:** June 2016
+| Property | Details |
+| --- | --- |
+|  | [Challenge Whiteout](../assets/Challenge_Whiteout.png) |
+| **Details** |  |
+| Regions | [Coastal Highway](./Coastal%20Highway.md) |
+| Difficulty | 4 |
+| Date Added | June 2016 |
 
 > “__A monster blizzard is on the way. Will you be ready when it arrives?  
  The storm arrives in 30 days. Stockpile enough food, water, and supplies in the Coastal Highway Quonset Garage before it hits.__”

@@ -13,19 +13,15 @@
 
 **Blackrock Prison**
 
-[Blackrock Region](../assets/Blackrock_Region.jpg)
-
-**Location**
-
-[Blackrock Prison Location](../assets/Blackrock_Prison_Location.png)
-
-Region
-
-**Location:** In the center of the map, following the main road
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Blackrock Region](../assets/Blackrock_Region.jpg) |
+| **Location** |  |
+|  | [Blackrock Prison Location](../assets/Blackrock_Prison_Location.png) |
+| Region |  |
+| Location | In the center of the map, following the main road |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## History
 

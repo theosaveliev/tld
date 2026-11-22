@@ -4,29 +4,20 @@
 
 **Aurora Observations**
 
-[Aurora Observations icon](../assets/Aurora_Observations_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A note found at the Maintenance Shed with observations about the Aurora.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Aurora Observations icon](../assets/Aurora_Observations_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A note found at the Maintenance Shed with observations about the Aurora. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 **Aurora Observations** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found in the [Maintenance Yard](./Maintenance%20Yard.md) office building on the computer where the medic [Buffer Memory](./Buffer%20Memories.md) is in [Survival Mode](./Survival%20Mode.md).
 
@@ -42,4 +33,4 @@ We're still hoping Breyerhouse sends a team up before it comes to that. Even wit
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
 
-  - Added to game.
+- Added to game.

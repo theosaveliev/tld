@@ -4,19 +4,15 @@
 
 **Simple Tools**
 
-[Simple Tools icon](../assets/Simple_Tools_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
-
-**Harvest:** 3 × [Scrap Metal](./Scrap%20Metal.md) 1 Hour
-
-**Repair:** 1 × [Scrap Metal](./Scrap%20Metal.md) 30% Condition 2 Hours
+| Property | Details |
+| --- | --- |
+|  | [Simple Tools icon](../assets/Simple_Tools_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
+| Harvest | 3 × [Scrap Metal](./Scrap%20Metal.md) 1 Hour |
+| Repair | 1 × [Scrap Metal](./Scrap%20Metal.md) 30% Condition / 2 Hours |
 
 > “**Simple tools, usable for basic crafting and repair.**”
 >

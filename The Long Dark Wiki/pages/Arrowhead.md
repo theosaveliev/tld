@@ -13,35 +13,23 @@
 
 **Arrowhead**
 
-[Arrowhead icon](../assets/Arrowhead_icon.png)
-
-**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)
-
-**Wintermute:** No
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [Materials](./Materials.md)
-
-**Stackable:** Yes
-
-**Examine:** Sharp metal tip for an Arrow, improvised from scrap.
-
-**Values**
-
-**Weight:** 0.07 kg (0.15 lbs)
-
-**Actions**
-
-**Backpack:** Take It, Leave It
-
-**On ground:** Drop
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_ArrowHead
+| Property | Details |
+| --- | --- |
+|  | [Arrowhead icon](../assets/Arrowhead_icon.png) |
+| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233) |
+| Wintermute | No |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [Materials](./Materials.md)\|- |
+| Stackable | Yes |
+| Examine | Sharp metal tip for an Arrow, improvised from scrap. |
+| **Values** |  |
+| Weight | 0.07 kg (0.15 lbs) |
+| **Actions** |  |
+| Backpack | Take It, Leave It |
+| On ground | Drop |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_ArrowHead |
 
 An **Arrowhead** is a crafting Material in _The Long Dark._
 

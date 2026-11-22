@@ -11,19 +11,15 @@
 
 **Lake Cabins**
 
-[Lake cabin4](../assets/Lake_cabin4.jpg)
-
-**Location**
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**Description:** A small group of cabins.
-
-**General**
-
-**Type:** Residential
-
-Has an interior **Lake Cabins** is an unmarked location [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
+| Property | Details |
+| --- | --- |
+|  | [Lake cabin4](../assets/Lake_cabin4.jpg) |
+| **Location** |  |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Description | A small group of cabins. |
+| **General** |  |
+| Type | Residential\|- |
+|  | Has an interior **Lake Cabins** is an unmarked location [Mystery Lake](./Mystery%20Lake%20%28region%29.md). |
 
 ## Overview
 

@@ -22,29 +22,20 @@
 
 **Coastal Highway**
 
-[Coastal Highway title card](../assets/Coastal_Highway_title_card.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[Coastal Highway Location](../assets/Coastal_Highway_Location.png)
-
-[Coastal Highway Region Map](../assets/Coastal_Highway_Region_Map.png)
-
-**Details**
-
-**Description:** A large frozen bay and coastline with a ruined highway crossing around it.
-
-**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md) (via [The Ravine](./The%20Ravine.md)) [Bleak Inlet](./Bleak%20Inlet.md) (via [The Ravine](./The%20Ravine.md)) [Pleasant Valley](./Pleasant%20Valley.md) (via [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md)) [Desolation Point](./Desolation%20Point.md) (via [Old Island Connector](./Crumbling%20Highway.md))
-
-**Difficulty:** Intermediate
-
-**Interloper Region Spawn:** No
-
-**Locations:** 20
-
-**Hazards and Survivability:** The region has plentiful resources, but there is also a high concentration of [Wolves](./Wolf.md) and three [Bear](./Bear.md)-patrolled locations.
-
-**Date Added:** Oct 2014
+| Property | Details |
+| --- | --- |
+|  | [Coastal Highway title card](../assets/Coastal_Highway_title_card.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [Coastal Highway Location](../assets/Coastal_Highway_Location.png) |
+|  | [Coastal Highway Region Map](../assets/Coastal_Highway_Region_Map.png) |
+| **Details** |  |
+| Description | A large frozen bay and coastline with a ruined highway crossing around it. |
+| Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md) (via [The Ravine](./The%20Ravine.md)) / [Bleak Inlet](./Bleak%20Inlet.md) (via [The Ravine](./The%20Ravine.md)) / [Pleasant Valley](./Pleasant%20Valley.md) (via [Cinder Hills Coal Mine](./Cinder%20Hills%20Coal%20Mine.md)) / [Desolation Point](./Desolation%20Point.md) (via [Old Island Connector](./Crumbling%20Highway.md)) |
+| Difficulty | Intermediate |
+| Interloper Region Spawn | No |
+| Locations | 20 |
+| Hazards and Survivability | The region has plentiful resources, but there is also a high concentration of [Wolves](./Wolf.md) and three [Bear](./Bear.md)-patrolled locations. |
+| Date Added | Oct 2014 |
 
 > “**For intermediate players. A weather-battered coastline rich in shelters and resources. Watch out for wildlife.**”
 >

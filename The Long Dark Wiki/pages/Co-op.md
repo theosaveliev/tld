@@ -10,17 +10,14 @@
 
 **Co-op**
 
-[No picture](../assets/No_picture.png)
-
-**Location**
-
-**Region:** [Perseverance Mills](./Perseverance%20Mills.md)
-
-**General**
-
-Type
-
-Has an interior The **Co-op** is a location found in [Perseverance Mills](./Perseverance%20Mills.md), and serves as one of the few explorable locations of the town.
+| Property | Details |
+| --- | --- |
+|  | [No picture](../assets/No_picture.png) |
+| **Location** |  |
+| Region | [Perseverance Mills](./Perseverance%20Mills.md)\|- |
+| **General** |  |
+| Type |  |
+|  | Has an interior The **Co-op** is a location found in [Perseverance Mills](./Perseverance%20Mills.md), and serves as one of the few explorable locations of the town. |
 
 ## Overview
 

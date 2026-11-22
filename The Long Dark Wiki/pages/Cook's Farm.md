@@ -4,29 +4,18 @@
 
 **Cook's Farm**
 
-[Cook's Farm](../assets/Cook%27s_Farm.png)
-
-**Location**
-
-[Cook's Farm Location](../assets/Cook%27s_Farm_Location.png)
-
-Region
-
-**Location:** Between the ravine and [Foreman's Clearcut](./Foreman%27s%20Clearcut.md).
-
-**Description:** An old barn, partially open to the elements, surrounded by a bunch of hay bales and a tractor.
-
-**General**
-
-**Firebox:** [Fire Barrel](./Fire%20Barrel.md)
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-[Workbench icon green](../assets/Workbench_icon_green.png)
-
-Has a workbench
+| Property | Details |
+| --- | --- |
+|  | [Cook's Farm](../assets/Cook%27s_Farm.png) |
+| **Location** |  |
+|  | [Cook's Farm Location](../assets/Cook%27s_Farm_Location.png) |
+| Region |  |
+| Location | Between the ravine and [Foreman's Clearcut](./Foreman%27s%20Clearcut.md). |
+| Description | An old barn, partially open to the elements, surrounded by a bunch of hay bales and a tractor. |
+| **General** |  |
+| Firebox | [Fire Barrel](./Fire%20Barrel.md) |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
 
 ## Overview
 

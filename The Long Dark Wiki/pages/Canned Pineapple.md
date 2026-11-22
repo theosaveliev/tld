@@ -10,41 +10,26 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Canned Pineapple**
 
-[Canned Pineapple icon](../assets/Canned_Pineapple_icon.png)
-
-**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Wintermute:** No
-
-**Renewable:** Yes ([Trader](./Trader.md) only)
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** Sweet, juicy, Pineapple in a can. A tropical treat and excellent source of Vitamin-C.
-
-**Values**
-
-**Calories:** 295 kcal
-
-**Hydration:** 5%
-
-**[Vitamin C](./Scurvy.md):** Moderate (56%)
-
-**Weight:** 0.40 kg (0.88 lbs)
-
-**Decay Rate**
-
-**Inside:** 0.333% per day
-
-**Outside:** 1.667% per day
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_CannedPineapple
+| Property | Details |
+| --- | --- |
+|  | [Canned Pineapple icon](../assets/Canned_Pineapple_icon.png) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Wintermute | No |
+| Renewable | Yes ([Trader](./Trader.md) only) |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Sweet, juicy, Pineapple in a can. A tropical treat and excellent source of Vitamin-C. |
+| **Values** |  |
+| Calories | 295 kcal |
+| Hydration | 5% |
+| [Vitamin C](./Scurvy.md) | Moderate (56%) |
+| Weight | 0.40 kg (0.88 lbs) |
+| **Decay Rate** |  |
+| Inside | 0.333% per day |
+| Outside | 1.667% per day |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_CannedPineapple |
 
 **Canned Pineapple** is a canned [food](./Food%20And%20Drink.md) item in _The Long Dark_ found only when trading with the [Trader](./Trader.md).
 
@@ -58,8 +43,10 @@ Canned Pineapple cannot be found as loot and is only acquired from the Trader, m
 
 ## Trivia
 
-- Canned Pineapple is packaged as "FINE &amp; JUICY PINEAPPLE_"_.
+- Canned Pineapple is packaged as "FINE & JUICY PINEAPPLE_"_.
 - The side of the can lists "Ingredients: Pineapple, Pineapple Juice, Citric Acid."
 - Unlike other canned goods that must be opened with a bladed tool, Canned Pineapples does not have an open can icon in the Backpack after being opened.
 
 ![An opened Canned Pineapple](../assets/Canned_Pineapple_opened.jpg)
+
+## Update history

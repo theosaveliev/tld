@@ -59,7 +59,7 @@
 - [Mentioned Organizations](#mentioned-organizations)
 - [Buffer Memory Characters](#buffer-memory-characters)
 
-**Images Needed:****This article is in need of more images and/or higher quality images. You can help by uploading an image and [//dummy.host/index.php?title=Characters&amp;action=edit adding it to the article].**
+**Images Needed:****This article is in need of more images and/or higher quality images. You can help by uploading an image and [//dummy.host/index.php?title=Characters&action=edit adding it to the article].**
 
 _SPOILER WARNING_  
  _This section may contain spoilers from the [story](./Wintermute.md) of The Long Dark._
@@ -380,7 +380,7 @@ Below is a list of names involving any characters mentioned or found in Wintermu
 - John - Wrote Neighbour's Note
 - Margaret - Mentioned in [Milton Post Office Note](./Milton%20Post%20Office%20Note.md), post office worker
 - Jack - Mentioned in Milton Post Office Note, mail truck driver
-- M. Antonides - Mentioned in [Park Warning Notice](./Park%20Warning%20Notice.md) as part of the Milton &amp; Area parks Board
+- M. Antonides - Mentioned in [Park Warning Notice](./Park%20Warning%20Notice.md) as part of the Milton & Area parks Board
 - Father Francis McGill - Father/Pastor of [St. Christopher's Church](./St.%20Christopher%27s%20Church.md). Wrote [Pastor's Note](./Pastor%27s%20Note.md)
 - The following people are mentioned in the [Prison Transport Manifest](./Prison%20Transport%20Manifest.md):
   - WHITE, S.
@@ -414,8 +414,8 @@ Below is a list of names involving any characters mentioned or found in Wintermu
 
 - Unknown person - Wrote [Aurora Observations](./Aurora%20Observations.md)
 - Crew 17 Foreman - Issued [Breyerhouse Crew Winter Warning](./Breyerhouse%20Crew%20Winter%20Warning.md)
-- Richard Carter - Original architect of [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) according to [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md)
-- Robert Clarke, CEO, Carter Hydro Energy - Issued [Carter Hydro Dam -- Safety &amp; Shutdown Notice](./Carter%20Hydro%20Dam%20--%20Safety%20%26%20Shutdown%20Notice.md)
+- Richard Carter - Original architect of [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) according to [Mystery Lake & Area](./Mystery%20Lake%20%26%20Area.md)
+- Robert Clarke, CEO, Carter Hydro Energy - Issued [Carter Hydro Dam -- Safety & Shutdown Notice](./Carter%20Hydro%20Dam%20--%20Safety%20%26%20Shutdown%20Notice.md)
 - Unknown Convict - Deceased. [Convict Journal Entry](./Convict%20Journal%20Entry.md) is on his corpse
 - Unknown person - Wrote [Elevator Maintenance Note](./Elevator%20Maintenance%20Note.md)
 - John - Deceased Forest Talker who wrote [Forest Talker Dam Note](./Forest%20Talker%20Dam%20Note.md), possibly wrote [Trash Can Letter](./Trash%20Can%20Letter.md)
@@ -527,9 +527,9 @@ Below is a list of names involving any characters mentioned or found in Wintermu
 
 - Nation of Canada - Several Canadian flags, foods, and clothing are present throughout the Island and make reference to the nation state.
 - Great Bear Earthquake Memorial Society (GBEMS) - Mentioned in [Emergency Kit Note](./Emergency%20Kit%20Note.md)
-- Great Bear Historical Society - Authored [Town of Milton](./Town%20of%20Milton.md), [History of The Collapse](./History%20of%20The%20Collapse.md), [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md), [Pleasant Valley History](./Pleasant%20Valley%20History.md), [Building Blackrock](./Building%20Blackrock.md)
+- Great Bear Historical Society - Authored [Town of Milton](./Town%20of%20Milton.md), [History of The Collapse](./History%20of%20The%20Collapse.md), [Mystery Lake & Area](./Mystery%20Lake%20%26%20Area.md), [Pleasant Valley History](./Pleasant%20Valley%20History.md), [Building Blackrock](./Building%20Blackrock.md)
 - Great Bear Water Authority - Mentioned in [Public Notice](./Public%20Notice.md)
-- Milton &amp; Area parks Board - Mentioned in [Park Warning Notice](./Park%20Warning%20Notice.md)
+- Milton & Area parks Board - Mentioned in [Park Warning Notice](./Park%20Warning%20Notice.md)
 - MAINLAND POWER CORP. - Issued warning to Martin Barker regarding [Utilities Bill](./Utilities%20Bill.md)
 - Diocese of the Northern Coast - Mentioned in [Diocese Report](./Diocese%20Report.md)
 - [Breyerhouse](./Breyerhouse.md) - Logging company operating in the Mystery Lake and Broken Railroad regions

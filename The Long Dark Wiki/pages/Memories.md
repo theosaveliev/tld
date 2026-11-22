@@ -20,19 +20,15 @@
 
 **Memories**
 
-[Memories](../assets/Memories.png)
-
-**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Previous:** None
-
-**Current:** Memories
-
-**Next:** [The Crash](./The%20Crash.md)
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Astrid Greenwood](./Astrid%20Greenwood.md)
+| Property | Details |
+| --- | --- |
+|  | [Memories](../assets/Memories.png) |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
+| Previous | None |
+| Current | Memories |
+| Next | [The Crash](./The%20Crash.md) |
+| Region | [Mountain Town](./Mountain%20Town.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Astrid Greenwood](./Astrid%20Greenwood.md) |
 
 _For Buffer Memories, see [Buffer Memories](./Buffer%20Memories.md)._
 

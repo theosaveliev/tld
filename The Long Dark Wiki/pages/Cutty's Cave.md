@@ -4,23 +4,17 @@
 
 **Cutty's Cave**
 
-[Cutty's Cave](../assets/Cutty%27s_Cave.png)
-
-**Location**
-
-[Cutty's Cave Location](../assets/Cutty%27s_Cave_Location.png)
-
-Region
-
-**Location:** A short distance south of [Foreman's Clearcut](./Foreman%27s%20Clearcut.md).
-
-**Description:** A small cave hidden underneath a cliff
-
-**General**
-
-**Type:** Cave
-
-**Missions:** [Blackrock Blues](./Blackrock%20Blues.md)
+| Property | Details |
+| --- | --- |
+|  | [Cutty's Cave](../assets/Cutty%27s_Cave.png) |
+| **Location** |  |
+|  | [Cutty's Cave Location](../assets/Cutty%27s_Cave_Location.png) |
+| Region |  |
+| Location | A short distance south of [Foreman's Clearcut](./Foreman%27s%20Clearcut.md). |
+| Description | A small cave hidden underneath a cliff |
+| **General** |  |
+| Type | Cave\|- |
+| Missions | [Blackrock Blues](./Blackrock%20Blues.md) |
 
 > “**The first man to attempt escape from Blackrock, Bill Cutty is a something of a local legend. No trace of him was ever found. Word of his possible success only reached the prison by way of the cryptic letters received by his former cellmates.**”
 >

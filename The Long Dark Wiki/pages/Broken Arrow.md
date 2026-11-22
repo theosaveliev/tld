@@ -4,15 +4,13 @@
 
 **Broken Arrow**
 
-[Broken Arrow icon](../assets/Broken_Arrow_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
-
-**Harvest:** 1 × [Arrowhead](./Arrowhead.md) 2 × [Crow Feather](./Crow%20Feather.md)
+| Property | Details |
+| --- | --- |
+|  | [Broken Arrow icon](../assets/Broken_Arrow_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.15 kg(0.33 lbs) |
+| Harvest | 1 × [Arrowhead](./Arrowhead.md) 2 × [Crow Feather](./Crow%20Feather.md) |
 
 > “**A broken arrow. The arrow-head and some of the feathers may be salvageable.**”
 >

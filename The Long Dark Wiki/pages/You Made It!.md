@@ -4,9 +4,10 @@
 
 **You Made It!**
 
-[You Made It! icon](../assets/You_Made_It!_icon.png)
-
-**Description:** You survived 10 days in a single Survival mode game.
+| Property | Details |
+| --- | --- |
+|  | [You Made It! icon](../assets/You_Made_It!_icon.png) |
+| Description | You survived 10 days in a single Survival mode game. |
 
 **You Made It!** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

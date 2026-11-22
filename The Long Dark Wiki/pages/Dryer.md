@@ -4,21 +4,16 @@
 
 **Dryer**
 
-[Dryer](../assets/Dryer.jpg)
-
-**Release:** TBD
-
-**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
-
-**Story item:** No
-
-**Container**
-
-**Capacity:** 30.0 kg(66 lbs)
-
-**Advanced data**
-
-**Object key:** GAMEPLAY\_Dryer
+| Property | Details |
+| --- | --- |
+|  | [Dryer](../assets/Dryer.jpg) |
+| Release | TBD |
+| Update | [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
+| Story item | No |
+| **Container** |  |
+| Capacity | 30.0 kg(66 lbs) |
+| **Advanced data** |  |
+| Object key | GAMEPLAY\_Dryer |
 
 A **Dryer** is a stationary interactable object in [The Long Dark](./The%20Long%20Dark.md). They are found in the basements of abandoned homes, and are always accompanied by a [Washer](./Washer.md). They are both located in the basements of [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md), [Skeeter's Ridge](./Skeeter%27s%20Ridge.md), and [Abandoned Harris Home](./Basement%20%28Crumbling%20Highway%29.md). They sometimes have clothes on top of them, but will always contain [Clothing](./Clothing.md) as loot.
 

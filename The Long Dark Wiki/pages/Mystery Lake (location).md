@@ -4,17 +4,14 @@
 
 **Mystery Lake (location)**
 
-[The Long Dark Lake Overview](../assets/The_Long_Dark_Lake_Overview.png)
-
-**Location**
-
-[Mystery Lake (location) Location](../assets/Mystery_Lake_%28location%29_Location.png)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [The Long Dark Lake Overview](../assets/The_Long_Dark_Lake_Overview.png) |
+| **Location** |  |
+|  | [Mystery Lake (location) Location](../assets/Mystery_Lake_%28location%29_Location.png) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

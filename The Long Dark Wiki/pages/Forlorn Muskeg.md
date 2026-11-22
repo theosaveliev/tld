@@ -13,29 +13,20 @@
 
 **Forlorn Muskeg**
 
-[Forlorn Muskeg Thumbnail](../assets/Forlorn_Muskeg_Thumbnail.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[Forlorn Muskeg Location](../assets/Forlorn_Muskeg_Location.png)
-
-[Forlorn Muskeg map](../assets/Forlorn_Muskeg_map.png)
-
-**Details**
-
-**Description:** A frigid marshland bisected by the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md).
-
-**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Broken Railroad](./Broken%20Railroad.md), [Bleak Inlet](./Bleak%20Inlet.md), [Mountain Town](./Mountain%20Town.md)
-
-**Difficulty:** Advanced
-
-**Interloper Region Spawn:** Yes
-
-**Locations:** 18
-
-**Hazards and Survivability:** [Wolves](./Wolf.md) and [Bears](./Bear.md) are found throughout the region, but fog and [Weak Ice](./Weak%20Ice.md) can prove far more deadly. There are very few manmade structures to shelter in.
-
-**Date Added:** Dec 2016
+| Property | Details |
+| --- | --- |
+|  | [Forlorn Muskeg Thumbnail](../assets/Forlorn_Muskeg_Thumbnail.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [Forlorn Muskeg Location](../assets/Forlorn_Muskeg_Location.png) |
+|  | [Forlorn Muskeg map](../assets/Forlorn_Muskeg_map.png) |
+| **Details** |  |
+| Description | A frigid marshland bisected by the [Trans-Island Railway Line](./Trans-Island%20Railway%20Line.md). |
+| Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Broken Railroad](./Broken%20Railroad.md), / [Bleak Inlet](./Bleak%20Inlet.md), / [Mountain Town](./Mountain%20Town.md) |
+| Difficulty | Advanced |
+| Interloper Region Spawn | Yes |
+| Locations | 18 |
+| Hazards and Survivability | [Wolves](./Wolf.md) and [Bears](./Bear.md) are found throughout the region, but fog and [Weak Ice](./Weak%20Ice.md) can prove far more deadly. There are very few manmade structures to shelter in. |
+| Date Added | Dec 2016 |
 
 > “**For advanced players. A frigid open marshland bisected by a railway line. Weak ice and constant winds make this area highly dangerous.**”
 >
@@ -65,9 +56,25 @@ The main challenges to long-term survival in this region is the weather, as the 
 
 There are several accessible locations within Forlorn Muskeg including:
 
-| Column 1 | Column 2 |
-| --- | --- |
-| - [Abandoned Camp](./Abandoned%20Camp.md) - [Bunkhouses](./Bunkhouses.md) - [Hat Creek](./Hat%20Creek.md) - [High Blind](./High%20Blind.md) - [Low Blind](./Low%20Blind.md) - [Marsh Ridge](./Marsh%20Ridge.md) - [Muskeg Overlook](./Muskeg%20Overlook.md) - [Old Bear's Den](./Old%20Bear%27s%20Den.md) (Wintermute [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) Only) - [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) | - [Poacher's Camp](./Poacher%27s%20Camp.md) - [Shortwave Tower (North)](./Shortwave%20Tower.md) - [Shortwave Tower West](./Shortwave%20Tower%20West.md) - [Shortwave Tower East](./Shortwave%20Tower%20East.md) (Muskeg Overlook) - To Broken Railway (Transition to [Broken Railroad](./Broken%20Railroad.md)) - To Cave System (Transition to [Bleak Inlet](./Bleak%20Inlet.md)) - To Mountain Town (Milton) (Transition to [Mountain Town](./Mountain%20Town.md)) - To Mystery Lake (Transition to [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)) - [Waterfall (Forlorn Muskeg)](./Waterfall%20%28Forlorn%20Muskeg%29.md) |
+- [Abandoned Camp](./Abandoned%20Camp.md)
+- [Bunkhouses](./Bunkhouses.md)
+- [Hat Creek](./Hat%20Creek.md)
+- [High Blind](./High%20Blind.md)
+- [Low Blind](./Low%20Blind.md)
+- [Marsh Ridge](./Marsh%20Ridge.md)
+- [Muskeg Overlook](./Muskeg%20Overlook.md)
+- [Old Bear's Den](./Old%20Bear%27s%20Den.md) (Wintermute [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) Only)
+- [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md)
+
+- [Poacher's Camp](./Poacher%27s%20Camp.md)
+- [Shortwave Tower (North)](./Shortwave%20Tower.md)
+- [Shortwave Tower West](./Shortwave%20Tower%20West.md)
+- [Shortwave Tower East](./Shortwave%20Tower%20East.md) (Muskeg Overlook)
+- To Broken Railway (Transition to [Broken Railroad](./Broken%20Railroad.md))
+- To Cave System (Transition to [Bleak Inlet](./Bleak%20Inlet.md))
+- To Mountain Town (Milton) (Transition to [Mountain Town](./Mountain%20Town.md))
+- To Mystery Lake (Transition to [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md))
+- [Waterfall (Forlorn Muskeg)](./Waterfall%20%28Forlorn%20Muskeg%29.md)
 
 There is also 1 [Prepper Cache](./Prepper%20Cache.md) located near Old Spence Family Homestead.
 

@@ -4,15 +4,13 @@
 
 **Pot Belly Stove**
 
-[Pot belly stove](../assets/Pot_belly_stove.png)
-
-**General**
-
-**Type:** Fire Starting
-
-**Max temperature:** 80 °C _(144 °F)_
-
-**Cooking slots:** 1
+| Property | Details |
+| --- | --- |
+|  | [Pot belly stove](../assets/Pot_belly_stove.png) |
+| **General** |  |
+| Type | Fire Starting\|- |
+| Max temperature | 80 °C / _(144 °F)_ |
+| Cooking slots | 1 |
 
 The **Pot Belly Stove** is an immovable [contained fire](./Fire.md#Contained_fires). The pot belly stove functions identically to other contained fires and player-made [Campfire](./Campfire.md). The pot belly stove provides no advantage over other contained fires, but it does allow protection against wind, unlike the player-made campfire. It has one [Cooking](./Cooking.md) slot.
 

@@ -14,29 +14,20 @@
 
 **Zone of Contamination**
 
-[Zone of Contamination](../assets/Zone_of_Contamination.jpg)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[Zone of Contamination Location](../assets/Zone_of_Contamination_Location.png)
-
-[Zone of Contamination Region map](../assets/Zone_of_Contamination_Region_map.png)
-
-**Details**
-
-**Description:** A massive, open pit industrial mine abandoned due to highly hazardous toxic chemicals
-
-**Connecting Regions:** [Transfer Pass](./Transfer%20Pass.md),[Forsaken Airfield](./Forsaken%20Airfield.md) and [Sundered Pass](./Sundered%20Pass.md) (Via a transition cave)
-
-**TFTFT paid content:** Yes
-
-**Difficulty:** Advanced
-
-**Interloper Region Spawn:** No
-
-**Locations:** 25
-
-**Date Added:** Dec 5, 2023
+| Property | Details |
+| --- | --- |
+|  | [Zone of Contamination](../assets/Zone_of_Contamination.jpg) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [Zone of Contamination Location](../assets/Zone_of_Contamination_Location.png) |
+|  | [Zone of Contamination Region map](../assets/Zone_of_Contamination_Region_map.png) |
+| **Details** |  |
+| Description | A massive, open pit industrial mine abandoned due to highly hazardous toxic chemicals |
+| Connecting Regions | [Transfer Pass](./Transfer%20Pass.md),[Forsaken Airfield](./Forsaken%20Airfield.md) and [Sundered Pass](./Sundered%20Pass.md) (Via a transition cave) |
+| TFTFT paid content | Yes |
+| Difficulty | Advanced |
+| Interloper Region Spawn | No |
+| Locations | 25 |
+| Date Added | Dec 5, 2023 |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -76,9 +67,33 @@ The region has 2 vista locations: one is located at a cliff with a picnic table 
 
 There are a number of locations in the Zone of Contamination, including:
 
-| Column 1 | Column 2 |
-| --- | --- |
-| - [Boss's Settlement](./Boss%27s%20Settlement.md) - [Bountiful Overlook](./Bountiful%20Overlook.md) - [Concentrator](./Concentrator.md) - [Conveyor Room](./Conveyor%20Room.md) - [Craggy Passage](./Craggy%20Passage.md) - [Desperate Elevation](./Desperate%20Elevation.md) - [Dubious Overlook](./Dubious%20Overlook.md) - [Enduring Waterfall](./Enduring%20Waterfall.md) - [Flagman's Gap](./Flagman%27s%20Gap.md) - [Forgotten Exploration](./Forgotten%20Exploration.md) - [Harrowed Residence](./Harrowed%20Residence.md) - [Headframe Building](./Headframe%20Building.md) - [Idle Camp](./Idle%20Camp.md) | - [Indolent Hoppers](./Indolent%20Hoppers.md) - [Langston Mine](./Langston%20Mine.md) - [Miner's Footpath](./Miner%27s%20Footpath.md) - [Old Corral](./Old%20Corral.md) - [Overladen Pond](./Overladen%20Pond.md) - [Pump House](./Pump%20House.md) - [Smoker's Cave](./Smoker%27s%20Cave.md) - [Scaffolder's Hideout](./Scaffolder%27s%20Hideout.md) - To Cave System (Region Transition to [Forsaken Airfield](./Forsaken%20Airfield.md)/[Sundered Pass](./Sundered%20Pass.md)) - To Transfer Pass (Region Transition to [Transfer Pass](./Transfer%20Pass.md)) - [Turbulent Pasture](./Turbulent%20Pasture.md) - [Unquenched Extraction](./Unquenched%20Extraction.md) - [Welkin's Window](./Welkin%27s%20Window.md) |
+- [Boss's Settlement](./Boss%27s%20Settlement.md)
+- [Bountiful Overlook](./Bountiful%20Overlook.md)
+- [Concentrator](./Concentrator.md)
+- [Conveyor Room](./Conveyor%20Room.md)
+- [Craggy Passage](./Craggy%20Passage.md)
+- [Desperate Elevation](./Desperate%20Elevation.md)
+- [Dubious Overlook](./Dubious%20Overlook.md)
+- [Enduring Waterfall](./Enduring%20Waterfall.md)
+- [Flagman's Gap](./Flagman%27s%20Gap.md)
+- [Forgotten Exploration](./Forgotten%20Exploration.md)
+- [Harrowed Residence](./Harrowed%20Residence.md)
+- [Headframe Building](./Headframe%20Building.md)
+- [Idle Camp](./Idle%20Camp.md)
+
+- [Indolent Hoppers](./Indolent%20Hoppers.md)
+- [Langston Mine](./Langston%20Mine.md)
+- [Miner's Footpath](./Miner%27s%20Footpath.md)
+- [Old Corral](./Old%20Corral.md)
+- [Overladen Pond](./Overladen%20Pond.md)
+- [Pump House](./Pump%20House.md)
+- [Smoker's Cave](./Smoker%27s%20Cave.md)
+- [Scaffolder's Hideout](./Scaffolder%27s%20Hideout.md)
+- To Cave System (Region Transition to [Forsaken Airfield](./Forsaken%20Airfield.md)/[Sundered Pass](./Sundered%20Pass.md))
+- To Transfer Pass (Region Transition to [Transfer Pass](./Transfer%20Pass.md))
+- [Turbulent Pasture](./Turbulent%20Pasture.md)
+- [Unquenched Extraction](./Unquenched%20Extraction.md)
+- [Welkin's Window](./Welkin%27s%20Window.md)
 
 ## Maps
 

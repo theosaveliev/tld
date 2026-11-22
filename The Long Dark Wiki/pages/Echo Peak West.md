@@ -4,15 +4,13 @@
 
 **Echo Peak West**
 
-[Echo Peak West](../assets/Echo_Peak_West.jpg)
-
-**Location**
-
-[Echo Peak West Location](../assets/Echo_Peak_West_Location.png)
-
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Echo Peak West](../assets/Echo_Peak_West.jpg) |
+| **Location** |  |
+|  | [Echo Peak West Location](../assets/Echo_Peak_West_Location.png) |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| Type | Outdoors\|- |
 
 ## Overview
 

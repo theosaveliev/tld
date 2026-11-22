@@ -4,9 +4,10 @@
 
 **Breyerhouse**
 
-[Breyerhouse logo](../assets/Breyerhouse_logo.png)
-
-**Industry:** Forest products Hydroelectric power
+| Property | Details |
+| --- | --- |
+|  | [Breyerhouse logo](../assets/Breyerhouse_logo.png) |
+| Industry | Forest products / Hydroelectric power |
 
 ![Breyerhouse trucks in the Maintenance Yard.](../assets/Maintenance_yard.jpg)_Breyerhouse trucks in the Maintenance Yard._ **Breyerhouse** was a logging company which was active in multiple regions of [Great Bear Island](./Great%20Bear%20Island.md) the prior to [The First Flare](./First%20Flare.md).
 

@@ -4,17 +4,14 @@
 
 **Second Pillar**
 
-[Second Pillar](../assets/Second_Pillar.jpg)
-
-**Location**
-
-[Second Pillar Location](../assets/Second_Pillar_Location.png)
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**General**
-
-Has no shelter **Second Pillar** is a location reached after crossing [Perilous Crossing](./Perilous%20Crossing.md) in [Sundered Pass](./Sundered%20Pass.md).
+| Property | Details |
+| --- | --- |
+|  | [Second Pillar](../assets/Second_Pillar.jpg) |
+| **Location** |  |
+|  | [Second Pillar Location](../assets/Second_Pillar_Location.png) |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| **General** |  |
+|  | Has no shelter **Second Pillar** is a location reached after crossing [Perilous Crossing](./Perilous%20Crossing.md) in [Sundered Pass](./Sundered%20Pass.md). |
 
 ## Overview
 

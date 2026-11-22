@@ -4,13 +4,12 @@
 
 **Stored Water**
 
-[Stored Water](../assets/Stored_Water.jpg)
-
-**General**
-
-**Item Type:** Item
-
-**Wintermute:** No
+| Property | Details |
+| --- | --- |
+|  | [Stored Water](../assets/Stored_Water.jpg) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | No |
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |

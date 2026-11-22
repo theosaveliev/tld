@@ -4,17 +4,14 @@
 
 **Lower Raven Falls**
 
-[SS BI LowerRavenFall](../assets/SS-BI-LowerRavenFall.jpg)
-
-**Location**
-
-[Lower Raven Falls Location](../assets/Lower_Raven_Falls_Location.png)
-
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [SS BI LowerRavenFall](../assets/SS-BI-LowerRavenFall.jpg) |
+| **Location** |  |
+|  | [Lower Raven Falls Location](../assets/Lower_Raven_Falls_Location.png) |
+| Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

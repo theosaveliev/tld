@@ -14,27 +14,19 @@
 
 **Insulated Flask**
 
-[Insulated Flasks animation](../assets/Insulated_Flasks_animation.gif)
-
-**Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** A portable container for keeping beverages warm.
-
-**Values**
-
-**Weight:** 0.20 kg (0.44 lbs)
-
-**Advanced data**
-
-**Item key:** GEAR\_InsulatedFlask
+| Property | Details |
+| --- | --- |
+|  | [Insulated Flasks animation](../assets/Insulated_Flasks_animation.gif) |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | A portable container for keeping beverages warm. |
+| **Values** |  |
+| Weight | 0.20 kg (0.44 lbs) |
+| **Advanced data** |  |
+| Item key | GEAR\_InsulatedFlask |
 
 The **Insulated Flask** (otherwise known as a **Thermos**) is a [Tool](./Tools.md) that was released as part of the free update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion Part Four.
 
@@ -185,7 +177,7 @@ The "Sticker" Insulated Flask has many stickers across it depicting [Great Bear 
 - [Quonset Garage](./Quonset%20Garage.md) Logo
 - ["Carter" Hydro-Electric Dam](./Carter%20Hydro%20Dam.md) logo
 - ["Desolation Point"](./Desolation%20Point.md) with [Lonely Lighthouse](./Lonely%20Lighthouse.md)
-- "I &lt;3 [Milton](./Milton.md)"
+- "I <3 [Milton](./Milton.md)"
 - "Great Bear Island [Mystery Lake"](./Mystery%20Lake%20%28location%29.md) campground
 - ["Last Resort Cannery"](./Last%20Resort%20Cannery.md) (possibly the top label from a [Tin of Sardines](./Tin%20of%20Sardines.md))
 - "[Trans-Island Line"](./Trans-Island%20Railway%20Line.md) railroad

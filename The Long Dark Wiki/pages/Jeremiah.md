@@ -21,29 +21,20 @@
 
 **Jeremiah**
 
-[Jeremiah](../assets/Jeremiah.png)
-
-**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Date:** 1 August 2017
-
-**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Mission:** **•** [Paradise Lost](./Paradise%20Lost.md) **•** [The Wounded Trapper](./The%20Wounded%20Trapper.md) **•** [The Best Defense](./The%20Best%20Defense.md) **•** [Signal to Noise](./Signal%20to%20Noise.md) **•** [Renewed Hope](./Renewed%20Hope.md)
-
-**Location(s):** [Trapper's Homestead](./Trapper%27s%20Homestead.md)
-
-**Biographical Information**
-
-**Age:** 50's
-
-**Status:** Alive
-
-**Occupation:** Trapper
-
-**Game Information**
-
-**Voiced by:** [David Hayter](https://en.wikipedia.org/wiki/David_Hayter)
+| Property | Details |
+| --- | --- |
+|  | [Jeremiah](../assets/Jeremiah.png) |
+| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Date | 1 August 2017 |
+| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
+| Mission | **•** [Paradise Lost](./Paradise%20Lost.md) / **•** [The Wounded Trapper](./The%20Wounded%20Trapper.md) / **•** [The Best Defense](./The%20Best%20Defense.md) / **•** [Signal to Noise](./Signal%20to%20Noise.md) / **•** [Renewed Hope](./Renewed%20Hope.md) |
+| Location(s) | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |
+| **Biographical Information** |  |
+| Age | 50's |
+| Status | Alive |
+| Occupation | Trapper |
+| **Game Information** |  |
+| Voiced by | [David Hayter](https://en.wikipedia.org/wiki/David_Hayter) |
 
 > “**A tough old trapper and hermit. Lives alone in the wilderness of Mystery Lake. Doesn't seem to like people much.**”
 >

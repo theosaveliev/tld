@@ -4,31 +4,21 @@
 
 **Improvised Hand Wraps**
 
-[Improvised Hand Wraps icon](../assets/Improvised_Hand_Wraps_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Hands
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.3 °C(0.5 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)0.0
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)0.5%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
-
-**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 25% condition
+| Property | Details |
+| --- | --- |
+|  | [Improvised Hand Wraps icon](../assets/Improvised_Hand_Wraps_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Hands |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.3 °C(0.5 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)0.0 |
+| Protection | [Protection icon](../assets/Protection_icon.png)0.5% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
+| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition |
 
 > “**Hand wrappings made from scraps of cloth.**”
 >

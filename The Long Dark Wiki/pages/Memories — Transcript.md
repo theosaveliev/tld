@@ -4,21 +4,16 @@
 
 **Memories/Transcript**
 
-[Memories](../assets/Memories.png)
-
-**Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)
-
-**Episode:** [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Mission Type:** Primary
-
-**Missions**
-
-**Previous:** None
-
-**Current:** Memories/Transcript
-
-**Next:** [The Crash/Transcript](./The%20Crash%20%E2%80%94%20Transcript.md)
+| Property | Details |
+| --- | --- |
+|  | [Memories](../assets/Memories.png) |
+| Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41) |
+| Episode | [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
+| Mission Type | Primary |
+| **Missions** |  |
+| Previous | None |
+| Current | Memories/Transcript |
+| Next | [The Crash/Transcript](./The%20Crash%20%E2%80%94%20Transcript.md) |
 
 This is the mission transcript for mission 1 [Memories](./Memories.md) of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 

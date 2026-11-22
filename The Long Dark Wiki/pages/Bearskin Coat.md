@@ -12,31 +12,21 @@
 
 **Bearskin Coat**
 
-[Bearskin Coat icon](../assets/Bearskin_Coat_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Outer torso
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)6.0 °C(10.8 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)5.0 °C(9 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)80%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)15%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-20%
-
-**Harvest:** 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) 120 minutes
-
-**Repair:** 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md), 2 × [Cured Gut](./Cured%20Gut.md) 120 minutes 40% condition
+| Property | Details |
+| --- | --- |
+|  | [Bearskin Coat icon](../assets/Bearskin_Coat_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Outer torso |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)6.0 °C(10.8 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)5.0 °C(9 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)80% |
+| Protection | [Protection icon](../assets/Protection_icon.png)15% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-20% |
+| Harvest | 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / 120 minutes |
+| Repair | 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md), / 2 × [Cured Gut](./Cured%20Gut.md) / 120 minutes / 40% condition |
 
 > “**If it's good enough for the Bear, it's good enough for you. Heavy, bulky, but very warm and one of the toughest things around. You may not run from much, but you may not need to either.**”
 >

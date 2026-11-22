@@ -32,13 +32,12 @@
 
 **Supply Cache**
 
-[Transponder Cache](../assets/Transponder_Cache.jpg)
-
-**Story item:** No
-
-**Container**
-
-**Capacity:** 30.00 kg(66 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Transponder Cache](../assets/Transponder_Cache.jpg) |
+| Story item | No |
+| **Container** |  |
+| Capacity | 30.00 kg(66 lbs) |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

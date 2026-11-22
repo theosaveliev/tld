@@ -4,29 +4,18 @@
 
 **Maintenance Yard**
 
-[Maintenance yard building](../assets/Maintenance_yard_building.jpg)
-
-**Location**
-
-[Maintenance Yard Location](../assets/Maintenance_Yard_Location.png)
-
-**Region:** [Broken Railroad](./Broken%20Railroad.md)
-
-**Description:** A large indoor maintenance yard and office
-
-**General**
-
-**Type:** Industrial
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-[Forge icon green](../assets/Forge_icon_green.png)
-
-Has a forge
-
-**Missions:** ["You Fix My Rifle?"](./Episode%202%20-%20Luminance%20Fugue.md#You_Fix_My_Rifle?) ["The Best Defense"](./Episode%202%20-%20Luminance%20Fugue.md#The_Best_Defense)
+| Property | Details |
+| --- | --- |
+|  | [Maintenance yard building](../assets/Maintenance_yard_building.jpg) |
+| **Location** |  |
+|  | [Maintenance Yard Location](../assets/Maintenance_Yard_Location.png) |
+| Region | [Broken Railroad](./Broken%20Railroad.md)\|- |
+| Description | A large indoor maintenance yard and office |
+| **General** |  |
+| Type | Industrial\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| [Forge icon green](../assets/Forge_icon_green.png) | Has a forge\|- |
+| Missions | ["You Fix My Rifle?"](./Episode%202%20-%20Luminance%20Fugue.md#You_Fix_My_Rifle?) ["The Best Defense"](./Episode%202%20-%20Luminance%20Fugue.md#The_Best_Defense) |
 
 **Maintenance Yard** is a location in [Broken Railroad](./Broken%20Railroad.md).
 

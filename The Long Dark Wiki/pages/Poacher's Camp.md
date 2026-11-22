@@ -4,19 +4,15 @@
 
 **Poacher's Camp**
 
-[Poacher's Camp](../assets/Poacher%27s_Camp.png)
-
-**Location**
-
-[Poacher's Camp Location](../assets/Poacher%27s_Camp_Location.png)
-
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
-
-**General**
-
-**Type:** Outdoors
-
-Provides some shelter **Poacher's Camp** is one of the few marked locations within [Forlorn Muskeg](./Forlorn%20Muskeg.md).
+| Property | Details |
+| --- | --- |
+|  | [Poacher's Camp](../assets/Poacher%27s_Camp.png) |
+| **Location** |  |
+|  | [Poacher's Camp Location](../assets/Poacher%27s_Camp_Location.png) |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
+| **General** |  |
+| Type | Outdoors\|- |
+|  | Provides some shelter **Poacher's Camp** is one of the few marked locations within [Forlorn Muskeg](./Forlorn%20Muskeg.md). |
 
 ## Overview
 

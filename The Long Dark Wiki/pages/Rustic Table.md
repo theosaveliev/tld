@@ -11,17 +11,14 @@
 
 **Rustic Table**
 
-[Rustic Table icon](../assets/Rustic_Table_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Values**
-
-**Weight:** 8.00 kg (17.6 lbs)
-
-**Actions**
-
-**Backpack:** Drop, Place
+| Property | Details |
+| --- | --- |
+|  | [Rustic Table icon](../assets/Rustic_Table_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 8.00 kg (17.6 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
 The **Rustic Table** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
@@ -48,3 +45,5 @@ The Rustic Table can be harvested with a [Hatchet](./Hatchet.md) in 1 hour 30 mi
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 
 **Quantity:** 10
+
+## Update History

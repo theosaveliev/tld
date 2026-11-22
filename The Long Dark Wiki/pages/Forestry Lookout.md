@@ -14,23 +14,16 @@
 
 **Forestry Lookout**
 
-[New forestry lookout5](../assets/New_forestry_lookout5.jpg)
-
-**Location**
-
-[Forestry Lookout Location](../assets/Forestry_Lookout_Location.png)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**General**
-
-**Type:** Military/Sporting
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Provides some shelter **Forestry Lookout** is a tall, wooden structure found in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
+| Property | Details |
+| --- | --- |
+|  | [New forestry lookout5](../assets/New_forestry_lookout5.jpg) |
+| **Location** |  |
+|  | [Forestry Lookout Location](../assets/Forestry_Lookout_Location.png) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| **General** |  |
+| Type | Military/Sporting\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Provides some shelter **Forestry Lookout** is a tall, wooden structure found in [Mystery Lake](./Mystery%20Lake%20%28region%29.md). |
 
 ## Overview
 
@@ -42,7 +35,7 @@ There is no loading screen when the player enters the building. Instead, the doo
 
 The interior is usually warm enough to keep the player from freezing during daytime, but temperatures may drop below zero during nighttime or blizzards. Warm clothing, a fire, and/or warmth from the bed may be useful to avoid freezing.
 
-In [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), there's a [lockbox](./Hank%27s%20Hatch.md) under the bed that requires [Hank's Lock Box Key](./Hank%27s%20Lock%20Box%20Key.md) to open. The key is found on a corpse near a campfire in the Unnamed pond, but the corpse &amp; campfire only spawn after completing the Bear hunting main quest. Inside the lockbox, there will be a piece of paper with a three number code that opens a bunker northeast from the Logging camp. The entrance to this bunker, also known as Prepper's cache, is a hatch found behind a large bolder and near a corpse.
+In [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), there's a [lockbox](./Hank%27s%20Hatch.md) under the bed that requires [Hank's Lock Box Key](./Hank%27s%20Lock%20Box%20Key.md) to open. The key is found on a corpse near a campfire in the Unnamed pond, but the corpse & campfire only spawn after completing the Bear hunting main quest. Inside the lockbox, there will be a piece of paper with a three number code that opens a bunker northeast from the Logging camp. The entrance to this bunker, also known as Prepper's cache, is a hatch found behind a large bolder and near a corpse.
 
 A [Crashed Plane](./Plane%20Crashes.md) can be found below the Lookout, on the path up to the Lookout itself.
 

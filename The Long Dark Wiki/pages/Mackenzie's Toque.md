@@ -12,29 +12,20 @@
 
 **Mackenzie's Toque**
 
-[Mackenzie's Toque icon](../assets/Mackenzie%27s_Toque_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.75 °C(1.4 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)30%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)2%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
-
-**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 75% condition
+| Property | Details |
+| --- | --- |
+|  | [Mackenzie's Toque icon](../assets/Mackenzie%27s_Toque_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.15 kg(0.33 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.75 °C(1.4 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)30% |
+| Protection | [Protection icon](../assets/Protection_icon.png)2% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
+| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 75% condition |
 
 [2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 

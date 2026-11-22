@@ -4,31 +4,21 @@
 
 **Insulated Boots**
 
-[Insulated Boots icon](../assets/Insulated_Boots_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Outer feet
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)50%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)4%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-12%
-
-**Harvest:** 1 × [Cured leather](./Cured%20Leather.md) 90 minutes
-
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md), 1 × [Cloth](./Cloth.md) 90 minutes 30% condition
+| Property | Details |
+| --- | --- |
+|  | [Insulated Boots icon](../assets/Insulated_Boots_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Outer feet |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)50% |
+| Protection | [Protection icon](../assets/Protection_icon.png)4% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-12% |
+| Harvest | 1 × [Cured leather](./Cured%20Leather.md) / 90 minutes |
+| Repair | 1 × [Cured leather](./Cured%20Leather.md), / 1 × [Cloth](./Cloth.md) / 90 minutes / 30% condition |
 
 > “**Highly waterproof boots made of synthetic materials. The felt inner liner keeps your feet nice and warm. Their bulk will slow you down.**”
 >

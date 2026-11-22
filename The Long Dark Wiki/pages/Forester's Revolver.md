@@ -18,35 +18,23 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Forester's Revolver**
 
-[Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png)
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Wintermute:** No
-
-**Renewable:** No (unique item)
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** An old, reliable weapon. Durable. Taken from a Breyerhouse worker by an unknown forest talker.
-
-**Values**
-
-**Weight:** 1.50 kg (3.3 lbs)
-
-**Actions**
-
-**Backpack:** Use, Actions, Drop
-
-**On ground:** Take It, Equip It, Leave It
-
-**Advanced data**
-
-**Item key:** GEAR\_RevolverGreen
+| Property | Details |
+| --- | --- |
+|  | [Forester's Revolver icon](../assets/Forester%27s_Revolver_icon.png) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| Renewable | No (unique item) |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | An old, reliable weapon. Durable. Taken from a Breyerhouse worker by an unknown forest talker. |
+| **Values** |  |
+| Weight | 1.50 kg (3.3 lbs) |
+| **Actions** |  |
+| Backpack | Use, Actions, Drop |
+| On ground | Take It, Equip It, Leave It |
+| **Advanced data** |  |
+| Item key | GEAR\_RevolverGreen |
 
 **Forester's Revolver** is a unique variant of the [Revolver](./Revolver.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 

@@ -13,21 +13,16 @@
 
 **Bedroll**
 
-[Bedroll icon](../assets/Bedroll_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)5.0 °C(9 °F)
-
-**Harvest:** 90 Minutes 10 × [Cloth](./Cloth.md)
-
-**Repair:** 45 Minutes 2 × [Cloth](./Cloth.md) 30% Condition
+| Property | Details |
+| --- | --- |
+|  | [Bedroll icon](../assets/Bedroll_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)5.0 °C(9 °F) |
+| Harvest | 90 Minutes 10 × [Cloth](./Cloth.md) |
+| Repair | 45 Minutes 2 × [Cloth](./Cloth.md) / 30% Condition |
 
 _This is about the normal cloth bedroll. For a list of other bedrolls see here._
 

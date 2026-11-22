@@ -4,21 +4,16 @@
 
 **Logging Camp**
 
-[Logging camp 01](../assets/Logging_camp_01.jpg)
-
-**Location**
-
-[Logging Camp Location](../assets/Logging_Camp_Location.png)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**Type:** Residential
-
-[Forge icon green](../assets/Forge_icon_green.png)
-
-[Workbench icon green](../assets/Workbench_icon_green.png)
-
-Has an interior The**Logging Camp** is a collection of several small trailers, presumably to shelter the loggers who once worked in the nearby [Clearcut](./Clearcut.md) in [Mystery Lake](./Mystery%20Lake%20%28region%29.md).
+| Property | Details |
+| --- | --- |
+|  | [Logging camp 01](../assets/Logging_camp_01.jpg) |
+| **Location** |  |
+|  | [Logging Camp Location](../assets/Logging_Camp_Location.png) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Type | Residential\|- |
+| [Forge icon green](../assets/Forge_icon_green.png) |  |
+| [Workbench icon green](../assets/Workbench_icon_green.png) |  |
+|  | Has an interior The**Logging Camp** is a collection of several small trailers, presumably to shelter the loggers who once worked in the nearby [Clearcut](./Clearcut.md) in [Mystery Lake](./Mystery%20Lake%20%28region%29.md). |
 
 ## Overview
 

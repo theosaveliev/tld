@@ -15,33 +15,22 @@
 
 **Jane Yang**
 
-[Jane Yang](../assets/Jane_Yang.png)
-
-**Release:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
-
-**Date:** 6 October 2021
-
-**Wintermute:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) (Flashback) [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
-
-**Location(s):** [Perseverance Mills](./Perseverance%20Mills.md)
-
-**Biographical Information**
-
-**Age:** 30's - 40's
-
-**Status:** Alive
-
-**Physical Information**
-
-**Sex:** Female
-
-**Hair:** Black
-
-**Eyes:** Brown
-
-**Game Information**
-
-**Voiced by:** Rita Yee (Episode 3 &amp; 4) Jessica Wong (Episode 5)
+| Property | Details |
+| --- | --- |
+|  | [Jane Yang](../assets/Jane_Yang.png) |
+| Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Date | 6 October 2021 |
+| Wintermute | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) (Flashback) [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
+| Location(s) | [Perseverance Mills](./Perseverance%20Mills.md) |
+| **Biographical Information** |  |
+| Age | 30's - 40's |
+| Status | Alive |
+| **Physical Information** |  |
+| Sex | Female |
+| Hair | Black |
+| Eyes | Brown |
+| **Game Information** |  |
+| Voiced by | Rita Yee (Episode 3 & 4) Jessica Wong (Episode 5) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

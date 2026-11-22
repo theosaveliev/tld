@@ -4,29 +4,20 @@
 
 **Astrid's Gloves**
 
-[Astrid's Gloves icon](../assets/Astrid%27s_Gloves_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)5%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)1%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
-
-**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 65% condition
+| Property | Details |
+| --- | --- |
+|  | [Astrid's Gloves icon](../assets/Astrid%27s_Gloves_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)5% |
+| Protection | [Protection icon](../assets/Protection_icon.png)1% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
+| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 65% condition |
 
 [2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 

@@ -4,27 +4,19 @@
 
 **Security Chief's Log 14**
 
-[Security Chief's Log 14 icon](../assets/Security_Chief%27s_Log_14_icon.png)
-
-**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** An entry in an old logbook.
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_Tale1ChiefNote3
+| Property | Details |
+| --- | --- |
+|  | [Security Chief's Log 14 icon](../assets/Security_Chief%27s_Log_14_icon.png) |
+| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | An entry in an old logbook. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Tale1ChiefNote3 |
 
 **Security Chief's Log 14** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Signal Void](./Signal%20Void.md) [Tale](./Tales.md). It is found inside one of the bunkers as the tale progresses.
 

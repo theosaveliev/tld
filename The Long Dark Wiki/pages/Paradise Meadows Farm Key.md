@@ -4,25 +4,18 @@
 
 **Paradise Meadows Farm Key**
 
-[Paradise Meadows Farm Key icon](../assets/Paradise_Meadows_Farm_Key_icon.png)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A key to the farm house on the outskirts of Milton.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Paradise Meadows Farm Key icon](../assets/Paradise_Meadows_Farm_Key_icon.png) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A key to the farm house on the outskirts of Milton. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 **Paradise Meadows Farm Key** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md). It is used to open the front door of the farmhouse, and is found in one of 4 places around [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md):
 

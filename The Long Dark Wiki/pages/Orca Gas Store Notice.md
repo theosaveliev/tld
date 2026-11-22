@@ -4,21 +4,16 @@
 
 **Orca Gas Store Notice**
 
-[Orca Gas Store Notice icon](../assets/Orca_Gas_Store_Notice_icon.png)
-
-**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Information found on a store notice board
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Orca Gas Store Notice icon](../assets/Orca_Gas_Store_Notice_icon.png) |
+| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Information found on a store notice board |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
 
 The following text is transcribed from the note **Orca Gas Store Notice**, found in the [Orca Gas Station](./Orca%20Gas%20Station.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md). It is found inside the gas station on a corkboard near the register counter.
 

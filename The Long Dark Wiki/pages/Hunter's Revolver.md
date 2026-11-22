@@ -19,35 +19,23 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Hunter's Revolver**
 
-[Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png)
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Wintermute:** No
-
-**Renewable:** No (unique item)
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** Vintage, hand-cannon style. Its stout construction allows for deadlier shots at distance.
-
-**Values**
-
-**Weight:** 1.75 kg (3.85 lbs)
-
-**Actions**
-
-**Backpack:** Use, Actions, Drop
-
-**On ground:** Take It, Equip It, Leave It
-
-**Advanced data**
-
-**Item key:** GEAR\_RevolverFancy
+| Property | Details |
+| --- | --- |
+|  | [Hunter's Revolver icon](../assets/Hunter%27s_Revolver_icon.png) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| Renewable | No (unique item) |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | Vintage, hand-cannon style. Its stout construction allows for deadlier shots at distance. |
+| **Values** |  |
+| Weight | 1.75 kg (3.85 lbs) |
+| **Actions** |  |
+| Backpack | Use, Actions, Drop |
+| On ground | Take It, Equip It, Leave It |
+| **Advanced data** |  |
+| Item key | GEAR\_RevolverFancy |
 
 **Hunter's Revolver** is a unique variant of the [Revolver](./Revolver.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 

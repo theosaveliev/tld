@@ -4,23 +4,17 @@
 
 **Rüdiger's Diary 1**
 
-[Rüdiger's Diary 1 icon](../assets/R%C3%BCdiger%27s_Diary_1_icon.png)
-
-**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A weather-beaten page from a notebook.
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Rüdiger's Diary 1 icon](../assets/R%C3%BCdiger%27s_Diary_1_icon.png) |
+| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A weather-beaten page from a notebook. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
 
 **Rüdiger's Diary 1** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md). It is found in a hidden [Basement (Sundered Pass)](./Basement%20%28Sundered%20Pass%29.md) in [Sundered Pass](./Sundered%20Pass.md) while following the Tale.
 

@@ -4,27 +4,19 @@
 
 **Bunker Schematic Fragment 1**
 
-[Bunker Schematic Fragment 1 icon](../assets/Bunker_Schematic_Fragment_1_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A technical drawing.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Bunker Schematic Fragment 1 icon](../assets/Bunker_Schematic_Fragment_1_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A technical drawing. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Bunker Schematic Fragment 1** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
@@ -39,3 +31,5 @@ _The following text is transcribed from **Bunker Schematic Fragment 1**_
 But we didn't build these for them, we built them for us. And we sure as hell didn't build them for people like Wyatt's asshole brother.
 
 After a little more refinement we can make it a fully mechanical loop, no power needed. With some more insulation to guarantee we can...
+
+## Game history

@@ -4,23 +4,17 @@
 
 **Foreman's Technical Log 1**
 
-[Foreman's Technical Log 1 icon](../assets/Foreman%27s_Technical_Log_1_icon.png)
-
-**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** An entry in a technical logbook.
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Foreman's Technical Log 1 icon](../assets/Foreman%27s_Technical_Log_1_icon.png) |
+| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | An entry in a technical logbook. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
 
 **Foreman's Technical Log 1** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md). It is found buried in a [Lock Box](./Lock%20Box.md) at the [Weather Station](./Weather%20Station.md) in [Sundered Pass](./Sundered%20Pass.md).
 
@@ -40,4 +34,4 @@ She died before she could learn the truth about my real mission here.
 
 \* UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
 
-  - Added to game.
+- Added to game.

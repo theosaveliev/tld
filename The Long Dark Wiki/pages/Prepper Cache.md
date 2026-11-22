@@ -367,7 +367,7 @@ It is however related to every Cache when following [Sutherland's Tale](./Suther
 ---
 
 [^1]: [Hinterland Forums - Bunkers (Preppers Caches) on Interloper?](http://steamcommunity.com/app/305620/discussions/0/343788552537593627/#c217691032448284194)
-[^2]: Bashrobe, 2025. Trader Guide - The Long Dark. [https://youtu.be/J7b\_xItDkdg?si=MOU\_hzZ7JtnMMEtu&amp;t=631](https://youtu.be/J7b_xItDkdg?si=MOU_hzZ7JtnMMEtu&t=631)
+[^2]: Bashrobe, 2025. Trader Guide - The Long Dark. [https://youtu.be/J7b\_xItDkdg?si=MOU\_hzZ7JtnMMEtu&t=631](https://youtu.be/J7b_xItDkdg?si=MOU_hzZ7JtnMMEtu&t=631)
 [^3]: 
 [^4]: 
 [^5]: 

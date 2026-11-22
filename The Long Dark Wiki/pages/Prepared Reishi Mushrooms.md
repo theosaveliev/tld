@@ -13,31 +13,21 @@
 
 **Prepared Reishi Mushrooms**
 
-[Prepared Reishi Mushrooms icon](../assets/Prepared_Reishi_Mushrooms_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Wintermute:** No
-
-**Renewable:** No
-
-**Properties**
-
-**Item type:** [First Aid](./First%20Aid.md)
-
-**Stackable:** Yes
-
-**Examine:** Reishi mushrooms that are ready to be boiled to make a natural drink with healing properties.
-
-**Values**
-
-**Weight:** 0.05 kg (0.11 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Prepared Reishi Mushrooms icon](../assets/Prepared_Reishi_Mushrooms_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Wintermute | No |
+| Renewable | No |
+| **Properties** |  |
+| Item type | [First Aid](./First%20Aid.md)\|- |
+| Stackable | Yes |
+| Examine | Reishi mushrooms that are ready to be boiled to make a natural drink with healing properties. |
+| **Values** |  |
+| Weight | 0.05 kg (0.11 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 **Prepared Reishi Mushrooms** are a natural medical item used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 

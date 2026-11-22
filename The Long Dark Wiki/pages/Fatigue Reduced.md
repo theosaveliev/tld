@@ -4,19 +4,15 @@
 
 **Fatigue Reduced**
 
-[Fatigue Reduced icon](../assets/Fatigue_Reduced_icon.png)
-
-**Properties**
-
-**Category:** [Afflictions](./Afflictions.md)
-
-**Caused By:** Consuming [Food And Drink](./Food%20And%20Drink.md)/[First Aid](./First%20Aid.md)
-
-**Effect:** Positive
-
-**Type:** Benefit
-
-**Benefit Duration:** See chart below
+| Property | Details |
+| --- | --- |
+|  | [Fatigue Reduced icon](../assets/Fatigue_Reduced_icon.png) |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Caused By | Consuming [Food And Drink](./Food%20And%20Drink.md)/[First Aid](./First%20Aid.md) |
+| Effect | Positive |
+| Type | Benefit |
+| Benefit Duration | See chart below |
 
 > “**You're feeling more wakeful and energized. Temporarily reduces your Fatigue.**”
 >

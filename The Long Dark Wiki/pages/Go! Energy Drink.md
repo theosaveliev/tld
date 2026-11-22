@@ -4,31 +4,21 @@
 
 **Go! Energy Drink**
 
-[Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png)
-
-**Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)
-
-**Renewable:** Yes ([Beachcombing](./Beachcombing.md)) no (Interloper)
-
-**Properties**
-
-**Item type:** [First Aid](./First%20Aid.md)
-
-**Stackable:** No
-
-**Examine:** Provides a boost to Stamina and reduces Fatigue for a short while. Good for extra energy when in tough spots, but distracting headaches may follow.
-
-**Values**
-
-**Calories:** 100 kcal
-
-**Hydration:** 30%
-
-**Weight:** 0.25 kg (0.55 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_SodaEnergy
+| Property | Details |
+| --- | --- |
+|  | [Go! Energy Drink icon](../assets/Go!_Energy_Drink_icon.png) |
+| Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48) |
+| Renewable | Yes ([Beachcombing](./Beachcombing.md)) no (Interloper) |
+| **Properties** |  |
+| Item type | [First Aid](./First%20Aid.md)\|- |
+| Stackable | No |
+| Examine | Provides a boost to Stamina and reduces Fatigue for a short while. Good for extra energy when in tough spots, but distracting headaches may follow. |
+| **Values** |  |
+| Calories | 100 kcal |
+| Hydration | 30% |
+| Weight | 0.25 kg (0.55 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_SodaEnergy |
 
 **Go! Energy Drink** is a [First Aid](./First%20Aid.md) item in _The Long Dark_.
 

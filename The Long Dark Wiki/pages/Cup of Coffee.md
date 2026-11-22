@@ -15,41 +15,26 @@ _For the item used to brew a Cup of Coffee, see [Tin of Coffee](./Tin%20of%20Cof
 
 **Cup of Coffee**
 
-[Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png)
-
-**Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)
-
-**Wintermute:** No
-
-**Renewable:** Yes ([Trader](./Trader.md) only)
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** A cup of coffee.
-
-**Values**
-
-**Calories:** 100 kcal
-
-**Hydration:** 30%
-
-**Weight:** 0.10 kg (0.22 lbs)
-
-**Actions**
-
-**Backpack:** Drink, Drop
-
-**Radial:** Drink, Place
-
-**On ground:** Take It, Drink It, Leave It
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_CoffeeCup
+| Property | Details |
+| --- | --- |
+|  | [Cup of Coffee icon](../assets/Cup_of_Coffee_icon.png) |
+| Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181) |
+| Wintermute | No |
+| Renewable | Yes ([Trader](./Trader.md) only) |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | A cup of coffee. |
+| **Values** |  |
+| Calories | 100 kcal |
+| Hydration | 30% |
+| Weight | 0.10 kg (0.22 lbs) |
+| **Actions** |  |
+| Backpack | Drink, Drop |
+| Radial | Drink, Place |
+| On ground | Take It, Drink It, Leave It |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_CoffeeCup |
 
 A **Cup of Coffee** is a [Drink](./Food%20And%20Drink.md) which recovers 30% [Hydration](./Thirst.md) and provides 100 calories. Consuming a Cup of Coffee also gives the [Fatigue Reduced](./Fatigue%20Reduced.md) benefit. It is a much stronger version of a [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md). They can sometimes be found inside [Microwaves](./Microwave.md).
 

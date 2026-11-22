@@ -4,27 +4,19 @@
 
 **Sutherland's Note**
 
-[Sutherland's Note icon](../assets/Sutherland%27s_Note_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A dusty piece of paper.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Sutherland's Note icon](../assets/Sutherland%27s_Note_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A dusty piece of paper. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Sutherland's Note** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
@@ -47,3 +39,5 @@ There's a big storm comin', they say. All the wildlife is spooked. No one's stan
 Maybe you got out just in time.
 
 - Sutherland
+
+## Game history

@@ -4,27 +4,19 @@
 
 **Stained Paper**
 
-[Stained Paper icon](../assets/Stained_Paper_icon.png)
-
-**Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A piece of paper torn out of an old logbook.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Stained Paper icon](../assets/Stained_Paper_icon.png) |
+| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A piece of paper torn out of an old logbook. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Stained Paper** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Forsaken Airfield](./Forsaken%20Airfield.md) in an overturned filing cabinet in an office at [Main Hangar](./Main%20Hangar.md).
 
@@ -42,4 +34,4 @@ _The following text is transcribed from **Stained Paper**_
 
 \* UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
 
-  - Added to game.
+- Added to game.

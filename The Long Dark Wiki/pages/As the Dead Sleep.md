@@ -13,15 +13,13 @@
 
 **As the Dead Sleep**
 
-[As the dead sleep](../assets/As_the_dead_sleep.png)
-
-**Details**
-
-**Regions:** [Broken Railroad](./Broken%20Railroad.md), [Hushed River Valley](./Hushed%20River%20Valley.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md), [The Ravine](./The%20Ravine.md), [Desolation Point](./Desolation%20Point.md)
-
-**Difficulty:** 6
-
-**Date Added:** 10 December 2019
+| Property | Details |
+| --- | --- |
+|  | [As the dead sleep](../assets/As_the_dead_sleep.png) |
+| **Details** |  |
+| Regions | [Broken Railroad](./Broken%20Railroad.md), [Hushed River Valley](./Hushed%20River%20Valley.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md), [The Ravine](./The%20Ravine.md), [Desolation Point](./Desolation%20Point.md) |
+| Difficulty | 6 |
+| Date Added | 10 December 2019 |
 
 > “__The world has changed. But there's a chance for one last journey before the cold sets in. Walk the path, visit the graves, and make things right before the end.  
  Visit all the grave sites listed on your map. There is no time limit. As your life ebbs, death is the only barrier.__”

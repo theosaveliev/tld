@@ -4,17 +4,14 @@
 
 **Wood Lot**
 
-[The Wood Lot beside the Orca Gas Station](../assets/Wood_Lot_and_Orca_Gas_Station.jpg) _The Wood Lot beside the [Orca Gas Station](./Orca%20Gas%20Station.md)_
-
-**Location**
-
-[Wood Lot Location](../assets/Wood_Lot_Location.png)
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [The Wood Lot beside the Orca Gas Station](../assets/Wood_Lot_and_Orca_Gas_Station.jpg) / _The Wood Lot beside the [Orca Gas Station](./Orca%20Gas%20Station.md)_ |
+| **Location** |  |
+|  | [Wood Lot Location](../assets/Wood_Lot_Location.png) |
+| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 
@@ -24,3 +21,5 @@ All three locations are former forests which are now just tree stumps and piles 
 
 - The first is between [St Christopher's Church](./St.%20Christopher%27s%20Church.md) and [Milton](./Milton.md) bridge
 - The second and third are adjacent to the [Orca Gas Station](./Orca%20Gas%20Station.md) and the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md).
+
+## Faithful Cartographer

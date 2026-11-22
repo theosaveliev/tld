@@ -4,15 +4,13 @@
 
 **Shortwave Tower**
 
-[Shortwave Tower](../assets/Shortwave_Tower.png)
-
-**Location**
-
-[Shortwave Tower Location](../assets/Shortwave_Tower_Location.png)
-
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
-
-**Type:** OutdoorsMilitary/Sporting
+| Property | Details |
+| --- | --- |
+|  | [Shortwave Tower](../assets/Shortwave_Tower.png) |
+| **Location** |  |
+|  | [Shortwave Tower Location](../assets/Shortwave_Tower_Location.png) |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
+| Type | OutdoorsMilitary/Sporting\|- |
 
 ## Overview
 

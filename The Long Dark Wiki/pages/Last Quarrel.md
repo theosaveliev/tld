@@ -10,19 +10,15 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Last Quarrel**
 
-[Last Quarrel](../assets/Last_Quarrel.jpg)
-
-**Location**
-
-[Last Quarrel Location](../assets/Last_Quarrel_Location.png)
-
-**Region:** [Port Remnant](./Port%20Remnant.md)
-
-**Description:** A large cave hidden behind 2 waterfalls.
-
-**General**
-
-Has no shelter **Last Quarrel** is a location in [Port Remnant](./Port%20Remnant.md).
+| Property | Details |
+| --- | --- |
+|  | [Last Quarrel](../assets/Last_Quarrel.jpg) |
+| **Location** |  |
+|  | [Last Quarrel Location](../assets/Last_Quarrel_Location.png) |
+| Region | [Port Remnant](./Port%20Remnant.md)\|- |
+| Description | A large cave hidden behind 2 waterfalls. |
+| **General** |  |
+|  | Has no shelter **Last Quarrel** is a location in [Port Remnant](./Port%20Remnant.md). |
 
 ## Overview
 

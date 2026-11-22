@@ -1,6 +1,6 @@
 # Safe
 
-**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Safe)
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Safe)
 
 **Contents**
 
@@ -11,21 +11,16 @@
 
 **Safe**
 
-[Safe](../assets/Safe.png)
-
-**Release:** TBD
-
-**Update:** [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
-
-**Story item:** No
-
-**Container**
-
-**Capacity:** 10.0 kg(22 lbs)
-
-**Advanced data**
-
-**Object key:** GAMEPLAY\_SafeContaine
+| Property | Details |
+| --- | --- |
+|  | [Safe](../assets/Safe.png) |
+| Release | TBD |
+| Update | [0.00](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
+| Story item | No |
+| **Container** |  |
+| Capacity | 10.0 kg(22 lbs) |
+| **Advanced data** |  |
+| Object key | GAMEPLAY\_SafeContaine |
 
 A **Safe** is a stationary interactable object that can work as a storage container.
 

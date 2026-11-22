@@ -16,19 +16,14 @@
 
 **Langston Mine**
 
-[Langston Mine Outside Buildings](../assets/Langston_Mine_Outside_Buildings.png)
-
-**Location**
-
-[Langston Mine Location](../assets/Langston_Mine_Location.png)
-
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
-
-[Bed icon](../assets/Bed_icon.png)
-
-[Workbench icon green](../assets/Workbench_icon_green.png)
-
-Has a workbench
+| Property | Details |
+| --- | --- |
+|  | [Langston Mine Outside Buildings](../assets/Langston_Mine_Outside_Buildings.png) |
+| **Location** |  |
+|  | [Langston Mine Location](../assets/Langston_Mine_Location.png) |
+| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
+| [Bed icon](../assets/Bed_icon.png) |  |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
 
 ## Overview
 

@@ -12,35 +12,23 @@
 
 **Bandage**
 
-[Bandage icon](../assets/Bandage_icon.png)
-
-**Release:** [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.094)
-
-**Wintermute:** yes
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [First Aid](./First%20Aid.md)
-
-**Stackable:** Yes
-
-**Examine:** Bandage suitable for stopping blood loss or binding to constrict movement on an injury.
-
-**Values**
-
-**Weight:** 0.10 kg (0.22 lbs)
-
-**Decay Rate**
-
-**Inside:** 0% per day
-
-**Outside:** 0% per day
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_Bandage
+| Property | Details |
+| --- | --- |
+|  | [Bandage icon](../assets/Bandage_icon.png) |
+| Release | [22 August 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.094) |
+| Wintermute | yes |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [First Aid](./First%20Aid.md)\|- |
+| Stackable | Yes |
+| Examine | Bandage suitable for stopping blood loss or binding to constrict movement on an injury. |
+| **Values** |  |
+| Weight | 0.10 kg (0.22 lbs) |
+| **Decay Rate** |  |
+| Inside | 0% per day |
+| Outside | 0% per day |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Bandage |
 
 A **Bandage** is a [First Aid](./First%20Aid.md) cloth used for stopping bleeding or limb immobilization in _[The Long Dark](./The%20Long%20Dark.md)_.
 

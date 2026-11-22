@@ -4,19 +4,15 @@
 
 **Wedge Cave**
 
-[Wedge Cave](../assets/Wedge_Cave.jpg)
-
-**Location**
-
-[Wedge Cave Location](../assets/Wedge_Cave_Location.png)
-
-Region
-
-**Location:** In the region's eastern rock wall, near the road
-
-**General**
-
-**Type:** Cave
+| Property | Details |
+| --- | --- |
+|  | [Wedge Cave](../assets/Wedge_Cave.jpg) |
+| **Location** |  |
+|  | [Wedge Cave Location](../assets/Wedge_Cave_Location.png) |
+| Region |  |
+| Location | In the region's eastern rock wall, near the road |
+| **General** |  |
+| Type | Cave\|- |
 
 ## Gallery
 

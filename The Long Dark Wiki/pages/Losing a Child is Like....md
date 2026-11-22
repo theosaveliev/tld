@@ -4,9 +4,10 @@
 
 **Losing a Child is Like...**
 
-[Losing a Child is Like... icon](../assets/Losing_a_Child_is_Like..._icon.png)
-
-**Description:** Complete Lily's Story.
+| Property | Details |
+| --- | --- |
+|  | [Losing a Child is Like... icon](../assets/Losing_a_Child_is_Like..._icon.png) |
+| Description | Complete Lily's Story. |
 
 **Losing a Child is Like...** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -26,4 +27,4 @@ Grey Mother - "like losing your whole life."
 
 \* UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
 
-  - Added to game.
+- Added to game.

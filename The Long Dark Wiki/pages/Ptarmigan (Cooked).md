@@ -11,31 +11,21 @@
 
 **Ptarmigan (Cooked)**
 
-[Ptarmigan (Cooked) icon](../assets/Ptarmigan_%28Cooked%29_icon.png)
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** Cooked flesh from a Ptarmigan.
-
-**Values**
-
-**Calories:** 450 kcal
-
-**Hydration:** -5%
-
-**Weight:** 1.00 kg (2.2 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_PtarmiganCooked
+| Property | Details |
+| --- | --- |
+|  | [Ptarmigan (Cooked) icon](../assets/Ptarmigan_%28Cooked%29_icon.png) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Cooked flesh from a Ptarmigan. |
+| **Values** |  |
+| Calories | 450 kcal |
+| Hydration | -5% |
+| Weight | 1.00 kg (2.2 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_PtarmiganCooked |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

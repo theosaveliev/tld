@@ -4,27 +4,19 @@
 
 **Tearful Letter**
 
-[Tearful Letter icon](../assets/Tearful_Letter_icon.png)
-
-**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Handwritten letter. Blotchy ink suggests whoever wrote it did so while crying.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Tearful Letter icon](../assets/Tearful_Letter_icon.png) |
+| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Handwritten letter. Blotchy ink suggests whoever wrote it did so while crying. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Tearful Letter** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) inside the abandoned Milton house next to the [Bank Manager's House](./Bank%20Manager%27s%20House.md).
 

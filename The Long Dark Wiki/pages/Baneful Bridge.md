@@ -4,12 +4,10 @@
 
 **Baneful Bridge**
 
-[Baneful Bridge](../assets/Baneful_Bridge.jpg)
-
-**Location**
-
-[Baneful Bridge Location](../assets/Baneful_Bridge_Location.png)
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**General**
+| Property | Details |
+| --- | --- |
+|  | [Baneful Bridge](../assets/Baneful_Bridge.jpg) |
+| **Location** |  |
+|  | [Baneful Bridge Location](../assets/Baneful_Bridge_Location.png) |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| **General** |  |

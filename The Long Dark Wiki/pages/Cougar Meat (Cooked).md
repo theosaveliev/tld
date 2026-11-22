@@ -10,39 +10,25 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Cougar Meat (Cooked)**
 
-[Cougar Meat (Cooked) icon](../assets/Cougar_Meat_%28Cooked%29_icon.png)
-
-**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** Cooked flesh from a Cougar.
-
-**Values**
-
-**Calories:** 800 kcal
-
-**Hydration:** -5%
-
-**[Vitamin C](./Scurvy.md):** 0
-
-**Weight:** 1.00 kg (2.2 lbs)
-
-**Decay Rate**
-
-**Inside:** 1.00% per day
-
-**Outside:** 0.10% per day
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_CookedMeatCougar
+| Property | Details |
+| --- | --- |
+|  | [Cougar Meat (Cooked) icon](../assets/Cougar_Meat_%28Cooked%29_icon.png) |
+| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Cooked flesh from a Cougar. |
+| **Values** |  |
+| Calories | 800 kcal |
+| Hydration | -5% |
+| [Vitamin C](./Scurvy.md) | 0 |
+| Weight | 1.00 kg (2.2 lbs) |
+| **Decay Rate** |  |
+| Inside | 1.00% per day |
+| Outside | 0.10% per day |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_CookedMeatCougar |
 
 _For the raw version, see [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)._
 

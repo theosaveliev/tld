@@ -4,15 +4,13 @@
 
 **Smoker's Cave**
 
-[Smoker's Cave](../assets/Smoker%27s_Cave.jpg)
-
-**Location**
-
-[Smoker's Cave Location](../assets/Smoker%27s_Cave_Location.png)
-
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
-
-Provides some shelter **Smoker's Cave** is an unmarked cave in the [Zone of Contamination](./Zone%20of%20Contamination.md).
+| Property | Details |
+| --- | --- |
+|  | [Smoker's Cave](../assets/Smoker%27s_Cave.jpg) |
+| **Location** |  |
+|  | [Smoker's Cave Location](../assets/Smoker%27s_Cave_Location.png) |
+| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
+|  | Provides some shelter / **Smoker's Cave** is an unmarked cave in the [Zone of Contamination](./Zone%20of%20Contamination.md). |
 
 ## Overview
 

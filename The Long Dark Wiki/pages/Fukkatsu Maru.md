@@ -4,19 +4,15 @@
 
 **Fukkatsu Maru**
 
-[Fukkatsu Maru](../assets/Fukkatsu_Maru.jpg)
-
-**Location**
-
-Region
-
-**Description:** An abandoned Japanese shipwreck stuck in the ice
-
-**General**
-
-Has no shelter
-
-**Missions:** [A Cry For Help](./A%20Cry%20For%20Help.md)
+| Property | Details |
+| --- | --- |
+|  | [Fukkatsu Maru](../assets/Fukkatsu_Maru.jpg) |
+| **Location** |  |
+| Region |  |
+| Description | An abandoned Japanese shipwreck stuck in the ice |
+| **General** |  |
+|  | Has no shelter\|- |
+| Missions | [A Cry For Help](./A%20Cry%20For%20Help.md) |
 
 The **Fukkatsu Maru** is an abandoned Japanese cargo ship that became trapped in ice after drifting into [Desperation Bay](./Desperation%20Bay.md). It is explored during the mission [A Cry For Help](./A%20Cry%20For%20Help.md).
 

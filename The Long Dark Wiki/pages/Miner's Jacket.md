@@ -4,31 +4,21 @@
 
 **Miner's Jacket**
 
-[Miner's Jacket icon](../assets/Miner%27s_Jacket_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-Clothing Slot
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)50%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)4%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
-
-**Harvest:** 2 × [Cloth](./Cloth.md) 20 minutes
-
-**Repair:** 2 × [Cloth](./Cloth.md) 60 minutes 35% condition
+| Property | Details |
+| --- | --- |
+|  | [Miner's Jacket icon](../assets/Miner%27s_Jacket_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot |  |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)50% |
+| Protection | [Protection icon](../assets/Protection_icon.png)4% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-5% |
+| Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
+| Repair | 2 × [Cloth](./Cloth.md) / 60 minutes / 35% condition |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -52,6 +42,6 @@ The **Miner's Jacket** is a unique [Clothing](./Clothing.md) jacket found in var
 
 \* UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
 
-  - Added to game.
+- Added to game.
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added new icon.

@@ -14,31 +14,21 @@ _For the raw version, see [Venison (Raw)](./Venison%20%28Raw%29.md)._
 
 **Venison (Cooked)**
 
-[Venison (Cooked) icon](../assets/Venison_%28Cooked%29_icon.png)
-
-**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** Cooked flesh from a deer.
-
-**Values**
-
-**Calories:** 800 kcal
-
-**Hydration:** -5.0%
-
-**Weight:** 1.00 kg (2.2 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_VenisonCooked
+| Property | Details |
+| --- | --- |
+|  | [Venison (Cooked) icon](../assets/Venison_%28Cooked%29_icon.png) |
+| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Cooked flesh from a deer. |
+| **Values** |  |
+| Calories | 800 kcal |
+| Hydration | -5.0% |
+| Weight | 1.00 kg (2.2 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_VenisonCooked |
 
 **Venison (Cooked)** is a cooked food item in _The Long Dark_.
 

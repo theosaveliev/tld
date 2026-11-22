@@ -4,29 +4,20 @@
 
 **Ptarmigan Down**
 
-[Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png)
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Wintermute:** No
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [Materials](./Materials.md)
-
-**Stackable:** Yes
-
-**Examine:** Feathers harvested from a Ptarmigan. Can be used for crafting and gear improvements.
-
-**Values**
-
-**Weight:** 0.01 kg (0.02 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_PtarmiganDown
+| Property | Details |
+| --- | --- |
+|  | [Ptarmigan Down icon](../assets/Ptarmigan_Down_icon.png) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [Materials](./Materials.md)\|- |
+| Stackable | Yes |
+| Examine | Feathers harvested from a Ptarmigan. Can be used for crafting and gear improvements. |
+| **Values** |  |
+| Weight | 0.01 kg (0.02 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_PtarmiganDown |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

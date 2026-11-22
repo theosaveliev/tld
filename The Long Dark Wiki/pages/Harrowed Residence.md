@@ -4,14 +4,11 @@
 
 **Harrowed Residence**
 
-[Harrowed Residence](../assets/Harrowed_Residence.jpg)
-
-**Location**
-
-[Harrowed Residence Location](../assets/Harrowed_Residence_Location.png)
-
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
-
-**Description:** A burned down trailer tucked away in the mountains
-
-**General**
+| Property | Details |
+| --- | --- |
+|  | [Harrowed Residence](../assets/Harrowed_Residence.jpg) |
+| **Location** |  |
+|  | [Harrowed Residence Location](../assets/Harrowed_Residence_Location.png) |
+| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
+| Description | A burned down trailer tucked away in the mountains |
+| **General** |  |

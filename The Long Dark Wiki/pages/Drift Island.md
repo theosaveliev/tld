@@ -4,19 +4,15 @@
 
 **Drift Island**
 
-[Drift Island](../assets/Drift_Island.png)
-
-**Location**
-
-[Drift Island Location](../assets/Drift_Island_Location.png)
-
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
-
-**Description:** A tall island in a lake.
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Drift Island](../assets/Drift_Island.png) |
+| **Location** |  |
+|  | [Drift Island Location](../assets/Drift_Island_Location.png) |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| Description | A tall island in a lake. |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Overview
 

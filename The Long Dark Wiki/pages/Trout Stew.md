@@ -17,37 +17,24 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Trout Stew**
 
-[Trout Stew icon](../assets/Trout_Stew_icon.png)
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Wintermute:** No
-
-**Renewable:** Yes ([Trader](./Trader.md))
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Values**
-
-**Calories:** 750 (938) kcal
-
-**Hydration:** 3%
-
-**[Vitamin C](./Scurvy.md):** Minor (17%)
-
-**Weight:** 0.35 kg (0.77 lbs)
-
-**Decay Rate**
-
-**Inside:** 20.000% per day
-
-**Outside:** 5.000% per day
-
-**Advanced data**
-
-**Item key:** GEAR\_CookedStewTrout
+| Property | Details |
+| --- | --- |
+|  | [Trout Stew icon](../assets/Trout_Stew_icon.png) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| Renewable | Yes ([Trader](./Trader.md)) |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| **Values** |  |
+| Calories | 750 (938) kcal |
+| Hydration | 3% |
+| [Vitamin C](./Scurvy.md) | Minor (17%) |
+| Weight | 0.35 kg (0.77 lbs) |
+| **Decay Rate** |  |
+| Inside | 20.000% per day |
+| Outside | 5.000% per day |
+| **Advanced data** |  |
+| Item key | GEAR\_CookedStewTrout |
 
 **Trout Stew** is a food item in _The Long Dark_ and is made with a [Cooking Pot](./Cooking%20Pot.md).
 

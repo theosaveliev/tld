@@ -11,23 +11,16 @@
 
 **Foreman's Retreat**
 
-[20201212120850 1](../assets/20201212120850_1.jpg)
-
-**Location**
-
-[Foreman's Retreat Location](../assets/Foreman%27s_Retreat_Location.png)
-
-**Region:** [Ash Canyon](./Ash%20Canyon.md)
-
-**General**
-
-**Type:** Residential
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Has an interior **Foreman's Retreat** is a one-story, two-room house located in [Ash Canyon](./Ash%20Canyon.md) not far from [Miner's Folly](./Miner%27s%20Folly.md).
+| Property | Details |
+| --- | --- |
+|  | [20201212120850 1](../assets/20201212120850_1.jpg) |
+| **Location** |  |
+|  | [Foreman's Retreat Location](../assets/Foreman%27s_Retreat_Location.png) |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| **General** |  |
+| Type | Residential\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior / **Foreman's Retreat** is a one-story, two-room house located in [Ash Canyon](./Ash%20Canyon.md) not far from [Miner's Folly](./Miner%27s%20Folly.md). |
 
 ## Overview
 

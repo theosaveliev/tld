@@ -4,19 +4,15 @@
 
 **Aftermath**
 
-[Missions story ep3 Aftermath](../assets/Missions_story_ep3_Aftermath.png)
-
-**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
-
-**Previous:** [Coming Storm](./Coming%20Storm.md)
-
-**Current:** Aftermath
-
-**Next:** [Prologue](./Prologue.md)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**Characters:** [Astrid](./Astrid%20Greenwood.md) [Molly](./Molly.md) [Radio Voice Man](./Characters.md#Radio_Voice_Man) [Will Mackenzie](./Will%20Mackenzie.md) [Father Thomas](./Father%20Thomas.md) (ending cameo)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep3 Aftermath](../assets/Missions_story_ep3_Aftermath.png) |
+| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Previous | [Coming Storm](./Coming%20Storm.md) |
+| Current | Aftermath |
+| Next | [Prologue](./Prologue.md) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
+| Characters | [Astrid](./Astrid%20Greenwood.md) [Molly](./Molly.md) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) / [Will Mackenzie](./Will%20Mackenzie.md) / [Father Thomas](./Father%20Thomas.md) (ending cameo) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

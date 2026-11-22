@@ -4,29 +4,20 @@
 
 **Lost Worker's Note**
 
-[Lost Worker's Note icon](../assets/Lost_Worker%27s_Note_icon.png)
-
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
-
-**Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Lost Power Workers](./Lost%20Power%20Workers.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Note written by a lost and confused worker.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Lost Worker's Note icon](../assets/Lost_Worker%27s_Note_icon.png) |
+| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Lost Power Workers](./Lost%20Power%20Workers.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Note written by a lost and confused worker. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Lost Worker's Note** is a [Collectible](./Collectibles.md) found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story as part of the [Lost Power Workers](./Lost%20Power%20Workers.md) side mission. It is found on the corpse of worker 2 in the ravine.
 

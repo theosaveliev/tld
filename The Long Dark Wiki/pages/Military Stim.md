@@ -18,21 +18,16 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Military Stim**
 
-[Military Stim icon](../assets/Military_Stim_icon.png)
-
-**Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
-
-**Properties**
-
-**Item type:** [First Aid](./First%20Aid.md)
-
-**Stackable:** No
-
-**Examine:** Experimental Military Stim - Test # 2.003 Caution: Use only in extreme circumstances to restore Condition.
-
-**Values**
-
-**Weight:** 0.10 kg (0.22 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Military Stim icon](../assets/Military_Stim_icon.png) |
+| Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
+| **Properties** |  |
+| Item type | [First Aid](./First%20Aid.md)\|- |
+| Stackable | No |
+| Examine | Experimental Military Stim - Test # 2.003 Caution: Use only in extreme circumstances to restore Condition. |
+| **Values** |  |
+| Weight | 0.10 kg (0.22 lbs) |
 
 A **Military Stim** is a [First Aid](./First%20Aid.md) item found exclusively in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) in the [Wintermute](./Wintermute.md) story of [_The Long Dark_](./The%20Long%20Dark.md).
 
@@ -61,4 +56,4 @@ There are also some found near the SAR Station, useful for the return trip back 
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**
 
-  - Added to game.
+- Added to game.

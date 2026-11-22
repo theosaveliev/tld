@@ -4,19 +4,15 @@
 
 **Shoulder Lake**
 
-[Shoulder Lake Airplane](../assets/Shoulder_Lake_Airplane.png)
-
-**Location**
-
-[Shoulder Lake Location](../assets/Shoulder_Lake_Location.png)
-
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
-
-**Description:** A large lake containing a few islands.
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Shoulder Lake Airplane](../assets/Shoulder_Lake_Airplane.png) |
+| **Location** |  |
+|  | [Shoulder Lake Location](../assets/Shoulder_Lake_Location.png) |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| Description | A large lake containing a few islands. |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Overview
 

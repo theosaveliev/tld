@@ -84,3 +84,5 @@ The large red toolboxes has two small drawers and one large drawer. They often y
 ### Dressers
 
 Dressers are found in many residential homes, in the bedroom. They have six drawers, but three are broken and cannot be searched. They often yield [Clothing](./Clothing.md) items and have a storage capacity of 5.00kg. Sometimes, loose spawn items can be found inside the open drawers.
+
+### Vertical Dressers

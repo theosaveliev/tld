@@ -19,33 +19,22 @@
 
 **Heller**
 
-[Heller](../assets/Heller.png)
-
-**Release:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
-
-**Date:** 6 October 2021
-
-**Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
-
-**Location(s):** [Blackrock Prison](./Blackrock%20Prison.md)
-
-**Biographical Information**
-
-**Age:** 20's - 30's
-
-**Status:** Alive
-
-**Occupation:** Criminal
-
-**Physical Information**
-
-**Hair:** Black
-
-**Eyes:** Brown
-
-**Game Information**
-
-**Voiced by:** Jordan Waunch
+| Property | Details |
+| --- | --- |
+|  | [Heller](../assets/Heller.png) |
+| Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Date | 6 October 2021 |
+| Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
+| Location(s) | [Blackrock Prison](./Blackrock%20Prison.md) |
+| **Biographical Information** |  |
+| Age | 20's - 30's |
+| Status | Alive |
+| Occupation | Criminal |
+| **Physical Information** |  |
+| Hair | Black |
+| Eyes | Brown |
+| **Game Information** |  |
+| Voiced by | Jordan Waunch |
 
 > “__Heller: Mathis said to give you this.  
  Mackenzie: That doesn't look like a coat...It's...cold out here. I won't find the dam if I freeze before I get there.__”

@@ -17,17 +17,14 @@
 
 **Buried Echoes**
 
-[Tales objectives 02 BuriedEchoes](../assets/Tales_objectives_02_BuriedEchoes.png)
-
-**Missions**
-
-**Previous:** [Signal Void](./Signal%20Void.md)
-
-**Current:** Buried Echoes
-
-**Next:** [Last Horizon](./Last%20Horizon.md)
-
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
+| Property | Details |
+| --- | --- |
+|  | [Tales objectives 02 BuriedEchoes](../assets/Tales_objectives_02_BuriedEchoes.png) |
+| **Missions** |  |
+| Previous | [Signal Void](./Signal%20Void.md) |
+| Current | Buried Echoes |
+| Next | [Last Horizon](./Last%20Horizon.md) |
+| Region | [Zone of Contamination](./Zone%20of%20Contamination.md) |
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

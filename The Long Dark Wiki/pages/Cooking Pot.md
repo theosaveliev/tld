@@ -12,31 +12,21 @@
 
 **Cooking Pot**
 
-[Cooking Pot icon](../assets/Cooking_Pot_icon.png)
-
-**Release:** [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)
-
-**Wintermute:** No
-
-**Renewable:** No
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** A sturdy pot for melting snow, boiling water, and cooking food.
-
-**Values**
-
-**Weight:** 1.00 kg (2.2 lbs)
-
-**Actions**
-
-**Backpack:** Use, Actions, Drop
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Cooking Pot icon](../assets/Cooking_Pot_icon.png) |
+| Release | [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33) |
+| Wintermute | No |
+| Renewable | No |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | A sturdy pot for melting snow, boiling water, and cooking food. |
+| **Values** |  |
+| Weight | 1.00 kg (2.2 lbs) |
+| **Actions** |  |
+| Backpack | Use, Actions, Drop |
+| On ground | Take It, Leave It |
 
 A **Cooking Pot** is a tool primarily used for melting snow, boiling water, and [Cooking](./Cooking.md) food. A cooking pot will reduce the amount of time required for food inside it to cook by **20%** and will allow for the creation of broths, stews, and porridges that cannot be cooked directly by the fire.
 

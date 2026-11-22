@@ -4,12 +4,10 @@
 
 **Bunkhouses**
 
-[Forlorn Muskeg Bunkhouses](../assets/Forlorn_Muskeg_Bunkhouses.jpg)
-
-**Location**
-
-[Bunkhouses Location](../assets/Bunkhouses_Location.png)
-
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Forlorn Muskeg Bunkhouses](../assets/Forlorn_Muskeg_Bunkhouses.jpg) |
+| **Location** |  |
+|  | [Bunkhouses Location](../assets/Bunkhouses_Location.png) |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
+| Type | Outdoors\|- |

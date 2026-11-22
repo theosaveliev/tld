@@ -42,13 +42,12 @@
 
 **Sutherland's Tale**
 
-[Trader Journal Background](../assets/Trader_Journal_Background.png)
-
-**Missions**
-
-**Previous:** [Last Horizon](./Last%20Horizon.md)
-
-**Current:** Sutherland's Tale
+| Property | Details |
+| --- | --- |
+|  | [Trader Journal Background](../assets/Trader_Journal_Background.png) |
+| **Missions** |  |
+| Previous | [Last Horizon](./Last%20Horizon.md) |
+| Current | Sutherland's Tale |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -625,6 +624,6 @@ Trader: "Not sure what you mean? I forget things sometimes...best to leave it al
 ---
 
 [^1]: 
-[^2]: Bashrobe, 2025. Trader Guide - The Long Dark. [https://youtu.be/J7b\_xItDkdg?si=MOU\_hzZ7JtnMMEtu&amp;t=631](https://youtu.be/J7b_xItDkdg?si=MOU_hzZ7JtnMMEtu&t=631)
+[^2]: Bashrobe, 2025. Trader Guide - The Long Dark. [https://youtu.be/J7b\_xItDkdg?si=MOU\_hzZ7JtnMMEtu&t=631](https://youtu.be/J7b_xItDkdg?si=MOU_hzZ7JtnMMEtu&t=631)
 [^3]: 
 [^4]:

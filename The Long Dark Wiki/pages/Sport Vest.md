@@ -4,31 +4,21 @@
 
 **Sport Vest**
 
-[Sport Vest icon](../assets/Sport_Vest_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Outer torso
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)5%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)1%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** 1 × [Cloth](./Cloth.md) 20 minutes
-
-**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 25% condition
+| Property | Details |
+| --- | --- |
+|  | [Sport Vest icon](../assets/Sport_Vest_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Outer torso |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)5% |
+| Protection | [Protection icon](../assets/Protection_icon.png)1% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | 1 × [Cloth](./Cloth.md) / 20 minutes |
+| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition |
 
 > “**Light synthetic vest used by runners. Allows great upper body mobility and a tiny bit of warmth.**”
 >

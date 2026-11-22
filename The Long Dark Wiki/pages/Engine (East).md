@@ -4,19 +4,15 @@
 
 **Engine (East)**
 
-[Engine Timberwolf Mountain location](../assets/Engine_-_Timberwolf_Mountain_location.jpg)
-
-**Location**
-
-[Engine (East) Location](../assets/Engine_%28East%29_Location.png)
-
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
-
-**Description:** An engine from the crashed aircraft with several [Cargo Containers](./Cargo%20Container.md) nearby
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Engine Timberwolf Mountain location](../assets/Engine_-_Timberwolf_Mountain_location.jpg) |
+| **Location** |  |
+|  | [Engine (East) Location](../assets/Engine_%28East%29_Location.png) |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| Description | An engine from the crashed aircraft with several [Cargo Containers](./Cargo%20Container.md) nearby |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

@@ -14,19 +14,15 @@
 
 **Hatchet**
 
-[Hatchet icon](../assets/Hatchet_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
-
-**Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 1 × [Fir Firewood](./Fir%20Firewood.md) 1 hour
-
-**Repair:** [Whetstone](./Whetstone.md) 12-5 minutes 3%-5%
+| Property | Details |
+| --- | --- |
+|  | [Hatchet icon](../assets/Hatchet_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
+| Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) / 1 × [Fir Firewood](./Fir%20Firewood.md) / 1 hour |
+| Repair | [Whetstone](./Whetstone.md) 12-5 minutes / 3%-5% |
 
 _For the improvised variant, see [Improvised Hatchet](./Improvised%20Hatchet.md)._
 

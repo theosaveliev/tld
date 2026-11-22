@@ -4,9 +4,10 @@
 
 **Finely Tuned**
 
-[Finely Tuned icon](../assets/Finely_Tuned_icon.png)
-
-**Description:** Complete “To SAR and Back” without using more than 50 pieces of coal.
+| Property | Details |
+| --- | --- |
+|  | [Finely Tuned icon](../assets/Finely_Tuned_icon.png) |
+| Description | Complete “To SAR and Back” without using more than 50 pieces of coal. |
 
 **Finely Tuned** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[Wintermute](./Wintermute.md)_ [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -35,4 +36,4 @@ Another way is to use neutral and second gear mainly, and use first gear only to
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**
 
-  - Added to game.
+- Added to game.

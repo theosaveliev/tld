@@ -4,17 +4,14 @@
 
 **Destroyed Lookout**
 
-[Destroyed lookout](../assets/Destroyed_lookout.jpg)
-
-**Location**
-
-[Destroyed Lookout Location](../assets/Destroyed_Lookout_Location.png)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Destroyed lookout](../assets/Destroyed_lookout.jpg) |
+| **Location** |  |
+|  | [Destroyed Lookout Location](../assets/Destroyed_Lookout_Location.png) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Overview
 

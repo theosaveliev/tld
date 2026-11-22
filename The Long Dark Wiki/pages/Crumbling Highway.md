@@ -4,21 +4,16 @@
 
 **Crumbling Highway**
 
-[RegionAtlas resources.assets 562 (3)](../assets/RegionAtlas-resources.assets-562_%283%29.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[Crumbling Highway Location](../assets/Crumbling_Highway_Location.png)
-
-[Old Island Connector map](../assets/Old_Island_Connector_map.png)
-
-**Details**
-
-**Description:** A transition zone between [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md) featuring the ruins of the [Great Bear Highway](./Great%20Bear%20Highway.md).
-
-**Connecting Regions:** [Coastal Highway](./Coastal%20Highway.md), [Desolation Point](./Desolation%20Point.md)
-
-**Locations:** 5
+| Property | Details |
+| --- | --- |
+|  | [RegionAtlas resources.assets 562 (3)](../assets/RegionAtlas-resources.assets-562_%283%29.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [Crumbling Highway Location](../assets/Crumbling_Highway_Location.png) |
+|  | [Old Island Connector map](../assets/Old_Island_Connector_map.png) |
+| **Details** |  |
+| Description | A transition zone between [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md) featuring the ruins of the [Great Bear Highway](./Great%20Bear%20Highway.md). |
+| Connecting Regions | [Coastal Highway](./Coastal%20Highway.md), / [Desolation Point](./Desolation%20Point.md) |
+| Locations | 5 |
 
 **Crumbling Highway** (also known as the **Old Island Connector**) is the 3rd Transition Zone [Region](./Region.md) released for _[The Long Dark](./The%20Long%20Dark.md)_. It connects [Coastal Highway](./Coastal%20Highway.md) and [Desolation Point](./Desolation%20Point.md). It is the smallest outdoor map in the game.
 

@@ -4,19 +4,15 @@
 
 **Suzuki Environs**
 
-[No picture](../assets/No_picture.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[No picture](../assets/No_picture.png)
-
-[Suzuki Region In Game Map](../assets/Suzuki_Region_In-Game_Map.png)
-
-**Details**
-
-**Description:** A mountain region housing the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) and a small parking lot.
-
-**Date Added:** 31 March 2026
+| Property | Details |
+| --- | --- |
+|  | [No picture](../assets/No_picture.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [No picture](../assets/No_picture.png) |
+|  | [Suzuki Region In Game Map](../assets/Suzuki_Region_In-Game_Map.png) |
+| **Details** |  |
+| Description | A mountain region housing the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md) and a small parking lot. |
+| Date Added | 31 March 2026 |
 
 The **Suzuki Enviorns** is a [Wintermute](./Wintermute.md)-exclusive region, which consists solely of the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md). It can be accessed by the nearby [Blackrock Foothills](./Blackrock%20Foothills.md), and eventually leads out to the [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md).
 

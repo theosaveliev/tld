@@ -10,21 +10,16 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Shotgun Shell Casing**
 
-[Shotgun Shell Casing icon](../assets/Shotgun_Shell_Casing_icon.png)
-
-**Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** Yes
-
-**Examine:** Empty casing from firing a Shotgun Slug. Used for Crafting new Ammunition
-
-**Values**
-
-**Weight:** 0.01 kg (0.02 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Shotgun Shell Casing icon](../assets/Shotgun_Shell_Casing_icon.png) |
+| Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | Yes |
+| Examine | Empty casing from firing a Shotgun Slug. Used for Crafting new Ammunition |
+| **Values** |  |
+| Weight | 0.01 kg (0.02 lbs) |
 
 A **Shotgun** **Shell Casing** is a [Materials](./Materials.md) item found exclusively in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) in the [Wintermute](./Wintermute.md) story.
 
@@ -38,4 +33,4 @@ Currently, there is no option to reuse the casing to produce more Slugs, since a
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**
 
-  - Added to game.
+- Added to game.

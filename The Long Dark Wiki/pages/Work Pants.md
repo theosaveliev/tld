@@ -4,31 +4,21 @@
 
 **Work Pants**
 
-[Work Pants icon](../assets/Work_Pants_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Outer legs
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)10%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)8%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-3%
-
-**Harvest:** 1 × [Cloth](./Cloth.md) 30 minutes
-
-**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 30% condition
+| Property | Details |
+| --- | --- |
+|  | [Work Pants icon](../assets/Work_Pants_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Outer legs |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)10% |
+| Protection | [Protection icon](../assets/Protection_icon.png)8% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-3% |
+| Harvest | 1 × [Cloth](./Cloth.md) / 30 minutes |
+| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 30% condition |
 
 > “**A heavier duty type of jean, with some reinforced patches. Worn by construction workers the world round.**”
 >

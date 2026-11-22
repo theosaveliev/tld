@@ -14,13 +14,12 @@
 
 **Extra Supplies**
 
-[One of the rewards for this mission is a Mackinaw Jacket](../assets/Mackinaw_Jacket_icon.png) _One of the rewards for this mission is a [Mackinaw Jacket](./Mackinaw%20Jacket.md)_
-
-**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Current:** Extra Supplies
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
+| Property | Details |
+| --- | --- |
+|  | [One of the rewards for this mission is a Mackinaw Jacket](../assets/Mackinaw_Jacket_icon.png) / _One of the rewards for this mission is a [Mackinaw Jacket](./Mackinaw%20Jacket.md)_ |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
+| Current | Extra Supplies |
+| Region | [Mountain Town](./Mountain%20Town.md) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

@@ -4,9 +4,10 @@
 
 **He Lives**
 
-[He Lives icon](../assets/He_Lives_icon.png)
-
-**Description:** Intercept the Radio transmission.
+| Property | Details |
+| --- | --- |
+|  | [He Lives icon](../assets/He_Lives_icon.png) |
+| Description | Intercept the Radio transmission. |
 
 **He Lives** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

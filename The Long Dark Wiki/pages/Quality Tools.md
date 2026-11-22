@@ -4,19 +4,15 @@
 
 **Quality Tools**
 
-[Quality Tools icon](../assets/Quality_Tools_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
-
-**Harvest:** 3 × [Scrap Metal](./Scrap%20Metal.md) 1 hour
-
-**Repair:** 1 × [Scrap Metal](./Scrap%20Metal.md) 20% Condition 2 hours
+| Property | Details |
+| --- | --- |
+|  | [Quality Tools icon](../assets/Quality_Tools_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
+| Harvest | 3 × [Scrap Metal](./Scrap%20Metal.md) 1 hour |
+| Repair | 1 × [Scrap Metal](./Scrap%20Metal.md) 20% Condition / 2 hours |
 
 > “**Good quality tools for crafting and repair.**”
 >
@@ -70,6 +66,6 @@ Quality Tools are needed to craft the following item
 
 \* unknown date
 
-  - Added to game.
+- Added to game.
 - UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)):**
   - Item received a new model

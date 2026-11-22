@@ -73,3 +73,5 @@ Dying of thirst takes 2 days at 100% condition, meaning death results twice as f
 - "I need something to drink!"
 - "I'd drink almost anything right about now..."
 - (Dry lip smacking sounds)
+
+## Trivia

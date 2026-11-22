@@ -4,21 +4,16 @@
 
 **Creek Bed Cave**
 
-[Creek Bed Cave](../assets/Creek_Bed_Cave.jpg)
-
-**Location**
-
-[Creek Bed Cave Location](../assets/Creek_Bed_Cave_Location.png)
-
-Region
-
-**Location:** West of Narrow Bridge, in the region's boundary rock wall
-
-**General**
-
-**Type:** Cave
-
-Provides some shelter **Creek Bed Cave** is a small cave located in [Blackrock](./Blackrock.md), near the region's southwestern-most point.
+| Property | Details |
+| --- | --- |
+|  | [Creek Bed Cave](../assets/Creek_Bed_Cave.jpg) |
+| **Location** |  |
+|  | [Creek Bed Cave Location](../assets/Creek_Bed_Cave_Location.png) |
+| Region |  |
+| Location | West of Narrow Bridge, in the region's boundary rock wall |
+| **General** |  |
+| Type | Cave\|- |
+|  | Provides some shelter / **Creek Bed Cave** is a small cave located in [Blackrock](./Blackrock.md), near the region's southwestern-most point. |
 
 ## Overview
 

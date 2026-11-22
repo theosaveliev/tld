@@ -12,31 +12,21 @@
 
 **Recycled Can**
 
-[Recycled Can icon](../assets/Recycled_Can_icon.png)
-
-**Release:** [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33)
-
-**Wintermute:** No
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** A basic container for melting snow, boiling water, and cooking food.
-
-**Values**
-
-**Weight:** 0.15 kg (0.33 lbs)
-
-**Actions**
-
-**Backpack:** Use, Actions, Drop
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Recycled Can icon](../assets/Recycled_Can_icon.png) |
+| Release | [14 June 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.33) |
+| Wintermute | No |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | A basic container for melting snow, boiling water, and cooking food. |
+| **Values** |  |
+| Weight | 0.15 kg (0.33 lbs) |
+| **Actions** |  |
+| Backpack | Use, Actions, Drop |
+| On ground | Take It, Leave It |
 
 A **Recycled Can** is a tool that players used primarily for melting snow, boiling water, and cooking [canned goods](./Cooking.md#Canned) and [drinks](./Cooking.md#Drinks).
 

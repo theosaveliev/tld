@@ -4,19 +4,15 @@
 
 **Hunter's Blind**
 
-[Hunters blind2](../assets/Hunters_blind2.jpg)
-
-**Location**
-
-[Hunter's Blind Location](../assets/Hunter%27s_Blind_Location.png)
-
-**Region:** [Broken Railroad](./Broken%20Railroad.md)
-
-**Description:** A [Hunters Blind](./Hunter%27s%20Blinds.md) overlooking a lake
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Hunters blind2](../assets/Hunters_blind2.jpg) |
+| **Location** |  |
+|  | [Hunter's Blind Location](../assets/Hunter%27s_Blind_Location.png) |
+| Region | [Broken Railroad](./Broken%20Railroad.md)\|- |
+| Description | A [Hunters Blind](./Hunter%27s%20Blinds.md) overlooking a lake |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

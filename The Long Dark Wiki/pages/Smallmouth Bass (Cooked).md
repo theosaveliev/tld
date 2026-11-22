@@ -11,33 +11,22 @@
 
 **Smallmouth Bass (Cooked)**
 
-[Smallmouth Bass (Cooked) icon](../assets/Smallmouth_Bass_%28Cooked%29_icon.png)
-
-**Release:** [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** A feast as good for the soul as for the stomach.
-
-**Values**
-
-**Calories:** 1500 kcal
-
-**Hydration:** -5%
-
-**[Vitamin C](./Scurvy.md):** Minor (8%)
-
-**Weight:** 3.3 kg (7.26 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_CookedSmallmouthBass
+| Property | Details |
+| --- | --- |
+|  | [Smallmouth Bass (Cooked) icon](../assets/Smallmouth_Bass_%28Cooked%29_icon.png) |
+| Release | [27 November 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.163) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | A feast as good for the soul as for the stomach. |
+| **Values** |  |
+| Calories | 1500 kcal |
+| Hydration | -5% |
+| [Vitamin C](./Scurvy.md) | Minor (8%) |
+| Weight | 3.3 kg (7.26 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_CookedSmallmouthBass |
 
 _For the raw version, see [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md)._
 

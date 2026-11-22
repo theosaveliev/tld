@@ -11,23 +11,17 @@
 
 **Winding River**
 
-[RegionAtlas resources.assets 562 (5)](../assets/RegionAtlas-resources.assets-562_%285%29.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[Winding River Location](../assets/Winding_River_Location.png)
-
-[Winding River map](../assets/Winding_River_map.png)
-
-**Details**
-
-**Description:** An unremarkable valley located on the other side of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md)
-
-**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Pleasant Valley](./Pleasant%20Valley.md)
-
-**Locations:** 2
-
-**Date Added:** May 21 2015
+| Property | Details |
+| --- | --- |
+|  | [RegionAtlas resources.assets 562 (5)](../assets/RegionAtlas-resources.assets-562_%285%29.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [Winding River Location](../assets/Winding_River_Location.png) |
+|  | [Winding River map](../assets/Winding_River_map.png) |
+| **Details** |  |
+| Description | An unremarkable valley located on the other side of the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) |
+| Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Pleasant Valley](./Pleasant%20Valley.md) |
+| Locations | 2 |
+| Date Added | May 21 2015 |
 
 **Winding River** (also known in-lore as the **Carter River**) is a Transition Zone [Region](./Region.md) behind [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) that connects [Mystery Lake](./Mystery%20Lake%20%28region%29.md) to a [Cave](./Cave%20%28Transition%20Zone%29.md) and then subsequently to [Pleasant Valley](./Pleasant%20Valley.md). It was the 2nd Transition Zone to be released in _[The Long Dark](./The%20Long%20Dark.md)_.
 

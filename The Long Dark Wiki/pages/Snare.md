@@ -11,21 +11,16 @@
 
 **Snare**
 
-[Snare icon](../assets/Snare_icon.png)
-
-**General**
-
-**Item Type:** Item
-
-Wintermute
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
-
-**Harvest:** 10 minutes 1 × [Reclaimed Wood](./Reclaimed%20Wood.md)
-
-**Repair:** Cannot Repair
+| Property | Details |
+| --- | --- |
+|  | [Snare icon](../assets/Snare_icon.png) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute |  |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs) |
+| Harvest | 10 minutes 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| Repair | Cannot Repair |
 
 > “**A simple snare, used to capture small game.**”
 >

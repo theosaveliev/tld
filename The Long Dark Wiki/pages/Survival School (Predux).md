@@ -17,19 +17,15 @@
 
 **Survival School (Predux)**
 
-[The Long Dark episode two survival school](../assets/The_Long_Dark_-_episode_two_-_survival_school.png)
-
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Previous:** [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md)
-
-**Current:** Survival School (Predux)
-
-**Next:** [Jeremiah's Folly](./Jeremiah%27s%20Folly.md)
-
-**Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md)
+| Property | Details |
+| --- | --- |
+|  | [The Long Dark episode two survival school](../assets/The_Long_Dark_-_episode_two_-_survival_school.png) |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md) |
+| Current | Survival School (Predux) |
+| Next | [Jeremiah's Folly](./Jeremiah%27s%20Folly.md) |
+| Region | [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) |
 
 **Template:spoiler**
 > **Jeremiah's guide to surviving the Quiet Apocalypse. Listen to him if you want to live.**

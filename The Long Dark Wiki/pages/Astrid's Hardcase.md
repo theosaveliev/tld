@@ -14,15 +14,13 @@
 
 **Astrid's Hardcase**
 
-[Astrid's Hardcase icon](../assets/Astrid%27s_Hardcase_icon.png)
-
-**General**
-
-**Item Type:** Item
-
-**Wintermute:** Yes
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0 kg(0 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Astrid's Hardcase icon](../assets/Astrid%27s_Hardcase_icon.png) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | Yes\|- |
+| Weight | [Weight icon](../assets/Weight_icon.png)0 kg(0 lbs) |
 
 **Astrid's Hardcase** is a [Tool](./Tools.md) and [Collectible](./Collectibles.md) found throughout most episodes of [Wintermute](./Wintermute.md). It belongs to [Astrid Greenwood](./Astrid%20Greenwood.md) and is one of the main plot points of the Wintermute story.
 

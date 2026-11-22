@@ -4,15 +4,13 @@
 
 **Long Falls**
 
-[Long Falls](../assets/Long_Falls.png)
-
-**Location**
-
-[Long Falls Location](../assets/Long_Falls_Location.png)
-
-**Region:** [Ash Canyon](./Ash%20Canyon.md)
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Long Falls](../assets/Long_Falls.png) |
+| **Location** |  |
+|  | [Long Falls Location](../assets/Long_Falls_Location.png) |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| Type | Landmark\|- |
 
 ## Overview
 

@@ -10,31 +10,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Chemical Poisoning**
 
-[Chemical Poisoning icon](../assets/Chemical_Poisoning_icon.png)
-
-**Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
-
-**Description:** You are poisoned from an environmental hazard. The toxins have temporarily reduced your Condition.
-
-**Properties**
-
-**Type:** Affliction
-
-**Caused By:** Spending time inside a Chemical Hazard
-
-**Effect:** Max condition reduced by 20%
-
-**Duration:** 72 hours
-
-**Treatment**
-
-**Treatment:** 
-
-**Recovery Time:** 72 hours
-
-**Advanced Data**
-
-**Item Key:** GAMEPLAY\_ChemicalPoisoning
+| Property | Details |
+| --- | --- |
+|  | [Chemical Poisoning icon](../assets/Chemical_Poisoning_icon.png) |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Description | You are poisoned from an environmental hazard. The toxins have temporarily reduced your Condition. |
+| **Properties** |  |
+| Type | Affliction |
+| Caused By | Spending time inside a Chemical Hazard |
+| Effect | Max condition reduced by 20% |
+| Duration | 72 hours |
+| **Treatment** |  |
+| Treatment |  |
+| Recovery Time | 72 hours |
+| **Advanced Data** |  |
+| Item Key | GAMEPLAY\_ChemicalPoisoning |
 
 **Chemical Poisoning** is a disease [Affliction](./Afflictions.md) mainly encountered in the [Zone of Contamination](./Zone%20of%20Contamination.md) region of [Great Bear Island](./Great%20Bear%20Island.md) once [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md) is fully enveloped. It was added in the Part 4 Buried Echoes update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon.
 

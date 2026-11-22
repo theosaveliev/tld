@@ -4,27 +4,18 @@
 
 **Final Approach**
 
-[Final Approach Close](../assets/Final_Approach_Close.jpg)
-
-**Location**
-
-[Final Approach Location](../assets/Final_Approach_Location.png)
-
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
-
-**Description:** A rescue helicopter crashed near a frozen pond
-
-**General**
-
-Type
-
-Firebox
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Provides some shelter **Final Approach** is a crashed helicopter in [Forsaken Airfield](./Forsaken%20Airfield.md).
+| Property | Details |
+| --- | --- |
+|  | [Final Approach Close](../assets/Final_Approach_Close.jpg) |
+| **Location** |  |
+|  | [Final Approach Location](../assets/Final_Approach_Location.png) |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| Description | A rescue helicopter crashed near a frozen pond |
+| **General** |  |
+| Type |  |
+| Firebox |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Provides some shelter / **Final Approach** is a crashed helicopter in [Forsaken Airfield](./Forsaken%20Airfield.md). |
 
 ## Overview
 

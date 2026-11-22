@@ -4,9 +4,10 @@
 
 **Dead Wake**
 
-[Dead Wake icon](../assets/Dead_Wake_icon.png)
-
-**Description:** Collect all the writings and personal effects left behind by the ship's crew.
+| Property | Details |
+| --- | --- |
+|  | [Dead Wake icon](../assets/Dead_Wake_icon.png) |
+| Description | Collect all the writings and personal effects left behind by the ship's crew. |
 
 **Dead Wake** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[Wintermute](./Wintermute.md)_ [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -30,4 +31,4 @@ The \* ![Locker Key icon](../assets/Locker_Key_icon.png) [Locker Key](./Locker%2
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**
 
-  - Added to game.
+- Added to game.

@@ -4,21 +4,16 @@
 
 **The Cold, Broken Road**
 
-[Missions story ep5 TheLongBrokenRoad](../assets/Missions_story_ep5_TheLongBrokenRoad.png)
-
-Episode
-
-**Missions**
-
-**Previous:** [A Cry For Help](./A%20Cry%20For%20Help.md)
-
-**Current:** The Cold, Broken Road
-
-**Next:** [High Energy](./High%20Energy.md)
-
-**Region:** [Blackrock Foothills](./Blackrock%20Foothills.md) [Suzuki Environs](./Suzuki%20Environs.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jace](./Jace.md) [Atwood](./Atwood.md)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep5 TheLongBrokenRoad](../assets/Missions_story_ep5_TheLongBrokenRoad.png) |
+| Episode |  |
+| **Missions** |  |
+| Previous | [A Cry For Help](./A%20Cry%20For%20Help.md) |
+| Current | The Cold, Broken Road |
+| Next | [High Energy](./High%20Energy.md) |
+| Region | [Blackrock Foothills](./Blackrock%20Foothills.md) [Suzuki Environs](./Suzuki%20Environs.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jace](./Jace.md) / [Atwood](./Atwood.md) |
 
 > “**Find Atwood.**”
 
@@ -36,3 +31,5 @@ Episode
   - Visit the kitchen and get some rest.
   - Return to the control room.
   - Get ready for the Geothermal Substations mission.
+
+## Trivia

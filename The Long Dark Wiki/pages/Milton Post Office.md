@@ -11,19 +11,15 @@
 
 **Milton Post Office**
 
-[Milton Post Office Front](../assets/Milton_Post_Office_-_Front.jpg)
-
-**Location**
-
-[Milton Post Office Location](../assets/Milton_Post_Office_Location.png)
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
-
-**Description:** A single-room building that was once a post office
-
-**General**
-
-**Type:** Residential
+| Property | Details |
+| --- | --- |
+|  | [Milton Post Office Front](../assets/Milton_Post_Office_-_Front.jpg) |
+| **Location** |  |
+|  | [Milton Post Office Location](../assets/Milton_Post_Office_Location.png) |
+| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Description | A single-room building that was once a post office |
+| **General** |  |
+| Type | Residential\|- |
 
 ## Overview
 

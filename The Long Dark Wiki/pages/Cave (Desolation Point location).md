@@ -4,15 +4,13 @@
 
 **Cave**
 
-[Cave in Desolation Point interior entrance](../assets/Cave_in_Desolation_Point_interior_entrance.jpg)
-
-**Location**
-
-[Cave (Desolation Point location) Location](../assets/Cave_%28Desolation_Point_location%29_Location.png)
-
-**Region:** [Desolation Point](./Desolation%20Point.md)
-
-**Type:** Cave
+| Property | Details |
+| --- | --- |
+|  | [Cave in Desolation Point interior entrance](../assets/Cave_in_Desolation_Point_interior_entrance.jpg) |
+| **Location** |  |
+|  | [Cave (Desolation Point location) Location](../assets/Cave_%28Desolation_Point_location%29_Location.png) |
+| Region | [Desolation Point](./Desolation%20Point.md)\|- |
+| Type | Cave\|- |
 
 ## Overview
 

@@ -21,25 +21,18 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Manufactured Arrow**
 
-[Manufactured Arrow icon](../assets/Manufactured_Arrow_icon.png)
-
-**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Wintermute:** No
-
-**Renewable:** Yes ([Trader](./Trader.md) only)
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** Commercially crafted Arrows made of metal alloy. Heavier, but more deadly and durable.
-
-**Values**
-
-**Weight:** 0.15 kg (0.33 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Manufactured Arrow icon](../assets/Manufactured_Arrow_icon.png) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Wintermute | No |
+| Renewable | Yes ([Trader](./Trader.md) only) |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | Commercially crafted Arrows made of metal alloy. Heavier, but more deadly and durable. |
+| **Values** |  |
+| Weight | 0.15 kg (0.33 lbs) |
 
 **Manufactured Arrows** are non-craftable ammunition items for the [Survival Bow](./Survival%20Bow.md) and its variants.
 

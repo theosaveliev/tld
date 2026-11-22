@@ -14,17 +14,14 @@
 
 **Meat Curing Box**
 
-[Meat Curing Box icon](../assets/Meat_Curing_Box_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Values**
-
-**Weight:** 10.00 kg (22 lbs)
-
-**Actions**
-
-**Backpack:** Drop, Place
+| Property | Details |
+| --- | --- |
+|  | [Meat Curing Box icon](../assets/Meat_Curing_Box_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 10.00 kg (22 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
 > “**A salt filled Curing Box for meat or fish.**”
 >
@@ -86,3 +83,5 @@ Progress for Crafting this item will be stored in the Furniture Workbench's cont
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 
 **Quantity:** 10
+
+## Update History

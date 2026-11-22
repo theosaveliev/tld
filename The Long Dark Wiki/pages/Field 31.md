@@ -4,23 +4,15 @@
 
 **Field 31**
 
-[Field 31 Sign](../assets/Field_31_Sign.jpg)
-
-**Location**
-
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
-
-**Description:** A small abandoned airfield in the Far Territory
-
-**General**
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-[Forge icon green](../assets/Forge_icon_green.png)
-
-Has a forge
+| Property | Details |
+| --- | --- |
+|  | [Field 31 Sign](../assets/Field_31_Sign.jpg) |
+| **Location** |  |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| Description | A small abandoned airfield in the Far Territory |
+| **General** |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| [Forge icon green](../assets/Forge_icon_green.png) | Has a forge\|- |
 
 ## Overview
 

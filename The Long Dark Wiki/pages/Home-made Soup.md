@@ -18,31 +18,21 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Home-made Soup**
 
-[Home Made Soup icon](../assets/Home-Made_Soup_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Wintermute:** Yes
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** Home-made soup. Warm, and nutritious.
-
-**Values**
-
-**Calories:** 600 kcal
-
-**Hydration:** 0%
-
-**Weight:** 0.25 kg (0.55 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_HomeMadeSoup
+| Property | Details |
+| --- | --- |
+|  | [Home Made Soup icon](../assets/Home-Made_Soup_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Wintermute | Yes |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Home-made soup. Warm, and nutritious. |
+| **Values** |  |
+| Calories | 600 kcal |
+| Hydration | 0% |
+| Weight | 0.25 kg (0.55 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_HomeMadeSoup |
 
 > “__Grey Mother: "It's been awhile since Grey Mother had anyone to make meals for. Please...take some soup before you go..."  
  Mackenzie: "Uhh...thanks."__”

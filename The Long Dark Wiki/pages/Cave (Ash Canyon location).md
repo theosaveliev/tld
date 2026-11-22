@@ -50,4 +50,4 @@ Unlike the ice caves, this cave has no natural sources of light. It is not very 
 
 ## Gallery
 
-![Possible wolf carcass &amp; frozen corpse spawn on the second level](../assets/Ash_Canyon_Cave_-_Corpse_%26_Carcass.jpg)
+![Possible wolf carcass & frozen corpse spawn on the second level](../assets/Ash_Canyon_Cave_-_Corpse_%26_Carcass.jpg)

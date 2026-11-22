@@ -11,25 +11,21 @@
 
 **Mining Camp**
 
-[20201209233317 1](../assets/20201209233317_1.jpg)
-
-**Location**
-
-[Mining Camp Location](../assets/Mining_Camp_Location.png)
-
-**Region:** [Ash Canyon](./Ash%20Canyon.md)
-
-**Description:** A derelict mining camp connecting to the [Gold Mine](./Gold%20Mine.md)
-
-**General**
-
-**Type:** Industrial
+| Property | Details |
+| --- | --- |
+|  | [20201209233317 1](../assets/20201209233317_1.jpg) |
+| **Location** |  |
+|  | [Mining Camp Location](../assets/Mining_Camp_Location.png) |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| Description | A derelict mining camp connecting to the [Gold Mine](./Gold%20Mine.md) |
+| **General** |  |
+| Type | Industrial\|- |
 
 ## Overview
 
 The Mining Camp is a location in the northwest corner of [Ash Canyon](./Ash%20Canyon.md). It is the only location that allows access to the [Gold Mine](./Gold%20Mine.md), where you can find the [Technical Backpack](./Technical%20Backpack.md) and [crampons](./Crampons.md). Little shelter is available and the site contains little of value--only some [Reclaimed Wood](./Reclaimed%20Wood.md) and [coal](./Coal.md).
 
-A plastic container &amp; large hatch can be found within the camp, and sometimes a [flashlight](./Flashlight.md) can spawn wedged between two rocks by the [Gold Mine](./Gold%20Mine.md) entrance. There is also a [corpse](./Corpse.md) which can spawn by the nearby waterfall alongside a [Revolver](./Revolver.md).
+A plastic container & large hatch can be found within the camp, and sometimes a [flashlight](./Flashlight.md) can spawn wedged between two rocks by the [Gold Mine](./Gold%20Mine.md) entrance. There is also a [corpse](./Corpse.md) which can spawn by the nearby waterfall alongside a [Revolver](./Revolver.md).
 
 ## Navigation
 

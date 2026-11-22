@@ -4,31 +4,21 @@
 
 **Patterned Wool Mittens (Brown)**
 
-[Patterned Wool Mittens (Brown) icon](../assets/Patterned_Wool_Mittens_%28Brown%29_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Hands
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)20%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)1%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
-
-**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 65% condition
+| Property | Details |
+| --- | --- |
+|  | [Patterned Wool Mittens (Brown) icon](../assets/Patterned_Wool_Mittens_%28Brown%29_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Hands |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)20% |
+| Protection | [Protection icon](../assets/Protection_icon.png)1% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
+| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 65% condition |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -49,3 +39,5 @@ Wool mittens have the best warmth-to-weight ratio of any pair of gloves and are 
 ![Clothing menu model](../assets/Patterned_Wool_Mittens_%28Brown%29_model.png)
 
 ![Clothing menu model damaged](../assets/Patterned_Wool_Mittens_%28Brown%29_model_damaged.png)
+
+## Update history

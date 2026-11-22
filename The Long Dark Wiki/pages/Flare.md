@@ -14,21 +14,16 @@
 
 **Flare**
 
-[Flare icon](../assets/Flare_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Renewable:** Yes
-
-**Firestarting Slot:** Starter
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
-
-**Bonus chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png)+5%
+| Property | Details |
+| --- | --- |
+|  | [Flare icon](../assets/Flare_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| Renewable | Yes |
+| Firestarting Slot | Starter |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
+| Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+5% |
 
 **Flares** are a multi-purpose tool in _The Long Dark_. They can be used as a light source, [firestarter](./Fire%20Starting.md), or frightening [wildlife](./Wildlife.md).
 
@@ -42,7 +37,7 @@ Once a lit flare has consumed all its fuel it will become "Ruined" and have no f
 
 ## Usage
 
-- Flares may be selected from from the Radial Menu (Radial&gt;Light Sources&gt;Flare), the Light Sources hotkey ("1"), or from the inventory.
+- Flares may be selected from from the Radial Menu (Radial>Light Sources>Flare), the Light Sources hotkey ("1"), or from the inventory.
 - For firestarting a flare must first be ignited, and then select as a "Starter" option in the campfire menu.
 - Flares may be thrown while held ("RMB").
 

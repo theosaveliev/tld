@@ -17,23 +17,17 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Replacement Fuse**
 
-[Replacement Fuse icon](../assets/Replacement_Fuse_icon.png)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Examine:** Electrical fuse. Looks old, but appears to be in working order.
-
-**Values**
-
-**Weight:** 0.2 kg (0.44 lbs)
-
-**Advanced data**
-
-**Item key:** STORY\_ElevatorParts
+| Property | Details |
+| --- | --- |
+|  | [Replacement Fuse icon](../assets/Replacement_Fuse_icon.png) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Examine | Electrical fuse. Looks old, but appears to be in working order. |
+| **Values** |  |
+| Weight | 0.2 kg (0.44 lbs) |
+| **Advanced data** |  |
+| Item key | STORY\_ElevatorParts |
 
 The **Replacement Fuse** is an item that was first added in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of Story Mode. It was later added to survival mode in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC.
 
@@ -51,6 +45,6 @@ In Survival Mode, the fuses are used to repair [transmitters](./Transmitters.md)
 
 \* UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)):**
 
-  - Added to game.
+- Added to game.
 - UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
   - Added to Survival Mode.

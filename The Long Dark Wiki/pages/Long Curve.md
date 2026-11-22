@@ -4,17 +4,14 @@
 
 **Long Curve**
 
-[Longcurveupdated](../assets/Longcurveupdated.png)
-
-**Location**
-
-[Long Curve Location](../assets/Long_Curve_Location.png)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Longcurveupdated](../assets/Longcurveupdated.png) |
+| **Location** |  |
+|  | [Long Curve Location](../assets/Long_Curve_Location.png) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Overview
 

@@ -14,19 +14,15 @@
 
 **Lake Cave**
 
-[Lake Cave](../assets/Lake_Cave.jpg)
-
-**Location**
-
-[Lake Cave Location](../assets/Lake_Cave_Location.png)
-
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
-
-**Description:** A small cave on the shore of [Monolith Lake](./Monolith%20Lake.md).
-
-**General**
-
-**Type:** Cave
+| Property | Details |
+| --- | --- |
+|  | [Lake Cave](../assets/Lake_Cave.jpg) |
+| **Location** |  |
+|  | [Lake Cave Location](../assets/Lake_Cave_Location.png) |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| Description | A small cave on the shore of [Monolith Lake](./Monolith%20Lake.md). |
+| **General** |  |
+| Type | Cave\|- |
 
 ## Access
 

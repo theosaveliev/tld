@@ -13,21 +13,16 @@
 
 **Bear Skin Bedroll**
 
-[Bear Skin Bedroll icon](../assets/Bear_Skin_Bedroll_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)3.00 kg(6.6 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)12.0 °C(21.6 °F)
-
-**Harvest:** 1 × [Cloth](./Cloth.md) 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)
-
-**Repair:** 1 × [Cloth](./Cloth.md) 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) 50% Condition (62.5% Mending Lv.5)
+| Property | Details |
+| --- | --- |
+|  | [Bear Skin Bedroll icon](../assets/Bear_Skin_Bedroll_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)3.00 kg(6.6 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)12.0 °C(21.6 °F) |
+| Harvest | 1 × [Cloth](./Cloth.md) / 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) |
+| Repair | 1 × [Cloth](./Cloth.md) / 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / 50% Condition / (62.5% Mending Lv.5) |
 
 > “**Bedroll crafted from Bear Skin. Heavy, but very warm. The smell might scare animals away.**”
 >

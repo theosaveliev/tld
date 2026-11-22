@@ -19,7 +19,7 @@
 - [Game History](#game-history)
 - [References](#references)
 
-**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Prototype+Train&amp;action=edit expanding it].**
+**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Prototype+Train&action=edit expanding it].**
 
 [Seal icon](../assets/Seal_icon.png)
 

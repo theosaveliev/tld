@@ -4,27 +4,22 @@
 
 **Milton Credit Union**
 
-[Milton Credit Union exterior](../assets/Milton_Credit_Union_exterior.jpg)
-
-**Location**
-
-[Milton Credit Union Location](../assets/Milton_Credit_Union_Location.png)
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
-
-**Description:** A former bank with several rooms, including a bank vault.
-
-**General**
-
-**Type:** Residential
-
-**Missions:** [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3)
+| Property | Details |
+| --- | --- |
+|  | [Milton Credit Union exterior](../assets/Milton_Credit_Union_exterior.jpg) |
+| **Location** |  |
+|  | [Milton Credit Union Location](../assets/Milton_Credit_Union_Location.png) |
+| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Description | A former bank with several rooms, including a bank vault. |
+| **General** |  |
+| Type | Residential\|- |
+| Missions | [Episode 1: Chapter 3](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md#Chapter_3) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
 > “__Dear Members,  
  Due to global economic realities that are well known to you, we are unfortunately unable to remain in operation. All banking services are hereby suspended until further notice.  
- - Management (September, 2012)__”
+- Management (September, 2012)__”
 >
 > — - Milton Credit Union Letter
 

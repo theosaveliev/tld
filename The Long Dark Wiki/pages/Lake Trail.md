@@ -4,18 +4,13 @@
 
 **Lake Trail**
 
-[Entrance to the lake trail](../assets/20180902182942_1.jpg)
-
-**Location**
-
-[Lake Trail Location](../assets/Lake_Trail_Location.png)
-
-Region
-
-**Location:** Behind the Camp Office
-
-**Description:** A winding pathway between two cliffs
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Entrance to the lake trail](../assets/20180902182942_1.jpg) |
+| **Location** |  |
+|  | [Lake Trail Location](../assets/Lake_Trail_Location.png) |
+| Region |  |
+| Location | Behind the Camp Office |
+| Description | A winding pathway between two cliffs |
+| **General** |  |
+| Type | Outdoors\|- |

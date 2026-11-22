@@ -4,19 +4,15 @@
 
 **Conflagration**
 
-[Missions story ep5 Conflagration](../assets/Missions_story_ep5_Conflagration.png)
-
-Episode
-
-**Missions**
-
-**Previous:** [To SAR And Back](./To%20SAR%20And%20Back.md)
-
-**Current:** Conflagration
-
-**Region:** [Perseverance Mills](./Perseverance%20Mills.md)
-
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Mathis](./Mathis.md) [Jane Yang](./Jane%20Yang.md) [Donner](./Donner.md) [Heller](./Heller.md) [Vachon](./Vachon.md) [Jeremiah](./Jeremiah.md) [Molly](./Molly.md) [Methuselah](./Methuselah.md) [Convicts](./Convicts.md)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep5 Conflagration](../assets/Missions_story_ep5_Conflagration.png) |
+| Episode |  |
+| **Missions** |  |
+| Previous | [To SAR And Back](./To%20SAR%20And%20Back.md) |
+| Current | Conflagration |
+| Region | [Perseverance Mills](./Perseverance%20Mills.md) |
+| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) / [Mathis](./Mathis.md) / [Jane Yang](./Jane%20Yang.md) / [Donner](./Donner.md) / [Heller](./Heller.md) / [Vachon](./Vachon.md) / [Jeremiah](./Jeremiah.md) / [Molly](./Molly.md) / [Methuselah](./Methuselah.md) / [Convicts](./Convicts.md) |
 
 > “**Prepare for the Quiet Apocalypse.**”
 
@@ -28,3 +24,5 @@ Episode
   - Reach Jane's house.
 - Record a radio message for the apocalypse survivors.
   - Reach the radio hut.
+
+## Trivia

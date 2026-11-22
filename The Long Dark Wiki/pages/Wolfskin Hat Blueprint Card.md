@@ -4,27 +4,19 @@
 
 **Wolfskin Hat Blueprint Card**
 
-[Wolfskin Hat Blueprint Card icon](../assets/Wolfskin_Hat_Blueprint_Card_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Instructions for Crafting a Wolfskin Hat.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Wolfskin Hat Blueprint Card icon](../assets/Wolfskin_Hat_Blueprint_Card_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Instructions for Crafting a Wolfskin Hat. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -39,3 +31,5 @@ This item sometimes appears as a potential trade, and costs:
 - 3.00 L [Lantern Fuel](./Lantern%20Fuel.md)
 - 1 [Car Battery](./Car%20Battery.md)
 - 8 [Cloth](./Cloth.md)
+
+## Update history

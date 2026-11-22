@@ -11,27 +11,19 @@
 
 **Cured Black Bear Hide**
 
-[Cured Black Bear Hide icon](../assets/Cured_Black_Bear_Hide_icon.png)
-
-**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Materials](./Materials.md)
-
-**Stackable:** No
-
-**Examine:** Fur and skin of a Black bear. Can be used for crafting and repair.
-
-**Values**
-
-**Weight:** 1.00 kg (2.2 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_BearHideDried
+| Property | Details |
+| --- | --- |
+|  | [Cured Black Bear Hide icon](../assets/Cured_Black_Bear_Hide_icon.png) |
+| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Materials](./Materials.md)\|- |
+| Stackable | No |
+| Examine | Fur and skin of a Black bear. Can be used for crafting and repair. |
+| **Values** |  |
+| Weight | 1.00 kg (2.2 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_BearHideDried |
 
 **Cured Black Bear Hide** is the Cured fur and skin of a [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Bearskin Coat](./Bearskin%20Coat.md) and [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md).
 

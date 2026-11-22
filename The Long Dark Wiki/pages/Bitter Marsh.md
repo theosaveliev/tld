@@ -4,21 +4,16 @@
 
 **Bitter Marsh**
 
-[20201210111120 1](../assets/20201210111120_1.jpg)
-
-**Location**
-
-[Bitter Marsh Location](../assets/Bitter_Marsh_Location.png)
-
-**Region:** [Ash Canyon](./Ash%20Canyon.md)
-
-**Description:** A small, shallow lake with a destroyed fishing hut.
-
-**General**
-
-**Type:** Landmark
-
-Provides some shelter **Bitter Marsh** is a small, shallow pond located towards the eastern end of [Ash Canyon](./Ash%20Canyon.md), in the marshy, burned-out area. [Homesteader's Respite](./Homesteader%27s%20Respite.md) looms on a cliff overhead, and can be reached via a [Rope Climb](./Rope%20Climbing.md).
+| Property | Details |
+| --- | --- |
+|  | [20201210111120 1](../assets/20201210111120_1.jpg) |
+| **Location** |  |
+|  | [Bitter Marsh Location](../assets/Bitter_Marsh_Location.png) |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| Description | A small, shallow lake with a destroyed fishing hut. |
+| **General** |  |
+| Type | Landmark\|- |
+|  | Provides some shelter / **Bitter Marsh** is a small, shallow pond located towards the eastern end of [Ash Canyon](./Ash%20Canyon.md), in the marshy, burned-out area. [Homesteader's Respite](./Homesteader%27s%20Respite.md) looms on a cliff overhead, and can be reached via a [Rope Climb](./Rope%20Climbing.md). |
 
 ## Overview
 

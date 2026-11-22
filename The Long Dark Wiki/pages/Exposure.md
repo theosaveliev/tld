@@ -11,9 +11,10 @@
 
 **Exposure**
 
-[Exposure icon](../assets/Exposure_icon.png)
-
-**Description:** Take a photo in each Great Bear Island Region for a total of 16 (single game).
+| Property | Details |
+| --- | --- |
+|  | [Exposure icon](../assets/Exposure_icon.png) |
+| Description | Take a photo in each Great Bear Island Region for a total of 16 (single game). |
 
 **Exposure** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -44,3 +45,5 @@ Since these are 16 regions to cover, targeting this could be combined with achie
 - [Forsaken Airfield](./Forsaken%20Airfield.md)
 - [Zone of Contamination](./Zone%20of%20Contamination.md)
 - [Sundered Pass](./Sundered%20Pass.md)
+
+## Trivia

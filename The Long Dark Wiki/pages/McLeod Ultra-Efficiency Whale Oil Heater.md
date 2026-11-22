@@ -14,21 +14,16 @@
 
 **McLeod Ultra-Efficiency Whale Oil Heater**
 
-[McLeod Ultra Efficiency Whale Oil Heater icon](../assets/McLeod_Ultra-Efficiency_Whale_Oil_Heater_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Renewable:** No
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
-
-**Harvest:** Cannot Harvest
-
-**Repair:** 1 × [Scrap Metal](./Scrap%20Metal.md) (%) Condition 1 hour
+| Property | Details |
+| --- | --- |
+|  | [McLeod Ultra Efficiency Whale Oil Heater icon](../assets/McLeod_Ultra-Efficiency_Whale_Oil_Heater_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| Renewable | No |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs) |
+| Harvest | Cannot Harvest |
+| Repair | 1 × [Scrap Metal](./Scrap%20Metal.md) (%) Condition / 1 hour |
 
 [Seal icon](../assets/Seal_icon.png)
 

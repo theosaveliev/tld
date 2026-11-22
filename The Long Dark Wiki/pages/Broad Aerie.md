@@ -4,12 +4,10 @@
 
 **Broad Aerie**
 
-[Broad Aerie](../assets/Broad_Aerie.jpg)
-
-**Location**
-
-[Broad Aerie Location](../assets/Broad_Aerie_Location.png)
-
-**Region:** [Transfer Pass](./Transfer%20Pass.md)
-
-**General**
+| Property | Details |
+| --- | --- |
+|  | [Broad Aerie](../assets/Broad_Aerie.jpg) |
+| **Location** |  |
+|  | [Broad Aerie Location](../assets/Broad_Aerie_Location.png) |
+| Region | [Transfer Pass](./Transfer%20Pass.md)\|- |
+| **General** |  |

@@ -4,27 +4,19 @@
 
 **Mining Newsletter**
 
-[Mining Newsletter icon](../assets/Mining_Newsletter_icon.png)
-
-**Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A page torn from an old mailing.
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_MineRegionBunkhouseNote
+| Property | Details |
+| --- | --- |
+|  | [Mining Newsletter icon](../assets/Mining_Newsletter_icon.png) |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A page torn from an old mailing. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_MineRegionBunkhouseNote |
 
 **Mining Newsletter** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) found in the left most worker's cabin in the [Idle Camp](./Idle%20Camp.md).
 

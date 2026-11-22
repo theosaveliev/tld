@@ -4,27 +4,19 @@
 
 **Mining Log Page**
 
-[Mining Log Page icon](../assets/Mining_Log_Page_icon.png)
-
-**Release:** [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A crumbling page from an old logbook, only partially legible.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Mining Log Page icon](../assets/Mining_Log_Page_icon.png) |
+| Release | [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A crumbling page from an old logbook, only partially legible. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Mingling Log Page** is a [Survival Mode](./Survival%20Mode.md) [Collectible](./Collectibles.md) found in [Ash Canyon](./Ash%20Canyon.md) at [Foreman's Retreat](./Foreman%27s%20Retreat.md).
 

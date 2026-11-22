@@ -170,3 +170,5 @@ Fatigue bar progresses from Exhausted ↔︎ Drained ↔︎ Tired ↔︎ Winded 
 - (Tired exhausted sighing sounds)
 - (Deep and heavy inhaling and exhaling)
 - (Yawning sounds)
+
+## Trivia

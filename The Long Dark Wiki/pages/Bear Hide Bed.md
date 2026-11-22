@@ -11,17 +11,14 @@
 
 **Bear Hide Bed**
 
-[Bear Hide Bed icon](../assets/Bear_Hide_Bed_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Values**
-
-**Weight:** 10.00 kg (22 lbs)
-
-**Actions**
-
-**Backpack:** Drop, Place
+| Property | Details |
+| --- | --- |
+|  | [Bear Hide Bed icon](../assets/Bear_Hide_Bed_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 10.00 kg (22 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -69,3 +66,5 @@ This item cannot be harvested.
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 
 **Quantity:** 18
+
+## Update History

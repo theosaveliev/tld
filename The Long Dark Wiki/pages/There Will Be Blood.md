@@ -4,9 +4,10 @@
 
 **There Will Be Blood**
 
-[There Will Be Blood icon](../assets/There_Will_Be_Blood_icon.png)
-
-**Description:** Defeat your first Timberwolf pack.
+| Property | Details |
+| --- | --- |
+|  | [There Will Be Blood icon](../assets/There_Will_Be_Blood_icon.png) |
+| Description | Defeat your first Timberwolf pack. |
 
 **There Will Be Blood** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

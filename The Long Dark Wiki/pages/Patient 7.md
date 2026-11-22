@@ -4,23 +4,17 @@
 
 **Unknown (Alias: Patient 7)**
 
-[No picture](../assets/No_picture.png)
-
-**Date:** March 30th, 2023
-
-**Mission:** Signal Void
-
-**Biographical Information**
-
-**Age:** Unknown
-
-**Status:** Unknown (Possibly dead)
-
-**Occupation:** Presumed Langston Mine worker
-
-**Physical Information**
-
-**Sex:** Male
+| Property | Details |
+| --- | --- |
+|  | [No picture](../assets/No_picture.png) |
+| Date | March 30th, 2023 |
+| Mission | Signal Void |
+| **Biographical Information** |  |
+| Age | Unknown |
+| Status | Unknown (Possibly dead) |
+| Occupation | Presumed Langston Mine worker |
+| **Physical Information** |  |
+| Sex | Male |
 
 **Spoiler Warning:** **This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

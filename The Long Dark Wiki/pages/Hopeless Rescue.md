@@ -19,15 +19,13 @@
 
 **Hopeless Rescue**
 
-[Challenge HopelessRescue](../assets/Challenge_HopelessRescue.png)
-
-**Details**
-
-**Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md), [Desolation Point](./Desolation%20Point.md)
-
-**Difficulty:** 4
-
-**Date Added:** April 2016
+| Property | Details |
+| --- | --- |
+|  | [Challenge HopelessRescue](../assets/Challenge_HopelessRescue.png) |
+| **Details** |  |
+| Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md), [Desolation Point](./Desolation%20Point.md) |
+| Difficulty | 4 |
+| Date Added | April 2016 |
 
 > “**Are you the last person alive? You have to know. If only you could get a signal out to someone...**”
 >

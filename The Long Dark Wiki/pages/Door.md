@@ -4,17 +4,14 @@
 
 **Door**
 
-[Door (Object)](../assets/Door_%28Object%29.jpg)
-
-**General**
-
-**Item Type:** Item
-
-**Wintermute:** No
-
-**Statistics**
-
-**Harvest:** 2 × [Reclaimed Wood](./Reclaimed%20Wood.md)
+| Property | Details |
+| --- | --- |
+|  | [Door (Object)](../assets/Door_%28Object%29.jpg) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | No |
+| **Statistics** |  |
+| Harvest | 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
 
 A **Door** is a piece of a clothing [Cabinet](./Cabinet.md) that can be broken down into [Reclaimed Wood](./Reclaimed%20Wood.md). They are very rarely found in the game world. One can be found in the cabin at the [Cannery Worker Residences](./Cannery%20Worker%20Residences.md) in [Bleak Inlet](./Bleak%20Inlet.md).
 

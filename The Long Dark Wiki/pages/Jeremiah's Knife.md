@@ -13,25 +13,18 @@
 
 **Jeremiah's Knife**
 
-[Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** A superior quality hunting knife. A gift from Jeremiah
-
-**Values**
-
-**Weight:** 0.50 kg (1.1 lbs)
-
-**Actions**
-
-**Backpack:** Pick Up, Examine, Drop
+| Property | Details |
+| --- | --- |
+|  | [Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | A superior quality hunting knife. A gift from Jeremiah |
+| **Values** |  |
+| Weight | 0.50 kg (1.1 lbs) |
+| **Actions** |  |
+| Backpack | Pick Up, Examine, Drop |
 
 > “**I have a little graduation present for you. Here. You've earned it. And I have a feeling that you're going to be needing it before you're through.**”
 >

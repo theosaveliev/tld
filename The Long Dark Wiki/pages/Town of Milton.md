@@ -4,27 +4,19 @@
 
 **Town of Milton**
 
-[Town of Milton icon](../assets/Town_of_Milton_icon.png)
-
-**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Town of Milton icon](../assets/Town_of_Milton_icon.png) |
+| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Town of Milton** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode, and can be found on the desk in the [Post Office](./Milton%20Post%20Office.md).
 
@@ -42,4 +34,4 @@ This decline was exaggerated even more in the Post-Collapse economic environment
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
 
-  - Added to game.
+- Added to game.

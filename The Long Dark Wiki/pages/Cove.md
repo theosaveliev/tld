@@ -4,19 +4,15 @@
 
 **Cove**
 
-[Cove](../assets/Cove.png)
-
-**Location**
-
-[Cove Location](../assets/Cove_Location.png)
-
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
-
-**Description:** A cove along the lakeshore, surrounded by cliffs, with stairs leading up.
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Cove](../assets/Cove.png) |
+| **Location** |  |
+|  | [Cove Location](../assets/Cove_Location.png) |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| Description | A cove along the lakeshore, surrounded by cliffs, with stairs leading up. |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Overview
 

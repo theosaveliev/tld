@@ -4,17 +4,14 @@
 
 **Echo Ravine**
 
-[Echo Ravine](../assets/Echo_Ravine.jpg)
-
-**Location**
-
-[Echo Ravine Location](../assets/Echo_Ravine_Location.png)
-
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Echo Ravine](../assets/Echo_Ravine.jpg) |
+| **Location** |  |
+|  | [Echo Ravine Location](../assets/Echo_Ravine_Location.png) |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

@@ -52,3 +52,5 @@ They are mostly found in Coastal Regions along rocky wall surfaces near the sea,
 | [Little Island](./Little%20Island.md) | [Desolation Point](./Desolation%20Point.md) | 5 | Behind Little Island facing a smaller island |
 | [Broken Bridge](./Broken%20Bridge%20%28Broken%20Railroad%20location%29.md) | [Desolation Point](./Desolation%20Point.md) | 4 | In the Bear cave |
 | [Cave (Desolation Point location)](./Cave%20%28Desolation%20Point%20location%29.md) | [Desolation Point](./Desolation%20Point.md) | 10 | In the main chamber |
+
+## Game History

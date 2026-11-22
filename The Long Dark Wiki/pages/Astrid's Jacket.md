@@ -4,29 +4,20 @@
 
 **Astrid's Jacket**
 
-[Astrid's Jacket icon](../assets/Astrid%27s_Jacket_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.25 kg(2.75 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)30%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)3%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-4%
-
-**Harvest:** 2 × [Cloth](./Cloth.md) 20 minutes
-
-**Repair:** 2 × [Cloth](./Cloth.md) 45 minutes 30% condition
+| Property | Details |
+| --- | --- |
+|  | [Astrid's Jacket icon](../assets/Astrid%27s_Jacket_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.25 kg(2.75 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)30% |
+| Protection | [Protection icon](../assets/Protection_icon.png)3% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-4% |
+| Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
+| Repair | 2 × [Cloth](./Cloth.md) / 45 minutes / 30% condition |
 
 [2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 

@@ -15,23 +15,16 @@
 
 **Bunker Beta**
 
-[Bunker Beta](../assets/Bunker_Beta.jpg)
-
-**Location**
-
-[Bunker Beta Location](../assets/Bunker_Beta_Location.png)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**Description:** A reinforced underground shelter.
-
-**General**
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Has an interior **Bunker** **Beta** is one of the bunkers that can be found as part of the [Signal Void](./Signal%20Void.md) Tale in [Pleasant Valley](./Pleasant%20Valley.md).
+| Property | Details |
+| --- | --- |
+|  | [Bunker Beta](../assets/Bunker_Beta.jpg) |
+| **Location** |  |
+|  | [Bunker Beta Location](../assets/Bunker_Beta_Location.png) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| Description | A reinforced underground shelter. |
+| **General** |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior **Bunker** **Beta** is one of the bunkers that can be found as part of the [Signal Void](./Signal%20Void.md) Tale in [Pleasant Valley](./Pleasant%20Valley.md). |
 
 ## Unlocking
 

@@ -4,25 +4,17 @@
 
 **Placid Notch**
 
-[Refuge Cabin B resized](../assets/Refuge_Cabin_B_resized.png)
-
-**Location**
-
-[Placid Notch Location](../assets/Placid_Notch_Location.png)
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**Description:** A refuge cabin.
-
-**General**
-
-**Type:** Residential
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Has an interior **Placid Notch** is a location in [Sundered Pass](./Sundered%20Pass.md), and is where Refuge Cabin B is located.
+| Property | Details |
+| --- | --- |
+|  | [Refuge Cabin B resized](../assets/Refuge_Cabin_B_resized.png) |
+| **Location** |  |
+|  | [Placid Notch Location](../assets/Placid_Notch_Location.png) |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| Description | A refuge cabin. |
+| **General** |  |
+| Type | Residential\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior / **Placid Notch** is a location in [Sundered Pass](./Sundered%20Pass.md), and is where Refuge Cabin B is located. |
 
 ## Overview
 

@@ -35,3 +35,5 @@ Some hatches have a different storage capacity.
 ## Helicopter/Airplane Hatch
 
 40.00 kg storage
+
+## Helicopter Tube Hatch

@@ -4,17 +4,14 @@
 
 **Wide Display Shelf**
 
-[Wide Display Shelf icon](../assets/Wide_Display_Shelf_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Values**
-
-**Weight:** 20.00 kg (44 lbs)
-
-**Actions**
-
-**Backpack:** Drop, Place
+| Property | Details |
+| --- | --- |
+|  | [Wide Display Shelf icon](../assets/Wide_Display_Shelf_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 20.00 kg (44 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
 The **Wide Display Shelf** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
@@ -43,3 +40,5 @@ Despite having a Backpack carry weight value, the shelf cannot be picked up and 
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 
 **Quantity:** 18
+
+## Update History

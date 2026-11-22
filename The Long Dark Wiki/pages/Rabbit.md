@@ -18,21 +18,16 @@
 
 **Rabbit**
 
-[Rabbit](../assets/Rabbit.png)
-
-**Basic Information**
-
-**Release:** [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152)
-
-**Role:** Prey
-
-**Physical Information**
-
-**Color:** Brown
-
-**Size:** Small
-
-**Eyes:** Black
+| Property | Details |
+| --- | --- |
+|  | [Rabbit](../assets/Rabbit.png) |
+| **Basic Information** |  |
+| Release | [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152) |
+| Role | Prey |
+| **Physical Information** |  |
+| Color | Brown |
+| Size | Small |
+| Eyes | Black |
 
  **Rabbits** are small animals found scattered throughout the wilderness, either alone or in groups of two to four. They can be found in all main regions as well as in some transition zones.
 

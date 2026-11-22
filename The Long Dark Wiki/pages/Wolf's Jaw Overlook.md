@@ -4,17 +4,14 @@
 
 **Wolf's Jaw Overlook**
 
-[20201209231328 1](../assets/20201209231328_1.jpg)
-
-**Location**
-
-[Wolf's Jaw Overlook Location](../assets/Wolf%27s_Jaw_Overlook_Location.png)
-
-**Region:** [Ash Canyon](./Ash%20Canyon.md)
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [20201209231328 1](../assets/20201209231328_1.jpg) |
+| **Location** |  |
+|  | [Wolf's Jaw Overlook Location](../assets/Wolf%27s_Jaw_Overlook_Location.png) |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Overview
 

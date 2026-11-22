@@ -167,7 +167,7 @@ Research Book
 | --- | --- | --- | --- |
 | [Camera icon](../assets/Camera_icon.png) | [Camera](./Camera.md) | 0.00 kg _(0 lb)_ | - Can be used to take photos |
 | [FastFilm 500 icon](../assets/FastFilm-500_icon.png) | [FastFilm-500](./FastFilm-500.md) | 0.50 kg _(1.1 lb)_ | - Used with the Camera. Uses Coloured film |
-| [FastFilm 500BW icon](../assets/FastFilm-500BW_icon.png) | [FastFilm-500BW](./FastFilm-500BW.md) | 0.50 kg _(1.1 lb)_ | - Used with the Camera. Uses Black &amp; White film |
+| [FastFilm 500BW icon](../assets/FastFilm-500BW_icon.png) | [FastFilm-500BW](./FastFilm-500BW.md) | 0.50 kg _(1.1 lb)_ | - Used with the Camera. Uses Black & White film |
 | [FastFilm 500SPA icon](../assets/FastFilm-500SPA_icon.png) | [FastFilm-500SPA](./FastFilm-500SPA.md) | 0.50 kg _(1.1 lb)_ | - Used with the Camera. Uses Sepia film |
 
 ### Other

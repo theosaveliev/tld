@@ -4,17 +4,14 @@
 
 **Radio Tower**
 
-[Milton Shortwave Tower](../assets/Milton_Shortwave_Tower.jpg)
-
-**Location**
-
-[Radio Tower Location](../assets/Radio_Tower_Location.png)
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Milton Shortwave Tower](../assets/Milton_Shortwave_Tower.jpg) |
+| **Location** |  |
+|  | [Radio Tower Location](../assets/Radio_Tower_Location.png) |
+| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

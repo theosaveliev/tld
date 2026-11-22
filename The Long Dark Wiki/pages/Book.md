@@ -11,23 +11,17 @@
 
 **Book**
 
-[Book icon](../assets/Book_icon.png)
-
-**Release:** [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Fire Starting](./Fire%20Starting.md)
-
-**Stackable:** yes
-
-**Examine:** Eventually, a source of knowledge. For now, something to burn when you are freezing.
-
-**Values**
-
-**Weight:** 0.50 kg (1.1 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Book icon](../assets/Book_icon.png) |
+| Release | [1 April 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Fire Starting](./Fire%20Starting.md)\|- |
+| Stackable | yes |
+| Examine | Eventually, a source of knowledge. For now, something to burn when you are freezing. |
+| **Values** |  |
+| Weight | 0.50 kg (1.1 lbs) |
 
 A **Book** is a material item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -41,17 +35,14 @@ Although books are the worst fuel in terms of burn time to weight, they have the
 
 **Book**
 
-**Type:** Fuel
-
-**Statistics**
-
-**Duration:** [Fire Starting](../assets/Fire_Starting.png) 18 minutes
-
-**Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) 35%
-
-**Heat:** [Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
-
-**Burn Density:** 0.6 hr/kg (0.27 hr/lb)
+| Property | Details |
+| --- | --- |
+| Type | Fuel |
+| **Statistics** |  |
+| Duration | [Fire Starting](../assets/Fire_Starting.png) 18 minutes |
+| Start Chance | [Firestart mod icon](../assets/Firestart_mod_icon.png) 35% |
+| Heat | [Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F) |
+| Burn Density | 0.6 hr/kg (0.27 hr/lb) |
 
 ## Trivia
 

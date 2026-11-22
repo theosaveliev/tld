@@ -4,17 +4,14 @@
 
 **Framed Photo**
 
-[Framed Photo icon](../assets/Framed_Photo_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Values**
-
-**Weight:** 0.25 kg (0.55 lbs)
-
-**Actions**
-
-**Backpack:** Drop, Place
+| Property | Details |
+| --- | --- |
+|  | [Framed Photo icon](../assets/Framed_Photo_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 0.25 kg (0.55 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
 > “**A decorative picture frame. Suitable for hanging instant photographs on the wall.**”
 >
@@ -43,3 +40,5 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 
 **Quantity:** 1
+
+## Update History

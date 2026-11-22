@@ -17,7 +17,7 @@
 
 **DLC-Exclusive content.** This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
 
- **Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Cauldron+Island&amp;action=edit expanding it].** [Cauldron Island Logo](../assets/Cauldron_Island_Logo.png)**Cauldron Island** is a major location in [_The Long Dark_](./The%20Long%20Dark.md), being the second playable area in the game. It is located even father north of [Great Bear Island](./Great%20Bear%20Island.md) in northern Canada and is the primary setting of [_Iron Road_](./Iron%20Road.md).
+ **Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Cauldron+Island&action=edit expanding it].** [Cauldron Island Logo](../assets/Cauldron_Island_Logo.png)**Cauldron Island** is a major location in [_The Long Dark_](./The%20Long%20Dark.md), being the second playable area in the game. It is located even father north of [Great Bear Island](./Great%20Bear%20Island.md) in northern Canada and is the primary setting of [_Iron Road_](./Iron%20Road.md).
 
 ## Overview
 
@@ -40,3 +40,5 @@ An island focused primarily on a port for new arrivals and a few railways that c
 - [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md)
 - [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)
 - [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)
+
+## Trivia

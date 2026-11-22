@@ -12,17 +12,14 @@
 
 **Lost and Found**
 
-[Lost and Found](../assets/Lost_and_Found.png)
-
-**Release:** 22 October 2019
-
-**Update:** [1.60](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
-
-**Story item:** No
-
-**Advanced data**
-
-**Object key:** GAMEPLAY\_InaccessibleGearContainer
+| Property | Details |
+| --- | --- |
+|  | [Lost and Found](../assets/Lost_and_Found.png) |
+| Release | 22 October 2019 |
+| Update | [1.60](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60) |
+| Story item | No |
+| **Advanced data** |  |
+| Object key | GAMEPLAY\_InaccessibleGearContainer |
 
 **Lost and Found** are a special type of container in _The Long Dark_. They look like a [metal container](./Metal%20Container.md), but are red in colour and have the [Hinterland](./Hinterland%20Studio%20Inc..md) logo on its cover and tin, and do not naturally spawn in the game world.[^1]
 
@@ -174,4 +171,4 @@ Lost and Found containers were first introduced in the [Crossroads Elegy](./Epis
 
 ---
 
-[^1]: Hinterland Support - "Lost &amp; Found Boxes", [https://hinterlandgames.zendesk.com/hc/en-us/articles/360038137951-Lost-Found-Boxes](https://hinterlandgames.zendesk.com/hc/en-us/articles/360038137951-Lost-Found-Boxes)
+[^1]: Hinterland Support - "Lost & Found Boxes", [https://hinterlandgames.zendesk.com/hc/en-us/articles/360038137951-Lost-Found-Boxes](https://hinterlandgames.zendesk.com/hc/en-us/articles/360038137951-Lost-Found-Boxes)

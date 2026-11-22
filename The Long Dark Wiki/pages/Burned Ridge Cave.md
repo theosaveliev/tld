@@ -4,19 +4,15 @@
 
 **Burned Ridge Cave**
 
-[SS PV BurnedRidgeCave 01](../assets/SS-PV-BurnedRidgeCave-01.jpg)
-
-**Location**
-
-[Burned Ridge Cave Location](../assets/Burned_Ridge_Cave_Location.png)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**General**
-
-**Type:** Cave
-
-Provides some shelter **Burned Ridge Cave** is one of several caves dotted throughout [Pleasant Valley](./Pleasant%20Valley.md).
+| Property | Details |
+| --- | --- |
+|  | [SS PV BurnedRidgeCave 01](../assets/SS-PV-BurnedRidgeCave-01.jpg) |
+| **Location** |  |
+|  | [Burned Ridge Cave Location](../assets/Burned_Ridge_Cave_Location.png) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| **General** |  |
+| Type | Cave\|- |
+|  | Provides some shelter **Burned Ridge Cave** is one of several caves dotted throughout [Pleasant Valley](./Pleasant%20Valley.md). |
 
 ## Overview
 

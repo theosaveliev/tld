@@ -4,9 +4,10 @@
 
 **Can**
 
-[Can](../assets/Can.jpg)
-
-**Story item:** Yes
+| Property | Details |
+| --- | --- |
+|  | [Can](../assets/Can.jpg) |
+| Story item | Yes |
 
 A **Can** is a harvestable [Pork and Beans](./Pork%20and%20Beans.md) item found in the [Misty Falls Cave](./Misty%20Falls%20Cave.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md). It is found behind the waterfall as part of the [Tall Tales](./Tall%20Tales.md) The Lost Cave mission. It can be harvested for a [Recycled Can](./Recycled%20Can.md) in 6 minutes.
 

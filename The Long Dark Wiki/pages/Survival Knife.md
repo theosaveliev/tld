@@ -20,25 +20,18 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Survival Knife**
 
-[Survival Knife icon](../assets/Survival_Knife_icon.png)
-
-**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Wintermute:** No
-
-**Renewable:** No, [Trader](./Trader.md) requires unrenewable item
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** A durable, heavy Knife with a finely-honed edge. Excels at Harvesting meat from frozen carcasses.
-
-**Values**
-
-**Weight:** 0.75 kg (1.65 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Survival Knife icon](../assets/Survival_Knife_icon.png) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Wintermute | No |
+| Renewable | No, [Trader](./Trader.md) requires unrenewable item |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | A durable, heavy Knife with a finely-honed edge. Excels at Harvesting meat from frozen carcasses. |
+| **Values** |  |
+| Weight | 0.75 kg (1.65 lbs) |
 
 **Survival Knife** is a [Tools](./Tools.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 

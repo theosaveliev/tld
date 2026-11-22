@@ -4,19 +4,15 @@
 
 **Seedling Spring**
 
-[Seedling Spring](../assets/Seedling_Spring.jpg)
-
-**Location**
-
-[Seedling Spring Location](../assets/Seedling_Spring_Location.png)
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**Description:** a small pond in the forest.
-
-**General**
-
-Has no shelter **Seedling Spring** is a location in [Sundered Pass](./Sundered%20Pass.md).
+| Property | Details |
+| --- | --- |
+|  | [Seedling Spring](../assets/Seedling_Spring.jpg) |
+| **Location** |  |
+|  | [Seedling Spring Location](../assets/Seedling_Spring_Location.png) |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| Description | a small pond in the forest. |
+| **General** |  |
+|  | Has no shelter **Seedling Spring** is a location in [Sundered Pass](./Sundered%20Pass.md). |
 
 ## Overview
 

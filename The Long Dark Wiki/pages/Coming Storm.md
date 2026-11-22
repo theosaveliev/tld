@@ -14,19 +14,15 @@
 
 **Coming Storm**
 
-[Missions story ep3 Coming Storm](../assets/Missions_story_ep3_Coming_Storm.png)
-
-**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
-
-**Previous:** [Fallen Star](./Fallen%20Star.md)
-
-**Current:** Coming Storm
-
-**Next:** [Aftermath](./Aftermath.md)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**Characters:** [Astrid](./Astrid%20Greenwood.md) [Father Thomas](./Father%20Thomas.md) [Survivors](./Crash%20Survivor.md)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep3 Coming Storm](../assets/Missions_story_ep3_Coming_Storm.png) |
+| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Previous | [Fallen Star](./Fallen%20Star.md) |
+| Current | Coming Storm |
+| Next | [Aftermath](./Aftermath.md) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
+| Characters | [Astrid](./Astrid%20Greenwood.md) / [Father Thomas](./Father%20Thomas.md) / [Survivors](./Crash%20Survivor.md) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

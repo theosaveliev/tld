@@ -11,19 +11,15 @@
 
 **Hermit's Cabin**
 
-[Hermits cabin](../assets/Hermits_cabin.jpg)
-
-**Location**
-
-[Hermit's Cabin Location](../assets/Hermit%27s_Cabin_Location.png)
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
-
-**General**
-
-**Firebox:** [Wood Stove](./Wood%20Stove.md)
-
-Provides some shelter **Hermit's Cabin** is a dilapidated structure in [Mountain Town](./Mountain%20Town.md).
+| Property | Details |
+| --- | --- |
+|  | [Hermits cabin](../assets/Hermits_cabin.jpg) |
+| **Location** |  |
+|  | [Hermit's Cabin Location](../assets/Hermit%27s_Cabin_Location.png) |
+| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| **General** |  |
+| Firebox | [Wood Stove](./Wood%20Stove.md) |
+|  | Provides some shelter **Hermit's Cabin** is a dilapidated structure in [Mountain Town](./Mountain%20Town.md). |
 
 ## Overview
 

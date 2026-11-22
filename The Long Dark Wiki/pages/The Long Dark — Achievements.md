@@ -294,7 +294,7 @@ Take a photo in each Great Bear Island Region for a total of 16 (single game).
 
 **[Shutterbug](./Shutterbug.md)**
 
-Take 10 photos with each film type – Colour, B&amp;W, and Sepia (single game).
+Take 10 photos with each film type – Colour, B&W, and Sepia (single game).
 
 [On the Lookout icon](../assets/On_the_Lookout_icon.png)
 
@@ -394,11 +394,11 @@ Survive the first [Aurora](./Aurora.md) event.
 
 Complete all six Survival School objectives across Episodes One and Two.
 
-[Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) &amp; [2](./Episode%202%20-%20Luminance%20Fugue.md)
+[Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) & [2](./Episode%202%20-%20Luminance%20Fugue.md)
 
-[Freight Train of Hate &amp; Hunger icon](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png)
+[Freight Train of Hate & Hunger icon](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png)
 
-**[Freight-Train of Hate &amp; Hunger](./Freight-Train%20of%20Hate%20%26%20Hunger.md)**
+**[Freight-Train of Hate & Hunger](./Freight-Train%20of%20Hate%20%26%20Hunger.md)**
 
 Kill the [Old Bear](./Old%20Bear.md).
 
@@ -434,7 +434,7 @@ Find all [Forest Talker](./Forest%20Talkers.md) caches.
 
 Find all hidden caches in Episode One and Episode Two.
 
-[Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) &amp; [2](./Episode%202%20-%20Luminance%20Fugue.md)
+[Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) & [2](./Episode%202%20-%20Luminance%20Fugue.md)
 
 [Community Service icon](../assets/Community_Service_icon.png)
 

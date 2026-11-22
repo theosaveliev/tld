@@ -14,27 +14,18 @@
 
 **Milton**
 
-[Milton](../assets/Milton.jpg)
-
-**Location**
-
-[Milton Location](../assets/Milton_Location.png)
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
-
-**Description:** A small town nestled in the mountains
-
-**General**
-
-**Type:** Residential
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Has an interior
-
-**Characters:** [Grey Mother](./Grey%20Mother.md)
+| Property | Details |
+| --- | --- |
+|  | [Milton](../assets/Milton.jpg) |
+| **Location** |  |
+|  | [Milton Location](../assets/Milton_Location.png) |
+| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Description | A small town nestled in the mountains |
+| **General** |  |
+| Type | Residential\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior\|- |
+| Characters | [Grey Mother](./Grey%20Mother.md) |
 
 _For the region in which **Milton** is set, see [Mountain Town](./Mountain%20Town.md)._
 

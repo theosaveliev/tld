@@ -11,31 +11,21 @@
 
 **Wool Longjohns**
 
-[Wool Longjohns icon](../assets/Wool_Longjohns_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Inner legs
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)35%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)1%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** 1 × [Cloth](./Cloth.md) 20 minutes
-
-**Repair:** 1 × [Cloth](./Cloth.md) 45 minutes 50% condition
+| Property | Details |
+| --- | --- |
+|  | [Wool Longjohns icon](../assets/Wool_Longjohns_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Inner legs |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)35% |
+| Protection | [Protection icon](../assets/Protection_icon.png)1% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | 1 × [Cloth](./Cloth.md) / 20 minutes |
+| Repair | 1 × [Cloth](./Cloth.md) / 45 minutes / 50% condition |
 
 > “**Wool longjohns make a great underlayer for your legs. Warm but not very sturdy.**”
 >

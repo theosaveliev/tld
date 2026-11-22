@@ -21,17 +21,17 @@
 - [Version 2.33 (Tales from the Far Territory Part 6: Broken Silence)](#version-233-tales-from-the-far-territory-part-6-broken-silence)
 - [CRASHES](#crashes)
 - [GAMEPLAY, UI, CONTROLS](#gameplay-ui-controls)
-- [ART &amp; ENVIRONMENTS](#art-environments)
+- [ART & ENVIRONMENTS](#art-environments)
 - [ANIMATION](#animation)
 - [PLATFORM-SPECIFIC](#platform-specific)
 - [2.32 (Steam, Epic Games)](#232-steam-epic-games)
 - [Bug Fixes](#bug-fixes-1)
 - [GAMEPLAY, UI, CONTROLS](#gameplay-ui-controls-1)
-- [ART &amp; ENVIRONMENTS](#art-environments-1)
+- [ART & ENVIRONMENTS](#art-environments-1)
 - [2.31 (Steam, Epic Games)](#231-steam-epic-games)
 - [Bug Fixes](#bug-fixes-1)
 - [GAMEPLAY, UI, CONTROLS](#gameplay-ui-controls-2)
-- [ART &amp; ENVIRONMENTS](#art-environments-2)
+- [ART & ENVIRONMENTS](#art-environments-2)
 - [AUDIO](#audio)
 - [PLATFORM-SPECIFIC](#platform-specific-1)
 - [2.30 (Steam)](#230-steam)
@@ -66,7 +66,7 @@
 - [PC/Mac](#pcmac)
 - [2.11](#211)
 - [Xbox](#xbox)
-- [2.09 &amp; 2.10 (TFTFT Part Two: Signal Void)](#209-210-tftft-part-two-signal-void)
+- [2.09 & 2.10 (TFTFT Part Two: Signal Void)](#209-210-tftft-part-two-signal-void)
 - [PART ONE: FORSAKEN AIRFIELD](#part-one-forsaken-airfield)
 - [PART ONE: FREE STREAM](#part-one-free-stream)
 - [PART TWO: SIGNAL VOID](#part-two-signal-void)
@@ -261,7 +261,7 @@ GAMEPLAY, UI, CONTROLS
 - Removed the erroneously placed Spray Paint Glyph Can from Blackrock Foothills and the Mine.
 - Fixed an issue where dying from falling through ice and then reloading the last available save file would result in the ability to walk across weak ice without limit.
 
-ART &amp; ENVIRONMENTS
+ART & ENVIRONMENTS
 
 - Fixed multiple terrain traps in Perseverance Mills.
 - Fixed multiple issues in Perseverance Mills where snow would not blend against building bases.
@@ -310,7 +310,7 @@ PLATFORM-SPECIFIC
 
 Hotfix THE LONG DARK - EPISODE FIVE HOTFIX 1 (WINTERMUTE v 2.23)[^3]
 
-Steam [UPDATED: Now available on Steam, Xbox One &amp; Series X/S, PlayStation 4 &amp; 5, EGS, GoG]
+Steam [UPDATED: Now available on Steam, Xbox One & Series X/S, PlayStation 4 & 5, EGS, GoG]
 
 Hello players,
 
@@ -419,7 +419,7 @@ GAMEPLAY, UI, CONTROLS
 - Fixed multiple items in the Clinic to allow them to be interactable where they previously were not.
 - Fixed an issue where the Ice Caves icon on the map was visible when it shouldn't be.
 
-ART &amp; ENVIRONMENTS
+ART & ENVIRONMENTS
 
 - Fixed hundreds of general environment art issues including floating items; too numerous to list them all.
 - Fixed an issue that resulted in floating train tracks at the SAR Station.
@@ -617,11 +617,11 @@ _GAMEPLAY, UI, CONTROLS_
 - Fixed an issue that could cause the game to soft-lock when a player attempted a Rope Climb with no Stamina, resulting in the player becoming stuck on the rope.
 - Fixed an issue that could cause a soft-lock if a Lantern ran out of fuel while being lit, resulting in a state where the player could move, but not interact with anything.
 - Fixed a rare issue where retrieving a Manufactured Arrow from a Carcass could result in a Simple Arrow being added to the player's Backpack instead.
-- Fixed an issue where Transmitters were shown in the Journal-&gt;Collections tab even when the Tales From the Far Territory DLC was not installed.
+- Fixed an issue where Transmitters were shown in the Journal->Collections tab even when the Tales From the Far Territory DLC was not installed.
 - Fixed an issue that allowed a player to carry the Travois into a Snow Shelter with them.
 - Fixed an issue that prevented the Cougar Claw Knife from being used as a Crafting Tool.
 
-_ART &amp; ENVIRONMENTS_
+_ART & ENVIRONMENTS_
 
 - Fixed multiple instances of items being hidden beneath snow by the Terrain Blending setting.
 - Fixed an issue in Broken Railroad where smoke would not appear from the chimney of the Hunting Lodge when the fireplace was lit.
@@ -680,7 +680,7 @@ _GAMEPLAY, UI, CONTROLS_
 - Fixed an issue in WINTERMUTE Episodes Three and Four that resulted in mistimed subtitles during the recap videos.
 - Fixed an issue that prevented WINTERMUTE saves from being renamed.
 
-_ART &amp; ENVIRONMENTS_
+_ART & ENVIRONMENTS_
 
 - Fixed an issue in Sundered Pass that resulted in some areas displaying noticeably darkened sections with "Additional Shadows - Structures" enabled.
 - Fixed an issue in Sundered Pass cave transition that resulted in noticeably darkened sections and incorrect terrain blending with "Additional Shadows - Structures" and "Terrain Blending" enabled.
@@ -719,7 +719,7 @@ Bug Fixes
 
 This Hotfix includes fixes for the following issues:
 
-_PERFORMANCE &amp; OPTIMIZATION_
+_PERFORMANCE & OPTIMIZATION_
 
 - Adjusted asset groupings to improve memory performance in-game.
 - Adjusted collider settings on hundreds of objects, resulting in performance improvement and more accurate object detection.
@@ -812,7 +812,7 @@ _GAMEPLAY, UI, CONTROLS_
 - Fixed an issue in Blackrock Steam Tunnels that impeded player passage with invisible collision.
 - Adjusted Carcass Harvesting to disallow players from attempting to Harvest Carcasses on Weak Ice.
 
-_ART &amp; ENVIRONMENTS_
+_ART & ENVIRONMENTS_
 
 - Fixed an issue where Rifles were left floating in mid-air if the Gun Rack they were placed on was disassembled.
 - Fixed an issue in a Coastal Highway Cabin Crate where a Candy Bar would spawn, but remain invisible to the player.
@@ -1075,7 +1075,7 @@ General
 
 *Fixed an issue with a rug in the Pleasant Valley Community Hall which caused it to flicker during and after being placed.
 
-ART &amp; ENVIRONMENTS
+ART & ENVIRONMENTS
 
 \* Fixed an issue that caused incorrect and inconsistent exterior lighting when moving in and out of caves.
 
@@ -1179,7 +1179,7 @@ GAMEPLAY, UI, CONTROLS
 
 \* Tuned Misery Experience Mode Trader values to be more in line with the expected Misery experience.
 
-ART &amp; ENVIRONMENTS
+ART & ENVIRONMENTS
 
 \* Fixed an issue where no icons were present in the Trader Radio interface for raw fish, animal meat, dried hides or harvestable plants.
 
@@ -1243,7 +1243,7 @@ This Major Update includes fixes for the following issues:
 - Fixed an issue in Sundered Pass where a backpack could not be searched.
 - Fixed an issue where Beachcombing containers and items could duplicate when exiting and re-entering the Region.
 
-#### ART &amp; ENVIRONMENTS
+#### ART & ENVIRONMENTS
 
 - Fixed an issue where inspecting Polaroids resulted in a visible incorrect watermark on the object.
 - Improved the detail on all vehicle engines.
@@ -1340,7 +1340,7 @@ This Hotfix includes fixes for the following issues:
 - Fixed an issue where the Survivor could spawn into a cabin awning when Cheating Death.
 - Fixed an issue that could result in a save error in Sundered Pass.
 
-##### ART &amp; ENVIRONMENTS
+##### ART & ENVIRONMENTS
 
 - Fixed an issue where players could incorrectly get on top of a broken trailer in Sundered Pass.
 - Fixed multiple issues where the player could become stuck in terrain in Sundered Pass.
@@ -1396,7 +1396,7 @@ This Hotfix includes fixes for the following issues:
 - Fixed an issue in Sundered Pass that prevented the Survivor from returning up a Rope Climb.
 - Fixed an issue that caused reduced performance in the Carter Hydro Dam.
 
-##### ART &amp; ENVIRONMENTS
+##### ART & ENVIRONMENTS
 
 - Updated the "Last Horizon" text on the main menu to be more visible.
 
@@ -1707,7 +1707,7 @@ We just released our v2.11 Hotfix for THE LONG DARK on Xbox (112312) and WINTERM
 
 - [26](https://hinterlandforums.com/forums/topic/43109-the-long-dark-updated-to-v211-on-xbox/)
 
-### 2.09 &Amp; 2.10 (TFTFT Part Two: Signal Void)
+### 2.09 & 2.10 (TFTFT Part Two: Signal Void)
 
 Released March 30, 2023
 
@@ -1737,7 +1737,7 @@ Please note that when you first start your adventures in the Far Territory, you 
 
 Along with the contents of Part One for the paid Expansion Pass, the following free updates were applied to the base Survival game.
 
-- Complete Loot &amp; Resource refresh: All loot tables have been updated, and the location of in-world spawned objects has been refreshed. The locations and amounts of all high-value Tools and Items have also been modified. Do not expect things to appear in the same place, or quantity, as you may have experienced them before, and also know that an element of randomness to loot spawns is present in any game. Interloper balance has been preserved in the loot refresh. (For more information please visit this post.)
+- Complete Loot & Resource refresh: All loot tables have been updated, and the location of in-world spawned objects has been refreshed. The locations and amounts of all high-value Tools and Items have also been modified. Do not expect things to appear in the same place, or quantity, as you may have experienced them before, and also know that an element of randomness to loot spawns is present in any game. Interloper balance has been preserved in the loot refresh. (For more information please visit this post.)
 
 Starting Spawn Points refresh: When you start a new Survival game, the locations you can potentially spawn in each region have been changed. Feel lost again.
 
@@ -1765,7 +1765,7 @@ Along with the contents of Part Two for the paid Expansion Pass, the following f
 - Fire-Hardened Arrows: Good for hunting small game
 - Enhanced Prepper Bunkers: Including visual updates, loot updates, and a spawn refresh. Prepper Bunkers are now spread out over more regions and there are more hatches than before, however only 3 are fully-stocked.
 - Enhanced Beachcombing: Watch for new loot and larger items after Blizzards
-- Acorns &amp; more Oak Trees: Prepare and eat Acorns, or use them to make delicious Acorn Coffee
+- Acorns & more Oak Trees: Prepare and eat Acorns, or use them to make delicious Acorn Coffee
 
 ##### DETAILED RELEASE NOTES
 
@@ -2071,7 +2071,7 @@ Please remember to visit our Support Portal if you encounter any issues while pl
 - [UI] Fixed an issue that prevented the Surveyed Locations from displaying the correct number of locations when viewed in the Journal.
 - [UI] Fixed an issue that prevented the Voice Audio slider from responding correctly when adjusted in Audio Options.
 - [UI] Fixed an issue that caused the subtitles to appear underneath the Radial Menu, preventing players from being able to read the subtitles.
-- [UI] Fixed an issue that caused the Manage Data button (found under Privacy -&gt; Options) to link incorrectly to Unity’s Cloud Analytics.
+- [UI] Fixed an issue that caused the Manage Data button (found under Privacy -> Options) to link incorrectly to Unity’s Cloud Analytics.
 - [UI] Added a check to the Fire Starting Menu to prevent players from being able to open the menu if they do not have all of the items required.
 
 #### SURVIVAL

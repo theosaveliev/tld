@@ -20,11 +20,11 @@
 
 **Ice Fishing**
 
-[Ice Fishing background](../assets/Ice_Fishing_background.png)
-
-**Release:** [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)
-
-**Date:** 23 June 2016
+| Property | Details |
+| --- | --- |
+|  | [Ice Fishing background](../assets/Ice_Fishing_background.png) |
+| Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
+| Date | 23 June 2016 |
 
 ![Ice Fishing](../assets/Ice_Fishing.png) **Ice Fishing** is the [Skill](./Skills.md) to catch fish in _The Long Dark_. It is performed at fishing holes, which are cut in the ice of fish-bearing bodies of water.
 
@@ -71,7 +71,7 @@ There are two types of fish: saltwater and freshwater, and four rarity: common, 
 
 _*Big Bass is found only in Wintermute_
 
-¹ Amount Oil / Latern Fuel gained when fish is cooked. Source: Detailed analysis by Bashrobe, [https://www.youtube.com/watch?v=l8BIygi4K\_k&amp;t=174s](https://www.youtube.com/watch?v=l8BIygi4K_k&t=174s)
+¹ Amount Oil / Latern Fuel gained when fish is cooked. Source: Detailed analysis by Bashrobe, [https://www.youtube.com/watch?v=l8BIygi4K\_k&t=174s](https://www.youtube.com/watch?v=l8BIygi4K_k&t=174s)
 
 ## Equipment
 

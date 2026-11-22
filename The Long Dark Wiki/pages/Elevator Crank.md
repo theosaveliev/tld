@@ -4,33 +4,22 @@
 
 **Elevator Crank**
 
-[Elevator Crank icon](../assets/Elevator_Crank_icon.png)
-
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
-
-**Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [The Detonators](./The%20Detonators.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** An attachment for manually raising and lowering the mine elevator.
-
-**Values**
-
-**Weight:** 0.00 / 1.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
-
-**Advanced data**
-
-**Item key:** STORY\_ElevatorCrank
+| Property | Details |
+| --- | --- |
+|  | [Elevator Crank icon](../assets/Elevator_Crank_icon.png) |
+| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [The Detonators](./The%20Detonators.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | An attachment for manually raising and lowering the mine elevator. |
+| **Values** |  |
+| Weight | 0.00 / 1.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
+| **Advanced data** |  |
+| Item key | STORY\_ElevatorCrank |
 
 **Elevator Crank** is a [Collectible](./Collectibles.md) item found in [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of [Wintermute](./Wintermute.md) during the mission [The Detonators](./The%20Detonators.md). During the course of the mission, [Will Mackenzie](./Will%20Mackenzie.md) journeys to the [Last Prospect](./Last%20Prospect.md) mine and uses the Elevator Crank to access the lower levels of the mine in pursuit of the [Detonators](./Detonators.md).
 

@@ -4,33 +4,22 @@
 
 **T-Shirt**
 
-[T Shirt icon](../assets/T-Shirt_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Renewable:** Yes (rare [Beachcombing](./Beachcombing.md))
-
-**Clothing Slot:** Inner torso
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)0%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)0%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
-
-**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 35% condition
+| Property | Details |
+| --- | --- |
+|  | [T Shirt icon](../assets/T-Shirt_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
+| Clothing Slot | Inner torso |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)0% |
+| Protection | [Protection icon](../assets/Protection_icon.png)0% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
+| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 35% condition |
 
 > “**Short-sleeved cotton t-shirt. Doesn't offer much warmth, particularly when wet.**”
 >

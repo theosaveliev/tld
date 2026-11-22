@@ -4,25 +4,17 @@
 
 **Indolent Hoppers**
 
-[Indolent Hoppers](../assets/Indolent_Hoppers.jpg)
-
-**Location**
-
-[Indolent Hoppers Location](../assets/Indolent_Hoppers_Location.png)
-
-**Region:** [Zone of Contamination](./Zone%20of%20Contamination.md)
-
-**Description:** A polluted trainyard close to the [Headframe Building](./Headframe%20Building.md)
-
-**General**
-
-Type
-
-Firebox
-
-[Workbench icon green](../assets/Workbench_icon_green.png)
-
-Has a workbench
+| Property | Details |
+| --- | --- |
+|  | [Indolent Hoppers](../assets/Indolent_Hoppers.jpg) |
+| **Location** |  |
+|  | [Indolent Hoppers Location](../assets/Indolent_Hoppers_Location.png) |
+| Region | [Zone of Contamination](./Zone%20of%20Contamination.md)\|- |
+| Description | A polluted trainyard close to the [Headframe Building](./Headframe%20Building.md) |
+| **General** |  |
+| Type |  |
+| Firebox |  |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
 
 ## Overview
 

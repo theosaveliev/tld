@@ -4,9 +4,10 @@
 
 **Living Off the Land**
 
-[Living Off the Land icon](../assets/Living_Off_the_Land_icon.png)
-
-**Description:** Survived 25 consecutive full days only consuming calories harvested from wild plants and animals (single game)
+| Property | Details |
+| --- | --- |
+|  | [Living Off the Land icon](../assets/Living_Off_the_Land_icon.png) |
+| Description | Survived 25 consecutive full days only consuming calories harvested from wild plants and animals (single game) |
 
 **Living Off the Land** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

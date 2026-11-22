@@ -26,21 +26,16 @@
 
 **Heavy Hammer**
 
-[Heavy Hammer icon](../assets/Heavy_Hammer_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Renewable:** Yes ([Trader](./Trader.md) only) No ([Interloper](./Interloper.md))
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
-
-**Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 1 × [Fir Firewood](./Fir%20Firewood.md) 30 minutes
-
-**Repair:** 1 × [Fir Firewood](./Fir%20Firewood.md) 20% Condition 45 to 30 minutes
+| Property | Details |
+| --- | --- |
+|  | [Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| Renewable | Yes ([Trader](./Trader.md) only) No ([Interloper](./Interloper.md)) |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)2.00 kg(4.4 lbs) |
+| Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) 1 × [Fir Firewood](./Fir%20Firewood.md) / 30 minutes |
+| Repair | 1 × [Fir Firewood](./Fir%20Firewood.md) 20% Condition / 45 to 30 minutes |
 
 > “**A hammer suitable for metalworking.**”
 >

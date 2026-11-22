@@ -4,13 +4,12 @@
 
 **Medical Locker**
 
-[Medical Locker](../assets/Medical_Locker.png)
-
-**Story item:** Yes
-
-**Container**
-
-**Capacity:** 30.00 kg(66 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Medical Locker](../assets/Medical_Locker.png) |
+| Story item | Yes |
+| **Container** |  |
+| Capacity | 30.00 kg(66 lbs) |
 
 **Medical Lockers** are a unique type of single [Locker](./Locker.md) only found in the following industrial areas:
 

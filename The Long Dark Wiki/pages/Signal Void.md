@@ -18,15 +18,13 @@
 
 **Signal Void**
 
-[Tales objectives 01 signalVoid](../assets/Tales_objectives_01_signalVoid.png)
-
-**Missions**
-
-**Current:** Signal Void
-
-**Next:** [Buried Echoes](./Buried%20Echoes.md)
-
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) [Bleak Inlet](./Bleak%20Inlet.md) [Pleasant Valley](./Pleasant%20Valley.md) [Mountain Town](./Mountain%20Town.md) [Hushed River Valley](./Hushed%20River%20Valley.md)
+| Property | Details |
+| --- | --- |
+|  | [Tales objectives 01 signalVoid](../assets/Tales_objectives_01_signalVoid.png) |
+| **Missions** |  |
+| Current | Signal Void |
+| Next | [Buried Echoes](./Buried%20Echoes.md) |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Bleak Inlet](./Bleak%20Inlet.md) / [Pleasant Valley](./Pleasant%20Valley.md) / [Mountain Town](./Mountain%20Town.md) / [Hushed River Valley](./Hushed%20River%20Valley.md) |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

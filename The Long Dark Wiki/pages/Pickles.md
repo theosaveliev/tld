@@ -10,31 +10,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Pickles**
 
-[Pickles icon](../assets/Pickles_icon.png)
-
-**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Wintermute:** No
-
-**Renewable:** Yes ([Trader](./Trader.md) only)
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** Classic dill Pickles. Crunchy and satisfying.
-
-**Values**
-
-**Calories:** 650 kcal
-
-**Hydration:** 5%
-
-**[Vitamin C](./Scurvy.md):** Moderate (50%)
-
-**Weight:** 0.60 kg (1.32 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Pickles icon](../assets/Pickles_icon.png) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Wintermute | No |
+| Renewable | Yes ([Trader](./Trader.md) only) |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Classic dill Pickles. Crunchy and satisfying. |
+| **Values** |  |
+| Calories | 650 kcal |
+| Hydration | 5% |
+| [Vitamin C](./Scurvy.md) | Moderate (50%) |
+| Weight | 0.60 kg (1.32 lbs) |
 
 **Pickles** is a rare [Food And Drink](./Food%20And%20Drink.md) item in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 
@@ -46,3 +36,5 @@ Pickles cost the following to acquire from the Trader:
 
 - 4.00 kg Any Raw Fish Meat
 - 2.00 L ![Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+
+## Update History

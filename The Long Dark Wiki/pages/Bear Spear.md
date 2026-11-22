@@ -23,29 +23,20 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Bear Spear**
 
-[Bear Spear icon](../assets/Bear_Spear_icon.png)
-
-**Release:** [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Best Defense](./The%20Best%20Defense.md)
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** A large defensive weapon, designed to pierce the thick hides of charging predators. For those with the heart to wield it.
-
-**Values**
-
-**Weight:** 4.00 kg (8.8 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Bear Spear icon](../assets/Bear_Spear_icon.png) |
+| Release | [17 December 2018](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [The Best Defense](./The%20Best%20Defense.md) |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | A large defensive weapon, designed to pierce the thick hides of charging predators. For those with the heart to wield it. |
+| **Values** |  |
+| Weight | 4.00 kg (8.8 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 > “**Ten inches of cold hard steel might do what a bullet can't. I'm convinced– a spear's the way to kill that bear.**”
 >
@@ -93,7 +84,7 @@ It can currently be found and spawned in Survival Mode via console commands, but
 
 ## Trivia
 
-- The Bear Spear and the story of the "[Demon Bear](./Old%20Bear.md)" told by [Jeremiah](./Jeremiah.md) are references to "The Beast Spear" from the fantasy manga ["Ushio &amp; Tora" (うしおととら)](https://en.wikipedia.org/wiki/Ushio_%26_Tora) written and illustrated by Kazuhiro Fujita. Both stories feature a supernatural weapon forged by a character driven mad for revenge to kill 'evil spirits', including a red cloth tied around the spear's neck.
+- The Bear Spear and the story of the "[Demon Bear](./Old%20Bear.md)" told by [Jeremiah](./Jeremiah.md) are references to "The Beast Spear" from the fantasy manga ["Ushio & Tora" (うしおととら)](https://en.wikipedia.org/wiki/Ushio_%26_Tora) written and illustrated by Kazuhiro Fujita. Both stories feature a supernatural weapon forged by a character driven mad for revenge to kill 'evil spirits', including a red cloth tied around the spear's neck.
 
 ## Gallery
 
@@ -109,4 +100,4 @@ _The [Old Bear](./Old%20Bear.md) defending a shortwave tower, with the Bear Spea
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
 
-  - Added to game.
+- Added to game.

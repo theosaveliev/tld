@@ -4,19 +4,15 @@
 
 **Fallen Star**
 
-[Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png)
-
-**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
-
-**Previous:** [Trauma](./Trauma.md)
-
-**Current:** Fallen Star
-
-**Next:** [Coming Storm](./Coming%20Storm.md)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Father Thomas](./Father%20Thomas.md) [Crash Survivor](./Crash%20Survivor.md) [Molly](./Molly.md) [Jane Yang](./Jane%20Yang.md) (flashback)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png) |
+| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Previous | [Trauma](./Trauma.md) |
+| Current | Fallen Star |
+| Next | [Coming Storm](./Coming%20Storm.md) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
+| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) [Father Thomas](./Father%20Thomas.md) / [Crash Survivor](./Crash%20Survivor.md) / [Molly](./Molly.md) / [Jane Yang](./Jane%20Yang.md) (flashback) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

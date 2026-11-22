@@ -19,31 +19,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Cougar Claw Knife**
 
-[Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png)
-
-**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** Crafted from the remains of a deadly predator. A powerful defensive weapon during Struggles.
-
-**Values**
-
-**Weight:** 0.60 kg (1.32 lbs)
-
-**Actions**
-
-**On ground:** Take It, Leave It
-
-**Advanced data**
-
-**Item key:** GEAR\_CougarClawKnife
+| Property | Details |
+| --- | --- |
+|  | [Cougar Claw Knife icon](../assets/Cougar_Claw_Knife_icon.png) |
+| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | Crafted from the remains of a deadly predator. A powerful defensive weapon during Struggles. |
+| **Values** |  |
+| Weight | 0.60 kg (1.32 lbs) |
+| **Actions** |  |
+| On ground | Take It, Leave It |
+| **Advanced data** |  |
+| Item key | GEAR\_CougarClawKnife |
 
 A **Cougar Claw Knife** is a [Tool](./Tools.md) that can be crafted at a [Forge](./Forge.md) after finding and killing the elusive and lethal [Cougar](./Cougar.md) for its [Cougar Claw](./Cougar%20Claw.md).
 

@@ -4,25 +4,16 @@
 
 **Mountaineer's Hut**
 
-[Mountaineer's Hut](../assets/Mountaineer%27s_Hut.png)
-
-**Location**
-
-[Mountaineer's Hut Location](../assets/Mountaineer%27s_Hut_Location.png)
-
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
-
-**General**
-
-Firebox
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-[Workbench icon green](../assets/Workbench_icon_green.png)
-
-Has a workbench
+| Property | Details |
+| --- | --- |
+|  | [Mountaineer's Hut](../assets/Mountaineer%27s_Hut.png) |
+| **Location** |  |
+|  | [Mountaineer's Hut Location](../assets/Mountaineer%27s_Hut_Location.png) |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| **General** |  |
+| Firebox |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
 
 ## Overview
 
@@ -44,9 +35,22 @@ Note that despite being considered "outside" in terms of [Decay](./Decay.md), le
 
 The following may spawn inside of the hut:
 
-| Column 1 | Column 2 |
-| --- | --- |
-| - Firewood - [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) - [Mountaineering Rope](./Mountaineering%20Rope.md) - [Research Books](./Skills.md) - 3x [Flare Shell](./Flare%20Shell.md) - Assorted [food and drinks](./Food%20And%20Drink.md) - [Magnifying Lens](./Magnifying%20Lens.md) - [Heavy Hammer](./Heavy%20Hammer.md) | - Mid quality clothes - Materials - [Hunting Knife](./Hunting%20Knife.md) - [Hacksaw](./Hacksaw.md) - [Storm Lantern](./Storm%20Lantern.md) - 3x [Simple Arrow](./Simple%20Arrow.md) - Matches (Interloper) |
+- Firewood
+- [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md)
+- [Mountaineering Rope](./Mountaineering%20Rope.md)
+- [Research Books](./Skills.md)
+- 3x [Flare Shell](./Flare%20Shell.md)
+- Assorted [food and drinks](./Food%20And%20Drink.md)
+- [Magnifying Lens](./Magnifying%20Lens.md)
+- [Heavy Hammer](./Heavy%20Hammer.md)
+
+- Mid quality clothes
+- Materials
+- [Hunting Knife](./Hunting%20Knife.md)
+- [Hacksaw](./Hacksaw.md)
+- [Storm Lantern](./Storm%20Lantern.md)
+- 3x [Simple Arrow](./Simple%20Arrow.md)
+- Matches (Interloper)
 
 There may be a [Fishing Tackle](./Fishing%20Tackle.md) on one of the boats near the lake.
 

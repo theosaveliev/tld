@@ -4,27 +4,19 @@
 
 **Memo (Survival)**
 
-[Memo (Survival) icon](../assets/Memo_%28Survival%29_icon.png)
-
-**Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** An old piece of paperwork.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Memo (Survival) icon](../assets/Memo_%28Survival%29_icon.png) |
+| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | An old piece of paperwork. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Memo** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Forsaken Airfield](./Forsaken%20Airfield.md) on a table in the [Hangar Basement](./Hangar%20Basement.md).
 
@@ -48,4 +40,4 @@ Welcome Associate!
 
 \* UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
 
-  - Added to game.
+- Added to game.

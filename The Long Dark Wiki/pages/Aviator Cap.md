@@ -4,33 +4,22 @@
 
 **Aviator Cap**
 
-[Aviator Cap icon](../assets/Aviator_Cap_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Renewable:** Yes ([Trader](./Trader.md) or very rarely through [Beachcombing](./Beachcombing.md))
-
-**Clothing Slot:** Head
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)30%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)4%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** 1 × [Cured Leather](./Cured%20Leather.md) 10 minutes
-
-**Repair:** 1 × [Cured Leather](./Cured%20Leather.md) 25 minutes 60% condition
+| Property | Details |
+| --- | --- |
+|  | [Aviator Cap icon](../assets/Aviator_Cap_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Renewable | Yes ([Trader](./Trader.md) or very rarely through [Beachcombing](./Beachcombing.md)) |
+| Clothing Slot | Head |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.0 °C(3.6 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)30% |
+| Protection | [Protection icon](../assets/Protection_icon.png)4% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | 1 × [Cured Leather](./Cured%20Leather.md) / 10 minutes |
+| Repair | 1 × [Cured Leather](./Cured%20Leather.md) / 25 minutes / 60% condition |
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

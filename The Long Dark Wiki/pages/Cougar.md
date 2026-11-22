@@ -53,21 +53,16 @@
 
 **Cougar**
 
-[Cougar](../assets/Cougar.png)
-
-**Basic Information**
-
-**Release:** [24 June 2024 2 December 2024 (Redux)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
-
-**Role:** Predator
-
-**Physical Information**
-
-**Color:** Sandy Tan
-
-**Size:** Medium
-
-**Eyes:** Blue
+| Property | Details |
+| --- | --- |
+|  | [Cougar](../assets/Cougar.png) |
+| **Basic Information** |  |
+| Release | [24 June 2024 / 2 December 2024 (Redux)](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| Role | Predator |
+| **Physical Information** |  |
+| Color | Sandy Tan |
+| Size | Medium |
+| Eyes | Blue |
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -393,7 +388,7 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 
 Cougars take large amounts of damage to kill. Higher [Rifle Firearm](./Rifle%20Firearm.md) and [Archery](./Archery.md) skill level marginally affects the amount of damage done to a Cougar (Arrow and Bow types do effect damage output of bows, but this chart uses base [Survival Bow](./Survival%20Bow.md) and [Simple Arrow](./Simple%20Arrow.md) as a reference).
 
-| Skill &amp; Level | Base Weapon Damage |
+| Skill & Level | Base Weapon Damage |
 | --- | --- |
 | [Rifle Firearm](./Rifle%20Firearm.md) 1 -3 | 100 |
 | [Rifle Firearm](./Rifle%20Firearm.md) 4 | 110 |

@@ -154,7 +154,7 @@ Memento Caches:
 
 |  | Note Location | Leads to | Loot | Examine Text |
 | --- | --- | --- | --- | --- |
-| [Mementos Note 3 icon](../assets/Mementos_Note_3_icon.png) | note found in the car at [Commuter's Lament](./Commuter%27s%20Lament.md) | In a [Loose Tree Bark](./Loose%20Tree%20Bark.md) stump outside the [Rabbit Grove Cabin](./Rabbit%20Grove.md) | Contains [Dog Food](./Dog%20Food.md), [Maple Syrup](./Maple%20Syrup.md), [Revolver Ammo](./Revolver%20Ammunition.md) &amp; [Rifle Ammo](./Rifle%20Ammunition.md) **Not available on Interloper/Misery** | _"You tell me why he keeps his junk under that stump. Just clean it out."_ |
+| [Mementos Note 3 icon](../assets/Mementos_Note_3_icon.png) | note found in the car at [Commuter's Lament](./Commuter%27s%20Lament.md) | In a [Loose Tree Bark](./Loose%20Tree%20Bark.md) stump outside the [Rabbit Grove Cabin](./Rabbit%20Grove.md) | Contains [Dog Food](./Dog%20Food.md), [Maple Syrup](./Maple%20Syrup.md), [Revolver Ammo](./Revolver%20Ammunition.md) & [Rifle Ammo](./Rifle%20Ammunition.md) **Not available on Interloper/Misery** | _"You tell me why he keeps his junk under that stump. Just clean it out."_ |
 | [Mementos Note icon](../assets/Mementos_Note_icon.png) | note found in the car on the bridge near [Rockfall](./Rockfall.md) | In the boat by the dock near the [Quonset Garage](./Quonset%20Garage.md) | Contains several [Fishing Tackle](./Fishing%20Tackle.md), a [Tin of Coffee](./Tin%20of%20Coffee.md) and a [Go! Energy Drink](./Go!%20Energy%20Drink.md) (On Interloper only the Tin of Coffee). | _"They're biting fierce right now, I can feel it. Meet me by my boat tomorrow, early light."_ |
 
 ## [Desolation Point](./Desolation%20Point.md)

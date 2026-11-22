@@ -42,19 +42,15 @@
 
 **Hunting Rifle**
 
-[Hunting Rifle icon](../assets/Hunting_Rifle_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
-
-**Harvest:** 1 Hour 2 × [Scrap Metal](./Scrap%20Metal.md)
-
-**Repair:** [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) 12-5 minutes 3%-5%
+| Property | Details |
+| --- | --- |
+|  | [Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs) |
+| Harvest | 1 Hour 2 × [Scrap Metal](./Scrap%20Metal.md) |
+| Repair | [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) 12-5 minutes / 3%-5% |
 
 > “**An old .303 calibre bolt-action hunting rifle. Will bring a deer down. Maybe a wolf.**”
 >

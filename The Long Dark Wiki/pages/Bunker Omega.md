@@ -11,25 +11,16 @@
 
 **Bunker Omega**
 
-[Bunker Omega outside](../assets/Bunker_Omega_outside.png)
-
-**Location**
-
-[Bunker Omega Location](../assets/Bunker_Omega_Location.png)
-
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
-
-**Description:** A large, reinforced underground shelter.
-
-**General**
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-[Workbench icon green](../assets/Workbench_icon_green.png)
-
-Has a workbench
+| Property | Details |
+| --- | --- |
+|  | [Bunker Omega outside](../assets/Bunker_Omega_outside.png) |
+| **Location** |  |
+|  | [Bunker Omega Location](../assets/Bunker_Omega_Location.png) |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| Description | A large, reinforced underground shelter. |
+| **General** |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
 
 ## Unlocking
 

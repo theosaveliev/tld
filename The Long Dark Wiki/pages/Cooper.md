@@ -13,27 +13,19 @@
 
 **Cooper**
 
-[Coopr](../assets/Coopr.jpg)
-
-**Release:** [2.52](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)
-
-**Date:** 6 October 2021
-
-**Wintermute:** [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
-
-**Location(s):** [Perseverance Mills](./Perseverance%20Mills.md)
-
-**Biographical Information**
-
-**Status:** Alive
-
-**Physical Information**
-
-**Sex:** Male
-
-**Game Information**
-
-**Voiced by:** Shawn Youngchief
+| Property | Details |
+| --- | --- |
+|  | [Coopr](../assets/Coopr.jpg) |
+| Release | [2.52](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52) |
+| Date | 6 October 2021 |
+| Wintermute | [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
+| Location(s) | [Perseverance Mills](./Perseverance%20Mills.md) |
+| **Biographical Information** |  |
+| Status | Alive |
+| **Physical Information** |  |
+| Sex | Male |
+| **Game Information** |  |
+| Voiced by | Shawn Youngchief |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

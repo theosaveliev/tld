@@ -4,17 +4,14 @@
 
 **Display Shelf**
 
-[Display Shelf icon](../assets/Display_Shelf_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Values**
-
-**Weight:** 20.00 kg (44 lbs)
-
-**Actions**
-
-**Backpack:** Drop, Place
+| Property | Details |
+| --- | --- |
+|  | [Display Shelf icon](../assets/Display_Shelf_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 20.00 kg (44 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
 The **Display Shelf** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
@@ -39,3 +36,5 @@ While the preview image shows nine cubbies, the final product actually has only 
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 
 **Quantity:** 12
+
+## Update History

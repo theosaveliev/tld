@@ -21,23 +21,17 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Anna Island -- Track Section 4**
 
-[Railyard (Track Section 4 West)](../assets/Railyard_%28Track_Section_4_West%29.jpg)
-
-**Location on [Cauldron Island](./Cauldron%20Island.md)**
-
-[No picture](../assets/No_picture.png)
-
-[Anna Island Track Section 4 Map](../assets/Anna_Island_Track_Section_4_Map.png)
-
-**Details**
-
-**Description:** A mountain track region that transitions to the next major island and 3 other Track Sections on Anna Island.
-
-**Connecting Regions:** [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)
-
-**Interloper Region Spawn:** No
-
-**Date Added:** October 27 2026
+| Property | Details |
+| --- | --- |
+|  | [Railyard (Track Section 4 West)](../assets/Railyard_%28Track_Section_4_West%29.jpg) |
+| **Location on [Cauldron Island](./Cauldron%20Island.md)** |  |
+|  | [No picture](../assets/No_picture.png) |
+|  | [Anna Island Track Section 4 Map](../assets/Anna_Island_Track_Section_4_Map.png) |
+| **Details** |  |
+| Description | A mountain track region that transitions to the next major island and 3 other Track Sections on Anna Island. |
+| Connecting Regions | [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) / [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) |
+| Interloper Region Spawn | No |
+| Date Added | October 27 2026 |
 
 **Anna Island -- Track Section 4** is a [Region](./Region.md) on [Cauldron Island](./Cauldron%20Island.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 

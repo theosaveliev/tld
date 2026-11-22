@@ -4,27 +4,19 @@
 
 **Diary Page**
 
-[Diary Page icon](../assets/Diary_Page_icon.png)
-
-**Release:** [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A diary page, faded with age and heavily watermarked.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Diary Page icon](../assets/Diary_Page_icon.png) |
+| Release | [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A diary page, faded with age and heavily watermarked. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Diary Page** is a [Survival Mode](./Survival%20Mode.md) [Collectible](./Collectibles.md) found in [Ash Canyon](./Ash%20Canyon.md) at [Angler's Den](./Angler%27s%20Den.md).
 

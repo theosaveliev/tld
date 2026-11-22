@@ -4,15 +4,13 @@
 
 **Train Loading Area**
 
-[Train Loading Area 1](../assets/Train_Loading_Area_1.jpg)
-
-**Location**
-
-[Train Loading Area Location](../assets/Train_Loading_Area_Location.png)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Train Loading Area 1](../assets/Train_Loading_Area_1.jpg) |
+| **Location** |  |
+|  | [Train Loading Area Location](../assets/Train_Loading_Area_Location.png) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Type | Landmark\|- |
 
 ## Overview
 

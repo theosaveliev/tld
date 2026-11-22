@@ -15,33 +15,22 @@
 
 **A Note Left Behind**
 
-[A Note Left Behind icon](../assets/A_Note_Left_Behind_icon.png)
-
-**Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** The scrawled musings of a survivor that was here before you.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_ClimbersJournal
+| Property | Details |
+| --- | --- |
+|  | [A Note Left Behind icon](../assets/A_Note_Left_Behind_icon.png) |
+| Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | The scrawled musings of a survivor that was here before you. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_ClimbersJournal |
 
 **A Note Left Behind** is a set of 12 [Collectibles](./Collectibles.md) found across several regions within [Survival Mode](./Survival%20Mode.md). They were authored by several backers of _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -171,7 +160,7 @@ _The following text is transcribed from **A Note Left Behind**_
 
 I keep hearing my mobile ring. Get excited every time. But it's just as dead as always when I check. I don't know why I still carry it around.
 
-Sean's been my saviour, especially after Sue &amp; Tori's suicide. He told me about how he always wanted to do Death of a Salesman. His American accent's pretty good too. We fell asleep in each other's arms last night.
+Sean's been my saviour, especially after Sue & Tori's suicide. He told me about how he always wanted to do Death of a Salesman. His American accent's pretty good too. We fell asleep in each other's arms last night.
 
 Sean wouldn't wake up.
 

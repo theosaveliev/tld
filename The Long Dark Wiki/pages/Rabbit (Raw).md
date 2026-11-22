@@ -11,33 +11,22 @@
 
 **Rabbit (Raw)**
 
-[Rabbit (Raw) icon](../assets/Rabbit_%28Raw%29_icon.png)
-
-**Release:** [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152)
-
-**Wintermute:** No
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** Flesh from a rabbit. Cook to eat safely.
-
-**Values**
-
-**Calories:** 500 kcal
-
-**Hydration:** 0%
-
-**Weight:** 1.00 kg (2.2 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_RabbitRaw
+| Property | Details |
+| --- | --- |
+|  | [Rabbit (Raw) icon](../assets/Rabbit_%28Raw%29_icon.png) |
+| Release | [30 October 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.152) |
+| Wintermute | No |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Flesh from a rabbit. Cook to eat safely. |
+| **Values** |  |
+| Calories | 500 kcal |
+| Hydration | 0% |
+| Weight | 1.00 kg (2.2 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_RabbitRaw |
 
 _For the cooked version, see [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md)._
 

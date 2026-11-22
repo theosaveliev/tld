@@ -4,17 +4,14 @@
 
 **Engine (West)**
 
-[Engine](../assets/Engine.jpg)
-
-**Location**
-
-[Engine (West) Location](../assets/Engine_%28West%29_Location.png)
-
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Engine](../assets/Engine.jpg) |
+| **Location** |  |
+|  | [Engine (West) Location](../assets/Engine_%28West%29_Location.png) |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

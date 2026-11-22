@@ -4,17 +4,14 @@
 
 **Rustic Storage Trunk**
 
-[Rustic Storage Trunk icon](../assets/Rustic_Storage_Trunk_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Values**
-
-**Weight:** 5.00 kg (11 lbs)
-
-**Actions**
-
-**Backpack:** Drop, Place
+| Property | Details |
+| --- | --- |
+|  | [Rustic Storage Trunk icon](../assets/Rustic_Storage_Trunk_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 5.00 kg (11 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
 **Rustic Storage Trunk** is a [Decorations](./Decorations.md) that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
@@ -39,3 +36,5 @@ Despite having a Backpack carry weight value, the trunk cannot be picked up and 
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 
 **Quantity:** 9
+
+## Update History

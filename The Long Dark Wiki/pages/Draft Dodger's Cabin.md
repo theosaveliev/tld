@@ -4,21 +4,15 @@
 
 **Draft Dodger's Cabin**
 
-[Draft Dodger's Cabin](../assets/Draft_Dodger%27s_Cabin.jpg)
-
-**Location**
-
-[Draft Dodger's Cabin Location](../assets/Draft_Dodger%27s_Cabin_Location.png)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**Type:** Residential
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Has an interior **Draft Dodger's Cabin** is a lonely cabin in [Pleasant Valley](./Pleasant%20Valley.md).
+| Property | Details |
+| --- | --- |
+|  | [Draft Dodger's Cabin](../assets/Draft_Dodger%27s_Cabin.jpg) |
+| **Location** |  |
+|  | [Draft Dodger's Cabin Location](../assets/Draft_Dodger%27s_Cabin_Location.png) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| Type | Residential\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior **Draft Dodger's Cabin** is a lonely cabin in [Pleasant Valley](./Pleasant%20Valley.md). |
 
 ## Overview
 

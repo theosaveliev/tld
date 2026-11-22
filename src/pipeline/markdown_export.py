@@ -1679,9 +1679,7 @@ def _append_markdown_list_item(
     line: str, fence_match: re.Match[str] | None, state: MarkdownListState
 ) -> bool:
     """Normalize one list marker while tracking its nesting indentation."""
-    list_match = re.match(
-        r"^(?P<indent> *)(?P<marker>[-+*]|[0-9]+[.)])[ \t]+", line
-    )
+    list_match = re.match(r"^(?P<indent> *)(?P<marker>[-+*]|[0-9]+[.)])[ \t]+", line)
     if list_match is None:
         return False
 
@@ -1696,7 +1694,7 @@ def _append_markdown_list_item(
     if not state.list_stack:
         state.base_indent = indent if is_unordered else 0
     state.list_stack.append(indent)
-    state.output.append(line[state.base_indent:])
+    state.output.append(line[state.base_indent :])
     if fence_match is not None:
         state.fence = (fence_match.group(1)[0], len(fence_match.group(1)))
     else:
@@ -1712,19 +1710,12 @@ def _append_markdown_list_continuation(
         state.output.append(line.rstrip(" \t"))
         return True
 
-    if (
-        state.list_stack
-        and state.base_indent
-        and leading_indent >= state.base_indent
-    ):
-        normalized = line[state.base_indent:]
+    if state.list_stack and state.base_indent and leading_indent >= state.base_indent:
+        normalized = line[state.base_indent :]
         state.output.append(normalized)
         normalized_fence = FENCED_CODE_RE.match(normalized)
         if normalized_fence is not None:
-            state.fence = (
-                normalized_fence.group(1)[0],
-                len(normalized_fence.group(1)),
-            )
+            state.fence = (normalized_fence.group(1)[0], len(normalized_fence.group(1)))
         return True
     return False
 
@@ -1736,7 +1727,7 @@ def _normalize_markdown_list_indentation(value: str) -> str:
     for line in value.splitlines(keepends=True):
         leading_indent = len(line) - len(line.lstrip(" "))
         fence_line = (
-            line[state.base_indent:]
+            line[state.base_indent :]
             if (
                 state.list_stack
                 and state.base_indent

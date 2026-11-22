@@ -4,15 +4,13 @@
 
 **Eric's Falls**
 
-[Erics falls](../assets/Erics_falls.jpg)
-
-**Location**
-
-[Eric's Falls Location](../assets/Eric%27s_Falls_Location.png)
-
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Erics falls](../assets/Erics_falls.jpg) |
+| **Location** |  |
+|  | [Eric's Falls Location](../assets/Eric%27s_Falls_Location.png) |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| Type | Landmark\|- |
 
 ## Overview
 

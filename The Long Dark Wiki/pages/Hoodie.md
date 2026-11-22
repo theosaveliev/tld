@@ -4,33 +4,22 @@
 
 **Hoodie**
 
-[Hoodie icon](../assets/Hoodie_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Renewable:** Yes (rare [Beachcombing](./Beachcombing.md))
-
-**Clothing Slot:** Inner torso
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)10%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)2%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** 1 [Cloth](./Cloth.md) 45 minutes
-
-**Repair:** 1 [Cloth](./Cloth.md) 60 minutes 30% condition
+| Property | Details |
+| --- | --- |
+|  | [Hoodie icon](../assets/Hoodie_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
+| Clothing Slot | Inner torso |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)10% |
+| Protection | [Protection icon](../assets/Protection_icon.png)2% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | 1 [Cloth](./Cloth.md) / 45 minutes |
+| Repair | 1 [Cloth](./Cloth.md) / 60 minutes / 30% condition |
 
 > “**Hooded cotton sweatshirt. You know, the kind that passes for high fashion with game developers these days.**”
 >

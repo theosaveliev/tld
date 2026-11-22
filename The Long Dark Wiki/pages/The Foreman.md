@@ -15,31 +15,22 @@
 
 **The Foreman**
 
-[Foreman's Polaroid 4 icon](../assets/Foreman%27s_Polaroid_4_icon.png)
+| Property | Details |
+| --- | --- |
+|  | [Foreman's Polaroid 4 icon](../assets/Foreman%27s_Polaroid_4_icon.png) |
+| Release | 2.03 |
+| Date | 5 December 2022 |
+| Mission | [Buried Echoes](./Buried%20Echoes.md) [Last Horizon](./Last%20Horizon.md) |
+| **Biographical Information** |  |
+| Age | Unknown |
+| Status | Most likely Deceased |
+| Occupation | Mine Foreman (cover occupation) Unknown Secret Agent |
+| **Physical Information** |  |
+| Sex | Male |
+| **Game Information** |  |
+| Equipment | [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md) [Tactical Gloves](./Tactical%20Gloves.md) / [Tactical Jacket](./Tactical%20Jacket.md) |
 
-**Release:** 2.03
-
-**Date:** 5 December 2022
-
-**Mission:** [Buried Echoes](./Buried%20Echoes.md) [Last Horizon](./Last%20Horizon.md)
-
-**Biographical Information**
-
-**Age:** Unknown
-
-**Status:** Most likely Deceased
-
-**Occupation:** Mine Foreman (cover occupation) Unknown Secret Agent
-
-**Physical Information**
-
-**Sex:** Male
-
-**Game Information**
-
-**Equipment:** [Foreman's Tool Belt](./Foreman%27s%20Tool%20Belt.md) [Tactical Gloves](./Tactical%20Gloves.md) [Tactical Jacket](./Tactical%20Jacket.md)
-
-**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it].**
+**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=The+Foreman&action=edit expanding it].**
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -50,7 +41,7 @@
 
 **The Foreman** is a major character in the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) storyline.
 
-**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=The+Foreman&amp;action=edit expanding it].**
+**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=The+Foreman&action=edit expanding it].**
 
 ## Overview
 
@@ -75,3 +66,7 @@ His [Tool Belt](./Foreman%27s%20Tool%20Belt.md) is found at the end of the Tale,
 The Foreman is the protagonist of [Last Horizon](./Last%20Horizon.md), being one of two characters whose notes are found throughout the tale (the other being Dr. Rüdiger). Throughout the Tale, The Foreman reveals that he was secretly a special agent inserted as a site foreman to keep tabs on Rüdiger, and is now making it his personal mission to track him down to avenge the many miners killed by his hand.
 
 Throughout the Tale, it is revealed the machine had a grievous effect on his mind, as each of his Foreman's Technical notes continue to get worse handwriting each time one is found. The Foreman also begins noticing that he is losing/leaving things behind, and cannot control his actions.
+
+## Belongings
+
+## Trivia

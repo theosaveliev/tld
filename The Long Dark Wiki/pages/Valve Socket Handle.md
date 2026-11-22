@@ -10,33 +10,22 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Valve Socket Handle**
 
-[Valve Socket Handle icon](../assets/Valve_Socket_Handle_icon.png)
-
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
-
-**Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [The Power Plant](./The%20Power%20Plant.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A sturdy handle for opening and closing pipe valves.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_SteamPipeValveHandle
+| Property | Details |
+| --- | --- |
+|  | [Valve Socket Handle icon](../assets/Valve_Socket_Handle_icon.png) |
+| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [The Power Plant](./The%20Power%20Plant.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A sturdy handle for opening and closing pipe valves. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_SteamPipeValveHandle |
 
 The **Valve Socket Handle** is a [Collectible](./Collectibles.md) Tools item found in the [Wintermute](./Wintermute.md) story mode of [_The Long Dark_](./The%20Long%20Dark.md).
 

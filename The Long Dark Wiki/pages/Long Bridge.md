@@ -4,19 +4,15 @@
 
 **Long Bridge**
 
-[Screen ff04f5c7 2496 4839 b372 ddcf19507a70 hi](../assets/Screen_ff04f5c7-2496-4839-b372-ddcf19507a70_hi.jpg)
-
-**Location**
-
-[Long Bridge Location](../assets/Long_Bridge_Location.png)
-
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
-
-**Description:** The long bridge connecting both sides of the region
-
-**General**
-
-Provides some shelter **Long Bridge** is a highway bridge that connects both sides of the region safely. It is lined by several broken down vehicles and an overturned semi truck trailer. While offering limited protection from the cold, the vehicles can offer temporary emergency shelter.
+| Property | Details |
+| --- | --- |
+|  | [Screen ff04f5c7 2496 4839 b372 ddcf19507a70 hi](../assets/Screen_ff04f5c7-2496-4839-b372-ddcf19507a70_hi.jpg) |
+| **Location** |  |
+|  | [Long Bridge Location](../assets/Long_Bridge_Location.png) |
+| Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
+| Description | The long bridge connecting both sides of the region |
+| **General** |  |
+|  | Provides some shelter **Long Bridge** is a highway bridge that connects both sides of the region safely. It is lined by several broken down vehicles and an overturned semi truck trailer. While offering limited protection from the cold, the vehicles can offer temporary emergency shelter. |
 
 ## Overview
 

@@ -4,27 +4,19 @@
 
 **Security Chief's Log 32**
 
-[Security Chief's Log 32 icon](../assets/Security_Chief%27s_Log_32_icon.png)
-
-**Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** An entry in an old logbook.
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_Tale2ChiefNote2
+| Property | Details |
+| --- | --- |
+|  | [Security Chief's Log 32 icon](../assets/Security_Chief%27s_Log_32_icon.png) |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | An entry in an old logbook. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Tale2ChiefNote2 |
 
 **Security Chief's Log 32** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found in the storeroom on the right upon entering the entering the locked mountain section of the [Langston Mine](./Langston%20Mine.md).
 

@@ -4,19 +4,15 @@
 
 **Milton Basin**
 
-[Milton basin aerial view](../assets/Milton_basin_aerial_view.jpg)
-
-**Location**
-
-[Milton Basin Location](../assets/Milton_Basin_Location.png)
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
-
-**Description:** A large lake that connects to [Forlorn Muskeg](./Forlorn%20Muskeg.md)
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Milton basin aerial view](../assets/Milton_basin_aerial_view.jpg) |
+| **Location** |  |
+|  | [Milton Basin Location](../assets/Milton_Basin_Location.png) |
+| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Description | A large lake that connects to [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Location
 

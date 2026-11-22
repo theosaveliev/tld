@@ -11,29 +11,20 @@
 
 **Anxiety**
 
-[Anxiety icon](../assets/Anxiety_icon.png)
-
-**Release:** [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86)
-
-**Update:** 1.86
-
-**Properties**
-
-**Category:** [Afflictions](./Afflictions.md)
-
-**Caused By:** Being within 200-51m from the Darkwalker
-
-**Effect:** Negative
-
-**Type:** Risk
-
-**Affliction Duration:** Until Treated
-
-**Treatment**
-
-**Treatment:** Move more than 200m away from the Darkwalker
-
-**Recovery Time:** Instant
+| Property | Details |
+| --- | --- |
+|  | [Anxiety icon](../assets/Anxiety_icon.png) |
+| Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86) |
+| Update | 1.86 |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Caused By | Being within 200-51m from the Darkwalker |
+| Effect | Negative |
+| Type | Risk |
+| Affliction Duration | Until Treated |
+| **Treatment** |  |
+| Treatment | Move more than 200m away from the Darkwalker |
+| Recovery Time | Instant |
 
 > “**If this is a nightmare, I wanna wake up!**”
 

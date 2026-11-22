@@ -56,3 +56,5 @@ Aside from vehicles, the following locations contain a radio:
 - [Jackrabbit Island](./Jackrabbit%20Island.md)
 - [Misanthrope's Homestead](./Misanthrope%27s%20Homestead.md)
 - [Coastal House](./Coastal%20House.md) (Currently unconfirmed, which if any of the unnamed coastal houses has one)
+
+## Trivia

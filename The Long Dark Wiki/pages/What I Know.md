@@ -127,7 +127,7 @@ Information here was previously found through the cut Trust system (Predux Ep 1 
 ### Episode 2
 
 - [History of The Collapse](./History%20of%20The%20Collapse.md) (Part 3 and 4)
-- [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md)
+- [Mystery Lake & Area](./Mystery%20Lake%20%26%20Area.md)
 - [Carter Hydro Dam (Collectible)](./Carter%20Hydro%20Dam%20%28Collectible%29.md)
 
 ### Episode 3

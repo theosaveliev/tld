@@ -14,19 +14,15 @@
 
 **Jeremiah's Folly**
 
-[Jeremiah's Folly](../assets/Jeremiah%27s_Folly.jpg)
-
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Previous:** [Survival School (Predux)](./Survival%20School%20%28Predux%29.md)
-
-**Current:** Jeremiah's Folly
-
-**Next:** [Renewed Hope (Predux)](./Renewed%20Hope%20%28Predux%29.md)
-
-**Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) [Old Bear](./Old%20Bear.md)
+| Property | Details |
+| --- | --- |
+|  | [Jeremiah's Folly](../assets/Jeremiah%27s_Folly.jpg) |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [Survival School (Predux)](./Survival%20School%20%28Predux%29.md) |
+| Current | Jeremiah's Folly |
+| Next | [Renewed Hope (Predux)](./Renewed%20Hope%20%28Predux%29.md) |
+| Region | [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
 
 **Template:spoiler**
 > **If you don't kill the Old Bear, you'll never make it out of Mystery Lake. Finish what Jeremiah started.**
@@ -104,6 +100,6 @@ Several plot points and locations have been replaced/altered since the Redux re-
 
 \* UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
 
-  - Added to game.
+- Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Removed from the game as part of the Redux edition.

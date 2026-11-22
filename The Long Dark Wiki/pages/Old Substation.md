@@ -11,27 +11,17 @@
 
 **Old Substation**
 
-[Old Substation](../assets/Old_Substation.jpg)
-
-**Location**
-
-[Old Substation Location](../assets/Old_Substation_Location.png)
-
-Region
-
-**Location:** Close to Narrow Bridge in the southwest of the region
-
-**General**
-
-**Type:** Industrial
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-[Workbench icon green](../assets/Workbench_icon_green.png)
-
-Has a workbench
+| Property | Details |
+| --- | --- |
+|  | [Old Substation](../assets/Old_Substation.jpg) |
+| **Location** |  |
+|  | [Old Substation Location](../assets/Old_Substation_Location.png) |
+| Region |  |
+| Location | Close to Narrow Bridge in the southwest of the region |
+| **General** |  |
+| Type | Industrial\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
 
 ## Overview
 

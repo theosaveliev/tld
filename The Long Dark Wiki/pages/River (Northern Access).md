@@ -4,12 +4,10 @@
 
 **River (Northern Access)**
 
-[River Northern Access](../assets/River_Northern_Access.jpg)
-
-**Location**
-
-[River (Northern Access) Location](../assets/River_%28Northern_Access%29_Location.png)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**General**
+| Property | Details |
+| --- | --- |
+|  | [River Northern Access](../assets/River_Northern_Access.jpg) |
+| **Location** |  |
+|  | [River (Northern Access) Location](../assets/River_%28Northern_Access%29_Location.png) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| **General** |  |

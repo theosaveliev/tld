@@ -108,7 +108,7 @@ Ammunition that is found in the game world will always be in "Perfect" condition
 ## Trivia
 
 - Since the Revolver is lacking a speed loader mechanism, the character will load cartridges one by one.
-- The default Revolver in-game most closely resembles a Smith &amp; Wesson Model 27, which uses .357 Magnum ammunition; however, in-game Revolver Ammunition appears to be .32 S&amp;W Long. A cut icon for Revolver Bullets named [.44 Magnum](../assets/Revolver_44_Mag_Bullet_icon.png) might also be the correct cartridge caliber.
+- The default Revolver in-game most closely resembles a Smith & Wesson Model 27, which uses .357 Magnum ammunition; however, in-game Revolver Ammunition appears to be .32 S&W Long. A cut icon for Revolver Bullets named [.44 Magnum](../assets/Revolver_44_Mag_Bullet_icon.png) might also be the correct cartridge caliber.
 - Revolver Ammunition size is much smaller than the [Rifle Ammunition](./Rifle%20Ammunition.md) and can thus be hard to spot on the ground.
 - 10 or more dropped rounds appear as a box of rounds.
 - Ammunition for the revolver is much more abundant than ammo for the rifle, and can be found randomly in most locations.

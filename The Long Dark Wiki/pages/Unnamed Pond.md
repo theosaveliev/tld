@@ -4,15 +4,13 @@
 
 **Unnamed Pond**
 
-[Unnamed pond 01](../assets/Unnamed_pond_01.jpg)
-
-**Location**
-
-[Unnamed Pond Location](../assets/Unnamed_Pond_Location.png)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Unnamed pond 01](../assets/Unnamed_pond_01.jpg) |
+| **Location** |  |
+|  | [Unnamed Pond Location](../assets/Unnamed_Pond_Location.png) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Type | Outdoors\|- |
 
 ## Overview
 

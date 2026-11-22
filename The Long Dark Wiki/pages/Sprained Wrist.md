@@ -4,27 +4,19 @@
 
 **Sprained Wrist**
 
-[Sprained Wrist icon](../assets/Sprained_Wrist_icon.png)
-
-**Properties**
-
-**Category:** [Afflictions](./Afflictions.md)
-
-**Description:** You have sprained your wrist. You will not be able to hold weapons until you treat it, or it heals over time.
-
-**Caused By:** Slopes Falls Wildlife [Struggle](./Struggle.md)
-
-**Effect:** Negative
-
-**Type:** Injury
-
-**Affliction Duration:** Until Treated or Recovery Time passes
-
-**Treatment**
-
-**Treatment:** 1 x [Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
-
-**Recovery Time:** 2 hours of [Sleep](./Sleep.md)
+| Property | Details |
+| --- | --- |
+|  | [Sprained Wrist icon](../assets/Sprained_Wrist_icon.png) |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Description | You have sprained your wrist. You will not be able to hold weapons until you treat it, or it heals over time. |
+| Caused By | Slopes Falls / Wildlife [Struggle](./Struggle.md) |
+| Effect | Negative |
+| Type | Injury |
+| Affliction Duration | Until Treated or Recovery Time passes |
+| **Treatment** |  |
+| Treatment | 1 x [Bandage icon](../assets/Bandage_icon.png) [Bandage](./Bandage.md) |
+| Recovery Time | 2 hours of [Sleep](./Sleep.md) |
 
 A **Sprained Wrist** can be caused by a fall, being exhausted or encumbered while walking on uneven or steep terrain, or from an [animal attack](./Struggle.md).
 

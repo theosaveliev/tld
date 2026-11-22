@@ -4,29 +4,20 @@
 
 **Blood Soaked Forest Talker Documents**
 
-[Blood Soaked Forest Talker Documents icon](../assets/Blood_Soaked_Forest_Talker_Documents_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Lake Gunshots](./Lake%20Gunshots.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Official looking documents, soaked in blood.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Blood Soaked Forest Talker Documents icon](../assets/Blood_Soaked_Forest_Talker_Documents_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Lake Gunshots](./Lake%20Gunshots.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Official looking documents, soaked in blood. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 **Blood Soaked Forest Talker Documents** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found on the corpse of the [Forest Talker](./Forest%20Talkers.md) at the end of the [Lake Gunshots](./Lake%20Gunshots.md) if Mackenzie chooses to take the ammo from the [Forest Talker Supplies](./Forest%20Talker%20Supplies.md).
 

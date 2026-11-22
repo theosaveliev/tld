@@ -4,17 +4,14 @@
 
 **Alan's Cave**
 
-[Alan's Cave](../assets/Alan%27s_Cave.jpg)
-
-**Location**
-
-[Alan's Cave Location](../assets/Alan%27s_Cave_Location.png)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**General**
-
-**Type:** Cave
+| Property | Details |
+| --- | --- |
+|  | [Alan's Cave](../assets/Alan%27s_Cave.jpg) |
+| **Location** |  |
+|  | [Alan's Cave Location](../assets/Alan%27s_Cave_Location.png) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| **General** |  |
+| Type | Cave\|- |
 
 ## Overview
 

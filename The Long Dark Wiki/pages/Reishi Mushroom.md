@@ -13,31 +13,21 @@
 
 **Reishi Mushroom**
 
-[Reishi Mushroom icon](../assets/Reishi_Mushroom_icon.png)
-
-**Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)
-
-**Wintermute:** Yes
-
-**Renewable:** No
-
-**Properties**
-
-**Item type:** [Materials](./Materials.md)
-
-**Stackable:** Yes
-
-**Examine:** A large, edible shelf mushroom, found mainly on coniferous trees.
-
-**Values**
-
-**Weight:** 0.05 kg (0.11 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Reishi Mushroom icon](../assets/Reishi_Mushroom_icon.png) |
+| Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192) |
+| Wintermute | Yes |
+| Renewable | No |
+| **Properties** |  |
+| Item type | [Materials](./Materials.md)\|- |
+| Stackable | Yes |
+| Examine | A large, edible shelf mushroom, found mainly on coniferous trees. |
+| **Values** |  |
+| Weight | 0.05 kg (0.11 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 **Reishi Mushrooms** are a natural material that can be used to create both food and first aid treatments that are used to treat [Afflictions](./Afflictions.md) in _The Long Dark_.
 

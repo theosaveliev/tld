@@ -10,13 +10,12 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Emergency Food**
 
-[Emergency Food icon](../assets/Emergency_Food_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Emergency Food icon](../assets/Emergency_Food_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| Weight | [Weight icon](../assets/Weight_icon.png)5.00 kg(11 lbs) |
 
 > “**Hardy stuff in an emergency, but not a fancy meal.**”
 >

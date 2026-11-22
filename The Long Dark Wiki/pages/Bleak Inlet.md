@@ -14,29 +14,20 @@
 
 **Bleak Inlet**
 
-[Bleakinlet](../assets/Bleakinlet.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[Bleak Inlet Location](../assets/Bleak_Inlet_Location.png)
-
-[Bleak Inlet Region Map](../assets/Bleak_Inlet_Region_Map.png)
-
-**Details**
-
-**Description:** Industrial wasteland ravaged by strong winds and timberwolves
-
-**Connecting Regions:** [Forlorn Muskeg](./Forlorn%20Muskeg.md), [The Ravine](./The%20Ravine.md)
-
-**Characters:** None
-
-**Difficulty:** Advanced
-
-**Interloper Region Spawn:** Yes
-
-**Locations:** 21
-
-**Date Added:** Dec 10, 2019
+| Property | Details |
+| --- | --- |
+|  | [Bleakinlet](../assets/Bleakinlet.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [Bleak Inlet Location](../assets/Bleak_Inlet_Location.png) |
+|  | [Bleak Inlet Region Map](../assets/Bleak_Inlet_Region_Map.png) |
+| **Details** |  |
+| Description | Industrial wasteland ravaged by strong winds and timberwolves |
+| Connecting Regions | [Forlorn Muskeg](./Forlorn%20Muskeg.md), [The Ravine](./The%20Ravine.md) |
+| Characters | None |
+| Difficulty | Advanced |
+| Interloper Region Spawn | Yes |
+| Locations | 21 |
+| Date Added | Dec 10, 2019 |
 
 > “**Once home to a thriving industrial Cannery, seismic instability has cut Bleak Inlet off from the rest of the Great Bear mainland. Inaccessible and in the heart of Timberwolf territory, exploring Bleak Inlet is not for the faint of heart. The Cannery industrial complex holds a useful treasure for those hardy enough to access it.**”
 >

@@ -40,7 +40,7 @@ A **Fire** is a pile of burning fuel that has been lit using the [Fire Starting]
 
 _Main article: [Fire Starting](./Fire%20Starting.md)_
 
-To start a fire, players have to "use" an existing [firebox](#contained-fires) or [campfire](#campfires) and press the "Start Fire" hotkey. Players can also build a campfire using [Radial Menu](./Radial%20Menu.md) &gt; Campcraft &gt; Fire. The fire-starting interface presents four slots: an ignition source (starter), tinder, fuel, and accelerant (optional). At the top of the screen, the player's current fire starting skill, duration of fire, and the chance of success with the currently selected materials are displayed. Coal cannot be used to start a fire.
+To start a fire, players have to "use" an existing [firebox](#contained-fires) or [campfire](#campfires) and press the "Start Fire" hotkey. Players can also build a campfire using [Radial Menu](./Radial%20Menu.md) > Campcraft > Fire. The fire-starting interface presents four slots: an ignition source (starter), tinder, fuel, and accelerant (optional). At the top of the screen, the player's current fire starting skill, duration of fire, and the chance of success with the currently selected materials are displayed. Coal cannot be used to start a fire.
 
 ## Types of Fuel
 

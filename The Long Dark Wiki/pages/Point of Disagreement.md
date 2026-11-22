@@ -4,15 +4,13 @@
 
 **Point of Disagreement**
 
-[Point of disagreement](../assets/Point_of_disagreement.jpg)
-
-**Location**
-
-[Point of Disagreement Location](../assets/Point_of_Disagreement_Location.png)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Point of disagreement](../assets/Point_of_disagreement.jpg) |
+| **Location** |  |
+|  | [Point of Disagreement Location](../assets/Point_of_Disagreement_Location.png) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| Type | Outdoors\|- |
 
 ## Overview
 

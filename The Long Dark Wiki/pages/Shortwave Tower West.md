@@ -4,17 +4,14 @@
 
 **Shortwave Tower West**
 
-[20190101173144 1](../assets/20190101173144_1.jpg)
-
-**Location**
-
-[Shortwave Tower West Location](../assets/Shortwave_Tower_West_Location.png)
-
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
-
-**General**
-
-**Type:** OutdoorsMilitary/Sporting
+| Property | Details |
+| --- | --- |
+|  | [20190101173144 1](../assets/20190101173144_1.jpg) |
+| **Location** |  |
+|  | [Shortwave Tower West Location](../assets/Shortwave_Tower_West_Location.png) |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
+| **General** |  |
+| Type | OutdoorsMilitary/Sporting\|- |
 
 ## Surroundings
 

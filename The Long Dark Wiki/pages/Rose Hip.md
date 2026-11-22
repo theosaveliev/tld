@@ -13,15 +13,13 @@
 
 **Rose Hip**
 
-[Rose Hip icon](../assets/Rose_Hip_icon.png)
-
-**General**
-
-**Item Type:** Material
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Rose Hip icon](../assets/Rose_Hip_icon.png) |
+| **General** |  |
+| Item Type | Material\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.01 kg(0.02 lbs) |
 
 > “**A fruit of a wild rose bush.**”
 >

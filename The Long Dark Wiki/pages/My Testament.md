@@ -4,27 +4,19 @@
 
 **My Testament**
 
-[My Testament icon](../assets/My_Testament_icon.png)
-
-**Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A faded piece of paper covered in fine handwriting.
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_Tale2\_RudigerNote1
+| Property | Details |
+| --- | --- |
+|  | [My Testament icon](../assets/My_Testament_icon.png) |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A faded piece of paper covered in fine handwriting. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Tale2\_RudigerNote1 |
 
 **My Testament** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found the control room next to [Rüdiger's Machine](./R%C3%BCdiger%27s%20Machine.md). This is the same transcript that comes over the intercom after the player awakes from touching the Machine.
 

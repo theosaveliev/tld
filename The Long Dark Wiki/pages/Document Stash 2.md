@@ -10,23 +10,17 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Document Stash 2**
 
-[Document Stash 2 icon](../assets/Document_Stash_2_icon.png)
-
-**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** An old lockbox.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Document Stash 2 icon](../assets/Document_Stash_2_icon.png) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | An old lockbox. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
 
 **Document Stash 2** is an item found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
@@ -37,3 +31,5 @@ It is found in a [Loose Bricks Stash](./Loose%20Bricks%20Stash.md) in the Hunter
 It cannot be dropped or placed in a container, so it cannot be lost.
 
 _There's still a Known Issue with Sutherland's Tale where there is a chance the Loose Brick Stash in the Hunter Prepper Cache does not spawn. If this is the case the Document Stash 2 can be found at the Special Request 4 location (Joplin's Prepper Cache)._
+
+## Update History

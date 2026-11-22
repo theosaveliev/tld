@@ -11,27 +11,17 @@
 
 **Last Lonely House**
 
-[Last Lonely House resized](../assets/Last_Lonely_House_resized.png)
-
-**Location**
-
-[Last Lonely House Location](../assets/Last_Lonely_House_Location.png)
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**Description:** A small cabin atop a ridge.
-
-**General**
-
-**Type:** Residential
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-[Workbench icon green](../assets/Workbench_icon_green.png)
-
-Has a workbench
+| Property | Details |
+| --- | --- |
+|  | [Last Lonely House resized](../assets/Last_Lonely_House_resized.png) |
+| **Location** |  |
+|  | [Last Lonely House Location](../assets/Last_Lonely_House_Location.png) |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| Description | A small cabin atop a ridge. |
+| **General** |  |
+| Type | Residential\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
 
 ## Overview
 

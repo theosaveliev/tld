@@ -13,29 +13,20 @@
 
 **Fir Firewood**
 
-[Fir Firewood icon](../assets/Fir_Firewood_icon.png)
-
-**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
-
-**Wintermute:** No
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [Fire Starting](./Fire%20Starting.md)
-
-**Stackable:** yes
-
-**Examine:** While not technically a hardwood, fir burns like one.
-
-**Values**
-
-**Weight:** 1.00 kg (2.2 lbs)
-
-**Advanced data**
-
-**Item key:** gear\_hardwood
+| Property | Details |
+| --- | --- |
+|  | [Fir Firewood icon](../assets/Fir_Firewood_icon.png) |
+| Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
+| Wintermute | No |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [Fire Starting](./Fire%20Starting.md)\|- |
+| Stackable | yes |
+| Examine | While not technically a hardwood, fir burns like one. |
+| **Values** |  |
+| Weight | 1.00 kg (2.2 lbs) |
+| **Advanced data** |  |
+| Item key | gear\_hardwood |
 
 **Fir Firewood** is a fuel for fires in _[The Long Dark](./The%20Long%20Dark.md)_, it also is a material for repairing the [Heavy Hammer](./Heavy%20Hammer.md).
 
@@ -47,17 +38,14 @@ Fir Firewood can be harvested from downed Fir Limbs found outdoors with a [tool]
 
 **Fir Firewood**
 
-**Type:** Fuel
-
-**Statistics**
-
-**Duration:** [Fire Starting](../assets/Fire_Starting.png) 90 minutes
-
-**Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) 0%
-
-**Heat:** [Fire heat icon](../assets/Fire_heat_icon.png) +8°C (+14.4°F)
-
-**Burn Density:** 1.5 hr/kg (0.68 hr/lb)
+| Property | Details |
+| --- | --- |
+| Type | Fuel |
+| **Statistics** |  |
+| Duration | [Fire Starting](../assets/Fire_Starting.png) 90 minutes |
+| Start Chance | [Firestart mod icon](../assets/Firestart_mod_icon.png) 0% |
+| Heat | [Fire heat icon](../assets/Fire_heat_icon.png) +8°C (+14.4°F) |
+| Burn Density | 1.5 hr/kg (0.68 hr/lb) |
 
 ## Obtaining
 

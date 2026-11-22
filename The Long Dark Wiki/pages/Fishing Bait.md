@@ -4,35 +4,23 @@
 
 **Fishing Bait**
 
-[Fishing Bait icon](../assets/Fishing_Bait_icon.png)
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Wintermute:** No
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** Yes
-
-**Examine:** Basic fish bait. Useful for catching larger fish.
-
-**Values**
-
-**Weight:** 0.05 kg (0.11 lbs)
-
-**Actions**
-
-**Backpack:** Use, Actions, Drop
-
-**On ground:** Take It, Leave It
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_FishingBait
+| Property | Details |
+| --- | --- |
+|  | [Fishing Bait icon](../assets/Fishing_Bait_icon.png) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | Yes |
+| Examine | Basic fish bait. Useful for catching larger fish. |
+| **Values** |  |
+| Weight | 0.05 kg (0.11 lbs) |
+| **Actions** |  |
+| Backpack | Use, Actions, Drop |
+| On ground | Take It, Leave It |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_FishingBait |
 
 **Fishing Bait** is a Tool used for [Ice Fishing](./Ice%20Fishing.md) in _The Long Dark_. It released in the free update of Part 3: Frontier Comforts for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 

@@ -4,19 +4,14 @@
 
 **Basement (Sundered Pass)**
 
-[Basement (Sundered Pass)](../assets/Basement_%28Sundered_Pass%29.jpg)
-
-**Location**
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**General**
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Has an interior **Basement (Sundered Pass)** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md).
+| Property | Details |
+| --- | --- |
+|  | [Basement (Sundered Pass)](../assets/Basement_%28Sundered_Pass%29.jpg) |
+| **Location** |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| **General** |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior **Basement (Sundered Pass)** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md). |
 
 ## Overview
 

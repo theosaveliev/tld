@@ -4,15 +4,13 @@
 
 **Cascading Gap**
 
-[Cascading Gap](../assets/Cascading_Gap.jpg)
-
-**Location**
-
-[Cascading Gap Location](../assets/Cascading_Gap_Location.png)
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-Has no shelter **Cascading Gap** is a location in [Sundered Pass](./Sundered%20Pass.md).
+| Property | Details |
+| --- | --- |
+|  | [Cascading Gap](../assets/Cascading_Gap.jpg) |
+| **Location** |  |
+|  | [Cascading Gap Location](../assets/Cascading_Gap_Location.png) |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+|  | Has no shelter **Cascading Gap** is a location in [Sundered Pass](./Sundered%20Pass.md). |
 
 ## Overview
 

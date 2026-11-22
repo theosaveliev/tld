@@ -4,31 +4,21 @@
 
 **Jeans**
 
-[Jeans icon](../assets/Jeans_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Outer legs
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)0%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)2%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-1%
-
-**Harvest:** 1 × [Cloth](./Cloth.md) 30 minutes
-
-**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 30% condition
+| Property | Details |
+| --- | --- |
+|  | [Jeans icon](../assets/Jeans_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Outer legs |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.0 °C(0 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)0% |
+| Protection | [Protection icon](../assets/Protection_icon.png)2% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-1% |
+| Harvest | 1 × [Cloth](./Cloth.md) / 30 minutes |
+| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 30% condition |
 
 > “**Basic denim jeans. Better than nothing.**”
 >

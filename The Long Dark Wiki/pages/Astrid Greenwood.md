@@ -18,35 +18,23 @@
 
 **Astrid Greenwood**
 
-[Astrid](../assets/Astrid.png)
-
-**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Date:** 1 August 2017
-
-**Wintermute:** **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) **•** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) **•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
-
-**Mission:** **•** [Memories](./Memories.md) **•** [Trauma](./Trauma.md) **•** [Fallen Star](./Fallen%20Star.md) **•** [Coming Storm](./Coming%20Storm.md) **•** [Aftermath](./Aftermath.md) **•** [Donner](./Donner.md)
-
-**Biographical Information**
-
-**Age:** 30's - 40's
-
-**Status:** Alive
-
-**Relatives:** **•** [Will Mackenzie](./Will%20Mackenzie.md) (Ex-Husband) **•** Jack (Son)
-
-**Occupation:** Doctor
-
-**Physical Information**
-
-**Hair:** Brown
-
-**Eyes:** Green
-
-**Game Information**
-
-**Voiced by:** [Jennifer Hale](https://en.wikipedia.org/wiki/Jennifer_Hale)
+| Property | Details |
+| --- | --- |
+|  | [Astrid](../assets/Astrid.png) |
+| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Date | 1 August 2017 |
+| Wintermute | **•** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) / **•** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) / **•** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
+| Mission | **•** [Memories](./Memories.md) / **•** [Trauma](./Trauma.md) / **•** [Fallen Star](./Fallen%20Star.md) / **•** [Coming Storm](./Coming%20Storm.md) / **•** [Aftermath](./Aftermath.md) / **•** [Donner](./Donner.md) |
+| **Biographical Information** |  |
+| Age | 30's - 40's |
+| Status | Alive |
+| Relatives | **•** [Will Mackenzie](./Will%20Mackenzie.md) (Ex-Husband) / **•** Jack (Son) |
+| Occupation | Doctor |
+| **Physical Information** |  |
+| Hair | Brown |
+| Eyes | Green |
+| **Game Information** |  |
+| Voiced by | [Jennifer Hale](https://en.wikipedia.org/wiki/Jennifer_Hale) |
 
 > “__I may not be able to stop this darkness from coming. But I'll be damned if I'm going to let it happen without a fight. __”
 

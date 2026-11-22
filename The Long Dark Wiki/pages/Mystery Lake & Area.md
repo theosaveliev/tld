@@ -2,37 +2,29 @@
 
 **Categories:** Collectibles, Pages with update history · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Mystery_Lake_%26_Area)
 
-**Mystery Lake &amp; Area**
+**Mystery Lake & Area**
 
-[Mystery Lake &amp; Area icon](../assets/Mystery_Lake_%26_Area_icon.png)
+| Property | Details |
+| --- | --- |
+|  | [Mystery Lake & Area icon](../assets/Mystery_Lake_%26_Area_icon.png) |
+| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
-**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
-
-**Mystery Lake &amp; Area** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode.
+**Mystery Lake & Area** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode.
 
 It is found on top of a [Cupboard](./Cupboard.md) in the [Camp Office](./Camp%20Office.md) on the upper floor.
 
 ## Transcript
 
-_The following text is transcribed from **Mystery Lake &amp; Area**_
+_The following text is transcribed from **Mystery Lake & Area**_
 
 The Mystery Lake region is an Alpine valley, average altitude of 1200 meters above sea level, named for the large lake that dominates its South-Eastern quadrant. The region is fringed by mountains on the West and South, and the foothills of the Inner Island Range to the North and East. The region is bisected by a section of the North-South line of the Trans-Island Railway.
 
@@ -50,4 +42,4 @@ To this day, apart from the railway line that passes through, the only connectio
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
 
-  - Added to game.
+- Added to game.

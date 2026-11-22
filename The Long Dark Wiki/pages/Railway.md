@@ -13,7 +13,7 @@
 - [Bridge 1](#bridge-1)
 - [Collapsed Tunnel](#collapsed-tunnel)
 - [Railyard](#railyard)
-- [Wye Track &amp; Depot](#wye-track-depot)
+- [Wye Track & Depot](#wye-track-depot)
 - [SAR Station](#sar-station)
 - [Bridge 2](#bridge-2)
 - [Switching Yard 2](#switching-yard-2)
@@ -28,23 +28,17 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Railway**
 
-[Steam Loco idle 1](../assets/Steam_Loco_idle_1.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[No picture](../assets/No_picture.png)
-
-[Railway In Game Map](../assets/Railway_In-Game_Map.png)
-
-**Details**
-
-**Description:** A section of isolated railway running from a southern maintenance yard near Perseverance Mills all the way to a SAR station on the northern coast.
-
-**Connecting Regions:** [Perseverance Mills](./Perseverance%20Mills.md) (unused)
-
-**Characters:** [Heller](./Heller.md) [Astrid Greenwood](./Astrid%20Greenwood.md)
-
-**Date Added:** 31 March 2026
+| Property | Details |
+| --- | --- |
+|  | [Steam Loco idle 1](../assets/Steam_Loco_idle_1.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [No picture](../assets/No_picture.png) |
+|  | [Railway In Game Map](../assets/Railway_In-Game_Map.png) |
+| **Details** |  |
+| Description | A section of isolated railway running from a southern maintenance yard near Perseverance Mills all the way to a SAR station on the northern coast. |
+| Connecting Regions | [Perseverance Mills](./Perseverance%20Mills.md) (unused) |
+| Characters | [Heller](./Heller.md) [Astrid Greenwood](./Astrid%20Greenwood.md) |
+| Date Added | 31 March 2026 |
 
 The **Railway** (or **Railway Region**) is one of the regions added to [Wintermute](./Wintermute.md) in [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md). It does not have a connection to any other region directly, though it can be inferred it is accessed through the inaccessible Perseverance Mill located in [Perseverance Mills](./Perseverance%20Mills.md). It is said to be north of [Desperation Bay](./Desperation%20Bay.md), along the coastline, possibly making it the northern most region currently in Wintermute.
 
@@ -84,7 +78,7 @@ A collapsed tunnel segment, heading deeper into Great Bear Island. The interior 
 
 A large Yard and Junction in the line, featuring a Coal Filling station, a small covered garage, and an abandoned Trailer. The [truck](./Truck.md) parked at the garage can be entered, with a [Prybar](./Prybar.md) and [Noisemakers](./Noisemaker.md) spawning on a table. You pass through here two times, once heading to the SAR Station, and the other returning to the shed.
 
-#### Wye Track &amp; Depot
+#### Wye Track & Depot
 
 The line terminates in this region, which formerly was home to a Depot, Parking Lot, and a tunnel which has collapsed. A road formerly led through the region, though it's become impassable due to avalanches on each end.
 

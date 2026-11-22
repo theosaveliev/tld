@@ -12,25 +12,18 @@
 
 **Firelog**
 
-[Firelog icon](../assets/Firelog_icon.png)
-
-**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
-
-**Wintermute:** No
-
-**Renewable:** No
-
-**Properties**
-
-**Item type:** [Fire Starting](./Fire%20Starting.md)
-
-**Stackable:** yes
-
-**Examine:** Firelog made of chemicals and compressed shavings. Doesn't throw off much heat.
-
-**Values**
-
-**Weight:** 2.00 kg (4.4 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Firelog icon](../assets/Firelog_icon.png) |
+| Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
+| Wintermute | No |
+| Renewable | No |
+| **Properties** |  |
+| Item type | [Fire Starting](./Fire%20Starting.md)\|- |
+| Stackable | yes |
+| Examine | Firelog made of chemicals and compressed shavings. Doesn't throw off much heat. |
+| **Values** |  |
+| Weight | 2.00 kg (4.4 lbs) |
 
 **Firelogs** are one of the many sources of fuel that can be found on Great Bear Island.
 
@@ -42,17 +35,14 @@ The Firelog burns for two hours and increases the probability of successfully li
 
 **Firelog**
 
-**Type:** Fuel
-
-**Statistics**
-
-**Duration:** [Fire Starting](../assets/Fire_Starting.png) 120 minutes
-
-**Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) 7%
-
-**Heat:** [Fire heat icon](../assets/Fire_heat_icon.png) +3°C (+5.4°F)
-
-**Burn Density:** 1 hr/kg (0.45 hr/lb)
+| Property | Details |
+| --- | --- |
+| Type | Fuel |
+| **Statistics** |  |
+| Duration | [Fire Starting](../assets/Fire_Starting.png) 120 minutes |
+| Start Chance | [Firestart mod icon](../assets/Firestart_mod_icon.png) 7% |
+| Heat | [Fire heat icon](../assets/Fire_heat_icon.png) +3°C (+5.4°F) |
+| Burn Density | 1 hr/kg (0.45 hr/lb) |
 
 ## Obtaining
 

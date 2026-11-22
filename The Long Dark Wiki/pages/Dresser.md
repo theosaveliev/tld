@@ -11,17 +11,14 @@
 
 **Dresser**
 
-[Dresser icon](../assets/Dresser_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Values**
-
-**Weight:** 25.00 kg (55 lbs)
-
-**Actions**
-
-**Backpack:** Drop, Place
+| Property | Details |
+| --- | --- |
+|  | [Dresser icon](../assets/Dresser_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 25.00 kg (55 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
 The **Dresser** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
@@ -52,3 +49,5 @@ This item cannot be harvested.
 **Item:** [Cedar Firewood](./Cedar%20Firewood.md)
 
 **Quantity:** 10
+
+## Update History

@@ -4,15 +4,13 @@
 
 **Pensive Vista**
 
-[Pensive Vista](../assets/Pensive_Vista.jpg)
-
-**Location**
-
-[Pensive Vista Location](../assets/Pensive_Vista_Location.png)
-
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Pensive Vista](../assets/Pensive_Vista.jpg) |
+| **Location** |  |
+|  | [Pensive Vista Location](../assets/Pensive_Vista_Location.png) |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| Type | Outdoors\|- |
 
 ## Overview
 

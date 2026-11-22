@@ -17,37 +17,24 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Thomson Family Stew**
 
-[Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png)
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Wintermute:** No
-
-**Renewable:** No ([Reishi Mushroom](./Reishi%20Mushroom.md))
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Values**
-
-**Calories:** 900 (1125) kcal
-
-**Hydration:** 3.0%
-
-**[Vitamin C](./Scurvy.md):** Major (80%)
-
-**Weight:** 0.35 kg (0.77 lbs)
-
-**Decay Rate**
-
-**Inside:** 20.000% per day
-
-**Outside:** 5.000% per day
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_VegetableStew
+| Property | Details |
+| --- | --- |
+|  | [Thomson Family Stew icon](../assets/Thomson_Family_Stew_icon.png) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| Renewable | No ([Reishi Mushroom](./Reishi%20Mushroom.md)) |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| **Values** |  |
+| Calories | 900 (1125) kcal |
+| Hydration | 3.0% |
+| [Vitamin C](./Scurvy.md) | Major (80%) |
+| Weight | 0.35 kg (0.77 lbs) |
+| **Decay Rate** |  |
+| Inside | 20.000% per day |
+| Outside | 5.000% per day |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_VegetableStew |
 
 **Thomson Family Stew** is a food item in _The Long Dark_, it is learned from a unique [Recipe Card](./Recipe%20Cards.md) and is made with a [Cooking Pot](./Cooking%20Pot.md).
 

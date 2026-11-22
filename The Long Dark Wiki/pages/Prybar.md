@@ -11,19 +11,15 @@
 
 **Prybar**
 
-[Prybar icon](../assets/Prybar_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
-
-**Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 30 minutes
-
-**Repair:** Cannot Repair
+| Property | Details |
+| --- | --- |
+|  | [Prybar icon](../assets/Prybar_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
+| Harvest | 2 × [Scrap Metal](./Scrap%20Metal.md) 30 minutes |
+| Repair | Cannot Repair |
 
 > “**A beat up prybar. Useful for opening locked containers.**”
 >

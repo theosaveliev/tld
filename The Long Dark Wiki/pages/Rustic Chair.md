@@ -11,17 +11,14 @@
 
 **Rustic Chair**
 
-[Rustic Chair icon](../assets/Rustic_Chair_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Values**
-
-**Weight:** 2.00 kg (4.4 lbs)
-
-**Actions**
-
-**Backpack:** Drop, Place
+| Property | Details |
+| --- | --- |
+|  | [Rustic Chair icon](../assets/Rustic_Chair_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 2.00 kg (4.4 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
 The **Rustic Chair** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
@@ -52,3 +49,5 @@ The Rustic Chair can be harvested with a [Hatchet](./Hatchet.md) in 1 hour for 4
 **Item:** [Cedar Firewood](./Cedar%20Firewood.md)
 
 **Quantity:** 4
+
+## Update History

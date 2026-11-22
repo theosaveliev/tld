@@ -4,31 +4,21 @@
 
 **Driving Gloves**
 
-[Driving Gloves icon](../assets/Driving_Gloves_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Hands
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)0%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)1%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** 1 × [Cured Leather](./Cured%20Leather.md) 10 minutes
-
-**Repair:** 1 × [Cured Leather](./Cured%20Leather.md) 30 minutes 25% condition
+| Property | Details |
+| --- | --- |
+|  | [Driving Gloves icon](../assets/Driving_Gloves_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Hands |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)0% |
+| Protection | [Protection icon](../assets/Protection_icon.png)1% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | 1 × [Cured Leather](./Cured%20Leather.md) / 10 minutes |
+| Repair | 1 × [Cured Leather](./Cured%20Leather.md) / 30 minutes / 25% condition |
 
 > “**Thin leather gloves designed for driving. Not much use in the cold.**”
 >

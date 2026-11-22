@@ -4,15 +4,13 @@
 
 **Ambler's Lake**
 
-[Ambler's Lake](../assets/Ambler%27s_Lake.jpg)
-
-**Location**
-
-[Ambler's Lake Location](../assets/Ambler%27s_Lake_Location.png)
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-Provides some shelter **Ambler's Lake** is a small lake located in [Sundered Pass](./Sundered%20Pass.md). It is located a short walk down the hill from the cabin at [Final Refuge](./Final%20Refuge.md) and [Unyielding Inundation](./Unyielding%20Inundation.md).
+| Property | Details |
+| --- | --- |
+|  | [Ambler's Lake](../assets/Ambler%27s_Lake.jpg) |
+| **Location** |  |
+|  | [Ambler's Lake Location](../assets/Ambler%27s_Lake_Location.png) |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+|  | Provides some shelter **Ambler's Lake** is a small lake located in [Sundered Pass](./Sundered%20Pass.md). It is located a short walk down the hill from the cabin at [Final Refuge](./Final%20Refuge.md) and [Unyielding Inundation](./Unyielding%20Inundation.md). |
 
 ## Overview
 

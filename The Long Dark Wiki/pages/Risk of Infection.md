@@ -16,19 +16,15 @@
 
 **Risk of Infection**
 
-[Risk of Infection](../assets/Risk_of_Infection.jpg)
-
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Previous:** [Paradise Lost (Predux)](./Paradise%20Lost%20%28Predux%29.md)
-
-**Current:** Risk of Infection
-
-**Next:** [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md)
-
-**Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md)
+| Property | Details |
+| --- | --- |
+|  | [Risk of Infection](../assets/Risk_of_Infection.jpg) |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [Paradise Lost (Predux)](./Paradise%20Lost%20%28Predux%29.md) |
+| Current | Risk of Infection |
+| Next | [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md) |
+| Region | [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) |
 
 **Template:spoiler**
 

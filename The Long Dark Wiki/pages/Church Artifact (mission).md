@@ -6,13 +6,12 @@
 
 **Church Artifact (mission)**
 
-[The artifact](../assets/Church_Artifact_icon.png)
-
-**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
-
-**Current:** Church Artifact (mission)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
+| Property | Details |
+| --- | --- |
+|  | [The artifact](../assets/Church_Artifact_icon.png) |
+| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Current | Church Artifact (mission) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 
 > “**A thief has stolen an Artifact from the Church at Thomson's Crossing. In a remote town, it's likely the Artifact has great value to the residents. See what you can do to locate the item and return it home.**”
 

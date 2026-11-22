@@ -4,27 +4,19 @@
 
 **A Page From A Journal**
 
-[A Page From A Journal icon](../assets/A_Page_From_A_Journal_icon.png)
-
-**Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** 18-Jun-91
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_Tale2GeologistNote1
+| Property | Details |
+| --- | --- |
+|  | [A Page From A Journal icon](../assets/A_Page_From_A_Journal_icon.png) |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | 18-Jun-91 |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Tale2GeologistNote1 |
 
 **A Page From A Journal** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found at the [Boss's Settlement](./Boss%27s%20Settlement.md).
 

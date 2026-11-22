@@ -1,6 +1,6 @@
 # Rock Cache
 
-**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rock_Cache)
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rock_Cache)
 
 **Contents**
 
@@ -12,13 +12,12 @@
 
 **Rock Cache**
 
-[Rock Cache icon](../assets/Rock_Cache_icon.png)
-
-**General**
-
-**Item Type:** Item
-
-**Wintermute:** No
+| Property | Details |
+| --- | --- |
+|  | [Rock Cache icon](../assets/Rock_Cache_icon.png) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | No |
 
 A **Rock Cache** is a craftable form of storage that appears as a landmark on the player's [map](./Map.md).
 

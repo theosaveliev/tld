@@ -4,25 +4,18 @@
 
 **Cougar Warning Flyer**
 
-[Cougar Warning Flyer icon](../assets/Cougar_Warning_Flyer_icon.png)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A flyer with details on Great Bear Island Cougar Activity.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Cougar Warning Flyer icon](../assets/Cougar_Warning_Flyer_icon.png) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A flyer with details on Great Bear Island Cougar Activity. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 **Cougar Warning Flyer** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md). it is found inside the [Camp Office](./Camp%20Office.md) near the front door.
 

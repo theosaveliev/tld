@@ -12,15 +12,13 @@
 
 **Campfire**
 
-[Campfire icon](../assets/Campfire_icon.png)
-
-**General**
-
-**Type:** Fire Starting
-
-**Max temperature:** 80 °C _(144 °F)_
-
-**Cooking slots:** 2
+| Property | Details |
+| --- | --- |
+|  | [Campfire icon](../assets/Campfire_icon.png) |
+| **General** |  |
+| Type | Fire Starting\|- |
+| Max temperature | 80 °C / _(144 °F)_ |
+| Cooking slots | 2 |
 
 A **Campfire** is an open [Fire](./Fire.md) that can be placed into the outdoors. Campfires can cook meat to make it safer to eat, melt snow into [Water](./Water%20%28Unsafe%29.md) and [sterilize](./Water%20%28Potable%29.md) it, make beverages, heat canned food/beverages, scare off predators and create [Torches](./Torch.md).
 

@@ -4,17 +4,14 @@
 
 **Steely Chasm**
 
-[Steely chasm](../assets/Steely_chasm.png)
-
-**Location**
-
-[Steely Chasm Location](../assets/Steely_Chasm_Location.png)
-
-**Region:** [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
-
-**General**
-
-Has no shelter **Steely Chasm** is a steel-beam bridge over a rapidly flowing river in the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md).
+| Property | Details |
+| --- | --- |
+|  | [Steely chasm](../assets/Steely_chasm.png) |
+| **Location** |  |
+|  | [Steely Chasm Location](../assets/Steely_Chasm_Location.png) |
+| Region | [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)\|- |
+| **General** |  |
+|  | Has no shelter / **Steely Chasm** is a steel-beam bridge over a rapidly flowing river in the [Far Range Branch Line](./Far%20Range%20Branch%20Line.md). |
 
 ## Overview
 

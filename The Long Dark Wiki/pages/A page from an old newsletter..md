@@ -4,27 +4,19 @@
 
 **A page from an old newsletter.**
 
-[A page from an old newsletter. icon](../assets/A_page_from_an_old_newsletter._icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Great Bear Emergency Civilian Corps
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [A page from an old newsletter. icon](../assets/A_page_from_an_old_newsletter._icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Great Bear Emergency Civilian Corps |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **A page from an old newsletter.** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) found on a table next to the [Trader](./Trader.md) [Radio](./Radio.md) in [Camp Office](./Camp%20Office.md) in [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md).
 

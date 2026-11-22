@@ -4,23 +4,17 @@
 
 **Cured Moose Hide**
 
-[Cured Moose Hide icon](../assets/Cured_Moose_Hide_icon.png)
-
-**Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Materials](./Materials.md)
-
-**Stackable:** No
-
-**Examine:** The skin and fur from a Moose.
-
-**Values**
-
-**Weight:** 5.00 kg (11 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Cured Moose Hide icon](../assets/Cured_Moose_Hide_icon.png) |
+| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Materials](./Materials.md)\|- |
+| Stackable | No |
+| Examine | The skin and fur from a Moose. |
+| **Values** |  |
+| Weight | 5.00 kg (11 lbs) |
 
 **Cured Moose Hide** is the cured hide of a [Fresh Moose Hide](./Fresh%20Moose%20Hide.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Moose-Hide Cloak](./Moose-Hide%20Cloak.md) and crafting [Moose-Hide Satchel](./Moose-Hide%20Satchel.md).
 

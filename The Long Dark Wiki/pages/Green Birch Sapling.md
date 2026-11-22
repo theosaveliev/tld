@@ -11,33 +11,22 @@
 
 **Green Birch Sapling**
 
-[Green Birch Sapling icon](../assets/Green_Birch_Sapling_icon.png)
-
-**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)
-
-**Wintermute:** Yes
-
-**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
-
-**Properties**
-
-**Item type:** [Materials](./Materials.md)
-
-**Stackable:** No
-
-**Examine:** Freshly harvested birch sapling. Needs to be cured before it can be used for crafting and repair. Can be used for crafting and repair after air-drying indoors for 4 days.
-
-**Values**
-
-**Weight:** 0.20 kg (0.44 lbs)
-
-**Actions**
-
-**Backpack:** Take It, Leave It
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_BirchSapling
+| Property | Details |
+| --- | --- |
+|  | [Green Birch Sapling icon](../assets/Green_Birch_Sapling_icon.png) |
+| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233) |
+| Wintermute | Yes |
+| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
+| **Properties** |  |
+| Item type | [Materials](./Materials.md)\|- |
+| Stackable | No |
+| Examine | Freshly harvested birch sapling. Needs to be cured before it can be used for crafting and repair. / Can be used for crafting and repair after air-drying indoors for 4 days. |
+| **Values** |  |
+| Weight | 0.20 kg (0.44 lbs) |
+| **Actions** |  |
+| Backpack | Take It, Leave It |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_BirchSapling |
 
 **Green Birch Sapling** can be found growing near birch trees and in a variety of wild landscapes, usually in groups of 2-5.
 

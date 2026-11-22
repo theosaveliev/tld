@@ -16,35 +16,23 @@
 
 **Scurvy Risk**
 
-[Scurvy Risk icon](../assets/Scurvy_Risk_icon.png)
-
-**Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
-
-**Update:** 2.25
-
-**Properties**
-
-**Category:** [Afflictions](./Afflictions.md)
-
-**Description:** Your diet is too low in Vitamin-C.
-
-**Caused By:** Diet low in Vitamin-C
-
-**Effect:** Negative
-
-**Type:** Risk
-
-**Affliction Duration:** Until Treated
-
-**Treatment**
-
-**Treatment:** Consume foods high in Vitamin-C to cure Scurvy Risk
-
-**Recovery Time:** Immediate
-
-**Advanced Data**
-
-**Item Key:** GAMEPLAY\_Scurvy
+| Property | Details |
+| --- | --- |
+|  | [Scurvy Risk icon](../assets/Scurvy_Risk_icon.png) |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Update | 2.25 |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Description | Your diet is too low in Vitamin-C. |
+| Caused By | Diet low in Vitamin-C |
+| Effect | Negative |
+| Type | Risk |
+| Affliction Duration | Until Treated |
+| **Treatment** |  |
+| Treatment | Consume foods high in Vitamin-C to cure Scurvy Risk |
+| Recovery Time | Immediate |
+| **Advanced Data** |  |
+| Item Key | GAMEPLAY\_Scurvy |
 
 **Scurvy Risk** is an [Affliction](./Afflictions.md) in _The Long Dark_. It is caused by consuming a diet with low/no Vitamin-C, and results in [Scurvy](./Scurvy.md) if left untreated.
 

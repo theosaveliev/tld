@@ -4,33 +4,22 @@
 
 **Cotton Toque**
 
-[Cotton Toque icon](../assets/Cotton_Toque_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
-
-**Clothing Slot:** Head
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)10%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)1%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
-
-**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 40% condition
+| Property | Details |
+| --- | --- |
+|  | [Cotton Toque icon](../assets/Cotton_Toque_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
+| Clothing Slot | Head |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0.5 °C(0.9 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)10% |
+| Protection | [Protection icon](../assets/Protection_icon.png)1% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
+| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 40% condition |
 
 > “**Simple knitted cotton hat. Not as warm as wool, but better than nothing.**”
 >

@@ -4,12 +4,10 @@
 
 **The Toe**
 
-[Thetoe](../assets/Thetoe.jpg)
-
-**Location**
-
-[The Toe Location](../assets/The_Toe_Location.png)
-
-**Region:** [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Thetoe](../assets/Thetoe.jpg) |
+| **Location** |  |
+|  | [The Toe Location](../assets/The_Toe_Location.png) |
+| Region | [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)\|- |
+| Type | Landmark\|- |

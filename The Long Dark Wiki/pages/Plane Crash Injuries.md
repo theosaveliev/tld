@@ -4,31 +4,21 @@
 
 **Plane Crash Injuries**
 
-[Plane Crash Injuries icon](../assets/Plane_Crash_Injuries_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Update:** 1.00
-
-**Story:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Survival Of The Fittest](./Survival%20Of%20The%20Fittest.md)
-
-**Properties**
-
-**Category:** [Afflictions](./Afflictions.md)
-
-**Description:** After the plane crash you are concussed, badly briused(sic) and feeling weak. Your hand was wounded during the crash. You will not be able to climb or hold weapons until it heals through rest.
-
-**Caused By:** Plane Crash Injuries
-
-**Effect:** Negative
-
-**Type:** Injury
-
-**Affliction Duration:** Scripted
-
-**Treatment**
-
-**Recovery Time:** Complete the Tutorial until Day 5
+| Property | Details |
+| --- | --- |
+|  | [Plane Crash Injuries icon](../assets/Plane_Crash_Injuries_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Update | 1.00 |
+| Story | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Survival Of The Fittest](./Survival%20Of%20The%20Fittest.md) |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Description | After the plane crash you are concussed, badly briused(sic) and feeling weak. Your hand was wounded during the crash. You will not be able to climb or hold weapons until it heals through rest. |
+| Caused By | Plane Crash Injuries |
+| Effect | Negative |
+| Type | Injury |
+| Affliction Duration | Scripted |
+| **Treatment** |  |
+| Recovery Time | Complete the Tutorial until Day 5 |
 
 > “**After the plane crash you are concussed, badly briused(sic) and feeling weak. Your hand was wounded during the crash. You will not be able to climb or hold weapons until it heals through rest.**”
 >

@@ -4,15 +4,13 @@
 
 **Oil Tank**
 
-[Whale Oil Refueling](../assets/Whale_Oil_Refueling.jpg)
-
-**General**
-
-**Item Type:** Item
-
-**Wintermute:** No
-
-**Renewable:** Yes
+| Property | Details |
+| --- | --- |
+|  | [Whale Oil Refueling](../assets/Whale_Oil_Refueling.jpg) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | No |
+| Renewable | Yes |
 
 [Seal icon](../assets/Seal_icon.png)
 

@@ -19,29 +19,20 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Heat Pack**
 
-[Heat Pack icon](../assets/Heat_Pack_icon.png)
-
-**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Wintermute:** [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
-
-**Renewable:** Yes ([Trader](./Trader.md) only)
-
-**Properties**
-
-**Item type:** [First Aid](./First%20Aid.md)
-
-**Stackable:** No
-
-**Examine:** A single-use, disposable Heat Pack. Provides a small amount of warmth when activated.
-
-**Values**
-
-**Weight:** 0.10 kg (0.22 lbs)
-
-**Advanced data**
-
-**Item key:** GEAR\_HeatPad
+| Property | Details |
+| --- | --- |
+|  | [Heat Pack icon](../assets/Heat_Pack_icon.png) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Wintermute | [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
+| Renewable | Yes ([Trader](./Trader.md) only) |
+| **Properties** |  |
+| Item type | [First Aid](./First%20Aid.md)\|- |
+| Stackable | No |
+| Examine | A single-use, disposable Heat Pack. Provides a small amount of warmth when activated. |
+| **Values** |  |
+| Weight | 0.10 kg (0.22 lbs) |
+| **Advanced data** |  |
+| Item key | GEAR\_HeatPad |
 
 The **Heat Pack** is a [First Aid](./First%20Aid.md) item in _[The Long Dark](./The%20Long%20Dark.md)_ in [Survival Mode](./Survival%20Mode.md). They also appear in [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md).
 

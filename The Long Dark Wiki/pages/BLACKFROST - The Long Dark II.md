@@ -24,17 +24,14 @@
 
 **BLACKFROST: The Long Dark II**
 
-[Bf wishlist](../assets/Bf-wishlist.jpg)
-
-**Developer(s):** [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md)
-
-**Director(s):** Raphael Van Lierop
-
-**Platform:** PC-Steam
-
-**Released:** 2027
-
-**Genre(s):** First-Person, Open World, Survival, RPG, CO-OP, Single Player
+| Property | Details |
+| --- | --- |
+|  | [Bf wishlist](../assets/Bf-wishlist.jpg) |
+| **Developer(s)** | [Hinterland Studio Inc.](./Hinterland%20Studio%20Inc..md) |
+| **Director(s)** | Raphael Van Lierop |
+| Platform | PC-Steam |
+| Released | 2027 |
+| **Genre(s)** | First-Person, Open World, Survival, RPG, CO-OP, Single Player |
 
 > “**Live together. Die alone.**”
 >
@@ -46,7 +43,7 @@ A teaser was announced in 2025 and the game was set to release in Early Access i
 
 ## Blurb
 
-"A year after the Aurora’s appearance &amp; the world went dark, the people of Harmont &amp; its vast wild environs struggle to survive the Quiet Apocalypse. Survive alone or with others against a host of new hazards &amp; a fresh new survival sandbox from a pioneer of the genre. Live together. Die alone."
+"A year after the Aurora’s appearance & the world went dark, the people of Harmont & its vast wild environs struggle to survive the Quiet Apocalypse. Survive alone or with others against a host of new hazards & a fresh new survival sandbox from a pioneer of the genre. Live together. Die alone."
 
 ## Hinterland Description
 

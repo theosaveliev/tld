@@ -10,37 +10,24 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Last Resort Soup**
 
-[Last Resort Soup icon](../assets/Last_Resort_Soup_icon.png)
-
-**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.36)
-
-**Wintermute:** No
-
-**Renewable:** Yes ([Trader](./Trader.md))
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** A heavy, salty soup made from Potatoes. Increases Condition as well as Fatigue. Popular among Great Bear Island Cannery workers because of its simple ingredients.
-
-**Values**
-
-**Calories:** 800 kcal
-
-**Hydration:** 6%
-
-**[Vitamin C](./Scurvy.md):** Moderate (40%)
-
-**Weight:** 0.35 kg (0.77 lbs)
-
-**Decay Rate**
-
-**Inside:** 20.000% per day
-
-**Outside:** 5.000% per day
+| Property | Details |
+| --- | --- |
+|  | [Last Resort Soup icon](../assets/Last_Resort_Soup_icon.png) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.36) |
+| Wintermute | No |
+| Renewable | Yes ([Trader](./Trader.md)) |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | A heavy, salty soup made from Potatoes. Increases Condition as well as Fatigue. Popular among Great Bear Island Cannery workers because of its simple ingredients. |
+| **Values** |  |
+| Calories | 800 kcal |
+| Hydration | 6% |
+| [Vitamin C](./Scurvy.md) | Moderate (40%) |
+| Weight | 0.35 kg (0.77 lbs) |
+| **Decay Rate** |  |
+| Inside | 20.000% per day |
+| Outside | 5.000% per day |
 
 **Last Resort Soup** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_. It is learned after acquiring its unique [Recipe Card](./Recipe%20Cards.md).
 

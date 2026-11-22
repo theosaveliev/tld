@@ -18,35 +18,23 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Cooking Oil**
 
-[Cooking Oil icon](../assets/Cooking_Oil_icon.png)
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Wintermute:** No
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** A basic cooking oil. Nothing fancy.
-
-**Values**
-
-**Weight:** 0.75 kg (1.65 lbs)
-
-**Decay Rate**
-
-**Inside:** 0.000% per day
-
-**Outside:** 0.000% per day
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_CookingOil
+| Property | Details |
+| --- | --- |
+|  | [Cooking Oil icon](../assets/Cooking_Oil_icon.png) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | A basic cooking oil. Nothing fancy. |
+| **Values** |  |
+| Weight | 0.75 kg (1.65 lbs) |
+| **Decay Rate** |  |
+| Inside | 0.000% per day |
+| Outside | 0.000% per day |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_CookingOil |
 
 **Cooking Oil** is an inedible [ingredient](./Food%20And%20Drink.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

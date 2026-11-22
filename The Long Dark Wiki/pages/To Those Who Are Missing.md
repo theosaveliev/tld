@@ -4,21 +4,16 @@
 
 **To Those Who Are Missing**
 
-[Missions story ep5 ToThoseWhoAreMissing](../assets/Missions_story_ep5_ToThoseWhoAreMissing.png)
-
-Episode
-
-**Missions**
-
-**Previous:** [Perseverance](./Perseverance.md)
-
-**Current:** To Those Who Are Missing
-
-**Next:** [A Cry For Help](./A%20Cry%20For%20Help.md)
-
-**Region:** [Perseverance Mills](./Perseverance%20Mills.md) [Perseverance Wilds](./Perseverance%20Wilds.md)
-
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Jane Yang](./Jane%20Yang.md)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep5 ToThoseWhoAreMissing](../assets/Missions_story_ep5_ToThoseWhoAreMissing.png) |
+| Episode |  |
+| **Missions** |  |
+| Previous | [Perseverance](./Perseverance.md) |
+| Current | To Those Who Are Missing |
+| Next | [A Cry For Help](./A%20Cry%20For%20Help.md) |
+| Region | [Perseverance Mills](./Perseverance%20Mills.md) [Perseverance Wilds](./Perseverance%20Wilds.md) |
+| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) / [Jane Yang](./Jane%20Yang.md) |
 
 > “**Find the Constable along the river in Perseverance Wilds.**”
 
@@ -30,3 +25,5 @@ Episode
   - Find the Constable along the river in Perseverance Wilds
   - Find a missing Patient in Perseverance Wilds
   - Find a missing Person in Perseverance Wilds
+
+## Trivia

@@ -1,16 +1,15 @@
 # Frozen Corpse
 
-**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frozen_Corpse)
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Frozen_Corpse)
 
 **Frozen Corpse**
 
-[Frozen Corpse](../assets/Frozen_Corpse.jpg)
-
-**Story item:** Yes
-
-**Container**
-
-**Capacity:** 10.00 kg(22 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Frozen Corpse](../assets/Frozen_Corpse.jpg) |
+| Story item | Yes |
+| **Container** |  |
+| Capacity | 10.00 kg(22 lbs) |
 
 > “__A frozen corpse brings Great Bear Island's harsh reality front and centre.  
  Leave them in peace, or search the body for supplies to help you avoid their fate.__”

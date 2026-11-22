@@ -11,17 +11,14 @@
 
 **Stump Remover**
 
-[Stump Remover icon](../assets/Stump_Remover_icon.png)
-
-**General**
-
-**Item Type:** Material
-
-**Renewable:** Yes (very rare [Beachcombing](./Beachcombing.md))
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Stump Remover icon](../assets/Stump_Remover_icon.png) |
+| **General** |  |
+| Item Type | Material\|- |
+| Renewable | Yes (very rare [Beachcombing](./Beachcombing.md)) |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
 
 > “**An herbicide, this chemical can also be used to Craft Gunpowder.**”
 >

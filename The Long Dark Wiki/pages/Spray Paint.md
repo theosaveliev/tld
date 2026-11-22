@@ -4,17 +4,14 @@
 
 **Spray Paint**
 
-[Spray Paint icon](../assets/Spray_Paint_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.54 kg(1.19 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Spray Paint icon](../assets/Spray_Paint_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.54 kg(1.19 lbs) |
 
 > “__A can of Spray Paint. Can be used to leave signs and markers in the environment. __”
 >
@@ -40,7 +37,7 @@ There is a limit of 249 markers one can have in a region (approximately 25 spray
 
 - Spray Paint is visible even in low-light conditions and poor weather, making it useful for navigating indoors at night, or during [Blizzards or Fog outside](./Weather.md).
 - There are twelve different marker symbols and most surfaces can accept a marker. Most, but not all markers will appear on the Map (if made during good visibility, or are mapped later).
-- Spray Paint may be used directly from the inventory, or via the Radial Menu (Navigation&gt;Spray Paint).
+- Spray Paint may be used directly from the inventory, or via the Radial Menu (Navigation>Spray Paint).
 - Markings may be removed by right-clicking with "Spray Paint" selected.
 - Spray Paint are always found full (100%)to create a marker costs 10% of it's condition (and reduces the can's weight slightly). Empty cans weight 0.2kg, cannot be refilled and serve no purpose.
 - Common uses of Spray Paint include marking looted locations (structures, vehicles, etc.), designating safehouses, aiding navigation in difficult areas, and for decoration.

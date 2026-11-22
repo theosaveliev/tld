@@ -130,7 +130,7 @@ Totally encumbered
 ---
 
 [^1]: Roads provide 50% walking speed boost compared to snow, concrete, or metal terrain.
-[^2]: Max Bonus &amp; Penalty for Heavy Wind are applied when walking with or against oncoming winds respectively.
+[^2]: Max Bonus & Penalty for Heavy Wind are applied when walking with or against oncoming winds respectively.
 [^3]: Stepping indoors (Back of a [Warm Cave](./Warm%20Cave.md) or building interiors) slows the player down instantly
 [^4]: Blizzards do not slow the player down despite the raging windstorm, likely for balancing reasons.
 [^5]: Moving diagonally at a 45° angle increases movement by 3%, 50° angle by 21% (controller only), and using a controller emulator to hit both angles increases speeds by 42%.

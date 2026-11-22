@@ -20,21 +20,16 @@
 
 **Timberwolf**
 
-[Timberwolf](../assets/Timberwolf.png)
-
-**Basic Information**
-
-**Release:** [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
-
-**Role:** Predator
-
-**Physical Information**
-
-**Color:** Grey/White
-
-**Size:** Medium
-
-**Eyes:** Orange
+| Property | Details |
+| --- | --- |
+|  | [Timberwolf](../assets/Timberwolf.png) |
+| **Basic Information** |  |
+| Release | [22 October 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60) |
+| Role | Predator |
+| **Physical Information** |  |
+| Color | Grey/White |
+| Size | Medium |
+| Eyes | Orange |
 
 **Timberwolves** are hostile wildlife in _[The Long Dark](./The%20Long%20Dark.md)_. They are the tougher and more intelligent counterpart to the common [Wolf](./Wolf.md); unlike regular wolves, Timberwolves always hunt in packs and are more persistent and aggressive.
 

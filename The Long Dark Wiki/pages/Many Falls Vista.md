@@ -4,17 +4,14 @@
 
 **Many Falls Vista**
 
-[ManyFallsVistaView](../assets/ManyFallsVistaView.png)
-
-**Location**
-
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
-
-**Description:** A lookoff over the eastern Hushed River Valley.
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [ManyFallsVistaView](../assets/ManyFallsVistaView.png) |
+| **Location** |  |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| Description | A lookoff over the eastern Hushed River Valley. |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Description
 

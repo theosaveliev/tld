@@ -4,17 +4,14 @@
 
 **Carved Cougar Figurine**
 
-[Carved Cougar Figurine icon](../assets/Carved_Cougar_Figurine_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Values**
-
-**Weight:** 0.25 kg (0.55 lbs)
-
-**Actions**
-
-**Backpack:** Drop, Place
+| Property | Details |
+| --- | --- |
+|  | [Carved Cougar Figurine icon](../assets/Carved_Cougar_Figurine_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 0.25 kg (0.55 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
 The **Carved Cougar Figurine** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 

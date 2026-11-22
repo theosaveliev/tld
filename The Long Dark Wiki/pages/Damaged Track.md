@@ -10,13 +10,12 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Damaged Track**
 
-[Damaged Tracks](../assets/Damaged_Tracks.jpg)
-
-**General**
-
-**Item Type:** Item
-
-**Wintermute:** No
+| Property | Details |
+| --- | --- |
+|  | [Damaged Tracks](../assets/Damaged_Tracks.jpg) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | No |
 
 **Damaged Track** are stationary interactable objects in [_The Long Dark_](./The%20Long%20Dark.md).
 
@@ -29,3 +28,5 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 - The track section can be repaired if you have a [Heavy Hammer](./Heavy%20Hammer.md), and do not require Scrap Metal. Each repair section takes 2 hours and repairs the tracks completely.
   - Alternatively, you can avoid repairing the tracks and damaging the train by alternating between speed settings 1 and Neutral to slowly move the train. This will prevent any damage to the Wheels when passing through this hazard.
   - Sometimes a parallel track can be found that prevents contact with these rails to begin with. Spending some time to use them can help preserve your train's condition in the long run.
+
+## Game history

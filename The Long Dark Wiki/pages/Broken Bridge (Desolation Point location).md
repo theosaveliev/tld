@@ -4,15 +4,13 @@
 
 **Broken Bridge (Desolation Point location)**
 
-[Broken Bridge](../assets/Broken_Bridge.jpg)
-
-**Location**
-
-[Broken Bridge (Desolation Point location) Location](../assets/Broken_Bridge_%28Desolation_Point_location%29_Location.png)
-
-**Region:** [Desolation Point](./Desolation%20Point.md)
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Broken Bridge](../assets/Broken_Bridge.jpg) |
+| **Location** |  |
+|  | [Broken Bridge (Desolation Point location) Location](../assets/Broken_Bridge_%28Desolation_Point_location%29_Location.png) |
+| Region | [Desolation Point](./Desolation%20Point.md)\|- |
+| Type | Landmark\|- |
 
 ## Overview
 

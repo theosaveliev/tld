@@ -4,17 +4,14 @@
 
 **Rustic End Table**
 
-[Rustic End Table icon](../assets/Rustic_End_Table_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Values**
-
-**Weight:** 20.00 kg (44 lbs)
-
-**Actions**
-
-**Backpack:** Drop, Place
+| Property | Details |
+| --- | --- |
+|  | [Rustic End Table icon](../assets/Rustic_End_Table_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 20.00 kg (44 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
 The **Rustic End Table** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
@@ -43,3 +40,5 @@ Despite having a Backpack carry weight value, the table cannot be picked up and 
 **Item:** [Cedar Firewood](./Cedar%20Firewood.md)
 
 **Quantity:** 6
+
+## Update History

@@ -4,17 +4,14 @@
 
 **Paddle**
 
-[Paddle](../assets/Paddle.jpg)
-
-**General**
-
-**Item Type:** Item
-
-**Wintermute:** No
-
-**Statistics**
-
-**Harvest:** 2 × [Reclaimed Wood](./Reclaimed%20Wood.md)
+| Property | Details |
+| --- | --- |
+|  | [Paddle](../assets/Paddle.jpg) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | No |
+| **Statistics** |  |
+| Harvest | 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
 
 A **Paddle** is a rare harvestable item found inside the [Orca Gas Station](./Orca%20Gas%20Station.md) in the [Mountain Town](./Mountain%20Town.md) region.
 

@@ -4,33 +4,22 @@
 
 **Hardhat**
 
-[Hardhat icon](../assets/Hardhat_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Renewable:** Yes ([Trader](./Trader.md))
-
-Clothing Slot
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.40 kg(0.88 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0 °C(0 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)30%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)4%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** Cannot Harvest
-
-**Repair:** Cannot Repair
+| Property | Details |
+| --- | --- |
+|  | [Hardhat icon](../assets/Hardhat_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Renewable | Yes ([Trader](./Trader.md)) |
+| Clothing Slot |  |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.40 kg(0.88 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)0 °C(0 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)30% |
+| Protection | [Protection icon](../assets/Protection_icon.png)4% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | Cannot Harvest |
+| Repair | Cannot Repair |
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

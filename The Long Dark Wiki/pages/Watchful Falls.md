@@ -4,19 +4,15 @@
 
 **Watchful Falls**
 
-[Watchful Falls](../assets/Watchful_Falls.jpg)
-
-**Location**
-
-[Watchful Falls Location](../assets/Watchful_Falls_Location.png)
-
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
-
-**Description:** A waterfall.
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Watchful Falls](../assets/Watchful_Falls.jpg) |
+| **Location** |  |
+|  | [Watchful Falls Location](../assets/Watchful_Falls_Location.png) |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| Description | A waterfall. |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

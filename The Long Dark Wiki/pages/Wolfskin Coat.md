@@ -11,29 +11,20 @@
 
 **Wolfskin Coat**
 
-[Wolfskin Coat icon](../assets/Wolfskin_Coat_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)3.00 kg(6.6 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)4.0 °C(7.2 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)60%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)12%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-15%
-
-**Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) 90 minutes
-
-**Repair:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md), 1 × [Cured Gut](./Cured%20Gut.md) 120 minutes 30% condition
+| Property | Details |
+| --- | --- |
+|  | [Wolfskin Coat icon](../assets/Wolfskin_Coat_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)3.00 kg(6.6 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)4.0 °C(7.2 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)60% |
+| Protection | [Protection icon](../assets/Protection_icon.png)12% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-15% |
+| Harvest | 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / 90 minutes |
+| Repair | 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 120 minutes / 30% condition |
 
 > “**Handcrafted fur and skin outer layer will keep you warm and remind Wolves that they should keep their distance. Not the way the Wolf expected to end up.**”
 >

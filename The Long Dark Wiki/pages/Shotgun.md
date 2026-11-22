@@ -19,27 +19,19 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Shotgun**
 
-[Shotgun icon](../assets/Shotgun_icon.png)
-
-**Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
-
-**Renewable:** No
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** A long barreled, single shot, break action shotgun. Calibrated to fire Slug rounds. A deadly, if slow firing weapon.
-
-**Values**
-
-**Weight:** 4.00 kg (8.8 lbs)
-
-**Actions**
-
-**Backpack:** Use, Unload, Drop
+| Property | Details |
+| --- | --- |
+|  | [Shotgun icon](../assets/Shotgun_icon.png) |
+| Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
+| Renewable | No |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | A long barreled, single shot, break action shotgun. Calibrated to fire Slug rounds. A deadly, if slow firing weapon. |
+| **Values** |  |
+| Weight | 4.00 kg (8.8 lbs) |
+| **Actions** |  |
+| Backpack | Use, Unload, Drop |
 
 > “**Finally. The right tool for the job.**”
 >
@@ -78,10 +70,10 @@ There is currently not enough ammunition to lower a Shotgun's Condition enough t
 ## Trivia
 
 - The words "PROPERTY OF [SRT](./Suzuki%20Radio%20Telescope.md)" are stamped on both sides of the gun.
-- The shotgun is loosely based off the [H&amp;R 1871 Topper Trap](https://www.americanhunter.org/content/h-r-1871-topper-trap/).
+- The shotgun is loosely based off the [H&R 1871 Topper Trap](https://www.americanhunter.org/content/h-r-1871-topper-trap/).
 
 ## Game History
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**
 
-  - Added to game.
+- Added to game.

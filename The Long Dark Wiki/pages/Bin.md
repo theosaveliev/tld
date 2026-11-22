@@ -4,10 +4,9 @@
 
 **Bin**
 
-[Bin Wintermute](../assets/Bin_Wintermute.png)
-
-**Story item:** Yes
-
-**Container**
-
-**Capacity:** 50.00 kg(110 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Bin Wintermute](../assets/Bin_Wintermute.png) |
+| Story item | Yes |
+| **Container** |  |
+| Capacity | 50.00 kg(110 lbs) |

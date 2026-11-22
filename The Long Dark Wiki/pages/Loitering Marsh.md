@@ -4,15 +4,13 @@
 
 **Loitering Marsh**
 
-[Loitering Marsh](../assets/Loitering_Marsh.jpg)
-
-**Location**
-
-[Loitering Marsh Location](../assets/Loitering_Marsh_Location.png)
-
-**Region:** [Transfer Pass](./Transfer%20Pass.md)
-
-Has no shelter **Loitering Marsh** is a location in [Transfer Pass](./Transfer%20Pass.md), located due south of [Vacant Depot](./Vacant%20Depot.md) and underneath the [Broad Aerie](./Broad%20Aerie.md).
+| Property | Details |
+| --- | --- |
+|  | [Loitering Marsh](../assets/Loitering_Marsh.jpg) |
+| **Location** |  |
+|  | [Loitering Marsh Location](../assets/Loitering_Marsh_Location.png) |
+| Region | [Transfer Pass](./Transfer%20Pass.md)\|- |
+|  | Has no shelter / **Loitering Marsh** is a location in [Transfer Pass](./Transfer%20Pass.md), located due south of [Vacant Depot](./Vacant%20Depot.md) and underneath the [Broad Aerie](./Broad%20Aerie.md). |
 
 ## Overview
 

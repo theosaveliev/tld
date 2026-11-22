@@ -61,7 +61,7 @@ During the turmoil of [The Collapse](./The%20Collapse.md), approximately ten yea
 - [Abandoned Mine No. 3](./No.%203%20Coal%20Mine.md)
 - [Perseverance Mills](./Perseverance%20Mills.md)
 - Port Mary (mentioned in [Town of Milton](./Town%20of%20Milton.md))
-- Rupert's Landing (mentioned by Jeremiah and [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md)) [Risk of Infection/TranscriptMackenzie](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md): "You alone out here?"
+- Rupert's Landing (mentioned by Jeremiah and [Mystery Lake & Area](./Mystery%20Lake%20%26%20Area.md)) [Risk of Infection/TranscriptMackenzie](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md): "You alone out here?"
 
 Jeremiah: "Yeah, I keep to myself. Hunt a bit. Fish in the summer. Keep my traplines full. Once a couple of month's, I head down to Rupert's Landing. Trade for what I need."
 

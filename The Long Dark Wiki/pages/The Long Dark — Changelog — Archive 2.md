@@ -89,11 +89,11 @@ Mod Support in 2022
 
 We’re setting up a small internal team dedicated solely to supporting Modding and User Generated Content at Hinterland. Our initial focus will be on supporting The Long Dark, but we plan for this to be a long-standing investment in time and resources, and the things we learn and the modding community we build with you, will hopefully become a strong foundation of more things to come in future Hinterland games.
 
-As first steps, we’re setting up a Modding &amp; UGC section of the official Hinterland forums. We’ll have dedicated focus from our Community team on this area, so please focus your mod discussions here so we can best support you. We’ve also set up a new email alias, “mods@hinterlandgames.com”, which you can use to contact us with any requests or information you’d like to share.
+As first steps, we’re setting up a Modding & UGC section of the official Hinterland forums. We’ll have dedicated focus from our Community team on this area, so please focus your mod discussions here so we can best support you. We’ve also set up a new email alias, “mods@hinterlandgames.com”, which you can use to contact us with any requests or information you’d like to share.
 
-In the Spring, we’ll be sharing more info about our Creator Hub, which will have documentation, some tools, and other resources for modders, and other types of fan creations for The Long Dark. Until then, we’ll be active in the new Modding &amp; UGC section of the official forums, and we’ll also be proactively reaching out to many of you who have been busy modding the game over the past years. We want to know more about what you need in terms of tool support, documentation, and also to provide you a clear path to communicating with us as we grow this area of The Long Dark’s community.
+In the Spring, we’ll be sharing more info about our Creator Hub, which will have documentation, some tools, and other resources for modders, and other types of fan creations for The Long Dark. Until then, we’ll be active in the new Modding & UGC section of the official forums, and we’ll also be proactively reaching out to many of you who have been busy modding the game over the past years. We want to know more about what you need in terms of tool support, documentation, and also to provide you a clear path to communicating with us as we grow this area of The Long Dark’s community.
 
-Survival Mode Updates in 2022 &amp; Beyond
+Survival Mode Updates in 2022 & Beyond
 
 We’ve been working on a plan for how to tackle ongoing support for Survival Mode between now and Episode Five’s launch, and beyond. I’ll share more details about our plans in the new year, as there are a lot of technical aspects we’re still figuring out. But as a high-level direction, based on the guidance we’ve received from many of you in our player community through our community poll earlier this year -- _and after providing nearly over 7 years of free updates to Survival Mode_ -- our plan is to move to a more sustainable paid update path.
 
@@ -200,7 +200,7 @@ ART, ENVIRO, and UI
 - [Environment] Moved the “Danger Electric Cables Over-Head” warning sign in the Steam Tunnel to make it more visible.
 - [Environment] Fixed numerous floating or clipping objects throughout the Blackrock Region.
 - [Environment] Fixed an issue where the water splash sound effect was missing when walking through water found in the Abandoned Mine.
-- [UI] Fixed an issue in the Journal’s exit button on the Collections -&gt; Surveyed Locations screen so Players no longer need to change to a different screen to exit.
+- [UI] Fixed an issue in the Journal’s exit button on the Collections -> Surveyed Locations screen so Players no longer need to change to a different screen to exit.
 - [UI] Fixed an issue preventing the Region displayed on the Map from updating correctly when using a cave to transition to a new Region.
 - [UI] Fixed an issue where the Mission Status tab would not reflect the state of the current active mission.
 - [UI] Tuned the icons on the Map screen so Mission Markers are sorted above other Map Markers.
@@ -299,7 +299,7 @@ _The Long Dark, Episode Four: FURY, THEN SILENCE is available now on Steam, Xbox
 
 **External Links**
 
-- [Episode Four is Here - Launch Day &amp; Trailer](https://hinterlandforums.com/forums/topic/40446-episode-four-is-here-launch-day-trailer/)
+- [Episode Four is Here - Launch Day & Trailer](https://hinterlandforums.com/forums/topic/40446-episode-four-is-here-launch-day-trailer/)
 
 ### 1.94
 
@@ -581,7 +581,7 @@ GENERAL
 
 Released 29 Oct 2020
 
-- Added ESCAPE THE DARKWALKER Content &amp; Event.
+- Added ESCAPE THE DARKWALKER Content & Event.
 
 **External Links**
 
@@ -667,7 +667,7 @@ GENERAL FIXES
 
 Released 27 June 2020
 
-- Added WINTER’S EMBRACE Content &amp; Event.
+- Added WINTER’S EMBRACE Content & Event.
 
 GENERAL FIXES
 
@@ -825,13 +825,13 @@ Hard to find Polaroids in the world indicate locations that offer sweeping Vista
 
 The Charcoal Survey action now reveals an enhanced radius on the Map. Surveying from higher altitudes now increases how much of the Map is revealed.
 
-**MAP &amp; JOURNAL IMPROVEMENTS**
+**MAP & JOURNAL IMPROVEMENTS**
 
 Turn layers of information on and off in the Map. Locate and rename Rock Caches. Keep track of all Surveyed locations to know if you’ve found them all. Especially useful if you are hunting locations for the Faithful Cartographer achievement.
 
-**TELEMETRY &amp; QUALITY OF LIFE**
+**TELEMETRY & QUALITY OF LIFE**
 
-New Autowalk accessibility feature ensures comfort for players with hand or wrist issues. New Opt-in Telemetry gathers gameplay data the development team will use to inform future balance and feature development efforts (Note: Telemetry is defaulted to OFF and needs to be turned on in the Options&gt;Privacy settings.)
+New Autowalk accessibility feature ensures comfort for players with hand or wrist issues. New Opt-in Telemetry gathers gameplay data the development team will use to inform future balance and feature development efforts (Note: Telemetry is defaulted to OFF and needs to be turned on in the Options>Privacy settings.)
 
 …in addition to the dozens of general improvements listed below.
 
@@ -875,7 +875,7 @@ These are issues we’re currently tracking and will be addressing in an upcomin
 - [UI] Added missing Map icons found in the Town of Milton.
 - [UI] Added missing Map icon hover text, when viewing the Derailment in the Ravine Crummy.
 - [UI] Fixed missing UI elements when viewing notes, while the HUD is disabled.
-- [UI] Fixed an incorrect tooltip found in Options-&gt;Display menu.
+- [UI] Fixed an incorrect tooltip found in Options->Display menu.
 - [UI] Cooking UI now displays updated weight of items, instead of always showing the base weight.
 - [UI] Added Audio options for selecting Headphones or Speakers.
 - [UI] Fixed incorrectly named transitions areas on the Bleak Inlet Map.
@@ -1358,7 +1358,7 @@ USER INTERFACE FIXES
 
 WINTERMUTE FIXES
 
-- [WINTERMUTE] Fixed a typo in the “Mystery Lake &amp; Area” pamphlet Knowledge Item.
+- [WINTERMUTE] Fixed a typo in the “Mystery Lake & Area” pamphlet Knowledge Item.
 - [WINTERMUTE] Fixed issue that kept the Reishi Mushroom tooltip from appearing after collecting Reishi Mushrooms.
 - [WINTERMUTE] Fixed issue causing the Journal shortcut to remain visible on-screen when Sleeping after the plane crash in Episode One.
 

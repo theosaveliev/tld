@@ -4,17 +4,14 @@
 
 **Ice Fishing Huts**
 
-[Ice Fishing Huts](../assets/Ice_Fishing_Huts.jpg)
-
-**Location**
-
-[Ice Fishing Huts Location](../assets/Ice_Fishing_Huts_Location.png)
-
-Region
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Ice Fishing Huts](../assets/Ice_Fishing_Huts.jpg) |
+| **Location** |  |
+|  | [Ice Fishing Huts Location](../assets/Ice_Fishing_Huts_Location.png) |
+| Region |  |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

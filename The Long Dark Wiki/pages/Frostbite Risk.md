@@ -4,25 +4,18 @@
 
 **Frostbite Risk**
 
-[Frostbite Risk icon](../assets/Frostbite_Risk_icon.png)
-
-**Properties**
-
-**Category:** [Afflictions](./Afflictions.md)
-
-**Description:** Your skin is directly exposed to the cold. If it remains exposed for long enough, you'll get Frostbite.
-
-**Caused By:** No [Clothing](./Clothing.md) on body parts Bare Skin exposed to inner layer Frozen Clothing
-
-**Effect:** Negative
-
-**Type:** Risk
-
-**Affliction Duration:** Until Treated
-
-**Treatment**
-
-**Treatment:** Warm and cover exposed body part
+| Property | Details |
+| --- | --- |
+|  | [Frostbite Risk icon](../assets/Frostbite_Risk_icon.png) |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Description | Your skin is directly exposed to the cold. If it remains exposed for long enough, you'll get Frostbite. |
+| Caused By | No [Clothing](./Clothing.md) on body parts / Bare Skin exposed to inner layer Frozen Clothing |
+| Effect | Negative |
+| Type | Risk |
+| Affliction Duration | Until Treated |
+| **Treatment** |  |
+| Treatment | Warm and cover exposed body part |
 
 **Frostbite Risk** is incurred when a player's bare skin is exposed to freezing conditions, particularly with severe windchill.
 
@@ -59,3 +52,5 @@ Wearing Accessories, such as [Wool Ear Wrap](./Wool%20Ear%20Wrap.md) (shown on t
   - Clothing that is damaged and Ruined in a Wildlife [Struggle](./Struggle.md) will notify the player in the top right corner, and that section of the body must immediately be covered up again to prevent Risk.
 
 Should a body part continue to remain exposed to the freezing cold, [Frostbite](./Frostbite.md) will develop. If Frostbite develops on that limb and it is not covered, Frostbite Risk will begin again.
+
+## Trivia

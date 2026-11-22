@@ -11,19 +11,15 @@
 
 **The Best Defense**
 
-[Missions story ep2 The Best Defense](../assets/Missions_story_ep2_The_Best_Defense.png)
-
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Previous:** [The Wounded Trapper](./The%20Wounded%20Trapper.md)
-
-**Current:** The Best Defense
-
-**Next:** [Signal to Noise](./Signal%20to%20Noise.md)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) [Broken Railroad](./Broken%20Railroad.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) [Old Bear](./Old%20Bear.md) [Methuselah](./Methuselah.md)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep2 The Best Defense](../assets/Missions_story_ep2_The_Best_Defense.png) |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [The Wounded Trapper](./The%20Wounded%20Trapper.md) |
+| Current | The Best Defense |
+| Next | [Signal to Noise](./Signal%20to%20Noise.md) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) / [Methuselah](./Methuselah.md) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

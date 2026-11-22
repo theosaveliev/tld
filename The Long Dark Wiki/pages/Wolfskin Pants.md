@@ -11,31 +11,21 @@
 
 **Wolfskin Pants**
 
-[Wolfskin Pants icon](../assets/Wolfskin_Pants_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-Clothing Slot
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)1.5 °C(2.7 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)50%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)10%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
-
-**Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) 40 minutes
-
-**Repair:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md), 1 × [Cured Gut](./Cured%20Gut.md) 125 minutes 50% condition
+| Property | Details |
+| --- | --- |
+|  | [Wolfskin Pants icon](../assets/Wolfskin_Pants_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot |  |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)1.5 °C(2.7 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)50% |
+| Protection | [Protection icon](../assets/Protection_icon.png)10% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-5% |
+| Harvest | 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / 40 minutes |
+| Repair | 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 125 minutes / 50% condition |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -80,3 +70,5 @@ They are warmer and heavier than the [Deerskin Pants](./Deerskin%20Pants.md), an
 ![3d model](../assets/Wolfskin_Pants_model.png)
 
 ![3d model damaged](../assets/Wolfskin_Pants_damaged.png)
+
+## Update history

@@ -4,9 +4,10 @@
 
 **Don't Starve**
 
-[Don't Starve icon](../assets/Don%27t_Starve_icon.png)
-
-**Description:** Keep calorie store above zero for 10 days.
+| Property | Details |
+| --- | --- |
+|  | [Don't Starve icon](../assets/Don%27t_Starve_icon.png) |
+| Description | Keep calorie store above zero for 10 days. |
 
 **Don't Starve** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -17,3 +18,5 @@ This achievement is obtained after keeping Calorie store ([Hunger](./Hunger.md))
 ## Game history
 
 This achievement was introduced on 1 April 2015 in [version 0.212](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.212).
+
+## Trivia

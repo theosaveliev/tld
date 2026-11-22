@@ -10,25 +10,17 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Train Shelter**
 
-[Train Shelter](../assets/Train_Shelter.jpg)
-
-**Location**
-
-[Train Shelter Location](../assets/Train_Shelter_Location.png)
-
-**Region:** [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)
-
-**Description:** A Train repair station hidden in the mountains.
-
-**General**
-
-**Firebox:** [Pot Belly Stove](./Pot%20Belly%20Stove.md) [Fire Barrel](./Fire%20Barrel.md)
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Has an interior **Train Shelter** is the sole named location in [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md).
+| Property | Details |
+| --- | --- |
+|  | [Train Shelter](../assets/Train_Shelter.jpg) |
+| **Location** |  |
+|  | [Train Shelter Location](../assets/Train_Shelter_Location.png) |
+| Region | [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md)\|- |
+| Description | A Train repair station hidden in the mountains. |
+| **General** |  |
+| Firebox | [Pot Belly Stove](./Pot%20Belly%20Stove.md) [Fire Barrel](./Fire%20Barrel.md) |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior **Train Shelter** is the sole named location in [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md). |
 
 ## Overview
 

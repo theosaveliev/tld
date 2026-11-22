@@ -4,17 +4,14 @@
 
 **Fire Overlook**
 
-[20201210005637 1](../assets/20201210005637_1.jpg)
-
-**Location**
-
-[Fire Overlook Location](../assets/Fire_Overlook_Location.png)
-
-**Region:** [Ash Canyon](./Ash%20Canyon.md)
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [20201210005637 1](../assets/20201210005637_1.jpg) |
+| **Location** |  |
+|  | [Fire Overlook Location](../assets/Fire_Overlook_Location.png) |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Overview
 

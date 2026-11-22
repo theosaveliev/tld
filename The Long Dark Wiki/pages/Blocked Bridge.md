@@ -4,17 +4,14 @@
 
 **Blocked Bridge**
 
-[Blockedbridge](../assets/Blockedbridge.jpg)
-
-**Location**
-
-[Blocked Bridge Location](../assets/Blocked_Bridge_Location.png)
-
-Region
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Blockedbridge](../assets/Blockedbridge.jpg) |
+| **Location** |  |
+|  | [Blocked Bridge Location](../assets/Blocked_Bridge_Location.png) |
+| Region |  |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Overview
 

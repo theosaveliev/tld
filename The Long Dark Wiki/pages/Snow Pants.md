@@ -4,29 +4,20 @@
 
 **Snow Pants**
 
-[Snow Pants icon](../assets/Snow_Pants_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)50%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)5%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
-
-**Harvest:** 1 × [Cloth](./Cloth.md) 30 minutes
-
-**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 30% condition
+| Property | Details |
+| --- | --- |
+|  | [Snow Pants icon](../assets/Snow_Pants_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)50% |
+| Protection | [Protection icon](../assets/Protection_icon.png)5% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-5% |
+| Harvest | 1 × [Cloth](./Cloth.md) / 30 minutes |
+| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 30% condition |
 
 > “**Insulated pants with a nylon windproof layer. Designed for spending a day in the snow without getting too wet!**”
 >

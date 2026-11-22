@@ -11,21 +11,16 @@
 
 **Antibiotics**
 
-[Antibiotics icon](../assets/Antibiotics_icon.png)
-
-**General**
-
-**Item Type:** [First Aid](./First%20Aid.md)
-
-**Renewable:** Yes ([Beachcombing](./Beachcombing.md) and [Trader](./Trader.md))
-
-**Statistics**
-
-**Unit weight:** 0.02 kg/dose(0.04 lbs/dose)
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
-
-**Unit count:** [Unit count icon](../assets/Unit_count_icon.png)6 doses
+| Property | Details |
+| --- | --- |
+|  | [Antibiotics icon](../assets/Antibiotics_icon.png) |
+| **General** |  |
+| Item Type | [First Aid](./First%20Aid.md) |
+| Renewable | Yes ([Beachcombing](./Beachcombing.md) and [Trader](./Trader.md)) |
+| **Statistics** |  |
+| Unit weight | 0.02 kg/dose(0.04 lbs/dose) |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
+| Unit count | [Unit count icon](../assets/Unit_count_icon.png)6 doses |
 
 > “**A bottle of Antibiotics. Take it to stop infections from spreading.**”
 >

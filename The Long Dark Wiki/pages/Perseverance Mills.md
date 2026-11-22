@@ -17,23 +17,17 @@
 
 **Perseverance Mills**
 
-[Perseverance Mills](../assets/Perseverance_Mills.jpg)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[No picture](../assets/No_picture.png)
-
-[Perseverance Mills in game map](../assets/Perseverance_Mills_in-game_map.png)
-
-**Details**
-
-**Description:** An old, inhabited logging and milling town suffering from a quarantine
-
-**Connecting Regions:** [Desperation Bay](./Desperation%20Bay.md) [Perseverance Wilds](./Perseverance%20Wilds.md) [Railway](./Railway.md) (unused)
-
-**Characters:** [Jane Yang](./Jane%20Yang.md) [Cooper](./Cooper.md) [Terry](./Terry.md) Freya Dr. Larson Constable Pete Townsperson One and Two Mill Worker Bar Patrons
-
-**Date Added:** 31 March 2026
+| Property | Details |
+| --- | --- |
+|  | [Perseverance Mills](../assets/Perseverance_Mills.jpg) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [No picture](../assets/No_picture.png) |
+|  | [Perseverance Mills in game map](../assets/Perseverance_Mills_in-game_map.png) |
+| **Details** |  |
+| Description | An old, inhabited logging and milling town suffering from a quarantine |
+| Connecting Regions | [Desperation Bay](./Desperation%20Bay.md) / [Perseverance Wilds](./Perseverance%20Wilds.md) / [Railway](./Railway.md) (unused) |
+| Characters | [Jane Yang](./Jane%20Yang.md) / [Cooper](./Cooper.md) / [Terry](./Terry.md) / Freya / Dr. Larson / Constable Pete / Townsperson One and Two / Mill Worker / Bar Patrons |
+| Date Added | 31 March 2026 |
 
 [2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 

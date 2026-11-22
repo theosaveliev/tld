@@ -11,9 +11,10 @@
 
 **To the Teeth**
 
-[To the Teeth icon](../assets/To_the_Teeth_icon.png)
-
-**Description:** Collect 7 Expansion Firearm variants (single game).
+| Property | Details |
+| --- | --- |
+|  | [To the Teeth icon](../assets/To_the_Teeth_icon.png) |
+| Description | Collect 7 Expansion Firearm variants (single game). |
 
 **To the Teeth** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -37,3 +38,5 @@ The player must find and pick up, at least once, all 7 firearm variants of the [
 - [Warden's Revolver](./Warden%27s%20Revolver.md) - somewhere in [Blackrock Prison](./Blackrock%20Prison.md)
 - [Forester's Revolver](./Forester%27s%20Revolver.md) -somewhere in the mountains in [Bleak Inlet](./Bleak%20Inlet.md)
 - [Hunter's Revolver](./Hunter%27s%20Revolver.md) - in the Hunting [Prepper Cache](./Prepper%20Cache.md)
+
+## Trivia

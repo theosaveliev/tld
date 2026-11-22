@@ -4,33 +4,22 @@
 
 **Technical Backpack**
 
-[Technical Backpack icon](../assets/Technical_Backpack_icon.png)
-
-**Release:** [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A sturdier Backpack with all the bells and whistles. You can carry more gear before becoming Encumbered.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_TechnicalBackpack
+| Property | Details |
+| --- | --- |
+|  | [Technical Backpack icon](../assets/Technical_Backpack_icon.png) |
+| Release | [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A sturdier Backpack with all the bells and whistles. You can carry more gear before becoming Encumbered. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_TechnicalBackpack |
 
 The **Technical Backpack** is a collectible item available in [Survival Mode](./Survival%20Mode.md).
 
@@ -58,6 +47,6 @@ The Technical Backpack can be found alongside their sister item, the [Crampons](
 - It is implied prior to acquiring the technical backpack that the player is wearing a conventional backpack or rucksack like those found scattered about Great Bear Island near frozen corpses. This is shown explicitly in official artwork of [Will Mackenzie](./Will%20Mackenzie.md) for [Wintermute: Episode 2](./Episode%202%20-%20Luminance%20Fugue.md). However, these containers cannot be picked up, and acquiring the technical backpack does not produce the player's old backpack.
 - Acquiring the technical backpack changes the sound played when a player opens their inventory. Instead of a normal ruffling sound, a clip and unzip noise are heard. Additionally, the icon for the backpack will change to one resembling the in game picture for the technical backpack, and the inventory will be renamed from Backpack to Technical Backpack.
 
-![Technical Backpack inventory display &amp; icon change](../assets/TechnicalBackpack.jpg)
+![Technical Backpack inventory display & icon change](../assets/TechnicalBackpack.jpg)
 
-_**Technical Backpack inventory display &amp; icon change**_
+_**Technical Backpack inventory display & icon change**_

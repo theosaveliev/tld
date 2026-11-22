@@ -11,13 +11,12 @@
 
 **Welcoming Party**
 
-[The prison guard's body](../assets/Blackrock_prison_guard_body.jpg)
-
-**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
-
-**Current:** Blackrock (mission)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
+| Property | Details |
+| --- | --- |
+|  | [The prison guard's body](../assets/Blackrock_prison_guard_body.jpg) |
+| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Current | Blackrock (mission) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

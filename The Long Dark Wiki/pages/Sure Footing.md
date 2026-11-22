@@ -4,29 +4,20 @@
 
 **Sure Footing**
 
-[Sure Footing icon](../assets/Sure_Footing_icon.png)
-
-**Release:** [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)
-
-**Update:** 1.89
-
-**Properties**
-
-**Category:** [Afflictions](./Afflictions.md)
-
-**Description:** The Crampons' steel spikes give you better traction in icy terrain. They make rope climbing easier, Sprains less frequent, and Weak Ice more forgiving.
-
-**Caused By:** Worn [Clothing](./Clothing.md)
-
-**Effect:** Positive
-
-**Type:** Benefit
-
-**Benefit Duration:** Until [Crampons icon](../assets/Crampons_icon.png) [Crampons](./Crampons.md) or [Improvised Crampons icon](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md) are taken off or ruined
-
-**Advanced Data**
-
-**Item Key:** GAMEPLAY\_CramponsBenefit
+| Property | Details |
+| --- | --- |
+|  | [Sure Footing icon](../assets/Sure_Footing_icon.png) |
+| Release | [9 December 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89) |
+| Update | 1.89 |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Description | The Crampons' steel spikes give you better traction in icy terrain. They make rope climbing easier, Sprains less frequent, and Weak Ice more forgiving. |
+| Caused By | Worn [Clothing](./Clothing.md) |
+| Effect | Positive |
+| Type | Benefit |
+| Benefit Duration | Until / [Crampons icon](../assets/Crampons_icon.png) [Crampons](./Crampons.md) / or / [Improvised Crampons icon](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md) are taken off or ruined |
+| **Advanced Data** |  |
+| Item Key | GAMEPLAY\_CramponsBenefit |
 
 > “**The Crampons' steel spikes give you better traction in icy terrain. They make rope climbing easier, Sprains less frequent, and Weak Ice more forgiving.**”
 >

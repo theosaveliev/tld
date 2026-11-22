@@ -4,23 +4,16 @@
 
 **Workshop**
 
-[SS BI Workshop01](../assets/SS-BI-Workshop01.jpg)
-
-**Location**
-
-[Workshop Location](../assets/Workshop_Location.png)
-
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
-
-**General**
-
-**Type:** Industrial
-
-[Bed icon](../assets/Bed_icon.png)
-
-[Workbench icon green](../assets/Workbench_icon_green.png)
-
-Has a workbench
+| Property | Details |
+| --- | --- |
+|  | [SS BI Workshop01](../assets/SS-BI-Workshop01.jpg) |
+| **Location** |  |
+|  | [Workshop Location](../assets/Workshop_Location.png) |
+| Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
+| **General** |  |
+| Type | Industrial\|- |
+| [Bed icon](../assets/Bed_icon.png) |  |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
 
 ## Workshop
 

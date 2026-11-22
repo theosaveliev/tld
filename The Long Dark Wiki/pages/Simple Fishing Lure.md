@@ -4,29 +4,20 @@
 
 **Simple Fishing Lure**
 
-[Simple Fishing Lure icon](../assets/Simple_Fishing_Lure_icon.png)
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Values**
-
-**Weight:** 0.01 kg (0.02 lbs)
-
-**Actions**
-
-**Backpack:** Drop
-
-**On ground:** Take It, Leave It, Place it
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_FishingLureA
+| Property | Details |
+| --- | --- |
+|  | [Simple Fishing Lure icon](../assets/Simple_Fishing_Lure_icon.png) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| **Values** |  |
+| Weight | 0.01 kg (0.02 lbs) |
+| **Actions** |  |
+| Backpack | Drop |
+| On ground | Take It, Leave It, Place it |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_FishingLureA |
 
 **Simple Fishing Lure** is a basic Fishing Lure introduced in the free update portion of the Part 3: Frontier Comforts update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion.
 

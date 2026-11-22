@@ -28,21 +28,16 @@
 
 **Ptarmigan**
 
-[Ptarmigan](../assets/Ptarmigan.png)
-
-**Basic Information**
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Role:** Prey
-
-**Physical Information**
-
-**Color:** White
-
-**Size:** Small
-
-**Eyes:** Black
+| Property | Details |
+| --- | --- |
+|  | [Ptarmigan](../assets/Ptarmigan.png) |
+| **Basic Information** |  |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Role | Prey |
+| **Physical Information** |  |
+| Color | White |
+| Size | Small |
+| Eyes | Black |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -170,7 +165,7 @@ Ptarmigan Nests are locations that Ptarmigans will always loiter around. They ar
 - A flock near [Camp Office](./Camp%20Office.md) near the rocks across from the front door.
 - A flock may appear at [Lake Overlook](./Lake%20Overlook.md).
 - A flock can be seen near the potential [Prepper Cache](./Prepper%20Cache.md) above [Dave's Quiet Clearing](./Dave%27s%20Quiet%20Clearing.md).
-- A flock can be sighted at the top of the path leading to the Abandoned Lookout &amp; the [Forestry Lookout](./Forestry%20Lookout.md).
+- A flock can be sighted at the top of the path leading to the Abandoned Lookout & the [Forestry Lookout](./Forestry%20Lookout.md).
 - A flock can also be located at the [Destroyed Lookout](./Destroyed%20Lookout.md).
 
 ### [Pleasant Valley](./Pleasant%20Valley.md)

@@ -4,16 +4,12 @@
 
 **Grand Meadow**
 
-[Grand Meadow](../assets/Grand_Meadow.jpg)
-
-**Location**
-
-[Grand Meadow Location](../assets/Grand_Meadow_Location.png)
-
-Region
-
-**Location:** Between Power Plant and Forager's Remnant
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Grand Meadow](../assets/Grand_Meadow.jpg) |
+| **Location** |  |
+|  | [Grand Meadow Location](../assets/Grand_Meadow_Location.png) |
+| Region |  |
+| Location | Between Power Plant and Forager's Remnant |
+| **General** |  |
+| Type | Landmark\|- |

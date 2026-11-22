@@ -15,29 +15,20 @@
 
 **Ash Canyon**
 
-[Ash Canyon](../assets/Ash_Canyon.jpg)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[Ash Canyon Location](../assets/Ash_Canyon_Location.png)
-
-[Ash Canyon Region Map](../assets/Ash_Canyon_Region_Map.png)
-
-**Details**
-
-**Description:** Deep valleys and high plateaus connected by rope bridges overlooking burnt, decaying trees subject to an ancient forest fire.
-
-**Connecting Regions:** [Timberwolf Mountain](./Timberwolf%20Mountain.md) (through multiple different connection points)
-
-**Difficulty:** Advanced
-
-**Interloper Region Spawn:** Yes
-
-**Locations:** 20
-
-**Hazards and Survivability:** Lots of high rope bridges. Weather can often be poor. Some shelters scattered throughout.
-
-**Date Added:** December 7 2020
+| Property | Details |
+| --- | --- |
+|  | [Ash Canyon](../assets/Ash_Canyon.jpg) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [Ash Canyon Location](../assets/Ash_Canyon_Location.png) |
+|  | [Ash Canyon Region Map](../assets/Ash_Canyon_Region_Map.png) |
+| **Details** |  |
+| Description | Deep valleys and high plateaus connected by rope bridges overlooking burnt, decaying trees subject to an ancient forest fire. |
+| Connecting Regions | [Timberwolf Mountain](./Timberwolf%20Mountain.md) (through multiple different connection points) |
+| Difficulty | Advanced |
+| Interloper Region Spawn | Yes |
+| Locations | 20 |
+| Hazards and Survivability | Lots of high rope bridges. Weather can often be poor. Some shelters scattered throughout. |
+| Date Added | December 7 2020 |
 
 > “__For advanced players. A climber's paradise dotted with narrow ravines, towering cliffs, and multiple high plateaus. Its burnt forests and mining settlements also hint at a darker history. __”
 >
@@ -87,9 +78,27 @@ A final option for a base is [Miner's Folly](./Miner%27s%20Folly.md). Most playe
 
 There are a number of discoverable locations in this region.
 
-| Column 1 | Column 2 |
-| --- | --- |
-| - [Angler's Den](./Angler%27s%20Den.md) - [Bitter Marsh](./Bitter%20Marsh.md) - [Broad Falls](./Broad%20Falls.md) - [Climber's Cave](./Climber%27s%20Cave.md) - [Fire Overlook](./Fire%20Overlook.md) - [Foreman's Retreat](./Foreman%27s%20Retreat.md) - [Gold Mine](./Gold%20Mine.md) - [High Meadow](./High%20Meadow.md) - [Homesteader's Respite](./Homesteader%27s%20Respite.md) - [Long Falls](./Long%20Falls.md) - [Pillar's Footrest](./Pillar%27s%20Footrest.md) | - [Miner's Folly](./Miner%27s%20Folly.md) - [Mining Camp](./Mining%20Camp.md) - [Narrow Falls Cave](./Narrow%20Falls%20Cave.md) - [Runaway Bridge](./Runaway%20Bridge.md) - [Shattered Cove](./Shattered%20Cove.md) - [Stone Shelf Cave](./Stone%20Shelf%20Cave.md) - [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md) - To Cave System (Region Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md)) - To Timberwolf Mountain (Region Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md)) |
+- [Angler's Den](./Angler%27s%20Den.md)
+- [Bitter Marsh](./Bitter%20Marsh.md)
+- [Broad Falls](./Broad%20Falls.md)
+- [Climber's Cave](./Climber%27s%20Cave.md)
+- [Fire Overlook](./Fire%20Overlook.md)
+- [Foreman's Retreat](./Foreman%27s%20Retreat.md)
+- [Gold Mine](./Gold%20Mine.md)
+- [High Meadow](./High%20Meadow.md)
+- [Homesteader's Respite](./Homesteader%27s%20Respite.md)
+- [Long Falls](./Long%20Falls.md)
+- [Pillar's Footrest](./Pillar%27s%20Footrest.md)
+
+- [Miner's Folly](./Miner%27s%20Folly.md)
+- [Mining Camp](./Mining%20Camp.md)
+- [Narrow Falls Cave](./Narrow%20Falls%20Cave.md)
+- [Runaway Bridge](./Runaway%20Bridge.md)
+- [Shattered Cove](./Shattered%20Cove.md)
+- [Stone Shelf Cave](./Stone%20Shelf%20Cave.md)
+- [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md)
+- To Cave System (Region Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md))
+- To Timberwolf Mountain (Region Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md))
 
 There is also 1 [Prepper Cache](./Prepper%20Cache.md) close to the Cave Region Transition.
 
@@ -106,3 +115,5 @@ There is also 1 [Prepper Cache](./Prepper%20Cache.md) close to the Cave Region T
 ![Fog at higher elevations can make traversal difficult, with bridges looking as though they lead to nowhere](../assets/Ash_Canyon_Rope_Bridge_Fog.jpg)
 
 ![Concept art for the region. Do note that such bridges do not appear in the final product](../assets/Ash_Canyon_Concept_Art.png)
+
+## Trivia

@@ -4,17 +4,14 @@
 
 **Island Cave**
 
-[IslandCave](../assets/IslandCave.png)
-
-**Location**
-
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
-
-**Description:** A small cave on an offshore island.
-
-**General**
-
-**Type:** Cave
+| Property | Details |
+| --- | --- |
+|  | [IslandCave](../assets/IslandCave.png) |
+| **Location** |  |
+| Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
+| Description | A small cave on an offshore island. |
+| **General** |  |
+| Type | Cave\|- |
 
 ## Overview
 

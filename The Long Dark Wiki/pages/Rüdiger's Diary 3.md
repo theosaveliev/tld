@@ -4,23 +4,17 @@
 
 **Rüdiger's Diary 3**
 
-[Rüdiger's Diary 3 icon](../assets/R%C3%BCdiger%27s_Diary_3_icon.png)
-
-**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A weather-beaten page from a notebook.
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Rüdiger's Diary 3 icon](../assets/R%C3%BCdiger%27s_Diary_3_icon.png) |
+| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A weather-beaten page from a notebook. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
 
 **Rüdiger's Diary 3** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md). It is found in a hidden room in [Bunker Omega](./Bunker%20Omega.md) near the end of the Tale.
 

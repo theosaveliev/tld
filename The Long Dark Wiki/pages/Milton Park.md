@@ -4,27 +4,19 @@
 
 **Milton Park**
 
-[Milton Park Office](../assets/Milton_Park_Office.jpg)
+| Property | Details |
+| --- | --- |
+|  | [Milton Park Office](../assets/Milton_Park_Office.jpg) |
+| **Location** |  |
+|  | [Milton Park Location](../assets/Milton_Park_Location.png) |
+| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| **General** |  |
+| Type | Residential\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Provides some shelter\|- |
+| Missions | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
 
-**Location**
-
-[Milton Park Location](../assets/Milton_Park_Location.png)
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
-
-**General**
-
-**Type:** Residential
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Provides some shelter
-
-**Missions:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-> “**Due to the unfortunate accident, the Milton &amp; Area Parks Board can no longer condone the use of the climbing area within the park boundaries.**”
+> “**Due to the unfortunate accident, the Milton & Area Parks Board can no longer condone the use of the climbing area within the park boundaries.**”
 >
 > — Park Warning Notice
 

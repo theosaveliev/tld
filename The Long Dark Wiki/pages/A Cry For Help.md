@@ -4,21 +4,16 @@
 
 **A Cry For Help**
 
-[Missions story ep5 ACryforHelp](../assets/Missions_story_ep5_ACryforHelp.png)
-
-Episode
-
-**Missions**
-
-**Previous:** [Perseverance](./Perseverance.md)
-
-**Current:** A Cry For Help
-
-**Next:** [The Cold, Broken Road](./The%20Cold%2C%20Broken%20Road.md)
-
-**Region:** [Perseverance Mills](./Perseverance%20Mills.md) [Desperation Bay](./Desperation%20Bay.md)
-
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Jane Yang](./Jane%20Yang.md) [Terry](./Terry.md)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep5 ACryforHelp](../assets/Missions_story_ep5_ACryforHelp.png) |
+| Episode |  |
+| **Missions** |  |
+| Previous | [Perseverance](./Perseverance.md) |
+| Current | A Cry For Help |
+| Next | [The Cold, Broken Road](./The%20Cold%2C%20Broken%20Road.md) |
+| Region | [Perseverance Mills](./Perseverance%20Mills.md) [Desperation Bay](./Desperation%20Bay.md) |
+| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) / [Jane Yang](./Jane%20Yang.md) / [Terry](./Terry.md) |
 
 > “**Investigate the strange transmission Terry intercepted.**”
 
@@ -29,3 +24,5 @@ Episode
 - Go to the radio hut to look for Terry.
 - Find the way to Desperation Bay.
 - Investigate the ship.
+
+## Trivia

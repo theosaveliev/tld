@@ -4,31 +4,21 @@
 
 **Flight Jacket**
 
-[Flight Jacket icon](../assets/Flight_Jacket_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Outer torso
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)5.0 °C(9 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)50%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)10%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
-
-**Harvest:** 3 × [Cured Leather](./Cured%20Leather.md) 30 minutes
-
-**Repair:** 2 × [Cured Leather](./Cured%20Leather.md) 60 minutes 40% condition
+| Property | Details |
+| --- | --- |
+|  | [Flight Jacket icon](../assets/Flight_Jacket_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Outer torso |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)2.50 kg(5.5 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)5.0 °C(9 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)50% |
+| Protection | [Protection icon](../assets/Protection_icon.png)10% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-5% |
+| Harvest | 3 × [Cured Leather](./Cured%20Leather.md) / 30 minutes |
+| Repair | 2 × [Cured Leather](./Cured%20Leather.md) / 60 minutes / 40% condition |
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -51,7 +41,7 @@ Note: While it used to spawn, it is no longer available on [Interloper](./Interl
 ## Locations
 
 - On the bed in the [Hangar Basement](./Hangar%20Basement.md) of the [Main Hangar.](./Main%20Hangar.md)
-- Inside the various vehicles in &amp; around the Hangar.
+- Inside the various vehicles in & around the Hangar.
 - Inside a crate near the crashed plane in [Mountain Town](./Mountain%20Town.md).
 - In locked lockers throughout the island.
 - Available rarely from trunks found when [beachcombing](./Beachcombing.md) after a blizzard.

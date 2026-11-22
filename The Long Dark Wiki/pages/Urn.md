@@ -4,13 +4,12 @@
 
 **Urn**
 
-[Urn](../assets/Urn.jpg)
-
-**Release:** 1.00
-
-**Container**
-
-**Capacity:** 0.25 kg(0.55 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Urn](../assets/Urn.jpg) |
+| Release | 1.00 |
+| **Container** |  |
+| Capacity | 0.25 kg(0.55 lbs) |
 
 The **Urn** was a cut container found during the Predux version of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md). It was found in the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) farmhouse bedroom, and contained [Bank Deposit Box Key 15](./Bank%20Deposit%20Box%20Key%2015.md), needed to finish the mission [The Grey Mother (Predux)](./The%20Grey%20Mother%20%28Predux%29.md).
 

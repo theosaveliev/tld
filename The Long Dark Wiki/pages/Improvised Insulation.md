@@ -4,29 +4,20 @@
 
 **Improvised Insulation**
 
-[Improvised Insulation icon](../assets/Improvised_Insulation_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2 °C(3.6 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)0
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)1%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** 20 minutes 2 × [Cloth](./Cloth.md) 3 x [Ptarmigan Down](./Ptarmigan%20Down.md)
-
-**Repair:** 1 × [Cloth](./Cloth.md) 2 x [Ptarmigan Down](./Ptarmigan%20Down.md) 30 minutes 60% condition
+| Property | Details |
+| --- | --- |
+|  | [Improvised Insulation icon](../assets/Improvised_Insulation_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)2 °C(3.6 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)1.0 °C(1.8 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)0 |
+| Protection | [Protection icon](../assets/Protection_icon.png)1% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | 20 minutes 2 × [Cloth](./Cloth.md) / 3 x [Ptarmigan Down](./Ptarmigan%20Down.md) |
+| Repair | 1 × [Cloth](./Cloth.md) 2 x [Ptarmigan Down](./Ptarmigan%20Down.md) / 30 minutes / 60% condition |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

@@ -4,27 +4,19 @@
 
 **Foreman's Site Report, Day [illegible]**
 
-[Foreman's Site Report Day (illegible) icon](../assets/Foreman%27s_Site_Report_Day_%28illegible%29_icon.png)
-
-**Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Pages from a technical notebook.
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_Tale2\_ForemanLog4
+| Property | Details |
+| --- | --- |
+|  | [Foreman's Site Report Day (illegible) icon](../assets/Foreman%27s_Site_Report_Day_%28illegible%29_icon.png) |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Pages from a technical notebook. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Tale2\_ForemanLog4 |
 
 **Foreman's Site Report Day (illegible)** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Buried Echoes](./Buried%20Echoes.md) [Tale](./Tales.md). It is found in the control room near The Machine.
 

@@ -12,9 +12,10 @@
 
 **Every Last One**
 
-[Every Last One icon](../assets/Every_Last_One_icon.png)
-
-**Description:** Collect all six Notes with details on Forest Talker activity in Pleasant Valley.
+| Property | Details |
+| --- | --- |
+|  | [Every Last One icon](../assets/Every_Last_One_icon.png) |
+| Description | Collect all six Notes with details on Forest Talker activity in Pleasant Valley. |
 
 **Every Last One** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

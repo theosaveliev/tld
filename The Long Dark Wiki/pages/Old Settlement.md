@@ -13,17 +13,14 @@
 
 **Old Settlement**
 
-[Old Settlement Close](../assets/Old_Settlement_Close.jpg)
-
-**Location**
-
-[Old Settlement Location](../assets/Old_Settlement_Location.png)
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**General**
-
-Provides some shelter The **Old Settlement** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md).
+| Property | Details |
+| --- | --- |
+|  | [Old Settlement Close](../assets/Old_Settlement_Close.jpg) |
+| **Location** |  |
+|  | [Old Settlement Location](../assets/Old_Settlement_Location.png) |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| **General** |  |
+|  | Provides some shelter The **Old Settlement** is an unmarked location in [Sundered Pass](./Sundered%20Pass.md). |
 
 ## Overview
 

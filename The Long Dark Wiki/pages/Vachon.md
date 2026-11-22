@@ -21,33 +21,22 @@
 
 **Vachon**
 
-[Vachon](../assets/Vachon.png)
-
-**Release:** [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
-
-**Date:** 6 October 2021
-
-**Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
-
-**Biographical Information**
-
-**Age:** 40's
-
-**Status:** Deceased
-
-**Place of death:** [Perseverance Mills](./Perseverance%20Mills.md)
-
-**Cause of death:** Throwing Hatchet to the chest. Body later burned.
-
-**Occupation:** Criminal
-
-**Physical Information**
-
-**Sex:** Male
-
-**Game Information**
-
-**Voiced by:** Jacques Lalonde
+| Property | Details |
+| --- | --- |
+|  | [Vachon](../assets/Vachon.png) |
+| Release | [1.95](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Date | 6 October 2021 |
+| Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) [Episode 5](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
+| **Biographical Information** |  |
+| Age | 40's |
+| Status | Deceased |
+| Place of death | [Perseverance Mills](./Perseverance%20Mills.md) |
+| Cause of death | Throwing Hatchet to the chest. Body later burned. |
+| Occupation | Criminal |
+| **Physical Information** |  |
+| Sex | Male |
+| **Game Information** |  |
+| Voiced by | Jacques Lalonde |
 
 > “**Get going, pilot. The Warden doesn't have much time left. And in case you're thinking of running away. Remember...we still have your precious case.**”
 >

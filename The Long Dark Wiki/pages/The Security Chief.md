@@ -16,35 +16,23 @@
 
 **Lena Vertasky**
 
-[Security Chief's ID Badge icon](../assets/Security_Chief%27s_ID_Badge_icon.png)
-
-**Release:** 2.03
-
-**Date:** 5 December 2022
-
-**Mission:** [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) [Last Horizon](./Last%20Horizon.md)
-
-**Biographical Information**
-
-**Age:** Unknown
-
-**Status:** Deceased
-
-**Place of death:** [Langston Mine](./Langston%20Mine.md)
-
-**Cause of death:** Mental degradation after exposure to The Machine
-
-**Occupation:** Security Chief
-
-**Physical Information**
-
-**Sex:** Female
-
-**Game Information**
-
-**Equipment:** [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md) [Security Chief's ID Badge](./Security%20Chief%27s%20ID%20Badge.md)
-
-**Voiced by:** Devon Busswood
+| Property | Details |
+| --- | --- |
+|  | [Security Chief's ID Badge icon](../assets/Security_Chief%27s_ID_Badge_icon.png) |
+| Release | 2.03 |
+| Date | 5 December 2022 |
+| Mission | [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) / [Last Horizon](./Last%20Horizon.md) |
+| **Biographical Information** |  |
+| Age | Unknown |
+| Status | Deceased |
+| Place of death | [Langston Mine](./Langston%20Mine.md) |
+| Cause of death | Mental degradation after exposure to The Machine |
+| Occupation | Security Chief |
+| **Physical Information** |  |
+| Sex | Female |
+| **Game Information** |  |
+| Equipment | [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md) [Security Chief's ID Badge](./Security%20Chief%27s%20ID%20Badge.md) |
+| Voiced by | Devon Busswood |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -81,3 +69,5 @@ Her keycard is found in a hidden room in [Bunker Omega](./Bunker%20Omega.md), li
 ![The Chief's remains in the control room next to the machine](../assets/The_Security_Chief.jpg)
 
 ![The chief in a photo along with the Foreman](../assets/Foreman%27s_Polaroid_4_icon.png)
+
+## Trivia

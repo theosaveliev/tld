@@ -80,7 +80,7 @@ Auroras have two distinct "power stages". Roughly one in-game hour after the sta
 
 |  | Aurora Buildup | Full power |
 | --- | --- | --- |
-| Powers Shortwave Radio &amp; Flashlight | Yes | Yes |
+| Powers Shortwave Radio & Flashlight | Yes | Yes |
 | Powers Artificial Light | No | Yes |
 | Trackable Shortwave Radio Signals | No | Yes |
 | Interaction with Electronically Locked Doors | Yes | Yes |
@@ -108,7 +108,7 @@ Bulkhead-style doors in [Last Resort Cannery](./Last%20Resort%20Cannery.md) ([Bl
 
 ### Animal Behavior
 
-Predators during an aurora are upgraded to "Aurora Predators", which are more aggressive (detection radius) and dangerous (more health). When an aurora begins wildlife will flee and be replaced with their aurora counterparts (e.g. Wolf -&gt; Aurora Wolf). Herbivores (Rabbit, Deer) will flee during an aurora, and not re-appear until it ends; fish and crows are unaffected by auroras.
+Predators during an aurora are upgraded to "Aurora Predators", which are more aggressive (detection radius) and dangerous (more health). When an aurora begins wildlife will flee and be replaced with their aurora counterparts (e.g. Wolf -> Aurora Wolf). Herbivores (Rabbit, Deer) will flee during an aurora, and not re-appear until it ends; fish and crows are unaffected by auroras.
 
 Aurora wildlife have a green iridescent glow to their fur and their eyes glow yellow.
 
@@ -134,7 +134,7 @@ Walking on exposed wiring/water when no aurora is present is safe, but caution s
 
 In Survival Mode, exposed wires and electrified water can be found in:
 
-- [Mystery Lake](./Mystery%20Lake%20%28region%29.md): Carter Hydro Dam &amp; Environs; Upper and Lower
+- [Mystery Lake](./Mystery%20Lake%20%28region%29.md): Carter Hydro Dam & Environs; Upper and Lower
 - [Broken Railroad](./Broken%20Railroad.md): Maintenance Yard
 - [Coastal Highway](./Coastal%20Highway.md): Cinder Hills Coal Mine
 - [Bleak Inlet](./Bleak%20Inlet.md): Last Resort Cannery

@@ -14,25 +14,18 @@
 
 **Dr. Atwood**
 
-[Dr Atwood](../assets/Dr_Atwood.jpg)
-
-**Wintermute:** [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md)
-
-**Biographical Information**
-
-**Status:** Alive
-
-**Occupation:** Doctor Astrophysicist
-
-**Physical Information**
-
-**Sex:** Female
-
-**Hair:** Black
-
-**Game Information**
-
-**Voiced by:** Mayumi Yoshida
+| Property | Details |
+| --- | --- |
+|  | [Dr Atwood](../assets/Dr_Atwood.jpg) |
+| Wintermute | [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) |
+| **Biographical Information** |  |
+| Status | Alive |
+| Occupation | Doctor Astrophysicist |
+| **Physical Information** |  |
+| Sex | Female |
+| Hair | Black |
+| **Game Information** |  |
+| Voiced by | Mayumi Yoshida |
 
 > “**An old friend of mine, lives alone in a cabin in the hills near [Perseverance](./Perseverance%20Mills.md). Goes by the name Atwood. People in town will know how to find them. You need to get them this message as soon as possible.**”
 >

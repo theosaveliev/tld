@@ -4,33 +4,22 @@
 
 **Beef Jerky**
 
-[Beef Jerky icon](../assets/Beef_Jerky_icon.png)
-
-**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)
-
-**Wintermute:** No
-
-**Renewable:** Yes (rare [Beachcombing](./Beachcombing.md))
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** Package of Beef Jerky. Tasty and pretty much lasts forever.
-
-**Values**
-
-**Calories:** 350 kcal
-
-**Hydration:** -10%
-
-**Weight:** 0.10 kg (0.22 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_BeefJerky
+| Property | Details |
+| --- | --- |
+|  | [Beef Jerky icon](../assets/Beef_Jerky_icon.png) |
+| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117) |
+| Wintermute | No |
+| Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Package of Beef Jerky. Tasty and pretty much lasts forever. |
+| **Values** |  |
+| Calories | 350 kcal |
+| Hydration | -10% |
+| Weight | 0.10 kg (0.22 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_BeefJerky |
 
 **Beef Jerky** is a packaged [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 

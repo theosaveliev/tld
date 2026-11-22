@@ -11,23 +11,17 @@
 
 **Fresh Leather**
 
-[Fresh Leather icon](../assets/Fresh_Leather_icon.png)
-
-**Release:** [9 July 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.05)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Materials](./Materials.md)
-
-**Stackable:** No
-
-**Examine:** Freshly harvested leather. Can be used for crafting and repair after air-drying indoors for 5 days.
-
-**Values**
-
-**Weight:** 0.10 kg (0.22 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Fresh Leather icon](../assets/Fresh_Leather_icon.png) |
+| Release | [9 July 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.05) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Materials](./Materials.md)\|- |
+| Stackable | No |
+| Examine | Freshly harvested leather. / Can be used for crafting and repair after air-drying indoors for 5 days. |
+| **Values** |  |
+| Weight | 0.10 kg (0.22 lbs) |
 
 **Fresh Leather** is the very rare, uncured version of [Leather](./Cured%20Leather.md). It can be used as a [Material](./Materials.md) for crafting or repairing certain items once they have [Cured](./Curing.md) into [Cured Leather](./Cured%20Leather.md).
 

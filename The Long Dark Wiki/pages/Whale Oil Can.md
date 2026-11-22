@@ -10,17 +10,14 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Whale Oil Can**
 
-[Whale Oil Can icon](../assets/Whale_Oil_Can_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Renewable:** Yes
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.00-5.10 kg(-11.22 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Whale Oil Can icon](../assets/Whale_Oil_Can_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| Renewable | Yes |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.00-5.10 kg(-11.22 lbs) |
 
 > “**An old canister of preserved Whale Oil. Pungent stuff, but flammable and a highly efficient fuel source in the right machine.**”
 >

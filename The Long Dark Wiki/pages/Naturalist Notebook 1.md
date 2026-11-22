@@ -4,27 +4,19 @@
 
 **Naturalist Notebook 1**
 
-[Naturalist Notebook 1 icon](../assets/Naturalist_Notebook_1_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A loose leaf from a technical notebook
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Naturalist Notebook 1 icon](../assets/Naturalist_Notebook_1_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A loose leaf from a technical notebook |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Naturalist Notebook 1** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) found on a shelf in the coal tower at [Vacant Depot](./Vacant%20Depot.md).
 

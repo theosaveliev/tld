@@ -35,4 +35,4 @@ The almanac was first introduced in version [0.346](./The%20Long%20Dark%20%E2%80
 
 ---
 
-[^1]: Wikipedia, 2016, _Almanac_, viewed 3 October 2016 &lt;[https://en.wikipedia.org/wiki/Almanac](https://en.wikipedia.org/wiki/Almanac)&gt;
+[^1]: Wikipedia, 2016, _Almanac_, viewed 3 October 2016 <[https://en.wikipedia.org/wiki/Almanac](https://en.wikipedia.org/wiki/Almanac)>

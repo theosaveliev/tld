@@ -232,7 +232,7 @@ In addition to the side missions, the player can also find three keys to the loc
 - ![The Old Trapper icon](../assets/The_Old_Trapper_icon.png) [The Old Trapper](./The%20Old%20Trapper.md)
 - ![Lights in the Sky icon](../assets/Lights_in_the_Sky_icon.png) [Lights in the Sky](./Lights%20in%20the%20Sky.md)
 - ![Graduation Day icon](../assets/Graduation_Day_icon.png) [Graduation Day](./Graduation%20Day.md)
-- ![Freight Train of Hate &amp; Hunger icon](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png) [Freight-Train of Hate &amp; Hunger](./Freight-Train%20of%20Hate%20%26%20Hunger.md)
+- ![Freight Train of Hate & Hunger icon](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png) [Freight-Train of Hate & Hunger](./Freight-Train%20of%20Hate%20%26%20Hunger.md)
 - ![You'll Be With Her Soon icon](../assets/You%27ll_Be_With_Her_Soon_icon.png) [You'll Be With Her Soon](./You%27ll%20Be%20With%20Her%20Soon.md)
 - ![Sounds Like Some Kind of Indie Band icon](../assets/Sounds_Like_Some_Kind_of_Indie_Band_icon.png) [Sounds Like Some Kind of Indie Band](./Sounds%20Like%20Some%20Kind%20of%20Indie%20Band.md)
 - ![Cache Mastery icon](../assets/Cache_Mastery_icon.png) [Cache Mastery](./Cache%20Mastery.md)

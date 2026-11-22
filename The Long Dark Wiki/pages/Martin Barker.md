@@ -4,31 +4,21 @@
 
 **Martin Barker**
 
-[Martin Barker](../assets/Martin_Barker.png)
-
-**Release:** [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Date:** 1 August 2017
-
-**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Mission:** [The Grey Mother](./The%20Grey%20Mother.md)
-
-**Location(s):** [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md)
-
-**Biographical Information**
-
-**Status:** Dead
-
-**Place of death:** [Milton](./Milton.md)
-
-**Relatives:** **•** [Grey Mother](./Grey%20Mother.md) (ex-Wife) **•** [Lilith Barker](./Lilith%20Barker.md) (Daughter)
-
-**Occupation:** Farmer
-
-**Physical Information**
-
-**Hair:** Grey
+| Property | Details |
+| --- | --- |
+|  | [Martin Barker](../assets/Martin_Barker.png) |
+| Release | [Wintermute Launch (v1.0)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Date | 1 August 2017 |
+| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
+| Mission | [The Grey Mother](./The%20Grey%20Mother.md) |
+| Location(s) | [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) |
+| **Biographical Information** |  |
+| Status | Dead |
+| Place of death | [Milton](./Milton.md) |
+| Relatives | **•** [Grey Mother](./Grey%20Mother.md) (ex-Wife) / **•** [Lilith Barker](./Lilith%20Barker.md) (Daughter) |
+| Occupation | Farmer |
+| **Physical Information** |  |
+| Hair | Grey |
 
 > “**M - The farmer... is gone.**”
 >

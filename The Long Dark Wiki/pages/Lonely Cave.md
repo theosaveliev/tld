@@ -4,19 +4,15 @@
 
 **Lonely Cave**
 
-[LonelyCave](../assets/LonelyCave.png)
-
-**Location**
-
-[Lonely Cave Location](../assets/Lonely_Cave_Location.png)
-
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
-
-**Description:** A small, isolated cave.
-
-**General**
-
-**Type:** Cave
+| Property | Details |
+| --- | --- |
+|  | [LonelyCave](../assets/LonelyCave.png) |
+| **Location** |  |
+|  | [Lonely Cave Location](../assets/Lonely_Cave_Location.png) |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| Description | A small, isolated cave. |
+| **General** |  |
+| Type | Cave\|- |
 
 ## Access
 

@@ -16,11 +16,11 @@
 
 **Rifle Firearm**
 
-[Rifle Firearm background](../assets/Rifle_Firearm_background.png)
-
-**Release:** [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)
-
-**Date:** 23 June 2016
+| Property | Details |
+| --- | --- |
+|  | [Rifle Firearm background](../assets/Rifle_Firearm_background.png) |
+| Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
+| Date | 23 June 2016 |
 
 ![Rifle Firearm](../assets/Rifle_Firearm.png) **Rifle Firearm** or **Firearms** is a [Survival Skill](./Skills.md) that involves the use of a [Hunting Rifle](./Hunting%20Rifle.md) to [hunt](./Hunting.md) [animals](./Wildlife.md).
 

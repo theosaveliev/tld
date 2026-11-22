@@ -35,21 +35,16 @@
 
 **The Long Dark**
 
-[The Long Dark Poster](../assets/The_Long_Dark_Poster.jpg)
-
-**Developer(s):** [Hinterland Games](./Hinterland%20Studio%20Inc..md)
-
-**Director(s):** Raphael Van Lierop David Chan Hokyo Lim Alan Lawrance
-
-**Writer(s):** Marianne Krawczyk
-
-**Composer(s):** Cris Velasco Sascha Dikiciyan
-
-**Platform:** PC/Mac/Linux Xbox One/Series S/X PlayStation 4/5 Nintendo Switch
-
-**Released:** - 1st August 2017 (PC, PS4, XO) - September 17, 2020 (Switch)
-
-**Genre(s):** First Person, Open-World, Sandbox, Survival
+| Property | Details |
+| --- | --- |
+|  | [The Long Dark Poster](../assets/The_Long_Dark_Poster.jpg) |
+| **Developer(s)** | [Hinterland Games](./Hinterland%20Studio%20Inc..md) |
+| **Director(s)** | Raphael Van Lierop / David Chan / Hokyo Lim / Alan Lawrance |
+| **Writer(s)** | Marianne Krawczyk |
+| **Composer(s)** | Cris Velasco / Sascha Dikiciyan |
+| Platform | PC/Mac/Linux / Xbox One/Series S/X / PlayStation 4/5 / Nintendo Switch |
+| Released | - 1st August 2017 (PC, PS4, XO) / - September 17, 2020 (Switch) |
+| **Genre(s)** | First Person, Open-World, Sandbox, Survival |
 
 **_The Long Dark_** is a first-person open-world survival game developed by [Hinterland Games](./Hinterland%20Studio%20Inc..md) for Microsoft Windows, OS X, Linux, Xbox One, PlayStation 4, and Nintendo Switch.
 
@@ -69,7 +64,7 @@ Survival of the fittest. Deep survival simulation game-play whence every decisio
 
 ### Wintermute
 
-- Play the [Story](./Wintermute.md) of [Will Mackenzie](./Will%20Mackenzie.md) &amp; Dr. [Astrid Greenwood](./Astrid%20Greenwood.md) as they struggle to survive, crashed in the wilderness in the aftermath of a mysterious geomagnetic disaster.
+- Play the [Story](./Wintermute.md) of [Will Mackenzie](./Will%20Mackenzie.md) & Dr. [Astrid Greenwood](./Astrid%20Greenwood.md) as they struggle to survive, crashed in the wilderness in the aftermath of a mysterious geomagnetic disaster.
 
 ### Survival Mode
 
@@ -187,7 +182,7 @@ The [Time Capsule](./Time%20Capsule.md) is a playable archive of previous builds
 
 ### Modding
 
-_The Long Dark_ currently does not have any official modding support aside from the [Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=305620&browsesort=trend&section=readytouseitems&days=90&actualsort=trend&p=2) providing support for other languages for the Steam version of the game. Despite this, individuals have taken to creating unofficial mods that add unsupported content to the game. Hinterland has so far not shown much support regarding modding, aside from a single [dev post](https://www.thelongdark.com/news/dev-diary-perilous-constraint-update/) in 2022 discussing their acknowledgment regarding _The Long Dark_ Mods, and it is currently unknown how modding will affect the future of _The Long Dark_.
+_The Long Dark_ currently does not have any official modding support aside from the [Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=305620&browsesort=trend§ion=readytouseitems&days=90&actualsort=trend&p=2) providing support for other languages for the Steam version of the game. Despite this, individuals have taken to creating unofficial mods that add unsupported content to the game. Hinterland has so far not shown much support regarding modding, aside from a single [dev post](https://www.thelongdark.com/news/dev-diary-perilous-constraint-update/) in 2022 discussing their acknowledgment regarding _The Long Dark_ Mods, and it is currently unknown how modding will affect the future of _The Long Dark_.
 
 At this time, this wiki only acknowledges the legitimacy of [The Long Development](./The%20Long%20Development.md) project; an unofficial project that adds new regions to Great Bear Island.
 

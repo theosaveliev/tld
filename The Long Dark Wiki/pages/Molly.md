@@ -17,39 +17,25 @@
 
 **Molly**
 
-[Molly](../assets/Molly.png)
-
-**Release:** [Crossroads Elegy (v1.60)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60)
-
-**Date:** 22 October 2019
-
-**Wintermute:** [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md)
-
-**Mission:** **•** [Trauma](./Trauma.md) **•** [Fallen Star](./Fallen%20Star.md) **•** [Aftermath](./Aftermath.md)
-
-**Location(s):** [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md)
-
-**Biographical Information**
-
-**Age:** 40's
-
-**Status:** Alive
-
-**Relatives:** [Molly's Husband](./Molly%27s%20Husband.md) (deceased)
-
-**Occupation:** Farmer
-
-**Physical Information**
-
-**Hair:** Light Blonde
-
-**Eyes:** Ice Blue
-
-**Game Information**
-
-**Equipment:** **•** [Hunting rifle](./Hunting%20Rifle.md) **•** [Survival bow](./Survival%20Bow.md)
-
-**Voiced by:** Jennifer Kitchen
+| Property | Details |
+| --- | --- |
+|  | [Molly](../assets/Molly.png) |
+| Release | [Crossroads Elegy (v1.60)](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.60) |
+| Date | 22 October 2019 |
+| Wintermute | [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) |
+| Mission | **•** [Trauma](./Trauma.md) / **•** [Fallen Star](./Fallen%20Star.md) / **•** [Aftermath](./Aftermath.md) |
+| Location(s) | [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) |
+| **Biographical Information** |  |
+| Age | 40's |
+| Status | Alive |
+| Relatives | [Molly's Husband](./Molly%27s%20Husband.md) (deceased) |
+| Occupation | Farmer |
+| **Physical Information** |  |
+| Hair | Light Blonde |
+| Eyes | Ice Blue |
+| **Game Information** |  |
+| Equipment | **•** [Hunting rifle](./Hunting%20Rifle.md) / **•** [Survival bow](./Survival%20Bow.md) |
+| Voiced by | Jennifer Kitchen |
 
 > “__Years on a working farm in a remote corner of Great Bear Island have left their mark on Molly. She’s plain-spoken, often blunt -- she sees the world for what it is. There are no illusions inhabiting Molly’s life and she likes it that way.  
    

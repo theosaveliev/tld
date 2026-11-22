@@ -14,19 +14,15 @@
 
 **Simple Arrow**
 
-[Simple Arrow icon](../assets/Simple_Arrow_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
-
-**Harvest:** 1 × [Arrowhead](./Arrowhead.md) 2 × [Crow Feather](./Crow%20Feather.md)
+| Property | Details |
+| --- | --- |
+|  | [Simple Arrow icon](../assets/Simple_Arrow_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.15 kg(0.33 lbs) |
+| Harvest | 1 × [Arrowhead](./Arrowhead.md) 2 × [Crow Feather](./Crow%20Feather.md) |
 
 > “**A home-made Arrow, created by combining an Arrow shaft with Crow feathers and an Arrowhead.**”
 >

@@ -11,35 +11,23 @@
 
 **Cat Tail Stalk**
 
-[Cat Tail Stalk icon](../assets/Cat_Tail_Stalk_icon.png)
-
-**Release:** [12 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.196)
-
-**Wintermute:** No
-
-**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** Yes
-
-**Examine:** Tough, not very filling, but edible...!
-
-**Values**
-
-**Calories:** 150 kcal
-
-**Hydration:** 0%
-
-**[Vitamin C](./Scurvy.md):** Minor (1%)
-
-**Weight:** 0.05 kg (0.11 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_CatTailStalk
+| Property | Details |
+| --- | --- |
+|  | [Cat Tail Stalk icon](../assets/Cat_Tail_Stalk_icon.png) |
+| Release | [12 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.196) |
+| Wintermute | No |
+| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | Yes |
+| Examine | Tough, not very filling, but edible...! |
+| **Values** |  |
+| Calories | 150 kcal |
+| Hydration | 0% |
+| [Vitamin C](./Scurvy.md) | Minor (1%) |
+| Weight | 0.05 kg (0.11 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_CatTailStalk |
 
 **Cat Tail Stalks** are a [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md),_ obtained by harvesting [Cat Tail](./Cat%20Tail.md) plants.
 

@@ -10,31 +10,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Caffeine Pills**
 
-[Caffeine Pills icon](../assets/Caffeine_Pills_icon.png)
-
-**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Wintermute:** No
-
-**Renewable:** Yes ([Trader](./Trader.md) only)
-
-**Properties**
-
-**Item type:** [First Aid](./First%20Aid.md)
-
-**Stackable:** Yes
-
-**Examine:** Pure Caffeine. The tablets help resist the accumulation and onset of Fatique.
-
-**Values**
-
-**Calories:** 5 kcal
-
-**Weight:** 0.10 kg (0.22 lbs)
-
-**Advanced data**
-
-**Item key:** GEAR\_BottleCaffeine
+| Property | Details |
+| --- | --- |
+|  | [Caffeine Pills icon](../assets/Caffeine_Pills_icon.png) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Wintermute | No |
+| Renewable | Yes ([Trader](./Trader.md) only) |
+| **Properties** |  |
+| Item type | [First Aid](./First%20Aid.md)\|- |
+| Stackable | Yes |
+| Examine | Pure Caffeine. The tablets help resist the accumulation and onset of Fatique. |
+| **Values** |  |
+| Calories | 5 kcal |
+| Weight | 0.10 kg (0.22 lbs) |
+| **Advanced data** |  |
+| Item key | GEAR\_BottleCaffeine |
 
 **Caffeine Pills** are a [First Aid](./First%20Aid.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -60,3 +50,5 @@ Each pill weighs 0.02 kg, for 0.10kg a pack.
 ## Location
 
 Caffeine Pills are acquired by trading with the [Trader](./Trader.md), and are only unlocked after reaching 400 [Trust](./Trader.md#Trust).
+
+## Update History

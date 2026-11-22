@@ -18,15 +18,13 @@
 
 **The Basics of Survival**
 
-[One of the skill books that will start the mission](../assets/Plants_skill_book_icon.png)
-
-**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Current:** The Basics of Survival
-
-**Next:** [Survival School](./Survival%20School.md)
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
+| Property | Details |
+| --- | --- |
+|  | [One of the skill books that will start the mission](../assets/Plants_skill_book_icon.png) |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
+| Current | The Basics of Survival |
+| Next | [Survival School](./Survival%20School.md) |
+| Region | [Mountain Town](./Mountain%20Town.md) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

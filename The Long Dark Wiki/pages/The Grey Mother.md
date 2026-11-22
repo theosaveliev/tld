@@ -4,19 +4,15 @@
 
 **The Grey Mother**
 
-[The Grey Mother](../assets/The_Grey_Mother.png)
-
-**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Previous:** [The Crash](./The%20Crash.md)
-
-**Current:** The Grey Mother
-
-**Next:** [Paradise Lost](./Paradise%20Lost.md)
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md) [Methuselah](./Methuselah.md) [Hobbs](./Hobbs.md)
+| Property | Details |
+| --- | --- |
+|  | [The Grey Mother](../assets/The_Grey_Mother.png) |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
+| Previous | [The Crash](./The%20Crash.md) |
+| Current | The Grey Mother |
+| Next | [Paradise Lost](./Paradise%20Lost.md) |
+| Region | [Mountain Town](./Mountain%20Town.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md) / [Methuselah](./Methuselah.md) / [Hobbs](./Hobbs.md) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -59,3 +55,5 @@ When the player returns to Grey mother again, she will ask Mackenzie to look at 
 When the player enters the farmhouse, [Hobbs](./Hobbs.md) is sitting on the bench. The player will have to decide whether to save Hobbs by pulling out the knife, or to push it in and kill him. The decision will not have an effect on the gameplay, but will change later dialogues with Methuselah. Beside Hobbs on the bench is a box with the key to Grey Mother's safe deposit box. A [prybar](./Prybar.md) lies on the floor.
 
 The player must then go to the [Milton Credit Union](./Milton%20Credit%20Union.md) and open the safety deposit box. In order to open the vault, the player will need the vault code. First, go to the manager's office in the Credit union and open the middle drawer of the desk. Inside is a key which will open the [Bank Manager's House](./Bank%20Manager%27s%20House.md). The drawer of the nightstand in the bedroom of the Manager's House will contain a note with the vault code. Return to the Credit Union and open the vault using the code from the note. The note can be viewed by bringing up the journal. Open box #15 and take Grey Mother's Safety Deposit Box. Return to Grey Mother. This will unlock the [One Last Thing](./One%20Last%20Thing.md) side mission, and will also immediately begin the next main mission, [Paradise Lost](./Paradise%20Lost.md).
+
+## Transcript

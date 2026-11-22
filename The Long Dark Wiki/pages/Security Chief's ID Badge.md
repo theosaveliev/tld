@@ -4,23 +4,17 @@
 
 **Security Chief's ID Badge**
 
-[Security Chief's ID Badge icon](../assets/Security_Chief%27s_ID_Badge_icon.png)
-
-**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A plastic ID badge.
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Security Chief's ID Badge icon](../assets/Security_Chief%27s_ID_Badge_icon.png) |
+| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A plastic ID badge. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
 
 **Security Chief's ID Badge** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) as part of the [Last Horizon](./Last%20Horizon.md) [Tale](./Tales.md). It is found in a hidden room in [Bunker Omega](./Bunker%20Omega.md) near the end of the Tale.
 
@@ -38,4 +32,4 @@ A piece of corporate identification. Scratched by use and faded by time.
 
 \* UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
 
-  - Added to game.
+- Added to game.

@@ -11,21 +11,15 @@
 
 **Cooper's Blind**
 
-[Cooper's Blind](../assets/Cooper%27s_Blind.jpg)
-
-**Location**
-
-**Region:** [Perseverance Mills](./Perseverance%20Mills.md)
-
-**General**
-
-Type
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Has an interior **Cooper's Blind** is a location found in [Perseverance Mills](./Perseverance%20Mills.md). The bar is owned and run by [Cooper](./Cooper.md), and serves as one of the few explorable locations of the town.
+| Property | Details |
+| --- | --- |
+|  | [Cooper's Blind](../assets/Cooper%27s_Blind.jpg) |
+| **Location** |  |
+| Region | [Perseverance Mills](./Perseverance%20Mills.md)\|- |
+| **General** |  |
+| Type |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior **Cooper's Blind** is a location found in [Perseverance Mills](./Perseverance%20Mills.md). The bar is owned and run by [Cooper](./Cooper.md), and serves as one of the few explorable locations of the town. |
 
 ## Overview
 

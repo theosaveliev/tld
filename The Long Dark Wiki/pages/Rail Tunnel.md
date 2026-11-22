@@ -4,17 +4,14 @@
 
 **Rail Tunnel**
 
-[Rail Tunnel](../assets/Rail_Tunnel.jpg)
-
-**Location**
-
-[Rail Tunnel Location](../assets/Rail_Tunnel_Location.png)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Rail Tunnel](../assets/Rail_Tunnel.jpg) |
+| **Location** |  |
+|  | [Rail Tunnel Location](../assets/Rail_Tunnel_Location.png) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Overview
 

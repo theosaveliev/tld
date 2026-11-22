@@ -11,19 +11,15 @@
 
 **Signal to Noise**
 
-[Missions story ep2 Signal to Noise](../assets/Missions_story_ep2_Signal_to_Noise.png)
-
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Previous:** [The Best Defense](./The%20Best%20Defense.md)
-
-**Current:** Signal to Noise
-
-**Next:** [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) [Old Bear](./Old%20Bear.md)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep2 Signal to Noise](../assets/Missions_story_ep2_Signal_to_Noise.png) |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [The Best Defense](./The%20Best%20Defense.md) |
+| Current | Signal to Noise |
+| Next | [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
 
 **Template:spoiler**
 
@@ -43,7 +39,7 @@
 
 ### Bear encounters
 
-The player can visit the towers in any order, but will encounter the [Old Bear](./Old%20Bear.md) at the second and third towers visited. The bear spawns in a random direction out of the player's field of view. It approaches until within a certain radius, then stands up on its hind legs, roars, and then charges the player. If the player equips the [Bear Spear](./Bear%20Spear.md) and is aiming it at the bear when it arrives, a [Struggle](./Struggle.md) will begin; else a typical bear attack cutscene will play (except that the Old Bear appears instead of the generic one), and the player will immediately die of blood loss at the end. If Mackenzie survives, he will be knocked to the ground, although no items will be dropped as in a normal bear attack. The Bear will briefly retreat and then attack again, but the game will automatically save after each struggle. Unlike other predator attacks, these encounters will result in minimal [Condition](./Condition.md) loss (&lt;5%), no injuries, and little or no damage to gear. After 3 struggles, the Bear will flee and the player can collect the transponder parts. Mackenzie will comment before and after the event (once per location).
+The player can visit the towers in any order, but will encounter the [Old Bear](./Old%20Bear.md) at the second and third towers visited. The bear spawns in a random direction out of the player's field of view. It approaches until within a certain radius, then stands up on its hind legs, roars, and then charges the player. If the player equips the [Bear Spear](./Bear%20Spear.md) and is aiming it at the bear when it arrives, a [Struggle](./Struggle.md) will begin; else a typical bear attack cutscene will play (except that the Old Bear appears instead of the generic one), and the player will immediately die of blood loss at the end. If Mackenzie survives, he will be knocked to the ground, although no items will be dropped as in a normal bear attack. The Bear will briefly retreat and then attack again, but the game will automatically save after each struggle. Unlike other predator attacks, these encounters will result in minimal [Condition](./Condition.md) loss (<5%), no injuries, and little or no damage to gear. After 3 struggles, the Bear will flee and the player can collect the transponder parts. Mackenzie will comment before and after the event (once per location).
 
 #### Tips
 

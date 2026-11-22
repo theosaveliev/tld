@@ -11,21 +11,16 @@
 
 **The Power Plant/Transcript**
 
-[The Power Plant](../assets/The_Power_Plant.png)
-
-Episode
-
-**Missions**
-
-**Previous:** [Blackrock Blues/Transcript](./Blackrock%20Blues%20%E2%80%94%20Transcript.md)
-
-**Current:** The Power Plant/Transcript
-
-**Next:** [The Detonators/Transcript](./The%20Detonators%20%E2%80%94%20Transcript.md)
-
-**Region:** [Blackrock Region](./Blackrock.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Franklin](./Franklin.md) [Mathis](./Mathis.md) [Vachon](./Vachon.md) [Heller](./Heller.md) [Jace](./Jace.md)
+| Property | Details |
+| --- | --- |
+|  | [The Power Plant](../assets/The_Power_Plant.png) |
+| Episode |  |
+| **Missions** |  |
+| Previous | [Blackrock Blues/Transcript](./Blackrock%20Blues%20%E2%80%94%20Transcript.md) |
+| Current | The Power Plant/Transcript |
+| Next | [The Detonators/Transcript](./The%20Detonators%20%E2%80%94%20Transcript.md) |
+| Region | [Blackrock Region](./Blackrock.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Franklin](./Franklin.md) / [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jace](./Jace.md) |
 
 This is the transcript for Chapter 2 [The Power Plant](./The%20Power%20Plant.md) for [Episode 4: Fury, Then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md).
 

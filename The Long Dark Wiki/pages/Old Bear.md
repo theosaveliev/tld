@@ -23,21 +23,16 @@
 
 **Old Bear**
 
-[Old Bear](../assets/Old_Bear.png)
-
-**Basic Information**
-
-**Release:** [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321)
-
-**Role:** Predator
-
-**Physical Information**
-
-**Color:** Black
-
-**Size:** Large
-
-**Eyes:** Brown
+| Property | Details |
+| --- | --- |
+|  | [Old Bear](../assets/Old_Bear.png) |
+| **Basic Information** |  |
+| Release | [21 April 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.321) |
+| Role | Predator |
+| **Physical Information** |  |
+| Color | Black |
+| Size | Large |
+| Eyes | Brown |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -158,4 +153,4 @@ _[The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md)_
 - The Old Bear's home is situated in [Forlorn Muskeg](./Forlorn%20Muskeg.md), inside the [Old Bear's Den](./Old%20Bear%27s%20Den.md).
 - In The Hunted, Part Two, the bear follows a very specific path as it runs across Mystery Lake. If the player doesn't see the old bear, they might need to walk along a certain path to get it to spawn.
 - In Episode 2, unlike normal bears The Old Bear when charging at the Mackenzie is unaffected by the [distress pistol](./Distress%20Pistol.md), although in the [Challenge: The Hunted](./The%20Hunted%2C%20Part%20One.md) it is deterred by distress pistol shots.
-- Old Bear especially by its other names ("Demon Bear" or "Evil Spirit") and the [The Bear Spear](./Bear%20Spear.md) and [Old Spence's](./Old%20Spence%20Family%20Homestead.md) story are references to the fantasy manga ["Ushio &amp; Tora" (うしおととら)](https://en.wikipedia.org/wiki/Ushio_%26_Tora) written and illustrated by Kazuhiro Fujita. Both stories feature a supernatural spear with red cloth around its neck forged by a character driven mad for revenge to kill "evil spirits".
+- Old Bear especially by its other names ("Demon Bear" or "Evil Spirit") and the [The Bear Spear](./Bear%20Spear.md) and [Old Spence's](./Old%20Spence%20Family%20Homestead.md) story are references to the fantasy manga ["Ushio & Tora" (うしおととら)](https://en.wikipedia.org/wiki/Ushio_%26_Tora) written and illustrated by Kazuhiro Fujita. Both stories feature a supernatural spear with red cloth around its neck forged by a character driven mad for revenge to kill "evil spirits".

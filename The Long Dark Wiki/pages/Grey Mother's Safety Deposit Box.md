@@ -4,33 +4,22 @@
 
 **Grey Mother's Safety Deposit Box**
 
-[Grey Mother's Safety Deposit Box icon](../assets/Grey_Mother%27s_Safety_Deposit_Box_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Grey Mother](./The%20Grey%20Mother.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A box containing Grey Mother's stolen item.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_GMStolenItem
+| Property | Details |
+| --- | --- |
+|  | [Grey Mother's Safety Deposit Box icon](../assets/Grey_Mother%27s_Safety_Deposit_Box_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Grey Mother](./The%20Grey%20Mother.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A box containing Grey Mother's stolen item. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_GMStolenItem |
 
 **Grey Mother's Safety Deposit Box** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode during the [The Grey Mother](./The%20Grey%20Mother.md) mission.
 

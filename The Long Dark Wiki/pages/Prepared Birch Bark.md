@@ -13,29 +13,20 @@
 
 **Prepared Birch Bark**
 
-[Prepared Birch Bark icon](../assets/Prepared_Birch_Bark_icon.png)
-
-**Release:** [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [First Aid](./First%20Aid.md)
-
-**Stackable:** Yes
-
-**Examine:** Dried Birch Bark, suitable for brewing into a restorative tea.
-
-**Values**
-
-**Weight:** 0.05 kg (0.11 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Prepared Birch Bark icon](../assets/Prepared_Birch_Bark_icon.png) |
+| Release | [6 May 2019](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.48) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [First Aid](./First%20Aid.md)\|- |
+| Stackable | Yes |
+| Examine | Dried Birch Bark, suitable for brewing into a restorative tea. |
+| **Values** |  |
+| Weight | 0.05 kg (0.11 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 **Prepared Birch Bark** is a natural medical and food item in _[The Long Dark](./The%20Long%20Dark.md)_.
 

@@ -4,15 +4,13 @@
 
 **Vase**
 
-[Vase](../assets/Vase.jpg)
-
-**Release:** 1.60
-
-**Story item:** Yes
-
-**Container**
-
-**Capacity:** 0.15 kg(0.33 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Vase](../assets/Vase.jpg) |
+| Release | 1.60 |
+| Story item | Yes |
+| **Container** |  |
+| Capacity | 0.15 kg(0.33 lbs) |
 
 **Vase** is a unique storage container only found in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) as part of the [Trauma](./Trauma.md) mission in the [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md). It placed in the dining room on the table and can be searched after the phone call with [Molly](./Molly.md).
 

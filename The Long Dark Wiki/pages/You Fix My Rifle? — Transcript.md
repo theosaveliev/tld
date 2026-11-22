@@ -16,19 +16,15 @@
 
 **You Fix My Rifle?/Transcript**
 
-[The Long Dark episode two milling machine for rifle](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png)
-
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Previous:** [Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md)
-
-**Current:** You Fix My Rifle?/Transcript
-
-**Next:** [Survival School (Predux)/Transcript](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md)
-
-**Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) [Broken Railroad](./Broken%20Railroad.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) [Old Bear](./Old%20Bear.md)
+| Property | Details |
+| --- | --- |
+|  | [The Long Dark episode two milling machine for rifle](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png) |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md) |
+| Current | You Fix My Rifle?/Transcript |
+| Next | [Survival School (Predux)/Transcript](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md) |
+| Region | [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md) / [Broken Railroad](./Broken%20Railroad.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
 
 This is the transcript for Chapter 2 [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
@@ -187,7 +183,7 @@ _At any point in the mission or the ones after this one, the player has the opti
 
 #### Trust Levels And Unlocks
 
-- 25 Trust: Knowledge: Mystery Lake - Worldbuilding information about Mystery Lake. (Unlocks [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md) [What I Know](./What%20I%20Know.md) Knowledge)
+- 25 Trust: Knowledge: Mystery Lake - Worldbuilding information about Mystery Lake. (Unlocks [Mystery Lake & Area](./Mystery%20Lake%20%26%20Area.md) [What I Know](./What%20I%20Know.md) Knowledge)
 - 50 Trust: Cache Location - The location of a Supply Cache, updated on your Map. (Unlocks a cache for [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md))
 - 75 Trust: Knowledge: Blueprint: Improvised Hatchet - Unlocks the Crafting Blueprint for Improvised Hatchet (unlocks the [Forge Blueprints](./Forge%20Blueprints.md) side mission)
 - 125 Trust: Knowledge: Carter Dam - Worldbuilding information about Carter Hydro Dam. (Unlocks [Carter Hydro Dam](./Carter%20Hydro%20Dam%20%28Collectible%29.md) [What I Know](./What%20I%20Know.md) Knowledge)

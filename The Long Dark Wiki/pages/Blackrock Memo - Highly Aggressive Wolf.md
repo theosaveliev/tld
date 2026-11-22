@@ -4,29 +4,20 @@
 
 **Blackrock Memo - Highly Aggressive Wolf**
 
-[Blackrock Memo Highly Aggressive Wolf icon](../assets/Blackrock_Memo_-_Highly_Aggressive_Wolf_icon.png)
-
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
-
-**Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Rumours](./Blackrock%20Rumours.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A memo detailing a particularly aggressive wolf in the area.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Blackrock Memo Highly Aggressive Wolf icon](../assets/Blackrock_Memo_-_Highly_Aggressive_Wolf_icon.png) |
+| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [Blackrock Rumours](./Blackrock%20Rumours.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A memo detailing a particularly aggressive wolf in the area. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Blackrock Memo - Highly Aggressive Wolf** is a [Collectible](./Collectibles.md) note found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story. It is found in the [Locker](./Locker.md) used to store the player's items to prevent them from being confiscated when returning to the Prison. In the room unlocked by the [Blackrock Gate Key](./Blackrock%20Gate%20Key.md), where the first [Noisemaker](./Noisemaker.md) is found. It is part of the side mission [Blackrock Rumours](./Blackrock%20Rumours.md).
 

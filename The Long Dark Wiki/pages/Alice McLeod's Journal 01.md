@@ -10,27 +10,19 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Alice McLeod's Journal 01**
 
-[Alice McLeod's Journal 01 icon](../assets/Alice_McLeod%27s_Journal_01_icon.png)
-
-**Release:** [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Fragments torn from an old Journal.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Alice McLeod's Journal 01 icon](../assets/Alice_McLeod%27s_Journal_01_icon.png) |
+| Release | [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Fragments torn from an old Journal. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Alice McLeod's Journal 01** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of the [Iron Road](./Iron%20Road.md) expansion. It is found in [Anna Island -- Track Section 6](./Anna%20Island%20--%20Track%20Section%206.md) in the cabin beside the train next to the train key on the table.
 
@@ -77,3 +69,5 @@ I will sleep in the train tonight, and be warm for the first time in months...
 Tomorrow, this train and I leave this tomb. Who knows what we will discover deeper into the island chain.
 
 (\*\*\*)
+
+## Game history

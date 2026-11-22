@@ -4,31 +4,21 @@
 
 **Windbreaker**
 
-[Windbreaker icon](../assets/Windbreaker_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Outer torso
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)50%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)1%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** 2 × [Cloth](./Cloth.md) 20 minutes
-
-**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 25% condition
+| Property | Details |
+| --- | --- |
+|  | [Windbreaker icon](../assets/Windbreaker_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Outer torso |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)50% |
+| Protection | [Protection icon](../assets/Protection_icon.png)1% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
+| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 25% condition |
 
 > “**Cheap nylon outer layer that's good for blocking wind and that's about it.**”
 >

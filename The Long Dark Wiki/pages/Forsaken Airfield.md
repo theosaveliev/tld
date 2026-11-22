@@ -18,31 +18,21 @@
 
 **Forsaken Airfield**
 
-[Forsaken Airfield](../assets/Forsaken_Airfield.jpg)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[Forsaken Airfield Location](../assets/Forsaken_Airfield_Location.png)
-
-[Forsaken Airfield In game Map](../assets/Forsaken_Airfield_In-game_Map.png)
-
-**Details**
-
-**Description:** A small airstrip situated within an expansive wind blasted valley basin
-
-**Connecting Regions:** [Transfer Pass](./Transfer%20Pass.md) [Zone of Contamination](./Zone%20of%20Contamination.md) or [Sundered Pass](./Sundered%20Pass.md) (Through Transition Cave)
-
-**TFTFT paid content:** Yes
-
-**Characters:** None
-
-**Difficulty:** Advanced
-
-**Interloper Region Spawn:** No
-
-**Locations:** 26
-
-**Date Added:** Dec 5, 2022
+| Property | Details |
+| --- | --- |
+|  | [Forsaken Airfield](../assets/Forsaken_Airfield.jpg) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [Forsaken Airfield Location](../assets/Forsaken_Airfield_Location.png) |
+|  | [Forsaken Airfield In game Map](../assets/Forsaken_Airfield_In-game_Map.png) |
+| **Details** |  |
+| Description | A small airstrip situated within an expansive wind blasted valley basin |
+| Connecting Regions | [Transfer Pass](./Transfer%20Pass.md) [Zone of Contamination](./Zone%20of%20Contamination.md) or [Sundered Pass](./Sundered%20Pass.md) (Through Transition Cave) |
+| TFTFT paid content | Yes |
+| Characters | None |
+| Difficulty | Advanced |
+| Interloper Region Spawn | No |
+| Locations | 26 |
+| Date Added | Dec 5, 2022 |
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -112,9 +102,33 @@ Near the edges of the large central plain, the region features more uneven terra
 
 ## Locations
 
-| Column 1 | Column 2 |
-| --- | --- |
-| - [Archie's Crawlspace](./Archie%27s%20Crawlspace.md) - [Brittle Cave](./Brittle%20Cave.md) - [Bunker Omega](./Bunker%20Omega.md) - [Cargomaster's Trailer](./Cargomaster%27s%20Trailer.md) - [Control Tower](./Control%20Tower.md) - [Cove](./Cove.md) - [Drift Island](./Drift%20Island.md) - [Fallow Dugout](./Fallow%20Dugout.md) - [Final Approach](./Final%20Approach.md) - [Frost Cave](./Frost%20Cave.md) - [Hangar Basement](./Hangar%20Basement.md) - [Island Cottage](./Island%20Cottage.md) - [Junker's Paddock](./Junker%27s%20Paddock.md) | - [Justy's Hovel](./Justy%27s%20Hovel.md) - [Grip's Cave](./Grip%27s%20Cave.md) - [Main Hangar](./Main%20Hangar.md) - [Mindful Cabin](./Mindful%20Cabin.md) - [Shoulder Lake](./Shoulder%20Lake.md) - [Spotter's Blind](./Spotter%27s%20Blind.md) - [Sudden Washout](./Sudden%20Washout.md) - [Surveyor's Memory](./Surveyor%27s%20Memory.md) - [Stony Passage](./Stony%20Passage.md) - [Terminal](./Terminal.md) - [Whealy's Turn](./Whealy%27s%20Turn.md) - To Cave System (Region Transition to [Sundered Pass](./Sundered%20Pass.md)/[Zone of Contamination](./Zone%20of%20Contamination.md)) - To Transfer Pass (Region Transition to [Transfer Pass](./Transfer%20Pass.md)) |
+- [Archie's Crawlspace](./Archie%27s%20Crawlspace.md)
+- [Brittle Cave](./Brittle%20Cave.md)
+- [Bunker Omega](./Bunker%20Omega.md)
+- [Cargomaster's Trailer](./Cargomaster%27s%20Trailer.md)
+- [Control Tower](./Control%20Tower.md)
+- [Cove](./Cove.md)
+- [Drift Island](./Drift%20Island.md)
+- [Fallow Dugout](./Fallow%20Dugout.md)
+- [Final Approach](./Final%20Approach.md)
+- [Frost Cave](./Frost%20Cave.md)
+- [Hangar Basement](./Hangar%20Basement.md)
+- [Island Cottage](./Island%20Cottage.md)
+- [Junker's Paddock](./Junker%27s%20Paddock.md)
+
+- [Justy's Hovel](./Justy%27s%20Hovel.md)
+- [Grip's Cave](./Grip%27s%20Cave.md)
+- [Main Hangar](./Main%20Hangar.md)
+- [Mindful Cabin](./Mindful%20Cabin.md)
+- [Shoulder Lake](./Shoulder%20Lake.md)
+- [Spotter's Blind](./Spotter%27s%20Blind.md)
+- [Sudden Washout](./Sudden%20Washout.md)
+- [Surveyor's Memory](./Surveyor%27s%20Memory.md)
+- [Stony Passage](./Stony%20Passage.md)
+- [Terminal](./Terminal.md)
+- [Whealy's Turn](./Whealy%27s%20Turn.md)
+- To Cave System (Region Transition to [Sundered Pass](./Sundered%20Pass.md)/[Zone of Contamination](./Zone%20of%20Contamination.md))
+- To Transfer Pass (Region Transition to [Transfer Pass](./Transfer%20Pass.md))
 
 1 [Hunter's Blind](./Hunter%27s%20Blinds.md) is found between [Shoulder Lake](./Shoulder%20Lake.md) and [Final Approach](./Final%20Approach.md), though it is unnamed.
 

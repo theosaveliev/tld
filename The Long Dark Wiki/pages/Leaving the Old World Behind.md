@@ -4,9 +4,10 @@
 
 **Leaving the Old World Behind**
 
-[Leaving the Old World Behind icon](../assets/Leaving_the_Old_World_Behind_icon.png)
-
-**Description:** Leave Milton. Complete Episode One.
+| Property | Details |
+| --- | --- |
+|  | [Leaving the Old World Behind icon](../assets/Leaving_the_Old_World_Behind_icon.png) |
+| Description | Leave Milton. Complete Episode One. |
 
 **Leaving the Old World Behind** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -18,4 +19,4 @@ This is an unmissable story achievement achieved after completing the mission [P
 
 \* UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
 
-  - Added to game.
+- Added to game.

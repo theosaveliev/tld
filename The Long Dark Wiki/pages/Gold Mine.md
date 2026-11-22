@@ -11,27 +11,17 @@
 
 **Gold Mine**
 
-[Screen a7808681 3b40 4f43 919e 586a759f76bf hi](../assets/Screen_a7808681-3b40-4f43-919e-586a759f76bf_hi.png)
-
-**Location**
-
-[Gold Mine Location](../assets/Gold_Mine_Location.png)
-
-**Region:** [Ash Canyon](./Ash%20Canyon.md)
-
-**Description:** An abandoned mine housing the [Technical Backpack](./Technical%20Backpack.md) and [Crampons](./Crampons.md)
-
-**General**
-
-**Type:** Cave
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-[Workbench icon green](../assets/Workbench_icon_green.png)
-
-Has a workbench
+| Property | Details |
+| --- | --- |
+|  | [Screen a7808681 3b40 4f43 919e 586a759f76bf hi](../assets/Screen_a7808681-3b40-4f43-919e-586a759f76bf_hi.png) |
+| **Location** |  |
+|  | [Gold Mine Location](../assets/Gold_Mine_Location.png) |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| Description | An abandoned mine housing the [Technical Backpack](./Technical%20Backpack.md) and [Crampons](./Crampons.md) |
+| **General** |  |
+| Type | Cave\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
 
 ## Overview
 

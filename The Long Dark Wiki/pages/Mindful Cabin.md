@@ -4,29 +4,19 @@
 
 **Mindful Cabin**
 
-[Mindful cabin](../assets/Mindful_cabin.jpg)
-
-**Location**
-
-[Mindful Cabin Location](../assets/Mindful_Cabin_Location.png)
-
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
-
-**Description:** A cabin overlooking
-
-**General**
-
-**Type:** Residential
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-[Forge icon green](../assets/Forge_icon_green.png)
-
-[Workbench icon green](../assets/Workbench_icon_green.png)
-
-Has an interior **Mindful Cabin** is located in the north-west part of the [Forsaken Airfield](./Forsaken%20Airfield.md), at the end of the road.
+| Property | Details |
+| --- | --- |
+|  | [Mindful cabin](../assets/Mindful_cabin.jpg) |
+| **Location** |  |
+|  | [Mindful Cabin Location](../assets/Mindful_Cabin_Location.png) |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| Description | A cabin overlooking |
+| **General** |  |
+| Type | Residential\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| [Forge icon green](../assets/Forge_icon_green.png) |  |
+| [Workbench icon green](../assets/Workbench_icon_green.png) |  |
+|  | Has an interior / **Mindful Cabin** is located in the north-west part of the [Forsaken Airfield](./Forsaken%20Airfield.md), at the end of the road. |
 
 ## Overview
 

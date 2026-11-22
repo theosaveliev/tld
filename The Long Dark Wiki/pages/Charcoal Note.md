@@ -4,29 +4,20 @@
 
 **Charcoal Note**
 
-[Charcoal Note icon](../assets/Charcoal_Note_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A note describing a route to a hidden cache of supplies.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Charcoal Note icon](../assets/Charcoal_Note_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A note describing a route to a hidden cache of supplies. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 **Charcoal Note** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found in a Breyerhouse [Truck](./Truck.md) near a [Train Shuttle](./Train%20Shuttle.md) next to the [Broken Bridge (Broken Railroad location)](./Broken%20Bridge%20%28Broken%20Railroad%20location%29.md). Picking it up adds a cache location in [Forlorn Muskeg](./Forlorn%20Muskeg.md) for the [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md) side mission.
 

@@ -4,13 +4,12 @@
 
 **Poisoned Wolf Carcass**
 
-[No picture](../assets/No_picture.png)
-
-**General**
-
-**Item Type:** Item
-
-**Wintermute:** Yes A **Poisoned Wolf Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Poisoned Wolf](./Poisoned%20Wolf.md), a creature unique to the [Zone of Contamination](./Zone%20of%20Contamination.md). [Crows](./Crow.md) will fly around a Poisoned Wolf Carcass and always drop 3 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time.
+| Property | Details |
+| --- | --- |
+|  | [No picture](../assets/No_picture.png) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | Yes A **Poisoned Wolf Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Poisoned Wolf](./Poisoned%20Wolf.md), a creature unique to the [Zone of Contamination](./Zone%20of%20Contamination.md). [Crows](./Crow.md) will fly around a Poisoned Wolf Carcass and always drop 3 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time. |
 
 ## Drops
 

@@ -4,27 +4,19 @@
 
 **Wyatt's Lost Papers 2**
 
-[Wyatt's Lost Papers 1 icon](../assets/Wyatt%27s_Lost_Papers_1_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A stained, torn page from a notebook.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Wyatt's Lost Papers 1 icon](../assets/Wyatt%27s_Lost_Papers_1_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A stained, torn page from a notebook. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Wyatt's Lost Papers 2** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 
@@ -39,3 +31,5 @@ We've kept things pretty quiet, but I know there is someone, or some people, try
 Our little group should be fine though. As long as we stick to the plan. Stick together.
 
 - Wyatt
+
+## Game history

@@ -4,29 +4,20 @@
 
 **Forest Talker Letter**
 
-[Forest Talker Letter icon](../assets/Forest_Talker_Letter_icon.png)
-
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
-
-**Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Faded writing on old Forest Talker letterhead.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Forest Talker Letter icon](../assets/Forest_Talker_Letter_icon.png) |
+| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) - [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Faded writing on old Forest Talker letterhead. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Forest Talker Letter** is 3 [Collectibles](./Collectibles.md) found in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [Wintermute](./Wintermute.md) story as part of the [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows.md) side mission. They are found inside the [Last Prospect](./Last%20Prospect.md) mine at different points and are the key to opening the [Forest Talker](./Forest%20Talkers.md) cache at the start of the mine.
 

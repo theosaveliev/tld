@@ -4,9 +4,10 @@
 
 **Bending The Rail**
 
-[Bending The Rail icon](../assets/Bending_The_Rail_icon.png)
-
-**Description:** Retrieve the Trauma Kit.
+| Property | Details |
+| --- | --- |
+|  | [Bending The Rail icon](../assets/Bending_The_Rail_icon.png) |
+| Description | Retrieve the Trauma Kit. |
 
 **Bending The Rail** is a hidden [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[Wintermute](./Wintermute.md)_ [Episode 5: The Light At The End Of All Things](./Episode%205%20-%20The%20Light%20At%20The%20End%20Of%20All%20Things.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -18,4 +19,4 @@ This is an unmissable hidden achievement granted during the main story mission [
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**
 
-  - Added to game.
+- Added to game.

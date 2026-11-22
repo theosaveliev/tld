@@ -12,31 +12,21 @@
 
 **Wolfskin Hat**
 
-[Wolfskin Hat icon](../assets/Wolfskin_Hat_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Head
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)30%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)4%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) 20 minutes
-
-**Repair:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) 125 minutes 50% condition
+| Property | Details |
+| --- | --- |
+|  | [Wolfskin Hat icon](../assets/Wolfskin_Hat_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Head |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)30% |
+| Protection | [Protection icon](../assets/Protection_icon.png)4% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / 20 minutes |
+| Repair | 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / 125 minutes / 50% condition |
 
 > “**A head covering crafted from a Wolf hide. Warm and imposing headgear.**”
 >
@@ -85,3 +75,5 @@ It is the second warmest headgear item in the game, next to the [Cougar Hide Wra
 ## Trivia
 
 [Jeremiah](./Jeremiah.md) can be seen wearing a Wolfskin Hat in his concept art as well as the end of [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md), 6 years before the Wolfskin Hat was even introduced into Survival Mode.
+
+## Update history

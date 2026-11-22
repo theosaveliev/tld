@@ -10,31 +10,21 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Dried Apples**
 
-[Dried Apples icon](../assets/Dried_Apples_icon.png)
-
-**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Wintermute:** No
-
-**Renewable:** Yes ([Trader](./Trader.md) only)
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** A portable snack perfect for any backpacker. Good source of Vitamin-C.
-
-**Values**
-
-**Calories:** 400 kcal
-
-**Hydration:** 0%
-
-**[Vitamin C](./Scurvy.md):** Minor (4%)
-
-**Weight:** 0.15 kg (0.33 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Dried Apples icon](../assets/Dried_Apples_icon.png) |
+| Release | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| Wintermute | No |
+| Renewable | Yes ([Trader](./Trader.md) only) |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | A portable snack perfect for any backpacker. Good source of Vitamin-C. |
+| **Values** |  |
+| Calories | 400 kcal |
+| Hydration | 0% |
+| [Vitamin C](./Scurvy.md) | Minor (4%) |
+| Weight | 0.15 kg (0.33 lbs) |
 
 **Dried Apples** is a [Food And Drink](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -53,3 +43,5 @@ Dried Apples cost the following when trading:
 - The world model is different from the backpack icon, with the front of the package listing it originating from "[Pleasant Valley](./Pleasant%20Valley.md) Farms."
 
 ![3d model with "Pleasant Valley Farms" on it](../assets/Dried_Apples_3d_model.jpg)
+
+## Update history

@@ -18,29 +18,20 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Far Range Branch Line**
 
-[Far range line first look](../assets/Far_range_line_first_look.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[Far Range Branch Line Location](../assets/Far_Range_Branch_Line_Location.png)
-
-[FarRangeBranchLine](../assets/FarRangeBranchLine.png)
-
-**Details**
-
-**Description:** A railway line in the mountains separating Lower Great Bear and The Far Territory
-
-**Connecting Regions:** [Broken Railroad](./Broken%20Railroad.md) and [Transfer Pass](./Transfer%20Pass.md)
-
-**TFTFT paid content:** Yes
-
-**Characters:** None
-
-**Interloper Region Spawn:** No
-
-**Locations:** 9
-
-**Date Added:** Dec 5, 2022
+| Property | Details |
+| --- | --- |
+|  | [Far range line first look](../assets/Far_range_line_first_look.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [Far Range Branch Line Location](../assets/Far_Range_Branch_Line_Location.png) |
+|  | [FarRangeBranchLine](../assets/FarRangeBranchLine.png) |
+| **Details** |  |
+| Description | A railway line in the mountains separating Lower Great Bear and The Far Territory |
+| Connecting Regions | [Broken Railroad](./Broken%20Railroad.md) and [Transfer Pass](./Transfer%20Pass.md) |
+| TFTFT paid content | Yes |
+| Characters | None |
+| Interloper Region Spawn | No |
+| Locations | 9 |
+| Date Added | Dec 5, 2022 |
 
 > “**Travel down the Far Range Branch Line and arrive at Transfer Pass, the railway hub providing access to the foothills of the Far Range. The journey is a long and harrowing trek from Broken Railroad region, deep into the heart of Great Bear.**”
 >

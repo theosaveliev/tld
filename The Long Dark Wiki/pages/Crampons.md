@@ -14,31 +14,21 @@
 
 **Crampons**
 
-[Crampons icon](../assets/Crampons_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Accessory
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0 °C(0 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)100%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)3%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
-
-**Harvest:** Cannot Harvest
-
-**Repair:** 2 × [Scrap Metal](./Scrap%20Metal.md) 60 minutes 20% condition
+| Property | Details |
+| --- | --- |
+|  | [Crampons icon](../assets/Crampons_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Accessory |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)0 °C(0 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)100% |
+| Protection | [Protection icon](../assets/Protection_icon.png)3% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-5% |
+| Harvest | Cannot Harvest |
+| Repair | 2 × [Scrap Metal](./Scrap%20Metal.md) / 60 minutes / 20% condition |
 
 > “**Traction, for your feet. Rope climbing drains less Stamina, Sprains are less frequent, and you can travel with more confidence over Weak Ice.**”
 >
@@ -52,10 +42,10 @@ When worn in any accessory slot, Crampons grant the Benefit [Sure Footing](./Sur
 
 - Decreases chance of [sprains](./Afflictions.md) by 50% when on slopes.
 - Decreases drain rate of [climbing](./Rope%20Climbing.md) stamina by 40% (allowing you to climb further without stopping). (This is a bug, should be 60%)
-- While climbing at &lt;25% [Fatigue](./Fatigue.md), gain significantly increased [climbing](./Rope%20Climbing.md) speed compared to not wearing crampons at this fatigue level.
+- While climbing at <25% [Fatigue](./Fatigue.md), gain significantly increased [climbing](./Rope%20Climbing.md) speed compared to not wearing crampons at this fatigue level.
 - Increases the (invisible) timer of [Weak Ice](./Weak%20Ice.md) by 1 second (aka 20% more time to move off Weak Ice, before falling in).
 
-Note: Crampons **do not** decrease the amount of Fatigue lost during climbing, and **do not** make you climb faster (unless at &lt;25% fatigue).
+Note: Crampons **do not** decrease the amount of Fatigue lost during climbing, and **do not** make you climb faster (unless at <25% fatigue).
 
 Crampons are particularly useful in [regions](./Region.md) with multiple [Mountaineering Rope](./Mountaineering%20Rope.md) climbs, such as [Timberwolf Mountain](./Timberwolf%20Mountain.md), [Ash Canyon](./Ash%20Canyon.md), [Mountain Town](./Mountain%20Town.md), and [Hushed River Valley](./Hushed%20River%20Valley.md), or in areas with Weak Ice such as [Forlorn Muskeg](./Forlorn%20Muskeg.md) or when [Beachcombing](./Beachcombing.md). Shoes/Boots must be worn in order to equip Crampons.
 

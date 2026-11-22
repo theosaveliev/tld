@@ -10,13 +10,12 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Fulmar Autopilot Boat**
 
-[Fulmar Desolation Point GBI](../assets/Fulmar_Desolation_Point_GBI.png)
-
-**Location**
-
-**Region:** [Desolation Point](./Desolation%20Point.md)
-
-Has no shelter The **Fulmar Autopilot Boat** is a [Vehicle](./Vehicle.md) in [_The Long Dark_](./The%20Long%20Dark.md).
+| Property | Details |
+| --- | --- |
+|  | [Fulmar Desolation Point GBI](../assets/Fulmar_Desolation_Point_GBI.png) |
+| **Location** |  |
+| Region | [Desolation Point](./Desolation%20Point.md)\|- |
+|  | Has no shelter The **Fulmar Autopilot Boat** is a [Vehicle](./Vehicle.md) in [_The Long Dark_](./The%20Long%20Dark.md). |
 
 ## Overview
 

@@ -13,31 +13,21 @@
 
 **Birch Bark**
 
-[Birch Bark icon](../assets/Birch_Bark_icon.png)
-
-**Release:** [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.256)
-
-**Wintermute:** Yes (bug?)
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [Fire Starting](./Fire%20Starting.md)
-
-**Stackable:** Yes
-
-**Examine:** Birch tree bark. Lightweight and flammable, this bark can be used as Tinder or brewed into a restorative tea.
-
-**Values**
-
-**Weight:** 0.05 kg (0.11 lbs)
-
-**Actions**
-
-**Backpack:** Drop
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Birch Bark icon](../assets/Birch_Bark_icon.png) |
+| Release | [1 August 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.256) |
+| Wintermute | Yes (bug?) |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [Fire Starting](./Fire%20Starting.md)\|- |
+| Stackable | Yes |
+| Examine | Birch tree bark. Lightweight and flammable, this bark can be used as Tinder or brewed into a restorative tea. |
+| **Values** |  |
+| Weight | 0.05 kg (0.11 lbs) |
+| **Actions** |  |
+| Backpack | Drop |
+| On ground | Take It, Leave It |
 
 **Birch Bark** is a natural medical, food and firestarting item in _The Long Dark_.
 
@@ -59,11 +49,11 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 
 **Birch Bark**
 
-**Type:** Tinder
-
-**Statistics**
-
-**Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) 0%
+| Property | Details |
+| --- | --- |
+| Type | Tinder |
+| **Statistics** |  |
+| Start Chance | [Firestart mod icon](../assets/Firestart_mod_icon.png) 0% |
 
 ## Products
 

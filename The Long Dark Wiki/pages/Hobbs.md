@@ -16,33 +16,22 @@
 
 **Hobbs**
 
-[Hobbs](../assets/Hobbs.jpg)
-
-**Release:** 1.41 (Wintermute Redux Update)
-
-**Date:** 17 December 2018
-
-**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Mission:** [The Grey Mother](./The%20Grey%20Mother.md)
-
-**Location(s):** [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md)
-
-**Biographical Information**
-
-**Age:** 40's
-
-**Status:** Critical Condition: Dead if "Push Knife Deeper" is chosen Alive but in unknown if "Pull Knife Out" is chosen
-
-**Occupation:** Criminal
-
-**Physical Information**
-
-**Eyes:** Brown
-
-**Game Information**
-
-**Voiced by:** Ben Cotton
+| Property | Details |
+| --- | --- |
+|  | [Hobbs](../assets/Hobbs.jpg) |
+| Release | 1.41 (Wintermute Redux Update) |
+| Date | 17 December 2018 |
+| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
+| Mission | [The Grey Mother](./The%20Grey%20Mother.md) |
+| Location(s) | [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) |
+| **Biographical Information** |  |
+| Age | 40's |
+| Status | Critical Condition: / Dead if "Push Knife Deeper" is chosen / Alive but in unknown if "Pull Knife Out" is chosen |
+| Occupation | Criminal |
+| **Physical Information** |  |
+| Eyes | Brown |
+| **Game Information** |  |
+| Voiced by | Ben Cotton |
 
   **Hobbs** is a minor character appearing in the [REDUX](https://thelongdark.fandom.com/wiki/The_Long_Dark/Changelog#1.41) version of [Wintermute](./Wintermute.md) Episode 1. He can be found in the [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md), near the town of [Milton](./Milton.md).
 

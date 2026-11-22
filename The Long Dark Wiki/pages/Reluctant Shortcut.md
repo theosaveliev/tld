@@ -4,17 +4,14 @@
 
 **Reluctant Shortcut**
 
-[Reluctant shortcut](../assets/Reluctant_shortcut.jpg)
-
-**Location**
-
-[Reluctant Shortcut Location](../assets/Reluctant_Shortcut_Location.png)
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**General**
-
-Has no shelter [Reluctant Shortcut](./Reluctant%20Shortcut.md) is an entrance to the [Abandoned Mine](./Abandoned%20Mine.md) in the [Sundered Pass](./Sundered%20Pass.md) region.
+| Property | Details |
+| --- | --- |
+|  | [Reluctant shortcut](../assets/Reluctant_shortcut.jpg) |
+| **Location** |  |
+|  | [Reluctant Shortcut Location](../assets/Reluctant_Shortcut_Location.png) |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| **General** |  |
+|  | Has no shelter [Reluctant Shortcut](./Reluctant%20Shortcut.md) is an entrance to the [Abandoned Mine](./Abandoned%20Mine.md) in the [Sundered Pass](./Sundered%20Pass.md) region. |
 
 ## Overview
 

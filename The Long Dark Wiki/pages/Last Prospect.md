@@ -13,23 +13,17 @@
 
 **Last Prospect**
 
-[LastProspectEntrance](../assets/LastProspectEntrance.png)
-
-**Location**
-
-[Last Prospect Location](../assets/Last_Prospect_Location.png)
-
-Region
-
-**Location:** Northeast corner of [Blackrock](./Blackrock.md), at the western edge of the [Mule Bridge](./Mule%20Bridge.md)
-
-**Description:** Abandoned gold mine containing suffocating fog
-
-**General**
-
-Type
-
-Firebox
+| Property | Details |
+| --- | --- |
+|  | [LastProspectEntrance](../assets/LastProspectEntrance.png) |
+| **Location** |  |
+|  | [Last Prospect Location](../assets/Last_Prospect_Location.png) |
+| Region |  |
+| Location | Northeast corner of [Blackrock](./Blackrock.md), at the western edge of the [Mule Bridge](./Mule%20Bridge.md) |
+| Description | Abandoned gold mine containing suffocating fog |
+| **General** |  |
+| Type |  |
+| Firebox |  |
 
 > “**Blackrock's mine was said to be the brainchild of a Mainland consortium. With newer technology, for its time, they hoped to delve deeper than any other mine on the Island. It remains unknown if the mine's ambitious goal is in some way connected to its shuttering.**”
 >

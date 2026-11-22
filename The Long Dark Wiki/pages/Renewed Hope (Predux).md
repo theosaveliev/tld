@@ -14,19 +14,15 @@
 
 **Renewed Hope (Predux)**
 
-[Carter hydro dam in story mode](../assets/Carter_hydro_dam_in_story_mode.jpg)
-
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Previous:** [Jeremiah's Folly](./Jeremiah%27s%20Folly.md)
-
-**Current:** Renewed Hope (Predux)
-
-**Next:** none
-
-**Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) [Methuselah](./Methuselah.md) [Mathis](./Mathis.md)
+| Property | Details |
+| --- | --- |
+|  | [Carter hydro dam in story mode](../assets/Carter_hydro_dam_in_story_mode.jpg) |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [Jeremiah's Folly](./Jeremiah%27s%20Folly.md) |
+| Current | Renewed Hope (Predux) |
+| Next | none |
+| Region | [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Methuselah](./Methuselah.md) / [Mathis](./Mathis.md) |
 
 **Template:spoiler**
 > **Jeremiah's plots a course that takes you out of Mystery Lake, and en route to a powerful radio transmitter that just might let you contact Perseverance Mills. It's the best lead you've found in your search for Astrid.**
@@ -95,6 +91,6 @@ Several plot points and locations have been replaced/altered since the Redux re-
 
 \* UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)):**
 
-  - Added to game.
+- Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
   - Removed from the game as part of the Redux edition.

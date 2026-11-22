@@ -15,25 +15,18 @@
 
 **Project Medical Officer**
 
-[No picture](../assets/No_picture.png)
-
-**Release:** 2.03
-
-**Date:** 5 December 2022
-
-**Mission:** [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) [Last Horizon](./Last%20Horizon.md)
-
-**Biographical Information**
-
-**Age:** Unknown
-
-**Status:** Unknown
-
-**Occupation:** Doctor Researcher
-
-**Physical Information**
-
-**Sex:** Male
+| Property | Details |
+| --- | --- |
+|  | [No picture](../assets/No_picture.png) |
+| Release | 2.03 |
+| Date | 5 December 2022 |
+| Mission | [Signal Void](./Signal%20Void.md) [Buried Echoes](./Buried%20Echoes.md) / [Last Horizon](./Last%20Horizon.md) |
+| **Biographical Information** |  |
+| Age | Unknown |
+| Status | Unknown |
+| Occupation | Doctor Researcher |
+| **Physical Information** |  |
+| Sex | Male |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 
@@ -99,3 +92,5 @@ The Medical Officer does not appear in [Last Horizon](./Last%20Horizon.md), but 
 - ![Security Chief's Log 29 icon](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
 - ![Foreman's Site Report Day 64 icon](../assets/Foreman%27s_Site_Report_Day_64_icon.png) [Foreman's Site Report Day 64](./Foreman%27s%20Site%20Report%20Day%2064.md)
 - ![Foreman's Technical Log 4 icon](../assets/Foreman%27s_Technical_Log_4_icon.png) [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md)
+
+## Trivia

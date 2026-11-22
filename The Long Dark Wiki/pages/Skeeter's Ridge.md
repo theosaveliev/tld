@@ -4,19 +4,15 @@
 
 **Skeeter's Ridge**
 
-[Skeeters ridge](../assets/Skeeters_ridge.jpg)
-
-**Location**
-
-[Skeeter's Ridge Location](../assets/Skeeter%27s_Ridge_Location.png)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**General**
-
-**Type:** Outdoors
-
-Has an interior **Skeeter's Ridge** is a location in [Pleasant Valley](./Pleasant%20Valley.md).
+| Property | Details |
+| --- | --- |
+|  | [Skeeters ridge](../assets/Skeeters_ridge.jpg) |
+| **Location** |  |
+|  | [Skeeter's Ridge Location](../assets/Skeeter%27s_Ridge_Location.png) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| **General** |  |
+| Type | Outdoors\|- |
+|  | Has an interior **Skeeter's Ridge** is a location in [Pleasant Valley](./Pleasant%20Valley.md). |
 
 ## Overview
 

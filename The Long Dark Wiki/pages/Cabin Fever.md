@@ -14,35 +14,23 @@
 
 **Cabin Fever**
 
-[Cabin Fever icon](../assets/Cabin_Fever_icon.png)
-
-**Release:** [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.338)
-
-**Update:** 0.338
-
-**Properties**
-
-**Category:** [Afflictions](./Afflictions.md)
-
-**Description:** You've been indoors so long you feel like the walls are closing in. You will be unable to sleep indoors for 24 hours.
-
-**Caused By:** Spending too much time indoors
-
-**Effect:** Negative
-
-**Type:** Disease
-
-**Affliction Duration:** Until Recovery Time passes
-
-**Treatment**
-
-**Treatment:** Spend time outdoors
-
-**Recovery Time:** 24 hours
-
-**Advanced Data**
-
-**Item Key:** GAMEPLAY\_CabinFeverRisk
+| Property | Details |
+| --- | --- |
+|  | [Cabin Fever icon](../assets/Cabin_Fever_icon.png) |
+| Release | [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.338) |
+| Update | 0.338 |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Description | You've been indoors so long you feel like the walls are closing in. You will be unable to sleep indoors for 24 hours. |
+| Caused By | Spending too much time indoors |
+| Effect | Negative |
+| Type | Disease |
+| Affliction Duration | Until Recovery Time passes |
+| **Treatment** |  |
+| Treatment | Spend time outdoors |
+| Recovery Time | 24 hours |
+| **Advanced Data** |  |
+| Item Key | GAMEPLAY\_CabinFeverRisk |
 
 **Cabin Fever** is an [Affliction](./Afflictions.md) in _[The Long Dark](./The%20Long%20Dark.md)_. This Affliction only appears when playing on the [Voyageur](./Voyageur.md), [Stalker](./Stalker.md), [Interloper](./Interloper.md), [Misery](./Misery.md), or enabled on [Custom](./Custom.md) experiences in [Survival Mode](./Survival%20Mode.md), or Hardened Survivor in [Wintermute](./Wintermute.md).
 

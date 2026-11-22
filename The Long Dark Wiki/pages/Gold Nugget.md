@@ -14,21 +14,16 @@
 
 **Gold Nugget**
 
-[Gold Nugget icon](../assets/Gold_Nugget_icon.png)
-
-**Wintermute:** Yes
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Values**
-
-**Weight:** 0.25 kg (0.55 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_Ep4GoldNugget
+| Property | Details |
+| --- | --- |
+|  | [Gold Nugget icon](../assets/Gold_Nugget_icon.png) |
+| Wintermute | Yes |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| **Values** |  |
+| Weight | 0.25 kg (0.55 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Ep4GoldNugget |
 
 [2120907963 TLD Wintermute v2.png.de8a285930f6a8f5ad9cf5878754cf5b](../assets/2120907963_TLD-Wintermute-v2.png.de8a285930f6a8f5ad9cf5878754cf5b.png)
 

@@ -4,31 +4,21 @@
 
 **Urban Parka**
 
-[Urban Parka icon](../assets/Urban_Parka_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Outer torso
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)10%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)2%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-2%
-
-**Harvest:** 3 × [Cloth](./Cloth.md) 20 minutes
-
-**Repair:** 3 × [Cloth](./Cloth.md) 60 minutes 35% condition
+| Property | Details |
+| --- | --- |
+|  | [Urban Parka icon](../assets/Urban_Parka_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Outer torso |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)2.5 °C(4.5 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)2.0 °C(3.6 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)10% |
+| Protection | [Protection icon](../assets/Protection_icon.png)2% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-2% |
+| Harvest | 3 × [Cloth](./Cloth.md) / 20 minutes |
+| Repair | 3 × [Cloth](./Cloth.md) / 60 minutes / 35% condition |
 
 > “**Long, heavy down coat. More suitable to urban survivalists but the extra length might help keep your kidneys warm.**”
 >

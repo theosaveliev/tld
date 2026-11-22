@@ -4,19 +4,15 @@
 
 **Andre's Peak**
 
-[Andres peak](../assets/Andres_peak.jpg)
-
-**Location**
-
-[Andre's Peak Location](../assets/Andre%27s_Peak_Location.png)
-
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
-
-**Description:** A small area on the top of a hill
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Andres peak](../assets/Andres_peak.jpg) |
+| **Location** |  |
+|  | [Andre's Peak Location](../assets/Andre%27s_Peak_Location.png) |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| Description | A small area on the top of a hill |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

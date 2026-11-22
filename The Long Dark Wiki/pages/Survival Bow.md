@@ -21,23 +21,17 @@
 
 **Survival Bow**
 
-[Survival Bow icon](../assets/Survival_Bow_icon.png)
-
-**General**
-
-**Item Type:** Item
-
-**Wintermute:** No
-
-**Renewable:** Yes
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
-
-**Harvest:** _Unharvestable_
-
-**Repair:** _Unrepairable_
+| Property | Details |
+| --- | --- |
+|  | [Survival Bow icon](../assets/Survival_Bow_icon.png) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | No |
+| Renewable | Yes |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.50 kg(1.1 lbs) |
+| Harvest | _Unharvestable_ |
+| Repair | _Unrepairable_ |
 
 > “**A simple, improvised bow, suitable for hunting small game.**”
 >

@@ -4,9 +4,10 @@
 
 **Hippocratic Oath**
 
-[Hippocratic Oath icon](../assets/Hippocratic_Oath_icon.png)
-
-**Description:** Rescue all three lost Survivors and stock the Hall with supplies.
+| Property | Details |
+| --- | --- |
+|  | [Hippocratic Oath icon](../assets/Hippocratic_Oath_icon.png) |
+| Description | Rescue all three lost Survivors and stock the Hall with supplies. |
 
 **Hippocratic Oath** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

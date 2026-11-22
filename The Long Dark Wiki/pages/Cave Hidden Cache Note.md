@@ -4,33 +4,22 @@
 
 **Cave Hidden Cache Note**
 
-[Cave Hidden Cache Note icon](../assets/Cave_Hidden_Cache_Note_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Supply Caches](./Milton%20Supply%20Caches.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** There are some supplies hidden under a pile rocks in a cave near the Radio Tower.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
-
-**Advanced data**
-
-**Item key:** STORY\_Collectible\_MiltonCaveCache
+| Property | Details |
+| --- | --- |
+|  | [Cave Hidden Cache Note icon](../assets/Cave_Hidden_Cache_Note_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [Milton Supply Caches](./Milton%20Supply%20Caches.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | There are some supplies hidden under a pile rocks in a cave near the Radio Tower. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
+| **Advanced data** |  |
+| Item key | STORY\_Collectible\_MiltonCaveCache |
 
 **Cave Hidden Cache Note** is a [Collectible](./Collectibles.md) item found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) inside the house on the hill outside of Milton and is used to start the [Milton Supply Caches](./Milton%20Supply%20Caches.md) side mission.
 

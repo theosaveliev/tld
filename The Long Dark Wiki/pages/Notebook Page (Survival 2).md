@@ -4,27 +4,19 @@
 
 **Notebook Page (Survival 2)**
 
-[Notebook Page (Survival) icon](../assets/Notebook_Page_%28Survival%29_icon.png)
-
-**Release:** [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A faded piece of notebook paper, partly crumpled.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Notebook Page (Survival) icon](../assets/Notebook_Page_%28Survival%29_icon.png) |
+| Release | [9 Dec 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.89) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A faded piece of notebook paper, partly crumpled. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Notebook Page** is a [Survival Mode](./Survival%20Mode.md) [Collectible](./Collectibles.md) found in [Ash Canyon](./Ash%20Canyon.md) at the [Gold Mine](./Gold%20Mine.md), along with the [Technical Backpack](./Technical%20Backpack.md) and [Crampons](./Crampons.md).
 

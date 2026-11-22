@@ -4,15 +4,13 @@
 
 **Lookout (Mystery Lake location)**
 
-[Lookout closeup](../assets/Lookout_closeup.jpg)
-
-**Location**
-
-[Lookout Location](../assets/Lookout_Location.png)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Lookout closeup](../assets/Lookout_closeup.jpg) |
+| **Location** |  |
+|  | [Lookout Location](../assets/Lookout_Location.png) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Type | Outdoors\|- |
 
 ## Overview
 

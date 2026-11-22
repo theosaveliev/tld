@@ -4,29 +4,20 @@
 
 **Crumpled Note**
 
-[Crumpled Note (2) icon](../assets/Crumpled_Note_%282%29_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Lake Gunshots](./Lake%20Gunshots.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A handwritten note on grease-stained paper. Most of the text is illegible.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Crumpled Note (2) icon](../assets/Crumpled_Note_%282%29_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Lake Gunshots](./Lake%20Gunshots.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A handwritten note on grease-stained paper. Most of the text is illegible. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 **Crumpled Note** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found on a metal bench when first entering the [Maintenance Yard](./Maintenance%20Yard.md) office area. Picking it up unlocks the [Lake Gunshots](./Lake%20Gunshots.md) side mission.
 
@@ -40,4 +31,4 @@ _The following text is transcribed from **Crumpled Note**_
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.41)):**
 
-  - Added to game.
+- Added to game.

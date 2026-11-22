@@ -10,27 +10,19 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Wax Cylinder 14**
 
-[Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png)
-
-**Release:** [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** An audio recording made of wax.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Wax Cylinder 2 icon](../assets/Wax_Cylinder_2_icon.png) |
+| Release | [Iron Road Part 1](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.58) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | An audio recording made of wax. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Wax Cylinder 14** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of the [Iron Road](./Iron%20Road.md) expansion. It is found in [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) at the [Huts](./Huts.md) cabin in the locker.
 

@@ -12,17 +12,14 @@
 
 **Scrap Metal**
 
-[Scrap Metal icon](../assets/Scrap_Metal_icon.png)
-
-**General**
-
-**Item Type:** Material
-
-**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.20 kg(0.44 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Scrap Metal icon](../assets/Scrap_Metal_icon.png) |
+| **General** |  |
+| Item Type | Material\|- |
+| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.20 kg(0.44 lbs) |
 
 > “**Bits and pieces of metal scrounged from various sources.**”
 >

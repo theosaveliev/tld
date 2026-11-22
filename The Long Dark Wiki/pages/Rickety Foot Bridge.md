@@ -4,15 +4,13 @@
 
 **Rickety Foot Bridge**
 
-[Broken railroad hidden bridge](../assets/Broken_railroad_hidden_bridge.jpg)
-
-**Location**
-
-[Rickety Foot Bridge Location](../assets/Rickety_Foot_Bridge_Location.png)
-
-**Region:** [Broken Railroad](./Broken%20Railroad.md)
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Broken railroad hidden bridge](../assets/Broken_railroad_hidden_bridge.jpg) |
+| **Location** |  |
+|  | [Rickety Foot Bridge Location](../assets/Rickety_Foot_Bridge_Location.png) |
+| Region | [Broken Railroad](./Broken%20Railroad.md)\|- |
+| Type | Landmark\|- |
 
 ## Overview
 

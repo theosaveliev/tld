@@ -10,35 +10,23 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Bannock**
 
-[Bannock icon](../assets/Bannock_icon.png)
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Wintermute:** No
-
-**Renewable:** Yes ([Trader](./Trader.md) only)
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Values**
-
-**Calories:** 200 (250) kcal
-
-**Hydration:** -3.0%
-
-**Weight:** 0.05 kg (0.11 lbs)
-
-**Decay Rate**
-
-**Inside:** 20.000% per day
-
-**Outside:** 5.000% per day
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_Bannock
+| Property | Details |
+| --- | --- |
+|  | [Bannock icon](../assets/Bannock_icon.png) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| Renewable | Yes ([Trader](./Trader.md) only) |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| **Values** |  |
+| Calories | 200 (250) kcal |
+| Hydration | -3.0% |
+| Weight | 0.05 kg (0.11 lbs) |
+| **Decay Rate** |  |
+| Inside | 20.000% per day |
+| Outside | 5.000% per day |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Bannock |
 
 **Bannock** is a food item made with a [Cooking Skillet](./Cooking%20Skillet.md) or no tool on an open slot at a [Fire](./Fire.md).
 

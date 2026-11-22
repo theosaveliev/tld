@@ -4,27 +4,19 @@
 
 **Improved Rest**
 
-[Improved Rest icon](../assets/Improved_Rest_icon.png)
-
-**Release:** [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181)
-
-**Update:** 0.181
-
-**Properties**
-
-**Category:** [Afflictions](./Afflictions.md)
-
-**Caused By:** Consume [Food And Drink](./Food%20And%20Drink.md)
-
-**Effect:** Positive
-
-**Type:** Benefit
-
-**Benefit Duration:** 3-6 Hours
-
-**Advanced Data**
-
-**Item Key:** ConditionRestBuff
+| Property | Details |
+| --- | --- |
+|  | [Improved Rest icon](../assets/Improved_Rest_icon.png) |
+| Release | [17 December 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.181) |
+| Update | 0.181 |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Caused By | Consume [Food And Drink](./Food%20And%20Drink.md) |
+| Effect | Positive |
+| Type | Benefit |
+| Benefit Duration | 3-6 Hours |
+| **Advanced Data** |  |
+| Item Key | ConditionRestBuff |
 
 > “**This will help you Rest more deeply. You'll recover more Condition per hour of Rest.**”
 >

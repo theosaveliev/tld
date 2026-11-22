@@ -11,25 +11,16 @@
 
 **Old Spence Family Homestead**
 
-[20170304095533 1](../assets/20170304095533_1.jpg)
-
-**Location**
-
-[Old Spence Family Homestead Location](../assets/Old_Spence_Family_Homestead_Location.png)
-
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
-
-**General**
-
-**Type:** Industrial
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-[Forge icon green](../assets/Forge_icon_green.png)
-
-Has a forge
+| Property | Details |
+| --- | --- |
+|  | [20170304095533 1](../assets/20170304095533_1.jpg) |
+| **Location** |  |
+|  | [Old Spence Family Homestead Location](../assets/Old_Spence_Family_Homestead_Location.png) |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
+| **General** |  |
+| Type | Industrial\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| [Forge icon green](../assets/Forge_icon_green.png) | Has a forge\|- |
 
 ## Overview
 
@@ -52,7 +43,7 @@ Some [Replacement Fuses](./Replacement%20Fuse.md), along with some [Wire Bundle]
 - One of the large crates near the bed in the main building always contains 3 accelerants under it when destroyed.
 - The Safe may contain high rarity items based on [survival mode](./Survival%20Mode.md) such as: Gauntlets, Mukluks, Gunpowder, Rabbitskin Mitts, Cash, etc.
 - The docks contains several pieces of loot.
-- Old Spence Family Homestead in [Wintermute (Story Mode) Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) is a references the fantasy manga ["Ushio &amp; Tora" (うしおととら)](https://en.wikipedia.org/wiki/Ushio_%26_Tora) written and illustrated by Kazuhiro Fujita. Both stories involve characters driven driven mad for revenge to kill 'evil spirits' with [similar weapons](./Bear%20Spear.md).
+- Old Spence Family Homestead in [Wintermute (Story Mode) Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) is a references the fantasy manga ["Ushio & Tora" (うしおととら)](https://en.wikipedia.org/wiki/Ushio_%26_Tora) written and illustrated by Kazuhiro Fujita. Both stories involve characters driven driven mad for revenge to kill 'evil spirits' with [similar weapons](./Bear%20Spear.md).
 
 ## Gallery
 

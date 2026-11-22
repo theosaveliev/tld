@@ -211,4 +211,4 @@ _The first Survival Overlay in the Alpha game versions was inside the [Survival 
 
 ---
 
-[^1]: [https://youtu.be/TItx5JcAo3Q?si=tcEpgqn-xd26xQcO&amp;t=547](https://youtu.be/TItx5JcAo3Q?si=tcEpgqn-xd26xQcO&t=547)
+[^1]: [https://youtu.be/TItx5JcAo3Q?si=tcEpgqn-xd26xQcO&t=547](https://youtu.be/TItx5JcAo3Q?si=tcEpgqn-xd26xQcO&t=547)

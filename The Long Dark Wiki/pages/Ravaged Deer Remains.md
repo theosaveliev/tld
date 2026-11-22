@@ -4,13 +4,12 @@
 
 **Ravaged Deer Remains**
 
-[Ravaged Deer Remains](../assets/Ravaged_Deer_Remains.jpg)
-
-**General**
-
-**Item Type:** Item
-
-**Wintermute:** Yes A **Ravaged Deer Remains** is an "object" found within [Cougar](./Cougar.md) Territory.
+| Property | Details |
+| --- | --- |
+|  | [Ravaged Deer Remains](../assets/Ravaged_Deer_Remains.jpg) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | Yes A **Ravaged Deer Remains** is an "object" found within [Cougar](./Cougar.md) Territory. |
 
 ## Overview
 

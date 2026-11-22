@@ -4,33 +4,22 @@
 
 **Cup of Acorn Coffee**
 
-[Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png)
-
-**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
-
-**Wintermute:** No
-
-**Renewable:** No
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** A cup of Acorn Coffee.
-
-**Values**
-
-**Calories:** 100 kcal
-
-**Hydration:** 30%
-
-**Weight:** 0.10 kg (0.22 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_AcornCoffeeCup
+| Property | Details |
+| --- | --- |
+|  | [Cup of Acorn Coffee icon](../assets/Cup_of_Acorn_Coffee_icon.png) |
+| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
+| Wintermute | No |
+| Renewable | No |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | A cup of Acorn Coffee. |
+| **Values** |  |
+| Calories | 100 kcal |
+| Hydration | 30% |
+| Weight | 0.10 kg (0.22 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_AcornCoffeeCup |
 
 A **Cup of Acorn Coffee** is a brewed drink in The Long Dark, made from [Acorn Grounds](./Acorn%20Grounds.md), which in turn are made out of [Cooked Acorns](./Acorns%20%28Cooked%29.md).
 

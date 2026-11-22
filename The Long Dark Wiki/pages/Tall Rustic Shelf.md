@@ -11,17 +11,14 @@
 
 **Tall Rustic Shelf**
 
-[Tall Rustic Shelf icon](../assets/Tall_Rustic_Shelf_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Values**
-
-**Weight:** 5.00 kg (11 lbs)
-
-**Actions**
-
-**Backpack:** Drop, Place
+| Property | Details |
+| --- | --- |
+|  | [Tall Rustic Shelf icon](../assets/Tall_Rustic_Shelf_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 5.00 kg (11 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
 The **Tall Rustic Shelf** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
@@ -50,3 +47,5 @@ The Tall Rustic Shelf can be harvested with a [Hatchet](./Hatchet.md) in 2 hours
 **Item:** [Cedar Firewood](./Cedar%20Firewood.md)
 
 **Quantity:** 10
+
+## Update History

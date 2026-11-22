@@ -12,35 +12,23 @@
 
 **Arrow Shaft**
 
-[Arrow Shaft icon](../assets/Arrow_Shaft_icon.png)
-
-**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)
-
-**Wintermute:** No
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [Materials](./Materials.md)
-
-**Stackable:** No
-
-**Examine:** A straight wooden arrow, cut and shaped from a cured Birch sapling. Combine with Crow feathers and Arrowhead to make a usable Arrow.
-
-**Values**
-
-**Weight:** 0.05 kg (0.11 lbs)
-
-**Actions**
-
-**Backpack:** Take It, Leave It
-
-**On ground:** Drop
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_FeatheredArrowShaft
+| Property | Details |
+| --- | --- |
+|  | [Arrow Shaft icon](../assets/Arrow_Shaft_icon.png) |
+| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233) |
+| Wintermute | No |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [Materials](./Materials.md)\|- |
+| Stackable | No |
+| Examine | A straight wooden arrow, cut and shaped from a cured Birch sapling. Combine with Crow feathers and Arrowhead to make a usable Arrow. |
+| **Values** |  |
+| Weight | 0.05 kg (0.11 lbs) |
+| **Actions** |  |
+| Backpack | Take It, Leave It |
+| On ground | Drop |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_FeatheredArrowShaft |
 
 An **Arrow Shaft** is a material used in crafting [Simple Arrows](./Simple%20Arrow.md) in _[The Long Dark](./The%20Long%20Dark.md)._
 

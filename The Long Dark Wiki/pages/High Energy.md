@@ -4,21 +4,16 @@
 
 **High Energy**
 
-[Missions story ep5 HighEnergy](../assets/Missions_story_ep5_HighEnergy.png)
-
-Episode
-
-**Missions**
-
-**Previous:** [The Cold, Broken Road](./The%20Cold%2C%20Broken%20Road.md)
-
-**Current:** High Energy
-
-**Next:** [To SAR And Back](./To%20SAR%20And%20Back.md)
-
-**Region:** [Suzuki Environs](./Suzuki%20Environs.md) [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jace](./Jace.md) [Atwood](./Atwood.md)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep5 HighEnergy](../assets/Missions_story_ep5_HighEnergy.png) |
+| Episode |  |
+| **Missions** |  |
+| Previous | [The Cold, Broken Road](./The%20Cold%2C%20Broken%20Road.md) |
+| Current | High Energy |
+| Next | [To SAR And Back](./To%20SAR%20And%20Back.md) |
+| Region | [Suzuki Environs](./Suzuki%20Environs.md) [Suzuki Geothermal Region](./Suzuki%20Geothermal%20Region.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jace](./Jace.md) / [Atwood](./Atwood.md) |
 
 > “**Activate each Substation before the aurora returns.**”
 
@@ -36,3 +31,5 @@ Episode
   - Go with Jace to the tuner room.
   - Adjust the telescope so Jace can download the data.
   - Find Astrid in Perserverance Mills.
+
+## Trivia

@@ -4,17 +4,14 @@
 
 **Rifle Shell Casing**
 
-[Rifle Shell Casing icon](../assets/Rifle_Shell_Casing_icon.png)
-
-**General**
-
-**Item Type:** Material
-
-**Renewable:** Yes ([Trader](./Trader.md)) no (Interloper)
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Rifle Shell Casing icon](../assets/Rifle_Shell_Casing_icon.png) |
+| **General** |  |
+| Item Type | Material\|- |
+| Renewable | Yes ([Trader](./Trader.md)) no (Interloper) |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.01 kg(0.02 lbs) |
 
 > “**Empty casing from firing a Rifle. Used for Crafting new Ammunition.**”
 >

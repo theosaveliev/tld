@@ -4,19 +4,15 @@
 
 **Lineworker's Hideout**
 
-[Lineworker's Hideout](../assets/Lineworker%27s_Hideout.jpg)
-
-**Location**
-
-[Lineworker's Hideout Location](../assets/Lineworker%27s_Hideout_Location.png)
-
-Region
-
-**Location:** Between the Old Substation and Narrow Bridge
-
-**General**
-
-**Type:** Cave
+| Property | Details |
+| --- | --- |
+|  | [Lineworker's Hideout](../assets/Lineworker%27s_Hideout.jpg) |
+| **Location** |  |
+|  | [Lineworker's Hideout Location](../assets/Lineworker%27s_Hideout_Location.png) |
+| Region |  |
+| Location | Between the Old Substation and Narrow Bridge |
+| **General** |  |
+| Type | Cave\|- |
 
 ## Gallery
 

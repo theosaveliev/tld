@@ -4,15 +4,13 @@
 
 **Hat Creek**
 
-[20170304105847 1](../assets/20170304105847_1.jpg)
-
-**Location**
-
-[Hat Creek Location](../assets/Hat_Creek_Location.png)
-
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [20170304105847 1](../assets/20170304105847_1.jpg) |
+| **Location** |  |
+|  | [Hat Creek Location](../assets/Hat_Creek_Location.png) |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md)\|- |
+| Type | Landmark\|- |
 
 ## Overview
 

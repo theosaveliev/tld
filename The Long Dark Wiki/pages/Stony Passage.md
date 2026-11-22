@@ -4,14 +4,11 @@
 
 **Stony Passage**
 
-[Stony](../assets/Stony.png)
-
-**Location**
-
-[Stoney Passage Location](../assets/Stoney_Passage_Location.png)
-
-**Region:** [Forsaken Airfield](./Forsaken%20Airfield.md)
-
-**General**
-
-**Type:** Cave
+| Property | Details |
+| --- | --- |
+|  | [Stony](../assets/Stony.png) |
+| **Location** |  |
+|  | [Stoney Passage Location](../assets/Stoney_Passage_Location.png) |
+| Region | [Forsaken Airfield](./Forsaken%20Airfield.md)\|- |
+| **General** |  |
+| Type | Cave\|- |

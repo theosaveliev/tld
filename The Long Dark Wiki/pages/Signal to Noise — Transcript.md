@@ -4,19 +4,15 @@
 
 **Signal to Noise/Transcript**
 
-[Missions story ep2 Signal to Noise](../assets/Missions_story_ep2_Signal_to_Noise.png)
-
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Previous:** [The Best Defense/Transcript](./The%20Best%20Defense%20%E2%80%94%20Transcript.md)
-
-**Current:** Signal to Noise/Transcript
-
-**Next:** [What One Man Can Do/Transcript](./What%20One%20Man%20Can%20Do%20%E2%80%94%20Transcript.md)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) [Old Bear](./Old%20Bear.md)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep2 Signal to Noise](../assets/Missions_story_ep2_Signal_to_Noise.png) |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [The Best Defense/Transcript](./The%20Best%20Defense%20%E2%80%94%20Transcript.md) |
+| Current | Signal to Noise/Transcript |
+| Next | [What One Man Can Do/Transcript](./What%20One%20Man%20Can%20Do%20%E2%80%94%20Transcript.md) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) / [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Old Bear](./Old%20Bear.md) |
 
 This is the mission transcript for mission 3 [Signal to Noise](./Signal%20to%20Noise.md) of [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 

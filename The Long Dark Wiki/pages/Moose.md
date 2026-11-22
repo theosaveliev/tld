@@ -37,21 +37,16 @@
 
 **Moose**
 
-[Moose](../assets/Moose.png)
-
-**Basic Information**
-
-**Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)
-
-**Role:** Prey
-
-**Physical Information**
-
-**Color:** Brown
-
-**Size:** Large
-
-**Eyes:** Brown
+| Property | Details |
+| --- | --- |
+|  | [Moose](../assets/Moose.png) |
+| **Basic Information** |  |
+| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16) |
+| Role | Prey |
+| **Physical Information** |  |
+| Color | Brown |
+| Size | Large |
+| Eyes | Brown |
 
 > “**If you see trees with scratched bark, this might mean Moose are in the area. Listen for them!**”
 >

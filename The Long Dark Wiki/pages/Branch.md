@@ -6,15 +6,13 @@
 
 **Branch**
 
-[Branch](../assets/Branch.png)
-
-**General**
-
-Item Type
-
-**Wintermute:** Yes
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.45 kg(0.99 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Branch](../assets/Branch.png) |
+| **General** |  |
+| Item Type |  |
+| Wintermute | Yes\|- |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.45 kg(0.99 lbs) |
 
 Branches are usually found outside in the forest close to trees. High winds will cause them and tree limbs to fall, making them renewable.
 

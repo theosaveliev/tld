@@ -4,19 +4,15 @@
 
 **Wing**
 
-[Wing Timberwolf Mountain location](../assets/Wing_-_Timberwolf_Mountain_location.jpg)
-
-**Location**
-
-[Wing Location](../assets/Wing_Location.png)
-
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
-
-**Description:** A wing from the crashed aircraft
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Wing Timberwolf Mountain location](../assets/Wing_-_Timberwolf_Mountain_location.jpg) |
+| **Location** |  |
+|  | [Wing Location](../assets/Wing_Location.png) |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| Description | A wing from the crashed aircraft |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

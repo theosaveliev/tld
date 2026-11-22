@@ -4,12 +4,10 @@
 
 **Mammoth Falls**
 
-[Mammoth Falls](../assets/Mammoth_Falls.jpg)
-
-**Location**
-
-[Mammoth Falls Location](../assets/Mammoth_Falls_Location.png)
-
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Mammoth Falls](../assets/Mammoth_Falls.jpg) |
+| **Location** |  |
+|  | [Mammoth Falls Location](../assets/Mammoth_Falls_Location.png) |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| Type | Outdoors\|- |

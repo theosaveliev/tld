@@ -21,35 +21,23 @@
 
 **Noisemaker**
 
-[Noisemaker icon](../assets/Noisemaker_icon.png)
-
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
-
-**Wintermute:** [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md)
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** no
-
-**Examine:** An improvised explosive. Useful for scaring predators but can cause injury if they explode too close.
-
-**Values**
-
-**Weight:** 0.20 kg (0.44 lbs)
-
-**Actions**
-
-**Backpack:** Drop
-
-**Radial:** Use, Place
-
-**On ground:** Take It, Equip It, Leave It
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_NoiseMaker
+| Property | Details |
+| --- | --- |
+|  | [Noisemaker icon](../assets/Noisemaker_icon.png) |
+| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Wintermute | [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | no |
+| Examine | An improvised explosive. Useful for scaring predators but can cause injury if they explode too close. |
+| **Values** |  |
+| Weight | 0.20 kg (0.44 lbs) |
+| **Actions** |  |
+| Backpack | Drop |
+| Radial | Use, Place |
+| On ground | Take It, Equip It, Leave It |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_NoiseMaker |
 
 > “**Improvised explosives have been a notorious problem for officers and staff at Blackrock. Some of the more enterprising inmates have used the devices as a kind of currency.**”
 >

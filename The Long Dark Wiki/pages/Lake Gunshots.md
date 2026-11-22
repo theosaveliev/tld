@@ -14,15 +14,13 @@
 
 **Lake Gunshots**
 
-[Lake cabin4](../assets/Lake_cabin4.jpg)
-
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Current:** Lake Gunshots
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)
-
-**Characters:** [Forest Talkers](./Forest%20Talkers.md)
+| Property | Details |
+| --- | --- |
+|  | [Lake cabin4](../assets/Lake_cabin4.jpg) |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Current | Lake Gunshots |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) |
+| Characters | [Forest Talkers](./Forest%20Talkers.md) |
 
 **Template:spoiler**
 

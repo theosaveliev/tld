@@ -4,13 +4,12 @@
 
 **Milton Safety Deposit Box Keys**
 
-[Bank Deposit Box Key 13 icon](../assets/Bank_Deposit_Box_Key_13_icon.png)
-
-**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Current:** Milton Safety Deposit Box Keys
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
+| Property | Details |
+| --- | --- |
+|  | [Bank Deposit Box Key 13 icon](../assets/Bank_Deposit_Box_Key_13_icon.png) |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
+| Current | Milton Safety Deposit Box Keys |
+| Region | [Mountain Town](./Mountain%20Town.md) |
 
 **Template:spoiler**
 

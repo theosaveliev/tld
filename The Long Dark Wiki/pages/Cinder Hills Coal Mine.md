@@ -12,19 +12,15 @@
 
 **Cinder Hills Coal Mine**
 
-[RegionAtlas resources.assets 562 (4)](../assets/RegionAtlas-resources.assets-562_%284%29.png)
-
-**Location**
-
-[Cinder Hills Coal Mine map](../assets/Cinder_Hills_Coal_Mine_map.png)
-
-**Region:** [Coastal Highway](./Coastal%20Highway.md)
-
-**General**
-
-**Type:** Cave
-
-**Missions:** [Aftermath](./Aftermath.md)
+| Property | Details |
+| --- | --- |
+|  | [RegionAtlas resources.assets 562 (4)](../assets/RegionAtlas-resources.assets-562_%284%29.png) |
+| **Location** |  |
+|  | [Cinder Hills Coal Mine map](../assets/Cinder_Hills_Coal_Mine_map.png) |
+| Region | [Coastal Highway](./Coastal%20Highway.md)\|- |
+| **General** |  |
+| Type | Cave\|- |
+| Missions | [Aftermath](./Aftermath.md) |
 
 **Cinder Hills Coal Mine,**also known as "Abandoned Mine", is a series of mine tunnels located in [Coastal Highway](./Coastal%20Highway.md), with one section that acts as a connection to [Pleasant Valley](./Pleasant%20Valley.md).
 

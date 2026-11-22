@@ -20,17 +20,14 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Scrap Metal Shard**
 
-[Scrap Metal Shard icon](../assets/Scrap_Metal_Shard_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
-
-**Harvest:** Cannot Harvest
-
-**Repair:** [Whetstone](./Whetstone.md)
+| Property | Details |
+| --- | --- |
+|  | [Scrap Metal Shard icon](../assets/Scrap_Metal_Shard_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs) |
+| Harvest | Cannot Harvest |
+| Repair | [Whetstone](./Whetstone.md) |
 
 > “**Sharp piece of scrap metal that broke off your plane. Makes a good improvised knife.**”
 >

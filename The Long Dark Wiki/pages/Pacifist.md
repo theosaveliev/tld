@@ -4,9 +4,10 @@
 
 **Pacifist**
 
-[Pacifist icon](../assets/Pacifist_icon.png)
-
-**Description:** Survive the first 25 days without killing anything (single game)
+| Property | Details |
+| --- | --- |
+|  | [Pacifist icon](../assets/Pacifist_icon.png) |
+| Description | Survive the first 25 days without killing anything (single game) |
 
 **Pacifist** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 

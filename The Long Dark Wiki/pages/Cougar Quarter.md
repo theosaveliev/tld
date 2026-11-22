@@ -10,27 +10,19 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Cougar Quarter**
 
-[Cougar Quarter icon](../assets/Cougar_Quarter_icon.png)
-
-**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** Section of a Cougar carcass. Cut from the carcass to make transportation a bit easier. Harvest for usable meat.
-
-**Values**
-
-**Weight:** 4.00 kg (8.8 lbs)
-
-**Decay Rate**
-
-**Inside:** 10.00% per day
-
-**Outside:** 10.00% per day
+| Property | Details |
+| --- | --- |
+|  | [Cougar Quarter icon](../assets/Cougar_Quarter_icon.png) |
+| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Section of a Cougar carcass. Cut from the carcass to make transportation a bit easier. Harvest for usable meat. |
+| **Values** |  |
+| Weight | 4.00 kg (8.8 lbs) |
+| **Decay Rate** |  |
+| Inside | 10.00% per day |
+| Outside | 10.00% per day |
 
 ## Overview
 

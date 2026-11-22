@@ -937,7 +937,7 @@ The following would have unlocked as Trust continued to increase:
 
 #### Trust Levels And Unlocks
 
-- 25 Trust: Knowledge: Mystery Lake - Worldbuilding information about Mystery Lake. (Unlocks [Mystery Lake &amp; Area](./Mystery%20Lake%20%26%20Area.md) [What I Know](./What%20I%20Know.md) Knowledge)
+- 25 Trust: Knowledge: Mystery Lake - Worldbuilding information about Mystery Lake. (Unlocks [Mystery Lake & Area](./Mystery%20Lake%20%26%20Area.md) [What I Know](./What%20I%20Know.md) Knowledge)
 - 50 Trust: Cache Location - The location of a Supply Cache, updated on your Map. (Unlocks a cache for [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md))
 - 75 Trust: Knowledge: Blueprint: Improvised Hatchet - Unlocks the Crafting Blueprint for Improvised Hatchet (unlocks the [Forge Blueprints](./Forge%20Blueprints.md) side mission)
 - 125 Trust: Knowledge: Carter Dam - Worldbuilding information about Carter Hydro Dam. (Unlocks [Carter Hydro Dam](./Carter%20Hydro%20Dam%20%28Collectible%29.md) [What I Know](./What%20I%20Know.md) Knowledge)

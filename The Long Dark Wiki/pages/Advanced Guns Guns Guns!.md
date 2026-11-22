@@ -12,27 +12,19 @@
 
 **Advanced Guns Guns Guns!**
 
-[Advanced Guns Guns Guns! icon](../assets/Advanced_Guns_Guns_Guns!_icon.png)
-
-**Release:** [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** Packed full of advice and technical details about how to be a better shooter. Researching this will improve your Rifle Firearm Skill.
-
-**Values**
-
-**Weight:** 0.50 kg (1.1 lbs)
-
-**Actions**
-
-**Backpack:** Research, Drop
+| Property | Details |
+| --- | --- |
+|  | [Advanced Guns Guns Guns! icon](../assets/Advanced_Guns_Guns_Guns!_icon.png) |
+| Release | [23 June 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Fire Starting](./Fire%20Starting.md)[Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | Packed full of advice and technical details about how to be a better shooter. Researching this will improve your Rifle Firearm Skill. |
+| **Values** |  |
+| Weight | 0.50 kg (1.1 lbs) |
+| **Actions** |  |
+| Backpack | Research, Drop |
 
 _For the version encountered in [Wintermute](./Wintermute.md), see [Advanced Guns Guns Guns! (Survival School)](./Advanced%20Guns%20Guns%20Guns!%20%28Survival%20School%29.md)._
 
@@ -52,17 +44,14 @@ Research can only be performed under the following conditions:
 
 **Advanced Guns Guns Guns!**
 
-**Type:** Fuel
-
-**Statistics**
-
-**Duration:** [Fire Starting](../assets/Fire_Starting.png) 18 minutes
-
-**Start Chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png) +35%
-
-**Heat:** [Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
-
-**Burn Density:** 0.6 hr/kg (0.27 hr/lb)
+| Property | Details |
+| --- | --- |
+| Type | Fuel |
+| **Statistics** |  |
+| Duration | [Fire Starting](../assets/Fire_Starting.png) 18 minutes |
+| Start Chance | [Firestart mod icon](../assets/Firestart_mod_icon.png) +35% |
+| Heat | [Fire heat icon](../assets/Fire_heat_icon.png) +2°C (+3.6°F) |
+| Burn Density | 0.6 hr/kg (0.27 hr/lb) |
 
 ## Trivia
 

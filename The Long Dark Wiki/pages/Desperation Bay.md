@@ -10,21 +10,16 @@ This content only appears in [Wintermute](./Wintermute.md).
 
 **Desperation Bay**
 
-[No picture](../assets/No_picture.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[No picture](../assets/No_picture.png)
-
-[Desperation Bay In Game Map](../assets/Desperation_Bay_In-Game_Map.png)
-
-**Details**
-
-**Description:** A remote coastline near the ends of the Earth.
-
-**Connecting Regions:** [Perseverance Mills](./Perseverance%20Mills.md)
-
-**Date Added:** 31 March 2026
+| Property | Details |
+| --- | --- |
+|  | [No picture](../assets/No_picture.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [No picture](../assets/No_picture.png) |
+|  | [Desperation Bay In Game Map](../assets/Desperation_Bay_In-Game_Map.png) |
+| **Details** |  |
+| Description | A remote coastline near the ends of the Earth. |
+| Connecting Regions | [Perseverance Mills](./Perseverance%20Mills.md) |
+| Date Added | 31 March 2026 |
 
 **Desperation Bay** is a [Wintermute](./Wintermute.md)-exclusive region, which consists of a coastline and bay near the town of [Perseverance Mills](./Perseverance%20Mills.md), to which it connects.
 

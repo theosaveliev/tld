@@ -11,31 +11,21 @@
 
 **Hockey Jersey**
 
-[Hockey Jersey icon](../assets/Hockey_Jersey_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Inner torso
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)15%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)3%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0%
-
-**Harvest:** 1 × [Cloth](./Cloth.md) 30 minutes
-
-**Repair:** 1 × [Cloth](./Cloth.md) 60 minutes 40% condition
+| Property | Details |
+| --- | --- |
+|  | [Hockey Jersey icon](../assets/Hockey_Jersey_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Inner torso |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.30 kg(0.66 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.0 °C(1.8 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)15% |
+| Protection | [Protection icon](../assets/Protection_icon.png)3% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0% |
+| Harvest | 1 × [Cloth](./Cloth.md) / 30 minutes |
+| Repair | 1 × [Cloth](./Cloth.md) / 60 minutes / 40% condition |
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

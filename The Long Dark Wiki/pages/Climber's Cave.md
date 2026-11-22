@@ -14,15 +14,13 @@
 
 **Climber's Cave**
 
-[20201212011633 1](../assets/20201212011633_1.jpg)
-
-**Location**
-
-[Climber's Cave Location](../assets/Climber%27s_Cave_Location.png)
-
-**Region:** [Ash Canyon](./Ash%20Canyon.md)
-
-**Type:** Cave
+| Property | Details |
+| --- | --- |
+|  | [20201212011633 1](../assets/20201212011633_1.jpg) |
+| **Location** |  |
+|  | [Climber's Cave Location](../assets/Climber%27s_Cave_Location.png) |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| Type | Cave\|- |
 
 ## Overview
 

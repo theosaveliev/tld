@@ -4,13 +4,12 @@
 
 **Timberwolf Carcass**
 
-[No picture](../assets/No_picture.png)
-
-**General**
-
-**Item Type:** Item
-
-**Wintermute:** Yes A **Timberwolf Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Timberwolf](./Timberwolf.md). [Crows](./Crow.md) will fly around a Timberwolf Carcass and always drop 3 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time.
+| Property | Details |
+| --- | --- |
+|  | [No picture](../assets/No_picture.png) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | Yes A **Timberwolf Carcass** is a harvestable "object" found after [Hunting](./Hunting.md) a [Timberwolf](./Timberwolf.md). [Crows](./Crow.md) will fly around a Timberwolf Carcass and always drop 3 [Crow Feathers](./Crow%20Feather.md) around the carcass at a time. |
 
 ## Drops
 

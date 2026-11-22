@@ -4,31 +4,21 @@
 
 **Can Opener**
 
-[Can Opener icon](../assets/Can_Opener_icon.png)
-
-**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
-
-**Wintermute:** No
-
-**Renewable:** No
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** An implement for opening cans.
-
-**Values**
-
-**Weight:** 0.25 kg (0.55 lbs)
-
-**Actions**
-
-**Backpack:** Use, Actions, Drop
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Can Opener icon](../assets/Can_Opener_icon.png) |
+| Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
+| Wintermute | No |
+| Renewable | No |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | An implement for opening cans. |
+| **Values** |  |
+| Weight | 0.25 kg (0.55 lbs) |
+| **Actions** |  |
+| Backpack | Use, Actions, Drop |
+| On ground | Take It, Leave It |
 
 A **Can Opener** is a tool primarily used for opening food cans.
 

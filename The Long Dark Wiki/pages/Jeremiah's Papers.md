@@ -4,29 +4,20 @@
 
 **Jeremiah's Papers**
 
-[Jeremiah's Papers icon](../assets/Jeremiah%27s_Papers_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Jeremiah's Hideout](./Jeremiah%27s%20Hideout.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** The stack of letters Jeremiah wants you to burn. Who could a reclusive trapper be writing to out here? in any case, you shouldn't read other people's mail.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Jeremiah's Papers icon](../assets/Jeremiah%27s_Papers_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Jeremiah's Hideout](./Jeremiah%27s%20Hideout.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | The stack of letters Jeremiah wants you to burn. Who could a reclusive trapper be writing to out here? in any case, you shouldn't read other people's mail. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 **Jeremiah's Papers** was a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It was found on a desk inside of [Jeremiah's Hideout](./Jeremiah%27s%20Hideout.md). It is considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md), as it did not survive the transition from Predux Episode 2 to Redux Episode 2, as the side mission Jeremiah's Hideout was instead replaced with the side mission [Aurora Hatch](./Aurora%20Hatch.md).
 

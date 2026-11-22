@@ -4,21 +4,16 @@
 
 **Accelerant**
 
-[Accelerant icon](../assets/Accelerant_icon.png)
-
-**General**
-
-**Item Type:** Fire Starting
-
-**Renewable:** Yes (rare [Beachcombing](./Beachcombing.md))
-
-**Firestarting Slot:** Accelerant
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
-
-**Bonus chance:** [Firestart mod icon](../assets/Firestart_mod_icon.png)+40%
+| Property | Details |
+| --- | --- |
+|  | [Accelerant icon](../assets/Accelerant_icon.png) |
+| **General** |  |
+| Item Type | Fire Starting\|- |
+| Renewable | Yes (rare [Beachcombing](./Beachcombing.md)) |
+| Firestarting Slot | Accelerant |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.10 kg(0.22 lbs) |
+| Bonus chance | [Firestart mod icon](../assets/Firestart_mod_icon.png)+40% |
 
 > “**Low-volume fuel source designed to help start fires; ex. lighter fluid.**”
 >

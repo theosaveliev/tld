@@ -107,7 +107,7 @@ Most Cairns display the message "Its story is not yet written..." because many b
 | Pleasant Valley | 25 | PAPPA | He thought it was alright here. | 2951 |
 | Pleasant Valley | 27 | KAIRI | She lost her favorite shoes here. | 18 |
 | Pleasant Valley | 30 | MEOWSKI | For Leo | 6277 |
-| Pleasant Valley | 34 | VAN LIEROP'S ROCK | Logan &amp; Emrik were here | 3921 |
+| Pleasant Valley | 34 | VAN LIEROP'S ROCK | Logan & Emrik were here | 3921 |
 | Pleasant Valley | 42 | CLOUDREACH | Cloudreach's Cairn | 4094 |
 | Pleasant Valley | 73 | LOST CAIRN | Its story is not yet written… | 5937 |
 | Pleasant Valley | 75 | LOST CAIRN | Its story is not yet written… | 6559 |

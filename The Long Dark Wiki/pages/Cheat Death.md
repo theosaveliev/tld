@@ -187,7 +187,7 @@ Take a photo in each Great Bear Island Region for a total of 16 (single game).
 
 **[Shutterbug](./Shutterbug.md)**
 
-Take 10 photos with each film type – Colour, B&amp;W, and Sepia (single game).
+Take 10 photos with each film type – Colour, B&W, and Sepia (single game).
 
 [On the Lookout icon](../assets/On_the_Lookout_icon.png)
 

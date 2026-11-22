@@ -22,31 +22,21 @@
 
 **Desolation Point**
 
-[Desolation Point's Lonely Lighthouse.](../assets/Desolation_Point_title_card.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[Desolation Point Location](../assets/Desolation_Point_Location.png)
-
-[Desolation point map](../assets/Desolation_point_map.png)
-
-**Details**
-
-**Description:** A desolate coastal region with the remnants of an old whaling industry.
-
-**Connecting Regions:** [Coastal Highway](./Coastal%20Highway.md) (via [Old Island Connector](./Crumbling%20Highway.md))
-
-**Difficulty:** Intermediate
-
-**Interloper Region Spawn:** Yes
-
-**Locations:** 12
-
-**Hazards and Survivability:** Lots of shelter and moderate weather, but prey game is limited and there is abundant hostile wildlife.
-
-**Cougar Spawn?:** No
-
-**Date Added:** Sept 2015
+| Property | Details |
+| --- | --- |
+|  | [Desolation Point's Lonely Lighthouse.](../assets/Desolation_Point_title_card.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [Desolation Point Location](../assets/Desolation_Point_Location.png) |
+|  | [Desolation point map](../assets/Desolation_point_map.png) |
+| **Details** |  |
+| Description | A desolate coastal region with the remnants of an old whaling industry. |
+| Connecting Regions | [Coastal Highway](./Coastal%20Highway.md) (via [Old Island Connector](./Crumbling%20Highway.md)) |
+| Difficulty | Intermediate |
+| Interloper Region Spawn | Yes |
+| Locations | 12 |
+| Hazards and Survivability | Lots of shelter and moderate weather, but prey game is limited and there is abundant hostile wildlife. |
+| Cougar Spawn? | No |
+| Date Added | Sept 2015 |
 
 > “**For intermediate players. Several key shelters, plenty of hostile wildlife, and harsh weather conditions to be found around these remnants of a once-thriving whaling industry.**”
 >
@@ -66,9 +56,19 @@ Desolation Point has a [explorable cave](./Cave%20%28Desolation%20Point%20locati
 
 There are 12 named locations within Desolation Point, including:
 
-| Column 1 | Column 2 |
-| --- | --- |
-| - [Abandoned Mine No. 5](./Abandoned%20Mine%20No.%205.md) (2 entrances) - [Blocked Highway](./Blocked%20Highway.md) - [Broken Bridge (Desolation Point location)](./Broken%20Bridge%20%28Desolation%20Point%20location%29.md) - [Hibernia Processing](./Hibernia%20Processing.md) - [Katie's Secluded Corner](./Katie%27s%20Secluded%20Corner.md) - [Little Island](./Little%20Island.md) | - [Lonely Lighthouse](./Lonely%20Lighthouse.md) - [Matt's Truck](./Matt%27s%20Truck.md) - [Stone Church](./Stone%20Church.md) - [The Riken](./The%20Riken.md) - [Waterfall](./Waterfall.md) - To No. 3 Coal Mine (Region Transition to [No. 3 Coal Mine](./No.%203%20Coal%20Mine.md)) |
+- [Abandoned Mine No. 5](./Abandoned%20Mine%20No.%205.md) (2 entrances)
+- [Blocked Highway](./Blocked%20Highway.md)
+- [Broken Bridge (Desolation Point location)](./Broken%20Bridge%20%28Desolation%20Point%20location%29.md)
+- [Hibernia Processing](./Hibernia%20Processing.md)
+- [Katie's Secluded Corner](./Katie%27s%20Secluded%20Corner.md)
+- [Little Island](./Little%20Island.md)
+
+- [Lonely Lighthouse](./Lonely%20Lighthouse.md)
+- [Matt's Truck](./Matt%27s%20Truck.md)
+- [Stone Church](./Stone%20Church.md)
+- [The Riken](./The%20Riken.md)
+- [Waterfall](./Waterfall.md)
+- To No. 3 Coal Mine (Region Transition to [No. 3 Coal Mine](./No.%203%20Coal%20Mine.md))
 
 There are also a 3 indoor locations that are tracked in the [Journal](./Journal.md).
 

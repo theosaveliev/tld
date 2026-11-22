@@ -4,17 +4,14 @@
 
 **The Arch**
 
-[Arch2](../assets/Arch2.jpg)
-
-**Location**
-
-[The Arch (Old Island Connector location) Location](../assets/The_Arch_%28Old_Island_Connector_location%29_Location.png)
-
-**Region:** [Old Island Connector](./Crumbling%20Highway.md)
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Arch2](../assets/Arch2.jpg) |
+| **Location** |  |
+|  | [The Arch (Old Island Connector location) Location](../assets/The_Arch_%28Old_Island_Connector_location%29_Location.png) |
+| Region | [Old Island Connector](./Crumbling%20Highway.md)\|- |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Overview
 

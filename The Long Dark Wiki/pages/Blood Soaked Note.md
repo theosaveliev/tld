@@ -4,29 +4,20 @@
 
 **Blood Soaked Note**
 
-[Blood Soaked Note icon](../assets/Blood_Soaked_Note_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Wintermute:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** An expletive filled note pointing to a cache of supplies.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Blood Soaked Note icon](../assets/Blood_Soaked_Note_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | An expletive filled note pointing to a cache of supplies. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 **Blood Soaked Note** is a [Collectible](./Collectibles.md) item found in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode. It is found near the derailed logging cares in the [Forlorn Muskeg](./Forlorn%20Muskeg.md) region. Collecting it unlocks a cache in the [Broken Railroad](./Broken%20Railroad.md) region for the [Mystery Lake Supply Caches](./Mystery%20Lake%20Supply%20Caches.md) side mission.
 

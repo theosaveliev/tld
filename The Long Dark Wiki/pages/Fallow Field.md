@@ -10,19 +10,15 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **Fallow Field**
 
-[Fallow Field](../assets/Fallow_Field.jpg)
-
-**Location**
-
-[Fallow Field Location](../assets/Fallow_Field_Location.png)
-
-**Region:** [Port Remnant](./Port%20Remnant.md)
-
-**Description:** A field and pond below Desecrated Church
-
-**General**
-
-Has no shelter **Fallow Field** is a location in [Port Remnant](./Port%20Remnant.md).
+| Property | Details |
+| --- | --- |
+|  | [Fallow Field](../assets/Fallow_Field.jpg) |
+| **Location** |  |
+|  | [Fallow Field Location](../assets/Fallow_Field_Location.png) |
+| Region | [Port Remnant](./Port%20Remnant.md)\|- |
+| Description | A field and pond below Desecrated Church |
+| **General** |  |
+|  | Has no shelter **Fallow Field** is a location in [Port Remnant](./Port%20Remnant.md). |
 
 ## Overview
 

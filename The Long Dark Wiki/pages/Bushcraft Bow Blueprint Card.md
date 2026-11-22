@@ -4,27 +4,19 @@
 
 **Bushcraft Bow Blueprint Card**
 
-[Bushcraft Bow Blueprint Card icon](../assets/Bushcraft_Bow_Blueprint_Card_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Instructions for Crafting a Bushcraft Bow.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Bushcraft Bow Blueprint Card icon](../assets/Bushcraft_Bow_Blueprint_Card_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Instructions for Crafting a Bushcraft Bow. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -45,3 +37,5 @@ At Trust level 6 the costs are reduced to:
 - 5.00 kg of any raw animal or raw fish meat
 - 2 [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
 - 2 any cured hides
+
+## Update history

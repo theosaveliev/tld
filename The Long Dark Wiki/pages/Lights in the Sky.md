@@ -4,9 +4,10 @@
 
 **Lights in the Sky**
 
-[Lights in the Sky icon](../assets/Lights_in_the_Sky_icon.png)
-
-**Description:** Survive the first Aurora event.
+| Property | Details |
+| --- | --- |
+|  | [Lights in the Sky icon](../assets/Lights_in_the_Sky_icon.png) |
+| Description | Survive the first Aurora event. |
 
 **Lights in the Sky** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

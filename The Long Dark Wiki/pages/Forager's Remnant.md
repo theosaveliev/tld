@@ -4,25 +4,17 @@
 
 **Forager's Remnant**
 
-[Forager's Remnant](../assets/Forager%27s_Remnant.jpg)
-
-**Location**
-
-[Forager's Remnant Location](../assets/Forager%27s_Remnant_Location.png)
-
-Region
-
-**Location:** Next to [Grand Meadow](./Grand%20Meadow.md), near the [Power Plant](./Power%20Plant.md)
-
-**Description:** Ruins of a remote cabin with an outdoor workbench
-
-**General**
-
-**Type:** Outdoors
-
-[Workbench icon green](../assets/Workbench_icon_green.png)
-
-Has a workbench
+| Property | Details |
+| --- | --- |
+|  | [Forager's Remnant](../assets/Forager%27s_Remnant.jpg) |
+| **Location** |  |
+|  | [Forager's Remnant Location](../assets/Forager%27s_Remnant_Location.png) |
+| Region |  |
+| Location | Next to [Grand Meadow](./Grand%20Meadow.md), near the [Power Plant](./Power%20Plant.md) |
+| Description | Ruins of a remote cabin with an outdoor workbench |
+| **General** |  |
+| Type | Outdoors\|- |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
 
 ## Gallery
 

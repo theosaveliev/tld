@@ -4,15 +4,13 @@
 
 **Waterfall**
 
-[Waterfall](../assets/Waterfall.jpg)
-
-**Location**
-
-[Waterfall Location](../assets/Waterfall_Location.png)
-
-**Region:** [Desolation Point](./Desolation%20Point.md)
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Waterfall](../assets/Waterfall.jpg) |
+| **Location** |  |
+|  | [Waterfall Location](../assets/Waterfall_Location.png) |
+| Region | [Desolation Point](./Desolation%20Point.md)\|- |
+| Type | Landmark\|- |
 
 ## Overview
 

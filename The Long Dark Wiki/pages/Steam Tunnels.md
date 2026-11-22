@@ -4,23 +4,17 @@
 
 **Steam Tunnels**
 
-[Steam Tunnels lower entrance](../assets/Steam_Tunnels_lower_entrance.jpg)
-
-**Location**
-
-[Steam Tunnels Location](../assets/Steam_Tunnels_Location.png)
-
-Region
-
-**Location:** Underneath Blackrock Prison
-
-**General**
-
-**Type:** Industrial
-
-Has an interior
-
-**Missions:** [The Power Plant](./The%20Power%20Plant.md) [Donner](./Donner.md)
+| Property | Details |
+| --- | --- |
+|  | [Steam Tunnels lower entrance](../assets/Steam_Tunnels_lower_entrance.jpg) |
+| **Location** |  |
+|  | [Steam Tunnels Location](../assets/Steam_Tunnels_Location.png) |
+| Region |  |
+| Location | Underneath Blackrock Prison |
+| **General** |  |
+| Type | Industrial\|- |
+|  | Has an interior\|- |
+| Missions | [The Power Plant](./The%20Power%20Plant.md) / [Donner](./Donner.md) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

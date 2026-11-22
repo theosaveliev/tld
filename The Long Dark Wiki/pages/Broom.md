@@ -4,17 +4,14 @@
 
 **Broom**
 
-[Broom](../assets/Broom.jpg)
-
-**General**
-
-**Item Type:** Item
-
-**Wintermute:** No
-
-**Statistics**
-
-**Harvest:** 1 x [Reclaimed Wood](./Reclaimed%20Wood.md)
+| Property | Details |
+| --- | --- |
+|  | [Broom](../assets/Broom.jpg) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | No |
+| **Statistics** |  |
+| Harvest | 1 x [Reclaimed Wood](./Reclaimed%20Wood.md) |
 
 A **Broom** is a wooden cleaning instrument, but in-game, the broom's only use is to be harvested.
 

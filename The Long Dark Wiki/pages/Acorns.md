@@ -17,29 +17,20 @@
 
 **Acorns**
 
-[Acorns icon](../assets/Acorns_icon.png)
-
-**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
-
-**Wintermute:** No
-
-**Renewable:** No
-
-**Properties**
-
-**Item type:** [Materials](./Materials.md)
-
-**Stackable:** Yes
-
-**Examine:** Nuts from an Oak Tree. Prepare the Acorns to remove their leathery shell prior to Cooking.
-
-**Values**
-
-**Weight:** 0.05 kg (0.11 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_Acorn
+| Property | Details |
+| --- | --- |
+|  | [Acorns icon](../assets/Acorns_icon.png) |
+| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
+| Wintermute | No |
+| Renewable | No |
+| **Properties** |  |
+| Item type | [Materials](./Materials.md)\|- |
+| Stackable | Yes |
+| Examine | Nuts from an Oak Tree. Prepare the Acorns to remove their leathery shell prior to Cooking. |
+| **Values** |  |
+| Weight | 0.05 kg (0.11 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Acorn |
 
 **Acorns** are a material in **[The Long Dark](./The%20Long%20Dark.md)**.
 

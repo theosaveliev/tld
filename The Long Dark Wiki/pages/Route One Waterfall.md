@@ -4,17 +4,14 @@
 
 **Route One Waterfall**
 
-[Route One Waterfall](../assets/Route_One_Waterfall.jpg)
-
-**Location**
-
-[Route One Waterfall Location](../assets/Route_One_Waterfall_Location.png)
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**General**
-
-Has no shelter **Route One Waterfall** is a location in [Sundered Pass](./Sundered%20Pass.md).
+| Property | Details |
+| --- | --- |
+|  | [Route One Waterfall](../assets/Route_One_Waterfall.jpg) |
+| **Location** |  |
+|  | [Route One Waterfall Location](../assets/Route_One_Waterfall_Location.png) |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| **General** |  |
+|  | Has no shelter **Route One Waterfall** is a location in [Sundered Pass](./Sundered%20Pass.md). |
 
 ## Overview
 

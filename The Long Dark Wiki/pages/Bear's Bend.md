@@ -4,19 +4,15 @@
 
 **Bear's Bend**
 
-[Bear's Bend](../assets/Bear%27s_Bend.jpg)
-
-**Location**
-
-[Bear's Bend Location](../assets/Bear%27s_Bend_Location.png)
-
-Region
-
-**Location:** On the road between [Power Plant](./Power%20Plant.md) and [Narrow Bridge](./Narrow%20Bridge.md)
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Bear's Bend](../assets/Bear%27s_Bend.jpg) |
+| **Location** |  |
+|  | [Bear's Bend Location](../assets/Bear%27s_Bend_Location.png) |
+| Region |  |
+| Location | On the road between [Power Plant](./Power%20Plant.md) and [Narrow Bridge](./Narrow%20Bridge.md) |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Landslide and ledge path
 

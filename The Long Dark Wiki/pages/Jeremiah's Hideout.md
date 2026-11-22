@@ -19,13 +19,12 @@
 
 **Jeremiah's Hideout**
 
-[Aurora hatch](../assets/Aurora_hatch.png)
-
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Current:** Jeremiah's Hideout
-
-**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
+| Property | Details |
+| --- | --- |
+|  | [Aurora hatch](../assets/Aurora_hatch.png) |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Current | Jeremiah's Hideout |
+| Region | [Forlorn Muskeg](./Forlorn%20Muskeg.md) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

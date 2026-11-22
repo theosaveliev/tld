@@ -13,31 +13,21 @@ _For the raw version, see [Bear Meat](./Bear%20Meat%20%28Raw%29.md)._
 
 **Bear Meat (Cooked)**
 
-[Bear Meat (Cooked) icon](../assets/Bear_Meat_%28Cooked%29_icon.png)
-
-**Release:** [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** Cooked Bear meat. Heavy duty food.
-
-**Values**
-
-**Calories:** 900 kcal
-
-**Hydration:** -15%
-
-**Weight:** 1.00 kg (2.2 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_BearMeatCooked
+| Property | Details |
+| --- | --- |
+|  | [Bear Meat (Cooked) icon](../assets/Bear_Meat_%28Cooked%29_icon.png) |
+| Release | [7 February 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.192) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Cooked Bear meat. Heavy duty food. |
+| **Values** |  |
+| Calories | 900 kcal |
+| Hydration | -15% |
+| Weight | 1.00 kg (2.2 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_BearMeatCooked |
 
 **Bear Meat (Cooked)** is a cooked [food](./Food%20And%20Drink.md) item in _The Long Dark_.
 

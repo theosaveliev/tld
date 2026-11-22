@@ -13,29 +13,20 @@
 
 **Water (Potable)**
 
-[Water (Potable) icon](../assets/Water_%28Potable%29_icon.png)
-
-**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
-
-**Wintermute:** No
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** Water that is safe to drink.
-
-**Values**
-
-**Weight:** 1.00 kg (2.2 lbs)
-
-**Actions**
-
-**Radial:** Drink, Place
+| Property | Details |
+| --- | --- |
+|  | [Water (Potable) icon](../assets/Water_%28Potable%29_icon.png) |
+| Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
+| Wintermute | No |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Water that is safe to drink. |
+| **Values** |  |
+| Weight | 1.00 kg (2.2 lbs) |
+| **Actions** |  |
+| Radial | Drink, Place |
 
 **Water (Potable)** is purified water that is safe to drink in [_The Long Dark_](./The%20Long%20Dark.md).
 

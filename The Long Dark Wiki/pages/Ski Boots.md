@@ -4,29 +4,20 @@
 
 **Ski Boots**
 
-[Ski Boots icon](../assets/Ski_Boots_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)30%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)10%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-20%
-
-**Harvest:** 1 × [Cured leather](./Cured%20Leather.md) 90 minutes
-
-**Repair:** 1 × [Cured leather](./Cured%20Leather.md), 1 × [Cloth](./Cloth.md) 90 minutes 30% condition
+| Property | Details |
+| --- | --- |
+|  | [Ski Boots icon](../assets/Ski_Boots_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)4.00 kg(8.8 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)3.0 °C(5.4 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)4.0 °C(7.2 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)30% |
+| Protection | [Protection icon](../assets/Protection_icon.png)10% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-20% |
+| Harvest | 1 × [Cured leather](./Cured%20Leather.md) / 90 minutes |
+| Repair | 1 × [Cured leather](./Cured%20Leather.md), / 1 × [Cloth](./Cloth.md) / 90 minutes / 30% condition |
 
 > “**Hard plastic boots with high-tech synthetic insulation. Will keep your feet very warm at the expense of mobility.**”
 >

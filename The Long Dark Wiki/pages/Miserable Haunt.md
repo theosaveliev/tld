@@ -4,21 +4,16 @@
 
 **Miserable Haunt**
 
-[Miserable Haunt](../assets/Miserable_Haunt.jpg)
-
-**Location**
-
-[Miserable Haunt Location](../assets/Miserable_Haunt_Location.png)
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**Description:** A cave in the southwestern most section of the map
-
-**General**
-
-**Type:** Cave
-
-Provides some shelter **Miserable Haunt** is a [Warm Cave](./Warm%20Cave.md) in [Sundered Pass](./Sundered%20Pass.md).
+| Property | Details |
+| --- | --- |
+|  | [Miserable Haunt](../assets/Miserable_Haunt.jpg) |
+| **Location** |  |
+|  | [Miserable Haunt Location](../assets/Miserable_Haunt_Location.png) |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| Description | A cave in the southwestern most section of the map |
+| **General** |  |
+| Type | Cave\|- |
+|  | Provides some shelter / **Miserable Haunt** is a [Warm Cave](./Warm%20Cave.md) in [Sundered Pass](./Sundered%20Pass.md). |
 
 ## Overview
 

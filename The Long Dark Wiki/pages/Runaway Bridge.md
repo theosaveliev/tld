@@ -4,15 +4,13 @@
 
 **Runaway Bridge**
 
-[Runaway Bridge](../assets/Runaway_Bridge.jpg)
-
-**Location**
-
-[Runaway Bridge Location](../assets/Runaway_Bridge_Location.png)
-
-**Region:** [Ash Canyon](./Ash%20Canyon.md)
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Runaway Bridge](../assets/Runaway_Bridge.jpg) |
+| **Location** |  |
+|  | [Runaway Bridge Location](../assets/Runaway_Bridge_Location.png) |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| Type | Outdoors\|- |
 
 ## Overview
 

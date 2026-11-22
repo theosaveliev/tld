@@ -5,7 +5,7 @@
 **Contents**
 
 - [Overview](#overview)
-- [Gameplay &amp; Strategy](#gameplay-strategy)
+- [Gameplay & Strategy](#gameplay-strategy)
 - [The Darkwalker](#the-darkwalker-1)
 - [Toxic Fog](#toxic-fog)
 - [Green Campfires](#green-campfires)
@@ -25,15 +25,13 @@
 
 **Escape the Darkwalker**
 
-[Event NowhereToHide](../assets/Event_NowhereToHide.png)
-
-**Details**
-
-**Regions:** All
-
-**Difficulty:** 6
-
-**Date Added:** 9 Dec 2020
+| Property | Details |
+| --- | --- |
+|  | [Event NowhereToHide](../assets/Event_NowhereToHide.png) |
+| **Details** |  |
+| Regions | All |
+| Difficulty | 6 |
+| Date Added | 9 Dec 2020 |
 
 > “__The Darkwalker is hunting you. Paint Glyphs to survive as long as you can.  
  Search for the Green Fires. Learn all you can about the Darkwalker. Knowledge will help you find a way to defeat the entity.__”
@@ -59,7 +57,7 @@ Any [Region](./Region.md) may be selected to start, but after ~30 real-time minu
 
 Completing Escape the Darkwalker rewards the player with 2 [Badges](./Badges.md), the [Feat](./Feats.md) "Darkwalker," and the "Endless Night" option for [Custom](./Custom.md) [Survival Mode](./Survival%20Mode.md).
 
-## Gameplay &amp; Strategy
+## Gameplay & Strategy
 
 ![Escape the Darkwalker Startup](../assets/Escape_the_Darkwalker_Startup.jpg) Upon starting _Escape The Darkwalker_ an extinguished campfire and supplies can be found close by, along with an introductory note called [On the Nature of Darkwalkers](./On%20the%20Nature%20of%20Darkwalkers.md). There are ten [Diary Pages](./Diary%20Page%20%28Darkwalker%29.md) to be collected, one in each major region (excluding [Ash Canyon](./Ash%20Canyon.md)) beside a green campfire. All region maps are fully revealed and display the locations of each Green Campfire. The Blackrock, [Keeper's Pass South](./Keeper%27s%20Pass%20South.md), and [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) regions cannot be explored in this challenge.
 
@@ -179,7 +177,7 @@ Open Regions (Multiple region entrances/exits)
 
 ## List of Diary Page Contents and Loot Next to Each Green Campfire
 
-**Diary Notes &amp; Loot**
+**Diary Notes & Loot**
 
 | Location | Diary page contents | Loot |
 | --- | --- | --- |
@@ -216,7 +214,7 @@ Open Regions (Multiple region entrances/exits)
 ## Trivia
 
 - Raphael Van Lierop (lead designer of _The Long Dark_) gave insight to the design of _Escape the Darkwalker_ and its predecessor [_4 Days of Night_](./4%20Days%20of%20Night%20Event.md); stating that fans were unhappy with 4DoN: those who missed the timed event missed content and [Badges](./Badges.md), and those who played felt the mode was too simplistic. Thus Escape the Darkwalker was made as a more polished, feature-rich, and permanent game mode.
-- All wildlife flee The Darkwalker (&gt;50m).
+- All wildlife flee The Darkwalker (>50m).
 - The Darkwalker is invisible during most gameplay, but can be seen when killing the player/banishing it as well as in official "[ESCAPE THE DARKWALKER](https://www.thelongdark.com/news/darkwalker/)" media. It is a vaguely humanoid entity of black smoke, green light, and three wolf skulls.
 - Escape the Darkwalker bears many similarities to the works of horror writer [H.P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft)—particularly esoteric journal writings, [invisible and malevolent monsters](https://en.wikipedia.org/wiki/The_Horror_at_Martin%27s_Beach), and creation of [magical glyphs](https://en.wikipedia.org/wiki/Elements_of_the_Cthulhu_Mythos#Signs_and_symbols) to ward monsters away. "[The Nameless City](https://en.wikipedia.org/wiki/The_Nameless_City)" in one such journal note is a direct reference to his work of the same name.
 - Users on the official Hinterlands Forums and reveal streams regularly joked that The Darkwalker was the ghost of "[Fluffy](./Wolf.md)", a fan-favorite unique wolf 'killed' in previous versions of _The Long Dark_.

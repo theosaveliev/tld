@@ -4,31 +4,21 @@
 
 **Cougar Claw**
 
-[Cougar Claw icon](../assets/Cougar_Claw_icon.png)
-
-**Release:** [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Materials](./Materials.md)
-
-**Stackable:** No
-
-**Examine:** A cruel-looking trophy harvested from the predatory cat. Can be crafted into a razor-sharp blade.
-
-**Values**
-
-**Weight:** 0.07 kg (0.15 lbs)
-
-**Actions**
-
-**On ground:** Take It, Leave It
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_CougarClaw
+| Property | Details |
+| --- | --- |
+|  | [Cougar Claw icon](../assets/Cougar_Claw_icon.png) |
+| Release | [24 June 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Materials](./Materials.md)\|- |
+| Stackable | No |
+| Examine | A cruel-looking trophy harvested from the predatory cat. Can be crafted into a razor-sharp blade. |
+| **Values** |  |
+| Weight | 0.07 kg (0.15 lbs) |
+| **Actions** |  |
+| On ground | Take It, Leave It |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_CougarClaw |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

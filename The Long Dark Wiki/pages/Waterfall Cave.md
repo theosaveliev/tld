@@ -4,17 +4,14 @@
 
 **Waterfall Cave**
 
-[Waterfall cave](../assets/Waterfall_cave.jpg)
-
-**Location**
-
-[Waterfall Cave Location](../assets/Waterfall_Cave_Location.png)
-
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
-
-**General**
-
-**Type:** Cave
+| Property | Details |
+| --- | --- |
+|  | [Waterfall cave](../assets/Waterfall_cave.jpg) |
+| **Location** |  |
+|  | [Waterfall Cave Location](../assets/Waterfall_Cave_Location.png) |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| **General** |  |
+| Type | Cave\|- |
 
 ## Overview
 

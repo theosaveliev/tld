@@ -4,15 +4,13 @@
 
 **Long Shot Falls**
 
-[Long Shot Falls (2)](../assets/Long_Shot_Falls_%282%29.jpg)
-
-**Location**
-
-[Long Shot Falls Location](../assets/Long_Shot_Falls_Location.png)
-
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Long Shot Falls (2)](../assets/Long_Shot_Falls_%282%29.jpg) |
+| **Location** |  |
+|  | [Long Shot Falls Location](../assets/Long_Shot_Falls_Location.png) |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| Type | Outdoors\|- |
 
 ## Overview
 

@@ -4,25 +4,18 @@
 
 **Unburdened**
 
-[Unburdened icon](../assets/Unburdened_icon.png)
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Update:** 2.17
-
-**Properties**
-
-**Category:** [Afflictions](./Afflictions.md)
-
-**Description:** Your pack feels lighter because of something you ate.
-
-**Caused By:** Consume [Food And Drink](./Food%20And%20Drink.md)
-
-**Effect:** Positive
-
-**Type:** Benefit
-
-**Benefit Duration:** 3 Hours
+| Property | Details |
+| --- | --- |
+|  | [Unburdened icon](../assets/Unburdened_icon.png) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Update | 2.17 |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Description | Your pack feels lighter because of something you ate. |
+| Caused By | Consume [Food And Drink](./Food%20And%20Drink.md) |
+| Effect | Positive |
+| Type | Benefit |
+| Benefit Duration | 3 Hours |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

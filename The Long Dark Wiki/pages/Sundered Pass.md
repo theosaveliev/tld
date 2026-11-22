@@ -17,29 +17,20 @@
 
 **Sundered Pass**
 
-[Sundered Pass](../assets/Sundered_Pass.jpg)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[Sundered Pass Location](../assets/Sundered_Pass_Location.png)
-
-[Sundered Pass In game Map](../assets/Sundered_Pass_In-game_Map.png)
-
-**Details**
-
-**Description:** A rather large avalanche prone mountainous region that gets colder as one climbs.
-
-**Connecting Regions:** [Transfer Pass](./Transfer%20Pass.md) [Forsaken Airfield](./Forsaken%20Airfield.md) or [Zone of Contamination](./Zone%20of%20Contamination.md) (Through Transition Cave)
-
-**TFTFT paid content:** Yes
-
-**Difficulty:** Advanced
-
-**Interloper Region Spawn:** No
-
-**Locations:** 25
-
-**Date Added:** June 24, 2024
+| Property | Details |
+| --- | --- |
+|  | [Sundered Pass](../assets/Sundered_Pass.jpg) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [Sundered Pass Location](../assets/Sundered_Pass_Location.png) |
+|  | [Sundered Pass In game Map](../assets/Sundered_Pass_In-game_Map.png) |
+| **Details** |  |
+| Description | A rather large avalanche prone mountainous region that gets colder as one climbs. |
+| Connecting Regions | [Transfer Pass](./Transfer%20Pass.md) [Forsaken Airfield](./Forsaken%20Airfield.md) or [Zone of Contamination](./Zone%20of%20Contamination.md) (Through Transition Cave) |
+| TFTFT paid content | Yes |
+| Difficulty | Advanced |
+| Interloper Region Spawn | No |
+| Locations | 25 |
+| Date Added | June 24, 2024 |
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

@@ -4,17 +4,14 @@
 
 **Fool's Corner**
 
-[Fool's Corner rope climb top](../assets/Fool%27s_Corner_rope_climb_top.jpg)
-
-**Location**
-
-[Fool's Corner Location](../assets/Fool%27s_Corner_Location.png)
-
-Region
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Fool's Corner rope climb top](../assets/Fool%27s_Corner_rope_climb_top.jpg) |
+| **Location** |  |
+|  | [Fool's Corner Location](../assets/Fool%27s_Corner_Location.png) |
+| Region |  |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Overview
 

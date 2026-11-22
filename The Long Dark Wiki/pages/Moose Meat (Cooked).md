@@ -11,31 +11,21 @@
 
 **Moose Meat (Cooked)**
 
-[Moose Meat (Cooked) icon](../assets/Moose_Meat_%28Cooked%29_icon.png)
-
-**Release:** [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** Cooked flesh from a Moose. Tastier than you would expect.
-
-**Values**
-
-**Calories:** 900 kcal
-
-**Hydration:** -5%
-
-**Weight:** 1.00 kg (2.2 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_CookedMeatMoose
+| Property | Details |
+| --- | --- |
+|  | [Moose Meat (Cooked) icon](../assets/Moose_Meat_%28Cooked%29_icon.png) |
+| Release | [7 December 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.16) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Cooked flesh from a Moose. Tastier than you would expect. |
+| **Values** |  |
+| Calories | 900 kcal |
+| Hydration | -5% |
+| Weight | 1.00 kg (2.2 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_CookedMeatMoose |
 
 _For the raw version, see [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md)._
 

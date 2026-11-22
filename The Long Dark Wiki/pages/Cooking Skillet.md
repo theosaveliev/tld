@@ -17,35 +17,23 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Cooking Skillet**
 
-[Cooking Skillet icon](../assets/Cooking_Skillet_icon.png)
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Wintermute:** No
-
-**Renewable:** No
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** A pan for cooking and frying.
-
-**Values**
-
-**Weight:** 1.00 kg (2.2 lbs)
-
-**Actions**
-
-**Backpack:** Use, Actions, Drop
-
-**On ground:** Take It, Leave It
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_Skillet
+| Property | Details |
+| --- | --- |
+|  | [Cooking Skillet icon](../assets/Cooking_Skillet_icon.png) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| Renewable | No |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | A pan for cooking and frying. |
+| **Values** |  |
+| Weight | 1.00 kg (2.2 lbs) |
+| **Actions** |  |
+| Backpack | Use, Actions, Drop |
+| On ground | Take It, Leave It |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Skillet |
 
 A **Cooking Skillet** is a tool primarily used for melting snow, boiling water, and cooking food. They were introduced in the Part 3: Frontier Comforts update for players who purchase the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion, and are used for cooking advanced food Recipes.
 

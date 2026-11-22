@@ -4,27 +4,19 @@
 
 **Paper**
 
-[Paper icon](../assets/Paper_icon.png)
-
-**Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A loose piece of typewritten paper.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Paper icon](../assets/Paper_icon.png) |
+| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.02) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A loose piece of typewritten paper. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **Paper** is a [Collectibles](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md) at [Forsaken Airfield](./Forsaken%20Airfield.md) inside [Cargomaster's Trailer](./Cargomaster%27s%20Trailer.md) below the [Lockers](./Locker.md).
 
@@ -40,4 +32,4 @@ Mission status unclear. Pilot activity appears routine and as predicted in my In
 
 \* UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
 
-  - Added to game.
+- Added to game.

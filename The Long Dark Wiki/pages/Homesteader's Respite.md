@@ -4,23 +4,16 @@
 
 **Homestead's Respite**
 
-[20201210010226 1](../assets/20201210010226_1.jpg)
-
-**Location**
-
-[Homesteader's Respite Location](../assets/Homesteader%27s_Respite_Location.png)
-
-**Region:** [Ash Canyon](./Ash%20Canyon.md)
-
-**General**
-
-**Type:** Residential
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Has an interior **Homesteader's Respite** is a small cabin located beside an old mining facility, near the eastern edge of [Ash Canyon](./Ash%20Canyon.md), a short distance north of [Bitter Marsh](./Bitter%20Marsh.md), and just below [Fire Overlook](./Fire%20Overlook.md). The cabin is sitting on a ledge between two rope climbs.
+| Property | Details |
+| --- | --- |
+|  | [20201210010226 1](../assets/20201210010226_1.jpg) |
+| **Location** |  |
+|  | [Homesteader's Respite Location](../assets/Homesteader%27s_Respite_Location.png) |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| **General** |  |
+| Type | Residential\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior / **Homesteader's Respite** is a small cabin located beside an old mining facility, near the eastern edge of [Ash Canyon](./Ash%20Canyon.md), a short distance north of [Bitter Marsh](./Bitter%20Marsh.md), and just below [Fire Overlook](./Fire%20Overlook.md). The cabin is sitting on a ledge between two rope climbs. |
 
 ## Access
 

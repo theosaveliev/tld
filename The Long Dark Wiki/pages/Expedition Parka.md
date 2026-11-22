@@ -11,33 +11,22 @@
 
 **Expedition Parka**
 
-[Expedition Parka icon](../assets/Expedition_Parka_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
-
-**Clothing Slot:** Outer torso
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)4.0 °C(7.2 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)6.0 °C(10.8 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)50%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)6%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-5%
-
-**Harvest:** 2 × [Cloth](./Cloth.md) 20 minutes
-
-**Repair:** 2 × [Cloth](./Cloth.md) 45 minutes 30% condition
+| Property | Details |
+| --- | --- |
+|  | [Expedition Parka icon](../assets/Expedition_Parka_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
+| Clothing Slot | Outer torso |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.50 kg(3.3 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)4.0 °C(7.2 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)6.0 °C(10.8 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)50% |
+| Protection | [Protection icon](../assets/Protection_icon.png)6% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-5% |
+| Harvest | 2 × [Cloth](./Cloth.md) / 20 minutes |
+| Repair | 2 × [Cloth](./Cloth.md) / 45 minutes / 30% condition |
 
 > “**Heavy down-filled parka made using high-end materials. The kind of parka worn by people who know what they're doing.**”
 >

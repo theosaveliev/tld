@@ -4,19 +4,15 @@
 
 **Crystal Lake**
 
-[Crystal Lake](../assets/Crystal_Lake.png)
-
-**Location**
-
-[Crystal Lake Location](../assets/Crystal_Lake_Location.png)
-
-**Region:** [Timberwolf Mountain](./Timberwolf%20Mountain.md)
-
-**Description:** A small freshwater lake
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Crystal Lake](../assets/Crystal_Lake.png) |
+| **Location** |  |
+|  | [Crystal Lake Location](../assets/Crystal_Lake_Location.png) |
+| Region | [Timberwolf Mountain](./Timberwolf%20Mountain.md)\|- |
+| Description | A small freshwater lake |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

@@ -4,23 +4,18 @@
 
 **Perseverance**
 
-[Missions story ep5 Perseverance](../assets/Missions_story_ep5_Perseverance.png)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep5 Perseverance](../assets/Missions_story_ep5_Perseverance.png) |
+| Episode |  |
+| **Missions** |  |
+| Previous | [Donner (mission)](./Donner%20%28mission%29.md) |
+| Current | Perseverance |
+| Next | [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md) |
+| Region | [Perseverance Mills](./Perseverance%20Mills.md) |
+| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) / [Jane Yang](./Jane%20Yang.md) |
 
-Episode
-
-**Missions**
-
-**Previous:** [Donner (mission)](./Donner%20%28mission%29.md)
-
-**Current:** Perseverance
-
-**Next:** [To Those Who Are Missing](./To%20Those%20Who%20Are%20Missing.md)
-
-**Region:** [Perseverance Mills](./Perseverance%20Mills.md)
-
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Jane Yang](./Jane%20Yang.md)
-
-**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Perseverance&amp;action=edit expanding it].**
+**Stub:****This article is a stub. You can help by [//dummy.host/index.php?title=Perseverance&action=edit expanding it].**
 
 > “**A strange illness has taken hold in Perseverance Mils. People are missing. Investigate the town and see what you can find out.**”
 

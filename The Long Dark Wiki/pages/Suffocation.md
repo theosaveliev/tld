@@ -11,27 +11,19 @@
 
 **Suffocation**
 
-[Suffocation icon](../assets/Suffocation_icon.png)
-
-**Release:** [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95)
-
-**Update:** 1.95
-
-**Properties**
-
-**Category:** [Afflictions](./Afflictions.md)
-
-**Caused By:** Polluted Air
-
-**Effect:** Negative
-
-**Type:** Injury
-
-**Affliction Duration:** Instant Death
-
-**Treatment**
-
-**Recovery Time:** [Cheat Death](./Cheat%20Death.md) or end your game
+| Property | Details |
+| --- | --- |
+|  | [Suffocation icon](../assets/Suffocation_icon.png) |
+| Release | [6 October 2021](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.95) |
+| Update | 1.95 |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Caused By | Polluted Air |
+| Effect | Negative |
+| Type | Injury |
+| Affliction Duration | Instant Death |
+| **Treatment** |  |
+| Recovery Time | [Cheat Death](./Cheat%20Death.md) or end your game |
 
 **Suffocation** is a very short but highly lethal [Affliction](./Afflictions.md) that occurs when the player character is exposed to toxic airborne gases. It is a rare but incredibly dangerous Affliction to encounter in [Survival Mode](./Survival%20Mode.md), being present only within the [Last Prospect](./Last%20Prospect.md) mine and the [Langston Mine](./Langston%20Mine.md).
 

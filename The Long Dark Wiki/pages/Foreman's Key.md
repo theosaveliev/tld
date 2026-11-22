@@ -4,27 +4,19 @@
 
 **Foreman's Key**
 
-[Foreman's Key icon](../assets/Foreman%27s_Key_icon.png)
-
-**Release:** [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** An old key.
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_Tale2\_LockerKey
+| Property | Details |
+| --- | --- |
+|  | [Foreman's Key icon](../assets/Foreman%27s_Key_icon.png) |
+| Release | [5 December 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | An old key. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Tale2\_LockerKey |
 
 The **Foreman's Key** is a [Collectible](./Collectibles.md) found as part of the [Buried Echoes](./Buried%20Echoes.md) Tale in [Survival Mode](./Survival%20Mode.md). It is found in the mountains near [Old Corral](./Old%20Corral.md), buried under the tail section of a crashed [Helicopter](./Helicopter.md) inside a [Supply Cache](./Supply%20Cache.md) (along with [Security Chief's Log 31](./Security%20Chief%27s%20Log%2031.md)) that can be uncovered by an active [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md). To obtain the key, you first must first start the Tale by finding the hidden cache at the Boss's Settlement.
 

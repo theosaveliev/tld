@@ -4,15 +4,13 @@
 
 **Furnace**
 
-[Furnace](../assets/Furnace.png)
-
-**General**
-
-**Type:** Fire Starting
-
-**Max temperature:** 200 °C _(360 °F)_
-
-**Cooking slots:** 1
+| Property | Details |
+| --- | --- |
+|  | [Furnace](../assets/Furnace.png) |
+| **General** |  |
+| Type | Fire Starting\|- |
+| Max temperature | 200 °C / _(360 °F)_ |
+| Cooking slots | 1 |
 
 A **Furnace** is an unmovable [contained fire](./Fire.md#Contained_fires). Notably, furnaces also have an attached [Forge](./Forge.md) that can be used for crafting items. Furnaces have a maximum temperature of 200°C. Minimum temperature for forging is 150°C. To achieve a temperature above 80°C, [Coal](./Coal.md) must be added to the furnace. For [Cooking](./Cooking.md) and heating, the furnace functions identically to other contained fires and player-made [Campfire](./Campfire.md). It provides no advantage over other contained fires, but it does allow protection against wind, unlike the player-made campfire. It has one cooking slot.
 

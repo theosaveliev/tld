@@ -30,25 +30,18 @@
 
 **Distress Pistol**
 
-[Distress Pistol icon](../assets/Distress_Pistol_icon.png)
-
-**Release:** [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)
-
-**Wintermute:** yes
-
-**Renewable:** Yes ([Beachcombing](./Beachcombing.md))
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** A device used to launch an emergency beacon into the air. Fires Flare Shells.
-
-**Values**
-
-**Weight:** 0.40 kg (0.88 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Distress Pistol icon](../assets/Distress_Pistol_icon.png) |
+| Release | [16 December 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298) |
+| Wintermute | yes |
+| Renewable | Yes ([Beachcombing](./Beachcombing.md)) |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | A device used to launch an emergency beacon into the air. Fires Flare Shells. |
+| **Values** |  |
+| Weight | 0.40 kg (0.88 lbs) |
 
 > “**Distress Pistol rounds can be an effective deterrent against hostile wildlife. They are the only thing that can reliably deter a charging Bear.**”
 >

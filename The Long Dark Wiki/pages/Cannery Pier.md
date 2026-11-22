@@ -4,25 +4,17 @@
 
 **Cannery Pier**
 
-[SS BI CanneryPier02](../assets/SS-BI-CanneryPier02.jpg)
-
-**Location**
-
-[Cannery Pier Location](../assets/Cannery_Pier_Location.png)
-
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
-
-**Description:** A wharf isolated from the rest of the Cannery due to pier deterioration
-
-**General**
-
-**Type:** Industrial
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Has an interior The **Cannery Pier** is a section of the [Last Resort Cannery](./Last%20Resort%20Cannery.md) in [Bleak Inlet](./Bleak%20Inlet.md), and houses the [Workshop](./Workshop.md).
+| Property | Details |
+| --- | --- |
+|  | [SS BI CanneryPier02](../assets/SS-BI-CanneryPier02.jpg) |
+| **Location** |  |
+|  | [Cannery Pier Location](../assets/Cannery_Pier_Location.png) |
+| Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
+| Description | A wharf isolated from the rest of the Cannery due to pier deterioration |
+| **General** |  |
+| Type | Industrial\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior The **Cannery Pier** is a section of the [Last Resort Cannery](./Last%20Resort%20Cannery.md) in [Bleak Inlet](./Bleak%20Inlet.md), and houses the [Workshop](./Workshop.md). |
 
 ## Overview
 

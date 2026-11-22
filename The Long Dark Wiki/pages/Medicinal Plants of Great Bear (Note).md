@@ -4,33 +4,22 @@
 
 **Medicinal Plants of Great Bear**
 
-[Medicinal Plants of Great Bear (Note) icon](../assets/Medicinal_Plants_of_Great_Bear_%28Note%29_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Basics of Survival](./The%20Basics%20of%20Survival.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A note with information about how to use plants to cure maladies
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Leave It
-
-**Advanced data**
-
-**Item key:** STORY\_PlantSurvivalNote
+| Property | Details |
+| --- | --- |
+|  | [Medicinal Plants of Great Bear (Note) icon](../assets/Medicinal_Plants_of_Great_Bear_%28Note%29_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) - [The Basics of Survival](./The%20Basics%20of%20Survival.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A note with information about how to use plants to cure maladies |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Leave It |
+| **Advanced data** |  |
+| Item key | STORY\_PlantSurvivalNote |
 
 **Medicinal Plants of Great Bear** is a [Collectible](./Collectibles.md) item cut from the Redux version of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of the [Wintermute](./Wintermute.md) story mode. It is unknown if this note was intended to be found inside of a pharmacy, as there is currently no pharmacy in [Milton](./Milton.md). Regardless, it was replaced by the book [Medicinal Plants of Great Bear](./Medicinal%20Plants%20of%20Great%20Bear.md) and is considered [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md).
 

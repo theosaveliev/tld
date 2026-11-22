@@ -4,29 +4,20 @@
 
 **Tactical Gloves**
 
-[Tactical Gloves icon](../assets/Tactical_Gloves_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)50%
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)7%
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)-1%
-
-**Harvest:** 1 × [Cured Leather](./Cured%20Leather.md) 10 minutes
-
-**Repair:** 1 × [Cured Leather](./Cured%20Leather.md) 30 minutes 25% condition
+| Property | Details |
+| --- | --- |
+|  | [Tactical Gloves icon](../assets/Tactical_Gloves_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.75 kg(1.65 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)1.5 °C(2.7 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)3.0 °C(5.4 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)50% |
+| Protection | [Protection icon](../assets/Protection_icon.png)7% |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)-1% |
+| Harvest | 1 × [Cured Leather](./Cured%20Leather.md) / 10 minutes |
+| Repair | 1 × [Cured Leather](./Cured%20Leather.md) / 30 minutes / 25% condition |
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

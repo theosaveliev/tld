@@ -1,18 +1,16 @@
 # Cargo Container
 
-**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cargo_Container)
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Cargo_Container)
 
 **Cargo Container**
 
-[Cargo container new](../assets/Cargo_container_new.jpg)
-
-**Release:** Dec 2015
-
-**Update:** [0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298)
-
-**Container**
-
-**Capacity:** 30.00 kg(66 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Cargo container new](../assets/Cargo_container_new.jpg) |
+| Release | Dec 2015 |
+| Update | [0.298](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.298) |
+| **Container** |  |
+| Capacity | 30.00 kg(66 lbs) |
 
 **Cargo Containers** are locked containers found in [Timberwolf Mountain](./Timberwolf%20Mountain.md) that can only be opened with a [Hacksaw](./Hacksaw.md).
 
@@ -22,7 +20,7 @@ Cargo Containers are loot-filled blue-green shipping devices scattered across Ti
 
 - Each Cargo Container has **two doors**, each of which can contain loot.
 - Cargo Containers must be opened with a Hacksaw.
-- If the Hacksaw used to unlock the compartment is low condition (&lt;50%) and the tool breaks on use, there is a chance the cargo door will become **permanently ruined**: preventing its cargo from ever being accessible.
+- If the Hacksaw used to unlock the compartment is low condition (<50%) and the tool breaks on use, there is a chance the cargo door will become **permanently ruined**: preventing its cargo from ever being accessible.
 - Items inside Cargo Containers, like other Containers will [Decay](./Decay.md) slowly over time (based on Game Mode). Ruined (0% Condition) Clothes will become unwearable, and ruined food and medical supplies will disappear unless removed before they decay completely.
 - Cargo Containers can hold 30kg, in both of their door.
 - About half of all Cargo Containers do not spawn in Interloper mode, and those which do appear contain less and lower quality loot.

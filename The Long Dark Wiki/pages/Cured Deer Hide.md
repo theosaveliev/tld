@@ -11,25 +11,18 @@
 
 **Cured Deer Hide**
 
-[Cured Deer Hide icon](../assets/Cured_Deer_Hide_icon.png)
-
-**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)
-
-**Wintermute:** No
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [Materials](./Materials.md)
-
-**Stackable:** No
-
-**Examine:** Hide from a Deer. Can be used for crafting and repair.
-
-**Values**
-
-**Weight:** 0.50 kg (1.1 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Cured Deer Hide icon](../assets/Cured_Deer_Hide_icon.png) |
+| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233) |
+| Wintermute | No |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [Materials](./Materials.md)\|- |
+| Stackable | No |
+| Examine | Hide from a Deer. Can be used for crafting and repair. |
+| **Values** |  |
+| Weight | 0.50 kg (1.1 lbs) |
 
 **Cured Deer Hide** is the dried hide of a [Fresh Deer Hide](./Fresh%20Deer%20Hide.md). It can be used as a [Material](./Materials.md) for crafting or repairing [Deerskin Pants](./Deerskin%20Pants.md) and [Deerskin Boots](./Deerskin%20Boots.md).
 

@@ -18,11 +18,11 @@
 
 **Archery**
 
-[Archery background](../assets/Archery_background.png)
-
-**Release:** [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364)
-
-**Date:** 23 September 2016
+| Property | Details |
+| --- | --- |
+|  | [Archery background](../assets/Archery_background.png) |
+| Release | [Vigilant Trespass (v0.364)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.364) |
+| Date | 23 September 2016 |
 
 ![Archery](../assets/Archery.png) **Archery** is a Survival [Skill](./Skills.md) that involves the use of a [Survival Bow](./Survival%20Bow.md) to hunt [Wildlife](./Wildlife.md).
 

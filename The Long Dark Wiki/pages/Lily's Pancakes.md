@@ -18,37 +18,24 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Lily's Pancakes**
 
-[Lily's Pancakes icon](../assets/Lily%27s_Pancakes_icon.png)
-
-**Release:** [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17)
-
-**Wintermute:** No
-
-**Renewable:** No ([Acorn Grounds](./Acorn%20Grounds.md))
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Values**
-
-**Calories:** 1000 (1250) kcal
-
-**Hydration:** 0.0%
-
-**[Vitamin C](./Scurvy.md):** Moderate (57%)
-
-**Weight:** 0.15 kg (0.33 lbs)
-
-**Decay Rate**
-
-**Inside:** 20.000% per day
-
-**Outside:** 5.000% per day
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_PeachPancake
+| Property | Details |
+| --- | --- |
+|  | [Lily's Pancakes icon](../assets/Lily%27s_Pancakes_icon.png) |
+| Release | [21 June 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.17) |
+| Wintermute | No |
+| Renewable | No ([Acorn Grounds](./Acorn%20Grounds.md)) |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| **Values** |  |
+| Calories | 1000 (1250) kcal |
+| Hydration | 0.0% |
+| [Vitamin C](./Scurvy.md) | Moderate (57%) |
+| Weight | 0.15 kg (0.33 lbs) |
+| **Decay Rate** |  |
+| Inside | 20.000% per day |
+| Outside | 5.000% per day |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_PeachPancake |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

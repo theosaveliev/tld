@@ -4,17 +4,14 @@
 
 **Lower Falls**
 
-[Lower Falls](../assets/Lower_Falls.jpg)
-
-**Location**
-
-[Lower Falls Location](../assets/Lower_Falls_Location.png)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Lower Falls](../assets/Lower_Falls.jpg) |
+| **Location** |  |
+|  | [Lower Falls Location](../assets/Lower_Falls_Location.png) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Overview
 

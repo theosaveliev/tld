@@ -4,17 +4,14 @@
 
 **Precarious Causeway**
 
-[No picture](../assets/No_picture.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[No picture](../assets/No_picture.png)
-
-**Details**
-
-**Connecting Regions:** [Desolation Point](./Desolation%20Point.md)
-
-**Difficulty:** Beginner
+| Property | Details |
+| --- | --- |
+|  | [No picture](../assets/No_picture.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [No picture](../assets/No_picture.png) |
+| **Details** |  |
+| Connecting Regions | [Desolation Point](./Desolation%20Point.md) |
+| Difficulty | Beginner |
 
 ![The Long Development White Logo](../assets/The_Long_Development_White_Logo.png)
 

@@ -4,19 +4,15 @@
 
 **Storm Lantern**
 
-[Storm Lantern icon](../assets/Storm_Lantern_icon.png)
-
-**General**
-
-**Item Type:** Tool
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
-
-**Harvest:** 1 × [Scrap Metal](./Scrap%20Metal.md) 0.00-1.00 KG [Lantern Fuel](./Lantern%20Fuel.md)
-
-**Repair:** [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) 1 × [Scrap Metal](./Scrap%20Metal.md) 45 to 30 min
+| Property | Details |
+| --- | --- |
+|  | [Storm Lantern icon](../assets/Storm_Lantern_icon.png) |
+| **General** |  |
+| Item Type | Tool\|- |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)1.00 kg(2.2 lbs) |
+| Harvest | 1 × [Scrap Metal](./Scrap%20Metal.md) / 0.00-1.00 KG [Lantern Fuel](./Lantern%20Fuel.md) |
+| Repair | [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) 1 × [Scrap Metal](./Scrap%20Metal.md) / 45 to 30 min |
 
 > “**Wind-proof storm lantern with mechanical ignitor. Burns kerosene.**”
 >

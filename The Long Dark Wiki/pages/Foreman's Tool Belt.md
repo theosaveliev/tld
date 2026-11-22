@@ -4,31 +4,21 @@
 
 **Foreman's Tool Belt**
 
-[Foreman's Tool Belt icon](../assets/Foreman%27s_Tool_Belt_icon.png)
-
-**General**
-
-Item Type
-
-Wintermute
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.20 kg(0.44 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0 °C(0 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)0
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)0
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0
-
-**Harvest:** 2 x [Cured Leather](./Cured%20Leather.md) 30 minutes
-
-**Repair:** 1 × [Cured Leather](./Cured%20Leather.md) 25 minutes 75% condition
+| Property | Details |
+| --- | --- |
+|  | [Foreman's Tool Belt icon](../assets/Foreman%27s_Tool_Belt_icon.png) |
+| **General** |  |
+| Item Type |  |
+| Wintermute |  |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.20 kg(0.44 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)0 °C(0 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)0 |
+| Protection | [Protection icon](../assets/Protection_icon.png)0 |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0 |
+| Harvest | 2 x [Cured Leather](./Cured%20Leather.md) / 30 minutes |
+| Repair | 1 × [Cured Leather](./Cured%20Leather.md) / 25 minutes / 75% condition |
 
 ![Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

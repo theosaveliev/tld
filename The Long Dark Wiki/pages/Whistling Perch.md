@@ -4,19 +4,15 @@
 
 **Whistling Perch**
 
-[Whistling Perch](../assets/Whistling_Perch.jpg)
-
-**Location**
-
-[Whistling Perch Location](../assets/Whistling_Perch_Location.png)
-
-Region
-
-**Location:** In the hills surrounding the road in the region's east
-
-**General**
-
-**Type:** Military/Sporting
+| Property | Details |
+| --- | --- |
+|  | [Whistling Perch](../assets/Whistling_Perch.jpg) |
+| **Location** |  |
+|  | [Whistling Perch Location](../assets/Whistling_Perch_Location.png) |
+| Region |  |
+| Location | In the hills surrounding the road in the region's east |
+| **General** |  |
+| Type | Military/Sporting\|- |
 
 ## Gallery
 

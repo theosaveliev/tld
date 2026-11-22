@@ -11,17 +11,14 @@
 
 **Furniture Workbench**
 
-[Furniture Workbench icon](../assets/Furniture_Workbench_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Values**
-
-**Weight:** 15.00 kg (33 lbs)
-
-**Actions**
-
-**Backpack:** Drop, Place
+| Property | Details |
+| --- | --- |
+|  | [Furniture Workbench icon](../assets/Furniture_Workbench_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 15.00 kg (33 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
 The **Furniture Workbench** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
@@ -99,3 +96,5 @@ The following Decorations are automatically placed into the player's inventory o
 | [Mounted Rockfish icon](../assets/Mounted_Rockfish_icon.png) [Mounted Rockfish](./Mounted%20Rockfish.md) | 1x [Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x [Rockfish (Raw) icon](../assets/Rockfish_%28Raw%29_icon.png) [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) | 4 Hours | 0.50 kg _(1.1 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
 | [Mounted Smallmouth Bass icon](../assets/Mounted_Smallmouth_Bass_icon.png) [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md) | 1x [Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 1x [Smallmouth Bass (Raw) icon](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) | 4 Hours | 0.50 kg _(1.1 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
 | [Rustic Stool icon](../assets/Rustic_Stool_icon.png) [Rustic Stool](./Rustic%20Stool.md) | 4x [Fir Firewood icon](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 2 Hours | 2.00 kg _(4.4 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+
+## Update History

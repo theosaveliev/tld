@@ -4,15 +4,13 @@
 
 **Stone Shelf Cave**
 
-[20201212003001 1](../assets/20201212003001_1.jpg)
-
-**Location**
-
-[Stone Shelf Cave Location](../assets/Stone_Shelf_Cave_Location.png)
-
-**Region:** [Ash Canyon](./Ash%20Canyon.md)
-
-**Type:** Cave
+| Property | Details |
+| --- | --- |
+|  | [20201212003001 1](../assets/20201212003001_1.jpg) |
+| **Location** |  |
+|  | [Stone Shelf Cave Location](../assets/Stone_Shelf_Cave_Location.png) |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| Type | Cave\|- |
 
 ## Overview
 

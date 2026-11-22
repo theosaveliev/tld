@@ -13,27 +13,19 @@
 
 **History of The Collapse**
 
-[History of The Collapse icon](../assets/History_of_The_Collapse_icon.png)
-
-**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
-
-**Actions**
-
-**Backpack:** Examine
-
-**On ground:** Take It, Read Text, Leave It
+| Property | Details |
+| --- | --- |
+|  | [History of The Collapse icon](../assets/History_of_The_Collapse_icon.png) |
+| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | Leaflet containing information about Great Bear Island, presented by the Great Bear Historical Society. |
+| **Values** |  |
+| Weight | 0.00 kg (0 lbs) |
+| **Actions** |  |
+| Backpack | Examine |
+| On ground | Take It, Read Text, Leave It |
 
 **History of Collapse** is the name given to 4 separate [Collectibles](./Collectibles.md) found in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) and [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story mode.
 

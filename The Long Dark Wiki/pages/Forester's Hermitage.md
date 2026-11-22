@@ -4,25 +4,17 @@
 
 **Forester's Hermitage**
 
-[Forestershermitage](../assets/Forestershermitage.png)
-
-**Location**
-
-[Forester's Hermitage Location](../assets/Forester%27s_Hermitage_Location.png)
-
-Region
-
-**Description:** A partially ruined cabin
-
-**General**
-
-**Firebox:** [Wood Stove](./Wood%20Stove.md)
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Provides some shelter **Forester's Hermitage** is a small ruined cabin and the only man-made refuge in the [Keeper's Pass North](./Keeper%27s%20Pass%20North.md).
+| Property | Details |
+| --- | --- |
+|  | [Forestershermitage](../assets/Forestershermitage.png) |
+| **Location** |  |
+|  | [Forester's Hermitage Location](../assets/Forester%27s_Hermitage_Location.png) |
+| Region |  |
+| Description | A partially ruined cabin |
+| **General** |  |
+| Firebox | [Wood Stove](./Wood%20Stove.md) |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Provides some shelter / **Forester's Hermitage** is a small ruined cabin and the only man-made refuge in the [Keeper's Pass North](./Keeper%27s%20Pass%20North.md). |
 
 ## Overview
 

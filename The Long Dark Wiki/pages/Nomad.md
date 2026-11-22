@@ -12,15 +12,13 @@
 
 **Nomad**
 
-[Challenge Nomad](../assets/Challenge_Nomad.png)
-
-**Details**
-
-**Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Pleasant Valley](./Pleasant%20Valley.md), [Coastal Highway](./Coastal%20Highway.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md), [Desolation Point](./Desolation%20Point.md)
-
-**Difficulty:** 3
-
-**Date Added:** June 2016
+| Property | Details |
+| --- | --- |
+|  | [Challenge Nomad](../assets/Challenge_Nomad.png) |
+| **Details** |  |
+| Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Pleasant Valley](./Pleasant%20Valley.md), [Coastal Highway](./Coastal%20Highway.md), [Timberwolf Mountain](./Timberwolf%20Mountain.md), [Desolation Point](./Desolation%20Point.md) |
+| Difficulty | 3 |
+| Date Added | June 2016 |
 
 > “__The world has changed. The only way to survive is to keep moving.  
  Survive for 3 days each in 15 specific locations across the game world.__”

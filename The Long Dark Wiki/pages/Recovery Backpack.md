@@ -4,13 +4,12 @@
 
 **Recovery Backpack**
 
-[Recovery Backpack](../assets/Recovery_Backpack.png)
-
-**Story item:** No
-
-**Container**
-
-**Capacity:** 5.00 kg(11 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Recovery Backpack](../assets/Recovery_Backpack.png) |
+| Story item | No |
+| **Container** |  |
+| Capacity | 5.00 kg(11 lbs) |
 
 _For an ordinary backpack, see [Backpack](./Backpack.md)._
 
@@ -32,3 +31,5 @@ If the player dies a second time and Cheats Death before recovering the first Re
 - Items will be permanently lost if the player again dies and Cheats Death before the previous Recovery Backpack is reclaimed.
 - Choosing to respawn via the "close but risky respawn" option to quickly obtain your items from the Recovery Backpack can be a gamble, and will most likely result in the player dying if they are unfamiliar with the local Region they last died in. The player will also often spawn at night with low condition clothing, possibly freezing to death in the dark. Keep this in mind.
 - It is entirely possible to lose rare or unique one of a kind items if you did not reclaim your first Recovery Backpack (such as [Tactical Gloves](./Tactical%20Gloves.md), [Vaughn's Rifle](./Vaughn%27s%20Rifle.md), etc). Make it a priority to recover your items to avoid this.
+
+## Recovery Backpack Locations

@@ -4,9 +4,10 @@
 
 **No Half-Measures**
 
-[No Half Measures icon](../assets/No_Half-Measures_icon.png)
-
-**Description:** Uncover the latest Forest Talker Plans.
+| Property | Details |
+| --- | --- |
+|  | [No Half Measures icon](../assets/No_Half-Measures_icon.png) |
+| Description | Uncover the latest Forest Talker Plans. |
 
 **No-Half Measures** is a [Wintermute](./Wintermute.md) [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of _[The Long Dark](./The%20Long%20Dark.md)_.
 

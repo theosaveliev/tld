@@ -12,19 +12,15 @@
 
 **Fallen Star/Transcript**
 
-[Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png)
-
-**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
-
-**Previous:** [Trauma/Transcript](./Trauma%20%E2%80%94%20Transcript.md)
-
-**Current:** Fallen Star/Transcript
-
-**Next:** [Coming Storm/Transcript](./Coming%20Storm%20%E2%80%94%20Transcript.md)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Father Thomas](./Father%20Thomas.md) [Crash Survivor](./Crash%20Survivor.md) [Molly](./Molly.md) [Jane Yang](./Jane%20Yang.md) (flashback)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep3 Triage](../assets/Missions_story_ep3_Triage.png) |
+| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Previous | [Trauma/Transcript](./Trauma%20%E2%80%94%20Transcript.md) |
+| Current | Fallen Star/Transcript |
+| Next | [Coming Storm/Transcript](./Coming%20Storm%20%E2%80%94%20Transcript.md) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
+| Characters | [Astrid Greenwood](./Astrid%20Greenwood.md) [Father Thomas](./Father%20Thomas.md) / [Crash Survivor](./Crash%20Survivor.md) / [Molly](./Molly.md) / [Jane Yang](./Jane%20Yang.md) (flashback) |
 
 This is the mission transcript for mission 2 [Fallen Star](./Fallen%20Star.md) of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 

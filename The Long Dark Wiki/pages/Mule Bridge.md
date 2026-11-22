@@ -4,19 +4,15 @@
 
 **Mule Bridge**
 
-[MuleBridge](../assets/MuleBridge.jpg)
-
-**Location**
-
-[Mule Bridge Location](../assets/Mule_Bridge_Location.png)
-
-Region
-
-**Description:** A bridge
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [MuleBridge](../assets/MuleBridge.jpg) |
+| **Location** |  |
+|  | [Mule Bridge Location](../assets/Mule_Bridge_Location.png) |
+| Region |  |
+| Description | A bridge |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Wintermute
 

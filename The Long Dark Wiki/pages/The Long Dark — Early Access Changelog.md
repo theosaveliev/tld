@@ -156,7 +156,7 @@ Size: 1.2 GB
 - Recreated the save system from scratch to future-proof the game
 - Added Charcoal Mapping into the game
 - Added Carcass Quartering System
-- Updated the scent system &amp; HUD element
+- Updated the scent system & HUD element
 - Updated visual lighting, fog color and fog distance
 - Updated the first-person presence
 - Removed the brandishing and brought back the old throwing mechanic
@@ -948,7 +948,7 @@ Released: 16 October 2015
 - Fixed fuel display on Inventory screen and Refuel screen.
 - Added gear pop-up for cooked or heated food items.
 
-- [Steam - The Long Dark Sandbox -- Updated to v.280 &amp; SteamOS/Linux News](http://steamcommunity.com/games/305620/announcements/detail/82547431661367900)
+- [Steam - The Long Dark Sandbox -- Updated to v.280 & SteamOS/Linux News](http://steamcommunity.com/games/305620/announcements/detail/82547431661367900)
 
 ### 0.271
 
@@ -1095,7 +1095,7 @@ The following changes apply to **PC/Mac players only**, and will be included in 
 
 Released: 1 August 2015
 
-&gt;&gt;&gt; [Please take a few minutes to review the update video](http://hinterlandgames.com/deep-forest-v-256/).
+>>> [Please take a few minutes to review the update video](http://hinterlandgames.com/deep-forest-v-256/).
 
 - Replaced abstract Foraging with Direct Harvesting mechanics. You can now harvest fuel and cloth directly from objects in the world. This is a new system that will likely require ongoing tuning into the future, so we appreciate all your feedback and patience!
 - Updated outdoor Campfire system. You now need to add fuel to increase the burn time and heat output of a fire. In Pilgrim and Voyageur experience modes, any fire will immediately halt all Condition loss due to Freezing (note that you won't warm up unless the fire temperature exceeds the outside temperature). In Stalker, the fire temperature needs to exceed the outdoor temperature before you begin to warm up.
@@ -1137,7 +1137,7 @@ Released: 1 August 2015
 
 Released: 19 June 2015
 
-- Issue where players with extra control devices plugged in (ex. steering wheel) will interfere with mouse &amp; keyboard controls. There will now be a "Gamepad Off" option that disables all non mouse &amp; keyboard devices.
+- Issue where players with extra control devices plugged in (ex. steering wheel) will interfere with mouse & keyboard controls. There will now be a "Gamepad Off" option that disables all non mouse & keyboard devices.
 - Issue with loot spawns and respawns in the Pleasant Valley Farmhouse. This is a pretty obscure issue where loot will appear and disappear depending on which doorway you enter.
 
 - [Steam - The Long Dark Sandbox Alpha -- HOTFIX to v.244](http://steamcommunity.com/games/305620/announcements/detail/233407377996717555)
@@ -1242,7 +1242,7 @@ Released: 22 May 2015
 - Arrows may occasionally intersect with invisible collision, giving them the appearance they are "floating". This is especially noticeable on trees.
 - You cannot currently select between Simple and Quality tools when crafting Arrowheads. The game automatically selects the better tools in your inventory.
 
-- [Steam - The Long Dark - The "Silent Hunter" Update (v.233) -- We've Added Bows &amp; Improved Hunting!](http://steamcommunity.com/games/305620/announcements/detail/235656499654813808)
+- [Steam - The Long Dark - The "Silent Hunter" Update (v.233) -- We've Added Bows & Improved Hunting!](http://steamcommunity.com/games/305620/announcements/detail/235656499654813808)
 
 ### 0.228
 
@@ -1441,7 +1441,7 @@ Released: 13 February 2015
 
 - fixed inspection mode issue introduced in v.198
 
-- [Steam - The Long Dark - HOTFIX: v.197, v.198, &amp; v.199 -- Optimization, Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/218759127663603163)
+- [Steam - The Long Dark - HOTFIX: v.197, v.198, & v.199 -- Optimization, Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/218759127663603163)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
 ### 0.198
@@ -1456,7 +1456,7 @@ Released: 13 February 2015
 - Fixed issue with footstep audio not respecting the global sound volume setting
 - Fixed incorrect time of day lighting during time lapse activities such as crafting
 
-- [Steam - The Long Dark - HOTFIX: v.197, v.198, &amp; v.199 -- Optimization, Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/218759127663603163)
+- [Steam - The Long Dark - HOTFIX: v.197, v.198, & v.199 -- Optimization, Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/218759127663603163)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
 ### 0.197
@@ -1465,7 +1465,7 @@ Released: 13 February 2015
 
 - Fix issue with Wolf spawn region population control in Coastal Highway.
 
-- [Steam - The Long Dark - HOTFIX: v.197, v.198, &amp; v.199 -- Optimization, Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/218759127663603163)
+- [Steam - The Long Dark - HOTFIX: v.197, v.198, & v.199 -- Optimization, Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/218759127663603163)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
 
 ### 0.196
@@ -1627,7 +1627,7 @@ Changelist for v.182 Hotfix
 
 Released: 17 December 2014
 
-The Long Dark -- Sandbox Alpha v.181 -- Experience Modes, German &amp; Russian, Craftable Clothing, Hot Drinks!
+The Long Dark -- Sandbox Alpha v.181 -- Experience Modes, German & Russian, Craftable Clothing, Hot Drinks!
 
 We're happy to share the 18th Update to The Long Dark since we brought the game to Steam Early Access in September.
 
@@ -1666,7 +1666,7 @@ _NOTE: All gameplay tuning is WIP. Balance issues and bugs will be addressed in 
 - Improved Night Sky starfield.
 - Reduced clothing damage from Blizzards.
 - Crafting now always succeeds provided the player has the required Materials.
-- Wolves will now Flee for much longer when bleeding out, improving the chasing &amp; tracking gameplay
+- Wolves will now Flee for much longer when bleeding out, improving the chasing & tracking gameplay
 - Fixed bugs causing injured wildlife to despawn.
 
 - Fixed issue where Fuel was consumed when cancelling Firestarting.
@@ -1679,7 +1679,7 @@ _NOTE: All gameplay tuning is WIP. Balance issues and bugs will be addressed in 
 - Fixed bug with player sometimes falling through world when restoring game while on a slope.
 - Fixed bug with the heat from fires not restoring after a save/load or scene transition.
 
-- [Steam - The Long Dark - NEW! Sandbox Alpha Update v.181 - Experience Modes, German &amp; Russian, Craftable Clothing, Hot Drinks!](http://steamcommunity.com/games/305620/announcements/detail/228886520353695750)
+- [Steam - The Long Dark - NEW! Sandbox Alpha Update v.181 - Experience Modes, German & Russian, Craftable Clothing, Hot Drinks!](http://steamcommunity.com/games/305620/announcements/detail/228886520353695750)
 
 ### 0.170
 
@@ -1735,7 +1735,7 @@ Released: 29 November 2014
 - Fixed several floating objects.
 - Fixed issue with Antibiotics and Painkillers not always stacking
 
-- [Steam - The Long Dark - HOTFIX v.166 -- Gameplay Tuning &amp; Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/226633361112863152)
+- [Steam - The Long Dark - HOTFIX v.166 -- Gameplay Tuning & Bug Fixes](http://steamcommunity.com/games/305620/announcements/detail/226633361112863152)
 
 ### 0.164
 
@@ -2034,8 +2034,8 @@ tld.exe -force-d3d9
 
 Released: 25 September 2014
 
-- Added control configuration to Options &gt; Key Bindings
-- Added vertical sync option to Options &gt; Display
+- Added control configuration to Options > Key Bindings
+- Added vertical sync option to Options > Display
 - Fixed framerate drop issues when inspecting items
 - Fixed issue with tools wearing out 2x normal speed when Foraging or Harvesting
 - Fixed rare crash that could occur in Repair and Harvest carcass screens
@@ -2046,7 +2046,7 @@ Released: 25 September 2014
 - Fixed issue with Encumbered label sometimes turning off
 - Holster current weapon/tool while eating/drinking/firstaid
 - Fixed audio issue with scrolling in the Log
-- Disabled the F1 Help (instead view bindings in Options &gt; Key Bindings)
+- Disabled the F1 Help (instead view bindings in Options > Key Bindings)
 
 - In adding the new key bindings options we have broken the Safecracking interface. The arrow keys will not rotate the dial. It is still possible to use the A/D keys to rotate the dial, however. We will fix this in the next update.
 
@@ -2062,7 +2062,7 @@ Released: 23 September 2014
 
 - Fixed compatibility issues with v.107 saves
 - Fixed issue with containers not resetting when "Start New Sandbox" selected after dying
-- Fixed typo on death screen (Sandobox -&gt; Sandbox)
+- Fixed typo on death screen (Sandobox -> Sandbox)
 
 - [Steam - The Long Dark - The Long Dark Launches on Early Access; Sandbox Alpha Update v.117 + v.118/v.119 Hotfixes](http://steamcommunity.com/games/305620/announcements/detail/225501228602994079)
 - [Hinterland Forums - Build Updates (Master List)](http://www.hinterlandforums.com/viewtopic.php?f=55&t=4562)
@@ -2272,7 +2272,7 @@ Released: 4 August 2014
 
 - Updated the build for a critical fix related to a crash bug caused by the following steps:
 
-1. Starting a fire outdoors, then having that fire get blown out from the wind (wind &gt; 25 MPH)
+1. Starting a fire outdoors, then having that fire get blown out from the wind (wind > 25 MPH)
 2. Entering an interior, then returning outside
 
 - [Hinterland Forums](https://hinterlandforums.com/forums/topic/627-alpha-sandbox-updated-to-v075/)

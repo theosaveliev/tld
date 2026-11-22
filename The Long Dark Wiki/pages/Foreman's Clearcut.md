@@ -4,21 +4,16 @@
 
 **Foreman's Clearcut**
 
-[Foreman's Clearcut](../assets/Foreman%27s_Clearcut.jpg)
-
-**Location**
-
-[Foreman's Clearcut Location](../assets/Foreman%27s_Clearcut_Location.png)
-
-Region
-
-**Location:** By the eastern road, close to [Cook's Farm](./Cook%27s%20Farm.md) and the path to [Timberwolf Mountain](./Timberwolf%20Mountain.md)
-
-**Description:** A smaller clearcut with a trailer.
-
-**General**
-
-**Type:** Industrial
+| Property | Details |
+| --- | --- |
+|  | [Foreman's Clearcut](../assets/Foreman%27s_Clearcut.jpg) |
+| **Location** |  |
+|  | [Foreman's Clearcut Location](../assets/Foreman%27s_Clearcut_Location.png) |
+| Region |  |
+| Location | By the eastern road, close to [Cook's Farm](./Cook%27s%20Farm.md) and the path to [Timberwolf Mountain](./Timberwolf%20Mountain.md) |
+| Description | A smaller clearcut with a trailer. |
+| **General** |  |
+| Type | Industrial\|- |
 
 ## Gallery
 

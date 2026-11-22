@@ -4,9 +4,10 @@
 
 **Desolation Point**
 
-[Desolation Point (Achievement) icon](../assets/Desolation_Point_%28Achievement%29_icon.png)
-
-**Description:** Craft a full set of improvised Tools.
+| Property | Details |
+| --- | --- |
+|  | [Desolation Point (Achievement) icon](../assets/Desolation_Point_%28Achievement%29_icon.png) |
+| Description | Craft a full set of improvised Tools. |
 
 **Desolation Point** is an [achievement](./The%20Long%20Dark%20%E2%80%94%20Achievements.md) in _[The Long Dark](./The%20Long%20Dark.md)_.
 
@@ -22,3 +23,5 @@ Forges are quite rare in the world: only four exist on [Great Bear Island](./Gre
 - [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) in [Forlorn Muskeg](./Forlorn%20Muskeg.md)
 - [Maintenance Shed](./Maintenance%20Yard.md) in [Broken Railroad](./Broken%20Railroad.md)
 - [Main Hangar](./Main%20Hangar.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) (requires [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) DLC)
+
+## Trivia

@@ -4,19 +4,15 @@
 
 **Juniper Runoff**
 
-[Juniper Runoff](../assets/Juniper_Runoff.jpg)
-
-**Location**
-
-[Juniper Runoff Location](../assets/Juniper_Runoff_Location.png)
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**Description:** A large slope below Perilous Crossing
-
-**General**
-
-Has no shelter **Juniper Runoff** is a location in [Sundered Pass](./Sundered%20Pass.md).
+| Property | Details |
+| --- | --- |
+|  | [Juniper Runoff](../assets/Juniper_Runoff.jpg) |
+| **Location** |  |
+|  | [Juniper Runoff Location](../assets/Juniper_Runoff_Location.png) |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| Description | A large slope below Perilous Crossing |
+| **General** |  |
+|  | Has no shelter **Juniper Runoff** is a location in [Sundered Pass](./Sundered%20Pass.md). |
 
 ## Overview
 

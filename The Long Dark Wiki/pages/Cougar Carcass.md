@@ -4,13 +4,12 @@
 
 **Cougar Carcass**
 
-[Cougar Carcass](../assets/Cougar_Carcass.jpg)
-
-**General**
-
-**Item Type:** Item
-
-**Wintermute:** No
+| Property | Details |
+| --- | --- |
+|  | [Cougar Carcass](../assets/Cougar_Carcass.jpg) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | No |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 

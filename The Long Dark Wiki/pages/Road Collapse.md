@@ -4,17 +4,14 @@
 
 **Road Collapse**
 
-[Road Collapse](../assets/Road_Collapse.jpg)
-
-**Location**
-
-[Road Collapse Location](../assets/Road_Collapse_Location.png)
-
-**Region:** [Old Island Connector](./Crumbling%20Highway.md)
-
-**General**
-
-**Type:** Landmark
+| Property | Details |
+| --- | --- |
+|  | [Road Collapse](../assets/Road_Collapse.jpg) |
+| **Location** |  |
+|  | [Road Collapse Location](../assets/Road_Collapse_Location.png) |
+| Region | [Old Island Connector](./Crumbling%20Highway.md)\|- |
+| **General** |  |
+| Type | Landmark\|- |
 
 ## Overview
 

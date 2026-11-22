@@ -4,31 +4,21 @@
 
 **T-Shirt (CM)**
 
-[T Shirt (CM) icon](../assets/T-Shirt_%28CM%29_icon.png)
-
-**General**
-
-**Item Type:** Clothing
-
-**Clothing Slot:** Inner torso
-
-**Statistics**
-
-**Weight:** [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
-
-**Warmth bonus:** [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F)
-
-**Windproof bonus:** [Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F)
-
-**Waterproof bonus:** [Waterproofness icon](../assets/Waterproofness_icon.png)0
-
-**Protection:** [Protection icon](../assets/Protection_icon.png)0
-
-**Mobility:** [Mobility icon](../assets/Mobility_icon.png)0
-
-**Harvest:** 1 × [Cloth](./Cloth.md) 10 minutes
-
-**Repair:** 1 × [Cloth](./Cloth.md) 30 minutes 35% condition
+| Property | Details |
+| --- | --- |
+|  | [T Shirt (CM) icon](../assets/T-Shirt_%28CM%29_icon.png) |
+| **General** |  |
+| Item Type | Clothing\|- |
+| Clothing Slot | Inner torso |
+| **Statistics** |  |
+| Weight | [Weight icon](../assets/Weight_icon.png)0.25 kg(0.55 lbs) |
+| Warmth bonus | [Temp icon](../assets/Temp_icon.png)0.5 °C(0.9 °F) |
+| Windproof bonus | [Windproofness icon](../assets/Windproofness_icon.png)0 °C(0 °F) |
+| Waterproof bonus | [Waterproofness icon](../assets/Waterproofness_icon.png)0 |
+| Protection | [Protection icon](../assets/Protection_icon.png)0 |
+| Mobility | [Mobility icon](../assets/Mobility_icon.png)0 |
+| Harvest | 1 × [Cloth](./Cloth.md) / 10 minutes |
+| Repair | 1 × [Cloth](./Cloth.md) / 30 minutes / 35% condition |
 
 [Ptarmigan icon](../assets/Ptarmigan_icon.png)
 
@@ -49,3 +39,5 @@ The T-shirt is the worst inner torso clothing in the game. This is more rare tha
 ![Clothing model](../assets/T-Shirt_%28CM%29_model.png)
 
 ![Clothing model damaged](../assets/T-Shirt_%28CM%29_model_damaged.png)
+
+## Update history

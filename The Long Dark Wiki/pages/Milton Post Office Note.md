@@ -4,21 +4,16 @@
 
 **Milton Post Office Note**
 
-[Milton Post Office Note icon](../assets/Milton_Post_Office_Note_icon.png)
-
-**Wintermute:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A scrap of paper found in Milton Post Office.
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Milton Post Office Note icon](../assets/Milton_Post_Office_Note_icon.png) |
+| Wintermute | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A scrap of paper found in Milton Post Office. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
 
 The following text is transcribed from the note **Milton Post Office Note**, found in the [Milton Post Office](./Milton%20Post%20Office.md) on a chair behind the counter in [Episode 1: Do Not Go Gentle](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md).
 

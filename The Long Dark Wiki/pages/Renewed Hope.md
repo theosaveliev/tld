@@ -4,19 +4,15 @@
 
 **Renewed Hope**
 
-[Missions story ep2 Renewed Hope](../assets/Missions_story_ep2_Renewed_Hope.png)
-
-**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
-
-**Previous:** [What One Man Can Do](./What%20One%20Man%20Can%20Do.md)
-
-**Current:** Renewed Hope
-
-**Next:** [Trauma](./Trauma.md)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md) [Methuselah](./Methuselah.md) [Mathis](./Mathis.md)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep2 Renewed Hope](../assets/Missions_story_ep2_Renewed_Hope.png) |
+| Episode | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)\|- |
+| Previous | [What One Man Can Do](./What%20One%20Man%20Can%20Do.md) |
+| Current | Renewed Hope |
+| Next | [Trauma](./Trauma.md) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Jeremiah](./Jeremiah.md) / [Methuselah](./Methuselah.md) / [Mathis](./Mathis.md) |
 
 **Template:spoiler**
 

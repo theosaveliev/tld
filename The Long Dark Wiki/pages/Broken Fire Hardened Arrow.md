@@ -4,25 +4,18 @@
 
 **Broken Fire Hardened Arrow**
 
-[Broken Fire Hardened Arrow icon](../assets/Broken_Fire_Hardened_Arrow_icon.png)
-
-**Release:** [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** Yes
-
-**Values**
-
-**Weight:** 0.15 kg (0.33 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_BrokenArrowHardened
+| Property | Details |
+| --- | --- |
+|  | [Broken Fire Hardened Arrow icon](../assets/Broken_Fire_Hardened_Arrow_icon.png) |
+| Release | [30 March 2023](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | Yes |
+| **Values** |  |
+| Weight | 0.15 kg (0.33 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_BrokenArrowHardened |
 
 > “**A broken Fire Hardened Arrow. Harvesting these crude weapons may yield some feathers, but nothing more.**”
 

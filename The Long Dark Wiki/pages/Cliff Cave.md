@@ -4,21 +4,16 @@
 
 **Cliff Cave**
 
-[Cliff Cave](../assets/Cliff_Cave.jpg)
-
-**Location**
-
-[Cliff Cave Location](../assets/Cliff_Cave_Location.png)
-
-Region
-
-**Description:** A small cave hidden underneath a cliff
-
-**General**
-
-**Type:** Cave
-
-Provides some shelter **Cliff's Cave** is just one of the many small caves located in [Blackrock](./Blackrock.md).
+| Property | Details |
+| --- | --- |
+|  | [Cliff Cave](../assets/Cliff_Cave.jpg) |
+| **Location** |  |
+|  | [Cliff Cave Location](../assets/Cliff_Cave_Location.png) |
+| Region |  |
+| Description | A small cave hidden underneath a cliff |
+| **General** |  |
+| Type | Cave\|- |
+|  | Provides some shelter / **Cliff's Cave** is just one of the many small caves located in [Blackrock](./Blackrock.md). |
 
 ## Overview
 

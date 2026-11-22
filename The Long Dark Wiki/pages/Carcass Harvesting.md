@@ -14,11 +14,11 @@
 
 **Carcass Harvesting**
 
-[Carcass Harvesting background](../assets/Carcass_Harvesting_background.png)
-
-**Release:** [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346)
-
-**Date:** 23 June 2016
+| Property | Details |
+| --- | --- |
+|  | [Carcass Harvesting background](../assets/Carcass_Harvesting_background.png) |
+| Release | [Penitent Scholar (v0.346)](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346) |
+| Date | 23 June 2016 |
 
 ![|left|alt=Carcass harvesting|80px](../assets/Carcass_Harvesting.png)
 
@@ -51,7 +51,7 @@ Survivor's skill level also affects the freeze level at which unfrozen meat harv
 - Level 4: Carcasses below or equal to 75% freeze level use the unfrozen meat harvesting speed.
 - Level 5: Carcasses below or equal to 100% freeze level use the unfrozen meat harvesting speed.
 
-This makes Hatchets &amp; Hacksaws good starting tools for meat harvesting, since they have better frozen meat harvesting speed, but end up losing that situational bonus at higher levels, and as such get completely outclassed by hunting knives at skill level 5.
+This makes Hatchets & Hacksaws good starting tools for meat harvesting, since they have better frozen meat harvesting speed, but end up losing that situational bonus at higher levels, and as such get completely outclassed by hunting knives at skill level 5.
 
 | Tool — Meat | Tool — Frozen Meat | Harvest rate (minutes per kg) — Hide | Harvest rate (minutes per kg) — Gut | Harvest rate (minutes per unit) | Harvest rate (minutes per unit) | Tool decay (per hour) |
 | --- | --- | --- | --- | --- | --- | --- |

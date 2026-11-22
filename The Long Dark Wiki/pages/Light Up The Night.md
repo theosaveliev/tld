@@ -14,13 +14,12 @@
 
 **Light Up The Night**
 
-[Distress Pistol icon](../assets/Distress_Pistol_icon.png)
-
-**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Current:** Light Up The Night
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
+| Property | Details |
+| --- | --- |
+|  | [Distress Pistol icon](../assets/Distress_Pistol_icon.png) |
+| Episode | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)\|- |
+| Current | Light Up The Night |
+| Region | [Mountain Town](./Mountain%20Town.md) |
 
 **Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
 

@@ -13,19 +13,15 @@
 
 **Aftermath/Transcript**
 
-[Missions story ep3 Aftermath](../assets/Missions_story_ep3_Aftermath.png)
-
-**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
-
-**Previous:** [Coming Storm/Transcript](./Coming%20Storm%20%E2%80%94%20Transcript.md)
-
-**Current:** Aftermath/Transcript
-
-**Next:** [Prologue/Transcript](./Prologue%20%E2%80%94%20Transcript.md)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**Characters:** [Astrid](./Astrid%20Greenwood.md) [Molly](./Molly.md) [Radio Voice Man](./Characters.md#Radio_Voice_Man) [Will Mackenzie](./Will%20Mackenzie.md) [Father Thomas](./Father%20Thomas.md) (ending cameo)
+| Property | Details |
+| --- | --- |
+|  | [Missions story ep3 Aftermath](../assets/Missions_story_ep3_Aftermath.png) |
+| Episode | [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)\|- |
+| Previous | [Coming Storm/Transcript](./Coming%20Storm%20%E2%80%94%20Transcript.md) |
+| Current | Aftermath/Transcript |
+| Next | [Prologue/Transcript](./Prologue%20%E2%80%94%20Transcript.md) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md) |
+| Characters | [Astrid](./Astrid%20Greenwood.md) [Molly](./Molly.md) / [Radio Voice Man](./Characters.md#Radio_Voice_Man) / [Will Mackenzie](./Will%20Mackenzie.md) / [Father Thomas](./Father%20Thomas.md) (ending cameo) |
 
 This is the mission transcript for mission 4 [Aftermath](./Aftermath.md) of [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md).
 

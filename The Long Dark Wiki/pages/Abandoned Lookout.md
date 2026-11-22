@@ -13,25 +13,17 @@
 
 **Abandoned Lookout**
 
-[New forestry lookout](../assets/New_forestry_lookout.jpg)
-
-**Location**
-
-[Abandoned Lookout map](../assets/Abandoned_Lookout_map.png)
-
-**Region:** [Coastal Highway](./Coastal%20Highway.md)
-
-**Description:** A fire lookout tower
-
-**General**
-
-**Type:** Military/Sporting
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Provides some shelter **Abandoned Lookout** is small, abandoned lookout tower located to the north in [Coastal Highway](./Coastal%20Highway.md).
+| Property | Details |
+| --- | --- |
+|  | [New forestry lookout](../assets/New_forestry_lookout.jpg) |
+| **Location** |  |
+|  | [Abandoned Lookout map](../assets/Abandoned_Lookout_map.png) |
+| Region | [Coastal Highway](./Coastal%20Highway.md)\|- |
+| Description | A fire lookout tower |
+| **General** |  |
+| Type | Military/Sporting\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Provides some shelter **Abandoned Lookout** is small, abandoned lookout tower located to the north in [Coastal Highway](./Coastal%20Highway.md). |
 
 ## Overview
 

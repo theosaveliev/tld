@@ -4,15 +4,13 @@
 
 **Lake Overlook**
 
-[Mystery Lake Overlook](../assets/Mystery_Lake_Overlook.jpg)
-
-**Location**
-
-[Lake Overlook Location](../assets/Lake_Overlook_Location.png)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Mystery Lake Overlook](../assets/Mystery_Lake_Overlook.jpg) |
+| **Location** |  |
+|  | [Lake Overlook Location](../assets/Lake_Overlook_Location.png) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Type | Outdoors\|- |
 
 ## Overview
 

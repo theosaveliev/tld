@@ -4,25 +4,16 @@
 
 **Angler's Den**
 
-[AnglersDenOutside 1080p](../assets/AnglersDenOutside_1080p.png)
-
-**Location**
-
-[Angler's Den Location](../assets/Angler%27s_Den_Location.png)
-
-**Region:** [Ash Canyon](./Ash%20Canyon.md)
-
-**General**
-
-**Type:** Military/Sporting
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-[Workbench icon green](../assets/Workbench_icon_green.png)
-
-Has a workbench
+| Property | Details |
+| --- | --- |
+|  | [AnglersDenOutside 1080p](../assets/AnglersDenOutside_1080p.png) |
+| **Location** |  |
+|  | [Angler's Den Location](../assets/Angler%27s_Den_Location.png) |
+| Region | [Ash Canyon](./Ash%20Canyon.md)\|- |
+| **General** |  |
+| Type | Military/Sporting\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
 
 ## Overview
 

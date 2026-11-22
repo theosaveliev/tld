@@ -4,17 +4,14 @@
 
 **Ogre's Teardrop**
 
-[Ogre's Teardrop](../assets/Ogre%27s_Teardrop.jpg)
-
-**Location**
-
-[Ogre's Teardrop Location](../assets/Ogre%27s_Teardrop_Location.png)
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**General**
-
-Has no shelter **Ogre's Teardrop** is a frozen waterfall located in [Sundered Pass](./Sundered%20Pass.md). It is located deep below the valley and is a short walk from [Juniper Runoff](./Juniper%20Runoff.md) and under [Perilous Crossing](./Perilous%20Crossing.md).
+| Property | Details |
+| --- | --- |
+|  | [Ogre's Teardrop](../assets/Ogre%27s_Teardrop.jpg) |
+| **Location** |  |
+|  | [Ogre's Teardrop Location](../assets/Ogre%27s_Teardrop_Location.png) |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| **General** |  |
+|  | Has no shelter **Ogre's Teardrop** is a frozen waterfall located in [Sundered Pass](./Sundered%20Pass.md). It is located deep below the valley and is a short walk from [Juniper Runoff](./Juniper%20Runoff.md) and under [Perilous Crossing](./Perilous%20Crossing.md). |
 
 ## Overview
 

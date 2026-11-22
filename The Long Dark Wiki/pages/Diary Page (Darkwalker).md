@@ -19,21 +19,16 @@
 
 **Diary Page (Darkwalker)**
 
-[Diary Page (Darkwalker) icon](../assets/Diary_Page_%28Darkwalker%29_icon.png)
-
-**Release:** [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86)
-
-**Properties**
-
-**Item type:** [Collectibles](./Collectibles.md)
-
-**Stackable:** No
-
-**Examine:** A page torn from a notebook.
-
-**Values**
-
-**Weight:** 0 kg (0 lbs)
+| Property | Details |
+| --- | --- |
+|  | [Diary Page (Darkwalker) icon](../assets/Diary_Page_%28Darkwalker%29_icon.png) |
+| Release | [29 Oct 2020](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86) |
+| **Properties** |  |
+| Item type | [Collectibles](./Collectibles.md)\|- |
+| Stackable | No |
+| Examine | A page torn from a notebook. |
+| **Values** |  |
+| Weight | 0 kg (0 lbs) |
 
 **Diary Page** is a series of [Collectibles](./Collectibles.md) found only in the [Challenge](./Challenge.md) [Escape the Darkwalker](./Escape%20the%20Darkwalker.md).
 
@@ -105,4 +100,4 @@ I discarded the farsighted mask, and only bone remains. The gate is closed. Will
 
 \* UPDATE **29 Oct 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.86)):**
 
-  - Added to game.
+- Added to game.

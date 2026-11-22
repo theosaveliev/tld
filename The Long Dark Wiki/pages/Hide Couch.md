@@ -11,17 +11,14 @@
 
 **Hide Couch**
 
-[Hide Couch icon](../assets/Hide_Couch_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Values**
-
-**Weight:** 10.00 kg (22 lbs)
-
-**Actions**
-
-**Backpack:** Drop, Place
+| Property | Details |
+| --- | --- |
+|  | [Hide Couch icon](../assets/Hide_Couch_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 10.00 kg (22 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
 The **Hide Couch** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
@@ -60,3 +57,5 @@ The Hide Chair can be harvested with a [Hatchet](./Hatchet.md) in 2 hours 38 min
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 
 **Quantity:** 15
+
+## Update History

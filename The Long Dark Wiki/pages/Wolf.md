@@ -40,19 +40,15 @@
 
 **Wolf**
 
-[Wolf](../assets/Wolf.png)
-
-**Basic Information**
-
-**Release:** [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md)
-
-**Role:** Predator
-
-**Physical Information**
-
-**Color:** Black
-
-**Size:** Medium
+| Property | Details |
+| --- | --- |
+|  | [Wolf](../assets/Wolf.png) |
+| **Basic Information** |  |
+| Release | [12 June 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md) |
+| Role | Predator |
+| **Physical Information** |  |
+| Color | Black |
+| Size | Medium |
 
   **Wolves** are iconic [Wildlife](./Wildlife.md) in _[The Long Dark](./The%20Long%20Dark.md)._ In [Survival Mode](./Survival%20Mode.md) and [Wintermute](./Wintermute.md) they are a primary threat to survival on [Great Bear Island](./Great%20Bear%20Island.md) and can be found in all major [regions](./Region.md).
 
@@ -201,9 +197,9 @@ Struggles are best avoided, but are sometimes inevitable:
 
 ### Weakness
 
-If the survivor is weak due to low [Condition](./Condition.md) or some [Afflictions](./Afflictions.md) then wolves will act more aggressively towards them: charging from ~50% greater distance (&lt;15m normally to &lt;21m if Weak). **This particularly dangerous since allow wolves to charge in situations where they would normally flee** (e.g. survivor is holding a lit [Torch](./Torch.md) and sprints towards a wolf). These effects are binary (the survivor is either Weak or not) and do not stack, they are:
+If the survivor is weak due to low [Condition](./Condition.md) or some [Afflictions](./Afflictions.md) then wolves will act more aggressively towards them: charging from ~50% greater distance (<15m normally to <21m if Weak). **This particularly dangerous since allow wolves to charge in situations where they would normally flee** (e.g. survivor is holding a lit [Torch](./Torch.md) and sprints towards a wolf). These effects are binary (the survivor is either Weak or not) and do not stack, they are:
 
-- &lt;20% [Condition](./Condition.md) (aka the Condition meter is red, 'low Condition' music plays, survivor may start 'wobbling' their movement)
+- <20% [Condition](./Condition.md) (aka the Condition meter is red, 'low Condition' music plays, survivor may start 'wobbling' their movement)
 - 0% [Fatigue](./Fatigue.md) ("Exhausted")
 - Overencumbered (aka "Sprain Risk", carrying weight exceeds current maximum)
 - [Blood Loss](./Blood%20Loss.md) **(Note: Blood Loss also increases the surivor's [Scent](./Scent.md))**
@@ -287,11 +283,11 @@ Wolves will actively pursue or flee from targets they detect or situations, orde
   8. Charged but unable to initiate Struggle/Prey Kill after ~10 real-time seconds.
   9. Thrown lit [Flare](./Flare.md)/[Marine Flare](./Marine%20Flare.md) (~20m) (50% chance), or lit [Torch](./Torch.md) (33% chance)
   10. Hold Ground for ~10 in-game minutes
-3. _[Struggle](./Struggle.md)/Kill Prey:_ Wolves will enter a struggles or kill prey they are actively hunting (&lt;1m) survivor detected (&lt;1m). Only one wolf may be in a struggle with the survivor at a time.
-4. _Hold Ground:_ While holding ground wolves will spread their forelegs and ears, lower their heads and growl at the survivor and will not move. e.g. Survivor detected but wolf is unable to move (e.g. Eating Prey, survivor is in a non-pathable location, Stalking survivor at 10m away but survivor is &lt;5m of a respected [light source](./Torch.md) (e.g. non-aurora wolf and player is near lit [campfire](./Campfire.md)). **Note: Wolves will "Hold Ground" only temporarily if charging the survivor and they are holding a respected light source (e.g. survivor is 10m from wolf stalking them while holding lit [torch](./Torch.md)).**
+3. _[Struggle](./Struggle.md)/Kill Prey:_ Wolves will enter a struggles or kill prey they are actively hunting (<1m) survivor detected (<1m). Only one wolf may be in a struggle with the survivor at a time.
+4. _Hold Ground:_ While holding ground wolves will spread their forelegs and ears, lower their heads and growl at the survivor and will not move. e.g. Survivor detected but wolf is unable to move (e.g. Eating Prey, survivor is in a non-pathable location, Stalking survivor at 10m away but survivor is <5m of a respected [light source](./Torch.md) (e.g. non-aurora wolf and player is near lit [campfire](./Campfire.md)). **Note: Wolves will "Hold Ground" only temporarily if charging the survivor and they are holding a respected light source (e.g. survivor is 10m from wolf stalking them while holding lit [torch](./Torch.md)).**
 5. _Eat Prey:_ The wolf will consume prey ([Rabbit](./Rabbit.md), [Ptarmigan](./Ptarmigan.md) or [Deer](./Deer.md)) they have personally hunted until there is nothing left to harvest or the wolf flees. Whole Eating Prey the wolf's detection radius is reduced (-75%). Only one wolf will hunt/eat a prey animal.'s yields are depleted if the wolf flees.
-6. _Charge:_ detected survivor or hunted prey (&lt;10m, &lt;21m if survivor is Weak), **or if the survivor any weapon wh**A wolf will stalk the survivor if they detect them (&gt;10m) at **walking speed if within 10-20m**, and will **sprint if beyond 20m until they are 20m away**.**g them.**
-7. _Stalk:_ detect survivor (&gt;10m). **Only one** If**f**multiple wolves **k the survivor at on**,**e**the wolf with the closest spawn point to the survivor's current coordinates will Stalk while all other wolf(s) will Hold Ground.**20m until they are 20m from the survivor**.
+6. _Charge:_ detected survivor or hunted prey (<10m, <21m if survivor is Weak), **or if the survivor any weapon wh**A wolf will stalk the survivor if they detect them (>10m) at **walking speed if within 10-20m**, and will **sprint if beyond 20m until they are 20m away**.**g them.**
+7. _Stalk:_ detect survivor (>10m). **Only one** If**f**multiple wolves **k the survivor at on**,**e**the wolf with the closest spawn point to the survivor's current coordinates will Stalk while all other wolf(s) will Hold Ground.**20m until they are 20m from the survivor**.
 8. _Hunt:_ see live prey wildlife not being hunted by any wolf.
 9. _Investigate Smell:_ dropped [Decoy](./Scent.md#Baiting/Decoys) or [Survivor Scent](./Scent.md). Note: wolves detect dropped Decoy based on distance regardless terrain or line-of-sight blockers, and investigate the **initial coordinates** of a smelly survivor **not the survivor's current coordinates.**
 10. _Wander:_ return to spawn point and wande

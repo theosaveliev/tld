@@ -4,35 +4,23 @@
 
 **Military-Grade MRE**
 
-[Military Grade MRE icon](../assets/Military-Grade_MRE_icon.png)
-
-**Release:** [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117)
-
-**Wintermute:** Yes
-
-**Renewable:** Yes ([Beachcombing](./Beachcombing.md) and [Trader](./Trader.md)) no (Interloper)
-
-**Properties**
-
-**Item type:** [Food And Drink](./Food%20And%20Drink.md)
-
-**Stackable:** No
-
-**Examine:** Contemporary MRE, good quality, and meets all technical requirements to be considered real food! Designed to keep a soldier on their feet.
-
-**Values**
-
-**Calories:** 1750 kcal
-
-**Hydration:** 5%
-
-**[Vitamin C](./Scurvy.md):** Major (65%)
-
-**Weight:** 0.50 kg (1.1 lbs)
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_MilitaryGradeMRE
+| Property | Details |
+| --- | --- |
+|  | [Military Grade MRE icon](../assets/Military-Grade_MRE_icon.png) |
+| Release | [22 September 2014](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.117) |
+| Wintermute | Yes |
+| Renewable | Yes ([Beachcombing](./Beachcombing.md) and [Trader](./Trader.md)) no (Interloper) |
+| **Properties** |  |
+| Item type | [Food And Drink](./Food%20And%20Drink.md)\|- |
+| Stackable | No |
+| Examine | Contemporary MRE, good quality, and meets all technical requirements to be considered real food! Designed to keep a soldier on their feet. |
+| **Values** |  |
+| Calories | 1750 kcal |
+| Hydration | 5% |
+| [Vitamin C](./Scurvy.md) | Major (65%) |
+| Weight | 0.50 kg (1.1 lbs) |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_MilitaryGradeMRE |
 
 **Military-Grade MRE** is a packaged [food](./Food%20And%20Drink.md) item in _[The Long Dark](./The%20Long%20Dark.md)_.
 

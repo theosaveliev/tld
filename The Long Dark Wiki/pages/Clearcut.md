@@ -4,19 +4,15 @@
 
 **Clearcut**
 
-[Clearcut 01](../assets/Clearcut_01.jpg)
-
-**Location**
-
-[Clearcut Location](../assets/Clearcut_Location.png)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**Description:** A clear cut logging area.
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Clearcut 01](../assets/Clearcut_01.jpg) |
+| **Location** |  |
+|  | [Clearcut Location](../assets/Clearcut_Location.png) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Description | A clear cut logging area. |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

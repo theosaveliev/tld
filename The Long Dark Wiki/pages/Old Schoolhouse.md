@@ -4,19 +4,15 @@
 
 **Old Schoolhouse**
 
-[Milton's Old Schoolhouse.](../assets/TLD-SSb-MT-Oldschool.jpg) _[Milton](./Milton.md)'s Old Schoolhouse._
-
-**Location**
-
-[Old Schoolhouse Location](../assets/Old_Schoolhouse_Location.png)
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
-
-**Description:** A destroyed schoolhouse
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Milton's Old Schoolhouse.](../assets/TLD-SSb-MT-Oldschool.jpg) / _[Milton](./Milton.md)'s Old Schoolhouse._ |
+| **Location** |  |
+|  | [Old Schoolhouse Location](../assets/Old_Schoolhouse_Location.png) |
+| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Description | A destroyed schoolhouse |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

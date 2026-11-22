@@ -11,23 +11,16 @@
 
 **The Riken**
 
-[The Riken](../assets/The_Riken.jpg)
-
-**Location**
-
-[The Riken Location](../assets/The_Riken_Location.png)
-
-**Region:** [Desolation Point](./Desolation%20Point.md)
-
-**Description:** An old whaling ship
-
-**General**
-
-**Type:** Industrial
-
-[Forge icon green](../assets/Forge_icon_green.png)
-
-Has a forge
+| Property | Details |
+| --- | --- |
+|  | [The Riken](../assets/The_Riken.jpg) |
+| **Location** |  |
+|  | [The Riken Location](../assets/The_Riken_Location.png) |
+| Region | [Desolation Point](./Desolation%20Point.md)\|- |
+| Description | An old whaling ship |
+| **General** |  |
+| Type | Industrial\|- |
+| [Forge icon green](../assets/Forge_icon_green.png) | Has a forge\|- |
 
 ## Overview
 
@@ -37,7 +30,7 @@ The Riken is a wrecked whaling ship located between the [Lonely Lighthouse](./Lo
 
 The ship has four decks: the boiler deck, upper deck, weather deck and bridge deck.
 
-The boiler deck is dark but contains crates, metal shelves and a furnace &amp; forge at the end of the deck. The forge here is one of the only places in the game where you can conduct [forging](./Forge.md) (the other three are at the Field 31 in [Forsaken Airfield](./Forsaken%20Airfield.md), [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) in [Forlorn Muskeg](./Forlorn%20Muskeg.md) and at [Maintenance Yard](./Maintenance%20Yard.md) in [Broken Railroad](./Broken%20Railroad.md)). There are some pieces of coal scattered about that can be useful for forging (but there is no [Heavy Hammer](./Heavy%20Hammer.md) which is required to forge). Firing up the forge causes smoke to be emitted from the ship's exhaust pipe on the outside.
+The boiler deck is dark but contains crates, metal shelves and a furnace & forge at the end of the deck. The forge here is one of the only places in the game where you can conduct [forging](./Forge.md) (the other three are at the Field 31 in [Forsaken Airfield](./Forsaken%20Airfield.md), [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) in [Forlorn Muskeg](./Forlorn%20Muskeg.md) and at [Maintenance Yard](./Maintenance%20Yard.md) in [Broken Railroad](./Broken%20Railroad.md)). There are some pieces of coal scattered about that can be useful for forging (but there is no [Heavy Hammer](./Heavy%20Hammer.md) which is required to forge). Firing up the forge causes smoke to be emitted from the ship's exhaust pipe on the outside.
 
 The upper deck has bunk beds, a small kitchen to loot, and access to both the boiler deck and weather deck.
 

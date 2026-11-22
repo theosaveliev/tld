@@ -4,19 +4,15 @@
 
 **Dave's Quiet Clearing**
 
-[Dave's quiet clearing](../assets/Dave%27s_quiet_clearing.jpg)
-
-**Location**
-
-[Dave's Quiet Clearing Location](../assets/Dave%27s_Quiet_Clearing_Location.png)
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**Description:** A cave-like formation with a mostly open roof.
-
-**General**
-
-**Type:** Outdoors
+| Property | Details |
+| --- | --- |
+|  | [Dave's quiet clearing](../assets/Dave%27s_quiet_clearing.jpg) |
+| **Location** |  |
+|  | [Dave's Quiet Clearing Location](../assets/Dave%27s_Quiet_Clearing_Location.png) |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| Description | A cave-like formation with a mostly open roof. |
+| **General** |  |
+| Type | Outdoors\|- |
 
 ## Overview
 

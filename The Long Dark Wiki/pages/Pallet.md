@@ -4,17 +4,14 @@
 
 **Pallet**
 
-[Pallet](../assets/Pallet.jpg)
-
-**General**
-
-**Item Type:** Item
-
-**Wintermute:** No
-
-**Statistics**
-
-**Harvest:** 3 × [Reclaimed Wood](./Reclaimed%20Wood.md)
+| Property | Details |
+| --- | --- |
+|  | [Pallet](../assets/Pallet.jpg) |
+| **General** |  |
+| Item Type | Item |
+| Wintermute | No |
+| **Statistics** |  |
+| Harvest | 3 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
 
 _For a stack of Pallets, see [Pallets](./Pallets.md)._
 

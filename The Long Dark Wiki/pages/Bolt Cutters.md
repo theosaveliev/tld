@@ -14,29 +14,20 @@
 
 **Bolt Cutters**
 
-[Bolt Cutters icon](../assets/Bolt_Cutters_icon.png)
-
-**Release:** [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00)
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** A heavy tool designed to cut through metal bolts and chains.
-
-**Values**
-
-**Weight:** 1.50 kg (3.3 lbs)
-
-**Actions**
-
-**Backpack:** Pick Up, Examine, Drop
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_BoltCutters
+| Property | Details |
+| --- | --- |
+|  | [Bolt Cutters icon](../assets/Bolt_Cutters_icon.png) |
+| Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md#1.00) |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | A heavy tool designed to cut through metal bolts and chains. |
+| **Values** |  |
+| Weight | 1.50 kg (3.3 lbs) |
+| **Actions** |  |
+| Backpack | Pick Up, Examine, Drop |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_BoltCutters |
 
 **Bolt Cutters** are a [Tool](./Tools.md) used briefly in [Wintermute](./Wintermute.md) to open locked gates at specific points in the story. Bolt Cutter can then be carried or dropped after this point and serve no other function for the remainder of the Episode.
 

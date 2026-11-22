@@ -11,29 +11,19 @@
 
 **Milton House (Grey Mother's)**
 
-[Milton House (Grey Mother's)](../assets/Milton_House_%28Grey_Mother%27s%29.png)
-
-**Location**
-
-[Milton House (Grey Mother's) Location](../assets/Milton_House_%28Grey_Mother%27s%29_Location.png)
-
-**Region:** [Mountain Town](./Mountain%20Town.md)
-
-**Description:** A large two-story house with a lit fireplace
-
-**General**
-
-**Type:** Residential
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Has an interior
-
-**Missions:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
-
-**Characters:** [Grey Mother](./Grey%20Mother.md)
+| Property | Details |
+| --- | --- |
+|  | [Milton House (Grey Mother's)](../assets/Milton_House_%28Grey_Mother%27s%29.png) |
+| **Location** |  |
+|  | [Milton House (Grey Mother's) Location](../assets/Milton_House_%28Grey_Mother%27s%29_Location.png) |
+| Region | [Mountain Town](./Mountain%20Town.md)\|- |
+| Description | A large two-story house with a lit fireplace |
+| **General** |  |
+| Type | Residential\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior\|- |
+| Missions | [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) |
+| Characters | [Grey Mother](./Grey%20Mother.md) |
 
 The **Milton House (Grey Mother's)**is a location featured in [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of _The Long Dark_. It is a large two-story house in the town of [Milton](./Milton.md) and is home to [Grey Mother](./Grey%20Mother.md), and is distinguished as being the largest [Milton House](./Milton%20House.md) in the town.
 

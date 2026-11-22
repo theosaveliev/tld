@@ -11,35 +11,23 @@
 
 **Cabin Fever Risk**
 
-[Cabin Fever Risk icon](../assets/Cabin_Fever_Risk_icon.png)
-
-**Release:** [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.338)
-
-**Update:** 0.338
-
-**Properties**
-
-**Category:** [Afflictions](./Afflictions.md)
-
-**Description:** You've been indoors so long you are starting to feel very uneasy. Spend some time outdoors before it gets worse.
-
-**Caused By:** Spending too much time indoors
-
-**Effect:** Negative
-
-**Type:** Risk
-
-**Affliction Duration:** Until Treated
-
-**Treatment**
-
-**Treatment:** Spend time outdoors
-
-**Recovery Time:** Immediate
-
-**Advanced Data**
-
-**Item Key:** GAMEPLAY\_CabinFeverRisk
+| Property | Details |
+| --- | --- |
+|  | [Cabin Fever Risk icon](../assets/Cabin_Fever_Risk_icon.png) |
+| Release | [25 May 2016](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.338) |
+| Update | 0.338 |
+| **Properties** |  |
+| Category | [Afflictions](./Afflictions.md) |
+| Description | You've been indoors so long you are starting to feel very uneasy. Spend some time outdoors before it gets worse. |
+| Caused By | Spending too much time indoors |
+| Effect | Negative |
+| Type | Risk |
+| Affliction Duration | Until Treated |
+| **Treatment** |  |
+| Treatment | Spend time outdoors |
+| Recovery Time | Immediate |
+| **Advanced Data** |  |
+| Item Key | GAMEPLAY\_CabinFeverRisk |
 
 > “**You've been indoors so long you are starting to feel very uneasy. Spend some time outdoors before it gets worse!**”
 >

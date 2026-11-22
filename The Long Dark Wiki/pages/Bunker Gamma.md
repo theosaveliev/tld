@@ -11,25 +11,16 @@
 
 **Bunker Gamma**
 
-[Bunker Gamma](../assets/Bunker_Gamma.jpg)
-
-**Location**
-
-[Bunker Gamma Location](../assets/Bunker_Gamma_Location.png)
-
-**Region:** [Hushed River Valley](./Hushed%20River%20Valley.md)
-
-**Description:** A reinforced underground shelter.
-
-**General**
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-[Workbench icon green](../assets/Workbench_icon_green.png)
-
-Has a workbench
+| Property | Details |
+| --- | --- |
+|  | [Bunker Gamma](../assets/Bunker_Gamma.jpg) |
+| **Location** |  |
+|  | [Bunker Gamma Location](../assets/Bunker_Gamma_Location.png) |
+| Region | [Hushed River Valley](./Hushed%20River%20Valley.md)\|- |
+| Description | A reinforced underground shelter. |
+| **General** |  |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+| [Workbench icon green](../assets/Workbench_icon_green.png) | Has a workbench\|- |
 
 ## Unlocking
 

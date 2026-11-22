@@ -4,23 +4,16 @@
 
 **Final Refuge**
 
-[Final Refuge](../assets/Final_Refuge.png)
-
-**Location**
-
-[Final Refuge Location](../assets/Final_Refuge_Location.png)
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**General**
-
-**Type:** Residential
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Has an interior **Final Refuge** — is the location of Refuge Cabin C, the final cabin found on the mountain road in [Sundered Pass](./Sundered%20Pass.md).
+| Property | Details |
+| --- | --- |
+|  | [Final Refuge](../assets/Final_Refuge.png) |
+| **Location** |  |
+|  | [Final Refuge Location](../assets/Final_Refuge_Location.png) |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| **General** |  |
+| Type | Residential\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior / **Final Refuge** — is the location of Refuge Cabin C, the final cabin found on the mountain road in [Sundered Pass](./Sundered%20Pass.md). |
 
 ## Overview
 

@@ -61,7 +61,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 13 | Wintermute | 5:38 | — |
 | 14 | Passing of an Age | 2:17 | — |
 | 15 | Things of the Old World | 2:05 | — |
-| Disc 3 — WINTERMUTE, Ambient &amp; Exploration |  |  |  |
+| Disc 3 — WINTERMUTE, Ambient & Exploration |  |  |  |
 | 1 | Abandoned | 1:32 | — |
 | 2 | Arrival | 0:24 | — |
 | 3 | Aurora | 1:32 | — |
@@ -86,7 +86,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 22 | Triumph | 0:10 | — |
 | 23 | Voice | 0:19 | — |
 | 24 | Wolfbridge | 0:17 | — |
-| Disc 4 — SURVIVAL Mode, Ambient &amp; Exploration |  |  |  |
+| Disc 4 — SURVIVAL Mode, Ambient & Exploration |  |  |  |
 | 1 | Beginnings | 0:40 | — |
 | 2 | Clearing | 0:44 | — |
 | 3 | Danger | 0:33 | — |
@@ -125,7 +125,7 @@ The soundtrack includes music from [Wintermute](./Wintermute.md), [Survival Mode
 | 2 | Surprise | 0:26 | — |
 | 3 | Molly's Kitchen | 1:48 | — |
 | 4 | Can You Help Us | 0:32 | — |
-| 5 | Soliloquy &amp; End | 2:45 | — |
+| 5 | Soliloquy & End | 2:45 | — |
 | 6 | Community Hall | 1:20 | — |
 | 7 | Diagnosis | 4:38 | — |
 | 8 | Let Me Go | 1:00 | — |
@@ -278,7 +278,7 @@ Working titles sourced from the composers' websites and SoundCloud: [b]–[e], [
 **May 5, 2026 Update:** With the release of Volume Three, Hinterland made several changes to the soundtracks:
 
 - **Volume Two, Disc 2:** Removed "Onward" (was a duplicate of "Hope" from Volume One). Added two never-before-released Survival Mode tracks: "Ash Canyon" and "Blackrock". The Volume Two cover image was also updated to a new version.
-- **Volume One &amp; Two:** Now include lossless FLAC versions on Steam (previously mp3 only).
+- **Volume One & Two:** Now include lossless FLAC versions on Steam (previously mp3 only).
 - **Volume Three:** Released May 5, 2026 (delayed from original April 22 date). On Steam, discs are numbered Episode Four (Disc 1), Episode Five (Disc 2), Tales from the Far Territory (Disc 3) — the reverse order from how they are presented on the promotional material.
 - **Volume Three, Disc 1:** "Music for When You Have Nothing Left to Lose" is a piano-only reprise, not a standalone original track.
 - **Minor title variations:** The promotional artwork for Volume Three lists the track as "Rüdiger's Dream" (with umlaut), while the Steam release uses "Rudiger's Dream".

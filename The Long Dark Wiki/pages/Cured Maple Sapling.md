@@ -4,29 +4,20 @@
 
 **Cured Maple Sapling**
 
-[Cured Maple Sapling icon](../assets/Cured_Maple_Sapling_icon.png)
-
-**Release:** [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233)
-
-**Wintermute:** No
-
-**Renewable:** Yes
-
-**Properties**
-
-**Item type:** [Materials](./Materials.md)
-
-**Stackable:** No
-
-**Examine:** Small maple sapling that has been cured. Can be used for crafting and repair.
-
-**Values**
-
-**Weight:** 0.30 kg (0.66 lbs)
-
-**Actions**
-
-**Backpack:** Take It, Leave It
+| Property | Details |
+| --- | --- |
+|  | [Cured Maple Sapling icon](../assets/Cured_Maple_Sapling_icon.png) |
+| Release | [22 May 2015](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.233) |
+| Wintermute | No |
+| Renewable | Yes |
+| **Properties** |  |
+| Item type | [Materials](./Materials.md)\|- |
+| Stackable | No |
+| Examine | Small maple sapling that has been cured. Can be used for crafting and repair. |
+| **Values** |  |
+| Weight | 0.30 kg (0.66 lbs) |
+| **Actions** |  |
+| Backpack | Take It, Leave It |
 
 A **Cured Maple Sapling** is a plant-based Material that can be used to craft a [Survival Bow](./Survival%20Bow.md) or [Travois](./Travois.md) at a [Work Bench](./Work%20Bench.md). Both [Green](./Green%20Maple%20Sapling.md) and Cured Maple Saplings do not [Decay](./Decay.md), and will always be at 100% condition.
 

@@ -4,17 +4,14 @@
 
 **Decorative Art**
 
-[Decorative Art (2) icon](../assets/Decorative_Art_%282%29_icon.png)
-
-**Release:** [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Values**
-
-**Weight:** 1.00 kg (2.2 lbs)
-
-**Actions**
-
-**Backpack:** Drop, Place
+| Property | Details |
+| --- | --- |
+|  | [Decorative Art (2) icon](../assets/Decorative_Art_%282%29_icon.png) |
+| Release | [TFTFT Part 6 Broken Silence](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Values** |  |
+| Weight | 1.00 kg (2.2 lbs) |
+| **Actions** |  |
+| Backpack | Drop, Place |
 
 The **Decorative Art** is a [Decorations](./Decorations.md) item that can be [Crafted](./Crafting.md) as part of the [Safehouse Customization](./Safehouse%20Customization.md) feature.
 
@@ -45,3 +42,5 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 
 **Quantity:** 2
+
+## Update History

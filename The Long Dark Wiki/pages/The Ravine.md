@@ -15,23 +15,17 @@
 
 **Raven Falls Railway Line**
 
-[RegionAtlas resources.assets 562 (1)](../assets/RegionAtlas-resources.assets-562_%281%29.png)
-
-**Location on [Great Bear Island](./Great%20Bear%20Island.md)**
-
-[The Ravine Location](../assets/The_Ravine_Location.png)
-
-[The Ravine map](../assets/The_Ravine_map.png)
-
-**Details**
-
-**Description:** A small valley containing a railway trestle passing through the mountains.
-
-**Connecting Regions:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Coastal Highway](./Coastal%20Highway.md), [Bleak Inlet](./Bleak%20Inlet.md)
-
-**Difficulty:** Beginner
-
-**Locations:** 5
+| Property | Details |
+| --- | --- |
+|  | [RegionAtlas resources.assets 562 (1)](../assets/RegionAtlas-resources.assets-562_%281%29.png) |
+| **Location on [Great Bear Island](./Great%20Bear%20Island.md)** |  |
+|  | [The Ravine Location](../assets/The_Ravine_Location.png) |
+|  | [The Ravine map](../assets/The_Ravine_map.png) |
+| **Details** |  |
+| Description | A small valley containing a railway trestle passing through the mountains. |
+| Connecting Regions | [Mystery Lake](./Mystery%20Lake%20%28region%29.md), / [Coastal Highway](./Coastal%20Highway.md), [Bleak Inlet](./Bleak%20Inlet.md) |
+| Difficulty | Beginner |
+| Locations | 5 |
 
 **The Ravine**, also known as **The Raven Falls Railway Line** or **Raven Falls,** is a Transition Zone [Region](./Region.md) connecting [Mystery Lake](./Mystery%20Lake%20%28region%29.md), [Coastal Highway](./Coastal%20Highway.md), and [Bleak Inlet](./Bleak%20Inlet.md). It was the 1st Transition Zone released in _[The Long Dark](./The%20Long%20Dark.md)_.
 

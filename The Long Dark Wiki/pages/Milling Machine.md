@@ -1,6 +1,6 @@
 # Milling Machine
 
-**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milling_Machine)
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Milling_Machine)
 
 **Contents**
 
@@ -13,19 +13,15 @@
 
 **Milling Machine**
 
-[Milling Machine](../assets/Milling_Machine.png)
-
-**Release:** 9 December 2019
-
-**Update:** [1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64)
-
-**Story item:** No
-
-**Location:** [Workshop](./Workshop.md) [Blackrock Prison](./Blackrock%20Prison.md)
-
-**Advanced data**
-
-**Object key:** GAMEPLAY\_MillingMachine
+| Property | Details |
+| --- | --- |
+|  | [Milling Machine](../assets/Milling_Machine.png) |
+| Release | 9 December 2019 |
+| Update | [1.64](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.64) |
+| Story item | No |
+| Location | [Workshop](./Workshop.md) [Blackrock Prison](./Blackrock%20Prison.md) |
+| **Advanced data** |  |
+| Object key | GAMEPLAY\_MillingMachine |
 
 The **Milling Machine** is a workstation used for repairs in _[The Long Dark](./The%20Long%20Dark.md)._ It was introduced in the Errant Pilgrim update.
 

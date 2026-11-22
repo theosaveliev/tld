@@ -19,33 +19,22 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 **Woodwright's Bow**
 
-[Woodwright's Bow icon](../assets/Woodwright%27s_Bow_icon.png)
-
-**Release:** [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** Crafted at a master's Work Bench. Every shape and angle reflects a careful and knowing touch. A more durable and agile Survival Bow.
-
-**Values**
-
-**Weight:** 0.75 kg (1.65 lbs)
-
-**Actions**
-
-**Backpack:** Use, Drop
-
-**On ground:** Take It, Equip It, Leave It
-
-**Advanced data**
-
-**Item key:** GAMEPLAY\_Bow\_Woodwrights
+| Property | Details |
+| --- | --- |
+|  | [Woodwright's Bow icon](../assets/Woodwright%27s_Bow_icon.png) |
+| Release | [5 December 2022](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03) |
+| Wintermute | No |
+| **Properties** |  |
+| Item type | [Tools](./Tools.md)\|- |
+| Stackable | No |
+| Examine | Crafted at a master's Work Bench. Every shape and angle reflects a careful and knowing touch. / A more durable and agile Survival Bow. |
+| **Values** |  |
+| Weight | 0.75 kg (1.65 lbs) |
+| **Actions** |  |
+| Backpack | Use, Drop |
+| On ground | Take It, Equip It, Leave It |
+| **Advanced data** |  |
+| Item key | GAMEPLAY\_Bow\_Woodwrights |
 
 **Woodwright's Bow** is a unique variant of the [Survival Bow](./Survival%20Bow.md) in _The Long Dark_, added by the _[Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md)_ expansion.
 

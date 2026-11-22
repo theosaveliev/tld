@@ -4,25 +4,17 @@
 
 **Thomson's Crossing**
 
-[The main road in Thomson's Crossing](../assets/Thomson_crossing_main_road.jpg)
-
-**Location**
-
-[Thomson's Crossing Location](../assets/Thomson%27s_Crossing_Location.png)
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**Description:** A small town with several houses
-
-**General**
-
-**Type:** Residential
-
-[Bed icon](../assets/Bed_icon.png)
-
-Has a bed
-
-Has an interior **Thomson's Crossing**, formerly known as **Rural Crossroads**, is a small settlement in [Pleasant Valley](./Pleasant%20Valley.md).
+| Property | Details |
+| --- | --- |
+|  | [The main road in Thomson's Crossing](../assets/Thomson_crossing_main_road.jpg) |
+| **Location** |  |
+|  | [Thomson's Crossing Location](../assets/Thomson%27s_Crossing_Location.png) |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| Description | A small town with several houses |
+| **General** |  |
+| Type | Residential\|- |
+| [Bed icon](../assets/Bed_icon.png) | Has a bed |
+|  | Has an interior **Thomson's Crossing**, formerly known as **Rural Crossroads**, is a small settlement in [Pleasant Valley](./Pleasant%20Valley.md). |
 
 ## Overview
 

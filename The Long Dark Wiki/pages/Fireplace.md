@@ -4,13 +4,12 @@
 
 **Fireplace**
 
-[Fire place](../assets/Fire_place.png)
-
-**General**
-
-**Type:** Fire Starting
-
-**Cooking slots:** 2
+| Property | Details |
+| --- | --- |
+|  | [Fire place](../assets/Fire_place.png) |
+| **General** |  |
+| Type | Fire Starting\|- |
+| Cooking slots | 2 |
 
 The **fire place** is an immovable [contained fire](./Fire.md#Contained_fires). The fire place functions identically to other contained fires and player-made [campfire](./Campfire.md). The fire place provides no advantage over other contained fires, but it does allow protection against wind, unlike the player-made campfire. It has two [cooking](./Cooking.md) slots.
 

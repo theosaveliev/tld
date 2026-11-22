@@ -11,15 +11,13 @@
 
 **Blackrock Lockers**
 
-[Blackrock Lockers](../assets/Blackrock_Lockers.jpg)
-
-Episode
-
-**Missions**
-
-**Current:** Blackrock Lockers
-
-**Region:** [Blackrock Mountain](./Blackrock%20Mountain.md)
+| Property | Details |
+| --- | --- |
+|  | [Blackrock Lockers](../assets/Blackrock_Lockers.jpg) |
+| Episode |  |
+| **Missions** |  |
+| Current | Blackrock Lockers |
+| Region | [Blackrock Mountain](./Blackrock%20Mountain.md) |
 
 **Template:spoiler**
 > **Locate and use the keys that unlock Lockers found at the Blackrock Penitentiary.**

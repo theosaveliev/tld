@@ -1041,7 +1041,7 @@ def _strip_wikitext_table_row_artifacts(value: str) -> str:
         if fence is None:
             stripped = cleaned_line.strip()
             if re.fullmatch(
-                r"""\\?\|}\s*\\?\{\|\s*style\s*=\s*["']margin:auto["']""",
+                r"""\\?\|}\s*\{\\?\|\s*style\s*=\s*["']margin:auto["']""",
                 stripped,
                 re.IGNORECASE,
             ):

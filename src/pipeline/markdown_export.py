@@ -49,6 +49,7 @@ BACKTICK = chr(96)
 TABLE_CELL_LIST_BREAK_THRESHOLD = 8
 MINIMUM_SUBHEADER_CELL_COUNT = 2
 MAXIMUM_SUBHEADER_TEXT_LENGTH = 40
+CHANGELOG_ARCHIVE_TWO_START_MINOR = 50
 MARKDOWN_IMAGE_RE = re.compile(
     r"!\[(?P<label>(?:\\.|[^\]])*)\]\((?P<destination>[^)]+)\)"
 )
@@ -420,7 +421,7 @@ def _changelog_archive_filename(
     minor = int(match.group("minor"))
     if major == 0:
         expected = "The Long Dark — Early Access Changelog.md"
-    elif major == 1 and minor < 50:
+    elif major == 1 and minor < CHANGELOG_ARCHIVE_TWO_START_MINOR:
         expected = "The Long Dark — Changelog — Archive 1.md"
     elif major == 1:
         expected = "The Long Dark — Changelog — Archive 2.md"
@@ -1088,7 +1089,9 @@ def _add_heading_anchor_alias(
 
 def _heading_version_alias(label: str) -> str | None:
     """Return a release-version prefix that Fandom commonly uses as an anchor."""
-    match = re.search(r"(?<![0-9])v?(?P<version>\d+\.\d+[a-z]?)\b", label, re.IGNORECASE)
+    match = re.search(
+        r"(?<![0-9])v?(?P<version>\d+\.\d+[a-z]?)\b", label, re.IGNORECASE
+    )
     return match.group("version") if match is not None else None
 
 
@@ -2049,7 +2052,7 @@ EMPTY_MARKDOWN_ANCHOR_SPAN_RE = re.compile(
 
 
 def _contains_html_markup(value: str) -> bool:
-    """Return whether text contains unhandled HTML elements, comments, or declarations."""
+    """Return whether text contains unhandled HTML, comments, or declarations."""
     value = EMPTY_MARKDOWN_ANCHOR_SPAN_RE.sub("", value)
     return any(
         pattern.search(value)

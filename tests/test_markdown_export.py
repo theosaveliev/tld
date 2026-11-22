@@ -1414,15 +1414,14 @@ def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
     assert "## Section One" in markdown
 
 
-def test_sanitize_expanded_wikitext_removes_internal_attributes_and_orphan_refs() -> None:
-    source = """{| class="wikitable" style="text-align:center" __uv-attr-style="text-align:center"
-|-
-| A value
-|-
-| <ref name="supported">A supported reference</ref>
-|-
-| A dangling close</ref>
-|}"""
+def test_sanitize_expanded_wikitext_cleans_markup() -> None:
+    source = (
+        '{| class="wikitable" style="text-align:center" '
+        '__uv-attr-style="text-align:center"\n'
+        "|-\n| A value\n|-\n"
+        '| <ref name="supported">A supported reference</ref>\n'
+        "|-\n| A dangling close</ref>\n|}"
+    )
 
     sanitized = _sanitize_expanded_wikitext(source)
 
@@ -1433,6 +1432,36 @@ def test_sanitize_expanded_wikitext_removes_internal_attributes_and_orphan_refs(
     assert "A dangling close</ref>" not in sanitized
     assert "{|" in sanitized
     assert "|}" in sanitized
+
+
+def test_render_mediawiki_html_sanitizes_expanded_markup(monkeypatch) -> None:
+    page = DumpPage("Bear", 0, "wikitext", "{{Unexpanded template}}", None)
+    expanded = (
+        '{| class="wikitable" style="text-align:center" '
+        '__uv-attr-style="text-align:center"\n'
+        "|-\n| A value</ref>\n|}"
+    )
+    received: list[str] = []
+
+    def fake_pandoc(
+        _pandoc: str, value: str, from_format: str, to_format: str
+    ) -> str:
+        assert from_format == "mediawiki"
+        assert to_format == "html"
+        received.append(value)
+        return "<p>Expanded Bear content</p>"
+
+    monkeypatch.setattr(markdown_export_module, "_run_pandoc", fake_pandoc)
+
+    html_fragment, status, note = _render_mediawiki_html(page, expanded, "pandoc")
+
+    assert status == "ok"
+    assert not note
+    assert "Expanded Bear content" in html_fragment
+    assert len(received) == 1
+    assert "__uv-attr-" not in received[0]
+    assert "A value</ref>" not in received[0]
+    assert "{{Unexpanded template}}" not in received[0]
 
 
 def test_repair_unclosed_mediawiki_tables_appends_missing_closers() -> None:

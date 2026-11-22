@@ -921,8 +921,9 @@ def test_multi_column_list_table_omits_redundant_image_filename_caption() -> Non
 <td><ul><li>Food item</li><li>Trader inventory</li></ul></td>
 </tr>
 <tr>
-<td><img src="../assets/Water_%28Potable%29_icon.png" alt="Water_(Potable)_icon.png" /> /
-<em>Water_(Potable)_icon.png</em></td>
+<td><img src="../assets/Water_%28Potable%29_icon.png"
+alt="Water_(Potable)_icon.png" /> / <em>
+Water_(Potable)_icon.png</em></td>
 <td>Water (Potable)</td>
 <td>Ingredient</td>
 </tr>

@@ -1043,6 +1043,7 @@ def _page_markdown(
     if cleaned_body:
         lines.extend([cleaned_body, ""])
     document = "\n".join(lines).rstrip() + "\n"
+    document = _remove_redundant_image_filename_captions_from_document(document)
     document = _normalize_markdown_emphasis(document)
     return _normalize_markdown_headings(document)
 
@@ -1950,6 +1951,34 @@ def _remove_redundant_image_filename_captions(value: str) -> str:
         return match.group(0)
 
     return REDUNDANT_IMAGE_FILENAME_CAPTION_RE.sub(replace, value)
+
+
+def _remove_redundant_image_filename_captions_from_document(value: str) -> str:
+    """Remove repeated image captions outside code fences."""
+    output: list[str] = []
+    pending: list[str] = []
+    fence: tuple[str, int] | None = None
+
+    for line in value.splitlines(keepends=True):
+        match = FENCED_CODE_RE.match(line)
+        if match is not None:
+            marker = match.group(1)
+            if fence is None:
+                output.append(
+                    _remove_redundant_image_filename_captions("".join(pending))
+                )
+                pending = []
+                fence = (marker[0], len(marker))
+            elif marker[0] == fence[0] and len(marker) >= fence[1]:
+                fence = None
+            output.append(line)
+        elif fence is not None:
+            output.append(line)
+        else:
+            pending.append(line)
+
+    output.append(_remove_redundant_image_filename_captions("".join(pending)))
+    return "".join(output)
 
 
 def _remove_leaked_file_wrapper(value: str) -> str:

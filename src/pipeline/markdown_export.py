@@ -331,8 +331,23 @@ def _follow_redirects(
     return title, fragment
 
 
+def _compact_title_key(title: str) -> str:
+    """Return a punctuation-insensitive key for a page title."""
+    return "".join(character for character in title.casefold() if character.isalnum())
+
+
 def _lookup_title_filename(title: str, title_to_filename: dict[str, str]) -> str | None:
-    """Resolve exact, case-only, or punctuation-only title differences safely."""
+    """Resolve a title only when its normalized mapping is unambiguous."""
+    compact = _compact_title_key(title)
+    if compact:
+        compact_candidates = {
+            value
+            for key, value in title_to_filename.items()
+            if _compact_title_key(key) == compact
+        }
+        if len(compact_candidates) > 1:
+            return None
+
     filename = title_to_filename.get(title)
     if filename is not None:
         return filename
@@ -344,16 +359,27 @@ def _lookup_title_filename(title: str, title_to_filename: dict[str, str]) -> str
     if len(candidates) == 1:
         return candidates.pop()
 
-    compact = "".join(character for character in folded if character.isalnum())
     if not compact:
         return None
     candidates = {
         value
         for key, value in title_to_filename.items()
-        if "".join(character for character in key.casefold() if character.isalnum())
-        == compact
+        if _compact_title_key(key) == compact
     }
     return candidates.pop() if len(candidates) == 1 else None
+
+
+def _ambiguous_title_fallback(
+    title: str, title_to_filename: dict[str, str]
+) -> str | None:
+    """Build a title-based fallback when punctuation variants collide."""
+    compact = _compact_title_key(title)
+    if not compact:
+        return None
+    matches = {
+        key for key in title_to_filename if _compact_title_key(key) == compact
+    }
+    return f"{title}.md" if len(matches) > 1 else None
 
 
 def _resolve_page_destination(
@@ -367,6 +393,8 @@ def _resolve_page_destination(
     key = normalize_title(raw_target.lstrip(":"))
     key, fragment = _follow_redirects(key, fragment, redirects)
     filename = _lookup_title_filename(key, title_to_filename)
+    if filename is None:
+        filename = _ambiguous_title_fallback(key, title_to_filename)
     if filename is None:
         return None
 
@@ -1080,6 +1108,74 @@ def _rewrite_image_nodes(
     _restore_thumbnail_captions(root)
 
 
+def _is_discarded_anchor(link: lhtml.HtmlElement, href: str) -> bool:
+    """Drop interwiki labels and leave external links untouched."""
+    scheme = urllib.parse.urlsplit(href).scheme.casefold()
+    label = link.text_content().strip()
+    if LANGUAGE_INTERWIKI_SCHEME_RE.fullmatch(
+        scheme
+    ) and label.casefold().startswith(f"{scheme}:"):
+        link.drop_tree()
+        return True
+    return _is_external_scheme(scheme)
+
+
+def _rewrite_namespace_anchor(
+    link: lhtml.HtmlElement,
+    href: str,
+    image_index: dict[str, Path],
+    image_dir: Path | None,
+    asset_dir: Path,
+    copied_images: dict[Path, str],
+    used_asset_names: dict[str, Path],
+    missing_images: set[str],
+) -> bool:
+    """Handle category, template, user, and file namespace anchors."""
+    raw = urllib.parse.unquote(href).lstrip(":")
+    raw = re.sub(
+        r"^(?:\\?\[){2}(?=(?:file|image|media)\s*:)", "", raw, flags=re.IGNORECASE
+    )
+    prefix, separator, _ = raw.partition(":")
+    namespace = prefix.strip().casefold()
+    if not separator:
+        return False
+    if namespace in {"category", "special", "template", "user", "user_blog"}:
+        link.drop_tag()
+        return True
+    if namespace not in {"file", "image", "media"}:
+        return False
+
+    output_name = _copy_image(
+        raw, image_index, image_dir, asset_dir, copied_images, used_asset_names
+    )
+    if output_name is None:
+        missing_images.add(normalize_image_name(raw))
+        link.drop_tag()
+    else:
+        link.set("href", "../assets/" + _safe_destination(output_name))
+    return True
+
+
+def _rewrite_article_anchor(
+    link: lhtml.HtmlElement,
+    href: str,
+    current_title: str,
+    title_to_filename: dict[str, str],
+    redirects: dict[str, str],
+    missing_links: set[str],
+) -> None:
+    """Resolve an article anchor or retain its visible label."""
+    destination = resolve_internal_href(
+        href, current_title, title_to_filename, redirects
+    )
+    if destination is None:
+        if not href.startswith("#"):
+            missing_links.add(href)
+        link.drop_tag()
+    elif destination != href:
+        link.set("href", destination)
+
+
 def _rewrite_anchor_nodes(
     root: lhtml.HtmlElement,
     current_title: str,
@@ -1096,55 +1192,22 @@ def _rewrite_anchor_nodes(
     """Rewrite article and file anchors to local Markdown destinations."""
     for link in list(root.iter("a")):
         href = link.get("href")
-        if not href:
+        if not href or _is_discarded_anchor(link, href):
             continue
-
-        parsed_href = urllib.parse.urlsplit(href)
-        scheme = parsed_href.scheme.casefold()
-        label = link.text_content().strip()
-        if LANGUAGE_INTERWIKI_SCHEME_RE.fullmatch(
-            scheme
-        ) and label.casefold().startswith(f"{scheme}:"):
-            link.drop_tree()
+        if _rewrite_namespace_anchor(
+            link,
+            href,
+            image_index,
+            image_dir,
+            asset_dir,
+            copied_images,
+            used_asset_names,
+            missing_images,
+        ):
             continue
-        if _is_external_scheme(scheme):
-            continue
-
-        raw = urllib.parse.unquote(href).lstrip(":")
-        raw = re.sub(
-            r"^(?:\\?\[){2}(?=(?:file|image|media)\s*:)", "", raw, flags=re.IGNORECASE
+        _rewrite_article_anchor(
+            link, href, current_title, title_to_filename, redirects, missing_links
         )
-        prefix, separator, _ = raw.partition(":")
-        namespace = prefix.strip().casefold()
-        if separator and namespace in {
-            "category",
-            "special",
-            "template",
-            "user",
-            "user_blog",
-        }:
-            link.drop_tag()
-            continue
-        if separator and namespace in {"file", "image", "media"}:
-            output_name = _copy_image(
-                raw, image_index, image_dir, asset_dir, copied_images, used_asset_names
-            )
-            if output_name is None:
-                missing_images.add(normalize_image_name(raw))
-                link.drop_tag()
-            else:
-                link.set("href", "../assets/" + _safe_destination(output_name))
-            continue
-
-        destination = resolve_internal_href(
-            href, current_title, title_to_filename, redirects
-        )
-        if destination is None:
-            if not href.startswith("#"):
-                missing_links.add(href)
-            link.drop_tag()
-        elif destination != href:
-            link.set("href", destination)
 
 
 def _rewrite_html_links(
@@ -2700,50 +2763,73 @@ def _expanded_table_grid(
     ]
 
 
-def _render_generic_table(
+def _rendered_table_cells(
     rows: list[list[lhtml.HtmlElement]],
-    *,
-    use_html_line_breaks: bool = False,
-    images_as_links: bool = False,
-) -> str:
-    """Convert HTML tables to Markdown, retaining spans and list line breaks."""
+    use_html_line_breaks: bool,
+    images_as_links: bool,
+) -> dict[lhtml.HtmlElement, str]:
+    """Render each distinct source cell once for a Markdown table."""
+    rendered: dict[lhtml.HtmlElement, str] = {}
+    for row in rows:
+        for cell in row:
+            value = _markdown_table_cell(
+                cell, use_html_line_breaks=use_html_line_breaks
+            )
+            rendered[cell] = (
+                _markdown_images_as_links(value) if images_as_links else value
+            )
+    return rendered
 
-    def render_cell(cell: lhtml.HtmlElement) -> str:
-        rendered = _markdown_table_cell(cell, use_html_line_breaks=use_html_line_breaks)
-        return _markdown_images_as_links(rendered) if images_as_links else rendered
 
-    grid = _expanded_table_grid(rows)
-    rendered_cells = {cell: render_cell(cell) for row in rows for cell in row}
-    header_rows = 0
+def _table_header_row_count(
+    grid: list[list[lhtml.HtmlElement | None]],
+    rendered_cells: dict[lhtml.HtmlElement, str],
+) -> int:
+    """Count leading header rows, ignoring empty spacer cells."""
+    count = 0
     for row in grid:
-        cells = [cell for cell in row if cell is not None]
-        if not cells or not all(_html_tag(cell) == "th" for cell in cells):
+        visible_cells = [
+            cell for cell in row if cell is not None and rendered_cells[cell]
+        ]
+        if not visible_cells or not all(
+            _html_tag(cell) == "th" for cell in visible_cells
+        ):
             break
-        header_rows += 1
+        count += 1
+    return count
 
-    if header_rows:
-        headers: list[str] = []
-        for column in range(len(grid[0])):
-            parts: list[str] = []
-            seen: set[lhtml.HtmlElement] = set()
-            for row in grid[:header_rows]:
-                cell = row[column]
-                if cell is None or cell in seen:
-                    continue
-                seen.add(cell)
-                value = rendered_cells[cell]
-                if value and value not in parts:
-                    parts.append(value)
-            headers.append(" — ".join(parts))
-        body_grid = grid[header_rows:]
-    else:
-        headers = [""] * len(grid[0])
-        body_grid = grid
 
+def _render_table_headers(
+    grid: list[list[lhtml.HtmlElement | None]],
+    header_rows: int,
+    rendered_cells: dict[lhtml.HtmlElement, str],
+) -> list[str]:
+    """Combine multi-row and spanning header cells by output column."""
+    headers: list[str] = []
+    for column in range(len(grid[0])):
+        parts: list[str] = []
+        seen: set[lhtml.HtmlElement] = set()
+        for row in grid[:header_rows]:
+            cell = row[column]
+            if cell is None or cell in seen:
+                continue
+            seen.add(cell)
+            value = rendered_cells[cell]
+            if value and value not in parts:
+                parts.append(value)
+        headers.append(" — ".join(parts))
+    return headers
+
+
+def _render_table_body(
+    grid: list[list[lhtml.HtmlElement | None]],
+    rendered_cells: dict[lhtml.HtmlElement, str],
+) -> list[list[str]]:
+    """Render body rows while preventing duplicated rowspan cells."""
     rendered_rows: list[list[str]] = []
-    for row in body_grid:
+    for row in grid:
         rendered_row: list[str] = []
-        seen = set()
+        seen: set[lhtml.HtmlElement] = set()
         for cell in row:
             if cell is None or cell in seen:
                 rendered_row.append("")
@@ -2751,14 +2837,44 @@ def _render_generic_table(
             seen.add(cell)
             rendered_row.append(rendered_cells[cell])
         rendered_rows.append(rendered_row)
+    return rendered_rows
 
-    retained_columns = [
+
+def _compact_table_columns(
+    headers: list[str], rows: list[list[str]]
+) -> tuple[list[str], list[list[str]]]:
+    """Drop empty spacer columns from table headers and body rows."""
+    retained = [
         index
-        for index in range(len(headers))
-        if headers[index] or any(row[index] for row in rendered_rows)
+        for index, header in enumerate(headers)
+        if header or any(row[index] for row in rows)
     ]
-    compact_headers = [headers[index] for index in retained_columns]
-    compact_rows = [[row[index] for index in retained_columns] for row in rendered_rows]
+    return (
+        [headers[index] for index in retained],
+        [[row[index] for index in retained] for row in rows],
+    )
+
+
+def _render_generic_table(
+    rows: list[list[lhtml.HtmlElement]],
+    *,
+    use_html_line_breaks: bool = False,
+    images_as_links: bool = False,
+) -> str:
+    """Convert HTML tables to Markdown, retaining spans and list line breaks."""
+    grid = _expanded_table_grid(rows)
+    rendered_cells = _rendered_table_cells(
+        rows, use_html_line_breaks, images_as_links
+    )
+    header_rows = _table_header_row_count(grid, rendered_cells)
+    headers = (
+        _render_table_headers(grid, header_rows, rendered_cells)
+        if header_rows
+        else [""] * len(grid[0])
+    )
+    body_grid = grid[header_rows:]
+    rendered_rows = _render_table_body(body_grid, rendered_cells)
+    compact_headers, compact_rows = _compact_table_columns(headers, rendered_rows)
     return _pipe_table(compact_headers, compact_rows)
 
 

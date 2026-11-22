@@ -738,6 +738,7 @@ def test_page_markdown_removes_leaked_template_and_wikitext_artifacts() -> None:
 | Item | Details |
 | --- | --- |
 | **Template:pic link plain**[Cooking](./Cooking.md)** | |
+| **Template:iconlink plain** |
 |  | - |
 |  | - |
 
@@ -763,6 +764,7 @@ def test_page_markdown_removes_leaked_template_and_wikitext_artifacts() -> None:
     assert "margin:auto" not in markdown
     assert "File:" not in markdown
     assert "|  | - |" not in markdown
+    assert "|  |" not in markdown
     assert "\n- \n" not in markdown
     assert "## Gallery" not in markdown
     assert "- [Gallery](#gallery)" not in markdown
@@ -779,6 +781,15 @@ def test_adjacent_strong_elements_keep_a_word_boundary() -> None:
     markdown = _html_fragment_to_markdown(fragment)
 
     assert "**Spoiler Warning:** **This page may contain spoilers from the" in markdown
+    assert "**Spoiler Warning:****This page" not in markdown
+
+
+def test_page_markdown_separates_adjacent_bold_spans() -> None:
+    body = "**Spoiler Warning:****This page may contain spoilers from the story.**"
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "**Spoiler Warning:** **This page may contain spoilers" in markdown
     assert "**Spoiler Warning:****This page" not in markdown
 
 

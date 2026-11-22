@@ -395,6 +395,42 @@ def _ambiguous_title_fallback(
     return f"{title}.md" if len(matches) > 1 else None
 
 
+def _changelog_archive_filename(
+    filename: str, fragment: str, title_to_filename: dict[str, str]
+) -> str | None:
+    """Route legacy changelog version links to the page holding that release."""
+    if filename.casefold() != "the long dark — changelog.md".casefold():
+        return None
+
+    match = re.fullmatch(
+        r"v?(?P<major>\d+)\.(?P<minor>\d+)[a-z]?",
+        urllib.parse.unquote(fragment),
+        re.IGNORECASE,
+    )
+    if match is None:
+        return None
+
+    major = int(match.group("major"))
+    minor = int(match.group("minor"))
+    if major == 0:
+        expected = "The Long Dark — Early Access Changelog.md"
+    elif major == 1 and minor < 50:
+        expected = "The Long Dark — Changelog — Archive 1.md"
+    elif major == 1:
+        expected = "The Long Dark — Changelog — Archive 2.md"
+    else:
+        return None
+
+    return next(
+        (
+            candidate
+            for candidate in title_to_filename.values()
+            if candidate.casefold() == expected.casefold()
+        ),
+        None,
+    )
+
+
 def _resolve_page_destination(
     raw_target: str,
     fragment: str,
@@ -410,6 +446,12 @@ def _resolve_page_destination(
         filename = _ambiguous_title_fallback(key, title_to_filename)
     if filename is None:
         return None
+
+    archive_filename = _changelog_archive_filename(
+        filename, fragment, title_to_filename
+    )
+    if archive_filename is not None:
+        filename = archive_filename
 
     destination = "./" + _safe_destination(filename)
     if key == normalize_title(current_title) and fragment:

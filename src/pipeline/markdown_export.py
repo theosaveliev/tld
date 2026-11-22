@@ -1037,7 +1037,7 @@ def _add_heading_anchor_alias(
 
 def _heading_version_alias(label: str) -> str | None:
     """Return a release-version prefix that Fandom commonly uses as an anchor."""
-    match = re.match(r"^\s*(?P<version>v?\d+\.\d+[a-z]?)\b", label, re.IGNORECASE)
+    match = re.search(r"(?<![0-9])v?(?P<version>\d+\.\d+[a-z]?)\b", label, re.IGNORECASE)
     return match.group("version") if match is not None else None
 
 
@@ -1069,6 +1069,7 @@ def _add_mediawiki_heading_ids(root: lhtml.HtmlElement) -> None:
         for alias in aliases:
             if alias:
                 _add_heading_anchor_alias(root, heading, alias)
+                used.add(alias)
 
         tag = heading.tag
         if not isinstance(tag, str):
@@ -1984,8 +1985,15 @@ HTML_HIDDEN_TAGS = frozenset(
 )
 
 
+EMPTY_MARKDOWN_ANCHOR_SPAN_RE = re.compile(
+    r'<span\s+id="[^"]+"\s*></span>',
+    re.IGNORECASE,
+)
+
+
 def _contains_html_markup(value: str) -> bool:
-    """Return whether text contains HTML elements, comments, or declarations."""
+    """Return whether text contains unhandled HTML elements, comments, or declarations."""
+    value = EMPTY_MARKDOWN_ANCHOR_SPAN_RE.sub("", value)
     return any(
         pattern.search(value)
         for pattern in (HTML_TAG_RE, HTML_COMMENT_RE, HTML_DECLARATION_RE)
@@ -2776,7 +2784,11 @@ def _render_list_content_table(rows: list[list[lhtml.HtmlElement]]) -> str:
         rendered
         for row in rows
         for cell in row
-        if (rendered := _markdown_images_as_links(_render_html_children(cell)).strip())
+        if (
+            rendered := _markdown_images_as_links(
+                _markdown_anchor_for_node(cell) + _render_html_children(cell)
+            ).strip()
+        )
     ]
     return "\n\n".join(blocks)
 
@@ -3024,7 +3036,11 @@ def _render_nested_table_wrapper(
         rendered
         for row in rows
         for cell in row
-        if (rendered := _render_html_children(cell).strip())
+        if (
+            rendered := (
+                _markdown_anchor_for_node(cell) + _render_html_children(cell)
+            ).strip()
+        )
     ]
     content = "\n\n".join(blocks)
     if caption and content:
@@ -3041,7 +3057,7 @@ def _render_single_cell_wrapper_table(
     cell = rows[0][0]
     if not _table_cell_has_block_layout(cell):
         return None
-    content = _render_html_children(cell)
+    content = _markdown_anchor_for_node(cell) + _render_html_children(cell)
     if caption and content:
         return f"**{caption}**\n\n{content}"
     return content

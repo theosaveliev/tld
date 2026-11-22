@@ -473,7 +473,7 @@ Added to the game.
 
 def test_recipe_infobox_renders_skill_time_and_material_pairs() -> None:
     fragment = (
-        '<table class="infobox"><tbody>\n'
+        '<table class="wikitable"><tbody>\n'
         '<tr><td><a href="./Gunsmithing.md">'
         '<img src="../assets/Gunsmithing.png" alt="G" />'
         "Gunsmithing</a></td><td></td></tr>\n"
@@ -481,7 +481,8 @@ def test_recipe_infobox_renders_skill_time_and_material_pairs() -> None:
         '<tr><td colspan="2">5 minutes</td></tr>\n'
         '<tr><td colspan="2"><strong>Requirements</strong></td></tr>\n'
         "<tr><td>Facility</td><td>Template:iconlink</td></tr>\n"
-        '<tr><td colspan="2"><strong>Materials</strong></td></tr>\n'
+        '<tr><td colspan="2"><img src="../assets/Materials.png" alt="Materials" />'
+        '<strong></strong></td></tr>\n'
         '<tr><td>Item</td><td><a href="./Bullet.md">'
         '<img src="../assets/Bullet.png" alt="B" />'
         "Bullet</a></td></tr>\n"

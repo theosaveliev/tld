@@ -1850,7 +1850,7 @@ def _recipe_section_heading(
         )
         heading_text = f"{plain_value} {image_labels}".casefold()
         for section in ("requirements", "materials"):
-            if re.search(rf"\\b{section}\\b", heading_text):
+            if re.search(rf"\b{section}\b", heading_text):
                 return section
     return None
 
@@ -1865,7 +1865,7 @@ def _is_recipe_infobox(rows: list[list[lhtml.HtmlElement]]) -> bool:
     required_fields = {"requirements", "item", "quantity"}
     has_crafting_time = any(
         re.search(
-            r"\b(?:seconds?|minutes?|hours?)\\b",
+            r"\b(?:seconds?|minutes?|hours?)\b",
             cell.text_content(),
             re.IGNORECASE,
         )

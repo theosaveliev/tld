@@ -11,6 +11,7 @@ from lxml import html as lhtml
 from pipeline import markdown_export as markdown_export_module
 from pipeline.markdown_export import (
     DumpPage,
+    PageExportResult,
     RenderStats,
     WikiContext,
     _add_mediawiki_heading_ids,  # pyright: ignore[reportPrivateUsage]
@@ -2081,7 +2082,7 @@ def test_write_workspace_index_preserves_taxonomy_and_writes_separate_page_list(
     taxonomy = "# The Long Dark Taxonomy\n\n## Locations\n\n- Great Bear Island\n"
     index_path = tmp_path / "index.md"
     index_path.write_text(taxonomy, encoding="utf-8")
-    page_result = {
+    page_result: PageExportResult = {
         "title": "Bear",
         "filename": "Bear.md",
         "status": "ok",

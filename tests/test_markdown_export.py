@@ -1710,6 +1710,14 @@ def test_page_markdown_dedents_fenced_code_within_root_lists() -> None:
     assert "- Second event\n\n## Next section" in markdown
 
 
+def test_page_markdown_keeps_indented_code_that_starts_with_a_bullet() -> None:
+    body = "    - this is an indented code line\n"
+
+    markdown = _page_markdown("Code", [], body, None)
+
+    assert "    - this is an indented code line" in markdown
+
+
 def test_page_markdown_strips_html_tags_and_decodes_visible_entities() -> None:
     body = (
         'Before<span id="fnref1"></span>after '

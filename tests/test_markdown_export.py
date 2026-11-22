@@ -884,13 +884,10 @@ def test_html_table_with_list_cells_renders_as_markdown_lists() -> None:
 
 def test_page_markdown_removes_additional_leaked_template_labels() -> None:
     body = """==References==
-
+References are listed below.
 **Template:update history**
-
 **Template:reflist**
-
 **Template:quote2**A **Torch** is a craftable tool.
-
 25.00 kg / _(55 lb)_**Template:pic link**
 """
 

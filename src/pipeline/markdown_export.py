@@ -1177,19 +1177,6 @@ def _restore_thumbnail_captions(root: lhtml.HtmlElement) -> None:
         wrapper.tail = old_tail
 
 
-def _add_heading_anchor_alias(
-    root: lhtml.HtmlElement, heading: lhtml.HtmlElement, identifier: str
-) -> None:
-    """Insert an explicit anchor for a heading alias unless it already exists."""
-    if any(
-        node is not heading and node.get("id") == identifier for node in root.iter()
-    ):
-        return
-    anchor = cast("lhtml.HtmlElement", etree.Element("span"))
-    anchor.set("id", identifier)
-    heading.addprevious(anchor)
-
-
 def _heading_version_aliases(label: str) -> list[str]:
     """Return every release version in a heading as a legacy anchor alias."""
     return list(
@@ -1598,54 +1585,6 @@ def _advance_markdown_fence(
     if marker[0] == fence[0] and len(marker) >= fence[1]:
         return None, True
     return fence, True
-
-
-def _heading_precedes_another_anchored_heading(
-    lines: list[str], heading_index: int
-) -> bool:
-    """Return whether a heading is empty before the next anchored heading."""
-    anchor_index = heading_index + 1
-    while anchor_index < len(lines) and not lines[anchor_index].strip():
-        anchor_index += 1
-    if anchor_index >= len(lines) or not _markdown_anchor_span_ids(lines[anchor_index]):
-        return False
-
-    next_heading_index = anchor_index + 1
-    while next_heading_index < len(lines) and not lines[next_heading_index].strip():
-        next_heading_index += 1
-    return (
-        next_heading_index < len(lines)
-        and MARKDOWN_HEADING_RE.fullmatch(lines[next_heading_index]) is not None
-    )
-
-
-def _preferred_heading_anchor_identifier(
-    identifiers: list[str], heading_label: str
-) -> str:
-    """Choose the anchor matching the normalized visible heading label."""
-    label = re.sub(r"\[([^]]+)\]\([^)]+\)", r"\1", heading_label)
-    label = re.sub(chr(96), "", label)
-    slug = _markdown_heading_slug(html.unescape(label))
-    return next(
-        (
-            identifier
-            for identifier in identifiers
-            if identifier == slug or re.fullmatch(re.escape(slug) + r"-\d+", identifier)
-        ),
-        slug or identifiers[0],
-    )
-
-
-def _append_heading_anchor_aliases(
-    output: list[str], identifiers: list[str], preferred: str
-) -> None:
-    """Preserve nonpreferred heading aliases as hidden compatibility comments."""
-    aliases = list(
-        dict.fromkeys(identifier for identifier in identifiers if identifier)
-    )
-    for alias in aliases:
-        if alias != preferred:
-            output.extend((f"<!-- #{alias} -->", "\u200b", ""))
 
 
 def _is_markdown_anchor_artifact_line(line: str) -> bool:

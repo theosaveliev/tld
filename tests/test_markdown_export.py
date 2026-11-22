@@ -481,7 +481,7 @@ def test_recipe_infobox_renders_skill_time_and_material_pairs() -> None:
         '<tr><td colspan="2">5 minutes</td></tr>\n'
         '<tr><td colspan="2"><strong>Requirements</strong></td></tr>\n'
         "<tr><td>Facility</td><td>Template:iconlink</td></tr>\n"
-        '<tr><td colspan="2"><img src="../assets/Materials.png" alt="Materials" />'
+        '<tr><td colspan="2"><img src="../assets/Materials.png" alt="" />'
         '<strong></strong></td></tr>\n'
         '<tr><td>Item</td><td><a href="./Bullet.md">'
         '<img src="../assets/Bullet.png" alt="B" />'

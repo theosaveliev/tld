@@ -1518,6 +1518,7 @@ def _page_markdown(
     document = _strip_trailing_empty_markdown_sections(document)
     document = _rewrite_heading_anchor_spans(document)
     document = _strip_leaked_html_markup(document)
+    document = _normalize_markdown_list_indentation(document)
     return _normalize_markdown_blank_lines(document)
 
 
@@ -1634,6 +1635,63 @@ def _strip_leaked_html_markup(value: str) -> str:
 def _rewrite_heading_anchor_spans(value: str) -> str:
     """Remove legacy empty span anchors while separating adjacent words."""
     return MARKDOWN_ANCHOR_SPAN_RE.sub(" ", value)
+
+
+def _normalize_markdown_list_indentation(value: str) -> str:
+    """Dedent indented root unordered lists while preserving their nested levels."""
+    output: list[str] = []
+    list_indents: list[int] = []
+    base_indent = 0
+    fence: tuple[str, int] | None = None
+
+    for line in value.splitlines(keepends=True):
+        fence_match = FENCED_CODE_RE.match(line)
+        if fence is not None:
+            output.append(line)
+            if (
+                fence_match is not None
+                and fence_match.group(1)[0] == fence[0]
+                and len(fence_match.group(1)) >= fence[1]
+            ):
+                fence = None
+            continue
+
+        list_match = re.match(r"^(?P<indent> *)(?P<marker>[-+*])[ \t]+", line)
+        if list_match is not None:
+            indent = len(list_match.group("indent"))
+            while list_indents and indent <= list_indents[-1]:
+                list_indents.pop()
+            if not list_indents:
+                base_indent = indent
+            list_indents.append(indent)
+            output.append(line[base_indent:])
+            fence = (
+                (fence_match.group(1)[0], len(fence_match.group(1)))
+                if fence_match is not None
+                else None
+            )
+            continue
+
+        if not line.strip():
+            output.append(line[base_indent:] if list_indents and base_indent else line)
+            continue
+
+        leading_indent = len(line) - len(line.lstrip(" "))
+        if list_indents and base_indent and leading_indent >= base_indent:
+            normalized = line[base_indent:]
+            output.append(normalized)
+            normalized_fence = FENCED_CODE_RE.match(normalized)
+            if normalized_fence is not None:
+                fence = (normalized_fence.group(1)[0], len(normalized_fence.group(1)))
+            continue
+
+        list_indents.clear()
+        base_indent = 0
+        output.append(line)
+        if fence_match is not None:
+            fence = (fence_match.group(1)[0], len(fence_match.group(1)))
+
+    return "".join(output)
 
 
 def _normalize_markdown_blank_lines(value: str) -> str:
@@ -3187,6 +3245,11 @@ def _table_is_single_column(rows: list[list[lhtml.HtmlElement]]) -> bool:
     return all(len(row) == 1 for row in rows)
 
 
+def _table_has_header_row(rows: list[list[lhtml.HtmlElement]]) -> bool:
+    """Return whether a table begins with a real HTML header row."""
+    return bool(rows) and all(_html_tag(cell) == "th" for cell in rows[0])
+
+
 def _render_list_content_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     """Render list-bearing table cells as standalone Markdown blocks."""
     blocks = [
@@ -3511,14 +3574,12 @@ def _render_special_html_table(
     if "infobox" in table_classes:
         return _render_infobox_table(rows)
     if _table_has_list_content(rows):
-        return (
-            _render_list_content_table(rows)
-            if _table_is_single_column(rows)
-            else _render_generic_table(
-                rows,
-                use_html_line_breaks=use_html_line_breaks,
-                images_as_links=images_as_links,
-            )
+        if _table_is_single_column(rows) or not _table_has_header_row(rows):
+            return _render_list_content_table(rows)
+        return _render_generic_table(
+            rows,
+            use_html_line_breaks=use_html_line_breaks,
+            images_as_links=images_as_links,
         )
     return None
 

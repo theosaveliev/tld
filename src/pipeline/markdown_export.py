@@ -47,6 +47,9 @@ USES_MATERIAL_LIST_RE = re.compile(
 )
 BACKTICK = chr(96)
 TABLE_CELL_LIST_BREAK_THRESHOLD = 8
+MARKDOWN_IMAGE_RE = re.compile(
+    r"!\[(?P<label>(?:\\.|[^\]])*)\]\((?P<destination>[^)]+)\)"
+)
 REDUNDANT_IMAGE_FILENAME_CAPTION_RE = re.compile(
     r"(?P<image>!\[(?P<label>(?:\\.|[^\]])*)\]\((?P<destination>[^)]+)\))"
     r"(?:\s*/\s*|\s*<br\s*/?>\s*|\s*\r?\n\s*)"
@@ -2467,13 +2470,26 @@ def _table_cell_has_block_layout(cell: lhtml.HtmlElement) -> bool:
     return any(_html_tag(child) in block_tags for child in cell.iterdescendants())
 
 
+def _markdown_images_as_links(value: str) -> str:
+    """Render images inside pipe-table cells as links to their asset files."""
+
+    def replace(match: re.Match[str]) -> str:
+        label = match.group("label") or "Image"
+        destination = match.group("destination")
+        return f"[{label}]({destination})"
+
+    return MARKDOWN_IMAGE_RE.sub(replace, value)
+
+
 def _render_generic_table(
     rows: list[list[lhtml.HtmlElement]], *, use_html_line_breaks: bool = False
 ) -> str:
     """Convert ordinary HTML tables to Markdown, dropping empty spacer columns."""
     rendered_rows = [
         [
-            _markdown_table_cell(cell, use_html_line_breaks=use_html_line_breaks)
+            _markdown_images_as_links(
+                _markdown_table_cell(cell, use_html_line_breaks=use_html_line_breaks)
+            )
             for cell in row
         ]
         for row in rows

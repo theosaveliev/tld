@@ -1837,10 +1837,49 @@ def _render_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     return _pipe_table(["Property", "Details"], body)
 
 
+def _recipe_section_heading(
+    cells: list[lhtml.HtmlElement], plain_values: list[str]
+) -> str | None:
+    """Identify recipe section headings even when they include an icon image."""
+    for cell, plain_value in zip(cells, plain_values, strict=True):
+        image_labels = " ".join(
+            label
+            for image in cell.iter("img")
+            for label in (image.get("alt", ""), image.get("title", ""))
+            if label
+        )
+        heading_text = f"{plain_value} {image_labels}".casefold()
+        for section in ("requirements", "materials"):
+            if re.search(rf"\\b{section}\\b", heading_text):
+                return section
+    return None
+
+
 def _is_recipe_infobox(rows: list[list[lhtml.HtmlElement]]) -> bool:
-    """Recognize recipe infoboxes by their Requirements and Materials fields."""
-    labels = {cell.text_content().strip().casefold() for row in rows for cell in row}
-    return {"requirements", "materials", "item", "quantity"} <= labels
+    """Recognize recipe tables by their requirement fields and crafting metadata."""
+    labels = {
+        cell.text_content().strip().casefold()
+        for row in rows
+        for cell in row
+    }
+    required_fields = {"requirements", "item", "quantity"}
+    has_crafting_time = any(
+        re.search(
+            r"\\b(?:seconds?|minutes?|hours?)\\b",
+            cell.text_content(),
+            re.IGNORECASE,
+        )
+        for row in rows
+        for cell in row
+    )
+    has_material_section = any(
+        _recipe_section_heading(
+            [cell], [cell.text_content().strip()]
+        ) == "materials"
+        for row in rows
+        for cell in row
+    )
+    return required_fields <= labels and (has_material_section or has_crafting_time)
 
 
 def _is_unresolved_icon_template(value: str) -> bool:
@@ -1958,6 +1997,11 @@ def _parse_recipe_infobox(rows: list[list[lhtml.HtmlElement]]) -> RecipeInfoboxD
     )
     for cells in rows:
         values, plain_values = _recipe_infobox_row_values(cells)
+        recipe_heading = _recipe_section_heading(cells, plain_values)
+        if recipe_heading is not None:
+            data.section = recipe_heading
+            data.pending_requirement = None
+            continue
         if len(cells) == 1 and _is_table_section(cells[0]):
             data.section = plain_values[0].casefold()
             data.pending_requirement = None
@@ -2088,7 +2132,7 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
         table = _render_gallery_table(rows)
     elif "uses-material-list" in table_classes:
         table = _render_generic_table(rows)
-    elif "infobox" in table_classes and _is_recipe_infobox(rows):
+    elif _is_recipe_infobox(rows):
         table = _render_recipe_infobox_table(rows)
     elif has_images:
         table = _render_image_layout_table(rows)

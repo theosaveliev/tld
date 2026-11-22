@@ -1032,9 +1032,7 @@ def _is_leaked_wikitext_table_artifact(line: str) -> bool:
             re.IGNORECASE,
         )
         or re.fullmatch(
-            r"\s*(?:\\?\[){2}\s*file\s*:.*?(?:\\?\]){2}\s*",
-            line,
-            re.IGNORECASE,
+            r"\s*(?:\\?\[){2}\s*file\s*:.*?(?:\\?\]){2}\s*", line, re.IGNORECASE
         )
         or re.fullmatch(r"\s*\|\s*\|\s*[-\u2013\u2014]\s*\|\s*", stripped)
     )
@@ -1069,11 +1067,7 @@ def _clean_wikitext_artifact_line(line: str) -> str:
     """Remove unsupported MediaWiki syntax from one ordinary text line."""
     cleaned = re.sub(r"\\+\|-[ \t]*(?=\r?\n?$)", "", line)
     cleaned = _strip_missing_template_labels(cleaned)
-    cleaned = re.sub(
-        r"(?m)^(\s*[-*+]\s*),[ \t]*",
-        r"\1",
-        cleaned,
-    )
+    cleaned = re.sub(r"(?m)^(\s*[-*+]\s*),[ \t]*", r"\1", cleaned)
     return _strip_empty_markup_rows(cleaned)
 
 
@@ -1093,12 +1087,11 @@ def _strip_wikitext_table_row_artifacts(value: str) -> str:
             continue
         if fence is None and _is_leaked_wikitext_table_artifact(line):
             continue
-        cleaned_line = (
-            _clean_wikitext_artifact_line(line) if fence is None else line
-        )
+        cleaned_line = _clean_wikitext_artifact_line(line) if fence is None else line
         if cleaned_line:
             output.append(cleaned_line)
     return "".join(output)
+
 
 def _strip_empty_gallery_sections(value: str) -> str:
     """Remove Gallery headings that have no content and their matching TOC entries."""
@@ -1121,12 +1114,11 @@ def _strip_empty_gallery_sections(value: str) -> str:
         for index, line in enumerate(lines)
         if index not in empty_gallery_lines
         and not re.match(
-            r"^\s*[-*+]\s+\[Gallery\]\(#gallery\)\s*$",
-            line,
-            re.IGNORECASE,
+            r"^\s*[-*+]\s+\[Gallery\]\(#gallery\)\s*$", line, re.IGNORECASE
         )
     ]
     return re.sub(r"\n{3,}", "\n\n", "\n".join(cleaned)).strip()
+
 
 def _normalize_markdown_emphasis(value: str) -> str:
     """Use underscore-delimited italics without changing code spans or fences."""
@@ -1217,7 +1209,7 @@ def _render_material_usage_table(
         )
         rendered_rows.append(
             "<tr><td>"
-             '<a href="'
+            '<a href="'
             + recipe_link
             + '">'
             + html.escape(recipe_name)
@@ -1516,7 +1508,9 @@ def _inline_markdown(node: lhtml.HtmlElement) -> str:
     for child in node:
         if isinstance(child.tag, str):
             current_tag = _html_tag(child)
-            previous_tag = _html_tag(previous_child) if previous_child is not None else ""
+            previous_tag = (
+                _html_tag(previous_child) if previous_child is not None else ""
+            )
             if (
                 previous_tag in {"strong", "b"}
                 and current_tag in {"strong", "b"}

@@ -1302,7 +1302,7 @@ def test_multi_column_html_table_with_list_cells_keeps_table_structure() -> None
     assert not failed
     assert not note
     assert "| Weather | Effects |" in markdown
-    assert "| Clear | - Warm. / - High visibility. |" in markdown
+    assert "| Clear | - Warm.<br>- High visibility. |" in markdown
 
 
 def test_page_markdown_removes_additional_leaked_template_labels() -> None:

@@ -1690,7 +1690,10 @@ def _clean_visible_markdown_artifacts(value: str) -> str:
         )
         cleaned = re.sub(r"\\+\[([^\]\n]+)\\+\](?!\()", r"[\1]", cleaned)
         cleaned = re.sub(r"\\+\*(?=[A-Za-z]|\s*(?:\||$))", "*", cleaned)
-        output.append(cleaned)
+        code_pieces = INLINE_CODE_SPAN_RE.split(cleaned)
+        for piece_index in range(0, len(code_pieces), 2):
+            code_pieces[piece_index] = html.unescape(code_pieces[piece_index])
+        output.append("".join(code_pieces))
     return "".join(output)
 
 
@@ -3506,11 +3509,7 @@ def _render_special_html_table(
     if _is_recipe_infobox(rows):
         return _render_recipe_infobox_table(rows)
     if "infobox" in table_classes:
-        return (
-            _render_image_layout_table(rows)
-            if has_images
-            else _render_infobox_table(rows)
-        )
+        return _render_infobox_table(rows)
     if _table_has_list_content(rows):
         return (
             _render_list_content_table(rows)

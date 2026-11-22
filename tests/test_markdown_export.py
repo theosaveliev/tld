@@ -822,7 +822,7 @@ def test_page_markdown_converts_leaked_quote2_tables_to_blockquotes() -> None:
     assert "> **A quotation spanning multiple lines." in markdown
     assert "> The second sentence.**" in markdown
     assert "> — Speaker Name" in markdown
-    assert "**Following paragraph.**" in markdown
+    assert "\n\n**Following paragraph.**" in markdown
     assert "Template:quote2" not in markdown
     assert "{|" not in markdown
     assert "|}" not in markdown

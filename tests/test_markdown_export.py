@@ -428,6 +428,81 @@ def test_convert_html_gallery_to_standalone_markdown_images(
     assert "<table" not in markdown
 
 
+def test_page_markdown_keeps_gallery_heading_with_nested_image_subsection() -> None:
+    body = """## Contents
+
+- [Gallery](#gallery)
+
+## Gallery
+
+### Photos
+
+![Badge](../assets/Badge.png)
+
+## Update history
+
+Added to the game.
+"""
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "- [Gallery](#gallery)" in markdown
+    assert "## Gallery" in markdown
+    assert "### Photos" in markdown
+    assert "![Badge](../assets/Badge.png)" in markdown
+
+
+def test_page_markdown_removes_empty_gallery_before_next_sibling_section() -> None:
+    body = """## Contents
+
+- [Gallery](#gallery)
+
+## Gallery
+
+## Update history
+
+Added to the game.
+"""
+
+    markdown = _page_markdown("Sample", [], body, None)
+
+    assert "- [Gallery](#gallery)" not in markdown
+    assert "## Gallery" not in markdown
+    assert "## Update history" in markdown
+
+
+def test_recipe_infobox_renders_skill_time_and_material_pairs() -> None:
+    fragment = """<table class="infobox"><tbody>
+<tr><td><a href="./Gunsmithing.md">Gunsmithing</a></td><td></td></tr>
+<tr><td colspan="2">1</td></tr>
+<tr><td colspan="2">5 minutes</td></tr>
+<tr><td colspan="2"><strong>Requirements</strong></td></tr>
+<tr><td>Facility</td><td>Template:iconlink</td></tr>
+<tr><td colspan="2"><strong>Materials</strong></td></tr>
+<tr><td>Item</td><td><a href="./Bullet.md">Bullet</a></td></tr>
+<tr><td>Quantity</td><td>1</td></tr>
+<tr><td colspan="2">Template:iconlink plain</td></tr>
+<tr><td colspan="2"><a href="./Revolver_Shell_Casing.md">Revolver Shell Casing</a></td></tr>
+<tr><td colspan="2">1</td></tr>
+<tr><td colspan="2">Template:iconlink plain</td></tr>
+<tr><td colspan="2"><a href="./Can_of_Gunpowder.md">Can of Gunpowder</a></td></tr>
+<tr><td colspan="2">0.01 kg</td></tr>
+</tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "**Skill:** [Gunsmithing](./Gunsmithing.md) (Level 1)" in markdown
+    assert "**Crafting time:** 5 minutes" in markdown
+    assert "**Materials**" in markdown
+    assert "| Item | Quantity |" in markdown
+    assert "| [Bullet](./Bullet.md) | 1 |" in markdown
+    assert "| [Revolver Shell Casing](./Revolver_Shell_Casing.md) | 1 |" in markdown
+    assert "| [Can of Gunpowder](./Can_of_Gunpowder.md) | 0.01 kg |" in markdown
+    assert "Template:" not in markdown
+    assert "| Property | Details |" not in markdown
+    assert "**Requirements**" not in markdown
+
+
 def test_background_styled_transcript_div_is_not_rendered_as_bold() -> None:
     fragment = """<div style="background: #2D3035; padding: 2em;">
 Find me at the mine. East and up the hill, looking up at the mountain.

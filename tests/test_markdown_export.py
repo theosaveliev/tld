@@ -878,7 +878,7 @@ def test_recovered_html_tables_use_custom_renderer_after_table_repair(
 
     assert not failed
     assert note == recovery_note
-    assert "![Ptarmigan icon](../assets/Ptarmigan_icon.png)" in markdown
+    assert "[Ptarmigan icon](../assets/Ptarmigan_icon.png)" in markdown
     assert "**DLC-Exclusive content.**" in markdown
     assert "Ptarmigan\\_icon.png" not in markdown
 
@@ -927,7 +927,7 @@ def test_image_bearing_infobox_preserves_breaks_and_removes_filename_captions() 
     markdown = _html_fragment_to_markdown(fragment)
 
     assert "**Acorn Bannock**<br>" in markdown
-    assert "![Acorn Bannock icon](../assets/Acorn_Bannock_icon.png)" in markdown
+    assert "[Acorn Bannock icon](../assets/Acorn_Bannock_icon.png)" in markdown
     assert "_Acorn\\\\_Bannock\\\\_icon.png_" not in markdown
     assert "**Release:** 21 June 2023<br>" in markdown
     assert " / " not in markdown
@@ -977,8 +977,8 @@ def test_image_table_removes_raw_file_wrapper_and_repeated_alt_captions() -> Non
 
     assert "File:" not in markdown
     assert "250px" not in markdown
-    assert "![Entrance](../assets/Abandoned_Mine.jpg)" in markdown
-    assert "![Exit](../assets/Abandoned_Mine_2.jpg)" in markdown
+    assert "[Entrance](../assets/Abandoned_Mine.jpg)" in markdown
+    assert "[Exit](../assets/Abandoned_Mine_2.jpg)" in markdown
     assert "_Entrance_" not in markdown
     assert "_Exit_" not in markdown
 
@@ -1031,12 +1031,13 @@ def test_image_bearing_infobox_renders_images_outside_pipe_tables(
 
     assert not failed
     assert not note
-    assert "![Balaclava icon](../assets/Balaclava_icon.png)" in markdown
+    assert "[Balaclava icon](../assets/Balaclava_icon.png)" in markdown
     assert "_Balaclava\\_icon.png_" not in markdown
+    assert "![Balaclava icon]" not in markdown
     assert "**General**" in markdown
     assert "**Item Type:** Clothing" in markdown
     assert "**Statistics**" in markdown
-    expected_weight = "**Weight:** ![Weight icon](../assets/Weight_icon.png)0.25 kg"
+    expected_weight = "**Weight:** [Weight icon](../assets/Weight_icon.png)0.25 kg"
     assert expected_weight in markdown
     assert "| Property | Details |" not in markdown
     assert r"\|-" not in markdown
@@ -1070,6 +1071,8 @@ def test_image_bearing_layout_table_renders_images_and_quote_as_blocks(
     assert not note
     assert "Far_range_line_first_look.png" in markdown
     assert "Far_Range_Branch_Line_Location.png" in markdown
+    assert "![Far range line first look" not in markdown
+    assert "![Far Range Branch Line Location" not in markdown
     assert "**Location on Great Bear Island**" in markdown
     assert "**Description:** A railway line in the mountains" in markdown
     expected_quote = (
@@ -1257,11 +1260,11 @@ Water_(Potable)_icon.png</em></td>
 
     markdown = _html_fragment_to_markdown(fragment)
 
-    assert "![Canned Corn icon](../assets/Canned_Corn_icon.png)" in markdown
+    assert "[Canned Corn icon](../assets/Canned_Corn_icon.png)" in markdown
     assert " / _Canned\\_Corn\\_icon.png_" not in markdown
     assert "![Canned\\_Corn\\_icon.png]" not in markdown
     assert "| Canned Corn |" in markdown
-    assert "![Water (Potable) icon](../assets/Water_%28Potable%29_icon.png)" in markdown
+    assert "[Water (Potable) icon](../assets/Water_%28Potable%29_icon.png)" in markdown
     assert "![Water\\_(Potable)\\_icon.png]" not in markdown
 
 
@@ -1279,7 +1282,7 @@ def test_image_bearing_multi_column_list_table_preserves_line_breaks() -> None:
 
     assert "| Image | Item | Details |" in markdown
     expected = (
-        "| ![Badge icon](../assets/Badge_icon.png) | Badge | "
+        "| [Badge icon](../assets/Badge_icon.png) | Badge | "
         "- First detail<br>- Second detail |"
     )
     assert expected in markdown

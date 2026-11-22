@@ -2306,7 +2306,11 @@ def _parse_recipe_infobox(rows: list[list[lhtml.HtmlElement]]) -> RecipeInfoboxD
             data.pending_requirement = None
             continue
         if len(cells) == 1 and _is_table_section(cells[0]):
-            data.section = plain_values[0].casefold()
+            heading = plain_values[0].rstrip(":").casefold()
+            if heading == "item" and data.section == "requirements":
+                data.section = "materials"
+            elif heading not in {"item", "quantity"} or data.section != "materials":
+                data.section = heading
             data.pending_requirement = None
             continue
         row_label = plain_values[0].rstrip(":").casefold() if plain_values else ""

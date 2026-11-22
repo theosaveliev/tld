@@ -16,7 +16,7 @@ _Restore\_Condition\_icon.png_
 
 **Category:** [Afflictions](./Afflictions.md)
 
-**Caused By:** Consume ![Birch\_Bark\_Tea\_icon.png](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md)
+**Caused By:** Consume ![](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md)
 
 **Effect:** Positive
 

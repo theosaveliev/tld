@@ -19,3 +19,14 @@ _Wood\_Lot\_Location.png_
 **General**
 
 **Type:** Outdoors
+
+## Overview
+
+All three locations are former forests which are now just tree stumps and piles of felled trees. [Wolves](./Wolf.md) can also be found regularly in all locations, along with [Deer](./Deer.md), mushrooms, firewood, and other natural items. A [Deer Carcass](./Deer%20Carcass.md) often spawns in the Wood Lot nearest the [Orca Gas Station](./Orca%20Gas%20Station.md) and the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md).
+
+## Locations
+
+- The first is between [St Christopher's Church](./St.%20Christopher%27s%20Church.md) and [Milton](./Milton.md) bridge
+- The second and third are adjacent to the [Orca Gas Station](./Orca%20Gas%20Station.md) and the [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md).
+
+## Faithful Cartographer

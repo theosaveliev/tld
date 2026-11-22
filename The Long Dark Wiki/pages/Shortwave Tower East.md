@@ -19,3 +19,9 @@ _Shortwave\_Tower\_East\_Location.png_
 **General**
 
 **Type:** OutdoorsMilitary/Sporting
+
+## Surroundings
+
+A [Transmitter](./Transmitters.md) is found nearby, along with a [Supply Bin](./Supply%20Bin.md) with a [Car Battery](./Car%20Battery.md) inside. A [Polaroid](./Polaroids.md) Vista location can be found here.
+
+## Story

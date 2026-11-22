@@ -14,7 +14,7 @@ _Brake\_Shoe\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.50 kg(1.1 lbs)
 
 ![](../assets/Seal_icon.png)
 

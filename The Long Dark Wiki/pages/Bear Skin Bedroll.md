@@ -23,9 +23,9 @@ _Bear\_Skin\_Bedroll\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)3.00 kg(6.6 lbs)
+**Weight:** ![](../assets/Weight_icon.png)3.00 kg(6.6 lbs)
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)12.0 °C(21.6 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)12.0 °C(21.6 °F)
 
 **Harvest:** 1 × [Cloth](./Cloth.md) / 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)
 

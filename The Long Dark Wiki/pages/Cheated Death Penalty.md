@@ -43,7 +43,7 @@ _Cheated\_Death\_Penalty\_icon.png_
 
 > “**You have Cheated Death. Your maximum Condition is reduced each time you respawn.**”
 
-![Cheat\_Death\_Penalty.jpg](../assets/Cheat_Death_Penalty.jpg) The punishment for cheating death and continuing your save file always involves choosing between a great penalty that is temporary, or a smaller penalty that is permanent. The player can choose a mix of the two choices and their consequences as they die. Both penalties impact the [Condition](./Condition.md) bar, and will always be paired with the [Weakened State](./Weakened%20State.md) Affliction upon awakening after cheating death.
+![](../assets/Cheat_Death_Penalty.jpg) The punishment for cheating death and continuing your save file always involves choosing between a great penalty that is temporary, or a smaller penalty that is permanent. The player can choose a mix of the two choices and their consequences as they die. Both penalties impact the [Condition](./Condition.md) bar, and will always be paired with the [Weakened State](./Weakened%20State.md) Affliction upon awakening after cheating death.
 
 ## Short Term Penalty
 

@@ -48,7 +48,7 @@ The Gas Station will be entirely empty when starting ([Medicine Shelf](./Medicin
 
 As the challenge progresses, the weather gets harsher and hostile animals spawn in greater numbers. Initially however, conditions may still be challenging. Although predator spawns may be less common in the beginning, the player's lack of weapons (unless a revolver and ammunition spawned in the gas station) and protective clothing mean the relatively high density of wolves (and possibly a bear) near Quonset Garage can be deadly. Extra caution is required when entering and leaving the garage or when searching the area for supplies.
 
-Note that the player does not have to survive the prophesied blizzard nor the entire allotted 30 days. Once all the items on the list are inside the gas station, the challenge ends. If the player fails to fully stock the Gas Station within 30 days, the Challenge will fail and must be restarted. ![Almanac.jpg](../assets/Almanac.jpg)
+Note that the player does not have to survive the prophesied blizzard nor the entire allotted 30 days. Once all the items on the list are inside the gas station, the challenge ends. If the player fails to fully stock the Gas Station within 30 days, the Challenge will fail and must be restarted. ![](../assets/Almanac.jpg)
 
 ### Almanac
 

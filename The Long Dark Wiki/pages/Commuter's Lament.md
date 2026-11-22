@@ -23,3 +23,11 @@ Region
 **General**
 
 **Type:** Landmark
+
+## Overview
+
+Commuter's Lament leads to [Crumbling Highway](./Crumbling%20Highway.md).
+
+A [Car](./Car.md), [Green Birch Sapling](./Green%20Birch%20Sapling.md), and [Rose Hip](./Rose%20Hip.md) bushes can be found in the area. The Car sometimes has a [Hunting Rifle](./Hunting%20Rifle.md) inside.
+
+Excluding the Car, there are no indoor shelters in this location. The nearest indoor location in the region can be found in the [Waterfront Cottages](./Waterfront%20Cottages.md).

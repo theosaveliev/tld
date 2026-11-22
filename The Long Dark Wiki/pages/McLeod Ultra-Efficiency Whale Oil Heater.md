@@ -26,7 +26,7 @@ _McLeod\_Ultra-Efficiency\_Whale\_Oil\_Heater\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
+**Weight:** ![](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
 
 **Harvest:** Cannot Harvest
 

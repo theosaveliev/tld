@@ -30,7 +30,7 @@ _Pain\_icon.png_
 
 **Treatment:** 2 x 
 
-**Alternate Treatment:** 1 x ![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
+**Alternate Treatment:** 1 x ![](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
 
 **Recovery Time:** 20 min - 1 hour (untreated)
 

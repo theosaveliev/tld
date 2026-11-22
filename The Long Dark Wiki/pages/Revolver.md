@@ -47,7 +47,7 @@ _Revolver\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
+**Weight:** ![](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
 
 **Harvest:** Unharvestable
 

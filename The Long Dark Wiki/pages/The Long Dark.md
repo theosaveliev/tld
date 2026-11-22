@@ -37,13 +37,13 @@
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/The_Long_Dark_Poster.jpg) / _The\_Long\_Dark\_Poster.jpg_ |  |
+| ![](../assets/The_Long_Dark_Poster.jpg)<br>_The\_Long\_Dark\_Poster.jpg_ |  |
 | **Developer(s)** | [Hinterland Games](./Hinterland%20Studio%20Inc..md) |
-| **Director(s)** | Raphael Van Lierop / David Chan / Hokyo Lim / Alan Lawrance |
+| **Director(s)** | Raphael Van Lierop<br>David Chan<br>Hokyo Lim<br>Alan Lawrance |
 | **Writer(s)** | Marianne Krawczyk |
-| **Composer(s)** | Cris Velasco / Sascha Dikiciyan |
-| Platform | PC/Mac/Linux / Xbox One/Series S/X / PlayStation 4/5 / Nintendo Switch |
-| Released | - 1st August 2017 (PC, PS4, XO) / - September 17, 2020 (Switch) |
+| **Composer(s)** | Cris Velasco<br>Sascha Dikiciyan |
+| Platform | PC/Mac/Linux<br>Xbox One/Series S/X<br>PlayStation 4/5<br>Nintendo Switch |
+| Released | - 1st August 2017 (PC, PS4, XO)<br>- September 17, 2020 (Switch) |
 | **Genre(s)** | First Person, Open-World, Sandbox, Survival |
 
 **_The Long Dark_** is a first-person open-world survival game developed by [Hinterland Games](./Hinterland%20Studio%20Inc..md) for Microsoft Windows, OS X, Linux, Xbox One, PlayStation 4, and Nintendo Switch.
@@ -54,7 +54,7 @@ A sequel, _[BLACKFROST: The Long Dark II](./BLACKFROST%20-%20The%20Long%20Dark%2
 
 ## Summary
 
-_The Long Dark_ begins with a [massive geomagnetic anomaly](./First%20Flare.md) that affects all electronic equipment. Cars, radios, computers and most other modern technology have been rendered useless. The world is quiet now, and, with no lights, the nights are long and dark. ![Ld\_airplane.jpg](../assets/Ld_airplane.jpg) A front seat to the end of the world. Immersive first-person exploration game-play featuring a stunning, original art style. Navigate the savage beauty of the Northern wilderness while facing the hazards of a new post-digital frontier.
+_The Long Dark_ begins with a [massive geomagnetic anomaly](./First%20Flare.md) that affects all electronic equipment. Cars, radios, computers and most other modern technology have been rendered useless. The world is quiet now, and, with no lights, the nights are long and dark. ![](../assets/Ld_airplane.jpg) A front seat to the end of the world. Immersive first-person exploration game-play featuring a stunning, original art style. Navigate the savage beauty of the Northern wilderness while facing the hazards of a new post-digital frontier.
 
 Survive by your wits alone. Be on the lookout for potential supply caches, all the while ameliorating and improving your survival skills to overcome the dangers of harsh weather, aggressive wildlife, lack of food and water, and the mysterious [Aurora](./Aurora.md) that adds more uncertainty to an already uncertain survival situation.
 
@@ -76,7 +76,7 @@ Survival of the fittest. Deep survival simulation game-play whence every decisio
 
 ## Game Versions
 
-![The\_Long\_Dark\_Editions.png](../assets/The_Long_Dark_Editions.png) As of December 5th, 2022, _The Long Dark_ can be purchased in several different forms from Steam or Epic Games:
+![](../assets/The_Long_Dark_Editions.png) As of December 5th, 2022, _The Long Dark_ can be purchased in several different forms from Steam or Epic Games:
 
 ### _The Long Dark_
 
@@ -120,7 +120,7 @@ Includes Volume Three of the Original Soundtrack to The Long Dark, as composed b
 
 ## Visual Enhancements
 
-![The\_Long\_Dark\_visual\_enhancements.png](../assets/The_Long_Dark_visual_enhancements.png) A Visual Enhancement update is available for the game when playing on PlayStation 5, Xbox Series S/X, and PC. It is mainly for higher end hardware and is not available for game versions running on older game platforms (PlayStation 4/Xbox One, Nintendo Switch, Lower end PC, etc.).
+![](../assets/The_Long_Dark_visual_enhancements.png) A Visual Enhancement update is available for the game when playing on PlayStation 5, Xbox Series S/X, and PC. It is mainly for higher end hardware and is not available for game versions running on older game platforms (PlayStation 4/Xbox One, Nintendo Switch, Lower end PC, etc.).
 
 ## Gameplay
 

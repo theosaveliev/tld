@@ -52,7 +52,7 @@ _Hunting\_Rifle\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
+**Weight:** ![](../assets/Weight_icon.png)4.00 kg(8.8 lbs)
 
 **Harvest:** 1 Hour 2 × [Scrap Metal](./Scrap%20Metal.md)
 

@@ -20,9 +20,9 @@ The **First Aid Kit** is an item found at the beginning of [Episode 1: Do Not Go
 
 If the player chooses to put the First Aid Kit in the plane's hatch, it will break open once the plane crashes and the following items can be recovered for use:
 
-- 1 ![Emergency\_Stim\_icon.png](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md)
-- 2 ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandages](./Bandage.md)
-- 1 ![Antibiotics\_icon.png](../assets/Antibiotics_icon.png) [Antibiotics](./Antibiotics.md)
-- 1 ![Painkillers\_icon.png](../assets/Painkillers_icon.png) [Painkillers](./Painkillers.md)
+- 1 ![](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md)
+- 2 ![](../assets/Bandage_icon.png) [Bandages](./Bandage.md)
+- 1 ![](../assets/Antibiotics_icon.png) [Antibiotics](./Antibiotics.md)
+- 1 ![](../assets/Painkillers_icon.png) [Painkillers](./Painkillers.md)
 
 Arguably the least useful choice of supplies overall, as Bandages are easily crafted and the other items can be found somewhat easily on Green Survivor and Capable Survivor. On Green Survivor, [Wolves](./Wolf.md) can be safely ignored, avoiding [Infection](./Infection.md) entirely. [Dysentery](./Dysentery.md) can be avoided by not drinking unsafe water, and [Food Poisoning](./Food%20Poisoning.md) can be avoided by not eating low-condition food or raw meat. Painkillers are the least useful, as [Pain](./Pain.md) has no real detrimental effects in Wintermute and is cured easily enough without treatment, [Burns](./Burns.md) are only possible to get in Episode 1 by walking directly into a [Campfire](./Campfire.md), and there are no [Moose](./Moose.md) present in Episode 1 to potentially give [Broken Ribs](./Broken%20Ribs.md). The Emergency Stim may be useful for the rope climbs at the end of the episode, but it's very likely to find at least one while looting Milton and completing the side missions.

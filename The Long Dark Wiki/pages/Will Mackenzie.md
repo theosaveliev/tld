@@ -134,12 +134,12 @@ The [final chapter](./Donner.md) of the episode begins with [Franklin's](./Frank
 
 ## Belongings
 
-- ![Mackenzie's\_Toque\_icon.png](../assets/Mackenzie%27s_Toque_icon.png) [Mackenzie's Toque](./Mackenzie%27s%20Toque.md)
-- ![Mackenzie's\_Sweater\_icon.png](../assets/Mackenzie%27s_Sweater_icon.png) [Mackenzie's Sweater](./Mackenzie%27s%20Sweater.md)
-- ![Mackenzie's\_Shirt\_icon.png](../assets/Mackenzie%27s_Shirt_icon.png) [Mackenzie's Shirt](./Mackenzie%27s%20Shirt.md)
-- ![Mackenzie's\_Parka\_icon.png](../assets/Mackenzie%27s_Parka_icon.png) [Mackenzie's Parka](./Mackenzie%27s%20Parka.md)
-- ![Mackenzie's\_Pants\_icon.png](../assets/Mackenzie%27s_Pants_icon.png) [Mackenzie's Pants](./Mackenzie%27s%20Pants.md)
-- ![Mackenzie's\_Boots\_icon.png](../assets/Mackenzie%27s_Boots_icon.png) [Mackenzie's Boots](./Mackenzie%27s%20Boots.md)
+- ![](../assets/Mackenzie%27s_Toque_icon.png) [Mackenzie's Toque](./Mackenzie%27s%20Toque.md)
+- ![](../assets/Mackenzie%27s_Sweater_icon.png) [Mackenzie's Sweater](./Mackenzie%27s%20Sweater.md)
+- ![](../assets/Mackenzie%27s_Shirt_icon.png) [Mackenzie's Shirt](./Mackenzie%27s%20Shirt.md)
+- ![](../assets/Mackenzie%27s_Parka_icon.png) [Mackenzie's Parka](./Mackenzie%27s%20Parka.md)
+- ![](../assets/Mackenzie%27s_Pants_icon.png) [Mackenzie's Pants](./Mackenzie%27s%20Pants.md)
+- ![](../assets/Mackenzie%27s_Boots_icon.png) [Mackenzie's Boots](./Mackenzie%27s%20Boots.md)
 
 ## Gallery
 

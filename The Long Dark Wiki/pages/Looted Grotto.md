@@ -7,3 +7,7 @@
 _Seal\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+ / **Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Looted+Grotto&amp;action=edit expanding it\].** / **Looted Grotto** / ![](../assets/Looted_Grotto.jpg) / _Looted\_Grotto.jpg_ / **Location** / ![](../assets/Looted_Grotto_Location.png) / _Looted\_Grotto\_Location.png_ / **Region:** [Port Remnant](./Port%20Remnant.md)\\|- / **Description:** A set of ruined buildings and trailers built under the cliffs / **General** / ![](../assets/Bed_icon.png) / _bed\_icon.png_ / Has a bed / Has an interior\ **Looted Grotto** is a location in [Port Remnant](./Port%20Remnant.md).
+
+## Overview

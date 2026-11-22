@@ -43,7 +43,7 @@ _Ptarmigan\_icon.png_
 
 ”
 
-**Last Horizon** is the third [Tale](./Tales.md) released for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon in [Survival Mode](./Survival%20Mode.md). As of V 2.27, Last Horizon can be started on a new playthrough out of order as soon as the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) is acquired, as long as [Signal Void](./Signal%20Void.md), [Buried Echoes](./Buried%20Echoes.md), and Last Horizon have been completed on another playthrough and their associated [Badges](./Badges.md) are acquired. The [Transmitter](./Transmitters.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) will need to be repaired before this Tale can be started if played out of order, and [Bunker Omega](./Bunker%20Omega.md) will need to be uncovered to finish it. ![Cougar\_Part\_5.jpg](../assets/Cougar_Part_5.jpg)
+**Last Horizon** is the third [Tale](./Tales.md) released for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon in [Survival Mode](./Survival%20Mode.md). As of V 2.27, Last Horizon can be started on a new playthrough out of order as soon as the [Handheld Shortwave Radio](./Handheld%20Shortwave%20Radio.md) is acquired, as long as [Signal Void](./Signal%20Void.md), [Buried Echoes](./Buried%20Echoes.md), and Last Horizon have been completed on another playthrough and their associated [Badges](./Badges.md) are acquired. The [Transmitter](./Transmitters.md) in [Forsaken Airfield](./Forsaken%20Airfield.md) will need to be repaired before this Tale can be started if played out of order, and [Bunker Omega](./Bunker%20Omega.md) will need to be uncovered to finish it. ![](../assets/Cougar_Part_5.jpg)
 
 ## Preface
 

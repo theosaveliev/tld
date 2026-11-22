@@ -120,7 +120,7 @@ The player has no way of know this at first, but Sutherland eventually reveals t
 
 ### Radio Locations
 
-![Trader's\_Radio.jpg](../assets/Trader%27s_Radio.jpg)The Trader can only be contacted by special yellow [Radios](./Radio.md) with a microphone and portable antenna, which can be found at fixed locations on [Great Bear Island](./Great%20Bear%20Island.md) (and cannot moved with [Safehouse Customization](./Safehouse%20Customization.md)).
+![](../assets/Trader%27s_Radio.jpg)The Trader can only be contacted by special yellow [Radios](./Radio.md) with a microphone and portable antenna, which can be found at fixed locations on [Great Bear Island](./Great%20Bear%20Island.md) (and cannot moved with [Safehouse Customization](./Safehouse%20Customization.md)).
 
 - The Radio must be powered during an active [Aurora](./Aurora.md) (or [Glimmer Fog](./Glimmer%20Fog.md) in the Far Territory). These radios will not appear if The Trader is disabled.
 - If the message "Trader Unavailable" appears when using the Radio, this means that The Trader is currently performing a trade or the minimum arrival date has not passed yet. A good way to tell if Sutherland is around is to listen for him shouting when the Radio is powered.
@@ -596,22 +596,22 @@ Trader: "Not sure what you mean? I forget things sometimes...best to leave it al
 
 ### Tools
 
-- ![A\_Skeleton\_And\_Note\_icon.png](../assets/A_Skeleton_And_Note_icon.png) [A Skeleton And Note](./A%20Skeleton%20And%20Note.md)
-- ![Broken\_Hatch\_Wheel\_icon.png](../assets/Broken_Hatch_Wheel_icon.png) [Broken Hatch Wheel](./Broken%20Hatch%20Wheel.md)
-- ![Document\_Stash\_1\_icon.png](../assets/Document_Stash_1_icon.png) [Document Stash 1](./Document%20Stash%201.md)
-- ![Document\_Stash\_2\_icon.png](../assets/Document_Stash_2_icon.png) [Document Stash 2](./Document%20Stash%202.md)
-- ![Document\_Stash\_3\_icon.png](../assets/Document_Stash_3_icon.png) [Document Stash 3](./Document%20Stash%203.md)
-- ![Wyatt's\_Skeleton\_icon.png](../assets/Wyatt%27s_Skeleton_icon.png) [Wyatt's Skeleton](./Wyatt%27s%20Skeleton.md)
+- ![](../assets/A_Skeleton_And_Note_icon.png) [A Skeleton And Note](./A%20Skeleton%20And%20Note.md)
+- ![](../assets/Broken_Hatch_Wheel_icon.png) [Broken Hatch Wheel](./Broken%20Hatch%20Wheel.md)
+- ![](../assets/Document_Stash_1_icon.png) [Document Stash 1](./Document%20Stash%201.md)
+- ![](../assets/Document_Stash_2_icon.png) [Document Stash 2](./Document%20Stash%202.md)
+- ![](../assets/Document_Stash_3_icon.png) [Document Stash 3](./Document%20Stash%203.md)
+- ![](../assets/Wyatt%27s_Skeleton_icon.png) [Wyatt's Skeleton](./Wyatt%27s%20Skeleton.md)
 
 ### Collectibles
 
-- ![Sutherland's\_Note\_icon.png](../assets/Sutherland%27s_Note_icon.png) [Sutherland's Note](./Sutherland%27s%20Note.md)
-- ![Wyatt's\_Lost\_Papers\_1\_icon.png](../assets/Wyatt%27s_Lost_Papers_1_icon.png) [Wyatt's Lost Papers 1](./Wyatt%27s%20Lost%20Papers%201.md)
-- ![Wyatt's\_Lost\_Papers\_2\_icon.png](../assets/Wyatt%27s_Lost_Papers_2_icon.png) [Wyatt's Lost Papers 2](./Wyatt%27s%20Lost%20Papers%202.md)
-- ![Wyatt's\_Lost\_Papers\_3\_icon.png](../assets/Wyatt%27s_Lost_Papers_3_icon.png) [Wyatt's Lost Papers 3](./Wyatt%27s%20Lost%20Papers%203.md)
-- ![Bunker\_Schematic\_Fragment\_1\_icon.png](../assets/Bunker_Schematic_Fragment_1_icon.png) [Bunker Schematic Fragment 1](./Bunker%20Schematic%20Fragment%201.md)
-- ![Bunker\_Schematic\_Fragment\_2\_icon.png](../assets/Bunker_Schematic_Fragment_2_icon.png) [Bunker Schematic Fragment 2](./Bunker%20Schematic%20Fragment%202.md)
-- ![Bunker\_Schematic\_Fragment\_3\_icon.png](../assets/Bunker_Schematic_Fragment_3_icon.png) [Bunker Schematic Fragment 3](./Bunker%20Schematic%20Fragment%203.md)
+- ![](../assets/Sutherland%27s_Note_icon.png) [Sutherland's Note](./Sutherland%27s%20Note.md)
+- ![](../assets/Wyatt%27s_Lost_Papers_1_icon.png) [Wyatt's Lost Papers 1](./Wyatt%27s%20Lost%20Papers%201.md)
+- ![](../assets/Wyatt%27s_Lost_Papers_2_icon.png) [Wyatt's Lost Papers 2](./Wyatt%27s%20Lost%20Papers%202.md)
+- ![](../assets/Wyatt%27s_Lost_Papers_3_icon.png) [Wyatt's Lost Papers 3](./Wyatt%27s%20Lost%20Papers%203.md)
+- ![](../assets/Bunker_Schematic_Fragment_1_icon.png) [Bunker Schematic Fragment 1](./Bunker%20Schematic%20Fragment%201.md)
+- ![](../assets/Bunker_Schematic_Fragment_2_icon.png) [Bunker Schematic Fragment 2](./Bunker%20Schematic%20Fragment%202.md)
+- ![](../assets/Bunker_Schematic_Fragment_3_icon.png) [Bunker Schematic Fragment 3](./Bunker%20Schematic%20Fragment%203.md)
 
 ## Gallery
 

@@ -320,7 +320,7 @@ _Breyerhouse\_Pie\_icon.png_
 
 [Breyerhouse Pie](./Breyerhouse%20Pie.md)
 
-Instantly restores 10% of Condition Provides the ![Nourished\_icon.png](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours
+Instantly restores 10% of Condition Provides the ![](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours
 
 ![](../assets/Camber_Flight_Porridge_icon.png)
 
@@ -328,7 +328,7 @@ _Camber\_Flight\_Porridge\_icon.png_
 
 [Camber Flight Porridge](./Camber%20Flight%20Porridge.md)
 
-Instantly restores 10% of Condition Provides the ![Nourished\_icon.png](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours
+Instantly restores 10% of Condition Provides the ![](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours
 
 ![](../assets/Dockworker%27s_Pie_icon.png)
 
@@ -336,7 +336,7 @@ _Dockworker's\_Pie\_icon.png_
 
 [Dockworker's Pie](./Dockworker%27s%20Pie.md)
 
-Instantly restores 35% of Condition Provides the ![Nourished\_icon.png](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours
+Instantly restores 35% of Condition Provides the ![](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours
 
 ![](../assets/Ranger_Stew_icon.png)
 
@@ -344,7 +344,7 @@ _Ranger\_Stew\_icon.png_
 
 [Ranger Stew](./Ranger%20Stew.md)
 
-Instantly restores 10% of Condition Provides the ![Nourished\_icon.png](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours
+Instantly restores 10% of Condition Provides the ![](../assets/Nourished_icon.png) [Nourished](./Nourished.md) Affliction for 3 hours
 
 ![](../assets/Lily%27s_Pancakes_icon.png)
 
@@ -376,9 +376,9 @@ _Birch\_Bark\_Tea\_icon.png_
 
 [Birch Bark Tea](./Birch%20Bark%20Tea.md)
 
-Grants the ![Restore\_Condition\_icon.png](../assets/Restore_Condition_icon.png) [Restore Condition](./Restore%20Condition.md) Affliction, Restoring 5% Condition for 2 hours
+Grants the ![](../assets/Restore_Condition_icon.png) [Restore Condition](./Restore%20Condition.md) Affliction, Restoring 5% Condition for 2 hours
 
-The following foods grant the ![Improved\_Rest\_icon.png](../assets/Improved_Rest_icon.png) [Improved Rest](./Improved%20Rest.md) Affliction, restoring Condition gained while [sleeping](./Sleep.md) by an extra 2% (1% for Interloper) an hour while the benefit is still active. This benefit is used whenever sleeping, whether this be all at once or across multiple sleep sessions.
+The following foods grant the ![](../assets/Improved_Rest_icon.png) [Improved Rest](./Improved%20Rest.md) Affliction, restoring Condition gained while [sleeping](./Sleep.md) by an extra 2% (1% for Interloper) an hour while the benefit is still active. This benefit is used whenever sleeping, whether this be all at once or across multiple sleep sessions.
 
 **Food and Drink:** Duration
 

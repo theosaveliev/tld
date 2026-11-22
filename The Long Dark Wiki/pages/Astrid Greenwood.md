@@ -121,13 +121,13 @@ In [Story](./Wintermute.md) mode each survivor has slightly different skills, th
 
 ## Belongings
 
-- ![Astrid's\_Toque\_icon.png](../assets/Astrid%27s_Toque_icon.png) [Astrid's Toque](./Astrid%27s%20Toque.md)
-- ![Astrid's\_Jacket\_icon.png](../assets/Astrid%27s_Jacket_icon.png) [Astrid's Jacket](./Astrid%27s%20Jacket.md)
-- ![Astrid's\_Sweater\_icon.png](../assets/Astrid%27s_Sweater_icon.png) [Astrid's Sweater](./Astrid%27s%20Sweater.md)
-- ![Astrid's\_Jeans\_icon.png](../assets/Astrid%27s_Jeans_icon.png) [Astrid's Jeans](./Astrid%27s%20Jeans.md)
-- ![Astrid's\_Gloves\_icon.png](../assets/Astrid%27s_Gloves_icon.png) [Astrid's Gloves](./Astrid%27s%20Gloves.md)
-- ![Astrid's\_Boots\_icon.png](../assets/Astrid%27s_Boots_icon.png) [Astrid's Boots](./Astrid%27s%20Boots.md)
-- ![Astrid's\_Hardcase\_icon.png](../assets/Astrid%27s_Hardcase_icon.png) [Astrid's Hardcase](./Astrid%27s%20Hardcase.md)
+- ![](../assets/Astrid%27s_Toque_icon.png) [Astrid's Toque](./Astrid%27s%20Toque.md)
+- ![](../assets/Astrid%27s_Jacket_icon.png) [Astrid's Jacket](./Astrid%27s%20Jacket.md)
+- ![](../assets/Astrid%27s_Sweater_icon.png) [Astrid's Sweater](./Astrid%27s%20Sweater.md)
+- ![](../assets/Astrid%27s_Jeans_icon.png) [Astrid's Jeans](./Astrid%27s%20Jeans.md)
+- ![](../assets/Astrid%27s_Gloves_icon.png) [Astrid's Gloves](./Astrid%27s%20Gloves.md)
+- ![](../assets/Astrid%27s_Boots_icon.png) [Astrid's Boots](./Astrid%27s%20Boots.md)
+- ![](../assets/Astrid%27s_Hardcase_icon.png) [Astrid's Hardcase](./Astrid%27s%20Hardcase.md)
 - Astrid wears a blue scarf with birds on it at the start of Episode 1, but it is mostly destroyed and its remains are used by Hobbs to make a makeshift arm sling.
 
 ## Gallery

@@ -18,7 +18,7 @@ _Heat\_Pack\_(Affliction)\_icon.png_
 
 **Description:** You feel a gentle, temporary warmth from the Heat Pack tucked into your clothing.
 
-**Caused By:** Active ![Heat\_Pack\_icon.png](../assets/Heat_Pack_icon.png) [Heat Pack](./Heat%20Pack.md) in inventory
+**Caused By:** Active ![](../assets/Heat_Pack_icon.png) [Heat Pack](./Heat%20Pack.md) in inventory
 
 **Effect:** Positive
 
@@ -26,7 +26,7 @@ _Heat\_Pack\_(Affliction)\_icon.png_
 
 **Affliction Duration:** 6 Hours
 
-**Benefit Duration:** Until![Heat\_Pack\_icon.png](../assets/Heat_Pack_icon.png) [Heat Pack](./Heat%20Pack.md) wears off/is dropped
+**Benefit Duration:** Until![](../assets/Heat_Pack_icon.png) [Heat Pack](./Heat%20Pack.md) wears off/is dropped
 
 > “**You feel a gentle, temporary warmth from the Heat Pack tucked into your clothing.**”
 >

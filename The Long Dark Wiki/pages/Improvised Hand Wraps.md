@@ -16,17 +16,17 @@ _improvised\_Hand\_Wraps\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0.5 °C(0.9 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)0.5 °C(0.9 °F)
 
-**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.3 °C(0.5 °F)
+**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.3 °C(0.5 °F)
 
-**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0.0
+**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)0.0
 
-**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)0.5%
+**Protection:** ![](../assets/Protection_icon.png)0.5%
 
-**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+**Mobility:** ![](../assets/Mobility_icon.png)0%
 
 **Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
 

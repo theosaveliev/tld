@@ -20,7 +20,7 @@ _Mending\_background.png_
 
 **Date:** 23 September 2016
 
-![Mending.png](../assets/Mending.png) **Mending** is a Survival [Skill](./Skills.md) that is used to repair equipment, such as [Clothing](./Clothing.md) and certain [Tools](./Tools.md). Mending also has a large variety of training options relative to most other skills due to the number of types of clothing that can be repaired.
+![](../assets/Mending.png) **Mending** is a Survival [Skill](./Skills.md) that is used to repair equipment, such as [Clothing](./Clothing.md) and certain [Tools](./Tools.md). Mending also has a large variety of training options relative to most other skills due to the number of types of clothing that can be repaired.
 
 ## Repairable Items
 
@@ -28,7 +28,7 @@ The following items can be repaired with the Mending skill:
 
 - Any non-Ruined:
   - [Clothing](./Clothing.md) ([Cloth](./Cloth.md) clothes, [Leather](./Cured%20Leather.md) clothes, [Metal](./Scrap%20Metal.md) accessories)
-  - Bedrolls (![Bedroll\_icon.png](../assets/Bedroll_icon.png) [Bedroll](./Bedroll.md), ![Improvised\_Down\_Bedroll\_icon.png](../assets/Improvised_Down_Bedroll_icon.png) [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md), ![Bear\_Skin\_Bedroll\_icon.png](../assets/Bear_Skin_Bedroll_icon.png) [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md))
+  - Bedrolls (![](../assets/Bedroll_icon.png) [Bedroll](./Bedroll.md), ![](../assets/Improvised_Down_Bedroll_icon.png) [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md), ![](../assets/Bear_Skin_Bedroll_icon.png) [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md))
 
 Ruined Clothing cannot be repaired, only harvested for materials. The Mending skill does not lower clothing crafting times or increase when crafting clothing.
 
@@ -46,13 +46,13 @@ A tool is required to repairing Clothing. Sewing Kits can be found by looting. F
 
 Tool
 
-![Sewing\_Kit\_icon.png](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md)
+![](../assets/Sewing_Kit_icon.png) [Sewing Kit](./Sewing%20Kit.md)
 
-![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md)
+![](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md)
 
-![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)
+![](../assets/Simple_Tools_icon.png) [Simple Tools](./Simple%20Tools.md)
 
-![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)
+![](../assets/Quality_Tools_icon.png) [Quality Tools](./Quality%20Tools.md)
 
 ## Repair Materials
 

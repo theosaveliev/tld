@@ -245,7 +245,7 @@ Fresh Guts
 
 40.00 kg / _(88 lb)_
 
-1 x ![Fresh\_Black\_Bear\_Hide\_icon.png](../assets/Fresh_Black_Bear_Hide_icon.png) [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md)
+1 x ![](../assets/Fresh_Black_Bear_Hide_icon.png) [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md)
 
 10 x 
 
@@ -255,7 +255,7 @@ N/A
 
 4.00 kg / _(8.8 lb)_
 
-1 x ![Fresh\_Cougar\_Hide\_icon.png](../assets/Fresh_Cougar_Hide_icon.png) [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) / 1 x ![Cougar\_Claw\_icon.png](../assets/Cougar_Claw_icon.png) [Cougar Claw](./Cougar%20Claw.md)
+1 x ![](../assets/Fresh_Cougar_Hide_icon.png) [Fresh Cougar Hide](./Fresh%20Cougar%20Hide.md) / 1 x ![](../assets/Cougar_Claw_icon.png) [Cougar Claw](./Cougar%20Claw.md)
 
 2 x 
 
@@ -265,7 +265,7 @@ N/A
 
 11.00 kg / _(24.2 lb)_
 
-1 x ![Fresh\_Deer\_Hide\_icon.png](../assets/Fresh_Deer_Hide_icon.png) [Fresh Deer Hide](./Fresh%20Deer%20Hide.md)
+1 x ![](../assets/Fresh_Deer_Hide_icon.png) [Fresh Deer Hide](./Fresh%20Deer%20Hide.md)
 
 2 x 
 
@@ -275,17 +275,17 @@ N/A
 
 45.00 kg / _(99 lb)_
 
-1 x ![Fresh\_Moose\_Hide\_icon.png](../assets/Fresh_Moose_Hide_icon.png) [Fresh Moose Hide](./Fresh%20Moose%20Hide.md)
+1 x ![](../assets/Fresh_Moose_Hide_icon.png) [Fresh Moose Hide](./Fresh%20Moose%20Hide.md)
 
 12 x 
 
 [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md)
 
-0 kg / _(0 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+0 kg / _(0 lb)_![](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
 
-0 kg / _(0 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+0 kg / _(0 lb)_![](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
 
-1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
+1 x ![](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
 
 2 x 
 
@@ -305,27 +305,27 @@ None
 
 1.50 kg / _(3.3 lb)_
 
-1 x ![Fresh\_Rabbit\_Pelt\_icon.png](../assets/Fresh_Rabbit_Pelt_icon.png) [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md)
+1 x ![](../assets/Fresh_Rabbit_Pelt_icon.png) [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md)
 
 1 x 
 
 [Timberwolf Carcass](./Timberwolf%20Carcass.md)
 
-4.00 kg / _(8.8 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+4.00 kg / _(8.8 lb)_![](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
 
-7.00 kg / _(15.4 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+7.00 kg / _(15.4 lb)_![](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
 
-1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
+1 x ![](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
 
 2 x 
 
 [Wolf Carcass](./Wolf%20Carcass.md)
 
-3.00 kg / _(6.6 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+3.00 kg / _(6.6 lb)_![](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
 
-6.00 kg / _(13.2 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+6.00 kg / _(13.2 lb)_![](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
 
-1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
+1 x ![](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
 
 2 x 
 

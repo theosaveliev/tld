@@ -21,3 +21,9 @@ _Giant's\_Thumbprint\_Location.png_
 **General**
 
 **Type:** Landmark
+
+## Overview
+
+The pond is located in a depression and is surrounded by forest on all sides. [Rabbits](./Rabbit.md) can be found on the pond, as can [Deer](./Deer.md). Hunters should take care, as several [Wolves](./Wolf.md) can be found in the forest immediately surrounding the pond. Several [Cat Tail](./Cat%20Tail.md) and [Burdock](./Burdock.md) plants are found near the pond.
+
+Despite its small size, the pond is sufficiently deep for free-form [Ice Fishing](./Ice%20Fishing.md). The nearby [Last Lonely House](./Last%20Lonely%20House.md) or [Idle Hideout](./Idle%20Hideout.md) cave can be used as a shelter after fishing.

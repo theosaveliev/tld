@@ -26,17 +26,17 @@ Wintermute
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)6.00 kg(13.2 lbs)
+**Weight:** ![](../assets/Weight_icon.png)6.00 kg(13.2 lbs)
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0 °C(0 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)0 °C(0 °F)
 
-**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0 °C(0 °F)
+**Windproof bonus:** ![](../assets/Windproofness_icon.png)0 °C(0 °F)
 
-**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0%
+**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)0%
 
-**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)50%
+**Protection:** ![](../assets/Protection_icon.png)50%
 
-**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-40%
+**Mobility:** ![](../assets/Mobility_icon.png)-40%
 
 **Harvest:** Cannot Harvest
 

@@ -6,6 +6,6 @@
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Barrel.jpg) / _Barrel.jpg_ |  |
+| ![](../assets/Barrel.jpg)<br>_Barrel.jpg_ |  |
 | **General** |  |
 | Item Type | Item |

@@ -37,3 +37,25 @@ Has a bed
 _forge\_icon\_green.png_
 
 Has a forge
+
+## Overview
+
+A few vehicles may be found immediately outside, and a small, exterior staircase at the back connects to a door to the indoor second-floor catwalk. The staircase's landings may serve as a somewhat protected area for storing and cooking food, although predators can climb at least partway up.
+
+The interior of the building consists of one central hall surrounded by an elevated walkway with seven rooms per side per floor--mostly offices and storage at floor level with some living quarters mixed in upstairs. Three of four sides also have a staircase.
+
+The hangar also has a [basement](./Hangar%20Basement.md) with a [forge](./Forge.md), [work bench](./Work%20Bench.md), and a [bed](./Bed.md). During an [Aurora](./Aurora.md) or [Glimmer Fog](./Glimmer%20Fog.md) event, the basement's artificial lights turn back on, otherwise the basement has no windows and thus receives no natural light, but during the day you may still be able to work at the work bench. Escaping into the basement provides one of the few underground sanctuaries against [Insomnia](./Insomnia.md) during a Glimmer Fog event.
+
+Inside the open hangar area are two light airplanes and one helicopter, as well as a few tool boxes--all of which can serve as storage. Also scattered throughout the hangar are plenty of furniture, tarps, and crates to break down for material.
+
+Miscellaneous food, tools, and clothing items may be found inside and around the building on the main or upper floors. This location may also spawn up to two [heavy hammers](./Heavy%20Hammer.md), and a [noisemaker](./Noisemaker.md) may occasionally be found here as well.
+
+## Gallery
+
+![Main Hangar Interior](../assets/24211.png)
+
+_Main Hangar Interior_
+
+![Helicopter control panel during the aurora](../assets/Helicopter_aurora.png)
+
+_Helicopter control panel during the aurora_

@@ -19,3 +19,11 @@ Region
 **General**
 
 **Type:** Cave
+
+## Overview
+
+Cave is not a cave in the usual nomenclature; rather it is a quite open area shaded by a low height rock ceiling. A backpack and burned out campfire can be found in the center, with a [Survive the Outdoors!](./Survive%20the%20Outdoors!.md) book almost always spawning in the backpack.
+
+To the west is a dead end that leads to the [Deer Clearing](./Deer%20Clearing.md) ([Mountaineering Rope](./Mountaineering%20Rope.md) must first be deployed).
+
+To the east is an open field that leads to a [Prepper Cache](./Prepper%20Cache.md).

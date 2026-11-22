@@ -26,7 +26,7 @@ Item Type
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.05 kg(0.11 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.05 kg(0.11 lbs)
 
 > “**Rose hips that are ready to be boiled to make a healing natural tea.**”
 >

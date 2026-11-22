@@ -28,5 +28,29 @@ _Fresh\_Cougar\_Hide\_icon.png_
 
 **Item key:** GAMEPLAY\_CougarHide
 
-| Column 1 | Column 2 | Column 3 |
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+A **Fresh Cougar Hide** is a [Material](./Materials.md) that can be [cured](./Curing.md) into a [Cured Cougar Hide](./Cured%20Cougar%20Hide.md). A fresh hide takes 10 days to cure.
+
+## Drop sources
+
+| Source | Quantity | Rarity |
 | --- | --- | --- |
+| [Cougar](./Cougar.md) | 1 | Always |
+
+![3d model](../assets/Cougar_Hide_3d_model.jpg)
+
+_3d model_
+
+![Old icon](../assets/Cougar_Hide_icon.png)
+
+_Old icon_
+
+## Update history
+
+- UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
+  - Added to game.

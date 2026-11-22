@@ -21,3 +21,7 @@ _Offset\_Falls\_Location.png_
 **General**
 
 **Type:** Outdoors
+
+## Overview
+
+[Stones](./Stone.md) are commonly found on the ice just below the falls, and they will respawn over a few days. A dead [Deer Carcass](./Deer%20Carcass.md) may spawn nearby, as well as 2 possible [Hidden Cache](./Hidden%20Cache.md) locations, and several [cat tails](./Cat%20Tail.md). A possible spawn point is also located under these falls.

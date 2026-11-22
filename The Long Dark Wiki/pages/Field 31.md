@@ -27,3 +27,35 @@ Has a bed
 _forge\_icon\_green.png_
 
 Has a forge
+
+## Overview
+
+**Field 31**, otherwise known as **Airfield 31**, is a small abandoned airport located deep within the The Far Territory of [Great Bear Island](./Great%20Bear%20Island.md), specifically in the [Forsaken Airfield](./Forsaken%20Airfield.md) region. Though long since abandoned, the airfield is notable for having the largest concentrated number of electronics and vehicles in any Region of Great Bear, making it a perfect area to scavenge for scrap metal and other tools and components.
+
+The tarmacs and hangars are littered with nonfunctional rescue helicopters and bush planes, as well as your average abandoned terrestrial vehicles.
+
+Despite all electronics being rendered destroyed by the [First Flare](./First%20Flare.md), Airfield 31 is occasionally revived to its former glory when the [Aurora](./Aurora.md) appears in the night sky, being visible for miles thanks to the various runway lights that will unfortunately never guide any new passenger planes to its tarmac again. The area is also occasionally plagued by [Glimmer Fog](./Glimmer%20Fog.md).
+
+## Notable Landmarks
+
+- [Main Hangar](./Main%20Hangar.md)
+- [Hangar Basement](./Hangar%20Basement.md)
+- [Control Tower](./Control%20Tower.md)
+- [Terminal](./Terminal.md)
+- [Cargomaster's Trailer](./Cargomaster%27s%20Trailer.md)
+
+![Transmitter at Control Tower](../assets/The_Long_Dark_Screenshot_2023.03.31_-_23.30.33.32.png)
+
+_Transmitter at Control Tower_
+
+![Most of the Airfield as seen from the ground](../assets/Field_31_Sunrise.jpg)
+
+_Most of the Airfield as seen from the ground_
+
+![The airfield during an aurora, as seen from a distance](../assets/Field_31_Aurora.jpg)
+
+_The airfield during an aurora, as seen from a distance_
+
+\[Missing image: 20230520075647\_1.jpg\]
+
+_The sign in Transfer Pass pointing motorists to Field 31_

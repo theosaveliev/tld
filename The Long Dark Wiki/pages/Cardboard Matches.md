@@ -25,11 +25,11 @@ _Cardboard\_Matches\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
 
-**Bonus chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+0%
+**Bonus chance:** ![](../assets/Firestart_mod_icon.png)+0%
 
-**Unit count:** ![unit\_count\_icon.png](../assets/Unit_count_icon.png)20match
+**Unit count:** ![](../assets/Unit_count_icon.png)20match
 
 > “**Cardboard strike-anywhere matches.**”
 >

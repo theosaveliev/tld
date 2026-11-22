@@ -21,3 +21,13 @@ Region
 **General**
 
 **Type:** Cave
+
+## Gallery
+
+![Lineworker's Hideout, seen from Old Substation](../assets/Lineworker%27s_Hideout.jpg)
+
+_Lineworker's Hideout, seen from Old Substation_
+
+![View towards Old Substation from Lineworker's Hideout, with Blackrock Mountain in the background](../assets/Lineworker%27s_Hideout_view.jpg)
+
+_View towards Old Substation from Lineworker's Hideout, with Blackrock Mountain in the background_

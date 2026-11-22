@@ -16,17 +16,17 @@ _Work\_Gloves\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)0%
+**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)0%
 
-**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)4%
+**Protection:** ![](../assets/Protection_icon.png)4%
 
-**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-2%
+**Mobility:** ![](../assets/Mobility_icon.png)-2%
 
 **Harvest:** 1 × [Cured leather](./Cured%20Leather.md) / 10 minutes
 

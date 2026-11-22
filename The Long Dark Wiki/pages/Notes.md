@@ -152,15 +152,15 @@ There are currently 102 notes in total to find.
 
 ### [Signal Void](./Signal%20Void.md)
 
-- ![Field\_31\_Operation\_Memo\_icon.png](../assets/Field_31_Operation_Memo_icon.png) [Field 31 Operation Memo](./Field%2031%20Operation%20Memo.md)
-- ![Security\_Chief's\_Log\_6\_icon.png](../assets/Security_Chief%27s_Log_6_icon.png) [Security Chief's Log 6](./Security%20Chief%27s%20Log%206.md)
-- ![Security\_Chief's\_Log\_14\_icon.png](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)
-- ![Security\_Chief's\_Log\_23\_icon.png](../assets/Security_Chief%27s_Log_23_icon.png) [Security Chief's Log 23](./Security%20Chief%27s%20Log%2023.md)
-- ![Security\_Chief's\_Log\_29\_icon.png](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
-- ![Interview\_Transcript\_4\_icon.png](../assets/Interview_Transcript_4_icon.png) [Interview Transcript 4](./Interview%20Transcript%204.md)
-- ![Interview\_Transcript\_12\_icon.png](../assets/Interview_Transcript_12_icon.png) [Interview Transcript 12](./Interview%20Transcript%2012.md)
-- ![Interview\_Transcript\_14\_icon.png](../assets/Interview_Transcript_14_icon.png) [Interview Transcript 14](./Interview%20Transcript%2014.md)
-- ![Interview\_Transcript\_17\_icon.png](../assets/Interview_Transcript_17_icon.png) [Interview Transcript 17](./Interview%20Transcript%2017.md)
+- ![](../assets/Field_31_Operation_Memo_icon.png) [Field 31 Operation Memo](./Field%2031%20Operation%20Memo.md)
+- ![](../assets/Security_Chief%27s_Log_6_icon.png) [Security Chief's Log 6](./Security%20Chief%27s%20Log%206.md)
+- ![](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)
+- ![](../assets/Security_Chief%27s_Log_23_icon.png) [Security Chief's Log 23](./Security%20Chief%27s%20Log%2023.md)
+- ![](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
+- ![](../assets/Interview_Transcript_4_icon.png) [Interview Transcript 4](./Interview%20Transcript%204.md)
+- ![](../assets/Interview_Transcript_12_icon.png) [Interview Transcript 12](./Interview%20Transcript%2012.md)
+- ![](../assets/Interview_Transcript_14_icon.png) [Interview Transcript 14](./Interview%20Transcript%2014.md)
+- ![](../assets/Interview_Transcript_17_icon.png) [Interview Transcript 17](./Interview%20Transcript%2017.md)
 
 ### [Buried Echoes](./Buried%20Echoes.md)
 

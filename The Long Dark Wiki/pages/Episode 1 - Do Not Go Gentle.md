@@ -199,12 +199,12 @@ _Main article: [One Last Thing](./One%20Last%20Thing.md)_
 
 ## Achievements
 
-- ![Your\_Journey\_Begins\_icon.png](../assets/Your_Journey_Begins_icon.png) [Your Journey Begins](./Your%20Journey%20Begins.md)
-- ![Paradise\_Lost\_(Achievement)\_icon.png](../assets/Paradise_Lost_%28Achievement%29_icon.png) [Paradise Lost (Achievement)](./Paradise%20Lost%20%28Achievement%29.md)
-- ![The\_Long\_Winter\_icon.png](../assets/The_Long_Winter_icon.png) [The Long Winter](./The%20Long%20Winter.md)
-- ![Losing\_a\_Child\_is\_Like...\_icon.png](../assets/Losing_a_Child_is_Like..._icon.png) [Losing a Child is Like...](./Losing%20a%20Child%20is%20Like....md)
-- ![Leaving\_the\_Old\_World\_Behind\_icon.png](../assets/Leaving_the_Old_World_Behind_icon.png) [Leaving the Old World Behind](./Leaving%20the%20Old%20World%20Behind.md)
-- ![Too\_Big\_to\_Fail\_icon.png](../assets/Too_Big_to_Fail_icon.png) [Too Big to Fail](./Too%20Big%20to%20Fail.md)
+- ![](../assets/Your_Journey_Begins_icon.png) [Your Journey Begins](./Your%20Journey%20Begins.md)
+- ![](../assets/Paradise_Lost_%28Achievement%29_icon.png) [Paradise Lost (Achievement)](./Paradise%20Lost%20%28Achievement%29.md)
+- ![](../assets/The_Long_Winter_icon.png) [The Long Winter](./The%20Long%20Winter.md)
+- ![](../assets/Losing_a_Child_is_Like..._icon.png) [Losing a Child is Like...](./Losing%20a%20Child%20is%20Like....md)
+- ![](../assets/Leaving_the_Old_World_Behind_icon.png) [Leaving the Old World Behind](./Leaving%20the%20Old%20World%20Behind.md)
+- ![](../assets/Too_Big_to_Fail_icon.png) [Too Big to Fail](./Too%20Big%20to%20Fail.md)
 
 ## Trivia
 

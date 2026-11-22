@@ -86,7 +86,7 @@ Loot
 
 Examine Text
 
-![Mementos\_Note\_2\_icon.png](../assets/Mementos_Note_2_icon.png) ![Mementos\_Key\_icon.png](../assets/Mementos_Key_icon.png)
+![](../assets/Mementos_Note_2_icon.png) ![](../assets/Mementos_Key_icon.png)
 
 note and key found pinned outside the door at [Miner's Folly](./Miner%27s%20Folly.md)
 
@@ -148,7 +148,7 @@ Contains tools (knife and hacksaw) **Not available on Interloper/Misery**
 
 _"Grab yer junk before you go. Crazy bastard. -- L"_
 
-![Mementos\_Note\_3\_icon.png](../assets/Mementos_Note_3_icon.png)![Mementos\_Key\_2\_icon.png](../assets/Mementos_Key_2_icon.png)
+![](../assets/Mementos_Note_3_icon.png)![](../assets/Mementos_Key_2_icon.png)
 
 note and key found in the visor of the truck at [Jailer's Residence](./Jailer%27s%20Residence.md)
 
@@ -188,7 +188,7 @@ Loot
 
 Examine Text
 
-![Mementos\_Note\_3\_icon.png](../assets/Mementos_Note_3_icon.png)![Mementos\_Key\_icon.png](../assets/Mementos_Key_icon.png)
+![](../assets/Mementos_Note_3_icon.png)![](../assets/Mementos_Key_icon.png)
 
 note and key under Car Visor at [Echo One Radio Tower](./Echo%20One%20Radio%20Tower.md)
 
@@ -198,7 +198,7 @@ Contains 3x [Noisemaker](./Noisemaker.md) and ammo. **Not available on Interlope
 
 _"Some help, if you need it."_ _"An old Key to a Lockbox in Bleak Inlet."_
 
-![Mementos\_Note\_icon.png](../assets/Mementos_Note_icon.png)![Mementos\_Key\_icon.png](../assets/Mementos_Key_icon.png)
+![](../assets/Mementos_Note_icon.png)![](../assets/Mementos_Key_icon.png)
 
 note and key found in a car at [Long Bridge](./Long%20Bridge.md)
 
@@ -238,7 +238,7 @@ Loot
 
 Examine Text
 
-![Mementos\_Note\_icon.png](../assets/Mementos_Note_icon.png)![Mementos\_Key\_icon.png](../assets/Mementos_Key_icon.png)
+![](../assets/Mementos_Note_icon.png)![](../assets/Mementos_Key_icon.png)
 
 note and key found in the Truck Visor at the [Hunting Lodge](./Hunting%20Lodge.md)
 
@@ -248,7 +248,7 @@ Contains 3-4 [Cured Birch Sapling](./Cured%20Birch%20Sapling.md)
 
 _"Reminder - - don't forget to check Don's lockbox."_ _"An old Key to a Lockbox in Broken Railroad."_
 
-![Mementos\_Note\_3\_icon.png](../assets/Mementos_Note_3_icon.png)![Mementos\_Key\_icon.png](../assets/Mementos_Key_icon.png)
+![](../assets/Mementos_Note_3_icon.png)![](../assets/Mementos_Key_icon.png)
 
 key and note found in the truck in the shed at the [Maintenance Yard](./Maintenance%20Yard.md)
 
@@ -444,7 +444,7 @@ Contains arrow-making materials. Not available on Interloper.
 
 _"I stashed it in a place you'll know. Might do you some good out here."_
 
-![Mementos\_Note\_2\_icon.png](../assets/Mementos_Note_2_icon.png)![Mementos\_Key\_2\_icon.png](../assets/Mementos_Key_2_icon.png)
+![](../assets/Mementos_Note_2_icon.png)![](../assets/Mementos_Key_2_icon.png)
 
 note and key found atop the lower rope climb beneath [Pensive Vista](./Pensive%20Vista.md)
 
@@ -484,7 +484,7 @@ Loot
 
 Examine Text
 
-![Mementos\_Note\_2\_icon.png](../assets/Mementos_Note_2_icon.png) ![Mementos\_Key\_2\_icon.png](../assets/Mementos_Key_2_icon.png)
+![](../assets/Mementos_Note_2_icon.png) ![](../assets/Mementos_Key_2_icon.png)
 
 note and key found in the park office in [Milton Park](./Milton%20Park.md)
 
@@ -536,7 +536,7 @@ Loot
 
 Examine Text
 
-![Mementos\_Note\_2\_icon.png](../assets/Mementos_Note_2_icon.png)![Mementos\_Key\_2\_icon.png](../assets/Mementos_Key_2_icon.png)
+![](../assets/Mementos_Note_2_icon.png)![](../assets/Mementos_Key_2_icon.png)
 
 Note and key found outside [Lone Lake Cabin](./Lone%20Lake%20Cabin.md).
 
@@ -546,7 +546,7 @@ Contains 3x [Military-Grade MRE.](./Military-Grade%20MRE.md) **Not available on 
 
 _"I can't stomach the things, but plenty of MRE's down in the Dam. The broken window room."_ _"An old Key to a Lockbox in Mystery Lake."_
 
-![Mementos\_Note\_2\_icon.png](../assets/Mementos_Note_2_icon.png)![Mementos\_Key\_2\_icon.png](../assets/Mementos_Key_2_icon.png)
+![](../assets/Mementos_Note_2_icon.png)![](../assets/Mementos_Key_2_icon.png)
 
 Note and key found at [Destroyed Lookout](./Destroyed%20Lookout.md) close to [First Aid Kit](./First%20Aid%20Kit.md).
 

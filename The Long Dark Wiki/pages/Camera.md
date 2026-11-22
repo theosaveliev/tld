@@ -73,9 +73,9 @@ Photos taken can be placed inside a constructed [Framed Photo](./Framed%20Photo.
 
 ![From left to right: Sepia, Colour, Black &amp; White of Barn (Molly's)](../assets/Camera_Colour_films.jpg)_From left to right: Sepia, Colour, Black &amp; White of Barn (Molly's)_FastFilm is required to make the Camera work, and the film used effects the coloring of the photograph taken. They are commonly found in various locations around Great Bear Island, mostly hidden in houses and cabins. A single FastFilm contains enough film for 6 Shots. Running out of film in the Camera will cause the survivor to reload another FastFilm of the same color type into the Camera.
 
-- ![FastFilm-500\_icon.png](../assets/FastFilm-500_icon.png) [FastFilm-500](./FastFilm-500.md) (Colour-toned)
-- ![FastFilm-500BW\_icon.png](../assets/FastFilm-500BW_icon.png) [FastFilm-500BW](./FastFilm-500BW.md) (Black &amp; White-toned)
-- ![FastFilm-500SPA\_icon.png](../assets/FastFilm-500SPA_icon.png) [FastFilm-500SPA](./FastFilm-500SPA.md) (Sepia-toned)
+- ![](../assets/FastFilm-500_icon.png) [FastFilm-500](./FastFilm-500.md) (Colour-toned)
+- ![](../assets/FastFilm-500BW_icon.png) [FastFilm-500BW](./FastFilm-500BW.md) (Black &amp; White-toned)
+- ![](../assets/FastFilm-500SPA_icon.png) [FastFilm-500SPA](./FastFilm-500SPA.md) (Sepia-toned)
 
 Swapping to different film types into the Camera simply requires the player to press the "R" key when the Camera is equipped, where it cycles through the order Colour, Black and White, and Sepia film if the player has them in their inventory. Manually swapping through different film colors will also reload the Camera with fresh film from the player's inventory, if film Shots of a particular color inside the Camera is running low.
 
@@ -94,8 +94,8 @@ There is currently not an option to unload all film from inside the Camera in th
 
 ## Achievements
 
-- ![Exposure\_icon.png](../assets/Exposure_icon.png) [Exposure](./Exposure.md)
-- ![Shutterbug\_icon.png](../assets/Shutterbug_icon.png) [Shutterbug](./Shutterbug.md)
+- ![](../assets/Exposure_icon.png) [Exposure](./Exposure.md)
+- ![](../assets/Shutterbug_icon.png) [Shutterbug](./Shutterbug.md)
 
 ## Gallery
 

@@ -2,7 +2,7 @@
 
 **Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Bus)
 
-![PrisonBus.jpg](../assets/PrisonBus.jpg) **Buses** are a stationary [Vehicle](./Vehicle.md) found in _The Long Dark_.
+![](../assets/PrisonBus.jpg) **Buses** are a stationary [Vehicle](./Vehicle.md) found in _The Long Dark_.
 
 Buses are primarily found in the [Blackrock](./Blackrock.md) region, particularly in the [Blackrock Prison](./Blackrock%20Prison.md) yard. They can be entered and provide shelter from Windchill, but do not provide bonus Warmth. [Campfires](./Campfire.md) can be started inside the backs of Buses. Loot can often be found inside, including Clothing and a possible [Improvised Knife](./Improvised%20Knife.md) spawn. The hood of a Bus cannot be opened to obtain a [Car Battery](./Car%20Battery.md). Despite having open doors, [Wolves](./Wolf.md) cannot enter Buses.
 

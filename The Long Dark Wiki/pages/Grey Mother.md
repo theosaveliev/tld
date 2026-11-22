@@ -95,8 +95,8 @@ Grey Mother seemingly passed away in her home in the time since MacKenzie left M
 
 ## Achievements
 
-- ![The\_Long\_Winter\_icon.png](../assets/The_Long_Winter_icon.png) [The Long Winter](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#Hidden_achievements)
-- ![Losing\_a\_Child\_is\_Like...\_icon.png](../assets/Losing_a_Child_is_Like..._icon.png) [Losing a Child is Like...](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#Hidden_achievements)
+- ![](../assets/The_Long_Winter_icon.png) [The Long Winter](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#Hidden_achievements)
+- ![](../assets/Losing_a_Child_is_Like..._icon.png) [Losing a Child is Like...](./The%20Long%20Dark%20%E2%80%94%20Achievements.md#Hidden_achievements)
 
 ## Gallery
 

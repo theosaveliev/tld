@@ -48,11 +48,11 @@ The Firelog burns for two hours and increases the probability of successfully li
 
 **Statistics**
 
-**Duration:** ![Fire\_Starting.png](../assets/Fire_Starting.png) 120 minutes
+**Duration:** ![](../assets/Fire_Starting.png) 120 minutes
 
-**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) 7%
+**Start Chance:** ![](../assets/Firestart_mod_icon.png) 7%
 
-**Heat:** ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +3°C (+5.4°F)
+**Heat:** ![](../assets/Fire_heat_icon.png) +3°C (+5.4°F)
 
 **Burn Density:** 1 hr/kg (0.45 hr/lb)
 

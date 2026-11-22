@@ -16,17 +16,17 @@ _Mariner's\_Pea\_Coat\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+**Weight:** ![](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)3.0 °C(5.4 °F)
 
-**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
+**Windproof bonus:** ![](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
 
-**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)75%
+**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)75%
 
-**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)7%
+**Protection:** ![](../assets/Protection_icon.png)7%
 
-**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-6%
+**Mobility:** ![](../assets/Mobility_icon.png)-6%
 
 **Harvest:** 2 × [Cloth](./Cloth.md) / 90 minutes
 

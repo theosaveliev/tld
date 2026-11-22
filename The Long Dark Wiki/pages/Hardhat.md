@@ -18,21 +18,35 @@ Clothing Slot
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.40 kg(0.88 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.40 kg(0.88 lbs)
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0 °C(0 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)0 °C(0 °F)
 
-**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0 °C(0 °F)
+**Windproof bonus:** ![](../assets/Windproofness_icon.png)0 °C(0 °F)
 
-**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)4%
+**Protection:** ![](../assets/Protection_icon.png)4%
 
-**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+**Mobility:** ![](../assets/Mobility_icon.png)0%
 
 **Harvest:** Cannot Harvest
 
 **Repair:** Cannot Repair
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+ The **Hardhat** is a headgear [Clothing](./Clothing.md) that is found inside the [Langston Mine](./Langston%20Mine.md) in the [Zone of Contamination](./Zone%20of%20Contamination.md). / They can be found in the in the [Langston Mine](./Langston%20Mine.md), [Concentrator](./Concentrator.md), [Conveyor Room](./Conveyor%20Room.md), [Headframe Building](./Headframe%20Building.md), or [Idle Camp](./Idle%20Camp.md). / Unlike other Clothing, Hardhats cannot be harvested or repaired. / Possible to acquire from the [Trader](./Trader.md) for 2.00 L [Lantern Fuel](./Lantern%20Fuel.md), 8 [Coal](./Coal.md) and 5 [Cloth](./Cloth.md) / ![Model icon](../assets/Hardhat_Model_icon.png) / _Model icon_ / ![Model icon damaged](../assets/Hardhat_Model_Damaged_icon.png) / _Model icon damaged_
+
+## Trivia
+
+The Hardhat bears the logo of the Langston Mining Corporation.
+
+## Update history
+
+- UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
+  - Added to game.

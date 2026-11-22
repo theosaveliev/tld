@@ -72,4 +72,4 @@ This mission can be started by finding any of the Local Legends books, including
 
 ## Achievements
 
-- ![Tall\_Tales\_(Achievement)\_icon.png](../assets/Tall_Tales_%28Achievement%29_icon.png) [Tall Tales (Achievement)](./Tall%20Tales%20%28Achievement%29.md)
+- ![](../assets/Tall_Tales_%28Achievement%29_icon.png) [Tall Tales (Achievement)](./Tall%20Tales%20%28Achievement%29.md)

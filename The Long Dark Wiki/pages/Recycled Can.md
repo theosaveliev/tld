@@ -56,13 +56,13 @@ A Recycled Can will degrade by **10%** if its contents are burned or boiled dry.
 
 The following items produced a Recycled Can once the contents are consumed and the can is not smashed opened.
 
-- ![Canned\_Corn\_icon.png](../assets/Canned_Corn_icon.png) [Canned Corn](./Canned%20Corn.md)
-- ![Canned\_Pineapple\_icon.png](../assets/Canned_Pineapple_icon.png) [Canned Pineapple](./Canned%20Pineapple.md)
-- ![Condensed\_Milk\_icon.png](../assets/Condensed_Milk_icon.png) [Condensed Milk](./Condensed%20Milk.md)
-- ![Dog\_Food\_icon.png](../assets/Dog_Food_icon.png) [Dog Food](./Dog%20Food.md)
-- ![Pinnacle\_Peaches\_icon.png](../assets/Pinnacle_Peaches_icon.png) [Pinnacle Peaches](./Pinnacle%20Peaches.md)
-- ![Pork\_and\_Beans\_icon.png](../assets/Pork_and_Beans_icon.png) [Pork and Beans](./Pork%20and%20Beans.md)
-- ![Tomato\_Soup\_icon.png](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md)
+- ![](../assets/Canned_Corn_icon.png) [Canned Corn](./Canned%20Corn.md)
+- ![](../assets/Canned_Pineapple_icon.png) [Canned Pineapple](./Canned%20Pineapple.md)
+- ![](../assets/Condensed_Milk_icon.png) [Condensed Milk](./Condensed%20Milk.md)
+- ![](../assets/Dog_Food_icon.png) [Dog Food](./Dog%20Food.md)
+- ![](../assets/Pinnacle_Peaches_icon.png) [Pinnacle Peaches](./Pinnacle%20Peaches.md)
+- ![](../assets/Pork_and_Beans_icon.png) [Pork and Beans](./Pork%20and%20Beans.md)
+- ![](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md)
 
 A [Can](./Can.md) can also be harvested for a Recycled Can.
 

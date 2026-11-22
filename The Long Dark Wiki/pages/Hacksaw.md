@@ -16,7 +16,7 @@ _Hacksaw\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
 **Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 1 Hour
 

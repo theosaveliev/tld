@@ -22,17 +22,17 @@ _Mackenzie's\_Toque\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.5 °C(2.7 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)1.5 °C(2.7 °F)
 
-**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.75 °C(1.4 °F)
+**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.75 °C(1.4 °F)
 
-**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)2%
+**Protection:** ![](../assets/Protection_icon.png)2%
 
-**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+**Mobility:** ![](../assets/Mobility_icon.png)0%
 
 **Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
 

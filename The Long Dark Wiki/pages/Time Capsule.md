@@ -27,7 +27,7 @@
 - [V.236 Silent Hunter](#v236-silent-hunter)
 - [V.119 Early Access Launch](#v119-early-access-launch)
 
-![Time\_capsule\_icon.png](../assets/Time_capsule_icon.png) ![5\_Years\_Time\_Capsule.png](../assets/5_Years_Time_Capsule.png)
+![](../assets/Time_capsule_icon.png) ![](../assets/5_Years_Time_Capsule.png)
 
 > “__We launched THE LONG DARK on Steam Early Access on September 22nd, 2014. Since then, we have updated the game over 150 times. Until now, everything but the most current update has been unavailable to our community.  
  __”

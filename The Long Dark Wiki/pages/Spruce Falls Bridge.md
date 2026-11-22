@@ -21,3 +21,9 @@ _Spruce\_Falls\_Bridge\_Location.png_
 **General**
 
 **Type:** Landmark
+
+## Overview
+
+The bridge extends across a frozen river which can be accessed along a trail to the side of the bridge. Three cars and a truck can be found on the bridge, and there is often a [wolf](./Wolf.md) nearby. A car can also be found below the bridge. A [bear](./Bear.md) usually roams the area, but can be hunted relatively safely by ducking into a vehicle after taking a shot.
+
+There is a cave on the way to [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md), after the bridge. It provides shelter and could be a good place to hunt the bear.

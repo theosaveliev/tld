@@ -25,7 +25,7 @@ _Snow\_shelter\_icon.png_
 
 **Statistics**
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)15 °C(27 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)15 °C(27 °F)
 
 **Harvest:** 10 [Sticks](./Stick.md) / 2 [Cloth](./Cloth.md)
 

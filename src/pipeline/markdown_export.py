@@ -647,6 +647,8 @@ def _repair_unclosed_mediawiki_tables(text: str) -> tuple[str, int]:
     if not repaired_count:
         return text, 0
     return "".join(output), repaired_count
+
+
 def _build_image_index(image_dir: Path | None) -> dict[str, Path]:
     """Index primary images and their mismatch-folder fallbacks by basename."""
     if image_dir is None:
@@ -1718,13 +1720,17 @@ def _markdown_image(node: lhtml.HtmlElement) -> str:
     """Convert an HTML image to a Markdown image reference."""
     source = node.get("src", "")
     label = node.get("alt") or node.get("title") or ""
-    if label and source and normalize_image_name(label) == normalize_image_name(
-        urllib.parse.unquote(source)
+    if (
+        label
+        and source
+        and normalize_image_name(label)
+        == normalize_image_name(urllib.parse.unquote(source))
     ):
         label = ""
     if not source:
         return _markdown_text(label)
     return f"![{_markdown_text(label)}]({_markdown_destination(source)})"
+
 
 def _inline_markdown(node: lhtml.HtmlElement) -> str:
     """Render an element's mixed inline content without retaining HTML tags."""
@@ -1920,6 +1926,7 @@ def _inline_markdown_element(node: lhtml.HtmlElement) -> str:
 
 def _remove_redundant_image_filename_captions(value: str) -> str:
     """Drop italic captions that only repeat the adjacent image filename."""
+
     def replace(match: re.Match[str]) -> str:
         caption = re.sub(r"\\(.)", r"\1", match.group("caption"))
         destination = urllib.parse.unquote(
@@ -1943,6 +1950,7 @@ def _markdown_table_cell(
     separator = "<br>" if use_html_line_breaks else " / "
     content = re.sub(r"\s*\n\s*", separator, content).strip()
     return content.replace("|", r"\|")
+
 
 def _table_rows(table: lhtml.HtmlElement) -> list[list[lhtml.HtmlElement]]:
     """Extract only rows owned by this table, not rows in nested tables."""
@@ -2389,6 +2397,7 @@ def _render_generic_table(
         values = compact_rows
     return _pipe_table(headers, values)
 
+
 def _render_gallery_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     """Render each gallery item as a standalone Markdown image and caption."""
     items: list[str] = []
@@ -2726,6 +2735,7 @@ def _convert_html_to_markdown(
         ).strip()
         return markdown_body, note, True
     return markdown_body, note, False
+
 
 def _source_html_markdown_fallback(
     page: DumpPage, pandoc: str, resources: PageExportResources

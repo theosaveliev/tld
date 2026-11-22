@@ -23,9 +23,9 @@ _Crow\_Feather\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
 
-**Calories:** ![calorie\_icon.png](../assets/Calorie_icon.png) calories
+**Calories:** ![](../assets/Calorie_icon.png) calories
 
 Harvest
 

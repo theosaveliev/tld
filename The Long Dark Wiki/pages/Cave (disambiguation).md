@@ -26,7 +26,7 @@
 - [Winding River](#winding-river)
 - [Zone of Contamination](#zone-of-contamination)
 
-![Disambig.png](../assets/Disambig.png)_**This article is a disambiguation page for Cave (disambiguation)**  
+![](../assets/Disambig.png)_**This article is a disambiguation page for Cave (disambiguation)**  
  The following is a list of articles that share the same, or very similar, titles. Please follow one of the links below.  
  If an internal link led you here, you may wish to change the link to point directly to the intended article._
 

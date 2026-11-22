@@ -19,3 +19,9 @@ _Alan's\_Cave\_Location.png_
 **General**
 
 **Type:** Cave
+
+## Overview
+
+Alan's Cave is not a true cave but it provides some protection against wind chill. It can be found just west of a hunting stand on the eastern side of the region. A frozen river can be found nearby which leads north to [Carter Hydro Dam](./Carter%20Hydro%20Dam.md), and south to [Mystery Lake](./Mystery%20Lake%20%28location%29.md). There is also a rabbit area there.
+
+In [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), a [Supply Cache](./Supply%20Cache.md) is hidden in this cave. The [Crumpled Note](./Crumpled%20Note.md) marking it on the map can be found on the second level of the dam.

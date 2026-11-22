@@ -48,14 +48,14 @@ In the Bleak Inlet workshop, electrified wires present around the room will be a
 
 Normal crafting and forging is not possible at the Ammunition Workbench, only the production of Gunsmithing items. The Ammunition Workbench can be used to craft the following:
 
-- ![Can\_of\_Gunpowder\_icon.png](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md) 0.5 kg (1.1 lbs)
-- ![Rifle\_Ammunition\_icon.png](../assets/Rifle_Ammunition_icon.png) [Rifle Ammunition](./Rifle%20Ammunition.md)
-- ![Revolver\_Ammunition\_icon.png](../assets/Revolver_Ammunition_icon.png) [Revolver Ammunition](./Revolver%20Ammunition.md)
-- ![Noisemaker\_icon.png](../assets/Noisemaker_icon.png) [Noisemaker](./Noisemaker.md)
+- ![](../assets/Can_of_Gunpowder_icon.png) [Can of Gunpowder](./Can%20of%20Gunpowder.md) 0.5 kg (1.1 lbs)
+- ![](../assets/Rifle_Ammunition_icon.png) [Rifle Ammunition](./Rifle%20Ammunition.md)
+- ![](../assets/Revolver_Ammunition_icon.png) [Revolver Ammunition](./Revolver%20Ammunition.md)
+- ![](../assets/Noisemaker_icon.png) [Noisemaker](./Noisemaker.md)
 
 An Ammunition Forge is present to the bottom left of the Work Bench, which must be lit and fueled to produce:
 
-- ![Bullet\_icon.png](../assets/Bullet_icon.png) [Bullet](./Bullet.md) (x6)
+- ![](../assets/Bullet_icon.png) [Bullet](./Bullet.md) (x6)
 
 Unlike a regular [Forge](./Forge.md), the temperature does not need to be raised above +150 C in order to cast bullets.
 

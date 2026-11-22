@@ -357,18 +357,18 @@ The Cougar was met with heavy criticism at Part Four's launch, with many players
 
 ## Achievements
 
-- ![Too\_Greedily,\_too\_Deep\_icon.png](../assets/Too_Greedily%2C_too_Deep_icon.png) [Too Greedily, too Deep](./Too%20Greedily%2C%20too%20Deep.md)
-- ![To\_the\_Teeth\_icon.png](../assets/To_the_Teeth_icon.png) [To the Teeth](./To%20the%20Teeth.md)
-- ![Tasting\_Menu\_icon.png](../assets/Tasting_Menu_icon.png) [Tasting Menu](./Tasting%20Menu.md)
-- ![Rüdiger's\_Dream\_icon.png](../assets/R%C3%BCdiger%27s_Dream_icon.png) [Rüdiger's Dream](./R%C3%BCdiger%27s%20Dream.md)
-- ![Something\_Warm\_to\_Drink\_icon.png](../assets/Something_Warm_to_Drink_icon.png) [Something Warm to Drink](./Something%20Warm%20to%20Drink.md)
-- ![Quick\_Draw\_icon.png](../assets/Quick_Draw_icon.png) [Quick Draw](./Quick%20Draw.md)
-- ![Exposure\_icon.png](../assets/Exposure_icon.png) [Exposure](./Exposure.md)
-- ![Shutterbug\_icon.png](../assets/Shutterbug_icon.png) [Shutterbug](./Shutterbug.md)
-- ![On\_the\_Lookout\_icon.png](../assets/On_the_Lookout_icon.png) [On the Lookout](./On%20the%20Lookout.md)
-- ![Ends\_of\_the\_Earth\_icon.png](../assets/Ends_of_the_Earth_icon.png) [Ends of the Earth](./Ends%20of%20the%20Earth.md)
-- ![Goods\_and\_Services\_icon.png](../assets/Goods_and_Services_icon.png) [Goods and Services](./Goods%20and%20Services.md)
-- ![Tough\_Enough\_icon.png](../assets/Tough_Enough_icon.png) [Tough Enough](./Tough%20Enough.md)
+- ![](../assets/Too_Greedily%2C_too_Deep_icon.png) [Too Greedily, too Deep](./Too%20Greedily%2C%20too%20Deep.md)
+- ![](../assets/To_the_Teeth_icon.png) [To the Teeth](./To%20the%20Teeth.md)
+- ![](../assets/Tasting_Menu_icon.png) [Tasting Menu](./Tasting%20Menu.md)
+- ![](../assets/R%C3%BCdiger%27s_Dream_icon.png) [Rüdiger's Dream](./R%C3%BCdiger%27s%20Dream.md)
+- ![](../assets/Something_Warm_to_Drink_icon.png) [Something Warm to Drink](./Something%20Warm%20to%20Drink.md)
+- ![](../assets/Quick_Draw_icon.png) [Quick Draw](./Quick%20Draw.md)
+- ![](../assets/Exposure_icon.png) [Exposure](./Exposure.md)
+- ![](../assets/Shutterbug_icon.png) [Shutterbug](./Shutterbug.md)
+- ![](../assets/On_the_Lookout_icon.png) [On the Lookout](./On%20the%20Lookout.md)
+- ![](../assets/Ends_of_the_Earth_icon.png) [Ends of the Earth](./Ends%20of%20the%20Earth.md)
+- ![](../assets/Goods_and_Services_icon.png) [Goods and Services](./Goods%20and%20Services.md)
+- ![](../assets/Tough_Enough_icon.png) [Tough Enough](./Tough%20Enough.md)
 
 ## Trivia
 

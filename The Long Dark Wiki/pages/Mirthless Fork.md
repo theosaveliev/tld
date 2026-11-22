@@ -29,3 +29,13 @@ Has a bed
 _workbench\_icon\_green.png_
 
 Has a workbench
+
+## Gallery
+
+![](../assets/Trailerkeeper_1.jpg)
+
+_Trailerkeeper\_1.jpg_
+
+![The collapsed tunnel to Milton](../assets/20211212180931_1.jpg)
+
+_The collapsed tunnel to [Milton](./Milton.md)_

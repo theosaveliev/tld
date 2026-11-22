@@ -24,7 +24,7 @@ _Sewing\_Kit\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
 > “**A basic sewing kit. Required to craft and repair clothing.**”
 >

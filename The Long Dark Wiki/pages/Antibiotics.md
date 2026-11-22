@@ -25,9 +25,9 @@ _Antibiotics\_icon.png_
 
 **Unit weight:** 0.02 kg/dose(0.04 lbs/dose)
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Unit count:** ![unit\_count\_icon.png](../assets/Unit_count_icon.png)6 doses
+**Unit count:** ![](../assets/Unit_count_icon.png)6 doses
 
 > “**A bottle of Antibiotics. Take it to stop infections from spreading.**”
 >

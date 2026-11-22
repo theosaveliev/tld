@@ -50,11 +50,11 @@ Reclaimed wood has a burning duration of 30 minutes.
 
 **Statistics**
 
-**Duration:** ![Fire\_Starting.png](../assets/Fire_Starting.png) 30 minutes
+**Duration:** ![](../assets/Fire_Starting.png) 30 minutes
 
-**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) -5%
+**Start Chance:** ![](../assets/Firestart_mod_icon.png) -5%
 
-**Heat:** ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +3°C (+5.4°F)
+**Heat:** ![](../assets/Fire_heat_icon.png) +3°C (+5.4°F)
 
 **Burn Density:** 2 hr/kg (0.91 hr/lb)
 

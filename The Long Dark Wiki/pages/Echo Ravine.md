@@ -19,3 +19,15 @@ _Echo\_Ravine\_Location.png_
 **General**
 
 **Type:** Outdoors
+
+## Overview
+
+Echo Ravine is a potential starting location for new players. A [Frozen Corpse](./Frozen%20Corpse.md), several [Rose Hip](./Rose%20Hip.md) bushes, and some firewood can be found at this location.
+
+[Echo Peak West](./Echo%20Peak%20West.md) and [Echo Peak East](./Echo%20Peak%20East.md) are located about a hundred meters above Echo Ravine. A connection to [Ash Canyon](./Ash%20Canyon.md) is located at the eastern end of the ravine. [Chasm Cave](./Chasm%20Cave.md) and [Engine](./Engine%20%28East%29.md) are at the other end.
+
+## Gallery
+
+![A bird's eye view of Echo Ravine.](../assets/Echo_Ravine_-_bird%27s_eye_view.jpg)
+
+_A bird's eye view of Echo Ravine._

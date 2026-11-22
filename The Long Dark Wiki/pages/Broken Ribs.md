@@ -35,9 +35,9 @@ _Broken\_Ribs\_icon.png_
 
 **Treatment**
 
-**Treatment:** 2 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 4 x ![Painkillers\_icon.png](../assets/Painkillers_icon.png) [Painkillers](./Painkillers.md)
+**Treatment:** 2 x ![](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 4 x ![](../assets/Painkillers_icon.png) [Painkillers](./Painkillers.md)
 
-**Alternate Treatment:** 2 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x ![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
+**Alternate Treatment:** 2 x ![](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x ![](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
 
 **Recovery Time:** 120 Hours
 

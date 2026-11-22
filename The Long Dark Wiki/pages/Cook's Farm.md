@@ -35,3 +35,9 @@ Has a bed
 _workbench\_icon\_green.png_
 
 Has a workbench
+
+## Overview
+
+The location features a small, abandoned hay barn, similar to the one at [Paradise Meadows](./Paradise%20Meadows%20Farm.md) but smaller. Its two most useful features are a hay bed and a workbench, although due to the lack of having an interior, it may be necessary to light a fire in the nearby [Fire Barrel](./Fire%20Barrel.md) when sleeping here during cold weather. Overall, sleeping or crafting in the trailer at [Foreman's Clearcut](./Foreman%27s%20Clearcut.md) is usually a better idea, unless trying to fight [Cabin Fever](./Cabin%20Fever.md).
+
+A [Hunting Rifle](./Hunting%20Rifle.md) can be found here in Episode 4, leaning against the wall.

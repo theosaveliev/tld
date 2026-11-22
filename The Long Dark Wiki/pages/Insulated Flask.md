@@ -63,29 +63,29 @@ The following foods and drinks can be placed inside an Insulated Flask:
 
 **\|Drinks:** \|Foods
 
-![Birch\_Bark\_Tea\_icon.png](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md)
+![](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md)
 
-![Broth\_icon.png](../assets/Broth_icon.png) [Broth](./Broth.md)
+![](../assets/Broth_icon.png) [Broth](./Broth.md)
 
-![Burdock\_Tea\_icon.png](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md)
+![](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md)
 
-![Tomato\_Soup\_icon.png](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md)[¹](#fn1)
+![](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md)[¹](#fn1)
 
-![Cup\_of\_Acorn\_Coffee\_icon.png](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md)
+![](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md)
 
-![Last\_Resort\_Soup\_icon.png](../assets/Last_Resort_Soup_icon.png) [Last Resort Soup](./Last%20Resort%20Soup.md)
+![](../assets/Last_Resort_Soup_icon.png) [Last Resort Soup](./Last%20Resort%20Soup.md)
 
-![Cup\_of\_Coffee\_icon.png](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md)
+![](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md)
 
-![Porter's\_Soup\_icon.png](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md)
+![](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md)
 
-![Cup\_of\_Herbal\_Tea\_icon.png](../assets/Cup_of_Herbal_Tea_icon.png) [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md)
+![](../assets/Cup_of_Herbal_Tea_icon.png) [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md)
 
-![Vagabond\_Soup\_icon.png](../assets/Vagabond_Soup_icon.png) [Vagabond Soup](./Vagabond%20Soup.md)
+![](../assets/Vagabond_Soup_icon.png) [Vagabond Soup](./Vagabond%20Soup.md)
 
-![Reishi\_Tea\_icon.png](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)
+![](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)
 
-![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
+![](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
 
 ## Heat Capacity
 
@@ -102,13 +102,13 @@ Typically, only one flask will spawn per region in one of the below locations. A
 
 | Flask Type | Possible Spawn Locations |
 | --- | --- |
-| ![Insulated\_Flask\_(Jackrabbit)\_icon.png](../assets/Insulated_Flask_%28Jackrabbit%29_icon.png) [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) Flask | **Mountain Town** [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md): / - Under the plane behind the cliff / - Inside the floatplane leg at the bottom of the ravine / - Under the plane wing in the ravine / - Inside one of the green [Crates](./Crate.md) in the ravine / - Behind a large [Cedar Limb](./Cedar%20Limb.md) at the bottom of the ravine, near the cave / - Inside the cave at the bottom of the ravine, propped against some rocks in the open / ![Near cave](../assets/Jackrabbit_Flask.webp) / _Near cave_ / ![Under plane near cliff](../assets/Jackrabbit_Flask_2.webp) / _Under plane near cliff_ |
-| ![Insulated\_Flask\_(orange)\_icon.png](../assets/Insulated_Flask_%28orange%29_icon.png) Orange Flask | **Pleasant Valley** / - On a table at the [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md) / - Hunting Blind south of Signal Hill, opposite cave transition into Winding River / - Hunter's blind west of the access to Timberwolf Mountain / - In the shelter next to the overturned boat in [Thomson's Crossing](./Thomson%27s%20Crossing.md) / - In the ice fishing hut at [Pensive Pond](./Pensive%20Pond.md) / Note: Orange Flask has a chance to spawn in any [Locker](./Locker.md). |
-| ![Insulated\_Flask\_(purple)\_icon.png](../assets/Insulated_Flask_%28purple%29_icon.png) Purple Flask | **Desolation Point** Inside [Riken](./The%20Riken.md): / - Inside lower deck next to some barrels / - Crew quarters / - Kitchen countertop closest to the door / Note: Purple Flask has a chance to spawn in any [Car Trunk](./Car%20Trunk.md). |
-| ![Insulated\_Flask\_(sunburst)\_icon.png](../assets/Insulated_Flask_%28sunburst%29_icon.png) Sunburst Flask | **Timberwolf Mountain** [Tail Section](./Tail%20Section.md): / - Beside a corpse on the [Summit](./Summit.md) / - Behind a cargo container in the [Tail Section](./Tail%20Section.md) / Note: Sunburst Flask has a chance to spawn on any [Corpse](./Corpse.md). |
-| ![Insulated\_Flask\_(yellow\_plaid)\_icon.png](../assets/Insulated_Flask_%28yellow_plaid%29_icon.png) Yellow Plaid Flask | **Bleak Inlet** [Last Resort Cannery](./Last%20Resort%20Cannery.md): / - On a table inside the building with the rope/building with the kitchen / - Inside of the big red building with broken stairs, inside an open locker / - At the end of the [Cannery Pier](./Cannery%20Pier.md) beside a backpack / **Zone of Contamination** / [Langston Mine](./Langston%20Mine.md): / - Floor 3 of Langston Mine: elevator area, in the office with a computer / - Floor 3 of Langston Mine: elevator area, on the catwalk above / - Floor 3 of Langston Mine: mine office area, on a table beside an office container / - Floor 2 of Langston Mine: in the office beside the crushing machine / Note: Yellow Plaid Flask has a chance to spawn in any [Red Tool Chest](./Drawer.md). |
-| ![Insulated\_Flask\_(red\_plaid)\_icon.png](../assets/Insulated_Flask_%28red_plaid%29_icon.png) Red Plaid Flask | **Blackrock** In [Blackrock Prison](./Blackrock%20Prison.md): / - Inside the prison watchtower with the climbing rope / - In the Warden's Office next to the Coffee Maker / - Under the driver's seat of the [Bus](./Bus.md) in the maintenance shed next to the [Steam Tunnels](./Steam%20Tunnels.md) entrance / - Next to a desk chair in the Infirmary / - In the open locker #4 in the guard barracks / **Forsaken Airfield** / - Under the front counter in the [Terminal](./Terminal.md) / - On a shelf under the stairs inside [Mindful Cabin](./Mindful%20Cabin.md) / - Outside [Island Cottage](./Island%20Cottage.md), on the workbench in the open shed / - In the Toll Cabin on the road just before the Terminal / Note: Red Plaid Flask has a chance to spawn in any [Safe](./Safe.md). |
-| ![Insulated\_Flask\_G.png](../assets/Insulated_Flask_G.png) Sticker Flask | - Available to players that own the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon, the [Trader](./Trader.md) has a chance to trade a unique "Sticker" Insulated Flask to the player at higher Trust levels. |
+| ![](../assets/Insulated_Flask_%28Jackrabbit%29_icon.png) [Jackrabbit Remote Transport](./Jackrabbit%20Hangar.md) Flask | **Mountain Town** [Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md):<br>- Under the plane behind the cliff<br>- Inside the floatplane leg at the bottom of the ravine<br>- Under the plane wing in the ravine<br>- Inside one of the green [Crates](./Crate.md) in the ravine<br>- Behind a large [Cedar Limb](./Cedar%20Limb.md) at the bottom of the ravine, near the cave<br>- Inside the cave at the bottom of the ravine, propped against some rocks in the open<br>![Near cave](../assets/Jackrabbit_Flask.webp)<br>_Near cave_<br>![Under plane near cliff](../assets/Jackrabbit_Flask_2.webp)<br>_Under plane near cliff_ |
+| ![](../assets/Insulated_Flask_%28orange%29_icon.png) Orange Flask | **Pleasant Valley**<br>- On a table at the [Misty Falls Picnic Area](./Misty%20Falls%20Picnic%20Area.md)<br>- Hunting Blind south of Signal Hill, opposite cave transition into Winding River<br>- Hunter's blind west of the access to Timberwolf Mountain<br>- In the shelter next to the overturned boat in [Thomson's Crossing](./Thomson%27s%20Crossing.md)<br>- In the ice fishing hut at [Pensive Pond](./Pensive%20Pond.md)<br>Note: Orange Flask has a chance to spawn in any [Locker](./Locker.md). |
+| ![](../assets/Insulated_Flask_%28purple%29_icon.png) Purple Flask | **Desolation Point** Inside [Riken](./The%20Riken.md):<br>- Inside lower deck next to some barrels<br>- Crew quarters<br>- Kitchen countertop closest to the door<br>Note: Purple Flask has a chance to spawn in any [Car Trunk](./Car%20Trunk.md). |
+| ![](../assets/Insulated_Flask_%28sunburst%29_icon.png) Sunburst Flask | **Timberwolf Mountain** [Tail Section](./Tail%20Section.md):<br>- Beside a corpse on the [Summit](./Summit.md)<br>- Behind a cargo container in the [Tail Section](./Tail%20Section.md)<br>Note: Sunburst Flask has a chance to spawn on any [Corpse](./Corpse.md). |
+| ![](../assets/Insulated_Flask_%28yellow_plaid%29_icon.png) Yellow Plaid Flask | **Bleak Inlet** [Last Resort Cannery](./Last%20Resort%20Cannery.md):<br>- On a table inside the building with the rope/building with the kitchen<br>- Inside of the big red building with broken stairs, inside an open locker<br>- At the end of the [Cannery Pier](./Cannery%20Pier.md) beside a backpack<br>**Zone of Contamination**<br>[Langston Mine](./Langston%20Mine.md):<br>- Floor 3 of Langston Mine: elevator area, in the office with a computer<br>- Floor 3 of Langston Mine: elevator area, on the catwalk above<br>- Floor 3 of Langston Mine: mine office area, on a table beside an office container<br>- Floor 2 of Langston Mine: in the office beside the crushing machine<br>Note: Yellow Plaid Flask has a chance to spawn in any [Red Tool Chest](./Drawer.md). |
+| ![](../assets/Insulated_Flask_%28red_plaid%29_icon.png) Red Plaid Flask | **Blackrock** In [Blackrock Prison](./Blackrock%20Prison.md):<br>- Inside the prison watchtower with the climbing rope<br>- In the Warden's Office next to the Coffee Maker<br>- Under the driver's seat of the [Bus](./Bus.md) in the maintenance shed next to the [Steam Tunnels](./Steam%20Tunnels.md) entrance<br>- Next to a desk chair in the Infirmary<br>- In the open locker #4 in the guard barracks<br>**Forsaken Airfield**<br>- Under the front counter in the [Terminal](./Terminal.md)<br>- On a shelf under the stairs inside [Mindful Cabin](./Mindful%20Cabin.md)<br>- Outside [Island Cottage](./Island%20Cottage.md), on the workbench in the open shed<br>- In the Toll Cabin on the road just before the Terminal<br>Note: Red Plaid Flask has a chance to spawn in any [Safe](./Safe.md). |
+| ![](../assets/Insulated_Flask_G.png) Sticker Flask | - Available to players that own the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon, the [Trader](./Trader.md) has a chance to trade a unique "Sticker" Insulated Flask to the player at higher Trust levels. |
 
 ## Trivia
 
@@ -173,7 +173,7 @@ _All Flasks with various drinks in front of them_
 
 ## Achievements
 
-- ![Something\_Warm\_to\_Drink\_icon.png](../assets/Something_Warm_to_Drink_icon.png) [Something Warm to Drink](./Something%20Warm%20to%20Drink.md)
+- ![](../assets/Something_Warm_to_Drink_icon.png) [Something Warm to Drink](./Something%20Warm%20to%20Drink.md)
 
 ## Update history
 

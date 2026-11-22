@@ -24,7 +24,7 @@ _Hatchet\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
+**Weight:** ![](../assets/Weight_icon.png)1.50 kg(3.3 lbs)
 
 **Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) / 1 × [Fir Firewood](./Fir%20Firewood.md) / 1 hour
 

@@ -28,9 +28,9 @@ _flare\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
-**Bonus chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+5%
+**Bonus chance:** ![](../assets/Firestart_mod_icon.png)+5%
 
 
 

@@ -17,3 +17,15 @@ _Max's\_Last\_Stand\_Location.png_
 **Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
 
 **Type:** Outdoors
+
+## Overview
+
+Max's Last Stand is directly south of Trapper's Homestead in a clearing. Beneath a lone tree, a frozen corpse (presumably Max) lies face-down in the snow. In game difficulties other than Interloper, a firearm and/or ammo might lie nearby.
+
+The continual calls of crows circling the body can serve as a "landmark" of sorts to navigate the hilly landscape around the Trapper's homestead.
+
+## Possible loot
+
+- [Hatchet](./Hatchet.md)
+- [Hunting Rifle](./Hunting%20Rifle.md)
+- [Survival Bow](./Survival%20Bow.md)

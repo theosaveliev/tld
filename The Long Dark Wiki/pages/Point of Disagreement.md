@@ -17,3 +17,13 @@ _Point\_of\_Disagreement\_Location.png_
 **Region:** [Pleasant Valley](./Pleasant%20Valley.md)
 
 **Type:** Outdoors
+
+## Overview
+
+The location is east of [Crash Site (Pleasant Valley)](./Crash%20Site%20%28Pleasant%20Valley%29.md) and south of [Prepper's Abandoned Cache](./Prepper%27s%20Abandoned%20Cache.md).
+
+The area is composed of 3 vehicles, a possibility of finding small food and clothing items, and giving a chance to warm up. A possible spawn for a [Frozen Corpse](./Frozen%20Corpse.md) is nearby.
+
+## Trivia
+
+A fan theory has been created, suggesting that the bodies near the cars might belong to the friends mentioned in the [Climber's Journal Page](./Climber%27s%20Journal%20Page.md).

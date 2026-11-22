@@ -28,5 +28,26 @@ _Bushcraft\_Bow\_Blueprint\_Card\_icon.png_
 
 **On ground:** Take It, Leave It
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+ / **Bushcraft Bow Blueprint Card** is a [Collectible](./Collectibles.md) found in [Survival Mode](./Survival%20Mode.md). It is acquired from a trade from the [Trader](./Trader.md) and unlocks the ability to craft a [Bushcraft Bow](./Bushcraft%20Bow.md) at a [Work Bench](./Work%20Bench.md). This item only appears in the Trader's inventory after fully completing [Sutherland's Tale](./Sutherland%27s%20Tale.md).
+
+## Trade
+
+This items sometimes appears as a potential trade, and costs:
+
+- 10.00 kg of any raw animal or raw fish meat
+- 5 [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+- 2 any cured hides
+
+At Trust level 6 the costs are reduced to:
+
+- 5.00 kg of any raw animal or raw fish meat
+- 2 [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+- 2 any cured hides
+
+## Update history

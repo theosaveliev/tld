@@ -11,7 +11,7 @@
 - [Achievements](#achievements)
 - [Game History](#game-history)
 
-![Misery\_Mode.jpg](../assets/Misery_Mode.jpg)
+![](../assets/Misery_Mode.jpg)
 > **Cited text**
 >
 >
@@ -83,7 +83,7 @@ Note that [Research Books](./Research%20Book.md) can still be studied even with 
 
 ## Achievements
 
-- ![Broken\_Body\_(Achievement)\_icon.png](../assets/Broken_Body_%28Achievement%29_icon.png) [Broken Body (Achievement)](./Broken%20Body%20%28Achievement%29.md)
+- ![](../assets/Broken_Body_%28Achievement%29_icon.png) [Broken Body (Achievement)](./Broken%20Body%20%28Achievement%29.md)
 
 ## Game History
 

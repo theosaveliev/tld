@@ -40,7 +40,7 @@ Duration
 
 Duration w/ Feat[¹](#fn1)
 
-![Cup\_of\_Coffee\_icon.png](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md)
+![](../assets/Cup_of_Coffee_icon.png) [Cup of Coffee](./Cup%20of%20Coffee.md)
 
 10%
 
@@ -50,7 +50,7 @@ Duration w/ Feat[¹](#fn1)
 
 75 minutes
 
-![Cup\_of\_Acorn\_Coffee\_icon.png](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md)
+![](../assets/Cup_of_Acorn_Coffee_icon.png) [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md)
 
 5%
 
@@ -60,7 +60,7 @@ Duration w/ Feat[¹](#fn1)
 
 37.50 minutes
 
-![Emergency\_Stim\_icon.png](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md)
+![](../assets/Emergency_Stim_icon.png) [Emergency Stim](./Emergency%20Stim.md)
 
 10%
 
@@ -70,7 +70,7 @@ Duration w/ Feat[¹](#fn1)
 
 75 minutes
 
-![Go!\_Energy\_Drink\_icon.png](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md)
+![](../assets/Go!_Energy_Drink_icon.png) [Go! Energy Drink](./Go!%20Energy%20Drink.md)
 
 20%
 
@@ -80,7 +80,7 @@ Duration w/ Feat[¹](#fn1)
 
 56.25 minutes
 
-![Caffeine\_Pills\_icon.png](../assets/Caffeine_Pills_icon.png) [Caffeine Pills](./Caffeine%20Pills.md)
+![](../assets/Caffeine_Pills_icon.png) [Caffeine Pills](./Caffeine%20Pills.md)
 
 25%
 

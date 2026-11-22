@@ -184,7 +184,7 @@ He is voiced by Alec Willows.
 
 ### [Vachon](./Vachon.md) and [Heller](./Heller.md)
 
-![Vachon.png](../assets/Vachon.png)![Heller.png](../assets/Heller.png)
+![](../assets/Vachon.png)![](../assets/Heller.png)
 
 2 Convicts that serve as the right and left hands of Mathis, Vachon and Heller serve as the secondary antagonists of Episode 4, taking orders directly from Mathis himself to keep an eye on Mackenzie.
 

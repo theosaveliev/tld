@@ -14,7 +14,7 @@ Item Type
 
 **Wintermute:** Yes
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.0 kg(0 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.0 kg(0 lbs)
 
 > “**A map that shows Lily's climbing route, leading out of the Milton area.**”
 >

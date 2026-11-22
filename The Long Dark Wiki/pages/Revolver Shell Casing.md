@@ -21,7 +21,7 @@ _Revolver\_Shell\_Casing\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
 
 > “**Empty casing from firing a Revolver. Used for Crafting new Ammunition.**”
 >

@@ -26,7 +26,7 @@ _Archery\_background.png_
 
 **Date:** 23 September 2016
 
-![Archery.png](../assets/Archery.png) **Archery** is a Survival [Skill](./Skills.md) that involves the use of a [Survival Bow](./Survival%20Bow.md) to hunt [Wildlife](./Wildlife.md).
+![](../assets/Archery.png) **Archery** is a Survival [Skill](./Skills.md) that involves the use of a [Survival Bow](./Survival%20Bow.md) to hunt [Wildlife](./Wildlife.md).
 
 Archery's ability to deal ranged damage means that a player can attack animals (and especially predators) from positions of relative safety.
 

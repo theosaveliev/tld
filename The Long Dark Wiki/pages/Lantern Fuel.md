@@ -26,9 +26,9 @@ _Lantern\_Fuel\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.00 - 0.50 kg(0 - 1.1 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.00 - 0.50 kg(0 - 1.1 lbs)
 
-**Bonus chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+40%
+**Bonus chance:** ![](../assets/Firestart_mod_icon.png)+40%
 
 > “**Small bottle of Lamp Fuel**”
 >

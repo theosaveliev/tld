@@ -91,7 +91,7 @@ Curiously, a [Locomotive Engine](./Locomotive%20Engine.md) can be found in the [
 
 ### Tractor Trailer Trailers
 
-![Tractor\_Trailer.jpg](../assets/Tractor_Trailer.jpg)![Keeper's\_Pass\_South\_blocked\_road.jpg](../assets/Keeper%27s_Pass_South_blocked_road.jpg)
+![](../assets/Tractor_Trailer.jpg)![](../assets/Keeper%27s_Pass_South_blocked_road.jpg)
 
 A few locations contain Tractor Trailer cars, but no 18 wheeler automobile. Open trailers can be entered and often contain backpacks and supplies. They are mainly found in [Bleak Inlet](./Bleak%20Inlet.md) with one crashed on the [Long Bridge](./Long%20Bridge.md) and several featuring the Last Resort cannery logo near the cannery. [Blocked Bridge](./Blocked%20Bridge.md) in [Blackrock](./Blackrock.md) also contains a trailer that blocks the bridge. A single trailer cab is found on the road outside of Milton, near the transition to Mystery Lake, but is outside of the playable area. Another is found in [Keeper's Pass South](./Keeper%27s%20Pass%20South.md), on the ruined road to [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) buried under a rockslide.
 

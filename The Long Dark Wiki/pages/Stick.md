@@ -44,11 +44,11 @@ _Stick\_icon.png_
 
 **Statistics**
 
-**Duration:** ![Fire\_Starting.png](../assets/Fire_Starting.png) 7.5 minutes
+**Duration:** ![](../assets/Fire_Starting.png) 7.5 minutes
 
-**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) 15%
+**Start Chance:** ![](../assets/Firestart_mod_icon.png) 15%
 
-**Heat:** ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +1°C (+1.8°F)
+**Heat:** ![](../assets/Fire_heat_icon.png) +1°C (+1.8°F)
 
 **Burn Density:** 0.83 hr/kg (0.38 hr/lb)
 

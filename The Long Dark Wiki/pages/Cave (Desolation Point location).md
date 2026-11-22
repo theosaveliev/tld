@@ -17,3 +17,21 @@ _Cave\_(Desolation\_Point\_location)\_Location.png_
 **Region:** [Desolation Point](./Desolation%20Point.md)
 
 **Type:** Cave
+
+## Overview
+
+The Cave is one of two in the region, but is the only one that has a loading screen.
+
+Within the Cave, especially on harder difficulties, a [Wolf](./Wolf.md) may be found lurking around. The wolf is usually accompanied by one or two [Deer Carcasses](./Deer%20Carcass.md), and sometimes a [Hunting Rifle](./Hunting%20Rifle.md) may be found either with its dead owner or lodged in a crevice. Varying [food stuffs](./Food%20And%20Drink.md) may be found here, and inside the corpse's backpack as well.
+
+The wolf tends to lurk near the large center portion of Cave, but can wander about through the tunnels. So it is recommended to enter with a weapon readied.
+
+## Gallery
+
+![The large interior portion of Cave, showing the upper area where the corpse may appear as well as the deer carcasses.](../assets/20160621021349_1.jpg)
+
+_The large interior portion of Cave, showing the upper area where the corpse may appear as well as the deer carcasses._
+
+![The hunter's corpse, with an abundance of loot nearby.](../assets/20160621021238_1.jpg)
+
+_The hunter's corpse, with an abundance of loot nearby._

@@ -49,13 +49,13 @@ Very rarely, some objects can be broken down to yield paths to hidden locations/
 
 ## **Harvestable Environmental Objects:**
 
-### Objects that yield ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
+### Objects that yield ![](../assets/Cloth_icon.png) [Cloth](./Cloth.md)
 
-These items can be broken by ![Anywhere\_icon.png](../assets/Anywhere_icon.png)Hand, but using a tool saves harvesting times at the expense of Tool Condition. Some objects require one of these Tools to break down:
+These items can be broken by ![](../assets/Anywhere_icon.png)Hand, but using a tool saves harvesting times at the expense of Tool Condition. Some objects require one of these Tools to break down:
 
-- ![Scrap\_Metal\_Shard\_icon.png](../assets/Scrap_Metal_Shard_icon.png) [Scrap Metal Shard](./Scrap%20Metal%20Shard.md)
-- ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md)
-- ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md)
+- ![](../assets/Scrap_Metal_Shard_icon.png) [Scrap Metal Shard](./Scrap%20Metal%20Shard.md)
+- ![](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md)
+- ![](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md)
 
 | Object | Variant | Yield | Time | Tool Required |
 | --- | --- | --- | --- | --- |
@@ -70,9 +70,9 @@ These items can be broken by ![Anywhere\_icon.png](../assets/Anywhere_icon.png)H
 | [Pillow](./Pillow.md) |  | 2 x Cloth | 9-11 min | Scrap Metal Shard, Hunting Knife, Improvised Knife |
 | [Towel](./Towel.md) |  | 2 x Cloth | 6-10 min | Hand, Scrap Metal Shard, Hunting Knife, Improvised Knife |
 
-### Objects that yield ![Scrap\_Metal\_icon.png](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
+### Objects that yield ![](../assets/Scrap_Metal_icon.png) [Scrap Metal](./Scrap%20Metal.md)
 
-These items can ONLY be broken down with a ![Hacksaw\_icon.png](../assets/Hacksaw_icon.png) [Hacksaw](./Hacksaw.md). Many objects take hours to completely harvest in one session. Some objects have multiple/larger variants that take longer to saw, but provide more Scrap Metal.
+These items can ONLY be broken down with a ![](../assets/Hacksaw_icon.png) [Hacksaw](./Hacksaw.md). Many objects take hours to completely harvest in one session. Some objects have multiple/larger variants that take longer to saw, but provide more Scrap Metal.
 
 | Object | Variant | Yield | Time | Tool Required |
 | --- | --- | --- | --- | --- |
@@ -96,15 +96,15 @@ These items can ONLY be broken down with a ![Hacksaw\_icon.png](../assets/Hacksa
 | [Switch Box](./Switch%20Box.md) |  | 2 x Scrap Metal | 30 min | Hacksaw |
 | [Toaster](./Toaster.md) |  | 1 Scrap Metal | 15 min | Hacksaw |
 
-### Objects that yield ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
+### Objects that yield ![](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
 
-Most of these items **CANNOT** be broken by ![Anywhere\_icon.png](../assets/Anywhere_icon.png)Hand, and require a Tool. This list regards objects that predominantly provide Reclaimed Wood when broken down, but sometimes they often contain other items when harvested, and will be categorized via variant for sake of convivence.
+Most of these items **CANNOT** be broken by ![](../assets/Anywhere_icon.png)Hand, and require a Tool. This list regards objects that predominantly provide Reclaimed Wood when broken down, but sometimes they often contain other items when harvested, and will be categorized via variant for sake of convivence.
 
 Some objects require a Tool to break down:
 
-- ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md)
-- ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
-- ![Heavy\_Hammer\_icon.png](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md)
+- ![](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md)
+- ![](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
+- ![](../assets/Heavy_Hammer_icon.png) [Heavy Hammer](./Heavy%20Hammer.md)
 
 | Object | Variant | Yield | Time | Tool Required |
 | --- | --- | --- | --- | --- |
@@ -141,12 +141,12 @@ Some objects require a Tool to break down:
 | Table | Large | 6 x Reclaimed Wood | 90-N/A min | Hatchet, Improvised Hatchet, Heavy Hammer |
 | [Wheel](./Wheel.md) |  | 6 x Reclaimed Wood | 38-56 min | Hatchet, Improvised Hatchet, Heavy Hammer |
 
-### Objects that yield ![Stick\_icon.png](../assets/Stick_icon.png) [Stick](./Stick.md)
+### Objects that yield ![](../assets/Stick_icon.png) [Stick](./Stick.md)
 
-Branches can be broken by![Anywhere\_icon.png](../assets/Anywhere_icon.png)Hand, but using a tool saves harvesting times at the expense of Tool Condition. Some objects require one of these Tools to break down:
+Branches can be broken by![](../assets/Anywhere_icon.png)Hand, but using a tool saves harvesting times at the expense of Tool Condition. Some objects require one of these Tools to break down:
 
-- ![Hatchet\_icon.png](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md)
-- ![Improvised\_Hatchet\_icon.png](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
+- ![](../assets/Hatchet_icon.png) [Hatchet](./Hatchet.md)
+- ![](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md)
 
 | Object | Variant | Yield | Time | Tool Required |
 | --- | --- | --- | --- | --- |
@@ -154,26 +154,26 @@ Branches can be broken by![Anywhere\_icon.png](../assets/Anywhere_icon.png)Hand,
 | [Scrub Brush](./Scrub%20Brush.md) | Single | 7 x Stick | 10-20 min | Hand, Hatchet, Improvised Hatchet |
 | Scrub Brush | Patch | 12 x Stick | 18 min | Hatchet, Improvised Hatchet |
 
-### Objects that yield ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
+### Objects that yield ![](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md)
 
 | Object | Variant | Yield | Time | Tool Required |
 | --- | --- | --- | --- | --- |
 | [Cedar Limb](./Cedar%20Limb.md) | Small | 3 x Cedar Firewood 1 x Tinder Plug | 45-90 min | Hatchet, Improvised Hatchet, Hacksaw |
 | [Cedar Limb](./Cedar%20Limb.md) | Large | 5 x Cedar Firewood 1 x Tinder Plug |  | Hatchet, Improvised Hatchet |
 
-### Objects that yield ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
+### Objects that yield ![](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
 
 | Object | Yield | Time | Tool Required |
 | --- | --- | --- | --- |
 | [Fir Limb](./Fir%20Limb.md) | 3 x Fir Firewood | 45-90 min | Hatchet, Improvised Hatchet, Hacksaw |
 
-### Objects that yield ![Tinder\_Plug\_icon.png](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md)
+### Objects that yield ![](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md)
 
-This item can be broken by ![Anywhere\_icon.png](../assets/Anywhere_icon.png)Hand, but using a tool saves harvesting times at the expense of Tool Condition. Some objects require one of these Tools to break down:
+This item can be broken by ![](../assets/Anywhere_icon.png)Hand, but using a tool saves harvesting times at the expense of Tool Condition. Some objects require one of these Tools to break down:
 
-- ![Scrap\_Metal\_Shard\_icon.png](../assets/Scrap_Metal_Shard_icon.png) [Scrap Metal Shard](./Scrap%20Metal%20Shard.md)
-- ![Hunting\_Knife\_icon.png](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md)
-- ![Improvised\_Knife\_icon.png](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md)
+- ![](../assets/Scrap_Metal_Shard_icon.png) [Scrap Metal Shard](./Scrap%20Metal%20Shard.md)
+- ![](../assets/Hunting_Knife_icon.png) [Hunting Knife](./Hunting%20Knife.md)
+- ![](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md)
 
 | Object | Yield | Time | Tool Required |
 | --- | --- | --- | --- |
@@ -191,7 +191,7 @@ This item can be broken by ![Anywhere\_icon.png](../assets/Anywhere_icon.png)Han
 
 ## Harvestable Clothing
 
-[Clothing](./Clothing.md) can often yield a either ![Cloth\_icon.png](../assets/Cloth_icon.png) [Cloth](./Cloth.md), ![Cured\_Leather\_icon.png](../assets/Cured_Leather_icon.png) [Cured Leather](./Cured%20Leather.md), or Cured Animal Hides when harvested. All Clothing can be harvested by ![Anywhere\_icon.png](../assets/Anywhere_icon.png)Hand and require no tools.
+[Clothing](./Clothing.md) can often yield a either ![](../assets/Cloth_icon.png) [Cloth](./Cloth.md), ![](../assets/Cured_Leather_icon.png) [Cured Leather](./Cured%20Leather.md), or Cured Animal Hides when harvested. All Clothing can be harvested by ![](../assets/Anywhere_icon.png)Hand and require no tools.
 
 ### Head
 
@@ -1783,7 +1783,7 @@ Fresh Guts
 
 40.00 kg / _(88 lb)_
 
-1 x ![Fresh\_Black\_Bear\_Hide\_icon.png](../assets/Fresh_Black_Bear_Hide_icon.png) [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md)
+1 x ![](../assets/Fresh_Black_Bear_Hide_icon.png) [Fresh Black Bear Hide](./Fresh%20Black%20Bear%20Hide.md)
 
 10 x 
 
@@ -1803,7 +1803,7 @@ N/A
 
 11.00 kg / _(24.2 lb)_
 
-1 x ![Fresh\_Deer\_Hide\_icon.png](../assets/Fresh_Deer_Hide_icon.png) [Fresh Deer Hide](./Fresh%20Deer%20Hide.md)
+1 x ![](../assets/Fresh_Deer_Hide_icon.png) [Fresh Deer Hide](./Fresh%20Deer%20Hide.md)
 
 2 x 
 
@@ -1813,17 +1813,17 @@ N/A
 
 45.00 kg / _(99 lb)_
 
-1 x ![Fresh\_Moose\_Hide\_icon.png](../assets/Fresh_Moose_Hide_icon.png) [Fresh Moose Hide](./Fresh%20Moose%20Hide.md)
+1 x ![](../assets/Fresh_Moose_Hide_icon.png) [Fresh Moose Hide](./Fresh%20Moose%20Hide.md)
 
 12 x 
 
 [Poisoned Wolf Carcass](./Poisoned%20Wolf%20Carcass.md)
 
-0 kg / _(0 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+0 kg / _(0 lb)_![](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
 
-0 kg / _(0 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+0 kg / _(0 lb)_![](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
 
-1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
+1 x ![](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
 
 2 x 
 
@@ -1843,27 +1843,27 @@ None
 
 1.50 kg / _(3.3 lb)_
 
-1 x ![Fresh\_Rabbit\_Pelt\_icon.png](../assets/Fresh_Rabbit_Pelt_icon.png) [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md)
+1 x ![](../assets/Fresh_Rabbit_Pelt_icon.png) [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md)
 
 1 x 
 
 [Timberwolf Carcass](./Timberwolf%20Carcass.md)
 
-4.00 kg / _(8.8 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+4.00 kg / _(8.8 lb)_![](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
 
-7.00 kg / _(15.4 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+7.00 kg / _(15.4 lb)_![](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
 
-1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
+1 x ![](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
 
 2 x 
 
 [Wolf Carcass](./Wolf%20Carcass.md)
 
-3.00 kg / _(6.6 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+3.00 kg / _(6.6 lb)_![](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
 
-6.00 kg / _(13.2 lb)_![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+6.00 kg / _(13.2 lb)_![](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
 
-1 x ![Fresh\_Wolf\_Pelt\_icon.png](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
+1 x ![](../assets/Fresh_Wolf_Pelt_icon.png) [Fresh Wolf Pelt](./Fresh%20Wolf%20Pelt.md)
 
 2 x 
 

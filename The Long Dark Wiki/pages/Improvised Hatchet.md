@@ -23,7 +23,7 @@ _Improvised\_Hatchet\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.75 kg(3.85 lbs)
+**Weight:** ![](../assets/Weight_icon.png)1.75 kg(3.85 lbs)
 
 **Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 1 hour
 

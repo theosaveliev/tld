@@ -47,7 +47,7 @@ Cash fills the role of tinder, which is used for Fire Starting. Cash is the ligh
 
 **Statistics**
 
-**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) 0%
+**Start Chance:** ![](../assets/Firestart_mod_icon.png) 0%
 
 ## Gallery
 

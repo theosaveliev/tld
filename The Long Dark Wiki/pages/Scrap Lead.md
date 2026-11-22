@@ -24,7 +24,7 @@ _Scrap\_Lead\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.25 kg(0.55 lbs)
 
 > “**Harvested from dead car batteries. Scrap lead can be used to craft bullets.**”
 >

@@ -154,7 +154,7 @@ Vitamin C/kg
 
 Vitamin C/1000 kcal
 
-![Vitamin-C\_Pills\_icon.png](../assets/Vitamin-C_Pills_icon.png) [Vitamin-C Pills](./Vitamin-C%20Pills.md)
+![](../assets/Vitamin-C_Pills_icon.png) [Vitamin-C Pills](./Vitamin-C%20Pills.md)
 
 Major
 
@@ -164,7 +164,7 @@ Major
 
 25000
 
-![Thomson\_Family\_Stew\_icon.png](../assets/Thomson_Family_Stew_icon.png) [Thomson Family Stew](./Thomson%20Family%20Stew.md)
+![](../assets/Thomson_Family_Stew_icon.png) [Thomson Family Stew](./Thomson%20Family%20Stew.md)
 
 Major
 
@@ -174,7 +174,7 @@ Major
 
 88.89
 
-![Airline\_Food\_-\_Vegetarian\_icon.png](../assets/Airline_Food_-_Vegetarian_icon.png) [Airline Food - Vegetarian](./Airline%20Food%20-%20Vegetarian.md)
+![](../assets/Airline_Food_-_Vegetarian_icon.png) [Airline Food - Vegetarian](./Airline%20Food%20-%20Vegetarian.md)
 
 Major
 
@@ -184,7 +184,7 @@ Major
 
 130.36
 
-![Dockworker's\_Pie\_icon.png](../assets/Dockworker%27s_Pie_icon.png) [Dockworker's Pie](./Dockworker%27s%20Pie.md)
+![](../assets/Dockworker%27s_Pie_icon.png) [Dockworker's Pie](./Dockworker%27s%20Pie.md)
 
 Major
 
@@ -194,7 +194,7 @@ Major
 
 45.33
 
-![Military-Grade\_MRE\_icon.png](../assets/Military-Grade_MRE_icon.png) [Military-Grade MRE](./Military-Grade%20MRE.md)
+![](../assets/Military-Grade_MRE_icon.png) [Military-Grade MRE](./Military-Grade%20MRE.md)
 
 Major
 
@@ -204,7 +204,7 @@ Major
 
 37.14
 
-![Camber\_Flight\_Porridge\_icon.png](../assets/Camber_Flight_Porridge_icon.png) [Camber Flight Porridge](./Camber%20Flight%20Porridge.md)
+![](../assets/Camber_Flight_Porridge_icon.png) [Camber Flight Porridge](./Camber%20Flight%20Porridge.md)
 
 Moderate
 
@@ -214,7 +214,7 @@ Moderate
 
 47.20
 
-![Last\_Resort\_Soup\_icon.png](../assets/Last_Resort_Soup_icon.png) [Last Resort Soup](./Last%20Resort%20Soup.md)
+![](../assets/Last_Resort_Soup_icon.png) [Last Resort Soup](./Last%20Resort%20Soup.md)
 
 Moderate
 
@@ -224,7 +224,7 @@ Moderate
 
 50
 
-![Lily's\_Pancakes\_icon.png](../assets/Lily%27s_Pancakes_icon.png) [Lily's Pancakes](./Lily%27s%20Pancakes.md)
+![](../assets/Lily%27s_Pancakes_icon.png) [Lily's Pancakes](./Lily%27s%20Pancakes.md)
 
 Moderate
 
@@ -234,7 +234,7 @@ Moderate
 
 57.00
 
-![Pinnacle\_Peaches\_icon.png](../assets/Pinnacle_Peaches_icon.png) [Pinnacle Peaches](./Pinnacle%20Peaches.md)
+![](../assets/Pinnacle_Peaches_icon.png) [Pinnacle Peaches](./Pinnacle%20Peaches.md)
 
 Moderate
 
@@ -244,7 +244,7 @@ Moderate
 
 124.44
 
-![Canned\_Pineapple\_icon.png](../assets/Canned_Pineapple_icon.png) [Canned Pineapple](./Canned%20Pineapple.md)
+![](../assets/Canned_Pineapple_icon.png) [Canned Pineapple](./Canned%20Pineapple.md)
 
 Moderate
 
@@ -254,7 +254,7 @@ Moderate
 
 189.83
 
-![Canned\_Corn\_icon.png](../assets/Canned_Corn_icon.png) [Canned Corn](./Canned%20Corn.md)
+![](../assets/Canned_Corn_icon.png) [Canned Corn](./Canned%20Corn.md)
 
 Moderate
 
@@ -264,7 +264,7 @@ Moderate
 
 176.27
 
-![Pickles\_icon.png](../assets/Pickles_icon.png) [Pickles](./Pickles.md)
+![](../assets/Pickles_icon.png) [Pickles](./Pickles.md)
 
 Moderate
 
@@ -274,7 +274,7 @@ Moderate
 
 76.92
 
-![Ranger\_Stew\_icon.png](../assets/Ranger_Stew_icon.png) [Ranger Stew](./Ranger%20Stew.md)
+![](../assets/Ranger_Stew_icon.png) [Ranger Stew](./Ranger%20Stew.md)
 
 Moderate
 
@@ -284,7 +284,7 @@ Moderate
 
 26.25
 
-![Tomato\_Soup\_icon.png](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md)
+![](../assets/Tomato_Soup_icon.png) [Tomato Soup](./Tomato%20Soup.md)
 
 Moderate
 
@@ -294,7 +294,7 @@ Moderate
 
 100
 
-![Airline\_Food\_-\_Chicken\_icon.png](../assets/Airline_Food_-_Chicken_icon.png) [Airline Food - Chicken](./Airline%20Food%20-%20Chicken.md)
+![](../assets/Airline_Food_-_Chicken_icon.png) [Airline Food - Chicken](./Airline%20Food%20-%20Chicken.md)
 
 Moderate
 
@@ -304,7 +304,7 @@ Moderate
 
 46.77
 
-![Porter's\_Soup\_icon.png](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md)
+![](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md)
 
 Moderate
 
@@ -314,7 +314,7 @@ Moderate
 
 20
 
-![Cooked\_Potato\_icon.png](../assets/Cooked_Potato_icon.png) [Cooked Potato](./Cooked%20Potato.md)
+![](../assets/Cooked_Potato_icon.png) [Cooked Potato](./Cooked%20Potato.md)
 
 Moderate
 
@@ -324,7 +324,7 @@ Moderate
 
 96
 
-![Prepper's\_Pie\_icon.png](../assets/Prepper%27s_Pie_icon.png) [Prepper's Pie](./Prepper%27s%20Pie.md)
+![](../assets/Prepper%27s_Pie_icon.png) [Prepper's Pie](./Prepper%27s%20Pie.md)
 
 Moderate
 
@@ -334,7 +334,7 @@ Moderate
 
 24.44
 
-![Lake\_Whitefish\_(Raw)\_icon.png](../assets/Lake_Whitefish_%28Raw%29_icon.png) [Lake Whitefish (Raw) 1kg](./Lake%20Whitefish%20%28Raw%29.md)
+![](../assets/Lake_Whitefish_%28Raw%29_icon.png) [Lake Whitefish (Raw) 1kg](./Lake%20Whitefish%20%28Raw%29.md)
 
 Moderate
 
@@ -344,7 +344,7 @@ Moderate
 
 38.26
 
-![Rainbow\_Trout\_(Raw)\_icon.png](../assets/Rainbow_Trout_%28Raw%29_icon.png) [Rainbow Trout (Raw) 1kg](./Rainbow%20Trout%20%28Raw%29.md)
+![](../assets/Rainbow_Trout_%28Raw%29_icon.png) [Rainbow Trout (Raw) 1kg](./Rainbow%20Trout%20%28Raw%29.md)
 
 Moderate
 
@@ -354,7 +354,7 @@ Moderate
 
 34.78
 
-![Peach\_Pie\_icon.png](../assets/Peach_Pie_icon.png) [Peach Pie](./Peach%20Pie.md)
+![](../assets/Peach_Pie_icon.png) [Peach Pie](./Peach%20Pie.md)
 
 Minor
 
@@ -364,7 +364,7 @@ Minor
 
 76
 
-![Trout\_Stew\_icon.png](../assets/Trout_Stew_icon.png) [Trout Stew](./Trout%20Stew.md)
+![](../assets/Trout_Stew_icon.png) [Trout Stew](./Trout%20Stew.md)
 
 Minor
 
@@ -374,7 +374,7 @@ Minor
 
 22.67
 
-![Lake\_Whitefish\_(Cooked)\_icon.png](../assets/Lake_Whitefish_%28Cooked%29_icon.png) [Lake Whitefish (Cooked) 1kg](./Lake%20Whitefish%20%28Cooked%29.md)
+![](../assets/Lake_Whitefish_%28Cooked%29_icon.png) [Lake Whitefish (Cooked) 1kg](./Lake%20Whitefish%20%28Cooked%29.md)
 
 Minor
 
@@ -384,7 +384,7 @@ Minor
 
 27.83
 
-![Rainbow\_Trout\_(Cooked)\_icon.png](../assets/Rainbow_Trout_%28Cooked%29_icon.png) [Rainbow Trout (Cooked) 1kg](./Rainbow%20Trout%20%28Cooked%29.md)
+![](../assets/Rainbow_Trout_%28Cooked%29_icon.png) [Rainbow Trout (Cooked) 1kg](./Rainbow%20Trout%20%28Cooked%29.md)
 
 Minor
 
@@ -394,7 +394,7 @@ Minor
 
 26.09
 
-![Coastal\_Fishcakes\_icon.png](../assets/Coastal_Fishcakes_icon.png) [Coastal Fishcakes](./Coastal%20Fishcakes.md)
+![](../assets/Coastal_Fishcakes_icon.png) [Coastal Fishcakes](./Coastal%20Fishcakes.md)
 
 Minor
 
@@ -404,7 +404,7 @@ Minor
 
 44.87
 
-![Pemmican\_Bar\_icon.png](../assets/Pemmican_Bar_icon.png) [Pemmican Bar](./Pemmican%20Bar.md)
+![](../assets/Pemmican_Bar_icon.png) [Pemmican Bar](./Pemmican%20Bar.md)
 
 Minor
 
@@ -414,7 +414,7 @@ Minor
 
 31.1
 
-![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
+![](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
 
 Minor
 
@@ -424,7 +424,7 @@ Minor
 
 130
 
-![Condensed\_Milk\_icon.png](../assets/Condensed_Milk_icon.png) [Condensed Milk](./Condensed%20Milk.md)
+![](../assets/Condensed_Milk_icon.png) [Condensed Milk](./Condensed%20Milk.md)
 
 Minor
 
@@ -434,7 +434,7 @@ Minor
 
 16
 
-![Coho\_Salmon\_(Raw)\_icon.png](../assets/Coho_Salmon_%28Raw%29_icon.png) [Coho Salmon (Raw) 1kg](./Coho%20Salmon%20%28Raw%29.md)
+![](../assets/Coho_Salmon_%28Raw%29_icon.png) [Coho Salmon (Raw) 1kg](./Coho%20Salmon%20%28Raw%29.md)
 
 Minor
 
@@ -444,7 +444,7 @@ Minor
 
 7.27
 
-![Cup\_of\_Herbal\_Tea\_icon.png](../assets/Cup_of_Herbal_Tea_icon.png) [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md)
+![](../assets/Cup_of_Herbal_Tea_icon.png) [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md)
 
 Minor
 
@@ -454,7 +454,7 @@ Minor
 
 110
 
-![Smallmouth\_Bass\_(Raw)\_icon.png](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw) 1kg](./Smallmouth%20Bass%20%28Raw%29.md)
+![](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw) 1kg](./Smallmouth%20Bass%20%28Raw%29.md)
 
 Minor
 
@@ -464,7 +464,7 @@ Minor
 
 7.33
 
-![Carrot\_icon.png](../assets/Carrot_icon.png) [Carrot](./Carrot.md)
+![](../assets/Carrot_icon.png) [Carrot](./Carrot.md)
 
 Minor
 
@@ -474,7 +474,7 @@ Minor
 
 51.43
 
-![Coho\_Salmon\_(Cooked)\_icon.png](../assets/Coho_Salmon_%28Cooked%29_icon.png) [Coho Salmon (Cooked) 1kg](./Coho%20Salmon%20%28Cooked%29.md)
+![](../assets/Coho_Salmon_%28Cooked%29_icon.png) [Coho Salmon (Cooked) 1kg](./Coho%20Salmon%20%28Cooked%29.md)
 
 Minor
 
@@ -484,7 +484,7 @@ Minor
 
 5.45
 
-![Prepared\_Burdock\_icon.png](../assets/Prepared_Burdock_icon.png) [Prepared Burdock](./Prepared%20Burdock.md)
+![](../assets/Prepared_Burdock_icon.png) [Prepared Burdock](./Prepared%20Burdock.md)
 
 Minor
 
@@ -494,7 +494,7 @@ Minor
 
 29.09
 
-![Smallmouth\_Bass\_(Cooked)\_icon.png](../assets/Smallmouth_Bass_%28Cooked%29_icon.png) [Smallmouth Bass (Cooked) 1kg](./Smallmouth%20Bass%20%28Cooked%29.md)
+![](../assets/Smallmouth_Bass_%28Cooked%29_icon.png) [Smallmouth Bass (Cooked) 1kg](./Smallmouth%20Bass%20%28Cooked%29.md)
 
 Minor
 
@@ -504,7 +504,7 @@ Minor
 
 5.33
 
-![Burdock\_Tea\_icon.png](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md)
+![](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md)
 
 Minor
 
@@ -514,7 +514,7 @@ Minor
 
 70
 
-![Birch\_Bark\_Tea\_icon.png](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md)
+![](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md)
 
 Minor
 
@@ -524,7 +524,7 @@ Minor
 
 60
 
-![Rose\_Hip\_Pie\_icon.png](../assets/Rose_Hip_Pie_icon.png) [Rose Hip Pie](./Rose%20Hip%20Pie.md)
+![](../assets/Rose_Hip_Pie_icon.png) [Rose Hip Pie](./Rose%20Hip%20Pie.md)
 
 Minor
 
@@ -534,7 +534,7 @@ Minor
 
 26.67
 
-![Ketchup\_Chips\_icon.png](../assets/Ketchup_Chips_icon.png) [Ketchup Chips](./Ketchup%20Chips.md)
+![](../assets/Ketchup_Chips_icon.png) [Ketchup Chips](./Ketchup%20Chips.md)
 
 Minor
 
@@ -544,7 +544,7 @@ Minor
 
 16.67
 
-![Reishi\_Tea\_icon.png](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)
+![](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)
 
 Minor
 
@@ -554,7 +554,7 @@ Minor
 
 50
 
-![Energy\_Bar\_icon.png](../assets/Energy_Bar_icon.png) [Energy Bar](./Energy%20Bar.md)
+![](../assets/Energy_Bar_icon.png) [Energy Bar](./Energy%20Bar.md)
 
 Minor
 
@@ -564,7 +564,7 @@ Minor
 
 8
 
-![Dried\_Apples\_icon.png](../assets/Dried_Apples_icon.png) [Dried Apples](./Dried%20Apples.md)
+![](../assets/Dried_Apples_icon.png) [Dried Apples](./Dried%20Apples.md)
 
 Minor
 
@@ -574,7 +574,7 @@ Minor
 
 10
 
-![Tin\_of\_Sardines\_icon.png](../assets/Tin_of_Sardines_icon.png) [Tin of Sardines](./Tin%20of%20Sardines.md)
+![](../assets/Tin_of_Sardines_icon.png) [Tin of Sardines](./Tin%20of%20Sardines.md)
 
 Minor
 
@@ -584,7 +584,7 @@ Minor
 
 10
 
-![Granola\_Bar\_icon.png](../assets/Granola_Bar_icon.png) [Granola Bar](./Granola%20Bar.md)
+![](../assets/Granola_Bar_icon.png) [Granola Bar](./Granola%20Bar.md)
 
 Minor
 
@@ -594,7 +594,7 @@ Minor
 
 6.67
 
-![Pork\_and\_Beans\_icon.png](../assets/Pork_and_Beans_icon.png) [Pork and Beans](./Pork%20and%20Beans.md)
+![](../assets/Pork_and_Beans_icon.png) [Pork and Beans](./Pork%20and%20Beans.md)
 
 Minor
 
@@ -604,7 +604,7 @@ Minor
 
 3.33
 
-![Cat\_Tail\_Stalk\_icon.png](../assets/Cat_Tail_Stalk_icon.png) [Cat Tail Stalk](./Cat%20Tail%20Stalk.md)
+![](../assets/Cat_Tail_Stalk_icon.png) [Cat Tail Stalk](./Cat%20Tail%20Stalk.md)
 
 Minor
 

@@ -21,3 +21,13 @@ Region
 **General**
 
 **Type:** Cave
+
+## Gallery
+
+![Path up to Wedge Cave from the road](../assets/Wedge_Cave.jpg)
+
+_Path up to Wedge Cave from the road_
+
+![View of Blackrock Mountain from Wedge Cave just before sunset](../assets/Wedge_Cave_view.jpg)
+
+_View of Blackrock Mountain from Wedge Cave just before sunset_

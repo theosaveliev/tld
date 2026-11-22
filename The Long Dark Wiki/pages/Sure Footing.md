@@ -24,7 +24,7 @@ _Sure\_Footing\_icon.png_
 
 **Type:** Benefit
 
-**Benefit Duration:** Until / ![Crampons\_icon.png](../assets/Crampons_icon.png) [Crampons](./Crampons.md) / or / ![Improvised\_Crampons\_icon.png](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md) are taken off or ruined
+**Benefit Duration:** Until / ![](../assets/Crampons_icon.png) [Crampons](./Crampons.md) / or / ![](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md) are taken off or ruined
 
 **Advanced Data**
 

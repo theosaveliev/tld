@@ -23,7 +23,7 @@ _Rose\_Hip\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
 
 > “**A fruit of a wild rose bush.**”
 >

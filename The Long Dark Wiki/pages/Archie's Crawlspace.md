@@ -23,3 +23,11 @@ Type
 ![](../assets/Bed_icon.png)
 
 _bed\_icon.png_
+
+Has an interior / **Archie's Crawlspace** is a small cave in the south part of the [Drift Island](./Drift%20Island.md) to the east of [Cove](./Cove.md).
+
+## Overview
+
+The cave gives a small warmth bonus, compared to the harsh climate of the [Shoulder Lake](./Shoulder%20Lake.md). There is no bed, but bodies and a wolf carcass can be found here. [Deer](./Deer.md) can be found just south of the cave. The surroundings are also rich in [Cat Tails](./Cat%20Tail%20Stalk.md) and [Rose Hips](./Rose%20Hip.md).
+
+A [bear](./Bear.md) may also patrol this area.

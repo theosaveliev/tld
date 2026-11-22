@@ -43,13 +43,13 @@ Survivors may be attacked by a [Timberwolf](./Timberwolf.md). A wolf will approa
 
 ![The 2 options for interacting with a lost Crash Survivor.](../assets/Crash_Survivor_Diagnosing.jpg)_The 2 options for interacting with a lost Crash Survivor._ Crash Survivors can be diagnosed with the following Afflictions and the following treatments:
 
-- ![Concussion\_icon.png](../assets/Concussion_icon.png) [Concussion](./Concussion.md) - No treatment
-- ![Hypothermia\_Risk\_icon.png](../assets/Hypothermia_Risk_icon.png) [Hypothermia Risk](./Hypothermia%20Risk.md) - Warm survivor
-- ![Hypothermia\_icon.png](../assets/Hypothermia_icon.png) [Hypothermia](./Hypothermia.md) - Warm survivor
-- ![Blood\_Loss\_icon.png](../assets/Blood_Loss_icon.png) [Blood Loss](./Blood%20Loss.md) - Use [Bandage](./Bandage.md)
-- ![Dehydration\_Risk\_icon.png](../assets/Dehydration_Risk_icon.png) [Dehydration Risk](./Dehydration%20Risk.md) - Drink [Water (Potable)](./Water%20%28Potable%29.md)
-- ![Dehydrated\_icon.png](../assets/Dehydrated_icon.png) [Dehydrated](./Dehydrated.md) - Drink [Water (Potable)](./Water%20%28Potable%29.md)
-- ![Hyperglycemic\_Risk\_icon.png](../assets/Hyperglycemic_Risk_icon.png) [Hyperglycemic Risk](./Hyperglycemic%20Risk.md) - Administer [Insulin](./Insulin.md)
+- ![](../assets/Concussion_icon.png) [Concussion](./Concussion.md) - No treatment
+- ![](../assets/Hypothermia_Risk_icon.png) [Hypothermia Risk](./Hypothermia%20Risk.md) - Warm survivor
+- ![](../assets/Hypothermia_icon.png) [Hypothermia](./Hypothermia.md) - Warm survivor
+- ![](../assets/Blood_Loss_icon.png) [Blood Loss](./Blood%20Loss.md) - Use [Bandage](./Bandage.md)
+- ![](../assets/Dehydration_Risk_icon.png) [Dehydration Risk](./Dehydration%20Risk.md) - Drink [Water (Potable)](./Water%20%28Potable%29.md)
+- ![](../assets/Dehydrated_icon.png) [Dehydrated](./Dehydrated.md) - Drink [Water (Potable)](./Water%20%28Potable%29.md)
+- ![](../assets/Hyperglycemic_Risk_icon.png) [Hyperglycemic Risk](./Hyperglycemic%20Risk.md) - Administer [Insulin](./Insulin.md)
 
 ## List of Passengers
 

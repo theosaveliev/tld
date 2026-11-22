@@ -18,9 +18,9 @@ _Magnifying\_Lens\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Bonus chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+5%
+**Bonus chance:** ![](../assets/Firestart_mod_icon.png)+5%
 
 > “**A magnifying lens that can be used to start a fire during daylight.**”
 >

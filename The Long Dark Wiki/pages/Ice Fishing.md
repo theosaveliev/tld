@@ -28,7 +28,7 @@ _Ice\_Fishing\_background.png_
 
 **Date:** 23 June 2016
 
-![Ice\_Fishing.png](../assets/Ice_Fishing.png) **Ice Fishing** is the [Skill](./Skills.md) to catch fish in _The Long Dark_. It is performed at fishing holes, which are cut in the ice of fish-bearing bodies of water.
+![](../assets/Ice_Fishing.png) **Ice Fishing** is the [Skill](./Skills.md) to catch fish in _The Long Dark_. It is performed at fishing holes, which are cut in the ice of fish-bearing bodies of water.
 
 ## Overview
 
@@ -267,7 +267,7 @@ Fishing Tackle and a tool to cut hole(s) in the ice are required for fishing. Op
 
 ### Fishing Tackle
 
-![Fishing\_Tackle\_icon.png](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) are the primary tool for fishing. They are crafted from a [Hook](./Hook.md) and [Line](./Line.md). Tackle lasts until they break during fishing, and only degrade condition when used to Repair clothing (Tackle durability has no effect on break rate).
+![](../assets/Fishing_Tackle_icon.png) [Fishing Tackle](./Fishing%20Tackle.md) are the primary tool for fishing. They are crafted from a [Hook](./Hook.md) and [Line](./Line.md). Tackle lasts until they break during fishing, and only degrade condition when used to Repair clothing (Tackle durability has no effect on break rate).
 
 ### Ice Breaker
 
@@ -363,7 +363,7 @@ _Survival\_Knife\_icon.png_
 
 ### Fishing Tip-Ups
 
-![Fishing\_Tip-Up\_icon.png](../assets/Fishing_Tip-Up_icon.png) [Fishing Tip-Ups](./Fishing%20Tip-Up.md) are tools to trap fish at Fishing Holes (including those inside of Fishing Huts). They can be fitted with Lures or Bait, and function similar to [Snares](./Snare.md), but unlike Snares are not effective when used passively: as they require regular ice-clearing to function, and will lose condition while deployed.
+![](../assets/Fishing_Tip-Up_icon.png) [Fishing Tip-Ups](./Fishing%20Tip-Up.md) are tools to trap fish at Fishing Holes (including those inside of Fishing Huts). They can be fitted with Lures or Bait, and function similar to [Snares](./Snare.md), but unlike Snares are not effective when used passively: as they require regular ice-clearing to function, and will lose condition while deployed.
 
 After clearing an ice hole and placing the Tip-Up in the water the tool will auto fish. As time passes and a fish bites the tackle, the tool will "Tip-Up" and fall upright with a metallic jingling sound. Tip-Ups lose condition when deployed (1% per hour outside, 0.5% per hour inside a Fishing Hut) and 10% on line break. Catching fish with Tip-Ups does not yield Ice Fishing Skill or benefit from it.
 
@@ -371,7 +371,7 @@ Any number of Tip-Ups may be deployed in a region, but deploying more than 6 per
 
 ### Fishing Bait
 
-![Fishing\_Bait\_icon.png](../assets/Fishing_Bait_icon.png) [Fishing Bait](./Fishing%20Bait.md) are an optional tool to catch larger fish. Using Bait increases average fish size by +30%, but one piece of Bait will be consumed for each fish caught. Bait is crafted by harvesting any raw fish and takes 30 minutes regardless of fish weight. Heavier fish yield more Bait when harvested (3 Bait per 1kg of Raw Fish weight).
+![](../assets/Fishing_Bait_icon.png) [Fishing Bait](./Fishing%20Bait.md) are an optional tool to catch larger fish. Using Bait increases average fish size by +30%, but one piece of Bait will be consumed for each fish caught. Bait is crafted by harvesting any raw fish and takes 30 minutes regardless of fish weight. Heavier fish yield more Bait when harvested (3 Bait per 1kg of Raw Fish weight).
 
 ### Fishing Lures
 
@@ -379,10 +379,10 @@ Any number of Tip-Ups may be deployed in a region, but deploying more than 6 per
 
 | Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Simple_Fishing_Lure_icon.png) / _Simple\_Fishing\_Lure\_icon.png_ | [Simple Fishing Lure](./Simple%20Fishing%20Lure.md) | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
-| ![](../assets/Fishing_Lure_%28Acorns%29_icon.png) / _Fishing\_Lure\_(Acorns)\_icon.png_ | [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | +800% | +50% | - 1 [Acorns](./Acorns.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
-| ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) / _Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_ | [Fishing Lure (Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
-| ![](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) / _Fishing\_Lure\_(Wire\_Bundle)\_icon.png_ | [Fishing Lure (Wire)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | +1000% | +75% | - 1 [Wire Bundle](./Wires.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| ![](../assets/Simple_Fishing_Lure_icon.png)<br>_Simple\_Fishing\_Lure\_icon.png_ | [Simple Fishing Lure](./Simple%20Fishing%20Lure.md) | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
+| ![](../assets/Fishing_Lure_%28Acorns%29_icon.png)<br>_Fishing\_Lure\_(Acorns)\_icon.png_ | [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | +800% | +50% | - 1 [Acorns](./Acorns.md)<br>- 1 [Crow Feather](./Crow%20Feather.md)<br>- 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png)<br>_Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_ | [Fishing Lure (Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md)<br>- 1 [Crow Feather](./Crow%20Feather.md)<br>- 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| ![](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png)<br>_Fishing\_Lure\_(Wire\_Bundle)\_icon.png_ | [Fishing Lure (Wire)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | +1000% | +75% | - 1 [Wire Bundle](./Wires.md)<br>- 1 [Crow Feather](./Crow%20Feather.md)<br>- 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
 
 ## Fishing Holes
 

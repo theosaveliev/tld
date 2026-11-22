@@ -71,7 +71,7 @@ _Antiseptic\_icon.png_
 
 [Antiseptic](./Antiseptic.md)
 
-![Infection\_risk\_icon.png](../assets/Infection_Risk_icon.png) [Infection](./Infection.md)
+![](../assets/Infection_Risk_icon.png) [Infection](./Infection.md)
 
 Reduces the risk of infection from an animal attack by 40%
 
@@ -87,7 +87,7 @@ _Caffeine\_Pills\_icon.png_
 
 [Caffeine Pills](./Caffeine%20Pills.md)
 
-Reduces ![Fatigue\_icon.png](../assets/Fatigue_icon.png)
+Reduces ![](../assets/Fatigue_icon.png)
 
 gives 25 [Fatigue](./Fatigue.md) and [Fatigue Reduced](./Fatigue%20Reduced.md) for 4 hours Also gives [Headache](./Headache.md) for 3 hours
 
@@ -103,7 +103,7 @@ _Heat\_Pack\_icon.png_
 
 [Heat Pack](./Heat%20Pack.md)
 
-Raises![Warmth\_icon.png](../assets/Warmth_icon.png)
+Raises![](../assets/Warmth_icon.png)
 
 Raises [Warmth](./Warmth.md) by +5C for 6 hours
 
@@ -119,7 +119,7 @@ _Old\_Man's\_Beard\_Wound\_Dressing\_icon.png_
 
 [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md)
 
-![Infection\_risk\_icon.png](../assets/Infection_Risk_icon.png) [Infection](./Infection.md)
+![](../assets/Infection_Risk_icon.png) [Infection](./Infection.md)
 
 Reduces the risk of infection from an animal attack by 40%
 
@@ -135,7 +135,7 @@ _Vitamin-C\_Pills\_icon.png_
 
 [Vitamin-C Pills](./Vitamin-C%20Pills.md)
 
-Reduces ![Scurvy\_icon.png](../assets/Scurvy_icon.png)
+Reduces ![](../assets/Scurvy_icon.png)
 
 Reduces [Scurvy Risk](./Scurvy%20Risk.md)/[Scurvy](./Scurvy.md) by 125 units per pill
 
@@ -151,7 +151,7 @@ _Water\_Purification\_Tablets\_icon.png_
 
 [Water Purification Tablets](./Water%20Purification%20Tablets.md)
 
-![Dysentery\_icon.png](../assets/Dysentery_icon.png) [Dysentery](./Dysentery.md)
+![](../assets/Dysentery_icon.png) [Dysentery](./Dysentery.md)
 
 Purifies 1.00 liter of [unsafe water](./Water%20%28Unsafe%29.md), allowing the player to drink without risk of Dysentery
 
@@ -179,7 +179,7 @@ _Prepared\_Birch\_Bark\_icon.png_
 
 [Prepared Birch Bark](./Prepared%20Birch%20Bark.md)
 
-![Birch\_Bark\_Tea\_icon.png](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md)
+![](../assets/Birch_Bark_Tea_icon.png) [Birch Bark Tea](./Birch%20Bark%20Tea.md)
 
 0.05 kg / _(0.11 lb)_
 
@@ -189,7 +189,7 @@ _Prepared\_Burdock\_icon.png_
 
 [Prepared Burdock](./Prepared%20Burdock.md)
 
-Can be consumed as food or boiled into ![Burdock\_Tea\_icon.png](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md)
+Can be consumed as food or boiled into ![](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md)
 
 0.15 kg / _(0.33 lb)_
 
@@ -199,7 +199,7 @@ _Prepared\_Reishi\_Mushrooms\_icon.png_
 
 [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md)
 
-![Reishi\_Tea\_icon.png](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)
+![](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)
 
 0.05 kg / _(0.11 lb)_
 
@@ -209,7 +209,7 @@ _Prepared\_Rose\_Hips\_icon.png_
 
 [Prepared Rose Hips](./Prepared%20Rose%20Hips.md)
 
-![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
+![](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
 
 0.05 kg / _(0.11 lb)_
 
@@ -235,9 +235,9 @@ _Antibiotics\_icon.png_
 
 [Antibiotics](./Antibiotics.md)
 
-![Dysentery\_icon.png](../assets/Dysentery_icon.png) [Dysentery](./Dysentery.md) ![Food\_poisoning\_icon.png](../assets/Food_Poisoning_icon.png) [Food Poisoning](./Food%20Poisoning.md)
+![](../assets/Dysentery_icon.png) [Dysentery](./Dysentery.md) ![](../assets/Food_Poisoning_icon.png) [Food Poisoning](./Food%20Poisoning.md)
 
-![Infection\_icon.png](../assets/Infection_icon.png) [Infection](./Infection.md) / ![Intestinal\_parasites\_icon.png](../assets/Intestinal_Parasites_icon.png) [Intestinal Parasites](./Intestinal%20Parasites.md)
+![](../assets/Infection_icon.png) [Infection](./Infection.md) / ![](../assets/Intestinal_Parasites_icon.png) [Intestinal Parasites](./Intestinal%20Parasites.md)
 
 2 pills
 
@@ -251,9 +251,9 @@ _Bandage\_icon.png_
 
 [Bandage](./Bandage.md)
 
-![Blood\_loss\_icon.png](../assets/Blood_Loss_icon.png) [Blood loss](./Blood%20Loss.md)
+![](../assets/Blood_Loss_icon.png) [Blood loss](./Blood%20Loss.md)
 
-![Broken\_ribs\_icon.png](../assets/Broken_Ribs_icon.png) [Broken Ribs](./Broken%20Ribs.md) ![Burns\_icon.png](../assets/Burns_icon.png) [Burns](./Burns.md) / ![Sprained\_ankle\_icon.png](../assets/Sprained_Ankle_icon.png) [Sprained Ankle](./Sprained%20Ankle.md) / ![Sprained\_wrist\_icon.png](../assets/Sprained_Wrist_icon.png) [Sprained Wrist](./Sprained%20Wrist.md)
+![](../assets/Broken_Ribs_icon.png) [Broken Ribs](./Broken%20Ribs.md) ![](../assets/Burns_icon.png) [Burns](./Burns.md) / ![](../assets/Sprained_Ankle_icon.png) [Sprained Ankle](./Sprained%20Ankle.md) / ![](../assets/Sprained_Wrist_icon.png) [Sprained Wrist](./Sprained%20Wrist.md)
 
 1
 
@@ -267,7 +267,7 @@ _Birch\_Bark\_Tea\_icon.png_
 
 [Birch Bark Tea](./Birch%20Bark%20Tea.md)
 
-![Restore\_Condition\_icon.png](../assets/Restore_Condition_icon.png)[Restore Condition](./Restore%20Condition.md)
+![](../assets/Restore_Condition_icon.png)[Restore Condition](./Restore%20Condition.md)
 
 1
 
@@ -281,9 +281,9 @@ _Burdock\_Tea\_icon.png_
 
 [Burdock Tea](./Burdock%20Tea.md)
 
-![Dysentery\_icon.png](../assets/Dysentery_icon.png) [Dysentery](./Dysentery.md) ![Food\_poisoning\_icon.png](../assets/Food_Poisoning_icon.png) [Food Poisoning](./Food%20Poisoning.md)
+![](../assets/Dysentery_icon.png) [Dysentery](./Dysentery.md) ![](../assets/Food_Poisoning_icon.png) [Food Poisoning](./Food%20Poisoning.md)
 
-![Infection\_icon.png](../assets/Infection_icon.png) [Infection](./Infection.md) / ![Intestinal\_parasites\_icon.png](../assets/Intestinal_Parasites_icon.png) [Intestinal Parasites](./Intestinal%20Parasites.md)
+![](../assets/Infection_icon.png) [Infection](./Infection.md) / ![](../assets/Intestinal_Parasites_icon.png) [Intestinal Parasites](./Intestinal%20Parasites.md)
 
 1
 
@@ -297,9 +297,9 @@ _Emergency\_Stim\_icon.png_
 
 [Emergency Stim](./Emergency%20Stim.md)
 
-![Sprained\_ankle\_icon.png](../assets/Sprained_Ankle_icon.png) [Sprained Ankle](./Sprained%20Ankle.md)
+![](../assets/Sprained_Ankle_icon.png) [Sprained Ankle](./Sprained%20Ankle.md)
 
-![Restore\_Condition\_icon.png](../assets/Restore_Condition_icon.png)[Restore Condition](./Restore%20Condition.md) (15) / ![Energy\_Boost\_icon.png](../assets/Energy_Boost_icon.png) Give unlimited [Stamina](./Stamina.md) for a limited time (before total depletion)
+![](../assets/Restore_Condition_icon.png)[Restore Condition](./Restore%20Condition.md) (15) / ![](../assets/Energy_Boost_icon.png) Give unlimited [Stamina](./Stamina.md) for a limited time (before total depletion)
 
 1
 
@@ -311,7 +311,7 @@ Artificial
 
 [Military Stim](./Military%20Stim.md)
 
-![Fatigue\_reduced\_icon.png](../assets/Fatigue_Reduced_icon.png) Restores [Fatigue](./Fatigue.md) (75%)![Restore\_Condition\_icon.png](../assets/Restore_Condition_icon.png)[Restore Condition](./Restore%20Condition.md) (60%)
+![](../assets/Fatigue_Reduced_icon.png) Restores [Fatigue](./Fatigue.md) (75%)![](../assets/Restore_Condition_icon.png)[Restore Condition](./Restore%20Condition.md) (60%)
 
 1
 
@@ -325,9 +325,9 @@ _Go!\_Energy\_Drink\_icon.png_
 
 [Go! Energy Drink](./Go!%20Energy%20Drink.md)
 
-![Fatigue\_reduced\_icon.png](../assets/Fatigue_Reduced_icon.png) Restores [Fatigue](./Fatigue.md) (for a limited time before depletion) and gives [Fatigue Reduced](./Fatigue%20Reduced.md) ![Energy\_Boost\_icon.png](../assets/Energy_Boost_icon.png) Gives [Energy Boost](./Energy%20Boost.md) (for a limited time before depletion)
+![](../assets/Fatigue_Reduced_icon.png) Restores [Fatigue](./Fatigue.md) (for a limited time before depletion) and gives [Fatigue Reduced](./Fatigue%20Reduced.md) ![](../assets/Energy_Boost_icon.png) Gives [Energy Boost](./Energy%20Boost.md) (for a limited time before depletion)
 
-![Headache\_icon.png](../assets/Headache_icon.png) Gives [Headache](./Headache.md) after awhile
+![](../assets/Headache_icon.png) Gives [Headache](./Headache.md) after awhile
 
 1
 
@@ -341,9 +341,9 @@ _Painkillers\_icon.png_
 
 [Painkillers](./Painkillers.md)
 
-![Broken\_ribs\_icon.png](../assets/Broken_Ribs_icon.png) [Broken Ribs](./Broken%20Ribs.md) ![Burns\_icon.png](../assets/Burns_icon.png) [Burns](./Burns.md)
+![](../assets/Broken_Ribs_icon.png) [Broken Ribs](./Broken%20Ribs.md) ![](../assets/Burns_icon.png) [Burns](./Burns.md)
 
-![Pain\_icon.png](../assets/Pain_icon.png) [Pain](./Pain.md)
+![](../assets/Pain_icon.png) [Pain](./Pain.md)
 
 2 pills
 
@@ -357,9 +357,9 @@ _Reishi\_Tea\_icon.png_
 
 [Reishi Tea](./Reishi%20Tea.md)
 
-![Dysentery\_icon.png](../assets/Dysentery_icon.png) [Dysentery](./Dysentery.md) ![Food\_poisoning\_icon.png](../assets/Food_Poisoning_icon.png) [Food Poisoning](./Food%20Poisoning.md)
+![](../assets/Dysentery_icon.png) [Dysentery](./Dysentery.md) ![](../assets/Food_Poisoning_icon.png) [Food Poisoning](./Food%20Poisoning.md)
 
-![Infection\_icon.png](../assets/Infection_icon.png) [Infection](./Infection.md) / ![Intestinal\_parasites\_icon.png](../assets/Intestinal_Parasites_icon.png) [Intestinal Parasites](./Intestinal%20Parasites.md)
+![](../assets/Infection_icon.png) [Infection](./Infection.md) / ![](../assets/Intestinal_Parasites_icon.png) [Intestinal Parasites](./Intestinal%20Parasites.md)
 
 1
 
@@ -373,9 +373,9 @@ _Rose\_Hip\_Tea\_icon.png_
 
 [Rose Hip Tea](./Rose%20Hip%20Tea.md)
 
-![Broken\_ribs\_icon.png](../assets/Broken_Ribs_icon.png) [Broken Ribs](./Broken%20Ribs.md) ![Burns\_icon.png](../assets/Burns_icon.png) [Burns](./Burns.md)
+![](../assets/Broken_Ribs_icon.png) [Broken Ribs](./Broken%20Ribs.md) ![](../assets/Burns_icon.png) [Burns](./Burns.md)
 
-![Pain\_icon.png](../assets/Pain_icon.png) [Pain](./Pain.md)
+![](../assets/Pain_icon.png) [Pain](./Pain.md)
 
 1
 
@@ -401,7 +401,7 @@ _Respirator\_icon.png_
 
 [Respirator](./Respirator.md) (only in [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion)
 
-![Chemical\_Poisoning\_icon.png](../assets/Chemical_Poisoning_icon.png)[Chemical Poisoning](./Chemical%20Poisoning.md) at [Chemical Spills](./Chemical%20Hazard.md) ![Suffocation\_icon.png](../assets/Suffocation_icon.png)[Suffocation](./Suffocation.md)
+![](../assets/Chemical_Poisoning_icon.png)[Chemical Poisoning](./Chemical%20Poisoning.md) at [Chemical Spills](./Chemical%20Hazard.md) ![](../assets/Suffocation_icon.png)[Suffocation](./Suffocation.md)
 
 0.00 kg / _(0 lb)_
 

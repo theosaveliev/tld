@@ -184,14 +184,14 @@ _Main article: [Church Artifact](./Church%20Artifact.md)_
 
 ## Achievements
 
-- ![Community\_Service\_icon.png](../assets/Community_Service_icon.png) [Community Service](./Community%20Service.md)
-- ![Save\_Our\_Souls\_icon.png](../assets/Save_Our_Souls_icon.png) [Save Our Souls](./Save%20Our%20Souls.md)
-- ![Hippocratic\_Oath\_icon.png](../assets/Hippocratic_Oath_icon.png) [Hippocratic Oath](./Hippocratic%20Oath.md)
-- ![He\_Lives\_icon.png](../assets/He_Lives_icon.png) [He Lives](./He%20Lives.md)
-- ![The\_Crossroads\_Elegy\_icon.png](../assets/The_Crossroads_Elegy_icon.png) [The Crossroads Elegy](./The%20Crossroads%20Elegy.md)
-- ![Tall\_Tales\_(Achievement)\_icon.png](../assets/Tall_Tales_%28Achievement%29_icon.png) [Tall Tales (Achievement)](./Tall%20Tales%20%28Achievement%29.md)
-- ![Every\_Last\_One\_icon.png](../assets/Every_Last_One_icon.png) [Every Last One](./Every%20Last%20One.md)
-- ![There\_Will\_Be\_Blood\_icon.png](../assets/There_Will_Be_Blood_icon.png) [There Will Be Blood](./There%20Will%20Be%20Blood.md)
+- ![](../assets/Community_Service_icon.png) [Community Service](./Community%20Service.md)
+- ![](../assets/Save_Our_Souls_icon.png) [Save Our Souls](./Save%20Our%20Souls.md)
+- ![](../assets/Hippocratic_Oath_icon.png) [Hippocratic Oath](./Hippocratic%20Oath.md)
+- ![](../assets/He_Lives_icon.png) [He Lives](./He%20Lives.md)
+- ![](../assets/The_Crossroads_Elegy_icon.png) [The Crossroads Elegy](./The%20Crossroads%20Elegy.md)
+- ![](../assets/Tall_Tales_%28Achievement%29_icon.png) [Tall Tales (Achievement)](./Tall%20Tales%20%28Achievement%29.md)
+- ![](../assets/Every_Last_One_icon.png) [Every Last One](./Every%20Last%20One.md)
+- ![](../assets/There_Will_Be_Blood_icon.png) [There Will Be Blood](./There%20Will%20Be%20Blood.md)
 
 ## Gallery
 

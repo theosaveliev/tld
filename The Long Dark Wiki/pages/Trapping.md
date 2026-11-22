@@ -28,7 +28,7 @@ Trapping is a safe and efficient method exclusively for killing rabbits in The L
 
 ### Placement
 
-![Snare\_icon.png](../assets/Snare_icon.png) Snares are set individually by "placing" them from either the radial menu or inventory. Selecting a trap from the radial menu allows the player to immediately see the outline of a placeable snare, centered on the screen. Alternatively, a "place" button uniquely appears under the snare description in the inventory screen. Similarly, selecting "Place" from the inventory screen immediately returns the view to the main screen with the outlined view of a placeable snare. The outline will be red when placement is not possible, green when it is. Move as desired to a good spot. Left click to release. Right click to cancel. Left click on a placed snare to pick it up again as you would any loose item in the game.
+![](../assets/Snare_icon.png) Snares are set individually by "placing" them from either the radial menu or inventory. Selecting a trap from the radial menu allows the player to immediately see the outline of a placeable snare, centered on the screen. Alternatively, a "place" button uniquely appears under the snare description in the inventory screen. Similarly, selecting "Place" from the inventory screen immediately returns the view to the main screen with the outlined view of a placeable snare. The outline will be red when placement is not possible, green when it is. Move as desired to a good spot. Left click to release. Right click to cancel. Left click on a placed snare to pick it up again as you would any loose item in the game.
 
 ### Setting Runs
 
@@ -46,7 +46,7 @@ Occasionally snares will be found "broken", their condition reduced to 0%. This 
 
 ## Fishing Tip-Ups
 
-![Fishing\_Tip-Up\_icon.png](../assets/Fishing_Tip-Up_icon.png) A [Fishing Tip-Up](./Fishing%20Tip-Up.md) can be placed in any [Ice Fishing](./Ice%20Fishing.md) hole that has been broken open. The player can use them to fish on their behalf or as they fish in their own separate hole.
+![](../assets/Fishing_Tip-Up_icon.png) A [Fishing Tip-Up](./Fishing%20Tip-Up.md) can be placed in any [Ice Fishing](./Ice%20Fishing.md) hole that has been broken open. The player can use them to fish on their behalf or as they fish in their own separate hole.
 
 ### Placement
 

@@ -26,7 +26,7 @@ _bullet\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.005 kg(0.01 lbs)
 
 > “**Projectile component of Rifle or Revolver Ammunition. Can be Crafted from Scrap Lead.**”
 >

@@ -55,9 +55,9 @@ The player also has the ability to create beds via [Safehouse Customization](./S
 
 A list of Bedrolls that allow sleeping almost anywhere include:
 
-- ![Bedroll\_icon.png](../assets/Bedroll_icon.png) [Bedroll](./Bedroll.md) (+ 5 °C (+ 9 °F )
-- ![Improvised\_Down\_Bedroll\_icon.png](../assets/Improvised_Down_Bedroll_icon.png) [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) (+ 8 °C (+ 14.4 °F)
-- ![Bear\_Skin\_Bedroll\_icon.png](../assets/Bear_Skin_Bedroll_icon.png) [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) (+12 °C (+ 21.6 °F)
+- ![](../assets/Bedroll_icon.png) [Bedroll](./Bedroll.md) (+ 5 °C (+ 9 °F )
+- ![](../assets/Improvised_Down_Bedroll_icon.png) [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) (+ 8 °C (+ 14.4 °F)
+- ![](../assets/Bear_Skin_Bedroll_icon.png) [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) (+12 °C (+ 21.6 °F)
 
 ### Sleeping in Vehicles
 

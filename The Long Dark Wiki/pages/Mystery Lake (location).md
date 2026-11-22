@@ -19,3 +19,27 @@ _Mystery\_Lake\_(location)\_Location.png_
 **General**
 
 **Type:** Outdoors
+
+## Overview
+
+Mystery Lake is a good location for collecting supplies due to the abundance of cabin and huts around the lake.
+
+A [Camp Office](./Camp%20Office.md) is located at the north-western tip of the lake between the lake and the rail road tracks, this building has an abundance of supplies and is a contender for one of the best base locations in the region.
+
+There are two collections of [lake cabins](./Lake%20Cabins.md) on the south and south-eastern end of the lake, usually one cabin out of each collection is burnt down, but there is still a large amount of supplies to be found in each.
+
+Further up past the triple lake cabins a [Lone Lake Cabin](./Lone%20Lake%20Cabin.md) quietly sits abandoned.
+
+There is the occasional [wolf](./Wolf.md) (usually two or 4) as well as a [bear](./Bear.md) on the lake which makes exploring slightly risky sometimes. You can harvest the cattails from lake edge as a food and tinder source. Several [fishing huts](./Fishing%20Hut.md) (each with a stove, cupboard and fishing hole) are scattered over the frozen lake and a small strip of land sits in the middle of the lake. Over all Mystery Lake is a great location for supplies. A [Rifle](./Hunting%20Rifle.md) may spawn near a corpse behind [Lone Lake Cabin](./Lone%20Lake%20Cabin.md).
+
+![Mystery Lake (Western Access)](../assets/Mystery_Lake_%28Western_Access%29.png)
+
+_Mystery Lake (Western Access)_
+
+![Office Cabin during the Aurora](../assets/Camp_Office_-_Aurora.jpg)
+
+_Office Cabin during the Aurora_
+
+![The lookout during an aurora](../assets/LookoutAurora.jpg)
+
+_The lookout during an aurora_

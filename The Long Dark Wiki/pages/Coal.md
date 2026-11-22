@@ -48,9 +48,9 @@ Coal is a fuel source for fires, and the only fuel which can heat Forges hot eno
 
 **Statistics**
 
-**Duration:** ![Fire\_Starting.png](../assets/Fire_Starting.png) 60 minutes
+**Duration:** ![](../assets/Fire_Starting.png) 60 minutes
 
-**Heat:** ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +20°C (+36°F)
+**Heat:** ![](../assets/Fire_heat_icon.png) +20°C (+36°F)
 
 **Burn Density:** 3.33 hr/kg (1.51 hr/lb)
 

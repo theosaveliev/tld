@@ -40,5 +40,34 @@ _Canned\_Ham\_icon.png_
 
 **Item key:** GAMEPLAY\_CannedHam
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
+![](../assets/Ptarmigan_icon.png)
+
+_Ptarmigan\_icon.png_
+
+**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+
+**Canned Ham** is a packaged [food](./Food%20And%20Drink.md) which reduces hydration by 5% and provides 550 calories.
+
+## Overview
+
+Consuming a Canned Ham provides up to 550 Calories and reduces hydration by 5%. [Canned Corn](./Canned%20Corn.md) and Canned Ham can generally only be found after entering the Far Territory, specifically inside:
+
+- The 4 [Signal Void](./Signal%20Void.md) bunker kitchens.
+  - [Bunker Alpha](./Bunker%20Alpha.md)
+  - [Bunker Beta](./Bunker%20Beta.md)
+  - [Bunker Gamma](./Bunker%20Gamma.md)
+  - [Bunker Omega](./Bunker%20Omega.md)
+- The top floor of the [Concentrator](./Concentrator.md) of the [Zone of Contamination](./Zone%20of%20Contamination.md).
+  - In a [Locker](./Locker.md) in the hidden room with the [Miner's Flashlight](./Miner%27s%20Flashlight.md).
+- Occasionally in [Supply Caches](./Supply%20Cache.md).
+
+Like [Tins of Sardines](./Tin%20of%20Sardines.md), Canned Ham can be opened without a [Can Opener](./Can%20Opener.md) (thanks to their pull-tab), and consuming them yields no [Recycled Can](./Recycled%20Can.md).
+
+## Trivia
+
+The side of the can lists "Ingredients: Ham (Cured With Water, Salt, Sugar, Sodium Phosphate, Carrageenan, Smoke Flavouring.)"
+
+## Update history
+
+- UPDATE **30 March 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.10)):**
+  - Added to game.

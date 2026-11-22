@@ -65,10 +65,10 @@ Risk for Intestinal Parasites does not fill up as a meter to 100%, unlike many o
 
 Only the following pieces of meat, cooked or raw, contribute to Risk of Intestinal Parasites when eaten:
 
-- ![Bear\_Meat\_(Raw)\_icon.png](../assets/Bear_Meat_%28Raw%29_icon.png) [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)/![Bear\_Meat\_(Cooked)\_icon.png](../assets/Bear_Meat_%28Cooked%29_icon.png) [Bear Meat (Cooked)](./Bear%20Meat%20%28Cooked%29.md)
-- ![Cougar\_Meat\_(Raw)\_icon.png](../assets/Cougar_Meat_%28Raw%29_icon.png) [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)/![Cougar\_Meat\_(Cooked)\_icon.png](../assets/Cougar_Meat_%28Cooked%29_icon.png) [Cougar Meat (Cooked)](./Cougar%20Meat%20%28Cooked%29.md)
-- ![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)/![Wolf\_Meat\_(Cooked)\_icon.png](../assets/Wolf_Meat_%28Cooked%29_icon.png) [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md)
-- ![Stalker's\_Pie\_icon.png](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md)[¹](#fn1)
+- ![](../assets/Bear_Meat_%28Raw%29_icon.png) [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)/![](../assets/Bear_Meat_%28Cooked%29_icon.png) [Bear Meat (Cooked)](./Bear%20Meat%20%28Cooked%29.md)
+- ![](../assets/Cougar_Meat_%28Raw%29_icon.png) [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)/![](../assets/Cougar_Meat_%28Cooked%29_icon.png) [Cougar Meat (Cooked)](./Cougar%20Meat%20%28Cooked%29.md)
+- ![](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)/![](../assets/Wolf_Meat_%28Cooked%29_icon.png) [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md)
+- ![](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md)[¹](#fn1)
 
 ## Risk of Intestinal Parasites Mechanics
 

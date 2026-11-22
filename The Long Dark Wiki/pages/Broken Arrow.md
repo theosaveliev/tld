@@ -12,7 +12,7 @@ _Broken\_Arrow\_icon.png_
 
 **Item Type:** Tool
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.15 kg(0.33 lbs)
 
 **Harvest:** 1 × [Arrowhead](./Arrowhead.md) 2 × [Crow Feather](./Crow%20Feather.md)
 

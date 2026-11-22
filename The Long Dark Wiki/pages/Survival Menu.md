@@ -38,7 +38,7 @@ With standard key bindings on PC, there are several ways to open the game menu. 
 
 ## Status
 
-![Status\_Menu.png](../assets/Status_Menu.png) Shown as a stick figure of a human in the menu, the Status screen displays your current condition, any injuries or illnesses you have, and the time of day.
+![](../assets/Status_Menu.png) Shown as a stick figure of a human in the menu, the Status screen displays your current condition, any injuries or illnesses you have, and the time of day.
 
 Along the left you can see your [Warmth](./Warmth.md), [Fatigue](./Fatigue.md), [Thirst](./Thirst.md), and [Hunger](./Hunger.md) meters, as well as your current stored calories. The Calorie Store number is how many calories the player currently possesses, and is directly linked to the Hunger bar. When the Hunger bar is 100% full, max stored calories will be 2500, with the opposite being 0 calories at 0% Hunger bar.
 
@@ -48,11 +48,11 @@ In the center of the screen you will see any [Afflictions](./Afflictions.md) you
 
 ## Clothing
 
-![Clothing\_hud.jpg](../assets/Clothing_hud.jpg) Shown as a T-shirt icon in the menu, the [Clothing](./Clothing.md) screen allows you to see what clothes you are currently wearing on each part of your body, as well as to compare and select other clothes items you are carrying. The bottom left of the screen shows you the bonuses from your current set of worn clothing, while the right of the screen shows you the statistics of the selected item. Clothing can be harvested or repaired from this menu or from the Backpack menu.
+![](../assets/Clothing_hud.jpg) Shown as a T-shirt icon in the menu, the [Clothing](./Clothing.md) screen allows you to see what clothes you are currently wearing on each part of your body, as well as to compare and select other clothes items you are carrying. The bottom left of the screen shows you the bonuses from your current set of worn clothing, while the right of the screen shows you the statistics of the selected item. Clothing can be harvested or repaired from this menu or from the Backpack menu.
 
 ## Backpack
 
-![Backpack\_Menu.png](../assets/Backpack_Menu.png) Shown as a backpack icon in the menu, the Backpack displays all the items you currently have. You can view **All** items at once, or you can view them by category:
+![](../assets/Backpack_Menu.png) Shown as a backpack icon in the menu, the Backpack displays all the items you currently have. You can view **All** items at once, or you can view them by category:
 
 - [Fire Starting](./Fire.md)
 - [First Aid](./First%20Aid.md)
@@ -68,7 +68,7 @@ The total weight of your backpack and your [Encumbrance](./Encumbrance.md) is di
 
 ## Crafting
 
-![Crafting\_Menu.png](../assets/Crafting_Menu.png) Shown as a hammer and anvil icon in the menu, the Crafting screen shows you the current blueprints you have for crafting items and allows you to craft items.
+![](../assets/Crafting_Menu.png) Shown as a hammer and anvil icon in the menu, the Crafting screen shows you the current blueprints you have for crafting items and allows you to craft items.
 
 _For more detailed information, see [Crafting](./Crafting.md)_
 
@@ -96,7 +96,7 @@ The **K** key will access this menu.
 
 ## Recipe Book
 
-![Recipe\_Book.png](../assets/Recipe_Book.png) _This menu will not appear unless the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon is purchased._
+![](../assets/Recipe_Book.png) _This menu will not appear unless the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon is purchased._
 
 Shown as a cooking pot icon in the menu, the Recipe Book menu is used show the various [Cooking](./Cooking.md) Recipes that the player can use as part of the Frontier Cooking update. Because Recipes require multiple ingredients and are not simply 1 item cooking items, this menu is used to track all ingredients used to make each Recipe. Some Recipes contain a white star next to them, and will be unlocked when the player finds their specific Recipe when searching the island. Recipes cannot be created by hand from this menu like Crafting, and instead require an active [Fire](./Fire.md) source.
 
@@ -114,7 +114,7 @@ Items can be sorted alphabetically, by preparation times, or by calorie amounts 
 
 ## Tales Objectives
 
-![Tales\_Objectives.jpg](../assets/Tales_Objectives.jpg) _This menu will not appear unless the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon is purchased and at least 1 Tale is activated_
+![](../assets/Tales_Objectives.jpg) _This menu will not appear unless the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon is purchased and at least 1 Tale is activated_
 
 Shown as a flag icon, this menu is used to track the objectives required to complete the 3 [Tales](./Tales.md). It functions similarly to the Missions menu in Wintermute, and can select each individual Tale once it is unlocked.
 
@@ -122,7 +122,7 @@ There J is the hotkey to access this menu.
 
 ## Journal
 
-![Journal\_Menu.jpg](../assets/Journal_Menu.jpg) Shown as an open book icon in the menu, the Journal is different for Wintermute and Survival Mode, but contains mostly the same information.
+![](../assets/Journal_Menu.jpg) Shown as an open book icon in the menu, the Journal is different for Wintermute and Survival Mode, but contains mostly the same information.
 
 ### Survival Mode
 
@@ -156,7 +156,7 @@ In [Wintermute](./Wintermute.md), the Journal menu is divided into 3 submenus, w
 
 ## Map
 
-![Maple\_sapling.jpg](../assets/Maple_sapling.jpg) Shown as a shining star icon, the [Map](./Map.md) displays the current map you are on, as well as any other maps you have found or made. You can view any other maps you have by clicking the arrows under the region name in the top right corner. By default, opening the map will always show the map of the current [Region](./Region.md) they are in.
+![](../assets/Maple_sapling.jpg) Shown as a shining star icon, the [Map](./Map.md) displays the current map you are on, as well as any other maps you have found or made. You can view any other maps you have by clicking the arrows under the region name in the top right corner. By default, opening the map will always show the map of the current [Region](./Region.md) they are in.
 
 In Wintermute, all maps are fully revealed and will show the player's current position and facing position (represented by an arrow) and will show icons that represent any main or side mission objectives.
 
@@ -164,13 +164,13 @@ In Survival Mode, players must draw the map themselves using [Charcoal](./Charco
 
 ## Missions
 
-![Missions\_Menu.jpg](../assets/Missions_Menu.jpg) _This menu only appears in Wintermute_
+![](../assets/Missions_Menu.jpg) _This menu only appears in Wintermute_
 
 Represented by a shield icon, the Missions menu records all information relevant to your objectives while in Wintermute. It functions similarly to the Tales menu, but with 3 submenus: Main for main missions, Side for side missions, and Completed for all completed missions.
 
 ## Trust
 
-![The Survival Menu icons for Wintermute.](../assets/Survival_Menu_Wintermute.jpg)_The Survival Menu icons for Wintermute._ ![GreyMotherTrustOutdated.jpg](../assets/GreyMotherTrustOutdated.jpg) The original release of Wintermute's Episode 1 and 2 featured a menu for Trust in the Journal menu.
+![The Survival Menu icons for Wintermute.](../assets/Survival_Menu_Wintermute.jpg)_The Survival Menu icons for Wintermute._ ![](../assets/GreyMotherTrustOutdated.jpg) The original release of Wintermute's Episode 1 and 2 featured a menu for Trust in the Journal menu.
 
 Trust would have shown you the character who you are currently attempting to gain the trust of ([Grey Mother](./Grey%20Mother.md) or [Jeremiah](./Jeremiah.md)), and had two separate sections 'Description' and 'Trust' which respectively displayed the current needs and Trust rewards of the character in question. Maxing out Trust with a character would lead to more world building information and possible side missions. To date, this is [Cut/Discontinued Content](./Cut%20%E2%80%94%20Discontinued%20Content.md).
 

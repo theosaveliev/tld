@@ -23,17 +23,17 @@ Clothing Slot
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
+**Weight:** ![](../assets/Weight_icon.png)2.50 kg(5.5 lbs)
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)3.0 °C(5.4 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)3.0 °C(5.4 °F)
 
-**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)1.5 °C(2.7 °F)
+**Windproof bonus:** ![](../assets/Windproofness_icon.png)1.5 °C(2.7 °F)
 
-**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)50%
+**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)50%
 
-**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)10%
+**Protection:** ![](../assets/Protection_icon.png)10%
 
-**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-5%
+**Mobility:** ![](../assets/Mobility_icon.png)-5%
 
 **Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / 40 minutes
 

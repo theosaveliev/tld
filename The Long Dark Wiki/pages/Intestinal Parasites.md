@@ -37,9 +37,9 @@ _Intestinal\_Parasites\_icon.png_
 
 **Treatment**
 
-**Treatment:** 2 x ![Antibiotics\_icon.png](../assets/Antibiotics_icon.png) [Antibiotics](./Antibiotics.md) every 24 hours
+**Treatment:** 2 x ![](../assets/Antibiotics_icon.png) [Antibiotics](./Antibiotics.md) every 24 hours
 
-**Alternate Treatment:** 1 x ![Reishi\_Tea\_icon.png](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)/![Burdock\_Tea\_icon.png](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md) every 24 hours
+**Alternate Treatment:** 1 x ![](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)/![](../assets/Burdock_Tea_icon.png) [Burdock Tea](./Burdock%20Tea.md) every 24 hours
 
 **Recovery Time:** 10 Days (Stalker) 20 Days (Interloper/Misery)
 

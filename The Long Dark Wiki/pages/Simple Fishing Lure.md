@@ -44,7 +44,7 @@ If a Fishing Tackle is equipped with a Simple Fishing Lure and snaps when fishin
 
 | Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
 | --- | --- | --- | --- | --- | --- |
-| ![](../assets/Simple_Fishing_Lure_icon.png) / _Simple\_Fishing\_Lure\_icon.png_ | Simple Fishing Lure | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
+| ![](../assets/Simple_Fishing_Lure_icon.png)<br>_Simple\_Fishing\_Lure\_icon.png_ | Simple Fishing Lure | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
 
 ## Crafting
 

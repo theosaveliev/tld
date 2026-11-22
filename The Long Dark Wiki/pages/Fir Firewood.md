@@ -53,11 +53,11 @@ Fir Firewood can be harvested from downed Fir Limbs found outdoors with a [tool]
 
 **Statistics**
 
-**Duration:** ![Fire\_Starting.png](../assets/Fire_Starting.png) 90 minutes
+**Duration:** ![](../assets/Fire_Starting.png) 90 minutes
 
-**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) 0%
+**Start Chance:** ![](../assets/Firestart_mod_icon.png) 0%
 
-**Heat:** ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +8°C (+14.4°F)
+**Heat:** ![](../assets/Fire_heat_icon.png) +8°C (+14.4°F)
 
 **Burn Density:** 1.5 hr/kg (0.68 hr/lb)
 

@@ -19,3 +19,13 @@ _Builder's\_Bridge\_Location.png_
 **General**
 
 **Type:** Landmark
+
+## Overview
+
+A rope bridge providing access to both sides of the river at the end of the crevice back onto the road to [Blackrock](./Blackrock.md). The river valley below can be climbed down into via a [Rope Climbing](./Rope%20Climbing.md) section, with an [Emergency Kit](./Emergency%20Kit.md) containing a [Distress Pistol](./Distress%20Pistol.md) and [Flare Shells](./Flare%20Shell.md). No nearby shelter is present, aside from some Blackrock [Trucks](./Truck.md) on the nearby road.
+
+## Gallery
+
+![The river below the bridge](../assets/Buildersbridge1.png)
+
+_The river below the bridge_

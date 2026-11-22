@@ -24,7 +24,7 @@ A **Radio** is an interactable electronic device that can be found in many locat
 
 Both can be interacted with, but will do nothing unless an [Aurora](./Aurora.md) is active, in which case piano music will begin playing unless the radio is turned off or until the Aurora ends.
 
-A special yellow radio with an antenna and microphone will appear if the [Trader](./Trader.md) is enabled, and is used to communicate with him.![Tabletop\_Radio.png](../assets/Tabletop_Radio.png)
+A special yellow radio with an antenna and microphone will appear if the [Trader](./Trader.md) is enabled, and is used to communicate with him.![](../assets/Tabletop_Radio.png)
 
 ## Locations
 

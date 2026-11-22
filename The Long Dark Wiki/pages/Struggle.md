@@ -452,7 +452,7 @@ Maulings are a more aggressive version of Struggles, wherein the player is unabl
 
 ### Bears
 
-![Screen\_94b5eb73-fd2a-4e19-8f1c-8391b2ad7bd8\_hi.png](../assets/Screen_94b5eb73-fd2a-4e19-8f1c-8391b2ad7bd8_hi.png) A Struggle with a [Bear](./Bear.md) will always result in a loss for the player, because they are unable to take any action during this time. This will result in a loss of -60-90% of pre-struggle condition remaining and two Afflictions: Blood Loss and Infection Risk. Any tools the player is currently holding will be dropped to the ground (along with a random item in the player's inventory) and must be picked up once the player regains consciousness. This can result in wasted [Torch](./Torch.md), [Storm Lantern](./Storm%20Lantern.md), [Flare](./Flare.md) fuel if the player is not careful.
+![](../assets/Screen_94b5eb73-fd2a-4e19-8f1c-8391b2ad7bd8_hi.png) A Struggle with a [Bear](./Bear.md) will always result in a loss for the player, because they are unable to take any action during this time. This will result in a loss of -60-90% of pre-struggle condition remaining and two Afflictions: Blood Loss and Infection Risk. Any tools the player is currently holding will be dropped to the ground (along with a random item in the player's inventory) and must be picked up once the player regains consciousness. This can result in wasted [Torch](./Torch.md), [Storm Lantern](./Storm%20Lantern.md), [Flare](./Flare.md) fuel if the player is not careful.
 
 During Wintermute's Chapter 2, the [Bear Spear](./Bear%20Spear.md) may be used against a charging Bear for a "Bear Spear Struggle", which can be won or lost by the player. Hinterland has stated that the spear may become available in Survival Mode in the future.
 
@@ -468,7 +468,7 @@ The in-game mechanics of bear mauling can be deduced from [this YouTube video](h
 
 ### Moose
 
-![Moose\_Struggle.jpg](../assets/Moose_Struggle.jpg) Similar to Bears, a Struggle with a [Moose](./Moose.md) will always result in a loss. The Moose tramples the player and knocks them to their feet, then stomps several times before the player passes out. Upon waking up, the player will be temporarily disoriented and lose about 50% Condition, as well as obtaining a [Broken Ribs](./Broken%20Ribs.md) Affliction. Any tools the player is holding when a Moose attacks will be lying on the ground nearby when the player regains consciousness, similar to a Bear mauling.
+![](../assets/Moose_Struggle.jpg) Similar to Bears, a Struggle with a [Moose](./Moose.md) will always result in a loss. The Moose tramples the player and knocks them to their feet, then stomps several times before the player passes out. Upon waking up, the player will be temporarily disoriented and lose about 50% Condition, as well as obtaining a [Broken Ribs](./Broken%20Ribs.md) Affliction. Any tools the player is holding when a Moose attacks will be lying on the ground nearby when the player regains consciousness, similar to a Bear mauling.
 
 ### Cougars
 

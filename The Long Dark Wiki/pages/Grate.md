@@ -6,6 +6,6 @@
 
 | Column 1 | Column 2 |
 | --- | --- |
-| ![](../assets/Grate.jpg) / _Grate.jpg_ |  |
+| ![](../assets/Grate.jpg)<br>_Grate.jpg_ |  |
 | **General** |  |
 | Item Type | Item |

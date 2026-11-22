@@ -35,7 +35,7 @@ _Suffocation\_Risk\_icon.png_
 
 **Treatment**
 
-**Treatment:** Find breathable air or equip a ![Respirator\_icon.png](../assets/Respirator_icon.png) [Respirator](./Respirator.md) with ![Canister\_icon.png](../assets/Canister_icon.png) [Canister](./Canister.md)
+**Treatment:** Find breathable air or equip a ![](../assets/Respirator_icon.png) [Respirator](./Respirator.md) with ![](../assets/Canister_icon.png) [Canister](./Canister.md)
 
 **Recovery Time:** Immediate
 

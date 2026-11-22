@@ -21,3 +21,7 @@ _Watchful\_Falls\_Location.png_
 **General**
 
 **Type:** Outdoors
+
+## Overview
+
+There is a patch of [Scrub Brush](./Scrub%20Brush.md) and a shallow cave immediately beside the waterfall. The cave may contain a ravaged [Wolf Carcass](./Wolf%20Carcass.md), a corpse, and some supplies, including a whetstone and a skill book.

@@ -14,7 +14,7 @@ _Stack\_of\_Papers\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
 > “**Stack of now-useless papers. Makes for good Tinder, and that's about it.**”
 >

@@ -24,7 +24,7 @@ Item Type
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.02 kg(0.04 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.02 kg(0.04 lbs)
 
 **Harvest:** Chance to produce: / 1 × [Bullet](./Bullet.md) 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / 0.01kg x [Can of Gunpowder](./Can%20of%20Gunpowder.md) / 5 minutes
 

@@ -19,3 +19,7 @@ _The\_Arch\_(Old\_Island\_Connector\_location)\_Location.png_
 **General**
 
 **Type:** Landmark
+
+## Overview
+
+The Arch is located by the coast, south-east of [Abandoned Harris Home](./Abandoned%20Harris%20Home.md) and south-west of [Road Collapse](./Road%20Collapse.md). A shallow [Warm Cave](./Warm%20Cave.md) sits nearby, and a deer carcass and some loot may spawn in the area. The ice is deep enough on the coastline for [Ice Fishing](./Ice%20Fishing.md) with Free Form holes.

@@ -65,7 +65,7 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 
 **Statistics**
 
-**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) 0%
+**Start Chance:** ![](../assets/Firestart_mod_icon.png) 0%
 
 ## Products
 

@@ -2,7 +2,7 @@
 
 **Categories:** Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Helicopter)
 
-![Helicopter.jpg](../assets/Helicopter.jpg) **Helicopters** are the rarest of any [Vehicle](./Vehicle.md) on [Great Bear Island](./Great%20Bear%20Island.md), second only to [Buses](./Bus.md) and [Earth Movers](./Haul%20Truck.md). Most are only found in the [Forsaken Airfield](./Forsaken%20Airfield.md) Region and provide a small warmth bonus and complete protection from wind-chill as [Cars](./Car.md), [Trucks](./Truck.md), and [Tractors](./Tractor.md) would. They can also be used as a temporary shelter to sleep or evade wildlife.
+![](../assets/Helicopter.jpg) **Helicopters** are the rarest of any [Vehicle](./Vehicle.md) on [Great Bear Island](./Great%20Bear%20Island.md), second only to [Buses](./Bus.md) and [Earth Movers](./Haul%20Truck.md). Most are only found in the [Forsaken Airfield](./Forsaken%20Airfield.md) Region and provide a small warmth bonus and complete protection from wind-chill as [Cars](./Car.md), [Trucks](./Truck.md), and [Tractors](./Tractor.md) would. They can also be used as a temporary shelter to sleep or evade wildlife.
 
 Helicopters contain the most loot containers of any vehicle, often containing 2 side hatches and 2 cylindrical hatches on the outside, 2 baskets that often contain loot, and many lockers inside the passenger cabin. Like other vehicles during an [Aurora](./Aurora.md), the electronics of a Helicopter will turn back on.
 

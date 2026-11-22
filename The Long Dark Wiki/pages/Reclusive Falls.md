@@ -21,3 +21,7 @@ _Reclusive\_Falls\_Location.png_
 **General**
 
 **Type:** Outdoors
+
+## Overview
+
+The lone waterfall's location is not the most interesting of its features, however it contains an entrance to an [Ice Cave](./Ice%20Cave.md), and it is unique among the many majestic falls in [Hushed River Valley](./Hushed%20River%20Valley.md).

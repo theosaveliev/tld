@@ -25,17 +25,17 @@ _Improvised\_Crampons\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.75 kg(1.65 lbs)
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)0.0 °C(0 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)0.0 °C(0 °F)
 
-**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.0 °C(0 °F)
+**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.0 °C(0 °F)
 
-**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)100%
+**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)100%
 
-**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)3%
+**Protection:** ![](../assets/Protection_icon.png)3%
 
-**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-5%
+**Mobility:** ![](../assets/Mobility_icon.png)-5%
 
 **Harvest:** Cannot Harvest
 

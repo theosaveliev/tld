@@ -36,7 +36,7 @@ During the course of the mission, Astrid finds the ID on a corpse at the [Crash 
 
 ## Location
 
-The ID is located on a [Frozen Corpse](./Frozen%20Corpse.md) found after immediately falling from the main body of the plane and turning to the left, over the hill in a ditch near a nearby tree with the corpse of [ID - F. Leblanc](./ID%20-%20F.%20Leblanc.md). The ID is later returned to Bennett at the [Community Hall](./Community%20Hall.md), with Astrid giving her sympathies. ![K.\_Morrison\_and\_F.\_Leblanc\_location.jpg](../assets/K._Morrison_and_F._Leblanc_location.jpg)
+The ID is located on a [Frozen Corpse](./Frozen%20Corpse.md) found after immediately falling from the main body of the plane and turning to the left, over the hill in a ditch near a nearby tree with the corpse of [ID - F. Leblanc](./ID%20-%20F.%20Leblanc.md). The ID is later returned to Bennett at the [Community Hall](./Community%20Hall.md), with Astrid giving her sympathies. ![](../assets/K._Morrison_and_F._Leblanc_location.jpg)
 
 ## Update history
 

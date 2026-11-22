@@ -18,9 +18,9 @@ _accelerant\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Bonus chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+40%
+**Bonus chance:** ![](../assets/Firestart_mod_icon.png)+40%
 
 > “**Low-volume fuel source designed to help start fires; ex. lighter fluid.**”
 >

@@ -51,7 +51,7 @@ Like all other plants, Cat Tails do not regrow.
 
 **Statistics**
 
-**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) 0%
+**Start Chance:** ![](../assets/Firestart_mod_icon.png) 0%
 
 ## Gallery
 

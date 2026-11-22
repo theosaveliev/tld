@@ -21,3 +21,9 @@ _Wing\_(Summit)\_Location.png_
 **General**
 
 **Type:** Outdoors
+
+## Overview
+
+The location of this wing is on the Summit, just between a piece of landing gear and the [Tail Section](./Tail%20Section.md). A [Warm Cave](./Warm%20Cave.md) is found nearby and can be used for shelter.
+
+It must be surveyed in order to unlock the [Faithful Cartographer](./Faithful%20Cartographer.md) achievement.

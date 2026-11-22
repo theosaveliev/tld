@@ -22,7 +22,7 @@ _flashlight\_icon.png_
 
 **Item Type:** Tool
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
 **Harvest:** 1 × [Scrap Metal](./Scrap%20Metal.md)
 

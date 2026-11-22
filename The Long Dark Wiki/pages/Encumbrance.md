@@ -78,7 +78,7 @@ _Unburdened\_icon.png_
 
 3.00 kg / _(6.6 lb)_
 
-Consume: ![Ptarmigan\_Pie\_icon.png](../assets/Ptarmigan_Pie_icon.png) [Ptarmigan Pie](./Ptarmigan%20Pie.md)![Rabbit\_Pie\_icon.png](../assets/Rabbit_Pie_icon.png) [Rabbit Pie](./Rabbit%20Pie.md)![Venison\_Pie\_icon.png](../assets/Venison_Pie_icon.png) [Venison Pie](./Venison%20Pie.md)![Porter's\_Soup\_icon.png](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md)![Pemmican\_Bar\_icon.png](../assets/Pemmican_Bar_icon.png) [Pemmican Bar](./Pemmican%20Bar.md)
+Consume: ![](../assets/Ptarmigan_Pie_icon.png) [Ptarmigan Pie](./Ptarmigan%20Pie.md)![](../assets/Rabbit_Pie_icon.png) [Rabbit Pie](./Rabbit%20Pie.md)![](../assets/Venison_Pie_icon.png) [Venison Pie](./Venison%20Pie.md)![](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md)![](../assets/Pemmican_Bar_icon.png) [Pemmican Bar](./Pemmican%20Bar.md)
 
 3 hours
 

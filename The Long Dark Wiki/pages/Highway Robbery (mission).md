@@ -51,13 +51,13 @@ The first pickup truck has a trunk located in its bed. Search the trunk, taking 
 
 ## Rewards
 
-- 1 ![Distress\_Pistol\_icon.png](../assets/Distress_Pistol_icon.png) [Distress Pistol](./Distress%20Pistol.md)
-- 4 ![Flare\_Shell\_icon.png](../assets/Flare_Shell_icon.png) [Flare Shells](./Flare%20Shell.md)
-- 2 ![Peanut\_Butter\_icon.png](../assets/Peanut_Butter_icon.png) [Peanut Butter](./Peanut%20Butter.md)
-- 2 ![Condensed\_Milk\_icon.png](../assets/Condensed_Milk_icon.png) [Condensed Milk](./Condensed%20Milk.md)
-- 2 ![Energy\_Bar\_icon.png](../assets/Energy_Bar_icon.png) [Energy Bars](./Energy%20Bar.md)
-- 1 ![Trail\_Boots\_icon.png](../assets/Trail_Boots_icon.png) [Trail Boots](./Trail%20Boots.md)
-- 1 ![Fleece\_Mittens\_icon.png](../assets/Fleece_Mittens_icon.png) [Fleece Mittens](./Fleece%20Mittens.md)
+- 1 ![](../assets/Distress_Pistol_icon.png) [Distress Pistol](./Distress%20Pistol.md)
+- 4 ![](../assets/Flare_Shell_icon.png) [Flare Shells](./Flare%20Shell.md)
+- 2 ![](../assets/Peanut_Butter_icon.png) [Peanut Butter](./Peanut%20Butter.md)
+- 2 ![](../assets/Condensed_Milk_icon.png) [Condensed Milk](./Condensed%20Milk.md)
+- 2 ![](../assets/Energy_Bar_icon.png) [Energy Bars](./Energy%20Bar.md)
+- 1 ![](../assets/Trail_Boots_icon.png) [Trail Boots](./Trail%20Boots.md)
+- 1 ![](../assets/Fleece_Mittens_icon.png) [Fleece Mittens](./Fleece%20Mittens.md)
 
 ## Transcript
 

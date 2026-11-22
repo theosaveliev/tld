@@ -25,11 +25,11 @@ _Wood\_Matches\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.008 kg(0.02 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.008 kg(0.02 lbs)
 
-**Bonus chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png)+5%
+**Bonus chance:** ![](../assets/Firestart_mod_icon.png)+5%
 
-**Unit count:** ![unit\_count\_icon.png](../assets/Unit_count_icon.png)12match
+**Unit count:** ![](../assets/Unit_count_icon.png)12match
 
 > “**Wooden strike-anywhere matches.**”
 >

@@ -14,17 +14,17 @@ _Gauntlets\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)40%
+**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)40%
 
-**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)6%
+**Protection:** ![](../assets/Protection_icon.png)6%
 
-**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-3%
+**Mobility:** ![](../assets/Mobility_icon.png)-3%
 
 **Harvest:** 1 × [Cured leather](./Cured%20Leather.md) 10 minutes
 

@@ -10,7 +10,7 @@
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 
-![Research1.jpg](../assets/Research1.jpg) A **Research Book** or **Skill Book** is both a Fuel and Tool item in [Survival Mode](./Survival%20Mode.md) that can be researched to increase [Skills](./Skills.md), and can be found as 10 separate in game items.
+![](../assets/Research1.jpg) A **Research Book** or **Skill Book** is both a Fuel and Tool item in [Survival Mode](./Survival%20Mode.md) that can be researched to increase [Skills](./Skills.md), and can be found as 10 separate in game items.
 
 ## Overview
 

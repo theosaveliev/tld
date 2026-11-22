@@ -47,11 +47,11 @@ Although books are the worst fuel in terms of burn time to weight, they have the
 
 **Statistics**
 
-**Duration:** ![Fire\_Starting.png](../assets/Fire_Starting.png) 18 minutes
+**Duration:** ![](../assets/Fire_Starting.png) 18 minutes
 
-**Start Chance:** ![firestart\_mod\_icon.png](../assets/Firestart_mod_icon.png) 35%
+**Start Chance:** ![](../assets/Firestart_mod_icon.png) 35%
 
-**Heat:** ![fire\_heat\_icon.png](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
+**Heat:** ![](../assets/Fire_heat_icon.png) +2°C (+3.6°F)
 
 **Burn Density:** 0.6 hr/kg (0.27 hr/lb)
 

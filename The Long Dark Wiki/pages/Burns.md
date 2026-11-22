@@ -20,9 +20,9 @@
 
 **Treatment**
 
-**Treatment:** 1 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x 
+**Treatment:** 1 x ![](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 2 x 
 
-**Alternate Treatment:** 1 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 1 x ![Rose\_Hip\_Tea\_icon.png](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
+**Alternate Treatment:** 1 x ![](../assets/Bandage_icon.png) [Bandage](./Bandage.md) and 1 x ![](../assets/Rose_Hip_Tea_icon.png) [Rose Hip Tea](./Rose%20Hip%20Tea.md)
 
 **Recovery Time:** Wait 30 hours (untreated)
 

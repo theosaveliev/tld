@@ -47,7 +47,7 @@ In all difficulty levels, the player will start out with a few items of low-grad
 
 ### Warmth
 
-![Temp\_icon.png](../assets/Temp_icon.png) The **Warmth** bonus provided by clothing protects against the chilling ambient temperatures experienced by the player character. Each equipped clothing item contributes a specified number of degrees to the warmth bonus. The bonus is a constant effect that increases the "Feels Like" temperature. However, as clothing deteriorates, so too does the level of warmth it provides.
+![](../assets/Temp_icon.png) The **Warmth** bonus provided by clothing protects against the chilling ambient temperatures experienced by the player character. Each equipped clothing item contributes a specified number of degrees to the warmth bonus. The bonus is a constant effect that increases the "Feels Like" temperature. However, as clothing deteriorates, so too does the level of warmth it provides.
 
 The highest possible warmth bonus that can currently be achieved is 44°C (79.2°F) (or 37.5°C on Interloper).
 
@@ -87,7 +87,7 @@ _Improvised\_Insulation\_icon.png_
 
 2.0 °C / _(3.6 °F)_
 
-![Aviator\_Cap\_icon.png](../assets/Aviator_Cap_icon.png)/![Balaclava\_icon.png](../assets/Balaclava_icon.png)/ ![Technical\_Balaclava\_icon.png](../assets/Technical_Balaclava_icon.png)/![Wool\_Toque\_icon.png](../assets/Wool_Toque_icon.png)
+![](../assets/Aviator_Cap_icon.png)/![](../assets/Balaclava_icon.png)/ ![](../assets/Technical_Balaclava_icon.png)/![](../assets/Wool_Toque_icon.png)
 
 [Aviator Cap](./Aviator%20Cap.md)/[Balaclava](./Balaclava.md)/ [Technical Balaclava](./Technical%20Balaclava.md)/[Wool Toque](./Wool%20Toque.md)
 
@@ -225,7 +225,7 @@ _Clothing.png_
 
 _Temp\_icon.png_
 
-![Gauntlets\_icon.png](../assets/Gauntlets_icon.png)/![Rabbitskin\_Mitts\_icon.png](../assets/Rabbitskin_Mitts_icon.png)
+![](../assets/Gauntlets_icon.png)/![](../assets/Rabbitskin_Mitts_icon.png)
 
 [Gauntlets](./Gauntlets.md)/[Rabbitskin Mitts](./Rabbitskin%20Mitts.md)
 
@@ -257,7 +257,7 @@ _Clothing.png_
 
 _Temp\_icon.png_
 
-![Insulated\_Boots\_icon.png](../assets/Insulated_Boots_icon.png)/![Ski\_Boots\_icon.png](../assets/Ski_Boots_icon.png)
+![](../assets/Insulated_Boots_icon.png)/![](../assets/Ski_Boots_icon.png)
 
 [Insulated Boots](./Insulated%20Boots.md)/[Ski Boots](./Ski%20Boots.md)
 
@@ -265,7 +265,7 @@ _Temp\_icon.png_
 
 ### Windproof
 
-![Windproofness\_icon.png](../assets/Windproofness_icon.png) The **Windproof** bonus provided by clothing protects against the additional heat loss experienced by the player due to windchill. Even when your gear's warmth rating is higher than the environmental temperature, when its windproof rating is lower than the windchill, you will lose heat. The windproof effect only increases the "Feels Like" temperature by the absolute number of degrees of windchill affecting the player.
+![](../assets/Windproofness_icon.png) The **Windproof** bonus provided by clothing protects against the additional heat loss experienced by the player due to windchill. Even when your gear's warmth rating is higher than the environmental temperature, when its windproof rating is lower than the windchill, you will lose heat. The windproof effect only increases the "Feels Like" temperature by the absolute number of degrees of windchill affecting the player.
 
 Only the outermost layer of clothing contributes to the player's windproof bonus, which severely limits how much you can stack it. There are only 7 clothing slots that count towards the Windproof rating. These are: Head (1st slot), Outer Torso (1st slot), Outer Legs (2nd slot), Hands, Outer Feet (boots), and Accessories (both slots). This means inner hats, 2nd jacket, sweaters &amp; shirts, 2nd pants, inner pants, and socks do not add to the windproof rating when fully geared, even if they have a Windproof score. Their windproof score only applies when no outer layer is worn over them. The accessories are an exception to this rule, however. Both accessory slots contribute to the player's windproof bonus.
 
@@ -345,7 +345,7 @@ _Expedition\_Parka\_icon.png_
 
 6.0 °C / _(10.8 °F)_
 
-![Deerskin\_Pants\_icon.png](../assets/Deerskin_Pants_icon.png)/![Snow\_Pants\_icon.png](../assets/Snow_Pants_icon.png)
+![](../assets/Deerskin_Pants_icon.png)/![](../assets/Snow_Pants_icon.png)
 
 [Deerskin Pants](./Deerskin%20Pants.md)/[Snow Pants](./Snow%20Pants.md)
 
@@ -391,7 +391,7 @@ _Ski\_Boots\_icon.png_
 
 ### Waterproof
 
-![Waterproofness\_icon.png](../assets/Waterproofness_icon.png) The **Waterproof** bonus provided by clothing measures how resistant clothing becomes wet during outdoor activities and how fast they dry off.
+![](../assets/Waterproofness_icon.png) The **Waterproof** bonus provided by clothing measures how resistant clothing becomes wet during outdoor activities and how fast they dry off.
 
 - Clothes become wet by simply being left outside or inside [Vehicles](./Vehicle.md), if it's snowing, if a Blizzard is present, or being near certain wet locations.
   - Clothing will become completely wet if the player falls through [Weak Ice](./Weak%20Ice.md), or when passing through a [waterfall](./Environmental%20Hazard.md#Waterfalls).
@@ -440,7 +440,7 @@ _Cougar\_Hide\_Wrap\_icon.png_
 
 30%
 
-![Crampons\_icon.png](../assets/Crampons_icon.png)/![Improvised\_Crampons\_icon.png](../assets/Improvised_Crampons_icon.png)
+![](../assets/Crampons_icon.png)/![](../assets/Improvised_Crampons_icon.png)
 
 [Crampons](./Crampons.md)/[Improvised Crampons](./Improvised%20Crampons.md)
 
@@ -630,7 +630,7 @@ _Chemical\_Boots\_icon.png_
 
 ### Protection
 
-![Protection\_icon.png](../assets/Protection_icon.png) The **Protection** bonus provided by clothing provides a reduction in physical damage that the player may experience through falls, burns, or attacks from wildlife.
+![](../assets/Protection_icon.png) The **Protection** bonus provided by clothing provides a reduction in physical damage that the player may experience through falls, burns, or attacks from wildlife.
 
 Only the outermost layer of clothing contributes to the player's protection bonus (the only exception to this is if the Ballistic Vest is worn on the inner Accesory slot). Layered clothing does not help mitigate the effects of damage beyond the outermost layer. Inner clothes eg. underwear, socks, 2nd coat, 2nd pants, or shirts, do not contribute to protection bonus. The accessories are an exception to this rule, however. Both accessory slots contribute to the player's protection bonus.
 
@@ -674,7 +674,7 @@ _Ballistic\_Vest\_icon.png_
 
 50%
 
-![Crampons\_icon.png](../assets/Crampons_icon.png)/![Improvised\_Crampons\_icon.png](../assets/Improvised_Crampons_icon.png)
+![](../assets/Crampons_icon.png)/![](../assets/Improvised_Crampons_icon.png)
 
 [Crampons](./Crampons.md)/[Improvised Crampons](./Improvised%20Crampons.md)
 
@@ -708,7 +708,7 @@ _Moose-Hide\_Cloak\_icon.png_
 
 20%
 
-![Deerskin\_Pants\_icon.png](../assets/Deerskin_Pants_icon.png)/![Wolfskin\_Pants\_icon.png](../assets/Wolfskin_Pants_icon.png)
+![](../assets/Deerskin_Pants_icon.png)/![](../assets/Wolfskin_Pants_icon.png)
 
 [Deerskin Pants](./Deerskin%20Pants.md)/[Wolfskin Pants](./Wolfskin%20Pants.md)
 
@@ -742,7 +742,7 @@ _Tactical\_Gloves\_icon.png_
 
 7%
 
-![Ski\_Boots\_icon.png](../assets/Ski_Boots_icon.png)/![Combat\_Boots\_icon.png](../assets/Combat_Boots_icon.png)
+![](../assets/Ski_Boots_icon.png)/![](../assets/Combat_Boots_icon.png)
 
 [Ski Boots](./Ski%20Boots.md)/[Combat Boots](./Combat%20Boots.md)
 
@@ -750,7 +750,7 @@ _Tactical\_Gloves\_icon.png_
 
 ### Mobility
 
-![Mobility\_icon.png](../assets/Mobility_icon.png) The **Mobility** penalty provided by clothing constricts the survivor's ability to move, reducing the maximum length of time that a player can [Sprint](./Stamina.md) while worn. The penalty is cumulative when wearing multiple pieces of clothing that cause a mobility penalty (e.g., a coat that reduces mobility by -5% and a pair of gloves that reduce mobility by -4% would yield a total penalty of -9%).
+![](../assets/Mobility_icon.png) The **Mobility** penalty provided by clothing constricts the survivor's ability to move, reducing the maximum length of time that a player can [Sprint](./Stamina.md) while worn. The penalty is cumulative when wearing multiple pieces of clothing that cause a mobility penalty (e.g., a coat that reduces mobility by -5% and a pair of gloves that reduce mobility by -4% would yield a total penalty of -9%).
 
 The highest possible mobility penalty that can currently be achieved is -100% (technically -126%, but capped at -100%)
 
@@ -786,7 +786,7 @@ _Ballistic\_Vest\_icon.png_
 
 None
 
-![Crampons\_icon.png](../assets/Crampons_icon.png)/![Improvised\_Crampons\_icon.png](../assets/Improvised_Crampons_icon.png)
+![](../assets/Crampons_icon.png)/![](../assets/Improvised_Crampons_icon.png)
 
 [Crampons](./Crampons.md)/[Improvised Crampons](./Improvised%20Crampons.md)
 
@@ -820,7 +820,7 @@ _Bearskin\_Coat\_icon.png_
 
 -20%
 
-![Deerskin\_Pants\_icon.png](../assets/Deerskin_Pants_icon.png)/![Wolfskin\_Pants\_icon.png](../assets/Wolfskin_Pants_icon.png)/![Snow\_Pants\_icon.png](../assets/Snow_Pants_icon.png)
+![](../assets/Deerskin_Pants_icon.png)/![](../assets/Wolfskin_Pants_icon.png)/![](../assets/Snow_Pants_icon.png)
 
 [Deerskin Pants](./Deerskin%20Pants.md)/[Wolfskin Pants](./Wolfskin%20Pants.md) /[Snow Pants](./Snow%20Pants.md)
 
@@ -834,7 +834,7 @@ _Bearskin\_Coat\_icon.png_
 
 -20%
 
-![Deerskin\_Pants\_icon.png](../assets/Deerskin_Pants_icon.png)/![Wolfskin\_Pants\_icon.png](../assets/Wolfskin_Pants_icon.png)/![Snow\_Pants\_icon.png](../assets/Snow_Pants_icon.png)
+![](../assets/Deerskin_Pants_icon.png)/![](../assets/Wolfskin_Pants_icon.png)/![](../assets/Snow_Pants_icon.png)
 
 [Deerskin Pants](./Deerskin%20Pants.md)/[Wolfskin Pants](./Wolfskin%20Pants.md) /[Snow Pants](./Snow%20Pants.md)
 
@@ -878,11 +878,11 @@ _Ski\_Boots\_icon.png_
 
 ### Condition
 
-![Item\_condition\_icon.png](../assets/Item_condition_icon.png) The **Condition** of clothing affects how well it does the job it's designed to do. As clothing deteriorates, it will contribute less to the players warmth and windchill protection. A piece of clothing at 50% condition rated for +2.0 degrees of warmth will only contribute +1.0 degrees. If clothing reaches 0% condition, it will become Ruined and can't be repaired, though it can still be harvested for raw materials.
+![](../assets/Item_condition_icon.png) The **Condition** of clothing affects how well it does the job it's designed to do. As clothing deteriorates, it will contribute less to the players warmth and windchill protection. A piece of clothing at 50% condition rated for +2.0 degrees of warmth will only contribute +1.0 degrees. If clothing reaches 0% condition, it will become Ruined and can't be repaired, though it can still be harvested for raw materials.
 
 ### Weight
 
-![Weight\_icon.png](../assets/Weight_icon.png) The **Weight** of clothing is how much it weighs when carried, worn, or placed in a container. When worn, clothing only contributes 75% of its weight towards the player's carrying limit. Wet clothing also increases clothing weight by 0.01kg per 1%.
+![](../assets/Weight_icon.png) The **Weight** of clothing is how much it weighs when carried, worn, or placed in a container. When worn, clothing only contributes 75% of its weight towards the player's carrying limit. Wet clothing also increases clothing weight by 0.01kg per 1%.
 
 The heaviest clothing weight that can currently be worn is 29.65kg (this number jumps to 58.55kg when 100% Wet, though Improvised Crampons cannot get wet due to being 100% Waterproof)
 
@@ -1062,21 +1062,21 @@ _Clothing.png_
 
 _Weight\_icon.png_
 
-![Gauntlets\_icon.png](../assets/Gauntlets_icon.png)/![Rabbitskin\_Mitts\_icon.png](../assets/Rabbitskin_Mitts_icon.png)
+![](../assets/Gauntlets_icon.png)/![](../assets/Rabbitskin_Mitts_icon.png)
 
 [Gauntlets](./Gauntlets.md)/[Rabbitskin Mitts](./Rabbitskin%20Mitts.md)
 
 1.00 kg / _(2.2 lb)_
 
-![Climbing\_Socks\_icon.png](../assets/Climbing_Socks_icon.png)/![Patterned\_Wool\_Socks\_(Dots)\_icon.png](../assets/Patterned_Wool_Socks_%28Dots%29_icon.png)/![Patterned\_Wool\_Socks\_(Moose)\_icon.png](../assets/Patterned_Wool_Socks_%28Moose%29_icon.png)/
+![](../assets/Climbing_Socks_icon.png)/![](../assets/Patterned_Wool_Socks_%28Dots%29_icon.png)/![](../assets/Patterned_Wool_Socks_%28Moose%29_icon.png)/
 
-![Patterned\_Wool\_Socks\_(Plaid)\_icon.png](../assets/Patterned_Wool_Socks_%28Plaid%29_icon.png)/![Wool\_Socks\_icon.png](../assets/Wool_Socks_icon.png)
+![](../assets/Patterned_Wool_Socks_%28Plaid%29_icon.png)/![](../assets/Wool_Socks_icon.png)
 
 [Climbing Socks](./Climbing%20Socks.md)/ [Patterned Wool Socks (Dots)](./Patterned%20Wool%20Socks%20%28Dots%29.md)/ / [Patterned Wool Socks (Moose)](./Patterned%20Wool%20Socks%20%28Moose%29.md)/[Patterned Wool Socks (Plaid)](./Patterned%20Wool%20Socks%20%28Plaid%29.md) / /[Wool Socks](./Wool%20Socks.md)
 
 0.25 kg / _(0.55 lb)_
 
-![Climbing\_Socks\_icon.png](../assets/Climbing_Socks_icon.png)/![Patterned\_Wool\_Socks\_(Dots)\_icon.png](../assets/Patterned_Wool_Socks_%28Dots%29_icon.png)/![Patterned\_Wool\_Socks\_(Moose)\_icon.png](../assets/Patterned_Wool_Socks_%28Moose%29_icon.png)/ ![Patterned\_Wool\_Socks\_(Plaid)\_icon.png](../assets/Patterned_Wool_Socks_%28Plaid%29_icon.png)/![Wool\_Socks\_icon.png](../assets/Wool_Socks_icon.png)
+![](../assets/Climbing_Socks_icon.png)/![](../assets/Patterned_Wool_Socks_%28Dots%29_icon.png)/![](../assets/Patterned_Wool_Socks_%28Moose%29_icon.png)/ ![](../assets/Patterned_Wool_Socks_%28Plaid%29_icon.png)/![](../assets/Wool_Socks_icon.png)
 
 [Climbing Socks](./Climbing%20Socks.md)/ [Patterned Wool Socks (Dots)](./Patterned%20Wool%20Socks%20%28Dots%29.md)/ / [Patterned Wool Socks (Moose)](./Patterned%20Wool%20Socks%20%28Moose%29.md)/[Patterned Wool Socks (Plaid)](./Patterned%20Wool%20Socks%20%28Plaid%29.md) / /[Wool Socks](./Wool%20Socks.md)
 
@@ -1092,7 +1092,7 @@ _Clothing.png_
 
 _Weight\_icon.png_
 
-![Combat\_Boots\_icon.png](../assets/Combat_Boots_icon.png)/![Deerskin\_Boots\_icon.png](../assets/Deerskin_Boots_icon.png)
+![](../assets/Combat_Boots_icon.png)/![](../assets/Deerskin_Boots_icon.png)
 
 [Combat Boots](./Combat%20Boots.md)/[Deerskin Boots](./Deerskin%20Boots.md)
 

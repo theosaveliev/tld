@@ -16,7 +16,7 @@ _Rifle\_Shell\_Casing\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.01 kg(0.02 lbs)
 
 > “**Empty casing from firing a Rifle. Used for Crafting new Ammunition.**”
 >

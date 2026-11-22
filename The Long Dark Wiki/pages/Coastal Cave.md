@@ -17,3 +17,7 @@ Region
 **General**
 
 **Type:** Cave
+
+## Overview
+
+The cave is noteworthy for having a Salt Depost partway through.

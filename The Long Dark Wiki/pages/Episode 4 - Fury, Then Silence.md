@@ -189,14 +189,14 @@ _Main article: [A Riddle Among the Shadows](./A%20Riddle%20Among%20the%20Shadows
 
 ## Achievements
 
-- ![Welcome\_to\_the\_S\*\*t\_Show\_icon.png](../assets/Welcome_to_the_S%2A%2At_Show_icon.png) [Welcome to the S\*\*t Show](./Welcome%20to%20the%20S%2A%2At%20Show.md)
-- ![Just\_Like\_New\_icon.png](../assets/Just_Like_New_icon.png) [Just Like New](./Just%20Like%20New.md)
-- ![Something\_Stinks\_icon.png](../assets/Something_Stinks_icon.png) [Something Stinks](./Something%20Stinks.md)
-- ![Enemy\_For\_Life\_icon.png](../assets/Enemy_For_Life_icon.png) [Enemy For Life](./Enemy%20For%20Life.md)
-- ![Leap\_of\_Faith\_icon.png](../assets/Leap_of_Faith_icon.png) [Leap of Faith](./Leap%20of%20Faith.md)
-- ![Black\_Black\_Heart\_icon.png](../assets/Black_Black_Heart_icon.png) [Black Black Heart](./Black%20Black%20Heart.md)
-- ![Hard\_Times\_icon.png](../assets/Hard_Times_icon.png) [Hard Times](./Hard%20Times.md)
-- ![No\_Half-Measures\_icon.png](../assets/No_Half-Measures_icon.png) [No Half-Measures](./No%20Half-Measures.md)
+- ![](../assets/Welcome_to_the_S%2A%2At_Show_icon.png) [Welcome to the S\*\*t Show](./Welcome%20to%20the%20S%2A%2At%20Show.md)
+- ![](../assets/Just_Like_New_icon.png) [Just Like New](./Just%20Like%20New.md)
+- ![](../assets/Something_Stinks_icon.png) [Something Stinks](./Something%20Stinks.md)
+- ![](../assets/Enemy_For_Life_icon.png) [Enemy For Life](./Enemy%20For%20Life.md)
+- ![](../assets/Leap_of_Faith_icon.png) [Leap of Faith](./Leap%20of%20Faith.md)
+- ![](../assets/Black_Black_Heart_icon.png) [Black Black Heart](./Black%20Black%20Heart.md)
+- ![](../assets/Hard_Times_icon.png) [Hard Times](./Hard%20Times.md)
+- ![](../assets/No_Half-Measures_icon.png) [No Half-Measures](./No%20Half-Measures.md)
 
 ## Gallery
 

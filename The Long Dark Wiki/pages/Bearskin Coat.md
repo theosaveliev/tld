@@ -24,17 +24,17 @@ _Bearskin\_Coat\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)5.00 kg(11 lbs)
+**Weight:** ![](../assets/Weight_icon.png)5.00 kg(11 lbs)
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)6.0 °C(10.8 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)6.0 °C(10.8 °F)
 
-**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)5.0 °C(9 °F)
+**Windproof bonus:** ![](../assets/Windproofness_icon.png)5.0 °C(9 °F)
 
-**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)80%
+**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)80%
 
-**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)15%
+**Protection:** ![](../assets/Protection_icon.png)15%
 
-**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-20%
+**Mobility:** ![](../assets/Mobility_icon.png)-20%
 
 **Harvest:** 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / 120 minutes
 

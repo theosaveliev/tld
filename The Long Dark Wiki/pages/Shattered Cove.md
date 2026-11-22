@@ -19,3 +19,9 @@ _Shattered\_Cove\_Location.png_
 **General**
 
 **Type:** Landmark
+
+## Gallery
+
+![The canyon leading from Shattered Cove to Angler's Den](../assets/ShatteredCoveToAnglersDenCanyon.png)
+
+_The canyon leading from Shattered Cove to [Angler's Den](./Angler%27s%20Den.md)_

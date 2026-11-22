@@ -21,3 +21,13 @@ Type
 ![](../assets/Bed_icon.png)
 
 _bed\_icon.png_
+
+Has an interior The **Pleasant Valley Church** is a church in [Thomson's Crossing](./Thomson%27s%20Crossing.md) in [Pleasant Valley](./Pleasant%20Valley.md).
+
+## Overview
+
+The church is a small worship building, with many pews and [Books](./Book.md) inside. Other loot includes [Cloth (Object)](./Cloth%20%28Object%29.md), [Water (Potable)](./Water%20%28Potable%29.md), and the occasionally small food stuffs.
+
+A [Mementos](./Mementos.md) can be found in the region leading to the piano. The [Loose Boards](./Loose%20Boards.md) under the piano has a chance of containing multiple [Emergency Stim](./Emergency%20Stim.md), along with other medical supplies.
+
+## Wintermute

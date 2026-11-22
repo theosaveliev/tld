@@ -38,7 +38,7 @@ _Heavy\_Hammer\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
+**Weight:** ![](../assets/Weight_icon.png)2.00 kg(4.4 lbs)
 
 **Harvest:** 2 × [Scrap Metal](./Scrap%20Metal.md) 1 × [Fir Firewood](./Fir%20Firewood.md) / 30 minutes
 

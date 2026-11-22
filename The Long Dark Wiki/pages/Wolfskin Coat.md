@@ -21,17 +21,17 @@ _Wolfskin\_Coat\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)3.00 kg(6.6 lbs)
+**Weight:** ![](../assets/Weight_icon.png)3.00 kg(6.6 lbs)
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)4.0 °C(7.2 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)4.0 °C(7.2 °F)
 
-**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
+**Windproof bonus:** ![](../assets/Windproofness_icon.png)4.0 °C(7.2 °F)
 
-**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)60%
+**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)60%
 
-**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)12%
+**Protection:** ![](../assets/Protection_icon.png)12%
 
-**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-15%
+**Mobility:** ![](../assets/Mobility_icon.png)-15%
 
 **Harvest:** 1 × [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) / 90 minutes
 

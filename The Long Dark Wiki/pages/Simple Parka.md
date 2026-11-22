@@ -16,17 +16,17 @@ _Simple\_Parka\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.25 kg(2.75 lbs)
+**Weight:** ![](../assets/Weight_icon.png)1.25 kg(2.75 lbs)
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)2.0 °C(3.6 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)2.0 °C(3.6 °F)
 
-**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
+**Windproof bonus:** ![](../assets/Windproofness_icon.png)2.0 °C(3.6 °F)
 
-**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)30%
+**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)30%
 
-**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)3%
+**Protection:** ![](../assets/Protection_icon.png)3%
 
-**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)-4%
+**Mobility:** ![](../assets/Mobility_icon.png)-4%
 
 **Harvest:** 2 × [Cloth](./Cloth.md) / 20 minutes
 

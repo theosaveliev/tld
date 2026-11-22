@@ -24,7 +24,7 @@ _Spray\_Paint\_-\_Glyph\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.54 kg(1.19 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.54 kg(1.19 lbs)
 
 > “__A can of Spray Paint. Can be used to Create Glyphs to protect against the Darkwalker. __”
 >

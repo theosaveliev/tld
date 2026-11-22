@@ -23,9 +23,9 @@ _bedroll\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
+**Weight:** ![](../assets/Weight_icon.png)1.00 kg(2.2 lbs)
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)5.0 °C(9 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)5.0 °C(9 °F)
 
 **Harvest:** 90 Minutes 10 × [Cloth](./Cloth.md)
 

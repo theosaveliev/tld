@@ -768,9 +768,7 @@ def test_image_bearing_infobox_renders_images_outside_pipe_tables(
     assert "**General**" in markdown
     assert "**Item Type:** Clothing" in markdown
     assert "**Statistics**" in markdown
-    expected_weight = (
-        "**Weight:** ![](../assets/Weight_icon.png)0.25 kg"
-    )
+    expected_weight = "**Weight:** ![](../assets/Weight_icon.png)0.25 kg"
     assert expected_weight in markdown
     assert "| Property | Details |" not in markdown
     assert r"\|-" not in markdown
@@ -953,8 +951,7 @@ def test_image_bearing_multi_column_list_table_preserves_line_breaks() -> None:
 
     assert "| Image | Item | Details |" in markdown
     expected = (
-        "| ![](../assets/Badge_icon.png) | Badge | "
-        "- First detail<br>- Second detail |"
+        "| ![](../assets/Badge_icon.png) | Badge | - First detail<br>- Second detail |"
     )
     assert expected in markdown
     assert " / - First detail / - Second detail" not in markdown
@@ -1260,13 +1257,16 @@ The article body must remain outside the infobox.
     repaired, count = _repair_unclosed_mediawiki_tables(source)
 
     assert count == 1
-    assert repaired == """{| class="infobox"
+    assert (
+        repaired
+        == """{| class="infobox"
 |-
 | Infobox content
 |}
 == Overview ==
 The article body must remain outside the infobox.
 """
+    )
 
 
 def test_repair_unclosed_mediawiki_table_ignores_fake_heading_in_comment() -> None:

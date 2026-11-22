@@ -45,11 +45,11 @@ Upon reaching 0% [Condition](./Condition.md) while playing Survival Mode, the pl
   - The world remains the same: explored/looted areas, stored gear, etc.
   - Increasing Penalties added each time Cheat Death is used (up to 3 times).
 
-![Cheat\_Death\_Choice.jpg](../assets/Cheat_Death_Choice.jpg) If the player closes the game at this point, the save file will be wiped by default. Choosing "Cheat Death" allows the player to continue playing in the same Survival Sandbox, but at a cost...
+![](../assets/Cheat_Death_Choice.jpg) If the player closes the game at this point, the save file will be wiped by default. Choosing "Cheat Death" allows the player to continue playing in the same Survival Sandbox, but at a cost...
 
 ## Cheat Death Consequences
 
-![Cheat\_Death\_Consequences.jpg](../assets/Cheat_Death_Consequences.jpg)If the player chooses to Cheat Death, they will be presented with a list of consequences for this option.
+![](../assets/Cheat_Death_Consequences.jpg)If the player chooses to Cheat Death, they will be presented with a list of consequences for this option.
 
 ### Achievements
 
@@ -288,7 +288,7 @@ The player can choose their [Cheated Death Penalty](./Cheated%20Death%20Penalty.
 
 ## Respawn
 
-![Cheat\_Death\_Respawn.jpg](../assets/Cheat_Death_Respawn.jpg) When you Cheat Death, you'll be given the option to respawn somewhere inside the region you just died, or in a safe but far away location:
+![](../assets/Cheat_Death_Respawn.jpg) When you Cheat Death, you'll be given the option to respawn somewhere inside the region you just died, or in a safe but far away location:
 
 - **Close, Risky Respawn** will always put the player outdoors near danger in the same region you died in, and most of the time the hike back to where you died will be halfway across the map, but sometimes it will be shorter.
 - **Far, Safe Respawn** will always send the player in or near an indoor location that they may or may not have already discovered in another region. "Safe" is relative, since based on the condition of clothing and remaining inventory, survival may still be a challenge. It is possible to be sent to a region the player has not explored yet, may be a neighboring region or one quite distant (ex, from [Sundered Pass](./Sundered%20Pass.md) all the way to [Coastal Highway](./Coastal%20Highway.md)).
@@ -368,7 +368,7 @@ If the player accepts the terms of Cheating Death, the survivor will wake up loo
 
 ## Achievements
 
-- ![Something\_Wicked\_icon.png](../assets/Something_Wicked_icon.png) [Something Wicked](./Something%20Wicked.md)
+- ![](../assets/Something_Wicked_icon.png) [Something Wicked](./Something%20Wicked.md)
 
 ## Game History
 

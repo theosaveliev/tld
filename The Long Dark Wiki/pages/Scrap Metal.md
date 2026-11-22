@@ -24,7 +24,7 @@ _Scrap\_Metal\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.20 kg(0.44 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.20 kg(0.44 lbs)
 
 > “**Bits and pieces of metal scrounged from various sources.**”
 >

@@ -21,7 +21,7 @@ _Jeremiah's\_Bearskin\_Coat\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)5.00 kg(11 lbs)
+**Weight:** ![](../assets/Weight_icon.png)5.00 kg(11 lbs)
 
 **Harvest:** Cannot Harvest
 

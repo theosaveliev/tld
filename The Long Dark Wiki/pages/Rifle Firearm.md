@@ -24,7 +24,7 @@ _Rifle\_Firearm\_background.png_
 
 **Date:** 23 June 2016
 
-![Rifle\_Firearm.png](../assets/Rifle_Firearm.png) **Rifle Firearm** or **Firearms** is a [Survival Skill](./Skills.md) that involves the use of a [Hunting Rifle](./Hunting%20Rifle.md) to [hunt](./Hunting.md) [animals](./Wildlife.md).
+![](../assets/Rifle_Firearm.png) **Rifle Firearm** or **Firearms** is a [Survival Skill](./Skills.md) that involves the use of a [Hunting Rifle](./Hunting%20Rifle.md) to [hunt](./Hunting.md) [animals](./Wildlife.md).
 
 The rifle's range allows it to wound or kill animals from relatively safe distances.
 

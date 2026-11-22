@@ -90,16 +90,16 @@ The Medical Officer does not appear in [Last Horizon](./Last%20Horizon.md), but 
 
 ### Collectibles
 
-- ![Interview\_Transcript\_4\_icon.png](../assets/Interview_Transcript_4_icon.png) [Interview Transcript 4](./Interview%20Transcript%204.md)
-- ![Interview\_Transcript\_12\_icon.png](../assets/Interview_Transcript_12_icon.png) [Interview Transcript 12](./Interview%20Transcript%2012.md)
-- ![Interview\_Transcript\_14\_icon.png](../assets/Interview_Transcript_14_icon.png) [Interview Transcript 14](./Interview%20Transcript%2014.md)
-- ![Interview\_Transcript\_17\_icon.png](../assets/Interview_Transcript_17_icon.png) [Interview Transcript 17](./Interview%20Transcript%2017.md)
+- ![](../assets/Interview_Transcript_4_icon.png) [Interview Transcript 4](./Interview%20Transcript%204.md)
+- ![](../assets/Interview_Transcript_12_icon.png) [Interview Transcript 12](./Interview%20Transcript%2012.md)
+- ![](../assets/Interview_Transcript_14_icon.png) [Interview Transcript 14](./Interview%20Transcript%2014.md)
+- ![](../assets/Interview_Transcript_17_icon.png) [Interview Transcript 17](./Interview%20Transcript%2017.md)
 
 ### Mentioned
 
-- ![Security\_Chief's\_Log\_14\_icon.png](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)
-- ![Security\_Chief's\_Log\_29\_icon.png](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
-- ![Foreman's\_Site\_Report\_Day\_64\_icon.png](../assets/Foreman%27s_Site_Report_Day_64_icon.png) [Foreman's Site Report Day 64](./Foreman%27s%20Site%20Report%20Day%2064.md)
-- ![Foreman's\_Technical\_Log\_4\_icon.png](../assets/Foreman%27s_Technical_Log_4_icon.png) [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md)
+- ![](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)
+- ![](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
+- ![](../assets/Foreman%27s_Site_Report_Day_64_icon.png) [Foreman's Site Report Day 64](./Foreman%27s%20Site%20Report%20Day%2064.md)
+- ![](../assets/Foreman%27s_Technical_Log_4_icon.png) [Foreman's Technical Log 4](./Foreman%27s%20Technical%20Log%204.md)
 
 ## Trivia

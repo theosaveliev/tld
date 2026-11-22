@@ -80,7 +80,7 @@ These two icons appear in the top middle of the screen.
 
 ### Windshield
 
-![Wind\_shield\_icon.png](../assets/Wind_shield_icon.png) Shown as an icon of a shield with wind blowing against its left side, the Windshield Icon will appear whenever you are currently shielded from the wind by an object (such as against a rock wall, inside a [Warm Cave](./Warm%20Cave.md), when pressed against the walls of a ruined building, while inside interior outdoor buildings such as a [Fishing Hut](./Fishing%20Hut.md), or while inside a [Snow Shelter](./Snow%20Shelter.md)). This icon only appears when outdoors.
+![](../assets/Wind_shield_icon.png) Shown as an icon of a shield with wind blowing against its left side, the Windshield Icon will appear whenever you are currently shielded from the wind by an object (such as against a rock wall, inside a [Warm Cave](./Warm%20Cave.md), when pressed against the walls of a ruined building, while inside interior outdoor buildings such as a [Fishing Hut](./Fishing%20Hut.md), or while inside a [Snow Shelter](./Snow%20Shelter.md)). This icon only appears when outdoors.
 
 When shielded from the wind, the windchill effect of high winds on the player character is negated (increasing player Warmth) and [Campfires](./Campfire.md) built will be protected from becoming [windblown campfires](./Fire.md#Windblown_campfire).
 

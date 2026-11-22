@@ -17,3 +17,7 @@ Type
 ![](../assets/Bed_icon.png)
 
 _bed\_icon.png_
+
+Has an interior The **Medical Clinic** or **Dr. Larsen's Medical Clinic** is a location found in [Perseverance Mills](./Perseverance%20Mills.md), and serves as one of the few explorable locations of the town.
+
+## Overview

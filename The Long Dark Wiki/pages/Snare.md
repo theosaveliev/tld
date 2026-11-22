@@ -23,7 +23,7 @@ Wintermute
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.30 kg(0.66 lbs)
 
 **Harvest:** 10 minutes 1 × [Reclaimed Wood](./Reclaimed%20Wood.md)
 

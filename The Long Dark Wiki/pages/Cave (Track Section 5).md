@@ -7,3 +7,7 @@
 _Seal\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+ / **Cave (Track Section 5)** / ![](../assets/Cave_%28Track_Section_5%29.jpg) / _Cave\_(Track\_Section\_5).jpg_ / **Location** / ![](../assets/Cave_Track_Section_5_Location.png) / _Cave\_Track\_Section\_5\_Location.png_ / **Region:** [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md)\\|- / **Description:** A warm cave / **General** / Has an interior\ **Cave** is a location in [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md).
+
+## Overview

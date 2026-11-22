@@ -27,7 +27,7 @@ Item Type
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.02 kg(0.04 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.02 kg(0.04 lbs)
 
 > “**A box of rifle cartridges.**”
 >

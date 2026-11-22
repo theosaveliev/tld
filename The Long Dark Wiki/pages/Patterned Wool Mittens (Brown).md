@@ -16,17 +16,17 @@ _Patterned\_Wool\_Mittens\_(Brown)\_icon.png_
 
 **Statistics**
 
-**Weight:** ![weight\_icon.png](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
+**Weight:** ![](../assets/Weight_icon.png)0.10 kg(0.22 lbs)
 
-**Warmth bonus:** ![temp\_icon.png](../assets/Temp_icon.png)1.0 °C(1.8 °F)
+**Warmth bonus:** ![](../assets/Temp_icon.png)1.0 °C(1.8 °F)
 
-**Windproof bonus:** ![windproofness\_icon.png](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
+**Windproof bonus:** ![](../assets/Windproofness_icon.png)0.5 °C(0.9 °F)
 
-**Waterproof bonus:** ![waterproofness\_icon.png](../assets/Waterproofness_icon.png)20%
+**Waterproof bonus:** ![](../assets/Waterproofness_icon.png)20%
 
-**Protection:** ![protection\_icon.png](../assets/Protection_icon.png)1%
+**Protection:** ![](../assets/Protection_icon.png)1%
 
-**Mobility:** ![mobility\_icon.png](../assets/Mobility_icon.png)0%
+**Mobility:** ![](../assets/Mobility_icon.png)0%
 
 **Harvest:** 1 × [Cloth](./Cloth.md) / 10 minutes
 

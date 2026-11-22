@@ -28,7 +28,7 @@ _Dehydration\_Risk\_icon.png_
 
 **Treatment**
 
-**Treatment:** ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
+**Treatment:** ![](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md)
 
 **Recovery Time:** Instant
 

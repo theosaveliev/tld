@@ -2,7 +2,7 @@
 
 **Categories:** DLC Content, Gameplay · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Transmitters)
 
-![A Transmitter box in Forsaken Airfield, repaired with a car battery, scrap metal, fuses, and wires.](../assets/The_Long_Dark_Screenshot_2023.03.31_-_23.30.33.32.png)_A Transmitter box in Forsaken Airfield, repaired with a car battery, scrap metal, fuses, and wires._{| class="messagebox" | width="40px" | ![Ptarmigan\_icon.png](../assets/Ptarmigan_icon.png) |**DLC-Exclusive content.**
+![A Transmitter box in Forsaken Airfield, repaired with a car battery, scrap metal, fuses, and wires.](../assets/The_Long_Dark_Screenshot_2023.03.31_-_23.30.33.32.png)_A Transmitter box in Forsaken Airfield, repaired with a car battery, scrap metal, fuses, and wires._{| class="messagebox" | width="40px" | ![](../assets/Ptarmigan_icon.png) |**DLC-Exclusive content.**
 
 This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 

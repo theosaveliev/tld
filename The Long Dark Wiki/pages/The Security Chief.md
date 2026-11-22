@@ -73,14 +73,14 @@ Her keycard is found in a hidden room in [Bunker Omega](./Bunker%20Omega.md), li
 
 ### Clothing
 
-- ![Security\_Chief's\_Rifle\_Holster\_icon.png](../assets/Security_Chief%27s_Rifle_Holster_icon.png) [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md)
+- ![](../assets/Security_Chief%27s_Rifle_Holster_icon.png) [Security Chief's Rifle Holster](./Security%20Chief%27s%20Rifle%20Holster.md)
 
 ### Collectibles
 
-- ![Security\_Chief's\_Log\_6\_icon.png](../assets/Security_Chief%27s_Log_6_icon.png) [Security Chief's Log 6](./Security%20Chief%27s%20Log%206.md)
-- ![Security\_Chief's\_Log\_14\_icon.png](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)
-- ![Security\_Chief's\_Log\_23\_icon.png](../assets/Security_Chief%27s_Log_23_icon.png) [Security Chief's Log 23](./Security%20Chief%27s%20Log%2023.md)
-- ![Security\_Chief's\_Log\_29\_icon.png](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
+- ![](../assets/Security_Chief%27s_Log_6_icon.png) [Security Chief's Log 6](./Security%20Chief%27s%20Log%206.md)
+- ![](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)
+- ![](../assets/Security_Chief%27s_Log_23_icon.png) [Security Chief's Log 23](./Security%20Chief%27s%20Log%2023.md)
+- ![](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
 
 ## Gallery
 

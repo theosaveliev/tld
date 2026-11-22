@@ -31,7 +31,7 @@ _Sprained\_Ankle\_icon.png_
 
 **Treatment**
 
-**Treatment:** 1 x ![Bandage\_icon.png](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
+**Treatment:** 1 x ![](../assets/Bandage_icon.png) [Bandage](./Bandage.md)
 
 **Recovery Time:** 4 hours of [Sleep](./Sleep.md)
 

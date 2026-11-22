@@ -7,3 +7,9 @@
 _Seal\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
+
+ / **Railyard** / ![](../assets/No_picture.png) / _No\_picture.png_ / **Location** / ![](../assets/Railyard_Track_3_Location.png) / _Railyard\_Track\_3\_Location.png_ / **Region:** [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md)\\|- / **Description:** A railyard / **General** / Has no shelter\ **Railyard** is a set of 2 locations in [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md).
+
+## Overview
+
+**Stub:****This article is a stub. You can help by \[//dummy.host/index.php?title=Railyard+%28Track+Section+3%29&amp;action=edit expanding it\].**

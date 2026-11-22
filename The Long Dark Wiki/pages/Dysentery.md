@@ -14,7 +14,7 @@ _Dysentery\_icon.png_
 
 **Description:** You drank non-potable water and are now suffering an intestinal disease. You will weaken and die of dehydration unless you can treat it.
 
-**Caused By:** Consume ![Water\_(Unsafe)\_icon.png](../assets/Water_%28Unsafe%29_icon.png) [Water (Unsafe)](./Water%20%28Unsafe%29.md)
+**Caused By:** Consume ![](../assets/Water_%28Unsafe%29_icon.png) [Water (Unsafe)](./Water%20%28Unsafe%29.md)
 
 **Effect:** Negative
 
@@ -24,9 +24,9 @@ _Dysentery\_icon.png_
 
 **Treatment**
 
-**Treatment:** 2.00L x ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) and 2 x ![Antibiotics\_icon.png](../assets/Antibiotics_icon.png) [Antibiotics](./Antibiotics.md)
+**Treatment:** 2.00L x ![](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) and 2 x ![](../assets/Antibiotics_icon.png) [Antibiotics](./Antibiotics.md)
 
-**Alternate Treatment:** 2.00L x ![Water\_(Potable)\_icon.png](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) and 1 x ![Reishi\_Tea\_icon.png](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)/
+**Alternate Treatment:** 2.00L x ![](../assets/Water_%28Potable%29_icon.png) [Water (Potable)](./Water%20%28Potable%29.md) and 1 x ![](../assets/Reishi_Tea_icon.png) [Reishi Tea](./Reishi%20Tea.md)/
 
 **Recovery Time:** 10 hours of [Sleep](./Sleep.md)
 

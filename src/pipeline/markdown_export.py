@@ -630,7 +630,8 @@ def _repair_unclosed_mediawiki_tables(text: str) -> tuple[str, int]:
 
     for line in text.splitlines(keepends=True):
         visible, in_comment = _strip_wikitext_comments(line, in_comment)
-        visible, literal_tag = _strip_wikitext_literal_content(visible, literal_tag)
+        if not in_comment or visible:
+            visible, literal_tag = _strip_wikitext_literal_content(visible, literal_tag)
 
         if depth and literal_tag is None and _is_wikitext_section_heading(visible):
             repaired_count += _append_mediawiki_table_closers(output, depth)

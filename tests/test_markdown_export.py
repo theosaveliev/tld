@@ -249,6 +249,18 @@ def test_resolve_internal_href_rewrites_local_page_links() -> None:
         resolve_internal_href("#Habitat Area", "Main Page", mapping, {})
         == "#Habitat_Area"
     )
+    assert (
+        resolve_internal_href(
+            "Scent#Baiting%2FDecoys", "Main Page", {"Scent": "Scent.md"}, {}
+        )
+        == "./Scent.md#Baiting/Decoys"
+    )
+    assert (
+        resolve_internal_href(
+            "Page#R%C3%BCdiger", "Main Page", {"Page": "Page.md"}, {}
+        )
+        == "./Page.md#Rüdiger"
+    )
 
 
 def test_resolve_internal_href_matches_punctuation_variants_uniquely() -> None:
@@ -320,7 +332,7 @@ def test_resolve_internal_href_routes_legacy_changelog_versions_to_archives() ->
         {},
     ) == (
         "./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md"
-        "#0.321_%28Tireless_Menace_Update%29"
+        "#0.321_(Tireless_Menace_Update)"
     )
     assert resolve_internal_href(
         "The Long Dark/Early Access Changelog#1.00", "Backpack", mapping, {}
@@ -398,6 +410,21 @@ def test_filename_mapping_loads_audited_entries(tmp_path: Path) -> None:
         "Piece Of Paper": "Piece Of Paper.md",
         "Piece of Paper": "Piece of Paper (2).md",
     }
+
+
+def test_exact_filename_mapping_wins_over_case_collisions() -> None:
+    mapping = {
+        "Piece Of Paper": "Piece Of Paper.md",
+        "Piece of Paper": "Piece of Paper (2).md",
+    }
+
+    assert (
+        _lookup_title_filename("Piece of Paper", mapping) == "Piece of Paper (2).md"
+    )
+    assert (
+        resolve_internal_href("Piece of Paper", "Main Page", mapping, {})
+        == "./Piece%20of%20Paper%20%282%29.md"
+    )
 
 
 def test_filename_mapping_rejects_case_insensitive_collisions(tmp_path: Path) -> None:
@@ -1578,7 +1605,7 @@ def test_page_markdown_normalizes_strong_underscores() -> None:
     assert "__Bold text__" not in markdown
 
 
-def test_rewrite_html_links_removes_orphaned_language_interwiki_targets(
+def test_rewrite_html_links_externalizes_language_interwiki_targets(
     tmp_path: Path,
 ) -> None:
     rewritten = _rewrite_html_links(
@@ -1595,8 +1622,59 @@ def test_rewrite_html_links_removes_orphaned_language_interwiki_targets(
         set(),
     )
 
-    assert "ru:" not in rewritten
-    assert "Russian_article" not in rewritten
+    assert (
+        'href="https://ru.wikipedia.org/wiki/Russian_article"' in rewritten
+    )
+
+
+def test_page_markdown_hides_heading_anchor_aliases_and_removes_empty_tail() -> None:
+    body = (
+        "**Wyatt's Skeleton**\n\n\n"
+        '<span id="update_history"></span><span id="Update_History"></span>'
+        '<span id="update-history"></span>\n\n'
+        "## Update History\n\n\n"
+        '<span id="overview"></span><span id="Overview"></span>\n\n'
+        "## Overview\n\nA visible section."
+    )
+
+    markdown = _page_markdown("Wyatt's Skeleton", [], body, None)
+
+    assert "## Update History" not in markdown
+    assert "update_history" not in markdown
+    assert "<span id=" not in markdown
+    assert "<!-- #overview -->" in markdown
+    assert "<!-- #Overview -->" in markdown
+    assert "<!-- #overview -->\n## Overview" in markdown
+    assert "A visible section." in markdown
+    assert re.search(r"\n{3,}", markdown) is None
+
+
+def test_rewrite_html_links_externalizes_named_interwiki_targets(
+    tmp_path: Path,
+) -> None:
+    rewritten = _rewrite_html_links(
+        '<p><a href="Wikipedia:Canada">Canada</a> '
+        '<a href="wikt:scumming">scumming</a> '
+        '<a href="w:c:firewatch:Henry">Henry</a> '
+        '<a href="w:4-6-4">4-6-4</a> '
+        '<a href="Map:Blackrock">Blackrock map</a></p>',
+        "Blackrock Memo",
+        {},
+        {},
+        {},
+        None,
+        tmp_path / "assets",
+        {},
+        {},
+        set(),
+        set(),
+    )
+
+    assert "https://en.wikipedia.org/wiki/Canada" in rewritten
+    assert "https://en.wiktionary.org/wiki/scumming" in rewritten
+    assert "https://firewatch.fandom.com/wiki/Henry" in rewritten
+    assert "https://en.wikipedia.org/wiki/4-6-4" in rewritten
+    assert "https://thelongdark.fandom.com/wiki/Map:Blackrock" in rewritten
 
 
 def test_html_fragment_to_markdown_converts_fandom_elements() -> None:
@@ -1681,7 +1759,9 @@ def test_mediawiki_heading_ids_are_preserved_and_exported_as_anchor_spans() -> N
     root = lhtml.fragment_fromstring(
         '<h2 id="0.233">0.233 (Silent Hunter Update)</h2>'
         "<h2>Aurora Wolves</h2>"
-        "<h2>Version 1.00 (Wintermute launch)</h2>",
+        "<h2>Version 1.00 (Wintermute launch)</h2>"
+        "<h2>Skill Levels</h2><h2>Lower levels</h2>"
+        "<h2>2.09 &amp; 2.10 (Signal Void Update)</h2>",
         create_parent="div",
     )
 
@@ -1694,6 +1774,9 @@ def test_mediawiki_heading_ids_are_preserved_and_exported_as_anchor_spans() -> N
     assert '<span id="0233-silent-hunter-update"></span>' in markdown
     assert '<span id="aurora_wolves"></span>' in markdown
     assert '<span id="1.00"></span>' in markdown
+    assert '<span id="Skill_levels"></span>' in markdown
+    assert '<span id="Lower_Levels"></span>' in markdown
+    assert '<span id="2.10"></span>' in markdown
     assert "## 0.233 (Silent Hunter Update)" in markdown
 
 
@@ -1762,7 +1845,7 @@ def test_sanitize_expanded_wikitext_repairs_common_table_attributes() -> None:
     ) in sanitized
     assert 'sortable"" ' not in sanitized
     assert '11em;""' not in sanitized
-    assert sanitized.endswith("| &nbsp;\n|}")
+    assert sanitized.endswith("|&nbsp;\n|}")
 
 
 def test_sanitize_expanded_wikitext_ignores_reference_tags_inside_comments() -> None:
@@ -1797,6 +1880,45 @@ def test_sanitize_expanded_wikitext_cleans_markup() -> None:
     assert "A dangling close</ref>" not in sanitized
     assert "{|" in sanitized
     assert "|}" in sanitized
+
+
+def test_render_mediawiki_html_recovers_reported_unexpected_ref_closers(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    page = DumpPage("Great Bear Island", 0, "wikitext", "Source", None)
+    expanded = "Opening text\nA sentence</ref>\nClosing text"
+    received: list[str] = []
+
+    monkeypatch.setattr(
+        markdown_export_module,
+        "_sanitize_expanded_wikitext",
+        lambda value: value,
+    )
+
+    def fake_pandoc(
+        _pandoc: str, value: str, from_format: str, to_format: str
+    ) -> str:
+        assert from_format == "mediawiki"
+        assert to_format == "html"
+        received.append(value)
+        if len(received) == 1:
+            raise RuntimeError(
+                'Error at (line 2, column 11):\n'
+                'unexpected (TagClose "ref","</ref>")'
+            )
+        return "<p>Recovered content</p>"
+
+    monkeypatch.setattr(markdown_export_module, "_run_pandoc", fake_pandoc)
+
+    html_fragment, status, note = _render_mediawiki_html(page, expanded, "pandoc")
+
+    assert status == "repaired"
+    assert "parser-identified" in note
+    assert len(received) == 2
+    assert "A sentence</ref>" in received[0]
+    assert "A sentence" in received[1]
+    assert "</ref>" not in received[1]
+    assert "Recovered content" in html_fragment
 
 
 def test_render_mediawiki_html_sanitizes_expanded_markup(

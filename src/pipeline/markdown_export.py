@@ -1852,138 +1852,190 @@ def _is_unresolved_icon_template(value: str) -> bool:
     return "template:iconlink" in value.casefold()
 
 
-def _render_recipe_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
-    """Render recipe metadata and ingredient pairs without splitting them into rows."""
-    skill: str | None = None
-    skill_values: list[str] = []
-    requirements: list[tuple[str, str]] = []
-    materials: list[tuple[str, str]] = []
-    pending_requirement: str | None = None
-    pending_material: str | None = None
-    section = ""
+@dataclass(slots=True)
+class RecipeInfoboxData:
+    """Parsed values from a recipe infobox."""
 
+    skill: str | None
+    skill_values: list[str]
+    requirements: list[tuple[str, str]]
+    materials: list[tuple[str, str]]
+    pending_requirement: str | None
+    pending_material: str | None
+    section: str
+
+
+def _recipe_infobox_row_values(
+    cells: list[lhtml.HtmlElement],
+) -> tuple[list[str], list[str]]:
+    """Return Markdown and plain-text values for one recipe table row."""
+    values = [
+        re.sub(
+            r"!\[[^\]]*\]\([^)]+\)\s*",
+            "",
+            _markdown_table_cell(cell),
+        ).strip()
+        for cell in cells
+    ]
+    plain_values = [cell.text_content().strip() for cell in cells]
+    return values, plain_values
+
+
+def _consume_recipe_material_row(
+    data: RecipeInfoboxData, values: list[str], plain_values: list[str]
+) -> None:
+    """Collect a material name and its matching quantity from an infobox row."""
+    if any(_is_unresolved_icon_template(value) for value in plain_values):
+        return
+
+    if len(values) > 1:
+        label = plain_values[0].rstrip(":").casefold()
+        detail = " / ".join(value for value in values[1:] if value)
+        if label == "item":
+            data.pending_material = detail or None
+        elif label == "quantity":
+            if data.pending_material and detail:
+                data.materials.append((data.pending_material, detail))
+            data.pending_material = None
+        elif data.pending_material and detail:
+            data.materials.append((data.pending_material, detail))
+            data.pending_material = None
+        return
+
+    value = values[0]
+    if not value:
+        return
+    if data.pending_material is None:
+        data.pending_material = value
+    else:
+        data.materials.append((data.pending_material, value))
+        data.pending_material = None
+
+
+def _consume_recipe_requirement_row(
+    data: RecipeInfoboxData, values: list[str], plain_values: list[str]
+) -> None:
+    """Collect a labelled requirement and its value."""
+    if any(_is_unresolved_icon_template(value) for value in plain_values):
+        return
+
+    if len(values) > 1:
+        label = values[0].strip()
+        detail = " / ".join(value for value in values[1:] if value)
+        if label and detail:
+            data.requirements.append((label.rstrip(":"), detail))
+            data.pending_requirement = None
+        elif label:
+            data.pending_requirement = label.rstrip(":")
+        return
+
+    value = values[0]
+    if value and data.pending_requirement:
+        data.requirements.append((data.pending_requirement, value))
+        data.pending_requirement = None
+
+
+def _consume_recipe_skill_row(
+    data: RecipeInfoboxData, values: list[str], plain_values: list[str]
+) -> None:
+    """Collect the skill label and any values shown before Requirements."""
+    if len(values) > 1:
+        label = values[0]
+        detail = " / ".join(value for value in values[1:] if value)
+        if label and not detail:
+            data.skill = label
+        elif label and detail:
+            data.requirements.append((label.rstrip(":"), detail))
+        return
+
+    value = values[0]
+    if value and not _is_unresolved_icon_template(plain_values[0]):
+        data.skill_values.append(value)
+
+
+def _parse_recipe_infobox(rows: list[list[lhtml.HtmlElement]]) -> RecipeInfoboxData:
+    """Parse recipe metadata and material pairs from the infobox rows."""
+    data = RecipeInfoboxData(
+        skill=None,
+        skill_values=[],
+        requirements=[],
+        materials=[],
+        pending_requirement=None,
+        pending_material=None,
+        section="",
+    )
     for cells in rows:
-        values = [
-            re.sub(
-                r"!\[[^\]]*\]\([^)]+\)\s*",
-                "",
-                _markdown_table_cell(cell),
-            ).strip()
-            for cell in cells
-        ]
-        plain_values = [cell.text_content().strip() for cell in cells]
+        values, plain_values = _recipe_infobox_row_values(cells)
         if len(cells) == 1 and _is_table_section(cells[0]):
-            section = plain_values[0].casefold()
-            pending_requirement = None
+            data.section = plain_values[0].casefold()
+            data.pending_requirement = None
             continue
-
         if not any(plain_values):
             continue
 
-        if section == "materials":
-            if any(_is_unresolved_icon_template(value) for value in plain_values):
-                continue
-            if len(cells) > 1:
-                label = plain_values[0].rstrip(":").casefold()
-                detail = " / ".join(value for value in values[1:] if value)
-                if label == "item":
-                    pending_material = detail or None
-                elif label == "quantity":
-                    if pending_material and detail:
-                        materials.append((pending_material, detail))
-                    pending_material = None
-                elif pending_material and detail:
-                    materials.append((pending_material, detail))
-                    pending_material = None
-                continue
-
-            value = values[0]
-            if not value or _is_unresolved_icon_template(plain_values[0]):
-                continue
-            if pending_material is None:
-                pending_material = value
-            else:
-                materials.append((pending_material, value))
-                pending_material = None
-            continue
-
-        if section == "requirements":
-            if any(_is_unresolved_icon_template(value) for value in plain_values):
-                continue
-            if len(cells) > 1:
-                label = values[0].strip()
-                detail = " / ".join(value for value in values[1:] if value)
-                if label and detail:
-                    requirements.append((label.rstrip(":"), detail))
-                    pending_requirement = None
-                elif label:
-                    pending_requirement = label.rstrip(":")
-                continue
-            value = values[0]
-            if value and pending_requirement:
-                requirements.append((pending_requirement, value))
-                pending_requirement = None
-            continue
-
-        if len(cells) > 1:
-            label = values[0]
-            detail = " / ".join(value for value in values[1:] if value)
-            if label and not detail:
-                skill = label
-            elif label and detail:
-                requirements.append((label.rstrip(":"), detail))
+        if data.section == "materials":
+            _consume_recipe_material_row(data, values, plain_values)
+        elif data.section == "requirements":
+            _consume_recipe_requirement_row(data, values, plain_values)
         else:
-            value = values[0]
-            if value and not _is_unresolved_icon_template(plain_values[0]):
-                skill_values.append(value)
+            _consume_recipe_skill_row(data, values, plain_values)
 
-    if pending_material:
-        materials.append((pending_material, ""))
+    if data.pending_material:
+        data.materials.append((data.pending_material, ""))
+    return data
 
-    blocks: list[str] = []
-    if skill:
-        level = next(
-            (value for value in skill_values if re.fullmatch(r"\d+(?:\.\d+)?", value)),
-            None,
-        )
-        if level:
-            blocks.append(f"**Skill:** {skill} (Level {level})")
-        else:
-            blocks.append(f"**Skill:** {skill}")
 
-        duration = next(
-            (
-                value
-                for value in skill_values
-                if re.search(r"\b(?:seconds?|minutes?|hours?)\b", value, re.IGNORECASE)
-            ),
-            None,
-        )
-        if duration:
-            blocks.append(f"**Crafting time:** {duration}")
-        blocks.extend(
-            f"**Details:** {value}"
-            for value in skill_values
-            if value not in {level, duration}
-        )
-    else:
-        blocks.extend(skill_values)
+def _render_recipe_skill(data: RecipeInfoboxData) -> list[str]:
+    """Format the recipe skill, level, and crafting time."""
+    if not data.skill:
+        return data.skill_values.copy()
 
-    if requirements:
+    level = next(
+        (value for value in data.skill_values if re.fullmatch(r"\d+(?:\.\d+)?", value)),
+        None,
+    )
+    duration = next(
+        (
+            value
+            for value in data.skill_values
+            if re.search(r"\b(?:seconds?|minutes?|hours?)\b", value, re.IGNORECASE)
+        ),
+        None,
+    )
+    blocks = [
+        f"**Skill:** {data.skill} (Level {level})"
+        if level
+        else f"**Skill:** {data.skill}"
+    ]
+    if duration:
+        blocks.append(f"**Crafting time:** {duration}")
+    blocks.extend(
+        f"**Details:** {value}"
+        for value in data.skill_values
+        if value not in {level, duration}
+    )
+    return blocks
+
+
+def _render_recipe_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
+    """Render recipe metadata and ingredient pairs without splitting them into rows."""
+    data = _parse_recipe_infobox(rows)
+    blocks = _render_recipe_skill(data)
+    if data.requirements:
         blocks.append("**Requirements**")
-        blocks.extend(f"**{label}:** {value}" for label, value in requirements)
-
-    if materials:
+        blocks.extend(
+            f"**{label}:** {value}" for label, value in data.requirements
+        )
+    if data.materials:
         blocks.extend(
             [
                 "**Materials**",
                 _pipe_table(
                     ["Item", "Quantity"],
-                    [[item, quantity] for item, quantity in materials],
+                    [[item, quantity] for item, quantity in data.materials],
                 ),
             ]
         )
-
     return "\n\n".join(blocks) if blocks else _render_infobox_table(rows)
 
 

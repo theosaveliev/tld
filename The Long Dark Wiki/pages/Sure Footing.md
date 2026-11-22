@@ -42,8 +42,8 @@ Sure Footing is received when wearing any of the following items:
 
 |  | Clothing |
 | --- | --- |
-| **Template:iconlink plain** | [Crampons](./Crampons.md) |
-| **Template:iconlink plain** | [Improvised Crampons](./Improvised%20Crampons.md) |
+|  | [Crampons](./Crampons.md) |
+|  | [Improvised Crampons](./Improvised%20Crampons.md) |
 
 ## Effects
 
@@ -52,9 +52,9 @@ This affliction causes the following effects:
 |  | Effect | Accessory |
 | --- | --- | --- |
 | [Crampons](./Crampons.md) | [Improvised Crampons](./Improvised%20Crampons.md) |  |
-| **Template:iconlink plain** | [Sprain Risk](./Sprain%20Risk.md) reduction | 50% |
-| **Template:iconlink plain** | [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) | 60 per second |
-| **Template:iconlink plain** | [Weak Ice](./Weak%20Ice.md) time increase | 1 second |
+|  | [Sprain Risk](./Sprain%20Risk.md) reduction | 50% |
+|  | [Stamina](./Stamina.md) decrease while [Rope Climbing](./Rope%20Climbing.md) | 60 per second |
+|  | [Weak Ice](./Weak%20Ice.md) time increase | 1 second |
 
 ## Update history
 

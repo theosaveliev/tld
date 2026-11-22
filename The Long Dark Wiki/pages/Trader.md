@@ -155,13 +155,11 @@ The Trader can only be contacted by special yellow [Radios](./Radio.md) with a m
 
 - Items [Decay](./Decay.md) inside the Trade Drop Box decay slowly.
   - Items which decay below 50% Condition are still accepted, and those reaching 0% Condition will not despawn.
-  - 
 - After marking the trade box for pick-up The Aurora can be used to begin another trade.
 - An unlimited number of trades can be performed in one night, provided the items are available and the Aurora does not end. Sutherland will only offer the same selection of items on the same night, minus items already traded (i.e. he will not rotate the stock on offer until the next aurora night).
 - Reloading your save file will reset the list of items that Sutherland offers for trade, as long as no trades have already been completed that night (see above).
 - Gaining a certain level of Trust gives a slight permanent discount on trading requirements.
 
-- 
 
 ## Trust
 

@@ -61,13 +61,10 @@ Crafting Bandages while afflicted Blood Loss can be a relatively dangerous proce
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 10 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cloth](./Cloth.md) |
 | Quantity | 1 |
 
@@ -77,11 +74,11 @@ Bandages can be used to treat the following afflictions:
 
 |  | Affliction | Treatments required |
 | --- | --- | --- |
-| **Template:iconlink plain** | [Blood Loss](./Blood%20Loss.md) | - 1 [Bandage](./Bandage.md) |
-| **Template:iconlink plain** | [Broken Ribs](./Broken%20Ribs.md) | - 2 [Bandage](./Bandage.md) / - 4 [Painkillers](./Painkillers.md) |
-| **Template:iconlink plain** | [Burns](./Burns.md) | - 1 [Bandage](./Bandage.md) / - 2 [Painkillers](./Painkillers.md) |
-| **Template:iconlink plain** | [Sprained Ankle](./Sprained%20Ankle.md) | - 1 [Bandage](./Bandage.md) |
-| **Template:iconlink plain** | [Sprained Wrist](./Sprained%20Wrist.md) | - 1 [Bandage](./Bandage.md) |
+|  | [Blood Loss](./Blood%20Loss.md) | - 1 [Bandage](./Bandage.md) |
+|  | [Broken Ribs](./Broken%20Ribs.md) | - 2 [Bandage](./Bandage.md) / - 4 [Painkillers](./Painkillers.md) |
+|  | [Burns](./Burns.md) | - 1 [Bandage](./Bandage.md) / - 2 [Painkillers](./Painkillers.md) |
+|  | [Sprained Ankle](./Sprained%20Ankle.md) | - 1 [Bandage](./Bandage.md) |
+|  | [Sprained Wrist](./Sprained%20Wrist.md) | - 1 [Bandage](./Bandage.md) |
 
 ## Gallery
 

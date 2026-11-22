@@ -53,16 +53,12 @@ Cannot be repaired. Harvesting yields 1 × [Reclaimed wood](./Reclaimed%20Wood.m
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 30 minutes |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cured Gut](./Cured%20Gut.md) |
 | Quantity | 1 |
-| **Template:iconlink plain** |  |
 |  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
 |  | 1 |
 

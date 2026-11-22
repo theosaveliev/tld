@@ -32,14 +32,11 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 240 minutes (4 hour 0 minutes) |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
-| Tool | **Template:iconlink** |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cedar Firewood](./Cedar%20Firewood.md) |
 | Quantity | 6 |
 

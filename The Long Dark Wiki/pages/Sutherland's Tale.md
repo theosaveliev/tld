@@ -58,7 +58,6 @@ _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-\|}{\| style="margin:auto"
 
 “
 
@@ -640,7 +639,4 @@ _Ditto, unsealed_
 
 ---
 
-1. 
 2. Bashrobe, 2025. Trader Guide - The Long Dark. [https://youtu.be/J7b\_xItDkdg?si=MOU\_hzZ7JtnMMEtu&amp;t=631](https://youtu.be/J7b_xItDkdg?si=MOU_hzZ7JtnMMEtu&t=631)[↩︎](#fnref2)
-3. 
-4.

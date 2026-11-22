@@ -42,13 +42,10 @@ _Red\_Irish\_Lord\_(Cooked)\_icon.png_
 
 | Property | Details |
 | --- | --- |
-| **Template:pic link plain**[Cooking](./Cooking.md)** |  |
-|  | - |
-|  | - |
+| [Cooking](./Cooking.md) |  |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) |
 | Quantity | 1 |
 

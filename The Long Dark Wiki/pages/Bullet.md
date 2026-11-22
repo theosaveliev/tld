@@ -48,13 +48,12 @@ Bullets may also be acquired by harvesting Revolver or Hunting Rifle Ammunition 
 
 | Property | Details |
 | --- | --- |
-| **Template:pic link plain**[Gunsmithing](./Gunsmithing.md)** |  |
+| [Gunsmithing](./Gunsmithing.md) |  |
 |  | 1 |
 |  | 60 minutes (1 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Scrap Lead](./Scrap%20Lead.md) |
 | Quantity | 1 |
 

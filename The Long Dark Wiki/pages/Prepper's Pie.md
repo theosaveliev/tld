@@ -46,53 +46,52 @@ _Prepper's\_Pie\_icon.png_
 
 **Outside:** 5.000% per day
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 80.0 minutes (1 hour 20 minutes)
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 5
+**Required level:**  5
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Acorn Grounds](./Acorn%20Grounds.md)
 
 **Quantity:** 1
 
-**Template:iconlink plain**
+
 
 [Reishi Mushroom](./Reishi%20Mushroom.md)
 
 4
 
-**Template:iconlink plain**
+
 
 [Burdock Root](./Burdock%20Root.md)
 
 2
 
-**Template:iconlink plain**
+
 
 [Water (Potable)](./Water%20%28Potable%29.md)
 
 0.10 L
 
-**Template:iconlink plain**
+
 
 [Cooking Oil](./Cooking%20Oil.md)
 
 0.05 L
 
-**Template:iconlink plain**
+
 
 [Salt](./Salt.md)
 

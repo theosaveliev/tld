@@ -178,5 +178,3 @@ The Trader menu keeps track of active trades or promises made to the [Trader](./
 ## Photo Album
 
 The Photo Album menu keeps track of photographs capture by the [Camera](./Camera.md).
-
--

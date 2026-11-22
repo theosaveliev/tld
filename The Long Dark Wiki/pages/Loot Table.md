@@ -98,7 +98,6 @@ On [Interloper](./Interloper.md), the [Spelunker's Lantern](./Spelunker%27s%20La
 | [Blackrock](./Blackrock.md) | Connector cave to [Timberwolf Mountain](./Timberwolf%20Mountain.md) |  | guaranteed |  |  |
 | [Timberwolf Mountain](./Timberwolf%20Mountain.md) | [Waterfall Cave](./Waterfall%20Cave.md) |  |  | guaranteed |  |
 | [Timberwolf Mountain](./Timberwolf%20Mountain.md) | [Echo Peak East](./Echo%20Peak%20East.md) |  |  |  | guaranteed |
-|  |  |  |  |  |  |
 
 ### Heavy Hammer
 

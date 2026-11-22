@@ -27,4 +27,3 @@ See the individual pages for where to look for these plants.[²](#fn2)
 ---
 
 1. Mushrooms and lichens are not technically plants but fungi and cyanobacterium respectively.[↩︎](#fnref1)
-2.

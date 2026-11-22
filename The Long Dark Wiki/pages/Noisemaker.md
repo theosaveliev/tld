@@ -83,19 +83,14 @@ The locations of Noisemakers are only found:
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 30 minutes |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Recycled Can](./Recycled%20Can.md) |
 | Quantity | 1 |
-| **Template:iconlink plain** |  |
 |  | [Cloth](./Cloth.md) |
 |  | 1 |
-| **Template:iconlink plain** |  |
 |  | [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
 |  | 0.10 kg |
 

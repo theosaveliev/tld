@@ -441,7 +441,6 @@ _ditto_
 
 _Ditto_
 
-- 
 
 ## References
 

@@ -105,7 +105,6 @@ _The entrance into the Bunker below Suzuki, marked as "G406."_
 
 ---
 
-1. 
 2. [https://youtu.be/cewVQSRhfxY?t=1841](https://youtu.be/cewVQSRhfxY?t=1841)[↩︎](#fnref2)
 3. [https://youtu.be/Mv1kQlPK7xE?t=15908](https://youtu.be/Mv1kQlPK7xE?t=15908)[↩︎](#fnref3)
 4. The last time Atwood saw Jeremiah was 20+ years ago, and she was working at the Telescope, not the base. [https://youtu.be/Mv1kQlPK7xE?t=15611](https://youtu.be/Mv1kQlPK7xE?t=15611)[↩︎](#fnref4)

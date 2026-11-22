@@ -40,41 +40,40 @@ _Pancakes\_icon.png_
 
 **Item key:** GAMEPLAY\_Pancake
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 10.0 minutes
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 2
+**Required level:**  2
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Maple Syrup](./Maple%20Syrup.md)
 
 **Quantity:** 0.05 kg
 
-**Template:iconlink plain**
+
 
 [Water (Potable)](./Water%20%28Potable%29.md)
 
 0.15 L
 
-**Template:iconlink plain**
+
 
 [Cooking Oil](./Cooking%20Oil.md)
 
 0.05 L
 
-**Template:iconlink plain**
+
 
 [Old Mill Flour](./Old%20Mill%20Flour.md)
 

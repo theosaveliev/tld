@@ -47,16 +47,12 @@ Once constructed, a snow shelter will degrade from 100% to 0% condition over rou
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 45 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Stick](./Stick.md) |
 | Quantity | 15 |
-| **Template:iconlink plain** |  |
 |  | [Cloth](./Cloth.md) |
 |  | 5 |
 

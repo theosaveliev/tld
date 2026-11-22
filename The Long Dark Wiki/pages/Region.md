@@ -84,7 +84,6 @@ These regions are available to all players who own _The Long Dark_.
 | [Bleak Inlet](./Bleak%20Inlet.md) | Advanced | 21 | Survival | 10 Dec 2019 |
 | [Ash Canyon](./Ash%20Canyon.md) | Advanced | 20 | Survival | 7 Dec 2020 |
 | [Blackrock](./Blackrock.md) | Intermediate | 25 | Survival, Story | 6 Oct 2021 |
-|  |  |  |  |  |
 
 &lt;imagemap&gt; File:Lower Great Bear Map 2024.png|thumb|center|1000px|A clickable map of Lower [Great Bear Island](./Great%20Bear%20Island.md).
 

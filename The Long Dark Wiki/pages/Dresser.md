@@ -45,17 +45,13 @@ This item cannot be harvested.
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 420 minutes (7 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cedar Firewood](./Cedar%20Firewood.md) |
 | Quantity | 10 |
-| **Template:iconlink plain** |  |
 |  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
 |  | 4 |
 

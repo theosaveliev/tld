@@ -20,7 +20,6 @@ This mission was cut from the game, with [Forge](./Forge.md) blueprints being av
 - Go to the Forge in Forlorn Muskeg.
 - Locate the blueprints near the Forge.
 
-- 
 
 ## Walkthrough
 

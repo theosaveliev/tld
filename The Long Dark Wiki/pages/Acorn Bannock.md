@@ -40,35 +40,34 @@ _Acorn\_Bannock\_icon.png_
 
 **Item key:** GAMEPLAY\_AcornBannock
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 40.0 minutes
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 2
+**Required level:**  2
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Acorn Grounds](./Acorn%20Grounds.md)
 
 **Quantity:** 1
 
-**Template:iconlink plain**
+
 
 [Water (Potable)](./Water%20%28Potable%29.md)
 
 0.15 L
 
-**Template:iconlink plain**
+
 
 [Cooking Oil](./Cooking%20Oil.md)
 

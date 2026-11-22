@@ -70,10 +70,9 @@ Broken Arrows sometimes spawn on or near animal carcasses, [frozen corpses](./Fr
 |  | 1 |
 |  | 60 minutes (1 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Scrap Metal](./Scrap%20Metal.md) |
 | Quantity | 1 |
 

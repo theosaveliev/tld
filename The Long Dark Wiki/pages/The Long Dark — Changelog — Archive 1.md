@@ -372,8 +372,6 @@ As part of the Redux overhaul, we’ve also made the following changes to the Us
 
 ... in addition to the dozens of general improvements listed below.
 
-- 
-  - 
 
 THE LONG DARK v. 1.41 CHANGELIST
 

@@ -110,7 +110,7 @@ This affliction causes the following effects:
 
 |  | Effect | Magnitude |
 | --- | --- | --- |
-| **Template:iconlink plain** | [Condition](./Condition.md) restoration | 2% per hour[¹](#fn1) |
+|  | [Condition](./Condition.md) restoration | 2% per hour[¹](#fn1) |
 
 ## Gallery
 

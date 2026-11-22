@@ -42,13 +42,10 @@ _Goldeye\_(Cooked)\_icon.png_
 
 | Property | Details |
 | --- | --- |
-| **Template:pic link plain**[Cooking](./Cooking.md)** |  |
-|  | - |
-|  | - |
+| [Cooking](./Cooking.md) |  |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) |
 | Quantity | 1 |
 

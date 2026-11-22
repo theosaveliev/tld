@@ -56,5 +56,3 @@ Timing is essential, as setting the spear is not instantaneous and the stamina m
 ![The location of the transponder parts on the towers](../assets/Transponder.jpg)
 
 _The location of the transponder parts on the towers_
-
-1.

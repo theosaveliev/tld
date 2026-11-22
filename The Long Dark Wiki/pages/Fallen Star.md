@@ -44,7 +44,6 @@ _Missions\_story\_ep3\_Triage.png_
 
 | Mission details |
 | --- |
-|  |
 
 The mission starts in the [Community Hall](./Community%20Hall.md). Walk to each survivor in the hall and diagnose them.
 

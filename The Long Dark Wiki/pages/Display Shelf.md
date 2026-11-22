@@ -32,17 +32,13 @@ While the preview image shows nine cubbies, the final product actually has only 
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 600 minutes (10 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Fir Firewood](./Fir%20Firewood.md) |
 | Quantity | 12 |
-| **Template:iconlink plain** |  |
 |  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
 |  | 4 |
 

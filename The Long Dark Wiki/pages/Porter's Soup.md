@@ -42,47 +42,46 @@ _Porter's\_Soup\_icon.png_
 
 **Outside:** 5.000% per day
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 40 minutes
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 4
+**Required level:**  4
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Carrot](./Carrot.md)
 
 **Quantity:** 2
 
-**Template:iconlink plain**
+
 
 [Cat Tail Stalk](./Cat%20Tail%20Stalk.md)
 
 6
 
-**Template:iconlink plain**
+
 
 [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)
 
 0.50 kg
 
-**Template:iconlink plain**
+
 
 [Broth](./Broth.md)
 
 0.40 L
 
-**Template:iconlink plain**
+
 
 [Salt](./Salt.md)
 

@@ -58,17 +58,13 @@ _Clothing model icon damaged_
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 1200 minutes (20 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cured Deer Hide](./Cured%20Deer%20Hide.md) |
 | Quantity | 2 |
-| **Template:iconlink plain** |  |
 |  | [Cured Gut](./Cured%20Gut.md) |
 |  | 4 |
 

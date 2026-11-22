@@ -63,13 +63,10 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 5 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Stick](./Stick.md) |
 | Quantity | 1 |
 
@@ -79,13 +76,10 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 10 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Newsprint](./Newsprint.md) |
 | Quantity | 1 |
 
@@ -95,13 +89,10 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 10 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Newsprint Roll](./Newsprint%20Roll.md) |
 | Quantity | 1 |
 
@@ -111,13 +102,10 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 10 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Stack of Papers](./Stack%20of%20Papers.md) |
 | Quantity | 1 |
 

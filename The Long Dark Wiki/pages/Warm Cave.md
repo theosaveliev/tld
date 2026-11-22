@@ -103,7 +103,6 @@ The following areas behave like Warm Caves, though these indoor areas progress C
 
 - 3 unnamed caves throughout the region
 
-- 
 
 #### [Coastal Highway](./Coastal%20Highway.md) (0)
 
@@ -134,7 +133,6 @@ The following areas behave like Warm Caves, though these indoor areas progress C
 - [Valley Cave](./Valley%20Cave.md)
 - 5 unnamed caves throughout the region
 
-- 
 
 #### [Keeper's Pass North](./Keeper%27s%20Pass%20North.md) (0)
 
@@ -216,7 +214,6 @@ The following areas behave like Warm Caves, though these indoor areas progress C
 - Cave east of [Sudden Washout](./Sudden%20Washout.md)
 - Cave northwest of [Justy's Hovel](./Justy%27s%20Hovel.md)
 
-- 
 
 #### [Sundered Pass](./Sundered%20Pass.md) (4)
 
@@ -225,7 +222,6 @@ The following areas behave like Warm Caves, though these indoor areas progress C
 - [Roamer's Cave](./Roamer%27s%20Cave.md)
 - Cave on the path to [High Peak Plateau](./High%20Peak%20Plateau.md)
 
-- 
 
 #### [Transfer Pass](./Transfer%20Pass.md) (1)
 

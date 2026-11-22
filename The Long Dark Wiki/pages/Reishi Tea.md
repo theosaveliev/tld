@@ -60,16 +60,13 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 | Property | Details |
 | --- | --- |
-| **Template:pic link plain**[Cooking](./Cooking.md)** |  |
-|  | - |
+| [Cooking](./Cooking.md) |  |
 |  | 12.5 minutes |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Prepared Reishi Mushrooms](./Prepared%20Reishi%20Mushrooms.md) |
 | Quantity | 1 |
-| **Template:iconlink plain** |  |
 |  | [Water (Potable)](./Water%20%28Potable%29.md) |
 |  | 0.25 L |
 

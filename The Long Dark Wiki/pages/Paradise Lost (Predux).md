@@ -75,5 +75,3 @@ Several plot points and locations have been replaced/altered since the Redux re-
   - Removed from the game as part of the Redux edition.
 
 \[Paradise Lost (Predux)\]
-
--

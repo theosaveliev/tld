@@ -92,5 +92,4 @@ But...maybe I shouldn't make it?
 
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
 
-- 
   - Added to game.

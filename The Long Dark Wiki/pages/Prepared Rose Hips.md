@@ -48,13 +48,10 @@ Prepared Rose Hips have about 1/5 the weight of their raw form, and do not [Deca
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 15 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Rose Hip](./Rose%20Hip.md) |
 | Quantity | 24 |
 

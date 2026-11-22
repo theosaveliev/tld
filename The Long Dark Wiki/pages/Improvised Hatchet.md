@@ -62,17 +62,13 @@ When carried and selected for self-defense at the start of a Wolf Struggle, Impr
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 240 minutes (4 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Scrap Metal](./Scrap%20Metal.md) |
 | Quantity | 5 |
-| **Template:iconlink plain** |  |
 |  | [Cloth](./Cloth.md) |
 |  | 1 |
 

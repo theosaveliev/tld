@@ -22,7 +22,6 @@ This mission was poorly received due to its unfair and confusing method of track
   - \[0/6 Bear Encounters\]
 - Bring The Old Bear's Ear back to Jeremiah, as proof of your hunting prowess.
 
-- 
 
 ## Walkthrough
 

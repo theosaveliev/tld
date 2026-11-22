@@ -50,27 +50,25 @@ _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
--
 
--
 
 1000 minutes (16 hour 40 minutes)
 
 **Requirements**
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)
 
 **Quantity:** 1
 
-**Template:iconlink plain**
+
 
 [Cured Gut](./Cured%20Gut.md)
 

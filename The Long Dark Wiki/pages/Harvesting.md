@@ -1,6 +1,6 @@
 # Harvesting
 
-**Categories:** Gameplay, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Harvesting)
+**Categories:** Gameplay, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Harvesting)
 
 **Contents**
 
@@ -1839,9 +1839,9 @@ None
 
 [Rabbit Carcass](./Rabbit%20Carcass.md)
 
-0.80 kg / _(1.76 lb)_**Template:iconlink**
+0.80 kg / _(1.76 lb)_
 
-1.50 kg / _(3.3 lb)_**Template:iconlink**
+1.50 kg / _(3.3 lb)_
 
 1 x ![Fresh\_Rabbit\_Pelt\_icon.png](../assets/Fresh_Rabbit_Pelt_icon.png) [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md)
 
@@ -1876,4 +1876,3 @@ Harvesting of stationary objects in larger scale has been introduced on August 1
 ---
 
 1. There is a chance to recover components, but it depends on [Gunsmithing](./Gunsmithing.md) level[↩︎](#fnref1)
-2.

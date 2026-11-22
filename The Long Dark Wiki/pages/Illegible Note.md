@@ -42,5 +42,4 @@ The text on this note is largely unreadable. If this message was meant for someo
 
 \* UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
 
-- 
   - Added to game.

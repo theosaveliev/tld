@@ -50,27 +50,25 @@ _Clothing model_
 
 _Clothing model damaged_
 
--
 
--
 
 1400 minutes (23 hour 20 minutes)
 
 **Requirements**
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Cured Cougar Hide](./Cured%20Cougar%20Hide.md)
 
 **Quantity:** 1
 
-**Template:iconlink plain**
+
 
 [Cured Gut](./Cured%20Gut.md)
 

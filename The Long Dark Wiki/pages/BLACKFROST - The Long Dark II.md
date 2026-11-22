@@ -17,7 +17,6 @@
 - [Early Access](#early-access)
 - [Gameplay](#gameplay)
 - [Videos](#videos)
-- [Gallery](#gallery)
 - [Concept](#concept)
 - [Announcement Trailer](#announcement-trailer)
 - [External links](#external-links)
@@ -117,8 +116,6 @@ BLACKFROST is being built using Early Access to maximize the player feedback loo
 ![](../assets/BLACKFROST_--_The_Long_Dark_2_--_Announcement_Trailer.jpg)
 
 _BLACKFROST\_--\_The\_Long\_Dark\_2\_--\_Announcement\_Trailer_
-
-## Gallery
 
 ### Concept
 

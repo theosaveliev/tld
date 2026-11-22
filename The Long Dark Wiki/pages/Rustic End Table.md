@@ -36,17 +36,13 @@ Despite having a Backpack carry weight value, the table cannot be picked up and 
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 360 minutes (6 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cedar Firewood](./Cedar%20Firewood.md) |
 | Quantity | 6 |
-| **Template:iconlink plain** |  |
 |  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
 |  | 2 |
 

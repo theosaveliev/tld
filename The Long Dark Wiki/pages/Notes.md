@@ -164,29 +164,9 @@ There are currently 102 notes in total to find.
 
 ### [Buried Echoes](./Buried%20Echoes.md)
 
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
 
 ### [Last Horizon](./Last%20Horizon.md)
 
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
 
 ## History
 

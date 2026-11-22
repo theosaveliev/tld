@@ -40,35 +40,34 @@ _Vagabond\_Soup\_icon.png_
 
 **Outside:** 5.000% per day
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 40 minutes
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 1
+**Required level:**  1
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)
 
 **Quantity:** 0.50 kg
 
-**Template:iconlink plain**
+
 
 [Broth](./Broth.md)
 
 0.40 L
 
-**Template:iconlink plain**
+
 
 [Salt](./Salt.md)
 

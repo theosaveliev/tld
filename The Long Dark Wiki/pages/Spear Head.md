@@ -40,15 +40,12 @@ More Spear Heads can be crafted in the forge after the first one. They can be ca
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 90 minutes (1 hour 30 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | Story | [The Best Defense](./The%20Best%20Defense.md) |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Scrap Metal](./Scrap%20Metal.md) |
 | Quantity | 2 |
 
@@ -66,5 +63,4 @@ _3d model from a second forged Spear Head_
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
 
-- 
   - Added to game.

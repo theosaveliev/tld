@@ -38,7 +38,6 @@ _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-\|}{\| style="margin:auto"
 
 “
 
@@ -64,7 +63,6 @@ _Old gear icon_
 
 \* UPDATE **5 December 2023 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.25)):**
 
-- 
   - Added to game.
 - UPDATE **24 June 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.28)):**
   - Added new icon.

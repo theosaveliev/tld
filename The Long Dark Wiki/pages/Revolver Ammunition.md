@@ -13,7 +13,6 @@
 
 **Revolver ammunition**
 
-\[\[File: / ![Box](../assets/Revolver_Ammunition_icon.png) / _Box_ / ![Cartridge](../assets/Revolver_Cartridge_icon.png) / _Cartridge_ / Rifle ammunition icon.png\|250px\]\]
 
 ![Box](../assets/Revolver_Ammunition_icon.png)
 
@@ -67,19 +66,16 @@ Crafting at an [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) requires 
 
 | Property | Details |
 | --- | --- |
-| **Template:pic link plain**[Gunsmithing](./Gunsmithing.md)** |  |
+| [Gunsmithing](./Gunsmithing.md) |  |
 |  | 1 |
 |  | 5 minutes |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Bullet](./Bullet.md) |
 | Quantity | 1 |
-| **Template:iconlink plain** |  |
 |  | [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) |
 |  | 1 |
-| **Template:iconlink plain** |  |
 |  | [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
 |  | 0.01 kg |
 

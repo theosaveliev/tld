@@ -51,16 +51,12 @@ A Fishing Tackle cannot be repaired or harvested. It can be used as an ingredien
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 10 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Hook](./Hook.md) |
 | Quantity | 1 |
-| **Template:iconlink plain** |  |
 |  | [Line](./Line.md) |
 |  | 1 |
 

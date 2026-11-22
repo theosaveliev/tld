@@ -51,10 +51,10 @@ After the incident with Team 3 in the [Langston Mine](./Langston%20Mine.md) afte
 
 Several medical and psychological tests were performed on the men, with the doctor concluding that the dementia like mental deterioration of the patients was not viral/pathogenic in nature, but instead physiological. Many exercises were given to the Doctor's patients, including forcing the patient to make a habit of frequently writing down their thoughts, with many of these writings involving memories related to water or the sea. These writing practices helped manage and slow many of the patient's metal deterioration, though they only acted as a way to gradually halt the onset of the patient's dementia. This can be shown in the case of the handwriting of [The Foreman's](./The%20Foreman.md) Technical Logs becoming increasingly worse with each note the player finds:
 
-- **Template:iconlink** - \[clear, deliberate handwriting...\]
-- **Template:iconlink** - \[lazy handwriting, with some passages scratched out...\]
-- **Template:iconlink** - \[paper fragment with shaky handwriting...\]
-- **Template:iconlink** - \[barely legible handwriting...\]
+-  - \[clear, deliberate handwriting...\]
+-  - \[lazy handwriting, with some passages scratched out...\]
+-  - \[paper fragment with shaky handwriting...\]
+-  - \[barely legible handwriting...\]
 
 It is unknown what became of the Medical Officer after his experiments were concluded. Aside from a note from the Security Chief Officer mentioning that he was affected by The Machine, no information on whether he successful evacuated the Island being present.
 

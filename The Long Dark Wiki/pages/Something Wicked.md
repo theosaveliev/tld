@@ -22,7 +22,6 @@ Simply surviving for 1000 days in [Survival Mode](./Survival%20Mode.md) without 
 - Practice [Hibernation](./Hibernation.md) in order to increase the passage of time in the game world (eating only when sleeping, then resting to make time pass).
 - Simply closing the game should you be attacked and you know you will die in the ensuing [Struggle](./Struggle.md) is a method to avoid death (though this will send you back to your last save upon reloading). This method does not work should the game save for any reason during the attack (ex, [Timberwolf](./Timberwolf.md)/Cougar bites)
   - Making a manual backup of your save files every so often can be a good (albeit dishonorable) method to restore a save should you fade into The Long Dark.
-- 
 
 ## Trivia
 

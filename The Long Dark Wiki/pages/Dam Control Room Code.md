@@ -42,7 +42,6 @@ Jeremiah's code for the Dam's Control Room: 7611 Use it when the aurora is in th
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
 
-- 
   - Added to game.
 
 - UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**

@@ -40,13 +40,10 @@ _Prepared\_Burdock\_icon.png_
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 15 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Burdock Root](./Burdock%20Root.md) |
 | Quantity | 1 |
 

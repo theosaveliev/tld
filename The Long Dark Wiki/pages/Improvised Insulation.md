@@ -36,7 +36,6 @@ _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-\|}{\| style="margin:auto"
 
 “
 
@@ -52,17 +51,13 @@ _Ptarmigan\_icon.png_
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 120.0 minutes (2 hour 0 minutes) |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
-| Tool | **Template:iconlink** |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cloth](./Cloth.md) |
 | Quantity | 4 |
-| **Template:iconlink plain** |  |
 |  | [Ptarmigan Down](./Ptarmigan%20Down.md) |
 |  | 5 |
 

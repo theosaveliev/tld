@@ -30,7 +30,6 @@ Progress for Crafting this item will be stored in the Furniture Workbench's cont
 
 Despite having a Backpack carry weight value, the trunk cannot be picked up and placed back into the player's inventory once crafted, and so it cannot be carried from one base to another. The only option is to move or destroy it (destroying the trunk will yield no resources, so consider the material cost/time investment before creating this item).
 
-- 
 
 ## Crafting
 
@@ -38,14 +37,11 @@ Despite having a Backpack carry weight value, the trunk cannot be picked up and 
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 420 minutes (7 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Fir Firewood](./Fir%20Firewood.md) |
 | Quantity | 9 |
 

@@ -68,17 +68,13 @@ Has a chance to spawn in a cache in the [Ice Caves](./Ice%20Cave.md) of [Hushed 
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 340 minutes (5 hour 40 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) |
 | Quantity | 3 |
-| **Template:iconlink plain** |  |
 |  | [Cured Gut](./Cured%20Gut.md) |
 |  | 1 |
 

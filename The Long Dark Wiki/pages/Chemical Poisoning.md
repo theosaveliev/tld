@@ -28,7 +28,7 @@ _Chemical\_Poisoning\_icon.png_
 
 **Treatment**
 
-**Treatment:** **Template:iconlink**
+**Treatment:** 
 
 **Recovery Time:** 72 hours
 

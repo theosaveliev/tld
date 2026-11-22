@@ -46,5 +46,4 @@ John.
 
 \* UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
 
-- 
   - Added to game.

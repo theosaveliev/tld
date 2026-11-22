@@ -43,20 +43,15 @@ This item cannot be harvested. The only option is to pick up, move or destroy it
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 480 minutes (8 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cured Deer Hide](./Cured%20Deer%20Hide.md) |
 | Quantity | 1 |
-| **Template:iconlink plain** |  |
 |  | [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) |
 |  | 1 |
-| **Template:iconlink plain** |  |
 |  | [Cured Gut](./Cured%20Gut.md) |
 |  | 2 |
 

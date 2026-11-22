@@ -20,7 +20,6 @@
 - [Episode 2](#episode-2)
 - [Episode 4](#episode-4)
 - [Trivia](#trivia)
-- [Gallery](#gallery)
 - [Predux Episode 2](#predux-episode-2)
 - [Redux Episode 2](#redux-episode-2)
 - [Episode 4](#episode-4-1)
@@ -153,8 +152,6 @@ Mathis and his gang will return in Episode 5 to settle their score with Mackenzi
 - Most of Mathis' lines about women are ambiguous: Will Mackenzie interprets his line about the woman in the dam to mean Astrid, however in Episode 3 many dead prisoners can be found killed by arrows which [Molly](./Molly.md) confesses to, especially near the Pleasant Valley entrance to the Carter Dam; this could make Mathis' lines an unintentional double entendre, with Mathis instead talking about Molly.
   - This could have also have been a female [Forest Talker](./Forest%20Talkers.md) in the Dam that was at the wrong place at the wrong time, considering how active they are in the Mystery Lake and Pleasant Valley regions.
 - Mathis' gang at [Blackrock Prison](./Blackrock%20Prison.md) consists of himself, [Heller](./Heller.md), [Vachon](./Vachon.md), and several unnamed thugs that only appear in the certain cutscenes.
-
-## Gallery
 
 ### Predux Episode 2
 

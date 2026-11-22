@@ -62,19 +62,16 @@ Arrows hitting hard surfaces will bounce off. Bounces off hard vertical surfaces
 
 | Property | Details |
 | --- | --- |
-| **Template:pic link plain**[Archery](./Archery.md)** |  |
+| [Archery](./Archery.md) |  |
 |  | 1 |
 |  | 90 minutes (1 hour 30 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Arrowhead](./Arrowhead.md) |
 | Quantity | 1 |
-| **Template:iconlink plain** |  |
 |  | [Arrow Shaft](./Arrow%20Shaft.md) |
 |  | 1 |
-| **Template:iconlink plain** |  |
 |  | [Crow Feather](./Crow%20Feather.md) |
 |  | 3 |
 

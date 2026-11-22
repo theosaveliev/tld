@@ -10,7 +10,6 @@
 - [Disadvantages](#disadvantages)
 - [Harvesting](#harvesting)
 - [Repair](#repair)
-- [Gallery](#gallery)
 - [Game History](#game-history)
 
 **McLeod Ultra-Efficiency Whale Oil Heater**
@@ -38,8 +37,6 @@ _McLeod\_Ultra-Efficiency\_Whale\_Oil\_Heater\_icon.png_
 _Seal\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Iron Road](./Iron%20Road.md) addon to be installed before it can be seen or used in regular gameplay.
-
-\|}{\| style="margin:auto"
 
 “
 
@@ -93,11 +90,5 @@ The item cannot be harvested.
 ## Repair
 
 The Oil Heater can be repaired with a pair of [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md) in 1 hour with 1 [Scrap Metal](./Scrap%20Metal.md) while in the Backpack.
-
-- 
-
-- 
-
-## Gallery
 
 ## Game History

@@ -23,5 +23,3 @@ _Industrial\_Toilet.png_
 These objects can be found in [Idle Camp](./Idle%20Camp.md) in the barracks provided to the miners once working there. They can also be found inside [Bunker Alpha](./Bunker%20Alpha.md), [Beta](./Bunker%20Beta.md), [Gamma](./Bunker%20Gamma.md), and [Omega](./Bunker%20Omega.md).
 
 They can provide clean [Water (Potable)](./Water%20%28Potable%29.md) when searched, but can sometimes instead provide dirty [Water (Unsafe)](./Water%20%28Unsafe%29.md) and are the only toilet types to do so.
-
-## Gallery

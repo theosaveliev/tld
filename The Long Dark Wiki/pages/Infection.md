@@ -28,9 +28,9 @@ _Infection\_icon.png_
 
 **Treatment**
 
-**Treatment:** 2 x **Template:iconlink**
+**Treatment:** 2 x 
 
-**Alternate Treatment:** 1 x **Template:iconlink**/**Template:iconlink**
+**Alternate Treatment:** 1 x / 
 
 **Recovery Time:** 8 hours of [Sleep](./Sleep.md)
 

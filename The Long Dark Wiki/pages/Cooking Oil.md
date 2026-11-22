@@ -48,41 +48,39 @@ _Cooking\_Oil\_icon.png_
 
 **Item key:** GAMEPLAY\_CookingOil
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 24 minutes
 
 **Requirements**
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Animal Fat](./Animal%20Fat.md)
 
 **Quantity:** 1.00 kg
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 24 minutes
 
 **Requirements**
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Animal Fat](./Animal%20Fat.md)
 

@@ -45,7 +45,6 @@ _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-\|}{\| style="margin:auto"
 
 “
 
@@ -71,17 +70,13 @@ They are warmer and heavier than the [Deerskin Pants](./Deerskin%20Pants.md), an
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 1750 minutes (29 hour 10 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) |
 | Quantity | 4 |
-| **Template:iconlink plain** |  |
 |  | [Cured Gut](./Cured%20Gut.md) |
 |  | 3 |
 

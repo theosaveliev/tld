@@ -58,16 +58,13 @@ Prepared Rose Hips have half the weight of their raw form, and no form of Rose H
 
 | Property | Details |
 | --- | --- |
-| **Template:pic link plain**[Cooking](./Cooking.md)** |  |
-|  | - |
+| [Cooking](./Cooking.md) |  |
 |  | 12.5 minutes |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Prepared Rose Hips](./Prepared%20Rose%20Hips.md) |
 | Quantity | 1 |
-| **Template:iconlink plain** |  |
 |  | [Water (Potable)](./Water%20%28Potable%29.md) |
 |  | 0.25 L |
 

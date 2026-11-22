@@ -48,53 +48,52 @@ _Stalker's\_Pie\_icon.png_
 
 **Item key:** GAMEPLAY\_PredatorPie
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 80.0 minutes (1 hour 20 minutes)
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 5
+**Required level:**  5
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)
 
 **Quantity:** 0.50 kg
 
-**Template:iconlink plain**
+
 
 [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
 
 0.50 kg
 
-**Template:iconlink plain**
+
 
 [Acorn Grounds](./Acorn%20Grounds.md)
 
 1
 
-**Template:iconlink plain**
+
 
 [Water (Potable)](./Water%20%28Potable%29.md)
 
 0.15 L
 
-**Template:iconlink plain**
+
 
 [Cooking Oil](./Cooking%20Oil.md)
 
 0.05 L
 
-**Template:iconlink plain**
+
 
 [Salt](./Salt.md)
 

@@ -49,47 +49,46 @@ _Camber\_Flight\_Porridge\_icon.png_
 
 **Item key:** GAMEPLAY\_FruitPorridge
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 20.0 minutes
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 4
+**Required level:**  4
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Maple Syrup](./Maple%20Syrup.md)
 
 **Quantity:** 0.05 kg
 
-**Template:iconlink plain**
+
 
 [Rose Hip](./Rose%20Hip.md)
 
 4
 
-**Template:iconlink plain**
+
 
 [Pinnacle Peaches](./Pinnacle%20Peaches.md)
 
 0.50 kg
 
-**Template:iconlink plain**
+
 
 [Water (Potable)](./Water%20%28Potable%29.md)
 
 0.20 L
 
-**Template:iconlink plain**
+
 
 [Running River Oats](./Running%20River%20Oats.md)
 

@@ -28,5 +28,3 @@ In Wintermute, the Carter Dam locker is locked and needs the [Aid Station Medica
 ## Loot
 
 Medical Lockers only contain [First Aid](./First%20Aid.md) supplies.
-
-## Gallery

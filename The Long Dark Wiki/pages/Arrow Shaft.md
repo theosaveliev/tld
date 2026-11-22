@@ -58,10 +58,9 @@ Arrow shafts are primarily used in the making of arrows. Arrow Shafts can be cut
 |  | 1 |
 |  | 30 minutes |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cured Birch Sapling](./Cured%20Birch%20Sapling.md) |
 | Quantity | 1 |
 

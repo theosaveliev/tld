@@ -44,19 +44,17 @@ _Cougar\_Meat\_(Cooked)\_icon.png_
 
 **Item key:** GAMEPLAY\_CookedMeatCougar
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
--
 
 **Requirements**
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md)
 

@@ -65,22 +65,16 @@ Tip-Ups can be crafted at a [Workbench](./Work%20Bench.md), requiring no extra t
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 40.0 minutes |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Stick](./Stick.md) |
 | Quantity | 2 |
-| **Template:iconlink plain** |  |
 |  | [Cloth](./Cloth.md) |
 |  | 1 |
-| **Template:iconlink plain** |  |
 |  | [Scrap Metal](./Scrap%20Metal.md) |
 |  | 1 |
-| **Template:iconlink plain** |  |
 |  | [Fishing Tackle](./Fishing%20Tackle.md) |
 |  | 1 |
 

@@ -76,7 +76,6 @@ _Model as of v2.33_
 
 \* unknown date
 
-- 
   - Added to game.
 - UPDATE **2 December 2024 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)):**
   - Item received a new model

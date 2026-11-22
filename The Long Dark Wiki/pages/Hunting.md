@@ -619,6 +619,3 @@ In some areas (e.g. [Coastal Highway](./Coastal%20Highway.md) or [Desolation Poi
 1. Per hit[↩︎](#fnref1)
 2. Per hit[↩︎](#fnref2)
 3. Struggle is guaranteed to end after "Take Shot" is chosen (70% to flee, 30% to kill)[↩︎](#fnref3)
-4. 
-5. 
-6.

@@ -46,33 +46,31 @@ _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
--
 
--
 
 180 minutes (3 hour 0 minutes)
 
 **Requirements**
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Cured Deer Hide](./Cured%20Deer%20Hide.md)
 
 **Quantity:** 1
 
-**Template:iconlink plain**
+
 
 [Cured Gut](./Cured%20Gut.md)
 
 2
 
-**Template:iconlink plain**
+
 
 [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
 

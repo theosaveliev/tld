@@ -36,7 +36,6 @@ _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-\|}{\| style="margin:auto"
 
 “
 
@@ -65,7 +64,6 @@ Continuing the events of the last Tale, the survivor buries the remains of the S
 - Return to the [Omega Bunker](./Bunker%20Omega.md) and investigate the area shown in the Polaroid.
   - Discover Rüdiger's true fate. \[0/4\]
 
-- 
 
 ## Find out what happened to Rüdiger
 

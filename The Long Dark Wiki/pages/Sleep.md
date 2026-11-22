@@ -92,14 +92,14 @@ If all [needs](./Needs.md) are met, meaning their bars are not empty, sleep also
 
 |  | Food and Drink | Duration |
 | --- | --- | --- |
-| **Template:iconlink plain** | [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | 6 hours |
-| **Template:iconlink plain** | [Stalker's Pie](./Stalker%27s%20Pie.md) | 6 hours |
-| **Template:iconlink plain** | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | 3 hours |
-| **Template:iconlink plain** | [Ranger Stew](./Ranger%20Stew.md) | 3 hours |
-| **Template:iconlink plain** | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | 3 hours |
-| **Template:iconlink plain** | [Rabbit Stew](./Rabbit%20Stew.md) | 3 hours |
-| **Template:iconlink plain** | [Trout Stew](./Trout%20Stew.md) | 3 hours |
-| **Template:iconlink plain** | [Venison Stew](./Venison%20Stew.md) | 3 hours |
+|  | [Cup of Herbal Tea](./Cup%20of%20Herbal%20Tea.md) | 6 hours |
+|  | [Stalker's Pie](./Stalker%27s%20Pie.md) | 6 hours |
+|  | [Thomson Family Stew](./Thomson%20Family%20Stew.md) | 3 hours |
+|  | [Ranger Stew](./Ranger%20Stew.md) | 3 hours |
+|  | [Ptarmigan Stew](./Ptarmigan%20Stew.md) | 3 hours |
+|  | [Rabbit Stew](./Rabbit%20Stew.md) | 3 hours |
+|  | [Trout Stew](./Trout%20Stew.md) | 3 hours |
+|  | [Venison Stew](./Venison%20Stew.md) | 3 hours |
 
 Note: If all needs are not met or need meters fall below zero while sleeping, condition still drops. It is quite possible to die in one's sleep if not interrupted. [Thirst](./Thirst.md) and [Hunger](./Hunger.md) will worsen as one sleeps.
 
@@ -224,7 +224,6 @@ Sleeping for 1 hour in any sort of bed besides the cloth [Bedroll](./Bedroll.md)
 | 4 | 7% | +22% | 78% | 240 | 11 |
 | 5 | 8% | +30% | 70% | 300 | 10 |
 | 6 | 9% | +39% | 61% | 360 | 9 |
-|  |  |  |  |  |  |
 
 #### Health restoration with herbal tea (cloth bedroll)
 
@@ -239,7 +238,6 @@ If the player sleeps at a cloth [bedroll](./Bedroll.md) after drinking [herbal t
 | 4 | 6% | +18% | 82% | 240 | 13 |
 | 5 | 7% | +25% | 75% | 300 | 12 |
 | 6 | 8% | +33% | 67% | 360 | 11 |
-|  |  |  |  |  |  |
 
 Note: If all needs are not met or become unmet, condition loss will continue or begin. It is quite possible to die in one's sleep if not interrupted. [Thirst](./Thirst.md) and [Hunger](./Hunger.md) build as one sleeps -- at 55 ml &amp; 60 calories per hour. Thus, 12 hours of sleep will completely dehydrate a character who had no thirst when starting. Therefore, it is wise to always drink [water](./Water%20%28Potable%29.md) before sleeping.
 

@@ -62,17 +62,13 @@ As of the [TFTFT part 4 update](./Tales%20from%20the%20Far%20Territory.md), a pa
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 480 minutes (8 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) |
 | Quantity | 4 |
-| **Template:iconlink plain** |  |
 |  | [Cured Gut](./Cured%20Gut.md) |
 |  | 2 |
 

@@ -36,7 +36,7 @@ Restore Condition is received when consuming any of the following items:
 
 |  | Food and Drink |
 | --- | --- |
-| **Template:iconlink plain** | [Birch Bark Tea](./Birch%20Bark%20Tea.md) |
+|  | [Birch Bark Tea](./Birch%20Bark%20Tea.md) |
 
 ## Effects
 
@@ -44,7 +44,7 @@ This affliction causes the following effects:
 
 |  | Effect | Magnitude | Duration |
 | --- | --- | --- | --- |
-| **Template:iconlink plain** | [Condition](./Condition.md) restoration | 2.5% per hour | 2 hours[¹](#fn1) |
+|  | [Condition](./Condition.md) restoration | 2.5% per hour | 2 hours[¹](#fn1) |
 
 ## Update history
 

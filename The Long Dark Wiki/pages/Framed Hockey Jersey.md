@@ -32,20 +32,15 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 240 minutes (4 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Fir Firewood](./Fir%20Firewood.md) |
 | Quantity | 2 |
-| **Template:iconlink plain** |  |
 |  | [Scrap Metal](./Scrap%20Metal.md) |
 |  | 1 |
-| **Template:iconlink plain** |  |
 |  | [Hockey Jersey](./Hockey%20Jersey.md) |
 |  | 1 |
 

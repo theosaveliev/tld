@@ -96,7 +96,6 @@ Some caves and mines have more coal the first time that one visits the location.
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | [Langston Mine](./Langston%20Mine.md) Mountainside Passage to Floor 1 | 29 | 6 coal in the large room with the flooded path to the rest of Level 1. 11 coal on the next "level" above that, 12 coal in the top level. |
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | [Welkin's Window](./Welkin%27s%20Window.md) | 7 |  |
 | [Zone of Contamination](./Zone%20of%20Contamination.md) | Far Territory Cave System | 25 | 4 spawn on the top level that has the entrance to [Sundered Pass](./Sundered%20Pass.md). 7 spawn in between the rope climb and the bridge into the room where the junction is. 1 in the room with the junction. 6 coal between the junction and the entrance to [Forsaken Airfield](./Forsaken%20Airfield.md). 7 coal between the junction and the entrance to [Zone of Contamination](./Zone%20of%20Contamination.md). |
-|  |  |  |  |
 
 ## Update history
 

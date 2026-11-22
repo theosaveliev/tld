@@ -148,5 +148,3 @@ Several plot points and locations have been replaced/altered since the Redux re-
   - Removed from the game as part of the Redux edition.
 
 \[The Grey Mother (Predux)\]
-
--

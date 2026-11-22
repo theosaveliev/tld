@@ -114,6 +114,3 @@ Once players have reached a new skill level, they unlock the effects described i
 ---
 
 1. Moose do not bleed out.[↩︎](#fnref1)
-2. 
-3. 
-4.

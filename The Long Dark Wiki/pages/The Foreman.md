@@ -82,26 +82,8 @@ Throughout the Tale, it is revealed the machine had a grievous effect on his min
 
 ### Clothing
 
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
 
 ### Collectibles
 
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
 
 ## Trivia

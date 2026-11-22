@@ -67,19 +67,16 @@ Crafting at an [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) requires 
 
 | Property | Details |
 | --- | --- |
-| **Template:pic link plain**[Gunsmithing](./Gunsmithing.md)** |  |
+| [Gunsmithing](./Gunsmithing.md) |  |
 |  | 1 |
 |  | 5 minutes |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Bullet](./Bullet.md) |
 | Quantity | 1 |
-| **Template:iconlink plain** |  |
 |  | [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) |
 |  | 1 |
-| **Template:iconlink plain** |  |
 |  | [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
 |  | 0.01 kg |
 
@@ -108,7 +105,6 @@ Ammunition that is found in the game world will always be in "Perfect" condition
 - Use your ammunition wisely even if it is renewable, since trips to ammunition workbenches are dangerous, resource-intensive, and time-consuming.
 - Rifle rounds are found in a small, red and grey colored cardboard box, or, if the player has a keen eye, can be spotted singly in fishing huts and other buildings.
 - Hunting [Rabbits](./Rabbit.md) with the hunting rifle is not very efficient, as rabbits can be hunted effectively with [Stones](./Stone.md), [Fire Hardened Arrows](./Fire%20Hardened%20Arrow.md), or the [Revolver](./Revolver.md) if desperate.
-- 
 
 ## Gallery
 

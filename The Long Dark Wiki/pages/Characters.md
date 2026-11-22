@@ -417,7 +417,6 @@ Below is a list of names involving any characters mentioned or found in Wintermu
 
 #### Episode 1
 
-- 
 - Bank Manager - Manager of the [Milton Credit Union](./Milton%20Credit%20Union.md). Owner of Bank Manager's House, [Bank Manager's House Key](./Bank%20Manager%27s%20House%20Key.md), [Bank Vault Code](./Bank%20Vault%20Code.md)
 - Unknown person - Wrote [Betrayal](./Betrayal.md) note
 - The Millers - Mentioned by Grey Mother as a Trust reward. Have a [Hidden Cache](./Hidden%20Cache.md) in their backyard at the [destroyed house](./Milton%20Supply%20Caches.md#Destroyed_house)
@@ -519,7 +518,6 @@ Below is a list of names involving any characters mentioned or found in Wintermu
 - Bishop Stevens - Wrote [Diocese Report](./Diocese%20Report.md) to Father Thomas. Member of Diocese of the Northern Coast
 - Sam - Wrote [Undelivered Letter](./Undelivered%20Letter.md). Possibly stole [Church Artifact](./Church%20Artifact.md)
 - Cindi - Mentioned in [Undelivered Letter](./Undelivered%20Letter.md). Possibly stole [Church Artifact](./Church%20Artifact.md)
-- 
 
 #### Episode 4
 
@@ -544,7 +542,6 @@ Below is a list of names involving any characters mentioned or found in Wintermu
 - Unknown Convicts - 5 men who escaped Blackrock Prison mentioned in [Newspaper Clipping 2](./Newspaper%20Clipping%202.md). 1 returned alive, 1 found dead, 3 missing
 - Unknown Animal Researcher - Dead regional ecologist found in [Blackrock Rumours](./Blackrock%20Rumours.md). Hired by Blackrock Admin to research a highly aggressive wolf. Holding [Great Bear Wolf Behaviour Study](./Great%20Bear%20Wolf%20Behaviour%20Study.md)
 
-- 
 
 #### Episode 5
 

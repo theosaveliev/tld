@@ -30,21 +30,20 @@ _Big\_Bass\_(Cooked)\_icon.png_
 
 **Item key:** GAMEPLAY\_CookedBigMouthBass
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 53 minutes
 
 **Requirements**
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md)
 

@@ -135,16 +135,11 @@ _The welcoming sign near the bridge entrance to town_
 ---
 
 1. [Story mode](./Wintermute.md) journal entry: What I know: Places: _Town of Milton_[↩︎](#fnref1)
-2. 
-3. 
 4. _Pastor's Note_ collectible[↩︎](#fnref4)
 5. _Park Warning Notice_ collectible[↩︎](#fnref5)
 6. [Grey Mother](./Grey%20Mother.md) _Cache location_ side-mission[↩︎](#fnref6)
 7. _Milton Post Office Collectible_[↩︎](#fnref7)
-8. 
 9. _Lost in the Storm_ collectible[↩︎](#fnref9)
 10. _Neighbour's Note_ collectible[↩︎](#fnref10)
-11. 
-12. 
 13. _Tearful Letter_ collectible[↩︎](#fnref13)
 14. Owned a [Distress Pistol](./Distress%20Pistol.md) as part of the cut [Light Up The Night](./Light%20Up%20The%20Night.md) side mission and in the Orca Gas Station Buffer Memory[↩︎](#fnref14)

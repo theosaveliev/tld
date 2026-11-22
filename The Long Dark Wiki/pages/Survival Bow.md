@@ -106,16 +106,12 @@ Note: The bleed-out time diminishes with higher levels of the [Archery](./Archer
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 300 minutes (5 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
 | Quantity | 1 |
-| **Template:iconlink plain** |  |
 |  | [Cured Gut](./Cured%20Gut.md) |
 |  | 2 |
 

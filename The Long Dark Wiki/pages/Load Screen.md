@@ -17,7 +17,6 @@ In The Long Dark, whenever you go into a building, cave or other transition, a l
 
 ## Background Images
 
--
 
 ## Tips
 
@@ -621,7 +620,6 @@ New officers always bunked in the Blackrock Barracks. One of their tasks was sup
 
 ## Loading Animations
 
--
 
 ## Trivia
 

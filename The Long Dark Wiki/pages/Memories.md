@@ -70,15 +70,15 @@ This section contains a list of the journal entries for the mission:
 ![](../assets/Office_%28Memories%29.png) Mackenzie will state he is getting cold. Pick up the following items within the office:
 
 - One Firestarter, such as
-  - **Template:iconlink**, located on the left side of the desk
+  - located on the left side of the desk
 - One piece of Tinder, such as
-  - **Template:iconlink**, located on the filing cabinet in the corner of the office near the window
-  - **Template:iconlink**, located on the filing cabinet in the corner of the office near the window
-  - **Template:iconlink**, located next to the [Wood Stove](./Wood%20Stove.md)
+  - located on the filing cabinet in the corner of the office near the window
+  - located on the filing cabinet in the corner of the office near the window
+  - located next to the [Wood Stove](./Wood%20Stove.md)
 - One piece of Fuel, such as
-  - **Template:iconlink**, located in the crate next to the [Wood Stove](./Wood%20Stove.md)
-  - **Template:iconlink**, located in the crate next to the [Wood Stove](./Wood%20Stove.md)
-  - **Template:iconlink**, located next to a metal bench across the plane if you leave the office
+  - located in the crate next to the [Wood Stove](./Wood%20Stove.md)
+  - located in the crate next to the [Wood Stove](./Wood%20Stove.md)
+  - located next to a metal bench across the plane if you leave the office
 
 Go to the [Wood Stove](./Wood%20Stove.md) located in the corner of the office and start a [Fire](./Fire.md) with the acquired materials.
 
@@ -112,14 +112,9 @@ Mackenzie will answer the ringing phone, with another Jackrabbit Remote Transpor
 
 ![](../assets/Jackrabbit_hanger.jpg) Load the following items from the central hanger into the Hatch located on the Floatplane:
 
-- **Template:iconlink**
-- **Template:iconlink**
 
 Optionally, load one the three following items also located on the table by the plane:
 
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
 
 Select [Mackenzie's Parka](./Mackenzie%27s%20Parka.md) after loading the plane to complete the mission and start the next cutscene.
 

@@ -59,13 +59,10 @@ Preparing Acorns can be a time and resource-intensive process, taking 10 minutes
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 10 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Acorns](./Acorns.md) |
 | Quantity | 1 |
 

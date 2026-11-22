@@ -49,35 +49,34 @@ _Trout\_Stew\_icon.png_
 
 **Item key:** GEAR\_CookedStewTrout
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 120.0 minutes (2 hour 0 minutes)
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 1
+**Required level:**  1
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md)
 
 **Quantity:** 0.50 kg
 
-**Template:iconlink plain**
+
 
 [Broth](./Broth.md)
 
 0.20 L
 
-**Template:iconlink plain**
+
 
 [Old Mill Flour](./Old%20Mill%20Flour.md)
 

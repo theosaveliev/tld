@@ -49,47 +49,46 @@ _Coastal\_Fishcakes\_icon.png_
 
 **Item key:** GAMEPLAY\_Fishcakes
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 25 minutes
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 5
+**Required level:**  5
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md)
 
 **Quantity:** 0.50 Kg
 
-**Template:iconlink plain**
+
 
 [Potato](./Potato.md)
 
 2
 
-**Template:iconlink plain**
+
 
 [Water (Potable)](./Water%20%28Potable%29.md)
 
 0.15 L
 
-**Template:iconlink plain**
+
 
 [Cooking Oil](./Cooking%20Oil.md)
 
 0.05 L
 
-**Template:iconlink plain**
+
 
 [Salt](./Salt.md)
 

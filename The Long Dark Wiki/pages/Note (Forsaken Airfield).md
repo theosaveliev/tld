@@ -40,5 +40,4 @@ WE'RE LEAVING! Can't stand the lights any longer. No sleep. Just no sleep. We're
 
 \* UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
 
-- 
   - Added to game.

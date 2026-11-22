@@ -22,5 +22,4 @@ Using the [Shotgun](./Shotgun.md) found in the region and hiding on terrain wher
 
 \* UPDATE **31 March 2026 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.52)):**
 
-- 
   - Added to game.

@@ -65,7 +65,6 @@ Jeremiah's Knife cannot be equipped, but may be selected to defend one's self at
 
 - On December 3rd, 2023, Jeremiah's Knife can be seen at 5:00 in the Part 4: Buried Echoes update for the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) (as seen in the video below). The knife, however, was not released in the update. This is the first time the knife has officially been seen since its removal in 2018.
 - Jeremiah's Knife was once again spotted in the May 13th, 2024 [official developer update](https://www.thelongdark.com/news/dev-diary-may-2024/), as part of the Misery Mode concept art. [¹](#fn1)
-- 
 
 ![The Knife seen at 5:00](../assets/The_Long_Dark_--_TALES_FROM_THE_FAR_TERRITORY_--_Part_Four_Update_Video.jpg)
 

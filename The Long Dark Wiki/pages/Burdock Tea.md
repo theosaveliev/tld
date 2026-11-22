@@ -59,16 +59,13 @@ Compared to Reishi Tea, Burdock Tea takes more effort to find materials for and 
 
 | Property | Details |
 | --- | --- |
-| **Template:pic link plain**[Cooking](./Cooking.md)** |  |
-|  | - |
+| [Cooking](./Cooking.md) |  |
 |  | 12.5 minutes |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Prepared Burdock](./Prepared%20Burdock.md) |
 | Quantity | 1 |
-| **Template:iconlink plain** |  |
 |  | [Water (Potable)](./Water%20%28Potable%29.md) |
 |  | 0.25 L |
 

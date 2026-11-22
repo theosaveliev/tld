@@ -48,7 +48,6 @@ A 100% frozen carcass cannot be harvested barehanded if the carcass is intact, r
 - 50% frozen level at Level 3
 - 75% frozen level at Level 4
 - 100% frozen level at Level 5
-- 
 
 Survivor's skill level also affects the freeze level at which unfrozen meat harvesting speed is used:
 
@@ -302,9 +301,9 @@ None
 
 [Rabbit Carcass](./Rabbit%20Carcass.md)
 
-0.80 kg / _(1.76 lb)_**Template:iconlink**
+0.80 kg / _(1.76 lb)_
 
-1.50 kg / _(3.3 lb)_**Template:iconlink**
+1.50 kg / _(3.3 lb)_
 
 1 x ![Fresh\_Rabbit\_Pelt\_icon.png](../assets/Fresh_Rabbit_Pelt_icon.png) [Fresh Rabbit Pelt](./Fresh%20Rabbit%20Pelt.md)
 
@@ -341,9 +340,9 @@ Harvesting a whole freshly killed animal often takes several hours to complete. 
 | [Deer](./Deer.md) (Stag) | 25.00 kg / _(55 lb)_**Template:pic link** | 25.00 kg / _(55 lb)_**Template:pic link** | 5 (5kg per bag) |
 | [Deer](./Deer.md) (Doe) | 15.00 kg / _(33 lb)_**Template:pic link** | 15.00 kg / _(33 lb)_**Template:pic link** | 3 (5kg per bag) |
 | [Moose](./Moose.md) | 60.00 kg / _(132 lb)_**Template:pic link** | 90.00 kg / _(198 lb)_**Template:pic link** | 6-9 (10kg per bag) |
-| [Poisoned Wolf](./Poisoned%20Wolf.md) | 0.00 kg / _(0 lb)_**Template:iconlink** | 0.00 kg / _(0 lb)_**Template:iconlink** | 0 |
-| [Timberwolf](./Timberwolf.md) | 5.00 kg / _(11 lb)_**Template:iconlink** | 10.00 kg / _(22 lb)_**Template:iconlink** | 1-2 (5kg per bag) |
-| [Wolf](./Wolf.md) | 5.00 kg / _(11 lb)_**Template:iconlink** | 10.00 kg / _(22 lb)_**Template:iconlink** | 1-2 (5kg per bag) |
+| [Poisoned Wolf](./Poisoned%20Wolf.md) | 0.00 kg / _(0 lb)_ | 0.00 kg / _(0 lb)_ | 0 |
+| [Timberwolf](./Timberwolf.md) | 5.00 kg / _(11 lb)_ | 10.00 kg / _(22 lb)_ | 1-2 (5kg per bag) |
+| [Wolf](./Wolf.md) | 5.00 kg / _(11 lb)_ | 10.00 kg / _(22 lb)_ | 1-2 (5kg per bag) |
 
 To quarter an animal, players have to interact with the animal carcass and select the _Quarter_ option. Players are notified of the amount of time and the number of calories that will be spent while quartering. A bladed tool must be used in order to begin quartering, and all bladed tools take the same amount of time to quarter a carcass. Quartering can be interrupted and resumed without loss of progress, so if the player wishes to do other things intermittently while quartering, they can interrupt the action whenever they feel the need and resume where they left off.
 

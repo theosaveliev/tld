@@ -51,14 +51,11 @@ Acorn Grounds can be used to make [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Cof
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 10 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
-| Tool | **Template:iconlink** |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) |
 | Quantity | 4 |
 
@@ -66,14 +63,11 @@ Acorn Grounds can be used to make [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Cof
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 10 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
-| Tool | **Template:iconlink** |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md) |
 | Quantity | 1 |
 

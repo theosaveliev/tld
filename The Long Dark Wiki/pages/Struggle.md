@@ -539,6 +539,3 @@ _A "Demon Wolf" in the [4 Days of Night Event](./4%20Days%20of%20Night%20Event.m
 1. Per hit[↩︎](#fnref1)
 2. Per hit[↩︎](#fnref2)
 3. Struggle is guaranteed to end after "Take Shot" is chosen (70% to flee, 30% to kill)[↩︎](#fnref3)
-4. 
-5. 
-6.

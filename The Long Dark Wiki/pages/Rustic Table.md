@@ -45,14 +45,11 @@ The Rustic Table can be harvested with a [Hatchet](./Hatchet.md) in 1 hour 30 mi
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 480 minutes (8 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Fir Firewood](./Fir%20Firewood.md) |
 | Quantity | 10 |
 

@@ -1,6 +1,6 @@
 # Rock Cache
 
-**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rock_Cache)
+**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rock_Cache)
 
 **Contents**
 
@@ -44,13 +44,10 @@ Rock caches do not lose condition over time, but food and clothing items inside 
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 15 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Stone](./Stone.md) |
 | Quantity | 50 |
 

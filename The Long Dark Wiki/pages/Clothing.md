@@ -3585,9 +3585,4 @@ _Jeremiah's\_Bearskin\_Coat\_icon.png_
 ---
 
 1. Can only be worn in the inner of the two slots. It is therefore impossible to wear two at once.[↩︎](#fnref1)
-2. 
 3. Can only be worn in the outer of the two slots. It is therefore impossible to wear two at once.[↩︎](#fnref3)
-4. 
-5. 
-6. 
-7.

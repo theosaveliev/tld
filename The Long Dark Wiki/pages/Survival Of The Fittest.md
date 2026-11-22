@@ -71,7 +71,6 @@ This episode has since been replaced by [Memories](./Memories.md).
 - See if you're strong enough to climb out of the ravine.
 - Explore the ravine.
 - You need food to survive. Scavenge what you can and eat until you're full.
-- 
 
 ### Day 5
 

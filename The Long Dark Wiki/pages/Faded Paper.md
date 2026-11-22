@@ -48,5 +48,4 @@ _The following text is transcribed from **Faded Paper**_
 
 \* UPDATE **5 December 2022 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.03)):**
 
-- 
   - Added to game.

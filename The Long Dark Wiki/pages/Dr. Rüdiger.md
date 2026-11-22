@@ -65,11 +65,6 @@ _No\_picture.png_
 
 ## Belongings
 
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
 
 ## Gallery
 

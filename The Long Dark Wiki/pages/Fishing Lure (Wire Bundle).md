@@ -70,19 +70,14 @@ Fishing Lure (Wire Bundle)
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 50.0 minutes |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Scrap Metal](./Scrap%20Metal.md) |
 | Quantity | 1 |
-| **Template:iconlink plain** |  |
 |  | [Crow Feather](./Crow%20Feather.md) |
 |  | 1 |
-| **Template:iconlink plain** |  |
 |  | [Wires](./Wires.md) |
 |  | 1 |
 

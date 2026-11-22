@@ -61,13 +61,11 @@ Cooking whitefish improves the [Cooking Skill](./Skills.md#Cooking). Using a [Co
 
 | Property | Details |
 | --- | --- |
-| **Template:pic link plain**[Cooking](./Cooking.md)** |  |
-|  | - |
+| [Cooking](./Cooking.md) |  |
 |  | 20 minutes |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) |
 | Quantity | 1 |
 

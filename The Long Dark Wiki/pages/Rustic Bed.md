@@ -39,20 +39,15 @@ Despite having a Backpack carry weight value, the bed cannot be picked up and pl
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 720 minutes (12 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cedar Firewood](./Cedar%20Firewood.md) |
 | Quantity | 10 |
-| **Template:iconlink plain** |  |
 |  | [Cloth](./Cloth.md) |
 |  | 12 |
-| **Template:iconlink plain** |  |
 |  | [Cured Gut](./Cured%20Gut.md) |
 |  | 2 |
 

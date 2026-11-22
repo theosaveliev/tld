@@ -53,7 +53,6 @@ _Anna\_Island\_Track\_Section\_4\_Map.png_
 
 - There is a [Repair Depot](./Repair%20Depot.md) at the western Railyard, just before the Aurora Gate bridge.
 
-- 
 
 ## Wildlife management
 

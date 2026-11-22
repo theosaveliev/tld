@@ -61,17 +61,13 @@ In [Wintermute](./Wintermute.md), its blueprint is unlocked by preserving nature
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 1500 minutes (25 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) |
 | Quantity | 4 |
-| **Template:iconlink plain** |  |
 |  | [Cured Gut](./Cured%20Gut.md) |
 |  | 4 |
 

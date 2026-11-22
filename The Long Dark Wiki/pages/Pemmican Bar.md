@@ -50,81 +50,79 @@ _Pemmican\_Bar\_icon.png_
 
 **Outside:** 0.800% per day
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 40 minutes
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 5
+**Required level:**  5
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Cured Meat](./Cured%20Meat.md)
 
 **Quantity:** 0.50 kg
 
-**Template:iconlink plain**
+
 
 [Rose Hip](./Rose%20Hip.md)
 
 15
 
-**Template:iconlink plain**
+
 
 [Animal Fat](./Animal%20Fat.md)
 
 0.50 kg
 
-**Template:iconlink plain**
+
 
 [Salt](./Salt.md)
 
 0.05 kg
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 40 minutes
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 5
+**Required level:**  5
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Cured Meat](./Cured%20Meat.md)
 
 **Quantity:** 0.50 kg
 
-**Template:iconlink plain**
+
 
 [Rose Hip](./Rose%20Hip.md)
 
 15
 
-**Template:iconlink plain**
+
 
 [Animal Fat](./Animal%20Fat.md)
 
 0.50 kg
 
-**Template:iconlink plain**
+
 
 [Salt](./Salt.md)
 

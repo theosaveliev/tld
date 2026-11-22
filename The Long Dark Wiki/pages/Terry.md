@@ -13,7 +13,6 @@
 - [Episode 5: The Light At The End Of All Things](#episode-5-the-light-at-the-end-of-all-things)
 - [A Cry For Help](#a-cry-for-help)
 - [Conflagration](#conflagration)
-- [Gallery](#gallery)
 - [Trivia](#trivia)
 
 **Terry**
@@ -99,8 +98,6 @@ Terry is then taken prisoner inside Cooper's Blind along with the other resident
 ### [Conflagration](./Conflagration.md)
 
 Terry is last seen in the bunker under the [Suzuki Radio Telescope](./Suzuki%20Radio%20Telescope.md), residing with the other survivors of Perseverance Mills after having escaped the town.
-
-## Gallery
 
 ## Trivia
 

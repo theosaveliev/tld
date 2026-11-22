@@ -15,7 +15,6 @@
 - [Lonely Lighthouse](#lonely-lighthouse)
 - [Hibernia Processing](#hibernia-processing)
 - [The Riken](#the-riken)
-- [Gallery](#gallery)
 - [Maps](#maps)
 - [Locations](#locations-1)
 - [Miscellaneous](#miscellaneous)
@@ -129,8 +128,6 @@ The Riken is a beached ship that features a [Forge](./Forge.md), which can be us
 A key function of The Riken is that once industrially produced tools are depleted ([Hunting Knives](./Hunting%20Knife.md), [Hatchets](./Hatchet.md), and Bullets), its Forge can be used to craft makeshift versions with [Scrap Metal](./Scrap%20Metal.md), [Cloth](./Cloth.md), and [Coal](./Coal.md) (the [Improvised Hatchet](./Improvised%20Hatchet.md), [Improvised Knife](./Improvised%20Knife.md), and [Arrowhead](./Arrowhead.md)). The Riken's Forge is one of only four in the game; the others are in the barn of the [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) in [Forlorn Muskeg](./Forlorn%20Muskeg.md), at [Maintenance Yard](./Maintenance%20Yard.md) in [Broken Railroad](./Broken%20Railroad.md), and, with the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) expansion, in the basement of the [Main Hangar](./Main%20Hangar.md) in [Forsaken Airfield](./Forsaken%20Airfield.md).
 
 The ship's uppermost deck can serve as a vantage point to look for and/or hunt [Wolves](./Wolf.md), [Deer](./Deer.md), or a [Bear](./Bear.md) that wander nearby. Also, [Hibernia Processing](./Hibernia%20Processing.md) for scavenging and [Little Island](./Little%20Island.md) to hunt rabbits and collect firewood are close by.
-
-## Gallery
 
 ### Maps
 

@@ -70,7 +70,7 @@ Antiseptic can be used to treat the following afflictions:
 
 |  | Affliction |
 | --- | --- |
-| **Template:iconlink plain** | [Infection Risk](./Infection%20Risk.md) |
+|  | [Infection Risk](./Infection%20Risk.md) |
 
 ## Gallery
 

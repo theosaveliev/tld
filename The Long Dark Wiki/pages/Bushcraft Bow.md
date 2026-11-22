@@ -41,25 +41,23 @@ _Bushcraft\_Bow\_icon.png_
 
 **Weight:** 0.50 kg (1.1 lbs)
 
--
 
--
 
 300 minutes (5 hour 0 minutes)
 
 **Requirements**
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Green Birch Sapling](./Green%20Birch%20Sapling.md)
 
 **Quantity:** 2
 
-**Template:iconlink plain**
+
 
 [Cured Gut](./Cured%20Gut.md)
 

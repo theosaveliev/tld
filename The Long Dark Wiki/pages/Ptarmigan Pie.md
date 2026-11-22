@@ -40,41 +40,40 @@ _Ptarmigan\_Pie\_icon.png_
 
 **Item key:** GAMEPLAY\_PtarmiganMeatPie
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 80.0 minutes (1 hour 20 minutes)
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 3
+**Required level:**  3
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)
 
 **Quantity:** 0.50 kg
 
-**Template:iconlink plain**
+
 
 [Water (Potable)](./Water%20%28Potable%29.md)
 
 0.15 L
 
-**Template:iconlink plain**
+
 
 [Cooking Oil](./Cooking%20Oil.md)
 
 0.05 L
 
-**Template:iconlink plain**
+
 
 [Old Mill Flour](./Old%20Mill%20Flour.md)
 

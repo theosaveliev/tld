@@ -58,17 +58,13 @@ Bearskin Coats provides two more degrees of warmth than the rare [Expedition Par
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 1800 minutes (30 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) |
 | Quantity | 2 |
-| **Template:iconlink plain** |  |
 |  | [Cured Gut](./Cured%20Gut.md) |
 |  | 4 |
 

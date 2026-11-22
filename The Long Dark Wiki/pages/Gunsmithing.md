@@ -106,7 +106,6 @@ Players can increase their Gunsmithing skill by:
 
 \* HOTFIX **18 December 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%202.md#1.69)):**
 
-- 
   - \[Gameplay\] The Gunpowder Can will no longer refill, when loading to a new area.
   - \[Gameplay\] Increased amount of Gunpowder used, when using it as an accelerant, from 0.01 to 0.1.
 

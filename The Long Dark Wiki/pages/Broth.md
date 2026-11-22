@@ -51,35 +51,34 @@ _Broth\_icon.png_
 
 **Item key:** GAMEPLAY\_Broth
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 56 minutes
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 1
+**Required level:**  1
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)
 
 **Quantity:** 1.00 kg
 
-**Template:iconlink plain**
+
 
 [Water (Potable)](./Water%20%28Potable%29.md)
 
 1.50 L
 
-**Template:iconlink plain**
+
 
 [Salt](./Salt.md)
 

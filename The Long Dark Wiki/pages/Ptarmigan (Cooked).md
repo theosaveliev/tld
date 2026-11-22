@@ -45,19 +45,18 @@ _Ptarmigan\_icon.png_
 
 **DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 37.5 minutes
 
 **Requirements**
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)
 

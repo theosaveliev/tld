@@ -45,33 +45,31 @@ _Cougar\_Claw\_Knife\_icon.png_
 
 **Item key:** GEAR\_CougarClawKnife
 
--
 
--
 
 220 minutes (3 hour 40 minutes)
 
 **Requirements**
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Cougar Claw](./Cougar%20Claw.md)
 
 **Quantity:** 1
 
-**Template:iconlink plain**
+
 
 [Scrap Metal](./Scrap%20Metal.md)
 
 3
 
-**Template:iconlink plain**
+
 
 [Cured Leather](./Cured%20Leather.md)
 

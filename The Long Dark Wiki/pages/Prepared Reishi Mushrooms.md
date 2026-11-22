@@ -59,13 +59,10 @@ Prepared Reishi Mushrooms have half the weight of their raw form, and no form of
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 15 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Reishi Mushroom](./Reishi%20Mushroom.md) |
 | Quantity | 2 |
 

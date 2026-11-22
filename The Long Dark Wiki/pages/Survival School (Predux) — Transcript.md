@@ -275,7 +275,6 @@ Jeremiah **(Text)**: "Ok, but don't wait too long. You won't get better at shoot
 
 - YES
 
-- 
 
 Mackenzie **(Text)**: "Yeah, I'll give it a shot."
 

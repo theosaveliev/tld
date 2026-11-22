@@ -49,53 +49,52 @@ _Dockworker's\_Pie\_icon.png_
 
 **Item key:** GAMEPLAY\_FishermansPie
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 80.0 minutes (1 hour 20 minutes)
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 5
+**Required level:**  5
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Potato](./Potato.md)
 
 **Quantity:** 2
 
-**Template:iconlink plain**
+
 
 [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md)
 
 0.50 kg
 
-**Template:iconlink plain**
+
 
 [Rockfish (Raw)](./Rockfish%20%28Raw%29.md)
 
 0.50 kg
 
-**Template:iconlink plain**
+
 
 [Water (Potable)](./Water%20%28Potable%29.md)
 
 0.10 L
 
-**Template:iconlink plain**
+
 
 [Cooking Oil](./Cooking%20Oil.md)
 
 0.05 L
 
-**Template:iconlink plain**
+
 
 [Salt](./Salt.md)
 

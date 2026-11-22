@@ -40,29 +40,28 @@ _Porridge\_icon.png_
 
 **Item key:** GAMEPLAY\_Porridge
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 20.0 minutes
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 1
+**Required level:**  1
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Water (Potable)](./Water%20%28Potable%29.md)
 
 **Quantity:** 0.25 L
 
-**Template:iconlink plain**
+
 
 [Running River Oats](./Running%20River%20Oats.md)
 

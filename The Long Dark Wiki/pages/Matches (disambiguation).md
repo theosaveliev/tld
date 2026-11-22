@@ -8,6 +8,6 @@ The following is a list of articles that share the same, or very similar, titles
 
 **Matches** may refer to:
 
-- **Template:iconlink**, wooden matches used as a temporary light source, for starting fires and lighting torches
+- wooden matches used as a temporary light source, for starting fires and lighting torches
 
-- **Template:iconlink**, cardboard matches used as a temporary light source, for starting fires and lighting torches
+- cardboard matches used as a temporary light source, for starting fires and lighting torches

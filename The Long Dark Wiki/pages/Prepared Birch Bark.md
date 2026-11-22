@@ -59,13 +59,10 @@ Prepared Birch Bark (0.05kg) has half the weight of it's materials (2 Birch Bark
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 5 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Birch Bark](./Birch%20Bark.md) |
 | Quantity | 2 |
 

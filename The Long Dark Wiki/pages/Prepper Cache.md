@@ -245,10 +245,3 @@ _Cache\_Clothes3_
 
 1. [Hinterland Forums - Bunkers (Preppers Caches) on Interloper?](http://steamcommunity.com/app/305620/discussions/0/343788552537593627/#c217691032448284194)[↩︎](#fnref1)
 2. Bashrobe, 2025. Trader Guide - The Long Dark. [https://youtu.be/J7b\_xItDkdg?si=MOU\_hzZ7JtnMMEtu&amp;t=631](https://youtu.be/J7b_xItDkdg?si=MOU_hzZ7JtnMMEtu&t=631)[↩︎](#fnref2)
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9.

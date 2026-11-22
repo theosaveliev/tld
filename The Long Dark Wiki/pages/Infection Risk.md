@@ -73,8 +73,8 @@ Infection Risk can be treated by using one of the following items:
 
 |  | Treatment | Number required |
 | --- | --- | --- |
-| **Template:iconlink plain** | [Antiseptic](./Antiseptic.md) | 1 |
-| **Template:iconlink plain** | [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md) | 1 |
+|  | [Antiseptic](./Antiseptic.md) | 1 |
+|  | [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md) | 1 |
 
 If a treatment is applied, the Infection Risk is removed without developing further into an Infection. If the player does not receive an infection within this time period, the affliction will be removed without treatment. It is very important to note that one can have multiple Infection Risks at once, even from the same wolf attack. Always carry at least two sets of blood loss and infection risk treatment.
 

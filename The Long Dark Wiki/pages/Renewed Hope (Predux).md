@@ -24,7 +24,6 @@ This mission has since been replaced by the current version of [Renewed Hope](./
 
 - Explore the guts of the Dam. Get through before daylight.
 
-- 
 
 ## Walkthrough
 

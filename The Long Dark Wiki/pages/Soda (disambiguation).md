@@ -9,9 +9,3 @@ The following is a list of articles that share the same, or very similar, titles
 **Soda** is a food/drink item in The Long Dark. One soda provides about one-third of your thirst bar. it also provides about 250 calories.
 
 The sodas in the game are as follows:
-
-- **Template:iconlink**
-
-- **Template:iconlink**
-
-- **Template:iconlink**

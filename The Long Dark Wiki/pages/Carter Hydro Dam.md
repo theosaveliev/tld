@@ -176,6 +176,5 @@ _The staging area_
 
 1. _Place: Carter Hydro Dam_, in-game [Journal](./Journal.md) knowledge[↩︎](#fnref1)
 2. _Carter Hydro Dam -- Safety and Shutdown Notice_ [collectible](./Collectibles.md)[↩︎](#fnref2)
-3. 
 4. Steam, _The "Silent Hunter" Update (v.233) -- We've Added Bows &amp; Improved Hunting!_, viewed 22 May 2015, &lt;[http://steamcommunity.com/games/305620/announcements/detail/235656499654813808](http://steamcommunity.com/games/305620/announcements/detail/235656499654813808)&gt;.[↩︎](#fnref4)
 5. Raphael van Lierop, 4 August 2017, [Tweet](https://twitter.com/RaphLife/status/893315911880290305)[↩︎](#fnref5)

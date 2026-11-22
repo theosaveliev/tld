@@ -43,7 +43,6 @@ This episode has since been replaced by [The Crash](./The%20Crash.md).
 - Follow the road. Where does it go? And could Astrid have followed it?
 - The big old house shows the first signs of habitation since you crashed. Investigate.
 
-- 
 
 ## Overview
 

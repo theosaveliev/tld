@@ -259,7 +259,6 @@ Behind each line is an abbreviation showing which character says it, Will (W), o
 - I can't carry this any further! (W)
 - I'm going to have to leave some of this gear behind.
 
-- 
 
 ## [Afflictions](./Afflictions.md)
 

@@ -51,13 +51,11 @@ Cooking trout improves the [Cooking Skill](./Skills.md#Cooking). Using a [Cookin
 
 | Property | Details |
 | --- | --- |
-| **Template:pic link plain**[Cooking](./Cooking.md)** |  |
-|  | - |
+| [Cooking](./Cooking.md) |  |
 |  | 10 minutes |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) |
 | Quantity | 1 |
 

@@ -46,5 +46,4 @@ _O.\_Gould\_location.jpg_
 
 \* UPDATE **22 October 2019 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.60)):**
 
-- 
   - Added to game.

@@ -30,9 +30,7 @@ _Improvised\_Down\_Bedroll\_icon.png_
 >
 > — In-game description
 
--
 
--
 
 360 minutes (6 hour 0 minutes)
 
@@ -40,23 +38,23 @@ _Improvised\_Down\_Bedroll\_icon.png_
 
 **Facility:** \[\[File:Anywhere icon.png
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Bedroll](./Bedroll.md)
 
 **Quantity:** 1
 
-**Template:iconlink plain**
+
 
 [Cloth](./Cloth.md)
 
 3
 
-**Template:iconlink plain**
+
 
 [Ptarmigan Down](./Ptarmigan%20Down.md)
 

@@ -79,17 +79,13 @@ Progress for Crafting this item will be stored in the Furniture Workbench's cont
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 360 minutes (6 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Fir Firewood](./Fir%20Firewood.md) |
 | Quantity | 10 |
-| **Template:iconlink plain** |  |
 |  | [Salt](./Salt.md) |
 |  | 8.00 kg |
 

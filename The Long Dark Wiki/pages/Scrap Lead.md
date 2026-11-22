@@ -44,14 +44,11 @@ Scrap Lead can also be found occasionally as a single piece when exploring the w
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 30 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
-| Tool | **Template:iconlink** |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Car Battery](./Car%20Battery.md) |
 | Quantity | 1 |
 

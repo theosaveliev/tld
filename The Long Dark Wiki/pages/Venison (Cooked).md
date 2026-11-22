@@ -56,13 +56,11 @@ Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked fo
 
 | Property | Details |
 | --- | --- |
-| **Template:pic link plain**[Cooking](./Cooking.md)** |  |
-|  | - |
+| [Cooking](./Cooking.md) |  |
 |  | 56.25 minutes |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
+| Facility |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Venison (Raw)](./Venison%20%28Raw%29.md) |
 | Quantity | 1.00 kg |
 

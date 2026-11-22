@@ -308,17 +308,13 @@ Despite having a Backpack carry weight value of 5.00 kg, a player made Work Benc
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 1080 minutes (18 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cedar Firewood](./Cedar%20Firewood.md) |
 | Quantity | 15 |
-| **Template:iconlink plain** |  |
 |  | [Workbench Vice](./Workbench%20Vice.md) |
 |  | 1 |
 

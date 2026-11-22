@@ -30,7 +30,6 @@ Progress for Crafting this item will be stored in the Furniture Workbench's cont
 
 The Rustic Storage Box is the only storage furniture item that can be picked up and placed back into the player's inventory once crafted and deployed from the Furniture Workbench. This allows it to be carried from one base to another, should the player wish to reuse it.
 
-- 
 
 ## Crafting
 
@@ -38,14 +37,11 @@ The Rustic Storage Box is the only storage furniture item that can be picked up 
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 360 minutes (6 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cedar Firewood](./Cedar%20Firewood.md) |
 | Quantity | 8 |
 

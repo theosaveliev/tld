@@ -54,14 +54,11 @@ _Model icon damaged_
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 30 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
-| Tool | **Template:iconlink** |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cloth](./Cloth.md) |
 | Quantity | 2 |
 

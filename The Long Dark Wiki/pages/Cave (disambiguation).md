@@ -178,7 +178,6 @@ The following is a list of articles that share the same, or very similar, titles
 
 - [Feedwater Cave](./Feedwater%20Cave.md)
 
-- 
 
 ## Sundered Pass
 
@@ -189,7 +188,6 @@ The following is a list of articles that share the same, or very similar, titles
 - **Cave system** with 4 entry points connecting [Idle Hideout](./Idle%20Hideout.md), [Prayerful Window](./Prayerful%20Window.md), and [Cascading Gap](./Cascading%20Gap.md).
 - [Abandoned Mine](./Abandoned%20Mine.md) with 2 cave entrances.
 
-- 
 
 ## Winding River
 

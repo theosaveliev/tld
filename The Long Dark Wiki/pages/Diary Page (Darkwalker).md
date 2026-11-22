@@ -107,5 +107,4 @@ I discarded the farsighted mask, and only bone remains. The gate is closed. Will
 
 \* UPDATE **29 Oct 2020 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.86)):**
 
-- 
   - Added to game.

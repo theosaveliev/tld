@@ -15,7 +15,6 @@
 - [Part One](#part-one)
 - [Part Two](#part-two)
 - [Part Three](#part-three)
-- [Gallery](#gallery)
 - [Redux Episode 2](#redux-episode-2)
 - [Predux Episode 2](#predux-episode-2)
 - [The Hunted Challenges](#the-hunted-challenges)
@@ -95,8 +94,6 @@ After completing part one, part two is unlocked and begins where the first part 
 ### Part Three
 
 The Old Bear is slated to appear in a third challenge.
-
-## Gallery
 
 ### Redux Episode 2
 

@@ -45,14 +45,11 @@ The Rustic Shelf can be harvested with a [Hatchet](./Hatchet.md) in 1 hour 15 mi
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 360 minutes (6 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cedar Firewood](./Cedar%20Firewood.md) |
 | Quantity | 8 |
 

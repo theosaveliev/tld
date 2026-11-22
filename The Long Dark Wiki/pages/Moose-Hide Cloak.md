@@ -56,17 +56,13 @@ Moose-Hide Cloaks are crafted torso wear with extremely high waterproof and the 
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 1000 minutes (16 hour 40 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Cured Moose Hide](./Cured%20Moose%20Hide.md) |
 | Quantity | 1 |
-| **Template:iconlink plain** |  |
 |  | [Cured Gut](./Cured%20Gut.md) |
 |  | 4 |
 
@@ -74,7 +70,6 @@ Moose-Hide Cloaks are crafted torso wear with extremely high waterproof and the 
 
 Moose Hides can be difficult to acquire due to the rarity and danger of moose, as well as requiring 10 days to [cure](./Curing.md); this makes repairing Moose-Hide Cloaks challenging. Instead, existing cloaks may be [harvested](./Harvesting.md) (yielding 1 cured moose hide) and then re-crafted into a new cloak. This process takes 16.67 hours longer than repairing and is more expensive with [Cured Guts](./Cured%20Gut.md): but allows repeated use of the same hide.
 
-- 
 
 Note: Crafting Moose-Hide Cloaks costs durability of the used tool (e.g. [hunting knife](./Hunting%20Knife.md)), though this is usually less resource-intensive than to kill another [moose](./Moose.md).
 

@@ -49,53 +49,52 @@ _Thomson\_Family\_Stew\_icon.png_
 
 **Item key:** GAMEPLAY\_VegetableStew
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 120.0 minutes (2 hour 0 minutes)
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 4
+**Required level:**  4
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Canned Corn](./Canned%20Corn.md)
 
 **Quantity:** 0.30 kg
 
-**Template:iconlink plain**
+
 
 [Carrot](./Carrot.md)
 
 0.40 kg
 
-**Template:iconlink plain**
+
 
 [Potato](./Potato.md)
 
 2
 
-**Template:iconlink plain**
+
 
 [Reishi Mushroom](./Reishi%20Mushroom.md)
 
 2
 
-**Template:iconlink plain**
+
 
 [Broth](./Broth.md)
 
 0.40 L
 
-**Template:iconlink plain**
+
 
 [Old Mill Flour](./Old%20Mill%20Flour.md)
 

@@ -61,13 +61,10 @@ Previously, before release of 0.423, "Faithful Cartographer," Old Man's Beard Wo
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 15 minutes |
 | **Requirements** |  |
 | Facility | \[\[File:Anywhere icon.png |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) |
 | Quantity | 3 |
 

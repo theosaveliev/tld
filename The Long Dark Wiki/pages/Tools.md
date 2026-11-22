@@ -188,7 +188,6 @@ _Torch\_icon.png_
 
 - Very limited light source time. Only practical when used indoors
 
-- 
 
 ### Fire Starting
 

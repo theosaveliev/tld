@@ -196,6 +196,4 @@ While a predator is tracking bait, it is not tracking the player, so you could d
 
 ---
 
-1. 
-2. 
 3. 1 Scent bar is added only when 3 separate stacks of these items are in the player's inventory due to bug[↩︎](#fnref3)

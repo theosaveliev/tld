@@ -81,13 +81,6 @@ Her keycard is found in a hidden room in [Bunker Omega](./Bunker%20Omega.md), li
 - ![Security\_Chief's\_Log\_14\_icon.png](../assets/Security_Chief%27s_Log_14_icon.png) [Security Chief's Log 14](./Security%20Chief%27s%20Log%2014.md)
 - ![Security\_Chief's\_Log\_23\_icon.png](../assets/Security_Chief%27s_Log_23_icon.png) [Security Chief's Log 23](./Security%20Chief%27s%20Log%2023.md)
 - ![Security\_Chief's\_Log\_29\_icon.png](../assets/Security_Chief%27s_Log_29_icon.png) [Security Chief's Log 29](./Security%20Chief%27s%20Log%2029.md)
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
-- **Template:iconlink**
 
 ## Gallery
 

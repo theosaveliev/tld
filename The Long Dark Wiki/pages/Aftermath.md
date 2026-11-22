@@ -50,4 +50,3 @@ _Abandoned Mine (Episode.3 - Finish)_
 
 | Mission details |
 | --- |
-|  |

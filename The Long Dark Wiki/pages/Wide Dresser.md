@@ -40,17 +40,13 @@ Despite having a Backpack carry weight value, the dresser cannot be picked up an
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 660 minutes (11 hour 0 minutes) |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Fir Firewood](./Fir%20Firewood.md) |
 | Quantity | 16 |
-| **Template:iconlink plain** |  |
 |  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
 |  | 6 |
 

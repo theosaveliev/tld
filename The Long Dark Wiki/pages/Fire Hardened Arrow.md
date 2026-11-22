@@ -68,17 +68,13 @@ Fire hardened arrows are unique in that they break instantly upon impact with al
 
 | Property | Details |
 | --- | --- |
-|  | - |
-|  | - |
 |  | 22 minutes |
 | **Requirements** |  |
-| Facility | **Template:iconlink** |
-| Tool | **Template:iconlink** |
+| Facility |  |
+| Tool |  |
 | **Materials** |  |
-| **Template:iconlink plain** |  |
 | Item | [Stick](./Stick.md) |
 | Quantity | 5 |
-| **Template:iconlink plain** |  |
 |  | [Crow Feather](./Crow%20Feather.md) |
 |  | 5 |
 

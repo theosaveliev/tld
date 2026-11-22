@@ -50,47 +50,46 @@ _Lily's\_Pancakes\_icon.png_
 
 **Item key:** GAMEPLAY\_PeachPancake
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 10.0 minutes
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 4
+**Required level:**  4
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Acorn Grounds](./Acorn%20Grounds.md)
 
 **Quantity:** 1
 
-**Template:iconlink plain**
+
 
 [Maple Syrup](./Maple%20Syrup.md)
 
 0.05 kg
 
-**Template:iconlink plain**
+
 
 [Pinnacle Peaches](./Pinnacle%20Peaches.md)
 
 0.50 kg
 
-**Template:iconlink plain**
+
 
 [Water (Potable)](./Water%20%28Potable%29.md)
 
 0.10 L
 
-**Template:iconlink plain**
+
 
 [Cooking Oil](./Cooking%20Oil.md)
 

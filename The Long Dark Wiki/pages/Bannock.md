@@ -40,35 +40,34 @@ _Bannock\_icon.png_
 
 **Item key:** GAMEPLAY\_Bannock
 
-**Template:pic link plain**[Cooking](./Cooking.md)**
+[Cooking](./Cooking.md)
 
--
 
 40.00 minutes
 
 **Requirements**
 
-**Required level:** **Template:pic link plain** 2
+**Required level:**  2
 
-**Facility:** **Template:iconlink**
+**Facility:** 
 
-**Tool:** **Template:iconlink**
+**Tool:** 
 
 **Materials**
 
-**Template:iconlink plain**
+
 
 **Item:** [Water (Potable)](./Water%20%28Potable%29.md)
 
 **Quantity:** 0.15 L
 
-**Template:iconlink plain**
+
 
 [Cooking Oil](./Cooking%20Oil.md)
 
 0.05 L
 
-**Template:iconlink plain**
+
 
 [Old Mill Flour](./Old%20Mill%20Flour.md)
 

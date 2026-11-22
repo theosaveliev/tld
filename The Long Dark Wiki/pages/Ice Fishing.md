@@ -511,7 +511,6 @@ Free-Formed ice fishing holes will disappear if left to freeze back to 100% unle
 | [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md) | No | Ocean ice flats | Salt Water |
 | [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) | No | Ocean ice flats | Salt Water |
 | [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) | No | Ocean ice flats | Salt Water |
-|  |  |  |  |
 
 ![The Free Form Ice Fishing spots on the river in Pleasant Valley](../assets/Pleasant_Valley_Ice_Fishing_Spots.jpg)
 

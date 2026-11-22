@@ -9,7 +9,6 @@
 - [Fatigue](#fatigue)
 - [Hunger](#hunger)
 - [Thirst](#thirst)
-- [Gallery](#gallery)
 
 ![The 4 Needs above the Condition bar.](../assets/Needs_Current.png)
 
@@ -68,5 +67,3 @@ When no more water is in the thirst bar, condition drains at a rate of 50% each 
 Dying of thirst will take 2 days when starting with 100% condition, which is half the time it would take to die from starvation. Most tasks can be performed while dehydrated, so a player can opt to only quench the thirst need before a restorative sleep as a strategy to conserve water.
 
 To fill the thirst bar, 0.66 liters (0.17 gallons) of water is required.
-
-## Gallery

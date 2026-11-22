@@ -51,7 +51,6 @@ There is also a single cabin at the Huts location.
 
 There is one [Whale Oil Tank](./Oil%20Tank.md) in this region and it is located at the Eastern Railyard before the transition to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md).
 
-- 
 
 ## Wildlife management
 

@@ -2295,12 +2295,12 @@ def _consume_recipe_skill_row(
         data.skill_values.append(value)
 
 
-def _update_recipe_infobox_section(
+def _update_recipe_infobox_heading(
     data: RecipeInfoboxData,
     cells: list[lhtml.HtmlElement],
     plain_values: list[str],
 ) -> bool:
-    """Update recipe section state and report whether the row was a heading."""
+    """Update the active section when a row contains a section heading."""
     recipe_heading = _recipe_section_heading(cells, plain_values)
     if recipe_heading is not None:
         data.section = recipe_heading
@@ -2315,19 +2315,36 @@ def _update_recipe_infobox_section(
             data.section = heading
         data.pending_requirement = None
         return True
+    return False
 
+
+def _update_recipe_infobox_material_section(
+    data: RecipeInfoboxData,
+    cells: list[lhtml.HtmlElement],
+    plain_values: list[str],
+) -> bool:
+    """Recognize Item and Quantity labels that begin or continue Materials."""
     row_label = plain_values[0].rstrip(":").casefold() if plain_values else ""
     if data.section == "requirements" and row_label == "item":
         data.section = "materials"
         data.pending_requirement = None
-        if len(cells) == 1:
-            return True
-
+        return len(cells) == 1
     return (
         data.section == "materials"
         and len(cells) == 1
         and row_label in {"item", "quantity"}
     )
+
+
+def _update_recipe_infobox_section(
+    data: RecipeInfoboxData,
+    cells: list[lhtml.HtmlElement],
+    plain_values: list[str],
+) -> bool:
+    """Update recipe section state and report whether the row was a heading."""
+    if _update_recipe_infobox_heading(data, cells, plain_values):
+        return True
+    return _update_recipe_infobox_material_section(data, cells, plain_values)
 
 
 def _consume_recipe_infobox_row(

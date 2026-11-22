@@ -16,6 +16,7 @@ from pipeline.markdown_export import (
     _build_material_usage_index,  # pyright: ignore[reportPrivateUsage]
     _convert_html_to_markdown,  # pyright: ignore[reportPrivateUsage]
     _copy_image,  # pyright: ignore[reportPrivateUsage]
+    _find_image_source,  # pyright: ignore[reportPrivateUsage]
     _expand_page,  # pyright: ignore[reportPrivateUsage]
     _export_one_page,  # pyright: ignore[reportPrivateUsage]
     _html_fragment_to_markdown,  # pyright: ignore[reportPrivateUsage]
@@ -123,6 +124,34 @@ def test_normalize_image_name_strips_mediawiki_namespace() -> None:
     assert normalize_image_name("../images/BEAR_Meat.png") == "bear_meat.png"
 
 
+def test_normalize_image_name_removes_markup_entities_and_format_characters() -> None:
+    assert (
+        normalize_image_name("[[File:Rustic_Chair_icon.png")
+        == "rustic_chair_icon.png"
+    )
+    assert (
+        normalize_image_name("bank_deposit_box_key_20_icon.png_\u200e")
+        == "bank_deposit_box_key_20_icon.png_"
+    )
+    assert (
+        normalize_image_name(
+            "the_long_dark_--_&quot;make_it_right&quot;_trailer.jpg"
+        )
+        == 'the_long_dark_--_"make_it_right"_trailer.jpg'
+    )
+
+
+def test_image_lookup_uses_exact_icon_variant_only(tmp_path: Path) -> None:
+    image_dir = tmp_path / "images"
+    image_dir.mkdir()
+    icon = image_dir / "Sure_Footing_icon.png"
+    icon.write_bytes(b"icon")
+    image_index = {normalize_image_name(icon.name): icon}
+
+    assert _find_image_source("Sure_Footing.png", image_index) == icon
+    assert _find_image_source("Sure_Footing_old.png", image_index) is None
+
+
 def test_image_index_uses_mismatch_directory_as_fallback(tmp_path: Path) -> None:
     image_dir = tmp_path / "images"
     mismatch_dir = tmp_path / "images_mismatch"
@@ -206,6 +235,24 @@ def test_resolve_internal_href_rewrites_local_page_links() -> None:
     assert (
         resolve_internal_href("#Habitat Area", "Main Page", mapping, {})
         == "#Habitat_Area"
+    )
+
+
+def test_resolve_internal_href_matches_punctuation_variants_uniquely() -> None:
+    mapping = {"Railyard (Track Section 1)": "Railyard (Track Section 1).md"}
+
+    assert (
+        resolve_internal_href(
+            "Railyard_Track_Section_1", "Anna Island -- Track Section 1", mapping, {}
+        )
+        == "./Railyard%20%28Track%20Section%201%29.md"
+    )
+    assert (
+        resolve_internal_href("Railyard Track Section 1", "Current", {
+            "Railyard (Track Section 1)": "first.md",
+            "Railyard Track Section 1": "second.md",
+        }, {})
+        == "./Railyard%20Track%20Section%201.md"
     )
 
 
@@ -361,6 +408,40 @@ def test_rewrite_html_links_resolves_articles_and_reports_missing_pages(
     assert 'href="https://example.com"' in rewritten
     assert "Missing page" in rewritten
     assert missing_links == {"Missing page"}
+    assert missing_images == set()
+
+
+def test_rewrite_html_links_ignores_non_article_namespaces_and_empty_images(
+    tmp_path: Path,
+) -> None:
+    missing_links: set[str] = set()
+    missing_images: set[str] = set()
+    fragment = """<p>
+<a href="Special:Upload">Upload</a>
+<a href="Template:Unknown navigation">Navigation</a>
+<a href="Category:Wildlife">Wildlife</a>
+<img src="" alt="Empty source" />
+</p>"""
+
+    rewritten = _rewrite_html_links(
+        fragment,
+        "Main Page",
+        {},
+        {},
+        {},
+        None,
+        tmp_path / "assets",
+        {},
+        {},
+        missing_links,
+        missing_images,
+    )
+
+    assert "Upload" in rewritten
+    assert "Navigation" in rewritten
+    assert "Wildlife" in rewritten
+    assert "<img" not in rewritten
+    assert missing_links == set()
     assert missing_images == set()
 
 

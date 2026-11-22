@@ -1128,7 +1128,8 @@ def test_image_bearing_infobox_renders_images_in_pipe_tables(
     assert "![Balaclava icon]" not in markdown
     assert "_Balaclava\\_icon.png_" not in markdown
     assert "**General**" in markdown
-    assert "Item Type" in markdown and "Clothing" in markdown
+    assert "Item Type" in markdown
+    assert "Clothing" in markdown
     assert "**Statistics**" in markdown
     assert "[Weight icon](../assets/Weight_icon.png)" in markdown
     assert "![Weight icon]" not in markdown

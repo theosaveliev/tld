@@ -50,7 +50,7 @@ TABLE_CELL_LIST_BREAK_THRESHOLD = 8
 REDUNDANT_IMAGE_FILENAME_CAPTION_RE = re.compile(
     r"(?P<image>!\[(?P<label>(?:\\.|[^\]])*)\]\((?P<destination>[^)]+)\))"
     r"(?:\s*/\s*|\s*<br\s*/?>\s*|\s*\r?\n\s*)"
-    r"_(?P<caption>(?:\\.|[^_])*)_",
+    r"_(?P<caption>(?:\\+_|[^_])*)_",
     re.IGNORECASE,
 )
 LEAKED_FILE_WRAPPER_PREFIX_RE = re.compile(
@@ -1945,8 +1945,8 @@ def _remove_redundant_image_filename_captions(value: str) -> str:
     """Drop captions that repeat an image's alt label or source filename."""
 
     def replace(match: re.Match[str]) -> str:
-        caption = re.sub(r"\\(.)", r"\1", match.group("caption")).strip()
-        label = re.sub(r"\\(.)", r"\1", match.group("label")).strip()
+        caption = re.sub(r"\\+([^\\w\\s])", r"\1", match.group("caption")).strip()
+        label = re.sub(r"\\+([^\\w\\s])", r"\1", match.group("label")).strip()
         destination = urllib.parse.unquote(
             urllib.parse.urlsplit(match.group("destination")).path
         )
@@ -2295,6 +2295,55 @@ def _consume_recipe_skill_row(
         data.skill_values.append(value)
 
 
+def _update_recipe_infobox_section(
+    data: RecipeInfoboxData,
+    cells: list[lhtml.HtmlElement],
+    plain_values: list[str],
+) -> bool:
+    """Update recipe section state and report whether the row was a heading."""
+    recipe_heading = _recipe_section_heading(cells, plain_values)
+    if recipe_heading is not None:
+        data.section = recipe_heading
+        data.pending_requirement = None
+        return True
+
+    if len(cells) == 1 and _is_table_section(cells[0]):
+        heading = plain_values[0].rstrip(":").casefold()
+        if heading == "item" and data.section == "requirements":
+            data.section = "materials"
+        elif heading not in {"item", "quantity"} or data.section != "materials":
+            data.section = heading
+        data.pending_requirement = None
+        return True
+
+    row_label = plain_values[0].rstrip(":").casefold() if plain_values else ""
+    if data.section == "requirements" and row_label == "item":
+        data.section = "materials"
+        data.pending_requirement = None
+        if len(cells) == 1:
+            return True
+
+    return (
+        data.section == "materials"
+        and len(cells) == 1
+        and row_label in {"item", "quantity"}
+    )
+
+
+def _consume_recipe_infobox_row(
+    data: RecipeInfoboxData, values: list[str], plain_values: list[str]
+) -> None:
+    """Dispatch one non-heading infobox row to its section parser."""
+    if not any(plain_values):
+        return
+    if data.section == "materials":
+        _consume_recipe_material_row(data, values, plain_values)
+    elif data.section == "requirements":
+        _consume_recipe_requirement_row(data, values, plain_values)
+    else:
+        _consume_recipe_skill_row(data, values, plain_values)
+
+
 def _parse_recipe_infobox(rows: list[list[lhtml.HtmlElement]]) -> RecipeInfoboxData:
     """Parse recipe metadata and material pairs from the infobox rows."""
     data = RecipeInfoboxData(
@@ -2308,40 +2357,9 @@ def _parse_recipe_infobox(rows: list[list[lhtml.HtmlElement]]) -> RecipeInfoboxD
     )
     for cells in rows:
         values, plain_values = _recipe_infobox_row_values(cells)
-        recipe_heading = _recipe_section_heading(cells, plain_values)
-        if recipe_heading is not None:
-            data.section = recipe_heading
-            data.pending_requirement = None
+        if _update_recipe_infobox_section(data, cells, plain_values):
             continue
-        if len(cells) == 1 and _is_table_section(cells[0]):
-            heading = plain_values[0].rstrip(":").casefold()
-            if heading == "item" and data.section == "requirements":
-                data.section = "materials"
-            elif heading not in {"item", "quantity"} or data.section != "materials":
-                data.section = heading
-            data.pending_requirement = None
-            continue
-        row_label = plain_values[0].rstrip(":").casefold() if plain_values else ""
-        if data.section == "requirements" and row_label == "item":
-            data.section = "materials"
-            data.pending_requirement = None
-            if len(cells) == 1:
-                continue
-        if (
-            data.section == "materials"
-            and len(cells) == 1
-            and row_label in {"item", "quantity"}
-        ):
-            continue
-        if not any(plain_values):
-            continue
-
-        if data.section == "materials":
-            _consume_recipe_material_row(data, values, plain_values)
-        elif data.section == "requirements":
-            _consume_recipe_requirement_row(data, values, plain_values)
-        else:
-            _consume_recipe_skill_row(data, values, plain_values)
+        _consume_recipe_infobox_row(data, values, plain_values)
 
     if data.pending_material:
         data.materials.append((data.pending_material, ""))
@@ -2523,6 +2541,40 @@ def _render_other_html_table(
     return _render_generic_table(rows)
 
 
+def _render_html_table_content(
+    rows: list[list[lhtml.HtmlElement]],
+    table_classes: list[str],
+    has_images: bool,
+    use_html_line_breaks: bool,
+) -> str:
+    """Choose the Markdown representation for an HTML table."""
+    if "gallery" in table_classes:
+        return _render_gallery_table(rows)
+    if "uses-material-list" in table_classes:
+        return _render_generic_table(rows, use_html_line_breaks=use_html_line_breaks)
+    if _is_recipe_infobox(rows):
+        return _render_recipe_infobox_table(rows)
+    if "infobox" in table_classes:
+        return (
+            _render_image_layout_table(rows)
+            if has_images
+            else _render_infobox_table(rows)
+        )
+    if _table_has_list_content(rows):
+        return (
+            _render_list_content_table(rows)
+            if _table_is_single_column(rows)
+            else _render_generic_table(rows, use_html_line_breaks=use_html_line_breaks)
+        )
+    if has_images and any(_html_tag(cell) == "th" for cell in rows[0]):
+        return _render_generic_table(rows, use_html_line_breaks=True)
+    if has_images:
+        return _render_image_layout_table(rows)
+    if _table_has_wide_row(rows):
+        return _render_generic_table(rows)
+    return _render_other_html_table(rows, table_classes, has_images, "")
+
+
 def _render_html_table(node: lhtml.HtmlElement) -> str:
     """Convert infoboxes, galleries, and data tables to Markdown."""
     rows = _table_rows(node)
@@ -2543,32 +2595,9 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
         for child in cell.iter()
     )
     use_html_line_breaks = has_images or _table_has_long_list_cell(rows)
-    if "gallery" in table_classes:
-        table = _render_gallery_table(rows)
-    elif "uses-material-list" in table_classes:
-        table = _render_generic_table(rows, use_html_line_breaks=use_html_line_breaks)
-    elif _is_recipe_infobox(rows):
-        table = _render_recipe_infobox_table(rows)
-    elif "infobox" in table_classes:
-        table = (
-            _render_image_layout_table(rows)
-            if has_images
-            else _render_infobox_table(rows)
-        )
-    elif _table_has_list_content(rows):
-        table = (
-            _render_list_content_table(rows)
-            if _table_is_single_column(rows)
-            else _render_generic_table(rows, use_html_line_breaks=use_html_line_breaks)
-        )
-    elif has_images and any(_html_tag(cell) == "th" for cell in rows[0]):
-        table = _render_generic_table(rows, use_html_line_breaks=True)
-    elif has_images:
-        table = _render_image_layout_table(rows)
-    elif _table_has_wide_row(rows):
-        table = _render_generic_table(rows)
-    else:
-        table = _render_other_html_table(rows, table_classes, has_images, caption)
+    table = _render_html_table_content(
+        rows, table_classes, has_images, use_html_line_breaks
+    )
     return f"**{caption}**\n\n{table}" if caption else table
 
 

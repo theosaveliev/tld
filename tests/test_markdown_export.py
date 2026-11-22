@@ -956,6 +956,24 @@ def test_image_bearing_multi_column_list_table_preserves_line_breaks() -> None:
     assert " / - First detail / - Second detail" not in markdown
 
 
+def test_multi_column_table_with_long_lists_keeps_list_line_breaks() -> None:
+    fragment = """<table><tbody>
+<tr><th>Region</th><th>Locations</th></tr>
+<tr><td>Sample Region</td><td><ul>
+<li>Location 1</li><li>Location 2</li><li>Location 3</li>
+<li>Location 4</li><li>Location 5</li><li>Location 6</li>
+<li>Location 7</li><li>Location 8</li><li>Location 9</li>
+</ul></td></tr>
+</tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "| Region | Locations |" in markdown
+    assert "<br>- Location 1<br>- Location 2" in markdown
+    assert "- Location 9 |" in markdown
+    assert " / - Location 1" not in markdown
+
+
 def test_multi_column_html_table_with_list_cells_keeps_table_structure() -> None:
     fragment = """<table><tbody>
 <tr><th>Weather</th><th>Effects</th></tr>

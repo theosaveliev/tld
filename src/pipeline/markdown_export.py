@@ -846,13 +846,22 @@ def _detect_image_suffix(source: Path) -> str:
 def _find_image_source(
     name: str, image_index: dict[str, Path]
 ) -> Path | None:
-    """Find an exact asset or one unambiguous icon variant for an image target."""
+    """Find an exact asset or one unambiguous icon/extension variant."""
     key = normalize_image_name(name)
     source = image_index.get(key)
     if source is not None:
         return source
 
     requested = Path(key)
+    if not requested.suffix:
+        matches = {
+            path
+            for indexed_name, path in image_index.items()
+            if Path(indexed_name).stem == requested.name
+        }
+        if len(matches) == 1:
+            return matches.pop()
+
     suffix = requested.suffix or ".png"
     icon_key = f"{requested.stem}_icon{suffix}"
     return image_index.get(icon_key)

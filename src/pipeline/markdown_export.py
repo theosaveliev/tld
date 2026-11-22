@@ -1640,7 +1640,7 @@ def _rewrite_heading_anchor_spans(value: str) -> str:
 def _normalize_markdown_list_indentation(value: str) -> str:
     """Dedent indented root unordered lists without changing ordered sublists."""
     output: list[str] = []
-    list_stack: list[tuple[int, bool]] = []
+    list_stack: list[int] = []
     base_indent = 0
     fence: tuple[str, int] | None = None
 
@@ -1653,7 +1653,7 @@ def _normalize_markdown_list_indentation(value: str) -> str:
         )
         fence_match = FENCED_CODE_RE.match(fence_line)
         if fence is not None:
-            output.append(line)
+            output.append(fence_line)
             if (
                 fence_match is not None
                 and fence_match.group(1)[0] == fence[0]
@@ -1668,11 +1668,11 @@ def _normalize_markdown_list_indentation(value: str) -> str:
         if list_match is not None:
             indent = len(list_match.group("indent"))
             is_unordered = list_match.group("marker") in {"-", "+", "*"}
-            while list_stack and indent <= list_stack[-1][0]:
+            while list_stack and indent <= list_stack[-1]:
                 list_stack.pop()
             if not list_stack:
                 base_indent = indent if is_unordered else 0
-            list_stack.append((indent, is_unordered))
+            list_stack.append(indent)
             output.append(line[base_indent:])
             fence = (
                 (fence_match.group(1)[0], len(fence_match.group(1)))
@@ -1682,10 +1682,9 @@ def _normalize_markdown_list_indentation(value: str) -> str:
             continue
 
         if not line.strip():
-            output.append(line[base_indent:] if list_stack and base_indent else line)
+            output.append(line.rstrip(" \\t"))
             continue
 
-        leading_indent = len(line) - len(line.lstrip(" "))
         if list_stack and base_indent and leading_indent >= base_indent:
             normalized = line[base_indent:]
             output.append(normalized)

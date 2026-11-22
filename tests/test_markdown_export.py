@@ -1271,7 +1271,7 @@ def test_html_table_with_list_cells_renders_as_markdown_lists() -> None:
     assert "| Column 1 |" not in markdown
 
 
-def test_short_lists_in_multi_column_tables_keep_line_breaks() -> None:
+def test_headerless_multi_column_list_table_renders_as_plain_lists() -> None:
     fragment = """<table><tbody><tr>
 <td><ul><li>East Railyard</li><li>West Railyard</li>
 <li>Bridge</li><li>Huts</li></ul></td>
@@ -1280,10 +1280,11 @@ def test_short_lists_in_multi_column_tables_keep_line_breaks() -> None:
 
     markdown = _html_fragment_to_markdown(fragment)
 
-    assert markdown.startswith("| Column 1 | Column 2 |")
-    assert "- East Railyard<br>- West Railyard<br>- Bridge<br>- Huts" in markdown
-    assert "- To Port Remnant<br>- To Track Section 2" in markdown
-    assert " / - West Railyard" not in markdown
+    assert not markdown.startswith("|")
+    assert "- East Railyard\n- West Railyard\n- Bridge\n- Huts" in markdown
+    assert "- To Port Remnant\n- To Track Section 2" in markdown
+    assert "Column 1" not in markdown
+    assert "Column 2" not in markdown
 
 
 def test_multirow_table_headers_expand_rowspan_and_colspan() -> None:
@@ -1654,6 +1655,28 @@ def test_page_markdown_removes_orphan_language_footer_after_empty_section() -> N
 
     assert "## Update History" not in markdown
     assert "[ru:" not in markdown
+
+
+def test_page_markdown_dedents_root_lists_and_preserves_nested_indentation() -> None:
+    body = """## Timeline
+
+  - First event
+    - Nested event
+      - Deeply nested event
+  - Second event
+
+## Next section
+
+  - Another root event
+"""
+
+    markdown = _page_markdown("Timeline", [], body, None)
+
+    assert "\\n- First event\\n" in markdown
+    assert "\\n  - Nested event\\n" in markdown
+    assert "\\n    - Deeply nested event\\n" in markdown
+    assert "\\n- Second event\\n" in markdown
+    assert "\\n- Another root event\\n" in markdown
 
 
 def test_page_markdown_strips_html_tags_and_decodes_visible_entities() -> None:

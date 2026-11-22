@@ -1863,7 +1863,14 @@ def _render_recipe_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     section = ""
 
     for cells in rows:
-        values = [_markdown_table_cell(cell).strip() for cell in cells]
+        values = [
+            re.sub(
+                r"!\[[^\]]*\]\([^)]+\)\s*",
+                "",
+                _markdown_table_cell(cell),
+            ).strip()
+            for cell in cells
+        ]
         plain_values = [cell.text_content().strip() for cell in cells]
         if len(cells) == 1 and _is_table_section(cells[0]):
             section = plain_values[0].casefold()
@@ -2039,6 +2046,8 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
         table = _render_gallery_table(rows)
     elif "uses-material-list" in table_classes:
         table = _render_generic_table(rows)
+    elif "infobox" in table_classes and _is_recipe_infobox(rows):
+        table = _render_recipe_infobox_table(rows)
     elif has_images:
         table = _render_image_layout_table(rows)
     else:
@@ -2047,10 +2056,7 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
             if quote is not None:
                 return f"**{caption}**\n\n{quote}" if caption else quote
         if "infobox" in table_classes:
-            if _is_recipe_infobox(rows):
-                table = _render_recipe_infobox_table(rows)
-            else:
-                table = _render_infobox_table(rows)
+            table = _render_infobox_table(rows)
         else:
             table = _render_generic_table(rows)
     return f"**{caption}**\n\n{table}" if caption else table

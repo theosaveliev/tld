@@ -2637,7 +2637,10 @@ def _convert_html_to_markdown(
     pandoc: str, rewritten_html: str, note: str
 ) -> tuple[str, str, bool]:
     """Convert rewritten HTML to Markdown, normalizing any HTML Pandoc preserves."""
-    if _contains_custom_render_table(rewritten_html):
+    recovered_unclosed_table = (
+        "Recovered from Pandoc's unexpected end of input" in note
+    )
+    if _contains_custom_render_table(rewritten_html) and not recovered_unclosed_table:
         return _html_fragment_to_markdown(rewritten_html), note, False
 
     try:

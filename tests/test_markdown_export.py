@@ -131,7 +131,7 @@ def test_normalize_image_name_removes_markup_entities_and_format_characters() ->
     )
     assert (
         normalize_image_name("bank_deposit_box_key_20_icon.png_\u200e")
-        == "bank_deposit_box_key_20_icon.png_"
+        == "bank_deposit_box_key_20_icon.png"
     )
     assert (
         normalize_image_name(
@@ -1562,7 +1562,9 @@ def test_sanitize_expanded_wikitext_repairs_common_table_attributes() -> None:
         '|style="background-color: #3C3A53; width:15%; vertical-align:top;"'
         "|Start location"
     ) in sanitized
-    assert "| &nbsp;" in sanitized
+    assert "sortable\"\" " not in sanitized
+    assert "11em;\"\"" not in sanitized
+    assert sanitized.endswith("| &nbsp;\n|}")
 
 
 def test_sanitize_expanded_wikitext_ignores_reference_tags_inside_comments() -> None:

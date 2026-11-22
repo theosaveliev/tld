@@ -355,6 +355,10 @@ def _lookup_title_filename(title: str, title_to_filename: dict[str, str]) -> str
         if alias_filename is not None:
             return alias_filename
 
+    filename = title_to_filename.get(title)
+    if filename is not None:
+        return filename
+
     compact = _compact_title_key(title)
     if compact:
         compact_candidates = {
@@ -364,10 +368,6 @@ def _lookup_title_filename(title: str, title_to_filename: dict[str, str]) -> str
         }
         if len(compact_candidates) > 1:
             return None
-
-    filename = title_to_filename.get(title)
-    if filename is not None:
-        return filename
 
     folded = title.casefold()
     candidates = {
@@ -474,9 +474,9 @@ def _resolve_page_destination(
 
     destination = "./" + _safe_destination(filename)
     if key == normalize_title(current_title) and fragment:
-        destination = "#" + _safe_destination(fragment)
+        destination = "#" + fragment
     elif fragment:
-        destination += "#" + _safe_destination(fragment)
+        destination += "#" + fragment
     return destination
 
 
@@ -496,7 +496,7 @@ def resolve_internal_href(
         destination = href
     elif href.startswith("#"):
         fragment = urllib.parse.unquote(href[1:]).replace(" ", "_")
-        destination = "#" + _safe_destination(fragment)
+        destination = "#" + fragment
     else:
         parsed = urllib.parse.urlsplit(href)
         scheme = parsed.scheme.casefold()
@@ -821,7 +821,7 @@ def _repair_malformed_wikitext_table_attributes(value: str) -> str:
         ),
         cleaned,
     )
-    return WIKITEXT_EMPTY_CELL_LINE_RE.sub(r"\g<marker> &nbsp;", cleaned)
+    return WIKITEXT_EMPTY_CELL_LINE_RE.sub(r"\g<marker>&nbsp;", cleaned)
 
 
 def _sanitize_expanded_wikitext(value: str) -> str:
@@ -1095,12 +1095,18 @@ def _add_heading_anchor_alias(
     heading.addprevious(anchor)
 
 
-def _heading_version_alias(label: str) -> str | None:
-    """Return a release-version prefix that Fandom commonly uses as an anchor."""
-    match = re.search(
-        r"(?<![0-9])v?(?P<version>\d+\.\d+[a-z]?)\b", label, re.IGNORECASE
+def _heading_version_aliases(label: str) -> list[str]:
+    """Return every release version in a heading as a legacy anchor alias."""
+    return list(
+        dict.fromkeys(
+            match.group("version")
+            for match in re.finditer(
+                r"(?<![0-9.])v?(?P<version>\d+\.\d+[a-z]?)(?![0-9.])",
+                label,
+                re.IGNORECASE,
+            )
+        )
     )
-    return match.group("version") if match is not None else None
 
 
 def _add_mediawiki_heading_ids(root: lhtml.HtmlElement) -> None:
@@ -1127,12 +1133,18 @@ def _add_mediawiki_heading_ids(root: lhtml.HtmlElement) -> None:
         slug_count = used_slugs.get(slug, 0)
         used_slugs[slug] = slug_count + 1
         slug_alias = f"{slug}-{slug_count}" if slug_count else slug
+        sentence_case = base[:1].upper() + base[1:].lower()
+        word_title_case = "_".join(
+            word[:1].upper() + word[1:].lower() for word in base.split("_")
+        )
         aliases = [
             identifier,
             base,
             base.casefold(),
+            sentence_case,
+            word_title_case,
             slug_alias,
-            _heading_version_alias(label),
+            *_heading_version_aliases(label),
         ]
         for alias in aliases:
             if alias:
@@ -1293,6 +1305,60 @@ def _rewrite_article_anchor(
         link.set("href", destination)
 
 
+def _external_interwiki_href(href: str) -> str | None:
+    """Convert MediaWiki interwiki targets to ordinary external URLs for sites."""
+    target, separator, fragment = href.partition("#")
+    community = re.fullmatch(r"w:c:([^:]+):(.+)", target, re.IGNORECASE)
+    if community is not None:
+        article = urllib.parse.quote(
+            urllib.parse.unquote(community.group(2)).replace(" ", "_"),
+            safe="!def _rewrite_anchor_nodes(
+    root: lhtml.HtmlElement,'()*+,-._~:",
+        )
+        result = f"https://{community.group(1)}.fandom.com/wiki/{article}"
+    else:
+        wikipedia = re.fullmatch(r"(?:wikipedia|w):(.+)", target, re.IGNORECASE)
+        wiktionary = re.fullmatch(r"wikt:(.+)", target, re.IGNORECASE)
+        language = re.fullmatch(r"([a-z]{2,3}):(.+)", target, re.IGNORECASE)
+        map_namespace = re.fullmatch(r"map:(.+)", target, re.IGNORECASE)
+        if wikipedia is not None:
+            article = urllib.parse.quote(
+                urllib.parse.unquote(wikipedia.group(1)).replace(" ", "_"),
+                safe="!def _rewrite_anchor_nodes(
+    root: lhtml.HtmlElement,'()*+,-._~:",
+            )
+            result = f"https://en.wikipedia.org/wiki/{article}"
+        elif wiktionary is not None:
+            article = urllib.parse.quote(
+                urllib.parse.unquote(wiktionary.group(1)).replace(" ", "_"),
+                safe="!def _rewrite_anchor_nodes(
+    root: lhtml.HtmlElement,'()*+,-._~:",
+            )
+            result = f"https://en.wiktionary.org/wiki/{article}"
+        elif (
+            language is not None
+            and language.group(1).casefold() not in {"w", "wk"}
+        ):
+            article = urllib.parse.quote(
+                urllib.parse.unquote(language.group(2)).replace(" ", "_"),
+                safe="!def _rewrite_anchor_nodes(
+    root: lhtml.HtmlElement,'()*+,-._~:",
+            )
+            result = (
+                f"https://{language.group(1).lower()}.wikipedia.org/wiki/{article}"
+            )
+        elif map_namespace is not None:
+            article = urllib.parse.quote(
+                "Map:" + urllib.parse.unquote(map_namespace.group(1)),
+                safe="!def _rewrite_anchor_nodes(
+    root: lhtml.HtmlElement,'()*+,-._~:",
+            )
+            result = f"https://thelongdark.fandom.com/wiki/{article}"
+        else:
+            return None
+    return result + ("#" + fragment if separator else "")
+
+
 def _rewrite_anchor_nodes(
     root: lhtml.HtmlElement,
     current_title: str,
@@ -1309,7 +1375,13 @@ def _rewrite_anchor_nodes(
     """Rewrite article and file anchors to local Markdown destinations."""
     for link in list(root.iter("a")):
         href = link.get("href")
-        if not href or _is_discarded_anchor(link, href):
+        if not href:
+            continue
+        external_href = _external_interwiki_href(href)
+        if external_href is not None:
+            link.set("href", external_href)
+            continue
+        if _is_discarded_anchor(link, href):
             continue
         if _rewrite_namespace_anchor(
             link,
@@ -1398,7 +1470,136 @@ def _page_markdown(
     document = _remove_redundant_image_filename_captions_from_document(document)
     document = _normalize_markdown_emphasis(document)
     document = _normalize_markdown_headings(document)
-    return _clean_visible_markdown_artifacts(document)
+    document = _clean_visible_markdown_artifacts(document)
+    document = _strip_trailing_empty_markdown_sections(document)
+    document = _rewrite_heading_anchor_spans(document)
+    return _normalize_markdown_blank_lines(document)
+
+
+MARKDOWN_HEADING_RE = re.compile(
+    r"^ {0,3}(?P<marks>#{2,6})[ \t]+(?P<label>.+?)\s*#*\s*$"
+)
+MARKDOWN_ANCHOR_SPAN_RE = re.compile(
+    r'<span\s+id="(?P<identifier>[^"]+)"\s*></span>', re.IGNORECASE
+)
+
+
+def _markdown_anchor_span_ids(line: str) -> list[str]:
+    """Return IDs when a line contains only generated empty anchor spans."""
+    matches = list(MARKDOWN_ANCHOR_SPAN_RE.finditer(line))
+    if not matches or MARKDOWN_ANCHOR_SPAN_RE.sub("", line).strip():
+        return []
+    return [html.unescape(match.group("identifier")) for match in matches]
+
+
+def _strip_trailing_empty_markdown_sections(value: str) -> str:
+    """Remove empty headings at the end of an article and their anchor spans."""
+    lines = value.splitlines()
+    while lines:
+        last = len(lines) - 1
+        while last >= 0 and not lines[last].strip():
+            last -= 1
+        if last < 0 or MARKDOWN_HEADING_RE.fullmatch(lines[last]) is None:
+            break
+        del lines[last:]
+        while lines and not lines[-1].strip():
+            lines.pop()
+        while lines and _markdown_anchor_span_ids(lines[-1]):
+            lines.pop()
+            while lines and not lines[-1].strip():
+                lines.pop()
+    return "\n".join(lines).rstrip() + ("\n" if lines else "")
+
+
+def _rewrite_heading_anchor_spans(value: str) -> str:
+    """Replace visible empty heading spans with hidden Cambium-compatible anchors."""
+    lines = value.splitlines()
+    output: list[str] = []
+    index = 0
+    fence: tuple[str, int] | None = None
+    while index < len(lines):
+        line = lines[index]
+        fence_match = FENCED_CODE_RE.match(line)
+        if fence_match is not None:
+            marker = fence_match.group(1)
+            if fence is None:
+                fence = (marker[0], len(marker))
+            elif marker[0] == fence[0] and len(marker) >= fence[1]:
+                fence = None
+            output.append(line)
+            index += 1
+            continue
+        if fence is not None:
+            output.append(line)
+            index += 1
+            continue
+
+        identifiers = _markdown_anchor_span_ids(line)
+        if not identifiers:
+            output.append(line)
+            index += 1
+            continue
+
+        next_index = index + 1
+        while next_index < len(lines) and not lines[next_index].strip():
+            next_index += 1
+        if (
+            next_index >= len(lines)
+            or MARKDOWN_HEADING_RE.fullmatch(lines[next_index]) is None
+        ):
+            output.append(line)
+            index += 1
+            continue
+
+        heading = lines[next_index]
+        heading_match = MARKDOWN_HEADING_RE.fullmatch(heading)
+        assert heading_match is not None
+        label = heading_match.group("label")
+        label = re.sub(r"\[([^]]+)\]\([^)]+\)", r"\1", label)
+        label = re.sub(chr(96), "", label)
+        slug = _markdown_heading_slug(html.unescape(label))
+        preferred = next(
+            (
+                identifier
+                for identifier in identifiers
+                if identifier == slug
+                or re.fullmatch(re.escape(slug) + r"-\d+", identifier)
+            ),
+            slug or identifiers[0],
+        )
+        aliases = list(
+            dict.fromkeys(identifier for identifier in identifiers if identifier)
+        )
+        for alias in aliases:
+            if alias != preferred:
+                output.extend((f"<!-- #{alias} -->", "\u200b", ""))
+        output.append(f"<!-- #{preferred} -->")
+        output.append(heading)
+        index = next_index + 1
+
+    result = "\n".join(output)
+    return result + ("\n" if value.endswith("\n") else "")
+
+
+def _normalize_markdown_blank_lines(value: str) -> str:
+    """Collapse repeated blank lines outside fenced code blocks."""
+    output: list[str] = []
+    fence: tuple[str, int] | None = None
+    for line in value.splitlines():
+        match = FENCED_CODE_RE.match(line)
+        if match is not None:
+            marker = match.group(1)
+            if fence is None:
+                fence = (marker[0], len(marker))
+            elif marker[0] == fence[0] and len(marker) >= fence[1]:
+                fence = None
+            output.append(line)
+            continue
+        if fence is None and not line.strip():
+            if output and not output[-1].strip():
+                continue
+        output.append(line)
+    return "\n".join(output).rstrip() + "\n"
 
 
 MARKDOWN_SPECIAL_CHARS = frozenset("\\`*_{}[]()#+-.!|>")
@@ -1917,53 +2118,108 @@ def _expand_page(
     return expanded, "", 0, deferred_material_tables
 
 
+PANDOC_UNEXPECTED_REF_CLOSE_RE = re.compile(
+    r'line\s+(?P<line>\d+),\s*column\s+(?P<column>\d+).*?'
+    r'unexpected\s+\(TagClose\s+"ref",\s*"</ref>"\)',
+    re.IGNORECASE | re.DOTALL,
+)
+
+
+def _remove_pandoc_reported_ref_closer(value: str, error: Exception) -> str | None:
+    """Remove only the closing ref tag identified by Pandoc's parser location."""
+    match = PANDOC_UNEXPECTED_REF_CLOSE_RE.search(str(error))
+    if match is None:
+        return None
+    lines = value.splitlines(keepends=True)
+    line_number = int(match.group("line")) - 1
+    if line_number < 0 or line_number >= len(lines):
+        return None
+    closing_tags = list(re.finditer(r"</ref\s*>", lines[line_number], re.IGNORECASE))
+    if not closing_tags:
+        return None
+    column = max(0, int(match.group("column")) - 1)
+    target = min(closing_tags, key=lambda item: abs(item.start() - column))
+    lines[line_number] = (
+        lines[line_number][: target.start()] + lines[line_number][target.end() :]
+    )
+    return "".join(lines)
+
+
 def _render_mediawiki_html(
     page: DumpPage,
     expanded: str,
     pandoc: str,
     deferred_material_tables: dict[str, str] | None = None,
 ) -> tuple[str, str, str]:
-    """Render expanded wikitext and restore generated tables after Pandoc."""
+    """Render expanded wikitext, repairing pinpointed refs and open tables."""
     conversion_stage = "Pandoc MediaWiki-to-HTML"
     expanded = _sanitize_expanded_wikitext(expanded)
-    try:
-        html_fragment = _run_pandoc(pandoc, expanded, "mediawiki", "html")
-    except Exception as initial_error:
-        repaired_text, repaired_tables = _repair_unclosed_mediawiki_tables(expanded)
-        if (
-            "unexpected end of input" in str(initial_error).casefold()
-            and repaired_tables
-        ):
-            try:
-                html_fragment = _run_pandoc(pandoc, repaired_text, "mediawiki", "html")
-            except Exception as repair_error:
-                conversion_note = (
-                    f"{conversion_stage} still failed after closing "
-                    f"{repaired_tables} unterminated table(s): {repair_error}"
-                )
-            else:
-                html_fragment = _restore_deferred_material_tables_in_html(
-                    html_fragment, deferred_material_tables or {}
-                )
-                conversion_note = (
-                    "Recovered from Pandoc's unexpected end of input by "
-                    f"closing {repaired_tables} unterminated MediaWiki table(s)."
-                )
-                return html_fragment, "repaired", conversion_note
+    candidate = expanded
+    ref_closers_removed = 0
+    last_error: Exception | None = None
+    while True:
+        try:
+            html_fragment = _run_pandoc(pandoc, candidate, "mediawiki", "html")
+        except Exception as exc:
+            last_error = exc
+            repaired_refs = _remove_pandoc_reported_ref_closer(candidate, exc)
+            if repaired_refs is None or ref_closers_removed >= 20:
+                break
+            candidate = repaired_refs
+            ref_closers_removed += 1
         else:
-            conversion_note = (
-                f"{conversion_stage} rejected expanded wikitext: {initial_error}"
+            html_fragment = _restore_deferred_material_tables_in_html(
+                html_fragment, deferred_material_tables or {}
             )
+            if ref_closers_removed:
+                return (
+                    html_fragment,
+                    "repaired",
+                    "Recovered from malformed reference markup by removing "
+                    f"{ref_closers_removed} parser-identified unmatched closing "
+                    "reference tag(s).",
+                )
+            return html_fragment, "ok", ""
 
-        source_text = _sanitize_expanded_wikitext(page.text)
-        html_fragment = _run_pandoc(pandoc, source_text, "mediawiki", "html")
-        conversion_note = f"{conversion_note} Used sanitized source as a fallback."
-        return html_fragment, "raw_fallback", conversion_note
+    assert last_error is not None
+    repaired_text, repaired_tables = _repair_unclosed_mediawiki_tables(candidate)
+    if (
+        "unexpected end of input" in str(last_error).casefold()
+        and repaired_tables
+    ):
+        try:
+            html_fragment = _run_pandoc(
+                pandoc, repaired_text, "mediawiki", "html"
+            )
+        except Exception as repair_error:
+            conversion_note = (
+                f"{conversion_stage} still failed after closing "
+                f"{repaired_tables} unterminated table(s): {repair_error}"
+            )
+        else:
+            html_fragment = _restore_deferred_material_tables_in_html(
+                html_fragment, deferred_material_tables or {}
+            )
+            recovery_parts = []
+            if ref_closers_removed:
+                recovery_parts.append(
+                    f"removing {ref_closers_removed} parser-identified unmatched "
+                    "closing reference tag(s)"
+                )
+            recovery_parts.append(
+                f"closing {repaired_tables} unterminated MediaWiki table(s)"
+            )
+            conversion_note = "Recovered by " + " and ".join(recovery_parts) + "."
+            return html_fragment, "repaired", conversion_note
+    else:
+        conversion_note = (
+            f"{conversion_stage} rejected expanded wikitext: {last_error}"
+        )
 
-    html_fragment = _restore_deferred_material_tables_in_html(
-        html_fragment, deferred_material_tables or {}
-    )
-    return html_fragment, "ok", ""
+    source_text = _sanitize_expanded_wikitext(page.text)
+    html_fragment = _run_pandoc(pandoc, source_text, "mediawiki", "html")
+    conversion_note = f"{conversion_note} Used sanitized source as a fallback."
+    return html_fragment, "raw_fallback", conversion_note
 
 
 def _rewrite_page_html(

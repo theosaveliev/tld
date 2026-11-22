@@ -1,0 +1,11 @@
+subpath: ""
+stage_config:
+  EnsureIndexPages:
+    useable_as_index:
+      - Index.html
+      - README.html
+      - readme.html
+  CheckLinks:
+    links_to_ignore:
+      - steam://nav/console
+      - ../assets/Landing+logo+wide2.png

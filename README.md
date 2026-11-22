@@ -37,9 +37,10 @@ The Long Dark Wiki/
 └── conversion-report.json
 ```
 
-Open the workspace folder in Zettlr and start with `index.md`. Article files contain plain Markdown without YAML front matter. The wiki
-title appears as the page's H1 heading, and detected categories and the source
-URL are retained as a readable Markdown metadata line. Article links are
+Open the workspace folder in Zettlr and start with `index.md`. Article files
+contain plain Markdown without YAML front matter. The wiki title appears as
+the page's H1 heading, and detected categories and the source URL are retained
+as a readable Markdown metadata line. Article links are
 rewritten to the allocated local Markdown filenames, redirects resolve to
 their destination articles, and referenced images are copied into `assets/`.
 Fandom galleries and image-layout tables are converted to ordinary Markdown

@@ -2,31 +2,19 @@
 
 **Categories:** DLC Content, Tools · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Wyatt's_Skeleton)
 
-![Ptarmigan icon](../assets/Ptarmigan_icon.png)
-
-**DLC-Exclusive content.**
-
-This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
-
-**Wyatt's Skeleton**
-
-[Wyatt's Skeleton icon](../assets/Wyatt%27s_Skeleton_icon.png)
-
-**Release:** [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33)
-
-**Wintermute:** No
-
-**Properties**
-
-**Item type:** [Tools](./Tools.md)
-
-**Stackable:** No
-
-**Examine:** Human remains. Some of the bones appear burnt.
-
-**Values**
-
-**Weight:** 0.00 kg (0 lbs)
+| Property | Details |
+| --- | --- |
+| ![Ptarmigan icon](../assets/Ptarmigan_icon.png) | **DLC-Exclusive content.** This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay. |
+| **Wyatt's Skeleton** | ![Wyatt's Skeleton icon](../assets/Wyatt%27s_Skeleton_icon.png) |
+| **Release** | [2 December 2024](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#2.33) |
+| **Wintermute** | No |
+| **Properties** | |
+| **Item type** | [Tools](./Tools.md) |
+| **Equipable** | No |
+| **Stackable** | No |
+| **Examine** | Human remains. Some of the bones appear burnt. |
+| **Values** | |
+| **Weight** | 0.00 kg (0 lbs) |
 
 **Wyatt's Skeleton** is an item found during [Sutherland's Tale](./Sutherland%27s%20Tale.md).
 

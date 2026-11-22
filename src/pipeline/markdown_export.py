@@ -1545,6 +1545,13 @@ INTERWIKI_FOOTER_LINE_RE = re.compile(
     r"^\s*\[[a-z]{2,3}:[^\]]+\]\(https?://[^)]+\)\s*$",
     re.IGNORECASE,
 )
+FOOTNOTE_DEFINITION_ID_RE = re.compile(
+    r"^(?:fn|footnote|cite_note)[-_]?(?P<number>\d+)$", re.IGNORECASE
+)
+FOOTNOTE_REFERENCE_ID_RE = re.compile(
+    r"^(?:fnref|footnote_ref|cite_ref)[-_]?(?P<number>\d+)(?:[-_]\d+)?$",
+    re.IGNORECASE,
+)
 
 
 def _markdown_anchor_span_ids(line: str) -> list[str]:
@@ -2641,6 +2648,36 @@ def _inline_markdown_embedded_media(node: lhtml.HtmlElement, content: str) -> st
     return f"[{label}]({_markdown_destination(source)})"
 
 
+def _markdown_footnote_number(identifier: str) -> str | None:
+    """Extract a Markdown footnote number from a Pandoc or MediaWiki anchor ID."""
+    match = FOOTNOTE_DEFINITION_ID_RE.fullmatch(identifier)
+    return match.group("number") if match is not None else None
+
+
+def _markdown_footnote_number_from_href(href: str) -> str | None:
+    """Resolve an HTML footnote link to its Markdown footnote number."""
+    fragment = urllib.parse.unquote(urllib.parse.urlsplit(href).fragment)
+    return _markdown_footnote_number(fragment)
+
+
+def _is_markdown_footnote_backlink(href: str) -> bool:
+    """Identify a return link from a footnote definition to its reference."""
+    fragment = urllib.parse.unquote(urllib.parse.urlsplit(href).fragment)
+    return FOOTNOTE_REFERENCE_ID_RE.fullmatch(fragment) is not None
+
+
+def _markdown_list_marker(
+    item: lhtml.HtmlElement, item_number: int, ordered: bool
+) -> str:
+    """Choose an ordered, unordered, or native Markdown footnote marker."""
+    footnote_number = _markdown_footnote_number(item.get("id") or "")
+    if footnote_number is not None:
+        return f"[^{footnote_number}]:"
+    if ordered:
+        return f"{item_number}."
+    return "-"
+
+
 def _inline_markdown_media(
     node: lhtml.HtmlElement, tag: str, content: str
 ) -> str | None:
@@ -2648,7 +2685,12 @@ def _inline_markdown_media(
     result: str | None = None
     if tag == "a":
         href = node.get("href")
-        if not href:
+        footnote_number = _markdown_footnote_number_from_href(href or "")
+        if footnote_number is not None:
+            result = f"[^{footnote_number}]"
+        elif href and _is_markdown_footnote_backlink(href):
+            result = ""
+        elif not href:
             result = content
         else:
             label = content or _markdown_text(href)
@@ -2664,7 +2706,6 @@ def _inline_markdown_media(
     elif tag in {"iframe", "video", "audio", "object", "embed"}:
         result = _inline_markdown_embedded_media(node, content)
     return result
-
 
 def _unicode_superscript(value: str) -> str:
     """Use Unicode superscript glyphs where Markdown has no superscript syntax."""
@@ -3619,7 +3660,7 @@ def _is_html_block_element(node: lhtml.HtmlElement) -> bool:
 
 
 def _render_html_list(node: lhtml.HtmlElement, depth: int = 0) -> str:
-    """Convert nested HTML ordered and unordered lists to Markdown lists."""
+    """Convert nested HTML lists and footnote definitions to Markdown."""
     ordered = _html_tag(node) == "ol"
     try:
         start = max(1, int(node.get("start", "1")))
@@ -3642,11 +3683,10 @@ def _render_html_list(node: lhtml.HtmlElement, depth: int = 0) -> str:
             else:
                 content.append(_inline_markdown_element(child))
             content.append(_markdown_text(child.tail or ""))
-        marker = f"{item_number}." if ordered else "-"
+        marker = _markdown_list_marker(item, item_number, ordered)
         lines.append(" " * depth + marker + " " + "".join(content).strip())
         lines.extend(part for part in nested if part)
     return "\n".join(lines)
-
 
 def _render_html_pre(node: lhtml.HtmlElement) -> str:
     """Convert a preformatted HTML block to a fenced Markdown code block."""

@@ -1776,7 +1776,7 @@ def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
     markdown = _html_fragment_to_markdown(fragment)
 
     assert "[Section One](#section-one)" in markdown
-    assert r"[\[1\]](#cite_note-1)" in markdown
+    assert "[^1]" in markdown
     assert "## Section One" in markdown
 
 
@@ -1803,16 +1803,20 @@ def test_mediawiki_heading_ids_map_to_markdown_slugs_without_html_anchors() -> N
     assert "[Jump to version](#0233-silent-hunter-update)" in markdown
 
 
-def test_custom_html_renderer_preserves_footnote_and_reference_ids() -> None:
-    fragment = """<section class="footnotes"><ol>
+def test_custom_html_renderer_converts_footnotes_to_native_markdown() -> None:
+    fragment = """<p>A citation <a id="fnref1" href="#fn1">1</a>.</p>
+<section class="footnotes"><ol>
 <li id="fn1">A footnote <a id="fnref1" href="#fnref1">↩</a></li>
 </ol></section>"""
 
     markdown = _html_fragment_to_markdown(fragment)
 
-    assert '<span id="fn1"></span>' in markdown
-    assert '<span id="fnref1"></span>' in markdown
-    assert "[↩](#fnref1)" in markdown
+    assert "A citation [^1]." in markdown
+    assert "## Notes" in markdown
+    assert "[^1]: A footnote" in markdown
+    assert "↩" not in markdown
+    assert "<span" not in markdown
+    assert "<a " not in markdown
 
 
 def test_page_markdown_cleans_escaped_bear_update_tags() -> None:

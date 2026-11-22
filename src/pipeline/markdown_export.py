@@ -2159,6 +2159,12 @@ def _parse_recipe_infobox(rows: list[list[lhtml.HtmlElement]]) -> RecipeInfoboxD
             data.section = plain_values[0].casefold()
             data.pending_requirement = None
             continue
+        if (
+            data.section == "requirements"
+            and len(cells) > 1
+            and plain_values[0].rstrip(":").casefold() == "item"
+        ):
+            data.section = "materials"
         if not any(plain_values):
             continue
 

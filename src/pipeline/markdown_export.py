@@ -1606,6 +1606,9 @@ def _strip_empty_markdown_sections(value: str) -> str:
             continue
         match = MARKDOWN_HEADING_RE.fullmatch(line)
         if match is not None:
+            label = match.group("label")
+            if any(marker in label for marker in ("*", "_", "`", "[")):
+                continue
             headings.append((index, len(match.group("marks"))))
 
     empty_headings: set[int] = set()

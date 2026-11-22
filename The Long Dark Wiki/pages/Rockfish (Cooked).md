@@ -40,15 +40,14 @@ _Rockfish\_(Cooked)\_icon.png_
 
 **Rockfish (Cooked)**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-|  | 10.0 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) |
-| Quantity | 1.00 kg |
+
+10.0 minutes
+
+**Requirements**
+
+**Item:** [Rockfish (Raw)](./Rockfish%20%28Raw%29.md)
+
+**Quantity:** 1.00 kg
 
 ## Gallery
 

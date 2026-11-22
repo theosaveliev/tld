@@ -43,16 +43,18 @@ This item cannot be harvested.
 
 **Dresser**
 
-| Property | Details |
-| --- | --- |
-|  | 420 minutes (7 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cedar Firewood](./Cedar%20Firewood.md) |
-| Quantity | 10 |
-|  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
-|  | 4 |
+
+
+420 minutes (7 hour 0 minutes)
+
+[Reclaimed Wood](./Reclaimed%20Wood.md)
+
+4
+
+**Requirements**
+
+**Item:** [Cedar Firewood](./Cedar%20Firewood.md)
+
+**Quantity:** 10
 
 ## Update History

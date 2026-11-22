@@ -35,14 +35,14 @@ Despite having a Backpack carry weight value, the trunk cannot be picked up and 
 
 **Rustic Storage Trunk**
 
-| Property | Details |
-| --- | --- |
-|  | 420 minutes (7 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Fir Firewood](./Fir%20Firewood.md) |
-| Quantity | 9 |
+
+
+420 minutes (7 hour 0 minutes)
+
+**Requirements**
+
+**Item:** [Fir Firewood](./Fir%20Firewood.md)
+
+**Quantity:** 9
 
 ## Update History

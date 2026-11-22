@@ -54,17 +54,19 @@ Moose-Hide Cloaks are crafted torso wear with extremely high waterproof and the 
 
 **Moose-Hide Cloak**
 
-| Property | Details |
-| --- | --- |
-|  | 1000 minutes (16 hour 40 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cured Moose Hide](./Cured%20Moose%20Hide.md) |
-| Quantity | 1 |
-|  | [Cured Gut](./Cured%20Gut.md) |
-|  | 4 |
+
+
+1000 minutes (16 hour 40 minutes)
+
+[Cured Gut](./Cured%20Gut.md)
+
+4
+
+**Requirements**
+
+**Item:** [Cured Moose Hide](./Cured%20Moose%20Hide.md)
+
+**Quantity:** 1
 
 ## Repair
 

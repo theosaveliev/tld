@@ -38,16 +38,17 @@ More Spear Heads can be crafted in the forge after the first one. They can be ca
 
 **Spear Head**
 
-| Property | Details |
-| --- | --- |
-|  | 90 minutes (1 hour 30 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| Story | [The Best Defense](./The%20Best%20Defense.md) |
-| **Materials** |  |
-| Item | [Scrap Metal](./Scrap%20Metal.md) |
-| Quantity | 2 |
+
+
+90 minutes (1 hour 30 minutes)
+
+**Requirements**
+
+**Story:** [The Best Defense](./The%20Best%20Defense.md)
+
+**Item:** [Scrap Metal](./Scrap%20Metal.md)
+
+**Quantity:** 2
 
 ## Gallery
 

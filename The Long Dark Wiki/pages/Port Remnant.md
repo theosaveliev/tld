@@ -10,6 +10,7 @@
 - [Survivability](#survivability)
 - [Safe houses](#safe-houses)
 - [Trivia](#trivia)
+- [Gallery](#gallery)
 - [Maps](#maps)
 - [Locations](#locations-1)
 - [Miscellaneous](#miscellaneous)
@@ -57,6 +58,7 @@ There are also a several indoor locations that are tracked in the [Journal](./Jo
 - 1 Cabin to the south east of Departure's Memory (similar to [Mountaineer's Huts](./Mountaineer%27s%20Hut.md))
 - A Cave system that takes you to the upper southern cliff to the Desecrated Church.
 
+
 ## Wildlife management
 
 - [Wolves](./Wolf.md) can be found throughout the region, mainly to the south near the tracks. Some can be found east of the lighthouse.
@@ -77,6 +79,8 @@ Key shelters in Port Remnant include:
 - This is the only region on Anna Island with a Work Bench, found at Departure's Memory.
 - There were formerly 2 cabins south of Departure's memory, but 1 was removed after an update.
 - The Whale Bone Shrines were originally quite large, but were scaled down in size after an update.
+
+## Gallery
 
 ### Maps
 

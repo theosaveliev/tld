@@ -69,19 +69,23 @@ Additionally, in the Tales from the Far Territory DLC, a crafted bear skin bedro
 
 **Bear Skin Bedroll**
 
-| Property | Details |
-| --- | --- |
-|  | 1050 minutes (17 hour 30 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) |
-| Quantity | 2 |
-|  | [Cloth](./Cloth.md) |
-|  | 5 |
-|  | [Cured Gut](./Cured%20Gut.md) |
-|  | 6 |
+
+
+1050 minutes (17 hour 30 minutes)
+
+[Cloth](./Cloth.md)
+
+5
+
+[Cured Gut](./Cured%20Gut.md)
+
+6
+
+**Requirements**
+
+**Item:** [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)
+
+**Quantity:** 2
 
 ## Gallery
 

@@ -61,53 +61,65 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 **Tinder Plug**
 
-| Property | Details |
-| --- | --- |
-|  | 5 minutes |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| **Materials** |  |
-| Item | [Stick](./Stick.md) |
-| Quantity | 1 |
+
+
+5 minutes
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Stick](./Stick.md)
+
+**Quantity:** 1
 
 ### Newsprint
 
 **Tinder Plug**
 
-| Property | Details |
-| --- | --- |
-|  | 10 minutes |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| **Materials** |  |
-| Item | [Newsprint](./Newsprint.md) |
-| Quantity | 1 |
+
+
+10 minutes
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Newsprint](./Newsprint.md)
+
+**Quantity:** 1
 
 ### Newspaper Roll
 
 **Tinder Plug**
 
-| Property | Details |
-| --- | --- |
-|  | 10 minutes |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| **Materials** |  |
-| Item | [Newsprint Roll](./Newsprint%20Roll.md) |
-| Quantity | 1 |
+
+
+10 minutes
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Newsprint Roll](./Newsprint%20Roll.md)
+
+**Quantity:** 1
 
 ### Stack of Papers
 
 **Tinder Plug**
 
-| Property | Details |
-| --- | --- |
-|  | 10 minutes |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| **Materials** |  |
-| Item | [Stack of Papers](./Stack%20of%20Papers.md) |
-| Quantity | 1 |
+
+
+10 minutes
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Stack of Papers](./Stack%20of%20Papers.md)
+
+**Quantity:** 1
 
 ## Gallery
 

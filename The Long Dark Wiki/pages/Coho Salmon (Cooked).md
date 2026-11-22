@@ -58,15 +58,14 @@ Cooking Salmon improves the [Cooking Skill](./Skills.md#Cooking) and requires a 
 
 **Coho Salmon (Cooked)**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-|  | 10.0 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) |
-| Quantity | 1.00 kg |
+
+10.0 minutes
+
+**Requirements**
+
+**Item:** [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md)
+
+**Quantity:** 1.00 kg
 
 ## Gallery
 

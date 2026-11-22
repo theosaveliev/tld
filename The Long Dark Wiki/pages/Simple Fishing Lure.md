@@ -72,14 +72,15 @@ Simple Fishing Lure
 
 **Simple Fishing Lure**
 
-| Property | Details |
-| --- | --- |
-|  | 30.0 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Scrap Metal](./Scrap%20Metal.md) |
-| Quantity | 1 |
+
+
+30.0 minutes
+
+**Requirements**
+
+**Item:** [Scrap Metal](./Scrap%20Metal.md)
+
+**Quantity:** 1
 
 ## Update history
 

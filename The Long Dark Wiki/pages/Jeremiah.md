@@ -14,6 +14,7 @@
 - [Episode 5: The Light At The End Of All Things](#episode-5-the-light-at-the-end-of-all-things)
 - [Possible Military Background](#possible-military-background)
 - [Trivia](#trivia)
+- [Gallery](#gallery)
 - [Predux Episode 2](#predux-episode-2)
 - [Redux Episode 1](#redux-episode-1)
 - [Redux Episode 2](#redux-episode-2)
@@ -124,6 +125,8 @@ It is eventually revealed in Episode 5 that Jeremiah served in the Canadian Mili
 - Jeremiah would occasionally be seen by other people on the Island in 2 [Buffer Memories](./Buffer%20Memories.md) (2 files mention him in the [Carter Hydro Dam](./Carter%20Hydro%20Dam.md), 1 file by [Breyerhouse](./Breyerhouse.md) in the [Maintenance Yard](./Maintenance%20Yard.md)).
   - Jeremiah also mention in Predux Episode 2 visiting Rupert's Landing to trade occasionally, and would work at the Maintenance Yard in exchange for time spent using their tools. It can be presumed that these details are no longer canon however.
 - In Episode 5, his real name is revealed to be "John". [Molly](./Molly.md) also refers to him as "Jerry" on one occasion.
+
+## Gallery
 
 ### Predux Episode 2
 

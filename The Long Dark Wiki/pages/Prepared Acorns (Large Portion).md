@@ -60,14 +60,17 @@ Prepared Acorns (Large Portion) can be created after shelling [Acorns](./Acorns.
 
 **Prepared Acorns (Large Portion)**
 
-| Property | Details |
-| --- | --- |
-|  | 1 minutes |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| **Materials** |  |
-| Item | [Prepared Acorns](./Prepared%20Acorns.md) |
-| Quantity | 4 |
+
+
+1 minutes
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Prepared Acorns](./Prepared%20Acorns.md)
+
+**Quantity:** 4
 
 ## Products
 

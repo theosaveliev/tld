@@ -34,16 +34,18 @@ Despite having a Backpack carry weight value, the table cannot be picked up and 
 
 **Rustic End Table**
 
-| Property | Details |
-| --- | --- |
-|  | 360 minutes (6 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cedar Firewood](./Cedar%20Firewood.md) |
-| Quantity | 6 |
-|  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
-|  | 2 |
+
+
+360 minutes (6 hour 0 minutes)
+
+[Reclaimed Wood](./Reclaimed%20Wood.md)
+
+2
+
+**Requirements**
+
+**Item:** [Cedar Firewood](./Cedar%20Firewood.md)
+
+**Quantity:** 6
 
 ## Update History

@@ -68,17 +68,19 @@ They are warmer and heavier than the [Deerskin Pants](./Deerskin%20Pants.md), an
 
 **Wolfskin Pants**
 
-| Property | Details |
-| --- | --- |
-|  | 1750 minutes (29 hour 10 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) |
-| Quantity | 4 |
-|  | [Cured Gut](./Cured%20Gut.md) |
-|  | 3 |
+
+
+1750 minutes (29 hour 10 minutes)
+
+[Cured Gut](./Cured%20Gut.md)
+
+3
+
+**Requirements**
+
+**Item:** [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)
+
+**Quantity:** 4
 
 ## Gallery
 

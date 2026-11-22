@@ -30,18 +30,22 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 
 **Framed Hockey Jersey**
 
-| Property | Details |
-| --- | --- |
-|  | 240 minutes (4 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Fir Firewood](./Fir%20Firewood.md) |
-| Quantity | 2 |
-|  | [Scrap Metal](./Scrap%20Metal.md) |
-|  | 1 |
-|  | [Hockey Jersey](./Hockey%20Jersey.md) |
-|  | 1 |
+
+
+240 minutes (4 hour 0 minutes)
+
+[Scrap Metal](./Scrap%20Metal.md)
+
+1
+
+[Hockey Jersey](./Hockey%20Jersey.md)
+
+1
+
+**Requirements**
+
+**Item:** [Fir Firewood](./Fir%20Firewood.md)
+
+**Quantity:** 2
 
 ## Update History

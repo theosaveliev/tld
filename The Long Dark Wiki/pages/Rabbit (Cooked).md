@@ -53,14 +53,13 @@ Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked fo
 
 **Rabbit (Cooked)**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) |
-| Quantity | 1.00 kg |
+
+
+**Requirements**
+
+**Item:** [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)
+
+**Quantity:** 1.00 kg
 
 ## Gallery
 

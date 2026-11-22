@@ -39,16 +39,20 @@ Despite having a Backpack carry weight value, the closet cannot be picked up and
 
 **Rustic Closet**
 
-| Property | Details |
-| --- | --- |
-|  | 540 minutes (9 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Fir Firewood](./Fir%20Firewood.md) |
-| Quantity | 18 |
-|  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
-|  | 3 |
-|  | [Scrap Metal](./Scrap%20Metal.md) |
-|  | 2 |
+
+
+540 minutes (9 hour 0 minutes)
+
+[Reclaimed Wood](./Reclaimed%20Wood.md)
+
+3
+
+[Scrap Metal](./Scrap%20Metal.md)
+
+2
+
+**Requirements**
+
+**Item:** [Fir Firewood](./Fir%20Firewood.md)
+
+**Quantity:** 18

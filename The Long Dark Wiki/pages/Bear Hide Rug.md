@@ -41,18 +41,22 @@ This item cannot be harvested. The only option is to pick up, move or destroy it
 
 **Bear Hide Rug**
 
-| Property | Details |
-| --- | --- |
-|  | 480 minutes (8 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cured Deer Hide](./Cured%20Deer%20Hide.md) |
-| Quantity | 1 |
-|  | [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) |
-|  | 1 |
-|  | [Cured Gut](./Cured%20Gut.md) |
-|  | 2 |
+
+
+480 minutes (8 hour 0 minutes)
+
+[Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)
+
+1
+
+[Cured Gut](./Cured%20Gut.md)
+
+2
+
+**Requirements**
+
+**Item:** [Cured Deer Hide](./Cured%20Deer%20Hide.md)
+
+**Quantity:** 1
 
 ## Update History

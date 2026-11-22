@@ -59,14 +59,17 @@ Crafting Bandages while afflicted Blood Loss can be a relatively dangerous proce
 
 **Bandage**
 
-| Property | Details |
-| --- | --- |
-|  | 10 minutes |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| **Materials** |  |
-| Item | [Cloth](./Cloth.md) |
-| Quantity | 1 |
+
+
+10 minutes
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Cloth](./Cloth.md)
+
+**Quantity:** 1
 
 ## Treatment
 

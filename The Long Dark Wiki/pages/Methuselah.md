@@ -14,6 +14,7 @@
 - [Voice acting](#voice-acting)
 - [Notable Quotes](#notable-quotes)
 - [Trivia](#trivia)
+- [Gallery](#gallery)
 - [Redux](#redux)
 - [Predux](#predux)
 
@@ -111,6 +112,8 @@ In the original version of Wintermute, Methuselah was voiced by Gord Marriott (w
 - Methuselah is the name of a [biblical patriarch](https://en.wikipedia.org/wiki/Methuselah), known for being the one who lived the longest out of anyone in the Bible: 969 years. Hence, the name has been associated with longevity and referenced extensively in culture.
 - Methuselah's hat appears brown with a red band in the Predux, but it is red with a brown band post Redux.
 - Partially obscured by his winter coat, Methuselah's shirt has an "Omega" symbol on it. This is an Abrahamic reference to God, and also means "the end" as Omega is the last character in the Greek alphabet, implying he might be the last man alive when the world ends.
+
+## Gallery
 
 ### Redux
 

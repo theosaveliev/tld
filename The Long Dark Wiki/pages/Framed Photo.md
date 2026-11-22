@@ -34,16 +34,18 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 
 **Framed Photo**
 
-| Property | Details |
-| --- | --- |
-|  | 120 minutes (2 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Fir Firewood](./Fir%20Firewood.md) |
-| Quantity | 1 |
-|  | [Camera](./Camera.md) |
-|  | 1 |
+
+
+120 minutes (2 hour 0 minutes)
+
+[Camera](./Camera.md)
+
+1
+
+**Requirements**
+
+**Item:** [Fir Firewood](./Fir%20Firewood.md)
+
+**Quantity:** 1
 
 ## Update History

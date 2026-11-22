@@ -43,14 +43,14 @@ The Square Table can be harvested with a [Hatchet](./Hatchet.md) in 1 hour 30 mi
 
 **Square Table**
 
-| Property | Details |
-| --- | --- |
-|  | 420 minutes (7 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Fir Firewood](./Fir%20Firewood.md) |
-| Quantity | 8 |
+
+
+420 minutes (7 hour 0 minutes)
+
+**Requirements**
+
+**Item:** [Fir Firewood](./Fir%20Firewood.md)
+
+**Quantity:** 8
 
 ## Update History

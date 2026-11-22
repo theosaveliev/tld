@@ -52,15 +52,17 @@ _Model icon damaged_
 
 **Improvised Hand Wraps**
 
-| Property | Details |
-| --- | --- |
-|  | 37 minutes |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cloth](./Cloth.md) |
-| Quantity | 4 |
+
+
+37 minutes
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Cloth](./Cloth.md)
+
+**Quantity:** 4
 
 ## Update history
 

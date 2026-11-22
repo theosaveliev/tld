@@ -30,14 +30,14 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 
 **Rustic Stool**
 
-| Property | Details |
-| --- | --- |
-|  | 360 minutes (6 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Fir Firewood](./Fir%20Firewood.md) |
-| Quantity | 4 |
+
+
+360 minutes (6 hour 0 minutes)
+
+**Requirements**
+
+**Item:** [Fir Firewood](./Fir%20Firewood.md)
+
+**Quantity:** 4
 
 ## Update History

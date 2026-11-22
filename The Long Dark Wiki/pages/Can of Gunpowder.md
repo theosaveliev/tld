@@ -41,20 +41,23 @@ Gunpowder is used to craft [Revolver Ammunition](./Revolver%20Ammunition.md), [R
 
 **Can of Gunpowder**
 
-| Property | Details |
-| --- | --- |
-| [Gunsmithing](./Gunsmithing.md) |  |
-|  | 1 |
-|  | 30 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Stump Remover](./Stump%20Remover.md) |
-| Quantity | 1 |
-|  | [Dusting Sulfur](./Dusting%20Sulfur.md) |
-|  | 1 |
-|  | [Charcoal](./Charcoal.md) |
-|  | 2 |
+1
+
+30 minutes
+
+[Dusting Sulfur](./Dusting%20Sulfur.md)
+
+1
+
+[Charcoal](./Charcoal.md)
+
+2
+
+**Requirements**
+
+**Item:** [Stump Remover](./Stump%20Remover.md)
+
+**Quantity:** 1
 
 ## Products
 

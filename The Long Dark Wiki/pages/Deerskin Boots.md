@@ -56,17 +56,19 @@ _Clothing model icon damaged_
 
 **Deerskin Boots**
 
-| Property | Details |
-| --- | --- |
-|  | 1200 minutes (20 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cured Deer Hide](./Cured%20Deer%20Hide.md) |
-| Quantity | 2 |
-|  | [Cured Gut](./Cured%20Gut.md) |
-|  | 4 |
+
+
+1200 minutes (20 hour 0 minutes)
+
+[Cured Gut](./Cured%20Gut.md)
+
+4
+
+**Requirements**
+
+**Item:** [Cured Deer Hide](./Cured%20Deer%20Hide.md)
+
+**Quantity:** 2
 
 ## Update history
 

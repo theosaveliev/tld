@@ -73,16 +73,19 @@ Improvised Crampons, unlike their [non-improvised counterpart](./Crampons.md), a
 
 **Improvised Crampons**
 
-| Property | Details |
-| --- | --- |
-|  | 240 minutes (4 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Scrap Metal](./Scrap%20Metal.md) |
-| Quantity | 4 |
-|  | [Cured Leather](./Cured%20Leather.md) |
-|  | 2 |
+
+
+240 minutes (4 hour 0 minutes)
+
+[Cured Leather](./Cured%20Leather.md)
+
+2
+
+**Requirements**
+
+**Item:** [Scrap Metal](./Scrap%20Metal.md)
+
+**Quantity:** 4
 
 ## Gallery
 

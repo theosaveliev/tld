@@ -43,14 +43,15 @@ A [Hook](./Hook.md) is a tool that is required for building a [Fishing Tackle](.
 
 **Hook**
 
-| Property | Details |
-| --- | --- |
-|  | 20 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Scrap Metal](./Scrap%20Metal.md) |
-| Quantity | 1 |
+
+
+20 minutes
+
+**Requirements**
+
+**Item:** [Scrap Metal](./Scrap%20Metal.md)
+
+**Quantity:** 1
 
 ## Products
 

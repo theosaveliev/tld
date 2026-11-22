@@ -61,17 +61,18 @@ Survivors can brew a Cup of Coffee at a [fire](./Fire.md) with a [Tin of Coffee]
 
 **Cup of Coffee**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-|  | 12.5 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Tin of Coffee](./Tin%20of%20Coffee.md) |
-| Quantity | 1 |
-|  | [Water (Potable)](./Water%20%28Potable%29.md) |
-|  | 0.25 |
+
+12.5 minutes
+
+[Water (Potable)](./Water%20%28Potable%29.md)
+
+0.25
+
+**Requirements**
+
+**Item:** [Tin of Coffee](./Tin%20of%20Coffee.md)
+
+**Quantity:** 1
 
 ## Effects
 

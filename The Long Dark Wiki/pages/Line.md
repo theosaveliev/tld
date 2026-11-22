@@ -43,14 +43,15 @@ A **Line** is a tool that is required for building a [Fishing Tackle](./Fishing%
 
 **Line**
 
-| Property | Details |
-| --- | --- |
-|  | 15 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Cured Gut](./Cured%20Gut.md) |
-| Quantity | 1 |
+
+
+15 minutes
+
+**Requirements**
+
+**Item:** [Cured Gut](./Cured%20Gut.md)
+
+**Quantity:** 1
 
 ## Products
 

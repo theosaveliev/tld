@@ -49,17 +49,21 @@ _Ptarmigan\_icon.png_
 
 **Improvised Insulation**
 
-| Property | Details |
-| --- | --- |
-|  | 120.0 minutes (2 hour 0 minutes) |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cloth](./Cloth.md) |
-| Quantity | 4 |
-|  | [Ptarmigan Down](./Ptarmigan%20Down.md) |
-|  | 5 |
+
+
+120.0 minutes (2 hour 0 minutes)
+
+[Ptarmigan Down](./Ptarmigan%20Down.md)
+
+5
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Cloth](./Cloth.md)
+
+**Quantity:** 4
 
 ## Gallery
 

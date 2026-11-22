@@ -40,15 +40,14 @@ _Burbot\_(Cooked)\_icon.png_
 
 **Burbot (Cooked)**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-|  | 10.0 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Burbot (Raw)](./Burbot%20%28Raw%29.md) |
-| Quantity | 1.00 kg |
+
+10.0 minutes
+
+**Requirements**
+
+**Item:** [Burbot (Raw)](./Burbot%20%28Raw%29.md)
+
+**Quantity:** 1.00 kg
 
 ## Gallery
 

@@ -31,6 +31,7 @@
 - [Development](#development)
 - [Achievements](#achievements)
 - [Trivia](#trivia)
+- [Gallery](#gallery)
 - [Official Art](#official-art)
 - [References](#references)
 
@@ -375,6 +376,8 @@ The Cougar was met with heavy criticism at Part Four's launch, with many players
 - The [Zone of Contamination](./Zone%20of%20Contamination.md) was formerly teased as the _Industrial Mine_, but was renamed during its debut.
 - [Sundered Pass](./Sundered%20Pass.md) was formerly teased as _Mountain Pass_, but was renamed during its debut.
 - Base Customization was originally exclusive to this DLC before it was made available for all players as part of free update.
+
+## Gallery
 
 ### Official Art
 

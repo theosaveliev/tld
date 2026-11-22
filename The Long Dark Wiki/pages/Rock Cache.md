@@ -1,6 +1,6 @@
 # Rock Cache
 
-**Categories:** Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rock_Cache)
+**Categories:** Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Rock_Cache)
 
 **Contents**
 
@@ -42,14 +42,17 @@ Rock caches do not lose condition over time, but food and clothing items inside 
 
 **Rock Cache**
 
-| Property | Details |
-| --- | --- |
-|  | 15 minutes |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| **Materials** |  |
-| Item | [Stone](./Stone.md) |
-| Quantity | 50 |
+
+
+15 minutes
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Stone](./Stone.md)
+
+**Quantity:** 50
 
 Rock Caches can be constructed outdoors for 50 [stones](./Stone.md) with the [Radial Menu](./Radial%20Menu.md) under "Navigation".
 

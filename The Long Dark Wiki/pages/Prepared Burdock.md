@@ -38,14 +38,17 @@ _Prepared\_Burdock\_icon.png_
 
 **Prepared Burdock**
 
-| Property | Details |
-| --- | --- |
-|  | 15 minutes |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| **Materials** |  |
-| Item | [Burdock Root](./Burdock%20Root.md) |
-| Quantity | 1 |
+
+
+15 minutes
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Burdock Root](./Burdock%20Root.md)
+
+**Quantity:** 1
 
 ## Products
 

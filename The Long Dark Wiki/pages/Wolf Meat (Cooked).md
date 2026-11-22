@@ -53,15 +53,14 @@ Using a [Cooking Pot](./Cooking%20Pot.md) reduces cooking time by 25%. Cooked fo
 
 **Wolf Meat (Cooked)**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-|  | 68.75 minutes (1 hour 8.75 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) |
-| Quantity | 1.00 kg |
+
+68.75 minutes (1 hour 8.75 minutes)
+
+**Requirements**
+
+**Item:** [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
+
+**Quantity:** 1.00 kg
 
 ## Gallery
 

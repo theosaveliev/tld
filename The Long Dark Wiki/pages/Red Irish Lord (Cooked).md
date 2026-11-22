@@ -40,14 +40,13 @@ _Red\_Irish\_Lord\_(Cooked)\_icon.png_
 
 **Red Irish Lord (Cooked)**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) |
-| Quantity | 1 |
+
+
+**Requirements**
+
+**Item:** [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md)
+
+**Quantity:** 1
 
 ## Gallery
 

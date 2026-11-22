@@ -65,20 +65,23 @@ Crafting at an [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) requires 
 
 **Rifle Cartridge**
 
-| Property | Details |
-| --- | --- |
-| [Gunsmithing](./Gunsmithing.md) |  |
-|  | 1 |
-|  | 5 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Bullet](./Bullet.md) |
-| Quantity | 1 |
-|  | [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) |
-|  | 1 |
-|  | [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
-|  | 0.01 kg |
+1
+
+5 minutes
+
+[Rifle Shell Casing](./Rifle%20Shell%20Casing.md)
+
+1
+
+[Can of Gunpowder](./Can%20of%20Gunpowder.md)
+
+0.01 kg
+
+**Requirements**
+
+**Item:** [Bullet](./Bullet.md)
+
+**Quantity:** 1
 
 Crafting quality Condition Rifle Ammunition is based on the [Gunsmithing](./Gunsmithing.md) skill, with lower level Gunsmithing producing lower quality cartridges that are more likely to misfire, no matter the condition of the Hunting Rifle. The quality and Condition of the crafted ammunition will always be found next to the name of the ammo:
 

@@ -60,17 +60,19 @@ As of the [TFTFT part 4 update](./Tales%20from%20the%20Far%20Territory.md), a pa
 
 **Rabbitskin Mitts**
 
-| Property | Details |
-| --- | --- |
-|  | 480 minutes (8 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md) |
-| Quantity | 4 |
-|  | [Cured Gut](./Cured%20Gut.md) |
-|  | 2 |
+
+
+480 minutes (8 hour 0 minutes)
+
+[Cured Gut](./Cured%20Gut.md)
+
+2
+
+**Requirements**
+
+**Item:** [Cured Rabbit Pelt](./Cured%20Rabbit%20Pelt.md)
+
+**Quantity:** 4
 
 ## Gallery
 

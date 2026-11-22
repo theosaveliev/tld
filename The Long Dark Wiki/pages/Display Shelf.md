@@ -30,16 +30,18 @@ While the preview image shows nine cubbies, the final product actually has only 
 
 **Display Shelf**
 
-| Property | Details |
-| --- | --- |
-|  | 600 minutes (10 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Fir Firewood](./Fir%20Firewood.md) |
-| Quantity | 12 |
-|  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
-|  | 4 |
+
+
+600 minutes (10 hour 0 minutes)
+
+[Reclaimed Wood](./Reclaimed%20Wood.md)
+
+4
+
+**Requirements**
+
+**Item:** [Fir Firewood](./Fir%20Firewood.md)
+
+**Quantity:** 12
 
 ## Update History

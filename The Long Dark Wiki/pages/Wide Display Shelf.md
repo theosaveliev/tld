@@ -34,16 +34,18 @@ Despite having a Backpack carry weight value, the shelf cannot be picked up and 
 
 **Wide Display Shelf**
 
-| Property | Details |
-| --- | --- |
-|  | 660 minutes (11 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Fir Firewood](./Fir%20Firewood.md) |
-| Quantity | 18 |
-|  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
-|  | 4 |
+
+
+660 minutes (11 hour 0 minutes)
+
+[Reclaimed Wood](./Reclaimed%20Wood.md)
+
+4
+
+**Requirements**
+
+**Item:** [Fir Firewood](./Fir%20Firewood.md)
+
+**Quantity:** 18
 
 ## Update History

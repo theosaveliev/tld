@@ -64,17 +64,17 @@ Broken Arrows sometimes spawn on or near animal carcasses, [frozen corpses](./Fr
 
 **Arrowhead**
 
-| Property | Details |
-| --- | --- |
-|  | [Repair](./Repair.md) |
-|  | 1 |
-|  | 60 minutes (1 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Scrap Metal](./Scrap%20Metal.md) |
-| Quantity | 1 |
+[Repair](./Repair.md)
+
+1
+
+60 minutes (1 hour 0 minutes)
+
+**Requirements**
+
+**Item:** [Scrap Metal](./Scrap%20Metal.md)
+
+**Quantity:** 1
 
 ## Products
 

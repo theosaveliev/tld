@@ -51,15 +51,14 @@ _For the unique bass found in the [Episode 3](./Episode%203%20-%20Crossroads%20E
 
 **Smallmouth Bass (Cooked)**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-|  | 74 minutes (1 hour 14 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) |
-| Quantity | 1.00 kg |
+
+74 minutes (1 hour 14 minutes)
+
+**Requirements**
+
+**Item:** [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md)
+
+**Quantity:** 1.00 kg
 
 ## Recipe
 

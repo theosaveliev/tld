@@ -46,16 +46,17 @@ Acorn Coffee is a non-renewable resource.
 
 **Cup of Acorn Coffee**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Acorn Grounds](./Acorn%20Grounds.md) |
-| Quantity | 1 |
-|  | [Water (Potable)](./Water%20%28Potable%29.md) |
-|  | 0.25 L |
+
+
+[Water (Potable)](./Water%20%28Potable%29.md)
+
+0.25 L
+
+**Requirements**
+
+**Item:** [Acorn Grounds](./Acorn%20Grounds.md)
+
+**Quantity:** 1
 
 ## Update history
 

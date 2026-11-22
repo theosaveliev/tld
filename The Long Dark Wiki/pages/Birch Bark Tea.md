@@ -48,18 +48,18 @@ No form of Birch Bark/Birch Bark Tea [decays](./Decay.md).
 
 **Birch Bark Tea**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-|  | 12.5 minutes |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Prepared Birch Bark](./Prepared%20Birch%20Bark.md) |
-| Quantity | 1 |
-|  | [Water (Potable)](./Water%20%28Potable%29.md) |
-|  | 0.25 L |
+
+12.5 minutes
+
+[Water (Potable)](./Water%20%28Potable%29.md)
+
+0.25 L
+
+**Requirements**
+
+**Item:** [Prepared Birch Bark](./Prepared%20Birch%20Bark.md)
+
+**Quantity:** 1
 
 ## Tips
 

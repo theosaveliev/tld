@@ -60,20 +60,23 @@ Arrows hitting hard surfaces will bounce off. Bounces off hard vertical surfaces
 
 **Simple Arrow**
 
-| Property | Details |
-| --- | --- |
-| [Archery](./Archery.md) |  |
-|  | 1 |
-|  | 90 minutes (1 hour 30 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Arrowhead](./Arrowhead.md) |
-| Quantity | 1 |
-|  | [Arrow Shaft](./Arrow%20Shaft.md) |
-|  | 1 |
-|  | [Crow Feather](./Crow%20Feather.md) |
-|  | 3 |
+1
+
+90 minutes (1 hour 30 minutes)
+
+[Arrow Shaft](./Arrow%20Shaft.md)
+
+1
+
+[Crow Feather](./Crow%20Feather.md)
+
+3
+
+**Requirements**
+
+**Item:** [Arrowhead](./Arrowhead.md)
+
+**Quantity:** 1
 
 Crafting an arrow also contributes a bit of progress to the [Archery](./Archery.md) skill.
 

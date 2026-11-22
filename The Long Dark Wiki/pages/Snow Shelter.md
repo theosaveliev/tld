@@ -45,16 +45,21 @@ Once constructed, a snow shelter will degrade from 100% to 0% condition over rou
 
 **Snow Shelter**
 
-| Property | Details |
-| --- | --- |
-|  | 45 minutes |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| **Materials** |  |
-| Item | [Stick](./Stick.md) |
-| Quantity | 15 |
-|  | [Cloth](./Cloth.md) |
-|  | 5 |
+
+
+45 minutes
+
+[Cloth](./Cloth.md)
+
+5
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Stick](./Stick.md)
+
+**Quantity:** 15
 
 The snow shelter can be crafted using the [Radial Menu](./Radial%20Menu.md):
 

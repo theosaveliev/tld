@@ -30,18 +30,24 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 
 **Decorative Art**
 
-| Property | Details |
-| --- | --- |
-|  | 240 minutes (4 hour 0 minutes) |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| Tool |  |
-| **Materials** |  |
-| Item | [Fir Firewood](./Fir%20Firewood.md) |
-| Quantity | 2 |
-|  | [Cedar Firewood](./Cedar%20Firewood.md) |
-|  | 1 |
-|  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
-|  | 1 |
+
+
+240 minutes (4 hour 0 minutes)
+
+[Cedar Firewood](./Cedar%20Firewood.md)
+
+1
+
+[Reclaimed Wood](./Reclaimed%20Wood.md)
+
+1
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Fir Firewood](./Fir%20Firewood.md)
+
+**Quantity:** 2
 
 ## Update History

@@ -63,17 +63,18 @@ It is much more efficient to turn [Prepared Acorns](./Prepared%20Acorns.md) into
 
 **Acorns (Cooked - Large Portion)**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-|  | 15 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Prepared Acorns (Large Portion)](./Prepared%20Acorns%20%28Large%20Portion%29.md) |
-| Quantity | 1 |
-|  | [Water (Potable)](./Water%20%28Potable%29.md) |
-|  | 0.50L |
+
+15 minutes
+
+[Water (Potable)](./Water%20%28Potable%29.md)
+
+0.50L
+
+**Requirements**
+
+**Item:** [Prepared Acorns (Large Portion)](./Prepared%20Acorns%20%28Large%20Portion%29.md)
+
+**Quantity:** 1
 
 ## Products
 

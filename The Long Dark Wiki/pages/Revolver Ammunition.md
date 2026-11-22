@@ -64,20 +64,23 @@ Crafting at an [Ammunition Work Bench](./Ammunition%20Work%20Bench.md) requires 
 
 **Revolver Cartridge**
 
-| Property | Details |
-| --- | --- |
-| [Gunsmithing](./Gunsmithing.md) |  |
-|  | 1 |
-|  | 5 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Bullet](./Bullet.md) |
-| Quantity | 1 |
-|  | [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) |
-|  | 1 |
-|  | [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
-|  | 0.01 kg |
+1
+
+5 minutes
+
+[Revolver Shell Casing](./Revolver%20Shell%20Casing.md)
+
+1
+
+[Can of Gunpowder](./Can%20of%20Gunpowder.md)
+
+0.01 kg
+
+**Requirements**
+
+**Item:** [Bullet](./Bullet.md)
+
+**Quantity:** 1
 
 Crafting quality Condition Revolver Ammunition is based on the [Gunsmithing](./Gunsmithing.md) skill, with lower level Gunsmithing producing lower quality cartridges that are more likely to misfire, no matter the condition of the Revolver. The quality and Condition of the crafted ammunition will always be found next to the name of the ammo:
 

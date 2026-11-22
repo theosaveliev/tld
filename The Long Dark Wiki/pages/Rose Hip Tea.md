@@ -56,17 +56,18 @@ Prepared Rose Hips have half the weight of their raw form, and no form of Rose H
 
 **Rose Hip Tea**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-|  | 12.5 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Prepared Rose Hips](./Prepared%20Rose%20Hips.md) |
-| Quantity | 1 |
-|  | [Water (Potable)](./Water%20%28Potable%29.md) |
-|  | 0.25 L |
+
+12.5 minutes
+
+[Water (Potable)](./Water%20%28Potable%29.md)
+
+0.25 L
+
+**Requirements**
+
+**Item:** [Prepared Rose Hips](./Prepared%20Rose%20Hips.md)
+
+**Quantity:** 1
 
 ## Tips
 

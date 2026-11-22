@@ -43,16 +43,18 @@ The Rustic Chair can be harvested with a [Hatchet](./Hatchet.md) in 1 hour for 4
 
 **Rustic Chair**
 
-| Property | Details |
-| --- | --- |
-|  | 240 minutes (4 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cedar Firewood](./Cedar%20Firewood.md) |
-| Quantity | 4 |
-|  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
-|  | 2 |
+
+
+240 minutes (4 hour 0 minutes)
+
+[Reclaimed Wood](./Reclaimed%20Wood.md)
+
+2
+
+**Requirements**
+
+**Item:** [Cedar Firewood](./Cedar%20Firewood.md)
+
+**Quantity:** 4
 
 ## Update History

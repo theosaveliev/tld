@@ -43,20 +43,26 @@ The Hide Chair can be harvested with a [Hatchet](./Hatchet.md) in 2 hours and pr
 
 **Hide Chair**
 
-| Property | Details |
-| --- | --- |
-|  | 780 minutes (13 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Fir Firewood](./Fir%20Firewood.md) |
-| Quantity | 8 |
-|  | [Cured Deer Hide](./Cured%20Deer%20Hide.md) |
-|  | 2 |
-|  | [Ptarmigan Down](./Ptarmigan%20Down.md) |
-|  | 8 |
-|  | [Cured Gut](./Cured%20Gut.md) |
-|  | 3 |
+
+
+780 minutes (13 hour 0 minutes)
+
+[Cured Deer Hide](./Cured%20Deer%20Hide.md)
+
+2
+
+[Ptarmigan Down](./Ptarmigan%20Down.md)
+
+8
+
+[Cured Gut](./Cured%20Gut.md)
+
+3
+
+**Requirements**
+
+**Item:** [Fir Firewood](./Fir%20Firewood.md)
+
+**Quantity:** 8
 
 ## Update History

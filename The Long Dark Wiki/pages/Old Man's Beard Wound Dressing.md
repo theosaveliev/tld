@@ -59,14 +59,17 @@ Previously, before release of 0.423, "Faithful Cartographer," Old Man's Beard Wo
 
 **Old Man's Beard Wound Dressing**
 
-| Property | Details |
-| --- | --- |
-|  | 15 minutes |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| **Materials** |  |
-| Item | [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md) |
-| Quantity | 3 |
+
+
+15 minutes
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Old Man's Beard Lichen](./Old%20Man%27s%20Beard%20Lichen.md)
+
+**Quantity:** 3
 
 ## Trivia
 

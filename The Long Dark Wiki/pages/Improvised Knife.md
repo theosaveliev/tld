@@ -56,17 +56,19 @@ When carried and selected for self-defense at the start of a Wolf Struggle, Impr
 
 **Improvised Knife**
 
-| Property | Details |
-| --- | --- |
-|  | 180 minutes (3 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Scrap Metal](./Scrap%20Metal.md) |
-| Quantity | 3 |
-|  | [Cloth](./Cloth.md) |
-|  | 1 |
+
+
+180 minutes (3 hour 0 minutes)
+
+[Cloth](./Cloth.md)
+
+1
+
+**Requirements**
+
+**Item:** [Scrap Metal](./Scrap%20Metal.md)
+
+**Quantity:** 3
 
 Improvised Knives may be rarely found in all regions, usually near frozen corpses or structures. They may also be found inside structures atop/beneath furniture or in drawers.
 

@@ -43,15 +43,17 @@ Any large in-progress/created Decorations made at a Furniture Workbench are depo
 
 **Furniture Workbench**
 
-| Property | Details |
-| --- | --- |
-|  | 240 minutes (4 hour 0 minutes) |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cedar Firewood](./Cedar%20Firewood.md) |
-| Quantity | 10 |
+
+
+240 minutes (4 hour 0 minutes)
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Cedar Firewood](./Cedar%20Firewood.md)
+
+**Quantity:** 10
 
 ## Craftable Items
 

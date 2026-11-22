@@ -104,16 +104,19 @@ Note: The bleed-out time diminishes with higher levels of the [Archery](./Archer
 
 **Survival Bow**
 
-| Property | Details |
-| --- | --- |
-|  | 300 minutes (5 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
-| Quantity | 1 |
-|  | [Cured Gut](./Cured%20Gut.md) |
-|  | 2 |
+
+
+300 minutes (5 hour 0 minutes)
+
+[Cured Gut](./Cured%20Gut.md)
+
+2
+
+**Requirements**
+
+**Item:** [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)
+
+**Quantity:** 1
 
 ## Locations
 

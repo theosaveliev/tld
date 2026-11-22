@@ -51,16 +51,19 @@ Cannot be repaired. Harvesting yields 1 × [Reclaimed wood](./Reclaimed%20Wood.m
 
 **Snare**
 
-| Property | Details |
-| --- | --- |
-|  | 30 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Cured Gut](./Cured%20Gut.md) |
-| Quantity | 1 |
-|  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
-|  | 1 |
+
+
+30 minutes
+
+[Reclaimed Wood](./Reclaimed%20Wood.md)
+
+1
+
+**Requirements**
+
+**Item:** [Cured Gut](./Cured%20Gut.md)
+
+**Quantity:** 1
 
 ## Snare Mechanics
 

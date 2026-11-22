@@ -30,16 +30,18 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 
 **Mounted Red Irish Lord**
 
-| Property | Details |
-| --- | --- |
-|  | 240 minutes (4 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Fir Firewood](./Fir%20Firewood.md) |
-| Quantity | 1 |
-|  | [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) |
-|  | 1 |
+
+
+240 minutes (4 hour 0 minutes)
+
+[Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md)
+
+1
+
+**Requirements**
+
+**Item:** [Fir Firewood](./Fir%20Firewood.md)
+
+**Quantity:** 1
 
 ## Update History

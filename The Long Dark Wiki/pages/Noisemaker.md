@@ -81,18 +81,23 @@ The locations of Noisemakers are only found:
 
 **Noisemaker**
 
-| Property | Details |
-| --- | --- |
-|  | 30 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Recycled Can](./Recycled%20Can.md) |
-| Quantity | 1 |
-|  | [Cloth](./Cloth.md) |
-|  | 1 |
-|  | [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
-|  | 0.10 kg |
+
+
+30 minutes
+
+[Cloth](./Cloth.md)
+
+1
+
+[Can of Gunpowder](./Can%20of%20Gunpowder.md)
+
+0.10 kg
+
+**Requirements**
+
+**Item:** [Recycled Can](./Recycled%20Can.md)
+
+**Quantity:** 1
 
 Crafting Noisemakers does not level up the [Gunsmithing](./Gunsmithing.md) skill (but crafting [Can of Gunpowder](./Can%20of%20Gunpowder.md) to produce them does).
 

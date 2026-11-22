@@ -43,14 +43,14 @@ The Round Table can be harvested with a [Hatchet](./Hatchet.md) in 1 hour 30 min
 
 **Round Table**
 
-| Property | Details |
-| --- | --- |
-|  | 540 minutes (9 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Fir Firewood](./Fir%20Firewood.md) |
-| Quantity | 12 |
+
+
+540 minutes (9 hour 0 minutes)
+
+**Requirements**
+
+**Item:** [Fir Firewood](./Fir%20Firewood.md)
+
+**Quantity:** 12
 
 ## Update History

@@ -35,18 +35,22 @@ Despite having a Backpack carry weight value, the cupboard cannot be picked up a
 
 **Rustic Cupboard**
 
-| Property | Details |
-| --- | --- |
-|  | 480 minutes (8 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Fir Firewood](./Fir%20Firewood.md) |
-| Quantity | 10 |
-|  | [Reclaimed Wood](./Reclaimed%20Wood.md) |
-|  | 4 |
-|  | [Scrap Metal](./Scrap%20Metal.md) |
-|  | 2 |
+
+
+480 minutes (8 hour 0 minutes)
+
+[Reclaimed Wood](./Reclaimed%20Wood.md)
+
+4
+
+[Scrap Metal](./Scrap%20Metal.md)
+
+2
+
+**Requirements**
+
+**Item:** [Fir Firewood](./Fir%20Firewood.md)
+
+**Quantity:** 10
 
 ## Update History

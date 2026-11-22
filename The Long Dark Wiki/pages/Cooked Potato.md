@@ -46,15 +46,14 @@ Cooked food left on an active fire for too long will burn, after another 80% of 
 
 **Cooked Potato**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-|  | 60.0 minutes (1 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Potato](./Potato.md) |
-| Quantity | 1 |
+
+60.0 minutes (1 hour 0 minutes)
+
+**Requirements**
+
+**Item:** [Potato](./Potato.md)
+
+**Quantity:** 1
 
 ## Update history
 

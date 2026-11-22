@@ -15,6 +15,7 @@
 - [Jackrabbit Island](#jackrabbit-island)
 - [Fishing Camp](#fishing-camp)
 - [Trivia](#trivia)
+- [Gallery](#gallery)
 - [Maps](#maps)
 - [Locations (Old)](#locations-old)
 - [Miscellaneous](#miscellaneous)
@@ -159,6 +160,8 @@ There are several locations for [Safehouses](./Safehouse.md) in the Coastal High
 ## Trivia
 
 - Many photographs on walls or nightstands inside the houses of Coastal Highway are [Hinterland's](./Hinterland%20Studio%20Inc..md) developers, or their friends and family; this includes "Stacyplays" (aka Stacy Hinojosa) a YouTuber who ran a "let's play" series during The Long Dark's alpha/beta (2014-2016). The item [Stacy's Grape Soda](./Stacy%27s%20Grape%20Soda.md) is also named after her.
+
+## Gallery
 
 ### Maps
 

@@ -37,20 +37,26 @@ Despite having a Backpack carry weight value, the bed cannot be picked up and pl
 
 **Quilted Bed**
 
-| Property | Details |
-| --- | --- |
-|  | 1200 minutes (20 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Fir Firewood](./Fir%20Firewood.md) |
-| Quantity | 12 |
-|  | [Cloth](./Cloth.md) |
-|  | 10 |
-|  | [Cured Gut](./Cured%20Gut.md) |
-|  | 6 |
-|  | [Ptarmigan Down](./Ptarmigan%20Down.md) |
-|  | 16 |
+
+
+1200 minutes (20 hour 0 minutes)
+
+[Cloth](./Cloth.md)
+
+10
+
+[Cured Gut](./Cured%20Gut.md)
+
+6
+
+[Ptarmigan Down](./Ptarmigan%20Down.md)
+
+16
+
+**Requirements**
+
+**Item:** [Fir Firewood](./Fir%20Firewood.md)
+
+**Quantity:** 12
 
 ## Update History

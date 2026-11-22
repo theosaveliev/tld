@@ -1839,11 +1839,7 @@ def _render_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
 
 def _is_recipe_infobox(rows: list[list[lhtml.HtmlElement]]) -> bool:
     """Recognize recipe infoboxes by their Requirements and Materials fields."""
-    labels = {
-        cell.text_content().strip().casefold()
-        for row in rows
-        for cell in row
-    }
+    labels = {cell.text_content().strip().casefold() for row in rows for cell in row}
     return {"requirements", "materials", "item", "quantity"} <= labels
 
 
@@ -1870,11 +1866,7 @@ def _recipe_infobox_row_values(
 ) -> tuple[list[str], list[str]]:
     """Return Markdown and plain-text values for one recipe table row."""
     values = [
-        re.sub(
-            r"!\[[^\]]*\]\([^)]+\)\s*",
-            "",
-            _markdown_table_cell(cell),
-        ).strip()
+        re.sub(r"!\[[^\]]*\]\([^)]+\)\s*", "", _markdown_table_cell(cell)).strip()
         for cell in cells
     ]
     plain_values = [cell.text_content().strip() for cell in cells]
@@ -2023,9 +2015,7 @@ def _render_recipe_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     blocks = _render_recipe_skill(data)
     if data.requirements:
         blocks.append("**Requirements**")
-        blocks.extend(
-            f"**{label}:** {value}" for label, value in data.requirements
-        )
+        blocks.extend(f"**{label}:** {value}" for label, value in data.requirements)
     if data.materials:
         blocks.extend(
             [

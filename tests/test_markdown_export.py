@@ -476,27 +476,27 @@ def test_recipe_infobox_renders_skill_time_and_material_pairs() -> None:
         '<table class="infobox"><tbody>\n'
         '<tr><td><a href="./Gunsmithing.md">'
         '<img src="../assets/Gunsmithing.png" alt="G" />'
-        'Gunsmithing</a></td><td></td></tr>\n'
+        "Gunsmithing</a></td><td></td></tr>\n"
         '<tr><td colspan="2">1</td></tr>\n'
         '<tr><td colspan="2">5 minutes</td></tr>\n'
         '<tr><td colspan="2"><strong>Requirements</strong></td></tr>\n'
-        '<tr><td>Facility</td><td>Template:iconlink</td></tr>\n'
+        "<tr><td>Facility</td><td>Template:iconlink</td></tr>\n"
         '<tr><td colspan="2"><strong>Materials</strong></td></tr>\n'
         '<tr><td>Item</td><td><a href="./Bullet.md">'
         '<img src="../assets/Bullet.png" alt="B" />'
-        'Bullet</a></td></tr>\n'
-        '<tr><td>Quantity</td><td>1</td></tr>\n'
+        "Bullet</a></td></tr>\n"
+        "<tr><td>Quantity</td><td>1</td></tr>\n"
         '<tr><td colspan="2">Template:iconlink plain</td></tr>\n'
         '<tr><td colspan="2"><a href="./Casing.md">'
         '<img src="../assets/Casing.png" alt="C" />'
-        'Revolver Shell Casing</a></td></tr>\n'
+        "Revolver Shell Casing</a></td></tr>\n"
         '<tr><td colspan="2">1</td></tr>\n'
         '<tr><td colspan="2">Template:iconlink plain</td></tr>\n'
         '<tr><td colspan="2"><a href="./Can_of_Gunpowder.md">'
         '<img src="../assets/Gunpowder.png" alt="G" />'
-        'Can of Gunpowder</a></td></tr>\n'
+        "Can of Gunpowder</a></td></tr>\n"
         '<tr><td colspan="2">0.01 kg</td></tr>\n'
-        '</tbody></table>'
+        "</tbody></table>"
     )
 
     markdown = _html_fragment_to_markdown(fragment)

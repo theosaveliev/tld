@@ -68,18 +68,23 @@ Fishing Lure (Casing)
 
 **Fishing Lure (Revolver Shell Casing)**
 
-| Property | Details |
-| --- | --- |
-|  | 50.0 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Scrap Metal](./Scrap%20Metal.md) |
-| Quantity | 1 |
-|  | [Crow Feather](./Crow%20Feather.md) |
-|  | 1 |
-|  | [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) |
-|  | 1 |
+
+
+50.0 minutes
+
+[Crow Feather](./Crow%20Feather.md)
+
+1
+
+[Revolver Shell Casing](./Revolver%20Shell%20Casing.md)
+
+1
+
+**Requirements**
+
+**Item:** [Scrap Metal](./Scrap%20Metal.md)
+
+**Quantity:** 1
 
 ## Update history
 

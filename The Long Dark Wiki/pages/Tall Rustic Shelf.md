@@ -45,14 +45,14 @@ The Tall Rustic Shelf can be harvested with a [Hatchet](./Hatchet.md) in 2 hours
 
 **Tall Rustic Shelf**
 
-| Property | Details |
-| --- | --- |
-|  | 480 minutes (8 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cedar Firewood](./Cedar%20Firewood.md) |
-| Quantity | 10 |
+
+
+480 minutes (8 hour 0 minutes)
+
+**Requirements**
+
+**Item:** [Cedar Firewood](./Cedar%20Firewood.md)
+
+**Quantity:** 10
 
 ## Update History

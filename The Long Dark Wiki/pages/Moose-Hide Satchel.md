@@ -63,17 +63,19 @@ Like other clothing, the satchel is vulnerable to damage from [Struggle](./Strug
 
 **Moose-Hide Satchel**
 
-| Property | Details |
-| --- | --- |
-|  | 960 minutes (16 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cured Moose Hide](./Cured%20Moose%20Hide.md) |
-| Quantity | 1 |
-|  | [Cured Gut](./Cured%20Gut.md) |
-|  | 2 |
+
+
+960 minutes (16 hour 0 minutes)
+
+[Cured Gut](./Cured%20Gut.md)
+
+2
+
+**Requirements**
+
+**Item:** [Cured Moose Hide](./Cured%20Moose%20Hide.md)
+
+**Quantity:** 1
 
 ## Obtaining
 

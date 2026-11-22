@@ -59,17 +59,19 @@ In [Wintermute](./Wintermute.md), its blueprint is unlocked by preserving nature
 
 **Wolfskin Coat**
 
-| Property | Details |
-| --- | --- |
-|  | 1500 minutes (25 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md) |
-| Quantity | 4 |
-|  | [Cured Gut](./Cured%20Gut.md) |
-|  | 4 |
+
+
+1500 minutes (25 hour 0 minutes)
+
+[Cured Gut](./Cured%20Gut.md)
+
+4
+
+**Requirements**
+
+**Item:** [Cured Wolf Pelt](./Cured%20Wolf%20Pelt.md)
+
+**Quantity:** 4
 
 ## Gallery
 

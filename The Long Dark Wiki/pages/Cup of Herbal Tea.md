@@ -58,17 +58,18 @@ The benefit of Herbal Tea is similar to that of [Birch Bark Tea](./Birch%20Bark%
 
 **Cup of Herbal Tea**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-|  | 12.5 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Herbal Tea](./Herbal%20Tea.md) |
-| Quantity | 1 |
-|  | [Water (Potable)](./Water%20%28Potable%29.md) |
-|  | 0.25 L |
+
+12.5 minutes
+
+[Water (Potable)](./Water%20%28Potable%29.md)
+
+0.25 L
+
+**Requirements**
+
+**Item:** [Herbal Tea](./Herbal%20Tea.md)
+
+**Quantity:** 1
 
 ## Trivia
 

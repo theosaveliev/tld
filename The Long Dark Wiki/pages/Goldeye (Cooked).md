@@ -40,14 +40,13 @@ _Goldeye\_(Cooked)\_icon.png_
 
 **Goldeye (Cooked)**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) |
-| Quantity | 1 |
+
+
+**Requirements**
+
+**Item:** [Goldeye (Raw)](./Goldeye%20%28Raw%29.md)
+
+**Quantity:** 1
 
 ## Gallery
 

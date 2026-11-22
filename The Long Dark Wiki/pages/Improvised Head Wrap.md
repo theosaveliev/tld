@@ -52,15 +52,17 @@ _Model icon damaged_
 
 **Improvised Head Wrap**
 
-| Property | Details |
-| --- | --- |
-|  | 30 minutes |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cloth](./Cloth.md) |
-| Quantity | 2 |
+
+
+30 minutes
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Cloth](./Cloth.md)
+
+**Quantity:** 2
 
 ## Update history
 

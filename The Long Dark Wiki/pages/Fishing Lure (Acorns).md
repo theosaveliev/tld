@@ -66,18 +66,23 @@ Fishing Lure (Acorns)
 
 **Fishing Lure (Acorns)**
 
-| Property | Details |
-| --- | --- |
-|  | 50.0 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Scrap Metal](./Scrap%20Metal.md) |
-| Quantity | 1 |
-|  | [Crow Feather](./Crow%20Feather.md) |
-|  | 1 |
-|  | [Acorns](./Acorns.md) |
-|  | 1 |
+
+
+50.0 minutes
+
+[Crow Feather](./Crow%20Feather.md)
+
+1
+
+[Acorns](./Acorns.md)
+
+1
+
+**Requirements**
+
+**Item:** [Scrap Metal](./Scrap%20Metal.md)
+
+**Quantity:** 1
 
 ## Update History
 

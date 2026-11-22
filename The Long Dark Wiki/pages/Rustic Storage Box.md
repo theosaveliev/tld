@@ -35,14 +35,14 @@ The Rustic Storage Box is the only storage furniture item that can be picked up 
 
 **Rustic Storage Box**
 
-| Property | Details |
-| --- | --- |
-|  | 360 minutes (6 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cedar Firewood](./Cedar%20Firewood.md) |
-| Quantity | 8 |
+
+
+360 minutes (6 hour 0 minutes)
+
+**Requirements**
+
+**Item:** [Cedar Firewood](./Cedar%20Firewood.md)
+
+**Quantity:** 8
 
 ## Update History

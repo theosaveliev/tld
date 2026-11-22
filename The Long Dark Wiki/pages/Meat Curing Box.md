@@ -77,16 +77,18 @@ Progress for Crafting this item will be stored in the Furniture Workbench's cont
 
 **Meat Curing Box**
 
-| Property | Details |
-| --- | --- |
-|  | 360 minutes (6 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Fir Firewood](./Fir%20Firewood.md) |
-| Quantity | 10 |
-|  | [Salt](./Salt.md) |
-|  | 8.00 kg |
+
+
+360 minutes (6 hour 0 minutes)
+
+[Salt](./Salt.md)
+
+8.00 kg
+
+**Requirements**
+
+**Item:** [Fir Firewood](./Fir%20Firewood.md)
+
+**Quantity:** 10
 
 ## Update History

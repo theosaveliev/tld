@@ -60,17 +60,19 @@ When carried and selected for self-defense at the start of a Wolf Struggle, Impr
 
 **Improvised Hatchet**
 
-| Property | Details |
-| --- | --- |
-|  | 240 minutes (4 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Scrap Metal](./Scrap%20Metal.md) |
-| Quantity | 5 |
-|  | [Cloth](./Cloth.md) |
-|  | 1 |
+
+
+240 minutes (4 hour 0 minutes)
+
+[Cloth](./Cloth.md)
+
+1
+
+**Requirements**
+
+**Item:** [Scrap Metal](./Scrap%20Metal.md)
+
+**Quantity:** 5
 
 Improvised Hatchets may be rarely found in some regions, usually near frozen corpses or structures; such as in [Hushed River Valley](./Hushed%20River%20Valley.md) or [Milton Basin](./Milton%20Basin.md) in [Mountain Town](./Mountain%20Town.md) near [frozen corpses](./Frozen%20Corpse.md). One may also spawn atop the workbench in the [Gold Mine](./Gold%20Mine.md) of [Ash Canyon](./Ash%20Canyon.md).
 

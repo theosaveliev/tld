@@ -61,17 +61,18 @@ Cooked Acorns, while not a calorically dense food, having just over half the cal
 
 **Acorns (Cooked)**
 
-| Property | Details |
-| --- | --- |
-| [Cooking](./Cooking.md) |  |
-|  | 15 minutes |
-| **Requirements** |  |
-| Facility |  |
-| **Materials** |  |
-| Item | [Prepared Acorns](./Prepared%20Acorns.md) |
-| Quantity | 1 |
-|  | [Water (Potable)](./Water%20%28Potable%29.md) |
-|  | 0.25L |
+
+15 minutes
+
+[Water (Potable)](./Water%20%28Potable%29.md)
+
+0.25L
+
+**Requirements**
+
+**Item:** [Prepared Acorns](./Prepared%20Acorns.md)
+
+**Quantity:** 1
 
 ## Products
 

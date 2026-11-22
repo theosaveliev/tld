@@ -101,18 +101,25 @@ You can also pull a Torch from any fire, but their condition will always be rand
 
 **Torch**
 
-| Property | Details |
-| --- | --- |
-|  | 15 minutes |
-| **Requirements** |  |
-| Facility | \[\[File:Anywhere icon.png |
-| **Materials** |  |
-| Item | [Stick](./Stick.md) |
-| Quantity | 3 |
-|  | [Cloth](./Cloth.md) |
-|  | 1 |
-|  | [Lantern Fuel](./Lantern%20Fuel.md) |
-|  | 0.10 L |
+
+
+15 minutes
+
+[Cloth](./Cloth.md)
+
+1
+
+[Lantern Fuel](./Lantern%20Fuel.md)
+
+0.10 L
+
+**Requirements**
+
+**Facility:** \[\[File:Anywhere icon.png
+
+**Item:** [Stick](./Stick.md)
+
+**Quantity:** 3
 
 ## Harvesting
 

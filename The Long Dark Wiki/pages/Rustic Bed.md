@@ -37,18 +37,22 @@ Despite having a Backpack carry weight value, the bed cannot be picked up and pl
 
 **Rustic Bed**
 
-| Property | Details |
-| --- | --- |
-|  | 720 minutes (12 hour 0 minutes) |
-| **Requirements** |  |
-| Facility |  |
-| Tool |  |
-| **Materials** |  |
-| Item | [Cedar Firewood](./Cedar%20Firewood.md) |
-| Quantity | 10 |
-|  | [Cloth](./Cloth.md) |
-|  | 12 |
-|  | [Cured Gut](./Cured%20Gut.md) |
-|  | 2 |
+
+
+720 minutes (12 hour 0 minutes)
+
+[Cloth](./Cloth.md)
+
+12
+
+[Cured Gut](./Cured%20Gut.md)
+
+2
+
+**Requirements**
+
+**Item:** [Cedar Firewood](./Cedar%20Firewood.md)
+
+**Quantity:** 10
 
 ## Update History

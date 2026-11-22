@@ -1931,13 +1931,16 @@ def _remove_redundant_image_filename_captions(value: str) -> str:
     return REDUNDANT_IMAGE_FILENAME_CAPTION_RE.sub(replace, value)
 
 
-def _markdown_table_cell(cell: lhtml.HtmlElement) -> str:
+def _markdown_table_cell(
+    cell: lhtml.HtmlElement, *, use_html_line_breaks: bool = False
+) -> str:
     """Render a table cell as a single Markdown table row value."""
     content = _render_html_children(cell).rstrip()
     content = _remove_redundant_image_filename_captions(content)
     if content.endswith(r"\|-"):
         content = content[:-3].rstrip()
-    content = re.sub(r"\s*\n\s*", " / ", content).strip()
+    separator = "<br>" if use_html_line_breaks else " / "
+    content = re.sub(r"\s*\n\s*", separator, content).strip()
     return content.replace("|", r"\|")
 
 def _table_rows(table: lhtml.HtmlElement) -> list[list[lhtml.HtmlElement]]:
@@ -2345,9 +2348,17 @@ def _table_cell_has_block_layout(cell: lhtml.HtmlElement) -> bool:
     return any(_html_tag(child) in block_tags for child in cell.iterdescendants())
 
 
-def _render_generic_table(rows: list[list[lhtml.HtmlElement]]) -> str:
+def _render_generic_table(
+    rows: list[list[lhtml.HtmlElement]], *, use_html_line_breaks: bool = False
+) -> str:
     """Convert ordinary HTML tables to Markdown, dropping empty spacer columns."""
-    rendered_rows = [[_markdown_table_cell(cell) for cell in row] for row in rows]
+    rendered_rows = [
+        [
+            _markdown_table_cell(cell, use_html_line_breaks=use_html_line_breaks)
+            for cell in row
+        ]
+        for row in rows
+    ]
     width = max(len(row) for row in rendered_rows)
     retained_columns = [
         index
@@ -2366,7 +2377,6 @@ def _render_generic_table(rows: list[list[lhtml.HtmlElement]]) -> str:
         headers = [f"Column {index + 1}" for index in range(len(retained_columns))]
         values = compact_rows
     return _pipe_table(headers, values)
-
 
 def _render_gallery_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     """Render each gallery item as a standalone Markdown image and caption."""
@@ -2440,14 +2450,14 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
     if "gallery" in table_classes:
         table = _render_gallery_table(rows)
     elif "uses-material-list" in table_classes:
-        table = _render_generic_table(rows)
+        table = _render_generic_table(rows, use_html_line_breaks=has_images)
     elif _is_recipe_infobox(rows):
         table = _render_recipe_infobox_table(rows)
     elif _table_has_list_content(rows):
         table = (
             _render_list_content_table(rows)
             if _table_is_single_column(rows)
-            else _render_generic_table(rows)
+            else _render_generic_table(rows, use_html_line_breaks=has_images)
         )
     elif has_images:
         table = _render_image_layout_table(rows)

@@ -12,3 +12,5 @@ wheels/
 .vscode
 .DS_Store
 
+.rockgarden
+rockgarden_site

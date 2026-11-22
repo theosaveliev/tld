@@ -47,12 +47,12 @@ Suffering from the following afflictions affects the player's stamina.
 
 | Image | Affliction | Effect | Duration |
 | --- | --- | --- | --- |
-| ![Broken Ribs icon](../assets/Broken_Ribs_icon.png) | [Broken Ribs](./Broken%20Ribs.md) | - Stamina reduced by 50%<br>- Carrying capacity reduced by 25% | Until treatment |
-| ![Gorged icon](../assets/Gorged_icon.png) | [Gorged](./Gorged.md) | - Temporarily decreases maximum Stamina by 15% | 1 Hour |
-| ![Sprained Ankle icon](../assets/Sprained_Ankle_icon.png) | [Sprained Ankle](./Sprained%20Ankle.md) | - Sprinting is not possible | 4 Hours of rest or until treatment |
-| ![Hypothermia icon](../assets/Hypothermia_icon.png) | [Hypothermia](./Hypothermia.md) | - Fatigue is lost at twice the normal rate | Until treated |
-| ![Infection icon](../assets/Infection_icon.png) | [Infection](./Infection.md) | - Increase in fatigue gained while performing actions | Until treated |
-| ![Intestinal Parasites icon](../assets/Intestinal_Parasites_icon.png) | [Intestinal Parasites](./Intestinal%20Parasites.md) | - Maximum fatigue amd stamina is reduced by 2% per day | Until treated |
+| [Broken Ribs icon](../assets/Broken_Ribs_icon.png) | [Broken Ribs](./Broken%20Ribs.md) | - Stamina reduced by 50%<br>- Carrying capacity reduced by 25% | Until treatment |
+| [Gorged icon](../assets/Gorged_icon.png) | [Gorged](./Gorged.md) | - Temporarily decreases maximum Stamina by 15% | 1 Hour |
+| [Sprained Ankle icon](../assets/Sprained_Ankle_icon.png) | [Sprained Ankle](./Sprained%20Ankle.md) | - Sprinting is not possible | 4 Hours of rest or until treatment |
+| [Hypothermia icon](../assets/Hypothermia_icon.png) | [Hypothermia](./Hypothermia.md) | - Fatigue is lost at twice the normal rate | Until treated |
+| [Infection icon](../assets/Infection_icon.png) | [Infection](./Infection.md) | - Increase in fatigue gained while performing actions | Until treated |
+| [Intestinal Parasites icon](../assets/Intestinal_Parasites_icon.png) | [Intestinal Parasites](./Intestinal%20Parasites.md) | - Maximum fatigue amd stamina is reduced by 2% per day | Until treated |
 
 ## Activities
 

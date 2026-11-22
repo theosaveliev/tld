@@ -45,17 +45,17 @@ Some Afflictions cause Condition damage. Falling through [Weak Ice](./Weak%20Ice
 
 | Image | Affliction | Condition Instantly Lost |
 | --- | --- | --- |
-| ![Torn Clothing icon](../assets/Torn_Clothing_icon.png) | [Torn Clothing](./Torn%20Clothing.md) | N/A (To Clothing Condition) |
-| ![Major Bruising icon](../assets/Major_Bruising_icon.png) | [Major Bruising](./Major%20Bruising.md) | -10% |
-| ![Minor Bruising icon](../assets/Minor_Bruising_icon.png) | [Minor Bruising](./Minor%20Bruising.md) | -5% |
-| ![Laceration icon](../assets/Laceration_icon.png) | [Laceration](./Laceration.md) | -10% to -15% |
+| [Torn Clothing icon](../assets/Torn_Clothing_icon.png) | [Torn Clothing](./Torn%20Clothing.md) | N/A (To Clothing Condition) |
+| [Major Bruising icon](../assets/Major_Bruising_icon.png) | [Major Bruising](./Major%20Bruising.md) | -10% |
+| [Minor Bruising icon](../assets/Minor_Bruising_icon.png) | [Minor Bruising](./Minor%20Bruising.md) | -5% |
+| [Laceration icon](../assets/Laceration_icon.png) | [Laceration](./Laceration.md) | -10% to -15% |
 
 [Misery](./Misery.md) Afflictions are unique to this game mode only, but many can cause Condition loss
 
 | Image | Affliction | Condition Instantly Lost |
 | --- | --- | --- |
-| ![Rheumatic Joints icon](../assets/Rheumatic_Joints_icon.png) | [Rheumatic Joints](./Rheumatic%20Joints.md) | -2% from Sprains |
-| ![Broken Body icon](../assets/Broken_Body_icon.png) | [Broken Body](./Broken%20Body.md) | +100% more Condition loss from any damage source |
+| [Rheumatic Joints icon](../assets/Rheumatic_Joints_icon.png) | [Rheumatic Joints](./Rheumatic%20Joints.md) | -2% from Sprains |
+| [Broken Body icon](../assets/Broken_Body_icon.png) | [Broken Body](./Broken%20Body.md) | +100% more Condition loss from any damage source |
 
 ### Damage over time
 
@@ -63,13 +63,13 @@ Other Afflictions cause damage over a period of time, and often take longer peri
 
 | Image | Affliction | Daily drain rate | Hourly drain rate | Minute drain rate |
 | --- | --- | --- | --- | --- |
-| ![Food Poisoning icon](../assets/Food_Poisoning_icon.png) | [Food Poisoning](./Food%20Poisoning.md) | -85.0% | -3.5% | -0.058% |
-| ![Blood Loss icon](../assets/Blood_Loss_icon.png) | [Blood Loss](./Blood%20Loss.md) | -720.0% | -30.0% | -0.5% |
-| ![Dysentery icon](../assets/Dysentery_icon.png) | [Dysentery](./Dysentery.md) | -96% | -4% | -0.067% |
-| ![Infection icon](../assets/Infection_icon.png) | [Infection](./Infection.md) | -120% | -5% | -0.083% |
-| ![Hypothermia icon](../assets/Hypothermia_icon.png) | Freezing while [Hypothermic](./Hypothermia.md) | -960.0% | -40.0% | -0.66% |
-| ![Fear icon](../assets/Fear_icon.png) | [Fear](./Afflictions.md) | -72,000.0% | -3,000.0% | -50.0% |
-| ![Burns icon](../assets/Burns_icon.png) | [Burns](./Burns.md) | -2,851,200.0% | -118,800.0% | -1980.0% |
+| [Food Poisoning icon](../assets/Food_Poisoning_icon.png) | [Food Poisoning](./Food%20Poisoning.md) | -85.0% | -3.5% | -0.058% |
+| [Blood Loss icon](../assets/Blood_Loss_icon.png) | [Blood Loss](./Blood%20Loss.md) | -720.0% | -30.0% | -0.5% |
+| [Dysentery icon](../assets/Dysentery_icon.png) | [Dysentery](./Dysentery.md) | -96% | -4% | -0.067% |
+| [Infection icon](../assets/Infection_icon.png) | [Infection](./Infection.md) | -120% | -5% | -0.083% |
+| [Hypothermia icon](../assets/Hypothermia_icon.png) | Freezing while [Hypothermic](./Hypothermia.md) | -960.0% | -40.0% | -0.66% |
+| [Fear icon](../assets/Fear_icon.png) | [Fear](./Afflictions.md) | -72,000.0% | -3,000.0% | -50.0% |
+| [Burns icon](../assets/Burns_icon.png) | [Burns](./Burns.md) | -2,851,200.0% | -118,800.0% | -1980.0% |
 
 - **Note 1**: Intestinal Parasites affects _maximum_ Condition.
 - **Note 2:** Food Poisoning is non-lethal, and cannot lower Condition below 15%.
@@ -88,8 +88,8 @@ A "+" Plus symbol and the color blue is used to denote any condition gained when
 
 | Image | Affliction | Condition increase |
 | --- | --- | --- |
-| ![Well Fed icon](../assets/Well_Fed_icon.png) | [Well Fed](./Well%20Fed.md) | Temporarily increases Condition bar by 5% |
-| ![Nourished icon](../assets/Nourished_icon.png) | [Nourished](./Nourished.md) | Temporarily increases Condition bar by 10% |
+| [Well Fed icon](../assets/Well_Fed_icon.png) | [Well Fed](./Well%20Fed.md) | Temporarily increases Condition bar by 5% |
+| [Nourished icon](../assets/Nourished_icon.png) | [Nourished](./Nourished.md) | Temporarily increases Condition bar by 10% |
 
 ### Negative
 
@@ -103,11 +103,11 @@ A "-" Minus symbol and the color red is used to denote any Condition on the bar 
 
 | Image | Affliction | Condition decrease |
 | --- | --- | --- |
-| ![Frostbite icon](../assets/Frostbite_icon.png) | [Frostbite](./Frostbite.md) | Permanently decreases Condition bar by 10% per instance |
-| ![Cheated Death Penalty icon](../assets/Cheated_Death_Penalty_icon.png) | [Cheated Death Penalty](./Cheated%20Death%20Penalty.md) | Temporary or Permanent Condition loss |
-| ![Burns icon](../assets/Burns_icon.png) | [Burns](./Burns.md) | Immediately reduces max Condition bar to 75% of its Condition |
-| ![Chemical Poisoning icon](../assets/Chemical_Poisoning_icon.png) | [Chemical Poisoning](./Chemical%20Poisoning.md) | Reduces max Condition bar by 20% (per Affliction) |
-| ![Intestinal Parasites icon](../assets/Intestinal_Parasites_icon.png) | [Intestinal Parasites](./Intestinal%20Parasites.md) | Permanently reduces max Condition bar by 2% daily until cured |
+| [Frostbite icon](../assets/Frostbite_icon.png) | [Frostbite](./Frostbite.md) | Permanently decreases Condition bar by 10% per instance |
+| [Cheated Death Penalty icon](../assets/Cheated_Death_Penalty_icon.png) | [Cheated Death Penalty](./Cheated%20Death%20Penalty.md) | Temporary or Permanent Condition loss |
+| [Burns icon](../assets/Burns_icon.png) | [Burns](./Burns.md) | Immediately reduces max Condition bar to 75% of its Condition |
+| [Chemical Poisoning icon](../assets/Chemical_Poisoning_icon.png) | [Chemical Poisoning](./Chemical%20Poisoning.md) | Reduces max Condition bar by 20% (per Affliction) |
+| [Intestinal Parasites icon](../assets/Intestinal_Parasites_icon.png) | [Intestinal Parasites](./Intestinal%20Parasites.md) | Permanently reduces max Condition bar by 2% daily until cured |
 
 ## Recovering Condition
 
@@ -157,10 +157,10 @@ The following Afflictions negatively affect Condition recovery.
 
 | Image | Affliction | Condition Recovery Penalty |
 | --- | --- | --- |
-| ![Insomnia icon](../assets/Insomnia_icon.png) | [Insomnia](./Insomnia.md) | Has a chance to interupt Rest |
-| ![Weakened State icon](../assets/Weakened_State_icon.png) | [Weakened State](./Weakened%20State.md) | Halves Condition Recovery |
-| ![Haunted Mind icon](../assets/Haunted_Mind_icon.png) | [Haunted Mind](./Haunted%20Mind.md) | -50% Condition healing from Rest |
-| ![Broken Body icon](../assets/Broken_Body_icon.png) | [Broken Body](./Broken%20Body.md) | Disables all forms of Condition Recovery |
+| [Insomnia icon](../assets/Insomnia_icon.png) | [Insomnia](./Insomnia.md) | Has a chance to interupt Rest |
+| [Weakened State icon](../assets/Weakened_State_icon.png) | [Weakened State](./Weakened%20State.md) | Halves Condition Recovery |
+| [Haunted Mind icon](../assets/Haunted_Mind_icon.png) | [Haunted Mind](./Haunted%20Mind.md) | -50% Condition healing from Rest |
+| [Broken Body icon](../assets/Broken_Body_icon.png) | [Broken Body](./Broken%20Body.md) | Disables all forms of Condition Recovery |
 
 ## Death
 

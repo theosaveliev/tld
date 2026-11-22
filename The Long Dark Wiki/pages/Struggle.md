@@ -32,13 +32,13 @@ Struggles typically result in a loss of [Condition](./Condition.md) via the foll
 
 | Image | Affliction | Min Damage | Max Damage |
 | --- | --- | --- | --- |
-| ![Blood Loss icon](../assets/Blood_Loss_icon.png) | [Blood Loss](./Blood%20Loss.md) | 15 | 20 |
-| ![Sprained Ankle icon](../assets/Sprained_Ankle_icon.png) | [Sprained Ankle](./Sprained%20Ankle.md) | 0 | 0 |
-| ![Sprained Wrist icon](../assets/Sprained_Wrist_icon.png) | [Sprained Wrist](./Sprained%20Wrist.md) | 0 | 0 |
-| ![Laceration icon](../assets/Laceration_icon.png) | [Laceration](./Laceration.md) | 5 | 10 |
-| ![Minor Bruising icon](../assets/Minor_Bruising_icon.png) | [Minor Bruising](./Minor%20Bruising.md) | 5 | 10 |
-| ![Major Bruising icon](../assets/Major_Bruising_icon.png) | [Major Bruising](./Major%20Bruising.md) | 10 | 15 |
-| ![Torn Clothing icon](../assets/Torn_Clothing_icon.png) | [Torn Clothing](./Torn%20Clothing.md) | 15 (To Clothing) | 25 (To Clothing) |
+| [Blood Loss icon](../assets/Blood_Loss_icon.png) | [Blood Loss](./Blood%20Loss.md) | 15 | 20 |
+| [Sprained Ankle icon](../assets/Sprained_Ankle_icon.png) | [Sprained Ankle](./Sprained%20Ankle.md) | 0 | 0 |
+| [Sprained Wrist icon](../assets/Sprained_Wrist_icon.png) | [Sprained Wrist](./Sprained%20Wrist.md) | 0 | 0 |
+| [Laceration icon](../assets/Laceration_icon.png) | [Laceration](./Laceration.md) | 5 | 10 |
+| [Minor Bruising icon](../assets/Minor_Bruising_icon.png) | [Minor Bruising](./Minor%20Bruising.md) | 5 | 10 |
+| [Major Bruising icon](../assets/Major_Bruising_icon.png) | [Major Bruising](./Major%20Bruising.md) | 10 | 15 |
+| [Torn Clothing icon](../assets/Torn_Clothing_icon.png) | [Torn Clothing](./Torn%20Clothing.md) | 15 (To Clothing) | 25 (To Clothing) |
 
 The above damage values are always increased by 50% on Interloper.
 
@@ -46,11 +46,11 @@ The following Afflictions can also be acquired during Struggles:
 
 | Image | Affliction | Source |
 | --- | --- | --- |
-| ![Infection Risk icon](../assets/Infection_Risk_icon.png) | [Infection Risk](./Infection%20Risk.md) | Acquire Blood Loss |
-| ![Chemical Poisoning Risk icon](../assets/Chemical_Poisoning_Risk_icon.png) | [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md) | [Poisoned Wolf](./Poisoned%20Wolf.md) Struggles |
-| ![Pain icon](../assets/Pain_icon.png) | [Pain](./Pain.md) | Sprained Ankle/Wrist |
-| ![Broken Ribs icon](../assets/Broken_Ribs_icon.png) | [Broken Ribs](./Broken%20Ribs.md) | [Moose](./Moose.md) Struggles |
-| ![Severe Lacerations icon](../assets/Severe_Lacerations_icon.png) | [Severe Lacerations](./Severe%20Lacerations.md) | [Cougar](./Cougar.md) Struggles |
+| [Infection Risk icon](../assets/Infection_Risk_icon.png) | [Infection Risk](./Infection%20Risk.md) | Acquire Blood Loss |
+| [Chemical Poisoning Risk icon](../assets/Chemical_Poisoning_Risk_icon.png) | [Chemical Poisoning Risk](./Chemical%20Poisoning%20Risk.md) | [Poisoned Wolf](./Poisoned%20Wolf.md) Struggles |
+| [Pain icon](../assets/Pain_icon.png) | [Pain](./Pain.md) | Sprained Ankle/Wrist |
+| [Broken Ribs icon](../assets/Broken_Ribs_icon.png) | [Broken Ribs](./Broken%20Ribs.md) | [Moose](./Moose.md) Struggles |
+| [Severe Lacerations icon](../assets/Severe_Lacerations_icon.png) | [Severe Lacerations](./Severe%20Lacerations.md) | [Cougar](./Cougar.md) Struggles |
 
 Wolf Struggles are partially scripted and can be defended against with certain [Tools](./Tools.md), Bear and Moose struggles are fully scripted and always result in a player defeat. Animals wounded prior to the start of a struggle can be killed during it, and Wolves wounded in struggles can later bleed out and die.
 

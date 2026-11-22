@@ -836,9 +836,11 @@ def _repair_malformed_wikitext_table_attributes(value: str) -> str:
         cleaned,
     )
     cleaned = WIKITEXT_NBSP_CELL_RE.sub(
-        r"\g<marker> &nbsp;\g<line_ending>", cleaned
+        r"\g<marker>\g<line_ending>", cleaned
     )
-    return WIKITEXT_EMPTY_CELL_LINE_RE.sub(r"\g<marker> &nbsp;\g<line_ending>", cleaned)
+    return WIKITEXT_EMPTY_CELL_LINE_RE.sub(
+        r"\g<marker>\g<line_ending>", cleaned
+    )
 
 
 def _imagemap_file_markup(header: str) -> str:

@@ -1874,7 +1874,7 @@ def test_sanitize_expanded_wikitext_repairs_common_table_attributes() -> None:
     ) in sanitized
     assert 'sortable"" ' not in sanitized
     assert '11em;""' not in sanitized
-    assert sanitized.endswith("|&nbsp;\n|}")
+    assert sanitized.endswith("|\n|}")
 
 
 def test_sanitize_expanded_wikitext_renders_imagemaps_as_images_and_region_links() -> None:
@@ -1908,10 +1908,8 @@ def test_sanitize_expanded_wikitext_normalizes_nbsp_only_table_cells() -> None:
 
     sanitized = _sanitize_expanded_wikitext(source)
 
-    assert "| &nbsp;\n" in sanitized
-    assert "! &nbsp;\n" in sanitized
-    assert "|&nbsp;" not in sanitized
-    assert "!&nbsp;" not in sanitized
+    assert sanitized == '{| class="wikitable"\n|\n!\n|}'
+    assert "&nbsp;" not in sanitized
 
 
 def test_sanitize_expanded_wikitext_ignores_reference_tags_inside_comments() -> None:

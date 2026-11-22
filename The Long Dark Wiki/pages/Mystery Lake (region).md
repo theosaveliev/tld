@@ -63,9 +63,28 @@ Arguably the largest base location in the game, the dam offers almost limitless 
 
 There are many accessible locations within Mystery Lake, including:
 
-| Column 1 | Column 2 |
-| --- | --- |
-| - [Alan's Cave](./Alan%27s%20Cave.md) - [Camp Office](./Camp%20Office.md) - [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) - [Clearcut](./Clearcut.md) - [Dave's Quiet Clearing](./Dave%27s%20Quiet%20Clearing.md) - [Deadfall Area](./Deadfall%20Area.md) - [Derailment](./Derailment.md) - [Destroyed Lookout](./Destroyed%20Lookout.md) - [Forestry Lookout](./Forestry%20Lookout.md) - [Frozen Creek](./Frozen%20Creek.md) - [Ice Fishing Huts](./Ice%20Fishing%20Huts.md) | - [Lake Overlook](./Lake%20Overlook.md) - [Lake Trail](./Lake%20Trail.md) - [Logging Camp](./Logging%20Camp.md) - [Max's Last Stand](./Max%27s%20Last%20Stand.md) - [Rail Tunnel](./Rail%20Tunnel.md) - To Cave System (Transition to [Mountain Town](./Mountain%20Town.md)) - To Forlorn Muskeg (Transition to [Forlorn Muskeg](./Forlorn%20Muskeg.md)) - To Ravine (Transition to [The Ravine](./The%20Ravine.md)) - [Train Loading Area](./Train%20Loading%20Area.md) - [Trapper's Homestead](./Trapper%27s%20Homestead.md) - [Unnamed Pond](./Unnamed%20Pond.md) |
+- [Alan's Cave](./Alan%27s%20Cave.md)
+- [Camp Office](./Camp%20Office.md)
+- [Carter Hydro Dam](./Carter%20Hydro%20Dam.md)
+- [Clearcut](./Clearcut.md)
+- [Dave's Quiet Clearing](./Dave%27s%20Quiet%20Clearing.md)
+- [Deadfall Area](./Deadfall%20Area.md)
+- [Derailment](./Derailment.md)
+- [Destroyed Lookout](./Destroyed%20Lookout.md)
+- [Forestry Lookout](./Forestry%20Lookout.md)
+- [Frozen Creek](./Frozen%20Creek.md)
+- [Ice Fishing Huts](./Ice%20Fishing%20Huts.md)
+- [Lake Overlook](./Lake%20Overlook.md)
+- [Lake Trail](./Lake%20Trail.md)
+- [Logging Camp](./Logging%20Camp.md)
+- [Max's Last Stand](./Max%27s%20Last%20Stand.md)
+- [Rail Tunnel](./Rail%20Tunnel.md)
+- To Cave System (Transition to [Mountain Town](./Mountain%20Town.md))
+- To Forlorn Muskeg (Transition to [Forlorn Muskeg](./Forlorn%20Muskeg.md))
+- To Ravine (Transition to [The Ravine](./The%20Ravine.md))
+- [Train Loading Area](./Train%20Loading%20Area.md)
+- [Trapper's Homestead](./Trapper%27s%20Homestead.md)
+- [Unnamed Pond](./Unnamed%20Pond.md)
 
 ### Unmarked Locations
 

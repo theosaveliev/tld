@@ -42,11 +42,11 @@ title appears as the page's H1 heading, and detected categories and the source
 URL are retained as a readable Markdown metadata line. Article links are
 rewritten to the allocated local Markdown filenames, redirects resolve to
 their destination articles, and referenced images are copied into `assets/`.
-Fandom galleries are converted to standalone Markdown images with captions
-because Markdown has no portable native gallery layout. Other image-bearing
-tables are converted to ordinary Markdown blocks so images do not depend on
-table-cell rendering. Images without filename extensions are given one based
-on their file signatures when recognized.
+Fandom galleries and image-layout tables are converted to ordinary Markdown
+blocks. Infoboxes and data tables retain their Markdown table structure, but
+images inside table cells are converted to ordinary links because Zettlr does
+not render embedded images in tables. Images without filename extensions are
+given one based on their file signatures when recognized.
 
 Alongside the primary `--image-dir`, the exporter searches a sibling directory
 named `<image-dir-name>_mismatch` for images not found in the primary directory;

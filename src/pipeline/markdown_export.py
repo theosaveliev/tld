@@ -2481,19 +2481,33 @@ def _markdown_images_as_links(value: str) -> str:
     return MARKDOWN_IMAGE_RE.sub(replace, value)
 
 
+def _table_has_affliction_header(rows: list[list[lhtml.HtmlElement]]) -> bool:
+    """Identify data tables whose first row includes an Affliction column."""
+    return bool(
+        rows
+        and any(
+            _html_tag(cell) == "th"
+            and cell.text_content().strip().casefold() == "affliction"
+            for cell in rows[0]
+        )
+    )
+
+
 def _render_generic_table(
-    rows: list[list[lhtml.HtmlElement]], *, use_html_line_breaks: bool = False
+    rows: list[list[lhtml.HtmlElement]],
+    *,
+    use_html_line_breaks: bool = False,
+    images_as_links: bool = False,
 ) -> str:
     """Convert ordinary HTML tables to Markdown, dropping empty spacer columns."""
-    rendered_rows = [
-        [
-            _markdown_images_as_links(
-                _markdown_table_cell(cell, use_html_line_breaks=use_html_line_breaks)
-            )
-            for cell in row
-        ]
-        for row in rows
-    ]
+
+    def render_cell(cell: lhtml.HtmlElement) -> str:
+        rendered = _markdown_table_cell(
+            cell, use_html_line_breaks=use_html_line_breaks
+        )
+        return _markdown_images_as_links(rendered) if images_as_links else rendered
+
+    rendered_rows = [[render_cell(cell) for cell in row] for row in rows]
     width = max(len(row) for row in rendered_rows)
     retained_columns = [
         index
@@ -2569,12 +2583,17 @@ def _render_special_html_table(
     table_classes: list[str],
     has_images: bool,
     use_html_line_breaks: bool,
+    images_as_links: bool,
 ) -> str | None:
     """Render a table with a recognized gallery, recipe, or infobox layout."""
     if "gallery" in table_classes:
         return _render_gallery_table(rows)
     if "uses-material-list" in table_classes:
-        return _render_generic_table(rows, use_html_line_breaks=use_html_line_breaks)
+        return _render_generic_table(
+            rows,
+            use_html_line_breaks=use_html_line_breaks,
+            images_as_links=images_as_links,
+        )
     if _is_recipe_infobox(rows):
         return _render_recipe_infobox_table(rows)
     if "infobox" in table_classes:
@@ -2587,7 +2606,11 @@ def _render_special_html_table(
         return (
             _render_list_content_table(rows)
             if _table_is_single_column(rows)
-            else _render_generic_table(rows, use_html_line_breaks=use_html_line_breaks)
+            else _render_generic_table(
+                rows,
+                use_html_line_breaks=use_html_line_breaks,
+                images_as_links=images_as_links,
+            )
         )
     return None
 
@@ -2599,13 +2622,16 @@ def _render_html_table_content(
     use_html_line_breaks: bool,
 ) -> str:
     """Choose the Markdown representation for an HTML table."""
+    images_as_links = _table_has_affliction_header(rows)
     special_table = _render_special_html_table(
-        rows, table_classes, has_images, use_html_line_breaks
+        rows, table_classes, has_images, use_html_line_breaks, images_as_links
     )
     if special_table is not None:
         return special_table
     if has_images and any(_html_tag(cell) == "th" for cell in rows[0]):
-        return _render_generic_table(rows, use_html_line_breaks=True)
+        return _render_generic_table(
+            rows, use_html_line_breaks=True, images_as_links=images_as_links
+        )
     if has_images:
         return _render_image_layout_table(rows)
     if _table_has_wide_row(rows):

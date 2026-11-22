@@ -2601,37 +2601,111 @@ def _table_has_affliction_header(rows: list[list[lhtml.HtmlElement]]) -> bool:
     )
 
 
+def _table_cell_span(cell: lhtml.HtmlElement, attribute: str) -> int:
+    """Read a positive HTML table span, defaulting to one cell."""
+    try:
+        return max(1, int(cell.get(attribute, "1")))
+    except ValueError:
+        return 1
+
+
+def _expanded_table_grid(
+    rows: list[list[lhtml.HtmlElement]],
+) -> list[list[lhtml.HtmlElement | None]]:
+    """Expand rowspan and colspan cells into a rectangular HTML table grid."""
+    occupied: dict[tuple[int, int], lhtml.HtmlElement] = {}
+    width = 0
+    for row_index, cells in enumerate(rows):
+        column = 0
+        for cell in cells:
+            while (row_index, column) in occupied:
+                column += 1
+            column_span = _table_cell_span(cell, "colspan")
+            row_span = _table_cell_span(cell, "rowspan")
+            if cell.get("rowspan") == "0":
+                row_span = len(rows) - row_index
+            for row_offset in range(row_span):
+                target_row = row_index + row_offset
+                if target_row >= len(rows):
+                    break
+                for column_offset in range(column_span):
+                    occupied[(target_row, column + column_offset)] = cell
+            column += column_span
+            width = max(width, column)
+    return [
+        [occupied.get((row_index, column)) for column in range(width)]
+        for row_index in range(len(rows))
+    ]
+
+
 def _render_generic_table(
     rows: list[list[lhtml.HtmlElement]],
     *,
     use_html_line_breaks: bool = False,
     images_as_links: bool = False,
 ) -> str:
-    """Convert ordinary HTML tables to Markdown, dropping empty spacer columns."""
+    """Convert HTML tables to Markdown, retaining spans and list line breaks."""
 
     def render_cell(cell: lhtml.HtmlElement) -> str:
         rendered = _markdown_table_cell(cell, use_html_line_breaks=use_html_line_breaks)
         return _markdown_images_as_links(rendered) if images_as_links else rendered
 
-    rendered_rows = [[render_cell(cell) for cell in row] for row in rows]
-    width = max(len(row) for row in rendered_rows)
+    grid = _expanded_table_grid(rows)
+    rendered_cells = {
+        cell: render_cell(cell)
+        for row in rows
+        for cell in row
+    }
+    header_rows = 0
+    for row in grid:
+        cells = [cell for cell in row if cell is not None]
+        if not cells or not all(_html_tag(cell) == "th" for cell in cells):
+            break
+        header_rows += 1
+
+    if header_rows:
+        headers: list[str] = []
+        for column in range(len(grid[0])):
+            parts: list[str] = []
+            seen: set[lhtml.HtmlElement] = set()
+            for row in grid[:header_rows]:
+                cell = row[column]
+                if cell is None or cell in seen:
+                    continue
+                seen.add(cell)
+                value = rendered_cells[cell]
+                if value and value not in parts:
+                    parts.append(value)
+            headers.append(" — ".join(parts))
+        body_grid = grid[header_rows:]
+    else:
+        headers = [""] * len(grid[0])
+        body_grid = grid
+
+    rendered_rows: list[list[str]] = []
+    for row in body_grid:
+        rendered_row: list[str] = []
+        seen = set()
+        for cell in row:
+            if cell is None or cell in seen:
+                rendered_row.append("")
+                continue
+            seen.add(cell)
+            rendered_row.append(rendered_cells[cell])
+        rendered_rows.append(rendered_row)
+
     retained_columns = [
         index
-        for index in range(width)
-        if any(index < len(row) and row[index] for row in rendered_rows)
+        for index in range(len(headers))
+        if headers[index]
+        or any(row[index] for row in rendered_rows)
     ]
+    compact_headers = [headers[index] for index in retained_columns]
     compact_rows = [
-        [row[index] if index < len(row) else "" for index in retained_columns]
+        [row[index] for index in retained_columns]
         for row in rendered_rows
     ]
-    has_header = any(_html_tag(cell) == "th" for cell in rows[0])
-    if has_header:
-        headers = compact_rows[0]
-        values = compact_rows[1:]
-    else:
-        headers = [f"Column {index + 1}" for index in range(len(retained_columns))]
-        values = compact_rows
-    return _pipe_table(headers, values)
+    return _pipe_table(compact_headers, compact_rows)
 
 
 def _render_gallery_table(rows: list[list[lhtml.HtmlElement]]) -> str:
@@ -2999,6 +3073,16 @@ def _normalize_markdown_anchor_hrefs(root: lhtml.HtmlElement) -> None:
             link.set("href", path + "#" + slug)
 
 
+def _table_has_spanned_cells(rows: list[list[lhtml.HtmlElement]]) -> bool:
+    """Return whether an HTML table uses merged rows or columns."""
+    return any(
+        _table_cell_span(cell, attribute) > 1
+        for row in rows
+        for cell in row
+        for attribute in ("rowspan", "colspan")
+    )
+
+
 def _contains_custom_render_table(fragment: str) -> bool:
     """Return whether HTML contains a gallery, image, or wide sparse table."""
     root = lhtml.fragment_fromstring(fragment or "", create_parent="div")
@@ -3006,6 +3090,7 @@ def _contains_custom_render_table(fragment: str) -> bool:
         {"gallery", "uses-material-list"} & set((table.get("class") or "").split())
         or any(_html_tag(child) == "img" for child in table.iter())
         or _table_has_list_content(_table_rows(table))
+        or _table_has_spanned_cells(_table_rows(table))
         or any(
             len(row) == 1 and _table_cell_has_block_layout(row[0])
             for row in _table_rows(table)

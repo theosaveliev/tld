@@ -1041,6 +1041,53 @@ def test_html_table_with_list_cells_renders_as_markdown_lists() -> None:
     assert "| Column 1 |" not in markdown
 
 
+def test_short_lists_in_multi_column_tables_keep_line_breaks() -> None:
+    fragment = """<table><tbody><tr>
+<td><ul><li>East Railyard</li><li>West Railyard</li>
+<li>Bridge</li><li>Huts</li></ul></td>
+<td><ul><li>To Port Remnant</li><li>To Track Section 2</li></ul></td>
+</tr></tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "|  |  |" in markdown
+    assert "- East Railyard<br>- West Railyard<br>- Bridge<br>- Huts" in markdown
+    assert "- To Port Remnant<br>- To Track Section 2" in markdown
+    assert " / - West Railyard" not in markdown
+    assert "| Column 1 | Column 2 |" not in markdown
+
+
+def test_multirow_table_headers_expand_rowspan_and_colspan() -> None:
+    fragment = """<table><tbody>
+<tr>
+<th rowspan="2" colspan="2">Weapon</th>
+<th colspan="5">Critical Hit Chance</th>
+</tr>
+<tr>
+<th>Head</th><th>Neck</th><th>Torso</th><th>Hips</th><th>Limb</th>
+</tr>
+<tr>
+<td><img src="../assets/Hunting_Rifle_icon.png" alt="Hunting Rifle icon" /></td>
+<td><a href="./Hunting Rifle.md">Hunting Rifle</a></td>
+<td>15%</td><td>10%</td><td>5%</td><td>3%</td><td>3%</td>
+</tr>
+</tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert (
+        "| Weapon | Weapon | Critical Hit Chance — Head | "
+        "Critical Hit Chance — Neck | Critical Hit Chance — Torso | "
+        "Critical Hit Chance — Hips | Critical Hit Chance — Limb |"
+    ) in markdown
+    assert (
+        "| ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | "
+        "[Hunting Rifle](./Hunting%20Rifle.md) | "
+        "15% | 10% | 5% | 3% | 3% |"
+    ) in markdown
+    assert "| Head | Neck | Torso | Hips | Limb |" not in markdown
+
+
 def test_multi_column_list_table_omits_redundant_image_filename_caption() -> None:
     fragment = """<table><tbody>
 <tr><th>Image</th><th>Item</th><th>Notes</th></tr>
@@ -1412,6 +1459,43 @@ def test_html_fragment_to_markdown_rewrites_mediawiki_heading_anchors() -> None:
     assert "[Section One](#section-one)" in markdown
     assert r"[\[1\]](#cite_note-1)" in markdown
     assert "## Section One" in markdown
+
+
+def test_sanitize_expanded_wikitext_repairs_common_table_attributes() -> None:
+    source = (
+        '{| class="wikitable sticky-header sortable style="text-align: left;"\n'
+        '! scope="col" width: 11em;" |Name\n'
+        '|style="background-color: #3C3A53;" width:15%; '
+        'vertical-align:top"|Start location\n'
+        "|\n|}"
+    )
+
+    sanitized = _sanitize_expanded_wikitext(source)
+
+    assert (
+        '{| class="wikitable sticky-header sortable" '
+        'style="text-align: left;"'
+    ) in sanitized
+    assert '! scope="col" style="width: 11em;" |Name' in sanitized
+    assert (
+        '|style="background-color: #3C3A53; width:15%; vertical-align:top;"'
+        "|Start location"
+    ) in sanitized
+    assert "| &nbsp;" in sanitized
+
+
+def test_sanitize_expanded_wikitext_ignores_reference_tags_inside_comments() -> None:
+    source = (
+        "<!-- <ref>commented-out opener</ref> -->\n"
+        "Visible article text</ref>\n"
+        "<ref name=\\"real\\">A real reference</ref>"
+    )
+
+    sanitized = _sanitize_expanded_wikitext(source)
+
+    assert "commented-out opener" in sanitized
+    assert "Visible article text</ref>" not in sanitized
+    assert '<ref name="real">A real reference</ref>' in sanitized
 
 
 def test_sanitize_expanded_wikitext_cleans_markup() -> None:

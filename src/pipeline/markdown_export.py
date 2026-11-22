@@ -2779,11 +2779,44 @@ def _rendered_table_cells(
     return rendered
 
 
+def _has_grouped_headers(
+    grid: list[list[lhtml.HtmlElement | None]],
+    rendered_cells: dict[lhtml.HtmlElement, str],
+) -> bool:
+    """Detect a first header row with repeated group labels."""
+    if not grid:
+        return False
+    values = [
+        rendered_cells[cell]
+        for cell in grid[0]
+        if cell is not None and rendered_cells[cell]
+    ]
+    return len(values) > len(set(values))
+
+
+def _is_plain_subheader_row(
+    row: list[lhtml.HtmlElement | None],
+    rendered_cells: dict[lhtml.HtmlElement, str],
+) -> bool:
+    """Recognize a second header tier made of short, plain text labels."""
+    cells = [cell for cell in row if cell is not None and rendered_cells[cell]]
+    if len(cells) < 2:
+        return False
+    for cell in cells:
+        has_complex_content = any(
+            _html_tag(child) in {"a", "img", "ul", "ol", "table"}
+            for child in cell.iterdescendants()
+        )
+        if has_complex_content or len(rendered_cells[cell]) > 40:
+            return False
+    return True
+
+
 def _table_header_row_count(
     grid: list[list[lhtml.HtmlElement | None]],
     rendered_cells: dict[lhtml.HtmlElement, str],
 ) -> int:
-    """Count leading header rows, ignoring empty spacer cells."""
+    """Count leading header rows, including plain-text subheaders."""
     count = 0
     for row in grid:
         visible_cells = [
@@ -2793,6 +2826,13 @@ def _table_header_row_count(
             _html_tag(cell) == "th" for cell in visible_cells
         ):
             break
+        count += 1
+    if (
+        count == 1
+        and len(grid) > 1
+        and _has_grouped_headers(grid[:count], rendered_cells)
+        and _is_plain_subheader_row(grid[count], rendered_cells)
+    ):
         count += 1
     return count
 
@@ -2866,7 +2906,7 @@ def _render_generic_table(
     headers = (
         _render_table_headers(grid, header_rows, rendered_cells)
         if header_rows
-        else [""] * len(grid[0])
+        else [f"Column {index + 1}" for index in range(len(grid[0]))]
     )
     body_grid = grid[header_rows:]
     rendered_rows = _render_table_body(body_grid, rendered_cells)

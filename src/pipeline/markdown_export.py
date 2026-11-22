@@ -1046,7 +1046,7 @@ def _strip_missing_template_labels(line: str) -> str:
     )
     cleaned = re.sub(template_link, r"\1", line, flags=re.IGNORECASE)
     return re.sub(
-        r"\*{0,2}Template:(?:pic link plain|iconlink(?: plain)?)\*{0,2}",
+        r"\*{0,2}Template:(?:pic link plain|iconlink(?: plain)?|quote2)\*{0,2}",
         "",
         cleaned,
         flags=re.IGNORECASE,
@@ -1063,16 +1063,126 @@ def _strip_empty_markup_rows(line: str) -> str:
     return line
 
 
+def _quote_table_opening(line: str) -> re.Match[str] | None:
+    """Find the opening wrapper of a leaked Fandom quote2 table."""
+    return re.search(
+        r"\{\|\s*style\s*=\s*['\"]margin:auto['\"]\s*"
+        r"\|\s*style\s*=\s*['\"]vertical-align:top;[^'\"]*['\"]\s*"
+        r"\|\s*[“‘\"]\s*\|\s*(.*)$",
+        line,
+        re.IGNORECASE,
+    )
+
+
+def _quote_table_closing(line: str) -> re.Match[str] | None:
+    """Find the closing wrapper of a leaked Fandom quote2 table."""
+    return re.search(
+        r"\|\s*style\s*=\s*['\"]vertical-align:bottom;[^'\"]*['\"]\s*"
+        r"\|\s*[”’\"]\s*\|\}(.*)$",
+        line,
+        re.IGNORECASE,
+    )
+
+
+def _append_wikitext_quote(
+    output: list[str], quote_lines: list[str], trailing_text: str
+) -> None:
+    """Append a leaked quote2 table as a Markdown blockquote."""
+    content = [line.strip() for line in quote_lines]
+    while content and not content[-1]:
+        content.pop()
+
+    attribution = content.pop() if len(content) > 1 else ""
+    output.extend("> " + line if line else ">" for line in content)
+    if attribution:
+        output.extend([">", "> — " + attribution])
+    if trailing_text.strip():
+        output.append(trailing_text.strip())
+
+
+def _normalize_leaked_wikitext_quotes(value: str) -> str:
+    """Convert leaked quote2 table wrappers to ordinary Markdown blockquotes."""
+    lines = value.splitlines()
+    output: list[str] = []
+    quote_lines: list[str] = []
+    fence: tuple[str, int] | None = None
+
+    for line in lines:
+        if not quote_lines:
+            fence_match = FENCED_CODE_RE.match(line)
+            if fence_match is not None:
+                marker = fence_match.group(1)
+                if fence is None:
+                    fence = (marker[0], len(marker))
+                elif marker[0] == fence[0] and len(marker) >= fence[1]:
+                    fence = None
+                output.append(line)
+                continue
+            if fence is not None:
+                output.append(line)
+                continue
+
+            opening = _quote_table_opening(line)
+            if opening is None:
+                output.append(line)
+                continue
+
+            prefix = re.sub(
+                r"\*{1,2}\s*Template:quote2\s*\*{1,2}",
+                "",
+                line[: opening.start()],
+                flags=re.IGNORECASE,
+            )
+            if prefix.strip():
+                output.append(prefix.strip())
+
+            closing = _quote_table_closing(opening.group(1))
+            if closing is None:
+                quote_lines = [opening.group(1)]
+            else:
+                _append_wikitext_quote(
+                    output,
+                    [opening.group(1)[: closing.start()]],
+                    closing.group(1),
+                )
+            continue
+
+        closing = _quote_table_closing(line)
+        if closing is None:
+            quote_lines.append(line)
+            continue
+
+        before_closing = line[: closing.start()].strip()
+        if before_closing:
+            quote_lines.append(before_closing)
+        _append_wikitext_quote(output, quote_lines, closing.group(1))
+        quote_lines = []
+
+    if quote_lines:
+        return value
+    normalized = "\n".join(output)
+    return normalized + ("\n" if value.endswith("\n") else "")
+
+
 def _clean_wikitext_artifact_line(line: str) -> str:
     """Remove unsupported MediaWiki syntax from one ordinary text line."""
     cleaned = re.sub(r"\\+\|-[ \t]*(?=\r?\n?$)", "", line)
+    cleaned = re.sub(r"\\?\|\}", "", cleaned)
+    cleaned = re.sub(
+        r"\{\\?\|\s*(?:class\s*=\s*['\"][^'\"]*['\"]\s*)?"
+        r"style\s*=\s*['\"](?:margin:auto|background-color:transparent)[^'\"]*['\"]",
+        "",
+        cleaned,
+        flags=re.IGNORECASE,
+    )
     cleaned = _strip_missing_template_labels(cleaned)
     cleaned = re.sub(r"(?m)^(\s*[-*+]\s*),[ \t]*", r"\1", cleaned)
     return _strip_empty_markup_rows(cleaned)
 
 
 def _strip_wikitext_table_row_artifacts(value: str) -> str:
-    """Remove leaked MediaWiki table, file, template, and empty-list artifacts."""
+    """Remove leaked MediaWiki table, file, template, quote, and list artifacts."""
+    value = _normalize_leaked_wikitext_quotes(value)
     output: list[str] = []
     fence: tuple[str, int] | None = None
     for line in value.splitlines(keepends=True):
@@ -1711,12 +1821,19 @@ def _markdown_table_cell(cell: lhtml.HtmlElement) -> str:
 
 
 def _table_rows(table: lhtml.HtmlElement) -> list[list[lhtml.HtmlElement]]:
-    """Extract table rows and their direct data cells."""
+    """Extract only rows owned by this table, not rows in nested tables."""
     rows: list[list[lhtml.HtmlElement]] = []
-    for row in table.iter("tr"):
-        cells = [child for child in row if _html_tag(child) in {"td", "th"}]
-        if cells:
-            rows.append(cells)
+    for group in table:
+        if _html_tag(group) == "tr":
+            row_groups = [group]
+        elif _html_tag(group) in {"thead", "tbody", "tfoot"}:
+            row_groups = [row for row in group if _html_tag(row) == "tr"]
+        else:
+            continue
+        for row in row_groups:
+            cells = [child for child in row if _html_tag(child) in {"td", "th"}]
+            if cells:
+                rows.append(cells)
     return rows
 
 
@@ -2120,6 +2237,11 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
     caption = _inline_markdown(caption_node).strip() if caption_node is not None else ""
     if not rows:
         return f"**{caption}**" if caption else ""
+    if len(rows) == 1 and len(rows[0]) == 1:
+        cell = rows[0][0]
+        if any(_html_tag(child) == "table" for child in cell.iterdescendants()):
+            content = _render_html_children(cell)
+            return f"**{caption}**\n\n{content}" if caption and content else content
 
     table_classes = (node.get("class") or "").split()
     has_images = any(

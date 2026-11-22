@@ -1216,11 +1216,25 @@ def test_multirow_table_headers_expand_rowspan_and_colspan() -> None:
         "Critical Hit Chance — Hips | Critical Hit Chance — Limb |"
     ) in markdown
     assert (
-        "| ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | "
+        "| [Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | "
         "[Hunting Rifle](./Hunting%20Rifle.md) | "
         "15% | 10% | 5% | 3% | 3% |"
     ) in markdown
     assert "| Head | Neck | Torso | Hips | Limb |" not in markdown
+
+
+
+
+def test_image_layout_table_renders_image_cells_as_links() -> None:
+    fragment = """<table><tbody><tr>
+<td><img src="../assets/Hunting_Rifle_icon.png" alt="Hunting Rifle icon" /></td>
+<td>Hunting Rifle</td>
+</tr></tbody></table>"""
+
+    markdown = _html_fragment_to_markdown(fragment)
+
+    assert "[Hunting Rifle icon](../assets/Hunting_Rifle_icon.png)" in markdown
+    assert "![Hunting Rifle icon]" not in markdown
 
 
 def test_multi_column_list_table_omits_redundant_image_filename_caption() -> None:

@@ -2228,8 +2228,6 @@ def _render_mediawiki_html(
                 return html_fragment, "repaired", recovery_note
             return html_fragment, "ok", ""
 
-    if last_error is None:
-        raise RuntimeError("Pandoc conversion ended without a recorded error.")
     repaired_text, repaired_tables = _repair_unclosed_mediawiki_tables(candidate)
     if (
         "unexpected end of input" in str(last_error).casefold()

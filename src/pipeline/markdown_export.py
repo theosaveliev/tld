@@ -265,7 +265,7 @@ def normalize_image_name(name: str) -> str:
         for character in value
         if unicodedata.category(character) != "Cf"
     )
-    return value.replace(" ", "_").casefold()
+    return value.replace(" ", "_").casefold().rstrip("_")
 
 
 def _safe_destination(filename: str) -> str:

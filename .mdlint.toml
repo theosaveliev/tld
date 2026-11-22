@@ -1,3 +1,12 @@
-# Run all built-in mdlint rules. In particular, keep the no-inline-HTML
-# rule enabled so exported Markdown does not expose raw HTML tags.
+# Keep the full built-in rule set enabled.
 ignore = []
+
+# Raw HTML elements must never leak into user-facing Markdown.
+[rules.MD033]
+allowed_elements = []
+table_allowed_elements = []
+
+# Top-level unordered lists start at column zero; nested levels use two spaces.
+[rules.MD007]
+indent = 2
+start_indented = false

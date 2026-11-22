@@ -3319,6 +3319,11 @@ def _table_is_single_column(rows: list[list[lhtml.HtmlElement]]) -> bool:
     return all(len(row) == 1 for row in rows)
 
 
+def _table_has_header_row(rows: list[list[lhtml.HtmlElement]]) -> bool:
+    """Return whether a table begins with a real HTML header row."""
+    return bool(rows) and all(_html_tag(cell) == "th" for cell in rows[0])
+
+
 def _table_has_parallel_list_columns(rows: list[list[lhtml.HtmlElement]]) -> bool:
     """Return whether multiple headerless columns consist entirely of lists."""
     nonempty_cells = [
@@ -3327,8 +3332,10 @@ def _table_has_parallel_list_columns(rows: list[list[lhtml.HtmlElement]]) -> boo
     has_parallel_lists = any(
         sum(_cell_contains_only_lists(cell) for cell in row) > 1 for row in rows
     )
-    return has_parallel_lists and all(
-        _cell_contains_only_lists(cell) for cell in nonempty_cells
+    return (
+        not _table_has_header_row(rows)
+        and has_parallel_lists
+        and all(_cell_contains_only_lists(cell) for cell in nonempty_cells)
     )
 
 

@@ -4,26 +4,13 @@
 
 **Placid Notch**
 
-![](../assets/Refuge_Cabin_B_resized.png)
-
-_Refuge\_Cabin\_B\_resized.png_
-
-**Location**
-
-![](../assets/Placid_Notch_Location.png)
-
-_Placid\_Notch\_Location.png_
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**Description:** A refuge cabin.
-
-**General**
-
-**Type:** Residential
-
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
-
-Has a bed
+| Column 1 | Column 2 |
+| --- | --- |
+| ![](../assets/Refuge_Cabin_B_resized.png) / _Refuge\_Cabin\_B\_resized.png_ |  |
+| **Location** |  |
+| ![](../assets/Placid_Notch_Location.png) / _Placid\_Notch\_Location.png_ |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| Description | A refuge cabin. |
+| **General** |  |
+| Type | Residential\|- |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |

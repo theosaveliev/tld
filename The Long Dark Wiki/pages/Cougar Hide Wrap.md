@@ -32,8 +32,5 @@ _Cougar\_Hide\_Wrap\_icon.png_
 
 **Repair:** 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md), / 1 × [Cured Gut](./Cured%20Gut.md) / 240 minutes / 70% condition
 
-![](../assets/Ptarmigan_icon.png)
-
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |

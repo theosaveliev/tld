@@ -4,10 +4,7 @@
 
 **Lantern**
 
-\[\[File: / ![Lit](../assets/Lantern.jpg) / _Lit_ / ![Unlit](../assets/LanternUnlit.jpg) / _Unlit_
-
-250px\]\]
-
-**General**
-
-**Item Type:** Item
+| \[\[File: / ![Lit](../assets/Lantern.jpg) / _Lit_ / ![Unlit](../assets/LanternUnlit.jpg) / _Unlit_ | 250px\]\] |
+| --- | --- |
+| **General** |  |
+| Item Type | Item |

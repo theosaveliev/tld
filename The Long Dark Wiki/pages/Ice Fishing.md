@@ -377,73 +377,12 @@ Any number of Tip-Ups may be deployed in a region, but deploying more than 6 per
 
 [Fishing Lures](./Fishing%20Lure%20%28disambiguation%29.md) are an optional tool for catching rare fish. Using lures increases the odds of catching a rare fish by 5-10x, but increases the maximum possible wait time for a fish to bite by +20%-75%. Lures are crafted at a [Work Bench](./Work%20Bench.md) and do not lose condition when used, but will be lost if a Fishing Tackle breaks or Tip-Up's line breaks while fishing. All fishing lures weigh 0.01kg.
 
-Image
-
-Lure
-
-Rare Fish Bonus
-
-Maximum Wait Penalty
-
-Materials
-
-Creation Time
-
-![](../assets/Simple_Fishing_Lure_icon.png)
-
-_Simple\_Fishing\_Lure\_icon.png_
-
-[Simple Fishing Lure](./Simple%20Fishing%20Lure.md)
-
-+500%
-
-+20%
-
-- 1 [Scrap Metal](./Scrap%20Metal.md)
-
-30 min
-
-![](../assets/Fishing_Lure_%28Acorns%29_icon.png)
-
-_Fishing\_Lure\_(Acorns)\_icon.png_
-
-[Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md)
-
-+800%
-
-+50%
-
-- 1 [Acorns](./Acorns.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md)
-
-50 min
-
-![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png)
-
-_Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_
-
-[Fishing Lure (Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md)
-
-+800%
-
-+50%
-
-- 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md)
-
-50 min
-
-![](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png)
-
-_Fishing\_Lure\_(Wire\_Bundle)\_icon.png_
-
-[Fishing Lure (Wire)](./Fishing%20Lure%20%28Wire%20Bundle%29.md)
-
-+1000%
-
-+75%
-
-- 1 [Wire Bundle](./Wires.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md)
-
-50 min
+| Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
+| --- | --- | --- | --- | --- | --- |
+| ![](../assets/Simple_Fishing_Lure_icon.png) / _Simple\_Fishing\_Lure\_icon.png_ | [Simple Fishing Lure](./Simple%20Fishing%20Lure.md) | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
+| ![](../assets/Fishing_Lure_%28Acorns%29_icon.png) / _Fishing\_Lure\_(Acorns)\_icon.png_ | [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | +800% | +50% | - 1 [Acorns](./Acorns.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) / _Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_ | [Fishing Lure (Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
+| ![](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) / _Fishing\_Lure\_(Wire\_Bundle)\_icon.png_ | [Fishing Lure (Wire)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | +1000% | +75% | - 1 [Wire Bundle](./Wires.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
 
 ## Fishing Holes
 
@@ -524,71 +463,13 @@ A limited increase can be obtained from the [Research Book](./Research%20Book.md
 
 &lt;table-progress-tracking table-id="3" unique-column-index="1"&gt;
 
-Level
-
-Skill points needed
-
-Points to next level
-
-Effects
-
-Flavor text
-
-1
-
-0
-
-10
-
-- Basic ice fishing skill
-
-You don't really know what you're doing yet. You know which end of the line the hook goes on.
-
-2
-
-10
-
-40
-
-- Fishing time reduced by 5%
-- 8% chance of line break on catch
-
-You're getting more comfortable with fishing in the Winter. You're better with your fishing gear, and you're developing a feel for when a fish is on the line.
-
-3
-
-50
-
-100
-
-- Fishing time reduced by 10%
-- 5% chance of line break on catch
-
-You're quite good at ice fishing. You rarely break your lines now, and you catch more fish per hour.
-
-4
-
-150
-
-100
-
-- 10% to average fish weight
-- Fishing time reduced by 20%
-- 3% chance of line break on catch
-
-You are fantastic at ice fishing. You seem to catch fish more often, more quickly, and somehow you get the bigger ones too!
-
-5
-
-250
-
-Max level
-
-- 25% to average fish weight
-- Fishing time reduced by 30%
-- 1% chance of line break on catch
-
-You are the Pied Piper of ice fishers. You barely have to clear the ice hole for fish to nearly jump out of the water. You catch bigger fish, more often, and in less time.
+| Level | Skill points needed | Points to next level | Effects | Flavor text |
+| --- | --- | --- | --- | --- |
+| 1 | 0 | 10 | - Basic ice fishing skill | You don't really know what you're doing yet. You know which end of the line the hook goes on. |
+| 2 | 10 | 40 | - Fishing time reduced by 5% / - 8% chance of line break on catch | You're getting more comfortable with fishing in the Winter. You're better with your fishing gear, and you're developing a feel for when a fish is on the line. |
+| 3 | 50 | 100 | - Fishing time reduced by 10% / - 5% chance of line break on catch | You're quite good at ice fishing. You rarely break your lines now, and you catch more fish per hour. |
+| 4 | 150 | 100 | - 10% to average fish weight / - Fishing time reduced by 20% / - 3% chance of line break on catch | You are fantastic at ice fishing. You seem to catch fish more often, more quickly, and somehow you get the bigger ones too! |
+| 5 | 250 | Max level | - 25% to average fish weight / - Fishing time reduced by 30% / - 1% chance of line break on catch | You are the Pied Piper of ice fishers. You barely have to clear the ice hole for fish to nearly jump out of the water. You catch bigger fish, more often, and in less time. |
 
 &lt;/table-progress-tracking&gt;
 

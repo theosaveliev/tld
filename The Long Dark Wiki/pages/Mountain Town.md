@@ -74,34 +74,9 @@ Mountain Town is a region rich in [Cat Tails](./Cat%20Tail.md) and [Rose Hips](.
 
 The region has a number of distinctive areas and named locations, most of which are located in or a short distance from the town itself:
 
-- [Bank Manager's House](./Bank%20Manager%27s%20House.md) (Wintermute [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) only)
-- [Cave (Mountain Town location)](./Cave%20%28Mountain%20Town%20location%29.md)
-- Crashed Plane ([Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md))
-- [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md)
-- [Graveyard](./Graveyard.md)
-- [Hermit's Cabin](./Hermit%27s%20Cabin.md)
-- [Milton Basin](./Milton%20Basin.md)
-- [Milton Credit Union](./Milton%20Credit%20Union.md)
-- [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md)
-- [Milton Park](./Milton%20Park.md)
-- [Milton Post Office](./Milton%20Post%20Office.md)
-- [Old Schoolhouse](./Old%20Schoolhouse.md)
-- [Orca Gas Station](./Orca%20Gas%20Station.md)
-- [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md)
-
-- [Picnic Area](./Picnic%20Area.md)
-- [Radio Tower](./Radio%20Tower.md)
-- [Rocky Refuge](./Rocky%20Refuge.md)
-- [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md)
-- [St. Christopher's Church](./St.%20Christopher%27s%20Church.md)
-- [The Arch](./The%20Arch%20%28Mountain%20Town%20location%29.md)
-- To Cave System (Region Transition to [Hushed River Valley](./Hushed%20River%20Valley.md))
-- To Cave System (Region Transition to [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md))
-- To Forlorn Muskeg (Region Transitions to [Forlorn Muskeg](./Forlorn%20Muskeg.md))
-- Town of Milton ([Milton](./Milton.md))
-- [Wood Lot](./Wood%20Lot.md)
-- [Wood Lot](./Wood%20Lot.md) 3 separate Wood Lots
-- [Wood Lot](./Wood%20Lot.md)
+| Column 1 | Column 2 |
+| --- | --- |
+| - [Bank Manager's House](./Bank%20Manager%27s%20House.md) (Wintermute [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) only) / - [Cave (Mountain Town location)](./Cave%20%28Mountain%20Town%20location%29.md) / - Crashed Plane ([Mackenzie's Crashed Plane](./Mackenzie%27s%20Crashed%20Plane.md)) / - [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) / - [Graveyard](./Graveyard.md) / - [Hermit's Cabin](./Hermit%27s%20Cabin.md) / - [Milton Basin](./Milton%20Basin.md) / - [Milton Credit Union](./Milton%20Credit%20Union.md) / - [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) / - [Milton Park](./Milton%20Park.md) / - [Milton Post Office](./Milton%20Post%20Office.md) / - [Old Schoolhouse](./Old%20Schoolhouse.md) / - [Orca Gas Station](./Orca%20Gas%20Station.md) / - [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) | - [Picnic Area](./Picnic%20Area.md) / - [Radio Tower](./Radio%20Tower.md) / - [Rocky Refuge](./Rocky%20Refuge.md) / - [Spruce Falls Bridge](./Spruce%20Falls%20Bridge.md) / - [St. Christopher's Church](./St.%20Christopher%27s%20Church.md) / - [The Arch](./The%20Arch%20%28Mountain%20Town%20location%29.md) / - To Cave System (Region Transition to [Hushed River Valley](./Hushed%20River%20Valley.md)) / - To Cave System (Region Transition to [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)) / - To Forlorn Muskeg (Region Transitions to [Forlorn Muskeg](./Forlorn%20Muskeg.md)) / - Town of Milton ([Milton](./Milton.md)) / - [Wood Lot](./Wood%20Lot.md) / - [Wood Lot](./Wood%20Lot.md) 3 separate Wood Lots / - [Wood Lot](./Wood%20Lot.md) |
 
 A few other locations can be found in the region:
 

@@ -11,28 +11,10 @@
 
 **Crossroads House**
 
-\[\[File: / ![1 story](../assets/Crossroads_House_1.jpg) / _1 story_ / ![Shed](../assets/Crossroads_House_Shed.jpg) / _Shed_
-
-250px\]\]
-
-**Location**
-
-Region
-
-[Pleasant Valley](./Pleasant%20Valley.md)
-
-Location
-
-**General**
-
-Type
-
-Residential
-
-Firebox
-
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
-
-Has a bed
+| \[\[File: / ![1 story](../assets/Crossroads_House_1.jpg) / _1 story_ / ![Shed](../assets/Crossroads_House_Shed.jpg) / _Shed_ | 250px\]\] |  |
+| --- | --- | --- |
+| **Location** |  |  |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- | Location |
+| **General** |  |  |
+| Type | Residential\|- | Firebox |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |  |

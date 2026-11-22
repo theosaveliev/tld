@@ -4,26 +4,13 @@
 
 **Thomson's Crossing**
 
-![The main road in Thomson's Crossing](../assets/Thomson_crossing_main_road.jpg)
-
-_The main road in Thomson's Crossing_
-
-**Location**
-
-![](../assets/Thomson%27s_Crossing_Location.png)
-
-_Thomson's\_Crossing\_Location.png_
-
-**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
-
-**Description:** A small town with several houses
-
-**General**
-
-**Type:** Residential
-
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
-
-Has a bed
+| Column 1 | Column 2 |
+| --- | --- |
+| ![The main road in Thomson's Crossing](../assets/Thomson_crossing_main_road.jpg) / _The main road in Thomson's Crossing_ |  |
+| **Location** |  |
+| ![](../assets/Thomson%27s_Crossing_Location.png) / _Thomson's\_Crossing\_Location.png_ |  |
+| Region | [Pleasant Valley](./Pleasant%20Valley.md)\|- |
+| Description | A small town with several houses |
+| **General** |  |
+| Type | Residential\|- |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |

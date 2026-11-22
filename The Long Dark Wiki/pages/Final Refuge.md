@@ -4,24 +4,12 @@
 
 **Final Refuge**
 
-![](../assets/Final_Refuge.png)
-
-_Final\_Refuge.png_
-
-**Location**
-
-![](../assets/Final_Refuge_Location.png)
-
-_Final\_Refuge\_Location.png_
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**General**
-
-**Type:** Residential
-
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
-
-Has a bed
+| Column 1 | Column 2 |
+| --- | --- |
+| ![](../assets/Final_Refuge.png) / _Final\_Refuge.png_ |  |
+| **Location** |  |
+| ![](../assets/Final_Refuge_Location.png) / _Final\_Refuge\_Location.png_ |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| **General** |  |
+| Type | Residential\|- |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |

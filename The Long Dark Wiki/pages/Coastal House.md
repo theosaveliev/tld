@@ -15,28 +15,10 @@
 
 **Coastal House**
 
-\[\[File: / ![Type 1](../assets/Coastal_House_1.jpg) / _Type 1_ / ![Type 2](../assets/Coastal_House_2.jpg) / _Type 2_ / ![Type 3](../assets/Coastal_House_3.jpg) / _Type 3_ / ![Type 4](../assets/Coastal_House_4.jpg) / _Type 4_ / ![Type 5](../assets/Jackrabbit_Island_-_house.jpg) / _Type 5_
-
-250px\]\]
-
-**Location**
-
-Region
-
-[Coastal Highway](./Coastal%20Highway.md)
-
-Location
-
-**General**
-
-Type
-
-Residential
-
-Firebox
-
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
-
-Has a bed
+| \[\[File: / ![Type 1](../assets/Coastal_House_1.jpg) / _Type 1_ / ![Type 2](../assets/Coastal_House_2.jpg) / _Type 2_ / ![Type 3](../assets/Coastal_House_3.jpg) / _Type 3_ / ![Type 4](../assets/Coastal_House_4.jpg) / _Type 4_ / ![Type 5](../assets/Jackrabbit_Island_-_house.jpg) / _Type 5_ | 250px\]\] |  |
+| --- | --- | --- |
+| **Location** |  |  |
+| Region | [Coastal Highway](./Coastal%20Highway.md)\|- | Location |
+| **General** |  |  |
+| Type | Residential\|- | Firebox |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |  |

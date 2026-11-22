@@ -138,101 +138,20 @@ Sharpening is used to repair [bladed tools](./Sharpening.md#Bladed_tools). Highe
 
 Each skill can be increased by performing its corresponding action(s), or by reading [Research Books](./Research%20Book.md) associated with it. Duplicates of the same research book can each be read, each granting independent skill bonuses (e.g. two "_Wilderness Kitchen_", each for 10 Cooking Skill Points), but books cannot be read at skill 5 giving the error _"Your skills are too advanced for this book"_.
 
-**Skill:** Skill Increase
-
-![](../assets/Archery.png)
-
-_Archery.png_
-
-[Archery](./Archery.md)
-
-**Archery** can be increased by: / - 1 point per crafted ![Simple\_Arrow\_icon.png](../assets/Simple_Arrow_icon.png) [Simple Arrow](./Simple%20Arrow.md) / - 1 point per hit with any arrow type on living Wildlife ([Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) do not yield experience when hitting larger animals) / - 10 points by reading ![Stay\_on\_Target\_icon.png](../assets/Stay_on_Target_icon.png) [Stay on Target](./Stay%20on%20Target.md)
-
-![](../assets/Carcass_Harvesting.png)
-
-_Carcass\_Harvesting.png_
-
-[Carcass Harvesting](./Carcass%20Harvesting.md)
-
-**Carcass Harvesting** is increased at a rate of: / - 1 point hour spent harvesting wildlife carcasses / - It can also be increased for 10 points by reading _![Field\_Dressing\_Your\_Kill,\_Vol.\_I\_icon.png](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) [Field Dressing Your Kill, Vol. I](./Field%20Dressing%20Your%20Kill%2C%20Vol.%20I.md)_ / Slower harvesting times (e.g. with bare hands) increases Carcass Harvesting Skill faster than with tools (e.g. a [Hunting Knife](./Hunting%20Knife.md)).
-
-![](../assets/Cooking.png)
-
-_Cooking.png_
-
-[Cooking](./Cooking.md)
-
-**Cooking** is increased by: / - 1 point per Cooked [Food And Drink](./Food%20And%20Drink.md) item at an active fire (raw meat, canned food, brewable drinks) / - 1 point per successfully Preparing a Recipe / - 10 points by reading _![Wilderness\_Kitchen\_icon.png](../assets/Wilderness_Kitchen_icon.png) [Wilderness Kitchen](./Wilderness%20Kitchen.md)_ / Cooking Skill points are gained upon picking up an item that has finished cooking. Items which burn into "inedible burned stuff" do not grant Cooking Skill. / - Cooking Skill can be quickly increased by cutting carcass' meat into 0.1KG pieces (via aborting the harvest with the 'ESC' key), and cooking these small pieces. Cooking [Tin of Coffee](./Tin%20of%20Coffee.md)/[Herbal Tea](./Herbal%20Tea.md)/Prepared Plants are also a fast way to increase skill. / - Melting/boiling water does not increase Cooking Skill. / - Reheating canned food and beverages does not increase Cooking.
-
-![](../assets/Fire_Starting.png)
-
-_Fire\_Starting.png_
-
-[Fire Starting](./Fire%20Starting.md)
-
-**Fire Starting** is increased by: / - 1 point per succcefully started fire / - 10 points by reading _![Survive\_the\_Outdoors!\_icon.png](../assets/Survive_the_Outdoors!_icon.png) [Survive the Outdoors!](./Survive%20the%20Outdoors!.md)_ / Failing to start fires, as well as lighting [matches](./Matches%20%28disambiguation%29.md), [torches](./Torch.md), [flares](./Flare.md), [marine flares](./Marine%20Flare.md), and storm lanterns does not increase Fire Starting Skill. Fire Starting skill can be rapidly increased by starting or re-lighting Campfires, using a lit [Torch](./Torch.md) and supply of [sticks](./Stick.md).
-
-![](../assets/Ice_Fishing.png)
-
-_Ice\_Fishing.png_
-
-[Ice Fishing](./Ice%20Fishing.md)
-
-**Ice Fishing** is increased by: / - 1 point per fish caught / - 10 points by reading _![The\_Frozen\_Angler\_icon.png](../assets/The_Frozen_Angler_icon.png) [The Frozen Angler](./The%20Frozen%20Angler.md)_
-
-![](../assets/Mending.png)
-
-_Mending.png_
-
-[Mending](./Mending.md)
-
-**Mending** is increased by: / - 1 point per Clothing/Bedroll item successfully repaired / - 10 points by reading _![A\_Sewing\_Primer\_icon.png](../assets/A_Sewing_Primer_icon.png) [A Sewing Primer](./A%20Sewing%20Primer.md)_ / The Fast ways to gain Mending skill are to repair extra pieces of clothing or by repairing clothing as soon as it drops below 100% condition. / - Failing to mend a clothing item yields no mending Skill. / - Crafting clothing does not increase Mending skill.
-
-![](../assets/Rifle_Firearm.png)
-
-_Rifle\_Firearm.png_
-
-[Rifle Firearm](./Rifle%20Firearm.md)
-
-**Rifle Firearm** is increased by: / - 1 point per hit with the Hunting Rifle on living wildlife. / - 5 by reading _![Frontier\_Shooting\_Guide\_icon.png](../assets/Frontier_Shooting_Guide_icon.png) [Frontier Shooting Guide](./Frontier%20Shooting%20Guide.md)_ (this book cannot be read at Skill level 4) / - 10 by reading _![Advanced\_Guns\_Guns\_Guns!\_icon.png](../assets/Advanced_Guns_Guns_Guns!_icon.png) [Advanced Guns Guns Guns!](./Advanced%20Guns%20Guns%20Guns!.md)._
-
-![](../assets/Revolver_Firearm.png)
-
-_Revolver\_Firearm.png_
-
-[Revolver Firearm](./Revolver%20Firearm.md)
-
-**Revolver Firearm** is increased by: / - 1 point per hit with the Revolver on living Wildlife / - 10 by reading _![Small\_Arms\_Handbook\_icon.png](../assets/Small_Arms_Handbook_icon.png) [Small Arms Handbook](./Small%20Arms%20Handbook.md)_
-
-![](../assets/Gunsmithing.png)
-
-_Gunsmithing.png_
-
-[Gunsmithing](./Gunsmithing.md)
-
-**Gunsmithing** is increased by: / - 1 point per [Rifle Ammunition](./Rifle%20Ammunition.md) or [Revolver Ammunition](./Revolver%20Ammunition.md) crafted / - 1 point per set of 6 [Bullet](./Bullet.md) crafted / - 1 point per [Can of Gunpowder](./Can%20of%20Gunpowder.md) crafted / - 1 point per Firearm repaired at a [Milling Machine](./Milling%20Machine.md) / - 10 by reading _![Practical\_Gunsmithing\_icon.png](../assets/Practical_Gunsmithing_icon.png) [Practical Gunsmithing](./Practical%20Gunsmithing.md)_ / Harvesting ammunition/Car Batteries does not raise Gunsmithing
-
-![](../assets/Firearm_Cleaning_Kit_icon.png)
-
-_Firearm\_Cleaning\_Kit\_icon.png_
-
-[Cleaning](./Cleaning.md)
-
-**Cleaning** is increased by: / - 1 point per cleaning action with [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) on a hunting rifle or revolver. / - Attempting to clean a firearm cannot fail. / - Higher Hunting Rifle Skill and Revolver Skill increases the amount of condition repaired with the cleaning action. / - Maximum Cleaning Skill is 100.
-
-![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png)![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png)
-
-[Repair](./Repair.md)
-
-**Repair** is increased by: / - 1 point per repair action with [Simple Tools](./Simple%20Tools.md)/[Quality Tools](./Quality%20Tools.md) and [Scrap Metal](./Scrap%20Metal.md) on metal tools / - 1 point per repair action on certain objects via [Safehouse Customization](./Safehouse%20Customization.md) / Higher Repair skills allows for more condition repair when using a [Milling Machine](./Milling%20Machine.md). / - Failing to repair yields no Repair Skill. / - Maximum Repair Skill is 100.
-
-![](../assets/Whetstone_icon.png)
-
-_Whetstone\_icon.png_
-
-[Sharpening](./Sharpening.md)
-
-**Sharpening** is increased by: / - 1 point per [Whetstone](./Whetstone.md) action on a bladed tool. / - Attempting to sharpen a tool cannot fail. / - Maximum Sharpening Skill is 100.
+| Skill | Skill Increase |  |
+| --- | --- | --- |
+| ![](../assets/Archery.png) / _Archery.png_ | [Archery](./Archery.md) | **Archery** can be increased by: / - 1 point per crafted ![Simple\_Arrow\_icon.png](../assets/Simple_Arrow_icon.png) [Simple Arrow](./Simple%20Arrow.md) / - 1 point per hit with any arrow type on living Wildlife ([Fire Hardened Arrow](./Fire%20Hardened%20Arrow.md) do not yield experience when hitting larger animals) / - 10 points by reading ![Stay\_on\_Target\_icon.png](../assets/Stay_on_Target_icon.png) [Stay on Target](./Stay%20on%20Target.md) |
+| ![](../assets/Carcass_Harvesting.png) / _Carcass\_Harvesting.png_ | [Carcass Harvesting](./Carcass%20Harvesting.md) | **Carcass Harvesting** is increased at a rate of: / - 1 point hour spent harvesting wildlife carcasses / - It can also be increased for 10 points by reading _![Field\_Dressing\_Your\_Kill,\_Vol.\_I\_icon.png](../assets/Field_Dressing_Your_Kill%2C_Vol._I_icon.png) [Field Dressing Your Kill, Vol. I](./Field%20Dressing%20Your%20Kill%2C%20Vol.%20I.md)_ / Slower harvesting times (e.g. with bare hands) increases Carcass Harvesting Skill faster than with tools (e.g. a [Hunting Knife](./Hunting%20Knife.md)). |
+| ![](../assets/Cooking.png) / _Cooking.png_ | [Cooking](./Cooking.md) | **Cooking** is increased by: / - 1 point per Cooked [Food And Drink](./Food%20And%20Drink.md) item at an active fire (raw meat, canned food, brewable drinks) / - 1 point per successfully Preparing a Recipe / - 10 points by reading _![Wilderness\_Kitchen\_icon.png](../assets/Wilderness_Kitchen_icon.png) [Wilderness Kitchen](./Wilderness%20Kitchen.md)_ / Cooking Skill points are gained upon picking up an item that has finished cooking. Items which burn into "inedible burned stuff" do not grant Cooking Skill. / - Cooking Skill can be quickly increased by cutting carcass' meat into 0.1KG pieces (via aborting the harvest with the 'ESC' key), and cooking these small pieces. Cooking [Tin of Coffee](./Tin%20of%20Coffee.md)/[Herbal Tea](./Herbal%20Tea.md)/Prepared Plants are also a fast way to increase skill. / - Melting/boiling water does not increase Cooking Skill. / - Reheating canned food and beverages does not increase Cooking. |
+| ![](../assets/Fire_Starting.png) / _Fire\_Starting.png_ | [Fire Starting](./Fire%20Starting.md) | **Fire Starting** is increased by: / - 1 point per succcefully started fire / - 10 points by reading _![Survive\_the\_Outdoors!\_icon.png](../assets/Survive_the_Outdoors!_icon.png) [Survive the Outdoors!](./Survive%20the%20Outdoors!.md)_ / Failing to start fires, as well as lighting [matches](./Matches%20%28disambiguation%29.md), [torches](./Torch.md), [flares](./Flare.md), [marine flares](./Marine%20Flare.md), and storm lanterns does not increase Fire Starting Skill. Fire Starting skill can be rapidly increased by starting or re-lighting Campfires, using a lit [Torch](./Torch.md) and supply of [sticks](./Stick.md). |
+| ![](../assets/Ice_Fishing.png) / _Ice\_Fishing.png_ | [Ice Fishing](./Ice%20Fishing.md) | **Ice Fishing** is increased by: / - 1 point per fish caught / - 10 points by reading _![The\_Frozen\_Angler\_icon.png](../assets/The_Frozen_Angler_icon.png) [The Frozen Angler](./The%20Frozen%20Angler.md)_ |
+| ![](../assets/Mending.png) / _Mending.png_ | [Mending](./Mending.md) | **Mending** is increased by: / - 1 point per Clothing/Bedroll item successfully repaired / - 10 points by reading _![A\_Sewing\_Primer\_icon.png](../assets/A_Sewing_Primer_icon.png) [A Sewing Primer](./A%20Sewing%20Primer.md)_ / The Fast ways to gain Mending skill are to repair extra pieces of clothing or by repairing clothing as soon as it drops below 100% condition. / - Failing to mend a clothing item yields no mending Skill. / - Crafting clothing does not increase Mending skill. |
+| ![](../assets/Rifle_Firearm.png) / _Rifle\_Firearm.png_ | [Rifle Firearm](./Rifle%20Firearm.md) | **Rifle Firearm** is increased by: / - 1 point per hit with the Hunting Rifle on living wildlife. / - 5 by reading _![Frontier\_Shooting\_Guide\_icon.png](../assets/Frontier_Shooting_Guide_icon.png) [Frontier Shooting Guide](./Frontier%20Shooting%20Guide.md)_ (this book cannot be read at Skill level 4) / - 10 by reading _![Advanced\_Guns\_Guns\_Guns!\_icon.png](../assets/Advanced_Guns_Guns_Guns!_icon.png) [Advanced Guns Guns Guns!](./Advanced%20Guns%20Guns%20Guns!.md)._ |
+| ![](../assets/Revolver_Firearm.png) / _Revolver\_Firearm.png_ | [Revolver Firearm](./Revolver%20Firearm.md) | **Revolver Firearm** is increased by: / - 1 point per hit with the Revolver on living Wildlife / - 10 by reading _![Small\_Arms\_Handbook\_icon.png](../assets/Small_Arms_Handbook_icon.png) [Small Arms Handbook](./Small%20Arms%20Handbook.md)_ |
+| ![](../assets/Gunsmithing.png) / _Gunsmithing.png_ | [Gunsmithing](./Gunsmithing.md) | **Gunsmithing** is increased by: / - 1 point per [Rifle Ammunition](./Rifle%20Ammunition.md) or [Revolver Ammunition](./Revolver%20Ammunition.md) crafted / - 1 point per set of 6 [Bullet](./Bullet.md) crafted / - 1 point per [Can of Gunpowder](./Can%20of%20Gunpowder.md) crafted / - 1 point per Firearm repaired at a [Milling Machine](./Milling%20Machine.md) / - 10 by reading _![Practical\_Gunsmithing\_icon.png](../assets/Practical_Gunsmithing_icon.png) [Practical Gunsmithing](./Practical%20Gunsmithing.md)_ / Harvesting ammunition/Car Batteries does not raise Gunsmithing |
+| ![](../assets/Firearm_Cleaning_Kit_icon.png) / _Firearm\_Cleaning\_Kit\_icon.png_ | [Cleaning](./Cleaning.md) | **Cleaning** is increased by: / - 1 point per cleaning action with [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) on a hunting rifle or revolver. / - Attempting to clean a firearm cannot fail. / - Higher Hunting Rifle Skill and Revolver Skill increases the amount of condition repaired with the cleaning action. / - Maximum Cleaning Skill is 100. |
+| ![Quality\_Tools\_icon.png](../assets/Quality_Tools_icon.png)![Simple\_Tools\_icon.png](../assets/Simple_Tools_icon.png) | [Repair](./Repair.md) | **Repair** is increased by: / - 1 point per repair action with [Simple Tools](./Simple%20Tools.md)/[Quality Tools](./Quality%20Tools.md) and [Scrap Metal](./Scrap%20Metal.md) on metal tools / - 1 point per repair action on certain objects via [Safehouse Customization](./Safehouse%20Customization.md) / Higher Repair skills allows for more condition repair when using a [Milling Machine](./Milling%20Machine.md). / - Failing to repair yields no Repair Skill. / - Maximum Repair Skill is 100. |
+| ![](../assets/Whetstone_icon.png) / _Whetstone\_icon.png_ | [Sharpening](./Sharpening.md) | **Sharpening** is increased by: / - 1 point per [Whetstone](./Whetstone.md) action on a bladed tool. / - Attempting to sharpen a tool cannot fail. / - Maximum Sharpening Skill is 100. |
 
 ## Skill flavor text
 

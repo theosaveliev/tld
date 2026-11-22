@@ -14,24 +14,12 @@
 
 **Forestry Lookout**
 
-![](../assets/New_forestry_lookout5.jpg)
-
-_New\_forestry\_lookout5.jpg_
-
-**Location**
-
-![](../assets/Forestry_Lookout_Location.png)
-
-_Forestry\_Lookout\_Location.png_
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**General**
-
-**Type:** Military/Sporting
-
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
-
-Has a bed
+| Column 1 | Column 2 |
+| --- | --- |
+| ![](../assets/New_forestry_lookout5.jpg) / _New\_forestry\_lookout5.jpg_ |  |
+| **Location** |  |
+| ![](../assets/Forestry_Lookout_Location.png) / _Forestry\_Lookout\_Location.png_ |  |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| **General** |  |
+| Type | Military/Sporting\|- |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |

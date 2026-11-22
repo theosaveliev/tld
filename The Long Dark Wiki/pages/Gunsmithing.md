@@ -92,70 +92,13 @@ Players can increase their Gunsmithing skill by:
 
 &lt;table-progress-tracking table-id="7" unique-column-index="1"&gt;
 
-Level
-
-Skill points needed
-
-Points to next level
-
-Effects
-
-Flavor text
-
-1
-
-0
-
-15
-
-- Crafted ammunition condition is 20%
-- 50% chance of ammunition component harvesting
-
-You're new to Gunsmithing. You Craft poor-quality Ammunition that is likely to Misfire. When Harvesting Ammunition, you have an average chance to recover Bullets, Gunpowder and Shell Casings.
-
-2
-
-15
-
-15
-
-- Crafted ammunition condition is 40%
-- 60% chance of ammunition component harvesting
-
-You have rudimentary Gunsmithing skills. You Craft mediocre Ammunition that tends to Misfire. When Harvesting existing Ammunition, you have a better-than average chance to recover Bullets, Gunpowder and Shell Casings.
-
-3
-
-30
-
-20
-
-- Crafted ammunition condition is 60%
-- 70% chance of ammunition component harvesting
-
-You have well-developed Gunsmithing skills. You Craft good-quality Ammunition that is unlikely to Misfire. When Harvesting existing Ammunition, you have a good chance to recover Bullets, Gunpowder and Shell Casings.
-
-4
-
-50
-
-50
-
-- Crafted ammunition condition is 80%
-- 80% chance of ammunition component harvesting
-
-You very experinced at Gunsmithing. You Craft great Ammunition that almost never Misfires. When Harvesting existing Ammunition, you have a high chance to recover Bullets, Gunpowder and Shell Casings.
-
-5
-
-100
-
-Max level
-
-- Crafted ammunition condition is 100%
-- 100% chance of ammunition component harvesting
-
-You're an expert Gunsmith. You Craft exquisite Ammunition that will never Misfire. When Harvesting existing Ammunition, you will always successfully recover Bullets, Gunpowder and Shell Casings.
+| Level | Skill points needed | Points to next level | Effects | Flavor text |
+| --- | --- | --- | --- | --- |
+| 1 | 0 | 15 | - Crafted ammunition condition is 20% / - 50% chance of ammunition component harvesting | You're new to Gunsmithing. You Craft poor-quality Ammunition that is likely to Misfire. When Harvesting Ammunition, you have an average chance to recover Bullets, Gunpowder and Shell Casings. |
+| 2 | 15 | 15 | - Crafted ammunition condition is 40% / - 60% chance of ammunition component harvesting | You have rudimentary Gunsmithing skills. You Craft mediocre Ammunition that tends to Misfire. When Harvesting existing Ammunition, you have a better-than average chance to recover Bullets, Gunpowder and Shell Casings. |
+| 3 | 30 | 20 | - Crafted ammunition condition is 60% / - 70% chance of ammunition component harvesting | You have well-developed Gunsmithing skills. You Craft good-quality Ammunition that is unlikely to Misfire. When Harvesting existing Ammunition, you have a good chance to recover Bullets, Gunpowder and Shell Casings. |
+| 4 | 50 | 50 | - Crafted ammunition condition is 80% / - 80% chance of ammunition component harvesting | You very experinced at Gunsmithing. You Craft great Ammunition that almost never Misfires. When Harvesting existing Ammunition, you have a high chance to recover Bullets, Gunpowder and Shell Casings. |
+| 5 | 100 | Max level | - Crafted ammunition condition is 100% / - 100% chance of ammunition component harvesting | You're an expert Gunsmith. You Craft exquisite Ammunition that will never Misfire. When Harvesting existing Ammunition, you will always successfully recover Bullets, Gunpowder and Shell Casings. |
 
 &lt;/table-progress-tracking&gt;
 

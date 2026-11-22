@@ -4,10 +4,8 @@
 
 **Barrel**
 
-![](../assets/Barrel.jpg)
-
-_Barrel.jpg_
-
-**General**
-
-**Item Type:** Item
+| Column 1 | Column 2 |
+| --- | --- |
+| ![](../assets/Barrel.jpg) / _Barrel.jpg_ |  |
+| **General** |  |
+| Item Type | Item |

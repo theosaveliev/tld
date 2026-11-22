@@ -13,16 +13,10 @@
 
 **Old Settlement**
 
-![](../assets/Old_Settlement_Close.jpg)
-
-_Old\_Settlement\_Close.jpg_
-
-**Location**
-
-![](../assets/Old_Settlement_Location.png)
-
-_Old\_Settlement\_Location.png_
-
-**Region:** [Sundered Pass](./Sundered%20Pass.md)
-
-**General**
+| Column 1 | Column 2 |
+| --- | --- |
+| ![](../assets/Old_Settlement_Close.jpg) / _Old\_Settlement\_Close.jpg_ |  |
+| **Location** |  |
+| ![](../assets/Old_Settlement_Location.png) / _Old\_Settlement\_Location.png_ |  |
+| Region | [Sundered Pass](./Sundered%20Pass.md)\|- |
+| **General** |  |

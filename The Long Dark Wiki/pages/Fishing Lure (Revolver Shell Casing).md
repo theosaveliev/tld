@@ -38,31 +38,9 @@ If a Fishing Tackle is equipped with a Lure and snaps when fishing, the Lure wil
 
 It is impossible to craft this lure on [Interloper](./Interloper.md) or [Misery](./Misery.md), as Revolver Ammunition and Casings are disabled.
 
-Image
-
-Lure
-
-Rare Fish Bonus
-
-Maximum Wait Penalty
-
-Materials
-
-Creation Time
-
-![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png)
-
-_Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_
-
-Fishing Lure (Casing)
-
-+800%
-
-+50%
-
-- 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md)
-
-50 min
+| Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
+| --- | --- | --- | --- | --- | --- |
+| ![](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) / _Fishing\_Lure\_(Revolver\_Shell\_Casing)\_icon.png_ | Fishing Lure (Casing) | +800% | +50% | - 1 [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 1 [Crow Feather](./Crow%20Feather.md) / - 1 [Scrap Metal](./Scrap%20Metal.md) | 50 min |
 
 ## Crafting
 

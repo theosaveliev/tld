@@ -93,27 +93,9 @@ A final option for a base is [Miner's Folly](./Miner%27s%20Folly.md). Most playe
 
 There are a number of discoverable locations in this region.
 
-- [Angler's Den](./Angler%27s%20Den.md)
-- [Bitter Marsh](./Bitter%20Marsh.md)
-- [Broad Falls](./Broad%20Falls.md)
-- [Climber's Cave](./Climber%27s%20Cave.md)
-- [Fire Overlook](./Fire%20Overlook.md)
-- [Foreman's Retreat](./Foreman%27s%20Retreat.md)
-- [Gold Mine](./Gold%20Mine.md)
-- [High Meadow](./High%20Meadow.md)
-- [Homesteader's Respite](./Homesteader%27s%20Respite.md)
-- [Long Falls](./Long%20Falls.md)
-- [Pillar's Footrest](./Pillar%27s%20Footrest.md)
-
-- [Miner's Folly](./Miner%27s%20Folly.md)
-- [Mining Camp](./Mining%20Camp.md)
-- [Narrow Falls Cave](./Narrow%20Falls%20Cave.md)
-- [Runaway Bridge](./Runaway%20Bridge.md)
-- [Shattered Cove](./Shattered%20Cove.md)
-- [Stone Shelf Cave](./Stone%20Shelf%20Cave.md)
-- [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md)
-- To Cave System (Region Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md))
-- To Timberwolf Mountain (Region Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md))
+| Column 1 | Column 2 |
+| --- | --- |
+| - [Angler's Den](./Angler%27s%20Den.md) / - [Bitter Marsh](./Bitter%20Marsh.md) / - [Broad Falls](./Broad%20Falls.md) / - [Climber's Cave](./Climber%27s%20Cave.md) / - [Fire Overlook](./Fire%20Overlook.md) / - [Foreman's Retreat](./Foreman%27s%20Retreat.md) / - [Gold Mine](./Gold%20Mine.md) / - [High Meadow](./High%20Meadow.md) / - [Homesteader's Respite](./Homesteader%27s%20Respite.md) / - [Long Falls](./Long%20Falls.md) / - [Pillar's Footrest](./Pillar%27s%20Footrest.md) | - [Miner's Folly](./Miner%27s%20Folly.md) / - [Mining Camp](./Mining%20Camp.md) / - [Narrow Falls Cave](./Narrow%20Falls%20Cave.md) / - [Runaway Bridge](./Runaway%20Bridge.md) / - [Shattered Cove](./Shattered%20Cove.md) / - [Stone Shelf Cave](./Stone%20Shelf%20Cave.md) / - [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md) / - To Cave System (Region Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md)) / - To Timberwolf Mountain (Region Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md)) |
 
 There is also 1 [Prepper Cache](./Prepper%20Cache.md) close to the Cave Region Transition.
 

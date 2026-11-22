@@ -16,20 +16,12 @@
 
 **Last Resort Cannery**
 
-![](../assets/SS-BI-Cannery03.jpg)
-
-_SS-BI-Cannery03.jpg_
-
-**Location**
-
-![](../assets/Last_Resort_Cannery_Location.png)
-
-_Last\_Resort\_Cannery\_Location.png_
-
-**Region:** [Bleak Inlet](./Bleak%20Inlet.md)
-
-**Description:** Fenced Industrial compound
-
-**General**
-
-**Type:** Industrial
+| Column 1 | Column 2 |
+| --- | --- |
+| ![](../assets/SS-BI-Cannery03.jpg) / _SS-BI-Cannery03.jpg_ |  |
+| **Location** |  |
+| ![](../assets/Last_Resort_Cannery_Location.png) / _Last\_Resort\_Cannery\_Location.png_ |  |
+| Region | [Bleak Inlet](./Bleak%20Inlet.md)\|- |
+| Description | Fenced Industrial compound |
+| **General** |  |
+| Type | Industrial\|- |

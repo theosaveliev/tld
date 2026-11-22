@@ -42,31 +42,9 @@ It's nothing more than a shiny piece of metal, meant to catch the eye of any fis
 
 If a Fishing Tackle is equipped with a Simple Fishing Lure and snaps when fishing, the Lure will be lost and must be crafted again.
 
-Image
-
-Lure
-
-Rare Fish Bonus
-
-Maximum Wait Penalty
-
-Materials
-
-Creation Time
-
-![](../assets/Simple_Fishing_Lure_icon.png)
-
-_Simple\_Fishing\_Lure\_icon.png_
-
-Simple Fishing Lure
-
-+500%
-
-+20%
-
-- 1 [Scrap Metal](./Scrap%20Metal.md)
-
-30 min
+| Image | Lure | Rare Fish Bonus | Maximum Wait Penalty | Materials | Creation Time |
+| --- | --- | --- | --- | --- | --- |
+| ![](../assets/Simple_Fishing_Lure_icon.png) / _Simple\_Fishing\_Lure\_icon.png_ | Simple Fishing Lure | +500% | +20% | - 1 [Scrap Metal](./Scrap%20Metal.md) | 30 min |
 
 ## Crafting
 

@@ -51,49 +51,13 @@ Players can then select the food item, drink or cooking container from the radia
 
 Players need a Fire before they can start cooking, and certain pieces of equipment can be used to assist with cooking.
 
-Image
-
-Equipment
-
-Benefit
-
-\[Missing image: Fire\_icon.png\] / _Fire\_icon.png_
-
-[Fire](./Fire.md#Types_of_fires)
-
-- Used to cook any [canned food](#canned) and meat. / - The Can, Cooking Pot and Cooking Skillet can be used on it to prepare dishes. / - Includes player-made campfires and contained fires made in existing fireboxes.
-
-![](../assets/Anywhere_icon.png)
-
-_Anywhere\_icon.png_
-
-No Tool
-
-- Used exclusively to cook [Bannock](./Bannock.md) and [Acorn Bannock](./Acorn%20Bannock.md) without a [Cooking Skillet](./Cooking%20Skillet.md) / - Alternative method of heating food/drink in inventory on an active Cooking Slot
-
-![](../assets/Recycled_Can_icon.png)
-
-_Recycled\_Can\_icon.png_
-
-[Recycled Can](./Recycled%20Can.md)
-
-- Used to cook canned foods. / - Can melt and boil up to 0.5 liters of [water](./Water%20%28Unsafe%29.md) at a time. / - Used to craft or heat up any drink in the game. / - Used to boil [Prepared Acorns](./Prepared%20Acorns.md).
-
-![](../assets/Cooking_Pot_icon.png)
-
-_Cooking\_Pot\_icon.png_
-
-[Cooking Pot](./Cooking%20Pot.md)
-
-- Used to cook Cooking Pot Recipes. / - Used to cook canned foods. / - Used to cook any meat or fish in the game. / - Can melt and boil up to 2.0 litres of water at a time. / - Cooking times reduced by 20%. / - Food takes 50% longer to burn.
-
-![](../assets/Cooking_Skillet_icon.png)
-
-_Cooking\_Skillet\_icon.png_
-
-[Cooking Skillet](./Cooking%20Skillet.md)
-
-- Used to cook Skillet Recipes. / - Used to cook canned foods. / - Used to cook any meat or fish in the game. / - Can melt and boil up to 1.0 litres of water at a time. / - Cooking times reduced by 20%. / - Food takes 50% longer to burn.
+| Image | Equipment | Benefit |
+| --- | --- | --- |
+| \[Missing image: Fire\_icon.png\] / _Fire\_icon.png_ | [Fire](./Fire.md#Types_of_fires) | - Used to cook any [canned food](#canned) and meat. / - The Can, Cooking Pot and Cooking Skillet can be used on it to prepare dishes. / - Includes player-made campfires and contained fires made in existing fireboxes. |
+| ![](../assets/Anywhere_icon.png) / _Anywhere\_icon.png_ | No Tool | - Used exclusively to cook [Bannock](./Bannock.md) and [Acorn Bannock](./Acorn%20Bannock.md) without a [Cooking Skillet](./Cooking%20Skillet.md) / - Alternative method of heating food/drink in inventory on an active Cooking Slot |
+| ![](../assets/Recycled_Can_icon.png) / _Recycled\_Can\_icon.png_ | [Recycled Can](./Recycled%20Can.md) | - Used to cook canned foods. / - Can melt and boil up to 0.5 liters of [water](./Water%20%28Unsafe%29.md) at a time. / - Used to craft or heat up any drink in the game. / - Used to boil [Prepared Acorns](./Prepared%20Acorns.md). |
+| ![](../assets/Cooking_Pot_icon.png) / _Cooking\_Pot\_icon.png_ | [Cooking Pot](./Cooking%20Pot.md) | - Used to cook Cooking Pot Recipes. / - Used to cook canned foods. / - Used to cook any meat or fish in the game. / - Can melt and boil up to 2.0 litres of water at a time. / - Cooking times reduced by 20%. / - Food takes 50% longer to burn. |
+| ![](../assets/Cooking_Skillet_icon.png) / _Cooking\_Skillet\_icon.png_ | [Cooking Skillet](./Cooking%20Skillet.md) | - Used to cook Skillet Recipes. / - Used to cook canned foods. / - Used to cook any meat or fish in the game. / - Can melt and boil up to 1.0 litres of water at a time. / - Cooking times reduced by 20%. / - Food takes 50% longer to burn. |
 
 ## Firebox cooking slots
 
@@ -639,11 +603,8 @@ _Cooked\_Potato\_icon.png_
 
 ## Frontier Cooking Recipes
 
-![](../assets/Ptarmigan_icon.png)
-
-_Ptarmigan\_icon.png_
-
-**DLC-Exclusive content.** / This content requires the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) addon to be installed before it can be seen or used in regular gameplay.
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
 
 ## Notes
 

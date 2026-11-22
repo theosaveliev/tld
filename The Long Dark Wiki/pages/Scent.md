@@ -52,69 +52,16 @@ Wind is a factor that the player should be aware of; being upwind of an animal w
 
 ### Scent Values
 
-Gear Type
-
-Scent Value
-
-Item
-
-Item
-
-Bleeding
-
-80
-
-Suffering from ![Blood\_Loss\_icon.png](../assets/Blood_Loss_icon.png) [Blood Loss](./Blood%20Loss.md)
-
-Carcass Quarters
-
-50
-
-- ![Bear\_Quarter\_icon.png](../assets/Bear_Quarter_icon.png) [Bear Quarter](./Bear%20Quarter.md) / - ![Cougar\_Quarter\_icon.png](../assets/Cougar_Quarter_icon.png) [Cougar Quarter](./Cougar%20Quarter.md) / - ![Deer\_Quarter\_icon.png](../assets/Deer_Quarter_icon.png) [Deer Quarter](./Deer%20Quarter.md) / - ![Moose\_Quarter\_icon.png](../assets/Moose_Quarter_icon.png) [Moose Quarter](./Moose%20Quarter.md) / - ![Wolf\_Quarter\_icon.png](../assets/Wolf_Quarter_icon.png) [Wolf Quarter](./Wolf%20Quarter.md)
-
-Small Carcasses
-
-30
-
-- ![Ptarmigan\_Carcass\_icon.png](../assets/Ptarmigan_Carcass_icon.png) [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) / - ![Rabbit\_Carcass\_icon.png](../assets/Rabbit_Carcass_icon.png) [Rabbit Carcass](./Rabbit%20Carcass.md)
-
-Fresh Gut
-
-20
-
-![Fresh\_Gut\_icon.png](../assets/Fresh_Gut_icon.png) [Fresh Gut](./Fresh%20Gut.md)[¹](#fn1)
-
-Raw meat/fish
-
-15
-
-Raw Animal / - ![Bear\_Meat\_(Raw)\_icon.png](../assets/Bear_Meat_%28Raw%29_icon.png) [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) / - ![Cougar\_Meat\_(Raw)\_icon.png](../assets/Cougar_Meat_%28Raw%29_icon.png) [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md) / - ![Moose\_Meat\_(Raw)\_icon.png](../assets/Moose_Meat_%28Raw%29_icon.png) [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) / - ![Ptarmigan\_(Raw)\_icon.png](../assets/Ptarmigan_%28Raw%29_icon.png) [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) / - ![Rabbit\_(Raw)\_icon.png](../assets/Rabbit_%28Raw%29_icon.png) [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) / - ![Venison\_(Raw)\_icon.png](../assets/Venison_%28Raw%29_icon.png) [Venison (Raw)](./Venison%20%28Raw%29.md) / - ![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)
-
-Raw Fish / - ![Coho\_Salmon\_(Raw)\_icon.png](../assets/Coho_Salmon_%28Raw%29_icon.png) [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) / - ![Lake\_Whitefish\_(Raw)\_icon.png](../assets/Lake_Whitefish_%28Raw%29_icon.png) [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) / - ![Rainbow\_Trout\_(Raw)\_icon.png](../assets/Rainbow_Trout_%28Raw%29_icon.png) [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) / - ![Smallmouth\_Bass\_(Raw)\_icon.png](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) / - ![Burbot\_(Raw)\_icon.png](../assets/Burbot_%28Raw%29_icon.png) [Burbot (Raw)](./Burbot%20%28Raw%29.md) / - ![Goldeye\_(Raw)\_icon.png](../assets/Goldeye_%28Raw%29_icon.png) [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) / - ![Red\_Irish\_Lord\_(Raw)\_icon.png](../assets/Red_Irish_Lord_%28Raw%29_icon.png) [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) / - ![Rockfish\_(Raw)\_icon.png](../assets/Rockfish_%28Raw%29_icon.png) [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) / - ![Big\_Bass\_(Raw)\_icon.png](../assets/Big_Bass_%28Raw%29_icon.png) [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md)
-
-Raw animal products
-
-5
-
-![Animal\_Fat\_icon.png](../assets/Animal_Fat_icon.png) [Animal Fat](./Animal%20Fat.md)
-
-![Fishing\_Bait\_icon.png](../assets/Fishing_Bait_icon.png) [Fishing Bait](./Fishing%20Bait.md)[²](#fn2)
-
-Cooked meat/fish
-
-5
-
-Cooked Animal / - ![Bear\_Meat\_(Cooked)\_icon.png](../assets/Bear_Meat_%28Cooked%29_icon.png) [Bear Meat (Cooked)](./Bear%20Meat%20%28Cooked%29.md) / - ![Cougar\_Meat\_(Cooked)\_icon.png](../assets/Cougar_Meat_%28Cooked%29_icon.png) [Cougar Meat (Cooked)](./Cougar%20Meat%20%28Cooked%29.md) / - ![Moose\_Meat\_(Cooked)\_icon.png](../assets/Moose_Meat_%28Cooked%29_icon.png) [Moose Meat (Cooked)](./Moose%20Meat%20%28Cooked%29.md) / - ![Ptarmigan\_(Cooked)\_icon.png](../assets/Ptarmigan_%28Cooked%29_icon.png) [Ptarmigan (Cooked)](./Ptarmigan%20%28Cooked%29.md) / - ![Rabbit\_(Cooked)\_icon.png](../assets/Rabbit_%28Cooked%29_icon.png) [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md) / - ![Venison\_(Cooked)\_icon.png](../assets/Venison_%28Cooked%29_icon.png) [Venison (Cooked)](./Venison%20%28Cooked%29.md) / - ![Wolf\_Meat\_(Cooked)\_icon.png](../assets/Wolf_Meat_%28Cooked%29_icon.png) [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md)
-
-Cooked Fish / - ![Coho\_Salmon\_(Cooked)\_icon.png](../assets/Coho_Salmon_%28Cooked%29_icon.png) [Coho Salmon (Cooked)](./Coho%20Salmon%20%28Cooked%29.md) / - ![Lake\_Whitefish\_(Cooked)\_icon.png](../assets/Lake_Whitefish_%28Cooked%29_icon.png) [Lake Whitefish (Cooked)](./Lake%20Whitefish%20%28Cooked%29.md) / - ![Rainbow\_Trout\_(Cooked)\_icon.png](../assets/Rainbow_Trout_%28Cooked%29_icon.png) [Rainbow Trout (Cooked)](./Rainbow%20Trout%20%28Cooked%29.md) / - ![Smallmouth\_Bass\_(Cooked)\_icon.png](../assets/Smallmouth_Bass_%28Cooked%29_icon.png) [Smallmouth Bass (Cooked)](./Smallmouth%20Bass%20%28Cooked%29.md) / - ![Burbot\_(Cooked)\_icon.png](../assets/Burbot_%28Cooked%29_icon.png) [Burbot (Cooked)](./Burbot%20%28Cooked%29.md) / - ![Goldeye\_(Cooked)\_icon.png](../assets/Goldeye_%28Cooked%29_icon.png) [Goldeye (Cooked)](./Goldeye%20%28Cooked%29.md) / - ![Red\_Irish\_Lord\_(Cooked)\_icon.png](../assets/Red_Irish_Lord_%28Cooked%29_icon.png) [Red Irish Lord (Cooked)](./Red%20Irish%20Lord%20%28Cooked%29.md) / - ![Rockfish\_(Cooked)\_icon.png](../assets/Rockfish_%28Cooked%29_icon.png) [Rockfish (Cooked)](./Rockfish%20%28Cooked%29.md) / - ![Big\_Bass\_(Cooked)\_icon.png](../assets/Big_Bass_%28Cooked%29_icon.png) [Big Bass (Cooked)](./Big%20Bass%20%28Cooked%29.md)
-
-Recipes containing meat
-
-5
-
-Stew / - ![Ptarmigan\_Stew\_icon.png](../assets/Ptarmigan_Stew_icon.png) [Ptarmigan Stew](./Ptarmigan%20Stew.md) / - ![Rabbit\_Stew\_icon.png](../assets/Rabbit_Stew_icon.png) [Rabbit Stew](./Rabbit%20Stew.md) / - ![Ranger\_Stew\_icon.png](../assets/Ranger_Stew_icon.png) [Ranger Stew](./Ranger%20Stew.md) / - ![Trout\_Stew\_icon.png](../assets/Trout_Stew_icon.png) [Trout Stew](./Trout%20Stew.md) / - ![Venison\_Stew\_icon.png](../assets/Venison_Stew_icon.png) [Venison Stew](./Venison%20Stew.md) / Soup / - ![Porter's\_Soup\_icon.png](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md) / - ![Last\_Resort\_Soup\_icon.png](../assets/Last_Resort_Soup_icon.png) [Last Resort Soup](./Last%20Resort%20Soup.md) / - ![Vagabond\_Soup\_icon.png](../assets/Vagabond_Soup_icon.png) [Vagabond Soup](./Vagabond%20Soup.md)
-
-Pie / - ![Breyerhouse\_Pie\_icon.png](../assets/Breyerhouse_Pie_icon.png) [Breyerhouse Pie](./Breyerhouse%20Pie.md) / - ![Dockworker's\_Pie\_icon.png](../assets/Dockworker%27s_Pie_icon.png) [Dockworker's Pie](./Dockworker%27s%20Pie.md) / - ![Ptarmigan\_Pie\_icon.png](../assets/Ptarmigan_Pie_icon.png) [Ptarmigan Pie](./Ptarmigan%20Pie.md) / - ![Rabbit\_Pie\_icon.png](../assets/Rabbit_Pie_icon.png) [Rabbit Pie](./Rabbit%20Pie.md) / - ![Stalker's\_Pie\_icon.png](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md) / - ![Venison\_Pie\_icon.png](../assets/Venison_Pie_icon.png) [Venison Pie](./Venison%20Pie.md) / Other / - ![Coastal\_Fishcakes\_icon.png](../assets/Coastal_Fishcakes_icon.png) [Coastal Fishcakes](./Coastal%20Fishcakes.md)[³](#fn3)
+| Gear Type | Scent Value | Item | Item |
+| --- | --- | --- | --- |
+| Bleeding | 80 | Suffering from ![Blood\_Loss\_icon.png](../assets/Blood_Loss_icon.png) [Blood Loss](./Blood%20Loss.md) |  |
+| Carcass Quarters | 50 | - ![Bear\_Quarter\_icon.png](../assets/Bear_Quarter_icon.png) [Bear Quarter](./Bear%20Quarter.md) / - ![Cougar\_Quarter\_icon.png](../assets/Cougar_Quarter_icon.png) [Cougar Quarter](./Cougar%20Quarter.md) / - ![Deer\_Quarter\_icon.png](../assets/Deer_Quarter_icon.png) [Deer Quarter](./Deer%20Quarter.md) / - ![Moose\_Quarter\_icon.png](../assets/Moose_Quarter_icon.png) [Moose Quarter](./Moose%20Quarter.md) / - ![Wolf\_Quarter\_icon.png](../assets/Wolf_Quarter_icon.png) [Wolf Quarter](./Wolf%20Quarter.md) |  |
+| Small Carcasses | 30 | - ![Ptarmigan\_Carcass\_icon.png](../assets/Ptarmigan_Carcass_icon.png) [Ptarmigan Carcass](./Ptarmigan%20Carcass.md) / - ![Rabbit\_Carcass\_icon.png](../assets/Rabbit_Carcass_icon.png) [Rabbit Carcass](./Rabbit%20Carcass.md) |  |
+| Fresh Gut | 20 | ![Fresh\_Gut\_icon.png](../assets/Fresh_Gut_icon.png) [Fresh Gut](./Fresh%20Gut.md)[¹](#fn1) |  |
+| Raw meat/fish | 15 | Raw Animal / - ![Bear\_Meat\_(Raw)\_icon.png](../assets/Bear_Meat_%28Raw%29_icon.png) [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) / - ![Cougar\_Meat\_(Raw)\_icon.png](../assets/Cougar_Meat_%28Raw%29_icon.png) [Cougar Meat (Raw)](./Cougar%20Meat%20%28Raw%29.md) / - ![Moose\_Meat\_(Raw)\_icon.png](../assets/Moose_Meat_%28Raw%29_icon.png) [Moose Meat (Raw)](./Moose%20Meat%20%28Raw%29.md) / - ![Ptarmigan\_(Raw)\_icon.png](../assets/Ptarmigan_%28Raw%29_icon.png) [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) / - ![Rabbit\_(Raw)\_icon.png](../assets/Rabbit_%28Raw%29_icon.png) [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) / - ![Venison\_(Raw)\_icon.png](../assets/Venison_%28Raw%29_icon.png) [Venison (Raw)](./Venison%20%28Raw%29.md) / - ![Wolf\_Meat\_(Raw)\_icon.png](../assets/Wolf_Meat_%28Raw%29_icon.png) [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) | Raw Fish / - ![Coho\_Salmon\_(Raw)\_icon.png](../assets/Coho_Salmon_%28Raw%29_icon.png) [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) / - ![Lake\_Whitefish\_(Raw)\_icon.png](../assets/Lake_Whitefish_%28Raw%29_icon.png) [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) / - ![Rainbow\_Trout\_(Raw)\_icon.png](../assets/Rainbow_Trout_%28Raw%29_icon.png) [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) / - ![Smallmouth\_Bass\_(Raw)\_icon.png](../assets/Smallmouth_Bass_%28Raw%29_icon.png) [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) / - ![Burbot\_(Raw)\_icon.png](../assets/Burbot_%28Raw%29_icon.png) [Burbot (Raw)](./Burbot%20%28Raw%29.md) / - ![Goldeye\_(Raw)\_icon.png](../assets/Goldeye_%28Raw%29_icon.png) [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) / - ![Red\_Irish\_Lord\_(Raw)\_icon.png](../assets/Red_Irish_Lord_%28Raw%29_icon.png) [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) / - ![Rockfish\_(Raw)\_icon.png](../assets/Rockfish_%28Raw%29_icon.png) [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) / - ![Big\_Bass\_(Raw)\_icon.png](../assets/Big_Bass_%28Raw%29_icon.png) [Big Bass (Raw)](./Big%20Bass%20%28Raw%29.md) |
+| Raw animal products | 5 | ![Animal\_Fat\_icon.png](../assets/Animal_Fat_icon.png) [Animal Fat](./Animal%20Fat.md) | ![Fishing\_Bait\_icon.png](../assets/Fishing_Bait_icon.png) [Fishing Bait](./Fishing%20Bait.md)[²](#fn2) |
+| Cooked meat/fish | 5 | Cooked Animal / - ![Bear\_Meat\_(Cooked)\_icon.png](../assets/Bear_Meat_%28Cooked%29_icon.png) [Bear Meat (Cooked)](./Bear%20Meat%20%28Cooked%29.md) / - ![Cougar\_Meat\_(Cooked)\_icon.png](../assets/Cougar_Meat_%28Cooked%29_icon.png) [Cougar Meat (Cooked)](./Cougar%20Meat%20%28Cooked%29.md) / - ![Moose\_Meat\_(Cooked)\_icon.png](../assets/Moose_Meat_%28Cooked%29_icon.png) [Moose Meat (Cooked)](./Moose%20Meat%20%28Cooked%29.md) / - ![Ptarmigan\_(Cooked)\_icon.png](../assets/Ptarmigan_%28Cooked%29_icon.png) [Ptarmigan (Cooked)](./Ptarmigan%20%28Cooked%29.md) / - ![Rabbit\_(Cooked)\_icon.png](../assets/Rabbit_%28Cooked%29_icon.png) [Rabbit (Cooked)](./Rabbit%20%28Cooked%29.md) / - ![Venison\_(Cooked)\_icon.png](../assets/Venison_%28Cooked%29_icon.png) [Venison (Cooked)](./Venison%20%28Cooked%29.md) / - ![Wolf\_Meat\_(Cooked)\_icon.png](../assets/Wolf_Meat_%28Cooked%29_icon.png) [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md) | Cooked Fish / - ![Coho\_Salmon\_(Cooked)\_icon.png](../assets/Coho_Salmon_%28Cooked%29_icon.png) [Coho Salmon (Cooked)](./Coho%20Salmon%20%28Cooked%29.md) / - ![Lake\_Whitefish\_(Cooked)\_icon.png](../assets/Lake_Whitefish_%28Cooked%29_icon.png) [Lake Whitefish (Cooked)](./Lake%20Whitefish%20%28Cooked%29.md) / - ![Rainbow\_Trout\_(Cooked)\_icon.png](../assets/Rainbow_Trout_%28Cooked%29_icon.png) [Rainbow Trout (Cooked)](./Rainbow%20Trout%20%28Cooked%29.md) / - ![Smallmouth\_Bass\_(Cooked)\_icon.png](../assets/Smallmouth_Bass_%28Cooked%29_icon.png) [Smallmouth Bass (Cooked)](./Smallmouth%20Bass%20%28Cooked%29.md) / - ![Burbot\_(Cooked)\_icon.png](../assets/Burbot_%28Cooked%29_icon.png) [Burbot (Cooked)](./Burbot%20%28Cooked%29.md) / - ![Goldeye\_(Cooked)\_icon.png](../assets/Goldeye_%28Cooked%29_icon.png) [Goldeye (Cooked)](./Goldeye%20%28Cooked%29.md) / - ![Red\_Irish\_Lord\_(Cooked)\_icon.png](../assets/Red_Irish_Lord_%28Cooked%29_icon.png) [Red Irish Lord (Cooked)](./Red%20Irish%20Lord%20%28Cooked%29.md) / - ![Rockfish\_(Cooked)\_icon.png](../assets/Rockfish_%28Cooked%29_icon.png) [Rockfish (Cooked)](./Rockfish%20%28Cooked%29.md) / - ![Big\_Bass\_(Cooked)\_icon.png](../assets/Big_Bass_%28Cooked%29_icon.png) [Big Bass (Cooked)](./Big%20Bass%20%28Cooked%29.md) |
+| Recipes containing meat | 5 | Stew / - ![Ptarmigan\_Stew\_icon.png](../assets/Ptarmigan_Stew_icon.png) [Ptarmigan Stew](./Ptarmigan%20Stew.md) / - ![Rabbit\_Stew\_icon.png](../assets/Rabbit_Stew_icon.png) [Rabbit Stew](./Rabbit%20Stew.md) / - ![Ranger\_Stew\_icon.png](../assets/Ranger_Stew_icon.png) [Ranger Stew](./Ranger%20Stew.md) / - ![Trout\_Stew\_icon.png](../assets/Trout_Stew_icon.png) [Trout Stew](./Trout%20Stew.md) / - ![Venison\_Stew\_icon.png](../assets/Venison_Stew_icon.png) [Venison Stew](./Venison%20Stew.md) / Soup / - ![Porter's\_Soup\_icon.png](../assets/Porter%27s_Soup_icon.png) [Porter's Soup](./Porter%27s%20Soup.md) / - ![Last\_Resort\_Soup\_icon.png](../assets/Last_Resort_Soup_icon.png) [Last Resort Soup](./Last%20Resort%20Soup.md) / - ![Vagabond\_Soup\_icon.png](../assets/Vagabond_Soup_icon.png) [Vagabond Soup](./Vagabond%20Soup.md) | Pie / - ![Breyerhouse\_Pie\_icon.png](../assets/Breyerhouse_Pie_icon.png) [Breyerhouse Pie](./Breyerhouse%20Pie.md) / - ![Dockworker's\_Pie\_icon.png](../assets/Dockworker%27s_Pie_icon.png) [Dockworker's Pie](./Dockworker%27s%20Pie.md) / - ![Ptarmigan\_Pie\_icon.png](../assets/Ptarmigan_Pie_icon.png) [Ptarmigan Pie](./Ptarmigan%20Pie.md) / - ![Rabbit\_Pie\_icon.png](../assets/Rabbit_Pie_icon.png) [Rabbit Pie](./Rabbit%20Pie.md) / - ![Stalker's\_Pie\_icon.png](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md) / - ![Venison\_Pie\_icon.png](../assets/Venison_Pie_icon.png) [Venison Pie](./Venison%20Pie.md) / Other / - ![Coastal\_Fishcakes\_icon.png](../assets/Coastal_Fishcakes_icon.png) [Coastal Fishcakes](./Coastal%20Fishcakes.md)[³](#fn3) |
 
 ## Baiting/Decoys
 

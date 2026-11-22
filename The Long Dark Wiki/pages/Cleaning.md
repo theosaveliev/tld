@@ -130,35 +130,12 @@ _Main article: [Rifle Firearm](./Rifle%20Firearm.md)_
 
 Proficiency in the primary survival skill Rifle Firearm can affect the amount of condition restored while cleaning rifles. These perks are additive to the table listed above:
 
-Level
-
-Skill points
-
-Effects
-
-2
-
-10
-
-- An additional 2 condition per repair action
-
-3
-
-25
-
-- An additional 3 condition per repair action
-
-4
-
-50
-
-- An additional 4 condition per repair action
-
-5
-
-100
-
-- An additional 5 condition per repair action
+| Level | Skill points | Effects |
+| --- | --- | --- |
+| 2 | 10 | - An additional 2 condition per repair action |
+| 3 | 25 | - An additional 3 condition per repair action |
+| 4 | 50 | - An additional 4 condition per repair action |
+| 5 | 100 | - An additional 5 condition per repair action |
 
 ### Revolver Firearms
 
@@ -166,35 +143,12 @@ _Main article: [Revolver Firearm](./Revolver%20Firearm.md)_
 
 Proficiency in the primary survival skill Revolver Firearm can affect the amount of condition restored while cleaning revolvers. These perks are additive to the table listed above:
 
-Level
-
-Skill points
-
-Effects
-
-2
-
-10
-
-- An additional 2 condition per repair action
-
-3
-
-25
-
-- An additional 3 condition per repair action
-
-4
-
-50
-
-- An additional 4 condition per repair action
-
-5
-
-100
-
-- An additional 5 condition per repair action
+| Level | Skill points | Effects |
+| --- | --- | --- |
+| 2 | 10 | - An additional 2 condition per repair action |
+| 3 | 25 | - An additional 3 condition per repair action |
+| 4 | 50 | - An additional 4 condition per repair action |
+| 5 | 100 | - An additional 5 condition per repair action |
 
 ## Trivia
 

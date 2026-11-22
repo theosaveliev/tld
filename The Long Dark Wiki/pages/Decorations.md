@@ -145,78 +145,11 @@ Crafted
 
 Once crafted, the following Decorations crafted at a Furniture Workbench will be placed in a container in that Workbench (they can be placed your Safehouse by opening the Furniture Workbench and selecting them). They cannot be placed in the player's inventory despite having a weight class, and furniture with containers cannot be broken down to regain some of their resources once placed in the Safehouse.
 
-Recipe
-
-Materials
-
-Time
-
-Weight
-
-Crafted
-
-![Bear\_Hide\_Bed\_icon.png](../assets/Bear_Hide_Bed_icon.png) [Bear Hide Bed](./Bear%20Hide%20Bed.md)
-
-18x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / 1x ![Cured\_Black\_Bear\_Hide\_icon.png](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / 16x ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md)
-
-24 Hours
-
-10.00 kg / _(22 lb)_
-
-[Furniture Workbench](./Furniture%20Workbench.md)
-
-![Coffee\_Table\_icon.png](../assets/Coffee_Table_icon.png) [Coffee Table](./Coffee%20Table.md)
-
-6x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
-
-4 Hours
-
-5.00 kg / _(11 lb)_
-
-[Furniture Workbench](./Furniture%20Workbench.md)
-
-![Rustic\_End\_Table\_icon.png](../assets/Rustic_End_Table_icon.png) [Rustic End Table](./Rustic%20End%20Table.md)
-
-6x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md)
-
-6 Hours
-
-20.00 kg / _(44 lb)_
-
-[Furniture Workbench](./Furniture%20Workbench.md)
-
-![Round\_Table\_icon.png](../assets/Round_Table_icon.png) [Round Table](./Round%20Table.md)
-
-12x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
-
-9 Hours
-
-5.00 kg / _(11 lb)_
-
-[Furniture Workbench](./Furniture%20Workbench.md)
-
-![Rustic\_Table\_icon.png](../assets/Rustic_Table_icon.png) [Rustic Table](./Rustic%20Table.md)
-
-10x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
-
-8 Hours
-
-8.00 kg / _(17.6 lb)_
-
-[Furniture Workbench](./Furniture%20Workbench.md)
-
-![Square\_Table\_icon.png](../assets/Square_Table_icon.png) [Square Table](./Square%20Table.md)
-
-8x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md)
-
-7 Hours
-
-5.00 kg / _(11 lb)_
-
-[Furniture Workbench](./Furniture%20Workbench.md)
-
-\[Missing image: \[\[File:Rustic\_Chair\_icon.png\] [Rustic Chair](./Rustic%20Chair.md) / `icon.png\|link=`![Rustic\_Chair\_icon.png](../assets/Rustic_Chair_icon.png)[`Rustic Chair`](./Rustic%20Chair.md)
-
-29x29px\]\] link=Rustic Chair\|29x29px [Rustic Chair](./Rustic%20Chair.md)
-
-![Rustic\_Chair\_icon.png](../assets/Rustic_Chair_icon.png) [Rustic Chair](./Rustic%20Chair.md) \]\]
+| Recipe | Materials | Time | Weight | Crafted |
+| --- | --- | --- | --- | --- |
+| ![Bear\_Hide\_Bed\_icon.png](../assets/Bear_Hide_Bed_icon.png) [Bear Hide Bed](./Bear%20Hide%20Bed.md) | 18x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) 4x![Cured\_Gut\_icon.png](../assets/Cured_Gut_icon.png) [Cured Gut](./Cured%20Gut.md) / 1x ![Cured\_Black\_Bear\_Hide\_icon.png](../assets/Cured_Black_Bear_Hide_icon.png) [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / 16x ![Ptarmigan\_Down\_icon.png](../assets/Ptarmigan_Down_icon.png) [Ptarmigan Down](./Ptarmigan%20Down.md) | 24 Hours | 10.00 kg / _(22 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Coffee\_Table\_icon.png](../assets/Coffee_Table_icon.png) [Coffee Table](./Coffee%20Table.md) | 6x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 4 Hours | 5.00 kg / _(11 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_End\_Table\_icon.png](../assets/Rustic_End_Table_icon.png) [Rustic End Table](./Rustic%20End%20Table.md) | 6x ![Cedar\_Firewood\_icon.png](../assets/Cedar_Firewood_icon.png) [Cedar Firewood](./Cedar%20Firewood.md) 2x ![Reclaimed\_Wood\_icon.png](../assets/Reclaimed_Wood_icon.png) [Reclaimed Wood](./Reclaimed%20Wood.md) | 6 Hours | 20.00 kg / _(44 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Round\_Table\_icon.png](../assets/Round_Table_icon.png) [Round Table](./Round%20Table.md) | 12x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 9 Hours | 5.00 kg / _(11 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Rustic\_Table\_icon.png](../assets/Rustic_Table_icon.png) [Rustic Table](./Rustic%20Table.md) | 10x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 8 Hours | 8.00 kg / _(17.6 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |
+| ![Square\_Table\_icon.png](../assets/Square_Table_icon.png) [Square Table](./Square%20Table.md) | 8x ![Fir\_Firewood\_icon.png](../assets/Fir_Firewood_icon.png) [Fir Firewood](./Fir%20Firewood.md) | 7 Hours | 5.00 kg / _(11 lb)_ | [Furniture Workbench](./Furniture%20Workbench.md) |

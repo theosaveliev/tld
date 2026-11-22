@@ -14,28 +14,10 @@
 
 **Milton House**
 
-\[\[File: / ![Type 1](../assets/Milton_House_1.jpg) / _Type 1_ / ![Type 2](../assets/Coastal_House_1.jpg) / _Type 2_ / ![Type 3](../assets/Milton_House_2.jpg) / _Type 3_ / ![Type 4](../assets/Milton_Bank_Managers_House.jpg) / _Type 4_ / ![Type 5](../assets/Crossroads_House_Shed.jpg) / _Type 5_ / ![Grey Mother's](../assets/Milton_House_%28Grey_Mother%27s%29.png) / _Grey Mother's_
-
-250px\]\]
-
-**Location**
-
-Region
-
-[Mountain Town](./Mountain%20Town.md)
-
-Location
-
-**General**
-
-Type
-
-Residential
-
-Firebox
-
-![](../assets/Bed_icon.png)
-
-_bed\_icon.png_
-
-Has a bed
+| \[\[File: / ![Type 1](../assets/Milton_House_1.jpg) / _Type 1_ / ![Type 2](../assets/Coastal_House_1.jpg) / _Type 2_ / ![Type 3](../assets/Milton_House_2.jpg) / _Type 3_ / ![Type 4](../assets/Milton_Bank_Managers_House.jpg) / _Type 4_ / ![Type 5](../assets/Crossroads_House_Shed.jpg) / _Type 5_ / ![Grey Mother's](../assets/Milton_House_%28Grey_Mother%27s%29.png) / _Grey Mother's_ | 250px\]\] |  |
+| --- | --- | --- |
+| **Location** |  |  |
+| Region | [Mountain Town](./Mountain%20Town.md)\|- | Location |
+| **General** |  |  |
+| Type | Residential\|- | Firebox |
+| ![](../assets/Bed_icon.png) / _bed\_icon.png_ | Has a bed |  |

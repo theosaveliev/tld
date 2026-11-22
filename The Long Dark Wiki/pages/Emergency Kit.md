@@ -24,10 +24,7 @@
 
 **Emergency Kit**
 
-\[\[File: / ![Closed](../assets/Emergency_Kit.jpg) / _Closed_ / ![Open](../assets/Emergency_Kit_Open.jpg) / _Open_
-
-250px\]\]
-
-**General**
-
-**Item Type:** Item
+| \[\[File: / ![Closed](../assets/Emergency_Kit.jpg) / _Closed_ / ![Open](../assets/Emergency_Kit_Open.jpg) / _Open_ | 250px\]\] |
+| --- | --- |
+| **General** |  |
+| Item Type | Item |

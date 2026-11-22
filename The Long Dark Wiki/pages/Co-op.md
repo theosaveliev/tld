@@ -11,14 +11,10 @@
 
 **Co-op**
 
-![](../assets/No_picture.png)
-
-_No\_picture.png_
-
-**Location**
-
-**Region:** [Perseverance Mills](./Perseverance%20Mills.md)
-
-**General**
-
-Type
+| Column 1 | Column 2 |
+| --- | --- |
+| ![](../assets/No_picture.png) / _No\_picture.png_ |  |
+| **Location** |  |
+| Region | [Perseverance Mills](./Perseverance%20Mills.md)\|- |
+| **General** |  |
+| Type |  |

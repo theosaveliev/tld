@@ -4,14 +4,10 @@
 
 **Lone Lake Cabin**
 
-![](../assets/Lone_Lake_Cabin.png)
-
-_Lone\_Lake\_Cabin.png_
-
-**Location**
-
-**Region:** [Mystery Lake](./Mystery%20Lake%20%28region%29.md)
-
-**General**
-
-**Type:** Residential
+| Column 1 | Column 2 |
+| --- | --- |
+| ![](../assets/Lone_Lake_Cabin.png) / _Lone\_Lake\_Cabin.png_ |  |
+| **Location** |  |
+| Region | [Mystery Lake](./Mystery%20Lake%20%28region%29.md)\|- |
+| **General** |  |
+| Type | Residential\|- |

@@ -160,74 +160,12 @@ Once enough skill points are achieved, a new skill level is reached.
 
 &lt;table-progress-tracking table-id="6" unique-column-index="1"&gt;
 
-Level
-
-Skill points needed
-
-Points to next level
-
-Effects
-
-Flavor text
-
-1
-
-0
-
-25
-
-- Basic mending skill
-- 50% chance of successful repair
-
-You have little knowledge or skill with mending cloth items. Although you can make basic repairs, your use of a sewing kit is clumsy and slow
-
-2
-
-25
-
-50
-
-- 65% chance of successful repair
-- Repair time decreased by 10%
-
-Your sewing skills are improving. You are now making fewer mistakes and making your repairs a little more speedily.
-
-3
-
-75
-
-75
-
-- 75% chance of successful repair
-- Repair time decreased by 15%
-- 10% greater item condition increase
-
-You're getting good at mending cloth items. Your repairs are faster than before and more efficient. Mistakes are rare.
-
-4
-
-150
-
-200
-
-- 85% chance of successful repair
-- Repair time decreased by 25%
-- 15% greater item condition increase
-- 25% reduction of Sewing kit wear
-
-An expert with a needle and thread. Your sewing skills allow you to keep your clothing in top condition using less time and less resources than before.
-
-5
-
-350
-
-Max level
-
-- 100% chance of successful repair
-- Repair time decreased by 40%
-- 25% greater item condition increase
-- 35% reduction of Sewing kit wear
-
-You have mastered the use of a needle and thread. You are fast, efficient and repair cloth items with ease.
+| Level | Skill points needed | Points to next level | Effects | Flavor text |
+| --- | --- | --- | --- | --- |
+| 1 | 0 | 25 | - Basic mending skill / - 50% chance of successful repair | You have little knowledge or skill with mending cloth items. Although you can make basic repairs, your use of a sewing kit is clumsy and slow |
+| 2 | 25 | 50 | - 65% chance of successful repair / - Repair time decreased by 10% | Your sewing skills are improving. You are now making fewer mistakes and making your repairs a little more speedily. |
+| 3 | 75 | 75 | - 75% chance of successful repair / - Repair time decreased by 15% / - 10% greater item condition increase | You're getting good at mending cloth items. Your repairs are faster than before and more efficient. Mistakes are rare. |
+| 4 | 150 | 200 | - 85% chance of successful repair / - Repair time decreased by 25% / - 15% greater item condition increase / - 25% reduction of Sewing kit wear | An expert with a needle and thread. Your sewing skills allow you to keep your clothing in top condition using less time and less resources than before. |
+| 5 | 350 | Max level | - 100% chance of successful repair / - Repair time decreased by 40% / - 25% greater item condition increase / - 35% reduction of Sewing kit wear | You have mastered the use of a needle and thread. You are fast, efficient and repair cloth items with ease. |
 
 &lt;/table-progress-tracking&gt;

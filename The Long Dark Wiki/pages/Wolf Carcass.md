@@ -11,13 +11,11 @@
 
 **Wolf Carcass**
 
-![](../assets/Wolf_carcass_icon.png)
-
-_Wolf\_carcass\_icon.png_
-
-**General**
-
-**Item Type:** Item
+| Column 1 | Column 2 |
+| --- | --- |
+| ![](../assets/Wolf_carcass_icon.png) / _Wolf\_carcass\_icon.png_ |  |
+| **General** |  |
+| Item Type | Item |
 
 ## Notes
 

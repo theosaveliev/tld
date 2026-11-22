@@ -482,7 +482,7 @@ def test_recipe_infobox_renders_skill_time_and_material_pairs() -> None:
 <tr><td>Item</td><td><a href="./Bullet.md">Bullet</a></td></tr>
 <tr><td>Quantity</td><td>1</td></tr>
 <tr><td colspan="2">Template:iconlink plain</td></tr>
-<tr><td colspan="2"><a href="./Revolver_Shell_Casing.md">Revolver Shell Casing</a></td></tr>
+<tr><td colspan="2"><a href="./Casing.md">Revolver Shell Casing</a></td></tr>
 <tr><td colspan="2">1</td></tr>
 <tr><td colspan="2">Template:iconlink plain</td></tr>
 <tr><td colspan="2"><a href="./Can_of_Gunpowder.md">Can of Gunpowder</a></td></tr>
@@ -496,7 +496,7 @@ def test_recipe_infobox_renders_skill_time_and_material_pairs() -> None:
     assert "**Materials**" in markdown
     assert "| Item | Quantity |" in markdown
     assert "| [Bullet](./Bullet.md) | 1 |" in markdown
-    assert "| [Revolver Shell Casing](./Revolver_Shell_Casing.md) | 1 |" in markdown
+    assert "| [Revolver Shell Casing](./Casing.md) | 1 |" in markdown
     assert "| [Can of Gunpowder](./Can_of_Gunpowder.md) | 0.01 kg |" in markdown
     assert "Template:" not in markdown
     assert "| Property | Details |" not in markdown

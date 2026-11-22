@@ -65,20 +65,18 @@ WIKITEXT_REFERENCE_TAG_RE = re.compile(
 WIKITEXT_COMMENT_BLOCK_RE = re.compile(r"<!--.*?(?:-->|$)", re.DOTALL)
 WIKITEXT_CLASS_STYLE_ATTRIBUTE_RE = re.compile(
     r'(?m)(?P<prefix>\{\|[^\r\n]*?\bclass\s*=\s*"[^"\r\n]*?)'
-    r'\s+(?P<style>style\s*=\s*"[^"\r\n]*)',
+    r'\s+(?P<style>style\s*=\s*"[^"\r\n]*)"',
     re.IGNORECASE,
-)
-WIKITEXT_SPLIT_CELL_STYLE_RE = re.compile(
+)WIKITEXT_SPLIT_CELL_STYLE_RE = re.compile(
     r'(?P<prefix>\bstyle\s*=\s*")(?P<first>[^"\r\n]*)"\s+'
     r'(?P<extra>(?:[a-z-]+\s*:\s*[^;"|\r\n]+;?\s*)+)"(?=\s*\|)',
     re.IGNORECASE,
 )
 WIKITEXT_SCOPE_WIDTH_RE = re.compile(
     r'(?P<scope>\bscope\s*=\s*"col")\s+'
-    r'(?P<width>width\s*:\s*[^";|\r\n]+);(?="?\s*\|)',
+    r'(?P<width>width\s*:\s*[^";|\r\n]+);(?P<tail>"?\s*\|)',
     re.IGNORECASE,
-)
-WIKITEXT_EMPTY_CELL_LINE_RE = re.compile(r"(?m)^(?P<marker>[|!])\s*$")
+)WIKITEXT_EMPTY_CELL_LINE_RE = re.compile(r"(?m)^(?P<marker>[|!])\s*$")
 LEAKED_FILE_WRAPPER_PREFIX_RE = re.compile(
     r"(?:\\)?\[(?:\\)?\[File:\s*(?:/\s*)?", re.IGNORECASE
 )
@@ -725,6 +723,7 @@ def _repair_malformed_wikitext_table_attributes(value: str) -> str:
     cleaned = WIKITEXT_SCOPE_WIDTH_RE.sub(
         lambda match: (
             f'{match.group("scope")} style="{match.group("width").strip()};"'
+            f'{match.group("tail")}'
         ),
         cleaned,
     )

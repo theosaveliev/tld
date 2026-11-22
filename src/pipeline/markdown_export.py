@@ -724,7 +724,7 @@ def _repair_malformed_wikitext_table_attributes(value: str) -> str:
     cleaned = WIKITEXT_SPLIT_CELL_STYLE_RE.sub(join_style, cleaned)
     cleaned = WIKITEXT_SCOPE_WIDTH_RE.sub(
         lambda match: (
-            f'{match.group("scope")} style="{match.group("width").strip()};"'
+            f'{match.group("scope")} style="{match.group("width").strip()};'
             f'{match.group("tail")}'
         ),
         cleaned,

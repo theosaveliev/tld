@@ -1488,7 +1488,7 @@ def test_sanitize_expanded_wikitext_ignores_reference_tags_inside_comments() -> 
     source = (
         "<!-- <ref>commented-out opener</ref> -->\n"
         "Visible article text</ref>\n"
-        "<ref name=\\"real\\">A real reference</ref>"
+        '<ref name="real">A real reference</ref>'
     )
 
     sanitized = _sanitize_expanded_wikitext(source)

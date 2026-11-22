@@ -50,6 +50,7 @@ TABLE_CELL_LIST_BREAK_THRESHOLD = 8
 MINIMUM_SUBHEADER_CELL_COUNT = 2
 MAXIMUM_SUBHEADER_TEXT_LENGTH = 40
 CHANGELOG_ARCHIVE_TWO_START_MINOR = 50
+MISSING_EARLY_ACCESS_VERSION_FRAGMENTS = frozenset({"0.00", "0.01"})
 MARKDOWN_IMAGE_RE = re.compile(
     r"!\[(?P<label>(?:\\.|[^\]])*)\]\((?P<destination>[^)]+)\)"
 )
@@ -396,9 +397,9 @@ def _ambiguous_title_fallback(
     return f"{title}.md" if len(matches) > 1 else None
 
 
-def _changelog_archive_filename(
+def _changelog_archive_target(
     filename: str, fragment: str, title_to_filename: dict[str, str]
-) -> str | None:
+) -> tuple[str | None, str]:
     """Route legacy changelog version links to the page holding that release."""
     changelog_pages = {
         "the long dark — changelog.md",
@@ -407,28 +408,37 @@ def _changelog_archive_filename(
         "the long dark — changelog — archive 2.md",
     }
     if filename.casefold() not in changelog_pages:
-        return None
+        return None, fragment
 
-    match = re.fullmatch(
-        r"v?(?P<major>\d+)\.(?P<minor>\d+)[a-z]?",
-        urllib.parse.unquote(fragment),
+    normalized_fragment = urllib.parse.unquote(fragment)
+    if re.match(r"^\.\d", normalized_fragment):
+        normalized_fragment = "0" + normalized_fragment
+
+    match = re.match(
+        r"^v?(?P<major>\d+)\.(?P<minor>\d+)[a-z]?(?=$|[_ (])",
+        normalized_fragment,
         re.IGNORECASE,
     )
     if match is None:
-        return None
+        return None, fragment
 
-    major = int(match.group("major"))
-    minor = int(match.group("minor"))
+    major_text = match.group("major")
+    minor_text = match.group("minor")
+    major = int(major_text)
+    minor = int(minor_text)
+    version = f"{major_text}.{minor_text}"
     if major == 0:
         expected = "The Long Dark — Early Access Changelog.md"
+        if version in MISSING_EARLY_ACCESS_VERSION_FRAGMENTS:
+            normalized_fragment = ""
     elif major == 1 and minor < CHANGELOG_ARCHIVE_TWO_START_MINOR:
         expected = "The Long Dark — Changelog — Archive 1.md"
     elif major == 1:
         expected = "The Long Dark — Changelog — Archive 2.md"
     else:
-        return None
+        return None, fragment
 
-    return next(
+    archive_filename = next(
         (
             candidate
             for candidate in title_to_filename.values()
@@ -436,6 +446,7 @@ def _changelog_archive_filename(
         ),
         None,
     )
+    return archive_filename, normalized_fragment
 
 
 def _resolve_page_destination(
@@ -454,14 +465,12 @@ def _resolve_page_destination(
     if filename is None:
         return None
 
-    archive_filename = _changelog_archive_filename(
+    archive_filename, archive_fragment = _changelog_archive_target(
         filename, fragment, title_to_filename
     )
     if archive_filename is not None:
         filename = archive_filename
-        if urllib.parse.unquote(fragment) in {"0.00", "0.01"}:
-            # These two historical versions have no entry in the archived dump.
-            fragment = ""
+        fragment = archive_fragment
 
     destination = "./" + _safe_destination(filename)
     if key == normalize_title(current_title) and fragment:

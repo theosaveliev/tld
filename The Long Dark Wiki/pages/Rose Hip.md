@@ -58,11 +58,11 @@ Prepared Rose Hips weigh 0.05 kg, or around 1/5 of what 24 Rose Hips (their craf
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) / - 4 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) / - 0.20 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.10 kg × [Running River Oats](./Running%20River%20Oats.md) |
-| [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md) / - 15 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Animal Fat](./Animal%20Fat.md) / - 0.05 kg × [Salt](./Salt.md) |
-| [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md) / - 15 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Animal Fat](./Animal%20Fat.md) / - 0.05 kg × [Salt](./Salt.md) |
+| [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md)<br>- 4 × [Rose Hip](./Rose%20Hip.md)<br>- 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md)<br>- 0.20 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.10 kg × [Running River Oats](./Running%20River%20Oats.md) |
+| [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md)<br>- 15 × [Rose Hip](./Rose%20Hip.md)<br>- 0.50 kg × [Animal Fat](./Animal%20Fat.md)<br>- 0.05 kg × [Salt](./Salt.md) |
+| [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md)<br>- 15 × [Rose Hip](./Rose%20Hip.md)<br>- 0.50 kg × [Animal Fat](./Animal%20Fat.md)<br>- 0.05 kg × [Salt](./Salt.md) |
 | [Prepared Rose Hips](./Prepared%20Rose%20Hips.md) | None | - 24 × [Rose Hip](./Rose%20Hip.md) |
-| [Rose Hip Pie](./Rose%20Hip%20Pie.md) | None | - 8 × [Rose Hip](./Rose%20Hip.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Rose Hip Pie](./Rose%20Hip%20Pie.md) | None | - 8 × [Rose Hip](./Rose%20Hip.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
 ## History
 

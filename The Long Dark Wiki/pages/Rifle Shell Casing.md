@@ -34,6 +34,6 @@ Rifle Shell Casings are an ingredient in the crafting of [Rifle Ammunition](./Ri
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Rifle Cartridge](./Rifle%20Ammunition.md) | None | - 1 × [Bullet](./Bullet.md) / - 1 × [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) / - 0.01 kg × [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
+| [Rifle Cartridge](./Rifle%20Ammunition.md) | None | - 1 × [Bullet](./Bullet.md)<br>- 1 × [Rifle Shell Casing](./Rifle%20Shell%20Casing.md)<br>- 0.01 kg × [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
 
 **Template:materials**

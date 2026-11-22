@@ -46,7 +46,7 @@ Oil Tanks can be found at:
 
 Anna Island:
 
-- [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) (Railyard Track Section 1 West)
+- [Anna Island -- Track Section 1](./Anna%20Island%20--%20Track%20Section%201.md) ([Railyard Track Section 1](./Railyard%20%28Track%20Section%201%29.md) West)
 - [Anna Island -- Track Section 3](./Anna%20Island%20--%20Track%20Section%203.md) ([Railyard (Track Section 3)](./Railyard%20%28Track%20Section%203%29.md))
 - [Anna Island -- Track Section 4](./Anna%20Island%20--%20Track%20Section%204.md) ([Railyard (Track Section 5)](./Railyard%20%28Track%20Section%205%29.md) West)
 - [Anna Island -- Track Section 5](./Anna%20Island%20--%20Track%20Section%205.md) ([Railyard (Track Section 5)](./Railyard%20%28Track%20Section%205%29.md) West)

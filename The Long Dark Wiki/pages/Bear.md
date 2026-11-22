@@ -184,7 +184,7 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 
 The critical-% for flare gun seem to be currently bugged (i.e. defaulting to rifle bleed-out numbers)
 
-| Weapon | Critical Hit Chance |  |  |  |  |  |
+| Weapon | Weapon | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
 | ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 15% | 10% | 5% | 3% | 3% |
@@ -198,7 +198,7 @@ All shots that cause blood loss are lethal, but may take many hours based on whi
 
 ### Bleed Out
 
-| Weapon | Bleed Out |  |  |  |  |  |
+| Weapon | Weapon | Bleed Out | Bleed Out | Bleed Out | Bleed Out | Bleed Out |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
 | ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 80 min | 120 min | 320 min | 480 min | 640 min |

@@ -65,7 +65,7 @@ It is one of the best Inner Torso clothing which can spawn on [Interloper](./Int
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Hockey Jersey](./Hockey%20Jersey.md) |
+| [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Hockey Jersey](./Hockey%20Jersey.md) |
 
 ## Update history
 

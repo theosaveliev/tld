@@ -53,7 +53,7 @@ Once constructed, a snow shelter will degrade from 100% to 0% condition over rou
 
 **Requirements**
 
-**Facility:** \[\[File:Anywhere icon.png
+**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
 
 **Item:** [Stick](./Stick.md)
 

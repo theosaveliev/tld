@@ -376,23 +376,23 @@ Hunting a Cougar is one of the most dangerous activities in _The Long Dark_, and
 
 The chart below shows how damage is calculate when injuring a Cougar.
 
-| Weapon | Damage Multiplier |  |  |  |  |  |
+| Weapon | Weapon | Damage Multiplier | Damage Multiplier | Damage Multiplier | Damage Multiplier | Damage Multiplier |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
 | ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 1x | 0.5x | 0.75x | 0.5x | 0.25x |
-| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) |  |  |  |  |  |
-| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) |  |  |  |  |  |
+| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 1x | 0.5x | 0.75x | 0.5x | 0.25x |
+| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 1x | 0.5x | 0.75x | 0.5x | 0.25x |
 | ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 0.6x | 0.35x | 0.35x | 0.2x | 0.2x |
 
 ### Critical Hits
 
 Critical hits cause the animal to instantly die after being hit by a shot. The following table contains the critical hit chances based on the body part that was shot on the animal.
 
-| Weapon | Critical Hit Chance |  |  |  |  |  |
+| Weapon | Weapon | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
 | ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 10% | 5% | 5% | 0% | 0% |
-| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) |  |  |  |  |  |
+| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 10% | 5% | 5% | 0% | 0% |
 | ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 5% | 2% | 2% | 0% | 0% |
 | ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 0% | 0% | 0% | 0% | 0% |
 

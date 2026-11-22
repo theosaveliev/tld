@@ -9,6 +9,28 @@
 - [Trivia](#trivia)
 - [Gallery](#gallery)
 
+**The Best Defense**
+
+![Missions story ep2 The Best Defense](../assets/Missions_story_ep2_The_Best_Defense.png)
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
+
+**Previous:** [The Wounded Trapper](./The%20Wounded%20Trapper.md)
+
+**Current:** The Best Defense
+
+**Next:** [Signal to Noise](./Signal%20to%20Noise.md)
+
+**Region:** [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md)<br>[Broken Railroad](./Broken%20Railroad.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)<br>[Methuselah](./Methuselah.md)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+
+> “**A man-killing bear is on the prowl, risking Mackenzie's mission to find Astrid. But an old Voyageur legend might hold the answer to overcoming the massive predator.**”
+>
+> — In-game description
+
 **The Best Defense** is the second mission in [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) of the [story](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) must obtain the hunting spear mentioned in a legend about the demon bear, repair it, and return to Jeremiah.
 
 ## Objectives
@@ -18,6 +40,11 @@
 - Get back to [Jeremiah](./Jeremiah.md).
 
 ## Walkthrough
+
+| Mission details | Mission details |
+| --- | --- |
+| Start location | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |
+| Significant locations | [Maintenance Yard](./Maintenance%20Yard.md) / [Hunting Lodge](./Hunting%20Lodge.md) |
 
 The mission starts at the Trapper's Homestead. Jeremiah tells Mackenzie that he must retrieve the bear spear from the Hunting Lodge because it may be the key to killing the Demon Bear.
 
@@ -37,4 +64,4 @@ After repairing the spear, return to the railroad, and follow the tracks back th
 
 ## Gallery
 
-Methuselah broken railroad.jpg|Methuselah's camp in Broken Railroad
+![Methuselah's camp in Broken Railroad](../assets/Methuselah_broken_railroad.jpg)

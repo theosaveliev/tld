@@ -31,7 +31,7 @@ Backup existing files
 
 Install game version 2.29
 
-1. In your default browser, type steam://nav/console into the address bar. This will open a Console tab in your Steam client.
+1. In your default browser, type [steam://nav/console](steam://nav/console) into the address bar. This will open a Console tab in your Steam client.
 2. Enter the following commands into the Console one at a time, waiting for each to complete before moving on. This step will download the base game and TFTFT DLC for version 2.29 (25 June 2024) of The Long Dark to your local system. This will not interfere with your current installation.
   - download\_depot 305620 305621 2547860543836978015
   - download\_depot 305620 2091331 4364909505189144708

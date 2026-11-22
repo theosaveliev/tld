@@ -44,9 +44,8 @@ Note that despite being considered "outside" in terms of [Decay](./Decay.md), le
 
 The following may spawn inside of the hut:
 
-| Column 1 | Column 2 |
 | --- | --- |
-| - Firewood / - [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) / - [Mountaineering Rope](./Mountaineering%20Rope.md) / - [Research Books](./Skills.md) / - 3x [Flare Shell](./Flare%20Shell.md) / - Assorted [food and drinks](./Food%20And%20Drink.md) / - [Magnifying Lens](./Magnifying%20Lens.md) / - [Heavy Hammer](./Heavy%20Hammer.md) | - Mid quality clothes / - Materials / - [Hunting Knife](./Hunting%20Knife.md) / - [Hacksaw](./Hacksaw.md) / - [Storm Lantern](./Storm%20Lantern.md) / - 3x [Simple Arrow](./Simple%20Arrow.md) / - Matches (Interloper) |
+| - Firewood<br>- [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md)<br>- [Mountaineering Rope](./Mountaineering%20Rope.md)<br>- [Research Books](./Skills.md)<br>- 3x [Flare Shell](./Flare%20Shell.md)<br>- Assorted [food and drinks](./Food%20And%20Drink.md)<br>- [Magnifying Lens](./Magnifying%20Lens.md)<br>- [Heavy Hammer](./Heavy%20Hammer.md) | - Mid quality clothes<br>- Materials<br>- [Hunting Knife](./Hunting%20Knife.md)<br>- [Hacksaw](./Hacksaw.md)<br>- [Storm Lantern](./Storm%20Lantern.md)<br>- 3x [Simple Arrow](./Simple%20Arrow.md)<br>- Matches (Interloper) |
 
 There may be a [Fishing Tackle](./Fishing%20Tackle.md) on one of the boats near the lake.
 

@@ -396,7 +396,7 @@ Complete all six Survival School objectives across Episodes One and Two.
 
 [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) &amp; [2](./Episode%202%20-%20Luminance%20Fugue.md)
 
-![Freight Train of Hate &amp; Hunger icon](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png)<br>_Freight-Train\_of\_Hate\_&amp;\_Hunger\_icon.png_
+![Freight Train of Hate &amp; Hunger icon](../assets/Freight-Train_of_Hate_%26_Hunger_icon.png)
 
 **[Freight-Train of Hate &amp; Hunger](./Freight-Train%20of%20Hate%20%26%20Hunger.md)**
 

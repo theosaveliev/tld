@@ -74,36 +74,36 @@ Since a single piece of Fir Firewood has a fire duration of 1 hour and 30 minute
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Bear Hide Bed](./Bear%20Hide%20Bed.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Cured Gut](./Cured%20Gut.md) / - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
+| [Bear Hide Bed](./Bear%20Hide%20Bed.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Cured Gut](./Cured%20Gut.md)<br>- 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)<br>- 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
 | [Coffee Table](./Coffee%20Table.md) | None | - 6 × [Fir Firewood](./Fir%20Firewood.md) |
-| [Decorative Art](./Decorative%20Art.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Cedar Firewood](./Cedar%20Firewood.md) / - 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| [Decorative Art (2)](./Decorative%20Art%20%282%29.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Cedar Firewood](./Cedar%20Firewood.md) / - 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| [Display Shelf](./Display%20Shelf.md) | None | - 12 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Hockey Jersey](./Hockey%20Jersey.md) |
-| [Framed Photo](./Framed%20Photo.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Camera](./Camera.md) |
-| [Hide Chair](./Hide%20Chair.md) | None | - 8 × [Fir Firewood](./Fir%20Firewood.md) / - 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 8 × [Ptarmigan Down](./Ptarmigan%20Down.md) / - 3 × [Cured Gut](./Cured%20Gut.md) |
-| [Hide Couch](./Hide%20Couch.md) | None | - 15 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) / - 5 × [Cured Gut](./Cured%20Gut.md) |
-| [Meat Curing Box](./Meat%20Curing%20Box.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md) / - 8.00 kg × [Salt](./Salt.md) |
-| [Mounted Burbot](./Mounted%20Burbot.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Burbot (Raw)](./Burbot%20%28Raw%29.md) |
-| [Mounted Coho Salmon](./Mounted%20Coho%20Salmon.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) |
-| [Mounted Goldeye](./Mounted%20Goldeye.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) |
-| [Mounted Lake Whitefish](./Mounted%20Lake%20Whitefish.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) |
-| [Mounted Rainbow Trout](./Mounted%20Rainbow%20Trout.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) |
-| [Mounted Red Irish Lord](./Mounted%20Red%20Irish%20Lord.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) |
-| [Mounted Rockfish](./Mounted%20Rockfish.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) |
-| [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) |
-| [Quilted Bed](./Quilted%20Bed.md) | None | - 12 × [Fir Firewood](./Fir%20Firewood.md) / - 10 × [Cloth](./Cloth.md) / - 6 × [Cured Gut](./Cured%20Gut.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
+| [Decorative Art](./Decorative%20Art.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Cedar Firewood](./Cedar%20Firewood.md)<br>- 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Decorative Art (2)](./Decorative%20Art%20%282%29.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Cedar Firewood](./Cedar%20Firewood.md)<br>- 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Display Shelf](./Display%20Shelf.md) | None | - 12 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Hockey Jersey](./Hockey%20Jersey.md) |
+| [Framed Photo](./Framed%20Photo.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Camera](./Camera.md) |
+| [Hide Chair](./Hide%20Chair.md) | None | - 8 × [Fir Firewood](./Fir%20Firewood.md)<br>- 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 8 × [Ptarmigan Down](./Ptarmigan%20Down.md)<br>- 3 × [Cured Gut](./Cured%20Gut.md) |
+| [Hide Couch](./Hide%20Couch.md) | None | - 15 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 16 × [Ptarmigan Down](./Ptarmigan%20Down.md)<br>- 5 × [Cured Gut](./Cured%20Gut.md) |
+| [Meat Curing Box](./Meat%20Curing%20Box.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md)<br>- 8.00 kg × [Salt](./Salt.md) |
+| [Mounted Burbot](./Mounted%20Burbot.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Burbot (Raw)](./Burbot%20%28Raw%29.md) |
+| [Mounted Coho Salmon](./Mounted%20Coho%20Salmon.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) |
+| [Mounted Goldeye](./Mounted%20Goldeye.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Goldeye (Raw)](./Goldeye%20%28Raw%29.md) |
+| [Mounted Lake Whitefish](./Mounted%20Lake%20Whitefish.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Lake Whitefish (Raw)](./Lake%20Whitefish%20%28Raw%29.md) |
+| [Mounted Rainbow Trout](./Mounted%20Rainbow%20Trout.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) |
+| [Mounted Red Irish Lord](./Mounted%20Red%20Irish%20Lord.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Red Irish Lord (Raw)](./Red%20Irish%20Lord%20%28Raw%29.md) |
+| [Mounted Rockfish](./Mounted%20Rockfish.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) |
+| [Mounted Smallmouth Bass](./Mounted%20Smallmouth%20Bass.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Smallmouth Bass (Raw)](./Smallmouth%20Bass%20%28Raw%29.md) |
+| [Quilted Bed](./Quilted%20Bed.md) | None | - 12 × [Fir Firewood](./Fir%20Firewood.md)<br>- 10 × [Cloth](./Cloth.md)<br>- 6 × [Cured Gut](./Cured%20Gut.md)<br>- 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
 | [Round Table](./Round%20Table.md) | None | - 12 × [Fir Firewood](./Fir%20Firewood.md) |
-| [Rustic Closet](./Rustic%20Closet.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) / - 3 × [Reclaimed Wood](./Reclaimed%20Wood.md) / - 2 × [Scrap Metal](./Scrap%20Metal.md) |
-| [Rustic Cupboard](./Rustic%20Cupboard.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) / - 2 × [Scrap Metal](./Scrap%20Metal.md) |
-| [Rustic Display Shelf](./Rustic%20Display%20Shelf.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md) / - 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Rustic Closet](./Rustic%20Closet.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md)<br>- 3 × [Reclaimed Wood](./Reclaimed%20Wood.md)<br>- 2 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Rustic Cupboard](./Rustic%20Cupboard.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Reclaimed Wood](./Reclaimed%20Wood.md)<br>- 2 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Rustic Display Shelf](./Rustic%20Display%20Shelf.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md)<br>- 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
 | [Rustic Stool](./Rustic%20Stool.md) | None | - 4 × [Fir Firewood](./Fir%20Firewood.md) |
 | [Rustic Storage Trunk](./Rustic%20Storage%20Trunk.md) | None | - 9 × [Fir Firewood](./Fir%20Firewood.md) |
 | [Rustic Table](./Rustic%20Table.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md) |
 | [Square Table](./Square%20Table.md) | None | - 8 × [Fir Firewood](./Fir%20Firewood.md) |
-| [Tall Rustic Closet](./Tall%20Rustic%20Closet.md) | None | - 24 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) / - 2 × [Scrap Metal](./Scrap%20Metal.md) |
-| [Wide Display Shelf](./Wide%20Display%20Shelf.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| [Wide Dresser](./Wide%20Dresser.md) | None | - 16 × [Fir Firewood](./Fir%20Firewood.md) / - 6 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Tall Rustic Closet](./Tall%20Rustic%20Closet.md) | None | - 24 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Reclaimed Wood](./Reclaimed%20Wood.md)<br>- 2 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Wide Display Shelf](./Wide%20Display%20Shelf.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Wide Dresser](./Wide%20Dresser.md) | None | - 16 × [Fir Firewood](./Fir%20Firewood.md)<br>- 6 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
 
 ## Update history
 

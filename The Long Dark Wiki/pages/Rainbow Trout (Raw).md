@@ -80,10 +80,10 @@ Cooking trout improves the [cooking skill](./Skills.md#Cooking). Using a [Cookin
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Coastal Fishcakes](./Coastal%20Fishcakes.md) | None | - 0.50 Kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) / - 2 × [Potato](./Potato.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md) |
-| [Mounted Rainbow Trout](./Mounted%20Rainbow%20Trout.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) |
+| [Coastal Fishcakes](./Coastal%20Fishcakes.md) | None | - 0.50 Kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md)<br>- 2 × [Potato](./Potato.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+| [Mounted Rainbow Trout](./Mounted%20Rainbow%20Trout.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) |
 | [Rainbow Trout (Cooked)](./Rainbow%20Trout%20%28Cooked%29.md) | None | - 1 × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) |
-| [Trout Stew](./Trout%20Stew.md) | None | - 0.50 kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) / - 0.20 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Trout Stew](./Trout%20Stew.md) | None | - 0.50 kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md)<br>- 0.20 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
 ## Gallery
 

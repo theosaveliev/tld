@@ -85,7 +85,7 @@ The Curator's Rifle will spawn a single time per world in various states of repa
 - The rifle's furniture appears to be made out of now old and faded purpleheart wood and has a golden action with deer engravings on the sides, its premium construction materials give it a striking beauty.
 - A small detail is that the 5-round stripper-clips used to load the gun are also made of the distinctive gold plating that matches the gold engravings on the rifle.
 - The rifles small upside and lack of downside makes it unique compared to the other variants which usually have a downside to compensate for a large bonus.
-- The Curator's Rifle's model originally appeared as a [second hunting rifle](./Hunting%20Lodge%20Rifle.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) that could be found during the quest You Fix My Rifle?. This rifle model was later removed from the [Wintermute](./Wintermute.md) story mode following the Redux update.
+- The Curator's Rifle's model originally appeared as a [second hunting rifle](./Hunting%20Lodge%20Rifle.md) in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) that could be found during the quest [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md). This rifle model was later removed from the [Wintermute](./Wintermute.md) story mode following the Redux update.
 
 ## Gallery
 

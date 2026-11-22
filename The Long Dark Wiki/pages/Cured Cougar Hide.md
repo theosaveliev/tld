@@ -36,7 +36,7 @@ A **Cured Cougar Hide** is a [Material](./Materials.md) that can be crafted into
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) | None | - 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Cougar Hide Wrap](./Cougar%20Hide%20Wrap.md) | None | - 1 × [Cured Cougar Hide](./Cured%20Cougar%20Hide.md)<br>- 2 × [Cured Gut](./Cured%20Gut.md) |
 
 ![Old Icon](../assets/Old_Cured_Cougar_Hide_icon.png)
 

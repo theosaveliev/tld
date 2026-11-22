@@ -62,11 +62,9 @@ Location: head to the [Headframe Building](./Headframe%20Building.md) to open a 
 
 ## Trivia
 
-This Tool was first introduced in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) to cut open the gate to the [Hunting Lodge](./Hunting%20Lodge.md) in [Broken Railroad](./Broken%20Railroad.md) in the mission You Fix My Rifle?, but have been removed since the Redux version was released.
+This Tool was first introduced in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) to cut open the gate to the [Hunting Lodge](./Hunting%20Lodge.md) in [Broken Railroad](./Broken%20Railroad.md) in the mission [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md), but have been removed since the Redux version was released.
 
-\[Missing image: Bolt\_cutters.png\]
-
-_Predux model_
+![Predux model](../assets/Bolt_Cutters_icon.png)
 
 ![The Bolt Cutters in Episode 2 with the old Milling Machine](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png)
 

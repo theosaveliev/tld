@@ -48,7 +48,7 @@ This content requires the [Tales from the Far Territory](./Tales%20from%20the%20
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Wires](./Wires.md) |
+| [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Crow Feather](./Crow%20Feather.md)<br>- 1 × [Wires](./Wires.md) |
 
 ## Update history
 

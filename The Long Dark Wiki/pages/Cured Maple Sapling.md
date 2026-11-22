@@ -42,8 +42,8 @@ Cured Maple Saplings are occasionally found when [Beachcombing](./Beachcombing.m
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Survival Bow](./Survival%20Bow.md) | None | - 1 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
-| [Travois](./Travois.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 2 × [Cured Gut](./Cured%20Gut.md) / - 4 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
+| [Survival Bow](./Survival%20Bow.md) | None | - 1 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md)<br>- 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Travois](./Travois.md) | None | - 1 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 2 × [Cured Gut](./Cured%20Gut.md)<br>- 4 × [Cured Maple Sapling](./Cured%20Maple%20Sapling.md) |
 
 ## Gallery
 

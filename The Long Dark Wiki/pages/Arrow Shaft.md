@@ -66,7 +66,7 @@ Arrow shafts are primarily used in the making of arrows. Arrow Shafts can be cut
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Simple Arrow](./Simple%20Arrow.md) | None | - 1 × [Arrowhead](./Arrowhead.md) / - 1 × [Arrow Shaft](./Arrow%20Shaft.md) / - 3 × [Crow Feather](./Crow%20Feather.md) |
+| [Simple Arrow](./Simple%20Arrow.md) | None | - 1 × [Arrowhead](./Arrowhead.md)<br>- 1 × [Arrow Shaft](./Arrow%20Shaft.md)<br>- 3 × [Crow Feather](./Crow%20Feather.md) |
 
 ## Trivia
 

@@ -213,7 +213,7 @@ Some items, locations, and even events found within the Wintermute Story mode ar
 
 ## Trivia
 
-- Although Survival Mode is intended to be a permadeath experience, some players back up game saves periodically so that if they die, they can load the backed-up save and continue, even with Cheat Death enabled. This practice is called "save scumming."
+- Although Survival Mode is intended to be a permadeath experience, some players back up game saves periodically so that if they die, they can load the backed-up save and continue, even with Cheat Death enabled. This practice is called "[save scumming](wikt:scumming)."
 
 ## Gallery
 

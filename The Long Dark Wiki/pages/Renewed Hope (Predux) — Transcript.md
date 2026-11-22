@@ -145,4 +145,4 @@ Mathis: "Don't worry, pilot. You'll be with her soon."
 
 _The man strikes Mackenzie with the back of the axe, and the episode ends._
 
-This is the end of the Predux timeline.\[Renewed Hope (Predux)\]
+This is the end of the Predux timeline.

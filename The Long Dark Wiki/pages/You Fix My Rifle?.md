@@ -17,6 +17,28 @@
 - [Plot Points and Gameplay Changes](#plot-points-and-gameplay-changes)
 - [Game History](#game-history)
 
+**You Fix My Rifle?**
+
+![The Long Dark episode two milling machine for rifle](../assets/The_Long_Dark_-_episode_two_milling_machine_for_rifle.png)
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
+
+**Previous:** [Risk of Infection](./Risk%20of%20Infection.md)
+
+**Current:** You Fix My Rifle?
+
+**Next:** [Survival School (Predux)](./Survival%20School%20%28Predux%29.md)
+
+**Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md) [Forlorn Muskeg](./Forlorn%20Muskeg.md)<br>[Broken Railroad](./Broken%20Railroad.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)
+
+**Template:spoiler**
+
+"_Jeremiah is convinced the Old Bear will be back, but his rifle broke in the first encounter, leaving you both defenseless. Do whatever you need to do to repair his rifle._"
+
+— In-game description
+
 **You Fix My Rifle?** was the second mission of the Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 This episode has since been replaced by [The Best Defense](./The%20Best%20Defense.md).
@@ -30,6 +52,11 @@ This episode has since been replaced by [The Best Defense](./The%20Best%20Defens
 - Get back to Jeremiah.
 
 ## Walkthrough
+
+| Mission details | Mission details |
+| --- | --- |
+| Mission length | Long |
+| Start location | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |
 
 ### Repair the rifle
 
@@ -88,7 +115,7 @@ From this point on, Jeremiah's Trust can be gained by giving the following items
 
 ## Transcript
 
-You Fix My Rifle?/Transcript
+[You Fix My Rifle?/Transcript](./You%20Fix%20My%20Rifle%3F.md)
 
 ## Differences from Redux Episode 2
 
@@ -122,4 +149,7 @@ Several plot points and locations have been replaced/altered since the Redux re-
 
 ## Game History
 
-Category:Episode 2
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+  - Added to game.
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+  - Removed from the game as part of the Redux edition.

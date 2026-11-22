@@ -222,4 +222,4 @@ Research Book
 | --- | --- | --- | --- |
 | ![Jeremiah's Knife icon](../assets/Jeremiah%27s_Knife_icon.png) | [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) | 0.50 kg<br>_(1.1 lb)_ | - Only found in Wintermute Predux Episode 2 after completing [Survival School (Predux)](./Survival%20School%20%28Predux%29.md)<br>- Behaves as a reskinned Hunting Knife<br>- Currently inaccessible but still in the game files |
 | ![Brand icon](../assets/Brand_icon.png) | [Brand](./Brand.md) | 0.30 kg<br>_(0.66 lb)_ | - Removed from the Alpha versions of _[The Long Dark](./The%20Long%20Dark.md)_ and replaced by the [Torch](./Torch.md)<br>- Can be Brandished to scare predator Wildlife |
-| ![Hunting Lodge Rifle icon](../assets/Hunting_Lodge_Rifle_icon.png) | [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) | 4.00 kg<br>_(8.8 lb)_ | - Found in the Predux Episode 2 Mission You Fix My Rifle? |
+| ![Hunting Lodge Rifle icon](../assets/Hunting_Lodge_Rifle_icon.png) | [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) | 4.00 kg<br>_(8.8 lb)_ | - Found in the Predux Episode 2 Mission [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md) |

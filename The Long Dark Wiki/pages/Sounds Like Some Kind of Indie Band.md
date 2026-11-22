@@ -36,7 +36,7 @@ This is a side mission achievement achieved after finding all [Forest Talker](./
 
 ## Trivia
 
-The achievement's name is a reference to the quote from [Will Mackenzie](./Will%20Mackenzie.md) in You Fix My Rifle?: "Forest Talkers? Sounds like some kind of indie band. Maybe this guy was one of them. I guess I should check out this Lodge."
+The achievement's name is a reference to the quote from [Will Mackenzie](./Will%20Mackenzie.md) in [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md): "Forest Talkers? Sounds like some kind of indie band. Maybe this guy was one of them. I guess I should check out this Lodge."
 
 ## Game History
 

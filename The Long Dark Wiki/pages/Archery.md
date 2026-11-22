@@ -109,7 +109,7 @@ Critical hits are random occurrences, but are more likely in an animal's designa
 
 Direct hits to an animal with an arrow that are not a critical hit will cause a bleeding wound. Animals will bleed out according to which area they were shot in. Multiple shots to the same area will not make the animal bleed out any faster. However, shooting an animal in an area that bleeds faster than a previous wound it has already received will cause the timer to reset and the amount of time to bleed out changes to the amount of time required for the new wound. This makes it beneficial to just wait in most cases, especially when shooting again could provoke the animal to attack, or flee meaning the animal would have to be tracked down again. Also, waiting via sleeping, passing the time, reading, etc. counts as time towards bleeding out, but the animal will move at an accelerated speed so will wander just as far as if you had waited in real-time.
 
-|  | Hit zone |  |  |  |
+|  | Hit zone | Hit zone | Hit zone | Hit zone |
 | --- | --- | --- | --- | --- |
 | Animal | Head | Chest | Hind | Foot |
 | [Ptarmigan](./Ptarmigan.md) | Instant | Instant | Instant | Instant |
@@ -135,9 +135,9 @@ Once players have reached a new skill level, they unlock the effects described i
 | Level | Skill points needed | Points to next level | Effects | Flavor text |
 | --- | --- | --- | --- | --- |
 | 1 | 0 | 15 | - Basic archery skill | You are new to archery and have no special skills or knowledge. Although you can successfully fire an arrow from the bow, it feels awkward in your untrained hands. |
-| 2 | 15 | 25 | - Bow sway reduced by 25% / - Arrow damage increased by 10% | As your use of the bow increases it feels less awkward in your hands. Your aim is a little more steady and your shots deal more damage. |
-| 3 | 40 | 35 | - Bow sway reduced by 50% / - Arrow damage increased by 10% / - Critical Hit chance increased by 15% | You're turning into a decent archer. Your aim is increasingly more precise and with this you have a greater chance of inflicting critical damage. |
-| 4 | 75 | 50 | - Bow sway reduced by 75% / - Arrow damage increased by 10% / - Critical Hit chance increased by 25% / - Bleed Out time reduced by 25% / - Per-use condition loss reduced by 50% | You have become a skilled archer. You have a steady, accurate aim and a powerful shot. Your improved efficiency helps keep your bow in good condition for longer. |
-| 5 | 125 | Max level | - Can fire Survival Bow when crouched / - Bow sway reduced by 75% / - Arrow damage increased by 25% / - Critical Hit chance increased by 50% / - Bleed Out time reduced by 50% / - Per-use condition loss reduced by 50% | You are one with your bow - it feels like an extension of your body and you are able to use your bow while crouched. Your eagle-eyed aim is deadly accurate. You are the hunter. |
+| 2 | 15 | 25 | - Bow sway reduced by 25%<br>- Arrow damage increased by 10% | As your use of the bow increases it feels less awkward in your hands. Your aim is a little more steady and your shots deal more damage. |
+| 3 | 40 | 35 | - Bow sway reduced by 50%<br>- Arrow damage increased by 10%<br>- Critical Hit chance increased by 15% | You're turning into a decent archer. Your aim is increasingly more precise and with this you have a greater chance of inflicting critical damage. |
+| 4 | 75 | 50 | - Bow sway reduced by 75%<br>- Arrow damage increased by 10%<br>- Critical Hit chance increased by 25%<br>- Bleed Out time reduced by 25%<br>- Per-use condition loss reduced by 50% | You have become a skilled archer. You have a steady, accurate aim and a powerful shot. Your improved efficiency helps keep your bow in good condition for longer. |
+| 5 | 125 | Max level | - Can fire Survival Bow when crouched<br>- Bow sway reduced by 75%<br>- Arrow damage increased by 25%<br>- Critical Hit chance increased by 50%<br>- Bleed Out time reduced by 50%<br>- Per-use condition loss reduced by 50% | You are one with your bow - it feels like an extension of your body and you are able to use your bow while crouched. Your eagle-eyed aim is deadly accurate. You are the hunter. |
 
 &lt;/table-progress-tracking&gt;

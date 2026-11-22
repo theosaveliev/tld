@@ -53,7 +53,7 @@ Acorn Grounds can be used to make [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Cof
 
 **Requirements**
 
-**Facility:** \[\[File:Anywhere icon.png
+**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
 
 **Item:** [Acorns (Cooked)](./Acorns%20%28Cooked%29.md)
 
@@ -67,7 +67,7 @@ Acorn Grounds can be used to make [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Cof
 
 **Requirements**
 
-**Facility:** \[\[File:Anywhere icon.png
+**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
 
 **Item:** [Acorns (Cooked - Large Portion)](./Acorns%20%28Cooked%20-%20Large%20Portion%29.md)
 
@@ -77,12 +77,12 @@ Acorn Grounds can be used to make [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Cof
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Acorn Bannock](./Acorn%20Bannock.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
-| [Acorn Pancakes](./Acorn%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 0.05 Kg × [Maple Syrup](./Maple%20Syrup.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
-| [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
-| [Lily's Pancakes](./Lily%27s%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) / - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
-| [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 4 × [Reishi Mushroom](./Reishi%20Mushroom.md) / - 2 × [Burdock Root](./Burdock%20Root.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md) |
-| [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) / - 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) / - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md) |
+| [Acorn Bannock](./Acorn%20Bannock.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
+| [Acorn Pancakes](./Acorn%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.05 Kg × [Maple Syrup](./Maple%20Syrup.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
+| [Cup of Acorn Coffee](./Cup%20of%20Acorn%20Coffee.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Lily's Pancakes](./Lily%27s%20Pancakes.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.05 kg × [Maple Syrup](./Maple%20Syrup.md)<br>- 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md) |
+| [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 4 × [Reishi Mushroom](./Reishi%20Mushroom.md)<br>- 2 × [Burdock Root](./Burdock%20Root.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+| [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)<br>- 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)<br>- 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
 
 ## Update history
 

@@ -181,7 +181,6 @@ The [Woodwright's Bow](./Woodwright%27s%20Bow.md), a variant on the [Survival Bo
 
 In addition to the many caves, the region has a number of named locations:
 
-| Column 1 | Column 2 |
 | --- | --- |
 | - [Banner Falls](./Banner%20Falls.md)<br>- [Bunker Gamma](./Bunker%20Gamma.md)<br>- [Cloudtop Falls](./Cloudtop%20Falls.md)<br>- [Hushed River](./Hushed%20River.md)<br>- [Lake Cave](./Lake%20Cave.md)<br>- [Landslide](./Landslide%20%28Hushed%20River%20Valley%29.md)<br>- [Little Bear and Cub Falls](./Little%20Bear%20and%20Cub%20Falls.md)<br>- [Lonely Cave](./Lonely%20Cave.md)<br>- [Long Shot Falls](./Long%20Shot%20Falls.md)<br>- [Mammoth Falls](./Mammoth%20Falls.md)<br>- [Many Falls Vista](./Many%20Falls%20Vista.md)<br>- [Monolith Lake](./Monolith%20Lake.md)<br>- [Moose Overlook](./Moose%20Overlook.md) | - [Mysterious Signal Fire](./Mysterious%20Signal%20Fire.md) can spawn in 2 different places<br>- [Offset Falls](./Offset%20Falls.md)<br>- [Peak Cave](./Peak%20Cave.md)<br>- [Pensive Vista](./Pensive%20Vista.md)<br>- [Quarreling Falls](./Quarrelling%20Falls.md)<br>- [Reclusive Falls](./Reclusive%20Falls.md)<br>- [Stairsteps Lake](./Stairsteps%20Lake.md)<br>- To Cave System (Transition to [Mountain Town](./Mountain%20Town.md))<br>- [Twin Sisters Falls](./Twin%20Sisters%20Falls.md)<br>- [Valley Cave](./Valley%20Cave.md)<br>- [Valley View Point](./Valley%20View%20Point.md)<br>- [Watchful Falls](./Watchful%20Falls.md) |
 

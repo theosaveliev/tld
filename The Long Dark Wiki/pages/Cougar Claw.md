@@ -44,7 +44,7 @@ Cougar Claws are only acquired after killing a very rare but dangerous [Cougar](
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | None | - 1 × [Cougar Claw](./Cougar%20Claw.md) / - 3 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Cured Leather](./Cured%20Leather.md) |
+| [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | None | - 1 × [Cougar Claw](./Cougar%20Claw.md)<br>- 3 × [Scrap Metal](./Scrap%20Metal.md)<br>- 1 × [Cured Leather](./Cured%20Leather.md) |
 
 ## Update history
 

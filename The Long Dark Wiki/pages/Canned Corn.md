@@ -109,7 +109,7 @@ Like other canned foods, Canned Corn may be opened with a [Can Opener](./Can%20O
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md) / - 0.40 kg × [Carrot](./Carrot.md) / - 2 × [Potato](./Potato.md) / - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) / - 0.40 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md)<br>- 0.40 kg × [Carrot](./Carrot.md)<br>- 2 × [Potato](./Potato.md)<br>- 2 × [Reishi Mushroom](./Reishi%20Mushroom.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
 ## Trivia
 

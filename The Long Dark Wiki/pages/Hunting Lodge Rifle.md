@@ -15,7 +15,7 @@
 | --- | --- |
 |  | \[Missing image: Hunting\_Rifle\_icon\_(story).png\] / _Hunting\_Rifle\_icon\_(story).png_ |
 | Release | [1 August 2017](./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#1.00) |
-| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - You Fix My Rifle? |
+| Wintermute | [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) - [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md) |
 | **Properties** |  |
 | Item type | [Tools](./Tools.md)\|- |
 | Stackable | No |

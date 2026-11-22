@@ -52,9 +52,8 @@ A continuation of the coastline from the previously numbered region.
 
 There are 6 named locations within Track Section 1, including:
 
-| Column 1 | Column 2 |
 | --- | --- |
-| - [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (East) / - [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (West) / - [Bridge](./Bridge.md) / - [Huts](./Huts.md) | - To Port Remnant (Region Transition to [Port Remnant](./Port%20Remnant.md)) / - To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)) |
+| - [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (East)<br>- [Railyard (Track Section 1)](./Railyard%20%28Track%20Section%201%29.md) (West)<br>- [Bridge](./Bridge.md)<br>- [Huts](./Huts.md) | - To Port Remnant (Region Transition to [Port Remnant](./Port%20Remnant.md))<br>- To Anna Island Track Section 2 (Region Transition to [Anna Island -- Track Section 2](./Anna%20Island%20--%20Track%20Section%202.md)) |
 
 
 

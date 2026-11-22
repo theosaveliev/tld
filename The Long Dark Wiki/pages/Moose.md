@@ -131,11 +131,11 @@ Unlike other [Wildlife](./Wildlife.md), Moose do not suffer from [Blood Loss](./
 
 Critical hits cause the animal to instantly die after being hit by a shot. The following table contains the critical hit chance based on the location that was shot on the animal.
 
-| Weapon | Critical Hit Chance |  |  |  |  |  |
+| Weapon | Weapon | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
 | ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 25% | 20% | 10% | 0% | 0% |
-| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) |  |  |  |  |  |
+| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 25% | 20% | 10% | 0% | 0% |
 | ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 10% | 10% | 3% | 0% | 0% |
 | ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 0% | 0% | 0% | 0% | 0% |
 

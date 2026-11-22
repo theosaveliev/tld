@@ -30,7 +30,7 @@
 
 **Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)
 
-This is the transcript for Chapter 2 You Fix My Rifle? for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
+This is the transcript for Chapter 2 [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md) for Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md).
 
 ## Find the Railway [Maintenance Yard](./Maintenance%20Yard.md) and get into the repair shed.
 

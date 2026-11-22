@@ -120,5 +120,5 @@
 
 | ![Materials2](../assets/Materials2.png) | Item | Weight | Comment |
 | --- | --- | --- | --- |
-| ![Workbench Vice icon](../assets/Workbench_Vice_icon.png) | [Workbench Vice](./Workbench%20Vice.md) | 2.00 kg<br>_(4.4 lb)_ | Used to construct a ![Workbench icon](../assets/Workbench_icon.png) Workbench |
+| ![Workbench Vice icon](../assets/Workbench_Vice_icon.png) | [Workbench Vice](./Workbench%20Vice.md) | 2.00 kg<br>_(4.4 lb)_ | Used to construct a ![Workbench icon](../assets/Workbench_icon.png) [Workbench](./Work%20Bench.md) |
 | ![Fresh Leather icon](../assets/Fresh_Leather_icon.png) | [Fresh Leather](./Fresh%20Leather.md) | 0.10 kg<br>_(0.22 lb)_ | Cures into [Cured Leather](./Cured%20Leather.md) in 5 days. Very rare to find. |

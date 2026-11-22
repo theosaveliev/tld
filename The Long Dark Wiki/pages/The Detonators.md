@@ -2,6 +2,24 @@
 
 **Categories:** Episode 4 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Detonators)
 
+**The Detonators**
+
+![The Detonators](../assets/The_Detonators.png)
+
+Episode
+
+**Missions**
+
+**Previous:** [The Power Plant](./The%20Power%20Plant.md)
+
+**Current:** The Detonators
+
+**Next:** [Donner\_(mission)](./Donner%20%28mission%29.md)
+
+**Region:** [Blackrock Region](./Blackrock.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Mathis](./Mathis.md)<br>[Vachon](./Vachon.md)<br>[Heller](./Heller.md)<br>[Jace](./Jace.md)
+
 **The Detonators** is the fourth mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of [Wintermute](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) offers to help [Mathis](./Mathis.md) find [Detonators](./Detonators.md) in the old mine, in order to hopefully appease Mathis sufficiently that he avoids killing [Franklin](./Franklin.md).
 
 ## Objectives
@@ -14,6 +32,12 @@
 - Return to Blackrock.
 
 ## Walkthrough
+
+| Mission details | Mission details |
+| --- | --- |
+| Start location | Blackrock Federal Penitentiary |
+| Significant locations | The Mine |
+| Items recommended | [rifle](./Hunting%20Rifle.md), [revolver](./Revolver.md), [noisemaker](./Noisemaker.md), [Go! Energy Drink](./Go!%20Energy%20Drink.md), [Storm Lantern](./Storm%20Lantern.md) |
 
 The mission starts back at Blackrock Prison. Gather all the supplies left behind in the guardroom and head down the road. From there, take the first left and follow the signs leading to the mine. Along the way, there are good opportunities to do some of the side quests, such as [Blackrock Rumours](./Blackrock%20Rumours.md) at [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md) and [No Road Cave](./No%20Road%20Cave.md), and searching for the various supply caches in [Convict Caches](./Convict%20Caches.md).
 
@@ -30,7 +54,3 @@ Once up to Level 2, get the Detonators by climbing onto some wooden planks laid 
 When the character re-awakens, the path to the old entrance is blocked and the [aurora](./Aurora.md) is active. Head up the wooden planks to another entrance, being careful not to step on live wires. From here, it's possible to sleep in the mine entrance and make the walk back to [Blackrock Prison](./Blackrock%20Prison.md) in the morning, or to proceed at night. The route back to Blackrock requires three rope climbs, and so is best done when well rested.
 
 Shortly before the prison, Mackenzie will make a comment when he sees several corpses lying on the ice of the river. These corpses are just decorative and can't be looted. Once in the yard, it may be wise to leave a [Storm Lantern](./Storm%20Lantern.md) in the entrance to the [Steam Tunnels](./Steam%20Tunnels.md), though this is not necessary. The mission is complete when Mackenzie arrives at the prison door.
-
-**Note: make sure all side quests you intend to complete are finished before you return to prison, as you will be unable to do them later.**
-
-Category:Episode 4

@@ -57,7 +57,7 @@ Like all other plants, Cat Tails do not regrow once harvested.
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Porter's Soup](./Porter%27s%20Soup.md) | None | - 2 × [Carrot](./Carrot.md) / - 6 × [Cat Tail Stalk](./Cat%20Tail%20Stalk.md) / - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) / - 0.40 L × [Broth](./Broth.md) / - 0.01 kg × [Salt](./Salt.md) |
+| [Porter's Soup](./Porter%27s%20Soup.md) | None | - 2 × [Carrot](./Carrot.md)<br>- 6 × [Cat Tail Stalk](./Cat%20Tail%20Stalk.md)<br>- 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.01 kg × [Salt](./Salt.md) |
 
 ## Gallery
 

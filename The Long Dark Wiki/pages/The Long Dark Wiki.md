@@ -68,7 +68,7 @@ _Designing\_the\_Powerful\_Loneliness\_of\_The\_Long\_Dark_
 
 _The\_Long\_Dark\_--\_Episode\_Four-\_FURY,\_THEN\_SILENCE\_--\_Launch\_Trailer_
 
-\[Missing image: The\_Long\_Dark\_--\_&amp;quot;Make\_It\_Right&amp;quot;\_--\_WINTERMUTE\_LAUNCH\_TRAILER\]
+![The Long Dark "Make It Right" WINTERMUTE LAUNCH TRAILER](../assets/The_Long_Dark_--_%22Make_It_Right%22_--_WINTERMUTE_LAUNCH_TRAILER.jpg)
 
 _The\_Long\_Dark\_--\_&amp;quot;Make\_It\_Right&amp;quot;\_--\_WINTERMUTE\_LAUNCH\_TRAILER_
 

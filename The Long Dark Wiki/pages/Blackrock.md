@@ -84,7 +84,6 @@ Blackrock features the highest density of Predator Wildlife of any region. Timbe
 
 As with most regions, Blackrock Mountain features a number of discoverable locations:
 
-| Column 1 | Column 2 |
 | --- | --- |
 | - [Bear's Bend](./Bear%27s%20Bend.md)<br>- [Blackrock Prison](./Blackrock%20Prison.md)<br>- [Blocked Bridge](./Blocked%20Bridge.md)<br>- [Bricklayer's Retreat](./Bricklayer%27s%20Retreat.md)<br>- [Cliff Cave](./Cliff%20Cave.md)<br>- [Cook's Farm](./Cook%27s%20Farm.md)<br>- [Creek Bed Cave](./Creek%20Bed%20Cave.md)<br>- [Cutty's Cave](./Cutty%27s%20Cave.md)<br>- [Fool's Corner](./Fool%27s%20Corner.md)<br>- [Forager's Remnant](./Forager%27s%20Remnant.md)<br>- [Foreman's Clearcut](./Foreman%27s%20Clearcut.md)<br>- [Grand Meadow](./Grand%20Meadow.md)<br>- [Jailer's Residence](./Jailer%27s%20Residence.md) | - [Last Prospect](./Last%20Prospect.md)<br>- [Lineworker's Hideout](./Lineworker%27s%20Hideout.md)<br>- [Mule Bridge](./Mule%20Bridge.md)<br>- [Narrow Bridge](./Narrow%20Bridge.md)<br>- [No Road Cave](./No%20Road%20Cave.md)<br>- [Old Substation](./Old%20Substation.md)<br>- [Power Plant](./Power%20Plant.md)<br>- [Steam Tunnels](./Steam%20Tunnels.md)<br>- [Wedge Cave](./Wedge%20Cave.md)<br>- [Whistling Perch](./Whistling%20Perch.md)<br>- To Cave System (Region Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md))<br>- To Keeper's Pass North (Region Transition to [Keeper's Pass North](./Keeper%27s%20Pass%20North.md)) |
 

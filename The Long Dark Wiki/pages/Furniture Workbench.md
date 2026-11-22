@@ -47,7 +47,7 @@ Any large in-progress/created Decorations made at a Furniture Workbench are depo
 
 **Requirements**
 
-**Facility:** \[\[File:Anywhere icon.png
+**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
 
 **Item:** [Cedar Firewood](./Cedar%20Firewood.md)
 

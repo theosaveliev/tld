@@ -2,6 +2,28 @@
 
 **Categories:** Episode 1 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/The_Grey_Mother)
 
+**The Grey Mother**
+
+![The Grey Mother](../assets/The_Grey_Mother.png)
+
+**Episode:** [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md)
+
+**Previous:** [The Crash](./The%20Crash.md)
+
+**Current:** The Grey Mother
+
+**Next:** [Paradise Lost](./Paradise%20Lost.md)
+
+**Region:** [Mountain Town](./Mountain%20Town.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md) [Grey Mother](./Grey%20Mother.md)<br>[Methuselah](./Methuselah.md)<br>[Hobbs](./Hobbs.md)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+
+> “**An old blind woman might be the last survivor in Milton. She might be the key to understanding what happened to Astrid.**”
+>
+> — In-game description
+
 **The Grey Mother** is the third mission of [Episode 1](./Episode%201%20-%20Do%20Not%20Go%20Gentle.md) of [Wintermute](./Wintermute.md). In this mission, [Mackenzie](./Will%20Mackenzie.md) meets [Grey Mother](./Grey%20Mother.md) and performs various tasks for her in order to coax information about Astrid's whereabouts out of the old woman, while also learning more about the Town of Milton.
 
 ## Objectives
@@ -21,6 +43,11 @@
 
 ## Walkthrough
 
+| Mission details | Mission details |
+| --- | --- |
+| Start location | [Milton House (Grey Mother's)](./Milton%20House%20%28Grey%20Mother%27s%29.md) |
+| Significant locations | [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) / [Crashed Prison Transport Bus](./Crashed%20Prison%20Transport%20Bus.md) / [Orca Gas Station](./Orca%20Gas%20Station.md) / [Paradise Meadows Farm](./Paradise%20Meadows%20Farm.md) / [Bank Manager's House](./Bank%20Manager%27s%20House.md) / [Milton Credit Union](./Milton%20Credit%20Union.md) |
+
 Upon entering the house, a cutscene will begin in which the Grey Mother character is introduced. The player can obtain additional background information about the town and its history by selecting topics to ask the Grey Mother about. At the completion of talking to Grey Mother, the player will have three tasks to complete—filling Grey Mother's firewood bin, stocking her fridge with food, and investigating the [Orca Gas Station](./Orca%20Gas%20Station.md). Scavenge the town of Milton to find the required items. The hatchet in the shed behind Milton House is useful for breaking down furniture to obtain [Reclaimed Wood](./Reclaimed%20Wood.md). 8000 calories of food must be put into the fridge in the kitchen, and 12 days worth of wood fuel must be put into the firewood bin directly beside the door on the porch. Each hour of burn time is counted as 1.1 days worth of firewood.
 
 The Orca Gas Station will be marked on the player's map. Inside the gas station, Mackenzie meets [Methuselah](./Methuselah.md).
@@ -34,7 +61,3 @@ When the player enters the farmhouse, [Hobbs](./Hobbs.md) is sitting on the benc
 The player must then go to the [Milton Credit Union](./Milton%20Credit%20Union.md) and open the safety deposit box. In order to open the vault, the player will need the vault code. First, go to the manager's office in the Credit union and open the middle drawer of the desk. Inside is a key which will open the [Bank Manager's House](./Bank%20Manager%27s%20House.md). The drawer of the nightstand in the bedroom of the Manager's House will contain a note with the vault code. Return to the Credit Union and open the vault using the code from the note. The note can be viewed by bringing up the journal. Open box #15 and take Grey Mother's Safety Deposit Box. Return to Grey Mother. This will unlock the [One Last Thing](./One%20Last%20Thing.md) side mission, and will also immediately begin the next main mission, [Paradise Lost](./Paradise%20Lost.md).
 
 ## Transcript
-
-[The Grey Mother/Transcript](./The%20Grey%20Mother%20%E2%80%94%20Transcript.md)
-
-Category:Episode 1

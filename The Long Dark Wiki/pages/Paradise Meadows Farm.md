@@ -83,7 +83,7 @@ The house offers a good amount of storage space, as well as a lot of open areas 
 
 ### **Barn**
 
-The barn is a wooden shell of a building without an actual interior. It offers poor protection from the elements (i.e., some wind protection, depending on wind direction), and it isn't entirely safe from the wildlife. The barn also has a workbench and a [fire barrel](./Fire%20Barrel.md) located conveniently close, making prolonged crafting sessions easier. There are some planks and cardboard to break down for resources, and dead body may occasionally spawn inside the barn. A [tractor](./Tractor.md) is situated near the barn.
+The barn is a wooden shell of a building without an actual interior. It offers poor protection from the elements (i.e., some wind protection, depending on wind direction), and it isn't entirely safe from the wildlife. The barn also has a [workbench](./Work%20Bench.md) and a [fire barrel](./Fire%20Barrel.md) located conveniently close, making prolonged crafting sessions easier. There are some planks and cardboard to break down for resources, and dead body may occasionally spawn inside the barn. A [tractor](./Tractor.md) is situated near the barn.
 
 ### **Additional outbuildings**
 

@@ -9,6 +9,17 @@
 - [Trivia](#trivia)
 - [Bugs](#bugs)
 
+**Donner**
+
+| Property | Details |
+| --- | --- |
+| Episode |  |
+| **Missions** |  |
+| Previous | [The Detonators](./The%20Detonators.md) |
+| Current | Donner (mission) |
+| Region | [Blackrock Region](./Blackrock.md) |
+| Characters | [Will Mackenzie](./Will%20Mackenzie.md) / [Mathis](./Mathis.md) / [Vachon](./Vachon.md) / [Heller](./Heller.md) / [Jace](./Jace.md) / [Astrid Greenwood](./Astrid%20Greenwood.md) / [Jane Yang](./Jane%20Yang.md) |
+
 _For the character of the same name, see [Donner](./Donner.md)._
 
 **Donner** is the fifth and final mission in [Episode 4](./Episode%204%20-%20Fury%2C%20Then%20Silence.md) of the [story](./Wintermute.md). In this mission, Mackenzie fetches the [hardcase](./Astrid%27s%20Hardcase.md) from the warden's office and escapes Blackrock with [Jace](./Jace.md) after [Mathis'](./Mathis.md) attempts to free his son [Donner](./Donner.md) with dynamite fails.
@@ -20,6 +31,12 @@ _For the character of the same name, see [Donner](./Donner.md)._
 - Meet Jace at the Power Plant.
 
 ## Walkthrough
+
+| Mission details | Mission details |
+| --- | --- |
+| Start location | Blackrock Federal Penitentiary |
+| Significant locations | [Power Plant](./Power%20Plant.md) |
+| Items recommended | [Storm Lantern](./Storm%20Lantern.md), [bandage](./Bandage.md) |
 
 The mission starts with a cutscene where Will, tied to a chair, sees the deceased [Franklin](./Franklin.md) being wheeled out of the prison on a gurney. [Mathis](./Mathis.md) then enters his cell, and after revealing that Franklin told him about Will's communication with [Jace](./Jace.md) and their efforts to obstruct Donner's release, decides to execute Will. Just before the killing blow, however, an explosion rocks the prison. Will's chair is broken, and Mathis runs to solitary to find the source of the explosion. Follow Mathis towards solitary to start another cutscene, where Mathis once again threatens to execute Will. However, shortly before Mathis grabs him, a door will slam shut between the two, and [Jace](./Jace.md) will talk over the loudspeaker, informing the convicts that she, not Franklin or Will, was obstructing Mathis' plans all along.
 
@@ -43,5 +60,3 @@ The final scene of the episode shows [Astrid](./Astrid%20Greenwood.md) reaching 
 ## Bugs
 
 - If you load the auto save at the beginning of the chapter it will put you into the cutscene of being tied to a chair. However once the cutscene ends Mathis will not appear at the end of the hall and the interaction with him will not happen. This will allow you to walk to the end of the hall there's nothing down there however walking into certain areas such as the hole in the wall will cause the walls to disappear. The only way to fix this is to load a save before you return to the prison.
-
-Category:Episode 4

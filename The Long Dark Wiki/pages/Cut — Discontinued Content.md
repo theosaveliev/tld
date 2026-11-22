@@ -853,7 +853,7 @@ Episode 1
 Episode 2
 
 - [Risk of Infection](./Risk%20of%20Infection.md)
-- You Fix My Rifle?
+- [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md)
 - [Survival School (Predux)](./Survival%20School%20%28Predux%29.md)
 - [Jeremiah's Folly](./Jeremiah%27s%20Folly.md)
 - [Renewed Hope (Predux)](./Renewed%20Hope%20%28Predux%29.md)
@@ -988,7 +988,7 @@ The bolt cutters were removed from the game entirely after the Redux update, how
 
 #### Jeremiah's Broken Rifle and Hunting Lodge Rifle
 
-Jeremiah's rifle originally breaks after Mackenzie fires it at the end of Episode 2, with an entire mission dedicated to fixing [Jeremiah's Broken Rifle](./Jeremiah%27s%20Broken%20Rifle.md) while looking for your own rifle. A unique Hunting Rifle would be found in the mission You Fix My Rifle? and was used for the rest of the Story. The Hunting Lodge Rifle was eventually replaced by the [Broken Bear Spear](./Broken%20Bear%20Spear.md), with a Jeremiah's Rifle being available from the start of Episode 2 in the Redux [The Wounded Trapper](./The%20Wounded%20Trapper.md) mission. Features of the [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) would later be recycled into the [Curator's Rifle](./Curator%27s%20Rifle.md) and [Vaughn's Rifle](./Vaughn%27s%20Rifle.md).
+Jeremiah's rifle originally breaks after Mackenzie fires it at the end of Episode 2, with an entire mission dedicated to fixing [Jeremiah's Broken Rifle](./Jeremiah%27s%20Broken%20Rifle.md) while looking for your own rifle. A unique Hunting Rifle would be found in the mission [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md) and was used for the rest of the Story. The Hunting Lodge Rifle was eventually replaced by the [Broken Bear Spear](./Broken%20Bear%20Spear.md), with a Jeremiah's Rifle being available from the start of Episode 2 in the Redux [The Wounded Trapper](./The%20Wounded%20Trapper.md) mission. Features of the [Hunting Lodge Rifle](./Hunting%20Lodge%20Rifle.md) would later be recycled into the [Curator's Rifle](./Curator%27s%20Rifle.md) and [Vaughn's Rifle](./Vaughn%27s%20Rifle.md).
 
 ![menu ui model](../assets/Hunting_Lodge_Rifle_menu.jpg)
 

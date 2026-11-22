@@ -75,7 +75,7 @@ Burbot can be harvested to obtain [Fishing Bait](./Fishing%20Bait.md), yielding 
 | Item | Skills | Materials |
 | --- | --- | --- |
 | [Burbot (Cooked)](./Burbot%20%28Cooked%29.md) | None | - 1.00 kg × [Burbot (Raw)](./Burbot%20%28Raw%29.md) |
-| [Mounted Burbot](./Mounted%20Burbot.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Burbot (Raw)](./Burbot%20%28Raw%29.md) |
+| [Mounted Burbot](./Mounted%20Burbot.md) | None | - 1 × [Fir Firewood](./Fir%20Firewood.md)<br>- 1 × [Burbot (Raw)](./Burbot%20%28Raw%29.md) |
 
 ## Update history
 

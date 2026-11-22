@@ -34,7 +34,7 @@ Has an interior
 
 ## Overview
 
-Community Hall is the largest building in [Thomson's Crossing](./Thomson%27s%20Crossing.md). The building contains a kitchen with a [Stove](./Stove.md), mess hall with a [Fireplace](./Fireplace.md), bathroom with a [Toilet](./Toilet.md), and a small office. Next to the back entrance is one of the [Radios](./Trader.md#Radio_Locations) necessary to contact the Trader (if enabled). The nearest work bench is at the [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md), but it can be disassembled and rebuilt in the Community Hall using [Safehouse Customization](./Safehouse%20Customization.md).
+Community Hall is the largest building in [Thomson's Crossing](./Thomson%27s%20Crossing.md). The building contains a kitchen with a [Stove](./Stove.md), mess hall with a [Fireplace](./Fireplace.md), bathroom with a [Toilet](./Toilet.md), and a small office. Next to the back entrance is one of the [Radios](./Trader.md#Radio_Locations) necessary to contact the Trader (if enabled). The nearest work bench is at the [Pleasant Valley Outbuildings](./Pleasant%20Valley%20Outbuildings.md), but it can be disassembled and [rebuilt](./Work%20Bench.md) in the Community Hall using [Safehouse Customization](./Safehouse%20Customization.md).
 
 It is a perfect location for a [Safe House](./Safehouse.md), as it contains a 6-slot Stove, [Beds](./Bed.md), several [Crossroads House](./Crossroads%20House.md) to loot nearby, and the 200.00kg [Storage Cupboard](./Storage%20Cupboard.md), the largest container in the game.
 

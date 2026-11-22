@@ -25,7 +25,7 @@ The locomotive takes the shape of a [0-4-0 ST](wikipedia:0-4-0) steam locomotive
 
 ## History
 
-According to the [Piece of Paper](./Piece%20of%20Paper%20%282%29.md) found in the Train Maintenance Shed, the engine was nicknamed "Goose" and was going to be put on display at the Maintenance Shed, with hopes that it could draw people up north towards Perseverance Mills and bring attention to the isolated town. It is unknown whether the locomotive was put on display, or not.
+According to the [Piece of Paper](./Piece%20of%20Paper.md) found in the Train Maintenance Shed, the engine was nicknamed "Goose" and was going to be put on display at the Maintenance Shed, with hopes that it could draw people up north towards Perseverance Mills and bring attention to the isolated town. It is unknown whether the locomotive was put on display, or not.
 
 ## Operation and Mechanics
 

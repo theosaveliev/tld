@@ -42,7 +42,7 @@ Once crafted, the item is automatically placed into the player's inventory. It c
 
 **Requirements**
 
-**Facility:** \[\[File:Anywhere icon.png
+**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
 
 **Item:** [Fir Firewood](./Fir%20Firewood.md)
 

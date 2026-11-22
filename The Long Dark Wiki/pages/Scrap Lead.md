@@ -46,7 +46,7 @@ Scrap Lead can also be found occasionally as a single piece when exploring the w
 
 **Requirements**
 
-**Facility:** \[\[File:Anywhere icon.png
+**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
 
 **Item:** [Car Battery](./Car%20Battery.md)
 

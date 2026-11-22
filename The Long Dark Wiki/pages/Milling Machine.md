@@ -90,7 +90,7 @@ Caution should be taken inside of the Last Resort Cannery Workshop during an Aur
 - Repairing a Hacksaw with the Milling Machine grants more condition per Scrap Metal than repair with [Simple Tools](./Simple%20Tools.md) or [Quality Tools](./Quality%20Tools.md); but only if the repair is successful. At low Repair skill the Milling Machine is less efficient on average, but as Repair skill increases it becomes far more efficient.
 - Repairing Improvised Hatchet and Improvised Knife is more efficient with Scrap Metal than [forging](./Forge.md) new ones.
 - No [Bed](./Bed.md) is present inside or conveniently near either of the workshops. It is recommended to bring a [Bedroll](./Bedroll.md) to spend extended periods of time in the crafting ammunition.
-- An early prototype of this item could be found during the cut mission You Fix My Rifle?, known as the [Hand-Powered Milling Tool](./Hand-Powered%20Milling%20Tool.md).
+- An early prototype of this item could be found during the cut mission [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md), known as the [Hand-Powered Milling Tool](./Hand-Powered%20Milling%20Tool.md).
 
 ## Trivia
 

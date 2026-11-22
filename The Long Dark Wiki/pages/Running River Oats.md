@@ -58,8 +58,8 @@ When used for Porridge, Running River Oats has an excellent calorie density of 3
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) / - 4 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) / - 0.20 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.10 kg × [Running River Oats](./Running%20River%20Oats.md) |
-| [Porridge](./Porridge.md) | None | - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.10 kg × [Running River Oats](./Running%20River%20Oats.md) |
+| [Camber Flight Porridge](./Camber%20Flight%20Porridge.md) | None | - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md)<br>- 4 × [Rose Hip](./Rose%20Hip.md)<br>- 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md)<br>- 0.20 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.10 kg × [Running River Oats](./Running%20River%20Oats.md) |
+| [Porridge](./Porridge.md) | None | - 0.25 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.10 kg × [Running River Oats](./Running%20River%20Oats.md) |
 
 ## Trivia
 

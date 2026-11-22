@@ -2,6 +2,26 @@
 
 **Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Trauma)
 
+**Trauma**
+
+![Missions story ep3 Trauma](../assets/Missions_story_ep3_Trauma.png)
+
+**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
+
+**Previous:** [Renewed Hope](./Renewed%20Hope.md)
+
+**Current:** Trauma
+
+**Next:** [Fallen Star](./Fallen%20Star.md)
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md) [Keeper's Pass South](./Keeper%27s%20Pass%20South.md)-(Opening cutscene)
+
+**Characters:** [Astrid Greenwood](./Astrid%20Greenwood.md) [Molly](./Molly.md)<br>[Grey Mother](./Grey%20Mother.md) (opening cutscene)<br>[Hobbs](./Hobbs.md) (opening cutscene)<br>[Mathis](./Mathis.md) (opening cutscene)<br>[Will Mackenzie](./Will%20Mackenzie.md) (opening cutscene)<br>[Jeremiah](./Jeremiah.md) (opening cutscene)<br>[Radio Voice Man](./Characters.md#Radio_Voice_Man) (opening cutscene)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+
+> “**Molly rescued you from near death. As a local with deep knowledge of the Region, she might be key to surviving long enough to find a way to Perseverance Mills.**”
+
 **Trauma** is the first mission in [Episode 3: Crossroads Elegy](./Episode%203%20-%20Crossroads%20Elegy.md) of [Wintermute](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) meets [Molly](./Molly.md) and learns about her predicament.
 
 ## Objectives
@@ -21,6 +41,11 @@
   - Investigate the Community Hall.
 
 ## Walkthrough
+
+| Mission details | Mission details |
+| --- | --- |
+| Start location | [Pleasant Valley Farmstead](./Pleasant%20Valley%20Farmstead.md) |
+| Significant locations | [Barn (Molly's)](./Barn%20%28Molly%27s%29.md), [Thomson's Crossing](./Thomson%27s%20Crossing.md) |
 
 The episode starts in Pleasant Valley Farmstead with a cutscene. When Molly leaves the house, Astrid is free to explore. There are three clues the player must find: a broken rifle in the den, a photograph on a desk in the office, and a piece of torn orange cloth in the upstairs bathroom. Once all three are found, the phone on the first floor will ring. When Astrid picks it up, Molly informs her that she is at the barn and needs her help. The key to open the basement is located under the vase in the den. Inside the basement, the player must open the gun cabinet and take out the [revolver](./Revolver.md), [revolver ammunition](./Revolver%20Ammunition.md), and [rifle ammunition](./Rifle%20Ammunition.md). There is a second exit in the basement that leads directly outside through a bulkhead door. Outside and to the right, there is a line of blizzard stake lines leading to the [Barn (Molly's)](./Barn%20%28Molly%27s%29.md), fallow them. A group of [wolves](./Wolf.md) will be circling the barn and need to be shot at to make them flee (or just run to the door). Enter the barn and receive the telephone call from Molly.
 

@@ -73,5 +73,3 @@ Several plot points and locations have been replaced/altered since the Redux re-
   - Added to game.
 - UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
   - Removed from the game as part of the Redux edition.
-
-\[Paradise Lost (Predux)\]

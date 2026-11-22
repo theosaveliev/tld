@@ -137,11 +137,11 @@ Crafted
 
 [Furniture Workbench](./Furniture%20Workbench.md)
 
-\[Missing image: \[\[File:Rustic\_Chair\_icon.png\] [Rustic Chair](./Rustic%20Chair.md)
+![Rustic Chair icon](../assets/Rustic_Chair_icon.png) [Rustic Chair](./Rustic%20Chair.md)
 
 `icon.png|link=`![Rustic Chair icon](../assets/Rustic_Chair_icon.png)[`Rustic Chair`](./Rustic%20Chair.md)
 
-29x29px\]\] link=Rustic Chair|29x29px [Rustic Chair](./Rustic%20Chair.md)
+29x29px\]\] [link=Rustic Chair|29x29px](../assets/Rustic_Chair_icon.png) [Rustic Chair](./Rustic%20Chair.md)
 
 ![Rustic Chair icon](../assets/Rustic_Chair_icon.png) [Rustic Chair](./Rustic%20Chair.md) \]\]
 

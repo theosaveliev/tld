@@ -58,8 +58,8 @@ Bullets may also be acquired by harvesting Revolver or Hunting Rifle Ammunition 
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Revolver Cartridge](./Revolver%20Ammunition.md) | None | - 1 × [Bullet](./Bullet.md) / - 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) / - 0.01 kg × [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
-| [Rifle Cartridge](./Rifle%20Ammunition.md) | None | - 1 × [Bullet](./Bullet.md) / - 1 × [Rifle Shell Casing](./Rifle%20Shell%20Casing.md) / - 0.01 kg × [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
+| [Revolver Cartridge](./Revolver%20Ammunition.md) | None | - 1 × [Bullet](./Bullet.md)<br>- 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md)<br>- 0.01 kg × [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
+| [Rifle Cartridge](./Rifle%20Ammunition.md) | None | - 1 × [Bullet](./Bullet.md)<br>- 1 × [Rifle Shell Casing](./Rifle%20Shell%20Casing.md)<br>- 0.01 kg × [Can of Gunpowder](./Can%20of%20Gunpowder.md) |
 
 ## Tips
 

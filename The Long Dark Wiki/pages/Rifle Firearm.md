@@ -44,7 +44,7 @@ Players need both a rifle and ammunition before they can start practicing the fi
 
 The hunting rifle (and its variants) are tools used to fire rifle rounds at targets. The rifle's condition will degrade every shot (the amount degraded depends on the variant). Rifles can be repaired by using a [Firearm Cleaning Kit](./Firearm%20Cleaning%20Kit.md) to keep the weapon in optimal condition. A [Milling Machine](./Milling%20Machine.md) can be used to greatly repair a rifle, even being able to restore a 0% Ruined Condition rifle, but this takes considerably more time then a repair. At level 5 Rifle Firearm skill, Per-use condition [degradation](./Decay.md) reduced by 50%.
 
-|  | Rifle Variant |  |  |  |
+|  | Rifle Variant | Rifle Variant | Rifle Variant | Rifle Variant |
 | --- | --- | --- | --- | --- |
 | Skill Level | [Hunting Rifle](./Hunting%20Rifle.md) and [Curator's Rifle](./Curator%27s%20Rifle.md) | [Vaughn's Rifle](./Vaughn%27s%20Rifle.md) | [Barb's Rifle](./Barb%27s%20Rifle.md) | [Bunker Rifle](./Bunker%20Rifle.md) |
 | 1 | 1.333% 75 shots from full | 2% 50 shots from full | 1% 100 shots from full | 4% 25 shots from full |
@@ -70,7 +70,7 @@ Critical hits are random occurrences but are more likely in designated critical 
 
 Direct hits to an animal with a rifle round that are not critical will cause bleeding wounds. Animals will bleed out according to which area they were shot in last. Multiple shots to the same area will not make the animal bleed out any faster. However, shooting an animal in an area that bleeds faster than a previous wound it has already received will cause it to bleed out as if the faster wound were caused when the first wound was.
 
-|  | Hit zone |  |  |  |
+|  | Hit zone | Hit zone | Hit zone | Hit zone |
 | --- | --- | --- | --- | --- |
 | Animal | Head | Chest | Hind | Foot |
 | [Rabbit](./Rabbit.md) | Instant | Instant | Instant | Instant |
@@ -92,10 +92,10 @@ Once players have reached a new skill level, they unlock the effects described i
 | Level | Skill points needed | Points to next level | Effects | Flavor Text |
 | --- | --- | --- | --- | --- |
 | 1 | 0 | 10 | - Basic rifle skill | You're very new to firearms, and aren't yet comfortable with using the Rifle. You know how to load it and how to fire it, and you know what end to point at the target, and that's about it. |
-| 2 | 10 | 15 | - Critical hit chance increased by 10% / - 2 additional percent of condition per repair action | You have a little more shooting experience under your belt. You're more accurate and you know how to keep your Rifle in working order. |
-| 3 | 25 | 25 | - Accuracy range increased by 20% / - Critical Hit chance increased by 15% / - 3 additional percent of condition per repair action | You've become skilled with the Rifle. You're able to hit things further away, and you've developed a better feel for how your shots can be most effective. You know how to keep your Rifle in good condition. |
-| 4 | 50 | 50 | - Damage increased by 10% / - Accuracy range increased by 30% / - Critical Hit chance increased by 20% / - 4 additional percent of condition per repair action | You've developed a strong feeling for the Rifle. Your shots hit more often and you take down your targets more reliably. It is your constant companion. |
-| 5 | 100 | Max level | - Damage increased by 20% / - Accuracy range increased by 40% / - Critical hit chance increased by 30% / - 5 additional percent of condition per repair action / - Per-use condition [degradation](./Decay.md) reduced by 50% | When you aim down those sights the world melts away and there's only you, the Rifle, the bullet, and your target. The trigger is death. The trigger is life. |
+| 2 | 10 | 15 | - Critical hit chance increased by 10%<br>- 2 additional percent of condition per repair action | You have a little more shooting experience under your belt. You're more accurate and you know how to keep your Rifle in working order. |
+| 3 | 25 | 25 | - Accuracy range increased by 20%<br>- Critical Hit chance increased by 15%<br>- 3 additional percent of condition per repair action | You've become skilled with the Rifle. You're able to hit things further away, and you've developed a better feel for how your shots can be most effective. You know how to keep your Rifle in good condition. |
+| 4 | 50 | 50 | - Damage increased by 10%<br>- Accuracy range increased by 30%<br>- Critical Hit chance increased by 20%<br>- 4 additional percent of condition per repair action | You've developed a strong feeling for the Rifle. Your shots hit more often and you take down your targets more reliably. It is your constant companion. |
+| 5 | 100 | Max level | - Damage increased by 20%<br>- Accuracy range increased by 40%<br>- Critical hit chance increased by 30%<br>- 5 additional percent of condition per repair action<br>- Per-use condition [degradation](./Decay.md) reduced by 50% | When you aim down those sights the world melts away and there's only you, the Rifle, the bullet, and your target. The trigger is death. The trigger is life. |
 
 &lt;/table-progress-tracking&gt;
 

@@ -12,6 +12,26 @@
 - [Community Hall Bug](#community-hall-bug)
 - [Tips](#tips)
 
+**Coming Storm**
+
+![Missions story ep3 Coming Storm](../assets/Missions_story_ep3_Coming_Storm.png)
+
+**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
+
+**Previous:** [Fallen Star](./Fallen%20Star.md)
+
+**Current:** Coming Storm
+
+**Next:** [Aftermath](./Aftermath.md)
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
+
+**Characters:** [Astrid](./Astrid%20Greenwood.md)<br>[Father Thomas](./Father%20Thomas.md)<br>[Survivors](./Crash%20Survivor.md)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+
+> “**A whiteout blizzard is on the way. Find the three missing Survivors and collect enough supplies in the Hall kitchen to keep everyone alive until the storm passes.**”
+
 **Coming Storm** is the third mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) must find the remaining survivors and stock supplies in the [Community Hall](./Community%20Hall.md) to last through the blizzard.
 
 ## Objectives
@@ -33,6 +53,10 @@
 Note The quantities above match that of the Capable Survivor [difficulty](./Wintermute.md#Difficulty). In the Hardened Survivor difficulty, the supplies required are approximately 20-25% more.
 
 ## Walkthrough
+
+| Mission details | Mission details |
+| --- | --- |
+| Start location | [Community Hall](./Community%20Hall.md) |
 
 The mission begins in Community Hall and is divided into two parts: Find and return three survivors, and stock the hall kitchen in preparation for a blizzard.
 

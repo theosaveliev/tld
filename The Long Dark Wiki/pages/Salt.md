@@ -71,17 +71,17 @@ Smaller jars of Salt (0.25kg) can be found as loot usually in kitchens or food-r
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Broth](./Broth.md) | None | - 1.00 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) / - 1.50 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.01 kg × [Salt](./Salt.md) |
-| [Coastal Fishcakes](./Coastal%20Fishcakes.md) | None | - 0.50 Kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) / - 2 × [Potato](./Potato.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md) |
-| [Dockworker's Pie](./Dockworker%27s%20Pie.md) | None | - 2 × [Potato](./Potato.md) / - 0.50 kg × [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) / - 0.50 kg × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md) |
-| [Last Resort Soup](./Last%20Resort%20Soup.md) | None | - 2 × [Potato](./Potato.md) / - 0.40 L × [Broth](./Broth.md) / - 0.01 kg × [Salt](./Salt.md) |
-| [Meat Curing Box](./Meat%20Curing%20Box.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md) / - 8.00 kg × [Salt](./Salt.md) |
-| [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md) / - 15 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Animal Fat](./Animal%20Fat.md) / - 0.05 kg × [Salt](./Salt.md) |
-| [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md) / - 15 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Animal Fat](./Animal%20Fat.md) / - 0.05 kg × [Salt](./Salt.md) |
-| [Porter's Soup](./Porter%27s%20Soup.md) | None | - 2 × [Carrot](./Carrot.md) / - 6 × [Cat Tail Stalk](./Cat%20Tail%20Stalk.md) / - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) / - 0.40 L × [Broth](./Broth.md) / - 0.01 kg × [Salt](./Salt.md) |
-| [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 4 × [Reishi Mushroom](./Reishi%20Mushroom.md) / - 2 × [Burdock Root](./Burdock%20Root.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md) |
-| [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) / - 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) / - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md) |
-| [Vagabond Soup](./Vagabond%20Soup.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) / - 0.40 L × [Broth](./Broth.md) / - 0.01 kg × [Salt](./Salt.md) |
+| [Broth](./Broth.md) | None | - 1.00 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)<br>- 1.50 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+| [Coastal Fishcakes](./Coastal%20Fishcakes.md) | None | - 0.50 Kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md)<br>- 2 × [Potato](./Potato.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+| [Dockworker's Pie](./Dockworker%27s%20Pie.md) | None | - 2 × [Potato](./Potato.md)<br>- 0.50 kg × [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md)<br>- 0.50 kg × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+| [Last Resort Soup](./Last%20Resort%20Soup.md) | None | - 2 × [Potato](./Potato.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+| [Meat Curing Box](./Meat%20Curing%20Box.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md)<br>- 8.00 kg × [Salt](./Salt.md) |
+| [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md)<br>- 15 × [Rose Hip](./Rose%20Hip.md)<br>- 0.50 kg × [Animal Fat](./Animal%20Fat.md)<br>- 0.05 kg × [Salt](./Salt.md) |
+| [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md)<br>- 15 × [Rose Hip](./Rose%20Hip.md)<br>- 0.50 kg × [Animal Fat](./Animal%20Fat.md)<br>- 0.05 kg × [Salt](./Salt.md) |
+| [Porter's Soup](./Porter%27s%20Soup.md) | None | - 2 × [Carrot](./Carrot.md)<br>- 6 × [Cat Tail Stalk](./Cat%20Tail%20Stalk.md)<br>- 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+| [Prepper's Pie](./Prepper%27s%20Pie.md) | None | - 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 4 × [Reishi Mushroom](./Reishi%20Mushroom.md)<br>- 2 × [Burdock Root](./Burdock%20Root.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+| [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md)<br>- 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md)<br>- 1 × [Acorn Grounds](./Acorn%20Grounds.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+| [Vagabond Soup](./Vagabond%20Soup.md) | None | - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.01 kg × [Salt](./Salt.md) |
 
 ## Update history
 

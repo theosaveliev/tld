@@ -48,9 +48,9 @@ While a Carrot can be eaten raw, they can also be used in the creation of certai
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Porter's Soup](./Porter%27s%20Soup.md) | None | - 2 × [Carrot](./Carrot.md) / - 6 × [Cat Tail Stalk](./Cat%20Tail%20Stalk.md) / - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) / - 0.40 L × [Broth](./Broth.md) / - 0.01 kg × [Salt](./Salt.md) |
-| [Ranger Stew](./Ranger%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) / - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) / - 1 × [Potato](./Potato.md) / - 0.20 kg × [Carrot](./Carrot.md) / - 0.40 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md) / - 0.40 kg × [Carrot](./Carrot.md) / - 2 × [Potato](./Potato.md) / - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) / - 0.40 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Porter's Soup](./Porter%27s%20Soup.md) | None | - 2 × [Carrot](./Carrot.md)<br>- 6 × [Cat Tail Stalk](./Cat%20Tail%20Stalk.md)<br>- 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+| [Ranger Stew](./Ranger%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 1 × [Potato](./Potato.md)<br>- 0.20 kg × [Carrot](./Carrot.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md)<br>- 0.40 kg × [Carrot](./Carrot.md)<br>- 2 × [Potato](./Potato.md)<br>- 2 × [Reishi Mushroom](./Reishi%20Mushroom.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
 ## Update history
 

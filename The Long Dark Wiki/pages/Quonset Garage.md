@@ -54,7 +54,7 @@ Quonset Garage is located along the main highway in Coastal Highway. It is one o
 
 A [Basin](./Basin.md) can be found on a [Work Bench](./Work%20Bench.md), the only one of its kind in the game. A [Polaroid](./Polaroids.md) can also be found inside sometimes.
 
-As the garage has two workbenches and only one can be used at a time, it is often a good idea to [disassemble one](./Safehouse%20Customization.md) and use its [vise](./Workbench%20Vice.md) to build a new workbench in a location that doesn't have one, especially if you plan on turning said location into a [Safehouse](./Safehouse.md).
+As the garage has two [workbenches](./Work%20Bench.md) and only one can be used at a time, it is often a good idea to [disassemble one](./Safehouse%20Customization.md) and use its [vise](./Workbench%20Vice.md) to build a new workbench in a location that doesn't have one, especially if you plan on turning said location into a [Safehouse](./Safehouse.md).
 
 ## Safehouse
 

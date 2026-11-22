@@ -52,7 +52,7 @@ It's stats are mostly identical to the [Cotton Toque](./Cotton%20Toque.md), with
 
 **Requirements**
 
-**Facility:** \[\[File:Anywhere icon.png
+**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
 
 **Item:** [Cloth](./Cloth.md)
 

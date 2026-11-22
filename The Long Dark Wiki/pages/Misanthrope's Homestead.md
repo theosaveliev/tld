@@ -57,7 +57,7 @@ As of the Part 6 Broken Silence update, a Pier is now found behind the island co
 
 ## Safehouse
 
-Due to the island's proximity to Sutherland's Trade Drop Box, the two story house on the island has become a popular [safehouse](./Safehouse.md) in the region. The house is sufficiently spacious to accommodate [custom furniture](./Safehouse%20Customization.md) and has excellent hunting, fishing, and [beachcombing](./Beachcombing.md) nearby. Furthermore, the [radio](./Radio.md) in the [Quonset Garage](./Quonset%20Garage.md) is a short walk away. While it does not have a built in workbench, one of the benches from the Quonset can easily be disassembled and rebuilt here. One of the few weaknesses is the lack of an indoor fireplace.
+Due to the island's proximity to Sutherland's Trade Drop Box, the two story house on the island has become a popular [safehouse](./Safehouse.md) in the region. The house is sufficiently spacious to accommodate [custom furniture](./Safehouse%20Customization.md) and has excellent hunting, fishing, and [beachcombing](./Beachcombing.md) nearby. Furthermore, the [radio](./Radio.md) in the [Quonset Garage](./Quonset%20Garage.md) is a short walk away. While it does not have a built in [workbench](./Work%20Bench.md), one of the benches from the Quonset can easily be disassembled and rebuilt here. One of the few weaknesses is the lack of an indoor fireplace.
 
 ## Trivia
 

@@ -60,7 +60,7 @@ The [Breyerhouse Pie](./Breyerhouse%20Pie.md) [recipe card](./Recipe%20Cards.md)
 
 ### Basement
 
-Entering the basement, there are a bunch of shelves which may contain random items, along with [metal](./Metal%20Container.md) and [plastic](./Plastic%20Container.md) containers. The most useful item found in the basement is the Workbench. A [Revolver](./Revolver.md) can possibly spawn on one of the unusable bunk beds.
+Entering the basement, there are a bunch of shelves which may contain random items, along with [metal](./Metal%20Container.md) and [plastic](./Plastic%20Container.md) containers. The most useful item found in the basement is the [Workbench](./Work%20Bench.md). A [Revolver](./Revolver.md) can possibly spawn on one of the unusable bunk beds.
 
 As of the [Tales from the Far Territory](./Tales%20from%20the%20Far%20Territory.md) update, the basement also spawns a [Vegetable Rack](./Vegetable%20Rack.md) near the wood box. A [Bag of Salt](./Salt%20%28Bag%29.md) can be found beside the Vegetable Rack. The [Breyerhouse Pie](./Breyerhouse%20Pie.md) [recipe card](./Recipe%20Cards.md) may be found on top of the vegetable rack.
 

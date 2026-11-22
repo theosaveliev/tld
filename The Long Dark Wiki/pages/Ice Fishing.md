@@ -87,7 +87,7 @@ Ice breakers are any tool used to clear ice holes. Fully clearing a hole takes t
 
 Tip: On PC, pressing Enter also acts as clicking the Break Ice button.
 
-| Tool | Break rate<br>(minutes to clear ice) | Tool decay |  |
+| Tool | Tool | Break rate<br>(minutes to clear ice) | Tool decay |
 | --- | --- | --- | --- |
 | ![Prybar icon](../assets/Prybar_icon.png) | [Prybar](./Prybar.md) | 45.0 min | 2.0% |
 | ![Heavy Hammer icon](../assets/Heavy_Hammer_icon.png) | [Heavy Hammer](./Heavy%20Hammer.md) | 45.0 min | 2.0% |
@@ -199,10 +199,10 @@ A limited increase can be obtained from the [Research Book](./Research%20Book.md
 | Level | Skill points needed | Points to next level | Effects | Flavor text |
 | --- | --- | --- | --- | --- |
 | 1 | 0 | 10 | - Basic ice fishing skill | You don't really know what you're doing yet. You know which end of the line the hook goes on. |
-| 2 | 10 | 40 | - Fishing time reduced by 5% / - 8% chance of line break on catch | You're getting more comfortable with fishing in the Winter. You're better with your fishing gear, and you're developing a feel for when a fish is on the line. |
-| 3 | 50 | 100 | - Fishing time reduced by 10% / - 5% chance of line break on catch | You're quite good at ice fishing. You rarely break your lines now, and you catch more fish per hour. |
-| 4 | 150 | 100 | - 10% to average fish weight / - Fishing time reduced by 20% / - 3% chance of line break on catch | You are fantastic at ice fishing. You seem to catch fish more often, more quickly, and somehow you get the bigger ones too! |
-| 5 | 250 | Max level | - 25% to average fish weight / - Fishing time reduced by 30% / - 1% chance of line break on catch | You are the Pied Piper of ice fishers. You barely have to clear the ice hole for fish to nearly jump out of the water. You catch bigger fish, more often, and in less time. |
+| 2 | 10 | 40 | - Fishing time reduced by 5%<br>- 8% chance of line break on catch | You're getting more comfortable with fishing in the Winter. You're better with your fishing gear, and you're developing a feel for when a fish is on the line. |
+| 3 | 50 | 100 | - Fishing time reduced by 10%<br>- 5% chance of line break on catch | You're quite good at ice fishing. You rarely break your lines now, and you catch more fish per hour. |
+| 4 | 150 | 100 | - 10% to average fish weight<br>- Fishing time reduced by 20%<br>- 3% chance of line break on catch | You are fantastic at ice fishing. You seem to catch fish more often, more quickly, and somehow you get the bigger ones too! |
+| 5 | 250 | Max level | - 25% to average fish weight<br>- Fishing time reduced by 30%<br>- 1% chance of line break on catch | You are the Pied Piper of ice fishers. You barely have to clear the ice hole for fish to nearly jump out of the water. You catch bigger fish, more often, and in less time. |
 
 &lt;/table-progress-tracking&gt;
 

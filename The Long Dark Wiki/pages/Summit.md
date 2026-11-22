@@ -55,8 +55,6 @@ It is possible to reach the Summit on day one of a playthrough, depending on the
 
 ![TailSection&amp;Wing Summit](../assets/TailSection%26Wing_Summit.jpg)
 
-_TailSection&amp;Wing\_Summit.jpg_
-
 ![Summit sunset panorama](../assets/Summit_sunset_panorama.jpg)
 
 ![Panoramic View from the Summit](../assets/TW_Pano-1.jpg)

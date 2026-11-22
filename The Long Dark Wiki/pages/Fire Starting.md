@@ -167,10 +167,10 @@ Once players have reached a new skill level, they unlock a new bonus/bonuses get
 | Level | Skill points needed | Points to next level | Effects | Flavor text |
 | --- | --- | --- | --- | --- |
 | 1 | 0 | 20 | - 40% chance to start fires | You have no special knowledge or skill at starting fires, yet. |
-| 2 | 20 | 30 | - 55% chance to start fires / - Fires last 10% longer | You're quite good at starting fires now. Your fires start better and last longer. |
-| 3 | 50 | 50 | - 65% chance to start fires / - Fires last 10% longer / - Can start fires without tinder. | You have well above-average experience in starting fires now. You're becoming very capable. |
-| 4 | 100 | 100 | - 75% chance to start fires / - Fires last 25% longer / - Can start fires without tinder. | Very few can match your skill. Your fires burn faster and for longer. You have woodsmoke in your veins. |
-| 5 | 200 | Max level | - 90% chance to start fires / - Fires start 50% faster / - Fires last 50% longer / - Can start fires without tinder. | You have a spark at your fingertips. Your skills are legendary. You're the fire whisperer. |
+| 2 | 20 | 30 | - 55% chance to start fires<br>- Fires last 10% longer | You're quite good at starting fires now. Your fires start better and last longer. |
+| 3 | 50 | 50 | - 65% chance to start fires<br>- Fires last 10% longer<br>- Can start fires without tinder. | You have well above-average experience in starting fires now. You're becoming very capable. |
+| 4 | 100 | 100 | - 75% chance to start fires<br>- Fires last 25% longer<br>- Can start fires without tinder. | Very few can match your skill. Your fires burn faster and for longer. You have woodsmoke in your veins. |
+| 5 | 200 | Max level | - 90% chance to start fires<br>- Fires start 50% faster<br>- Fires last 50% longer<br>- Can start fires without tinder. | You have a spark at your fingertips. Your skills are legendary. You're the fire whisperer. |
 
 &lt;/table-progress-tracking&gt;
 

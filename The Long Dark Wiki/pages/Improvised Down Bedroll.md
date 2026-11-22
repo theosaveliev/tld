@@ -60,7 +60,7 @@ Note that a completely ruined [Bedroll](./Bedroll.md) (0%) can still be crafted 
 
 **Requirements**
 
-**Facility:** \[\[File:Anywhere icon.png
+**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
 
 **Item:** [Bedroll](./Bedroll.md)
 

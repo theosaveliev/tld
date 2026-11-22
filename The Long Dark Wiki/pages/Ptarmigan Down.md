@@ -38,12 +38,12 @@
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Bear Hide Bed](./Bear%20Hide%20Bed.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Cured Gut](./Cured%20Gut.md) / - 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| [Hide Chair](./Hide%20Chair.md) | None | - 8 × [Fir Firewood](./Fir%20Firewood.md) / - 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 8 × [Ptarmigan Down](./Ptarmigan%20Down.md) / - 3 × [Cured Gut](./Cured%20Gut.md) |
-| [Hide Couch](./Hide%20Couch.md) | None | - 15 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Cured Deer Hide](./Cured%20Deer%20Hide.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) / - 5 × [Cured Gut](./Cured%20Gut.md) |
-| [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) | None | - 1 × [Bedroll](./Bedroll.md) / - 3 × [Cloth](./Cloth.md) / - 10 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| [Improvised Insulation](./Improvised%20Insulation.md) | None | - 4 × [Cloth](./Cloth.md) / - 5 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
-| [Quilted Bed](./Quilted%20Bed.md) | None | - 12 × [Fir Firewood](./Fir%20Firewood.md) / - 10 × [Cloth](./Cloth.md) / - 6 × [Cured Gut](./Cured%20Gut.md) / - 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
+| [Bear Hide Bed](./Bear%20Hide%20Bed.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Cured Gut](./Cured%20Gut.md)<br>- 1 × [Cured Black Bear Hide](./Cured%20Black%20Bear%20Hide.md)<br>- 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
+| [Hide Chair](./Hide%20Chair.md) | None | - 8 × [Fir Firewood](./Fir%20Firewood.md)<br>- 2 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 8 × [Ptarmigan Down](./Ptarmigan%20Down.md)<br>- 3 × [Cured Gut](./Cured%20Gut.md) |
+| [Hide Couch](./Hide%20Couch.md) | None | - 15 × [Fir Firewood](./Fir%20Firewood.md)<br>- 4 × [Cured Deer Hide](./Cured%20Deer%20Hide.md)<br>- 16 × [Ptarmigan Down](./Ptarmigan%20Down.md)<br>- 5 × [Cured Gut](./Cured%20Gut.md) |
+| [Improvised Down Bedroll](./Improvised%20Down%20Bedroll.md) | None | - 1 × [Bedroll](./Bedroll.md)<br>- 3 × [Cloth](./Cloth.md)<br>- 10 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
+| [Improvised Insulation](./Improvised%20Insulation.md) | None | - 4 × [Cloth](./Cloth.md)<br>- 5 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
+| [Quilted Bed](./Quilted%20Bed.md) | None | - 12 × [Fir Firewood](./Fir%20Firewood.md)<br>- 10 × [Cloth](./Cloth.md)<br>- 6 × [Cured Gut](./Cured%20Gut.md)<br>- 16 × [Ptarmigan Down](./Ptarmigan%20Down.md) |
 
 ## Update history
 

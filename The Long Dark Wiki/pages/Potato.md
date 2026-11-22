@@ -69,12 +69,12 @@ Raw potatoes are inedible and must be placed upon a cooking slot of a lit [Fire]
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Coastal Fishcakes](./Coastal%20Fishcakes.md) | None | - 0.50 Kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) / - 2 × [Potato](./Potato.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md) |
+| [Coastal Fishcakes](./Coastal%20Fishcakes.md) | None | - 0.50 Kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md)<br>- 2 × [Potato](./Potato.md)<br>- 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
 | [Cooked Potato](./Cooked%20Potato.md) | None | - 1 × [Potato](./Potato.md) |
-| [Dockworker's Pie](./Dockworker%27s%20Pie.md) | None | - 2 × [Potato](./Potato.md) / - 0.50 kg × [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md) / - 0.50 kg × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md) |
-| [Last Resort Soup](./Last%20Resort%20Soup.md) | None | - 2 × [Potato](./Potato.md) / - 0.40 L × [Broth](./Broth.md) / - 0.01 kg × [Salt](./Salt.md) |
-| [Ranger Stew](./Ranger%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) / - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) / - 1 × [Potato](./Potato.md) / - 0.20 kg × [Carrot](./Carrot.md) / - 0.40 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
-| [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md) / - 0.40 kg × [Carrot](./Carrot.md) / - 2 × [Potato](./Potato.md) / - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) / - 0.40 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Dockworker's Pie](./Dockworker%27s%20Pie.md) | None | - 2 × [Potato](./Potato.md)<br>- 0.50 kg × [Coho Salmon (Raw)](./Coho%20Salmon%20%28Raw%29.md)<br>- 0.50 kg × [Rockfish (Raw)](./Rockfish%20%28Raw%29.md)<br>- 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md)<br>- 0.05 L × [Cooking Oil](./Cooking%20Oil.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+| [Last Resort Soup](./Last%20Resort%20Soup.md) | None | - 2 × [Potato](./Potato.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.01 kg × [Salt](./Salt.md) |
+| [Ranger Stew](./Ranger%20Stew.md) | None | - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md)<br>- 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md)<br>- 1 × [Potato](./Potato.md)<br>- 0.20 kg × [Carrot](./Carrot.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
+| [Thomson Family Stew](./Thomson%20Family%20Stew.md) | None | - 0.30 kg × [Canned Corn](./Canned%20Corn.md)<br>- 0.40 kg × [Carrot](./Carrot.md)<br>- 2 × [Potato](./Potato.md)<br>- 2 × [Reishi Mushroom](./Reishi%20Mushroom.md)<br>- 0.40 L × [Broth](./Broth.md)<br>- 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md) |
 
 ## Locations
 

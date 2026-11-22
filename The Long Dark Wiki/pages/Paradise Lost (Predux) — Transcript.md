@@ -44,4 +44,4 @@ _Upon making it to the other side, he sees a man overwhelmed by a [bear](./Old%2
 
 _The pilot picks up a hunting rifle, then aims at the bear before the screen turns black. A gunshot is heard, and the credits roll._
 
-The story continues in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), in [Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md). \[Paradise Lost (Predux)\]
+The story continues in [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md), in [Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md).

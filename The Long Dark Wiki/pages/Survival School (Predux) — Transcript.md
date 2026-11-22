@@ -17,7 +17,7 @@
 
 **Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
 
-**Previous:** You Fix My Rifle?/Transcript
+**Previous:** [You Fix My Rifle?/Transcript](./You%20Fix%20My%20Rifle%3F.md)
 
 **Current:** Survival School (Predux)/Transcript
 
@@ -460,4 +460,4 @@ Jeremiah: "It's not something you can understand with your head, Mackenzie. No m
 
 _Mackenzie nods, then turns to pick up his Rifle at the bench. He walks off with the Rifle on his back, turning around and pulling out Jeremiah's Knife, and then cutting his left palm and showing it to the Trapper. He is now the bait. Mackenzie walks off and the cutscene ends_
 
-The story continues in [Jeremiah's Folly/Transcript](./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md). \[Survival School (Predux)\]
+The story continues in [Jeremiah's Folly/Transcript](./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md).

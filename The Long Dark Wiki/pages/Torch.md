@@ -113,7 +113,7 @@ You can also pull a Torch from any fire, but their condition will always be rand
 
 **Requirements**
 
-**Facility:** \[\[File:Anywhere icon.png
+**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
 
 **Item:** [Stick](./Stick.md)
 

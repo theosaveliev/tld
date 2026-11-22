@@ -219,12 +219,12 @@ Wolf can be killed at range with any weapon (except [Stone](./Stone.md) and [Fir
 
 Critical hits cause the animal to instantly die after being hit by a shot. The following table contains the critical hit chance based on the location that was shot on the animal.
 
-| Weapon | Critical Hit Chance |  |  |  |  |  |
+| Weapon | Weapon | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
 | ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
-| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) |  |  |  |  |  |
-| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) |  |  |  |  |  |
+| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
+| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | Guaranteed | Guaranteed | 33% | 10% | 10% |
 | ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 40% | 20% | 15% | 5% | 5% |
 
 ### Bleeding wounds
@@ -233,7 +233,7 @@ All shots from weapons which hit a wolf cause blood loss; or a chance after a st
 
 ### Bleed Out
 
-| Weapon | Bleed Out |  |  |  |  |  |
+| Weapon | Weapon | Bleed Out | Bleed Out | Bleed Out | Bleed Out | Bleed Out |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
 | ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | Instant | 20 min | 60 min | 90 min | 120 min |

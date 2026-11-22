@@ -50,7 +50,7 @@ The calories of raw meat put in the curing box don't affect the calories of the 
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md) / - 15 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Animal Fat](./Animal%20Fat.md) / - 0.05 kg × [Salt](./Salt.md) |
-| [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md) / - 15 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Animal Fat](./Animal%20Fat.md) / - 0.05 kg × [Salt](./Salt.md) |
+| [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md)<br>- 15 × [Rose Hip](./Rose%20Hip.md)<br>- 0.50 kg × [Animal Fat](./Animal%20Fat.md)<br>- 0.05 kg × [Salt](./Salt.md) |
+| [Pemmican Bar](./Pemmican%20Bar.md) | None | - 0.50 kg × [Cured Meat](./Cured%20Meat.md)<br>- 15 × [Rose Hip](./Rose%20Hip.md)<br>- 0.50 kg × [Animal Fat](./Animal%20Fat.md)<br>- 0.05 kg × [Salt](./Salt.md) |
 
 ## Update history

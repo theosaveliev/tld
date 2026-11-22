@@ -376,9 +376,7 @@ def _ambiguous_title_fallback(
     compact = _compact_title_key(title)
     if not compact:
         return None
-    matches = {
-        key for key in title_to_filename if _compact_title_key(key) == compact
-    }
+    matches = {key for key in title_to_filename if _compact_title_key(key) == compact}
     return f"{title}.md" if len(matches) > 1 else None
 
 
@@ -1112,9 +1110,9 @@ def _is_discarded_anchor(link: lhtml.HtmlElement, href: str) -> bool:
     """Drop interwiki labels and leave external links untouched."""
     scheme = urllib.parse.urlsplit(href).scheme.casefold()
     label = link.text_content().strip()
-    if LANGUAGE_INTERWIKI_SCHEME_RE.fullmatch(
-        scheme
-    ) and label.casefold().startswith(f"{scheme}:"):
+    if LANGUAGE_INTERWIKI_SCHEME_RE.fullmatch(scheme) and label.casefold().startswith(
+        f"{scheme}:"
+    ):
         link.drop_tree()
         return True
     return _is_external_scheme(scheme)
@@ -2863,9 +2861,7 @@ def _render_generic_table(
 ) -> str:
     """Convert HTML tables to Markdown, retaining spans and list line breaks."""
     grid = _expanded_table_grid(rows)
-    rendered_cells = _rendered_table_cells(
-        rows, use_html_line_breaks, images_as_links
-    )
+    rendered_cells = _rendered_table_cells(rows, use_html_line_breaks, images_as_links)
     header_rows = _table_header_row_count(grid, rendered_cells)
     headers = (
         _render_table_headers(grid, header_rows, rendered_cells)

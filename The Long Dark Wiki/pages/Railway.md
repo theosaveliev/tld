@@ -64,7 +64,7 @@ The main yard you spawn at, implied to be past the small yard within the Mill at
 
 #### Train Maintenance Shed
 
-A two story shed with space for one railcar inside, currently occupied by a flatbed. A small break room, locker room with attached bathroom, office space, workshop, and store room can be found inside, along with the main area for repairs. The [Throttle](./Steam%20Train.md) can be found on the first floor workshop, and the [Piece of Paper](./Piece%20of%20Paper%20%282%29.md) with an [Emegrency Kit](./Emergency%20Kit.md) in the second floor office.
+A two story shed with space for one railcar inside, currently occupied by a flatbed. A small break room, locker room with attached bathroom, office space, workshop, and store room can be found inside, along with the main area for repairs. The [Throttle](./Steam%20Train.md) can be found on the first floor workshop, and the [Piece of Paper](./Piece%20of%20Paper.md) with an [Emegrency Kit](./Emergency%20Kit.md) in the second floor office.
 
 #### Switching Yard 1
 

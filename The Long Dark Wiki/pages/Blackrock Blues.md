@@ -2,6 +2,30 @@
 
 **Categories:** Episode 4 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Blackrock_Blues)
 
+**Blackrock Blues**
+
+![Blackrock Blues](../assets/Blackrock_Blues.png)
+
+Episode
+
+**Missions**
+
+**Previous:** [Prologue](./Prologue.md)
+
+**Current:** Blackrock Blues
+
+**Next:** [The Power Plant](./The%20Power%20Plant.md)
+
+**Region:** [Blackrock Region](./Blackrock.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Mathis](./Mathis.md)<br>[Franklin](./Franklin.md)<br>[Vachon](./Vachon.md)<br>[Heller](./Heller.md)<br>[Jace](./Jace.md)
+
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+
+> “**Learn all you can about Blackrock Penitentiary.**”
+>
+> — In-game description
+
 **Blackrock Blues** is the first mission in [Episode 4: Fury, then Silence](./Episode%204%20-%20Fury%2C%20Then%20Silence.md). In this episode, Will has to get medical supplies to help heal [Franklin](./Franklin.md) after [Mathis](./Mathis.md) beat him up.
 
 ## Objectives
@@ -15,6 +39,12 @@
   - Return to Blackrock.
 
 ## Walkthrough
+
+| Mission details | Mission details |
+| --- | --- |
+| Start location | Blackrock Federal Penitentiary |
+| Significant locations | [Cutty's Cave](./Cutty%27s%20Cave.md) |
+| Items recommended | stones, flares |
 
 When Will awakens, he will be in a cell, and hear the voice of [Franklin](./Franklin.md). Stand on the toilet to talk to him and learn more about Blackrock.
 
@@ -31,5 +61,3 @@ With the medicine in hand, follow the main road back to the prison. Before dropp
 ## Trivia
 
 - The name of this mission may have been inspired by "Folsom Prison Blues" a country song about prison life written by Johnny Cash.
-
-Category:Episode 4

@@ -55,7 +55,7 @@ Some observed spawn points include:
 [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md)
 
 - On a shelf in the control room of [Carter Hydro Dam](./Carter%20Hydro%20Dam.md) in the Upper Dam.
-- Under the Workbench in the Trapper's Cabin.
+- Under the [Workbench](./Work%20Bench.md) in the Trapper's Cabin.
 - Under the stairs in the Lower Dam.
 - Under the chair in front of the entrance in [Trapper's Homestead](./Trapper%27s%20Homestead.md).
 - Under a bench near the workbench in the Lower Dam.

@@ -11,6 +11,22 @@
 - [Plot Points and Gameplay Changes](#plot-points-and-gameplay-changes)
 - [Game History](#game-history)
 
+**Forge Blueprints (mission)**
+
+![Old Spence Family Homestead Forge](../assets/Old_Spence_Family_Homestead_Forge.png)
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
+
+**Previous:** none
+
+**Current:** Forge Blueprints (mission)
+
+**Next:** none
+
+**Region:** [Forlorn Muskeg](./Forlorn%20Muskeg.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)
+
 **Forge Blueprints (mission)** was a side mission of the Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story and the last mission in the Predux storyline. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 This mission was cut from the game, with [Forge](./Forge.md) blueprints being available from the start, and the Forge being used to craft a new [Spear Head](./Spear%20Head.md) for the [Bear Spear](./Bear%20Spear.md).
@@ -22,6 +38,11 @@ This mission was cut from the game, with [Forge](./Forge.md) blueprints being av
 
 
 ## Walkthrough
+
+| Mission details | Mission details |
+| --- | --- |
+| Mission length | Short |
+| Start location | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |
 
 ### Trust
 
@@ -40,3 +61,9 @@ Several plot points and locations have been replaced/altered since the Redux re-
   - [Hunting Knives](./Hunting%20Knife.md) and [Hatchets](./Hatchet.md) are also far more plentiful throughout Episode 1 and 2 in the Redux, with Hunting Knives being entirely absent in both Predux Episodes (until acquiring [Jeremiah's Knife](./Jeremiah%27s%20Knife.md)).
 
 ## Game History
+
+\* UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+
+  - Added to game.
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+  - Removed from the game as part of the Redux edition.

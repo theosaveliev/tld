@@ -42,5 +42,5 @@
 
 ## Walkthrough
 
-| Mission details |
-| --- |
+| Mission details | Mission details |
+| --- | --- |

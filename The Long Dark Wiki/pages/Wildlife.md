@@ -240,9 +240,7 @@ _Cat Tail_
 
 ![A darker colored Rose Bush](../assets/RockClimb.jpg)
 
-\[Missing image: Scrub\_Brush.png\]
-
-_Scrub Brush_
+![Scrub Brush](../assets/Scrub_Brush_icon.png)
 
 ![Fully grown Birch trees](../assets/BearFlare.png)
 

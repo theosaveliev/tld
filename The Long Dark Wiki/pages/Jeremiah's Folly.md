@@ -12,6 +12,28 @@
 - [Plot Points and Gameplay Changes](#plot-points-and-gameplay-changes)
 - [Game History](#game-history)
 
+**Jeremiah's Folly**
+
+![Jeremiah's Folly](../assets/Jeremiah%27s_Folly.jpg)
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
+
+**Previous:** [Survival School (Predux)](./Survival%20School%20%28Predux%29.md)
+
+**Current:** Jeremiah's Folly
+
+**Next:** [Renewed Hope (Predux)](./Renewed%20Hope%20%28Predux%29.md)
+
+**Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)<br>[Old Bear](./Old%20Bear.md)
+
+**Template:spoiler**
+> **If you don't kill the Old Bear, you'll never make it out of Mystery Lake. Finish what Jeremiah started.**
+>
+>
+> — In-game description
+
 **Jeremiah's Folly** was the fourth mission of the Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 This mission was poorly received due to its unfair and confusing method of tracking the [Old Bear](./Old%20Bear.md), and has since been replaced by the mission [What One Man Can Do](./What%20One%20Man%20Can%20Do.md). Chasing the Old Bear with a Rifle was kept in the Challenge [The Hunted, Part Two](./The%20Hunted%2C%20Part%20Two.md) however.
@@ -24,6 +46,12 @@ This mission was poorly received due to its unfair and confusing method of track
 
 
 ## Walkthrough
+
+| Mission details | Mission details |
+| --- | --- |
+| Mission length | Medium |
+| Start location | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |
+| Enemies to kill | The [Old Bear](./Old%20Bear.md) |
 
 After finishing Jeremiah's Survival School, Mackenzie is now eager to finally leave Mystery Lake in search of Astrid. Jeremiah reels him back in for one more task however, to kill the Old Bear. Mackenzie finally states he has enough of this, as he has Astrid to find, but Jeremiah says that there's something bigger at stake, bigger than Mackenzie finding Astrid, bigger than Jeremiah, and it all begins with killing the Old Bear. Jeremiah then commands Mackenzie to use himself as bait, as bears can smell fresh blood over 20 miles away, and then Mackenzie will be able to take the Old Bear once and for all. Mackenzie agrees to help the crazy trapper one last time, grabs his rifle, makes his way to the door, and then turns around, cutting his left hand with [Jeremiah's Knife](./Jeremiah%27s%20Knife.md) and showing his hand to Jeremiah.
 
@@ -75,3 +103,9 @@ Several plot points and locations have been replaced/altered since the Redux re-
 - After Mackenzie leaves, Jeremiah opens a panel in the floorboards containing a ham radio. This plot point was reworked into the open, with the radio being present from the start of the Redux Episode 2 and serving as the way that Jeremiah originally tries to get the message Wintermute out.
 
 ## Game History
+
+\* UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+
+  - Added to game.
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+  - Removed from the game as part of the Redux edition.

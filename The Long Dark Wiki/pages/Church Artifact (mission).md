@@ -2,6 +2,20 @@
 
 **Categories:** Episode 3 · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Church_Artifact_%28mission%29)
 
+**Spoiler Warning:****This page may contain spoilers from the [story](./Wintermute.md) of The Long Dark.**
+
+**Church Artifact (mission)**
+
+![The artifact](../assets/Church_Artifact_icon.png)
+
+**Episode:** [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md)
+
+**Current:** Church Artifact (mission)
+
+**Region:** [Pleasant Valley](./Pleasant%20Valley.md)
+
+> “**A thief has stolen an Artifact from the Church at Thomson's Crossing. In a remote town, it's likely the Artifact has great value to the residents. See what you can do to locate the item and return it home.**”
+
 **Church Artifact** is a side mission in [Episode 3](./Episode%203%20-%20Crossroads%20Elegy.md) of the [story](./Wintermute.md). In this mission, [Astrid](./Astrid%20Greenwood.md) must search for clues about the whereabouts of an artifact that was stolen from the church in [Thomson's Crossing](./Thomson%27s%20Crossing.md) and return it to the church.
 
 ## Tasks
@@ -16,6 +30,11 @@
 
 ## Walkthrough
 
+| Mission details | Mission details |
+| --- | --- |
+| Start location | [Thomson's Crossing Church](./Thomson%27s%20Crossing.md) |
+| Significant locations | [Draft Dodger's Cabin](./Draft%20Dodger%27s%20Cabin.md), [Skeeter's Ridge](./Skeeter%27s%20Ridge.md) |
+
 To start the mission, the player must find the [Diocese Report](./Diocese%20Report.md) inside the church which contain information about the missing artifact (the [Church Flyer](./Church%20Flyer.md) is optional). The player must then travel to the [Draft Dodger's Cabin](./Draft%20Dodger%27s%20Cabin.md). Under the bed in the cabin is a suitcase which contains a letter saying that the artifact is hidden in the basement of the house at [Skeeter's Ridge](./Skeeter%27s%20Ridge.md).
 
 There is no direct path to Skeeter's Ridge from Draft Dodger's Cabin because a cliff face separates the two. Instead, the player must travel towards [Derelict Cabins](./Derelict%20Cabins.md) on the right side of the in-game map. Then the player can follow the main road back towards the crash site.
@@ -29,5 +48,3 @@ Once the artifact is retrieved, it must be brought back to the church and placed
 ## Transcript
 
 _Astrid enters the church and finds the [Diocese Report](./Diocese%20Report.md)_
-
-Astrid: "Something's gone missing..."

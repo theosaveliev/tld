@@ -19,7 +19,7 @@
 
 **Current:** Risk of Infection/Transcript
 
-**Next:** You Fix My Rifle?/Transcript
+**Next:** [You Fix My Rifle?/Transcript](./You%20Fix%20My%20Rifle%3F.md)
 
 **Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
 

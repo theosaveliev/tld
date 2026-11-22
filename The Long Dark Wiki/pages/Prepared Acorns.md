@@ -75,7 +75,7 @@ Preparing Acorns can be a time and resource-intensive process, taking 10 minutes
 
 **Requirements**
 
-**Facility:** \[\[File:Anywhere icon.png
+**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
 
 **Item:** [Acorns](./Acorns.md)
 
@@ -85,7 +85,7 @@ Preparing Acorns can be a time and resource-intensive process, taking 10 minutes
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) | None | - 1 × [Prepared Acorns](./Prepared%20Acorns.md) / - 0.25L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) | None | - 1 × [Prepared Acorns](./Prepared%20Acorns.md)<br>- 0.25L × [Water (Potable)](./Water%20%28Potable%29.md) |
 | [Prepared Acorns (Large Portion)](./Prepared%20Acorns%20%28Large%20Portion%29.md) | None | - 4 × [Prepared Acorns](./Prepared%20Acorns.md) |
 
 ## Update history

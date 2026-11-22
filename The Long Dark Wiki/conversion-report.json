@@ -6,14 +6,14 @@
     "expansion_errors": 0,
     "conversion_errors": 0,
     "repaired_pages": 582,
-    "raw_fallback_pages": 5,
-    "html_fallback_pages": 61,
-    "unresolved_links": 117,
-    "missing_images": 34,
+    "raw_fallback_pages": 4,
+    "html_fallback_pages": 0,
+    "unresolved_links": 40,
+    "missing_images": 27,
     "categories": 104,
     "infoboxes": 1853,
     "unconverted_infoboxes": 3,
-    "missing_templates": 9
+    "missing_templates": 0
   },
   "pages": [
     {
@@ -1339,22 +1339,22 @@
     {
       "title": "Blackrock (mission)",
       "filename": "Blackrock (mission).md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 41, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Start location\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Blackrock Blues",
       "filename": "Blackrock Blues.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 50, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Start location\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Blackrock Blues/Transcript",
@@ -2339,12 +2339,12 @@
     {
       "title": "Cairns",
       "filename": "Cairns.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Camber Flight Porridge",
@@ -2709,12 +2709,12 @@
     {
       "title": "Cat Tail",
       "filename": "Cat Tail.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Cat Tail Head",
@@ -3039,12 +3039,12 @@
     {
       "title": "Church Artifact (mission)",
       "filename": "Church Artifact (mission).md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 42, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Start location\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Church Flyer",
@@ -3309,12 +3309,12 @@
     {
       "title": "Collectibles",
       "filename": "Collectibles.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 3,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Combat Boots",
@@ -3339,12 +3339,12 @@
     {
       "title": "Coming Storm",
       "filename": "Coming Storm.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 57, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Start location\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Coming Storm/Transcript",
@@ -3909,12 +3909,12 @@
     {
       "title": "Crash Survivor",
       "filename": "Crash Survivor.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Crashed Prison Transport Bus",
@@ -3969,12 +3969,12 @@
     {
       "title": "Crouch",
       "filename": "Crouch.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Crow",
@@ -4209,12 +4209,12 @@
     {
       "title": "Curing",
       "filename": "Curing.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Curtain",
@@ -4259,12 +4259,12 @@
     {
       "title": "Daisy Chaining",
       "filename": "Daisy Chaining.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Dam Control Room Code",
@@ -4339,12 +4339,12 @@
     {
       "title": "Decay",
       "filename": "Decay.md",
-      "status": "raw_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML failed: Pandoc conversion failed: Error at (line 680, column 15):\nunexpected 'w'\n! scope=\"col\" width: 11em;\" |Name\n              ^ Direct Markdown conversion failed; rendered the original source through HTML-to-Markdown fallback."
+      "error": ""
     },
     {
       "title": "Decorations",
@@ -4759,12 +4759,12 @@
     {
       "title": "Donner (mission)",
       "filename": "Donner (mission).md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 41, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Start location\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Donner (mission)/Transcript",
@@ -5529,12 +5529,12 @@
     {
       "title": "Feels Like",
       "filename": "Feels Like.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Festive Sweater",
@@ -5649,12 +5649,12 @@
     {
       "title": "Fire",
       "filename": "Fire.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Fire Barrel",
@@ -5779,12 +5779,12 @@
     {
       "title": "First Flare",
       "filename": "First Flare.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Fisherman's Sweater",
@@ -6079,12 +6079,12 @@
     {
       "title": "Foreman's Refuge",
       "filename": "Foreman's Refuge.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Foreman's Retreat",
@@ -6349,12 +6349,12 @@
     {
       "title": "Forest Talkers (side mission)",
       "filename": "Forest Talkers (side mission).md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Forester's Hermitage",
@@ -6409,12 +6409,12 @@
     {
       "title": "Forge Blueprints (mission)",
       "filename": "Forge Blueprints (mission).md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 41, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Mission length\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Forgotten Exploration",
@@ -6959,12 +6959,12 @@
     {
       "title": "Great Bear Highway",
       "filename": "Great Bear Highway.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 3,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Great Bear Island",
@@ -7419,12 +7419,12 @@
     {
       "title": "Hibernation",
       "filename": "Hibernation.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Hibernia Processing",
@@ -7649,12 +7649,12 @@
     {
       "title": "Hunger",
       "filename": "Hunger.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Hunter's Blind",
@@ -7679,12 +7679,12 @@
     {
       "title": "Hunter's Blinds",
       "filename": "Hunter's Blinds.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Hunter's Revolver",
@@ -8299,12 +8299,12 @@
     {
       "title": "Jack-o-Lantern",
       "filename": "Jack-o-Lantern.md",
-      "status": "raw_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML failed: Pandoc conversion failed: Error at (line 15, column 63):\nunexpected 'l'\n{| class=\"wikitable sticky-header sortable style=\"text-align: left;\"\n                                                              ^ Direct Markdown conversion failed; rendered the original source through HTML-to-Markdown fallback."
+      "error": ""
     },
     {
       "title": "Jackrabbit Hangar",
@@ -8389,12 +8389,12 @@
     {
       "title": "Jeremiah's Folly",
       "filename": "Jeremiah's Folly.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 46, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Mission length\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Jeremiah's Folly/Transcript",
@@ -8489,12 +8489,12 @@
     {
       "title": "Journal",
       "filename": "Journal.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Journal Page",
@@ -9069,12 +9069,12 @@
     {
       "title": "Load Screen",
       "filename": "Load Screen.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Local Legends - Ghost Stag",
@@ -9379,12 +9379,12 @@
     {
       "title": "Loot Table",
       "filename": "Loot Table.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Looted Grotto",
@@ -9649,12 +9649,12 @@
     {
       "title": "Map",
       "filename": "Map.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Map (Church)",
@@ -10439,12 +10439,12 @@
     {
       "title": "Misery",
       "filename": "Misery.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Misty Falls Cave",
@@ -10589,12 +10589,12 @@
     {
       "title": "Mountain Goating",
       "filename": "Mountain Goating.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Mountain Pass",
@@ -10899,12 +10899,12 @@
     {
       "title": "Needs",
       "filename": "Needs.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Neighbour's Note",
@@ -11593,9 +11593,7 @@
       "categories": 2,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
-      "missing_templates": [
-        "Paradise Lost (Predux)"
-      ],
+      "missing_templates": [],
       "error": ""
     },
     {
@@ -11605,9 +11603,7 @@
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
-      "missing_templates": [
-        "Paradise Lost (Predux)"
-      ],
+      "missing_templates": [],
       "error": ""
     },
     {
@@ -12763,12 +12759,12 @@
     {
       "title": "Radial Menu",
       "filename": "Radial Menu.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Radio",
@@ -12973,12 +12969,12 @@
     {
       "title": "Realism",
       "filename": "Realism.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Receiver",
@@ -13133,14 +13129,12 @@
     {
       "title": "Renewed Hope (Predux)",
       "filename": "Renewed Hope (Predux).md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
-      "missing_templates": [
-        "Renewed Hope (Predux)"
-      ],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 48, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Mission length\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "missing_templates": [],
+      "error": ""
     },
     {
       "title": "Renewed Hope (Predux)/Transcript",
@@ -13149,9 +13143,7 @@
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
-      "missing_templates": [
-        "Renewed Hope (Predux)"
-      ],
+      "missing_templates": [],
       "error": ""
     },
     {
@@ -13337,12 +13329,12 @@
     {
       "title": "Risk of Infection",
       "filename": "Risk of Infection.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 46, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Mission length\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Risk of Infection/Transcript",
@@ -13397,12 +13389,12 @@
     {
       "title": "Roads",
       "filename": "Roads.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Roamer's Cave",
@@ -13437,12 +13429,12 @@
     {
       "title": "Rock Climb",
       "filename": "Rock Climb.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Rockfall",
@@ -13497,12 +13489,12 @@
     {
       "title": "Rope Climbing",
       "filename": "Rope Climbing.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Rosary",
@@ -14851,9 +14843,7 @@
       "categories": 3,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
-      "missing_templates": [
-        "Railway"
-      ],
+      "missing_templates": [],
       "error": "Recovered from Pandoc's unexpected end of input by closing 1 unterminated MediaWiki table(s)."
     },
     {
@@ -15199,12 +15189,12 @@
     {
       "title": "Survival Mode/Interloper Tips",
       "filename": "Survival Mode — Interloper Tips.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Survival Of The Fittest",
@@ -15249,14 +15239,12 @@
     {
       "title": "Survival School (Predux)",
       "filename": "Survival School (Predux).md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
-      "missing_templates": [
-        "Survival School (Predux)"
-      ],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 57, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Mission length\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "missing_templates": [],
+      "error": ""
     },
     {
       "title": "Survival School (Predux)/Transcript",
@@ -15265,9 +15253,7 @@
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
-      "missing_templates": [
-        "Survival School (Predux)"
-      ],
+      "missing_templates": [],
       "error": ""
     },
     {
@@ -15293,12 +15279,12 @@
     {
       "title": "Survivor Monologue",
       "filename": "Survivor Monologue.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Sutherland's Note",
@@ -15643,12 +15629,12 @@
     {
       "title": "The Best Defense",
       "filename": "The Best Defense.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 54, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Start location\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "The Best Defense/Transcript",
@@ -15673,12 +15659,12 @@
     {
       "title": "The Collapse",
       "filename": "The Collapse.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "The Crash",
@@ -15713,12 +15699,12 @@
     {
       "title": "The Detonators",
       "filename": "The Detonators.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 47, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Start location\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "The Detonators/Transcript",
@@ -15773,12 +15759,12 @@
     {
       "title": "The Grey Mother",
       "filename": "The Grey Mother.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 60, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Start location\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "The Grey Mother (Predux)",
@@ -15787,9 +15773,7 @@
       "categories": 2,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
-      "missing_templates": [
-        "The Grey Mother (Predux)"
-      ],
+      "missing_templates": [],
       "error": ""
     },
     {
@@ -15799,9 +15783,7 @@
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
-      "missing_templates": [
-        "The Grey Mother (Predux)"
-      ],
+      "missing_templates": [],
       "error": ""
     },
     {
@@ -15907,42 +15889,42 @@
     {
       "title": "The Long Dark/Changelog",
       "filename": "The Long Dark — Changelog.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "The Long Dark/Changelog/Archive 1",
       "filename": "The Long Dark — Changelog — Archive 1.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "The Long Dark/Changelog/Archive 2",
       "filename": "The Long Dark — Changelog — Archive 2.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "The Long Dark/Early Access Changelog",
       "filename": "The Long Dark — Early Access Changelog.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "The Long Dark/Gallery",
@@ -16007,12 +15989,12 @@
     {
       "title": "The Power Plant",
       "filename": "The Power Plant.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 53, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Start location\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "The Power Plant/Transcript",
@@ -16107,12 +16089,12 @@
     {
       "title": "The Wounded Trapper",
       "filename": "The Wounded Trapper.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 48, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Start location\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "The Wounded Trapper/Transcript",
@@ -16167,12 +16149,12 @@
     {
       "title": "Thirst",
       "filename": "Thirst.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Thomson Family Stew",
@@ -16247,12 +16229,12 @@
     {
       "title": "Time Capsule",
       "filename": "Time Capsule.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Timeline of The Long Dark",
@@ -16487,12 +16469,12 @@
     {
       "title": "Track Switch",
       "filename": "Track Switch.md",
-      "status": "html_fallback",
+      "status": "raw_fallback",
       "categories": 4,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 13, column 2):\nunexpected '\\n'\n|\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 13, column 2):\nunexpected ' '\n| &nbsp;\n ^ Used sanitized source as a fallback."
     },
     {
       "title": "Tractor",
@@ -16537,12 +16519,12 @@
     {
       "title": "Trailer (Blackrock Region)",
       "filename": "Trailer (Blackrock Region).md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Trailer (Mountain Town Region)",
@@ -16727,12 +16709,12 @@
     {
       "title": "Trauma",
       "filename": "Trauma.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 65, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Start location\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Trauma Kit",
@@ -17017,12 +16999,12 @@
     {
       "title": "Vehicle",
       "filename": "Vehicle.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Venison (Cooked)",
@@ -17067,12 +17049,12 @@
     {
       "title": "Visor",
       "filename": "Visor.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Vitamin-C Pills",
@@ -17107,12 +17089,12 @@
     {
       "title": "Warm Cave",
       "filename": "Warm Cave.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Warming Up",
@@ -17127,12 +17109,12 @@
     {
       "title": "Warmth",
       "filename": "Warmth.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 1,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "Washed Out Trailers",
@@ -17567,12 +17549,12 @@
     {
       "title": "What I Know",
       "filename": "What I Know.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 0,
       "infoboxes": 0,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "What One Man Can Do",
@@ -18157,12 +18139,12 @@
     {
       "title": "You Fix My Rifle?",
       "filename": "You Fix My Rifle?.md",
-      "status": "html_fallback",
+      "status": "ok",
       "categories": 2,
       "infoboxes": 1,
       "infoboxes_unconverted": 0,
       "missing_templates": [],
-      "error": "Pandoc MediaWiki-to-HTML rejected expanded wikitext: Pandoc conversion failed: Error at (line 51, column 2):\nunexpected 's'\n|style=\"background-color: #3C3A53;\" width:15%; vertical-align:top\"|Mission length\n ^ Used the unexpanded source as a fallback. Converted HTML elements retained by Pandoc into Markdown."
+      "error": ""
     },
     {
       "title": "You Fix My Rifle?/Transcript",
@@ -18226,61 +18208,10 @@
     }
   ],
   "unresolved_links": [
-    ":Category:Article_stubs",
-    ":Category:Bedrolls",
-    ":Category:Caves",
-    ":Category:Clothing",
-    ":Category:Craftable_tools",
-    ":Category:DLC_Content",
-    ":Category:Fire_Starting",
-    ":Category:Indoor_locations",
-    ":Category:Industrial_locations",
-    ":Category:Interactable_Objects",
-    ":Category:Interactable_objects",
-    ":Category:Items",
-    ":Category:Landmarks",
-    ":Category:Locations",
-    ":Category:Locations_in_Ash_Canyon",
-    ":Category:Locations_in_Blackrock",
-    ":Category:Locations_in_Bleak_Inlet",
-    ":Category:Locations_in_Broken_Railroad",
-    ":Category:Locations_in_Coastal_Highway",
-    ":Category:Locations_in_Crumbling_Highway",
-    ":Category:Locations_in_Desolation_Point",
-    ":Category:Locations_in_Far_Range_Branch_Line",
-    ":Category:Locations_in_Forlorn_Muskeg",
-    ":Category:Locations_in_Hushed_River_Valley",
-    ":Category:Locations_in_Keeper's_Pass_North",
-    ":Category:Locations_in_Keeper's_Pass_South",
-    ":Category:Locations_in_Mountain_Town",
-    ":Category:Locations_in_Mystery_Lake",
-    ":Category:Locations_in_Pleasant_Valley",
-    ":Category:Locations_in_The_Ravine",
-    ":Category:Locations_in_Timberwolf_Mountain",
-    ":Category:Locations_with_a_forge",
-    ":Category:Locations_with_a_workbench",
-    ":Category:Materials",
-    ":Category:Military/Sporting_locations",
-    ":Category:Outdoor_locations",
-    ":Category:Residential_locations",
-    ":Category:Store_locations",
-    ":Category:Tools",
-    ":Category:Transition_zones",
-    ":Category:Wildlife",
-    ":category:Caves",
-    ":category:Sheltered_locations",
-    ":category:bedrolls",
-    ":category:caves",
-    ":category:clothing",
-    ":category:landmarks",
     "Ambitious_Depot",
     "Camper_Trailer",
     "Canned_Whale_Meat",
-    "Category:Episode_1",
-    "Category:Episode_2",
-    "Category:Episode_4",
     "Clinic",
-    "Co-Op",
     "Dilapidated_Derricks",
     "Dr_Larsen's_Clinic",
     "Electrified_Track",
@@ -18303,10 +18234,8 @@
     "Mariner’s_Mitts",
     "Mindful_Basin",
     "Penultimate_Approach",
-    "Play_Me!",
     "Port_Renmant",
     "Pricett's_Retirement",
-    "Railyard_Track_Section_1",
     "Ravine_Respite",
     "SAR_Station",
     "Salt_Depost",
@@ -18314,46 +18243,18 @@
     "Sealskin_Boots",
     "Sealskin_Mittens",
     "Snowmobile",
-    "Special:Upload",
-    "Special:WhatLinksHere/Broken_Bridge_(disambiguation)",
-    "Special:WhatLinksHere/Cave_(disambiguation)",
-    "Special:WhatLinksHere/Fishing_Lure_(disambiguation)",
-    "Special:WhatLinksHere/Hunter's_Blind_(disambiguation)",
-    "Special:WhatLinksHere/Kerosene",
-    "Special:WhatLinksHere/Lookout_(disambiguation)",
-    "Special:WhatLinksHere/Matches_(disambiguation)",
-    "Special:WhatLinksHere/Mystery_Lake_(disambiguation)",
-    "Special:WhatLinksHere/Soda_(disambiguation)",
-    "Special:WhatLinksHere/Transcript_(disambiguation)",
-    "Template:Great_Bear_Island_map",
-    "Template:Interactable_Objects",
     "Terminal_Outflow",
-    "The_Cold_Broken_Road",
     "Throughline_Trestle",
-    "User:Glflegolas",
-    "User_blog:LegendFPS/The_Long_Dark_—_December_Update_(v.298),_“Timberwolf_Mountain”",
     "Vegetable_Drawer",
     "Whaler’s_Coat",
-    "Whaler’s_Hat",
-    "Workbench",
-    "You_Fix_My_Rifle?",
-    "You_Fix_My_Rifle?/Transcript",
-    "[[File:Rustic_Chair_icon.png",
-    "steam://nav/console",
-    "wikt:scumming",
-    "workbench",
-    "‎Reishi_Tea"
+    "Whaler’s_Hat"
   ],
   "missing_images": [
     "",
     "20220104180557_1.jpg",
     "20230520075647_1.jpg",
     "305620_20160916194519_1.png",
-    "[[file:rustic_chair_icon.png",
     "an_old_house_key_icon.png",
-    "anywhere",
-    "bank_deposit_box_key_20_icon.png_‎",
-    "bolt_cutters.png",
     "br_polaroid2.png",
     "br_polaroid_1.png",
     "cat_tail_plant.png",
@@ -18373,10 +18274,7 @@
     "pente.jpg",
     "quonset_gas_station_exterior.jpg",
     "screen_(-1,_4,_-18)_8b85d96a-957e-4c52-a687-c18d46e560f7.png",
-    "scrub_brush.png",
     "signalhill2.png",
-    "sure_footing.png",
-    "the_long_dark_--_&quot;make_it_right&quot;_--_wintermute_launch_trailer",
     "the_long_dark_frozen_creek.png",
     "toxic_fog_icon.png"
   ]

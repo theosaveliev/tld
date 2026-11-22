@@ -88,7 +88,7 @@ Distress Pistol rounds which hit an animal will almost always kill. Either immed
 
 Critical hits cause the animal to instantly die after being hit by a shot. The following table contains the critical hit chance based on the location that was shot on the animal.
 
-| Wildlife | Critical Hit Chance |  |  |  |  |  |
+| Wildlife | Wildlife | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
 | ![Deer icon](../assets/Deer_icon.png) | [Deer](./Deer.md) | Guaranteed | 50% | 40% | 25% | 10% |
@@ -99,7 +99,7 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 
 [Wildlife](./Wildlife.md) take a specific amount of time to bleed out, as follows:
 
-| Wildlife | Bleed Out |  |  |  |  |  |
+| Wildlife | Wildlife | Bleed Out | Bleed Out | Bleed Out | Bleed Out | Bleed Out |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
 | ![Deer icon](../assets/Deer_icon.png) | [Deer](./Deer.md) | Instant | 8 min | 15 min | 30 min | 80 min |

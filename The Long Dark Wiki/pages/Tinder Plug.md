@@ -65,7 +65,7 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 **Requirements**
 
-**Facility:** \[\[File:Anywhere icon.png
+**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
 
 **Item:** [Stick](./Stick.md)
 
@@ -81,7 +81,7 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 **Requirements**
 
-**Facility:** \[\[File:Anywhere icon.png
+**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
 
 **Item:** [Newsprint](./Newsprint.md)
 
@@ -97,7 +97,7 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 **Requirements**
 
-**Facility:** \[\[File:Anywhere icon.png
+**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
 
 **Item:** [Newsprint Roll](./Newsprint%20Roll.md)
 
@@ -113,7 +113,7 @@ Tinder plugs can be crafted or harvested from some fire starting items, such as 
 
 **Requirements**
 
-**Facility:** \[\[File:Anywhere icon.png
+**Facility:** \[\[[File:Anywhere](../assets/Anywhere_icon.png) icon.png
 
 **Item:** [Stack of Papers](./Stack%20of%20Papers.md)
 

@@ -32,6 +32,6 @@ This content requires the [Iron Road](./Iron%20Road.md) addon to be installed be
 
 **On ground:** Take It, Read Text, Leave It
 
-**Wax Cylinder Player** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of the [Iron Road](./Iron%20Road.md) expansion. It is found in [Desolation Point](./Desolation%20Point.md), on the [Fulmar Autopilot Boat](./Fulmar%20Autopilot%20Boat.md) right next to the Play Me! note and [Wax Cylinder 1](./Wax%20Cylinder%201.md). The Cylinder Player does not appear as a collectible in the inventory, but has an icon in the game files.
+**Wax Cylinder Player** is a [Collectible](./Collectibles.md) in [Survival Mode](./Survival%20Mode.md) as part of the [Iron Road](./Iron%20Road.md) expansion. It is found in [Desolation Point](./Desolation%20Point.md), on the [Fulmar Autopilot Boat](./Fulmar%20Autopilot%20Boat.md) right next to the [Play Me!](./Play%20Me.md) note and [Wax Cylinder 1](./Wax%20Cylinder%201.md). The Cylinder Player does not appear as a collectible in the inventory, but has an icon in the game files.
 
 ## Game history

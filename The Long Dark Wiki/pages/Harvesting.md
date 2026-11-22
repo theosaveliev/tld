@@ -342,7 +342,7 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 
 ### Hand Tools
 
-| Tool | Yield | Time |  |
+| Tool | Tool | Yield | Time |
 | --- | --- | --- | --- |
 | ![Hacksaw icon](../assets/Hacksaw_icon.png) | [Hacksaw](./Hacksaw.md) | 2 × Scrap Metal | 1 hour |
 | ![Hatchet icon](../assets/Hatchet_icon.png) | [Hatchet](./Hatchet.md) | 2 x Scrap Metal 1 x Fir Wood | 1 hour |
@@ -356,7 +356,7 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 
 ### Firearms
 
-| Tool | Yield | Time |  |
+| Tool | Tool | Yield | Time |
 | --- | --- | --- | --- |
 | ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 2 x Scrap Metal | 1 hour |
 | ![Barb's Rifle icon](../assets/Barb%27s_Rifle_icon.png) | [Barb's Rifle](./Barb%27s%20Rifle.md) | 2 x Scrap Metal | 1 hour |
@@ -365,7 +365,7 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 
 ### Campcraft/Cooking
 
-| Tool | Yield | Time |  |
+| Tool | Tool | Yield | Time |
 | --- | --- | --- | --- |
 | ![Bedroll icon](../assets/Bedroll_icon.png) | [Bedroll](./Bedroll.md) | 10 x Cloth | 90 min |
 | ![Bear Skin Bedroll icon](../assets/Bear_Skin_Bedroll_icon.png) | [Bear Skin Bedroll](./Bear%20Skin%20Bedroll.md) | 1 x Cloth 1 x Cured Black Bear Hide | 90 min |
@@ -376,7 +376,7 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 
 ### Lighting Tools
 
-| Tool | Yield | Time |  |
+| Tool | Tool | Yield | Time |
 | --- | --- | --- | --- |
 | ![Torch icon](../assets/Torch_icon.png) | [Torch](./Torch.md) | 1 x Stick | 2 min |
 | ![Flashlight icon](../assets/Flashlight_icon.png) | [Flashlight](./Flashlight.md) | 1 x Scrap Metal | 1 hour |
@@ -386,7 +386,7 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 
 ### Other
 
-| Tool | Yield | Time |  |
+| Tool | Tool | Yield | Time |
 | --- | --- | --- | --- |
 | ![Car Battery icon](../assets/Car_Battery_icon.png) | [Car Battery](./Car%20Battery.md) | 6 x Scrap Lead | 30 Minutes with a Hacksaw |
 | ![Fishing Tip Up icon](../assets/Fishing_Tip-Up_icon.png) | [Fishing Tip-Up](./Fishing%20Tip-Up.md) | 1 x Scrap Metal 1 x Stick | 10 min |
@@ -402,7 +402,7 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 
 **[Carcass Harvesting](./Carcass%20Harvesting.md)** is a Survival [Skill](./Skills.md) that is used to harvest meat, [animal fat](./Animal%20Fat.md), hides, and [guts](./Fresh%20Gut.md) from [Wildlife](./Wildlife.md). There are 9 types of harvestable animals in _[The Long Dark](./The%20Long%20Dark.md)_, and apart from [Rabbit](./Rabbit.md) and [Ptarmigan](./Ptarmigan.md), all animals can only be harvested at the location of the carcass, unless that animal has been quartered. Higher levels in the carcass harvesting skill reduce the amount of time required to harvest and increase the amount that can be harvested by hand from a frozen carcass. The following Tools affect Carcass Harvesting:
 
-| Tool | Harvest rate (minutes per kg) | Harvest rate (minutes per unit) | Tool decay (per hour) |  |  |  |
+| Tool | Tool | Harvest rate (minutes per kg) | Harvest rate (minutes per kg) | Harvest rate (minutes per unit) | Harvest rate (minutes per unit) | Tool decay (per hour) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Meat | Frozen Meat | Hide | Gut |  |  |  |
 | ![Anywhere icon](../assets/Anywhere_icon.png) | Bare Hand | 30.0 | N/A | 40.0 | 40.0 | None |

@@ -14,6 +14,28 @@
 - [Plot Points and Gameplay Changes](#plot-points-and-gameplay-changes)
 - [Game History](#game-history)
 
+**Risk of Infection**
+
+![Risk of Infection](../assets/Risk_of_Infection.jpg)
+
+**Episode:** [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md)
+
+**Previous:** [Paradise Lost (Predux)](./Paradise%20Lost%20%28Predux%29.md)
+
+**Current:** Risk of Infection
+
+**Next:** [You Fix My Rifle?](./You%20Fix%20My%20Rifle%3F.md)
+
+**Region:** [Mystery Lake (region)](./Mystery%20Lake%20%28region%29.md)
+
+**Characters:** [Will Mackenzie](./Will%20Mackenzie.md)<br>[Jeremiah](./Jeremiah.md)
+
+**Template:spoiler**
+
+"_The old trapper is badly injured after a bear attack. He needs strong antibiotics to survive. He might know something about Astrid. You'd better keep him alive, if you can._"
+
+— In-game description
+
 **Risk of Infection** was the first mission of the Predux [Episode 2: Luminance Fugue](./Episode%202%20-%20Luminance%20Fugue.md) of the [Wintermute](./Wintermute.md) story. It has since been replaced after the V1.47 Wintermute Redux version of the game, but is still playable to those that download versions V1.15, V1.30, or V1.37 of Steam version of _[The Long Dark](./The%20Long%20Dark.md)_ by using the [Time Capsule](./Time%20Capsule.md).
 
 This mission has since been replaced by [The Wounded Trapper](./The%20Wounded%20Trapper.md).
@@ -25,6 +47,12 @@ This mission has since been replaced by [The Wounded Trapper](./The%20Wounded%20
 - Get the meds back to the trapper before he dies.
 
 ## Walkthrough
+
+| Mission details | Mission details |
+| --- | --- |
+| Mission length | Medium |
+| Start location | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |
+| Required items | 1 x medical supplies |
 
 ### Carter Hydro Dam
 
@@ -71,4 +99,7 @@ Several plot points and locations have been replaced/altered since the Redux re-
 
 ## Game History
 
-Category:Episode 2
+- UPDATE **1 August 2017 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.00)):**
+  - Added to game.
+- UPDATE **17 December 2018 ([Update](./The%20Long%20Dark%20%E2%80%94%20Changelog.md#1.41)):**
+  - Removed from the game as part of the Redux edition.

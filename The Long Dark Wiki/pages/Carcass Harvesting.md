@@ -53,7 +53,7 @@ Survivor's skill level also affects the freeze level at which unfrozen meat harv
 
 This makes Hatchets &amp; Hacksaws good starting tools for meat harvesting, since they have better frozen meat harvesting speed, but end up losing that situational bonus at higher levels, and as such get completely outclassed by hunting knives at skill level 5.
 
-| Tool | Harvest rate<br>(minutes per kg) | Harvest rate<br>(minutes per unit) | Tool decay<br>(per hour) |  |  |  |
+| Tool | Tool | Harvest rate<br>(minutes per kg) | Harvest rate<br>(minutes per kg) | Harvest rate<br>(minutes per unit) | Harvest rate<br>(minutes per unit) | Tool decay<br>(per hour) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Meat | Frozen Meat | Hide | Gut |  |  |  |
 | ![Anywhere icon](../assets/Anywhere_icon.png) | Bare Hand | 30.0 | N/A | 40.0 | 40.0 | None |
@@ -129,8 +129,8 @@ A limited increase can be obtained from the [Research Book](./Research%20Book.md
 | --- | --- | --- | --- | --- |
 | 1 | 0 | 15 | - Basic carcass harvesting skill | You have a lay-person's understanding of harvesting a dead animal. Meaning, you are clumsy and unskilled. Don't cut yourself! |
 | 2 | 15 | 15 | - 10% reduction in meat harvesting times | You're a bit more comfortable with how to handle a carcass. You can tell which parts provide the best meat, but you still destroy a lot of it while harvesting. |
-| 3 | 30 | 20 | - 25% reduction in meat harvesting times / - Can harvest 50% frozen carcasses by hand / - 10% reduction in hide or gut harvesting times | You know your way around a carcass. You're quick and can get the best parts without wrecking them. You don't waste time or meat. |
-| 4 | 50 | 50 | - 30% reduction in meat harvesting times / - Can harvest 75% frozen carcasses by hand / - 20% reduction in hide or gut harvesting times / - (Hidden bonus) Carcasses below or equal to 75% freeze level use the unfrozen meat harvesting speed | You're an artist when it comes to cutting up a carcass. You can get all the best parts and you know what to do with them. You waste very little. |
-| 5 | 100 | Max level | - 50% reduction in meat harvesting times / - Can harvest 100% frozen carcasses by hand / - 30% reduction in hide or gut harvesting times / - (Hidden bonus) Carcasses below or equal to 100% freeze level use the unfrozen meat harvesting speed | Your skills are legendary. Carcasses pray you'll be the one to harvest them. You don't waste a movement, and can practically strip a carcass with your eyes closed. |
+| 3 | 30 | 20 | - 25% reduction in meat harvesting times<br>- Can harvest 50% frozen carcasses by hand<br>- 10% reduction in hide or gut harvesting times | You know your way around a carcass. You're quick and can get the best parts without wrecking them. You don't waste time or meat. |
+| 4 | 50 | 50 | - 30% reduction in meat harvesting times<br>- Can harvest 75% frozen carcasses by hand<br>- 20% reduction in hide or gut harvesting times<br>- (Hidden bonus) Carcasses below or equal to 75% freeze level use the unfrozen meat harvesting speed | You're an artist when it comes to cutting up a carcass. You can get all the best parts and you know what to do with them. You waste very little. |
+| 5 | 100 | Max level | - 50% reduction in meat harvesting times<br>- Can harvest 100% frozen carcasses by hand<br>- 30% reduction in hide or gut harvesting times<br>- (Hidden bonus) Carcasses below or equal to 100% freeze level use the unfrozen meat harvesting speed | Your skills are legendary. Carcasses pray you'll be the one to harvest them. You don't waste a movement, and can practically strip a carcass with your eyes closed. |
 
 &lt;/table-progress-tracking&gt;

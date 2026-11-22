@@ -71,7 +71,7 @@ Episode 1: Do Not Go Gentle
 Episode 2: Luminance Fugue
 
 - [Risk of Infection/Transcript](./Risk%20of%20Infection%20%E2%80%94%20Transcript.md)
-- You Fix My Rifle?/Transcript
+- [You Fix My Rifle?/Transcript](./You%20Fix%20My%20Rifle%3F.md)
 - [Survival School (Predux)/Transcript](./Survival%20School%20%28Predux%29%20%E2%80%94%20Transcript.md)
 - [Jeremiah's Folly/Transcript](./Jeremiah%27s%20Folly%20%E2%80%94%20Transcript.md)
 - [Renewed Hope (Predux)/Transcript](./Renewed%20Hope%20%28Predux%29%20%E2%80%94%20Transcript.md)

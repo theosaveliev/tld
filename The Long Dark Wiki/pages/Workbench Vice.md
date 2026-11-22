@@ -37,6 +37,6 @@ _For a full list of locations with a Work Bench, see :Category:Locations with a 
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| Workbench | None | - 15 × [Cedar Firewood](./Cedar%20Firewood.md) / - 1 × [Workbench Vice](./Workbench%20Vice.md) |
+| [Workbench](./Work%20Bench.md) | None | - 15 × [Cedar Firewood](./Cedar%20Firewood.md)<br>- 1 × [Workbench Vice](./Workbench%20Vice.md) |
 
 ## Game History

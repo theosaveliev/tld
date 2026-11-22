@@ -40,8 +40,8 @@
 
 ## Walkthrough
 
-| Mission details |
-| --- |
+| Mission details | Mission details |
+| --- | --- |
 
 The mission starts in the [Community Hall](./Community%20Hall.md). Walk to each survivor in the hall and diagnose them.
 

@@ -122,13 +122,13 @@ It is possible to kill a deer with one shot, though this is a function of scorin
 
 Critical hits cause the animal to instantly die after being hit by a shot. The following table contains the critical hit chance based on the location that was shot on the animal.
 
-| Weapon | Critical Hit Chance |  |  |  |  |  |
+| Weapon | Weapon | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
 | ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | Guaranteed | 50% | 40% | 25% | 10% |
-| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) |  |  |  |  |  |
-| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) |  |  |  |  |  |
-| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 25% | 20% | 13% | 5% |  |
+| ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | Guaranteed | 50% | 40% | 25% | 10% |
+| ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | Guaranteed | 50% | 40% | 25% | 10% |
+| ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | Guaranteed | 25% | 20% | 13% | 5% |
 
 ### Bleeding wounds
 
@@ -136,7 +136,7 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 
 ### Bleed Out
 
-| Weapon | Bleed Out |  |  |  |  |  |
+| Weapon | Weapon | Bleed Out | Bleed Out | Bleed Out | Bleed Out | Bleed Out |
 | --- | --- | --- | --- | --- | --- | --- |
 | Head | Neck | Torso | Hips | Limb |  |  |
 | ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | Instant | 15 min | 45 min | 60 min | 240 min |

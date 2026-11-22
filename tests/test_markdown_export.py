@@ -1679,6 +1679,37 @@ def test_page_markdown_dedents_root_lists_and_preserves_nested_indentation() -> 
     assert "\n- Another root event\n" in markdown
 
 
+def test_page_markdown_keeps_bullets_nested_under_ordered_lists() -> None:
+    body = """1. Ordered parent
+   - Nested unordered item
+2. Next ordered parent
+"""
+
+    markdown = _page_markdown("Lists", [], body, None)
+
+    assert "1. Ordered parent\n   - Nested unordered item" in markdown
+    assert "2. Next ordered parent" in markdown
+
+
+def test_page_markdown_dedents_fenced_code_within_root_lists() -> None:
+    body = """## Timeline
+
+  - First event
+
+    \`\`\`python
+    print("hello")
+    \`\`\`
+  - Second event
+
+## Next section
+"""
+
+    markdown = _page_markdown("Timeline", [], body, None)
+
+    assert "- First event\n\n  \`\`\`python\n  print(" in markdown
+    assert "\n  \`\`\`\n- Second event\n\n## Next section" in markdown
+
+
 def test_page_markdown_strips_html_tags_and_decodes_visible_entities() -> None:
     body = (
         'Before<span id="fnref1"></span>after '

@@ -531,7 +531,6 @@ def test_uses_material_list_template_is_replaced_with_recipe_table(
             "unrendered": 0,
         },
         usage,
-        image_index,
     )
 
     assert not error
@@ -585,11 +584,10 @@ def test_uses_material_list_template_is_replaced_with_recipe_table(
     assert not failed
     assert "| Item | Skills | Materials |" in markdown
     assert (
-        "![Meat Curing Box](../assets/Meat_Curing_Box_icon.png) "
         "[Meat Curing Box](./Meat%20Curing%20Box.md)"
     ) in markdown
-    assert "[![" not in markdown
-    assert (tmp_path / "assets" / "Meat_Curing_Box_icon.png").is_file()
+    assert "Meat_Curing_Box_icon.png" not in markdown
+    assert not (tmp_path / "assets" / "Meat_Curing_Box_icon.png").exists()
     assert "[Meat Curing Box](./Meat%20Curing%20Box.md)" in markdown
     assert "[Salt](./Salt.md)" in markdown
     assert "8.00 kg" in markdown

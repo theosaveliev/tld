@@ -1022,6 +1022,61 @@ def _strip_navbox_lua_errors(value: str) -> str:
     return re.sub(r"\n{3,}", "\n\n", cleaned).strip()
 
 
+def _is_leaked_wikitext_table_artifact(line: str) -> bool:
+    """Return whether a line is a leaked MediaWiki table or file marker."""
+    stripped = line.strip()
+    return bool(
+        re.fullmatch(
+            r"""\\?\|}\s*\{\\?\|\s*style\s*=\s*["']margin:auto["']""",
+            stripped,
+            re.IGNORECASE,
+        )
+        or re.fullmatch(
+            r"\s*(?:\\?\[){2}\s*file\s*:.*?(?:\\?\]){2}\s*",
+            line,
+            re.IGNORECASE,
+        )
+        or re.fullmatch(r"\s*\|\s*\|\s*[-\u2013\u2014]\s*\|\s*", stripped)
+    )
+
+
+def _strip_missing_template_labels(line: str) -> str:
+    """Remove leaked link/icon template labels while retaining a following link."""
+    template_link = (
+        r"\*\*Template:(?:pic link plain|iconlink(?: plain)?)\*\*"
+        r"(\[[^\]\n]+\]\([^)]+\))\*\*"
+    )
+    cleaned = re.sub(template_link, r"\1", line, flags=re.IGNORECASE)
+    return re.sub(
+        r"\*{0,2}Template:(?:pic link plain|iconlink(?: plain)?)\*{0,2}",
+        "",
+        cleaned,
+        flags=re.IGNORECASE,
+    )
+
+
+def _strip_empty_markup_rows(line: str) -> str:
+    """Remove empty Markdown table rows and list items after cleanup."""
+    stripped = line.strip()
+    if re.fullmatch(r"\s*\|\s*(?:\|\s*)+\s*", stripped):
+        return ""
+    if re.fullmatch(r"\s*(?:[-*+]|[0-9]+[.)])\s*", stripped):
+        return ""
+    return line
+
+
+def _clean_wikitext_artifact_line(line: str) -> str:
+    """Remove unsupported MediaWiki syntax from one ordinary text line."""
+    cleaned = re.sub(r"\\+\|-[ \t]*(?=\r?\n?$)", "", line)
+    cleaned = _strip_missing_template_labels(cleaned)
+    cleaned = re.sub(
+        r"(?m)^(\s*[-*+]\s*),[ \t]*",
+        r"\1",
+        cleaned,
+    )
+    return _strip_empty_markup_rows(cleaned)
+
+
 def _strip_wikitext_table_row_artifacts(value: str) -> str:
     """Remove leaked MediaWiki table, file, template, and empty-list artifacts."""
     output: list[str] = []
@@ -1036,53 +1091,14 @@ def _strip_wikitext_table_row_artifacts(value: str) -> str:
                 fence = None
             output.append(line)
             continue
-
-        cleaned_line = line
-        if fence is None:
-            stripped = cleaned_line.strip()
-            if re.fullmatch(
-                r"""\\?\|}\s*\{\\?\|\s*style\s*=\s*["']margin:auto["']""",
-                stripped,
-                re.IGNORECASE,
-            ):
-                continue
-            if re.fullmatch(
-                r"\s*(?:\\?\[){2}\s*file\s*:.*?(?:\\?\]){2}\s*",
-                cleaned_line,
-                re.IGNORECASE,
-            ):
-                continue
-            if re.fullmatch(r"\s*\|\s*\|\s*[-–—]\s*\|\s*", stripped):
-                continue
-            if re.fullmatch(r"\s*(?:[-*+ ]|[0-9]+[.)])\s*", stripped):
-                continue
-
-            cleaned_line = re.sub(r"\\+\|-[ \t]*(?=\r?\n?$)", "", cleaned_line)
-            template_link = (
-                r"\*\*Template:(?:pic link plain|iconlink(?: plain)?)\*\*"
-                r"(\[[^\]\n]+\]\([^)]+\))\*\*"
-            )
-            cleaned_line = re.sub(
-                template_link, r"\1", cleaned_line, flags=re.IGNORECASE
-            )
-            cleaned_line = re.sub(
-                r"\*{0,2}Template:(?:pic link plain|iconlink(?: plain)?)\*{0,2}",
-                "",
-                cleaned_line,
-                flags=re.IGNORECASE,
-            )
-            cleaned_line = re.sub(
-                r"(?m)^(\s*[-*+]\s*),[ \t]*",
-                r"\1",
-                cleaned_line,
-            )
-            if re.fullmatch(r"\s*\|\s*(?:\|\s*)+\s*", cleaned_line.strip()):
-                continue
-            if re.fullmatch(r"\s*(?:[-*+]|\d+[.)])\s*", cleaned_line.strip()):
-                continue
-        output.append(cleaned_line)
+        if fence is None and _is_leaked_wikitext_table_artifact(line):
+            continue
+        cleaned_line = (
+            _clean_wikitext_artifact_line(line) if fence is None else line
+        )
+        if cleaned_line:
+            output.append(cleaned_line)
     return "".join(output)
-
 
 def _strip_empty_gallery_sections(value: str) -> str:
     """Remove Gallery headings that have no content and their matching TOC entries."""

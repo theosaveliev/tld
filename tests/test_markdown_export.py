@@ -839,6 +839,32 @@ def test_image_table_removes_raw_file_wrapper_and_repeated_alt_captions() -> Non
     assert "_Exit_" not in markdown
 
 
+def test_markdown_images_get_readable_alt_text_from_filename() -> None:
+    image = lhtml.fragment_fromstring(
+        '<img src="../assets/Energy_Boost_icon.png" '
+        'alt="Energy_Boost_icon.png" />'
+    )
+    empty_alt_image = lhtml.fragment_fromstring(
+        '<img src="../assets/Blood_Loss_icon.png" alt="" />'
+    )
+    no_alt_image = lhtml.fragment_fromstring(
+        '<img src="../assets/Cooking_Pot_icon.png" />'
+    )
+
+    assert (
+        markdown_export_module._markdown_image(image)
+        == "![Energy Boost icon](../assets/Energy_Boost_icon.png)"
+    )
+    assert (
+        markdown_export_module._markdown_image(empty_alt_image)
+        == "![Blood Loss icon](../assets/Blood_Loss_icon.png)"
+    )
+    assert (
+        markdown_export_module._markdown_image(no_alt_image)
+        == "![Cooking Pot icon](../assets/Cooking_Pot_icon.png)"
+    )
+
+
 def test_image_bearing_infobox_renders_images_outside_pipe_tables(
     monkeypatch: pytest.MonkeyPatch,
 ) -> None:

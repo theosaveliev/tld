@@ -1039,14 +1039,16 @@ def _is_leaked_wikitext_table_artifact(line: str) -> bool:
 
 
 def _strip_missing_template_labels(line: str) -> str:
-    """Remove leaked link/icon template labels while retaining a following link."""
+    """Remove leaked template labels while retaining a following Markdown link."""
+    link_templates = r"(?:pic link(?: plain)?|iconlink(?: plain)?)"
     template_link = (
-        r"\*\*Template:(?:pic link plain|iconlink(?: plain)?)\*\*"
+        rf"\*\*Template:{link_templates}\*\*"
         r"(\[[^\]\n]+\]\([^)]+\))\*\*"
     )
     cleaned = re.sub(template_link, r"\1", line, flags=re.IGNORECASE)
     return re.sub(
-        r"\*{0,2}Template:(?:pic link plain|iconlink(?: plain)?|quote2|stub)\*{0,2}",
+        r"\*{0,2}Template:(?:pic link(?: plain)?|iconlink(?: plain)?|"
+        r"quote2|stub|update history|reflist)\*{0,2}",
         "",
         cleaned,
         flags=re.IGNORECASE,
@@ -1179,6 +1181,9 @@ def _clean_wikitext_artifact_line(line: str) -> str:
     )
     cleaned = _strip_missing_template_labels(cleaned)
     cleaned = re.sub(r"(?m)^(\s*[-*+]\s*),[ \t]*", r"\1", cleaned)
+    heading = re.fullmatch(r"\s*(={2,6})\s*(.*?)\s*\1\s*", cleaned.strip())
+    if heading is not None:
+        return f"{'#' * len(heading.group(1))} {heading.group(2).strip()}"
     return _strip_empty_markup_rows(cleaned)
 
 
@@ -2192,6 +2197,45 @@ def _render_recipe_infobox_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     return "\n\n".join(blocks) if blocks else _render_infobox_table(rows)
 
 
+def _table_has_list_content(rows: list[list[lhtml.HtmlElement]]) -> bool:
+    """Return whether a table contains a list that cannot fit in a pipe-table cell."""
+    return any(
+        _html_tag(child) in {"ul", "ol"}
+        for row in rows
+        for cell in row
+        for child in cell.iter()
+    )
+
+
+def _render_list_content_table(rows: list[list[lhtml.HtmlElement]]) -> str:
+    """Render list-bearing table cells as standalone Markdown blocks."""
+    blocks = [
+        rendered
+        for row in rows
+        for cell in row
+        if (rendered := _render_html_children(cell).strip())
+    ]
+    return "\n\n".join(blocks)
+
+
+def _table_cell_has_block_layout(cell: lhtml.HtmlElement) -> bool:
+    """Identify one-cell wrappers whose descendants need block-level rendering."""
+    block_tags = {
+        "div",
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+        "ol",
+        "p",
+        "table",
+        "ul",
+    }
+    return any(_html_tag(child) in block_tags for child in cell.iterdescendants())
+
+
 def _render_generic_table(rows: list[list[lhtml.HtmlElement]]) -> str:
     """Convert ordinary HTML tables to Markdown, dropping empty spacer columns."""
     rendered_rows = [[_markdown_table_cell(cell) for cell in row] for row in rows]
@@ -2241,7 +2285,7 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
         return f"**{caption}**" if caption else ""
     if len(rows) == 1 and len(rows[0]) == 1:
         cell = rows[0][0]
-        if any(_html_tag(child) == "table" for child in cell.iterdescendants()):
+        if _table_cell_has_block_layout(cell):
             content = _render_html_children(cell)
             return f"**{caption}**\n\n{content}" if caption and content else content
 
@@ -2258,6 +2302,8 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
         table = _render_generic_table(rows)
     elif _is_recipe_infobox(rows):
         table = _render_recipe_infobox_table(rows)
+    elif _table_has_list_content(rows):
+        table = _render_list_content_table(rows)
     elif has_images:
         table = _render_image_layout_table(rows)
     else:
@@ -2477,6 +2523,11 @@ def _contains_custom_render_table(fragment: str) -> bool:
     return any(
         {"gallery", "uses-material-list"} & set((table.get("class") or "").split())
         or any(_html_tag(child) == "img" for child in table.iter())
+        or _table_has_list_content(_table_rows(table))
+        or any(
+            len(row) == 1 and _table_cell_has_block_layout(row[0])
+            for row in _table_rows(table)
+        )
         or any(
             sum(_html_tag(cell) in {"td", "th"} for cell in row)
             > WIDE_TABLE_COLUMN_THRESHOLD

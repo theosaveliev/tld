@@ -2131,3 +2131,24 @@ def test_export_renders_original_source_if_expanded_wikitext_stays_invalid(
     assert not output.startswith("> ")
     assert expansion_errors == 0
     assert conversion_errors == 0
+
+
+def test_headerless_table_gets_stable_column_labels() -> None:
+    fragment = """<table><tbody>
+<tr><td><ul><li>East</li><li>West</li></ul></td><td>North</td></tr>
+</tbody></table>"""
+    markdown = _html_fragment_to_markdown(fragment)
+    assert markdown.startswith("| Column 1 | Column 2 |")
+    assert "| - East<br>- West | North |" in markdown
+
+
+def test_grouped_table_headers_merge_plain_text_subheaders() -> None:
+    fragment = """<table><tbody>
+<tr><th>Weapon</th><th>Weapon</th><th>Critical Hit Chance</th><th>Critical Hit Chance</th></tr>
+<tr><td>Head</td><td>Neck</td><td>Torso</td><td>Hips</td></tr>
+<tr><td>Rifle</td><td>15%</td><td>5%</td><td>3%</td></tr>
+</tbody></table>"""
+    markdown = _html_fragment_to_markdown(fragment)
+    assert "| Weapon — Head | Weapon — Neck |" in markdown
+    assert "| Critical Hit Chance — Torso | Critical Hit Chance — Hips |" in markdown
+    assert "| Rifle | 15% | 5% | 3% |" in markdown

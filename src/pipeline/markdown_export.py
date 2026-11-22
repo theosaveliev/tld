@@ -1097,6 +1097,8 @@ def _append_wikitext_quote(
     if attribution:
         output.extend([">", "> — " + attribution])
     if trailing_text.strip():
+        if output and output[-1].strip():
+            output.append("")
         output.append(trailing_text.strip())
 
 

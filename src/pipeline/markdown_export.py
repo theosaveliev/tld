@@ -50,6 +50,7 @@ BACKTICK = chr(96)
 TABLE_CELL_LIST_BREAK_THRESHOLD = 8
 MINIMUM_SUBHEADER_CELL_COUNT = 2
 MAXIMUM_SUBHEADER_TEXT_LENGTH = 40
+WIKITEXT_IMAGEMAP_CAPTION_PART_COUNT = 5
 CHANGELOG_ARCHIVE_TWO_START_MINOR = 50
 MISSING_EARLY_ACCESS_VERSION_FRAGMENTS = frozenset({"0.00", "0.01"})
 MARKDOWN_IMAGE_RE = re.compile(
@@ -848,7 +849,11 @@ def _imagemap_file_markup(header: str) -> str:
         return ""
 
     display_options = [part.strip() for part in parts[1:4] if part.strip()]
-    caption = parts[4].strip() if len(parts) == 5 else ""
+    caption = (
+        parts[4].strip()
+        if len(parts) == WIKITEXT_IMAGEMAP_CAPTION_PART_COUNT
+        else ""
+    )
     caption = re.sub(
         r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]",
         lambda item: item.group(2) or item.group(1),

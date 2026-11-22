@@ -115,6 +115,7 @@ In Interloper experience, recovering condition during sleep is **_seriously_**re
 
 Sleeping in a typical bed or Bear Skin Bedroll:
 
+| Column 1 | Column 2 | Column 3 | Column 4 |
 | --- | --- | --- | --- |
 | Hour | Restores - interloper | Total Condition | ^100% From |
 | 1 | 1% | +1% | 99% |
@@ -133,6 +134,7 @@ Sleeping in a typical bed or Bear Skin Bedroll:
 
 Sleeping in a cloth [bedroll](./Bedroll.md);
 
+| Column 1 | Column 2 | Column 3 | Column 4 |
 | --- | --- | --- | --- |
 | Hour | Restores - interloper | Total Condition | ^100% From |
 | 1 | 1% | +1% | 99% |
@@ -173,6 +175,7 @@ If all [needs](./Needs.md) are met, meaning their bars are not empty, sleep also
 
 #### Health restoration in a typical bed
 
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
 | Hour | Restores | Total Condition | ^100% From | Calories burned | Cal / Condition |
 | 1 | 2% | +2% | 98% | 60 | 30 |
@@ -192,6 +195,7 @@ If all [needs](./Needs.md) are met, meaning their bars are not empty, sleep also
 
 If the player sleeps at a cloth [bedroll](./Bedroll.md), the one difference is that the starting amount is 1% (thus reducing all consecutive hours by 1% each as well).
 
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
 | Hour | Restores bedroll | Total Condition | ^100% From | Calories burned | Cal / Condition |
 | 1 | 1% | +1% | 99% | 60 | 60 |
@@ -211,6 +215,7 @@ If the player sleeps at a cloth [bedroll](./Bedroll.md), the one difference is t
 
 Sleeping for 1 hour in any sort of bed besides the cloth [Bedroll](./Bedroll.md) after drinking [herbal tea](./Herbal%20Tea.md) returns 4% of condition. These numbers apply to non-Interloper difficulty levels:
 
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
 | Hour | Restores | Total Condition | ^100% From | Calories burned | Cal / Condition |
 | 1 | 4% | +4% | 96% | 60 | 15 |
@@ -224,6 +229,7 @@ Sleeping for 1 hour in any sort of bed besides the cloth [Bedroll](./Bedroll.md)
 
 If the player sleeps at a cloth [bedroll](./Bedroll.md) after drinking [herbal tea](./Herbal%20Tea.md), the one difference is that the starting amount is 3% (thus reducing all consecutive hours by 1% each as well).
 
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
 | Hour | Restores bedroll | Total Condition | ^100% From | Calories burned | Cal / Condition |
 | 1 | 3% | +3% | 97% | 60 | 20 |

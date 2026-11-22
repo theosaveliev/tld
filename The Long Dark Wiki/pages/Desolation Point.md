@@ -66,6 +66,7 @@ Desolation Point has a [explorable cave](./Cave%20%28Desolation%20Point%20locati
 
 There are 12 named locations within Desolation Point, including:
 
+| Column 1 | Column 2 |
 | --- | --- |
 | - [Abandoned Mine No. 5](./Abandoned%20Mine%20No.%205.md) (2 entrances)<br>- [Blocked Highway](./Blocked%20Highway.md)<br>- [Broken Bridge (Desolation Point location)](./Broken%20Bridge%20%28Desolation%20Point%20location%29.md)<br>- [Hibernia Processing](./Hibernia%20Processing.md)<br>- [Katie's Secluded Corner](./Katie%27s%20Secluded%20Corner.md)<br>- [Little Island](./Little%20Island.md) | - [Lonely Lighthouse](./Lonely%20Lighthouse.md)<br>- [Matt's Truck](./Matt%27s%20Truck.md)<br>- [Stone Church](./Stone%20Church.md)<br>- [The Riken](./The%20Riken.md)<br>- [Waterfall](./Waterfall.md)<br>- To No. 3 Coal Mine (Region Transition to [No. 3 Coal Mine](./No.%203%20Coal%20Mine.md)) |
 

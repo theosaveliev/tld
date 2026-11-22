@@ -87,6 +87,7 @@ A final option for a base is [Miner's Folly](./Miner%27s%20Folly.md). Most playe
 
 There are a number of discoverable locations in this region.
 
+| Column 1 | Column 2 |
 | --- | --- |
 | - [Angler's Den](./Angler%27s%20Den.md)<br>- [Bitter Marsh](./Bitter%20Marsh.md)<br>- [Broad Falls](./Broad%20Falls.md)<br>- [Climber's Cave](./Climber%27s%20Cave.md)<br>- [Fire Overlook](./Fire%20Overlook.md)<br>- [Foreman's Retreat](./Foreman%27s%20Retreat.md)<br>- [Gold Mine](./Gold%20Mine.md)<br>- [High Meadow](./High%20Meadow.md)<br>- [Homesteader's Respite](./Homesteader%27s%20Respite.md)<br>- [Long Falls](./Long%20Falls.md)<br>- [Pillar's Footrest](./Pillar%27s%20Footrest.md) | - [Miner's Folly](./Miner%27s%20Folly.md)<br>- [Mining Camp](./Mining%20Camp.md)<br>- [Narrow Falls Cave](./Narrow%20Falls%20Cave.md)<br>- [Runaway Bridge](./Runaway%20Bridge.md)<br>- [Shattered Cove](./Shattered%20Cove.md)<br>- [Stone Shelf Cave](./Stone%20Shelf%20Cave.md)<br>- [Wolf's Jaw Overlook](./Wolf%27s%20Jaw%20Overlook.md)<br>- To Cave System (Region Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md))<br>- To Timberwolf Mountain (Region Transition to [Timberwolf Mountain](./Timberwolf%20Mountain.md)) |
 

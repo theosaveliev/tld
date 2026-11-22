@@ -65,6 +65,7 @@ The main challenges to long-term survival in this region is the weather, as the 
 
 There are several accessible locations within Forlorn Muskeg including:
 
+| Column 1 | Column 2 |
 | --- | --- |
 | - [Abandoned Camp](./Abandoned%20Camp.md)<br>- [Bunkhouses](./Bunkhouses.md)<br>- [Hat Creek](./Hat%20Creek.md)<br>- [High Blind](./High%20Blind.md)<br>- [Low Blind](./Low%20Blind.md)<br>- [Marsh Ridge](./Marsh%20Ridge.md)<br>- [Muskeg Overlook](./Muskeg%20Overlook.md)<br>- [Old Bear's Den](./Old%20Bear%27s%20Den.md) (Wintermute [Episode 2](./Episode%202%20-%20Luminance%20Fugue.md) Only)<br>- [Old Spence Family Homestead](./Old%20Spence%20Family%20Homestead.md) | - [Poacher's Camp](./Poacher%27s%20Camp.md)<br>- [Shortwave Tower (North)](./Shortwave%20Tower.md)<br>- [Shortwave Tower West](./Shortwave%20Tower%20West.md)<br>- [Shortwave Tower East](./Shortwave%20Tower%20East.md) (Muskeg Overlook)<br>- To Broken Railway (Transition to [Broken Railroad](./Broken%20Railroad.md))<br>- To Cave System (Transition to [Bleak Inlet](./Bleak%20Inlet.md))<br>- To Mountain Town (Milton) (Transition to [Mountain Town](./Mountain%20Town.md))<br>- To Mystery Lake (Transition to [Mystery Lake](./Mystery%20Lake%20%28disambiguation%29.md))<br>- [Waterfall (Forlorn Muskeg)](./Waterfall%20%28Forlorn%20Muskeg%29.md) |
 

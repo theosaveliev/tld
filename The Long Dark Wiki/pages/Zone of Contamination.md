@@ -77,6 +77,7 @@ The region has 2 vista locations: one is located at a cliff with a picnic table 
 
 There are a number of locations in the Zone of Contamination, including:
 
+| Column 1 | Column 2 |
 | --- | --- |
 | - [Boss's Settlement](./Boss%27s%20Settlement.md)<br>- [Bountiful Overlook](./Bountiful%20Overlook.md)<br>- [Concentrator](./Concentrator.md)<br>- [Conveyor Room](./Conveyor%20Room.md)<br>- [Craggy Passage](./Craggy%20Passage.md)<br>- [Desperate Elevation](./Desperate%20Elevation.md)<br>- [Dubious Overlook](./Dubious%20Overlook.md)<br>- [Enduring Waterfall](./Enduring%20Waterfall.md)<br>- [Flagman's Gap](./Flagman%27s%20Gap.md)<br>- [Forgotten Exploration](./Forgotten%20Exploration.md)<br>- [Harrowed Residence](./Harrowed%20Residence.md)<br>- [Headframe Building](./Headframe%20Building.md)<br>- [Idle Camp](./Idle%20Camp.md) | - [Indolent Hoppers](./Indolent%20Hoppers.md)<br>- [Langston Mine](./Langston%20Mine.md)<br>- [Miner's Footpath](./Miner%27s%20Footpath.md)<br>- [Old Corral](./Old%20Corral.md)<br>- [Overladen Pond](./Overladen%20Pond.md)<br>- [Pump House](./Pump%20House.md)<br>- [Smoker's Cave](./Smoker%27s%20Cave.md)<br>- [Scaffolder's Hideout](./Scaffolder%27s%20Hideout.md)<br>- To Cave System (Region Transition to [Forsaken Airfield](./Forsaken%20Airfield.md)/[Sundered Pass](./Sundered%20Pass.md))<br>- To Transfer Pass (Region Transition to [Transfer Pass](./Transfer%20Pass.md))<br>- [Turbulent Pasture](./Turbulent%20Pasture.md)<br>- [Unquenched Extraction](./Unquenched%20Extraction.md)<br>- [Welkin's Window](./Welkin%27s%20Window.md) |
 

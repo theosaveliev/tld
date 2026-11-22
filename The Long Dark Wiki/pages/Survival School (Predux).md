@@ -62,9 +62,8 @@ Due to its overwhelmingly negative impact on breaking the pace of the game (espe
 
 ## Walkthrough
 
-| Mission details | Mission details |
+| Mission details — Mission length | Mission details — Medium |
 | --- | --- |
-| Mission length | Medium |
 | Start location | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |
 | Enemies to kill | 1-2 [Deer](./Deer.md) |
 

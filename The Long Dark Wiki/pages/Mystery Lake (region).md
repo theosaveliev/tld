@@ -63,6 +63,7 @@ Arguably the largest base location in the game, the dam offers almost limitless 
 
 There are many accessible locations within Mystery Lake, including:
 
+| Column 1 | Column 2 |
 | --- | --- |
 | - [Alan's Cave](./Alan%27s%20Cave.md)<br>- [Camp Office](./Camp%20Office.md)<br>- [Carter Hydro Dam](./Carter%20Hydro%20Dam.md)<br>- [Clearcut](./Clearcut.md)<br>- [Dave's Quiet Clearing](./Dave%27s%20Quiet%20Clearing.md)<br>- [Deadfall Area](./Deadfall%20Area.md)<br>- [Derailment](./Derailment.md)<br>- [Destroyed Lookout](./Destroyed%20Lookout.md)<br>- [Forestry Lookout](./Forestry%20Lookout.md)<br>- [Frozen Creek](./Frozen%20Creek.md)<br>- [Ice Fishing Huts](./Ice%20Fishing%20Huts.md) | - [Lake Overlook](./Lake%20Overlook.md)<br>- [Lake Trail](./Lake%20Trail.md)<br>- [Logging Camp](./Logging%20Camp.md)<br>- [Max's Last Stand](./Max%27s%20Last%20Stand.md)<br>- [Rail Tunnel](./Rail%20Tunnel.md)<br>- To Cave System (Transition to [Mountain Town](./Mountain%20Town.md))<br>- To Forlorn Muskeg (Transition to [Forlorn Muskeg](./Forlorn%20Muskeg.md))<br>- To Ravine (Transition to [The Ravine](./The%20Ravine.md))<br>- [Train Loading Area](./Train%20Loading%20Area.md)<br>- [Trapper's Homestead](./Trapper%27s%20Homestead.md)<br>- [Unnamed Pond](./Unnamed%20Pond.md) |
 

@@ -70,9 +70,8 @@ Critical hits are random occurrences but are more likely in designated critical 
 
 Direct hits to an animal with a rifle round that are not critical will cause bleeding wounds. Animals will bleed out according to which area they were shot in last. Multiple shots to the same area will not make the animal bleed out any faster. However, shooting an animal in an area that bleeds faster than a previous wound it has already received will cause it to bleed out as if the faster wound were caused when the first wound was.
 
-|  | Hit zone | Hit zone | Hit zone | Hit zone |
+| Animal | Hit zone — Head | Hit zone — Chest | Hit zone — Hind | Hit zone — Foot |
 | --- | --- | --- | --- | --- |
-| Animal | Head | Chest | Hind | Foot |
 | [Rabbit](./Rabbit.md) | Instant | Instant | Instant | Instant |
 | [Deer](./Deer.md) | Instant | 45 minutes | 60 minutes | 240 minutes |
 | [Wolf](./Wolf.md) | Instant | Instant | 60 minutes | 120 minutes |

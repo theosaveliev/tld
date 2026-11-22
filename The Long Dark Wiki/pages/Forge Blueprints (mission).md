@@ -39,9 +39,8 @@ This mission was cut from the game, with [Forge](./Forge.md) blueprints being av
 
 ## Walkthrough
 
-| Mission details | Mission details |
+| Mission details — Mission length | Mission details — Short |
 | --- | --- |
-| Mission length | Short |
 | Start location | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |
 
 ### Trust

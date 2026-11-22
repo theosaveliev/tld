@@ -53,9 +53,8 @@ Survivor's skill level also affects the freeze level at which unfrozen meat harv
 
 This makes Hatchets &amp; Hacksaws good starting tools for meat harvesting, since they have better frozen meat harvesting speed, but end up losing that situational bonus at higher levels, and as such get completely outclassed by hunting knives at skill level 5.
 
-| Tool | Tool | Harvest rate<br>(minutes per kg) | Harvest rate<br>(minutes per kg) | Harvest rate<br>(minutes per unit) | Harvest rate<br>(minutes per unit) | Tool decay<br>(per hour) |
+| Tool — Meat | Tool — Frozen Meat | Harvest rate<br>(minutes per kg) — Hide | Harvest rate<br>(minutes per kg) — Gut | Harvest rate<br>(minutes per unit) | Harvest rate<br>(minutes per unit) | Tool decay<br>(per hour) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Meat | Frozen Meat | Hide | Gut |  |  |  |
 | ![Anywhere icon](../assets/Anywhere_icon.png) | Bare Hand | 30.0 | N/A | 40.0 | 40.0 | None |
 | ![Hacksaw icon](../assets/Hacksaw_icon.png) | [Hacksaw](./Hacksaw.md) | 15.0 | 10.0 | 60.0 | 30.0 | 1.0% |
 | ![Hatchet icon](../assets/Hatchet_icon.png) | [Hatchet](./Hatchet.md) | 15.0 | 10.0 | 45.0 | 20.0 | 1.0% |

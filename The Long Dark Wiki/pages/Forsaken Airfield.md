@@ -116,6 +116,7 @@ Near the edges of the large central plain, the region features more uneven terra
 
 ## Locations
 
+| Column 1 | Column 2 |
 | --- | --- |
 | - [Archie's Crawlspace](./Archie%27s%20Crawlspace.md)<br>- [Brittle Cave](./Brittle%20Cave.md)<br>- [Bunker Omega](./Bunker%20Omega.md)<br>- [Cargomaster's Trailer](./Cargomaster%27s%20Trailer.md)<br>- [Control Tower](./Control%20Tower.md)<br>- [Cove](./Cove.md)<br>- [Drift Island](./Drift%20Island.md)<br>- [Fallow Dugout](./Fallow%20Dugout.md)<br>- [Final Approach](./Final%20Approach.md)<br>- [Frost Cave](./Frost%20Cave.md)<br>- [Hangar Basement](./Hangar%20Basement.md)<br>- [Island Cottage](./Island%20Cottage.md)<br>- [Junker's Paddock](./Junker%27s%20Paddock.md) | - [Justy's Hovel](./Justy%27s%20Hovel.md)<br>- [Grip's Cave](./Grip%27s%20Cave.md)<br>- [Main Hangar](./Main%20Hangar.md)<br>- [Mindful Cabin](./Mindful%20Cabin.md)<br>- [Shoulder Lake](./Shoulder%20Lake.md)<br>- [Spotter's Blind](./Spotter%27s%20Blind.md)<br>- [Sudden Washout](./Sudden%20Washout.md)<br>- [Surveyor's Memory](./Surveyor%27s%20Memory.md)<br>- [Stony Passage](./Stony%20Passage.md)<br>- [Terminal](./Terminal.md)<br>- [Whealy's Turn](./Whealy%27s%20Turn.md)<br>- To Cave System (Region Transition to [Sundered Pass](./Sundered%20Pass.md)/[Zone of Contamination](./Zone%20of%20Contamination.md))<br>- To Transfer Pass (Region Transition to [Transfer Pass](./Transfer%20Pass.md)) |
 

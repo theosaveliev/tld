@@ -56,6 +56,7 @@ To start a fire, players have to "use" an existing [firebox](#contained-fires) o
 
 Burn times are increased with higher levels of the [Fire Starting](./Fire%20Starting.md) skill, shown below (times rounded to nearest half-minute).
 
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
 | --- | --- | --- | --- | --- |
 | Fuel / Firestarting Level | Level 1 | Level 2-3 (+10%) | Level 4 (+25%) | Level 5 (+50%) |
 | [Book](./Book.md) | 18 mins | 20 mins | 22.5 mins | 27 mins |
@@ -80,6 +81,7 @@ A campfire is an open fire that can be placed into the world at the player's dis
 
 ![Fire barrel](../assets/Fire_barrel.png) Contained fires offer the benefits of relatively safe firestarting positions in unlikely places, such as indoors. Contained fires cannot become windblown and are unaffected by the weather.
 
+| Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
 | Firebox | Cooking slots | Location(s) |
 | [Campfire](./Campfire.md) | 2 | Placed by the player indoors, [St. Christopher's Church](./St.%20Christopher%27s%20Church.md), inside some caves |

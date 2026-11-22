@@ -1,6 +1,6 @@
 # Supply Cache
 
-**Categories:** DLC Content, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Supply_Cache)
+**Categories:** DLC Content, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Supply_Cache)
 
 **Contents**
 
@@ -233,9 +233,8 @@ Note these caches require fixing the Blackrock [Transmitter](./Transmitters.md),
 
 [Source](https://thelongdark.fandom.com/wiki/User:Nanavern) (from version 2.40)
 
-| Region | Coordinates | Coordinates | [Pilgrim](./Pilgrim.md), [Voyageur](./Voyageur.md), [Stalker](./Stalker.md) | [Pilgrim](./Pilgrim.md), [Voyageur](./Voyageur.md), [Stalker](./Stalker.md) | [Interloper](./Interloper.md), [Misery](./Misery.md) | [Interloper](./Interloper.md), [Misery](./Misery.md) |
+| Region — X | Coordinates — Y | Coordinates — Loot Table | [Pilgrim](./Pilgrim.md), [Voyageur](./Voyageur.md), [Stalker](./Stalker.md) — Type | [Pilgrim](./Pilgrim.md), [Voyageur](./Voyageur.md), [Stalker](./Stalker.md) — Loot Table | [Interloper](./Interloper.md), [Misery](./Misery.md) — Type | [Interloper](./Interloper.md), [Misery](./Misery.md) |
 | --- | --- | --- | --- | --- | --- | --- |
-| X | Y | Loot Table | Type | Loot Table | Type |  |
 | [Ash Canyon](./Ash%20Canyon.md) | -564.85 | 153.98 | 1 | Tools | 1 | Craft |
 | [Ash Canyon](./Ash%20Canyon.md) | 4.46 | 467.16 | 2 | Clothes | 2 | Craft |
 | [Ash Canyon](./Ash%20Canyon.md) | -172.49 | -21 | 3 | Food | 3 | Craft |

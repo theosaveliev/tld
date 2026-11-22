@@ -40,9 +40,8 @@ Episode
 
 ## Walkthrough
 
-| Mission details | Mission details |
+| Mission details — Start location | Mission details — Blackrock Federal Penitentiary |
 | --- | --- |
-| Start location | Blackrock Federal Penitentiary |
 | Significant locations | [Cutty's Cave](./Cutty%27s%20Cave.md) |
 | Items recommended | stones, flares |
 

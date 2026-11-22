@@ -109,9 +109,8 @@ Critical hits are random occurrences, but are more likely in an animal's designa
 
 Direct hits to an animal with an arrow that are not a critical hit will cause a bleeding wound. Animals will bleed out according to which area they were shot in. Multiple shots to the same area will not make the animal bleed out any faster. However, shooting an animal in an area that bleeds faster than a previous wound it has already received will cause the timer to reset and the amount of time to bleed out changes to the amount of time required for the new wound. This makes it beneficial to just wait in most cases, especially when shooting again could provoke the animal to attack, or flee meaning the animal would have to be tracked down again. Also, waiting via sleeping, passing the time, reading, etc. counts as time towards bleeding out, but the animal will move at an accelerated speed so will wander just as far as if you had waited in real-time.
 
-|  | Hit zone | Hit zone | Hit zone | Hit zone |
+| Animal | Hit zone — Head | Hit zone — Chest | Hit zone — Hind | Hit zone — Foot |
 | --- | --- | --- | --- | --- |
-| Animal | Head | Chest | Hind | Foot |
 | [Ptarmigan](./Ptarmigan.md) | Instant | Instant | Instant | Instant |
 | [Rabbit](./Rabbit.md) | Instant | Instant | Instant | Instant |
 | [Deer](./Deer.md) | 20 minutes | 25 minutes | 40 minutes | 120 minutes |

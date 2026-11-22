@@ -16,6 +16,7 @@ This achievement is obtained after applying three types of natural first aid to 
 
 The types of natural medicines and the afflictions they treat are:
 
+| Column 1 | Column 2 |
 | --- | --- |
 | **First aid** | **Treatment for** |
 | [Old Man's Beard Wound Dressing](./Old%20Man%27s%20Beard%20Wound%20Dressing.md) | • [Infection Risk](./Afflictions.md#Infection_Risk) |

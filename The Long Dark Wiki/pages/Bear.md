@@ -184,9 +184,8 @@ Critical hits cause the animal to instantly die after being hit by a shot. The f
 
 The critical-% for flare gun seem to be currently bugged (i.e. defaulting to rifle bleed-out numbers)
 
-| Weapon | Weapon | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance | Critical Hit Chance |
+| Weapon — Head | Weapon — Neck | Critical Hit Chance — Torso | Critical Hit Chance — Hips | Critical Hit Chance — Limb | Critical Hit Chance | Critical Hit Chance |
 | --- | --- | --- | --- | --- | --- | --- |
-| Head | Neck | Torso | Hips | Limb |  |  |
 | ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 15% | 10% | 5% | 3% | 3% |
 | ![Distress Pistol icon](../assets/Distress_Pistol_icon.png) | [Distress Pistol](./Distress%20Pistol.md) | 60% | 90% | Guaranteed | Guaranteed | Guaranteed |
 | ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 15% | 10% | 5% | 3% | 3% |
@@ -198,9 +197,8 @@ All shots that cause blood loss are lethal, but may take many hours based on whi
 
 ### Bleed Out
 
-| Weapon | Weapon | Bleed Out | Bleed Out | Bleed Out | Bleed Out | Bleed Out |
+| Weapon — Head | Weapon — Neck | Bleed Out — Torso | Bleed Out — Hips | Bleed Out — Limb | Bleed Out | Bleed Out |
 | --- | --- | --- | --- | --- | --- | --- |
-| Head | Neck | Torso | Hips | Limb |  |  |
 | ![Revolver icon](../assets/Revolver_icon.png) | [Revolver](./Revolver.md) | 80 min | 120 min | 320 min | 480 min | 640 min |
 | ![Hunting Rifle icon](../assets/Hunting_Rifle_icon.png) | [Hunting Rifle](./Hunting%20Rifle.md) | 60 min | 90 min | 240 min | 360 min | 480 min |
 | ![Survival Bow icon](../assets/Survival_Bow_icon.png) | [Survival Bow](./Survival%20Bow.md) | 45 min | 60 min | 375 min | 240 min | 240 min |

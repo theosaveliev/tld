@@ -33,9 +33,8 @@ Episode
 
 ## Walkthrough
 
-| Mission details | Mission details |
+| Mission details — Start location | Mission details — Blackrock Federal Penitentiary |
 | --- | --- |
-| Start location | Blackrock Federal Penitentiary |
 | Significant locations | The Mine |
 | Items recommended | [rifle](./Hunting%20Rifle.md), [revolver](./Revolver.md), [noisemaker](./Noisemaker.md), [Go! Energy Drink](./Go!%20Energy%20Drink.md), [Storm Lantern](./Storm%20Lantern.md) |
 

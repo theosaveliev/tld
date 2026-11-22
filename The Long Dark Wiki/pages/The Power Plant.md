@@ -39,9 +39,8 @@ Episode
 
 ## Walkthrough
 
-| Mission details | Mission details |
+| Mission details — Start location | Mission details — Blackrock Federal Penitentiary |
 | --- | --- |
-| Start location | Blackrock Federal Penitentiary |
 | Significant locations | [Power Plant](./Power%20Plant.md) |
 | Items recommended | rifle, revolver, noisemaker |
 

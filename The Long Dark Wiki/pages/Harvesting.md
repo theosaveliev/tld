@@ -1,6 +1,6 @@
 # Harvesting
 
-**Categories:** Gameplay, Interactable objects, Interactable Objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Harvesting)
+**Categories:** Gameplay, Interactable Objects, Interactable objects · **Source:** [Fandom](https://thelongdark.fandom.com/wiki/Harvesting)
 
 **Contents**
 
@@ -402,9 +402,8 @@ There are multiple Tools available in _[The Long Dark](./The%20Long%20Dark.md)_,
 
 **[Carcass Harvesting](./Carcass%20Harvesting.md)** is a Survival [Skill](./Skills.md) that is used to harvest meat, [animal fat](./Animal%20Fat.md), hides, and [guts](./Fresh%20Gut.md) from [Wildlife](./Wildlife.md). There are 9 types of harvestable animals in _[The Long Dark](./The%20Long%20Dark.md)_, and apart from [Rabbit](./Rabbit.md) and [Ptarmigan](./Ptarmigan.md), all animals can only be harvested at the location of the carcass, unless that animal has been quartered. Higher levels in the carcass harvesting skill reduce the amount of time required to harvest and increase the amount that can be harvested by hand from a frozen carcass. The following Tools affect Carcass Harvesting:
 
-| Tool | Tool | Harvest rate (minutes per kg) | Harvest rate (minutes per kg) | Harvest rate (minutes per unit) | Harvest rate (minutes per unit) | Tool decay (per hour) |
+| Tool — Meat | Tool — Frozen Meat | Harvest rate (minutes per kg) — Hide | Harvest rate (minutes per kg) — Gut | Harvest rate (minutes per unit) | Harvest rate (minutes per unit) | Tool decay (per hour) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Meat | Frozen Meat | Hide | Gut |  |  |  |
 | ![Anywhere icon](../assets/Anywhere_icon.png) | Bare Hand | 30.0 | N/A | 40.0 | 40.0 | None |
 | ![Hacksaw icon](../assets/Hacksaw_icon.png) | [Hacksaw](./Hacksaw.md) | 15.0 | 10.0 | 60.0 | 30.0 | 1.0% |
 | ![Hatchet icon](../assets/Hatchet_icon.png) | [Hatchet](./Hatchet.md) | 15.0 | 10.0 | 45.0 | 20.0 | 1.0% |

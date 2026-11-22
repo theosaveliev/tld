@@ -49,9 +49,8 @@ This mission has since been replaced by the current version of [Renewed Hope](./
 
 ## Walkthrough
 
-| Mission details | Mission details |
+| Mission details — Mission length | Mission details — Short |
 | --- | --- |
-| Mission length | Short |
 | Start location | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |
 
 This is it, the beginning of the end of the Predux Wintermute. 1 side mission will unlock for this mission, [Hank's Hatch](./Hank%27s%20Hatch.md), so complete it if you wish. Head to the [Unnamed Pond](./Unnamed%20Pond.md) to find an active fire to activate Hank's Hatch. Otherwise, go to the Carter Hydro Dam.

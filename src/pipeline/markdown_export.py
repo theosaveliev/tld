@@ -2797,8 +2797,7 @@ def _has_grouped_headers(
 
 
 def _is_plain_subheader_row(
-    row: list[lhtml.HtmlElement | None],
-    rendered_cells: dict[lhtml.HtmlElement, str],
+    row: list[lhtml.HtmlElement | None], rendered_cells: dict[lhtml.HtmlElement, str]
 ) -> bool:
     """Recognize a second header tier made of short, plain text labels."""
     cells = [cell for cell in row if cell is not None and rendered_cells[cell]]
@@ -2809,7 +2808,10 @@ def _is_plain_subheader_row(
             _html_tag(child) in {"a", "img", "ul", "ol", "table"}
             for child in cell.iterdescendants()
         )
-        if has_complex_content or len(rendered_cells[cell]) > MAXIMUM_SUBHEADER_TEXT_LENGTH:
+        if (
+            has_complex_content
+            or len(rendered_cells[cell]) > MAXIMUM_SUBHEADER_TEXT_LENGTH
+        ):
             return False
     return True
 

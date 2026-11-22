@@ -2150,7 +2150,5 @@ def test_grouped_table_headers_merge_plain_text_subheaders() -> None:
 </tbody></table>"""
     markdown = _html_fragment_to_markdown(fragment)
     assert "| Weapon — Head | Weapon — Neck |" in markdown
-    assert (
-        "| Critical Hit Chance — Torso | Critical Hit Chance — Hips |" in markdown
-    )
+    assert "| Critical Hit Chance — Torso | Critical Hit Chance — Hips |" in markdown
     assert "| Rifle | 15% | 5% | 3% |" in markdown

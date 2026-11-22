@@ -53,9 +53,8 @@ This episode has since been replaced by [The Best Defense](./The%20Best%20Defens
 
 ## Walkthrough
 
-| Mission details | Mission details |
+| Mission details — Mission length | Mission details — Long |
 | --- | --- |
-| Mission length | Long |
 | Start location | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |
 
 ### Repair the rifle

@@ -48,9 +48,8 @@ This mission has since been replaced by [The Wounded Trapper](./The%20Wounded%20
 
 ## Walkthrough
 
-| Mission details | Mission details |
+| Mission details — Mission length | Mission details — Medium |
 | --- | --- |
-| Mission length | Medium |
 | Start location | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |
 | Required items | 1 x medical supplies |
 

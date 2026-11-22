@@ -47,9 +47,8 @@ This mission was poorly received due to its unfair and confusing method of track
 
 ## Walkthrough
 
-| Mission details | Mission details |
+| Mission details — Mission length | Mission details — Medium |
 | --- | --- |
-| Mission length | Medium |
 | Start location | [Trapper's Homestead](./Trapper%27s%20Homestead.md) |
 | Enemies to kill | The [Old Bear](./Old%20Bear.md) |
 

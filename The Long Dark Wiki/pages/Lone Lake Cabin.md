@@ -20,6 +20,7 @@ Residential|-
 
 Has an interior
 
+| Column 1 | Column 2 |
 | --- | --- |
 | ![Local Legends The Lost Cave icon](../assets/Local_Legends_-_The_Lost_Cave_icon.png) | **This article's name is conjectural.**<br>Although this article is based on information contained within [The Long Dark](./The%20Long%20Dark.md), the actual name of this subject is pure conjecture |
 

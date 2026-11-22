@@ -28,7 +28,7 @@ The default output is `The Long Dark Wiki/`:
 
 ```text
 The Long Dark Wiki/
-├── Index.md
+├── index.md
 ├── pages/
 │   ├── Main Page.md
 │   └── ...
@@ -37,7 +37,7 @@ The Long Dark Wiki/
 └── conversion-report.json
 ```
 
-Open the workspace folder in Zettlr and start with `Index.md`. Article files contain plain Markdown without YAML front matter. The wiki
+Open the workspace folder in Zettlr and start with `index.md`. Article files contain plain Markdown without YAML front matter. The wiki
 title appears as the page's H1 heading, and detected categories and the source
 URL are retained as a readable Markdown metadata line. Article links are
 rewritten to the allocated local Markdown filenames, redirects resolve to

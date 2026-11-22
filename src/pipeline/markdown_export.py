@@ -29,6 +29,7 @@ if TYPE_CHECKING:
 
 REDIRECT_RE = re.compile(r"\s*#redirect\s*:?\s*\[\[([^\]|]+)", re.IGNORECASE)
 MAX_FILENAME_BYTES = 255
+MAX_REPORTED_REF_CLOSERS = 20
 INFOBOX_VALUE_CELL_COUNT = 2
 WIDE_TABLE_COLUMN_THRESHOLD = 8
 QUOTE_TABLE_CELL_COUNT = 3
@@ -83,6 +84,9 @@ WIKITEXT_SCOPE_WIDTH_RE = re.compile(
     re.IGNORECASE,
 )
 WIKITEXT_EMPTY_CELL_LINE_RE = re.compile(r"(?m)^(?P<marker>[|!])\s*$")
+WIKITEXT_NBSP_CELL_RE = re.compile(
+    r"(?im)^(?P<marker>[|!])[ \t]+&nbsp;[ \t]*(?P<line_ending>\r?)$"
+)
 LEAKED_FILE_WRAPPER_PREFIX_RE = re.compile(
     r"(?:\\)?\[(?:\\)?\[File:\s*(?:/\s*)?", re.IGNORECASE
 )
@@ -355,19 +359,19 @@ def _lookup_title_filename(title: str, title_to_filename: dict[str, str]) -> str
         if alias_filename is not None:
             return alias_filename
 
+    compact = _compact_title_key(title)
+    if compact:
+        compact_keys = [
+            key
+            for key in title_to_filename
+            if _compact_title_key(key) == compact
+        ]
+        if len({key.casefold() for key in compact_keys}) > 1:
+            return None
+
     filename = title_to_filename.get(title)
     if filename is not None:
         return filename
-
-    compact = _compact_title_key(title)
-    if compact:
-        compact_candidates = {
-            value
-            for key, value in title_to_filename.items()
-            if _compact_title_key(key) == compact
-        }
-        if len(compact_candidates) > 1:
-            return None
 
     folded = title.casefold()
     candidates = {
@@ -820,6 +824,9 @@ def _repair_malformed_wikitext_table_attributes(value: str) -> str:
             f"{match.group('tail')}"
         ),
         cleaned,
+    )
+    cleaned = WIKITEXT_NBSP_CELL_RE.sub(
+        r"\g<marker>&nbsp;\g<line_ending>", cleaned
     )
     return WIKITEXT_EMPTY_CELL_LINE_RE.sub(r"\g<marker>&nbsp;", cleaned)
 
@@ -1332,6 +1339,12 @@ def _external_interwiki_href(href: str) -> str | None:
                 safe="!()*+,-._~:",
             )
             result = f"https://en.wiktionary.org/wiki/{article}"
+        elif map_namespace is not None:
+            article = urllib.parse.quote(
+                "Map:" + urllib.parse.unquote(map_namespace.group(1)),
+                safe="!()*+,-._~:",
+            )
+            result = f"https://thelongdark.fandom.com/wiki/{article}"
         elif (
             language is not None
             and language.group(1).casefold() not in {"w", "wk"}
@@ -1343,12 +1356,6 @@ def _external_interwiki_href(href: str) -> str | None:
             result = (
                 f"https://{language.group(1).lower()}.wikipedia.org/wiki/{article}"
             )
-        elif map_namespace is not None:
-            article = urllib.parse.quote(
-                "Map:" + urllib.parse.unquote(map_namespace.group(1)),
-                safe="!()*+,-._~:",
-            )
-            result = f"https://thelongdark.fandom.com/wiki/{article}"
         else:
             return None
     return result + ("#" + fragment if separator else "")
@@ -1506,6 +1513,40 @@ def _strip_trailing_empty_markdown_sections(value: str) -> str:
     return "\n".join(lines).rstrip() + ("\n" if lines else "")
 
 
+def _advance_markdown_fence(
+    line: str, fence: tuple[str, int] | None
+) -> tuple[tuple[str, int] | None, bool]:
+    """Update fenced-code state and report whether this line is a fence marker."""
+    match = FENCED_CODE_RE.match(line)
+    if match is None:
+        return fence, False
+    marker = match.group(1)
+    if fence is None:
+        return (marker[0], len(marker)), True
+    if marker[0] == fence[0] and len(marker) >= fence[1]:
+        return None, True
+    return fence, True
+
+
+def _heading_precedes_another_anchored_heading(
+    lines: list[str], heading_index: int
+) -> bool:
+    """Return whether a heading is empty before the next anchored heading."""
+    anchor_index = heading_index + 1
+    while anchor_index < len(lines) and not lines[anchor_index].strip():
+        anchor_index += 1
+    if anchor_index >= len(lines) or not _markdown_anchor_span_ids(lines[anchor_index]):
+        return False
+
+    next_heading_index = anchor_index + 1
+    while next_heading_index < len(lines) and not lines[next_heading_index].strip():
+        next_heading_index += 1
+    return (
+        next_heading_index < len(lines)
+        and MARKDOWN_HEADING_RE.fullmatch(lines[next_heading_index]) is not None
+    )
+
+
 def _rewrite_heading_anchor_spans(value: str) -> str:
     """Replace visible empty heading spans with hidden Cambium-compatible anchors."""
     lines = value.splitlines()
@@ -1514,13 +1555,8 @@ def _rewrite_heading_anchor_spans(value: str) -> str:
     fence: tuple[str, int] | None = None
     while index < len(lines):
         line = lines[index]
-        fence_match = FENCED_CODE_RE.match(line)
-        if fence_match is not None:
-            marker = fence_match.group(1)
-            if fence is None:
-                fence = (marker[0], len(marker))
-            elif marker[0] == fence[0] and len(marker) >= fence[1]:
-                fence = None
+        fence, is_fence_line = _advance_markdown_fence(line, fence)
+        if is_fence_line:
             output.append(line)
             index += 1
             continue
@@ -1538,17 +1574,22 @@ def _rewrite_heading_anchor_spans(value: str) -> str:
         next_index = index + 1
         while next_index < len(lines) and not lines[next_index].strip():
             next_index += 1
-        if (
-            next_index >= len(lines)
-            or MARKDOWN_HEADING_RE.fullmatch(lines[next_index]) is None
-        ):
+        if next_index >= len(lines):
             output.append(line)
             index += 1
             continue
 
         heading = lines[next_index]
         heading_match = MARKDOWN_HEADING_RE.fullmatch(heading)
-        assert heading_match is not None
+        if heading_match is None:
+            output.append(line)
+            index += 1
+            continue
+
+        if _heading_precedes_another_anchored_heading(lines, next_index):
+            index = next_index + 1
+            continue
+
         label = heading_match.group("label")
         label = re.sub(r"\[([^]]+)\]\([^)]+\)", r"\1", label)
         label = re.sub(chr(96), "", label)
@@ -1590,9 +1631,8 @@ def _normalize_markdown_blank_lines(value: str) -> str:
                 fence = None
             output.append(line)
             continue
-        if fence is None and not line.strip():
-            if output and not output[-1].strip():
-                continue
+        if fence is None and not line.strip() and output and not output[-1].strip():
+            continue
         output.append(line)
     return "\n".join(output).rstrip() + "\n"
 
@@ -2158,7 +2198,7 @@ def _render_mediawiki_html(
         except Exception as exc:
             last_error = exc
             repaired_refs = _remove_pandoc_reported_ref_closer(candidate, exc)
-            if repaired_refs is None or ref_closers_removed >= 20:
+            if repaired_refs is None or ref_closers_removed >= MAX_REPORTED_REF_CLOSERS:
                 break
             candidate = repaired_refs
             ref_closers_removed += 1
@@ -2167,16 +2207,16 @@ def _render_mediawiki_html(
                 html_fragment, deferred_material_tables or {}
             )
             if ref_closers_removed:
-                return (
-                    html_fragment,
-                    "repaired",
+                recovery_note = (
                     "Recovered from malformed reference markup by removing "
                     f"{ref_closers_removed} parser-identified unmatched closing "
-                    "reference tag(s).",
+                    "reference tag(s)."
                 )
+                return html_fragment, "repaired", recovery_note
             return html_fragment, "ok", ""
 
-    assert last_error is not None
+    if last_error is None:
+        raise RuntimeError("Pandoc conversion ended without a recorded error.")
     repaired_text, repaired_tables = _repair_unclosed_mediawiki_tables(candidate)
     if (
         "unexpected end of input" in str(last_error).casefold()

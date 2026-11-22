@@ -1842,6 +1842,15 @@ def test_sanitize_expanded_wikitext_repairs_common_table_attributes() -> None:
     assert sanitized.endswith("|&nbsp;\n|}")
 
 
+def test_sanitize_expanded_wikitext_normalizes_nbsp_only_table_cells() -> None:
+    source = '{| class="wikitable"\n| &nbsp;\n|}'
+
+    sanitized = _sanitize_expanded_wikitext(source)
+
+    assert "|&nbsp;\n" in sanitized
+    assert "| &nbsp;" not in sanitized
+
+
 def test_sanitize_expanded_wikitext_ignores_reference_tags_inside_comments() -> None:
     source = (
         "<!-- <ref>commented-out opener</ref> -->\n"

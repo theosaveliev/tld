@@ -1638,9 +1638,9 @@ def _rewrite_heading_anchor_spans(value: str) -> str:
 
 
 def _normalize_markdown_list_indentation(value: str) -> str:
-    """Dedent indented root unordered lists while preserving their nested levels."""
+    """Dedent indented root unordered lists without changing ordered sublists."""
     output: list[str] = []
-    list_indents: list[int] = []
+    list_stack: list[tuple[int, bool]] = []
     base_indent = 0
     fence: tuple[str, int] | None = None
 
@@ -1648,7 +1648,7 @@ def _normalize_markdown_list_indentation(value: str) -> str:
         leading_indent = len(line) - len(line.lstrip(" "))
         fence_line = (
             line[base_indent:]
-            if list_indents and base_indent and leading_indent >= base_indent
+            if list_stack and base_indent and leading_indent >= base_indent
             else line
         )
         fence_match = FENCED_CODE_RE.match(fence_line)
@@ -1662,14 +1662,17 @@ def _normalize_markdown_list_indentation(value: str) -> str:
                 fence = None
             continue
 
-        list_match = re.match(r"^(?P<indent> *)(?P<marker>[-+*])[ \t]+", line)
+        list_match = re.match(
+            r"^(?P<indent> *)(?P<marker>[-+*]|[0-9]+[.)])[ \\t]+", line
+        )
         if list_match is not None:
             indent = len(list_match.group("indent"))
-            while list_indents and indent <= list_indents[-1]:
-                list_indents.pop()
-            if not list_indents:
-                base_indent = indent
-            list_indents.append(indent)
+            is_unordered = list_match.group("marker") in {"-", "+", "*"}
+            while list_stack and indent <= list_stack[-1][0]:
+                list_stack.pop()
+            if not list_stack:
+                base_indent = indent if is_unordered else 0
+            list_stack.append((indent, is_unordered))
             output.append(line[base_indent:])
             fence = (
                 (fence_match.group(1)[0], len(fence_match.group(1)))
@@ -1679,11 +1682,11 @@ def _normalize_markdown_list_indentation(value: str) -> str:
             continue
 
         if not line.strip():
-            output.append(line[base_indent:] if list_indents and base_indent else line)
+            output.append(line[base_indent:] if list_stack and base_indent else line)
             continue
 
         leading_indent = len(line) - len(line.lstrip(" "))
-        if list_indents and base_indent and leading_indent >= base_indent:
+        if list_stack and base_indent and leading_indent >= base_indent:
             normalized = line[base_indent:]
             output.append(normalized)
             normalized_fence = FENCED_CODE_RE.match(normalized)
@@ -1691,14 +1694,13 @@ def _normalize_markdown_list_indentation(value: str) -> str:
                 fence = (normalized_fence.group(1)[0], len(normalized_fence.group(1)))
             continue
 
-        list_indents.clear()
+        list_stack.clear()
         base_indent = 0
         output.append(line)
         if fence_match is not None:
             fence = (fence_match.group(1)[0], len(fence_match.group(1)))
 
     return "".join(output)
-
 
 def _normalize_markdown_blank_lines(value: str) -> str:
     """Collapse repeated blank lines outside fenced code blocks."""

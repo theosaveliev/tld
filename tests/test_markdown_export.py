@@ -1772,7 +1772,7 @@ def test_export_converts_html_retained_by_pandoc_to_markdown(
     )
 
     output = (pages_dir / "Sample.md").read_text(encoding="utf-8")
-    assert result["status"] == "html_fallback"
+    assert result["status"] == "ok"
     assert "**Important** article text" in output
     assert "<p>" not in output
     assert "<strong>" not in output

@@ -2502,9 +2502,7 @@ def _render_generic_table(
     """Convert ordinary HTML tables to Markdown, dropping empty spacer columns."""
 
     def render_cell(cell: lhtml.HtmlElement) -> str:
-        rendered = _markdown_table_cell(
-            cell, use_html_line_breaks=use_html_line_breaks
-        )
+        rendered = _markdown_table_cell(cell, use_html_line_breaks=use_html_line_breaks)
         return _markdown_images_as_links(rendered) if images_as_links else rendered
 
     rendered_rows = [[render_cell(cell) for cell in row] for row in rows]

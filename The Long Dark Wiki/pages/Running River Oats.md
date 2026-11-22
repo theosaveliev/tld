@@ -52,13 +52,13 @@ Skills
 
 Materials
 
-![Camber Flight Porridge](../assets/Camber_Flight_Porridge_icon.png) [Camber Flight Porridge](./Camber%20Flight%20Porridge.md)
+[Camber Flight Porridge](./Camber%20Flight%20Porridge.md)
 
 None
 
 - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) / - 4 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) / - 0.20 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.10 kg × [Running River Oats](./Running%20River%20Oats.md)
 
-![Porridge](../assets/Porridge_icon.png) [Porridge](./Porridge.md)
+[Porridge](./Porridge.md)
 
 None
 

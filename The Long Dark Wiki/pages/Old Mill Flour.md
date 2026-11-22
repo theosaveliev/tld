@@ -52,85 +52,85 @@ Skills
 
 Materials
 
-![Bannock](../assets/Bannock_icon.png) [Bannock](./Bannock.md)
+[Bannock](./Bannock.md)
 
 None
 
 - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)
 
-![Breyerhouse Pie](../assets/Breyerhouse_Pie_icon.png) [Breyerhouse Pie](./Breyerhouse%20Pie.md)
+[Breyerhouse Pie](./Breyerhouse%20Pie.md)
 
 None
 
 - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) / - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) / - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)
 
-![Pancakes](../assets/Pancakes_icon.png) [Pancakes](./Pancakes.md)
+[Pancakes](./Pancakes.md)
 
 None
 
 - 0.05 kg × [Maple Syrup](./Maple%20Syrup.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.12 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)
 
-![Peach Pie](../assets/Peach_Pie_icon.png) [Peach Pie](./Peach%20Pie.md)
+[Peach Pie](./Peach%20Pie.md)
 
 None
 
 - 0.50 kg × [Pinnacle Peaches](./Pinnacle%20Peaches.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)
 
-![Ptarmigan Pie](../assets/Ptarmigan_Pie_icon.png) [Ptarmigan Pie](./Ptarmigan%20Pie.md)
+[Ptarmigan Pie](./Ptarmigan%20Pie.md)
 
 None
 
 - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)
 
-![Ptarmigan Stew](../assets/Ptarmigan_Stew_icon.png) [Ptarmigan Stew](./Ptarmigan%20Stew.md)
+[Ptarmigan Stew](./Ptarmigan%20Stew.md)
 
 None
 
 - 0.50 kg × [Ptarmigan (Raw)](./Ptarmigan%20%28Raw%29.md) / - 0.20 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)
 
-![Rabbit Pie](../assets/Rabbit_Pie_icon.png) [Rabbit Pie](./Rabbit%20Pie.md)
+[Rabbit Pie](./Rabbit%20Pie.md)
 
 None
 
 - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)
 
-![Rabbit Stew](../assets/Rabbit_Stew_icon.png) [Rabbit Stew](./Rabbit%20Stew.md)
+[Rabbit Stew](./Rabbit%20Stew.md)
 
 None
 
 - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) / - 0.20 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)
 
-![Ranger Stew](../assets/Ranger_Stew_icon.png) [Ranger Stew](./Ranger%20Stew.md)
+[Ranger Stew](./Ranger%20Stew.md)
 
 None
 
 - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) / - 0.50 kg × [Rabbit (Raw)](./Rabbit%20%28Raw%29.md) / - 1 × [Potato](./Potato.md) / - 0.20 kg × [Carrot](./Carrot.md) / - 0.40 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)
 
-![Rose Hip Pie](../assets/Rose_Hip_Pie_icon.png) [Rose Hip Pie](./Rose%20Hip%20Pie.md)
+[Rose Hip Pie](./Rose%20Hip%20Pie.md)
 
 None
 
 - 8 × [Rose Hip](./Rose%20Hip.md) / - 0.10 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)
 
-![Thomson Family Stew](../assets/Thomson_Family_Stew_icon.png) [Thomson Family Stew](./Thomson%20Family%20Stew.md)
+[Thomson Family Stew](./Thomson%20Family%20Stew.md)
 
 None
 
 - 0.30 kg × [Canned Corn](./Canned%20Corn.md) / - 0.40 kg × [Carrot](./Carrot.md) / - 2 × [Potato](./Potato.md) / - 2 × [Reishi Mushroom](./Reishi%20Mushroom.md) / - 0.40 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)
 
-![Trout Stew](../assets/Trout_Stew_icon.png) [Trout Stew](./Trout%20Stew.md)
+[Trout Stew](./Trout%20Stew.md)
 
 None
 
 - 0.50 kg × [Rainbow Trout (Raw)](./Rainbow%20Trout%20%28Raw%29.md) / - 0.20 L × [Broth](./Broth.md) / - 0.05 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)
 
-![Venison Pie](../assets/Venison_Pie_icon.png) [Venison Pie](./Venison%20Pie.md)
+[Venison Pie](./Venison%20Pie.md)
 
 None
 
 - 0.50 kg × [Venison (Raw)](./Venison%20%28Raw%29.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.20 kg × [Old Mill Flour](./Old%20Mill%20Flour.md)
 
-![Venison Stew](../assets/Venison_Stew_icon.png) [Venison Stew](./Venison%20Stew.md)
+[Venison Stew](./Venison%20Stew.md)
 
 None
 

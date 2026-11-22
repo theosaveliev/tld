@@ -43,7 +43,7 @@ Like all other types of tinder, it does not increase the chance to successfully 
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| ![Tinder Plug](../assets/Tinder_Plug_icon.png) [Tinder Plug](./Tinder%20Plug.md) | None | - 1 × [Newsprint Roll](./Newsprint%20Roll.md) |
+| [Tinder Plug](./Tinder%20Plug.md) | None | - 1 × [Newsprint Roll](./Newsprint%20Roll.md) |
 
 ## Trivia
 

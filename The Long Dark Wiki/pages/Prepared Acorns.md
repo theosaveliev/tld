@@ -73,8 +73,8 @@ Preparing Acorns can be a time and resource-intensive process, taking 10 minutes
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| ![Acorns (Cooked)](../assets/Acorns_%28Cooked%29_icon.png) [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) | None | - 1 × [Prepared Acorns](./Prepared%20Acorns.md) / - 0.25L × [Water (Potable)](./Water%20%28Potable%29.md) |
-| ![Prepared Acorns (Large Portion)](../assets/Prepared_Acorns_%28Large_Portion%29_icon.png) [Prepared Acorns (Large Portion)](./Prepared%20Acorns%20%28Large%20Portion%29.md) | None | - 4 × [Prepared Acorns](./Prepared%20Acorns.md) |
+| [Acorns (Cooked)](./Acorns%20%28Cooked%29.md) | None | - 1 × [Prepared Acorns](./Prepared%20Acorns.md) / - 0.25L × [Water (Potable)](./Water%20%28Potable%29.md) |
+| [Prepared Acorns (Large Portion)](./Prepared%20Acorns%20%28Large%20Portion%29.md) | None | - 4 × [Prepared Acorns](./Prepared%20Acorns.md) |
 
 ## Update history
 

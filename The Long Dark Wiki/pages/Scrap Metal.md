@@ -62,22 +62,22 @@ Scrap metal can be obtained by harvesting various pieces of furniture in-game by
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| ![Arrowhead](../assets/Arrowhead_icon.png) [Arrowhead](./Arrowhead.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) |
-| ![Cougar Claw Knife](../assets/Cougar_Claw_Knife_icon.png) [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | None | - 1 × [Cougar Claw](./Cougar%20Claw.md) / - 3 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Cured Leather](./Cured%20Leather.md) |
-| ![Fishing Lure (Acorns)](../assets/Fishing_Lure_%28Acorns%29_icon.png) [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Acorns](./Acorns.md) |
-| ![Fishing Lure (Revolver Shell Casing)](../assets/Fishing_Lure_%28Revolver_Shell_Casing%29_icon.png) [Fishing Lure (Revolver Shell Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) |
-| ![Fishing Lure (Wire Bundle)](../assets/Fishing_Lure_%28Wire_Bundle%29_icon.png) [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Wires](./Wires.md) |
-| ![Fishing Tip-Up](../assets/Fishing_Tip-Up_icon.png) [Fishing Tip-Up](./Fishing%20Tip-Up.md) | None | - 2 × [Stick](./Stick.md) / - 1 × [Cloth](./Cloth.md) / - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Fishing Tackle](./Fishing%20Tackle.md) |
-| ![Framed Hockey Jersey](../assets/Framed_Hockey_Jersey_icon.png) [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Hockey Jersey](./Hockey%20Jersey.md) |
-| ![Hook](../assets/Hook_icon.png) [Hook](./Hook.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) |
-| ![Improvised Crampons](../assets/Improvised_Crampons_icon.png) [Improvised Crampons](./Improvised%20Crampons.md) | None | - 4 × [Scrap Metal](./Scrap%20Metal.md) / - 2 × [Cured Leather](./Cured%20Leather.md) |
-| ![Improvised Hatchet](../assets/Improvised_Hatchet_icon.png) [Improvised Hatchet](./Improvised%20Hatchet.md) | None | - 5 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Cloth](./Cloth.md) |
-| ![Improvised Knife](../assets/Improvised_Knife_icon.png) [Improvised Knife](./Improvised%20Knife.md) | None | - 3 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Cloth](./Cloth.md) |
-| ![Rustic Closet](../assets/Rustic_Closet_icon.png) [Rustic Closet](./Rustic%20Closet.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) / - 3 × [Reclaimed Wood](./Reclaimed%20Wood.md) / - 2 × [Scrap Metal](./Scrap%20Metal.md) |
-| ![Rustic Cupboard](../assets/Rustic_Cupboard_icon.png) [Rustic Cupboard](./Rustic%20Cupboard.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) / - 2 × [Scrap Metal](./Scrap%20Metal.md) |
-| ![Simple Fishing Lure](../assets/Simple_Fishing_Lure_icon.png) [Simple Fishing Lure](./Simple%20Fishing%20Lure.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) |
-| ![Spear Head](../assets/Spear_Head_icon.png) [Spear Head](./Spear%20Head.md) | None | - 2 × [Scrap Metal](./Scrap%20Metal.md) |
-| ![Tall Rustic Closet](../assets/Tall_Rustic_Closet_icon.png) [Tall Rustic Closet](./Tall%20Rustic%20Closet.md) | None | - 24 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) / - 2 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Arrowhead](./Arrowhead.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Cougar Claw Knife](./Cougar%20Claw%20Knife.md) | None | - 1 × [Cougar Claw](./Cougar%20Claw.md) / - 3 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Cured Leather](./Cured%20Leather.md) |
+| [Fishing Lure (Acorns)](./Fishing%20Lure%20%28Acorns%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Acorns](./Acorns.md) |
+| [Fishing Lure (Revolver Shell Casing)](./Fishing%20Lure%20%28Revolver%20Shell%20Casing%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Revolver Shell Casing](./Revolver%20Shell%20Casing.md) |
+| [Fishing Lure (Wire Bundle)](./Fishing%20Lure%20%28Wire%20Bundle%29.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Crow Feather](./Crow%20Feather.md) / - 1 × [Wires](./Wires.md) |
+| [Fishing Tip-Up](./Fishing%20Tip-Up.md) | None | - 2 × [Stick](./Stick.md) / - 1 × [Cloth](./Cloth.md) / - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Fishing Tackle](./Fishing%20Tackle.md) |
+| [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Hockey Jersey](./Hockey%20Jersey.md) |
+| [Hook](./Hook.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Improvised Crampons](./Improvised%20Crampons.md) | None | - 4 × [Scrap Metal](./Scrap%20Metal.md) / - 2 × [Cured Leather](./Cured%20Leather.md) |
+| [Improvised Hatchet](./Improvised%20Hatchet.md) | None | - 5 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Cloth](./Cloth.md) |
+| [Improvised Knife](./Improvised%20Knife.md) | None | - 3 × [Scrap Metal](./Scrap%20Metal.md) / - 1 × [Cloth](./Cloth.md) |
+| [Rustic Closet](./Rustic%20Closet.md) | None | - 18 × [Fir Firewood](./Fir%20Firewood.md) / - 3 × [Reclaimed Wood](./Reclaimed%20Wood.md) / - 2 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Rustic Cupboard](./Rustic%20Cupboard.md) | None | - 10 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) / - 2 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Simple Fishing Lure](./Simple%20Fishing%20Lure.md) | None | - 1 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Spear Head](./Spear%20Head.md) | None | - 2 × [Scrap Metal](./Scrap%20Metal.md) |
+| [Tall Rustic Closet](./Tall%20Rustic%20Closet.md) | None | - 24 × [Fir Firewood](./Fir%20Firewood.md) / - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) / - 2 × [Scrap Metal](./Scrap%20Metal.md) |
 
 ## Gallery
 

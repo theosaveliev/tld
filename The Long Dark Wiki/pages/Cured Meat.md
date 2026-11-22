@@ -38,13 +38,13 @@ Skills
 
 Materials
 
-![Pemmican Bar](../assets/Pemmican_Bar_icon.png) [Pemmican Bar](./Pemmican%20Bar.md)
+[Pemmican Bar](./Pemmican%20Bar.md)
 
 None
 
 - 0.50 kg × [Cured Meat](./Cured%20Meat.md) / - 15 × [Rose Hip](./Rose%20Hip.md) / - 0.50 kg × [Animal Fat](./Animal%20Fat.md) / - 0.05 kg × [Salt](./Salt.md)
 
-![Pemmican Bar](../assets/Pemmican_Bar_icon.png) [Pemmican Bar](./Pemmican%20Bar.md)
+[Pemmican Bar](./Pemmican%20Bar.md)
 
 None
 

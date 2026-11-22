@@ -58,8 +58,8 @@ Wolf Meat is harvested from [Wolf](./Wolf.md) and [Timberwolf](./Timberwolf.md) 
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| ![Stalker's Pie](../assets/Stalker%27s_Pie_icon.png) [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) / - 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) / - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md) |
-| ![Wolf Meat (Cooked)](../assets/Wolf_Meat_%28Cooked%29_icon.png) [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md) | None | - 1.00 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) |
+| [Stalker's Pie](./Stalker%27s%20Pie.md) | None | - 0.50 kg × [Bear Meat (Raw)](./Bear%20Meat%20%28Raw%29.md) / - 0.50 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) / - 1 × [Acorn Grounds](./Acorn%20Grounds.md) / - 0.15 L × [Water (Potable)](./Water%20%28Potable%29.md) / - 0.05 L × [Cooking Oil](./Cooking%20Oil.md) / - 0.01 kg × [Salt](./Salt.md) |
+| [Wolf Meat (Cooked)](./Wolf%20Meat%20%28Cooked%29.md) | None | - 1.00 kg × [Wolf Meat (Raw)](./Wolf%20Meat%20%28Raw%29.md) |
 
 ## Gallery
 

@@ -50,7 +50,7 @@ Skills
 
 Materials
 
-![Cougar Meat (Cooked)](../assets/Cougar_Meat_%28Cooked%29_icon.png) [Cougar Meat (Cooked)](./Cougar%20Meat%20%28Cooked%29.md)
+[Cougar Meat (Cooked)](./Cougar%20Meat%20%28Cooked%29.md)
 
 None
 

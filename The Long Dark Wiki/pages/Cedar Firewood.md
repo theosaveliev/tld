@@ -75,22 +75,22 @@ Cedar Firewood can be harvested from downed Cedar Limbs found outdoors with a [t
 
 | Item | Skills | Materials |
 | --- | --- | --- |
-| ![Carved Bear Figurine](../assets/Carved_Bear_Figurine_icon.png) [Carved Bear Figurine](./Carved%20Bear%20Figurine.md) | None | - 1 × [Cedar Firewood](./Cedar%20Firewood.md) |
-| ![Carved Cougar Figurine](../assets/Carved_Cougar_Figurine_icon.png) [Carved Cougar Figurine](./Carved%20Cougar%20Figurine.md) | None | - 1 × [Cedar Firewood](./Cedar%20Firewood.md) |
-| ![Carved Wolf Figurine](../assets/Carved_Wolf_Figurine_icon.png) [Carved Wolf Figurine](./Carved%20Wolf%20Figurine.md) | None | - 1 × [Cedar Firewood](./Cedar%20Firewood.md) |
-| ![Decorative Art](../assets/Decorative_Art_icon.png) [Decorative Art](./Decorative%20Art.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Cedar Firewood](./Cedar%20Firewood.md) / - 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| ![Decorative Art (2)](../assets/Decorative_Art_%282%29_icon.png) [Decorative Art (2)](./Decorative%20Art%20%282%29.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Cedar Firewood](./Cedar%20Firewood.md) / - 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| ![Decorative End Table](../assets/Decorative_End_Table_icon.png) [Decorative End Table](./Decorative%20End%20Table.md) | None | - 6 × [Cedar Firewood](./Cedar%20Firewood.md) |
-| ![Dresser](../assets/Dresser_icon.png) [Dresser](./Dresser.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) / - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| ![Furniture Workbench](../assets/Furniture_Workbench_icon.png) [Furniture Workbench](./Furniture%20Workbench.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) |
-| ![Rustic Bed](../assets/Rustic_Bed_icon.png) [Rustic Bed](./Rustic%20Bed.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) / - 12 × [Cloth](./Cloth.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
-| ![Rustic Bench](../assets/Rustic_Bench_icon.png) [Rustic Bench](./Rustic%20Bench.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) / - 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| ![Rustic Chair](../assets/Rustic_Chair_icon.png) [Rustic Chair](./Rustic%20Chair.md) | None | - 4 × [Cedar Firewood](./Cedar%20Firewood.md) / - 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| ![Rustic End Table](../assets/Rustic_End_Table_icon.png) [Rustic End Table](./Rustic%20End%20Table.md) | None | - 6 × [Cedar Firewood](./Cedar%20Firewood.md) / - 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
-| ![Rustic Shelf](../assets/Rustic_Shelf_icon.png) [Rustic Shelf](./Rustic%20Shelf.md) | None | - 8 × [Cedar Firewood](./Cedar%20Firewood.md) |
-| ![Rustic Storage Box](../assets/Rustic_Storage_Box_icon.png) [Rustic Storage Box](./Rustic%20Storage%20Box.md) | None | - 8 × [Cedar Firewood](./Cedar%20Firewood.md) |
-| ![Tall Rustic Shelf](../assets/Tall_Rustic_Shelf_icon.png) [Tall Rustic Shelf](./Tall%20Rustic%20Shelf.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) |
-| ![Workbench](../assets/Workbench_icon.png) Workbench | None | - 15 × [Cedar Firewood](./Cedar%20Firewood.md) / - 1 × [Workbench Vice](./Workbench%20Vice.md) |
+| [Carved Bear Figurine](./Carved%20Bear%20Figurine.md) | None | - 1 × [Cedar Firewood](./Cedar%20Firewood.md) |
+| [Carved Cougar Figurine](./Carved%20Cougar%20Figurine.md) | None | - 1 × [Cedar Firewood](./Cedar%20Firewood.md) |
+| [Carved Wolf Figurine](./Carved%20Wolf%20Figurine.md) | None | - 1 × [Cedar Firewood](./Cedar%20Firewood.md) |
+| [Decorative Art](./Decorative%20Art.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Cedar Firewood](./Cedar%20Firewood.md) / - 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Decorative Art (2)](./Decorative%20Art%20%282%29.md) | None | - 2 × [Fir Firewood](./Fir%20Firewood.md) / - 1 × [Cedar Firewood](./Cedar%20Firewood.md) / - 1 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Decorative End Table](./Decorative%20End%20Table.md) | None | - 6 × [Cedar Firewood](./Cedar%20Firewood.md) |
+| [Dresser](./Dresser.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) / - 4 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Furniture Workbench](./Furniture%20Workbench.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) |
+| [Rustic Bed](./Rustic%20Bed.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) / - 12 × [Cloth](./Cloth.md) / - 2 × [Cured Gut](./Cured%20Gut.md) |
+| [Rustic Bench](./Rustic%20Bench.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) / - 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Rustic Chair](./Rustic%20Chair.md) | None | - 4 × [Cedar Firewood](./Cedar%20Firewood.md) / - 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Rustic End Table](./Rustic%20End%20Table.md) | None | - 6 × [Cedar Firewood](./Cedar%20Firewood.md) / - 2 × [Reclaimed Wood](./Reclaimed%20Wood.md) |
+| [Rustic Shelf](./Rustic%20Shelf.md) | None | - 8 × [Cedar Firewood](./Cedar%20Firewood.md) |
+| [Rustic Storage Box](./Rustic%20Storage%20Box.md) | None | - 8 × [Cedar Firewood](./Cedar%20Firewood.md) |
+| [Tall Rustic Shelf](./Tall%20Rustic%20Shelf.md) | None | - 10 × [Cedar Firewood](./Cedar%20Firewood.md) |
+| Workbench | None | - 15 × [Cedar Firewood](./Cedar%20Firewood.md) / - 1 × [Workbench Vice](./Workbench%20Vice.md) |
 
 ## Update history
 

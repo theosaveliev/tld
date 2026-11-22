@@ -55,7 +55,7 @@ Skills
 
 Materials
 
-![Framed Hockey Jersey](../assets/Framed_Hockey_Jersey_icon.png) [Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md)
+[Framed Hockey Jersey](./Framed%20Hockey%20Jersey.md)
 
 None
 

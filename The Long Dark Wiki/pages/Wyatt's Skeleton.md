@@ -36,4 +36,3 @@ It is found in the [Trade Drop Box](./Trade%20Drop%20Box.md) after starting the 
 
 It cannot be dropped or placed in a container, so it cannot be lost.
 
-[ru:Скелет Уайетта](https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BB%D0%B5%D1%82_%D0%A3%D0%B0%D0%B9%D0%B5%D1%82%D1%82%D0%B0)

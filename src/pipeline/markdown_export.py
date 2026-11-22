@@ -1539,6 +1539,10 @@ def _markdown_anchor_span_ids(line: str) -> list[str]:
 def _strip_trailing_empty_markdown_sections(value: str) -> str:
     """Remove empty trailing headings, their aliases, and language footer links."""
     lines = value.splitlines()
+    while lines and INTERWIKI_FOOTER_LINE_RE.fullmatch(lines[-1].strip()) is not None:
+        lines.pop()
+        while lines and not lines[-1].strip():
+            lines.pop()
     while lines:
         last = len(lines) - 1
         while last >= 0 and _is_markdown_anchor_artifact_line(lines[last]):

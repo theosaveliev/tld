@@ -1645,6 +1645,18 @@ def test_page_markdown_removes_anchor_tags_comments_and_empty_sections() -> None
     assert re.search(r"\n{3,}", markdown) is None
 
 
+def test_page_markdown_removes_orphan_language_footer_after_empty_section() -> None:
+    body = (
+        "## Update History\n"
+        "[ru:Скелет Уайетта](https://ru.wikipedia.org/wiki/Wyatt)"
+    )
+
+    markdown = _page_markdown("Wyatt's Skeleton", [], body, None)
+
+    assert "## Update History" not in markdown
+    assert "[ru:" not in markdown
+
+
 def test_page_markdown_strips_raw_and_escaped_html_tags_without_dropping_text() -> None:
     body = (
         'Before<span id="fnref1"></span>after '

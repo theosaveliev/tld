@@ -310,6 +310,20 @@ def test_resolve_internal_href_routes_legacy_changelog_versions_to_archives() ->
 
 
     assert resolve_internal_href(
+        "The Long Dark/Changelog#.346", "Backpack", mapping, {}
+    ) == "./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md#0.346"
+    assert resolve_internal_href(
+        "The Long Dark/Changelog#0.321_(Tireless_Menace_Update)",
+        "Backpack",
+        mapping,
+        {},
+    ) == (
+        "./The%20Long%20Dark%20%E2%80%94%20Early%20Access%20Changelog.md"
+        "#0.321_%28Tireless_Menace_Update%29"
+    )
+
+
+    assert resolve_internal_href(
         "The Long Dark/Early Access Changelog#1.00", "Backpack", mapping, {}
     ) == (
         "./The%20Long%20Dark%20%E2%80%94%20Changelog%20%E2%80%94%20Archive%201.md"

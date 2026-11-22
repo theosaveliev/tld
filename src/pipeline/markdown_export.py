@@ -62,6 +62,23 @@ WIKITEXTPROCESSOR_ATTRIBUTE_RE = re.compile(
 WIKITEXT_REFERENCE_TAG_RE = re.compile(
     r"<(?P<closing>/)?ref\b(?P<attributes>[^>]*)>", re.IGNORECASE
 )
+WIKITEXT_COMMENT_BLOCK_RE = re.compile(r"<!--.*?(?:-->|$)", re.DOTALL)
+WIKITEXT_CLASS_STYLE_ATTRIBUTE_RE = re.compile(
+    r'(?m)(?P<prefix>\{\|[^\r\n]*?\bclass\s*=\s*"[^"\r\n]*?)'
+    r'\s+(?P<style>style\s*=\s*"[^"\r\n]*)',
+    re.IGNORECASE,
+)
+WIKITEXT_SPLIT_CELL_STYLE_RE = re.compile(
+    r'(?P<prefix>\bstyle\s*=\s*")(?P<first>[^"\r\n]*)"\s+'
+    r'(?P<extra>(?:[a-z-]+\s*:\s*[^;"|\r\n]+;?\s*)+)"(?=\s*\|)',
+    re.IGNORECASE,
+)
+WIKITEXT_SCOPE_WIDTH_RE = re.compile(
+    r'(?P<scope>\bscope\s*=\s*"col")\s+'
+    r'(?P<width>width\s*:\s*[^";|\r\n]+);(?="?\s*\|)',
+    re.IGNORECASE,
+)
+WIKITEXT_EMPTY_CELL_LINE_RE = re.compile(r"(?m)^(?P<marker>[|!])\s*$")
 LEAKED_FILE_WRAPPER_PREFIX_RE = re.compile(
     r"(?:\\)?\[(?:\\)?\[File:\s*(?:/\s*)?", re.IGNORECASE
 )
@@ -237,9 +254,17 @@ def normalize_title(title: str) -> str:
 
 def normalize_image_name(name: str) -> str:
     """Normalize a MediaWiki file target for matching dumped image files."""
-    value = urllib.parse.unquote(name).strip().replace("\\", "/")
-    value = value.rsplit("/", 1)[-1]
-    value = re.sub(r"^(?:file|image)\s*:\s*", "", value, flags=re.IGNORECASE)
+    value = html.unescape(urllib.parse.unquote(name)).strip()
+    value = value.replace("\\", "/").rsplit("/", 1)[-1]
+    value = re.sub(
+        r"^(?:\[\[)?(?:file|image|media)\s*:\s*", "", value, flags=re.IGNORECASE
+    )
+    value = re.sub(r"(?:\\?\]\])+$", "", value).strip()
+    value = "".join(
+        character
+        for character in value
+        if unicodedata.category(character) != "Cf"
+    )
     return value.replace(" ", "_").casefold()
 
 
@@ -607,27 +632,78 @@ def _strip_wikitext_literal_content(
     return visible[: opening.start()] + visible[closing_end:], None
 
 
+def _mask_wikitext_reference_ignored_regions(value: str) -> str:
+    """Mask comments and literal tags so hidden references do not affect pairing."""
+    masked = list(value)
+
+    def mask(match: re.Match[str]) -> None:
+        for position in range(match.start(), match.end()):
+            if masked[position] not in "\r\n":
+                masked[position] = " "
+
+    for match in WIKITEXT_COMMENT_BLOCK_RE.finditer(value):
+        mask(match)
+
+    for tag in ("nowiki", "pre", "source", "syntaxhighlight"):
+        pattern = re.compile(
+            rf"<{tag}\b[^>]*>.*?(?:</{tag}\s*>|$)", re.IGNORECASE | re.DOTALL
+        )
+        for match in pattern.finditer(value):
+            mask(match)
+    return "".join(masked)
+
+
 def _strip_orphan_wikitext_ref_closers(value: str) -> str:
-    """Remove reference closing tags that have no matching opening tag."""
+    """Remove reference closing tags that have no visible matching opener."""
+    scan_value = _mask_wikitext_reference_ignored_regions(value)
     depth = 0
-    output: list[str] = []
-    cursor = 0
-    for match in WIKITEXT_REFERENCE_TAG_RE.finditer(value):
+    removals: list[tuple[int, int]] = []
+    for match in WIKITEXT_REFERENCE_TAG_RE.finditer(scan_value):
         if match.group("closing"):
             if depth:
                 depth -= 1
             else:
-                output.append(value[cursor : match.start()])
-                cursor = match.end()
+                removals.append((match.start(), match.end()))
         elif not match.group("attributes").rstrip().endswith("/"):
             depth += 1
+
+    if not removals:
+        return value
+    output: list[str] = []
+    cursor = 0
+    for start, end in removals:
+        output.append(value[cursor:start])
+        cursor = end
     output.append(value[cursor:])
     return "".join(output)
 
 
+def _repair_malformed_wikitext_table_attributes(value: str) -> str:
+    """Repair common split style attributes emitted by Fandom table markup."""
+    cleaned = WIKITEXT_CLASS_STYLE_ATTRIBUTE_RE.sub(
+        r'\g<prefix>" \g<style>"', value
+    )
+
+    def join_style(match: re.Match[str]) -> str:
+        first = match.group("first").strip().rstrip(";")
+        extra = match.group("extra").strip().rstrip(";")
+        declaration = "; ".join(part for part in (first, extra) if part)
+        return f'{match.group("prefix")}{declaration};"'
+
+    cleaned = WIKITEXT_SPLIT_CELL_STYLE_RE.sub(join_style, cleaned)
+    cleaned = WIKITEXT_SCOPE_WIDTH_RE.sub(
+        lambda match: (
+            f'{match.group("scope")} style="{match.group("width").strip()};"'
+        ),
+        cleaned,
+    )
+    return WIKITEXT_EMPTY_CELL_LINE_RE.sub(r"\g<marker> &nbsp;", cleaned)
+
+
 def _sanitize_expanded_wikitext(value: str) -> str:
-    """Remove parser-internal metadata and unmatched tags before Pandoc."""
+    """Normalize parser metadata and malformed table/reference markup."""
     cleaned = WIKITEXTPROCESSOR_ATTRIBUTE_RE.sub("", value)
+    cleaned = _repair_malformed_wikitext_table_attributes(cleaned)
     return _strip_orphan_wikitext_ref_closers(cleaned)
 
 
@@ -1608,8 +1684,9 @@ def _render_mediawiki_html(
                 f"{conversion_stage} rejected expanded wikitext: {initial_error}"
             )
 
-        html_fragment = _run_pandoc(pandoc, page.text, "mediawiki", "html")
-        conversion_note = f"{conversion_note} Used the unexpanded source as a fallback."
+        source_text = _sanitize_expanded_wikitext(page.text)
+        html_fragment = _run_pandoc(pandoc, source_text, "mediawiki", "html")
+        conversion_note = f"{conversion_note} Used sanitized source as a fallback."
         return html_fragment, "raw_fallback", conversion_note
 
     html_fragment = _restore_deferred_material_tables_in_html(
@@ -2714,7 +2791,9 @@ def _render_html_table(node: lhtml.HtmlElement) -> str:
         for cell in row
         for child in cell.iter()
     )
-    use_html_line_breaks = has_images or _table_has_long_list_cell(rows)
+    use_html_line_breaks = (
+        has_images or _table_has_long_list_cell(rows) or _table_has_list_content(rows)
+    )
     table = _render_html_table_content(
         rows, table_classes, has_images, use_html_line_breaks
     )
@@ -2973,12 +3052,13 @@ def _source_html_markdown_fallback(
     page: DumpPage, pandoc: str, resources: PageExportResources
 ) -> str:
     """Render original source as HTML and normalize it to Markdown."""
+    source_text = _sanitize_expanded_wikitext(page.text)
     try:
-        html_fragment = _run_pandoc(pandoc, page.text, "mediawiki", "html")
+        html_fragment = _run_pandoc(pandoc, source_text, "mediawiki", "html")
     except Exception:
-        if not _contains_html_markup(page.text):
+        if not _contains_html_markup(source_text):
             raise
-        html_fragment = page.text
+        html_fragment = source_text
     rewritten_html, _, _ = _rewrite_page_html(html_fragment, page, resources, "")
     return _html_fragment_to_markdown(rewritten_html)
 
@@ -2992,8 +3072,9 @@ def _source_markdown_fallback(
 ) -> PageConversion:
     """Use direct source conversion, ensuring the final fallback contains Markdown."""
     conversion_stage_error = f"{conversion_stage} failed: {error}"
+    source_text = _sanitize_expanded_wikitext(page.text)
     try:
-        markdown_body = _run_pandoc(pandoc, page.text, "mediawiki", "gfm")
+        markdown_body = _run_pandoc(pandoc, source_text, "mediawiki", "gfm")
     except Exception as fallback_error:
         try:
             markdown_body = _source_html_markdown_fallback(page, pandoc, resources)

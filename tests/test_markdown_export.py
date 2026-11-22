@@ -1889,6 +1889,12 @@ def test_sanitize_expanded_wikitext_renders_imagemaps_as_images_and_region_links
     assert "imagemap" not in sanitized
     assert "rect " not in sanitized
     assert "desc none" not in sanitized
+    surrounding = _sanitize_expanded_wikitext(
+        "Before the map.\n" + source + "\nAfter the map."
+    )
+    assert "Before the map.\n\n" in surrounding
+    assert "\n\nAfter the map." in surrounding
+
 
 
 def test_sanitize_expanded_wikitext_normalizes_nbsp_only_table_cells() -> None:

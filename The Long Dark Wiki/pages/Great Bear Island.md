@@ -30,12 +30,16 @@
 - [Hushed River Valley](./Hushed%20River%20Valley.md)
 - [Bleak Inlet](./Bleak%20Inlet.md)
 - [Blackrock](./Blackrock.md)
-- [Ash Canyon](./Ash%20Canyon.md) ![A clickable map of the Far Territory](../assets/Far_Territory_Part_5_Map.jpg)
+- [Ash Canyon](./Ash%20Canyon.md)
+
+![A clickable map of the Far Territory](../assets/Far_Territory_Part_5_Map.jpg)
 
 - [Forsaken Airfield](./Forsaken%20Airfield.md)
 - [Zone of Contamination](./Zone%20of%20Contamination.md)
 - [Transfer Pass](./Transfer%20Pass.md)
-- [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)  **Great Bear Island** is a fictional island that is the main setting of [_The Long Dark_](./The%20Long%20Dark.md). The Island is geographically located off the northern-western coast of mainland [Canada](./The%20Collapse.md), and is entirely surrounded by the Pacific Ocean. It is also located inside the [Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire), resulting a higher than average amount of earthquakes.
+- [Far Range Branch Line](./Far%20Range%20Branch%20Line.md)
+
+**Great Bear Island** is a fictional island that is the main setting of [_The Long Dark_](./The%20Long%20Dark.md). The Island is geographically located off the northern-western coast of mainland [Canada](./The%20Collapse.md), and is entirely surrounded by the Pacific Ocean. It is also located inside the [Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire), resulting a higher than average amount of earthquakes.
 
  The Island is inspired by the real world [Vancouver Island](https://en.wikipedia.org/wiki/Vancouver_Island).
 

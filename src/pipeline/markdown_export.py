@@ -894,7 +894,7 @@ def _replace_wikitext_imagemaps(value: str) -> str:
             if output:
                 output.append("")
             output.extend(f"* {region}" for region in regions)
-        return "\n".join(output)
+        return "\n\n" + "\n".join(output) + "\n\n"
 
     return WIKITEXT_IMAGEMAP_RE.sub(replace, value)
 

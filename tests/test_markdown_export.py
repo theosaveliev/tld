@@ -1221,6 +1221,30 @@ The article body must remain outside the infobox.
 """
 
 
+def test_repair_unclosed_mediawiki_table_ignores_fake_heading_in_comment() -> None:
+    source = """{| class="infobox"
+|-
+| Infobox content
+<nowiki>
+== Literal heading ==
+</nowiki>
+<!--
+<nowiki>
+== Commented heading ==
+-->
+== Overview ==
+The article body must remain outside the infobox.
+"""
+
+    repaired, count = _repair_unclosed_mediawiki_tables(source)
+
+    assert count == 1
+    assert "== Literal heading ==\n</nowiki>" in repaired
+    assert "== Commented heading ==" in repaired
+    assert "|}\n== Overview ==" in repaired
+    assert "|}\n== Literal heading ==" not in repaired
+
+
 def test_repair_unclosed_mediawiki_tables_ignores_literal_and_comment_content() -> None:
     source = """<nowiki>
 {|

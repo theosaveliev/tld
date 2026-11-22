@@ -47,6 +47,8 @@ USES_MATERIAL_LIST_RE = re.compile(
 )
 BACKTICK = chr(96)
 TABLE_CELL_LIST_BREAK_THRESHOLD = 8
+MINIMUM_SUBHEADER_CELL_COUNT = 2
+MAXIMUM_SUBHEADER_TEXT_LENGTH = 40
 MARKDOWN_IMAGE_RE = re.compile(
     r"!\[(?P<label>(?:\\.|[^\]])*)\]\((?P<destination>[^)]+)\)"
 )
@@ -2800,14 +2802,14 @@ def _is_plain_subheader_row(
 ) -> bool:
     """Recognize a second header tier made of short, plain text labels."""
     cells = [cell for cell in row if cell is not None and rendered_cells[cell]]
-    if len(cells) < 2:
+    if len(cells) < MINIMUM_SUBHEADER_CELL_COUNT:
         return False
     for cell in cells:
         has_complex_content = any(
             _html_tag(child) in {"a", "img", "ul", "ol", "table"}
             for child in cell.iterdescendants()
         )
-        if has_complex_content or len(rendered_cells[cell]) > 40:
+        if has_complex_content or len(rendered_cells[cell]) > MAXIMUM_SUBHEADER_TEXT_LENGTH:
             return False
     return True
 

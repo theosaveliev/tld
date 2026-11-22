@@ -1857,6 +1857,26 @@ def test_sanitize_expanded_wikitext_repairs_common_table_attributes() -> None:
     assert sanitized.endswith("|&nbsp;\n|}")
 
 
+def test_sanitize_expanded_wikitext_renders_imagemaps_as_images_and_region_links() -> None:
+    source = (
+        "<imagemap>\n"
+        "File:Region Map.png|thumb|center|488px|Map of [[Great Bear Island]]\n"
+        "rect 0 0 10 10 [Broken Railroad]\n"
+        "rect 10 10 20 20 [Forlorn Muskeg]\n"
+        "desc none\n"
+        "</imagemap>"
+    )
+
+    sanitized = _sanitize_expanded_wikitext(source)
+
+    assert "[[File:Region Map.png|thumb|center|488px|Map of Great Bear Island]]" in sanitized
+    assert "* [[Broken Railroad]]" in sanitized
+    assert "* [[Forlorn Muskeg]]" in sanitized
+    assert "imagemap" not in sanitized
+    assert "rect " not in sanitized
+    assert "desc none" not in sanitized
+
+
 def test_sanitize_expanded_wikitext_normalizes_nbsp_only_table_cells() -> None:
     source = '{| class="wikitable"\n| &nbsp;\n|}'
 

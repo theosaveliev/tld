@@ -67,6 +67,14 @@ WIKITEXTPROCESSOR_ATTRIBUTE_RE = re.compile(
 WIKITEXT_REFERENCE_TAG_RE = re.compile(
     r"<(?P<closing>/)?ref\b(?P<attributes>[^>]*)>", re.IGNORECASE
 )
+WIKITEXT_IMAGEMAP_RE = re.compile(
+    r"<imagemap\b[^>]*>(?P<body>.*?)</imagemap\s*>",
+    re.IGNORECASE | re.DOTALL,
+)
+WIKITEXT_IMAGEMAP_RECT_RE = re.compile(
+    r"\brect\s+-?\d+\s+-?\d+\s+-?\d+\s+-?\d+\s+\[(?P<target>[^\]\r\n]+)\]",
+    re.IGNORECASE,
+)
 WIKITEXT_COMMENT_BLOCK_RE = re.compile(r"<!--.*?(?:-->|$)", re.DOTALL)
 WIKITEXT_CLASS_STYLE_ATTRIBUTE_RE = re.compile(
     r'(?m)(?P<prefix>\{\|[^\r\n]*?\bclass\s*=\s*"[^"\r\n]*?)'
@@ -827,9 +835,65 @@ def _repair_malformed_wikitext_table_attributes(value: str) -> str:
     return WIKITEXT_EMPTY_CELL_LINE_RE.sub(r"\g<marker>&nbsp;", cleaned)
 
 
+def _replace_wikitext_imagemaps(value: str) -> str:
+    """Render MediaWiki imagemaps as an image followed by their linked regions."""
+    def replace(match: re.Match[str]) -> str:
+        body = match.group("body").strip()
+        lines = body.splitlines()
+        if not lines:
+            return ""
+
+        header = lines[0].strip()
+        rect_start = re.search(r"\brect\s+-?\d+\s+-?\d+\s+-?\d+\s+-?\d+\s+\[", header)
+        if rect_start is not None:
+            header = header[: rect_start.start()].strip()
+
+        file_parts = header.split("|", 4)
+        file_target = file_parts[0].strip()
+        if not re.match(r"^(?:File|Image):", file_target, re.IGNORECASE):
+            file_markup = ""
+        else:
+            display_options = [part.strip() for part in file_parts[1:4] if part.strip()]
+            caption = file_parts[4].strip() if len(file_parts) == 5 else ""
+            caption = re.sub(
+                r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]",
+                lambda item: item.group(2) or item.group(1),
+                caption,
+            )
+            caption = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", caption)
+            caption = re.sub(r"\[([^\]]+)\]", r"\1", caption)
+            options = [*display_options, caption] if caption else display_options
+            file_markup = f"[[{file_target}"
+            if options:
+                file_markup += "|" + "|".join(options)
+            file_markup += "]]"
+
+        regions: list[str] = []
+        for rectangle in WIKITEXT_IMAGEMAP_RECT_RE.finditer(body):
+            target = rectangle.group("target").strip()
+            page, separator, label = target.partition("|")
+            page = page.removeprefix("[[").removesuffix("]]").strip()
+            label = label.strip()
+            if not page:
+                continue
+            link = f"[[{page}|{label}]]" if separator and label else f"[[{page}]]"
+            if link not in regions:
+                regions.append(link)
+
+        output = [file_markup] if file_markup else []
+        if regions:
+            if output:
+                output.append("")
+            output.extend(f"* {region}" for region in regions)
+        return "\n".join(output)
+
+    return WIKITEXT_IMAGEMAP_RE.sub(replace, value)
+
+
 def _sanitize_expanded_wikitext(value: str) -> str:
-    """Normalize parser metadata and malformed table/reference markup."""
-    cleaned = WIKITEXTPROCESSOR_ATTRIBUTE_RE.sub("", value)
+    """Normalize parser metadata, image maps, and malformed table/reference markup."""
+    cleaned = _replace_wikitext_imagemaps(value)
+    cleaned = WIKITEXTPROCESSOR_ATTRIBUTE_RE.sub("", cleaned)
     cleaned = _repair_malformed_wikitext_table_attributes(cleaned)
     return _strip_orphan_wikitext_ref_closers(cleaned)
 

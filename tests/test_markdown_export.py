@@ -583,9 +583,7 @@ def test_uses_material_list_template_is_replaced_with_recipe_table(
     assert not note
     assert not failed
     assert "| Item | Skills | Materials |" in markdown
-    assert (
-        "[Meat Curing Box](./Meat%20Curing%20Box.md)"
-    ) in markdown
+    assert ("[Meat Curing Box](./Meat%20Curing%20Box.md)") in markdown
     assert "Meat_Curing_Box_icon.png" not in markdown
     assert not (tmp_path / "assets" / "Meat_Curing_Box_icon.png").exists()
     assert "[Meat Curing Box](./Meat%20Curing%20Box.md)" in markdown

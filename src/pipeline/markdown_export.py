@@ -1130,7 +1130,7 @@ def _render_material_usage_table(
         )
         rendered_rows.append(
             "<tr><td>"
-            + '<a href="'
+             '<a href="'
             + recipe_link
             + '">'
             + html.escape(recipe_name)
@@ -2226,12 +2226,7 @@ def _export_one_page(
 
     expanded, expansion_error, expansion_errors, deferred_material_tables = (
         _expand_page(
-            page,
-            context,
-            preprocess,
-            infobox_defs,
-            stats,
-            material_usage_index,
+            page, context, preprocess, infobox_defs, stats, material_usage_index
         )
     )
     conversion = _convert_page_body(

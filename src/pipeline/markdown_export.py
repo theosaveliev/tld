@@ -811,6 +811,21 @@ def _detect_image_suffix(source: Path) -> str:
     return suffix
 
 
+def _find_image_source(
+    name: str, image_index: dict[str, Path]
+) -> Path | None:
+    """Find an exact asset or one unambiguous icon variant for an image target."""
+    key = normalize_image_name(name)
+    source = image_index.get(key)
+    if source is not None:
+        return source
+
+    requested = Path(key)
+    suffix = requested.suffix or ".png"
+    icon_key = f"{requested.stem}_icon{suffix}"
+    return image_index.get(icon_key)
+
+
 def _copy_image(
     name: str,
     image_index: dict[str, Path],
@@ -820,7 +835,7 @@ def _copy_image(
     used_names: dict[str, Path],
 ) -> str | None:
     """Copy one referenced image and return its output basename."""
-    source = image_index.get(normalize_image_name(name))
+    source = _find_image_source(name, image_index)
     if source is None or image_dir is None:
         return None
     if source in copied:
@@ -997,6 +1012,9 @@ def _rewrite_image_nodes(
     for image in list(root.iter("img")):
         source_name = image.get("src", "")
         image.set("loading", "lazy")
+        if not source_name.strip():
+            image.drop_tree()
+            continue
         image_title = image.get("title")
         if image_title and normalize_image_name(image_title) == normalize_image_name(
             source_name

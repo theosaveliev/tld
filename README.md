@@ -45,8 +45,8 @@ their destination articles, and referenced images are copied into `assets/`.
 Fandom galleries and image-layout tables are converted to ordinary Markdown
 blocks. Infoboxes and headered data tables retain their Markdown table
 structure, but images inside table cells are converted to ordinary links
-because Zettlr does not render embedded images in tables. Images without filename extensions are
-given one based on their file signatures when recognized.
+because Zettlr does not render embedded images in tables. Image extensions are
+inferred from recognized file signatures when the source filename has none.
 
 Alongside the primary `--image-dir`, the exporter searches a sibling directory
 named `<image-dir-name>_mismatch` for images not found in the primary directory;
